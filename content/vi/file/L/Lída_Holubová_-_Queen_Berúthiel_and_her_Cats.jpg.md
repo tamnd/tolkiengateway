@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"[Nữ hoàng](../../main/Q/Queen_of_Gondor.md) [Berúthiel](../../main/B/Berúthiel.md) và [Những chú mèo của cô ấy](../../main/C/Cats_of_Queen_Berúthiel.md)" của [Lída Holubová](../../main/L/Lída_Holubová.md)
+"[Nữ hoàng](../../main/Q/Queen_of_Gondor.md) [Berúthiel](../../main/B/Berúthiel.md) và [Những chú mèo của bà](../../main/C/Cats_of_Queen_Berúthiel.md)" của [Lída Holubová](../../main/L/Lída_Holubová.md)
 
 ## Giấy phép {#Licensing}
 

@@ -17,7 +17,7 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_1979_Calendar_of_J.R.R._Tolkien&#39;s_The_Lord_of_the_Rings.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/da/The_1979_Calendar_of_J.R.R._Tolkien%27s_The_Lord_of_the_Rings.jpg/300px-The_1979_Calendar_of_J.R.R._Tolkien%27s_The_Lord_of_the_Rings.jpg" decoding="async" loading="lazy" width="300" height="278" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/da/The_1979_Calendar_of_J.R.R._Tolkien%27s_The_Lord_of_the_Rings.jpg/450px-The_1979_Calendar_of_J.R.R._Tolkien%27s_The_Lord_of_the_Rings.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/d/da/The_1979_Calendar_of_J.R.R._Tolkien%27s_The_Lord_of_the_Rings.jpg/600px-The_1979_Calendar_of_J.R.R._Tolkien%27s_The_Lord_of_the_Rings.jpg 2x" data-file-width="1135" data-file-height="1050"/></a><figcaption></figcaption></figure>
 
-**Lịch năm 1979 của Chúa tể những chiếc nhẫn** của J.R.R. Tolkien được sản xuất bởi [Ballantine Books](../B/Ballantine_Books.md) với hình ảnh minh họa từ [Chúa tể của những chiếc nhẫn (phim 1978)](<The_Lord_of_the_Rings_(1978_film).md>).
+**Lịch năm 1979 của Chúa tể những chiếc nhẫn** của J.R.R. Tolkien được sản xuất bởi [Ballantine Books](../B/Ballantine_Books.md) với hình ảnh minh họa từ [The Lord of the Rings (1978 film)](<The_Lord_of_the_Rings_(1978_film).md>).
 
 - ISBN 345-27648-5-595
 - Kích thước: 13 x 12,25 inch

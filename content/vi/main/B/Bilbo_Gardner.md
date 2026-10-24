@@ -46,15 +46,15 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../H/Hobbits.md" title="Hobbits">Hobbit</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Bilbo Gardner</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="Bag_End.md" title="Bag End">Bag End</a>, <a href="../H/Hobbiton.md" title="Hobbiton">Hobbiton</a></td></tr><tr><th scope="row" class="tg-infobox-label">Birth</th><td class="tg-infobox-data"><a class="mw-redirect" href="../S/Shire_Reckoning.md" title="Shire Reckoning">S.R.</a> <a href="../F/Fourth_Age_15.md" title="Fourth Age 15">1436</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">Family</th><td class="tg-infobox-data"><a class="mw-redirect" href="../G/Gardner_Family~66367.md" title="Gardner Family">Gardner</a></td></tr><tr><th scope="row" class="tg-infobox-label">Parentage</th><td class="tg-infobox-data"><a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Samwise Gamgee</a> and <a href="../R/Rose_Cotton.md" title="Rose Cotton">Rose Cotton</a></td></tr><tr><th scope="row" class="tg-infobox-label">Siblings</th><td class="tg-infobox-data"><a href="../E/Elanor_Gardner.md" title="Elanor Gardner">Elanor</a>, <a href="../F/Frodo_Gardner.md" title="Frodo Gardner">Frodo</a>, <a href="../R/Rose_Gardner.md" title="Rose Gardner">Rose</a>, <a href="../M/Merry_Gardner.md" title="Merry Gardner">Merry</a>, <a href="../P/Pippin_Gardner.md" title="Pippin Gardner">Pippin</a>, <a href="../G/Goldilocks_Gardner.md" title="Goldilocks Gardner">Goldilocks</a>, <a href="../H/Hamfast_Gardner.md" title="Hamfast Gardner">Hamfast</a>, <a href="../D/Daisy_Gardner.md" title="Daisy Gardner">Daisy</a>, <a href="../P/Primrose_Gardner.md" title="Primrose Gardner">Primrose</a>, <a href="../R/Ruby_Gardner.md" title="Ruby Gardner">Ruby</a>, <a href="../R/Robin_Gardner.md" title="Robin Gardner">Robin</a> and <a href="../T/Tolman_Gardner.md" title="Tolman Gardner">Tolman</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr></tbody></table>
 
-**Bilbo Người làm vườn** là [Hobbit](../H/Hobbits.md) của [ Shire](../T/The_Shire.md).
+**Bilbo Gardner** là một [Hobbit](../H/Hobbits.md) của [Shire](../T/The_Shire.md).
 
 ## Lịch sử {#History}
 
-Bilbo là con thứ mười của [Samwise Gamgee](../S/Samwise_Gamgee.md) và [Rose Cotton](../R/Rose_Cotton.md). Anh được đặt theo tên [Bilbo Baggins](Bilbo_Baggins.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> vị anh hùng ngày xưa của cha anh.
+Bilbo là con thứ mười của [Samwise Gamgee](../S/Samwise_Gamgee.md) và [Rose Cotton](../R/Rose_Cotton.md). Ông được đặt theo tên của [Bilbo Baggins](Bilbo_Baggins.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> vị anh hùng ngày xưa của cha ông.
 
 ## Từ nguyên {#Etymology}
 
-Cái tên *Bilbo* là vô nghĩa trong [Hobbitish](../H/Hobbitish.md) [Westron](../W/Westron.md)đương đại. Nó đại diện cho một tên ban đầu *Bilba*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Cái tên *Bilbo* là vô nghĩa trong [Hobbitish](../H/Hobbitish.md) [Westron](../W/Westron.md) đương đại. Nó đại diện cho một tên ban đầu *Bilba*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

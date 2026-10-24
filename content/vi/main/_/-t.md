@@ -18,7 +18,7 @@ sort_keys:
 
 ## -t<sup>1</sup> {#-t1}
 
-Được sử dụng như một kết thúc kép, biểu thị *pair* của một cái gì đó, ví dụ: <i>márya<b>t</b></i> ("\[cặp\] tay của cô ấy").<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Được sử dụng như một kết thúc kép, biểu thị *pair* của một cái gì đó, ví dụ: <i>márya<b>t</b></i> ("\[cặp\] tay của bà").<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## -t<sup>2</sup> {#-t2}
 

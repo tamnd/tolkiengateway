@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "J.R.R. Tolkien: A Biography"
 ---
 
-Chuyển hướng tới [J.R.R. Tolkien: Tiểu sử](../J/J.R.R._Tolkien%253A_A_Biography.md).
+Chuyển hướng đến [J.R.R. Tolkien: A Biography](../J/J.R.R._Tolkien%253A_A_Biography.md).

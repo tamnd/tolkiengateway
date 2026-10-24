@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ettenmoors"
 ---
 
-Chuyển hướng đến [Ettenmoors](../E/Ettenmoors.md).
+Chuyển hướng tới [Ettenmoors](../E/Ettenmoors.md).

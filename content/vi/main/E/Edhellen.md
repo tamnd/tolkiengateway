@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sindarin"
 ---
 
-Chuyển hướng đến [Sindarin](../S/Sindarin.md).
+Chuyển hướng tới [Sindarin](../S/Sindarin.md).

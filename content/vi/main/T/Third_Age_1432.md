@@ -16,13 +16,13 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><a href="../F/First_Age.md" title="First Age">I</a><a href="../S/Second_Age.md" title="Second Age">II</a><b>III</b><a href="../F/Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="Third_Age_1366.md" title="Third Age 1366">1366</a><a href="Third_Age_1391.md" title="Third Age 1391">1391</a><a href="Third_Age_1409.md" title="Third Age 1409">1409</a><a class="mw-selflink selflink">1432</a><a href="Third_Age_1437.md" title="Third Age 1437">1437</a><a href="Third_Age_1447.md" title="Third Age 1447">1447</a><a href="Third_Age_1448.md" title="Third Age 1448">1448</a></div></div></div></div></div></div>
 
-**Kỷ Đệ Tam 1432** (viết tắt là **T.A. 1432**) là năm [thứ 1432 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Tam](Third_Age.md) của [Trung Địa](../M/Middle-earth.md).
+**Kỷ thứ ba 1432** (viết tắt là **T.A. 1432**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 1432 của [Kỷ thứ ba](Third_Age.md) của [Trung Địa](../M/Middle-earth.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 - Cái chết của [Vua](../K/Kings_of_Gondor.md) [Valacar](../V/Valacar.md) của [Gondor](../G/Gondor.md).<sup id="cite_ref-AppB2_1-0" class="reference"><a href="#cite_note-AppB2-1">[1]</a></sup>
 - [Eldacar](<../E/Eldacar_(King_of_Gondor).md>) trở thành [Vua](../K/Kings_of_Gondor.md) thứ 21 của [Gondor](../G/Gondor.md).<sup id="cite_ref-South_2-0" class="reference"><a href="#cite_note-South-2">[2]</a></sup>
-- Trong [Gondor](../G/Gondor.md), cuộc nội chiến của [Xung đột họ tộc](../K/Kin-strife~3650.md) bắt đầu.<sup id="cite_ref-AppB2_1-1" class="reference"><a href="#cite_note-AppB2-1">[1]</a></sup>
+- Tại [Gondor](../G/Gondor.md), cuộc nội chiến của [Kin-xung đột](../K/Kin-strife~3650.md) bắt đầu.<sup id="cite_ref-AppB2_1-1" class="reference"><a href="#cite_note-AppB2-1">[1]</a></sup>
 
 <span></span>
 

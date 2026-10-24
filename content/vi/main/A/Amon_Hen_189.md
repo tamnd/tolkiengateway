@@ -45,17 +45,17 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/AmonHen189.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/be/AmonHen189.jpg/320px-AmonHen189.jpg" decoding="async" loading="lazy" width="320" height="454" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/be/AmonHen189.jpg/480px-AmonHen189.jpg 1.5x, https://tolkiengateway.net/w/images/b/be/AmonHen189.jpg 2x" data-file-width="579" data-file-height="821"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Amon Hen 189</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="Andrew_Butler.md" title="Andrew Butler">Andrew Butler</a></td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data">Davide Cattaneo</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Printer</th><td class="tg-infobox-data"><a class="external text" href="http://www.horshampress.co.uk/" rel="noreferrer noopener" target="_blank">Horsham Press</a>, Horsham, UK</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../S/September.md" title="September">September</a> <a href="../_/2004.md" title="2004">2004</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">A5 stapled paperback, glossy</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">36</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0306-8781</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Amon_Hen_188.md" title="Amon Hen 188">Amon Hen 188</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Amon_Hen_190.md" title="Amon Hen 190">Amon Hen 190</a></td></tr></tbody></table>
 
-<b><i>Amon Hen</i> 189</b> là số thứ một trăm tám mươi chín của tạp chí hai tháng một lần của [Hội Tolkien](../T/The_Tolkien_Society.md) [Amon Hen](<Amon_Hen_(journal).md>), được xuất bản trên [tháng Chín](../S/September.md) [2004](../_/2004.md).
+<b><i>Amon Hen</i> 189</b> là số thứ một trăm tám mươi chín của tạp chí hai tháng một lần của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) [Amon Hen](<Amon_Hen_(journal).md>), xuất bản vào [tháng 9](../S/September.md) [2004](../_/2004.md).
 
 ## Nội dung {#Contents}
 
-- Bìa: *[Theoden](../T/Théoden.md) Vua và [Chúa tể của Nazgûl](../W/Witch-king.md)*
+- Bìa: *[Theoden](../T/Théoden.md) Vua và [Chúa tể Nazgûl](../W/Witch-king.md)*
     - Bởi: Davide Cattaneo
 - Biên tập
     - Bởi: [Andrew Butler](Andrew_Butler.md)
 - Nội dung
 - Quảng cáo: [Mithril Armory](../M/Mithril_Armoury.md)
-- [Bywater](../B/Bywater.md) Thông báo
+Thông báo - [Bywater](../B/Bywater.md)
     - Bởi: Malcolm Lindley
 - Thông báo
 - Điều gì sẽ xảy ra ở [Tolkien 2005](../T/Tolkien_2005.md)
@@ -64,13 +64,13 @@ infobox:
 - Quảng cáo: "Những số phận được chọn" của The Baldric Press
 - Bà chủ của tôi đã đến Lễ hội Học bổng và tất cả những gì bạn nhận được là bản báo cáo tệ hại này
     - Bởi: *[Beruthiel](../B/Berúthiel.md)'s Pet*
-- Cái [Hall of Fire](../H/Hall_of_Fire.md)
+- [Sảnh lửa](../H/Hall_of_Fire.md)
     - Bởi: Lynn Forest-Hill
 - Báo cáo: [Mythcon 35](../M/Mythcon_35.md)
     - Bởi: [Pat Reynolds](../P/Patricia_Reynolds.md)
 - Tác phẩm nghệ thuật: Không tên (Ảo tưởng xuyên Đại Tây Dương)
     - Bởi: [Pat Wynne](../P/Patrick_H._Wynne.md)
-- Báo cáo: Viện Chesterton "Phong cảnh với thiên thần"
+- Báo cáo: Viện Chesterton "Phong cảnh với những thiên thần"
     - Bởi: Vanessa Phillips
 - Phía sau cánh cửa kính
     - Bởi: [Sally Kennett](../S/Sally_Kennett.md)

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Eldacar (King of Gondor)"
 ---
 
-Chuyển hướng tới [Eldacar (Vua Gondor)](<../E/Eldacar_(King_of_Gondor).md>).
+Chuyển hướng đến [Eldacar (Vua Gondor)](<../E/Eldacar_(King_of_Gondor).md>).

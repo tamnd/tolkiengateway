@@ -16,7 +16,7 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/N/North_Borneo_Frodo_Society.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/76/North_Borneo_Frodo_Society.jpg/300px-North_Borneo_Frodo_Society.jpg" decoding="async" loading="lazy" width="300" height="168" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/7/76/North_Borneo_Frodo_Society.jpg 1.5x" data-file-width="350" data-file-height="196"/></a><figcaption></figcaption></figure>
 
-**Hội Frodo Bắc Borneo** là [Tolkien hội](../T/Tolkien_Societies~67099.md) ở Malaysia, do ông McKee thành lập năm 1971. Bản thân [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) là thành viên của hội này và thẻ thành viên của ông được sao chép trong *[The Tolkien Family Album](../T/The_Tolkien_Family_Album.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
+**Hiệp hội Frodo Bắc Borneo** là [Hiệp hội Tolkien](../T/Tolkien_Societies~67099.md) ở Malaysia, do ông McKee thành lập năm 1971. Bản thân [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) là thành viên của hiệp hội này và thẻ thành viên của ông được sao chép trong *[The Tolkien Family Album](../T/The_Tolkien_Family_Album.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

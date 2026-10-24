@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "House of the King"
 ---
 
-Chuyển hướng đến [Nhà của Vua](House_of_the_King.md).
+Chuyển hướng đến [Nhà vua](House_of_the_King.md).

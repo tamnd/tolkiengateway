@@ -14,13 +14,13 @@ sort_keys:
   "Sindarin suffixes": "Il"
 ---
 
-**-il** là một đuôi ít được chứng thực trong ngôn ngữ [Sindarin](../S/Sindarin.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> đôi khi được dùng để biểu thị giới tính nữ. Đối tác nam tính của nó là *[-on](-on.md)*.
+**-il** là một kết thúc ít được chứng thực trong ngôn ngữ [Sindarin](../S/Sindarin.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> đôi khi được sử dụng để biểu thị giới tính nữ. Đối tác nam tính của nó là *[-on](-on.md)*.
 
 Sự hiện diện của nó gây ra [i-tình cảm](../I/I-affection.md) đối với các nguyên âm của gốc (cf. *[brannon](../B/Brannon.md)* và <i><a href="../B/Brennil.md" title="Brennil">br<b>e</b>nn<b>i</b>l</a></i>).
 
 ## Từ nguyên {#Etymology}
 
-Có thể nó bắt nguồn từ đuôi [Common Eldarin](../C/Common_Eldarin.md) \**-illê*. Điều này được hỗ trợ bởi một số từ [Quenya](../Q/Quenya.md) kết thúc bằng *-illë* với Sindarin cùng nguồn gốc với *-il*; đáng chú ý nhất là so sánh Quenya <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Amille&amp;action=edit&amp;redlink=1" title="Amille (page does not exist)">amille</a></i> "mẹ" và Sindarin <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Emil&amp;action=edit&amp;redlink=1" title="Emil (page does not exist)">emil</a></i>.
+Có thể nó bắt nguồn từ đuôi [Common Eldarin](../C/Common_Eldarin.md) \**-illê*. Điều này được hỗ trợ bởi một số từ [Quenya](../Q/Quenya.md) kết thúc bằng *-illë* với các từ cùng nguồn gốc Sindarin trong *-il*; đáng chú ý nhất là so sánh "mẹ" Quenya <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Amille&amp;action=edit&amp;redlink=1" title="Amille (page does not exist)">amille</a></i> và Sindarin <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Emil&amp;action=edit&amp;redlink=1" title="Emil (page does not exist)">emil</a></i>.
 
 ## Ví dụ {#Examples}
 

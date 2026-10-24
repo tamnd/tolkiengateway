@@ -31,7 +31,7 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Matěj_Čadil_-_Brilthor.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/fa/Mat%C4%9Bj_%C4%8Cadil_-_Brilthor.jpg/300px-Mat%C4%9Bj_%C4%8Cadil_-_Brilthor.jpg" decoding="async" loading="lazy" width="300" height="390" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/fa/Mat%C4%9Bj_%C4%8Cadil_-_Brilthor.jpg/450px-Mat%C4%9Bj_%C4%8Cadil_-_Brilthor.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/f/fa/Mat%C4%9Bj_%C4%8Cadil_-_Brilthor.jpg/600px-Mat%C4%9Bj_%C4%8Cadil_-_Brilthor.jpg 2x" data-file-width="1232" data-file-height="1600"/></a><figcaption><i>Brilthor</i>by <a href="../M/Matěj_Čadil.md" title="Matěj Čadil">Matěj Čadil</a></figcaption></figure>
 
-**Brilthor** là một trong sáu con sông chảy xiết chảy về phía tây từ các ngọn núi của [Ered Luin](../E/Ered_Luin.md) để gặp dòng chảy dài của [Gelion](../G/Gelion.md) trên biên giới của [Ossiriand](../O/Ossiriand.md). Sông Brilthor nằm giữa sông [Legolin](../L/Legolin.md) và [Duilwen](../D/Duilwen.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Brilthor** là một trong sáu con sông chảy xiết chảy về phía tây từ dãy núi [Ered Luin](../E/Ered_Luin.md) để gặp dòng chảy dài của [Gelion](../G/Gelion.md) trên biên giới [Ossiriand](../O/Ossiriand.md). Sông Brilthor nằm giữa sông [Legolin](../L/Legolin.md) và [Duilwen](../D/Duilwen.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

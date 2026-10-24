@@ -28,7 +28,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"[The Mùa Đông Dài](../../main/L/Long_Winter.md), [1158](../../main/T/Third_Age_2758.md): [Gandalf](../../main/G/Gandalf.md) Giúp [Hobbit](../../main/H/Hobbits.md)" bởi [Miriam Ellis](../../main/M/Miriam_Ellis.md)
+"[The Mùa Đông Dài](../../main/L/Long_Winter.md), [1158](../../main/T/Third_Age_2758.md): [Gandalf](../../main/G/Gandalf.md) Giúp đỡ [Hobbit](../../main/H/Hobbits.md)" của [Miriam Ellis](../../main/M/Miriam_Ellis.md)
 
 ## Giấy phép {#Licensing}
 

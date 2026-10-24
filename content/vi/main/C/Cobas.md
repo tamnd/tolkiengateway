@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Cobas Haven"
 ---
 
-Chuyển hướng đến [Cobas Haven](Cobas_Haven.md).
+Chuyển hướng tới [Cobas Haven](Cobas_Haven.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "A Map of Middle-earth"
 ---
 
-Chuyển hướng đến [A Map of Middle-earth](../A/A_Map_of_Middle-earth.md).
+Chuyển hướng tới [Bản đồ Trung địa](../A/A_Map_of_Middle-earth.md).

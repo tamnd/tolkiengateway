@@ -20,15 +20,15 @@ images:
 
 <figure class="mw-default-size mw-halign-left" typeof="mw:File"><a class="mw-file-description" href="../../file/M/Malta.gif.md"><img src="https://tolkiengateway.net/w/images/9/96/Malta.gif" decoding="async" loading="lazy" width="53" height="65" class="mw-file-element" data-file-width="53" data-file-height="65"/></a><figcaption></figcaption></figure>
 
-*Malta* cũng là tên trong Quenya chữ cái thứ mười tám của bảng chữ cái [Tengwar](../T/Tengwar.md).<sup id="cite_ref-Names_1-1" class="reference"><a href="#cite_note-Names-1">[1]</a></sup> Đây là chữ cái thứ hai của lớp năm hay [Tyellë](../T/Tyellë.md), chứa các phụ âm "mũi" và là chữ cái thứ năm trong chuỗi phụ âm môi hoặc *p*, *[Parmatéma](../P/Parmatéma.md)*. Trong hầu hết các chế độ, chữ cái này đại diện cho **M**.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Tuy nhiên, trong [Chế độ Beleriand](Mode_of_Beleriand.md), *Malta* đại diện cho **MM**, một sự xuất hiện phổ biến trong [Sindarin](../S/Sindarin.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Tên Westron cho chữ cái này là <i><b>Mí</b></i>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+*Malta* cũng là tên bằng tiếng Quenya của chữ cái thứ mười tám trong bảng chữ cái [Tengwar](../T/Tengwar.md).<sup id="cite_ref-Names_1-1" class="reference"><a href="#cite_note-Names-1">[1]</a></sup> Đây là chữ cái thứ hai của lớp năm hay [Tyellë](../T/Tyellë.md), chứa các phụ âm "mũi" và là chữ cái thứ năm trong chuỗi phụ âm môi hoặc *p*, *[Parmatéma](../P/Parmatéma.md)*. Trong hầu hết các chế độ, chữ cái này đại diện cho **M**.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Tuy nhiên, trong [Chế độ Beleriand](Mode_of_Beleriand.md), *Malta* đại diện cho **MM**, một sự xuất hiện phổ biến trong [Sindarin](../S/Sindarin.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Tên Westron cho chữ cái này là <i><b>Mí</b></i>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Từ này bắt nguồn từ [Primitive Quendian](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) [SMAL](../S/SMAL.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Từ này bắt nguồn từ [Quendian nguyên thủy](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) [SMAL](../S/SMAL.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Xem thêm {#See_also}
 
-- <a class="external text" href="http://www.uib.no/People/hnohf/qlist.htm" rel="noreferrer noopener" target="_blank">Quenya Danh sách từ ngữ liệu</a> được chỉnh sửa bởi [Helge Fauskanger](../H/Helge_Fauskanger.md)
+- <a class="external text" href="http://www.uib.no/People/hnohf/qlist.htm" rel="noreferrer noopener" target="_blank">Danh sách từ Quenya Corpus</a> được chỉnh sửa bởi [Helge Fauskanger](../H/Helge_Fauskanger.md)
 
 <span></span>
 

@@ -62,15 +62,15 @@ Sự kiện xảy ra vào ngày 5 tháng 6
 
 ## Trên Trái đất {#On_Earth}
 
-- **[1946](1946.md)** - Diễn viên [John Bạch](../J/John_Bach.md) ra đời.
+- **[1946](1946.md)** - Diễn viên [John Bach](../J/John_Bach.md) ra đời.
 - **[1953](1953.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 137b](../L/Letter_137b.md).
 - **[1953](1953.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 137c](../L/Letter_137c.md).
-- **[1955](1955.md)** – Harvey Breit viết một bài về [Tolkien](../J/J.R.R._Tolkien.md) trên *New York Times Book Review*. Breit kể về "Tiến sĩ [Tolkein](../T/Tolkein.md)" và còn nhiều lỗi khác. Tolkien sau đó viết [một bức thư giận dữ về việc đó](../L/Letter_165.md).
-- **[1959](1959.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) chuyển [Địa chỉ có giá trị tới Đại học Oxford](../V/Valedictory_Address_to_the_University_of_Oxford.md).
+- **[1955](1955.md)** – Harvey Breit viết một bài về [Tolkien](../J/J.R.R._Tolkien.md) trên *New York Times Book Review*. Breit kể về "Tiến sĩ [Tolkein](../T/Tolkein.md)" và còn nhiều lỗi khác. Tolkien sau đó đã viết [một bức thư giận dữ về việc đó](../L/Letter_165.md).
+- **[1959](1959.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) trao [Diễn văn tốt nghiệp cho Đại học Oxford](../V/Valedictory_Address_to_the_University_of_Oxford.md).
 - **[1973](1973.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 352](../L/Letter_352.md).
-- **[1973](1973.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư cho James A.H. Murray](../L/Letter_to_James_A.H._Murray.md).
-- **[2003](2003.md)** - [Andy Serkis](../A/Andy_Serkis.md) giành được <a class="external text" href="http://en.wikipedia.org/wiki/MTV_Movie_Awards" rel="noreferrer noopener" target="_blank">Giải thưởng Điện ảnh MTV</a> cho "Nhân vật hoạt hình xuất sắc nhất" cho vai diễn [Gollum](../G/Gollum.md). <a class="external text" href="https://www.youtube.com/watch?v=wdebYE103sA" rel="noreferrer noopener" target="_blank">bài phát biểu nhận giải bất hủ</a> của anh sẽ giành được [2004](2004.md) <a class="extiw" href="http://en.wikipedia.org/wiki/Hugo_Award" title="wikipedia:Hugo Award">Giải thưởng Hugo</a> cho "Bài thuyết trình kịch hay nhất, dạng ngắn".
-- **[2004](2004.md)** - [The Lord of the Rings Bản giao hưởng](../T/The_Lord_of_the_Rings_Symphony.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Atlanta" title="wikipedia:Atlanta">Atlanta</a> Nhà hát giao hưởng, <a class="extiw" href="http://en.wikipedia.org/wiki/Georgia_(U.S._state)" title="wikipedia:Georgia (U.S. state)">Georgia</a>.
+- **[1973](1973.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư gửi James A.H. Murray](../L/Letter_to_James_A.H._Murray.md).
+- **[2003](2003.md)** - [Andy Serkis](../A/Andy_Serkis.md) giành <a class="external text" href="http://en.wikipedia.org/wiki/MTV_Movie_Awards" rel="noreferrer noopener" target="_blank">Giải thưởng điện ảnh MTV</a> cho "Nhân vật hoạt hình xuất sắc nhất" cho vai diễn [Gollum](../G/Gollum.md). <a class="external text" href="https://www.youtube.com/watch?v=wdebYE103sA" rel="noreferrer noopener" target="_blank">bài phát biểu nhận giải bất hủ</a> của anh sẽ giành được [2004](2004.md) <a class="extiw" href="http://en.wikipedia.org/wiki/Hugo_Award" title="wikipedia:Hugo Award">Giải thưởng Hugo</a> cho "Bài thuyết trình kịch hay nhất, dạng ngắn".
+- **[2004](2004.md)** - [The Lord of the Rings Symphony](../T/The_Lord_of_the_Rings_Symphony.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Atlanta" title="wikipedia:Atlanta">Atlanta</a> Nhà hát Giao hưởng, <a class="extiw" href="http://en.wikipedia.org/wiki/Georgia_(U.S._state)" title="wikipedia:Georgia (U.S. state)">Georgia</a>.
 - **[2008](2008.md)** - Lễ kỷ niệm sinh nhật lần thứ 36 của [Forodrim](../F/Forodrim.md).
 
 ## Trong Arda {#In_Arda}

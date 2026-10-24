@@ -28,7 +28,7 @@ langlinks:
     url: "https://lotr.su/wiki/%C3%9Avanimo"
 ---
 
-<i><b>úvanimo</b></i>, hoặc *úvano*, có nghĩa là "một con quái vật, sinh vật hư hỏng hoặc xấu xa" trong [Quenya](../Q/Quenya.md).<sup id="cite_ref-PE150_1-0" class="reference"><a href="#cite_note-PE150-1">[1]</a></sup> Từ *úvanimo* cũng xuất hiện trong *[Etymologies](../T/The_Etymologies.md)*, có nghĩa là "quái vật (sinh vật của [Melko](../M/Morgoth.md))" (được hiển thị sai thành "*Úvanimor*" viết hoa trong ấn phẩm đã xuất bản văn bản).<sup id="cite_ref-LR_2-0" class="reference"><a href="#cite_note-LR-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+<i><b>úvanimo</b></i>, hoặc *úvano*, có nghĩa là "một con quái vật, sinh vật hư hỏng hoặc xấu xa" trong [Quenya](../Q/Quenya.md).<sup id="cite_ref-PE150_1-0" class="reference"><a href="#cite_note-PE150-1">[1]</a></sup> Từ *úvanimo* cũng xuất hiện trong *[Etymologies](../T/The_Etymologies.md)*, có nghĩa là "quái vật (sinh vật của [Melko](../M/Morgoth.md))" (được hiển thị sai thành "*Úvanimor*" viết hoa trong văn bản đã xuất bản).<sup id="cite_ref-LR_2-0" class="reference"><a href="#cite_note-LR-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 Những sinh vật được xác định bằng thuật ngữ này bao gồm Quái vật, [Người khổng lồ](../G/Giants.md) và [Ogre](../O/Ogres.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
@@ -39,7 +39,7 @@ Những sinh vật được xác định bằng thuật ngữ này bao gồm Qu�
 ## Có cùng nguồn gốc {#Cognates}
 
 - [Quenya](../Q/Quenya.md): *vanima* ("đẹp")<sup id="cite_ref-PE150_1-2" class="reference"><a href="#cite_note-PE150-1">[1]</a></sup><sup id="cite_ref-LR_2-2" class="reference"><a href="#cite_note-LR-2">[2]</a></sup>
-- [Exilic Noldorin](../N/Noldorin.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=%C3%9Aan&amp;action=edit&amp;redlink=1" title="Úan (page does not exist)">úan</a></i> ("quái vật")<sup id="cite_ref-LR_2-3" class="reference"><a href="#cite_note-LR-2">[2]</a></sup>
+- [Noldorin lưu đày](../N/Noldorin.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=%C3%9Aan&amp;action=edit&amp;redlink=1" title="Úan (page does not exist)">úan</a></i> ("quái vật")<sup id="cite_ref-LR_2-3" class="reference"><a href="#cite_note-LR-2">[2]</a></sup>
 
 <span></span>
 

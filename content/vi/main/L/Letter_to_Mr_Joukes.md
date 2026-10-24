@@ -16,12 +16,12 @@ sort_keys:
 
 Vào [28 tháng 8](../_/28_August.md) [1967](../_/1967.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho ông S.E.O. Joukes** (có vẻ là người gốc Hà Lan<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>).
 
-- **Nội dung:** Ông Joukes muốn đặt tên cho con gái mình là *[Ioreth](../I/Ioreth.md)*nhưng Tolkien viết rằng nó có nghĩa là 'bà già' trong Elvish (Tolkien cũng lưu ý rằng cái tên đó có lẽ không xuất hiện ở bên ngoài *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*). Hơn nữa, Tolkien viết về bản dịch của tên *[Arwen](../A/Arwen.md)*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+- **Nội dung:** Ông Joukes muốn đặt tên cho con gái mình *[Ioreth](../I/Ioreth.md)*, nhưng Tolkien viết rằng nó có nghĩa là 'bà già' trong tiếng Elvish (Tolkien cũng lưu ý rằng cái tên này có lẽ không xuất hiện bên ngoài *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*). Hơn nữa, Tolkien còn viết về bản dịch của cái tên *[Arwen](../A/Arwen.md)*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 - **Xuất bản:** *[Hobbits in Holland: Leven en werk van JRR Tolkien (1892-1973)](../H/Hobbits_in_Holland.md)*. Một đoạn trích cũng đã được xuất bản trong *[The Lord of the Rings: A Reader's Companion](../T/The_Lord_of_the_Rings%253A_A_Reader's_Companion.md)* (tr. 68).
 
 ## Trích {#Excerpt}
 
-"\[*Arwen*\] có nghĩa là trong Elvish 'thiếu nữ cao quý', nhưng ... nó cũng là một từ trong [tiếng Wales](../W/Welsh.md) có nghĩa là 'may mắn lớn'" <span></span>
+"\[*Arwen*\] có nghĩa là 'thiếu nữ cao quý' trong tiếng Elvish, nhưng ... nó cũng là một từ trong [xứ Wales](../W/Welsh.md) có nghĩa là 'may mắn lớn'" <span></span>
 
 ## Tài liệu tham khảo {#References}
 

@@ -21,11 +21,11 @@ langlinks:
     url: "https://kontu.wiki/Uusi_lasku"
 ---
 
-[Aragorn](../A/Aragorn.md) **Tính toán mới** của [Vua Elessar](../K/King_Elessar.md) là hệ thống lịch được giới thiệu trong [Gondor](../G/Gondor.md) ngay sau [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md) và nhằm thay thế [Tính toán của người quản lý](../S/Stewards'_Reckoning.md). Nó đã trở thành lịch chung của [Vương quốc Thống nhất](../R/Reunited_Kingdom.md) trong [Kỷ Đệ Tứ](../F/Fourth_Age.md), ngoại trừ ở [The Shire](../T/The_Shire.md) nơi việc sử dụng [Lịch Shire](../S/Shire_Calendar.md) vẫn tiếp tục.
+[Aragorn](../A/Aragorn.md) **Tính toán mới** của [Vua Elessar](../K/King_Elessar.md) là hệ thống lịch được giới thiệu ở [Gondor](../G/Gondor.md) ngay sau [War of the Ring](../W/War_of_the_Ring.md) và nhằm thay thế [Tính toán của Người quản lý](../S/Stewards'_Reckoning.md). Nó đã trở thành lịch chung của [Vương quốc Thống nhất](../R/Reunited_Kingdom.md) trong [Kỷ thứ Tư](../F/Fourth_Age.md), ngoại trừ ở [The Shire](../T/The_Shire.md) nơi việc sử dụng [Lịch Shire](../S/Shire_Calendar.md) vẫn tiếp tục.
 
 Đặc điểm chính của lịch **Tính toán mới** là năm bắt đầu vào ngày kỷ niệm ngày [Chiếc Nhẫn Chúa](../T/The_One_Ring.md) bị phá hủy.
 
-Đặc điểm đáng chú ý khác của nó là sinh nhật của [Frodo Baggins](../F/Frodo_Baggins.md), ngày 30 [Yavannië](../Y/Yavannië.md) trong **Tính toán mới** tương ứng với [22 Halimath](../_/22_September.md) trong [Lịch Shire](../S/Shire_Calendar.md), đã được tổ chức thành một lễ hội để vinh danh [Người Mang Nhẫn](../R/Ring-bearer.md). Trong những năm nhuận, 30 Yavannië tương ứng với 21 Halimath trong Lịch Shire (do ngày nhuận [Overlithe](../O/Overlithe.md) của nó vào giữa mùa hè), do đó ngày nhuận **New Reckoning** được chèn vào giữa *Yavannië* và *[Enderi](../E/Enderi.md)*, đồng thời bữa tiệc sinh nhật của Frodo, được gọi là *[Cormarë](../C/Cormarë.md)* hay "Ringday", được nhân đôi vào năm nhuận.<sup id="cite_ref-D2_1-0" class="reference"><a href="#cite_note-D2-1">[1]</a></sup>
+Đặc điểm đáng chú ý khác của nó là sinh nhật của [Frodo Baggins](../F/Frodo_Baggins.md), ngày 30 [Yavannië](../Y/Yavannië.md) trong **Tính toán mới** tương ứng với [22 Halimath](../_/22_September.md) trong [Lịch Shire](../S/Shire_Calendar.md), được tổ chức thành một lễ hội để vinh danh [Người mang nhẫn](../R/Ring-bearer.md). Trong những năm nhuận, 30 Yavannië tương ứng với 21 Halimath trong Lịch Quận (do có ngày nhuận [Overlithe](../O/Overlithe.md) vào giữa mùa hè), nên ngày nhuận **Tính toán mới** được chèn vào giữa *Yavannië* và *[Enderi](../E/Enderi.md)*, và bữa tiệc sinh nhật của Frodo, được gọi là *[Cormarë](../C/Cormarë.md)* hay "Ringday", được nhân đôi vào năm nhuận.<sup id="cite_ref-D2_1-0" class="reference"><a href="#cite_note-D2-1">[1]</a></sup>
 
 ## Cấu trúc {#Structure}
 
@@ -164,4 +164,4 @@ langlinks:
 
 ## Liên kết ngoài {#External_links}
 
-- Dự án <a class="external text" href="https://psarando.github.io/shire-reckoning" rel="noreferrer noopener" target="_blank">Shire Tính toán</a>, dành riêng cho việc mô phỏng và phân tích chi tiết tất cả các lịch của *The Lord of the Rings* [Phụ lục D](../A/Appendix_D.md).
+- Dự án <a class="external text" href="https://psarando.github.io/shire-reckoning" rel="noreferrer noopener" target="_blank">Shire Reckoning</a>, dành riêng cho việc mô phỏng và phân tích chi tiết tất cả các lịch của *The Lord of the Rings* [Phụ lục D](../A/Appendix_D.md).

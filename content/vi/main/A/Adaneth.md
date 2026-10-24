@@ -15,7 +15,7 @@ categories:
 
 <i><b>adaneth</b></i> là [Sindarin](../S/Sindarin.md) để chỉ một "người phụ nữ phàm trần".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Đúng ra, từ này chỉ đề cập đến những người phụ nữ có nguồn gốc từ [Ba Nhà Bạn Yêu Tinh](../E/Edain.md).
 
-Trong *[Athrabeth Finrod ah Andreth](Athrabeth_Finrod_ah_Andreth.md)* Vua [Finrod](../F/Finrod.md) đề cập đến [Andreth](Andreth.md) là *adaneth*, nhấn mạnh sự thật rằng cô ấy là một người phàm, bởi vì cuộc tranh luận của họ tập trung vào "vực sâu chia cắt dòng tộc chúng ta".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Trong *[Athrabeth Finrod ah Andreth](Athrabeth_Finrod_ah_Andreth.md)* Vua [Finrod](../F/Finrod.md) đề cập đến [Andreth](Andreth.md) là *adaneth*, nhấn mạnh sự thật rằng bà là một người phàm, bởi vì cuộc tranh luận của họ tập trung vào "vực sâu chia cắt dòng tộc chúng ta".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

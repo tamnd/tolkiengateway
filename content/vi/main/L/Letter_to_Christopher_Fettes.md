@@ -14,7 +14,7 @@ sort_keys:
   "Letters": "Fettes, Christopher (1961)"
 ---
 
-Trong [1961](../_/1961.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) gửi Christopher Fettes**.<sup id="cite_ref-HC_1-0" class="reference"><a href="#cite_note-HC-1">[1]</a></sup>
+Trong [1961](../_/1961.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho Christopher Fettes**.<sup id="cite_ref-HC_1-0" class="reference"><a href="#cite_note-HC-1">[1]</a></sup>
 
 - **Chủ đề:** Tolkien viết câu trả lời cho câu hỏi của Christopher Fettes về lý do tại sao Tolkien dường như coi cả [Tom Bombadil](../T/Tom_Bombadil.md) và [Treebeard](../T/Treebeard.md) là sinh vật sống lâu đời nhất.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 - **Xuất bản:** Một đoạn trích lớn từ bức thư được xuất bản lần đầu ở [*Amon Hen* 173](../A/Amon_Hen_173.md), sau đó được in lại ở *[The Lord of the Rings: A Reader's Companion](../T/The_Lord_of_the_Rings%253A_A_Reader's_Companion.md)*.<sup id="cite_ref-HC_1-1" class="reference"><a href="#cite_note-HC-1">[1]</a></sup>

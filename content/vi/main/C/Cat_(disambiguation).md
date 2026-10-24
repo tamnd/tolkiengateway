@@ -19,7 +19,7 @@ images:
 - [Mèo](Cats.md), loài động vật sống ở [Arda](../A/Arda.md).
     - Những chú mèo [của Nữ hoàng Berúthiel](Cats_of_Queen_Berúthiel.md).
 - [Con mèo (thơ)](<Cat_(poem).md>), một bài thơ của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
-- [Tevildo](../T/Tevildo.md), Thân vương của Cats, một nhân vật bị bỏ rơi sau này được thay thế bằng [Sauron](../S/Sauron.md).
+- [Tevildo](../T/Tevildo.md), Hoàng tử mèo, một nhân vật bị bỏ rơi sau đó được thay thế bởi [Sauron](../S/Sauron.md).
 - Tinker, chú mèo trong *[Roverandom](../R/Roverandom.md)*.
 
 <hr style="margin-top:15px;"/>

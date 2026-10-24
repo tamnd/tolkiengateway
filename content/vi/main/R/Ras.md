@@ -19,7 +19,7 @@ categories:
 
 - *[Caradhras](../C/Caradhras.md)* - "Sừng đỏ"
 - *[Nimras](../B/Barad_Nimras.md)* - "Sừng Trắng"
-- *[Ered Nimrais](../E/Ered_Nimrais.md)* - "Dãy Núi Trắng", tức là Dãy Núi Trắng
+- *[Ered Nimrais](../E/Ered_Nimrais.md)* - "Núi Trắng", tức là Dãy núi Trắng
 
 <span></span>
 

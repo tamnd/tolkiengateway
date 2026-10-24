@@ -24,14 +24,14 @@ images:
 <p class="tg-quote-footer"><cite><a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Sam</a></cite></p>
 </blockquote></div></div>
 
-<i><b>Bêl</b></i> là gốc động từ có nghĩa là "kết bạn" hoặc "yêu" trong [Adûnaic](../A/Adûnaic.md).<sup id="cite_ref-:0_1-0" class="reference"><a href="#cite_note-:0-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-:1_3-0" class="reference"><a href="#cite_note-:1-3">[3]</a></sup>
+<i><b>Bêl</b></i> là một gốc động từ có nghĩa là "kết bạn" hoặc "yêu" trong [Adûnaic](../A/Adûnaic.md).<sup id="cite_ref-:0_1-0" class="reference"><a href="#cite_note-:0-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-:1_3-0" class="reference"><a href="#cite_note-:1-3">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
 ## Xem thêm {#See_also}
 
-- [Belzagar](../A/Ar-Belzagar.md) có thể là bản dịch Adûnaic của từ [Quenya](../Q/Quenya.md) [*Calmacil*](../T/Tar-Calmacil.md), có nghĩa là "Kiếm ánh sáng".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Trong trường hợp này *bêl* có thể có nghĩa là "ánh sáng". Không rõ liệu [Tolkien](../J/J.R.R._Tolkien.md) đã thay đổi ý nghĩa của *bêl* tại một số điểm hay liệu hai ý nghĩa này cùng tồn tại<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>.
-- *[Azrubêl](../A/Azrubêl.md)* từ *Azar* ("biển") và gốc -bêl, dịch là "Biển-người yêu"<sup id="cite_ref-:0_1-1" class="reference"><a href="#cite_note-:0-1">[1]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup><sup id="cite_ref-:1_3-1" class="reference"><a href="#cite_note-:1-3">[3]</a></sup>.
+- [Belzagar](../A/Ar-Belzagar.md) có thể là bản dịch Adûnaic của từ [Quenya](../Q/Quenya.md) [*Calmacil*](../T/Tar-Calmacil.md), có nghĩa là "Kiếm ánh sáng".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Trong trường hợp này *bêl* có thể có nghĩa là "ánh sáng". Không rõ liệu [Tolkien](../J/J.R.R._Tolkien.md) đã thay đổi ý nghĩa của *bêl* ở một thời điểm nào đó hay liệu hai ý nghĩa này có cùng tồn tại<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>hay không.
+- *[Azrubêl](../A/Azrubêl.md)* từ *Azar* ("biển") và gốc -bêl, dịch là "Người yêu biển"<sup id="cite_ref-:0_1-1" class="reference"><a href="#cite_note-:0-1">[1]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup><sup id="cite_ref-:1_3-1" class="reference"><a href="#cite_note-:1-3">[3]</a></sup>.
 
 ## Tài liệu tham khảo {#References}
 

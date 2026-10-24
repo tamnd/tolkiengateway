@@ -21,8 +21,8 @@ Vào [30 tháng 3](../_/30_March.md) [1951](../_/1951.md), Tolkien đã viết m
 
 ## Lịch sử {#History}
 
-Derdziński kể rằng anh ta biết đến sự tồn tại của bức thư thông qua việc liên lạc với cháu gái của người nhận, <a class="new" href="https://tolkiengateway.net/w/index.php?title=Charlaine_Tolkien&amp;action=edit&amp;redlink=1" title="Charlaine Tolkien (page does not exist)">Charlaine Tolkien</a>, người đã liên hệ với anh ta qua ancestry.com. Bản gốc dường như đã thất lạc nhưng bản ghi chép do Florence viết tay vẫn được bảo tồn.
+Derdziński kể rằng ông ta biết đến sự tồn tại của bức thư thông qua việc liên lạc với cháu gái của người nhận, <a class="new" href="https://tolkiengateway.net/w/index.php?title=Charlaine_Tolkien&amp;action=edit&amp;redlink=1" title="Charlaine Tolkien (page does not exist)">Charlaine Tolkien</a>, người đã liên hệ với ông ta qua ancestry.com. Bản gốc dường như đã thất lạc nhưng bản ghi chép do Florence viết tay vẫn được bảo tồn.
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://tolkniety.blogspot.com/2019/04/unpublished-letter-of-j-r-r-tolkien-on.html" rel="noreferrer noopener" target="_blank">Bức thư chưa được biết trước đây của J. R. R. Tolkien gửi tổ tiên của anh ấy từ Ba Lan! (1951)</a> trên <a class="external text" href="https://tolkniety.blogspot.com/" rel="noreferrer noopener" target="_blank">Tolkniety</a>
+- <a class="external text" href="http://tolkniety.blogspot.com/2019/04/unpublished-letter-of-j-r-r-tolkien-on.html" rel="noreferrer noopener" target="_blank">Bức thư chưa được biết trước đây của J. R. R. Tolkien gửi tổ tiên của ông từ Ba Lan! (1951)</a> trên <a class="external text" href="https://tolkniety.blogspot.com/" rel="noreferrer noopener" target="_blank">Tolkniety</a>

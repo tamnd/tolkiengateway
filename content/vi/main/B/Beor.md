@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Bëor"
 ---
 
-Chuyển hướng đến [Bëor](Bëor.md).
+Chuyển hướng tới [Bëor](Bëor.md).

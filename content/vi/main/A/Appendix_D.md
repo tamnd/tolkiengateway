@@ -17,11 +17,11 @@ langlinks:
     url: "https://kontu.wiki/Appendix_D"
 ---
 
-**Phụ lục D** là Phụ lục thứ tư của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* và có tên là *Calendars*. Trong đó, Tolkien phác thảo các hệ thống lịch khác nhau được sử dụng trong [Trung Địa](../M/Middle-earth.md). Chúng bao gồm [Lịch Shire](../S/Shire_Calendar.md), Lịch Imladris (hoặc [Tính toán Rivendell](../R/Reckoning_of_Rivendell.md)) và [Gondor](../G/Gondorian.md) hệ thống [Tính toán của các vị vua](../K/Kings'_Reckoning.md) (kế thừa từ [người Númenor](../N/Númenóreans.md)), [Tính toán của quản gia](../S/Stewards'_Reckoning.md) và [Tính toán mới](../N/New_Reckoning.md).
+**Phụ lục D** là Phụ lục thứ tư của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* và có tên là *Calendars*. Trong đó, Tolkien phác thảo các hệ thống lịch khác nhau được sử dụng ở [Trung địa](../M/Middle-earth.md). Chúng bao gồm [Lịch Quận](../S/Shire_Calendar.md), Lịch Imladris (hoặc [Tính toán Rivendell](../R/Reckoning_of_Rivendell.md)) và các hệ thống [Gondorian](../G/Gondorian.md) của [Tính toán của các vị vua](../K/Kings'_Reckoning.md) (được kế thừa từ [Númenóreans](../N/Númenóreans.md)), [Tính toán của quản gia](../S/Stewards'_Reckoning.md) và [Tính toán mới](../N/New_Reckoning.md).
 
-Đặc biệt chú trọng đến Lịch Shire, nơi cung cấp bảng đầy đủ các ngày và tháng trong năm.
+Đặc biệt nổi bật là Lịch Quận, trong đó cung cấp một bảng đầy đủ các ngày và tháng trong năm.
 
-Phụ lục này còn nêu tên các mùa, tháng, ngày trong tuần đối với các lịch Rivendell và Gondor trong [Quenya](../Q/Quenya.md) và [Sindarin](../S/Sindarin.md), tên các tháng, ngày trong tuần theo Lịch Shire.
+Phụ lục này cũng đưa ra tên các mùa, tháng và ngày trong tuần đối với lịch Rivendell và Gondor ở [Quenya](../Q/Quenya.md) và [Sindarin](../S/Sindarin.md), cũng như tên các tháng và ngày trong tuần theo Lịch Quận.
 
 <br clear="all"/>
 

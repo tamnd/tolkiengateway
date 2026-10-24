@@ -35,7 +35,7 @@ infobox:
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
-**The Curse of Fëanor** là ca khúc thứ sáu trong album chủ đề Tolkien của [Blind Guardian](../B/Blind_Guardian.md), *[Nightfall in Middle-Earth](../N/Nightfall_in_Middle-Earth.md)*. [Fëanor](../F/Fëanor.md) thể hiện sự tức giận nhưng không hối hận và không đi chệch khỏi mục tiêu giành lại [Silmaril](../S/Silmarils.md).
+**The Curse of Fëanor** là ca khúc thứ sáu trong album chủ đề Tolkien của [Blind Guardian](../B/Blind_Guardian.md), *[Nightfall in Middle-Earth](../N/Nightfall_in_Middle-Earth.md)*. [Fëanor](../F/Fëanor.md) thể hiện sự tức giận nhưng không hối hận và không đi chệch khỏi mục tiêu giành lại [Silmarils](../S/Silmarils.md).
 
 ## Lời bài hát {#Lyrics}
 

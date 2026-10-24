@@ -24,9 +24,9 @@ images:
 
 **Marya Filatova** (tên khai sinh [1982](../_/1982.md)), được biết đến với biệt danh trên web **Filat** hoặc **Rittare**, là một nghệ sĩ người Nga, người sáng tạo nghệ thuật dựa trên [huyền thoại](../L/Legendarium.md) của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
-Trong cuộc sống hàng ngày, cô làm kế toán và nhân viên tài chính nhưng dành thời gian rảnh rỗi cho J.R.R. Tolkien và nghệ thuật. Cô ấy là một nghệ sĩ tự học nhưng như cô ấy nói, cô ấy đã vẽ nghệ thuật lấy cảm hứng từ Tolkien kể từ khi cô ấy đọc *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* lần đầu tiên vào năm 1995. Chất liệu ưa thích của cô ấy là màu nước.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Trong cuộc sống hàng ngày, cô làm kế toán và nhân viên tài chính nhưng dành thời gian rảnh rỗi cho J.R.R. Tolkien và nghệ thuật. Bà là một nghệ sĩ tự học nhưng như bà nói, bà đã vẽ những tác phẩm nghệ thuật lấy cảm hứng từ Tolkien kể từ lần đầu đọc *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* vào năm 1995. Chất liệu ưa thích của bà là màu nước.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Cô chuyên vẽ chân dung các nhân vật trong [Kỷ Đệ Nhất](../F/First_Age.md), chủ yếu là [Tiên tộc](../E/Elves.md) trong *[The Silmarillion](../T/The_Silmarillion.md)*, thực hiện nhiều bức tranh và tranh vẽ về các nhân vật thường không được các nghệ sĩ lựa chọn. Nhưng cô ấy cũng vẽ phong cảnh, nhiều bức trong số đó dựa trên những bức ảnh của chính cô ấy và về những địa điểm ở Caucasus Dãy Núi.
+Cô chuyên vẽ chân dung các nhân vật từ [Thời kỳ đầu tiên](../F/First_Age.md), chủ yếu là [Yêu tinh](../E/Elves.md) từ *[The Silmarillion](../T/The_Silmarillion.md)*, thực hiện nhiều bức tranh và bản vẽ về các nhân vật thường không được các nghệ sĩ lựa chọn. Nhưng bà cũng vẽ phong cảnh, nhiều bức trong số đó dựa trên những bức ảnh của chính bà và về những địa điểm ở Dãy núi Caucasus.
 
 ## Xem thêm {#See_also}
 

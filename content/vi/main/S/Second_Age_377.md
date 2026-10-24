@@ -16,7 +16,7 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="../T/Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><a href="../F/First_Age.md" title="First Age">I</a><b>II</b><a href="../T/Third_Age.md" title="Third Age">III</a><a href="../F/Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="Second_Age_350.md" title="Second Age 350">350</a><a href="Second_Age_361.md" title="Second Age 361">361</a><a href="Second_Age_371.md" title="Second Age 371">371</a><a class="mw-selflink selflink">377</a><a href="Second_Age_382.md" title="Second Age 382">382</a><a href="Second_Age_395.md" title="Second Age 395">395</a><a href="Second_Age_442.md" title="Second Age 442">442</a></div></div></div></div></div></div>
 
-**Kỷ thứ hai 377** (viết tắt là **S.A. 377**) là năm [thứ 377 thuộc Mặt Trời](../Y/Years_of_the_Sun.md) của [Kỷ thứ hai](Second_Age.md) của [Trung Địa](../M/Middle-earth.md).
+**Kỷ thứ hai 377** (viết tắt là **S.A. 377**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 377 của [Kỷ thứ hai](Second_Age.md) của [Trung Địa](../M/Middle-earth.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:John Magoun - Moral Geography of Middle-earth.png"
 ---
 
-Chuyển hướng đến [Tệp:John Magoun - Địa lý đạo đức của Trung Địa.png](John_Magoun_-_Moral_Geography_of_Middle-earth.png.md).
+Chuyển hướng tới [Tệp:John Magoun - Địa lý đạo đức của Trung Địa.png](John_Magoun_-_Moral_Geography_of_Middle-earth.png.md).

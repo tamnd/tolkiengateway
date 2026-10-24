@@ -28,7 +28,7 @@ infobox:
 
 **Asmodee** (chính thức là **Asmodee Group AB**) là một công ty xuất bản trên máy tính bảng của Pháp/Thụy Điển. Được thành lập lần đầu tiên vào năm 1995 tại Boulogne-Billancourt, Pháp, kể từ đó, họ đã phát triển ồ ạt, kể từ đó đã có được nhiều cái tên nổi tiếng trong lĩnh vực trò chơi trên máy tính bảng, bao gồm [Trò chơi máy bay giả tưởng](../F/Fantasy_Flight_Games.md), <a class="new" href="https://tolkiengateway.net/w/index.php?title=Z-Man_Games&amp;action=edit&amp;redlink=1" title="Z-Man Games (page does not exist)">Trò chơi Z-Man</a>, Catan Studio và nhiều trò chơi khác.
 
-Bản thân họ đã được Eurazeo mua lại vào năm 2014, bán cho PAI Partners vào năm 2018 và được [Embracer Group](../E/Embracer_Group.md) mua lại vào năm 2022. Họ lại được tách thành công ty độc lập của riêng mình vào năm 2025, chính thức được thành lập tại Thụy Điển. Cuối năm đó, họ được bổ nhiệm làm nhà quản lý danh mục độc quyền cho tất cả các trò chơi trên máy tính bảng được cấp phép của [Trung Địa Doanh nghiệp](../M/Middle-earth_Enterprises.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Bản thân họ đã được Eurazeo mua lại vào năm 2014, bán cho PAI Partners vào năm 2018 và được [Embracer Group](../E/Embracer_Group.md) mua lại vào năm 2022. Họ lại được tách thành công ty độc lập của riêng mình vào năm 2025, chính thức được thành lập tại Thụy Điển. Cuối năm đó, họ được bổ nhiệm làm nhà quản lý danh mục độc quyền cho tất cả các trò chơi trên máy tính bảng được cấp phép của [Doanh nghiệp Trung Địa](../M/Middle-earth_Enterprises.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ### Các công ty con {#Subsidiaries}
 

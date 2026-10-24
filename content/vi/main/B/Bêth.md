@@ -18,13 +18,13 @@ sort_keys:
   "Adûnaic words": "Beth"
 ---
 
-**Bêth** là một [Adûnaic](../A/Adûnaic.md) từ để "nói" hoặc "biểu hiện", hoặc đôi khi được dùng làm tác nhân "người nói, người nói".
+**Bêth** là một từ [Adûnaic](../A/Adûnaic.md) để chỉ "nói" hoặc "biểu hiện", hoặc đôi khi được sử dụng như một "người nói, người nói" tác nhân.
 
 ## Từ nguyên {#Etymology}
 
 [Gốc](../S/Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=BITH&amp;action=edit&amp;redlink=1" title="BITH (page does not exist)">BITH</a>.
 
-Rõ ràng đó là khoản vay từ [Sindarin](../S/Sindarin.md) *[peth](../P/Peth.md)*.
+Rõ ràng đây là khoản vay từ [Sindarin](../S/Sindarin.md) *[peth](../P/Peth.md)*.
 
 ## Ví dụ {#Example}
 

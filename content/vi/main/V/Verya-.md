@@ -13,11 +13,11 @@ categories:
   - "Quenya verbs"
 ---
 
-<i><b>verya-</b></i> là động từ [Quenya](../Q/Quenya.md) có nghĩa là "kết hôn (của vợ và chồng), gắn bó với nhau".<sup id="cite_ref-Vinyar_1-0" class="reference"><a href="#cite_note-Vinyar-1">[1]</a></sup> Trước đây Quenya, thuật ngữ "kết hôn" là *vesta-*,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> trong khi *verya-* có nghĩa là "dám".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+<i><b>verya-</b></i> là một [Quenya](../Q/Quenya.md) động từ có nghĩa là "kết hôn (của vợ và chồng), gắn bó với nhau".<sup id="cite_ref-Vinyar_1-0" class="reference"><a href="#cite_note-Vinyar-1">[1]</a></sup> Ở Quenya trước đây, thuật ngữ "kết hôn" là *vesta-*,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> trong khi *verya-* có nghĩa là "dám".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-- [Gốc](../R/Root.md) BER ("kết đôi, kết đôi, kết hôn")<sup id="cite_ref-Vinyar_1-1" class="reference"><a href="#cite_note-Vinyar-1">[1]</a></sup>
+- [Gốc](../R/Root.md) BER ("giao phối, kết hôn, kết hôn")<sup id="cite_ref-Vinyar_1-1" class="reference"><a href="#cite_note-Vinyar-1">[1]</a></sup>
 
 ## Các hình thức khác {#Other_forms}
 

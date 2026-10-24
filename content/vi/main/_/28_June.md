@@ -65,14 +65,14 @@ Sự kiện xảy ra vào ngày 28 tháng 6
 
 ## Trên Trái đất {#On_Earth}
 
-- **[1915](1915.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) nộp hồ sơ tại [Oxford](../O/Oxford.md) văn phòng tuyển dụng để gia nhập [quân đội](../W/World_War_I.md).
+- **[1915](1915.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) nộp đơn tại văn phòng tuyển dụng [Oxford](../O/Oxford.md) để gia nhập [quân đội](../W/World_War_I.md).
 - **[1915](1915.md)** - Học giả và là bạn của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) [Przemyslaw Mroczkowski](../P/Przemyslaw_Mroczkowski.md) ra đời.
 - **[1922](1922.md)** - Diễn viên [Erik Bauersfeld](../E/Erik_Bauersfeld.md) ra đời.
 - **[1919](1919.md)** - Hiệp ước Versailles được ký kết và Thế chiến thứ nhất chính thức kết thúc.
 - **[1981](1981.md)** - Tập thứ mười bảy của [loạt phim phát thanh năm 1981](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* được phát sóng trên [BBC Radio 4](../B/BBC.md).
 - **[1982](1982.md)** - Nghệ sĩ [Ray Dillon](../R/Ray_Dillon.md) ra đời.
-- **[2000](2000.md)** – Nhóm [Tolkien Ensemble](../T/Tolkien_Ensemble.md) xuất bản album thứ hai, *[A Night in Rivendell](../A/A_Night_in_Rivendell.md)*.
-- **[2009](2009.md)** - [* Inklings của Oxford: C. S. Lewis, J. R. R. Tolkien và bạn bè của họ*](../T/The_Inklings_of_Oxford.md) được xuất bản.
+- **[2000](2000.md)** – [Tolkien Ensemble](../T/Tolkien_Ensemble.md) xuất bản album thứ hai, *[A Night in Rivendell](../A/A_Night_in_Rivendell.md)*.
+- **[2009](2009.md)** - [*The Inklings of Oxford: C. S. Lewis, J. R. R. Tolkien, and Their Friends*](../T/The_Inklings_of_Oxford.md) được xuất bản.
 
 ## Trong Arda {#In_Arda}
 

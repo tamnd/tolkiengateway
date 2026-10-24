@@ -14,7 +14,7 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Kopalski, Jacek"
 ---
 
-- Jacek Kopalski đã vui lòng cho phép sử dụng [các tác phẩm nghệ thuật được chọn của mình](../../category/I/Images_by_Jacek_Kopalski.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
+- Jacek Kopalski đã vui lòng cho phép ông sử dụng [các tác phẩm nghệ thuật đã chọn của mình](../../category/I/Images_by_Jacek_Kopalski.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
     - Chúng tôi chỉ có thể sử dụng tác phẩm được đăng trên <a class="external text" href="http://www.jacekkopalski.com/else.html" rel="noreferrer noopener" target="_blank">trang web của Jacek Kopalski</a> và [File:Jacek Kopalski - Náin tại Azanulbizar.jpg](../../file/J/Jacek_Kopalski_-_Náin_at_Azanulbizar.jpg.md).
 - Ngày: 8 tháng 8 năm 2012
 - Người dùng đã xin phép qua email: [Người dùng:KingAragorn](https://tolkiengateway.net/wiki/User:KingAragorn)

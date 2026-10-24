@@ -12,7 +12,7 @@ categories:
   - "Tolkien Gateway"
 ---
 
-**Nghiên cứu ban đầu** đề cập đến những tuyên bố trong các bài viết không có nguồn được xuất bản. Mặc dù các biên tập viên trên Tolkien Gateway chủ yếu được khuyến khích trích dẫn nguồn cho các nhận định trong bài viết (xem [Trợ giúp:Tài liệu tham khảo](../../help/R/References.md)), nhưng một lượng nghiên cứu ban đầu có giới hạn có thể được sử dụng cho các lý thuyết hoặc giả định:
+**Nghiên cứu ban đầu** đề cập đến những tuyên bố trong các bài viết không có nguồn được xuất bản. Mặc dù các biên tập viên trên Tolkien Gateway chủ yếu được khuyến khích trích dẫn nguồn cho các tuyên bố trong bài viết (xem [Trợ giúp:Tài liệu tham khảo](../../help/R/References.md)), một lượng nghiên cứu ban đầu có giới hạn có thể được sử dụng cho các lý thuyết hoặc giả định:
 
 - khi một tuyên bố không được tham chiếu có giá trị học thuật rõ ràng cho chủ đề được đề cập
 - khi một tuyên bố không được tham chiếu đặc biệt hữu ích hoặc thú vị đối với chủ đề được đề cập
@@ -24,7 +24,7 @@ Nếu nghiên cứu ban đầu được thêm vào hoặc tìm thấy trong mộ
 
 ## Chính sách {#Policy}
 
-Cần lưu ý rằng [Tolkien Gateway](../../main/T/Tolkien_Gateway.md) khác với chính sách <a class="extiw" href="http://en.wikipedia.org/wiki/Wikipedia:No_original_research" title="wikipedia:Wikipedia:No original research">Không có nghiên cứu gốc</a> của Wikipedia theo bản chất *not forbidding* "Nghiên cứu gốc". Tất nhiên, nếu cuối cùng một nguồn bằng văn bản được tìm thấy để hỗ trợ cho một tuyên bố chưa được tham chiếu trước đó thì nguồn đó phải được đưa vào và 'lấp đầy khoảng trống'. Điều tương tự cũng phải xảy ra nếu một nguồn bằng văn bản thay thế hoặc lỗi thời một lý thuyết không được tham chiếu như vậy.
+Cần lưu ý rằng [Cổng Tolkien](../../main/T/Tolkien_Gateway.md) khác với chính sách <a class="extiw" href="http://en.wikipedia.org/wiki/Wikipedia:No_original_research" title="wikipedia:Wikipedia:No original research">Không có nghiên cứu gốc</a> của Wikipedia theo *not forbidding* "Nghiên cứu gốc" về bản chất. Tất nhiên, nếu cuối cùng một nguồn bằng văn bản được tìm thấy để hỗ trợ cho một tuyên bố chưa được tham chiếu trước đó thì nguồn đó phải được đưa vào và 'lấp đầy khoảng trống'. Điều tương tự cũng phải xảy ra nếu một nguồn bằng văn bản thay thế hoặc lỗi thời một lý thuyết không được tham chiếu như vậy.
 
 ## Nghiên cứu ban đầu và fanon {#Original_research_and_fanon}
 

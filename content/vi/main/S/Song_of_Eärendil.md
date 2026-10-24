@@ -25,21 +25,21 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Anke_Eißmann_-_Frodo&#39;s_dream_of_Eärendil.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/de/Anke_Ei%C3%9Fmann_-_Frodo%27s_dream_of_E%C3%A4rendil.jpg/300px-Anke_Ei%C3%9Fmann_-_Frodo%27s_dream_of_E%C3%A4rendil.jpg" decoding="async" loading="lazy" width="300" height="244" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/de/Anke_Ei%C3%9Fmann_-_Frodo%27s_dream_of_E%C3%A4rendil.jpg/450px-Anke_Ei%C3%9Fmann_-_Frodo%27s_dream_of_E%C3%A4rendil.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/d/de/Anke_Ei%C3%9Fmann_-_Frodo%27s_dream_of_E%C3%A4rendil.jpg/600px-Anke_Ei%C3%9Fmann_-_Frodo%27s_dream_of_E%C3%A4rendil.jpg 2x" data-file-width="837" data-file-height="680"/></a><figcaption><i>Frodo&#39;s dream of Eärendil</i> by <a href="../A/Anke_Eißmann.md" title="Anke Eißmann">Anke Eißmann</a></figcaption></figure>
 
-"**Eärendil từng là một thủy thủ**", còn được gọi là <i><b>Đoạn ngắn của Eärendel: Eärendillinwë</b></i>,<sup id="cite_ref-F_1-0" class="reference"><a href="#cite_note-F-1">[1]</a></sup> hay chỉ là <i><b>Eärendillinwë</b></i>,<sup id="cite_ref-Final_2-0" class="reference"><a href="#cite_note-Final-2">[2]</a></sup> là một bài hát được viết bởi [Bilbo](../B/Bilbo_Baggins.md) và [Aragorn](../A/Aragorn.md) và được hát bởi Bilbo khi [Hobbit](../H/Hobbits.md) đạt [Rivendell](../R/Rivendell.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+"**Eärendil là một thủy thủ**", còn được gọi là <i><b>The Short Lay of Eärendel: Eärendillinwë</b></i>,<sup id="cite_ref-F_1-0" class="reference"><a href="#cite_note-F-1">[1]</a></sup> hay chỉ là <i><b>Eärendillinwë</b></i>,<sup id="cite_ref-Final_2-0" class="reference"><a href="#cite_note-Final-2">[2]</a></sup> là một bài hát được viết bởi [Bilbo](../B/Bilbo_Baggins.md) và [Aragorn](../A/Aragorn.md), được Bilbo hát khi [Người Hobbit](../H/Hobbits.md) tới [Rivendell](../R/Rivendell.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Người ta tin rằng bài hát này là sự làm lại của một bài thơ vô nghĩa trước đó *[Errantry](../E/Errantry.md)*, rất có thể cũng được sáng tác bởi Bilbo sau khi anh trở về từ [Quest for Erebor](../Q/Quest_for_Erebor.md), kết hợp nhẹ nhàng các yếu tố Elvish. Có lẽ vì Bilbo tự hào về các thiết bị đo lường của *Errantry'* nên anh ấy đã biến đổi và áp dụng (một cách không phù hợp) bài thơ đó vào các truyền thuyết về [Kỷ Đệ Nhất](../F/First_Age.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Aragorn đóng góp của anh ấy bao gồm yêu cầu về một [viên ngọc xanh](../E/Elfstone.md) trong bài hát; Bilbo tuân theo, nhưng gọi nó là ngọc lục bảo một cách không chính xác.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Người ta tin rằng bài hát này được làm lại từ một bài thơ vô nghĩa trước đó *[Errantry](../E/Errantry.md)*, rất có thể cũng được sáng tác bởi Bilbo sau khi anh trở về từ [Quest for Erebor](../Q/Quest_for_Erebor.md), kết hợp nhẹ nhàng các yếu tố Tiên. Có lẽ vì Bilbo tự hào về các thiết bị đo lường của *Errantry* nên ông đã biến đổi và áp dụng (một cách không phù hợp) bài thơ đó vào các truyền thuyết của [Thời đại thứ nhất](../F/First_Age.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Những đóng góp của Aragorn bao gồm yêu cầu về một [viên ngọc xanh](../E/Elfstone.md) trong bài hát; Bilbo vâng lời, nhưng lại gọi nó là ngọc lục bảo một cách không chính xác.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Chia bài thơ {#Division_of_the_poem}
 
-1. Giới thiệu về [Eärendil](../E/Eärendil.md) và việc đóng [con tàu](../V/Vingilot.md) của anh ấy
-2. Mô tả chi tiết về anh ta, dòng cuối cùng được cho là chịu ảnh hưởng của [Aragorn](../A/Aragorn.md)
-3. Mô tả chuyến đi tìm kiếm [Valinor](../V/Valinor.md) không có kết quả của anh ấy
-4. Làm thế nào [Elwing](../E/Elwing.md) vợ anh ta bay đến chỗ anh ta trong hình dạng một con chim và buộc viên ngọc vào trán anh ta
-5. Làm thế nào anh ấy tìm thấy Valinor
-6. Về việc anh ấy ở đó
-7. Họ đã đóng một con tàu mới cho anh ấy như thế nào và [Elbereth](../V/Varda.md) đã trao cho anh ấy đôi cánh như thế nào
-8. Anh ấy đã rời đi như thế nào Valinor
-9. Anh ấy đã vượt qua [Trung Địa](../M/Middle-earth.md) như thế nào và trở thành [ngôi sao](Star_of_Eärendil.md)
+1. Giới thiệu về [Eärendil](../E/Eärendil.md) và cách đóng [con tàu](../V/Vingilot.md) của ông
+2. Mô tả chi tiết về ông ta, dòng cuối cùng được cho là chịu ảnh hưởng của [Aragorn](../A/Aragorn.md)
+3. Mô tả về chuyến lang thang không có kết quả của ông để tìm kiếm [Valinor](../V/Valinor.md)
+4. Làm thế nào [Elwing](../E/Elwing.md) vợ ông ta bay đến chỗ ông ta trong hình dạng một con chim và buộc viên ngọc vào trán ông ta
+5. Làm thế nào ông tìm thấy Valinor
+6. Về việc ông ở đó
+7. Họ đóng một con tàu mới cho ông như thế nào và [Elbereth](../V/Varda.md) đã trao cho ông đôi cánh như thế nào
+8. Ông rời Valinor như thế nào
+9. Làm thế nào ông vượt qua [Trung địa](../M/Middle-earth.md) và trở thành [ngôi sao](Star_of_Eärendil.md)
 
 ## Đồng hồ và âm thanh {#Metre_and_assonance}
 
@@ -55,7 +55,7 @@ un<span style="color: green;">heralded</span> he <span style="color: blue;">home
 </p>
 </div>
 
-Ở đây "bỏ chạy" có vần với "sped", nhưng ngoài ra, nguyên âm của "foam" cũng giống như nguyên âm đầu tiên của "homeward". Vì vậy, các đơn vị phù hợp là "bọt anh chạy trốn" và "về nhà tăng tốc". Một cặp đơn vị phù hợp khác là "lái anh ta" và "mù quáng". Một cái khác là "không sai lầm" và "\[un\]được báo trước".
+Ở đây "bỏ chạy" có vần với "sped", nhưng ngoài ra, nguyên âm của "foam" cũng giống như nguyên âm đầu tiên của "homeward". Vì vậy, các đơn vị phù hợp là "bọt anh chạy trốn" và "về nhà tăng tốc". Một cặp đơn vị phù hợp khác là "lái ông ta" và "mù quáng". Một cái khác là "không sai lầm" và "\[un\]được báo trước".
 
 Mô hình đó giống nhau xuyên suốt bài thơ. Trong mỗi bộ bốn dòng, ba âm tiết cuối của dòng đầu tiên khớp với âm tiết thứ hai, thứ ba và thứ tư của dòng thứ hai. Dòng thứ ba và thứ tư có cùng kiểu kết hợp. Và ba âm tiết cuối của dòng thứ hai khớp với ba âm tiết của dòng thứ tư, thường có vần chính xác ở cuối.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[note 2]</a></sup>
 
@@ -115,29 +115,29 @@ the <a class="mw-redirect" href="../F/Flammifer.md" title="Flammifer">Flammifer<
 
 ## Cảm hứng {#Inspiration}
 
-*Eärendil* bắt nguồn từ bài thơ trước đó của Tolkien *[Errantry](../E/Errantry.md)* (đã xuất bản [1933](../_/1933.md)). Trong bản nháp của *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)*, *Errantry* đã phát triển theo từng giai đoạn và đạt đến dạng xuất bản cuối cùng sau mười lăm lần sửa đổi.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[7]</a></sup> *Errantry* cuối cùng đã được xuất bản lại trong *[The Adventures of Tom Bombadil](../T/The_Adventures_of_Tom_Bombadil.md)*. Cả *Errantry* và *Eärendil* đều sử dụng mẫu âm thanh do chính Tolkien sáng chế: phụ âm ba âm tiết hoặc gần như phụ âm.<sup id="cite_ref-l133_7-1" class="reference"><a href="#cite_note-l133-7">[6]</a></sup><sup id="cite_ref-ABcomm_10-0" class="reference"><a href="#cite_note-ABcomm-10">[8]</a></sup> Thực tế này đã được lưu truyền vào huyền thoại, vì Lời nói đầu của *The Adventures of Tom Bombadil* nói rằng Bilbo có lẽ đã tự hào về máy đo của mình và sử dụng nó làm hình mẫu cho *Earendil*.
+*Eärendil* bắt nguồn từ bài thơ trước đó của Tolkien *[Errantry](../E/Errantry.md)* (đã xuất bản [1933](../_/1933.md)). Trong bản nháp của *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)*, *Errantry* đã phát triển theo từng giai đoạn và đạt đến dạng xuất bản cuối cùng sau mười lăm lần sửa đổi.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[7]</a></sup> *Errantry* cuối cùng đã được xuất bản lại trong *[The Adventures of Tom Bombadil](../T/The_Adventures_of_Tom_Bombadil.md)*. Cả *Errantry* và *Eärendil* đều sử dụng mẫu âm thanh do chính Tolkien phát minh: phụ âm ba âm tiết hoặc gần như phụ âm.<sup id="cite_ref-l133_7-1" class="reference"><a href="#cite_note-l133-7">[6]</a></sup><sup id="cite_ref-ABcomm_10-0" class="reference"><a href="#cite_note-ABcomm-10">[8]</a></sup> Thực tế này đã được lưu truyền vào huyền thoại, khi Lời nói đầu của *The Adventures of Tom Bombadil* nói rằng Bilbo có lẽ tự hào về máy đo của mình và sử dụng nó làm hình mẫu cho *Earendil*.
 
 ## Các phiên bản khác của Legendarium {#Other_versions_of_the_Legendarium}
 
 Trong số các phiên bản khác nhau của bài thơ, có một phiên bản mà [Christopher Tolkien](../C/Christopher_Tolkien.md) tin rằng rất có thể cha ông dự định xuất bản thay vì phiên bản trên, được xuất bản trên *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)*.<sup id="cite_ref-Final_2-1" class="reference"><a href="#cite_note-Final-2">[2]</a></sup><sup id="cite_ref-F_1-1" class="reference"><a href="#cite_note-F-1">[1]</a></sup>
 
-Tiêu đề *Eärendillinwë* (đôi khi *Earendillínwë* có *í* dài) là tiêu đề xuất hiện trong nhiều bản nháp khác nhau nhưng không có trong văn bản đã xuất bản của *Fellowship*.<sup id="cite_ref-F_1-2" class="reference"><a href="#cite_note-F-1">[1]</a></sup> Cách viết <i>Earend<b>e</b>l</i> thuộc về các phiên bản trước của Legendarium, như khi ký tự xuất hiện lần đầu trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.
+Tiêu đề *Eärendillinwë* (đôi khi *Earendillínwë* có *í* dài) là tiêu đề xuất hiện trong nhiều bản nháp khác nhau nhưng không có trong văn bản đã xuất bản của *Fellowship*.<sup id="cite_ref-F_1-2" class="reference"><a href="#cite_note-F-1">[1]</a></sup> Cách viết <i>Earend<b>e</b>l</i> thuộc về các phiên bản trước của Legendarium, như khi nhân vật xuất hiện lần đầu trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.
 
 ## Xem thêm {#See_also}
 
 - *[Errantry](../E/Errantry.md)*
-- [Đoạn của một điệp âm của Eärendel](../F/Fragment_of_an_alliterative_Lay_of_Eärendel.md)
-- <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Lay_of_E%C3%A4rendil&amp;action=edit&amp;redlink=1" title="Lay of Eärendil (page does not exist)">Lớp Eärendil</a></i>
+- [Mảnh của Lay of Eärendel ám chỉ](../F/Fragment_of_an_alliterative_Lay_of_Eärendel.md)
+- <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Lay_of_E%C3%A4rendil&amp;action=edit&amp;redlink=1" title="Lay of Eärendil (page does not exist)">Vị trí của Eärendil</a></i>
 - [Thơ trong *The Lord of the Rings*](../P/Poems_in_The_Lord_of_the_Rings.md)
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://www.councilofelrond.com/poem/the-short-lay-of-earendel-earendillinwe/" rel="noreferrer noopener" target="_blank">Eärendillinwë</a>, dạng mới nhất của Bài hát Eärendil, chưa được xuất bản trong *Fellowship*
+- <a class="external text" href="http://www.councilofelrond.com/poem/the-short-lay-of-earendel-earendillinwe/" rel="noreferrer noopener" target="_blank">Eärendillinwë</a>, dạng mới nhất của Bài hát của Eärendil, chưa được xuất bản trong *Fellowship*
 
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text">Nhiều bài thơ trong <i>The Lord of the Rings</i> đều ở dạng mét này.</span>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text">Nhiều bài thơ trong <i>Chúa tể của những chiếc nhẫn</i> đều ở dạng mét này.</span>
 </li>
 <li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text">Phụ âm tuân theo tiêu chuẩn <a class="extiw" href="http://en.wikipedia.org/wiki/Received_Pronuncuation" title="wikipedia:Received Pronuncuation">Cách phát âm</a> của Anh. Các cặp bao gồm "f<b>a</b>r"/"l<b>a</b>st", "p<b>a</b>ths"/"T<b>a</b>rmenel", "bey<b>o</b>nd"/"str<b>o</b>ng", "<b>a</b>rrows"/"dr<b>a</b>gon", "ag<b>ai</b>n"/"aw<b>ay</b>" và "s<b>a</b>w"/"sh<b>or</b>e" có cùng nguyên âm trong RP nhưng không có nhiều nguyên âm Cách phát âm của người Mỹ và người Canada.</span>
 </li>

@@ -20,7 +20,7 @@ images:
 
 Vào [12 tháng 1](../_/12_January.md) [1966](../_/1966.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho David Hicks**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-- **Tiêu đề:** Tolkien nêu ý kiến ​​về những bức ảnh do ông Hicks gửi cho Tolkien.
+- **Chủ đề:** Tolkien đưa ra quan điểm của mình về những bức ảnh do ông Hicks gửi cho Tolkien.
 
 ## Phiên âm {#Transcription}
 

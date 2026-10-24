@@ -28,11 +28,11 @@ categories:
 <li><a href="The_Earliest_Annals_of_Beleriand.md" title="The Earliest Annals of Beleriand">The Earliest Annals of Beleriand</a></li></ol>
 </td></tr></tbody></table>
 
-**The Earliest 'Silmarillion'** là chương thứ hai của *[The Shaping of Middle-earth](The_Shaping_of_Middle-earth.md)*. Còn được gọi là **Sketch of the Mythology**, đây là phiên bản 'đầu tiên' của *Silmarillion*, được viết bằng [1926](../_/1926.md) bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
+**'Silmarillion'** sớm nhất là chương thứ hai của *[The Shaping of Middle-earth](The_Shaping_of_Middle-earth.md)*. Còn được gọi là **Bản phác thảo Thần thoại**, đây là phiên bản 'đầu tiên' của *Silmarillion*, được viết bằng [1926](../_/1926.md) bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
 ## Tóm tắt {#Synopsis}
 
-Ban đầu được viết như một bản phác thảo để giải thích bối cảnh của từ ám chỉ *[Lay of the Children of Húrin](../L/Lay_of_the_Children_of_Húrin.md)* cho gia sư và người bạn cũ của Tolkien <a class="new" href="https://tolkiengateway.net/w/index.php?title=R.W._Reynolds&amp;action=edit&amp;redlink=1" title="R.W. Reynolds (page does not exist)">R.W. Reynolds</a>, sau này nó trở thành nền tảng mà tất cả các phiên bản sau này của *Silmarillion* đều bắt nguồn. Theo lời của Tolkien:
+Ban đầu được viết dưới dạng dàn ý để giải thích bối cảnh của từ ám chỉ *[Lay of the Children of Húrin](../L/Lay_of_the_Children_of_Húrin.md)* cho gia sư và người bạn cũ của Tolkien <a class="new" href="https://tolkiengateway.net/w/index.php?title=R.W._Reynolds&amp;action=edit&amp;redlink=1" title="R.W. Reynolds (page does not exist)">R.W. Reynolds</a>, sau này nó trở thành nền tảng mà tất cả các phiên bản sau này của *Silmarillion* đều bắt nguồn. Theo lời của Tolkien:
 
 <blockquote class="tg-quote noexcerpt">
 <p>Original &#39;Silmarillion&#39;. Form orig[inally] composed c. 1926-30 for R.W. Reynolds to explain background of &#39;alliterative version&#39; of Túrin &amp; the Dragon: then in progress (unfinished) (begun c. <a href="../_/1918.md" title="1918">1918</a>)
@@ -40,4 +40,4 @@ Ban đầu được viết như một bản phác thảo để giải thích b�
 <p class="tg-quote-footer"><cite>Envelope containing the manuscript</cite></p>
 </blockquote>
 
-Mặc dù chỉ dài 28 trang nhưng câu chuyện trong Bản phác thảo tiến bộ rất nhiều từ *[The Book of Lost Tales](The_Book_of_Lost_Tales.md)*, tiến gần đến hình thức cuối cùng ở hầu hết các khía cạnh, mặc dù cực kỳ cô đọng. Hơn nữa, bản thảo sau đó đã được sửa đổi rất nhiều trước khi được thay thế bằng *[Quenta Noldorinwa](../Q/Quenta_Noldorinwa.md)* trong [1930](../_/1930.md). Do đó, [Christopher](../C/Christopher.md) đưa ra văn bản đúng như lúc viết lần đầu nhưng bổ sung thêm các phần sửa đổi kèm theo ghi chú ở cuối các phần được đánh số. 19 phần này được anh viết rõ ràng nên anh có thể bình luận văn bản dễ dàng hơn, so sánh với các văn bản trước và sau, như *Quenta Noldorinwa*, có cùng số.
+Mặc dù chỉ dài 28 trang nhưng câu chuyện trong Bản phác thảo tiến bộ rất nhiều từ *[The Book of Lost Tales](The_Book_of_Lost_Tales.md)*, tiến gần đến hình thức cuối cùng ở hầu hết các khía cạnh, mặc dù cực kỳ cô đọng. Hơn nữa, bản thảo sau đó đã được sửa đổi rất nhiều trước khi được thay thế bằng *[Quenta Noldorinwa](../Q/Quenta_Noldorinwa.md)* trong [1930](../_/1930.md). Vì vậy, [Christopher](../C/Christopher.md) đưa ra nội dung chính xác như lúc đầu viết nhưng bổ sung thêm những phần sửa đổi kèm theo ghi chú ở cuối các phần được đánh số. 19 phần này được anh viết rõ ràng nên anh có thể bình luận văn bản dễ dàng hơn, so sánh với các văn bản trước và sau, như *Quenta Noldorinwa*, có cùng số.

@@ -21,7 +21,7 @@ langlinks:
     url: "https://kontu.wiki/D%C3%ADrnaith"
 ---
 
-**Dírnaith**, còn được biết đến với tên [Quenya](../Q/Quenya.md) *[Nernehta](../N/Nernehta.md)*, có nghĩa là *man-spearhead*. Đó là đội hình nêm được tung ra trong một khoảng cách ngắn để chống lại một đội quân địch đang tập trung nhưng chưa dàn trận hoặc chống lại đội hình phòng thủ trên bãi đất trống. Nó được thiết kế bởi [người Númenor](../N/Númenóreans.md) để tấn công nhanh chống lại lực lượng đối phương trước khi nó có thể tự dàn trận hợp lý cho trận chiến và nó dựa vào sức mạnh to lớn và Tầm vóc của người Númenor.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Dírnaith**, còn được biết đến với tên [Quenya](../Q/Quenya.md) *[Nernehta](../N/Nernehta.md)*, có nghĩa là *man-spearhead*. Đó là đội hình nêm được tung ra trong một khoảng cách ngắn để chống lại một đội quân địch đang tập trung nhưng chưa dàn trận hoặc chống lại đội hình phòng thủ trên bãi đất trống. Nó được thiết kế bởi [Númenóreans](../N/Númenóreans.md) để tấn công nhanh chóng chống lại lực lượng đối phương trước khi lực lượng đó có thể dàn trận hợp lý để chiến đấu và nó dựa vào sức mạnh to lớn và tầm vóc của người Númenóreans.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}
 

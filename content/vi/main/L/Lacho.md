@@ -13,7 +13,7 @@ categories:
   - "Sindarin verbs"
 ---
 
-<i><b>lacho</b></i> là từ [Sindarin](../S/Sindarin.md) có nghĩa là "ngọn lửa".<sup id="cite_ref-UT2_1-0" class="reference"><a href="#cite_note-UT2-1">[1]</a></sup><sup id="cite_ref-CH_2-0" class="reference"><a href="#cite_note-CH-2">[2]</a></sup>
+<i><b>lacho</b></i> is a [Sindarin](../S/Sindarin.md) word meaning "flame".<sup id="cite_ref-UT2_1-0" class="reference"><a href="#cite_note-UT2-1">[1]</a></sup><sup id="cite_ref-CH_2-0" class="reference"><a href="#cite_note-CH-2">[2]</a></sup>
 
 Từ này thường được hiểu là mệnh lệnh bằng lời nói.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 

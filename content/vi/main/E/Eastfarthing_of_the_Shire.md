@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Eastfarthing"
 ---
 
-Chuyển hướng đến [Eastfarthing](Eastfarthing.md).
+Chuyển hướng tới [Eastfarthing](Eastfarthing.md).

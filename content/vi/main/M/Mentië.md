@@ -15,7 +15,7 @@ sort_keys:
   "Quenya nouns": "Mentie"
 ---
 
-<i><b>mentië</b></i> (cũng là <i><b>mentie</b></i>) là một từ [Quenya](../Q/Quenya.md) có nghĩa là "đường đi, hành trình, hướng di chuyển".<sup id="cite_ref-PE17_1-0" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup>
+<i><b>mentië</b></i> (cũng là <i><b>mentie</b></i>) là một từ [Quenya](../Q/Quenya.md) có nghĩa là "con đường, hành trình, hướng di chuyển".<sup id="cite_ref-PE17_1-0" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

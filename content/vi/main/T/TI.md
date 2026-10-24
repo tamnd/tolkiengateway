@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Treason of Isengard"
 ---
 
-Chuyển hướng đến [The Treason of Isengard](The_Treason_of_Isengard.md).
+Chuyển hướng đến [Sự phản bội của Isengard](The_Treason_of_Isengard.md).

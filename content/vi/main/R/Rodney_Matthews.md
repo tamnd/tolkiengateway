@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Matthews, Rodney"
 ---
 
-**Rodney Matthews** đã minh họa nhiều cuốn lịch có chủ đề [Tolkien](../J/J.R.R._Tolkien.md).
+**Rodney Matthews** đã minh họa nhiều cuốn lịch theo chủ đề [Tolkien](../J/J.R.R._Tolkien.md).
 
 ## Lịch minh họa {#Illustrated_Calendars}
 

@@ -49,13 +49,13 @@ infobox:
 
 **Barad Nimras** là một tòa tháp trên mũi đất phía tây [Eglarest](../E/Eglarest.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> được xây dựng bởi [Finrod Felagund](../F/Finrod.md) ở [F.A.](../F/First_Age.md) [65](../F/First_Age_65.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Mục đích của nó là giám sát các vùng biển phía Tây và cảnh báo bất kỳ cuộc tấn công hải quân nào của lực lượng [Morgoth](../M/Morgoth.md). Vì Morgoth chưa bao giờ thực hiện bất kỳ cuộc tấn công nào từ đại dương nên trên thực tế, tòa tháp chưa bao giờ cần thiết.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Mục đích của nó là giám sát các vùng biển phía Tây và cảnh báo bất kỳ cuộc tấn công hải quân nào của lực lượng [Morgoth](../M/Morgoth.md). Vì Morgoth chưa bao giờ thực hiện bất kỳ cuộc tấn công nào từ đại dương nên trên thực tế, tòa tháp không bao giờ cần thiết.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Tuy nhiên, vào năm sau [Nirnaeth Arnoediad](../N/Nirnaeth_Arnoediad.md),<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Morgoth đã phát động [một cuộc tấn công trên bộ](../F/Fall_of_the_Falas.md) vào [Eglarest](../E/Eglarest.md) và [Brithombar](Brithombar.md), và Barad Nimras đã bị phá hủy vào thời điểm đó bởi chính những kẻ thù mà nó có nhiệm vụ đề phòng.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Tuy nhiên, vào năm sau [Nirnaeth Arnoediad](../N/Nirnaeth_Arnoediad.md),<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Morgoth đã phát động [một cuộc tấn công trên bộ](../F/Fall_of_the_Falas.md) vào [Eglarest](../E/Eglarest.md) và [Brithombar](Brithombar.md), và vào thời điểm đó, Barad Nimras đã bị tiêu diệt bởi chính những kẻ thù mà nó có ý định đề phòng.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Barad Nimras* là [Sindarin](../S/Sindarin.md) cho "Tháp Sừng Trắng",<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> từ *[barad](Barad.md)* ("tháp"), *[nimp](../N/Nimp.md)* ("trắng") + *[ras](../R/Ras.md)* ("sừng"). Nó có thể ám chỉ đến chính tòa tháp, hoặc có lẽ là đến mũi đất hẹp mà nó đứng trên đó.
+*Barad Nimras* là [Sindarin](../S/Sindarin.md) của "Tháp Sừng Trắng",<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> từ *[barad](Barad.md)* ("tháp"), *[nimp](../N/Nimp.md)* ("trắng") + *[ras](../R/Ras.md)* ("sừng"). Nó có thể ám chỉ đến chính tòa tháp, hoặc có lẽ là đến mũi đất hẹp mà nó đứng trên đó.
 
 <span></span>
 

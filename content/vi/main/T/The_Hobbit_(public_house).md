@@ -17,7 +17,7 @@ categories:
 
 ## Cáo buộc vi phạm bản quyền {#Copyright_infringement_accusation}
 
-Vào tháng 3 năm 2012, nó đã thu hút sự chú ý của quốc tế sau khi bị [Trung Địa Enterprises](../M/Middle-earth_Enterprises.md) cáo buộc vi phạm bản quyền.<sup id="cite_ref-BBC1_1-0" class="reference"><a href="#cite_note-BBC1-1">[1]</a></sup> Để đáp lại, một chiến dịch "Save The Hobbit" đã được thành lập.<sup id="cite_ref-FB1_2-0" class="reference"><a href="#cite_note-FB1-2">[2]</a></sup> Điều này đã thu hút sự chú ý của [*The Hobbit* (loạt phim)](<The_Hobbit_(film_series).md>) dàn diễn viên [Stephen Fry](../S/Stephen_Fry.md) và [Ian McKellen](../I/Ian_McKellen.md), cả hai đều chỉ trích hành động được thực hiện bởi công ty của [Saul Zaentz](../S/Saul_Zaentz.md).<sup id="cite_ref-BBC2_3-0" class="reference"><a href="#cite_note-BBC2-3">[3]</a></sup> Stephen Fry đã tweet:
+Vào tháng 3 năm 2012, phim đã thu hút sự chú ý của quốc tế sau khi bị [Doanh nghiệp Trung địa](../M/Middle-earth_Enterprises.md) cáo buộc vi phạm bản quyền.<sup id="cite_ref-BBC1_1-0" class="reference"><a href="#cite_note-BBC1-1">[1]</a></sup> Để đáp lại, một chiến dịch "Save The Hobbit" đã được thành lập.<sup id="cite_ref-FB1_2-0" class="reference"><a href="#cite_note-FB1-2">[2]</a></sup> Điều này đã thu hút sự chú ý của [*The Hobbit* (loạt phim)](<The_Hobbit_(film_series).md>) dàn diễn viên [Stephen Fry](../S/Stephen_Fry.md) và [Ian McKellen](../I/Ian_McKellen.md), cả hai đều chỉ trích hành động của [Công ty](../S/Saul_Zaentz.md) của Saul Zaentz.<sup id="cite_ref-BBC2_3-0" class="reference"><a href="#cite_note-BBC2-3">[3]</a></sup> Stephen Fry đã tweet:
 
 <blockquote class="tg-quote noexcerpt">
 <p>Honestly, @savethehobbit, sometimes I&#39;m ashamed of the business I&#39;m in. What pointless, self-defeating bullying.
@@ -33,7 +33,7 @@ Trên trang web của mình, Ian McKellen nhận xét:
 <p class="tg-quote-footer"><cite>Ian McKellen<sup id="cite_ref-IM1_5-0" class="reference"><a href="#cite_note-IM1-5">[5]</a></sup></cite></p>
 </blockquote>
 
-Các luật sư đại diện cho Doanh nghiệp Trung Địa sau đó đã đề nghị miễn trừ The Hobbit, nói rằng họ sẵn sàng cấp cho họ giấy phép giao dịch với tên "The Hobbit" với mức phí 100 đô la mỗi năm. Stephen Fry và Ian McKellen kể từ đó đã thông báo rằng họ sẽ sẵn sàng trả khoản phí này. Cả hai diễn viên hy vọng sẽ đến thăm nhà công vụ sau khi quá trình quay phim *The Hobbit* kết thúc vào tháng 7.<sup id="cite_ref-BBC3_6-0" class="reference"><a href="#cite_note-BBC3-6">[6]</a></sup>
+Các luật sư đại diện cho các Doanh nghiệp Trung Địa sau đó đã đề nghị ân xá cho The Hobbit, nói rằng họ sẵn sàng cấp cho họ giấy phép giao dịch với tên "The Hobbit" với mức phí 100 đô la mỗi năm. Stephen Fry và Ian McKellen kể từ đó đã thông báo rằng họ sẽ sẵn sàng trả khoản phí này. Cả hai diễn viên hy vọng sẽ đến thăm nhà công vụ sau khi quá trình quay phim *The Hobbit* kết thúc vào tháng 7.<sup id="cite_ref-BBC3_6-0" class="reference"><a href="#cite_note-BBC3-6">[6]</a></sup>
 
 ## Liên kết ngoài {#External_links}
 

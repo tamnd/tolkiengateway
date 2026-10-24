@@ -16,10 +16,10 @@ images:
 
 **Nông dân** có thể tham khảo:
 
-- **[Farmer Giles](Farmer_Giles.md)**
+- **[Nông dân Giles](Farmer_Giles.md)**
 - [Nông dân Hogg](Farmer_Hogg.md)
 - [Nông dân trồng bông](Farmer_Cotton.md)
-- [Farmer Maggot](Farmer_Maggot.md)
+- [Giòi nông dân](Farmer_Maggot.md)
 - *[Farmer Giles of Ham](Farmer_Giles_of_Ham.md)*
 
 <span></span>

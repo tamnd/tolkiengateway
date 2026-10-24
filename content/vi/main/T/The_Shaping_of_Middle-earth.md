@@ -64,24 +64,24 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Shaping_of_Middle-earth_1986.jpeg.md"><img src="https://tolkiengateway.net/w/images/thumb/a/a6/Shaping_of_Middle-earth_1986.jpeg/302px-Shaping_of_Middle-earth_1986.jpeg" decoding="async" loading="lazy" width="302" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/a/a6/Shaping_of_Middle-earth_1986.jpeg 1.5x" data-file-width="315" data-file-height="500"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Shaping of Middle-earth</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a class="mw-redirect" href="../G/George_Allen_and_Unwin.md" title="George Allen and Unwin">George Allen and Unwin</a> (UK)<br/><a class="mw-redirect" href="../H/Houghton_Mifflin.md" title="Houghton Mifflin">Houghton Mifflin</a> (US)</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/21_August.md" title="21 August">21 August</a> <a href="../_/1986.md" title="1986">1986</a> (UK)<br/><a href="../_/14_November.md" title="14 November">14 November</a> 1986 (US)</td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Hardcover; paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">380</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0048232793" title="Special:BookSources/0048232793">0048232793</a></td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="The_Lays_of_Beleriand.md" title="The Lays of Beleriand">The Lays of Beleriand</a> (1985)</td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a> (1987)</td></tr></tbody></table>
 
-<i><b>The Shaping of Middle-earth</b></i>, xuất bản trong [1986](../_/1986.md), là tập thứ tư trong bộ sách 12 tập của [Christopher Tolkien](../C/Christopher_Tolkien.md), *[The History of Middle-earth](The_History_of_Middle-earth.md)*, trong đó ông phân tích các bản thảo chưa xuất bản của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
+<i><b>The Shaping of Middle-earth</b></i>, xuất bản năm [1986](../_/1986.md), là tập thứ tư trong bộ sách 12 tập của [Christopher Tolkien](../C/Christopher_Tolkien.md), *[The History of Middle-earth](The_History_of_Middle-earth.md)*, trong đó ông phân tích các bản thảo chưa xuất bản của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
 ## Tổng quan {#Overview}
 
-Trong *The Shaping of Middle-earth* quá trình chuyển đổi dần dần từ [huyền thoại](../L/Legendarium.md) "nguyên thủy" của *[The Book of Lost Tales](The_Book_of_Lost_Tales.md)* sang thứ sẽ trở thành *[The Silmarillion](The_Silmarillion.md)* được mô tả và nó chứa một văn bản có thể được coi là "Silmarillion" đầu tiên - "Sketch of the Mythology".
+Trong *The Shaping of Middle-earth* quá trình chuyển đổi dần dần từ [truyền thuyết](../L/Legendarium.md) "nguyên thủy" của *[The Book of Lost Tales](The_Book_of_Lost_Tales.md)* sang thứ sẽ trở thành *[The Silmarillion](The_Silmarillion.md)* được mô tả và nó chứa một văn bản có thể được coi là "Silmarillion" đầu tiên - "Bản phác họa của Thần thoại".
 
-Ba phần khác là *Ambarkanta* hay "Hình dạng của thế giới", một bộ sưu tập các bản đồ và sơ đồ về thế giới được mô tả bởi Tolkien; và Biên niên sử của [Valinor](../V/Valinor.md) và [Beleriand](../B/Beleriand.md), những tác phẩm biên niên sử ban đầu là những dòng thời gian nhưng dần dần trở thành những câu chuyện đầy đủ.
+Ba phần khác là *Ambarkanta* hay "Hình dạng của thế giới", một bộ sưu tập các bản đồ và sơ đồ về thế giới được Tolkien mô tả; và Biên niên sử của [Valinor](../V/Valinor.md) và [Beleriand](../B/Beleriand.md), những tác phẩm theo trình tự thời gian bắt đầu bằng những dòng thời gian nhưng dần dần trở thành những câu chuyện đầy đủ.
 
 ## Nội dung {#Contents}
 
 - Lời nói đầu
 
-- Tôi. "[Những đoạn văn xuôi nối tiếp Lost Tales](../P/Prose_Fragments_Following_the_Lost_Tales.md)" — những văn bản ngắn gọn, chưa hoàn chỉnh tiếp tục từ *The Book of Lost Tales*
+- Tôi. "[Những đoạn văn xuôi nối tiếp những câu chuyện đã mất](../P/Prose_Fragments_Following_the_Lost_Tales.md)" — những văn bản ngắn gọn, chưa hoàn chỉnh tiếp tục từ *The Book of Lost Tales*
 
-- II. "[The Earliest 'Silmarillion'](The_Earliest_'Silmarillion'.md)" — hoặc "Sketch of the Mythology", đây là phần bắt đầu của *Silmarillion* thích hợp
+- II. "['Silmarillion'](The_Earliest_'Silmarillion'.md) sớm nhất — hay "Phác họa thần thoại", đây là sự khởi đầu của *Silmarillion* thích hợp
 
-- III. "[The Quenta](The_Quenta.md)" — *Quenta Noldorinwa*, phiên bản phát triển hơn nữa của phiên bản xuất hiện trong "Sketch"
-    - Phụ lục 1: Bản dịch của Ælfwine từ *Quenta* sang tiếng Anh cổ
+- III. "[The Quenta](The_Quenta.md)" — *Quenta Noldorinwa*, một phiên bản phát triển hơn nữa của phiên bản xuất hiện trong "Sketch"
+    - Phụ lục 1: Bản dịch *Quenta* của Ælfwine sang tiếng Anh cổ
     - Phụ lục 2: [Sừng Ylmir](The_Horns_of_Ylmir.md)
 
 - IV. "[Bản đồ 'Silmarillion' đầu tiên](The_First_'Silmarillion'_Map.md)" — bản sao lại bản đồ đầu tiên của Beleriand
@@ -89,19 +89,19 @@ Ba phần khác là *Ambarkanta* hay "Hình dạng của thế giới", một b�
 - V. "[The Ambarkanta](The_Ambarkanta.md)" — tiểu luận, bản đồ và sơ đồ vũ trụ học
 
 - VI. "[Sớm nhất *Annals of Valinor*](The_Earliest_Annals_of_Valinor.md)"
-    - Phụ lục: Bản dịch Ælfwine của *Annals of Valinor* sang tiếng Anh cổ
+    - Phụ lục: Bản dịch *Annals of Valinor* của Ælfwine sang tiếng Anh cổ
 
 - VIII. "[Sớm nhất *Annals of Beleriand*](The_Earliest_Annals_of_Beleriand.md)"
     - Phiên bản thứ hai của *Annals* sớm nhất
-    - Phụ lục: Bản dịch của Ælfwine từ *Annals of Beleriand* sang tiếng Anh cổ
+    - Phụ lục: Bản dịch *Annals of Beleriand* của Ælfwine sang tiếng Anh cổ
 
 - Chỉ mục
 
-*Annals of Valinor* và *Annals of Beleriand* thể hiện phác thảo sớm nhất về niên đại của [Kỷ Đệ Nhất](../F/First_Age.md) như dự tính vào đầu những năm 1930. Tập tiếp theo trong bộ sách, *[The Lost Road and Other Writings](The_Lost_Road_and_Other_Writings.md)* (1987), phác thảo những sửa đổi cho cả hai văn bản được thực hiện c. 1937 với tên "The Later Annals of Valinor" và "Biên niên sử sau của Beleriand".
+*Annals of Valinor* và *Annals of Beleriand* thể hiện phác thảo sớm nhất về niên đại của [Kỷ nguyên thứ nhất](../F/First_Age.md) như đã được hình dung vào đầu những năm 1930. Tập tiếp theo trong bộ sách, *[The Lost Road and Other Writings](The_Lost_Road_and_Other_Writings.md)* (1987), phác thảo những sửa đổi cho cả hai văn bản được thực hiện c. 1937 với tên gọi "Biên niên sử sau của Valinor" và "Biên niên sử sau của Beleriand".
 
 ## Chữ khắc {#Inscriptions}
 
-Có một dòng chữ bằng ký tự [Tengwar](Tengwar.md) ở những trang đầu tiên của mỗi tập *History of Middle-earth*, do Christopher Tolkien viết và mô tả nội dung của cuốn sách. Dòng chữ trong Quyển IV có nội dung:
+Có một dòng chữ bằng ký tự [Tengwar](Tengwar.md) ở trang đầu tiên của mỗi tập *History of Middle-earth*, do Christopher Tolkien viết và mô tả nội dung cuốn sách. Dòng chữ trong Quyển IV có nội dung:
 
 <dl><dd>&#34;<i>Herein are the Quenta Noldorinwa, the History of the Gnomes, the Ambarkanta or Shape of the World by <a href="../R/Rúmil_(elf_of_Tirion).md" title="Rúmil (elf of Tirion)">Rúmil</a>, the Annals of Valinor, and the Annals of Beleriand by <a class="mw-redirect" href="../P/Pengolod.md" title="Pengolod">Pengolod</a>, the Wise of Gondolin with maps of the world in the Elder Days and translations made by <a href="../_/Ælfwine.md" title="Ælfwine">Ælfwine the Mariner</a> of England into the tongue of his own land.</i>&#34;</dd></dl>
 
@@ -179,14 +179,14 @@ Also included are the original &#39;The Silmarillion&#39; of 1926, and the Quent
 		</li>
 </ul>
 
-- [George Allen &amp; Unwin](../G/George_Allen_&_Unwin.md), bìa cứng ([1986](../_/1986.md)), trang 380. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0048232793">ISBN 0048232793</a>
+- [George Allen & Unwin](../G/George_Allen_&_Unwin.md), bìa cứng ([1986](../_/1986.md)), trang 380. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0048232793">ISBN 0048232793</a>
 - [Giải phóng sách bìa mềm](../U/Unwin_Paperbacks.md), bìa mềm ([1988](../_/1988.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0044401507">ISBN 0044401507</a> - (ảnh bìa của [Roger Garland](../R/Roger_Garland.md))
 - [HarperCollins](../H/HarperCollins.md) bìa cứng ([1991](../_/1991.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0261102176">ISBN 0261102176</a>
 - [HarperCollins](../H/HarperCollins.md) bìa mềm ([1993](../_/1993.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0261102184">ISBN 0261102184</a> - (ảnh bìa của [John Howe](../J/John_Howe.md))
     - Ấn bản bìa mềm năm 1993, đặt lại ở [2002](../_/2002.md), sau đó ở [2015](../_/2015.md)
 - [HarperCollins](../H/HarperCollins.md) bìa cứng ([2010](../_/2010.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007365284">ISBN 0007365284</a>
     - Ấn bản bìa mềm năm 2015, lần in thứ 39 ([2024](../_/2024.md))
-- [HarperCollins](../H/HarperCollins.md) bìa cứng có áo chống bụi có thể đảo ngược ([2024](../_/2024.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/9780008669218">ISBN 978-0008669218</a> - ([Bộ đóng hộp thế kỷ](../C/Centenary_Boxed_Sets.md) #2)
+- [HarperCollins](../H/HarperCollins.md) bìa cứng với áo khoác chống bụi có thể đảo ngược ([2024](../_/2024.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/9780008669218">ISBN 978-0008669218</a> - ([Bộ đóng hộp thế kỷ](../C/Centenary_Boxed_Sets.md) #2)
 
 ## Liên kết ngoài {#External_links}
 

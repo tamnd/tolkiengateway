@@ -21,7 +21,7 @@ langlinks:
     url: "https://kontu.wiki/%C3%9Aner"
 ---
 
-**Úner**, 'Noman', là người đàn ông [Ancalimë](../T/Tar-Ancalimë.md) nói rằng cô ấy sẽ 'thích hơn tất cả những người khác' khi [Hallacar](../H/Hallacar.md) cầu hôn cô sau khi tán tỉnh cô dưới bút danh [Mámandil](../M/Mámandil.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Ancalimë có nghĩa là cô không muốn kết hôn với bất kỳ người đàn ông nào.
+**Úner**, 'Noman', là người đàn ông [Ancalimë](../T/Tar-Ancalimë.md) nói rằng bà sẽ 'thích hơn tất cả những người khác' khi [Hallacar](../H/Hallacar.md) cầu hôn cô sau khi tán tỉnh cô dưới bút danh [Mámandil](../M/Mámandil.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Ancalimë có nghĩa là cô không muốn kết hôn với bất kỳ người đàn ông nào.
 
 ## Từ nguyên {#Etymology}
 

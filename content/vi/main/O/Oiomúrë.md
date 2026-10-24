@@ -31,21 +31,21 @@ langlinks:
     url: "https://kontu.wiki/Oiom%C3%BAr%C3%AB"
 ---
 
-**Oiomúrë** là vùng đất liền có "sương mù lớn" ở phía bắc [Aman](../A/Aman.md), gần [Helcaraxë](../H/Helcaraxë.md).<sup id="cite_ref-S9_1-0" class="reference"><a href="#cite_note-S9-1">[1]</a></sup><sup id="cite_ref-MR_2-0" class="reference"><a href="#cite_note-MR-2">[2]</a></sup>
+**Oiomúrë** là vùng đất ven biển có "sương mù lớn" ở phía bắc [Aman](../A/Aman.md), gần [Helcaraxë](../H/Helcaraxë.md).<sup id="cite_ref-S9_1-0" class="reference"><a href="#cite_note-S9-1">[1]</a></sup><sup id="cite_ref-MR_2-0" class="reference"><a href="#cite_note-MR-2">[2]</a></sup>
 
 ## Lịch sử {#History}
 
-Sau [Tối của Valinor](../D/Darkening_of_Valinor.md), [Morgoth](../M/Morgoth.md) và [Ungoliant](../U/Ungoliant.md) chạy trốn khỏi sự truy đuổi [Valar](../V/Valar.md) về phía bắc qua vùng đất cằn cỗi và lạnh giá [Araman](../A/Araman.md), băng qua Oiomúrë và Helcaraxë để đến [Trung Địa](../M/Middle-earth.md).<sup id="cite_ref-S9_1-1" class="reference"><a href="#cite_note-S9-1">[1]</a></sup><sup id="cite_ref-MR_2-1" class="reference"><a href="#cite_note-MR-2">[2]</a></sup>
+Sau [Sự tối tăm của Valinor](../D/Darkening_of_Valinor.md), [Morgoth](../M/Morgoth.md) và [Ungoliant](../U/Ungoliant.md) chạy trốn khỏi [Valar](../V/Valar.md) đang truy đuổi về phía bắc qua vùng đất cằn cỗi và lạnh lẽo của [Araman](../A/Araman.md), băng qua Oiomúrë và Helcaraxë để đến được [Trung địa](../M/Middle-earth.md).<sup id="cite_ref-S9_1-1" class="reference"><a href="#cite_note-S9-1">[1]</a></sup><sup id="cite_ref-MR_2-1" class="reference"><a href="#cite_note-MR-2">[2]</a></sup>
 
-[Noldor](../N/Noldor.md) do [Fingolfin](../F/Fingolfin.md) dẫn đầu trong [Chuyến bay](../F/Flight_of_the_Noldor.md) của họ cũng có thể đã đi qua Oiomúrë trong chuyến hành quân đến [Beleriand](../B/Beleriand.md) từ [Valinor](../V/Valinor.md) qua Helcaraxë.<sup id="cite_ref-S9_1-2" class="reference"><a href="#cite_note-S9-1">[1]</a></sup><sup id="cite_ref-Arda_3-0" class="reference"><a href="#cite_note-Arda-3">[3]</a></sup>
+[Noldor](../N/Noldor.md) do [Fingolfin](../F/Fingolfin.md) chỉ huy trong [Chuyến bay](../F/Flight_of_the_Noldor.md) của họ cũng có thể đã đi qua Oiomúrë trong chuyến hành quân đến [Beleriand](../B/Beleriand.md) từ [Valinor](../V/Valinor.md) qua Helcaraxë.<sup id="cite_ref-S9_1-2" class="reference"><a href="#cite_note-S9-1">[1]</a></sup><sup id="cite_ref-Arda_3-0" class="reference"><a href="#cite_note-Arda-3">[3]</a></sup>
 
 ## Xuất xứ {#Origin}
 
-[Robert Foster](../R/Robert_Foster.md) cho rằng sương mù ở Oiomúrë có thể là do "*sự tiếp xúc giữa [Đá mài](../H/Helcaraxë.md) và nước biển ấm hơn.*".<sup id="cite_ref-Foster_4-0" class="reference"><a href="#cite_note-Foster-4">[4]</a></sup>
+[Robert Foster](../R/Robert_Foster.md) cho rằng sương mù ở Oiomúrë có thể là do "*sự tiếp xúc giữa [Băng mài](../H/Helcaraxë.md) và nước biển ấm hơn.*".<sup id="cite_ref-Foster_4-0" class="reference"><a href="#cite_note-Foster-4">[4]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Ý nghĩa của tên *Oiomúrë* vẫn chưa được biết. [Helge Fauskanger](../H/Helge_Fauskanger.md) đã gợi ý rằng nó [Quenya](../Q/Quenya.md) dành cho "Ever-?mist",<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> có lẽ chứa phần tử *[oio](Oio.md)* ("ever").<sup id="cite_ref-Arda_3-1" class="reference"><a href="#cite_note-Arda-3">[3]</a></sup><sup id="cite_ref-Foster_4-1" class="reference"><a href="#cite_note-Foster-4">[4]</a></sup>
+Ý nghĩa của tên *Oiomúrë* vẫn chưa được biết. [Helge Fauskanger](../H/Helge_Fauskanger.md) đã gợi ý rằng đó là [Quenya](../Q/Quenya.md) cho "Ever-?mist",<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> có lẽ chứa phần tử *[oio](Oio.md)* ("ever").<sup id="cite_ref-Arda_3-1" class="reference"><a href="#cite_note-Arda-3">[3]</a></sup><sup id="cite_ref-Foster_4-1" class="reference"><a href="#cite_note-Foster-4">[4]</a></sup>
 
 <span></span>
 

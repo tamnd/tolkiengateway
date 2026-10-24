@@ -13,17 +13,17 @@ categories:
   - "Quenya nouns"
 ---
 
-**lopoldi** là một loài động vật được đặt tên theo [người Númenor](../N/Númenóreans.md) trên đảo [Elenna](../E/Elenna.md).
+**lopoldi** là một loài động vật được đặt tên bởi [Númenóreans](../N/Númenóreans.md) trên đảo [Elenna](../E/Elenna.md).
 
 ## Lịch sử {#History}
 
-Không rõ mô tả của chúng, nhưng có vẻ như chúng là [thỏ](../R/Rabbits.md), loài không được biết đến ở các khu vực phía tây bắc của [Trung Địa](../M/Middle-earth.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[1]</a></sup> Lopoldi là loài ăn cỏ háu ăn và sinh sôi nhanh chóng nên chúng được tìm thấy với số lượng lớn trên [Númenor](../N/Númenor.md). người Númenor không coi lopoldi là thức ăn, khiến chúng trở thành nguồn thức ăn chính của [Cáo](../F/Foxes.md), được coi là cách tự nhiên tốt nhất để kiểm soát số lượng lopoldi. Do sự phong phú của lopoldi, cáo không bao giờ săn bắt những động vật được người Númenor thuần hóa.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup> Lopoldi rất có thể đã chết trong [Sự sụp đổ của Númenor](../D/Downfall_of_Númenor.md).
+Không rõ mô tả của chúng, nhưng có vẻ như chúng là [thỏ](../R/Rabbits.md), loài không được biết đến ở các vùng tây bắc của [Trung Địa](../M/Middle-earth.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[1]</a></sup> Lopoldi là loài động vật ăn cỏ háu ăn và sinh sôi nhanh chóng nên chúng được tìm thấy với số lượng lớn trên [Númenor](../N/Númenor.md). Người Númenóre không coi lopoldi là thức ăn, khiến chúng trở thành nguồn thức ăn chính của [Cáo](../F/Foxes.md), được coi là cách tự nhiên tốt nhất để kiểm soát số lượng lopoldi. Do sự phong phú của loài lopoldi nên loài cáo không bao giờ săn bắt những động vật do người Númenórean thuần hóa.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup> Loài lopoldi rất có thể đã bị tiêu diệt trong [Sự sụp đổ của Númenor](../D/Downfall_of_Númenor.md).
 
 ## Từ nguyên {#Etymology}
 
 *Lopoldi* là từ [Quenya](../Q/Quenya.md) số nhiều của "Thỏ".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup>
 
-Trong một bản viết tay ngôn ngữ học từ những năm 1930, xuất hiện [Quenya](../Q/Quenya.md) bóng *lopo* ("con thỏ") từ nguyên thủy *lopō*<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup> và nối với gốc *LOP*. Trong [Qenya](../Q/Qenya.md) trước đó, đó là *lapatte*.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[5]</a></sup>
+Trong một bản viết tay ngôn ngữ học từ những năm 1930, xuất hiện bóng [Quenya](../Q/Quenya.md) *lopo* ("thỏ") từ nguyên thủy *lopō*<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup> và được kết nối với gốc *LOP*. Ở [Qenya](../Q/Qenya.md) trước đó, đó là *lapatte*.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[5]</a></sup>
 
 ## Ghi chú {#Notes}
 

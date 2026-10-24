@@ -41,12 +41,12 @@ images:
 
 - [2018](../_/2018.md): [Tolkien: Maker of Middle-earth](../T/Tolkien%253A_Maker_of_Middle-earth.md)
 - [2018](../_/2018.md): [Tolkien: Kho báu](../T/Tolkien%253A_Treasures.md)
-- [2022](../_/2022.md): [The Great Tales Never End](../T/The_Great_Tales_Never_End.md) (đồng chủ biên)
+- [2022](../_/2022.md): [Những câu chuyện vĩ đại không bao giờ kết thúc](../T/The_Great_Tales_Never_End.md) (đồng biên tập)
 
 ## Giải thưởng {#Awards}
 
-- [2019](../_/2019.md): **[Giải thưởng của Hội Tolkien](../T/Tolkien_Society_Awards.md): Sách hay nhất**, *[Tolkien: Maker of Middle-earth](../T/Tolkien%253A_Maker_of_Middle-earth.md)*
-- [2019](../_/2019.md): **[Giải thưởng của Hội Tolkien](../T/Tolkien_Society_Awards.md): Đóng góp nổi bật**
+- [2019](../_/2019.md): **[Giải thưởng của Hiệp hội Tolkien](../T/Tolkien_Society_Awards.md): Sách hay nhất**, *[Tolkien: Maker of Middle-earth](../T/Tolkien%253A_Maker_of_Middle-earth.md)*
+- [2019](../_/2019.md): **[Giải thưởng của Hiệp hội Tolkien](../T/Tolkien_Society_Awards.md): Đóng góp xuất sắc**
 
 ## Liên kết ngoài {#External_links}
 

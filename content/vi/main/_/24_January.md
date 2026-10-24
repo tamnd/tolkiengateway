@@ -76,5 +76,5 @@ Sự kiện xảy ra vào ngày 24 tháng 1.
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) nằm trong [Lothlórien](../L/Lothlórien.md).
-    - [Gollum](../G/Gollum.md) được chụp bởi [Uglúk](../U/Uglúk.md). Anh ta sau đó đã trốn thoát. [Saruman](../S/Saruman.md) gửi quân tiếp viện tới Uglúk; quân của anh ta bây giờ mạnh khoảng 180 người.
+    - Nhóm [Hiệp hội chiếc nhẫn](../F/Fellowship_of_the_Ring.md) nằm ở [Lothlórien](../L/Lothlórien.md).
+    - [Gollum](../G/Gollum.md) bị [Uglúk](../U/Uglúk.md) bắt giữ. Ông ta sau đó đã trốn thoát. [Saruman](../S/Saruman.md) gửi quân tiếp viện đến Uglúk; quân của ông ta bây giờ mạnh khoảng 180 người.

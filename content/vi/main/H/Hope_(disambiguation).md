@@ -16,7 +16,7 @@ images:
 
 **Hy vọng** có thể đề cập đến một số khái niệm hoặc con người:
 
-## Trung Địa {#Middle-earth}
+## Trung địa {#Middle-earth}
 
 - *[Estel](../E/Estel.md)*, từ [Sindarin](../S/Sindarin.md) mang ý nghĩa "hy vọng", tên của [Aragorn](../A/Aragorn.md) và một khái niệm triết học.
 - *[Amdir](<../A/Amdir_(Sindarin_word).md>)*, một từ [tiếng Sindarin](../S/Sindarin.md) có nghĩa là "hy vọng", nhưng là một khái niệm khác.

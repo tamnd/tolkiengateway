@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Exploring J.R.R. Tolkien’s The Hobbit"
 ---
 
-Chuyển hướng đến [Khám phá The Hobbit](Exploring_J.R.R._Tolkien’s_The_Hobbit.md) của J.R.R. Tolkien.
+Chuyển hướng đến [Khám phá The Hobbit của J.R.R. Tolkien](Exploring_J.R.R._Tolkien’s_The_Hobbit.md).

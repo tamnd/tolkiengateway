@@ -26,7 +26,7 @@ images:
 
 ## Lịch sử {#History}
 
-Sau khi [Túrin](../T/Túrin.md) bị [Orc](../O/Orcs.md) bắt, người bạn [Beleg](../B/Beleg.md) và [Gnome](../G/Gnome.md) [Flinding](../F/Flinding.md) đã giải cứu anh khỏi trại địch trong khi anh vẫn đang bị xích và bất tỉnh. Khi họ đưa anh ta đến gần, Beleg tìm [thanh kiếm của anh ta](../A/Anglachel.md) để cắt dây xích của Túrin và thì thầm một bài hát ma thuật để mài sắc nó:
+Sau khi [Túrin](../T/Túrin.md) bị [Orc](../O/Orcs.md) bắt giữ, bạn của anh [Beleg](../B/Beleg.md) và [Gnome](../G/Gnome.md) [Flinding](../F/Flinding.md) đã giải cứu anh khỏi trại của kẻ thù trong khi anh vẫn đang bị xích và bất tỉnh. Khi họ đưa ông ta đến gần, Beleg tìm [thanh kiếm của ông ta](../A/Anglachel.md) để cắt dây xích của Túrin và thì thầm một bài hát ma thuật để mài giũa nó:
 
 <blockquote class="tg-quote noexcerpt">
 <p>There wondrous wove he  words of sharpness,<br/>

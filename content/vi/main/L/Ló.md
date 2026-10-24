@@ -17,7 +17,7 @@ sort_keys:
 
 <dl><dd><i>For the same word meaning &#34;night&#34;, see</i> <a class="new" href="https://tolkiengateway.net/w/index.php?title=L%C3%B3me&amp;action=edit&amp;redlink=1" title="Lóme (page does not exist)">lóme</a></dd></dl>
 
-**ló** "(phân từ) bởi (ai đó)" là từ [Quenya](../Q/Quenya.md) chỉ người thực hiện câu sau phân từ bị động. Nó được dịch là "bởi" trong cú pháp tiếng Anh.
+**ló** "(phân từ) bởi (ai đó)" là một từ [Quenya](../Q/Quenya.md) chỉ người thực hiện câu sau phân từ bị động. Nó được dịch là "bởi" trong cú pháp tiếng Anh.
 
 ## Ví dụ {#Examples}
 

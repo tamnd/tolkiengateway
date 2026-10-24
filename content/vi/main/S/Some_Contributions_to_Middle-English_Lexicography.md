@@ -12,7 +12,7 @@ categories:
   - "Published articles by J.R.R. Tolkien"
 ---
 
-**Một số đóng góp cho từ điển học tiếng Anh trung cổ** là tựa đề một bài tiểu luận của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Trong Phần I Tolkien thảo luận về các khía cạnh của nhiều từ [tiếng Anh trung đại](../M/Middle_English.md) và ý nghĩa tiếng Anh hiện đại của chúng. Phần II bao gồm một loạt các ghi chú về bảng chú giải thuật ngữ của Phiên bản xã hội văn bản tiếng Anh sơ khai của <i><a class="extiw" href="http://en.wikipedia.org/wiki/Katherine_Group" title="wikipedia:Katherine Group">Hali Meiðhad</a></i>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Một số đóng góp cho từ điển học tiếng Anh trung cổ** là tựa đề một bài tiểu luận của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Trong Phần I, Tolkien thảo luận về các khía cạnh của nhiều từ [tiếng Anh trung đại](../M/Middle_English.md) và ý nghĩa tiếng Anh hiện đại của chúng. Phần II bao gồm một loạt các ghi chú về bảng chú giải thuật ngữ của Phiên bản xã hội văn bản tiếng Anh sơ khai của <i><a class="extiw" href="http://en.wikipedia.org/wiki/Katherine_Group" title="wikipedia:Katherine Group">Hali Meiðhad</a></i>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Bài viết được đăng lần đầu trong [*The Review of English Studies*, Tập. 1 Số 2](<../T/The_Review_of_English_Studies_(Vol._1_No._2).md>) (tháng 4 năm 1925), và được tái bản trong [*The Review of English Studies*, Tập. 1](<../T/The_Review_of_English_Studies_(Vol._1).md>) (1969).
 

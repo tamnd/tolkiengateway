@@ -22,7 +22,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Christie&#39;s The Albin Schram Collection of Autograph Letters 3 July 2007</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">London: Christie&#39;s</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/2007.md" title="2007">2007</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Auction catalogue</td></tr></tbody></table>
 
-<i><b>Bộ sưu tập thư có chữ ký của Christie's Albin Schram</b></i> là một danh mục đấu giá bao gồm các đoạn trích (lô 187, trang 115) từ một bức thư dài hai trang từ [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đến [Pauline Baynes](../P/Pauline_Baynes.md) (xem *[Letter to Pauline Baynes](../L/Letter_to_Pauline_Baynes.md)*). Trang thứ hai của bức thư được sao chép dưới dạng ảnh.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>Bộ sưu tập thư có chữ ký của Christie's Albin Schram</b></i> là một danh mục đấu giá bao gồm các đoạn trích (lô 187, trang 115) từ một bức thư dài hai trang từ [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) gửi cho [Pauline Baynes](../P/Pauline_Baynes.md) (xem *[Letter to Pauline Baynes](../L/Letter_to_Pauline_Baynes.md)*). Trang thứ hai của bức thư được sao chép dưới dạng ảnh.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

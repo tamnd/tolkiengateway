@@ -16,7 +16,7 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><a href="../F/First_Age.md" title="First Age">I</a><a href="../S/Second_Age.md" title="Second Age">II</a><b>III</b><a href="../F/Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="Third_Age_2955.md" title="Third Age 2955">2955</a><a href="Third_Age_2956.md" title="Third Age 2956">2956</a><a href="Third_Age_2957.md" title="Third Age 2957">2957</a><a class="mw-selflink selflink">2960</a><a href="Third_Age_2961.md" title="Third Age 2961">2961</a><a href="Third_Age_2963.md" title="Third Age 2963">2963</a><a href="Third_Age_2964.md" title="Third Age 2964">2964</a></div></div></div></div></div></div>
 
-**Kỷ Đệ Tam 2960** (viết tắt là **T.A. 2960**) là năm [thứ 2960 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Tam](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Kỷ Đệ Tam 2960 còn được gọi là **S.R. 1360** trong [lịch Shire](../S/Shire-reckoning.md).
+**Kỷ thứ ba 2960** (viết tắt là **T.A. 2960**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 2960 của [Kỷ thứ ba](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Thời đại thứ ba năm 2960 còn được gọi là **S.R. 1360** trong [Tính toán quận](../S/Shire-reckoning.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
@@ -24,11 +24,11 @@ Các sự kiện đáng chú ý trong năm nay bao gồm:
 - Cái chết của [Fosco Baggins](../F/Fosco_Baggins.md).<sup id="cite_ref-Baggins_2-0" class="reference"><a href="#cite_note-Baggins-2">[2]</a></sup>
 - Cái chết của [Bingo Baggins](../B/Bingo_Baggins.md).<sup id="cite_ref-Baggins_2-1" class="reference"><a href="#cite_note-Baggins-2">[2]</a></sup>
 - Cái chết của [Mirabella Took](../M/Mirabella_Took.md).<sup id="cite_ref-Took_3-0" class="reference"><a href="#cite_note-Took-3">[3]</a></sup>
-- Cái chết của [Isengar Đã xảy ra](../I/Isengar_Took.md).<sup id="cite_ref-Took_3-1" class="reference"><a href="#cite_note-Took-3">[3]</a></sup>
+- Cái chết của [Isengar Took](../I/Isengar_Took.md).<sup id="cite_ref-Took_3-1" class="reference"><a href="#cite_note-Took-3">[3]</a></sup>
 
 ## Lưu ý {#Note}
 
-Trong hầu hết các ấn bản, [Phụ lục C](../A/Appendix_C.md) ghi ngày mất của [Bingo Baggins](../B/Bingo_Baggins.md) là [S.R.](../S/Shire_Reckoning.md) <a class="mw-selflink selflink">1360</a>, nhưng trong một số ấn bản sau này, bao gồm cả ấn bản kỷ niệm 1994 và 50 năm, năm bị ghi nhầm thành [1363](Third_Age_2963.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+In most editions, [Appendix C](../A/Appendix_C.md) gives [Bingo Baggins](../B/Bingo_Baggins.md)'s death as [S.R.](../S/Shire_Reckoning.md) <a class="mw-selflink selflink">1360</a>, but in some later editions, including the 1994 and 50th anniversary editions, the year is mistakenly given as [1363](Third_Age_2963.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 <span></span>
 

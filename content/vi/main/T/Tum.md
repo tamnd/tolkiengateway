@@ -14,19 +14,19 @@ categories:
   - "Noldorin nouns"
 ---
 
-<i><b>tum</b></i> có nghĩa là "thung lũng"<sup id="cite_ref-Silm_1-0" class="reference"><a href="#cite_note-Silm-1">[1]</a></sup> hoặc "thung lũng sâu, dưới hoặc giữa các ngọn đồi"<sup id="cite_ref-Etym_2-0" class="reference"><a href="#cite_note-Etym-2">[2]</a></sup> ở [Sindarin](../S/Sindarin.md) (và [Noldorin](../N/Noldorin.md)).
+<i><b>tum</b></i> có nghĩa là "thung lũng"<sup id="cite_ref-Silm_1-0" class="reference"><a href="#cite_note-Silm-1">[1]</a></sup> hoặc "thung lũng sâu, dưới hoặc giữa các ngọn đồi"<sup id="cite_ref-Etym_2-0" class="reference"><a href="#cite_note-Etym-2">[2]</a></sup> trong [Sindarin](../S/Sindarin.md) (và [Noldorin](../N/Noldorin.md)).
 
 ## Từ nguyên {#Etymology}
 
-Trong *[The Etymologies](The_Etymologies.md)*, Noldorin *tum* xuất phát từ [Primitive Quendian](../P/Primitive_Quendian.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Tumbu&amp;action=edit&amp;redlink=1" title="Tumbu (page does not exist)">tumbu</a></i>, [root](../S/Sundocarme.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=TUB&amp;action=edit&amp;redlink=1" title="TUB (page does not exist)">TUB</a>.<sup id="cite_ref-Etym_2-1" class="reference"><a href="#cite_note-Etym-2">[2]</a></sup>
+Trong *[The Etymologies](The_Etymologies.md)*, Noldorin *tum* có nguồn gốc từ [Quendian nguyên thủy](../P/Primitive_Quendian.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Tumbu&amp;action=edit&amp;redlink=1" title="Tumbu (page does not exist)">tumbu</a></i>, [root](../S/Sundocarme.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=TUB&amp;action=edit&amp;redlink=1" title="TUB (page does not exist)">TUB</a>.<sup id="cite_ref-Etym_2-1" class="reference"><a href="#cite_note-Etym-2">[2]</a></sup>
 
 ## Ví dụ {#Examples}
 
 - <i><a href="../C/Carn_Dûm.md" title="Carn Dûm">Carn <b>Dûm</b></a></i> = "Thung lũng đỏ"
 - <i><a href="Tumhalad.md" title="Tumhalad"><b>Tum</b>halad</a></i>
 - <i><a href="Tumladen.md" title="Tumladen"><b>Tum</b>laden</a></i> = "Thung lũng rộng"
-- <i><a class="mw-redirect" href="Tum_Gondregain.md" title="Tum Gondregain"><b>Tum</b> Gondregain</a></i> = "Thung lũng Stonewain"
-- <i><a class="mw-redirect" href="Tum_Orchorod.md" title="Tum Orchorod"><b>Tum</b> Orchorod</a></i> = "Thung lũng cao Dãy Núi"
+- <i><a class="mw-redirect" href="Tum_Gondregain.md" title="Tum Gondregain"><b>Tum</b> Gondregain</a></i> = "Thung lũng đá"
+- <i><a class="mw-redirect" href="Tum_Orchorod.md" title="Tum Orchorod"><b>Tum</b> Orchorod</a></i> = "Thung lũng của dãy núi cao"
 
 ## Có cùng nguồn gốc {#Cognates}
 

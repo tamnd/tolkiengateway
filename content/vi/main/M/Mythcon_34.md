@@ -32,7 +32,7 @@ infobox:
 
 **Mythcon 34** là hội nghị thường niên lần thứ 34 của [Hiệp hội thần thoại](Mythopoeic_Society.md).
 
-- **Chủ đề:** "Từ Athena đến Galadriel: Hình ảnh người phụ nữ thông thái trong tiểu thuyết thần thoại"
+- **Chủ đề:** "Từ Athena đến Galadriel: Hình tượng người phụ nữ thông thái trong tiểu thuyết thần thoại"
 - **Khách mời danh dự:** Dabney A. Hart (C.S. Lewis học giả) và Sherwood Smith (tác giả truyện giả tưởng)
 - **Chủ tịch:** Ruby Dunlap và Mary Stolzenbach
 

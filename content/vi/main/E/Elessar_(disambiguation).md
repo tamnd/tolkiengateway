@@ -27,12 +27,12 @@ images:
   - "Disambig.png"
 ---
 
-**Elessar** ("Tiên-stone" trong [Quenya](../Q/Quenya.md)) có thể tham khảo:
+**Elessar** ("Đá yêu tinh" trong [Quenya](../Q/Quenya.md)) có thể đề cập đến:
 
-- **[Elessar của Eärendil](Elessar_of_Eärendil.md)**, hai viên ngọc huyền thoại, một trong [Kỷ Đệ Nhất](../F/First_Age.md) và một trong [Kỷ Đệ Tam](../T/Third_Age.md).
+- **[Elessar của Eärendil](Elessar_of_Eärendil.md)**, hai viên ngọc huyền thoại, một thuộc [Thời đại thứ nhất](../F/First_Age.md) và một thuộc [Thời đại thứ ba](../T/Third_Age.md).
 - **Vua [Elessar](../A/Aragorn.md)**, ban đầu được gọi là Aragorn II.
 
-- "[The Elessar](../T/The_Elessar.md)", một phần trong chương "[Lịch sử của Galadriel và Celeborn](../T/The_History_of_Galadriel_and_Celeborn.md)" trong *[Unfinished Tales](../U/Unfinished_Tales.md)*.
+- "[Elessar](../T/The_Elessar.md)", một phần trong chương "[Lịch sử của Galadriel và Celeborn](../T/The_History_of_Galadriel_and_Celeborn.md)" trong *[Unfinished Tales](../U/Unfinished_Tales.md)*.
 
 <hr style="margin-top:15px;"/>
 

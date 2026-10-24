@@ -27,7 +27,7 @@ infobox:
 
 **Maria Isabel Morna Braga** (sinh [1919](../_/1919.md)) là một tác giả và dịch giả người Bồ Đào Nha.
 
-Maria Isabel Bragaa trở thành dịch giả tiếng Bồ Đào Nha đầu tiên cho tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), khi ông đóng góp cho ấn bản tiếng Bồ Đào Nha đầu tiên của *[The Hobbit](../T/The_Hobbit.md)* ([O Gnomo](../O/O_Gnomo.md)), cùng với [Mário Braga](Mário_Braga.md).
+Maria Isabel Bragaa đã trở thành dịch giả tiếng Bồ Đào Nha đầu tiên dịch tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) khi ông đóng góp cho ấn bản tiếng Bồ Đào Nha đầu tiên của *[The Hobbit](../T/The_Hobbit.md)* ([O Gnomo](../O/O_Gnomo.md)), cùng với [Mário Braga](Mário_Braga.md).
 
 ## Liên kết ngoài {#External_links}
 

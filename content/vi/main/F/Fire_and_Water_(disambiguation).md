@@ -22,7 +22,7 @@ images:
 
 ## Các bản chuyển thể {#Adaptations}
 
-- "Lửa và Nước", tập thứ tám trong các tập của *[Jackanory](../J/Jackanory.md)*trên *[The Hobbit](../T/The_Hobbit.md)*.
+- "Lửa và Nước", tập thứ tám trong các tập của *[Jackanory](../J/Jackanory.md)* trên *[The Hobbit](../T/The_Hobbit.md)*.
 - "Lửa và Nước", cuốn sách *[The Lord of the Rings Online: Mines of Moria](../T/The_Lord_of_the_Rings_Online%253A_Mines_of_Moria.md)*.
 
 <hr style="margin-top:15px;"/>

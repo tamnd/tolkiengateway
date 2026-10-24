@@ -21,21 +21,21 @@ sort_keys:
   "Quenya names": "Erukyerme"
 ---
 
-The <i><b>Erukyermë</b></i> was one of the [Three Prayers](../T/Three_Prayers.md) held on the summit of the [Meneltarma](../M/Meneltarma.md) in [Númenor](../N/Númenor.md) (the others being the *[Erulaitalë](Erulaitalë.md)* and the *[Eruhantalë](Eruhantalë.md)*). *Erukyermë* được tổ chức vào đầu mỗi mùa xuân. [Vua](../K/King_of_Númenor.md) hoặc [Nữ hoàng](../R/Ruling_Queen_of_Númenor.md) cầm quyền, theo sau là một đám đông im lặng, sẽ đi bộ lên núi và lên đỉnh núi thốt lên lời cầu nguyện cho năm mới sắp đến. Theo truyền thống, ba [Đại Bàng](Eagles.md), được [người Númenor](../N/Númenóreans.md) gọi là [Nhân chứng của Manwë](../W/Witnesses_of_Manwë.md), sẽ bay lượn trên Vua và người của hắn vào thời điểm này.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>Erukyermë</b></i> là một trong [Ba lời cầu nguyện](../T/Three_Prayers.md) được tổ chức trên đỉnh [Meneltarma](../M/Meneltarma.md) ở [Númenor](../N/Númenor.md) (những lễ còn lại là *[Erulaitalë](Erulaitalë.md)* và *[Eruhantalë](Eruhantalë.md)*). *Erukyermë* được tổ chức vào đầu mỗi mùa xuân. [Vua](../K/King_of_Númenor.md) hoặc [Nữ hoàng](../R/Ruling_Queen_of_Númenor.md) cầm quyền, theo sau là một đám đông im lặng, sẽ đi bộ lên núi và lên đỉnh núi thốt lên lời cầu nguyện cho năm mới đang đến gần. Theo truyền thống, ba [Đại bàng](Eagles.md), được [Númenóreans](../N/Númenóreans.md) gọi là [Nhân chứng của Manwë](../W/Witnesses_of_Manwë.md), sẽ bay lượn trên Nhà vua và thần dân của ông vào thời điểm này.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Ngay sau *Erukyermë* của [S.A.](../S/Second_Age.md) [883](../S/Second_Age_883.md), [Tar-Meneldur](../T/Tar-Meneldur.md), Vua thứ sáu của Númenor, đã giao [Quyền trượng](../S/Sceptre.md) cho con trai mình [Aldarion](../T/Tar-Aldarion.md).<sup id="cite_ref-Ald_2-0" class="reference"><a href="#cite_note-Ald-2">[2]</a></sup>
+Ngay sau *Erukyermë* của [S.A.](../S/Second_Age.md) [883](../S/Second_Age_883.md), [Tar-Meneldur](../T/Tar-Meneldur.md), vị vua thứ sáu của Númenor, đã giao nộp [Quyền trượng](../S/Sceptre.md) cho con trai mình là [Aldarion](../T/Tar-Aldarion.md).<sup id="cite_ref-Ald_2-0" class="reference"><a href="#cite_note-Ald-2">[2]</a></sup>
 
-Vì Erukyermë đánh dấu sự bắt đầu của một năm mới, điều này cho thấy sự tồn tại của một lịch riêng dành cho mục đích tôn giáo, bắt đầu từ ngày xuân phân. Đối với các vấn đề dân sự, [Edain](Edain.md) bắt đầu năm mới vào giữa mùa đông, ngay sau *[Yule](../Y/Yule.md)*, một truyền thống đã được chứng thực từ tận [Kỷ Đệ Nhất](../F/First_Age.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Vì Erukyermë đánh dấu sự bắt đầu của một năm mới, điều này cho thấy sự tồn tại của một lịch riêng dành cho mục đích tôn giáo, bắt đầu từ ngày xuân phân. Đối với các vấn đề dân sự, [Edain](Edain.md) bắt đầu năm mới vào giữa mùa đông, ngay sau *[Yule](../Y/Yule.md)*, một truyền thống đã được chứng thực từ thời [Kỷ nguyên thứ nhất](../F/First_Age.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Erukyermë* có nghĩa là "Cầu nguyện Eru" trong [Quenya](../Q/Quenya.md) (cf. *[kyermë](../K/Kyermë.md)*).<sup id="cite_ref-Ald_2-1" class="reference"><a href="#cite_note-Ald-2">[2]</a></sup>
+*Erukyermë* có nghĩa là "Cầu nguyện tới Eru" trong [Quenya](../Q/Quenya.md) (cf. *[kyermë](../K/Kyermë.md)*).<sup id="cite_ref-Ald_2-1" class="reference"><a href="#cite_note-Ald-2">[2]</a></sup>
 
 Đã có đề xuất đọc sai *hy* nhưng văn bản là bản đánh máy.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1996: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a>—<a href="../S/Southern_Gondor%253A_The_People.md" title="Southern Gondor: The People">Miền Nam Gondor: Nhân dân</a></i></b>
+<b>1996: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Nhập vai Trung Địa</a>—<a href="../S/Southern_Gondor%253A_The_People.md" title="Southern Gondor: The People">Miền Nam Gondor: Người dân</a></i></b>
 
 <dl><dd>In <a href="../G/Gondor.md" title="Gondor">Gondor</a>, the date for Erukyermë was fixed at 12 <a href="../N/Nénimë.md" title="Nénimë">Nénimë</a> (1 February).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></dd></dl>
 

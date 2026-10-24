@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "C.S. Lewis"
 ---
 
-Chuyển hướng đến [C.S. Lewis](C.S._Lewis.md).
+Chuyển hướng tới [C.S. Lewis](C.S._Lewis.md).

@@ -16,12 +16,12 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><a href="../F/First_Age.md" title="First Age">I</a><a href="../S/Second_Age.md" title="Second Age">II</a><b>III</b><a href="../F/Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="Third_Age_2722.md" title="Third Age 2722">2722</a><a href="Third_Age_2726.md" title="Third Age 2726">2726</a><a href="Third_Age_2731.md" title="Third Age 2731">2731</a><a class="mw-selflink selflink">2733</a><a href="Third_Age_2734.md" title="Third Age 2734">2734</a><a href="Third_Age_2740.md" title="Third Age 2740">2740</a><a href="Third_Age_2741.md" title="Third Age 2741">2741</a></div></div></div></div></div></div>
 
-**Kỷ Đệ Tam 2733** (viết tắt là **T.A. 2733**) là năm [thứ 2733 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Tam](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Kỷ Đệ Tam 2733 còn được gọi là **S.R. 1133** trong [lịch Shire](../S/Shire-reckoning.md).
+**Kỷ thứ ba 2733** (viết tắt là **T.A. 2733**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 2733 của [Kỷ thứ ba](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Thời đại thứ ba 2733 còn được gọi là **S.R. 1133** trong [Tính toán quận](../S/Shire-reckoning.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- Cái chết của [Thân vương](../P/Princes_of_Dol_Amroth.md) thứ mười bốn vô danh của [Dol Amroth](../D/Dol_Amroth.md).<sup id="cite_ref-Elendil_1-0" class="reference"><a href="#cite_note-Elendil-1">[1]</a></sup>
-- Con trai giấu tên của Thân vương thứ mười bốn trở thành [Thân vương](../P/Princes_of_Dol_Amroth.md) thứ mười lăm của [Dol Amroth](../D/Dol_Amroth.md).<sup id="cite_ref-Elendil_1-1" class="reference"><a href="#cite_note-Elendil-1">[1]</a></sup>
+- Cái chết của [Hoàng tử](../P/Princes_of_Dol_Amroth.md) thứ mười bốn của [Dol Amroth](../D/Dol_Amroth.md).<sup id="cite_ref-Elendil_1-0" class="reference"><a href="#cite_note-Elendil-1">[1]</a></sup>
+- Con trai giấu tên của Hoàng tử thứ mười bốn trở thành [Hoàng tử](../P/Princes_of_Dol_Amroth.md) thứ mười lăm của [Dol Amroth](../D/Dol_Amroth.md).<sup id="cite_ref-Elendil_1-1" class="reference"><a href="#cite_note-Elendil-1">[1]</a></sup>
 
 <span></span>
 

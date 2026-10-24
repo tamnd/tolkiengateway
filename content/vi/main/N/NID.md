@@ -12,17 +12,17 @@ categories:
   - "Roots"
 ---
 
-**NID** là một [Primitive Quendian](../P/Primitive_Quendian.md) [gốc](../R/Root.md) có nghĩa là "nhấn, đẩy, ép (theo một hướng nhất định)".<sup id="cite_ref-pe22_165_1-0" class="reference"><a href="#cite_note-pe22_165-1">[1]</a></sup>
+**NID** là [Quendian nguyên thủy](../P/Primitive_Quendian.md) [gốc](../R/Root.md) có nghĩa là "ấn, đẩy, ép (theo một hướng nhất định)".<sup id="cite_ref-pe22_165_1-0" class="reference"><a href="#cite_note-pe22_165-1">[1]</a></sup>
 
-## Phát triển trong Primitive Quendian {#Development_in_Primitive_Quendian}
+## Sự phát triển trong Quendian nguyên thủy {#Development_in_Primitive_Quendian}
 
 Từ NID có thể bắt nguồn từ **inidō**, có nghĩa là "tâm trí trong khả năng có mục đích của nó, ý chí".<sup id="cite_ref-pe22_165_1-1" class="reference"><a href="#cite_note-pe22_165-1">[1]</a></sup> Đây có thể là một từ ghép với **IN** ("tâm trí", "nội tâm")<sup id="cite_ref-pe17_2-0" class="reference"><a href="#cite_note-pe17-2">[2]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:155</sup> và hậu tố sở hữu cách "-ō". Trong nguồn gốc này, inidō sẽ dịch một cách lỏng lẻo là "sức mạnh (chỉ thị) của nội tâm".
 
 Inidō chuyển thành *in'dō*, rồi *[indo](../I/Indo.md)* với dạng động từ *indu-*.<sup id="cite_ref-pe22_165_1-2" class="reference"><a href="#cite_note-pe22_165-1">[1]</a></sup>
 
-## Phát triển trong Quenya {#Development_in_Quenya}
+## Sự phát triển ở Quenya {#Development_in_Quenya}
 
-Thông qua [Noldorin Quenya](Noldorin_Quenya.md) sự phát triển ngữ âm của (d > ř > r),<sup id="cite_ref-pe17_2-1" class="reference"><a href="#cite_note-pe17-2">[2]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:129</sup> NID đã trở thành động từ cơ bản <i><b>nír</b></i> với ý nghĩa tương tự.<sup id="cite_ref-pe22_165_1-3" class="reference"><a href="#cite_note-pe22_165-1">[1]</a></sup>
+Thông qua sự phát triển ngữ âm [Noldorin Quenya](Noldorin_Quenya.md) của (d > ř > r),<sup id="cite_ref-pe17_2-1" class="reference"><a href="#cite_note-pe17-2">[2]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:129</sup> NID đã trở thành động từ cơ bản <i><b>nír</b></i> với ý nghĩa tương tự.<sup id="cite_ref-pe22_165_1-3" class="reference"><a href="#cite_note-pe22_165-1">[1]</a></sup>
 
 Nír có ứng dụng rất rộng và có thể đề cập đến bất kỳ loại áp lực nào, bao gồm cả áp lực vật lý do hoặc chống lại các vật thể vô tri. Trong trường hợp bị ép buộc bởi ý chí hợp lý (khả năng của [fëa](../F/Fëa.md) và [Ainur](../A/Ainur.md)), *indu-* cụ thể hơn đã được sử dụng.<sup id="cite_ref-pe22_165_1-4" class="reference"><a href="#cite_note-pe22_165-1">[1]</a></sup>
 
@@ -70,9 +70,9 @@ Nír có ứng dụng rất rộng và có thể đề cập đến bất kỳ l
 <td><i>-nen</i> (instrumental)
 </td></tr></tbody></table>
 
-## Phát triển trong Sindarin {#Development_in_Sindarin}
+## Sự phát triển ở Sindarin {#Development_in_Sindarin}
 
-Trong [Sindarin](../S/Sindarin.md) NID chuyển về mặt âm vị thành **nîð**, và thu hẹp nghĩa chỉ còn mục đích hoặc ý chí duy lý.<sup id="cite_ref-pe22_165_1-8" class="reference"><a href="#cite_note-pe22_165-1">[1]</a></sup>
+Trong [Sindarin](../S/Sindarin.md) NID chuyển về mặt âm vị thành **nîð**, và thu hẹp nghĩa chỉ còn mục đích hoặc ý chí hợp lý.<sup id="cite_ref-pe22_165_1-8" class="reference"><a href="#cite_note-pe22_165-1">[1]</a></sup>
 
 *Indu* chuyển đổi về mặt âm vị học (indu > ind > inn), và *inn* mang ý nghĩa *particular* mục đích hoặc ý định nào đó của một cá nhân.<sup id="cite_ref-pe22_165_1-9" class="reference"><a href="#cite_note-pe22_165-1">[1]</a></sup>
 
@@ -100,9 +100,9 @@ Trong [Sindarin](../S/Sindarin.md) NID chuyển về mặt âm vị thành **nî
 </td></tr>
 </tbody></table>
 
-## Phát triển trong Telerin {#Development_in_Telerin}
+## Phát triển Telerin {#Development_in_Telerin}
 
-Trong [Telerin](../T/Telerin.md) *nīde* có cùng nghĩa với S. *nîð*và *indo* có cùng nghĩa với S. *inn*. Động từ *nid-* có cùng nghĩa với Q. *nir*.<sup id="cite_ref-pe22_165_1-12" class="reference"><a href="#cite_note-pe22_165-1">[1]</a></sup>
+Trong [Telerin](../T/Telerin.md) *nīde* có cùng ý nghĩa với S. *nîð* và *indo* có cùng ý nghĩa với S. *inn*. Động từ *nid-* có cùng nghĩa với Q. *nir*.<sup id="cite_ref-pe22_165_1-12" class="reference"><a href="#cite_note-pe22_165-1">[1]</a></sup>
 
 <span></span>
 

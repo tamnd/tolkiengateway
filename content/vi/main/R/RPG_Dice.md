@@ -22,11 +22,11 @@ images:
   - "Full_Art_Dice_Set_Ring-bearers_Whitefire_Radiance_(Q_Workshop).jpg"
 ---
 
-**Xúc xắc RPG** là một cách thân thiện với thương hiệu để đề cập đến các loại xúc xắc đa diện được sử dụng để chơi *[Dungeons and Dragons](../D/Dungeons_and_Dragons.md)*và *Lord of the Rings* các phiên bản chuyển thể *[Adventures in Middle-earth](../A/Adventures_in_Middle-earth.md)* và *[The Lord of the Rings Roleplaying](../T/The_Lord_of_the_Rings_Roleplaying.md)*của nó.
+**Xúc xắc RPG** là một cách thân thiện với thương hiệu để đề cập đến các loại xúc xắc đa diện được sử dụng để chơi *[Dungeons and Dragons](../D/Dungeons_and_Dragons.md)* và *Lord of the Rings* các phiên bản chuyển thể *[Adventures in Middle-earth](../A/Adventures_in_Middle-earth.md)* và *[The Lord of the Rings Roleplaying](../T/The_Lord_of_the_Rings_Roleplaying.md)* của nó.
 
 Bộ xúc xắc điển hình thường bao gồm xúc xắc bốn mặt (d4), xúc xắc sáu mặt (d6), xúc xắc tám mặt (d8), xúc xắc mười mặt (d10), xúc xắc mười hai mặt (d12) và xúc xắc hai mươi mặt (d20). Thông thường, d10 thứ hai với cách đánh số khác sẽ được thêm vào để người ta có thể đạt đến 100 với cả hai.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup>
 
-Bộ khởi đầu cho *The Lord of the Rings Roleplaying* đi kèm với một bộ xúc xắc màu đỏ mờ như vậy, mặc dù có hai viên xúc xắc hai mươi mặt thay vì hai viên xúc xắc mười mặt. Chúng được khắc chữ rune của [Con Mắt của Sauron](../E/Eye_of_Sauron.md) và Gandalf.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[1]</a></sup> Đây là quy ước được lấy từ *[The One Ring](<../T/The_One_Ring_(role-playing_game).md>)* trò chơi nhập vai, sử dụng [tập hợp con xúc xắc nhỏ hơn](../T/The_One_Ring_Dice_Sets.md).
+Bộ khởi đầu cho *The Lord of the Rings Roleplaying* đi kèm với một bộ xúc xắc màu đỏ mờ như vậy, mặc dù có hai viên xúc xắc hai mươi mặt thay vì hai viên xúc xắc mười mặt. Chúng được khắc [Con mắt của Sauron](../E/Eye_of_Sauron.md) và rune của Gandalf.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[1]</a></sup> Đây là quy ước được lấy từ *[The One Ring](<../T/The_One_Ring_(role-playing_game).md>)* trò chơi nhập vai sử dụng [tập hợp con xúc xắc nhỏ hơn](../T/The_One_Ring_Dice_Sets.md).
 
 ## Hội thảo Q {#Q_Workshop}
 
@@ -106,7 +106,7 @@ Một bộ truyện riêng biệt có tựa đề "Full Art Dice".<sup id="cite_
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Ví dụ: Những viên xúc xắc phân vị như vậy là viên xúc xắc duy nhất được sử dụng cho <a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a>chẳng hạn.</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Ví dụ: Những viên xúc xắc phân vị như vậy là viên xúc xắc duy nhất được sử dụng cho <a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Nhập vai ở Trung địa</a>chẳng hạn.</span>
 </li>
 </ol></div></span>
 

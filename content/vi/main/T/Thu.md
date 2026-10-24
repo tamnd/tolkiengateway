@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Thû"
 ---
 
-Chuyển hướng đến [Thû](Thû.md).
+Chuyển hướng tới [Thû](Thû.md).

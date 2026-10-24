@@ -15,11 +15,11 @@ categories:
   - "Video Game publishers"
 ---
 
-**NHN Corporation** (tiếng Hàn: 엔에이치엔 주식회사) là một công ty internet của Hàn Quốc. Nó được thành lập vào năm 1999 tại Seongnam, Hàn Quốc. NHN có giấy phép xuất bản [The Lord of the Rings Trực tuyến](../T/The_Lord_of_the_Rings_Online.md) tại Hàn Quốc.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**NHN Corporation** (tiếng Hàn: 엔에이치엔 주식회사) là một công ty internet của Hàn Quốc. Nó được thành lập vào năm 1999 tại Seongnam, Hàn Quốc. NHN có giấy phép xuất bản [The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md) tại Hàn Quốc.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}
 
-- [The Lord of the Rings Trực tuyến](../T/The_Lord_of_the_Rings_Online.md)
+- [The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md)
 - [Lãnh thổ CNTT](../I/IT_Territory.md)
 - [Trò chơi CDC](../C/CDC_Games.md)
 - [Sakura Internet](../S/Sakura_Internet.md)

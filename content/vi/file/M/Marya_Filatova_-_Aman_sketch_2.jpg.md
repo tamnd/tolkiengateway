@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Curufin](../../main/C/Curufin.md) và vị hôn thê của anh ấy
+[Curufin](../../main/C/Curufin.md) và vị hôn thê của ông
 
 ## Giấy phép {#Licensing}
 

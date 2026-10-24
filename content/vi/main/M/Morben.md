@@ -20,11 +20,11 @@ langlinks:
 
 **Morben** (pl. *Morbin* hoặc *Moerbin*) là thuật ngữ được sử dụng giữa [Sindar](../S/Sindar.md) (và [Laegil](../L/Laegil.md)) sống ở [Beleriand](../B/Beleriand.md). *Morbin* là [Avari](../A/Avari.md) hoặc bất kỳ ai khác sống bên ngoài Beleriand hoặc vào Beleriand từ bên ngoài.<sup id="cite_ref-WJB37X_1-0" class="reference"><a href="#cite_note-WJB37X-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-*Morbin* thường là [yêu tinh](../E/Elves.md) (và các dân tộc khác) thù địch với [Eldar](../E/Eldar.md) và [Edain](../E/Edain.md). Nhưng từ này ngay lập tức được sử dụng để chỉ những [Những người phương Đông](<../E/Easterlings_(First_Age).md>) đã đến Phương Tây trước [Trận chiến Nirnaeth](../N/Nirnaeth_Arnoediad.md).<sup id="cite_ref-WJB37X_1-1" class="reference"><a href="#cite_note-WJB37X-1">[1]</a></sup>
+*Morbin* thường là [yêu tinh](../E/Elves.md) (và các dân tộc khác) thù địch với [Eldar](../E/Eldar.md) và [Edain](../E/Edain.md). Nhưng từ này ngay lập tức được sử dụng để chỉ những [Những người phương Đông](<../E/Easterlings_(First_Age).md>) đến phương Tây trước [Trận Nirnaeth](../N/Nirnaeth_Arnoediad.md).<sup id="cite_ref-WJB37X_1-1" class="reference"><a href="#cite_note-WJB37X-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Từ *Morben* bắt nguồn từ [Sindarin](../S/Sindarin.md) từ *[morn](Morn.md)* 'đen, tối' và *[pen](../P/Pen.md)* 'một, ai đó, ai đó'.<sup id="cite_ref-WJA362_3-0" class="reference"><a href="#cite_note-WJA362-3">[3]</a></sup> Nó tương đương với [Q](../Q/Quenya.md). [Moriquendi](Moriquendi.md), nhưng có ý nghĩa và cách sử dụng khác.
+Từ *Morben* bắt nguồn từ [Sindarin](../S/Sindarin.md) các từ *[morn](Morn.md)* 'đen, tối' và *[pen](../P/Pen.md)* 'một, ai đó, ai đó'.<sup id="cite_ref-WJA362_3-0" class="reference"><a href="#cite_note-WJA362-3">[3]</a></sup> Nó tương đương với [Q](../Q/Quenya.md). [Moriquendi](Moriquendi.md), nhưng có ý nghĩa và cách sử dụng khác.
 
 ## Xem thêm {#See_also}
 
@@ -48,4 +48,4 @@ Từ *Morben* bắt nguồn từ [Sindarin](../S/Sindarin.md) từ *[morn](Morn.
 
 <small> </small>
 
-<small><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_War_of_the_Jewels.md" title="The War of the Jewels">The War of the Jewels</a></i>, "Phần thứ tư. <a href="../Q/Quendi_and_Eldar.md" title="Quendi and Eldar">Quendi and Eldar</a>: Ghi chú của tác giả cho Quendi and Eldar", Lưu ý 9 (trang 408–9)</small>
+<small><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_War_of_the_Jewels.md" title="The War of the Jewels">Cuộc chiến của những viên ngọc</a></i>, "Phần thứ tư. <a href="../Q/Quendi_and_Eldar.md" title="Quendi and Eldar">Quendi và Eldar</a>: Ghi chú của tác giả về Quendi và Eldar", Note 9 (trang 408–9)</small>

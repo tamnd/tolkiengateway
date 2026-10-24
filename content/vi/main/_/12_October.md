@@ -64,19 +64,19 @@ Sự kiện xảy ra vào ngày 12 tháng 10
 ## Trên Trái đất {#On_Earth}
 
 - **[1944](1944.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 84](../L/Letter_84.md).
-- **[1944](1944.md)** – [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) gửi *[Leaf by Niggle](../L/Leaf_by_Niggle.md)* tới <i><a class="extiw" href="http://en.wikipedia.org/wiki/Dublin_Review_(Catholic_periodical)" title="wikipedia:Dublin Review (Catholic periodical)">Dublin Review</a></i>, nơi tổ chức một cuộc thi truyện ngắn. Nó được xuất bản trong số [1945](1945.md) tháng Giêng.
+- **[1944](1944.md)** – [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) gửi *[Leaf by Niggle](../L/Leaf_by_Niggle.md)* tới <i><a class="extiw" href="http://en.wikipedia.org/wiki/Dublin_Review_(Catholic_periodical)" title="wikipedia:Dublin Review (Catholic periodical)">Dublin Review</a></i>, nơi tổ chức một cuộc thi truyện ngắn. Nó được xuất bản trong số [1945](1945.md) tháng 1.
 - **[1955](1955.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 172](../L/Letter_172.md).
-- **[1966](1966.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một lá thư cho Kenneth I. Rasmussen, Jr.](../L/Letter_to_Kenneth_I._Rasmussen,_Jr..md).
-- **[1972](1972.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư gửi Rayner Unwin](<../L/Letter_to_Rayner_Unwin_(12_October_1972).md>).
+- **[1966](1966.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư gửi Kenneth I. Rasmussen, Jr.](../L/Letter_to_Kenneth_I._Rasmussen,_Jr..md).
+- **[1972](1972.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một bức thư cho Rayner Unwin](<../L/Letter_to_Rayner_Unwin_(12_October_1972).md>).
 - **[1979](1979.md)** - Tập *[Jackanory](../J/Jackanory.md)* "Sân khấu cuối cùng" được phát sóng trên kênh [BBC](../B/BBC.md).
-- **[2004](2004.md)** - [The Lord of the Rings Bản giao hưởng](../T/The_Lord_of_the_Rings_Symphony.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Milwaukee" title="wikipedia:Milwaukee">Milwaukee</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Wisconsin" title="wikipedia:Wisconsin">Wisconsin</a>.
-- **[2007](2007.md)** - [Nhẫn\*Con 2007](../R/Ring%252ACon_2007.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Fulda" title="wikipedia:Fulda">Fulda</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">Đức</a>.
+- **[2004](2004.md)** - [The Lord of the Rings Symphony](../T/The_Lord_of_the_Rings_Symphony.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Milwaukee" title="wikipedia:Milwaukee">Milwaukee</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Wisconsin" title="wikipedia:Wisconsin">Wisconsin</a>.
+- **[2007](2007.md)** - [Ring\*Con 2007](../R/Ring%252ACon_2007.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Fulda" title="wikipedia:Fulda">Fulda</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">Đức</a>.
 
 ## Trong Arda {#In_Arda}
 
 - [F.A.](../F/First_Age.md) [495](../F/First_Age_495.md):
-    - [Tuor](../T/Tuor.md) gặp [Voronwë](../V/Voronwë.md) đồng ý chỉ đường cho Tuor đến [Gondolin](../G/Gondolin.md). Cặp đôi bắt đầu cuộc hành trình của họ.
+    - [Tuor](../T/Tuor.md) gặp [Voronwë](../V/Voronwë.md) người đồng ý chỉ cho Tuor đường đến [Gondolin](../G/Gondolin.md). Cặp đôi bắt đầu cuộc hành trình của họ.
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - Với [Frodo](../F/Frodo_Baggins.md) bị thương nặng, [Strider](../A/Aragorn.md) và [bốn hobbit](../T/Travellers.md) di chuyển chậm về phía [Rivendell](../R/Rivendell.md).
-    - [Gandalf](../G/Gandalf.md) lao về phía [Rivendell](../R/Rivendell.md) sau khi [Kỵ sĩ Đen](../N/Nazgûl.md) tấn công anh ta vào [Weathertop](../W/Weathertop.md).
+    - Với [Frodo](../F/Frodo_Baggins.md) bị thương nặng, [Strider](../A/Aragorn.md) và [bốn hobbit](../T/Travellers.md) di chuyển chậm rãi về phía [Rivendell](../R/Rivendell.md).
+    - [Gandalf](../G/Gandalf.md) vội vã tiến về [Rivendell](../R/Rivendell.md) sau khi [Kỵ sĩ áo đen](../N/Nazgûl.md) tấn công ông ta trên [Weathertop](../W/Weathertop.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.

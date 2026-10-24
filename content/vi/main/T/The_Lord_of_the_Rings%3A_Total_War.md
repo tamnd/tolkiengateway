@@ -13,7 +13,7 @@ categories:
   - "Modifications"
 ---
 
-**The Lord of the Rings: Total War**, hay đơn giản là **tlotrtw**, là bản sửa đổi cho trò chơi PC <i><a class="extiw" href="http://en.wikipedia.org/wiki/Rome:_Total_War" title="wikipedia:Rome: Total War">Rome: Total War</a></i> của dòng game Total War của <a class="extiw" href="http://en.wikipedia.org/wiki/Sega" title="wikipedia:Sega">Sega</a> và <a class="extiw" href="http://en.wikipedia.org/wiki/Activision" title="wikipedia:Activision">Activision</a>. Nó thay đổi bản đồ Châu Âu thành bản đồ [Trung Địa](../M/Middle-earth.md), trong khi vẫn giữ nguyên lối chơi chiến lược theo lượt và các trận chiến thời gian thực của bản gốc. Một dự án mô phỏng là [Kỷ Đệ Tam: Total War](Third_Age%253A_Total_War.md).
+**Chúa tể của những chiếc nhẫn: Total War**, hay đơn giản là **tlotrtw**, là một bản sửa đổi cho trò chơi PC <i><a class="extiw" href="http://en.wikipedia.org/wiki/Rome:_Total_War" title="wikipedia:Rome: Total War">Rome: Total War</a></i> của loạt game Total War của <a class="extiw" href="http://en.wikipedia.org/wiki/Sega" title="wikipedia:Sega">Sega</a> và <a class="extiw" href="http://en.wikipedia.org/wiki/Activision" title="wikipedia:Activision">Activision</a>. Nó thay đổi bản đồ Châu Âu thành bản đồ [Trung Địa](../M/Middle-earth.md), trong khi vẫn giữ nguyên lối chơi chiến lược theo lượt và các trận chiến thời gian thực của bản gốc. Một dự án mô phỏng là [Third Age: Total War](Third_Age%253A_Total_War.md).
 
 ## Lượt thích bên ngoài {#External_Liks}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dor-Cúarthol"
 ---
 
-Chuyển hướng đến [Dor-Cúarthol](../D/Dor-Cúarthol.md).
+Chuyển hướng tới [Dor-Cúarthol](../D/Dor-Cúarthol.md).

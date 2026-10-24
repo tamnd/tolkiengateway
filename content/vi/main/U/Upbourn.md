@@ -43,11 +43,11 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Upbourn.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/4c/The_Lord_of_the_Rings_Online_-_Upbourn.jpg/320px-The_Lord_of_the_Rings_Online_-_Upbourn.jpg" decoding="async" loading="lazy" width="320" height="180" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/4c/The_Lord_of_the_Rings_Online_-_Upbourn.jpg/480px-The_Lord_of_the_Rings_Online_-_Upbourn.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/4c/The_Lord_of_the_Rings_Online_-_Upbourn.jpg/640px-The_Lord_of_the_Rings_Online_-_Upbourn.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>Upbourn in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Hamlet</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Upbourn</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>General Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Other names</th><td class="tg-infobox-data"><i>Upburnan</i></td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../H/Harrowdale.md" title="Harrowdale">Harrowdale</a> (<a href="../R/Rohan.md" title="Rohan">Rohan</a>)</td></tr><tr><th scope="row" class="tg-infobox-label">Type</th><td class="tg-infobox-data">Hamlet</td></tr><tr><th scope="row" class="tg-infobox-label">Description</th><td class="tg-infobox-data">A small hamlet on the banks of the <a href="../S/Snowbourn.md" title="Snowbourn">Snowbourn</a> river</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>People and History</span></th></tr><tr><th scope="row" class="tg-infobox-label">Inhabitants</th><td class="tg-infobox-data"><a href="../R/Rohirrim.md" title="Rohirrim">Rohirrim</a></td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Upbourn.md" title="Category:Images of Upbourn">Images of Upbourn</a></td></tr></tbody></table>
 
-**Upbourn** là một thôn nằm ở [Rohan](../R/Rohan.md), phía nam [Edoras](../E/Edoras.md) bên bờ sông [Snowbourn](../S/Snowbourn.md) trong thung lũng [Harrowdale](../H/Harrowdale.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Upbourn** là một ngôi làng nằm ở [Rohan](../R/Rohan.md), phía nam [Edoras](../E/Edoras.md) trên bờ [Snowbourn](../S/Snowbourn.md) trong thung lũng [Harrowdale](../H/Harrowdale.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Tên này là sự hiện đại hóa của [tiếng Anh cổ](../O/Old_English.md) *Upburnan* như đại diện cho [Rohanese](../R/Rohanese.md).<sup id="cite_ref-Nomen_2-0" class="reference"><a href="#cite_note-Nomen-2">[2]</a></sup>
+Tên này là sự hiện đại hóa của [tiếng Anh cổ](../O/Old_English.md) *Upburnan* đại diện cho [tiếng Rohan](../R/Rohanese.md).<sup id="cite_ref-Nomen_2-0" class="reference"><a href="#cite_note-Nomen-2">[2]</a></sup>
 
 Nó xuất phát từ thực tế là ngôi làng này nằm cách "ngược" sông Snowbourn.<sup id="cite_ref-Nomen_2-1" class="reference"><a href="#cite_note-Nomen-2">[2]</a></sup>
 
@@ -55,7 +55,7 @@ Như [Tolkien](../J/J.R.R._Tolkien.md) đã lưu ý, *up-* được sử dụng 
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayals_in_Adaptations}
 
-<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i></b>
+<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i></b>
 
 <dl><dd>Upbourn is a small village located just north of <a href="Underharrow.md" title="Underharrow">Underharrow</a> and ruled by <a href="../D/Dúnhere.md" title="Dúnhere">Dúnhere</a>, the Lord of <a href="../H/Harrowdale.md" title="Harrowdale">Harrowdale</a>. Unusually for the game, it features neither vendor nor Quest-giver NPCs and aside from a brief visit by the player plays no role in the storyline.</dd></dl>
 

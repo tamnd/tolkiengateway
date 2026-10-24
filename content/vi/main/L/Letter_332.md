@@ -35,11 +35,11 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien báo cáo với con trai rằng <a class="extiw" href="http://en.wikipedia.org/wiki/Merton_College,_Oxford" title="wikipedia:Merton College, Oxford">Merton College</a> đã cung cấp cho cậu một căn hộ đủ rộng để chứa thư viện còn sót lại của cậu. Sự sắp xếp bao gồm tiền thuê nhà danh nghĩa, đồ nội thất miễn phí, dịch vụ gia đình miễn phí, bữa trưa và bữa tối miễn phí quanh năm khi ở nhà, dịch vụ điện thoại miễn phí, gas và điện với mức giá giảm, và sử dụng hai phòng sinh hoạt chung đẹp mắt với giấy viết miễn phí, báo miễn phí và cà phê giữa buổi sáng. Tất cả đều phụ thuộc vào sức khỏe tốt của anh, điều này không khiến anh cảm thấy an tâm lắm vì anh vừa bị ốm từ tháng 10 đến tháng 12.
+Tolkien báo cáo với con trai rằng <a class="extiw" href="http://en.wikipedia.org/wiki/Merton_College,_Oxford" title="wikipedia:Merton College, Oxford">Trường Cao đẳng Merton</a> đã cung cấp cho ông một căn hộ đủ rộng để chứa thư viện còn sót lại của ông. Sự sắp xếp bao gồm tiền thuê nhà danh nghĩa, đồ nội thất miễn phí, dịch vụ gia đình miễn phí, bữa trưa và bữa tối miễn phí quanh năm khi ở nhà, dịch vụ điện thoại miễn phí, gas và điện với mức giá giảm, và sử dụng hai phòng sinh hoạt chung đẹp mắt với giấy viết miễn phí, báo miễn phí và cà phê giữa buổi sáng. Tất cả đều phụ thuộc vào sức khỏe tốt của anh, điều này không khiến anh cảm thấy an tâm lắm vì anh vừa bị ốm từ tháng 10 đến tháng 12.
 
-Cảm giác bất an của anh, Tolkien, là do hậu quả tàn tật của nỗi đau mất người thân.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> Khi anh nghĩ, "Mình phải nói với Edith về chuyện này" anh đột nhiên cảm thấy mình như kẻ bị trôi dạt trên một hòn đảo cằn cỗi dưới bầu trời u ám sau khi mất một con tàu lớn. Anh đã từng cảm thấy như vậy khi mẹ anh qua đời và một lần nữa sau cái chết của [Cha Francis](../F/Francis_Xavier_Morgan.md), nhưng những nỗi đau buồn đó lại đến khi anh còn nhỏ.
+Tolkien nói, cảm giác bất an của ông là do ảnh hưởng của việc mất người thân.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> Khi ông nghĩ, "Tôi phải nói với Edith về điều này" ông đột nhiên cảm thấy mình giống như một kẻ bị bỏ rơi trên một hòn đảo cằn cỗi dưới bầu trời không chú ý sau khi mất một con tàu lớn. Anh đã từng cảm thấy như vậy khi mẹ anh qua đời và một lần nữa sau cái chết của [Cha Francis](../F/Francis_Xavier_Morgan.md), nhưng những nỗi đau buồn đó lại đến khi anh còn nhỏ.
 
-Tolkien gọi vợ là [Lúthien Tinúviel](Lúthien.md) của "chuyện tình" của riêng mình. Nhưng giờ cô ấy đã ra đi trước [Beren](../B/Beren.md) và không có [Dor Gyrth i chuinar](../D/Dor_Firn-i-Guinar.md) ở Vương quốc Sụp đổ Arda này.
+Tolkien gọi vợ mình là [Lúthien Tinúviel](Lúthien.md) trong "mối tình lãng mạn" của chính mình. Nhưng giờ bà đã ra đi trước [Beren](../B/Beren.md) và không có [Dor Gyrth i chuinar](../D/Dor_Firn-i-Guinar.md) ở Vương quốc Arda sụp đổ này.
 
 ## Ghi chú {#Notes}
 

@@ -24,17 +24,17 @@ images:
   - "The_Lord_of_the_Rings_Online_-_Twenty-First_Hall.jpeg"
 ---
 
-**Đại sảnh thứ Hai mươi mốt** là một đại sảnh ở [Tầng thứ bảy](../S/Seventh_Level.md) ở [Đầu phía Bắc](../N/North_End.md) của vương quốc [Người lùn](../D/Dwarves.md) [Moria](../M/Moria.md).
+**Hội trường thứ hai mươi mốt** là một hội trường lớn ở [Tầng thứ bảy](../S/Seventh_Level.md) ở [Đầu phía Bắc](../N/North_End.md) của vương quốc [Người lùn](../D/Dwarves.md) của [Moria](../M/Moria.md).
 
-<br> Thuộc địa của [Balin](../B/Balin's_Colony~64118.md) đã lấy lại Sảnh từ [Orc](../O/Orcs.md). Có đề cập rằng có "không khí trong lành" và "trục thông thoáng" và cho phép Người Lùn quan sát xung quanh.
+<br> [Thuộc địa của Balin](../B/Balin's_Colony~64118.md) đã giành lại Sảnh từ [Orc](../O/Orcs.md). Người ta đề cập rằng có "không khí trong lành" và "trục thông thoáng" và cho phép Người lùn quan sát xung quanh.
 
-Nhiều năm sau, [Hiệp hội](../F/Fellowship_of_the_Ring.md) cắm trại qua đêm tại hội trường trong chuyến hành trình xuyên qua Moria. [Gandalf](../G/Gandalf.md) đã có thể xác định được hội trường sau khi Hiệp hội tìm thấy [Phòng Mazarbul](../C/Chamber_of_Mazarbul.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Nhiều năm sau, [Hiệp hội](../F/Fellowship_of_the_Ring.md) cắm trại qua đêm tại hội trường trong chuyến hành trình xuyên Moria. [Gandalf](../G/Gandalf.md) đã có thể xác định được hội trường sau khi Hiệp hội tìm thấy [Phòng Mazarbul](../C/Chamber_of_Mazarbul.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
 <figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Twenty-First_Hall.jpeg.md"><img src="https://tolkiengateway.net/w/images/4/4d/The_Lord_of_the_Rings_Online_-_Twenty-First_Hall.jpeg" decoding="async" loading="lazy" width="284" height="177" class="mw-file-element" data-file-width="284" data-file-height="177"/></a><figcaption>The Twenty-First Hall in <i>Lord of the Rings Online</i></figcaption></figure>
 
-<b>2007: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
 
 <dl><dd>The Twenty-first Hall is the central base of operations for the Iron Garrison.</dd></dl>
 

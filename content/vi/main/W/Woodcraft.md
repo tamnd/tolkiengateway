@@ -31,7 +31,7 @@ images:
 
 ## Định nghĩa {#Definition}
 
-**Nghề mộc**, được định nghĩa một cách đơn giản, trong các tác phẩm của Tolkien đề cập đến **nghệ thuật sinh tồn cũng như kỹ năng và kinh nghiệm về bất cứ điều gì liên quan đến rừng.**
+**Nghề mộc**, được định nghĩa một cách đơn giản, trong các tác phẩm của Tolkien đề cập đến **nghệ thuật sinh tồn cũng như kỹ năng và kinh nghiệm trong bất kỳ lĩnh vực nào liên quan đến rừng.**
 
 Từ điển Merriam-Webster định nghĩa nghề mộc là:
 

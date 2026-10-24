@@ -18,17 +18,17 @@ langlinks:
     url: "https://kontu.wiki/Markin_marsalkka"
 ---
 
-**Nguyên soái thứ ba của Riddermark** là Nguyên soái thứ ba, cấp bậc quân sự cao nhất trong số [Kỵ sĩ của Rohan](../_/Éored.md) và là cấp bậc trung úy của [Vua Rohan](../K/King_of_Rohan.md).
+**Nguyên soái thứ ba của Riddermark** là Nguyên soái thứ ba, cấp bậc quân sự cao nhất trong số [Kỵ sĩ Rohan](../_/Éored.md) và là cấp dưới của [Vua Rohan](../K/King_of_Rohan.md).
 
-Nhiệm vụ của Nguyên soái thứ ba, giống như nhiệm vụ của [Nguyên soái thứ hai của Riddermark](../S/Second_Marshal_of_the_Riddermark.md), không cố định mà được Vua giao theo thời gian yêu cầu.<sup id="cite_ref-:0_1-0" class="reference"><a href="#cite_note-:0-1">[1]</a></sup>
+Nhiệm vụ của Nguyên soái thứ ba, giống như nhiệm vụ của [Nhị nguyên soái của Riddermark](../S/Second_Marshal_of_the_Riddermark.md), không cố định mà được Nhà vua giao theo thời gian yêu cầu.<sup id="cite_ref-:0_1-0" class="reference"><a href="#cite_note-:0-1">[1]</a></sup>
 
-## Trong Cuộc chiến Nhẫn {#During_the_War_of_the_Ring}
+## Trong Cuộc chiến nhẫn {#During_the_War_of_the_Ring}
 
-Trước [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), Vua [Théoden](Théoden.md) nằm dưới quyền lực của [Saruman](../S/Saruman.md) và ảnh hưởng của [Grima Wormtongue](../G/Gríma.md), người đã ra lệnh cho Vua qua giọng nói của người này. Vào thời điểm này và trong Cuộc chiến Nhẫn, Nguyên soái thứ ba là [Éomer](../_/Éomer.md), con trai của [Éomund](../_/Éomund.md) (cũng là Nguyên soái) và là cháu trai của Vua Théoden.  Cơ sở hoạt động của Éomer là ở [Aldburg](../A/Aldburg.md) ở [Folde](../F/Folde.md).
+Trước [Cuộc chiến nhẫn](../W/War_of_the_Ring.md), Vua [Théoden](Théoden.md) nằm dưới quyền lực của [Saruman](../S/Saruman.md) và ảnh hưởng của [Grima Wormtongue](../G/Gríma.md), người đã đưa ra mệnh lệnh của Nhà vua qua giọng nói của người này. Vào thời điểm này và trong Cuộc chiến nhẫn, Thống chế thứ ba là [Éomer](../_/Éomer.md), con trai của [Éomund](../_/Éomund.md) (cũng là Thống chế) và là cháu trai của Vua Théoden.  Cơ sở hoạt động của Éomer là ở [Aldburg](../A/Aldburg.md) ở [Folde](../F/Folde.md).
 
-Sau khi Théodred bị giết và Vua Théoden đã lấy lại được sức khỏe, Éomer thực sự đã trở thành Thống chế đầu tiên của Riddermark, mặc dù không chính thức nhận danh hiệu đó. [Erkenbrand](../E/Erkenbrand.md) nắm quyền chỉ huy Western Muster.  Tại Full Muster trước [Trận chiến trên Cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md), [Grimbold](../G/Grimbold.md) đã nắm quyền chỉ huy Muster của West-mark, tuy nhiên danh hiệu Nguyên soái thứ ba không được trao.  Grombold bị giết trong Trận cánh đồng Pelennor.
+Sau khi Théodred bị giết và Vua Théoden hồi phục sức khỏe, Éomer thực tế đã trở thành Nguyên soái thứ nhất của Riddermark, mặc dù không chính thức nhận danh hiệu đó. [Erkenbrand](../E/Erkenbrand.md) nắm quyền chỉ huy Western Muster.  Tại Full Muster trước [Trận chiến trên cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md), [Grimbold](../G/Grimbold.md) nắm quyền chỉ huy Muster of the West-mark, tuy nhiên danh hiệu Thống chế thứ ba không được trao.  Grombold bị giết trong Trận chiến trên cánh đồng Pelennor.
 
-Sau Cuộc chiến Nhẫn, Éomer trở thành Vua và sửa đổi truyền thống cũ của ba nguyên soái, trao cho Erkenbrand chức danh mới là [Thống chế West-mark](../M/Marshal_of_the_West-mark.md).<sup id="cite_ref-:0_1-1" class="reference"><a href="#cite_note-:0-1">[1]</a></sup><span></span>
+Sau Cuộc chiến nhẫn, Éomer trở thành Vua và sửa đổi truyền thống cũ của ba thống chế, trao cho Erkenbrand danh hiệu mới là [Thống chế Tây Mark](../M/Marshal_of_the_West-mark.md).<sup id="cite_ref-:0_1-1" class="reference"><a href="#cite_note-:0-1">[1]</a></sup><span></span>
 
 ## Tài liệu tham khảo {#References}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Of the Silmarils and the Unrest of the Noldor"
 ---
 
-Chuyển hướng đến [Của Silmaril và Sự bất ổn của Noldor](Of_the_Silmarils_and_the_Unrest_of_the_Noldor.md).
+Chuyển hướng tới [Của Silmarils và Sự bất ổn của Noldor](Of_the_Silmarils_and_the_Unrest_of_the_Noldor.md).

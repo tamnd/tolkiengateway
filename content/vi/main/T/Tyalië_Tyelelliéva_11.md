@@ -33,15 +33,15 @@ infobox:
 ## Nội dung {#Contents}
 
 - Biên tập, Sự kiện thiên thể, Tin tức
-- Bree Báo cáo tranh luận của Lisa Star (có hình ảnh)
-- Elvish Người đoạt giải Thơ Ngôn ngữ
+- Báo cáo Bree Moot của Lisa Star (có hình ảnh)
+- Người đoạt giải Thơ bằng tiếng Elvish
 - Thư gửi Biên tập viên của Tiến sĩ Rhona Beare (về vụ bắt cóc Guinevere)
-- Eorl the Young Tấm thảm của Richard Derdzinski (tác phẩm nghệ thuật có dòng chữ)
-- Bông tuyết của Harold E. Ensle (bài thơ trong Sindarin)
-- Suremista của Basil E. Firsov (bài thơ trong Quenya)
+- Tấm thảm Eorl the Young của Richard Derdzinski (tác phẩm nghệ thuật có dòng chữ)
+- Bông tuyết của Harold E. Ensle (thơ bằng tiếng Sindarin)
+- Suremista của Basil E. Firsov (thơ ở Quenya)
 - Chữ khắc trên đá của Leonid Korablev (tác phẩm nghệ thuật)
-- Legolas' Bài hát của Lebennin, được dịch (sang Sindarin) bởi David Salo
-- Cửa có dòng chữ Moria Verso
+- Bài hát của Lebennin của Legolas, được dịch (sang tiếng Sindarin) bởi David Salo
+- Cánh cửa có dòng chữ Moria Verso
 - Mảnh bản thảo cũ (tác phẩm của Lisa Star)
 - Bàn tay và con nhện, bài viết của Tiến sĩ Rhona Beare
 - Đánh giá sách, trang web và khảo sát của Waterstone (báo cáo)

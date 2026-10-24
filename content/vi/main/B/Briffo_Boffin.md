@@ -46,7 +46,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Briffo là con thứ ba của [Buffo Boffin](Buffo_Boffin.md) và [Ivy Goodenough](../I/Ivy_Goodenough.md). Ở [S.R.](../S/Shire_Reckoning.md) [1210](../T/Third_Age_2810.md), anh ấy chuyển đến [Bree](Bree.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Briffo là con thứ ba của [Buffo Boffin](Buffo_Boffin.md) và [Ivy Goodenough](../I/Ivy_Goodenough.md). Ở [S.R.](../S/Shire_Reckoning.md) [1210](../T/Third_Age_2810.md), ông chuyển đến [Bree](Bree.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

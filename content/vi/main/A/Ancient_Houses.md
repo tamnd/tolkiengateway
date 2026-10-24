@@ -11,4 +11,4 @@ redirect_target: "Edain"
 redirect_fragment: "The Three Houses"
 ---
 
-Chuyển hướng đến [Edain](../E/Edain.md#The_Three_Houses).
+Chuyển hướng tới [Edain](../E/Edain.md#The_Three_Houses).

@@ -33,7 +33,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Brogan trước đó đã gửi Tolkien một lá thư chứa đựng những lời chỉ trích mà sau này anh cho rằng thật ngu ngốc và thiếu tế nhị. Tolkien trả lời rằng anh ấy hoan nghênh những lời chỉ trích và mời Brogan viết nhiều hơn, vì anh ấy rất chú ý đến sách. <br>
+Brogan trước đó đã gửi cho Tolkien một lá thư chứa đựng những lời chỉ trích mà sau này anh cho rằng điều đó thật ngu ngốc và thiếu tế nhị. Tolkien trả lời rằng ông hoan nghênh những lời chỉ trích và mời Brogan viết nhiều hơn, vì ông rất chú ý đến những cuốn sách. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

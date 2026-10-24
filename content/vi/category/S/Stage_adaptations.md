@@ -12,4 +12,4 @@ categories:
   - "Adaptations"
 ---
 
-Thể loại này liệt kê tất cả **chuyển thể sân khấu** của tác phẩm [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md).
+Thể loại này liệt kê tất cả **chuyển thể sân khấu** của các tác phẩm của [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md).

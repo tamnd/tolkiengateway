@@ -25,21 +25,21 @@ images:
 
 <figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Miriam_Ellis_-_What_Hal_saw_beyond_the_North_Moors.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/47/Miriam_Ellis_-_What_Hal_saw_beyond_the_North_Moors.jpg/250px-Miriam_Ellis_-_What_Hal_saw_beyond_the_North_Moors.jpg" decoding="async" loading="lazy" width="250" height="249" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/47/Miriam_Ellis_-_What_Hal_saw_beyond_the_North_Moors.jpg/375px-Miriam_Ellis_-_What_Hal_saw_beyond_the_North_Moors.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/47/Miriam_Ellis_-_What_Hal_saw_beyond_the_North_Moors.jpg/500px-Miriam_Ellis_-_What_Hal_saw_beyond_the_North_Moors.jpg 2x" data-file-width="1000" data-file-height="994"/></a><figcaption>&#34;What <a href="../H/Halfast_Gamgee.md" title="Halfast Gamgee">Hal</a> saw beyond the North Moors&#34; by <a href="../M/Miriam_Ellis.md" title="Miriam Ellis">Miriam Ellis</a></figcaption></figure>
 
-**North Moors** nằm dọc theo biên giới phía bắc của [Shire](../S/Shire.md) trong [Northfarthing](Northfarthing.md).<sup id="cite_ref-FRHobbits_1-0" class="reference"><a href="#cite_note-FRHobbits-1">[1]</a></sup>
+**North Moors** nằm dọc theo biên giới phía bắc của [Shire](../S/Shire.md) ở [Northfarthing](Northfarthing.md).<sup id="cite_ref-FRHobbits_1-0" class="reference"><a href="#cite_note-FRHobbits-1">[1]</a></sup>
 
 ## Địa lý {#Geography}
 
-North Moors nằm cách khoảng 50 dặm (150 dặm) về phía bắc của [Đầm lầy ở phía nam](../M/Marshes_in_the_south.md).<sup id="cite_ref-FRHobbits_1-1" class="reference"><a href="#cite_note-FRHobbits-1">[1]</a></sup> Không có cây du nào mọc ở North Moors,<sup id="cite_ref-Tree_2-0" class="reference"><a href="#cite_note-Tree-2">[2]</a></sup> và đây là khu vực duy nhất nằm trong ranh giới của Shire thường xuyên có tuyết rơi dày.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+North Moors nằm cách khoảng 50 dặm (150 dặm) về phía bắc của [Đầm lầy ở phía nam](../M/Marshes_in_the_south.md).<sup id="cite_ref-FRHobbits_1-1" class="reference"><a href="#cite_note-FRHobbits-1">[1]</a></sup> Không có cây du nào mọc ở North Moors,<sup id="cite_ref-Tree_2-0" class="reference"><a href="#cite_note-Tree-2">[2]</a></sup> và đó là vùng duy nhất nằm trong ranh giới của Quận nơi thường xuyên có tuyết rơi dày.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Lịch sử {#History}
 
-Vào khoảng mùa xuân [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md), [Samwise Gamgee](../S/Samwise_Gamgee.md) nghe được tin đồn rằng anh họ của anh, [Halfast Gamgee](../H/Halfast_Gamgee.md), báo cáo đã nhìn thấy [Người cây](../T/Tree-men.md) hoặc [người khổng lồ](../G/Giants.md) ở phía bên kia vùng North Moors.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Vào khoảng mùa xuân [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md), [Samwise Gamgee](../S/Samwise_Gamgee.md) nghe được tin đồn rằng anh họ của anh, [Halfast Gamgee](../H/Halfast_Gamgee.md), báo cáo đã nhìn thấy [Người cây](../T/Tree-men.md) hoặc [người khổng lồ](../G/Giants.md) ở phía bên kia North Moors.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
-Halfast có thể đã chứng kiến ​​một số loại [troll](../T/Trolls.md)<sup id="cite_ref-unpublished_5-0" class="reference"><a href="#cite_note-unpublished-5">[5]</a></sup> hoặc một trong số [Ent](../E/Ents.md) mà [Gandalf](../G/Gandalf.md) đã yêu cầu canh chừng Shire.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Halfast có thể đã chứng kiến ​​một số loại [troll](../T/Trolls.md)<sup id="cite_ref-unpublished_5-0" class="reference"><a href="#cite_note-unpublished-5">[5]</a></sup> hoặc một trong số [Ent](../E/Ents.md) mà [Gandalf](../G/Gandalf.md) đã yêu cầu canh gác ở Shire.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2025: <i><a href="../T/The_One_Ring_(role-playing_game).md" title="The One Ring (role-playing game)">Chiếc nhẫn duy nhất</a> — <a href="../H/Hobbit_Tales.md" title="Hobbit Tales">Hobbit Truyện</a></i>:</b>
+<b>2025: <i><a href="../T/The_One_Ring_(role-playing_game).md" title="The One Ring (role-playing game)">Chiếc nhẫn duy nhất</a> — <a href="../H/Hobbit_Tales.md" title="Hobbit Tales">Truyện Hobbit</a></i>:</b>
 
 <dl><dd>Where the <a href="Norbourn.md" title="Norbourn">Norbourn</a> left the North Moors stood a building known to Hobbits as Kingsworthy, which they assumed was once a hunting lodge of the <a href="../K/King_of_Arthedain.md" title="King of Arthedain">King of Arthedain</a>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></dd></dl>
 

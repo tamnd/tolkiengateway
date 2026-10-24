@@ -40,11 +40,11 @@ infobox:
   <tr><th scope="row" class="tg-infobox-label">Subject(s)</th><td class="tg-infobox-data"><a href="Cats.md" title="Cats">Cats</a>, <a href="../L/Lions.md" title="Lions">Lions</a>, <a href="../P/Pards.md" title="Pards">Pards</a></td></tr>
 </tbody></table>
 
-<i><b>Cat</b></i> là một bài thơ được viết bởi [Sam Gamgee](../S/Sam_Gamgee.md) và được ghi vào [Red Book of Westmarch](../R/Red_Book_of_Westmarch.md), mặc dù cùng lắm anh ấy chỉ sửa lại một đoạn cũ hơn. [Hobbit](../H/Hobbits.md) có vẻ rất thích truyện tranh về người thú, đây là một ví dụ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>Cat</b></i> là một bài thơ được viết bởi [Sam Gamgee](../S/Sam_Gamgee.md) và được ghi vào [Sách đỏ Westmarch](../R/Red_Book_of_Westmarch.md), mặc dù cùng lắm ông chỉ sửa lại một đoạn cũ hơn. [Người Hobbit](../H/Hobbits.md) có vẻ thích truyện tranh về truyền thuyết về người thú, đây là một ví dụ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Bài thơ gồm có hai khổ thơ dài, ngắn xen kẽ nhau. Nó dựa vào sự đồng âm, sự kiềm chế của các nguyên âm, để tạo ra vần điệu bên trong.
 
-[Tolkien](../J/J.R.R._Tolkien.md) đã viết bài thơ cho <a class="new" href="https://tolkiengateway.net/w/index.php?title=Joan_Anne_Tolkien&amp;action=edit&amp;redlink=1" title="Joan Anne Tolkien (page does not exist)">cháu gái</a> của mình vào năm [1956](../_/1956.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Rõ ràng ông đã sử dụng trong bài thơ một thiết bị được tìm thấy trong các di tích thời trung cổ (một số bản thảo như vậy được [Thư viện Bodleian](../B/Bodleian_Library.md) lưu giữ tại [Oxford](../O/Oxford.md)): sự ghép đôi giữa [sư tử](../L/Lions.md) và [pards](../P/Pards.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+[Tolkien](../J/J.R.R._Tolkien.md) đã viết bài thơ cho <a class="new" href="https://tolkiengateway.net/w/index.php?title=Joan_Anne_Tolkien&amp;action=edit&amp;redlink=1" title="Joan Anne Tolkien (page does not exist)">cháu gái</a> của mình ở [1956](../_/1956.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Rõ ràng ông đã sử dụng trong bài thơ một thiết bị được tìm thấy trong các cuốn sách về thú vật thời Trung cổ (một số bản thảo như vậy được lưu giữ tại [Thư viện Bodleian](../B/Bodleian_Library.md) tại [Oxford](../O/Oxford.md)): sự ghép đôi của [sư tử](../L/Lions.md) và [xin lỗi](../P/Pards.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 Bài thơ được đăng thành bài thơ thứ mười hai trong *[The Adventures of Tom Bombadil](../T/The_Adventures_of_Tom_Bombadil.md)* (1962).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Bài thơ cũng được đăng riêng trong tuyển tập *[The Poetical Cat](../T/The_Poetical_Cat.md)* (1995).
 
@@ -63,7 +63,7 @@ but he free, maybe,
 
 ## Xem thêm {#See_also}
 
-- [Các bài thơ của J.R.R. Tolkien](../../index/P/Poems_by_J.R.R._Tolkien.md)
+- [Thơ của J.R.R. Tolkien](../../index/P/Poems_by_J.R.R._Tolkien.md)
 
 <span></span>
 

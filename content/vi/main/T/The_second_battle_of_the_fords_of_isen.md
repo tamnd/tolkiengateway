@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Second Battle of the Fords of Isen"
 ---
 
-Chuyển hướng tới [Trận vượt cạn thứ hai của Isen](../S/Second_Battle_of_the_Fords_of_Isen.md).
+Chuyển hướng tới [Trận vượt sông Isen lần thứ hai](../S/Second_Battle_of_the_Fords_of_Isen.md).

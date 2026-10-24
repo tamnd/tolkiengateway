@@ -46,13 +46,13 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../H/Hobbits.md" title="Hobbits">Hobbit</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Menegilda Goold</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Other names</th><td class="tg-infobox-data">Menegilda Brandybuck</td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../B/Buckland.md" title="Buckland">Buckland</a></td></tr><tr><th scope="row" class="tg-infobox-label">Death</th><td class="tg-infobox-data">c. <a class="mw-redirect" href="../S/Shire_Reckoning.md" title="Shire Reckoning">S.R.</a> <a href="../T/Third_Age_3000.md" title="Third Age 3000">1400</a><br/></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">Family</th><td class="tg-infobox-data"><a class="mw-redirect" href="../G/Goold_Family~66390.md" title="Goold Family">Goold</a></td></tr><tr><th scope="row" class="tg-infobox-label">Spouse</th><td class="tg-infobox-data"><a href="../R/Rorimac_Brandybuck.md" title="Rorimac Brandybuck">Rorimac Brandybuck</a></td></tr><tr><th scope="row" class="tg-infobox-label">Children</th><td class="tg-infobox-data"><a href="../S/Saradoc_Brandybuck.md" title="Saradoc Brandybuck">Saradoc</a> and <a href="Merimac_Brandybuck.md" title="Merimac Brandybuck">Merimac</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Female</td></tr></tbody></table>
 
-**Menegilda Brandybuck, nhũ danh Goold**, là Hobbit của [the Shire](../T/The_Shire.md).
+**Menegilda Brandybuck, nhũ danh Goold**, là một người Hobbit của [Quận](../T/The_Shire.md).
 
 ## Lịch sử {#History}
 
 Menegilda kết hôn với [Rorimac Brandybuck](../R/Rorimac_Brandybuck.md) và sinh ra hai người con, [Saradoc](../S/Saradoc_Brandybuck.md) và [Merimac](Merimac_Brandybuck.md).
 
-Không giống như chồng và các con trai, bà không có mặt tại [Bilbo Baggins](../B/Bilbo_Baggins.md)' [Tiệc sinh nhật](../B/Bilbo's_Farewell_Party.md) ở [S.R.](../S/Shire_Reckoning.md) [1401](../T/Third_Age_3001.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Không giống như chồng và các con trai, bà không có mặt tại [Bilbo Baggins](../B/Bilbo_Baggins.md)' [Bữa tiệc sinh nhật](../B/Bilbo's_Farewell_Party.md) ở [S.R.](../S/Shire_Reckoning.md) [1401](../T/Third_Age_3001.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

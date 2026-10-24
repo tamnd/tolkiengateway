@@ -13,7 +13,7 @@ categories:
   - "Sindarin nouns"
 ---
 
-<i><b>chwind</b></i>, hoặc <i><b>whinn</b></i>, là [Sindarin](../S/Sindarin.md) các từ có nghĩa là "[bạch dương](../B/Birches.md)" (tương đương [Quenya](../Q/Quenya.md) là *[hwinde](../H/Hwinde.md)*). Các từ này được sử dụng theo nghĩa 'phi thần thoại thông thường', trái ngược với từ *[brethil](<../B/Brethil_(Sindarin_word).md>)*.<sup id="cite_ref-PE17_1-0" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup> <span></span>
+<i><b>chwind</b></i>, hoặc <i><b>whinn</b></i>, là các từ [Sindarin](../S/Sindarin.md) có nghĩa là "[bạch dương](../B/Birches.md)" (tương đương với [Quenya](../Q/Quenya.md) là *[hwinde](../H/Hwinde.md)*). Các từ này được sử dụng theo nghĩa 'phi thần thoại thông thường', trái ngược với từ *[brethil](<../B/Brethil_(Sindarin_word).md>)*.<sup id="cite_ref-PE17_1-0" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

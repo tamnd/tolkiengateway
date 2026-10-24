@@ -14,7 +14,7 @@ categories:
   - "American businesses"
 ---
 
-**Mặt Trời Microsystems** là nhà sản xuất [Bilbo Câu đố thanh trượt](../B/Bilbo_Slider_Puzzle.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-El_Anillo_2-0" class="reference"><a href="#cite_note-El_Anillo-2">[2]</a></sup><sup id="cite_ref-Baidu_3-0" class="reference"><a href="#cite_note-Baidu-3">[3]</a></sup> câu đố thanh trượt trực tuyến và [Tolkien Tìm kiếm từ](../T/Tolkien_WordSearch.md),<sup id="cite_ref-El_Anillo_2-1" class="reference"><a href="#cite_note-El_Anillo-2">[2]</a></sup><sup id="cite_ref-Baidu_3-1" class="reference"><a href="#cite_note-Baidu-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> trò chơi lưới chữ cái.
+**Sun Microsystems** là nhà sản xuất [Bilbo Slider Puzzle](../B/Bilbo_Slider_Puzzle.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-El_Anillo_2-0" class="reference"><a href="#cite_note-El_Anillo-2">[2]</a></sup><sup id="cite_ref-Baidu_3-0" class="reference"><a href="#cite_note-Baidu-3">[3]</a></sup> một câu đố trượt trực tuyến và [Tolkien WordSearch](../T/Tolkien_WordSearch.md),<sup id="cite_ref-El_Anillo_2-1" class="reference"><a href="#cite_note-El_Anillo-2">[2]</a></sup><sup id="cite_ref-Baidu_3-1" class="reference"><a href="#cite_note-Baidu-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> một trò chơi lưới chữ cái.
 
 <span></span>
 

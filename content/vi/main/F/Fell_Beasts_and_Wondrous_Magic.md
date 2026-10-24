@@ -37,4 +37,4 @@ infobox:
 
 ## Từ nhà xuất bản {#From_the_publisher}
 
-Khám phá các sinh vật, cả công bằng lẫn xấu xa, cũng như những địa điểm và vật phẩm huyền diệu được tìm thấy trong suốt bộ ba. Cuốn sách đầy màu sắc tuyệt đẹp này là sách nguồn thứ ba dành cho Trò chơi nhập vai The Lord of the Rings và là người bạn đồng hành thiết yếu của trò chơi, đồng thời là một vật phẩm tinh tế dành cho những người sưu tầm và người hâm mộ.
+Khám phá các sinh vật, cả công bằng lẫn xấu xa, cũng như những địa điểm và vật phẩm huyền diệu được tìm thấy trong suốt bộ ba. Cuốn sách đầy màu sắc tuyệt đẹp này là cuốn sách nguồn thứ ba dành cho Trò chơi nhập vai Chúa tể những chiếc nhẫn và là người bạn đồng hành thiết yếu của trò chơi, đồng thời là một vật phẩm tinh tế dành cho những người sưu tập và người hâm mộ.

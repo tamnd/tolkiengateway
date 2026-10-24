@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Náin (son of Grór)"
 ---
 
-Chuyển hướng tới [Náin (con trai của Grór)](<Náin_(son_of_Grór).md>).
+Chuyển hướng đến [Náin (con trai của Grór)](<Náin_(son_of_Grór).md>).

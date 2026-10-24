@@ -20,13 +20,13 @@ images:
 
 Vào [2 tháng 1](../_/2_January.md) [1967](../_/1967.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho Peyton Moss**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-- **Chủ đề:** Tolkien kèm theo ba chữ ký của con trai ông Moss.
+- **Chủ đề:** Tolkien gửi kèm ba chữ ký cho con trai ông Moss.
 
 ## Từ cuộc đấu giá {#From_the_auction}
 
-*The Lord of the Rings* bao gồm *The Fellowship of the Rings*, *The Two Towers*và *The Return of the King*. Luân Đôn: George Allen và Unwin, (1966-66-66). Bản in đầu tiên của ấn bản thứ hai (có "Phiên bản thứ hai 1966" trên trang bản quyền và không có bản in nào khác được liệt kê), với một lá thư đánh máy có chữ ký dán ở mặt trước dán xuống. Ba tập, vải đỏ của nhà xuất bản trong áo khoác bụi nguyên bản. 8 3/4 x 5 3/4 inch (22,5 x 15 cm); với ba bản đồ được đóng ở cuối mỗi tập. Bức thư được dán bằng băng dính trong nhưng vẫn ổn, áo khoác có chip ở đầu và các chi, vết rách ngắn đóng vào một mặt trước nhưng nhìn chung vẫn tốt, âm lượng âm thanh. Với một lá thư xác thực từ Lion Heart Autographs.
+*The Lord of the Rings* bao gồm *The Fellowship of the Rings*, *The Two Towers* và *The Return of the King*. Luân Đôn: George Allen và Unwin, (1966-66-66). Bản in đầu tiên của ấn bản thứ hai (có "Phiên bản thứ hai 1966" trên trang bản quyền và không có bản in nào khác được liệt kê), với một lá thư đánh máy có chữ ký dán ở mặt trước dán xuống. Ba tập, vải đỏ của nhà xuất bản trong áo khoác bụi nguyên bản. 8 3/4 x 5 3/4 inch (22,5 x 15 cm); với ba bản đồ được đóng ở cuối mỗi tập. Bức thư được dán bằng băng dính trong nhưng vẫn ổn, áo khoác có chip ở đầu và các chi, vết rách ngắn đóng vào một mặt trước nhưng nhìn chung vẫn tốt, âm lượng âm thanh. Với một lá thư xác thực từ Lion Heart Autographs.
 
-Bức thư có mặt ở đây, trên một tờ văn phòng phẩm của Tolkien, đề ngày 2 tháng 1 năm 1967 và tặng một người Mỹ xin chữ ký "ba chữ ký chân thành cho con trai của bạn/của bạn, \[đã ký\] J.R.R. Tolkien". Ấn bản thứ hai của bộ ba cuốn Tolkien là cần thiết để lấp lỗ hổng trong bản quyền ở Mỹ, vốn có cuốn sách thuộc phạm vi công cộng cho phép phát hành ấn bản bìa mềm lậu được phát hành vào năm 1965. Vui mừng trước triển vọng của ấn bản mới này, Tolkien đã viết một bản cập nhật tiếp theo và sửa đổi và sửa chữa rất nhiều nội dung.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Bức thư có mặt ở đây, trên một tờ văn phòng phẩm của Tolkien, đề ngày 2 tháng 1 năm 1967 và tặng một người Mỹ xin chữ ký "ba chữ ký chân thành cho con trai bạn/của bạn, \[signed\] J.R.R. Tolkien". Ấn bản thứ hai của bộ ba tác phẩm của Tolkien là cần thiết để lấp lỗ hổng trong bản quyền ở Mỹ, vốn có cuốn sách thuộc phạm vi công cộng cho phép phát hành ấn bản bìa mềm lậu được phát hành vào năm 1965. Vui mừng trước triển vọng của ấn bản mới này, Tolkien đã viết một bản cập nhật tiếp theo và sửa đổi và sửa chữa rất nhiều văn bản.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

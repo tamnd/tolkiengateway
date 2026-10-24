@@ -41,9 +41,9 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Ancrene_Wisse_1962.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/51/Ancrene_Wisse_1962.jpg/320px-Ancrene_Wisse_1962.jpg" decoding="async" loading="lazy" width="320" height="461" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/51/Ancrene_Wisse_1962.jpg/480px-Ancrene_Wisse_1962.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/5/51/Ancrene_Wisse_1962.jpg/640px-Ancrene_Wisse_1962.jpg 2x" data-file-width="750" data-file-height="1081"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Ancrene Wisse:<br/><small>The English Text of the Ancrene Riwle</small></span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, N.R. Ker</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Oxford University Press</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/7_December.md" title="7 December">7 December</a> <a href="../_/1962.md" title="1962">1962</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Hardcover, paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">244</td></tr><tr><th scope="row" class="tg-infobox-label">Series</th><td class="tg-infobox-data">Early English Text Society, Original Series</td></tr></tbody></table>
 
-<i><b>Ancrene Wisse: Văn bản tiếng Anh của Ancrene Riwle</b></i> là ấn bản của văn bản tôn giáo thế kỷ 13 <i><a class="extiw" href="http://en.wikipedia.org/wiki/Ancrene_Wisse" title="wikipedia:Ancrene Wisse">Ancrene Wisse</a></i>, được biên tập bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Nó được xuất bản trên [1962](../_/1962.md) bởi Nhà xuất bản Đại học Oxford, được ủy quyền bởi Hiệp hội Văn bản Tiếng Anh Sơ khai.
+<i><b>Ancrene Wisse: Văn bản tiếng Anh của Ancrene Riwle</b></i> là ấn bản của văn bản tôn giáo thế kỷ 13 <i><a class="extiw" href="http://en.wikipedia.org/wiki/Ancrene_Wisse" title="wikipedia:Ancrene Wisse">Ancrene Wisse</a></i>, được biên tập bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Nó được xuất bản trên tạp chí [1962](../_/1962.md) bởi Nhà xuất bản Đại học Oxford, được ủy quyền bởi Hiệp hội Văn bản Tiếng Anh Sơ khai.
 
-*Ancrene Wisse* (hoặc *Ancrene Riwle*) là [tiếng Anh trung cổ](../M/Middle_English.md) sớm cho "Hướng dẫn dành cho các nữ tu", nó là một bộ quy tắc được viết cho các nữ tu ẩn dật theo tôn giáo. Có một số bản thảo còn sót lại của văn bản này, tập này được biên tập từ một bản được gọi là "MS CCCC 402",<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> được đặc biệt quan tâm Tolkien.
+*Ancrene Wisse* (hoặc *Ancrene Riwle*) là [tiếng Anh trung cổ](../M/Middle_English.md) sớm cho "Hướng dẫn dành cho các nữ tu", nó là một bộ quy tắc được viết cho các nữ tu ẩn dật theo tôn giáo. Có một số bản thảo còn sót lại của văn bản này, tập này được biên tập từ một bản được gọi là "MS CCCC 402",<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> mà Tolkien đặc biệt quan tâm.
 
 Cuốn sách bao gồm lời mở đầu của Tolkien và lời giới thiệu của N.R. Ker.
 
@@ -75,9 +75,9 @@ Cuốn sách bao gồm lời mở đầu của Tolkien và lời giới thiệu 
 		</li>
 </ul>
 
-- Oxford Nhà xuất bản Đại học, bìa cứng ([1962](../_/1962.md)), trang 244.
+- Nhà xuất bản Đại học Oxford, bìa cứng ([1962](../_/1962.md)), trang 244.
 - Boydell & Brewer, bìa cứng không áo khoác ([2000](../_/2000.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0197222498">ISBN 0197222498</a>
-- Oxford Nhà xuất bản Đại học, bìa mềm ([2013](../_/2013.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/1843843447">ISBN 1843843447</a>
+- Nhà xuất bản Đại học Oxford, bìa mềm ([2013](../_/2013.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/1843843447">ISBN 1843843447</a>
 
 ## Liên kết ngoài {#External_links}
 

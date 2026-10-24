@@ -14,16 +14,16 @@ images:
   - "Disambig.png"
 ---
 
-**Farin** có thể tham khảo:
+**Farin** có thể đề cập đến:
 
-## Trung Địa {#Middle-earth}
+## Trung địa {#Middle-earth}
 
 - **[Farin](Farin.md), một [người lùn](../D/Dwarves.md) của [người Durin](../D/Durin's_folk.md) và là cha của [Gróin](../G/Gróin.md) và [Fundin](Fundin.md).**
 
 ## Các bản chuyển thể {#Adaptations}
 
-- [Farin (sứ giả người lùn)](<Farin_(dwarven_emissary).md>), [Người lùn](../D/Dwarves.md) đại diện của [người lùn Erebor](../D/Dwarves_of_Erebor.md) tại [ Hội đồng Elrond](../C/Council_of_Elrond.md) ở *[The Lord of the Rings: The Fellowship of the Ring](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)*
-- [Farin (nhân vật trò chơi điện tử)](<Farin_(video_game_character).md>), nhà vô địch [Người lùn](../D/Dwarves.md) [Erebor](../L/Lonely_Mountain.md) trong *[The Lord of the Rings: War in the North](../T/The_Lord_of_the_Rings%253A_War_in_the_North.md)*.
+- [Farin (sứ giả người lùn)](<Farin_(dwarven_emissary).md>), một [Người lùn](../D/Dwarves.md) đại diện của [người lùn Erebor](../D/Dwarves_of_Erebor.md) tại [Hội đồng Elrond](../C/Council_of_Elrond.md) ở *[The Lord of the Rings: The Fellowship of the Ring](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)*
+- [Farin (nhân vật trò chơi điện tử)](<Farin_(video_game_character).md>), nhà vô địch [Người lùn](../D/Dwarves.md) của [Erebor](../L/Lonely_Mountain.md) ở *[The Lord of the Rings: War in the North](../T/The_Lord_of_the_Rings%253A_War_in_the_North.md)*.
 
 <hr style="margin-top:15px;"/>
 

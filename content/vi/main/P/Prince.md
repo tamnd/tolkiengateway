@@ -13,15 +13,15 @@ categories:
   - "Gondor"
 ---
 
-**Thân vương**, hay **Ernil** trong [Sindarin](../S/Sindarin.md),<sup id="cite_ref-MT_1-0" class="reference"><a href="#cite_note-MT-1">[1]</a></sup> là tước hiệu cha truyền con nối do các vị vua của [Gondor](../G/Gondor.md) phong tặng.
+**Hoàng tử**, hay **Ernil** trong [Sindarin](../S/Sindarin.md),<sup id="cite_ref-MT_1-0" class="reference"><a href="#cite_note-MT-1">[1]</a></sup> là tước hiệu cha truyền con nối do các vị vua của [Gondor](../G/Gondor.md) phong tặng.
 
 ## Lịch sử {#History}
 
-Danh hiệu này lần đầu tiên được [Elendil](../E/Elendil.md) trao cho một gia đình quý tộc [Númenórean](../N/Númenóreans.md) mà anh ta có quan hệ họ hàng, đã định cư tại [Belfalas](../B/Belfalas.md) trong hoặc gần [Edhellond](../E/Edhellond.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Khoảng hai nghìn năm sau, sau vụ chết đuối của [Amroth](../A/Amroth.md), [Galador](../G/Galador.md) là người đầu tiên trong dòng này sử dụng danh hiệu [Thân vương Dol Amroth](Prince_of_Dol_Amroth.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Danh hiệu này lần đầu tiên được [Elendil](../E/Elendil.md) trao cho một gia đình quý tộc [Númenórean](../N/Númenóreans.md) mà ông có quan hệ họ hàng với họ, đã định cư ở [Belfalas](../B/Belfalas.md) trong hoặc gần [Edhellond](../E/Edhellond.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Khoảng hai nghìn năm sau, sau cái chết đuối của [Amroth](../A/Amroth.md), [Galador](../G/Galador.md) là người đầu tiên của dòng này sử dụng danh hiệu [Hoàng tử Dol Amroth](Prince_of_Dol_Amroth.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Trong [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md) Vua [Elessar](../A/Aragorn.md) của Gondor đã tạo danh hiệu [Thân vương của Ithilien](Prince_of_Ithilien.md) và trao nó cho [Faramir](../F/Faramir.md), [Người quản lý cầm quyền](../R/Ruling_Steward.md) cuối cùng.<sup id="cite_ref-SaK_4-0" class="reference"><a href="#cite_note-SaK-4">[4]</a></sup>
+Trong [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md) Vua [Elessar](../A/Aragorn.md) của Gondor đã tạo ra danh hiệu [Hoàng tử Ithilien](Prince_of_Ithilien.md) và trao nó cho [Faramir](../F/Faramir.md), [Người quản lý cai trị](../R/Ruling_Steward.md) cuối cùng.<sup id="cite_ref-SaK_4-0" class="reference"><a href="#cite_note-SaK-4">[4]</a></sup>
 
-[Peregrin Took](Peregrin_Took.md) còn được người dân [Minas Tirith](../M/Minas_Tirith.md) gọi một cách không chính thức là [Thân vương của Halflings](Prince_of_the_Halflings.md) trong thời gian anh ở đó.<sup id="cite_ref-MT_1-1" class="reference"><a href="#cite_note-MT-1">[1]</a></sup>
+[Peregrin Took](Peregrin_Took.md) còn được người dân [Minas Tirith](../M/Minas_Tirith.md) gọi một cách không chính thức là [Hoàng tử của loài lai](Prince_of_the_Halflings.md) trong thời gian ông ở đó.<sup id="cite_ref-MT_1-1" class="reference"><a href="#cite_note-MT-1">[1]</a></sup>
 
 <span></span>
 

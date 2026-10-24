@@ -13,13 +13,13 @@ categories:
   - "Telerin nouns"
 ---
 
-**vinice** đơn giản hóa **vince** có lẽ có nghĩa là "đứa bé nhỏ" trong [Telerin](../T/Telerin.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**vinice** **vince** đơn giản hóa có lẽ có nghĩa là "đứa bé nhỏ" trong [Telerin](../T/Telerin.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Nó là tên chơi đùa của ngón tay út (xem thêm <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Pince&amp;action=edit&amp;redlink=1" title="Pince (page does not exist)">pince</a></i>)
 
 ## Từ nguyên {#Etymology}
 
-[Gốc](../S/Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=WINI&amp;action=edit&amp;redlink=1" title="WINI (page does not exist)">WINI</a> với [Quenya](../Q/Quenya.md) nhỏ -ce <span></span>
+[Root](../S/Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=WINI&amp;action=edit&amp;redlink=1" title="WINI (page does not exist)">WINI</a> với [Quenya](../Q/Quenya.md) nhỏ gọn -ce <span></span>
 
 ## Tài liệu tham khảo {#References}
 

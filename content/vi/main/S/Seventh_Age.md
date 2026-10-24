@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Later Ages"
 ---
 
-Chuyển hướng đến [Sau Kỷ nguyên](../L/Later_Ages.md).
+Chuyển hướng đến [Thời đại sau](../L/Later_Ages.md).

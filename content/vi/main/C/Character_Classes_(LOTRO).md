@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lord of the Rings Online player character classes"
 ---
 
-Chuyển hướng đến [The Lord of the Rings Lớp nhân vật người chơi trực tuyến](../T/The_Lord_of_the_Rings_Online_player_character_classes.md).
+Chuyển hướng đến [The Lord of the Rings Online player character classes](../T/The_Lord_of_the_Rings_Online_player_character_classes.md).

@@ -14,7 +14,7 @@ categories:
   - "Sindarin locations"
 ---
 
-**Methriad**, còn được gọi là **Mid-Beleriand**, là một vùng [Tây Beleriand](../W/West_Beleriand.md) nằm giữa [Doriath](../D/Doriath.md) và sông [Narog](../N/Narog.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Methriad**, còn được gọi là **Mid-Beleriand**, là một vùng của [Tây Beleriand](../W/West_Beleriand.md) nằm giữa [Doriath](../D/Doriath.md) và sông [Narog](../N/Narog.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Methiriad bao gồm các địa điểm sau:
 
@@ -25,13 +25,13 @@ Methiriad bao gồm các địa điểm sau:
 - [Nan-tathren](../N/Nan-tathren.md)
 - [Nivrim](../N/Nivrim.md)
 - [Talath Dirnen](../T/Talath_Dirnen.md)
-- [Giá trị Sirion](../V/Vales_of_Sirion.md)
+- [Thung lũng Sirion](../V/Vales_of_Sirion.md)
 
 Theo [Christopher Tolkien](../C/Christopher_Tolkien.md), cả hai cái tên này chỉ xuất hiện trên [Bản đồ 'Silmarillion' thứ hai](../T/The_Second_'Silmarillion'_Map.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Methiriad* là một từ [Sindarin](../S/Sindarin.md) nhưng nó không được đánh bóng. Như Paul Strack giải thích, nó có thể có nghĩa là "Cuối hai con sông", từ <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Meth&amp;action=edit&amp;redlink=1" title="Meth (page does not exist)">Meth</a></i> ("cuối cùng") + một dạng đột biến của *[Sîr](../S/Sîr.md)* ("sông, suối") + <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=-ad&amp;action=edit&amp;redlink=1" title="-ad (page does not exist)">-ad</a></i> ("kép").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+*Methiriad* là một từ [tiếng Sindarin](../S/Sindarin.md) nhưng không được làm bóng. Như Paul Strack giải thích, nó có thể có nghĩa là "Sự kết thúc của hai con sông", từ <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Meth&amp;action=edit&amp;redlink=1" title="Meth (page does not exist)">Meth</a></i> ("cuối cùng") + một dạng đột biến của *[Sîr](../S/Sîr.md)* ("sông, suối") + <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=-ad&amp;action=edit&amp;redlink=1" title="-ad (page does not exist)">-ad</a></i> ("kép").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

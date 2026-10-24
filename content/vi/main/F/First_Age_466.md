@@ -16,7 +16,7 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="../T/Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><b>I</b><a href="../S/Second_Age.md" title="Second Age">II</a><a href="../T/Third_Age.md" title="Third Age">III</a><a href="Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="First_Age_463.md" title="First Age 463">463</a><a href="First_Age_464.md" title="First Age 464">464</a><a href="First_Age_465.md" title="First Age 465">465</a><a class="mw-selflink selflink">466</a><a href="First_Age_467.md" title="First Age 467">467</a><a href="First_Age_468.md" title="First Age 468">468</a><a href="First_Age_469.md" title="First Age 469">469</a></div></div></div></div></div></div>
 
-**Kỷ Đệ Nhất 466** (viết tắt là **F.A. 466**) là năm [thứ 466 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Nhất](First_Age.md) của [Trung Địa](../M/Middle-earth.md).
+**Kỷ nguyên thứ nhất 466** (viết tắt là **F.A. 466**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 466 của [Kỷ nguyên thứ nhất](First_Age.md) của [Trung Địa](../M/Middle-earth.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
@@ -24,16 +24,16 @@ Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 - Sự ra đời của [Lalaith](../L/Lalaith.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-## [Cuộc truy tìm Silmaril](../Q/Quest_for_the_Silmaril.md) {#Quest_for_the_Silmaril}
+## [Truy tìm Silmaril](../Q/Quest_for_the_Silmaril.md) {#Quest_for_the_Silmaril}
 
-- [Beren](../B/Beren.md) tự mình đến [Angband](../A/Angband.md) nhưng [Huan](../H/Huan.md) mang theo [Lúthien](../L/Lúthien.md). Beren and Lúthien du hành đến Angband cải trang thành [Draugluin](../D/Draugluin.md) và [Thuringwethil](../T/Thuringwethil.md).<sup id="cite_ref-Beren_2-0" class="reference"><a href="#cite_note-Beren-2">[2]</a></sup>
-- Chuyển [Carcharoth](../C/Carcharoth.md), [Lúthien](../L/Lúthien.md) đặt [Morgoth](../M/Morgoth.md) dưới một câu thần chú và [Beren](../B/Beren.md) nhận [Silmaril](../S/Silmaril.md) từ [Vương miện Sắt](../I/Iron_Crown.md).<sup id="cite_ref-Beren_2-1" class="reference"><a href="#cite_note-Beren-2">[2]</a></sup>
-- Đang tìm cách trốn thoát, [Carcharoth](../C/Carcharoth.md) đã cắn đứt bàn tay đang cầm Silmaril của Beren. Silmaril đau quá Carcharoth. Beren and Lúthien được giải cứu bởi [Thorondor](../T/Thorondor.md) và [đại bàng](../E/Eagles.md) đưa họ đến [Doriath](../D/Doriath.md).<sup id="cite_ref-Beren_2-2" class="reference"><a href="#cite_note-Beren-2">[2]</a></sup>
+- [Beren](../B/Beren.md) tự mình đến [Angband](../A/Angband.md) nhưng [Huan](../H/Huan.md) mang [Lúthien](../L/Lúthien.md) đến gặp ông. Beren và Lúthien tới Angband cải trang thành [Draugluin](../D/Draugluin.md) và [Thuringwethil](../T/Thuringwethil.md).<sup id="cite_ref-Beren_2-0" class="reference"><a href="#cite_note-Beren-2">[2]</a></sup>
+- Vượt qua [Carcharoth](../C/Carcharoth.md), [Lúthien](../L/Lúthien.md) đặt [Morgoth](../M/Morgoth.md) dưới một câu thần chú và [Beren](../B/Beren.md) lấy [Silmaril](../S/Silmaril.md) từ [Vương miện sắt](../I/Iron_Crown.md).<sup id="cite_ref-Beren_2-1" class="reference"><a href="#cite_note-Beren-2">[2]</a></sup>
+- Cố gắng trốn thoát, [Carcharoth](../C/Carcharoth.md) đã cắn đứt tay Beren đang cầm viên Silmaril. Viên Silmaril làm Carcharoth bị thương. Beren và Lúthien được giải cứu bởi [Thorondor](../T/Thorondor.md) và [đại bàng](../E/Eagles.md) đưa họ đến [Doriath](../D/Doriath.md).<sup id="cite_ref-Beren_2-2" class="reference"><a href="#cite_note-Beren-2">[2]</a></sup>
 
-## [Cuộc Săn Sói](../H/Hunting_of_the_Wolf.md) {#Hunting_of_the_Wolf}
+## [Cuộc săn lùng của Sói](../H/Hunting_of_the_Wolf.md) {#Hunting_of_the_Wolf}
 
 - [Thingol](../T/Thingol.md), [Beren](../B/Beren.md), [Beleg](../B/Beleg.md), [Mablung](../M/Mablung.md) và [Huan](../H/Huan.md) săn [Carcharoth](../C/Carcharoth.md) để lấy [Silmaril](../S/Silmaril.md).<sup id="cite_ref-Beren_2-3" class="reference"><a href="#cite_note-Beren-2">[2]</a></sup>
-- Carcharoth vết thương chí mạng Beren. Huan giết chết Carcharoth nhưng chết trong quá trình này.<sup id="cite_ref-Beren_2-4" class="reference"><a href="#cite_note-Beren-2">[2]</a></sup>
+- Carcharoth trọng thương Beren. Huân giết Carcharoth nhưng cũng chết trong quá trình đó.<sup id="cite_ref-Beren_2-4" class="reference"><a href="#cite_note-Beren-2">[2]</a></sup>
 - Thingol nhận được Silmaril.<sup id="cite_ref-Beren_2-5" class="reference"><a href="#cite_note-Beren-2">[2]</a></sup>
 - Cái chết của [Beren](../B/Beren.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 

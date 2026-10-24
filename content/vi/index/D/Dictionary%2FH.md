@@ -37,7 +37,7 @@ categories:
 - thưa ngài: Q *[tári](../../main/T/Tári.md)*
 - đồi, nhân tạo: S *[cerin](../../main/C/Cerin.md)*
 - đồi, biệt lập: S/N *[mindon](../../main/M/Mindon.md)*
-- của anh ấy: S *[în](../../main/_/În.md)*
+- của ông: S *[în](../../main/_/În.md)*
 - [hobbit](../../main/H/Hobbits.md): S *[perian](../../main/P/Perian.md)*
 - tích trữ: Qe *[foa](../../main/F/Foa~46839.md#Qenya)*
 - lỗ: Q *[ekka](../../main/E/Ekka.md)*; S *[torech](../../main/T/Torech.md)*

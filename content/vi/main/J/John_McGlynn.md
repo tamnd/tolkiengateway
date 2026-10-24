@@ -18,11 +18,11 @@ sort_keys:
   "People by name": "McGlynn, John"
 ---
 
-**John McGlynn** ([tháng Chín 8](../_/8_September.md), [1953](../_/1953.md)) là một diễn viên người Scotland.
+**John McGlynn** ([8 tháng 9](../_/8_September.md), [1953](../_/1953.md)) là một diễn viên người Scotland.
 
 ## Vai trò {#Roles}
 
-- [1992](../_/1992.md): [*Tales from the Perilous Realm* (loạt phim phát thanh năm 1992)](<../T/Tales_from_the_Perilous_Realm_(1992_radio_series).md>): Thần tiên Vua
+- [1992](../_/1992.md): [*Tales from the Perilous Realm* (loạt phim phát thanh năm 1992)](<../T/Tales_from_the_Perilous_Realm_(1992_radio_series).md>): Vua thần tiên
 
 ## Liên kết ngoài {#External_links}
 

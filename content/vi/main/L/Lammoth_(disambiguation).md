@@ -14,11 +14,11 @@ images:
   - "Disambig.png"
 ---
 
-**Lammoth** có thể tham khảo:
+**Lammoth** có thể đề cập đến:
 
 ## Arda {#Arda}
 
-- **[Lammoth](Lammoth.md), vùng đất ven biển phía Tây Bắc [Beleriand](../B/Beleriand.md).**
+- **[Lammoth](Lammoth.md), vùng đất ven biển ở phía tây bắc [Beleriand](../B/Beleriand.md).**
 
 ## Âm nhạc {#Music}
 

@@ -33,7 +33,7 @@ infobox:
 **Mythcon 45** là hội nghị thường niên lần thứ 45 của [Hiệp hội thần thoại](Mythopoeic_Society.md).
 
 - **Chủ đề:** "Nơi phù hợp với tưởng tượng"
-- **Khách mời danh dự:** Ursula Vernon (nhà văn và nghệ sĩ) và [Richard C. West](../R/Richard_C._West.md) (học giảInklings)
+- **Khách mời danh dự:** Ursula Vernon (nhà văn và nghệ sĩ) và [Richard C. West](../R/Richard_C._West.md) (học giả Inklings)
 
 ## Liên kết ngoài {#External_links}
 
@@ -43,6 +43,6 @@ infobox:
         - <a class="external text" href="https://apilgriminnarnia.com/2014/08/14/geeks/" rel="noreferrer noopener" target="_blank">Những kẻ lập dị sẽ kế thừa Trái đất… Hoặc ít nhất là vượt qua Pepper</a> của Brenton Dickieson
         - Mythcon 45 <a class="external text" href="http://www.cfcooper.net/mythcon-45-day-1" rel="noreferrer noopener" target="_blank">Ngày 1</a>, <a class="external text" href="http://www.cfcooper.net/mythcon-45-day-2" rel="noreferrer noopener" target="_blank">Ngày 2</a>và <a class="external text" href="http://www.cfcooper.net/mythcon-45-days-3-4-final-report" rel="noreferrer noopener" target="_blank">Ngày 3 và 4</a> của Chris Cooper
         - <a class="external text" href="http://signumuniversity.org/news/mustering-mythgardians-at-mythcon/" rel="noreferrer noopener" target="_blank">Tập hợp các thần thoại tại Mythcon</a> của Katherine Sas
-        - <a class="external text" href="https://greyhavensya.com/2014/08/30/mythcon-45-recap-and-gratitude/" rel="noreferrer noopener" target="_blank">Báo cáo tóm tắt và lòng biết ơn về Mythcon</a> của Nhóm Cảng Xám
+        - <a class="external text" href="https://greyhavensya.com/2014/08/30/mythcon-45-recap-and-gratitude/" rel="noreferrer noopener" target="_blank">Báo cáo tóm tắt và lòng biết ơn về Mythcon</a> của The Grey Havens Group
         - Báo cáo Mythcon 45 cho <a class="external text" href="https://matthewrettino.wordpress.com/2014/09/12/mythcon-45-day-1-prose-genre-and-tolkiens-genius/" rel="noreferrer noopener" target="_blank">Ngày 1</a>, <a class="external text" href="https://matthewrettino.wordpress.com/2014/09/19/mythcon-45-day-2-where-does-fantasy-fit/" rel="noreferrer noopener" target="_blank">Ngày 2</a>, <a class="external text" href="https://matthewrettino.wordpress.com/2014/09/26/mythcon-45-day-3/" rel="noreferrer noopener" target="_blank">Ngày 3</a>và <a class="external text" href="https://matthewrettino.wordpress.com/2014/10/03/mythcon-45-day-4/" rel="noreferrer noopener" target="_blank">Ngày 4</a> của Matthew Rettino
 - <a class="external text" href="http://www.mythsoc.org/" rel="noreferrer noopener" target="_blank">Trang web của Hội Thần thoại</a>

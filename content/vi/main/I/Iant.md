@@ -13,7 +13,7 @@ categories:
   - "Sindarin nouns"
 ---
 
-<i><b>iant</b></i> là một danh từ [Sindarin](../S/Sindarin.md) có nghĩa là *bridge*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>iant</b></i> là danh từ [tiếng Sindarin](../S/Sindarin.md) có nghĩa là *bridge*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Ví dụ {#Example}
 

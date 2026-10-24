@@ -31,7 +31,7 @@ categories:
 
 ### Có cùng nguồn gốc {#Cognates}
 
-- [Sindarin](../S/Sindarin.md) *[dag](../D/Dag.md)*
+- [Tiếng Sindarin](../S/Sindarin.md) *[dag](../D/Dag.md)*
 
 ## *nahta*<sup>2</sup> {#nahta2}
 

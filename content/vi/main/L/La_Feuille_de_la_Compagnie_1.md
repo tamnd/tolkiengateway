@@ -31,32 +31,32 @@ infobox:
 
 ## Từ nhà xuất bản {#From_the_publisher}
 
-*La Feuille de la Compagnie* (được đặt tên theo văn bản của Tolkien, *Leaf, by Niggle*, nhấn mạnh sự quan tâm đến các công việc chi tiết, góp phần làm phong phú chung) nhằm mục đích phát huy trí tuệ trong công việc của J.R.R. Tolkien. Các nhiệm vụ chính mà nó đề xuất thực hiện như sau: Trước hết (Phần 'Hồ sơ'), trình bày các tài liệu dưới dạng hồ sơ, cho phép mỗi người nghiên cứu sâu hơn về một khía cạnh của tác phẩm. Sau đó, hãy theo dõi (Phần 'Bài báo') bản thân các nghiên cứu, tức là viết bài về Tolkien, xuất bản kỷ yếu của các hội nghị dành cho Tolkien, xuất bản bản dịch của các bài báo hoặc chương sách thiết yếu. Cuối cùng (Phần 'Báo cáo'), phần cuối của công trình nghiên cứu này, đối với chúng tôi, một nhiệm vụ có vẻ rất cần thiết đối với việc cung cấp thông tin cho công chúng nói tiếng Pháp bằng cách đề xuất các đánh giá hoặc báo cáo chính xác về các tác phẩm quan trọng (đặc biệt bằng tiếng Anh).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup>
+*La Feuille de la Compagnie* (được đặt tên theo văn bản của Tolkien, *Leaf, by Niggle*, nhấn mạnh sự quan tâm đến các tác phẩm chi tiết, góp phần làm phong phú chung) nhằm mục đích phát huy trí tuệ trong tác phẩm của J.R.R. Tolkien. Các nhiệm vụ chính mà nó đề xuất thực hiện như sau: Trước hết (Phần 'Hồ sơ'), trình bày các tài liệu dưới dạng hồ sơ, cho phép mỗi người nghiên cứu sâu hơn về một khía cạnh của tác phẩm. Sau đó, hãy theo dõi (Phần 'Bài báo') bản thân các nghiên cứu, tức là viết các bài báo về Tolkien, xuất bản kỷ yếu các hội nghị dành cho Tolkien, xuất bản bản dịch của các bài báo hoặc chương sách thiết yếu. Cuối cùng (Phần 'Báo cáo'), phần cuối của công trình nghiên cứu này, đối với chúng tôi, một nhiệm vụ có vẻ rất cần thiết đối với việc cung cấp thông tin cho công chúng nói tiếng Pháp bằng cách đề xuất các đánh giá hoặc báo cáo chính xác về các tác phẩm quan trọng (đặc biệt bằng tiếng Anh).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup>
 
 ## Nội dung {#Contents}
 
 - Biên tập, đoạn [M. Devaux](../M/Michaël_Devaux.md), tr. 7
 - Hồ sơ :
-    - Tóm tắt của The Book of Lost Tales, mệnh đề [M. Devaux](../M/Michaël_Devaux.md), tr. 11
+    - Synopsis de The Book of Lost Tales, par [M. Devaux](../M/Michaël_Devaux.md), p. 11
     - Corrigenda au Livre des Contes Perdus, par M. Devaux et S. Mallet, p. 23
     - Dior et les siens, par S. Mallet, p. 27
 - Bài viết :
-    - `L'Ombre de la mort » chez Tolkien, par [M. Devaux](../M/Michaël_Devaux.md), p. 39
+    - « L'Ombre de la mort » chez Tolkien, par [M. Devaux](../M/Michaël_Devaux.md), p. 39
     - La disparition des géants, par S. Mallet, p. 65
 - Tính kết xuất :
-    - Tolkien, The Lord of the Rings, ấn bản thiên niên kỷ, bởi Cédric Fockeu, tr. 92
-    - Tolkien, Roverandom, mệnh đề C. Fockeu, tr. 94
-    - Tolkien, « Từ Quendi and Eldar, Phụ lục D », mệnh Didier Willis, tr. 100
+    - Tolkien, The Lord of the Rings, millennium edition, par Cédric Fockeu, p. 92
+    - Tolkien, Roverandom, par C. Fockeu, p. 94
+    - Tolkien, « From Quendi and Eldar, Appendix D », par Didier Willis, p. 100
     - Tolkien, « Ósanwe-kenta », par [M. Devaux](../M/Michaël_Devaux.md), p. 103
-    - Tolkien, « Ghi chú từ nguyên về Ósanwe-kenta », « Từ The Shibboleth of Fëanor », « Ghi chú về Óre », par D. Willis, p. 104
-    - N. I Agøy, ed., Giữa đức tin và hư cấu, par [M. Devaux](../M/Michaël_Devaux.md), p. 107
+    - Tolkien, « Etymological Notes on the Ósanwe-kenta », « From The Shibboleth of Fëanor », « Notes on Óre », par D. Willis, p. 104
+    - N. I Agøy, éd., Between Faith and Fiction, par [M. Devaux](../M/Michaël_Devaux.md), p. 107
     - N. Bonnal, Tolkien. Les univers d'un magicien, par [M. Devaux](../M/Michaël_Devaux.md), p. 111
     - P. Curry, Bảo vệ Trung Địa, bởi Tom. A. Shippey, tr. 121
-    - V. Flieger, Ánh sáng vụn, mệnh đề S. Mallet, tr. 123
-    - V. Flieger & C. F. Hostetter, Tolkien's Legendarium, par [M. Devaux](../M/Michaël_Devaux.md), tr. 133
+    - V. Flieger, Ánh sáng vụn, par S. Mallet, tr. 123
+    - V. Flieger & C. F. Hostetter, Tolkien's Legendarium, par [M. Devaux](../M/Michaël_Devaux.md), p. 133
     - J. Pearce, Tolkien. Con người và huyền thoại, par [M. Devaux](../M/Michaël_Devaux.md), tr. 141
-    - W. A. Senior, ed., « Số Tolkien » du Tạp chí Điều kỳ diệu trong nghệ thuật, par [M. Devaux](../M/Michaël_Devaux.md), p. 143
-    - S. van der Weide, ed., Kỷ yếu của Hội nghị Lustrum lần thứ ba của Unquendor, par [M. Devaux](../M/Michaël_Devaux.md), p. 145
+    - W. A. Senior, éd., « The Tolkien Issue » du Journal of the Fantastic in the Arts, par [M. Devaux](../M/Michaël_Devaux.md), p. 143
+    - S. van der Weide, éd., Proceedings of Unquendor's Third Lustrum Conference, par [M. Devaux](../M/Michaël_Devaux.md), p. 145
 
 ## Liên kết ngoài {#External_links}
 
@@ -65,7 +65,7 @@ infobox:
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">[Original text:]<i>La Feuille de la Compagnie</i> (intitulée ainsi en archive du texte de Tolkien, <i>Feuille, de Niggle</i>, qui souligne l'intérêt des travaux détaillés, contribuant à l'enrichissement commun) a pour but de Promotionuvoir l'intelligence de l'œuvre de J.R.R. Tolkien. Les tâches tác chính qu'elle se đề xuất de remplir sont les suivantes : Tout d'abord (Rubrique 'Dossiers'), présenter des matériaux, sous forme de files, permettant à chacun d'approfondir l'étude d'un khía cạnh de l'œuvre. Suivent ensuite (Rubrique 'Articles') les études proprement dites, soit la rédaction d'articles sur Tolkien, la posted d'actes de colloques consacrés à Tolkien, la Publication de traductions d'articles ou de chapitres de livre essentiels. Enfin (Rubrique 'Comptes rendus'), en aval de ce travail d'étude, une tâche nous semble s'imposer pour l'information du public francophone en proposant des recensions ou comptes rendus précis de travaux importants (notamment de langue anglaise).</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">[Văn bản gốc:]<i>La Feuille de la Compagnie</i> (intitulée ainsi en archive du texte de Tolkien, <i>Feuille, de Niggle</i>, qui souligne l'intérêt des travaux détaillés, contribuant à l’enrichissement commun) a pour but de promouvoir l’intelligence de l’œuvre de J.R.R. Tolkien. Les tâches tác chính qu'elle se đề xuất de remplir sont les suivantes : Tout d'abord (Rubrique 'Dossiers'), présenter des matériaux, sous forme de files, permettant à chacun d'approfondir l'étude d'un khía cạnh de l'œuvre. Suivent ensuite (Rubrique 'Articles') les études proprement dites, soit la rédaction d'articles sur Tolkien, la posted d'actes de colloques consacrés à Tolkien, la Publication de traductions d'articles ou de chapitres de livre essentiels. Enfin (Rubrique 'Comptes rendus'), en aval de ce travail d'étude, une tâche nous semble s'imposer pour l'information du public francophone en proposant des recensions ou comptes rendus précis de travaux importants (notamment de langue anglaise).</span>
 </li>
 </ol></div></span>
 

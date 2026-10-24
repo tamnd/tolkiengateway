@@ -22,7 +22,7 @@ Nó chứa phần tử *mirub*/*mirub-* ("rượu").<sup id="cite_ref-PE17_1-1" 
 ## Công cụ phái sinh {#Derivatives}
 
 - [Quenya](../Q/Quenya.md): *[miruvórë](Miruvor.md)*
-- [Sindarin](../S/Sindarin.md): *[miruvor](Miruvor.md)*
+- [Tiếng Sindarin](../S/Sindarin.md): *[miruvor](Miruvor.md)*
 
 ## Xem thêm {#See_also}
 

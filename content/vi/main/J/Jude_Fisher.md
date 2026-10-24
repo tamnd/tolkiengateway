@@ -24,9 +24,9 @@ sort_keys:
 
 ## Cuộc sống {#Life}
 
-Từ [1984](../_/1984.md) đến [1992](../_/1992.md), Johnson là Nhà xuất bản danh sách [Tolkien](J.R.R._Tolkien.md) tại [Allen and Unwin](../A/Allen_and_Unwin.md), [Unwin Hyman](../U/Unwin_Hyman.md) và [HarperCollins](../H/HarperCollins.md). Nhiệm vụ chính của cô là thuê các nghệ sĩ như [Alan Lee](../A/Alan_Lee.md), [John Howe](John_Howe.md) và [Ted Nasmith](../T/Ted_Nasmith.md) về lịch và sách nghệ thuật. Trong quá trình sản xuất [*The Lord of the Rings* (loạt phim)](<../T/The_Lord_of_the_Rings_(film_series).md>), cô đã dành nhiều thời gian [New Zealand](../N/New_Zealand.md) với dàn diễn viên và đoàn làm phim, đồng thời sản xuất một số cuốn sách về các bộ phim.
+Từ [1984](../_/1984.md) đến [1992](../_/1992.md), Johnson là Nhà xuất bản danh sách [Tolkien](J.R.R._Tolkien.md) tại [Allen and Unwin](../A/Allen_and_Unwin.md), [Unwin Hyman](../U/Unwin_Hyman.md) và [HarperCollins](../H/HarperCollins.md). Nhiệm vụ chính của cô là ủy quyền cho các nghệ sĩ như [Alan Lee](../A/Alan_Lee.md), [John Howe](John_Howe.md) và [Ted Nasmith](../T/Ted_Nasmith.md) về lịch và sách nghệ thuật. Trong quá trình sản xuất [*The Lord of the Rings* (loạt phim)](<../T/The_Lord_of_the_Rings_(film_series).md>), cô đã dành nhiều thời gian ở [New Zealand](../N/New_Zealand.md) cùng với dàn diễn viên và đoàn làm phim, đồng thời sản xuất một số cuốn sách về các bộ phim.
 
-Sau một vụ tai nạn suýt chết, cô đến sống ở Maroc nhưng vẫn giữ chức vụ Giám đốc xuất bản tiểu thuyết [HarperCollins](../H/HarperCollins.md).
+Sau một tai nạn suýt chết, cô đến sống ở Maroc nhưng vẫn giữ chức Giám đốc xuất bản tiểu thuyết của [HarperCollins](../H/HarperCollins.md).
 
 ## Thư mục {#Bibliography}
 

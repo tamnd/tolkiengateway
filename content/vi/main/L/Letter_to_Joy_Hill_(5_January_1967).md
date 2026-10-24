@@ -27,8 +27,8 @@ images:
 
 Vào [5 tháng 1](../_/5_January.md) [1967](../_/1967.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) gửi [Joy Hill](../J/Joy_Hill.md)**.<sup id="cite_ref-C_1-0" class="reference"><a href="#cite_note-C-1">[1]</a></sup>
 
-- **Chủ đề:** Tolkien cảm ơn Hill vì đã gửi [bản sao](List_of_books_in_Tolkien's_library.md#The_Children's_Treasury_of_Literature) của *[The Children's Treasury of Literature](../T/The_Children's_Treasury_of_Literature.md)*, trong đó có một chương của *[The Hobbit](../T/The_Hobbit.md)* được minh họa bởi Robert J. Lee. Tolkien không thích những hình minh họa của Lee cho chương này, gọi chúng là "thô tục, ngu ngốc và hoàn toàn không phù hợp với văn bản." Anh ấy kết thúc bức thư bằng việc thảo luận về bài giảng *[Beowulf](<../B/Beowulf_(poem).md>)* của mình.
-- **Xuất bản:** Mô tả về bức thư đã được xuất bản trong [*Người đồng hành và Hướng dẫn J.R.R. Tolkien: Niên đại*](../T/The_J.R.R._Tolkien_Companion_and_Guide.md) (tr. 685).
+- **Chủ đề:** Tolkien cảm ơn Hill vì đã gửi [bản sao](List_of_books_in_Tolkien's_library.md#The_Children's_Treasury_of_Literature) của *[The Children's Treasury of Literature](../T/The_Children's_Treasury_of_Literature.md)*, trong đó có một chương của *[The Hobbit](../T/The_Hobbit.md)* được minh họa bởi Robert J. Lee. Tolkien không thích những hình minh họa của Lee cho chương này, gọi chúng là "thô tục, ngu ngốc và hoàn toàn không phù hợp với văn bản." Ông kết thúc bức thư bằng việc thảo luận về bài giảng *[Beowulf](<../B/Beowulf_(poem).md>)* của mình.
+- **Xuất bản:** Mô tả về bức thư đã được xuất bản trong [*The J.R.R. Tolkien Companion and Guide: Chronology*](../T/The_J.R.R._Tolkien_Companion_and_Guide.md) (tr. 685).
 
 <span></span>
 

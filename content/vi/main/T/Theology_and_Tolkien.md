@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Theology and Tolkien: Practical Theology"
 ---
 
-Chuyển hướng đến [Thần học và Tolkien: Thần học thực hành](Theology_and_Tolkien%253A_Practical_Theology.md).
+Chuyển hướng đến [Theology and Tolkien: Practical Theology](Theology_and_Tolkien%253A_Practical_Theology.md).

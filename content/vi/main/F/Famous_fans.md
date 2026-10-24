@@ -14,7 +14,7 @@ categories:
   - "Lists"
 ---
 
-Dưới đây là danh sách một phần **Những người hâm mộ nổi tiếng** các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
+Dưới đây là danh sách một phần **Người hâm mộ nổi tiếng** các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
 ## Diễn viên và đạo diễn phim {#Actors_and_Film_directors}
 
@@ -46,7 +46,7 @@ Dưới đây là danh sách một phần **Những người hâm mộ nổi ti�
 
 - <a class="extiw" href="http://en.wikipedia.org/wiki/Charles_III" title="wikipedia:Charles III">Charles III</a><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
 - [Nữ hoàng Margrethe của Đan Mạch](../M/Margrethe_II_of_Denmark.md)
-- <a class="extiw" href="http://en.wikipedia.org/wiki/Prince_William" title="wikipedia:Prince William">Thân vương William</a><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
+- <a class="extiw" href="http://en.wikipedia.org/wiki/Prince_William" title="wikipedia:Prince William">Hoàng tử William</a><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
 - <a class="extiw" href="http://en.wikipedia.org/wiki/Letizia_Ortiz" title="wikipedia:Letizia Ortiz">Letizia Ortiz</a>
 - <a class="extiw" href="http://en.wikipedia.org/wiki/Pope_Francis" title="wikipedia:Pope Francis">Đức Giáo Hoàng Phanxicô</a>
 
@@ -60,7 +60,7 @@ Dưới đây là danh sách một phần **Những người hâm mộ nổi ti�
 - <a class="extiw" href="http://en.wikipedia.org/wiki/Diana_Wynne_Jones" title="wikipedia:Diana Wynne Jones">Diana Wynne Jones</a><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup>
 - <a class="extiw" href="http://en.wikipedia.org/wiki/Neil_Gaiman" title="wikipedia:Neil Gaiman">Neil Gaiman</a>
 - <a class="extiw" href="http://en.wikipedia.org/wiki/Lisa_Goldstein" title="wikipedia:Lisa Goldstein">Lisa Goldstein</a><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup>
-- <a class="extiw" href="http://en.wikipedia.org/wiki/Stephen_King" title="wikipedia:Stephen King">Stephen Vua</a>
+- <a class="extiw" href="http://en.wikipedia.org/wiki/Stephen_King" title="wikipedia:Stephen King">Vua Stephen</a>
 - [Ursula K. Le Guin](../U/Ursula_K._Le_Guin.md)
 - [George R. R. Martin](../G/George_R._R._Martin.md)
 - <a class="extiw" href="http://en.wikipedia.org/wiki/Salman_Rushdie" title="wikipedia:Salman Rushdie">Salman Rushdie</a><sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup>
@@ -85,8 +85,8 @@ Dưới đây là danh sách một phần **Những người hâm mộ nổi ti�
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://www.tolkienlibrary.com/press/1010-Famous-Tolkien-fans.php" rel="noreferrer noopener" target="_blank">Những người hâm mộ Tolkien nổi tiếng và Chúa tể những chiếc nhẫn</a> tại [Tolkien Thư viện](../T/Tolkien_Library.md)
-- <a class="external text" href="http://tolkienbrasil.com/categoria/famosos/" rel="noreferrer noopener" target="_blank">Người hâm mộ Tolkien nổi tiếng</a> tại <a class="new" href="https://tolkiengateway.net/w/index.php?title=Tolkien_Brasil&amp;action=edit&amp;redlink=1" title="Tolkien Brasil (page does not exist)">Tolkien Brasil</a>
+- <a class="external text" href="http://www.tolkienlibrary.com/press/1010-Famous-Tolkien-fans.php" rel="noreferrer noopener" target="_blank">Những người hâm mộ Tolkien và Chúa tể những chiếc nhẫn nổi tiếng</a> tại [Thư viện Tolkien](../T/Tolkien_Library.md)
+- <a class="external text" href="http://tolkienbrasil.com/categoria/famosos/" rel="noreferrer noopener" target="_blank">Những người hâm mộ Tolkien nổi tiếng</a> tại <a class="new" href="https://tolkiengateway.net/w/index.php?title=Tolkien_Brasil&amp;action=edit&amp;redlink=1" title="Tolkien Brasil (page does not exist)">Tolkien Brasil</a>
 
 <span></span>
 

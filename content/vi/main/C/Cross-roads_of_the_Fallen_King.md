@@ -34,11 +34,11 @@ infobox:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>a scene in <i>The Lord of the Rings: The Return of the King</i></b>. For the location in Ithilien, see <b><a href="Cross-roads.md" title="Cross-roads">Cross-roads</a></b>.</div></div>
 
-**Ngã Tư of the Fallen Vua** là cảnh thứ mười ba của [*The Lord of the Rings: The Return of the King* (phiên bản mở rộng)](<../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_(extended_edition).md>). Cảnh này không có trong bộ phim *[The Lord of the Rings: The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*được chiếu rạp.
+**Ngã tư của Vua sa ngã** là cảnh thứ mười ba của [*The Lord of the Rings: The Return of the King* (extended edition)](<../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_(extended_edition).md>). Cảnh này không có trong bộ phim *[The Lord of the Rings: The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)* được chiếu rạp.
 
 ## Tóm tắt {#Synopsis}
 
-[Gollum](../G/Gollum.md) continues to lead [Frodo](../F/Frodo.md) and [Sam](../S/Sam.md) towards [Mordor](../M/Mordor.md). Frodo bày tỏ mối lo ngại của mình với Sam rằng anh ấy có thể sẽ không quay trở lại sau cuộc hành trình này, điều mà Sam bác bỏ là "suy nghĩ bệnh hoạn", nói rằng họ sẽ đi *there and back again*, giống như [Bilbo](../B/Bilbo.md) đã làm.
+[Gollum](../G/Gollum.md) tiếp tục dẫn [Frodo](../F/Frodo.md) và [Sam](../S/Sam.md) tới [Mordor](../M/Mordor.md). Frodo bày tỏ mối lo ngại của mình với Sam rằng ông có thể sẽ không quay trở lại sau cuộc hành trình này, điều mà Sam bác bỏ là "suy nghĩ bệnh hoạn", nói rằng họ sẽ đi *there and back again*, giống như [Bilbo](../B/Bilbo.md) đã làm.
 
 Cả ba tình cờ gặp bức tượng của một vị vua, bị ô uế và bị chặt đầu, đầu của nó được thay thế bằng một tảng đá lớn. Khi họ đi ngang qua đầu đá trên mặt đất, mặt trời ló dạng trong chốc lát, chiếu sáng đầu nhà vua, đội vương miện bằng những bông hoa thắp sáng dưới ánh nắng.
 
@@ -48,11 +48,11 @@ Cả ba tình cờ gặp bức tượng của một vị vua, bị ô uế và b
 <p class="tg-quote-footer"><cite>Sam</cite></p>
 </blockquote>
 
-Khoảnh khắc trôi qua khi những đám mây lại che khuất mặt trời và Gollum thôi thúc họ tiếp tục.
+Khoảnh khắc trôi qua khi những đám mây lại che khuất mặt trời và Gollum thúc giục họ tiếp tục.
 
 ## Sự khác biệt {#Differences}
 
-The second half of this scene is very closely aligned with the book. The statue of the king resembles that which Frodo and Sam encounter in the chapter [Journey to the Cross-Roads](../J/Journey_to_the_Cross-Roads.md). Trong ánh sáng rực rỡ của [Mặt Trời](../S/Sun.md), Frodo nhìn thấy "một nhân vật khổng lồ đang ngồi, tĩnh lặng và trang nghiêm như những vị vua bằng đá vĩ đại của [Argonath](../A/Argonath.md)... Đầu của nó đã biến mất, và ở vị trí của nó được đặt vào một hòn đá tròn đẽo thô đầy giễu cợt". Một điểm khác biệt nhỏ là, trong tài liệu nguồn, chính Frodo để ý đến đầu của nhà vua và nói *"Nhìn kìa! Nhà vua lại có vương miện!"* với Sam.<sup id="cite_ref-TT_Journey_p._702_1-0" class="reference"><a href="#cite_note-TT_Journey_p._702-1">[1]</a></sup>
+Nửa sau của cảnh này rất phù hợp với cuốn sách. Bức tượng của nhà vua giống với bức tượng mà Frodo và Sam gặp trong chương [Hành trình đến ngã tư](../J/Journey_to_the_Cross-Roads.md). Trong ánh sáng rực rỡ của [Mặt trời](../S/Sun.md), Frodo nhìn thấy "một hình dáng to lớn đang ngồi, tĩnh lặng và trang nghiêm như những vị vua bằng đá vĩ đại của [Argonath](../A/Argonath.md)... Đầu của nó đã biến mất, và thay vào đó là một hòn đá tròn đẽo thô để chế giễu". Một điểm khác biệt nhỏ là, trong tài liệu nguồn, chính Frodo để ý đến đầu của nhà vua và nói *"Nhìn này! Nhà vua lại có vương miện!"* với Sam.<sup id="cite_ref-TT_Journey_p._702_1-0" class="reference"><a href="#cite_note-TT_Journey_p._702-1">[1]</a></sup>
 
 ## Ghi chú {#Notes}
 

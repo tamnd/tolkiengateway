@@ -16,7 +16,7 @@ sort_keys:
   "People by name": "Strobl, Heinz"
 ---
 
-**Heinz Strobl** ([4 tháng 12](../_/4_December.md), [1952](../_/1952.md)), còn được gọi là nghệ danh **Gandalf**, là một nhà soạn nhạc và nhà sản xuất người Áo. Anh đã phát hành một album có tựa đề <a class="new" href="https://tolkiengateway.net/w/index.php?title=Visions_2001&amp;action=edit&amp;redlink=1" title="Visions 2001 (page does not exist)">Visions 2001</a> trong [2000](../_/2000.md) chứa đầy các bài hát liên quan đến [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
+**Heinz Strobl** ([December 4](../_/4_December.md), [1952](../_/1952.md)), also known as his artist name **Gandalf**, is an Austrian composer and producer. He released an album titled <a class="new" href="https://tolkiengateway.net/w/index.php?title=Visions_2001&amp;action=edit&amp;redlink=1" title="Visions 2001 (page does not exist)">Visions 2001</a> in [2000](../_/2000.md) which was filled with [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)-related songs.
 
 ## Liên kết ngoài {#External_links}
 

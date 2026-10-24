@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lothlórien (chapter)"
 ---
 
-Chuyển hướng đến [Lothlórien (chương)](<Lothlórien_(chapter).md>).
+Chuyển hướng tới [Lothlórien (chương)](<Lothlórien_(chapter).md>).

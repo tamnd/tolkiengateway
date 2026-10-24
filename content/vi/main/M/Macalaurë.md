@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Maglor"
 ---
 
-Chuyển hướng đến [Maglor](Maglor.md).
+Chuyển hướng tới [Maglor](Maglor.md).

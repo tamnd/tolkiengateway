@@ -44,11 +44,11 @@ infobox:
 - Lời nói đầu
 - Lời giới thiệu (của Robert H. Boyer và Kenneth J. Zahorski)
 
-1. <a class="extiw" href="http://en.wikipedia.org/wiki/Ludwig_Tieck" title="wikipedia:Ludwig Tieck">Johann Ludwig Tieck</a>: "The Tiên tộc"
+1. <a class="extiw" href="http://en.wikipedia.org/wiki/Ludwig_Tieck" title="wikipedia:Ludwig Tieck">Johann Ludwig Tieck</a>: "Yêu tinh"
 2. <a class="extiw" href="http://en.wikipedia.org/wiki/Edward_Plunkett,_18th_Baron_of_Dunsany" title="wikipedia:Edward Plunkett, 18th Baron of Dunsany">Lãnh chúa Dunsany</a>: "Thanh kiếm của Welleran"
 3. [George MacDonald](../G/George_MacDonald.md): "Công chúa ánh sáng"
-4. <a class="extiw" href="http://en.wikipedia.org/wiki/John_Buchan,_1st_Baron_Tweedsmuir" title="wikipedia:John Buchan, 1st Baron Tweedsmuir">John Buchan</a>: "Khu rừng của Ashtaroth"
-5. <a class="extiw" href="http://en.wikipedia.org/wiki/James_Branch_Cabell" title="wikipedia:James Branch Cabell">J.B. Cabell</a>: "Âm nhạc từ phía sau Mặt Trăng"
+4. <a class="extiw" href="http://en.wikipedia.org/wiki/John_Buchan,_1st_Baron_Tweedsmuir" title="wikipedia:John Buchan, 1st Baron Tweedsmuir">John Buchan</a>: "Khu rừng Ashtaroth"
+5. <a class="extiw" href="http://en.wikipedia.org/wiki/James_Branch_Cabell" title="wikipedia:James Branch Cabell">J.B. Cabell</a>: "Âm nhạc từ phía sau mặt trăng"
 6. <a class="extiw" href="http://en.wikipedia.org/wiki/Frank_R._Stockton" title="wikipedia:Frank R. Stockton">Frank R. Stockton</a>: "Hoàn cảnh thích nghi"
 7. <a class="extiw" href="http://en.wikipedia.org/wiki/H._E._Bates" title="wikipedia:H. E. Bates">H.E. Bates</a>: "Cây đào"
 8. <a class="extiw" href="http://en.wikipedia.org/wiki/Alexander_Grin" title="wikipedia:Alexander Grin">Alexander Grin</a>: "Con yêu tinh lắm lời"
@@ -63,6 +63,6 @@ infobox:
 
 ## Từ phía sau {#From_the_back}
 
-Từ một thế giới khác ngoài thế giới của chúng ta, nơi những nhiệm vụ hoành tráng và nghi lễ tà ác thách thức các vị thần, quyến rũ linh hồn ... nơi các vị vua yêu tinh và nữ phù thủy, kỳ lân và Hobbit, phù thủy và kiếm sĩ ca tụng, triều đình và chiến đấu và nơi Nữ thần chết xuất hiện trong vẻ đẹp lộng lẫy của Lọ Lem ...
+Từ một thế giới khác ngoài thế giới của chúng ta, nơi những nhiệm vụ hoành tráng và nghi lễ tà ác thách thức các vị thần, quyến rũ linh hồn ... nơi các vị vua yêu tinh và nữ phù thủy, kỳ lân và người Hobbit, phù thủy và kiếm sĩ ca ngợi và triều đình và chiến đấu và nơi Lady Death xuất hiện trong sự lộng lẫy của Lọ Lem ...
 
 *The Fantastic Imagination* là một tuyển tập xuất sắc gồm những tác phẩm văn học giả tưởng hay nhất, được chọn lọc từ những tác phẩm nổi tiếng nhất trong 150 năm qua. Kết hợp giữa anh hùng, lịch sự, ma thuật và siêu thực, Robert H. Boyer và Kenneth J. Zahorski khám phá những thuộc địa xa xôi của tâm trí và tinh thần ... từ phía sau mặt trăng đến khu rừng thiêng Ashtaroth cho đến những vùng huyền thoại ở Trung Địa.

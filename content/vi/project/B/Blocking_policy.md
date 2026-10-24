@@ -14,7 +14,7 @@ categories:
 
 <table class="noprint" style="float: right; border:var(--tg-border-base); background:var(--tg-color-surface-2); margin: .3em .3em .3em 1em; padding: 10px; text-align: center;border-radius:var(--tg-border-radius-large);"><tbody><tr><th style="border: none; background: transparent;" class="plainlist"><small>Shortcuts:<br/><a class="new" href="https://tolkiengateway.net/w/index.php?title=Tolkien_Gateway:BP&amp;action=edit&amp;redlink=1" title="Tolkien Gateway:BP (page does not exist)">TG:BP</a><br/><a class="new" href="https://tolkiengateway.net/w/index.php?title=Tolkien_Gateway:BLOCK&amp;action=edit&amp;redlink=1" title="Tolkien Gateway:BLOCK (page does not exist)">TG:BLOCK</a></small></th></tr></tbody></table>
 
-**Chặn** là phương pháp mà [quản trị viên](../A/Administrators.md) có thể ngăn người dùng hoặc địa chỉ IP chỉnh sửa [Tolkien Gateway](../../main/T/Tolkien_Gateway.md). Chặn không phải là biện pháp trừng phạt mà là biện pháp phòng ngừa được thiết kế để thực thi các chính sách của trang web và ngăn chặn sự gián đoạn đối với trang web, đồng thời là hình thức xử phạt đối với người dùng đã vi phạm các chính sách và nguyên tắc của Tolkien Gateway; không có người dùng nào được miễn chặn. Các lệnh chặn có thể được dỡ bỏ nếu người dùng đồng ý dừng hành vi gây rối của họ.
+**Chặn** là phương pháp mà [quản trị viên](../A/Administrators.md) có thể ngăn người dùng hoặc địa chỉ IP chỉnh sửa [Cổng Tolkien](../../main/T/Tolkien_Gateway.md). Chặn không phải là biện pháp trừng phạt mà là biện pháp phòng ngừa được thiết kế để thực thi các chính sách của trang web và ngăn chặn sự gián đoạn đối với trang web, đồng thời là hình thức xử phạt đối với người dùng đã vi phạm các chính sách và nguyên tắc của Tolkien Gateway; không có người dùng nào được miễn chặn. Các lệnh chặn có thể được dỡ bỏ nếu người dùng đồng ý dừng hành vi gây rối của họ.
 
 ## Các khối hoạt động như thế nào {#How_blocks_work}
 
@@ -32,11 +32,11 @@ Người dùng ẩn danh bị chặn theo cách tương tự, nhưng hãy lưu �
 
 ## Khi nào nên chặn {#When_to_block}
 
-Dưới đây là danh sách các lý do phổ biến khiến quản trị viên có thể đưa ra lệnh chặn trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md). Đây không phải là danh sách đầy đủ vì quản trị viên sử dụng phán đoán của riêng họ nhưng người dùng có thể bị chặn vì:
+Dưới đây là danh sách các lý do phổ biến khiến quản trị viên có thể chặn trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md). Đây không phải là danh sách đầy đủ vì quản trị viên sử dụng phán đoán của riêng họ nhưng người dùng có thể bị chặn vì:
 
-- **[Phá hoại](../V/Vandalism.md)** - một bản chỉnh sửa được thiết kế để *deliberately* gây hại Tolkien Gateway, chẳng hạn như xóa trang hoặc chèn những lời vô nghĩa và tục tĩu
+- **[Phá hoại](../V/Vandalism.md)** - một bản chỉnh sửa được thiết kế để *deliberately* gây hại cho Tolkien Gateway, chẳng hạn như xóa trang hoặc chèn những từ vô nghĩa và tục tĩu
 - **Spam** - thêm liên kết và nội dung quảng cáo vào bài viết
-- **Sockpuppetry** - sử dụng nhiều tài khoản để đánh lừa hệ thống hoặc trốn tránh các khối. (Lưu ý: [bot](Bots.md) đã đăng ký và phê duyệt được miễn trừ điều này.)
+- **Sockpuppetry** - sử dụng nhiều tài khoản để đánh lừa hệ thống hoặc trốn tránh các khối. (Lưu ý: [bot](Bots.md) đã đăng ký và phê duyệt được miễn điều này.)
 - **Gây rối** - hành vi làm suy yếu cộng đồng và khả năng hoàn thành công việc của cộng đồng
 - **Vi phạm sự đồng thuận** - sự đồng thuận có chủ ý, nhiều lần và có ý thức về các bài viết
 - **Vi phạm chính sách** - bỏ qua chính sách một cách có chủ ý, liên tục và có ý thức, chẳng hạn như [Cẩm nang về phong cách](../M/Manual_of_Style.md)
@@ -49,5 +49,5 @@ Nếu bạn đã bị chặn và không rõ lý do, hãy liên hệ với [quả
 
 ## Xem thêm {#See_also}
 
-- [Tolkien Gateway:Chính sách xóa](../D/Deletion_policy.md)
-- [Tolkien Gateway:Phá hoại](../V/Vandalism.md)
+- [Cổng Tolkien:Chính sách xóa](../D/Deletion_policy.md)
+- [Cổng Tolkien: Phá hoại](../V/Vandalism.md)

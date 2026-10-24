@@ -40,33 +40,33 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/R/Rob_Alexander_-_Mount_Gram.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/74/Rob_Alexander_-_Mount_Gram.jpg/320px-Rob_Alexander_-_Mount_Gram.jpg" decoding="async" loading="lazy" width="320" height="267" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/74/Rob_Alexander_-_Mount_Gram.jpg/480px-Rob_Alexander_-_Mount_Gram.jpg 1.5x, https://tolkiengateway.net/w/images/7/74/Rob_Alexander_-_Mount_Gram.jpg 2x" data-file-width="527" data-file-height="439"/></a><figcaption>&#34;Mount Gram&#34; by Rob Alexander</figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Mountain</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mount Gram</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>General Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">Possibly the <a href="Misty_Mountains.md" title="Misty Mountains">Misty Mountains</a><sup id="cite_ref-Foster_1-0" class="reference"><a href="#cite_note-Foster-1">[1]</a></sup> or <a href="../E/Ettenmoors.md" title="Ettenmoors">Ettenmoors</a><sup id="cite_ref-Atlas_2-0" class="reference"><a href="#cite_note-Atlas-2">[2]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Type</th><td class="tg-infobox-data">Mountain</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>People and History</span></th></tr><tr><th scope="row" class="tg-infobox-label">Inhabitants</th><td class="tg-infobox-data"><a href="../O/Orcs.md" title="Orcs">Orcs</a></td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Mount_Gram.md" title="Category:Images of Mount Gram">Images of Mount Gram</a></td></tr></tbody></table>
 
-**Mount Gram** là một ngọn núi có người ở [Orc](../O/Orcs.md).
+**Núi Gram** là ngọn núi nơi sinh sống của [Orc](../O/Orcs.md).
 
 ## Lịch sử {#History}
 
-Mount Gram là nơi sinh sống của [Orc](../O/Orcs.md) do Vua [Golfimbul](../G/Golfimbul.md) của họ lãnh đạo. Trong [T.A.](../T/Third_Age.md) [2747](../T/Third_Age_2747.md) họ tấn công phần lớn miền bắc [Eriador](../E/Eriador.md), nhưng bị đánh bại trong [Trận chiến Greenfields](../B/Battle_of_Greenfields.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Núi Gram là nơi sinh sống của [Orc](../O/Orcs.md) do Vua [Golfimbul](../G/Golfimbul.md) của họ lãnh đạo. Trong [T.A.](../T/Third_Age.md) [2747](../T/Third_Age_2747.md) họ tấn công phần lớn miền bắc [Eriador](../E/Eriador.md), nhưng bị đánh bại trong [Trận chiến Greenfields](../B/Battle_of_Greenfields.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Vị trí {#Location}
 
-Vị trí của Mount Gram chưa bao giờ được xác định và ngọn núi có thể nằm ở bất kỳ đâu trong khu vực [Eriador](../E/Eriador.md) phía bắc.
+Vị trí của Núi Gram chưa bao giờ được xác định và ngọn núi này có thể nằm ở bất kỳ đâu trong vùng [Eriador](../E/Eriador.md) phía bắc.
 
-[Tale of Years](../A/Appendix_B.md) đề cập rằng trong [T.A.](../T/Third_Age.md) [2740](../T/Third_Age_2740.md) "Orc *renew* cuộc xâm lược Eriador của họ", rõ ràng đề cập đến [những cuộc xâm lược của Dãy Núi Sương Mù](../O/Orcs_of_the_Misty_Mountains.md), được đề cập trong các mục ngay trước đó.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> " [Goblin](../O/Orcs.md#Orcs_and_Goblins) của Mount Gram" đã xâm chiếm Shire ở [2747](../T/Third_Age_2747.md) rõ ràng là một làn sóng tiếp theo của chúng.
+[Câu chuyện về những năm](../A/Appendix_B.md) đề cập rằng trong [T.A.](../T/Third_Age.md) [2740](../T/Third_Age_2740.md) "Orc *renew* cuộc xâm lược Eriador của chúng", rõ ràng đề cập đến [những kẻ ở Dãy núi Sương mù](../O/Orcs_of_the_Misty_Mountains.md), được đề cập trong các mục trước đó.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> "Những [Yêu tinh](../O/Orcs.md#Orcs_and_Goblins) của Núi Gram" đã xâm chiếm Quận ở [2747](../T/Third_Age_2747.md) rõ ràng là một làn sóng tiếp theo của chúng.
 
-Đây hẳn là lý do tại sao [Robert Foster](../R/Robert_Foster.md) coi Gram là một trong những Dãy Núi Sương Mù, mặc dù anh ta không trích dẫn nguồn cụ thể hoặc lý do để làm như vậy.<sup id="cite_ref-Foster_1-1" class="reference"><a href="#cite_note-Foster-1">[1]</a></sup>
+Đây hẳn là lý do tại sao [Robert Foster](../R/Robert_Foster.md) coi Gram là một trong những Dãy núi Sương mù, mặc dù ông không trích dẫn nguồn hoặc lý do cụ thể để làm như vậy.<sup id="cite_ref-Foster_1-1" class="reference"><a href="#cite_note-Foster-1">[1]</a></sup>
 
 Mặt khác, [Karen Wynn Fonstad](../K/Karen_Wynn_Fonstad.md) (cũng không có lời giải thích) đã đặt nó trên một mỏm đất ở [Ettenmoors](../E/Ettenmoors.md).<sup id="cite_ref-Atlas_2-1" class="reference"><a href="#cite_note-Atlas-2">[2]</a></sup>
 
-[John D. Rateliff](../J/John_D._Rateliff.md) xem xét tên [Bắc Âu](../N/Norse.md) của ngọn núi (đại diện cho [Người Mannish phía Bắc](../N/Northern_Mannish.md)) và định vị nó ở phía đông bắc của Shire, gợi ý rằng nó đề cập đến Dãy Núi Sương Mù: "đặc biệt gắn liền với lũ yêu tinh trên khắp *Hobbit*, dường như cũng là những ngọn núi gần nhà của Bilbo nhất". Ông cũng xem xét khả năng đó là tên gọi khác của Núi [Gundabad](../G/Gundabad.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+[John D. Rateliff](../J/John_D._Rateliff.md) xem xét tên [tiếng Bắc Âu](../N/Norse.md) của ngọn núi (đại diện cho [Người Mannish phía Bắc](../N/Northern_Mannish.md)) và đặt nó ở phía đông bắc của Quận, cho thấy rằng nó đề cập đến Dãy núi Sương mù: "đặc biệt gắn liền với lũ yêu tinh trên khắp *Hobbit*, dường như cũng là những ngọn núi gần nhà của Bilbo nhất". Ông cũng xem xét khả năng đó là tên gọi khác của Núi [Gundabad](../G/Gundabad.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong những bài viết đầu tiên của *[The Hobbit](../T/The_Hobbit.md)*, Mount Gram chỉ đơn thuần là "Gram Hill".<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Trong những bài viết đầu tiên của *[The Hobbit](../T/The_Hobbit.md)*, Núi Gram chỉ đơn thuần là "Đồi Gram".<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 ## Từ nguyên và cảm hứng {#Etymology_and_inspiration}
 
-[Gram](../G/Gram.md) trong [tiếng Anh cổ](../O/Old_English.md) có nghĩa là "dữ dội, nghiệt ngã" nhưng không chắc tên đó có phải là tiếng Anh cổ hay không.
+[Gram](../G/Gram.md) trong [tiếng Anh cổ](../O/Old_English.md) có nghĩa là "dữ dội, nghiệt ngã" nhưng không chắc chắn rằng cái tên đó có phải là tiếng Anh cổ hay không.
 
-Có một Mount Gram ở Albania.
+Có một ngọn núi Gram ở Albania.
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
@@ -76,11 +76,11 @@ Có một Mount Gram ở Albania.
 
 <dl><dd>Mount Gram is located North of the <a href="../E/Ettenmoors.md" title="Ettenmoors">Ettenmoors</a>, West of the <a href="Misty_Mountains.md" title="Misty Mountains">Misty Mountains</a>, South-west of <a class="mw-redirect" href="Mount_Gundabad.md" title="Mount Gundabad">Mount Gundabad</a>, and just South of the <a href="Mountains_of_Angmar.md" title="Mountains of Angmar">Mountains of Angmar</a>.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
 
 <dl><dd>Mount Gram is located in the <a href="../E/Ettenmoors.md" title="Ettenmoors">Ettenmoors</a>, the game&#39;s only Player-versus-Player area. At the foot of it sits &#34;Gramsfoot&#34;, the war-camp of <a href="../A/Angmar.md" title="Angmar">Angmar</a> which is the only stronghold of the Evil players and cannot be entered by the Free Peoples.</dd></dl>
 
-<b>2011: <i><a href="../T/The_Lord_of_the_Rings%253A_War_in_the_North.md" title="The Lord of the Rings: War in the North">The Lord of the Rings: War in the North</a></i>:</b>
+<b>2011: <i><a href="../T/The_Lord_of_the_Rings%253A_War_in_the_North.md" title="The Lord of the Rings: War in the North">Chúa tể của những chiếc nhẫn: Cuộc chiến ở phương Bắc</a></i>:</b>
 
 <dl><dd><a href="../T/Tharzog.md" title="Tharzog">Tharzog</a> is the chieftain of the <a href="../O/Orcs.md" title="Orcs">Orcs</a> of Mount Gram.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></dd></dl>
 

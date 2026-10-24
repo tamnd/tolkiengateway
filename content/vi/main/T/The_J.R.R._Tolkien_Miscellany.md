@@ -42,28 +42,28 @@ infobox:
 ## Nội dung {#Contents}
 
 - Giới thiệu
-- [Hội Tolkien](The_Tolkien_Society.md)
+- [Hiệp hội Tolkien](The_Tolkien_Society.md)
 - Dòng thời gian
 
 1. Tolkien và màn bạc
 2. Nam Phi
 3. Hút tẩu trong tiểu thuyết và cuộc sống
-4. Birmingham Ngày
+4. Những ngày ở Birmingham
 5. Phong cảnh cổ xưa và huyền thoại
 6. Tình yêu và Hôn nhân
 7. Câu lạc bộ và hiệp hội
 8. [Mảng và đài tưởng niệm](../P/Plaques_and_Memorials.md)
 9. Tín ngưỡng tôn giáo
-10. Sự thật Trung Địa
+10. Trung Địa đích thực
 11. Cuộc xung đột lớn: Chiến tranh thế giới thứ nhất
-12. Cư dân chính của Trung Địa
+12. Cư dân nguyên tắc của Trung Địa
 13. Cuộc xung đột lớn: Chiến tranh thế giới thứ hai
 14. C.S. Lewis
-15. Oxford Cao đẳng
+15. Trường Cao đẳng Oxford
 16. Tác phẩm đã xuất bản của J.R.R. Tolkien
 
 - Thư mục
 
 ## Từ nhà xuất bản {#From_the_publisher}
 
-Những sự thật, câu đố và câu trích dẫn thú vị và bất thường về cuộc đời và công việc của Tolkien. Bao gồm các nhân vật, phim, sách và cuộc đời của tác giả vĩ đại. Hãy xem những địa điểm đã truyền cảm hứng cho thế giới hư cấu [Trung Địa](../M/Middle-earth.md) của ông và những vấn đề mà sự nổi tiếng đã gây ra cho ông vào những năm 1960. Tác giả là chuyên gia Tolkien hàng đầu Cuốn sách này khám phá thế giới hấp dẫn và bí ẩn của J.R.R. Tolkien, xem xét vị trí của ông trong lịch sử văn học, các cuốn sách và các nhân vật mang tính biểu tượng của ông. Người đọc có thể khám phá các sự kiện và thông tin nhỏ về cuộc đời và tác phẩm của Tolkien, bao gồm cả cuộc đời ban đầu của anh ở miền nam châu Phi và Birmingham, Tolkien trên màn bạc, vai trò của anh trong hai cuộc chiến tranh thế giới và tình bạn của anh với C.S. Lewis, cũng như những địa điểm đã truyền cảm hứng cho thế giới hư cấu Trung Địa của anh. Vừa nhẹ nhàng vừa mang tính thông tin cao, cuốn sách này mang đến cái nhìn sâu sắc cho những người hâm mộ Tolkien mới và cũ về một trong những nhà văn vĩ đại của thế kỷ XX.
+Những sự thật, câu đố và câu trích dẫn thú vị và khác thường về cuộc đời và tác phẩm của Tolkien. Bao gồm các nhân vật, phim, sách và cuộc đời của tác giả vĩ đại. Hãy xem những địa điểm đã truyền cảm hứng cho thế giới hư cấu [Trung Địa](../M/Middle-earth.md) của ông và những vấn đề mà sự nổi tiếng đã gây ra cho ông vào những năm 1960. Tác giả là chuyên gia hàng đầu về Tolkien. Cuốn sách này khám phá thế giới hấp dẫn và bí ẩn của J.R.R. Tolkien, xem xét vị trí của ông trong lịch sử văn học, những cuốn sách và các nhân vật mang tính biểu tượng của ông. Người đọc có thể khám phá các sự kiện và thông tin nhỏ về cuộc đời và tác phẩm của Tolkien, bao gồm cả cuộc đời ban đầu của ông ở miền nam châu Phi và Birmingham, Tolkien trên màn bạc, vai trò của ông trong hai cuộc chiến tranh thế giới và tình bạn của ông với C.S. Lewis, cũng như những địa điểm đã truyền cảm hứng cho thế giới hư cấu của ông ở Trung Địa. Vừa nhẹ nhàng vừa giàu thông tin, cuốn sách này mang đến cái nhìn sâu sắc cho những người hâm mộ Tolkien mới và cũ về một trong những nhà văn vĩ đại của thế kỷ XX.

@@ -50,14 +50,14 @@ Sau khi đọc Chúa tể những chiếc nhẫn lần đầu tiên, Fairburn đ
 
 Trong lá thư tiếp theo, ông viết:
 
-> Sau khi xem mẫu vật của bạn, tôi bắt đầu thay đổi quan điểm \[nghĩa là về việc không có The Lord of the Rings minh họa\] và tôi nghĩ rằng một ấn bản có minh họa có thể là một điều tốt.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+> Sau khi xem mẫu vật của bạn, tôi bắt đầu thay đổi suy nghĩ \[nghĩa là về việc không minh họa Chúa tể của những chiếc nhẫn\] và tôi nghĩ rằng một ấn bản có minh họa có thể là một điều tốt.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Tuy nhiên, ngay sau đó Tolkien bị ngã gãy chân, phải nhập viện; Fairburn đang trong tình trạng khó khăn về tài chính và cần khẩn trương theo đuổi công việc có thu nhập ngay lập tức hơn, và ngôi nhà của gia đình [Tolkien](../J/J.R.R._Tolkien.md) ở Oxford đã được chuẩn bị để chuyển đến bờ biển phía nam nước Anh. Kết quả của những gián đoạn này là cuộc đàm phán giữa nhà văn và nghệ sĩ không tiến triển được nữa.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Tuy nhiên, ngay sau đó, Tolkien bị gãy chân do ngã và phải nhập viện; Fairburn đang trong tình trạng khó khăn về tài chính và cần khẩn trương theo đuổi công việc có thu nhập ngay lập tức hơn, và ngôi nhà của gia đình [Tolkien](../J/J.R.R._Tolkien.md) ở Oxford đã được chuẩn bị để chuyển đến bờ biển phía nam nước Anh. Kết quả của những gián đoạn này là cuộc đàm phán giữa nhà văn và nghệ sĩ không tiến triển được nữa.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Những chữ cái đáng chú ý {#Notable_letters}
 
 - [Thư gửi Mary Fairburn (tháng 5 năm 1968)](<../L/Letter_to_Mary_Fairburn_(May_1968).md>)
-- [Thư gửi Mary Fairburn (4 tháng Chín 1968)](<../L/Letter_to_Mary_Fairburn_(4_September_1968).md>)
+- [Thư gửi Mary Fairburn (4 tháng 9 năm 1968)](<../L/Letter_to_Mary_Fairburn_(4_September_1968).md>)
 - [Thư gửi Mary Fairburn (10 tháng 10 năm 1968)](<../L/Letter_to_Mary_Fairburn_(10_October_1968).md>)
 - [Thư gửi Mary Fairburn (4 tháng 11 năm 1968)](<../L/Letter_to_Mary_Fairburn_(4_November_1968).md>)
 

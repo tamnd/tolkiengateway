@@ -23,7 +23,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_-_Númenórean_helmet.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/79/J.R.R._Tolkien_-_N%C3%BAmen%C3%B3rean_helmet.jpg/320px-J.R.R._Tolkien_-_N%C3%BAmen%C3%B3rean_helmet.jpg" decoding="async" loading="lazy" width="320" height="196" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/79/J.R.R._Tolkien_-_N%C3%BAmen%C3%B3rean_helmet.jpg/480px-J.R.R._Tolkien_-_N%C3%BAmen%C3%B3rean_helmet.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/7/79/J.R.R._Tolkien_-_N%C3%BAmen%C3%B3rean_helmet.jpg/640px-J.R.R._Tolkien_-_N%C3%BAmen%C3%B3rean_helmet.jpg 2x" data-file-width="1265" data-file-height="773"/></a><figcaption>Númenórean helmet by J.R.R. Tolkien</figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Númenórean helmet</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Númenórean_helmets.md" title="Category:Images of Númenórean helmets">Images of Númenórean helmets</a></td></tr></tbody></table>
 
-[J.R.R. Tolkien](../J/J.R.R._Tolkien.md) minh họa một chiếc mũ bảo hiểm **[Númenórean](Númenóreans.md) giống ốc xà cừ**, đặc trưng trên trang bìa của một số ấn bản của [Unfinished Tales](../U/Unfinished_Tales.md).
+[J.R.R. Tolkien](../J/J.R.R._Tolkien.md) minh họa chiếc mũ bảo hiểm **[Númenórean](Númenóreans.md)** giống ốc xà cừ, được in trên trang bìa của một số ấn bản của [Unfinished Tales](../U/Unfinished_Tales.md).
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
@@ -51,7 +51,7 @@ infobox:
 		</li>
 </ul>
 
-**1984-1997: [Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md):**
+**1984-1997: [Nhập vai ở Trung Địa](../M/Middle-earth_Role_Playing.md):**
 
 <dl><dd>Helmets of this design are usually referred to as being “<a href="../K/Karma.md" title="Karma">Karma</a> helms” or “of the Númenórean karma design”.</dd></dl>
 

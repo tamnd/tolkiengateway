@@ -25,7 +25,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Trích đoạn của Tolkien từ quy điển Thánh lễ có [Tengwar](../../main/T/Tengwar.md) phiên âm. Trích từ [*Parma Eldalamberon*20](../../main/P/Parma_Eldalamberon_20.md), tr. 106: "*vere dignum aequum / et salutare nos tibi*".
+Trích đoạn của Tolkien từ quy điển Thánh lễ có [Tengwar](../../main/T/Tengwar.md) phiên âm. Trích từ [*Parma Eldalamberon* 20](../../main/P/Parma_Eldalamberon_20.md), tr. 106: "*vere dignum aequum / et salutare nos tibi*".
 
 ## Giấy phép {#Licensing}
 

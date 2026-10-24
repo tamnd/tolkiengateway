@@ -41,4 +41,4 @@ infobox:
 - Trước phiên tòa: Giới thiệu về Chiến dịch Thời đại thứ hai - Pete Clark
 - Tạp chí Eponian Círdanea - Scott Stanek
 - Tarma Tar-Calion: Ghi chú lịch sử về bến cảng Umbar - [Chris Seeman](../C/Chris_Seeman.md)
-- Nữ hoàng của Bóng Tối: Chiến dịch Kỷ Đệ Tứ - [Anders Blixt](../A/Anders_Blixt.md)
+- Nữ hoàng bóng tối: Chiến dịch thời đại thứ tư - [Anders Blixt](../A/Anders_Blixt.md)

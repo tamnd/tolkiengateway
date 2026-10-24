@@ -17,9 +17,9 @@ langlinks:
     url: "https://kontu.wiki/Thellami"
 ---
 
-**Thellamie** là tên một quốc gia trong bài thơ *[Errantry](../E/Errantry.md)* của [Bilbo Baggins](../B/Bilbo_Baggins.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Cái tên này thực chất không phải là [Elvish](../E/Elvish.md) mà là một phát minh theo phong cách Elvish.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Thellamie** là tên của một quốc gia trong bài thơ *[Errantry](../E/Errantry.md)* của [Bilbo Baggins](../B/Bilbo_Baggins.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Tên này thực ra không phải là [Elvish](../E/Elvish.md) mà là một phát minh theo phong cách Tiên.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Không rõ Thellamie có đề cập đến một đất nước có thật ở [Trung Địa](../M/Middle-earth.md) hay đó chỉ là một phát minh của nhà thơ.
+Không biết liệu Thellamie có đề cập đến một quốc gia có thật ở [Trung Địa](../M/Middle-earth.md) hay đó chỉ là một phát minh của nhà thơ.
 
 <span></span>
 

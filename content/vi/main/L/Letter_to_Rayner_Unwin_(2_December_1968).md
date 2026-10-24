@@ -16,9 +16,9 @@ sort_keys:
 
 Vào [2 tháng 12](../_/2_December.md) [1968](../_/1968.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) gửi [Rayner Unwin](../R/Rayner_Unwin.md)**.
 
-- **Nội dung:** Tolkien phản hồi Unwin về việc đàm phán bản quyền phim với [United Artists](../U/United_Artists.md). Anh ấy cũng đề cập đến câu chuyện chưa xuất bản của mình *[The End of Bovadium](../T/The_End_of_Bovadium.md)*, mà anh ấy "không có ý định xuất bản ngay bây giờ (nếu có)".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+- **Nội dung:** Tolkien trả lời Unwin về việc đàm phán bản quyền phim với [United Artists](../U/United_Artists.md). Ông cũng đề cập đến câu chuyện chưa xuất bản của mình *[The End of Bovadium](../T/The_End_of_Bovadium.md)*, mà ông "không có ý định xuất bản ngay bây giờ (nếu có)".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-- **Xuất bản:** Các trích dẫn ngắn và tóm tắt được xuất bản bởi [Wayne Hammond](../W/Wayne_Hammond.md) và [Christina Scull](../C/Christina_Scull.md) trong tập *Chronology* của [The J.R.R. Tolkien Companion and Guide](../T/The_J.R.R._Tolkien_Companion_and_Guide.md).
+- **Xuất bản:** Các trích dẫn ngắn và tóm tắt được xuất bản bởi [Wayne Hammond](../W/Wayne_Hammond.md) và [Christina Scull](../C/Christina_Scull.md) trong tập *Chronology* của [Người bạn đồng hành và Hướng dẫn J.R.R. Tolkien](../T/The_J.R.R._Tolkien_Companion_and_Guide.md).
 
 <span></span>
 

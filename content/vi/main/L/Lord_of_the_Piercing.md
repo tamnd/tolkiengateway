@@ -14,11 +14,11 @@ categories:
 
 **Lord of the Piercing** là một đoạn phim nhại ngắn 4 phút của *[The Lord of the Rings: The Fellowship of the Ring](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)*, được tạo ra cho <a class="extiw" href="http://en.wikipedia.org/wiki/2002_MTV_Movie_Awards" title="wikipedia:2002 MTV Movie Awards">Giải thưởng điện ảnh MTV năm 2002</a>. Nó được phát sóng [ngày 6 tháng 6](../_/6_June.md), [2002](../_/2002.md).
 
-Bản nhại này cũng được đưa vào như một Easter Egg trong bản phát hành [Phiên bản mở rộng](<../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(extended_edition).md>) của *The Fellowship of the Ring*tại Mỹ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Bản nhại này cũng được đưa vào như một Easter Egg trong bản phát hành [Phiên bản mở rộng](<../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(extended_edition).md>) của *The Fellowship of the Ring* tại Mỹ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Lô đồ {#Plot}
 
-Tác phẩm nhại có sự tham gia của Jack Black và Sarah Michelle Gellar tại [Hội đồng Elrond](../C/Council_of_Elrond.md). Khi được yêu cầu mang ra [Chiếc nhẫn duy nhất](../T/The_One_Ring.md), Jack thú nhận rằng trong lúc say rượu, anh đã để nó đâm vào vùng kín. Anh ấy thể hiện điều này bằng cách kéo quần xuống. Sau đó, một cuộc thảo luận diễn ra, sau đó nhân vật của Gellar xé chiếc Nhẫn.
+Tác phẩm nhại có sự góp mặt của Jack Black và Sarah Michelle Gellar tại [Hội đồng Elrond](../C/Council_of_Elrond.md). Khi được yêu cầu mang ra [Chiếc nhẫn duy nhất](../T/The_One_Ring.md), Jack thú nhận rằng trong lúc say rượu, anh đã để nó đâm vào vùng kín. Ông thể hiện điều này bằng cách kéo quần xuống. Sau đó, một cuộc thảo luận diễn ra, sau đó nhân vật của Gellar xé chiếc Nhẫn.
 
 ## Truyền {#Cast}
 

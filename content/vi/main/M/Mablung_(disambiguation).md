@@ -28,10 +28,10 @@ images:
   - "Disambig.png"
 ---
 
-**Mablung** có nghĩa là "Bàn tay nặng" trong [Sindarin](../S/Sindarin.md) (từ <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Mab&amp;action=edit&amp;redlink=1" title="Mab (page does not exist)">mab</a>-</i>, "tay" và *[long](../L/Long.md)*, "nặng"), và có thể tham khảo:
+**Mablung** có nghĩa là "Bàn tay nặng" trong [Sindarin](../S/Sindarin.md) (từ <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Mab&amp;action=edit&amp;redlink=1" title="Mab (page does not exist)">mab</a>-</i>, "tay" và *[long](../L/Long.md)*, "nặng") và có thể đề cập đến:
 
-- **[Mablung](Mablung.md) (chết [F.A.](../F/First_Age.md) [503](../F/First_Age_503.md)), một đội trưởng [Tiên](../S/Sindar.md) của [Doriath](../D/Doriath.md) thiệt mạng trong [trận chiến ở Ngàn Hang Động](../B/Battle_in_the_Thousand_Caves.md).**
-- [Mablung (kiểm lâm của Ithilien)](<Mablung_(ranger_of_Ithilien).md>) (fl. [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md)), một [Kiểm lâm của Ithilien](../R/Rangers_of_Ithilien.md) trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md).
+- **[Mablung](Mablung.md) (đã chết [F.A.](../F/First_Age.md) [503](../F/First_Age_503.md)), một đội trưởng [Elven](../S/Sindar.md) của [Doriath](../D/Doriath.md) bị giết trong [trận chiến ở Thousand Caves](../B/Battle_in_the_Thousand_Caves.md).**
+- [Mablung (kiểm lâm của Ithilien)](<Mablung_(ranger_of_Ithilien).md>) (fl. [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md)), một [Kiểm lâm của Ithilien](../R/Rangers_of_Ithilien.md) trong [War of the Ring](../W/War_of_the_Ring.md).
 
 <hr style="margin-top:15px;"/>
 

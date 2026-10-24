@@ -13,7 +13,7 @@ categories:
   - "Sindarin pronouns"
 ---
 
-**Anim** là [Sindarin](../S/Sindarin.md) nghĩa là 'cho chính tôi'.
+**Anim** là [Sindarin](../S/Sindarin.md) có nghĩa là 'cho chính tôi'.
 
 ## Ví dụ {#Examples}
 

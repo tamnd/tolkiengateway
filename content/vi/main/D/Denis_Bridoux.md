@@ -32,7 +32,7 @@ images:
 <p class="tg-quote-footer"><cite><a href="../G/Glóin.md" title="Glóin">Glóin</a></cite></p>
 </blockquote></div></div>
 
-**Denis Bridoux** là tác giả và thành viên của [Hội Tolkien](../T/The_Tolkien_Society.md). Sinh ra ở Pháp, niềm đam mê với Tolkien đã khiến anh học tiếng Anh ở trường đại học và cuối cùng chuyển đến Phương Tây Yorkshire. Với tư cách là người tổ chức Amon Sûl Smial, ông đã biên tập các tạp chí [Weathertop](<../W/Weathertop_(journal).md>) và [Mallorn](<../M/Mallorn_(journal).md>).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
+**Denis Bridoux** là tác giả và thành viên của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md). Sinh ra ở Pháp, niềm yêu thích với Tolkien đã khiến anh học tiếng Anh ở trường đại học và cuối cùng chuyển đến Tây Yorkshire. Với tư cách là người tổ chức Amon Sûl Smial, ông đã biên tập các tạp chí [Weathertop](<../W/Weathertop_(journal).md>) và [Mallorn](<../M/Mallorn_(journal).md>).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

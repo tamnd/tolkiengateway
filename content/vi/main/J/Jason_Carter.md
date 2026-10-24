@@ -18,9 +18,9 @@ sort_keys:
   "People by name": "Carter, Jason"
 ---
 
-**Jason Brian Carter** ([tháng Chín 23](../_/23_September.md), [1960](../_/1960.md)) lồng tiếng cho [Glorfindel](../G/Glorfindel.md) trong *[EA's The Battle for Middle-earth II](../E/EA's_The_Battle_for_Middle-earth_II.md)* và bản mở rộng của nó, *[The Rise of the Witch-king](../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II%253A_The_Rise_of_the_Witch-king.md)*.
+**Jason Brian Carter** ([23 tháng 9](../_/23_September.md), [1960](../_/1960.md)) lồng tiếng cho [Glorfindel](../G/Glorfindel.md) trong *[EA's The Battle for Middle-earth II](../E/EA's_The_Battle_for_Middle-earth_II.md)* và bản mở rộng của nó, *[The Rise of the Witch-king](../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II%253A_The_Rise_of_the_Witch-king.md)*.
 
-Anh đã thử vai [Aragorn](../A/Aragorn.md) trong [*The Lord of the Rings* (loạt phim)](<../T/The_Lord_of_the_Rings_(film_series).md>). Carter được cho là đang thử sức cho vai diễn này nhưng không phải là điều mà đoàn casting đang tìm kiếm.
+Ông đã thử vai [Aragorn](../A/Aragorn.md) trong [*The Lord of the Rings* (loạt phim)](<../T/The_Lord_of_the_Rings_(film_series).md>). Carter được cho là đang thử sức cho vai diễn này nhưng không phải là điều mà đoàn casting đang tìm kiếm.
 
 ## Liên kết ngoài {#External_links}
 

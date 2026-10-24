@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"Ngày Durin". Minh họa của [Eric Fraser](../../main/E/Eric_Fraser.md) cho ấn bản *[The Hobbit](../../main/T/The_Hobbit.md)*của Folio Society năm 1979.
+"Ngày Durin". Minh họa của [Eric Fraser](../../main/E/Eric_Fraser.md) cho ấn bản *[The Hobbit](../../main/T/The_Hobbit.md)* của Folio Society năm 1979.
 
 ## Giấy phép {#Licensing}
 

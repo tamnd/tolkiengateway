@@ -31,11 +31,11 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../M/Men.md" title="Men">Man</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Colombo Arditi</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Position</th><td class="tg-infobox-data">Tempestosa Professor of <a class="extiw" href="http://en.wikipedia.org/wiki/Italian_language" title="wikipedia:Italian language">Italian</a></td></tr><tr><th scope="row" class="tg-infobox-label">Affiliation</th><td class="tg-infobox-data">The <a href="../N/Notion_Club.md" title="Notion Club">Notion Club</a></td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data"><a class="extiw" href="http://en.wikipedia.org/wiki/English_language" title="wikipedia:English language">English</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Italian_language" title="wikipedia:Italian language">Italian</a></td></tr><tr><th scope="row" class="tg-infobox-label">Birth</th><td class="tg-infobox-data"><a href="../_/1940.md" title="1940">1940</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr></tbody></table>
 
-**Colombo Arditi** (sinh năm [1940](../_/1940.md)) là thành viên của [Notion Club](../N/Notion_Club.md).
+**Colombo Arditi** (sinh năm [1940](../_/1940.md)) là thành viên của [Câu lạc bộ Notion](../N/Notion_Club.md).
 
 ## Lịch sử {#History}
 
-Colombo Arditi được đào tạo tại St. John's và là giáo sư <a class="extiw" href="http://en.wikipedia.org/wiki/Italian_language" title="wikipedia:Italian language">tiếng Ý</a>. Anh ấy thích hát basso, bơi lội và chơi ném bóng; anh ấy cũng sưu tầm sách và [Mèo](Cats.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Colombo Arditi được đào tạo tại St. John's và là giáo sư <a class="extiw" href="http://en.wikipedia.org/wiki/Italian_language" title="wikipedia:Italian language">tiếng Ý</a>. Ông thích hát basso, bơi lội và chơi ném bóng; ông cũng sưu tầm sách và [Mèo](Cats.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

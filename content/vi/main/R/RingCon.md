@@ -16,7 +16,7 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the American convention</b>. For the German convention, see <b><a href="Ring%252ACon.md" title="Ring*Con">Ring*Con</a></b>.</div></div>
 
-**RingCon** là một hội nghị theo chủ đề [Tolkien](../J/J.R.R._Tolkien.md) của Mỹ không thường xuyên và hiện không còn hoạt động.
+**RingCon** là một hội nghị theo chủ đề [Tolkien](../J/J.R.R._Tolkien.md) của Mỹ không thường xuyên và hiện không hoạt động.
 
 ## Quy ước {#Conventions}
 

@@ -26,17 +26,17 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Everholt.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b1/The_Lord_of_the_Rings_Online_-_Everholt.jpg/250px-The_Lord_of_the_Rings_Online_-_Everholt.jpg" decoding="async" loading="lazy" width="250" height="141" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b1/The_Lord_of_the_Rings_Online_-_Everholt.jpg/375px-The_Lord_of_the_Rings_Online_-_Everholt.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/b/b1/The_Lord_of_the_Rings_Online_-_Everholt.jpg/500px-The_Lord_of_the_Rings_Online_-_Everholt.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>Everholt in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-**Everholt** là tên mà [Rohirrim](../R/Rohirrim.md) đặt cho một phần của [Rừng Firien](../F/Firienholt.md). Nó nổi tiếng với [lợn rừng](../B/Boar_of_Everholt.md) nên khu rừng được đặt tên theo tên đó. Trong [T.A.](../T/Third_Age.md) [2864](../T/Third_Age_2864.md), Vua [Folca](../F/Folca.md) của [Rohan](../R/Rohan.md) đã giết con lợn rừng và bị nó giết chết.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Everholt** là tên mà [Rohirrim](../R/Rohirrim.md) đặt cho một khu vực của [Rừng Firien](../F/Firienholt.md). Nó nổi tiếng với [lợn rừng](../B/Boar_of_Everholt.md) nên khu rừng được đặt tên theo tên đó. Trong [T.A.](../T/Third_Age.md) [2864](../T/Third_Age_2864.md), Vua [Folca](../F/Folca.md) của [Rohan](../R/Rohan.md) đã giết con lợn rừng và bị nó giết chết.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Tên có nghĩa là "gỗ lợn rừng". Phần tử đầu tiên đến từ [tiếng Anh cổ](../O/Old_English.md) *eofor*, "heo rừng". Phần tử thứ hai cũng xuất hiện trong [Dimholt](../D/Dimholt.md), "gỗ".
+Tên có nghĩa là "gỗ lợn rừng". Yếu tố đầu tiên xuất phát từ [Tiếng Anh cổ](../O/Old_English.md) *eofor*, "heo rừng". Phần tử thứ hai cũng xuất hiện trong [Dimholt](../D/Dimholt.md), "gỗ".
 
 [Eofor](Eofor.md) cũng là tên [Rohanese](../R/Rohanese.md).
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
 
 <dl><dd>Everholt lies to the east of <a href="../A/Aldburg.md" title="Aldburg">Aldburg</a> and to the south-west of <a href="../F/Fenmarch.md" title="Fenmarch">Fenmarch</a>. A Scion of the <a class="mw-redirect" href="../B/Boar_of_Everholt.md" title="Boar of Everholt">Great Boar</a> can be found roaming the wood.</dd></dl>
 

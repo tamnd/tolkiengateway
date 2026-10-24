@@ -21,7 +21,7 @@ langlinks:
     url: "https://kontu.wiki/Y%C3%A1vi%C3%A9r%C3%AB"
 ---
 
-**Yáviérë** là ngày lễ thu hoạch trong [Sự tính toán của quản gia](../S/Stewards'_Reckoning.md) [Gondor](../G/Gondor.md), nằm giữa tháng [Yavannië](Yavannië.md) và [Narquelië](../N/Narquelië.md), gần thu phân.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Theo lịch hiện đại, Yáviérë sẽ rơi vào [tháng 9 Ngày 21](../_/21_September.md). <span></span>
+**Yáviérë** là ngày lễ thu hoạch trong [Sự tính toán của người quản lý](../S/Stewards'_Reckoning.md) ở [Gondor](../G/Gondor.md), nằm giữa các tháng [Yavannië](Yavannië.md) và [Narquelië](../N/Narquelië.md), gần thu phân.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Theo lịch hiện đại, Yáviérë có lẽ rơi vào [Ngày 21 tháng 9](../_/21_September.md). <span></span>
 
 ## Tài liệu tham khảo {#References}
 

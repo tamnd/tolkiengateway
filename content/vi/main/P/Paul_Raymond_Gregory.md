@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Gregory, Paul Raymond"
 ---
 
-**Paul Raymond Gregory** ([1949](../_/1949.md)) là một nghệ sĩ đã tạo ra những hình minh họa lấy cảm hứng từ [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Anh ấy đã sản xuất tác phẩm nghệ thuật cho [Người giám hộ mù](../B/Blind_Guardian.md) *A Night at the Opera*.
+**Paul Raymond Gregory** ([1949](../_/1949.md)) là một nghệ sĩ đã tạo ra những hình minh họa lấy cảm hứng từ [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Ông đã sản xuất tác phẩm nghệ thuật cho [Người giám hộ mù](../B/Blind_Guardian.md) *A Night at the Opera*.
 
 ## Xem thêm {#See_also}
 

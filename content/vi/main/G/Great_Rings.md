@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Rings of Power"
 ---
 
-Chuyển hướng đến [Những Chiếc Nhẫn Quyền Năng](../R/Rings_of_Power.md).
+Chuyển hướng đến [Nhẫn quyền lực](../R/Rings_of_Power.md).

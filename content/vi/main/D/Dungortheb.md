@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Nan Dungortheb"
 ---
 
-Chuyển hướng đến [Nan Dungortheb](../N/Nan_Dungortheb.md).
+Chuyển hướng tới [Nan Dungortheb](../N/Nan_Dungortheb.md).

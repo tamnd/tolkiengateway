@@ -16,11 +16,11 @@ images:
   - "J.R.R._Tolkien's_bust_at_Exeter.jpg"
 ---
 
-**Các tấm biển và đài tưởng niệm** là danh sách các tấm bảng và đài tưởng niệm màu xanh lam được lắp đặt ở những nơi công cộng của Vương quốc Anh để kỷ niệm mối liên hệ giữa địa điểm đó với [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và gia đình anh ấy. Thường được thực hiện bởi [Hội Tolkien](../T/The_Tolkien_Society.md) và các tổ chức địa phương.
+**Mảng và Đài tưởng niệm** là danh sách các tấm bảng và đài tưởng niệm màu xanh được lắp đặt ở những nơi công cộng của Vương quốc Anh để kỷ niệm mối liên hệ giữa địa điểm đó với [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và gia đình ông. Thường được thực hiện bởi [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) và các tổ chức địa phương.
 
 # Mảng {#Plaques}
 
-## Nhà máy Sarehole, Hall Green,Birmingham {#Sarehole_Mill,Hall_Green,Birmingham}
+## Nhà máy Sarehole, Hall Green, Birmingham {#Sarehole_Mill,Hall_Green,Birmingham}
 
 Dòng chữ trên tấm bảng ghi:
 
@@ -35,11 +35,11 @@ The Tolkien Society
 </p>
 </div>
 
-Birmingham Civic Society với [Hội Tolkien](../T/The_Tolkien_Society.md) đã tạo ra tấm bảng xanh vào ngày 15 tháng 8 năm 2002.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Hiệp hội Công dân Birmingham với [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) đã hoàn thành tấm bảng xanh vào ngày 15 tháng 8 năm 2002.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-## 1 Duchess Place, Edgbaston,Birmingham {#1_Duchess_Place,Edgbaston,Birmingham}
+## 1 Duchess Place, Edgbaston, Birmingham {#1_Duchess_Place,Edgbaston,Birmingham}
 
-Một tấm bảng màu xanh Birmingham của Hiệp hội Công dân có nội dung:
+Một tấm bảng xanh của Hiệp hội Công dân Birmingham có nội dung:
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
 <p>J.R.R. Tolkien<br/>
@@ -49,7 +49,7 @@ lived near heare 1902-1910
 </p>
 </div>
 
-## 4 Đường Highfield, Edgbaston,Birmingham {#4_Highfield_Road,Edgbaston,Birmingham}
+## 4 Đường Highfield, Edgbaston, Birmingham {#4_Highfield_Road,Edgbaston,Birmingham}
 
 Dòng chữ trên tấm bảng ghi:
 
@@ -61,11 +61,11 @@ Tolkien Society.
 </p>
 </div>
 
-## Cày và bừa, Đường Hagley, Edgbaston,Birmingham {#Plough_and_Harrow,_Hagley_Road,Edgbaston,Birmingham}
+## Cày và bừa, Đường Hagley, Edgbaston, Birmingham {#Plough_and_Harrow,_Hagley_Road,Edgbaston,Birmingham}
 
 Dòng chữ trên tấm bảng ghi:
 
-Một tấm bảng ở ngưỡng cửa được đặt bởi Hội Tolkien hồ sơ:
+Một tấm bảng ở ngưỡng cửa được đặt bởi hồ sơ của Hiệp hội Tolkien:
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
 <p>Presented by The Tolkien Society June 1997<br/>
@@ -76,7 +76,7 @@ June 1916
 </p>
 </div>
 
-## 20 Đường Northmoor,Oxford {#20_Northmoor_Road,Oxford}
+## 20 Đường Northmoor, Oxford {#20_Northmoor_Road,Oxford}
 
 Dòng chữ trên tấm bảng ghi:
 
@@ -105,7 +105,7 @@ J.R.R. Tolkien lived here 1953-1968
 
 <sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-## 2 Đường Darnley, Phương Tây Công viên {#2_Darnley_Road,_West_Park}
+## 2 Đường Darnley, Công viên phía Tây {#2_Darnley_Road,_West_Park}
 
 Dòng chữ trên tấm bảng ghi:
 
@@ -118,7 +118,7 @@ Academic and author lived here between 1924 and 1925. While Reader, later Profes
 
 <sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
-## Bệnh viện sĩ quan Brooklands, Hull, phương Đông Yorkshire {#Brooklands_Officers’_Hospital,_Hull,_East_Yorkshire}
+## Bệnh viện sĩ quan Brooklands, Hull, Đông Yorkshire {#Brooklands_Officers’_Hospital,_Hull,_East_Yorkshire}
 
 Tấm bảng màu xanh ghi:
 
@@ -133,7 +133,7 @@ his service in The Great War.
 
 <sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
-## Khách sạn Miramar, phương Đông Overcliff Drive, Bournemouth {#Hotel_Miramar,_East_Overcliff_Drive,_Bournemouth}
+## Khách sạn Miramar, East Overcliff Drive, Bournemouth {#Hotel_Miramar,_East_Overcliff_Drive,_Bournemouth}
 
 Dòng chữ trên tấm bảng ghi:
 
@@ -152,9 +152,9 @@ Borough of Bournemouth
 
 <br>
 
-## Công viên đại học, Oxford {#University_Parks,_Oxford}
+## Công viên Đại học, Oxford {#University_Parks,_Oxford}
 
-Một tấm bảng trên băng ghế dành riêng cho tác giả J.R.R. Tolkien trong Công viên Đại học Oxford. Chiếc ghế dài và hai cây ("Laurelin" và "Telperion") được trồng gần đó đã được Tolkien Hội nghị trăm năm tặng vào năm 1992. Chiếc ghế dài nằm ở bờ tây sông Cherwell, cách Cầu Cao một chút về phía nam.
+Một tấm bảng trên băng ghế dành riêng cho tác giả J.R.R. Tolkien tại Công viên Đại học Oxford. Chiếc ghế dài và hai cái cây ("Laurelin" và "Telperion") được trồng gần đó đã được Hội nghị trăm năm Tolkien tặng vào năm 1992. Chiếc ghế dài nằm ở bờ tây sông Cherwell, cách Cầu Cao một chút về phía nam.
 
 <br>
 
@@ -190,7 +190,7 @@ nearby
 
 # Ngực {#Bust}
 
-Trong nhà nguyện của trường Cao đẳng Exeter, Oxford, có một bức tượng bán thân J.R.R. Tolkien được thực hiện bởi [Faith Tolkien](../F/Faith_Tolkien.md). Phía trên bức tượng bán thân có dòng chữ:
+Trong nhà nguyện của trường Cao đẳng Exeter, Oxford, có một bức tượng bán thân J.R.R. Tolkien do [Faith Tolkien](../F/Faith_Tolkien.md) thực hiện. Phía trên bức tượng bán thân có dòng chữ:
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
 <p>J.R.R. Tolkien 1892-1973<br/>

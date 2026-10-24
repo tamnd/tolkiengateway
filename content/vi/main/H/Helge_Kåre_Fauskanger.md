@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Helge Fauskanger"
 ---
 
-Chuyển hướng đến [Helge Fauskanger](Helge_Fauskanger.md).
+Chuyển hướng tới [Helge Fauskanger](Helge_Fauskanger.md).

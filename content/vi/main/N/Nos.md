@@ -13,7 +13,7 @@ categories:
   - "Sindarin nouns"
 ---
 
-<i><b>nos</b></i> là từ [Sindarin](../S/Sindarin.md) có nghĩa là "đồng loại, gia đình".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>nos</b></i> là một từ [Sindarin](../S/Sindarin.md) có nghĩa là "họ hàng, gia đình".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}
 

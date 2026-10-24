@@ -15,12 +15,12 @@ sort_keys:
   "Letters": "Ready, William (1959-02)"
 ---
 
-Vào [tháng 2](../F/February.md) [1959](../_/1959.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_%2522The_Letters_of_J.R.R._Tolkien%2522.md) cho [William Ready](../W/William_Ready.md)**.<sup id="cite_ref-Marq_1-0" class="reference"><a href="#cite_note-Marq-1">[1]</a></sup>
+Vào [tháng 2](../F/February.md) [1959](../_/1959.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_%2522The_Letters_of_J.R.R._Tolkien%2522.md) gửi [William Ready](../W/William_Ready.md)**.<sup id="cite_ref-Marq_1-0" class="reference"><a href="#cite_note-Marq-1">[1]</a></sup>
 
 - **Mô tả:** Thư viết tay.<sup id="cite_ref-Marq_1-1" class="reference"><a href="#cite_note-Marq-1">[1]</a></sup>
 - **Chủ đề:** Sắp xếp việc chuyển tiền thông qua Bertram Rota để mua bản thảo gốc của *The Lord of the Rings*.
 - **Xuất bản:** Không có.
-- **Lưu trữ:** Thư gốc được lưu giữ tại [Đại học Marquette](../M/Marquette_University.md).<sup id="cite_ref-Marq_1-2" class="reference"><a href="#cite_note-Marq-1">[1]</a></sup>
+- **Lưu trữ:** Bức thư gốc được lưu giữ tại [Đại học Marquette](../M/Marquette_University.md).<sup id="cite_ref-Marq_1-2" class="reference"><a href="#cite_note-Marq-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fíriel"
 ---
 
-Chuyển hướng đến [Fíriel](Fíriel.md).
+Chuyển hướng đến [Firiel](Fíriel.md).

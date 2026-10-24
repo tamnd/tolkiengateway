@@ -31,7 +31,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Sau khi nghỉ hưu, Tolkien đến sống [ở bờ biển phía nam](../W/Woodridings.md) nước Anh để tránh [người hâm mộ](../T/Tolkien_fandom.md). Anh ấy đã thông báo cho [Clyde S. Kilby](../C/Clyde_S._Kilby.md) rằng [Allen &amp; Unwin](../A/Allen_and_Unwin.md) sẽ chuyển tiếp tất cả thư của anh ấy và chỉ một số ít người được chọn mới biết địa chỉ thực tế.
+Sau khi nghỉ hưu, Tolkien đến sống [ở bờ biển phía nam](../W/Woodridings.md) nước Anh để tránh mặt [người hâm mộ](../T/Tolkien_fandom.md). Ông đã thông báo cho [Clyde S. Kilby](../C/Clyde_S._Kilby.md) rằng [Allen & Unwin](../A/Allen_and_Unwin.md) sẽ chuyển tiếp tất cả thư của ông và chỉ một số ít người được chọn mới biết địa chỉ thực tế.
 
 ## Ghi chú {#Notes}
 

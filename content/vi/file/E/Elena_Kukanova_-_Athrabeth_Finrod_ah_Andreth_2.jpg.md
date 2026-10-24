@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"*[Athrabeth Finrod ah Andreth](../../main/A/Athrabeth_Finrod_ah_Andreth.md)*", bởi [Elena Kukanova](../../main/E/Elena_Kukanova.md)
+"*[Athrabeth Finrod ah Andreth](../../main/A/Athrabeth_Finrod_ah_Andreth.md)*", của [Elena Kukanova](../../main/E/Elena_Kukanova.md)
 
 ## Giấy phép {#Licensing}
 

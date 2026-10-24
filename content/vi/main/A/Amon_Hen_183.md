@@ -45,7 +45,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/AmonHen183.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/8/84/AmonHen183.jpg/320px-AmonHen183.jpg" decoding="async" loading="lazy" width="320" height="454" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/84/AmonHen183.jpg/480px-AmonHen183.jpg 1.5x, https://tolkiengateway.net/w/images/8/84/AmonHen183.jpg 2x" data-file-width="579" data-file-height="821"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Amon Hen 183</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="Andrew_Butler.md" title="Andrew Butler">Andrew Butler</a></td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data">Davide Cattaneo</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Printer</th><td class="tg-infobox-data">Horsham Press, Horsham, UK</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">September <a href="../_/2003.md" title="2003">2003</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">A5 stapled paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">32</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0306-8781</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Amon_Hen_182.md" title="Amon Hen 182">Amon Hen 182</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Amon_Hen_184.md" title="Amon Hen 184">Amon Hen 184</a></td></tr></tbody></table>
 
-<b><i>Amon Hen</i> 183</b> là số một trăm tám mươi ba của tạp chí hai tháng một lần của [Hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, được xuất bản trên tháng Chín [2003](../_/2003.md).
+<b><i>Amon Hen</i> 183</b> là số một trăm tám mươi ba của tạp chí hai tháng một lần của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, xuất bản vào tháng 9 [2003](../_/2003.md).
 
 ## Nội dung {#Contents}
 
@@ -54,9 +54,9 @@ infobox:
 - Biên tập
     - Bởi: [Andrew Butler](Andrew_Butler.md)
 - Nội dung
-- Tác phẩm nghệ thuật: *Untitled* (Rồng)
+- Tác phẩm: *Untitled* (Rồng)
     - Bởi: [Jef Murray](../J/Jef_Murray.md)
-- Bywater Thông báo
+- Thông báo bên bờ nước
     - Bởi: Malcolm Lindley
 - Thông báo
 - Sửa đổi từ
@@ -65,9 +65,9 @@ infobox:
     - Bởi: [Chris Crawshaw](../C/Chris_Crawshaw.md)
 - Báo cáo: Summermoot
     - Bởi: [Chris Crawshaw](../C/Chris_Crawshaw.md)
-- Báo cáo: Tolkien trong Birmingham và xa hơn
+- Báo cáo: Tolkien ở Birmingham và xa hơn nữa
     - Bởi: Georgia Nash
-- Báo cáo: Tolkien trong Birmingham và xa hơn
+- Báo cáo: Tolkien ở Birmingham và xa hơn nữa
     - Bởi: Marjorie Willetts
 - Báo cáo: Công ước Discworld
     - Bởi: Jessica Yates
@@ -77,11 +77,11 @@ infobox:
     - Bởi: [Sally Kennett](../S/Sally_Kennett.md)
 - Ô chữ
     - Bởi: Michael Kennedy
-- Đánh giá: Huyền thoại & Trung Địa
+- Đánh giá: Thần thoại & Trung địa
     - Bởi: [Helen Armstrong](../H/Helen_Armstrong.md)
 - Đánh giá: LotR RPG - Sách nguồn hai tòa tháp
     - Bởi: Phillip Clarke
-- Đánh giá: Vanessa Ford Sản xuất The Hobbit
+- Đánh giá: Vanessa Ford sản xuất The Hobbit
     - Bởi: Michael Cunningham
 - Thư
 - Hồ sơ thành viên - Tobias Asplund
@@ -91,7 +91,7 @@ infobox:
     - Bởi: Jef Murray
 - Bài thơ: Lothlorien
     - Bởi: Joy Marsh
-- Cô ấy thật công bằng
+- Bà thật công bằng
     - Bởi: Lyn Hamilton
 - Tin tức từ Fangorn
     - Bởi: Kim Mantas
@@ -100,7 +100,7 @@ infobox:
 - Thành viên mới
 - Tác phẩm nghệ thuật: *Untitled* (Nazgul)
     - Bởi: Neil Loughran
-- Truyện dân ca/Ủy ban
+- Truyện dân gian/Ủy ban
 - Tác phẩm nghệ thuật trang trí/bổ sung
     - Bởi: Tony Watkins & Steve Lines
 

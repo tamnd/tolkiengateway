@@ -75,10 +75,10 @@ Sự kiện xảy ra vào ngày 26 tháng 2.
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - Việc phá vỡ [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md):
-        - Orc từ phía Bắc, [Mordor](../M/Mordor.md) và [Isengard](../I/Isengard.md) tấn công.
-        - [Boromir](../B/Boromir.md) thổi [Great Horn](../G/Great_Horn.md), được nghe thấy trong [Minas Tirith](../M/Minas_Tirith.md)và bị tiêu diệt ngay sau đó.
-        - [Merry](../M/Meriadoc_Brandybuck.md) và [Pippin](../P/Peregrin_Took.md) được chụp.
-        - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) tiến vào miền đông [Emyn Muil](../E/Emyn_Muil.md), theo sau là [Gollum](../G/Gollum.md).
-        - Đội [Ba Thợ Săn](../T/Three_Hunters.md) lên đường truy đuổi [Uruk-hai](../U/Uruk-hai.md) vào buổi tối.
-    - Trong [Edoras](../E/Edoras.md), [Éomer](Éomer.md) nghe tin Orcband đi xuống từ Emyn Muil.
+    - Việc phá vỡ [Hiệp hội chiếc nhẫn](../F/Fellowship_of_the_Ring.md):
+        - Orc từ phương Bắc, [Mordor](../M/Mordor.md) và [Isengard](../I/Isengard.md) tấn công.
+        - [Boromir](../B/Boromir.md) thổi [Great Horn](../G/Great_Horn.md), được nghe thấy ở [Minas Tirith](../M/Minas_Tirith.md), và bị tiêu diệt ngay sau đó.
+        - [Merry](../M/Meriadoc_Brandybuck.md) và [Pippin](../P/Peregrin_Took.md) bị bắt.
+        - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) tiến vào [Emyn Muil](../E/Emyn_Muil.md) phía đông, theo sau là [Gollum](../G/Gollum.md).
+        - Nhóm [Ba thợ săn](../T/Three_Hunters.md) lên đường truy đuổi [Uruk-hai](../U/Uruk-hai.md) vào buổi tối.
+    - Trong [Edoras](../E/Edoras.md), [Éomer](Éomer.md) nghe tin về sự xuất hiện của Orcband từ Emyn Muil.

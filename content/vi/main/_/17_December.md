@@ -73,7 +73,7 @@ Sự kiện xảy ra vào ngày 17 tháng 12
 - **[1947](1947.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một lá thư cho Malcolm Knox](../L/Letter_to_Malcolm_Knox.md).
 - **[1967](1967.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) cùng vợ đi xem *[The Hobbit](<../T/The_Hobbit_(1967_stage_adaptation).md>)* biểu diễn ca nhạc.
 - **[1972](1972.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 347](../L/Letter_347.md).
-- <b><a href="2003.md" title="2003">2003</a> – <i><a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">The Lord of the Rings: The Return of the King</a></i> được phát hành tại các rạp chiếu phim trên toàn thế giới.</b>
+- <b><a href="2003.md" title="2003">2003</a> – <i><a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">Chúa tể của những chiếc nhẫn: Sự trở lại của nhà vua</a></i> được công chiếu tại các rạp trên toàn thế giới.</b>
 - **[2003](2003.md)** - Diễn viên [Alan Tilvern](../A/Alan_Tilvern.md) qua đời.
 - **[2014](2014.md)** - <b><i><a href="../T/The_Hobbit%253A_The_Battle_of_the_Five_Armies.md" title="The Hobbit: The Battle of the Five Armies">The Hobbit: The Battle of the Five Armies</a></i> được phát hành tại Hoa Kỳ.</b>
 - **[2017](2017.md)** - *["There Would Always Be a Fairy Tale": Essays on Tolkien's Middle-earth](../T/There_Would_Always_Be_a_Fairy_Tale.md)* được xuất bản.
@@ -81,4 +81,4 @@ Sự kiện xảy ra vào ngày 17 tháng 12
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi ở [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).
+    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi tại [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).

@@ -21,13 +21,13 @@ langlinks:
     url: "https://kontu.wiki/Ivanneth"
 ---
 
-**Ivanneth** là cái tên trong số [Dúnedain](../D/Dúnedain.md) của tháng thứ chín trong năm, thường được biết đến nhiều hơn ở [Trung Địa](../M/Middle-earth.md) với tên [Quenya](../Q/Quenya.md) của nó, [Yavannië](../Y/Yavannië.md), và gần tương đương với tháng Chín hiện đại.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Ivanneth** là tên của [Dúnedain](../D/Dúnedain.md) vào tháng thứ chín trong năm, thường được biết đến nhiều hơn ở [Trung địa](../M/Middle-earth.md) với tiêu đề [Quenya](../Q/Quenya.md), [Yavannië](../Y/Yavannië.md), và gần tương đương với tháng 9 hiện đại.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Tháng Ivanneth vào năm thứ hai của [Kỷ Đệ Tam](../T/Third_Age.md) có ý nghĩa lịch sử quan trọng vì thời điểm [Isildur](Isildur.md) khởi hành từ [Osgiliath](../O/Osgiliath.md) để đi đến [Vương quốc phương Bắc](../A/Arnor.md) của Dúnedain. Trước khi hết tháng, anh và những người bạn đồng hành của mình đã bị [Orc](../O/Orcs.md) bắt gặp từ những tán cây có màu sắc mùa thu của [Mirkwood](../M/Mirkwood.md), và lỗ khoan [Nhẫn](../T/The_One_Ring.md) Isildur đã bị mất tích trong [Sông Lớn](../A/Anduin.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Tháng Ivanneth vào năm thứ hai của [Thời đại thứ ba](../T/Third_Age.md) có ý nghĩa lịch sử quan trọng vì thời điểm [Isildur](Isildur.md) khởi hành từ [Osgiliath](../O/Osgiliath.md) để tiến tới [vương quốc phía Bắc](../A/Arnor.md) của người Dúnedain. Trước khi hết một tháng, anh và những người bạn đồng hành của mình đã bị [Orc](../O/Orcs.md) tấn công từ những tán cây có màu sắc mùa thu của [Mirkwood](../M/Mirkwood.md), và [Chiếc nhẫn](../T/The_One_Ring.md) Lỗ khoan Isildur đã bị thất lạc ở [Great River](../A/Anduin.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Tên của nó xuất phát từ các từ *[yávë](../Y/Yávë.md)* ("trái cây") và *[anna](../A/Anna.md)* ("quà tặng"), ám chỉ vụ thu hoạch vào mùa thu và được kết nối với tên [Yavanna](../Y/Yavanna.md), [Vala](../V/Valar.md) của trái đất và sự phát triển. <span></span>
+Tên của nó xuất phát từ các từ *[yávë](../Y/Yávë.md)* ("trái cây") và *[anna](../A/Anna.md)* ("quà tặng"), ám chỉ vụ thu hoạch vào mùa thu và gắn liền với tên của [Yavanna](../Y/Yavanna.md), [Vala](../V/Valar.md) của trái đất và sự phát triển. <span></span>
 
 ## Tài liệu tham khảo {#References}
 

@@ -13,11 +13,11 @@ categories:
   - "Old English names"
 ---
 
-**Ordhelm** là con trai của [Orodreth](Orodreth.md) trong các phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md).<sup id="cite_ref-Ord_1-0" class="reference"><a href="#cite_note-Ord-1">[1]</a></sup> Không có thông tin nào khác về anh ta.
+**Ordhelm** là con trai của [Orodreth](Orodreth.md) trong các phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md).<sup id="cite_ref-Ord_1-0" class="reference"><a href="#cite_note-Ord-1">[1]</a></sup> Không có thông tin nào khác về ông ta.
 
 ## Từ nguyên {#Etymology}
 
-Tên *Ordhelm* có trong [tiếng Anh cổ](Old_English.md), vì nó được dịch bởi [Ælfwine](../_/Ælfwine.md), nhưng không có [Elvish](../E/Elvish.md) tương đương nào được đưa ra.<sup id="cite_ref-Ord_1-1" class="reference"><a href="#cite_note-Ord-1">[1]</a></sup> Trong tiếng Anh hiện đại, điều này có thể có nghĩa là "Spear-helm" ("ord" có nghĩa là "giáo",<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và "helm" mang cùng một nghĩa<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>).
+Tên *Ordhelm* có trong [tiếng Anh cổ](Old_English.md), vì nó được dịch bởi [Ælfwine](../_/Ælfwine.md), nhưng không có [Elvish](../E/Elvish.md) tương đương.<sup id="cite_ref-Ord_1-1" class="reference"><a href="#cite_note-Ord-1">[1]</a></sup> Trong tiếng Anh hiện đại, điều này có thể có nghĩa là "Spear-helm" ("ord" có nghĩa là "giáo",<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và "helm" mang cùng một nghĩa<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>).
 
 ## Phả hệ {#Genealogy}
 

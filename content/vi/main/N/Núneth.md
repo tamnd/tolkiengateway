@@ -28,15 +28,15 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="Númenóreans.md" title="Númenóreans">Númenórean</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Núneth</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../A/Andustar.md" title="Andustar">Andustar</a>, <a href="Númenor.md" title="Númenor">Númenor</a></td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data"><a href="../S/Sindarin.md" title="Sindarin">Sindarin</a></td></tr><tr><th scope="row" class="tg-infobox-label">Birth</th><td class="tg-infobox-data">Before <a href="../S/Second_Age.md" title="Second Age">S.A.</a> <a href="../S/Second_Age_771.md" title="Second Age 771">771</a><br/>Númenor</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">Spouse</th><td class="tg-infobox-data"><a href="../B/Beregar.md" title="Beregar">Beregar</a></td></tr><tr><th scope="row" class="tg-infobox-label">Children</th><td class="tg-infobox-data"><a href="../E/Erendis.md" title="Erendis">Erendis</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Female</td></tr></tbody></table>
 
-**Núneth** là vợ của [Beregar](../B/Beregar.md) và là mẹ của [Erendis](../E/Erendis.md), người có cuộc hôn nhân không hạnh phúc [Tar-Aldarion](../T/Tar-Aldarion.md). Núneth và gia đình cô sống ở phía tây Númenor trước khi Erendis rời đi để gia nhập gia đình Nữ hoàng [Almarian](../A/Almarian.md).
+**Núneth** là vợ của [Beregar](../B/Beregar.md) và là mẹ của [Erendis](../E/Erendis.md), người không hạnh phúc khi kết hôn với [Tar-Aldarion](../T/Tar-Aldarion.md). Núneth và gia đình cô sống ở phía tây Númenor trước khi Erendis rời đi để gia nhập gia đình Nữ hoàng [Almarian](../A/Almarian.md).
 
 Dù biết bản tính cứng đầu của con gái mình nhưng Núneth vẫn thúc giục cô kết hôn với hoàng tử và cho cô những lời khuyên trong suốt nhiều năm.
 
-Khi Erendis xua đuổi những con chim Tiên từng trú ngụ trong vườn của cô ở [Armenelos](../A/Armenelos.md), chúng bay đến nhà bố mẹ cô và Núneth đã đoán đúng rằng đó là dấu hiệu cho thấy Aldarion đã bỏ vợ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Khi Erendis xua đuổi lũ Elven-birds trú ngụ trong khu vườn của cô ở [Armenelos](../A/Armenelos.md), chúng bay đến nhà bố mẹ cô và Núneth đã đoán chính xác rằng đó là dấu hiệu cho thấy Aldarion đã bỏ vợ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Núneth* là [Sindarin](../S/Sindarin.md) và có nghĩa là "Người phụ nữ của Phương Tây" (từ *[annûn](../A/Annûn.md)*, 'Phương Tây' và <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=-eth&amp;action=edit&amp;redlink=1" title="-eth (page does not exist)">-eth</a></i>, một hậu tố giống cái).
+*Núneth* là [Sindarin](../S/Sindarin.md) và có nghĩa là "Người phụ nữ phương Tây" (từ *[annûn](../A/Annûn.md)*, 'Tây' và <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=-eth&amp;action=edit&amp;redlink=1" title="-eth (page does not exist)">-eth</a></i>, một hậu tố giống cái).
 
 ## Phả hệ {#Genealogy}
 

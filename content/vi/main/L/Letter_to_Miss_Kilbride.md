@@ -18,9 +18,9 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Miss_Kilbride_24_December_1938.png.md"><img src="https://tolkiengateway.net/w/images/thumb/4/48/Miss_Kilbride_24_December_1938.png/300px-Miss_Kilbride_24_December_1938.png" decoding="async" loading="lazy" width="300" height="418" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/4/48/Miss_Kilbride_24_December_1938.png 1.5x" data-file-width="383" data-file-height="534"/></a><figcaption></figcaption></figure>
 
-Vào [24 tháng 12](../_/24_December.md) [1938](../_/1938.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho cô Kilbride** (Katherine hoặc Kitty), một người bạn và là cựu học sinh.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Vào [24 tháng 12](../_/24_December.md) [1938](../_/1938.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) gửi cô Kilbride** (Katherine hoặc Kitty), một người bạn và là cựu học sinh.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-- **Chủ đề:** Lời chào cá nhân. Tin tức về những khó khăn năm đó và của gia đình anh, cũng như những lời phàn nàn về tình trạng Oxford trong thời đại của Morris Motors.<sup id="cite_ref-Bonhams_2-0" class="reference"><a href="#cite_note-Bonhams-2">[2]</a></sup>
+- **Chủ đề:** Lời chào cá nhân. Tin tức về những khó khăn năm đó và của gia đình ông, cũng như những lời phàn nàn về bang Oxford trong thời đại của Morris Motors.<sup id="cite_ref-Bonhams_2-0" class="reference"><a href="#cite_note-Bonhams-2">[2]</a></sup>
 - **Mô tả:** Bưu thiếp (in màu [Heilige Familie của Josef Madlener](../J/Josef_Madlener.md)), một trang, viết sát nhau bằng kim phút.<sup id="cite_ref-Bonhams_2-1" class="reference"><a href="#cite_note-Bonhams-2">[2]</a></sup>
 - **Xuất bản:** Bản sao và trích dẫn từ bức thư đã xuất hiện trong danh mục đấu giá *[Bonhams Books, Maps, Manuscripts and Historical Photographs 12 June 2012](../B/Bonhams_Books,_Maps,_Manuscripts_and_Historical_Photographs_12_June_2012.md)*.
 

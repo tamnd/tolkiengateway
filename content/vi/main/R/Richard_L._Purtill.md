@@ -24,7 +24,7 @@ sort_keys:
 
 ### Sách {#Books}
 
-- [1974](../_/1974.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Lord_of_Elves_And_Eldils:_Fantasy_And_Philosophy_in_C.S._Lewis_And_J.R.R._Tolkien&amp;action=edit&amp;redlink=1" title="Lord of Elves And Eldils: Fantasy And Philosophy in C.S. Lewis And J.R.R. Tolkien (page does not exist)">Chúa tể Tiên tộc Và người Eldils: Giả tưởng và triết học trong C.S. Lewis Và J.R.R. Tolkien</a></i>
+- [1974](../_/1974.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Lord_of_Elves_And_Eldils:_Fantasy_And_Philosophy_in_C.S._Lewis_And_J.R.R._Tolkien&amp;action=edit&amp;redlink=1" title="Lord of Elves And Eldils: Fantasy And Philosophy in C.S. Lewis And J.R.R. Tolkien (page does not exist)">Chúa tể của yêu tinh và người lùn: Ảo mộng và triết học trong C.S. Lewis Và J.R.R. Tolkien</a></i>
 - [1984](../_/1984.md): *[J.R.R. Tolkien: Myth, Morality and Religion](../J/J.R.R._Tolkien%253A_Myth,_Morality_and_Religion.md)*
 
 ### Bài viết {#Articles}

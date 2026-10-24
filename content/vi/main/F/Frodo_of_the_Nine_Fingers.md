@@ -26,19 +26,19 @@ images:
 <p class="tg-quote-footer"><cite>The <a href="../M/Minstrels.md" title="Minstrels">minstrel</a> of <a href="../G/Gondor.md" title="Gondor">Gondor</a> in <i><a href="../T/The_Return_of_the_King.md" title="The Return of the King">The Return of the King</a></i>, &#34;<a href="../T/The_Field_of_Cormallen.md" title="The Field of Cormallen">The Field of Cormallen</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Of Frodo of the Nine Fingers và Vòng Phán xét** là một bản hùng ca không tên được hát bởi một [nghệ sĩ hát rong](../M/Minstrel_of_Gondor.md) giấu tên của [Gondor](../G/Gondor.md).<sup id="cite_ref-Song_1-0" class="reference"><a href="#cite_note-Song-1">[1]</a></sup>
+**Of Frodo of the Nine Fingers and the Ring of Doom** was an epic unnamed lay that was sung by an unnamed [minstrel](../M/Minstrel_of_Gondor.md) of [Gondor](../G/Gondor.md).<sup id="cite_ref-Song_1-0" class="reference"><a href="#cite_note-Song-1">[1]</a></sup>
 
 ## Lịch sử {#History}
 
-Trên [Cánh đồng Cormallen](Field_of_Cormallen.md), một ca sĩ Gondor cầu xin nhà vua cho phép hát. Trước khi chờ [Aragorn](../A/Aragorn.md) rời đi, người hát rong đã thông báo rằng anh ta sẽ kể lại, theo cách của mình, [câu chuyện](../Q/Quest_of_the_Ring.md) "về [Frodo Cửu Ngón](Frodo_Baggins.md) và [Vòng Phán xét](../R/Ring_of_Doom.md)",<sup id="cite_ref-Song_1-1" class="reference"><a href="#cite_note-Song-1">[1]</a></sup> có thể có nghĩa rằng đây là tên của giáo dân, nhưng điều này không rõ ràng.
+On the [Field of Cormallen](Field_of_Cormallen.md), a minstrel of Gondor begged the king for his permission to sing. Trước khi chờ [Aragorn](../A/Aragorn.md) rời đi, người hát rong đã thông báo rằng ông ta sẽ kể lại, theo cách của mình, [câu chuyện](../Q/Quest_of_the_Ring.md) "về [Frodo of the Nine Fingers](Frodo_Baggins.md) và [Chiếc nhẫn diệt vong](../R/Ring_of_Doom.md)",<sup id="cite_ref-Song_1-1" class="reference"><a href="#cite_note-Song-1">[1]</a></sup> có thể có nghĩa rằng đây là tên của giáo dân, nhưng điều này không rõ ràng.
 
-Điều này làm [Samwise Gamgee](../S/Samwise_Gamgee.md) hài lòng đến mức anh ấy đã khóc ngay sau khi nghe điều này, và những người nghe còn lại cũng tham gia cùng anh ấy. Giọng nói trong trẻo của người hát rong được cho là xen kẽ giữa một trong các [tiếng tiên](../E/Elvish.md) và [Westron](../W/Westron.md). Lay đã khiến trái tim người nghe tràn ngập niềm vui trước những lời ngọt ngào và họ bắt đầu khóc.<sup id="cite_ref-Song_1-2" class="reference"><a href="#cite_note-Song-1">[1]</a></sup>
+Điều này làm [Samwise Gamgee](../S/Samwise_Gamgee.md) hài lòng đến mức ông đã khóc ngay sau khi nghe điều này và những người nghe còn lại cũng tham gia cùng ông. Giọng nói trong trẻo của người hát rong được cho là xen kẽ giữa một trong những [tiếng tiên](../E/Elvish.md) và [Westron](../W/Westron.md). Lay đã khiến trái tim người nghe tràn ngập niềm vui trước những lời ngọt ngào và họ bắt đầu khóc.<sup id="cite_ref-Song_1-2" class="reference"><a href="#cite_note-Song-1">[1]</a></sup>
 
 Ca sĩ hát rong kéo dài gần như cả ngày hôm đó và kết thúc ngay khi buổi tối bắt đầu.<sup id="cite_ref-Song_1-3" class="reference"><a href="#cite_note-Song-1">[1]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1980: <i><a href="../T/The_Return_of_the_King_(1980_film).md" title="The Return of the King (1980 film)">The Return of the King (phim 1980)</a></i>:</b>
+<b>1980: <i><a href="../T/The_Return_of_the_King_(1980_film).md" title="The Return of the King (1980 film)">The Return of the King (1980 film)</a></i>:</b>
 
 <dl><dd>The unnamed lay in the original text was turned into a song referred to in the soundtrack as <b>Frodo of the Nine Fingers</b>.<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup> It was put to music by <a href="../M/Maury_Laws.md" title="Maury Laws">Maury Laws</a> and given lyrics by <a href="../J/Jules_Bass.md" title="Jules Bass">Jules Bass</a>. While the <a href="../M/Minstrel_of_Gondor.md" title="Minstrel of Gondor">Minstrel of Gondor</a> (voiced by <a href="../G/Glenn_Yarbrough.md" title="Glenn Yarbrough">Glenn Yarbrough</a>) still sang it, the lay appeared as the film&#39;s framing device and became a song used as entertainment at <a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo Baggins</a>&#39; 129th birthday party in <a href="../R/Rivendell.md" title="Rivendell">Rivendell</a>. The lyrics created for the film are given as follows:</dd></dl>
 
@@ -98,7 +98,7 @@ Where is the ring of doom?
 </p>
 </div>
 
-<b>1981: <a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>The Lord of the Rings</i> (loạt phim phát thanh 1981)</a>:</b>
+<b>1981: <a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>Chúa tể của những chiếc nhẫn</i> (loạt phim phát thanh năm 1981)</a>:</b>
 
 <dl><dd>The minstrel begins to perform the lay with the following opening line:</dd></dl>
 

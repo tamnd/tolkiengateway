@@ -38,27 +38,27 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_J.R.R_Tolkien_Calendar_1974_(George_Allen_and_Unwin).jpg.md"><img src="https://tolkiengateway.net/w/images/6/60/The_J.R.R_Tolkien_Calendar_1974_%28George_Allen_and_Unwin%29.jpg" decoding="async" loading="lazy" width="225" height="216" class="mw-file-element" data-file-width="225" data-file-height="216"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The J.R.R Tolkien Calendar 1974</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../P/Pauline_Baynes.md" title="Pauline Baynes">Pauline Baynes</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a class="mw-redirect" href="../G/George_Allen_and_Unwin.md" title="George Allen and Unwin">George Allen &amp; Unwin</a> (UK)</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">August <a href="../_/1973.md" title="1973">1973</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Stapled calendar with mailer (13 x 12<sup>3</sup>⁄<sub>8</sub> inches)</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0-04-529001-6" title="Special:BookSources/0-04-529001-6">0-04-529001-6</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data">None. Next calendar:<br/><a href="The_Hobbit_Calendar_1976.md" title="The Hobbit Calendar 1976">The Hobbit Calendar 1976</a></td></tr><tr><th scope="row" class="tg-infobox-label">Re-usable in</th><td class="tg-infobox-data">1974</td></tr></tbody></table>
 
-<i><b>Lịch J.R.R Tolkien 1974</b></i> là lịch Tolkien chính thức đầu tiên được xuất bản bởi [George Allen &amp; Unwin](../G/George_Allen_and_Unwin.md) vào tháng 8 [1973](../_/1973.md). Nó có tác phẩm nghệ thuật của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và [Pauline Baynes](../P/Pauline_Baynes.md). Người chụp ảnh bìa là [Billett Potter](../B/Billett_Potter.md).
+<i><b> J.R.Lịch R Tolkien 1974</b></i> là lịch Tolkien chính thức đầu tiên được xuất bản bởi [George Allen & Unwin](../G/George_Allen_and_Unwin.md) vào tháng 8 [1973](../_/1973.md). Nó có tác phẩm nghệ thuật của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và [Pauline Baynes](../P/Pauline_Baynes.md). Người chụp ảnh bìa là [Billett Potter](../B/Billett_Potter.md).
 
-Tolkien đã qua đời vào ngày [2 tháng Chín](../_/2_September.md) [1973](../_/1973.md). Tuy nhiên, một bản sao của cuốn Lịch năm 1974 này đã được Tolkien ký trước khi ông qua đời, có lẽ là vào tháng 8 năm 1973, khiến nó trở thành một trong những món đồ cuối cùng ông ký.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Tolkien qua đời vào [2 tháng 9](../_/2_September.md) [1973](../_/1973.md). Tuy nhiên, một bản sao của cuốn Lịch năm 1974 này đã được Tolkien ký trước khi ông qua đời, có lẽ là vào tháng 8 năm 1973, khiến nó trở thành một trong những món đồ cuối cùng ông ký.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Minh họa {#Illustrations}
 
 - Tháng 1 - "[Núi Everwhite](../../file/J/J.R.R._Tolkien_-_Halls_of_Manwe_on_the_Mountains_of_the_World_above_Faerie.jpg.md)"
-- Tháng 2 - "[Ngọn đồi: Hobbiton-trên-mặt nước](<../../file/J/J.R.R._Tolkien_-_The_Hill_-_Hobbiton-across-the-Water_(Colored).jpg.md>)"
+- Tháng 2 - "[The Hill: Hobbiton-across-the-Water](<../../file/J/J.R.R._Tolkien_-_The_Hill_-_Hobbiton-across-the-Water_(Colored).jpg.md>)"
 - Tháng 3 - "[Bilbo thức dậy với ánh nắng sớm chiếu vào mắt](../../file/J/J.R.R._Tolkien_-_Bilbo_woke_with_the_early_sun_in_his_eyes.jpg.md)"
-- Tháng 4 - "[Khu rừng Lothlórien mùa xuân](../../file/J/J.R.R._Tolkien_-_The_Forest_of_Lothlorien_in_Spring.jpg.md)"
-- Tháng 5 - "[Bilbo đến với Túp lều của Yêu tinh bè](<../../file/J/J.R.R._Tolkien_-_Bilbo_comes_to_the_Huts_of_the_Raft-elves_(II).jpg.md>)"
+- Tháng 4 - "[Khu rừng Lothlórien vào mùa xuân](../../file/J/J.R.R._Tolkien_-_The_Forest_of_Lothlorien_in_Spring.jpg.md)"
+- Tháng 5 - "[Bilbo đến Túp lều của Yêu tinh bè](<../../file/J/J.R.R._Tolkien_-_Bilbo_comes_to_the_Huts_of_the_Raft-elves_(II).jpg.md>)"
 - Tháng 6 - "[Rivendell](../../file/J/J.R.R._Tolkien_-_Rivendell.jpg.md)"
 - Tháng 7 - "[Cuộc trò chuyện với Smaug](<../../file/J/J.R.R._Tolkien_-_Conversation_with_Smaug_(large).jpg.md>)"
 - Tháng 8 - "[Ông già liễu](../../file/J/J.R.R._Tolkien_-_Old_Man_Willow.jpg.md)"
-- tháng Chín - "[Cái chết của Smaug](../../file/J/J.R.R._Tolkien_-_Death_of_Smaug.jpg.md)"
+- Tháng 9 - "[Cái chết của Smaug](../../file/J/J.R.R._Tolkien_-_Death_of_Smaug.jpg.md)"
 - Tháng 10 - "[Barad-dûr](../../file/J/J.R.R._Tolkien_-_Barad-dur.jpg.md)"
-- Tháng 11 - "[Moria Cổng](../../file/J/J.R.R._Tolkien_-_West_Gate_of_Moria.jpg.md)"
+- Tháng 11 - "[Cổng Moria](../../file/J/J.R.R._Tolkien_-_West_Gate_of_Moria.jpg.md)"
 - Tháng 12 - "[Rừng Fangorn](../../file/J/J.R.R._Tolkien_-_Fangorn_Forest.jpg.md)"
 
-- "[A Map of Middle-earth](<../../file/P/Pauline_Baynes_-_A_Map_of_Middle-earth_(color)_2.jpg.md>)" bởi [Pauline Baynes](../P/Pauline_Baynes.md)
-- Nắp ngược - Númenórean Ngói và các thiết bị huy hiệu khác nhau
+- "[Bản đồ Trung Địa](<../../file/P/Pauline_Baynes_-_A_Map_of_Middle-earth_(color)_2.jpg.md>)" của [Pauline Baynes](../P/Pauline_Baynes.md)
+- Bìa sau - Ngói Númenórean và các Thiết bị Huy hiệu khác nhau
 
 ## Biến thể {#Variants}
 
@@ -79,7 +79,7 @@ Tolkien đã qua đời vào ngày [2 tháng Chín](../_/2_September.md) [1973](
 ## Liên kết ngoài {#External_links}
 
 - <a class="external text" href="http://www.tolkienbooks.net/php/caldetails.php?reference=94100" rel="noreferrer noopener" target="_blank">Lịch J.R.R. Tolkien 1974</a> tại <a class="external text" href="http://www.tolkienbooks.net" rel="noreferrer noopener" target="_blank">TolkienBooks.net</a>
-- <a class="external text" href="http://tolkiencalendars.com/1969_1977.html" rel="noreferrer noopener" target="_blank">Tolkien Lịch 1969 - 1977</a> tại <a class="external text" href="http://tolkiencalendars.com/" rel="noreferrer noopener" target="_blank">The Compleat Gyde đến Tolkien Lịch</a>
+- <a class="external text" href="http://tolkiencalendars.com/1969_1977.html" rel="noreferrer noopener" target="_blank">Lịch Tolkien 1969 - 1977</a> tại <a class="external text" href="http://tolkiencalendars.com/" rel="noreferrer noopener" target="_blank">The Compleat Gyde to Tolkien Calendars</a>
 
 <span></span>
 

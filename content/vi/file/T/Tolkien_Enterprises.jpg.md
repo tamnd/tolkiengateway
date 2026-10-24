@@ -25,7 +25,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Logo của [Tolkien Doanh nghiệp](../../main/M/Middle-earth_Enterprises.md). Ảnh chụp màn hình từ [*The Lord of the Rings: The Fellowship of the Ring* (trò chơi điện tử)](<../../main/T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md>).
+Logo của [Tolkien Doanh nghiệp](../../main/M/Middle-earth_Enterprises.md). Ảnh chụp màn hình từ [*The Lord of the Rings: The Fellowship of the Ring* (video game)](<../../main/T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md>).
 
 ## Giấy phép {#Licensing}
 

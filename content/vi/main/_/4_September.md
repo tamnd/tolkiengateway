@@ -58,7 +58,7 @@ langlinks:
 </div><div class="template-month__footer"><div class="tg-button"><a href="../J/January.md" title="January">Jan</a></div><div class="tg-button"><a href="../F/February.md" title="February">Feb</a></div><div class="tg-button"><a href="../M/March.md" title="March">Mar</a></div><div class="tg-button"><a href="../A/April.md" title="April">Apr</a></div><div class="tg-button"><a href="../M/May.md" title="May">May</a></div><div class="tg-button"><a href="../J/June.md" title="June">Jun</a></div><div class="tg-button"><a href="../J/July.md" title="July">Jul</a></div><div class="tg-button"><a href="../A/August.md" title="August">Aug</a></div><div class="tg-button"><a href="../S/September.md" title="September">Sep</a></div><div class="tg-button"><a href="../O/October.md" title="October">Oct</a></div><div class="tg-button"><a href="../N/November.md" title="November">Nov</a></div><div class="tg-button"><a href="../D/December.md" title="December">Dec</a></div></div>
 </div>
 
-Sự kiện xảy ra vào ngày 4 tháng Chín.
+Sự kiện xảy ra vào ngày 4 tháng 9.
 
 ## Trên Trái đất {#On_Earth}
 
@@ -67,8 +67,8 @@ Sự kiện xảy ra vào ngày 4 tháng Chín.
 - **[1950](1950.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 128a](../L/Letter_128a.md).
 - **[1957](1957.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư 200a](../L/Letter_200a.md).
 - **[1957](1957.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) gặp gỡ một số nhà sản xuất Mỹ quan tâm đến việc làm phiên bản hoạt hình của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* (xem [Thư 201](../L/Letter_201.md)).
-- **[1960](1960.md)** - Câu lạc bộ Tolkien được tổ chức đầu tiên, [The Fellowship of the Ring](<../T/The_Fellowship_of_the_Ring_(fangroup).md>), chính thức được thành lập.
-- **[1968](1968.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một lá thư cho Mary Fairburn](<../L/Letter_to_Mary_Fairburn_(4_September_1968).md>).
+- **[1960](1960.md)** - Câu lạc bộ Tolkien được tổ chức đầu tiên, [Hiệp hội Chiếc nhẫn](<../T/The_Fellowship_of_the_Ring_(fangroup).md>), chính thức được thành lập.
+- **[1968](1968.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một bức thư cho Mary Fairburn](<../L/Letter_to_Mary_Fairburn_(4_September_1968).md>).
 - **[1970](1970.md)** – [Mythcon đầu tiên](../M/Mythcon_1.md) được tổ chức tại <a class="extiw" href="http://en.wikipedia.org/wiki/Harvey_Mudd_College" title="wikipedia:Harvey Mudd College">Harvey Mudd College</a> ở <a class="extiw" href="http://en.wikipedia.org/wiki/Claremont,_California" title="wikipedia:Claremont, California">Claremont</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/California" title="wikipedia:California">California</a>.
 - **[1971](1971.md)** - [Mythcon 2](../M/Mythcon_2.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Santa_Barbara,_California" title="wikipedia:Santa Barbara, California">Santa Barbara</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/California" title="wikipedia:California">California</a>.
 - **[1982](1982.md)** - Tập thứ 8 phiên bản mới của loạt phim phát thanh [1981](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* được phát sóng trên [BBC Radio 4](../B/BBC.md).
@@ -77,5 +77,5 @@ Sự kiện xảy ra vào ngày 4 tháng Chín.
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Gandalf](../G/Gandalf.md) bị giam giữ bởi [Saruman](../S/Saruman.md) trên đỉnh của [Orthanc](../O/Orthanc.md).
+    - [Gandalf](../G/Gandalf.md) bị [Saruman](../S/Saruman.md) giam giữ trên đỉnh [Orthanc](../O/Orthanc.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.

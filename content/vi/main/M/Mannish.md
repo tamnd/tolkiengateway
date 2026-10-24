@@ -29,19 +29,19 @@ images:
 <p class="tg-quote-footer"><cite><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a></cite></p>
 </blockquote></div></div>
 
-**Mannish** là thuật ngữ dùng để chỉ các ngôn ngữ của [Con Người](Men.md), trái ngược với các ngôn ngữ [Elvish](../E/Elvish.md) hoặc ngôn ngữ của các chủng tộc khác của [Trung Địa](Middle-earth.md). Cho đến nay ngôn ngữ Mannish nổi bật nhất là [Westron](../W/Westron.md).
+**Mannish** là thuật ngữ dùng để chỉ ngôn ngữ của [Đàn ông](Men.md), trái ngược với ngôn ngữ [Elvish](../E/Elvish.md) hoặc ngôn ngữ của các chủng tộc khác ở [Trung Địa](Middle-earth.md). Cho đến nay, ngôn ngữ Mannish nổi bật nhất là [Westron](../W/Westron.md).
 
 ## Lịch sử {#History}
 
-Ngôn ngữ Con Người bắt đầu từ [Hildórien](../H/Hildórien.md) khi [Edain](../E/Edain.md) phân chia để di cư về phía tây. Các nhóm mà sau này được gọi là [Nhà Bëor](../H/House_of_Bëor.md) và [House of Marach](../H/House_of_Hador.md), đã sử dụng [một ngôn ngữ](../T/Taliska.md). Bộ tộc thứ ba, sau này được gọi là [Nhà Haleth](../H/House_of_Haleth.md), sử dụng một ngôn ngữ không liên quan.
+Ngôn ngữ của con người bắt đầu ở [Hildórien](../H/Hildórien.md) khi [Edain](../E/Edain.md) chia cắt để di cư về phía tây. Các nhóm mà sau này được gọi là [House of Bëor](../H/House_of_Bëor.md) và [House of Marach](../H/House_of_Hador.md), sử dụng [một ngôn ngữ](../T/Taliska.md). Bộ tộc thứ ba, sau này được gọi là [Nhà Haleth](../H/House_of_Haleth.md), sử dụng ngôn ngữ không liên quan.
 
-Trong cuộc hành quân, các bộ lạc đã để lại nhiều hậu duệ khác nhau ở [Eriador](../E/Eriador.md) tiếp tục ngôn ngữ của họ. Trong [Beleriand](../B/Beleriand.md), Nhà Bëor đã nhanh chóng được áp dụng [Sindarin](../S/Sindarin.md). Tuy nhiên ngôn ngữ của Hador vẫn được giữ lại và chịu ảnh hưởng của [Khuzdul](../K/Khuzdul.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Trong cuộc hành quân, các bộ lạc đã để lại nhiều hậu duệ khác nhau ở [Eriador](../E/Eriador.md) tiếp tục ngôn ngữ của họ. Tại [Beleriand](../B/Beleriand.md), Nhà Bëor nhanh chóng áp dụng [Sindarin](../S/Sindarin.md). Tuy nhiên ngôn ngữ của Hador vẫn được giữ lại và chịu ảnh hưởng của [Khuzdul](../K/Khuzdul.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Ngôn ngữ của [Nhà Hador](../H/House_of_Hador.md) trong [Thời thứ hai](../S/Second_Age.md) đã phát triển thành [Adûnaic](../A/Adûnaic.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Trong khi đó, hậu duệ của Con Người của Kỷ Đệ Nhất ở Westlands đã trở thành [Éothéod](../_/Éothéod.md) mà cuối cùng là nguồn gốc của ngôn ngữ [Rohanese](../R/Rohanese.md). Nhà Haleth cũng để lại những hậu duệ nói nhiều ngôn ngữ [TiềnNúmenórean](../P/Pre-Númenórean.md) khác nhau.<sup id="cite_ref-Drú_3-0" class="reference"><a href="#cite_note-Drú-3">[3]</a></sup><sup id="cite_ref-AppF_4-0" class="reference"><a href="#cite_note-AppF-4">[4]</a></sup>
+Ngôn ngữ của [Nhà Hador](../H/House_of_Hador.md) trong [Thời đại thứ hai](../S/Second_Age.md) đã phát triển thành [Adûnaic](../A/Adûnaic.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Trong khi đó, hậu duệ của Những người thuộc Thời đại thứ nhất ở Westlands trở thành [Éothéod](../_/Éothéod.md) mà cuối cùng họ bắt nguồn từ ngôn ngữ [Rohanese](../R/Rohanese.md). Nhà Haleth cũng để lại những hậu duệ nói nhiều ngôn ngữ [Tiền Númenórean](../P/Pre-Númenórean.md).<sup id="cite_ref-Drú_3-0" class="reference"><a href="#cite_note-Drú-3">[3]</a></sup><sup id="cite_ref-AppF_4-0" class="reference"><a href="#cite_note-AppF-4">[4]</a></sup>
 
-Adûnaic ban đầu hòa trộn với nhiều từ trong ngôn ngữ của những người thấp kém hơn và trở thành một Ngôn ngữ Chung lan rộng dọc theo bờ biển giữa tất cả những người có giao dịch với Westernesse.<sup id="cite_ref-AppF_4-1" class="reference"><a href="#cite_note-AppF-4">[4]</a></sup>
+Tiếng Adûnaic sơ khai đã hòa trộn với nhiều từ trong ngôn ngữ của những người kém cỏi hơn và trở thành một Ngôn ngữ Chung lan rộng dọc theo bờ biển trong số tất cả những nơi có giao tiếp với Westernesse.<sup id="cite_ref-AppF_4-1" class="reference"><a href="#cite_note-AppF-4">[4]</a></sup>
 
-Sau Sự sụp đổ, các Tín đồ coi Sindarin tiếng mẹ đẻ của họ và sử dụng Ngôn ngữ Chung trong giao dịch với những người dân khác và trong chính quyền trên lãnh thổ rộng lớn của họ; nhưng họ đã mở rộng ngôn ngữ và làm phong phú nó bằng nhiều từ rút ra từ các ngôn ngữ Tiên.<sup id="cite_ref-AppF_4-2" class="reference"><a href="#cite_note-AppF-4">[4]</a></sup>
+Sau sự sụp đổ, những người trung thành coi tiếng Sindarin là tiếng mẹ đẻ của họ và sử dụng Ngôn ngữ chung trong cách đối xử với những người dân khác và trong chính quyền của các vương quốc rộng lớn của họ; nhưng họ đã mở rộng ngôn ngữ và làm phong phú nó bằng nhiều từ rút ra từ ngôn ngữ của tộc Tiên.<sup id="cite_ref-AppF_4-2" class="reference"><a href="#cite_note-AppF-4">[4]</a></sup>
 
 ## Sơ đồ {#Schematic}
 
@@ -49,47 +49,47 @@ Sau Sự sụp đổ, các Tín đồ coi Sindarin tiếng mẹ đẻ của họ
 
 - Ngôn ngữ của Nhà thứ nhất và thứ ba của [Atanatári](../A/Atanatári.md)
     - [Taliska](../T/Taliska.md) (hai phương ngữ; [Bëor](../H/House_of_Bëor.md) và [Hador](../H/House_of_Hador.md))
-        - [Adûnaic](../A/Adûnaic.md)
-            - Đen Adûnaic của [Đen người Númenor](../B/Black_Númenóreans.md)
-            - [Westron](../W/Westron.md) hoặc "Ngôn ngữ Chung" (chịu ảnh hưởng của [Sindarin](../S/Sindarin.md) và ngôn ngữ của [Eriador](../E/Eriador.md))
-                - [Hobbitish](../H/Hobbitish.md) (chịu ảnh hưởng của các ngôn ngữ [Người phương Bắc](../N/Northmen.md))
+        - [Quảng cáo](../A/Adûnaic.md)
+            - Người Adûnaic da đen của [Người Númenóre đen](../B/Black_Númenóreans.md)
+            - [Westron](../W/Westron.md) hay "Ngôn ngữ chung" (chịu ảnh hưởng của [Sindarin](../S/Sindarin.md) và các ngôn ngữ của [Eriador](../E/Eriador.md))
+                - [Người Hobbit](../H/Hobbitish.md) (chịu ảnh hưởng của ngôn ngữ của [Người phương Bắc](../N/Northmen.md))
                 - [Stoorish](../S/Stoorish.md) (chịu ảnh hưởng của [Dunlendish](../D/Dunlendish.md))
-    - Các ngôn ngữ của [Trung đại Con Người](Middle_Men.md) của [Eriador](../E/Eriador.md) trong [Thời đại thứ hai](../S/Second_Age.md)
+    - Ngôn ngữ của [Trung gian](Middle_Men.md) của [Eriador](../E/Eriador.md) trong [Thời thứ hai](../S/Second_Age.md)
     - Ngôn ngữ của [Người phương Bắc](../N/Northmen.md)
         - [Ngôn ngữ của Dale](../L/Language_of_Dale.md)
-        - [Rohanese](../R/Rohanese.md)
-- Ngôn ngữ của Gia tộc thứ hai của Atanatári (xem [Pre-Númenórean](../P/Pre-Númenórean.md))
-    - [Haladin](../H/Haladin.md) ngôn ngữ
+        - [Tiếng Rohan](../R/Rohanese.md)
+- Ngôn ngữ của Gia tộc thứ hai của Atanatári (xem [Tiền Númenórean](../P/Pre-Númenórean.md))
+Ngôn ngữ     - [Haladin](../H/Haladin.md)
     - [Dunlend](../D/Dunlendish.md)
 Ngôn ngữ - [Drúadan](../D/Drúadan.md)
-    - Ngôn ngữ của Drúedain của [Brethil](../B/Brethil.md)
-    - Ngôn ngữ của Woses của [Rừng Drúadan](../D/Drúadan_Forest.md)
+    - Ngôn ngữ Drúedain của [Brethil](../B/Brethil.md)
+    - Ngôn ngữ của người Woses ở [Rừng Drúadan](../D/Drúadan_Forest.md)
 - Nhiều ngôn ngữ [Haradric](../H/Haradrim.md)
 - Nhiều ngôn ngữ của [Người phương Đông](../E/Easterlings.md)
 
 ## Bản dịch {#Translation}
 
-Tolkien đã sử dụng ngôn ngữ và tên thật để giới thiệu Mannish. Ví dụ được biết đến nhiều nhất là Westron, luôn được thay thế bằng tiếng Anh hiện đại.
+Tolkien đã sử dụng ngôn ngữ và tên ngoài đời thực để giới thiệu Mannish. Ví dụ được biết đến nhiều nhất là Westron, ngôn ngữ này luôn được thay thế bằng tiếng Anh hiện đại.
 
-Logic này đã tiến thêm một bước nữa bằng cách trình bày tất cả các ngôn ngữ tương tự Westron trong các ngôn ngữ liên quan đến tiếng Anh, để "khả năng hiểu" của các nhân vật chính được mô phỏng cho người đọc tiếng Anh. Vì tiếng Anh thuộc họ Germanic nên hầu hết các tên Tolkien được sử dụng đều là tên Germanic ([Bắc Âu](../N/Norse.md), [Gothic](../G/Gothic.md), v.v.) với một số Celtic ngoại lệ.
+Logic này đã tiến thêm một bước nữa bằng cách trình bày tất cả các ngôn ngữ tương tự như Westron bằng các ngôn ngữ liên quan đến tiếng Anh, để "khả năng hiểu" của các nhân vật chính của chúng được mô phỏng cho người đọc tiếng Anh. Vì tiếng Anh thuộc họ tiếng Đức nên hầu hết các tên Tolkien sử dụng đều là tiếng Đức ([Bắc Âu](../N/Norse.md), [Gothic](../G/Gothic.md), v.v.) với một số ngoại lệ của người Celt.
 
-- Những tên cổ liên quan đến **[Rhovanion](../R/Rhovanion.md)** (chẳng hạn như "[Vidugavia](../V/Vidugavia.md)") là **[Gothic](../G/Gothic.md),'** biểu thị mối quan hệ với tiếng Dalish nhưng Westron không thể nhận ra.
-- **[Rohanese](../R/Rohanese.md)**, ngôn ngữ của [Rohirrim](../R/Rohirrim.md) đã được thay thế bằng **[tiếng Anh cổ](../O/Old_English.md)**, vì Rohanese là họ hàng cổ xưa của Westron, cũng giống như Anglo-Saxon là họ hàng cổ xưa của tiếng Anh;
-- Ngôn ngữ **[Ngôn ngữ của Dale](../L/Language_of_Dale.md)** (từ đó có tên [Người Lùn](../D/Dwarves.md) của [Dân gian Durin](../D/Durin's_Folk~15256.md)), được dịch sang **tiếng Bắc Âu cổ**, một ngôn ngữ liên quan đến Anglo-Saxon và tiếng Anh hiện đại như tiếng Dalish có liên quan đến Rohanese và Westron;
-- Tên **[Hobbitish](../H/Hobbitish.md)** của [Stoors](../S/Stoors.md), [Buckland](../B/Buckland.md) cũng như một số tên [Bree-land](../B/Bree-land.md) là **[Celtic](../C/Celtic.md)**;
+- Những cái tên cổ liên quan đến **[Rhovanion](../R/Rhovanion.md)** (chẳng hạn như "[Vidugavia](../V/Vidugavia.md)") là **[Gothic](../G/Gothic.md),'** biểu thị mối quan hệ với tiếng Dalish nhưng không được Westron công nhận.
+- **[Tiếng Rohan](../R/Rohanese.md)**, ngôn ngữ của [Rohirrim](../R/Rohirrim.md) đã được thay thế bằng **[Tiếng Anh cổ](../O/Old_English.md)**, vì tiếng Rohan là họ hàng xa xưa của Westron, cũng giống như Anglo-Saxon là họ hàng xa xưa của tiếng Anh;
+- **[Ngôn ngữ của Dale](../L/Language_of_Dale.md)** (từ đó có tên của [Người lùn](../D/Dwarves.md) trong [Dân gian Durin](../D/Durin's_Folk~15256.md)), được dịch sang **Tiếng Bắc Âu cổ**, một ngôn ngữ liên quan đến tiếng Anglo-Saxon và tiếng Anh hiện đại vì tiếng Dalish có liên quan đến tiếng Rohan và tiếng Westron;
+- Tên **[Người Hobbit](../H/Hobbitish.md)** của [Stoors](../S/Stoors.md), [Buckland](../B/Buckland.md) cũng như một số tên [Bree-land](../B/Bree-land.md) là **[Celtic](../C/Celtic.md)**;
 
-Các ngôn ngữ Mannish không liên quan đến Westron nghe có vẻ xa lạ với các nhân vật chính (chẳng hạn như [Dunlendish](../D/Dunlendish.md)), được giữ nguyên ở dạng "chính hãng".
+Các ngôn ngữ Manish không liên quan đến Westron nghe có vẻ xa lạ với các nhân vật chính (chẳng hạn như [Dunlendish](../D/Dunlendish.md)), được giữ ở dạng "chính hãng" của chúng.
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*, Con Người thức dậy như những sinh vật câm và họ được dạy nói bởi [Nuin](../N/Nuin.md) "Cha đẻ của Lời nói", một Tiên của [Hisildi](../H/Hisildi.md), người đã đánh thức họ.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*, Đàn ông thức dậy như những sinh vật câm lặng và họ được dạy nói bởi [Nuin](../N/Nuin.md) "Cha của Lời nói", một Yêu tinh của [Hisildi](../H/Hisildi.md), người đã đánh thức họ.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 Vào những năm 1930 *[The Tree of Tongues](../T/The_Tree_of_Tongues.md)*, một sơ đồ thuộc giai đoạn sau của thần thoại, "Lưỡi của con người" có nguồn gốc từ [Lemberin](../A/Avarin.md) và [Khuzdul](../K/Khuzdul.md), như trong truyền thuyết sau này, nhưng cũng từ "[ngôn ngữ Orcish](../O/Orcish.md)".<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 ## Liên kết ngoài {#External_links}
 
 - [Helge Fauskanger](../H/Helge_Fauskanger.md), "<a class="external text" href="http://folk.uib.no/hnohf/mannish.htm" rel="noreferrer noopener" target="_blank">Các ngôn ngữ Mannish khác nhau</a>", [Ardalambion](../A/Ardalambion.md)
-- [Andreas Möhn](../A/Andreas_Möhn.md), "<a class="external text" href="http://web.archive.org/web/20130308120545/http://lalaith.vpsurf.de/Tolkien/Fr_Atani.html" rel="noreferrer noopener" target="_blank">Etymologies of Atani ngôn ngữ</a>", Trang khoa học của Lalaith
+- [Andreas Möhn](../A/Andreas_Möhn.md), "<a class="external text" href="http://web.archive.org/web/20130308120545/http://lalaith.vpsurf.de/Tolkien/Fr_Atani.html" rel="noreferrer noopener" target="_blank">Từ nguyên của ngôn ngữ Atani</a>", Trang khoa học của Lalaith
 
 <span></span>
 

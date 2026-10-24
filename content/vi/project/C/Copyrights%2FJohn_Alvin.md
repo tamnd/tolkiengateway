@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Alvin, John"
 ---
 
-- Andrea Alvin, người quản lý tài sản của [John Alvin](../../main/J/John_Alvin.md), đã vui lòng cho phép [Tolkien Gateway](../../main/T/Tolkien_Gateway.md) sử dụng các phiên bản có độ phân giải thấp của John tác phẩm nghệ thuật [Chúa tể những chiếc nhẫn](../../category/I/Images_by_John_Alvin.md) của Alvin.
+- Andrea Alvin, người quản lý [tài sản của John Alvin](../../main/J/John_Alvin.md), đã vui lòng cho phép [Tolkien Gateway](../../main/T/Tolkien_Gateway.md) sử dụng các phiên bản có độ phân giải thấp của tác phẩm [Chúa tể những chiếc nhẫn](../../category/I/Images_by_John_Alvin.md) của John Alvin.
 - Ngày: 27 tháng 12 năm 2011
 - Người dùng đã xin phép qua email: [Người dùng:KingAragorn](https://tolkiengateway.net/wiki/User:KingAragorn)

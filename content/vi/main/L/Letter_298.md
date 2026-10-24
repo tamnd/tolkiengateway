@@ -30,11 +30,11 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien kể lại ngắn gọn về cái tên *Inklings* theo trí nhớ của White vì nhóm không có máy ghi âm. Nguồn gốc của cái tên này là một trò đùa của sinh viên. Nó được thành lập vào giữa những năm 30 bởi sinh viên <a class="extiw" href="http://en.wikipedia.org/wiki/Edward_Tangye_Lean" title="wikipedia:Edward Tangye Lean">Tangye-Lean</a>, người có tham vọng thành lập một câu lạc bộ có thể tồn tại lâu dài. Để đạt được mục đích đó, anh ấy đã mời một số "dons". [C.S. Lewis](../C/C.S._Lewis.md) là người cố vấn của Tangye-Lean; cả anh ấy và Tolkien đều tham gia. Họ gặp nhau tại phòng của Tangye-Lean ở trường Đại học và tại mỗi cuộc họp, các thành viên đều phải đọc to những tác phẩm chưa được xuất bản. Sẽ có những lời chỉ trích ngay lập tức và nếu thấy phù hợp, những đóng góp có thể được bình chọn vào Sổ ghi chép Tolkien được lưu giữ.
+Tolkien kể lại ngắn gọn cho White về cái tên *Inklings* theo trí nhớ vì nhóm không có máy ghi âm. Nguồn gốc của cái tên này là một trò đùa của sinh viên. Nó được thành lập vào giữa những năm 30 bởi sinh viên <a class="extiw" href="http://en.wikipedia.org/wiki/Edward_Tangye_Lean" title="wikipedia:Edward Tangye Lean">Tangye-Lean</a>, người có tham vọng thành lập một câu lạc bộ có thể tồn tại lâu dài. Để đạt được mục đích đó, ông đã mời một số "dons". [C.S. Lewis](../C/C.S._Lewis.md) là cố vấn của Tangye-Lean; cả ông và Tolkien đều tham gia. Họ gặp nhau tại phòng của Tangye-Lean ở trường Đại học và tại mỗi cuộc họp, các thành viên đều phải đọc to những tác phẩm chưa được xuất bản. Sẽ có những lời chỉ trích ngay lập tức và nếu thấy phù hợp, những đóng góp có thể được bình chọn vào Sách Kỷ lục mà Tolkien lưu giữ.
 
-Câu lạc bộ đó sớm chết nhưng tên của nó được chuyển sang một nhóm bạn C.S. Lewis gặp nhau tại phòng của anh ấy ở Magdalen. Nếu câu lạc bộ đầu tiên chưa từng tồn tại thì C.S. Lewis hẳn đã thành lập nó, vì anh ấy có niềm đam mê đọc to và có khả năng phê bình rộng rãi hơn những câu lạc bộ khác.
+Câu lạc bộ đó sớm chết nhưng tên của nó được chuyển sang một nhóm bạn C.S. Lewis gặp nhau tại phòng của ông ở Magdalen. Nếu câu lạc bộ đầu tiên chưa từng tồn tại thì C.S. Lewis hẳn đã thành lập nó, vì ông có niềm đam mê đọc to và có khả năng phê bình rộng rãi hơn những câu lạc bộ khác.
 
-Cái tên này là một "sự đùa cợt", Tolkien nói, bởi vì nó là một cách chơi chữ khéo léo ám chỉ những người có những mối quan hệ mơ hồ hoặc nửa vời đã nhúng tay vào mực. C.S. Lewis chưa bao giờ tuyên bố mình đã nghĩ ra cái tên này.
+Tolkien nói, cái tên này là một "trò đùa" bởi vì nó là một cách chơi chữ khéo léo ám chỉ những người có những mối quan hệ mơ hồ hoặc nửa vời đã nhúng mực. C.S. Lewis chưa bao giờ tuyên bố mình đã nghĩ ra cái tên này.
 
 ## Tranh cãi {#Controversy}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to George Allen & Unwin"
 ---
 
-Chuyển hướng đến [Thư gửi George Allen &amp; Unwin](../L/Letter_to_George_Allen_&_Unwin.md).
+Chuyển hướng tới [Thư gửi George Allen & Unwin](../L/Letter_to_George_Allen_&_Unwin.md).

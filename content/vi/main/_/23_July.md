@@ -65,13 +65,13 @@ Sự kiện xảy ra vào ngày 23 tháng 7
 
 - **[1946](1946.md)** - Nhà ngữ văn [G.H. Cowling](../G/G.H._Cowling.md) qua đời.
 - **[1997](1997.md)** - *[Tyalië Tyelelliéva](../T/Tyalië_Tyelelliéva.md)* số [11](../T/Tyalië_Tyelelliéva_11.md) được xuất bản.
-- **[2004](2004.md)** - <i><a class="extiw" href="http://en.wikipedia.org/wiki/The_Grim_Adventures_of_Billy_%26_Mandy" title="wikipedia:The Grim Adventures of Billy &amp; Mandy">Cuộc phiêu lưu nghiệt ngã của Billy & Mandy</a></i> tập "[Here Thar Be Người Lùn](../H/Here_Thar_Be_Dwarves.md)" đã được phát sóng.
-- **[2004](2004.md)** - Bộ bài khởi đầu của "Bộ sưu tập Weta", một bộ [The Lord of the Rings Trò chơi bài giao dịch](../T/The_Lord_of_the_Rings_Trading_Card_Game.md) đặc biệt, được phát hành.
+- **[2004](2004.md)** - <i><a class="extiw" href="http://en.wikipedia.org/wiki/The_Grim_Adventures_of_Billy_%26_Mandy" title="wikipedia:The Grim Adventures of Billy &amp; Mandy">Cuộc phiêu lưu nghiệt ngã của Billy & Mandy</a></i> tập "[Here Thar Be Dwarves](../H/Here_Thar_Be_Dwarves.md)" đã được phát sóng.
+- **[2004](2004.md)** - Bộ bài khởi đầu của "The Weta Collection", một bộ [The Lord of the Rings Trading Card Game](../T/The_Lord_of_the_Rings_Trading_Card_Game.md) đặc biệt, được phát hành.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Gandalf](../G/Gandalf.md) bị giam giữ bởi [Saruman](../S/Saruman.md) trên đỉnh của [Orthanc](../O/Orthanc.md).
+    - [Gandalf](../G/Gandalf.md) bị [Saruman](../S/Saruman.md) giam giữ trên đỉnh [Orthanc](../O/Orthanc.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - Đoàn rước tang lễ của vua [Théoden](../T/Théoden.md) đi về hướng [Edoras](../E/Edoras.md)
+    - Đoàn tang vua [Théoden](../T/Théoden.md) đi về hướng [Edoras](../E/Edoras.md)

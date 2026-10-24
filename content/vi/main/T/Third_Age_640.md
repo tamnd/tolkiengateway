@@ -16,11 +16,11 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><a href="../F/First_Age.md" title="First Age">I</a><a href="../S/Second_Age.md" title="Second Age">II</a><b>III</b><a href="../F/Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="Third_Age_552.md" title="Third Age 552">552</a><a href="Third_Age_570.md" title="Third Age 570">570</a><a href="Third_Age_602.md" title="Third Age 602">602</a><a class="mw-selflink selflink">640</a><a href="Third_Age_652.md" title="Third Age 652">652</a><a href="Third_Age_654.md" title="Third Age 654">654</a><a href="Third_Age_667.md" title="Third Age 667">667</a></div></div></div></div></div></div>
 
-**Kỷ Đệ Tam 640** (viết tắt là **T.A. 640**) là năm [thứ 640 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Tam](Third_Age.md) của [Trung Địa](../M/Middle-earth.md).
+**Kỷ thứ ba 640** (viết tắt là **T.A. 640**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 640 của [Kỷ thứ ba](Third_Age.md) của [Trung Địa](../M/Middle-earth.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- Sinh ra [Eärendur của Arnor](<../E/Eärendur_(King_of_Arnor).md>), con trai của [Elendur](<../E/Elendur_(King_of_Arnor).md>).<sup id="cite_ref-PMElendil_1-0" class="reference"><a href="#cite_note-PMElendil-1">[1]</a></sup>
+- Sự ra đời của [Eärendur xứ Arnor](<../E/Eärendur_(King_of_Arnor).md>), con trai của [Elendur](<../E/Elendur_(King_of_Arnor).md>).<sup id="cite_ref-PMElendil_1-0" class="reference"><a href="#cite_note-PMElendil-1">[1]</a></sup>
 
 <span></span>
 

@@ -33,12 +33,12 @@ infobox:
 
 **METW: Moria** là thẻ trò chơi trong bộ *[Middle-earth: The Wizards](Middle-earth%253A_The_Wizards.md)*, dành cho [MECCG](Middle-earth_Collectible_Card_Game.md).
 
-<i><b>Lưu ý:</b></i> *"Moria" đề cập đến [Moria](Moria.md) trong [huyền thoại](../L/Legendarium.md) của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).*
+<i><b>Note:</b></i> *"Moria" refers to [Moria](Moria.md) of [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)'s [legendarium](../L/Legendarium.md).*
 
 ## Nội dung thẻ {#Card_text}
 
 - <i><b>Nơi trú ẩn gần nhất:</b></i> [Lórien](METW%253A_Lórien.md)
 - <i><b>Có thể chơi được:</b></i> Vật phẩm (nhỏ, chính, lớn, nhẫn vàng)
-- <i><b>Tấn công tự động:</b></i> Orc - 4 đòn với 7 sức mạnh
+- <i><b>Tấn công tự động:</b></i> Orc - 4 đòn tấn công với 7 sức mạnh
 
 *"Trong tia sáng nhạt của cây trượng phù thủy...hình ảnh thoáng qua của cầu thang và mái vòm cũng như các lối đi và đường hầm khác..."* <i><b>-<a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">LotRII</a></b></i>

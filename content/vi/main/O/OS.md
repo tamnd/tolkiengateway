@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Old Sindarin"
 ---
 
-Chuyển hướng đến [Old Sindarin](Old_Sindarin.md).
+Chuyển hướng đến [Cổ Sindarin](Old_Sindarin.md).

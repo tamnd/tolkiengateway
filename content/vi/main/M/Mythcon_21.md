@@ -33,7 +33,7 @@ infobox:
 **Mythcon 21** là hội nghị [Hiệp hội thần thoại](Mythopoeic_Society.md) thường niên lần thứ 21.
 
 - **Chủ đề:** "Những khía cạnh của tình yêu trong tưởng tượng"
-- **Khách mời danh dự:** Diana L. Paxson (tác giả và nhạc sĩ truyện giả tưởng) và [Patrick Wynne](../P/Patrick_Wynne.md) (nghệ sĩ truyện giả tưởng và Tolkien nhà ngôn ngữ học)
+- **Khách mời danh dự:** Diana L. Paxson (tác giả và nhạc sĩ truyện giả tưởng) và [Patrick Wynne](../P/Patrick_Wynne.md) (nghệ sĩ truyện giả tưởng và nhà ngôn ngữ học Tolkien)
 - **Chủ tịch:** Jo Alida Wilcox
 - **Điều phối viên:** Bill Welden
 

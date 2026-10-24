@@ -65,10 +65,10 @@ Sự kiện xảy ra vào ngày 9 tháng 4.
 - <b><a class="new" href="https://tolkiengateway.net/w/index.php?title=1802&amp;action=edit&amp;redlink=1" title="1802 (page does not exist)">1802</a></b> - Nhà ngữ văn [Elias Lönnrot](../E/Elias_Lönnrot.md), người biên soạn *[Kalevala](../K/Kalevala.md)*, đã ra đời.
 - **[1902](1902.md)** - [Mơ hồ](../I/Inklings.md) [Chúa David Cecil](../L/Lord_David_Cecil.md) ra đời.
 - **[1949](1949.md)** - Diễn viên lồng tiếng [Sorcha Cusack](../S/Sorcha_Cusack.md) ra đời.
-- **[1957](1957.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư cho ông Hayward](../L/Letter_to_Mr_Hayward.md).
+- **[1957](1957.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư gửi ông Hayward](../L/Letter_to_Mr_Hayward.md).
 - **[1973](1973.md)** – [W.H. Lewis](../W/Warren_Lewis.md), [Inkling](../I/Inklings.md) và anh trai của [C.S. Lewis](../C/C.S._Lewis.md), qua đời.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [2510](../T/Third_Age_2510.md):
-    - [Eorl the Young](../E/Eorl.md) và [Éothéod](Éothéod.md) di chuyển về phía [Trường Celebrant](../F/Field_of_Celebrant.md).
+    - [Eorl the Young](../E/Eorl.md) và [Éothéod](Éothéod.md) đi tới [Field of Celebrant](../F/Field_of_Celebrant.md).

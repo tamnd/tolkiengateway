@@ -27,29 +27,29 @@ langlinks:
     url: "https://kontu.wiki/Arthedainin_kuninkaat"
 ---
 
-**Vua của Arthedain** là tước vị cha truyền con nối của những người cai trị [Arthedain](../A/Arthedain.md), một trong ba vương quốc kế thừa của [Arnor](../A/Arnor.md) sau khi bị chia cắt ở [T.A.](../T/Third_Age.md) [861](../T/Third_Age_861.md).<sup id="cite_ref-TA_1-0" class="reference"><a href="#cite_note-TA-1">[1]</a></sup>
+**Vua của Arthedain** là danh hiệu cha truyền con nối của những người cai trị [Arthedain](../A/Arthedain.md), một trong ba vương quốc kế thừa của [Arnor](../A/Arnor.md) sau khi bị chia cắt ở [T.A.](../T/Third_Age.md) [861](../T/Third_Age_861.md).<sup id="cite_ref-TA_1-0" class="reference"><a href="#cite_note-TA-1">[1]</a></sup>
 
 ## Lịch sử {#History}
 
-Vị vua đầu tiên của Arthedain là [Amlaith](../A/Amlaith.md), con trai cả của [Eärendur](<../E/Eärendur_(King_of_Arnor).md>) vị vua cuối cùng của [Vua của Arnor](King_of_Arnor.md).<sup id="cite_ref-North_2-0" class="reference"><a href="#cite_note-North-2">[2]</a></sup> Vương quốc Arnor chia thành ba mảnh sau cái chết của Eärendur. Hai vương quốc còn lại được đặt tên là [Cardolan](../C/Cardolan.md) và [Rhudaur](../R/Rhudaur.md).
+Vị vua đầu tiên của Arthedain là [Amlaith](../A/Amlaith.md), con trai cả của [Eärendur](<../E/Eärendur_(King_of_Arnor).md>) [Vua cuối cùng của Arnor](King_of_Arnor.md).<sup id="cite_ref-North_2-0" class="reference"><a href="#cite_note-North-2">[2]</a></sup> Vương quốc Arnor chia thành ba mảnh sau cái chết của Eärendur. Hai vương quốc còn lại được đặt tên là [Cardolan](../C/Cardolan.md) và [Rhudaur](../R/Rhudaur.md).
 
-Không giống như tổ tiên của mình, vị vua đầu tiên của Arthedain, Amlaith, không lấy tên theo [Quenya](../Q/Quenya.md),<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> "Lưỡi Tiên Tiên",<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> mà thay vào đó lấy tên bằng [Sindarin](../S/Sindarin.md), giống như tất cả các vị Vua của Arthedain và [Thủ lĩnh của Dúnedain](../C/Chieftains_of_the_Dúnedain.md) hậu duệ của ông.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Không giống như tổ tiên của mình, vị vua đầu tiên của Arthedain, Amlaith, không lấy tên bằng [Quenya](../Q/Quenya.md),<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> "Lưỡi Tiên Tiên",<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> mà thay vào đó lấy tên bằng [Sindarin](../S/Sindarin.md), cũng như tất cả các vị Vua của Arthedain và [Thủ lĩnh của Dúnedain](../C/Chieftains_of_the_Dúnedain.md) xuất thân từ ông.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
-Bắt đầu từ [Argeleb I](../A/Argeleb_I.md) trở đi cho đến các Thủ lĩnh của Dúnedain, tên của họ bao gồm tiền tố [Elvish](../E/Elvish.md) *Ar(an)-* biểu thị yêu sách trung thành với toàn bộ Arnor, sau khi các dòng [Cardolan](../C/Cardolan.md) và [Rhudaur](../R/Rhudaur.md) thất bại<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> và các vị vua của Arthedain đã tuyên bố danh hiệu Vua của Arnor.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Tuy nhiên, trên thực tế mà nói, quyền lực của họ chỉ giới hạn ở vùng đất của Arthedain giảm dần trong suốt bảy trăm năm đấu tranh với [Angmar](../A/Angmar.md).
+Bắt đầu từ [Argeleb I](../A/Argeleb_I.md) trở đi cho đến các Thủ lĩnh của Dúnedain, tên của họ bao gồm tiền tố [Elvish](../E/Elvish.md) *Ar(an)-* biểu thị yêu sách trung thành đối với toàn bộ Arnor, sau các dòng [Cardolan](../C/Cardolan.md) và [Rhudaur](../R/Rhudaur.md) thất bại<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> và các vị vua của Arthedain đã tuyên bố danh hiệu Vua của Arnor.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Trên thực tế tuy nhiên, nói thật thì quyền lực của họ chỉ giới hạn ở vùng đất Arthedain, vùng đất này dần dần suy giảm trong suốt cuộc đấu tranh kéo dài bảy trăm năm của họ với [Angmar](../A/Angmar.md).
 
-Angmar cuối cùng đã chiến thắng Arthedain ở [T.A.](../T/Third_Age.md) [1974](../T/Third_Age_1974.md) với việc tiêu diệt [Fornost](../F/Fornost.md). Arvedui, vị vua cuối cùng, chạy trốn về phía bắc, nơi ông bỏ mạng trong một cơn bão mùa đông khi cố gắng thoát khỏi vùng đất hoang tàn băng giá của [Forochel](../F/Forochel.md). Con trai của Arvedui, Aranath, đã chọn không xưng vương và thay vào đó trở thành [Thủ lĩnh đầu tiên của Dúnedain](../C/Chieftain_of_the_Dúnedain.md) ở [T.A.](../T/Third_Age.md) [1976](../T/Third_Age_1976.md).<sup id="cite_ref-TA_1-1" class="reference"><a href="#cite_note-TA-1">[1]</a></sup> Điều này đánh dấu sự kết thúc của vương quyền, mặc dù không phải là của triều đại Isildur.
+Angmar cuối cùng đã chiến thắng Arthedain trong [T.A.](../T/Third_Age.md) [1974](../T/Third_Age_1974.md) với sự tiêu diệt [Fornost](../F/Fornost.md). Arvedui, vị vua cuối cùng, chạy trốn về phía bắc, nơi ông bỏ mạng trong một cơn bão mùa đông khi cố gắng thoát khỏi vùng đất hoang tàn băng giá của [Forochel](../F/Forochel.md). Con trai của Arvedui, Aranath, đã chọn không tuyên bố vương quyền và thay vào đó trở thành [Thủ lĩnh của Dúnedain](../C/Chieftain_of_the_Dúnedain.md) đầu tiên ở [T.A.](../T/Third_Age.md) [1976](../T/Third_Age_1976.md).<sup id="cite_ref-TA_1-1" class="reference"><a href="#cite_note-TA-1">[1]</a></sup> Điều này đánh dấu sự kết thúc của vương quyền, mặc dù không phải của triều đại Isildur.
 
 ## Nhiệm vụ và chức vụ {#Duties_and_office}
 
-Các nhiệm vụ sẽ rất giống với nhiệm vụ của [các vị Vua Arnor](Kings_of_Arnor.md), mặc dù quy mô đã giảm đi nhiều. Một số vị vua đã tham gia vào các cuộc chiến chống lại Angmar, nơi họ sẽ lãnh đạo lực lượng Arthedain chống lại kẻ thù của mình.
+Các nhiệm vụ sẽ rất giống với nhiệm vụ của [Các vị vua của Arnor](Kings_of_Arnor.md), mặc dù quy mô đã giảm đi nhiều. Một số vị vua đã tham gia vào các cuộc chiến chống lại Angmar, nơi họ sẽ lãnh đạo lực lượng của Arthedain chống lại kẻ thù của họ.
 
-Các vị vua cũng sẽ có chung các huy hiệu chức vụ mà các vị vua Arnorian từng sử dụng: [Mảnh vỡ Narsil](../S/Shards_of_Narsil.md), [Chiếc nhẫn Barahir](../R/Ring_of_Barahir.md) và [Quyền trượng Annuminas](../S/Sceptre_of_Annuminas.md). Sau khi vương quyền bị giải thể, những thứ này sẽ được chuyển cho [Elrond](../E/Elrond.md)nắm giữ, ngoại trừ chiếc Nhẫn Barahir, phải được lấy lại từ [Lossoth](../L/Lossoth.md).<sup id="cite_ref-North_2-1" class="reference"><a href="#cite_note-North-2">[2]</a></sup>
+Các vị vua cũng sẽ có chung các huy hiệu chức vụ mà các vị vua Arnorian từng sử dụng: [Mảnh vỡ Narsil](../S/Shards_of_Narsil.md), [Nhẫn Barahir](../R/Ring_of_Barahir.md) và [Quyền trượng Annuminas](../S/Sceptre_of_Annuminas.md). Sau khi vương quyền bị giải thể, những thứ này sẽ được chuyển cho [Elrond](../E/Elrond.md) nắm giữ, ngoại trừ chiếc Nhẫn của Barahir, thứ phải được lấy lại từ [Lossoth](../L/Lossoth.md).<sup id="cite_ref-North_2-1" class="reference"><a href="#cite_note-North-2">[2]</a></sup>
 
-Các vị vua kiểm soát hai trong số ba [Palantíri](../P/Palantíri.md)phía bắc: ở [Elostirion](../E/Elostirion.md) và [Annuminas](../A/Annuminas.md). Sau sự sụp đổ của [Amon Sûl](../A/Amon_Sûl.md), họ cũng sẽ giành được palantìr trước đây được đặt ở đó. Tuy nhiên, hai palantíri sau sẽ biến mất vĩnh viễn trong vụ đắm tàu ​​giết chết Arevdui.
+Các vị vua kiểm soát hai trong số ba [Palantíri](../P/Palantíri.md) phía bắc: những vùng ở [Elostirion](../E/Elostirion.md) và [Annuminas](../A/Annuminas.md). Sau sự sụp đổ của [Amon Sûl](../A/Amon_Sûl.md), họ cũng sẽ giành được palantìr trước đây được đặt ở đó. Tuy nhiên, hai palantíri sau sẽ biến mất vĩnh viễn trong vụ đắm tàu ​​giết chết Arevdui.
 
 ## Danh sách các vị vua {#List_of_Kings}
 
-Các vị vua của [Arthedain](../A/Arthedain.md) có cùng dòng dõi với các vị vua của [Arnor](../A/Arnor.md), mặc dù được liệt kê riêng biệt với họ trong biên niên sử hoàng gia. Các vị Vua của Arthedain và thời gian trị vì của họ<sup id="cite_ref-North_2-2" class="reference"><a href="#cite_note-North-2">[2]</a></sup> là:
+Các vị vua của [Arthedain](../A/Arthedain.md) có cùng dòng dõi với [Arnor](../A/Arnor.md), mặc dù được liệt kê riêng biệt với họ trong biên niên sử hoàng gia. Các vị vua của Arthedain và thời gian trị vì của họ<sup id="cite_ref-North_2-2" class="reference"><a href="#cite_note-North-2">[2]</a></sup> là:
 
 <table class="wikitable mw-collapsible">
 <tbody><tr style="background: var(--tg-color-surface-2);">
@@ -151,7 +151,7 @@ Các vị vua của [Arthedain](../A/Arthedain.md) có cùng dòng dõi với c�
 
 ## Xem thêm {#See_also}
 
-Để biết về cây gia phả của các vị Vua của Arthedain, cũng như của Arnor và các Thủ lĩnh, hãy xem [Nhà Isildur](../H/House_of_Isildur.md). <span></span>
+Để biết về gia phả của các vị Vua của Arthedain, cũng như của Arnor và các Thủ lĩnh, hãy xem [Gia tộc Isildur](../H/House_of_Isildur.md). <span></span>
 
 ## Tài liệu tham khảo {#References}
 

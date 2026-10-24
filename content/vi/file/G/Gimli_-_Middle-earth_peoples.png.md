@@ -28,7 +28,7 @@ file:
 - xanh nhạt= nam giới thuộc dòng dõi [Númenórean](../../main/N/Númenóreans.md)
 - màu xanh giữa = [Người phương Bắc](../../main/N/Northmen.md)
 - xanh đậm = [nam](../../main/M/Men.md) khác
-- xanh nhạt = [yêu tinh](../../main/E/Elves.md)
+- xanh nhạt = [Tiên tộc](../../main/E/Elves.md)
 - xanh đậm = [ents](../../main/E/Ents.md)
 - màu đỏ tươi = [hobbit](../../main/H/Hobbits.md)
 - màu vàng = [người lùn](../../main/D/Dwarves.md)

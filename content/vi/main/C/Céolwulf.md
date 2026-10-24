@@ -39,7 +39,7 @@ infobox:
 
 ## Từ nguyên {#Etymology}
 
-Tên *Céolwulf* nằm trong [tiếng Anh cổ](../O/Old_English.md). Nó có thể bắt nguồn từ các phần tử *ceol* ("keel") + *wulf* ("wolf").<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Tên *Céolwulf* bằng [tiếng Anh cổ](../O/Old_English.md). Nó có thể bắt nguồn từ các phần tử *ceol* ("keel") + *wulf* ("wolf").<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Phả hệ {#Genealogy}
 
@@ -54,7 +54,7 @@ Tên *Céolwulf* nằm trong [tiếng Anh cổ](../O/Old_English.md). Nó có th
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong một trong những bản thảo của *[The Notion Club Papers](../T/The_Notion_Club_Papers.md)*, trong buổi biểu diễn *[Lay of King Sheave](../L/Lay_of_King_Sheave.md)* tại triều đình của <a class="new" href="https://tolkiengateway.net/w/index.php?title=Edward_the_Elder&amp;action=edit&amp;redlink=1" title="Edward the Elder (page does not exist)">Edward the Elder</a>, không phải Ælfwine hay Tréowine đã đọc bài thơ mà đúng hơn là một Céolwulf (người không phải là cha của Tréowine vào thời điểm đó).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Trong một trong những bản thảo của *[The Notion Club Papers](../T/The_Notion_Club_Papers.md)*, trong buổi biểu diễn *[Lay of King Sheave](../L/Lay_of_King_Sheave.md)* tại triều đình của <a class="new" href="https://tolkiengateway.net/w/index.php?title=Edward_the_Elder&amp;action=edit&amp;redlink=1" title="Edward the Elder (page does not exist)">Edward the Elder</a>, không phải Ælfwine hay Tréowine là người đọc bài thơ, mà đúng hơn là một Céolwulf (người không phải là cha của Tréowine vào thời điểm đó).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 <span></span>
 

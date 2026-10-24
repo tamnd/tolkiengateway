@@ -14,9 +14,9 @@ categories:
   - "Gnomish names"
 ---
 
-**Evranin** là [Tiên](Elves.md) của [Artanor](../A/Artanor.md) và là y tá của [Elwing](Elwing.md), theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*. Cô đã giúp Elwing thoát khỏi [sự tàn phá của Artanor](../S/Second_Kinslaying.md) bởi [các con trai của Fëanor](../S/Sons_of_Fëanor.md).
+**Evranin** là một [Yêu tinh](Elves.md) của [Artanor](../A/Artanor.md), và là y tá của [Elwing](Elwing.md), theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*. Cô đã giúp Elwing thoát khỏi [sự tàn phá của Artanor](../S/Second_Kinslaying.md) bởi [các con trai của Fëanor](../S/Sons_of_Fëanor.md).
 
-Cô ấy, cùng với [Gereth](../G/Gereth.md), một [Gnome](../G/Gnomes.md), cũng đã tìm cách buôn lậu [Nauglafring](../N/Nauglafring.md) ra khỏi Artanor.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Bà, cùng với [Gereth](../G/Gereth.md), một [Gnome](../G/Gnomes.md), cũng đã tìm cách buôn lậu [Nauglafring](../N/Nauglafring.md) ra khỏi Artanor.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Mantoani, Michele"
 ---
 
-- Michele Mantoani đã vui lòng cấp phép sử dụng [tác phẩm nghệ thuật của họ](../../category/I/Images_by_Michele_Mantoani.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
+- Michele Mantoani đã vui lòng cấp phép sử dụng [tác phẩm nghệ thuật của họ](../../category/I/Images_by_Michele_Mantoani.md) trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
 - Ngày: 12 tháng 7 năm 2024
 - Người dùng đã xin phép qua email: [Người dùng:Hyarion](https://tolkiengateway.net/wiki/User:Hyarion)

@@ -16,16 +16,16 @@ images:
 
 <figure typeof="mw:File/Frame"><a class="mw-file-description" href="../../file/T/TolkienIndex.png.md"><img src="https://tolkiengateway.net/w/images/7/77/TolkienIndex.png" decoding="async" loading="lazy" width="150" height="150" class="mw-file-element" data-file-width="150" data-file-height="150"/></a><figcaption>The Tolkien Index logo</figcaption></figure>
 
-**Tolkien Chỉ mục** là một trang web phi lợi nhuận nhằm mục đích tạo ra một chỉ mục toàn diện về các tên từ các bài viết của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) (và các bài xã luận liên quan) trên [Trung Địa](../M/Middle-earth.md) chưa có chỉ mục.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> [Morgan Thomsen](../M/Morgan_Thomsen.md) là chủ sở hữu và người đóng góp chính của trang web, trong khi Daniel Helen là quản trị trang web.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Nó được thành lập vào ngày [24 Tháng Sáu](../_/24_June.md), [2011](../_/2011.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+**Chỉ mục Tolkien** là một trang web phi lợi nhuận nhằm mục đích tạo ra một chỉ mục toàn diện về các tên từ các bài viết của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) (và nội dung biên tập liên quan) trên [Trung địa](../M/Middle-earth.md) chưa có chỉ mục.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> [Morgan Thomsen](../M/Morgan_Thomsen.md) là chủ sở hữu và người đóng góp chính của trang web, trong khi Daniel Helen là quản trị viên web của trang web.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Đó là được thành lập vào [24 tháng 6](../_/24_June.md), [2011](../_/2011.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Lễ tân {#Reception}
 
-Ghi nhận trang web Tolkien Index vào tháng 11 năm 2011, *Tolkien Transactions*, một tạp chí đánh giá trực tuyến, đã viết: "*\[t\]tin rằng các tác giả sẽ tiếp tục công việc, đây hứa hẹn sẽ là một nguồn tài liệu chỉ mục rất có giá trị*".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Ghi nhận trang web Tolkien Index vào tháng 11 năm 2011, *Tolkien Transactions*, một tạp chí đánh giá trực tuyến, đã viết: "*\[t\]tin rằng các tác giả sẽ tiếp tục công việc, đây hứa hẹn sẽ là một nguồn chỉ mục rất có giá trị*".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Liên kết ngoài {#External_links}
 
 - <a class="external text" href="https://web.archive.org/web/20211129084103/http://www.tolkienindex.net/" rel="noreferrer noopener" target="_blank">Ảnh chụp nhanh Archive.org</a>
-- <a class="external text" href="http://twitter.com/TolkienIndex" rel="noreferrer noopener" target="_blank">Tolkien Chỉ mục</a> trên <a class="external text" href="http://twitter.com/" rel="noreferrer noopener" target="_blank">Twitter</a>
+- <a class="external text" href="http://twitter.com/TolkienIndex" rel="noreferrer noopener" target="_blank">Chỉ mục Tolkien</a> trên <a class="external text" href="http://twitter.com/" rel="noreferrer noopener" target="_blank">Twitter</a>
 
 <span></span>
 

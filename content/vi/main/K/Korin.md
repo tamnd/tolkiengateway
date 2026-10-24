@@ -16,7 +16,7 @@ categories:
 
 **korin** là một loại bao vây theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) ở *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*. Nó bao gồm một vòng tròn bao quanh, có thể được tạo thành bởi một bức tường đá, gai hoặc cây cối, bên trong là một đồng cỏ xanh tươi.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Thuật ngữ này là [Qenya](../Q/Qenya.md) và mặc dù tương tự với *[Kôr](Kôr.md)* nhưng nó có nguồn gốc từ [gốc](../R/Root.md) từ nguyên khác. [Gnomish](../G/Gnomish.md) cùng nguồn gốc của nó là <i><b>gorin</b></i> hoặc <i><b>gwarin</b></i> ("vòng cây").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Thuật ngữ này là [Qenya](../Q/Qenya.md) và mặc dù tương tự với *[Kôr](Kôr.md)* nhưng nó lại có nguồn gốc từ [gốc](../R/Root.md) từ nguyên khác. Từ cùng nguồn gốc [Gnomish](../G/Gnomish.md) của nó là <i><b>gorin</b></i> hoặc <i><b>gwarin</b></i> ("vòng cây").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

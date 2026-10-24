@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Keys of Middle-earth"
 ---
 
-Chuyển hướng đến [Khóa của Trung Địa](The_Keys_of_Middle-earth~15408.md).
+Chuyển hướng đến [Chìa khóa của Trung Địa](The_Keys_of_Middle-earth~15408.md).

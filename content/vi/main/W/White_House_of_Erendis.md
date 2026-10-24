@@ -13,7 +13,7 @@ categories:
   - "Emerië"
 ---
 
-Một ngôi nhà nằm ở vùng [Emerië](../E/Emerië.md) của [Mittalmar](../M/Mittalmar.md) của [Númenor](../N/Númenor.md). Nó được xây dựng cho [Erendis](../E/Erendis.md) như một món quà của [Tar-Meneldur](../T/Tar-Meneldur.md), để đánh dấu lễ đính hôn của cô với con trai ông ta [Aldarion](../T/Tar-Aldarion.md). Aldarion đã rời xa [Númenor](../N/Númenor.md) nhiều năm trên những con tàu của mình, và Nhà Trắng trở thành nơi trú ẩn cho vợ ông là Erendis và con gái của họ, người sẽ trở thành Nữ hoàng [Tar-Ancalimë](../T/Tar-Ancalimë.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Một ngôi nhà nằm ở vùng [Emerië](../E/Emerië.md) của [Mittalmar](../M/Mittalmar.md) của [Númenor](../N/Númenor.md). Nó được xây dựng cho [Erendis](../E/Erendis.md) như một món quà của [Tar-Meneldur](../T/Tar-Meneldur.md), để đánh dấu lễ đính hôn của cô với con trai ông ta [Aldarion](../T/Tar-Aldarion.md). Aldarion đã rời xa [Númenor](../N/Númenor.md) nhiều năm trên những con tàu của mình và Nhà Trắng trở thành nơi trú ẩn cho vợ ông là Erendis và con gái của họ, người sẽ trở thành Nữ hoàng [Tar-Ancalimë](../T/Tar-Ancalimë.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

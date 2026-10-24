@@ -23,7 +23,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Hình ảnh [Cor Blok](../../main/C/Cor_Blok.md) giới thiệu [Một tấm thảm Tolkien](../../main/A/A_Tolkien_Tapestry.md). Nguồn: <a class="external text" href="https://www.youtube.com/watch?v=Gu8MCgpMmdo" rel="noreferrer noopener" target="_blank">Cor Blok - Une tapisserie pour Tolkien, minh họa pour Le seigneur des anneaux</a>
+Hình ảnh [Cor Blok](../../main/C/Cor_Blok.md) giới thiệu [A Tolkien Tapestry](../../main/A/A_Tolkien_Tapestry.md). Nguồn: <a class="external text" href="https://www.youtube.com/watch?v=Gu8MCgpMmdo" rel="noreferrer noopener" target="_blank">Cor Blok - Une tapisserie pour Tolkien, minh họa pour Le seigneur des anneaux</a>
 
 ## Giấy phép {#Licensing}
 

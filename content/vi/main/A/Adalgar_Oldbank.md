@@ -31,7 +31,7 @@ infobox:
 
 **Adalgar Oldbank** là [Hobbit](../B/Bree-hobbits.md) của [Bree](../B/Bree.md) ở *[the Lord of the Rings: War in the North](../T/The_Lord_of_the_Rings%253A_War_in_the_North.md)*.
 
-Anh ta sở hữu một cửa hàng gần [Prancing Pony](../P/Prancing_Pony.md) và bán thuốc và mũi tên. Không giống như nhiều [Bree-lander](../B/Bree-landers.md) khác, anh ấy thân thiện với [Rangers](../R/Rangers_of_the_North.md) vì họ là nguồn tin tức duy nhất trong Bree. Tuy nhiên, anh ta không biết về sự bảo vệ của Biệt đội trước những nguy hiểm của [Eriador](../E/Eriador.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Ông ta sở hữu một cửa hàng gần [Prancing Pony](../P/Prancing_Pony.md) và bán thuốc và mũi tên. Không giống như nhiều [Bree-lander](../B/Bree-landers.md) khác, ông thân thiện với [Rangers](../R/Rangers_of_the_North.md) vì họ là nguồn tin tức duy nhất trong Bree. Tuy nhiên, ông ta không biết về sự bảo vệ của Biệt đội trước những nguy hiểm của [Eriador](../E/Eriador.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}
 

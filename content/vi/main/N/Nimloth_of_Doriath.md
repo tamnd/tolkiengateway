@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Nimloth (elf of Doriath)"
 ---
 
-Chuyển hướng tới [Nimloth (bản chất của Doriath)](<Nimloth_(elf_of_Doriath).md>).
+Chuyển hướng đến [Nimloth (yêu tinh của Doriath)](<Nimloth_(elf_of_Doriath).md>).

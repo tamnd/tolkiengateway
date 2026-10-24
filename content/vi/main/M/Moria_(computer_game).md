@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Moria (video game)"
 ---
 
-Chuyển hướng đến [Moria (trò chơi điện tử)](<Moria_(video_game).md>).
+Chuyển hướng tới [Moria (trò chơi điện tử)](<Moria_(video_game).md>).

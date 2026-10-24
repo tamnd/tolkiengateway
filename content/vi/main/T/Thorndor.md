@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Thorondor"
 ---
 
-Chuyển hướng đến [Thorondor](Thorondor.md).
+Chuyển hướng tới [Thorondor](Thorondor.md).

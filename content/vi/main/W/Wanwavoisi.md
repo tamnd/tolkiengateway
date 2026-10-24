@@ -16,7 +16,7 @@ categories:
 
 **Wanwavoisi** là tên của cả **[Varda](../V/Varda.md)** và **[Manwë](../M/Manwë.md)**, theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.
 
-Đó là một cái tên [Qenya](../Q/Qenya.md), nhưng từ nguyên của nó không rõ ràng, mặc dù nó có thể chứa phần tử *wanwa* ("cơn gió lớn").<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Đó là tên [Qenya](../Q/Qenya.md), nhưng từ nguyên của nó không rõ ràng, mặc dù nó có thể chứa phần tử *wanwa* ("cơn gió lớn").<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

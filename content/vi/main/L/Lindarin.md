@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Telerin"
 ---
 
-Chuyển hướng đến [Telerin](../T/Telerin.md).
+Chuyển hướng tới [Telerin](../T/Telerin.md).

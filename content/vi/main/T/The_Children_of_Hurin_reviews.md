@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Children of Húrin reviews"
 ---
 
-Chuyển hướng đến [The Children of Húrin bài đánh giá](The_Children_of_Húrin_reviews.md).
+Chuyển hướng đến [The Children of Húrin reviews](The_Children_of_Húrin_reviews.md).

@@ -19,11 +19,11 @@ sort_keys:
 
 ## Từ nguyên {#Etymology}
 
-Có thể có [PQ](../P/PQ.md) mẫu \**luimê* từ [Gốc](../S/Sundocarmë.md) \*LUY.
+Có thể có [PQ](../P/PQ.md) dạng \**luimê* từ [Root](../S/Sundocarmë.md) \*LUY.
 
 ## Phiên bản khác {#Other_versions}
 
-Tolkien cũng được coi là thuật ngữ “nước lũ, đất ngập” nhưng đã bị loại bỏ.
+Tolkien cũng coi đó là thuật ngữ "nước lũ, đất ngập nước" nhưng chúng đã bị loại bỏ.
 
 <span></span>
 

@@ -18,6 +18,6 @@ categories:
 <p class="tg-quote-footer"><cite><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../U/Unfinished_Tales.md" title="Unfinished Tales">Unfinished Tales</a></i>, &#34;<a href="../O/Of_Tuor_and_his_Coming_to_Gondolin.md" title="Of Tuor and his Coming to Gondolin">Of Tuor and his Coming to Gondolin</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Mighty of the Phương Tây** là danh hiệu được sử dụng một lần, trong đoạn trích dẫn ở trên, để chỉ [Tuor](../T/Tuor.md) con trai của [Huor](../H/Huor.md). Ý nghĩa chính xác của nó rất mơ hồ: nó xuất hiện trong một đoạn thảo luận về mối quan hệ của Tuor với con cháu của anh ta, [người Númenor](../N/Númenóreans.md), và vì vậy chúng tôi đã coi nó ở đây như một biểu tượng cho sự phân chia đó của Nhân loại.
+**Mighty of the West** là danh hiệu được sử dụng một lần, trong đoạn trích dẫn ở trên, để chỉ [Tuor](../T/Tuor.md) con trai của [Huor](../H/Huor.md). Ý nghĩa chính xác của nó rất mơ hồ: nó xuất hiện trong một đoạn thảo luận về mối quan hệ của Tuor với con cháu của ông, [Númenóreans](../N/Númenóreans.md), và vì vậy chúng tôi coi nó ở đây như một biểu tượng cho sự phân chia đó của Nhân loại.
 
-Tuy nhiên, có thể hình dung rằng nó đề cập đến [Valar](../V/Valar.md), mặc dù có vẻ như sự so sánh như vậy không thể được thực hiện đối với một Con người phàm trần.
+Tuy nhiên, có thể hình dung rằng nó đề cập đến [Valar](../V/Valar.md), mặc dù có vẻ như sự so sánh như vậy sẽ không được thực hiện đối với một Con người phàm trần.

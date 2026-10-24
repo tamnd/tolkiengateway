@@ -26,7 +26,7 @@ Xem thêm tiền tố chung *[go-](Go-.md)*.
 
 - [Amon Obel](../A/Amon_Obel.md) = "Ngọn đồi của khu định cư có tường bao quanh"
 - [Rhosgobel](../R/Rhosgobel.md) = "Brownhay"
-- [Tavrobel](../T/Tavrobel.md) = <a class="extiw" href="http://en.wikipedia.org/wiki/Great_Haywood" title="wikipedia:Great Haywood">Haywood tuyệt vời</a>
+- [Tavrobel](../T/Tavrobel.md) = <a class="extiw" href="http://en.wikipedia.org/wiki/Great_Haywood" title="wikipedia:Great Haywood">Great Haywood</a>
 
 <span></span>
 
@@ -37,4 +37,4 @@ Xem thêm tiền tố chung *[go-](Go-.md)*.
 </li>
 </ol></div>
 
-- <a class="external text" href="http://www.jrrvf.com/hisweloke/sindar/online/sindar/dict-sd-en.html" rel="noreferrer noopener" target="_blank">Từ điển Sindarin của Hiswelókë</a> được biên soạn bởi [Didier Willis](../D/Didier_Willis.md)
+- <a class="external text" href="http://www.jrrvf.com/hisweloke/sindar/online/sindar/dict-sd-en.html" rel="noreferrer noopener" target="_blank">Từ điển Sindarin của Hiswelókë</a> do [Didier Willis biên soạn](../D/Didier_Willis.md)

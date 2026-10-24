@@ -44,7 +44,7 @@ infobox:
 <article class="tabber__panel" id="tabber-tabpanel-5E-0" role="tabpanel" tabindex="0" aria-labelledby="tabber-tab-5E-0"><table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/K/Keepers_of_the_Elven-rings.jpeg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/97/Keepers_of_the_Elven-rings.jpeg/320px-Keepers_of_the_Elven-rings.jpeg" decoding="async" loading="lazy" width="320" height="414" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/97/Keepers_of_the_Elven-rings.jpeg/480px-Keepers_of_the_Elven-rings.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/9/97/Keepers_of_the_Elven-rings.jpeg/640px-Keepers_of_the_Elven-rings.jpeg 2x" data-file-width="2610" data-file-height="3378"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Keepers of the Elven-rings</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a href="../G/Gabriele_Quaglia.md" title="Gabriele Quaglia">Gabriele Quaglia</a></td></tr><tr><th scope="row" class="tg-infobox-label">Contributors</th><td class="tg-infobox-data"><a href="../F/Francesco_Nepitello.md" title="Francesco Nepitello">Francesco Nepitello</a></td></tr><tr><th scope="row" class="tg-infobox-label">Cover art</th><td class="tg-infobox-data"><a href="../A/Antonio_De_Luca.md" title="Antonio De Luca">Antonio De Luca</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../F/Free_League_Publishing.md" title="Free League Publishing">Free League Publishing</a></td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/9789189765818" title="Special:BookSources/9789189765818">9789189765818</a></td></tr></tbody></table></article>
 </section></div></div>
 
-<i><b>Realms of the Ba Chiếc Nhẫn</b></i> là bản mở rộng cho phiên bản thứ hai của [*The One Ring* Trò chơi nhập vai](<../T/The_One_Ring_(role-playing_game).md>). Một phiên bản dành cho [The Lord of the Rings Nhập vai](../T/The_Lord_of_the_Rings_Roleplaying.md), có tiêu đề <i><b>Người giữ Tiên-nhẫn</b></i>, cũng đã được phát hành.
+<i><b>Realms of the Three Rings</b></i> là bản mở rộng cho phiên bản thứ hai của [*The One Ring* Trò chơi nhập vai](<../T/The_One_Ring_(role-playing_game).md>). Một phiên bản dành cho [The Lord of the Rings Roleplaying](../T/The_Lord_of_the_Rings_Roleplaying.md), có tựa đề <i><b>Keepers of the Elven-rings</b></i>, cũng đã được phát hành.
 
 ## Từ nhà xuất bản {#From_the_publisher}
 
@@ -60,7 +60,7 @@ infobox:
 
 ## Nền {#Background}
 
-Trong khi viết cuốn sách, Quaglia phải cẩn thận tránh lấy tài liệu từ *[The Silmarillion](../T/The_Silmarillion.md)*mà họ không có quyền, đồng thời đảm bảo rằng không có gì mâu thuẫn với nó, một quá trình mà ông mô tả là phức tạp.<sup id="cite_ref-interview_1-0" class="reference"><a href="#cite_note-interview-1">[1]</a></sup>
+Trong khi viết cuốn sách, Quaglia phải cẩn thận tránh lấy tài liệu từ *[The Silmarillion](../T/The_Silmarillion.md)* mà họ không có quyền, đồng thời đảm bảo rằng không có gì mâu thuẫn với nó, một quá trình mà ông mô tả là phức tạp.<sup id="cite_ref-interview_1-0" class="reference"><a href="#cite_note-interview-1">[1]</a></sup>
 
 ## Lễ tân {#Reception}
 
@@ -68,7 +68,7 @@ Trong bài đánh giá cho [Other Minds 28](../O/Other_Minds_28.md), Thomas Morw
 
 ## Bằng các ngôn ngữ khác {#In_other_languages}
 
-Để bản địa hóa *The One Ring*sang tiếng Ba Lan, một ấn bản sưu tập màu xanh độc đáo đã được nhà xuất bản Black Monk phát hành.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Để bản địa hóa *The One Ring* sang tiếng Ba Lan, một ấn bản sưu tập màu xanh độc đáo đã được nhà xuất bản Black Monk phát hành.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Thư viện {#Gallery}
 
@@ -84,8 +84,8 @@ Trong bài đánh giá cho [Other Minds 28](../O/Other_Minds_28.md), Thomas Morw
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="https://freeleaguepublishing.com/shop/the-one-ring/realms-of-the-three-rings/" rel="noreferrer noopener" target="_blank"><i>Vương quốc của Ba Chiếc Nhẫn</i></a> tại cửa hàng của Free League
-- <a class="external text" href="https://freeleaguepublishing.com/shop/the-lord-of-the-rings/keepers-of-the-elven-rings/" rel="noreferrer noopener" target="_blank"><i>Người giữ Tiên-nhẫn</i></a> tại cửa hàng của Free League
+- <a class="external text" href="https://freeleaguepublishing.com/shop/the-one-ring/realms-of-the-three-rings/" rel="noreferrer noopener" target="_blank"><i>Vương quốc của ba chiếc nhẫn</i></a> tại cửa hàng của Free League
+- <a class="external text" href="https://freeleaguepublishing.com/shop/the-lord-of-the-rings/keepers-of-the-elven-rings/" rel="noreferrer noopener" target="_blank"><i>Người giữ nhẫn Yêu tinh</i></a> tại cửa hàng của Free League
 
 <span></span>
 

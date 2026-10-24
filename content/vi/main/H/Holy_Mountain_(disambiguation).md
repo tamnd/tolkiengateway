@@ -25,7 +25,7 @@ images:
 
 **Núi Thánh** có thể đề cập đến:
 
-- [Halifirien](Halifirien.md), Ngọn đồi kinh hoàng, trong [Anórien](../A/Anórien.md).
+- [Halifirien](Halifirien.md), Ngọn đồi kinh ngạc, ở [Anórien](../A/Anórien.md).
 - [Meneltarma](../M/Meneltarma.md), Núi Thánh của [Númenor](../N/Númenor.md).
 - [Taniquetil](../T/Taniquetil.md), Núi Thánh của [Aman](../A/Aman.md).
 

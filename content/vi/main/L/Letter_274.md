@@ -31,7 +31,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien phàn nàn rằng bản đồ nhỏ "[Một phần của Shire](../A/A_Part_of_the_Shire.md)" bị lỗi, cần chỉnh sửa, bổ sung. [Bến phà Bucklebury](../B/Bucklebury_Ferry.md), [Brandy Hall](../B/Brandy_Hall.md) và [Crickhollow](../C/Crickhollow.md) cách quá xa về phía bắc 3 dặm (khoảng 4 mm). Thật không may là Brandy Hall, rõ ràng là trên bờ sông, lại được đặt ở nơi có đường chính chạy phía trước thay vì phía sau. Ngoài ra còn thiếu loại gỗ được mô tả trong "[A Short Cut to Mushroom](../A/A_Short_Cut_to_Mushrooms.md)".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
+Tolkien phàn nàn rằng bản đồ nhỏ "[Part of the Shire](../A/A_Part_of_the_Shire.md)" bị lỗi, cần chỉnh sửa và bổ sung. [Phà Bucklebury](../B/Bucklebury_Ferry.md), [Brandy Hall](../B/Brandy_Hall.md) và [Crickhollow](../C/Crickhollow.md) cách quá xa về phía bắc 3 dặm (khoảng 4 mm). Thật không may là Brandy Hall, rõ ràng là nằm trên bờ sông, lại được đặt ở nơi có con đường chính chạy phía trước thay vì phía sau nó. Ngoài ra còn thiếu loại gỗ được mô tả trong "[A Short Cut to Mushroom](../A/A_Short_Cut_to_Mushrooms.md)".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

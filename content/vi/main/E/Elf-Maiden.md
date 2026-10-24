@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Elf-maidens"
 ---
 
-Chuyển hướng đến [Tiên-thiếu nữ](Elf-maidens.md).
+Chuyển hướng tới [Thiếu nữ yêu tinh](Elf-maidens.md).

@@ -34,7 +34,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Sau một buổi chiều mưa phùn khốn khổ, chán ngấy những bài giảng quân sự cũ kỹ, Tolkien cho biết anh đang miệt mài với “[ngôn ngữ cổ tích vớ vẩn](../Q/Qenya.md) của mình”. Anh ấy nói với [Edith](../E/Edith_Bratt.md) rằng anh ấy mong muốn được làm việc đó nhưng anh ấy kiềm chế bản thân vì tin rằng đó là "một sở thích điên rồ". <br>
+Sau một buổi chiều mưa phùn khốn khổ, chán ngấy những bài giảng quân sự cũ kỹ, Tolkien cho biết ông đang nghiên cứu "[ngôn ngữ thần tiên vô nghĩa](../Q/Qenya.md)" của mình. Ông nói với [Edith](../E/Edith_Bratt.md) rằng ông mong muốn được làm việc đó nhưng ông kiềm chế bản thân vì tin rằng đó là "một sở thích điên rồ". <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

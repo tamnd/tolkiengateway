@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-**[Fëanor](../../main/F/Fëanor.md) (thần tốc)** - chưa hoàn thành [Maedhros](../../main/M/Maedhros.md) một lần nữa xuất hiện là cha mình © Karolina Węgrzyn <a class="external free" href="http://www.sirielle.com/" rel="noreferrer noopener" target="_blank">http://www.sirielle.com/</a>
+**[Fëanor](../../main/F/Fëanor.md) (nhanh chóng)** - chưa hoàn thành [Maedhros](../../main/M/Maedhros.md) một lần nữa xuất hiện là cha anh © Karolina Węgrzyn <a class="external free" href="http://www.sirielle.com/" rel="noreferrer noopener" target="_blank">http://www.sirielle.com/</a>
 
 Được nghệ sĩ tải lên. Không sử dụng nó bên ngoài Tolkien Gateway mà không có sự cho phép của nghệ sĩ.
 

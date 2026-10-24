@@ -17,7 +17,7 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the <a href="../S/Sindarin.md" title="Sindarin">Sindarin</a> word</b>. For the Man of the <a href="../H/House_of_Bëor.md" title="House of Bëor">House of Bëor</a>, see <b><a href="Baran.md" title="Baran">Baran</a></b>.</div></div>
 
-<i><b>baran</b></i> là một từ [Sindarin](../S/Sindarin.md) được đánh bóng là "nâu, đen, nâu sẫm",<sup id="cite_ref-Ety_1-0" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup> "nâu vàng",<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và "nâu, nâu vàng".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+<i><b>baran</b></i> là một từ [tiếng Sindarin](../S/Sindarin.md) được dịch là "nâu, ngăm đen, nâu sẫm",<sup id="cite_ref-Ety_1-0" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup> "nâu vàng",<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và "nâu, nâu vàng".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

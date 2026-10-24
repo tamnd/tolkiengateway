@@ -13,4 +13,4 @@ categories:
   - "Poems"
 ---
 
-Thơ của [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md). Để biết danh sách theo trình tự thời gian, hãy xem [Các bài thơ của J.R.R. Tolkien](../../index/P/Poems_by_J.R.R._Tolkien.md).
+Thơ của [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md). Để biết danh sách theo trình tự thời gian, hãy xem [Bài thơ của J.R.R. Tolkien](../../index/P/Poems_by_J.R.R._Tolkien.md).

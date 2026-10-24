@@ -81,19 +81,19 @@ Sự kiện xảy ra vào ngày 1 tháng 11
 - **[1990](1990.md)** – [Tolklang](../T/Tolklang.md) được thành lập bởi [Julian C. Bradfield](../J/Julian_C._Bradfield.md).
 - **[1999](1999.md)** - *[George Allen and Unwin: A Remembrancer](../G/George_Allen_and_Unwin%253A_A_Remembrancer.md)* được xuất bản.
 - **[2008](2008.md)** - *[The Tolkien Name in History](../T/The_Tolkien_Name_in_History.md)* được xuất bản.
-- **[2010](2010.md)** - Mereth Aderthad XVI, hay "EstelCon" của Hiệp hội Tolkien tiếng Tây Ban Nha ở <a class="extiw" href="http://en.wikipedia.org/wiki/Valenica" title="wikipedia:Valenica">Valenica</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Spain" title="wikipedia:Spain">Tây Ban Nha</a>.
-- **[2011](2011.md)** - *[The Lord of the Rings: War in the North](../T/The_Lord_of_the_Rings%253A_War_in_the_North.md)* được phát hành tại Bắc Mỹ.
+- **[2010](2010.md)** - Mereth Aderthad XVI, hay "EstelCon" của Hiệp hội Tolkien Tây Ban Nha ở <a class="extiw" href="http://en.wikipedia.org/wiki/Valenica" title="wikipedia:Valenica">Valenica</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Spain" title="wikipedia:Spain">Tây Ban Nha</a>.
+- **[2011](2011.md)** - *[The Lord of the Rings: War in the North](../T/The_Lord_of_the_Rings%253A_War_in_the_North.md)* được phát hành ở Bắc Mỹ.
 - **[2012](2012.md)** - *[The J.R.R. Tolkien Miscellany](../T/The_J.R.R._Tolkien_Miscellany.md)* được xuất bản.
 - **[2025](2025.md)** - Tác giả và học giả [Colin Duriez](../C/Colin_Duriez.md) qua đời.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Trong Arda {#In_Arda}
 
 - [F.A.](../F/First_Age.md) [495](../F/First_Age_495.md):
-    - [Tuor](../T/Tuor.md), được hướng dẫn bởi [Voronwë](../V/Voronwë.md), di chuyển đến [Gondolin](../G/Gondolin.md) để chuyển thông điệp của [Ulmo](../U/Ulmo.md) tới [Turgon](../T/Turgon.md).
+    - [Tuor](../T/Tuor.md), được hướng dẫn bởi [Voronwë](../V/Voronwë.md), đi đến [Gondolin](../G/Gondolin.md) để chuyển thông điệp của [Ulmo](../U/Ulmo.md) tới [Turgon](../T/Turgon.md).
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi ở [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).
+    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi tại [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - Khi đến [ Shire](../T/The_Shire.md), [bốn Hobbit](../T/Travellers.md) bị bắt giữ tại [Frogmorton](../F/Frogmorton.md)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> bởi [Đội quân Eastfarthing đầu tiên](../F/First_Eastfarthing_Troop.md) và đưa đến [Nhà Shirriff](../S/Shirriff-house.md).
+    - Khi đến [Shire](../T/The_Shire.md), [bốn người Hobbit](../T/Travellers.md) bị bắt giữ tại [Frogmorton](../F/Frogmorton.md)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> bởi [Đội quân Eastfarthing đầu tiên](../F/First_Eastfarthing_Troop.md) và đưa đến [Nhà Shirriff](../S/Shirriff-house.md).
 
 <span></span>
 

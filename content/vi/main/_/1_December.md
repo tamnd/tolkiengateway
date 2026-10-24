@@ -67,26 +67,26 @@ Sự kiện xảy ra vào ngày 1 tháng 12
 ## Trên Trái đất {#On_Earth}
 
 - **[1897](1897.md)** - Diễn viên [Cyril Ritchard](../C/Cyril_Ritchard.md) ra đời.
-- **[1913](1913.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được bầu làm chủ tịch của Hiệp hội Stapledon, một hội sinh viên tại <a class="extiw" href="http://en.wikipedia.org/wiki/Exeter_College,_Oxford" title="wikipedia:Exeter College, Oxford">Exeter College</a>.
-- **[1914](1914.md)** - Bạn thân của Tolkien tại [Oxford](../O/Oxford_University.md), [Geoffrey Bache Smith](../G/Geoffrey_Bache_Smith.md), tham gia phục vụ trong Đội quân nhẹ Oxfordshire và Buckinghamshire.
+- **[1913](1913.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được bầu làm chủ tịch của Stapledon Society, một hội sinh viên tại <a class="extiw" href="http://en.wikipedia.org/wiki/Exeter_College,_Oxford" title="wikipedia:Exeter College, Oxford">Exeter College</a>.
+- **[1914](1914.md)** - Người bạn thân của Tolkien tại [Oxford](../O/Oxford_University.md), [Geoffrey Bache Smith](../G/Geoffrey_Bache_Smith.md), tham gia phục vụ trong Đội quân nhẹ Oxfordshire và Buckinghamshire.
 - **[1953](1953.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 141d](../L/Letter_141d.md).
-- **[1954](1954.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) bắt đầu viết [một lá thư cho Rayner Heppenstall](<../L/Letter_to_Rayner_Heppenstall_(1-2_December_1954).md>).
+- **[1954](1954.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) bắt đầu viết [một bức thư gửi Rayner Heppenstall](<../L/Letter_to_Rayner_Heppenstall_(1-2_December_1954).md>).
 - **[1975](1975.md)** - *[An Extrapolation on The Silmarillion](../A/An_Extrapolation_on_The_Silmarillion.md)* được xuất bản.
 - **[1976](1976.md)** - Diễn viên [Dean O'Gorman](../D/Dean_O'Gorman.md) ra đời.
 - **[1986](1986.md)** - *[Evocation of Virgil in Tolkien's Art](../E/Evocation_of_Virgil_in_Tolkien's_Art.md)* được xuất bản.
 - **[1995](1995.md)** - *[J.R.R. Tolkien (Writers and Their Work)](<../J/J.R.R._Tolkien_(Writers_and_Their_Work).md>)* được xuất bản.
 - **[2003](2003.md)** - *[Gollum: How We Made Movie Magic](../G/Gollum%253A_How_We_Made_Movie_Magic.md)* được xuất bản.
 - **[2003](2003.md)** - *[Tolkien: A Cultural Phenomenon](../T/Tolkien%253A_A_Cultural_Phenomenon.md)* được xuất bản.
-- <b><a href="2003.md" title="2003">2003</a> – <i><a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">The Lord of the Rings: The Return of the King</a></i> công chiếu ở Wellington, <a href="../N/New_Zealand.md" title="New Zealand">New Zealand</a>.</b>
+- <b><a href="2003.md" title="2003">2003</a> – <i><a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">Chúa tể của những chiếc nhẫn: Sự trở lại của nhà vua</a></i> công chiếu tại Wellington, <a href="../N/New_Zealand.md" title="New Zealand">New Zealand</a>.</b>
 - **[2007](2007.md)** - *[Chesterton and Tolkien as Theologians](../C/Chesterton_and_Tolkien_as_Theologians.md)* được xuất bản.
 - **[2009](2009.md)** - Bản mở rộng *[The Lord of the Rings Online: Siege of Mirkwood](../T/The_Lord_of_the_Rings_Online%253A_Siege_of_Mirkwood.md)* được phát hành ở Bắc Mỹ.
 - **[2009](2009.md)** - *[Born of Hope](../B/Born_of_Hope.md)* được phát hành trực tuyến.
 - **[2010](2010.md)** - *[Middle-earth and Beyond: Essays on the World of J.R.R. Tolkien](../M/Middle-earth_and_Beyond.md)* được xuất bản.
 - <b><a href="2014.md" title="2014">2014</a> - <i><a href="../T/The_Hobbit%253A_The_Battle_of_the_Five_Armies.md" title="The Hobbit: The Battle of the Five Armies">The Hobbit: The Battle of the Five Armies</a></i> công chiếu tại <a class="extiw" href="http://en.wikipedia.org/wiki/Leicester_Square" title="wikipedia:Leicester Square">Leicester Square</a>, London.</b>
-- **[2016](2016.md)** - <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=A_Well_of_Wonder&amp;action=edit&amp;redlink=1" title="A Well of Wonder (page does not exist)">A Well of Wonder: C. S. Lewis, J. R. R. Tolkien, và Inklings</a></i> được xuất bản.
+- **[2016](2016.md)** - <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=A_Well_of_Wonder&amp;action=edit&amp;redlink=1" title="A Well of Wonder (page does not exist)">A Well of Wonder: C. S. Lewis, J. R. R. Tolkien và The Inklings</a></i> được xuất bản.
 - **[2017](2017.md)** - *[Death and Immortality in Middle-earth](../D/Death_and_Immortality_in_Middle-earth.md)* được xuất bản.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi ở [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Kẻ duy nhất Nhẫn](../T/The_One_Ring.md).
+    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi tại [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).

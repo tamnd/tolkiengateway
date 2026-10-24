@@ -11,4 +11,4 @@ redirect_target: "Númenor"
 redirect_fragment: "Other names"
 ---
 
-Chuyển hướng đến [Númenor](../N/Númenor.md#Other_names).
+Chuyển hướng tới [Số](../N/Númenor.md#Other_names).

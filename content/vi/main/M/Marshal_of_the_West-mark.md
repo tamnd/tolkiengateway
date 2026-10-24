@@ -21,7 +21,7 @@ langlinks:
     url: "https://kontu.wiki/Markin_marsalkka"
 ---
 
-**Nguyên soái [West-mark](../W/West-mark.md)** là cấp bậc quân sự [Rohirrim](../R/Rohirrim.md), biểu thị người chỉ huy quân đội [Rohan](../R/Rohan.md) phía Tây. Tiêu đề được tạo bởi Vua [Éomer](../_/Éomer.md) mới sau [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md). Kỵ sĩ đầu tiên giữ cấp bậc này là Vua trung úy của Eomer, [Erkenbrand](../E/Erkenbrand.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
+**Nguyên soái [West-mark](../W/West-mark.md)** là cấp bậc quân sự của [Rohirrim](../R/Rohirrim.md), biểu thị người chỉ huy quân đội của [Rohan](../R/Rohan.md) phía tây. Danh hiệu này được tạo ra bởi vị Vua mới [Éomer](../_/Éomer.md) sau [War of the Ring](../W/War_of_the_Ring.md). Kỵ sĩ đầu tiên giữ cấp bậc này là trung úy của Vua Eomer, [Erkenbrand](../E/Erkenbrand.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

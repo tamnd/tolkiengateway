@@ -17,7 +17,7 @@ langlinks:
     url: "https://kontu.wiki/Saaren_is%C3%A4"
 ---
 
-**"Cha của hòn đảo"** là danh hiệu được áp dụng cho Vua phán quyết của [Númenor](../N/Númenor.md). Đặc biệt, nó được sử dụng bởi [Tar-Meneldur](../T/Tar-Meneldur.md) trong câu chuyện về [Aldarion](../T/Tar-Aldarion.md) và [Erendis](../E/Erendis.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
+**"Cha của hòn đảo"** là tước hiệu được áp dụng cho vị vua cầm quyền của [Númenor](../N/Númenor.md). Đặc biệt, nó được [Tar-Meneldur](../T/Tar-Meneldur.md) sử dụng trong câu chuyện về [Aldarion](../T/Tar-Aldarion.md) và [Erendis](../E/Erendis.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

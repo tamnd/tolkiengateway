@@ -37,7 +37,7 @@ infobox:
 
 <i><b>SEVEN 27</b></i> là số thứ 27 của tạp chí thường niên [Trung tâm Marion E. Wade](../M/Marion_E._Wade_Center.md) *[SEVEN](SEVEN.md)*, xuất bản trên [2010](../_/2010.md).<sup id="cite_ref-jstor_1-2" class="reference"><a href="#cite_note-jstor-1">[1]</a></sup>
 
-Trong bài viết "Tù nhân rừng" (được phát biểu tại Hội nghị [1983](../_/1983.md) Tolkien tại [Đại học Marquette](../M/Marquette_University.md)), [Clyde S. Kilby](../C/Clyde_S._Kilby.md) trích dẫn một số bức thư từ [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Những chữ cái này là:
+Trong bài viết "Tù nhân Woodland" (được phát biểu tại [1983](../_/1983.md) Hội nghị Tolkien tại [Đại học Marquette](../M/Marquette_University.md)), [Clyde S. Kilby](../C/Clyde_S._Kilby.md) trích dẫn một số bức thư của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Những chữ cái này là:
 
 - [Thư gửi Clyde S. Kilby (11 tháng 11 năm 1964)](<../L/Letter_to_Clyde_S._Kilby_(11_November_1964).md>)
 - [Thư gửi Clyde S. Kilby (18 tháng 12 năm 1965)](<../L/Letter_to_Clyde_S._Kilby_(18_December_1965).md>)
@@ -57,7 +57,7 @@ Tập này cũng bao gồm việc xuất bản lần đầu bản thảo "[Ngôn
     - Bởi: Tom McAlindon
 - "Tù nhân rừng"
     - Bởi: [Clyde S. Kilby](../C/Clyde_S._Kilby.md) với phần giới thiệu và chú thích của [John D. Rateliff](../J/John_D._Rateliff.md)
-- "Rỉ sét" và "Cô ấy"
+- "Rỉ sét" và "Bà"
     - Bởi: [Owen Barfield](../O/Owen_Barfield.md)
 - "C.S. Lewis và nghệ thuật xin lỗi"
     - Bởi: Samuel Joeckel

@@ -39,29 +39,29 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mythlore_74.gif.md"><img src="https://tolkiengateway.net/w/images/4/4f/Mythlore_74.gif" decoding="async" loading="lazy" width="225" height="292" class="mw-file-element" data-file-width="225" data-file-height="292"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mythlore 74</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../G/Glen_GoodKnight.md" title="Glen GoodKnight">Glen GoodKnight</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Autumn <a href="../_/1993.md" title="1993">1993</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">67</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mythlore_73.md" title="Mythlore 73">Mythlore 73</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mythlore_75.md" title="Mythlore 75">Mythlore 75</a></td></tr></tbody></table>
 
-<b><i>Mythlore</i> 74</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol19/iss4/" rel="noreferrer noopener" target="_blank">Tập 19, Số 4</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
+<b><i>Thần thoại</i> 74</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol19/iss4/" rel="noreferrer noopener" target="_blank">Tập 19, Số 4</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
 
 ## Nội dung {#Contents}
 
 #### Bài viết {#Articles}
 
-- Chúc ngủ ngon, Glen. “Văn học thiếu nhi có ấu trĩ không?”
-- Trùm đầu, Gwyneth. “Thiên nhiên và Công nghệ: Chiến lược thiên thần và hy sinh trong Tolkien's *The Lord of the Rings*.”
-- Feimer, Joel N. “Loại hình Kinh thánh trong *The Eye of the Heron*của LeGuin: Đặc điểm, Cấu trúc và Chủ đề.”
-- Branson, David A. “Các yếu tố Arthurian trong *The Hideous Strength*.”
-- Johnson, Michael. “Một Ozdessey ở Plato.”
-- Larsen, Corinne. “Nhánh Kỷ Đệ Tứ của Mabinogi: Phân tích cấu trúc làm sáng tỏ động lực của nhân vật.”
-- Canaan, Howard. “Tất cả địa ngục vào chiếc ba lô của anh ấy: Tinh thần vui chơi trong hai câu chuyện cổ tích.”
-- Hostetter, Carl F. và Wynne, Patrick. “Tháp Đá.”
-- Lindow, Sandra J. “Ma thuật cảm ứng: Tầm quan trọng của việc dạy truyện dân gian cho những độc giả khuyết tật, bị rối loạn cảm xúc.”
+- GoodKnight, Glen. “Is Children's Literature Childish?”
+- Hood, Gwyneth. “Nature and Technology: Angelic and Sacrificial Strategies in Tolkien's *The Lord of the Rings*.”
+- Feimer, Joel N. “Biblical Typology in LeGuin's *The Eye of the Heron*: Character, Structure, and Theme.”
+- Branson, David A. “Arthurian Elements in *The Hideous Strength*.”
+- Johnson, Michael. “An Ozdessey in Plato.”
+- Larsen, Corinne. “The Fourth Branch of the Mabinogi: Structural Analysis Illuminates Character Motivation.”
+- Canaan, Howard. “All Hell into His Knapsack: The Spirit of Play in Two Fairy Tales.”
+- Hostetter, Carl F., and Wynne, Patrick. “Stone Towers.”
+- Lindow, Sandra J. “Touch Magic: The Importance of Teaching Folktales to Emotionally Disturbed, Disabled Readers.”
 
 #### Tính năng {#Features}
 
 - Chúc ngủ ngon, Glen. Lời giới thiệu của biên tập: Trong số này.
-- Christopher, Joe R. và Wayne G. Hammond. Một thư mục Inklings (50).
-- Kodratiev, Alexei. “Những câu chuyện mới được kể.”
+- Christopher, Joe R., and Wayne G. Hammond. An Inklings Bibliography (50).
+- Kondratiev, Alexei. “Tales Newly Told.”
 - Thư.
-- DiSante, Paula. “Nhận xét của nghệ sĩ.”
+- DiSante, Paula. “Artist's Comments.”
 
 #### Đánh giá {#Reviews}
 

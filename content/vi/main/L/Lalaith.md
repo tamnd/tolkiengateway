@@ -64,17 +64,17 @@ infobox:
 
 ## Lịch sử {#History}
 
-Urwen là một đứa trẻ hạnh phúc và cha mẹ cô đã đặt cho cô [biệt danh](../E/Epessë.md) "Tiếng cười" (*[Lalaith](<Lalaith_(word).md>)*), từ con sông gần đó, [Nen Lalaith](../N/Nen_Lalaith.md). Sự có mặt của cô trong ngôi nhà của Húrin đã mang lại nhiều niềm vui cho [Dor-lómin](../D/Dor-lómin.md) vì hầu hết mọi người thường so sánh cô với những đứa trẻ Tiên. Túrin, anh trai cô, rất yêu em gái mình nhưng lại thích lén nhìn cô hơn là chơi đùa với cô khi cô chạy và hát. Cô ấy chết khi được ba tuổi vì [Hơi thở Ác ma](../E/Evil_Breath.md) phát ra từ [Angband](../A/Angband.md).<sup id="cite_ref-Childhood_2-0" class="reference"><a href="#cite_note-Childhood-2">[2]</a></sup>
+Urwen là một đứa trẻ hạnh phúc và cha mẹ cô đã đặt cho cô [biệt danh](../E/Epessë.md) "Tiếng cười" (*[Lalaith](<Lalaith_(word).md>)*), từ con sông gần đó, [Nen Lalaith](../N/Nen_Lalaith.md). Sự hiện diện của cô trong nhà Húrin mang lại nhiều niềm vui cho [Dor-lómin](../D/Dor-lómin.md) rằng cô thường được hầu hết mọi người so sánh với những đứa trẻ Yêu tinh. Túrin, anh trai cô, yêu em gái mình, nhưng lại thích ngắm nhìn cô mà không nhìn thấy hơn là chơi đùa với cô khi cô chạy và hát. Bà chết khi được ba tuổi vì [Hơi thở Ác ma](../E/Evil_Breath.md) được gửi đến từ [Angband](../A/Angband.md).<sup id="cite_ref-Childhood_2-0" class="reference"><a href="#cite_note-Childhood-2">[2]</a></sup>
 
 ## Di sản {#Legacy}
 
-Sau khi khỏi bệnh, Túrin được y tá yêu cầu không bao giờ nhắc đến Lalaith nữa mà thay vào đó hãy nói về Urwen. Mẹ anh giải thích rằng tiếng cười đã chết trong nhà của họ, đổ lỗi cho [Kẻ Thù](../E/Enemy.md).<sup id="cite_ref-Childhood_2-1" class="reference"><a href="#cite_note-Childhood-2">[2]</a></sup> cái chết của Urwen đặc biệt khó khăn với Túrin, người luôn tìm kiếm sự giống phụ nữ của mình mãi mãi,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> điều này được thể hiện qua cách anh coi [Finduilas](../F/Finduilas.md) giống với cách anh tưởng tượng về một Urwen lớn tuổi hơn.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Sau khi khỏi bệnh, Túrin được y tá ra lệnh không bao giờ nhắc đến Lalaith nữa mà thay vào đó hãy nói về Urwen. Mẹ anh giải thích rằng tiếng cười đã chết trong nhà của họ, đổ lỗi cho [Kẻ thù](../E/Enemy.md).<sup id="cite_ref-Childhood_2-1" class="reference"><a href="#cite_note-Childhood-2">[2]</a></sup> Cái chết của Urwen đặc biệt gây khó khăn cho Túrin, người luôn tìm kiếm sự giống phụ nữ của mình mãi mãi,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> điều này được thể hiện qua việc anh coi [Finduilas](../F/Finduilas.md) giống với cách anh tưởng tượng về một Urwen lớn tuổi hơn.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Urwen* là [Sindarin](../S/Sindarin.md)nhưng không hề bóng bẩy, mặc dù rõ ràng nó là sự kết hợp của các yếu tố <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=%C3%9Br&amp;action=edit&amp;redlink=1" title="Ûr (page does not exist)">ûr</a></i> ("lửa, nóng") + *[gwenn](../G/Gwenn.md)* ("thiếu nữ").<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+*Urwen* là [Sindarin](../S/Sindarin.md) nhưng không hề bóng bẩy, mặc dù rõ ràng nó là sự kết hợp của các yếu tố <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=%C3%9Br&amp;action=edit&amp;redlink=1" title="Ûr (page does not exist)">ûr</a></i> ("lửa, nóng") + *[gwenn](../G/Gwenn.md)* ("thiếu nữ").<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
-Biệt danh của cô ấy, *[lalaith](<Lalaith_(word).md>)*, là một danh từ [Sindarin](../S/Sindarin.md) có nghĩa là "tiếng cười".<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Biệt danh của bà, *[lalaith](<Lalaith_(word).md>)*, là một danh từ [Sindarin](../S/Sindarin.md) có nghĩa là "tiếng cười".<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 ## Phả hệ {#Genealogy}
 

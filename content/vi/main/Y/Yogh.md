@@ -19,13 +19,13 @@ images:
 
 **Yogh** (**Ȝ ȝ**) là một bức thư của văn học Trung Anh. Lưu ý rằng đôi khi nó được viết bằng ba (3) khi không có phông chữ.
 
-Âm tiếng Anh trung đại *Ȝ* được bắt nguồn từ [tiếng Anh cổ](../O/Old_English.md) *g*. Đó là một âm không còn tồn tại trong tiếng Anh nữa vì hiện tại nó đã được đồng hóa với *y* hoặc hoàn toàn không được phát âm.
+Âm tiếng Anh trung cổ *Ȝ* được bắt nguồn từ [Tiếng Anh cổ](../O/Old_English.md) *g*. Đó là một âm không còn tồn tại trong tiếng Anh nữa vì hiện tại nó đã được đồng hóa với *y* hoặc hoàn toàn không được phát âm.
 
-## Ȝ trong Elvish {#Ȝ_in_Elvish}
+## Ȝ bằng tiếng Tiên {#Ȝ_in_Elvish}
 
-### Primitive Quendian {#Primitive_Quendian}
+### Quendian nguyên thủy {#Primitive_Quendian}
 
-Tolkien được sử dụng *Ȝ* trong *[The Etymologies](../T/The_Etymologies.md)* để mô tả âm thanh *gh*. *Ȝ* được thấy thường xuyên nhất trong [Primitive Quendian](../P/Primitive_Quendian.md) [Gốc](../S/Sundocarmë.md) như MAȜ, KUȜ, TEȜ. Tuy nhiên, âm thanh này đã được đồng hóa với các âm thanh khác.
+Tolkien dùng *Ȝ* trong *[The Etymologies](../T/The_Etymologies.md)* để mô tả âm thanh *gh*. *Ȝ* được thấy thường xuyên nhất trong [Quendian nguyên thủy](../P/Primitive_Quendian.md) [Roots](../S/Sundocarmë.md) như MAȜ, KUȜ, TEȜ. Tuy nhiên, âm thanh này đã được đồng hóa với các âm thanh khác.
 
 Trước các phụ âm vô thanh, nó sẽ tiến hóa thành *ch*: *maȝtâ* (MAȜ) tiến hóa thành [Common Eldarin](../C/Common_Eldarin.md) *machtâ*.
 
@@ -33,13 +33,13 @@ Cuối cùng, sau *u*, nó sẽ tiến hóa thành *w*: *kuȝ* (KUȜ) > *kuw*
 
 ### Sau đó và {#Later_Ȝ}
 
-Âm thanh *gh* sẽ trở lại một lần nữa sau [Elvish](../E/Elvish.md). Giống như trong trường hợp tiếng Anh, Primitive Quendian *g* được đơn giản hóa thành *gh* trong [Quenya](../Q/Quenya.md) (và [Sindarin](../S/Sindarin.md), trong hầu hết các trường hợp). Ví dụ: từ *galadâ* "cây" phát triển thành \**ghaldâ/ȝaldâ* trong nhánh Quenyan.
+Âm thanh *gh* sẽ trở lại một lần nữa trong [Elvish](../E/Elvish.md). Giống như trong trường hợp tiếng Anh, Quendian nguyên thủy *g* được đơn giản hóa thành *gh* trong [Quenya](../Q/Quenya.md) (và [Sindarin](../S/Sindarin.md), trong hầu hết các trường hợp). Ví dụ: từ *galadâ* "cây" phát triển thành \**ghaldâ/ȝaldâ* trong nhánh Quenyan.
 
-Một lần nữa, âm thanh *gh* có thể được nghe thấy trong Elvish và nó tồn tại đủ lâu để được viết bằng [Sarati](../S/Sarati.md) trước khi biến mất lần nữa. Từ *[alda](../A/Alda.md)* vẫn được đánh vần là *ȝalda* với chữ <em style="font: normal 1.7em/1.5em &#39;Tirion Sarati&#39;">'</em> đại diện cho *gh*. Nó được biết đến theo truyền thống của [các bậc thầy truyền thuyết](../L/Loremasters.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Một lần nữa, âm thanh *gh* có thể được nghe thấy bằng tiếng Elvish và nó tồn tại đủ lâu để được viết bằng [Sarati](../S/Sarati.md) trước khi biến mất lần nữa. Từ *[alda](../A/Alda.md)* vẫn được đánh vần là *ȝalda* với chữ <em style="font: normal 1.7em/1.5em &#39;Tirion Sarati&#39;">'</em> đại diện cho *gh*. Nó được biết đến theo truyền thống của [các bậc thầy truyền thuyết](../L/Loremasters.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Khi *gh* bị mất một lần nữa, Sarat <em style="font: normal 1.7em/1.5em &#39;Tirion Sarati&#39;">'</em> cuối cùng đã được sử dụng làm phương tiện vận chuyển. Nó được kế thừa dưới dạng vật mang trong [Tengwar](../T/Tengwar.md) và sau đó được thay thế bằng chữ cái [Anna](../A/Anna.md), để biểu thị giả định "biến mất" *gh* ở bất cứ nơi nào các từ bắt đầu bằng nguyên âm.
+Khi *gh* bị mất một lần nữa, Sarat <em style="font: normal 1.7em/1.5em &#39;Tirion Sarati&#39;">'</em> cuối cùng đã được sử dụng làm phương tiện vận chuyển. Nó được kế thừa làm vật mang trong [Tengwar](../T/Tengwar.md) và sau đó được thay thế bằng chữ cái [Anna](../A/Anna.md), để biểu thị một giả định "biến mất" *gh* ở bất cứ nơi nào các từ bắt đầu bằng nguyên âm.
 
-Cách sử dụng này cố gắng giải thích mối quan hệ của các từ giữa Noldorin các từ bắt đầu bằng nguyên âm trong đó Telerin có *g-* (cf. Quenya *[alda](../A/Alda.md)* so với [Telerin](../T/Telerin.md) *galla*), nhưng không giải thích tất cả các trường hợp từ không có phụ âm đầu (*alca*, theo đó, nên được đánh vần là \*<span class="tg-tengwar tg-tengwar--tengwar_eldamar">hDjaE</span> vào thời điểm đó, mặc dù chưa bao giờ như vậy <i>**galka</i> trước đây).
+Cách sử dụng này cố gắng giải thích mối quan hệ của các từ giữa các từ Noldorin bắt đầu bằng nguyên âm trong đó Telerin có *g-* (cf. Quenya *[alda](../A/Alda.md)* so với [Telerin](../T/Telerin.md) *galla*), nhưng không giải thích tất cả các trường hợp từ không có phụ âm đầu (*alca*, theo điều này, nên được đánh vần là \*<span class="tg-tengwar tg-tengwar--tengwar_eldamar">hDjaE</span> vào thời điểm đó, mặc dù chưa bao giờ như vậy <i>**galka</i> trước đây).
 
 ## Ngôn ngữ khác {#Other_languages}
 

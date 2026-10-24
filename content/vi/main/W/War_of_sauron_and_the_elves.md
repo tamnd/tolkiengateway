@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "War of the Elves and Sauron"
 ---
 
-Chuyển hướng tới [Cuộc chiến Tiên tộc và Sauron](War_of_the_Elves_and_Sauron.md).
+Chuyển hướng tới [Cuộc chiến của Yêu tinh và Sauron](War_of_the_Elves_and_Sauron.md).

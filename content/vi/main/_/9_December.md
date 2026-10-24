@@ -67,7 +67,7 @@ Sự kiện xảy ra vào ngày 9 tháng 12.
 - **[1943](1943.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 53](../L/Letter_53.md).
 - **[1956](1956.md)** - Tập thứ tư của [loạt phim phát thanh năm 1956](<../T/The_Lord_of_the_Rings_(1955_radio_series).md>) của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* phát sóng trên [BBC](../B/BBC.md) Chương trình thứ ba.
 - **[1959](1959.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 222](../L/Letter_222.md).
-- **[1965](1965.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một lá thư cho William McCullam](../L/Letter_to_William_McCullam.md).
+- **[1965](1965.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một bức thư cho William McCullam](../L/Letter_to_William_McCullam.md).
 - **[1965](1965.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một bức thư cho Jane Dixon](../L/Letter_to_Jane_Dixon.md).
 - **[1965](1965.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một lá thư cho cô Jaworski](../L/Letter_to_Miss_Jaworski.md).
 - **[1965](1965.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một bức thư cho Christine Jones](../L/Letter_to_Christine_Jones.md).
@@ -75,4 +75,4 @@ Sự kiện xảy ra vào ngày 9 tháng 12.
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi ở [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).
+    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi tại [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).

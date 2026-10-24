@@ -25,11 +25,11 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><i><a href="../T/The_Letters_of_J.R.R._Tolkien.md" title="The Letters of J.R.R. Tolkien">The Letters of J.R.R. Tolkien</a></i></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Letter 239a</span></th></tr><tr><th scope="row" class="tg-infobox-label">Recipient</th><td class="tg-infobox-data"><a href="../R/Rayner_Unwin.md" title="Rayner Unwin">Rayner Unwin</a></td></tr><tr><th scope="row" class="tg-infobox-label">Date</th><td class="tg-infobox-data"><a href="../_/21_July.md" title="21 July">21 July</a> <a href="../_/1962.md" title="1962">1962</a></td></tr><tr><th scope="row" class="tg-infobox-label">Subject(s)</th><td class="tg-infobox-data">Teaching obligations</td></tr></tbody></table>
 
-**Thư 239a** là bức thư được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và đăng trên *[The Letters of J.R.R. Tolkien: Revised and Expanded edition](../T/The_Letters_of_J.R.R._Tolkien.md#Revised_and_Expanded_edition)*.
+**Thư 239a** là lá thư được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và đăng trên *[The Letters of J.R.R. Tolkien: Revised and Expanded edition](../T/The_Letters_of_J.R.R._Tolkien.md#Revised_and_Expanded_edition)*.
 
 ## Tóm tắt {#Summary}
 
-Tolkien thông báo cho [Rayner Unwin](../R/Rayner_Unwin.md) về trách nhiệm giảng dạy tạm thời của mình. Tolkien đã được yêu cầu tạm thời thay thế giáo sư sắp mãn nhiệm của Anglo-Saxon cho đến khi có giáo sư mới tiếp quản. Anh ấy mô tả nghĩa vụ này là "dễ chịu nhưng không phù hợp", xét đến khối lượng công việc hiện tại của anh ấy. <br>
+Tolkien thông báo cho [Rayner Unwin](../R/Rayner_Unwin.md) về trách nhiệm giảng dạy tạm thời của ông. Tolkien đã được yêu cầu tạm thời thay thế giáo sư sắp mãn nhiệm của Anglo-Saxon cho đến khi có giáo sư mới tiếp quản. Ông mô tả nghĩa vụ này là "dễ chịu nhưng không phù hợp", xét đến khối lượng công việc hiện tại của ông. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Singleton, Isaac C."
 ---
 
-**Isaac Charles Singleton, Jr.** (sinh [tháng 8](../A/August.md), [1967](../_/1967.md)) là một diễn viên người Mỹ. Một số vai diễn được công nhận nhiều hơn của anh là Bo'Mặt Trời trong <i><a class="extiw" href="http://en.wikipedia.org/wiki/Pirates_of_the_Caribbean:_The_Curse_of_the_Black_Pearl" title="wikipedia:Pirates of the Caribbean: The Curse of the Black Pearl">Cướp biển vùng Caribbean: Lời nguyền tàu Ngọc Trai Đen</a></i> và ma cà rồng Ingonito trong <i><a class="extiw" href="http://en.wikipedia.org/wiki/Hellsing_(TV_series)" title="wikipedia:Hellsing (TV series)">Hellsing</a></i>. Vì vậy, anh ấy đã đóng cùng với cả [Orlando Bloom](../O/Orlando_Bloom.md) (Will Turner trong *Pirates*) và nhân vật lồng tiếng của Bloom [Crispin Freeman](../C/Crispin_Freeman.md) (Alucard trong *Hellsing*).
+**Isaac Charles Singleton, Jr.** (sinh [tháng 8](../A/August.md), [1967](../_/1967.md)) là một diễn viên người Mỹ. Một số vai diễn được công nhận nhiều hơn của anh là Bo'Sun trong <i><a class="extiw" href="http://en.wikipedia.org/wiki/Pirates_of_the_Caribbean:_The_Curse_of_the_Black_Pearl" title="wikipedia:Pirates of the Caribbean: The Curse of the Black Pearl">Cướp biển vùng Caribbean: Lời nguyền tàu Ngọc Trai Đen</a></i> và ma cà rồng Ingonito trong <i><a class="extiw" href="http://en.wikipedia.org/wiki/Hellsing_(TV_series)" title="wikipedia:Hellsing (TV series)">Hellsing</a></i>. Vì vậy, ông đã đóng cùng với cả [Orlando Bloom](../O/Orlando_Bloom.md) (Will Turner trong *Pirates*) và nhân vật lồng tiếng của Bloom [Crispin Freeman](../C/Crispin_Freeman.md) (Alucard trong *Hellsing*).
 
 ## Vai trò {#Roles}
 

@@ -21,7 +21,7 @@ categories:
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://www.museumreplicas.com/default.aspx" rel="noreferrer noopener" target="_blank">Bản sao bảo tàng: Vũ khí, kiếm, quần áo thời Phục hưng & Trung cổ</a>
+- <a class="external text" href="http://www.museumreplicas.com/default.aspx" rel="noreferrer noopener" target="_blank">Bản sao bảo tàng: Vũ khí, kiếm, quần áo thời Phục hưng và Trung cổ</a>
 
 <span></span>
 

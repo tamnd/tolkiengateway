@@ -40,7 +40,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_50th_Anniversary_Calendar_2005.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/d0/The_Lord_of_the_Rings_50th_Anniversary_Calendar_2005.jpg/320px-The_Lord_of_the_Rings_50th_Anniversary_Calendar_2005.jpg" decoding="async" loading="lazy" width="320" height="319" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/d/d0/The_Lord_of_the_Rings_50th_Anniversary_Calendar_2005.jpg 1.5x" data-file-width="475" data-file-height="474"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Tolkien Calendar 2005</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../H/HarperCollins.md" title="HarperCollins">HarperCollins</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/19_July.md" title="19 July">19 July</a> <a href="../_/2004.md" title="2004">2004</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Calendar</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">32</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0-00-717404-7" title="Special:BookSources/0-00-717404-7">0-00-717404-7</a> (UK)<br/><a href="https://tolkiengateway.net/wiki/Special:BookSources/0-06-072298-3" title="Special:BookSources/0-06-072298-3">0-06-072298-3</a> (US)</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Tolkien_Calendar_2004.md" title="Tolkien Calendar 2004">Tolkien Calendar 2004</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Tolkien_Calendar_2006.md" title="Tolkien Calendar 2006">Tolkien Calendar 2006</a></td></tr></tbody></table>
 
-Lịch <i><b>Tolkien 2005</b></i>, có nhãn hiệu là <i><b>The Lord of the Rings Lịch kỷ niệm 50 năm</b></i>, là lịch Tolkien chính thức được xuất bản bởi [HarperCollins](../H/HarperCollins.md) vào [19 tháng 7](../_/19_July.md) [2004](../_/2004.md). Nó có tác phẩm nghệ thuật của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) dựa trên *[The Lord of the Rings](The_Lord_of_the_Rings.md)*.
+<i><b>Lịch Tolkien 2005</b></i>, có nhãn hiệu <i><b>Lịch kỷ niệm 50 năm Chúa tể của những chiếc nhẫn</b></i>, là lịch Tolkien chính thức được xuất bản bởi [HarperCollins](../H/HarperCollins.md) vào [19 tháng 7](../_/19_July.md) [2004](../_/2004.md). Nó có tác phẩm nghệ thuật của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) dựa trên *[The Lord of the Rings](The_Lord_of_the_Rings.md)*.
 
 ## Từ nhà xuất bản {#From_the_publisher}
 
@@ -53,18 +53,18 @@ Lịch <i><b>Tolkien 2005</b></i>, có nhãn hiệu là <i><b>The Lord of the Ri
 
 - Bìa - "Thiết kế túi đựng bụi cho The Fellowship of the Ring"
 - Tháng Giêng - "[Ông Lão Liễu](../../file/J/J.R.R._Tolkien_-_Old_Man_Willow.jpg.md)"
-- Tháng 2 - "[Rivendell Đang tìm phương Đông](../../file/J/J.R.R._Tolkien_-_Rivendell_looking_East.jpg.md)"
-- Tháng 3 - "[Moria Cổng](../../file/J/J.R.R._Tolkien_-_West_Gate_of_Moria.jpg.md)"
+- Tháng 2 - "[Rivendell Nhìn Về Phía Đông](../../file/J/J.R.R._Tolkien_-_Rivendell_looking_East.jpg.md)"
+- Tháng 3 - "[Cổng Moria](../../file/J/J.R.R._Tolkien_-_West_Gate_of_Moria.jpg.md)"
 - Tháng 4 - "[Khu rừng Lothlórien vào mùa xuân](../../file/J/J.R.R._Tolkien_-_The_Forest_of_Lothlorien_in_Spring.jpg.md)"
 - Tháng 5 - "[Rừng Fangorn (Taur-na-Fúin)](../../file/J/J.R.R._Tolkien_-_Fangorn_Forest.jpg.md)"
 - Tháng 6 - "[Helm's Deep và Hornburg](../../file/J/J.R.R._Tolkien_-_Helm's_Deep_and_the_Hornburg.jpg.md)"
-- Giữa - "[Rời khỏi Sách Mazarbul](../B/Book_of_Mazarbul.md#Contents)"
+- Trung tâm - "[Lá từ cuốn sách Mazarbul](../B/Book_of_Mazarbul.md#Contents)"
 - Tháng 7 - "[Orthanc](../../file/J/J.R.R._Tolkien_-_Orthanc_I.jpg.md)"
 - Tháng 8 - "[Dunharrow](../../file/J/J.R.R._Tolkien_-_Dunharrow.jpg.md)"
-- tháng Chín - "[Stanburg hoặc Steinburg (Minas Tirith)](../../file/J/J.R.R._Tolkien_-_Minas_Tirith.jpg.md)"
+- Tháng 9 - "[Stanburg hoặc Steinburg (Minas Tirith)](../../file/J/J.R.R._Tolkien_-_Minas_Tirith.jpg.md)"
 - Tháng 10 - "[Hang ổ của Shelob](<../../file/J/J.R.R._Tolkien_-_Shelob's_Lair_(and_manuscript).jpg.md>)"
 - Tháng 11 - "[Barad-dûr](../../file/J/J.R.R._Tolkien_-_Barad-dur.jpg.md)"
-- Tháng 12 - "Thiết kế máy hút bụi cho The Lord of the Rings"
+- Tháng 12 - "Thiết kế túi đựng bụi cho Chúa tể của những chiếc nhẫn"
 
 ## Biến thể {#Variants}
 
@@ -86,7 +86,7 @@ Lịch <i><b>Tolkien 2005</b></i>, có nhãn hiệu là <i><b>The Lord of the Ri
 ## Liên kết ngoài {#External_links}
 
 - <a class="external text" href="http://www.tolkienbooks.net/php/caldetails.php?reference=94370" rel="noreferrer noopener" target="_blank">Tolkien 2005 - Lịch kỷ niệm 50 năm LotR</a> tại <a class="external text" href="http://www.tolkienbooks.net" rel="noreferrer noopener" target="_blank">TolkienBooks.net</a>
-- <a class="external text" href="http://tolkiencalendars.com/2005_2006.html" rel="noreferrer noopener" target="_blank">Tolkien Lịch 2005 - 2006</a> tại <a class="external text" href="http://tolkiencalendars.com/" rel="noreferrer noopener" target="_blank">The Compleat Gyde tới Tolkien Lịch</a>
+- <a class="external text" href="http://tolkiencalendars.com/2005_2006.html" rel="noreferrer noopener" target="_blank">Lịch Tolkien 2005 - 2006</a> tại <a class="external text" href="http://tolkiencalendars.com/" rel="noreferrer noopener" target="_blank">The Compleat Gyde to Tolkien Calendars</a>
 
 <table style="margin:0 auto;" class="collapsible toccolours" width="100%" align="center">
 <tbody><tr>

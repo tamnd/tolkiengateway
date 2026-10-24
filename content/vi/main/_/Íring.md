@@ -31,9 +31,9 @@ infobox:
 
 ## Lịch sử {#History}
 
-Íring được <a class="extiw" href="http://en.wikipedia.org/wiki/Anglo-Saxons" title="wikipedia:Anglo-Saxons">Anglo-Saxon</a> Vua [Watol](../W/Watol.md) ủy quyền xây dựng một con đường xuyên qua vùng đất của mình, công việc mà ông đã thực hiện trong suốt bảy năm. Tuy nhiên, các con trai của Watol, [Wætlingas](../W/Wætlingas.md), tức giận trước sự kiêu ngạo của anh ta, và do đó đã đánh cược rằng họ có thể xây dựng một con đường thậm chí còn tốt hơn chỉ trong ba năm.
+Íring được <a class="extiw" href="http://en.wikipedia.org/wiki/Anglo-Saxons" title="wikipedia:Anglo-Saxons">Vua Anglo-Saxon</a> [Watol](../W/Watol.md) ủy quyền xây dựng một con đường xuyên qua vùng đất của mình, công việc mà ông đã thực hiện trong suốt bảy năm. Tuy nhiên, các con trai của Watol, [Wætlingas](../W/Wætlingas.md), tức giận trước sự kiêu ngạo của ông ta, và do đó đã đánh cược rằng họ có thể xây dựng một con đường thậm chí còn tốt hơn chỉ trong ba năm.
 
-Vì vậy, Íring đã nhờ cha mình Ír giúp đỡ, và vì Ír liên minh với [Orc](../O/Orcs.md) của Íwerin nên ông đã gửi "tất cả các loại tệ nạn bí mật" để ngăn chặn bước tiến của Wætlingas.
+Do đó, Íring đã nhờ cha mình Ír giúp đỡ, và vì Ír liên minh với [Orc](../O/Orcs.md) của Íwerin, nên ông đã gửi "tất cả các loại tệ nạn bí mật" để ngăn chặn bước tiến của Wætlingas.
 
 Tuy nhiên, cuối cùng, khi ba năm trôi qua, Íring, "tuyệt vọng với cuộc cá cược của mình", đã giết các con trai của Watol.
 
@@ -51,7 +51,7 @@ Có lẽ đang cố gắng khắc phục tình hình, Íring đã được thầ
 
 ## Cảm hứng {#Inspiration}
 
-Câu chuyện Íring xây dựng một con đường trên thiên đường, sau này được đặt theo tên của Wætlingas *Wæclinga-strǽt* (tức là Phố Watling), là một nỗ lực của [Tolkien](../T/Tolkien.md) nhằm đưa ra câu trả lời, thông qua [thần thoại](../L/Legendarium.md) của chính mình, cho một vấn đề từ nguyên liên quan đến Phố Watling.
+Câu chuyện Íring xây dựng một con đường trên thiên đường, sau này được đặt theo tên của Wætlingas *Wæclinga-strǽt* (tức là Phố Watling), là một nỗ lực của [Tolkien](../T/Tolkien.md) nhằm đưa ra câu trả lời, thông qua [thần thoại](../L/Legendarium.md) của chính ông, cho một vấn đề từ nguyên liên quan đến Phố Watling.
 
 Theo biên niên sử người Anh <a class="extiw" href="http://en.wikipedia.org/wiki/Florence_of_Worcester" title="wikipedia:Florence of Worcester">Florence of Worcester</a>, các con trai của Watol đã xây dựng Phố Watling vào năm <a class="extiw" href="http://en.wikipedia.org/wiki/1013" title="wikipedia:1013">1013 sau Công Nguyên</a>; ở đó, Florence của Worcester cũng cho biết cái tên *Watling Street* sau đó được áp dụng cho Dải Ngân hà.
 

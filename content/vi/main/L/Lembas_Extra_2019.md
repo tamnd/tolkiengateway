@@ -37,13 +37,13 @@ infobox:
 ## Nội dung {#Contents}
 
 - "Giới thiệu" của [Renée Vink](../R/Renée_Vink.md) (trang 5–6)
-- Thijs Porck: "Định hình lại nền kinh tế danh dự của người Đức: Tặng quà ở *The Lord of the Rings*của J.R.R. Tolkien" (trang 7–26)
-- Chiara Marchetti: "Quái vật thời trung cổ củaTolkien: Grendel, Gollum và Boromir" (trang 27–47)
-- Berber Bossenbroek: "Ides Ælfscinu, Lúthien, và Judith: Hướng tới một Anglo-Saxon tương tự mới trong tiểu thuyết của J.R.R. Tolkien" (trang 49–57)
+- Thijs Porck: "Định hình lại nền kinh tế danh dự của người Đức: Tặng quà ở *The Lord of the Rings* của J.R.R. Tolkien" (trang 7–26)
+- Chiara Marchetti: "Quái vật thời trung cổ của Tolkien: Grendel, Gollum và Boromir" (trang 27–47)
+- Berber Bossenbroek: "Ides Ælfscinu, Lúthien và Judith: Hướng tới một sự tương tự Anglo-Saxon mới trong tiểu thuyết của J.R.R. Tolkien" (trang 49–57)
 - Lettie Dorst: "Công bằng, dữ dội, giả tạo: Thể hiện giới tính trong *The Lord of the Rings*" (trang 59–78)
-- Renée Vink: "(Un)hạnh phúc mãi mãi về sau: Nhiều tai ương của những người tình của Tolkien" (trang 79–92)
+- Renée Vink: "(Không) hạnh phúc mãi mãi về sau: Nhiều tai ương của những người tình của Tolkien" (trang 79–92)
 - Jan van Breda: "*The Statute of Finwë and Míriel*: Công lý, lòng thương hại và ý chí tự do không thể thay đổi của người chết" (trang 93–110)
-- Hamish Williams: " Troll củaTolkien: Tính liên văn bản trong 'Thịt cừu nướng' và những hiện thân quái dị sau *The Hobbit*" (trang 111–27)
+- Hamish Williams: "Những con quỷ khổng lồ của Tolkien: Tính liên văn bản trong 'Thịt cừu nướng' và những sự hóa thân quái dị sau *The Hobbit*" (trang 111–27)
 - [Łukasz Neubauer](../_/Łukasz_Neubauer.md): "'Trò chơi gia đình địa phương này được chơi ở vùng quê chỉ quanh chúng tôi': Một số nhận xét liên quan đến nguồn gốc của *Farmer Giles of Ham*" (trang 129–46)
 - "Tiểu sử" (trang 147–9)
 

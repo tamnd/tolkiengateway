@@ -14,9 +14,9 @@ images:
   - "Disambig.png"
 ---
 
-**Galadriel** có thể tham khảo:
+**Galadriel** có thể đề cập đến:
 
-## Trung Địa {#Middle-earth}
+## Trung địa {#Middle-earth}
 
 - **[Galadriel](Galadriel.md), Phu nhân của [Lothlórien](../L/Lothlórien.md)**
 - [Lời than thở của Galadriel](../N/Namárië.md), *[Namárië](../N/Namárië.md)*
@@ -32,11 +32,11 @@ images:
 
 - "[Tấm gương của Galadriel](../T/The_Mirror_of_Galadriel.md)", chương thứ bảy của cuốn sách thứ hai trong *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)*.
 - "[Lịch sử của Galadriel và Celeborn](../T/The_History_of_Galadriel_and_Celeborn.md)", chương của phần thứ hai của *[Unfinished Tales](../U/Unfinished_Tales.md)*.
-    - "[Concerning Galadriel and Celeborn](../C/Concerning_Galadriel_and_Celeborn.md)", một phần trong chương.
+    - "[Liên quan đến Galadriel và Celeborn](../C/Concerning_Galadriel_and_Celeborn.md)", một phần trong chương.
 
 ## Các bản chuyển thể {#Adaptations}
 
-- [Tấm gương Galadriel](<../T/The_Mirror_of_Galadriel_(scene).md>), cảnh thứ 33 trong phim [Peter Jackson](../P/Peter_Jackson.md) *[The Lord of the Rings: The Fellowship of the Ring](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)*
+- [Tấm gương của Galadriel](<../T/The_Mirror_of_Galadriel_(scene).md>), cảnh thứ 33 trong phim của [Peter Jackson](../P/Peter_Jackson.md) *[The Lord of the Rings: The Fellowship of the Ring](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)*
 
 <hr style="margin-top:15px;"/>
 

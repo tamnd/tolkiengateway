@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Tolkien Art of the Brothers Hildebrandt 2006 Calendar"
 ---
 
-Chuyển hướng đến [Lịch Tolkien Nghệ thuật của Anh em nhà Hildebrandt 2006](The_Tolkien_Art_of_the_Brothers_Hildebrandt_2006_Calendar.md).
+Chuyển hướng đến [Lịch nghệ thuật Tolkien của anh em nhà Hildebrandt 2006](The_Tolkien_Art_of_the_Brothers_Hildebrandt_2006_Calendar.md).

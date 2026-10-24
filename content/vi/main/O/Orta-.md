@@ -25,7 +25,7 @@ Trong "[Từ, Cụm từ và Đoạn văn](../P/Parma_Eldalamberon_17.md)", từ
 
 ## Cảm hứng {#Inspiration}
 
-Trong <a class="extiw" href="http://en.wikipedia.org/wiki/Latin" title="wikipedia:Latin">tiếng Latin</a> động từ "đứng dậy" là <i><a class="extiw" href="http://en.wiktionary.org/wiki/orior" title="wiktionary:orior">orior</a></i>và <i><a class="extiw" href="http://en.wiktionary.org/wiki/orta#Latin" title="wiktionary:orta">orta</a></i> là một dạng giống cái có nghĩa là "cô ấy đã được nuôi dưỡng". Không rõ liệu [Tolkien](../J/J.R.R._Tolkien.md) có được lấy cảm hứng từ những điểm tương đồng này hay không. <span></span>
+Trong <a class="extiw" href="http://en.wikipedia.org/wiki/Latin" title="wikipedia:Latin">tiếng Latin</a> động từ "đứng dậy" là <i><a class="extiw" href="http://en.wiktionary.org/wiki/orior" title="wiktionary:orior">orior</a></i>và <i><a class="extiw" href="http://en.wiktionary.org/wiki/orta#Latin" title="wiktionary:orta">orta</a></i> là một dạng giống cái có nghĩa là "bà đã được nuôi dưỡng". Không biết liệu [Tolkien](../J/J.R.R._Tolkien.md) có được lấy cảm hứng từ những điểm tương đồng này hay không. <span></span>
 
 ## Tài liệu tham khảo {#References}
 

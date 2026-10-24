@@ -39,13 +39,13 @@ images:
 <p class="tg-quote-footer"><cite><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a></cite></p>
 </blockquote></div></div>
 
-<i>Lưu ý: những quy tắc này chỉ áp dụng cho Ñoldorin Quenya, là phương ngữ duy nhất được nói ở Trung Địa. Ngoài ra tài liệu này sẽ không dạy bạn Neo-Quenya mà chỉ tóm tắt ngữ pháp cơ bản. Ký hiệu * đánh dấu một biểu mẫu chưa được chứng thực – một biểu mẫu phù hợp với logic của Quenya, nhưng Tolkien chưa bao giờ được viết.</i>
+<i>Lưu ý: những quy tắc này chỉ áp dụng cho Ñoldorin Quenya, là phương ngữ duy nhất được nói ở Trung Địa. Ngoài ra, tài liệu này sẽ không dạy bạn Neo-Quenya mà chỉ tóm tắt ngữ pháp cơ bản. Ký hiệu * đánh dấu một dạng chưa được chứng thực – một dạng phù hợp với logic của Quenya, nhưng Tolkien chưa bao giờ viết.</i>
 
-[Quenya](Quenya.md) là ngôn ngữ SVO kết dính. Nó có trật tự từ tương đối tự do vì hầu hết thông tin được diễn đạt theo hình thái hơn là theo cú pháp. Các lớp từ khác nhau của Quenya được giải thích bên dưới.
+[Quenya](Quenya.md) là ngôn ngữ SVO kết dính. Nó có trật tự từ tương đối tự do vì hầu hết thông tin được diễn đạt theo hình thái hơn là theo cú pháp. Các lớp từ khác nhau của tiếng Quenya được giải thích dưới đây.
 
 ## Âm vị học {#Phonology}
 
-Quenya được thiết kế để có âm vị học giống tiếng Latinh, với một số quy tắc âm vị học lấy cảm hứng từ tiếng Phần Lan.
+Quenya được thiết kế để có âm vị học giống tiếng Latin, với một số quy tắc âm vị học lấy cảm hứng từ tiếng Phần Lan.
 
 ### Phụ âm {#Consonants}
 
@@ -147,11 +147,11 @@ Quenya được thiết kế để có âm vị học giống tiếng Latinh, v�
 
 ### Bài viết {#The_Article}
 
-Quenya chỉ có một mạo từ **i** “the”. Nó không thay đổi về kiểu dáng, số hoặc âm đầu, như trong **i ciryamo** “the Mariner” và **i eleni** “the stars”. Quenya không có mạo từ không xác định nên **elen** có nghĩa là “ngôi sao” hoặc “ngôi sao”.
+Quenya chỉ có một mạo từ, **i** “the”. Nó không thay đổi về kiểu dáng, số hoặc âm đầu, như trong **i ciryamo** “the Mariner” và **i eleni** “the stars”. Quenya không có mạo từ không xác định nên **elen** có nghĩa là “ngôi sao” hoặc “ngôi sao”.
 
 ### Trường hợp danh từ {#Noun_Cases}
 
-Danh từ bị từ chối trong mười trường hợp: trường hợp danh nghĩa, buộc tội, sở hữu cách, sở hữu, tặng cách, công cụ, định vị, ám chỉ, phủ định và trường hợp thứ mười đôi khi được gọi là trường hợp tương ứng hoặc trường hợp s. Quenya kết thúc trường hợp thay đổi tùy thuộc vào việc từ đó kết thúc bằng nguyên âm khác e, -e hay phụ âm. Đối với các loại danh từ khác, hãy kiểm tra ngữ pháp toàn diện.
+Danh từ bị từ chối trong mười trường hợp: trường hợp danh nghĩa, buộc tội, sở hữu cách, sở hữu, tặng cách, công cụ, định vị, ám chỉ, phủ định và trường hợp thứ mười đôi khi được gọi là trường hợp tương ứng hoặc trường hợp s. Kết thúc kiểu chữ Quenya thay đổi tùy thuộc vào việc từ đó kết thúc bằng nguyên âm khác e, -e hay phụ âm. Đối với các loại danh từ khác, hãy kiểm tra ngữ pháp toàn diện.
 
 <table rules="all" style="text-align:center; border:1px solid darkgrey; border-collapse:collapse" cellpadding="3" cellspacing="0">
 <tbody><tr>
@@ -215,11 +215,11 @@ Danh từ bị từ chối trong mười trường hợp: trường hợp danh n
 - Sau nguyên âm i và u, sở hữu cách được thêm hậu tố -o giống như những danh từ kết thúc bằng -e.
 - Sau phụ âm, -e- được chèn vào nếu kết quả là một cụm không thể thực hiện được. Đối với các khả năng khác, chẳng hạn như đồng hóa, hãy kiểm tra ngữ pháp toàn diện.
 
-Các trường hợp chỉ định và buộc tội gần như giống hệt nhau trong Quenya. Danh từ được dùng để đánh dấu chủ ngữ của động từ. Ở Trung Địa, người được đề cử tiếp quản vụ án buộc tội. Đối cách đánh dấu đối tượng trực tiếp của động từ. Nó không được dùng trong văn nói Quenya (tức là Tarquesta), nhưng xuất hiện trong văn viết. Nhưng ngay cả trong văn bản (tức là Parmaquesta), sự khác biệt duy nhất giữa danh từ và đối cách là nguyên âm cuối cùng được kéo dài, do đó trong các từ kết thúc bằng phụ âm, đối cách không thể phân biệt được với danh cách.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Các trường hợp chỉ định và buộc tội gần như giống hệt nhau ở Quenya. Danh từ được dùng để đánh dấu chủ ngữ của động từ. Ở Trung Địa, người được đề cử tiếp quản vụ án buộc tội. Đối cách đánh dấu đối tượng trực tiếp của động từ. Nó không được sử dụng trong tiếng Quenya nói (tức là Tarquesta), nhưng xuất hiện trong văn viết. Nhưng ngay cả trong văn bản (tức là Parmaquesta), sự khác biệt duy nhất giữa danh từ và đối cách là nguyên âm cuối cùng được kéo dài, do đó trong các từ kết thúc bằng phụ âm, đối cách không thể phân biệt được với danh cách.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
-Trong Quenya có hai trường hợp dùng để diễn tả sự sở hữu: sở hữu cách và sở hữu. Cụ thể hơn, sở hữu cách chủ yếu được sử dụng để đánh dấu nguồn gốc (ví dụ: thợ rèn giỏi nhất *of* *Tirion*), trong khi sở hữu cách được sử dụng để biểu thị quyền sở hữu (ví dụ: *Fëanor’s* Silmaril). Hai trường hợp này rất giống nhau và có thể thay thế cho nhau trong hầu hết các trường hợp.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Ở Quenya có hai trường hợp được dùng để diễn tả sự sở hữu: sở hữu cách và sở hữu. Cụ thể hơn, sở hữu cách chủ yếu được sử dụng để đánh dấu nguồn gốc (ví dụ: thợ rèn giỏi nhất *of* *Tirion*), trong khi sở hữu cách được sử dụng để biểu thị quyền sở hữu (ví dụ: *Fëanor’s* Silmarils). Hai trường hợp này rất giống nhau và có thể thay thế cho nhau trong hầu hết các trường hợp.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
-Các trường hợp tặng cách, phủ định, ám chỉ, công cụ và định vị là các trường hợp giới từ của Quenya.
+Các trường hợp tặng cách, cắt bỏ, ám chỉ, công cụ và định vị là các trường hợp giới từ của Quenya.
 
 - Tính cách đánh dấu tân ngữ gián tiếp của động từ và được dùng để chỉ người thụ hưởng hoặc mục đích, thường có thể được dịch là "đến" và "cho".
 - Tính từ thể hiện chuyển động rời khỏi một vật thể và có thể được dịch là "từ" hoặc "ngoài".
@@ -227,7 +227,7 @@ Các trường hợp tặng cách, phủ định, ám chỉ, công cụ và đ�
 - Trường hợp công cụ biểu thị phương tiện gây ra lý do tại sao một việc gì đó lại xảy ra, thường được dịch là "bằng phương tiện", "với" hoặc "vì".
 - Trường hợp định vị thể hiện vị trí của một đối tượng, được dịch là "trong", *at* hoặc "trên".
 
-Có trường hợp thứ mười được gọi là trường hợp tương ứng hoặc trường hợp s. Vụ án tương ứng là vụ án bí ẩn vì không rõ nó dùng để làm gì. Nhiều học giả trong Quenya đoán rằng trường hợp này được sử dụng như một trường hợp định vị trừu tượng hơn. Những người khác cho rằng vụ việc có thể được dịch bằng từ "về" hoặc "liên quan". May mắn thay, trường hợp tương ứng rất hiếm khi được sử dụng nên nó không gây ra vấn đề lớn như vậy.
+Có trường hợp thứ mười được gọi là trường hợp tương ứng hoặc trường hợp s. Vụ án tương ứng là vụ án bí ẩn vì không rõ nó dùng để làm gì. Nhiều học giả ở Quenya đoán rằng trường hợp này được sử dụng như một trường hợp định vị trừu tượng hơn. Những người khác cho rằng vụ việc có thể được dịch bằng từ "về" hoặc "liên quan". May mắn thay, trường hợp tương ứng rất hiếm khi được sử dụng nên nó không gây ra vấn đề lớn như vậy.
 
 ### Biểu diễn số {#Expressing_Numbers}
 
@@ -326,9 +326,9 @@ Số nhiều một phần được sử dụng để diễn đạt một số đ
 
 #### Dạng kép {#Dual_Form}
 
-Hình thức kép được sử dụng để đánh dấu hai điều cụ thể. Một loại dạng kép được gọi là "dạng chữ u". "Dạng chữ u" ban đầu được sử dụng với các danh từ mô tả sự vật tạo thành cặp tự nhiên; hay nói một cách đơn giản, nó được dùng cho hai vật hoặc những người thuộc về nhau một cách tự nhiên như một cặp logic.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> Ví dụ: từ "môi", *pé*, có dạng kép *peu*, ám chỉ đôi môi của một người.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> Danh từ "cây", *alda*, xuất hiện ở dạng kép khi tham chiếu đến [Hai Cây của Valinor](../T/Two_Trees_of_Valinor.md): *Aldu*. Khi phần cuối *-u* được thêm vào danh từ kết thúc bằng nguyên âm, nguyên âm đó sẽ bị thay thế, như có thể thấy với *Aldu*.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>
+Hình thức kép được sử dụng để đánh dấu hai điều cụ thể. Một loại dạng kép được gọi là "dạng chữ u". "Dạng chữ u" ban đầu được sử dụng với các danh từ mô tả sự vật tạo thành cặp tự nhiên; hay nói một cách đơn giản, nó được sử dụng cho hai vật hoặc những người thuộc về nhau một cách tự nhiên như một cặp logic.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> Ví dụ: từ "môi", *pé*, có dạng kép *peu*, ám chỉ đôi môi của một người.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> Danh từ "cây", *alda*, xuất hiện ở dạng kép liên quan đến [Hai cây Valinor](../T/Two_Trees_of_Valinor.md): *Aldu*. Khi phần cuối *-u* được thêm vào danh từ kết thúc bằng nguyên âm, nguyên âm đó sẽ bị thay thế, như có thể thấy với *Aldu*.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>
 
-Một loại dạng kép khác được gọi là "dạng t". Hình thức này ban đầu chỉ được sử dụng để biểu thị hai thứ chỉ liên quan ngẫu nhiên với nhau, tuy nhiên, nó nhanh chóng trở thành chỉ để tham chiếu các cặp tự nhiên hoặc logic, có nghĩa là chức năng của cả "dạng u" và "dạng t" đã hợp nhất. Việc lựa chọn hình thức được quyết định bởi sự hài hòa, hay nói một cách đơn giản, bởi những gì nghe hay hơn; ví dụ: "dạng u" được ưu tiên hơn "dạng t" khi từ nhận kết thúc kép đã chứa *t* hoặc *d*có cách phát âm tương tự.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup>
+Một loại dạng kép khác được gọi là "dạng t". Hình thức này ban đầu chỉ được sử dụng để biểu thị hai thứ chỉ liên quan ngẫu nhiên với nhau, tuy nhiên, nó nhanh chóng trở thành chỉ để tham chiếu các cặp tự nhiên hoặc logic, có nghĩa là chức năng của cả "dạng u" và "dạng t" đã hợp nhất. Việc lựa chọn hình thức được quyết định bởi sự hài hòa, hay nói một cách đơn giản, bởi những gì nghe hay hơn; ví dụ: "dạng u" được ưu tiên hơn "dạng t" khi từ nhận kết thúc kép đã chứa *t* hoặc *d* có cách phát âm tương tự.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup>
 
 ## Động từ {#Verbs}
 

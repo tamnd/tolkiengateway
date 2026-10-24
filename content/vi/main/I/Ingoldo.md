@@ -13,13 +13,13 @@ categories:
   - "Quenya names"
 ---
 
-**Ingoldo** là *[amilessë](../A/Amilessë.md)* của cả [Finarfin](../F/Finarfin.md) và con trai ông [Finrod Felagund](../F/Finrod.md). Cái tên này có nghĩa đơn giản là " [Ñoldo](../N/Noldor.md), một người lỗi lạc trong cùng dòng tộc". Nó thường được sử dụng bởi các anh và [chị](../G/Galadriel.md) của Finrod, những người rất quý trọng anh ấy. Khi Finrod đến Trung Địa và có quan hệ tốt với [Atani](../A/Atani.md), cái tên này đã lan rộng. Do đó, nó được sử dụng làm tên cụ thể trong [Númenor](../N/Númenor.md)và sau đó cả trong [Gondor](../G/Gondor.md), nơi nó được đổi thành *[Ingold](Ingold.md)*.<sup id="cite_ref-Finwe_1-0" class="reference"><a href="#cite_note-Finwe-1">[1]</a></sup>
+**Ingoldo** là *[amilessë](../A/Amilessë.md)* của cả [Finarfin](../F/Finarfin.md) và con trai ông [Finrod Felagund](../F/Finrod.md). Cái tên này có nghĩa đơn giản là " [Ñoldo](../N/Noldor.md), một người lỗi lạc trong cùng dòng tộc". Nó thường được sử dụng bởi các anh và [chị gái](../G/Galadriel.md) của Finrod, những người rất quý trọng anh. Khi Finrod đến Trung Địa và có mối quan hệ tốt với [Atani](../A/Atani.md), cái tên này đã lan rộng. Vì vậy, nó được sử dụng làm tên riêng ở [Númenor](../N/Númenor.md) và sau đó ở [Gondor](../G/Gondor.md), nơi nó được đổi thành *[Ingold](Ingold.md)*.<sup id="cite_ref-Finwe_1-0" class="reference"><a href="#cite_note-Finwe-1">[1]</a></sup>
 
-Nếu [Sindar hóa](../S/Sindarized.md), tên sẽ là <i><b>Angoloð</b></i> (đánh vần là *Angolodh*).<sup id="cite_ref-Finwe_1-1" class="reference"><a href="#cite_note-Finwe-1">[1]</a></sup>
+Nếu [Sindarized](../S/Sindarized.md), tên sẽ là <i><b>Angoloð</b></i> (đánh vần là *Angolodh*).<sup id="cite_ref-Finwe_1-1" class="reference"><a href="#cite_note-Finwe-1">[1]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong các văn bản trước đó, [Tolkien](../T/Tolkien.md) coi tên này là tên mẹ của [Fingolfin](../F/Fingolfin.md), nghĩa là anh ta có nguồn gốc từ cả họ hàng của *Ing*ar ([Vanyar](../V/Vanyar.md)) và N*oldo*r, trong khi tên mẹ của Finarfin là *Ingalaurë*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Tolkien cũng được cân nhắc đổi *Fingolfin* thành <i><b>Ingolfin</b></i>, vì vậy đây sẽ là dạng Sindar hóa của tên mẹ anh ấy, nhưng chẳng bao lâu sau, mọi quan niệm này đã bị loại bỏ.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Trong các văn bản trước đó, [Tolkien](../T/Tolkien.md) coi tên này là tên mẹ của [Fingolfin](../F/Fingolfin.md), nghĩa là ông ta có nguồn gốc từ cả họ hàng của *Ing*ar ([Vanyar](../V/Vanyar.md)) và N*oldo*r, trong khi tên mẹ của Finarfin là *Ingalaurë*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Tolkien cũng đã cân nhắc đổi *Fingolfin* thành <i><b>Ingolfin</b></i>, vì vậy đây sẽ là dạng Sindarized của tên mẹ ông, nhưng chẳng bao lâu sau, mọi quan niệm này đã bị loại bỏ.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Liên kết ngoài {#External_links}
 

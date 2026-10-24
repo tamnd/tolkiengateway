@@ -13,7 +13,7 @@ categories:
   - "Sindarin nouns"
 ---
 
-<i><b>fae</b></i> là [Sindarin](../S/Sindarin.md) dành cho "linh hồn".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>fae</b></i> là [Sindarin](../S/Sindarin.md) có nghĩa là "linh hồn".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Có cùng nguồn gốc {#Cognates}
 
@@ -23,7 +23,7 @@ categories:
 
 ## Cảm hứng {#Inspiration}
 
-<b><a class="extiw" href="http://en.wiktionary.org/wiki/fae" title="wiktionary:fae">Fae</a></b> là một từ tiếng Anh cổ dùng để chỉ "ma thuật" hoặc "[nàng tiên](Fairies.md)". Từ này đã được [Tolkien](../J/J.R.R._Tolkien.md) sử dụng trong phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) (*[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*) của anh ấy để chỉ [Valar](../V/Valar.md) và [Tiên tộc](../E/Elves.md). <span></span>
+<b><a class="extiw" href="http://en.wiktionary.org/wiki/fae" title="wiktionary:fae">Fae</a></b> là một từ tiếng Anh cổ dùng để chỉ "ma thuật" hoặc "[nàng tiên](Fairies.md)". Từ này đã được [Tolkien](../J/J.R.R._Tolkien.md) sử dụng trong phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) (*[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*) của ông để chỉ [Valar](../V/Valar.md) và [Yêu tinh](../E/Elves.md). <span></span>
 
 ## Tài liệu tham khảo {#References}
 

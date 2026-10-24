@@ -15,12 +15,12 @@ images:
   - "Disambig.png"
 ---
 
-<i><b>Palantir</b></i> là [Quenya](../Q/Quenya.md) dành cho "tầm nhìn xa" và có thể tham khảo:
+<i><b>Palantir</b></i> là [Quenya](../Q/Quenya.md) có nghĩa là "nhìn xa trông rộng" và có thể đề cập đến:
 
-## Trung Địa {#Middle-earth}
+## Trung địa {#Middle-earth}
 
-- [Palantíri](Palantíri.md) (số ít *Palantír*), Thấy đá.
-- [Tar-Palantir](../T/Tar-Palantir.md), [Vua](../K/King_of_Númenor.md) thứ hai mươi bốn của [Númenor](../N/Númenor.md).
+- [Palantíri](Palantíri.md) (số ít *Palantír*), Nhìn thấy đá.
+- [Tar-Palantir](../T/Tar-Palantir.md), [Vua](../K/King_of_Númenor.md) thứ 24 của [Númenor](../N/Númenor.md).
 
 ## Chương {#Chapters}
 
@@ -30,13 +30,13 @@ images:
 # Khác {#Other}
 
 - [Palantiren](Palantiren.md), tuyển tập giả tưởng.
-- [ Palantír (cảnh)](<../T/The_Palantír_(scene).md>), cảnh trong [The Lord of the Rings: The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md).
+- [The Palantír (cảnh)](<../T/The_Palantír_(scene).md>), cảnh trong [The Lord of the Rings: The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md).
     - [The Palantir (nhạc phim)](<../T/The_Palantir_(soundtrack).md>), nhạc phim trong [The Lord of the Rings: The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md).
-- *[The Palantír Journal](../_/Палантир.md)*, [Xã hội St Petersburg Tolkien](../S/St_Petersburg_Tolkien_Society.md) xuất bản hàng năm.
+- *[The Palantír Journal](../_/Палантир.md)*, ấn phẩm hàng năm của [Hiệp hội Tolkien St Petersburg](../S/St_Petersburg_Tolkien_Society.md).
 
 # Xem thêm {#See_also}
 
-[Danh mục:Palantíri](../../category/P/Palantíri.md) (danh sách palantíri*)*
+[Danh mục: Palantíri](../../category/P/Palantíri.md) (danh sách palantíri*)*
 
 [Danh mục:Hình ảnh palantíri](../../category/I/Images_of_palantíri.md)
 

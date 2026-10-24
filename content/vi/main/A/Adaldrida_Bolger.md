@@ -51,7 +51,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Adaldrida là con gái của [Gundahar Bolger](../G/Gundahar_Bolger.md) và [Dina Diggle](../D/Dina_Diggle.md). Cô ấy là em gái của [Adalgar](Adalgar_Bolger.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Adaldrida là con gái của [Gundahar Bolger](../G/Gundahar_Bolger.md) và [Dina Diggle](../D/Dina_Diggle.md). Bà là em gái của [Adalgar](Adalgar_Bolger.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Adaldrida kết hôn với [Marmadoc Brandybuck](../M/Marmadoc_Brandybuck.md) và có bốn người con: [Gorbadoc](../G/Gorbadoc_Brandybuck.md), [Orgulas](../O/Orgulas_Brandybuck.md) và hai con gái.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 

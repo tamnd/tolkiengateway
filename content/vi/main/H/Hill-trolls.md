@@ -40,9 +40,9 @@ infobox:
 
 ## Lịch sử {#History}
 
-Ông nội của [Aragorn](../A/Aragorn.md) [Arador](../A/Arador.md) đã bị lũ quỷ đồi giết chết ở [Coldfells](../C/Coldfells.md), phía bắc [Rivendell](../R/Rivendell.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+[Ông nội](../A/Aragorn.md) của Aragorn [Arador](../A/Arador.md) đã bị lũ quỷ đồi giết chết ở [Coldfells](../C/Coldfells.md), phía bắc [Rivendell](../R/Rivendell.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Một đại đội gồm những sinh vật này nằm trong số những đội quân [Sauron](../S/Sauron.md) đã giải thoát khỏi [Morannon](../M/Morannon.md) trong [Trận Morannon](../B/Battle_of_the_Morannon.md).<sup id="cite_ref-RKV10_2-0" class="reference"><a href="#cite_note-RKV10-2">[2]</a></sup>
+Một đại đội gồm những sinh vật này nằm trong số những đội quân [Sauron](../S/Sauron.md) đã đánh bại [Morannon](../M/Morannon.md) trong [Trận chiến Morannon](../B/Battle_of_the_Morannon.md).<sup id="cite_ref-RKV10_2-0" class="reference"><a href="#cite_note-RKV10-2">[2]</a></sup>
 
 ## Đặc điểm {#Characteristics}
 
@@ -52,11 +52,11 @@ Về ngoại hình, chúng giống con người, nhưng lớn hơn và dường 
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Andrew_Goldhawk_-_Hill_Trolls.jpg.md"><img src="https://tolkiengateway.net/w/images/f/f6/Andrew_Goldhawk_-_Hill_Trolls.jpg" decoding="async" loading="lazy" width="296" height="253" class="mw-file-element" data-file-width="296" data-file-height="253"/></a><figcaption><a href="../A/Andrew_Goldhawk.md" title="Andrew Goldhawk">Andrew Goldhawk</a> - <i>Hill Trolls</i></figcaption></figure>
 
-<b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>:</b>
+<b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Nhập vai ở Trung Địa</a></i>:</b>
 
 <dl><dd>Hill Trolls (Sindarin <i>Teregemyn</i>)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> are among the most common of the Troll breeds. They are usually nine to twelve feet tall.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></dd></dl>
 
-<b>1995-8: <i><a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Trung Địa Trò chơi bài sưu tầm</a></i>:</b>
+<b>1995-8: <i><a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Trò chơi thẻ bài sưu tầm ở Trung Địa</a></i>:</b>
 
 <dl><dd>&#34;Hill Trolls&#34; is a Troll Faction, and &#34;Hill-troll&#34; is a Minion Character.</dd></dl>
 

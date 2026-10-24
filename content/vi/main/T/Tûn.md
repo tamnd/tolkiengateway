@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Túna"
 ---
 
-Chuyển hướng đến [Túna](Túna.md).
+Chuyển hướng tới [Túna](Túna.md).

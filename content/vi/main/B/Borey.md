@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dori"
 ---
 
-Chuyển hướng đến [Dori](../D/Dori.md).
+Chuyển hướng tới [Dori](../D/Dori.md).

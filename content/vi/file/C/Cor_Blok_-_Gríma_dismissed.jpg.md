@@ -32,7 +32,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"[Gríma](../../main/G/Gríma.md) bị loại bỏ" bởi [Cor Blok](../../main/C/Cor_Blok.md). Được tạo vào ngày [25 tháng Chín](../../main/_/25_September.md) [1960](../../main/_/1960.md)
+"[Gríma](../../main/G/Gríma.md) bị bác bỏ" bởi [Cor Blok](../../main/C/Cor_Blok.md). Được tạo vào ngày [25 tháng Chín](../../main/_/25_September.md) [1960](../../main/_/1960.md)
 
 ## Giấy phép {#Licensing}
 

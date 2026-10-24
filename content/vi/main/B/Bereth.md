@@ -14,13 +14,13 @@ categories:
   - "Sindarin nouns"
 ---
 
-<i><b>bereth</b></i> là [Sindarin](../S/Sindarin.md) dành cho "nữ hoàng, phối ngẫu" hoặc "tối cao, cao siêu".<sup id="cite_ref-Eldarin_1-0" class="reference"><a href="#cite_note-Eldarin-1">[1]</a></sup>
+<i><b>bereth</b></i> là [Sindarin](../S/Sindarin.md) có nghĩa là "nữ hoàng, người phối ngẫu" hoặc "tối cao, cao siêu".<sup id="cite_ref-Eldarin_1-0" class="reference"><a href="#cite_note-Eldarin-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Từ [Primitive Quendian](../P/Primitive_Quendian.md) *barathî*.<sup id="cite_ref-Eldarin_1-1" class="reference"><a href="#cite_note-Eldarin-1">[1]</a></sup>
+Từ [Quendian nguyên thủy](../P/Primitive_Quendian.md) *barathî*.<sup id="cite_ref-Eldarin_1-1" class="reference"><a href="#cite_note-Eldarin-1">[1]</a></sup>
 
-[Noldorin](../N/Noldorin.md) ban đầu giải thích rằng nó xuất phát từ [gốc](../R/Root.md) [BARATH](BARAT.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+[Noldorin](../N/Noldorin.md) ban đầu giải thích rằng nó xuất phát từ [root](../R/Root.md) [BARATH](BARAT.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Ví dụ {#Examples}
 
@@ -32,7 +32,7 @@ Từ [Primitive Quendian](../P/Primitive_Quendian.md) *barathî*.<sup id="cite_r
 
 Nó không liên quan đến gốc <a class="new" href="https://tolkiengateway.net/w/index.php?title=BER%C3%89TH&amp;action=edit&amp;redlink=1" title="BERÉTH (page does not exist)">BERÉTH</a> ("sồi, bạch dương"). Ngoài ra, nó không chứa phần kết thúc nữ tính <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=-eth&amp;action=edit&amp;redlink=1" title="-eth (page does not exist)">-eth</a></i>.
 
-Mặc dù [Beleth](Beleth.md) được gọi là "Bereth" trong *Unfinished Tales*nhưng điều này được coi là nhầm lẫn.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> <span></span>
+Mặc dù [Beleth](Beleth.md) được gọi là "Bereth" trong *Unfinished Tales* nhưng điều này được coi là nhầm lẫn.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

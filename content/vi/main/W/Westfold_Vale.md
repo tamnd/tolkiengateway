@@ -20,11 +20,11 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Westfold_Vale.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/a/a9/The_Lord_of_the_Rings_Online_-_Westfold_Vale.jpg/250px-The_Lord_of_the_Rings_Online_-_Westfold_Vale.jpg" decoding="async" loading="lazy" width="250" height="141" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/a9/The_Lord_of_the_Rings_Online_-_Westfold_Vale.jpg/375px-The_Lord_of_the_Rings_Online_-_Westfold_Vale.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/a/a9/The_Lord_of_the_Rings_Online_-_Westfold_Vale.jpg/500px-The_Lord_of_the_Rings_Online_-_Westfold_Vale.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>Westfold Vale in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-**Westfold Vale** là một thung lũng ở [Westfold](Westfold.md) [Rohan](../R/Rohan.md) mà qua đó [Dòng sâu](../D/Deeping-stream.md) chảy ra từ [Dòng sâu](../D/Deeping-coomb.md). Đây cũng là quê hương của [Erkenbrand](../E/Erkenbrand.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Westfold Vale** là một thung lũng ở [Westfold](Westfold.md) của [Rohan](../R/Rohan.md), nơi [Dòng sâu](../D/Deeping-stream.md) chảy ra từ [Deeping-coomb](../D/Deeping-coomb.md). Đây cũng là quê hương của [Erkenbrand](../E/Erkenbrand.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
 
 <dl><dd>The Westfold Vale is located in the south of the <a href="Westfold.md" title="Westfold">Westfold</a> area of the <a href="Westemnet.md" title="Westemnet">Westemnet</a>.</dd></dl>
 

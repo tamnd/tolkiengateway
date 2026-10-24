@@ -23,13 +23,13 @@ images:
 
 <figure class="mw-default-size mw-halign-left" typeof="mw:File"><a class="mw-file-description" href="../../file/U/Ure.gif.md"><img src="https://tolkiengateway.net/w/images/e/eb/Ure.gif" decoding="async" loading="lazy" width="53" height="65" class="mw-file-element" data-file-width="53" data-file-height="65"/></a><figcaption></figcaption></figure>
 
-*Úre* là tên trong Quenya chữ cái thứ ba mươi sáu của bảng chữ cái [Tengwar](../T/Tengwar.md).<sup id="cite_ref-Names_1-1" class="reference"><a href="#cite_note-Names-1">[1]</a></sup> Khi được sử dụng làm phụ âm, nó đại diện cho **W**.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Tuy nhiên, trong [Chế độ Beleriand](../M/Mode_of_Beleriand.md), như được thấy trong dòng chữ trên [Phương Tây-gate](../D/Doors_of_Durin.md) của [Moria](../M/Moria.md), *Úrë* đại diện cho **U**.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Tên Westron của chữ cái này là <i><b>Au</b></i>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+*Úre* là tên bằng tiếng Quenya của chữ cái thứ 36 trong bảng chữ cái [Tengwar](../T/Tengwar.md).<sup id="cite_ref-Names_1-1" class="reference"><a href="#cite_note-Names-1">[1]</a></sup> Khi được sử dụng làm phụ âm, nó đại diện cho **W**.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Tuy nhiên, trong [Chế độ Beleriand](../M/Mode_of_Beleriand.md), như được thấy trong dòng chữ trên [cổng phía Tây](../D/Doors_of_Durin.md) của [Moria](../M/Moria.md), *Úrë* đại diện cho **U**.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Tên tiếng Tây Ban Nha của chữ cái này là <i><b>Au</b></i>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 <br>
 
 ## Từ nguyên {#Etymology}
 
-Từ này bắt nguồn từ [Primitive Quendian](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) [UR](../U/UR.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Từ này bắt nguồn từ [Quendian nguyên thủy](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) [UR](../U/UR.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 <br> <span></span>
 

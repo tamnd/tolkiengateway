@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Price, Peter Xavier"
 ---
 
-- [Peter Xavier Price](../../main/P/Peter_Xavier_Price.md) đã vui lòng cho phép [tác phẩm nghệ thuật của anh ấy](../../category/I/Images_by_Peter_Xavier_Price.md) được sử dụng tác phẩm nghệ thuật của anh ấy trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
+- [Peter Xavier Price](../../main/P/Peter_Xavier_Price.md) đã vui lòng cho phép [tác phẩm nghệ thuật của ông](../../category/I/Images_by_Peter_Xavier_Price.md) được sử dụng tác phẩm nghệ thuật của ông trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Ngày: 26 tháng 12 năm 2011
 - Người dùng đã xin phép qua email: [Người dùng:KingAragorn](https://tolkiengateway.net/wiki/User:KingAragorn)

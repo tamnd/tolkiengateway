@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Mugwort](../../main/M/Mugwort.md), nhân viên của [Ted Sandyman](../../main/T/Ted_Sandyman.md), ở [Green Hill Country](../../main/G/Green_Hill_Country.md). Ảnh chụp màn hình từ [*The Lord of the Rings: The Fellowship of the Ring* (trò chơi điện tử)](<../../main/T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md>).
+[Mugwort](../../main/M/Mugwort.md), nhân viên của [Ted Sandyman](../../main/T/Ted_Sandyman.md), ở [Green Hill Country](../../main/G/Green_Hill_Country.md). Ảnh chụp màn hình từ [*The Lord of the Rings: The Fellowship of the Ring* (video game)](<../../main/T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md>).
 
 ## Giấy phép {#Licensing}
 

@@ -36,28 +36,28 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mythlore_32.gif.md"><img src="https://tolkiengateway.net/w/images/thumb/a/a7/Mythlore_32.gif/320px-Mythlore_32.gif" decoding="async" loading="lazy" width="320" height="400" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/a7/Mythlore_32.gif/480px-Mythlore_32.gif 1.5x, https://tolkiengateway.net/w/images/thumb/a/a7/Mythlore_32.gif/640px-Mythlore_32.gif 2x" data-file-width="655" data-file-height="819"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mythlore 32</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../G/Glen_GoodKnight.md" title="Glen GoodKnight">Glen GoodKnight</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Summer <a href="../_/1982.md" title="1982">1982</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">47</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mythlore_31.md" title="Mythlore 31">Mythlore 31</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mythlore_33.md" title="Mythlore 33">Mythlore 33</a></td></tr></tbody></table>
 
-<b><i>Mythlore</i> 32</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol9/iss2/" rel="noreferrer noopener" target="_blank">Tập 9, Số 2</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
+<b><i>Thần thoại</i> 32</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol9/iss2/" rel="noreferrer noopener" target="_blank">Tập 9, Số 2</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, được xuất bản bởi [Hiệp hội Thần thoại](Mythopoeic_Society.md).
 
 ## Nội dung {#Contents}
 
 #### Bài viết {#Articles}
 
-- Davis, Howard. “Ainulindale: Âm nhạc của sự sáng tạo.”
-- Johnson, Janice. “Người nổi tiếng của Celeborn và Galadriel.”
-- GoodKnight, Glen H. “Tolkien trong bản dịch.”
-- Urrutia, Benjamin. “Một số ghi chú trong những bức thư của J.R.R. Tolkien.”
-- Knapp, Bettina. “Bài đọc của người Jungian về Kalevala 500–1300?: Đạo Shaman Phần Lan—Hình tượng Senex gia trưởng. \[Phần 4: Kết luận\].”
+- Davis, Howard. “The Ainulindale: Music of Creation.”
+- Johnson, Janice. “The Celeblain of Celeborn and Galadriel.”
+- GoodKnight, Glen H. “Tolkien in Translation.”
+- Urrutia, Benjamin. “Some Notes to The Letters of J.R.R. Tolkien.”
+- Knapp, Bettina. “A Jungian Reading of the Kalevala 500–1300?: Finnish Shamanism—The Patriarchal Senex Figure. \[Part 4: Conclusion\].”
 
 #### Thơ {#Poetry}
 
-- Purdy, Margaret R. “Dyad cho Finrod.”
+- Purdy, Margaret R. “Dyad for Finrod.”
 
 #### Tính năng {#Features}
 
 - Chúc ngủ ngon, Glen. Biên tập.
 - Suy nghĩ của một số độc giả.
-- Christopher, Joe R. An Thư mục của Inkling (21).
-- Speth, Lee. “Cách đối xử ung dung: Tolkien Người giải phóng.”
+- Christopher, Joe R. An Inkling's Bibliography (21).
+- Speth, Lee. “Cavalier Treatment: Tolkien the Liberator.”
 - Thư.
 
 #### Đánh giá {#Reviews}

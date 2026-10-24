@@ -17,7 +17,7 @@ langlinks:
     url: "https://kontu.wiki/Kesytt%C3%B6m%C3%A4t_Kukkulat"
 ---
 
-**Wild Hills** là một phần của Thế giới rộng lớn bên ngoài ngôi làng [Ham](../H/Ham.md), quê hương của [Farmer Giles](../F/Farmer_Giles.md). Chúng nằm ở phía tây và phía bắc của Ham, gần những con đường đáng ngờ của vùng núi. [Người khổng lồ](../T/The_Giant.md) đi lang thang vào cánh đồng của Farmer Giles thường đi dạo ở Wild Hills (chỉ do đoán sai khi bị lạc nên Người khổng lồ mới đến vùng đất có con người sinh sống). <sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
+**Wild Hills** là một phần của Thế giới rộng lớn bên ngoài ngôi làng [Ham](../H/Ham.md), quê hương của [Nông dân Giles](../F/Farmer_Giles.md). Chúng nằm ở phía tây và phía bắc của Ham, gần những con đường đáng ngờ của vùng núi. [Người khổng lồ](../T/The_Giant.md) vô tình đi vào cánh đồng của Nông dân Giles thường đi dạo ở Wild Hills (chỉ do đoán sai khi bị lạc mà Người khổng lồ mới đến vùng đất có con người sinh sống). <sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

@@ -39,26 +39,26 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mythlore_79.gif.md"><img src="https://tolkiengateway.net/w/images/6/69/Mythlore_79.gif" decoding="async" loading="lazy" width="225" height="292" class="mw-file-element" data-file-width="225" data-file-height="292"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mythlore 79</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../G/Glen_GoodKnight.md" title="Glen GoodKnight">Glen GoodKnight</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Summer <a href="../_/1995.md" title="1995">1995</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">67</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mythlore_78.md" title="Mythlore 78">Mythlore 78</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a class="mw-redirect" href="Mythlore_80.md" title="Mythlore 80">Mythlore 80</a></td></tr></tbody></table>
 
-<b><i>Mythlore</i> 79</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol21/iss1/" rel="noreferrer noopener" target="_blank">Tập 21, Số 1</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
+<b><i>Thần thoại</i> 79</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol21/iss1/" rel="noreferrer noopener" target="_blank">Tập 21, Số 1</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
 
 ## Nội dung {#Contents}
 
 #### Bài viết {#Articles}
 
-- Houghton, John. “Augustine và Ainulindale.”
-- Serrano, Amanda. "T.H. White Sự bảo vệ của Guenever: Chân dung của một con người 'thực sự'."
-- Cô đơn, Douglas. "C.S. Lewis Nợ E.M. Forster của *'The Celestial Omnibus' and Other Stories*."
-- Adderley, C. M. "Những vấn đề sơ bộ: Những khúc dạo đầu bị bỏ quên cho Charles Williams' Arthuriad."
-- Hill, Darci N. '"Chiến binh nhà thờ" hồi sinh: Các yếu tố thần thoại trong The Đền thờ của George Herbert.'
-- Smith, Arden R. "*Duzen* và *Ihrzen* trong bản dịch tiếng Đức của *The Lord of the Rings*."
-- Christopher, Joe R. "C.S. Lewis' Huyền thoại ngôn ngữ."
-- Simmons, Joe. “Nghệ thuật tưởng tượng và phụ nữ chiến binh: Một phê bình thẩm mỹ về hình ảnh nữ tính.”
+- Houghton, John. "Augustine and the Ainulindale."
+- Serrano, Amanda. "T.H. White's Defence of Guenever: Portrait of a 'Real' Person."
+- Loney, Douglas. "C.S. Lewis’s Debt to E.M. Forster’s *'The Celestial Omnibus' and Other Stories*."
+- Adderley, C. M. "Preliminary Matters: The Neglected Preludes to Charles Williams' Arthuriad."
+- Hill, Darci N. '"The Church Militant" Resurrected: Mythic Elements in George Herbert's The Temple.'
+- Smith, Arden R. "*Duzen* and *Ihrzen* in the German Translation of *The Lord of the Rings*."
+- Christopher, Joe R. "C.S. Lewis' Linguistic Myth."
+- Simmons, Joe. "Fantasy Art and Warrior Women: An Aesthetic Critique of Feminine Images."
 
 #### Tính năng {#Features}
 
 - Chúc ngủ ngon, Glen. Lời giới thiệu của biên tập: Trong số này.
-- Christopher, Joe R. và Wayne G. Hammond. Một thư mục Inklings (55).
-- DiSante, Paula. “Nhận xét của nghệ sĩ.”
+- Christopher, Joe R., and Wayne G. Hammond. An Inklings Bibliography (55).
+- DiSante, Paula. “Artist's Comment.”
 
 #### Đánh giá {#Reviews}
 

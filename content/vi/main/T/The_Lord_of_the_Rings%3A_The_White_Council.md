@@ -15,7 +15,7 @@ categories:
   - "Role-playing video games"
 ---
 
-<i><b>The Lord of the Rings: Bạch Hội Đồng</b></i> vốn là một trò chơi điện tử nhập vai đang được phát triển tại [Electronic Arts](../E/Electronic_Arts.md) Los Angeles. Nó được xây dựng dựa trên [cuốn sách](The_Lord_of_the_Rings.md) và [*The Lord of the Rings* (loạt phim)](<The_Lord_of_the_Rings_(film_series).md>) của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), tuy nhiên vào [ngày 2 tháng 2](../_/2_February.md), [2007](../_/2007.md), EA đã thông báo rằng trò chơi đã bị tạm dừng vô thời hạn và cho đến nay vẫn chưa có thêm thông tin nào được đưa ra.
+<i><b>The Lord of the Rings: The White Council</b></i> was to be a role-playing video game under development at [Electronic Arts](../E/Electronic_Arts.md) Los Angeles. It was to be based on [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)'s [book](The_Lord_of_the_Rings.md) and [*The Lord of the Rings* (film series)](<The_Lord_of_the_Rings_(film_series).md>) , however on [February 2](../_/2_February.md), [2007](../_/2007.md), EA announced that the game had been put on an indefinite hiatus, and to date no further information has been released.
 
 ## Tóm tắt {#Synopsis}
 
@@ -27,11 +27,11 @@ Thông tin chi tiết ban đầu về trò chơi bị hạn chế, nhưng trang 
 <p class="tg-quote-footer"><cite>Steve Gray</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-Đi kèm với thông báo [ngày 13 tháng 7](../_/13_July.md), [2006](../_/2006.md) là thông tin rằng vì EA tiếp tục giữ giấy phép phát triển trò chơi cho cả sách của Tolkien và bộ ba phim [New Line](../N/New_Line_Cinema.md) nên trò chơi sẽ dựa trên cả hai, như *[The Battle for Middle-earth II](../E/EA's_The_Battle_for_Middle-earth_II.md)*. Người chơi được quyền lựa chọn chơi với tư cách là [Người](../M/Man.md), [người lùn](../D/Dwarves.md), [Tiên](../E/Elves.md) hoặc [Hobbit](../H/Hobbits.md). Mục đích cuối cùng của trò chơi là trở thành một anh hùng liên minh với nhóm có ảnh hưởng trong tựa game, [Bạch Hội Đồng](../W/White_Council.md). Trò chơi ban đầu được dự định phát hành vào cuối năm 2007, trên PlayStation 3, Xbox 360 và PC.
+Đi kèm với thông báo [ngày 13 tháng 7](../_/13_July.md), [2006](../_/2006.md) là thông tin rằng vì EA tiếp tục giữ giấy phép phát triển trò chơi cho cả sách của Tolkien và bộ ba phim [New Line](../N/New_Line_Cinema.md) nên trò chơi sẽ dựa trên cả hai, như *[The Battle for Middle-earth II](../E/EA's_The_Battle_for_Middle-earth_II.md)*. Người chơi được quyền lựa chọn đóng vai [Người](../M/Man.md), [người lùn](../D/Dwarves.md), [Yêu tinh](../E/Elves.md) hoặc [Người Hobbit](../H/Hobbits.md). Mục đích cuối cùng của trò chơi là trở thành một anh hùng liên minh với nhóm có ảnh hưởng trong tựa game, [Hội đồng Trắng](../W/White_Council.md). Trò chơi ban đầu được dự định phát hành vào cuối năm 2007, trên PlayStation 3, Xbox 360 và PC.
 
 Tuy nhiên, vào [ngày 2 tháng 2](../_/2_February.md), [2007](../_/2007.md) đã có thông báo rằng trò chơi đã bị trì hoãn vô thời hạn. Điều này được cho là do vấn đề quản lý. Do đó, nó được coi là bị hủy bỏ và EA đã làm việc với Pandemia Studios để tạo ra [The Lord of the Rings: Conquest](The_Lord_of_the_Rings%253A_Conquest.md) thay thế.
 
 ## Liên kết ngoài {#External_links}
 
 - <a class="external text" href="http://www.gamespot.com/news/6165178.html" rel="noreferrer noopener" target="_blank">Thông báo hoãn</a>
-- <a class="external text" href="http://www.gamespot.com/pc/rpg/lotrwhitecouncil/index.html" rel="noreferrer noopener" target="_blank">GameSpot – LOTR: Bạch Hội Đồng</a>
+- <a class="external text" href="http://www.gamespot.com/pc/rpg/lotrwhitecouncil/index.html" rel="noreferrer noopener" target="_blank">GameSpot – LOTR: Hội đồng Trắng</a>

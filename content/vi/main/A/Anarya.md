@@ -19,7 +19,7 @@ langlinks:
     url: "https://kontu.wiki/Anarya"
 ---
 
-**Anarya** (*[anar](../S/Sun.md#Names_of_the_Sun)* = mặt trời) là [Quenya](../Q/Quenya.md) cho *Sunday*. Tuy nhiên, đó là ngày thứ hai (không phải ngày đầu tiên hay ngày cuối cùng như trong lịch hiện đại) của tuần [Eldarin](../E/Eldar.md) sáu ngày (và trong tuần [Númenórean](../N/Númenóreans.md)). Tên [Sindarin](../S/Sindarin.md) của nó là **Oranor**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
+**Anarya** (*[anar](../S/Sun.md#Names_of_the_Sun)* = mặt trời) là [Quenya](../Q/Quenya.md) cho *Sunday*. Tuy nhiên, đó là ngày thứ hai (không phải ngày đầu tiên hay ngày cuối cùng như trong lịch hiện đại) của tuần lễ sáu ngày [Eldarin](../E/Eldar.md) (và trong tuần [Númenórean](../N/Númenóreans.md)). Tên [Sindarin](../S/Sindarin.md) của nó là **Oranor**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

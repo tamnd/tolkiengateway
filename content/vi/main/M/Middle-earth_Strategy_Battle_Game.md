@@ -44,7 +44,7 @@ infobox:
 
 The **Middle-earth Strategy Battle Game** is a tabletop miniature wargame produced by [Games Workshop](../G/Games_Workshop.md) and based on [New Line Cinema](../N/New_Line_Cinema.md)'s [*Middle-earth* series](<Middle-earth_(New_Line_Cinema_series).md>), though at times it has adapted characters and scenarios from the books.
 
-Trước đây nó được gọi là **The Lord of the Rings Trò chơi chiến đấu chiến lược** khi được phát hành vào [2001](../_/2001.md) trùng với thời điểm phát hành [*The Lord of the Rings* phim](<../T/The_Lord_of_the_Rings_(film_series).md>). Một bộ mô hình thu nhỏ khác đã được sản xuất cho [*The Hobbit* phim](<../T/The_Hobbit_(film_series).md>) trong [2012](../_/2012.md) được gọi là **The Hobbit Trò chơi chiến đấu chiến lược**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Cả hai trò chơi đã được hợp nhất với nhau dưới một tên mới cùng với hướng dẫn về quy tắc mới.
+Trước đây nó được gọi là **Trò chơi chiến đấu chiến lược Chúa tể của những chiếc nhẫn** khi được phát hành vào [2001](../_/2001.md) trùng với thời điểm phát hành [*The Lord of the Rings* phim](<../T/The_Lord_of_the_Rings_(film_series).md>). Một bộ mô hình thu nhỏ khác được sản xuất cho [*The Hobbit* phim](<../T/The_Hobbit_(film_series).md>) trong [2012](../_/2012.md) được gọi là **Trò chơi chiến đấu chiến lược Hobbit**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Cả hai trò chơi được hợp nhất với nhau dưới một tên mới cùng với hướng dẫn về quy tắc mới.
 
 ## Phát triển {#Development}
 
@@ -54,23 +54,23 @@ Vào những năm 1980, Games Workshop đã sản xuất một loạt mô hình 
 
 ### Phát hành {#Release}
 
-Trò chơi ban đầu được phát hành vào năm [2001](../_/2001.md) trùng với thời điểm bộ phim *[The Fellowship of the Ring](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)*. Bộ hộp mới với các quy tắc cập nhật cũng được phát hành cho phim *[The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)* và *[The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*. Sau đó, bắt đầu với phần bổ sung *[Shadow &amp; Flame](../S/Shadow_and_Flame.md)*, Games Workshop bắt đầu thêm nội dung có trong sách gốc nhưng không có trong các bản chuyển thể phim: ví dụ:. [Tom Bombadil](../T/Tom_Bombadil.md), [Radagast](../R/Radagast.md) và [Glorfindel](../G/Glorfindel.md). Games Workshop cũng đã mở rộng giấy phép của mình với tài liệu gốc trên các lĩnh vực như [Harad](../H/Harad.md) và [Khand](../K/Khand.md), với nhiều phản ứng trái chiều. Phiên bản hoàn chỉnh gần đây nhất của các quy tắc, *[The Lord of the Rings Strategy Battle Game: Rulebook](../T/The_Lord_of_the_Rings_Strategy_Battle_Game%253A_Rulebook.md)*, được Games Workshop phát hành vào tháng Chín 2005, trong khi phiên bản thu gọn của các quy tắc đi kèm với *[Mines of Moria Boxed Set](<Mines_of_Moria_(2005_boxed_set).md>)*.
+Trò chơi ban đầu được phát hành vào năm [2001](../_/2001.md) trùng với thời điểm bộ phim *[The Fellowship of the Ring](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)*. Bộ hộp mới với các quy tắc cập nhật cũng được phát hành cho phim *[The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)* và *[The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*. Sau đó, bắt đầu với phần bổ sung *[Shadow &amp; Flame](../S/Shadow_and_Flame.md)*, Games Workshop bắt đầu thêm nội dung có trong sách gốc nhưng không có trong các bản chuyển thể phim: ví dụ:. [Tom Bombadil](../T/Tom_Bombadil.md), [Radagast](../R/Radagast.md) và [Glorfindel](../G/Glorfindel.md). Games Workshop cũng đã mở rộng giấy phép của mình với tài liệu gốc trên các lĩnh vực như [Harad](../H/Harad.md) và [Khand](../K/Khand.md), với nhiều phản ứng trái chiều. Phiên bản hoàn chỉnh gần đây nhất của các quy tắc, *[The Lord of the Rings Strategy Battle Game: Rulebook](../T/The_Lord_of_the_Rings_Strategy_Battle_Game%253A_Rulebook.md)*, được Games Workshop phát hành vào tháng 9 năm 2005, trong khi phiên bản thu gọn của các quy tắc đi kèm với *[Mines of Moria Boxed Set](<Mines_of_Moria_(2005_boxed_set).md>)*.
 
-Vào đầu [2009](../_/2009.md) Games Workshop cũng đã phát hành bản mở rộng cho trò chơi gốc có tên *[War of the Ring](<../W/War_of_the_Ring_(2009_book).md>)*, theo công ty, cho phép người chơi mô phỏng các trận chiến lớn có trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)bằng cách tinh giản hệ thống trò chơi.
+Vào đầu [2009](../_/2009.md) Games Workshop cũng đã phát hành bản mở rộng cho trò chơi gốc có tên *[War of the Ring](<../W/War_of_the_Ring_(2009_book).md>)*, theo công ty, cho phép người chơi mô phỏng các trận chiến lớn có trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) bằng cách tinh giản hệ thống trò chơi.
 
-Ngoài việc chơi game, The Lord of the Rings Trò chơi chiến đấu chiến lược còn bao gồm các yếu tố phổ biến khác của sở thích chiến tranh thu nhỏ. Chúng bao gồm việc thu thập, vẽ tranh và chuyển đổi các hình thu nhỏ được sử dụng trong trò chơi cũng như mô hình hóa địa hình trò chơi từ đầu. Những khía cạnh của sở thích này được đề cập trong *[White Dwarf](../W/White_Dwarf.md)*hàng tháng của Games Workshop, cũng như trước đây trong *[Battle Games in Middle-earth](../B/Battle_Games_in_Middle-earth.md)*hai tuần một lần.
+Ngoài việc chơi game, Trò chơi chiến đấu chiến lược Chúa tể của những chiếc nhẫn còn bao gồm các yếu tố phổ biến khác của sở thích chiến tranh thu nhỏ. Chúng bao gồm việc thu thập, vẽ tranh và chuyển đổi các hình thu nhỏ được sử dụng trong trò chơi cũng như mô hình hóa địa hình trò chơi từ đầu. Những khía cạnh của sở thích này được đề cập trong *[White Dwarf](../W/White_Dwarf.md)* hàng tháng của Games Workshop, cũng như trước đây trong *[Battle Games in Middle-earth](../B/Battle_Games_in_Middle-earth.md)* hai tuần một lần.
 
 ### Giấy phép hiện tại {#Current_licensing}
 
-Dòng sản phẩm Chúa tể của những chiếc nhẫn hiện tại bắt nguồn từ quyền của Games Workshop từ [Trung Địa Enterprises](Middle-earth_Enterprises.md) để sản xuất trò chơi chiến tranh giao tranh dựa trên các bộ phim cũng như trên *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* và *[The Hobbit](../T/The_Hobbit.md)* sách ở quy mô thu nhỏ 25 mm.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 1]</a></sup> (Quyền sản xuất phiên bản trò chơi nhập vai của các bộ phim đã được bán cho một công ty khác, [Decipher, Inc.](../D/Decipher,_Inc..md)) Họ cũng có quyền sản xuất một trò chơi cờ bàn dựa trên trên The Hobbit, được gọi là *[The Battle of Five Armies](<../T/The_Battle_of_Five_Armies_(2005_board_game).md>)*, sử dụng các mô hình thu nhỏ nhỏ hơn để diễn ra các trận chiến lớn hơn.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup>
+Dòng sản phẩm Chúa tể của những chiếc nhẫn hiện tại bắt nguồn từ quyền của Games Workshop từ [Doanh nghiệp Trung Địa](Middle-earth_Enterprises.md) để sản xuất trò chơi chiến tranh giao tranh dựa trên các bộ phim cũng như trên *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* và *[The Hobbit](../T/The_Hobbit.md)* sách ở quy mô thu nhỏ 25mm.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 1]</a></sup> (Quyền sản xuất phiên bản trò chơi nhập vai của các bộ phim đã được bán cho một công ty khác, [Decipher, Inc.](../D/Decipher,_Inc..md)) Họ cũng có quyền sản xuất một trò chơi cờ bàn dựa trên trên The Hobbit, được gọi là *[The Battle of Five Armies](<../T/The_Battle_of_Five_Armies_(2005_board_game).md>)*, sử dụng các mô hình thu nhỏ nhỏ hơn để diễn ra các trận chiến lớn hơn.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup>
 
-Games Workshop chưa giành được quyền đối với *[The Silmarillion](../T/The_Silmarillion.md)*, vốn vẫn là tài sản độc quyền của [Tolkien Estate](../T/Tolkien_Estate.md), nhưng có quyền phát triển tài sản trí tuệ phái sinh của riêng mình để lấp đầy những khoảng trống trong [huyền thoại](../L/Legendarium.md) của Tolkien. Điều này đặc biệt đúng với [Harad](../H/Harad.md), có nhiều địa điểm được phát minh (chẳng hạn như "Kârna", "Badharkân", "Hidâr", "Nâfarat", "Abrakân" và "Dhâran-sar"<sup id="cite_ref-BOPF_5-0" class="reference"><a href="#cite_note-BOPF-5">[4]</a></sup>) và các ký tự (chẳng hạn như Hasharin<sup id="cite_ref-BOPF_5-1" class="reference"><a href="#cite_note-BOPF-5">[4]</a></sup> và "Dalamyr, Fleetmaster của Umbar"<sup id="cite_ref-LOME_6-0" class="reference"><a href="#cite_note-LOME-6">[5]</a></sup>).
+Games Workshop chưa có được quyền đối với *[The Silmarillion](../T/The_Silmarillion.md)*, vốn vẫn là tài sản độc quyền của [Tolkien Estate](../T/Tolkien_Estate.md), nhưng có quyền phát triển tài sản trí tuệ phái sinh của riêng mình để lấp đầy những khoảng trống trong [huyền thoại](../L/Legendarium.md) của Tolkien. Điều này đặc biệt đúng với [Harad](../H/Harad.md), nơi có nhiều địa điểm được phát minh ra (chẳng hạn như "Kârna", "Badharkân", "Hidâr", "Nâfarat", "Abrakân" và "Dhâran-sar"<sup id="cite_ref-BOPF_5-0" class="reference"><a href="#cite_note-BOPF-5">[4]</a></sup>) và các ký tự (chẳng hạn như Hasharin<sup id="cite_ref-BOPF_5-1" class="reference"><a href="#cite_note-BOPF-5">[4]</a></sup> và "Dalamyr, Fleetmaster of Umbar"<sup id="cite_ref-LOME_6-0" class="reference"><a href="#cite_note-LOME-6">[5]</a></sup>).
 
 ## Sản phẩm {#Products}
 
 ### Sách và tạp chí {#Books_and_magazines}
 
-<small><i>Xem thêm <a href="../W/White_Dwarf.md" title="White Dwarf">Trắng Người lùn</a></i></small>
+<small><i>Xem thêm <a href="../W/White_Dwarf.md" title="White Dwarf">Người lùn trắng</a></i></small>
 
 - [2001](../_/2001.md): *[The Fellowship of the Ring](../T/The_Lord_of_the_Rings_Strategy_Battle_Game%253A_The_Fellowship_of_the_Ring.md)* (sách nội quy)
 - [2002](../_/2002.md): *[The Fellowship of the Ring: The Best of White Dwarf Magazine](../T/The_Fellowship_of_the_Ring%253A_The_Best_of_White_Dwarf_Magazine.md)*
@@ -94,9 +94,9 @@ Games Workshop chưa giành được quyền đối với *[The Silmarillion](..
 - [2008](../_/2008.md): *[Harad](<../H/Harad_(book).md>)*
 - [2009](../_/2009.md): *[War of the Ring](<../W/War_of_the_Ring_(2009_book).md>)*
 - [2010](../_/2010.md): *[War of the Ring: Battlehosts](../W/War_of_the_Ring%253A_Battlehosts.md)*
-- [2012](../_/2012.md): *The Hobbit: An Unexpected Journey Trò chơi chiến đấu chiến lược*
-- [2013](../_/2013.md): *The Hobbit: The Desolation of Smaug Trò chơi chiến đấu chiến lược*
-- [2014](../_/2014.md): *The Hobbit: The Battle of the Five Armies Trò chơi chiến đấu chiến lược*
+- [2012](../_/2012.md): *The Hobbit: Trò chơi chiến đấu chiến lược hành trình bất ngờ*
+- [2013](../_/2013.md): *Trò chơi chiến đấu chiến lược The Hobbit: Sự tàn phá của Smaug*
+- [2014](../_/2014.md): *Trò chơi chiến lược The Hobbit: Trận chiến của năm đội quân*
 - [2018](../_/2018.md): *Middle-earth Strategy Battle Game: Rules Manual*
 - [2018](../_/2018.md): *Armies of The Hobbit*
 - [2018](../_/2018.md): *Battle Companies (1st Edition)*
@@ -104,28 +104,28 @@ Games Workshop chưa giành được quyền đối với *[The Silmarillion](..
 - [2019](../_/2019.md): *Battle Companies (2nd Edition)*
 - [2019](../_/2019.md): *Scouring of the Shire*
 - [2019](../_/2019.md): *War in Rohan*
-- [2019](../_/2019.md): *Quân đội của The Lord of the Rings*
-- [2020](../_/2020.md): *Trung Địa Trò chơi chiến đấu chiến lược: Hướng dẫn chơi phù hợp*
+- [2019](../_/2019.md): *Đội quân của Chúa tể những chiếc nhẫn*
+- [2020](../_/2020.md): *Trò chơi chiến đấu chiến lược Trung Địa: Hướng dẫn chơi phù hợp*
 - [2020](../_/2020.md): *Quest of the Ringbearer*
 - [2020](../_/2020.md): *The Best of White Dwarf Magazine*
 - [2021](../_/2021.md): *Fall of the Necromancer*
 - [2022](../_/2022.md): *Defence of the North*
 - [2024](../_/2024.md): *Rise of Angmar*
-- [2024](../_/2024.md): *Cuộc chiến Rohirrim: Trận chiến Edoras*
+- [2024](../_/2024.md): *Cuộc chiến của người Rohirrim: Trận chiến Edoras*
 
 ## Xem thêm {#See_also}
 
-- [Hình ảnh từ The Lord of the Rings Trò chơi chiến đấu chiến lược](../../category/I/Images_of_SBG_miniatures.md)
-- [Hình ảnh từ The Hobbit Trò chơi chiến đấu chiến lược](../../category/I/Images_from_The_Hobbit_Strategy_Battle_Game.md)
+- [Hình ảnh từ Trò chơi chiến đấu chiến lược Chúa tể của những chiếc nhẫn](../../category/I/Images_of_SBG_miniatures.md)
+- [Hình ảnh từ Trò chơi chiến đấu chiến lược Hobbit](../../category/I/Images_from_The_Hobbit_Strategy_Battle_Game.md)
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="https://middle-earthstrategybattlegame.com/" rel="noreferrer noopener" target="_blank">Trung Địa Trò chơi chiến đấu chiến lược</a>
+- <a class="external text" href="https://middle-earthstrategybattlegame.com/" rel="noreferrer noopener" target="_blank">Trò chơi chiến đấu chiến lược Trung Địa</a>
 
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Lưu ý rằng những hình này là 25 mm chứ không phải những hình 28 mm phổ biến hơn hiện nay (<a class="external text" href="https://web.archive.org/web/20100410115901/http://www.io.com/~beckerdo/minis/mini28/LotRMoria/" rel="noreferrer noopener" target="_blank"><i>Vẽ tranh Chúa tể của những chiếc nhẫn của Moria Trò chơi</i></a>, truy cập ngày 17 tháng 1 năm 2023).</span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Lưu ý rằng những hình này là 25 mm chứ không phải những hình 28 mm phổ biến hơn hiện nay (<a class="external text" href="https://web.archive.org/web/20100410115901/http://www.io.com/~beckerdo/minis/mini28/LotRMoria/" rel="noreferrer noopener" target="_blank"><i>Vẽ tranh Chúa tể của những chiếc nhẫn Mines of Moria Game</i></a>, truy cập ngày 17 tháng 1 năm 2023).</span>
 </li>
 </ol></div></span>
 

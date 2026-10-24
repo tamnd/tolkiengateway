@@ -16,14 +16,14 @@ categories:
 
 <i><b>nelya</b></i> là tính từ [Quenya](../Q/Quenya.md) có nghĩa là "thứ ba". Dạng số nhiều của nó là *nelyë*.
 
-Là một danh từ riêng, nó mô tả một trong những [Nelyar](Nelyar.md)—những [Tiên tộc](../E/Elves.md) ban đầu mà sau này trở thành [Teleri](../T/Teleri.md) sau khi chúng bắt đầu [Cuộc diễu hành vĩ đại](../G/Great_March.md).
+Là một danh từ riêng, nó mô tả một trong những [Nelyar](Nelyar.md)—những [Yêu tinh](../E/Elves.md) ban đầu mà sau này trở thành [Teleri](../T/Teleri.md) sau khi họ bắt đầu [Great March](../G/Great_March.md).
 
 ## Ví dụ {#Examples}
 
-- [Nelyafinwë](Nelyafinwë.md) = Thứ ba Finwë
+- [Nelyafinwë](Nelyafinwë.md) = Phần thứ ba
 
 <span></span>
 
 ## Tài liệu tham khảo {#References}
 
-- <a class="external text" href="http://www.uib.no/People/hnohf/qlist.htm" rel="noreferrer noopener" target="_blank">Quenya Danh sách từ ngữ Corpus</a> được biên soạn bởi [Helge Fauskanger](../H/Helge_Fauskanger.md)
+- <a class="external text" href="http://www.uib.no/People/hnohf/qlist.htm" rel="noreferrer noopener" target="_blank">Danh sách từ Quenya Corpus</a> do [Helge Fauskanger biên soạn](../H/Helge_Fauskanger.md)

@@ -52,19 +52,19 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Road_Goes_Ever_On_(1968).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/d5/The_Road_Goes_Ever_On_%281968%29.jpg/320px-The_Road_Goes_Ever_On_%281968%29.jpg" decoding="async" loading="lazy" width="320" height="402" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/d5/The_Road_Goes_Ever_On_%281968%29.jpg/480px-The_Road_Goes_Ever_On_%281968%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/d/d5/The_Road_Goes_Ever_On_%281968%29.jpg/640px-The_Road_Goes_Ever_On_%281968%29.jpg 2x" data-file-width="804" data-file-height="1011"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Road Goes Ever On:<br/><small>A Song Cycle</small></span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../D/Donald_Swann.md" title="Donald Swann">Donald Swann</a></td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data">J.R.R. Tolkien</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a class="mw-redirect" href="../G/George_Allen_and_Unwin.md" title="George Allen and Unwin">George Allen and Unwin</a> (UK)<br/><a class="mw-redirect" href="../H/Houghton_Mifflin.md" title="Houghton Mifflin">Houghton Mifflin</a> (US)</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/31_October.md" title="31 October">31 October</a> <a href="../_/1967.md" title="1967">1967</a> (US)<br/><a href="../_/28_March.md" title="28 March">28 March</a> <a href="../_/1968.md" title="1968">1968</a> (UK)</td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Hardcover; paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">80</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0047840099" title="Special:BookSources/0047840099">0047840099</a></td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="../P/Poems_and_Songs_of_Middle_Earth.md" title="Poems and Songs of Middle Earth">Poems and Songs of Middle Earth</a> {1967)</td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="../B/Bilbo&#39;s_Last_Song_(at_the_Grey_Havens).md" title="Bilbo&#39;s Last Song (at the Grey Havens)">Bilbo&#39;s Last Song (at the Grey Havens)</a> {1974)</td></tr></tbody></table>
 
-<i><b>The Road Goes Ever On: A Song Cycle</b></i> là một tập sách nhạc, thơ của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), nhạc của [Donald Swann](../D/Donald_Swann.md).
+<i><b>The Road Goes Ever On: A Song Cycle</b></i> là một cuốn sách gồm các bản nhạc, thơ của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), nhạc của [Donald Swann](../D/Donald_Swann.md).
 
-Ấn bản đầu tiên được xuất bản trong [1967](../_/1967.md), gồm sáu bài thơ từ *[The Lord of the Rings](The_Lord_of_the_Rings.md)* và một bài từ *[The Adventures of Tom Bombadil](The_Adventures_of_Tom_Bombadil.md)*. Trong cuốn sách có ghi chú và bản dịch của chính Tolkien trên hai văn bản Elvish: "[Namárië](../N/Namárië.md)" và "[A Elbereth Gilthoniel](../A/A_Elbereth_Gilthoniel.md)", do đó đây cũng là một tài liệu quan trọng về bảng thuật ngữ và truyền thuyết về [Elvish](../E/Elvish.md).
+Ấn bản đầu tiên được xuất bản trong [1967](../_/1967.md), gồm sáu bài thơ từ *[The Lord of the Rings](The_Lord_of_the_Rings.md)* và một bài từ *[The Adventures of Tom Bombadil](The_Adventures_of_Tom_Bombadil.md)*. Trong cuốn sách có ghi chú và bản dịch của chính Tolkien về hai văn bản Tiên: "[Namárië](../N/Namárië.md)" và "[A Elbereth Gilthoniel](../A/A_Elbereth_Gilthoniel.md)", do đó đây cũng là một tài liệu quan trọng về bảng thuật ngữ và truyền thuyết về [Elvish](../E/Elvish.md).
 
-Ấn bản thứ hai được phát hành vào năm [1978](../_/1978.md), bổ sung thêm "Bài hát cuối cùng của [Bilbo](../B/Bilbo's_Last_Song.md)"; trong lời tựa Swann kể lại những lần hợp tác với J.R.R. Tolkien; và tái bản lần thứ ba trong [2002](../_/2002.md), có thêm bài thơ "[Lúthien Tinúviel](../S/Song_of_Parting.md)" từ *[The Silmarillion](The_Silmarillion.md)*.
+Ấn bản thứ hai được phát hành vào năm [1978](../_/1978.md), bổ sung thêm "[Bài hát cuối cùng của Bilbo](../B/Bilbo's_Last_Song.md)"; trong lời tựa Swann kể lại những lần hợp tác với J.R.R. Tolkien; và tái bản lần thứ ba trong [2002](../_/2002.md), có thêm bài thơ “[Lúthien Tinúviel](../S/Song_of_Parting.md)” từ *[The Silmarillion](The_Silmarillion.md)*.
 
-Ấn bản thứ ba, sau một thời gian dài hết bản in, cuối cùng đã được tái bản vào tháng Chín năm 2023 và đã có trở lại.
+Ấn bản thứ ba, sau khi hết bản in từ lâu, cuối cùng đã được tái bản vào tháng 9 năm 2023 và đã có sẵn trở lại.
 
 ## Tổng quan {#Overview}
 
-Cuốn sách này được đánh giá cao ngay cả với những người không quan tâm đến âm nhạc, vì nó giúp độc giả của Tolkien hiểu rõ hơn về văn hóa của các sinh vật thần thoại khác nhau được trình bày trong [Trung Địa](../M/Middle-earth.md) và giúp các nhà ngôn ngữ học phân tích thơ của Tolkien. Ngoài các bài thơ, nốt nhạc và bản dịch, Tolkien còn đóng góp các trang trí dưới dạng chữ [Elvish](../E/Elvish.md) ở đầu và cuối mỗi trang của bản nhạc, và các đoạn nối ở khoảng trống ở cuối bài thơ.
+Cuốn sách này được đánh giá cao ngay cả với những người không quan tâm đến âm nhạc, vì nó giúp độc giả của Tolkien hiểu rõ hơn về văn hóa của các sinh vật thần thoại khác nhau được trình bày ở [Trung Địa](../M/Middle-earth.md) và giúp các nhà ngôn ngữ học phân tích thơ của Tolkien. Ngoài các bài thơ, ghi chú và bản dịch, Tolkien còn đóng góp phần trang trí dưới dạng chữ viết [Elvish](../E/Elvish.md) ở đầu và cuối mỗi trang của bản nhạc cũng như các đoạn nối ở khoảng trống ở cuối bài thơ.
 
-Cuốn sách chứa một trong những mẫu ngôn ngữ [Quenya](../Q/Quenya.md) dài nhất, dưới dạng bài hát "*[Namárië](../N/Namárië.md)*" (xuất hiện trên bìa trong [Tengwar](Tengwar.md)), cũng như Sindarin lời cầu nguyện "*[A Elbereth Gilthoniel](../A/A_Elbereth_Gilthoniel.md)*" với các giải thích ngữ pháp. Ghi chú của Tolkien trong cuốn sách cung cấp thông tin về [Kỷ Đệ Nhất](../F/First_Age.md) của Trung Địa không được công bố rộng rãi cho đến khi xuất bản *[The Silmarillion](The_Silmarillion.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Cuốn sách chứa một trong những mẫu ngôn ngữ [Quenya](../Q/Quenya.md) dài nhất, dưới dạng bài hát "*[Namárië](../N/Namárië.md)*" (xuất hiện trên bìa trong [Tengwar](Tengwar.md)), cũng như lời cầu nguyện tiếng Sindarin "*[A Elbereth Gilthoniel](../A/A_Elbereth_Gilthoniel.md)*" kèm theo giải thích ngữ pháp. Các ghi chú của Tolkien trong cuốn sách cung cấp thông tin về [Thời kỳ đầu tiên](../F/First_Age.md) của Trung Địa mà không được công bố rộng rãi cho đến khi xuất bản *[The Silmarillion](The_Silmarillion.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Nội dung {#Contents}
 
@@ -72,21 +72,21 @@ Cuốn sách chứa một trong những mẫu ngôn ngữ [Quenya](../Q/Quenya.m
 - *Foreword by Donald Swann*
 - *Foreword to the Third edition*
 
-- 1\. [The Road Goes Ever On](<The_Road_Goes_Ever_On_(song).md>)
+- 1\. [Con đường vẫn tiếp tục](<The_Road_Goes_Ever_On_(song).md>)
 - 2\. [Trên lò sưởi lửa đỏ](../U/Upon_the_Hearth_the_Fire_is_Red.md)
 - 3\. [Trong đồng cỏ liễu ở Tasarinan](../I/In_the_Willow-meads_of_Tasarinan.md)
 - 4\. [Ở vùng đất phương Tây](../I/In_Western_Lands_beneath_the_Sun.md)
 - 5\. [Namárië (Tạm biệt)](../N/Namárië.md)
 - 6\. [Tôi ngồi bên đống lửa](../I/I_Sit_beside_the_Fire_and_Think.md)
 - 7\. [Lỗi](../E/Errantry.md)
-- 8\. Bài hát cuối cùng của [Bilbo](<../B/Bilbo's_Last_Song_(at_the_Grey_Havens).md>)
+- 8\. [Bài hát cuối cùng của Bilbo](<../B/Bilbo's_Last_Song_(at_the_Grey_Havens).md>)
 
 - <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Notes_and_Translations&amp;action=edit&amp;redlink=1" title="Notes and Translations (page does not exist)">Ghi chú và bản dịch</a></i>
 
 - Phụ lục
     - 9\. [Lúthien Tinúviel](../S/Song_of_Parting.md)
 
-Một đĩa CD được phát hành với ấn bản thứ ba, bao gồm tập bài hát do Donald Swann, William Elvin và Clive McCrombie trình bày.
+Một đĩa CD được phát hành cùng với ấn bản thứ ba, bao gồm các bài hát được trình bày bởi Donald Swann, William Elvin và Clive McCrombie.
 
 <figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Road_Goes_Ever_On_tailpiece.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/72/The_Road_Goes_Ever_On_tailpiece.jpg/400px-The_Road_Goes_Ever_On_tailpiece.jpg" decoding="async" loading="lazy" width="400" height="59" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/72/The_Road_Goes_Ever_On_tailpiece.jpg/600px-The_Road_Goes_Ever_On_tailpiece.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/7/72/The_Road_Goes_Ever_On_tailpiece.jpg/800px-The_Road_Goes_Ever_On_tailpiece.jpg 2x" data-file-width="823" data-file-height="121"/></a><figcaption>A decorative tailpiece in the book</figcaption></figure>
 
@@ -141,8 +141,8 @@ Một đĩa CD được phát hành với ấn bản thứ ba, bao gồm tập b
 		</li>
 </ul>
 
-- [Ballantine Books](../B/Ballantine_Books.md), bìa cứng không có áo khoác ([1968](../_/1968.md)), trang 80. PBN 74550
-- [Ballantine Books](../B/Ballantine_Books.md), bìa mềm ([1975](../_/1975.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0345247337">ISBN 0345247337</a>
+- [Sách Ballantine](../B/Ballantine_Books.md), bìa cứng không bìa ([1968](../_/1968.md)), trang 80. PBN 74550
+- [Sách Ballantine](../B/Ballantine_Books.md), bìa mềm ([1975](../_/1975.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0345247337">ISBN 0345247337</a>
 
 ## Liên kết ngoài {#External_links}
 

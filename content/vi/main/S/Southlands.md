@@ -11,4 +11,4 @@ redirect_target: "Mordor"
 redirect_fragment: "Portrayal in adaptations"
 ---
 
-Chuyển hướng đến [Mordor](../M/Mordor.md#Portrayal_in_adaptations).
+Chuyển hướng tới [Mordor](../M/Mordor.md#Portrayal_in_adaptations).

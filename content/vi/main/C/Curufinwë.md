@@ -47,9 +47,9 @@ images:
 </tbody></table>
 </div>
 
-**Curufinwë** là [tên cha](../F/Father-name.md) của [Noldorin Tiên](../N/Noldor.md) [Fëanor](../F/Fëanor.md). Nó bao gồm danh từ *[curu](Curu.md)* ("kỹ năng") gắn liền với tên *[Finwë](../F/Finwë.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Curufinwë** là [tên cha](../F/Father-name.md) của [Yêu tinh Noldorin](../N/Noldor.md) [Fëanor](../F/Fëanor.md). Nó bao gồm danh từ *[curu](Curu.md)* ("kỹ năng") gắn liền với tên *[Finwë](../F/Finwë.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Fëanor ban đầu được gọi là *Finwion* ("con traiFinwë"), nhưng khi anh sớm thể hiện tài năng của mình thì được đổi thành *Curufinwë*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Tên này cũng được đặt cho con trai ông [Curufin](Curufin.md), tên [Sindarin](../S/Sindarin.md) là dạng rút gọn. Dạng viết tắt là <i><b>Curvo</b></i>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Fëanor lần đầu tiên được gọi là *Finwion* ("con trai của Finwë"), nhưng khi anh sớm thể hiện tài năng của mình thì nó được đổi thành *Curufinwë*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Tên này cũng được đặt cho con trai ông [Curufin](Curufin.md), tên [Sindarin](../S/Sindarin.md) là một dạng cô đọng. Dạng viết tắt là <i><b>Curvo</b></i>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

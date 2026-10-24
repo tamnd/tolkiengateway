@@ -28,7 +28,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"[Anh ấy](../../main/S/Smaug.md) nổi lên trong lửa và đi về phía nam tới [Sông Chảy](../../main/R/River_Running.md)." bởi [Alan Lee](../../main/A/Alan_Lee.md). Minh họa từ *[The Hobbit](../../main/T/The_Hobbit.md)*.
+"[Ông](../../main/S/Smaug.md) nổi lên trong lửa và đi về phía nam tới [Sông Chảy](../../main/R/River_Running.md)." của [Alan Lee](../../main/A/Alan_Lee.md). Minh họa từ *[The Hobbit](../../main/T/The_Hobbit.md)*.
 
 ## Giấy phép {#Licensing}
 

@@ -14,4 +14,4 @@ sort_keys:
   "Images by artist": "Cross, Tom"
 ---
 
-Danh mục này liệt kê tất cả **hình ảnh theo [Tom Cross](../../main/T/Tom_Cross.md)**.
+Thể loại này liệt kê tất cả **hình ảnh của [Tom Cross](../../main/T/Tom_Cross.md)**.

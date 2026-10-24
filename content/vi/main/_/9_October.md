@@ -72,7 +72,7 @@ Sự kiện xảy ra vào ngày 9 tháng 10
 - **[1968](1968.md)** - Nhà viết game video [František Fuka](../F/František_Fuka.md) ra đời.
 - **[1979](1979.md)** - Tập *[Jackanory](../J/Jackanory.md)* "Thông tin nội bộ" được phát sóng trên [BBC](../B/BBC.md).
 - **[1982](1982.md)** - Tập thứ mười ba - và cũng là tập cuối cùng - của phiên bản mới của [loạt phim phát thanh năm 1981](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* được phát sóng trên [BBC Radio 4](../B/BBC.md).
-- **[2004](2004.md)** - [Bản giao hưởng Chúa tể của những chiếc nhẫn](../T/The_Lord_of_the_Rings_Symphony.md) tại Nhà hát Thính phòng ở <a class="extiw" href="http://en.wikipedia.org/wiki/Chicago" title="wikipedia:Chicago">Chicago</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Illinois" title="wikipedia:Illinois">Illinois</a>.
+- **[2004](2004.md)** - [The Lord of the Rings Symphony](../T/The_Lord_of_the_Rings_Symphony.md) tại Nhà hát Thính phòng ở <a class="extiw" href="http://en.wikipedia.org/wiki/Chicago" title="wikipedia:Chicago">Chicago</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Illinois" title="wikipedia:Illinois">Illinois</a>.
 - **[2010](2010.md)** - Mereth Oronnad của Hiệp hội Tolkien Chile.
 - **[2014](2014.md)** - [*The Adventures of Tom Bombadil* (phiên bản mở rộng)](../T/The_Adventures_of_Tom_Bombadil.md#Expanded_edition) được xuất bản.
 - **[2017](2017.md)** - Quá trình quay phim bắt đầu vào [*Tolkien* (phim)](<../T/Tolkien_(film).md>), do [Dome Karukoski](../D/Dome_Karukoski.md) đạo diễn và [David Gleeson](../D/David_Gleeson.md) viết kịch bản.
@@ -80,7 +80,7 @@ Sự kiện xảy ra vào ngày 9 tháng 10
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - Với [Frodo](../F/Frodo_Baggins.md) bị thương nặng, [Strider](../A/Aragorn.md) và [bốn hobbit](../T/Travellers.md) di chuyển chậm về phía [Rivendell](../R/Rivendell.md).
-    - [Glorfindel](../G/Glorfindel.md) và High Elves khác rời khỏi [Rivendell](../R/Rivendell.md) để tìm kiếm [Người Mang Nhẫn](../F/Frodo_Baggins.md).
-    - [Gandalf](../G/Gandalf.md) lao về phía [Rivendell](../R/Rivendell.md) sau khi [Kỵ sĩ Đen](../N/Nazgûl.md) tấn công anh ta vào [Weathertop](../W/Weathertop.md).
+    - Với [Frodo](../F/Frodo_Baggins.md) bị thương nặng, [Strider](../A/Aragorn.md) và [bốn hobbit](../T/Travellers.md) di chuyển chậm rãi về phía [Rivendell](../R/Rivendell.md).
+    - [Glorfindel](../G/Glorfindel.md) và các High Elves khác rời [Rivendell](../R/Rivendell.md) để tìm kiếm [Người mang chiếc nhẫn](../F/Frodo_Baggins.md).
+    - [Gandalf](../G/Gandalf.md) vội vã tiến về [Rivendell](../R/Rivendell.md) sau khi [Kỵ sĩ áo đen](../N/Nazgûl.md) tấn công ông ta trên [Weathertop](../W/Weathertop.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.

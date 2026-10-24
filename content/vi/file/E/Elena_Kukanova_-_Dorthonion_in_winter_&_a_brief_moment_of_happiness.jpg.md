@@ -28,7 +28,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"*[Andreth](../../main/A/Andreth.md) and [Aegnor](../../main/A/Aegnor.md) are skating*", bởi [Elena Kukanova](../../main/E/Elena_Kukanova.md)
+"*[Andreth](../../main/A/Andreth.md) and [Aegnor](../../main/A/Aegnor.md) are skating*", của [Elena Kukanova](../../main/E/Elena_Kukanova.md)
 
 ## Giấy phép {#Licensing}
 

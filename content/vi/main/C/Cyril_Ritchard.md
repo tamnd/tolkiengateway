@@ -20,7 +20,7 @@ sort_keys:
   "The Hobbit (1977 film) cast": "Ritchard, Cyril"
 ---
 
-**Cyril Ritchard** (1898 – 1977) là một diễn viên và đạo diễn kỳ cựu. Anh ấy là người lồng tiếng cho [Elrond](../E/Elrond.md) trong phiên bản hoạt hình [Rankin/Bass](../R/Rankin%252FBass.md) của *[The Hobbit](<../T/The_Hobbit_(1977_film).md>)*.
+**Cyril Ritchard** (1898 – 1977) là một diễn viên và đạo diễn kỳ cựu. Ông là người lồng tiếng cho [Elrond](../E/Elrond.md) trong phiên bản hoạt hình [Rankin/Bass](../R/Rankin%252FBass.md) của *[The Hobbit](<../T/The_Hobbit_(1977_film).md>)*.
 
 ## Liên kết ngoài {#External_links}
 

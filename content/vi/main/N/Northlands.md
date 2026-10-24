@@ -21,7 +21,7 @@ images:
 
 **Northlands** là một thuật ngữ mơ hồ để chỉ các vùng đất phía bắc [Beleriand](../B/Beleriand.md), bao gồm [Ard-galen](../A/Ard-galen.md)/[Anfauglith](../A/Anfauglith.md), [Ered Engrin](../I/Iron_Mountains.md), và có thể cả [Hithlum](../H/Hithlum.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Sau khi Beleriand chìm bên dưới [Biển](../B/Belegaer.md), "Northlands" được sử dụng rộng rãi hơn cho các khu vực phía bắc của [Trung Địa](../M/Middle-earth.md), chẳng hạn như [Forodwaith](Northern_Waste.md).<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup>
+Sau khi Beleriand chìm dưới [Biển](../B/Belegaer.md), "Northlands" được sử dụng rộng rãi hơn cho các khu vực phía bắc của [Trung địa](../M/Middle-earth.md), chẳng hạn như [Forodwaith](Northern_Waste.md).<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup>
 
 <span></span>
 

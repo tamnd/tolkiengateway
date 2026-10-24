@@ -40,27 +40,27 @@ images:
 <p class="tg-quote-footer"><cite><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a><sup id="cite_ref-tWR_1-0" class="reference"><a href="#cite_note-tWR-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-"**Những thứ không tên**" là những thực thể đang gặm nhấm được [Gandalf](../G/Gandalf.md) cho rằng ẩn sâu bên dưới [Arda](../A/Arda.md) mà ngay cả [Người Lùn](../D/Dwarves.md) cũng chưa từng có cơ hội chạm tới chúng.<sup id="cite_ref-tWR_1-1" class="reference"><a href="#cite_note-tWR-1">[1]</a></sup>
+"**Những thứ không tên**" là những thực thể đang gặm nhấm được [Gandalf](../G/Gandalf.md) cho rằng cư trú sâu bên dưới [Arda](../A/Arda.md) mà ngay cả [Người lùn](../D/Dwarves.md) cũng không có cơ hội chạm trán chúng.<sup id="cite_ref-tWR_1-1" class="reference"><a href="#cite_note-tWR-1">[1]</a></sup>
 
 ## Lịch sử {#History}
 
-Gandalf tuyên bố rằng những thứ không tên này trong Arda đã cũ hơn [Sauron](../S/Sauron.md), cho thấy rằng chúng còn sống trước khi một số [Maiar](../M/Maiar.md) đến Arda.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 1]</a></sup>
+Gandalf tuyên bố rằng những sinh vật không tên này dưới thời Arda có niên đại lâu đời hơn [Sauron](../S/Sauron.md), cho thấy rằng chúng còn sống trước khi một số [Maiar](../M/Maiar.md) đến Arda.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 1]</a></sup>
 
-Những thực thể như vậy được cho là "nhầy nhụa hơn cá" và thích sống trong bóng tối. Người ta biết rằng họ đã sinh sống trong các hang động sâu trong lòng núi từ thời [Ngày của Người cao tuổi](../E/Elder_Days.md). Khi [Orc của Dãy Núi Sương Mù](../O/Orcs_of_the_Misty_Mountains.md) đào xung quanh [Thị trấn Yêu Tinh](../G/Goblin-town.md), đào các đường hầm mới, mở rộng và nối các đường hầm đã tồn tại, chủ sở hữu ban đầu của chúng đã rút lui xuống vực sâu nhất và ẩn nấp ngoài tầm hiểu biết của họ.<sup id="cite_ref-Riddles_3-0" class="reference"><a href="#cite_note-Riddles-3">[2]</a></sup>
+Những thực thể như vậy được cho là "nhầy nhụa hơn cá" và thích sống trong bóng tối. Người ta biết rằng họ đã sinh sống trong các hang động sâu trong lòng núi từ thời [Ngày của Người cao tuổi](../E/Elder_Days.md). Khi [Orc ở Dãy núi Sương mù](../O/Orcs_of_the_Misty_Mountains.md) đào quanh [Thị trấn yêu tinh](../G/Goblin-town.md), đào những đường hầm mới, mở rộng và nối những đường hầm đã tồn tại, chủ sở hữu ban đầu của chúng đã rút lui xuống vực sâu nhất và ẩn nấp ngoài tầm hiểu biết của họ.<sup id="cite_ref-Riddles_3-0" class="reference"><a href="#cite_note-Riddles-3">[2]</a></sup>
 
-Theo Gandalf, [Tai họa của Durin](../D/Durin's_Bane.md) đã học cách định hướng các đường hầm của những thứ không tên trong thời gian dài ở [Moria](../M/Moria.md). Sau khi cả hai rơi từ [Cầu Khazad-dûm](../B/Bridge_of_Khazad-dûm.md) xuống một hồ nước ngầm, [Balrog](../B/Balrogs.md) đã bỏ trốn qua những đường hầm này. Gandalf theo đuổi nó chặt chẽ, tin rằng kiến ​​thức của nó về đường hầm là hy vọng trốn thoát duy nhất của anh ta. Cuộc rượt đuổi của họ đã dẫn họ đến chân [Cầu thang vô tận](../E/Endless_Stair.md), nơi họ leo lên và cuối cùng lên đến đỉnh [Zirakzigil](../C/Celebdil.md).<sup id="cite_ref-tWR_1-2" class="reference"><a href="#cite_note-tWR-1">[1]</a></sup>
+Theo Gandalf, [Durin's Bane](../D/Durin's_Bane.md) đã học cách định hướng các đường hầm của những thứ không tên trong thời gian dài ở [Moria](../M/Moria.md). Sau khi cả hai rơi từ [Cầu Khazad-dûm](../B/Bridge_of_Khazad-dûm.md) xuống một hồ nước ngầm, [Balrog](../B/Balrogs.md) đã chạy trốn qua những đường hầm này. Gandalf đuổi theo nó rất chặt chẽ, tin rằng kiến ​​thức của nó về đường hầm là hy vọng trốn thoát duy nhất của ông. Cuộc rượt đuổi của họ đã dẫn họ đến chân [Cầu thang vô tận](../E/Endless_Stair.md), nơi họ leo lên và cuối cùng lên đến đỉnh [Zirakzigil](../C/Celebdil.md).<sup id="cite_ref-tWR_1-2" class="reference"><a href="#cite_note-tWR-1">[1]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Ở *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*, [Nan Dumgorthin](Nan_Dungortheb.md), "Vùng đất của những thần tượng đen tối" (*dum* 'bí mật, không được nói ra', *dumgort*, *dungort* 'một thần tượng (ác quỷ)'), là một vùng đất rừng rậm nằm ở phía đông của [Artanor](../D/Doriath.md) nơi tập hợp "bộ tộc tà ác gồm những kẻ phản bội" hiến tế cho [các vị thần](../G/Gods.md) mà họ các thần tượng được giấu trên một ngọn núi rừng.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup> Trong *[Lay of the Children of Húrin](../L/Lay_of_the_Children_of_Húrin.md)*, có những ngôi đền được giấu ở những nơi bí mật để thờ cúng các **các vị thần vô danh** lâu đời hơn cả [Morgoth](../M/Morgoth.md) và [Valar](../V/Valar.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup>
+Ở *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*, [Nan Dumgorthin](Nan_Dungortheb.md), "Vùng đất của những thần tượng bóng tối" (*dum* 'bí mật, không được nói ra', *dumgort*, *dungort* 'một thần tượng (ác quỷ)'), là một vùng đất rừng rậm nằm ở phía đông của [Artanor](../D/Doriath.md), nơi tập hợp "bộ tộc tà ác của những kẻ phản bội" hiến tế cho [Các vị thần](../G/Gods.md) có thần tượng được giấu trên một ngọn núi rừng.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup> Trong *[Lay of the Children of Húrin](../L/Lay_of_the_Children_of_Húrin.md)*, có những ngôi đền được giấu ở những nơi bí mật để thờ cúng các **các vị thần vô danh** lâu đời hơn cả [Morgoth](../M/Morgoth.md) và [Valar](../V/Valar.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup>
 
 ## Cảm hứng {#Inspiration}
 
-Todd Jensen gợi ý rằng những thứ không tên có thể được lấy cảm hứng từ con rồng Nidhog của thần thoại Bắc Âu, kẻ đã gặm nhấm rễ cây Thế giới Yggdrasil.<sup id="cite_ref-RC_6-0" class="reference"><a href="#cite_note-RC-6">[5]</a></sup>
+Todd Jensen gợi ý rằng những thứ không tên có thể được lấy cảm hứng từ con rồng Nidhog trong thần thoại Bắc Âu, kẻ đã gặm nhấm rễ cây Thế giới Yggdrasil.<sup id="cite_ref-RC_6-0" class="reference"><a href="#cite_note-RC-6">[5]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-### Kẻ Vô Danh những thứ trong bản chuyển thể {#Nameless_things_in_adaptations}
+### Những điều không tên trong các bản chuyển thể {#Nameless_things_in_adaptations}
 
 <ul class="gallery mw-gallery-traditional">
 		<li class="gallerybox" style="width: 235px">
@@ -88,29 +88,29 @@ Todd Jensen gợi ý rằng những thứ không tên có thể được lấy c
 
 ### Truyền hình {#Television}
 
-<b>2022: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Lord of the Rings: The Rings of Power</a></i>:</b>
+<b>2022: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">Chúa tể của những chiếc nhẫn: Những chiếc nhẫn quyền lực</a></i>:</b>
 
 <dl><dd><b>1 September: <i><a href="../A/Adrift.md" title="Adrift">Adrift</a></i>:</b>
 <dl><dd>While adrift on a makeshift raft in the <a class="mw-redirect" href="../S/Sundering_Seas.md" title="Sundering Seas">Sundering Seas</a>, <a href="../G/Galadriel.md" title="Galadriel">Galadriel</a>, <a href="../H/Halbrand.md" title="Halbrand">Halbrand</a>, and five <a href="../P/Pre-Númenóreans.md" title="Pre-Númenóreans">Southlanders</a> are attacked by a creature referred to as &#34;<i>the worm</i>&#34;, which had destroyed the Southlanders&#39; ship two weeks before. The scene is accompanied by the following on-screen trivia: &#34;<i>The Great Sea, or The Sundering Seas, divides the Undying Lands from Middle-earth - where there are still nameless things in the deepest places of the world.</i>&#34; The trivia entry cites <a href="../T/The_White_Rider.md" title="The White Rider">Book III, Chapter 5</a>.</dd></dl></dd></dl>
 
 ### Trò chơi {#Games}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
 
 <dl><dd>Nameless is a creature type categorized as &#34;Ancient Evil&#34;. They have a variety of shapes, but most of them are humanoid, only with no eyes or no head at all. They can be found in the <a href="../D/Drúadan_Forest.md" title="Drúadan Forest">Drúadan Forest</a>, having come out of the <a href="../W/White_Mountains.md" title="White Mountains">White Mountains</a> during the <a href="../D/Dawnless_Day.md" title="Dawnless Day">Dawnless Day</a>; and beneath the <a href="../I/Iron_Hills.md" title="Iron Hills">Iron Hills</a>, where a horde of <a href="../M/Morgoth.md" title="Morgoth">Morgoth</a>&#39;s monsters were sealed away by the Dwarves long ago. The largest concentration of Nameless, however, are within the Foundations of Stone, the deepest level of Moria. The <a href="../W/Watcher_in_the_Water.md" title="Watcher in the Water">Watcher in the Water</a> is also classified as Nameless, as is &#34;Helchgam&#34;, another tentacled creature, found in the sewers of <a href="../C/Carn_Dûm.md" title="Carn Dûm">Carn Dûm</a>.</dd></dl>
 
 ## Xem thêm {#See_also}
 
-- [Những điều về Morgoth](../T/Things_of_Morgoth.md)
+- [Những điều của Morgoth](../T/Things_of_Morgoth.md)
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://middle-earth.xenite.org/2014/01/21/what-are-the-nameless-things-gandalf-refers-to-below-khazad-dum/" rel="noreferrer noopener" target="_blank">Những điều Kẻ Vô Danh Gandalf đề cập đến bên dưới Khazad-dum là gì?</a> bởi [Michael Martinez](../M/Michael_Martinez.md)
+- <a class="external text" href="http://middle-earth.xenite.org/2014/01/21/what-are-the-nameless-things-gandalf-refers-to-below-khazad-dum/" rel="noreferrer noopener" target="_blank">Những điều không tên mà Gandalf đề cập đến bên dưới Khazad-dum là gì?</a> của [Michael Martinez](../M/Michael_Martinez.md)
 
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Hammond và Scull cho rằng đây có thể là một lối hùng biện hoa mỹ về phía Gandalf. Cf. <a href="../W/Wayne_G._Hammond.md" title="Wayne G. Hammond">Wayne G. Hammond</a> và <a href="../C/Christina_Scull.md" title="Christina Scull">Christina Scull</a> (eds), <i><a href="../T/The_Lord_of_the_Rings%253A_A_Reader&#39;s_Companion.md" title="The Lord of the Rings: A Reader&#39;s Companion">The Lord of the Rings: Người bạn đồng hành của độc giả</a></i>, trang 392-393. Lưu ý rằng <a href="../T/Tom_Bombadil.md" title="Tom Bombadil">Tom Bombadil</a> cũng tuyên bố đã ở trên Arda trước khi " <a href="../D/Dark_Lord.md" title="Dark Lord">Chúa tể Bóng tối</a>xuất hiện".</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Hammond và Scull cho rằng đây có thể là một lời hùng biện hoa mỹ về phía Gandalf. Cf. <a href="../W/Wayne_G._Hammond.md" title="Wayne G. Hammond">Wayne G. Hammond</a> và <a href="../C/Christina_Scull.md" title="Christina Scull">Christina Scull</a> (eds), <i><a href="../T/The_Lord_of_the_Rings%253A_A_Reader&#39;s_Companion.md" title="The Lord of the Rings: A Reader&#39;s Companion">Chúa tể của những chiếc nhẫn: Người bạn đồng hành của độc giả</a></i>, trang 392-393. Lưu ý rằng <a href="../T/Tom_Bombadil.md" title="Tom Bombadil">Tom Bombadil</a> cũng tuyên bố đã ở Arda trước khi " <a href="../D/Dark_Lord.md" title="Dark Lord">Chúa tể bóng tối</a>" xuất hiện.</span>
 </li>
 </ol></div></span>
 

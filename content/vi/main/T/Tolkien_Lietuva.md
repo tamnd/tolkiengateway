@@ -12,7 +12,7 @@ categories:
   - "Tolkien Societies"
 ---
 
-**Tolkien Lietuva**, TL, với chi nhánh chính thức "TL Draugija" ("Học bổng TL") là [Tolkien hội](Tolkien_Societies~67099.md) ở Lithuania.
+**Tolkien Lietuva**, TL, với chi nhánh chính thức "TL Draugija" ("Học bổng TL") là [hội Tolkien](Tolkien_Societies~67099.md) ở Lithuania.
 
 ## Lịch sử {#History}
 

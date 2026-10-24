@@ -23,6 +23,6 @@ images:
 
 **LUH** là một từ gốc [Mannish](../M/Mannish.md) liên quan đến ngựa, có lẽ có nguồn gốc từ phương Bắc.
 
-- [Rohanese](../R/Rohanese.md): *[Lōgrad](Lōgrad.md), <a class="new" href="https://tolkiengateway.net/w/index.php?title=Loht%C3%BBr&amp;action=edit&amp;redlink=1" title="Lohtûr (page does not exist)">Lohtûr</a>, loho-/lô-* (tiền tố của tên)
+- [Rohanese](../R/Rohanese.md): *[Lōgrad](Lōgrad.md), <a class="new" href="https://tolkiengateway.net/w/index.php?title=Loht%C3%BBr&amp;action=edit&amp;redlink=1" title="Lohtûr (page does not exist)">Lohtûr</a>, loho-/lô-* (prefix to names)
 
-Một gốc Mannish khác có nguồn gốc [Adûnaic](../A/Adûnaic.md) là <a class="new" href="https://tolkiengateway.net/w/index.php?title=KARAB&amp;action=edit&amp;redlink=1" title="KARAB (page does not exist)">KARAB</a>.
+A different Mannish root of [Adûnaic](../A/Adûnaic.md) origin is <a class="new" href="https://tolkiengateway.net/w/index.php?title=KARAB&amp;action=edit&amp;redlink=1" title="KARAB (page does not exist)">KARAB</a>.

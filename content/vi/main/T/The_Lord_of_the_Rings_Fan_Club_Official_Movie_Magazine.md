@@ -17,10 +17,10 @@ sort_keys:
   "Publications by title": "Lord of the Rings Fan Club Official Movie Magazine, the"
 ---
 
-<i><b>The Lord of the Rings Tạp chí điện ảnh chính thức của Fan Club</b></i> là một ấn phẩm của [The Lord of the Rings Fan Club](The_Lord_of_the_Rings_Fan_Club.md) chỉ kéo dài 18 số.
+<i><b>Tạp chí điện ảnh chính thức của Câu lạc bộ người hâm mộ Chúa tể những chiếc nhẫn</b></i> là ấn phẩm của [The Lord of the Rings Fan Club](The_Lord_of_the_Rings_Fan_Club.md) chỉ tồn tại 18 số.
 
 ## Xem thêm {#See_also}
 
-- [The Lord of the Rings Câu lạc bộ người hâm mộ](The_Lord_of_the_Rings_Fan_Club.md)
-- [The Lord of the Rings Số tạp chí điện ảnh chính thức của Fan Club](../../category/T/The_Lord_of_the_Rings_Fan_Club_Official_Movie_Magazine.md)
-- [Hình ảnh về The Lord of the Rings số tạp chí điện ảnh chính thức của Fan Club](../../category/I/Images_of_The_Lord_of_the_Rings_Fan_Club_Official_Movie_Magazine.md)
+- [The Lord of the Rings Fan Club](The_Lord_of_the_Rings_Fan_Club.md)
+- [The Lord of the Rings Fan Club Official Movie Magazine issues](../../category/T/The_Lord_of_the_Rings_Fan_Club_Official_Movie_Magazine.md)
+- [Hình ảnh trên Tạp chí Điện ảnh Chính thức của Câu lạc bộ Người hâm mộ Chúa tể những chiếc nhẫn](../../category/I/Images_of_The_Lord_of_the_Rings_Fan_Club_Official_Movie_Magazine.md)

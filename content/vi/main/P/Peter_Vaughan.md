@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Vaughan, Peter"
 ---
 
-**Peter Vaughan** ([4 tháng 4](../_/4_April.md) [1923](../_/1923.md) - [6 tháng 12](../_/6_December.md) [2016](../_/2016.md)) lồng tiếng cho phần [Denethor II](../D/Denethor.md) trong [*The Lord of the Rings* loạt phim phát thanh năm 1981](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) được phát sóng trên BBC 4.
+**Peter Vaughan** ([4 tháng 4](../_/4_April.md) [1923](../_/1923.md) - [6 tháng 12](../_/6_December.md) [2016](../_/2016.md)) lồng tiếng cho phần [Denethor II](../D/Denethor.md) trong [*The Lord of the Rings* loạt phim phát thanh năm 1981](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) phát sóng trên BBC 4.
 
 ## Liên kết ngoài {#External_links}
 

@@ -63,64 +63,64 @@ infobox:
 <p class="tg-quote-footer"><cite>J.R.R. Tolkien on writing <i><a href="../A/A_Long-expected_Party.md" title="A Long-expected Party">A Long-expected Party</a></i>, and on his tendency to abandon and revisit his writings.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-<i><b>Unfinished Tales của Númenor và Trung Địa</b></i>, hay đơn giản là <i><b>Unfinished Tales</b></i>, là tập hợp các câu chuyện và bài tiểu luận của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) chưa bao giờ được hoàn thành trong suốt cuộc đời của ông nhưng đã được con trai ông [Christopher Tolkien](../C/Christopher_Tolkien.md) biên tập và xuất bản trên [1980](../_/1980.md).
+<i><b>Những câu chuyện dang dở về Númenor và Trung Địa</b></i>, hay đơn giản là <i><b>Những câu chuyện dang dở</b></i>, là tập hợp các câu chuyện và bài tiểu luận của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) chưa bao giờ được hoàn thành trong suốt cuộc đời của ông nhưng đã được con trai ông [Christopher Tolkien](../C/Christopher_Tolkien.md) biên tập và xuất bản trong [1980](../_/1980.md).
 
 Nhiều câu chuyện bên trong được kể lại dưới dạng *[The Silmarillion](../T/The_Silmarillion.md)*, mặc dù ở dạng đã được sửa đổi; tác phẩm còn có phần tóm tắt các sự kiện của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* được kể dưới một góc nhìn ít cá nhân hơn.
 
 ## Tổng quan {#Overview}
 
-Không giống như *[The Silmarillion](../T/The_Silmarillion.md)*, cũng được xuất bản sau khi chết (trong [1977](../_/1977.md)), trong đó các đoạn tường thuật đã được sửa đổi để kết nối thành một tác phẩm nhất quán và mạch lạc, *Unfinished Tales* được trình bày dưới dạng Tolkien để lại, chỉ thay đổi tên một chút (tác giả có thói quen khó hiểu là thử thử các tên khác nhau cho một nhân vật khi viết bản nháp). Do đó, một số trong số này là những câu chuyện chưa hoàn chỉnh, trong khi những câu chuyện khác là tập hợp thông tin về [Trung Địa](../M/Middle-earth.md). Sau mỗi câu chuyện là một loạt ghi chú dài giải thích những điểm mâu thuẫn và khó hiểu.
+Không giống như *[The Silmarillion](../T/The_Silmarillion.md)*, cũng được xuất bản sau khi chết (trong [1977](../_/1977.md)), trong đó các đoạn tường thuật đã được sửa đổi để kết nối thành một tác phẩm nhất quán và mạch lạc, *Unfinished Tales* được trình bày khi Tolkien để lại chúng, chỉ thay đổi tên một chút (tác giả có thói quen khó hiểu là thử thử các tên khác nhau cho một nhân vật khi viết bản nháp). Vì vậy, một số trong số này là những câu chuyện chưa hoàn chỉnh, trong khi những câu chuyện khác là tập hợp thông tin về [Trung Địa](../M/Middle-earth.md). Sau mỗi câu chuyện là một loạt ghi chú dài giải thích những điểm mâu thuẫn và khó hiểu.
 
-Cũng như *The Silmarillion*, Christopher Tolkien biên tập và xuất bản *Unfinished Tales* trước khi anh nghiên cứu xong các tài liệu trong kho lưu trữ của cha mình. *Unfinished Tales* cung cấp thông tin chi tiết hơn về các nhân vật, sự kiện và địa điểm chỉ được đề cập ngắn gọn trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*. Các phiên bản của những câu chuyện như vậy, bao gồm nguồn gốc của [Gandalf](../G/Gandalf.md) và [Istari](../I/Istari.md) khác (Pháp sư), cái chết của [Isildur](../I/Isildur.md) và sự mất mát của [Chiếc nhẫn duy nhất](../O/One_Ring.md) trong [Gladden Fields](../G/Gladden_Fields.md) và sự thành lập vương quốc [Rohan](../R/Rohan.md), giúp mở rộng kiến ​​thức về Trung Địa.
+Giống như *The Silmarillion*, Christopher Tolkien đã biên tập và xuất bản *Unfinished Tales* trước khi ông hoàn thành việc nghiên cứu các tài liệu trong kho lưu trữ của cha mình. *Unfinished Tales* cung cấp thông tin chi tiết hơn về các nhân vật, sự kiện và địa điểm chỉ được đề cập ngắn gọn trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*. Các phiên bản của những câu chuyện như vậy, bao gồm nguồn gốc của [Gandalf](../G/Gandalf.md) và [Istari](../I/Istari.md) (Pháp sư) khác, cái chết của [Isildur](../I/Isildur.md) và sự mất mát của [One Ring](../O/One_Ring.md) ở [Gladden Fields](../G/Gladden_Fields.md), cũng như sự thành lập vương quốc [Rohan](../R/Rohan.md), giúp mở rộng kiến ​​thức về Trung Địa.
 
-Đặc biệt đáng chú ý là câu chuyện về [Tar-Aldarion](../T/Tar-Aldarion.md) và [Erendis](../E/Erendis.md), câu chuyện duy nhất được biết đến về [Númenor](../N/Númenor.md) trước khi nó sụp đổ. Một bản đồ Númenor, bản đồ Tolkien duy nhất từng được tạo ra, được đưa vào cuốn sách.
+Đặc biệt đáng chú ý là câu chuyện về [Tar-Aldarion](../T/Tar-Aldarion.md) và [Erendis](../E/Erendis.md), câu chuyện duy nhất được biết đến về [Númenor](../N/Númenor.md) trước khi nó sụp đổ. Một bản đồ của Númenor, tấm duy nhất mà Tolkien từng tạo ra, được đưa vào cuốn sách.
 
-Thành công về mặt thương mại của *Unfinished Tales* chứng tỏ rằng nhu cầu về truyện của Tolkien vài năm sau khi ông qua đời không những vẫn còn mà còn tăng lên. Được khích lệ bởi kết quả này, Christopher Tolkien bắt tay vào thực hiện tác phẩm gồm 12 tập đầy tham vọng hơn mang tên *[The History of Middle-earth](../T/The_History_of_Middle-earth.md)* bao gồm gần như toàn bộ kho tài liệu các bài viết của cha ông về Trung Địa.
+Thành công về mặt thương mại của *Unfinished Tales* chứng tỏ rằng nhu cầu về truyện của Tolkien vài năm sau khi ông qua đời không những vẫn còn mà còn ngày càng tăng. Được khích lệ bởi kết quả này, Christopher Tolkien bắt tay vào thực hiện tác phẩm gồm 12 tập đầy tham vọng hơn có tựa đề *[The History of Middle-earth](../T/The_History_of_Middle-earth.md)* bao gồm gần như toàn bộ kho tài liệu các bài viết của cha ông về Trung Địa.
 
 ## Nội dung {#Contents}
 
 - Giới thiệu
 
-- **Phần thứ nhất: Phần [Kỷ Đệ Nhất](../F/First_Age.md)**
-    - Tôi. "[Của Tuor và Việc Ngài Đến Gondolin](../O/Of_Tuor_and_His_Coming_to_Gondolin~62456.md)"
+- **Phần thứ nhất: [Thời đại đầu tiên](../F/First_Age.md)**
+    - Tôi. "[Về Tuor và việc ông đến Gondolin](../O/Of_Tuor_and_His_Coming_to_Gondolin~62456.md)"
     - II. "[Narn i Hîn Húrin](../N/Narn_i_Hîn_Húrin.md): Câu chuyện về những đứa trẻ của Húrin"
         - Phụ lục
 
 - **Phần thứ hai: [Thời thứ hai](../S/Second_Age.md)**
-    - Tôi. "[Mô tả đảo Númenor](../A/A_Description_of_the_Island_of_Númenor.md)"
+    - Tôi. "[Mô tả về Đảo Númenor](../A/A_Description_of_the_Island_of_Númenor.md)"
         - [*Map of Númenor*](../../file/C/Christopher_Tolkien_-_Numenore.png.md)
     - II. "[Aldarion và Erendis](../A/Aldarion_and_Erendis.md): Vợ của thủy thủ"
-    - III. "[Dòng Elros: Những vị vua của Númenor](../T/The_Line_of_Elros%253A_Kings_of_Númenor.md)"
-    - IV. "[Lịch sử của Galadriel và Celeborn](../T/The_History_of_Galadriel_and_Celeborn.md) và của Amroth Vua của Lórien"
+    - III. "[The Line of Elros: Kings of Númenor](../T/The_Line_of_Elros%253A_Kings_of_Númenor.md)"
+    - IV. "[Lịch sử của Galadriel và Celeborn](../T/The_History_of_Galadriel_and_Celeborn.md) và Vua Amroth của Lórien"
         - Phụ lục
 
-- **Phần thứ ba: [Kỷ Đệ Tam](../T/Third_Age.md)**
-    - Tôi. "[Cái Thảm họa Cánh đồng Gladden](../T/The_Disaster_of_the_Gladden_Fields.md)"
-        - Phụ lục: Númenórean Thước đo tuyến tính
+- **Phần thứ ba: [Thời đại thứ ba](../T/Third_Age.md)**
+    - Tôi. "[Thảm họa trên cánh đồng hoang](../T/The_Disaster_of_the_Gladden_Fields.md)"
+        - Phụ lục: Số đo tuyến tính Númenórean
     - II. "[Cirion và Eorl và tình bạn của Gondor và Rohan](../C/Cirion_and_Eorl_and_the_Friendship_of_Gondor_and_Rohan.md)"
-        - (i) Người phương Bắc và Wainriders
+        - (i) Người phương bắc và người cưỡi ngựa
         - (ii) Chuyến đi của Eorl
         - (iii) Cirion và Eorl
-        - (iv) Truyền thống Isildur
+        - (iv) Truyền thống của Isildur
     - III. "[Nhiệm vụ của Erebor](../T/The_Quest_of_Erebor.md)"
         - Phụ lục: Ghi chú về nội dung và trích đoạn từ phiên bản trước
     - IV. "[Cuộc săn lùng chiếc nhẫn](../T/The_Hunt_for_the_Ring.md)"
-        - (i) Về Hành trình của Kỵ sĩ Đen theo tài khoản mà Gandalf đưa cho Frodo
+        - (i) Về Hành trình của Kỵ sĩ Đen theo lời kể mà Gandalf đưa cho Frodo
         - (ii) Các phiên bản khác của câu chuyện
-        - (iii) Liên quan đến Gandalf, Saruman và Shire
-    - V. "[Trận chiến của các khúc sông Isen](../T/The_Battles_of_the_Fords_of_Isen.md)"
+        - (iii) Liên quan đến Gandalf, Saruman và Quận
+    - V. "[Trận chiến sông cạn Isen](../T/The_Battles_of_the_Fords_of_Isen.md)"
         - Phụ lục
 
 - **Phần thứ tư**
-    - Tôi. "[Cái Drúedain](../T/The_Drúedain.md)"
-    - II. "[Cái Istari](../T/The_Istari.md)"
-    - III. "[Cái Palantíri](../T/The_Palantíri.md)"
+    - Tôi. "[Druedain](../T/The_Drúedain.md)"
+    - II. "[Istari](../T/The_Istari.md)"
+    - III. "[Palantíri](../T/The_Palantíri.md)"
 
 - Chỉ mục
 
 ## Chữ khắc {#Inscriptions}
 
-Có một dòng chữ bằng ký tự [Tengwar](../T/Tengwar.md) ở trang tiêu đề, nó viết:
+Có một dòng chữ bằng ký tự [Tengwar](../T/Tengwar.md) ở trang tiêu đề có nội dung:
 
 <dl><dd>&#34;<i>In this book of unfinished tales by John Ronald Reuel Tolkien which was brought together by Christopher Reuel Tolkien his son are told many things of men and elves in Numenor and in Middle-Earth, from the Elder Days in <a href="../B/Beleriand.md" title="Beleriand">Beleriand</a> to the War of the Ring and an account is given of the Druedain, the Istari, and the Palantiri.</i>&#34;</dd></dl>
 

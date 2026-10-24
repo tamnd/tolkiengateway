@@ -31,11 +31,11 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien cho biết trái tim và tâm trí của anh ấy đều *[The Silmarillion](../T/The_Silmarillion.md)* nhưng anh ấy có rất ít thời gian cho việc đó.
+Tolkien cho biết trái tim và tâm trí của ông đều *[The Silmarillion](../T/The_Silmarillion.md)* nhưng ông có rất ít thời gian cho việc đó.
 
-Hội nghị Khoa học Viễn tưởng Thế giới lần thứ 15 Tolkien đến dự một bữa trưa, trong đó anh được trao Giải thưởng Ảo tưởng Quốc tế, một "mô hình" kim loại khổng lồ vô lý của một tên lửa vũ trụ kết hợp với một chiếc bật lửa (vô dụng khi đặt trên cửa sổ). Tuy nhiên, các bài phát biểu rất hay, đặc biệt là của <a class="extiw" href="http://en.wikipedia.org/wiki/Clemence_Dane" title="wikipedia:Clemence Dane">Clemence Dane</a>. Ngài [Stanley Unwin](../S/Stanley_Unwin.md) cũng tham dự.
+Hội nghị Khoa học Viễn tưởng Thế giới lần thứ mười lăm đã mời Tolkien đến dự một bữa trưa, trong đó ông được trao Giải thưởng Ảo tưởng Quốc tế, một "mô hình" kim loại khổng lồ vô lý của một tên lửa không gian kết hợp với một chiếc bật lửa (vô dụng khi đặt trên cửa sổ). Tuy nhiên, các bài phát biểu rất hay, đặc biệt là của <a class="extiw" href="http://en.wikipedia.org/wiki/Clemence_Dane" title="wikipedia:Clemence Dane">Clemence Dane</a>. Ngài [Stanley Unwin](../S/Stanley_Unwin.md) cũng tham dự.
 
-Tolkien báo cáo rằng phản ứng ngược lại với Công ước là chuyến thăm của một đại lý điện ảnh Mỹ. Anh ta đến trên một chiếc taxi từ London, cùng với những người đàn ông và phụ nữ xa lạ. Ông <a class="extiw" href="http://en.wikipedia.org/wiki/Forrest_J_Ackerman" title="wikipedia:Forrest J Ackerman">này. Ackerman</a> đã mang đến những bức ảnh đẹp đến kinh ngạc và những bức ảnh màu đáng chú ý (những bức ảnh chụp cảnh núi non và sa mạc ở Mỹ có vẻ phù hợp với câu chuyện). Cốt truyện tuy tệ nhưng có lẽ công việc kinh doanh có thể thành công. Stanley Unwin và Tolkien đã thống nhất một chính sách: *Art or Cash*. Hoặc là những điều khoản rất có lợi hoặc là tác giả có quyền phủ quyết tuyệt đối đối với điều bị phản đối.
+Tolkien báo cáo rằng tác động ngược lại của Công ước là chuyến thăm của một đại lý điện ảnh Mỹ. Ông ta đến trên một chiếc taxi từ London, cùng với những người đàn ông và phụ nữ xa lạ. Ông <a class="extiw" href="http://en.wikipedia.org/wiki/Forrest_J_Ackerman" title="wikipedia:Forrest J Ackerman">này. Ackerman</a> đã mang đến những bức ảnh đẹp đến kinh ngạc và những bức ảnh màu đáng chú ý (những bức ảnh chụp cảnh núi non và sa mạc ở Mỹ có vẻ phù hợp với câu chuyện). Cốt truyện tuy tệ nhưng có lẽ công việc kinh doanh có thể thành công. Stanley Unwin và Tolkien đã đồng ý về chính sách: *Art or Cash*. Hoặc là những điều khoản rất có lợi hoặc là tác giả có quyền phủ quyết tuyệt đối đối với điều bị phản đối.
 
 <br>
 

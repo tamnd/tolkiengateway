@@ -27,7 +27,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-[Christopher](../C/Christopher_Tolkien.md) vừa mới trở về từ Nam Phi trong kỳ nghỉ phép sau mười lăm tháng xa nhà. Tolkien viết rằng việc gặp lại anh, trong một khoảng thời gian ngắn ngủi như vậy, lại mang đến nỗi đau vì sự vắng mặt của anh. Anh ấy gửi lời chúc phúc và lời cầu nguyện như mọi khi. <br>
+[Christopher](../C/Christopher_Tolkien.md) vừa mới trở về từ Nam Phi sau kỳ nghỉ phép sau mười lăm tháng xa nhà. Tolkien viết rằng việc gặp lại ông trong một thời gian ngắn ngủi như vậy đã mang lại nỗi đau vì sự vắng mặt của ông. Ông gửi lời chúc phúc và lời cầu nguyện như mọi khi. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

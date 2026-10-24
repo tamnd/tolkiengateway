@@ -20,11 +20,11 @@ images:
 
 <figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/D/Denis_Gordeev_-_Denethor_raises_the_palantír.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/a/a2/Denis_Gordeev_-_Denethor_raises_the_palant%C3%ADr.jpg/250px-Denis_Gordeev_-_Denethor_raises_the_palant%C3%ADr.jpg" decoding="async" loading="lazy" width="250" height="360" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/a2/Denis_Gordeev_-_Denethor_raises_the_palant%C3%ADr.jpg/375px-Denis_Gordeev_-_Denethor_raises_the_palant%C3%ADr.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/a/a2/Denis_Gordeev_-_Denethor_raises_the_palant%C3%ADr.jpg/500px-Denis_Gordeev_-_Denethor_raises_the_palant%C3%ADr.jpg 2x" data-file-width="889" data-file-height="1280"/></a><figcaption><a href="../D/Denethor.md" title="Denethor">Denethor II</a> in the House of Stewards - Illustration by <a href="../D/Denis_Gordeev.md" title="Denis Gordeev">Denis Gordeev</a></figcaption></figure>
 
-**Nhà của những người quản lý** là một tòa nhà trong [Hallows](Hallows.md) của [Minas Tirith](../M/Minas_Tirith.md), nằm gần [Nhà của những vị vua](House_of_the_Kings.md) trên [Rath Dínen](../R/Rath_Dínen.md).
+**Nhà quản lý** là một tòa nhà trong [Hallows](Hallows.md) của [Minas Tirith](../M/Minas_Tirith.md), nằm gần [Nhà của các vị vua](House_of_the_Kings.md) trên [Rath Dínen](../R/Rath_Dínen.md).
 
 Nó được bao bọc bởi một mái vòm lớn, bên trong là một căn phòng hình vòm rộng với những bức tường bao bọc. Nơi này chứa đầy những chiếc bàn đá cẩm thạch trên đó có chạm khắc hình những người đàn ông đang ngủ - lăng mộ của [Quản gia](../S/Stewards_of_Gondor.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-Pyre_2-0" class="reference"><a href="#cite_note-Pyre-2">[2]</a></sup>
 
-Đó là nơi [Denethor II](../D/Denethor.md) tự thiêu vào ngày [15 tháng 3](../_/15_March.md), [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> khiến mái vòm của tòa nhà sụp đổ.<sup id="cite_ref-Pyre_2-1" class="reference"><a href="#cite_note-Pyre-2">[2]</a></sup>
+Đó là nơi [Denethor II](../D/Denethor.md) tự thiêu vào [15 tháng 3](../_/15_March.md), [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> khiến mái vòm của tòa nhà sụp đổ.<sup id="cite_ref-Pyre_2-1" class="reference"><a href="#cite_note-Pyre-2">[2]</a></sup>
 
 <span></span>
 

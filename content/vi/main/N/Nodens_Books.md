@@ -15,13 +15,13 @@ categories:
 
 **Nodens Books** là một công ty xuất bản được thành lập bởi [Douglas A. Anderson](../D/Douglas_A._Anderson.md) tại [2012](../_/2012.md).
 
-Công ty được đặt theo tên của [Celtic](../C/Celtic.md) vị thần <a class="extiw" href="http://en.wikipedia.org/wiki/Nodens" title="wikipedia:Nodens">Nodens</a>, vị thần [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết một bài luận từ nguyên (xem: *[The Name 'Nodens'](../T/The_Name_'Nodens'.md)*).
+Công ty được đặt theo tên của vị thần [Celtic](../C/Celtic.md) <a class="extiw" href="http://en.wikipedia.org/wiki/Nodens" title="wikipedia:Nodens">Nodens</a>, vị thần [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết một bài luận từ nguyên (xem: *[The Name 'Nodens'](../T/The_Name_'Nodens'.md)*).
 
 ## Ấn phẩm, được chọn {#Publications,_selected}
 
 Các ấn phẩm liên quan đến [J.R.R. Tolkien](../J/J.R.R._Tolkien.md):
 
-- [2012](../_/2012.md): *[The Saga of Hrolf Kraki](../T/The_Saga_of_Hrolf_Kraki.md)*, do Stella dịch và biên tập M. Mills; Lời nói đầu của [Priscilla Tolkien](../P/Priscilla_Tolkien.md)
+- [2012](../_/2012.md): *[The Saga of Hrolf Kraki](../T/The_Saga_of_Hrolf_Kraki.md)*, do Stella dịch và biên tập M. Mills; Lời tựa của [Priscilla Tolkien](../P/Priscilla_Tolkien.md)
 - 201?: *Medieval Tales Before Tolkien*, chỉnh sửa bởi Douglas A. Anderson
 
 ## Liên kết ngoài {#External_links}

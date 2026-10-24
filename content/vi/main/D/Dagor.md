@@ -13,7 +13,7 @@ categories:
   - "Sindarin nouns"
 ---
 
-<i><b>dagor</b></i> là một danh từ [Sindarin](../S/Sindarin.md) có nghĩa là "trận chiến".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>dagor</b></i> là danh từ [Sindarin](../S/Sindarin.md) có nghĩa là "trận chiến".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Ví dụ {#Examples}
 

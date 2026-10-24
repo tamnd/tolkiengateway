@@ -25,7 +25,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Đường John, Oxford. Ban đầu được lấy bởi Omassey và <a class="external text" href="http://en.wikipedia.org/wiki/St_John_Street,_Oxford#mediaviewer/File:StJohnStOxford.jpg" rel="noreferrer noopener" target="_blank">tải lên Wikipedia</a>.
+Phố St John, Oxford. Ban đầu được lấy bởi Omassey và <a class="external text" href="http://en.wikipedia.org/wiki/St_John_Street,_Oxford#mediaviewer/File:StJohnStOxford.jpg" rel="noreferrer noopener" target="_blank">tải lên Wikipedia</a>.
 
 ## Giấy phép {#Licensing}
 

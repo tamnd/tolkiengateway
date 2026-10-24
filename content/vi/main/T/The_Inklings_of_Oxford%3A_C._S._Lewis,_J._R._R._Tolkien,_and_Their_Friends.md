@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Inklings of Oxford"
 ---
 
-Chuyển hướng đến [ Inklings của Oxford](The_Inklings_of_Oxford.md).
+Chuyển hướng tới [The Inklings of Oxford](The_Inklings_of_Oxford.md).

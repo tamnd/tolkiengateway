@@ -13,11 +13,11 @@ categories:
   - "Quenya nouns"
 ---
 
-<i><b>Vinge</b></i> là một danh từ có nghĩa là "bọt" hoặc "xịt" trong [Quenya](../Q/Quenya.md), bắt nguồn từ [Primitive Elvish](../P/Primitive_Quendian.md) <i><b>wingē</b></i><sup id="cite_ref-:0_1-0" class="reference"><a href="#cite_note-:0-1">[1]</a></sup>*.* Tolkien bị bỏ trống rất nhiều về dạng của từ này, và vì vậy nó cũng được tìm thấy là <b><i>winga</i>, <i>vinga</i>,</b> và <i><b>winge,</b></i> và có dạng gốc <b><i>vingi-</i>.</b><sup id="cite_ref-:0_1-1" class="reference"><a href="#cite_note-:0-1">[1]</a></sup> Nó có cùng nguồn gốc với *[gwing](../G/Gwing.md)* trong [Sindarin](../S/Sindarin.md).<sup id="cite_ref-:0_1-2" class="reference"><a href="#cite_note-:0-1">[1]</a></sup>
+<i><b>Vinge</b></i> là một danh từ có nghĩa là "bọt" hoặc "phun" trong [Quenya](../Q/Quenya.md), bắt nguồn từ [Tiên nguyên thủy](../P/Primitive_Quendian.md) <i><b>wingē</b></i><sup id="cite_ref-:0_1-0" class="reference"><a href="#cite_note-:0-1">[1]</a></sup>*.* Tolkien đã dao động rất nhiều về hình thức của từ này, và nó cũng vậy được tìm thấy dưới dạng <b><i>winga</i>, <i>vinga</i>,</b> và <i><b>winge,</b></i> và có dạng gốc <b><i>vingi-</i>.</b><sup id="cite_ref-:0_1-1" class="reference"><a href="#cite_note-:0-1">[1]</a></sup> Nó có cùng nguồn gốc với *[gwing](../G/Gwing.md)* trong [Tiếng Sindarin](../S/Sindarin.md).<sup id="cite_ref-:0_1-2" class="reference"><a href="#cite_note-:0-1">[1]</a></sup>
 
 Ví dụ:
 
-- [Vingilótë](Vingilótë.md) = "Hoa xốp"
+- [Vingilótë](Vingilótë.md) = "Hoa bọt"
 
 <span></span>
 
@@ -29,4 +29,4 @@ Ví dụ:
 </ol></div>
 
 - *[The Languages of Tolkien's Middle-earth](../T/The_Languages_of_Tolkien's_Middle-earth.md)* bởi [Ruth S. Noel](../R/Ruth_S._Noel.md)
-- <a class="external text" href="http://www.uib.no/People/hnohf/qlist.htm" rel="noreferrer noopener" target="_blank">Quenya Danh sách từ ngữ liệu</a> được chỉnh sửa bởi [Helge Fauskanger](../H/Helge_Fauskanger.md)
+- <a class="external text" href="http://www.uib.no/People/hnohf/qlist.htm" rel="noreferrer noopener" target="_blank">Danh sách từ Quenya Corpus</a> được chỉnh sửa bởi [Helge Fauskanger](../H/Helge_Fauskanger.md)

@@ -15,7 +15,7 @@ sort_keys:
   "Sindarin nouns": "Duath"
 ---
 
-**dúath**, đôi khi được viết là **dúwath**, là một từ [Sindarin](../S/Sindarin.md) có nghĩa là *darkness*, *shadow*hoặc *nightshade*. Nó là số nhiều tập thể của *[dû](Dû.md)* hoặc là sự kết hợp của *dû* và *[gwath](../G/Gwath.md)* (do đó là *dúwath*).
+**dúath**, đôi khi được viết là **dúwath**, là một từ [Sindarin](../S/Sindarin.md) có nghĩa là *darkness*, *shadow* hoặc *nightshade*. Nó là số nhiều tập thể của *[dû](Dû.md)* hoặc là sự kết hợp của *dû* và *[gwath](../G/Gwath.md)* (do đó là *dúwath*).
 
 ## Ví dụ và trường hợp {#Examples_and_Instances}
 

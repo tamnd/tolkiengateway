@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gnomish"
 ---
 
-Chuyển hướng đến [Gnomish](Gnomish.md).
+Chuyển hướng tới [Gnomish](Gnomish.md).

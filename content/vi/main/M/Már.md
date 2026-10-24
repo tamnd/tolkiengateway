@@ -15,7 +15,7 @@ sort_keys:
   "Quenya nouns": "Mar"
 ---
 
-<i><b>már</b></i> (pl. <i><b>mardi</b></i>) có nghĩa là "ở" trong [Quenya](../Q/Quenya.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:64</sup>
+<i><b>már</b></i> (pl. <i><b>mardi</b></i>) có nghĩa là "nơi ở" ở [Quenya](../Q/Quenya.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:64</sup>
 
 Nó được sử dụng với một sở hữu cách xác định hoặc trong một hợp chất sở hữu cách. Nếu được thêm vào tên cá nhân, nó sẽ đề cập đến nơi cư trú của người chủ gia đình được nêu tên và bao gồm các vùng đất liền kề gắn liền với các tòa nhà và nhà ở lâu dài (ví dụ: [Ingwemar](../I/Ingwemar.md)). Khi được thêm vào tên của một dân tộc, nó đề cập đến toàn bộ khu vực mà họ chiếm đóng (ví dụ: [Valimar](../V/Valimar.md), [Eldamar](../E/Eldamar.md)). Do đó, trong nhiều trường hợp, nó trở thành đồng nghĩa với [nórë](../N/Nórë.md).<sup id="cite_ref-dwell_2-0" class="reference"><a href="#cite_note-dwell-2">[2]</a></sup>
 
@@ -31,13 +31,13 @@ Từ [gốc](../S/Sundocarme.md) [MBAR](MBAR.md) "ở, ở".<sup id="cite_ref-3"
 
 ## Có cùng nguồn gốc {#Cognates}
 
-- [Sindarin](../S/Sindarin.md), *[bar](../B/Bar.md)*, *[nos](../N/Nos.md)*
+- [tiếng Sindarin](../S/Sindarin.md), *[bar](../B/Bar.md)*, *[nos](../N/Nos.md)*
 
 ## Xem thêm {#See_also}
 
 - [Eldamar](../E/Eldamar.md)
-- [Eämbar](../E/Eämbar.md) = "Biển Trang chủ"
-- [Vinyamar](../V/Vinyamar.md) = "Ngôi nhà mới"
+- [Eämbar](../E/Eämbar.md) = "Ngôi nhà biển"
+- [Viyamar](../V/Vinyamar.md) = "Ngôi nhà mới"
 - [Ingwemar](../I/Ingwemar.md)
 - *[mar](Mar.md)* "ở lại"
 - <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Oromar&amp;action=edit&amp;redlink=1" title="Oromar (page does not exist)">oromar</a></i> "đại sảnh"<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>

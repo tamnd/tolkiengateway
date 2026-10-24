@@ -14,4 +14,4 @@ sort_keys:
   "Images by artist": "Cadil, Matej"
 ---
 
-Danh mục này liệt kê tất cả **hình ảnh của [Matěj Čadil](../../main/M/Matěj_Čadil.md)** ([User:Neral](https://tolkiengateway.net/wiki/Special:Contributions/Neral) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md)).
+Thể loại này liệt kê tất cả **hình ảnh của [Matěj Čadil](../../main/M/Matěj_Čadil.md)** ([User:Neral](https://tolkiengateway.net/wiki/Special:Contributions/Neral) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md)).

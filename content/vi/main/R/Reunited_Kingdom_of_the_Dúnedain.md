@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Reunited Kingdom"
 ---
 
-Chuyển hướng đến [Vương quốc Thống nhất](Reunited_Kingdom.md).
+Chuyển hướng tới [Vương quốc Thống nhất](Reunited_Kingdom.md).

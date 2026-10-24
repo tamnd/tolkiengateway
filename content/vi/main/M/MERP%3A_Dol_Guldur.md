@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dol Guldur (book)"
 ---
 
-Chuyển hướng đến [Dol Guldur (sách)](<../D/Dol_Guldur_(book).md>).
+Chuyển hướng tới [Dol Guldur (sách)](<../D/Dol_Guldur_(book).md>).

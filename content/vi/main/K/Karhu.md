@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "North Polar Bear"
 ---
 
-Chuyển hướng đến [North Polar Bear](../N/North_Polar_Bear.md).
+Chuyển hướng tới [Gấu Bắc Cực](../N/North_Polar_Bear.md).

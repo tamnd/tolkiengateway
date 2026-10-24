@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "I.L. Gordon"
 ---
 
-Chuyển hướng đến [I.L. Gordon](I.L._Gordon.md).
+Chuyển hướng tới [I.L. Gordon](I.L._Gordon.md).

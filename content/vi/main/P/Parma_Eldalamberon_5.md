@@ -39,7 +39,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/P/Parma_Eldalamberon_5.png.md"><img src="https://tolkiengateway.net/w/images/thumb/1/18/Parma_Eldalamberon_5.png/320px-Parma_Eldalamberon_5.png" decoding="async" loading="lazy" width="320" height="414" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/18/Parma_Eldalamberon_5.png/480px-Parma_Eldalamberon_5.png 1.5x, https://tolkiengateway.net/w/images/thumb/1/18/Parma_Eldalamberon_5.png/640px-Parma_Eldalamberon_5.png 2x" data-file-width="1238" data-file-height="1600"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Parma Eldalamberon 5</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="Paula_Marmor.md" title="Paula Marmor">Paula Marmor</a></td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data">Paula Marmor (front cover)</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../M/Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/1977.md" title="1977">1977</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback journal</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">30</td></tr></tbody></table>
 
-<i><b>Parma Eldalamberon 5</b></i> là số thứ năm của *[Parma Eldalamberon](Parma_Eldalamberon.md)*, tạp chí nghiên cứu ngôn ngữ học về các ngôn ngữ Elvish và tên gọi trong các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
+<i><b>Parma Eldalamberon 5</b></i> là số thứ năm của *[Parma Eldalamberon](Parma_Eldalamberon.md)*, tạp chí nghiên cứu ngôn ngữ học về các ngôn ngữ và tên gọi của người Tiên trong các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
 Đây là vấn đề cuối cùng của lần chạy đầu tiên.
 
@@ -51,12 +51,12 @@ infobox:
 
 - Bài viết
     - "*Beth-Luis-Nion*" (cột) — Paula Marmor
-    - "*I Andonnar Nwalme-Lório*: Báo cáo về cuộc họp thường niên Kỷ Đệ Tứ của M.L.F." — [Christopher Gilson](../C/Christopher_Gilson.md)
+    - "*I Andonnar Nwalme-Lório*: Báo cáo về Hội nghị thường niên lần thứ tư của M.L.F." — [Christopher Gilson](../C/Christopher_Gilson.md)
     - "Những nghiên cứu ban đầu về năng lượng mặt trời cũ" — Joe R. Christopher
-    - "Proto-Eldarin Nguyên âm: Khảo sát so sánh" — Christopher Gilson và [Bill Welden](../B/Bill_Welden.md)
+    - "Nguyên âm Proto-Eldarin: Khảo sát so sánh" — Christopher Gilson và [Bill Welden](../B/Bill_Welden.md)
     - "Ngôn ngữ, tư duy và tưởng tượng" — David Warren
-    - "Sửa đổi Tengwar và các giá trị nhất định được chỉ định trong các phiên bản hiện tại của *The Lord of the Rings*" — [Jim Allan](../J/Jim_Allan.md)
-    - "Nguồn tiếng Anh trung cổ cho 'Trung Địa'" — David Strecker
+    - "Sửa các giá trị Tengwar và Certar được gán trong các phiên bản hiện tại của *The Lord of the Rings*" — [Jim Allan](../J/Jim_Allan.md)
+    - "Nguồn tiếng Anh trung đại cho 'Trung địa'" — David Strecker
 
 - Toán học
 - Chữ rune: Thư gửi *Parma*

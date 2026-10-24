@@ -25,37 +25,37 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/E/ElendorMUSH.png.md"><img src="https://tolkiengateway.net/w/images/thumb/3/3d/ElendorMUSH.png/320px-ElendorMUSH.png" decoding="async" loading="lazy" width="320" height="211" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/3d/ElendorMUSH.png/480px-ElendorMUSH.png 1.5x, https://tolkiengateway.net/w/images/thumb/3/3d/ElendorMUSH.png/640px-ElendorMUSH.png 2x" data-file-width="770" data-file-height="507"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Video game</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Elendor</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Details</span></th></tr><tr><th scope="row" class="tg-infobox-label">Platform</th><td class="tg-infobox-data">PC</td></tr><tr><th scope="row" class="tg-infobox-label">Release Date</th><td class="tg-infobox-data">October <a href="../_/1991.md" title="1991">1991</a></td></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data">Role-playing Game</td></tr></tbody></table>
 
-**Elendor** là một máy chủ trò chơi nhập vai “<a class="extiw" href="http://en.wikipedia.org/wiki/MUSH" title="wikipedia:MUSH">Ảo giác chia sẻ nhiều người dùng</a>” dựa trên các bài viết của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), đặc biệt là *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.<sup id="cite_ref-Tolkien_Games_1-0" class="reference"><a href="#cite_note-Tolkien_Games-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-Elendor-home_3-0" class="reference"><a href="#cite_note-Elendor-home-3">[3]</a></sup> Người dùng có thể tạo nhân vật của riêng mình, với các nền văn hóa và chủng tộc mà họ lựa chọn, để chơi trong một môi trường được mô phỏng chặt chẽ theo [Trung Địa](../M/Middle-earth.md) của Tolkien.
+**Elendor** là một máy chủ trò chơi nhập vai “<a class="extiw" href="http://en.wikipedia.org/wiki/MUSH" title="wikipedia:MUSH">Ảo giác chia sẻ nhiều người dùng</a>” dựa trên các bài viết của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), đặc biệt là *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.<sup id="cite_ref-Tolkien_Games_1-0" class="reference"><a href="#cite_note-Tolkien_Games-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-Elendor-home_3-0" class="reference"><a href="#cite_note-Elendor-home-3">[3]</a></sup> Người dùng có thể tạo nhân vật của riêng mình, với các nền văn hóa và chủng tộc mà họ lựa chọn, để chơi trong một môi trường được mô phỏng chặt chẽ theo mô hình của Tolkien [Trung địa](../M/Middle-earth.md).
 
-Được thành lập vào tháng 10 [1991](../_/1991.md), Elendor là MUSH dựa trên Tolkien lâu đời nhất và phổ biến nhất trên internet.<sup id="cite_ref-Tolkien_Games_1-1" class="reference"><a href="#cite_note-Tolkien_Games-1">[1]</a></sup><sup id="cite_ref-Elendor-home_3-1" class="reference"><a href="#cite_note-Elendor-home-3">[3]</a></sup> Đến tháng 5 [2005](../_/2005.md), số lượng người dùng đăng ký trong trò chơi đã hơn 2.000. Trung Địa có thể được di chuyển từ [Belegaer](../B/Belegaer.md) đến [Biển Rhûn](../S/Sea_of_Rhûn.md)<sup id="cite_ref-Elendor-ascalades_4-0" class="reference"><a href="#cite_note-Elendor-ascalades-4">[4]</a></sup>, với các mô tả khác nhau tùy theo mùa và thời gian trong ngày.<sup id="cite_ref-Elendor-ascalades_4-1" class="reference"><a href="#cite_note-Elendor-ascalades-4">[4]</a></sup>
+Được thành lập vào tháng 10 [1991](../_/1991.md), Elendor là MUSH dựa trên Tolkien lâu đời nhất và phổ biến nhất trên internet.<sup id="cite_ref-Tolkien_Games_1-1" class="reference"><a href="#cite_note-Tolkien_Games-1">[1]</a></sup><sup id="cite_ref-Elendor-home_3-1" class="reference"><a href="#cite_note-Elendor-home-3">[3]</a></sup> Đến tháng 5 [2005](../_/2005.md), số lượng người dùng đăng ký trò chơi đã hơn 2.000. Bạn có thể đi qua Trung Địa từ [Belegaer](../B/Belegaer.md) tới [Biển Rhûn](../S/Sea_of_Rhûn.md)<sup id="cite_ref-Elendor-ascalades_4-0" class="reference"><a href="#cite_note-Elendor-ascalades-4">[4]</a></sup>, với các mô tả khác nhau tùy theo mùa và thời gian trong ngày.<sup id="cite_ref-Elendor-ascalades_4-1" class="reference"><a href="#cite_note-Elendor-ascalades-4">[4]</a></sup>
 
 ## Nhân vật {#Characters}
 
-Người chơi mới có thể là [Người lùn](../D/Dwarves.md), [Tiên](Elves.md), [Hobbit](../H/Hobbits.md), [Người](../M/Men.md) hoặc [Orc](../O/Orcs.md).<sup id="cite_ref-Elendor-home_3-2" class="reference"><a href="#cite_note-Elendor-home-3">[3]</a></sup> Khi cấp bậc Trong nhân vật và Ngoài nhân vật tăng lên, người chơi có thể có cơ hội chơi các chủng tộc khác. Một danh sách đầy đủ các cuộc đua có thể được tìm thấy dưới đây:
+Người chơi mới có thể là [Người lùn](../D/Dwarves.md), [Yêu tinh](Elves.md), [Hobbit](../H/Hobbits.md), [Người](../M/Men.md) hoặc [Orc](../O/Orcs.md).<sup id="cite_ref-Elendor-home_3-2" class="reference"><a href="#cite_note-Elendor-home-3">[3]</a></sup> Khi cấp bậc Trong nhân vật và Ngoài nhân vật tăng lên, người chơi có thể có cơ hội chơi các chủng tộc khác. Một danh sách đầy đủ các cuộc đua có thể được tìm thấy dưới đây:
 
-- "Araurak" ([Nửa-Orc](../H/Half-Orcs~19882.md))<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+- "Araurak" ([Nửa Orc](../H/Half-Orcs~19882.md))<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 - [Beijabar](../B/Beornings.md)<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 - [Rồng](../D/Dragons.md)<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[note 1]</a></sup>
 - [Dúnedain](../D/Dúnedain.md)
-- Người Lùn
-- [Đại Bàng](Eagles.md)
-- Tiên tộc
+- Người lùn
+- [Đại bàng](Eagles.md)
+- Yêu tinh
 - [Ent](Ents.md)
 - [Nửa yêu tinh](../H/Half-elves.md)
-- Hobbit
+- Người Hobbit
 - [Maiar](../M/Maiar.md)
-- Con Người
+- Đàn ông
 - [Nazgûl](../N/Nazgûl.md)
 - [Olog-hai](../O/Olog-hai.md)
-- Raugdhrog ([Warg](../W/Wargs.md))<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[8]</a></sup>
-- [Troll](../T/Trolls.md)
+- Raugdhrog ([Wargs](../W/Wargs.md))<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[8]</a></sup>
+- [Quỷ lùn](../T/Trolls.md)
 - [Uruk](../U/Uruks.md)
 - [Uruk-hai](../U/Uruk-hai.md)
 
 ## Liên kết ngoài {#External_links}
 
 - <a class="external text" href="https://web.archive.org/web/20250927232945/http://www.elendor.net/index.php/Main_Page" rel="noreferrer noopener" target="_blank">Trang chủ Elendor MUSH</a> (đã lưu trữ)
-- <a class="external text" href="https://elendor.info/" rel="noreferrer noopener" target="_blank">Red Book of Westmarch</a> (kho lưu trữ nhập vai)
+- <a class="external text" href="https://elendor.info/" rel="noreferrer noopener" target="_blank">Sách đỏ Westmarch</a> (kho lưu trữ nhập vai)
 - <a class="external text" href="https://dale-lands.weebly.com/" rel="noreferrer noopener" target="_blank">Dale-lands</a> (fansite)
 - <a class="external text" href="http://lorien.50megs.com/" rel="noreferrer noopener" target="_blank">Elendor Lorien</a> (fansite)
 

@@ -13,11 +13,11 @@ categories:
   - "Organizations (real-world)"
 ---
 
-**The Lord of the Rings Fan Club** là câu lạc bộ chính thức của [*The Lord of the Rings* (loạt phim)](<The_Lord_of_the_Rings_(film_series).md>). [Giải mã](../D/Decipher.md) điều hành câu lạc bộ bao gồm 6 số tạp chí mỗi năm trong 3 năm, các diễn đàn và một cửa hàng.
+**Câu lạc bộ người hâm mộ Chúa tể những chiếc nhẫn** là câu lạc bộ chính thức của [*The Lord of the Rings* (loạt phim)](<The_Lord_of_the_Rings_(film_series).md>). [Giải mã](../D/Decipher.md) điều hành câu lạc bộ bao gồm 6 số tạp chí mỗi năm trong 3 năm, các diễn đàn và một cửa hàng.
 
 ## Xem thêm {#See_also}
 
-- [The Lord of the Rings Tạp chí điện ảnh chính thức của Fan Club](The_Lord_of_the_Rings_Fan_Club_Official_Movie_Magazine.md)
+- [The Lord of the Rings Fan Club Official Movie Magazine](The_Lord_of_the_Rings_Fan_Club_Official_Movie_Magazine.md)
 
 ## Liên kết ngoài {#External_links}
 

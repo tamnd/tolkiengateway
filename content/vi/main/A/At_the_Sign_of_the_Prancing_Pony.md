@@ -43,47 +43,47 @@ infobox:
 <p class="tg-quote-footer"><cite><a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo Baggins</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**At the Sign of the Prancing Pony** là chương thứ chín của cuốn sách đầu tiên trong *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)*. Các nhân vật chính là [Frodo Baggins](../F/Frodo_Baggins.md), [Strider](Aragorn.md) và [Barliman Butterbur](../B/Barliman_Butterbur.md) - những nhân vật được giới thiệu trong chương này - [Meriadoc Brandybuck](../M/Meriadoc_Brandybuck.md), [Peregrin Took](../P/Peregrin_Took.md) và [Samwise Gamgee](../S/Samwise_Gamgee.md).
+**At the Sign of the Prancing Pony** là chương thứ chín của cuốn sách đầu tiên trong *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)*. Các nhân vật chính là [Frodo Baggins](../F/Frodo_Baggins.md), [Strider](Aragorn.md) và [Barliman Butterbur](../B/Barliman_Butterbur.md) - những người được giới thiệu trong chương này - [Meriadoc Brandybuck](../M/Meriadoc_Brandybuck.md), [Peregrin Took](../P/Peregrin_Took.md) và [Samwise Gamgee](../S/Samwise_Gamgee.md).
 
-Chương này kể về sự xuất hiện của bốn [Hobbit](../H/Hobbits.md) tại làng [Bree](../B/Bree.md) và chuyến thăm nhà trọ *[Prancing Pony](../P/Prancing_Pony.md)* của họ. Người Hobbit gặp chủ sở hữu, Barliman Butterbur, thuê một phòng và ngồi uống rượu trong phòng sinh hoạt chung, nơi Frodo vô tình đeo [Chiếc nhẫn duy nhất](../T/The_One_Ring.md) và gây náo loạn. Anh ta gặp [Strider](Aragorn.md) và được mời trò chuyện riêng với từng người trong số Strider và Butterbur.
+Chương này kể về sự xuất hiện của bốn [Hobbit](../H/Hobbits.md) tại làng [Bree](../B/Bree.md) và chuyến thăm của họ tới quán trọ *[Prancing Pony](../P/Prancing_Pony.md)*. Người Hobbit gặp chủ sở hữu, Barliman Butterbur, thuê một căn phòng và ngồi uống rượu trong phòng sinh hoạt chung, nơi Frodo vô tình đeo [Chiếc nhẫn duy nhất](../T/The_One_Ring.md) và gây náo loạn. Ông gặp [Strider](Aragorn.md) và được mời trò chuyện riêng với từng người trong Strider và Butterbur.
 
 Sự hiện diện của một [Ranger](../R/Ranger.md) và sự xuất hiện của một nhân vật bóng tối bí ẩn tạo ra cảm giác bất an và nguy hiểm tiềm ẩn.
 
 ## Tổng quan {#Overview}
 
-Chương mở đầu bằng việc người kể miêu tả một chút về ngôi làng Bree, nằm ở cuối con đường [phương Đông](../E/East_Road.md) trên một ngã tư cổ kính và đông người qua lại. Ngôi làng chủ yếu có dân cư là [Con Người](../M/Men.md), theo truyền thuyết, là hậu duệ của [những người Con Người đầu tiên di cư](../P/Pre-Númenóreans.md) sang miền Tây [Trung Địa](../M/Middle-earth.md). Ở các khu vực bên ngoài [Bree-land](../B/Bree-land.md) có một nhóm Con Người khác được gọi là <a class="mw-redirect mw-disambig" href="../R/Rangers.md" title="Rangers">Rangers</a>, nguồn gốc của họ không được [Bree-dân gian](../B/Bree-landers.md) biết đến. Các Biệt động quân lang thang khắp nơi và thường mang tin tức từ bên ngoài về nhưng không phải là bạn của dân Bree.
+Chương này bắt đầu với việc người kể chuyện miêu tả một chút về ngôi làng Bree, nằm ở cuối [Đường Đông](../E/East_Road.md) trên một ngã tư cổ kính và đông người qua lại. Ngôi làng chủ yếu có dân cư là [Đàn ông](../M/Men.md), theo truyền thuyết, là hậu duệ của [những người đàn ông đầu tiên di cư](../P/Pre-Númenóreans.md) đến Tây [Trung Địa](../M/Middle-earth.md). Ở những khu vực bên ngoài [Bree-land](../B/Bree-land.md) có một nhóm Đàn ông khác được gọi là <a class="mw-redirect mw-disambig" href="../R/Rangers.md" title="Rangers">Rangers</a>, những người mà [Bree-folk](../B/Bree-landers.md) không biết nguồn gốc của họ. Các Rangers lang thang khắp vùng đất và thường mang tin tức từ bên ngoài đến, nhưng không phải là bạn của người Bree.
 
-Khá nhiều gia đình Hobbit sống xung quanh Bree và chung sống hòa bình với Con Người (mặc dù họ sống trong các cộng đồng riêng biệt). Những khu định cư Hobbit này được cho là có lịch sử lâu đời hơn [The Shire](../T/The_Shire.md)và cư dân ở đó có quan hệ họ hàng xa với [Brandybucks](../B/Brandybucks.md). Hobbit lượt truy cập đến và đi từ The Shire được cho là đã giảm trong thời gian gần đây.
+Khá nhiều gia đình Hobbit sống xung quanh Bree và chung sống hòa bình với Đàn ông (mặc dù họ sống trong các cộng đồng riêng biệt). Những khu định cư Hobbit này được cho là lâu đời hơn [The Shire](../T/The_Shire.md) và cư dân của họ có quan hệ họ hàng xa với [Brandybucks](../B/Brandybucks.md). Người Hobbit đến và đi từ The Shire được cho là đã giảm dần trong thời gian gần đây.
 
-Bree có một quán trọ cổ kính ( Prancing Pony) là nơi gặp gỡ quen thuộc của du khách; đến nỗi người chủ quán trọ được coi là người rất quan trọng trong làng.
+Bree có một quán trọ cổ (Ngựa chồm) là nơi gặp gỡ nổi tiếng của du khách; đến nỗi người chủ quán trọ được coi là người rất quan trọng trong làng.
 
 Chương ở đây tiếp tục khi [chương trước](../F/Fog_on_the_Barrow-downs.md) kết thúc.
 
 ### Người Hobbit đến Bree {#The_Hobbits_arrival_at_Bree}
 
-Frodo, Sam, Merry và Pippin đi đến cổng phía tây của Bree sau khi màn đêm buông xuống và thấy nó đóng lại. Tuy nhiên, một người gác cổng tên là [Harry](../H/Harry_Goatleaf.md) đã phát hiện ra họ và hỏi họ đi đâu và là ai. Frodo tiết lộ rất ít, chỉ nói rằng họ đến từ [Buckland](../B/Buckland.md) và đang hướng tới quán trọ. Merry tự nhận mình là Brandybuck, điều này đã xoa dịu Harry và anh ta mở cổng cho họ, đề cập rằng có thể có những vị khách khác đã đặt câu hỏi về việc bốn Hobbit đến Bree. Frodo tự suy đoán liệu Harry có thể đã nói về [Gandalf](../G/Gandalf.md)hay không, mặc dù anh thấy Harry nghi ngờ. Khi Hobbit bước vào Bree, một bóng đen trèo qua tường và lẻn vào làng.
+Frodo, Sam, Merry và Pippin đi tới cổng phía tây của Bree sau khi màn đêm buông xuống và thấy nó đã đóng. Tuy nhiên, một người gác cổng tên là [Harry](../H/Harry_Goatleaf.md) đã phát hiện ra họ và hỏi họ đi đâu và là ai. Frodo tiết lộ rất ít, chỉ nói rằng họ đến từ [Buckland](../B/Buckland.md) và đang hướng tới quán trọ. Merry tự nhận mình là Brandybuck, điều này đã xoa dịu Harry và anh mở cổng cho họ, đề cập rằng có thể có những du khách khác đang đặt câu hỏi về bốn người Hobbit đến Bree. Frodo tự suy đoán liệu Harry có thể đã nói về [Gandalf](../G/Gandalf.md) hay không, mặc dù cậu thấy Harry nghi ngờ. Khi các Hobbit bước vào Bree, một bóng đen trèo qua tường và lẻn vào làng.
 
 ### Tại quán trọ {#At_the_inn}
 
-Khi Sam nhìn thấy nhà trọ, anh ta nghi ngờ và đề nghị tìm một gia đình Hobbit để ở cùng. Frodo nhắc nhở anh rằng [Tom Bombadil](../T/Tom_Bombadil.md) đã giới thiệu nhà trọ và nói tốt về chủ nhà trọ, Barliman Butterbur.
+Khi Sam nhìn thấy quán trọ, ông trở nên nghi ngờ và đề nghị tìm một gia đình Hobbit để ở cùng. Frodo nhắc anh rằng [Tom Bombadil](../T/Tom_Bombadil.md) đã giới thiệu quán trọ và nói tốt về chủ quán, Barliman Butterbur.
 
-Những người Hobbit dắt ngựa con vào sân, nơi họ chạm trán với Barliman. Sau phần giới thiệu, Barliman dường như nhớ ra điều gì đó liên quan đến bốn Hobbit, nhưng không thể nhớ được đó là gì. Anh xin lỗi vì quán trọ bận rộn bất thường. Anh ta tìm cho họ một căn phòng thích hợp cho Hobbit và đưa ngựa con của họ về chuồng ngựa của anh ta.
+Những người Hobbit dắt ngựa con vào sân, nơi họ chạm trán với Barliman. Sau khi giới thiệu, Barliman dường như nhớ ra điều gì đó liên quan đến bốn người Hobbit, nhưng lại không nhớ được đó là gì. Anh xin lỗi vì quán trọ bận rộn bất thường. Ông ta tìm cho họ một căn phòng thích hợp cho người Hobbit và đưa ngựa con của họ về chuồng ngựa của ông ta.
 
-Người Hobbit định cư và tắm rửa. Barliman quay lại với thức ăn và đồ uống, điều mà Hobbit cảm thấy quen thuộc và yên tâm. Barliman mời Hobbit đến phòng sinh hoạt chung để chia sẻ niềm vui và tin tức, nhưng không ép họ phải đi. Frodo, Sam và Pippin quyết định đi, trong khi Merry quyết định ở lại vì có thể sẽ đi dạo sau. Anh nhắc nhở những người khác nên cẩn thận, trong khi Pippin khuyên Merry nên ở trong nhà.
+Người Hobbit định cư và tắm rửa. Barliman quay lại với thức ăn và đồ uống, điều mà các Hobbit thấy quen thuộc và yên tâm. Barliman mời những người Hobbit đến phòng sinh hoạt chung để chia sẻ niềm vui và tin tức, nhưng không ép họ phải đi. Frodo, Sam và Pippin quyết định đi, trong khi Merry quyết định ở lại, nói rằng ông có thể đi dạo sau. Anh nhắc nhở những người khác nên cẩn thận, trong khi Pippin khuyên Merry nên ở trong nhà.
 
-Trong phòng sinh hoạt chung có rất nhiều người khác nhau, bao gồm Con Người, [Người Lùn](../D/Dwarves.md) và Hobbit người địa phương. Barliman giới thiệu mọi người. Một số Hobbit địa phương hóa ra là [Underhills](../U/Underhill_Family.md) - bút danh mà Frodo đã sử dụng. Kết quả là Hobbit vui vẻ chào đón anh như người thân đã lâu không gặp nhưng cũng tra hỏi kỹ càng. Frodo đã đưa ra lời giải thích cho hành trình của mình: Anh ấy quan tâm đến lịch sử và địa lý, đồng thời đi du lịch với hy vọng thu thập thông tin cho một cuốn sách về Hobbit sống bên ngoài Shire. Điều này khiến cho Hobbit tình nguyện cung cấp quá nhiều thông tin, nhưng Frodo tỏ ra không quan tâm và nhanh chóng ngồi một mình.
+Trong phòng sinh hoạt chung có nhiều người khác nhau, bao gồm cả Đàn ông, [Người lùn](../D/Dwarves.md) và người Hobbit địa phương. Barliman giới thiệu mọi người. Một số người Hobbit địa phương hóa ra là [Underhills](../U/Underhill_Family.md) - bút danh mà Frodo đã sử dụng. Kết quả là người Hobbit vui vẻ chào đón anh như một người họ hàng xa xưa nhưng cũng tra hỏi kỹ lưỡng về anh. Frodo đã đưa ra lời giải thích cho chuyến hành trình của mình: Ông quan tâm đến lịch sử và địa lý, đồng thời đi du lịch với hy vọng thu thập thông tin cho một cuốn sách về người Hobbit sống bên ngoài Shire. Điều này khiến các Hobbit tình nguyện cung cấp quá nhiều thông tin, nhưng Frodo tỏ ra không quan tâm và nhanh chóng ngồi một mình.
 
-Con Người và Người Lùn bàn bạc về những rắc rối ở miền nam, lo lắng rằng một lượng lớn người dân có thể lên đường phía Bắc để tìm nơi ẩn náu. Tuy nhiên, Hobbit địa phương lại quan tâm hơn đến việc nghe tin tức từ Shire và nhấn Sam và Pippin để biết thông tin về "Shire Underhills".
+Con người và Người lùn thảo luận về những rắc rối ở phía nam, lo lắng rằng một lượng lớn người có thể đi lên Đường phía Bắc để tìm nơi ẩn náu. Tuy nhiên, những người Hobbit địa phương lại quan tâm hơn đến việc nghe tin tức từ Quận, và ép Sam và Pippin cung cấp thông tin về "Shire Underhills".
 
-### Strider {#Strider}
+### Người bước đi {#Strider}
 
-Trong khi đó, Frodo nhận thấy có một người đàn ông đang theo dõi mình kỹ càng từ góc phòng. Người đàn ông này có vẻ hay đi du lịch và đang hút tẩu, khuôn mặt bị che khuất bởi chiếc mũ trùm đầu nặng nề. Frodo hỏi Butterbur người đàn ông đó là ai. Butterbur giải thích rằng anh ta là một trong những Rangers thỉnh thoảng xuất hiện ở quán trọ. Anh ta không biết tên người đàn ông đó, nhưng biệt danh của anh ta trong Bree là "Strider" do anh ta có đôi chân dài và thường xuyên đi du lịch. Butterbur có vẻ thấy lạ khi Frodo hỏi về Strider, nhưng đã bị gọi đi trước khi anh kịp nói hết suy nghĩ của mình.
+Trong khi đó, Frodo nhận thấy một người đàn ông đang quan sát mình kỹ càng từ góc phòng. Người đàn ông này có vẻ là người hay đi du lịch và đang hút tẩu, khuôn mặt bị che khuất bởi chiếc mũ trùm đầu nặng nề. Frodo hỏi Butterbur người đàn ông đó là ai. Butterbur giải thích rằng ông ta là một trong những Rangers thỉnh thoảng xuất hiện ở quán trọ. Ông ta không biết tên người đàn ông đó, nhưng biệt danh của ông ta ở Bree là "Người đi đường" vì đôi chân dài và thường xuyên di chuyển của ông ta. Butterbur có vẻ thấy lạ khi Frodo hỏi về Strider, nhưng đã bị gọi đi trước khi anh kịp hoàn thành suy nghĩ của mình.
 
-Strider ra hiệu cho Frodo tham gia cùng anh ấy và Frodo đã làm như vậy. Strider tự giới thiệu và cảnh báo Frodo đừng để bạn bè nói quá nhiều. Frodo nhận ra rằng Pippin, sau khi mê hoặc Hobbit địa phương bằng những câu chuyện về Shire, đã bắt đầu kể câu chuyện về bữa tiệc chia tay của [Bilbo](../B/Bilbo_Baggins.md)- kết thúc bằng việc anh ấy đeo [Chiếc nhẫn duy nhất](../T/The_One_Ring.md) và biến mất trong không khí. Frodo trở nên lo lắng rằng Pippin có thể nhắc đến Chiếc Nhẫn.
+Strider ra hiệu cho Frodo tham gia cùng mình và Frodo đã làm theo. Strider tự giới thiệu và cảnh báo Frodo đừng để bạn bè nói quá nhiều. Frodo nhận ra rằng Pippin, sau khi mê hoặc những người Hobbit địa phương bằng những câu chuyện về Quận, đã bắt đầu kể câu chuyện về bữa tiệc chia tay của [Bilbo](../B/Bilbo_Baggins.md) - kết thúc bằng việc anh đeo [Chiếc nhẫn duy nhất](../T/The_One_Ring.md) và biến mất trong không khí. Frodo trở nên lo lắng rằng Pippin có thể nhắc đến Chiếc Nhẫn.
 
 <h3><span id="Frodo.27s_troubled_performance"></span><span class="mw-headline" id="Frodo&#39;s_troubled_performance">Frodo&#39;s troubled performance</span></h3>
 
-Trước sự thúc giục của Strider hành động, Frodo đứng lên bàn và bắt đầu nói, loay hoay với chiếc Nhẫn trong túi và cố gắng chống lại sự thôi thúc bất ngờ muốn đeo nó vào. Mọi sự chú ý đổ dồn vào Frodo khi anh nói:
+Với sự thúc giục của Strider để hành động, Frodo đứng lên bàn và bắt đầu nói, bồn chồn với chiếc Nhẫn trong túi khi anh làm vậy và đấu tranh với mong muốn đột ngột muốn đeo nó vào. Mọi sự chú ý đổ dồn vào Frodo khi anh nói:
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
 <p>We are all very much gratified by the kindness of your reception, and I venture to hope that my brief visit will help to renew the old ties of friendship between the Shire and Bree.
@@ -91,11 +91,11 @@ Trước sự thúc giục của Strider hành động, Frodo đứng lên bàn 
 <p class="tg-quote-footer"><cite><a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo Baggins</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-Khán giả của Frodo yêu cầu một bài hát. Bất chợt Frodo bắt đầu hát [một bài hát về một quán trọ](../T/The_Man_in_the_Moon_Stayed_Up_Too_Late.md), được người dân địa phương đánh giá cao đến mức họ yêu cầu được nghe lại. Frodo làm theo, nhưng bị cuốn theo và bắt đầu nhảy múa trên mặt bàn. Anh ta ngã khỏi bàn và trước sự ngạc nhiên của mọi người, anh ta đột nhiên biến mất trong không khí.
+Khán giả của Frodo yêu cầu hát một bài. Bất chợt, Frodo bắt đầu hát [một bài hát về một quán trọ](../T/The_Man_in_the_Moon_Stayed_Up_Too_Late.md), được người dân địa phương đánh giá cao đến mức họ yêu cầu được nghe lại. Frodo làm theo, nhưng bị cuốn theo và bắt đầu nhảy múa trên mặt bàn. Ông ta ngã khỏi bàn và trước sự ngạc nhiên của mọi người, ông ta đột nhiên biến mất trong không khí.
 
-Những vị khách khác nhìn Sam và Pippin nghi ngờ, coi họ như bạn của một pháp sư du hành nào đó. Một người ở Bree và một du khách đến từ phương Nam, những người đã thì thầm với nhau suốt buổi tối, bước ra khỏi phòng, theo sau là Harry, người gác cổng.
+Những vị khách khác nhìn Sam và Pippin một cách nghi ngờ, coi họ như bạn của một pháp sư du hành nào đó. Một người ở Bree và một du khách đến từ phương Nam, những người đã thì thầm với nhau suốt buổi tối, bước ra khỏi phòng, theo sau là Harry, người gác cổng.
 
-Trong khi đó, Frodo tiến đến góc của Strider và lấy chiếc Nhẫn ra mà không biết tại sao nó lại ở trên ngón tay mình. Strider khiển trách anh ta:
+Trong khi đó, Frodo đi đến góc của Strider và tháo chiếc Nhẫn ra mà không biết làm thế nào mà nó lại xuất hiện trên ngón tay của mình. Strider khiển trách ông ta:
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
 <p>Well? Why did you do that? Worse than anything your friends could have said! You have put your foot in it! Or should I say your finger?
@@ -103,14 +103,14 @@ Trong khi đó, Frodo tiến đến góc của Strider và lấy chiếc Nhẫn 
 <p class="tg-quote-footer"><cite><a href="Aragorn.md" title="Aragorn">Strider</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-Frodo cố gắng làm xáo trộn, nhưng Strider dường như biết chính xác chuyện gì đã xảy ra. Anh ấy mời Frodo nói chuyện với mình sau, nói rằng anh ấy có điều gì đó muốn nói với Frodo về tầm quan trọng của cả hai.
+Frodo cố gắng làm xáo trộn, nhưng Strider dường như biết chính xác chuyện gì đã xảy ra. Ông mời Frodo nói chuyện với mình sau, nói rằng ông có điều gì đó muốn nói với Frodo về tầm quan trọng nào đó đối với cả hai.
 
-Barliman Butterbur đến và các vị khách bắt đầu tra hỏi anh về sự biến mất của Frodo. Frodo bước tới để chứng tỏ rằng anh ta không hề biến mất mà chỉ nói rằng anh ta chỉ bò đi dưới gầm bàn. Những vị khách không tin câu chuyện này và phàn nàn về chất lượng giải trí của buổi tối. Họ nhanh chóng rời đi, lần lượt từng người một, cho đến khi không còn ai ngoài Hobbit, Strider và Butterbur.
+Barliman Butterbur đến và các vị khách bắt đầu tra hỏi ông về sự biến mất của Frodo. Frodo bước tới để chứng tỏ rằng ông ta chưa biến mất, nói rằng ông ta chỉ bò đi dưới gầm bàn. Những vị khách không tin câu chuyện này và phàn nàn về chất lượng giải trí của buổi tối. Họ nhanh chóng rời đi, lần lượt từng người một, cho đến khi không còn ai ngoài Hobbit, Strider và Butterbur.
 
-Butterbur yêu cầu Frodo hứa sẽ không gây thêm rắc rối nào nữa nhưng cũng trấn an Frodo rằng sự việc sẽ không ảnh hưởng tiêu cực đến công việc kinh doanh của anh - nói rằng bí ẩn sẽ chỉ lôi kéo mọi người quay lại quán trọ để bàn tán. Frodo xin lỗi và nói rằng anh muốn đi ngủ. Butterbur yêu cầu được nói chuyện riêng với anh về điều gì đó mà anh vừa nhớ ra, trước khi họ rời đi vào buổi sáng.
+Butterbur yêu cầu Frodo hứa sẽ không gây thêm rắc rối nào nữa, nhưng cũng trấn an Frodo rằng sự kiện này sẽ không ảnh hưởng tiêu cực đến công việc kinh doanh của anh - nói rằng bí ẩn sẽ chỉ lôi kéo mọi người quay lại quán trọ để thảo luận về nó. Frodo cáo lỗi và nói rằng anh muốn đi ngủ. Butterbur yêu cầu được nói chuyện riêng với anh về điều gì đó mà anh vừa nhớ ra, trước khi họ rời đi vào buổi sáng.
 
-Với hai lời mời nói chuyện riêng, Frodo trở nên nghi ngờ rằng mọi người ở đó - kể cả Butterbur - đang che giấu bí mật đen tối nào đó.
+Với hai lời mời nói chuyện riêng, Frodo trở nên nghi ngờ rằng mọi người ở đó - bao gồm cả Butterbur - đang che giấu một bí mật đen tối nào đó.
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://www.zarkanya.net/Tolkien/BreeEvents.htm" rel="noreferrer noopener" target="_blank">Dòng thời gian sơ bộ của các sự kiện trong Bree, tháng Chín 29, SR 1418</a> của Alcuin
+- <a class="external text" href="http://www.zarkanya.net/Tolkien/BreeEvents.htm" rel="noreferrer noopener" target="_blank">Dòng thời gian sơ bộ của các sự kiện ở Bree, ngày 29 tháng 9 năm SR 1418</a> của Alcuin

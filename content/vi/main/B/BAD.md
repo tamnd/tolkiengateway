@@ -16,18 +16,18 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>an Elvish <a href="../S/Sundocarme.md" title="Sundocarme">root</a></b>. For the <a href="../N/Noldorin.md" title="Noldorin">Noldorin</a> noun, see <b><a href="Bâd.md" title="Bâd">bâd</a></b>.</div></div>
 
-**BAD** là một [Primitive Quendian](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) có hai từ nguyên khác nhau (BAD<sup>[1]</sup> và BAD<sup>[2]</sup>). Cả hai đều xuất hiện mà không có bất kỳ ý nghĩa nào, ngoài những gì có thể được xác định từ các dẫn xuất của chúng.<sup id="cite_ref-Ety_1-0" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup><sup id="cite_ref-VT45_2-0" class="reference"><a href="#cite_note-VT45-2">[2]</a></sup>
+**BAD** là [Quendian nguyên thủy](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) với hai từ nguyên khác nhau (BAD<sup>[1]</sup> và BAD<sup>[2]</sup>). Cả hai đều xuất hiện mà không có bất kỳ ý nghĩa nào, ngoài những gì có thể được xác định từ các dẫn xuất của chúng.<sup id="cite_ref-Ety_1-0" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup><sup id="cite_ref-VT45_2-0" class="reference"><a href="#cite_note-VT45-2">[2]</a></sup>
 
 ## Đạo hàm của BAD<sup>[1]</sup> {#Derivatives_of_BAD[1]}
 
-- [Common Eldarin](../C/Common_Eldarin.md): *bad-* ("thẩm phán")<sup id="cite_ref-Ety_1-1" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup>
+- [Eldarin thông thường](../C/Common_Eldarin.md): *bad-* ("thẩm phán")<sup id="cite_ref-Ety_1-1" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup>
     - [Noldorin](../N/Noldorin.md): *bauð*, *bād-* ("phán quyết"); *badhor*, *baðron* ("thẩm phán")<sup id="cite_ref-Ety_1-2" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup>
 
 Không có [Quenya](../Q/Quenya.md) dẫn xuất của BAD<sup>[1]</sup>.<sup id="cite_ref-Ety_1-3" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup>
 
 ## Đạo hàm của BAD<sup>[2]</sup> {#Derivatives_of_BAD[2]}
 
-- [Common Eldarin](../C/Common_Eldarin.md): *banda* ("nhà tù, địa ngục")<sup id="cite_ref-VT45_2-1" class="reference"><a href="#cite_note-VT45-2">[2]</a></sup>
+- [Eldarin thông thường](../C/Common_Eldarin.md): *banda* ("nhà tù, địa ngục")<sup id="cite_ref-VT45_2-1" class="reference"><a href="#cite_note-VT45-2">[2]</a></sup>
     - [Quenya](../Q/Quenya.md): *vanda* ("nhà tù, địa ngục")<sup id="cite_ref-VT45_2-2" class="reference"><a href="#cite_note-VT45-2">[2]</a></sup>
     - [Noldorin](../N/Noldorin.md): [*band*, *bann*](Band.md) ("nhà tù, địa ngục")<sup id="cite_ref-VT45_2-3" class="reference"><a href="#cite_note-VT45-2">[2]</a></sup>
 

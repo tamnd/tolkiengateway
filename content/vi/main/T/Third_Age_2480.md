@@ -16,12 +16,12 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><a href="../F/First_Age.md" title="First Age">I</a><a href="../S/Second_Age.md" title="Second Age">II</a><b>III</b><a href="../F/Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="Third_Age_2470.md" title="Third Age 2470">2470</a><a href="Third_Age_2475.md" title="Third Age 2475">2475</a><a href="Third_Age_2477.md" title="Third Age 2477">2477</a><a class="mw-selflink selflink">2480</a><a href="Third_Age_2485.md" title="Third Age 2485">2485</a><a href="Third_Age_2488.md" title="Third Age 2488">2488</a><a href="Third_Age_2489.md" title="Third Age 2489">2489</a></div></div></div></div></div></div>
 
-**Kỷ Đệ Tam 2480** (viết tắt là **T.A. 2480**) là năm [thứ 2480 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Tam](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Kỷ Đệ Tam 2480 còn được gọi là **S.R. 880** trong [lịch Shire](../S/Shire-reckoning.md).
+**Thời đại thứ ba 2480** (viết tắt là **T.A. 2480**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 2480 của [Thời đại thứ ba](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Thời đại thứ ba 2480 còn được gọi là **S.R. 880** trong [Tính toán quận](../S/Shire-reckoning.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- [Orc](../O/Orcs.md) bắt đầu xây dựng các thành trì bí mật trong [Dãy Núi Sương Mù](../M/Misty_Mountains.md) để ngăn chặn mọi lối vào [Eriador](../E/Eriador.md).<sup id="cite_ref-TA_1-0" class="reference"><a href="#cite_note-TA-1">[1]</a></sup>
-- [Sauron](../S/Sauron.md) bắt đầu với con người [Moria](../M/Moria.md) với những sinh vật của mình.<sup id="cite_ref-TA_1-1" class="reference"><a href="#cite_note-TA-1">[1]</a></sup>
+- [Orc](../O/Orcs.md) bắt đầu xây dựng các thành trì bí mật ở [Dãy núi sương mù](../M/Misty_Mountains.md) nhằm ngăn chặn mọi lối đi vào [Eriador](../E/Eriador.md).<sup id="cite_ref-TA_1-0" class="reference"><a href="#cite_note-TA-1">[1]</a></sup>
+- [Sauron](../S/Sauron.md) bắt đầu đến với con người [Moria](../M/Moria.md) cùng với các sinh vật của mình.<sup id="cite_ref-TA_1-1" class="reference"><a href="#cite_note-TA-1">[1]</a></sup>
 - Sự ra đời của [Hallas](../H/Hallas.md), con trai của [Quản lý](../R/Ruling_Steward.md) [Cirion](../C/Cirion.md) của [Gondor](../G/Gondor.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>

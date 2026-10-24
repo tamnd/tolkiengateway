@@ -74,16 +74,16 @@ Sự kiện xảy ra vào ngày 13 tháng 1.
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) bị tấn công lần thứ hai bởi một đàn [Warg](../W/Wargs.md) vào đầu giờ.
-    - Họ đến cổng [Phương Tây của Moria](../D/Doors_of_Durin.md) khi màn đêm buông xuống. [Người theo dõi](../W/Watcher_in_the_Water.md) tấn công và làm kẹt cổng Phương Tây.
+    - [Fellowship of the Ring](../F/Fellowship_of_the_Ring.md) bị tấn công lần thứ hai bởi một bầy [Wargs](../W/Wargs.md) vào đầu giờ.
+    - Họ đến [cổng phía Tây của Moria](../D/Doors_of_Durin.md) khi màn đêm buông xuống. [Người canh gác](../W/Watcher_in_the_Water.md) tấn công và làm tắc nghẽn cổng Tây.
     - [Bill the Pony](../B/Bill_the_Pony.md) rời đi.
-    - [Gollum](../G/Gollum.md) bắt đầu theo dõi [Người Mang Nhẫn](../R/Ring-bearer.md).
+    - [Gollum](../G/Gollum.md) bắt đầu theo dõi [Kẻ mang nhẫn](../R/Ring-bearer.md).
 
 ## Ghi chú {#Notes}
 
-Theo thiên văn học, mặt trăng vào ngày 3019 đó sẽ là một vầng trăng khuyết, mọc sau nửa đêm (và do đó sớm hơn [ngày 14 tháng 1](14_January.md)) cho đến khi nó đi qua [Dãy Núi Sương Mù](../M/Misty_Mountains.md) và tỏa sáng ở phía *western* nơi có Cổng.
+Theo thiên văn học, mặt trăng vào ngày 3019 đó sẽ là một vầng trăng khuyết, mọc sau nửa đêm (và do đó sớm hơn [ngày 14 tháng 1](14_January.md)) cho đến khi nó đi qua [Dãy núi sương mù](../M/Misty_Mountains.md) và tỏa sáng ở phía *western* nơi có Cổng.
 
-Vậy [Tale of Years](../A/Appendix_B.md) phải sai khi Công ty vào Moria trước nửa đêm ngày 13.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
+Vì vậy [Câu chuyện về những năm](../A/Appendix_B.md) hẳn là không chính xác khi Công ty tiến vào Moria trước nửa đêm ngày 13.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

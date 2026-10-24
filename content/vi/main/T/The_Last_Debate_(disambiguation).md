@@ -20,7 +20,7 @@ images:
 
 ## Sự kiện {#Event}
 
-- *[Last Debate](../L/Last_Debate.md)*, cuộc thảo luận giữa [Aragorn](../A/Aragorn.md) với [Thuyền trưởng của Phương Tây](../C/Captains_of_the_West.md) trước khi hành quân trên [Cổng Đen](../B/Black_Gate.md).
+- *[Last Debate](../L/Last_Debate.md)*, cuộc thảo luận do [Aragorn](../A/Aragorn.md) tổ chức với [Các thủ lĩnh của phương Tây](../C/Captains_of_the_West.md) trước khi hành quân đến [Cổng đen](../B/Black_Gate.md).
 
 ## Chương {#Chapters}
 

@@ -11,4 +11,4 @@ redirect_target: "Noldor"
 redirect_fragment: "Etymology and Names"
 ---
 
-Chuyển hướng đến [Noldor](../N/Noldor.md#Etymology_and_Names).
+Chuyển hướng tới [Noldor](../N/Noldor.md#Etymology_and_Names).

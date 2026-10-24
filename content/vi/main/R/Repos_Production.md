@@ -32,7 +32,7 @@ infobox:
 
 ## Sản phẩm liên quan đến Tolkien và Trung Địa {#Products_related_to_Tolkien_and_Middle-earth}
 
-- [The Lord of the Rings: Đấu tay đôi cho Trung Địa (game bài 2024)](<../T/The_Lord_of_the_Rings%253A_Duel_for_Middle-earth_(2024_card_game).md>)
+- [The Lord of the Rings: Duel for Middle-earth (2024 card game)](<../T/The_Lord_of_the_Rings%253A_Duel_for_Middle-earth_(2024_card_game).md>)
 
 <br>
 

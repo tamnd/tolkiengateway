@@ -63,19 +63,19 @@ Sự kiện xảy ra vào ngày 14 tháng 2.
 
 ## Trên Trái đất {#On_Earth}
 
-- **[1896](1896.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một lá thư gửi cho bố](../L/Letter_to_Arthur_Tolkien.md).
+- **[1896](1896.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một bức thư gửi bố](../L/Letter_to_Arthur_Tolkien.md).
 - **[1896](1896.md)** - [E.V. Gordon](../E/E.V._Gordon.md), đồng nghiệp sau này của Tolkien, ra đời.
 - **[1914](1914.md)** - Dịch giả [Britt G. Hallqvist](../B/Britt_G._Hallqvist.md) ra đời.
 - **[1918](1918.md)** - Nhà sản xuất [William Lawrence Snyder](../W/William_Lawrence_Snyder.md) ra đời.
-- **[1938](1938.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) có bài phát biểu đầy mời gọi tại Lovelace Society, câu lạc bộ tiểu luận của <a class="extiw" href="http://en.wikipedia.org/wiki/Worcester_College,_Oxford" title="wikipedia:Worcester College, Oxford">Worcester College, Oxford.</a> Anh ấy đọc chúng *The Legend of Worming Hall*, một câu chuyện sau này sẽ trở thành *[Farmer Giles of Ham](../F/Farmer_Giles_of_Ham.md)*.
+- **[1938](1938.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) có bài phát biểu đầy mời gọi tại Lovelace Society, câu lạc bộ tiểu luận của <a class="extiw" href="http://en.wikipedia.org/wiki/Worcester_College,_Oxford" title="wikipedia:Worcester College, Oxford">Worcester College, Oxford.</a> Ông đọc chúng *The Legend of Worming Hall*, một câu chuyện sau này sẽ trở thành *[Farmer Giles of Ham](../F/Farmer_Giles_of_Ham.md)*.
 - **[1977](1977.md)** - *[The Mythology of Middle-earth](../T/The_Mythology_of_Middle-earth.md)* được xuất bản.
-- **[2008](2008.md)** - *[The Lord of the Rings Trực tuyến](../T/The_Lord_of_the_Rings_Online.md): [Shadows of Angmar](../T/The_Lord_of_the_Rings_Online%253A_Shadows_of_Angmar.md)*, "The Ashen Wastes" được phát hành ở Châu Âu.
+- **[2008](2008.md)** - *[The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md): [Shadows of Angmar](../T/The_Lord_of_the_Rings_Online%253A_Shadows_of_Angmar.md)*, "The Ashen Wastes" được phát hành ở Châu Âu.
 - **[2015](2015.md)** - Diễn viên [Alan Howard](../A/Alan_Howard.md) qua đời.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) nằm ở [Lothlórien](../L/Lothlórien.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup>
+    - [Hiệp hội của chiếc nhẫn](../F/Fellowship_of_the_Ring.md) nằm ở [Lothlórien](../L/Lothlórien.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup>
 
 ## Ghi chú {#Notes}
 

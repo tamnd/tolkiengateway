@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "In Dwimordene, in Lórien"
 ---
 
-Chuyển hướng đến [Ở Dwimordene, ở Lórien](../I/In_Dwimordene,_in_Lórien.md).
+Chuyển hướng tới [Ở Dwimordene, ở Lórien](../I/In_Dwimordene,_in_Lórien.md).

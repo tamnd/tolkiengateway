@@ -14,7 +14,7 @@ sort_keys:
   "Quenya suffixes": "mmë"
 ---
 
-<i><b>-mmë</b></i> là phần cuối [Quenya](../Q/Quenya.md) đại từ, "chúng tôi" độc quyền.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>-mmë</b></i> là phần kết thúc [Quenya](../Q/Quenya.md) đại từ, "chúng tôi" độc quyền.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Ví dụ {#Examples}
 

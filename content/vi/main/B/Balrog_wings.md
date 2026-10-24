@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Balrogs/Wings"
 ---
 
-Chuyển hướng đến [Balrog/Wings](Balrogs%252FWings.md).
+Chuyển hướng tới [Balrogs/Wings](Balrogs%252FWings.md).

@@ -16,12 +16,12 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><a href="../F/First_Age.md" title="First Age">I</a><a href="../S/Second_Age.md" title="Second Age">II</a><b>III</b><a href="../F/Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="Third_Age_2299.md" title="Third Age 2299">2299</a><a href="Third_Age_2319.md" title="Third Age 2319">2319</a><a href="Third_Age_2324.md" title="Third Age 2324">2324</a><a class="mw-selflink selflink">2327</a><a href="Third_Age_2328.md" title="Third Age 2328">2328</a><a href="Third_Age_2338.md" title="Third Age 2338">2338</a><a href="Third_Age_2340.md" title="Third Age 2340">2340</a></div></div></div></div></div></div>
 
-**Kỷ Đệ Tam 2327** (viết tắt là **T.A. 2327**) là năm [thứ 2327 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Tam](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Kỷ Đệ Tam 2327 còn được gọi là **S.R. 727** trong [lịch Shire](../S/Shire-reckoning.md).
+**Kỷ thứ ba 2327** (viết tắt là **T.A. 2327**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 2327 của [Kỷ thứ ba](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Kỷ nguyên thứ ba 2327 còn được gọi là **S.R. 727** trong [Tính toán quận](../S/Shire-reckoning.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- Người [Thủ lĩnh thứ năm của Dúnedain](../C/Chieftains_of_the_Dúnedain.md), [Aragorn I](../A/Aragorn_I.md), bị [sói](../W/Wolves.md) giết chết trong [Eriador](../E/Eriador.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
-Con trai của - Aragorn, [Araglas](../A/Araglas.md), trở thành Thủ lĩnh thứ sáu của Dúnedain.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- [Thủ lĩnh của người Dúnedain](../C/Chieftains_of_the_Dúnedain.md) thứ năm, [Aragorn I](../A/Aragorn_I.md), bị giết bởi [sói](../W/Wolves.md) ở [Eriador](../E/Eriador.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+- Con trai của Aragorn, [Araglas](../A/Araglas.md), trở thành Thủ lĩnh thứ sáu của Dúnedain.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

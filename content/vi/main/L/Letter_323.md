@@ -31,11 +31,11 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien xin lỗi [Christopher](../C/Christopher_Tolkien.md) vì đã lâu không viết. Anh đã trải qua cả tháng Năm mà không viết được một chữ nào. Một phần thời gian được dành cho kỳ nghỉ ngắn ngày ở <a class="extiw" href="http://en.wikipedia.org/wiki/Sidmouth" title="wikipedia:Sidmouth">Sidmouth</a>. Tolkien vui vẻ miêu tả việc đến trong “sự bùng nổ mùa xuân” của vinh quang, của hoa và cây sồi đâm lá lộng lẫy.
+Tolkien xin lỗi [Christopher](../C/Christopher_Tolkien.md) vì đã lâu không viết. Anh đã trải qua cả tháng Năm mà không viết được một chữ nào. Một phần thời gian được dành cho kỳ nghỉ ngắn ngày ở <a class="extiw" href="http://en.wikipedia.org/wiki/Sidmouth" title="wikipedia:Sidmouth">Sidmouth</a>. Tolkien vui mừng mô tả việc đến trong "sự bùng nổ mùa xuân" của vinh quang, của những bông hoa và những cây sồi đâm chồi lộng lẫy.
 
-Khách sạn Belmont đã chứng tỏ là một lựa chọn rất tốt. Mặc dù trông có vẻ dữ tợn nhưng nó có một vị trí hoàn hảo và là nơi tốt nhất để ăn uống. Một số người bạn du lịch trung thành đã chuyển đến Sidmouth và đã kiểm tra phòng của họ, cung cấp một chiếc ô tô và đưa họ đi hầu như hàng ngày. Tolkien nhờ đó đã có thể thăm lại đất nước mà anh và Christopher đã đến thăm nhiều năm trước. Sidmouth hầu như không thay đổi với các cửa hàng mang tên Frisby, Trump và Potbury.
+Khách sạn Belmont đã chứng tỏ là một lựa chọn rất tốt. Mặc dù trông có vẻ dữ tợn nhưng nó có một vị trí hoàn hảo và là nơi tốt nhất để ăn uống. Một số người bạn du lịch trung thành đã chuyển đến Sidmouth và đã kiểm tra phòng của họ, cung cấp một chiếc ô tô và đưa họ đi hầu như hàng ngày. Do đó, Tolkien có thể thăm lại đất nước mà ông và Christopher đã từng đến nhiều năm trước. Sidmouth hầu như không thay đổi với các cửa hàng mang tên Frisby, Trump và Potbury.
 
-Bức thư đã bị gián đoạn và vào ngày 10 tháng 6 Tolkien báo cáo rằng ông và vợ đã bị nhiễm virus hoặc ngộ độc thực phẩm. Ông nói, nguy cơ thứ hai tiếp tục gia tăng ở đất nước bị ô nhiễm này. Tolkien mong mỏi được gặp con trai và tiếc nuối khoảng cách giữa nơi ở của họ.
+Bức thư bị gián đoạn và vào ngày 10 tháng 6, Tolkien báo cáo rằng ông và vợ đã bị nhiễm virus hoặc ngộ độc thực phẩm. Ông nói, nguy cơ thứ hai tiếp tục gia tăng ở đất nước bị ô nhiễm này. Tolkien khao khát được gặp con trai mình và tiếc nuối khoảng cách giữa nơi ở của họ.
 
 <br>
 

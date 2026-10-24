@@ -11,4 +11,4 @@ redirect_target: "Finwë"
 redirect_fragment: "Other names and titles"
 ---
 
-Chuyển hướng đến [Finwë](../F/Finwë.md#Other_names_and_titles).
+Chuyển hướng tới [Finwë](../F/Finwë.md#Other_names_and_titles).

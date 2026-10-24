@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fallohides"
 ---
 
-Chuyển hướng đến [Fallohides](Fallohides.md).
+Chuyển hướng tới [Fallohides](Fallohides.md).

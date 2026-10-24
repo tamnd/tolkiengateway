@@ -16,6 +16,6 @@ sort_keys:
   "Tolkien Societies": "National Tolkien League"
 ---
 
-**Liên đoàn Tolkien Quốc gia** là một [Hiệp hội Tolkien Mỹ](../A/American_Tolkien_Society.md), được thành lập vào [1973](../_/1973.md). Họ đã xuất bản liên tục ít nhất kể từ [1977](../_/1977.md), dưới tên *Tạp chí Sơ bộ của Liên đoàn Tolkien Quốc gia*, *Frodo Fortnightly* và *Ardalindë*.
+**Liên đoàn Tolkien Quốc gia** là một [Hiệp hội Tolkien Hoa Kỳ](../A/American_Tolkien_Society.md), được thành lập vào năm [1973](../_/1973.md). Họ đã xuất bản liên tục ít nhất từ ​​ [1977](../_/1977.md), dưới tên *Tạp chí Sơ bộ của Liên đoàn Tolkien Quốc gia*, *Frodo Fortnightly* và *Ardalindë*.
 
-Kể từ tháng 12 năm 2011, Giải Tolkien Quốc gia không có trang web cũng như không có bất kỳ thông tin nào được biết đến.
+Kể từ tháng 12 năm 2011, National Tolkien League không có trang web nào cũng như không có bất kỳ thông tin nào được biết đến.

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Drúedain of Beleriand"
 ---
 
-Chuyển hướng tới [Drúedain của Beleriand](Drúedain_of_Beleriand.md).
+Chuyển hướng đến [Drúedain xứ Beleriand](Drúedain_of_Beleriand.md).

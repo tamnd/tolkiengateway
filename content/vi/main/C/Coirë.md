@@ -23,7 +23,7 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-**Coirë** dịch ra là 'khuấy động' và là tên [Quenya](../Q/Quenya.md) chỉ mùa [Elvish](../E/Elvish.md) giữa đông và xuân. Theo [Tính toán của Rivendell](../R/Reckoning_of_Rivendell.md) thì đây là mùa cuối cùng trong năm và ít nhiều tương ứng với 54 ngày từ [ngày 11 tháng 2](../_/11_February.md) đến [ngày 4 tháng 4](../_/4_April.md) trong [Lịch Shire](../S/Shire_Calendar.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Coirë** dịch là 'khuấy động' và là tên [Quenya](../Q/Quenya.md) cho mùa [Elvish](../E/Elvish.md) giữa mùa đông và mùa xuân. Trong [Tính toán của Rivendell](../R/Reckoning_of_Rivendell.md) đây là mùa cuối cùng trong năm và ít nhiều tương ứng với 54 ngày từ [ngày 11 tháng 2](../_/11_February.md) đến [ngày 4 tháng 4](../_/4_April.md) trong [Lịch Shire](../S/Shire_Calendar.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">See also: <a href="../E/Echuir.md" title="Echuir">Echuir</a></div></div>
 

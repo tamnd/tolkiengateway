@@ -17,9 +17,9 @@ sort_keys:
   "Sindarin pronouns": "In"
 ---
 
-## Sindarin {#Sindarin}
+## Tiếng Sindarin {#Sindarin}
 
-<i><b>în</b></i> là một từ [Sindarin](../S/Sindarin.md) xuất hiện trong Thư của [Vua](../K/King's_Letter.md).<sup id="cite_ref-SD_1-0" class="reference"><a href="#cite_note-SD-1">[1]</a></sup> Từ này thường được hiểu là một đại từ có nghĩa là "của anh ấy" (đề cập đến chủ ngữ).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+<i><b>în</b></i> là một từ [tiếng Sindarin](../S/Sindarin.md) xuất hiện trong [Thư của nhà vua](../K/King's_Letter.md).<sup id="cite_ref-SD_1-0" class="reference"><a href="#cite_note-SD-1">[1]</a></sup> Từ này thường được hiểu là một đại từ có nghĩa là "của ông" (đề cập đến chủ ngữ).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ### Cụm từ {#Phrases}
 
@@ -32,7 +32,7 @@ sort_keys:
 
 ## Noldorin {#Noldorin}
 
-<i><b>în</b></i> là một từ [Noldorin](../N/Noldorin.md) có nghĩa là "năm".<sup id="cite_ref-LR_4-0" class="reference"><a href="#cite_note-LR-4">[4]</a></sup>
+<i><b>în</b></i> là từ [Noldorin](../N/Noldorin.md) có nghĩa là "năm".<sup id="cite_ref-LR_4-0" class="reference"><a href="#cite_note-LR-4">[4]</a></sup>
 
 ### Từ nguyên {#Etymology}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Oxford"
 ---
 
-Chuyển hướng đến [Oxford](../O/Oxford.md).
+Chuyển hướng tới [Oxford](../O/Oxford.md).

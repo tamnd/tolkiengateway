@@ -24,7 +24,7 @@ file:
   user: "Malachi"
 ---
 
-[Théodred](../../main/T/Théodred.md) trong *[The Lord of the Rings Trực tuyến: Sự trỗi dậy của Isengard](../../main/T/The_Lord_of_the_Rings_Online%253A_Rise_of_Isengard.md).*
+[Théodred](../../main/T/Théodred.md) trong *[The Lord of the Rings Online: Rise of Isengard](../../main/T/The_Lord_of_the_Rings_Online%253A_Rise_of_Isengard.md).*
 
 ## Giấy phép {#Licensing}
 

@@ -35,7 +35,7 @@ infobox:
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
-<i><b>Unto a Long Glory...</b></i> là ca khúc thứ bảy trong album [Dol Guldur](<../D/Dol_Guldur_(album).md>) của ban nhạc [Summoning](../S/Summoning.md). Giống như bài hát [The Passing of the Grey Company](<../T/The_Passing_of_the_Grey_Company_(song).md>) trong album [Minas Morgul](<../M/Minas_Morgul_(album).md>), lời bài hát đề cập đến [Aragorn đi vào Con đường của người chết](../A/Aragorn_Takes_the_Paths_of_the_Dead.md), bao gồm [Grey Company](../G/Grey_Company.md), [Tảng đá Erech](../S/Stone_of_Erech.md) và [Những kẻ phá vỡ lời thề](../O/Oathbreakers.md).
+<i><b>Unto a Long Glory...</b></i> là ca khúc thứ bảy trong album [Dol Guldur](<../D/Dol_Guldur_(album).md>) của ban nhạc [Summoning](../S/Summoning.md). Giống như bài hát [The Passing of the Grey Company](<../T/The_Passing_of_the_Grey_Company_(song).md>) trong album [Minas Morgul](<../M/Minas_Morgul_(album).md>), lời bài hát đề cập đến [Aragorn đi theo con đường của người chết](../A/Aragorn_Takes_the_Paths_of_the_Dead.md), bao gồm [Grey Company](../G/Grey_Company.md), [Stone of Erech](../S/Stone_of_Erech.md) và [Oathbreakers](../O/Oathbreakers.md).
 
 ## Lời bài hát {#Lyrics}
 

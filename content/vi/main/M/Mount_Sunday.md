@@ -13,4 +13,4 @@ categories:
   - "The Lord of the Rings (film series) filming locations"
 ---
 
-**Núi Chủ nhật**, [New Zealand](../N/New_Zealand.md), được sử dụng ở *[The Lord of the Rings: The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)* và ở [The Lord of the Rings: The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md) làm ngọn đồi nơi [Edoras](../E/Edoras.md), thủ đô của [Rohan](../R/Rohan.md) tọa lạc.
+**Mount Sunday**, [New Zealand](../N/New_Zealand.md), được sử dụng ở *[The Lord of the Rings: The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)* và ở [The Lord of the Rings: The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md) làm ngọn đồi nơi [Edoras](../E/Edoras.md), thủ đô của [Rohan](../R/Rohan.md) tọa lạc.

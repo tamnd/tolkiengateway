@@ -42,11 +42,11 @@ infobox:
 
 ## Lịch sử {#History}
 
-Trong [T.A.](../T/Third_Age.md) [2](../T/Third_Age_2.md), Estelmo đi cùng Elendur và Isildur về phía bắc dọc theo sườn phía đông của [Dãy Núi Sương Mù](../M/Misty_Mountains.md). Họ [phục kích](../D/Disaster_of_the_Gladden_Fields.md) bởi [Orc](../O/Orcs.md), và sau một cú đánh vào đầu, Estelmo được cho là đã chết. Choáng váng, chàng trai sống sót và được tìm thấy dưới xác Elendur. Estelmo đã hồi phục và là một trong ba [Con Người](../M/Men.md) duy nhất sống sót sau Thảm họa trong đó Isildur và [Người Nhẫn](../T/The_One_Ring.md) đã mất tích. Anh ấy đã có thể thuật lại lời của Isildur và Elendur khi họ chia tay.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Trong [T.A.](../T/Third_Age.md) [2](../T/Third_Age_2.md), Estelmo đi cùng Elendur và Isildur về phía bắc dọc theo sườn phía đông của [Dãy núi Sương mù](../M/Misty_Mountains.md). Họ [phục kích](../D/Disaster_of_the_Gladden_Fields.md) bởi [Orc](../O/Orcs.md), và sau một cú đánh vào đầu, Estelmo được cho là đã chết. Choáng váng, chàng trai sống sót và được tìm thấy dưới xác Elendur. Estelmo đã hồi phục và là một trong ba [Người đàn ông](../M/Men.md) duy nhất sống sót sau Thảm họa trong đó Isildur và [Chiếc Nhẫn Chúa](../T/The_One_Ring.md) bị mất. Ông đã có thể kể lại những lời của Isildur và Elendur khi họ chia tay.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Estelmo* rõ ràng là [Quenya](../Q/Quenya.md). Mặc dù nó không được đánh bóng, [Paul Strack](../P/Paul_Strack.md) giải thích rằng nó có thể có nghĩa là "Người hy vọng", từ *[estel](Estel.md)* ("hy vọng") + *[-mo](../_/-mo.md)* (hậu tố đại lý).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+*Estelmo* rõ ràng là [Quenya](../Q/Quenya.md). Mặc dù nó không được chú thích, [Paul Strack](../P/Paul_Strack.md) giải thích nó có thể có nghĩa là "Người hy vọng", từ *[estel](Estel.md)* ("hy vọng") + *[-mo](../_/-mo.md)* (hậu tố đại lý).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

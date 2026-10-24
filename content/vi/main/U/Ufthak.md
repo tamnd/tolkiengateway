@@ -23,11 +23,11 @@ images:
 
 ## Lịch sử {#History}
 
-Ufthak bị [Shelob](../S/Shelob.md) bắt và đầu độc rồi bị nhốt trong mạng nhện của cô ấy. [Shagrat](../S/Shagrat.md), chỉ huy của anh ta, nhìn thấy anh ta treo cổ ở đó, nhưng không nỗ lực giải thoát anh ta vì anh ta muốn rời khỏi hang động mà không làm Shelob tức giận.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Ufthak bị [Shelob](../S/Shelob.md) bắt và đầu độc rồi bị nhốt trong mạng nhện của bà. [Shagrat](../S/Shagrat.md), chỉ huy của ông ta, nhìn thấy ông ta treo cổ ở đó, nhưng không nỗ lực giải thoát ông ta vì ông ta muốn rời khỏi hang động mà không làm Shelob tức giận.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-**2003:** <i><b><a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_(video_game).md" title="The Lord of the Rings: The Return of the King (video game)">The Lord of the Rings: The Return of the King (trò chơi điện tử)</a></b></i>
+**2003:** <i><b><a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_(video_game).md" title="The Lord of the Rings: The Return of the King (video game)">Chúa tể của những chiếc nhẫn: Sự trở lại của nhà vua (trò chơi điện tử)</a></b></i>
 
 <dl><dd>Although not explicitly identified by name, a lone Orc can be found in the &#34;Shelob&#39;s Lair&#34; level, fighting for his life against Shelob&#39;s children in a small, web-filled chamber. While it might not truly be Ufthak himself, it may still be a homage to his fate.</dd>
 <dd>He can be left to fend for himself, but he will start fighting the player if they choose to save him from his attackers.</dd></dl>

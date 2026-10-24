@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Manwë"
 ---
 
-Chuyển hướng đến [Manwë](Manwë.md).
+Chuyển hướng tới [Manwë](Manwë.md).

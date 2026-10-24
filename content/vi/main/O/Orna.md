@@ -22,9 +22,9 @@ categories:
 
 Trong "[Từ, Cụm từ và Đoạn văn](../P/Parma_Eldalamberon_17.md)", từ này có nguồn gốc từ [gốc](../S/Sundocarme.md) [OR, RŌ](OR~34968.md).<sup id="cite_ref-PE17_1-1" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup>
 
-Trong [*Etymologies*](../T/The_Etymologies.md), Quenya *orna* ("vội vàng") xuất phát từ gốc <a class="new" href="https://tolkiengateway.net/w/index.php?title=GOR&amp;action=edit&amp;redlink=1" title="GOR (page does not exist)">GOR</a> ("bạo lực, thúc đẩy, vội vàng").<sup id="cite_ref-LR_2-1" class="reference"><a href="#cite_note-LR-2">[2]</a></sup>
+Trong [*Etymologies*](../T/The_Etymologies.md), Quenya *orna* ("vội vàng") bắt nguồn từ gốc <a class="new" href="https://tolkiengateway.net/w/index.php?title=GOR&amp;action=edit&amp;redlink=1" title="GOR (page does not exist)">GOR</a> ("bạo lực, thúc đẩy, vội vàng").<sup id="cite_ref-LR_2-1" class="reference"><a href="#cite_note-LR-2">[2]</a></sup>
 
-## Elvish {#Elvish}
+## Người Tiên {#Elvish}
 
 Trong *[Unfinished Tales](../U/Unfinished_Tales.md)* có ghi chú [Elvish](../E/Elvish.md) "dạng tính từ cổ" <i><b>ornā</b></i> ("nổi dậy, cao lớn"), không có ngôn ngữ được chỉ định.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 

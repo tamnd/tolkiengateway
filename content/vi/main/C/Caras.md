@@ -25,7 +25,7 @@ Nó bắt nguồn từ [PQ](../P/PQ.md) \**karasse*, [root](../S/Sundocarmë.md)
 
 ## Xem thêm {#See_also}
 
-- [Caras Galadhon](Caras_Galadhon.md)
+- [Cara Galadhon](Caras_Galadhon.md)
 
 <span></span>
 

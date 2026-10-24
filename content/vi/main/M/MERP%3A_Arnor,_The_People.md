@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Arnor: The People"
 ---
 
-Chuyển hướng đến [Arnor: Con người](../A/Arnor%253A_The_People.md).
+Chuyển hướng đến [Arnor: The People](../A/Arnor%253A_The_People.md).

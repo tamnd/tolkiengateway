@@ -19,13 +19,13 @@ categories:
 
 **Fanon** là một <a class="extiw" href="http://en.wikipedia.org/wiki/portmanteau" title="wikipedia:portmanteau">từ ghép</a> của "fan [canon](../C/Canon.md)", đề cập đến cách diễn giải, giải thích hoặc thậm chí lật đổ các tác phẩm hư cấu có sức lan tỏa rộng rãi trong một [fandom](Fandom.md). Những điều này có thể bắt nguồn từ [fanfiction](Fanfiction.md), tác phẩm nhại, chuyển thể (chẳng hạn như [*The Lord of the Rings* loạt phim](<../T/The_Lord_of_the_Rings_(film_series).md>)) hoặc thậm chí là những quan niệm sai lầm. Sự thấm nhuần của họ có nghĩa là bản chất phi kinh điển của họ không phải lúc nào cũng rõ ràng đối với người hâm mộ.<sup id="cite_ref-parrish_1-1" class="reference"><a href="#cite_note-parrish-1">[1]</a></sup><sup id="cite_ref-Eason_2-0" class="reference"><a href="#cite_note-Eason-2">[2]</a></sup>
 
-Ví dụ về các khái niệm phi kinh điển được cộng đồng TV Tropes coi là phổ biến trong fanfiction, trong số đó, việc sử dụng các thuật ngữ như “người lùn” và “yêu tinh”, khái niệm [Tiên tộc](../E/Elves.md) ăn chay nghiêm ngặt và sử dụng cấp bậc quân sự hiện đại.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Ví dụ về các khái niệm phi kinh điển được cộng đồng TV Tropes coi là phổ biến trong fanfiction, trong số những ví dụ khác, việc sử dụng các thuật ngữ như “người lùn” và “yêu tinh”, khái niệm [Yêu tinh](../E/Elves.md) ăn chay nghiêm ngặt và sử dụng cấp bậc quân sự hiện đại.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Một công việc chính của fanon trong fandom *Lord of the Rings* là <a class="external text" href="https://notionclubarchives.fandom.com" rel="noreferrer noopener" target="_blank">Kho lưu trữ Notion Club mới</a>, là một dự án tìm cách gắn kết một [Arda](../A/Arda.md) mạch lạc, dày đặc và phức tạp hơn lại với nhau, sử dụng các khái niệm từ nhiều bản chuyển thể khác nhau được diễn giải lại và điều chỉnh cho nhất quán.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Ngược lại, nó được sử dụng làm nguồn cho các dự án dành cho người hâm mộ khác như *[The Lord of the Rings: Realms in Exile](../T/The_Lord_of_the_Rings%253A_Realms_in_Exile.md)*.
+Một công việc chính của fanon trong *Lord of the Rings* fandom là <a class="external text" href="https://notionclubarchives.fandom.com" rel="noreferrer noopener" target="_blank">New Notion Club Archives</a>, là một dự án tìm cách gắn kết một [Arda](../A/Arda.md) mạch lạc, dày đặc hơn và phức tạp hơn, sử dụng các khái niệm từ nhiều bản chuyển thể khác nhau được diễn giải lại và điều chỉnh cho nhất quán.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Đến lượt nó, nó được sử dụng làm nguồn cho các dự án dành cho người hâm mộ khác như *[The Lord of the Rings: Realms in Exile](../T/The_Lord_of_the_Rings%253A_Realms_in_Exile.md)*.
 
 ## Xem thêm {#See_also}
 
-- [Tolkien Nghiên cứu](../T/Tolkien_Studies~62237.md)
+- [Nghiên cứu Tolkien](../T/Tolkien_Studies~62237.md)
 
 <span></span>
 

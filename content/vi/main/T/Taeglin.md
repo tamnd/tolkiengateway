@@ -41,9 +41,9 @@ infobox:
 
 ## Khóa học {#Course}
 
-Nó nổi lên ở [Ered Wethrin](../E/Ered_Wethrin.md) và chảy về phía đông nam qua [Brethil](../B/Brethil.md) để nhập vào Sirion trên ranh giới của [Doriath](../D/Doriath.md). Nó có ba nhánh nhỏ: [Glithui](../G/Glithui.md), [Malduin](../M/Malduin.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và [Celebros](../C/Celebros.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Nó dâng lên trong [Ered Wethrin](../E/Ered_Wethrin.md) và chảy về phía đông nam qua [Brethil](../B/Brethil.md) để nhập vào Sirion trên biên giới của [Doriath](../D/Doriath.md). Nó có ba nhánh nhỏ: [Glithui](../G/Glithui.md), [Malduin](../M/Malduin.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và [Celebros](../C/Celebros.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Khi đi qua phía đông nam của Brethil, nó đi xuống qua [Khe núi Taeglin](../R/Ravines_of_Taeglin.md) dọc theo mái hiên của Rừng. Xa hơn về phía nam, con sông có thể được bồi đắp tại [Crossings of the Taeglin](../C/Crossings_of_the_Taeglin.md), gần biên giới phía tây của Brethil. Có một con đường chạy qua từ [Nargothrond](../N/Nargothrond.md) đến [Minas Tirith](<../M/Minas_Tirith_(Beleriand).md>).
+Khi đi qua phía đông nam Brethil, nó đi xuống [Ravines of Taeglin](../R/Ravines_of_Taeglin.md) chạy dọc theo mái hiên của Khu rừng. Xa hơn về phía nam, con sông có thể được bồi đắp tại [Giao lộ Taeglin](../C/Crossings_of_the_Taeglin.md), gần biên giới phía tây của Brethil. Một con đường chạy qua đó từ [Nargothrond](../N/Nargothrond.md) đến [Minas Tirith](<../M/Minas_Tirith_(Beleriand).md>).
 
 ## Từ nguyên {#Etymology}
 
@@ -53,7 +53,7 @@ Trong *[Etymologies](../E/Etymologies.md)* tên xuất hiện ở dạng trướ
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong các tác phẩm trước đó, dòng sông được gọi là **Teiglin**. Như đã tiết lộ trong loạt bài *[The History of Middle-earth](The_History_of_Middle-earth.md)*, tên của con sông lẽ ra phải được đánh vần là *Taeglin* ("Sông ranh giới").<sup id="cite_ref-WJ_3-1" class="reference"><a href="#cite_note-WJ-3">[3]</a></sup> Đây là một thay đổi tương đối muộn và không được áp dụng cho *[The Silmarillion](The_Silmarillion.md)*đã xuất bản, vốn sử dụng tên cũ, cũng như *[The Children of Húrin](The_Children_of_Húrin.md)*. <span></span>
+Trong các tác phẩm trước đó, con sông được gọi là **Teiglin**. Như đã tiết lộ trong loạt bài *[The History of Middle-earth](The_History_of_Middle-earth.md)*, tên của con sông lẽ ra phải được đánh vần là *Taeglin* ("Sông ranh giới").<sup id="cite_ref-WJ_3-1" class="reference"><a href="#cite_note-WJ-3">[3]</a></sup> Đây là một thay đổi tương đối muộn và không được áp dụng cho *[The Silmarillion](The_Silmarillion.md)* đã xuất bản, vốn sử dụng tên cũ, cũng như *[The Children of Húrin](The_Children_of_Húrin.md)*. <span></span>
 
 ## Tài liệu tham khảo {#References}
 

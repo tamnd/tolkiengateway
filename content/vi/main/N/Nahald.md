@@ -26,7 +26,7 @@ langlinks:
 
 ## Từ nguyên {#Etymology}
 
-Có thể có [Gốc](../S/Sundocarmë.md) \*NAH<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
+Một [Root](../S/Sundocarmë.md) có thể có \*NAH<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

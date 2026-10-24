@@ -27,7 +27,7 @@ Vào một ngày không xác định, [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) �
 
 ## Xem thêm {#See_also}
 
-- [Thư gửi Simonne d'Ardenne (21 tháng Chín 1937)](<Letter_to_Simonne_d'Ardenne_(21_September_1937).md>)
+- [Thư gửi Simonne d'Ardenne (21 tháng 9 năm 1937)](<Letter_to_Simonne_d'Ardenne_(21_September_1937).md>)
 
 <span></span>
 

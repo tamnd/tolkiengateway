@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Moria: The Dwarven City"
 ---
 
-Chuyển hướng đến [Moria: Thành phố Người lùn](Moria%253A_The_Dwarven_City.md).
+Chuyển hướng đến [Moria: The Dwarven City](Moria%253A_The_Dwarven_City.md).

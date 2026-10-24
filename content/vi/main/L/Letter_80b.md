@@ -29,7 +29,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Trong một lá thư gửi [Stanley Unwin](../S/Stanley_Unwin.md), Tolkien thông báo với ông về việc đã gặp con trai mình [Rayner Unwin](../R/Rayner_Unwin.md) hai lần, bao gồm cả chuyến thăm Rayner tới nhà của Tolkien. Tolkien bày tỏ sự ngưỡng mộ đối với Rayner, mô tả anh ấy là người cực kỳ tốt bụng và xin lỗi vì không thể hỗ trợ anh ấy nhiều hơn do vai trò giảng dạy còn hạn chế. Ông kết luận bằng cách hy vọng rằng Stanley Unwin sẽ không phải chịu đựng những mối đe dọa thời chiến từ máy bay V-1 hoặc tên lửa. <br>
+Trong một lá thư gửi [Stanley Unwin](../S/Stanley_Unwin.md), Tolkien thông báo với ông về việc gặp con trai mình [Rayner Unwin](../R/Rayner_Unwin.md) hai lần, bao gồm cả chuyến thăm Rayner tới nhà Tolkien. Tolkien bày tỏ sự ngưỡng mộ đối với Rayner, mô tả ông là người cực kỳ tốt bụng và xin lỗi vì không thể hỗ trợ ông nhiều hơn do vai trò giảng dạy còn hạn chế. Ông kết luận bằng cách hy vọng rằng Stanley Unwin sẽ không phải chịu đựng những mối đe dọa thời chiến từ máy bay V-1 hoặc tên lửa. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

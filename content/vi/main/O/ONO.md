@@ -12,7 +12,7 @@ categories:
   - "Roots"
 ---
 
-**ONO** là [Primitive Quendian](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md).
+**ONO** là [Quendian nguyên thủy](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md).
 
 **ON/NO** (hoặc **ONO/NŌ**) có nghĩa là "sinh ra/được sinh ra". **NŌ** (hoặc **KHÔNG**) biểu thị "thế hệ, con người, dân gian, nhóm lớn được coi là có chung một tổ tiên".<sup id="cite_ref-PE_1-0" class="reference"><a href="#cite_note-PE-1">[1]</a></sup>
 
@@ -33,16 +33,16 @@ Trong [*Etymologies*](../T/The_Etymologies.md) xuất hiện các gốc liên qu
 
 - Không-
     - Quenya: *[nóre](../N/Nóre.md)*; *[nosse](../N/Nossë.md)*
-    - [Noldorin](../N/Noldorin.md): *nûr* ("cuộc đua"); *noss* ("dòng tộc, gia đình, nhà")
+    - [Noldorin](../N/Noldorin.md): *nûr* ("chủng tộc"); *noss* ("dòng tộc, gia đình, nhà")
 
 - Không-
-- Quenya: *onóro* ("anh"), *onóne* ("chị")
-    - [Old Noldorin](../K/Kornoldorin.md): *wanūro*<sup id="cite_ref-VT46_4-0" class="reference"><a href="#cite_note-VT46-4">[4]</a></sup>
+- Quenya: *onóro* ("anh trai"), *onóne* ("chị")
+    - [Noldorin già](../K/Kornoldorin.md): *wanūro*<sup id="cite_ref-VT46_4-0" class="reference"><a href="#cite_note-VT46-4">[4]</a></sup>
     - Noldorin: *[gwanur](../G/Gwanur.md)*
 
 - KHÔNG-
     - Quenya: <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Onta-&amp;action=edit&amp;redlink=1" title="Onta- (page does not exist)">onta-</a></i>; *onna* ("sinh vật"); *ontaro* ("con, cha mẹ"); *ontaru*<sup id="cite_ref-VT46_4-1" class="reference"><a href="#cite_note-VT46-4">[4]</a></sup> (cha mẹ)
-    - Noldorin: *odhron* ("cha mẹ"); *ed-onna* ("beget"); *ûn* ("sinh vật")
+    - Noldorin: *odhron* ("mẹ"); *ed-onna* ("beget"); *ûn* ("sinh vật")
 
 ### Không- {#NŌ-}
 

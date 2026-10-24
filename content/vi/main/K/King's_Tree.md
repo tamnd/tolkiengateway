@@ -13,7 +13,7 @@ categories:
   - "Trees"
 ---
 
-**Vua Cây của** là một cái cây vĩ đại mà [Smith Smithson](../S/Smith_Smithson.md) chỉ nhìn thấy một lần ở vùng đất [Thần tiên](../F/Faery.md). Smith đã có lần bị lạc trong một màn sương mù xám xịt. Khi sương mù tan đi, anh đã ở một vùng đồng bằng rộng lớn. Ở phía xa, anh nhìn thấy một ngọn đồi bóng tối, nhưng từ trong bóng tối, Cây Vua lại mọc lên. Nó cao chót vót với ánh sáng như mặt trời giữa trưa. Nó chứa đầy lá, hoa và trái cây không thể đếm được và là chiếc duy nhất thuộc loại này.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Cây của Vua** là một cái cây vĩ đại mà [Smith Smithson](../S/Smith_Smithson.md) chỉ nhìn thấy một lần ở vùng đất [Thần tiên](../F/Faery.md). Smith đã có lần bị lạc trong một màn sương mù xám xịt. Khi sương mù tan đi, anh đã ở một vùng đồng bằng rộng lớn. Ở đằng xa, anh nhìn thấy một ngọn đồi bóng tối, nhưng từ trong bóng tối đã mọc lên Cây Vua. Nó cao chót vót với ánh sáng như mặt trời giữa trưa. Nó chứa đầy lá, hoa và trái cây không thể đếm được và là chiếc duy nhất thuộc loại này.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

@@ -16,76 +16,76 @@ images:
   - "The_Sundering_of_the_Elves.svg"
 ---
 
-[Tiên tộc](../E/Elves.md) là một chủng tộc bị chia cắt và chia thành nhiều bộ lạc và dân tộc. Cái tên **[Quendi](../Q/Quendi.md)** ám chỉ *all* Tiên tộc, nhưng ngay từ [sự khởi đầu](../A/Awakening_of_the_Elves.md) của họ, loài yêu tinh đã bị chia cắt.
+[Yêu tinh](../E/Elves.md) là một chủng tộc bị chia cắt và chia thành nhiều bộ tộc và dân tộc. Cái tên **[Quendi](../Q/Quendi.md)** ám chỉ *all* Yêu tinh, nhưng ngay từ [sự khởi đầu](../A/Awakening_of_the_Elves.md) của họ, loài yêu tinh đã bị chia cắt.
 
 <figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Sundering_of_the_Elves.png.md"><img alt="The Great Journey of the Elves" src="https://tolkiengateway.net/w/images/thumb/6/67/Sundering_of_the_Elves.png/949px-Sundering_of_the_Elves.png" decoding="async" loading="lazy" width="949" height="657" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/67/Sundering_of_the_Elves.png/1424px-Sundering_of_the_Elves.png 1.5x, https://tolkiengateway.net/w/images/thumb/6/67/Sundering_of_the_Elves.png/1898px-Sundering_of_the_Elves.png 2x" data-file-width="2428" data-file-height="1680"/></a><figcaption>The Great Journey of the Elves</figcaption></figure>
 
 ## Minyar, Tatyar & Nelyar {#Minyar,_Tatyar_&_Nelyar}
 
-Những Tiên tộc chưa được sinh ra thức tỉnh vào lúc [Cuiviénen](../C/Cuiviénen.md) được chia thành ba bộ tộc, phân biệt về ngoại hình và tính khí.
+Những Yêu tinh chưa được sinh ra thức tỉnh tại [Cuiviénen](../C/Cuiviénen.md) được chia thành ba bộ tộc, phân biệt bởi ngoại hình và tính khí.
 
-- Các **[Minyar](../M/Minyar.md)** là những người tóc vàng và yêu thơ.
-- Người **[Tatyar](../T/Tatyar.md)** có mái tóc đen và đôi mắt màu xám, yêu thích nghề thủ công và kiến ​​thức. Họ được nhận xét là đặc biệt hay gây gổ.<sup id="cite_ref-WJ380_1-0" class="reference"><a href="#cite_note-WJ380-1">[1]</a></sup>
-- Nhóm **[Nelyar](../N/Nelyar.md)** có mái tóc sẫm màu hoặc bạc và có bài hát yêu thích (đây là nguồn gốc của tên thay thế của họ, **[Lindar](../L/Lindar.md)**, nghĩa là "Ca sĩ"), rừng cây và Biển.
+- Người **[Minyar](../M/Minyar.md)** có mái tóc vàng và yêu thơ.
+- **[Tatyar](../T/Tatyar.md)** có mái tóc đen và đôi mắt màu xám, yêu thích nghề thủ công và kiến ​​thức. Họ được nhận xét là đặc biệt hay gây gổ.<sup id="cite_ref-WJ380_1-0" class="reference"><a href="#cite_note-WJ380-1">[1]</a></sup>
+- **[Nelyar](../N/Nelyar.md)** có mái tóc sẫm màu hoặc bạc và có bài hát yêu thích (đây là nguồn gốc của tên thay thế của họ, **[Lindar](../L/Lindar.md)**, nghĩa là "Ca sĩ"), rừng và Biển.
 
 ## Eldar và Avari {#Eldar_and_Avari}
 
-Một thời gian sau khi Tiên tộc thức tỉnh, [Vala](../V/Valar.md) [Oromë](../O/Oromë.md) đã phát hiện ra họ và mời họ đến phía Tây để sống ở [Aman](../A/Aman.md). Lời mời đó và [Đại Hành Trình](../G/Great_Journey.md) theo sau đã chia Tiên tộc thành hai nhóm chính và nhiều nhóm nhỏ, chưa bao giờ được đoàn tụ hoàn toàn.
+Một thời gian sau khi Yêu tinh thức tỉnh, [Vala](../V/Valar.md) [Oromë](../O/Oromë.md) đã phát hiện ra họ và mời họ đến phía Tây để sống ở [Aman](../A/Aman.md). Lời mời đó và [Hành trình vĩ đại](../G/Great_Journey.md) sau đó đã chia Yêu tinh thành hai nhóm chính và nhiều nhóm nhỏ, chưa bao giờ đoàn tụ hoàn toàn.
 
-Những **[Avari](../A/Avari.md)** ("Không muốn") là những người từ chối lệnh triệu tập của Oromë. Một nửa Avari ban đầu là của [Tatyar](../T/Tatyar.md) và nửa còn lại là của [Nelyar](../N/Nelyar.md).<sup id="cite_ref-WJ380_1-1" class="reference"><a href="#cite_note-WJ380-1">[1]</a></sup>
+**[Avari](../A/Avari.md)** ("Không muốn") là những người từ chối lời triệu tập của Oromë. Một nửa số Avari ban đầu là của [Tatyar](../T/Tatyar.md) và nửa còn lại là của [Nelyar](../N/Nelyar.md).<sup id="cite_ref-WJ380_1-1" class="reference"><a href="#cite_note-WJ380-1">[1]</a></sup>
 
-Những **[Eldar](../E/Eldar.md)** là những người đã chấp nhận lệnh triệu tập. Tên của họ, "People of the Stars", do Oromë đặt cho họ bằng [ngôn ngữ của họ](../P/Primitive_Quendian.md). Tất cả Minyar đã chấp nhận lệnh triệu tập tới Valinor và được gọi là **[Vanyar](../V/Vanyar.md)**. Những người trong số Tatyar và Nelyar bắt tay vào Đại Hành Trình sẽ được gọi lần lượt là **[Noldor](../N/Noldor.md)** và **[Teleri](../T/Teleri.md)**.
+**[Eldar](../E/Eldar.md)** là những người đã chấp nhận lệnh triệu tập. Tên của họ, "People of the Stars", do Oromë đặt cho họ bằng [ngôn ngữ của họ](../P/Primitive_Quendian.md). Tất cả Minyar đều chấp nhận lời triệu tập đến Valinor và được biết đến với cái tên **[Vanyar](../V/Vanyar.md)**. Những người Tatyar và Nelyar bắt tay vào Cuộc hành trình vĩ đại sẽ lần lượt được biết đến với cái tên **[Noldor](../N/Noldor.md)** và **[Teleri](../T/Teleri.md)**.
 
-### Sự phân chia của Teleri {#Sunderings_of_the_Teleri}
+### Sự chia cắt của Teleri {#Sunderings_of_the_Teleri}
 
-Không giống như Vanyar và Noldor, Teleri phải chịu nhiều phần tách dọc theo Đại Hành Trình:
+Không giống như Vanyar và Noldor, Teleri phải chịu nhiều sự chia cắt trong Hành trình vĩ đại:
 
-- Những người sợ vượt qua [Dãy Núi Sương Mù](../M/Misty_Mountains.md) và ở lại trong thung lũng của [Sông Anduin](../A/Anduin.md) được gọi là **[Nandor](../N/Nandor.md)** ("Những Người Quay Lại").<sup id="cite_ref-WJ412_2-0" class="reference"><a href="#cite_note-WJ412-2">[2]</a></sup>
-    - Một nhóm nhỏ của Nandor rời thung lũng Anduin dưới sự lãnh đạo của [Denethor](../D/Denethor_of_the_Nandor.md) và đến Beleriand trước khi Mặt Trời trỗi dậy lần đầu tiên. Chúng được gọi là **Laiquendi** ("[Tiên Xanh](../G/Green-elves.md)").<sup id="cite_ref-WJ380_1-2" class="reference"><a href="#cite_note-WJ380-1">[1]</a></sup>
+- Những người sợ vượt qua [Dãy núi Sương mù](../M/Misty_Mountains.md) và ở lại trong thung lũng của [Sông Anduin](../A/Anduin.md) được gọi là **[Nandor](../N/Nandor.md)** ("Những Người Quay Về").<sup id="cite_ref-WJ412_2-0" class="reference"><a href="#cite_note-WJ412-2">[2]</a></sup>
+    - Một nhóm nhỏ người Nandor rời thung lũng Anduin dưới sự lãnh đạo của [Denethor](../D/Denethor_of_the_Nandor.md) và đến Beleriand trước khi Mặt trời mọc lần đầu tiên. Chúng được gọi là **Laiquendi** ("[Yêu tinh xanh](../G/Green-elves.md)").<sup id="cite_ref-WJ380_1-2" class="reference"><a href="#cite_note-WJ380-1">[1]</a></sup>
 
-- Những người đã đến [Beleriand](../B/Beleriand.md) phía tây [Dãy Núi Xanh](../B/Blue_Mountains.md) nhưng không vượt qua Aman được gọi là **[Sindar](Sindar.md)** ("Yêu tinh xám").
-    - Nhiều người chọn ở lại để tìm kiếm chúa [Thingol](../T/Thingol.md), người đã biến mất gần cuối cuộc hành trình. Những người này được gọi là **[Eglath](../E/Eglath.md)** ("Bị bỏ rơi"), vì họ bị bỏ lại phía sau khi đồng loại của họ vượt qua Biển.
-    - Những người đã đến bờ Đại Hải nhưng quyết định ở lại đó hoặc, giống như [Nowë](../C/Círdan.md), định băng qua Aman nhưng đến quá muộn để lên [phà đảo](../T/Tol_Eressëa.md), được gọi là **[Falathrim](../F/Falas.md)** ("Người dân của bờ").
+- Những người đã đến [Beleriand](../B/Beleriand.md) phía tây [Blue Mountains](../B/Blue_Mountains.md) nhưng không vượt qua Aman được gọi là **[Sindar](Sindar.md)** ("Yêu tinh xám").
+    - Nhiều người chọn ở lại để tìm kiếm chúa tể [Thingol](../T/Thingol.md) của họ, người đã biến mất ở gần cuối cuộc hành trình. Những người này được gọi là **[Eglath](../E/Eglath.md)** ("Bị bỏ rơi"), vì họ bị bỏ lại khi đồng loại của họ vượt biển.
+    - Những người đến bờ Biển Lớn nhưng quyết định ở lại đó hoặc, giống như [Nowë](../C/Círdan.md), định băng qua Aman nhưng đến quá muộn để lên [phà đảo](../T/Tol_Eressëa.md), được gọi là **[Falathrim](../F/Falas.md)** ("Người dân của bờ biển").
 
-- Những Teleri dưới sự lãnh đạo của [Olwë](../O/Olwë.md) đã vượt qua [Đại Hải](../B/Belegaer.md) để đến Aman được gọi là **[Falmari](../F/Falmari.md)** ("Dân làn sóng").
+- Teleri dưới sự lãnh đạo của [Olwë](../O/Olwë.md) đã vượt qua [Biển Lớn](../B/Belegaer.md) để đến Aman được biết đến với cái tên **[Falmari](../F/Falmari.md)** ("Dân Sóng").
 
 ## Calaquendi và Moriquendi {#Calaquendi_and_Moriquendi}
 
-Những Tiên tộc đã hoàn thành hành trình đến Aman – Vanyar, Noldor và Falmari – tự gọi mình là **[Calaquendi](../C/Calaquendi.md)** ("Tiên tộc của Ánh sáng"). Họ gọi Avari, Nandor và Sindar là **[Moriquendi](../M/Moriquendi.md)** ("Tiên tộc của Bóng Tối") để thừa nhận thực tế là họ chưa bao giờ nhìn thấy ánh sáng của [Hai Cây](../T/Two_Trees.md). Phần lớn nhất của Moriquendi là Nelyarin, vì một nửa Avari ban đầu cũng như vậy, cũng như tất cả Nandor và Sindar.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Những Yêu tinh đã hoàn thành cuộc hành trình đến Aman – Vanyar, Noldor và Falmari – tự gọi mình là **[Calaquendi](../C/Calaquendi.md)** ("Yêu tinh ánh sáng"). Họ gọi Avari, Nandor và Sindar là **[Moriquendi](../M/Moriquendi.md)** ("Yêu tinh bóng tối") để thừa nhận sự thật rằng họ chưa bao giờ nhìn thấy ánh sáng của [Hai Cây](../T/Two_Trees.md). Phần lớn nhất của Moriquendi là Nelyarin, vì một nửa số Avari ban đầu cũng như tất cả người Nandor và Sindar.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ### Amanyar và Úmanyar {#Amanyar_and_Úmanyar}
 
-Sau [Tắt Valinor](../D/Darkening_of_Valinor.md), hầu hết Noldor quay trở lại Trung Địa với [Fëanor](../F/Fëanor.md) và một số vẫn ở đó cho đến hết [Kỷ Đệ Tam](../T/Third_Age.md). Những người này được gọi là **[Những người lưu vong](../E/Exile_of_the_Noldor.md)** và họ sống gần Sindar trong suốt thời gian còn lại ở Trung Địa. Những Sindar bị xúc phạm bởi tên gọi "Moriquendi", vì vậy những người lưu vong thường gọi họ là **[Úmanyar](../_/Úmanyar.md)** ("Những người không thuộc Aman"). Theo thời gian, việc sử dụng thuật ngữ này ngày càng bao gồm tất cả những người Tiên tộc đã bắt đầu trên Đại Hành Trình nhưng không hoàn thành nó. Những người lưu vong tự gọi họ và những người vẫn còn sống ở Valinor là **[Amanyar](../A/Amanyar.md)** ("Những người của Aman").
+Sau [Sự tối tăm của Valinor](../D/Darkening_of_Valinor.md), phần lớn người Noldor quay trở lại Trung Địa cùng với [Fëanor](../F/Fëanor.md) và một số vẫn ở đó cho đến cuối [Thời đại thứ ba](../T/Third_Age.md). Những người này được gọi là **[Những người lưu vong](../E/Exile_of_the_Noldor.md)** và họ sống gần Sindar trong suốt thời gian còn lại ở Trung Địa. Người Sindar bị xúc phạm bởi tên gọi "Moriquendi", vì vậy những người lưu vong thường gọi họ là **[Úmanyar](../_/Úmanyar.md)** ("Những người không thuộc về Aman"). Qua nhiều thời đại, việc sử dụng thuật ngữ này ngày càng bao gồm tất cả những Yêu tinh đã bắt đầu Cuộc hành trình vĩ đại nhưng không hoàn thành nó. Những người lưu vong tự gọi họ và những người vẫn sống ở Valinor là **[Amanyar](../A/Amanyar.md)** ("Những người của Aman").
 
 <figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Sundering_of_the_Elves.svg.md"><img alt="A chart of the Sundering of the Elves" src="https://tolkiengateway.net/w/images/6/6a/The_Sundering_of_the_Elves.svg" decoding="async" loading="lazy" width="950" height="600" class="mw-file-element" data-file-width="2347" data-file-height="1483"/></a><figcaption>A chart of the Sundering of the Elves</figcaption></figure>
 
 ### Thingol {#Thingol}
 
-Thingol là một ngoại lệ đối với sự trùng lặp thông thường của các danh mục Calaquendi với Amanyar và Moriquendi với Úmanyar. Điều này là do anh ta là một trong ba Tiên đại sứ ban đầu của Valinor và đã nhìn thấy ánh sáng của Hai Cây, nhưng không hoàn thành Đại Hành Trình và chưa bao giờ cư trú tại Valinor. Như vậy, riêng anh vừa là Calaquendë vừa là Úmanya.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Thingol là một ngoại lệ đối với sự chồng chéo thông thường của các danh mục Calaquendi với Amanyar và Moriquendi với Úmanyar. Điều này là do ông ta là một trong ba đại sứ Yêu tinh ban đầu đến Valinor và nhìn thấy ánh sáng của Hai Cây, nhưng không hoàn thành Cuộc hành trình vĩ đại và không bao giờ cư trú ở Valinor. Như vậy, riêng anh vừa là Calaquendë vừa là Úmanya.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
-## Cuộc hội ngộ của Tiên tộc {#Reunions_of_the_Elves}
+## Cuộc hội ngộ của Yêu tinh {#Reunions_of_the_Elves}
 
-Trong những khu rừng rộng lớn của Trung Địa, một số dân tộc mới đã được sinh ra từ liên minh các bộ lạc đã từng bị chia cắt.
+Trong những khu rừng rộng lớn ở Trung Địa, một số dân tộc mới được sinh ra từ liên minh các bộ tộc đã từng bị chia cắt.
 
-### Silvan Tiên tộc {#Silvan_Elves}
+### Yêu tinh Silva {#Silvan_Elves}
 
-**[Silvan Tiên tộc](Silvan_Elves.md)** là một bộ tộc tổng hợp gồm Nandor và Avari xuất hiện trong các khu rừng [Wilderland](../R/Rhovanion.md) (đặc biệt là [Eryn Galen](../E/Eryn_Galen.md) và [Lindórinand](../L/Lindórinand.md)) trước khi Kỷ Đệ Nhất kết thúc.
+**[Yêu tinh Silvan](Silvan_Elves.md)** là một bộ tộc tổng hợp gồm Nandor và Avari xuất hiện trong các khu rừng ở [Wilderland](../R/Rhovanion.md) (đặc biệt là [Eryn Galen](../E/Eryn_Galen.md) và [Lindórinand](../L/Lindórinand.md)) trước khi kết thúc Thời đại thứ nhất.
 
-Nandor đã sống trong những khu rừng bao bọc các thung lũng phía trên của Anduin kể từ khi họ quay trở lại từ Đại Hành Trình. Theo thời gian, các bộ lạc Avarin Tiên tộc lan rộng về phía tây từ Cuiviénen cũng đến được Anduin, nơi họ đoàn tụ với Nandorin họ hàng của mình. Những dân tộc này thực tế đã "trở nên hợp nhất với nhau."<sup id="cite_ref-WJ380_1-3" class="reference"><a href="#cite_note-WJ380-1">[1]</a></sup>
+Người Nandor đã sống trong những khu rừng bao quanh thung lũng phía trên sông Anduin kể từ khi họ quay về sau Cuộc Hành trình Vĩ đại. Theo thời gian, các bộ lạc Yêu tinh Avarin lan rộng về phía tây từ Cuiviénen cũng đến được Anduin, nơi họ đoàn tụ với họ hàng Nandorin của mình. Những dân tộc này thực tế đã "trở nên hợp nhất với nhau."<sup id="cite_ref-WJ380_1-3" class="reference"><a href="#cite_note-WJ380-1">[1]</a></sup>
 
-Đến cuối Kỷ Đệ Nhất, một số Silvan Tiên tộc đã di cư đến tận phía nam như [Ethir Anduin](../E/Ethir_Anduin.md) và [Edhellond](../E/Edhellond.md).
+Vào cuối Thời đại thứ nhất, một số Yêu tinh Silvan đã di cư xa về phía nam tới tận [Ethir Anduin](../E/Ethir_Anduin.md) và [Edhellond](../E/Edhellond.md).
 
 ### Galadhrim {#Galadhrim}
 
-**Galadhrim** ("Người cây")<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> là một bộ tộc tổng hợp gồm Silvan Tiên tộc, Sindar và Noldor xuất hiện trong khu rừng [Lindórinand](../L/Lindórinand.md) vào [Thời đại thứ hai](Second_Age.md). Không rõ chính xác khi nào cư dân của Lindórinand bắt đầu tự gọi mình là "Galadhrim", nhưng cái tên này bao gồm nhiều yêu tinh có nguồn gốc đa dạng đã đến Lindórinand trong nhiều làn sóng nhập cư.
+**Galadhrim** ("Người cây")<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> là một bộ tộc tổng hợp gồm Yêu tinh Silvan, Sindar và Noldor xuất hiện trong khu rừng [Lindórinand](../L/Lindórinand.md) vào [Thời đại thứ hai](Second_Age.md). Không rõ chính xác khi nào cư dân của Lindórinand bắt đầu tự gọi mình là "Galadhrim", nhưng cái tên này bao gồm nhiều yêu tinh có nguồn gốc đa dạng đã đến Lindórinand trong nhiều làn sóng nhập cư.
 
-Sau khi [chìm tàu ​​ Beleriand](../W/War_of_Wrath.md), những người Tiên tộc từng sống ở đó không muốn rời đi Valinor đã phải tìm nơi ở mới. Những người Sindar và Laiquendi thích rừng hơn bờ biển (hoặc những người muốn tránh xa những Noldorin Người lưu vong còn lại) đã đi về phía đông để đoàn tụ với những người thân Silvan của họ sống trong những khu rừng lớn Eryn Galen và Lindórinand. Ở cả hai vương quốc rừng rậm, Silvan Tiên tộc bản địa đã lấy Sindar làm vua của họ ([Oropher](../O/Oropher.md) và [Amdír](../A/Amdír.md), tương ứng) và trải qua quá trình "Sindarization" khi họ tiếp thu văn hóa của những người nhập cư Beleriandic. Cũng có Noldorin người nhập cư vào vùng rừng vào thời điểm này, mặc dù rõ ràng là ít có tác động văn hóa hơn so với Sindar.<sup id="cite_ref-Galadriel_6-0" class="reference"><a href="#cite_note-Galadriel-6">[6]</a></sup>
+Sau [vụ chìm tàu ​​Beleriand](../W/War_of_Wrath.md), những người Yêu tinh từng sống ở đó và không muốn rời đến Valinor phải tìm nơi ở mới. Những Sindar và Laiquendi thích rừng hơn bờ biển (hoặc những người muốn tránh xa những người Noldorin lưu vong còn lại) đã đi về phía đông để đoàn tụ với người thân Silvan của họ, những người sống trong những khu rừng lớn Eryn Galen và Lindórinand. Ở cả hai vương quốc rừng rậm, Yêu tinh Silvan bản địa đã chọn Sindar làm vua của họ ([Oropher](../O/Oropher.md) và [Amdír](../A/Amdír.md), tương ứng) và trải qua quá trình "Sindarization" khi họ tiếp thu văn hóa của những người nhập cư Beleriandic. Cũng có những người Noldorin nhập cư vào vùng rừng vào thời điểm này, mặc dù rõ ràng là ít ảnh hưởng đến văn hóa hơn người Sindar.<sup id="cite_ref-Galadriel_6-0" class="reference"><a href="#cite_note-Galadriel-6">[6]</a></sup>
 
-Tách biệt khỏi Eryn Galen, Lindórinand trải qua làn sóng nhập cư lớn thứ hai sau [Cuộc cướp phá Eregion](Sack_of_Eregion.md) vào [S.A.](Second_Age.md) [1697](Second_Age_1697.md). Nhiều Tiên tộc của Eregion, chủ yếu là Noldor,<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> đã trốn thoát [Sauron](Sauron.md) bằng cách chạy trốn qua [Khazad-dûm](../K/Khazad-dûm.md) và xuất hiện từ phía đông của Dãy Núi Sương Mù ngay trước cửa nhà Amdír. Một số đi xuống Anduin đến Edhellond để khởi hành Trung Địa, nhưng những người khác vẫn ở lại vương quốc của Amdír và cư trú ở đó.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Vào thời điểm [Galadriel](../G/Galadriel.md) và [Celeborn](../C/Celeborn.md) nhận [Chúa và Quý bà](../L/Lord_and_Lady_of_Lórien.md) của vương quốc ở [T.A.](../T/Third_Age.md) [1981](../T/Third_Age_1981.md), Galadhrim đã tiếp nhận triệt để những Noldorin người tị nạn này vào của họ văn hóa; không còn đề cập nào nữa về họ như những dân tộc riêng biệt trong Tiên tộc của Lórien.
+Tách biệt khỏi Eryn Galen, Lindórinand trải qua làn sóng nhập cư lớn thứ hai sau [Sự tàn phá Ezone](Sack_of_Eregion.md) ở [S.A.](Second_Age.md) [1697](Second_Age_1697.md). Nhiều Yêu tinh của Ezone, chủ yếu là Noldor,<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> đã trốn thoát khỏi [Sauron](Sauron.md) bằng cách chạy trốn qua [Khazad-dûm](../K/Khazad-dûm.md) và xuất hiện từ phía đông của Dãy núi Sương mù ngay trước cửa Amdír. Một số đi xuống Anduin đến Edhellond để rời khỏi Trung Địa, nhưng những người khác vẫn ở vương quốc của Amdír và cư trú ở đó.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Vào thời điểm [Galadriel](../G/Galadriel.md) và [Celeborn](../C/Celeborn.md) đảm nhận [Lãnh chúa và Quý bà](../L/Lord_and_Lady_of_Lórien.md) của vương quốc ở [T.A.](../T/Third_Age.md) [1981](../T/Third_Age_1981.md), Galadhrim đã hấp thụ hoàn toàn những người tị nạn Noldorin này vào nền văn hóa của họ; không còn đề cập nào nữa về họ như một dân tộc riêng biệt trong Yêu tinh Lórien.
 
-## Tỷ lệ Elvish tộc {#Ratio_of_Elvish_clans}
+## Tỷ lệ các tộc Tiên {#Ratio_of_Elvish_clans}
 
-Theo các nhà sử học Noldorin, tỷ lệ (trong số 144) Tiên tộc người ở lại (Avari), người đã bắt đầu nhưng không hoàn thành cuộc hành quân ([Úmanyar](../_/Úmanyar.md)) và người đã hoàn thành cuộc hành quân ([Amanyar](../A/Amanyar.md)) như sau:<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:504</sup>
+Theo các nhà sử học Noldorin, tỷ lệ (trong số 144) Yêu tinh còn lại (Avari), những người đã bắt đầu nhưng không hoàn thành cuộc hành quân ([Úmanyar](../_/Úmanyar.md)) và những người đã hoàn thành cuộc hành quân ([Amanyar](../A/Amanyar.md)) như sau:<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:504</sup>
 
 <table class="wikitable">
 <tbody><tr>
@@ -133,9 +133,9 @@ Theo các nhà sử học Noldorin, tỷ lệ (trong số 144) Tiên tộc ngư�
 
 ## Các phiên bản khác của Legendarium {#Other_versions_of_the_Legendarium}
 
-Tỷ lệ trên của dân số ban đầu của Eldar, nhưng không đưa ra con số chính xác, được lấy từ ghi chú của Tolkien giữa [1959](../_/1959.md)-[1960](../_/1960.md), cuối cùng được xuất bản trong tuyển tập các bài tiểu luận có tựa đề *[Quendi and Eldar](../Q/Quendi_and_Eldar.md)*.
+Tỷ lệ trên về dân số ban đầu của Eldar, nhưng không đưa ra con số chính xác, bắt nguồn từ ghi chú của Tolkien giữa [1959](../_/1959.md)-[1960](../_/1960.md), cuối cùng được xuất bản trong một tuyển tập các bài tiểu luận có tiêu đề *[Quendi and Eldar](../Q/Quendi_and_Eldar.md)*.
 
-Cũng trong khoảng thời gian đó, hoặc có lẽ sớm hơn (1959) Tolkien đã viết một số dự thảo về Elvish tỷ lệ và dân số cho sự khởi đầu (và trong một trường hợp là vào lúc kết thúc) Cuộc Tuần hành vĩ đại. Cuối cùng chúng đã được xuất bản trong *[The Nature of Middle-earth](../T/The_Nature_of_Middle-earth.md)*.
+Cùng khoảng thời gian đó, hoặc có lẽ sớm hơn (1959), Tolkien đã viết một số bản thảo về tỷ lệ và dân số của người Tiên để bắt đầu (và trong một trường hợp là ở phần kết) của Cuộc tuần hành vĩ đại. Cuối cùng chúng đã được xuất bản trong *[The Nature of Middle-earth](../T/The_Nature_of_Middle-earth.md)*.
 
 <table class="wikitable">
 <tbody><tr>

@@ -16,7 +16,7 @@ sort_keys:
 
 Vào [Tháng 12](../D/December.md) [1963](../_/1963.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho [Jared C. Lobdell](../J/Jared_Lobdell.md)**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-- **Chủ đề:** Tolkien thảo luận về [C.S. Lewis](../C/C.S._Lewis.md) và phẩm chất của anh ấy với tư cách là một độc giả.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- **Chủ đề:** Tolkien thảo luận về [C.S. Lewis](../C/C.S._Lewis.md) và những phẩm chất của ông với tư cách là một độc giả.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 - **Xuất bản:** Một trích dẫn từ bức thư xuất hiện trong bài viết của Lobdell "Những câu chuyện về tiền chuộc củaC.S. Lewis và tổ tiên thế kỷ thứ mười tám của họ" (tr. 230), xuất bản trên *[Word and Story in C.S. Lewis](../W/Word_and_Story_in_C.S._Lewis.md)*.
 
 <span></span>

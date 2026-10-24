@@ -48,20 +48,20 @@ infobox:
 
 *"Nhưng Valacar vượt xa ý định của cha mình. Ông ngày càng yêu thích vùng đất và con người phương Bắc, và kết hôn với Vidumavi, con gái của Vidugavia... Vì vậy, khi Eldacar kế vị cha mình thì có chiến tranh ở Gondor. Nhưng Eldacar không tỏ ra dễ dàng thoát khỏi di sản của mình. Với dòng dõi Gondor, ông đã bổ sung thêm tinh thần dũng cảm của người phương Bắc. Ông đẹp trai và dũng cảm, và không có dấu hiệu già đi nhanh chóng hơn cha mình. Khi quân miền Nam dẫn đầu. hậu duệ của các vị vua đứng lên chống lại ông, ông đã chống lại họ cho đến khi sức lực của ông cạn kiệt. Cuối cùng, ông bị bao vây ở Osgiliath, và cầm cự được lâu, cho đến khi cái đói và lực lượng nổi dậy đông đảo hơn đẩy ông ra ngoài, khiến thành phố chìm trong biển lửa.
 
-Cuộc xung đột Kin khiến người dân, chính trị và quân đội của Gondor dưới sự cai trị hà khắc của Kẻ Tiếm Quyền Castamir. Sáu thành phố lớn nhất của vương quốc phía Nam - Pelargir, Umbar, Lond Ernil, Osgiliath, Minas Anor và Minas Ithil - được mô tả cùng với cơ cấu hành chính, tổ chức quân sự và hệ thống pháp luật của chúng. Những cuộc phiêu lưu gắn liền với từng đô thị khiến cuộc nội chiến trở nên sống động. Côr Aran, nhóm cung cấp thông tin chết người của Kẻ Tiếm Quyền, giam giữ bất kỳ ai nỗ lực khôi phục ngai vàng cho Vua chính đáng của hắn. Những tên tội phạm thông thường, gián điệp của Southron và người hầu của Chúa tể Bóng tối đều bị lôi kéo vào cuộc xung đột. Những âm mưu kỳ lạ và mạng lưới lừa dối đang chờ đợi những người táo bạo và trung thành! Liệu các anh hùng của chúng ta có thể sống sót giữa cạm bẫy của triều đại Kẻ Tiếm Quyền?
+Cuộc xung đột Kin khiến người dân, chính trị và quân đội của Gondor chịu sự cai trị hà khắc của Kẻ Tiếm Quyền Castamir. Sáu thành phố lớn nhất của vương quốc phía Nam - Pelargir, Umbar, Lond Ernil, Osgiliath, Minas Anor và Minas Ithil - được mô tả cùng với các cơ cấu hành chính, tổ chức quân sự và hệ thống pháp luật của chúng. Những cuộc phiêu lưu gắn liền với từng đô thị khiến cuộc nội chiến trở nên sống động. Côr Aran, nhóm cung cấp thông tin chết người của Kẻ Tiếm Quyền, giam giữ bất kỳ ai nỗ lực khôi phục ngai vàng cho vị Vua hợp pháp. Những tên tội phạm thông thường, gián điệp Southron và người hầu của Chúa tể bóng tối đều bị lôi kéo vào cuộc xung đột. Những âm mưu kỳ lạ và mạng lưới lừa dối đang chờ đợi những người táo bạo và trung thành! Liệu các anh hùng của chúng ta có thể sống sót giữa cạm bẫy của triều đại Kẻ Tiếm Quyền?
 
-Kin-strife bao gồm số liệu thống kê đầy đủ cho MERP, Lord of the Rings Adventure Game và Rolemaster.
+Kin-xung đột bao gồm các số liệu thống kê đầy đủ cho MERP, Trò chơi phiêu lưu Chúa tể những chiếc nhẫn và Rolemaster.
 
 Xung đột Kin bao gồm:
 
-- VUA TUYỆT VỜI VÀ TƯƠNG LAI - một bản tường thuật sống động về thất bại ban đầu của Eldacar, hành động của ông trong thời gian lưu vong để giành lại ngai vàng và chiến thắng khải hoàn cuối cùng trước Castamir.
+- VUA TƯƠNG LAI VÀ TƯƠNG LAI - một bản tường thuật sống động về thất bại ban đầu của Eldacar, hành động của ông khi sống lưu vong để giành lại ngai vàng và chiến thắng khải hoàn cuối cùng trước Castamir.
 - PELARGIR - trung tâm của chế độ Kẻ chiếm đoạt, nơi Vệ binh Hoàng gia và Côr Aran - cả hai đều trung thành với Castamir - thường xuyên đối đầu nhau trong các cuộc đụng độ kình địch hơn là hợp tác với nhau.
-- UMBAR - pháo đài của những người theo chủ nghĩa truyền thống ủng hộ Gondor sự tham gia vào miền Nam, tuy nhiên lại đầy xung đột: Quạ chiến đấu với Quạ trên các địa điểm trên đất liền và trên biển.
-- LOND ERNIL - nơi trú ẩn của Thân vương Belfalas người chống lại sự cai trị của Kẻ Tiếm Quyền và do đó là mục tiêu đầu tiên của Castamir cho vụ ám sát bí mật.
-- OSGILIATH - bị Castamir hủy hoại và biến thành nhà tù rộng lớn dành cho kẻ thù của anh ta; những cư dân bất mãn âm mưu nổi dậy chống lại Vua giả.
-- MINAS ANOR - ban đầu trung lập trong cuộc xung đột dân sự, nhưng đứng về phía Castamir sau sự sụp đổ của Osgiliath; nhiều người trung thành với Eldacar biến đô thị chiến lược thành bất cứ thứ gì ngoại trừ nơi an toàn cho người chỉ huy đồn trú.
-- MINAS ITHIL - được cai trị bởi Kẻ Tiếm Quyền chỉ bằng vũ lực, Thành phố Mặt Trăng sẽ tước bỏ quyền kiểm soát của Castamir trong vòng vài giờ mà không gặp phải mối đe dọa từ thanh kiếm của quân đồn trú.
-- THE PALE RIDERS - Người phương Đông lên kế hoạch giết Vua người lưu vong để nhận phần thưởng là ngựa và vũ khí từ Castamir - liệu các anh hùng của chúng ta có thể ngăn chặn âm mưu này không?
+- UMBAR - pháo đài của những người theo chủ nghĩa truyền thống ủng hộ sự can dự của người Gondoria vào miền Nam, tuy nhiên lại đầy xung đột: Quạ chiến đấu với Quạ trên đất liền và trên biển.
+- LOND ERNIL - nơi trú ẩn của Hoàng tử Belfalas, người chống lại sự cai trị của Kẻ Tiếm Quyền và do đó là mục tiêu ám sát bí mật đầu tiên của Castamir.
+- OSGILIATH - bị Castamir hủy hoại và biến thành nhà tù rộng lớn dành cho kẻ thù của ông ta; những cư dân bất mãn âm mưu nổi dậy chống lại vị Vua giả.
+- MINAS ANOR - ban đầu trung lập trong cuộc xung đột dân sự, nhưng đứng về phía Castamir sau khi Osgiliath sụp đổ; Nhiều người trung thành với Eldacar biến đô thị chiến lược thành bất cứ thứ gì ngoại trừ nơi an toàn cho người chỉ huy đồn trú.
+- MINAS ITHIL - được cai trị bởi Kẻ Tiếm Quyền chỉ bằng vũ lực, Thành phố Mặt Trăng sẽ tước bỏ quyền kiểm soát của Castamir trong vòng vài giờ mà không gặp phải mối đe dọa từ kiếm của quân đồn trú.
+- THE PALE RIDERS - Những kẻ phương Đông lên kế hoạch sát hại vị Vua đang lưu vong để nhận phần thưởng là ngựa và vũ khí từ Castamir - liệu các anh hùng của chúng ta có thể ngăn chặn được âm mưu này không?
 
 ## Liên kết ngoài {#External_links}
 

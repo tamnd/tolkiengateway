@@ -35,7 +35,7 @@ infobox:
 
 <b><i>Tạp chí Thời báo Chủ nhật</i> ngày 15 tháng 1 năm 1967</b> là số của <i><a class="extiw" href="http://en.wikipedia.org/wiki/The_Sunday_Times_Magazine" title="wikipedia:The Sunday Times Magazine">Tạp chí Thời báo Chủ nhật</a></i>.
 
-Bài viết "The Hobbit Man" của Philip Norman có trích đoạn từ [cuộc phỏng vấn với Tolkien](../../index/I/Interviews_with_J.R.R._Tolkien.md) (trang 34-6).
+Bài viết "Người Hobbit" của Philip Norman bao gồm các đoạn trích từ [cuộc phỏng vấn với Tolkien](../../index/I/Interviews_with_J.R.R._Tolkien.md) (trang 34-6).
 
 Một bài viết khác (tương tự nhưng không giống hệt) dựa trên cùng một cuộc phỏng vấn đã được xuất bản cùng ngày trên *[The New York Times Magazine](The_New_York_Times_Magazine_15_January_1967.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
 

@@ -20,7 +20,7 @@ sort_keys:
   "People by name": "Guard, Dominic"
 ---
 
-**Dominic Guard** ([18 tháng 6](../_/18_June.md), [1956](../_/1956.md)) là một diễn viên người Anh. Ông lồng tiếng cho [Peregrin Took](../P/Peregrin_Took.md) trong [*The Lord of the Rings* (phim 1978)](<../T/The_Lord_of_the_Rings_(1978_film).md>). Anh ấy là em trai của [Christopher Guard](../C/Christopher_Guard.md), người lồng tiếng cho [Frodo Baggins](../F/Frodo_Baggins.md).
+**Dominic Guard** ([18 tháng 6](../_/18_June.md), [1956](../_/1956.md)) là một diễn viên người Anh. Anh lồng tiếng cho [Peregrin Took](../P/Peregrin_Took.md) trong [*The Lord of the Rings* (phim 1978)](<../T/The_Lord_of_the_Rings_(1978_film).md>). Ông là em trai của [Christopher Guard](../C/Christopher_Guard.md), người lồng tiếng cho [Frodo Baggins](../F/Frodo_Baggins.md).
 
 ## Liên kết ngoài {#External_links}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Ensemble"
 ---
 
-Chuyển hướng đến [Tolkien Hòa tấu](Tolkien_Ensemble.md).
+Chuyển hướng đến [Tolkien Ensemble](Tolkien_Ensemble.md).

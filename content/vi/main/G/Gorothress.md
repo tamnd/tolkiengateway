@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ered Gorgoroth"
 ---
 
-Chuyển hướng đến [Ered Gorgoroth](../E/Ered_Gorgoroth.md).
+Chuyển hướng tới [Ered Gorgoroth](../E/Ered_Gorgoroth.md).

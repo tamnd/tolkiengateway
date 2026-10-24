@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Barahir's outlaws"
 ---
 
-Chuyển hướng tới [Barahir những kẻ ngoài vòng pháp luật](../B/Barahir's_outlaws.md).
+Chuyển hướng đến [Những kẻ ngoài vòng pháp luật của Barahir](../B/Barahir's_outlaws.md).

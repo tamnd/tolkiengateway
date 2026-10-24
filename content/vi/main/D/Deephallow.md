@@ -34,17 +34,17 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Village</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Deephallow</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>General Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../T/The_Shire.md" title="The Shire">The Shire</a></td></tr><tr><th scope="row" class="tg-infobox-label">Type</th><td class="tg-infobox-data">Village</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>People and History</span></th></tr><tr><th scope="row" class="tg-infobox-label">Inhabitants</th><td class="tg-infobox-data"><a href="../H/Hobbits.md" title="Hobbits">Hobbits</a></td></tr></tbody></table>
 
-**Deephallow** là một ngôi làng ở [biên giới phía đông Shire](../T/The_Shire.md), được xây dựng bên bờ sông [Brandywine](../B/Brandywine.md), ngay phía bắc điểm [Shirebourn](../S/Shirebourn.md) chảy vào sông. Ngay phía bên kia Brandywine là [Haysend](../H/Haysend.md), điểm cực nam của [Buckland](../B/Buckland.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Deephallow** là một ngôi làng ở [biên giới phía đông của Shire](../T/The_Shire.md), được xây dựng trên bờ sông [Brandywine](../B/Brandywine.md), ngay phía bắc nơi [Shirebourn](../S/Shirebourn.md) chảy vào sông. Ngay phía bên kia Brandywine là [Haysend](../H/Haysend.md), điểm cực nam của [Buckland](../B/Buckland.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
 [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) lưu ý rằng "không rõ ràng về từ nguyên (không có nghĩa là như vậy - không phải tất cả các tên đều như vậy!)".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-[David Salo](David_Salo.md) gợi ý rằng cái tên này đại diện cho một dạng [ Hobbitish](../O/Old_English.md) suy đoán cũ \**Deophealh* "deep <a class="extiw" href="http://en.wiktionary.org/wiki/haugh" title="wiktionary:haugh">haugh</a>". Haugh đầu tiên có nghĩa là "góc, góc, nơi hẻo lánh" và sau đó là "đất cạnh sông", phù hợp với vị trí của ngôi làng gần phần nêm được hình thành bởi Brandywine và Shirebourn.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Yếu tố tương tự cũng được thấy trong "[Woodhall](../W/Woodhall.md)".
+[David Salo](David_Salo.md) gợi ý rằng cái tên này đại diện cho một dạng suy đoán [Người Hobbit cổ](../O/Old_English.md) \**Deophealh* "deep <a class="extiw" href="http://en.wiktionary.org/wiki/haugh" title="wiktionary:haugh">haugh</a>". Haugh đầu tiên có nghĩa là "góc, góc, nơi hẻo lánh" và sau đó là "đất cạnh sông", phù hợp với vị trí của ngôi làng gần phần nêm được hình thành bởi Brandywine và Shirebourn.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Yếu tố tương tự cũng được thấy trong "[Woodhall](../W/Woodhall.md)".
 
 ## Các phiên bản khác của Legendarium {#Other_versions_of_the_Legendarium}
 
-Mặc dù Deephallow chưa bao giờ được nhắc đến trong văn bản, nhưng nó đã được đề cập đến trong bản thảo của *[A Short Cut to Mushrooms](../A/A_Short_Cut_to_Mushrooms.md)*, là nơi [Causeway](../C/Causeway.md) dẫn đầu.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> <span></span>
+Mặc dù Deephallow chưa bao giờ được đề cập trong văn bản, nhưng nó đã được đề cập trong bản thảo của *[A Short Cut to Mushrooms](../A/A_Short_Cut_to_Mushrooms.md)*, là nơi [Đường cao tốc](../C/Causeway.md) dẫn tới.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

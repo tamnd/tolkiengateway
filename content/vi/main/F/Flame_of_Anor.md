@@ -39,11 +39,11 @@ images:
 <p class="tg-quote-footer"><cite><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> in <i><a href="../T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="../T/The_Bridge_of_Khazad-dûm.md" title="The Bridge of Khazad-dûm">The Bridge of Khazad-dûm</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Ngọn lửa của Anor** là một yếu tố hoặc sức mạnh bí ẩn mà [Gandalf](../G/Gandalf.md) tuyên bố đã sử dụng trong trận chiến với [Tai Họa của Durin](../D/Durin's_Bane.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Bản chất cụ thể của ngọn lửa này không rõ ràng vì nó không được đề cập trực tiếp ở nơi khác, nhưng có bằng chứng ngữ cảnh hỗ trợ một số suy luận.
+**ngọn lửa Anor** là một yếu tố hoặc sức mạnh bí ẩn mà [Gandalf](../G/Gandalf.md) tuyên bố đã sử dụng trong trận chiến với [Durin's Bane](../D/Durin's_Bane.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Bản chất cụ thể của ngọn lửa này không rõ ràng vì nó không được đề cập trực tiếp ở nơi khác, nhưng có bằng chứng ngữ cảnh hỗ trợ một số suy luận.
 
-*[Anor](../A/Anor.md)* là tên [Sindarin](../S/Sindarin.md) của Mặt Trời, và do đó, theo nghĩa đen, "ngọn lửa của Anor" sẽ là ánh sáng của Mặt Trời,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> bắt nguồn từ trái cây bốc lửa của [Laurelin](../L/Laurelin.md), một trong những [Hai Cây](../T/Two_Trees_of_Valinor.md) của [Valinor](../V/Valinor.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Ngoài ra, "ngọn lửa của Anor" có thể ám chỉ việc Gandalf sở hữu [Narya](../N/Narya.md) Đấng vĩ đại, người có viên đá đỏ như lửa.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+*[Anor](../A/Anor.md)* là [Sindarin](../S/Sindarin.md) tên của Mặt trời, và do đó, theo nghĩa đen, "ngọn lửa của Anor" sẽ là ánh sáng của Mặt trời,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> bắt nguồn từ trái cây bốc lửa của [Laurelin](../L/Laurelin.md), một trong [Hai Cây](../T/Two_Trees_of_Valinor.md) của [Valinor](../V/Valinor.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Ngoài ra, "ngọn lửa Anor" có thể ám chỉ Gandalf sở hữu của [Narya](../N/Narya.md) Đại đế, hòn đá của người có màu đỏ như lửa.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
-Cụm từ này có thể ám chỉ một cách ẩn dụ quyền lực nào đó được [Pháp sư](../W/Wizards.md) nắm giữ, với tư cách là [Maia](../M/Maiar.md) và người hầu của [Ngọn Lửa Bất Diệt](Flame_Imperishable.md); với ánh sáng thuần khiết của Mặt Trời đứng đối nghịch với "ngọn lửa đen tối" của [đã sa ngã](../_/Úmaiar.md) [Balrog](../B/Balrogs.md).
+Cách diễn đạt này có thể ám chỉ một cách ẩn dụ sức mạnh nào đó được sử dụng bởi [Pháp sư](../W/Wizards.md), với tư cách là một [Maia](../M/Maiar.md) và là người hầu của [Ngọn lửa bất diệt](Flame_Imperishable.md); với ánh sáng thuần khiết của Mặt trời đứng đối nghịch với "ngọn lửa đen tối" của [đã sa ngã](../_/Úmaiar.md) [Balrog](../B/Balrogs.md).
 
 ## Xem thêm {#See_also}
 
@@ -52,7 +52,7 @@ Cụm từ này có thể ám chỉ một cách ẩn dụ quyền lực nào đ�
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://middle-earth.xenite.org/is-the-secret-fire-the-same-as-the-flame-of-anor/" rel="noreferrer noopener" target="_blank">Ngọn lửa bí mật có giống như ngọn lửa Anor không?</a> bởi [Michael Martinez](../M/Michael_Martinez.md)
+- <a class="external text" href="http://middle-earth.xenite.org/is-the-secret-fire-the-same-as-the-flame-of-anor/" rel="noreferrer noopener" target="_blank">Ngọn lửa bí mật có giống như ngọn lửa Anor không?</a> của [Michael Martinez](../M/Michael_Martinez.md)
 
 <span></span>
 

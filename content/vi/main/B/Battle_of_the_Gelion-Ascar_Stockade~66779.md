@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Battle of the Gelion-Ascar stockade"
 ---
 
-Chuyển hướng tới [Trận đóng quân Gelion-Ascar](Battle_of_the_Gelion-Ascar_stockade.md).
+Chuyển hướng đến [Trận chiến đồn trú Gelion-Ascar](Battle_of_the_Gelion-Ascar_stockade.md).

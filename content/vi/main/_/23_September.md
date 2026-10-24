@@ -61,7 +61,7 @@ images:
 </div><div class="template-month__footer"><div class="tg-button"><a href="../J/January.md" title="January">Jan</a></div><div class="tg-button"><a href="../F/February.md" title="February">Feb</a></div><div class="tg-button"><a href="../M/March.md" title="March">Mar</a></div><div class="tg-button"><a href="../A/April.md" title="April">Apr</a></div><div class="tg-button"><a href="../M/May.md" title="May">May</a></div><div class="tg-button"><a href="../J/June.md" title="June">Jun</a></div><div class="tg-button"><a href="../J/July.md" title="July">Jul</a></div><div class="tg-button"><a href="../A/August.md" title="August">Aug</a></div><div class="tg-button"><a href="../S/September.md" title="September">Sep</a></div><div class="tg-button"><a href="../O/October.md" title="October">Oct</a></div><div class="tg-button"><a href="../N/November.md" title="November">Nov</a></div><div class="tg-button"><a href="../D/December.md" title="December">Dec</a></div></div>
 </div>
 
-Sự kiện xảy ra vào ngày 23 tháng Chín.
+Sự kiện xảy ra vào ngày 23 tháng 9
 
 ## Trên Trái đất {#On_Earth}
 
@@ -69,14 +69,14 @@ Sự kiện xảy ra vào ngày 23 tháng Chín.
 - **[1944](1944.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) bắt đầu viết [Thư 81](../L/Letter_81.md).
 - **[1953](1953.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 140c](../L/Letter_140c.md).
 - **[1960](1960.md)** - Diễn viên lồng tiếng [Jason Carter](../J/Jason_Carter.md) ra đời.
-- **[1977](1977.md)** - [Oxonmoot 1977](../O/Oxonmoot_1977.md) tại The tiếng Wales Pony.
-- **[1978](1978.md)** - [Oxonmoot 1978](../O/Oxonmoot_1978.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Oxford_Town_Hall" title="wikipedia:Oxford Town Hall">Oxford Tòa thị chính</a>.
-- **[1983](1983.md)** - [Oxonmoot 1983](../O/Oxonmoot_1983.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Oxford_Town_Hall" title="wikipedia:Oxford Town Hall">Oxford Tòa thị chính</a>.
-- **[1988](1988.md)** - [Oxonmoot 1988](../O/Oxonmoot_1988.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Oxford_Town_Hall" title="wikipedia:Oxford Town Hall">Oxford Tòa thị chính</a>.
-- **[1989](1989.md)** - [Oxonmoot 1989](../O/Oxonmoot_1989.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Oxford_Town_Hall" title="wikipedia:Oxford Town Hall">Oxford Tòa thị chính</a>.
-- **[1990](1990.md)** - [Oxonmoot 1990](../O/Oxonmoot_1990.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Oxford_Town_Hall" title="wikipedia:Oxford Town Hall">Oxford Tòa thị chính</a>.
+- **[1977](1977.md)** - [Oxonmoot 1977](../O/Oxonmoot_1977.md) tại The Welsh Pony.
+- **[1978](1978.md)** - [Oxonmoot 1978](../O/Oxonmoot_1978.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Oxford_Town_Hall" title="wikipedia:Oxford Town Hall">Tòa thị chính Oxford</a>.
+- **[1983](1983.md)** - [Oxonmoot 1983](../O/Oxonmoot_1983.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Oxford_Town_Hall" title="wikipedia:Oxford Town Hall">Tòa thị chính Oxford</a>.
+- **[1988](1988.md)** - [Oxonmoot 1988](../O/Oxonmoot_1988.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Oxford_Town_Hall" title="wikipedia:Oxford Town Hall">Tòa thị chính Oxford</a>.
+- **[1989](1989.md)** - [Oxonmoot 1989](../O/Oxonmoot_1989.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Oxford_Town_Hall" title="wikipedia:Oxford Town Hall">Tòa thị chính Oxford</a>.
+- **[1990](1990.md)** - [Oxonmoot 1990](../O/Oxonmoot_1990.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Oxford_Town_Hall" title="wikipedia:Oxford Town Hall">Tòa thị chính Oxford</a>.
 - <b><a href="1993.md" title="1993">1993</a> - <i><a href="../M/Morgoth&#39;s_Ring.md" title="Morgoth&#39;s Ring">Morgoth's Ring</a></i> được xuất bản ở Anh.</b>
-- **[2000](2000.md)** - [Oxonmoot 2000](../O/Oxonmoot_2000.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/St_Antony%27s_College,_Oxford" title="wikipedia:St Antony&#39;s College, Oxford">Trường Cao đẳng St Antony</a>.
+- **[2000](2000.md)** - [Oxonmoot 2000](../O/Oxonmoot_2000.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/St_Antony%27s_College,_Oxford" title="wikipedia:St Antony&#39;s College, Oxford">Đại học St Antony</a>.
 - **[2001](2001.md)** - [Oxonmoot 2001](../O/Oxonmoot_2001.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/St_Antony%27s_College,_Oxford" title="wikipedia:St Antony&#39;s College, Oxford">Đại học St Antony</a>.
 - **[2004](2004.md)** - *[There and Back Again: An Actor's Tale](../T/There_and_Back_Again%253A_An_Actor's_Tale.md)* được xuất bản.
 - **[2011](2011.md)** - [Oxonmoot 2011](../O/Oxonmoot_2011.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Lady_Margaret_Hall,_Oxford" title="wikipedia:Lady Margaret Hall, Oxford">Lady Margaret Hall</a>.
@@ -91,16 +91,16 @@ Sự kiện xảy ra vào ngày 23 tháng Chín.
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3001](../T/Third_Age_3001.md):
-    - Một ngày sau [Tiệc sinh nhật](../B/Bilbo's_Farewell_Party.md), [Frodo](../F/Frodo_Baggins.md) quản lý việc thừa kế tài sản của [Bilbo](../B/Bilbo_Baggins.md) và phân phát quà chia tay của anh ấy.
-    - Tin đồn lan truyền đám đông hobbit đến cướp bóc [Bag End](../B/Bag_End.md) và tìm kiếm kho báu; trong đó có những [Sackville-Baggins](../S/Sackville-Bagginses.md) cũng yêu cầu được xem di chúc của Bilbo.
-    - Vào buổi tối [Gandalf](../G/Gandalf.md) thăm Frodo, cảnh báo anh ta không được sử dụng [Chiếc nhẫn](../O/One_Ring.md) và giữ bí mật. Anh ta thay đổi kế hoạch<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và bắt đầu tìm kiếm [Gollum](../G/Gollum.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+    - Một ngày sau [Bữa tiệc sinh nhật](../B/Bilbo's_Farewell_Party.md), [Frodo](../F/Frodo_Baggins.md) quản lý việc thừa kế tài sản của [Bilbo](../B/Bilbo_Baggins.md) và phân phát quà chia tay của ông.
+    - Tin đồn lan truyền đám đông người hobbit đến cướp bóc [Bag End](../B/Bag_End.md) và tìm kiếm kho báu; bao gồm cả [Sackville-Bagginses](../S/Sackville-Bagginses.md), những người cũng yêu cầu được xem di chúc của Bilbo.
+    - Vào buổi tối [Gandalf](../G/Gandalf.md) đến thăm Frodo, cảnh báo anh không được sử dụng [Chiếc nhẫn](../O/One_Ring.md) và giữ bí mật. Ông ta thay đổi kế hoạch<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và bắt đầu tìm kiếm [Gollum](../G/Gollum.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - Bốn [Người lái](../N/Nazgûl.md) tiến vào [ Shire](../T/The_Shire.md) trước bình minh. Những người khác truy đuổi [Rangers](../R/Rangers_of_the_North.md) về phía đông, rồi quay lại xem [Greenway](../G/Greenway.md).
-    - [Merry Brandybuck](../M/Merry_Brandybuck.md) chất hành lý còn lại của [Frodo](../F/Frodo.md) lên xe đẩy và rời đi [Crickhollow](../C/Crickhollow.md) với [Fatty Bolger](../F/Fatty_Bolger.md).<sup id="cite_ref-comp_3-0" class="reference"><a href="#cite_note-comp-3">[3]</a></sup>
-    - Sau bữa trưa [Folco Boffin](../F/Folco_Boffin.md) rời đi Frodo với Pippin. [Lobelia](../L/Lobelia_Sackville-Baggins.md) đến thăm Bag End cùng [Lotho](../L/Lotho_Sackville-Baggins.md) để kiểm tra.<sup id="cite_ref-comp_3-1" class="reference"><a href="#cite_note-comp-3">[3]</a></sup>
-    - [Khamûl](../K/Khamûl.md) đến [Hobbiton](../H/Hobbiton.md) lúc màn đêm buông xuống và thẩm vấn [Gaffer Gamgee](../G/Gaffer_Gamgee.md), người hướng dẫn anh ta đến [Buckland](../B/Buckland.md). Frodo rời đi với Sam và Pippin.<sup id="cite_ref-comp_3-2" class="reference"><a href="#cite_note-comp-3">[3]</a></sup>
-    - Ba hobbit đi bộ về phía tây Hobbiton, băng qua [Dòng nước](../T/The_Water.md), và sau bữa tối, họ rẽ vào con đường dẫn đến [Bucklebury](../B/Bucklebury.md). Họ cắm trại trong rừng <a class="new" href="https://tolkiengateway.net/w/index.php?title=Fir&amp;action=edit&amp;redlink=1" title="Fir (page does not exist)">linh sam</a>.<sup id="cite_ref-comp_3-3" class="reference"><a href="#cite_note-comp-3">[3]</a></sup>
-    - Sau khi thuần hóa [Shadowfax](../S/Shadowfax.md), [Gandalf](../G/Gandalf.md) rời [Rohan](../R/Rohan.md) và hướng tới [Rivendell](../R/Rivendell.md).
+    - Bốn [Kỵ sĩ](../N/Nazgûl.md) tiến vào [Shire](../T/The_Shire.md) trước bình minh. Những người còn lại truy đuổi [Rangers](../R/Rangers_of_the_North.md) về phía đông, rồi quay lại quan sát [Greenway](../G/Greenway.md).
+    - [Merry Brandybuck](../M/Merry_Brandybuck.md) chất hành lý còn lại của [Frodo](../F/Frodo.md) lên xe đẩy và rời đi [Crickhollow](../C/Crickhollow.md) cùng với [Fatty Bolger](../F/Fatty_Bolger.md).<sup id="cite_ref-comp_3-0" class="reference"><a href="#cite_note-comp-3">[3]</a></sup>
+    - Sau bữa trưa [Folco Boffin](../F/Folco_Boffin.md) rời Frodo cùng Pippin. [Lobelia](../L/Lobelia_Sackville-Baggins.md) đến Bag End cùng với [Lotho](../L/Lotho_Sackville-Baggins.md) để kiểm tra.<sup id="cite_ref-comp_3-1" class="reference"><a href="#cite_note-comp-3">[3]</a></sup>
+    - [Khamûl](../K/Khamûl.md) đến [Hobbiton](../H/Hobbiton.md) vào lúc màn đêm buông xuống và thẩm vấn [Gaffer Gamgee](../G/Gaffer_Gamgee.md), người đã hướng dẫn ông ta đến [Buckland](../B/Buckland.md). Frodo rời đi cùng Sam và Pippin.<sup id="cite_ref-comp_3-2" class="reference"><a href="#cite_note-comp-3">[3]</a></sup>
+    - Ba hobbit đi bộ về phía tây Hobbiton, băng qua [Dòng nước](../T/The_Water.md) và sau bữa tối, họ rẽ vào con đường dẫn đến [Bucklebury](../B/Bucklebury.md). Họ cắm trại trong rừng <a class="new" href="https://tolkiengateway.net/w/index.php?title=Fir&amp;action=edit&amp;redlink=1" title="Fir (page does not exist)">linh sam</a>-.<sup id="cite_ref-comp_3-3" class="reference"><a href="#cite_note-comp-3">[3]</a></sup>
+    - Sau khi thuần hóa [Shadowfax](../S/Shadowfax.md), [Gandalf](../G/Gandalf.md) rời [Rohan](../R/Rohan.md) và tiến đến [Rivendell](../R/Rivendell.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.
 
 <span></span>

@@ -28,11 +28,11 @@ langlinks:
     url: "https://kontu.wiki/Lothland"
 ---
 
-**Sa mạc Lostladen** là vùng nằm giữa [Nurn](../N/Nurn.md) và [Near Harad](../N/Near_Harad.md), ngay phía nam [Mordor](../M/Mordor.md). Không có gì khác được biết đến về sa mạc và cái tên này chỉ được tìm thấy bằng bút chì trên bản đồ được tạo cho *[The Return of the King](../T/The_Return_of_the_King.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Sa mạc Lostladen** là vùng nằm giữa [Nurn](../N/Nurn.md) và [Gần Harad](../N/Near_Harad.md), ngay phía nam [Mordor](../M/Mordor.md). Không có gì khác được biết đến về sa mạc và cái tên này chỉ được tìm thấy bằng bút chì trên bản đồ được tạo cho *[The Return of the King](../T/The_Return_of_the_King.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Trong bản phác thảo đầu tiên của chương "[Cuộc tranh luận cuối cùng](../T/The_Last_Debate.md)", khu vực này được gọi là sa mạc Lothland. [Christopher Tolkien](../C/Christopher_Tolkien.md) do đó đã lưu ý rằng tên *Lostladen* có thể liên quan đến tên *[Lothlann](../L/Lothlann.md)*/*Lothland* được tìm thấy trong [*Etymologies*](../T/The_Etymologies.md) (cf. [gốc](../S/Sundocarme.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=LAD&amp;action=edit&amp;redlink=1" title="LAD (page does not exist)">LAD</a> và <a class="new" href="https://tolkiengateway.net/w/index.php?title=LUS&amp;action=edit&amp;redlink=1" title="LUS (page does not exist)">LUS</a>).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Trong bản phác thảo đầu tiên của chương "[Cuộc tranh luận cuối cùng](../T/The_Last_Debate.md)", khu vực này được gọi là sa mạc Lothland. [Christopher Tolkien](../C/Christopher_Tolkien.md) do đó đã lưu ý rằng cái tên *Lostladen* có thể liên quan đến những cái tên *[Lothlann](../L/Lothlann.md)*/*Lothland* được tìm thấy trong [*Etymologies*](../T/The_Etymologies.md) (cf. [roots](../S/Sundocarme.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=LAD&amp;action=edit&amp;redlink=1" title="LAD (page does not exist)">LAD</a> và <a class="new" href="https://tolkiengateway.net/w/index.php?title=LUS&amp;action=edit&amp;redlink=1" title="LUS (page does not exist)">LUS</a>).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

@@ -52,7 +52,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Hild là con gái của [Vua Gram](../G/Gram.md) và là em gái của [Helm Hammerhand](Helm.md). Con trai bà [Fréaláf](../F/Fréaláf.md) đã lên ngôi sau cái chết của Helm và hai con trai.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Hild là con gái của [King Gram](../G/Gram.md) và là em gái của [Helm Hammerhand](Helm.md). Con trai bà [Fréaláf](../F/Fréaláf.md) lên ngôi sau cái chết của Helm và hai con trai ông.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

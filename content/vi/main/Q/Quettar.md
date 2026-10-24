@@ -33,11 +33,11 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/Q/Quettar_logo.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/1/11/Quettar_logo.jpg/320px-Quettar_logo.jpg" decoding="async" loading="lazy" width="320" height="186" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/11/Quettar_logo.jpg/480px-Quettar_logo.jpg 1.5x, https://tolkiengateway.net/w/images/1/11/Quettar_logo.jpg 2x" data-file-width="560" data-file-height="325"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Quettar</span></th></tr><tr><th scope="row" class="tg-infobox-label">Latest editor</th><td class="tg-infobox-data"><a href="../S/Susan_Rule.md" title="Susan Rule">Susan Rule</a> and others</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">1980 to 1995</td></tr></tbody></table>
 
-<i><b>Quettar</b></i> là tạp chí của Hiệp hội Ngôn ngữ học [Hội Tolkien](../T/The_Tolkien_Society.md).
+<i><b>Quettar</b></i> là tạp chí của Hiệp hội Ngôn ngữ học của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md).
 
 ## Xuất bản {#Publication}
 
-Quettar được thành lập tại [1980](../_/1980.md) bởi [Susan Rule](../S/Susan_Rule.md) và được chỉnh sửa kể từ đó bởi Steve Pillinger, Michael Poxon, [David Doughan](../D/David_Doughan.md) và [Julian C. Bradfield](../J/Julian_C._Bradfield.md). Trong [1995](../_/1995.md), sau 49 số phát hành, Bradfield không còn thời gian để biên tập nữa và do sự phát triển của Internet - [Tolklang](../T/Tolklang.md) của Bradfield - số lượt gửi trở nên thấp và Quettar không còn tồn tại. Gần đây, Bradfield đã bày tỏ sự quan tâm đến việc khôi phục Quettar <a class="external autonumber" href="http://www.quettar.org/revival.html" rel="noreferrer noopener" target="_blank">[1]</a>và bắt đầu xuất bản lại các số báo.
+Quettar được thành lập vào [1980](../_/1980.md) bởi [Susan Rule](../S/Susan_Rule.md) và được chỉnh sửa kể từ đó bởi Steve Pillinger, Michael Poxon, [David Doughan](../D/David_Doughan.md) và [Julian C. Bradfield](../J/Julian_C._Bradfield.md). Trong [1995](../_/1995.md), sau 49 số phát hành, Bradfield không còn thời gian để biên tập nữa và do sự phát triển của Internet - [Tolklang](../T/Tolklang.md) của Bradfield - số lượt gửi trở nên thấp và Quettar không còn tồn tại. Gần đây, Bradfield đã bày tỏ sự quan tâm đến việc khôi phục Quettar <a class="external autonumber" href="http://www.quettar.org/revival.html" rel="noreferrer noopener" target="_blank">[1]</a>và bắt đầu xuất bản các số báo trở lại.
 
 ## Mục tiêu {#Aim}
 
@@ -80,7 +80,7 @@ Quettar được thành lập tại [1980](../_/1980.md) bởi [Susan Rule](../S
 </p>
 </blockquote>
 
-Vì những ấn phẩm này xuất hiện trước khi hầu hết các bài báo ngôn ngữ học của Tolkien được xuất bản trên *[The History of Middle-earth](../T/The_History_of_Middle-earth.md)* và *[Vinyar Tengwar](../V/Vinyar_Tengwar.md)*nên phần lớn chúng đều dựa trên sự suy đoán. Rất ít tài liệu gốc được xuất bản, mặc dù các chữ số [Tengwar](../T/Tengwar.md) đã xuất hiện đầy đủ lần đầu tiên trong số 13.
+Vì những ấn phẩm này xuất hiện trước khi hầu hết các bài viết về ngôn ngữ học của Tolkien được xuất bản trên *[The History of Middle-earth](../T/The_History_of_Middle-earth.md)* và *[Vinyar Tengwar](../V/Vinyar_Tengwar.md)* nên phần lớn chúng đều dựa trên sự suy đoán. Rất ít tài liệu gốc được xuất bản, mặc dù các chữ số [Tengwar](../T/Tengwar.md) đã xuất hiện đầy đủ lần đầu tiên trong số 13.
 
 ## Vấn đề {#Issues}
 

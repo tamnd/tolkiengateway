@@ -25,7 +25,7 @@ categories:
 
 ## Có cùng nguồn gốc {#Cognates}
 
-- [Sindarin](../S/Sindarin.md) *[raug](Raug.md)*
+- [Tiếng Sindarin](../S/Sindarin.md) *[raug](Raug.md)*
 
 <span></span>
 

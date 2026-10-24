@@ -20,7 +20,7 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/R/Rodney_Matthews_Fantasy_Images_1966_Calendar.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/d0/Rodney_Matthews_Fantasy_Images_1966_Calendar.jpg/300px-Rodney_Matthews_Fantasy_Images_1966_Calendar.jpg" decoding="async" loading="lazy" width="300" height="299" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/d0/Rodney_Matthews_Fantasy_Images_1966_Calendar.jpg/450px-Rodney_Matthews_Fantasy_Images_1966_Calendar.jpg 1.5x, https://tolkiengateway.net/w/images/d/d0/Rodney_Matthews_Fantasy_Images_1966_Calendar.jpg 2x" data-file-width="502" data-file-height="500"/></a><figcaption></figcaption></figure>
 
-**Hình ảnh tưởng tượng của Rodney Matthews Lịch năm 1996** có hình minh họa của [Rodney Matthews](Rodney_Matthews.md), ba trong số đó có liên quan đến [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
+**Rodney Matthews Fantasy Images Lịch 1996** có hình minh họa của [Rodney Matthews](Rodney_Matthews.md), ba trong số đó có liên quan đến [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
 - <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/1875842209">ISBN 1-875842-20-9</a>
 - Kích thước: 12 x 12 inch

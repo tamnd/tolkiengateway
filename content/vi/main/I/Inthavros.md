@@ -18,7 +18,7 @@ categories:
 
 ## Từ nguyên {#Etymology}
 
-Tên *Inthavros* nằm trong [Gnomish](../G/Gnomish.md). Nó bao gồm phần tử <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=In-&amp;action=edit&amp;redlink=1" title="In- (page does not exist)">in-</a></i> ("ngôi nhà của") và tên riêng *Tavros*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Tên *Inthavros* có trong [Gnomish](../G/Gnomish.md). Nó bao gồm phần tử <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=In-&amp;action=edit&amp;redlink=1" title="In- (page does not exist)">in-</a></i> ("ngôi nhà của") và tên riêng *Tavros*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 Tên trước đây của địa điểm này là *Intavros*.<sup id="cite_ref-Int_1-1" class="reference"><a href="#cite_note-Int-1">[1]</a></sup>
 

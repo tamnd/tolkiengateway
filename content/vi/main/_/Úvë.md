@@ -15,7 +15,7 @@ sort_keys:
   "Quenya nouns": "Uve"
 ---
 
-<i><b>úvë</b></i> là một từ [Quenya](../Q/Quenya.md) mang ý nghĩa "dồi dào, số lượng lớn".<sup id="cite_ref-LR_1-0" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
+<i><b>úvë</b></i> là từ [Quenya](../Q/Quenya.md) có nghĩa là "dồi dào, số lượng lớn".<sup id="cite_ref-LR_1-0" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

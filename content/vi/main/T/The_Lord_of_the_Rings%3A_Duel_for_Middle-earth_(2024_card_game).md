@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lord of the Rings: Duel for Middle-earth"
 ---
 
-Chuyển hướng tới [The Lord of the Rings: Đấu tay đôi vì Trung Địa](The_Lord_of_the_Rings%253A_Duel_for_Middle-earth.md).
+Chuyển hướng đến [The Lord of the Rings: Duel for Middle-earth](The_Lord_of_the_Rings%253A_Duel_for_Middle-earth.md).

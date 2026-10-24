@@ -14,11 +14,11 @@ categories:
   - "Quenya adverbs"
 ---
 
-**nu** là từ [Sindarin](../S/Sindarin.md) và [Quenya](../Q/Quenya.md) cho "dưới" hoặc "bên dưới".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**nu** là từ [Sindarin](../S/Sindarin.md) và [Quenya](../Q/Quenya.md) có nghĩa là "dưới" hoặc "bên dưới".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Ví dụ {#Examples}
 
-- <i><b>nu</b> luini yassen tintilar i eleni</i> = "**bên dưới** vòm xanh của Varda nơi các ngôi sao rung chuyển"<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> ([Quenya](../Q/Quenya.md))
+- <i><b>nu</b> luini yassen tintilar i eleni</i> = "**bên dưới** những mái vòm xanh của Varda nơi những ngôi sao run rẩy"<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> ([Quenya](../Q/Quenya.md))
 
 - <i><a href="../T/Taur-nu-Fuin_(Dorthonion).md" title="Taur-nu-Fuin (Dorthonion)">Taur-<b>nu</b>-Fuin</a></i> = "Rừng-**dưới**-nightshade"<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> ([Sindarin](../S/Sindarin.md))
 

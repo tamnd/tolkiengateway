@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lord of the Rings Symphony"
 ---
 
-Chuyển hướng tới [The Lord of the Rings Bản giao hưởng](../T/The_Lord_of_the_Rings_Symphony.md).
+Chuyển hướng đến [The Lord of the Rings Symphony](../T/The_Lord_of_the_Rings_Symphony.md).

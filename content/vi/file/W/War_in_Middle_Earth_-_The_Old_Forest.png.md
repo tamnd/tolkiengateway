@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Frodo](../../main/F/Frodo_Baggins.md) và hai [Hobbit](../../main/H/Hobbits.md) trong [Khu Rừng Cổ](../../main/O/Old_Forest.md) trong [J.R.R. Tolkien ở Trung Địa](../../main/J/J.R.R._Tolkien's_War_in_Middle_Earth.md).
+[Frodo](../../main/F/Frodo_Baggins.md) và hai [Hobbit](../../main/H/Hobbits.md) trong [Khu Rừng Cổ](../../main/O/Old_Forest.md) trong Cuộc chiến ở Trung Địa của [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien's_War_in_Middle_Earth.md).
 
 ## Giấy phép {#Licensing}
 

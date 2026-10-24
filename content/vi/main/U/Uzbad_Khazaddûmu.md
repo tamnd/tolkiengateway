@@ -11,4 +11,4 @@ redirect_target: "Lord of Moria"
 redirect_fragment: "Etymology and analysis"
 ---
 
-Chuyển hướng đến [Chúa tể Moria](../L/Lord_of_Moria.md#Etymology_and_analysis).
+Chuyển hướng đến [Lãnh chúa Moria](../L/Lord_of_Moria.md#Etymology_and_analysis).

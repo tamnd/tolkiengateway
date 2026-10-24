@@ -12,9 +12,9 @@ categories:
   - "Palantíri"
 ---
 
-**Master-stone** là thủ lĩnh của tất cả *[palantíri](../P/Palantíri.md)*, cả ở [Aman](../A/Aman.md) và [Trung Địa](Middle-earth.md), được giữ trong [Tháp Avallónë](../T/Tower_of_Avallónë.md) trên [Đảo Cô đơn](../T/Tol_Eressëa.md). Người ta nói rằng Viên đá nhìn thấy trong [Elostirion](../E/Elostirion.md) trong [Đồi Tháp](../T/Tower_Hills.md) có thể được sử dụng để nhìn lại dọc theo [Con Đường Thẳng](../S/Straight_Road.md) và nhìn thoáng qua Tháp.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Master-stone** là thủ lĩnh của tất cả *[palantíri](../P/Palantíri.md)*, cả ở [Aman](../A/Aman.md) và [Trung địa](Middle-earth.md), được tổ chức tại [Tháp Avallónë](../T/Tower_of_Avallónë.md) trên [Đảo Cô đơn](../T/Tol_Eressëa.md). Người ta nói rằng Viên đá nhìn thấy ở [Elostirion](../E/Elostirion.md) ở [Tower Hills](../T/Tower_Hills.md) có thể được sử dụng để nhìn lại dọc theo [Con đường thẳng](../S/Straight_Road.md) và nhìn thoáng qua Tháp.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Hòn đá Avallónë có nhiều tên gọi khác nhau là "'Masterstone'" hay *Master-stone*. Ngoài ra còn có một 'Viên đá chủ nhân' [Trung Địa](Middle-earth.md), *palantír* của [Osgiliath](../O/Osgiliath.md), nhưng đây là Viên đá kém hơn Viên đá chủ ở Avallónë, chỉ có sức mạnh hơn những *palantíri* khác ở [Trung Địa](Middle-earth.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Hòn đá Avallónë có nhiều tên gọi khác nhau là "'Masterstone'" hay *Master-stone*. Ngoài ra còn có một 'Viên đá chủ nhân' của [Trung địa](Middle-earth.md), *palantír* của [Osgiliath](../O/Osgiliath.md), nhưng đây là Viên đá kém chất lượng hơn Viên đá kiệt tác ở Avallónë, chỉ có quyền lực đối với *palantíri* khác ở [Trung địa](Middle-earth.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

@@ -43,11 +43,11 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../H/Hobbits.md" title="Hobbits">Hobbit</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Flambard Took</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../T/Tuckborough.md" title="Tuckborough">Tuckborough</a></td></tr><tr><th scope="row" class="tg-infobox-label">Birth</th><td class="tg-infobox-data"><a class="mw-redirect" href="../S/Shire_Reckoning.md" title="Shire Reckoning">S.R.</a> <a href="../T/Third_Age_2887.md" title="Third Age 2887">1287</a></td></tr><tr><th scope="row" class="tg-infobox-label">Death</th><td class="tg-infobox-data"><a class="mw-redirect" href="../S/Shire_Reckoning.md" title="Shire Reckoning">S.R.</a> <a href="../T/Third_Age_2989.md" title="Third Age 2989">1389</a> (aged 102)<br/></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">Family</th><td class="tg-infobox-data"><a href="../T/Took_Family.md" title="Took Family">Took</a></td></tr><tr><th scope="row" class="tg-infobox-label">Parentage</th><td class="tg-infobox-data"><a href="../I/Isembard_Took.md" title="Isembard Took">Isembard</a></td></tr><tr><th scope="row" class="tg-infobox-label">Children</th><td class="tg-infobox-data"><a href="../A/Adelard_Took.md" title="Adelard Took">Adelard</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Flambard_Took.md" title="Category:Images of Flambard Took">Images of Flambard Took</a></td></tr></tbody></table>
 
-**Flambard Took** là [Hobbit](../H/Hobbits.md) của [the Shire](../T/The_Shire.md).
+**Flambard Took** là một [Hobbit](../H/Hobbits.md) của [Shire](../T/The_Shire.md).
 
 ## Lịch sử {#History}
 
-Flambard là con trai của [Isembard Took](../I/Isembard_Took.md), một trong những con trai nhỏ của [the Old Took](../G/Gerontius_Took.md). Ông có một con trai, [Adelard](../A/Adelard_Took.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Flambard là con trai của [Isembard Took](../I/Isembard_Took.md), một trong những con trai nhỏ của [Old Took](../G/Gerontius_Took.md). Ông có một con trai, [Adelard](../A/Adelard_Took.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

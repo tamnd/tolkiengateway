@@ -25,13 +25,13 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><i><a href="../T/The_Letters_of_J.R.R._Tolkien.md" title="The Letters of J.R.R. Tolkien">The Letters of J.R.R. Tolkien</a></i></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Letter 158a</span></th></tr><tr><th scope="row" class="tg-infobox-label">Recipient</th><td class="tg-infobox-data"><a href="../R/Rayner_Unwin.md" title="Rayner Unwin">Rayner Unwin</a></td></tr><tr><th scope="row" class="tg-infobox-label">Date</th><td class="tg-infobox-data"><a href="../_/20_December.md" title="20 December">20 December</a> <a href="../_/1954.md" title="1954">1954</a></td></tr><tr><th scope="row" class="tg-infobox-label">Subject(s)</th><td class="tg-infobox-data"><i><a href="../T/The_Return_of_the_King.md" title="The Return of the King">The Return of the King</a></i></td></tr></tbody></table>
 
-**Thư 158a** là bức thư được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và đăng trên *[The Letters of J.R.R. Tolkien: Revised and Expanded edition](../T/The_Letters_of_J.R.R._Tolkien.md#Revised_and_Expanded_edition)*.
+**Thư 158a** là lá thư được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và đăng trên *[The Letters of J.R.R. Tolkien: Revised and Expanded edition](../T/The_Letters_of_J.R.R._Tolkien.md#Revised_and_Expanded_edition)*.
 
 ## Tóm tắt {#Summary}
 
-Trong thư này Tolkien xin lỗi [Rayner Unwin](../R/Rayner_Unwin.md) vì sự chậm trễ trong việc gửi tài liệu cho [Phụ lục](../T/The_Lord_of_the_Rings_Appendices.md) của *[The Return of the King](../T/The_Return_of_the_King.md)*. Tolkien giải thích rằng anh ta đã bị quấy rối nặng nề và bị bệnh, góp phần khiến anh ta không thể hoàn thành đúng thời hạn. Anh ấy đảm bảo với Unwin rằng anh ấy sẽ cố gắng gửi nội dung chính của Phụ lục vào ngày hôm sau, thừa nhận rằng sẽ vẫn bị trễ ngay cả khi nó đến vào thứ Tư.
+Trong thư này, Tolkien xin lỗi [Rayner Unwin](../R/Rayner_Unwin.md) vì sự chậm trễ trong việc gửi tài liệu cho [Phụ lục](../T/The_Lord_of_the_Rings_Appendices.md) của *[The Return of the King](../T/The_Return_of_the_King.md)*. Tolkien giải thích rằng ông đã bị quấy rối nặng nề và bị ốm, góp phần khiến ông không thể hoàn thành kịp thời hạn. Ông đảm bảo với Unwin rằng ông sẽ cố gắng gửi nội dung chính của Phụ lục vào ngày hôm sau, đồng thời thừa nhận rằng dù đến trước thứ Tư thì vẫn sẽ bị muộn.
 
-Tolkien cũng đề cập đến sự kiệt sức của anh sau một năm đặc biệt đầy thử thách với những khó khăn cá nhân và gia đình. <br>
+Tolkien cũng đề cập đến sự kiệt sức của ông sau một năm đặc biệt đầy thử thách với những khó khăn cá nhân và gia đình. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

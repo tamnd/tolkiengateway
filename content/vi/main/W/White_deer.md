@@ -28,7 +28,7 @@ images:
 <p class="tg-quote-footer"><cite><i><a href="../T/The_Hobbit.md" title="The Hobbit">The Hobbit</a></i>, &#34;<a href="../F/Flies_and_Spiders.md" title="Flies and Spiders">Flies and Spiders</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div></center>
 
-**Hươu trắng** là một loại [hươu](../D/Deer.md) được tìm thấy trong rừng [Mirkwood](../M/Mirkwood.md). Cùng với hai chú hươu con, một con nai cái như vậy đã gây ngạc nhiên cho [Bilbo](../B/Bilbo_Baggins.md) và [Người Lùn](../D/Dwarves.md) trong [Nhiệm vụ của Erebor](../Q/Quest_of_Erebor.md) khi họ lần đầu tiên bước vào khu rừng [Mirkwood](../M/Mirkwood.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Hươu trắng** là một loại [hươu](../D/Deer.md) được tìm thấy trong khu rừng [Mirkwood](../M/Mirkwood.md). Cùng với hai chú nai con, chú hươu cao cổ như vậy đã gây ngạc nhiên cho [Bilbo](../B/Bilbo_Baggins.md) và [Người lùn](../D/Dwarves.md) trong [Nhiệm vụ của Erebor](../Q/Quest_of_Erebor.md) khi họ lần đầu tiên bước vào khu rừng [Mirkwood](../M/Mirkwood.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Các bài viết khác {#Other_writings}
 
@@ -36,9 +36,9 @@ Cuộc chạm trán với một con nai cái màu trắng xảy ra trong "[The L
 
 ## Cảm hứng {#Inspiration}
 
-Những con vật huyền bí có màu trắng rất phổ biến trong [Celtic](../C/Celtic.md) và [tiếng Wales](Welsh.md) thần thoại. Truyền thuyết về Vua Arthur bao gồm một câu chuyện về việc truy đuổi một con nai lớn <a class="external text" href="https://mortedarthur.fandom.com/wiki/White_hart" rel="noreferrer noopener" target="_blank">trắng</a>, dẫn đến việc đến cái giếng huyền diệu của Ngài Pellinore.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Những con vật huyền bí có màu trắng rất phổ biến trong thần thoại [Celtic](../C/Celtic.md) và [xứ Wales](Welsh.md). Truyền thuyết về Vua Arthur bao gồm một câu chuyện về việc theo đuổi một con nai lớn <a class="external text" href="https://mortedarthur.fandom.com/wiki/White_hart" rel="noreferrer noopener" target="_blank">trắng</a>, dẫn đến việc đến được cái giếng huyền diệu của Ngài Pellinore.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-[Douglas A. Anderson](../D/Douglas_A._Anderson.md) đã lưu ý rằng sự xuất hiện của hươu trắng ở *The Hobbit* báo trước cách tiếp cận của Bilbo và đồng đội tới khu vực [Yêu tinh rừng](../E/Elves_of_Mirkwood.md) của Mirkwood, vì truyền thống "*\[i\]n Celtic, việc chạm trán với động vật trắng (đặc biệt là hươu trắng) thường báo trước một cuộc gặp gỡ với những sinh vật từ Thế giới khác ([Faërie](../F/Faerie.md))*".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+[Douglas A. Anderson](../D/Douglas_A._Anderson.md) đã lưu ý rằng sự xuất hiện của hươu trắng ở *The Hobbit* báo trước việc Bilbo và đồng đội tiếp cận khu vực [Wood-elven](../E/Elves_of_Mirkwood.md) của Mirkwood, vì "*\[i\]n truyền thống của người Celtic, việc chạm trán với động vật trắng (đặc biệt là hươu trắng) thường báo trước một cuộc gặp gỡ với những sinh vật từ Thế giới khác ([Faërie](../F/Faerie.md))*".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Xem thêm {#See_also}
 
@@ -46,11 +46,11 @@ Những con vật huyền bí có màu trắng rất phổ biến trong [Celtic]
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>:</b>
+<b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Nhập vai ở Trung Địa</a></i>:</b>
 
 <dl><dd>The White Hart is the largest breed of deer found in northwestern Middle-earth (rumoured to have <a href="../F/Fairies.md" title="Fairies">Faerie</a> blood). The suggested Sindarin name of this type of deer was <i>Nimfiara</i> in the early publications from MERP, later revised to <i>Nimmerais</i> (sing. <i>Nimmaras</i>).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></dd></dl>
 
-<b>2013: <i><a href="../T/The_Hobbit%253A_The_Desolation_of_Smaug.md" title="The Hobbit: The Desolation of Smaug">The Hobbit: The Desolation of Smaug</a></i>:</b>
+<b>2013: <i><a href="../T/The_Hobbit%253A_The_Desolation_of_Smaug.md" title="The Hobbit: The Desolation of Smaug">Người Hobbit: Sự tàn phá của Smaug</a></i>:</b>
 
 <dl><dd>The Extended Edition includes a scene in which a white deer appears as the dwarves try to cross the river in Mirkwood. <a class="mw-redirect" href="../T/Thorin_Oakenshield.md" title="Thorin Oakenshield">Thorin</a> tries to shoot it down with an arrow but he misses. The deer later flees.</dd></dl>
 

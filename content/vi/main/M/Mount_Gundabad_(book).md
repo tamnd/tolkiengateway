@@ -44,20 +44,20 @@ infobox:
 
 <i><b>Mount Gundabad</b></i> là phần bổ sung (trong dòng *Campaign*) cho *[Middle-earth Role Playing](Middle-earth_Role_Playing.md)*, Phiên bản đầu tiên.
 
-Dựa trên các bài viết được xuất bản sau này của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), [Thomas Morwinsky](../T/Thomas_Morwinsky.md) đã xuất bản một bài báo trên *[Other Hands](../O/Other_Hands.md)* ("Lịch sử của Mount Gundabad", số ra ngày 28 tháng 1 năm 2000) về các đề xuất sửa đổi cho mô-đun *Mount Gundabad*.
+Dựa trên các bài viết được xuất bản sau này của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), [Thomas Morwinsky](../T/Thomas_Morwinsky.md) đã xuất bản một bài báo trên *[Other Hands](../O/Other_Hands.md)* ("Lịch sử của Núi Gundabad", số ra ngày 28 tháng 1 năm 2000) về các đề xuất sửa đổi cho mô-đun *Mount Gundabad*.
 
-Để sử dụng với phần bổ sung này, [Mithril Miniatures](Mithril_Miniatures.md) đã phát hành một bộ mô hình thu nhỏ bằng kim loại (M93 - M102 *Mount Gundabad*).
+Để sử dụng cùng với phần bổ sung này, [Mithril Miniatures](Mithril_Miniatures.md) đã phát hành một bộ mô hình thu nhỏ bằng kim loại (M93 - M102 *Mount Gundabad*).
 
 ## Văn bản bìa/áo khoác {#Cover/Jacket_Text}
 
-Đi dạo trong những đoạn văn tối tăm, ngoằn ngoèo và đầy kinh dị của Mount Gundabad. Một địa điểm có ý nghĩa chiến lược to lớn đối với cả Vua Phù thủy và chủ nhân của hắn, Sauron, thành phố Orc dưới lòng đất này bảo vệ con đường đi qua phía bắc Dãy Núi Sương Mù. Từ Cổng Drake hùng vĩ của Gundabad, các Lãnh chúa và đám yêu tinh của họ hành quân để chiến đấu chống lại Dân tộc Tự do.
+Dạo quanh những lối đi tối tăm, ngoằn ngoèo và đầy kinh dị của Núi Gundabad. Là một địa điểm có ý nghĩa chiến lược to lớn đối với cả Vua phù thủy và chủ nhân của hắn, Sauron, thành phố Orc dưới lòng đất này bảo vệ con đường đi qua Dãy núi Sương mù phía bắc. Từ Cổng Drake hùng vĩ của Gundabad, các Lãnh chúa và đám yêu tinh của họ hành quân để chiến đấu chống lại Nhân dân Tự do.
 
-Khám phá những Đại sảnh nghiệt ngã của thành phố yêu tinh, nơi các lãnh chúa Orc tranh giành quyền lực. Bò cùng binh lính, nô lệ bị bắt và quái vật từ [Vùng sâu](../U/Under-deeps.md) bí ẩn, hang động của Mount Gundabad ngập tràn nguy hiểm và phiêu lưu.
+Khám phá Hội trường nghiệt ngã của thành phố yêu tinh, nơi các chúa tể Orc tranh giành quyền lực. Bò cùng binh lính, nô lệ bị bắt và quái vật từ [Vùng sâu](../U/Under-deeps.md) bí ẩn, hang động của Núi Gundabad ngập tràn nguy hiểm và phiêu lưu.
 
 MOUNT GUNDABAD bao gồm:
 
 - BẢN ĐỒ ĐẦY MÀU 11" x 17" mô tả khu vực.
 - MẶT CẮT CHÉO của thành phố pháo đài.
-- BỐ CỤC CHI TIẾT của các Ngọn tháp Gundabad và Cổng Drake và bản đồ toàn diện, bản đồ lộ trình của Hố, Mỏ và Hang Nấm.
-- THÔNG TIN CHI TIẾT về Orc, Con Người, căn phòng, lối đi, kho báu, chính trị và ma thuật được tìm thấy trong pháo đài dưới lòng đất.
-- THỐNG KÊ VÀ THÔNG TIN CƠ BẢN về những nhân vật quan trọng như Chúa tể phương Bắc, Vua yêu tinh cai trị tất cả các bộ tộc Orc ở Grey và Dãy Núi Sương Mù.
+- BỐ CỤC CHI TIẾT về các Spiers of Gundabad và Cổng Drake và bản đồ toàn diện về lộ trình của các Hố, Mỏ và Hang Fungi.
+- THÔNG TIN CHI TIẾT về lũ Orc, Con người, căn phòng, lối đi, kho báu, chính trị và ma thuật được tìm thấy trong pháo đài dưới lòng đất.
+- THỐNG KÊ VÀ THÔNG TIN CƠ BẢN về những nhân vật chủ chốt như Chúa tể phương Bắc, Vua yêu tinh cai trị tất cả các bộ tộc Orc ở Dãy núi Xám và Sương mù.

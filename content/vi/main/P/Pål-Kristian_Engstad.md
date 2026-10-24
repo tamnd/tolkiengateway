@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Engstad, Pal-Kristian"
 ---
 
-**Pål-Kristian Engstad** là nhà thiết kế trò chơi người Na Uy. Anh ấy đã dịch Text-Adventure *[Ringen](../R/Ringen.md)* sang tiếng Anh và chuyển đổi nó thành *MUD-software*<sup id="cite_ref-Tolkien_Games-Genesis_1-0" class="reference"><a href="#cite_note-Tolkien_Games-Genesis-1">[1]</a></sup><sup id="cite_ref-Tolkien_Games-Viking_2-0" class="reference"><a href="#cite_note-Tolkien_Games-Viking-2">[2]</a></sup> (*[Genesis](../G/Genesis.md)*<sup id="cite_ref-Tolkien_Games-Genesis_1-1" class="reference"><a href="#cite_note-Tolkien_Games-Genesis-1">[1]</a></sup> và *[VikingMUD](../V/VikingMUD.md)*).<sup id="cite_ref-Tolkien_Games-Viking_2-1" class="reference"><a href="#cite_note-Tolkien_Games-Viking-2">[2]</a></sup> Trong MUD Genesis, anh ấy đã mở rộng bản đồ với nhiều khu vực hơn từ [Trung Địa](../M/Middle-earth.md).
+**Pål-Kristian Engstad** là nhà thiết kế trò chơi người Na Uy. Ông đã dịch Text-Adventure *[Ringen](../R/Ringen.md)* sang tiếng Anh và chuyển đổi nó thành *MUD-software*<sup id="cite_ref-Tolkien_Games-Genesis_1-0" class="reference"><a href="#cite_note-Tolkien_Games-Genesis-1">[1]</a></sup><sup id="cite_ref-Tolkien_Games-Viking_2-0" class="reference"><a href="#cite_note-Tolkien_Games-Viking-2">[2]</a></sup> (*[Genesis](../G/Genesis.md)*<sup id="cite_ref-Tolkien_Games-Genesis_1-1" class="reference"><a href="#cite_note-Tolkien_Games-Genesis-1">[1]</a></sup> và *[VikingMUD](../V/VikingMUD.md)*).<sup id="cite_ref-Tolkien_Games-Viking_2-1" class="reference"><a href="#cite_note-Tolkien_Games-Viking-2">[2]</a></sup> Trong MUD Genesis, ông đã mở rộng bản đồ với nhiều khu vực hơn từ [Trung Địa](../M/Middle-earth.md).
 
 <span></span>
 

@@ -38,7 +38,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mallorn_4.png.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b3/Mallorn_4.png/294px-Mallorn_4.png" decoding="async" loading="lazy" width="294" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b3/Mallorn_4.png/440px-Mallorn_4.png 1.5x, https://tolkiengateway.net/w/images/thumb/b/b3/Mallorn_4.png/587px-Mallorn_4.png 2x" data-file-width="1273" data-file-height="2080"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mallorn 4</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Steven Thomson</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Printer</th><td class="tg-infobox-data">Hartley Patterson</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">1971</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">36</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0308-6674</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mallorn_3.md" title="Mallorn 3">Mallorn 3</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mallorn_5.md" title="Mallorn 5">Mallorn 5</a></td></tr></tbody></table>
 
-<b><i>Mallorn</i> 4</b> là số thứ tư của tạp chí [Tolkien của Hội](../T/Tolkien_Society.md) *[Mallorn](<Mallorn_(journal).md>)*, xuất bản năm 1971.
+<b><i>Mallorn</i> 4</b> là số thứ tư của tạp chí [Hiệp hội Tolkien](../T/Tolkien_Society.md) *[Mallorn](<Mallorn_(journal).md>)*, xuất bản năm 1971.
 
 ## Nội dung {#Contents}
 
@@ -55,7 +55,7 @@ infobox:
 - **Ghi chú**
     - Tolkien và các nàng tiên trong truyền thống dân gian Anh
         - Bởi Dave Weldrake
-    - Ghi chú về Ảnh hưởng của Anglo-Saxon Tài liệu đến *The Lord of the Rings*
+    - Ghi chú về ảnh hưởng của văn học Anglo-Saxon đối với *The Lord of the Rings*
         - Bởi Bob Borsley
     - Các khía cạnh xã hội, quân sự và chính trị của Rohan
         - Bởi Peter Burley
@@ -70,7 +70,7 @@ infobox:
     - Tiểu thuyết Elric của Michael Moorcock
         - Được đánh giá bởi Rosie Turner
     - *The Wood Beyond the World* của [William Morris](../W/William_Morris.md)
-        - Được xem xét bởi Belladonna Took ([Vera Chapman](../V/Vera_Chapman.md))
+        - Được đánh giá bởi Belladonna Took ([Vera Chapman](../V/Vera_Chapman.md))
 - **Minh họa**
     - Bởi Bryan Talbot, John B. Abbott, Roger Nixon và Hal Broome
 
@@ -78,4 +78,4 @@ infobox:
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://journals.tolkiensociety.org/mallorn/issue/view/5/" rel="noreferrer noopener" target="_blank">Vấn đề này tại trang web Hội Tolkien</a>
+- <a class="external text" href="http://journals.tolkiensociety.org/mallorn/issue/view/5/" rel="noreferrer noopener" target="_blank">Số này tại trang web của The Tolkien Society</a>

@@ -29,9 +29,9 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien viết cho Phyllis mô tả thời tiết ở khu vực của anh, suy ngẫm về việc tháng Năm đã bình dị và phù hợp với những miêu tả thơ mộng về mùa xuân cho đến cuối tháng như thế nào. Tuy nhiên, vào ngày anh viết thư, thời tiết đã thay đổi đột ngột, mưa lớn liên tục suốt cả ngày.
+Tolkien đã viết thư cho Phyllis để mô tả thời tiết ở khu vực của ông, suy ngẫm về việc tháng Năm đã bình dị và phù hợp với những miêu tả thơ mộng về mùa xuân cho đến cuối tháng như thế nào. Tuy nhiên, vào ngày anh viết thư, thời tiết đã thay đổi đột ngột, mưa lớn liên tục suốt cả ngày.
 
-Tolkien nhận xét một cách hài hước về các trò chơi theo chu kỳ trong Kinh thánh được biểu diễn theo truyền thống trong lễ <a class="extiw" href="http://en.wikipedia.org/wiki/Feast_of_Corpus_Christi" title="wikipedia:Feast of Corpus Christi">Corpus Christi</a>, lưu ý rằng mặc dù có các buổi biểu diễn ngoài trời nhưng không có ghi chép lịch sử nào về việc những sự kiện này bị gián đoạn do mưa. Ông suy đoán rằng mưa trong các buổi biểu diễn này có thể đã tăng thêm tính hiện thực cho câu chuyện về Con tàu Nô-ê nhưng sẽ gây bất lợi cho việc truyền tải kịch tính của các vở kịch khác, chẳng hạn như các bài phát biểu ầm ĩ của Vua Herod. <br>
+Tolkien nhận xét một cách hài hước về các trò chơi theo chu kỳ trong Kinh thánh được biểu diễn theo truyền thống trong lễ <a class="extiw" href="http://en.wikipedia.org/wiki/Feast_of_Corpus_Christi" title="wikipedia:Feast of Corpus Christi">Corpus Christi</a>, lưu ý rằng mặc dù có các buổi biểu diễn ngoài trời nhưng không có ghi chép lịch sử nào về việc những sự kiện này bị gián đoạn do mưa. Ông suy đoán rằng mưa trong những buổi biểu diễn này có thể đã tăng thêm tính hiện thực cho câu chuyện về Con tàu Nô-ê nhưng sẽ gây bất lợi cho việc truyền tải kịch tính của các vở kịch khác, chẳng hạn như những bài phát biểu ầm ĩ của Vua Herod. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

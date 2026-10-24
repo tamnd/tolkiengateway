@@ -16,7 +16,7 @@ sort_keys:
   "People by name": "Machado, Rodrigo"
 ---
 
-**Rodrigo Machado** là một nghệ sĩ đã tạo ra các hình minh họa dựa trên tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Trọng tâm của họ là các sinh vật và nhân vật sử dụng phương tiện kỹ thuật số.
+**Rodrigo Machado** là một nghệ sĩ đã tạo ra những bức tranh minh họa dựa trên tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Trọng tâm của họ là các sinh vật và nhân vật sử dụng phương tiện kỹ thuật số.
 
 ## Xem thêm {#See_also}
 

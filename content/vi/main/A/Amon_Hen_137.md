@@ -45,7 +45,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/AmonHen137.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/5f/AmonHen137.jpg/320px-AmonHen137.jpg" decoding="async" loading="lazy" width="320" height="462" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/5f/AmonHen137.jpg/480px-AmonHen137.jpg 1.5x, https://tolkiengateway.net/w/images/5/5f/AmonHen137.jpg 2x" data-file-width="569" data-file-height="821"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Amon Hen 137</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Richard Fraser Overton</td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data">Susanne Stopfel</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Printer</th><td class="tg-infobox-data">Centurian Press, Rickmansworth, UK</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">January <a href="../_/1996.md" title="1996">1996</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">A5 stapled paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">24</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0306-8781</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Amon_Hen_136.md" title="Amon Hen 136">Amon Hen 136</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Amon_Hen_138.md" title="Amon Hen 138">Amon Hen 138</a></td></tr></tbody></table>
 
-<b><i>Amon Hen</i> 137</b> là số thứ một trăm ba mươi bảy của tạp chí hai tháng một lần của [Hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, xuất bản vào tháng 1 [1996](../_/1996.md).
+<b><i>Amon Hen</i> 137</b> is the one-hundred-and-thirty-seventh issue of the [The Tolkien Society](../T/The_Tolkien_Society.md)'s bimonthly journal *[Amon Hen](<Amon_Hen_(journal).md>)*, published in January [1996](../_/1996.md).
 
 ## Nội dung {#Contents}
 
@@ -54,12 +54,12 @@ infobox:
 - Tầm nhìn từ trên đồi (Biên tập)
     - Bởi: Richard Fraser Overton
 - Nội dung
-- Barad-dûr Tuyên truyền
+- Tuyên truyền Barad-dûr
 - Công việc của người Ý
     - Bởi: [Pat Reynolds](../P/Patricia_Reynolds.md)
 - Phía sau cánh cửa kính
     - Bởi: Annie Haward
-- Đồ uống của Trung Địa
+- Thức uống của Trung Địa
     - Bởi: Andrew Wells
 - Tim yêu tinh
     - Bởi: Gordon Palmer
@@ -69,17 +69,17 @@ infobox:
     - Bởi: Christine Davidson
 - Toán học
     - Bởi: Jason Finch
-- Beowulf Đánh giá kịch bản
+- Đánh giá kịch bản Beowulf
     - Bởi: [Chris Crawshaw](../C/Chris_Crawshaw.md)
 - Giá trị cũ
     - Bởi: Jim Lawrence
-- Tác phẩm nghệ thuật: The Prancing Pony
+- Tác phẩm: Chú ngựa chồm lên
     - Bởi: Karl Green
 - Các loại của Annie
     - Bởi: Annie Haward
-Một nửa của - Hildifons của Amon Hen
+- Một nửa con gà mái Amon của Hildifons
     - Bởi: [Gary Hunnewell](../S/Sumner_Gary_Hunnewell.md)
-- Truyện dân ca
+- Truyện dân gian
 - Ủy ban
 - Tác phẩm nghệ thuật bổ sung
     - Bởi: Andrew Thorne

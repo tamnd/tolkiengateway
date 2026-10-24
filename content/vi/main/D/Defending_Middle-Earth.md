@@ -64,12 +64,12 @@ infobox:
 - **1. Giới thiệu: Nỗi nhớ cấp tiến**
     - Câu chuyện
     - Người đọc và Nhà phê bình
-    - Tính hậu hiện đại trong Trung Địa
-    - Trung Địa trong Hậu hiện đại
+    - Tính hậu hiện đại ở Trung Địa
+    - Trung địa trong thời hậu hiện đại
     - Ba thế giới trong một
     - Thần thoại của nước Anh
     - Một cuốn sách tuyệt vời
-- **2. The Shire: Văn hóa, xã hội và chính trị**
+- **2. Quận: Văn hóa, xã hội và chính trị**
     - Tiếng Anh
     - Dân gian đồng quê
     - Quốc gia và giai cấp
@@ -86,22 +86,22 @@ infobox:
     - Cuộc chiến trên cây
     - Cây Sự Sống
     - Tolkien và Cây cối
-    - Cái Nhẫn
+    - Chiếc nhẫn
     - Phép thuật vs Bùa mê
-    - Nhẫn là cỗ máy Mega
-    - Mordor trên Trái đất
+    - Chiếc nhẫn như một cỗ máy khổng lồ
+    - Mordor trên Trái Đất
     - Cuộc chiến với sự sống
     - Bán mình
-    - Về "Tình cảm"
+    - Về "Tình Cảm"
     - Cuộc sống là một cây sồi
     - Hãy cứu chúng tôi khỏi các chuyên gia
 - **4. Biển: Tâm linh và đạo đức**
-    - “Vấn đề” của cái ác
+    - "Vấn đề" của cái ác
     - Cái chết
     - May mắn, Định mệnh, Thượng đế
     - Một công việc Cơ Đốc?
-    - Một tác phẩm ngoại đạo?
-    - Pháp sư và Sao
+    - Một tác phẩm ngoại giáo?
+    - Pháp sư và các vì sao
     - Tất cả và Không có
     - Hậu Thiên Chúa giáo/Tân ngoại giáo/Thời đại mới
     - Từ tôn giáo đến thần thoại đến tưởng tượng
@@ -113,15 +113,15 @@ infobox:
     - Quay lại huyền thoại
     - Các cách tiếp cận khác đối với huyền thoại
     - Câu chuyện
-    - Giả tưởng
+    - Ảo tưởng
     - *The Lord of the Rings* dưới dạng Ảo tưởng
     - Thế giới Disney
     - Angela Carter
     - Thế giới đĩa
-Công ty đích thực của     - Tolkien
+    - Công ty đích thực của Tolkien
 - **6. Kết luận: Hy vọng không bảo đảm**
     - Các phần tử
     - Địa điểm
-    - Ngạc nhiên
+    - Điều kỳ diệu
     - Hy vọng
 - Lời bạt

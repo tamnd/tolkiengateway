@@ -43,7 +43,7 @@ infobox:
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
-**The Last Ballad of Damrod (Feat. Jens Kidman)** là một bài hát death metal do Bear McCreary sáng tác cho Damrod the troll trong [The Lord of the Rings: The Rings of Power](The_Lord_of_the_Rings%253A_The_Rings_of_Power.md). Nó có sự góp mặt của Jens Kidman về giọng hát. Theo Bear McCreary, anh ta đã chứng kiến ​​​​cách Damrod tàn bạo như thế nào với bạn bè cũng như kẻ thù và điều đó khiến âm thanh của death metal vang vào đầu anh ta. Lời bài hát dựa trên những câu thơ trong *[The Stone Troll](The_Stone_Troll.md)*, một bài thơ của [Samwise Gamgee](../S/Samwise_Gamgee.md).
+**The Last Ballad of Damrod (Feat. Jens Kidman)** là một bài hát death metal do Bear McCreary sáng tác cho Damrod the troll trong [The Lord of the Rings: The Rings of Power](The_Lord_of_the_Rings%253A_The_Rings_of_Power.md). Nó có sự góp mặt của Jens Kidman về giọng hát. Theo Bear McCreary, ông ta đã chứng kiến ​​​​cách Damrod tàn bạo như thế nào với bạn bè cũng như kẻ thù và điều đó khiến âm thanh của death metal vang vào đầu ông ta. Lời bài hát dựa trên những câu thơ trong *[The Stone Troll](The_Stone_Troll.md)*, một bài thơ của [Samwise Gamgee](../S/Samwise_Gamgee.md).
 
 ## Lời bài hát {#Lyrics}
 
@@ -86,4 +86,4 @@ Troll turns foe flesh to meat.
 
 ## Liên kết ngoài {#External_links}
 
-<a class="external text" href="https://bearmccreary.com/the-lord-of-the-rings-damrod/" rel="noreferrer noopener" target="_blank">The Lord of the Rings: Damrod</a> của [Bear McCreary](../B/Bear_McCreary.md) (một bài blog của nhà soạn nhạc mô tả chi tiết quá trình sáng tác bài hát)
+<a class="external text" href="https://bearmccreary.com/the-lord-of-the-rings-damrod/" rel="noreferrer noopener" target="_blank">Chúa tể của những chiếc nhẫn: Damrod</a> của [Bear McCreary](../B/Bear_McCreary.md) (một bài blog của nhà soạn nhạc mô tả chi tiết quá trình sáng tác bài hát)

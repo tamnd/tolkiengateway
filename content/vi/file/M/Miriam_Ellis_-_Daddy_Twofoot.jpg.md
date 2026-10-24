@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Chi tiết tác phẩm "[The Ivy Bush](Miriam_Ellis_-_The_Ivy_Bush.jpg.md)" của [Miriam Ellis](../../main/M/Miriam_Ellis.md), mô tả [Daddy Twofoot](../../main/D/Daddy_Twofoot.md)
+Chi tiết bức tranh "[The Ivy Bush](Miriam_Ellis_-_The_Ivy_Bush.jpg.md)" của [Miriam Ellis](../../main/M/Miriam_Ellis.md), mô tả [Daddy Twofoot](../../main/D/Daddy_Twofoot.md)
 
 ## Giấy phép {#Licensing}
 

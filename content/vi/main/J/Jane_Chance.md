@@ -31,43 +31,43 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/Jane_Chance.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/c/c9/Jane_Chance.jpg/320px-Jane_Chance.jpg" decoding="async" loading="lazy" width="320" height="238" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/c9/Jane_Chance.jpg/480px-Jane_Chance.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/c/c9/Jane_Chance.jpg/640px-Jane_Chance.jpg 2x" data-file-width="795" data-file-height="591"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Jane Chance</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Born</th><td class="tg-infobox-data"><a href="../_/26_October.md" title="26 October">October 26</a>, <a href="../_/1945.md" title="1945">1945</a></td></tr><tr><th scope="row" class="tg-infobox-label">Occupation</th><td class="tg-infobox-data">Andrew W. Mellon Distinguished Professor Emerita of English at Rice University</td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">Houston, Texas</td></tr></tbody></table>
 
-**Jane Chance Nitzsche** là Andrew W. Mellon Giáo sư danh dự môn tiếng Anh, <a class="extiw" href="http://en.wikipedia.org/wiki/Rice_University" title="wikipedia:Rice University">Đại học Rice</a> (kể từ ngày 13 tháng Chín năm 2013). Mối quan tâm nghiên cứu của cô tập trung vào chủ nghĩa trung cổ hiện đại (đặc biệt là[J.R.R. Tolkien](J.R.R._Tolkien.md)), thần thoại, văn học Trung Cổ Kỷ nguyên và các nhà văn nữ thời trung cổ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Jane Chance Nitzsche** là Andrew W. Mellon Giáo sư danh dự môn tiếng Anh, <a class="extiw" href="http://en.wikipedia.org/wiki/Rice_University" title="wikipedia:Rice University">Đại học Rice</a> (kể từ ngày 13 tháng 9 năm 2013). Mối quan tâm nghiên cứu của cô tập trung vào chủ nghĩa trung cổ hiện đại (đặc biệt là [J.R.R. Tolkien](J.R.R._Tolkien.md)), thần thoại, văn học thời Trung cổ và các nhà văn nữ thời trung cổ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Thư mục, đã chọn {#Bibliography,_selected}
 
 ### Sách {#Books}
 
 - [1979](../_/1979.md): *[Tolkien's Art: A Mythology for England](../T/Tolkien's_Art%253A_A_Mythology_for_England.md)*
-- [1992](../_/1992.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Lord_of_the_Rings:_The_Mythology_of_Power&amp;action=edit&amp;redlink=1" title="The Lord of the Rings: The Mythology of Power (page does not exist)">The Lord of the Rings: Thần thoại về sức mạnh</a></i>
-- [2001](../_/2001.md): *The Lord of the Rings: Thần thoại về sức mạnh* (ấn bản sửa đổi)
+- [1992](../_/1992.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Lord_of_the_Rings:_The_Mythology_of_Power&amp;action=edit&amp;redlink=1" title="The Lord of the Rings: The Mythology of Power (page does not exist)">Chúa tể của những chiếc nhẫn: Thần thoại về sức mạnh</a></i>
+- [2001](../_/2001.md): *Chúa tể của những chiếc nhẫn: Thần thoại về sức mạnh* (ấn bản sửa đổi)
 - [2001](../_/2001.md): *Tolkien's Art: A Mythology for England* (phiên bản sửa đổi)
 - [2002](../_/2002.md): *[Tolkien the Medievalist](../T/Tolkien_the_Medievalist.md)* (biên tập viên)
 - [2004](../_/2004.md): *[Tolkien and the Invention of Myth: A Reader](../T/Tolkien_and_the_Invention_of_Myth.md)* (biên tập viên)
 - [2005](../_/2005.md): *[Tolkien's Modern Middle Ages](../T/Tolkien's_Modern_Middle_Ages.md)* (biên tập viên)
-- 2016: Tolkien, Bản thân và người khác: "Sinh vật kỳ dị này"
+- 2016: Tolkien, Bản thân và Người khác: "Sinh vật kỳ lạ này"
 
 ### Bài viết {#Articles}
 
-- [1986](../_/1986.md): *Các phương pháp giảng dạy Ngài Gawain và Hiệp sĩ xanh*
-    - "Tolkien và Nguồn của Anh ấy"
+- [1986](../_/1986.md): *Approaches to Teaching Sir Gawain and the Green Knight*
+    - "Tolkien and His Sources"
 - [1991](../_/1991.md): *Studies in Medievalism* #3
-    - "Chủ nghĩa Trung cổ trong Tolkien: Hai thập kỷ phê phán được xem xét" (với [David Day](../D/David_Day.md))
+    - "Medievalism in Tolkien: Two Decades of Criticism in Review" (with [David Day](../D/David_Day.md))
 - [1995](../_/1995.md): *[Proceedings of the J.R.R. Tolkien Centenary Conference](../P/Proceedings_of_the_J.R.R._Tolkien_Centenary_Conference.md)*
-    - "Sức mạnh và kiến thức trong Tolkien: Vấn đề về sự khác biệt trong 'Bữa tiệc sinh nhật'"
+    - "Power and Knowledge in Tolkien: The Problem of Difference in 'The Birthday Party'"
 - [2002](../_/2002.md): *Literature—Film Quarterly* 30
-    - (Số 2): "Có văn bản nào trong Hobbit này không? Đoàn Hộ Nhẫn của Peter Jackson"
+    - (Issue 2): "Is There a Text in this Hobbit? Peter Jackson's Fellowship of the Ring"
 - [2005](../_/2005.md): *[Mallorn 43](../M/Mallorn_43.md)*
-    - "Tolkien phụ nữ (và nam giới): phim và sách"
+    - "Tolkien's women (and men): the films and the book"
 - [2005](../_/2005.md): *[Tolkien on Film](../T/Tolkien_on_Film.md)*
-Những người phụ nữ của     - "Tolkien(và Con Người): Bộ phim và cuốn sách"
+    - "Tolkien's Women (and Men): The Film and the Book"
 - [2006](../_/2006.md): *[The Lord of the Rings 1954-2004](../T/The_Lord_of_the_Rings_1954-2004.md)*
-    - "Kẻ tưởng tượng lật đổ: Tolkien về sự khác biệt giai cấp"
+    - "Subversive Fantasist: Tolkien on Class Difference"
 - [2009](../_/2009.md): *Queer Movie Medievalisms*
-    - "'Trong công ty của Orc': Queer của Peter Jackson Tolkien"
+    - "'In the Company of Orcs': Peter Jackson's Queer Tolkien"
 - [2014](../_/2014.md): [The Hobbit *and Tolkien's Mythology*](../T/The_Hobbit_and_Tolkien's_Mythology.md)
-    - "Tolkien Thần thoại lai: *The Hobbit* dưới dạng tiếng Bắc Âu cổ 'Truyện cổ tích'"
-- [2018](../_/2018.md): [*Tolkien Studies*: Tập 15](../T/Tolkien_Studies%253A_Volume_15.md)
-    - "Tolkien Cổ điển *Beowulf* và Thời đại anh hùng của nước Anh"
+    - "Tolkien’s Hybrid Mythology: *The Hobbit* as Old Norse 'Fairy-Story'"
+- [2018](../_/2018.md): [*Tolkien Studies*: Volume 15](../T/Tolkien_Studies%253A_Volume_15.md)
+    - "Tolkien's Classical *Beowulf* and England's Heroic Age"
 
 ### Phim ảnh {#Filmography}
 

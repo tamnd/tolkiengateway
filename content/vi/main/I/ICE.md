@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Iron Crown Enterprises"
 ---
 
-Chuyển hướng đến [Vương miện Sắt Enterprises](Iron_Crown_Enterprises.md).
+Chuyển hướng tới [Doanh nghiệp Iron Crown](Iron_Crown_Enterprises.md).

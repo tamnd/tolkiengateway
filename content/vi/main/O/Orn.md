@@ -22,7 +22,7 @@ categories:
 ## Ví dụ {#Examples}
 
 - <i><a href="../M/Mallorn.md#Etymology" title="Mallorn">trung tâm thương mại<b>orn</b></a></i>
-- <i>Fang<b>orn</b></i> ("[Treebeard](../T/Treebeard.md)")
+- <i>Fang<b>orn</b></i> ("[Râu Cây](../T/Treebeard.md)")
 - <a href="../C/Celeborn.md#Etymology" title="Celeborn"><i>Người nổi tiếng<b>orn</b></i></a>
 - <a href="../H/Hírilorn.md#Etymology" title="Hírilorn"><i>Híril<b>orn</b></i></a>
 
@@ -32,8 +32,8 @@ categories:
 
 ## Xem thêm {#See_also}
 
-- [Sindarin](../S/Sindarin.md) *[oron](Oron.md)*
-- [Sindarin](../S/Sindarin.md) *[eryn](../E/Eryn.md)*
+- [Tiếng Sindarin](../S/Sindarin.md) *[oron](Oron.md)*
+- [Tiếng Sindarin](../S/Sindarin.md) *[eryn](../E/Eryn.md)*
 
 <span></span>
 

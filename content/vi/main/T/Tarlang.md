@@ -26,7 +26,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Theo dân gian, Tarlang thuộc về một nhóm người khổng lồ mà "ngày xa xưa" đang xây dựng [Dãy Núi Trắng](../W/White_Mountains.md) nhằm ngăn chặn [Con Người](../M/Men.md) xâm nhập vào vùng đất của những người khổng lồ gần [Biển](../B/Beleriand.md). Khi đang vác một khối đá nặng, Tarlang bị vấp và ngã đập mặt, gãy cổ tử vong. Xác của anh ta được những người khổng lồ khác sử dụng để hoàn thiện bức tường: tàn tích của anh ta tạo thành con đèo [Tarlang's Neck](Tarlang's_Neck.md) (từ vết gãy ở cổ anh ta), [Dol Tarlang](../D/Dol_Tarlang.md) (bao gồm đầu của anh ta), và [Cûl Veleg](../C/Cûl_Veleg.md) và [Cûl Bîn](../C/Cûl_Bîn.md) (tàn tích sau đống đá của anh ta).<sup id="cite_ref-RC_1-1" class="reference"><a href="#cite_note-RC-1">[1]</a></sup>
+Theo truyền thuyết dân gian, Tarlang thuộc về một nhóm người khổng lồ vào "ngày xa xưa" đang xây dựng [Núi Trắng](../W/White_Mountains.md) để ngăn chặn [Con người](../M/Men.md) xâm nhập vào vùng đất của những người khổng lồ gần [Biển](../B/Beleriand.md). Khi đang vác một khối đá nặng, Tarlang bị vấp và ngã đập mặt, gãy cổ tử vong. Xác của ông ta được những người khổng lồ khác sử dụng để hoàn thiện bức tường: tàn tích của ông ta tạo thành con đèo [Tarlang's Neck](Tarlang's_Neck.md) (từ vết gãy ở cổ ông ta), [Dol Tarlang](../D/Dol_Tarlang.md) (bao gồm đầu của ông ta), và [Cûl Veleg](../C/Cûl_Veleg.md) và [Cûl Bîn](../C/Cûl_Bîn.md) (tàn tích sau đống đá của ông ta).<sup id="cite_ref-RC_1-1" class="reference"><a href="#cite_note-RC-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

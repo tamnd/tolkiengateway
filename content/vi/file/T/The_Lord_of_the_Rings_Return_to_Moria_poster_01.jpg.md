@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Poster chính thức của trò chơi điện tử [The Lord of the Rings: Quay lại Moria](../../main/T/The_Lord_of_the_Rings%253A_Return_to_Moria.md).
+Poster chính thức của trò chơi điện tử [The Lord of the Rings: Return to Moria](../../main/T/The_Lord_of_the_Rings%253A_Return_to_Moria.md).
 
 ## Giấy phép {#Licensing}
 

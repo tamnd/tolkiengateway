@@ -18,8 +18,8 @@ sort_keys:
 
 Vào [30 tháng 1](../_/30_January.md) [1972](../_/1972.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) gửi [Michael George Tolkien](../M/Michael_George_Tolkien.md)**.<sup id="cite_ref-C_1-0" class="reference"><a href="#cite_note-C-1">[1]</a></sup>
 
-- **Subject(s):** Private life, problems with [fans](../T/Tolkien_fandom.md) and press.<sup id="cite_ref-C_1-1" class="reference"><a href="#cite_note-C-1">[1]</a></sup>
-- **Publication:** [Hammond](../W/Wayne_G._Hammond.md) and [Scull](../C/Christina_Scull.md) published a description of the letter in their [*The J.R.R. Tolkien Companion and Guide: Chronology*](../T/The_J.R.R._Tolkien_Companion_and_Guide.md) (p. 759). Quotes from the letter have appeared in Michael Tolkien's transcript of his lecture delivered at the <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_St_Andrews" title="wikipedia:University of St Andrews">University of St Andrews</a> (section 26).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-Add_3-0" class="reference"><a href="#cite_note-Add-3">[3]</a></sup>
+- **(Các) chủ đề:** Đời tư, vấn đề với [người hâm mộ](../T/Tolkien_fandom.md) và báo chí.<sup id="cite_ref-C_1-1" class="reference"><a href="#cite_note-C-1">[1]</a></sup>
+- **Nhà xuất bản:** [Hammond](../W/Wayne_G._Hammond.md) và [Scull](../C/Christina_Scull.md) đã xuất bản mô tả về bức thư trong [*The J.R.R. Tolkien Companion and Guide: Chronology*](../T/The_J.R.R._Tolkien_Companion_and_Guide.md) (tr. 759) của họ. Các trích dẫn từ bức thư đã xuất hiện trong bản ghi lại bài giảng của Michael Tolkien tại <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_St_Andrews" title="wikipedia:University of St Andrews">Đại học St Andrews</a> (phần 26).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-Add_3-0" class="reference"><a href="#cite_note-Add-3">[3]</a></sup>
 
 ## Xem thêm {#See_also}
 

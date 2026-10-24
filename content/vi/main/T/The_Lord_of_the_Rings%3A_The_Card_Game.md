@@ -39,7 +39,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_-_The_Card_Game_-_Revised.webp.md"><img src="https://tolkiengateway.net/w/images/thumb/7/7d/The_Lord_of_the_Rings_-_The_Card_Game_-_Revised.webp/320px-The_Lord_of_the_Rings_-_The_Card_Game_-_Revised.webp.png" decoding="async" loading="lazy" width="320" height="371" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/7d/The_Lord_of_the_Rings_-_The_Card_Game_-_Revised.webp/480px-The_Lord_of_the_Rings_-_The_Card_Game_-_Revised.webp.png 1.5x, https://tolkiengateway.net/w/images/thumb/7/7d/The_Lord_of_the_Rings_-_The_Card_Game_-_Revised.webp/640px-The_Lord_of_the_Rings_-_The_Card_Game_-_Revised.webp.png 2x" data-file-width="776" data-file-height="900"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Living card game</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Lord of the Rings: The Card Game</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Designer</th><td class="tg-infobox-data">Nate French</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../F/Fantasy_Flight_Games.md" title="Fantasy Flight Games">Fantasy Flight Games</a></td></tr><tr><th scope="row" class="tg-infobox-label">Release date</th><td class="tg-infobox-data"><a href="../_/20_April.md" title="20 April">20 April</a> <a href="../_/2011.md" title="2011">2011</a></td></tr><tr><th scope="row" class="tg-infobox-label">Players</th><td class="tg-infobox-data">1 - 4</td></tr><tr><th scope="row" class="tg-infobox-label">Ages</th><td class="tg-infobox-data">14+</td></tr></tbody></table>
 
-<i><b>The Lord of the Rings: Trò chơi bài</b></i> là một trò chơi dựa trên thẻ bài được phát hành bởi [Fantasy Flight Games](../F/Fantasy_Flight_Games.md). Trò chơi lấy bối cảnh trong khoảng thời gian mười bảy năm giữa sinh nhật lần thứ 111 của Bilbo và ngày Frodo khởi hành từ Bag End. *The Lord of the Rings: Trò chơi bài* được công bố lần đầu tiên vào [3 tháng 8](../_/3_August.md) [2010](../_/2010.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và được phát hành vào [20 tháng 4](../_/20_April.md) [2011](../_/2011.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+<i><b>Chúa tể của những chiếc nhẫn: Trò chơi thẻ bài</b></i> là một trò chơi dựa trên thẻ bài được phát hành bởi [Fantasy Flight Games](../F/Fantasy_Flight_Games.md). Trò chơi lấy bối cảnh trong khoảng thời gian mười bảy năm giữa sinh nhật lần thứ 111 của Bilbo và việc Frodo rời khỏi Bag End. *Chúa tể của những chiếc nhẫn: Trò chơi bài* được công bố lần đầu tiên vào [3 tháng 8](../_/3_August.md) [2010](../_/2010.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và được phát hành vào [20 tháng 4](../_/20_April.md) [2011](../_/2011.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 Đây là <a class="external text" href="http://www.fantasyflightgames.com/edge_npm.asp?eidm=14" rel="noreferrer noopener" target="_blank">Trò chơi thẻ bài sống</a>, khác với các trò chơi thẻ bài sưu tầm ở chỗ mỗi bản mở rộng được phát hành theo gói cố định và không có sự ngẫu nhiên. Do đó, không có thẻ "hiếm" hoặc "phổ biến" nào tạo ra một nhóm chơi đồng đều và một hệ thống dễ thu thập và có thể chơi hoàn toàn chỉ với bộ lõi và bất kỳ số lượng mở rộng nào.
 
@@ -51,7 +51,7 @@ Trong [2022](../_/2022.md), Bộ lõi sửa đổi đã được phát hành, ho
 
 <figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_-_The_Card_Game_-_Aragorn.png.md"><img src="https://tolkiengateway.net/w/images/c/c6/The_Lord_of_the_Rings_-_The_Card_Game_-_Aragorn.png" decoding="async" loading="lazy" width="200" height="279" class="mw-file-element" data-file-width="200" data-file-height="279"/></a><figcaption>Sample Player Card</figcaption></figure>
 
-The Lord of the Rings: Game Bài là một Game Bài Sống mang tính hợp tác. Người chơi (1-4) làm việc cùng nhau để vượt qua kịch bản và hoàn thành từng nhiệm vụ. Để giành chiến thắng trong trò chơi, người chơi phải hoàn thành tất cả các thẻ nhiệm vụ của màn chơi. Nếu tất cả anh hùng của người chơi ngã xuống trong trận chiến hoặc nếu "mức độ đe dọa" của người chơi đạt đến 50, người chơi sẽ bị loại; nếu tất cả người chơi bị loại, kịch bản sẽ thất bại và người chơi thua cuộc.
+Chúa tể của những chiếc nhẫn: Trò chơi bài là một trò chơi bài sống hợp tác. Người chơi (1-4) làm việc cùng nhau để vượt qua kịch bản và hoàn thành từng nhiệm vụ. Để giành chiến thắng trong trò chơi, người chơi phải hoàn thành tất cả các thẻ nhiệm vụ của màn chơi. Nếu tất cả anh hùng của người chơi ngã xuống trong trận chiến hoặc nếu "mức độ đe dọa" của người chơi đạt đến 50, người chơi sẽ bị loại; nếu tất cả người chơi bị loại, kịch bản sẽ thất bại và người chơi thua cuộc.
 
 Để chơi trò chơi, mỗi người chơi tập hợp bộ bài của riêng mình bao gồm ba anh hùng (bắt đầu trò chơi đang chơi) và tối thiểu năm mươi lá bài khác (được xáo trộn và rút ra từ mỗi lượt). Các thẻ người chơi được thể hiện thông qua bốn "phạm vi ảnh hưởng", liên quan đến các phạm vi ảnh hưởng khác nhau được thấy trong tài liệu nguồn và mỗi thẻ có một chủ đề cơ học khác nhau. Bốn quả cầu đó là:
 
@@ -80,7 +80,7 @@ Nhiều lá bài có các hiệu ứng khác nhau có thể được kích hoạ
 
 ## Nội dung mở rộng {#Expansion_Content}
 
-Ngoài hộp Core, nhiều loại nội dung mở rộng khác nhau đã được phát hành. Bản mở rộng Chu kỳ dần dần bổ sung những cuộc phiêu lưu mới vào các khu vực chưa được khám phá đầy đủ trong sách, trong khi Bản mở rộng Saga cho phép người chơi trải nghiệm các cuốn sách Hobbit và Chúa tể của những chiếc nhẫn thông qua cơ chế của trò chơi. Cần có sản phẩm Core để phát bất kỳ nội dung mở rộng nào.
+Ngoài hộp Core, nhiều loại nội dung mở rộng khác nhau đã được phát hành. Bản mở rộng Chu kỳ từ từ bổ sung thêm những cuộc phiêu lưu mới vào các khu vực chưa được khám phá đầy đủ trong sách, trong khi Bản mở rộng Saga cho phép người chơi trải nghiệm sách Hobbit và Chúa tể những chiếc nhẫn thông qua cơ chế của trò chơi. Cần có sản phẩm Core để phát bất kỳ nội dung mở rộng nào.
 
 ### Bản mở rộng Saga {#Saga_Expansions}
 
@@ -88,18 +88,18 @@ Ngoài hộp Core, nhiều loại nội dung mở rộng khác nhau đã đượ
 
 <figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The-black-riders.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/0/00/The-black-riders.jpg/200px-The-black-riders.jpg" decoding="async" loading="lazy" width="200" height="232" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/00/The-black-riders.jpg/300px-The-black-riders.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/0/00/The-black-riders.jpg/400px-The-black-riders.jpg 2x" data-file-width="1040" data-file-height="1208"/></a><figcaption>Original Black Riders &#34;Saga Expansion&#34;</figcaption></figure>
 
-Trò chơi có tính năng "Mở rộng Saga", theo dõi trực tiếp các sự kiện trong sách, trái ngược với các nhiệm vụ ban đầu, tiếp tuyến được đặt trước The Lord of the Rings. Mỗi bản mở rộng chứa ba kịch bản theo sau một phân đoạn tác phẩm khác nhau của Tolkien. Cách chơi của những bản mở rộng này khác với các chu kỳ thông thường ở chỗ mỗi bản mở rộng đều có một loại "chế độ chiến dịch". Đối với Hobbit, điều này cho phép truy cập vào thẻ "kho báu" nếu đạt được một số mục tiêu nhất định trong các nhiệm vụ cụ thể. Chế độ chiến dịch dành cho các bản mở rộng câu chuyện Chúa tể của những chiếc nhẫn có liên quan nhiều hơn và người chơi có quyền truy cập vào cả "lợi ích" và "gánh nặng". Hơn nữa, nếu một anh hùng chết trong chiến dịch, người chơi không được phép sử dụng anh hùng đó trong các tình huống sau.
+Trò chơi có tính năng "Saga Expansions", theo dõi trực tiếp các sự kiện trong sách, trái ngược với các nhiệm vụ ban đầu, tiếp tuyến được đặt trước Chúa tể của những chiếc nhẫn. Mỗi bản mở rộng có ba kịch bản theo một phân đoạn tác phẩm khác nhau của Tolkien. Cách chơi của những bản mở rộng này khác với các chu kỳ thông thường ở chỗ mỗi bản mở rộng đều có một loại "chế độ chiến dịch". Đối với người Hobbit, điều này cho phép truy cập vào các thẻ "kho báu" nếu đạt được một số mục tiêu nhất định trong các nhiệm vụ cụ thể. Chế độ chiến dịch dành cho các bản mở rộng câu chuyện Chúa tể của những chiếc nhẫn có liên quan nhiều hơn và người chơi có quyền truy cập vào cả "lợi ích" và "gánh nặng". Hơn nữa, nếu một anh hùng chết trong chiến dịch, người chơi không được phép sử dụng anh hùng đó trong các tình huống sau.
 
-Hai phần đầu đề cập đến các sự kiện của The Hobbit. Sau đó, mỗi bản mở rộng câu chuyện Chúa tể của những chiếc nhẫn đều tương ứng với một trong sáu cuốn sách trong The Lord of the Rings.
+Hai phần đầu đề cập đến các sự kiện trong The Hobbit. Sau đó, mỗi bản mở rộng câu chuyện Chúa tể của những chiếc nhẫn đều tương ứng với một trong sáu cuốn sách trong Chúa tể của những chiếc nhẫn.
 
-- *The Hobbit: Trên đồi và Dưới đồi* (2012)
+- *Người Hobbit: Trên đồi và Dưới đồi* (2012)
 - *The Hobbit: On the Doorstep* (2013)
-- *The Lord of the Rings: Kỵ sĩ Đen* (2013)
-- *The Lord of the Rings: Con đường tối tăm* (2014)<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
-- *The Lord of the Rings: Sự phản bội của Saruman* (23 tháng 4 năm 2015)<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
-- *The Lord of the Rings: Vùng đất Bóng Tối* (19/11/2015)<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
-- *The Lord of the Rings: Ngọn lửa của Phương Tây* (4 tháng 8 năm 2016)<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
-- *The Lord of the Rings: Ngọn núi lửa* (5 tháng 10 năm 2017)<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
+- *Chúa tể của những chiếc nhẫn: Những kỵ sĩ áo đen* (2013)
+- *Chúa tể của những chiếc nhẫn: Con đường tăm tối* (2014)<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+- *Chúa tể của những chiếc nhẫn: Sự phản bội của Saruman* (23 tháng 4 năm 2015)<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+- *Chúa tể của những chiếc nhẫn: Vùng đất bóng tối* (19 tháng 11 năm 2015)<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+- *Chúa tể của những chiếc nhẫn: Ngọn lửa phương Tây* (4 tháng 8 năm 2016)<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+- *Chúa tể của những chiếc nhẫn: Ngọn núi lửa* (5 tháng 10 năm 2017)<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
 
 #### Đã đóng gói lại {#Repackaged}
 
@@ -107,15 +107,15 @@ Hai phần đầu đề cập đến các sự kiện của The Hobbit. Sau đó
 
 Là một phần trong quá trình làm mới thương hiệu và Cốt lõi Sửa đổi năm 2022, Fantasy Flight đã đóng gói lại và in lại sáu nội dung của Bản mở rộng Saga cho Chúa tể những chiếc nhẫn thành ba Bản mở rộng Saga mới, mỗi bản được hợp nhất thành một sản phẩm mới phù hợp với nội dung của tập tiểu thuyết đó.
 
-- Đoàn Hộ Nhẫn (2022)
-- The Two Towers (2023)
-- Sự trở lại của Vua (2024)
+- Hiệp hội của chiếc nhẫn (2022)
+- Hai Tòa Tháp (2023)
+- Sự trở lại của nhà vua (2024)
 
 ### Mở rộng chu kỳ {#Cycle_Expansions}
 
 #### Bản gốc {#Original_2}
 
-Kể từ khi trò chơi được phát hành vào năm 2011 đến năm 2020, các "chu kỳ" thường xuyên của sản phẩm mở rộng sẽ được phát hành định kỳ, thường có chủ đề xoay quanh một câu chuyện hoặc khu vực nhất định của Trung Địa. Nó sẽ bắt đầu bằng việc phát hành "Bản mở rộng cao cấp" bao gồm một số cuộc phiêu lưu đầu tiên của chu kỳ đó, và sau đó tám "Gói phiêu lưu" riêng lẻ sẽ phát hành sau đó, cách nhau một hoặc hai tháng, sẽ chứa phần còn lại của nội dung. Mỗi sản phẩm sẽ chứa sự kết hợp giữa thẻ người chơi và thẻ chiến dịch. Hộp Deluxe cho mỗi chu kỳ chứa các thành phần cần thiết để phát bất kỳ nội dung nào được bổ sung trong Gói Phiêu lưu liên quan.
+Từ khi trò chơi được phát hành vào năm 2011 đến năm 2020, các "chu kỳ" thường xuyên của sản phẩm mở rộng sẽ được phát hành định kỳ, thường có chủ đề xoay quanh một câu chuyện hoặc khu vực nhất định ở Trung Địa. Nó sẽ bắt đầu bằng việc phát hành "Bản mở rộng cao cấp" bao gồm một số cuộc phiêu lưu đầu tiên của chu kỳ đó, và sau đó tám "Gói phiêu lưu" riêng lẻ sẽ phát hành sau đó, cách nhau một hoặc hai tháng, sẽ chứa phần còn lại của nội dung. Mỗi sản phẩm sẽ chứa sự kết hợp giữa thẻ người chơi và thẻ chiến dịch. Hộp Deluxe cho mỗi chu kỳ chứa các thành phần cần thiết để phát bất kỳ nội dung nào được bổ sung trong Gói Phiêu lưu liên quan.
 
 <table class="wikitable">
 <tbody><tr style="background:var(--tg-color-surface-3)">
@@ -185,7 +185,7 @@ Kể từ khi trò chơi được phát hành vào năm 2011 đến năm 2020, c
 
 Là một phần của quá trình làm mới sản phẩm vào năm 2022, Fantasy Flight đã công bố và sau đó phát hành lại một tập hợp con các chu kỳ Bản mở rộng Deluxe của họ, đóng gói lại và in lại tất cả nội dung từ chu kỳ này thành một bản mở rộng "Anh hùng" và "Chiến dịch" riêng biệt, hợp nhất tất cả nội dung từ các Bản mở rộng Deluxe trước đó và các Gói Phiêu lưu tiếp theo. Người ta tuyên bố rằng không phải tất cả nội dung trước đó sẽ được đóng gói lại theo cách này và những sản phẩm mới này đại diện cho "Những cú đánh hay nhất" trong lịch sử hơn 10 năm của trò chơi.
 
-- Angmar Thức Tỉnh (2022)
+- Angmar thức tỉnh (2022)
 - Người theo đuổi ước mơ (2023)
 - Ered Mithrin (2024)
 
@@ -275,14 +275,14 @@ Fantasy Flight trước đây cũng cung cấp **Nightmare Decks**, nội dung i
 
 Là một phần của bộ Lõi Sửa đổi đang được phát hành và làm mới sản phẩm chung, một bộ bốn Bộ bài Khởi đầu đã được phát hành vào năm 2022<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup>. Chỉ những thẻ người chơi nổi bật này và được chọn từ nội dung đã phát hành trước đó như một cách tuyệt vời để người chơi mới thêm vào bộ sưu tập của họ sau khi mua Lõi sửa đổi.
 
-- Người Lùn của Durin
-- Tiên tộc trong số Lórien
-- Người bảo vệ Gondor
-- Những tay đua của Rohan
+- Người lùn Durin
+- Yêu tinh Lórien
+- Những người bảo vệ Gondor
+- Kỵ sĩ Rohan
 
 ## Từ nhà sản xuất {#From_the_producers}
 
-*The Lord of the Rings: Trò chơi bài* là trò chơi bài hợp tác trong đó 1-2 người chơi (hoặc tối đa bốn người với hai Bộ lõi!) điều khiển các nhân vật và hiện vật mạnh nhất của Trung Địa. Người chơi sẽ chọn anh hùng, tập hợp đồng minh, thu thập cổ vật và phối hợp nỗ lực để đối mặt với những tên ác quỷ nguy hiểm nhất của Trung Địa. Bằng cách hợp tác để vượt qua các chướng ngại vật được rút ra từ bộ bài chạm trán, bạn sẽ hoàn thành nhiệm vụ trước mắt và giành chiến thắng!
+*Chúa tể của những chiếc nhẫn: Trò chơi bài* là một trò chơi bài hợp tác trong đó 1-2 người chơi (hoặc tối đa bốn người với hai Bộ lõi!) điều khiển các nhân vật và hiện vật mạnh mẽ nhất ở Trung Địa. Người chơi sẽ chọn các anh hùng, tập hợp đồng minh, thu thập cổ vật và phối hợp nỗ lực để đối mặt với những tên ác quỷ nguy hiểm nhất Trung Địa. Bằng cách hợp tác để vượt qua các chướng ngại vật được rút ra từ bộ bài chạm trán, bạn sẽ hoàn thành nhiệm vụ trước mắt và giành chiến thắng!
 
 Bộ lõi bao gồm 216 lá bài có thể được sử dụng để tập hợp nhiều bộ bài khác nhau ngay khi lấy ra khỏi hộp. Bao gồm bốn tình huống nguy hiểm, cùng với vô số sự kết hợp giữa bối cảnh và kẻ thù, mang lại khả năng chơi lại gần như vô hạn. Ngoài ra, người chơi có thể xây dựng một nhóm từ một bộ 16 thẻ anh hùng và tập trung bộ bài của họ vào bất kỳ sự kết hợp nào của bốn phạm vi ảnh hưởng riêng biệt: Lãnh đạo, Truyền thuyết, Tinh thần và Chiến thuật. Mỗi quả cầu mang lại những lợi ích riêng cho nhóm, vì vậy hãy lựa chọn một cách khôn ngoan!
 
@@ -294,19 +294,19 @@ Sau khi sửa đổi Bộ cốt lõi vào năm 2022 và sau đó phát hành cá
 
 ## Xem thêm {#See_also}
 
-- [Hình ảnh từ *The Lord of the Rings: Trò chơi bài*](../../category/I/Images_from_The_Lord_of_the_Rings%253A_The_Card_Game.md)
+- [Images from *The Lord of the Rings: The Card Game*](../../category/I/Images_from_The_Lord_of_the_Rings%253A_The_Card_Game.md)
 
 ## Liên kết ngoài {#External_links}
 
 - <a class="external text" href="http://www.fantasyflightgames.com/edge_minisite.asp?eidm=129" rel="noreferrer noopener" target="_blank">Trang web chính thức</a>
 - <a class="external text" href="https://ringsdb.com/" rel="noreferrer noopener" target="_blank">RingsDB DeckBuilder</a>
-- <a class="external text" href="http://lotrlcg.com/" rel="noreferrer noopener" target="_blank">Cơ sở dữ liệu LCG LotR</a> (ngưng sau Chu kỳ Chống lại Bóng Tối)
-- <a class="external text" href="http://hallofbeorn.com/" rel="noreferrer noopener" target="_blank">Phòng cơ sở dữ liệu thẻ Beorn</a>
+- <a class="external text" href="http://lotrlcg.com/" rel="noreferrer noopener" target="_blank">Cơ sở dữ liệu LCG LotR</a> (ngưng sau Chu kỳ Chống lại Bóng tối)
+- <a class="external text" href="http://hallofbeorn.com/" rel="noreferrer noopener" target="_blank">Cơ sở dữ liệu thẻ Hall of Beorn</a>
 - <a class="external text" href="http://cardboardoftherings.com/" rel="noreferrer noopener" target="_blank">Podcast bìa cứng của những chiếc nhẫn</a>
 - <a class="external text" href="http://greycompanypodcast.wordpress.com/" rel="noreferrer noopener" target="_blank">Podcast của The Grey Company</a>
-- <a class="external text" href="http://hallofbeorn.wordpress.com/" rel="noreferrer noopener" target="_blank">Hội trường Beorn Blog</a>
+- <a class="external text" href="http://hallofbeorn.wordpress.com/" rel="noreferrer noopener" target="_blank">Blog của Hall of Beorn</a>
 - <a class="external text" href="http://talesfromthecards.wordpress.com/" rel="noreferrer noopener" target="_blank">Những câu chuyện từ Blog Thẻ bài</a>
-- <a class="external text" href="http://masteroflore.wordpress.com/" rel="noreferrer noopener" target="_blank">Blog truyền thống</a>
+- <a class="external text" href="http://masteroflore.wordpress.com/" rel="noreferrer noopener" target="_blank">Bậc thầy về truyền thuyết</a>
 - <a class="external text" href="http://www.lotr-lcg-quest-companion.gamersdungeon.net/" rel="noreferrer noopener" target="_blank">Người đồng hành trong nhiệm vụ LOTR LCG</a>
 
 <span></span>

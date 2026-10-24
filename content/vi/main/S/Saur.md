@@ -21,7 +21,7 @@ categories:
 
 ## Ví dụ {#Examples}
 
-[Tolkien](../J/J.R.R._Tolkien.md) gợi ý rằng tên *[Sauron](Sauron.md#Etymology)* có thể là "một Sindarin chính hãng từ *saur*", nhưng lại tuyên bố rằng tên đó "có thể từ [Quenya](../Q/Quenya.md)".<sup id="cite_ref-PE17_1-2" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup>
+[Tolkien](../J/J.R.R._Tolkien.md) gợi ý rằng cái tên *[Sauron](Sauron.md#Etymology)* có thể là "một hình thành Sindarin chính hãng từ *saur*", nhưng lại tuyên bố rằng cái tên đó "có thể là từ [Quenya](../Q/Quenya.md)".<sup id="cite_ref-PE17_1-2" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup>
 
 ## Có cùng nguồn gốc {#Cognates}
 

@@ -16,11 +16,11 @@ categories:
 
 ## Lịch sử {#History}
 
-Sau [Eastron](<../E/Easterlings_(First_Age).md>), [Lorgan](../L/Lorgan.md), bảo [Húrin](../H/Húrin.md) rời đi [Hithlum](../H/Hithlum.md) và chúc anh ta khỏi bệnh, Húrin hét lên cụm từ "*Tûl Acharn*", cảnh báo Lorgan rằng anh ta không phải là người cuối cùng của [Edain](../E/Edain.md), bất kể số phận của anh ta như thế nào.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Sau khi [Eastron](<../E/Easterlings_(First_Age).md>), [Lorgan](../L/Lorgan.md) bảo [Húrin](../H/Húrin.md) rời khỏi [Hithlum](../H/Hithlum.md) và chúc ông ta khỏi bệnh, Húrin đã hét lên cụm từ "*Tûl Acharn*", cảnh báo Lorgan rằng anh không phải là người cuối cùng của [Edain](../E/Edain.md), bất kể số phận của ông ta như thế nào.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Tûl Acharn!* là cụm từ [Sindarin](../S/Sindarin.md) dịch sang "*Vengeance comes*", được tạo thành từ các từ <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=T%C3%BBl&amp;action=edit&amp;redlink=1" title="Tûl (page does not exist)">Tûl</a></i> ("đến") và *[Acharn](../A/Acharn.md)* ("báo thù, hành động trả thù").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+*Tûl Acharn!* là một cụm từ [Sindarin](../S/Sindarin.md) dịch sang "*Vengeance comes*" và được tạo thành từ các từ <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=T%C3%BBl&amp;action=edit&amp;redlink=1" title="Tûl (page does not exist)">Tûl</a></i> ("đến") và *[Acharn](../A/Acharn.md)* ("báo thù, một hành động trả thù").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 

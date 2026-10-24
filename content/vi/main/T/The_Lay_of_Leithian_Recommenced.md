@@ -34,4 +34,4 @@ images:
 <li><a class="mw-selflink selflink">The Lay of Leithian Recommenced</a></li></ol>
 </td></tr></tbody></table>
 
-**The Lay of Leithian Được khuyến nghị** là chương thứ tư của *[The Lays of Beleriand](The_Lays_of_Beleriand.md)*.
+**The Lay of Leithian Recommenced** là chương thứ tư của *[The Lays of Beleriand](The_Lays_of_Beleriand.md)*.

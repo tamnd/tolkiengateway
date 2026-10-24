@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lord of the Rings: Official Movie Guide"
 ---
 
-Chuyển hướng tới [The Lord of the Rings: Hướng dẫn Phim Chính thức](The_Lord_of_the_Rings%253A_Official_Movie_Guide.md).
+Chuyển hướng đến [The Lord of the Rings: Official Movie Guide](The_Lord_of_the_Rings%253A_Official_Movie_Guide.md).

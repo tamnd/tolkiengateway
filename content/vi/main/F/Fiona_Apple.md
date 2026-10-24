@@ -18,7 +18,7 @@ sort_keys:
   "Singers": "Apple, Fiona"
 ---
 
-**Fiona Apple McAfee-Maggart** (sinh [tháng Chín 13](../S/September_13.md), [1977](../_/1977.md)) là một ca sĩ kiêm nhạc sĩ người Mỹ. Cô ấy đã hát [Nhẫn Câu thơ](../R/Ring_Verse.md) cho sáng tác "[Where the Shadows Lie](../W/Where_the_Shadows_Lie.md)" của [Bear McCreary](../B/Bear_McCreary.md), được phát trong phần credit cuối của *[Alloyed](../A/Alloyed.md)*, tập thứ tám của mùa đầu tiên của *[The Lord of the Rings: The Rings of Power](../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Fiona Apple McAfee-Maggart** (sinh [13 tháng 9](../S/September_13.md), [1977](../_/1977.md)) là một ca sĩ kiêm nhạc sĩ người Mỹ. Cô hát [Ring Verse](../R/Ring_Verse.md) cho sáng tác "[Where the Shadows Lie](../W/Where_the_Shadows_Lie.md)" của [Bear McCreary](../B/Bear_McCreary.md), được phát trong phần credit cuối của *[Alloyed](../A/Alloyed.md)*, tập thứ tám của mùa đầu tiên của *[The Lord of the Rings: The Rings of Power](../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Liên kết ngoài {#External_links}
 

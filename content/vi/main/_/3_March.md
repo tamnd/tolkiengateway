@@ -67,13 +67,13 @@ Sự kiện xảy ra vào ngày 3 tháng 3
 ## Trên Trái đất {#On_Earth}
 
 - **[1955](1955.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 159](../L/Letter_159.md), đề cập đến [Charles Williams](../C/Charles_Williams.md).
-- **[1973](1973.md)** - Một [hóa đơn thuốc lá](<../C/Cigar_bill_(3_March_1972).md>) được gửi đến [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), trên đó anh ta viết nguệch ngoạc một ghi chú.
+- **[1973](1973.md)** - Một [hóa đơn thuốc lá](<../C/Cigar_bill_(3_March_1972).md>) được gửi đến [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), trên đó ông ta viết nguệch ngoạc một ghi chú.
 - <b><a href="1983.md" title="1983">1983</a> - <i><a class="mw-redirect" href="../T/The_Monsters_and_the_Critics.md" title="The Monsters and the Critics">The Monsters and the Critics</a></i> được xuất bản ở Anh.</b>
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - [Frodo](../F/Frodo_Baggins.md), [Sam](../S/Samwise_Gamgee.md) và [Gollum](../G/Gollum.md) băng qua vùng đồng bằng giữa [Đầm lầy Chết](../D/Dead_Marshes.md) và [Cổng Đen](../B/Black_Gate.md).
-    - [Ceorl](../C/Ceorl.md) gặp ban nhạc của [Théoden](../T/Théoden.md)và kể về thất bại trong [Trận chiến thứ hai của Fords Isen](../S/Second_Battle_of_the_Fords_of_Isen.md).
-    - [Gandalf](../G/Gandalf.md) đi đến [Isengard](../I/Isengard.md) và [Théoden](../T/Théoden.md) rút về [Helm's Deep](../H/Helm's_Deep.md), nơi xảy ra [Trận Hornburg](../B/Battle_of_the_Hornburg.md).
-    - [Trận Isengard](../B/Battle_of_Isengard.md); [Ent](../E/Ents.md), do [Treebeard](../T/Treebeard.md)dẫn đầu, thay đổi hướng đi của [Isen](../I/Isen.md) và hoàn thành việc tiêu diệt [Isengard](../I/Isengard.md).
+    - [Frodo](../F/Frodo_Baggins.md), [Sam](../S/Samwise_Gamgee.md) và [Gollum](../G/Gollum.md) băng qua vùng đồng bằng giữa [Đầm lầy chết](../D/Dead_Marshes.md) và [Cổng đen](../B/Black_Gate.md).
+    - [Ceorl](../C/Ceorl.md) gặp nhóm của [Théoden](../T/Théoden.md) và kể về thất bại trong [Trận chiến sông cạn Isen lần thứ hai](../S/Second_Battle_of_the_Fords_of_Isen.md).
+    - [Gandalf](../G/Gandalf.md) đi đến [Isengard](../I/Isengard.md) và [Théoden](../T/Théoden.md) rút lui về [Helm's Deep](../H/Helm's_Deep.md), nơi diễn ra [Trận chiến Hornburg](../B/Battle_of_the_Hornburg.md).
+    - [Trận Isengard](../B/Battle_of_Isengard.md); [Ent](../E/Ents.md), dẫn đầu bởi [Treebeard](../T/Treebeard.md), thay đổi hướng đi của [Isen](../I/Isen.md) và hoàn thành việc tiêu diệt [Isengard](../I/Isengard.md).

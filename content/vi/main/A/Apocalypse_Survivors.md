@@ -24,7 +24,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Band</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Apocalypse Survivors</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Background Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Origin</th><td class="tg-infobox-data">Brussels, Belgium</td></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data">Atmospheric death metal</td></tr><tr><th scope="row" class="tg-infobox-label">Years active</th><td class="tg-infobox-data">1998-?</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Members</span></th></tr><tr><th scope="row" class="tg-infobox-label">Former Members</th><td class="tg-infobox-data">Zareh<br/>Count Zaroff<br/>Aod<br/>Tinuviel</td></tr></tbody></table>
 
-**Apocalypse Survivors** là một ban nhạc death metal liên quan đến khí quyển Tolkien đến từ Brussels, Bỉ. Được thành lập vào năm 1998 và sau đó tan rã, ban nhạc đã phát hành một bản demo duy nhất, *Gloomy Tales*, vào năm 1999.
+**Apocalypse Survivors** là một ban nhạc death metal có liên quan đến khí quyển Tolkien đến từ Brussels, Bỉ. Được thành lập vào năm 1998 và sau đó tan rã, ban nhạc đã phát hành một bản demo duy nhất, *Gloomy Tales*, vào năm 1999.
 
 ## Thành viên {#Members}
 

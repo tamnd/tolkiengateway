@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Rawlinson and Bosworth Professor of Anglo-Saxon"
 ---
 
-Chuyển hướng tới [Giáo sư Rawlinson và Bosworth của Anglo-Saxon](Rawlinson_and_Bosworth_Professor_of_Anglo-Saxon.md).
+Chuyển hướng đến [Giáo sư Rawlinson và Bosworth của Anglo-Saxon](Rawlinson_and_Bosworth_Professor_of_Anglo-Saxon.md).

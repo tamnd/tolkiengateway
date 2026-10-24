@@ -16,18 +16,18 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><a href="../F/First_Age.md" title="First Age">I</a><a href="../S/Second_Age.md" title="Second Age">II</a><b>III</b><a href="../F/Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="Third_Age_2980.md" title="Third Age 2980">2980</a><a href="Third_Age_2981.md" title="Third Age 2981">2981</a><a href="Third_Age_2982.md" title="Third Age 2982">2982</a><a class="mw-selflink selflink">2983</a><a href="Third_Age_2984.md" title="Third Age 2984">2984</a><a href="Third_Age_2985.md" title="Third Age 2985">2985</a><a href="Third_Age_2986.md" title="Third Age 2986">2986</a></div></div></div></div></div></div>
 
-**Kỷ Đệ Tam 2983** (viết tắt là **T.A. 2983**) là năm [thứ 2983 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Tam](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Kỷ Đệ Tam 2983 còn được gọi là **S.R. 1383** trong [lịch Shire](../S/Shire-reckoning.md).
+**Tuổi thứ ba 2983** (viết tắt là **T.A. 2983**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 2983 của [Tuổi thứ ba](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Thời đại thứ ba 2983 còn được gọi là **S.R. 1383** trong [Tính toán quận](../S/Shire-reckoning.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- Sinh con [Faramir](../F/Faramir.md), con trai của [Quản gia](../R/Ruling_Steward.md) [Denethor II](../D/Denethor_II.md) của [Gondor](../G/Gondor.md) và [Finduilas](<../F/Finduilas_(wife_of_Denethor).md>).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- Sự ra đời của [Faramir](../F/Faramir.md), con trai của [Quản gia](../R/Ruling_Steward.md) [Denethor II](../D/Denethor_II.md) của [Gondor](../G/Gondor.md) và [Finduilas](<../F/Finduilas_(wife_of_Denethor).md>).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 - Sự ra đời của [Ferdibrand Took](../F/Ferdibrand_Took.md), con trai của [Ferdinand Took](../F/Ferdinand_Took.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 - Sự ra đời của [Mentha Brandybuck](../M/Mentha_Brandybuck.md), đứa con thứ hai và con gái đầu lòng của [Marmadas Brandybuck](../M/Marmadas_Brandybuck.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 - Sự ra đời của [Marigold Gamgee](../M/Marigold_Gamgee.md), đứa con thứ sáu và con gái thứ ba của [Hamfast Gamgee](../H/Hamfast_Gamgee.md) và [Bell Goodchild](../B/Bell_Goodchild.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Phiên bản thứ hai của [Phụ lục B](../A/Appendix_B.md) đến *[The Lord of the Rings](The_Lord_of_the_Rings.md)* có sự ra đời của [Samwise Gamgee](../S/Samwise_Gamgee.md) trong năm nay trái ngược với các thông tin khác. [Phiên bản kỷ niệm 50 năm](<The_Lord_of_the_Rings_(50th_Anniversary_Edition).md>) đã sửa thành [T.A.](Third_Age.md) [2980](Third_Age_2980.md). <span></span>
+Ấn bản thứ hai của [Phụ lục B](../A/Appendix_B.md) của *[The Lord of the Rings](The_Lord_of_the_Rings.md)* có ngày sinh của [Samwise Gamgee](../S/Samwise_Gamgee.md) trong năm nay, điều này mâu thuẫn với các thông tin khác. [Phiên bản kỷ niệm 50 năm](<The_Lord_of_the_Rings_(50th_Anniversary_Edition).md>) đã sửa thành [T.A.](Third_Age.md) [2980](Third_Age_2980.md). <span></span>
 
 ## Tài liệu tham khảo {#References}
 

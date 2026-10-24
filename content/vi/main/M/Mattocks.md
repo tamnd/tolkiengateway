@@ -12,7 +12,7 @@ categories:
   - "Weapons"
 ---
 
-**Mattocks** là một loại vũ khí được sử dụng bởi [Người Lùn của Dãy Đồi Sắt](../D/Dwarves_of_the_Iron_Hills.md) trong [trận chiến Azanulbizar](../B/Battle_of_Azanulbizar.md)<sup id="cite_ref-:0_1-0" class="reference"><a href="#cite_note-:0-1">[1]</a></sup> và trong [trận chiến của Năm đạo quân](../B/Battle_of_Five_Armies.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Chúng nặng và cần sử dụng bằng hai tay.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> [Náin](<../N/Náin_(son_of_Grór).md>) đã sử dụng một chiếc mattock trong trận chiến [Trận Azanulbizar](../B/Battle_of_Azanulbizar.md) đánh nhau với [Azog](../A/Azog.md) nhưng chiếc cuốc của ông văng ra đá và Náin bản thân ông đã tử vong<sup id="cite_ref-:0_1-1" class="reference"><a href="#cite_note-:0-1">[1]</a></sup>.<span></span>
+**Mattocks** là một loại vũ khí được sử dụng bởi [Người lùn ở Đồi Sắt](../D/Dwarves_of_the_Iron_Hills.md) trong [trận chiến Azanulbizar](../B/Battle_of_Azanulbizar.md)<sup id="cite_ref-:0_1-0" class="reference"><a href="#cite_note-:0-1">[1]</a></sup> và trong [trận chiến của Năm đội quân](../B/Battle_of_Five_Armies.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Chúng nặng và cần sử dụng bằng hai tay.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> [Náin](<../N/Náin_(son_of_Grór).md>) đã sử dụng một chiếc mattock trong [Trận chiến Azanulbizar](../B/Battle_of_Azanulbizar.md) chống lại [Azog](../A/Azog.md), nhưng chiếc cuốc của ông ta vỡ vụn trên đá và bản thân Náin cũng bị giết<sup id="cite_ref-:0_1-1" class="reference"><a href="#cite_note-:0-1">[1]</a></sup>.<span></span>
 
 ## Tài liệu tham khảo {#References}
 

@@ -38,7 +38,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tolkien_Studies_20.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/74/Tolkien_Studies_20.jpg/316px-Tolkien_Studies_20.jpg" decoding="async" loading="lazy" width="316" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/74/Tolkien_Studies_20.jpg/474px-Tolkien_Studies_20.jpg 1.5x, https://tolkiengateway.net/w/images/7/74/Tolkien_Studies_20.jpg 2x" data-file-width="494" data-file-height="750"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Tolkien Studies: Volume 20</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../D/David_Bratman.md" title="David Bratman">David Bratman</a>, <a href="../M/Michael_D.C._Drout.md" title="Michael D.C. Drout">Michael D.C. Drout</a>, <a href="../V/Verlyn_Flieger.md" title="Verlyn Flieger">Verlyn Flieger</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">West Virginia University Press</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">August, <a href="../_/2024.md" title="2024">2024</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback; electronic</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">327</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">1547-3155</td></tr></tbody></table>
 
-<b><i>Tolkien Nghiên cứu</i>: Tập 20</b>, xuất bản vào tháng 8 [2024](../_/2024.md), nhưng thực tế là số [2023](../_/2023.md), là tập thứ 20 của tạp chí đánh giá hàng năm *[Tolkien Studies](<Tolkien_Studies_(journal).md>)*.
+<b><i>Nghiên cứu Tolkien</i>: Tập 20</b>, xuất bản vào tháng 8 [2024](../_/2024.md), nhưng thực tế là số [2023](../_/2023.md), là tập thứ 20 của tạp chí đánh giá hàng năm *[Tolkien Studies](<Tolkien_Studies_(journal).md>)*.
 
 Sự trì hoãn lớn được cho là do vấn đề tài chính của Nhà xuất bản Đại học WV.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
@@ -49,32 +49,32 @@ Sự trì hoãn lớn được cho là do vấn đề tài chính của Nhà xu�
 - Bài viết
     - David Bratman, "Tưởng nhớ: [Charles E. Noad](../C/Charles_E._Noad.md), 1949-2023"
     - John M. Bowers, "Hòn đá Durin, Thánh giá Ruthwell và *Dream of the Rood*"
-    - Verlyn Flieger, "Những câu chuyện hay củaTolkien"
+    - Verlyn Flieger, "Những câu chuyện vĩ đại của Tolkien"
     - Thomas P. Hillman, "Những câu chuyện vĩ đại, bi kịch và truyện cổ tích trong 'Những lựa chọn của Master Samwise'"
     - John F. Whitmire Jr., "Khảo cổ học về hy vọng và tuyệt vọng trong câu chuyện về Aragorn và Arwen"
-    - Kenton L. Sena, "Ký ức sinh thái trong Trung Địa: Di sản môi trường của việc lạm dụng và chăm sóc trong công việc của J.R.R. Tolkien"
-    - Ben Reinhard, "Những trụ cột của Atlantis: Christopher Dawson, J.R.R. Tolkien và Bóng Tối của Thế chiến thứ hai"
+    - Kenton L. Sena, "Ký ức sinh thái ở Trung địa: Di sản môi trường của việc lạm dụng và chăm sóc trong các công trình của J.R.R. Tolkien"
+    - Ben Reinhard, "Những trụ cột của Atlantis: Christopher Dawson, J.R.R. Tolkien, và Cái bóng của Thế chiến thứ hai"
     - Patrick Lyon, "Mặc dù bạn đi khắp mọi con đường: Những con đường Heraclitean ở Trung Địa"
-    - Seth Kreeger, "Những cân nhắc siêu hình về Eä: Sự sáng tạo và Sự quan phòng trong Tolkien và Aquinas"
+    - Seth Kreeger, "Những cân nhắc siêu hình về Eä: Sự sáng tạo và sự quan phòng ở Tolkien và Aquinas"
 
 - Ghi chú và tài liệu
     - Peter Gilliver, "Bị mắc vào lưới ngữ văn: Các nhà soạn từ điển của Tolkien"
     - Samuel Cardwell, "Nguồn thứ hai cho Samwise?"
 
 - Đánh giá sách
-    - <i><a class="mw-disambig" href="The_Battle_of_Maldon.md" title="The Battle of Maldon">Trận chiến Maldon</a>: Cùng với The Homecoming of Beorhtnoth Beorhthelm's Son</i>, bởi J.R.R. Tolkien, do Peter Grybauskas biên tập, được đánh giá bởi Michael D. C. Drout
-    - *[The Great Tales Never End](The_Great_Tales_Never_End.md): Các bài luận tưởng nhớ Christopher Tolkien*, do Richard Ovenden và Catherine McIlwaine biên tập, Grace Khuri duyệt lại
-    - *[The Fall of Númenor](The_Fall_of_Númenor.md) và những câu chuyện khác từ thời đại thứ hai của Trung Địa*, bởi J.R.R. Tolkien, do Brian Sibley biên tập, Dan'l Danehy-Oakes đánh giá
-    - <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Tolkien_Dogmatics&amp;action=edit&amp;redlink=1" title="Tolkien Dogmatics (page does not exist)">Tolkien Giáo lý</a>: Thần học thông qua thần thoại với Người tạo ra Trung Địa</i>, bởi Austin M. Freema, được đánh giá bởi Tom Emanuel
+    - <i><a class="mw-disambig" href="The_Battle_of_Maldon.md" title="The Battle of Maldon">Trận chiến Maldon</a>: Cùng với The Homecoming of Beorhtnoth Beorhthelm's Son</i>, bởi J.R.R. Tolkien, do Peter Grybauskas biên tập, được Michael D. C. Drout đánh giá
+    - *[Những câu chuyện vĩ đại không bao giờ kết thúc](The_Great_Tales_Never_End.md): Những bài tiểu luận tưởng nhớ Christopher Tolkien*, do Richard Ovenden và Catherine McIlwaine biên tập, được Grace Khuri đánh giá
+    - *[Sự sụp đổ của Númenor](The_Fall_of_Númenor.md) và những câu chuyện khác từ Thời đại thứ hai của Trung Địa*, của J.R.R. Tolkien, do Brian Sibley biên tập, được Dan'l Danehy-Oakes đánh giá
+    - <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Tolkien_Dogmatics&amp;action=edit&amp;redlink=1" title="Tolkien Dogmatics (page does not exist)">Tolkien Dogmatics</a>: Thần học thông qua thần thoại với người tạo ra Trung địa</i>, bởi Austin M. Freema, được đánh giá bởi Tom Emanuel
     - *[Tolkien's Library: An Annotated Checklist](Tolkien's_Library%253A_An_Annotated_Checklist.md)*, của Oronzo Cilli, được David Bratman đánh giá
 
-- Cami D. Agan, David Bratman, Kate Neville, Jennifer Rogers, Jonathan Evans, John Wm. Houghton, John Magoun, "Công việc của năm về nghiên cứu Tolkien năm 2020"
+- Cami D. Agan, David Bratman, Kate Neville, Jennifer Rogers, Jonathan Evans, John Wm. Houghton, John Magoun, "Công trình nghiên cứu về Tolkien của năm 2020"
 - David Bratman, "Thư mục (bằng tiếng Anh) cho năm 2021"
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="https://muse.jhu.edu/issue/50800" rel="noreferrer noopener" target="_blank"><i>Tolkien Nghiên cứu</i>: Tập 20</a> tại Project Muse
-- <a class="external text" href="https://kalimac.blogspot.com/2023/11/tolkien-studies-20-announcement.html" rel="noreferrer noopener" target="_blank"><i>Tolkien Nghiên cứu 20</i>: thông báo</a> trên blog của David
+- <a class="external text" href="https://muse.jhu.edu/issue/50800" rel="noreferrer noopener" target="_blank"><i>Nghiên cứu về Tolkien</i>: Tập 20</a> tại Project Muse
+- <a class="external text" href="https://kalimac.blogspot.com/2023/11/tolkien-studies-20-announcement.html" rel="noreferrer noopener" target="_blank"><i>Tolkien Studies 20</i>: thông báo</a> trên blog của David
 
 <span></span>
 

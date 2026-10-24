@@ -58,7 +58,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Annotated_hobbit_1988.jpg.md"><img src="https://tolkiengateway.net/w/images/8/8f/Annotated_hobbit_1988.jpg" decoding="async" loading="lazy" width="280" height="370" class="mw-file-element" data-file-width="280" data-file-height="370"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Annotated Hobbit</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../D/Douglas_A._Anderson.md" title="Douglas A. Anderson">Douglas A. Anderson</a></td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data">various artists</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a class="mw-redirect" href="../H/Houghton_Mifflin.md" title="Houghton Mifflin">Houghton Mifflin</a> (US)<br/><a href="../U/Unwin_Hyman.md" title="Unwin Hyman">Unwin Hyman</a> (UK)</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/28_October.md" title="28 October">28 October</a> <a href="../_/1988.md" title="1988">1988</a> (US)<br/><a href="../_/1989.md" title="1989">1989</a> (UK)</td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Hardcover</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">335</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0395476909" title="Special:BookSources/0395476909">0395476909</a></td></tr></tbody></table>
 
-<i><b>The Annotated Hobbit</b></i> là ấn bản của *[The Hobbit](The_Hobbit.md)* với lời bình của [Douglas A. Anderson](../D/Douglas_A._Anderson.md). Nó được xuất bản lần đầu tiên vào năm [1988](../_/1988.md) nhân kỷ niệm 50 năm lần xuất bản đầu tiên ở Mỹ *The Hobbit* của [Houghton Mifflin](../H/Houghton_Mifflin.md), và sau đó là trong [1989](../_/1989.md) của [Unwin Hyman](../U/Unwin_Hyman.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Nó đã giành được [Giải thưởng Học bổng Thần thoại](../M/Mythopoeic_Society.md) năm 1990 trong Inklings Nghiên cứu.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+<i><b>Người Hobbit được chú thích</b></i> là một ấn bản của *[The Hobbit](The_Hobbit.md)* với lời bình của [Douglas A. Anderson](../D/Douglas_A._Anderson.md). Nó được xuất bản lần đầu tiên vào năm [1988](../_/1988.md) nhân kỷ niệm 50 năm lần xuất bản đầu tiên ở Mỹ *The Hobbit* của [Houghton Mifflin](../H/Houghton_Mifflin.md), và sau đó là trong [1989](../_/1989.md) của [Unwin Hyman](../U/Unwin_Hyman.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Nó đã giành được [Giải thưởng Học bổng Thần thoại](../M/Mythopoeic_Society.md) năm 1990 trong Nghiên cứu Inklings.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Tổng quan {#Overview}
 
@@ -68,9 +68,9 @@ Cuốn sách bao gồm hơn 150 hình minh họa đen trắng từ các ấn b�
 
 Trong [2002](../_/2002.md), một ấn bản sửa đổi và mở rộng đã được xuất bản bởi [Houghton Mifflin](../H/Houghton_Mifflin.md). Phiên bản này bao gồm bản đồ và tranh màu. Nó cũng cung cấp nhiều nguồn mới do số lượng tài liệu mới được xuất bản. Ấn bản ở Anh được xuất bản trên [2003](../_/2003.md) bởi [HarperCollins](../H/HarperCollins.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Ấn bản này bao gồm một số bài thơ và bài viết hiếm hoặc chưa được xuất bản trước đây của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md):
 
-- Chưa được xuất bản trước đó:
-    - "[Elvish Bài hát trong Rivendell](../E/Elvish_Song_in_Rivendell.md)"
-    - "[Lướt](../G/Glip.md)"
+- Chưa được xuất bản trước đây:
+    - "[Bài hát của Elvish ở Rivendell](../E/Elvish_Song_in_Rivendell.md)"
+    - "[Trượt](../G/Glip.md)"
 
 - Đã được xuất bản ở nơi khác:
     - "[Bàn chân yêu tinh](../G/Goblin_Feet.md)"
@@ -78,7 +78,7 @@ Trong [2002](../_/2002.md), một ấn bản sửa đổi và mở rộng đã �
     - "[Iúmonna Gold Galdre Bewunden](../I/Iúmonna_Gold_Galdre_Bewunden.md)"
     - "[Tiến bộ ở Thị trấn Bimble](../P/Progress_in_Bimble_Town.md)"
     - "[Gốc của khởi động](The_Root_of_the_Boot.md)"
-    - "[Chuyến thăm của Rồng](The_Dragon's_Visit.md)"
+    - "[Chuyến thăm của rồng](The_Dragon's_Visit.md)"
     - "[Nhiệm vụ của Erebor](The_Quest_of_Erebor.md)" (phiên bản dài hơn)
 
 ### Ấn bản thứ ba {#Third_edition}
@@ -116,7 +116,7 @@ Trong [2002](../_/2002.md), một ấn bản sửa đổi và mở rộng đã �
     - Ấn tượng thứ hai: [Giải phóng Hyman](../U/Unwin_Hyman.md) bìa cứng ([1989](../_/1989.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0044403372">ISBN 0044403372</a>
 
 - Ấn bản thứ hai
-    - [HarperCollins](../H/HarperCollins.md) bìa cứng ([2002](../_/2002.md)), trang 399. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007137273">ISBN 0007137273</a>
+    - [HarperCollins](../H/HarperCollins.md) bìa cứng ([2002](../_/2002.md)), trang 399. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007137273">ISBN 0007137273</a>
 
 ## Xem thêm {#See_also}
 
@@ -124,7 +124,7 @@ Trong [2002](../_/2002.md), một ấn bản sửa đổi và mở rộng đã �
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://archives.theonering.net/features/newsroom/files/121302_douganderson.html" rel="noreferrer noopener" target="_blank">Trò chuyện trực tiếp với Douglas A. Anderson về <i>The Annotated Hobbit</i></a> (bản ghi)
+- <a class="external text" href="http://archives.theonering.net/features/newsroom/files/121302_douganderson.html" rel="noreferrer noopener" target="_blank">Trò chuyện trực tiếp với Douglas A. Anderson về <i>Người Hobbit được chú thích</i></a> (bản ghi)
 
 <span></span>
 

@@ -34,7 +34,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Trong thư này, Tolkien đã thảo luận về các minh họa cho *[The Hobbit](../T/The_Hobbit.md)* và *[Mr Bliss](../M/Mr_Bliss.md)*. Trong trường hợp sau [Allen &amp; Unwin](../A/Allen_and_Unwin.md) đã yêu cầu đơn giản hóa các hình minh họa xa hoa để đưa vào sản xuất. Tolkien bày tỏ sự ngạc nhiên khi cuốn sách và các hình minh họa của nó "rất đáng quan tâm" nhưng đã cố gắng đưa công việc phù hợp với nghiên cứu của mình. Khi nó xảy ra, ông không bao giờ tìm thấy thời gian, và *Mr Bliss* chỉ được xuất bản sau khi chết vào năm 1982 với những bức ảnh gốc.<sup id="cite_ref-TLib_1-0" class="reference"><a href="#cite_note-TLib-1">[1]</a></sup> Mặt khác, các hình minh họa cho *The Hobbit* được gửi trong [Thư 9](Letter_9.md) mặt khác đã được chấp nhận và Tolkien đã hướng dẫn nhà xuất bản về nơi chúng nên được đặt.
+Trong bức thư này, Tolkien đã thảo luận về các minh họa cho *[The Hobbit](../T/The_Hobbit.md)* và *[Mr Bliss](../M/Mr_Bliss.md)*. Trong trường hợp sau [Allen & Unwin](../A/Allen_and_Unwin.md) đã yêu cầu đơn giản hóa các hình minh họa xa hoa trong quá trình sản xuất. Tolkien bày tỏ sự ngạc nhiên khi cuốn sách và các hình ảnh minh họa của nó "đáng gặp rất nhiều rắc rối" nhưng đã cố gắng đưa công việc phù hợp với nghiên cứu của mình. Khi nó xảy ra, ông không bao giờ tìm thấy thời gian và *Mr Bliss* chỉ được xuất bản sau khi di cảo vào năm 1982 cùng với những bức ảnh gốc.<sup id="cite_ref-TLib_1-0" class="reference"><a href="#cite_note-TLib-1">[1]</a></sup> Các hình minh họa cho *The Hobbit* được gửi trong [Thư 9](Letter_9.md) mặt khác đã được chấp nhận và Tolkien đã hướng dẫn nhà xuất bản về nơi chúng nên được đặt.
 
 <span></span>
 

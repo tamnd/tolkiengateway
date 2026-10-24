@@ -24,7 +24,7 @@ Ngoài một số ngôi sao từ <i><a class="extiw" href="http://en.wikipedia.o
 - [Thomas Robins](../T/Thomas_Robins.md)
 - [Robert Pollock](Robert_Pollock.md)
 - [Kate Madison](../K/Kate_Madison.md) (*[Born of Hope](../B/Born_of_Hope.md)*)
-- Christopher Đan Mạch (*[Born of Hope](../B/Born_of_Hope.md)*)
+- Christopher Dane (*[Born of Hope](../B/Born_of_Hope.md)*)
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Alexandra_Velten&amp;action=edit&amp;redlink=1" title="Alexandra Velten (page does not exist)">Alexandra Velten</a>
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Friedhelm_Schneidewind&amp;action=edit&amp;redlink=1" title="Friedhelm Schneidewind (page does not exist)">Friedhelm Schneidewind</a>
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Oliver_Bidlo&amp;action=edit&amp;redlink=1" title="Oliver Bidlo (page does not exist)">Oliver Bidlo</a>

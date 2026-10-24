@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gil-galad"
 ---
 
-Chuyển hướng đến [Gil-galad](../G/Gil-galad.md).
+Chuyển hướng tới [Gil-galad](../G/Gil-galad.md).

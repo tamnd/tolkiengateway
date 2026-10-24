@@ -15,7 +15,7 @@ sort_keys:
   "Quenya nouns": "Lote"
 ---
 
-<i><b>lótë</b></i> là danh từ có nghĩa là "hoa" trong [Quenya](../Q/Quenya.md). So sánh với *[loth](Loth.md)* trong [Sindarin](../S/Sindarin.md).
+<i><b>lótë</b></i> là danh từ có nghĩa là "bông hoa" trong [Quenya](../Q/Quenya.md). So sánh với *[loth](Loth.md)* trong [Sindarin](../S/Sindarin.md).
 
 Ví dụ:
 
@@ -26,4 +26,4 @@ Ví dụ:
 
 ## Tài liệu tham khảo {#References}
 
-- <a class="external text" href="http://www.uib.no/People/hnohf/qlist.htm" rel="noreferrer noopener" target="_blank">Quenya Danh sách từ ngữ liệu</a> được chỉnh sửa bởi [Helge Fauskanger](../H/Helge_Fauskanger.md)
+- <a class="external text" href="http://www.uib.no/People/hnohf/qlist.htm" rel="noreferrer noopener" target="_blank">Danh sách từ Quenya Corpus</a> được chỉnh sửa bởi [Helge Fauskanger](../H/Helge_Fauskanger.md)

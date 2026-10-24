@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ered Wethrin"
 ---
 
-Chuyển hướng đến [Ered Wethrin](../E/Ered_Wethrin.md).
+Chuyển hướng tới [Ered Wethrin](../E/Ered_Wethrin.md).

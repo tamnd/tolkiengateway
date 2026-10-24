@@ -22,15 +22,15 @@ sort_keys:
   "Valinor": "Fos' Almir"
 ---
 
-Trong các phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md), <i><b>Fôs' Almir</b></i> ( **Bồn tắm lửa**),<sup id="cite_ref-LT2II_1-0" class="reference"><a href="#cite_note-LT2II-1">[1]</a></sup> còn được gọi là <i><b>Faskalan</b></i>, <i><b>Faskala-númen</b></i> ( **Bồn tắm của bối cảnh Mặt Trời**) và <i><b>Tanyasalpë</b></i> (bát lửa),<sup id="cite_ref-LT1_2-0" class="reference"><a href="#cite_note-LT1-2">[2]</a></sup> là một bồn tắm thanh lọc.<sup id="cite_ref-LT2II_1-1" class="reference"><a href="#cite_note-LT2II-1">[1]</a></sup><sup id="cite_ref-LT2IIn_3-0" class="reference"><a href="#cite_note-LT2IIn-3">[3]</a></sup>
+Trong các phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md), <i><b>Fôs' Almir</b></i> ( **Bồn tắm lửa**),<sup id="cite_ref-LT2II_1-0" class="reference"><a href="#cite_note-LT2II-1">[1]</a></sup> còn được gọi là <i><b>Faskalan</b></i>, <i><b>Faskala-númen</b></i> ( **Bồn tắm mặt trời lặn**) và <i><b>Tanyasalpë</b></i> (bát lửa),<sup id="cite_ref-LT1_2-0" class="reference"><a href="#cite_note-LT1-2">[2]</a></sup> là bồn tắm thanh lọc.<sup id="cite_ref-LT2II_1-1" class="reference"><a href="#cite_note-LT2II-1">[1]</a></sup><sup id="cite_ref-LT2IIn_3-0" class="reference"><a href="#cite_note-LT2IIn-3">[3]</a></sup>
 
-Bồn tắm được thiết kế như một chiếc bồn lớn với sàn vàng và tường bằng đồng bóng. Một "vòm cột vàng có ngọn lửa bao quanh nó" và [Yavanna](../Y/Yavanna.md) "đặt một [bùa chú](../M/Magic.md) vĩ đại và không tên xung quanh nó, để trong đó đổ gần hết nước hoa quả buổi trưa và nó trở thành một bể lửa".<sup id="cite_ref-LT1_2-1" class="reference"><a href="#cite_note-LT1-2">[2]</a></sup>
+Bồn tắm được thiết kế như một chiếc bồn lớn với sàn vàng và tường bằng đồng bóng. Một "vòm cột vàng có ngọn lửa bao quanh nó" và [Yavanna](../Y/Yavanna.md) "đặt một [bùa chú](../M/Magic.md) vĩ đại và không tên xung quanh nó, để phần lớn nước của trái cây buổi trưa đổ vào đó và nó trở thành một bể lửa".<sup id="cite_ref-LT1_2-1" class="reference"><a href="#cite_note-LT1-2">[2]</a></sup>
 
-Người ta kể rằng [Urwendi](../U/Urwendi.md) và các thiếu nữ của cô ấy, trước khi [Mặt Trời](../S/Sun.md)trỗi dậy, đã vào Faskalan.<sup id="cite_ref-LT1Sun_4-0" class="reference"><a href="#cite_note-LT1Sun-4">[4]</a></sup> [Turambar](../T/Túrin.md) và [Nienóri](../N/Nienor.md) vào Faskalan sau khi họ chết.<sup id="cite_ref-LT2II_1-2" class="reference"><a href="#cite_note-LT2II-1">[1]</a></sup><sup id="cite_ref-LT2IIn_3-1" class="reference"><a href="#cite_note-LT2IIn-3">[3]</a></sup>
+Người ta kể rằng [Urwendi](../U/Urwendi.md) và các thiếu nữ của bà, trước khi [Mặt trời mọc](../S/Sun.md), đã vào Faskalan.<sup id="cite_ref-LT1Sun_4-0" class="reference"><a href="#cite_note-LT1Sun-4">[4]</a></sup> [Turambar](../T/Túrin.md) và [Nienóri](../N/Nienor.md) đã vào Faskalan sau khi họ chết.<sup id="cite_ref-LT2II_1-2" class="reference"><a href="#cite_note-LT2II-1">[1]</a></sup><sup id="cite_ref-LT2IIn_3-1" class="reference"><a href="#cite_note-LT2IIn-3">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Fôs' Almir* là tên [Gnomish](../G/Gnomish.md), có nghĩa là "Bồn tắm của Galmir, tức là bồn tắm của [Mặt Trời](../S/Sun.md)".<sup id="cite_ref-PE11_5-0" class="reference"><a href="#cite_note-PE11-5">[5]</a></sup>
+*Fôs' Almir* là tên [Gnomish](../G/Gnomish.md), có nghĩa là "bồn tắm của Galmir, tức là [bồn tắm của Mặt trời](../S/Sun.md)".<sup id="cite_ref-PE11_5-0" class="reference"><a href="#cite_note-PE11-5">[5]</a></sup>
 
 *Tanyasalpë* là tên [Qenya](../Q/Qenya.md), chứa *tanya* ("lửa")<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> và *salpa* "bát".<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
@@ -38,7 +38,7 @@ Người ta kể rằng [Urwendi](../U/Urwendi.md) và các thiếu nữ của c
 
 Tên bị từ chối sử dụng trong các văn bản trước đây về bồn tắm là <i><b>Fauri</b></i>.<sup id="cite_ref-LT2IIn_3-2" class="reference"><a href="#cite_note-LT2IIn-3">[3]</a></sup>
 
-*Fôs' Almir* dường như cũng đã được [Tolkien](../J/J.R.R._Tolkien.md) sử dụng làm tên cho [ Biển](../B/Belegaer.md) phương Tây.<sup id="cite_ref-PE11_5-1" class="reference"><a href="#cite_note-PE11-5">[5]</a></sup>
+*Fôs' Almir* dường như cũng đã được [Tolkien](../J/J.R.R._Tolkien.md) sử dụng làm tên cho [Biển Tây](../B/Belegaer.md).<sup id="cite_ref-PE11_5-1" class="reference"><a href="#cite_note-PE11-5">[5]</a></sup>
 
 <span></span>
 

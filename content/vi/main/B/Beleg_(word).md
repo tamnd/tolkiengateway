@@ -17,11 +17,11 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Beleg</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="Beleg_(disambiguation).md" title="Beleg (disambiguation)">Beleg (disambiguation)</a></b>.</div></div>
 
-<i><b>beleg</b></i> là một từ [Sindarin](../S/Sindarin.md) có nghĩa là "mạnh mẽ",<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> hoặc "vĩ đại, to lớn".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Nó được dùng làm tên riêng cho nhân vật [**Beleg** Cúthalion](Beleg.md) và [**Beleg** (Vua của Arthedain)](<Beleg_(King_of_Arthedain).md>).
+<i><b>beleg</b></i> là một từ [Sindarin](../S/Sindarin.md) có nghĩa là "hùng mạnh",<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> hoặc "vĩ đại, to lớn".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Nó được dùng làm tên riêng cho nhân vật [**Beleg** Cúthalion](Beleg.md) và [**Beleg** (Vua của Arthedain)](<Beleg_(King_of_Arthedain).md>).
 
 ## Ví dụ {#Examples}
 
-- <i><a href="Belegaer.md" title="Belegaer"><b>Beleg</b>aer</a></i> = "Đại Hải"
+- <i><a href="Belegaer.md" title="Belegaer"><b>Beleg</b>aer</a></i> = "Biển Lớn"
 - <i><a href="Belegost.md" title="Belegost"><b>Beleg</b>ost</a></i> = "Pháo đài vĩ đại"
 - <i><a class="mw-redirect" href="Belegûr.md" title="Belegûr"><b>Beleg</b>ur</a></i> = "Đấng trỗi dậy trong quyền năng"
 - <i><a href="../C/Cûl_Veleg.md" title="Cûl Veleg">Cûl <b>Veleg</b></a></i> = "Tải trọng lớn"

@@ -38,4 +38,4 @@ Nếu bạn cho rằng một trang không phù hợp với bộ bách khoa toàn
 
 ## Xem thêm {#See_also}
 
-- [Tolkien Gateway:Chính sách về độ nổi bật](../N/Notability_policy.md)
+- [Cổng Tolkien:Chính sách về độ nổi bật](../N/Notability_policy.md)

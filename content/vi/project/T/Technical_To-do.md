@@ -29,7 +29,7 @@ Các mặt hàng có nhu cầu ngay lập tức; những vấn đề cần giả
 Các vấn đề cần sắp xếp - và các tiện ích mở rộng mới được yêu cầu - nhưng không phải ngay lập tức:
 
 - Cài đặt LaTeX, TengTex và WikiTex để chúng tôi có thể <a class="external text" href="http://wikisophia.org/wiki/Teng" rel="noreferrer noopener" target="_blank">thực hiện việc này</a>;
-- [Google Maps dành cho tiện ích mở rộng Arda](https://tolkiengateway.net/wiki/User:Eldarion_Telcontar/Google_Maps_for_Arda);
+Tiện ích mở rộng - [Google Maps cho Arda](https://tolkiengateway.net/wiki/User:Eldarion_Telcontar/Google_Maps_for_Arda);
 - Tạo một tiện ích mở rộng cho phép người dùng nhập các danh mục vào một hộp nhập liệu riêng biệt khi tải tệp lên (để chúng không bị đưa vào ==Tóm tắt==).
 - <a class="external text" href="http://www.mediawiki.org/wiki/Extension:GettingStarted" rel="noreferrer noopener" target="_blank">Tiện ích mở rộng:Bắt đầu</a>
 - <a class="external text" href="http://www.mediawiki.org/wiki/Extension:GuidedTour" rel="noreferrer noopener" target="_blank">Tiện ích mở rộng:Chuyến tham quan có hướng dẫn</a>?
@@ -38,4 +38,4 @@ Các vấn đề cần sắp xếp - và các tiện ích mở rộng mới đư
 
 ## Xem thêm {#See_Also}
 
-- [Tolkien Gateway:Việc cần làm](To-do.md)
+- [Cổng Tolkien: Việc cần làm](To-do.md)

@@ -21,11 +21,11 @@ langlinks:
     url: "https://kontu.wiki/Quental%C3%AB_Ardan%C3%B3mion"
 ---
 
-**Quentalë Ardanómion** là một tác phẩm [Ælfwine](../_/Ælfwine.md) cho biết đã sử dụng làm nguồn cho văn bản *Concerning the Dwarves* bên cạnh *[Lammas](../L/Lammas.md)* và *[Dorgannas Iaur](../D/Dorgannas_Iaur.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Tác phẩm không được đề cập ở nơi nào khác, cũng như tác giả của nó không được biết đến.
+**Quentalë Ardanómion** là tác phẩm mà [Ælfwine](../_/Ælfwine.md) tuyên bố đã sử dụng làm nguồn cho văn bản *Concerning the Dwarves* bên cạnh *[Lammas](../L/Lammas.md)* và *[Dorgannas Iaur](../D/Dorgannas_Iaur.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Tác phẩm không được đề cập ở nơi nào khác, cũng như tác giả của nó không được biết đến.
 
 ## Từ nguyên {#Etymology}
 
-Từ [Quenya](Quenya.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Quental%C3%AB&amp;action=edit&amp;redlink=1" title="Quentalë (page does not exist)">quentalë</a></i> có nghĩa là 'lịch sử'.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> *Ardanómion* không được rõ ràng lắm ngoài phần đầu của từ, *[Arda](../A/Arda.md)*. [Måns Björkman](../M/Måns_Björkman.md) cho rằng *-nómion* có thể là do đọc sai bản thảo, bởi vì *-nornion* < <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Norno&amp;action=edit&amp;redlink=1" title="Norno (page does not exist)">norno</a></i> 'người lùn' sẽ có ý nghĩa trong một tác phẩm được dùng làm nguồn cho văn bản về người lùn.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Từ [Quenya](Quenya.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Quental%C3%AB&amp;action=edit&amp;redlink=1" title="Quentalë (page does not exist)">quentalë</a></i> có nghĩa là 'lịch sử'.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> *Ardanómion* không hoàn toàn rõ ràng ngoài phần đầu của từ, *[Arda](../A/Arda.md)*. [Måns Björkman](../M/Måns_Björkman.md) cho rằng *-nómion* có thể là do đọc sai bản thảo, bởi vì *-nornion* < <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Norno&amp;action=edit&amp;redlink=1" title="Norno (page does not exist)">norno</a></i> 'người lùn' sẽ có ý nghĩa trong một tác phẩm được sử dụng làm nguồn cho văn bản về người lùn.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

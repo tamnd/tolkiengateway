@@ -31,7 +31,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Richard E. Blackwelder</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Born</th><td class="tg-infobox-data"><a href="../_/29_January.md" title="29 January">January 29</a>, <a href="../_/1909.md" title="1909">1909</a></td></tr><tr><th scope="row" class="tg-infobox-label">Died</th><td class="tg-infobox-data"><a href="../_/17_January.md" title="17 January">January 17</a>, <a href="../_/2001.md" title="2001">2001</a></td></tr><tr><th scope="row" class="tg-infobox-label">Education</th><td class="tg-infobox-data">Stanford University</td></tr><tr><th scope="row" class="tg-infobox-label">Occupation</th><td class="tg-infobox-data">Professor</td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">United States</td></tr></tbody></table>
 
-**Tiến sĩ. Richard Eliot Blackwelder** ([29 tháng 1](../_/29_January.md), [1909](../_/1909.md) - [17 tháng 1](../_/17_January.md), [2001](../_/2001.md)) là một nhà sưu tập [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) kỷ vật và tác giả nổi tiếng.
+**Tiến sĩ. Richard Eliot Blackwelder** ([29 tháng 1](../_/29_January.md), [1909](../_/1909.md) - [17 tháng 1](../_/17_January.md), [2001](../_/2001.md)) là một nhà sưu tập và tác giả nổi tiếng về [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) kỷ vật.
 
 Trong [1978](../_/1978.md), Tiến sĩ Blackwelder đã phát hiện ra Tolkien và bắt đầu tích lũy một bộ sưu tập lớn về Tolkieniana, ông đã sắp xếp và lập chỉ mục trước khi sắp xếp tặng bộ sưu tập đó cho Kho lưu trữ của [Đại học Marquette](../M/Marquette_University.md). Bộ sưu tập Blackwelder bao gồm "mười feet tài liệu tuyến tính trong 140 ... ba bìa sách, ... hơn 1.200 tập ... và hơn 70 luận văn và luận án."
 
@@ -44,7 +44,7 @@ Trong [2006](../_/2006.md), tập *[The Lord of the Rings 1954-2004](../T/The_Lo
 ## Ấn phẩm {#Publications}
 
 - [1990](../_/1990.md): *[A Tolkien Thesaurus](../A/A_Tolkien_Thesaurus.md)*. Nhà xuất bản vòng hoa, New York.
-- [1990](../_/1990.md): *[Tolkien Phraseology: A Companion to A Tolkien Thesaurus](../T/Tolkien_Phraseology.md)*. Tolkien Quỹ lưu trữ, Đại học Marquette
+- [1990](../_/1990.md): *[Tolkien Phraseology: A Companion to A Tolkien Thesaurus](../T/Tolkien_Phraseology.md)*. Quỹ lưu trữ Tolkien, Đại học Marquette
 - [1993](../_/1993.md): *[Tolkien Portraiture](../T/Tolkien_Portraiture.md)*
 
 ## Xem thêm {#See_also}
@@ -53,5 +53,5 @@ Trong [2006](../_/2006.md), tập *[The Lord of the Rings 1954-2004](../T/The_Lo
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://www.marquette.edu/library/collections/archives/Mss/JRRT/mss-blackwelder.html" rel="noreferrer noopener" target="_blank">Nhận hàng tại Đại học Marquette</a>
+- <a class="external text" href="http://www.marquette.edu/library/collections/archives/Mss/JRRT/mss-blackwelder.html" rel="noreferrer noopener" target="_blank">Bộ sưu tập tại Đại học Marquette</a>
 - <a class="extiw" href="http://en.wikipedia.org/wiki/Richard_E._Blackwelder" title="wikipedia:Richard E. Blackwelder">Richard E. Blackwelder</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>

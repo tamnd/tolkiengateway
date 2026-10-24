@@ -28,7 +28,7 @@ file:
 
 Từ [Kho báu của Trung Địa (ấn bản thứ 2)](<../../main/T/Treasures_of_Middle-earth_(2nd_edition).md>)
 
-Nghệ sĩ không có chữ ký Có thể là Kent Burles, Storn Cook, Liz Danforth (không chắc vì cô ấy luôn ký), James A. Fallin hoặc Karnran Sedaghatkish
+Nghệ sĩ không có chữ ký Có thể là Kent Burles, Storn Cook, Liz Danforth (không chắc vì bà luôn ký), James A. Fallin hoặc Karnran Sedaghatkish
 
 ## Giấy phép {#Licensing}
 

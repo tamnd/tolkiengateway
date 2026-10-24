@@ -44,13 +44,13 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/G/Great_War_2003.png.md"><img src="https://tolkiengateway.net/w/images/thumb/8/80/Great_War_2003.png/312px-Great_War_2003.png" decoding="async" loading="lazy" width="312" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/8/80/Great_War_2003.png 1.5x" data-file-width="325" data-file-height="500"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Tolkien and the Great War: The Threshold of Middle-earth</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a href="../J/John_Garth.md" title="John Garth">John Garth</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../H/HarperCollins.md" title="HarperCollins">HarperCollins</a> (UK)<br/><a class="mw-redirect" href="../H/Houghton_Mifflin.md" title="Houghton Mifflin">Houghton Mifflin</a> (US)</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">October <a href="../_/2003.md" title="2003">2003</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Hardcover; paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">416</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0007119526" title="Special:BookSources/0007119526">0007119526</a></td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="The_History_of_Middle-earth_Index.md" title="The History of Middle-earth Index">The History of Middle-earth Index</a> (2002)</td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="The_Lord_of_the_Rings%253A_A_Reader&#39;s_Companion.md" title="The Lord of the Rings: A Reader&#39;s Companion">The Lord of the Rings: A Reader&#39;s Companion</a> (2005)</td></tr></tbody></table>
 
-<i><b>Tolkien và Đại chiến: Ngưỡng cửa Trung Địa</b></i> là cuốn sách tiểu sử của [John Garth](../J/John_Garth.md), xuất bản lần đầu vào năm [2003](../_/2003.md). Cuốn sách này xem xét cuộc đời ban đầu của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), xem xét cụ thể hơn ảnh hưởng của [Đại chiến](../W/World_War_I.md) đối với Tolkien và các bài viết của ông.
+<i><b>Tolkien và cuộc đại chiến: Ngưỡng cửa Trung địa</b></i> là cuốn sách tiểu sử của [John Garth](../J/John_Garth.md), xuất bản lần đầu vào năm [2003](../_/2003.md). Cuốn sách này xem xét cuộc đời ban đầu của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), xem xét cụ thể hơn ảnh hưởng của [Đại chiến](../W/World_War_I.md) đối với Tolkien và các tác phẩm của ông.
 
-Cuốn sách được các học giả Tolkien chào đón nồng nhiệt vì đã lấp đầy một khoảng trống quan trọng trong việc trình bày tiểu sử. Các học giả Cơ đốc giáo cũng ngưỡng mộ cuốn sách, mặc dù [Ralph C. Wood](../R/Ralph_C._Wood.md) cho rằng nó đánh giá thấp tầm quan trọng của [Tolkien Cơ đốc giáo](../C/Christianity.md). Cuốn sách bị người viết tiểu sử của Tolkien, [Humphrey Carpenter](../H/Humphrey_Carpenter.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> gọi là "chuyện ấy" nhưng lại được các nhà bình luận khác khen ngợi.
+Cuốn sách được các học giả Tolkien chào đón nồng nhiệt vì đã lấp đầy một khoảng trống quan trọng trong việc đưa tin về tiểu sử. Các học giả Cơ đốc giáo cũng ngưỡng mộ cuốn sách, mặc dù [Ralph C. Wood](../R/Ralph_C._Wood.md) cho rằng nó đã đánh giá thấp tầm quan trọng của [Cơ đốc giáo của Tolkien](../C/Christianity.md). Cuốn sách được người viết tiểu sử của Tolkien, [Humphrey Carpenter](../H/Humphrey_Carpenter.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> gọi là "chuyện ấy" nhưng lại được các nhà bình luận khác khen ngợi.
 
-Cuốn sách đã đoạt giải <a class="extiw" href="http://en.wikipedia.org/wiki/Mythopoeic_Awards" title="wikipedia:Mythopoeic Awards">Học bổng Thần thoại năm 2004 về Inklings Nghiên cứu</a>.
+Cuốn sách đã giành được <a class="extiw" href="http://en.wikipedia.org/wiki/Mythopoeic_Awards" title="wikipedia:Mythopoeic Awards">Giải thưởng Học bổng Huyền thoại về Nghiên cứu về Inklings</a>năm 2004.
 
-Cuốn sách có in lại những đoạn thơ đầu tiên của Tolkien, trong đó có toàn văn bài thơ "*[The Lonely Isle](The_Lonely_Isle.md)*", được xuất bản lần đầu trên *[Leeds University Verse 1914-24](../L/Leeds_University_Verse_1914-24.md)* năm [1924](../_/1924.md). Ngoài ra còn có rất nhiều trích dẫn từ thư từ chưa được công bố giữa Tolkien, [Christopher Wiseman](../C/Christopher_Wiseman.md), [R.Q. Gilson](../R/Robert_Quilter_Gilson.md) và [G.B. Smith](../G/Geoffrey_Bache_Smith.md).
+Cuốn sách có in lại các đoạn thơ đầu tiên của Tolkien, trong đó có toàn văn bài thơ "*[The Lonely Isle](The_Lonely_Isle.md)*", được xuất bản lần đầu trên *[Leeds University Verse 1914-24](../L/Leeds_University_Verse_1914-24.md)* ở [1924](../_/1924.md). Ngoài ra còn có rất nhiều trích dẫn từ thư từ chưa được xuất bản giữa Tolkien, [Christopher Wiseman](../C/Christopher_Wiseman.md), [R.Q. Gilson](../R/Robert_Quilter_Gilson.md) và [G.B. Smith](../G/Geoffrey_Bache_Smith.md).
 
 ## Nội dung {#Contents}
 
@@ -60,7 +60,7 @@ Cuốn sách có in lại những đoạn thơ đầu tiên của Tolkien, trong
     - Mở đầu
     - 1\. trước đây
     - 2\. Một thanh niên giàu trí tưởng tượng
-    - 3\. Hội đồng của Luân Đôn
+    - 3\. Hội đồng Luân Đôn
     - 4\. Bờ biển thần tiên
     - 5\. Kẻ lang thang đêm khuya
     - 6\. Quá lâu trong giấc ngủ
@@ -135,8 +135,8 @@ This is the first substantially new biography of Tolkien since 1977, meticulousl
 
 ## Liên kết ngoài {#External_links}
 
-- Brian Rosebury, <a class="external text" href="https://muse.jhu.edu/article/182570" rel="noreferrer noopener" target="_blank">Đánh giá cuốn sách</a>, [Tolkien Nghiên cứu. 2](Tolkien_Studies%253A_Volume_2.md)
-- <a class="external text" href="http://www.johngarth.co.uk/php/tolkien_and_the_great_war.php" rel="noreferrer noopener" target="_blank">Tolkien và Đại chiến</a> trên trang web của <a class="external text" href="http://www.johngarth.co.uk/php/tolkien_and_the_great_war.php" rel="noreferrer noopener" target="_blank">John Garth</a>
+- Brian Rosebury, <a class="external text" href="https://muse.jhu.edu/article/182570" rel="noreferrer noopener" target="_blank">Đánh giá cuốn sách</a>, [Nghiên cứu về Tolkien. 2](Tolkien_Studies%253A_Volume_2.md)
+- <a class="external text" href="http://www.johngarth.co.uk/php/tolkien_and_the_great_war.php" rel="noreferrer noopener" target="_blank">Tolkien và cuộc đại chiến</a> trên <a class="external text" href="http://www.johngarth.co.uk/php/tolkien_and_the_great_war.php" rel="noreferrer noopener" target="_blank">trang web của John Garth</a>
 - <a class="external text" href="http://johngarth.wordpress.com/2016/12/09/tanks-at-gondolin/" rel="noreferrer noopener" target="_blank">Xe tăng ở Gondolin</a> (trích từ *Tolkien and the Great War*)
 
 <br>

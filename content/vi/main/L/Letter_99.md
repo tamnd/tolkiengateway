@@ -32,7 +32,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien gửi tấm lòng cảm thông. Anh dần ngưỡng mộ và yêu chồng cô và đau buồn hơn những gì anh có thể bày tỏ. Cha [Gervase Mathew](../G/Gervase_Mathew.md) sẽ cử hành Thánh lễ và Tolkien dự định phục vụ ông, và ông sẽ cầu nguyện cho bà Williams và con trai bà. <br>
+Tolkien gửi tấm lòng đầy cảm thông. Anh dần ngưỡng mộ và yêu chồng cô và đau buồn hơn những gì anh có thể bày tỏ. Cha [Gervase Mathew](../G/Gervase_Mathew.md) sẽ cử hành một Thánh lễ và Tolkien dự định phục vụ ông, và ông sẽ cầu nguyện cho bà Williams và con trai bà. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

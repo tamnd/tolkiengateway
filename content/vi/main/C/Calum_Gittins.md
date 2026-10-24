@@ -29,7 +29,7 @@ infobox:
 
 **Calum Gittins** ([16 tháng 7](../_/16_July.md), [1986](../_/1986.md)) là con trai của [Philippa Boyens](../P/Philippa_Boyens.md). Anh đóng vai [Haleth](<../H/Haleth_(film_character).md>), đứa con trai duy nhất trong phim của [Háma](../H/Háma.md), trong *[The Lord of the Rings: The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)*.
 
-Lời thoại của anh ấy sau đó đã được lồng tiếng, vì giọng của anh ấy đã trưởng thành quá nhiều trong thời gian từ lúc quay lần đầu đến khi bắt đầu.
+Lời thoại của ông sau đó đã được lồng tiếng, vì giọng của ông đã trưởng thành quá nhiều trong thời gian từ lúc quay lần đầu đến khi bắt đầu.
 
 ## Liên kết ngoài {#External_links}
 

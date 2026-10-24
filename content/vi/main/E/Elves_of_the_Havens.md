@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Falathrim"
 ---
 
-Chuyển hướng đến [Falathrim](../F/Falathrim.md).
+Chuyển hướng tới [Falathrim](../F/Falathrim.md).

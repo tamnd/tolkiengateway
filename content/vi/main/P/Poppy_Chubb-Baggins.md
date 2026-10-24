@@ -41,15 +41,15 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../H/Hobbits.md" title="Hobbits">Hobbit</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Poppy Chubb-Baggins</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../T/The_Shire.md" title="The Shire">The Shire</a></td></tr><tr><th scope="row" class="tg-infobox-label">Birth</th><td class="tg-infobox-data"><a class="mw-redirect" href="../S/Shire_Reckoning.md" title="Shire Reckoning">S.R.</a> <a href="../T/Third_Age_2944.md" title="Third Age 2944">1344</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">Family</th><td class="tg-infobox-data"><a class="mw-redirect" href="../C/Chubb-Baggins_Family~66345.md" title="Chubb-Baggins Family">Chubb-Baggins</a></td></tr><tr><th scope="row" class="tg-infobox-label">Parentage</th><td class="tg-infobox-data"><a href="../F/Falco_Chubb-Baggins.md" title="Falco Chubb-Baggins">Falco Chubb-Baggins</a></td></tr><tr><th scope="row" class="tg-infobox-label">Spouse</th><td class="tg-infobox-data"><a href="../F/Filibert_Bolger.md" title="Filibert Bolger">Filibert Bolger</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Female</td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Poppy_Chubb-Baggins.md" title="Category:Images of Poppy Chubb-Baggins">Images of Poppy Chubb-Baggins</a></td></tr></tbody></table>
 
-**Poppy Chubb-Baggins** là một [Hobbit](../H/Hobbits.md) của [ Shire](../T/The_Shire.md).
+**Poppy Chubb-Baggins** là một [Hobbit](../H/Hobbits.md) của [Quận](../T/The_Shire.md).
 
 ## Lịch sử {#History}
 
-Poppy là con gái của [Falco Chubb-Baggins](../F/Falco_Chubb-Baggins.md). Cô kết hôn với [Filibert Bolger](../F/Filibert_Bolger.md). Cô ấy là khách ở [Tiệc chia tay của Bilbo](../B/Bilbo's_Farewell_Party.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Poppy là con gái của [Falco Chubb-Baggins](../F/Falco_Chubb-Baggins.md). Cô kết hôn với [Filibert Bolger](../F/Filibert_Bolger.md). Bà là khách mời trong [Bữa tiệc chia tay của Bilbo](../B/Bilbo's_Farewell_Party.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-<i><a class="extiw" href="http://en.wikipedia.org/wiki/Poppy" title="wikipedia:Poppy">Poppy</a></i> là một họ phổ biến của cây hàng năm và cây lâu năm. Tên bắt nguồn từ [tiếng Anh cổ](../O/Old_English.md) *popæg*, cuối cùng là từ [Latin](../L/Latin.md) *papaver*. <span></span>
+<i><a class="extiw" href="http://en.wikipedia.org/wiki/Poppy" title="wikipedia:Poppy">Poppy</a></i> là một họ phổ biến của cây hàng năm và cây lâu năm. Tên bắt nguồn từ [tiếng Anh cổ](../O/Old_English.md) *popæg*, cuối cùng là từ [tiếng Latin](../L/Latin.md) *papaver*. <span></span>
 
 ## Tài liệu tham khảo {#References}
 

@@ -58,11 +58,11 @@ langlinks:
 </div><div class="template-month__footer"><div class="tg-button"><a href="../J/January.md" title="January">Jan</a></div><div class="tg-button"><a href="../F/February.md" title="February">Feb</a></div><div class="tg-button"><a href="../M/March.md" title="March">Mar</a></div><div class="tg-button"><a href="../A/April.md" title="April">Apr</a></div><div class="tg-button"><a href="../M/May.md" title="May">May</a></div><div class="tg-button"><a href="../J/June.md" title="June">Jun</a></div><div class="tg-button"><a href="../J/July.md" title="July">Jul</a></div><div class="tg-button"><a href="../A/August.md" title="August">Aug</a></div><div class="tg-button"><a href="../S/September.md" title="September">Sep</a></div><div class="tg-button"><a href="../O/October.md" title="October">Oct</a></div><div class="tg-button"><a href="../N/November.md" title="November">Nov</a></div><div class="tg-button"><a href="../D/December.md" title="December">Dec</a></div></div>
 </div>
 
-Sự kiện xảy ra vào ngày 1 tháng Chín.
+Sự kiện xảy ra vào ngày 1 tháng 9
 
 ## Trên Trái đất {#On_Earth}
 
-- **[1917](1917.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đang thực hiện [Cầu Xám của Tavrobel](../T/The_Grey_Bridge_of_Tavrobel.md) khi đang ở <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Hull#History" title="wikipedia:University of Hull">Bệnh viện Sĩ quan Brooklands</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Kingston_upon_Hull" title="wikipedia:Kingston upon Hull">Kingston Upon Hull</a>.
+- **[1917](1917.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đang thực hiện [Cầu Xám Tavrobel](../T/The_Grey_Bridge_of_Tavrobel.md) khi đang ở <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Hull#History" title="wikipedia:University of Hull">Bệnh viện sĩ quan Brooklands</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Kingston_upon_Hull" title="wikipedia:Kingston upon Hull">Kingston Upon Hull</a>.
 - **[1938](1938.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đi nghỉ dưỡng sức (xem [Thư 33](../L/Letter_33.md)).
 - **[1943](1943.md)** - J.R.R. Tolkien viết [Thư 49b](../L/Letter_49b.md).
 - **[1964](1964.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã gặp [Clyde S. Kilby](../C/Clyde_S._Kilby.md).
@@ -77,12 +77,12 @@ Sự kiện xảy ra vào ngày 1 tháng Chín.
 - **[2016](2016.md)** - *[Tolkien Calendar 2017](../T/Tolkien_Calendar_2017.md)* được xuất bản.
 - **[2020](2020.md)** - *[Tolkien Calendar 2021](../T/Tolkien_Calendar_2021.md)* được xuất bản.
 - **[2022](2022.md)** - [đầu tiên](../A/A_Shadow_of_the_Past.md) [hai](../A/Adrift.md) tập của *[The Lord of the Rings: The Rings of Power](../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)* được phát hành trực tuyến.
-- **[2022](2022.md)** - Phiên bản mới và sửa đổi của [Hướng dẫn hoàn chỉnh về Trung Địa](../T/The_Complete_Guide_to_Middle-earth.md) của [Robert Foster](../R/Robert_Foster.md) được phát hành.
+- **[2022](2022.md)** - Phiên bản mới và sửa đổi của [Hướng dẫn hoàn chỉnh về Trung địa](../T/The_Complete_Guide_to_Middle-earth.md) của [Robert Foster](../R/Robert_Foster.md) được phát hành.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Gandalf](../G/Gandalf.md) bị giam giữ bởi [Saruman](../S/Saruman.md) trên đỉnh của [Orthanc](../O/Orthanc.md).
+    - [Gandalf](../G/Gandalf.md) bị [Saruman](../S/Saruman.md) giam giữ trên đỉnh [Orthanc](../O/Orthanc.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
     - Trăng tròn<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>

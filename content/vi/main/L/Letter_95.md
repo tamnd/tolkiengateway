@@ -34,7 +34,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien say mê đọc <a class="extiw" href="http://en.wikipedia.org/wiki/Frank_Stenton" title="wikipedia:Frank Stenton">Stenton</a> *Anglo-Saxon England*. Một khoảng thời gian tràn ngập Dấu chấm hỏi, Tolkien nói, và ước gì mình có một cỗ máy thời gian. Tất nhiên, anh ấy nói, với một tâm trí hoàn toàn khác với Stenton, anh ấy bị thu hút bởi những thứ có ý nghĩa về chủng tộc và ngôn ngữ. Tolkien hy vọng một ngày nào đó con trai mình có thể tìm hiểu sâu hơn về câu chuyện về nguồn gốc của những con người đặc biệt của họ. Thực sự của họ nói riêng; Ngoại trừ "Tolkien" (bây giờ là một sợi mỏng), ông nói rằng Christopher là người Mercian hoặc Hwiccian ở cả hai bên.
+Tolkien say mê đọc <a class="extiw" href="http://en.wikipedia.org/wiki/Frank_Stenton" title="wikipedia:Frank Stenton">Stenton</a> *Anglo-Saxon England*. Tolkien nói: Một khoảng thời gian tràn ngập Dấu hỏi và ước gì mình có một cỗ máy thời gian. Tất nhiên, ông nói, với một tâm trí hoàn toàn khác với Stenton, ông bị thu hút bởi những thứ có ý nghĩa về chủng tộc và ngôn ngữ. Tolkien hy vọng một ngày nào đó con trai ông có thể tìm hiểu sâu hơn về câu chuyện về nguồn gốc của những con người đặc biệt của họ. Thực sự của họ nói riêng; Ngoại trừ "Tolkien" (bây giờ là một sợi mỏng), ông nói rằng Christopher là người Mercian hoặc Hwiccian ở cả hai bên.
 
 <br>
 

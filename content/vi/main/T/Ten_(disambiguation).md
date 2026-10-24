@@ -16,7 +16,7 @@ images:
 
 **Mười** có thể ám chỉ:
 
-- *[ten](Ten~56220.md)*, một động từ [Quenya](../Q/Quenya.md)
+- *[ten](Ten~56220.md)*, động từ [Quenya](../Q/Quenya.md)
 - [TEN](TEN.md), một [Elvish](../E/Elvish.md) [gốc](../S/Sundocarme.md)
 - [TEÑ](TEÑ.md), một [Elvish](../E/Elvish.md) [gốc](../S/Sundocarme.md)
 

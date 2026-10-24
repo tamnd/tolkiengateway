@@ -41,4 +41,4 @@ infobox:
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="https://www.tolkienestate.com/writing/christopher-tolkien-the-silmarillion/" rel="noreferrer noopener" target="_blank">Toàn văn</a> tại <a class="external text" href="https://www.tolkienestate.com/" rel="noreferrer noopener" target="_blank">Tolkien Estate trang web chính thức</a>
+- <a class="external text" href="https://www.tolkienestate.com/writing/christopher-tolkien-the-silmarillion/" rel="noreferrer noopener" target="_blank">Toàn văn</a> tại <a class="external text" href="https://www.tolkienestate.com/" rel="noreferrer noopener" target="_blank">trang web chính thức của Tolkien Estate</a>

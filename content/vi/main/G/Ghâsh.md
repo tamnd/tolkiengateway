@@ -15,7 +15,7 @@ sort_keys:
   "Orkish words": "ghash"
 ---
 
-<i><b>ghâsh</b></i> là một từ [tiếng Orkish](../O/Orkish.md) có nghĩa là "lửa".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> [Orc](../O/Orcs.md) của [Moria](../M/Moria.md) đã sử dụng từ này để chỉ [Balrog](../B/Balrogs.md), khi nó bước vào [Phòng Mazarbul](../C/Chamber_of_Mazarbul.md) và cố gắng vượt qua một cánh cửa đã bị chặn bởi [Gandalf](Gandalf.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
+<i><b>ghâsh</b></i> là một từ [tiếng Orkish](../O/Orkish.md) có nghĩa là "lửa".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> [Orc](../O/Orcs.md) của [Moria](../M/Moria.md) đã sử dụng từ này để chỉ [Balrog](../B/Balrogs.md), khi nó bước vào [Phòng của Mazarbul](../C/Chamber_of_Mazarbul.md) và cố gắng đi qua một cánh cửa đã bị chặn bởi [Gandalf](Gandalf.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

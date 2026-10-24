@@ -28,7 +28,7 @@ infobox:
 
 **Romantropologie: Tiểu luận về nhân học trong văn học** (tiếng Hà Lan: *Nhân học tiểu thuyết: tiểu luận về nhân học trong văn học*) là một cuốn sách bằng tiếng Hà Lan.
 
-[J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được Willem de Blécourt xử lý trong phần đóng góp: "De antropologië van Faërie: enkele beschouwingen over het werk van J.R.R. Tolkien".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+[J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được đề cập trong phần đóng góp của Willem de Blécourt: "De antropologië van Faërie: enkele beschouwingen over het werk van J.R.R. Tolkien".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

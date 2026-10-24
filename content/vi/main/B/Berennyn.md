@@ -11,4 +11,4 @@ redirect_target: "Brown Lands"
 redirect_fragment: "Etymology"
 ---
 
-Chuyển hướng đến [Brown Lands](Brown_Lands.md#Etymology).
+Chuyển hướng đến [Vùng đất nâu](Brown_Lands.md#Etymology).

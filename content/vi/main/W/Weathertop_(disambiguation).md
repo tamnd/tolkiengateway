@@ -14,13 +14,13 @@ images:
   - "Disambig.png"
 ---
 
-**Weathertop** đề cập đến nhiều hơn một khái niệm:
+**Weathertop** đề cập đến nhiều khái niệm:
 
 - **[Weathertop](Weathertop.md)**, một địa điểm ở [Eriador](../E/Eriador.md).
 
-- *[Weathertop](<Weathertop_(journal).md>)*, nhật ký về Amon Sûl Nụ cười của [Hội Tolkien](../T/The_Tolkien_Society.md) giữa [1984](../_/1984.md)-[87](../_/1987.md).
+- *[Weathertop](<Weathertop_(journal).md>)*, tạp chí của Amon Sûl Smial của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) giữa [1984](../_/1984.md)-[87](../_/1987.md).
 - *[Weathertop: Tower of the Wind](Weathertop%253A_Tower_of_the_Wind.md)*, phần bổ sung [MERP](../M/MERP.md).
-- [Weathertop (nhạc phim)](<Weathertop_(soundtrack).md>), một bản nhạc [*The Fellowship of the Ring* nhạc phim](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_-_The_Complete_Recordings.md) của [Howard Shore](../H/Howard_Shore.md).
+- [Weathertop (nhạc phim)](<Weathertop_(soundtrack).md>), một bản nhạc trong [*The Fellowship of the Ring* nhạc phim](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_-_The_Complete_Recordings.md) của [Howard Shore](../H/Howard_Shore.md).
 
 <hr style="margin-top:15px;"/>
 

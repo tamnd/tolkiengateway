@@ -21,8 +21,8 @@ images:
 
 Vào [3 tháng 5](../_/3_May.md) [1966](../_/1966.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_%2522The_Letters_of_J.R.R._Tolkien%2522.md) cho Roger Verhulst**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-- **Nội dung:** Tấm thiệp này là lời cảm ơn ngắn gọn tới Nhà xuất bản Eerdmans vì đã gửi cuốn sách về [Charles Williams](../C/Charles_Williams.md) tới Tolkien.
-- **Xuất bản:** Không có. Mô tả về bức thư đã được cung cấp tại *[W.H. Auden: A Legacy](../W/W.H._Auden%253A_A_Legacy.md)* và trên trang web [Tolkien Thư viện](../T/Tolkien_Library.md). Mô tả về bức thư đã xuất hiện trong danh mục *Những cuốn sách và bản thảo in đẹp của Christie ngày 28 tháng 11 năm 2011* (lô 258).
+- **Nội dung:** Tấm thiệp này là lời cảm ơn ngắn gọn tới Nhà xuất bản Eerdmans vì đã gửi cuốn sách về [Charles Williams](../C/Charles_Williams.md) cho Tolkien.
+- **Xuất bản:** Không có. Mô tả về bức thư đã được cung cấp trong *[W.H. Auden: A Legacy](../W/W.H._Auden%253A_A_Legacy.md)* và trên trang web [Thư viện Tolkien](../T/Tolkien_Library.md). Mô tả về bức thư đã xuất hiện trong danh mục *Những cuốn sách và bản thảo in đẹp của Christie ngày 28 tháng 11 năm 2011* (lô 258).
 - **Mô tả:** Thẻ văn phòng phẩm 76 Sandfield Road in nổi. Được ký bởi J.R.R. Tolkien.
 
 ## Xem thêm {#See_also}

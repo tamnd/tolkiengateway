@@ -50,7 +50,7 @@ infobox:
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Tên *Saelon* là sự sửa đổi từ một cái tên trước đó *Sael..th* (không hoàn toàn dễ đọc).<sup id="cite_ref-Wise_2-1" class="reference"><a href="#cite_note-Wise-2">[2]</a></sup> [Christopher Tolkien](../C/Christopher_Tolkien.md) suy đoán rằng trong nhân vật này có nguồn gốc của một câu chuyện mà cuối cùng sẽ trở thành *[Athrabeth Finrod ah Andreth](../A/Athrabeth_Finrod_ah_Andreth.md)* - đặc biệt vì *Saelon* là tên trước đây của [Andreth](../A/Andreth.md) trong bản nháp của câu chuyện đó.<sup id="cite_ref-Wise_2-2" class="reference"><a href="#cite_note-Wise-2">[2]</a></sup>
+Cái tên *Saelon* là sự sửa đổi từ một cái tên trước đó *Sael..th* (không hoàn toàn dễ đọc).<sup id="cite_ref-Wise_2-1" class="reference"><a href="#cite_note-Wise-2">[2]</a></sup> [Christopher Tolkien](../C/Christopher_Tolkien.md) suy đoán rằng trong nhân vật này người ta thấy được nguồn gốc của một câu chuyện mà cuối cùng sẽ trở thành *[Athrabeth Finrod ah Andreth](../A/Athrabeth_Finrod_ah_Andreth.md)* - đặc biệt vì *Saelon* là tên trước đây của [Andreth](../A/Andreth.md) trong bản nháp của câu chuyện đó.<sup id="cite_ref-Wise_2-2" class="reference"><a href="#cite_note-Wise-2">[2]</a></sup>
 
 <span></span>
 

@@ -42,7 +42,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/AmonHen252.png.md"><img src="https://tolkiengateway.net/w/images/thumb/1/10/AmonHen252.png/320px-AmonHen252.png" decoding="async" loading="lazy" width="320" height="453" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/10/AmonHen252.png/480px-AmonHen252.png 1.5x, https://tolkiengateway.net/w/images/thumb/1/10/AmonHen252.png/640px-AmonHen252.png 2x" data-file-width="1257" data-file-height="1778"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Amon Hen 252</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="Andrew_Butler.md" title="Andrew Butler">Andrew Butler</a></td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="../J/Jef_Murray.md" title="Jef Murray">Jef Murray</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Printer</th><td class="tg-infobox-data"><a class="external text" href="http://www.horshampress.co.uk/" rel="noreferrer noopener" target="_blank">Horsham Press</a>, Horsham, UK</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">March <a href="../_/2015.md" title="2015">2015</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">A5 stapled paperback, glossy</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">32</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0306-8781</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Amon_Hen_251.md" title="Amon Hen 251">Amon Hen 251</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Amon_Hen_253.md" title="Amon Hen 253">Amon Hen 253</a></td></tr></tbody></table>
 
-<b><i>Amon Hen</i> 252</b> là số hai trăm năm mươi giây của tạp chí hai tháng một lần của [Hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, xuất bản vào tháng 3 [2015](../_/2015.md).
+<b><i>Amon Hen</i> 252</b> là số thứ hai trăm năm mươi giây của tạp chí hai tháng một lần của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, được xuất bản vào tháng 3 [2015](../_/2015.md).
 
 ## Nội dung {#Contents}
 
@@ -56,7 +56,7 @@ infobox:
 - (Các) thông báo
 - Thông báo ĐHĐCĐ
 - Thông báo Oxonmoot
-- Sự đốt cháy Palantír 12
+- The Burning Palantír 12
     - Bởi: Ian Collier
 - Tất cả Bran
     - Bởi: Ian Spittlehouse
@@ -64,7 +64,7 @@ infobox:
     - Verne Walker
 - Báo cáo: Lễ hội tiếng vọng của đất nước đen
     - Bởi: Ian Collier và Maggie Bailey
-- Nữ gốc trong thần thoại Trung Địa của JRRT
+- Nguồn gốc nữ giới trong thần thoại Trung Địa của JRRT
     - Bởi: Angela Nicholas
 - Tác phẩm nghệ thuật: *[Beren](../B/Beren.md) and [Lúthien](../L/Lúthien.md)*
     - Bởi: [Jef Murray](../J/Jef_Murray.md)
@@ -83,8 +83,8 @@ infobox:
     - Bởi: Jan Boom
 - Tác phẩm nghệ thuật: *[Bilbo](../B/Bilbo_Baggins.md) and the [Arkenstone](Arkenstone.md)*
     - Bởi: [Jef Murray](../J/Jef_Murray.md)
-Linh tinh của - Michael
-    - Bởi: Michael Hoa
+- Sự việc linh tinh của Michael
+    - Bởi: Michael Flowers
 - Thành viên mới
 - Ngày ghi Nhật ký/Ủy ban của bạn
 

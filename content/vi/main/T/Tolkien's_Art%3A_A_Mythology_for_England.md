@@ -32,7 +32,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tolkien&#39;s_Art.jpg.md"><img src="https://tolkiengateway.net/w/images/e/ec/Tolkien%27s_Art.jpg" decoding="async" loading="lazy" width="257" height="400" class="mw-file-element" data-file-width="257" data-file-height="400"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Tolkien&#39;s Art: A Mythology for England</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a href="../J/Jane_Chance.md" title="Jane Chance">Jane Chance</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">London: Macmillan</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/1979.md" title="1979">1979</a></td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">ix, [i], 164</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0-312-80819-4" title="Special:BookSources/0-312-80819-4">0-312-80819-4</a></td></tr></tbody></table>
 
-Nghệ thuật của <i><b>Tolkien: Thần thoại cho nước Anh</b></i> là một nghiên cứu quan trọng về mối quan hệ giữa học thuật của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)về [Cổ](../O/Old_English.md) và [Tiếng Anh trung cổ](../M/Middle_English.md) và lối viết sáng tạo của ông.
+<i><b>Nghệ thuật của Tolkien: Thần thoại cho nước Anh</b></i> là một nghiên cứu quan trọng về mối quan hệ giữa học thuật của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) về [Cổ](../O/Old_English.md) và [Tiếng Anh trung đại](../M/Middle_English.md) và lối viết sáng tạo của ông.
 
 ## Phiên bản {#Editions}
 
@@ -42,13 +42,13 @@ Nghệ thuật của <i><b>Tolkien: Thần thoại cho nước Anh</b></i> là m
 
 ## Từ phía sau (phiên bản sửa đổi) {#From_the_back_(revised_edition)}
 
-Là một học giả về văn học trung cổ và đặc biệt là người yêu thích thần thoại Đức và Phần Lan, J.R.R. Tolkien “đau buồn trước sự nghèo nàn” về truyền thuyết, thần thoại trong chính nền văn hóa thân yêu của mình. Lấy cảm hứng từ các tác phẩm như *Beowulf* và *Sir Gawain and the Green Knight*, tiểu thuyết của Tolkien dựa vào cả sử thi ngoại giáo và truyền thuyết Cơ đốc giáo để tạo ra một thần thoại cho nước Anh hiển hiện rõ ràng trong cả các tác phẩm hư cấu chính như bộ ba tiểu thuyết *Lord of the Rings* cũng như các câu chuyện phụ và tiểu luận phê bình của ông. Được sửa đổi và mở rộng, nghiên cứu của Jane Chane xem xét các nguồn gốc và ảnh hưởng từ các tác phẩm của Tolkien cũng như mô hình của nhà phê bình như một con quái vật tô điểm cho rất nhiều tác phẩm của ông. <span></span>
+Là một học giả về văn học trung cổ và đặc biệt là người yêu thích thần thoại Đức và Phần Lan, J.R.R. Tolkien “đau buồn trước sự nghèo nàn” về truyền thuyết, thần thoại trong chính nền văn hóa thân yêu của mình. Lấy cảm hứng từ các tác phẩm như *Beowulf* và *Sir Gawain and the Green Knight*, tiểu thuyết của Tolkien dựa trên cả sử thi ngoại giáo và truyền thuyết Cơ đốc giáo để tạo ra một thần thoại về nước Anh hiển hiện rõ ràng trong cả các tác phẩm tiểu thuyết chính như bộ ba tiểu thuyết *Lord of the Rings* cũng như các câu chuyện phụ và tiểu luận phê bình của ông. Được sửa đổi và mở rộng, nghiên cứu của Jane Chane xem xét các nguồn và ảnh hưởng từ các tác phẩm của Tolkien cũng như mô hình coi nhà phê bình như một con quái vật tô điểm cho rất nhiều tác phẩm của ông. <span></span>
 
 ## Tài liệu tham khảo {#References}
 
 <small> </small>
 
-<small><dl><dd><dl><dd><ul><li><a href="../_/Åke_Bertenstam.md" title="Åke Bertenstam">Åke Bertenstam</a>, <i><a class="external text" href="http://www.forodrim.org/bibliography/tolklist.html" rel="noreferrer noopener" target="_blank">Thư mục theo trình tự thời gian của các cuốn sách về Tolkien</a></i></li></ul></dd></dl></dd></dl></small>
+<small><dl><dd><dl><dd><ul><li><a href="../_/Åke_Bertenstam.md" title="Åke Bertenstam">Åke Bertenstam</a>, <i><a class="external text" href="http://www.forodrim.org/bibliography/tolklist.html" rel="noreferrer noopener" target="_blank">Thư mục theo trình tự thời gian về các cuốn sách về Tolkien</a></i></li></ul></dd></dl></dd></dl></small>
 
 <small></small>
 

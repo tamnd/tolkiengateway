@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Third Age 397"
 ---
 
-Chuyển hướng tới [Kỷ Đệ Tam 397](Third_Age_397.md).
+Chuyển hướng tới [Thời đại thứ ba 397](Third_Age_397.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Following Gandalf: Epic Battles and Moral Victory in The Lord of the Rings"
 ---
 
-Chuyển hướng tới [Phần tiếp theo Gandalf: Những trận chiến lịch sử và chiến thắng đạo đức trong The Lord of the Rings](Following_Gandalf%253A_Epic_Battles_and_Moral_Victory_in_The_Lord_of_the_Rings.md).
+Chuyển hướng đến [Following Gandalf: Epic Battles and Moral Victory in The Lord of the Rings](Following_Gandalf%253A_Epic_Battles_and_Moral_Victory_in_The_Lord_of_the_Rings.md).

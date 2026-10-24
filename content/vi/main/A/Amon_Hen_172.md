@@ -45,7 +45,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/AmonHen172.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/90/AmonHen172.jpg/320px-AmonHen172.jpg" decoding="async" loading="lazy" width="320" height="456" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/90/AmonHen172.jpg/480px-AmonHen172.jpg 1.5x, https://tolkiengateway.net/w/images/9/90/AmonHen172.jpg 2x" data-file-width="576" data-file-height="821"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Amon Hen 172</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="Andrew_Butler.md" title="Andrew Butler">Andrew Butler</a></td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data">Emma Campbell</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Printer</th><td class="tg-infobox-data">Centurion Press, Rickmansworth</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">November <a href="../_/2001.md" title="2001">2001</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">A5 stapled paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">44</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0306-8781</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Amon_Hen_171.md" title="Amon Hen 171">Amon Hen 171</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Amon_Hen_173.md" title="Amon Hen 173">Amon Hen 173</a></td></tr></tbody></table>
 
-<b><i>Amon Hen</i> 172</b> là số một trăm bảy mươi giây của tạp chí hai tháng một lần của [Hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, xuất bản vào tháng 11 [2001](../_/2001.md).
+<b><i>Amon Hen</i> 172</b> là số một trăm bảy mươi giây của tạp chí hai tháng một lần của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, xuất bản vào tháng 11 [2001](../_/2001.md).
 
 ## Nội dung {#Contents}
 
@@ -54,7 +54,7 @@ infobox:
 - Biên tập
     - Bởi: [Andrew Butler](Andrew_Butler.md)
 - Nội dung
-- Bywater Thông báo
+- Thông báo bên bờ nước
     - Bởi: Malcolm Lindley
 - Thông báo
 - Đánh giá: *[Lord of the Rings Board Game](<../L/Lord_of_the_Rings_(board_game).md>)*
@@ -70,7 +70,7 @@ infobox:
 - Thư pháp máy tính: *Namárië!*
     - Bởi: [Daniel S. Smith](../D/Dan_Smith.md)
 - Thông báo Hội nghị năm 2005
-- Tolkien Lấy cảm hứng
+- Lấy cảm hứng từ Tolkien
     - Bởi: David Klingman
 - Bài thơ: *Hail The Conquering Heroes*
     - Bởi: David Vale
@@ -80,11 +80,11 @@ infobox:
     - Bởi: Carol Hart
 - Xã hội ở Mỹ
     - Bởi: Jennifer Guthrie
-- Việc đặt tên cho một Smial ở NY & Ý nghĩa của Parma Nole
+- Việc đặt tên cho một nụ cười ở NY & Ý nghĩa của Parma Nole
     - Bởi: Anthony S. Burdge
 - Một ô chữ nhỏ quái đản - Lời giải
     - Bởi: Michael Kennedy
-- Câu đố: Tolkien Nguy hiểm
+- Câu đố: Nguy hiểm của Tolkien
     - Bởi: Roseanne Daniello
 - Quảng cáo: Peter Roe 12 - *[Sindarin Lexicon](../S/Sindarin_Lexicon.md)*
 - Đánh giá: *[LotR Official Movie Guide](../T/The_Lord_of_the_Rings%253A_Official_Movie_Guide.md)* của Brian Sibley
@@ -102,7 +102,7 @@ infobox:
     - Bởi: Kim Mantas
 - Hồ sơ thành viên
     - Bởi: Dale James Nelson
-- Tolkien Đáp án câu đố nguy hiểm
+- Câu trả lời cho câu hỏi trắc nghiệm về mối nguy hiểm của Tolkien
     - Bởi: Roseanne Daniello
 - Toán học
     - Bởi: Mark Waller

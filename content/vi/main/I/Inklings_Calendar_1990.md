@@ -15,6 +15,6 @@ sort_keys:
   "Calendars (real-world)": "1990, Inklings"
 ---
 
-**Inklings Lịch 1990** được xuất bản bởi Three Candle Press và có thư pháp của <a class="new" href="https://tolkiengateway.net/w/index.php?title=Joanne_E._Klein&amp;action=edit&amp;redlink=1" title="Joanne E. Klein (page does not exist)">Joanne E. Klein</a>.
+**Lịch Inklings 1990** được xuất bản bởi Three Candle Press và có thư pháp của <a class="new" href="https://tolkiengateway.net/w/index.php?title=Joanne_E._Klein&amp;action=edit&amp;redlink=1" title="Joanne E. Klein (page does not exist)">Joanne E. Klein</a>.
 
 - Kích thước: 11 x 8,5 inch

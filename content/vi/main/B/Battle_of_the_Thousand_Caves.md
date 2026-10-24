@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Battle in the Thousand Caves"
 ---
 
-Chuyển hướng đến [Trận chiến trong Ngàn Hang Động](Battle_in_the_Thousand_Caves.md).
+Chuyển hướng đến [Trận chiến trong ngàn hang động](Battle_in_the_Thousand_Caves.md).

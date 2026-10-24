@@ -42,9 +42,9 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Simonne d&#39;Ardenne</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Born</th><td class="tg-infobox-data"><a href="../_/1899.md" title="1899">1899</a></td></tr><tr><th scope="row" class="tg-infobox-label">Died</th><td class="tg-infobox-data"><a href="../_/1986.md" title="1986">1986</a></td></tr><tr><th scope="row" class="tg-infobox-label">Education</th><td class="tg-infobox-data">Oxford, University of Liège</td></tr><tr><th scope="row" class="tg-infobox-label">Occupation</th><td class="tg-infobox-data">Academic, author</td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">Belgium</td></tr></tbody></table>
 
-**Simonne Rosalie Thérèse Odile d'Ardenne** ([1899](../_/1899.md)-[1986](../_/1986.md); *S.R.T.O.* hoặc đôi khi *S.T.R.O.*) là một nhà ngữ văn thời trung cổ người Bỉ, người đã nghiên cứu [tiếng Anh trung cổ](../M/Middle_English.md) với [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) trong những năm 1930,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và trở thành Giáo sư Ngữ pháp so sánh tại Đại học Liège ở 1938.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Simonne Rosalie Thérèse Odile d'Ardenne** ([1899](../_/1899.md)-[1986](../_/1986.md); *S.R.T.O.* hoặc đôi khi *S.T.R.O.*) là một nhà ngữ văn người Bỉ thời trung cổ, người đã nghiên cứu [tiếng Anh trung cổ](../M/Middle_English.md) với [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) trong những năm 1930,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và trở thành Giáo sư Ngữ pháp so sánh tại Đại học Liège ở 1938.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-D'Ardenne trở thành bạn thân của gia đình Tolkien và J.R.R. đã đến thăm cô ở Bỉ vào những năm 1950.
+D'Ardenne trở thành bạn thân của gia đình Tolkien và J.R.R. đã đến thăm bà ở Bỉ vào những năm 1950.
 
 ## Thư mục, đã chọn {#Bibliography,_selected}
 

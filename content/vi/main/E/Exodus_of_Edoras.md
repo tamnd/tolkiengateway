@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Exodus From Edoras"
 ---
 
-Chuyển hướng tới [Xuất hành từ Edoras](Exodus_From_Edoras~45963.md).
+Chuyển hướng đến [Cuộc di cư từ Edoras](Exodus_From_Edoras~45963.md).

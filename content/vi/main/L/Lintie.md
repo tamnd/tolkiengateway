@@ -21,7 +21,7 @@ Thân \**lint* (có thể là tính từ *[linta](Linta.md)*) có đuôi danh t�
 
 ## Các hình thức khác {#Other_forms}
 
-- *lintieryanen* "với tốc độ của anh ấy" (norne a lintieryanen)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+- *lintieryanen* "với tốc độ của ông" (norne a lintieryanen)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}
 

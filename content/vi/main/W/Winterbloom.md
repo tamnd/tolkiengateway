@@ -35,7 +35,7 @@ infobox:
 <p class="tg-quote-footer"><cite><a href="../G/Glóin.md" title="Glóin">Glóin</a></cite></p>
 </blockquote></div></div>
 
-Winterbloom là một [Entwife](../E/Entwives.md) xuất hiện cùng với [Ent](../E/Entwives.md) [Snaggleroot](../S/Snaggleroot.md). Cô được tạo ra cho *[The Lord of the Rings: The Rings of Power](../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)* loạt phim truyền hình bởi [Amazon Studios](../A/Amazon_Studios.md), nơi cô xuất hiện trong mùa thứ hai của chương trình. Cô ấy được lồng tiếng bởi Olivia Williams.
+Winterbloom là một [Entwife](../E/Entwives.md) xuất hiện cùng với [Ent](../E/Entwives.md) [Snaggleroot](../S/Snaggleroot.md). Cô được tạo ra cho *[The Lord of the Rings: The Rings of Power](../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)* loạt phim truyền hình bởi [Amazon Studios](../A/Amazon_Studios.md), nơi cô xuất hiện trong mùa thứ hai của chương trình. Bà được lồng tiếng bởi Olivia Williams.
 
 ## Lịch sử {#History}
 

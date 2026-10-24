@@ -31,13 +31,13 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien đã đọc nhanh hai tập ba tập do Tiller gửi cho anh và quyết định đưa ra một số nhận xét trước khi quá muộn. Ông không đưa ra lời chỉ trích chi tiết và chúc nỗ lực của Tiller thành công.
+Tolkien đã đọc nhanh hai tập phim do Tiller gửi cho ông và quyết định đưa ra một số nhận xét trước khi quá muộn. Ông không đưa ra lời chỉ trích chi tiết và chúc nỗ lực của Tiller thành công.
 
-Tuy nhiên, trong một cuộc trò chuyện riêng Tolkien muốn biết tại sao cuốn sách của anh ấy lại bị đối xử như vậy. Ông tin rằng những thính giả chưa đọc sách sẽ không thể hiểu được chuyện gì đang xảy ra. Theo ý kiến ​​của Tolkien, văn bản đã được rút gọn thành những thuật ngữ đơn giản. Cuốn sách không phù hợp để trình bày một cách kịch tính trừ khi nó có nhiều khoảng trống. Nếu không còn chỗ, tại sao không từ chối?
+Tuy nhiên, trong một cuộc trò chuyện riêng tư, Tolkien muốn biết tại sao cuốn sách của ông lại bị đối xử như vậy. Ông tin rằng những thính giả chưa đọc sách sẽ không thể hiểu được chuyện gì đang xảy ra. Theo quan điểm của Tolkien, văn bản đã được rút gọn thành những thuật ngữ đơn giản. Cuốn sách không phù hợp để trình bày một cách kịch tính trừ khi nó có nhiều khoảng trống. Nếu không còn chỗ, tại sao không từ chối?
 
-Trong khi Tolkien cảm thấy hãnh diện và hài lòng khi được mọi người chú ý đến cuốn sách, anh ấy hỏi tại sao lại trình bày nó theo hình thức này? Nghệ thuật đọc cũ hơn sẽ tốt hơn kịch, tập trung vào đối thoại và loại bỏ bối cảnh. Tolkien kêu gọi sự chú ý đến hai điểm: Cảnh nến xác chết đã bị cắt đến mức không hiệu quả và sự ăn năn gần như của [Gollum](../G/Gollum.md) gần như biến mất. Cả khung cảnh và nhân vật đều trở nên phẳng lặng. Một người kể chuyện sẽ thú vị hơn với người nghe và công bằng hơn với tác giả.
+Trong khi Tolkien rất vui và hài lòng khi được chú ý đến cuốn sách, ông hỏi tại sao lại trình bày nó dưới hình thức này? Nghệ thuật đọc cũ hơn sẽ tốt hơn kịch, tập trung vào đối thoại và loại bỏ bối cảnh. Tolkien kêu gọi sự chú ý đến hai điểm: Cảnh những ngọn nến xác chết đã bị cắt đến mức không hiệu quả và sự ăn năn gần như của [Gollum](../G/Gollum.md) gần như biến mất. Cả khung cảnh và nhân vật đều trở nên phẳng lặng. Một người kể chuyện sẽ thú vị hơn với người nghe và công bằng hơn với tác giả.
 
-Tolkien thừa nhận thiếu kinh nghiệm trong lĩnh vực này. Anh ta không chỉ trích văn bản của Tiller mà thở dài vì điều gì đó khác. Nhưng liệu một câu chuyện được kể bằng sử thi có thể được diễn lại thành công thành một vở kịch không? <br>
+Tolkien thừa nhận thiếu kinh nghiệm trong lĩnh vực này. Ông ta không chỉ trích văn bản của Tiller mà thở dài vì điều gì đó khác. Nhưng liệu một câu chuyện được kể bằng sử thi có thể được diễn lại thành công thành một vở kịch không? <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

@@ -24,4 +24,4 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span><i>Quettar</i>: Issue 7</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Pillinger</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Tolkien Society</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../M/March.md" title="March">March</a> <a href="../_/1981.md" title="1981">1981</a></td></tr></tbody></table>
 
-<b><i>Quettar</i>: Số 7</b> là ấn phẩm của *[Quettar](Quettar.md)*, bản tin của nhóm [ngôn ngữ Tolkien Xã hội](../T/The_Tolkien_Society.md) và Tengwar, do Pillinger biên tập và bao gồm cả Tengwar Số bổ sung 4, do Steve Pillinger biên tập.
+<b><i>Quettar</i>: Số 7</b> là ấn phẩm của *[Quettar](Quettar.md)*, bản tin của nhóm ngôn ngữ học và Tengwar của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md), do Pillinger biên tập và bao gồm cả Ấn bản bổ sung Tengwar số 4, do Steve Pillinger biên tập.

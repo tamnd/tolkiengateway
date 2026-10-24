@@ -12,7 +12,7 @@ categories:
   - "Tengwar"
 ---
 
-**Chế độ Beleriand** là chế độ [Tengwar](Tengwar.md) sử dụng các chữ cái đầy đủ cho nguyên âm thay vì [tehtar](Tehtar.md).
+**Chế độ Beleriand** là một chế độ [Tengwar](Tengwar.md) sử dụng các chữ cái đầy đủ cho nguyên âm thay vì [tehtar](Tehtar.md).
 
 ## Bảng {#Table}
 
@@ -211,19 +211,19 @@ categories:
 
 ## Lịch sử {#History}
 
-Lịch sử của chế độ này không được biết nhưng tên cho thấy nó đã phát triển trong [Kỷ Đệ Nhất](../F/First_Age.md), vào [Beleriand](../B/Beleriand.md), khi [Noldor](../N/Noldor.md) chuyển sang [Trung Địa](../M/Middle-earth.md); chúng tôi được biết rằng họ đã bị Vua [Elu Thingol](Thingol.md) cấm sử dụng Quenya<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[1]</a></sup> và buộc phải chấp nhận [Sindarin](../S/Sindarin.md).
+Lịch sử của chế độ này không được biết rõ nhưng cái tên cho thấy nó đã phát triển vào [Thời đại thứ nhất](../F/First_Age.md), trên [Beleriand](../B/Beleriand.md), khi [Noldor](../N/Noldor.md) đến [Trung địa](../M/Middle-earth.md); chúng tôi được biết rằng họ đã bị Vua [Elu Thingol](Thingol.md) cấm sử dụng Quenya<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[1]</a></sup> và buộc phải nhận nuôi [Sindarin](../S/Sindarin.md).
 
-Thông thường, họ thích nghi Tengwar với ngôn ngữ mới của mình, tận dụng tính linh hoạt vốn có của họ đối với các âm khác, có thể bắt chước cách [Falmari](../F/Falmari.md) của [Eldamar](../E/Eldamar.md) thể hiện các âm [Telerin](Telerin.md) không tồn tại trong [Quenya](../Q/Quenya.md). Vì một số lý do khó hiểu mà chúng tôi không biết, họ nhận thấy chế độ tehta thông thường nhất không phù hợp với Sindarin và do đó, họ cũng lấy ví dụ về Fëanorian [Quanta Sarmë](../Q/Quanta_Sarmë.md) ban đầu, sử dụng tengwar riêng biệt cho nguyên âm.
+Thông thường, họ điều chỉnh Tengwar theo ngôn ngữ mới của mình, tận dụng tính linh hoạt vốn có của họ đối với các âm thanh khác, có thể bắt chước cách [Falmari](../F/Falmari.md) của [Eldamar](../E/Eldamar.md) thể hiện các âm [Telerin](Telerin.md) không tồn tại trong [Quenya](../Q/Quenya.md). Vì một số lý do khó hiểu mà chúng tôi không biết, họ nhận thấy dạng tehta thông thường nhất không phù hợp với Sindarin, và do đó họ cũng lấy ví dụ về Fëanorian [Quanta Sarmë](../Q/Quanta_Sarmë.md) ban đầu, sử dụng tengwar riêng biệt cho các nguyên âm.
 
-Chế độ Beleriand dường như đã được nắm giữ "theo truyền thống" bởi Noldor những người được thành lập ở [Eregion](../E/Eregion.md) trong [Kỷ nguyên thứ hai](../S/Second_Age.md), như được thấy trên [Phương Tây-gate](../W/West-gate.md) của [Moria](../M/Moria.md) Dòng chữ được viết bởi [Celebrimbor](../C/Celebrimbor.md).<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[2]</a></sup> Sau khi Eregion bị phá hủy ở [S.A.](../S/Second_Age.md) [1697](../S/Second_Age_1697.md), Noldor đã di chuyển sang [Imladris](../R/Rivendell.md),<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[3]</a></sup> trong đó Chế độ Beleriand có thể đã được sử dụng ngay cả cho đến [Kỷ Đệ Tam](Third_Age.md).<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[4]</a></sup>
+Chế độ Beleriand dường như đã được nắm giữ "theo truyền thống" bởi Noldor, những người được thành lập ở [Ezone](../E/Eregion.md) trong [Thời đại thứ hai](../S/Second_Age.md), như được thấy trên [cổng phía Tây](../W/West-gate.md) của [Moria](../M/Moria.md) Dòng chữ được viết bởi [Celebrimbor](../C/Celebrimbor.md).<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[2]</a></sup> Sau khi Ezone bị phá hủy ở [S.A.](../S/Second_Age.md) [1697](../S/Second_Age_1697.md), người Noldor đã di cư đến [Imladris](../R/Rivendell.md),<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[3]</a></sup> nơi Chế độ Beleriand có lẽ đã được sử dụng cho đến tận [Thời đại thứ ba](Third_Age.md).<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[4]</a></sup>
 
 ## Cấu trúc {#Structure}
 
-Có vẻ như các loa Sindarin chỉ được sử dụng cho 3 trong số 5 [témar](Témar.md) vì Sindarin thiếu âm thanh vòm hóa (*ly, ny, ty*) của Quenya cũng như âm thanh *qu*được môi hóa.
+Có vẻ như những người nói tiếng Sindarin chỉ được sử dụng cho 3 trong số 5 [témar](Témar.md) vì tiếng Sindarin thiếu các âm vòm hóa (*ly, ny, ty*) của Quenya cũng như các âm *qu* được môi hóa.
 
 ### Nguyên âm {#Vowels}
 
-Trong số [Quessetéma](../Q/Quessetéma.md), [Wilya](<../V/Vilya_(word).md>) được sử dụng cho trận chung kết -*u* (hoặc -*w*). Ngoài ra còn có một *a*-tengwa được gọi là [Osse](../O/Osse.md), không tương ứng với bất kỳ cái nào cũ hơn được biết đến từ Quenya; nó có thể đã được nhập từ một bán nguyên âm Quenya mà chúng tôi chưa biết, thuộc về Quanta-Sarme.
+Trong số [Quessetéma](../Q/Quessetéma.md), [Wilya](<../V/Vilya_(word).md>) được sử dụng cho trận chung kết -*u* (hoặc -*w*). Ngoài ra còn có một *a*-tengwa được gọi là [Osse](../O/Osse.md), không tương ứng với bất kỳ cái nào cũ hơn được biết đến từ Quenya; nó có thể được nhập từ một bán nguyên âm Quenya mà chúng ta không biết, thuộc về Quanta-Sarme.
 
 Các sóng mang cũng lấy các giá trị nguyên âm: [telco](Telco.md) được sử dụng cho *i*, trong khi sóng mang dài có thể được sử dụng cho âm thanh đầu bán phụ âm *y-* (hoặc *i-* như trong *Ioreth*).<sup id="cite_ref-KL_14-0" class="reference"><a href="#cite_note-KL-14">[5]</a></sup>
 
@@ -233,11 +233,11 @@ Nguyên âm đôi được thể hiện bằng tehtar. Hai <a class="new" href="
 
 ### Phụ âm hóa thành {#Labialised_consonants}
 
-Ở chế độ Quenya, các phụ âm được môi hóa (*kw*, *ngw*, v.v.) thuộc về Quessetéma. Có thể Chế độ của Beleriand đã sử dụng <a class="new" href="https://tolkiengateway.net/w/index.php?title=W-tehta&amp;action=edit&amp;redlink=1" title="W-tehta (page does not exist)"><i>w</i>-tehta</a> <span class="tg-tengwar tg-tengwar--tengwar_eldamar">è</span> trên các phụ âm cho điều này (<i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Edwen&amp;action=edit&amp;redlink=1" title="Edwen (page does not exist)">edwen</a></i>, có lẽ sẽ được viết ở đây là <span class="tg-tengwar tg-tengwar--tengwar_eldamar">l2èl6</span>).<sup id="cite_ref-KL_14-1" class="reference"><a href="#cite_note-KL-14">[5]</a></sup>
+Trong chế độ Quenya, các phụ âm được môi hóa (*kw*, *ngw*, v.v.) thuộc về Quessetéma. Có thể Chế độ Beleriand đã sử dụng <a class="new" href="https://tolkiengateway.net/w/index.php?title=W-tehta&amp;action=edit&amp;redlink=1" title="W-tehta (page does not exist)"><i>w</i>-tehta</a> <span class="tg-tengwar tg-tengwar--tengwar_eldamar">è</span> trên các phụ âm cho điều này (<i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Edwen&amp;action=edit&amp;redlink=1" title="Edwen (page does not exist)">edwen</a></i>, có lẽ sẽ được viết ở đây là <span class="tg-tengwar tg-tengwar--tengwar_eldamar">l2èl6</span>).<sup id="cite_ref-KL_14-1" class="reference"><a href="#cite_note-KL-14">[5]</a></sup>
 
 ### Xịt mũi {#Nasalization}
 
-[Anto](../A/Anto.md), [Ampa](../A/Ampa.md) và các chữ cái khác được sử dụng cho các điểm dừng được tạo mũi trong Quenya có các giá trị khác nhau. Dấu ngã được sử dụng trước khi dừng lại khi mũi hóa. (*mb*, <span class="tg-tengwar tg-tengwar--tengwar_eldamar">wP</span>)
+[Anto](../A/Anto.md), [Ampa](../A/Ampa.md) và các chữ cái khác dùng cho các điểm dừng được tạo mũi ở Quenya có các giá trị khác nhau. Dấu ngã được sử dụng trước khi dừng lại khi mũi hóa. (*mb*, <span class="tg-tengwar tg-tengwar--tengwar_eldamar">wP</span>)
 
 ### Chiều dài {#Length}
 
@@ -247,7 +247,7 @@ Tehta được dùng để biểu thị các nguyên âm dài, một giọng c�
 
 ## Ví dụ {#Examples}
 
-Mẫu được biết đến nhiều nhất của Chế độ Beleriand tất nhiên là Dòng chữ [Phương Tây-gate](../W/West-gate.md) của Moria, được viết bởi Celebrimbor của Eregion; điều này cho thấy rằng Chế độ này đã được Noldor duy trì ở đó.
+Tất nhiên, mẫu được biết đến nhiều nhất về Chế độ Beleriand là Dòng chữ của [cổng phía Tây](../W/West-gate.md) của Moria, được viết bởi Celebrimbor của Ezone; điều này cho thấy rằng Chế độ này đã được Noldor bảo tồn ở đó.
 
 <blockquote>
 <p><span class="tg-tengwar tg-tengwar--tengwar_eldamar">- l5I6 2.7`6 ]7]6 yh7`] - ql2h yljjh6 ] y`5h -
@@ -257,7 +257,7 @@ Mẫu được biết đến nhiều nhất của Chế độ Beleriand tất nh
 <p>Ennyn Durin Aran Moria. Pedo mellon a minno.<br/>
 Im Narvi hain echant. Celebrimbor o Eregion teithant i-thîw hin.</p></blockquote>
 
-[Elbereth Gilthoniel](../A/A_Elbereth_Gilthoniel.md) là một [aerlinn](../A/Aerlinn.md) của Tiên tộc của Imladris. Imladris là nơi sinh sống của những người tị nạn Eregion<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[7]</a></sup> và là một trong những nơi có thể đã giữ Chế độ Beleriand, ngay cả ở Thời đại thứ 3.
+[Elbereth Gilthoniel](../A/A_Elbereth_Gilthoniel.md) là một [aerlinn](../A/Aerlinn.md) của Yêu tinh ở Imladris. Imladris là nơi sinh sống của những người tị nạn Ezone<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[7]</a></sup> và là một trong những nơi có thể đã duy trì Chế độ Beleriand, ngay cả ở Thời đại thứ 3.
 
 <table>
 <tbody><tr>
@@ -299,21 +299,21 @@ Im Narvi hain echant. Celebrimbor o Eregion teithant i-thîw hin.</p></blockquot
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Chữ cái này không được chứng thực trong bất kỳ văn bản Sindarin nào, cũng không phải là âm thanh mà nó thể hiện về mặt lý thuyết, nhưng chúng ta có thể đưa ra giả thuyết rằng âm thanh này đã tồn tại từ rất sớm Sindarin (<i>g</i> biến mất ở giữa các từ thông qua âm thanh này. Xem đầu Quenya <i><a href="../Y/Yogh.md" title="Yogh">ȝ</a></i>). Nếu Noldor xuất hiện Trung Địa khi âm thanh này vẫn còn tồn tại, rất có thể họ đã đại diện cho nó bằng tengwa này, trước khi cuối cùng biến mất. Xem thêm <a class="new" href="https://tolkiengateway.net/w/index.php?title=Gasdil&amp;action=edit&amp;redlink=1" title="Gasdil (page does not exist)">Gasdil</a>.</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Chữ cái này không được chứng thực trong bất kỳ văn bản tiếng Sindarin nào, cũng không phải là âm mà nó thể hiện về mặt lý thuyết, nhưng chúng ta có thể đưa ra giả thuyết rằng âm thanh này đã tồn tại từ rất sớm trong tiếng Sindarin (<i>g</i> biến mất ở giữa các từ thông qua âm thanh này. Xem đầu Quenya <i><a href="../Y/Yogh.md" title="Yogh">ȝ</a></i>). Nếu người Noldor đến Trung Địa khi âm thanh này vẫn còn tồn tại thì rất có thể họ đã đại diện cho nó bằng tengwa này, trước khi cuối cùng biến mất. Xem thêm <a class="new" href="https://tolkiengateway.net/w/index.php?title=Gasdil&amp;action=edit&amp;redlink=1" title="Gasdil (page does not exist)">Gasdil</a>.</span>
 </li>
-<li id="cite_note-MN-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-MN_2-0">2.0</a></sup> <sup><a href="#cite_ref-MN_2-1">2.1</a></sup></span> <span class="reference-text">Do có lúvar gấp đôi nên các tengwar đó được coi là dạng kéo dài của Vala và Órë, có giá trị tương ứng là <i>m</i> và <i>n</i>.</span>
+<li id="cite_note-MN-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-MN_2-0">2.0</a></sup> <sup><a href="#cite_ref-MN_2-1">2.1</a></sup></span> <span class="reference-text">Do có lúvar gấp đôi nên những tengwar đó được coi là dạng kéo dài của Vala và Órë, có giá trị tương ứng là <i>m</i> và <i>n</i>.</span>
 </li>
 <li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Có thể dành cho câu mở đầu và câu cuối <i>w</i> (ví dụ: <i><a class="mw-redirect" href="Tawarwaith.md" title="Tawarwaith">tawarwaith</a></i>, <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Tew&amp;action=edit&amp;redlink=1" title="Tew (page does not exist)">tiw</a></i>). Nếu đúng như vậy thì không nên sử dụng nó cho nguyên âm đôi <i>au</i> (đánh vần cuối cùng là -<i>aw</i>).</span>
 </li>
-<li id="cite_note-AA-4"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-AA_4-0">4.0</a></sup> <sup><a href="#cite_ref-AA_4-1">4.1</a></sup></span> <span class="reference-text">Những chữ cái này được sử dụng cho các âm thanh nhẹ ban đầu <i>rh</i> và <i>lh</i> (đánh vần là <i>hr</i> và <i>hl</i> trong Quenya).</span>
+<li id="cite_note-AA-4"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-AA_4-0">4.0</a></sup> <sup><a href="#cite_ref-AA_4-1">4.1</a></sup></span> <span class="reference-text">Những chữ cái này được sử dụng cho các âm thanh nhẹ ban đầu <i>rh</i> và <i>lh</i> (đánh vần <i>hr</i> và <i>hl</i> trong Quenya).</span>
 </li>
-<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text">Bức thư này (trước đây là Ázë) đã trở thành <i>ss</i> cho <a class="mw-redirect" href="../Q/Quenya_mode.md" title="Quenya mode">Quenya viết</a>. Nhưng không biết cái nào lấy nó từ cái nào. Có hai xác suất bằng nhau</span>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text">Bức thư này (trước đây là Ázë) đã trở thành <i>ss</i> cho <a class="mw-redirect" href="../Q/Quenya_mode.md" title="Quenya mode">viết Quenya</a>. Nhưng không biết cái nào lấy nó từ cái nào. Có hai xác suất bằng nhau</span>
 </li>
 <li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text">Sindarin không có âm thanh vòm hóa. <i>hy</i> đã trở thành <i>h</i>. Hyarmen được sử dụng để tạo ra âm thanh nhẹ nhàng này, đừng nhầm lẫn với <i>ch</i>.</span>
 </li>
-<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text">Bức thư bí ẩn này, được cho là có giá trị <i>hw</i>, chưa bao giờ xuất hiện trong bất kỳ văn bản Sindarin nào. Không biết tại sao nó lại được sử dụng thay vì Hwesta và khi nào. Sau này có lẽ nó đã được sử dụng nhiều trong các chế độ <a href="../M/Mannish.md" title="Mannish">Mannish</a>, trong đó Hwesta được sử dụng cho âm thanh <i>ch</i> hoặc <i>chw</i>.</span>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text">Bức thư bí ẩn này, được cho là có giá trị <i>hw</i>, chưa bao giờ xuất hiện trong bất kỳ văn bản tiếng Sindarin nào. Không biết tại sao nó lại được sử dụng thay vì Hwesta và khi nào. Sau này có lẽ nó đã được sử dụng nhiều trong các chế độ <a href="../M/Mannish.md" title="Mannish">Mannish</a>, trong đó Hwesta được sử dụng cho âm thanh <i>ch</i> hoặc <i>chw</i>.</span>
 </li>
-<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text">Âm thanh <i>g</i> được biểu thị bằng một dấu hiệu có tên Gasdil, là sự phát triển của chữ cái <a href="../H/Halla.md" title="Halla">Halla</a>. Nó được sử dụng giống như dấu nháy đơn, để biểu thị <i>g</i>bị thiếu: <i><a href="../G/Galadh.md" title="Galadh">galadh</a></i>, "cây", nhưng <i>i ‘aladh</i>, "cái cây"</span>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text">Âm thanh <i>g</i> được cho biết bằng một ký hiệu tên là Gasdil, là sự phát triển của chữ cái <a href="../H/Halla.md" title="Halla">Halla</a>. Nó được sử dụng giống như dấu nháy đơn, để biểu thị <i>g</i>bị thiếu: <i><a href="../G/Galadh.md" title="Galadh">galadh</a></i>, "cây", nhưng <i>i 'aladh</i>, "cái cây"</span>
 </li>
 <li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text">Bức thư gốc này tương tự như Silme Nuquerna tuy nhiên nó có hình dạng khác. Âm thanh mà nó thể hiện là nguyên âm <i>y</i> (đừng nhầm với phụ âm Quenya <i>y</i> trong <i>yulma</i>)</span>
 </li>

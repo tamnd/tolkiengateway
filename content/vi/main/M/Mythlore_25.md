@@ -39,40 +39,40 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mythlore_25.gif.md"><img src="https://tolkiengateway.net/w/images/f/f3/Mythlore_25.gif" decoding="async" loading="lazy" width="225" height="291" class="mw-file-element" data-file-width="225" data-file-height="291"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mythlore 25</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Gracia Fay Ellword, <a href="../G/Glen_GoodKnight.md" title="Glen GoodKnight">Glen GoodKnight</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Autumn <a href="../_/1980.md" title="1980">1980</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">47</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mythlore_24.md" title="Mythlore 24">Mythlore 24</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mythlore_26.md" title="Mythlore 26">Mythlore 26</a></td></tr></tbody></table>
 
-<b><i>Mythlore</i> 25</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol7/iss3/" rel="noreferrer noopener" target="_blank">Tập 7, Số 3</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
+<b><i>Thần thoại</i> 25</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol7/iss3/" rel="noreferrer noopener" target="_blank">Tập 7, Số 3</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, được xuất bản bởi [Hiệp hội Thần thoại](Mythopoeic_Society.md).
 
 ## Nội dung {#Contents}
 
 #### Bài viết {#Articles}
 
-- Patterson, Nancy-Lou. “Sự đánh giá cao về Pauline Baynes.”
-- Walker, Steven C. “Việc tạo ra một Hobbit: Kỹ thuật kể chuyện trêu ngươi của Tolkien.”
-- Khô khan, Rogery. “Thần quan ở Elrond's Hội đồng.”
+- Patterson, Nancy-Lou. “Một sự đánh giá cao của Pauline Baynes.”
+- Walker, Steven C. “The Making of a Hobbit: Tolkien’s Tantalizing Narrative Technique.”
+- Drury, Rogery. “Providence at Elrond’s Council.”
 - Patterson, Nancy-Lou. “Người chủ thiên đường: Chiêm tinh và những hình ảnh khác về thần thánh trong tưởng tượng của C.S. Lewis (Phần 1).”
-- Morse, Robert E. “Những Chiếc Nhẫn Quyền Năng trong Plato và Tolkien.”
-- Schweitzer, Darrell. “Tiểu thuyết của Lãnh chúa Dunsany.”
+- Morse, Robert E. “Rings of Power in Plato and Tolkien.”
+- Schweitzer, Darrell. “The Novels of Lord Dunsany.”
 
 #### Thơ {#Poetry}
 
-- Carter, Margaret L. “Thực hành hiện diện.”
-- Egan, Thomas M. “Vương quốc lúc nửa đêm.”
-- Egan, Thomas M. “Lâu đài cát của Biển.”
+- Carter, Margaret L. “The Practice of Presence.”
+- Egan, Thomas M. “The Midnight Realm.”
+- Egan, Thomas M. “Sand Castles by the Sea.”
 
 #### Tính năng {#Features}
 
 - Ellwood, Gracia Fay. Biên tập.
-Bài xã luận - GoodKnight, Glen H. Managing.
-- Christopher, Joe R. An Inklings Thư mục (14).
-- Speth, Lee. “Điều trị ung dung: Lời nguyền và đoàn lữ hành.”
+- GoodKnight, Glen H. Managing Editorial.
+- Christopher, Joe R. An Inklings Bibliography (14).
+- Speth, Lee. “Cavalier Treatment: Curses and Caravans.”
 - Thư.
 
 #### Đánh giá {#Reviews}
 
-- *Chúa tể của những chiếc nhẫn - Phần 1 (phim)*. Ralph Bakshi. Được đánh giá bởi Jessica Yates.
+- *Chúa tể những chiếc nhẫn - Phần 1 (phim)*. Ralph Bakshi. Được đánh giá bởi Jessica Yates.
 - *A Reader's Guide to The Silmarillion*. Paul H. Kocher. Được đánh giá bởi Nancy-Lou Patterson.
 - *Dancing in the Dragon's Jaws (album)*. Bruce Cockburn. Được đánh giá bởi Gord Wilson.
 - *Metropolis*. Thea von Harbou. Được đánh giá bởi Thomas M. Egan.
-- *Một Nhẫn để trói buộc tất cả: Thần thoại của Tolkien.* Anne C. Petty. Được đánh giá bởi Thomas Santoski.
+- *Một chiếc nhẫn trói buộc tất cả: Thần thoại của Tolkien.* Anne C. Petty. Được đánh giá bởi Thomas Santoski.
 - *Văn học giả tưởng: Thư mục toàn diện, có chú thích về tiểu thuyết giả tưởng hiện đại*. Roger C. Schlobin. Được đánh giá bởi Joe R. Christopher.
 - *The Screwtape Letters*. C.S. Lewis. Minh họa bởi Papas. Được đánh giá bởi Kathryn Lindskoog.
 

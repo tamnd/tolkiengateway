@@ -32,11 +32,11 @@ Một thời gian giữa [T.A.](Third_Age.md) [3013](Third_Age_3013.md) và [301
 
 ## Từ nguyên {#Etymology}
 
-Cái tên này phải là một cách chơi chữ của <a class="extiw" href="http://en.wikipedia.org/wiki/Town_Hall" title="wikipedia:Town Hall">Tòa thị chính</a>và cũng gợi ý rằng đó là một [Hobbit hố](../H/Hobbit-hole.md).
+Cái tên này chắc hẳn là một cách chơi chữ của <a class="extiw" href="http://en.wikipedia.org/wiki/Town_Hall" title="wikipedia:Town Hall">Tòa thị chính</a>và cũng gợi ý rằng đó là [Hố Hobbit](../H/Hobbit-hole.md).
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
 
 <dl><dd>The Town Hole is an the center of <a href="../M/Michel_Delving.md" title="Michel Delving">Michel Delving</a>, next to the <a href="../Q/Quick_Post.md" title="Quick Post">Quick Post</a> office. It has been rebuilt since the recent incident, of Mayor Whitfoot still gets frequently reminded of.</dd></dl>
 

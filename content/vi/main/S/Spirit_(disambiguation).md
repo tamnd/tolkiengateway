@@ -16,7 +16,7 @@ images:
 
 **Tinh thần** có thể ám chỉ:
 
-- **[Các linh hồn](Spirits.md)**, những sinh vật như [Ainur](../A/Ainur.md) và *[ealar](../E/Ealar.md)*khác.
+- **[Các linh hồn](Spirits.md)**, những sinh vật như [Ainur](../A/Ainur.md) và *[ealar](../E/Ealar.md)* khác.
 - [Fëa](../F/Fëa.md), linh hồn/linh hồn của một con người
 - *[súlë](Súlë.md)*, một từ [Quenya](../Q/Quenya.md) có nghĩa là "tinh thần", cũng là tên của [tengwa](../T/Tengwa.md) #9
 - [Sprites](Sprites.md)

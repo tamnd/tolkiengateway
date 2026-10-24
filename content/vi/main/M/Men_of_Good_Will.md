@@ -12,11 +12,11 @@ categories:
   - "Men"
 ---
 
-Thuật ngữ **Con Người Thiện chí** đã được [Tiên tộc](../E/Elves.md) sử dụng trong [Thời thứ hai](../S/Second_Age.md) để chỉ những người không phải[Númenórean](../N/Númenóreans.md) [Con Người](Men.md) trong [Trung Địa](Middle-earth.md) là hậu duệ của những người phản đối [Morgoth](Morgoth.md) trong [Kỷ Đệ Nhất](../F/First_Age.md).<sup id="cite_ref-will_1-0" class="reference"><a href="#cite_note-will-1">[1]</a></sup> Con Người Thiện chí bao gồm các bộ lạc "sống ở [Eriador](../E/Eriador.md) và [Calenardhon](../C/Calenardhon.md) và [Thung lũng Anduin](../V/Vales_of_Anduin.md) và ở [Great Wood](../G/Great_wood.md) cũng như vùng đồng bằng giữa đó và [Mordor](Mordor.md) và [Biển Rhûn](../S/Sea_of_Rhûn.md)."<sup id="cite_ref-will_1-1" class="reference"><a href="#cite_note-will-1">[1]</a></sup> Những bộ tộc này bao gồm hậu duệ của [Edain](../E/Edain.md) vẫn ở Trung Địa trong Thời đại thứ hai và cư trú ở Eriador thay vì đi thuyền đến [Númenor](../N/Númenor.md); hậu duệ của những người thân của Edain chưa bao giờ đi về phía tây vượt quá [Dãy Núi Xanh](../B/Blue_Mountains.md) vào [Beleriand](../B/Beleriand.md) trong thời gian Kỷ Đệ Nhất; "và những người thân xa hơn".<sup id="cite_ref-will_1-2" class="reference"><a href="#cite_note-will-1">[1]</a></sup>
+The term **Men of Good Will** was used by [Elves](../E/Elves.md) during the [Second Age](../S/Second_Age.md) to refer to non-[Númenórean](../N/Númenóreans.md) [Men](Men.md) in [Middle-earth](Middle-earth.md) who were descended from those who opposed [Morgoth](Morgoth.md) during the [First Age](../F/First_Age.md).<sup id="cite_ref-will_1-0" class="reference"><a href="#cite_note-will-1">[1]</a></sup> The Men of Good Will consisted of tribes "who lived in [Eriador](../E/Eriador.md) and [Calenardhon](../C/Calenardhon.md) and the [Vales of Anduin](../V/Vales_of_Anduin.md) and in the [Great Wood](../G/Great_wood.md) and the plains between that and [Mordor](Mordor.md) and the [Sea of Rhûn](../S/Sea_of_Rhûn.md)."<sup id="cite_ref-will_1-1" class="reference"><a href="#cite_note-will-1">[1]</a></sup> These tribes included descendants of the [Edain](../E/Edain.md) who remained in Middle-earth during the Second Age and dwelled in Eriador instead of sailing to [Númenor](../N/Númenor.md); descendants of the Edain's close kin who had never travelled westward beyond the [Blue Mountains](../B/Blue_Mountains.md) into [Beleriand](../B/Beleriand.md) during the First Age; "and others of remoter kin".<sup id="cite_ref-will_1-2" class="reference"><a href="#cite_note-will-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}
 
-- [Giữa Con Người](Middle_Men.md)
+- [Người trung gian](Middle_Men.md)
 
 <span></span>
 

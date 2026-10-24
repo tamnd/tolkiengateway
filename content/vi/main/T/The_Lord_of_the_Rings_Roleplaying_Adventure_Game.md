@@ -26,7 +26,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Roleplaying_Adventure_Game_-_box.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/9d/The_Lord_of_the_Rings_Roleplaying_Adventure_Game_-_box.jpg/320px-The_Lord_of_the_Rings_Roleplaying_Adventure_Game_-_box.jpg" decoding="async" loading="lazy" width="320" height="427" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/9d/The_Lord_of_the_Rings_Roleplaying_Adventure_Game_-_box.jpg/480px-The_Lord_of_the_Rings_Roleplaying_Adventure_Game_-_box.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/9/9d/The_Lord_of_the_Rings_Roleplaying_Adventure_Game_-_box.jpg/640px-The_Lord_of_the_Rings_Roleplaying_Adventure_Game_-_box.jpg 2x" data-file-width="1530" data-file-height="2040"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Lord of the Rings Roleplaying Adventure Game</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../D/Decipher.md" title="Decipher">Decipher</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Box with several softcover booklets</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/9781582369501" title="Special:BookSources/9781582369501">9781582369501</a></td></tr></tbody></table>
 
-**Trò chơi phiêu lưu nhập vai Chúa tể những chiếc nhẫn**, đôi khi được gọi là **The Fellowship of the Ring Trò chơi phiêu lưu**, là một trò chơi nhập vai đơn giản hóa được phát hành bởi [Decipher Inc.](../D/Decipher_Inc..md). Đó là phiên bản giới thiệu của *[The Lord of the Rings Roleplaying Game](The_Lord_of_the_Rings_Roleplaying_Game.md)*.
+**Trò chơi phiêu lưu nhập vai Chúa tể những chiếc nhẫn**, đôi khi được gọi là **Trò chơi phiêu lưu The Fellowship of the Ring**, là một trò chơi nhập vai đơn giản được phát hành bởi [Decipher Inc.](../D/Decipher_Inc..md). Đó là phiên bản giới thiệu của *[The Lord of the Rings Roleplaying Game](The_Lord_of_the_Rings_Roleplaying_Game.md)*.
 
 ## Cách chơi {#Gameplay}
 
@@ -36,7 +36,7 @@ Các trận chiến diễn ra trên bản đồ chiến thuật hình lục giá
 
 ## Câu chuyện {#Story}
 
-Trò chơi bắt đầu tại cánh cửa phía tây dẫn vào Moria, đưa người chơi trải qua nhiều cuộc chạm trán với những người hầu của Bóng Tối và lên đến đỉnh điểm bằng trận chiến đỉnh cao chống lại Balrog đáng sợ.
+Trò chơi bắt đầu ở cánh cửa phía tây dẫn vào Moria, đưa người chơi trải qua nhiều cuộc chạm trán với những người hầu của Bóng tối và lên đến đỉnh điểm với trận chiến đỉnh cao chống lại Balrog đáng sợ.
 
 ## Thư viện {#Gallery}
 

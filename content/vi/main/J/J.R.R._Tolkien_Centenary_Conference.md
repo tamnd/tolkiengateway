@@ -34,7 +34,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Tolkien Centenary Conference</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Convention Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a class="extiw" href="http://en.wikipedia.org/wiki/Keble_College,_Oxford" title="wikipedia:Keble College, Oxford">Keble College</a>, <a href="../O/Oxford.md" title="Oxford">Oxford</a></td></tr><tr><th scope="row" class="tg-infobox-label">Organizer</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">Tolkien Society</a> , <a href="../M/Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Dates</th><td class="tg-infobox-data">16-24 August 1992</td></tr><tr><th scope="row" class="tg-infobox-label">Previous</th><td class="tg-infobox-data"><a href="../O/Oxonmoot_1991.md" title="Oxonmoot 1991">Oxonmoot 1991</a>, <a href="../M/Mythcon_22.md" title="Mythcon 22">Mythcon 22</a></td></tr><tr><th scope="row" class="tg-infobox-label">Next</th><td class="tg-infobox-data"><a href="../O/Oxonmoot_1993.md" title="Oxonmoot 1993">Oxonmoot 1993</a>, <a href="../M/Mythcon_24.md" title="Mythcon 24">Mythcon 24</a></td></tr></tbody></table>
 
-**J.R.R. Tolkien Hội nghị trăm năm** là hội nghị kỷ niệm 100 năm ngày sinh của [J.R.R. Tolkien](J.R.R._Tolkien.md)([1892](../_/1892.md)). Nó được tổ chức tại Keble College, Oxford [16](../_/17_August.md)-[24 tháng 8](../_/24_August.md), [1992](../_/1992.md). Được tổ chức bởi cả [Hội Tolkien](../T/The_Tolkien_Society.md) và [Hiệp hội thần thoại](../M/Mythopoeic_Society.md), nó là sự kết hợp giữa [Oxonmoot](../O/Oxonmoot.md) [1992](../_/1992.md) và [Mythcon](../M/Mythcon.md) 23.
+**J.R.R. Tolkien Hội nghị trăm năm** là hội nghị kỷ niệm 100 năm ngày sinh của [J.R.R. Tolkien](J.R.R._Tolkien.md) ([1892](../_/1892.md)). Nó được tổ chức tại Keble College, Oxford [16](../_/17_August.md)-[24 tháng 8](../_/24_August.md), [1992](../_/1992.md). Được tổ chức bởi cả [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) và [Hiệp hội thần thoại](../M/Mythopoeic_Society.md), sự kiện này là sự kết hợp giữa [Oxonmoot](../O/Oxonmoot.md) [1992](../_/1992.md) và [Mythcon](../M/Mythcon.md) 23.
 
 ## Ấn phẩm {#Publications}
 
@@ -44,7 +44,7 @@ infobox:
 ## Xem thêm {#See_also}
 
 - [Tolkien 2005: Chiếc nhẫn vẫn tiếp tục tồn tại](../T/Tolkien_2005.md)
-- [Sự trở lại của chiếc nhẫn: Kỷ niệm Tolkien năm 2012](../T/The_Return_of_the_Ring.md)
+- [The Return of the Ring: Celebrating Tolkien in 2012](../T/The_Return_of_the_Ring.md)
 - [Oxonmoot](../O/Oxonmoot.md)
 - [Huyền thoại](../M/Mythcon.md)
 

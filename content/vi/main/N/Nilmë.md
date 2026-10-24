@@ -15,6 +15,6 @@ sort_keys:
   "Quenya nouns": "Nilme"
 ---
 
-**Nilmë** là một từ [Quenya](../Q/Quenya.md) chỉ "tình bạn". So sánh với *-[ndil](Ndil.md)*. <span></span>
+**Nilmë** là một từ [Quenya](../Q/Quenya.md) cho "tình bạn". So sánh với *-[ndil](Ndil.md)*. <span></span>
 
 ## Tài liệu tham khảo {#References}

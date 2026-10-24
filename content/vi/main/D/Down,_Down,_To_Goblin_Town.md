@@ -12,7 +12,7 @@ categories:
   - "The Hobbit (1977 film) soundtrack"
 ---
 
-**Down, Down, To Goblin Town** là bài hát thứ tám trên *[The Hobbit: The Complete Original Soundtrack](../T/The_Hobbit%253A_The_Complete_Original_Soundtrack.md)*. Nó rất giống với *[Where There's a Whip, There's a Way](../W/Where_There's_a_Whip,_There's_a_Way.md)*nổi tiếng hơn, được giới thiệu trong bộ phim [Rankin/Bass](../R/Rankin%252FBass.md) khác, *[The Return of the King](<../T/The_Return_of_the_King_(1980_film).md>)*. Nó dựa trên bài thơ *[Clap! Snap! the black crack!](../C/Clap!_Snap!_the_black_crack!.md)*xuất hiện trong tiểu thuyết.
+**Down, Down, To Goblin Town** là bài hát thứ tám trên *[The Hobbit: The Complete Original Soundtrack](../T/The_Hobbit%253A_The_Complete_Original_Soundtrack.md)*. Nó rất giống với *[Where There's a Whip, There's a Way](../W/Where_There's_a_Whip,_There's_a_Way.md)* nổi tiếng hơn, được giới thiệu trong bộ phim [Rankin/Bass](../R/Rankin%252FBass.md) khác, *[The Return of the King](<../T/The_Return_of_the_King_(1980_film).md>)*. Nó dựa trên bài thơ *[Clap! Snap! the black crack!](../C/Clap!_Snap!_the_black_crack!.md)*xuất hiện trong tiểu thuyết.
 
 ## Lời bài hát {#Lyrics}
 

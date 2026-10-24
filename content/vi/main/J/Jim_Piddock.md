@@ -22,7 +22,7 @@ sort_keys:
 
 ## Vai trò {#Roles}
 
-- [2001](../_/2001.md): [*The Lord of the Rings: The Fellowship of the Ring* (trò chơi điện tử)](<../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md>) - [Elrond](../E/Elrond.md), [Bilbo Baggins](../B/Bilbo_Baggins.md), [Gaffer](../H/Hamfast_Gamgee.md)
+- [2001](../_/2001.md): [*The Lord of the Rings: The Fellowship of the Ring* (video game)](<../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md>) - [Elrond](../E/Elrond.md), [Bilbo Baggins](../B/Bilbo_Baggins.md), [Bố già](../H/Hamfast_Gamgee.md)
 - [2010](../_/2010.md): *[The Lord of the Rings: Aragorn's Quest](../T/The_Lord_of_the_Rings%253A_Aragorn's_Quest.md)* - [Elrond](../E/Elrond.md), [Bilbo Baggins](../B/Bilbo_Baggins.md)
 - [2011](../_/2011.md): *[The Lord of the Rings: War in the North](../T/The_Lord_of_the_Rings%253A_War_in_the_North.md)* - [Elrond](../E/Elrond.md), [Bilbo Baggins](../B/Bilbo_Baggins.md)
 

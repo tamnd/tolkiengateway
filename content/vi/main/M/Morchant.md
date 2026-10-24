@@ -13,7 +13,7 @@ categories:
   - "Sindarin nouns"
 ---
 
-<i><b>morchant</b></i> là một từ [Sindarin](../S/Sindarin.md) có nghĩa *shadow*, giống như bóng của một vật thể được chiếu bởi ánh sáng. Nó cũng có nghĩa là *dark shape*. Nó có thể bắt nguồn từ *[morn](Morn.md)* "tối" và <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Cant&amp;action=edit&amp;redlink=1" title="Cant (page does not exist)">không thể</a></i> "hình dạng".
+<i><b>morchant</b></i> là một từ [tiếng Sindarin](../S/Sindarin.md) có nghĩa là *shadow*, giống như bóng của một vật thể được chiếu bởi ánh sáng. Nó cũng có nghĩa là *dark shape*. Nó có thể bắt nguồn từ *[morn](Morn.md)* "tối" và <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Cant&amp;action=edit&amp;redlink=1" title="Cant (page does not exist)">không thể</a></i> "hình dạng".
 
 ## Từ đồng nghĩa {#Synonyms}
 

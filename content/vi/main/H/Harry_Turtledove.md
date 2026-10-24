@@ -31,7 +31,7 @@ images:
 - [1991](../_/1991.md): *[After the King: Stories In Honor of J.R.R. Tolkien](../A/After_the_King.md)*
     - "Vịt mồi"
 - [2001](../_/2001.md): *[Meditations on Middle-earth](../M/Meditations_on_Middle-earth.md)*
-    - " Nhẫn và tôi"
+    - "Chiếc nhẫn và tôi"
 
 ## Liên kết ngoài {#External_links}
 

@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Anderson, Kyle"
 ---
 
-**Kyle Anderson** là một họa sĩ minh họa, nghệ sĩ ý tưởng và nhà thiết kế hình ảnh cho trò chơi và phim, chuyên về thể loại giả tưởng. Anh ấy đã cung cấp ý tưởng nghệ thuật cho [Vivendi Universal](../V/Vivendi.md) và [Midway](../M/Midway_Games.md).
+**Kyle Anderson** là một họa sĩ minh họa, nghệ sĩ ý tưởng và nhà thiết kế hình ảnh cho trò chơi và phim, chuyên về thể loại giả tưởng. Ông đã cung cấp ý tưởng nghệ thuật cho [Vivendi Universal](../V/Vivendi.md) và [Midway](../M/Midway_Games.md).
 
 ## Xem thêm {#See_also}
 

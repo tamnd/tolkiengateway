@@ -16,11 +16,11 @@ sort_keys:
   "Tolkien Societies": "Brazilian Tolkien Society"
 ---
 
-**Heren Hyarmen** (**Huân chương miền Nam**) là tổ chức Smial trực thuộc [Tolkien chính thức đầu tiên của Hiệp hội](../T/Tolkien_Society.md) ở Châu Mỹ Latinh. Nó được thành lập vào [19 tháng 3](../_/19_March.md) [1989](../_/1989.md) bởi [Ronald Kyrmse](../R/Ronald_Kyrmse.md), ở São Paulo, Brazil. Tên đã được đổi vào [ngày 9 tháng 1](../_/9_January.md) [2003](../_/2003.md) thành "Heren Hyarmeno", cách sở hữu Quenya chính xác có nghĩa là "Trật tự miền Nam".<sup id="cite_ref-Marq_1-0" class="reference"><a href="#cite_note-Marq-1">[1]</a></sup>
+**Heren Hyarmen** (**Order of the South**) là Smial trực thuộc [Hiệp hội Tolkien](../T/Tolkien_Society.md) chính thức đầu tiên ở Mỹ Latinh. Nó được thành lập vào [19 tháng 3](../_/19_March.md) [1989](../_/1989.md) bởi [Ronald Kyrmse](../R/Ronald_Kyrmse.md), tại São Paulo, Brazil. Tên đã được đổi vào [ngày 9 tháng 1](../_/9_January.md) [2003](../_/2003.md) thành "Heren Hyarmeno", cách viết tắt của Quenya chính xác có nghĩa là "Trật tự miền Nam".<sup id="cite_ref-Marq_1-0" class="reference"><a href="#cite_note-Marq-1">[1]</a></sup>
 
-Nụ cười của Hội Tolkien này không còn tồn tại kể từ năm 2023, nó không còn được liệt kê là đang hoạt động nữa.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Nụ cười của Hiệp hội Tolkien này không còn tồn tại kể từ năm 2023, nó không còn được liệt kê là đang hoạt động nữa.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Thư từ chính thức với [Hội Tolkien](../T/The_Tolkien_Society.md) đã dẫn đến câu trả lời như sau:
+Thư từ chính thức với [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) đã đưa ra câu trả lời như sau:
 
 <blockquote class="tg-quote noexcerpt">
 <p>As far as I know, the Heren Hyarmen is the first Smial in Latin America. However, you cannot lay claim to being the first in the Southern Hemisphere as there have been two in Australia over the past 12 years. Both have not survived to this day, so at the moment your smial is the ONLY one in the Southern Hemisphere!

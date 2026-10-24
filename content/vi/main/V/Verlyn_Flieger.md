@@ -44,9 +44,9 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/V/Verlyn_Flieger.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/91/Verlyn_Flieger.jpg/320px-Verlyn_Flieger.jpg" decoding="async" loading="lazy" width="320" height="314" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/91/Verlyn_Flieger.jpg/480px-Verlyn_Flieger.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/9/91/Verlyn_Flieger.jpg/640px-Verlyn_Flieger.jpg 2x" data-file-width="1696" data-file-height="1663"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Verlyn Flieger</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Born</th><td class="tg-infobox-data"><a href="../_/24_February.md" title="24 February">24 February</a> <a href="../_/1933.md" title="1933">1933</a><sup id="cite_ref-LT_1-0" class="reference"><a href="#cite_note-LT-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Education</th><td class="tg-infobox-data">Ph.D. from <a class="extiw" href="http://en.wikipedia.org/wiki/The_Catholic_University_of_America" title="wikipedia:The Catholic University of America">The Catholic University of America</a></td></tr><tr><th scope="row" class="tg-infobox-label">Occupation</th><td class="tg-infobox-data">Author, Professor</td></tr></tbody></table>
 
-**Verlyn Flieger** ([24 tháng 2](../_/24_February.md) [1933](../_/1933.md)) là Giáo sư khoa Tiếng Anh tại <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Maryland" title="wikipedia:University of Maryland">Đại học Maryland</a>. Cô đã viết nhiều cuốn sách liên quan đến [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Cô cũng là người đoạt nhiều [Giải thưởng Thần thoại](../M/Mythopoeic_Society.md).
+**Verlyn Flieger** ([24 tháng 2](../_/24_February.md) [1933](../_/1933.md)) là Giáo sư Khoa Tiếng Anh tại <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Maryland" title="wikipedia:University of Maryland">Đại học Maryland</a>. Cô đã viết nhiều cuốn sách liên quan đến [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Cô cũng là người đoạt nhiều [Giải thưởng Thần thoại](../M/Mythopoeic_Society.md).
 
-Với [Michael D.C. Drout](../M/Michael_D.C._Drout.md), Flieger là đồng biên tập của *[Tolkien Studies: An Annual Scholarly Review](<../T/Tolkien_Studies_(journal).md>)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Cô cũng là thành viên Ban cố vấn học thuật của [Nhà xuất bản Cây đi bộ](../W/Walking_Tree_Publishers.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Cùng với [Michael D.C. Drout](../M/Michael_D.C._Drout.md), Flieger là đồng biên tập của *[Tolkien Studies: An Annual Scholarly Review](<../T/Tolkien_Studies_(journal).md>)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Cô cũng là thành viên Hội đồng Cố vấn Học thuật cho [Nhà xuất bản Cây đi bộ](../W/Walking_Tree_Publishers.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Thư mục {#Bibliography}
 
@@ -54,7 +54,7 @@ Với [Michael D.C. Drout](../M/Michael_D.C._Drout.md), Flieger là đồng biê
 
 - [1983](../_/1983.md): *[Splintered Light](../S/Splintered_Light.md)*
 - [1997](../_/1997.md): *[A Question of Time](../A/A_Question_of_Time.md)*
-- [2000](../_/2000.md): *[Tolkien's Legendarium: Essays on The History of Middle-earth](../T/Tolkien's_Legendarium.md)* (trình soạn thảo, với [Carl F. Hostetter](../C/Carl_F._Hostetter.md))
+- [2000](../_/2000.md): *[Tolkien's Legendarium: Essays on The History of Middle-earth](../T/Tolkien's_Legendarium.md)* (người biên tập, với [Carl F. Hostetter](../C/Carl_F._Hostetter.md))
 - [2002](../_/2002.md): *Splintered Light* (phiên bản mở rộng)
 - [2005](../_/2005.md): *[Smith of Wootton Major](../S/Smith_of_Wootton_Major.md)* (biên tập viên)
 - [2005](../_/2005.md): *[Interrupted Music: The Making of Tolkien's Mythology](../I/Interrupted_Music%253A_The_Making_of_Tolkien's_Mythology.md)*
@@ -67,76 +67,76 @@ Với [Michael D.C. Drout](../M/Michael_D.C._Drout.md), Flieger là đồng biê
 
 ### Bài viết {#Articles}
 
-- [1986](../_/1986.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Diakonia:_Studies_in_Honor_of_Robert_T._Meyer&amp;action=edit&amp;redlink=1" title="Diakonia: Studies in Honor of Robert T. Meyer (page does not exist)">Diakonia: Nghiên cứu tôn vinh Robert T. Meyer</a></i>
-    - "Đặt tên cho cái không thể đặt tên: 'Một' theo phong cách Tân Platon trong Silmarillion của Tolkien"
+- [1986](../_/1986.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Diakonia:_Studies_in_Honor_of_Robert_T._Meyer&amp;action=edit&amp;redlink=1" title="Diakonia: Studies in Honor of Robert T. Meyer (page does not exist)">Diakonia: Studies in Honor of Robert T. Meyer</a></i>
+    - "Naming the Unnameable: The Neoplatonic 'One' in Tolkien's Silmarillion"
 - [1987](../_/1987.md): *[Selections from the Marquette J.R.R. Tolkien Collection](../S/Selections_from_the_Marquette_J.R.R._Tolkien_Collection.md)*
-    - "Câu chuyện lớn lên trong lời kể"
+    - "A Tale that Grew in the Telling"
 - [1993](../_/1993.md): *[Scholarship and Fantasy](../S/Scholarship_and_Fantasy.md)*
-    - "Người đàn ông xanh, Hiệp sĩ xanh và Treebeard: Học bổng và phát minh trong tiểu thuyết của Tolkien"
+    - "The Green Man, the Green Knight, and Treebeard: Scholarship and Invention in Tolkien's Fiction"
 - [1994](../_/1994.md): *[Mythos Journal](../M/Mythos_Journal.md)*
-    - "Cạm bẫy ở thần tiên"
+    - "Pitfalls in Faëry"
 - [1995](../_/1995.md): *[Proceedings of the J.R.R. Tolkien Centenary Conference](../P/Proceedings_of_the_J.R.R._Tolkien_Centenary_Conference.md)*
-Thử nghiệm của     - "Tolkien với thời gian: The Lost Road, The Notion Club Papers và J.W.Dunne"
+    - "Tolkien's Experiment with Time: The Lost Road, The Notion Club Papers and J.W.Dunne"
 - [1998](../_/1998.md): *[Between Faith and Fiction: Tolkien and the Powers of His World](../B/Between_Faith_and_Fiction.md)*
-    - "Huyền thoại đó là của ai?"
+    - "Whose Myth is it?"
 - [2000](../_/2000.md): *[J.R.R. Tolkien and His Literary Resonances](../J/J.R.R._Tolkien_and_His_Literary_Resonances.md)*
-    - "Tham gia vào vai trò của cây xanh: Xung đột sinh thái ở Trung Địa"
-- [2000](../_/2000.md): *[Tolkien's Legendarium](../T/Tolkien's_Legendarium.md)* (trình soạn thảo, với [Carl F. Hostetter](../C/Carl_F._Hostetter.md))
-    - "Bước chân của Ælfwine"
-- [2004](../_/2004.md): *[Tolkien Studies: Volume 1](../T/Tolkien_Studies%253A_Volume_1.md)* (biên tập viên)
-    - "Giới thiệu của Biên tập viên"
-    - "Hãy làm câu chuyện về Atlantis và từ bỏ Eriol-Saga"
-- [2005](../_/2005.md): *[Tolkien Studies: Volume 2](../T/Tolkien_Studies%253A_Volume_2.md)* (biên tập viên)
-    - "Giới thiệu của Biên tập viên"
-- [2006](../_/2006.md): *[J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment](../J/J.R.R._Tolkien_Encyclopedia%253A_Scholarship_and_Critical_Assessment.md)*, mục
-    - "Sự lãng mạn của Arthur"
+    - "Taking the Part of Trees: Eco-Conflict in Middle-earth"
+- [2000](../_/2000.md): *[Tolkien's Legendarium](../T/Tolkien's_Legendarium.md)* (editor, with [Carl F. Hostetter](../C/Carl_F._Hostetter.md))
+    - "The Footsteps of Ælfwine"
+- [2004](../_/2004.md): *[Tolkien Studies: Volume 1](../T/Tolkien_Studies%253A_Volume_1.md)* (editor)
+    - "Editors' Introduction"
+    - "Do the Atlantis story and abandon Eriol-Saga"
+- [2005](../_/2005.md): *[Tolkien Studies: Volume 2](../T/Tolkien_Studies%253A_Volume_2.md)* (editor)
+    - "Editors' Introduction"
+- [2006](../_/2006.md): *[J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment](../J/J.R.R._Tolkien_Encyclopedia%253A_Scholarship_and_Critical_Assessment.md)*, entries
+    - "Arthurian Romance"
     - "Barfield, Owen"
-    - "Thần tiên"
-    - "Khung tường thuật"
-    - "Ánh sáng"
-    - "Mất đường, The"
-    - "Bộ nhớ"
-    - "tiếng Bắc Âu cổ Bản dịch"
-    - "Thơ của Tolkien: The Hobbit"
-    - "Thơ của Tolkien: The Lord of the Rings"
-    - "Smith của Wooton Thiếu tá"
-    - "Thời gian"
-    - "Du hành thời gian"
-- [2006](../_/2006.md): *[Tolkien Studies: Volume 3](../T/Tolkien_Studies%253A_Volume_3.md)* (biên tập viên)
-    - "Giới thiệu của biên tập viên"
+    - "Faërie"
+    - "Frame Narrative"
+    - "Light"
+    - "Lost Road, The"
+    - "Memory"
+    - "Old Norse Translations"
+    - "Poems by Tolkien: The Hobbit"
+    - "Poems by Tolkien: The Lord of the Rings"
+    - "Smith of Wooton Major"
+    - "Time"
+    - "Time Travel"
+- [2006](../_/2006.md): *[Tolkien Studies: Volume 3](../T/Tolkien_Studies%253A_Volume_3.md)* (editor)
+    - "Editors' Introduction"
     - "Karen Wynn Fonstad"
-- [2007](../_/2007.md): *[Tolkien Studies: Volume 4](../T/Tolkien_Studies%253A_Volume_4.md)* (biên tập viên)
-    - "Sự cố kỳ lạ về giấc mơ ở Barrow: Ký ức và sự tái sinh trong Trung Địa"
+- [2007](../_/2007.md): *[Tolkien Studies: Volume 4](../T/Tolkien_Studies%253A_Volume_4.md)* (editor)
+    - "The Curious Incident of the Dream at the Barrow: Memory and Reincarnation in Middle-earth"
 - [2007](../_/2007.md): *[Myth and Magic: Art according to the Inklings](../M/Myth_and_Magic%253A_Art_according_to_the_Inklings.md)*
-    - "Khi nào một câu chuyện cổ tích là một câu chuyện thần tiên? Smith của Wootton Major"
-- [2008](../_/2008.md): *[Tolkien Studies: Volume 5](../T/Tolkien_Studies%253A_Volume_5.md)* (biên tập viên)
-    - "Giới thiệu của biên tập viên"
+    - "When is a Fairy Story a Faërie Story? Smith of Wootton Major"
+- [2008](../_/2008.md): *[Tolkien Studies: Volume 5](../T/Tolkien_Studies%253A_Volume_5.md)* (editor)
+    - "Editors' Introduction"
 - [2008](../_/2008.md): *[Tolkien's The Lord of the Rings – Sources of Inspiration](../T/Tolkien's_The_Lord_of_the_Rings_–_Sources_of_Inspiration.md)*
-    - "Gilson, Smith và Baggins"
+    - "Gilson, Smith and Baggins"
 - [2011](../_/2011.md): [*Picturing Tolkien: Essays on Peter Jackson's* The Lord of the Rings *Film Trilogy*](../P/Picturing_Tolkien.md)
-    - "Đôi khi một lời nói có giá trị bằng cả ngàn bức ảnh"
+    - "Sometimes One Word Is Worth a Thousand Pictures"
 - [2012](../_/2012.md): *[The Broken Scythe: Death and Immortality in the Works of J.R.R. Tolkien](../T/The_Broken_Scythe.md)*
-    - Lời nói đầu
+    - Preface
 - [2013](../_/2013.md): *[The Body in Tolkien's Legendarium](../T/The_Body_in_Tolkien's_Legendarium.md)*
-    - "Thi thể nghi vấn: Những vết thương chưa lành của Frodo Baggins"
+    - "The Body in Question: The unhealed wounds of Frodo Baggins"
 - [2013](../_/2013.md): *[J.R.R. Tolkien: the Forest and the City](../J/J.R.R._Tolkien%253A_the_Forest_and_the_City.md)*
-    - "Khu rừng và hàng cây: Sal và Ian ở Faërie"
+    - "The Forests and the Trees: Sal and Ian in Faërie"
 - [2013](../_/2013.md): [*Mythlore* 123](../M/Mythlore_123.md)
-    - "Cây cư xử như thế nào—Hay chúng cư xử như thế nào?"
+    - "How Trees Behave—Or Do They?"
 - [2014](../_/2014.md): [The Hobbit *and Tolkien's Mythology*](../T/The_Hobbit_and_Tolkien's_Mythology.md)
-    - "Tolkien Kết nối tiếng Pháp"
+    - "Tolkien’s French Connection"
 - [2014](../_/2014.md): *[Tolkien in the New Century: Essays in Honor of Tom Shippey](../T/Tolkien_in_the_New_Century.md)*
-    - "Những viên ngọc, viên đá, chiếc nhẫn và sự tạo nên ý nghĩa"
+    - "The Jewels, the Stone, the Ring, and the Making of Meaning"
 - [2014](../_/2014.md): *[Tolkien and Philosophy](../T/Tolkien_and_Philosophy.md)*
-    - "Tolkien và triết học ngôn ngữ"
+    - "Tolkien and the Philosophy of Language"
 - [2018](../_/2018.md): *[Pagan Saints in Middle-earth](../P/Pagan_Saints_in_Middle-earth.md)*
-    - "Lời nói đầu"
+    - "Foreword"
 - [2018](../_/2018.md): *[Tolkien: Maker of Middle-earth](../T/Tolkien%253A_Maker_of_Middle-earth.md)*
-    - "Thần tiên: Vùng đất nguy hiểm của Tolkien"
+    - "Faërie: Tolkien's Perilous Land"
 - [2020](../_/2020.md): [*Mallorn* 61](../M/Mallorn_61.md)
-    - "Thách thức và xác định Bóng Tối"
+    - "Defying and Defining Darkness"
 - [2022](../_/2022.md): *[The Great Tales Never End](../T/The_Great_Tales_Never_End.md)*
-    - "Nghe nhạc"
+    - "Listening to the Music"
 
 ### Tạp chí (biên tập) {#Journals_(editor)}
 
@@ -165,7 +165,7 @@ Thử nghiệm của     - "Tolkien với thời gian: The Lost Road, The Notion
 - [1988](../_/1988.md): **[Giải thưởng học bổng huyền thoại dành cho nghiên cứu mơ hồ](../M/Mythopoeic_Society.md)**, *[A Question of Time: J.R.R. Tolkien’s Road to Faërie](../A/A_Question_of_Time.md)*
 - [2002](../_/2002.md): **[Giải thưởng học bổng huyền thoại dành cho nghiên cứu mơ hồ](../M/Mythopoeic_Society.md)**, *[Tolkien's Legendarium: Essays on the History of Middle-earth](../T/Tolkien's_Legendarium.md)*
 - [2013](../_/2013.md): **[Giải thưởng học bổng huyền thoại dành cho nghiên cứu mơ hồ](../M/Mythopoeic_Society.md)**, *[Green Suns and Faërie: Essays on J.R.R. Tolkien](../G/Green_Suns_and_Faërie.md)*
-- [2021](../_/2021.md): **[Giải thưởng của Hội Tolkien](../T/The_Tolkien_Society_Awards.md): Bài viết hay nhất**, <i><a class="external text" href="https://journals.tolkiensociety.org/mallorn/issue/view/62/63" rel="noreferrer noopener" target="_blank">Chống lại và xác định Bóng Tối</a></i> trong [Mallorn 61](../M/Mallorn_61.md)
+- [2021](../_/2021.md): **[Giải thưởng của Hiệp hội Tolkien](../T/The_Tolkien_Society_Awards.md): Bài viết hay nhất**, <i><a class="external text" href="https://journals.tolkiensociety.org/mallorn/issue/view/62/63" rel="noreferrer noopener" target="_blank">Thách thức và xác định bóng tối</a></i> ở [Mallorn 61](../M/Mallorn_61.md)
 
 ## Liên kết ngoài {#External_links}
 
@@ -175,12 +175,12 @@ Thử nghiệm của     - "Tolkien với thời gian: The Lost Road, The Notion
 ### Trò chuyện {#Talks}
 
 - <a class="external text" href="http://www.youtube.com/watch?v=q87vHzNFadU" rel="noreferrer noopener" target="_blank"><i>Sinh vật tưởng tượng - Trải nghiệm thực tế</i></a>, tại TEDxUMD
-- <a class="external text" href="https://www.youtube.com/watch?v=131d2hdD-7s&amp;ab_channel=TheTolkienSociety" rel="noreferrer noopener" target="_blank"><i>Đợi Earendel</i></a>, lúc [Hội Tolkien](../T/The_Tolkien_Society.md)
+- <a class="external text" href="https://www.youtube.com/watch?v=131d2hdD-7s&amp;ab_channel=TheTolkienSociety" rel="noreferrer noopener" target="_blank"><i>Đợi Earendel</i></a>, tại [Hiệp hội Tolkien](../T/The_Tolkien_Society.md)
 
 ### Phỏng vấn {#Interviews}
 
-- <a class="external text" href="https://www.youtube.com/watch?v=LXFsvhYbIOY&amp;list=PL2ebpgGctifGbItNCuGOehOiSHXS-89-V&amp;index=23&amp;ab_channel=TolkienExperience" rel="noreferrer noopener" target="_blank">Tập 31</a> của [The Tolkien Experience Podcast](../T/The_Tolkien_Experience.md)
-- <a class="external text" href="https://theprancingponypodcast.com/2018/07/08/090-between-light-and-dark-an-interview-with-verlyn-flieger/" rel="noreferrer noopener" target="_blank">Giữa ánh sáng và bóng tối: Phỏng vấn Verlyn Flieger</a>, tập 90 của [The Prancing Pony Podcast](../T/The_Prancing_Pony_Podcast.md)
+- <a class="external text" href="https://www.youtube.com/watch?v=LXFsvhYbIOY&amp;list=PL2ebpgGctifGbItNCuGOehOiSHXS-89-V&amp;index=23&amp;ab_channel=TolkienExperience" rel="noreferrer noopener" target="_blank">Tập 31</a> của [Podcast Trải nghiệm Tolkien](../T/The_Tolkien_Experience.md)
+- <a class="external text" href="https://theprancingponypodcast.com/2018/07/08/090-between-light-and-dark-an-interview-with-verlyn-flieger/" rel="noreferrer noopener" target="_blank">Giữa ánh sáng và bóng tối: Cuộc phỏng vấn với Verlyn Flieger</a>, tập 90 của [Podcast The Prancing Pony](../T/The_Prancing_Pony_Podcast.md)
 
 <span></span>
 

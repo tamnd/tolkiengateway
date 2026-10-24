@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Middle-earth: The White Hand"
 ---
 
-Chuyển hướng đến [Trung Địa: Bàn tay trắng](Middle-earth%253A_The_White_Hand.md).
+Chuyển hướng đến [Middle-earth: The White Hand](Middle-earth%253A_The_White_Hand.md).

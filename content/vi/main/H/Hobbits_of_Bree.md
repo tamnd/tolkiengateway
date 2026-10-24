@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Bree-hobbits"
 ---
 
-Chuyển hướng đến [Bree-hobbit](../B/Bree-hobbits.md).
+Chuyển hướng tới [Bree-hobbit](../B/Bree-hobbits.md).

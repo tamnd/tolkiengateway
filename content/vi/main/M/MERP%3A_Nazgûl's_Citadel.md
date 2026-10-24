@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Nazgûl's Citadel"
 ---
 
-Chuyển hướng đến Thành cổ của [Nazgûl](../N/Nazgûl's_Citadel.md).
+Chuyển hướng đến [Thành Nazgûl](../N/Nazgûl's_Citadel.md).

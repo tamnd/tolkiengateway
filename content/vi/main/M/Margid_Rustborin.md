@@ -30,11 +30,11 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../D/Dwarves.md" title="Dwarves">Dwarf</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Margid Rustborin</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a class="mw-redirect" href="../K/Khazad-dûm.md" title="Khazad-dûm">Khazad-dûm</a></td></tr><tr><th scope="row" class="tg-infobox-label">Affiliation</th><td class="tg-infobox-data"><a href="../D/Durin&#39;s_Folk~15256.md" title="Durin&#39;s Folk">Durin&#39;s Folk</a></td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data"><a href="../K/Khuzdul.md" title="Khuzdul">Khuzdul</a></td></tr><tr><th scope="row" class="tg-infobox-label">Birth</th><td class="tg-infobox-data">Late <a href="../S/Second_Age.md" title="Second Age">Second Age</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Female</td></tr></tbody></table>
 
-**Margid Rustborin** là một [Người lùn](../D/Dwarves.md) của [Khazad-dûm](../K/Khazad-dûm.md) vào cuối [Thời đại thứ hai](../S/Second_Age.md). Margid Rustborin được phát minh cho *[The Lord of the Rings: The Rings of Power](../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)* bởi [Amazon Studios](../A/Amazon_Studios.md), nơi cô được nhắc đến trong một tập phim.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Margid Rustborin** là một [Người lùn](../D/Dwarves.md) của [Khazad-dûm](../K/Khazad-dûm.md) vào cuối [Kỷ thứ hai](../S/Second_Age.md). Margid Rustborin được phát minh cho *[The Lord of the Rings: The Rings of Power](../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)* bởi [Amazon Studios](../A/Amazon_Studios.md), nơi cô được nhắc đến trong một tập.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Lịch sử {#History}
 
-[Durin IV](../D/Durin_IV.md) hồi tưởng lại việc anh ấy có thể đã kết hôn với Margid Rustborin như thế nào, nhưng cuối cùng lại kết hôn với [Disa](../D/Disa.md).
+[Durin IV](../D/Durin_IV.md) hồi tưởng lại việc ông có thể đã kết hôn với Margid Rustborin như thế nào, nhưng cuối cùng lại kết hôn với [Disa](../D/Disa.md).
 
 <span></span>
 

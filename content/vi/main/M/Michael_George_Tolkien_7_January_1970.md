@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Michael George Tolkien (7 January 1970)"
 ---
 
-Chuyển hướng đến [Thư gửi Michael George Tolkien (7 tháng 1 năm 1970)](<../L/Letter_to_Michael_George_Tolkien_(7_January_1970).md>).
+Chuyển hướng tới [Thư gửi Michael George Tolkien (7 tháng 1 năm 1970)](<../L/Letter_to_Michael_George_Tolkien_(7_January_1970).md>).

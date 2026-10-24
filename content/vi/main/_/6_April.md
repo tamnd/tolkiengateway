@@ -71,22 +71,22 @@ Sự kiện xảy ra vào ngày 6 tháng 4.
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [2510](../T/Third_Age_2510.md):
-    - [Eorl the Young](../E/Eorl.md) khởi hành với [Éothéod](Éothéod.md) hướng tới [Calenardhon](../C/Calenardhon.md).
+    - [Eorl the Young](../E/Eorl.md) lên đường cùng [Éothéod](Éothéod.md) tới [Calenardhon](../C/Calenardhon.md).
 - [T.A.](../T/Third_Age.md) [2941](../T/Third_Age_2941.md):
-    - [Gandalf](../G/Gandalf.md) lượt truy cập [Bag End](../B/Bag_End.md) nhưng thiếu [Bilbo Baggins](../B/Bilbo_Baggins.md). Anh ấy nói chuyện với [Holman Greenhand](../H/Holman_Greenhand.md) và nhận ra Bilbo là người phù hợp cho [Nhiệm vụ Erebor](../Q/Quest_for_Erebor.md) (ngày gần đúng).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[1]</a></sup>
+    - [Gandalf](../G/Gandalf.md) ghé thăm [Bag End](../B/Bag_End.md) nhưng [Bilbo Baggins](../B/Bilbo_Baggins.md) bị mất tích. Ông nói chuyện với [Holman Greenhand](../H/Holman_Greenhand.md) và nhận ra Bilbo là người phù hợp cho [Truy tìm Erebor](../Q/Quest_for_Erebor.md) (ngày gần đúng).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[1]</a></sup>
 - [T.A.](../T/Third_Age.md) [2980](../T/Third_Age_2980.md):
     - [Samwise Gamgee](../S/Samwise_Gamgee.md) ra đời.
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - Năm mới Tiên tộc.<sup id="cite_ref-AppB4_3-0" class="reference"><a href="#cite_note-AppB4-3">[2]</a></sup>
-    - Cuộc gặp của [Celeborn](../C/Celeborn.md) và [Thranduil](../T/Thranduil.md) tại [Eryn Lasgalen](../E/Eryn_Lasgalen.md). [Phần phía nam](../E/East_Lórien.md) được trao cho [Lothlórien](../L/Lothlórien.md)và phần giữa của nó được trao cho [Người phương Bắc](../N/Northmen.md).<sup id="cite_ref-AppB4_3-1" class="reference"><a href="#cite_note-AppB4-3">[2]</a></sup>
-    - [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md), được cứu ra khỏi đám cháy, nghỉ ngơi tại [Ithilien](../I/Ithilien.md).
+    - Năm mới của thần tiên.<sup id="cite_ref-AppB4_3-0" class="reference"><a href="#cite_note-AppB4-3">[2]</a></sup>
+    - Cuộc gặp gỡ của [Celeborn](../C/Celeborn.md) và [Thranduil](../T/Thranduil.md) tại [Eryn Lasgalen](../E/Eryn_Lasgalen.md). [Phần phía nam](../E/East_Lórien.md) được trao cho [Lothlórien](../L/Lothlórien.md) và phần giữa của nó được trao cho [Người phương bắc](../N/Northmen.md).<sup id="cite_ref-AppB4_3-1" class="reference"><a href="#cite_note-AppB4-3">[2]</a></sup>
+    - [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md), được cứu ra khỏi đám cháy, nghỉ ngơi ở [Ithilien](../I/Ithilien.md).
 - [T.A.](../T/Third_Age.md) [3020](../T/Third_Age_3020.md):
-    - Cây [mallorn](../M/Mallorn.md) được [Samwise Gamgee](../S/Samwise_Gamgee.md) trồng ở [Party Field](../P/Party_Field.md) bắt đầu ra hoa.<sup id="cite_ref-AppB4_3-2" class="reference"><a href="#cite_note-AppB4-3">[2]</a></sup>
+    - Cây [mallorn](../M/Mallorn.md) được trồng bởi [Samwise Gamgee](../S/Samwise_Gamgee.md) ở [Sân tiệc](../P/Party_Field.md) bắt đầu ra hoa.<sup id="cite_ref-AppB4_3-2" class="reference"><a href="#cite_note-AppB4-3">[2]</a></sup>
 
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Sự kiện này diễn ra vào hoặc sau Tết Nguyên đán Tiên tộc (<a href="../Y/Yestarë.md" title="Yestarë">Yestarë</a>), nhưng ngày cụ thể không được đưa ra; mặc dù chú thích trong chương này trích dẫn <a href="../A/Appendix_D.md" title="Appendix D">Phụ lục D</a> nêu rõ rằng <a href="../Y/Yestarë.md" title="Yestarë">Yestarë</a> trong Lịch của Imladris "ít nhiều tương ứng với Shire ngày 6 tháng 4".</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Sự kiện này diễn ra vào hoặc sau Năm mới của Yêu tinh (<a href="../Y/Yestarë.md" title="Yestarë">Yestarë</a>), nhưng ngày cụ thể không được đưa ra; mặc dù chú thích trong chương này trích dẫn <a href="../A/Appendix_D.md" title="Appendix D">Phụ lục D</a> nêu rõ rằng <a href="../Y/Yestarë.md" title="Yestarë">Yestarë</a> trong Lịch của Imladris "ít nhiều tương ứng với ngày 6 tháng 4 ở Shire".</span>
 </li>
 </ol></div></span>
 

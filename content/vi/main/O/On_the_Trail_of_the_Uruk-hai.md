@@ -33,11 +33,11 @@ infobox:
         9 (extended)</td></tr><tr><th scope="row" class="tg-infobox-label">Duration</th><td class="tg-infobox-data">0:54 (theatrical) <br/>
           0:54 (extended)</td></tr><tr><th scope="row" class="tg-infobox-label">Events</th><td class="tg-infobox-data">The three hunters continue their pursuit of the <a href="../U/Uruk-hai.md" title="Uruk-hai">Uruk-hai</a></td></tr><tr><th scope="row" class="tg-infobox-label">Characters</th><td class="tg-infobox-data"><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a>, <a href="../L/Legolas.md" title="Legolas">Legolas</a>, <a href="../G/Gimli.md" title="Gimli">Gimli</a> <br/> <a href="../U/Uruk-hai.md" title="Uruk-hai">Uruk-hai</a></td></tr><tr><th scope="row" class="tg-infobox-label">Previous</th><td class="tg-infobox-data"><i><a href="../T/The_Banishment_of_Éomer.md" title="The Banishment of Éomer">The Banishment of Éomer</a></i></td></tr><tr><th scope="row" class="tg-infobox-label">Next</th><td class="tg-infobox-data"><i><a href="../N/Night_Camp_at_Fangorn.md" title="Night Camp at Fangorn">Night Camp at Fangorn</a></i></td></tr></tbody></table>
 
-**Theo dấu vết Uruk-hai** là cảnh thứ bảy của *[The Lord of the Rings: The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)* và cảnh thứ chín của [*The Lord of the Rings: The Two Towers* (phiên bản mở rộng)](<../T/The_Lord_of_the_Rings%253A_The_Two_Towers_(extended_edition).md>).
+**Trên dấu vết của Uruk-hai** là cảnh thứ bảy của *[The Lord of the Rings: The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)* và cảnh thứ chín của [*The Lord of the Rings: The Two Towers* (extended edition)](<../T/The_Lord_of_the_Rings%253A_The_Two_Towers_(extended_edition).md>).
 
 ## Tóm tắt {#Synopsis}
 
-[Aragorn](../A/Aragorn.md), [Legolas](../L/Legolas.md) và [Gimli](../G/Gimli.md) tiếp tục truy đuổi con đường [Uruk-hai](../U/Uruk-hai.md) đang di chuyển nhanh qua vùng đồng bằng Rohan. Legolas nhận xét về tốc độ di chuyển của quân Uruk và Gimli phải vật lộn với việc truy đuổi.
+[Aragorn](../A/Aragorn.md), [Legolas](../L/Legolas.md) và [Gimli](../G/Gimli.md) tiếp tục truy đuổi [Uruk-hai](../U/Uruk-hai.md) đang di chuyển nhanh trên khắp vùng đồng bằng Rohan. Legolas bình luận về tốc độ di chuyển của quân Uruk còn Gimli chật vật trong cuộc truy đuổi.
 
 <blockquote class="tg-quote noexcerpt">
 <p>They run as if the very whips of their masters were behind them.

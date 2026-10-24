@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Willis, Ian"
 ---
 
-**Ian Willis** là nhà thiết kế trò chơi. Anh ấy đã tạo ra <a class="extiw" href="http://en.wikipedia.org/wiki/BBC_Micro" title="wikipedia:BBC Micro">các phiên bản BBC Micro B</a>của hầu hết các trò chơi của [Delta 4](../D/Delta_4.md), bao gồm *[Bored of the Rings](<../B/Bored_of_the_Rings_(video_game).md>)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
+**Ian Willis** là nhà thiết kế trò chơi. Ông đã tạo ra <a class="extiw" href="http://en.wikipedia.org/wiki/BBC_Micro" title="wikipedia:BBC Micro">các phiên bản BBC Micro B</a>của hầu hết các trò chơi của [Delta 4](../D/Delta_4.md), bao gồm *[Bored of the Rings](<../B/Bored_of_the_Rings_(video_game).md>)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

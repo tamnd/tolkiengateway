@@ -19,7 +19,7 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/Jon_Foster_-_Radbug.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/4e/Jon_Foster_-_Radbug.jpg/200px-Jon_Foster_-_Radbug.jpg" decoding="async" loading="lazy" width="200" height="171" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/4/4e/Jon_Foster_-_Radbug.jpg 1.5x" data-file-width="299" data-file-height="255"/></a><figcaption><i>Radbug</i> by <a href="../../category/I/Images_by_Jon_Foster.md" title="Category:Images by Jon Foster">Jon Foster</a></figcaption></figure>
 
-**Radbug** là một [Orc](../O/Orcs.md) dưới sự chỉ huy của [Shagrat](../S/Shagrat.md) tại Tháp [Cirith Ungol](../C/Cirith_Ungol.md). Trong [Trận Cirith Ungol](../B/Battle_of_Cirith_Ungol.md) Radbug đã bị Shagrat móc mắt và giết chết anh ta. Người ta tin rằng Radbug đã không chịu vâng lời anh ta.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Shagrat đe dọa Orc [Snaga](<../S/Snaga_(orc_of_Mordor).md>) với số phận tương tự nếu anh ta không tuân theo mệnh lệnh của mình.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Radbug** là một [Orc](../O/Orcs.md) dưới sự chỉ huy của [Shagrat](../S/Shagrat.md) tại Tháp [Cirith Ungol](../C/Cirith_Ungol.md). Trong [Trận chiến Cirith Ungol](../B/Battle_of_Cirith_Ungol.md) Radbug đã bị Shagrat móc mắt và giết chết ông ta. Người ta tin rằng Radbug đã không chịu vâng lời ông ta.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Shagrat đe dọa Orc [Snaga](<../S/Snaga_(orc_of_Mordor).md>) với số phận tương tự nếu ông ta không tuân theo mệnh lệnh của mình.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

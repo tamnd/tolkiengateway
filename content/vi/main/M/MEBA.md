@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Middle-earth: The Balrog"
 ---
 
-Chuyển hướng đến [Trung Địa: Balrog](Middle-earth%253A_The_Balrog.md).
+Chuyển hướng đến [Middle-earth: The Balrog](Middle-earth%253A_The_Balrog.md).

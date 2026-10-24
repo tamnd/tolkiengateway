@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"Mười ly" ([Círdan](../../main/C/Círdan.md)) - *[The Lord of the Rings Tarot](../../main/T/The_Lord_of_the_Rings_Tarot.md)* minh họa bởi [Peter Pracownik](../../main/P/Peter_Pracownik.md)
+"Mười ly" ([Círdan](../../main/C/Círdan.md)) - *[The Lord of the Rings Tarot](../../main/T/The_Lord_of_the_Rings_Tarot.md)* minh họa của [Peter Pracownik](../../main/P/Peter_Pracownik.md)
 
 ## Giấy phép {#Licensing}
 

@@ -14,7 +14,7 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Tolkien Society"
 ---
 
-- [Hội Tolkien](../../main/T/The_Tolkien_Society.md) đã vui lòng cấp phép cho phép bao gồm *[Amon Hen](<../../category/I/Images_of_Amon_Hen_(journal).md>)* và *[Mallorn](<../../category/I/Images_of_Mallorn_(journal).md>)* trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
+- [Hiệp hội Tolkien](../../main/T/The_Tolkien_Society.md) đã vui lòng cấp phép cho phép che phủ *[Amon Hen](<../../category/I/Images_of_Amon_Hen_(journal).md>)* và *[Mallorn](<../../category/I/Images_of_Mallorn_(journal).md>)* trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
 - Ngày: 25 tháng 2 năm 2012
-- Xuất bản: tháng 5 năm 2012, vào năm [Amon Hen 235](../../main/A/Amon_Hen_235.md)
+- Xuất bản: tháng 5 năm 2012, trong [Amon Hen 235](../../main/A/Amon_Hen_235.md)
 - Người dùng đã xin phép: [Người dùng: Mith](https://tolkiengateway.net/wiki/User:Mith)

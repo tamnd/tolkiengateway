@@ -64,13 +64,13 @@ infobox:
 
 ## Lịch sử {#History}
 
-Tar-Vanimeldë ít suy nghĩ đến tính thực tế của chính phủ, thích âm nhạc và khiêu vũ hơn. Bà để lại công việc quốc gia hàng ngày cho chồng mình [Herucalmo](../H/Herucalmo.md), người thuộc dòng dõi quý tộc (cùng đẳng cấp với [Tar-Atanamir](Tar-Atanamir.md)), và là người cai trị Númenor một cách hiệu quả trong khi vợ ông nắm giữ [Quyền trượng](../S/Sceptre.md).<sup id="cite_ref-Tar-Vanimelde_1-6" class="reference"><a href="#cite_note-Tar-Vanimelde-1">[1]</a></sup>
+Tar-Vanimeldë ít suy nghĩ đến tính thực tế của chính phủ, thích âm nhạc và khiêu vũ hơn. Bà để lại công việc quốc gia hàng ngày cho chồng mình [Herucalmo](../H/Herucalmo.md), người cũng thuộc dòng dõi quý tộc (cùng đẳng cấp với [Tar-Atanamir](Tar-Atanamir.md)), và là người cai trị Númenor một cách hiệu quả trong khi vợ ông nắm giữ [Quyền trượng](../S/Sceptre.md).<sup id="cite_ref-Tar-Vanimelde_1-6" class="reference"><a href="#cite_note-Tar-Vanimelde-1">[1]</a></sup>
 
-Khi bà chết, con trai bà [Alcarin](Tar-Alcarin.md) lẽ ra phải nắm giữ Vương trượng, nhưng Herucalmo từ chối từ bỏ quyền lực của mình. Thay vào đó, mặc dù không có yêu cầu pháp lý đối với ngai vàng, nhưng ông lấy tên [Tar-Anducal](Tar-Anducal.md) và cai trị với tư cách Vua trong hai mươi năm tiếp theo. Sau cái chết của Herucalmo, vương quyền được trao lại cho người thừa kế hợp pháp, con trai ông, người trở thành [Tar-Alcarin](Tar-Alcarin.md).<sup id="cite_ref-Tar-Vanimelde_1-7" class="reference"><a href="#cite_note-Tar-Vanimelde-1">[1]</a></sup>
+Khi bà chết, con trai bà [Alcarin](Tar-Alcarin.md) lẽ ra phải nắm giữ Vương trượng, nhưng Herucalmo từ chối từ bỏ quyền lực của mình. Thay vào đó, mặc dù không có yêu cầu pháp lý đối với ngai vàng, nhưng ông lấy tên là [Tar-Anducal](Tar-Anducal.md) và cai trị với tư cách là Vua trong hai mươi năm tiếp theo. Sau cái chết của Herucalmo, vương quyền được trao lại cho người thừa kế hợp pháp, con trai ông, người trở thành [Tar-Alcarin](Tar-Alcarin.md).<sup id="cite_ref-Tar-Vanimelde_1-7" class="reference"><a href="#cite_note-Tar-Vanimelde-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Vanimeldë* là tên [Quenya](../Q/Quenya.md). Ý nghĩa của nó không được giải thích rõ ràng, nhưng Paul Strack gợi ý rằng nó có thể có nghĩa là "elven-fair" là một dạng nữ tính của *[vanimelda](../V/Vanimelda.md)* ("xinh đẹp và được yêu mến", "elven-fair").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Giống như tất cả những người cai trị của Númenor đã lấy tên hoàng gia của họ trong Quenya, *Vanimeldë* đã thêm tiền tố *tar-* ("cao") vào tên của cô khi cô nhận được [Quyền trượng](../S/Sceptre_of_Númenor.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+*Vanimeldë* là tên [Quenya](../Q/Quenya.md). Ý nghĩa của nó không được giải thích rõ ràng, nhưng Paul Strack gợi ý rằng nó có thể có nghĩa là "elven-fair" là một dạng nữ tính của *[vanimelda](../V/Vanimelda.md)* ("xinh đẹp và được yêu mến", "elven-fairy").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Giống như tất cả những người cai trị Númenor lấy tên hoàng gia ở Quenya, *Vanimeldë* đã thêm tiền tố *tar-* ("cao") vào tên của cô khi cô nhận được [Quyền trượng](../S/Sceptre_of_Númenor.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Phả hệ {#Genealogy}
 

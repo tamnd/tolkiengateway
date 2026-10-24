@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Middle-earth: The Dragons"
 ---
 
-Chuyển hướng đến [Trung Địa: Rồng](Middle-earth%253A_The_Dragons.md).
+Chuyển hướng đến [Middle-earth: The Dragons](Middle-earth%253A_The_Dragons.md).

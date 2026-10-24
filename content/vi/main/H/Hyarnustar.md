@@ -48,7 +48,7 @@ images:
 </tbody></table>
 </div>
 
-**Hyarnustar** là phía tây nam của năm vùng [Númenor](../N/Númenor.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> nổi tiếng với những vườn nho và đất nông nghiệp màu mỡ, mặc dù vùng này có nhiều núi non hơn ở phía tây nam xa xôi. Bờ biển dài phía nam của Hyarnustar dẫn đến [Hyarrostar](Hyarrostar.md) bao gồm những bãi biển rộng màu trắng và những bãi biển xám.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Hyarnustar** là vùng phía tây nam của năm vùng [Númenor](../N/Númenor.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> nổi tiếng với những vườn nho và đất nông nghiệp màu mỡ, mặc dù vùng này có nhiều núi non hơn ở phía tây nam xa xôi. Bờ biển dài phía nam của Hyarnustar dẫn đến [Hyarrostar](Hyarrostar.md) bao gồm những bãi biển trắng rộng và những bãi biển xám.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

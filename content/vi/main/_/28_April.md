@@ -66,12 +66,12 @@ Sự kiện xảy ra vào ngày 28 tháng 4.
 ## Trên Trái đất {#On_Earth}
 
 - **[1915](1915.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết *[You and Me / and the Cottage of Lost Play](../T/The_Little_House_of_Lost_Play%253A_Mar_Vanwa_Tyaliéva.md)*.
-- **[1936](1936.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết bản thảo "[Primitive Quendian: Phụ âm cuối](../P/Parma_Eldalamberon_21.md)".
+- **[1936](1936.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết bản thảo "[Primitive Quendian: Final Consonants](../P/Parma_Eldalamberon_21.md)".
 - **[1948](1948.md)** - Tác giả [Terry Pratchett](../T/Terry_Pratchett.md) ra đời.
-- **[1956](1956.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một lá thư cho Deirdre Levinson](<../L/Letter_to_Deirdre_Levinson_(28_April_1956).md>).
+- **[1956](1956.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một bức thư cho Deirdre Levinson](<../L/Letter_to_Deirdre_Levinson_(28_April_1956).md>).
 - **[1961](1961.md)** - Diễn viên [Jamieson Price](../J/Jamieson_Price.md) ra đời.
 - **[1965](1965.md)** - Diễn viên [Steven Jay Blum](../S/Steven_Jay_Blum.md) ra đời.
-- **[1967](1967.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một lá thư cho John Leyerle](../L/Letter_to_John_Leyerle.md).
+- **[1967](1967.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một bức thư cho John Leyerle](../L/Letter_to_John_Leyerle.md).
 - **[1972](1972.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư cho bà Robertson](../L/Letter_to_Mrs_Robertson.md).
 - **[1979](1979.md)** - *[One Ring to Bind Them All: Tolkien's Mythology](../O/One_Ring_to_Bind_Them_All%253A_Tolkien's_Mythology.md)* được xuất bản.
 - **[2001](2001.md)** - Diễn viên [Paul Daneman](../P/Paul_Daneman.md) qua đời.
@@ -81,4 +81,4 @@ Sự kiện xảy ra vào ngày 28 tháng 4.
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [2941](../T/Third_Age_2941.md):
-    - [Bilbo](../B/Bilbo_Baggins.md) rời [Bag End](../B/Bag_End.md) và bắt đầu cuộc hành trình đến [Ngọn Núi Cô Đơn](../L/Lonely_Mountain.md) cùng với [Gandalf](../G/Gandalf.md) và [những người lùn](../T/Thorin_and_Company.md).
+    - [Bilbo](../B/Bilbo_Baggins.md) rời [Bag End](../B/Bag_End.md) và bắt đầu cuộc hành trình đến [Ngọn núi Cô đơn](../L/Lonely_Mountain.md) cùng với [Gandalf](../G/Gandalf.md) và [những người lùn](../T/Thorin_and_Company.md).

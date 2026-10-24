@@ -45,7 +45,7 @@ langlinks:
 <li><a class="mw-selflink selflink">Foreyule</a> (December)</li></ol>
 </td></tr></tbody></table>
 
-**Ngày cận kề** là tháng cuối cùng của [Lịch Shire](../S/Shire_Calendar.md), ba mươi ngày ngay trước ngày lễ [Yule](../Y/Yule.md) và gần tương ứng với [ngày 21 tháng 11](../_/21_November.md) đến [ngày 20 tháng 12](../_/20_December.md) hiện đại. Nó được gọi là [Yulemath](../Y/Yulemath.md) trong [Bree](../B/Bree.md) và [Eastfarthing](../E/Eastfarthing.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Ngày cận kề** là tháng cuối cùng của [Lịch Quận](../S/Shire_Calendar.md), ba mươi ngày ngay trước ngày lễ [Yule](../Y/Yule.md) và gần tương ứng với [21 tháng 11](../_/21_November.md) đến [20 tháng 12](../_/20_December.md) hiện đại. Nó được gọi là [Yulemath](../Y/Yulemath.md) ở [Bree](../B/Bree.md) và [Eastfarthing](../E/Eastfarthing.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

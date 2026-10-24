@@ -49,11 +49,11 @@ Một ngôi nhà trên cây đơn giản nằm dưới bóng của đỉnh núi 
 
 Một kẻ xâm nhập từ Ettenmoors ám ảnh một hang động ở Witbeamwyd. Nông dân báo cáo gia súc bị mất tích. Vào ban đêm, mặt đất rung chuyển với những tiếng động nặng nề, và ánh sáng ban ngày để lộ những dấu chân khổng lồ dài cả thước. Nó có phải là một con Troll quái dị không? Có phải là một con ma? Bạn có thể giải được Câu đố về Ridorthû không?
 
-Một con rồng lửa khổng lồ đã bò ra khỏi bóng tối của phương bắc Dãy Núi Sương Mù. Con đường hủy diệt rực lửa của anh ta dẫn đến Witbeamwyd và tòa thị chính nơi anh ta nằm không bị cản trở. Bạn có thể sánh được với sức mạnh to lớn và hơi thở nóng bỏng của Gerse's Bane không?
+Một con rồng lửa khổng lồ đã bò ra khỏi bóng tối của Dãy núi Sương mù phía bắc. Con đường hủy diệt rực lửa của ông ta dẫn đến Witbeamwyd và tòa thị chính nơi ông ta nằm không bị cản trở. Bạn có thể sánh được với sức mạnh to lớn và hơi thở nóng bỏng của Gerse's Bane không?
 
 ## Lễ tân {#Reception}
 
-Trong bài đánh giá cho [Rồng Magazine](../D/Dragon_Magazine.md), Ken Rolston đánh giá cao phần bổ sung này vì những cuộc phiêu lưu "thông minh, có động lực tốt, \[và\] được dàn dựng tốt". Ông ca ngợi tác phẩm đã bảo tồn được "phẩm giá và trí thông minh" trong bối cảnh của Tolkien, đồng thời lưu ý rằng các nhân vật phản diện "có sức thuyết phục về mặt tâm lý, chứ không phải là những bức tranh biếm họa về cái ác trong truyện tranh." Mặc dù bài đánh giá chỉ trích bố cục kiểu tham chiếu khô khan và thiếu ghi chú nhập vai cho các nhân vật người chơi được cung cấp, nhưng bài đánh giá kết luận rằng các cuộc phiêu lưu của mô-đun đã tích hợp thành công các yếu tố giả tưởng mà không trở thành "trò chơi ngục tối thông thường".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Trong một bài đánh giá cho [Tạp chí Dragon](../D/Dragon_Magazine.md), Ken Rolston đánh giá cao phần bổ sung này vì những cuộc phiêu lưu "thông minh, có động lực tốt, \[và\] được dàn dựng tốt". Ông ca ngợi tác phẩm đã bảo tồn được "phẩm giá và trí thông minh" trong bối cảnh của Tolkien, đồng thời lưu ý rằng các nhân vật phản diện "có sức thuyết phục về mặt tâm lý, chứ không phải là những bức tranh biếm họa trong truyện tranh về cái ác." Mặc dù bài đánh giá chỉ trích bố cục kiểu tham chiếu khô khan và thiếu ghi chú nhập vai cho các nhân vật người chơi được cung cấp, nhưng bài đánh giá kết luận rằng các cuộc phiêu lưu của mô-đun đã tích hợp thành công các yếu tố giả tưởng mà không trở thành "trò chơi ngục tối thông thường".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

@@ -16,11 +16,11 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><a href="../F/First_Age.md" title="First Age">I</a><a href="../S/Second_Age.md" title="Second Age">II</a><b>III</b><a href="../F/Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="Third_Age_2002.md" title="Third Age 2002">2002</a><a href="Third_Age_2004.md" title="Third Age 2004">2004</a><a href="Third_Age_2012.md" title="Third Age 2012">2012</a><a class="mw-selflink selflink">2029</a><a href="Third_Age_2035.md" title="Third Age 2035">2035</a><a href="Third_Age_2037.md" title="Third Age 2037">2037</a><a href="Third_Age_2043.md" title="Third Age 2043">2043</a></div></div></div></div></div></div>
 
-**Kỷ Đệ Tam 2029** (viết tắt là **T.A. 2029**) là năm [2029 năm Mặt Trời](../Y/Years_of_the_Sun.md) năm [Kỷ Đệ Tam](Third_Age.md) năm [Trung Địa](../M/Middle-earth.md). Kỷ Đệ Tam 2029 còn được gọi là **S.R. 429** trong [lịch Shire](../S/Shire-reckoning.md).
+**Tuổi thứ ba 2029** (viết tắt là **T.A. 2029**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 2029 của [Tuổi thứ ba](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Thời đại thứ ba 2029 còn được gọi là **S.R. 429** trong [Tính toán quận](../S/Shire-reckoning.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- Cái chết của Người quản lý [Vorondil](../V/Vorondil.md) của [Gondor](../G/Gondor.md).<sup id="cite_ref-AppA_1-0" class="reference"><a href="#cite_note-AppA-1">[1]</a></sup>
+- Cái chết của Quản gia [Vorondil](../V/Vorondil.md) của [Gondor](../G/Gondor.md).<sup id="cite_ref-AppA_1-0" class="reference"><a href="#cite_note-AppA-1">[1]</a></sup>
 - [Mardil](../M/Mardil.md), con trai của Vorondil, trở thành Quản gia của [Vua](../K/Kings_of_Gondor.md) [Eärnil II](../E/Eärnil_II.md).<sup id="cite_ref-AppA_1-1" class="reference"><a href="#cite_note-AppA-1">[1]</a></sup>
 
 <span></span>

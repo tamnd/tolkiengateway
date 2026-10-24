@@ -17,7 +17,7 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/D/Diplomatarium_Islandicum_manuscripts.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/e/e4/Diplomatarium_Islandicum_manuscripts.jpg/300px-Diplomatarium_Islandicum_manuscripts.jpg" decoding="async" loading="lazy" width="300" height="171" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e4/Diplomatarium_Islandicum_manuscripts.jpg/450px-Diplomatarium_Islandicum_manuscripts.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/e/e4/Diplomatarium_Islandicum_manuscripts.jpg/600px-Diplomatarium_Islandicum_manuscripts.jpg 2x" data-file-width="965" data-file-height="549"/></a><figcaption></figcaption></figure>
 
-Bản thảo <b><i>Diplomatarium Islandicum</i></b> đề cập đến [các ghi chú chưa được xuất bản](../../index/U/Unpublished_material.md) của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được chèn vào bản sao *[Diplomatarium Islandicum](../L/List_of_books_in_Tolkien's_library.md#Diplomatarium_Islandicum)*của ông.<sup id="cite_ref-Rare_1-0" class="reference"><a href="#cite_note-Rare-1">[1]</a></sup>
+Bản thảo <b><i>Diplomatarium Islandicum</i></b> đề cập đến [các ghi chú chưa được xuất bản](../../index/U/Unpublished_material.md) của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được chèn vào bản sao *[Diplomatarium Islandicum](../L/List_of_books_in_Tolkien's_library.md#Diplomatarium_Islandicum)* của ông.<sup id="cite_ref-Rare_1-0" class="reference"><a href="#cite_note-Rare-1">[1]</a></sup>
 
 ## Phiên âm {#Transcription}
 

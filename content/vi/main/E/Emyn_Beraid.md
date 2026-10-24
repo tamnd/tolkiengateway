@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tower Hills"
 ---
 
-Chuyển hướng đến [Đồi Tháp](../T/Tower_Hills.md).
+Chuyển hướng tới [Tower Hills](../T/Tower_Hills.md).

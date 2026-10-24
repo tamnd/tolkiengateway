@@ -27,7 +27,7 @@ file:
 
 Ảnh hồ sơ người dùng.
 
-Sự cho phép của nhiếp ảnh gia Alexander Boehme-Mason cho trang người dùng của riêng anh ấy.
+Sự cho phép của nhiếp ảnh gia Alexander Boehme-Mason cho trang người dùng của riêng ông.
 
 ## Giấy phép {#Licensing}
 

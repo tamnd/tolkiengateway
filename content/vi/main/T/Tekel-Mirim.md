@@ -26,15 +26,15 @@ infobox:
 
 ## Lịch sử {#History}
 
-Tekel-Mirim là một hành tinh nhỏ có kích thước tương đương với [Trái đất](../A/Ambar.md). [Mặt Trời](../S/Sun.md) cung cấp ánh sáng cho nó lớn hơn mặt trời Trái đất, mặc dù nó mờ hơn và các [Các ngôi sao](../S/Stars.md) mờ nhạt và sắp xếp một cách kỳ lạ. Một lúc sau, Ramer cho rằng điều này có thể là do thứ mà anh ấy nghĩ là không khí thực ra có thể là nước hoặc chất lỏng khác và anh ấy "*có thể đã ở dưới đáy một vùng biển nông rộng*". Mặc dù không thể chắc chắn nhưng anh ấy nghi ngờ rằng Tekel-Mirim nằm trong một hệ mặt trời có lẽ nằm trong một tinh vân lớn hơn nhiều so với tinh vân ở <a class="extiw" href="http://en.wikipedia.org/wiki/Andromeda" title="wikipedia:Andromeda">Andromeda</a>.<sup id="cite_ref-Tekel_1-1" class="reference"><a href="#cite_note-Tekel-1">[1]</a></sup>
+Tekel-Mirim là một hành tinh nhỏ có kích thước tương đương với [Trái đất](../A/Ambar.md). [Mặt trời](../S/Sun.md) cung cấp ánh sáng cho nó lớn hơn mặt trời Trái đất, mặc dù nó mờ hơn và các [Các ngôi sao](../S/Stars.md) mờ nhạt và sắp xếp một cách kỳ lạ. Một lúc sau, Ramer cho rằng điều này có thể là do thứ mà ông nghĩ là không khí thực ra có thể là nước hoặc chất lỏng khác và ông "*có thể đã ở dưới đáy một vùng biển nông rộng*". Mặc dù không thể chắc chắn nhưng ông nghi ngờ rằng Tekel-Mirim nằm trong một hệ mặt trời có lẽ nằm trong một tinh vân lớn hơn nhiều so với tinh vân ở <a class="extiw" href="http://en.wikipedia.org/wiki/Andromeda" title="wikipedia:Andromeda">Andromeda</a>.<sup id="cite_ref-Tekel_1-1" class="reference"><a href="#cite_note-Tekel-1">[1]</a></sup>
 
-Bản thân hành tinh Tekel-Mirim là một vùng đất pha lê. Trong đó, Ramer ví vĩ đại nhất trong số đó là kim tự tháp Ai Cập. Tuy nhiên, anh ta không thể đánh giá kích thước chính xác, tin rằng điều này là do cơ thể của anh ta không tương phản. Theo Ramer, chính vật chất vô tri đã phát triển thành vô số dạng tinh thể có độ phức tạp khác nhau.<sup id="cite_ref-Tekel_1-2" class="reference"><a href="#cite_note-Tekel-1">[1]</a></sup>
+Bản thân hành tinh Tekel-Mirim là một vùng đất pha lê. Trong đó, Ramer ví vĩ đại nhất trong số đó là kim tự tháp Ai Cập. Tuy nhiên, ông ta không thể đánh giá kích thước chính xác, tin rằng điều này là do cơ thể của ông ta không tương phản. Theo Ramer, chính vật chất vô tri đã phát triển thành vô số dạng tinh thể có độ phức tạp khác nhau.<sup id="cite_ref-Tekel_1-2" class="reference"><a href="#cite_note-Tekel-1">[1]</a></sup>
 
 Khi thời gian chiêm nghiệm trôi qua, Ramer nhận thấy những hình thức này cũng trải qua một quá trình tan rã đẹp đẽ, mặc dù vẫn còn một số cấu trúc cơ bản. Trong một lần đến thăm hành tinh này, anh đã có cảm giác muốn quay trở lại cơ thể của mình, nhưng khi đang làm vậy, anh bị phân tâm bởi một quả cầu đưa anh đến một khung cảnh hoàn toàn khác với Tekel-Mirim.<sup id="cite_ref-Tekel_1-3" class="reference"><a href="#cite_note-Tekel-1">[1]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong bản nháp trước đó [Christopher Tolkien](../C/Christopher_Tolkien.md) gọi là *A*, Tên ban đầu của hành tinh là **Tekel-Ishtar** trước khi được đổi thành tên *Tekel-Mirim* trong phiên bản cuối cùng.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Trong bản nháp trước đó mà [Christopher Tolkien](../C/Christopher_Tolkien.md) gọi là *A*, Tên ban đầu của hành tinh là **Tekel-Ishtar** trước khi được đổi thành tên *Tekel-Mirim* trong phiên bản cuối cùng.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Xem thêm {#See_also}
 

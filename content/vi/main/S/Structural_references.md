@@ -21,7 +21,7 @@ images:
 <p class="tg-quote-footer"><cite><a href="../G/Glóin.md" title="Glóin">Glóin</a></cite></p>
 </blockquote></div></div>
 
-**Tài liệu tham khảo về cấu trúc** (còn được gọi là **Arda tài liệu tham khảo về cấu trúc**) là một thuật ngữ được đặt ra bởi [Beregond, Anders Stenström](../A/Anders_Stenström.md) vào năm 1998, nhằm mục đích đơn giản hóa việc sử dụng việc đưa ra tài liệu tham khảo cho các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) bằng cách sử dụng các từ viết tắt và một số quy ước được phát triển trong *[Arda](<../A/Arda_(annual).md>)*.
+**Tham chiếu cấu trúc** (còn được gọi là **Tham chiếu cấu trúc Arda**) là một thuật ngữ được đặt ra bởi [Beregond, Anders Stenström](../A/Anders_Stenström.md) vào năm 1998, nhằm mục đích đơn giản hóa việc sử dụng việc đưa ra tham chiếu cho các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) bằng cách sử dụng các từ viết tắt và một số quy ước được phát triển trong *[Arda](<../A/Arda_(annual).md>)*.
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
 <p>A structural reference identifies an element of the text by help of its place in the text&#39;s structure (rather than by its place in the layout of the book, which does not work when editions differ in layout).
@@ -33,5 +33,5 @@ Phiên bản tiếng Tây Ban Nha của tài liệu tham khảo cấu trúc Arda
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://www.forodrim.org/arda/arda_ref.html" rel="noreferrer noopener" target="_blank">Định dạng Arda dành cho tham chiếu cấu trúc của các tác phẩm của J.R.R. Tolkien</a>
+- <a class="external text" href="http://www.forodrim.org/arda/arda_ref.html" rel="noreferrer noopener" target="_blank">Định dạng Arda dành cho tham chiếu cấu trúc đến các tác phẩm của J.R.R. Tolkien</a>
 - <a class="external text" href="http://www.sociedadtolkien.org/noticia.php?id=68" rel="noreferrer noopener" target="_blank">Dự án Ardarathorn</a> (tải xuống tệp zip, nội dung bằng tiếng Tây Ban Nha và tiếng Anh)

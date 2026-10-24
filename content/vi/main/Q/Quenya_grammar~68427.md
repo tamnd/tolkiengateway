@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Quenya/Grammar"
 ---
 
-Chuyển hướng tới [Quenya/Ngữ pháp](Quenya%252FGrammar.md).
+Chuyển hướng đến [Quenya/Ngữ pháp](Quenya%252FGrammar.md).

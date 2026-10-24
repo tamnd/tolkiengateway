@@ -31,7 +31,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Sau khi xuất bản *[The Adventures of Tom Bombadil](../T/The_Adventures_of_Tom_Bombadil.md)* sáu ngày trước đó, hai đánh giá đã được xuất bản: một của *The Times Literary Supplement*và một trong *The Listener*. Cả hai đều tích cực, nhưng Tolkien cho rằng cả hai người đánh giá đều bắt đầu không muốn thấy buồn cười. Anh ấy vẫn bối rối không hiểu tại sao "nếu một 'giáo sư' thể hiện bất kỳ kiến ​​​​thức nào về kỹ thuật chuyên môn của mình thì đó phải là 'sự đánh cược', nhưng nếu một nhà văn thể hiện kiến ​​​​thức về luật hoặc tòa án thì điều đó được cho là thú vị và đáng tin cậy." <br>
+Sau khi xuất bản *[The Adventures of Tom Bombadil](../T/The_Adventures_of_Tom_Bombadil.md)* sáu ngày trước đó, hai đánh giá đã được xuất bản: một của *The Times Literary Supplement* và một trong *The Listener*. Cả hai đều tích cực, nhưng Tolkien cho rằng cả hai người đánh giá đều bắt đầu không muốn cảm thấy thích thú. Ông vẫn bối rối không hiểu tại sao "nếu một 'giáo sư' thể hiện bất kỳ kiến ​​​​thức nào về kỹ thuật chuyên môn của mình thì đó phải là 'sự đánh cược', nhưng nếu một nhà văn thể hiện kiến ​​​​thức về luật hoặc tòa án thì điều đó được cho là thú vị và đáng tin cậy." <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Book of Lost Tales: Part One"
 ---
 
-Chuyển hướng đến [The Book of Lost Tales: Phần thứ nhất](The_Book_of_Lost_Tales%253A_Part_One.md).
+Chuyển hướng đến [The Book of Lost Tales: Part One](The_Book_of_Lost_Tales%253A_Part_One.md).

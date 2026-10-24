@@ -19,11 +19,11 @@ langlinks:
     url: "https://www.ardapedia.org/wiki/Die_Erz%C3%A4hlung_von_Aragorn_und_Arwen"
 ---
 
-<i><b>Câu chuyện về Aragorn và Arwen</b></i> là một câu chuyện [Gondor](../G/Gondorians.md) được viết vào thời kỳ đầu [Kỷ Đệ Tứ](../F/Fourth_Age.md). Nó kể câu chuyện lãng mạn của [Aragorn](../A/Aragorn.md) và [Arwen](../A/Arwen.md) từ những ngày trước khi Aragorn ra đời cho đến khi Arwen tuyệt vọng trước sự ra đi của mình.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>Câu chuyện về Aragorn và Arwen</b></i> là một câu chuyện [Gondorian](../G/Gondorians.md) được viết vào đầu [Kỷ thứ tư](../F/Fourth_Age.md). Nó kể câu chuyện về mối tình lãng mạn của [Aragorn](../A/Aragorn.md) và [Arwen](../A/Arwen.md) từ những ngày trước khi Aragorn chào đời cho đến khi Arwen tuyệt vọng vì mất mát.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Lịch sử {#History}
 
-Truyện được viết bằng [Gondor](../G/Gondor.md) bởi [Barahir](<../B/Barahir_(grandson_of_Faramir).md>), cháu trai của [Thân vương](../P/Prince.md) [Faramir](../F/Faramir.md) của [Ithilien](../I/Ithilien.md). Nó đã được [Findegil](../F/Findegil.md) chèn vào bản sao của [Thain Sách](Thain's_Book.md), nhưng ở dạng rút gọn - các đoạn liên quan đến [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md) đã bị xóa để tránh lặp lại câu chuyện chính của Cuốn sách đó.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Câu chuyện được viết ở [Gondor](../G/Gondor.md) bởi [Barahir](<../B/Barahir_(grandson_of_Faramir).md>), cháu trai của [Hoàng tử](../P/Prince.md) [Faramir](../F/Faramir.md) của [Ithilien](../I/Ithilien.md). Nó đã được [Findegil](../F/Findegil.md) chèn vào một bản sao của [Sách của Thain](Thain's_Book.md), nhưng ở dạng rút gọn - những đoạn liên quan đến [Cuộc chiến trên chiếc nhẫn](../W/War_of_the_Ring.md) đã bị xóa để tránh lặp lại câu chuyện chính của Cuốn sách đó.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

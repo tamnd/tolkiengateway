@@ -14,7 +14,7 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Haagensen, Per Øyvind"
 ---
 
-- Per Øyvind Haagensen đã vui lòng cho phép anh ấy sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Per_Øyvind_Haagensen.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
-- Haagensen vẽ bìa cho *[The Lord of the Rings: Conquest](../../main/T/The_Lord_of_the_Rings%253A_Conquest.md)*; anh ấy không sở hữu bản quyền ở đây.
+- Per Øyvind Haagensen đã vui lòng cho phép ông sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Per_Øyvind_Haagensen.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
+- Haagensen vẽ bìa cho *[The Lord of the Rings: Conquest](../../main/T/The_Lord_of_the_Rings%253A_Conquest.md)*; ông không sở hữu bản quyền ở đây.
 - Ngày: 28 tháng 7 năm 2012
 - Người dùng đã xin phép qua email: [Người dùng:KingAragorn](https://tolkiengateway.net/wiki/User:KingAragorn)

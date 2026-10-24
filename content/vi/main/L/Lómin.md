@@ -24,11 +24,11 @@ sort_keys:
 
 ## Có cùng nguồn gốc {#Cognates}
 
-- [Sindarin](../S/Sindarin.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Loven&amp;action=edit&amp;redlink=1" title="Loven (page does not exist)">yêu</a>,<sup id="cite_ref-PE_1-1" class="reference"><a href="#cite_note-PE-1">[1]</a></sup> <a class="new" href="https://tolkiengateway.net/w/index.php?title=Glamren&amp;action=edit&amp;redlink=1" title="Glamren (page does not exist)">glamren</a></i>
+- [Sindarin](../S/Sindarin.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Loven&amp;action=edit&amp;redlink=1" title="Loven (page does not exist)">loven</a>,<sup id="cite_ref-PE_1-1" class="reference"><a href="#cite_note-PE-1">[1]</a></sup> <a class="new" href="https://tolkiengateway.net/w/index.php?title=Glamren&amp;action=edit&amp;redlink=1" title="Glamren (page does not exist)">glamren</a></i>
 
 ## Phiên bản khác {#Other_version}
 
-Từ trước đây được đề cập là [Doriathrin](../D/Doriathrin.md),<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> một biến thể của *lómen* <span></span>
+Từ này trước đây được đề cập là [Doriathrin](../D/Doriathrin.md),<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> một biến thể của *lómen* <span></span>
 
 ## Tài liệu tham khảo {#References}
 

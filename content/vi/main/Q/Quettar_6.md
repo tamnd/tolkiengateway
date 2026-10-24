@@ -26,8 +26,8 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span><i>Quettar</i>: Issue 6</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../S/Susan_Rule.md" title="Susan Rule">Susan Rule</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Tolkien Society</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../J/January.md" title="January">January</a> <a href="../_/1981.md" title="1981">1981</a></td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">5</td></tr></tbody></table>
 
-<b><i>Quettar</i>: Số 6</b> là ấn phẩm của *[Quettar](Quettar.md)*, bản tin của nhóm [ngôn ngữ Tolkien Xã hội](../T/The_Tolkien_Society.md) và Tengwar, do [Susan Rule](../S/Susan_Rule.md) biên tập và bao gồm cả Tengwar Số bổ sung 3, do Steve Pillinger biên tập.
+<b><i>Quettar</i>: Số 6</b> là ấn phẩm của *[Quettar](Quettar.md)*, bản tin của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) nhóm ngôn ngữ và Tengwar, do [Susan Rule](../S/Susan_Rule.md) biên tập và bao gồm cả Phụ bản Tengwar Số 3, do Steve Pillinger biên tập.
 
 ## Nội dung {#Contents}
 
-Trình bày các kế hoạch và ý tưởng cho các thành viên Hội Tolkien và trong Tengwar Phụ lục Số 3, có Chế độ Tengwar tiếng Hà Lan, do Eltjo Poort thực hiện. [Ronald Kyrmse](../R/Ronald_Kyrmse.md) trình bày khám phá của mình về số lượng Người Lùn rune.
+Trình bày các kế hoạch và ý tưởng cho các thành viên của Hiệp hội Tolkien và trong Phần bổ sung Tengwar Số 3, có Chế độ Tengwar của Hà Lan, do Eltjo Poort thực hiện. [Ronald Kyrmse](../R/Ronald_Kyrmse.md) trình bày khám phá của mình về số lượng rune của Người lùn.

@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Hyde, Anthony"
 ---
 
-**Anthony Hyde** là một diễn viên người Anh. Trong số tác phẩm điện ảnh của anh có *Sharpe's Rifles*với sự tham gia của [Sean Bean](../S/Sean_Bean.md). Hyde lồng tiếng cho phần [Éomer](../_/Éomer.md) trong [The Lord of the Rings loạt phim phát thanh năm 1981](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) phát sóng trên [BBC 4](../B/BBC.md).
+**Anthony Hyde** là một diễn viên người Anh. Trong số tác phẩm điện ảnh của anh có *Sharpe's Rifles* với sự tham gia của [Sean Bean](../S/Sean_Bean.md). Hyde lồng tiếng cho phần [Éomer](../_/Éomer.md) trong [The Lord of the Rings 1981 radio series](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) được phát sóng trên [BBC 4](../B/BBC.md).
 
 ## Liên kết ngoài {#External_links}
 

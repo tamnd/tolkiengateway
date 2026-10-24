@@ -43,7 +43,7 @@ infobox:
 
 ## Văn bản bìa/áo khoác {#Cover/Jacket_Text}
 
-Vương quốc Cardolan bao gồm tất cả các vùng đất nằm giữa các Sông Brandywine, Greyflood và Hoarwell. Trong một thời gian, Cardolan đã đứng đầu trong việc chống lại các lực lượng của Vua Phù thủy, thực hiện các chiến dịch chống lại Orc, Troll và Easterlings của mình. Đó là những ngày của Quân đội Hoàng gia. Giờ chỉ còn lại lính đánh thuê và nhà thám hiểm để chặn bước tiến của Bóng Tối. Xung đột vẫn tiếp diễn nhưng đó là một cuộc chiến cướp bóc, đốt phá mùa màng và bao vây bất phân thắng bại; chiến tranh với ít danh dự và không có vinh quang.
+Vương quốc Cardolan bao gồm tất cả các vùng đất nằm giữa sông Brandywine, Greyflood và Hoarwell. Trong một thời gian, Cardolan đã đứng đầu trong cuộc kháng chiến chống lại lực lượng của Vua phù thủy, thực hiện các chiến dịch chống lại loài Orc, Troll và Easterlings của hắn. Đó là những ngày của Quân đội Hoàng gia. Giờ chỉ còn lại lính đánh thuê và nhà thám hiểm để chặn bước tiến của Bóng tối. Xung đột vẫn tiếp diễn nhưng đó là một cuộc chiến cướp bóc, đốt phá mùa màng và bao vây bất phân thắng bại; chiến tranh với ít danh dự và không có vinh quang.
 
 KHÁM PHÁ:
 
@@ -51,13 +51,13 @@ KHÁM PHÁ:
 - LOND DAER ENEDH, cảng biển cổ xưa của Aldarion
 - BARAD GIRITHLIN, tòa tháp hùng vĩ của Đại gia tộc Cardolan
 
-Cuộc sống thật khó khăn và không thể tha thứ đối với người dân Cardolan. Đối với những người có tham vọng và sức mạnh mạnh mẽ thì đây là thời điểm của cơ hội. Các Hoàng tử của Cardolan luôn có chiến tranh và rất ít nhóm lính đánh thuê yêu cầu tài liệu tham khảo. Những kẻ bán kiếm, được biết đến với mức lương thấp và tỷ lệ tử vong cao, gây ra xung đột liên miên. Đối với những người có mục đích cao cả hơn, luôn có mối đe dọa từ Vua Phù thủy và các đặc vụ của hắn. Người mạnh nhất trong số này là Warlord độc hại mà cái chết của ông ít người than thở.
+Cuộc sống thật khó khăn và không thể tha thứ đối với người dân Cardolan. Đối với những người có tham vọng và sức mạnh mạnh mẽ thì đây là thời điểm của cơ hội. Các Hoàng tử Cardolan luôn có chiến tranh và rất ít nhóm lính đánh thuê yêu cầu tài liệu tham khảo. Những kẻ bán kiếm, được biết đến với mức lương thấp và tỷ lệ tử vong cao, gây ra xung đột liên miên. Đối với những người có mục đích cao cả hơn, luôn có mối đe dọa từ Vua phù thủy và các tay sai của hắn. Người mạnh nhất trong số này là Warlord độc hại mà cái chết của ông ít người than thở.
 
 Vương quốc đã mất của CARDOLAN bao gồm:
 
-- 6 TRANG ĐẦY MÀU: 4 trang Cardolan bản đồ khu vực cộng với bản đồ thành phố 2 mặt của Tharbad
+- 6 TRANG ĐẦY MÀU: 4 trang bản đồ khu vực Cardolan cùng với bản đồ thành phố Tharbad 2 mặt
 - BỐ CỤC CHÍNH: bản đồ hoàn chỉnh của Lond Daer Enedh trong các thời kỳ khác nhau, cũng như các thị trấn Sudúri và Metraith, pháo đài Argond và Barad Girithlin, và Cung điện Thalion
-- Cư dân: người Dúnedain, người Eriadoran, tộc Saralann, người Beffraen, người Người phương Bắc và Hobbit
+- Cư dân: người Dúnedain, người Eriadoran, bộ tộc Saralann, người Beffraen, người phương Bắc và người Hobbit
 
 ## Xem thêm {#See_also}
 

@@ -27,7 +27,7 @@ images:
 
 **Cemendur** (phát âm là <span title="Pronunciation in IPA" class="IPA">[keˈmendur]</span>) là [Quenya](../Q/Quenya.md) có nghĩa là "Người hầu của [Trái đất](../A/Ambar.md)" (từ *[kemen](../K/Kemen.md)*, "trái đất" và *[-ndur](../_/-ndur.md)*, "người hầu") và có thể đề cập đến:
 
-- [Cemendur](<Cemendur_(son_of_Axantur).md>) (sinh [S.A.](../S/Second_Age.md) [575](../S/Second_Age_575.md)), con trai của [Axantur](../A/Axantur.md) và một vị thành niên [Númenórean](../N/Númenóreans.md) hoàng gia.
+- [Cemendur](<Cemendur_(son_of_Axantur).md>) (sinh [S.A.](../S/Second_Age.md) [575](../S/Second_Age_575.md)), con trai của [Axantur](../A/Axantur.md) và hoàng gia [Númenórean](../N/Númenóreans.md) vị thành niên.
 - [Cemendur](<Cemendur_(King_of_Gondor).md>) ([S.A.](../S/Second_Age.md) [3399](../S/Second_Age_3399.md) - [T.A.](../T/Third_Age.md) [238](../T/Third_Age_238.md)), [Vua](../K/Kings_of_Gondor.md) thứ tư của [Gondor](../G/Gondor.md).
 
 <hr style="margin-top:15px;"/>

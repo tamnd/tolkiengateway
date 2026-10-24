@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Marish"
 ---
 
-Chuyển hướng đến [Marish](../M/Marish.md).
+Chuyển hướng tới [Marish](../M/Marish.md).

@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"Ở đằng xa có [ Ngọn Núi Cô Đơn](../../main/L/Lonely_Mountain.md) ở rìa thị giác." bởi [Alan Lee](../../main/A/Alan_Lee.md). Minh họa từ *[The Hobbit](../../main/T/The_Hobbit.md)*.
+"Ở đằng xa có [ Ngọn Núi Cô Đơn](../../main/L/Lonely_Mountain.md) ở rìa thị giác." của [Alan Lee](../../main/A/Alan_Lee.md). Minh họa từ *[The Hobbit](../../main/T/The_Hobbit.md)*.
 
 ## Giấy phép {#Licensing}
 

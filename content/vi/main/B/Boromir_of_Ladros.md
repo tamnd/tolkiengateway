@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Boromir (Lord of Ladros)"
 ---
 
-Chuyển hướng tới [Boromir (Lãnh chúa Ladros)](<Boromir_(Lord_of_Ladros).md>).
+Chuyển hướng tới [Boromir (Chúa tể Ladros)](<Boromir_(Lord_of_Ladros).md>).

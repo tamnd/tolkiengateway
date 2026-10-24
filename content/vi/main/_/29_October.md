@@ -70,12 +70,12 @@ Sự kiện xảy ra vào ngày 29 tháng 10
 - **[1938](1938.md)** - Đạo diễn [Ralph Bakshi](../R/Ralph_Bakshi.md) ra đời.
 - **[1939](1939.md)** - Nữ diễn viên [Elizabeth Moody](../E/Elizabeth_Moody.md) ra đời.
 - **[1963](1963.md)** - Diễn viên [Jed Brophy](../J/Jed_Brophy.md) ra đời.
-- **[2010](2010.md)** - Mereth Aderthad XVI, hay "EstelCon" của Hiệp hội Tolkien tiếng Tây Ban Nha ở <a class="extiw" href="http://en.wikipedia.org/wiki/Valenica" title="wikipedia:Valenica">Valenica</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Spain" title="wikipedia:Spain">Tây Ban Nha</a>.
+- **[2010](2010.md)** - Mereth Aderthad XVI, hay "EstelCon" của Hiệp hội Tolkien Tây Ban Nha ở <a class="extiw" href="http://en.wikipedia.org/wiki/Valenica" title="wikipedia:Valenica">Valenica</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Spain" title="wikipedia:Spain">Tây Ban Nha</a>.
 - **[2010](2010.md)** - *[The Lord of the Rings: Aragorn's Quest](../T/The_Lord_of_the_Rings%253A_Aragorn's_Quest.md)* được phát hành ở Châu Âu.
 
 ## Trong Arda {#In_Arda}
 
 - [F.A.](../F/First_Age.md) [495](../F/First_Age_495.md):
-    - [Tuor](../T/Tuor.md), được hướng dẫn bởi [Voronwë](../V/Voronwë.md), di chuyển đến [Gondolin](../G/Gondolin.md) để chuyển thông điệp của [Ulmo](../U/Ulmo.md)tới [Turgon](../T/Turgon.md).
+    - [Tuor](../T/Tuor.md), được hướng dẫn bởi [Voronwë](../V/Voronwë.md), đi đến [Gondolin](../G/Gondolin.md) để chuyển thông điệp của [Ulmo](../U/Ulmo.md) tới [Turgon](../T/Turgon.md).
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi ở [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).
+    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi tại [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).

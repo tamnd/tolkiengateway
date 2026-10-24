@@ -15,9 +15,9 @@ hidden_categories:
   - "Pages with short description"
 ---
 
-<i><b>Syx Mynet</b></i> là một bài hát [tiếng Anh cổ](../O/Old_English.md) của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), bản dịch từ <a class="extiw" href="http://en.wikipedia.org/wiki/Nursery_rhyme" title="wikipedia:Nursery rhyme">vần mẫu giáo</a> *I Love Sixpence*, được viết xung quanh [1924](../_/1924.md).<sup id="cite_ref-Leeds_1-0" class="reference"><a href="#cite_note-Leeds-1">[1]</a></sup> Nó được xuất bản dưới dạng bài hát thứ chín trong *[Songs for the Philologists](Songs_for_the_Philologists.md)* ở [1936](../_/1936.md).
+<i><b>Syx Mynet</b></i> là một bài hát [tiếng Anh cổ](../O/Old_English.md) của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), bản dịch từ <a class="extiw" href="http://en.wikipedia.org/wiki/Nursery_rhyme" title="wikipedia:Nursery rhyme">vần mẫu giáo</a> *I Love Sixpence* tiếng Anh, được viết xung quanh [1924](../_/1924.md).<sup id="cite_ref-Leeds_1-0" class="reference"><a href="#cite_note-Leeds-1">[1]</a></sup> Nó được xuất bản dưới dạng bài hát thứ chín trong *[Songs for the Philologists](Songs_for_the_Philologists.md)* ở [1936](../_/1936.md).
 
-Bản thảo của bài thơ được viết bằng bút mực, cùng với bài thơ [La, Huru](../L/La,_Huru.md) của một Tolkien khác, trên một tờ giấy. Bản thảo được lưu giữ trong Bộ sưu tập Tolkien-Gordon tại Thư viện của [Đại học Leeds](../U/University_of_Leeds.md).<sup id="cite_ref-Leeds_1-1" class="reference"><a href="#cite_note-Leeds-1">[1]</a></sup>
+Bản thảo của bài thơ được viết bằng bút mực, cùng với một bài thơ khác của Tolkien [La, Huru](../L/La,_Huru.md), trên một tờ giấy. Bản thảo được lưu giữ trong Bộ sưu tập Tolkien-Gordon tại Thư viện của [Đại học Leeds](../U/University_of_Leeds.md).<sup id="cite_ref-Leeds_1-1" class="reference"><a href="#cite_note-Leeds-1">[1]</a></sup>
 
 ## Trích đoạn thơ {#Poem_excerpt}
 

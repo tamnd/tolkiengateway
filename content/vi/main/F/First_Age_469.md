@@ -16,13 +16,13 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="../T/Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><b>I</b><a href="../S/Second_Age.md" title="Second Age">II</a><a href="../T/Third_Age.md" title="Third Age">III</a><a href="Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="First_Age_466.md" title="First Age 466">466</a><a href="First_Age_467.md" title="First Age 467">467</a><a href="First_Age_468.md" title="First Age 468">468</a><a class="mw-selflink selflink">469</a><a href="First_Age_470.md" title="First Age 470">470</a><a href="First_Age_471.md" title="First Age 471">471</a><a href="First_Age_472.md" title="First Age 472">472</a></div></div></div></div></div></div>
 
-**Kỷ Đệ Nhất 469** (viết tắt là **F.A. 469**) là năm [thứ 469 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Nhất](First_Age.md) của [Trung Địa](../M/Middle-earth.md).
+**Kỷ nguyên thứ nhất 469** (viết tắt là **F.A. 469**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 469 của [Kỷ nguyên thứ nhất](First_Age.md) của [Trung Địa](../M/Middle-earth.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- [Beren](../B/Beren.md) và [Lúthien](../L/Lúthien.md) trở về [Trung Địa](../M/Middle-earth.md), cả hai đều là phàm nhân. Họ sinh sống ở [Tol Galen](../T/Tol_Galen.md) và khu vực này được gọi là [Dor Firn-i-Guinar](../D/Dor_Firn-i-Guinar.md), "Vùng đất của người chết sống".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
-- [Liên minh Maedhros](../U/Union_of_Maedhros.md) tiêu diệt [Beleriand](../B/Beleriand.md) [orc](../O/Orcs.md), nhưng khi làm như vậy sẽ bộc lộ toàn bộ sức mạnh của Eldar đối với [Morgoth](../M/Morgoth.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
-- [Hơi thở Ác ma](../E/Evil_Breath.md) được giải phóng từ [Angband](../A/Angband.md) và [Túrin](../T/Túrin.md) đổ bệnh.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+- [Beren](../B/Beren.md) và [Lúthien](../L/Lúthien.md) quay trở lại [Trung Địa](../M/Middle-earth.md), cả hai đều là phàm nhân. Họ sinh sống ở [Tol Galen](../T/Tol_Galen.md) và khu vực này được gọi là [Dor Firn-i-Guinar](../D/Dor_Firn-i-Guinar.md), "Vùng đất của người chết sống".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+- [Liên minh Maedhros](../U/Union_of_Maedhros.md) tiêu diệt [Beleriand](../B/Beleriand.md) của [orc](../O/Orcs.md), nhưng làm như vậy sẽ tiết lộ toàn bộ sức mạnh của Eldar đối với [Morgoth](../M/Morgoth.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- [Hơi thở Ác ma](../E/Evil_Breath.md) được giải phóng khỏi [Angband](../A/Angband.md) và [Túrin](../T/Túrin.md) đổ bệnh.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 - Cái chết của [Lalaith](../L/Lalaith.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 - Sự ra đời của [Manthor](../M/Manthor.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 

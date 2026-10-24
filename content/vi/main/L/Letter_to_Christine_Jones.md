@@ -16,7 +16,7 @@ sort_keys:
 
 Vào [9 tháng 12](../_/9_December.md) [1965](../_/1965.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho Christine Jones**, một độc giả ở New Jersey.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup><sup id="cite_ref-CG_2-0" class="reference"><a href="#cite_note-CG-2">[1]</a></sup><sup id="cite_ref-Marq_3-0" class="reference"><a href="#cite_note-Marq-3">[2]</a></sup>
 
-- **Chủ đề:** Trả lời nhận xét của Jones về cao trào của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*mà anh thấy thú vị. Xin lỗi vì bức thư ngắn của anh.<sup id="cite_ref-CG_2-1" class="reference"><a href="#cite_note-CG-2">[1]</a></sup>
+- **Chủ đề:** Trả lời nhận xét của Jones về cao trào của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* mà anh thấy thú vị. Xin lỗi vì bức thư ngắn của anh.<sup id="cite_ref-CG_2-1" class="reference"><a href="#cite_note-CG-2">[1]</a></sup>
 - **Ấn bản:** Mô tả và trích dẫn bức thư xuất hiện trong *[The J.R.R. Tolkien Companion and Guide: Chronology](../T/The_J.R.R._Tolkien_Companion_and_Guide.md)*.
 - **Lưu trữ:** [Đại học Marquette](../M/Marquette_University.md).<sup id="cite_ref-CG_2-2" class="reference"><a href="#cite_note-CG-2">[1]</a></sup>
 

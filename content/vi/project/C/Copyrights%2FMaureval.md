@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Maureval"
 ---
 
-- Maureval đã vui lòng cho phép cô sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Maureval.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
+- Maureval đã vui lòng cho phép cô sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Maureval.md) trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
 - Ngày: 17 tháng 10 năm 2013
 - Người dùng đã xin phép qua email: [Mith](https://tolkiengateway.net/wiki/User:Mith)

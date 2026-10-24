@@ -12,7 +12,7 @@ categories:
   - "American organizations"
 ---
 
-**The Fellowship of the Ring** là câu lạc bộ Tolkien được tổ chức đầu tiên, được thành lập bởi [Ted Johnstone](Ted_Johnstone.md) vào [4 tháng Chín](../_/4_September.md) [1960](../_/1960.md) và tổ chức cuộc họp đầu tiên tại <a class="extiw" href="http://en.wikipedia.org/wiki/18th_World_Science_Fiction_Convention" title="wikipedia:18th World Science Fiction Convention">Hội nghị Khoa học Viễn tưởng Thế giới lần thứ 18</a> hay *Pittcon*. Nó giải thể vào giữa những năm 60.
+**The Fellowship of the Ring** là câu lạc bộ Tolkien được tổ chức đầu tiên, được thành lập bởi [Ted Johnstone](Ted_Johnstone.md) vào [4 tháng 9](../_/4_September.md) [1960](../_/1960.md) và tổ chức cuộc họp đầu tiên tại <a class="extiw" href="http://en.wikipedia.org/wiki/18th_World_Science_Fiction_Convention" title="wikipedia:18th World Science Fiction Convention">Hội nghị khoa học viễn tưởng thế giới lần thứ 18</a> hoặc *Pittcon*. Nó giải thể vào giữa những năm 60.
 
 ## Xem thêm {#See_also}
 

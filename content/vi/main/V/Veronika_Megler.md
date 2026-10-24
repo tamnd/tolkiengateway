@@ -18,14 +18,14 @@ sort_keys:
   "People by name": "Megler, Veronika"
 ---
 
-**Veronika M. Megler** là tác giả của [1982](../_/1982.md) [chuyển thể trò chơi điện tử của *The Hobbit*](<../T/The_Hobbit_(1982_video_game).md>); cô ấy đã viết công cụ trò chơi, công cụ vật lý và điều chỉnh cuốn sách cho phù hợp với trò chơi.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Cô ấy làm việc bán thời gian cho [Melbourne House](../M/Melbourne_House.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Veronika M. Megler** là tác giả của [1982](../_/1982.md) [chuyển thể trò chơi điện tử của *The Hobbit*](<../T/The_Hobbit_(1982_video_game).md>); bà đã viết công cụ trò chơi, công cụ vật lý và điều chỉnh cuốn sách cho phù hợp với trò chơi.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Bà làm việc bán thời gian cho [Melbourne House](../M/Melbourne_House.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Liên kết ngoài {#External_links}
 
 - <a class="external text" href="http://www.opensourcetutorials.com/authors/52" rel="noreferrer noopener" target="_blank">Veronika Megler</a> tại OpenSourceTutorials
 - <a class="external text" href="http://www.avventuretestuali.com/interviste/megler-eng" rel="noreferrer noopener" target="_blank">Phỏng vấn</a>
-- <a class="external text" href="http://playitagainproject.org/ruminations-on-the-hobbit-fandom/" rel="noreferrer noopener" target="_blank">Suy ngẫm về The Hobbit Fandom</a>
-- "<a class="external text" href="http://www.theregister.co.uk/2012/11/18/hobbit_author_veronika_megler_reminisces/" rel="noreferrer noopener" target="_blank">Tác giả của tác phẩm kinh điển thập niên 80 <i>The Hobbit</i> không biết trò chơi đã thành công</a>"
+- <a class="external text" href="http://playitagainproject.org/ruminations-on-the-hobbit-fandom/" rel="noreferrer noopener" target="_blank">Suy ngẫm về cộng đồng người hâm mộ Hobbit</a>
+- "<a class="external text" href="http://www.theregister.co.uk/2012/11/18/hobbit_author_veronika_megler_reminisces/" rel="noreferrer noopener" target="_blank">Tác giả của tác phẩm kinh điển thập niên 80 <i>Người Hobbit</i> không biết trò chơi lại thành công</a>"
 
 <span></span>
 

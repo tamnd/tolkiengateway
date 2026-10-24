@@ -15,7 +15,7 @@ sort_keys:
   "Khuzdul words": "Aimenu"
 ---
 
-**Aimênu** hoặc **Ai-mênu** là [Khuzdul](../K/Khuzdul.md) của "khi bạn".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> *Ai* (phiên bản rút gọn của [aya](Aya.md)) có nghĩa là *upon*và *mênu* có nghĩa là *you* ở vị trí số nhiều và tân ngữ.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Aimênu** hoặc **Ai-mênu** là [Khuzdul](../K/Khuzdul.md) của "khi bạn".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> *Ai* (phiên bản rút gọn của [aya](Aya.md)) có nghĩa là *upon* và *mênu* có nghĩa là *you* ở vị trí số nhiều và tân ngữ.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Ví dụ {#Example}
 

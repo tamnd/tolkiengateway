@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sauron Defeated"
 ---
 
-Chuyển hướng đến [Sauron Defeated](Sauron_Defeated.md).
+Chuyển hướng đến [Sauron bị đánh bại](Sauron_Defeated.md).

@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Bennie, Scott"
 ---
 
-**Scott Bennie** là tác giả và nhà thiết kế trò chơi của *[The Lord of the Rings, Vol. I (PC)](<../T/The_Lord_of_the_Rings,_Vol._I_(1990_computer_game).md>)*,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> *[The Lord of the Rings, Vol. II: The Two Towers](../T/The_Lord_of_the_Rings,_Vol._II%253A_The_Two_Towers.md)*<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và *[The Lord of the Rings, Vol. I (SNES)](<../J/J.R.R._Tolkien's_The_Lord_of_the_Rings,_Vol._I_(SNES).md>)*. Anh ấy cũng làm việc cho [Decipher](../D/Decipher.md) trên *[The Lord of the Rings Roleplaying Game](../T/The_Lord_of_the_Rings_Roleplaying_Game.md)*.
+**Scott Bennie** là tác giả và nhà thiết kế trò chơi của *[The Lord of the Rings, Vol. I (PC)](<../T/The_Lord_of_the_Rings,_Vol._I_(1990_computer_game).md>)*,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> *[The Lord of the Rings, Vol. II: The Two Towers](../T/The_Lord_of_the_Rings,_Vol._II%253A_The_Two_Towers.md)*<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và *[The Lord of the Rings, Vol. I (SNES)](<../J/J.R.R._Tolkien's_The_Lord_of_the_Rings,_Vol._I_(SNES).md>)*. Ông cũng làm việc cho [Decipher](../D/Decipher.md) trên *[The Lord of the Rings Roleplaying Game](../T/The_Lord_of_the_Rings_Roleplaying_Game.md)*.
 
 ## Liên kết ngoài {#External_links}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Children of Húrin Release Party"
 ---
 
-Chuyển hướng đến [The Children of Húrin Bên phát hành](The_Children_of_Húrin_Release_Party.md).
+Chuyển hướng đến [The Children of Húrin Release Party](The_Children_of_Húrin_Release_Party.md).

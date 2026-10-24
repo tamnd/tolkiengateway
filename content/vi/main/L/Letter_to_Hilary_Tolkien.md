@@ -14,9 +14,9 @@ sort_keys:
   "Letters": "Tolkien, Hilary"
 ---
 
-Trong [1971](../_/1971.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) gửi [Hilary Tolkien](../H/Hilary_Tolkien.md)**.
+Trong [1971](../_/1971.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho [Hilary Tolkien](../H/Hilary_Tolkien.md)**.
 
-- **Nội dung:** Tolkien đề cập đến lễ kỷ niệm <a class="extiw" href="http://en.wikipedia.org/wiki/Guy_Fawkes_Night" title="wikipedia:Guy Fawkes Night">Đêm Guy Fawkes</a>và "người ta sẽ nhận thấy việc sử dụng dễ thấy một số ngôn ngữ bản xứ Tolkienian rõ ràng".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+- **Nội dung:** Tolkien đề cập đến lễ kỷ niệm <a class="extiw" href="http://en.wikipedia.org/wiki/Guy_Fawkes_Night" title="wikipedia:Guy Fawkes Night">Đêm Guy Fawkes</a>và "người ta sẽ nhận thấy việc sử dụng dễ thấy một số ngôn ngữ bản địa đặc trưng của Tolkienian".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 - **Ấn bản:** Một đoạn trích từ bức thư đã được xuất bản trên *[Black &amp; White Ogre Country](../B/Black_&_White_Ogre_Country.md)*.
 
 <span></span>

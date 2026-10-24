@@ -16,11 +16,11 @@ images:
 
 <figure class="mw-default-size mw-halign-left" typeof="mw:File"><a class="mw-file-description" href="../../file/H/Hwesta_sindarinwa.gif.md"><img src="https://tolkiengateway.net/w/images/6/60/Hwesta_sindarinwa.gif" decoding="async" loading="lazy" width="53" height="65" class="mw-file-element" data-file-width="53" data-file-height="65"/></a><figcaption></figcaption></figure>
 
-<i><b>Hwesta Sindarinwa</b></i> ("*Grey-elven hw*") là tên trong [Quenya](../Q/Quenya.md) của chữ cái thứ ba mươi tư trong bảng chữ cái [Tengwar](../T/Tengwar.md). Chữ cái này không được sử dụng trong văn viết Quenya vì "hw" được biểu thị bằng *[Hwesta](Hwesta.md)* và không cần có dấu hiệu phân biệt cho "chw". Bởi vì "hw" và "chw" được sử dụng thường xuyên trong Sindarin và *Hwesta* được sử dụng cho "chw",<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> chữ cái biến thể này xuất hiện để biểu thị "vô thanh" **W** hoặc **HW**.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Tên Westron của chữ cái này là <i><b>Whí</b></i>,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> gợi ý rằng nó cũng đại diện cho "hw" trong ngôn ngữ đó.
+<i><b>Hwesta Sindarinwa</b></i> ("*Grey-elven hw*") là tên trong [Quenya](../Q/Quenya.md) của chữ cái thứ ba mươi tư trong bảng chữ cái [Tengwar](../T/Tengwar.md). Chữ cái này không được sử dụng trong văn viết Quenya vì "hw" được biểu thị bằng *[Hwesta](Hwesta.md)* và không cần có dấu hiệu riêng biệt cho "chw". Vì "hw" và "chw" được sử dụng thường xuyên trong tiếng Sindarin và *Hwesta* được dùng cho "chw",<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> chữ cái biến thể này đại diện cho "vô thanh" **W** hoặc **HW**.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Tên tiếng Tâyron của chữ cái này là <i><b>Whí</b></i>,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> gợi ý rằng nó cũng đại diện cho "hw" trong ngôn ngữ đó.
 
 ## Xem thêm {#See_also}
 
-- <a class="external text" href="http://www.uib.no/People/hnohf/qlist.htm" rel="noreferrer noopener" target="_blank">Quenya Danh sách từ ngữ liệu</a> được chỉnh sửa bởi [Helge Fauskanger](Helge_Fauskanger.md)
+- <a class="external text" href="http://www.uib.no/People/hnohf/qlist.htm" rel="noreferrer noopener" target="_blank">Danh sách từ Quenya Corpus</a> được chỉnh sửa bởi [Helge Fauskanger](Helge_Fauskanger.md)
 
 <span></span>
 

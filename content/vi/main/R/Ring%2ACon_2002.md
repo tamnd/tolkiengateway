@@ -12,7 +12,7 @@ categories:
   - "Conventions"
 ---
 
-<b>Nhẫn*Con 2002</b> là hội nghị [Nhẫn\*Con](Ring%252ACon.md) đầu tiên, được tổ chức từ [ngày 22 tháng 11](../_/22_November.md) đến [ngày 24 tháng 11](../_/24_November.md) tại Bonn, Đức.
+<b>Ring*Con 2002</b> là hội nghị [Ring\*Con](Ring%252ACon.md) đầu tiên, được tổ chức từ [ngày 22 tháng 11](../_/22_November.md) đến [ngày 24 tháng 11](../_/24_November.md) tại Bonn, Đức.
 
 ## Khách {#Guests}
 

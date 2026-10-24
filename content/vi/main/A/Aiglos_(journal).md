@@ -51,7 +51,7 @@ infobox:
 
 ## Nội dung {#Content}
 
-*Aiglos* là tạp chí thường niên phi thương mại và phi lợi nhuận của *Parmadili*, [Tolkien Bộ phận của Câu lạc bộ Ảo tưởng Silesian](../S/Sekcja_Tolkienowska_ŚKF.md). Việc xuất bản bao gồm các bài báo và tiểu luận trong các nghiên cứu Tolkien, cả các bài báo mang tính học thuật và phổ thông. Các văn bản liên quan đến bản thân Tolkien, tác phẩm của anh ấy và thế giới mà anh ấy tạo ra. *Aiglos* cũng xuất bản các bài đánh giá về sách Ba Lan và nước ngoài về Tolkien cũng như tác phẩm của ông và giới thiệu fanfic, bao gồm thơ và fan art đen trắng.
+*Aiglos* là tạp chí thường niên phi thương mại và phi lợi nhuận của *Parmadili*, [Tolkien Bộ phận của Câu lạc bộ Ảo tưởng Silesian](../S/Sekcja_Tolkienowska_ŚKF.md). Việc xuất bản bao gồm các bài báo và tiểu luận trong các nghiên cứu Tolkien, cả các bài báo mang tính học thuật và phổ thông. Các văn bản liên quan đến bản thân Tolkien, tác phẩm của ông và thế giới mà ông tạo ra. *Aiglos* cũng xuất bản các bài đánh giá về sách Ba Lan và nước ngoài về Tolkien cũng như tác phẩm của ông và giới thiệu fanfic, bao gồm thơ và fan art đen trắng.
 
 ## Danh sách biên tập viên Aiglos {#List_of_Aiglos_editors}
 

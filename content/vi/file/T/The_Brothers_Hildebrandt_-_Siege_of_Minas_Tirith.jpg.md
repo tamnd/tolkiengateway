@@ -28,7 +28,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"[Cuộc vây hãm Minas Tirith](../../main/S/Siege_of_Gondor.md)" của [Anh em nhà Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md), được xuất bản lần đầu trong [Lịch J.R.R. Tolkien năm 1977](../../main/_/1977_J.R.R._Tolkien_Calendar.md).
+"[Cuộc vây hãm Minas Tirith](../../main/S/Siege_of_Gondor.md)" của [Anh em nhà Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md), xuất bản lần đầu trong [1977 J.R.R. Tolkien Lịch](../../main/_/1977_J.R.R._Tolkien_Calendar.md).
 
 ## Giấy phép {#Licensing}
 

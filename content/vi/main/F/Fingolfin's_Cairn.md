@@ -25,17 +25,17 @@ images:
 
 <figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Stefan_Meisl_-_Fingolfin&#39;s_Tomb.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/4d/Stefan_Meisl_-_Fingolfin%27s_Tomb.jpg/300px-Stefan_Meisl_-_Fingolfin%27s_Tomb.jpg" decoding="async" loading="lazy" width="300" height="424" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/4d/Stefan_Meisl_-_Fingolfin%27s_Tomb.jpg/450px-Stefan_Meisl_-_Fingolfin%27s_Tomb.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/4d/Stefan_Meisl_-_Fingolfin%27s_Tomb.jpg/600px-Stefan_Meisl_-_Fingolfin%27s_Tomb.jpg 2x" data-file-width="877" data-file-height="1240"/></a><figcaption><i>Fingolfin&#39;s Tomb</i> by <a href="../../category/I/Images_by_Stefan_Meisl.md" title="Category:Images by Stefan Meisl">Stefan Meisl</a></figcaption></figure>
 
-Hang đá của **Fingolfin** là nơi an nghỉ cho thi thể của Vua [Fingolfin](Fingolfin.md), Đại Vương của [Noldor](../N/Noldor.md), sau trận chiến một tay với [Morgoth](../M/Morgoth.md). Nó được xây dựng trên đỉnh núi ở [Echoriad](../E/Echoriad.md), ở phía bắc thung lũng [Tumladen](../T/Tumladen.md), nhìn ra thành phố [Gondolin](../G/Gondolin.md).
+**Hang đá của Fingerolfin** là nơi an nghỉ cho thi hài của Vua [Fingolfin](Fingolfin.md), Vua tối cao của [Noldor](../N/Noldor.md), sau trận chiến một tay với [Morgoth](../M/Morgoth.md). Nó được xây dựng trên đỉnh núi ở [Echoriad](../E/Echoriad.md), phía bắc thung lũng [Tumladen](../T/Tumladen.md), nhìn ra thành phố [Gondolin](../G/Gondolin.md).
 
 ## Lịch sử {#History}
 
-Khi lực lượng của Morgoth giành được chiến thắng ở [Dagor Bragollach](../D/Dagor_Bragollach.md), Vua Fingolfin tin rằng ông đang chứng kiến ​​sự kết thúc của Noldor. Anh ta cưỡi ngựa đến cổng [Angband](../A/Angband.md) và thách thức Kẻ thù chiến đấu. Morgoth bước ra, họ [chiến đấu](Fall_of_Fingolfin.md), và Fingolfin chết sau khi làm bị thương đối thủ của mình. Morgoth đập vỡ xác của Nhà vua và định ném nó cho bầy sói của mình thì con đại bàng [Thorondor](../T/Thorondor.md) sà vào và giật lấy xác đi.
+Khi lực lượng của Morgoth giành được chiến thắng ở [Dagor Bragollach](../D/Dagor_Bragollach.md), Vua Fingolfin tin rằng ông đang chứng kiến ​​sự kết thúc của Noldor. Ông ta cưỡi ngựa đến cổng [Angband](../A/Angband.md) và thách thức Kẻ thù chiến đấu. Morgoth bước ra, họ [chiến đấu](Fall_of_Fingolfin.md), và Fingolfin chết sau khi làm bị thương đối thủ của mình. Morgoth bẻ gãy thi thể của Nhà vua và định ném nó cho bầy sói của mình thì con đại bàng [Thorondor](../T/Thorondor.md) lao tới và cướp xác đi.
 
-Con đại bàng lớn đặt xác của Fingolfin lên một ngọn núi phía trên Gondolin. Sau đó, con trai của Fingolfin, [Turgon](../T/Turgon.md), đến và chất một ụ đá cao lên thi thể. Người ta nói rằng không có [Orc](../O/Orcs.md) nào dám đến gần lăng mộ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Con đại bàng lớn đặt xác Fingolfin lên một ngọn núi phía trên Gondolin. Sau đó, con trai của Fingolfin, [Turgon](../T/Turgon.md), đến và chất một ụ đá cao lên thi thể. Người ta nói rằng không có [Orc](../O/Orcs.md) nào dám đến gần lăng mộ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong danh sách tên từ những năm 1930, cairn được gọi là <i><b>Sarnas Fingolfin</b></i> ("Cairn of Fingolfin") trong [Noldorin](../N/Noldorin.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Trong danh sách những cái tên từ những năm 1930, cairn được gọi là <i><b>Sarnas Fingolfin</b></i> ("Cairn of Fingolfin") trong [Noldorin](../N/Noldorin.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

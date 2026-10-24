@@ -15,7 +15,7 @@ images:
   - "CdxIconEdit.svg"
 ---
 
-**TEK** là một [Primitive Quendian](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) biểu thị "ký; đánh dấu bằng văn bản". Gốc có liên quan đến [TEÑ](TEÑ.md).<sup id="cite_ref-PE17_1-0" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup>
+**TEK** là [tiếng Quendian nguyên thủy](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) biểu thị "ký tên; đánh dấu bằng văn bản". Gốc có liên quan đến [TEÑ](TEÑ.md).<sup id="cite_ref-PE17_1-0" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup>
 
 ## Công cụ phái sinh {#Derivatives}
 
@@ -31,7 +31,7 @@ Trong *[Etymologies](The_Etymologies.md)* xuất hiện từ gốc TEK- ("tạo 
 
 - [Quenya](../Q/Quenya.md): *teke* ("viết"); *[tehta](Tehta.md)* ("dấu (bằng văn bản), dấu, dấu phụ"); *tengwanda* ("bảng chữ cái"); *tenkele* ("hệ thống chữ viết, chính tả"); *tekko* ("nét bút hoặc cọ")
 
-- [Primitive Quendian](../P/Primitive_Quendian.md) *tekla* > [Quenya](../Q/Quenya.md) *tekil* (bút)
+- [Quendian nguyên thủy](../P/Primitive_Quendian.md) *tekla* > [Quenya](../Q/Quenya.md) *tekil* (bút)
 
 - [Noldorin](../N/Noldorin.md): *teitho* ("viết"); *teith* ("dấu"); *tîw* ("thư"); *tegl*, *tegol* ("bút")
 

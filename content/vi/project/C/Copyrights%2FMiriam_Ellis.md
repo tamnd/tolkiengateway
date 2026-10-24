@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Ellis, Miriam"
 ---
 
-- Miriam Ellis đã vui lòng cho phép họ sử dụng [tác phẩm nghệ thuật của họ](../../category/I/Images_by_Miriam_Ellis.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
+- Miriam Ellis đã vui lòng cho phép họ sử dụng [tác phẩm nghệ thuật của họ](../../category/I/Images_by_Miriam_Ellis.md) trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
 - Ngày: 30 tháng 7 năm 2023
 - Người dùng đã xin phép qua email: [Người dùng:Hyarion](https://tolkiengateway.net/wiki/User:Hyarion)

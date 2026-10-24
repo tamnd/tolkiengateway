@@ -13,7 +13,7 @@ categories:
   - "Sindarin nouns"
 ---
 
-<i><b>hủy hoại</b></i> là một từ [Sindarin](../S/Sindarin.md) có nghĩa là "ngọn lửa đỏ".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>ruin</b></i> là từ [Sindarin](../S/Sindarin.md) có nghĩa là "ngọn lửa đỏ".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Ví dụ {#Example}
 

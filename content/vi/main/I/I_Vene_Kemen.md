@@ -19,24 +19,24 @@ images:
 
 <i><b>I Vene Kemen</b></i> là tên một bức vẽ ban đầu của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Hình minh họa là một "bản đồ" thế giới, được hình dung dưới dạng một con tàu, như được hình thành trong phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md), *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.<sup id="cite_ref-LT1_1-0" class="reference"><a href="#cite_note-LT1-1">[1]</a></sup> Các vị trí và khái niệm được nêu trong bản vẽ bao gồm:
 
-- *Nūme* = "<a class="mw-redirect mw-disambig" href="../W/West.md" title="West">Phương Tây</a>"
+- *Nūme* = "<a class="mw-redirect mw-disambig" href="../W/West.md" title="West">Tây</a>"
 - *[Valinor](../V/Valinor.md)*
 - *[Taniquetil](../T/Taniquetil.md)*
 - *Harmalin*, sau *[Arvalin](../A/Arvalin.md)*
 - *i aldas* = "[Những cái cây](../T/Two_Trees_of_Valinor.md)"
-- *(T?)oros valinoriva*, có thể đề cập đến [Dãy Núi của Valinor](../P/Pelóri.md)
+- *(T?)oros valinoriva*, có thể đề cập đến [Dãy núi Valinor](../P/Pelóri.md)
 - *Tolli Kimpelear*, có thể ám chỉ [Quần đảo Chạng vạng](../T/Twilit_Isles.md)
 - *[Tol Eressëa](../T/Tol_Eressëa.md)* = "Hòn đảo cô đơn"
 - *I Tolli Kuruvar* = " [Quần đảo ma thuật](../M/Magic_Isles.md)"
-- *Haloisi Velike* = "Cái [Đại Hải](../B/Belegaer.md)"
-- *Ô* = "Cái [Biển](../B/Belegaer.md)"
+- *Haloisi Velike* = " [Biển Lớn](../B/Belegaer.md)"
+- *Ô* = " [Biển](../B/Belegaer.md)"
 - *I Nori Landar*, có thể có nghĩa là " [Vùng đất vĩ đại](../M/Middle-earth.md)"
 - *Koivienéni*, sau *[Cuiviénen](../C/Cuiviénen.md)*
 - *[Palisor](../P/Palisor.md)*
-- *Sil* = "[Mặt Trăng](../M/Moon.md)"
-- *Ûr* = "[Mặt Trời](../S/Sun.md)"
+- *Sil* = "[Mặt trăng](../M/Moon.md)"
+- *Ûr* = "[Mặt trời](../S/Sun.md)"
 - *Luvier* = "Mây"
-- *Oronto* = "phương Đông"
+- *Oronto* = "Đông"
 - *[Vaitya](../V/Vaitya.md)*, *[Ilwë](Ilwë.md)* và *[Vilna](../V/Vilna.md)*, các lớp không khí
 - *[Ulmonan](../U/Ulmonan.md)*
 - *[Uin](../U/Uin.md)*
@@ -44,7 +44,7 @@ images:
 
 ## Từ nguyên {#Etymology}
 
-[Christopher Tolkien](../C/Christopher_Tolkien.md) đã gợi ý rằng *I Vene Kemen* là một cái tên [Qenya](../Q/Qenya.md) có lẽ có nghĩa là "Hình dạng của Trái đất" hoặc "Con tàu của Trái đất".<sup id="cite_ref-LT1_1-1" class="reference"><a href="#cite_note-LT1-1">[1]</a></sup> Phần tử *vene* có thể liên quan đến gốc VENE ("hình dạng, cắt ra, cái muỗng") và từ phái sinh của nó *venë* ("thuyền nhỏ, tàu, đĩa"). Đối với phần tử *kemen*, *[Qenya Lexicon](../Q/Qenya_Lexicon.md)* chứa các từ *kemi* ("đất, đất") và *kemen* ("đất"), bắt nguồn từ gốc KEME.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+[Christopher Tolkien](../C/Christopher_Tolkien.md) đã gợi ý rằng *I Vene Kemen* là một cái tên [Qenya](../Q/Qenya.md) có lẽ có nghĩa là "Hình dạng của Trái đất" hoặc "Con tàu của Trái đất".<sup id="cite_ref-LT1_1-1" class="reference"><a href="#cite_note-LT1-1">[1]</a></sup> Yếu tố *vene* có thể liên quan đến gốc VENE ("hình dạng, cắt ra, cái muỗng") và từ phái sinh của nó *venë* ("thuyền nhỏ, tàu, đĩa"). Đối với phần tử *kemen*, *[Qenya Lexicon](../Q/Qenya_Lexicon.md)* chứa các từ *kemi* ("đất, đất") và *kemen* ("đất"), bắt nguồn từ gốc KEME.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Liên kết ngoài {#External_links}
 

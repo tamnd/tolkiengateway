@@ -30,11 +30,11 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Ungfrú Aðalsteinsdottir, một độc giả người Iceland, đã thông báo Tolkien về bản dịch sắp tới của *[The Hobbit](../T/The_Hobbit.md)* sang tiếng Iceland. Tolkien rất vui khi biết điều này, vì anh cho rằng ngôn ngữ phù hợp nhất cho câu chuyện.
+Ungfrú Aðalsteinsdottir, một độc giả người Iceland, đã thông báo cho Tolkien về bản dịch sắp tới của *[The Hobbit](../T/The_Hobbit.md)* sang tiếng Iceland. Tolkien rất vui khi biết điều này, vì ông cho rằng ngôn ngữ phù hợp nhất với câu chuyện.
 
 ## Ghi chú {#Notes}
 
-- Tolkien sẽ không thể sống được khi thấy bản dịch được xuất bản. *Hobbitinn*, được dịch bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=%C3%9Alfur_Ragnarsson&amp;action=edit&amp;redlink=1" title="Úlfur Ragnarsson (page does not exist)">Úlfur Ragnarsson</a> và <a class="new" href="https://tolkiengateway.net/w/index.php?title=Karl_%C3%81g%C3%BAst_%C3%9Alfsson&amp;action=edit&amp;redlink=1" title="Karl Ágúst Úlfsson (page does not exist)">Karl Ágúst Úlfsson</a>, được Almenna Bókafélagið xuất bản ở Reykjavik trong [1978](../_/1978.md).
+- Tolkien sẽ không thể sống để chứng kiến ​​bản dịch được xuất bản. *Hobbitinn*, được dịch bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=%C3%9Alfur_Ragnarsson&amp;action=edit&amp;redlink=1" title="Úlfur Ragnarsson (page does not exist)">Úlfur Ragnarsson</a> và <a class="new" href="https://tolkiengateway.net/w/index.php?title=Karl_%C3%81g%C3%BAst_%C3%9Alfsson&amp;action=edit&amp;redlink=1" title="Karl Ágúst Úlfsson (page does not exist)">Karl Ágúst Úlfsson</a>, được Almenna Bókafélagið xuất bản ở Reykjavik trong [1978](../_/1978.md).
 
 <br>
 

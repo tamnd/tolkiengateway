@@ -22,7 +22,7 @@ images:
 <p class="tg-quote-footer"><cite><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a></cite></p>
 </blockquote></div></div>
 
-**Trung Địa Mạng** là một mạng và cộng đồng trực tuyến dựa trên [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Nó bao gồm một trang web mạng xã hội, một đài phát thanh và một trang web tin tức (<a class="external text" href="https://middleearthnews.com/" rel="noreferrer noopener" target="_blank">MiddleEarthNews.com</a>),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> hoạt động kể từ năm 2024. <span></span>
+**Mạng Trung Địa** là một cộng đồng và mạng trực tuyến dựa trên [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Nó bao gồm một trang web mạng xã hội, một đài phát thanh và một trang web tin tức (<a class="external text" href="https://middleearthnews.com/" rel="noreferrer noopener" target="_blank">MiddleEarthNews.com</a>),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> hoạt động kể từ năm 2024. <span></span>
 
 ## Tài liệu tham khảo {#References}
 

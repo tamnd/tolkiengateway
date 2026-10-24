@@ -18,4 +18,4 @@ sort_keys:
   "People by name": "Bott, John"
 ---
 
-**John Bott** lồng tiếng cho phần [Farmer Maggot](../F/Farmer_Maggot.md) trong [The Lord of the Rings loạt phim phát thanh năm 1981](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) phát sóng trên [BBC 4](../B/BBC.md).
+**John Bott** lồng tiếng cho phần [Farmer Maggot](../F/Farmer_Maggot.md) trong [The Lord of the Rings 1981 radio series](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) được phát sóng trên [BBC 4](../B/BBC.md).

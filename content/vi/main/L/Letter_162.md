@@ -31,7 +31,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-[Christopher Tolkien](../C/Christopher_Tolkien.md) đã vẽ lại rất đẹp bản đồ phác thảo của Tolkien về khu vực mà [Tập III](../T/The_Return_of_the_King.md) liên quan. Ông hy vọng sẽ được thông qua và lưu ý rằng tỷ lệ đã được phóng to gấp 5 lần so với bản đồ chung. <br>
+[Christopher Tolkien](../C/Christopher_Tolkien.md) đã vẽ lại rất đẹp bản đồ phác thảo của Tolkien về khu vực mà [Tập III](../T/The_Return_of_the_King.md) có liên quan. Ông hy vọng sẽ được thông qua và lưu ý rằng tỷ lệ đã được phóng to gấp 5 lần so với bản đồ chung. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

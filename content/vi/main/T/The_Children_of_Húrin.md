@@ -82,21 +82,21 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/C/Children_of_Húrin_2007.png.md"><img src="https://tolkiengateway.net/w/images/thumb/a/a1/Children_of_H%C3%BArin_2007.png/313px-Children_of_H%C3%BArin_2007.png" decoding="async" loading="lazy" width="313" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/a1/Children_of_H%C3%BArin_2007.png/469px-Children_of_H%C3%BArin_2007.png 1.5x, https://tolkiengateway.net/w/images/thumb/a/a1/Children_of_H%C3%BArin_2007.png/626px-Children_of_H%C3%BArin_2007.png 2x" data-file-width="1043" data-file-height="1600"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Children of Húrin</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="../A/Alan_Lee.md" title="Alan Lee">Alan Lee</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../H/HarperCollins.md" title="HarperCollins">HarperCollins</a> (UK)<br/><a class="mw-redirect" href="../H/Houghton_Mifflin.md" title="Houghton Mifflin">Houghton Mifflin</a> (US)</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/17_April.md" title="17 April">17 April</a> <a href="../_/2007.md" title="2007">2007</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Hardcover; paperback; deluxe edition</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">320</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0007246226" title="Special:BookSources/0007246226">0007246226</a></td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="The_J.R.R._Tolkien_Companion_and_Guide.md" title="The J.R.R. Tolkien Companion and Guide">The J.R.R. Tolkien Companion and Guide</a> (2006)</td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Tolkien_On_Fairy-stories~23734.md" title="Tolkien On Fairy-stories">Tolkien On Fairy-stories</a> (2008)</td></tr></tbody></table>
 
-<i><b>The Children of Húrin</b></i>, còn được gọi là <i><b>Narn i Chîn Húrin: Câu chuyện về những đứa trẻ của Húrin</b></i>, là một cuốn tiểu thuyết dựa trên các bài viết của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), do con trai ông [Christopher Tolkien](../C/Christopher_Tolkien.md) biên tập và xuất bản vào [17 tháng 4](../_/17_April.md) [2007](../_/2007.md). Văn bản chính trước đây đã được xuất bản với tên "[Narn i Hîn Húrin](../N/Narn_i_Hîn_Húrin.md)" trong *[Unfinished Tales](../U/Unfinished_Tales.md)*, ở đây được Christopher biên tập để tạo thành một câu chuyện nhất quán như một tác phẩm độc lập. Phiên bản đầu tiên và các phiên bản tiếp theo có hình minh họa của [Alan Lee](../A/Alan_Lee.md).
+<i><b>Những đứa trẻ của Húrin</b></i>, còn được gọi là <i><b>Narn i Chîn Húrin: The Tale of the Children of Húrin</b></i>, là một cuốn tiểu thuyết dựa trên các bài viết của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), do con trai ông [Christopher Tolkien](../C/Christopher_Tolkien.md) biên tập và xuất bản trên [17 tháng 4](../_/17_April.md) [2007](../_/2007.md). Văn bản chính trước đây đã được xuất bản dưới tên "[Narn i Hîn Húrin](../N/Narn_i_Hîn_Húrin.md)" trong *[Unfinished Tales](../U/Unfinished_Tales.md)*, do Christopher biên tập ở đây để tạo thành một câu chuyện nhất quán như một tác phẩm độc lập. Phiên bản đầu tiên và các phiên bản tiếp theo có hình minh họa của [Alan Lee](../A/Alan_Lee.md).
 
-Cốt truyện bao gồm phần mở rộng câu chuyện về những chuyến lang thang và hành động của [Túrin Turambar](Túrin_Turambar.md), con trai của [Húrin](../H/Húrin.md), và em gái [Niënor](../N/Niënor.md), trong cuộc đấu tranh chống lại số phận của họ (và lời nguyền giáng xuống người thân của Húrin). Nó được coi là một trong những ví dụ đen tối nhất trong số các tác phẩm của Tolkien.
+Cốt truyện bao gồm phần mở rộng câu chuyện về những chuyến lang thang và hành động của [Túrin Turambar](Túrin_Turambar.md), con trai của [Húrin](../H/Húrin.md), và em gái [Niënor](../N/Niënor.md), trong cuộc đấu tranh chống lại số phận (và lời nguyền giáng xuống người thân của Húrin). Nó được coi là một trong những ví dụ đen tối nhất trong số các tác phẩm của Tolkien.
 
-Câu chuyện là một trong ba "[câu chuyện hay](../A/Atanatarion.md)" lấy bối cảnh trong [Kỷ Đệ Nhất](../F/First_Age.md) của [Trung Địa](../M/Middle-earth.md) của Tolkien, hai câu chuyện còn lại là *[Beren and Lúthien](../B/Beren_and_Lúthien.md)* và *[The Fall of Gondolin](The_Fall_of_Gondolin.md)*.
+Câu chuyện này là một trong ba "[câu chuyện hay](../A/Atanatarion.md)" lấy bối cảnh ở [Thời đại đầu tiên](../F/First_Age.md) của [Trung Địa](../M/Middle-earth.md) của Tolkien, hai câu chuyện còn lại là *[Beren and Lúthien](../B/Beren_and_Lúthien.md)* và *[The Fall of Gondolin](The_Fall_of_Gondolin.md)*.
 
 ## Tóm tắt {#Synopsis}
 
-"Có những câu chuyện về Trung Địa từ rất lâu trước *The Lord of the Rings*, và câu chuyện được kể trong cuốn sách này lấy bối cảnh ở đất nước vĩ đại nằm ngoài [Cảng Xám](../G/Grey_Havens.md) ở phía Bắc: vùng đất nơi [Treebeard](Treebeard.md) từng đi bộ nhưng đã bị nhấn chìm trong trận đại hồng thủy kết thúc [Kỷ Đệ Nhất](../F/First_Age.md) của Thế giới.
+"Có những câu chuyện về Trung Địa từ rất lâu trước *The Lord of the Rings*, và câu chuyện được kể trong cuốn sách này lấy bối cảnh ở một đất nước vĩ đại nằm phía sau [Grey Havens](../G/Grey_Havens.md) ở phía Bắc: vùng đất nơi [Treebeard](Treebeard.md) từng bước đi nhưng đã bị nhấn chìm trong trận đại hồng thủy kết thúc [Thời đại thứ nhất](../F/First_Age.md) của Thế giới.
 
-"Vào thời điểm [Morgoth](../M/Morgoth.md) xa xôi đó, Chúa tể Bóng tối đầu tiên, cư trú trong pháo đài rộng lớn [Angband](../A/Angband.md) ở phía Bắc; và bi kịch của [Túrin](Túrin.md) và em gái [Niënor](../N/Niënor.md) diễn ra trong bóng tối của nỗi sợ hãi Angband và cuộc chiến do Morgoth tiến hành chống lại các vùng đất và thành phố bí mật của Tiên tộc.
+"Vào thời xa xưa đó [Morgoth](../M/Morgoth.md), Chúa tể bóng tối đầu tiên, cư trú trong pháo đài rộng lớn [Angband](../A/Angband.md) ở phía Bắc; và bi kịch của [Túrin](Túrin.md) và em gái [Niënor](../N/Niënor.md) diễn ra trong bóng tối của nỗi sợ hãi về Angband và cuộc chiến do Morgoth tiến hành chống lại các vùng đất và thành phố bí mật của Yêu tinh.
 
-"Cuộc đời ngắn ngủi và đam mê của họ bị chi phối bởi lòng căm thù nguyên tố Morgoth mang đến cho họ khi còn là con của Húrin, người đàn ông đã dám thách thức và khinh miệt anh ta. Ngài gửi người hầu đáng gờm của mình, [Glaurung](../G/Glaurung.md), một linh hồn mạnh mẽ dưới hình dạng một [con rồng](../D/Dragon.md) lửa khổng lồ không cánh. Trong câu chuyện của anh ta về cuộc chinh phục và trốn chạy tàn bạo, về những nơi ẩn náu và truy đuổi trong rừng, về sự kháng cự với hy vọng ngày càng giảm bớt, những nhân vật thần thoại của Chúa và Rồng bước vào dưới hình thức mỉa mai và chế nhạo một cách đáng sợ, Glaurung đã thao túng số phận của Túrin và Niënor bằng những lời dối trá xảo quyệt và quỷ quyệt, và lời nguyền Morgoth đã được ứng nghiệm.
+"Cuộc đời ngắn ngủi và đam mê của họ bị chi phối bởi lòng căm thù nguyên tố mà Morgoth mang trong mình khi còn là con của Húrin, người đàn ông đã dám thách thức và khinh miệt ông ta. Để chống lại họ, ông ta cử người hầu đáng gờm của mình, [Glaurung](../G/Glaurung.md), một linh hồn mạnh mẽ dưới hình dạng một [con rồng](../D/Dragon.md) lửa khổng lồ không cánh. Trong câu chuyện của ông về cuộc chinh phục và trốn chạy tàn bạo, về những nơi ẩn náu và truy đuổi trong rừng, về sự kháng cự với sự giảm bớt hy vọng, những nhân vật thần thoại của Chúa và Rồng bước vào dưới hình thức mỉa mai và chế nhạo một cách đáng sợ, Glaurung đã thao túng số phận của Túrin và Niënor bằng những lời dối trá xảo quyệt và gian xảo, và lời nguyền của Morgoth đã được ứng nghiệm.
 
-"Phiên bản đầu tiên của câu chuyện này của J.R.R. Tolkien có từ cuối Thế chiến thứ nhất và những năm sau đó; nhưng rất lâu sau đó, khi *The Lord of the Rings* viết xong, ông đã viết lại và mở rộng nó rất nhiều với sự phức tạp về động cơ và nhân vật: nó trở thành câu chuyện chủ đạo trong tác phẩm sau này của ông về Trung Địa. Nhưng ông không thể đưa nó đến hình thức cuối cùng và hoàn thiện. Trong cuốn sách này, tôi đã nỗ lực xây dựng, sau một thời gian dài nghiên cứu các bản thảo, một câu chuyện mạch lạc mà không có bất kỳ sáng tạo biên tập nào." <small>—Christopher Tolkien</small>
+"Phiên bản đầu tiên của câu chuyện này của J.R.R. Tolkien có từ cuối Thế chiến thứ nhất và những năm sau đó; nhưng rất lâu sau đó, khi *The Lord of the Rings* viết xong, ông đã viết lại và mở rộng nó rất nhiều với sự phức tạp về động cơ và nhân vật: nó trở thành câu chuyện nổi bật trong tác phẩm sau này của ông về Trung Địa. Nhưng ông không thể đưa nó đến hình thức cuối cùng và hoàn thiện. Trong cuốn sách này, tôi đã nỗ lực xây dựng, sau một thời gian dài nghiên cứu các bản thảo, một câu chuyện mạch lạc mà không có bất kỳ sáng tạo biên tập nào." <small>—Christopher Tolkien</small>
 
 ## Nội dung {#Contents}
 
@@ -106,30 +106,30 @@ Câu chuyện là một trong ba "[câu chuyện hay](../A/Atanatarion.md)" lấ
 - Giới thiệu
 - Lưu ý về cách phát âm
 
-- **Narn I Chîn Húrin: Câu chuyện về những đứa trẻ của Húrin**
+- **Narn I Chîn Húrin: Câu chuyện về những đứa con của Húrin**
 
-1. "[Tuổi thơ của Túrin](The_Childhood_of_Túrin.md)"
+1. "[Turin tuổi thơ](The_Childhood_of_Túrin.md)"
 2. "[Trận chiến của những giọt nước mắt không đếm được](The_Battle_of_Unnumbered_Tears.md)"
 3. "[Lời của Húrin và Morgoth](The_Words_of_Húrin_and_Morgoth.md)"
-4. "[Sự khởi hành của Túrin](The_Departure_of_Túrin.md)"
-5. "[Túrin trong Doriath](Túrin_in_Doriath.md)"
-6. "[Túrin trong số những kẻ ngoài vòng pháp luật](Túrin_among_the_Outlaws.md)"
-7. "[Của Mîm Người lùn](../O/Of_Mîm_the_Dwarf.md)"
-8. "[Vùng đất cung và Helm](The_Land_of_Bow_and_Helm.md)"
+4. "[Sự ra đi của Túrin](The_Departure_of_Túrin.md)"
+5. "[Túrin ở Doriath](Túrin_in_Doriath.md)"
+6. "[Túrin giữa những kẻ ngoài vòng pháp luật](Túrin_among_the_Outlaws.md)"
+7. "[Của Mîm Người Lùn](../O/Of_Mîm_the_Dwarf.md)"
+8. "[Vùng đất của Cung và Mũ](The_Land_of_Bow_and_Helm.md)"
 9. "[Cái chết của Beleg](The_Death_of_Beleg.md)"
-10. "[Túrin trong Nargothrond](Túrin_in_Nargothrond.md)"
-11. "[Cái Sự sụp đổ của Nargothrond](The_Fall_of_Nargothrond.md)"
-12. "[Sự trở lại của Túrin thành Dor-lómin](The_Return_of_Túrin_to_Dor-lómin.md)"
-13. "[Sự xuất hiện của Túrin thành Brethil](The_Coming_of_Túrin_into_Brethil.md)"
-14. "[Hành trình của Morwen và Niënor tới Nargothrond](The_Journey_of_Morwen_and_Niënor_to_Nargothrond.md)"
+10. "[Túrin ở Nargothrond](Túrin_in_Nargothrond.md)"
+11. "[Sự sụp đổ của Nargothrond](The_Fall_of_Nargothrond.md)"
+12. "[Sự trở lại của Túrin với Dor-lómin](The_Return_of_Túrin_to_Dor-lómin.md)"
+13. "[Việc Túrin trở thành Brethil](The_Coming_of_Túrin_into_Brethil.md)"
+14. "[Hành trình của Morwen và Niënor đến Nargothrond](The_Journey_of_Morwen_and_Niënor_to_Nargothrond.md)"
 15. "[Niënor ở Brethil](../N/Niënor_in_Brethil.md)"
 16. "[Sự xuất hiện của Glaurung](The_Coming_of_Glaurung.md)"
 17. "[Cái chết của Glaurung](The_Death_of_Glaurung.md)"
 18. "[Cái chết của Túrin](The_Death_of_Túrin.md)"
 
 - Phả hệ
-    - Con người Nhà Hador & Con người Haleth
-    - Cái Nhà Bëor
+    - Nhà Hador và người dân Haleth
+    - Nhà Bëor
     - Các hoàng tử của Noldor
 - Phụ lục
     - Sự phát triển của những câu chuyện vĩ đại
@@ -139,14 +139,14 @@ Câu chuyện là một trong ba "[câu chuyện hay](../A/Atanatarion.md)" lấ
 
 ## Bài viết và xuất bản {#Writings_and_publication}
 
-Một phiên bản ngắn gọn của câu chuyện đã tạo thành nền tảng cho [Chương 21](../O/Of_Túrin_Turambar.md) của *[The Silmarillion](The_Silmarillion.md)*, đặt câu chuyện trong bối cảnh các cuộc chiến [Beleriand](../B/Beleriand.md). Mặc dù dựa trên những văn bản tương tự được sử dụng để hoàn thành cuốn sách mới, Christopher Tolkien đã tóm tắt câu chuyện để tránh tính giá quá cao cho ấn bản của mình.
+Một phiên bản ngắn gọn của câu chuyện đã tạo thành nền tảng cho [Chương 21](../O/Of_Túrin_Turambar.md) của *[The Silmarillion](The_Silmarillion.md)*, đặt câu chuyện trong bối cảnh các cuộc chiến ở [Beleriand](../B/Beleriand.md). Mặc dù dựa trên những văn bản tương tự được sử dụng để hoàn thành cuốn sách mới, Christopher Tolkien đã tóm tắt câu chuyện để tránh tính phí quá cao cho ấn bản của mình.
 
 Các phiên bản chưa hoàn chỉnh khác đã được xuất bản trong các ấn phẩm trước đó:
 
 - "[Narn i Hîn Húrin](../N/Narn_i_Hîn_Húrin.md)" trong *[Unfinished Tales](../U/Unfinished_Tales.md)*.
 - Các mục trong bộ *[The History of Middle-earth](The_History_of_Middle-earth.md)*, bao gồm:
-    - "[Turambar and the Foalókë](Turambar_and_the_Foalókë.md)", từ *[The Book of Lost Tales: Part Two](The_Book_of_Lost_Tales%253A_Part_Two.md)*
-    - "[The Lay of the Children of Húrin](The_Lay_of_the_Children_of_Húrin.md)" (thơ tự sự), từ *[The Lays of Beleriand](The_Lays_of_Beleriand.md)*
+    - "[Turambar và chú ngựa con](Turambar_and_the_Foalókë.md)", từ *[The Book of Lost Tales: Part Two](The_Book_of_Lost_Tales%253A_Part_Two.md)*
+    - "[Việc nằm của những đứa trẻ Húrin](The_Lay_of_the_Children_of_Húrin.md)" (một bài thơ tự sự), từ *[The Lays of Beleriand](The_Lays_of_Beleriand.md)*
 
 Không có tác phẩm nào trong số này tạo thành một câu chuyện hoàn chỉnh và trưởng thành. *Children of Húrin* được xuất bản về cơ bản là sự tổng hợp của *Narn* và tài khoản được tìm thấy trong *The Silmarillion*.
 
@@ -240,9 +240,9 @@ Không có tác phẩm nào trong số này tạo thành một câu chuyện ho�
 		</li>
 </ul>
 
-- [HarperCollins](../H/HarperCollins.md) bìa cứng ([2007](../_/2007.md)), trang 320. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007246226">ISBN 0007246226</a>
+- [HarperCollins](../H/HarperCollins.md) bìa cứng ([2007](../_/2007.md)), trang 320. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007246226">ISBN 0007246226</a>
 - [HarperCollins](../H/HarperCollins.md) bìa cứng có nắp trượt ([2007](../_/2007.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007252234">ISBN 0007252234</a>
-- [HarperCollins](../H/HarperCollins.md) bìa cứng có khay ([2007](../_/2007.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007252242">ISBN 0007252242</a> - (phiên bản cao cấp giới hạn)
+- [HarperCollins](../H/HarperCollins.md) bìa cứng có khay ([2007](../_/2007.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007252242">ISBN 0007252242</a> - (phiên bản cao cấp có giới hạn)
 - [HarperCollins](../H/HarperCollins.md) bìa cứng ([2007](../_/2007.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007252250">ISBN 0007252250</a> - (ấn bản in khổ lớn)
 - [HarperCollins](../H/HarperCollins.md) bìa mềm ([2008](../_/2008.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007252269">ISBN 0007252269</a>
 - [HarperCollins](../H/HarperCollins.md) bìa mềm ([2008](../_/2008.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007309368">ISBN 0007309368</a> - (ấn bản đặc biệt ở nước ngoài)
@@ -256,7 +256,7 @@ Không có tác phẩm nào trong số này tạo thành một câu chuyện ho�
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Children_of_Hurin_Audiobook.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/0/01/The_Children_of_Hurin_Audiobook.jpg/150px-The_Children_of_Hurin_Audiobook.jpg" decoding="async" loading="lazy" width="150" height="141" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/01/The_Children_of_Hurin_Audiobook.jpg/225px-The_Children_of_Hurin_Audiobook.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/0/01/The_Children_of_Hurin_Audiobook.jpg/300px-The_Children_of_Hurin_Audiobook.jpg 2x" data-file-width="500" data-file-height="469"/></a><figcaption><i>The Children Of Húrin</i> Audiobook</figcaption></figure>
 
-Một [bản ghi âm](<The_Children_of_Húrin_(audiobook).md>) không rút gọn của *The Children of Húrin* do [Christopher Lee](../C/Christopher_Lee.md) đọc được phát hành vào tháng 11 năm 2007. Lee đã dành năm ngày trong phòng thu để ghi âm cuốn sách cho HarperCollins.<a class="external autonumber" href="https://web.archive.org/web/20090825011552/http://www.christopherleeweb.com:80/content/children-hurin-0?s=2fe5c0abd7a86ace5f51d633fba86a37" rel="noreferrer noopener" target="_blank">[1]</a> Sách nói cũng có [Christopher Tolkien](../C/Christopher_Tolkien.md) đọc lời tựa và phần giới thiệu câu chuyện.
+Một [bản ghi âm](<The_Children_of_Húrin_(audiobook).md>) không rút gọn của *The Children of Húrin* do [Christopher Lee](../C/Christopher_Lee.md) đọc được phát hành vào tháng 11 năm 2007. Lee đã dành năm ngày trong phòng thu để ghi âm cuốn sách cho HarperCollins.<a class="external autonumber" href="https://web.archive.org/web/20090825011552/http://www.christopherleeweb.com:80/content/children-hurin-0?s=2fe5c0abd7a86ace5f51d633fba86a37" rel="noreferrer noopener" target="_blank">[1]</a> Sách nói cũng có [Christopher Tolkien](../C/Christopher_Tolkien.md) đọc lời nói đầu và phần giới thiệu câu chuyện.
 
 - [HarperCollins](../H/HarperCollins.md), [2007](../_/2007.md), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/9780007269648">ISBN 9780007269648</a>
 - [HarperCollins](../H/HarperCollins.md), [2007](../_/2007.md), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/9780007269631">ISBN 9780007269631</a>
@@ -265,15 +265,15 @@ Một [bản ghi âm](<The_Children_of_Húrin_(audiobook).md>) không rút gọn
 
 ## Xem thêm {#See_also}
 
-- "[Của Túrin Turambar](../O/Of_Túrin_Turambar.md)" (chương của *[The Silmarillion](The_Silmarillion.md)*)
+- "[Của Túrin Turambar](../O/Of_Túrin_Turambar.md)" (chương *[The Silmarillion](The_Silmarillion.md)*)
 - *[The Story of Kullervo](The_Story_of_Kullervo.md)* (tiền thân của *The Children of Húrin*)
 - [Hình ảnh từ *The Children of Húrin*](../../category/I/Images_from_The_Children_of_Húrin.md) được minh họa bởi [Alan Lee](../A/Alan_Lee.md)
-- [Bên giải phóng](The_Children_of_Húrin_Release_Party.md)
+- [Bên phát hành](The_Children_of_Húrin_Release_Party.md)
 
 ## Liên kết ngoài {#External_links}
 
-- Nicholas Birns, <a class="external text" href="https://muse.jhu.edu/article/240232" rel="noreferrer noopener" target="_blank">Đánh giá cuốn sách</a>, [Tolkien Nghiên cứu. 5](Tolkien_Studies%253A_Volume_5.md)
-- [Các đánh giá khác về sách](The_Children_of_Húrin_reviews.md)
+- Nicholas Birns, <a class="external text" href="https://muse.jhu.edu/article/240232" rel="noreferrer noopener" target="_blank">Đánh giá cuốn sách</a>, [Nghiên cứu Tolkien. 5](Tolkien_Studies%253A_Volume_5.md)
+- [Các bài đánh giá khác về sách](The_Children_of_Húrin_reviews.md)
 - <a class="external text" href="http://www.tolkienlibrary.com/press/Children-of-Hurin-FAQ.htm" rel="noreferrer noopener" target="_blank">Câu hỏi thường gặp về trẻ em Húrin</a>
 - <a class="external text" href="http://www.lotrplaza.com/archive5/display_topic_threads.asp?ForumID=24&amp;TopicID=207607" rel="noreferrer noopener" target="_blank">Thảo luận tại LotRPlaza.com</a>
 - <a class="external text" href="http://wormtalk.blogspot.com/2006/09/j.html" rel="noreferrer noopener" target="_blank">Bài đăng trên blog</a> của [Michael D.C. Drout](../M/Michael_D.C._Drout.md)

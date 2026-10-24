@@ -62,13 +62,13 @@ Sự kiện xảy ra vào ngày 12 tháng 4.
 
 ## Trên Trái đất {#On_Earth}
 
-- **[1956](1956.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư cho ông Earle](../L/Letter_to_Mr_Earle.md).
+- **[1956](1956.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một lá thư cho ông Earle](../L/Letter_to_Mr_Earle.md).
 - **[1958](1958.md)** - Diễn viên lồng tiếng [Tony Oliver](../T/Tony_Oliver.md) ra đời.
 - **[1962](1962.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 237](../L/Letter_237.md).
 - **[1966](1966.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư gửi Mẹ Mary Anthony](../L/Letter_to_Mother_Mary_Anthony.md).
-- **[1966](1966.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một lá thư cho James Ridolfo](../L/Letter_to_James_Ridolfo.md).
+- **[1966](1966.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một bức thư cho James Ridolfo](../L/Letter_to_James_Ridolfo.md).
 - **[1967](1967.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư 295a](../L/Letter_295a.md).
-- **[1970](1970.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư gửi Tom Shippey](../L/Letter_to_Tom_Shippey.md).
+- **[1970](1970.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một bức thư cho Tom Shippey](../L/Letter_to_Tom_Shippey.md).
 - **[1981](1981.md)** - Tập thứ sáu của [loạt phim phát thanh năm 1981](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* được phát sóng trên [BBC Radio 4](../B/BBC.md).
 
 <br>
@@ -76,11 +76,11 @@ Sự kiện xảy ra vào ngày 12 tháng 4.
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [2510](../T/Third_Age_2510.md):
-    - [Eorl the Young](../E/Eorl.md) và [Éothéod](Éothéod.md) di chuyển về phía [Trường Celebrant](../F/Field_of_Celebrant.md).
+    - [Eorl the Young](../E/Eorl.md) và [Éothéod](Éothéod.md) đi tới [Field of Celebrant](../F/Field_of_Celebrant.md).
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
     - [Samwise Gamgee](../S/Samwise_Gamgee.md) và [Ted Sandyman](../T/Ted_Sandyman.md) đang ở *[The Green Dragon](../T/The_Green_Dragon.md)* và bàn tán về những tin tức kỳ lạ.<sup id="cite_ref-shadow_1-0" class="reference"><a href="#cite_note-shadow-1">[1]</a></sup>
-    - Chiều tối, trời quang đãng sau cơn mưa. Samwise trở lại [Hobbiton](../H/Hobbiton.md), cùng lúc [Gandalf](../G/Gandalf.md) đến sau 9 năm vắng bóng.<sup id="cite_ref-shadow_1-1" class="reference"><a href="#cite_note-shadow-1">[1]</a></sup>
-    - Gandalf cảnh báo [Frodo](../F/Frodo.md) rằng [chiếc nhẫn của anh](../O/One_Ring.md) rất nguy hiểm, nhắc đến [Sauron](../S/Sauron.md) nhưng không nói gì thêm cho đến sáng.<sup id="cite_ref-shadow_1-2" class="reference"><a href="#cite_note-shadow-1">[1]</a></sup>
+    - Buổi tối, trời quang đãng sau cơn mưa. Samwise trở lại [Hobbiton](../H/Hobbiton.md), cùng lúc [Gandalf](../G/Gandalf.md) đến sau 9 năm vắng bóng.<sup id="cite_ref-shadow_1-1" class="reference"><a href="#cite_note-shadow-1">[1]</a></sup>
+    - Gandalf cảnh báo [Frodo](../F/Frodo.md) rằng [chiếc nhẫn của ông](../O/One_Ring.md) rất nguy hiểm, đề cập đến [Sauron](../S/Sauron.md) với ông, nhưng không nói gì thêm cho đến sáng.<sup id="cite_ref-shadow_1-2" class="reference"><a href="#cite_note-shadow-1">[1]</a></sup>
 
 <span></span>
 

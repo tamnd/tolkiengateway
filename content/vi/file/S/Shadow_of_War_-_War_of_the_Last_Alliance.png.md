@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Cuộc chiến của Liên minh Cuối cùng](../../main/W/War_of_the_Last_Alliance.md) như được mô tả trong [Trung Địa: Bóng Tối of War](../../main/M/Middle-earth%253A_Shadow_of_War.md).
+[Cuộc chiến của Liên minh Cuối cùng](../../main/W/War_of_the_Last_Alliance.md) như được mô tả trong [Middle-earth: Shadow of War](../../main/M/Middle-earth%253A_Shadow_of_War.md).
 
 ## Giấy phép {#Licensing}
 

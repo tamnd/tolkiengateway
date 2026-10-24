@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Alan Lee - Thane of Tevildo.jpg"
 ---
 
-Chuyển hướng đến [Tệp:Alan Lee - Thane của Tevildo.jpg](Alan_Lee_-_Thane_of_Tevildo.jpg.md).
+Chuyển hướng đến [Tệp:Alan Lee - Thane of Tevildo.jpg](Alan_Lee_-_Thane_of_Tevildo.jpg.md).

@@ -18,7 +18,7 @@ langlinks:
     url: "https://www.ardapedia.org/wiki/Durins_Axt"
 ---
 
-**Rìu của Durin** là một vật gia truyền tuyệt vời của [Người Lùn](Dwarves.md).
+**Chiếc rìu của Durin** là vật gia truyền vĩ đại của [Người lùn](Dwarves.md).
 
 ## Lịch sử {#History}
 
@@ -26,11 +26,11 @@ Chiếc rìu vẫn bị mất ở [Khazad-dûm](../M/Moria.md) sau khi nó bị 
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2023: <i><a href="../T/The_Lord_of_the_Rings%253A_Return_to_Moria.md" title="The Lord of the Rings: Return to Moria">The Lord of the Rings: Trở về Moria</a></i>:</b>
+<b>2023: <i><a href="../T/The_Lord_of_the_Rings%253A_Return_to_Moria.md" title="The Lord of the Rings: Return to Moria">Chúa tể của những chiếc nhẫn: Trở lại Moria</a></i>:</b>
 
 <dl><dd>The axe is broken into several fragments that must be recovered by the player in order for the axe to be reforged.</dd></dl>
 
-<b>2024: <i><a href="../T/The_One_Ring_(role-playing_game).md" title="The One Ring (role-playing game)">Chiếc nhẫn duy nhất</a> — <a href="../M/Moria_-_Through_the_Doors_of_Durin.md" title="Moria - Through the Doors of Durin">Moria: Qua cánh cửa của Durin</a></i>:</b>
+<b>2024: <i><a href="../T/The_One_Ring_(role-playing_game).md" title="The One Ring (role-playing game)">Chiếc nhẫn duy nhất</a> — <a href="../M/Moria_-_Through_the_Doors_of_Durin.md" title="Moria - Through the Doors of Durin">Moria: Đi qua cánh cửa Durin</a></i>:</b>
 
 <dl><dd>In <a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2965.md" title="Third Age 2965">2965</a>, the axe was still in the Lower Armoury of the <a href="../T/Third_Deep.md" title="Third Deep">Third Deep</a>, which was locked with a special key.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></dd></dl>
 

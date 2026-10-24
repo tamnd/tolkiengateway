@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Tom Bombadil](../../main/T/Tom_Bombadil.md) trong [Sagan om Ringen](<../../main/S/Sagan_om_Ringen_(1971_film).md>)
+[Tom Bombadil](../../main/T/Tom_Bombadil.md) ở [Sagan om Ringen](<../../main/S/Sagan_om_Ringen_(1971_film).md>)
 
 ## Giấy phép {#Licensing}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Middle-earth: The Wizards"
 ---
 
-Chuyển hướng đến [Trung Địa: Pháp sư](Middle-earth%253A_The_Wizards.md).
+Chuyển hướng đến [Middle-earth: The Wizards](Middle-earth%253A_The_Wizards.md).

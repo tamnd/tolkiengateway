@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Middle-earth Campaign Guide"
 ---
 
-Chuyển hướng tới [Trung Địa Hướng dẫn Chiến dịch](Middle-earth_Campaign_Guide.md).
+Chuyển hướng tới [Hướng dẫn chiến dịch ở Trung địa](Middle-earth_Campaign_Guide.md).

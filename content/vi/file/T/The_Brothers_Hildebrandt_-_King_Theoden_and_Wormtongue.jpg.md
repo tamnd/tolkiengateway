@@ -29,7 +29,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"[Vua](../../main/K/King_of_Rohan.md) [Theoden](../../main/T/Théoden.md) và [Wormtongue](../../main/G/Gríma.md)" của [Anh em nhà Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md), được xuất bản lần đầu trên *[1978 J.R.R. Tolkien Calendar](../../main/_/1978_J.R.R._Tolkien_Calendar.md)*.
+"[Vua](../../main/K/King_of_Rohan.md) [Theoden](../../main/T/Théoden.md) và [Wormtongue](../../main/G/Gríma.md)" của [Anh em nhà Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md), xuất bản lần đầu trên *[1978 J.R.R. Tolkien Calendar](../../main/_/1978_J.R.R._Tolkien_Calendar.md)*.
 
 ## Giấy phép {#Licensing}
 

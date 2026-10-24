@@ -28,7 +28,7 @@ langlinks:
     url: "https://kontu.wiki/Guld"
 ---
 
-**Gia đình Goold** là một gia đình [Hobbit](../H/Hobbits.md), có lẽ (như tên gọi của nó) thuộc tầng lớp thượng lưu.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> [Menegilda Goold](../M/Menegilda_Goold.md) đã kết hôn [Rorimac Brandybuck](../R/Rorimac_Brandybuck.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Gia đình Goold** là một gia đình [Người Hobbit](../H/Hobbits.md), có lẽ (như tên gọi của nó) thuộc tầng lớp thượng lưu.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> [Menegilda Goold](../M/Menegilda_Goold.md) kết hôn với [Rorimac Brandybuck](../R/Rorimac_Brandybuck.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

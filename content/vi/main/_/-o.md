@@ -26,7 +26,7 @@ images:
 <p class="tg-quote-footer"><cite><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a></cite></p>
 </blockquote></div></div>
 
-<i><b>-o</b></i> (pl. **-ion** và **-ron**) là phần tử [Quenya](../Q/Quenya.md) và [Telerin](../T/Telerin.md) đánh dấu tính cách sở hữu của danh từ. <sup id="cite_ref-:0_1-0" class="reference"><a href="#cite_note-:0-1">[1]</a></sup>
+<i><b>-o</b></i> (pl. **-ion** và **-ron**) là phần tử [Quenya](../Q/Quenya.md) và [Telerin](../T/Telerin.md) đánh dấu nguồn gốc của danh từ. <sup id="cite_ref-:0_1-0" class="reference"><a href="#cite_note-:0-1">[1]</a></sup>
 
 Nó có nguồn gốc từ phần tử <a class="new" href="https://tolkiengateway.net/w/index.php?title=HO&amp;action=edit&amp;redlink=1" title="HO (page does not exist)">HO</a> "from" được sử dụng làm hậu tố và cuối cùng là hậu tố.
 

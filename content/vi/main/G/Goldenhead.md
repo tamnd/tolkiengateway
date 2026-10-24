@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hador"
 ---
 
-Chuyển hướng đến [Hador](../H/Hador.md).
+Chuyển hướng tới [Hador](../H/Hador.md).

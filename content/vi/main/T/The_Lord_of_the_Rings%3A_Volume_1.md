@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "J.R.R. Tolkien's The Lord of the Rings, Vol. I (SNES)"
 ---
 
-Chuyển hướng đến The Lord of the Rings của [J.R.R. Tolkien, Tập. Tôi (SNES)](<../J/J.R.R._Tolkien's_The_Lord_of_the_Rings,_Vol._I_(SNES).md>).
+Redirect to [J.R.R. Tolkien's The Lord of the Rings, Vol. I (SNES)](<../J/J.R.R._Tolkien's_The_Lord_of_the_Rings,_Vol._I_(SNES).md>).

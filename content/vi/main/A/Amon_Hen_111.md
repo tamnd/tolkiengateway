@@ -82,7 +82,7 @@ infobox:
     - Bởi: Judith A. Cawell
 - Sự học hỏi của Debi
     - Bởi: Debi Haigh-Hutchinson
-- Bilbo [Tiệc chia tay](../F/Farewell_Party.md): SR 1401
+[Tiệc chia tay](../F/Farewell_Party.md) của - Bilbo: SR 1401
     - Bởi: Jeff Stevenson
 - Và cuối cùng...
     - Bởi: Tony Curtis

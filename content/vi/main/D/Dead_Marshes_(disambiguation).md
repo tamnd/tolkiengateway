@@ -14,20 +14,20 @@ images:
   - "Disambig.png"
 ---
 
-**Đầm lầy Chết** có thể tham khảo:
+**Đầm lầy chết** có thể đề cập đến:
 
-## Trung Địa {#Middle-earth}
+## Trung địa {#Middle-earth}
 
-- **[Đầm lầy Chết](Dead_Marshes.md)**, vùng đất ngập nước nằm ở phía tây bắc của [Dagorlad](Dagorlad.md) và là nơi [Frodo](../F/Frodo.md), [Sam](../S/Sam.md) và [Gollum](../G/Gollum.md) tìm thấy đường đi đến [Mordor](../M/Mordor.md).
+- **[Đầm lầy chết](Dead_Marshes.md)**, vùng đất ngập nước nằm ở phía tây bắc [Dagorlad](Dagorlad.md) và là nơi [Frodo](../F/Frodo.md), [Sam](../S/Sam.md) và [Gollum](../G/Gollum.md) tìm thấy lối đi đến [Mordor](../M/Mordor.md).
 
 ## Các bản chuyển thể {#Adaptations}
 
-- [Bài Đầm lầy Chết](../T/The_Dead_Marshes.md), bài hát thứ 11 của đĩa một trong *[The Lord of the Rings: The Two Towers - The Complete Recordings](../T/The_Lord_of_the_Rings%253A_The_Two_Towers_-_The_Complete_Recordings.md)* của [Howard Shore](../H/Howard_Shore.md).
-- [Dagorlad và Đầm lầy Chết](Dagorlad_and_the_Dead_Marshes.md) là một mô-đun (trong sê-ri Phiêu lưu) dành cho [Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md), Phiên bản đầu tiên.
+- [The Dead Marshes](../T/The_Dead_Marshes.md), bài hát thứ 11 của đĩa một trong *[The Lord of the Rings: The Two Towers - The Complete Recordings](../T/The_Lord_of_the_Rings%253A_The_Two_Towers_-_The_Complete_Recordings.md)* của [Howard Shore](../H/Howard_Shore.md).
+- [Dagorlad and the Dead Marshes](Dagorlad_and_the_Dead_Marshes.md) là một mô-đun (trong loạt phim Phiêu lưu) dành cho [Nhập vai ở Trung Địa](../M/Middle-earth_Role_Playing.md), Phiên bản đầu tiên.
 
 ## Xem thêm {#See_also}
 
-- [Hình ảnh của Đầm lầy Chết](../../category/I/Images_of_the_Dead_Marshes.md)
+- [Hình ảnh đầm lầy chết](../../category/I/Images_of_the_Dead_Marshes.md)
 
 <hr style="margin-top:15px;"/>
 

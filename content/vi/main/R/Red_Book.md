@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Red Book of Westmarch"
 ---
 
-Chuyển hướng đến [Red Book of Westmarch](Red_Book_of_Westmarch.md).
+Chuyển hướng đến [Sách đỏ Westmarch](Red_Book_of_Westmarch.md).

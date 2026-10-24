@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Uglúk u bagronk sha pushdug Saruman-glob búbhosh skai"
 ---
 
-Chuyển hướng đến [Uglúk u bagronk sha pushdug Saruman-glob búbhosh skai](../U/Uglúk_u_bagronk_sha_pushdug_Saruman-glob_búbhosh_skai.md).
+Chuyển hướng tới [Uglúk u bagronk sha pushdug Saruman-glob búbhosh skai](../U/Uglúk_u_bagronk_sha_pushdug_Saruman-glob_búbhosh_skai.md).

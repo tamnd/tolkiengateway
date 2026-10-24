@@ -15,7 +15,7 @@ sort_keys:
   "Lords of the Éothéod": " "
 ---
 
-**Lãnh chúa của Éothéod**<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> là người cai trị cha truyền con nối của [Éothéod](../_/Éothéod.md), kỵ binh của phương Bắc. Các Lãnh chúa của Éothéod là hậu duệ của [Các vị vua của Rhovanion](../K/King_of_Rhovanion.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Với sự hình thành của [Rohan](../R/Rohan.md) vào [T.A.](../T/Third_Age.md) [2510](../T/Third_Age_2510.md), danh hiệu này đã bị loại bỏ để nhường chỗ cho "[Vua of the Mark](../K/King_of_Rohan.md)".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+**Chúa tể của Éothéod**<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> là người cai trị cha truyền con nối của [Éothéod](../_/Éothéod.md), những kỵ binh của phương Bắc. Các Lãnh chúa của Éothéod đều là hậu duệ của [Các vị vua của Rhovanion](../K/King_of_Rhovanion.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Với sự hình thành của [Rohan](../R/Rohan.md) vào [T.A.](../T/Third_Age.md) [2510](../T/Third_Age_2510.md), danh hiệu này đã bị bãi bỏ và thay vào đó là "[Vua đất Mark](../K/King_of_Rohan.md)".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 ## Lịch sử {#History}
 
@@ -30,19 +30,19 @@ sort_keys:
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2020: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2020: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
 
 <dl><dd>This game provides names and interesting backstories for all of the un-named Lords of the Éothéod and their kin. They were Forthári, Gifica, Gundamári, Gisilhári, Gundahári, Gundáric, Hildáric, Gundobad, Hildigar, Gundolávi, Thíudric, Gunthar, Lóthar, Gundric, Bóra, Maera, Théodric, Haldend, Théodwyne Sternbrow, Frúma, Cendric, and Hárda.</dd></dl>
 
 ## Xem thêm {#See_also}
 
-- [Nhà của Eorl](../H/House_of_Eorl.md)
-- [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, [Appendix A](../A/Appendix_A.md), "Ngôi nhà của Eorl"
-- [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), [Christopher Tolkien](../C/Christopher_Tolkien.md) (ed.), *[Unfinished Tales](../U/Unfinished_Tales.md)*, "[Cirion và Eorl và Tình bạn của Gondor và Rohan](../C/Cirion_and_Eorl_and_the_Friendship_of_Gondor_and_Rohan.md)"
+- [Nhà Eorl](../H/House_of_Eorl.md)
+- [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, [Phụ lục A](../A/Appendix_A.md), "Ngôi nhà của Eorl"
+- [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), [Christopher Tolkien](../C/Christopher_Tolkien.md) (ed.), *[Unfinished Tales](../U/Unfinished_Tales.md)*, "[Cirion và Eorl và tình bạn của Gondor và Rohan](../C/Cirion_and_Eorl_and_the_Friendship_of_Gondor_and_Rohan.md)"
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://middle-earth.xenite.org/2013/10/10/how-many-lords-of-eotheod-were-there/" rel="noreferrer noopener" target="_blank">Có bao nhiêu lãnh chúa của Éothéod ở đó?</a> bởi [Michael Martinez](../M/Michael_Martinez.md)
+- <a class="external text" href="http://middle-earth.xenite.org/2013/10/10/how-many-lords-of-eotheod-were-there/" rel="noreferrer noopener" target="_blank">Có bao nhiêu lãnh chúa của Éothéod?</a> của [Michael Martinez](../M/Michael_Martinez.md)
 
 <span></span>
 

@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Pennicruik cũ từ *The Lord of the Rings: The War of the Rohirrim*
+Pennicruik cũ trong *The Lord of the Rings: Cuộc chiến của Rohirrim*
 
 ## Giấy phép {#Licensing}
 

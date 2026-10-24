@@ -29,7 +29,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien đã báo cáo rằng [Priscilla](../P/Priscilla_Tolkien.md) đã hết cách ly. Cô ấy đang gõ *[The Hobbit](../T/The_Hobbit.md)* và đã cùng [Edith](../E/Edith_Tolkien.md) đến Pantomine. Anh ấy đã và vẫn rất bận rộn. <br>
+Tolkien báo cáo rằng [Priscilla](../P/Priscilla_Tolkien.md) đã hết cách ly. Bà đang gõ *[The Hobbit](../T/The_Hobbit.md)* và đã cùng [Edith](../E/Edith_Tolkien.md) đến Pantomine. Ông đã và vẫn rất bận rộn. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

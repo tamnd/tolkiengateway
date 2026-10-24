@@ -14,11 +14,11 @@ categories:
   - "Sindarin locations"
 ---
 
-**Ramdal** là một cụm đồi thấp ở [Đông Beleriand](../E/East_Beleriand.md), cách [Amon Ereb](../A/Amon_Ereb.md)vài dặm về phía tây. Họ đánh dấu phạm vi phía đông của [Andram](../A/Andram.md), Bức tường dài, chạy về phía đông nhiều dặm từ những ngọn đồi xung quanh [Nargothrond](../N/Nargothrond.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Ramdal** là một cụm đồi thấp ở [Đông Beleriand](../E/East_Beleriand.md), cách [Amon Ereb](../A/Amon_Ereb.md) vài dặm về phía tây. Họ đánh dấu phạm vi phía đông của [Andram](../A/Andram.md), Bức tường dài, chạy về phía đông nhiều dặm từ những ngọn đồi xung quanh [Nargothrond](../N/Nargothrond.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Ramdal* là [Sindarin](../S/Sindarin.md) nghĩa là "Nơi cuối của bức tường", bao gồm *[ram](Ram.md)* ("bức tường") + *[dal](../T/Tal.md)* ("kết thúc").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+*Ramdal* là [Sindarin](../S/Sindarin.md) có nghĩa là "Nơi cuối của bức tường", bao gồm *[ram](Ram.md)* ("bức tường") + *[dal](../T/Tal.md)* ("kết thúc").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 Tên cũng được đánh vần là *Rhamdal*.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 

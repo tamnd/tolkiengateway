@@ -25,9 +25,9 @@ images:
 
 <figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/Jarreau_Wimberly_-_The_Day&#39;s_Rising.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/68/Jarreau_Wimberly_-_The_Day%27s_Rising.jpg/300px-Jarreau_Wimberly_-_The_Day%27s_Rising.jpg" decoding="async" loading="lazy" width="300" height="245" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/6/68/Jarreau_Wimberly_-_The_Day%27s_Rising.jpg 1.5x" data-file-width="352" data-file-height="287"/></a><figcaption>&#34;The Day&#39;s Rising&#34; by Jarreau Wimberly</figcaption></figure>
 
-“**Hết nghi ngờ, ra khỏi bóng tối, đến ngày mới mọc**” là bài hát và lời than thở được sáng tác bởi [Éomer](../_/Éomer.md) trong [Trận chiến trên Cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md), trước sự thất bại và cái chết sắp xảy ra. Nó xuất hiện trong chương "[The Trận chiến trên Cánh đồng Pelennor](../T/The_Battle_of_the_Pelennor_Fields.md)".
+"**Ra khỏi nghi ngờ, ra khỏi bóng tối, đến ngày mới mọc**" là một bài hát và lời than thở được sáng tác bởi [Éomer](../_/Éomer.md) trong [Trận chiến trên cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md), trước sự thất bại và cái chết sắp xảy ra. Nó xuất hiện trong chương "[Trận chiến trên cánh đồng Pelennor](../T/The_Battle_of_the_Pelennor_Fields.md)".
 
-Sau đó, [Gléowine](../G/Gléowine.md), nghệ sĩ biểu diễn của [Vua's House](../K/Kings_of_Rohan.md) của [Rohan](../R/Rohan.md) đã sáng tác [một bài hát tương tự](Out_of_doubt,_out_of_dark,_to_the_day’s_rising.md) để tưởng nhớ sự ra đi của [Théoden](../T/Théoden.md).
+Sau đó, [Gléowine](../G/Gléowine.md), nghệ sĩ biểu diễn của [King's House](../K/Kings_of_Rohan.md) của [Rohan](../R/Rohan.md) đã sáng tác [một bài hát tương tự](Out_of_doubt,_out_of_dark,_to_the_day’s_rising.md) để thương tiếc sự ra đi của [Théoden](../T/Théoden.md).
 
 ## Văn bản {#Text}
 

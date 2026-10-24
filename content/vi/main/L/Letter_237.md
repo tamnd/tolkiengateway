@@ -31,11 +31,11 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien nói rằng ông đã dành mọi khoảnh khắc rảnh rỗi cho những bài thơ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[notes 1]</a></sup> Ông nói rằng ông đã mất hết niềm tin vào chúng, mọi phán xét và không thể coi chúng trở thành một cuốn sách trừ khi [Pauline Baynes](../P/Pauline_Baynes.md) được chúng truyền cảm hứng (điều mà ông nghi ngờ).
+Tolkien nói rằng ông đã dành mọi khoảnh khắc rảnh rỗi cho những bài thơ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[notes 1]</a></sup> Ông nói rằng ông đã mất hết niềm tin vào chúng, mọi phán xét và không thể coi chúng trở thành một cuốn sách trừ khi [Pauline Baynes](../P/Pauline_Baynes.md) lấy cảm hứng từ chúng (điều mà ông nghi ngờ).
 
-Tolkien cho biết các vật phẩm khác nhau không được "thu thập". Mối liên hệ duy nhất có thể là sự hư cấu đến từ [Shire](../T/The_Shire.md) từ thời kỳ *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, nhưng nó không phù hợp với một số người. Anh ấy đã cố gắng làm cho chúng vừa vặn hơn. Anh ấy đã thêm một *Bombadil* bài thơ<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[notes 2]</a></sup> mới để "hòa nhập" Tom hơn nữa vào thời kỳ đó. Nó cũng kích thích cái mà Tolkien gọi là sở thích mô phạm của anh ấy, lặp lại Bắc Âu Niblung và đi thẳng từ *[The Ancrene Wisse](../A/Ancrene_Wisse_and_Hali_Meiðhad.md)*.
+Tolkien cho biết các vật phẩm khác nhau không được "thu thập". Mối liên hệ duy nhất có thể là sự hư cấu đến từ [Shire](../T/The_Shire.md) từ thời kỳ *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, nhưng nó không phù hợp với một số người. Ông đã cố gắng làm cho chúng vừa vặn hơn. Ông đã thêm một *Bombadil* bài thơ<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[notes 2]</a></sup> mới để "hòa nhập" Tom hơn nữa vào thời kỳ đó. Nó cũng kích thích điều mà Tolkien gọi là sở thích mô phạm của ông, lặp lại tiếng Bắc Âu Niblung và đi thẳng từ *[The Ancrene Wisse](../A/Ancrene_Wisse_and_Hali_Meiðhad.md)*.
 
-Tolkien nghĩ rằng có thể cần phải có một loại chuyển tiếp nào đó. Anh ta gửi một bản mẫu, không nhằm mục đích sử dụng mà để gây cười như một mẩu truyện hư cấu lố bịch. Anh hy vọng [Rayner](../R/Rayner_Unwin.md) sẽ không thất vọng nhiều.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[notes 3]</a></sup>
+Tolkien nghĩ rằng có thể cần phải có một loại tiền đạo nào đó. Ông ta gửi một bản mẫu, không nhằm mục đích sử dụng mà để gây cười như một mẩu truyện hư cấu lố bịch. Anh hy vọng [Rayner](../R/Rayner_Unwin.md) sẽ không thất vọng nhiều.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[notes 3]</a></sup>
 
 ## Ghi chú {#Notes}
 

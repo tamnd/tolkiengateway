@@ -39,37 +39,37 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mythlore_45.png.md"><img src="https://tolkiengateway.net/w/images/thumb/5/56/Mythlore_45.png/320px-Mythlore_45.png" decoding="async" loading="lazy" width="320" height="426" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/5/56/Mythlore_45.png 1.5x" data-file-width="374" data-file-height="498"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mythlore 45</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../G/Glen_GoodKnight.md" title="Glen GoodKnight">Glen GoodKnight</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Spring <a href="../_/1986.md" title="1986">1986</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">63</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mythlore_44.md" title="Mythlore 44">Mythlore 44</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mythlore_46.md" title="Mythlore 46">Mythlore 46</a></td></tr></tbody></table>
 
-<b><i>Mythlore</i> 45</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol12/iss3/" rel="noreferrer noopener" target="_blank">Tập 12, Số 3</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
+<b><i>Thần thoại</i> 45</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol12/iss3/" rel="noreferrer noopener" target="_blank">Tập 12, Số 3</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
 
-Bài viết của [John D. Rateliff](../J/John_D._Rateliff.md)"'Và điều gì đó vẫn còn để nói': Tolkien và Williams" (trang 48–54) bao gồm một số văn bản chưa được xuất bản của [Tolkien](../J/J.R.R._Tolkien.md): chi tiết về chú thích ngắn gọn Tolkien được tạo cho bản thảo của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* sau nhận xét của [Charles Williams](../C/Charles_Williams.md) (tr. 52); trích từ bức thư gửi Caroline Whitman Everett ngày 24 tháng 6 năm 1957 về Charles Williams (tr. 53); trích từ [một bức thư gửi Mẹ Mary Anthony ngày 12 tháng 4 năm 1966](../L/Letter_to_Mother_Mary_Anthony.md), cũng liên quan đến Charles Williams (tr. 53).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+[Bài viết của John D. Rateliff](../J/John_D._Rateliff.md) "'And Something Yet Remains to Be Said': Tolkien and Williams" (trang 48–54) bao gồm một số văn bản chưa được xuất bản của [Tolkien](../J/J.R.R._Tolkien.md): chi tiết về chú thích ngắn gọn mà Tolkien viết cho bản thảo của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* sau nhận xét của [Charles Williams](../C/Charles_Williams.md) (tr. 52); trích từ một bức thư gửi Caroline Whitman Everett ngày 24 tháng 6 năm 1957 liên quan đến Charles Williams (trang 53); trích từ [một bức thư gửi Mẹ Mary Anthony ngày 12 tháng 4 năm 1966](../L/Letter_to_Mother_Mary_Anthony.md), cũng liên quan đến Charles Williams (tr. 53).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Nội dung {#Contents}
 
 #### Bài viết {#Articles}
 
-- Schakel, Peter. “Khiêu vũ như phép ẩn dụ và thần thoại trong Lewis, Tolkien và Williams.”
-- Biển, Sarah. “Người hóa trang của Silmaril \[Kịch\].”
-- Bosky, Bernadette. “Grace và Goetia: Phép thuật như một sự đền bù bắt buộc trong Đêm giao thừa.”
-- Musacchio, George. “C.S. Lewis’ Một nỗi đau buồn được coi là hư cấu.”
-- Deyo, Steven M. “Lá của Niggle: Red Book of Westmarch và bài thơ nhỏ liên quan của J.R.R. Tolkien.”
-- Farrell, Eleanor M. “'Và gió từ những bờ biển vô hình': Biển Mô-típ hành trình trong văn học giàu trí tưởng tượng"
-- Rateliff, John D. “'Và điều gì đó vẫn chưa được nói ra': Tolkien và Williams."
-- Thompson, George H. “Đánh giá sớm về sách của J.R.R. Tolkien.”
+- Schakel, Peter. “Dance as Metaphor and Myth in Lewis, Tolkien, and Williams.”
+- Beach, Sarah. “The Masque of the Silmarils \[Drama\].”
+- Bosky, Bernadette. “Grace and Goetia: Magic as Forced Compensation in All Hallows Eve.”
+- Musacchio, George. “C.S. Lewis’ A Grief Observed as Fiction.”
+- Deyo, Steven M. “Niggle's Leaves: The Red Book of Westmarch and Related Minor Poetry of J.R.R. Tolkien.”
+- Farrell, Eleanor M. “‘And Clove the Wind from Unseen Shores’: The Sea Voyage Motif in Imaginative Literature”
+- Rateliff, John D. “'And Something Yet Remains to Be Said': Tolkien and Williams.”
+- Thompson, George H. “Early Review of Books by J.R.R. Tolkien.”
 
 #### Tính năng {#Features}
 
 - GoodKnight, Glen và Diana Pavlac. Lời mở đầu.
 - Kodratiev, Alexei.  “Những câu chuyện mới được kể.”
 - Hyde, Paul Nolan. “Quenti Lambardillion.”
-- Speth, Lee. “Điều trị ung dung: Hình dáng của Simon.”
+- Speth, Lee. “Cavalier Treatment: The Figure of Simon.”
 - Thư.
 
 #### Đánh giá {#Reviews}
 
-- *The Lays of Beleriand.* J.R.R. Tolkien, được chỉnh sửa bởi Christopher Tolkien. Được đánh giá bởi Jessica Yates.
+- *The Lays of Beleriand.* J.R.R. Tolkien, do Christopher Tolkien biên tập. Được đánh giá bởi Jessica Yates.
 - *The Neverending Story.* Michael Ende, được dịch từ tiếng Đức bởi Ralph Manheim. Được đánh giá bởi Thomas M. Egan.
 - *The Magdalen Metaphysicals:* Chủ nghĩa duy tâm và Chính thống giáo tại Oxford. James Patrick. Được đánh giá bởi Nancy-Lou Patterson.
-- *Secret Gardens.* Humphrey Carpenter. Được đánh giá bởi Nancy-Lou Patterson.
+- *Secret Gardens.* Thợ mộc Humphrey. Được đánh giá bởi Nancy-Lou Patterson.
 - *VII - Tạp chí văn học Anh-Mỹ. Tập 6.* Tiến sĩ Barbara Reynolds, Tiến sĩ Clyde S. Kilby, và Tiến sĩ Beatrice Batson. Được đánh giá bởi Nancy-Lou Patterson.
 
 <div class="template-prevnext"><div class="template-prevnext__prev template-prevnext__link"><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/8/81/WikimediaUI-ArrowPrevious-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__content"><div class="template-prevnext__title">Mythlore 44</div></div><div class="template-prevnext__linkoverlay"><a href="Mythlore_44.md" title="Mythlore 44">Mythlore 44</a></div></div><div class="template-prevnext__current"><div class="template-prevnext__content"><div class="template-prevnext__title">Mythlore 45</div></div></div><div class="template-prevnext__next template-prevnext__link"><div class="template-prevnext__content"><div class="template-prevnext__title">Mythlore 46</div></div><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/7b/WikimediaUI-ArrowNext-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__linkoverlay"><a href="Mythlore_46.md" title="Mythlore 46">Mythlore 46</a></div></div></div>

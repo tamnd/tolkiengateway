@@ -22,7 +22,7 @@ Cả hai nghĩa đều bắt nguồn từ [gốc](../R/Root.md) *KIR*, liên qua
 ## Ví dụ {#Examples}
 
 - <i><a href="../A/Arciryas.md" title="Arciryas">Ar<b>cirya</b>s</a></i> = "Con tàu cao quý-(?)"
-- <i><a class="mw-redirect" href="Ciryaher.md" title="Ciryaher"><b>Cirya</b>cô ấy</a></i> = "Chúa tàu"
+- <i><a class="mw-redirect" href="Ciryaher.md" title="Ciryaher"><b>Cirya</b>bà</a></i> = "Chúa tàu"
 - <i><a href="Ciryandil.md" title="Ciryandil"><b>Cirya</b>ndil</a></i> = "Bạn tàu"
 - <i><a class="mw-redirect" href="Ciryatan.md" title="Ciryatan"><b>Cirya</b>tan</a></i> = "Thợ đóng tàu"
 - <i><a href="Ciryatur.md" title="Ciryatur"><b>Cirya</b>tur</a></i> = "Thuyền trưởng"
@@ -32,7 +32,7 @@ Cả hai nghĩa đều bắt nguồn từ [gốc](../R/Root.md) *KIR*, liên qua
 
 ## Cùng nguồn gốc {#Cognate}
 
-- [Sindarin](../S/Sindarin.md) *[cirith](Cirith.md)*
+- [Tiếng Sindarin](../S/Sindarin.md) *[cirith](Cirith.md)*
 
 ## Xem thêm {#See_also}
 

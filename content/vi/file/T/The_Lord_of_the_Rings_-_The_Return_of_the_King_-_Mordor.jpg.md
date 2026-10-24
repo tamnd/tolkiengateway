@@ -28,7 +28,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Vùng đất [Mordor](../../main/M/Mordor.md) với [Barad-dûr](../../main/B/Barad-dûr.md) và [Núi Doom](../../main/M/Mount_Doom.md) trong một cảnh từ [The Lord of the Rings: The Return of the King](../../main/T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md).
+Vùng đất [Mordor](../../main/M/Mordor.md) với [Barad-dûr](../../main/B/Barad-dûr.md) và [Núi Diệt Vong](../../main/M/Mount_Doom.md) trong một cảnh từ [The Lord of the Rings: The Return of the King](../../main/T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md).
 
 ## Giấy phép {#Licensing}
 

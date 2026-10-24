@@ -20,7 +20,7 @@ sort_keys:
 
 ## Lịch sử {#History}
 
-Uys là cựu chủ tịch của [Hiệp hội Tolkien Nam Phi Haradrim](<../H/Haradrim_(Tolkien_Society).md>) hiện không còn tồn tại, đồng thời là chủ sở hữu cũ của The Hobbit nhà khách ở Bloemfontein, Nam Phi.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> <sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+Uys là cựu chủ tịch của [Hiệp hội Tolkien Nam Phi Haradrim](<../H/Haradrim_(Tolkien_Society).md>) hiện không còn tồn tại, đồng thời là chủ sở hữu cũ của nhà khách The Hobbit ở Bloemfontein, Nam Phi.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> <sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
 <span></span>
 

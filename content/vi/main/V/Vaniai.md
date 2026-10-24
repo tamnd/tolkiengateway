@@ -17,7 +17,7 @@ langlinks:
     url: "https://www.tolkiendil.com/encyclo/peuples/elfes/vaniai"
 ---
 
-**Vaniai** là từ [Telerin](../T/Telerin.md) chỉ [Vanyar](Vanyar.md).
+**Vaniai** là từ [Telerin](../T/Telerin.md) cho [Vanyar](Vanyar.md).
 
 ## Từ nguyên {#Etymology}
 

@@ -25,7 +25,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Hình ảnh trong [Angus McBride's Characters of Middle-earth](../../main/A/Angus_McBride's_Characters_of_Middle-earth.md)
+Hình ảnh trong [Nhân vật Trung Địa](../../main/A/Angus_McBride's_Characters_of_Middle-earth.md) của Angus McBride
 
 ## Giấy phép {#Licensing}
 

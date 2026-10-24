@@ -22,15 +22,15 @@ images:
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article describes a concept which is mentioned in <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s works, but was never given a definite name.
 </div></div>
 
-Trong [Quest of the Ring](../Q/Quest_of_the_Ring.md), một **bóng** bí ẩn đi qua [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) trong đêm, làm tối các ngôi sao khi nó di chuyển qua [Hollin](../E/Eregion.md). Nguồn gốc của cái bóng này không rõ ràng vì nó di chuyển nhanh và ngược gió.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Trong [Quest of the Ring](../Q/Quest_of_the_Ring.md), một **bóng tối** bí ẩn đã bay qua [Fellowship of the Ring](../F/Fellowship_of_the_Ring.md) trong đêm, làm tối các ngôi sao khi nó di chuyển qua [Hollin](../E/Eregion.md). Nguồn gốc của cái bóng này không rõ ràng vì nó di chuyển nhanh và ngược gió.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Nền {#Background}
 
-Cái bóng không phải là một trong những [quái vật sa ngã](../F/Fell_beasts.md) của [Nazgûl](../N/Nazgûl.md) bởi vì, như [Orc](../O/Orcs.md) [Grishnakh](../G/Grishnakh.md) đã nói, các Bóng ma Nhẫn đã bị [Sauron](Sauron.md) cấm vượt qua [Anduin](../A/Anduin.md) cho đến sau khi [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md) diễn ra.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Một cái bóng tương tự đã lướt qua [Amon Hen](../A/Amon_Hen.md) khi Frodo đeo Nhẫn.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Cái bóng không phải là một trong những [quái vật sa ngã](../F/Fell_beasts.md) của [Nazgûl](../N/Nazgûl.md) bởi vì, như [Orc](../O/Orcs.md) [Grishnakh](../G/Grishnakh.md) đã tuyên bố, Ring Wraith đã bị [Sauron](Sauron.md) cấm băng qua [Anduin](../A/Anduin.md) cho đến sau [War of the Ring](../W/War_of_the_Ring.md) tiến triển.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Một cái bóng tương tự đã lướt qua [Amon Hen](../A/Amon_Hen.md) khi Frodo đeo Chiếc nhẫn.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Bóng Tối chuyển giao Hiệp hội đã có trong phiên bản viết tay sớm nhất của câu chuyện về chuyến đi của họ ở Hollin, đặc biệt là trước khi Tolkien có quan niệm về những con thú sa ngã.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Bóng tối đã vượt qua Hiệp hội đã có trong phiên bản viết tay sớm nhất của câu chuyện về chuyến đi của họ ở Hollin, đặc biệt là trước khi Tolkien có quan niệm về những con thú sa ngã.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Liên kết ngoài {#External_links}
 

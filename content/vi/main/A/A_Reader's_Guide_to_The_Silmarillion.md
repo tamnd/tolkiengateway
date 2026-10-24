@@ -37,7 +37,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/A_Readers_Guide_to_The_Silmarillion.jpg.md"><img src="https://tolkiengateway.net/w/images/2/25/A_Readers_Guide_to_The_Silmarillion.jpg" decoding="async" loading="lazy" width="206" height="300" class="mw-file-element" data-file-width="206" data-file-height="300"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>A Reader&#39;s Guide to The Silmarillion</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a href="../P/Paul_H._Kocher.md" title="Paul H. Kocher">Paul H. Kocher</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Thames and Hudson (UK)<br/><a class="mw-redirect" href="../H/Houghton_Mifflin.md" title="Houghton Mifflin">Houghton Mifflin</a> (US)</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/1980.md" title="1980">1980</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Hardcover</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">286</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0395289505" title="Special:BookSources/0395289505">0395289505</a></td></tr></tbody></table>
 
-<i><b>Hướng dẫn dành cho người đọc về The Silmarillion</b></i> là hướng dẫn dành cho người đọc về *[The Silmarillion](../T/The_Silmarillion.md)*của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), được viết bởi [Paul H. Kocher](../P/Paul_H._Kocher.md) và xuất bản trên [1980](../_/1980.md).
+<i><b>Hướng dẫn dành cho người đọc về The Silmarillion</b></i> là hướng dẫn dành cho người đọc về *[The Silmarillion](../T/The_Silmarillion.md)* của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), được viết bởi [Paul H. Kocher](../P/Paul_H._Kocher.md) và xuất bản trên [1980](../_/1980.md).
 
 ## Nội dung {#Contents}
 
@@ -50,7 +50,7 @@ infobox:
 - VII - Sự xuất hiện của Con Người
 - VIII - Beren and Lúthien
 - IX - Trận chiến của những giọt nước mắt không đếm xuể: Nirnaeth Arnoediad
-- X - Túrin Turambar, Chủ nhân của Doom
+- X - Túrin Turambar, Bậc thầy của sự diệt vong
 - XI - Sự tàn tích của Doriath
 - XII - Tuor và Sự sụp đổ của Gondolin
 - XIII - Eärendil và Cuộc chiến Phẫn nộ

@@ -20,7 +20,7 @@ sort_keys:
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- [Lúthien](../L/Lúthien.md) hy sinh mạng sống và đến [Hội trường Mandos](../H/Halls_of_Mandos.md) để cầu xin [Beren](../B/Beren.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- [Lúthien](../L/Lúthien.md) hy sinh mạng sống và đến [Halls of Mandos](../H/Halls_of_Mandos.md) để cầu xin [Beren](../B/Beren.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 - Sự ra đời của [Hunthor](../H/Hunthor.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>

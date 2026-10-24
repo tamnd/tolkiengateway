@@ -75,26 +75,26 @@ Phần này bao gồm hai phần nữa, lần lượt được chia thành các 
 <h3><span id=".22The_First_Phase.22"></span><span class="mw-headline" id="&#34;The_First_Phase&#34;">&#34;The First Phase&#34;</span></h3>
 
 1. "Của Valar"
-2. "Của Valinor và Hai Cây"
-3. "Về sự xuất hiện của Tiên tộc"
+2. "Của Valinor và hai cái cây"
+3. "Sự xuất hiện của yêu tinh"
 4. "Của Thingol và Melian"
 5. "Của Eldanor và các hoàng tử của Eldalië"
-6. "Của Silmaril và Bóng tối của Valinor"
+6. "Của những viên Silmarils và bóng tối của Valinor"
 7. "Chuyến bay của Noldor"
-8. "Về Mặt Trời và Mặt Trăng và Ẩn Valinor"
+8. "Về Mặt trời và Mặt trăng và nơi ẩn náu của Valinor"
 
 <h3><span id=".22The_Second_Phase.22"></span><span class="mw-headline" id="&#34;The_Second_Phase&#34;">&#34;The Second Phase&#34;</span></h3>
 
 1. "Vaquenta"
 2. "Phiên bản đầu tiên của câu chuyện Finwë và Míriel"
-3. "Luật lệ và tập quán giữa Eldar"
+3. "Luật lệ và phong tục của người Eldar"
 4. "Phiên bản sau của câu chuyện Finwë và Míriel"
-5. "Của Fëanor và Giải mã Melkor"
-6. "Về Silmaril và Sự bất ổn của Noldor"
+5. "Của Fëanor và sự giải phóng Melkor"
+6. "Về những viên Silmarils và sự bất ổn của Noldor"
 7. "Về bóng tối của Valinor"
-8. "Về vụ cưỡng hiếp Silmaril"
+8. "Về vụ cưỡng hiếp những viên Silmarils"
 9. "Cuộc cãi vã của bọn trộm"
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://www.tolkiensociety.org/blog/2017/01/the-later-quenta-silmarillion-a-readers-map/" rel="noreferrer noopener" target="_blank">Sau này Quenta Silmarillion: Bản đồ của độc giả</a> tại trang web [Tolkien Hội](Tolkien_Society.md)
+- <a class="external text" href="http://www.tolkiensociety.org/blog/2017/01/the-later-quenta-silmarillion-a-readers-map/" rel="noreferrer noopener" target="_blank">Quenta Silmarillion sau này: Bản đồ của độc giả</a> tại trang web [Hiệp hội Tolkien](Tolkien_Society.md)

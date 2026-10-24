@@ -66,11 +66,11 @@ Sự kiện xảy ra vào ngày 2 tháng 1
 
 ## Trên Trái đất {#On_Earth}
 
-- **[1917](1917.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư gửi Bộ Chiến tranh](../L/Letter_to_the_War_Office.md).
+- **[1917](1917.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một lá thư gửi Bộ Chiến tranh](../L/Letter_to_the_War_Office.md).
 - **[1929](1929.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư gửi E.V. Gordon](<../L/Letter_to_E.V._Gordon_(2_January_1929).md>).
 - **[1941](1941.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 41](../L/Letter_41.md).
 - **[1965](1965.md)** - Tập thứ mười ba của [Princess](../P/Princess.md)-serialization của *[The Hobbit](../T/The_Hobbit.md)* được xuất bản.
-- **[1967](1967.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư cho Otto B. Lindhardt](../L/Letter_to_Otto_B._Lindhardt.md).
+- **[1967](1967.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư gửi Otto B. Lindhardt](../L/Letter_to_Otto_B._Lindhardt.md).
 - **[1967](1967.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một bức thư cho Peyton Moss](../L/Letter_to_Peyton_Moss.md).
 - **[1969](1969.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 308](../L/Letter_308.md).
 - **[1969](1969.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 309](../L/Letter_309.md).
@@ -82,4 +82,4 @@ Sự kiện xảy ra vào ngày 2 tháng 1
 
 - Kết thúc lễ hội [Yuletide](../Y/Yuletide.md) kéo dài sáu ngày trong [Lịch Shire](../S/Shire_Calendar.md).
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - Con [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) di chuyển về phía nam dọc theo [Dãy Núi Sương Mù](../M/Misty_Mountains.md).
+    - Nhóm [Hiệp hội Nhẫn](../F/Fellowship_of_the_Ring.md) đi về phía nam dọc theo [Dãy núi Sương mù](../M/Misty_Mountains.md).

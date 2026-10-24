@@ -15,7 +15,7 @@ sort_keys:
   "Telerin adjectives": "Mala"
 ---
 
-<i><b>māla</b></i> là một từ [Telerin](../T/Telerin.md) có nghĩa là "yêu thương, trìu mến".<sup id="cite_ref-VT39_1-0" class="reference"><a href="#cite_note-VT39-1">[1]</a></sup>
+<i><b>māla</b></i> là từ [Telerin](../T/Telerin.md) có nghĩa là "yêu thương, trìu mến".<sup id="cite_ref-VT39_1-0" class="reference"><a href="#cite_note-VT39-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

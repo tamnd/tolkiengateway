@@ -20,9 +20,9 @@ Nhóm có sự góp mặt của các ca sĩ Bombadil (hay còn gọi là B-dil h
 
 - Chúa tể của những vần điệu
     - Chỉnh sửa Radio (phiên bản sạch)
-- Kỵ sĩ Đen
-- Chín Ngón Frodo
-- Sauron Hỗn hợp bay V
+- Kỵ sĩ da đen
+- Frodo chín ngón
+- Bản phối Flying V của Sauron
 
 <br>
 

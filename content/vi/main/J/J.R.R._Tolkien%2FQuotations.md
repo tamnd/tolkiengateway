@@ -12,7 +12,7 @@ categories:
   - "Quotes"
 ---
 
-## Về Trung Địa {#Regarding_Middle-earth}
+## Về Trung địa {#Regarding_Middle-earth}
 
 <blockquote class="tg-quote noexcerpt">
 <p>Bingo Bolger-Baggins is a bad name. Let Bingo&gt;<a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo Baggins</a>.

@@ -47,7 +47,7 @@ infobox:
   <tr><th scope="row" class="tg-infobox-label">Subject(s)</th><td class="tg-infobox-data"><a href="Oliphaunts.md" title="Oliphaunts">Oliphaunts</a>, <a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Samwise Gamgee</a></td></tr>
 </tbody></table>
 
-<i><b>Oliphaunt</b></i> là tựa đề của một bài thơ truyện tranh ngắn về [quái thú](Oliphaunts.md) được người hobbit [Samwise Gamgee](../S/Samwise_Gamgee.md) trích dẫn cho [Gollum](../G/Gollum.md) khi họ và [Frodo Baggins](../F/Frodo_Baggins.md) nghỉ ngơi trong thung lũng trước [Morannon](../M/Morannon.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Đó là một phần truyền thuyết về thú vật truyền thống của [Shire-hobbit](../S/Shire-hobbits.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+<i><b>Oliphaunt</b></i> là tựa đề của một bài thơ truyện tranh ngắn về [quái thú](Oliphaunts.md) được người hobbit [Samwise Gamgee](../S/Samwise_Gamgee.md) trích dẫn với [Gollum](../G/Gollum.md) khi họ và [Frodo Baggins](../F/Frodo_Baggins.md) nghỉ ngơi trong thung lũng trước trận chiến [Morannon](../M/Morannon.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Đó là một phần truyền thuyết về thú vật truyền thống của [Shire-hobbit](../S/Shire-hobbits.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Trích đoạn thơ {#Poem_excerpt}
 
@@ -67,7 +67,7 @@ Phiên bản đầu tiên của bài thơ đã được xuất bản với tên 
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2024: <i><a href="../T/The_Lord_of_the_Rings%253A_The_War_of_the_Rohirrim.md" title="The Lord of the Rings: The War of the Rohirrim">The Lord of the Rings: The War of the Rohirrim</a></i>:</b>
+<b>2024: <i><a href="../T/The_Lord_of_the_Rings%253A_The_War_of_the_Rohirrim.md" title="The Lord of the Rings: The War of the Rohirrim">Chúa tể của những chiếc nhẫn: Cuộc chiến của người Rohirrim</a></i>:</b>
 
 <dl><dd>At one point in the film, it is mentioned that the <a href="../R/Rohan.md" title="Rohan">Rohan</a> has a poem about Oliphaunts, implying that the <a href="../R/Rohirrim.md" title="Rohirrim">Rohirrim</a> are either aware of the Hobbit poem or that they have their own variation of the Hobbit poem.</dd></dl>
 

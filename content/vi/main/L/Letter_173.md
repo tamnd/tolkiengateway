@@ -33,7 +33,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien kể về việc xuất bản *[The Return of the King](../T/The_Return_of_the_King.md)* vào [20 tháng 10](../_/20_October.md) và bài giảng của O'Donnell vào [21 tháng 10](../_/21_October.md). Tolkien rất hài lòng với sự đón nhận nhưng không nghĩ nó sẽ tạo ra <a class="extiw" href="http://en.wikipedia.org/wiki/History_of_fantasy#Post-Tolkien" title="wikipedia:History of fantasy">một xu hướng mới</a> trong văn học. Anh ấy hài lòng với *The Return of the King*đã xuất bản, nhưng cảm thấy nó không đầy đủ nếu không có gì trên [Samwise](../S/Samwise_Gamgee.md) và [Elanor](../E/Elanor_Gardner.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 2]</a></sup>
+Tolkien kể về việc xuất bản *[The Return of the King](../T/The_Return_of_the_King.md)* vào [20 tháng 10](../_/20_October.md) và bài giảng của O'Donnell vào [21 tháng 10](../_/21_October.md). Tolkien rất hài lòng với sự đón nhận này, nhưng không nghĩ nó sẽ tạo ra <a class="extiw" href="http://en.wikipedia.org/wiki/History_of_fantasy#Post-Tolkien" title="wikipedia:History of fantasy">một xu hướng mới</a> trong văn học. Ông hài lòng với *The Return of the King* đã xuất bản, nhưng cảm thấy nó không đầy đủ nếu không có gì trên [Samwise](../S/Samwise_Gamgee.md) và [Elanor](../E/Elanor_Gardner.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 2]</a></sup>
 
 ## Ghi chú {#Notes}
 

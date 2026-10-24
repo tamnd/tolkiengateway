@@ -37,9 +37,9 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mirkwood_A_Novel_About_JRR_Tolkien.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/c/c8/Mirkwood_A_Novel_About_JRR_Tolkien.jpg/315px-Mirkwood_A_Novel_About_JRR_Tolkien.jpg" decoding="async" loading="lazy" width="315" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/c/c8/Mirkwood_A_Novel_About_JRR_Tolkien.jpg 1.5x" data-file-width="328" data-file-height="500"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mirkwood: A Novel About JRR Tolkien</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data">Steve Hillard</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">BookSurge Publishing</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/18_January.md" title="18 January">January 18</a>, <a href="../_/2010.md" title="2010">2010</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">460</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/978-0615312545" title="Special:BookSources/978-0615312545">978-0615312545</a></td></tr></tbody></table>
 
-<i><b>Mirkwood: Tiểu thuyết về JRR Tolkien</b></i> của Steven Hillard mang đến một miêu tả hư cấu về [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
+<i><b>Mirkwood: A Novel About JRR Tolkien</b></i> của Steven Hillard mang đến một chân dung hư cấu về [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
-Vào tháng 2 năm 2011, *Guardian* báo cáo rằng [Tolkien Estate](../T/Tolkien_Estate.md) đang yêu cầu tiêu hủy tất cả các bản sao của cuốn tiểu thuyết và ngừng ngay việc bán thêm, nói rằng Hillard "*đã coi nhẹ tên tuổi, nhân cách và danh tiếng của cố giáo sư*".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Vào tháng 2 năm 2011, *Guardian* đã báo cáo rằng [Di sản Tolkien](../T/Tolkien_Estate.md) đang yêu cầu tiêu hủy tất cả các bản sao của cuốn tiểu thuyết và ngừng ngay việc bán thêm, nói rằng Hillard "*đã coi thường tên tuổi, tính cách và danh tiếng của cố giáo sư*".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nhà xuất bản {#From_the_publisher}
 
@@ -50,7 +50,7 @@ Vào tháng 2 năm 2011, *Guardian* báo cáo rằng [Tolkien Estate](../T/Tolki
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://www.tolkienlibrary.com/press/970-Mirkwood_Novel_About_JRR_Tolkien.php" rel="noreferrer noopener" target="_blank">Thảo luận về <i>Mirkwood: Tiểu thuyết về JRR Tolkien</i></a> tại Thư viện <a class="external text" href="http://www.tolkienlibrary.com/index.php" rel="noreferrer noopener" target="_blank"><i>Tolkien</i></a>
+- <a class="external text" href="http://www.tolkienlibrary.com/press/970-Mirkwood_Novel_About_JRR_Tolkien.php" rel="noreferrer noopener" target="_blank">Thảo luận về <i>Mirkwood: Tiểu thuyết về JRR Tolkien</i></a> tại <a class="external text" href="http://www.tolkienlibrary.com/index.php" rel="noreferrer noopener" target="_blank"><i>Thư viện Tolkien</i></a>
 
 <span></span>
 

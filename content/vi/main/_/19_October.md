@@ -70,16 +70,16 @@ Sự kiện xảy ra vào ngày 19 tháng 10
 - **[2005](2005.md)** - *[The Lord of the Rings Sketchbook](../T/The_Lord_of_the_Rings_Sketchbook.md)* được xuất bản.
 - **[2010](2010.md)** - *[The Dragon's Apprentice](../T/The_Dragon's_Apprentice.md)* được xuất bản.
 - **[2011](2011.md)** - Anh [Joseph Power](../J/Joseph_Power.md) qua đời.
-- **[2016](2016.md)** - Ấn phẩm truy tặng, *[Beren and Lúthien](../B/Beren_and_Lúthien.md)*, do [Christopher Tolkien](../C/Christopher_Tolkien.md)biên tập, được công bố xuất bản vào [4 tháng 5](4_May.md) [2017](2017.md).
+- **[2016](2016.md)** - Ấn phẩm để lại, *[Beren and Lúthien](../B/Beren_and_Lúthien.md)*, do [Christopher Tolkien](../C/Christopher_Tolkien.md) biên tập, được công bố xuất bản vào [4 tháng 5](4_May.md) [2017](2017.md).
 
 ## Trong Arda {#In_Arda}
 
 - [F.A.](../F/First_Age.md) [495](../F/First_Age_495.md):
-    - [Tuor](../T/Tuor.md), được hướng dẫn bởi [Voronwë](../V/Voronwë.md), di chuyển đến [Gondolin](../G/Gondolin.md) để chuyển thông điệp của [Ulmo](../U/Ulmo.md)tới [Turgon](../T/Turgon.md).
+    - [Tuor](../T/Tuor.md), được hướng dẫn bởi [Voronwë](../V/Voronwë.md), đi đến [Gondolin](../G/Gondolin.md) để chuyển thông điệp của [Ulmo](../U/Ulmo.md) tới [Turgon](../T/Turgon.md).
 - [T.A.](../T/Third_Age.md) [2941](../T/Third_Age_2941.md):
     - [Ngày Durin](../D/Durin's_Day.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Glorfindel](../G/Glorfindel.md) vội vã [Strider](../A/Aragorn.md) và [bốn hobbit](../T/Travellers.md) đi theo và họ tiến một khoảng cách rất xa về phía [Ford of Bruinen](../F/Ford_of_Bruinen.md).
+    - [Glorfindel](../G/Glorfindel.md) vội vã [Strider](../A/Aragorn.md) và [bốn hobbit](../T/Travellers.md) đi theo và họ đi một khoảng cách rất xa về phía [Cạnh cạn Bruinen](../F/Ford_of_Bruinen.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.
     - Quý trước<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 

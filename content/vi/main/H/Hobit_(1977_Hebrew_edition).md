@@ -18,7 +18,7 @@ categories:
 
 Một bản sao của cuốn sách đã được chuyển từ Hoa Kỳ qua Hội chữ thập đỏ tới Pir (bởi anh trai ông), người vô cùng thích thú với câu chuyện về một "sinh vật kỳ lạ và đáng yêu, người yêu hòa bình và cuộc sống tốt đẹp, người bị cuốn vào những cuộc phiêu lưu dựng tóc gáy trong một cuộc chiến vì một thế giới hòa bình hơn, xanh hơn." Tuy nhiên, Pir nhận thấy rằng nhiều bạn tù của anh không có đủ trình độ tiếng Anh để chia sẻ niềm vui của anh, ngay cả sau khi họ đã dịch một số đoạn khó hơn.<sup id="cite_ref-:0_1-1" class="reference"><a href="#cite_note-:0-1">[1]</a></sup>
 
-Sau đó, bốn phi công bắt tay vào việc đọc chính tả cuốn sách (bằng tiếng Anh, sau đó bằng tiếng Hebrew) rồi viết ra giấy và chỉnh sửa lại cho phù hợp với cuốn sách. Họ đã tham khảo ý kiến ​​của các tù nhân khác về việc dịch các bài thơ. Trong vòng bốn tháng, họ đã dịch xong toàn bộ cuốn sách và giữ trong bảy cuốn sổ tay khi phát hành vào năm 1973. Một bản dịch tiếng Hebrew chuyên nghiệp đã được bắt đầu và được xuất bản trước bản dịch của họ một năm vào năm 1977.<sup id="cite_ref-:0_1-2" class="reference"><a href="#cite_note-:0-1">[1]</a></sup> <span></span>
+Sau đó, bốn phi công bắt tay vào việc viết cuốn sách (bằng tiếng Anh, sau đó bằng tiếng Do Thái) rồi viết nó ra giấy và chỉnh sửa lại cho phù hợp với cuốn sách. Họ đã tham khảo ý kiến ​​của các tù nhân khác về việc dịch các bài thơ. Trong vòng bốn tháng, họ đã dịch xong toàn bộ cuốn sách và giữ trong bảy cuốn sổ tay khi phát hành vào năm 1973. Một bản dịch tiếng Do Thái chuyên nghiệp đã được bắt đầu và được xuất bản trước bản dịch của họ một năm vào năm 1977.<sup id="cite_ref-:0_1-2" class="reference"><a href="#cite_note-:0-1">[1]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

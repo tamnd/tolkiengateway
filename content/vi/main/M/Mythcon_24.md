@@ -32,7 +32,7 @@ infobox:
 
 **Mythcon 24** là hội nghị [Hiệp hội thần thoại](Mythopoeic_Society.md) thường niên lần thứ 24.
 
-- **Chủ đề:** "Xuống hố Hobbit& Qua tủ quần áo: Huyền ảo trong văn học thiếu nhi"
+- **Chủ đề:** "Xuống hố Hobbit & Xuyên qua tủ quần áo: Huyền ảo trong văn học thiếu nhi"
 - **Khách mời danh dự:** Carol Kendall (tác giả truyện giả tưởng) và Jane Yolen (học giả và tác giả truyện giả tưởng)
 - **Chủ tịch:** David Lenander
 

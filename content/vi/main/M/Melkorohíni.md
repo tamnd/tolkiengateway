@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Orcs"
 ---
 
-Chuyển hướng đến [Orc](../O/Orcs.md).
+Chuyển hướng tới [Orc](../O/Orcs.md).

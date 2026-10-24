@@ -15,7 +15,7 @@ sort_keys:
   "Quenya adverbs": "Ta"
 ---
 
-**tá** là trạng từ [Quenya](../Q/Quenya.md) có nghĩa là "thì".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**tá** là trạng từ [Quenya](../Q/Quenya.md) có nghĩa là "rồi".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

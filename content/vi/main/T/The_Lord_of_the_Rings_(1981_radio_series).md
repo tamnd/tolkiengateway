@@ -35,7 +35,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/H/Hordern,_LeMesurier,_Holm_1981_lotr.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/0/01/Hordern%2C_LeMesurier%2C_Holm_1981_lotr.jpg/320px-Hordern%2C_LeMesurier%2C_Holm_1981_lotr.jpg" decoding="async" loading="lazy" width="320" height="212" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/01/Hordern%2C_LeMesurier%2C_Holm_1981_lotr.jpg/480px-Hordern%2C_LeMesurier%2C_Holm_1981_lotr.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/0/01/Hordern%2C_LeMesurier%2C_Holm_1981_lotr.jpg/640px-Hordern%2C_LeMesurier%2C_Holm_1981_lotr.jpg 2x" data-file-width="900" data-file-height="596"/></a><figcaption><a href="../M/Michael_Hordern.md" title="Michael Hordern">Michael Hordern</a>, <a href="../J/John_Le_Mesurier.md" title="John Le Mesurier">John Le Mesurier</a> and <a href="../I/Ian_Holm.md" title="Ian Holm">Ian Holm</a>, as <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a>, <a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo</a> and <a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo</a>.</figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Lord of the Rings</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Original Airing: <a href="../_/8_March.md" title="8 March">8 March</a> – <a href="../_/30_August.md" title="30 August">30 August</a> <a href="../_/1981.md" title="1981">1981</a><br/>Audio CD: <a href="../_/1_December.md" title="1 December">1 December</a>, <a href="../_/1999.md" title="1999">1999</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Radio broadcast</td></tr><tr><th scope="row" class="tg-infobox-label">Running time</th><td class="tg-infobox-data">13 hours</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/978-0553456530" title="Special:BookSources/978-0553456530">978-0553456530</a></td></tr></tbody></table>
 
-Năm 1981, Đài BBC 4 đã phát sóng vở kịch <i><b><a href="The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></b></i> của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) thành 26 phần âm thanh nổi dài nửa giờ.
+Năm 1981, Đài BBC 4 đã phát sóng vở kịch <i><b><a href="The_Lord_of_the_Rings.md" title="The Lord of the Rings">Chúa tể của những chiếc nhẫn</a></b></i> của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) trong 26 phần âm thanh nổi dài nửa giờ.
 
 Nó tiếp nối [phiên bản 12 phần của Đài BBC](<The_Lord_of_the_Rings_(1955_radio_series).md>) trước đó từ năm 1955 và 1956, trong đó không có bản ghi âm nào được cho là còn tồn tại.
 
@@ -52,47 +52,47 @@ Một album nhạc phim bao gồm một bộ nhạc của [Stephen Oliver](../S/
 ### Phát sóng năm 1981 {#1981_broadcast}
 
 1. "Bữa tiệc được chờ đợi từ lâu", [Ngày 8 tháng 3](../_/8_March.md)
-2. " Bóng Tối Của Quá Khứ", [15 tháng 3](../_/15_March.md)
-3. "Ngày Kỵ sĩ Đen", [22 tháng 3](../_/22_March.md)
-4. "Sự cố tại The Prancing Pony", [29 tháng 3](../_/29_March.md)
+2. "Cái bóng của quá khứ", [15 tháng 3](../_/15_March.md)
+3. "Những Kỵ Sĩ Đen", [22 tháng 3](../_/22_March.md)
+4. "Rắc rối ở chú ngựa chồm", [29 tháng 3](../_/29_March.md)
 5. "Con dao trong bóng tối", [Ngày 5 tháng 4](../_/5_April.md)
-6. "Ngày Hội đồng của Elrond", [Ngày 12 tháng 4](../_/12_April.md)
+6. "Hội đồng Elrond", [Ngày 12 tháng 4](../_/12_April.md)
 7. "The Fellowship Of The Ring", [Ngày 19 tháng 4](../_/19_April.md)
-8. "Mỏ của Moria", [26 tháng 4](../_/26_April.md)
+8. "The Mines Of Moria", [26 tháng 4](../_/26_April.md)
 9. "Tấm gương của Galadriel", [Ngày 3 tháng 5](../_/3_May.md)
-10. "Sự tan vỡ tình bạn", [Ngày 10 tháng 5](../_/10_May.md)
-11. "Những tay đua của Rohan", [17 tháng 5](../_/17_May.md)
-12. "Treebeard Của Fangorn", "[24 tháng 5](../_/24_May.md)
-13. "The Vua Của Sảnh Vàng", [Ngày 31 tháng 5](../_/31_May.md)
+10. "Sự tan rã của tình bạn", [Ngày 10 tháng 5](../_/10_May.md)
+11. "Những kỵ sĩ của Rohan", [17 tháng 5](../_/17_May.md)
+12. "Treebeard Of Fangorn", "[Ngày 24 tháng 5](../_/24_May.md)
+13. "Vua Hoàng Cung", [Ngày 31 tháng 5](../_/31_May.md)
 14. "Helm's Deep", [Ngày 7 tháng 6](../_/7_June.md)
 15. "The Voice Of Saruman", [Ngày 14 tháng 6](../_/14_June.md)
-16. " Cổng Đen đã đóng cửa", [Ngày 21 tháng 6](../_/21_June.md)
-17. "Cửa sổ trên Phương Tây", [28 tháng 6](../_/28_June.md)
+16. "Cổng đen đã đóng", [Ngày 21 tháng 6](../_/21_June.md)
+17. "Cửa Sổ Phía Tây", [28/06](../_/28_June.md)
 18. "Minas Tirith", [Ngày 5 tháng 7](../_/5_July.md)
-19. "Hang ổ của Shelob", [Ngày 12 tháng 7](../_/12_July.md)
+19. "Shelob's Lair", [Ngày 12 tháng 7](../_/12_July.md)
 20. "Cuộc vây hãm Gondor", [19 tháng 7](../_/19_July.md)
-21. "Trận chiến cánh đồng Pelennor", [26 tháng 7](../_/26_July.md)
+21. "Trận chiến trên cánh đồng Pelennor", [26 tháng 7](../_/26_July.md)
 22. "Những ngôi nhà chữa lành", [Ngày 2 tháng 8](../_/2_August.md)
-23. "Núi Doom", [Ngày 9 tháng 8](../_/9_August.md)
-24. "Sự trở lại của Vua", [16 tháng 8](../_/16_August.md)
+23. "Mount Doom", [Ngày 9 tháng 8](../_/9_August.md)
+24. "Sự trở lại của nhà vua", [16 tháng 8](../_/16_August.md)
 25. "Homeward Bound", [23 tháng 8](../_/23_August.md)
-26. "Ngày Cảng Xám", [Ngày 30 tháng 8](../_/30_August.md)
+26. "The Grey Havens", [30 tháng 8](../_/30_August.md)
 
 ### phát sóng năm 1982 {#1982_broadcast}
 
-1. "The Bóng Tối Của Quá Khứ", [17 tháng 7](../_/17_July.md)
-2. "Ngày Kỵ sĩ Đen", [24 tháng 7](../_/24_July.md)
+1. "Cái bóng của quá khứ", [17 tháng 7](../_/17_July.md)
+2. "Những Kỵ Sĩ Đen", [24 tháng 7](../_/24_July.md)
 3. "Con dao trong bóng tối", [31 tháng 7](../_/31_July.md)
 4. "The Ring Goes South", [Ngày 7 tháng 8](../_/7_August.md)
-5. "Tấm gương Galadriel", [14 tháng 8](../_/14_August.md)
+5. "Tấm gương của Galadriel", [14 tháng 8](../_/14_August.md)
 6. "Sự tan vỡ tình bạn", [21 tháng 8](../_/21_August.md)
-7. "The Vua Của Sảnh Vàng", [28 tháng 8](../_/28_August.md)
-8. "Tiếng Nói Của Saruman", [tháng Chín 4](../_/4_September.md)
-9. "The Two Towers", [tháng Chín 11](../_/11_September.md)
-10. "Sự lựa chọn của bậc thầy Samwise", [tháng Chín 18](../_/18_September.md)
-11. "Trận chiến cánh đồng Pelennor", [tháng Chín 25](../_/25_September.md)
-12. "Núi Doom", [Ngày 2 tháng 10](../_/2_October.md)
-13. "Ngày Cảng Xám", [Ngày 9 tháng 10](../_/9_October.md)
+7. "Vua Hoàng Kim", [28/08](../_/28_August.md)
+8. "The Voice Of Saruman", [Ngày 4 tháng 9](../_/4_September.md)
+9. "Hai tòa tháp", [Ngày 11 tháng 9](../_/11_September.md)
+10. "Những lựa chọn của bậc thầy Samwise", [18 tháng 9](../_/18_September.md)
+11. "Trận chiến trên cánh đồng Pelennor", [25 tháng 9](../_/25_September.md)
+12. "Mount Doom", [Ngày 2 tháng 10](../_/2_October.md)
+13. "The Grey Havens", [Ngày 9 tháng 10](../_/9_October.md)
 
 ## Sự khác biệt so với cuốn sách {#Differences_from_the_book}
 
@@ -100,32 +100,32 @@ Một album nhạc phim bao gồm một bộ nhạc của [Stephen Oliver](../S/
 
 Kịch bản của [Brian Sibley](../B/Brian_Sibley.md) và [Michael Bakewell](../M/Michael_Bakewell.md) đã cố gắng bám sát nguyên tác nhất có thể nhưng vẫn có một số lỗi và thay đổi. Chúng bao gồm:
 
-- Các cảnh được thêm vào ở phần đầu có cảnh tra tấn [Gollum](../G/Gollum.md) ở [Barad-Dur](../B/Barad-dûr.md) và phỏng theo trò chơi giải đố từ [The Hobbit](The_Hobbit.md).
+- Các cảnh được thêm vào ở phần đầu kể về cuộc tra tấn của [Gollum](../G/Gollum.md) ở [Barad-Dur](../B/Barad-dûr.md) và phỏng theo trò chơi giải đố từ [The Hobbit](The_Hobbit.md).
 - Người thợ xay cũ [Sandyman](../S/Sandyman.md) bị lược bỏ những lời thoại được truyền cho con trai ông.
 - [Fredegar Bolger](../F/Fredegar_Bolger.md) hoàn toàn bị bỏ qua
-Việc - Gandalf bị giam giữ tại [Isengard](../I/Isengard.md), trốn thoát qua [Gwaihir](../G/Gwaihir.md) và chuyến thăm [Edoras](../E/Edoras.md) của anh ta được đưa vào câu chuyện thay vì liên quan đến [Hội đồng Elrond](../C/Council_of_Elrond.md).
-- Chuyến thăm của [Nazgûl](../N/Nazgûl.md) tới Isengard để tìm kiếm thông tin về Shire và cuộc gặp gỡ của họ với [Gríma](../G/Gríma.md) được phỏng theo [Unfinished Tales](../U/Unfinished_Tales.md).
+- Việc Gandalf bị giam cầm tại [Isengard](../I/Isengard.md), trốn thoát qua [Gwaihir](../G/Gwaihir.md) và chuyến thăm [Edoras](../E/Edoras.md) của ông được đưa vào câu chuyện thay vì liên quan đến [Hội đồng Elrond](../C/Council_of_Elrond.md).
+- Chuyến thăm của [Nazgûl](../N/Nazgûl.md) tới Isengard để tìm kiếm thông tin về Quận và cuộc gặp gỡ của họ với [Gríma](../G/Gríma.md) được phỏng theo [Unfinished Tales](../U/Unfinished_Tales.md).
 - [Gildor Inglorion](../G/Gildor.md) không xuất hiện trong câu chuyện.
-- Sê-ri radio bỏ qua trình tự trong cuốn sách mà người hobbit ghé thăm với [Tom Bombadil](Tom_Bombadil.md). Tuy nhiên, khi làm như vậy, Hobbit không bao giờ được hiển thị để nhận [thanh kiếm](../B/Barrow-blade.md) của họ từ [Barrow-downs](../B/Barrow-downs.md), thanh kiếm này được yểm bùa bằng những phép thuật chống lại [Chúa tể của Nazgûl](../W/Witch-king.md). Điều này để lại những đề cập sau này về việc Frodo có một thanh kiếm trước [Sting](../S/Sting.md) và những thanh kiếm của Hobbit kia đến từ đâu mà không giải thích được. Sibley thừa nhận điều này sau đó, khi Merry đâm anh ta trong [Trận chiến trên Cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md). Thay vì yếu đi như trong sách, anh ta chỉ nói Merry đốt như một con muỗi. Tuy nhiên Miệng của Sauron vẫn mô tả lưỡi kiếm của Sam là "Thanh kiếm của sự sụp đổ Phương Tây".
-Ngoại hình của - [Gloin](../G/Glóin.md) tại Rivendell bị cắt.
-- Mọi đề cập đến [Dáin Chân Sắt](../D/Dáin_Ironfoot.md) đều bị bỏ qua và [Gimli](../G/Gimli.md) nói rằng cha anh Gloin là người đã gặp người đưa tin Sauron.
-- [Tai Họa của Durin](../D/Durin's_Bane.md) bị ghi nhầm là "người hầu của Sauron"
-- [Morgoth](../M/Morgoth.md) được gọi bằng tên ban đầu Melkor một cách kỳ lạ khi [Legolas](../L/Legolas.md) đang thảo luận về nguồn gốc của Orc và khi Gandalf đề cập đến Tai Họa của Durin là "Đẻ ra của Melkor".
-Cái chết thể xác của - [Gandalf](../G/Gandalf.md) bị lược bỏ khỏi câu chuyện của anh ta về trận chiến với Tai Họa của Durin mà không đề cập đến việc anh ta được "đưa trở lại", với kịch bản ngụ ý rằng anh ta chỉ bị thương. Dù sau này khi đối đầu với Saruman, Gandalf khẳng định mình đã trở về từ cõi chết.
+- Sê-ri radio bỏ qua trình tự trong cuốn sách trong đó người Hobbit đến thăm [Tom Bombadil](Tom_Bombadil.md). Tuy nhiên, khi làm như vậy, người Hobbit không bao giờ nhận được [thanh kiếm](../B/Barrow-blade.md) của họ từ [Barrow-downs](../B/Barrow-downs.md), vốn bị phù phép bởi những phép thuật chống lại [Chúa tể của Nazgûl](../W/Witch-king.md). Điều này để lại những đề cập sau này về việc Frodo có một thanh kiếm trước [Sting](../S/Sting.md) và những thanh kiếm của những người Hobbit khác đến từ đâu mà không giải thích được. Sibley thừa nhận điều này sau đó, khi Merry đâm ông ta trong [Trận chiến trên cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md). Thay vì yếu đi như trong sách, ông ta chỉ nói rằng Merry đốt như một con muỗi. Tuy nhiên, Mouth of Sauron vẫn mô tả thanh kiếm của Sam là "Thanh kiếm của miền Tây sa ngã".
+- [Gloin](../G/Glóin.md) xuất hiện tại Rivendell bị cắt.
+- Bất kỳ đề cập nào đến [Dáin Ironfoot](../D/Dáin_Ironfoot.md) đều bị lược bỏ và [Gimli](../G/Gimli.md) nói rằng cha ông ta Gloin là người đã gặp sứ giả của Sauron.
+- [Tai ương của Durin](../D/Durin's_Bane.md) bị nhầm là "người hầu của Sauron"
+- [Morgoth](../M/Morgoth.md) được gọi bằng tên ban đầu là Melkor một cách kỳ lạ khi [Legolas](../L/Legolas.md) đang thảo luận về nguồn gốc của tộc Orc và khi Gandalf gọi Tai ương của Durin là "Đứa con của Melkor".
+- [Cái chết thể xác của Gandalf](../G/Gandalf.md) bị lược bỏ khỏi câu chuyện của ông ta về trận chiến với Durin's Bane mà không đề cập đến việc ông ta được "đưa trở lại", với kịch bản ngụ ý rằng ông ta chỉ bị thương. Mặc dù sau này khi đối đầu với Saruman, Gandalf khẳng định ông ta đã trở về từ cái chết.
 - [Quickbeam](../Q/Quickbeam.md) Ent không xuất hiện trong câu chuyện.
 
-- Tại một thời điểm khi Gandalf liệt kê các vị trí của [Palantíri](../P/Palantíri.md), [Minas Anor](../M/Minas_Anor.md) và [Minas Tirith](../M/Minas_Tirith.md) được gọi như thể chúng là các thành phố riêng biệt; đây chỉ là những tên thay thế cho cùng một thành phố. Sau này Gandalf gọi chính xác Palantír của Minas Tirith là "Hòn đá Anor".
-- [Beregond](../B/Beregond.md) vai trò của anh ấy trong cuốn sách bị cắt hoàn toàn và chỉ xuất hiện với tư cách là người đưa tin ẩn danh mang tin tức về trận chiến đến [Denethor](../D/Denethor.md).
-- Thân vương [Imrahil](../I/Imrahil.md) không xuất hiện trong câu chuyện.
-- Một phần của phân cảnh [Trận chiến cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md) được mô tả trong bài hát bởi một ca sĩ theo phong cách opera chứ không phải diễn xuất, điều này có thể khiến một số người nghe xa rời hành động. Những người khác có thể thấy thú vị về mối quan hệ giữa trình tự và phong cách kể chuyện của Eddic.
+- Tại một thời điểm khi Gandalf liệt kê các vị trí của [Palantíri](../P/Palantíri.md), [Minas Anor](../M/Minas_Anor.md) và [Minas Tirith](../M/Minas_Tirith.md) được coi như thể chúng là những thành phố riêng biệt; đây chỉ là những tên thay thế cho cùng một thành phố. Sau này Gandalf gọi chính xác Palantír của Minas Tirith là "Hòn đá Anor".
+- [Beregond](../B/Beregond.md) vai trò của ông ta trong cuốn sách bị cắt hoàn toàn và chỉ xuất hiện với tư cách là người đưa tin ẩn danh mang tin tức về trận chiến đến [Denethor](../D/Denethor.md).
+- Hoàng tử [Imrahil](../I/Imrahil.md) không xuất hiện trong câu chuyện.
+- Một phần của phân cảnh [Trận chiến trên cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md) được một ca sĩ theo phong cách opera mô tả trong bài hát chứ không phải diễn xuất, điều này có thể khiến một số người nghe xa rời hành động. Những người khác có thể thấy thú vị về mối quan hệ giữa trình tự và phong cách kể chuyện của Eddic.
 
-- Cuộc hành trình xuyên qua [Rừng Drúadan](../D/Drúadan_Forest.md) và liên minh sau đó với những người đàn ông hoang dã của [Ghân-buri-Ghân](../G/Ghân-buri-Ghân.md), hay còn gọi là "woses" bị loại khỏi bộ phim truyền hình.
-- Hành trình của đoàn quân từ Minas Tirith đến Morannon bị cắt bao gồm việc trùng tu tượng ở ngã tư và sự ra đi của những người yếu tim
-- Phần [Trận Morannon](../B/Battle_of_the_Morannon.md) gần như bị cắt hoàn toàn, bao gồm cả Pippin tiêu diệt một con troll.
-- [Galadriel](../G/Galadriel.md) và Celeborn không dự đám cưới của Aragorn và Arwen
-Chuyến thăm - Legolas và Gimli tới [Hang động lấp lánh](../G/Glittering_Caves.md) bị bỏ qua
-- Cuộc chạm trán với Saruman và Wormtongue trên đường quay lại Rivendell bị bỏ qua.
-- [Khả năng Thanh trừng của Shire](The_Scouring_of_the_Shire.md) được giảm đáng kể. Hành trình từ [Cầu Brandywine](../B/Brandywine_Bridge.md) đến Hobbiton bị bỏ qua và Cảnh sát trưởng bị cắt. Các phân đoạn Hobbiton và Bywater được kết hợp nên [Trận Bywater](../B/Battle_of_Bywater.md) diễn ra trong Hobbiton.
+- Cuộc hành trình xuyên qua [Rừng Drúadan](../D/Drúadan_Forest.md) và liên minh sau đó với những người đàn ông hoang dã của [Ghân-buri-Ghân](../G/Ghân-buri-Ghân.md), hay còn gọi là "woses" bị xóa khỏi bộ phim truyền hình.
+- Hành trình của đoàn quân từ Minas Tirith đến Morannon bị cắt bao gồm việc trùng tu bức tượng ở ngã tư và sự ra đi của những người yếu tim
+- [Trận chiến Morannon](../B/Battle_of_the_Morannon.md) gần như bị cắt hoàn toàn, bao gồm cả cảnh Pippin tiêu diệt một con quỷ lùn.
+- [Galadriel](../G/Galadriel.md) và Celeborn không tham dự đám cưới của Aragorn và Arwen
+- Chuyến thăm [Hang động lấp lánh](../G/Glittering_Caves.md) của Legolas và Gimli bị bỏ qua
+- Cuộc chạm trán với Saruman và Wormtongue trên đường trở về Rivendell bị bỏ qua.
+- [Tranh quét Quận](The_Scouring_of_the_Shire.md) bị cắt giảm đáng kể. Hành trình từ [Cầu Brandywine](../B/Brandywine_Bridge.md) đến Hobbiton bị bỏ qua và Cảnh sát trưởng bị cắt. Các phân đoạn Hobbiton và Bywater được gộp lại nên [Trận chiến Bywater](../B/Battle_of_Bywater.md) diễn ra ở Hobbiton.
 - [Círdan](../C/Círdan.md) bị bỏ qua
 
 ## Truyền {#Cast}
@@ -372,7 +372,7 @@ Chuyến thăm - Legolas và Gimli tới [Hang động lấp lánh](../G/Glitter
 
 Năm 2002, trùng với thời điểm phát hành bộ [*The Lord of the Rings* (loạt phim)](<The_Lord_of_the_Rings_(film_series).md>) của Peter Jackson, BBC đã phát hành lại bộ truyện này thành ba bộ tương ứng với ba tập gốc (*[The Fellowship of the Ring](The_Fellowship_of_the_Ring.md)*, *[The Two Towers](The_Two_Towers.md)* và *[The Return of the King](The_Return_of_the_King.md)*).
 
-Phiên bản này đã bỏ qua việc phân chia các tập ban đầu và bao gồm lời tường thuật mở đầu và kết thúc mới cho hai tập đầu tiên và chỉ tường thuật mở đầu cho phần cuối cùng, được ghi lại bởi Ian Holm với tư cách là Frodo Baggins - Frodo lời tường thuật của ông đề cập đến những nỗ lực của ông trong việc viết tài khoản lịch sử của mình về Cuộc chiến Nhẫn trong [Sách Đỏ](../R/Red_Book.md), cũng như những suy ngẫm và suy ngẫm của cá nhân ông về các sự kiện của câu chuyện.
+Phiên bản này đã bỏ qua việc phân chia các tập ban đầu và bao gồm phần tường thuật mở đầu và kết thúc mới cho hai tập đầu tiên và phần tường thuật mở đầu chỉ cho phần cuối cùng, được ghi lại bởi Ian Holm với nhân vật là Frodo Baggins - Lời tường thuật của Frodo đề cập đến những nỗ lực của anh trong việc viết tường thuật lịch sử của mình về Cuộc chiến trên chiếc nhẫn trong [Sách Đỏ](../R/Red_Book.md), cũng như những suy ngẫm và suy ngẫm của cá nhân anh về các sự kiện trong câu chuyện.
 
 Phiên bản chỉnh sửa lại cũng bao gồm một số tín hiệu âm nhạc bổ sung, phải được lấy từ album nhạc phim vì băng gốc gốc của loạt nhạc đã bị thất lạc.
 
@@ -382,6 +382,6 @@ Bộ phim dài 13 tập cũng được phát lại trên Radio 4 vào năm 2002.
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="extiw" href="http://en.wikipedia.org/wiki/The_Lord_of_the_Rings_(1981_radio_series)" title="wikipedia:The Lord of the Rings (1981 radio series)">The Lord of the Rings (loạt phim phát thanh năm 1981)</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
-- <a class="external text" href="http://briansibleytheworks.blogspot.com.br/2008/01/this-page-is-still-under-construction_23.html" rel="noreferrer noopener" target="_blank">Quá trình tạo ra đài phát thanh BBC <i>The Lord of the Rings</i></a> của Brian Sibley
-- <a class="external text" href="http://wayneandchristina.wordpress.com/2015/02/27/i-didnt-know-what-i-was-getting-into/" rel="noreferrer noopener" target="_blank">Tôi Không Biết Mình Đang Làm Gì</a> bởi [Christina Scull](../C/Christina_Scull.md)
+- <a class="extiw" href="http://en.wikipedia.org/wiki/The_Lord_of_the_Rings_(1981_radio_series)" title="wikipedia:The Lord of the Rings (1981 radio series)">Chúa tể của những chiếc nhẫn (loạt phim phát thanh năm 1981)</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
+- <a class="external text" href="http://briansibleytheworks.blogspot.com.br/2008/01/this-page-is-still-under-construction_23.html" rel="noreferrer noopener" target="_blank">Quá trình tạo ra <i>Chúa tể của những chiếc nhẫn</i></a> của Đài BBC của Brian Sibley
+- <a class="external text" href="http://wayneandchristina.wordpress.com/2015/02/27/i-didnt-know-what-i-was-getting-into/" rel="noreferrer noopener" target="_blank">Tôi Không Biết Mình Đang Làm Gì</a> của [Christina Scull](../C/Christina_Scull.md)

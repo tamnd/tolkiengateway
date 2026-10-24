@@ -29,8 +29,8 @@ images:
 
 **Gothmog** có thể đề cập đến:
 
-- [Gothmog](<Gothmog_(balrog).md>), Chúa tể của [Balrog](../B/Balrogs.md) đã bị giết bởi [Ecthelion của Đài phun nước](../E/Ecthelion.md) trong [Sự sụp đổ của Gondolin](../F/Fall_of_Gondolin.md).
-- [Gothmog](<Gothmog_(Lieutenant_of_Morgul).md>), Trung úy của Morgul và là chỉ huy thứ hai của [Vua Phù thủy](../W/Witch-king.md) của [Angmar](../A/Angmar.md), một nhân vật trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.
+- [Gothmog](<Gothmog_(balrog).md>), Lãnh chúa của [Balrogs](../B/Balrogs.md) đã bị giết bởi [Ecthelion of the Fountain](../E/Ecthelion.md) trong [Sự sụp đổ của Gondolin](../F/Fall_of_Gondolin.md).
+- [Gothmog](<Gothmog_(Lieutenant_of_Morgul).md>), Trung úy của Morgul và là cấp phó của [Vua phù thủy](../W/Witch-king.md) của [Angmar](../A/Angmar.md), một nhân vật trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.
 
 <hr style="margin-top:15px;"/>
 

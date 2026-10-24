@@ -19,7 +19,7 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/H/Hans-Jörg_Modlmayr_7_December_1967_poscript.png.md"><img src="https://tolkiengateway.net/w/images/thumb/e/ef/Hans-J%C3%B6rg_Modlmayr_7_December_1967_poscript.png/300px-Hans-J%C3%B6rg_Modlmayr_7_December_1967_poscript.png" decoding="async" loading="lazy" width="300" height="204" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/e/ef/Hans-J%C3%B6rg_Modlmayr_7_December_1967_poscript.png 1.5x" data-file-width="438" data-file-height="298"/></a><figcaption>Postscript</figcaption></figure>
 
-Vào [7 tháng 12](../_/7_December.md) [1967](../_/1967.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho [Hans-Jörg Modlmayr](../H/Hans-Jörg_Modlmayr.md)**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Vào [ngày 7 tháng 12](../_/7_December.md) [1967](../_/1967.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) gửi [Hans-Jörg Modlmayr](../H/Hans-Jörg_Modlmayr.md)**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 - **Chủ đề:** Sách thiếu nhi.
 - **Ấn bản:** Trích dẫn bức thư xuất hiện trong danh mục đấu giá *[J.A. Stargardt Katalog 698](../J/J.A._Stargardt_Katalog_698.md)*.
@@ -35,7 +35,7 @@ Vào [7 tháng 12](../_/7_December.md) [1967](../_/1967.md), [J.R.R. Tolkien](..
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://newboards.theonering.net/forum/gforum/perl/gforum.cgi?post=452405;sb=post_time;so=DESC;forum_view=forum_view_collapsed;guest=19262590" rel="noreferrer noopener" target="_blank">Tolkien - "Tôi chưa bao giờ là người yêu sách dành cho trẻ em.."</a> tại <a class="external text" href="http://newboards.theonering.net/forum/gforum/perl/gforum.cgi?guest=19262590" rel="noreferrer noopener" target="_blank">Chiếc nhẫn duy nhất Diễn đàn</a>
+- <a class="external text" href="http://newboards.theonering.net/forum/gforum/perl/gforum.cgi?post=452405;sb=post_time;so=DESC;forum_view=forum_view_collapsed;guest=19262590" rel="noreferrer noopener" target="_blank">Tolkien - "Tôi chưa bao giờ là người yêu thích sách dành cho trẻ em.."</a> tại <a class="external text" href="http://newboards.theonering.net/forum/gforum/perl/gforum.cgi?guest=19262590" rel="noreferrer noopener" target="_blank">Diễn đàn The One Ring</a>
 
 <span></span>
 

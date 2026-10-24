@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Robbins, Glyn"
 ---
 
-**Glyn Robbins** ([25 April](../_/25_April.md) [1940](../_/1940.md) - [2 January](../_/2_January.md) [2007](../_/2007.md)) was a British writer and actor. He wrote the screenplay for many stage adaptations of classic children’s books. His production of *[The Hobbit](<../T/The_Hobbit_(2001_stage_production).md>)* was played between 28 November 2001 to 9 February 2002 at the <a class="extiw" href="http://en.wikipedia.org/wiki/Queen%27s_Theatre" title="wikipedia:Queen&#39;s Theatre">Queen&#39;s Theatre</a> in London.
+**Glyn Robbins** ([25 tháng 4](../_/25_April.md) [1940](../_/1940.md) - [2 tháng 1](../_/2_January.md) [2007](../_/2007.md)) là một nhà văn và diễn viên người Anh. Ông đã viết kịch bản cho nhiều tác phẩm chuyển thể sân khấu từ sách thiếu nhi cổ điển. Vở kịch *[The Hobbit](<../T/The_Hobbit_(2001_stage_production).md>)* của ông được trình chiếu từ ngày 28 tháng 11 năm 2001 đến ngày 9 tháng 2 năm 2002 tại <a class="extiw" href="http://en.wikipedia.org/wiki/Queen%27s_Theatre" title="wikipedia:Queen&#39;s Theatre">Nhà hát Nữ hoàng</a> ở Luân Đôn.
 
 ## Liên kết ngoài {#External_links}
 

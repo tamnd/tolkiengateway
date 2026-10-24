@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Finding God in The Lord of the Rings"
 ---
 
-Chuyển hướng đến [Tìm Chúa trong The Lord of the Rings](Finding_God_in_The_Lord_of_the_Rings.md).
+Chuyển hướng đến [Tìm kiếm Chúa trong Chúa tể của những chiếc nhẫn](Finding_God_in_The_Lord_of_the_Rings.md).

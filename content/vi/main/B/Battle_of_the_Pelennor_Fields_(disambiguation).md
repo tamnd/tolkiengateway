@@ -14,15 +14,15 @@ images:
   - "Disambig.png"
 ---
 
-**Trận chiến trên Cánh đồng Pelennor** có thể tham khảo:
+**Trận chiến trên cánh đồng Pelennor** có thể tham khảo:
 
-## Trung Địa {#Middle-earth}
+## Trung địa {#Middle-earth}
 
-- **[Trận chiến trên Cánh đồng Pelennor](Battle_of_the_Pelennor_Fields.md)**, trận chiến vĩ đại nhất [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md).
+- **[Trận chiến trên cánh đồng Pelennor](Battle_of_the_Pelennor_Fields.md)**, trận chiến vĩ đại nhất trong [Cuộc chiến trên chiếc nhẫn](../W/War_of_the_Ring.md).
 
 ## Sách {#Books}
 
-- "[The Trận chiến trên Cánh đồng Pelennor](../T/The_Battle_of_the_Pelennor_Fields.md)", chương thứ sáu của cuốn thứ năm trong *[The Return of the King](../T/The_Return_of_the_King.md)*.
+- "[Trận chiến trên cánh đồng Pelennor](../T/The_Battle_of_the_Pelennor_Fields.md)", chương thứ sáu của cuốn thứ năm trong *[The Return of the King](../T/The_Return_of_the_King.md)*.
 
 ## Các bản chuyển thể {#Adaptations}
 

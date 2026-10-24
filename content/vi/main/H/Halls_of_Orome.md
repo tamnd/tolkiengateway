@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "House of Oromë"
 ---
 
-Chuyển hướng đến [Nhà Oromë](House_of_Oromë.md).
+Chuyển hướng tới [Nhà Oromë](House_of_Oromë.md).

@@ -24,7 +24,7 @@ sort_keys:
   "Servants of Melkor": "Gothrog"
 ---
 
-**Gothrog** là một [Quỷ](../_/Úmaiar.md) theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) trong *[The Etymologies](../T/The_Etymologies.md)* có từ [những năm 1930](../_/1930.md). Không có thông tin gì thêm về anh ta vì anh ta chỉ xuất hiện dưới dạng tên trong một mục từ vựng.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Gothrog** là một [Quỷ](../_/Úmaiar.md) theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) trong *[The Etymologies](../T/The_Etymologies.md)* có từ [những năm 1930](../_/1930.md). Không có thông tin gì thêm về ông ta vì ông ta chỉ xuất hiện dưới dạng tên trong một mục từ vựng.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Thậm chí còn không biết tên *Gothrog* đề cập đến một cá nhân riêng biệt hay là tên khác của một nhân vật đã tồn tại trước đó.
 

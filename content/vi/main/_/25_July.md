@@ -64,7 +64,7 @@ Sự kiện xảy ra vào ngày 25 tháng 7
 ## Trên Trái đất {#On_Earth}
 
 - **[1938](1938.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 29](../L/Letter_29.md).
-- **[1938](1938.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) gửi một [lá thư](../L/Letter_30.md) đầy giận dữ tới một nhà xuất bản ở Đức, sau khi được hỏi liệu anh ta có phải là <a class="extiw" href="http://en.wikipedia.org/wiki/Aryan" title="wikipedia:Aryan">Aryan</a> hay không.
+- **[1938](1938.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) gửi một [lá thư](../L/Letter_30.md) đầy giận dữ tới một nhà xuất bản ở Đức sau khi được hỏi liệu ông ta có phải là <a class="extiw" href="http://en.wikipedia.org/wiki/Aryan" title="wikipedia:Aryan">Aryan</a> hay không.
 - **[1979](1979.md)** - [Bryan Cogman](../B/Bryan_Cogman.md) ra đời.
 - **[1980](1980.md)** - [Mythcon 11](../M/Mythcon_11.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Nevada,_Reno" title="wikipedia:University of Nevada, Reno">Đại học Nevada</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Reno,_Nevada" title="wikipedia:Reno, Nevada">Reno</a>.
 - **[1987](1987.md)** - [Mythcon 18](../M/Mythcon_18.md) tại [Đại học Marquette](../M/Marquette_University.md), <a class="extiw" href="http://en.wikipedia.org/wiki/Milwaukee" title="wikipedia:Milwaukee">Milwaukee</a>.
@@ -72,13 +72,13 @@ Sự kiện xảy ra vào ngày 25 tháng 7
 - **[2002](2002.md)** - *[The Uncharted Realms of Tolkien](../T/The_Uncharted_Realms_of_Tolkien.md)* được xuất bản.
 - **[2003](2003.md)** - [Mythcon 34](../M/Mythcon_34.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Nashville,_Tennessee" title="wikipedia:Nashville, Tennessee">Nashville</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Tennessee" title="wikipedia:Tennessee">Tennessee</a>.
 - **[2005](2005.md)** - *[Tolkien's Mighty Pen](../T/Tolkien's_Mighty_Pen.md)* được xuất bản.
-- **[2009](2009.md)** - [Tolkien Điều](../T/Tolkien_Thing.md) 2009 ở <a class="extiw" href="http://en.wikipedia.org/wiki/Rieneck" title="wikipedia:Rieneck">Rieneck</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">Đức</a>.
-- **[2023](2023.md)** - [The Lord of the Rings (âm nhạc)](<../T/The_Lord_of_the_Rings_(musical).md>) khai mạc tại Nhà hát Watermill ở <a class="extiw" href="http://en.wikipedia.org/wiki/Newbury,_Berkshire" title="wikipedia:Newbury, Berkshire">Newbury</a>, Phương Tây Berkshire.
+- **[2009](2009.md)** - [Tolkien Thing](../T/Tolkien_Thing.md) 2009 tại <a class="extiw" href="http://en.wikipedia.org/wiki/Rieneck" title="wikipedia:Rieneck">Rieneck</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">Đức</a>.
+- **[2023](2023.md)** - [The Lord of the Rings (musical)](<../T/The_Lord_of_the_Rings_(musical).md>) khai mạc tại Nhà hát Watermill ở <a class="extiw" href="http://en.wikipedia.org/wiki/Newbury,_Berkshire" title="wikipedia:Newbury, Berkshire">Newbury</a>, Tây Berkshire.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Gandalf](../G/Gandalf.md) bị giam giữ bởi [Saruman](../S/Saruman.md) trên đỉnh của [Orthanc](../O/Orthanc.md).
+    - [Gandalf](../G/Gandalf.md) bị [Saruman](../S/Saruman.md) giam giữ trên đỉnh [Orthanc](../O/Orthanc.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - Đoàn rước tang lễ của vua [Théoden](../T/Théoden.md) đi về hướng [Edoras](../E/Edoras.md)
+    - Đoàn tang vua [Théoden](../T/Théoden.md) đi về hướng [Edoras](../E/Edoras.md)

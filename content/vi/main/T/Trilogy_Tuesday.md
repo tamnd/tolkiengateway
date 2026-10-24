@@ -12,7 +12,7 @@ categories:
   - "Events"
 ---
 
-**Bộ ba thứ ba** là một sự kiện diễn ra vào ngày 16 tháng 12 năm 2003, trong đó các rạp chiếu trên toàn thế giới chiếu liên tiếp cả ba [*The Lord of the Rings* (loạt phim)](<The_Lord_of_the_Rings_(film_series).md>) phim của Ngài [Peter Jackson](../P/Peter_Jackson.md), *[The Return of the King](The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)* được chiếu vào nửa đêm của ngày phim được phát hành.
+**Bộ ba thứ ba** là một sự kiện diễn ra vào ngày 16 tháng 12 năm 2003, trong đó các rạp chiếu trên toàn thế giới chiếu liên tiếp cả ba [*The Lord of the Rings* (loạt phim)](<The_Lord_of_the_Rings_(film_series).md>) phim của Sir [Peter Jackson](../P/Peter_Jackson.md), *[The Return of the King](The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)* được chiếu vào nửa đêm của ngày phim được phát hành.
 
 ## Liên kết ngoài {#External_links}
 

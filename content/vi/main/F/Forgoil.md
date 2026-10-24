@@ -28,13 +28,13 @@ langlinks:
 <p class="tg-quote-footer"><cite>Dunlendings<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Forgoil**, hay **Strawheads** như được dịch trong [Westron](../W/Westron.md), là kẻ thù của [Dunlending](../D/Dunlendings.md). Trong phần còn lại của Trung Địa, chúng được gọi là [Rohirrim](../R/Rohirrim.md).
+**Forgoil**, hay **Strawheads** như được dịch sang [Westron](../W/Westron.md), là kẻ thù của [Dunlendings](../D/Dunlendings.md). Ở phần còn lại của Trung Địa, họ được biết đến với cái tên [Rohirrim](../R/Rohirrim.md).
 
 ## Từ nguyên {#Etymology}
 
-*Forgoil* là từ duy nhất được biết đến trong ngôn ngữ của Dunlending. Có thể phần cuối cùng của từ, *-il*, là một dấu hiệu số nhiều, chẳng hạn như trong trường hợp [Westron](../W/Westron.md) *il* cf. *[mûmakil](../M/Mûmakil.md)* (có lẽ là <a class="new" href="https://tolkiengateway.net/w/index.php?title=Haradric&amp;action=edit&amp;redlink=1" title="Haradric (page does not exist)">Haradric</a>); sự hình thành tương tự với phần cuối *-li* cũng được thấy trong [Quenya](../Q/Quenya.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Ngoài ra còn có khả năng hình thành số nhiều với sự kết hợp từ \**forgol*
+*Forgoil* là từ duy nhất được biết đến trong ngôn ngữ của người Dunlending. Có thể phần cuối cùng của từ, *-il*, là dấu hiệu số nhiều, chẳng hạn như trong trường hợp [Westron](../W/Westron.md) *il* cf. *[mûmakil](../M/Mûmakil.md)* (có lẽ là <a class="new" href="https://tolkiengateway.net/w/index.php?title=Haradric&amp;action=edit&amp;redlink=1" title="Haradric (page does not exist)">Haradric</a>); sự hình thành tương tự với phần kết thúc *-li* cũng được thấy trong [Quenya](../Q/Quenya.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Ngoài ra còn có khả năng hình thành số nhiều với sự kết hợp từ \**forgol*
 
-Phần tử (có thể) *go* đã được gắn với từ [Pre-Númenórean](../P/Pre-Númenórean.md) *[Go-hilleg](../G/Go-hilleg.md)*,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> chưa được dịch, nhưng đề cập đến [Númenórean những người định cư](../N/Númenóreans.md). Nó có thể có nghĩa là "đầu", theo nghĩa này.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Tuy nhiên, cả hai cách giải thích này vẫn là suy đoán; [Tolkien](../J/J.R.R._Tolkien.md) chưa bao giờ để lại bất kỳ ghi chú nào về chủ đề này.
+Phần tử (có thể) *go* đã được gắn với từ [Tiền Númenórean](../P/Pre-Númenórean.md) *[Go-hilleg](../G/Go-hilleg.md)*,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> chưa được dịch, nhưng đề cập đến [những người định cư Númenórean](../N/Númenóreans.md). Nó có thể có nghĩa là "đầu", theo nghĩa này.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Tuy nhiên, cả hai cách giải thích này vẫn là suy đoán; [Tolkien](../J/J.R.R._Tolkien.md) chưa bao giờ để lại bất kỳ ghi chú nào về chủ đề này.
 
 <span></span>
 

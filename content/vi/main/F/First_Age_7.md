@@ -16,13 +16,13 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="../T/Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><b>I</b><a href="../S/Second_Age.md" title="Second Age">II</a><a href="../T/Third_Age.md" title="Third Age">III</a><a href="Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="First_Age_2.md" title="First Age 2">2</a><a href="First_Age_5.md" title="First Age 5">5</a><a href="First_Age_6.md" title="First Age 6">6</a><a class="mw-selflink selflink">7</a><a href="First_Age_20.md" title="First Age 20">20</a><a href="First_Age_50.md" title="First Age 50">50</a><a href="First_Age_52.md" title="First Age 52">52</a></div></div></div></div></div></div>
 
-**Kỷ Đệ Nhất 7** (viết tắt là **F.A. 7**) là [năm thứ 7 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Nhất](First_Age.md) của [Trung Địa](../M/Middle-earth.md).
+**Kỷ thứ nhất 7** (viết tắt là **F.A. 7**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 7 của [Kỷ nguyên thứ nhất](First_Age.md) của [Trung Địa](../M/Middle-earth.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- Nhóm [Noldor](../N/Noldor.md) tổ chức [hội đồng tại Mithrim](../C/Council_in_Mithrim.md) để thảo luận về mối quan hệ của họ với [Sindar](../S/Sindar.md); [Angrod](../A/Angrod.md) và [Caranthir](../C/Caranthir.md) có đối số.<sup id="cite_ref-year_1-0" class="reference"><a href="#cite_note-year-1">[1]</a></sup><sup id="cite_ref-return_2-0" class="reference"><a href="#cite_note-return-2">[2]</a></sup>
-- [Fingolfin](Fingolfin.md) được chọn là [Đại Vương đầu tiên của Noldor](../H/High_King_of_the_Noldor.md) trong [Trung Địa](../M/Middle-earth.md), vì [Maedhros](../M/Maedhros.md) từ bỏ yêu cầu của mình.<sup id="cite_ref-year_1-1" class="reference"><a href="#cite_note-year-1">[1]</a></sup><sup id="cite_ref-return_2-1" class="reference"><a href="#cite_note-return-2">[2]</a></sup>
-- Người [các Con trai của Fëanor](../S/Sons_of_Fëanor.md) quyết định chuyển đến [Đông Beleriand](../E/East_Beleriand.md).<sup id="cite_ref-year_1-2" class="reference"><a href="#cite_note-year-1">[1]</a></sup>
+- [Noldor](../N/Noldor.md) tổ chức [hội đồng ở Mithrim](../C/Council_in_Mithrim.md) để thảo luận về mối quan hệ của họ với [Sindar](../S/Sindar.md); [Angrod](../A/Angrod.md) và [Caranthir](../C/Caranthir.md) tranh cãi.<sup id="cite_ref-year_1-0" class="reference"><a href="#cite_note-year-1">[1]</a></sup><sup id="cite_ref-return_2-0" class="reference"><a href="#cite_note-return-2">[2]</a></sup>
+- [Fingolfin](Fingolfin.md) được chọn làm [Vua tối cao của Noldor](../H/High_King_of_the_Noldor.md) đầu tiên ở [Trung địa](../M/Middle-earth.md), vì [Maedhros](../M/Maedhros.md) từ bỏ yêu sách của mình.<sup id="cite_ref-year_1-1" class="reference"><a href="#cite_note-year-1">[1]</a></sup><sup id="cite_ref-return_2-1" class="reference"><a href="#cite_note-return-2">[2]</a></sup>
+- Nhóm [Những đứa con của Fëanor](../S/Sons_of_Fëanor.md) quyết định chuyển đến [Đông Beleriand](../E/East_Beleriand.md).<sup id="cite_ref-year_1-2" class="reference"><a href="#cite_note-year-1">[1]</a></sup>
 
 <span></span>
 

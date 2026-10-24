@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dick Plotz"
 ---
 
-Chuyển hướng đến [Dick Plotz](../D/Dick_Plotz.md).
+Chuyển hướng tới [Dick Plotz](../D/Dick_Plotz.md).

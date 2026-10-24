@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The History of the Akallabêth"
 ---
 
-Chuyển hướng đến [Lịch sử của Akallabêth](The_History_of_the_Akallabêth.md).
+Chuyển hướng tới [Lịch sử của Akallabêth](The_History_of_the_Akallabêth.md).

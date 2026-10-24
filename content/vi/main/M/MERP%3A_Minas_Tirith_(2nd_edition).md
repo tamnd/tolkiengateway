@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Minas Tirith (1994 book)"
 ---
 
-Chuyển hướng đến [Minas Tirith (sách 1994)](<Minas_Tirith_(1994_book).md>).
+Chuyển hướng đến [Minas Tirith (sách năm 1994)](<Minas_Tirith_(1994_book).md>).

@@ -23,7 +23,7 @@ images:
 <p class="tg-quote-footer"><cite><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a></cite></p>
 </blockquote></div></div>
 
-<i><b>The Lord of the Rings: Phòng thủ Trung Địa</b></i> là trò chơi phòng thủ tháp dành cho iPhone và iPod Touch, được tạo bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=Glu_Games&amp;action=edit&amp;redlink=1" title="Glu Games (page does not exist)">Glu Games</a>. Nó có 18 sân khấu, trải dài trên bảy địa điểm đáng nhớ trong bộ ba cuốn sách và phim, chẳng hạn như Tháp [Orthanc](../O/Orthanc.md) và [Minas Tirith](../M/Minas_Tirith.md).
+<i><b>Chúa tể của những chiếc nhẫn: Phòng thủ Trung Địa</b></i> là trò chơi phòng thủ tháp dành cho iPhone và iPod Touch, được tạo bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=Glu_Games&amp;action=edit&amp;redlink=1" title="Glu Games (page does not exist)">Glu Games</a>. Nó có 18 sân khấu, trải dài trên bảy địa điểm đáng nhớ trong bộ ba cuốn sách và phim, chẳng hạn như Tháp [Orthanc](../O/Orthanc.md) và [Minas Tirith](../M/Minas_Tirith.md).
 
 ## Xem trước {#Previews}
 

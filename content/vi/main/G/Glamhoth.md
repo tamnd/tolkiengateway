@@ -22,7 +22,7 @@ langlinks:
     url: "https://kontu.wiki/Glamhoth"
 ---
 
-<i><b>Glamhoth</b></i> là [Sindarin](../S/Sindarin.md) từ cho [Orc](../O/Orcs.md). Theo nghĩa đen, nó có nghĩa là "dinorde, đám la hét", và là một thuật ngữ mô tả đề cập đến cách nói ồn ào và man rợ của Orc.<sup id="cite_ref-UT_1-0" class="reference"><a href="#cite_note-UT-1">[1]</a></sup>
+<i><b>Glamhoth</b></i> là một từ [Sindarin](../S/Sindarin.md) để chỉ [Orc](../O/Orcs.md). Theo nghĩa đen, nó có nghĩa là "dinorde, đám la hét", và là một thuật ngữ mô tả đề cập đến cách nói ồn ào và man rợ của lũ Orc.<sup id="cite_ref-UT_1-0" class="reference"><a href="#cite_note-UT-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -30,7 +30,7 @@ Phần đầu tiên, *glam*, có nghĩa là "lời nói man rợ" và là phần
 
 ## Ví dụ {#Examples}
 
-- <i><a href="Gurth_an_Glamhoth!.md" title="Gurth an Glamhoth!">Gurth an <b>Glamhoth</b>!</a></i> = "Cái chết cho Orc!"
+- <i><a href="Gurth_an_Glamhoth!.md" title="Gurth an Glamhoth!">Gurth an <b>Glamhoth</b>!</a></i> = "Giết lũ Orc!"
 - <i><a href="Glamdring.md" title="Glamdring"><b>Glam</b>dring</a></i> = "Búa kẻ thù"
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
@@ -39,7 +39,7 @@ Từ này đã có lịch sử lâu đời trong tâm trí Tolkien nhưng luôn 
 
 ## Cảm hứng {#Inspiration}
 
-Trong suốt lịch sử, người dân luôn coi ngôn ngữ của các dân tộc khác là thấp kém hoặc thô lỗ đối với tai. Thuật ngữ <a class="extiw" href="http://en.wikipedia.org/wiki/Barbarian" title="wikipedia:Barbarian">"Barbarian"</a> ban đầu có nghĩa là "kẻ hay nói huyên thuyên". Tương tự, Đức được gọi là <a class="external text" href="http://en.wikipedia.org/wiki/Names_for_Germany" rel="noreferrer noopener" target="_blank">"Vùng đất của người câm"</a>, "vùng đất của những người không nói được tiếng của chúng ta" ở một số nước Slav. Một mẫu tương tự được tìm thấy trong [Adûnaic](../A/Adûnaic.md), trong đó từ "hét" (*rûkh*) có liên quan đến các từ "Orc", *[uruk](../U/Uruk.md)*.
+Trong suốt lịch sử, người dân luôn coi ngôn ngữ của các dân tộc khác là thấp kém hoặc thô lỗ đối với tai. Thuật ngữ <a class="extiw" href="http://en.wikipedia.org/wiki/Barbarian" title="wikipedia:Barbarian">"Barbarian"</a> ban đầu có nghĩa là "kẻ hay nói huyên thuyên". Tương tự, Đức được gọi là <a class="external text" href="http://en.wikipedia.org/wiki/Names_for_Germany" rel="noreferrer noopener" target="_blank">"Vùng đất của người câm"</a>, "vùng đất của những người không nói được tiếng của chúng ta" ở một số nước Slav. Một mẫu tương tự được tìm thấy trong [Adûnaic](../A/Adûnaic.md), trong đó từ "hét" (*rûkh*) có liên quan đến các từ dành cho "Orc", *[uruk](../U/Uruk.md)*.
 
 <span></span>
 

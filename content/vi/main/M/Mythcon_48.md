@@ -31,7 +31,7 @@ infobox:
 **Mythcon 48** là hội nghị [Hiệp hội thần thoại](Mythopoeic_Society.md) thường niên lần thứ 48.
 
 - **Chủ đề:** "Tất cả đều là vàng"
-- **Khách mời danh dự:** William Fliss (người lưu trữ[Tolkien](../J/J.R.R._Tolkien.md)) và Laura Schmidt (người lưu trữTolkien)
+- **Khách mời danh dự:** William Fliss (nhà lưu trữ [Tolkien](../J/J.R.R._Tolkien.md)) và Laura Schmidt (nhà lưu trữ Tolkien)
 
 ## Liên kết ngoài {#External_links}
 

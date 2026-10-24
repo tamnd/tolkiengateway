@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Justin, John"
 ---
 
-**John Justinian de Ledesma** ([24 tháng 11](../_/24_November.md), [1917](../_/1917.md) - [29 tháng 11](../_/29_November.md), [2002](../_/2002.md)) là một diễn viên sân khấu người Anh gốc Argentina. Sau khi đột phá trong <i><a class="extiw" href="http://en.wikipedia.org/wiki/The_Thief_of_Bagdad_(1940_film)" title="wikipedia:The Thief of Bagdad (1940 film)">The Thief of Bagdad</a></i> trong [1940](../_/1940.md), anh gia nhập Lực lượng Không quân Hoàng gia, và sau chiến tranh, anh tiếp tục diễn xuất trên sân khấu. Anh ấy đã xuất hiện một số lần trên đài phát thanh và truyền hình; một trong số đó là vai [Thorin](../T/Thorin.md) trong [*The Hobbit* (loạt phim phát thanh năm 1968)](<../T/The_Hobbit_(1968_radio_series).md>).
+**John Justinian de Ledesma** ([24 tháng 11](../_/24_November.md), [1917](../_/1917.md) - [29 tháng 11](../_/29_November.md), [2002](../_/2002.md)) là một diễn viên sân khấu người Anh gốc Argentina. Sau khi đột phá trong <i><a class="extiw" href="http://en.wikipedia.org/wiki/The_Thief_of_Bagdad_(1940_film)" title="wikipedia:The Thief of Bagdad (1940 film)">The Thief of Bagdad</a></i> trong [1940](../_/1940.md), anh gia nhập Lực lượng Không quân Hoàng gia, và sau chiến tranh, anh tiếp tục diễn xuất trên sân khấu. Ông đã xuất hiện một số lần trên đài phát thanh và truyền hình; một trong số đó là vai [Thorin](../T/Thorin.md) trong [*The Hobbit* (loạt phim phát thanh năm 1968)](<../T/The_Hobbit_(1968_radio_series).md>).
 
 ## Liên kết ngoài {#External_links}
 

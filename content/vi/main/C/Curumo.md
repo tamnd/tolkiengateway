@@ -11,4 +11,4 @@ redirect_target: "Saruman"
 redirect_fragment: "Other names"
 ---
 
-Chuyển hướng đến [Saruman](../S/Saruman.md#Other_names).
+Chuyển hướng tới [Saruman](../S/Saruman.md#Other_names).

@@ -13,7 +13,7 @@ categories:
   - "Sindarin adverbs"
 ---
 
-<i><b>anann</b></i> là từ [Sindarin](../S/Sindarin.md) chỉ *a long time*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>anann</b></i> là từ [tiếng Sindarin](../S/Sindarin.md) cho *a long time*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Ví dụ {#Examples}
 

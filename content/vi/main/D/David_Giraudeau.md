@@ -20,11 +20,11 @@ sort_keys:
   "Webmasters": "Giraudeau, David"
 ---
 
-**David Giraudeau** (sinh [3 tháng 2](../_/3_February.md) [1980](../_/1980.md)) là một nhà thủy văn học và nhà ngữ văn nghiệp dư người Pháp bị mê hoặc bởi những ngôn ngữ được phát minh của [Tolkien](../J/J.R.R._Tolkien.md). Trong [2006](../_/2006.md) anh đã được [Tolkien Estate](../T/Tolkien_Estate.md) cho phép dịch các bài viết đã xuất hiện trong *[Vinyar Tengwar](../V/Vinyar_Tengwar.md)*. Giraudeau cũng điều hành trang web Lambenórë.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**David Giraudeau** (sinh [3 tháng 2](../_/3_February.md) [1980](../_/1980.md)) là một nhà thủy văn học và nhà ngữ văn nghiệp dư người Pháp bị mê hoặc bởi những ngôn ngữ được phát minh ra của [Tolkien](../J/J.R.R._Tolkien.md). Trong [2006](../_/2006.md) ông đã được [Tolkien Estate](../T/Tolkien_Estate.md) cấp phép dịch các bài báo xuất hiện trong *[Vinyar Tengwar](../V/Vinyar_Tengwar.md)*. Giraudeau cũng điều hành trang web Lambenórë.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://lambenore.free.fr/" rel="noreferrer noopener" target="_blank">Lambenore.free.fr</a> (Trang web của Giraudeau về các ngôn ngữ được phát minh bởi Tolkien)
+- <a class="external text" href="http://lambenore.free.fr/" rel="noreferrer noopener" target="_blank">Lambenore.free.fr</a> (Trang web của Giraudeau về các ngôn ngữ do Tolkien phát minh)
 
 <span></span>
 

@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Arkenstone, David"
 ---
 
-**David Arkenstone** ([1 tháng 7](../_/1_July.md), [1952](../_/1952.md)) là một nhạc sĩ nổi tiếng với dòng nhạc theo chủ đề giả tưởng. Anh đã phát hành một album có tựa đề [Âm nhạc lấy cảm hứng từ Trung Địa](../M/Music_Inspired_by_Middle_Earth.md) tại [2001](../_/2001.md) chứa đầy các bài hát liên quan đến [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
+**David Arkenstone** ([1 tháng 7](../_/1_July.md), [1952](../_/1952.md)) là một nhạc sĩ nổi tiếng với dòng nhạc theo chủ đề giả tưởng. Anh đã phát hành một album có tựa đề [Âm nhạc lấy cảm hứng từ Trung Địa](../M/Music_Inspired_by_Middle_Earth.md) trong [2001](../_/2001.md) chứa đầy [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) các bài hát liên quan đến.
 
 ## Liên kết ngoài {#External_links}
 

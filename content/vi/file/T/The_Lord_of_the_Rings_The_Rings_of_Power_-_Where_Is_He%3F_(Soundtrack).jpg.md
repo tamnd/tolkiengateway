@@ -25,7 +25,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Ảnh bìa cho nhạc phim của tập thứ sáu của *[The Lord of the Rings: The Rings of Power](../../main/T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)* mùa 2, "[Anh ấy ở đâu?](../../main/W/Where_Is_He%253F.md)".
+Ảnh bìa cho nhạc phim của tập thứ sáu của *[The Lord of the Rings: The Rings of Power](../../main/T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)* mùa 2, "[Ông ở đâu?](../../main/W/Where_Is_He%253F.md)".
 
 ## Giấy phép {#Licensing}
 

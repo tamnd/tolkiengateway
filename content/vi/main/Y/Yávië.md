@@ -21,7 +21,7 @@ langlinks:
     url: "https://kontu.wiki/Y%C3%A1vi%C3%AB"
 ---
 
-**Yávië** là tên [Quenya](../Q/Quenya.md) chỉ mùa thu, gọi là [Iavas](../I/Iavas.md) trong [Sindarin](../S/Sindarin.md). Đây cũng là tên của mùa thứ ba trong [Lịch Imladris](../C/Calendar_of_Imladris.md), 54 ngày ít nhiều rơi vào khoảng thời gian từ [10 tháng 8](../_/10_August.md) đến [3 tháng 10](../_/3_October.md) trong [Lịch Shire](../S/Shire_Calendar.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Yávië** là tên [Quenya](../Q/Quenya.md) chỉ mùa thu, được gọi là [Iavas](../I/Iavas.md) trong [Sindarin](../S/Sindarin.md). Đây cũng là tên của mùa thứ ba trong [Lịch của Imladris](../C/Calendar_of_Imladris.md), 54 ngày rơi vào khoảng từ [ngày 10 tháng 8](../_/10_August.md) đến [ngày 3 tháng 10](../_/3_October.md) trong [Lịch Shire](../S/Shire_Calendar.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

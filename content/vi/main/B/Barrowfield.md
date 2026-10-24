@@ -22,11 +22,11 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Barrowfield.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/59/The_Lord_of_the_Rings_Online_-_Barrowfield.jpg/250px-The_Lord_of_the_Rings_Online_-_Barrowfield.jpg" decoding="async" loading="lazy" width="250" height="141" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/59/The_Lord_of_the_Rings_Online_-_Barrowfield.jpg/375px-The_Lord_of_the_Rings_Online_-_Barrowfield.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/5/59/The_Lord_of_the_Rings_Online_-_Barrowfield.jpg/500px-The_Lord_of_the_Rings_Online_-_Barrowfield.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>The Barrowfield in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-**Barrowfield** là một cánh đồng bên ngoài bức tường và đê của [Edoras](../E/Edoras.md), nơi chôn cất [Những người cai trị của Rohan](../K/Kings_of_Rohan.md). Đến cuối [Kỷ Đệ Tam](../T/Third_Age.md) có hai hàng mộ: một cho Dòng thứ nhất ([Eorl](../E/Eorl.md) đến [Helm Hammerhand](../H/Helm.md)) và một cho Dòng thứ hai ([Fréaláf](../F/Fréaláf.md) đến [Théoden](../T/Théoden.md)). Con đường chính dẫn vào thành phố đi qua giữa hai dãy này.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Barrowfield** là một cánh đồng bên ngoài bức tường và con đê của [Edoras](../E/Edoras.md) nơi chôn cất [Những người cai trị Rohan](../K/Kings_of_Rohan.md). Vào cuối [Thời đại thứ ba](../T/Third_Age.md) có hai dãy mộ: một cho Dòng thứ nhất ([Eorl](../E/Eorl.md) đến [Helm Hammerhand](../H/Helm.md)) và một cho Dòng thứ hai ([Fréaláf](../F/Fréaláf.md) đến [Théoden](../T/Théoden.md)). Con đường chính dẫn vào thành phố đi qua giữa hai dãy này.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 [Simbelmynë](../S/Simbelmynë.md) mọc ở phía tây của các gò đất và dày hơn ở Helm's.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Người ta không biết liệu các vị Vua của Dòng thứ ba (bắt đầu bằng [Éomer](../_/Éomer.md)) có còn được chôn cất ở đó trong [Kỷ Đệ Tứ](../F/Fourth_Age.md) hay không.
+Người ta không biết liệu các vị Vua của Dòng thứ ba (bắt đầu với [Éomer](../_/Éomer.md)) có còn được chôn cất ở đó trong [Kỷ thứ tư](../F/Fourth_Age.md) hay không.
 
 ## Từ nguyên {#Etymology}
 
@@ -34,7 +34,7 @@ Tên này có nghĩa là "cánh đồng chứa mộ".<sup id="cite_ref-Nomen_3-0
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
 
 <dl><dd>The Barrowfield is located to the sides of the road leading to Edoras, and the barrows of all individual Kings can be identified.</dd></dl>
 

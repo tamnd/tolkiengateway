@@ -17,7 +17,7 @@ categories:
 
 ## Ví dụ {#Examples}
 
-- *[Corollairë](Corollairë.md)*hay còn gọi là *Coron Oiolairë*
+- *[Corollairë](Corollairë.md)* hay còn gọi là *Coron Oiolairë*
 
 <span></span>
 

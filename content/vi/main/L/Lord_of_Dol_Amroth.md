@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Prince of Dol Amroth"
 ---
 
-Chuyển hướng đến [Thân vương Dol Amroth](../P/Prince_of_Dol_Amroth.md).
+Chuyển hướng đến [Hoàng tử Dol Amroth](../P/Prince_of_Dol_Amroth.md).

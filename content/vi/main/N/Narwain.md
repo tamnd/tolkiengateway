@@ -22,7 +22,7 @@ langlinks:
     url: "https://kontu.wiki/Narwain"
 ---
 
-**Narwain** ([Narvinyë](Narvinyë.md) trong [Quenya](../Q/Quenya.md)) là tháng đầu tiên trong năm trong [Kings'](../K/Kings'_Reckoning.md) và [Stewards' Reckoning](../S/Stewards'_Reckoning.md) và là tháng thứ mười trong [New Reckoning](New_Reckoning.md). *Narwain* trong Cuộc tính toán của Vua và Quản lý tương ứng với [Afteryule](../A/Afteryule.md) trong [Lịch Shire](../S/Shire_Calendar.md) (khoảng [23 tháng 12](../_/23_December.md) đến [21 tháng 1](../_/21_January.md) hiện đại).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Narwain** ([Narvinyë](Narvinyë.md) ở [Quenya](../Q/Quenya.md)) là tháng đầu tiên trong năm trong [Kings'](../K/Kings'_Reckoning.md) và [Stewards' Reckoning](../S/Stewards'_Reckoning.md) và là tháng thứ mười trong [New Reckoning](New_Reckoning.md). *Narwain* trong Cuộc tính toán của Vua và Quản lý tương ứng với [Afteryule](../A/Afteryule.md) trong [Lịch Quận](../S/Shire_Calendar.md) (khoảng [23 tháng 12](../_/23_December.md) đến [21 tháng 1](../_/21_January.md) hiện đại).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 *Narwain* dịch là 'mặt trời mới' (*[naur](Naur.md)* + <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Gwain&amp;action=edit&amp;redlink=1" title="Gwain (page does not exist)">gwain</a></i>).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 

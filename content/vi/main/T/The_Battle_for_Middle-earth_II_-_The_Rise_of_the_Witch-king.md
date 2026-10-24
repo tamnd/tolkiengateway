@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lord of the Rings: The Battle for Middle-earth II: The Rise of the Witch-king"
 ---
 
-Chuyển hướng đến [The Lord of the Rings: The Battle for Middle-earth II: Sự trỗi dậy của Vua Phù thủy](The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II%253A_The_Rise_of_the_Witch-king.md).
+Chuyển hướng đến [The Lord of the Rings: The Battle for Middle-earth II: The Rise of the Witch-king](The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II%253A_The_Rise_of_the_Witch-king.md).

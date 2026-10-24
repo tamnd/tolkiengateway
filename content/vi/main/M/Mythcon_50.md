@@ -31,7 +31,7 @@ infobox:
 **Mythcon 50** là hội nghị [Hiệp hội thần thoại](Mythopoeic_Society.md) thường niên lần thứ 50.
 
 - **Chủ đề:** "Nhìn lại, tiến lên"
-- **Khách mời danh dự:** [Verlyn Flieger](../V/Verlyn_Flieger.md) ([Tolkien](../J/J.R.R._Tolkien.md) học giả) và Tim Powers (tác giả truyện giả tưởng)
+- **Khách mời danh dự:** [Verlyn Flieger](../V/Verlyn_Flieger.md) (học giả [Tolkien](../J/J.R.R._Tolkien.md)) và Tim Powers (tác giả truyện giả tưởng)
 
 ## Liên kết ngoài {#External_links}
 

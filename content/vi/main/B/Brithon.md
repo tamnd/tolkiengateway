@@ -28,11 +28,11 @@ langlinks:
     url: "https://www.tolkiendil.com/encyclo:geographie:eaux:beleriand:brithon"
 ---
 
-**Brithon** là một con sông [Beleriand](Beleriand.md) có giếng trên các ngọn đồi nằm ở phía tây bắc [Tây Beleriand](../W/West_Beleriand.md) phía nam [Ered Wethrin](../E/Ered_Wethrin.md). Nó chạy về phía nam qua [Falas](../F/Falas.md) tới vịnh [Brithombar](Brithombar.md) nơi gặp biển [Belegaer](Belegaer.md).
+**Brithon** là một con sông ở [Beleriand](Beleriand.md) có giếng trên những ngọn đồi nằm ở phía tây bắc ở [Tây Beleriand](../W/West_Beleriand.md) phía nam [Ered Wethrin](../E/Ered_Wethrin.md). Nó chạy về phía nam qua [Falas](../F/Falas.md) đến vịnh [Brithombar](Brithombar.md) nơi nó gặp biển [Belegaer](Belegaer.md).
 
 ## Từ nguyên {#Etymology}
 
-*Brithon* là [Ilkorin](../I/Ilkorin.md) cho "sỏi".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+*Brithon* là [Ilkorin](../I/Ilkorin.md) có nghĩa là "sỏi".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

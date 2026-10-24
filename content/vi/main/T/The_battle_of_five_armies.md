@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Battle of Five Armies"
 ---
 
-Chuyển hướng đến [Trận chiến Năm Đạo quân](../B/Battle_of_Five_Armies.md).
+Chuyển hướng tới [Trận chiến của năm đạo quân](../B/Battle_of_Five_Armies.md).

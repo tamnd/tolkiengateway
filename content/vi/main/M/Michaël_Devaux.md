@@ -22,7 +22,7 @@ sort_keys:
   "Tolkien Society members": "Devaux, Michael"
 ---
 
-**Michaël Devaux** có bằng tiến sĩ tại Sorbonne với mối quan tâm đặc biệt đến lịch sử triết học và siêu hình học của Leibniz. Ông là biên tập viên của *Bibliographie Cartésienne 1960-1996* cùng với Jean-Robert Armogathe và Vincent Carraud, và đã viết nhiều bài báo về lịch sử triết học thế kỷ XVII cũng như các nghiên cứu về Tolkien. Ông là chủ tịch của [Hiệp hội Tolkien Pháp](../L/L'association_La_Compagnie_de_la_Comté.md) (2011: không còn tồn tại), đồng thời là biên tập viên của *La Feuille de la Compagnie*, người thu thập các nghiên cứu về Tolkien do Ad Solem xuất bản. Ông đã giảng dạy về [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) ở Pháp, Hà Lan và Ý.
+**Michaël Devaux** có bằng tiến sĩ từ Sorbonne với mối quan tâm đặc biệt đến lịch sử triết học và siêu hình học của Leibniz. Ông là biên tập viên của tờ *Bibliographie Cartésienne 1960-1996* cùng với Jean-Robert Armogathe và Vincent Carraud, đồng thời đã viết nhiều bài báo về lịch sử triết học thế kỷ XVII cũng như các nghiên cứu của Tolkien. Ông là chủ tịch của [Hiệp hội Tolkien Pháp](../L/L'association_La_Compagnie_de_la_Comté.md) (2011: không còn tồn tại) và là biên tập viên của *La Feuille de la Compagnie*, người thu thập các nghiên cứu về Tolkien do Ad Solem xuất bản. Ông đã giảng dạy về [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) ở Pháp, Hà Lan và Ý.
 
 ## Thư mục, đã chọn {#Bibliography,_selected}
 
@@ -39,12 +39,12 @@ sort_keys:
 ### Bài viết {#Articles}
 
 - [2006](../_/2006.md): *[J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment](../J/J.R.R._Tolkien_Encyclopedia%253A_Scholarship_and_Critical_Assessment.md)*
-    - "Tiên tộc: Tái sinh"
+    - "Yêu tinh: Tái sinh"
     - "Pháp: Tiếp đón Tolkien"
 - [2010](../_/2010.md): [*Hither Shore* 6](../H/Hither_Shore_6.md)
     - "Dagor dagorath & Ragnarök: Tolkien & Ngày tận thế"
 - [2019](../_/2019.md): *[Music in Tolkien's Work and Beyond](Music_in_Tolkien's_Work_and_Beyond.md)*
-    - "Ca thương và Lòng thương xót: Tolkien và Âm nhạc Phụng vụ" (với Guglielmo Spirito)
+    - "Ca thương và lòng thương xót: Tolkien và âm nhạc phụng vụ" (với Guglielmo Spirito)
 
 ## Liên kết ngoài {#External_links}
 

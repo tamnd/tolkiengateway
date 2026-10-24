@@ -12,7 +12,7 @@ categories:
   - "Poems in The Adventures of Tom Bombadil"
 ---
 
-**Looney** là một bài thơ được [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết năm 1934 và xuất bản vào [18 tháng 1](../_/18_January.md) [1934](../_/1934.md) trong *The Oxford Magazine* Tập 52, số 9, trang 340.
+**Looney** là một bài thơ được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) vào năm 1934 và xuất bản vào [18 tháng 1](../_/18_January.md) [1934](../_/1934.md) trong *The Oxford Magazine* Tập 52, số 9, trang 340.
 
 ## Xem thêm {#See_also}
 

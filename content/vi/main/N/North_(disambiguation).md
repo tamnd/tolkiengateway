@@ -16,35 +16,35 @@ images:
 
 **Miền Bắc** có thể tham khảo:
 
-- *[formen](../F/Formen.md)* ([Quenya](../Q/Quenya.md) cho "hướng bắc")
-- *[forod](../F/Forod.md)* ([Sindarin](../S/Sindarin.md) cho "hướng bắc")
+- *[formen](../F/Formen.md)* ([Quenya](../Q/Quenya.md) cho "phía bắc")
+- *[forod](../F/Forod.md)* ([Sindarin](../S/Sindarin.md) cho "phía bắc")
 - [Mũi Bắc](North_Cape.md)
-- [North Downs](North_Downs.md)
+- [Dốc phía Bắc](North_Downs.md)
 - [Miền Bắc](Northlands.md)
-- [Northern Waste](Northern_Waste.md)
-- [Northfarthing](Northfarthing.md)
+- [Rác thải phía Bắc](Northern_Waste.md)
+- [Đi về hướng bắc](Northfarthing.md)
 - [Northililigand](Northiligand.md)
-- [Miền Bắc Orc](Northern_Orcs.md)
+- [Orc phương Bắc](Northern_Orcs.md)
 - [Miền Bắc (Mannish)](Northern_Mannish.md)
 - [Người phương Bắc](Northmen.md)
 - [Bắc Avarin](North_Avarin.md)
 - [Bắc Ithilien](North_Ithilien.md)
-- <a class="new" href="https://tolkiengateway.net/w/index.php?title=North_Marches_of_Beleriand&amp;action=edit&amp;redlink=1" title="North Marches of Beleriand (page does not exist)">Cuộc hành quân phía Bắc Beleriand</a>
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=North_Marches_of_Beleriand&amp;action=edit&amp;redlink=1" title="North Marches of Beleriand (page does not exist)">Các cuộc hành quân phía bắc Beleriand</a>
 - [Bắc Moors](North_Moors.md)
-- [North Polar Bear](North_Polar_Bear.md)
+- [Gấu Bắc Cực](North_Polar_Bear.md)
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=North_Pole&amp;action=edit&amp;redlink=1" title="North Pole (page does not exist)">Bắc Cực</a>
 - [Bắc Sindarin](North_Sindarin.md)
 - [Đường phía Bắc](North_Road.md)
-- [Con đường Bắc-Nam](North-South_Road.md)
+- [Đường Bắc Nam](North-South_Road.md)
 - [Cầu thang phía Bắc](North_Stair.md)
 - [Gia đình miền Bắc](North-took_Family.md)
 - [Lời tiên tri về phương Bắc](../P/Prophecy_of_the_North~56305.md)
 - [Biệt đội miền Bắc](../R/Rangers_of_the_North.md)
-- [Đại sảnh thứ Hai mươi mốt](../T/Twenty-first_Hall.md) của [Đầu phía Bắc](North_End.md)
+- [Hội trường thứ 21](../T/Twenty-first_Hall.md) của [North End](North_End.md)
 
 ## Các bài viết khác {#Other_writings}
 
-Trong Lời nói đầu của *[The End of Bovadium](../T/The_End_of_Bovadium.md)*,<sup id="cite_ref-CGL_1-0" class="reference"><a href="#cite_note-CGL-1">[1]</a></sup>, [Bác sĩ Sarevelk](../D/Doctor_Sarevelk.md) đã gọi những người Vastian sống ở phía bắc *Via Maxima*<sup id="cite_ref-FII_2-0" class="reference"><a href="#cite_note-FII-2">[2]</a></sup> ở *[Bovadium](../B/Bovadium.md)* là **người B** vì họ là những người nói [Ngôn ngữ B](../M/Modern_English.md).<sup id="cite_ref-Foreword_3-0" class="reference"><a href="#cite_note-Foreword-3">[3]</a></sup> Trong Đoạn II của văn bản, người Người B<sup id="cite_ref-Foreword_3-1" class="reference"><a href="#cite_note-Foreword-3">[3]</a></sup> được gọi là **Người miền Bắc**. Trong thời gian *Motores*tiếp quản thành phố, người miền Bắc trở nên ghen tị sau khi biết rằng [người miền Nam](../S/Southerners.md) vẫn có thể tận hưởng hòa bình không có *Motores*. Vì người miền Bắc cho rằng người miền Nam nên chia sẻ nỗi khốn cùng của mình nên họ đề xuất với Bộ trưởng xây dựng một con đường mới “qua đồng cỏ phía Nam” để giải phóng *Via Maxima* khỏi Vấn đề Giao thông. Bộ trưởng quyết định không làm bất cứ điều gì do người miền Bắc hoặc người miền Nam đề xuất và lẽ ra sẽ tiến hành kế hoạch của riêng mình nếu ông ấy không bị mắc kẹt ở <a class="mw-disambig" href="../C/Capital_City.md" title="Capital City">Thủ đô</a>. Cuộc tranh cãi giữa người miền Bắc và người miền Nam không bao giờ đi đến hồi kết vì tất cả đều bị “giết chết bởi khói độc” của *Motores*.<sup id="cite_ref-FII_2-1" class="reference"><a href="#cite_note-FII-2">[2]</a></sup>
+Trong Lời nói đầu của *[The End of Bovadium](../T/The_End_of_Bovadium.md)*,<sup id="cite_ref-CGL_1-0" class="reference"><a href="#cite_note-CGL-1">[1]</a></sup>, [Bác sĩ Sarevelk](../D/Doctor_Sarevelk.md) đã gọi những người Vastian sống ở phía bắc *Via Maxima*<sup id="cite_ref-FII_2-0" class="reference"><a href="#cite_note-FII-2">[2]</a></sup> ở *[Bovadium](../B/Bovadium.md)* là **người B** vì họ là những người nói [Ngôn ngữ B](../M/Modern_English.md).<sup id="cite_ref-Foreword_3-0" class="reference"><a href="#cite_note-Foreword-3">[3]</a></sup> Trong Đoạn II của văn bản, người Người B<sup id="cite_ref-Foreword_3-1" class="reference"><a href="#cite_note-Foreword-3">[3]</a></sup> được gọi là **Người miền Bắc**. Trong thời gian *Motores* tiếp quản thành phố, người miền Bắc trở nên ghen tị sau khi biết rằng [người miền Nam](../S/Southerners.md) vẫn có thể tận hưởng hòa bình không có *Motores*. Vì người miền Bắc cho rằng người miền Nam nên chia sẻ nỗi khốn cùng của mình nên họ đề xuất với Bộ trưởng xây dựng một con đường mới “qua đồng cỏ phía Nam” để giải phóng *Via Maxima* khỏi Vấn đề Giao thông. Bộ trưởng quyết định không làm bất cứ điều gì do người miền Bắc hoặc người miền Nam đề xuất và lẽ ra sẽ tiến hành kế hoạch của riêng mình nếu ông ấy không bị mắc kẹt ở <a class="mw-disambig" href="../C/Capital_City.md" title="Capital City">Thủ đô</a>. Cuộc tranh cãi giữa người miền Bắc và người miền Nam không bao giờ đi đến hồi kết vì tất cả đều bị “giết chết bởi khói độc” của *Motores*.<sup id="cite_ref-FII_2-1" class="reference"><a href="#cite_note-FII-2">[2]</a></sup>
 
 Trong một [bài thơ liên quan](../D/Domine_defende_nos_contra_hos_Motores_bos!.md), người miền Bắc được gọi là **người miền Bắc** và **người miền Bắc**.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
@@ -53,9 +53,9 @@ Trong một [bài thơ liên quan](../D/Domine_defende_nos_contra_hos_Motores_bo
 - *[Dark Are the Clouds about the North](../D/Dark_Are_the_Clouds_about_the_North.md)*
 - [Vành trước](../F/Forodrim.md)
 - [Nolan Bắc](Nolan_North.md)
-- [Hội phương Đông Tolkien phía Bắc](North_East_Tolkien_Society.md)
+- [Hiệp hội Tolkien Đông Bắc](North_East_Tolkien_Society.md)
 - [Ngôn ngữ German Bắc](North_Germanic_languages.md)
-- [Bản đồ Beleriand và đất phía Bắc](../M/Map_of_Beleriand_and_the_Lands_to_the_North.md)
+- [Bản đồ Beleriand và các vùng đất phía Bắc](../M/Map_of_Beleriand_and_the_Lands_to_the_North.md)
 - *[Rangers of the North](<../R/Rangers_of_the_North_(book).md>)*
 - *[The Lord of the Rings: War in the North](../T/The_Lord_of_the_Rings%253A_War_in_the_North.md)*
 

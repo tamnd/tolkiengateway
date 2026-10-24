@@ -12,14 +12,14 @@ categories:
   - "Languages (real-world)"
 ---
 
-Trong bài giảng *[English and Welsh](../E/English_and_Welsh.md)*năm 1955 của mình, [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã đề cập đến **cánh cửa hầm** như một sự kết hợp của các từ tiếng Anh có âm thanh đặc biệt hay độc lập với ý nghĩa của chúng (tức là <a class="extiw" href="http://en.wikipedia.org/wiki/Phonaesthetics" title="wikipedia:Phonaesthetics">hoàn toàn đẹp về mặt âm vị</a>):
+Trong bài giảng *[English and Welsh](../E/English_and_Welsh.md)* năm 1955 của mình, [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã đề cập đến **cánh cửa hầm** như một sự kết hợp của các từ tiếng Anh có âm thanh đặc biệt hay độc lập với ý nghĩa của chúng (tức là <a class="extiw" href="http://en.wikipedia.org/wiki/Phonaesthetics" title="wikipedia:Phonaesthetics">đẹp hoàn toàn về mặt âm vị</a>):
 
 <blockquote class="tg-quote noexcerpt">
 <p>Most English-speaking people ... will admit that cellar door is &#39;beautiful&#39;, especially if dissociated from its sense (and from its spelling). More beautiful than, say, sky, and far more beautiful than beautiful. Well then, in Welsh for me cellar doors are extraordinarily frequent, and moving to the higher dimension, the words in which there is pleasure in the contemplation of the association of form and sense are abundant.
 </p>
 </blockquote>
 
-Vì bài phát biểu này Tolkien là một trong số các nhà văn và nhà ngôn ngữ học nổi tiếng mà cụm từ này thường bị gán nhầm.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Trên thực tế, câu cách ngôn 'cửa hầm' đã được lưu hành ít nhất 50 năm trước khi Tolkien sử dụng nó – ví dụ được xuất bản đầu tiên là trong cuốn tiểu thuyết năm 1903 *Gee Boy* của Cyrus Hooper, và thậm chí ở đó người ta còn ngụ ý rằng cụm từ này đến từ một nguồn khác.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Vì bài phát biểu này mà Tolkien là một trong số những nhà văn và nhà ngôn ngữ học nổi tiếng mà cụm từ này thường bị gán nhầm.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Trên thực tế, câu cách ngôn 'cửa hầm' đã được lưu hành ít nhất 50 năm trước khi Tolkien sử dụng nó - ví dụ được xuất bản đầu tiên là trong cuốn tiểu thuyết năm 1903 *Gee Boy* của Cyrus Hooper, và thậm chí ở đó người ta ngụ ý rằng cụm từ này đến từ một nguồn khác.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 Trong bản thảo của [Phụ lục C](../A/Appendix_C.md), Tolkien đã có lúc có **Celador [Bolger](../B/Bolger.md)** trong cây gia phả Hobbit,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> mặc dù cuối cùng ông đã được thay thế bởi [Gundolpho Bolger](../G/Gundolpho_Bolger.md).
 

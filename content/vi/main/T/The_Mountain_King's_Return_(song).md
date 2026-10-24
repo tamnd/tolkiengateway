@@ -35,7 +35,7 @@ infobox:
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
-<i><b>The Mountain Vua's Return</b></i> là ca khúc thứ năm trong album [Let Mortal Heroes Sing Your Fame](../L/Let_Mortal_Heroes_Sing_Your_Fame.md) của ban nhạc [Summoning](../S/Summoning.md). Tên bài hát và lời bài hát được lấy từ bài thơ [Những Vua dưới chân núi](The_King_beneath_the_mountains.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>The Mountain King's Return</b></i> là ca khúc thứ năm trong album [Let Mortal Heroes Sing Your Fame](../L/Let_Mortal_Heroes_Sing_Your_Fame.md) của ban nhạc [Summoning](../S/Summoning.md). Tên bài hát và lời bài hát được lấy từ bài thơ [Vua dưới núi](The_King_beneath_the_mountains.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Lời bài hát {#Lyrics}
 

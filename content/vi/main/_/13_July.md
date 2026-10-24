@@ -66,19 +66,19 @@ Sự kiện xảy ra vào ngày 13 tháng 7
 - **[1949](1949.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 121](../L/Letter_121.md).
 - **[1967](1967.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết xong [thư 295b](../L/Letter_295b.md).
 - **[1979](1979.md)** - [Mythcon 10](../M/Mythcon_10.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/San_Jose,_California" title="wikipedia:San Jose, California">San Jose, California</a>.
-- **[2004](2004.md)** - [The Lord of the Rings Bản giao hưởng](../T/The_Lord_of_the_Rings_Symphony.md) tại Trung tâm Mann ở <a class="extiw" href="http://en.wikipedia.org/wiki/Philadelphia" title="wikipedia:Philadelphia">Philadelphia</a>.
+- **[2004](2004.md)** - [The Lord of the Rings Symphony](../T/The_Lord_of_the_Rings_Symphony.md) tại Trung tâm Mann ở <a class="extiw" href="http://en.wikipedia.org/wiki/Philadelphia" title="wikipedia:Philadelphia">Philadelphia</a>.
 - **[2006](2006.md)** - *[The Lord of the Rings: The White Council](../T/The_Lord_of_the_Rings%253A_The_White_Council.md)* được công bố.
-- **[2004](2004.md)** - [Tolkien Điều VII](../T/Tolkien_Thing.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Hohenahr" title="wikipedia:Hohenahr">Hohensolms, Hohenahr</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">Đức</a>.
-- **[2005](2005.md)** - [Tolkien Điều VI](../T/Tolkien_Thing.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Hohenahr" title="wikipedia:Hohenahr">Hohensolms, Hohenahr</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">Đức</a>.
-- **[2007](2007.md)** - [Tolkien Điều IX](../T/Tolkien_Thing.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Diez,_Germany" title="wikipedia:Diez, Germany">Diez</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">Đức</a>.
-- **[2008](2008.md)** - [Tolkien Điều X](../T/Tolkien_Thing.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Rieneck" title="wikipedia:Rieneck">Rieneck</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">Đức</a>.
-- **[2013](2013.md)** - [Mythcon 44](../M/Mythcon_44.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Michigan_State_University" title="wikipedia:Michigan State University">Đại học bang Michigan</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/East_Lansing,_Michigan" title="wikipedia:East Lansing, Michigan">phương Đông Lansing</a>.
+- **[2004](2004.md)** - [Tolkien Thing VII](../T/Tolkien_Thing.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Hohenahr" title="wikipedia:Hohenahr">Hohensolms, Hohenahr</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">Đức</a>.
+- **[2005](2005.md)** - [Tolkien Thing VI](../T/Tolkien_Thing.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Hohenahr" title="wikipedia:Hohenahr">Hohensolms, Hohenahr</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">Đức</a>.
+- **[2007](2007.md)** - [Tolkien Thing IX](../T/Tolkien_Thing.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Diez,_Germany" title="wikipedia:Diez, Germany">Diez</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">Đức</a>.
+- **[2008](2008.md)** - [Tolkien Thing X](../T/Tolkien_Thing.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Rieneck" title="wikipedia:Rieneck">Rieneck</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">Đức</a>.
+- **[2013](2013.md)** - [Mythcon 44](../M/Mythcon_44.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Michigan_State_University" title="wikipedia:Michigan State University">Đại học bang Michigan</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/East_Lansing,_Michigan" title="wikipedia:East Lansing, Michigan">East Lansing</a>.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [1944](../T/Third_Age_1944.md):
-    - Trong giai đoạn cuối của [Thảm họa Morannon](../D/Disaster_of_the_Morannon.md), [Minohtar](../M/Minohtar.md) bị giết bởi một mũi tên và lực lượng của anh ta bị đánh tan tác.
+    - Trong giai đoạn cuối của [Thảm họa Morannon](../D/Disaster_of_the_Morannon.md), [Minohtar](../M/Minohtar.md) bị giết bởi một mũi tên và lực lượng của ông ta bị đánh tan tác.
     - [Eärnil](../E/Eärnil_II.md) đến chiến trường và giành chiến thắng trong [Trận chiến trại](../B/Battle_of_the_Camp.md).
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Gandalf](../G/Gandalf.md) bị giam giữ bởi [Saruman](../S/Saruman.md) trên đỉnh của [Orthanc](../O/Orthanc.md).
+    - [Gandalf](../G/Gandalf.md) bị [Saruman](../S/Saruman.md) giam giữ trên đỉnh [Orthanc](../O/Orthanc.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.

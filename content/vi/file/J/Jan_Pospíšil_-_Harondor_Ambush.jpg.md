@@ -31,7 +31,7 @@ file:
 
 "Cuộc phục kích Harondor" của Jan Pospíšil.
 
-Mô tả của tác giả: "*Một quý tộc miền Nam Gondor bị phục kích bởi một nhóm đột kích Harondor (phía bắc Haradrim). Bên trái là kỵ binh Karka - Karka có lẽ là một cái tên bắt nguồn từ Carca trong Quenya và nó có nghĩa là "nanh". Các chiến binh trẻ đang cố gắng chứng tỏ mình gia nhập đội kỵ binh hạng nhẹ Karka để phục vụ như trinh sát và đột kích. Bên phải là một sĩ quan của một trung đoàn bộ binh hạng nặng. Cung thủ cũng từ đó trung đoàn do dự khi bắn vì anh ta có thể bắn trúng bạn bè mình.*"
+Mô tả của tác giả: "*Một quý tộc miền Nam Gondor bị phục kích bởi một nhóm đột kích Harondor (phía bắc Haradrim). Bên trái là kỵ binh Karka - Karka có lẽ là một cái tên bắt nguồn từ Carca trong Quenya và nó có nghĩa là "nanh". Các chiến binh trẻ đang cố gắng chứng tỏ mình gia nhập đội kỵ binh hạng nhẹ Karka để phục vụ như trinh sát và đột kích. Bên phải là một sĩ quan của một trung đoàn bộ binh hạng nặng. Cung thủ cũng từ đó trung đoàn do dự khi bắn vì ông ta có thể bắn trúng bạn bè mình.*"
 
 Ý tưởng nghệ thuật ban đầu được tạo ra cho *[The Last Days (of the Third Age of Middle-earth)](<../../main/T/The_Last_Days_(of_the_Third_Age_of_Middle-earth).md>)*, một bản mod chuyển đổi tổng thể cho các trò chơi *Mount &amp; Blade* và *Mount &amp; Blade: Warband*.
 

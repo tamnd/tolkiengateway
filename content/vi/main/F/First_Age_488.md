@@ -16,13 +16,13 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="../T/Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><b>I</b><a href="../S/Second_Age.md" title="Second Age">II</a><a href="../T/Third_Age.md" title="Third Age">III</a><a href="Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="First_Age_485.md" title="First Age 485">485</a><a href="First_Age_486.md" title="First Age 486">486</a><a href="First_Age_487.md" title="First Age 487">487</a><a class="mw-selflink selflink">488</a><a href="First_Age_489.md" title="First Age 489">489</a><a href="First_Age_490.md" title="First Age 490">490</a><a href="First_Age_491.md" title="First Age 491">491</a></div></div></div></div></div></div>
 
-**Kỷ Đệ Nhất 488** (viết tắt là **F.A. 488**) là năm [thứ 488 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Nhất](First_Age.md) của [Trung Địa](../M/Middle-earth.md).
+**Kỷ nguyên thứ nhất 488** (viết tắt là **F.A. 488**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 488 của [Kỷ nguyên thứ nhất](First_Age.md) của [Trung Địa](../M/Middle-earth.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- [Annael](../A/Annael.md) và [Tiên tộc](../E/Elves.md) của [Androth](../A/Androth.md) khởi hành [Hithlum](../H/Hithlum.md) đến [Các Cảng Sirion](../H/Havens_of_Sirion.md). Họ trốn thoát nhưng [Tuor](../T/Tuor.md) bị bắt.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+- [Annael](../A/Annael.md) và [Yêu tinh](../E/Elves.md) của [Androth](../A/Androth.md) rời [Hithlum](../H/Hithlum.md) đến [Nơi trú ẩn của Sirion](../H/Havens_of_Sirion.md). Họ trốn thoát nhưng [Tuor](../T/Tuor.md) bị bắt.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 - [Tuor](../T/Tuor.md) bị mê hoặc bởi [Lorgan](../L/Lorgan.md), thủ lĩnh của [Easterlings](<../E/Easterlings_(First_Age).md>) ở Hithlum.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
-- Vào khoảng thời gian này, [Các Tiên tộc Nargothrond](../E/Elves_of_Nargothrond.md) trở nên cảnh giác và bí mật hơn, và sẽ không để Tiên tộc đi lạc trong vùng đất của mình.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+- Vào khoảng thời gian này, [Yêu tinh của Nargothrond](../E/Elves_of_Nargothrond.md) trở nên cảnh giác và bí mật hơn, và sẽ không cho phép ngay cả Yêu tinh đi lạc vào vùng đất của họ.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

@@ -29,7 +29,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Bản dịch chính xác của 'Cầu mong [Silmarilli](../S/Silmarils.md) luôn chiếu sáng trên con đường của bạn' là *Nai silmarilli oie siluvar tielyanna*, mặc dù cụm từ này sẽ không bao giờ được nói ra vì chỉ có một Silmaril ánh sáng vẫn còn nhìn thấy được. <br>
+Bản dịch chính xác của 'Cầu mong [Silmarilli](../S/Silmarils.md) luôn chiếu sáng trên con đường của bạn' là *Nai silmarilli oie siluvar tielyanna*, mặc dù cụm từ này sẽ không bao giờ được nói ra vì ánh sáng của chỉ một viên Silmaril vẫn còn nhìn thấy được. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

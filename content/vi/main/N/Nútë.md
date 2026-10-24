@@ -15,11 +15,11 @@ sort_keys:
   "Quenya nouns": "Nute"
 ---
 
-**núte** trong [Quenya](../Q/Quenya.md) có nghĩa là "nút thắt, nút thắt"
+**núte** trong [Quenya](../Q/Quenya.md) có nghĩa là "sự ràng buộc, nút thắt"
 
 ## Từ nguyên {#Etymology}
 
-[PQ](../P/PQ.md) \**nûtê* hoặc \**nutê* từ [Gốc](../S/Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=NUT&amp;action=edit&amp;redlink=1" title="NUT (page does not exist)">NUT</a>.
+[PQ](../P/PQ.md) \**nûtê* hoặc \**nutê* từ [Root](../S/Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=NUT&amp;action=edit&amp;redlink=1" title="NUT (page does not exist)">NUT</a>.
 
 ## Có cùng nguồn gốc {#Cognates}
 

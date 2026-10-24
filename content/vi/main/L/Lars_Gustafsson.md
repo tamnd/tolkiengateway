@@ -31,7 +31,7 @@ Trong [1961](../_/1961.md), Gustafsson đã thực hiện cuộc phỏng vấn v
 ### Bài viết {#Articles}
 
 - [1961](../_/1961.md): *Dagens Nyheter*, ngày 21 tháng 8
-    - "[Den besynnerlige Professor Tolkien](../D/Den_besynnerlige_professor_Tolkien.md)" ("Tolkien, Giáo sư kỳ dị")
+    - "[Den besynnerlige giáo sư Tolkien](../D/Den_besynnerlige_professor_Tolkien.md)" ("Tolkien, Giáo sư kỳ dị")
 - [2004](../_/2004.md): *Expressen*, ngày 27 tháng 2
     - "<a class="external text" href="http://www.expressen.se/1.83848" rel="noreferrer noopener" target="_blank">Giáo sư fick en idé</a>" ("Giáo sư có một ý tưởng")
 

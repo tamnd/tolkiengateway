@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Chi tiết "[Luthien và Thân vương của Mèo Tevildo](Oleg_Poluyanov_-_Luthien_and_Prince_of_Cats_Tevildo.jpg.md)" của [Oleg Poluyanov](../../category/I/Images_by_Oleg_Poluyanov.md), mô tả [Umuiyan](../../main/U/Umuiyan.md)
+Chi tiết "[Luthien và Thân vương của Mèo Tevildo](Oleg_Poluyanov_-_Luthien_and_Prince_of_Cats_Tevildo.jpg.md)" của [Oleg Poluyanov](../../category/I/Images_by_Oleg_Poluyanov.md), miêu tả [Umuiyan](../../main/U/Umuiyan.md)
 
 ## Giấy phép {#Licensing}
 

@@ -68,17 +68,17 @@ Sự kiện xảy ra vào ngày 18 tháng 7
 - **[1971](1971.md)** - Nữ diễn viên [Sarah McLeod](../S/Sarah_McLeod.md) ra đời.
 - **[1998](1998.md)** - [Mythcon 29](../M/Mythcon_29.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Wheaton,_Illinois" title="wikipedia:Wheaton, Illinois">Wheaton, Illinois</a>.
 - **[2009](2009.md)** - [Mythcon 40](../M/Mythcon_40.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Los_Angeles" title="wikipedia:Los Angeles">Los Angeles</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/California" title="wikipedia:California">California</a>.
-- **[2010](2010.md)** - [Tolkien Chuyện](../T/Tolkien_Thing.md) năm 2010 ở <a class="extiw" href="http://en.wikipedia.org/wiki/Bad_Hersfeld" title="wikipedia:Bad Hersfeld">Bad Hersfeld</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">Đức</a>.
+- **[2010](2010.md)** - [Tolkien Thing](../T/Tolkien_Thing.md) 2010 ở <a class="extiw" href="http://en.wikipedia.org/wiki/Bad_Hersfeld" title="wikipedia:Bad Hersfeld">Bad Hersfeld</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">Đức</a>.
 - **[2010](2010.md)** - [Mythcon 41](../M/Mythcon_41.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Dallas" title="wikipedia:Dallas">Dallas</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Texas" title="wikipedia:Texas">Texas</a>.
 - **[2011](2011.md)** - [Mythcon 42](../M/Mythcon_42.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Albuquerque,_New_Mexico" title="wikipedia:Albuquerque, New Mexico">Albuquerque, New Mexico</a>.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Gandalf](../G/Gandalf.md) bị giam giữ bởi [Saruman](../S/Saruman.md) trên đỉnh của [Orthanc](../O/Orthanc.md).
+    - [Gandalf](../G/Gandalf.md) bị [Saruman](../S/Saruman.md) giam giữ trên đỉnh [Orthanc](../O/Orthanc.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - [Éomer](Éomer.md) quay về [Minas Tirith](../M/Minas_Tirith.md), sau khi giải quyết xong các công việc hành chính tại [Rohan](../R/Rohan.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+    - [Éomer](Éomer.md) quay trở lại [Minas Tirith](../M/Minas_Tirith.md), sau khi giải quyết các công việc hành chính ở [Rohan](../R/Rohan.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
     - Một bữa tiệc lớn được tổ chức tại [Merethrond](../M/Merethrond.md): [Gimli](../G/Gimli.md) và [Éomer](Éomer.md) đi đến thống nhất về quý cô [Galadriel](../G/Galadriel.md).
 
 <span></span>

@@ -38,7 +38,7 @@ infobox:
 
 ## Từ nhà xuất bản {#From_the_publisher}
 
-Đắm chìm trong linh hồn của *Space Trilogy*của Lewis, *A Wrinkle in Time*của L'Engle và *The Lord of the Rings*của Tolkien. Người Lùn, yêu tinh, hoàng tử và công chúa, thế lực bóng tối, những anh hùng bất ngờ và những địa điểm tuyệt vời mở ra cho chúng ta trong phần giới thiệu tuyệt vời về huyền thoại Cơ đốc giáo. Phần tổng quan này về các nhà sáng tạo huyền thoại Cơ đốc giáo lớn khám phá cách họ ảnh hưởng và truyền cảm hứng cho nhau, đồng thời xác định các biểu tượng và biểu tượng trong tác phẩm của họ.
+Đắm chìm trong tâm hồn của *Space Trilogy* của Lewis, *A Wrinkle in Time* của L'Engle và *The Lord of the Rings* của Tolkien. Người lùn, yêu tinh, hoàng tử và công chúa, thế lực bóng tối, những anh hùng khó có thể tin được và những địa điểm tuyệt vời sẽ mở ra cho chúng ta trong phần giới thiệu tuyệt vời về thần thoại Cơ đốc giáo này. Phần tổng quan này về các nhà sáng tạo huyền thoại Cơ đốc giáo lớn khám phá cách họ ảnh hưởng và truyền cảm hứng cho nhau, đồng thời xác định các biểu tượng và biểu tượng trong tác phẩm của họ.
 
 Khám phá lại các nhân vật và thế giới của các tác giả như
 

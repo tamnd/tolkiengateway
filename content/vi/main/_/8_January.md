@@ -76,7 +76,7 @@ Sự kiện xảy ra vào ngày 8 tháng 1.
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - Tầm [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) đạt [Hollin](../E/Eregion.md). *[Crebain](../C/Crebain.md)* xuất hiện.
+    - [Hiệp hội chiếc nhẫn](../F/Fellowship_of_the_Ring.md) đến tay [Hollin](../E/Eregion.md). *[Crebain](../C/Crebain.md)* xuất hiện.
     - Trăng tròn<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>

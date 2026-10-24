@@ -28,7 +28,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Elwing tháp của](../../main/E/Elwing's_tower.md) - Minh họa bởi [Alan Lee](../../main/A/Alan_Lee.md) cho *[Beren and Lúthien](../../main/B/Beren_and_Lúthien.md)*
+[Elwing tháp của](../../main/E/Elwing's_tower.md) - Minh họa của [Alan Lee](../../main/A/Alan_Lee.md) cho *[Beren and Lúthien](../../main/B/Beren_and_Lúthien.md)*
 
 ## Giấy phép {#Licensing}
 

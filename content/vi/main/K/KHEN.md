@@ -12,11 +12,11 @@ categories:
   - "Roots"
 ---
 
-**KHEN** là một [Elvish](../E/Elvish.md) [gốc](../S/Sundocarme.md) biểu thị "nhìn, thấy, quan sát, nhìn thẳng".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Gốc được cho là "cơ sở của lời nói bằng mắt" và có liên quan đến gốc [KEN](KEN.md).<sup id="cite_ref-PE_2-0" class="reference"><a href="#cite_note-PE-2">[2]</a></sup>
+**KHEN** là một [gốc Elvish](../E/Elvish.md) [gốc](../S/Sundocarme.md) biểu thị "nhìn, nhìn, quan sát, nhìn thẳng".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Gốc được cho là "cơ sở của lời nói bằng mắt" và có liên quan đến gốc [KEN](KEN.md).<sup id="cite_ref-PE_2-0" class="reference"><a href="#cite_note-PE-2">[2]</a></sup>
 
 ## Công cụ phái sinh {#Derivatives}
 
-- [Sindarin](../S/Sindarin.md) *[hen](../H/Hen.md)*<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+- [tiếng Sindarin](../S/Sindarin.md) *[hen](../H/Hen.md)*<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Xem thêm {#See_also}
 

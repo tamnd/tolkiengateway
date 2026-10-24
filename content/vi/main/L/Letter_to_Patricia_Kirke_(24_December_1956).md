@@ -18,7 +18,7 @@ sort_keys:
 Vào [24 tháng 12](../_/24_December.md) [1956](../_/1956.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho Patricia Kirke** .
 
 - **Xuất bản:** Một bức ảnh của bức thư đã được đưa vào <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Superior_Galleries_May_9th,_1992_Auction_of_Autographs,_Manuscripts_%26_Select_Books&amp;action=edit&amp;redlink=1" title="The Superior Galleries May 9th, 1992 Auction of Autographs, Manuscripts &amp; Select Books (page does not exist)">Phòng trưng bày Cao cấp ngày 9 tháng 5 năm 1992 Cuộc đấu giá chữ ký, bản thảo và sách chọn lọc</a></i>.<sup id="cite_ref-Books_1-0" class="reference"><a href="#cite_note-Books-1">[1]</a></sup>
-- **Mô tả:** Tolkien viết cho Patricia Kirke trên thiệp Giáng sinh của Đại học Merton rằng công việc và thư từ đã ngăn cản anh ấy viết bất kỳ thiệp hoặc thư Giáng sinh nào cho đến tuần trước. Ông cũng đề cập rằng con gái ông Priscilla đang theo học một năm tại Trường Kinh tế Luân Đôn để lấy bằng.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- **Mô tả:** Tolkien viết cho Patricia Kirke trên thiệp Giáng sinh của Đại học Merton rằng công việc và thư từ đã ngăn cản ông viết bất kỳ thiệp hoặc thư Giáng sinh nào cho đến tuần trước. Ông cũng đề cập rằng con gái ông Priscilla đang theo học một năm tại Trường Kinh tế Luân Đôn để lấy bằng.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Xem thêm {#See_also}
 

@@ -17,7 +17,7 @@ categories:
 
 ## Từ nguyên {#Etymology}
 
-Dạng [nguyên thủy Elvish](../P/Primitive_Elvish.md) được đưa ra dưới dạng <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Tur%C3%BAmb%C3%AA&amp;action=edit&amp;redlink=1" title="Turúmbê (page does not exist)">turúmbê</a></i> từ <a class="new" href="https://tolkiengateway.net/w/index.php?title=TUR%C3%9AM&amp;action=edit&amp;redlink=1" title="TURÚM (page does not exist)">TURÚM</a> với việc mất đi một nguyên âm tiền trọng âm không có trọng âm; sự mất mát này thường xảy ra ở [Common Telerin](../C/Common_Telerin.md)
+Dạng [tiếng Tiên nguyên thủy](../P/Primitive_Elvish.md) được đưa ra dưới dạng <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Tur%C3%BAmb%C3%AA&amp;action=edit&amp;redlink=1" title="Turúmbê (page does not exist)">turúmbê</a></i> từ <a class="new" href="https://tolkiengateway.net/w/index.php?title=TUR%C3%9AM&amp;action=edit&amp;redlink=1" title="TURÚM (page does not exist)">TURÚM</a> với việc mất đi một nguyên âm tiền trọng âm không có trọng âm; sự mất mát như vậy thường xảy ra ở [Telerin thông thường](../C/Common_Telerin.md)
 
 ## Có cùng nguồn gốc {#Cognates}
 

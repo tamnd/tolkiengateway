@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Prologue: A Ring's Tale"
 ---
 
-Chuyển hướng đến [Mở đầu: Câu chuyện của Nhẫn](Prologue%253A_A_Ring's_Tale.md).
+Chuyển hướng đến [Prologue: A Ring's Tale](Prologue%253A_A_Ring's_Tale.md).

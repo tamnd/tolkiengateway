@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Legions of Middle-earth"
 ---
 
-Chuyển hướng tới [Quân đoàn Trung Địa](Legions_of_Middle-earth.md).
+Chuyển hướng đến [Quân đoàn Trung địa](Legions_of_Middle-earth.md).

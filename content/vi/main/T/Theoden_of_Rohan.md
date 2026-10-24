@@ -36,13 +36,13 @@ infobox:
 
 ## Tóm tắt {#Synopsis}
 
-Gặp lại [Gandalf](../G/Gandalf.md), [Ba Thợ Săn](Three_Hunters.md) nhập [Edoras](../E/Edoras.md). Bên trong, [Théoden](Théoden.md), [Éowyn](../_/Éowyn.md) và [Gríma](../G/Gríma.md) lắng nghe tin tức của Gandalf. Théoden đuổi việc anh ta và gọi anh ta là kẻ báo tin xấu. Gríma quở trách Gandalf, nói rằng hiện tại anh ta đang tư vấn cho Vua.
+Đoàn tụ với [Gandalf](../G/Gandalf.md), [Ba thợ săn](Three_Hunters.md) tiến vào [Edoras](../E/Edoras.md). Bên trong, [Théoden](Théoden.md), [Éowyn](../_/Éowyn.md) và [Gríma](../G/Gríma.md) lắng nghe tin tức của Gandalf. Théoden đuổi việc ông ta và gọi ông ta là người báo tin xấu. Gríma quở trách Gandalf, nói rằng ông hiện đang cố vấn cho Nhà vua.
 
-Tức giận Gandalf lần lượt khiển trách Wormtongue. Thực sự Gríma là người mà Vua đã lắng nghe chứ không phải ai khác. Và Gríma đã đánh lừa Théoden bằng cách nói rằng [Rohan](../R/Rohan.md) chỉ sống sót nhờ lòng tốt của [Aruman](../S/Saruman.md), và do đó họ nên để anh ta được yên. Théoden can thiệp, nói rằng anh ấy luôn là người của riêng mình, nhưng trước khi anh ấy có thể bày tỏ đầy đủ sự bất bình của mình khi tìm kiếm tình bạn với Aruman, Gríma đã cắt ngang. Khi đối mặt với Gandalf, Pháp sư tiết lộ mình là Gandalf the White và xác định Gríma là đặc vụ của Aruman. Anh ta bị ném xuống đất, nhưng Théoden tỏ ra thương hại anh ta. Anh ta từ chối và bỏ chạy với một tiếng rít lớn. Théoden bảo lính canh đuổi anh ta đi.
+Tức giận, Gandalf lần lượt quở trách Wormtongue. Quả thực, chính Gríma mới là người mà Nhà vua đang lắng nghe chứ không phải ai khác. Và Gríma đã đánh lừa Théoden bằng cách nói rằng [Rohan](../R/Rohan.md) chỉ sống sót nhờ lòng tốt của [Aruman](../S/Saruman.md), và do đó họ nên để ông ta được yên. Théoden can thiệp, nói rằng ông luôn là người của riêng mình, nhưng trước khi ông có thể hoàn toàn bày tỏ sự bất bình của mình khi tìm kiếm tình bạn với Aruman, Gríma đã cắt ngang ông. Khi đối mặt với Gandalf, Wizard tiết lộ mình là Gandalf the White và xác định Gríma là đặc vụ của Aruman. Ông ta bị ném xuống đất, nhưng Théoden tỏ ra thương hại ông ta. Ông ta từ chối và bỏ chạy với một tiếng rít lớn. Théoden bảo lính canh thả ông ta đi.
 
-Vua giới thiệu những vị khách mới của mình với Éowyn và than thở rằng cô chung thủy với anh hơn [anh trai cô](../_/Éomer.md). Gandalf nói với anh ta rằng Éomer không phải không trung thành với mệnh lệnh của Vua mà là với mệnh lệnh của Wormtongue. Gandalf khuyên Vua nên đi trong [Helm's Deep](../H/Helm's_Deep.md), vì Saruman sẽ sớm được thông báo về việc họ đến; chính anh ấy sẽ đi tìm Éomer.
+Nhà vua giới thiệu những vị khách mới của mình với Éowyn và than thở rằng bà chung thủy với ông hơn [anh trai mình](../_/Éomer.md). Gandalf nói với anh rằng Éomer không phải không trung thành với mệnh lệnh của Nhà vua mà là với lệnh của Wormtongue. Gandalf khuyên Nhà vua nên đi tới [Helm's Deep](../H/Helm's_Deep.md), vì Saruman sẽ sớm được thông báo về việc họ đến; đích thân ông sẽ đi tìm Éomer.
 
-Sau khi gọi lấy áo giáp, Théoden và Gandalf dẫn đầu các Kỵ sĩ đi ra ngoài. Gandalf tách khỏi món chính và thề sẽ đoàn tụ với họ vào Helm's Deep. Théoden và Aragorn vẫn ở lại, và Aragorn không trả lời câu hỏi của Vua liệu còn hy vọng hay không.
+Sau khi gọi lấy áo giáp, Théoden và Gandalf dẫn đầu các Kỵ sĩ đi ra ngoài. Gandalf tách khỏi món chính và thề sẽ đoàn tụ với họ tại Helm's Deep. Théoden và Aragorn vẫn ở lại, và Aragorn không trả lời câu hỏi của Nhà vua liệu còn hy vọng hay không.
 
 ## Truyền {#Cast}
 
@@ -84,4 +84,4 @@ Sau khi gọi lấy áo giáp, Théoden và Gandalf dẫn đầu các Kỵ sĩ �
 
 - Dòng *Westhu Théoden hal* được phát âm sai hoàn toàn.
 - Saruman được gọi là "Aruman" và "Saruman" trong cùng một cảnh.
-- Gríma nói rằng ông đã ra lệnh rõ ràng cho người gác cửa lấy cây gậy của mình - nhưng trong phim không có cảnh nào như vậy được chiếu.
+- Gríma nói rằng ông đã ra lệnh rõ ràng cho người gác cửa lấy cây trượng của mình - nhưng trong phim không có cảnh nào như vậy được chiếu.

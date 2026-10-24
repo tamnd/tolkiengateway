@@ -51,7 +51,7 @@ infobox:
 <p class="tg-quote-footer"><cite>Official Synopsis, <a class="mw-redirect" href="../A/Amazon_Studios.md" title="Amazon Studios">Amazon Studios</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Doomed to Die** là tập thứ mười năm của loạt phim truyền hình [Amazon Studios](../A/Amazon_Studios.md), *[The Lord of the Rings: The Rings of Power](../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)*. Đây là tập thứ bảy của mùa thứ hai và được phát hành vào [tháng Chín 26](../_/26_September.md), [2024](../_/2024.md).
+**Doomed to Die** là tập thứ mười năm của loạt phim truyền hình [Amazon Studios](../A/Amazon_Studios.md), *[The Lord of the Rings: The Rings of Power](../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)*. Đây là tập thứ bảy của mùa thứ hai và được phát hành vào [26 tháng 9](../_/26_September.md), [2024](../_/2024.md).
 
 ## Tóm tắt {#Synopsis}
 
@@ -187,7 +187,7 @@ infobox:
 
 Dưới đây là danh sách các câu đố từ tính năng "X-Ray" của Amazon đi kèm với tập phim.
 
-- Cảnh 2 - "Hầu hết các chi tiết và chi tiết được nêu ở đây đều bắt nguồn từ '[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)', phần mở đầu có tựa đề '[Liên quan đến Hobbit](../C/Concerning_Hobbits.md)' và [Phụ lục](../A/Appendices.md), [A](../A/Appendix_A.md) đến [F](../A/Appendix_F.md), nơi người du hành dũng cảm có thể hành trình khám phá những chân trời xa hơn nữa."
+- Cảnh 2 - "Hầu hết các chi tiết và chi tiết được nêu ở đây đều bắt nguồn từ '[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)', phần mở đầu có tựa đề '[Liên quan đến người Hobbit](../C/Concerning_Hobbits.md)' và [Phụ lục](../A/Appendices.md), [A](../A/Appendix_A.md) đến [F](../A/Appendix_F.md), nơi du khách dũng cảm có thể hành trình khám phá những chân trời xa hơn nữa."
 
 ## Sản xuất {#Production}
 

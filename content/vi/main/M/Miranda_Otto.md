@@ -33,16 +33,16 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Miranda_Otto.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/1/18/Miranda_Otto.jpg/320px-Miranda_Otto.jpg" decoding="async" loading="lazy" width="320" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/18/Miranda_Otto.jpg/480px-Miranda_Otto.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/1/18/Miranda_Otto.jpg/640px-Miranda_Otto.jpg 2x" data-file-width="683" data-file-height="1024"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Miranda Otto</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Lifetime</th><td class="tg-infobox-data"><a href="../_/16_December.md" title="16 December">December 16</a>, <a href="../_/1967.md" title="1967">1967</a></td></tr><tr><th scope="row" class="tg-infobox-label">Portrayed</th><td class="tg-infobox-data"><a href="../_/Éowyn.md" title="Éowyn">Éowyn</a> in:<br/><a href="../T/The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings</i> (film series)</a><br/><i><a href="../T/The_Lord_of_the_Rings%253A_The_War_of_the_Rohirrim.md" title="The Lord of the Rings: The War of the Rohirrim">The Lord of the Rings: The War of the Rohirrim</a></i></td></tr><tr><th scope="row" class="tg-infobox-label">IMDb</th><td class="tg-infobox-data"><a class="external text" href="http://www.imdb.com/name/nm0001584/" rel="noreferrer noopener" target="_blank">Profile</a></td></tr></tbody></table>
 
-**Miranda Otto** là nữ diễn viên người Úc từng đóng [Éowyn](../_/Éowyn.md) trong [*The Lord of the Rings* loạt phim](<../T/The_Lord_of_the_Rings_(film_series).md>).
+**Miranda Otto** là nữ diễn viên người Úc từng đóng vai [Éowyn](../_/Éowyn.md) trong [*The Lord of the Rings* loạt phim](<../T/The_Lord_of_the_Rings_(film_series).md>).
 
 ## Vai trò {#Roles}
 
 - [2024](../_/2024.md): *[The Lord of the Rings: The War of the Rohirrim](../T/The_Lord_of_the_Rings%253A_The_War_of_the_Rohirrim.md)*: [Éowyn](../_/Éowyn.md) (người kể chuyện)
 - [2004](../_/2004.md): *DNZ: The Real Middle Earth*: Bản thân
 - [2004](../_/2004.md): *[The Lord of the Rings: The Third Age](../T/The_Lord_of_the_Rings%253A_The_Third_Age.md)*: [Éowyn](../_/Éowyn.md) (đoạn phim lưu trữ)
-- [2003](../_/2003.md): *The Lord of the Rings: Nhiệm vụ đã hoàn thành*: Bản thân cô
+- [2003](../_/2003.md): *Chúa tể của những chiếc nhẫn: Nhiệm vụ đã hoàn thành*: Bản thân cô
 - [2003](../_/2003.md): *Warriors of the Third Age*: Bản thân
-- [2003](../_/2003.md): [*The Lord of the Rings: The Return of the King* (trò chơi điện tử)](<../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_(video_game).md>): [Éowyn](../_/Éowyn.md) (đoạn phim lưu trữ)
+- [2003](../_/2003.md): [*The Lord of the Rings: The Return of the King* (video game)](<../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_(video_game).md>): [Éowyn](../_/Éowyn.md) (đoạn phim lưu trữ)
 - [2003](../_/2003.md): *[The Lord of the Rings: The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*: [Éowyn](../_/Éowyn.md)
 - [2002](../_/2002.md): *[The Lord of the Rings: The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)*: [Éowyn](../_/Éowyn.md)
 
@@ -71,8 +71,8 @@ infobox:
 - [2003](../_/2003.md) - <b><a class="external text" href="http://ofcs.rottentomatoes.com/" rel="noreferrer noopener" target="_blank">Giải OFCS</a></b>, Dàn nhạc xuất sắc nhất, *[The Lord of the Rings: The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)*
 - 2003 - <b><a class="external text" href="http://www.cinemaclips.com/PFCS.htm" rel="noreferrer noopener" target="_blank">Giải thưởng PFCS</a></b>, Dàn diễn xuất xuất sắc nhất, *Peter Jackson's The Two Towers*
 - [2004](../_/2004.md) - <b><a class="external text" href="http://www.bfca.org/" rel="noreferrer noopener" target="_blank">Giải Sự lựa chọn của các nhà phê bình</a></b>, Dàn diễn viên xuất sắc nhất, *[The Lord of the Rings: The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*
-- 2004 - <b><a class="external text" href="http://www.nbrmp.org/" rel="noreferrer noopener" target="_blank">Giải thưởng NBR</a></b>, Dàn diễn viên xuất sắc nhất, The Return of the King* của *Peter Jackson
-- 2004 - <b><a class="external text" href="http://www.sagawards.org/" rel="noreferrer noopener" target="_blank">Giải thưởng SAG</a></b>, Diễn xuất xuất sắc của dàn diễn viên trong phim điện ảnh, The Return of the King* của *Peter Jackson
+- 2004 - <b><a class="external text" href="http://www.nbrmp.org/" rel="noreferrer noopener" target="_blank">Giải thưởng NBR</a></b>, Diễn xuất xuất sắc nhất của một nhóm, *Sự trở lại của nhà vua của Peter Jackson*
+- 2004 - <b><a class="external text" href="http://www.sagawards.org/" rel="noreferrer noopener" target="_blank">Giải thưởng SAG</a></b>, Diễn xuất xuất sắc của dàn diễn viên trong phim điện ảnh, *Sự trở lại của nhà vua của Peter Jackson*
 
 ## Liên kết ngoài {#External_links}
 

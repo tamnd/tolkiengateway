@@ -40,7 +40,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tolkien_Calendar_2015.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/f2/Tolkien_Calendar_2015.jpg/320px-Tolkien_Calendar_2015.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f2/Tolkien_Calendar_2015.jpg/480px-Tolkien_Calendar_2015.jpg 1.5x, https://tolkiengateway.net/w/images/f/f2/Tolkien_Calendar_2015.jpg 2x" data-file-width="500" data-file-height="500"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Tolkien Calendar 2015</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="../M/Mary_Fairburn.md" title="Mary Fairburn">Mary Fairburn</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../H/HarperCollins.md" title="HarperCollins">HarperCollins</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/28_August.md" title="28 August">28 August</a> <a href="../_/2014.md" title="2014">2014</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Calendar</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">32</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/978-0-00-755248-8" title="Special:BookSources/978-0-00-755248-8">978-0-00-755248-8</a> (UK)<br/><a href="https://tolkiengateway.net/wiki/Special:BookSources/978-0-06-235679-0" title="Special:BookSources/978-0-06-235679-0">978-0-06-235679-0</a> (US)</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Tolkien_Calendar_2014.md" title="Tolkien Calendar 2014">Tolkien Calendar 2014</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Tolkien_Calendar_2016.md" title="Tolkien Calendar 2016">Tolkien Calendar 2016</a></td></tr></tbody></table>
 
-Lịch <i><b>Tolkien 2015</b></i> là lịch Tolkien chính thức được xuất bản bởi [HarperCollins](../H/HarperCollins.md) vào [28 tháng 8](../_/28_August.md) [2014](../_/2014.md). Nó có tác phẩm nghệ thuật của [Mary Fairburn](../M/Mary_Fairburn.md) dựa trên *[The Lord of the Rings](The_Lord_of_the_Rings.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>Lịch Tolkien 2015</b></i> là lịch Tolkien chính thức được xuất bản bởi [HarperCollins](../H/HarperCollins.md) vào [28 tháng 8](../_/28_August.md) [2014](../_/2014.md). Nó có tác phẩm nghệ thuật của [Mary Fairburn](../M/Mary_Fairburn.md) dựa trên *[The Lord of the Rings](The_Lord_of_the_Rings.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nhà xuất bản {#From_the_publisher}
 
@@ -51,17 +51,17 @@ Lịch <i><b>Tolkien 2015</b></i> là lịch Tolkien chính thức được xu�
 
 ## Minh họa {#Illustrations}
 
-- Tháng Giêng - "Hành Trình Về Caradhras" (1968)
+- Tháng Giêng - "Hành trình đến Caradhras" (1968)
 - Tháng 2 - "Lothlórien" (1968)
 - Tháng 3 - "Minas Tirith" (2013–14)
 - Tháng 4 - "Hành trình xuôi dòng sông Anduin" (1968)
 - Tháng 5 - "Rivendell" (2013–14)
 - Tháng 6 - "Quán trọ ở Bree" (1968)
-- Tháng 7 - "The Khu Rừng Cổ" (1968)
-- Tháng 8 - "Gandalf ngày Orthanc" (1968)
-- tháng Chín - "Khazad-dûm" (1968)
-- Tháng 10 - "Treebeard với Merry và Pippin" (1968)
-- Tháng 11 - "The Đầm lầy Chết" (1968)
+- Tháng 7 - "Rừng già" (1968)
+- Tháng 8 - "Gandalf trên Orthanc" (1968)
+- Tháng 9 - "Khazad-dûm" (1968)
+- Tháng 10 - "Râu cây với Merry và Pippin" (1968)
+- Tháng 11 - "Đầm lầy chết chóc" (1968)
 - Tháng 12 - "The Cracks of Doom" (2013–14)
 
 ## Biến thể {#Variants}
@@ -78,8 +78,8 @@ Lịch <i><b>Tolkien 2015</b></i> là lịch Tolkien chính thức được xu�
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://www.tolkiensociety.org/2014/05/2015-tolkien-calendar-with-artwork-from-mary-fairburn/" rel="noreferrer noopener" target="_blank">Lịch 2015 Tolkien với tác phẩm nghệ thuật của Mary Fairburn</a> tại <a class="external text" href="http://www.tolkiensociety.org" rel="noreferrer noopener" target="_blank">Hội Tolkien</a>
-- <a class="external text" href="http://tolkiencalendars.com/2015.html" rel="noreferrer noopener" target="_blank">Tolkien Lịch 2015</a> tại <a class="external text" href="http://tolkiencalendars.com/" rel="noreferrer noopener" target="_blank">The Compleat Gyde tới Tolkien Lịch</a>
+- <a class="external text" href="http://www.tolkiensociety.org/2014/05/2015-tolkien-calendar-with-artwork-from-mary-fairburn/" rel="noreferrer noopener" target="_blank">Lịch Tolkien 2015 với tác phẩm nghệ thuật của Mary Fairburn</a> tại <a class="external text" href="http://www.tolkiensociety.org" rel="noreferrer noopener" target="_blank">Hiệp hội Tolkien</a>
+- <a class="external text" href="http://tolkiencalendars.com/2015.html" rel="noreferrer noopener" target="_blank">Lịch Tolkien 2015</a> tại <a class="external text" href="http://tolkiencalendars.com/" rel="noreferrer noopener" target="_blank">The Compleat Gyde to Tolkien Calendars</a>
 
 <span></span>
 

@@ -23,7 +23,7 @@ images:
 
 ## Đặc điểm {#Characteristics}
 
-Người Mahûd được mô tả là sinh sống ở vùng sa mạc Far Harad, nơi họ thuần hóa và huấn luyện người Mûmakil. Do khí hậu, họ mặc quần áo nhẹ (để trần tay chân) và cưỡi lạc đà thay vì ngựa. Họ có rất ít kiến ​​thức về gia công kim loại, áo giáp và vũ khí của họ chủ yếu được làm từ gỗ và xương. Những vũ khí này bao gồm giáo, dao găm, dùi cui và ống thổi, Mahûd cũng mang theo những chiếc khiên lớn bằng liễu gai.
+Người Mahûd được mô tả là sinh sống trên sa mạc Far Harad, nơi họ thuần hóa và huấn luyện Mûmakil. Do khí hậu, họ mặc quần áo nhẹ (để trần tay chân) và cưỡi lạc đà thay vì ngựa. Họ có rất ít kiến ​​thức về gia công kim loại, áo giáp và vũ khí của họ chủ yếu được làm từ gỗ và xương. Những vũ khí này bao gồm giáo, dao găm, dùi cui và ống thổi, Mahûd cũng mang theo những chiếc khiên lớn bằng liễu gai.
 
 Trong trận chiến, Mahûd cưỡi ngựa hú trên đỉnh Mûmakil và gắn những chiếc ngà sắc nhọn vào sườn lạc đà của họ để tấn công kẻ thù. Các vị vua đôi khi nổi lên trong Mahûd, nhưng nền văn hóa chính trị bạo lực và linh hoạt của họ có nghĩa là rất ít vị vua tồn tại được lâu. Quyền lãnh đạo thường thuộc về chiến binh giỏi nhất, và mọi người thường đào tẩu sang bộ tộc khác nếu thủ lĩnh của họ là chiến binh có năng lực hơn.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 

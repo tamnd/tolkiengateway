@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Treasures of Middle-earth (2nd edition)"
 ---
 
-Chuyển hướng tới [Kho báu Trung Địa (ấn bản thứ 2)](<../T/Treasures_of_Middle-earth_(2nd_edition).md>).
+Chuyển hướng đến [Kho báu của Trung Địa (ấn bản thứ 2)](<../T/Treasures_of_Middle-earth_(2nd_edition).md>).

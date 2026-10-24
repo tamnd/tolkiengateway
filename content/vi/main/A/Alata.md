@@ -17,7 +17,7 @@ categories:
 
 ## Từ nguyên {#Etymology}
 
-Nó bắt nguồn từ [dạng Elvish](../P/Primitive_Elvish.md) nguyên thủy \*<i><a class="new" href="https://tolkiengateway.net/w/index.php?title=%C3%91alat%C3%A2&amp;action=edit&amp;redlink=1" title="Ñalatâ (page does not exist)">ñalatâ</a></i> từ [Gốc](../S/Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=%C3%91AL&amp;action=edit&amp;redlink=1" title="ÑAL (page does not exist)">ÑAL</a>.
+Nó bắt nguồn từ [dạng Elvish](../P/Primitive_Elvish.md) nguyên thủy \*<i><a class="new" href="https://tolkiengateway.net/w/index.php?title=%C3%91alat%C3%A2&amp;action=edit&amp;redlink=1" title="Ñalatâ (page does not exist)">ñalatâ</a></i> từ [Root](../S/Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=%C3%91AL&amp;action=edit&amp;redlink=1" title="ÑAL (page does not exist)">ÑAL</a>.
 
 ## Có cùng nguồn gốc {#Cognates}
 

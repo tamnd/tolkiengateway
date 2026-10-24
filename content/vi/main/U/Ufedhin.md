@@ -32,33 +32,33 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../G/Gnomes.md" title="Gnomes">Gnome</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Ufedhin</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a class="mw-redirect" href="../A/Artanor.md" title="Artanor">Artanor</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Ufedhin.md" title="Category:Images of Ufedhin">Images of Ufedhin</a></td></tr></tbody></table>
 
-**Ufedhin** là một [Tiên](../E/Elf.md) theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*. Anh ta được chú ý vì sự phản bội của [Tinwelint](../T/Tinwelint.md), Vua của [Artanor](../A/Artanor.md).
+**Ufedhin** là một [Yêu tinh](../E/Elf.md) theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*. Ông ta nổi tiếng vì đã phản bội [Tinwelint](../T/Tinwelint.md), Vua của [Artanor](../A/Artanor.md).
 
 ## Lịch sử {#History}
 
 ### Kho báu của Glórund {#Treasure_of_Glórund}
 
-Ufedhin là một [Gnome](../G/Gnome.md) rất giàu có sống ở Artanor. Khi [Úrin](../H/Húrin.md) mang kho báu của [Nargothrond](../N/Nargothrond.md) đến trước Tinwelint để trả cho việc "giữ công bằng" cho vợ con mình, Tinwelint, theo lời khuyên của [Gwendelin](../M/Melian.md), đã muốn ném kho báu xuống sông. Tuy nhiên, Ufedhin đã cố gắng thuyết phục anh ta bằng cách khác và do lời nguyền của [Mîm](../M/Mîm.md) Người lùn nên Tinwelint quyết định giữ lại kho báu.
+Ufedhin là một [Gnome](../G/Gnome.md) rất giàu có sống ở Artanor. Khi [Úrin](../H/Húrin.md) mang kho báu của [Nargothrond](../N/Nargothrond.md) đến trước Tinwelint như một sự trả giá cho việc "giữ công bằng" cho vợ con mình, Tinwelint, theo lời khuyên của [Gwendelin](../M/Melian.md), đã muốn ném kho báu xuống sông. Tuy nhiên, Ufedhin đã cố gắng thuyết phục ông ta bằng cách khác và do lời nguyền của [Mîm](../M/Mîm.md) Người lùn, Tinwelint quyết định giữ kho báu.
 
-Ufedhin - bạn thân của [Người Lùn](../D/Dwarves.md) của [Nogrod](../N/Nogrod.md) - đã thuyết phục Tinwelint nhờ họ giúp đỡ trong việc định hình lại số vàng. Khi họ đồng ý làm việc cho Tinwelint, anh ta đã gửi một nửa số vàng cho Nogrod vay và giữ lại nửa còn lại, yêu cầu họ làm lại và tạo hình thành nhiều đồ vật khác nhau.
+Ufedhin - bạn thân của [Người lùn](../D/Dwarves.md) xứ [Nogrod](../N/Nogrod.md) - đã thuyết phục Tinwelint nhờ họ giúp đỡ trong việc định hình lại kho vàng. Khi họ đồng ý làm việc cho Tinwelint, ông ta đã gửi một nửa số vàng cho Nogrod như một khoản cho vay và giữ lại nửa còn lại, số tiền này họ được yêu cầu làm lại và biến thành nhiều đồ vật khác nhau.
 
-Tuy nhiên, Tinwelint đã bị lòng tham làm mờ mắt và quyết định bắt Ufedhin làm con tin để Người Lùn không lừa anh ta. Điều này khiến Ufedhin tức giận và khiến anh ta lên kế hoạch trả thù Vua. Khi Người Lùn hoàn thành công việc của họ (bao gồm cả [Nauglafring](../N/Nauglafring.md), Vòng cổ của Người Lùn), Ufedhin đã thuyết phục họ yêu cầu Vua trả một cái giá cắt cổ. Khi nghe mức giá này, Vua đã ra lệnh đánh đòn Ufedhin và Người Lùn và trả một khoản tiền nhỏ cho công việc của họ.
+Tuy nhiên, Tinwelint đã bị lòng tham làm mờ mắt và quyết định bắt Ufedhin làm con tin để Người lùn không lừa ông ta. Điều này khiến Ufedhin tức giận và khiến ông ta âm mưu trả thù Nhà vua. Khi Người lùn hoàn thành công việc của họ (bao gồm cả [Nauglafring](../N/Nauglafring.md), Vòng cổ của Người lùn), Ufedhin đã thuyết phục họ yêu cầu Nhà vua trả một cái giá cắt cổ. Khi nghe được mức giá này, Nhà vua đã ra lệnh đánh đòn Ufedhin và Người lùn và trả cho họ một khoản tiền nhỏ cho công việc của họ.
 
-### Cái chết của Tinwelint và Bao tải Artanor {#Death_of_Tinwelint_and_Sack_of_Artanor}
+### Cái chết của Tinwelint và Bao Artanor {#Death_of_Tinwelint_and_Sack_of_Artanor}
 
-[Naugladur](../N/Naugladur.md), Vua của Indrafang, đã nghe tin về những gì đã xảy ra ở Artanor và cũng nhận được tin nhắn từ [Bodruith](../B/Bodruith.md), Vua của [Belegost](../B/Belegost.md), về cái chết của Mîm và bản chất thực sự của việc mua lại vàng của [Glorund](../G/Glorund.md). Anh ta rất tức giận và quyết định gây chiến với Tinwelint.
+[Naugladur](../N/Naugladur.md), Vua của Indrafang, đã nghe tin về những gì đã xảy ra ở Artanor và cũng nhận được tin nhắn từ [Bodruith](../B/Bodruith.md), Vua của [Belegost](../B/Belegost.md), về cái chết của Mîm và bản chất thực sự của việc mua lại vàng của [Glorund](../G/Glorund.md). Ông ta rất tức giận và quyết định gây chiến với Tinwelint.
 
-Ufedhin đề nghị hướng dẫn quân đội của Nogrod và Belegost vượt qua [Dây đai](../G/Girdle_of_Melian.md) xung quanh Artanor. Vào thời điểm đó, một Tiên khác từ Artanor tên là [Narthseg](../N/Narthseg.md) đã tiết lộ với Naugladur rằng Tinwelint sẽ kỷ niệm [Cuộc Săn Sói](../H/Hunting_of_the_Wolf.md) bằng một cuộc đi săn vĩ đại trong khu rừng gần biên giới của Artanor.
+Ufedhin đề nghị hướng dẫn quân đội của Nogrod và Belegost vượt qua [Girdle](../G/Girdle_of_Melian.md) xung quanh Artanor. Vào thời điểm đó, một Yêu tinh khác từ Artanor tên là [Narthseg](../N/Narthseg.md) đã tiết lộ với Naugladur rằng Tinwelint sẽ kỷ niệm [Cuộc săn lùng Sói](../H/Hunting_of_the_Wolf.md) bằng một cuộc săn lớn trong khu rừng gần biên giới Artanor.
 
-Trong khu rừng này, Tinwelint đã bị Naugladur giết chết, và đội quân Nogrod đã tàn phá Artanor. Đến Menegroth, với Naugladur ôm đầu Tinwelint và đeo Nauglafring quanh cổ, Ufedhin bước tới ngai vàng của Tinwelint và ngồi ngay cạnh vợ mình là Gwendelin, người đã khiển trách hành động của anh ta. Lời chửi rủa này sẽ tiếp tục ám ảnh Ufedhin.
+Trong khu rừng này, Tinwelint bị Naugladur giết chết và quân đội của Nogrod tàn phá Artanor. Đến Menegroth, với việc Naugladur ôm đầu Tinwelint và đeo Nauglafring quanh cổ, Ufedhin bước tới ngai vàng của Tinwelint và ngồi ngay cạnh vợ mình là Gwendelin, người đã khiển trách anh về hành động của mình. Lời chửi rủa này sẽ tiếp tục ám ảnh Ufedhin.
 
-Trên đường về Nogrod, Ufedhin đã cố giết Naugladur trong giấc ngủ vì thèm muốn Nauglafring. Bodruith, người cũng ham muốn chiếc vòng cổ, đã lần lượt cố gắng giết Ufedhin nhưng bị hắn giết chết. Lúc đó Naugladur tỉnh dậy nhưng Ufedhin đã bỏ trốn. Khi đang chạy trốn, anh ta đã bị bắt bởi [Tiên Xanh](../G/Green-elves.md) do [Beren](../B/Beren.md) cầm đầu, kẻ đã nghe tin về bao tải Artanor và cái chết của Tinwelint bởi Gwendelin. Tuy nhiên, anh ta đã che giấu danh tính của mình và nói cho Beren biết nơi Naugladur và chủ nhân của anh ta sẽ đi qua trên đường trở về Nogrod.
+Trên đường trở về Nogrod, Ufedhin đã cố gắng giết Naugladur trong giấc ngủ vì thèm muốn Nauglafring. Bodruith, người cũng ham muốn chiếc vòng cổ, đã lần lượt cố gắng giết Ufedhin nhưng bị hắn giết chết. Lúc đó Naugladur tỉnh dậy, nhưng Ufedhin đã bỏ trốn. Trong khi chạy trốn, anh đã bị bắt bởi [Yêu tinh xanh](../G/Green-elves.md) dẫn đầu bởi [Beren](../B/Beren.md), những kẻ đã nghe nói về việc Gwendelin bị bao vây Artanor và cái chết của Tinwelint. Tuy nhiên, ông ta đã che giấu danh tính của mình và nói với Beren nơi Naugladur và chủ nhà của ông ta sẽ đi qua trên đường trở về Nogrod.
 
-Cuối cùng, khi quân đội của Beren tiêu diệt Người Lùn và chính Beren giết chết Naugladur, Ufedhin đã nhìn thấy Gwendelin lần cuối cùng. Anh không thể chịu đựng được khi nhìn thấy cô, và bỏ chạy, la hét trong đau đớn và kinh hoàng. Không ai biết sau đó anh ta ra sao.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Cuối cùng, khi quân đội của Beren tiêu diệt Người lùn và chính Beren giết Naugladur, Ufedhin đã nhìn thấy Gwendelin lần cuối. Anh không thể chịu đựng được khi nhìn thấy cô, và bỏ chạy, la hét trong đau đớn và kinh hoàng. Không ai biết sau đó ông ta ra sao.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Ufedhin* là một từ [Gnomish](../G/Gnomish.md) có nghĩa là "kẻ bị ruồng bỏ, ngoài vòng pháp luật" hoặc "người thay đổi dòng tộc của mình và chuyển sang một họ hàng mới".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+*Ufedhin* là một từ [Gnomish](../G/Gnomish.md) có nghĩa là "kẻ bị ruồng bỏ, ngoài vòng pháp luật" hoặc "người thay đổi thị tộc của mình và chuyển sang một họ hàng mới".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

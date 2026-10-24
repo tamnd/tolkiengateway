@@ -45,7 +45,7 @@ infobox:
     - Bởi: C.S. Lewis
 - "Một nỗi đau buồn được quan sát: Nghiên cứu về suy nghĩ của C.S. Lewis về chủ đề này"
     - Bởi: Walter Hooper
-Niềm tin trí tuệ của - "C.S. Lewis và BBC: Nghiên cứu về khả năng phục hồi"
+- "C.S. Lewis và Quỹ Brains Trust của BBC: Nghiên cứu về khả năng phục hồi"
     - Bởi: Bruce R. Johnson
 - "'Sự thay đổi đang thay đổi': Giới hạn và Giới tính cho đến khi chúng ta có khuôn mặt"
     - Bởi: Suzanne Rosenthal Shumway

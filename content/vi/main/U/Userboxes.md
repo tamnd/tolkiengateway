@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Gateway:Userboxes"
 ---
 
-Chuyển hướng đến [Tolkien Gateway:Hộp người dùng](../../project/U/Userboxes.md).
+Chuyển hướng đến [Cổng Tolkien:Hộp người dùng](../../project/U/Userboxes.md).

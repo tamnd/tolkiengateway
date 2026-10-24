@@ -14,12 +14,12 @@ images:
   - "Disambig.png"
 ---
 
-**Snaga** là một thuật ngữ mang tính khinh thường dành cho [Orc](../O/Orcs.md) nhỏ hơn của [Mordor](../M/Mordor.md) và [Isengard](../I/Isengard.md), được sử dụng đặc biệt trong số [Uruk-hai](../U/Uruk-hai.md) lớn hơn và mạnh hơn. Nó xuất phát từ một từ trong [Hắc Ngữ](../B/Black_Speech.md) có nghĩa là 'nô lệ' hoặc 'người hầu'.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Snaga** là một thuật ngữ khinh thường dành cho những [Orc](../O/Orcs.md) nhỏ hơn của [Mordor](../M/Mordor.md) và [Isengard](../I/Isengard.md), được sử dụng đặc biệt giữa những [Uruk-hai](../U/Uruk-hai.md) lớn hơn và mạnh hơn. Nó xuất phát từ một từ trong [Bài phát biểu của người da đen](../B/Black_Speech.md) có nghĩa là 'nô lệ' hoặc 'người hầu'.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Có hai loài Orc được biết đến với cái tên (hoặc gọi) là "Snaga":
 
 - [Snaga (orc của Isengard)](<Snaga_(orc_of_Isengard).md>)
-- [Snaga (orc của Mordor)](<Snaga_(orc_of_Mordor).md>)
+- [Snaga (orc xứ Mordor)](<Snaga_(orc_of_Mordor).md>)
 
 <span></span>
 

@@ -12,21 +12,21 @@ categories:
   - "Roots"
 ---
 
-**RUKU** (hoặc **RUK**<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>) là một [Elvish](../E/Elvish.md) [gốc](../S/Sundocarme.md) biểu thị "*những hình dạng khủng khiếp ... được chụp bởi những người hầu của [Melkor](../M/Morgoth.md)*"<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> đã ám ảnh [Tiên tộc](../E/Elves.md) và "*the terror that they inspired*".<sup id="cite_ref-AC_3-0" class="reference"><a href="#cite_note-AC-3">[3]</a></sup>
+**RUKU** (hoặc **RUK**<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>) là một [Elvish](../E/Elvish.md) [gốc](../S/Sundocarme.md) biểu thị "*những hình dạng khủng khiếp ... được chụp bởi những người hầu của [Melkor](../M/Morgoth.md)*"<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> đã ám ảnh [Yêu tinh](../E/Elves.md) và "*the terror that they inspired*".<sup id="cite_ref-AC_3-0" class="reference"><a href="#cite_note-AC-3">[3]</a></sup>
 
 ## Công cụ phái sinh<sup id="cite_ref-AC_3-1" class="reference"><a href="#cite_note-AC-3">[3]</a></sup> {#Derivatives[3]}
 
-- [Primitive Quendian](../P/Primitive_Quendian.md): *ruk-*, *rauk-*, *uruk-*, *urk(u)*, *runk-*, *rukut/s*, *gruk-*, *guruk-*, *[ñguruk](../_/Ñguruk.md)*
-    - [Common Eldarin](../C/Common_Eldarin.md): *rauku*, *raukō*
+- [Quendian nguyên thủy](../P/Primitive_Quendian.md): *ruk-*, *rauk-*, *uruk-*, *urk(u)*, *runk-*, *rukut/s*, *gruk-*, *guruk-*, *[ñguruk](../_/Ñguruk.md)*
+    - [Eldarin thông thường](../C/Common_Eldarin.md): *rauku*, *raukō*
         - [Quenya](../Q/Quenya.md): *[rauko](Rauko.md)*
-        - [Sindarin](../S/Sindarin.md): *[raug](Raug.md)*
-    - [Common Eldarin](../C/Common_Eldarin.md): *urku*, *uruku*
+        - [Tiếng Sindarin](../S/Sindarin.md): *[raug](Raug.md)*
+    - [Eldarin thông thường](../C/Common_Eldarin.md): *urku*, *uruku*
         - [Quenya](../Q/Quenya.md): *urko*
-        - [Sindarin](../S/Sindarin.md): *urug*
-    - [Common Eldarin](../C/Common_Eldarin.md): *urkō*, *urkā*
-        - [Sindarin](../S/Sindarin.md): *[Orch](../O/Orch.md)*
-    - [Adûnaic](../A/Adûnaic.md): *urku*, *urkhu*
-    - [Hắc Ngữ](../B/Black_Speech.md): *[uruk](../U/Uruk.md)*
+        - [Tiếng Sindarin](../S/Sindarin.md): *urug*
+    - [Eldarin thông thường](../C/Common_Eldarin.md): *urkō*, *urkā*
+        - [Tiếng Sindarin](../S/Sindarin.md): *[Orch](../O/Orch.md)*
+    - [Quảng cáo](../A/Adûnaic.md): *urku*, *urkhu*
+    - [Bài phát biểu của người da đen](../B/Black_Speech.md): *[uruk](../U/Uruk.md)*
     - [Khuzdul](../K/Khuzdul.md): *[Rukhs](Rukhs.md)*
 
 ## Phiên bản khác {#Other_versions}
@@ -35,11 +35,11 @@ Trong [*Etymologies*](../T/The_Etymologies.md) xuất hiện gốc **RUK**, bi�
 
 Ngoài ra trong [*Etymologies*](../T/The_Etymologies.md) xuất hiện gốc **ÓROK**, từ đó dẫn xuất các từ biểu thị "[goblin](../O/Orcs.md#Orcs_and_Goblins)":<sup id="cite_ref-LR379_5-0" class="reference"><a href="#cite_note-LR379-5">[5]</a></sup>
 
-- [Primitive Quendian](../P/Primitive_Quendian.md): *órku*
+- [Quendian nguyên thủy](../P/Primitive_Quendian.md): *órku*
     - [Quenya](../Q/Quenya.md): *orko* (vui lòng *orqi*)
-    - [Noldorin](../N/Noldorin.md): *orch* (pl *yrch*, cổ điển *yrchy*<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>)
+    - [Noldorin](../N/Noldorin.md): *orch* (pl *yrch*, cổ xưa *yrchy*<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>)
     - [Danian](../N/Nandorin.md): *urc* (vui lòng *yrc*)
-    - [Doriathrin](../D/Doriathrin.md): *urch* (vui lòng *urchin*)
+    - [Doriathrin](../D/Doriathrin.md): *urch* (pl. *urchin*)
 
 ## Xem thêm {#See_also}
 

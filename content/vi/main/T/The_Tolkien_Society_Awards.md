@@ -14,9 +14,9 @@ sort_keys:
   "The Tolkien Society": "Awards, the Tolkien Society"
 ---
 
-**[Tolkien Hiệp hội](Tolkien_Society.md)** trao năm **Giải thưởng** hàng năm như một cách để ghi nhận sự xuất sắc trong [Tolkien nghiên cứu](Tolkien_studies.md), nghệ thuật và [fandom](../F/Fandom.md). Người chiến thắng được công bố trong Bữa tối thường niên tại Đại hội đồng thường niên của Hiệp hội.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Nếu có bất kỳ quả báo nào được đưa ra, nó sẽ không được nêu rõ.
+**[Hiệp hội Tolkien](Tolkien_Society.md)** trao năm **Giải thưởng** hàng năm như một cách để ghi nhận sự xuất sắc trong [nghiên cứu về Tolkien](Tolkien_studies.md), nghệ thuật và [fandom](../F/Fandom.md). Người chiến thắng được công bố trong Bữa tối thường niên tại Đại hội đồng thường niên của Hiệp hội.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Nếu có bất kỳ quả báo nào được đưa ra, nó sẽ không được nêu rõ.
 
-Hàng năm, các thành viên của Hiệp hội Tolkien có thể đề cử những người được đề cử và bỏ phiếu cho họ theo bốn hạng mục:
+Hàng năm, các thành viên của Hiệp hội Tolkien có thể đề xuất những người được đề cử và bỏ phiếu cho họ theo bốn hạng mục:
 
 - Tác phẩm nghệ thuật xuất sắc nhất
 - Bài viết hay nhất

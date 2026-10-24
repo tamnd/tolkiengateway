@@ -25,7 +25,7 @@ langlinks:
     url: "https://kontu.wiki/Ringar%C3%AB"
 ---
 
-**Ringarë** là tháng cuối cùng trong năm theo [Kings'](../K/Kings'_Reckoning.md) và [Quản lý'](../S/Stewards'_Reckoning.md) của [Gondor](../G/Gondor.md) và là tháng thứ chín theo [Tính toán mới](../N/New_Reckoning.md). Ringarë trong Cuộc tính toán của các vị vua và quản lý tương ứng với [Foreyule](../F/Foreyule.md) trong [Lịch Shire](../S/Shire_Calendar.md) (khoảng [21 tháng 11](../_/21_November.md) đến [20 tháng 12](../_/20_December.md) hiện đại). Tên [Sindarin](../S/Sindarin.md) là [Girithron](../G/Girithron.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Ringarë** was the last month of the year according to the [Kings'](../K/Kings'_Reckoning.md) and [Stewards' Reckoning](../S/Stewards'_Reckoning.md) of [Gondor](../G/Gondor.md), and the ninth month according to the [New Reckoning](../N/New_Reckoning.md). Ringarë in the Kings' and Stewards' Reckoning corresponded to [Foreyule](../F/Foreyule.md) in the [Shire Calendar](../S/Shire_Calendar.md) (approximately modern [21 November](../_/21_November.md) through [20 December](../_/20_December.md)). The [Sindarin](../S/Sindarin.md) name was [Girithron](../G/Girithron.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Rudder, Jonathan"
 ---
 
-**Jonathan Rudder** là một tác giả người Mỹ và là nhà văn cho [The Lord of the Rings Trực tuyến](../T/The_Lord_of_the_Rings_Online.md).
+**Jonathan Rudder** là tác giả người Mỹ và là nhà văn cho [The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md).
 
 ## Liên kết ngoài {#External_links}
 

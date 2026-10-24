@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Third Age 977"
 ---
 
-Chuyển hướng tới [Kỷ Đệ Tam 977](Third_Age_977.md).
+Chuyển hướng tới [Thời đại thứ ba 977](Third_Age_977.md).

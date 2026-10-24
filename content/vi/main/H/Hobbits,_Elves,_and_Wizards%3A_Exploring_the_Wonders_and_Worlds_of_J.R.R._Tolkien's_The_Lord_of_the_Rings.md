@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hobbits, Elves, and Wizards"
 ---
 
-Chuyển hướng đến [Hobbit, Tiên tộc và Pháp sư](Hobbits,_Elves,_and_Wizards.md).
+Chuyển hướng đến [Người Hobbit, Yêu tinh và Pháp sư](Hobbits,_Elves,_and_Wizards.md).

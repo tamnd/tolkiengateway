@@ -66,17 +66,17 @@ Sự kiện xảy ra vào ngày 9 tháng 11
 ## Trên Trái đất {#On_Earth}
 
 - **[1898](1898.md)** - [Inkling](../I/Inklings.md) [Owen Barfield](../O/Owen_Barfield.md) ra đời.
-- **[1933](1933.md)** - Bài thơ "[Errantry](../E/Errantry.md)" của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được đăng trên *The Oxford Magazine*.
-- **[1957](1957.md)** - Lúc nửa đêm, [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một bức thư cho Przemyslaw Mroczkowski](<../L/Letter_to_Przemyslaw_Mroczkowski_(9%252F10_November_1957).md>).
+- **[1933](1933.md)** - Bài thơ "[Lỗi lầm](../E/Errantry.md)" của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được đăng trên *The Oxford Magazine*.
+- **[1957](1957.md)** - Vào lúc nửa đêm, [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một bức thư cho Przemyslaw Mroczkowski](<../L/Letter_to_Przemyslaw_Mroczkowski_(9%252F10_November_1957).md>).
 - <b><a href="1967.md" title="1967">1967</a> - <i><a href="../S/Smith_of_Wootton_Major.md" title="Smith of Wootton Major">Smith of Wootton Major</a></i> được xuất bản lần đầu tiên ở Anh.</b>
 - **[1972](1972.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 342](../L/Letter_342.md).
-- **[2001](2001.md)** - Người dịch [Xé Zetterholm](../T/Tore_Zetterholm.md) qua đời.
+- **[2001](2001.md)** - Người phiên dịch [Xé Zetterholm](../T/Tore_Zetterholm.md) qua đời.
 - **[2011](2011.md)** - *[The Lord of the Rings: War in the North](../T/The_Lord_of_the_Rings%253A_War_in_the_North.md)* được phát hành tại Đức và Nga.
 - <b><a href="2023.md" title="2023">2023</a> - Phiên bản sửa đổi và mở rộng của <i><a href="../T/The_Letters_of_J.R.R._Tolkien.md" title="The Letters of J.R.R. Tolkien">Những bức thư của J.R.R. Tolkien</a></i> được xuất bản ở Vương quốc Anh.</b>
 
 ## Trong Arda {#In_Arda}
 
 - [F.A.](../F/First_Age.md) [495](../F/First_Age_495.md):
-    - [Tuor](../T/Tuor.md), được hướng dẫn bởi [Voronwë](../V/Voronwë.md), di chuyển đến [Gondolin](../G/Gondolin.md) để chuyển thông điệp của [Ulmo](../U/Ulmo.md) tới [Turgon](../T/Turgon.md).
+    - [Tuor](../T/Tuor.md), được hướng dẫn bởi [Voronwë](../V/Voronwë.md), đi đến [Gondolin](../G/Gondolin.md) để chuyển thông điệp của [Ulmo](../U/Ulmo.md) tới [Turgon](../T/Turgon.md).
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi ở [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).
+    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi tại [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).

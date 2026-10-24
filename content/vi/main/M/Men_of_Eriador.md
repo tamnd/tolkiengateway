@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Middle Men"
 ---
 
-Chuyển hướng tới [Giữa Con Người](Middle_Men.md).
+Chuyển hướng đến [Trung nam](Middle_Men.md).

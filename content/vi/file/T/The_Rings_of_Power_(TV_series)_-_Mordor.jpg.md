@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Vùng đất [Mordor](../../main/M/Mordor.md) trong những tháng đầu tiên sau [Orodruin](../../main/M/Mount_Doom.md) lại bùng cháy trong tập [Alloyed](../../main/A/Alloyed.md) của mùa đầu tiên của loạt phim [The Lord of the Rings: The Rings of Power](../../main/T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md).
+Vùng đất [Mordor](../../main/M/Mordor.md) trong những tháng đầu tiên sau khi [Orodruin](../../main/M/Mount_Doom.md) bùng cháy trở lại trong tập [Alloyed](../../main/A/Alloyed.md) của mùa đầu tiên của loạt phim [The Lord of the Rings: The Rings of Power](../../main/T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md).
 
 ## Giấy phép {#Licensing}
 

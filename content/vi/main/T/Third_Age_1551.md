@@ -16,12 +16,12 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><a href="../F/First_Age.md" title="First Age">I</a><a href="../S/Second_Age.md" title="Second Age">II</a><b>III</b><a href="../F/Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="Third_Age_1490.md" title="Third Age 1490">1490</a><a href="Third_Age_1516.md" title="Third Age 1516">1516</a><a href="Third_Age_1540.md" title="Third Age 1540">1540</a><a class="mw-selflink selflink">1551</a><a href="Third_Age_1553.md" title="Third Age 1553">1553</a><a href="Third_Age_1577.md" title="Third Age 1577">1577</a><a href="Third_Age_1589.md" title="Third Age 1589">1589</a></div></div></div></div></div></div>
 
-**Kỷ Đệ Tam 1551** (viết tắt là **T.A. 1551**) là năm [thứ 1551 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Tam](Third_Age.md) của [Trung Địa](../M/Middle-earth.md).
+**Thời đại thứ ba 1551** (viết tắt là **T.A. 1551**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 1551 của [Thời đại thứ ba](Third_Age.md) của [Trung Địa](../M/Middle-earth.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- [Vinyarion](../H/Hyarmendacil_II.md) đánh bại [Con Người](../H/Haradrim.md) của [Harad](../H/Harad.md).<sup id="cite_ref-AppB2_1-0" class="reference"><a href="#cite_note-AppB2-1">[1]</a></sup>
-- Vinyarion lấy tên *Hyarmendacil II*, có nghĩa là "Người chiến thắng miền Nam", như một dấu hiệu cho chiến thắng của anh ấy trong [Haradrim](../H/Haradrim.md).<sup id="cite_ref-PM_2-0" class="reference"><a href="#cite_note-PM-2">[2]</a></sup>
+- [Vinyarion](../H/Hyarmendacil_II.md) đánh bại [Người](../H/Haradrim.md) của [Harad](../H/Harad.md).<sup id="cite_ref-AppB2_1-0" class="reference"><a href="#cite_note-AppB2-1">[1]</a></sup>
+- Vinyarion lấy tên *Hyarmendacil II*, có nghĩa là "Người chiến thắng miền Nam", như một dấu hiệu cho chiến thắng của ông trước [Haradrim](../H/Haradrim.md).<sup id="cite_ref-PM_2-0" class="reference"><a href="#cite_note-PM-2">[2]</a></sup>
 
 <span></span>
 

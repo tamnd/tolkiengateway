@@ -43,7 +43,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/E/Ecological_Augury.png.md"><img src="https://tolkiengateway.net/w/images/c/c7/Ecological_Augury.png" decoding="async" loading="lazy" width="280" height="420" class="mw-file-element" data-file-width="280" data-file-height="420"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Ecological Augury in the Works of JRR Tolkien</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a href="../L/Liam_Campbell.md" title="Liam Campbell">Liam Campbell</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../W/Walking_Tree_Publishers.md" title="Walking Tree Publishers">Walking Tree Publishers</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/3_August.md" title="3 August">3 August</a> <a href="../_/2011.md" title="2011">2011</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">305</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/978-3-905703-18-4" title="Special:BookSources/978-3-905703-18-4">978-3-905703-18-4</a></td></tr><tr><th scope="row" class="tg-infobox-label">Series</th><td class="tg-infobox-data"><a href="../C/Cormarë_Series.md" title="Cormarë Series">Cormarë Series</a></td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="../M/Music_in_Middle-earth.md" title="Music in Middle-earth">Music in Middle-earth</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="The_Loss_and_the_Silence.md" title="The Loss and the Silence">The Loss and the Silence: Aspects of Modernism in the Works of C.S. Lewis, J.R.R. Tolkien &amp; Charles Williams</a></td></tr></tbody></table>
 
-<i><b>Khảo sát sinh thái trong tác phẩm của JRR Tolkien</b></i> là cuốn sách [2011](../_/2011.md) điều tra các chủ đề môi trường trong sách của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Nó được xuất bản ở vị trí thứ 21 trong [Sê-ri Cormarë](../C/Cormarë_Series.md).
+<i><b>Sự khám phá sinh thái trong các tác phẩm của JRR Tolkien</b></i> là một cuốn sách [2011](../_/2011.md) nghiên cứu các chủ đề môi trường trong các cuốn sách của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Nó được xuất bản ở vị trí thứ 21 trong [Sê-ri Cormarë](../C/Cormarë_Series.md).
 
 ## Từ nhà xuất bản {#From_the_publisher}
 
@@ -56,18 +56,18 @@ infobox:
 
 - Giới thiệu
 - Chương 1: "Cơn thịnh nộ chống lại cỗ máy"
-- Chương Hai: "Đối chiếu các nhân vật môi trường trong *The Lord of the Rings*: Tom Bombadil và Saruman"
-- Chương Ba: "Đối chiếu các nhân vật môi trường trong *The Lord of the Rings*: Gandalf và Sauron"
-- Chương 4: "Nhìn thế giới qua đôi mắt Elvish: Nghiên cứu về con người và phi con người trong tiểu thuyết của Tolkien"
+- Chương 2: "Sự tương phản giữa các nhân vật môi trường trong *The Lord of the Rings*: Tom Bombadil và Saruman"
+- Chương Ba: "So sánh các nhân vật môi trường trong *The Lord of the Rings*: Gandalf và Sauron"
+- Chương 4: "Nhìn thế giới qua đôi mắt thần tiên: Nghiên cứu về con người và phi nhân loại trong tiểu thuyết của Tolkien"
 - Chương Năm: "Những câu chuyện lớn lên trong lời kể"
 - Kết luận: “Những tấm gương rừng vàng”
 - Lời bạt: "Rắc rối với cây cối"
 
 ## Tài liệu chưa được xuất bản trước đây của Tolkien {#Formerly_unpublished_material_by_Tolkien}
 
-Bao gồm trong *Tổ hợp sinh thái trong các tác phẩm của JRR Tolkien* là một tuyên bố một câu của J.R.R. Tolkien (tr. 252) được ghi nhớ bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=Pamela_Chandler&amp;action=edit&amp;redlink=1" title="Pamela Chandler (page does not exist)">Pamela Chandler</a> (trích từ nhật ký của cô ấy).
+Trong *Tổ hợp sinh thái trong các tác phẩm của JRR Tolkien* là một tuyên bố một câu của J.R.R. Tolkien (tr. 252) được ghi nhớ bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=Pamela_Chandler&amp;action=edit&amp;redlink=1" title="Pamela Chandler (page does not exist)">Pamela Chandler</a> (trích từ nhật ký của bà).
 
-Tài liệu hiếm (hoặc khó tìm) Tolkien xuất hiện trong cuốn sách bao gồm một trích dẫn hào phóng từ [1966 *Oxford Mail* cuộc phỏng vấn](../../index/I/Interviews_with_J.R.R._Tolkien.md) (trang 55–6) và một trích dẫn ngắn gọn từ [Bài phỏng vấn BBC năm 1965](../_/1965_BBC_Interview.md) (tr. 214).
+Tài liệu hiếm (hoặc khó tìm) của Tolkien xuất hiện trong cuốn sách bao gồm một trích dẫn hào phóng từ [1966 *Oxford Mail* cuộc phỏng vấn](../../index/I/Interviews_with_J.R.R._Tolkien.md) (trang 55–6) và một trích dẫn ngắn gọn từ [Cuộc phỏng vấn BBC năm 1965](../_/1965_BBC_Interview.md) (tr. 214).
 
 ## Liên kết ngoài {#External_links}
 

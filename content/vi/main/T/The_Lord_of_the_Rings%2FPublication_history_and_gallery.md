@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lord of the Rings/Publication history and gallery three-volume"
 ---
 
-Chuyển hướng đến [The Lord of the Rings/Lịch sử xuất bản và thư viện ba tập](The_Lord_of_the_Rings%252FPublication_history_and_gallery_three-volume.md).
+Chuyển hướng đến [The Lord of the Rings/Publication history and gallery three-volume](The_Lord_of_the_Rings%252FPublication_history_and_gallery_three-volume.md).

@@ -13,7 +13,7 @@ categories:
   - "Songs"
 ---
 
-**I Had An Errand There: Lượm hoa huệ nước** là một trong những bài hát được hát bởi [Tom Bombadil](../T/Tom_Bombadil.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**I Had An Errand There: Gathering Water-Lilies** là một trong những bài hát được hát bởi [Tom Bombadil](../T/Tom_Bombadil.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Bài thơ {#The_poem}
 

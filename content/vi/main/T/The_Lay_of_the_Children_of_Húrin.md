@@ -53,17 +53,17 @@ images:
 <li><a href="The_Lay_of_Leithian_Recommenced.md" title="The Lay of Leithian Recommenced">The Lay of Leithian Recommenced</a></li></ol>
 </td></tr></tbody></table>
 
-**The Lay of the Children of Húrin** là một tác phẩm được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và là chương đầu tiên của *[The Lays of Beleriand](The_Lays_of_Beleriand.md)*.
+**The Lay of Children of Húrin** là một tác phẩm được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và là chương đầu tiên của *[The Lays of Beleriand](The_Lays_of_Beleriand.md)*.
 
 ## Nội dung {#Contents}
 
 - Mở đầu (Húrin và Morgoth)
-Sự bồi dưỡng của     - Túrin
+    - Sự bồi dưỡng của Turin
     - Beleg
-    - Failivrin
+    - Thất bại
 - Phiên bản thứ hai của Lay
     - (Húrin và Morgoth)
-Sự bồi dưỡng của     - Túrin
+    - Sự bồi dưỡng của Turin
 
 <span></span>
 

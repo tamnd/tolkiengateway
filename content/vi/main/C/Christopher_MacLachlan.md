@@ -24,7 +24,7 @@ sort_keys:
 
 ### Sách {#Books}
 
-- [2012](../_/2012.md): <i><a href="../T/Tolkien_and_Wagner.md" title="Tolkien and Wagner">Tolkien và Wagner: Nhẫn và <i>Der Nhẫn</i></a></i>
+- [2012](../_/2012.md): <i><a href="../T/Tolkien_and_Wagner.md" title="Tolkien and Wagner">Tolkien và Wagner: Chiếc nhẫn và <i>Chiếc nhẫn Der</i></a></i>
 
 ## Liên kết ngoài {#External_links}
 

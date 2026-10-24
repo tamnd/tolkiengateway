@@ -27,16 +27,16 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>On some stars, flowers &amp; places in Middle-earth</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../D/Didier_Willis.md" title="Didier Willis">Didier Willis</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Le Dragon de Brume</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">2023 November</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">118</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/978-2-9539896-7-0" title="Special:BookSources/978-2-9539896-7-0">978-2-9539896-7-0</a></td></tr></tbody></table>
 
-**Về một số vì sao, hoa & địa điểm trong Trung Địa** là một tuyển tập nhỏ các bài tiểu luận về Trung Địa, được trích từ các tập trước do Le Rồng de Brume xuất bản và dịch từ tiếng Pháp sang tiếng Anh.
+**Về một số ngôi sao, hoa và địa điểm ở Trung Địa** là một tập hợp nhỏ các bài tiểu luận về Trung Địa, được trích từ các tập trước do Le Dragon de Brume xuất bản và được dịch từ tiếng Pháp sang tiếng Anh.
 
 Tập này có sẵn dưới dạng bản in, nhưng phiên bản PDF đầy đủ cũng được cung cấp trên trang web của người biên tập.
 
 ## Nội dung {#Contents}
 
 - Về câu chuyện thất lạc của Sao Thủy
-- Trên ngôi sao đỏ gần Mặt Trăng của Thợ săn
+- Trên ngôi sao đỏ gần Mặt trăng của thợ săn
 - Trên cánh đồng mallos và alfirin ở Elysian
-- Trên một cô gái tóc rối bù
+- Trên một nữ thần tóc rối bù
 - Trên tàu bay, thần thoại và Cỗ máy
 - Về tác giả và cộng tác viên
 

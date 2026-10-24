@@ -12,7 +12,7 @@ categories:
   - "Animals"
 ---
 
-**Hải cẩu** là động vật có vú sống dưới nước. Cùng với [kỳ lân biển](../N/Narwhals.md), họ đã kéo xe của [Ulmo](../U/Ulmo.md) vượt biển.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Hải cẩu** là động vật có vú sống dưới nước. Cùng với [kỳ lân biển](../N/Narwhals.md) họ đã kéo xe của [Ulmo](../U/Ulmo.md) vượt biển.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

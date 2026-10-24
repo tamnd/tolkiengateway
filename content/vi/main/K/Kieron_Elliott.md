@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Elliott, Kieron"
 ---
 
-**Kieron Elliott** là một diễn viên người Scotland. Anh ấy lồng tiếng cho vai [Pippin](../P/Peregrin_Took.md) của [Billy Boyd](../B/Billy_Boyd.md) trong *[The Lord of the Rings: Aragorn's Quest](../T/The_Lord_of_the_Rings%253A_Aragorn's_Quest.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Kieron Elliott** là một diễn viên người Scotland. Ông lồng tiếng cho vai [Pippin](../P/Peregrin_Took.md) của [Billy Boyd](../B/Billy_Boyd.md) trong *[The Lord of the Rings: Aragorn's Quest](../T/The_Lord_of_the_Rings%253A_Aragorn's_Quest.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Liên kết ngoài {#External_links}
 

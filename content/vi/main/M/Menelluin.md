@@ -21,7 +21,7 @@ images:
 
 **Menelluin** là tên [Elvish](../E/Elvish.md) của "hoa ngô".
 
-Đó là biểu tượng của [Idril Celebrindal](../I/Idril.md), được cho là một tấm bảng khảm được lưu lại từ [Gondolin](../G/Gondolin.md) và truyền xuống [Eärendil](../E/Eärendil.md) và con trai ông [Elros](../E/Elros.md) và chịu ảnh hưởng từ các thiết kế hình tròn [Númenórean](../N/Númenóreans.md). Biểu tượng đã được [Elendil](../E/Elendil.md) đưa tới [Gondor](../G/Gondor.md).
+Đó là biểu tượng của [Idril Celebrindal](../I/Idril.md), được cho là một tấm bảng dát được cứu từ [Gondolin](../G/Gondolin.md) và truyền xuống [Eärendil](../E/Eärendil.md) và con trai ông [Elros](../E/Elros.md) và ảnh hưởng đến các thiết kế hình tròn của [Númenórean](../N/Númenóreans.md). Biểu tượng đã được [Gondor](../G/Gondor.md) đưa tới [Elendil](../E/Elendil.md).
 
 ## Từ nguyên {#Etymology}
 

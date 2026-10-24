@@ -14,15 +14,15 @@ categories:
   - "Sindarin nouns"
 ---
 
-## Sindarin {#Sindarin}
+## Tiếng Sindarin {#Sindarin}
 
-<i><b>paur</b></i> là một từ [Sindarin](../S/Sindarin.md) có nghĩa là "nắm đấm", giống như một bàn tay nắm chặt quanh một công cụ hoặc nông cụ. Dạng [lenited](../L/Lenition.md) <i><b>baur</b></i> dường như có thể được rút ngắn thành *-bor* (như trong <i><a href="../C/Celebrimbor.md#Etymology" title="Celebrimbor">Celebrim<b>bor</b></a></i>).<sup id="cite_ref-PM_1-0" class="reference"><a href="#cite_note-PM-1">[1]</a></sup><sup id="cite_ref-VT_2-0" class="reference"><a href="#cite_note-VT-2">[2]</a></sup><sup id="cite_ref-PE17_3-0" class="reference"><a href="#cite_note-PE17-3">[3]</a></sup>
+<i><b>paur</b></i> là một từ [tiếng Sindarin](../S/Sindarin.md) có nghĩa là "nắm đấm", giống như một bàn tay nắm chặt quanh một công cụ hoặc nông cụ. Dạng [lenited](../L/Lenition.md) <i><b>baur</b></i> dường như có thể được rút ngắn thành *-bor* (như trong <i><a href="../C/Celebrimbor.md#Etymology" title="Celebrimbor">Celebrim<b>bor</b></a></i>).<sup id="cite_ref-PM_1-0" class="reference"><a href="#cite_note-PM-1">[1]</a></sup><sup id="cite_ref-VT_2-0" class="reference"><a href="#cite_note-VT-2">[2]</a></sup><sup id="cite_ref-PE17_3-0" class="reference"><a href="#cite_note-PE17-3">[3]</a></sup>
 
 ### Từ nguyên {#Etymology}
 
-Trong một bản thảo muộn, từ này là dạng hậu duệ của [Primitive Quendian](Primitive_Quendian.md) *[kwāră](../K/Kwāra.md)*, bắt nguồn từ [gốc](../S/Sundocarme.md) [KWAR](../K/KWAR.md).<sup id="cite_ref-PM_1-1" class="reference"><a href="#cite_note-PM-1">[1]</a></sup><sup id="cite_ref-VT_2-1" class="reference"><a href="#cite_note-VT-2">[2]</a></sup>
+Trong một bản thảo muộn, từ này là dạng hậu duệ của [Quendian nguyên thủy](Primitive_Quendian.md) *[kwāră](../K/Kwāra.md)*, bắt nguồn từ [gốc](../S/Sundocarme.md) [KWAR](../K/KWAR.md).<sup id="cite_ref-PM_1-1" class="reference"><a href="#cite_note-PM-1">[1]</a></sup><sup id="cite_ref-VT_2-1" class="reference"><a href="#cite_note-VT-2">[2]</a></sup>
 
-Trong bản viết tay trước đó, từ này là dạng hậu duệ của [Primitive Quendian](Primitive_Quendian.md) *[kwārē](../K/Kwāra.md)* (có cùng gốc).<sup id="cite_ref-PE17_3-1" class="reference"><a href="#cite_note-PE17-3">[3]</a></sup>
+Trong bản thảo trước đó, từ này là dạng hậu duệ của [Quendian nguyên thủy](Primitive_Quendian.md) *[kwārē](../K/Kwāra.md)* (bắt nguồn từ cùng một gốc).<sup id="cite_ref-PE17_3-1" class="reference"><a href="#cite_note-PE17-3">[3]</a></sup>
 
 ### Có cùng nguồn gốc {#Cognates}
 
@@ -37,11 +37,11 @@ Trong bản viết tay trước đó, từ này là dạng hậu duệ của [Pr
 
 ## Noldorin {#Noldorin}
 
-<i><b>paur</b></i> (hoặc *-bor*) là một từ [Noldorin](../N/Noldorin.md) có nghĩa là "nắm đấm".<sup id="cite_ref-LR_4-0" class="reference"><a href="#cite_note-LR-4">[4]</a></sup>
+<i><b>paur</b></i> (hoặc *-bor*) là từ [Noldorin](../N/Noldorin.md) có nghĩa là "nắm đấm".<sup id="cite_ref-LR_4-0" class="reference"><a href="#cite_note-LR-4">[4]</a></sup>
 
 ### Từ nguyên {#Etymology_2}
 
-Từ này là dạng con cháu của [Old Noldorin](../K/Kornoldorin.md) *pōre*, bắt nguồn từ [gốc](../S/Sundocarme.md) [KWAR](../K/KWAR.md#Other_versions).<sup id="cite_ref-LR_4-1" class="reference"><a href="#cite_note-LR-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Từ này là dạng hậu duệ của [Old Noldorin](../K/Kornoldorin.md) *pōre*, bắt nguồn từ [gốc](../S/Sundocarme.md) [KWAR](../K/KWAR.md#Other_versions).<sup id="cite_ref-LR_4-1" class="reference"><a href="#cite_note-LR-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 <span></span>
 

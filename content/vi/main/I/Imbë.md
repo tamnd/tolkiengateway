@@ -27,9 +27,9 @@ Từ [Quenya](../Q/Quenya.md) <i><b>imbë</b></i> (hoặc <i><b>imbe</b></i>) c�
 
 "<i><a href="I.md" title="I">i</a> falmalinnar <b>imbë</b> met, ar hísië</i>" ('trên những con sóng sủi bọt **giữa** chúng ta và sương mù')<sup id="cite_ref-RGEO_1-1" class="reference"><a href="#cite_note-RGEO-1">[1]</a></sup>
 
-## Elvish {#Elvish}
+## Người Tiên {#Elvish}
 
-Từ <i><b>imbe</b></i>, trong một ngôn ngữ [Elvish](../E/Elvish.md) không xác định, được cho là có nghĩa là "ở (phường)".<sup id="cite_ref-VT_3-0" class="reference"><a href="#cite_note-VT-3">[3]</a></sup>
+Từ <i><b>imbe</b></i>, trong một ngôn ngữ [Elvish](../E/Elvish.md) không xác định, được cho là có nghĩa là "trong(wards)".<sup id="cite_ref-VT_3-0" class="reference"><a href="#cite_note-VT-3">[3]</a></sup>
 
 [Helge Fauskanger](../H/Helge_Fauskanger.md) đã gợi ý rằng từ đó có thể là [Quenya](../Q/Quenya.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 

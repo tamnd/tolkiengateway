@@ -15,7 +15,7 @@ sort_keys:
   "Letters": "Brett-Smith, H.F.B. (1925-07-22)"
 ---
 
-Vào [22 tháng 7](../_/22_July.md) [1925](../_/1925.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho** H.F.B. Brett-Smith<b>.<sup id="cite_ref-wheaton_1-0" class="reference"><a href="#cite_note-wheaton-1">[1]</a></sup></b>
+Vào [22 tháng 7](../_/22_July.md) [1925](../_/1925.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) gửi** H.F.B. Brett-Smith<b>.<sup id="cite_ref-wheaton_1-0" class="reference"><a href="#cite_note-wheaton-1">[1]</a></sup></b>
 
 - **Mô tả:** Thư viết tay, 2 trang.
 - **Chủ đề:** Tolkien đang thảo luận về học thuật tại Đại học Leeds và thơ của Tolkien.

@@ -25,7 +25,7 @@ sort_keys:
 ## 1972 {#1972}
 
 - [Sagan om Ringen](<../../main/S/Sagan_om_Ringen_(album).md>)
-- [Trực tiếp trên núi: The Road Goes Ever On](../../main/M/Mountain_Live%253A_The_Road_Goes_Ever_On.md)
+- [Mountain Live: The Road Goes Ever On](../../main/M/Mountain_Live%253A_The_Road_Goes_Ever_On.md)
 
 ## 1990 {#1990}
 
@@ -56,7 +56,7 @@ sort_keys:
 
 ## 1998 {#1998}
 
-- [Nightfall in Middle-Earth](../../main/N/Nightfall_in_Middle-Earth.md)
+- [Chạng vạng ở Trung Địa](../../main/N/Nightfall_in_Middle-Earth.md)
 
 ## 1999 {#1999}
 

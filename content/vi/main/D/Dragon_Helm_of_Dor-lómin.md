@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dragon-helm of Dor-lómin"
 ---
 
-Chuyển hướng tới [Mũ Rồng của Dor-lómin](Dragon-helm_of_Dor-lómin.md).
+Chuyển hướng tới [Mũ bảo hiểm rồng của Dor-lómin](Dragon-helm_of_Dor-lómin.md).

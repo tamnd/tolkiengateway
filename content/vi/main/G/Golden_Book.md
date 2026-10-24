@@ -21,15 +21,15 @@ images:
 <p class="tg-quote-footer"><cite><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a></cite></p>
 </blockquote></div></div>
 
-<i><b>Sách Vàng</b></i> ([Q.](../Q/Quenya.md)*Parma Kuluina*) là cuốn sách về lịch sử của [Ngày của Người cao tuổi](../E/Elder_Days.md), được lưu giữ bởi Tiên tộc của [Tol Eressëa](../T/Tol_Eressëa.md) tại thành phố [Kortirion](../K/Kortirion.md) của họ. [Pengolodh](../P/Pengolodh.md) đã tham khảo Sách Vàng khi biên soạn *[Quenta Silmarillion](../Q/Quenta_Silmarillion.md)*. [Eriol](../E/Eriol.md)/[Ælfwine](../_/Ælfwine.md) được phép đọc *Parma Kuluina*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+<i><b>Sách Vàng</b></i> ([Q.](../Q/Quenya.md)*Parma Kuluina*) là cuốn sách về lịch sử của [Ngày của Người cao tuổi](../E/Elder_Days.md), được lưu giữ bởi Yêu tinh của [Tol Eressëa](../T/Tol_Eressëa.md) tại thành phố [Kortirion](../K/Kortirion.md) của họ. [Pengolodh](../P/Pengolodh.md) đã tham khảo Sách Vàng khi biên soạn *[Quenta Silmarillion](../Q/Quenta_Silmarillion.md)*. [Eriol](../E/Eriol.md)/[Ælfwine](../_/Ælfwine.md) được phép đọc *Parma Kuluina*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Parma Kuluina* là [Quenya](../Q/Quenya.md) cho "Sách Vàng", gồm *[parma](../P/Parma.md)* ("sách") + *kuluina* ("cam; bằng vàng, vàng").<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+*Parma Kuluina* là [Quenya](../Q/Quenya.md) cho "Sách vàng", bao gồm *[parma](../P/Parma.md)* ("sách") + *kuluina* ("cam; bằng vàng, vàng").<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Tên [Qenya](../Q/Qenya.md) trước đó của Sách Vàng được hiển thị là *Parma Kuluinen*,<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Bao gồm *[Parma](../P/Parma.md)* ("da, vỏ cây; giấy da; sách, chữ viết") từ gốc PARA.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> Nó còn được gọi là **Sách Vàng của [Heorrenda](../H/Heorrenda.md)**<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
+Tên [Qenya](../Q/Qenya.md) trước đây của Sách Vàng được hiển thị là *Parma Kuluinen*,<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Bao gồm *[Parma](../P/Parma.md)* ("da, vỏ cây; giấy da; sách, chữ viết") từ gốc PARA.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> Nó còn được gọi là **Sách Vàng của [Heorrenda](../H/Heorrenda.md)**<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
 
 <span></span>
 

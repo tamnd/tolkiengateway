@@ -66,14 +66,14 @@ Sự kiện xảy ra vào ngày 18 tháng 6
 ## Trên Trái đất {#On_Earth}
 
 - **[1905](1905.md)** - Nữ diễn viên [Marjorie Westbury](../M/Marjorie_Westbury.md) ra đời.
-- **[1914](1914.md)** - [Câu lạc bộ Chequers](../C/Chequers_Clubbe.md) do [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)thành lập, gặp nhau để ăn tối.
+- **[1914](1914.md)** - [Câu lạc bộ Chequers](../C/Chequers_Clubbe.md) do [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) thành lập, gặp nhau để ăn tối.
 - **[1917](1917.md)** - Diễn viên [Richard Boone](../R/Richard_Boone.md) ra đời.
 - **[1929](1929.md)** - [Priscilla Tolkien](../P/Priscilla_Tolkien.md) ra đời.
 - **[1956](1956.md)** - Diễn viên [Dominic Guard](../D/Dominic_Guard.md) ra đời.
 - **[2002](2002.md)** - *[The Standard Deviants: Rings, Kings and Things](../T/The_Standard_Deviants%253A_Rings,_Kings_and_Things.md)* được phát hành.
-- <b><a href="2007.md" title="2007">2007</a> - <i><a href="../T/The_History_of_The_Hobbit.md" title="The History of The Hobbit">The History of The Hobbit</a> tập 2: Trở về Bag-End</i> được xuất bản.</b>
+- <b><a href="2007.md" title="2007">2007</a> - <i><a href="../T/The_History_of_The_Hobbit.md" title="The History of The Hobbit">Lịch sử Người Hobbit</a> tập 2: Trở về Bag-End</i> được xuất bản.</b>
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-Nhóm của     - [Arwen](../A/Arwen.md)đi về hướng [Minas Tirith](../M/Minas_Tirith.md).
+    - [Nhóm của Arwen](../A/Arwen.md) đi tới [Minas Tirith](../M/Minas_Tirith.md).

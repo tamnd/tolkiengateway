@@ -32,7 +32,7 @@ images:
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article describes a concept which is mentioned in <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s works, but was never given a definite name.
 </div></div>
 
-“**Cây cầu đá**” được xây dựng bởi Người Lùn của [Belegost](Belegost.md) để đáp lại kiến ​​thức được [Melian](../M/Melian.md) dạy cho họ và những viên ngọc trai được Vua [Thingol](../T/Thingol.md) tặng cho họ. Cây cầu lớn được xây bằng đá và là lối đi duy nhất để vào cổng [Menegroth](../M/Menegroth.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+"**Cây cầu đá**" được xây dựng bởi Người lùn ở [Belegost](Belegost.md) để đáp lại kiến ​​thức được [Melian](../M/Melian.md) dạy cho họ và những viên ngọc trai do Vua [Thingol](../T/Thingol.md) ban cho họ. Cây cầu lớn được xây bằng đá và là phương tiện duy nhất để vào cổng [Menegroth](../M/Menegroth.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

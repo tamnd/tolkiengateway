@@ -20,7 +20,7 @@ sort_keys:
   "People by name": "Westbrook, John"
 ---
 
-**John Westbrook** ([1 tháng 11](../_/1_November.md), [1922](../_/1922.md) - [16 tháng 6](../_/16_June.md), [1989](../_/1989.md)) đã lồng tiếng cho [Treebeard](../T/Treebeard.md) trong [The Lord of the Rings (phim 1978)](<../T/The_Lord_of_the_Rings_(1978_film).md>).
+**John Westbrook** ([Ngày 1 tháng 11](../_/1_November.md), [1922](../_/1922.md) - [16 tháng 6](../_/16_June.md), [1989](../_/1989.md)) đã lồng tiếng cho [Treebeard](../T/Treebeard.md) trong [The Lord of the Rings (1978 film)](<../T/The_Lord_of_the_Rings_(1978_film).md>).
 
 ## Liên kết ngoài {#External_links}
 

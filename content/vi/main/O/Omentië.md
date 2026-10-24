@@ -13,7 +13,7 @@ categories:
   - "Quenya nouns"
 ---
 
-<i><b>omentie</b></i> là từ [Quenya](../Q/Quenya.md) có nghĩa là "sự gặp gỡ (của những con đường)".<sup id="cite_ref-PE17_1-0" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup>
+<i><b>omentie</b></i> là một từ [Quenya](../Q/Quenya.md) có nghĩa là "sự gặp gỡ (của những con đường)".<sup id="cite_ref-PE17_1-0" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -30,7 +30,7 @@ categories:
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Trong ấn bản đầu tiên của <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>và trong <a href="../L/Letter_205.md" title="Letter 205">một bức thư đầu</a>, Tolkien đã sử dụng dạng <i>omentielmo</i> (được sửa đổi thành <i>omentielvo</i> trong ấn bản thứ hai).</span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Trong ấn bản đầu tiên của <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">Chúa tể của những chiếc nhẫn</a></i>và trong <a href="../L/Letter_205.md" title="Letter 205">một bức thư đầu</a>, Tolkien đã sử dụng dạng <i>omentielmo</i> (được sửa đổi thành <i>omentielvo</i> trong ấn bản thứ hai).</span>
 </li>
 </ol></div></span>
 

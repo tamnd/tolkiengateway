@@ -16,11 +16,11 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="../T/Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><b>I</b><a href="../S/Second_Age.md" title="Second Age">II</a><a href="../T/Third_Age.md" title="Third Age">III</a><a href="Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="First_Age_456.md" title="First Age 456">456</a><a href="First_Age_457.md" title="First Age 457">457</a><a href="First_Age_458.md" title="First Age 458">458</a><a class="mw-selflink selflink">459</a><a href="First_Age_460.md" title="First Age 460">460</a><a href="First_Age_462.md" title="First Age 462">462</a><a href="First_Age_463.md" title="First Age 463">463</a></div></div></div></div></div></div>
 
-**Kỷ Đệ Nhất 459** (viết tắt là **F.A. 459**) là năm [thứ 459 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Nhất](First_Age.md) của [Trung Địa](../M/Middle-earth.md).
+**Kỷ nguyên thứ nhất 459** (viết tắt là **F.A. 459**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 459 của [Kỷ nguyên thứ nhất](First_Age.md) của [Trung Địa](../M/Middle-earth.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- [Húrin](../H/Húrin.md) và [Huor](../H/Huor.md) khởi hành [Gondolin](../G/Gondolin.md) và trở về [Dor-lómin](../D/Dor-lómin.md). Họ không nói cho ai biết họ đã ở đâu hoặc đã nhìn thấy gì, giữ lời thề im lặng với [Turgon](../T/Turgon.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- [Húrin](../H/Húrin.md) và [Huor](../H/Huor.md) khởi hành [Gondolin](../G/Gondolin.md) và trở về nhà ở [Dor-lómin](../D/Dor-lómin.md). Họ không nói cho ai biết họ đã ở đâu hoặc đã nhìn thấy gì, giữ lời thề im lặng với [Turgon](../T/Turgon.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

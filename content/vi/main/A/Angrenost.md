@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Isengard"
 ---
 
-Chuyển hướng đến [Isengard](../I/Isengard.md).
+Chuyển hướng tới [Isengard](../I/Isengard.md).

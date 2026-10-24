@@ -42,7 +42,7 @@ infobox:
 ## Chương {#Chapters}
 
 - Cõi tâm trí: những cõi chưa được khám phá
-- Các lĩnh vực sinh thái: Tolkien và Vũ trụ vật chất
+- Các lĩnh vực sinh thái: Tolkien và vũ trụ vật chất
 - Cõi nguy hiểm
 - Cõi cảm hứng
 - Lĩnh vực giới tính
@@ -50,4 +50,4 @@ infobox:
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://www.alt-tolkien.com/r27uncharted.html" rel="noreferrer noopener" target="_blank">Bài đánh giá của Martin Baker về Trung Địa Cuộc hội ngộ: Xã hội thay thế Tolkien</a>
+- <a class="external text" href="http://www.alt-tolkien.com/r27uncharted.html" rel="noreferrer noopener" target="_blank">Bài đánh giá của Martin Baker về Cuộc hội ngộ ở Trung Địa: Hiệp hội Tolkien thay thế</a>

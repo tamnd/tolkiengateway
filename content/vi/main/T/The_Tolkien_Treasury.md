@@ -39,16 +39,16 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Tolkien_Treasury.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/8/83/The_Tolkien_Treasury.jpg/320px-The_Tolkien_Treasury.jpg" decoding="async" loading="lazy" width="320" height="196" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/83/The_Tolkien_Treasury.jpg/480px-The_Tolkien_Treasury.jpg 1.5x, https://tolkiengateway.net/w/images/8/83/The_Tolkien_Treasury.jpg 2x" data-file-width="493" data-file-height="302"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Tolkien Treasury</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../H/HarperCollins.md" title="HarperCollins">HarperCollins</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/19_November.md" title="19 November">19 November</a> <a href="../_/2015.md" title="2015">2015</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Hardcover, boxed set</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0008116644" title="Special:BookSources/0008116644">0008116644</a></td></tr></tbody></table>
 
-<i><b>Kho bạc Tolkien</b></i> là một bộ [2015](../_/2015.md) đóng hộp bỏ túi được xuất bản bởi [HarperCollins](../H/HarperCollins.md). Bộ sưu tập bao gồm bốn cuốn sách bỏ túi:
+<i><b>Kho bạc Tolkien</b></i> là một [2015](../_/2015.md) bộ đóng hộp bỏ túi được xuất bản bởi [HarperCollins](../H/HarperCollins.md). Bộ sưu tập bao gồm bốn cuốn sách bỏ túi:
 
 - *[The Adventures of Tom Bombadil](The_Adventures_of_Tom_Bombadil.md)*
-    - (Phiên bản mở rộng 2014, biên tập [Christina Scull](../C/Christina_Scull.md) & [Wayne G. Hammond](../W/Wayne_G._Hammond.md))
+    - (Ấn bản mở rộng 2014, biên tập. [Christina Scull](../C/Christina_Scull.md) & [Wayne G. Hammond](../W/Wayne_G._Hammond.md))
 - *[Farmer Giles of Ham](../F/Farmer_Giles_of_Ham.md)*
-    - (Ấn bản 2014, biên tập Christina Scull & Wayne G. Hammond)
+    - (Ấn bản 2014, biên tập. Christina Scull & Wayne G. Hammond)
 - *[Roverandom](../R/Roverandom.md)*
-    - (Ấn bản 2013, biên tập Christina Scull & Wayne G. Hammond)
+    - (Ấn bản 2013, biên tập. Christina Scull & Wayne G. Hammond)
 - *[Smith of Wootton Major](../S/Smith_of_Wootton_Major.md)*
-    - (Ấn bản mở rộng 2015, biên tập [Verlyn Flieger](../V/Verlyn_Flieger.md))
+    - (Ấn bản mở rộng năm 2015, biên tập [Verlyn Flieger](../V/Verlyn_Flieger.md))
 
 ## Từ nhà xuất bản {#From_the_publisher}
 
@@ -63,4 +63,4 @@ Roverandom is a real dog who is magically transformed into a toy and is forced t
 
 ## Xem thêm {#See_also}
 
-Bộ đóng hộp - [Bộ Trung Địa Kho bạc](The_Middle-earth_Treasury.md)
+Bộ đóng hộp - [Kho bạc Trung Địa](The_Middle-earth_Treasury.md)

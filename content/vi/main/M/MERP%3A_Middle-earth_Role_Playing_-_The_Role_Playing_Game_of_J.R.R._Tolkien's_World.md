@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Middle-earth Role Playing: The Role Playing Game of J.R.R. Tolkien's World"
 ---
 
-Chuyển hướng đến [Middle-earth Role Playing: Trò chơi nhập vai trong thế giới của J.R.R. Tolkien](Middle-earth_Role_Playing%253A_The_Role_Playing_Game_of_J.R.R._Tolkien's_World.md).
+Chuyển hướng đến [Middle-earth Role Playing: The Role Playing Game of J.R.R. Tolkien's World](Middle-earth_Role_Playing%253A_The_Role_Playing_Game_of_J.R.R._Tolkien's_World.md).

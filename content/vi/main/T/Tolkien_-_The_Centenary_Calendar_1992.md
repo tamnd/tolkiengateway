@@ -37,22 +37,22 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tolkien_-_The_Centenary_Calendar_1992.jpg.md"><img src="https://tolkiengateway.net/w/images/1/15/Tolkien_-_The_Centenary_Calendar_1992.jpg" decoding="async" loading="lazy" width="196" height="216" class="mw-file-element" data-file-width="196" data-file-height="216"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Tolkien - The Centenary Calendar 1992</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="Ted_Nasmith.md" title="Ted Nasmith">Ted Nasmith</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../G/Grafton.md" title="Grafton">Grafton</a> (UK)</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/25_July.md" title="25 July">25 July</a> <a href="../_/1991.md" title="1991">1991</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Wire-bound calendar with mailer</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0-261-10227-3" title="Special:BookSources/0-261-10227-3">0-261-10227-3</a></td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="The_Tolkien_Calendar_1991.md" title="The Tolkien Calendar 1991">The Tolkien Calendar 1991</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="The_Tolkien_Calendar_1993.md" title="The Tolkien Calendar 1993">The Tolkien Calendar 1993</a></td></tr></tbody></table>
 
-<i><b>Tolkien - Lịch trăm năm 1992</b></i> là lịch Tolkien chính thức được xuất bản bởi [Grafton](../G/Grafton.md) vào [25 tháng 7](../_/25_July.md) [1991](../_/1991.md). Nó có tính năng nghệ thuật của [Ted Nasmith](Ted_Nasmith.md) dựa trên *[The Hobbit](The_Hobbit.md)*, *[The Lord of the Rings](The_Lord_of_the_Rings.md)* và *[The Silmarillion](The_Silmarillion.md)*.
+<i><b>Tolkien - Lịch trăm năm 1992</b></i> là lịch Tolkien chính thức được xuất bản bởi [Grafton](../G/Grafton.md) vào [25 tháng 7](../_/25_July.md) [1991](../_/1991.md). Nó có tác phẩm nghệ thuật của [Ted Nasmith](Ted_Nasmith.md) dựa trên *[The Hobbit](The_Hobbit.md)*, *[The Lord of the Rings](The_Lord_of_the_Rings.md)* và *[The Silmarillion](The_Silmarillion.md)*.
 
 ## Minh họa {#Illustrations}
 
 - Bìa - "[Sự giận dữ của ngọn núi](../../file/T/Ted_Nasmith_-_The_Anger_of_the_Mountain.jpg.md)"
 - Tháng 1 - "[Chuyến thăm buổi sáng bất ngờ](../../file/T/Ted_Nasmith_-_An_Unexpected_Morning_Visit.jpg.md)"
 - Tháng 2 - "[Không còn đường xuống](../../file/T/Ted_Nasmith_-_No_Way_Down.jpg.md)"
-- Tháng 3 - "[Tuor lúc Vinyamar](../../file/T/Ted_Nasmith_-_Tuor_at_Vinyamar.jpg.md)"
+- Tháng 3 - "[Tuor tại Vinyamar](../../file/T/Ted_Nasmith_-_Tuor_at_Vinyamar.jpg.md)"
 - Tháng 4 - "[Tạm biệt Lórien](../../file/T/Ted_Nasmith_-_Farewell_to_Lórien.jpg.md)"
 - Tháng 5 - "[Tại Sân Đài phun nước](../../file/T/Ted_Nasmith_-_At_the_Court_of_the_Fountain.jpg.md)"
-- Tháng Sáu - "[Éowyn và Chúa tể của Nazgûl](../../file/T/Ted_Nasmith_-_Éowyn_and_the_Lord_of_the_Nazgûl.jpg.md)"
+- Tháng 6 - "[Éowyn và Chúa tể Nazgûl](../../file/T/Ted_Nasmith_-_Éowyn_and_the_Lord_of_the_Nazgûl.jpg.md)"
 - Tháng 7 - "[Sự giận dữ của ngọn núi](../../file/T/Ted_Nasmith_-_The_Anger_of_the_Mountain.jpg.md)"
-- Tháng 8 - "[Morgoth và Đại Vương của Noldor](<../../file/T/Ted_Nasmith_-_Morgoth_and_the_High_King_of_Noldor_(1992).jpg.md>)"
-- tháng Chín - "[Lời cuối cùng của Boromir](../../file/T/Ted_Nasmith_-_The_Last_Words_of_Boromir.jpg.md)"
-- Tháng 10 - "[Những hang động lấp lánh Aglarond](../../file/T/Ted_Nasmith_-_The_Glittering_Caves_of_Aglarond.jpg.md)"
-- Tháng 11 - "Cuộc tranh luận của [Gollum](../../file/T/Ted_Nasmith_-_Gollum's_Debate.jpg.md)"
+- Tháng 8 - "[Morgoth và vị vua tối cao của Noldor](<../../file/T/Ted_Nasmith_-_Morgoth_and_the_High_King_of_Noldor_(1992).jpg.md>)"
+- Tháng 9 - "[Những lời cuối cùng của Boromir](../../file/T/Ted_Nasmith_-_The_Last_Words_of_Boromir.jpg.md)"
+- Tháng 10 - "[Những hang động lấp lánh ở Aglarond](../../file/T/Ted_Nasmith_-_The_Glittering_Caves_of_Aglarond.jpg.md)"
+- Tháng 11 - "[Cuộc tranh luận của Gollum](../../file/T/Ted_Nasmith_-_Gollum's_Debate.jpg.md)"
 - Tháng 12 - "[Bờ biển Valinor](../../file/T/Ted_Nasmith_-_The_Shores_of_Valinor.jpg.md)"
 
 ## Biến thể {#Variants}
@@ -74,7 +74,7 @@ infobox:
 ## Liên kết ngoài {#External_links}
 
 - <a class="external text" href="http://www.tolkienbooks.net/php/caldetails.php?reference=94240" rel="noreferrer noopener" target="_blank">Tolkien - Lịch trăm năm 1992</a> tại <a class="external text" href="http://www.tolkienbooks.net" rel="noreferrer noopener" target="_blank">TolkienBooks.net</a>
-- <a class="external text" href="http://tolkiencalendars.com/1989_1992.html" rel="noreferrer noopener" target="_blank">Tolkien Lịch 1989 - 1992</a> tại <a class="external text" href="http://tolkiencalendars.com/" rel="noreferrer noopener" target="_blank">The Compleat Gyde đến Tolkien Lịch</a>
+- <a class="external text" href="http://tolkiencalendars.com/1989_1992.html" rel="noreferrer noopener" target="_blank">Lịch Tolkien 1989 - 1992</a> tại <a class="external text" href="http://tolkiencalendars.com/" rel="noreferrer noopener" target="_blank">The Compleat Gyde to Tolkien Calendars</a>
 
 <table style="margin:0 auto;" class="collapsible toccolours" width="100%" align="center">
 <tbody><tr>

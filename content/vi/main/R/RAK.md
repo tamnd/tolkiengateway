@@ -16,18 +16,18 @@ categories:
 
 ## Công cụ phái sinh {#Derivatives}
 
-- [Primitive Quendian](../P/Primitive_Quendian.md) <i>*thứ hạng</i>
+- [Quendian nguyên thủy](../P/Primitive_Quendian.md) <i>*ranku</i>
     - [Qenya](../Q/Qenya.md) *ranko* (số nhiều *ranqi*; "cánh tay")
-    - [Old Noldorin](../O/Old_Noldorin.md) *ranko* (số nhiều *rankui*)
-        - [Noldorin](../N/Noldorin.md) *rhanc* (số nhiều *rhenc*, số nhiều cổ xưa *rhengy*; "cánh tay")
-- Primitive Quendian <i>*rakmē</i> ("tìm hiểu")
+    - [Noldorin cổ](../O/Old_Noldorin.md) *ranko* (số nhiều *rankui*)
+        - [Noldorin](../N/Noldorin.md) *rhanc* (số nhiều *rhenc*, số nhiều cổ *rhengy*; "cánh tay")
+- Quendian nguyên thủy <i>*rakmē</i> ("tìm hiểu")
     - Qenya *rangwe*
-    - Old Noldorin *ragme*
+    - Noldorin Cũ *ragme*
         - Noldorin *rhaew*<sup id="cite_ref-LR_1-1" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="https://tolkienlistsearch.herokuapp.com/message/5e9c3601df6700ce9c85c122" rel="noreferrer noopener" target="_blank">RAK và hủy hoại (365,91)</a> bởi [David Salo](../D/David_Salo.md)
+- <a class="external text" href="https://tolkienlistsearch.herokuapp.com/message/5e9c3601df6700ce9c85c122" rel="noreferrer noopener" target="_blank">RAK và sự hủy hoại (365,91)</a> của [David Salo](../D/David_Salo.md)
 
 <span></span>
 

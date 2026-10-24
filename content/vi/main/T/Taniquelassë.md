@@ -37,9 +37,9 @@ langlinks:
 <p class="tg-quote-footer"><cite><a href="../U/Unfinished_Tales.md" title="Unfinished Tales">Unfinished Tales</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Taniquelassë** là một [cây thường xanh có mùi thơm](../F/Fragrant_Trees.md) được [Númenor](../N/Númenor.md) mang đến [Tol Eressëa](Tol_Eressëa.md) bởi [Tiên tộc](../E/Elves.md). Sau sự sụp đổ của Númenor, họ không còn được tìm thấy trên khắp thế giới.<sup id="cite_ref-UTNum_1-0" class="reference"><a href="#cite_note-UTNum-1">[1]</a></sup>
+**Taniquelassë** là một [cây thường xanh có mùi thơm](../F/Fragrant_Trees.md) được [Númenor](../N/Númenor.md) mang đến từ [Tol Eressëa](Tol_Eressëa.md) bởi [Yêu tinh](../E/Elves.md). Sau sự sụp đổ của Númenor, họ không còn được tìm thấy trên khắp thế giới.<sup id="cite_ref-UTNum_1-0" class="reference"><a href="#cite_note-UTNum-1">[1]</a></sup>
 
-Taniquelassë, trong số những cây khác được đưa đến Númenor, chủ yếu mọc ở các sườn dốc hướng biển được che chắn của [Nísimaldar](../N/Nísimaldar.md) ở [Vịnh Eldanna](../B/Bay_of_Eldanna.md) nhưng chúng cũng lan rộng về phía đông vào đất liền.<sup id="cite_ref-UTNum_1-1" class="reference"><a href="#cite_note-UTNum-1">[1]</a></sup>
+Taniquelassë, trong số những cây khác được đưa đến Númenor, chủ yếu mọc ở các sườn dốc hướng ra biển được che chắn của [Nísimaldar](../N/Nísimaldar.md) ở [Vịnh Eldanna](../B/Bay_of_Eldanna.md) nhưng chúng cũng lan rộng về phía đông vào đất liền.<sup id="cite_ref-UTNum_1-1" class="reference"><a href="#cite_note-UTNum-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

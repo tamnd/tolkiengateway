@@ -39,18 +39,18 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mythlore_33.gif.md"><img src="https://tolkiengateway.net/w/images/7/7b/Mythlore_33.gif" decoding="async" loading="lazy" width="225" height="290" class="mw-file-element" data-file-width="225" data-file-height="290"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mythlore 33</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../G/Glen_GoodKnight.md" title="Glen GoodKnight">Glen GoodKnight</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Autumn <a href="../_/1982.md" title="1982">1982</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">47</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mythlore_32.md" title="Mythlore 32">Mythlore 32</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mythlore_34.md" title="Mythlore 34">Mythlore 34</a></td></tr></tbody></table>
 
-<b><i>Mythlore</i> 33</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol9/iss3/" rel="noreferrer noopener" target="_blank">Tập 9, Số 3</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
+<b><i>Thần thoại</i> 33</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol9/iss3/" rel="noreferrer noopener" target="_blank">Tập 9, Số 3</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, được xuất bản bởi [Hiệp hội Thần thoại](Mythopoeic_Society.md).
 
 ## Nội dung {#Contents}
 
 #### Bài viết {#Articles}
 
-- Hennelly, Mark M., Jr. “Con đường và chiếc nhẫn: Hình học khối trong Trung Địa của Tolkien.”
-- DeJaynes, Randy L. “Việc tạo ra những thứ khác ngoài bản thân: Sự mặc khải và sự sáng tạo khi xuống địa ngục.”
-- Logan, Darlene. “Chiến lược chiến đấu ở Perelandra: Beowulf Xem lại.”
-- Kawano, Roland M. “C.S. Lewis: Nhà thơ của công chúng.”
-- Christopher, Joe R. “Lewis Carroll, nhà nghiên cứu khoa học.”
-- Berman, Ruth. “Hiệp sĩ trắng và người thu thập đỉa: Nhà thơ trong vai Boor.”
+- Hennelly, Mark M., Jr. “The Road and the Ring: Solid Geometry in Tolkien's Middle-earth.”
+- DeJaynes, Randy L. “The Making of Things Other Than the Self: Revelation and Creation in Descent Into Hell.”
+- Logan, Darlene. “Battle Strategy in Perelandra: Beowulf Revisited.”
+- Kawano, Roland M. “C.S. Lewis: The Public Poet.”
+- Christopher, Joe R. “Lewis Carroll, scientifictionist.”
+- Berman, Ruth. “White Knight and Leech Gatherer: the Poet as Boor.”
 
 #### Thơ {#Poetry}
 
@@ -59,12 +59,12 @@ infobox:
 
 #### Tính năng {#Features}
 
-- GoodKnight, Glen H. Editorial Ghi chú.
-- GoodKnight, Glen H., và những người khác. Kỷ niệm 15 năm thành lập Hội Thần thoại.
-- Christopher, Joe R. An Inklings' Thư mục (22).
-- Hyde, Paul Nolan. “Quenti Lambardillion: Chuyên mục về Trung Địa Ngôn ngữ học.”
-- Ellwood, Gracia Fay. “Vấn đề nhập mộ: Một cột.”
-- Speth, Lee. “Điều trị ung dung: Một cột.”
+- GoodKnight, Glen H. Editorial Notes.
+- GoodKnight, Glen H., et al. The 15th Anniversary of The Mythopoeic Society.
+- Christopher, Joe R. An Inklings' Bibliography (22).
+- Hyde, Paul Nolan. “Quenti Lambardillion: A Column on Middle-earth Linguistics.”
+- Ellwood, Gracia Fay. “Matters of Grave Import: A Column.”
+- Speth, Lee. “Cavalier Treatment: A Column.”
 - Thư.
 
 #### Đánh giá {#Reviews}

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Daeron"
 ---
 
-Chuyển hướng đến [Daeron](Daeron.md).
+Chuyển hướng tới [Daeron](Daeron.md).

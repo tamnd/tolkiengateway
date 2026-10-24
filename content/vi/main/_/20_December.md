@@ -71,7 +71,7 @@ Sự kiện xảy ra vào ngày 20 tháng 12
 - **[1954](1954.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 158a](../L/Letter_158a.md).
 - **[1955](1955.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 179a](../L/Letter_179a.md).
 - **[1955](1955.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 179b](../L/Letter_179b.md).
-- **[1956](1956.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một lá thư cho Deirdre Levinson](<../L/Letter_to_Deirdre_Levinson_(20_December_1956).md>).
+- **[1956](1956.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một bức thư cho Deirdre Levinson](<../L/Letter_to_Deirdre_Levinson_(20_December_1956).md>).
 - **[1971](1971.md)** - Diễn viên [Michael Yurchak](../M/Michael_Yurchak.md) ra đời.
 - **[1974](1974.md)** - Diễn viên [Nathan Clark](../N/Nathan_Clark.md) ra đời.
 - **[2002](2002.md)** - [Tom Shippey](../T/Tom_Shippey.md) xuất bản "The Plot Unravels", bài đánh giá về *[The Lord of the Rings: The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)* trong *The Times Literary Supplement*.
@@ -79,4 +79,4 @@ Sự kiện xảy ra vào ngày 20 tháng 12
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - Các [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) nghỉ ngơi ở [Rivendell](../R/Rivendell.md) và chuẩn bị cho [nhiệm vụ](../Q/Quest_of_the_Ring.md) tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).
+    - [Fellowship of the Ring](../F/Fellowship_of_the_Ring.md) nghỉ ngơi tại [Rivendell](../R/Rivendell.md) và chuẩn bị cho [nhiệm vụ](../Q/Quest_of_the_Ring.md) tiêu diệt [Chiếc nhẫn duy nhất](../T/The_One_Ring.md).

@@ -25,7 +25,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Vanya Elemmírë và những lời của Aldudénië của ông. **Bởi** Gaelle Thenidiel - <a class="external text" href="http://drawingdestiny.blog.cz/galerie" rel="noreferrer noopener" target="_blank">Thư viện blog của cô ấy.</a> <a class="external text" href="http://tolkiengateway.net/wiki/User:Gaelle_Thenidiel" rel="noreferrer noopener" target="_blank">- hồ sơ người dùng.</a>
+Vanya Elemmírë và những lời của Aldudénië của ông. **Bởi** Gaelle Thenidiel - <a class="external text" href="http://drawingdestiny.blog.cz/galerie" rel="noreferrer noopener" target="_blank">Thư viện blog của bà.</a> <a class="external text" href="http://tolkiengateway.net/wiki/User:Gaelle_Thenidiel" rel="noreferrer noopener" target="_blank">- hồ sơ người dùng.</a>
 
 ## Giấy phép {#Licensing}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Return of the Shadow"
 ---
 
-Chuyển hướng đến [The Return of the Shadow](../T/The_Return_of_the_Shadow.md).
+Chuyển hướng đến [Sự trở lại của bóng tối](../T/The_Return_of_the_Shadow.md).

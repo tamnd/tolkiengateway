@@ -14,9 +14,9 @@ categories:
 
 **Khi Tôi Chết** là một bài hát của [E.V. Gordon](../E/E.V._Gordon.md). Nó được xuất bản dưới dạng bài hát thứ 27 trong *[Songs for the Philologists](../S/Songs_for_the_Philologists.md)* trong [1936](../_/1936.md).
 
-Nó được trình bày bằng ba ngôn ngữ: [tiếng Anh cổ](../O/Old_English.md), Scots và [Gothic](../G/Gothic.md).
+Nó được trình bày bằng ba ngôn ngữ: [Tiếng Anh cổ](../O/Old_English.md), tiếng Scotland và [Gothic](../G/Gothic.md).
 
-## Trong tiếng Anh cổ {#In_Old_English}
+## Bằng tiếng Anh cổ {#In_Old_English}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
 <p>Þa ic beo dead.<br/>

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Buckland Gate"
 ---
 
-Chuyển hướng đến [Buckland Cổng](../B/Buckland_Gate.md).
+Chuyển hướng đến [Cổng Buckland](../B/Buckland_Gate.md).

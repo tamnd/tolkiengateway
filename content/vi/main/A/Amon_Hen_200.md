@@ -45,7 +45,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/AmonHen200.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/91/AmonHen200.jpg/320px-AmonHen200.jpg" decoding="async" loading="lazy" width="320" height="459" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/91/AmonHen200.jpg/480px-AmonHen200.jpg 1.5x, https://tolkiengateway.net/w/images/9/91/AmonHen200.jpg 2x" data-file-width="572" data-file-height="821"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Amon Hen 200</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="Andrew_Butler.md" title="Andrew Butler">Andrew Butler</a></td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="../J/Jef_Murray.md" title="Jef Murray">Jef Murray</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Printer</th><td class="tg-infobox-data"><a class="external text" href="http://www.horshampress.co.uk/" rel="noreferrer noopener" target="_blank">Horsham Press</a>, Horsham, UK</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../J/July.md" title="July">July</a> <a href="../_/2006.md" title="2006">2006</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">A5 stapled paperback, glossy</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">48</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0306-8781</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Amon_Hen_199.md" title="Amon Hen 199">Amon Hen 199</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Amon_Hen_201.md" title="Amon Hen 201">Amon Hen 201</a></td></tr></tbody></table>
 
-<b><i>Amon Hen</i> 200</b> là số thứ hai trăm của tạp chí hai tháng một lần của [Hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, xuất bản vào [tháng 7](../J/July.md) [2006](../_/2006.md).
+<b><i>Amon Hen</i> 200</b> là số thứ hai trăm của tạp chí hai tháng một lần của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, xuất bản vào [tháng 7](../J/July.md) [2006](../_/2006.md).
 
 ## Nội dung {#Contents}
 
@@ -55,10 +55,10 @@ infobox:
     - Bởi: [Andrew Butler](Andrew_Butler.md)
 - Nội dung
 - Quảng cáo: [Mithril Armory](../M/Mithril_Armoury.md)
-- [Bywater](../B/Bywater.md) Thông báo
+Thông báo - [Bywater](../B/Bywater.md)
     - Bởi: Malcolm Lindley
 - Thông báo
-- Báo cáo: Tolkien tại Mill 2006
+- Báo cáo: Tolkien tại nhà máy 2006
     - Bởi: Dave Corby
 - Báo cáo: [Ngày đọc sách](../T/Tolkien_Reading_Day.md) ở LA
     - Bởi: Janet Alvarez
@@ -66,14 +66,14 @@ infobox:
     - Bởi: Andrew Compton
 - Báo cáo: *One Morning Long Ago* Triển lãm
     - Bởi: Bart Servaes & [Pieter Collier](../P/Pieter_Collier.md)
-- Từ [Eru](../I/Ilúvatar.md) đến Vô sinh
+- Từ [Eru](../I/Ilúvatar.md) đến Inanity
     - Bởi: Patricia Meadway
 - Bài thơ: *LotR một tập cũ của tôi (34 tuổi)*
     - Bởi: Carol Brownlow
 - Hai tòa tháp của con người
     - Bởi: Lyn Wilshire
 Thông báo - [Oxonmoot](../O/Oxonmoot.md)
-- Cái [Hall of Fire](../H/Hall_of_Fire.md)
+- [Sảnh lửa](../H/Hall_of_Fire.md)
     - Bởi: Lynn Forest-Hill
 - Phiên bản được mong đợi từ lâu
     - Bởi: *[Beruthiel](../B/Berúthiel.md)'s Pet*
@@ -82,13 +82,13 @@ Thông báo - [Oxonmoot](../O/Oxonmoot.md)
     - Bởi: Lin Davies
 - Câu chuyện về hai biên tập viên
     - Bởi: Christopher Kreuzer
-- AH Bao trùm qua Kỷ nguyên - một lựa chọn
+- AH Bao trùm mọi thời đại - một tuyển tập
     - Bởi: Andrew Butler
 - Đánh giá: *[The Roots of Tolkien's Middle-earth](../T/The_Roots_of_Tolkien's_Middle-earth.md)*
     - Bởi: Lynn Forest-Hill
 - Đánh giá: *[The Lord of the Rings - The Musical](../T/The_Lord_of_the_Rings_Musical.md)*
     - Bởi: Candy Schwartz
-- Ngày cho Nhật ký của bạn
+- Ngày ghi nhật ký của bạn
 - Amon Hen - Lịch sử cập nhật
     - Bởi: Christopher Kreuzer
 - Tác phẩm nghệ thuật: *[Arwen](Arwen.md) Undómiel*

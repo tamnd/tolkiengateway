@@ -17,25 +17,25 @@ langlinks:
     url: "https://www.ardapedia.org/wiki/Weihest%C3%A4tten"
 ---
 
-**Thánh tích** hoặc **Ngôi mộ** là một nơi ở [Minas Tirith](../M/Minas_Tirith.md) nơi [Các vị vua Gondor](../K/Kings_of_Gondor.md), [Quản lý](../S/Stewards_of_Gondor.md) và những người quan trọng khác của vương quốc được chôn cất, bao gồm [Nhà của các vị vua](House_of_the_Kings.md) và [Nhà quản lý](House_of_the_Stewards.md).
+**Thánh tích** hay **Ngôi mộ** là một địa điểm ở [Minas Tirith](../M/Minas_Tirith.md) nơi [Các vị vua của Gondor](../K/Kings_of_Gondor.md), [Quản lý](../S/Stewards_of_Gondor.md) và những người quan trọng khác của vương quốc được chôn cất, bao gồm [Nhà của các vị vua](House_of_the_Kings.md) và [Nhà quản lý](House_of_the_Stewards.md).
 
-Chúng được xây dựng trên một sườn núi cao tới độ cao của bức tường thứ năm của thành phố và nối liền Núi [Mindolluin](../M/Mindolluin.md) với [Đồi Canh gác](Hill_of_Guard.md)<sup id="cite_ref-MT_1-0" class="reference"><a href="#cite_note-MT-1">[1]</a></sup> nơi Minas Tirith được xây dựng<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>.
+Chúng được xây dựng trên một sườn núi cao tới độ cao của bức tường thứ năm của thành phố và nối liền Núi [Mindolluin](../M/Mindolluin.md) với [Đồi Bảo Vệ](Hill_of_Guard.md)<sup id="cite_ref-MT_1-0" class="reference"><a href="#cite_note-MT-1">[1]</a></sup> nơi Minas Tirith được xây dựng trên đó<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>.
 
 ## Lịch sử {#History}
 
-[Borondir](../B/Borondir.md), một người lính của Gondor có chiến công trong [Trận chiến trên Cánh đồng Celebrant](../B/Battle_of_the_Field_of_Celebrant.md) đã mang lại cho anh ta danh tiếng lớn, đã được chôn cất trong lăng mộ ở Bảo bối Tử thần sau khi anh ta chết trong trận chiến đó.<sup id="cite_ref-Cirion_3-0" class="reference"><a href="#cite_note-Cirion-3">[3]</a></sup>
+[Borondir](../B/Borondir.md), một người lính của Gondor có chiến công trong [Trận chiến trên cánh đồng Celebrant](../B/Battle_of_the_Field_of_Celebrant.md) đã mang lại cho ông ta danh tiếng lớn, đã được chôn cất trong lăng mộ ở Hallows sau khi ông ta chết trong trận chiến đó.<sup id="cite_ref-Cirion_3-0" class="reference"><a href="#cite_note-Cirion-3">[3]</a></sup>
 
-Một thời gian sau, sau khi thành lập [Rohan](../R/Rohan.md), [Cirion](../C/Cirion.md) đã di dời phần còn lại của [Elendil](../E/Elendil.md) đến các Thánh tích (cho đến khi được chôn cất trên [Halifirien](Halifirien.md)).<sup id="cite_ref-Cirion_3-1" class="reference"><a href="#cite_note-Cirion-3">[3]</a></sup>
+Một thời gian sau, sau khi thành lập [Rohan](../R/Rohan.md), [Cirion](../C/Cirion.md) đã di dời hài cốt của [Elendil](../E/Elendil.md) đến các Thánh tích (cho đến khi được chôn cất tại [Halifirien](Halifirien.md)).<sup id="cite_ref-Cirion_3-1" class="reference"><a href="#cite_note-Cirion-3">[3]</a></sup>
 
-Vào [15 tháng 3](../_/15_March.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md)<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Quản gia [Denethor II](../D/Denethor.md) đã đưa con trai mình [Faramir](../F/Faramir.md) đến Bảo bối Tử thần nơi hắn định thiêu sống cả hai người. Người bảo vệ [Beregond](../B/Beregond.md) cố gắng cứu Faramir nhưng bị người hầu của Denethor giữ lại. Beregond trước đây đã giết hai người hầu trong các Bảo bối [Gandalf](../G/Gandalf.md), được [Pippin](../P/Peregrin_Took.md)cảnh báo, đã đến và giải cứu Faramir, mặc dù Denethor đã thành công trong việc tự kết liễu đời mình.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Vào [15 tháng 3](../_/15_March.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md)<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Quản gia [Denethor II](../D/Denethor.md) đã đưa con trai mình [Faramir](../F/Faramir.md) đến Bảo bối Tử thần nơi hắn định thiêu sống cả hai người họ. Người bảo vệ [Beregond](../B/Beregond.md) cố gắng cứu Faramir nhưng bị người hầu của Denethor giữ lại. Beregond đã giết hai người hầu trong Bảo bối Tử thần trước [Gandalf](../G/Gandalf.md), được [Pippin](../P/Peregrin_Took.md) cảnh báo, đến và giải cứu Faramir, mặc dù Denethor đã thành công trong việc tự kết liễu đời mình.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
-Vua [Théoden](../T/Théoden.md) được tạm thời đặt vào các Bảo bối thần sau khi anh ta chết cho đến khi thi thể của anh ta được đưa về Rohan.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Vua [Théoden](../T/Théoden.md) được tạm thời đưa vào các Bảo bối thần sau khi ông qua đời cho đến khi thi thể của ông được đưa về Rohan.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
-[Hobbit](Hobbits.md) [Meriadoc Brandybuck](../M/Meriadoc_Brandybuck.md) và Peregrin Took của [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) cũng được đặt một nơi ở đó sau khi họ chết, bên cạnh ngôi mộ của Vua [Aragorn Elessar](../A/Aragorn.md).<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+[Hobbit](Hobbits.md) [Meriadoc Brandybuck](../M/Meriadoc_Brandybuck.md) và Peregrin Took của [Company of the Ring](../F/Fellowship_of_the_Ring.md) cũng được trao một nơi ở đó sau khi họ chết, bên cạnh lăng mộ của Vua [Aragorn Elessar](../A/Aragorn.md).<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Hallows* có nghĩa là "nơi thiêng liêng" và là bản dịch của một tên [Gondor Sindarin](../G/Gondor_Sindarin.md) không rõ.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
+*Hallows* có nghĩa là "nơi thiêng liêng" và là bản dịch của một cái tên [Gondor Sindarin](../G/Gondor_Sindarin.md) không xác định.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
 
 <span></span>
 

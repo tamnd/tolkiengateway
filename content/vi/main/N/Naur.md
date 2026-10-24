@@ -13,7 +13,7 @@ categories:
   - "Sindarin nouns"
 ---
 
-**Naur** là [Sindarin](../S/Sindarin.md) lửa.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Naur** là [Sindarin](../S/Sindarin.md) có nghĩa là lửa.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

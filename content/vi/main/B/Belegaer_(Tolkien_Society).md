@@ -13,16 +13,16 @@ categories:
   - "Belgian organizations"
 ---
 
-**Belegaer - Cercle d'etudes de Tolkien en Bỉ**<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> là [Tolkien xã hội](../T/Tolkien_Societies~67099.md) của <a class="extiw" href="http://en.wikipedia.org/wiki/French_Community_of_Belgium" title="wikipedia:French Community of Belgium">Cộng đồng nói tiếng Pháp</a> của [Bỉ](Belgium.md), bao gồm Brussels và Wallonia.
+**Belegaer - Cercle d'etudes de Tolkien en Belgique**<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> là [xã hội Tolkien](../T/Tolkien_Societies~67099.md) của <a class="extiw" href="http://en.wikipedia.org/wiki/French_Community_of_Belgium" title="wikipedia:French Community of Belgium">Cộng đồng nói tiếng Pháp</a> của [Bỉ](Belgium.md), bao gồm Brussels và Wallonia.
 
 ## Lịch sử {#History}
 
-Belegaer hoạt động trong những năm 1980 và 1990 và đã xuất bản *Cirth De Gandalf*. Xã hội này có thể đã bị giải thể sau cái chết của người chủ đạo [Nathalie Kotowski](../N/Nathalie_Kotowski.md) vào năm 2001.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[1]</a></sup>
+Belegaer hoạt động tích cực trong những năm 1980 và 1990 và đã xuất bản *Cirth De Gandalf*. Xã hội này có thể đã bị giải thể sau cái chết của người chủ đạo [Nathalie Kotowski](../N/Nathalie_Kotowski.md) vào năm 2001.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[1]</a></sup>
 
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><i><a class="extiw" href="http://en.wiktionary.org/wiki/study_circle" title="wiktionary:study circle">Vòng nghiên cứu</a> của Tolkien tại Bỉ</i></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><i><a class="extiw" href="http://en.wiktionary.org/wiki/study_circle" title="wiktionary:study circle">Vòng nghiên cứu</a> của Tolkien ở Bỉ</i></span>
 </li>
 </ol></div></span>
 

@@ -27,9 +27,9 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien đã viết một lá thư cho Philip Neal, một người hâm mộ bảy tuổi đã giành chiến thắng trong cuộc thi <a class="extiw" href="http://en.wikipedia.org/wiki/The_Sunday_Times" title="wikipedia:The Sunday Times">Sunday Times</a> vì viết về cuốn sách yêu thích của cậu ấy, *[The Hobbit](../T/The_Hobbit.md)*. Tolkien bày tỏ lòng biết ơn và vui mừng khi đọc thư của Philip, đồng thời ghi nhận cậu bé rất thích *The Hobbit* và có ý định giữ cuốn sách.
+Tolkien đã viết một lá thư cho Philip Neal, một người hâm mộ bảy tuổi đã giành chiến thắng trong cuộc thi <a class="extiw" href="http://en.wikipedia.org/wiki/The_Sunday_Times" title="wikipedia:The Sunday Times">Sunday Times</a> vì viết về cuốn sách yêu thích của mình, *[The Hobbit](../T/The_Hobbit.md)*. Tolkien bày tỏ lòng biết ơn và vui mừng khi đọc lá thư của Philip, đồng thời ghi nhận cậu bé rất thích *The Hobbit* và có ý định giữ cuốn sách.
 
-Tolkien tặng Philip một bản sao *[Smith of Wootton Major](../S/Smith_of_Wootton_Major.md)*, lưu ý rằng nó được đặt ở thời gian và địa điểm khác với *The Hobbit* nhưng hy vọng rằng Philip sẽ thích nó. Tolkien cũng khuyến khích Philip đam mê viết lách, cả về chữ viết và bố cục, đồng thời bày tỏ mong muốn Philip tiếp tục phát triển kỹ năng viết của mình. <br>
+Tolkien tặng Philip một bản sao của *[Smith of Wootton Major](../S/Smith_of_Wootton_Major.md)*, lưu ý rằng nó lấy bối cảnh ở một thời điểm và địa điểm khác với *The Hobbit* nhưng hy vọng rằng dù sao thì Philip cũng sẽ thích nó. Tolkien cũng khuyến khích sự quan tâm của Philip đối với việc viết lách, cả về chữ viết và bố cục, đồng thời bày tỏ mong muốn Philip tiếp tục phát triển kỹ năng viết của mình. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

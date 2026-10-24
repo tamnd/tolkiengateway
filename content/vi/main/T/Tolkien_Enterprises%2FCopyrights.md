@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Middle-earth Enterprises/Copyrights"
 ---
 
-Chuyển hướng đến [Trung Địa Doanh nghiệp/Bản quyền](../M/Middle-earth_Enterprises%252FCopyrights.md).
+Chuyển hướng đến [Doanh nghiệp Trung Địa/Bản quyền](../M/Middle-earth_Enterprises%252FCopyrights.md).

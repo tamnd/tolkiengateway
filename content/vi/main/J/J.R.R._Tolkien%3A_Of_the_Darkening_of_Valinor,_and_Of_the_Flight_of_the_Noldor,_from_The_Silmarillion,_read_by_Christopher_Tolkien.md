@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Of The Darkening Of Valinor And The Flight Of The Noldor from The Silmarillion"
 ---
 
-Chuyển hướng đến [Về bóng tối của Valinor Và Chuyến bay của Noldor từ The Silmarillion](../O/Of_The_Darkening_Of_Valinor_And_The_Flight_Of_The_Noldor_from_The_Silmarillion.md).
+Chuyển hướng tới [Về bóng tối của Valinor và chuyến bay của Noldor từ The Silmarillion](../O/Of_The_Darkening_Of_Valinor_And_The_Flight_Of_The_Noldor_from_The_Silmarillion.md).

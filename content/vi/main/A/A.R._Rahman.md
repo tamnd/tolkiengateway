@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Rahman, A.R."
 ---
 
-**Allah Rakha Rahman** (sinh [ngày 6 tháng 1](../_/6_January.md), [1966](../_/1966.md), tên **A.S. Dileep Kumar**) là một nhà soạn nhạc và nhà sản xuất âm nhạc người Ấn Độ. Với âm nhạc của mình cho <i><a class="extiw" href="http://en.wikipedia.org/wiki/slumdog_Millionaire" title="wikipedia:slumdog Millionaire">Triệu phú khu ổ chuột</a></i>, anh ấy đã giành được hai Giải Oscar. Anh ấy đã sáng tác nhạc cho *[The Lord of the Rings (musical)](<../T/The_Lord_of_the_Rings_(musical).md>)*, cùng với [Värttinä](../V/Värttinä.md) và [Christopher Nightingale](../C/Christopher_Nightingale.md).
+**Allah Rakha Rahman** (sinh [ngày 6 tháng 1](../_/6_January.md), [1966](../_/1966.md), tên **A.S. Dileep Kumar**) là một nhà soạn nhạc và nhà sản xuất âm nhạc người Ấn Độ. Với âm nhạc của mình cho <i><a class="extiw" href="http://en.wikipedia.org/wiki/slumdog_Millionaire" title="wikipedia:slumdog Millionaire">Triệu phú khu ổ chuột</a></i>, ông đã giành được hai Giải Oscar. Ông đã sáng tác nhạc cho *[The Lord of the Rings (musical)](<../T/The_Lord_of_the_Rings_(musical).md>)*, cùng với [Värttinä](../V/Värttinä.md) và [Christopher Nightingale](../C/Christopher_Nightingale.md).
 
 ## Liên kết ngoài {#External_links}
 

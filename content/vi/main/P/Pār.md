@@ -15,16 +15,16 @@ sort_keys:
   "Telerin nouns": "Par"
 ---
 
-<i><b>pār</b></i> là từ [Telerin](../T/Telerin.md) chỉ "nắm đấm" (chủ yếu là tay dùng dụng cụ chứ không phải đấm).<sup id="cite_ref-PM_1-0" class="reference"><a href="#cite_note-PM-1">[1]</a></sup><sup id="cite_ref-VT_2-0" class="reference"><a href="#cite_note-VT-2">[2]</a></sup>
+<i><b>pār</b></i> là từ [Telerin](../T/Telerin.md) có nghĩa là "nắm đấm" (chủ yếu là tay sử dụng công cụ chứ không phải đấm).<sup id="cite_ref-PM_1-0" class="reference"><a href="#cite_note-PM-1">[1]</a></sup><sup id="cite_ref-VT_2-0" class="reference"><a href="#cite_note-VT-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Từ này là dạng con cháu của [Primitive Quendian](Primitive_Quendian.md) *[kwāră](../K/Kwāra.md)*, bắt nguồn từ gốc [KWAR](../K/KWAR.md).<sup id="cite_ref-PM_1-1" class="reference"><a href="#cite_note-PM-1">[1]</a></sup><sup id="cite_ref-VT_2-1" class="reference"><a href="#cite_note-VT-2">[2]</a></sup>
+Từ này là dạng hậu duệ của [Quendian nguyên thủy](Primitive_Quendian.md) *[kwāră](../K/Kwāra.md)*, bắt nguồn từ gốc [KWAR](../K/KWAR.md).<sup id="cite_ref-PM_1-1" class="reference"><a href="#cite_note-PM-1">[1]</a></sup><sup id="cite_ref-VT_2-1" class="reference"><a href="#cite_note-VT-2">[2]</a></sup>
 
 ## Có cùng nguồn gốc {#Cognates}
 
 - [Quenya](../Q/Quenya.md) *[quár](../Q/Quár.md)*
-- [Sindarin](../S/Sindarin.md) *[paur](Paur.md)*
+- [Tiếng Sindarin](../S/Sindarin.md) *[paur](Paur.md)*
 
 ## Xem thêm {#See_also}
 

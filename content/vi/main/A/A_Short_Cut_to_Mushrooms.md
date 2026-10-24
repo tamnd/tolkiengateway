@@ -61,7 +61,7 @@ Frodo cảnh báo Sam về khả năng họ có thể không bao giờ quay tr�
 <p class="tg-quote-footer"><cite><a class="mw-redirect" href="../S/Sam_Gamgee.md" title="Sam Gamgee">Sam Gamgee</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-Tiếp tục cuộc trò chuyện với Frodo, Sam bày tỏ cảm giác có mục đích sâu sắc hơn; rằng có điều gì đó anh ấy cảm thấy mình phải làm trước khi kết thúc.
+Tiếp tục cuộc trò chuyện với Frodo, Sam bày tỏ cảm giác có mục đích sâu sắc hơn; rằng có điều gì đó ông cảm thấy mình phải làm trước khi kết thúc.
 
 ### Ra phà {#Setting_off_for_the_Ferry}
 
@@ -75,11 +75,11 @@ Bài hát bị cắt ngắn khi họ nghe thấy một tiếng rên rỉ bất t
 
 Frodo thú nhận sự lo lắng của mình đối với người nông dân già, giải thích rằng Maggot đã từng bắt gặp ông ta ăn trộm nấm và đánh đập ông ta, sau đó dặn lũ chó của ông ta ăn Frodo nếu ông ta quay lại. Pippin cười phá lên và hứa rằng Maggot là bạn của tất cả Brandybucks, và đặc biệt là với [Merry](../M/Meriadoc_Brandybuck.md).
 
-Cả nhóm tiến vào khu nhà hướng tới các trang trại và bị bao vây bởi những con chó lớn của Maggot. Tuy nhiên, người nông dân nhanh chóng nhận ra Pippin và gọi lũ chó đi. Maggot giải thích rằng ngày hôm đó có một người lạ đáng ngờ đã băng qua cánh đồng của ông và hỏi ông một số câu hỏi kỳ lạ, khiến người nông dân và đàn chó của ông phải cảnh giác cao độ. Anh ấy rất ngạc nhiên khi Pippin giới thiệu Frodo, nói một cách khó hiểu rằng sự xuất hiện của Baggins thực sự rất đặc biệt. Anh nhanh chóng mời cả nhóm vào nhà để nói chuyện thêm.
+Cả nhóm tiến vào khu nhà hướng tới các trang trại và bị bao vây bởi những con chó lớn của Maggot. Tuy nhiên, người nông dân nhanh chóng nhận ra Pippin và gọi lũ chó đi. Maggot giải thích rằng ngày hôm đó có một người lạ đáng ngờ đã băng qua cánh đồng của ông và hỏi ông một số câu hỏi kỳ lạ, khiến người nông dân và đàn chó của ông phải cảnh giác cao độ. Ông rất ngạc nhiên khi Pippin giới thiệu Frodo, nói một cách khó hiểu rằng sự xuất hiện của Baggins thực sự rất đặc biệt. Anh nhanh chóng mời cả nhóm vào nhà để nói chuyện thêm.
 
-Bà Maggot phục vụ bữa tiệc một loại bia hảo hạng. Farmer Maggot tiết lộ rằng anh ấy nhớ Frodo đã ăn trộm nấm của mình nhiều năm trước, nhưng nhanh chóng bỏ qua vì coi đó đã là chuyện đã qua. Thay vào đó, anh quan tâm nhiều hơn đến việc mô tả cuộc gặp gỡ của mình với người lạ đáng ngờ trước đó. Anh ta giải thích rằng người lạ mặt mặc đồ đen và cưỡi một con ngựa đen tới, khiến đàn chó của anh ta sợ hãi. Người lạ mặt đã hỏi Maggot nơi ở của "Baggins", và thậm chí còn đưa vàng cho người nông dân để đổi lấy việc cho anh ta biết liệu "Baggins" có đến được hay không. Maggot tức giận đuổi người lạ đi, thậm chí còn dọa thả chó của anh ta ra, khiến người lái xe bỏ chạy và biến mất trên đường.
+Bà Maggot phục vụ bữa tiệc một loại bia hảo hạng. Farmer Maggot tiết lộ rằng ông nhớ Frodo đã ăn trộm nấm của mình nhiều năm trước, nhưng nhanh chóng bỏ qua vì coi đó đã là chuyện đã qua. Thay vào đó, anh quan tâm nhiều hơn đến việc mô tả cuộc gặp gỡ của mình với người lạ đáng ngờ trước đó. Ông ta giải thích rằng người lạ mặt mặc đồ đen và cưỡi một con ngựa đen tới, khiến đàn chó của ông ta sợ hãi. Người lạ mặt đã hỏi Maggot nơi ở của "Baggins", và thậm chí còn đưa vàng cho người nông dân để đổi lấy việc cho ông ta biết liệu "Baggins" có đến được hay không. Maggot tức giận đuổi người lạ đi, thậm chí còn dọa thả chó của ông ta ra, khiến người lái xe bỏ chạy và biến mất trên đường.
 
-Giòi bị trừng phạt Frodo vì đã rời Buckland để sống ở Hobbiton. Anh ta đổ lỗi vấn đề hiện tại của Frodo cho cuộc phiêu lưu của Bilbo, đoán chính xác rằng cuối cùng cũng có người đến tìm kho báu mà Bilbo đã mang theo về. Anh ta khuyên Frodo ở lại Buckland, nhưng cũng đoán rằng Frodo có ý định đi nơi khác và sợ phải băng qua vùng quê vào ban đêm để đến Bến Phà.
+Giòi bị trừng phạt Frodo vì đã rời Buckland để sống ở Hobbiton. Ông ta đổ lỗi vấn đề hiện tại của Frodo cho cuộc phiêu lưu của Bilbo, đoán chính xác rằng cuối cùng cũng có người đến tìm kho báu mà Bilbo đã mang theo về. Ông ta khuyên Frodo ở lại Buckland, nhưng cũng đoán rằng Frodo có ý định đi nơi khác và sợ phải băng qua vùng quê vào ban đêm để đến Bến Phà.
 
 Frodo thừa nhận đã lo sợ Maggot và đàn chó của hắn một cách vô lý trong nhiều thập kỷ:
 
@@ -91,7 +91,7 @@ Frodo thừa nhận đã lo sợ Maggot và đàn chó của hắn một cách v
 
 ### Hành trình lên phà {#Journey_to_the_Ferry}
 
-Bất chấp mong muốn của Frodo tiếp tục càng sớm càng tốt, Farmer Maggot thay vào đó đã đề nghị bữa tối Hobbit, hứa sẽ đưa họ đi hết quãng đường còn lại đến Phà bằng xe ngựa. Frodo và bạn bè của anh ấy đã ăn tối với gia đình Maggot và một số Hobbit người đã tham gia một cách ngẫu hứng. Khi họ làm xong, các con trai của Maggot chuẩn bị xe ngựa và bà Maggot chào tạm biệt họ.
+Bất chấp mong muốn của Frodo tiếp tục càng sớm càng tốt, Farmer Maggot thay vào đó đã đề nghị bữa tối Hobbit, hứa sẽ đưa họ đi hết quãng đường còn lại đến Phà bằng xe ngựa. Frodo và bạn bè của ông đã ăn tối với gia đình Maggot và một số Hobbit người đã tham gia một cách ngẫu hứng. Khi họ làm xong, các con trai của Maggot chuẩn bị xe ngựa và bà Maggot chào tạm biệt họ.
 
 Maggot và ba người Hobbit tiếp tục đi xe ngựa dọc con đường tới Bến phà Bucklebury, đèn lồng đã tắt. Sau cuộc hành trình dài 5 dặm đầy căng thẳng nhưng không hề bình yên, họ đến được Bến Phà và xuống tàu. Họ đột nhiên nghe thấy tiếng vó ngựa trên đường phía sau họ, và Hobbit chuẩn bị chiến đấu với một Kỵ Sĩ Đen khi Frodo trốn trong xe. Thay vào đó, những chiếc vó mang theo Merry Brandybuck, người đã xuống đường để tìm kiếm những người bạn mất tích của mình.
 

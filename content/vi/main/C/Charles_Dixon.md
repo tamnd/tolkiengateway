@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Dixon, Charles"
 ---
 
-**Charles "Chuck" Dixon** ([14 tháng 4](../_/14_April.md), [1954](../_/1954.md)) là một nhà văn truyện tranh người Mỹ. Mặc dù anh ấy đã làm việc cho cả <a class="extiw" href="http://en.wikipedia.org/wiki/Marvel_Comics" title="wikipedia:Marvel Comics">Marvel</a> và <a class="extiw" href="http://en.wikipedia.org/wiki/DC_Comics" title="wikipedia:DC Comics">DC</a>, anh ấy được biết đến nhiều nhất nhờ công việc của mình về phần sau, đặc biệt là trên một số tựa phim liên quan đến *Batman*, cũng như các câu chuyện về Conan.
+**Charles "Chuck" Dixon** ([14 tháng 4](../_/14_April.md), [1954](../_/1954.md)) là một nhà văn truyện tranh người Mỹ. Mặc dù ông đã làm việc cho cả <a class="extiw" href="http://en.wikipedia.org/wiki/Marvel_Comics" title="wikipedia:Marvel Comics">Marvel</a> và <a class="extiw" href="http://en.wikipedia.org/wiki/DC_Comics" title="wikipedia:DC Comics">DC</a>, ông được biết đến nhiều nhất nhờ công việc của mình về phần sau, đặc biệt là trên một số tựa phim liên quan đến *Batman*, cũng như các câu chuyện về Conan.
 
 ## Thư mục chọn lọc {#Selected_Bibliography}
 

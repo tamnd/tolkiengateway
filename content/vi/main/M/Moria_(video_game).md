@@ -47,15 +47,15 @@ infobox:
 
 <dl><dd><i>Not to be confused with the MUD <a href="../T/The_Dungeons_of_Moria_(video_game).md" title="The Dungeons of Moria (video game)">The Dungeons of Moria (video game)</a></i></dd></dl>
 
-**Moria** là một trò chơi điện tử phiêu lưu nhập vai có văn bản minh họa lấy bối cảnh trong [Moria](Moria.md).<sup id="cite_ref-Tolkien_Games_1-3" class="reference"><a href="#cite_note-Tolkien_Games-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Mục tiêu của trò chơi là tìm [Chiếc nhẫn Durin](../R/Ring_of_Thrór.md).<sup id="cite_ref-Tolkien_Games_1-4" class="reference"><a href="#cite_note-Tolkien_Games-1">[1]</a></sup> Mặc dù mang tính thương mại nhưng trò chơi này không được cấp phép bởi [Tolkien Estate](../T/Tolkien_Estate.md) hoặc [Tolkien Doanh nghiệp](Middle-earth_Enterprises.md).<sup id="cite_ref-Tolkien_Games_1-5" class="reference"><a href="#cite_note-Tolkien_Games-1">[1]</a></sup>
+**Moria** là một trò chơi điện tử phiêu lưu văn bản nhập vai, có minh họa lấy bối cảnh ở [Moria](Moria.md).<sup id="cite_ref-Tolkien_Games_1-3" class="reference"><a href="#cite_note-Tolkien_Games-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Mục tiêu của trò chơi là tìm [Chiếc nhẫn Durin](../R/Ring_of_Thrór.md).<sup id="cite_ref-Tolkien_Games_1-4" class="reference"><a href="#cite_note-Tolkien_Games-1">[1]</a></sup> Mặc dù mang tính thương mại nhưng trò chơi này không được cấp phép bởi [Tolkien Estate](../T/Tolkien_Estate.md) hoặc [Tolkien Enterprises](Middle-earth_Enterprises.md).<sup id="cite_ref-Tolkien_Games_1-5" class="reference"><a href="#cite_note-Tolkien_Games-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}
 
-- [Dungeon của Moria](<../T/The_Dungeons_of_Moria_(video_game).md>), một game nhập vai khác lấy bối cảnh Moria
+- [Dungeon of Moria](<../T/The_Dungeons_of_Moria_(video_game).md>), một game nhập vai khác lấy bối cảnh ở Moria
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://www.lysator.liu.se/tolkien-games/entry/moria.html" rel="noreferrer noopener" target="_blank">Moria</a> tại <a class="external text" href="http://www.lysator.liu.se" rel="noreferrer noopener" target="_blank">Tolkien Trò chơi</a>
+- <a class="external text" href="http://www.lysator.liu.se/tolkien-games/entry/moria.html" rel="noreferrer noopener" target="_blank">Moria</a> tại <a class="external text" href="http://www.lysator.liu.se" rel="noreferrer noopener" target="_blank">Trò chơi Tolkien</a>
 
 <span></span>
 

@@ -68,7 +68,7 @@ Sự kiện xảy ra vào ngày 15 tháng 6
 - **[1948](1948.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 115](../L/Letter_115.md).
 - **[1954](1954.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 147](../L/Letter_147.md).
 - **[1964](1964.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết xong [thư gửi W.R. Matthews](../L/Letter_to_W.R._Matthews.md).
-- **[1967](1967.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) ghi câu thơ cho kỷ lục *[Poems and Songs of Middle Earth](../P/Poems_and_Songs_of_Middle_Earth.md)*.
+- **[1967](1967.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) ghi câu thơ cho bản ghi *[Poems and Songs of Middle Earth](../P/Poems_and_Songs_of_Middle_Earth.md)*.
 - **[2003](2003.md)** - Diễn viên lồng tiếng [Philip Stone](../P/Philip_Stone.md) qua đời.
 - **[2007](2007.md)** - "Phản bội và lừa dối", tập thứ mười sáu trong *[The Lord of the Rings Trading Card Game](../T/The_Lord_of_the_Rings_Trading_Card_Game.md)*, được phát hành.
 - **[2014](2014.md)** - Diễn viên lồng tiếng [Casey Kasem](../C/Casey_Kasem.md) qua đời.

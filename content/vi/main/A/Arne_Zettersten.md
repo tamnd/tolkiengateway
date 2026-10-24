@@ -33,7 +33,7 @@ infobox:
 
 **Arne Zettersten** ([1934](../_/1934.md)-[2015](../_/2015.md)) là giáo sư danh dự người Thụy Điển. Trước khi nghỉ hưu, Zettersten là Trưởng khoa và Giáo sư tiếng Anh tại Đại học Copenhagen.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Trong [1965](../_/1965.md), Zettersten trình bày luận án tiến sĩ của mình về [ngôn ngữ AB](AB_language.md), một phương ngữ văn học thời trung cổ được xác định lần đầu tiên bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Và trong suốt những năm 1960 tại [Oxford](../O/Oxford.md), Zettersten đã trở thành bạn và đồng nghiệp của Tolkien, vì cả hai đều có chung mối quan tâm đến một bộ sưu tập các bản thảo thời Trung cổ ("<a class="extiw" href="http://en.wikipedia.org/wiki/Katherine_Group" title="wikipedia:Katherine Group">Nhóm Katherine</a>"). Mối liên hệ của họ vẫn tiếp tục trong suốt 13 năm cuối đời của Tolkien. Arne Zettersten mất năm 2015, thọ 81 tuổi.
+Trong [1965](../_/1965.md), Zettersten trình bày luận án tiến sĩ của mình về [ngôn ngữ AB](AB_language.md), một phương ngữ văn học thời trung cổ được xác định lần đầu tiên bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Và trong những năm 1960 ở [Oxford](../O/Oxford.md), Zettersten đã trở thành bạn và đồng nghiệp của Tolkien, vì cả hai đều có chung mối quan tâm đến một bộ sưu tập các bản thảo thời Trung cổ ("<a class="extiw" href="http://en.wikipedia.org/wiki/Katherine_Group" title="wikipedia:Katherine Group">Nhóm Katherine</a>"). Sự liên lạc của họ tiếp tục trong suốt 13 năm cuối đời của Tolkien. Arne Zettersten mất năm 2015, thọ 81 tuổi.
 
 ## Thư mục {#Bibliography}
 
@@ -60,7 +60,7 @@ Thư mục chọn lọc của các tác phẩm liên quan đến J.R.R. Tolkien.
 ## Liên kết ngoài {#External_links}
 
 - <a class="external text" href="http://universitypost.dk/article/obituary-arne-zettersten-1934-2015" rel="noreferrer noopener" target="_blank">Cáo phó tại Đại học Copenhagen</a>
-Thế giới kép và quá trình sáng tạo của - <a class="external text" href="http://www.tolkienlibrary.com/press/963-Tolkien_Double_Worlds_Creative_Process.php" rel="noreferrer noopener" target="_blank">Tolkien của Arne Zettersten</a>
+- <a class="external text" href="http://www.tolkienlibrary.com/press/963-Tolkien_Double_Worlds_Creative_Process.php" rel="noreferrer noopener" target="_blank">Thế giới kép và quá trình sáng tạo của Tolkien bởi Arne Zettersten</a>
 
 <span></span>
 

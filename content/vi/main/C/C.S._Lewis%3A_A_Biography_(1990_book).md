@@ -50,7 +50,7 @@ Theo <a class="extiw" href="http://en.wikipedia.org/wiki/Douglas_Gresham" title=
 
 "Một tiểu sử hoàn hảo...Wilson là một nhà văn rất thông minh, trôi chảy và hấp dẫn, với nhiều đặc điểm mà ông gán cho chủ đề của mình: 'phẩm chất trò chuyện luôn thông minh', 'khả năng phác họa nhân vật nhanh chóng, sắc nét và 'nền tảng của lẽ thường'." THE NEW CỘNG HÒA.
 
-A.N. Wilson cho thấy trong cuốn tiểu sử mới xuất sắc này, C.S. Lewis, người đàn ông đó, cũng đa diện như C.S. Lewis nhà văn. Một người bạn vui tính, hay bắt nạt, nghiện rượu nặng và hút thuốc. Một người đàn ông có mối quan hệ với phụ nữ khiến ngay cả những người thân thiết nhất với anh ta cũng bối rối. C.S. Lewis là tất cả những điều này, và A.N. Wilson đã thành công, điều mà chưa một nhà viết tiểu sử nào trước đó làm được, trong việc đưa con người rộng lượng, đầy nhiệt huyết, kiên định, đầy rắc rối và có tài năng tuyệt vời này vào cuộc sống.
+A.N. Wilson cho thấy trong cuốn tiểu sử mới xuất sắc này, C.S. Lewis, người đàn ông đó, cũng đa diện như C.S. Lewis nhà văn. Một người bạn vui tính, hay bắt nạt, nghiện rượu nặng và hút thuốc. Một người đàn ông có mối quan hệ với phụ nữ khiến ngay cả những người thân thiết nhất với ông ta cũng bối rối. C.S. Lewis là tất cả những điều này, và A.N. Wilson đã thành công, điều mà chưa một nhà viết tiểu sử nào trước đó làm được, trong việc đưa con người rộng lượng, đầy nhiệt huyết, kiên định, đầy rắc rối và có tài năng tuyệt vời này vào cuộc sống.
 
 MỘT CUỐN SÁCH ĐÁNG CHÚ Ý TRONG NĂM CỦA NEW YORK TIME <span></span>
 

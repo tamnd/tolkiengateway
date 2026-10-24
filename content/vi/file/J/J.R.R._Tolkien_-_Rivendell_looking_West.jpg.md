@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Bản phác thảo bằng bút chì chưa hoàn thiện này đã được xuất bản trong [The Lord of the Rings Lịch 1977](../../main/T/The_Lord_of_the_Rings_1977_Calendar.md) và bị cắt bớt phần trên và phần dưới.
+Bản phác thảo bằng bút chì chưa hoàn thiện này đã được xuất bản trong [The Lord of the Rings 1977 Calendar](../../main/T/The_Lord_of_the_Rings_1977_Calendar.md) và bị cắt bớt phần trên và phần dưới.
 
 ## Giấy phép {#Licensing}
 

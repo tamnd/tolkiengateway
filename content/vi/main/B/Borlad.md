@@ -55,7 +55,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Borlad, giống như cha và các anh trai của mình, gia nhập [Beleriand](Beleriand.md) vào cuối [Kỷ Đệ Nhất](../F/First_Age.md) và phục vụ cho [Maedhros](../M/Maedhros.md) và [Maglor](../M/Maglor.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Anh ta chiến đấu trong [Nirnaeth Arnoediad](../N/Nirnaeth_Arnoediad.md), và trung thành với [Noldor](../N/Noldor.md), tham gia vào việc tàn sát các con trai của [Ulfang](../U/Ulfang.md) trước khi chính anh ta bị giết.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Borlad, giống như cha và các anh trai của mình, đã gia nhập [Beleriand](Beleriand.md) vào cuối [Kỷ nguyên thứ nhất](../F/First_Age.md), và phục vụ [Maedhros](../M/Maedhros.md) và [Maglor](../M/Maglor.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Anh đã chiến đấu trong [Nirnaeth Arnoediad](../N/Nirnaeth_Arnoediad.md), và trung thành với [Noldor](../N/Noldor.md), tham gia vào giết hại các con trai của [Ulfang](../U/Ulfang.md) trước khi chính ông ta bị giết.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Phả hệ {#Genealogy}
 
@@ -71,7 +71,7 @@ Các phiên bản đầu tiên của cái tên được gắn trực tiếp vớ
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong các phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md), anh ấy được gọi là *Borlas*<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> (tên sau này được dùng cho [Borlas of Pen-arduin](Borlas.md)). Trong phụ lục *[The Lost Road](../T/The_Lost_Road.md)* có ghi rằng Borlad (lúc đó gọi là Borlas) sinh năm 143.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Trong các phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md), ông được gọi là *Borlas*<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> (tên sau này được dùng cho [Borlas of Pen-arduin](Borlas.md)). Trong phụ lục của *[The Lost Road](../T/The_Lost_Road.md)* có ghi rằng Borlad (lúc đó gọi là Borlas) sinh năm 143.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 <span></span>
 

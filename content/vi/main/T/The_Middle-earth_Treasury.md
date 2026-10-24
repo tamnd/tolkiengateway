@@ -36,7 +36,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Middle-earth_Treasury.png.md"><img src="https://tolkiengateway.net/w/images/thumb/e/e5/Middle-earth_Treasury.png/320px-Middle-earth_Treasury.png" decoding="async" loading="lazy" width="320" height="173" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e5/Middle-earth_Treasury.png/480px-Middle-earth_Treasury.png 1.5x, https://tolkiengateway.net/w/images/thumb/e/e5/Middle-earth_Treasury.png/640px-Middle-earth_Treasury.png 2x" data-file-width="1500" data-file-height="812"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Middle-earth Treasury</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../H/HarperCollins.md" title="HarperCollins">HarperCollins</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a class="mw-redirect" href="../O/October_19.md" title="October 19">October 19</a> <a href="../_/2017.md" title="2017">2017</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Hardcover, boxed set</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0008260184" title="Special:BookSources/0008260184">0008260184</a></td></tr></tbody></table>
 
-<i><b>Kho bạc Trung Địa</b></i> là một bộ [2017](../_/2017.md) đóng hộp bỏ túi được xuất bản bởi [HarperCollins](../H/HarperCollins.md). Bộ sưu tập này bao gồm:
+<i><b>Kho bạc Trung Địa</b></i> là một bộ [2017](../_/2017.md) đóng hộp bỏ túi do [HarperCollins](../H/HarperCollins.md) xuất bản. Bộ sưu tập này bao gồm:
 
 - *[The Hobbit](The_Hobbit.md)* ([2011](../_/2011.md) phiên bản bìa cứng bỏ túi)
 - *[The Lord of the Rings](The_Lord_of_the_Rings.md)* 3 tập ([2017](../_/2017.md) ấn bản bìa cứng bỏ túi) (không bán riêng)
@@ -52,4 +52,4 @@ infobox:
 
 ## Xem thêm {#See_also}
 
-Bộ đóng hộp - [Bộ Tolkien Kho bạc](The_Tolkien_Treasury.md)
+Bộ đóng hộp - [Kho bạc Tolkien](The_Tolkien_Treasury.md)

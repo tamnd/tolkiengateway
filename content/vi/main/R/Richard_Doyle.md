@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Doyle, Richard"
 ---
 
-**Richard Doyle** là một diễn viên người Mỹ. Anh ấy lồng tiếng cho [Haldir](../H/Haldir.md) trong trò chơi điện tử [EA](../E/Electronic_Arts.md) *[EA's The Battle for Middle-earth II](../E/EA's_The_Battle_for_Middle-earth_II.md)*.
+**Richard Doyle** là một diễn viên người Mỹ. Ông lồng tiếng cho [Haldir](../H/Haldir.md) trong trò chơi điện tử [EA](../E/Electronic_Arts.md) *[EA's The Battle for Middle-earth II](../E/EA's_The_Battle_for_Middle-earth_II.md)*.
 
 ## Liên kết ngoài {#External_links}
 

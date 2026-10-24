@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Land of Shadow"
 ---
 
-Chuyển hướng đến [Vùng đất Bóng Tối](../T/The_Land_of_Shadow.md).
+Chuyển hướng đến [Vùng đất bóng tối](../T/The_Land_of_Shadow.md).

@@ -29,9 +29,9 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien truyền tải sự mệt mỏi sâu sắc của anh ấy sau chuyến đi đến Ý, điều này càng làm anh ấy trầm trọng hơn thay vì giảm bớt sự kiệt sức. Khi trở về, anh cảm thấy không muốn tham gia vào các hoạt động trí tuệ như đọc, viết hoặc suy nghĩ, thay vào đó anh thích lao động chân tay như dọn dẹp và làm vườn.
+Tolkien truyền tải sự mệt mỏi sâu sắc của mình sau chuyến đi đến Ý, điều này càng làm trầm trọng thêm hơn là làm giảm bớt tình trạng kiệt sức của ông. Khi trở về, anh cảm thấy không muốn tham gia vào các hoạt động trí tuệ như đọc, viết hoặc suy nghĩ, thay vào đó anh thích lao động chân tay như dọn dẹp và làm vườn.
 
-Tolkien đề cập đến [bài giảng của O'Donnell](../E/English_and_Welsh.md) sắp diễn ra tại [Đại học Oxford](../U/University_of_Oxford.md), bài giảng mà anh đã nhiều lần trì hoãn và giờ đây cảm thấy lo sợ vì không thể nhớ lại nội dung dự định của mình. Anh ấy cũng bày tỏ sự yêu mến của mình đối với những người tiếng Wales và nỗ lực học cách thông thạo tiếng Wales thông tục hiện đại, mặc dù thành công còn hạn chế, chủ yếu do thiếu cơ hội thực hành. <br>
+Tolkien đề cập đến [bài giảng của O'Donnell](../E/English_and_Welsh.md) sắp diễn ra tại [Đại học Oxford](../U/University_of_Oxford.md), bài giảng mà ông đã nhiều lần hoãn lại và giờ đây cảm thấy lo sợ vì không thể nhớ lại nội dung dự định của mình. Ông cũng bày tỏ sự yêu mến của mình đối với người dân xứ Wales và nỗ lực học thông thạo tiếng Wales thông tục hiện đại, mặc dù thành công còn hạn chế, chủ yếu do thiếu cơ hội thực hành. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

@@ -31,7 +31,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien cho biết anh rất vinh dự trước lá thư của Thurston và sẵn lòng rằng cô nên sử dụng [Rivendell](../R/Rivendell.md) làm tiền tố đàn, mặc dù anh khẳng định rằng anh không biết liệu thung lũng thực tế có phù hợp cho việc chăn nuôi đàn hay không. Tolkien bày tỏ sự quan tâm đến những cái tên mà cô sẽ chọn cho những con bò đực và đề nghị chọn hoặc đặt tên nếu cô muốn. Từ [Elvish](../E/Elvish.md) cho "con bò" là [MUNDO](../M/Mundo.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup>
+Tolkien cho biết ông rất vinh dự trước lá thư của Thurston và sẵn lòng cho rằng bà nên sử dụng [Rivendell](../R/Rivendell.md) làm tiền tố đàn, mặc dù ông khẳng định rằng ông không biết liệu thung lũng thực sự có phù hợp cho việc chăn nuôi đàn hay không. Tolkien bày tỏ sự quan tâm đến những cái tên mà cô sẽ chọn cho những con bò đực và đề nghị chọn hoặc đặt tên nếu cô muốn. Từ [Elvish](../E/Elvish.md) cho "con bò" là [MUNDO](../M/Mundo.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup>
 
 ## Lưu ý {#Note}
 

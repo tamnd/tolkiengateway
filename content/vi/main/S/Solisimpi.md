@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Solosimpi"
 ---
 
-Chuyển hướng đến [Solosimpi](Solosimpi.md).
+Chuyển hướng tới [Solosimpi](Solosimpi.md).

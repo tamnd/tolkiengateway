@@ -29,43 +29,43 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_-_The_Return_of_the_King_-_Original_Motion_Picture_Soundtrack.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/8/80/The_Lord_of_the_Rings_-_The_Return_of_the_King_-_Original_Motion_Picture_Soundtrack.jpg/320px-The_Lord_of_the_Rings_-_The_Return_of_the_King_-_Original_Motion_Picture_Soundtrack.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/80/The_Lord_of_the_Rings_-_The_Return_of_the_King_-_Original_Motion_Picture_Soundtrack.jpg/480px-The_Lord_of_the_Rings_-_The_Return_of_the_King_-_Original_Motion_Picture_Soundtrack.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/8/80/The_Lord_of_the_Rings_-_The_Return_of_the_King_-_Original_Motion_Picture_Soundtrack.jpg/640px-The_Lord_of_the_Rings_-_The_Return_of_the_King_-_Original_Motion_Picture_Soundtrack.jpg 2x" data-file-width="1448" data-file-height="1448"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span><i>The Lord of the Rings: The Return of the King - Original Motion Picture Soundtrack</i></span></th></tr><tr><td colspan="2" class="tg-infobox-caption">Soundtrack by <a href="../H/Howard_Shore.md" title="Howard Shore">Howard Shore</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/25_November.md" title="25 November">25 November</a>, <a href="../_/2003.md" title="2003">2003</a></td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data">English</td></tr><tr><th scope="row" class="tg-infobox-label">Label</th><td class="tg-infobox-data"><a class="extiw" href="http://en.wikipedia.org/wiki/Reprise_Records" title="wikipedia:Reprise Records">Reprise Records</a></td></tr></tbody></table>
 
-<i><b>The Lord of the Rings: The Return of the King - Nhạc phim gốc</b></i> là một album bao gồm nhạc nền từ bộ phim *[The Lord of the Rings: The Return of the King](The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*ra rạp. Nó được phát hành [25 tháng 11](../_/25_November.md), [2003](../_/2003.md). Một bản nhạc phim mở rộng, dựa trên phiên bản mở rộng của bộ phim, sau đó được phát hành dưới tên *[The Lord of the Rings: The Return of the King - The Complete Recordings](The_Lord_of_the_Rings%253A_The_Return_of_the_King_-_The_Complete_Recordings.md)*.
+<i><b>Chúa tể của những chiếc nhẫn: Sự trở lại của nhà vua - Nhạc phim gốc</b></i> là một album bao gồm nhạc nền từ bộ phim *[The Lord of the Rings: The Return of the King](The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)* được phát hành tại rạp. Nó được phát hành [25 tháng 11](../_/25_November.md), [2003](../_/2003.md). Một bản nhạc phim mở rộng, dựa trên phiên bản mở rộng của bộ phim, sau đó được phát hành dưới tên *[The Lord of the Rings: The Return of the King - The Complete Recordings](The_Lord_of_the_Rings%253A_The_Return_of_the_King_-_The_Complete_Recordings.md)*.
 
 ## Nội dung {#Contents}
 
 1. [Một cơn bão đang đến](../A/A_Storm_Is_Coming.md) (2:52)
 2. [Hy vọng và Ký ức](../H/Hope_and_Memory.md) (1:45)
 3. [Minas Tirith](<../M/Minas_Tirith_(soundtrack).md>) (3:37)
-4. [Cái Cây Trắng](The_White_Tree.md) (3:25)
-5. [Quản gia của Gondor](The_Steward_of_Gondor.md) (3:53)
+4. [Cây trắng](The_White_Tree.md) (3:25)
+5. [Người quản lý Gondor](The_Steward_of_Gondor.md) (3:53)
 6. [Minas Morgul](<../M/Minas_Morgul_(soundtrack).md>) (1:58)
-7. [Chuyến đi của Rohirrim](<The_Ride_of_the_Rohirrim_(soundtrack).md>) (2:08)
-8. [Chạng vạng và Bóng Tối](Twilight_and_Shadow.md) (3:30)
+7. [Chuyến đi của người Rohirrim](<The_Ride_of_the_Rohirrim_(soundtrack).md>) (2:08)
+8. [Chạng vạng và bóng tối](Twilight_and_Shadow.md) (3:30)
 9. [Cirith Ungol](<../C/Cirith_Ungol_(soundtrack).md>) (1:44)
 10. [Andúril](<../A/Andúril_(soundtrack).md>) (2:35)
 11. [Hang ổ của Shelob](<../S/Shelob's_Lair_(soundtrack).md>) (4:07)
 12. [Tro và Khói](../A/Ash_and_Smoke.md) (3:25)
 13. [Cánh đồng Pelennor](The_Fields_of_the_Pelennor.md) (3:26)
 14. [Hy vọng thất bại](../H/Hope_Fails.md) (2:20)
-15. [ Cổng Đen Mở](<The_Black_Gate_Opens_(soundtrack).md>) (4:01)
+15. [Cổng đen mở](<The_Black_Gate_Opens_(soundtrack).md>) (4:01)
 16. [Sự kết thúc của mọi thứ](<The_End_of_All_Things_(soundtrack).md>) (5:12)
-17. [The Return of the King](<The_Return_of_the_King_(soundtrack).md>) (10:14)
-18. [ Cảng Xám](<The_Grey_Havens_(soundtrack).md>) (5:59)
+17. [Sự trở lại của nhà vua](<The_Return_of_the_King_(soundtrack).md>) (10:14)
+18. [Những thiên đường xám](<The_Grey_Havens_(soundtrack).md>) (5:59)
 19. [Into the West](../I/Into_the_West.md), có [Annie Lennox](../A/Annie_Lennox.md) (5:49)
 
 ## Xem thêm {#See_also}
 
-- [*The Lord of the Rings: Bộ ba phim điện ảnh* - Nhạc phim gốc](../../category/T/The_Lord_of_the_Rings%253A_The_Motion_Picture_Trilogy_Original_Soundtracks.md):
+- [*The Lord of the Rings: The Motion Picture Trilogy* - Original Soundtracks](../../category/T/The_Lord_of_the_Rings%253A_The_Motion_Picture_Trilogy_Original_Soundtracks.md):
     - *[The Fellowship of the Ring](The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack.md)*
     - *[The Two Towers](The_Lord_of_the_Rings%253A_The_Two_Towers_-_Original_Motion_Picture_Soundtrack.md)*
-- [*The Lord of the Rings: Bộ ba phim điện ảnh* - Bản ghi âm hoàn chỉnh](../../category/T/The_Lord_of_the_Rings%253A_The_Motion_Picture_Trilogy_The_Complete_Recordings.md):
+- [*The Lord of the Rings: The Motion Picture Trilogy* - The Complete Recordings](../../category/T/The_Lord_of_the_Rings%253A_The_Motion_Picture_Trilogy_The_Complete_Recordings.md):
     - *[The Fellowship of the Ring](The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_-_The_Complete_Recordings.md)*
     - *[The Two Towers](The_Lord_of_the_Rings%253A_The_Two_Towers_-_The_Complete_Recordings.md)*
     - *[The Return of the King](The_Lord_of_the_Rings%253A_The_Return_of_the_King_-_The_Complete_Recordings.md)*
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://www.amagpiesnest.com/cd_editions/ROTK/ROTKost.htm" rel="noreferrer noopener" target="_blank"><i>The Lord of the Rings: The Return of the King - Nhạc phim gốc</i></a> trên <a class="external text" href="http://www.amagpiesnest.com/" rel="noreferrer noopener" target="_blank">A Magpie Nest</a>
+- <a class="external text" href="http://www.amagpiesnest.com/cd_editions/ROTK/ROTKost.htm" rel="noreferrer noopener" target="_blank"><i>Chúa tể của những chiếc nhẫn: Sự trở lại của nhà vua - Nhạc phim gốc</i></a> trên <a class="external text" href="http://www.amagpiesnest.com/" rel="noreferrer noopener" target="_blank">A Magpie Nest</a>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

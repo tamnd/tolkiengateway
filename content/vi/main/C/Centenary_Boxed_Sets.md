@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Christopher Tolkien Centenary Boxed Sets"
 ---
 
-Chuyển hướng đến [Christopher Tolkien Bộ đóng hộp trăm năm](Christopher_Tolkien_Centenary_Boxed_Sets.md).
+Chuyển hướng đến [Bộ đóng hộp kỷ niệm 100 năm của Christopher Tolkien](Christopher_Tolkien_Centenary_Boxed_Sets.md).

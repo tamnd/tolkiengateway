@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Maqsud, Oliver"
 ---
 
-**Oliver Maqsud** là một nghệ sĩ đã lấy cảm hứng từ các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) từ khi còn nhỏ. Anh ấy đã làm việc với tư cách là một họa sĩ và họa sĩ minh họa tự do trong khoảng 18 năm và sẽ nghỉ hưu sớm kể từ năm 2023.
+**Oliver Maqsud** là một nghệ sĩ đã lấy cảm hứng từ các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) từ khi còn nhỏ. Ông đã làm việc với tư cách là một họa sĩ và họa sĩ minh họa tự do trong khoảng 18 năm và sẽ nghỉ hưu sớm kể từ năm 2023.
 
 ## Xem thêm {#See_also}
 

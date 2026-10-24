@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Symphony No. 1, \"The Lord of the Rings\""
 ---
 
-Chuyển hướng tới [Bản giao hưởng số 1, "The Lord of the Rings"](Symphony_No._1,_%2522The_Lord_of_the_Rings%2522.md).
+Chuyển hướng đến [Bản giao hưởng số 1, "Chúa tể của những chiếc nhẫn"](Symphony_No._1,_%2522The_Lord_of_the_Rings%2522.md).

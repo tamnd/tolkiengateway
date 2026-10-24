@@ -15,6 +15,6 @@ sort_keys:
 ---
 
 - Người giữ bản quyền [David Bratman](../../main/D/David_Bratman.md) cấp quyền sử dụng [David Bratman.jpg](../../file/D/David_Bratman.jpg.md) trên Tolkien Gateway.
-- Tuyên bố từ người giữ bản quyền: "*Tuy nhiên, vì tôi đưa nó lên đó để mọi người có thể xem nên Tolkien Gateway có thể được tôi cho phép sao chép và sử dụng nó cho mục đích phi lợi nhuận trên cơ sở giống như cách bạn sử dụng Tom Shippey.*" (thư)
+- Tuyên bố từ người giữ bản quyền: "*Tuy nhiên, vì tôi đưa nó lên đó để mọi người có thể xem nên Tolkien Gateway có thể được tôi cho phép sao chép và sử dụng nó cho mục đích phi lợi nhuận trên cơ sở giống như bạn sử dụng của Tom Shippey.*" (thư)
 - Ngày: 19 tháng 2 năm 2012
 - Người dùng đã xin phép: [Người dùng:Amroth](https://tolkiengateway.net/wiki/User:Amroth)

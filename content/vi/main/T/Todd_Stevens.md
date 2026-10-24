@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Stevens, Todd"
 ---
 
-**Todd Stevens** là người thiết kế [Trung Địa: Những câu đố](../M/Middle-earth%253A_The_Riddles.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
+**Todd Stevens** là người thiết kế [Middle-earth: The Riddles](../M/Middle-earth%253A_The_Riddles.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

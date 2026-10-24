@@ -28,7 +28,7 @@ images:
 
 **Cà rốt** là nhân vật trong một câu chuyện thiếu nhi chưa hoàn chỉnh và chưa được xuất bản<sup id="cite_ref-chronology_1-0" class="reference"><a href="#cite_note-chronology-1">[1]</a></sup> của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).<sup id="cite_ref-Bio_2-0" class="reference"><a href="#cite_note-Bio-2">[2]</a></sup>
 
-Khi gia đình Tolkien chuyển đến [1924](../_/1924.md)<sup id="cite_ref-chronology_1-1" class="reference"><a href="#cite_note-chronology-1">[1]</a></sup> đến số 2 đường Darnley<sup id="cite_ref-chronology_1-2" class="reference"><a href="#cite_note-chronology-1">[1]</a></sup> ở Leeds, [John Tolkien](../J/John_Tolkien.md) kể lại rằng cậu thường khó ngủ và bố cậu thường đến bên giường kể chuyện cho cậu nghe. Một trong những câu chuyện kể về một cậu bé tên Carrots, có mái tóc đỏ và trèo "vào chiếc đồng hồ cúc cu" để thực hiện một loạt cuộc phiêu lưu kỳ lạ.<sup id="cite_ref-Bio_2-1" class="reference"><a href="#cite_note-Bio-2">[2]</a></sup>
+Khi gia đình Tolkien chuyển [1924](../_/1924.md)<sup id="cite_ref-chronology_1-1" class="reference"><a href="#cite_note-chronology-1">[1]</a></sup> đến số 2 đường Darnley<sup id="cite_ref-chronology_1-2" class="reference"><a href="#cite_note-chronology-1">[1]</a></sup> ở Leeds, [John Tolkien](../J/John_Tolkien.md) kể lại rằng anh thường khó ngủ và bố anh thường đến bên giường anh và kể chuyện cho anh nghe. Một trong những câu chuyện kể về một cậu bé tên Carrots, có mái tóc đỏ và trèo "vào chiếc đồng hồ cúc cu" để thực hiện một loạt cuộc phiêu lưu kỳ lạ.<sup id="cite_ref-Bio_2-1" class="reference"><a href="#cite_note-Bio-2">[2]</a></sup>
 
 <span></span>
 

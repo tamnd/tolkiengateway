@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Shadow"
 ---
 
-Chuyển hướng đến [Bóng Tối](../S/Shadow.md).
+Chuyển hướng đến [Bóng](../S/Shadow.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Ronald Ashton"
 ---
 
-Chuyển hướng đến [Thư gửi Ronald Ashton](../L/Letter_to_Ronald_Ashton.md).
+Chuyển hướng tới [Thư gửi Ronald Ashton](../L/Letter_to_Ronald_Ashton.md).

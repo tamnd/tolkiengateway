@@ -13,11 +13,11 @@ categories:
   - "Quenya adjectives"
 ---
 
-<i><b>angaina</b></i> là một từ [Quenya](../Q/Quenya.md) có nghĩa là "bằng sắt". Từ cùng nguồn gốc [Sindarin](../S/Sindarin.md) là *[angren](Angren.md)*.<sup id="cite_ref-Ety_1-0" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup>
+<i><b>angaina</b></i> là một từ [Quenya](../Q/Quenya.md) có nghĩa là "của sắt". Từ cùng nguồn gốc [Sindarin](../S/Sindarin.md) là *[angren](Angren.md)*.<sup id="cite_ref-Ety_1-0" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Liên quan đến Quenya *[anga](Anga.md)* ("sắt"), *angaina* xuất phát từ [Elvish](../E/Elvish.md) [gốc](../S/Sundocarme.md) [ANGĀ](ANGA~30450.md).<sup id="cite_ref-Ety_1-1" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup>
+Liên quan đến Quenya *[anga](Anga.md)* ("sắt"), *angaina* bắt nguồn từ [Elvish](../E/Elvish.md) [gốc](../S/Sundocarme.md) [ANGĀ](ANGA~30450.md).<sup id="cite_ref-Ety_1-1" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup>
 
 <span></span>
 

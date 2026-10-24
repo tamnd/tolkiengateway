@@ -41,21 +41,21 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../O/Orcs.md" title="Orcs">Orc</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Balcmeg</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../G/Gondolin.md" title="Gondolin">Gondolin</a></td></tr><tr><th scope="row" class="tg-infobox-label">Affiliation</th><td class="tg-infobox-data"><a href="../M/Morgoth.md" title="Morgoth">Melko</a></td></tr><tr><th scope="row" class="tg-infobox-label">Death</th><td class="tg-infobox-data">Slain by <a href="../T/Tuor.md" title="Tuor">Tuor</a> during the <a href="../F/Fall_of_Gondolin.md" title="Fall of Gondolin">Fall of Gondolin</a><br/><a href="../G/Gondolin.md" title="Gondolin">Gondolin</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Balcmeg.md" title="Category:Images of Balcmeg">Images of Balcmeg</a></td></tr></tbody></table>
 
-**Balcmeg** bị [Orc](../O/Orcs.md) giết bởi [Tuor](../T/Tuor.md) trong [Gondolin](../G/Gondolin.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Balcmeg** là một [Orc](../O/Orcs.md) bị giết bởi [Tuor](../T/Tuor.md) ở [Gondolin](../G/Gondolin.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Lịch sử {#History}
 
 Balcmeg được coi là *"một chiến binh vĩ đại trong số <a class="new" href="https://tolkiengateway.net/w/index.php?title=Orclim&amp;action=edit&amp;redlink=1" title="Orclim (page does not exist)">Orclim</a>"*.<sup id="cite_ref-Appendix_2-0" class="reference"><a href="#cite_note-Appendix-2">[2]</a></sup>
 
-Trong [Sự sụp đổ của Gondolin](../F/Fall_of_Gondolin.md), Balcmeg nằm trong số những Orc đã tấn công [Gondothlim](../G/Gondothlim.md) cùng với [Balrog](Balrogs.md) khi [Drakes](../D/Dragons.md) xuất hiện. Balcmeg cuối cùng đã bị giết bởi Tuor, kẻ đã chặt đôi ông ta bằng chiếc rìu [Dramborleg](../D/Dramborleg.md) trong quá trình đó.<sup id="cite_ref-LT2Gondolin_3-0" class="reference"><a href="#cite_note-LT2Gondolin-3">[3]</a></sup>
+Trong [Sự sụp đổ của Gondolin](../F/Fall_of_Gondolin.md), Balcmeg nằm trong số những Orc đã tấn công [Gondothlim](../G/Gondothlim.md) cùng với [Balrogs](Balrogs.md) khi [Drakes](../D/Dragons.md) xuất hiện. Balcmeg cuối cùng đã bị giết bởi Tuor, kẻ đã chặt đôi ông ta bằng chiếc rìu [Dramborleg](../D/Dramborleg.md) của mình trong quá trình đó.<sup id="cite_ref-LT2Gondolin_3-0" class="reference"><a href="#cite_note-LT2Gondolin-3">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Balcmeg* là một cái tên [Gnomish](../G/Gnomish.md) có nghĩa là "trái tim của ác quỷ",<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> được bao gồm bởi phần tử *[Balc](Balc.md)* ("ác độc, độc ác").<sup id="cite_ref-Appendix_2-1" class="reference"><a href="#cite_note-Appendix-2">[2]</a></sup> Dạng [Qenya](../Q/Qenya.md) của nó là *Malkamekte*.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+*Balcmeg* là một cái tên [Gnomish](../G/Gnomish.md) có nghĩa là "trái tim của ác quỷ",<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> bao gồm phần tử *[Balc](Balc.md)* ("ác độc, độc ác").<sup id="cite_ref-Appendix_2-1" class="reference"><a href="#cite_note-Appendix-2">[2]</a></sup> Dạng [Qenya](../Q/Qenya.md) của nó là *Malkamekte*.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Balcmeg chưa bao giờ xuất hiện trong bất kỳ bài viết nào của Tolkien sau "[The Fall of Gondolin](<../T/The_Fall_of_Gondolin_(chapter).md>)" trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.
+Balcmeg chưa bao giờ xuất hiện trong bất kỳ tác phẩm nào của Tolkien sau "[Sự sụp đổ của Gondolin](<../T/The_Fall_of_Gondolin_(chapter).md>)" trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.
 
 ## Xem thêm {#See_also}
 

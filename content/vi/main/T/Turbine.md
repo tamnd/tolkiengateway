@@ -18,7 +18,7 @@ categories:
 
 Năm 2018, nó được đổi tên thành **WB Games Boston**.
 
-- <i><b><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></b></i>
+- <i><b><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></b></i>
     - [2007](../_/2007.md): *[The Lord of the Rings Online: Shadows of Angmar](The_Lord_of_the_Rings_Online%253A_Shadows_of_Angmar.md)*
     - [2008](../_/2008.md): *[The Lord of the Rings Online: Mines of Moria](The_Lord_of_the_Rings_Online%253A_Mines_of_Moria.md)*
     - [2009](../_/2009.md): *[The Lord of the Rings Online: Siege of Mirkwood](The_Lord_of_the_Rings_Online%253A_Siege_of_Mirkwood.md)*
@@ -29,4 +29,4 @@ Năm 2018, nó được đổi tên thành **WB Games Boston**.
 ## Liên kết ngoài {#External_links}
 
 - <a class="external text" href="http://www.turbine.com" rel="noreferrer noopener" target="_blank">Trang web chính thức</a>
-- <a class="external text" href="http://lotro.turbine.com" rel="noreferrer noopener" target="_blank">The Lord of the Rings Online</a>
+- <a class="external text" href="http://lotro.turbine.com" rel="noreferrer noopener" target="_blank">Chúa tể của những chiếc nhẫn trực tuyến</a>

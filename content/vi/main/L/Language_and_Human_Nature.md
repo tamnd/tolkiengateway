@@ -27,11 +27,11 @@ images:
 <p class="tg-quote-footer"><cite><a href="../T/Treebeard.md" title="Treebeard">Treebeard</a></cite></p>
 </blockquote></div></div>
 
-<i><b>Ngôn ngữ và bản chất con người</b></i> là một dự án văn học chung giữa [C.S. Lewis](../C/C.S._Lewis.md) và [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Nhà xuất bản của họ đã thông báo rằng cuốn sách sẽ được xuất bản ở [1950](../_/1950.md) nhưng nó chưa bao giờ được hoàn thành.
+<i><b>Ngôn ngữ và bản chất con người</b></i> là một dự án văn học chung giữa [C.S. Lewis](../C/C.S._Lewis.md) và [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Nhà xuất bản của họ đã thông báo rằng cuốn sách sẽ được xuất bản vào [1950](../_/1950.md) nhưng nó chưa bao giờ được hoàn thành.
 
-Trong [2009](../_/2009.md), Giáo sư và Trưởng khoa Nghiên cứu Truyền thông của Đại học Bang Texas, Steven A. Beebe, đã phát hiện ra những trang đầu của bản thảo tại Đại học Oxford [Thư viện Bodleian](../B/Bodleian_Library.md). Năm tiếp theo, ông biên tập nội dung cho tạp chí học thuật [SEVEN](../S/SEVEN.md), trong [Tập 27](../S/SEVEN_27.md).
+Trong [2009](../_/2009.md), Giáo sư và Chủ tịch Khoa Nghiên cứu Truyền thông của Đại học bang Texas, Steven A. Beebe, đã phát hiện ra những trang đầu của bản thảo trong [Thư viện Bodleian](../B/Bodleian_Library.md) của Đại học Oxford. Năm tiếp theo, ông biên tập nội dung cho tạp chí học thuật [SEVEN](../S/SEVEN.md), trong [Tập 27](../S/SEVEN_27.md).
 
-Theo Beebe "bản thảo bao gồm một số phát biểu hay nhất và chính xác nhất của Lewis về bản chất của ngôn ngữ và ý nghĩa. Cả Lewis và Tolkien đều viết riêng về ngôn ngữ, giao tiếp và ý nghĩa, nhưng họ không công bố điều gì cùng nhau cả."<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Theo Beebe "bản thảo bao gồm một số phát biểu hay nhất và chính xác nhất của Lewis về bản chất của ngôn ngữ và ý nghĩa. Cả Lewis và Tolkien đều viết riêng về ngôn ngữ, giao tiếp và ý nghĩa, nhưng họ không hợp tác xuất bản gì cả."<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

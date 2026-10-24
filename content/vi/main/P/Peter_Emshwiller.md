@@ -22,7 +22,7 @@ sort_keys:
 
 ## Vai trò {#Roles}
 
-- [2006](../_/2006.md): *[The Lord of the Rings: The Battle for Middle-earth II](../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md)*: [Thranduil](../T/Thranduil.md), Người ném rìu Người lùn, Máy phá hủy Người lùn
+- [2006](../_/2006.md): *[The Lord of the Rings: The Battle for Middle-earth II](../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md)*: [Thranduil](../T/Thranduil.md), Người lùn ném rìu, Người lùn phá hủy
 
 ## Liên kết ngoài {#External_links}
 

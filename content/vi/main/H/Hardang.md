@@ -52,17 +52,17 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../E/Edain.md" title="Edain">Adan</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Hardang</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Titles</th><td class="tg-infobox-data"><a href="../C/Chieftain_of_the_Haladin.md" title="Chieftain of the Haladin">Chieftain of the Haladin</a></td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../B/Brethil.md" title="Brethil">Brethil</a></td></tr><tr><th scope="row" class="tg-infobox-label">Birth</th><td class="tg-infobox-data"><a href="../F/First_Age.md" title="First Age">F.A.</a> <a href="../F/First_Age_470.md" title="First Age 470">470</a><sup id="cite_ref-Hardang_1-0" class="reference"><a href="#cite_note-Hardang-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Rule</th><td class="tg-infobox-data"><a href="../F/First_Age.md" title="First Age">F.A.</a> <a href="../F/First_Age_499.md" title="First Age 499">499</a> - <a href="../F/First_Age_501.md" title="First Age 501">501</a></td></tr><tr><th scope="row" class="tg-infobox-label">Death</th><td class="tg-infobox-data"><a href="../F/First_Age.md" title="First Age">F.A.</a> <a href="../F/First_Age_501.md" title="First Age 501">501</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> (aged 31)<br/><a href="../B/Brethil.md" title="Brethil">Brethil</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">House</th><td class="tg-infobox-data"><a href="House_of_Haleth.md" title="House of Haleth">House of Haleth</a></td></tr><tr><th scope="row" class="tg-infobox-label">Parentage</th><td class="tg-infobox-data"><a href="Hundad.md" title="Hundad">Hundad</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr></tbody></table>
 
-**Hardang** là một [Thủ lĩnh của Haladin](../C/Chieftain_of_the_Haladin.md) trong [Kỷ Đệ Nhất](../F/First_Age.md).
+**Hardang** là [Thủ lĩnh của Haladin](../C/Chieftain_of_the_Haladin.md) ở [Thời đại thứ nhất](../F/First_Age.md).
 
 ## Lịch sử {#History}
 
-Anh ta là hậu duệ của [Halmir](Halmir.md) của [Nhà Haleth](House_of_Haleth.md), và là con trai của [Hundad](Hundad.md) con trai của [Hundar](Hundar.md).<sup id="cite_ref-Hardang_1-1" class="reference"><a href="#cite_note-Hardang-1">[1]</a></sup> Sau cái chết của Thủ lĩnh của Brethil, [Handir](Handir.md), Hardang đã cố gắng để người anh họ của mình, [Brandir](../B/Brandir.md) tước bỏ ngai vàng để ủng hộ mình. Nhiều người tin rằng Brandir không thích hợp để cai trị và ủng hộ Hardang.
+Ông ta là hậu duệ của [Halmir](Halmir.md) của [Nhà Haleth](House_of_Haleth.md), và là con trai của [Hundad](Hundad.md) con trai của [Hundar](Hundar.md).<sup id="cite_ref-Hardang_1-1" class="reference"><a href="#cite_note-Hardang-1">[1]</a></sup> Sau cái chết của Thủ lĩnh Brethil, [Handir](Handir.md), Hardang đã cố gắng để người anh họ của mình, [Brandir](../B/Brandir.md) tước bỏ ngai vàng để ủng hộ mình. Nhiều người tin rằng Brandir không thích hợp để cai trị và ủng hộ Hardang.
 
-Sau cái chết của Brandir, một Thủ lĩnh mới phải được bầu. Vì Brandir không có con nên [Con Người của Brethil](../M/Men_of_Brethil.md) mong muốn em họ của mình [Manthor](../M/Manthor.md) nối nghiệp, tuy nhiên họ có mối quan hệ bởi một cô con gái, và do đó Hardang đã thắng cử. Hardang thăng chức cho Manthor trở thành Đội trưởng Đội cận vệ tại [Đi qua Taeglin](../C/Crossings_of_Taeglin.md).
+Sau cái chết của Brandir, một Thủ lĩnh mới phải được bầu ra. Vì Brandir không có con nên [Men of Brethil](../M/Men_of_Brethil.md) mong muốn em họ của mình là [Manthor](../M/Manthor.md) nối ngôi, tuy nhiên họ có quan hệ với nhau bởi một cô con gái, và do đó Hardang đã thắng cử. Hardang thăng chức cho Manthor trở thành Đội trưởng Đội cận vệ tại [Giao lộ Taeglin](../C/Crossings_of_Taeglin.md).
 
-Trong vòng hai năm kể từ khi Hardang nắm quyền, tin đồn về sự trở lại của [Húrin Thalion](Húrin.md) bắt đầu lan rộng. Hardang không thích [Nhà Hador](House_of_Hador.md) vì anh ta không có quan hệ huyết thống, và khi Húrin trở về, tại [Triển lãm dân gian](../F/Folkmoot_for_Judgement.md), Manthor đã bảo vệ Húrin chống lại Hardang.
+Trong vòng hai năm kể từ khi Hardang cai trị, tin đồn về sự trở lại của [Húrin Thalion](Húrin.md) bắt đầu lan rộng. Hardang không thích [Nhà Hador](House_of_Hador.md) vì ông ta không có quan hệ huyết thống, và khi Húrin trở về, tại [Triển lãm dân gian](../F/Folkmoot_for_Judgement.md), Manthor đã bảo vệ Húrin chống lại Hardang.
 
-Người dân Brethil tức giận trước hành động của Hardang và đốt cháy <a class="new" href="https://tolkiengateway.net/w/index.php?title=Hall_of_the_Chieftains&amp;action=edit&amp;redlink=1" title="Hall of the Chieftains (page does not exist)">Sảnh của các thủ lĩnh</a>. Hardang cố gắng trốn thoát nhưng bị giáo đâm vào lưng và thiệt mạng.
+Dân gian của Brethil tức giận trước hành động của Hardang và đốt cháy <a class="new" href="https://tolkiengateway.net/w/index.php?title=Hall_of_the_Chieftains&amp;action=edit&amp;redlink=1" title="Hall of the Chieftains (page does not exist)">Sảnh của các thủ lĩnh</a>. Hardang cố gắng trốn thoát nhưng bị giáo đâm vào lưng và thiệt mạng.
 
 ## Phả hệ {#Genealogy}
 
@@ -78,7 +78,7 @@ Người dân Brethil tức giận trước hành động của Hardang và đ�
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong các phiên bản đầu tiên của câu chuyện, tên của Hardang là Harathor, và chính anh ta, chứ không phải Manthor, mới là anh trai của Hunthor, bạn đồng hành của Túrin.
+Trong những phiên bản đầu tiên của câu chuyện, tên của Hardang là Harathor, và chính ông ta, chứ không phải Manthor, mới là anh trai của Hunthor, bạn đồng hành của Túrin.
 
 <span></span>
 

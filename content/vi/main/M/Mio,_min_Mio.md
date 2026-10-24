@@ -29,13 +29,13 @@ infobox:
 
 <i><b>Mio, min Mio</b></i> ("Mio, My Mio"; xuất bản bằng tiếng Anh dưới tên *Mio, my Son*) là một cuốn sách dành cho trẻ em bằng tiếng Thụy Điển của [Astrid Lindgren](../A/Astrid_Lindgren.md). Cuốn sách được mô tả là một tác phẩm thuộc thể loại <a class="extiw" href="http://en.wikipedia.org/wiki/High_fantasy" title="wikipedia:High fantasy">Giả tưởng cao cấp</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Vì cả *Mio, min Mio* và hai tập đầu tiên của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* đều được xuất bản vào năm 1954 và có thể nói là có một số điểm tương đồng rõ ràng, một bài báo hài hước của Thụy Điển đã bịa ra một thuyết âm mưu hư cấu rằng Tolkien và Lindgren hẳn đã bí mật gặp nhau vào khoảng những năm 1930 và đồng ý viết *"những câu chuyện cổ tích của riêng họ nhưng có chủ đề chung"* ("var sing saga med gemensamt tema"). Bỏ chuyện đùa sang một bên, có khá nhiều điểm tương đồng:<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Vì cả *Mio, min Mio* và hai tập đầu tiên của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* đều được xuất bản vào năm 1954 và có thể nói là có một số điểm tương đồng rõ ràng, một bài báo hài hước của Thụy Điển đã dựng lên một thuyết âm mưu hư cấu rằng Tolkien và Lindgren hẳn đã bí mật gặp nhau vào khoảng những năm 1930 và đồng ý viết *"những câu chuyện cổ tích của riêng họ nhưng có chủ đề chung"* ("var sin saga med gemensamt tema"). Bỏ chuyện đùa sang một bên, có khá nhiều điểm tương đồng:<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 - *cloaks granting invisibility*
-- *energy bread* (Tolkien: [lembas](../L/Lembas.md); Lindgren: Mio ăn một chiếc bánh mì thần kỳ giúp xua tan cơn đói)
+- *energy bread* (Tolkien: [lembas](../L/Lembas.md); Lindgren: Mio ăn một chiếc bánh mì thần kỳ giúp giảm cơn đói)
 - *apparently dead trees*
 - *intelligent horses* (Tolkien: [Shadowfax](../S/Shadowfax.md); Lindgren: Miramis)
-- *black scouts* (Tolkien: [Nazgûl](../N/Nazgûl.md) của Sauron; Lindgren: trinh sát đen của Kato)
+- *black scouts* (Tolkien: [Bóng ma](../N/Nazgûl.md) của Sauron; Lindgren: đội trinh sát đen của Kato)
 - *một tên bạo chúa độc ác bị đánh bại bởi hai "người lai" – một anh hùng vô tình và cận vệ trung thành của hắn*
 - *sau cái chết của tên bạo chúa, một cái cây tưởng chừng như đã chết lại nở hoa*
 

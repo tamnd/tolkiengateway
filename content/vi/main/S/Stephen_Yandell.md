@@ -20,7 +20,7 @@ sort_keys:
   "People by name": "Yandell, Stephen"
 ---
 
-**Tiến sĩ. Stephen Yandell** là Trợ lý Giáo sư tiếng Anh tại <a class="extiw" href="http://en.wikipedia.org/wiki/Xavier_University_(Cincinnati)" title="wikipedia:Xavier University (Cincinnati)">Đại học Xavier</a> ở Cincinnati, Ohio. Anh ấy đã viết một số bài báo về [Inklings](../I/Inklings.md) [C.S. Lewis](../C/C.S._Lewis.md) và [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), đồng thời giảng dạy một lớp đại học Tolkien.
+**Tiến sĩ. Stephen Yandell** là Trợ lý Giáo sư tiếng Anh tại <a class="extiw" href="http://en.wikipedia.org/wiki/Xavier_University_(Cincinnati)" title="wikipedia:Xavier University (Cincinnati)">Đại học Xavier</a> ở Cincinnati, Ohio. Ông đã viết một số bài báo về [Inklings](../I/Inklings.md) [C.S. Lewis](../C/C.S._Lewis.md) và [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), đồng thời giảng dạy một lớp đại học về Tolkien.
 
 ## Thư mục {#Bibliography}
 
@@ -29,12 +29,12 @@ sort_keys:
 - [1995](../_/1995.md): *[Proceedings of the J.R.R. Tolkien Centenary Conference](../P/Proceedings_of_the_J.R.R._Tolkien_Centenary_Conference.md)*:
     - "'Một khuôn mẫu mà bản chất của chúng ta khao khát': Truyền thống thời trung cổ của Tứ Thánh trong tiểu thuyết J.R.R. Tolkien"
 - [2006](../_/2006.md): *[J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment](../J/J.R.R._Tolkien_Encyclopedia%253A_Scholarship_and_Critical_Assessment.md)*, mục:
-    - "Sự trở lại của Bóng Tối"
+    - "Sự trở lại của cái bóng"
     - "Sam"
 
 ### Bài giảng {#Lectures}
 
-- [Ngày 1 tháng 12](../_/1_December.md), [2005](../_/2005.md): "Phòng vé Inklings: C. S. Lewis, J. R. R. Tolkien, và Trung học Mới Kỷ nguyên" (<a class="extiw" href="http://en.wikipedia.org/wiki/Wilmington_College_(Ohio)" title="wikipedia:Wilmington College (Ohio)">Wilmington College</a>)
+- [Ngày 1 tháng 12](../_/1_December.md), [2005](../_/2005.md): "Những câu chuyện mơ hồ về phòng vé: C. S. Lewis, J. R. R. Tolkien và thời Trung cổ mới" (<a class="extiw" href="http://en.wikipedia.org/wiki/Wilmington_College_(Ohio)" title="wikipedia:Wilmington College (Ohio)">Wilmington College</a>)
 
 ## Liên kết ngoài {#External_links}
 

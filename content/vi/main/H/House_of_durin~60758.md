@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "House of Durin"
 ---
 
-Chuyển hướng đến [Gia tộc Durin](House_of_Durin.md).
+Chuyển hướng tới [Nhà Durin](House_of_Durin.md).

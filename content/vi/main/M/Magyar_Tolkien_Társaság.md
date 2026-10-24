@@ -12,7 +12,7 @@ categories:
   - "Tolkien Societies"
 ---
 
-**Magyar Tolkien Társaság** (tiếng Hungary: **Hiệp hội Tolkien tiếng Hungary**) là [Tolkien Hiệp hội](../T/Tolkien_Societies~67099.md) ở Hungary.
+**Magyar Tolkien Társaság** (tiếng Hungary: **Hiệp hội Tolkien Hungary**) là [Hiệp hội Tolkien](../T/Tolkien_Societies~67099.md) ở Hungary.
 
 ## Ấn phẩm {#Publications}
 

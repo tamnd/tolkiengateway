@@ -14,14 +14,14 @@ images:
   - "Disambig.png"
 ---
 
-**Tolkien Thế giới của**, ngoài [huyền thoại](../L/Legendarium.md) hoặc thần thoại về [Arda](../A/Arda.md) và [Trung Địa](../M/Middle-earth.md), có thể đề cập đến sáu cuốn sách khác nhau:
+**Thế giới của Tolkien**, ngoài [huyền thoại](../L/Legendarium.md) hoặc thần thoại về [Arda](../A/Arda.md) và [Trung Địa](../M/Middle-earth.md), có thể đề cập đến sáu cuốn sách khác nhau:
 
 - <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=England_and_Always:_Tolkien%27s_World_of_the_Rings&amp;action=edit&amp;redlink=1" title="England and Always: Tolkien&#39;s World of the Rings (page does not exist)">Nước Anh và mãi mãi: Thế giới những chiếc nhẫn của Tolkien</a></i>, một cuốn sách [1981](../_/1981.md) của [Jared Lobdell](../J/Jared_Lobdell.md).
 - *[A Tolkien Bestiary](../A/A_Tolkien_Bestiary.md)*, một cuốn sách [1979](../_/1979.md) của David Day, xuất hiện trên một số bản in với tên *Guide to Tolkien's World: A Bestiary*.
 - *[Tolkien's World](<Tolkien's_World_(by_Randel_Helms).md>)*, một cuốn sách [1974](../_/1974.md) của [Randel Helms](../R/Randel_Helms.md).
-- *[Tolkien's World: Paintings of Middle-earth](Tolkien's_World%253A_Paintings_of_Middle-earth.md)*, một bộ sưu tập [1992](../_/1992.md) tranh của (trong số những người khác) [Inger Edelfeldt](../I/Inger_Edelfeldt.md), [John Howe](../J/John_Howe.md), [Roger Garland](../R/Roger_Garland.md) và [Michael Hague](../M/Michael_Hague.md).
+- *[Tolkien's World: Paintings of Middle-earth](Tolkien's_World%253A_Paintings_of_Middle-earth.md)*, một [1992](../_/1992.md) bộ sưu tập tranh của (trong số những người khác) [Inger Edelfeldt](../I/Inger_Edelfeldt.md), [John Howe](../J/John_Howe.md), [Roger Garland](../R/Roger_Garland.md) và [Michael Hague](../M/Michael_Hague.md).
 - *[The World of Tolkien](The_World_of_Tolkien.md)*, một cuốn sách [2004](../_/2004.md) cũng của [David Day](../D/David_Day.md), xuất hiện trên một số bản in với tên *Tolkien's World*.
-- *мир Толкина* ("Tolkien's World"), bản dịch cướp biển tiếng Nga của các phần của *[An Introduction to Elvish](../A/An_Introduction_to_Elvish.md)* và *[The Complete Guide to Middle-earth](The_Complete_Guide_to_Middle-earth.md)*, bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=Nadezhda_Chertkov&amp;action=edit&amp;redlink=1" title="Nadezhda Chertkov (page does not exist)">Nadezhda Chertkov</a>.
+- *мир Толкина* ("Tolkien's World"), bản dịch cướp biển Nga của các phần của *[An Introduction to Elvish](../A/An_Introduction_to_Elvish.md)* và *[The Complete Guide to Middle-earth](The_Complete_Guide_to_Middle-earth.md)*, bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=Nadezhda_Chertkov&amp;action=edit&amp;redlink=1" title="Nadezhda Chertkov (page does not exist)">Nadezhda Chertkov</a>.
 - *[Tolkien's World: A Guide to the Peoples and Places of Middle-Earth](<Tolkien's_World_(by_Gareth_Hanrahan).md>)*, sách hướng dẫn [2012](../_/2012.md) của Gareth Hanrahan và Peter McKinstry.
 - *[Tolkien's World: A Colouring Book](Tolkien's_World%253A_A_Colouring_Book.md)*
 

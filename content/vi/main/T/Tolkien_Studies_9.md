@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Studies: Volume 9"
 ---
 
-Chuyển hướng tới [Tolkien Nghiên cứu: Tập 9](Tolkien_Studies%253A_Volume_9.md).
+Chuyển hướng đến [Tolkien Studies: Volume 9](Tolkien_Studies%253A_Volume_9.md).

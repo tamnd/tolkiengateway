@@ -14,10 +14,10 @@ images:
   - "Disambig.png"
 ---
 
-**Các bức vẽ của Tolkien** có thể tham khảo:
+**Tranh vẽ của Tolkien** có thể tham khảo:
 
-- **[Các bức vẽ của Tolkien (catalog triển lãm)](<Drawings_by_Tolkien_(exhibition_catalogue).md>)**, catalog [1976](../_/1976.md) từ cuộc triển lãm [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) vào những năm 1970.
-- <i><b><a href="../P/Pictures_by_J.R.R._Tolkien.md" title="Pictures by J.R.R. Tolkien">Ảnh của J.R.R. Tolkien</a></b></i>, một cuốn sách [1979](../_/1979.md) của [Christopher Tolkien](../C/Christopher_Tolkien.md) về tác phẩm nghệ thuật của cha anh.
+- **[Các bức vẽ của Tolkien (danh mục triển lãm)](<Drawings_by_Tolkien_(exhibition_catalogue).md>)**, danh mục [1976](../_/1976.md) từ cuộc triển lãm [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) vào những năm 1970.
+- <i><b><a href="../P/Pictures_by_J.R.R._Tolkien.md" title="Pictures by J.R.R. Tolkien">Ảnh của J.R.R. Tolkien</a></b></i>, một cuốn sách [1979](../_/1979.md) của [Christopher Tolkien](../C/Christopher_Tolkien.md) về tác phẩm nghệ thuật của cha mình.
 - **[Hình ảnh của J.R.R. Tolkien](../../category/I/Images_by_J.R.R._Tolkien.md)**, thư viện hình ảnh minh họa của J.R.R. Tolkien.
 
 <hr style="margin-top:15px;"/>

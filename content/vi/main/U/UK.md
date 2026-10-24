@@ -12,14 +12,14 @@ categories:
   - "Roots"
 ---
 
-**UK** là một [Primitive Quendian](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) biểu thị "khó chịu".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> [Patrick H. Wynne](../P/Patrick_H._Wynne.md) lưu ý rằng gốc là "*rõ ràng là một <a class="extiw" href="http://en.wikipedia.org/wiki/Onomatopoeia" title="wikipedia:Onomatopoeia">gốc từ tượng thanh</a> gốc*" và nó là "*có lẽ liên quan đến gốc [UG](UG.md) 'không thích' (từ đó Q. úra 'khó chịu')*".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Vương quốc Anh** là một [gốc Quendian nguyên thủy](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) biểu thị "khó chịu".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> [Patrick H. Wynne](../P/Patrick_H._Wynne.md) lưu ý rằng gốc là "*rõ ràng là một <a class="extiw" href="http://en.wikipedia.org/wiki/Onomatopoeia" title="wikipedia:Onomatopoeia">từ tượng thanh</a> gốc*" và rằng nó "*có thể liên quan đến gốc [UG](UG.md) 'không thích' (từ đó Q. úra 'khó chịu')*".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 Trong *[Eldarin Roots and Stems](../P/Parma_Eldalamberon_17.md)* xuất hiện gốc "? UK, UKLA" (không có bất kỳ ý nghĩa nào, ngoại trừ việc là một trong những từ đối lập của [AYA](../A/AYA~31206.md)).<sup id="cite_ref-Eldarin_3-0" class="reference"><a href="#cite_note-Eldarin-3">[3]</a></sup> Có ý kiến ​​​​cho rằng "*gốc được truy vấn uk trong ghi chú này có lẽ giống với từ 'khó chịu' sau này của UK'*".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[note 1]</a></sup>
 
 ## Công cụ phái sinh {#Derivatives}
 
 - [Quenya](../Q/Quenya.md): *ulca*<sup id="cite_ref-Eldarin_3-1" class="reference"><a href="#cite_note-Eldarin-3">[3]</a></sup>
-- [Sindarin](../S/Sindarin.md): *ogl*<sup id="cite_ref-Eldarin_3-2" class="reference"><a href="#cite_note-Eldarin-3">[3]</a></sup>
+- [tiếng Sindarin](../S/Sindarin.md): *ogl*<sup id="cite_ref-Eldarin_3-2" class="reference"><a href="#cite_note-Eldarin-3">[3]</a></sup>
 
 ## Xem thêm {#See_also}
 
@@ -31,7 +31,7 @@ Trong *[Eldarin Roots and Stems](../P/Parma_Eldalamberon_17.md)* xuất hiện g
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text">Lưu ý rằng hai phiên âm khác nhau đã được dịch ra từ việc đọc cùng một bản thảo: "? uk: ukla" trong <a href="../V/Vinyar_Tengwar_49.md" title="Vinyar Tengwar 49"><i>Vinyar Tengwar</i> 49</a> và "? UK, UKLA" trong <a href="../P/Parma_Eldalamberon_17.md" title="Parma Eldalamberon 17"><i>Parma Eldalamberon</i> XVII</a>. Có lẽ cái sau đã được biên tập thay đổi thành dạng chuẩn hóa dành cho gốc.</span>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text">Lưu ý rằng hai phiên âm khác nhau đã được dịch từ việc đọc cùng một bản thảo: "? uk: ukla" trong <a href="../V/Vinyar_Tengwar_49.md" title="Vinyar Tengwar 49"><i>Vinyar Tengwar</i> 49</a> và "? UK, UKLA" trong <a href="../P/Parma_Eldalamberon_17.md" title="Parma Eldalamberon 17"><i>Parma Eldalamberon</i> XVII</a>. Có lẽ cái sau đã được biên tập thay đổi thành dạng chuẩn hóa dành cho gốc.</span>
 </li>
 </ol></div></span>
 

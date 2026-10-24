@@ -13,7 +13,7 @@ categories:
   - "Songs by Battlelore"
 ---
 
-<i><b>Ngàn Hang Động</b></i> là một bài hát của ban nhạc epic metal [Battlelore](../B/Battlelore.md) về [Menegroth](../M/Menegroth.md). Nó xuất hiện trong album dài thứ ba của họ, [Kỷ Đệ Tam của Mặt Trời](Third_Age_of_the_Sun.md).
+<i><b>Thousand Caves</b></i> là một bài hát của ban nhạc epic metal [Battlelore](../B/Battlelore.md) về [Menegroth](../M/Menegroth.md). Nó xuất hiện trong album dài thứ ba của họ, [Third Age of the Sun](Third_Age_of_the_Sun.md).
 
 ## Lời bài hát {#Lyrics}
 

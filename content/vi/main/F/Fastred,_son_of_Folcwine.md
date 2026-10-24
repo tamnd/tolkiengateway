@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Folcred and Fastred"
 ---
 
-Chuyển hướng đến [Folcred và Fastred](Folcred_and_Fastred.md).
+Chuyển hướng tới [Folcred và Fastred](Folcred_and_Fastred.md).

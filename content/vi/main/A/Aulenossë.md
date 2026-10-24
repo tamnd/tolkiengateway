@@ -11,4 +11,4 @@ redirect_target: "Gnomes"
 redirect_fragment: "Etymology"
 ---
 
-Chuyển hướng đến [Gnomes](../G/Gnomes.md#Etymology).
+Chuyển hướng tới [Gnomes](../G/Gnomes.md#Etymology).

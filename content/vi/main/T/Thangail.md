@@ -24,7 +24,7 @@ langlinks:
 
 <i><b>tangail</b></i> là đội hình phòng thủ được sử dụng bởi binh lính của Númenórean [Vương quốc lưu vong](../R/Realms_in_Exile.md) của [Arnor](../A/Arnor.md) và [Gondor](../G/Gondor.md). Nó được hình thành từ hai hàng ngũ áp sát nhau tạo thành một hàng rào chắn, đủ vững chắc để chống lại sự tấn công dữ dội của kẻ thù. Thangail được thiết kế linh hoạt và có thể uốn cong ở một hoặc cả hai đầu của nó để tránh bị kẻ thù tràn ra ngoài, thậm chí cuộn tròn để gặp chính nó và do đó tạo thành một vòng khiên không bị gián đoạn.<sup id="cite_ref-Gladden_1-0" class="reference"><a href="#cite_note-Gladden-1">[1]</a></sup>
 
-Ghi chép duy nhất về thangail trong sử dụng thực tế là của [Isildur](../I/Isildur.md), người đã ra lệnh vẽ một chiếc thangail khi bị [Orc](../O/Orcs.md) tấn công trong sự kiện được lịch sử gọi là [Thảm họa Cánh đồng Gladden](../D/Disaster_of_the_Gladden_Fields.md).<sup id="cite_ref-Gladden_1-1" class="reference"><a href="#cite_note-Gladden-1">[1]</a></sup> Tuy nhiên, có lý do để nghĩ rằng đội hình này bắt nguồn từ [Tiên tộc](../E/Elves.md), vì nó có tên 'chính thức' trong [Quenya](../Q/Quenya.md).<sup id="cite_ref-Note16_2-0" class="reference"><a href="#cite_note-Note16-2">[2]</a></sup>
+Ghi chép duy nhất về thangail được sử dụng thực tế là của [Isildur](../I/Isildur.md), người đã ra lệnh kéo thangail lên khi bị [Orc](../O/Orcs.md) tấn công trong sự kiện được lịch sử gọi là [Thảm họa trên Cánh đồng Gladden](../D/Disaster_of_the_Gladden_Fields.md).<sup id="cite_ref-Gladden_1-1" class="reference"><a href="#cite_note-Gladden-1">[1]</a></sup> Tuy nhiên, có lý do để nghĩ rằng đội hình này có nguồn gốc từ [Yêu tinh](../E/Elves.md), vì nó có tên 'chính thức' ở [Quenya](../Q/Quenya.md).<sup id="cite_ref-Note16_2-0" class="reference"><a href="#cite_note-Note16-2">[2]</a></sup>
 
 ## Cảm hứng {#Inspiration}
 
@@ -34,7 +34,7 @@ Ghi chép duy nhất về thangail trong sử dụng thực tế là của [Isil
 
 *thangail* là tên [Sindarin](../S/Sindarin.md), có nghĩa là "hàng rào lá chắn". Nó là sự kết hợp của *[than](Than.md)* ("lá chắn") và *[cail](../C/Cail.md)* ("hàng rào").<sup id="cite_ref-Note16_2-1" class="reference"><a href="#cite_note-Note16-2">[2]</a></sup>
 
-Tên của đội hình tương tự trong [Quenya](../Q/Quenya.md) là *[sandastan](../S/Sandastan.md)*, có nghĩa là "lá chắn chắn". Nó có nguồn gốc từ *thanda* ("lá chắn") và *stama* nguyên thủy ("thanh", "loại trừ").<sup id="cite_ref-Note16_2-2" class="reference"><a href="#cite_note-Note16-2">[2]</a></sup>
+Tên của đội hình tương tự ở [Quenya](../Q/Quenya.md) là *[sandastan](../S/Sandastan.md)*, có nghĩa là "lá chắn chắn". Nó có nguồn gốc từ *thanda* ("lá chắn") và *stama* nguyên thủy ("thanh", "loại trừ").<sup id="cite_ref-Note16_2-2" class="reference"><a href="#cite_note-Note16-2">[2]</a></sup>
 
 ## Xem thêm {#See_also}
 

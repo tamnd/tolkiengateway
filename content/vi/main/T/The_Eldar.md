@@ -38,7 +38,7 @@ infobox:
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
-<i><b>The Eldar</b></i> là một bài hát của [Blind Guardian](../B/Blind_Guardian.md), xuất hiện trong album năm 1998 của họ, [Nightfall in Middle-Earth](../N/Nightfall_in_Middle-Earth.md). Đó là một bản ballad với piano làm nhạc cụ chính.
+<i><b>The Eldar</b></i> là một bài hát của [Người bảo vệ mù](../B/Blind_Guardian.md), xuất hiện trong album năm 1998 của họ, [Nightfall in Middle-Earth](../N/Nightfall_in_Middle-Earth.md). Đó là một bản ballad với piano làm nhạc cụ chính.
 
 ## Lời bài hát {#Lyrics}
 

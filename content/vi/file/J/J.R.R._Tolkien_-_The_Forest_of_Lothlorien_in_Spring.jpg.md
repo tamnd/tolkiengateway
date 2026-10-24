@@ -30,7 +30,7 @@ Bức vẽ bằng bút màu [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) v�
 
 <dl><dd>&#39;There are no trees like the trees of that land. For in the autumn their leaves fall not, but turn to gold. Not till the spring comes and the new green opens do they fall, and then the boughs are laden with yellow flowers; and the floor of the wood is golden, and golden is the roof, and its pillars are of silver, for the bark of the trees is smooth and grey.&#39;</dd></dl>
 
-Bản sao này được xuất bản trong Lịch J. R. R. Tolkien 1974; một bản sao phóng to, với một số hình ảnh bao gồm cả tiêu đề đã bị cắt bỏ, xuất hiện trong [The Lord of the Rings Lịch 1977](../../main/T/The_Lord_of_the_Rings_1977_Calendar.md).
+Bản sao này được xuất bản trong Lịch J. R. R. Tolkien 1974; một bản sao phóng to, với một số hình ảnh bao gồm cả tiêu đề đã bị cắt bỏ, xuất hiện trong [The Lord of the Rings 1977 Calendar](../../main/T/The_Lord_of_the_Rings_1977_Calendar.md).
 
 ## Giấy phép {#Licensing}
 

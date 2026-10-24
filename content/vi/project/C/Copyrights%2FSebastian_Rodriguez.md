@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Rodriguez, Sebastian"
 ---
 
-- Sebastian Rodriguez đã vui lòng cho phép anh ấy sử dụng [tác phẩm nghệ thuật không được ủy quyền của mình](../../category/I/Images_by_Sebastian_Rodriguez.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
+- Sebastian Rodriguez đã vui lòng cho phép ông sử dụng [tác phẩm nghệ thuật không được ủy quyền của mình](../../category/I/Images_by_Sebastian_Rodriguez.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Ngày: 22 tháng 12 năm 2017
 - Người dùng đã xin phép qua email: [Người dùng:Ebakunin](https://tolkiengateway.net/wiki/User:Ebakunin)

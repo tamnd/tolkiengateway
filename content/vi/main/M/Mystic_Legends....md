@@ -18,7 +18,7 @@ categories:
 ## Danh sách bản nhạc {#Track_listing}
 
 1. "Giới thiệu (Huyền thoại thần bí)"
-2. "Bóng Tối Trả về"
+2. "Bóng tối trở lại"
 3. "Mùa đông ôm lấy những vùng đất xa hơn"
-4. "Bóng tối Isengard"
-5. "Đêm tàn lụi (Cuộc hội ngộ về đêm)"
+4. "Bóng tối bao trùm Isengard"
+5. "Đêm tàn lụi (Tụ tập về đêm)"

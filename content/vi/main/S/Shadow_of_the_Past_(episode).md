@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "A Shadow of the Past"
 ---
 
-Chuyển hướng tới [Một Bóng Tối của Quá khứ](../A/A_Shadow_of_the_Past.md).
+Chuyển hướng tới [Cái bóng của quá khứ](../A/A_Shadow_of_the_Past.md).

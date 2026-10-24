@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Bản đồ của [Kỷ Đệ Tam: Total War](../../main/T/Third_Age%253A_Total_War.md), bản sửa đổi cho <a class="extiw" href="http://en.wikipedia.org/wiki/Medieval_II:_Total_War" title="wikipedia:Medieval II: Total War">Trung cổ II: Total War</a>.
+Bản đồ của [Third Age: Total War](../../main/T/Third_Age%253A_Total_War.md), bản sửa đổi cho <a class="extiw" href="http://en.wikipedia.org/wiki/Medieval_II:_Total_War" title="wikipedia:Medieval II: Total War">Trung cổ II: Chiến tranh tổng lực</a>.
 
 ## Giấy phép {#Licensing}
 

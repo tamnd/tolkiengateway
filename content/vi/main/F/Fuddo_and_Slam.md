@@ -44,7 +44,7 @@ infobox:
 
 ## Câu chuyện {#Story}
 
-Sau khi *Bulbo* đánh bạc mất chiếc nhẫn của mình, bạn bè của anh ấy *Fuddo* và *Slam* bắt tay vào hành trình tìm lại chiếc nhẫn.<sup id="cite_ref-Tolkien_Games_3-2" class="reference"><a href="#cite_note-Tolkien_Games-3">[3]</a></sup>
+Sau khi *Bulbo* đánh bạc mất chiếc nhẫn của mình, bạn bè của ông *Fuddo* và *Slam* bắt tay vào hành trình tìm lại chiếc nhẫn.<sup id="cite_ref-Tolkien_Games_3-2" class="reference"><a href="#cite_note-Tolkien_Games-3">[3]</a></sup>
 
 <span></span>
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Númenórean week"
 ---
 
-Chuyển hướng đến [Danh mục:Númenórean tuần](../../category/N/Númenórean_week.md).
+Chuyển hướng tới [Danh mục:Tuần Númenórean](../../category/N/Númenórean_week.md).

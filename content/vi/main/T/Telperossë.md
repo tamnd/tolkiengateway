@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Celebros"
 ---
 
-Chuyển hướng đến [Celebros](../C/Celebros.md).
+Chuyển hướng tới [Celebros](../C/Celebros.md).

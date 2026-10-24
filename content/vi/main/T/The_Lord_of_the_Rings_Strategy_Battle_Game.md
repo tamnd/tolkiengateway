@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Middle-earth Strategy Battle Game"
 ---
 
-Chuyển hướng đến [Trung Địa Trò chơi chiến đấu chiến lược](../M/Middle-earth_Strategy_Battle_Game.md).
+Chuyển hướng tới [Trò chơi chiến đấu chiến lược Trung Địa](../M/Middle-earth_Strategy_Battle_Game.md).

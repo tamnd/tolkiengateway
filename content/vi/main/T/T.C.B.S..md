@@ -28,15 +28,15 @@ images:
 <p class="tg-quote-footer"><cite><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a></cite></p>
 </blockquote></div></div>
 
-**Câu lạc bộ Trà, Hiệp hội Barrovian**, còn được gọi là **T.C.B.S.**, là một tổ chức gặp nhau thường xuyên tại Barrow Stores tại [King Edward's School](../K/King_Edward's_School.md) ở [Birmingham](../B/Birmingham.md). Các thành viên cốt lõi được coi là "bộ tứ lớn" gồm Tolkien, [Geoffrey Bache Smith](../G/Geoffrey_Bache_Smith.md), [Christopher Wiseman](../C/Christopher_Wiseman.md) và [Robert Gilson](../R/Robert_Gilson.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Câu lạc bộ Trà, Hiệp hội Barrovian**, còn được gọi là **T.C.B.S.**, là một tổ chức gặp nhau thường xuyên tại Barrow Stores tại [Trường King Edward](../K/King_Edward's_School.md) ở [Birmingham](../B/Birmingham.md). Các thành viên cốt lõi được coi là "bộ tứ lớn" của Tolkien, [Geoffrey Bache Smith](../G/Geoffrey_Bache_Smith.md), [Christopher Wiseman](../C/Christopher_Wiseman.md) và [Robert Gilson](../R/Robert_Gilson.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Những người bạn tiếp tục giữ liên lạc với nhau về tác phẩm văn học cho đến [1916](../_/1916.md). [Sidney Barrowclough](../S/Sidney_Barrowclough.md) và anh em nhà Payton, [Ralph](../R/Ralph_Payton.md) và [Wilfrid](../W/Wilfrid_Payton.md), trẻ hơn Tolkien và tiếp tục công việc này một thời gian sau khi họ rời đi.
+Những người bạn tiếp tục giữ liên lạc với nhau về tác phẩm văn học cho đến [1916](../_/1916.md). [Sidney Barrowclough](../S/Sidney_Barrowclough.md) và anh em nhà Payton, [Ralph](../R/Ralph_Payton.md) và [Wilfrid](../W/Wilfrid_Payton.md), trẻ hơn Tolkien và tiếp tục công việc đó một thời gian sau khi họ rời đi.
 
-Hầu như tất cả họ đều chết trong [Chiến tranh thế giới thứ nhất](../W/World_War_I.md). Trong số những người bạn thân của Tolkien, chỉ có [Christopher Wiseman](../C/Christopher_Wiseman.md) sống sót sau chiến tranh,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> một sự thật đã ảnh hưởng rất lớn đến anh ấy.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Hầu như tất cả họ đều chết trong [Chiến tranh thế giới thứ nhất](../W/World_War_I.md). Trong số những người bạn thân của Tolkien, chỉ có [Christopher Wiseman](../C/Christopher_Wiseman.md) sống sót sau chiến tranh,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> một sự thật đã ảnh hưởng rất nhiều đến ông.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Thành viên {#Members}
 
-- [Christopher Nhà thông thái](../C/Christopher_Wiseman.md)
+- [Christopher Wiseman](../C/Christopher_Wiseman.md)
 - [Geoffrey Bache Smith](../G/Geoffrey_Bache_Smith.md)
 - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)
 - [Robert Gilson](../R/Robert_Gilson.md)

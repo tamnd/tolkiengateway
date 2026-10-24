@@ -12,7 +12,7 @@ categories:
   - "The Hobbit (1977 film) soundtrack"
 ---
 
-**Rollin' Down the Hole** là bài hát thứ chín của *[The Hobbit: The Complete Original Soundtrack](../T/The_Hobbit%253A_The_Complete_Original_Soundtrack.md)*. Bài hát được phát khi Bilbo và đồng đội được nhìn thấy đang trôi trong những chiếc thùng trôi trên sông dẫn đến [Thị trấn Hồ](../L/Lake-town.md) trong [1977](../_/1977.md) [bộ phim chuyển thể](<../T/The_Hobbit_(1977_film).md>). Nhạc được sáng tác bởi [Maury Laws](../M/Maury_Laws.md) và phần lời được [Jules Bass](../J/Jules_Bass.md) chuyển thể từ bài thơ "[Roll-roll-roll-roll,](Roll-roll-roll-roll,.md)".
+**Rollin' Down the Hole** là bài hát thứ chín của *[The Hobbit: The Complete Original Soundtrack](../T/The_Hobbit%253A_The_Complete_Original_Soundtrack.md)*. Bài hát được phát khi người ta nhìn thấy Bilbo và đồng đội đang trôi trong những chiếc thùng xuôi dòng sông dẫn đến [Lake-town](../L/Lake-town.md) trong [1977](../_/1977.md) [phim chuyển thể](<../T/The_Hobbit_(1977_film).md>). Nhạc được sáng tác bởi [Maury Laws](../M/Maury_Laws.md) và phần lời được [Jules Bass](../J/Jules_Bass.md) chuyển thể từ bài thơ "[Roll-roll-roll-roll,](Roll-roll-roll-roll,.md)".
 
 ## Lời bài hát {#Lyrics}
 

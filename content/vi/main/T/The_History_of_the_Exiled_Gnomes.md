@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gilfanon's Tale: The Travail of the Noldoli and the Coming of Mankind"
 ---
 
-Chuyển hướng tới [Câu chuyện của Gilfanon: Nỗi đau khổ của Noldoli và sự xuất hiện của loài người](../G/Gilfanon's_Tale%253A_The_Travail_of_the_Noldoli_and_the_Coming_of_Mankind.md).
+Chuyển hướng đến [Gilfanon's Tale: The Travail of the Noldoli and the Coming of Mankind](../G/Gilfanon's_Tale%253A_The_Travail_of_the_Noldoli_and_the_Coming_of_Mankind.md).

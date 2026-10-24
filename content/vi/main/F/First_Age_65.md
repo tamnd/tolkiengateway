@@ -16,11 +16,11 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="../T/Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><b>I</b><a href="../S/Second_Age.md" title="Second Age">II</a><a href="../T/Third_Age.md" title="Third Age">III</a><a href="Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="First_Age_53.md" title="First Age 53">53</a><a href="First_Age_60.md" title="First Age 60">60</a><a href="First_Age_64.md" title="First Age 64">64</a><a class="mw-selflink selflink">65</a><a href="First_Age_66.md" title="First Age 66">66</a><a href="First_Age_67.md" title="First Age 67">67</a><a href="First_Age_102.md" title="First Age 102">102</a></div></div></div></div></div></div>
 
-**Kỷ Đệ Nhất 65** (viết tắt là **F.A. 65**) là năm [thứ 65 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Nhất](First_Age.md) của [Trung Địa](../M/Middle-earth.md).
+**Kỷ thứ nhất 65** (viết tắt là **F.A. 65**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 65 của [Kỷ nguyên thứ nhất](First_Age.md) của [Trung Địa](../M/Middle-earth.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- Các [Nơi trú ẩn của Falas](../H/Havens_of_the_Falas.md), [Brithombar](../B/Brithombar.md) và [Eglarest](../E/Eglarest.md), được xây dựng mới với sự hỗ trợ của [Noldor](../N/Noldor.md). [Barad Nimras](../B/Barad_Nimras.md) được thiết kế để canh phòng trên biển.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- [Nơi trú ẩn của Falas](../H/Havens_of_the_Falas.md), [Brithombar](../B/Brithombar.md) và [Eglarest](../E/Eglarest.md), được xây dựng mới với sự trợ giúp của [Noldor](../N/Noldor.md). [Barad Nimras](../B/Barad_Nimras.md) được xây dựng để canh phòng trên biển.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

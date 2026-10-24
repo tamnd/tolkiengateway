@@ -21,13 +21,13 @@ images:
 
 ## Từ nguyên {#Etymology}
 
-Từ này được cho là được nói ra bằng cách [Eru](../I/Ilúvatar.md) tạo ra và đặt tên cho vũ trụ, được đặt tên theo cách nói này, [Eä](Eä.md).
+Từ này được cho là được nói ra bởi [Eru](../I/Ilúvatar.md) tạo ra và đặt tên cho vũ trụ, được đặt tên theo câu nói này, [Eä](Eä.md).
 
 Người ta không biết lời này đến từ Ngài hay nó được đề cập một cách tượng trưng.
 
 ## Các hình thức khác {#Other_forms}
 
-- *ea* "let it be" (mệnh lệnh), được nói bởi Eru để tạo ra vũ trụ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+- *ea* "let it be" (mệnh lệnh), được Eru nói để tạo ra vũ trụ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 - *euva* "sẽ" (tương lai)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 - *enge* "tồn tại" (quá khứ)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 - *éye/engie* "đã từng" (hoàn hảo)

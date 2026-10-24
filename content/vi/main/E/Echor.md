@@ -17,9 +17,9 @@ categories:
 
 ## Ví dụ {#Examples}
 
-- *[Echoriath](Echoriath.md)*, "Vòng vây Dãy Núi"<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
-- *[Orfalch Echor](../O/Orfalch_Echor.md)*, "khe núi lớn xuyên qua Vòng vây Dãy Núi"<sup id="cite_ref-silmindex_1-1" class="reference"><a href="#cite_note-silmindex-1">[1]</a></sup>
-- *[Rammas Echor](../R/Rammas_Echor.md)*, "bức tường lớn của vòng ngoài";<sup id="cite_ref-lotrindex_2-1" class="reference"><a href="#cite_note-lotrindex-2">[2]</a></sup> bức tường bao quanh và bao bọc [cánh đồng Pelennor](../P/Pelennor_Fields.md)<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+- *[Echoriath](Echoriath.md)*, "Những ngọn núi bao quanh"<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+- *[Orfalch Echor](../O/Orfalch_Echor.md)*, "khe núi lớn xuyên qua dãy núi bao quanh"<sup id="cite_ref-silmindex_1-1" class="reference"><a href="#cite_note-silmindex-1">[1]</a></sup>
+- *[Rammas Echor](../R/Rammas_Echor.md)*, "bức tường lớn của vòng ngoài";<sup id="cite_ref-lotrindex_2-1" class="reference"><a href="#cite_note-lotrindex-2">[2]</a></sup> bức tường bao quanh và bao bọc [Pelennor Field](../P/Pelennor_Fields.md)<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Xem thêm {#See_also}
 

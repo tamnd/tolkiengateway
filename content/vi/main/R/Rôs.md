@@ -24,21 +24,21 @@ sort_keys:
 
 **Rôs** là tên của một mũi đất ở [Great Lands](../G/Great_Lands.md), theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) trong một số phác thảo về phần tiếp theo của *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.<sup id="cite_ref-Ros_1-0" class="reference"><a href="#cite_note-Ros-1">[1]</a></sup>
 
-Đó là nơi diễn ra [Trận chiến Rôs](../B/Battle_of_Rôs.md) vĩ đại trong [Faring Forth](../F/Faring_Forth.md), trong đó [Tiên tộc](../E/Elves.md) bị đánh bại.<sup id="cite_ref-Ros_1-1" class="reference"><a href="#cite_note-Ros-1">[1]</a></sup> Mặc dù không rõ vị trí chính xác của mỏm đất, nhưng [Christopher Tolkien](../C/Christopher_Tolkien.md) gợi ý rằng nó có thể được đồng nhất với <a class="extiw" href="http://en.wikipedia.org/wiki/Brittany" title="wikipedia:Brittany">Brittany</a>, một bán đảo và khu vực ở <a class="extiw" href="http://en.wikipedia.org/wiki/France" title="wikipedia:France">Pháp</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Đó là nơi diễn ra [Trận chiến Rôs](../B/Battle_of_Rôs.md) vĩ đại trong [Faring Forth](../F/Faring_Forth.md), trong đó [Yêu tinh](../E/Elves.md) đã bị đánh bại.<sup id="cite_ref-Ros_1-1" class="reference"><a href="#cite_note-Ros-1">[1]</a></sup> Mặc dù chưa xác định được vị trí chính xác của mỏm đất, nhưng [Christopher Tolkien](../C/Christopher_Tolkien.md) gợi ý rằng nó có thể được đồng nhất với <a class="extiw" href="http://en.wikipedia.org/wiki/Brittany" title="wikipedia:Brittany">Brittany</a>, một bán đảo và khu vực ở thời hiện đại <a class="extiw" href="http://en.wikipedia.org/wiki/France" title="wikipedia:France">Pháp</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 Có bằng chứng cho thấy những [Gnomes](../G/Gnomes.md) sống ở đó sở hữu phương ngữ độc đáo của riêng họ.<sup id="cite_ref-Roos_3-0" class="reference"><a href="#cite_note-Roos-3">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Tên *Rôs* nằm trong [Gnomish](../G/Gnomish.md). *[Gnomish Lexicon](../G/Gnomish_Lexicon.md)* gọi nó là "cái Biển; bao trùm tất cả, xung quanh", với [Qenya](../Q/Qenya.md) cùng nguồn gốc là <i><b>Rása</b></i>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Tuy nhiên, có vẻ như ý nghĩa của cái tên này là khác, khác với ý nghĩa được đề cập trong phần chính của bài viết trên.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Tên *Rôs* có trong [Gnomish](../G/Gnomish.md). *[Gnomish Lexicon](../G/Gnomish_Lexicon.md)* gọi nó là "Biển; bao trùm tất cả, xung quanh", với [Qenya](../Q/Qenya.md) cùng nguồn gốc là <i><b>Rása</b></i>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Tuy nhiên, có vẻ như ý nghĩa của cái tên này là khác, khác với ý nghĩa được đề cập trong phần chính của bài viết trên.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 Một nguồn gốc khác có thể có của cái tên *Rôs*, có thể nằm ở làng <a class="extiw" href="http://en.wikipedia.org/wiki/Roos" title="wikipedia:Roos">Roos</a> ở <a class="extiw" href="http://en.wikipedia.org/wiki/Yorkshire" title="wikipedia:Yorkshire">Yorkshire</a>, gần nơi [Tolkien](../T/Tolkien.md) đóng quân ở [1917](../_/1917.md)-[1918](../_/1918.md).<sup id="cite_ref-Roos_3-1" class="reference"><a href="#cite_note-Roos-3">[3]</a></sup>
 
-Tên <i><b>Roos</b></i> có thể có nghĩa là "đồng hoang" hoặc "mũi đất" - với [tiếng Wales](../W/Welsh.md), <a class="extiw" href="http://en.wikipedia.org/wiki/Breton_language" title="wikipedia:Breton language">Breton</a> và <a class="extiw" href="http://en.wikipedia.org/wiki/Irish_language" title="wikipedia:Irish language">Ailen</a> có cùng nguồn gốc là *rhôs* ("đồng hoang, thạch nam, đồng bằng"), *ros* ("đồi") và *ros* ("mũi đất"), tương ứng.<sup id="cite_ref-Roos_3-2" class="reference"><a href="#cite_note-Roos-3">[3]</a></sup>
+Tên <i><b>Roos</b></i> có thể có nghĩa là "đồng hoang" hoặc "mũi đất" - với [tiếng xứ Wales](../W/Welsh.md), <a class="extiw" href="http://en.wikipedia.org/wiki/Breton_language" title="wikipedia:Breton language">Breton</a> và <a class="extiw" href="http://en.wikipedia.org/wiki/Irish_language" title="wikipedia:Irish language">Ailen</a> có cùng nguồn gốc là *rhôs* ("đồng hoang, thạch nam, đồng bằng"), *ros* ("đồi") và *ros* ("mũi đất"), tương ứng.<sup id="cite_ref-Roos_3-2" class="reference"><a href="#cite_note-Roos-3">[3]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Nói cách khác, sau này, Rôs hoặc là tên của [thủ đô](../K/Kortirion.md#Other_versions_of_the_legendarium) của Tiên tộc của [Tol Eressëa](../T/Tol_Eressëa.md), hoặc có lẽ là tên của chính Tol Eressëa.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Nói cách khác, những phác thảo sau này, Rôs hoặc là tên của [thủ đô](../K/Kortirion.md#Other_versions_of_the_legendarium) của Yêu tinh [Tol Eressëa](../T/Tol_Eressëa.md), hoặc có lẽ là tên của chính Tol Eressëa.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 <span></span>
 

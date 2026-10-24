@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Imrazôr"
 ---
 
-Chuyển hướng đến [Imrazôr](Imrazôr.md).
+Chuyển hướng tới [Imrazôr](Imrazôr.md).

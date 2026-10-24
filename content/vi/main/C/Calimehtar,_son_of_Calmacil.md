@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Calimehtar (son of Calmacil)"
 ---
 
-Chuyển hướng tới [Calimehtar (con trai của Calmacil)](<Calimehtar_(son_of_Calmacil).md>).
+Chuyển hướng đến [Calimehtar (con trai của Calmacil)](<Calimehtar_(son_of_Calmacil).md>).

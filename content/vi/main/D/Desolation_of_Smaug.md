@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Desolation of the Dragon"
 ---
 
-Chuyển hướng đến [Sự tàn phá của Rồng](Desolation_of_the_Dragon.md).
+Chuyển hướng đến [Sự tàn phá của rồng](Desolation_of_the_Dragon.md).

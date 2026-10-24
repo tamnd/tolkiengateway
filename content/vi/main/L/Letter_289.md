@@ -31,7 +31,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien giải thích nguồn gốc của từ [Mirkwood](../M/Mirkwood.md) và rằng anh ấy không tự mình phát minh ra nó mà lấy nó từ <a class="extiw" href="http://en.wikipedia.org/wiki/Myrkvi%C3%B0r" title="wikipedia:Myrkviðr">Myrkviðr</a>, một khu rừng lớn theo truyền thống được coi là biên giới giữa người Goth và người Hun.
+Tolkien giải thích nguồn gốc của từ [Mirkwood](../M/Mirkwood.md) và rằng ông không tự mình phát minh ra nó mà lấy nó từ <a class="extiw" href="http://en.wikipedia.org/wiki/Myrkvi%C3%B0r" title="wikipedia:Myrkviðr">Myrkviðr</a>, một khu rừng lớn theo truyền thống được coi là biên giới giữa người Goth và người Hun.
 
 Chỉ phần đầu và phần cuối của bức thư này được đăng trong *The Letters of J.R.R. Tolkien*. Đoạn giữa, cùng với hai đoạn còn lại, xuất hiện trong *[The Lord of the Rings: A Reader's Companion](../T/The_Lord_of_the_Rings%253A_A_Reader's_Companion.md)* (xem [Thư gửi Michael George Tolkien (29 tháng 7 năm 1966)](<Letter_to_Michael_George_Tolkien_(29_July_1966).md>)).
 

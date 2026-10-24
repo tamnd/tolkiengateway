@@ -29,7 +29,7 @@ Tiến sĩ **Charles W.R.D. Moseley** là thành viên và gia sư của Hughes 
 ### Đánh giá {#Reviews}
 
 - [2000](../_/2000.md): *Sunday Observer*
-    - ([Ngày 8 tháng 10](../_/8_October.md)): "Sinh vật Hobbit: Tom Shippey đưa ra một thách thức mà không ai có thể bỏ qua với JRR Tolkien: Tác giả của thế kỷ" (đánh giá *[J.R.R. Tolkien: Author of the Century](../J/J.R.R._Tolkien%253A_Author_of_the_Century.md)* của [Tom Shippey](../T/Tom_Shippey.md))
+    - ([Ngày 8 tháng 10](../_/8_October.md)): "A Creature of Hobbit: Tom Shippey đưa ra một thử thách mà không ai có thể bỏ qua với JRR Tolkien: Tác giả của thế kỷ" (đánh giá về *[J.R.R. Tolkien: Author of the Century](../J/J.R.R._Tolkien%253A_Author_of_the_Century.md)* của [Tom Shippey](../T/Tom_Shippey.md))
 
 ## Liên kết ngoài {#External_links}
 

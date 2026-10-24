@@ -20,17 +20,17 @@ images:
 
 ## Lịch sử {#History}
 
-Mặc dù Kinder Sur ngạc nhiên có sẵn ở tất cả các quốc gia ngoại trừ Hoa Kỳ,<sup id="cite_ref-WP_1-0" class="reference"><a href="#cite_note-WP-1">[1]</a></sup> chương trình khuyến mãi này chỉ được bán ở Đức.<sup id="cite_ref-Gillam_2-0" class="reference"><a href="#cite_note-Gillam-2">[2]</a></sup> Chương trình giảm giá bắt đầu vào [ngày 11 tháng 5](../_/11_May.md), [2001](../_/2001.md)và là một trong những mặt hàng *Movie Trilogy* được cấp phép chính thức đầu tiên. Bên trong quả trứng sô cô la là mười nhân vật nhỏ được vẽ bằng tay trên nhựa.
+Mặc dù Kinder Sur ngạc nhiên có sẵn ở tất cả các quốc gia ngoại trừ Hoa Kỳ,<sup id="cite_ref-WP_1-0" class="reference"><a href="#cite_note-WP-1">[1]</a></sup> chương trình khuyến mãi này chỉ được bán ở Đức.<sup id="cite_ref-Gillam_2-0" class="reference"><a href="#cite_note-Gillam-2">[2]</a></sup> Chương trình giảm giá bắt đầu vào [ngày 11 tháng 5](../_/11_May.md), [2001](../_/2001.md) và là một trong những mặt hàng *Movie Trilogy* được cấp phép chính thức đầu tiên. Bên trong quả trứng sô cô la là mười nhân vật nhỏ được vẽ bằng tay trên nhựa.
 
-- [Aragorn](../A/Aragorn.md)
+- [Aragor](../A/Aragorn.md)
 - [Arwen](../A/Arwen.md)
-- [Boromir](../B/Boromir.md) (với [Sừng Lớn](../G/Great_Horn.md))
-- [Frodo](../F/Frodo_Baggins.md) (với [Chiếc Nhẫn Một](../T/The_One_Ring.md))
-- [Galadriel](../G/Galadriel.md) (có [Gương Galadriel](../M/Mirror_of_Galadriel.md))
+- [Boromir](../B/Boromir.md) (với [Great Horn](../G/Great_Horn.md))
+- [Frodo](../F/Frodo_Baggins.md) (với [Chiếc nhẫn duy nhất](../T/The_One_Ring.md))
+- [Galadriel](../G/Galadriel.md) (với [Tấm gương của Galadriel](../M/Mirror_of_Galadriel.md))
 - [Gandalf](../G/Gandalf.md)
 - [Gimli](../G/Gimli.md)
 - [Legolas](../L/Legolas.md)
-- [Merry](../M/Meriadoc_Brandybuck.md) & [Pippin](../P/Peregrin_Took.md)
+- [Chúc mừng](../M/Meriadoc_Brandybuck.md) & [Pippin](../P/Peregrin_Took.md)
 - [Samwise Gamgee](../S/Samwise_Gamgee.md)
 
 Mỗi bức tượng đều có một mã để có thể nhập xổ số trên trang web *Kinder*. Một hộp đựng đồ sưu tập đặc biệt cũng có sẵn.<sup id="cite_ref-Gillam_2-1" class="reference"><a href="#cite_note-Gillam-2">[2]</a></sup>

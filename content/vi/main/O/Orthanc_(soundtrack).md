@@ -36,4 +36,4 @@ infobox:
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
-**Orthanc** là bài hát thứ tư trong đĩa hai của *[The Lord of the Rings: The Fellowship of the Ring - The Complete Recordings](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_-_The_Complete_Recordings.md)* của [Howard Shore](../H/Howard_Shore.md).
+**Orthanc** là ca khúc thứ tư trong đĩa hai của *[The Lord of the Rings: The Fellowship of the Ring - The Complete Recordings](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_-_The_Complete_Recordings.md)* của [Howard Shore](../H/Howard_Shore.md).

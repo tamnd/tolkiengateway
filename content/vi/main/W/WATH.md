@@ -16,12 +16,12 @@ categories:
 
 ## Công cụ phái sinh {#Derivatives}
 
-- [Primitive Quendian](../P/Primitive_Quendian.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Aw%27tha&amp;action=edit&amp;redlink=1" title="Aw&#39;tha (page does not exist)">aw'tha</a></i><sup id="cite_ref-VT42_2-0" class="reference"><a href="#cite_note-VT42-2">[2]</a></sup>
+- [Quendian nguyên thủy](../P/Primitive_Quendian.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Aw%27tha&amp;action=edit&amp;redlink=1" title="Aw&#39;tha (page does not exist)">aw'tha</a></i><sup id="cite_ref-VT42_2-0" class="reference"><a href="#cite_note-VT42-2">[2]</a></sup>
     - [Quenya](../Q/Quenya.md): *[auþa, ausa](../A/Ausa.md)*<sup id="cite_ref-VT42_2-1" class="reference"><a href="#cite_note-VT42-2">[2]</a></sup>
-    - [Sindarin](../S/Sindarin.md): *[auth](../A/Auth.md)*<sup id="cite_ref-VT42_2-2" class="reference"><a href="#cite_note-VT42-2">[2]</a></sup>
-- [Quenya](../Q/Quenya.md): <i>waþar, <a class="new" href="https://tolkiengateway.net/w/index.php?title=Vasar&amp;action=edit&amp;redlink=1" title="Vasar (page does not exist)">vasar</a></i> ("một tấm màn che"); *[vasarya-](../V/Vasarya.md)* ("che đậy")<sup id="cite_ref-VT42_2-3" class="reference"><a href="#cite_note-VT42-2">[2]</a></sup>
-- [Old Noldorin](../K/Kornoldorin.md) ([Old Sindarin](../O/Old_Sindarin.md)): *watha*<sup id="cite_ref-Ety397_1-1" class="reference"><a href="#cite_note-Ety397-1">[1]</a></sup>
-- [Sindarin](../S/Sindarin.md): *[gwath](../G/Gwath.md)*; *gwathra-* ("che phủ, mờ mịt, che khuất, che khuất"); *[gwathren](../G/Gwathren.md)*; *[gwathui](../G/Gwathui.md)*;<sup id="cite_ref-VT42_2-4" class="reference"><a href="#cite_note-VT42-2">[2]</a></sup>
+    - [Tiếng Sindarin](../S/Sindarin.md): *[auth](../A/Auth.md)*<sup id="cite_ref-VT42_2-2" class="reference"><a href="#cite_note-VT42-2">[2]</a></sup>
+- [Quenya](../Q/Quenya.md): <i>waþar, <a class="new" href="https://tolkiengateway.net/w/index.php?title=Vasar&amp;action=edit&amp;redlink=1" title="Vasar (page does not exist)">vasar</a></i> ("tấm màn che"); *[vasarya-](../V/Vasarya.md)* ("che đậy")<sup id="cite_ref-VT42_2-3" class="reference"><a href="#cite_note-VT42-2">[2]</a></sup>
+- [Cổ Noldorin](../K/Kornoldorin.md) ([Cổ Sindarin](../O/Old_Sindarin.md)): *watha*<sup id="cite_ref-Ety397_1-1" class="reference"><a href="#cite_note-Ety397-1">[1]</a></sup>
+- [Tiếng Sindarin](../S/Sindarin.md): *[gwath](../G/Gwath.md)*; *gwathra-* ("che phủ, mờ mịt, che khuất, che khuất"); *[gwathren](../G/Gwathren.md)*; *[gwathui](../G/Gwathui.md)*;<sup id="cite_ref-VT42_2-4" class="reference"><a href="#cite_note-VT42-2">[2]</a></sup>
 - [Ilkorin](../I/Ilkorin.md): *[gwath](../G/Gwath.md)*<sup id="cite_ref-Ety397_1-2" class="reference"><a href="#cite_note-Ety397-1">[1]</a></sup>
 
 <span></span>

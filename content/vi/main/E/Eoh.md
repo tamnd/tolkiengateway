@@ -42,19 +42,19 @@ Eoh sống ở đâu đó vào <a class="extiw" href="http://en.wikipedia.org/wi
 
 Ông có một người con trai tên là Ottor, sau này được biết đến với cái tên *Eriol*, thừa hưởng niềm khao khát đi biển của tổ tiên.<sup id="cite_ref-Sea_3-1" class="reference"><a href="#cite_note-Sea-3">[3]</a></sup>
 
-Tuy nhiên, vào một thời điểm nào đó trong thời thơ ấu của Eriol, nhà của Eoh đã bị anh trai [Beorn](<../B/Beorn_(son_of_Heden).md>)tấn công, khiến cả mẹ Eriol<sup id="cite_ref-Sea_3-2" class="reference"><a href="#cite_note-Sea-3">[3]</a></sup> và Eoh đều chết, Eoh bị chính Beorn giết chết<sup id="cite_ref-Eoh_1-3" class="reference"><a href="#cite_note-Eoh-1">[1]</a></sup> trong một "cuộc chiến cay đắng quanh các bức tường".<sup id="cite_ref-Sea_3-3" class="reference"><a href="#cite_note-Sea-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[note 1]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup> Các cháu trai của ông, [Hengest](../H/Hengest.md) và [Horsa](../H/Horsa.md), sau này đã trả thù cho cái chết của mình.<sup id="cite_ref-Eoh_1-4" class="reference"><a href="#cite_note-Eoh-1">[1]</a></sup>
+Tuy nhiên, vào một thời điểm nào đó trong thời thơ ấu của Eriol, nhà của Eoh đã bị anh trai [Beorn](<../B/Beorn_(son_of_Heden).md>) tấn công, khiến cả mẹ của Eriol<sup id="cite_ref-Sea_3-2" class="reference"><a href="#cite_note-Sea-3">[3]</a></sup> và Eoh đều chết, Eoh bị chính Beorn giết chết<sup id="cite_ref-Eoh_1-3" class="reference"><a href="#cite_note-Eoh-1">[1]</a></sup> trong một "cuộc chiến cay đắng quanh các bức tường".<sup id="cite_ref-Sea_3-3" class="reference"><a href="#cite_note-Sea-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[note 1]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup> Các cháu trai của ông, [Hengest](../H/Hengest.md) và [Horsa](../H/Horsa.md), sau này đã trả thù cho cái chết của ông.<sup id="cite_ref-Eoh_1-4" class="reference"><a href="#cite_note-Eoh-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Tên *Eoh* có trong [tiếng Anh cổ](../O/Old_English.md), là một từ đầy chất thơ cho "con ngựa".<sup id="cite_ref-Eoh_1-5" class="reference"><a href="#cite_note-Eoh-1">[1]</a></sup>
+Tên *Eoh* trong [tiếng Anh cổ](../O/Old_English.md), là một từ đầy chất thơ có nghĩa là "ngựa".<sup id="cite_ref-Eoh_1-5" class="reference"><a href="#cite_note-Eoh-1">[1]</a></sup>
 
 ## Tên khác {#Other_names}
 
-Tên của Eoh trong [Qenya](../Q/Qenya.md) là <i><b>Évar</b></i>, với <i><b>Echos</b></i> là [Gnomish](../G/Gnomish.md) tương đương.
+Tên của Eoh trong [Qenya](../Q/Qenya.md) là <i><b>Évar</b></i>, với <i><b>Echos</b></i> tương đương với [Gnomish](../G/Gnomish.md).
 
-Nhân vật này còn được gọi là <i><b>Elvas</b></i> trong [Gothic](../G/Gothic.md), *Elvas* có lẽ là một dạng phương ngữ hoặc cổ xưa của từ Gothic *aílvs* ("ngựa") - từ đó các từ tương đương Qenya và Gnomish của tên này có lẽ bắt nguồn từ đó.
+Nhân vật này còn được gọi là <i><b>Elvas</b></i> trong [Gothic](../G/Gothic.md), *Elvas* có lẽ là một dạng phương ngữ hoặc cổ xưa của từ Gothic *aílvs* ("ngựa") - từ đó có lẽ các từ tương đương Qenya và Gnomish của cái tên này có lẽ bắt nguồn từ đó.
 
-Tên Qenya thay thế cho Eoh là <i><b>Eqar</b></i>.<sup id="cite_ref-Elv_6-0" class="reference"><a href="#cite_note-Elv-6">[5]</a></sup>
+Một tên Qenya thay thế cho Eoh là <i><b>Eqar</b></i>.<sup id="cite_ref-Elv_6-0" class="reference"><a href="#cite_note-Elv-6">[5]</a></sup>
 
 ## Phả hệ {#Genealogy}
 
@@ -71,11 +71,11 @@ Tên Qenya thay thế cho Eoh là <i><b>Eqar</b></i>.<sup id="cite_ref-Elv_6-0" 
 <tr align="center"><td class="tg-familytree-member" colspan="6" rowspan="2" style=""><a href="../H/Hengest.md" title="Hengest">Hengest</a><br/><small><i>fl. <a class="extiw" href="http://en.wikipedia.org/wiki/5th_century" title="wikipedia:5th century">5th century</a></i></small></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td class="tg-familytree-member" colspan="6" rowspan="2" style=""><a class="mw-redirect" href="../H/Horsa.md" title="Horsa">Horsa</a><br/><small><i>fl. <a class="extiw" href="http://en.wikipedia.org/wiki/5th_century" title="wikipedia:5th century">5th century</a></i></small></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td class="tg-familytree-member" colspan="6" rowspan="2" style=""><a href="../H/Heorrenda.md" title="Heorrenda">Heorrenda</a><br/><small><i>fl. <a class="extiw" href="http://en.wikipedia.org/wiki/5th_century" title="wikipedia:5th century">5th century</a></i></small></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td class="tg-familytree-member" colspan="6" rowspan="2" style=""><a href="../H/Hendwine.md" title="Hendwine">Hendwine</a>*<br/><small><i>fl. <a class="extiw" href="http://en.wikipedia.org/wiki/5th_century" title="wikipedia:5th century">5th century</a></i></small></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td></tr><tr align="center"></tr>
 </tbody></table></div>
 
-\* Tên mẹ của Hendwine không phải là Naimi mà là *[Nelmir](../N/Nelmir.md)* trong văn bản làm cơ sở cho việc đưa anh ta vào - mối quan hệ của bà với [Lindo](../L/Lindo.md) và [Vairë](<../V/Vairë_(wife_of_Lindo).md>) cũng không được trình bày chi tiết.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[6]</a></sup>
+\* Tên mẹ của Hendwine không phải là Naimi mà là *[Nelmir](../N/Nelmir.md)* trong văn bản làm cơ sở cho việc đưa ông ta vào - mối quan hệ của bà với [Lindo](../L/Lindo.md) và [Vairë](<../V/Vairë_(wife_of_Lindo).md>) cũng không được trình bày chi tiết.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[6]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong một bản phác thảo ban đầu bị từ chối, một phiên bản phức tạp hơn của cuộc tấn công vào nhà của Eoh đã được đưa ra, trong đó Beorn tấn công lâu đài của anh trai anh ta và giết chết anh ta, *and* bắt giữ Eriol - từ đó Eriol cuối cùng đã trốn thoát.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[7]</a></sup>
+Trong một bản phác thảo ban đầu bị từ chối, một phiên bản phức tạp hơn của cuộc tấn công vào nhà của Eoh đã được đưa ra, trong đó Beorn tấn công lâu đài của anh trai mình và giết chết ông ta, *and* bắt giữ Eriol - từ đó Eriol cuối cùng đã trốn thoát.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[7]</a></sup>
 
 ## Ghi chú {#Notes}
 

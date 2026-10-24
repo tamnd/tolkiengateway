@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Kastein, Ebe"
 ---
 
-- Ebe Kastein đã vui lòng cho phép sử dụng [tác phẩm nghệ thuật của cô ấy](../../category/I/Images_by_Ebe_Kastein.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
+- Ebe Kastein đã vui lòng cấp phép sử dụng [tác phẩm nghệ thuật của cô](../../category/I/Images_by_Ebe_Kastein.md) trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
 - Ngày: 15 tháng 3 năm 2015
 - Người dùng đã xin phép qua email: [Người dùng: Mith](https://tolkiengateway.net/wiki/User:Mith)

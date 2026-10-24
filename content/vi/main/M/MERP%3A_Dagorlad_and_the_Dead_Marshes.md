@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dagorlad and the Dead Marshes"
 ---
 
-Chuyển hướng đến [Dagorlad và Đầm lầy Chết](../D/Dagorlad_and_the_Dead_Marshes.md).
+Chuyển hướng đến [Dagorlad và vùng đầm lầy chết](../D/Dagorlad_and_the_Dead_Marshes.md).

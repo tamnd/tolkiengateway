@@ -30,17 +30,17 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Hobbit_-_The_Battle_of_the_Five_Armies_-_Original_Motion_Picture_Soundtrack_-_Special_Edition.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/f8/The_Hobbit_-_The_Battle_of_the_Five_Armies_-_Original_Motion_Picture_Soundtrack_-_Special_Edition.jpg/320px-The_Hobbit_-_The_Battle_of_the_Five_Armies_-_Original_Motion_Picture_Soundtrack_-_Special_Edition.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f8/The_Hobbit_-_The_Battle_of_the_Five_Armies_-_Original_Motion_Picture_Soundtrack_-_Special_Edition.jpg/480px-The_Hobbit_-_The_Battle_of_the_Five_Armies_-_Original_Motion_Picture_Soundtrack_-_Special_Edition.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/f/f8/The_Hobbit_-_The_Battle_of_the_Five_Armies_-_Original_Motion_Picture_Soundtrack_-_Special_Edition.jpg/640px-The_Hobbit_-_The_Battle_of_the_Five_Armies_-_Original_Motion_Picture_Soundtrack_-_Special_Edition.jpg 2x" data-file-width="1425" data-file-height="1425"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span><i>The Hobbit: The Battle of the Five Armies - Original Motion Picture Soundtrack - Special Edition</i></span></th></tr><tr><td colspan="2" class="tg-infobox-caption">Soundtrack by <a href="../H/Howard_Shore.md" title="Howard Shore">Howard Shore</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/9_December.md" title="9 December">9 December</a>, <a href="../_/2014.md" title="2014">2014</a></td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data">English</td></tr><tr><th scope="row" class="tg-infobox-label">Label</th><td class="tg-infobox-data"><a class="extiw" href="http://en.wikipedia.org/wiki/WaterTower_Music" title="wikipedia:WaterTower Music">WaterTower Music</a></td></tr></tbody></table>
 
-<i><b>The Hobbit: The Battle of the Five Armies - Nhạc phim gốc - Phiên bản đặc biệt</b></i> là một album phiên bản đặc biệt bao gồm nhạc phim của *[The Hobbit: The Battle of the Five Armies](The_Hobbit%253A_The_Battle_of_the_Five_Armies.md)*, bởi [Howard Shore](../H/Howard_Shore.md). Nó được phát hành dưới dạng kỹ thuật số và trên CD vào [9 tháng 12](../_/9_December.md) [2014](../_/2014.md).
+<i><b>The Hobbit: The Battle of the Five Armies - Original Motion Picture Soundtrack - Special Edition</b></i> là một album phiên bản đặc biệt bao gồm nhạc nền từ *[The Hobbit: The Battle of the Five Armies](The_Hobbit%253A_The_Battle_of_the_Five_Armies.md)* của [Howard Shore](../H/Howard_Shore.md). Nó được phát hành dưới dạng kỹ thuật số và trên CD vào [9 tháng 12](../_/9_December.md) [2014](../_/2014.md).
 
 ## Nội dung {#Contents}
 
 ### Đĩa 1 {#Disc_1}
 
 1. [Lửa và nước](<../F/Fire_and_Water_(soundtrack).md>)
-2. [Bờ Long Lake](../S/Shores_of_the_Long_Lake.md)
+2. [Bờ Hồ Dài](../S/Shores_of_the_Long_Lake.md)
 3. [Vượt qua nỗi buồn và nỗi đau](../B/Beyond_Sorrow_and_Grief.md) (Phiên bản mở rộng)
 4. [Ba người bảo vệ](../G/Guardians_of_the_Three.md) (Phiên bản mở rộng)
-5. [Tàn tích của Dale](The_Ruins_of_Dale.md)
+5. [Tàn tích của Thung lũng](The_Ruins_of_Dale.md)
 6. [Những đám mây tụ tập](<The_Gathering_of_the_Clouds_(soundtrack).md>) (Phiên bản mở rộng)
 7. [Mithril](<../M/Mithril_(soundtrack).md>)
 8. [Được tạo ra cho chiến tranh](../B/Bred_for_War.md)
@@ -60,8 +60,8 @@ infobox:
 8. [Ở đó và quay lại](<There_and_Back_Again_(soundtrack).md>)
 9. [Lời tạm biệt cuối cùng](The_Last_Goodbye.md) - do [Billy Boyd trình bày](../B/Billy_Boyd.md)
 10. [Ironfoot](<../I/Ironfoot_(soundtrack).md>) (Phiên bản mở rộng)
-11. [Rồng Bệnh tật](../D/Dragon_Sickness.md) (Bản nhạc thưởng)
-12. [Thráin](<Thráin_(soundtrack).md>) (Bài hát thưởng)
+11. [Bệnh rồng](../D/Dragon_Sickness.md) (Bài hát thưởng)
+12. [Thráin](<Thráin_(soundtrack).md>) (Bản nhạc thưởng)
 
 # Xem thêm {#See_also}
 

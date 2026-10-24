@@ -40,12 +40,12 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mallorn30.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/93/Mallorn30.jpg/320px-Mallorn30.jpg" decoding="async" loading="lazy" width="320" height="463" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/93/Mallorn30.jpg/480px-Mallorn30.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/9/93/Mallorn30.jpg/640px-Mallorn30.jpg 2x" data-file-width="4747" data-file-height="6868"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mallorn 30</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">John Ellison and <a href="../P/Patricia_Reynolds.md" title="Patricia Reynolds">Patricia Reynolds</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Printer</th><td class="tg-infobox-data"><a class="external text" href="http://www.nbr-print.co.uk/" rel="noreferrer noopener" target="_blank">New Bradwell Reprographics</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../S/September.md" title="September">September</a> <a href="../_/1993.md" title="1993">1993</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">A4 stapled paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">58</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0308-6674</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mallorn_29.md" title="Mallorn 29">Mallorn 29</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mallorn_31.md" title="Mallorn 31">Mallorn 31</a></td></tr></tbody></table>
 
-<b><i>Mallorn</i> 30</b> là số thứ 30 của tạp chí thường niên [Hội Tolkien](../T/The_Tolkien_Society.md) của *[Mallorn](<Mallorn_(journal).md>)*, xuất bản trên tháng Chín [1993](../_/1993.md).
+<b><i>Mallorn</i> 30</b> là số thứ 30 của tạp chí thường niên [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) *[Mallorn](<Mallorn_(journal).md>)*, xuất bản vào tháng 9 [1993](../_/1993.md).
 
 ## Nội dung {#Contents}
 
 - **Ảnh bìa**
-    - Mallorn cây
+    - Cây Mallorn
         - Bởi: [Pauline Baynes](../P/Pauline_Baynes.md)
 - **Biên tập**
     - Bởi: [John Ellison](../J/John_Ellison.md) và [Patricia Reynolds](../P/Patricia_Reynolds.md)
@@ -53,11 +53,11 @@ infobox:
 - **Bài viết**
     - Tiếng Anh và tiếng Wales
         - Bởi: [David Doughan](../D/David_Doughan.md)
-    - Những ngày đầu [Gondor](../G/Gondor.md)
+    - Những ngày đầu tiên của [Gondor](../G/Gondor.md)
         - Bởi: [Ruth Lacon](../R/Ruth_Lacon.md)
 Các bài viết tiền chiến khác của     - *[The Hobbit](../T/The_Hobbit.md)* và [Tolkien](../J/J.R.R._Tolkien.md)
         - Bởi: [John Rateliff](../J/John_D._Rateliff.md) và [Christina Scull](../C/Christina_Scull.md)
-Tác phẩm của     - Tolkien
+    - Nghệ thuật của Tolkien
         - Bởi: [John Ellison](../J/John_Ellison.md)
     - Nó làm tôi chán ngấy
         - Bởi: [Helen Armstrong](../H/Helen_Armstrong.md)
@@ -79,4 +79,4 @@ Tác phẩm của     - Tolkien
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://journals.tolkiensociety.org/mallorn/issue/view/31/" rel="noreferrer noopener" target="_blank">Vấn đề này tại trang web Hội Tolkien</a>
+- <a class="external text" href="http://journals.tolkiensociety.org/mallorn/issue/view/31/" rel="noreferrer noopener" target="_blank">Số này tại trang web của The Tolkien Society</a>

@@ -42,7 +42,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/AmonHen246.png.md"><img src="https://tolkiengateway.net/w/images/thumb/7/76/AmonHen246.png/320px-AmonHen246.png" decoding="async" loading="lazy" width="320" height="453" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/76/AmonHen246.png/480px-AmonHen246.png 1.5x, https://tolkiengateway.net/w/images/thumb/7/76/AmonHen246.png/640px-AmonHen246.png 2x" data-file-width="1240" data-file-height="1755"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Amon Hen 246</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="Andrew_Butler.md" title="Andrew Butler">Andrew Butler</a></td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data">Jennifer Gossman</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Printer</th><td class="tg-infobox-data"><a class="external text" href="http://www.horshampress.co.uk/" rel="noreferrer noopener" target="_blank">Horsham Press</a>, Horsham, UK</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">March <a href="../_/2014.md" title="2014">2014</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">A5 stapled paperback, glossy</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">28</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0306-8781</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Amon_Hen_245.md" title="Amon Hen 245">Amon Hen 245</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Amon_Hen_247.md" title="Amon Hen 247">Amon Hen 247</a></td></tr></tbody></table>
 
-<b><i>Amon Hen</i> 246</b> là số thứ hai trăm bốn mươi sáu của tạp chí hai tháng một lần của [Hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, xuất bản vào tháng 3 [2014](../_/2014.md).
+<b><i>Amon Hen</i> 246</b> is the two-hundred-and-forty-sixth issue of the [The Tolkien Society](../T/The_Tolkien_Society.md)'s bimonthly journal *[Amon Hen](<Amon_Hen_(journal).md>)*, published in March [2014](../_/2014.md).
 
 ## Nội dung {#Contents}
 
@@ -57,7 +57,7 @@ infobox:
 - Thông báo hội thảo
     - Bởi: [Pat Reynolds](../P/Pat_Reynolds.md)
 - Đề cử Ủy ban TS 2014
-- Sự đốt cháy Palantír 6
+- The Burning Palantír 6
     - Bởi: Ian Collier
 - Tất cả Bran
     - Bởi: Ian Spittlehouse
@@ -70,17 +70,17 @@ infobox:
 - Thư
 - [Tauriel](../T/Tauriel.md) ở *[The Hobbit: The Desolation of Smaug](../T/The_Hobbit%253A_The_Desolation_of_Smaug.md)*
     - Bởi: Sunny Solomons
-- Luôn có hy vọng: Bài học từ [Trung Địa](../M/Middle-earth.md)
+- Luôn có hy vọng: Bài học từ [Trung địa](../M/Middle-earth.md)
     - Bởi: Anne Marie Gazzolo
 - J.R.R. Tolkien, Giả tưởng và Sinh thái Prolegomena
     - Bởi: Thad A. Burkhart
-- Tin từ [Fangorn](../F/Fangorn_Forest.md)
+- Tin tức từ [Fangorn](../F/Fangorn_Forest.md)
     - Bởi: Carol Brownlow
 - Toán học
     - Bởi: Jan Boom
 - Vòng quanh thế giới trong 80 xã hội (?)
     - Bởi: Ironville 'Thần thoại và Phép thuật'
-Đoạn cắt của - Christopher
+- Đoạn cắt của Christopher
     - Bởi: Christopher Kreuzer
 - Ngày ghi nhật ký của bạn/Thành viên mới
 - Tác phẩm nghệ thuật: *[Caradhras](../C/Caradhras.md)*

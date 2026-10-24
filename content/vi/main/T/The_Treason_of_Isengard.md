@@ -65,11 +65,11 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Treason_of_Isengard_1989.png.md"><img src="https://tolkiengateway.net/w/images/thumb/9/91/Treason_of_Isengard_1989.png/305px-Treason_of_Isengard_1989.png" decoding="async" loading="lazy" width="305" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/9/91/Treason_of_Isengard_1989.png 1.5x" data-file-width="318" data-file-height="500"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Treason of Isengard</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../U/Unwin_Hyman.md" title="Unwin Hyman">Unwin Hyman</a> (UK)<br/><a class="mw-redirect" href="../H/Houghton_Mifflin.md" title="Houghton Mifflin">Houghton Mifflin</a> (US)</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/7_September.md" title="7 September">7 September</a> <a href="../_/1989.md" title="1989">1989</a> (UK)<br/><a href="../_/30_November.md" title="30 November">30 November</a> 1989 (US)</td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Hardcover; paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">464</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0044403968" title="Special:BookSources/0044403968">0044403968</a></td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="The_Return_of_the_Shadow.md" title="The Return of the Shadow">The Return of the Shadow</a> (1988)</td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="The_War_of_the_Ring.md" title="The War of the Ring">The War of the Ring</a> (1990)</td></tr></tbody></table>
 
-<i><b>The Treason of Isengard</b></i>, xuất bản trong [1989](../_/1989.md), là tập thứ bảy trong bộ sách 12 tập của [Christopher Tolkien](../C/Christopher_Tolkien.md), *[The History of Middle-earth](The_History_of_Middle-earth.md)*, trong đó ông phân tích các bản thảo chưa xuất bản của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
+<i><b>Sự phản bội của Isengard</b></i>, xuất bản năm [1989](../_/1989.md), là tập thứ bảy trong bộ sách 12 tập của [Christopher Tolkien](../C/Christopher_Tolkien.md), *[The History of Middle-earth](The_History_of_Middle-earth.md)*, trong đó ông phân tích các bản thảo chưa xuất bản của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
 Đây cũng là tập thứ hai của *[The History of The Lord of the Rings](The_History_of_The_Lord_of_the_Rings.md)*, ghi lại quá trình viết của *[The Lord of the Rings](The_Lord_of_the_Rings.md)*.
 
-Cuốn sách này bao gồm một phần của *[The Fellowship of the Ring](The_Fellowship_of_the_Ring.md)* và một phần của *[The Two Towers](The_Two_Towers.md)*. Nó tiếp tục cuộc gặp với [Théoden](Théoden.md) vua của [Rohan](../R/Rohan.md), và bao gồm việc phát minh và phát triển [Lothlórien](../L/Lothlórien.md) và [Galadriel](../G/Galadriel.md); kế hoạch tiến tới [Frodo](../F/Frodo.md) và [Sam](../S/Sam.md) lên [Mordor](../M/Mordor.md); phát minh và sự phát triển của [Treebeard](Treebeard.md), [Ent](../E/Ents.md) và [Fangorn](../F/Fangorn_Forest.md); thảo luận về bản đồ gốc của Trung Địa ở cuối Kỷ Đệ Tam; và sự phát triển của [Cirth](../C/Cirth.md) trong phần phụ lục.
+Cuốn sách này bao gồm một phần của *[The Fellowship of the Ring](The_Fellowship_of_the_Ring.md)* và một phần của *[The Two Towers](The_Two_Towers.md)*. Nó tiếp tục cuộc gặp với [Théoden](Théoden.md) vua của [Rohan](../R/Rohan.md), đồng thời bao gồm việc phát minh và tiến hóa của [Lothlórien](../L/Lothlórien.md) và [Galadriel](../G/Galadriel.md); kế hoạch cho quá trình của [Frodo](../F/Frodo.md) và [Sam](../S/Sam.md) tới [Mordor](../M/Mordor.md); sự phát minh và sự tiến hóa của [Treebeard](Treebeard.md), [Ent](../E/Ents.md) và [Fangorn](../F/Fangorn_Forest.md); các cuộc thảo luận về bản đồ gốc của Trung Địa vào cuối Thời đại thứ ba; và sự phát triển của [Cirth](../C/Cirth.md) trong phần phụ lục.
 
 Tựa *The Treason of Isengard* là tựa gốc của Quyển III của *The Lord of the Rings*, cuối cùng không được sử dụng.
 
@@ -77,32 +77,32 @@ Tựa *The Treason of Isengard* là tựa gốc của Quyển III của *The Lor
 
 - Lời nói đầu
 
-- Tôi. "Gandalf độ trễ"
-- II. "Giai đoạn Kỷ Đệ Tứ (1): Từ Hobbiton đến Bree"
-- III. "Giai đoạn Kỷ Đệ Tứ (2): Từ Bree đến Ford Rivendell"
-- IV. "Của Hamilcar, Gandalf, và Saruman"
-- V. "Bài hát củaBilbo tại Rivendell: *Errantry* và *Eärendillinwë*"
-- VI. "Cái Hội đồng Elrond (1)"
-- VII. "Cái Hội đồng Elrond (2)"
+- Tôi. "Sự chậm trễ của Gandalf"
+- II. "Giai đoạn thứ tư (1): Từ Hobbiton đến Bree"
+- III. "Giai đoạn thứ tư (2): Từ Bree đến Khúc sông Rivendell"
+- IV. "Của Hamilcar, Gandalf và Saruman"
+- V. "Bài hát của Bilbo tại Rivendell: *Errantry* và *Eärendillinwë*"
+- VI. "Hội đồng Elrond (1)"
+- VII. "Hội đồng Elrond (2)"
 - VIII. "Chiếc nhẫn đi về phía Nam"
-- IX. "Mỏ của Moria (1): Chúa tể Moria"
-- X. "Mỏ của Moria (2): Cây cầu"
+- IX. "Khu mỏ Moria (1): Chúa tể Moria"
+- X. "Khu mỏ Moria (2): Cây cầu"
 - XI. "Câu chuyện được đoán trước từ Moria"
 - XII. "Lothlórien"
 - XIII. "Galadriel"
 - XIV. "Tạm biệt Lórien"
-- XV. "Bản đồ đầu tiên của The Lord of the Rings"
+- XV. "Bản đồ đầu tiên của Chúa tể những chiếc nhẫn"
 - XVI. "Câu chuyện được đoán trước từ Lórien"
 - XVII. “Sông lớn”
 - XVIII. "Sự tan vỡ của tình bạn"
 - XIX. "Sự khởi hành của Boromir"
 - XX. "Những kỵ sĩ của Rohan"
-- XXI. "Cái Uruk-hai"
-- XXII. "Treebeard"
+- XXI. "Uruk-hai"
+- XXII. "Râu cây"
 - XXIII. "Ghi chú về các chủ đề khác nhau"
 - XXIV. "Kỵ Sĩ Trắng"
 - XXV. "Câu chuyện được đoán trước từ Fangorn"
-- XXVI. " Vua của Sảnh Vàng"
+- XXVI. "Vua của Sảnh Vàng"
 
 - Phụ lục về ngọc
 
@@ -110,7 +110,7 @@ Tựa *The Treason of Isengard* là tựa gốc của Quyển III của *The Lor
 
 ## Chữ khắc {#Inscriptions}
 
-Có một dòng chữ bằng ký tự [Tengwar](Tengwar.md) ở những trang đầu tiên của mỗi tập *History of Middle-earth*, do Christopher Tolkien viết và mô tả nội dung của cuốn sách. Dòng chữ trong Quyển VII có nội dung:
+Có một dòng chữ bằng ký tự [Tengwar](Tengwar.md) ở trang đầu tiên của mỗi tập *History of Middle-earth*, do Christopher Tolkien viết và mô tả nội dung cuốn sách. Dòng chữ trong Quyển VII có nội dung:
 
 <dl><dd>&#34;<i>In The Treason of Isengard the story of the Fellowship of the Ring is traced from Rivendell through Moria and the Land of Lothlórien to the time of its ending at Salembel beside Anduin the Great river, then is told of the return of Gandalf Mithrandir, of the meeting of the hobbits with Fangorn, and of the war upon the Riders of Rohan by the traitor Saruman.</i>&#34;</dd></dl>
 
@@ -190,11 +190,11 @@ The book also contains a full account of the original map which was to be the ba
 - [Giải phóng Hyman](../U/Unwin_Hyman.md), bìa cứng ([1989](../_/1989.md)), trang 464. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0044403968">ISBN 0044403968</a>
 - [HarperCollins](../H/HarperCollins.md) bìa cứng ([1991](../_/1991.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0261102192">ISBN 0261102192</a>
 - [HarperCollins](../H/HarperCollins.md) bìa mềm ([1993](../_/1993.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0261102206">ISBN 0261102206</a> - (ảnh bìa của [Roger Garland](../R/Roger_Garland.md))
-    - Ấn bản bìa mềm năm 1993, lần in thứ 2 - (ảnh bìa của [John Howe](../J/John_Howe.md))
+    - Ấn bản bìa mềm năm 1993, ấn tượng thứ 2 - (ảnh bìa của [John Howe](../J/John_Howe.md))
     - Ấn bản bìa mềm năm 1993, đặt lại vào [2002](../_/2002.md), sau đó vào [2015](../_/2015.md)
 - [HarperCollins](../H/HarperCollins.md) bìa cứng ([2010](../_/2010.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007365314">ISBN 0007365314</a>
     - Ấn bản bìa mềm năm 2015, lần in thứ 32 ([2024](../_/2024.md))
-- [HarperCollins](../H/HarperCollins.md) bìa cứng có áo chống bụi có thể đảo ngược ([2024](../_/2024.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/9780063390843">ISBN 978-0063390843</a> (bộ) - ([Bộ đóng hộp thế kỷ](../C/Centenary_Boxed_Sets.md) #3)
+- [Bìa cứng HarperCollins](../H/HarperCollins.md) với áo khoác chống bụi có thể đảo ngược ([2024](../_/2024.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/9780063390843">ISBN 978-0063390843</a> (bộ) - ([Bộ đóng hộp thế kỷ](../C/Centenary_Boxed_Sets.md) #3)
 
 ## Liên kết ngoài {#External_links}
 

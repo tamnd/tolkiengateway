@@ -67,11 +67,11 @@ Sự kiện xảy ra vào ngày 4 tháng 6
 
 - **[1916](1916.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được chuyển hàng đi Pháp.
 - **[1938](1938.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 28](../L/Letter_28.md).
-- **[1949](1949.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư gửi Pauline Baynes](../L/Letter_to_Pauline_Baynes.md).
+- **[1949](1949.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một bức thư cho Pauline Baynes](../L/Letter_to_Pauline_Baynes.md).
 - **[1954](1954.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 146](../L/Letter_146.md).
 - **[1968](1968.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 304](../L/Letter_304.md).
 - **[1971](1971.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) bắt đầu viết [Thư 324](../L/Letter_324.md).
-- **[2004](2004.md)** - [The Lord of the Rings Bản giao hưởng](../T/The_Lord_of_the_Rings_Symphony.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Atlanta" title="wikipedia:Atlanta">Atlanta</a> Nhà hát giao hưởng, <a class="extiw" href="http://en.wikipedia.org/wiki/Georgia_(U.S._state)" title="wikipedia:Georgia (U.S. state)">Georgia</a>.
+- **[2004](2004.md)** - [The Lord of the Rings Symphony](../T/The_Lord_of_the_Rings_Symphony.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Atlanta" title="wikipedia:Atlanta">Atlanta</a> Nhà hát Giao hưởng, <a class="extiw" href="http://en.wikipedia.org/wiki/Georgia_(U.S._state)" title="wikipedia:Georgia (U.S. state)">Georgia</a>.
 - **[2007](2007.md)** - *[The Lord of the Rings: The Official Stage Companion](../T/The_Lord_of_the_Rings%253A_The_Official_Stage_Companion.md)* được xuất bản.
 - **[2010](2010.md)** - [Warner Bros.](../W/Warner_Bros..md) thông báo rằng *[The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md)* sẽ trở thành trò chơi miễn phí.
 

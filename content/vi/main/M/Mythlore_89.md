@@ -39,18 +39,18 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mythlore_89.gif.md"><img src="https://tolkiengateway.net/w/images/f/ff/Mythlore_89.gif" decoding="async" loading="lazy" width="225" height="322" class="mw-file-element" data-file-width="225" data-file-height="322"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mythlore 89</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Theodore J. Sherman</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Summer <a href="../_/2001.md" title="2001">2001</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">81</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mythlore_88.md" title="Mythlore 88">Mythlore 88</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mythlore_90.md" title="Mythlore 90">Mythlore 90</a></td></tr></tbody></table>
 
-<b><i>Mythlore</i> 89</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol23/iss3/" rel="noreferrer noopener" target="_blank">Tập 23, Số 3</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
+<b><i>Thần thoại</i> 89</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol23/iss3/" rel="noreferrer noopener" target="_blank">Tập 23, Số 3</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
 
 ## Nội dung {#Contents}
 
 #### Bài viết {#Articles}
 
-- Calin, William. "C.S. Lewis, Nhà phê bình văn học: Đánh giá lại."
-- White, Donna R. "Nhân vật phản diện trong tưởng tượng xã hội của Carol Kendall." .
-- Bratman, David. "R.B. McCallum: Chủ nhân mơ hồ."
-- Umland, Rebecca A. và Samuel J. Umland. "Tất cả vì tình yêu: Huyền thoại về niềm đam mê lãng mạn trong điện ảnh Nhật Bản."
-- Crowe, Edith L. "Tạo dựng và hủy bỏ ở Trung Địa và những nơi khác."
-- Timmons, Daniel. "Hobbit Tình dục và nhục dục trong *The Lord of the Rings*."
+- Calin, William. "C.S. Lewis, Literary Critic: A Reassessment."
+- White, Donna R. "Villainy in the Social Fantasies of Carol Kendall." .
+- Bratman, David. "R.B. McCallum: The Master Inkling."
+- Umland, Rebecca A., and Samuel J. Umland. "All for Love: The Myth of Romantic Passion in Japanese Cinema."
+- Crowe, Edith L. "Making and Unmaking in Middle-Earth and Elsewhere."
+- Timmons, Daniel. "Hobbit Sex and Sensuality in *The Lord of the Rings*."
 
 #### Tính năng {#Features}
 

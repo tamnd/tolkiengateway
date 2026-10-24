@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Valar"
 ---
 
-Chuyển hướng đến [Valar](../V/Valar.md).
+Chuyển hướng tới [Valar](../V/Valar.md).

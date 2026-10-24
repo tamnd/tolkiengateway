@@ -21,7 +21,7 @@ langlinks:
 
 **Luvailin** hay **Shadowmere** chỉ là một [Eldamar](../E/Eldamar.md) dưới cái bóng của [Oiolossë](../O/Oiolossë.md).<sup id="cite_ref-UI_1-0" class="reference"><a href="#cite_note-UI-1">[1]</a></sup>
 
-Shadowmere được nhắc đến trong [Bilbo bài hát](../B/Bilbo_Baggins.md) [bài hát](../E/Eärendil_was_a_mariner.md) của [Eärendil](../E/Eärendil.md) trong [Rivendell](../R/Rivendell.md):<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Shadowmere được nhắc đến trong [Bilbo](../B/Bilbo_Baggins.md) [bài hát](../E/Eärendil_was_a_mariner.md) của [Eärendil](../E/Eärendil.md) ở [Rivendell](../R/Rivendell.md):<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <blockquote class="tg-quote noexcerpt">
 <p>where pale as glass<br/>
@@ -40,7 +40,7 @@ Vì nó chỉ phản chiếu ánh sáng của thành phố Tirion nên "nó hẳ
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong phiên bản đầu tiên của [Galadriel Bài hát](../G/Galadriel's_Song.md), xuất hiện những dòng:
+Trong phiên bản đầu tiên của [Bài hát của Galadriel](../G/Galadriel's_Song.md), xuất hiện những dòng:
 
 <blockquote class="tg-quote noexcerpt">
 <p>And by the strand of Tirion there grew a golden Tree.<br/>

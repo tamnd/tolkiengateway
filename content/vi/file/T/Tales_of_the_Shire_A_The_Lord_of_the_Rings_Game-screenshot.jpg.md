@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Ảnh chụp màn hình [Hobbit](../../main/H/Hobbit.md) từ trò chơi điện tử [Tales of the Shire: Trò chơi "The Lord of the Rings"](../../main/T/Tales_of_the_Shire%253A_A_%2522The_Lord_of_the_Rings%2522_Game.md).
+Ảnh chụp màn hình [Hobbit](../../main/H/Hobbit.md) từ trò chơi điện tử [Tales of the Shire: A "The Lord of the Rings" Game](../../main/T/Tales_of_the_Shire%253A_A_%2522The_Lord_of_the_Rings%2522_Game.md).
 
 ## Giấy phép {#Licensing}
 

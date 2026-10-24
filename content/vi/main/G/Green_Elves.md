@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Green-elves"
 ---
 
-Chuyển hướng đến [Tiên Xanh](Green-elves.md).
+Chuyển hướng đến [Yêu tinh xanh](Green-elves.md).

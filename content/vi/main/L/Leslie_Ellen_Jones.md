@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Jones, Leslie Ellen"
 ---
 
-**Leslie Ellen Jones** có bằng Tiến sĩ. trong Nghiên cứu Văn hóa Dân gian và Thần thoại từ <a class="extiw" href="http://en.wikipedia.org/wiki/UCLA" title="wikipedia:UCLA">UCLA</a>, với chuyên ngành về thần thoại so sánh và Celtic. Cô đã viết nhiều về cách sử dụng thần thoại hiện đại trong tiểu thuyết, phim ảnh và truyền hình nổi tiếng.
+**Leslie Ellen Jones** có bằng Tiến sĩ. trong Nghiên cứu văn hóa dân gian và thần thoại từ <a class="extiw" href="http://en.wikipedia.org/wiki/UCLA" title="wikipedia:UCLA">UCLA</a>, với chuyên ngành về thần thoại so sánh và thần thoại Celtic. Cô đã viết nhiều về cách sử dụng thần thoại hiện đại trong tiểu thuyết, phim ảnh và truyền hình nổi tiếng.
 
 ## Thư mục {#Bibliography}
 
@@ -27,4 +27,4 @@ sort_keys:
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://www.greenwood.com/catalog/author/J/Leslie_Ellen_Jones.aspx" rel="noreferrer noopener" target="_blank">Leslie Ellen Jones</a> tại <a class="external text" href="http://www.greenwood.com/" rel="noreferrer noopener" target="_blank">Rừng Xanh Nhóm Xuất Bản</a>
+- <a class="external text" href="http://www.greenwood.com/catalog/author/J/Leslie_Ellen_Jones.aspx" rel="noreferrer noopener" target="_blank">Leslie Ellen Jones</a> tại <a class="external text" href="http://www.greenwood.com/" rel="noreferrer noopener" target="_blank">Tập đoàn xuất bản Greenwood</a>

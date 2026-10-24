@@ -16,4 +16,4 @@ sort_keys:
   "Films": "Fan films"
 ---
 
-Thể loại này liệt kê tất cả **Phim của người hâm mộ** liên quan đến [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) tác phẩm.
+Thể loại này liệt kê tất cả **Phim của người hâm mộ** liên quan đến tác phẩm của [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md).

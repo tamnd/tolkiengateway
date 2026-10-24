@@ -20,7 +20,7 @@ hidden_categories:
 
 ## Từ nguyên {#Etymology}
 
-[Old Sindarin](../O/Old_Sindarin.md) từ \**metâja* < [Gốc](../S/Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=MET&amp;action=edit&amp;redlink=1" title="MET (page does not exist)">MET</a>
+[Từ Sindarin cổ](../O/Old_Sindarin.md) \**metâja* < [Gốc](../S/Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=MET&amp;action=edit&amp;redlink=1" title="MET (page does not exist)">MET</a>
 
 Nó chứa phần cuối <a class="new" href="https://tolkiengateway.net/w/index.php?title=-ui&amp;action=edit&amp;redlink=1" title="-ui (page does not exist)">-ui</a>.
 
@@ -29,7 +29,7 @@ Nó chứa phần cuối <a class="new" href="https://tolkiengateway.net/w/index
 Biểu mẫu [Cho phép](../L/Lenition.md):
 
 - **-vedui** trong biểu thức **na-vedui** "cuối cùng"
-- <i><a href="../A/Arvedui.md#Etymology" title="Arvedui">Ar<b>vedui</b></a></i> "Cuối cùng Vua".
+- <i><a href="../A/Arvedui.md#Etymology" title="Arvedui">Ar<b>vedui</b></a></i> "Vị vua cuối cùng".
 
 ## Xem thêm {#See_also}
 

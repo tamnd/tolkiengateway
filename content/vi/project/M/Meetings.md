@@ -14,7 +14,7 @@ sort_keys:
   "Tolkien Gateway meetings": " "
 ---
 
-**Tolkien Gateway: Các cuộc họp** là các cuộc họp trực tuyến thường kỳ được tổ chức vào Chủ nhật đầu tiên hàng tháng lúc 8 giờ tối theo giờ UTC. Cuộc họp diễn ra trên kênh #Wiki của mạng IRC cũ của Tolkien Gateway. Thời gian cụ thể của từng cuộc họp theo múi giờ của bạn có sẵn trên mỗi trang cuộc họp (xem các liên kết bên dưới). Trước mỗi cuộc họp, người dùng có thể đưa ra ý tưởng để thảo luận bằng cách sử dụng trang thảo luận. Ngoài ra, người dùng nên ghi lại ý định tham dự trên cùng một trang thảo luận. Bản ghi của hầu hết các cuộc họp đều có sẵn cho những người không tham dự đọc.
+**Cổng Tolkien: Các cuộc họp** là các cuộc họp trực tuyến thường xuyên được tổ chức vào Chủ nhật đầu tiên hàng tháng lúc 8 giờ tối theo giờ UTC. Cuộc họp diễn ra trên kênh #Wiki của mạng IRC cũ của Tolkien Gateway. Thời gian cụ thể của từng cuộc họp theo múi giờ của bạn có sẵn trên mỗi trang cuộc họp (xem các liên kết bên dưới). Trước mỗi cuộc họp, người dùng có thể đưa ra ý tưởng để thảo luận bằng cách sử dụng trang thảo luận. Ngoài ra, người dùng nên ghi lại ý định tham dự trên cùng một trang thảo luận. Bản ghi của hầu hết các cuộc họp đều có sẵn cho những người không tham dự đọc.
 
 ## Các cuộc họp trước đó {#Previous_Meetings}
 

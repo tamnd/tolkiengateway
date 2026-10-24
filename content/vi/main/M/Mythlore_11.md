@@ -39,23 +39,23 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mythlore_11.jpeg.md"><img src="https://tolkiengateway.net/w/images/5/52/Mythlore_11.jpeg" decoding="async" loading="lazy" width="225" height="294" class="mw-file-element" data-file-width="225" data-file-height="294"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mythlore 11</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../G/Glen_GoodKnight.md" title="Glen GoodKnight">Glen GoodKnight</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/1976.md" title="1976">1976</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">31</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mythlore_10.md" title="Mythlore 10">Mythlore 10</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mythlore_12.md" title="Mythlore 12">Mythlore 12</a></td></tr></tbody></table>
 
-<b><i>Mythlore</i> 11</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol3/iss3/" rel="noreferrer noopener" target="_blank">Tập 3, Số 3</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
+<b><i>Thần thoại</i> 11</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol3/iss3/" rel="noreferrer noopener" target="_blank">Tập 3, Số 3</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
 
 ## Nội dung {#Contents}
 
 #### Bài viết {#Articles}
 
-- Lloyd, Paul M. "Vai trò của chiến tranh và chiến lược trong *The Lord of the Rings*." 3-7.
-- Christopher, Joe R. "Leo lên thang của Jacob: Cách tiếp cận theo cấp bậc đối với Chủ nghĩa thần bí tưởng tượng." 10-19.
-- Walton, Evangeline. "Celtic Huyền thoại trong thế kỷ XX." 19-22.
-- Patterson, Nancy-Lou. "Homo Monstrousus: Gurgi của Lloyd Alexander và những nhân vật Bóng Tối của nền văn học kỳ ảo." 24-8.
-- Bisenicks, Dainis. "Người tìm kiếm tiếng Wales vị thần." 29-31.
+- Lloyd, Paul M. "The Role of Warfare and Strategy in *The Lord of the Rings*." 3-7.
+- Christopher, Joe R. "Climbing Jacob's Ladder: A Heirarchical Approach to Imagistic Mysticism." 10-19.
+- Walton, Evangeline. "Celtic Myth in the Twentieth Century." 19-22.
+- Patterson, Nancy-Lou. “Homo Monstrousus: Gurgi của Lloyd Alexander và những nhân vật bóng tối của văn học kỳ ảo.” 24-8.
+- Bisenicks, Dainis. "Finder of the Welsh Gods." 29-31.
 
 #### Tính năng {#Features}
 
 - Ellwood, Gracia Fay. Bài thơ. 8.
-- Công văn gửi đến Mythlore. 22.
-- Chapman, Ed. "Phi Thế Giới." Đánh giá về *The Not-World* của Thomas Burnett Swann. 23-24.
+- Công văn về thần thoại. 22.
+- Chapman, Ed. "The Not-World." Review of *The Not-World* by Thomas Burnett Swann. 23-24.
 - Ghi chú về vấn đề này. 28.
 
 #### Nghệ thuật {#Art}

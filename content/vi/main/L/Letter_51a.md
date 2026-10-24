@@ -29,9 +29,9 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien đang trả lời một lá thư dài [Christopher](../C/Christopher_Tolkien.md) mới được gửi cho anh ấy và bày tỏ sự nhẹ nhõm khi anh ấy trải qua những khoảnh khắc thoải mái giữa những khó khăn. Tolkien phê phán sự kém hiệu quả của R.A.F. trên thực địa, cho rằng đó là bản chất của chiến tranh, trái ngược với thơ anh hùng.
+Tolkien đang trả lời một bức thư dài [Christopher](../C/Christopher_Tolkien.md) gần đây đã gửi cho ông và bày tỏ sự nhẹ nhõm khi ông trải qua một số khoảnh khắc tử tế giữa những khó khăn. Tolkien phê phán sự kém hiệu quả của R.A.F. trên thực địa, cho rằng đó là bản chất của chiến tranh, trái ngược với thơ anh hùng.
 
-Anh ấy khuyên Christopher nên sử dụng những trải nghiệm đầy thử thách này để phát triển cá nhân, thúc giục anh ấy đừng phán xét và coi thường những đồng đội dường như không xứng đáng, vì vẻ bề ngoài có thể lừa dối. Bức thư kết thúc bằng lời chúc phúc chân thành và bày tỏ tình yêu thương. <br>
+Ông khuyên Christopher nên sử dụng những trải nghiệm đầy thử thách này để phát triển cá nhân, đồng thời thúc giục anh đừng phán xét và coi thường những đồng đội dường như không xứng đáng, vì vẻ bề ngoài có thể lừa dối. Bức thư kết thúc bằng lời chúc phúc chân thành và bày tỏ tình yêu thương. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

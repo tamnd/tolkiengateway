@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Eärendil"
 ---
 
-Chuyển hướng đến [Eärendil](Eärendil.md).
+Chuyển hướng tới [Eärendil](Eärendil.md).

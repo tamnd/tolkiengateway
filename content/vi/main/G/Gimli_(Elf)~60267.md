@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gimli (elf)"
 ---
 
-Chuyển hướng tới [Gimli (elf)](<Gimli_(elf).md>).
+Chuyển hướng đến [Gimli (tinh)](<Gimli_(elf).md>).

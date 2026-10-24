@@ -16,7 +16,7 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="../T/Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><b>I</b><a href="../S/Second_Age.md" title="Second Age">II</a><a href="../T/Third_Age.md" title="Third Age">III</a><a href="Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="First_Age_425.md" title="First Age 425">425</a><a href="First_Age_428.md" title="First Age 428">428</a><a href="First_Age_430.md" title="First Age 430">430</a><a class="mw-selflink selflink">432</a><a href="First_Age_436.md" title="First Age 436">436</a><a href="First_Age_441.md" title="First Age 441">441</a><a href="First_Age_443.md" title="First Age 443">443</a></div></div></div></div></div></div>
 
-**Kỷ Đệ Nhất 432** (viết tắt là **F.A. 432**) là năm [thứ 432 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Nhất](First_Age.md) của [Trung Địa](../M/Middle-earth.md).
+**Kỷ thứ nhất 432** (viết tắt là **F.A. 432**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 432 của [Kỷ nguyên thứ nhất](First_Age.md) của [Trung Địa](../M/Middle-earth.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 

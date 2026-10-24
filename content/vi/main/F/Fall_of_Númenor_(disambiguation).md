@@ -14,9 +14,9 @@ images:
   - "Disambig.png"
 ---
 
-**Sự sụp đổ của Númenor** có thể ám chỉ đến:
+**Sự sụp đổ của Númenor** có thể đề cập đến:
 
-## Trung Địa {#Middle-earth}
+## Trung địa {#Middle-earth}
 
 - **[Sự sụp đổ của Númenor](../D/Downfall_of_Númenor.md)**, sự kiện đã phá hủy hòn đảo và [thay đổi Thế giới](../C/Changing_of_the_World.md).
 

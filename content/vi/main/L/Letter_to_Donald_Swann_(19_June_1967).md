@@ -17,7 +17,7 @@ sort_keys:
 Vào [19 tháng 6](../_/19_June.md) [1967](../_/1967.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) gửi [Donald Swann](../D/Donald_Swann.md)**.
 
 - **Chủ đề:** Tolkien cảm ơn Swann về bìa sách và so sánh chữ "t" được hiển thị ở đó với những lần xuất hiện khác nhau trong các bản thảo chân thực.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
-- **Lưu trữ:** Lưu trữ của Trung tâm Wade<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- **Lưu trữ:** Lưu trữ Trung tâm Wade<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

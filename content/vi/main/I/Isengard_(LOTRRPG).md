@@ -44,14 +44,14 @@ Phần bổ sung ban đầu được công bố vào năm 2003 dưới dạng b�
 
 *Stronghold of Dark Designs …*
 
-Từ Orc thấp kém nhất của Bàn tay Trắng đến vị tướng hùng mạnh nhất của nó, từ căn phòng sâu nhất của Orthanc đến đỉnh cao nhất của nó, từ ngọn lửa bùng nổ của Saruman đến những chiếc nhẫn quyền lực do chính tay hắn chế tạo, sách nguồn Isengard cung cấp mọi thứ mà Người kể chuyện cần biết về thành trì cổ xưa này. Mang vô số thử thách mới này vào Biên niên sử *The Lord of the Rings Trò chơi nhập vai* của bạn và để người chơi của bạn tự mình chiến đấu chống lại pháo đài của Pháp sư đã thất thủ này!
+Từ tên Orc thấp kém nhất của Bàn tay Trắng đến vị tướng hùng mạnh nhất, từ căn phòng sâu nhất của Orthanc đến đỉnh cao nhất của nó, từ ngọn lửa bùng nổ của Saruman đến những chiếc nhẫn quyền lực do chính tay hắn chế tạo, cuốn sách nguồn Isengard cung cấp mọi thứ mà Người kể chuyện cần biết về thành trì cổ xưa này. Mang vô số thử thách mới này vào Biên niên sử *Trò chơi nhập vai Chúa tể những chiếc nhẫn* của bạn và để người chơi của bạn tự mình chiến đấu chống lại pháo đài của Pháp sư sa ngã này!
 
 *Isengard Sourcebook* bao gồm:
 
-- Lịch sử sâu sắc kéo dài từ những ngày Isengard được xây dựng bởi nhà xây dựng bậc thầy Gondor Curugond Lamedon.
-- Mô tả chi tiết về tòa tháp Orthanc, bức tường Nhẫn của Isengard, hang động mê cung bên dưới cả hai và nhiều địa điểm khác trên khắp Pháp sư's Vale, bao gồm 9 bản đồ đầy màu sắc.
-- Số liệu thống kê đầy đủ về binh lính, người hầu, nô lệ, gián điệp và nhiều người khác làm việc cho Bàn tay trắng - bao gồm cả Saruman chính anh ta và những người thân cận của anh ta.
-- Tất cả thông tin mới về các đường hầm sinh sản nơi Uruk-hai, Half-orc và Orc-spawn khác được tạo ra, bao gồm các lỗ hổng mới như Orc-ancestry và Ill-made.
+- Lịch sử chuyên sâu kéo dài từ thời kỳ xây dựng Isengard bởi nhà xây dựng bậc thầy người Gondorian Curugond Lamedon.
+- Mô tả chi tiết về tháp Orthanc, Tường thành Isengard, hang động mê cung bên dưới cả hai và nhiều địa điểm khác trên khắp Wizard's Vale, bao gồm 9 bản đồ đầy màu sắc.
+- Số liệu thống kê đầy đủ về binh lính, người hầu, nô lệ, gián điệp và nhiều người khác làm việc cho Bàn tay trắng - bao gồm cả bản thân Saruman và những người thân cận của hắn.
+- Tất cả thông tin mới về các đường hầm sinh sản nơi Uruk-hai, Half-Orc và các loài Orc khác được tạo ra, bao gồm các sai sót mới như Tổ tiên Orc và Ill-made.
 
 <span></span>
 

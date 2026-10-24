@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Elessar (disambiguation)"
 ---
 
-Chuyển hướng đến [Elessar (định hướng)](<Elessar_(disambiguation).md>).
+Chuyển hướng tới [Elessar (định hướng)](<Elessar_(disambiguation).md>).

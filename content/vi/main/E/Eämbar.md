@@ -52,11 +52,11 @@ infobox:
 
 ## Lịch sử {#History}
 
-Eämbar là một con tàu khổng lồ, được thiết kế để làm nơi ở hơn là một chiếc thuyền buồm. Ban đầu được thả neo ngoài khơi đảo [Tol Uinen](../T/Tol_Uinen.md) trong vịnh [Rómenna](../R/Rómenna.md), sau đó nó được chuyển đến các cảng [Andúnië](../A/Andúnië.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Vào một ngày nào đó sau đó, con tàu bị Nhà vua tịch thu và tất cả hồ sơ của nó (bao gồm cả hải đồ chính xác của [Númenor](../N/Númenor.md)) đều bị tiêu hủy trong Sự sụp đổ.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Eämbar là một con tàu khổng lồ, được thiết kế để làm nơi ở hơn là một chiếc thuyền buồm. Ban đầu nó được thả neo ngoài khơi đảo [Tol Uinen](../T/Tol_Uinen.md) trong vịnh [Rómenna](../R/Rómenna.md), sau đó được chuyển đến các cảng [Andúnië](../A/Andúnië.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Vào một ngày nào đó, con tàu bị các vị vua tịch thu và tất cả hồ sơ của nó (bao gồm cả các hải đồ chính xác của [Númenor](../N/Númenor.md)) đều bị hư hỏng trong Sự sụp đổ.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Eämbar* là tên [Quenya](../Q/Quenya.md) có nghĩa là "Biển-ở",<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> từ *[eär](Eär.md)* ("biển") + *[-mbar](../_/-mbar.md)* ("nhà").<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+*Eämbar* là tên [Quenya](../Q/Quenya.md) có nghĩa là "Nơi ở trên biển",<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> từ *[eär](Eär.md)* ("biển") + *[-mbar](../_/-mbar.md)* ("nhà").<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 <span></span>
 

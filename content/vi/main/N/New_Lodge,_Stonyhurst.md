@@ -18,7 +18,7 @@ images:
 
 <figure typeof="mw:File/Frame"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_-_New_Lodge,_Stonyhurst.jpg.md"><img src="https://tolkiengateway.net/w/images/5/52/J.R.R._Tolkien_-_New_Lodge%2C_Stonyhurst.jpg" decoding="async" loading="lazy" width="304" height="257" class="mw-file-element" data-file-width="304" data-file-height="257"/></a><figcaption></figcaption></figure>
 
-**New Lodge, Stonyhurst** là tiêu đề bức vẽ của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), mô tả một khu vườn và nhà khách trong khuôn viên của <a class="extiw" href="http://en.wikipedia.org/wiki/Stonyhurst_College" title="wikipedia:Stonyhurst College">Stonyhurst College</a>, một trường nội trú Công giáo ở <a class="extiw" href="http://en.wikipedia.org/wiki/Stonyhurst" title="wikipedia:Stonyhurst">Stonyhurst</a>, Lancashire. Nó được vẽ bởi Tolkien vào tháng 8 [1947](../_/1947.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**New Lodge, Stonyhurst** là tiêu đề bức vẽ của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), mô tả một khu vườn và nhà khách trong khuôn viên của <a class="extiw" href="http://en.wikipedia.org/wiki/Stonyhurst_College" title="wikipedia:Stonyhurst College">Stonyhurst College</a>, một trường nội trú Công giáo ở <a class="extiw" href="http://en.wikipedia.org/wiki/Stonyhurst" title="wikipedia:Stonyhurst">Stonyhurst</a>, Lancashire. Nó được Tolkien vẽ vào tháng 8 [1947](../_/1947.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Bản vẽ được sao chép thành hình 28 trong *[J.R.R. Tolkien: Artist &amp; Illustrator](../J/J.R.R._Tolkien%253A_Artist_and_Illustrator.md)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 

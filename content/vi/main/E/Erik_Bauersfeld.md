@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Bauersfeld, Erik"
 ---
 
-**Erik Bauersfeld** ([28 tháng 6](../_/28_June.md), [1922](../_/1922.md) - [4 tháng 4](../_/4_April.md), [2016](../_/2016.md)) là một nhà viết kịch trên đài phát thanh người Mỹ. Trong quá trình sản xuất *[The Lord of the Rings](<../T/The_Lord_of_the_Rings_(1979_radio_series).md>)*của <a class="new" href="https://tolkiengateway.net/w/index.php?title=Mind%27s_Eye&amp;action=edit&amp;redlink=1" title="Mind&#39;s Eye (page does not exist)">Mind's Eye</a>, anh ấy đã lồng tiếng cho [Théoden](../T/Théoden.md), [Boromir](../B/Boromir.md) và một người quản lý thảo mộc.
+**Erik Bauersfeld** ([28 tháng 6](../_/28_June.md), [1922](../_/1922.md) - [4 tháng 4](../_/4_April.md), [2016](../_/2016.md)) là một nhà viết kịch trên đài phát thanh người Mỹ. Trong quá trình sản xuất *[The Lord of the Rings](<../T/The_Lord_of_the_Rings_(1979_radio_series).md>)*của <a class="new" href="https://tolkiengateway.net/w/index.php?title=Mind%27s_Eye&amp;action=edit&amp;redlink=1" title="Mind&#39;s Eye (page does not exist)">Mind's Eye</a>, ông đã lồng tiếng cho [Théoden](../T/Théoden.md), [Boromir](../B/Boromir.md) và một nhà thảo dược.
 
 ## Liên kết ngoài {#External_links}
 

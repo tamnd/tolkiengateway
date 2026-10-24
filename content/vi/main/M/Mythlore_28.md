@@ -39,35 +39,35 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mythlore_28.gif.md"><img src="https://tolkiengateway.net/w/images/c/c7/Mythlore_28.gif" decoding="async" loading="lazy" width="225" height="291" class="mw-file-element" data-file-width="225" data-file-height="291"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mythlore 28</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../G/Glen_GoodKnight.md" title="Glen GoodKnight">Glen GoodKnight</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Summer <a href="../_/1981.md" title="1981">1981</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">47</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mythlore_27.md" title="Mythlore 27">Mythlore 27</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mythlore_29.md" title="Mythlore 29">Mythlore 29</a></td></tr></tbody></table>
 
-<b><i>Mythlore</i> 28</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol8/iss2/" rel="noreferrer noopener" target="_blank">Tập 8, Số 2</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
+<b><i>Thần thoại</i> 28</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol8/iss2/" rel="noreferrer noopener" target="_blank">Tập 8, Số 2</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, được xuất bản bởi [Hiệp hội Thần thoại](Mythopoeic_Society.md).
 
 ## Nội dung {#Contents}
 
 #### Bài viết {#Articles}
 
-- Anderson, Poul. “Tương lai của thần thoại.”
-- Chúc ngủ ngon, Glen. “Luật sư của Elrond: Cuộc gặp gỡ đầu tiên với Tolkien.”
-- Rateliff, John D. “Cô ấy và Tolkien.”
-- Carnell, Corbin S. “Tiền chuộc ở Perelandra: Anh hùng Jungian?”
-- Howard, Thomas. “Cấp Charles Williams Doneé của anh ấy.”
-- Stolzenbach, Mary M. “The Water Trẻ sơ sinh: Sự đánh giá cao.”
-- Zimmerman, Manfred. “Kết xuất câu thơ ám chỉ của Tolkien.”
-- Thorson, Stephen. “Ý nghĩa chủ đề của C.S. Lewis' Tinh thần trong sự ràng buộc.”
-- Chapman, Vera. "Tiền thân của Tolkien? Ba con khỉ hoàng gia của Walter de la Mare."
-- Nelson, Marie. “Ngôn ngữ loài chim trong Thanh kiếm trong đá của T.H. White.”
+- Anderson, Poul. “The Future of Mythology.”
+- GoodKnight, Glen. “The Counsel of Elrond: First Encounter with Tolkien.”
+- Rateliff, John D. “She and Tolkien.”
+- Carnell, Corbin S. “Ransom in Perelandra: Jungian Hero?”
+- Howard, Thomas. “Granting Charles Williams his Doneé.”
+- Stolzenbach, Mary M. “The Water Babies: An Appreciation.”
+- Zimmerman, Manfred. “Rendering of Tolkien's Alliterative Verse.”
+- Thorson, Stephen. “Thematic Implications of C.S. Lewis' Spirits in Bondage.”
+- Chapman, Vera. “A Forerunner of Tolkien? Walter de la Mare’s The Three Royal Monkeys.”
+- Nelson, Marie. “Bird Language in T.H. White’s The Sword in the Stone.”
 
 #### Thơ {#Poetry}
 
-- Allaby, Mark. “Không Mặt Trời ở Narnia.”
-- Schweitzer, Darrell. “Người đàn ông trong gió.”
-- Allaby, Mark. “Tội ác.”
-- Allaby, Mark. “Câu chuyện của mùa đông.”
+- Allaby, Mark. “No Sun Over Narnia.”
+- Schweitzer, Darrell. “The Man In The Wind.”
+- Allaby, Mark. “Malory.”
+- Allaby, Mark. “A Winter's Tale.”
 
 #### Tính năng {#Features}
 
-- Christopher, Joe R. An Inklings' Thư mục (17).
-- Speth, Lee. “Đối xử ung dung: Chúng tôi đến gặp nhà phân tích.”
-- Ellwood, Gracia Fay. “Các vấn đề về nhập khẩu mộ.”
+- Christopher, Joe R. An Inklings' Bibliography (17).
+- Speth, Lee. “Cavalier Treatment: We're Off To See The Analyst.”
+- Ellwood, Gracia Fay. “Matters of Grave Import.”
 - Thư.
 
 #### Đánh giá {#Reviews}

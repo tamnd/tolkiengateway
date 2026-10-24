@@ -30,13 +30,13 @@ images:
 
 Từ đỉnh [Cầu thang thẳng](../S/Straight_Stair.md), con đường từ Thung lũng Morgul tiếp tục đi về phía trước như một lối đi tối tăm được bao quanh bởi những bức tường đá cao chót vót nhưng không có bậc thang và chỉ leo lên như một con dốc thoai thoải. Sau vài dặm, bức tường bên phải kết thúc và con đường nằm giữa một vách đá và một vực sâu. Đoạn dốc thoải này kết thúc tại một bức tường đá mới, nơi bắt đầu Cầu thang quanh co.
 
-Cầu thang quanh co không đi sâu vào vùng núi [Ephel Dúath](../E/Ephel_Dúath.md); thay vào đó, mặt vách đá dốc về phía sau và cầu thang ngoằn ngoèo qua lại nó. Tại một thời điểm, một trong những lối rẽ nhìn ra khe núi rộng lớn ở đầu Thung lũng Morgul. Cầu thang vẫn quằn quại từ thời điểm này cho đến khi đến bậc thang cuối cùng, ngắn và thẳng. Bên kia cầu thang là một khe hở dẫn đến Cirith Ungol.<sup id="cite_ref-Stairs_1-0" class="reference"><a href="#cite_note-Stairs-1">[1]</a></sup>
+Cầu thang quanh co không đi sâu vào những ngọn núi của [Ephel Dúath](../E/Ephel_Dúath.md); thay vào đó, mặt vách đá dốc về phía sau và cầu thang ngoằn ngoèo qua lại nó. Tại một thời điểm, một trong những lối rẽ nhìn ra khe núi rộng lớn ở đầu Thung lũng Morgul. Cầu thang vẫn quằn quại từ thời điểm này cho đến khi đến bậc thang cuối cùng, ngắn và thẳng. Bên kia cầu thang là một khe nứt dẫn đến Cirith Ungol.<sup id="cite_ref-Stairs_1-0" class="reference"><a href="#cite_note-Stairs-1">[1]</a></sup>
 
-[Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md) theo [Gollum](../G/Gollum.md) lên Cầu thang quanh co vào [12 tháng 3](../_/12_March.md), [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Sau khi lên đến đỉnh của dãy cầu thang thứ hai này, hai hobbit ngồi trong một kẽ hở và ăn một miếng trước khi quay mặt về phía [đường hầm](../S/Shelob's_Lair.md) phía trước.<sup id="cite_ref-Stairs_1-1" class="reference"><a href="#cite_note-Stairs-1">[1]</a></sup>
+[Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md) theo sau [Gollum](../G/Gollum.md) lên Cầu thang quanh co vào [12 tháng 3](../_/12_March.md), [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Sau khi lên tới đỉnh của dãy cầu thang thứ hai này, hai hobbit ngồi trong một kẽ hở và ăn một miếng trước khi quay mặt về phía [đường hầm](../S/Shelob's_Lair.md) phía trước.<sup id="cite_ref-Stairs_1-1" class="reference"><a href="#cite_note-Stairs-1">[1]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2019: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2019: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
 
 <dl><dd>The Winding Stair provides a good look at the Dead City below and leads directly into <a href="../S/Shelob&#39;s_Lair.md" title="Shelob&#39;s Lair">Shelob&#39;s Lair</a> - &#34;Torech Ungol&#34;.</dd></dl>
 

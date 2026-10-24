@@ -41,16 +41,16 @@ infobox:
 - Hương vị của những điều sắp đến (Umbar) - Jason Beresford
 - Phép thuật độc đáo của Trung Địa - David Woolpy
 - Những con tàu của Vịnh Belfalas - [Anders Blixt](../A/Anders_Blixt.md)
-- Arda Truyền thuyết:
+- Arda Lore:
     - Có phải *The Silmarillion* chỉ là Huyền thoại về con người? - Bernie Roessler
-    - Chuyện gì *did* xảy ra vào đêm Weathertop đó? - Bernie Roessler
-    - Có trường học nào ở Trung Địa không? - Tommy Martin
-    - Chuyện gì đã xảy ra với Blue Pháp sư? - Tommy Martin, Adam Miller, Dave Craft, Georg Donde, Mark Thorne, [Chris Seeman](../C/Chris_Seeman.md), Mike Austin Edly, Doug Pearson
+    - Chuyện gì *did* xảy ra đêm đó trên Weathertop? - Bernie Roessler
+    - Có trường học ở Trung Địa không? - Tommy Martin
+    - Chuyện gì đã xảy ra với Blue Wizards vậy? - Tommy Martin, Adam Miller, Dave Craft, Georg Donde, Mark Thorne, [Chris Seeman](../C/Chris_Seeman.md), Mike Edly, Doug Pearson
     - Tên ban đầu của Hornburg là gì? - [Chris Seeman](../C/Chris_Seeman.md)
     - Harondor có rừng không? (Trả lời Wesley Frank, OH 12: 42-43) - Dirk Brandherm
-    - Bản chất của Phép thuật trong Trung Địa là gì? - Marcus Wevers
-    - Trung Địa Phép thuật được dịch sang *Rolemaster*như thế nào? - John Feil
-    - Có Trung Địa Tương đương với Tinh chất, Truyền dẫn và Tâm linh không? - [Chris Seeman](../C/Chris_Seeman.md), Steffen Solomon, Luke Potter, Steve Danielson
-- Đánh giá sản phẩm: Trung Địa: The Pháp sư - Marco Antonio Blanco Navarrete
-- Đánh giá sản phẩm: Miền Nam Gondor: Miền Đất - Randy Gilbertson
-- Đánh giá sản phẩm: Miền Nam Gondor: Đánh giá lần thứ hai - Luke T. Potter
+    - Bản chất của Phép thuật ở Trung Địa là gì? - Marcus Wevers
+    - Ma thuật Trung Địa chuyển thành *Rolemaster* như thế nào? - John Feil
+    - Có những điều tương đương ở Trung Địa với Bản chất, Kênh và Chủ nghĩa Tâm linh không? - [Chris Seeman](../C/Chris_Seeman.md), Steffen Solomon, Luke Potter, Steve Danielson
+- Đánh giá sản phẩm: Trung địa: Phù thủy - Marco Antonio Blanco Navarrete
+- Đánh giá sản phẩm: Miền Nam Gondor: Vùng đất - Randy Gilbertson
+- Đánh giá sản phẩm: Nam Gondor: Đánh giá lần thứ hai - Luke T. Potter

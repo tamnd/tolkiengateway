@@ -33,15 +33,15 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien thừa nhận rằng lỗi in vẫn còn tồn tại trong [Tập I](../T/The_Fellowship_of_the_Ring.md), nhưng *nasturtians* là có chủ ý và thể hiện chiến thắng cuối cùng trước các máy in tay cao. Họ đã sửa tiếng Anh của anh ấy mà không tham khảo anh ấy và anh ấy đã gặp khó khăn khi chứng minh cho người đọc bản chính sự thiếu hiểu biết của mình và khiển trách anh ấy vì sự xấc xược của anh ấy. Anh ấy đã tìm hiểu kỹ về *nasturtians*, điều mà anh ấy vẫn luôn nói. Đó là sự Anh hóa sau khi "Cress Ấn Độ" được nhập tịch vào thế kỷ 18.
+Tolkien thừa nhận rằng lỗi in vẫn tồn tại trong [Tập I](../T/The_Fellowship_of_the_Ring.md), nhưng *nasturtians* là có chủ ý và thể hiện chiến thắng cuối cùng trước các máy in tay cao. Họ đã sửa tiếng Anh của ông mà không tham khảo ông và ông đã gặp khó khăn khi chứng minh cho người đọc bản chính sự thiếu hiểu biết của mình và khiển trách ông vì sự xấc xược của ông. Ông đã tìm hiểu kỹ về *nasturtians*, điều mà ông vẫn luôn nói. Đó là sự Anh hóa sau khi "Cress Ấn Độ" được nhập tịch vào thế kỷ 18.
 
-Tolkien đã hỏi ý kiến ​​người làm vườn ở trường đại học: "Anh gọi những thứ này là gì?" "*Tropaeolum*, thưa ngài." "Nhưng khi chỉ nói chuyện với Dons?" "Tôi nói *nasturtians*, thưa ngài." "Không phải *nasturtium*?" "Không, thưa ông, đó là cải xoong."
+Tolkien đã hỏi ý kiến ​​người làm vườn ở trường đại học: "Bạn gọi những thứ này là gì?" "*Tropaeolum*, thưa ngài." "Nhưng khi chỉ nói chuyện với Dons?" "Tôi nói *nasturtians*, thưa ngài." "Không phải *nasturtium*?" "Không, thưa ông, đó là cải xoong."
 
-Tolkien cho biết đó là một năm cực kỳ vất vả. Rất nhiều thứ cùng một lúc cần được quan tâm đặc biệt. Có tiếng kêu gào ủng hộ <i><a class="mw-redirect mw-disambig" href="../S/Sir_Gawain_and_the_Green_Knight.md" title="Sir Gawain and the Green Knight">Gawain</a></i>. Anh ấy đang gặp khó khăn trong việc lựa chọn tài liệu cho [Phụ lục](../T/The_Lord_of_the_Rings_Appendices.md). Đã có những chuyến đi được lên kế hoạch tới Ireland và Bỉ, và sau đó sẽ là…
+Tolkien cho biết đó là một năm cực kỳ vất vả. Rất nhiều thứ cùng một lúc cần được quan tâm đặc biệt. Có tiếng kêu gào ủng hộ <i><a class="mw-redirect mw-disambig" href="../S/Sir_Gawain_and_the_Green_Knight.md" title="Sir Gawain and the Green Knight">Gawain</a></i>. Ông đang gặp khó khăn trong việc lựa chọn tài liệu cho [Phụ lục](../T/The_Lord_of_the_Rings_Appendices.md). Đã có những chuyến đi được lên kế hoạch tới Ireland và Bỉ, và sau đó sẽ là…
 
 <dl><dt>In the expanded edition</dt></dl>
 
-Ở ba đoạn đầu, Tolkien bày tỏ lòng biết ơn của mình đối với Farrer về bức thư của cô ấy và nói rằng nó đã giúp anh ấy được tờ "Sunday Times" đánh giá, đồng thời anh ấy cũng biết ơn vì có những người bạn rất ủng hộ. Ông lưu ý rằng Richard Hughes có ý định xem xét lại.
+Trong ba đoạn đầu, Tolkien thể hiện lòng biết ơn của mình đối với Farrer về bức thư của bà, và nói rằng nó đã giúp ông được tờ "Sunday Times" đánh giá, đồng thời ông cũng biết ơn vì có những người bạn rất ủng hộ. Ông lưu ý rằng Richard Hughes có ý định xem xét lại.
 
 ## Ghi chú {#Notes}
 

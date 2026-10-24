@@ -55,7 +55,7 @@ infobox:
 <p class="tg-quote-footer"><cite><a href="../P/Peter_Jackson.md" title="Peter Jackson">Peter Jackson</a><sup id="cite_ref-Announcement_1-0" class="reference"><a href="#cite_note-Announcement-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Martin John Christopher Freeman** đã thể hiện [Bilbo Baggins](../B/Bilbo_Baggins.md) trong *[The Hobbit (film series)](<../T/The_Hobbit_(film_series).md>)*.<sup id="cite_ref-Announcement_1-1" class="reference"><a href="#cite_note-Announcement-1">[1]</a></sup> Vai diễn này trước đây do [Ian Holm](../I/Ian_Holm.md) đóng trong [*The Lord of the Rings* phim](<../T/The_Lord_of_the_Rings_(film_series).md>).
+**Martin John Christopher Freeman** đóng vai [Bilbo Baggins](../B/Bilbo_Baggins.md) trong *[The Hobbit (film series)](<../T/The_Hobbit_(film_series).md>)*.<sup id="cite_ref-Announcement_1-1" class="reference"><a href="#cite_note-Announcement-1">[1]</a></sup> Vai diễn này trước đây do [Ian Holm](../I/Ian_Holm.md) đóng trong [*The Lord of the Rings* phim](<../T/The_Lord_of_the_Rings_(film_series).md>).
 
 ## Đang truyền {#Casting}
 

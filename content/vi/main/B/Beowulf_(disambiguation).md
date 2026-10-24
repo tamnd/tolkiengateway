@@ -14,20 +14,20 @@ images:
   - "Disambig.png"
 ---
 
-**Beowulf** có thể tham khảo:
+**Beowulf** có thể đề cập đến:
 
 ## Tác phẩm gốc {#The_original_work}
 
-- <b><a href="Beowulf_(poem).md" title="Beowulf (poem)"><i>Beowulf</i> (thơ)</a></b>, một bài thơ dài sử thi thế kỷ 8 trong [tiếng Anh cổ](../O/Old_English.md), được Tolkien nghiên cứu nhiều.
+- <b><a href="Beowulf_(poem).md" title="Beowulf (poem)"><i>Beowulf</i> (thơ)</a></b>, một bài thơ dài sử thi thế kỷ thứ 8 bằng [tiếng Anh cổ](../O/Old_English.md) mà Tolkien đã nghiên cứu nhiều.
 
 ## Sách của J.R.R. Tolkien {#Books_by_J.R.R._Tolkien}
 
-- <i><b><a href="Beowulf%253A_The_Monsters_and_the_Critics.md" title="Beowulf: The Monsters and the Critics">Beowulf: Quái vật và những nhà phê bình</a></b></i>, bài giảng trong [1936](../_/1936.md), tập sách xuất bản trong [1937](../_/1937.md).
+- <i><b><a href="Beowulf%253A_The_Monsters_and_the_Critics.md" title="Beowulf: The Monsters and the Critics">Beowulf: Quái vật và các nhà phê bình</a></b></i>, bài giảng được giảng trong [1936](../_/1936.md), tập sách xuất bản trong [1937](../_/1937.md).
     - In lại vào *[The Monsters and the Critics, and Other Essays](../T/The_Monsters_and_the_Critics,_and_Other_Essays.md)* (1983).
 
-- <i><b><a href="Beowulf_and_the_Critics.md" title="Beowulf and the Critics">Beowulf và Nhà phê bình</a></b></i>, do [Michael D.C. Drout](../M/Michael_D.C._Drout.md) biên tập, xuất bản trên [2002](../_/2002.md).
+- <i><b><a href="Beowulf_and_the_Critics.md" title="Beowulf and the Critics">Beowulf và các nhà phê bình</a></b></i>, được biên tập bởi [Michael D.C. Drout](../M/Michael_D.C._Drout.md), xuất bản trong [2002](../_/2002.md).
 
-- <i><b><a href="Beowulf%253A_A_Translation_and_Commentary.md" title="Beowulf: A Translation and Commentary">Beowulf: A Translation and Commentary</a></b></i>, được biên tập bởi [Christopher Tolkien](../C/Christopher_Tolkien.md), xuất bản trong [2014](../_/2014.md).
+- <i><b><a href="Beowulf%253A_A_Translation_and_Commentary.md" title="Beowulf: A Translation and Commentary">Beowulf: Bản dịch và bình luận</a></b></i>, do [Christopher Tolkien](../C/Christopher_Tolkien.md) biên tập, xuất bản trên [2014](../_/2014.md).
 
 #### Đóng góp bởi Tolkien {#Contributed_by_Tolkien}
 
@@ -35,18 +35,18 @@ images:
 
 #### Bằng các ngôn ngữ khác {#In_other_languages}
 
-- *[Om Beowulfsagan](../O/Om_Beowulfsagan.md)*, ("Về câu chuyện Beowulf") một tuyển tập tiểu luận Thụy Điển năm 1975 của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
+- *[Om Beowulfsagan](../O/Om_Beowulfsagan.md)*, ("Về câu chuyện của Beowulf") một tuyển tập tiểu luận Thụy Điển năm 1975 của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
 ## Sách của người khác {#Books_by_others}
 
 - *[Beowulf: An Introduction to the Study of the Poem](Beowulf%253A_An_Introduction_to_the_Study_of_the_Poem.md)*, cuốn sách năm 1921 của [R.W. Chambers](../R/R.W._Chambers.md).
 - [*Beowulf* (bản dịch Crossley-Holland)](<Beowulf_(Crossley-Holland_translation).md>), bản dịch *Beowulf* năm 1968 của Kevin Crossley-Holland
 - *[Beowulf and the Dragon](Beowulf_and_the_Dragon.md)*, được minh họa bởi [Anke Eißmann](../A/Anke_Eißmann.md) và Lời tựa của [Tom Shippey](../T/Tom_Shippey.md).
-- *[Beowulf: Translation and Commentary](<Beowulf%253A_Translation_and_Commentary_(Tom_Shippey).md>)*, bản dịch năm 2023 của *Beowulf* bởi [Tom Shippey](../T/Tom_Shippey.md).
+- *[Beowulf: Translation and Commentary](<Beowulf%253A_Translation_and_Commentary_(Tom_Shippey).md>)*, bản dịch năm 2023 của *Beowulf* của [Tom Shippey](../T/Tom_Shippey.md).
 
 ## Chương {#Chapters}
 
-- "[Beowulf: Quái vật và những kẻ phê phán](Beowulf%253A_The_Monsters_and_the_Critics.md)", một chương trong *[The Monsters and the Critics and Other Essays](../T/The_Monsters_and_the_Critics_and_Other_Essays.md)*.
+- "[Beowulf: The Monsters and the Critics](Beowulf%253A_The_Monsters_and_the_Critics.md)", một chương trong *[The Monsters and the Critics and Other Essays](../T/The_Monsters_and_the_Critics_and_Other_Essays.md)*.
 - "[Về dịch Beowulf](../O/On_Translating_Beowulf.md)", một chương trong *[The Monsters and the Critics and Other Essays](../T/The_Monsters_and_the_Critics_and_Other_Essays.md)*.
 
 ## Thơ của Tolkien {#Poems_by_Tolkien}

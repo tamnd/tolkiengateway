@@ -16,7 +16,7 @@ sort_keys:
 
 Vào [30 tháng 6](../_/30_June.md) [1969](../_/1969.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho [Paul Bibire](../P/Paul_Bibire.md)**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-- **Nhận xét:** Được cung cấp bởi [Christopher Tolkien](../C/Christopher_Tolkien.md) và [Paul Bibire](../P/Paul_Bibire.md) cho phần giới thiệu của [Carl F. Hostetter](../C/Carl_F._Hostetter.md)về "[Những dòng sông và ngọn đồi hải đăng của Gondor](../T/The_Rivers_and_Beacon-hills_of_Gondor~21248.md)".
+- **Nhận xét:** Được cung cấp bởi [Christopher Tolkien](../C/Christopher_Tolkien.md) và [Paul Bibire](../P/Paul_Bibire.md) cho phần giới thiệu của [Carl F. Hostetter](../C/Carl_F._Hostetter.md) về "[Những dòng sông và ngọn đồi Beacon của Gondor](../T/The_Rivers_and_Beacon-hills_of_Gondor~21248.md)".
 - **Ấn bản:** Bản chép lại một phần bức thư được tìm thấy trong [*Vinyar Tengwar*, số 42](../V/Vinyar_Tengwar_42.md), trang 6–7. Nó đã được in lại cùng với phần còn lại của bài viết trong *[The Nature of Middle-earth](../T/The_Nature_of_Middle-earth.md)* trang 377—379.
 
 <span></span>

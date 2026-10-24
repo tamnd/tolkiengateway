@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Maiar"
 ---
 
-Chuyển hướng đến [Maiar](Maiar.md).
+Chuyển hướng tới [Maiar](Maiar.md).

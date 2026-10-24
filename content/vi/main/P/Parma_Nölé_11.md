@@ -15,7 +15,7 @@ sort_keys:
   "Parma Nölé": "Parma Nole 11"
 ---
 
-<b><i>Parma Nölé</i> 11</b> là số thứ 11 của tạp chí [Miền Bắc phương Đông Tolkien Hiệp hội](../N/North_East_Tolkien_Society.md) *[Parma Nölé](Parma_Nölé.md)*, cho mùa Thu/Đông 2004.
+<b><i>Parma Nölé</i> 11</b> là số thứ 11 của tạp chí [Hiệp hội Tolkien Đông Bắc](../N/North_East_Tolkien_Society.md) *[Parma Nölé](Parma_Nölé.md)*, xuất bản vào mùa Thu/Đông 2004.
 
 ## Nội dung {#Contents}
 

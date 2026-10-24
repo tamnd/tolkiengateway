@@ -34,7 +34,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien cho biết anh đang phải vật lộn với trình tự thời gian bị sai lệch của Chiếc nhẫn, điều này đã cản trở những nhiệm vụ khẩn cấp và buồn tẻ khác và đã khiến tiến độ viết lách của anh bị cản trở. Giải pháp của anh ấy là những thay đổi nhỏ trên bản đồ, thêm một ngày cho [Entmoot](../E/Entmoot.md) và thêm ngày cho cuộc rượt đuổi của [Trotter](../T/Trotter.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[notes 1]</a></sup> và hành trình của [Frodo](../F/Frodo_Baggins.md)(hai ngày từ [Morannon](../M/Morannon.md) đến [Ithilien](../I/Ithilien.md)). Thật không may, ông đã phải dừng lại và giảng bài.
+Tolkien cho biết ông đang gặp khó khăn với trình tự thời gian bị sai lệch của Chiếc nhẫn, điều này đã cản trở các nhiệm vụ cấp bách và buồn tẻ hơn khác và khiến tiến độ viết lách của ông bị dừng lại. Giải pháp của ông là những thay đổi nhỏ trên bản đồ, thêm một ngày cho [Entmoot](../E/Entmoot.md) và thêm ngày cho cuộc rượt đuổi của [Trotter](../T/Trotter.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[notes 1]</a></sup> và cuộc hành trình của [Frodo](../F/Frodo_Baggins.md) (hai ngày từ [Morannon](../M/Morannon.md) đến [Ithilien](../I/Ithilien.md)). Thật không may, ông đã phải dừng lại và giảng bài.
 
 ## Lưu ý {#Note}
 

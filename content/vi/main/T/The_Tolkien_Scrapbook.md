@@ -43,45 +43,45 @@ infobox:
 
 <i><b>Sổ lưu niệm Tolkien</b></i> là cuốn sách bao gồm các bài thơ, câu chuyện, bài hát, công thức nấu ăn, câu đố và tiểu luận về [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) của nhiều tác giả ([W.H. Auden](../W/W.H._Auden.md), <a class="new" href="https://tolkiengateway.net/w/index.php?title=Edmund_Wilson&amp;action=edit&amp;redlink=1" title="Edmund Wilson (page does not exist)">Edmund Wilson</a>, <a class="new" href="https://tolkiengateway.net/w/index.php?title=Colin_Wilson&amp;action=edit&amp;redlink=1" title="Colin Wilson (page does not exist)">Colin Wilson</a>và những người khác), xen kẽ với các đoạn ngắn trích dẫn từ [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), minh họa màu của [Tim Kirk](Tim_Kirk.md) và minh họa đen trắng của [Michael Green](../M/Michael_Green.md). Cuốn sách cũng bao gồm một bức vẽ của Tolkien,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> "<a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Lonely_Mountain_(J.R.R._Tolkien_drawing&amp;action=edit&amp;redlink=1" title="The Lonely Mountain (J.R.R. Tolkien drawing (page does not exist)">Ngọn núi cô đơn</a>", (trang 114–15).
 
-Trong [1989](../_/1989.md), tiêu đề đã được đổi thành "A Tolkien Kho bạc".
+Trong [1989](../_/1989.md), tiêu đề đã được đổi thành "Kho bạc Tolkien".
 
 - Lưu ý: Trong [2001](../_/2001.md), mẫu từ một số văn bản và hình ảnh đã được xuất bản trong *[A Tolkien Treasury (miniature edition)](<../A/A_Tolkien_Treasury_(miniature_edition).md>)*.
 
 ## Nội dung {#Contents}
 
-- **Tolkien & Trung Địa**
+- **Tolkien và Trung Địa**
     - Tolkien, Tiểu sử ngắn (của <a class="new" href="https://tolkiengateway.net/w/index.php?title=Joan_McClusky&amp;action=edit&amp;redlink=1" title="Joan McClusky (page does not exist)">Joan McClusky</a>)
     - [Khi kết thúc nhiệm vụ, chiến thắng](../A/At_the_End_of_the_Quest,_Victory.md) (bởi [W.H. Auden](../W/W.H._Auden.md))
-    - Ôi, những điều khủng khiếp Orc (bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=Edmund_Wilson&amp;action=edit&amp;redlink=1" title="Edmund Wilson (page does not exist)">Edmund Wilson</a>)
+    - Ôi, lũ Orc khủng khiếp đó (bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=Edmund_Wilson&amp;action=edit&amp;redlink=1" title="Edmund Wilson (page does not exist)">Edmund Wilson</a>)
     - Chuyến đi xuyên Trung Địa, niên đại của *The Hobbit* và *The Lord of the Rings* (của <a class="new" href="https://tolkiengateway.net/w/index.php?title=Douglas_Kendall&amp;action=edit&amp;redlink=1" title="Douglas Kendall (page does not exist)">Douglas Kendall</a>)
     - Cây của Tolkien (bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=Colin_Wilson&amp;action=edit&amp;redlink=1" title="Colin Wilson (page does not exist)">Colin Wilson</a>)
-    - Nghĩa vụ hiếu thảo của Christopher Tolkien (bởi [William Cater](../W/William_Cater.md))
+    - Bổn phận hiếu thảo của Christopher Tolkien (bởi [William Cater](../W/William_Cater.md))
     - Hai góc nhìn về JRRT (của <a class="new" href="https://tolkiengateway.net/w/index.php?title=Kenneth_Atchity&amp;action=edit&amp;redlink=1" title="Kenneth Atchity (page does not exist)">Kenneth Atchity</a>)
-- **Frodo Cuộc sống: Nhìn lại Tolkien Fandom**
-    - Sự phát triển của Tolkien Fandom (bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=Philip_Helms&amp;action=edit&amp;redlink=1" title="Philip Helms (page does not exist)">Philip Helms</a>)
+- **Frodo Lives: Cái nhìn về Tolkien Fandom**
+    - Sự phát triển của Fandom Tolkien (bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=Philip_Helms&amp;action=edit&amp;redlink=1" title="Philip Helms (page does not exist)">Philip Helms</a>)
     - Lời thú tội của một con quỷ Tolkien (bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=Baird_Searles&amp;action=edit&amp;redlink=1" title="Baird Searles (page does not exist)">Baird Searles</a>)
     - Không có Monroe ở Lothlorien (bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=Arthur_Weir&amp;action=edit&amp;redlink=1" title="Arthur Weir (page does not exist)">Arthur Weir</a>)
-    - Giáng sinh ở Nam Cực / Đài tưởng niệm Barogue - JRRT (của JR Christopher) \*\*Hai bài thơ tưởng nhớ JRRT (của <a class="new" href="https://tolkiengateway.net/w/index.php?title=Ruth_Berman&amp;action=edit&amp;redlink=1" title="Ruth Berman (page does not exist)">Ruth Berman</a>)
-    - Chuyến dã ngoại, một tác phẩm nhại lại (của <a class="new" href="https://tolkiengateway.net/w/index.php?title=Paulette_Carroll&amp;action=edit&amp;redlink=1" title="Paulette Carroll (page does not exist)">Paulette Carroll</a>)
-    - Đồng tiền của Gondor và các vùng đất phía Tây (bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=Dainis_Bisenieks&amp;action=edit&amp;redlink=1" title="Dainis Bisenieks (page does not exist)">Dainis Bisenieks</a>)
-    - Sự ra đi của Tiên Loại / Bay cao của Nazgul, Ôi! (bởi [Ted Johnstone](Ted_Johnstone.md))
+    - Giáng sinh ở Nam Cực / Đài tưởng niệm Barogue - JRRT (của J R Christopher) \*\*Hai bài thơ tưởng nhớ JRRT (của <a class="new" href="https://tolkiengateway.net/w/index.php?title=Ruth_Berman&amp;action=edit&amp;redlink=1" title="Ruth Berman (page does not exist)">Ruth Berman</a>)
+    - Chuyến dã ngoại, một trò nhại (của <a class="new" href="https://tolkiengateway.net/w/index.php?title=Paulette_Carroll&amp;action=edit&amp;redlink=1" title="Paulette Carroll (page does not exist)">Paulette Carroll</a>)
+    - Đồng tiền của Gondor và các vùng đất phía Tây (của <a class="new" href="https://tolkiengateway.net/w/index.php?title=Dainis_Bisenieks&amp;action=edit&amp;redlink=1" title="Dainis Bisenieks (page does not exist)">Dainis Bisenieks</a>)
+    - Sự ra đi của loài Tiên/Nazgul bay cao, Ôi! (bởi [Ted Johnstone](Ted_Johnstone.md))
     - Trung Địa
-    - Smaug Phép thuật Rồng
-    - Bài hát Orc diễu hành (của <a class="new" href="https://tolkiengateway.net/w/index.php?title=George_Heap&amp;action=edit&amp;redlink=1" title="George Heap (page does not exist)">George Heap</a>)
-    - Phục vụ Vua (bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=Marci_Helms&amp;action=edit&amp;redlink=1" title="Marci Helms (page does not exist)">Marci Helms</a>)
+    - Smaug con rồng ma thuật
+    - Bài hát hành quân của loài Orc (của <a class="new" href="https://tolkiengateway.net/w/index.php?title=George_Heap&amp;action=edit&amp;redlink=1" title="George Heap (page does not exist)">George Heap</a>)
+    - Phục vụ Nhà vua (bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=Marci_Helms&amp;action=edit&amp;redlink=1" title="Marci Helms (page does not exist)">Marci Helms</a>)
     - Chân dung Haiku (của <a class="new" href="https://tolkiengateway.net/w/index.php?title=Don_Studebaker&amp;action=edit&amp;redlink=1" title="Don Studebaker (page does not exist)">Don Studebaker</a> và những người khác)
-    - Những câu chuyện được kể bởi Ngọn Núi Cô Đơn (bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=Margaret_Howes&amp;action=edit&amp;redlink=1" title="Margaret Howes (page does not exist)">Margaret Howes</a>)
+    - Những câu chuyện kể trên ngọn núi cô đơn (của <a class="new" href="https://tolkiengateway.net/w/index.php?title=Margaret_Howes&amp;action=edit&amp;redlink=1" title="Margaret Howes (page does not exist)">Margaret Howes</a>)
     - Người sành ăn ở Trung Địa (của <a class="new" href="https://tolkiengateway.net/w/index.php?title=Maureen_Bayha&amp;action=edit&amp;redlink=1" title="Maureen Bayha (page does not exist)">Maureen Bayha</a> và <a class="new" href="https://tolkiengateway.net/w/index.php?title=Alida_Becker&amp;action=edit&amp;redlink=1" title="Alida Becker (page does not exist)">Alida Becker</a>)
     - Tolkien tình cảm (bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=Mel_Rosen&amp;action=edit&amp;redlink=1" title="Mel Rosen (page does not exist)">Mel Rosen</a>)
 - **PHỤ LỤC**
-    - Một cuộc tụ họp của người hâm mộ
+    - Cuộc tụ tập của người hâm mộ
     - Danh sách đọc của người hâm mộ
-    - Tolkien Thư mục (của [Bonniejean Christensen](../B/Bonniejean_Christensen.md))
+    - Thư mục Tolkien (của [Bonniejean Christensen](../B/Bonniejean_Christensen.md))
     - Giải pháp cho câu đố
 
 ## Liên kết ngoài {#External_links}
 
-- <i><a class="external text" href="https://archive.org/details/tolkientreasurys0000unse/mode/2up" rel="noreferrer noopener" target="_blank">Một Tolkien Kho bạc</a></i> trên <a class="extiw" href="http://en.wikipedia.org/wiki/Internet_Archive" title="wikipedia:Internet Archive">Internet Archive</a> (có thể mượn miễn phí)
+- <i><a class="external text" href="https://archive.org/details/tolkientreasurys0000unse/mode/2up" rel="noreferrer noopener" target="_blank">Kho bạc Tolkien</a></i> trên <a class="extiw" href="http://en.wikipedia.org/wiki/Internet_Archive" title="wikipedia:Internet Archive">Internet Archive</a> (có thể mượn miễn phí)
 
 <span></span>
 

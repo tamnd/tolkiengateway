@@ -65,7 +65,7 @@ Sự kiện xảy ra vào ngày 2 tháng 8
 
 - **[1946](1946.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư gửi Przemyslaw Mroczkowski](<../L/Letter_to_Przemyslaw_Mroczkowski_(2_August_1946).md>).
 - **[1964](1964.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 258](../L/Letter_258.md).
-- **[1966](1966.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được phỏng vấn bởi [William Cater](../W/William_Cater.md).
+- **[1966](1966.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được [William Cater](../W/William_Cater.md) phỏng vấn.
 - **[1968](1968.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư gửi Robert Havard](../L/Letter_to_Robert_Havard.md).
 - **[1981](1981.md)** - Tập thứ 22 của [loạt phim phát thanh năm 1981](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* được phát sóng trên [BBC Radio 4](../B/BBC.md).
 - **[1993](1993.md)** - [Mythcon 24](../M/Mythcon_24.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Minnesota" title="wikipedia:University of Minnesota">Đại học Minnesota</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Minneapolis" title="wikipedia:Minneapolis">Minneapolis</a>.
@@ -76,7 +76,7 @@ Sự kiện xảy ra vào ngày 2 tháng 8
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Gandalf](../G/Gandalf.md) bị giam giữ bởi [Saruman](../S/Saruman.md) trên đỉnh của [Orthanc](../O/Orthanc.md).
+    - [Gandalf](../G/Gandalf.md) bị [Saruman](../S/Saruman.md) giam giữ trên đỉnh [Orthanc](../O/Orthanc.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - Đoàn rước tang lễ của vua [Théoden](../T/Théoden.md) đi về hướng [Edoras](../E/Edoras.md).
+    - Đoàn tang lễ của vua [Théoden](../T/Théoden.md) đi về hướng [Edoras](../E/Edoras.md).

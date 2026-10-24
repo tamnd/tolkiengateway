@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Tolkien Society"
 ---
 
-Chuyển hướng đến [Hội Tolkien](The_Tolkien_Society.md).
+Chuyển hướng tới [Hiệp hội Tolkien](The_Tolkien_Society.md).

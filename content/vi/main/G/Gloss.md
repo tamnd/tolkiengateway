@@ -17,13 +17,13 @@ categories:
 
 ## Noldorin {#Noldorin}
 
-<i><b>bóng</b></i> là một từ [Noldorin](../N/Noldorin.md) vừa có nghĩa là "tuyết" vừa có nghĩa là "tuyết trắng" (tính từ).<sup id="cite_ref-LR_1-0" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
+<i><b>bóng</b></i> là từ [Noldorin](../N/Noldorin.md) có nghĩa là cả "tuyết" và "tuyết trắng" (tính từ).<sup id="cite_ref-LR_1-0" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
 
 ### Từ nguyên {#Etymology}
 
 - [Gốc](../S/Sundocarme.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=GOL%C3%93S-&amp;action=edit&amp;redlink=1" title="GOLÓS- (page does not exist)">GOLÓS-</a><sup id="cite_ref-LR_1-1" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
 
-## Sindarin {#Sindarin}
+## Tiếng Sindarin {#Sindarin}
 
 <i><b>bóng</b></i><sup id="cite_ref-VT_2-0" class="reference"><a href="#cite_note-VT-2">[2]</a></sup> (hoặc <i><b>glos(s)</b></i><sup id="cite_ref-RGEO_3-0" class="reference"><a href="#cite_note-RGEO-3">[3]</a></sup>) là một từ [Sindarin](../S/Sindarin.md) có nghĩa là "(rực rỡ) trắng"<sup id="cite_ref-VT_2-1" class="reference"><a href="#cite_note-VT-2">[2]</a></sup>/"trắng chói lóa".<sup id="cite_ref-RGEO_3-1" class="reference"><a href="#cite_note-RGEO-3">[3]</a></sup>
 

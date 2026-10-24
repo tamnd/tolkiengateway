@@ -25,9 +25,9 @@ langlinks:
     url: "https://kontu.wiki/N%C3%A9nim%C3%AB"
 ---
 
-**Nénimë** ([Nínui](Nínui.md) trong [Sindarin](../S/Sindarin.md)) là tháng thứ hai trong năm trong [Cuộc họp của các vị vua](../K/Kings'_Reckoning.md) và [Cuộc họp của người quản gia](../S/Stewards'_Reckoning.md). Trong cả hai bộ lịch, *Nénimë* đều theo sau tháng [Narvinyë](Narvinyë.md), trước tháng [Súlimë](../S/Súlimë.md) và dài 30 ngày, kéo dài từ ngày 32 đến ngày 61 trong năm. Trong [Tính toán mới](New_Reckoning.md) đó là tháng thứ 11 trong năm.
+**Nénimë** ([Nínui](Nínui.md) trong [Sindarin](../S/Sindarin.md)) là tháng thứ hai trong năm trong [Sự tính toán của các vị vua](../K/Kings'_Reckoning.md) và [Sự tính toán của người quản lý](../S/Stewards'_Reckoning.md). Trong cả hai bộ lịch, *Nénimë* đều theo sau tháng [Narvinyë](Narvinyë.md), trước tháng [Súlimë](../S/Súlimë.md) và dài 30 ngày, kéo dài từ ngày 32 đến ngày 61 trong năm. Trong [Tính toán mới](New_Reckoning.md) đó là tháng thứ 11 trong năm.
 
-*Nénimë* trong Cuộc tính toán của Vua và Quản lý tương ứng với [Solmath](../S/Solmath.md) trong [Lịch Shire](../S/Shire_Calendar.md) (khoảng [ngày 22 tháng 1](../_/22_January.md) đến [ngày 20 tháng 2](../_/20_February.md) hiện đại).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+*Nénimë* trong Sự tính toán của Vua và Quản lý tương ứng với [Solmath](../S/Solmath.md) trong [Lịch Quận](../S/Shire_Calendar.md) (khoảng [ngày 22 tháng 1](../_/22_January.md) đến [ngày 20 tháng 2](../_/20_February.md) hiện đại).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

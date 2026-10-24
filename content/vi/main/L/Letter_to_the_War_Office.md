@@ -20,7 +20,7 @@ images:
 
 Vào [2 tháng 1](../_/2_January.md) [1917](../_/1917.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết <b><a class="mw-redirect" href="Letters_not_published_in_%2522The_Letters_of_J.R.R._Tolkien%2522.md" title="Letters not published in &#34;The Letters of J.R.R. Tolkien&#34;">một lá thư</a> gửi <a class="extiw" href="http://en.wikipedia.org/wiki/War_Office" title="wikipedia:War Office">Văn phòng Chiến tranh</a></b>.<sup id="cite_ref-C_1-0" class="reference"><a href="#cite_note-C-1">[1]</a></sup>
 
-- **Chủ đề:** Tolkien tuyên bố mình đủ sức khỏe để trình báo nhiệm vụ.
+- **Chủ đề:** Tolkien tuyên bố mình đủ sức khỏe để báo cáo nhiệm vụ.
 
 ## Phiên âm {#Transcription}
 
@@ -35,7 +35,7 @@ Vào [2 tháng 1](../_/2_January.md) [1917](../_/1917.md), [J.R.R. Tolkien](../J
 
 ## Liên kết ngoài {#External_links}
 
-- "<a class="external text" href="https://web.archive.org/web/20230922043856/https://www.nationalarchives.gov.uk/pathways/firstworldwar/people/p_tolkien_med.htm" rel="noreferrer noopener" target="_blank">J R R Tolkien: cơn sốt chiến hào</a>" tại <a class="external text" href="http://www.nationalarchives.gov.uk" rel="noreferrer noopener" target="_blank">NationalArchives.co.uk</a>
+- "<a class="external text" href="https://web.archive.org/web/20230922043856/https://www.nationalarchives.gov.uk/pathways/firstworldwar/people/p_tolkien_med.htm" rel="noreferrer noopener" target="_blank">J R R Tolkien: cơn sốt hào quang</a>" tại <a class="external text" href="http://www.nationalarchives.gov.uk" rel="noreferrer noopener" target="_blank">NationalArchives.co.uk</a>
 
 <span></span>
 

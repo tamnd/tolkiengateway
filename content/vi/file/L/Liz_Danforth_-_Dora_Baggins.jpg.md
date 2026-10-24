@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Dora Baggins](../../main/D/Dora_Baggins.md), của [Liz Danforth](../../main/L/Liz_Danforth.md). Từ [Lãnh chúa của Trung Địa: Tập. III](../../main/L/Lords_of_Middle-earth%253A_Vol._III.md).
+[Dora Baggins](../../main/D/Dora_Baggins.md), của [Liz Danforth](../../main/L/Liz_Danforth.md). Từ [Lords of Middle-earth: Vol. III](../../main/L/Lords_of_Middle-earth%253A_Vol._III.md).
 
 ## Giấy phép {#Licensing}
 

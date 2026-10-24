@@ -29,7 +29,7 @@ file:
 
 [Sauron](../../main/S/Sauron.md) dưới lốt *[Annatar](../../main/A/Annatar.md)*, "Chúa tể của những món quà".
 
-Đây là hình ảnh một cảnh chưa được sử dụng trong [*The Lord of the Rings* (loạt phim)](<../../main/T/The_Lord_of_the_Rings_(film_series).md>), được trình chiếu trên [đĩa 3](<../../main/T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_Special_Extended_DVD_Edition.md#The_Appendices:_Part_Five:_The_War_of_the_Ring_(disc_3)>) của [*The Lord of the Rings: The Return of the King* (phiên bản mở rộng)](<../../main/T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_(extended_edition).md>) trong phim tài liệu "From Book To Script - Forging The Final Chapter".
+Đây là hình ảnh một cảnh chưa được sử dụng trong [*The Lord of the Rings* (loạt phim)](<../../main/T/The_Lord_of_the_Rings_(film_series).md>), được chiếu trên [đĩa 3](<../../main/T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_Special_Extended_DVD_Edition.md#The_Appendices:_Part_Five:_The_War_of_the_Ring_(disc_3)>) của [*The Lord of the Rings: The Return of the King* (extended edition)](<../../main/T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_(extended_edition).md>) trong phim tài liệu "From Book To Script - Forging The Final Chapter".
 
 ## Giấy phép {#Licensing}
 

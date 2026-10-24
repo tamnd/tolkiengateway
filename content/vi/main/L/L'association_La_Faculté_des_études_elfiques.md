@@ -13,7 +13,7 @@ categories:
   - "Tolkien Societies"
 ---
 
-**L'assocation La Faculté des études elfiques**, FEE, là một [Tolkien Hiệp hội](../T/Tolkien_Societies~67099.md) ở Pháp.
+**L'association La Faculté des études elfiques**, FEE, was a [Tolkien Society](../T/Tolkien_Societies~67099.md) in France.
 
 ## Lịch sử {#History}
 

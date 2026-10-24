@@ -13,11 +13,11 @@ categories:
   - "Noldorin verbs"
 ---
 
-<i><b>awartha-</b></i> là [Noldorin](../N/Noldorin.md) động từ có nghĩa là *abandon*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>awartha-</b></i> là động từ [Noldorin](../N/Noldorin.md) có nghĩa là *abandon*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-- [Gốc](../S/Sundocarme.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=WAR&amp;action=edit&amp;redlink=1" title="WAR (page does not exist)">CHIẾN</a>
+- [Gốc](../S/Sundocarme.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=WAR&amp;action=edit&amp;redlink=1" title="WAR (page does not exist)">WAR</a>
 
 ## Xem thêm {#See_also}
 

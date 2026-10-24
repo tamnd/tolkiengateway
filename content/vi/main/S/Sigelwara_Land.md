@@ -15,7 +15,7 @@ hidden_categories:
   - "Pages with short description"
 ---
 
-**Sigelwara Land** là tiêu đề một bài tiểu luận của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), trong đó xem xét từ nguyên của *Sigelwaran* (và dạng thông thường hơn *Sigelhearwan*) — từ [tiếng Anh cổ](../O/Old_English.md) dành cho <a class="extiw" href="http://en.wikipedia.org/wiki/Ethiopia" title="wikipedia:Ethiopia">Người Ethiopia</a>.<sup id="cite_ref-CG_1-0" class="reference"><a href="#cite_note-CG-1">[1]</a></sup><sup id="cite_ref-TB1_2-0" class="reference"><a href="#cite_note-TB1-2">[2]</a></sup>
+**Sigelwara Land** là tựa đề một bài tiểu luận của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), trong đó xem xét từ nguyên của *Sigelwaran* (và dạng thông thường hơn *Sigelhearwan*) — từ [tiếng Anh cổ](../O/Old_English.md) dành cho <a class="extiw" href="http://en.wikipedia.org/wiki/Ethiopia" title="wikipedia:Ethiopia">Người Ethiopia</a>.<sup id="cite_ref-CG_1-0" class="reference"><a href="#cite_note-CG-1">[1]</a></sup><sup id="cite_ref-TB1_2-0" class="reference"><a href="#cite_note-TB1-2">[2]</a></sup>
 
 ## Nội dung {#Contents}
 
@@ -29,9 +29,9 @@ Tolkien thảo luận về các thành phần của từ *Sigelhearwan* và các
 
 ## Mối quan hệ với di tích {#Relation_to_the_legendarium}
 
-Trong các bản thảo đầu tiên của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, các tên được viết bằng tiếng Anh cho [Haradrim](../H/Haradrim.md) trong văn bản là *Silharrows* và *Harwan*, theo [Christopher Tolkien](../C/Christopher_Tolkien.md) thì bắt nguồn từ tên [tiếng Anh cổ](../O/Old_English.md) của người Aethiopia. [Haradwaith](../H/Haradwaith.md) có tên được viết bằng tiếng Anh là *(Sun)Harrowland*.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Trong những bản thảo đầu tiên của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, các tên Anh hóa của [Haradrim](../H/Haradrim.md) trong văn bản là *Silharrows* và *Harwan*, mà theo [Christopher Tolkien](../C/Christopher_Tolkien.md) thì bắt nguồn từ tên [tiếng Anh cổ](../O/Old_English.md) của người Aethiopians. [Haradwaith](../H/Haradwaith.md) có tên được viết bằng tiếng Anh là *(Sun)Harrowland*.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
-[Tom Shippey](../T/Tom_Shippey.md) đã gợi ý rằng cuộc thảo luận của Tolkien về *Sigelhearwan* "đã giúp tự nhiên hóa '[Balrog](../B/Balrogs.md)' trong truyền thống của miền Bắc, và \[...\] tạo ra (hoặc chứng thực) hình ảnh của *[silmaril](Silmarils.md)*, sự kết hợp giữa 'mặt trời' và 'viên ngọc' trong dạng vật chất".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> (Trong [Aelfwine](../A/Aelfwine.md)'s [tiếng Anh cổ](../O/Old_English.md) bản dịch, tên *[Silmaril](Silmaril.md)* được phiên âm là *Sigelmaerels* chứa *sigel* = mặt trời, viên ngọc).<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+[Tom Shippey](../T/Tom_Shippey.md) đã gợi ý rằng cuộc thảo luận của Tolkien về *Sigelhearwan* "đã giúp tự nhiên hóa '[Balrog](../B/Balrogs.md)' trong truyền thống của miền Bắc, và \[...\] tạo ra (hoặc chứng thực) hình ảnh của *[silmaril](Silmarils.md)*, sự kết hợp giữa 'mặt trời' và 'viên ngọc' ở dạng vật chất".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> (Trong Theo bản dịch [tiếng Anh cổ](../O/Old_English.md) của [Aelfwine](../A/Aelfwine.md), tên *[Silmaril](Silmaril.md)* được dịch theo phiên âm là *Sigelmaerels* chứa *sigel* = mặt trời, viên ngọc).<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 ## Lịch sử xuất bản {#Publication_history}
 

@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Nhẫn-dòng chữ](../../main/R/Ring-inscription.md) như được thấy trong *[The Lord of the Rings](../../main/T/The_Lord_of_the_Rings.md)*, "[ Bóng Tối của quá khứ](../../main/T/The_Shadow_of_the_Past.md)", được vẽ bằng [Tengwar](../../main/T/Tengwar.md) bởi [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md).
+[Dòng chữ khắc](../../main/R/Ring-inscription.md) như được thấy trong *[The Lord of the Rings](../../main/T/The_Lord_of_the_Rings.md)*, "[ Bóng Tối của quá khứ](../../main/T/The_Shadow_of_the_Past.md)", được vẽ bằng [Tengwar](../../main/T/Tengwar.md) bởi [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md).
 
 ## Giấy phép {#Licensing}
 

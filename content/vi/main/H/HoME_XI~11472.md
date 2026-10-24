@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The War of the Jewels"
 ---
 
-Chuyển hướng đến [The War of the Jewels](../T/The_War_of_the_Jewels.md).
+Chuyển hướng tới [Cuộc chiến của những viên ngọc quý](../T/The_War_of_the_Jewels.md).

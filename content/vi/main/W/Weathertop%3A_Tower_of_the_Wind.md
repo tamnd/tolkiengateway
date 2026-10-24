@@ -42,8 +42,8 @@ infobox:
 
 ## Văn bản bìa/áo khoác {#Cover/Jacket_text}
 
-Tòa thành bao bọc Weathertop (S. Amon Sûl) là pháo đài tháp vĩ đại nhất ở Arnor và là tâm điểm của phần lớn cuộc đấu tranh giữa ba vương quốc kế thừa của Arnor: Arthedain, Cardolan và Rhudaur. Được xây dựng bởi những người lưu vong Númenórean trung thành do Elendil Tall lãnh đạo vào cuối Thời đại thứ hai. nó mọc lên từ trung tâm Vương quốc phía Bắc của Dúnedain. Tòa tháp hoàng gia là nơi ở của Trưởng Palantîr (Tia nhìn thấy) của phương Bắc và đóng vai trò là ngôi nhà chính của High Seer của Arnor. Rất ít pháo đài có ý nghĩa như vậy; về quy mô và sức mạnh của nó, Amon Sûl vượt trội hơn bất kỳ công trình nào khác của miền bắc Dúnedain. Ngay cả Vua Phù thủy của Angmar cũng coi Tháp Amon Sûl như một giải thưởng lớn, một biểu tượng ưu việt của tinh thần Dúnedain.
+Thành trì bao bọc Weathertop (S. Amon Sûl) là pháo đài tháp vĩ đại nhất ở Arnor và là tâm điểm của phần lớn cuộc đấu tranh giữa ba vương quốc kế thừa của Arnor: Arthedain, Cardolan và Rhudaur. Được xây dựng bởi những người lưu vong Númenórean trung thành do Elendil the Tall lãnh đạo vào cuối Thời đại thứ hai. nó mọc lên từ trung tâm Vương quốc phía Bắc của Dúnedain. Tòa tháp hoàng gia là nơi ở của Chief Palantîr (Seeing-stone) của phương Bắc và đóng vai trò là ngôi nhà chính của High Seer của Arnor. Rất ít pháo đài có ý nghĩa như vậy; về quy mô và sức mạnh của nó, Amon Sûl vượt trội hơn bất kỳ công trình nào khác ở phía bắc Dúnedain. Ngay cả Vua phù thủy của Angmar cũng coi Tháp Amon Sûl như một giải thưởng lớn, một biểu tượng ưu việt của tinh thần Dúnedain.
 
 Tính năng THỜI TIẾT:
 
-Hơn 20 trang bố cục, phối cảnh và minh họa Bố cục hoàn chỉnh, đa tầng cho 13 tòa tháp và thành lũy của các công trình bên ngoài Bố cục chi tiết cho tất cả 14 tầng của tháp, Amon Sûl
+Hơn 20 trang bố cục, phối cảnh và hình minh họa Bố cục hoàn chỉnh, đa cấp cho 13 tòa tháp và pháo đài của các công trình bên ngoài Bố cục chi tiết cho tất cả 14 cấp độ của tòa tháp, Amon Sûl

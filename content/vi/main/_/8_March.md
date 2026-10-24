@@ -65,7 +65,7 @@ Sự kiện xảy ra vào ngày 8 tháng 3.
 
 - <b><a href="1939.md" title="1939">1939</a> - <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> giảng <i><a href="../O/On_Fairy-Stories.md" title="On Fairy-Stories">Về Truyện Cổ Tích</a></i>.</b>
 - **[1941](1941.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết xong [Thư 43](../L/Letter_43.md).
-- **[1956](1956.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một lá thư cho William Galbraith](../L/Letter_to_William_Galbraith.md).
+- **[1956](1956.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một bức thư cho William Galbraith](../L/Letter_to_William_Galbraith.md).
 - **[1973](1973.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 348a](../L/Letter_348a.md).
 - **[1973](1973.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 349](../L/Letter_349.md).
 - **[1981](1981.md)** - Tập đầu tiên của [bản chuyển thể phát thanh năm 1981](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* được phát sóng trên [BBC Radio 4](../B/BBC.md).
@@ -74,11 +74,11 @@ Sự kiện xảy ra vào ngày 8 tháng 3.
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md) rời khỏi [Henneth Annûn](../H/Henneth_Annûn.md) và chia tay [Faramir](../F/Faramir.md). [Gollum](../G/Gollum.md) đi kèm với chúng.
-    - [Gandalf](../G/Gandalf.md) di chuyển với [Pippin](../P/Peregrin_Took.md) dọc theo [Dãy Núi Trắng](../W/White_Mountains.md) hướng tới [Minas Tirith](../M/Minas_Tirith.md).
-    - [Aragorn](../A/Aragorn.md) và [Grey Company](../G/Grey_Company.md) đi theo [Con đường của người chết](../P/Paths_of_the_Dead.md) vào lúc bình minh. Họ đến [Tảng đá Erech](../S/Stone_of_Erech.md) vào lúc nửa đêm.
-    - [Théoden](../T/Théoden.md) và [éoherë](Éoherë.md) di chuyển về phía [Dunharrow](../D/Dunharrow.md).
-    - Đầy đủ Mặt Trăng<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+    - [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md) rời [Henneth Annûn](../H/Henneth_Annûn.md) và nói lời tạm biệt với [Faramir](../F/Faramir.md). [Gollum](../G/Gollum.md) đi cùng với chúng.
+    - [Gandalf](../G/Gandalf.md) đi cùng [Pippin](../P/Peregrin_Took.md) dọc theo [Dãy núi Trắng](../W/White_Mountains.md) tới [Minas Tirith](../M/Minas_Tirith.md).
+    - [Aragorn](../A/Aragorn.md) và [Grey Company](../G/Grey_Company.md) đi theo [Con đường của người chết](../P/Paths_of_the_Dead.md) vào lúc bình minh. Họ đến [Hòn đá Erech](../S/Stone_of_Erech.md) vào lúc nửa đêm.
+    - [Théoden](../T/Théoden.md) và [éoherë](Éoherë.md) đi về hướng [Dunharrow](../D/Dunharrow.md).
+    - Trăng tròn<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

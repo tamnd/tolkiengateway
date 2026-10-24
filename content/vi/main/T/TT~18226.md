@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Two Towers"
 ---
 
-Chuyển hướng đến [The Two Towers](The_Two_Towers.md).
+Chuyển hướng đến [Hai tòa tháp](The_Two_Towers.md).

@@ -16,7 +16,7 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/MERP_Whales.png.md"><img src="https://tolkiengateway.net/w/images/thumb/6/63/MERP_Whales.png/300px-MERP_Whales.png" decoding="async" loading="lazy" width="300" height="193" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/63/MERP_Whales.png/450px-MERP_Whales.png 1.5x, https://tolkiengateway.net/w/images/6/63/MERP_Whales.png 2x" data-file-width="544" data-file-height="350"/></a><figcaption>Whale in <a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">MERP</a></figcaption></figure>
 
-**Cá voi** là sinh vật thủy sinh lớn ở vùng biển [Arda](../A/Arda.md). Một con tàu nổi tiếng của [người Númenor](../N/Númenóreans.md), [Hirilondë](../H/Hirilondë.md), cũng được đặt tên theo sinh vật này: *Turuphanto*, nghĩa là "Cá voi gỗ".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Cá voi** là sinh vật thủy sinh lớn ở vùng biển [Arda](../A/Arda.md). Một con tàu nổi tiếng của [Númenóreans](../N/Númenóreans.md), [Hirilondë](../H/Hirilondë.md), cũng được đặt tên theo sinh vật này: *Turuphanto*, nghĩa là "Cá voi gỗ".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Trong các phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) xuất hiện cá voi [Uin](../U/Uin.md), "Cá voi nguyên thủy",<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> một chư hầu của [Ulmo](../U/Ulmo.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
@@ -30,7 +30,7 @@ Trong câu chuyện *[Roverandom](../R/Roverandom.md)* xuất hiện con cá voi
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>:</b>
+<b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Nhập vai ở Trung Địa</a></i>:</b>
 
 <dl><dd>Whales are animals included among the Water Beasts. Races include humpback whales, killer whales, and the Cherethrynd. A related creature is the Demon whale of Forochel, which is included among the Water Monsters.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></dd></dl>
 

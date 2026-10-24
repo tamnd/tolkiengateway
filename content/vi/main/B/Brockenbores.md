@@ -29,19 +29,19 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Brockenborings.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/36/The_Lord_of_the_Rings_Online_-_Brockenborings.jpg/300px-The_Lord_of_the_Rings_Online_-_Brockenborings.jpg" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/36/The_Lord_of_the_Rings_Online_-_Brockenborings.jpg/450px-The_Lord_of_the_Rings_Online_-_Brockenborings.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/3/36/The_Lord_of_the_Rings_Online_-_Brockenborings.jpg/600px-The_Lord_of_the_Rings_Online_-_Brockenborings.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>The town of Brockenborings in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-**Brockenbores**, hay **Brockenborings**, là một mạng lưới đường hầm ở phần phía bắc của [ Shire](../T/The_Shire.md) [Eastfarthing](../E/Eastfarthing.md), ở vùng đồi núi [Scary](../S/Scary.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Đây là một trong những khu vực xa xôi hơn của Shire, có lẽ đó là lý do mà một nhóm [Hobbit](../H/Hobbits.md) phiến quân lãnh đạo bởi [Fredegar Bolger](../F/Fredegar_Bolger.md), ẩn náu ở đây một thời gian khi '[Sharkey](../S/Sharkey.md)' nắm quyền kiểm soát Shire trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Brockenbores**, or **Brockenborings**, was a network of tunnels in the northern part of [the Shire](../T/The_Shire.md)'s [Eastfarthing](../E/Eastfarthing.md), in the hilly region of [Scary](../S/Scary.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> This was one of the more outlying parts of the Shire, which was perhaps the reason that a band of [Hobbit](../H/Hobbits.md) rebels led by [Fredegar Bolger](../F/Fredegar_Bolger.md), hid here for a time when '[Sharkey](../S/Sharkey.md)' took control of the Shire during the [War of the Ring](../W/War_of_the_Ring.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
 Tên của địa điểm này được đặt là 'Brockenbores' trong văn bản *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, nhưng là "Brockenbores" trong văn bản *[A Part of the Shire](../A/A_Part_of_the_Shire.md)*.
 
-[David Salo](../D/David_Salo.md) gợi ý một nguồn gốc suy đoán từ [Cũ Hobbitish](../O/Old_English.md) \**Broccesboran*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+[David Salo](../D/David_Salo.md) gợi ý một suy đoán bắt nguồn từ [Old Hobbitish](../O/Old_English.md) \**Broccesboran*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 (Các) tên tạm dịch là "hang lửng".<sup id="cite_ref-Nomen_4-0" class="reference"><a href="#cite_note-Nomen-4">[4]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
 
 <dl><dd>Brockenborings is not mere tunnels but a proper large town, with an inn, a market, multiple hobbit holes and farmfields to the north and east. It is located at the eastern edge of a wood and at the souther edge of the <a href="../G/Greenfields.md" title="Greenfields">Greenfields</a>.</dd></dl>
 

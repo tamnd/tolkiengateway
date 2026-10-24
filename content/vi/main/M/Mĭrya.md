@@ -15,7 +15,7 @@ sort_keys:
   "Quenya adjectives": "Mirya"
 ---
 
-<i><b>mĭrya</b></i> (hoặc *mīra*) là một từ [Quenya](../Q/Quenya.md) có nghĩa là "đẹp (chỉ của tác phẩm nghệ thuật)" hoặc "đẹp, đáng yêu".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>mĭrya</b></i> (hoặc *mīra*) là một từ [Quenya](../Q/Quenya.md) có nghĩa là "đẹp (chỉ trong tác phẩm nghệ thuật)" hoặc "đẹp, đáng yêu".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -23,7 +23,7 @@ sort_keys:
 
 ## Xem thêm {#See_also}
 
-- [Old Noldorin](../O/Old_Noldorin.md) *[mirya](Mirya.md)*
+- [Noldorin già](../O/Old_Noldorin.md) *[mirya](Mirya.md)*
 
 <span></span>
 

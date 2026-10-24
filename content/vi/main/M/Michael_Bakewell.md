@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Bakewell, Michael"
 ---
 
-**Michael Bakewell** là nhà sản xuất và đạo diễn người Anh. Anh ấy là "Trưởng nhóm kịch" đầu tiên tại [BBC](../B/BBC.md) và sẽ làm việc tích cực trong các vở kịch trên đài phát thanh. Ông đã hỗ trợ [Brian Sibley](../B/Brian_Sibley.md) chuyển thể *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* cho loạt phim phát thanh [1981](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>).
+**Michael Bakewell** là nhà sản xuất và đạo diễn người Anh. Ông là "Trưởng nhóm kịch" đầu tiên tại [BBC](../B/BBC.md) và sẽ làm việc tích cực trong các vở kịch trên đài phát thanh. Ông đã hỗ trợ [Brian Sibley](../B/Brian_Sibley.md) chuyển thể *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* cho loạt phim phát thanh [1981](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>).
 
 ## Liên kết ngoài {#External_links}
 

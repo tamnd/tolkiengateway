@@ -13,7 +13,7 @@ categories:
   - "Sindarin nouns"
 ---
 
-**Laer** là tên [Sindarin](../S/Sindarin.md) chỉ mùa hè, được biết đến trong [Quenya](../Q/Quenya.md) với tên [Lairë](Lairë.md). Đây cũng là tên của mùa thứ hai trong [Lịch Imladris](../R/Reckoning_of_Rivendell.md), 72 ngày ít nhiều rơi vào khoảng thời gian từ [1 tháng 6](../_/1_June.md) đến [9 tháng 8](../_/9_August.md) trong [Lịch Shire](../S/Shire_Calendar.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Laer** was the [Sindarin](../S/Sindarin.md) name for the season of summer, known in [Quenya](../Q/Quenya.md) as [Lairë](Lairë.md). Đây cũng là tên của mùa thứ hai trong [Lịch của Imladris](../R/Reckoning_of_Rivendell.md), 72 ngày ít nhiều rơi vào khoảng thời gian từ [ngày 1 tháng 6](../_/1_June.md) đến [ngày 9 tháng 8](../_/9_August.md) trong [Lịch Shire](../S/Shire_Calendar.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

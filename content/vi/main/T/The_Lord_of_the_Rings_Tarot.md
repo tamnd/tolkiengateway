@@ -44,9 +44,9 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Tarot.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/66/The_Lord_of_the_Rings_Tarot.jpg/306px-The_Lord_of_the_Rings_Tarot.jpg" decoding="async" loading="lazy" width="306" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/66/The_Lord_of_the_Rings_Tarot.jpg/458px-The_Lord_of_the_Rings_Tarot.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/6/66/The_Lord_of_the_Rings_Tarot.jpg/611px-The_Lord_of_the_Rings_Tarot.jpg 2x" data-file-width="1012" data-file-height="1589"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Lord of the Rings Tarot</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a class="new" href="https://tolkiengateway.net/w/index.php?title=Terry_Donaldson&amp;action=edit&amp;redlink=1" title="Terry Donaldson (page does not exist)">Terry Donaldson</a></td></tr><tr><th scope="row" class="tg-infobox-label">Contributors</th><td class="tg-infobox-data"><a class="new" href="https://tolkiengateway.net/w/index.php?title=Mike_Fitzgerald&amp;action=edit&amp;redlink=1" title="Mike Fitzgerald (page does not exist)">Mike Fitzgerald</a> <small>(game)</small></td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="../P/Peter_Pracownik.md" title="Peter Pracownik">Peter Pracownik</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">U.S. Games</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/1_September.md" title="1 September">1 September</a> <a href="../_/1997.md" title="1997">1997</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Softcover</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">224</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/1572810548" title="Special:BookSources/1572810548">1572810548</a></td></tr></tbody></table>
 
-<i><b>The Lord of the Rings Tarot</b></i> là cuốn sách mô tả <a class="extiw" href="http://en.wikipedia.org/wiki/Tarot" title="wikipedia:Tarot">bộ bài Tarot</a> và một trò chơi bài dựa trên *[The Lord of the Rings](The_Lord_of_the_Rings.md)* và *[The Hobbit](The_Hobbit.md)*. Sách đi kèm với một bộ bài có tên <i><b>The Lord of the Rings Bộ bài Tarot & Trò chơi bài</b></i>.
+<i><b>Chúa tể của những chiếc nhẫn Tarot</b></i> là cuốn sách mô tả <a class="extiw" href="http://en.wikipedia.org/wiki/Tarot" title="wikipedia:Tarot">bộ bài Tarot</a> và một trò chơi bài dựa trên *[The Lord of the Rings](The_Lord_of_the_Rings.md)* và *[The Hobbit](The_Hobbit.md)*. Cuốn sách đi kèm với một bộ bài có tên <i><b>Bộ bài Tarot & Trò chơi bài Chúa tể của những chiếc nhẫn</b></i>.
 
-Terry Donaldson và Peter Pracownik sau này sẽ cộng tác trên một Bộ bài Tarot khác liên quan đến Tolkien, [The Hobbit Tarot](The_Hobbit_Tarot.md), được phát hành trong [2012](../_/2012.md).
+Terry Donaldson và Peter Pracownik sau này sẽ cộng tác trên một Bộ bài Tarot khác liên quan đến Tolkien, [The Hobbit Tarot](The_Hobbit_Tarot.md), được phát hành vào [2012](../_/2012.md).
 
 ## Tóm tắt từ nhà xuất bản {#Synopsis_from_the_publisher}
 
@@ -66,22 +66,22 @@ Các hướng dẫn đi kèm với các lá bài tarot cũng chứa một bộ q
 - II - *The High Priestess*: [Éowyn](../_/Éowyn.md) (FP)
 - III - *The Empress*: [Galadriel](../G/Galadriel.md) với [Belladonna Took](../B/Belladonna_Took.md) và [Rose Gamgee](../R/Rose_Cotton.md) (FP)
 - IV - *The Emperor*: [Elrond](../E/Elrond.md) từ chối [Chiếc nhẫn duy nhất](The_One_Ring.md) (FP)
-- V - *The Hierophant*: [Saruman](../S/Saruman.md) và [the Palantír](../O/Orthanc-stone.md) (DF)
+- V - *The Hierophant*: [Saruman](../S/Saruman.md) và [Palantír](../O/Orthanc-stone.md) (DF)
 - VI - *The Lovers*: [Aragorn](../A/Aragorn.md) và [Arwen](../A/Arwen.md) (FP)
 - VII - *The Chariot*: [Théoden](Théoden.md) trong trận chiến (FP)
-- VIII - *Strength*: [Số Cây Trắng của Gondor](../W/White_Tree_of_Gondor.md) (FP)
+- VIII - *Strength*: [Cây trắng Gondor](../W/White_Tree_of_Gondor.md) (FP)
 - IX - *The Hermit*: [Tom Bombadil](Tom_Bombadil.md) (FP)
 - X - *Wheel of Fortune*: [Chiếc nhẫn duy nhất](The_One_Ring.md) (HOẶC)
-- XI - *Justice*: [Những kẻ phá lời thề Dunharrow](../O/Oathbreakers.md) (FP)
+- XI - *Justice*: [Những kẻ phá bỏ lời thề của Dunharg](../O/Oathbreakers.md) (FP)
 - XII - *The Hanged Man*: [Denethor](../D/Denethor.md) hạ [Faramir](../F/Faramir.md) xuống giàn thiêu (FP)
-- XIII - *Death*: <a class="new" href="https://tolkiengateway.net/w/index.php?title=Battle_of_Bridge_of_Khazad-d%C3%BBm&amp;action=edit&amp;redlink=1" title="Battle of Bridge of Khazad-dûm (page does not exist)">Trận chiến Cầu Khazad-dûm</a> (FP)
+- XIII - *Death*: <a class="new" href="https://tolkiengateway.net/w/index.php?title=Battle_of_Bridge_of_Khazad-d%C3%BBm&amp;action=edit&amp;redlink=1" title="Battle of Bridge of Khazad-dûm (page does not exist)">Trận cầu Khazad-dûm</a> (FP)
 - XIV - *Temperance*: [Frodo](../F/Frodo_Baggins.md) thương xót Gollum (FP)
 - XV - *The Devil*: [Gríma](../G/Gríma.md) (DF)
 - XVI - *The Tower*: [Orthanc](../O/Orthanc.md) bị [tấn công](../B/Battle_of_Isengard.md) (DF)
-- XVII - *The Star*: [Galadriel](../G/Galadriel.md) đeo [Nenya](../N/Nenya.md) khi đổ nước vào [Gương Galadriel](../M/Mirror_of_Galadriel.md) (FP)
+- XVII - *The Star*: [Galadriel](../G/Galadriel.md) đeo [Nenya](../N/Nenya.md) trong khi đổ nước vào [Gương của Galadriel](../M/Mirror_of_Galadriel.md) (FP)
 - XVIII - *The Moon*: [Orc](../O/Orcs.md) tại [Minas Morgul](../M/Minas_Morgul.md) (DF)
-- XIX - *The Sun*: [Mặt Trời](../S/Sun.md) tỏa sáng trên [The Shire](The_Shire.md) (FP)
-- XX - *Judgement*: Gandalf tiết lộ Frodo bản chất của Nhẫn Chúa (FP)
+- XIX - *The Sun*: [Mặt trời](../S/Sun.md) tỏa sáng trên [The Shire](The_Shire.md) (FP)
+- XX - *Judgement*: Gandalf tiết lộ cho Frodo bản chất của Chiếc Nhẫn Chúa (FP)
 - XXI - *The World*: [Arda](../A/Arda.md) (N)
 
 ## Bộ ẩn phụ {#Minor_Arcana}
@@ -89,34 +89,34 @@ Các hướng dẫn đi kèm với các lá bài tarot cũng chứa một bộ q
 ### Đồng xu {#Coins}
 
 - *Ace of Coins*: [Celeborn](../C/Celeborn.md) trên ngai vàng (FP)
-- *Two of Coins*: [Ent](../E/Ents.md) (FP)
-- *Three of Coins*: [Bilbo](../B/Bilbo_Baggins.md) đọc trong thư viện của anh ấy (FP)
+- *Two of Coins*: Các [Ent](../E/Ents.md) (FP)
+- *Three of Coins*: [Bilbo](../B/Bilbo_Baggins.md) đọc trong thư viện của ông (FP)
 - *Four of Coins*: Cây [Cây](../M/Mallorn.md) vĩ đại của [Lórien](../L/Lórien.md) (FP)
-- *Five of Coins*: [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) tại [Cánh cửa Durin](../D/Doors_of_Durin.md) (N)
-- *Six of Coins*: Bilbo tìm thấy kho báu trong hang ổ của [Smaug](../L/Lonely_Mountain.md) (N)
-- *Seven of Coins*: Học bổng bị [Caradhras](../C/Caradhras.md) (N) từ chối
+- *Five of Coins*: [Hiệp hội của chiếc nhẫn](../F/Fellowship_of_the_Ring.md) tại [Cánh cửa Durin](../D/Doors_of_Durin.md) (N)
+- *Six of Coins*: Bilbo tìm thấy kho báu trong [hang ổ của Smaug](../L/Lonely_Mountain.md) (N)
+- *Seven of Coins*: Học bổng bị [Caradhras](../C/Caradhras.md) từ chối (N)
 - *Eight of Coins*: Vết thương của Faramir đang được chăm sóc tại [Nhà chữa bệnh](../H/Houses_of_Healing.md) (FP)
 - *Nine of Coins*: [Chín chiếc nhẫn](../N/Nine_Rings.md) (DF)
-- *Ten of Coins*: Smaug trong Ngọn Núi Cô Đơn (DF)
-- *Page of Coins*: [Glorfindel](../G/Glorfindel.md), cưỡi [Asfaloth](../A/Asfaloth.md), gặp Aragorn và Lữ khách trên Đường tới Rivendell (FP)
+- *Ten of Coins*: Smaug trên ngọn núi cô đơn (DF)
+- *Page of Coins*: [Glorfindel](../G/Glorfindel.md), cưỡi [Asfaloth](../A/Asfaloth.md), gặp Aragorn và các Lữ khách trên đường đến Rivendell (FP)
 - *Knight of Coins*: Người lính của [Gondor](../G/Gondor.md) (FP)
-- *Queen of Coins*: [Lúthien](../L/Lúthien.md) khóc vì [Beren](../B/Beren.md) (FP)
-- *King of Coins*: [Treebeard](Treebeard.md) (DF)
+- *Queen of Coins*: [Lúthien](../L/Lúthien.md) khóc thương [Beren](../B/Beren.md) (FP)
+- *King of Coins*: [Râu cây](Treebeard.md) (DF)
 
 ### Cốc {#Cups}
 
-- *Ace of Cups*: Frodo, [Sam](../S/Samwise_Gamgee.md) và Galadriel tại [gương của cô ấy](../M/Mirror_of_Galadriel.md) (FP)
-- *Two of Cups*: Faramir và Éowyn ôm (FP)
+- *Ace of Cups*: Frodo, [Sam](../S/Samwise_Gamgee.md) và Galadriel trước [tấm gương của bà](../M/Mirror_of_Galadriel.md) (FP)
+- *Two of Cups*: Faramir và Éowyn ôm nhau (FP)
 - *Three of Cups*: Frodo đoàn tụ với Bilbo ở Rivendell (FP)
-- *Four of Cups*: Frodo, Sam, [Pippin](../P/Pippin.md) và [Merry](../M/Merry.md) kết bạn [Farmer Maggot](../F/Farmer_Maggot.md) khi hái [nấm](../M/Mushrooms.md) (FP)
-- *Five of Cups*: Hội đau buồn trước sự sụp đổ của Gandalf (FP)
-- *Six of Cups*: Pippin và Merry thư giãn sau cú rơi Orthanc (FP)
+- *Four of Cups*: Frodo, Sam, [Pippin](../P/Pippin.md) và [Merry](../M/Merry.md) kết bạn với [Farmer Maggot](../F/Farmer_Maggot.md) trong khi hái [nấm](../M/Mushrooms.md) (FP)
+- *Five of Cups*: Hiệp hội đau buồn trước sự sụp đổ của Gandalf (FP)
+- *Six of Cups*: Pippin và Merry thư giãn sau sự thất thủ của Orthanc (FP)
 - *Seven of Cups*: [Palantíri](../P/Palantíri.md) (DF)
-- *Eight of Cups*: Gollum dẫn Frodo và Sam qua [Đầm lầy Chết](../D/Dead_Marshes.md) (DF)
-- *Nine of Cups*: [Tiệc chia tay của Bilbo](../B/Bilbo's_Farewell_Party.md) (FP)
-- *Ten of Cups*: [Círdan](../C/Círdan.md) nhìn [con Con Tàu Trắng](../W/White_Ship.md) khởi hành về [Cõi Phúc Âm](../A/Aman.md) (FP)
-- *Page of Cups*: [Barliman Butterbur](../B/Barliman_Butterbur.md) trong [The Prancing Pony](The_Prancing_Pony.md) (N)
-- *Knight of Cups*: Kỵ sĩ Đen bị đánh bại ở [Ford of Bruinen](../F/Ford_of_Bruinen.md) (FP)
+- *Eight of Cups*: Gollum dẫn Frodo và Sam đi qua [Đầm lầy Chết](../D/Dead_Marshes.md) (DF)
+- *Nine of Cups*: [Tiệc chia tay Bilbo](../B/Bilbo's_Farewell_Party.md) (FP)
+- *Ten of Cups*: [Círdan](../C/Círdan.md) theo dõi [Con tàu trắng](../W/White_Ship.md) khởi hành đến [Cõi phúc lành](../A/Aman.md) (FP)
+- *Page of Cups*: [Barliman Butterbur](../B/Barliman_Butterbur.md) trong [Ngựa chồm lên](The_Prancing_Pony.md) (N)
+- *Knight of Cups*: Kỵ sĩ đen bị đánh bại tại [Ford of Bruinen](../F/Ford_of_Bruinen.md) (FP)
 - *Queen of Cups*: [Goldberry](../G/Goldberry.md) (DF)
 - *King of Cups*: [Thorin Oakenshield](Thorin_Oakenshield.md) và [Gimli](../G/Gimli.md) (FP)
 
@@ -124,35 +124,35 @@ Các hướng dẫn đi kèm với các lá bài tarot cũng chứa một bộ q
 
 - *Ace of Swords*: [Gwaihir](../G/Gwaihir.md) [Đại bàng](../E/Eagles.md) (FP)
 - *Two of Swords*: Chiếc nhẫn duy nhất trong [Hội đồng Elrond](../C/Council_of_Elrond.md)\] (FP)
-- *Three of Swords*: Sam an ủi Frodo sau khi Gollum và Nhẫn Chúa bị phá hủy (FP)
-- *Four of Swords*: Frodo trong [Barrow-downs](../B/Barrow-downs.md) (DF)
-- *Five of Swords*: Pippin và Merry bị bắt bởi [quân Orc](../U/Uruk-hai.md) (DF)
-- *Six of Swords*: Bilbo và [các Người Lùn](Thorin_and_Company.md) sử dụng thùng để thoát khỏi [Tiên tộc của Mirkwood](../E/Elves_of_Mirkwood.md) (FP)
-- *Seven of Swords*: [William, Tom và Bert](../W/William,_Tom,_and_Bert.md) tranh luận (FP)
-- *Eight of Swords*: Frodo dối trá, trói buộc, khi Sam cố gắng chống cự [Shelob](../S/Shelob.md) (DF)
+- *Three of Swords*: Sam an ủi Frodo sau khi Gollum và Chiếc nhẫn Chúa bị phá hủy (FP)
+- *Four of Swords*: Frodo trong [Barrow-down](../B/Barrow-downs.md) (DF)
+- *Five of Swords*: Pippin và Merry bị [quân Orc](../U/Uruk-hai.md) bắt giữ (DF)
+- *Six of Swords*: Bilbo và [Người lùn](Thorin_and_Company.md) sử dụng thùng để thoát khỏi [Yêu tinh của Mirkwood](../E/Elves_of_Mirkwood.md) (FP)
+- *Seven of Swords*: [William, Tom và Bert](../W/William,_Tom,_and_Bert.md) tranh cãi (FP)
+- *Eight of Swords*: Frodo nói dối, bị trói khi Sam cố gắng chống cự [Shelob](../S/Shelob.md) (DF)
 - *Nine of Swords*: Chín [Nazgûl](../N/Nazgûl.md) (DF)
-- *Ten of Swords*: [Con Mắt của Sauron](../E/Eye_of_Sauron.md) (DF)
+- *Ten of Swords*: [Con mắt của Sauron](../E/Eye_of_Sauron.md) (DF)
 - *Page of Swords*: [Denethor](../D/Denethor.md) nói chuyện với Pippin (FP)
 - *Knight of Swords*: [Trận chiến Minas Tirith](../B/Battle_of_the_Pelennor_Fields.md) (FP)
-- *Queen of Swords*: Éowyn tiêu diệt [Vua Phù thủy](../W/Witch-king.md) (FP)
-- *King of Swords*: Aragorn được [đăng quang](../C/Crown_of_Gondor.md) [Vua Gondor](../K/King_of_Gondor.md) (FP)
+- *Queen of Swords*: Éowyn tiêu diệt [Vua phù thủy](../W/Witch-king.md) (FP)
+- *King of Swords*: Aragorn [đăng quang](../C/Crown_of_Gondor.md) [Vua Gondor](../K/King_of_Gondor.md) (FP)
 
 ### Cây đũa phép {#Wands}
 
-- *Ace of Wands*: Chiếc Nhẫn Chúa được rèn trong ngọn lửa [Núi Doom](../M/Mount_Doom.md) (FP)
+- *Ace of Wands*: Chiếc Nhẫn Chúa được rèn trong ngọn lửa của [Mount Doom](../M/Mount_Doom.md) (FP)
 - *Two of Wands*: Gandalf (DF)
 - *Three of Wands*: [Aragorn, Gimli và Legolas](Three_Hunters.md) tìm kiếm những người hobbit bị bắt (FP)
-- *Four of Wands*: Gandalf lắc Théoden tình trạng bất ổn của mình (FP)
-- *Five of Wands*: Bilbo nhìn thấy Người Lùn bị bắt bởi [nhện](../S/Spider.md) trong [Mirkwood](../M/Mirkwood.md) (DF)
-- *Six of Wands*: Tình thế trở nên bất lợi với Orc trong [Trận chiến của năm đạo quân](../B/Battle_of_the_Five_Armies.md), khi [Beorn](../B/Beorn.md) và Đại Bàng tham gia trận chiến (FP)
-- *Seven of Wands*: Arargorn phòng thủ trước Kỵ sĩ Đen tại [Weathertop](../W/Weathertop.md) (FP)
+- *Four of Wands*: Gandalf lay Théoden khỏi tình trạng bất ổn (FP)
+- *Five of Wands*: Bilbo nhìn thấy Người lùn bị [nhện](../S/Spider.md) bắt giữ ở [Mirkwood](../M/Mirkwood.md) (DF)
+- *Six of Wands*: Tình thế quay lưng lại với lũ Orc trong [Trận chiến của năm đạo quân](../B/Battle_of_the_Five_Armies.md), khi [Beorn](../B/Beorn.md) và Đại bàng tham gia trận chiến (FP)
+- *Seven of Wands*: Arargorn phòng thủ trước Kỵ sĩ đen tại [Weathertop](../W/Weathertop.md) (FP)
 - *Eight of Wands*: Gandalf cưỡi [Shadowfax](../S/Shadowfax.md) (FP)
 - *Nine of Wands*: Gandalf đối đầu với Saruman (DF)
-- *Ten of Wands*: Sam mang Frodo lên Núi Doom (DF)
-- *Page of Wands*: [Radagast Brown](../R/Radagast.md) chờ gửi tin nhắn tới Gandalf (FP)
+- *Ten of Wands*: Sam bế Frodo lên Núi Định Mệnh (DF)
+- *Page of Wands*: [Radagast the Brown](../R/Radagast.md) chờ gửi tin nhắn cho Gandalf (FP)
 - *Knight of Wands*: Faramir chuẩn bị chiến đấu với lũ Orc (FP)
 - *Queen of Wands*: [Théodwyn](Théodwyn.md) (N)
-- *King of Wands*: Théoden và [Wormtongue](../G/Gríma.md)
+- *King of Wands*: Théoden và [Lưỡi Giun](../G/Gríma.md)
 
 ## Thư viện {#Gallery}
 

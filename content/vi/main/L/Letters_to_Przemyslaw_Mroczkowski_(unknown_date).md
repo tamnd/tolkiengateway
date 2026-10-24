@@ -22,7 +22,7 @@ Vào một thời điểm nào đó trong những năm 1960, [J.R.R. Tolkien](..
 
 ## Nội dung {#Contents}
 
-\[Mô tả và đoạn trích:\] "\[Trong những bức thư này Tolkien\] tiếp tục phàn nàn về ảnh hưởng của tuổi già và những rắc rối khác, trong đó có 'gia đình khiến tôi đau buồn và lo lắng'"<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+\[Mô tả và đoạn trích:\] "\[Trong những bức thư này, Tolkien\] tiếp tục phàn nàn về ảnh hưởng của tuổi già và những rắc rối khác, bao gồm cả 'gia đình khiến tôi đau buồn và lo lắng'"<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Xem thêm {#See_also}
 

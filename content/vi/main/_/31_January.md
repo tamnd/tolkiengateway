@@ -68,4 +68,4 @@ Sự kiện xảy ra vào ngày 31 tháng 1
 
 ## Trong Arda {#In_Arda}
 
-*Lưu ý: Tháng [Lịch Shire](../S/Shire_Calendar.md) chỉ có 30 ngày nên không có sự kiện nào và sẽ không xảy ra vào ngày 31.*
+*Lưu ý: Các tháng trong [Lịch Shire](../S/Shire_Calendar.md) chỉ có 30 ngày nên không có sự kiện nào và sẽ không diễn ra vào ngày 31.*

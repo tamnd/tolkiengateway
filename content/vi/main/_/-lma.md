@@ -14,9 +14,9 @@ sort_keys:
   "Quenya suffixes": "lma"
 ---
 
-<i><b>-lma</b></i> đuôi đầu tiên [Quenya](../Q/Quenya.md) có nghĩa là "của chúng tôi", được chứng thực (với đuôi sở hữu cách *[-o](-o.md)* thay thế đuôi cuối *-a*) trong từ *omentielmo* "cuộc gặp gỡ của chúng ta". "Của chúng tôi" này bao gồm số nhiều.
+Đuôi <i><b>-lma</b></i> pronominal [Quenya](../Q/Quenya.md) có nghĩa là "của chúng tôi", được chứng thực (với đuôi sở hữu cách *[-o](-o.md)* thay thế đuôi *-a*) trong từ *omentielmo* "cuộc gặp gỡ của chúng ta". "Của chúng tôi" này bao gồm số nhiều.
 
-[Frodo](../F/Frodo_Baggins.md) (có vẻ như) đã sử dụng nó không đúng cách trong lời chào "một ngôi sao tỏa sáng vào giờ chúng ta gặp nhau": vì anh ấy và Tiên anh ấy đang nói chuyện chỉ gồm có hai người, nên thay vào đó anh ấy nên sử dụng *dual* bao hàm. Lỗi (đã được sửa trong lần xuất bản thứ hai) hiện được nhiều người coi là lỗi đánh máy. Dạng đúng **omentielvo** xuất hiện trong một số bản viết tay của Sách Đỏ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+[Frodo](../F/Frodo_Baggins.md) (có vẻ như) đã sử dụng nó không đúng cách trong lời chào "một ngôi sao tỏa sáng vào giờ chúng ta gặp nhau": vì ông và Yêu tinh mà ông đang nói chuyện chỉ gồm có hai người, nên thay vào đó ông nên sử dụng *dual* bao gồm cả. Lỗi (đã được sửa trong lần xuất bản thứ hai) hiện được nhiều người coi là lỗi đánh máy. Dạng đúng **omentielvo** xuất hiện trong một số bản viết tay của Sách Đỏ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

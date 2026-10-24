@@ -17,7 +17,7 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/R/Randy_Gallegos_-_Elevenses.jpeg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b1/Randy_Gallegos_-_Elevenses.jpeg/250px-Randy_Gallegos_-_Elevenses.jpeg" decoding="async" loading="lazy" width="250" height="339" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b1/Randy_Gallegos_-_Elevenses.jpeg/375px-Randy_Gallegos_-_Elevenses.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/b/b1/Randy_Gallegos_-_Elevenses.jpeg/500px-Randy_Gallegos_-_Elevenses.jpeg 2x" data-file-width="1107" data-file-height="1500"/></a><figcaption>&#34;Elevenses&#34; by <a href="../R/Randy_Gallegos.md" title="Randy Gallegos">Randy Gallegos</a></figcaption></figure>
 
-**Elevenses** là bữa ăn được thực hiện bởi nhiều vị khách được mời đến [bữa tiệc](../B/Bilbo's_Farewell_Party.md) của [Bilbo Baggins](../B/Bilbo_Baggins.md).<sup id="cite_ref-Long_Expected_1-0" class="reference"><a href="#cite_note-Long_Expected-1">[1]</a></sup> Đây có thể là một trong sáu bữa ăn mỗi ngày của [Shire-hobbit](../S/Shire-hobbits.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Elevenses** là bữa ăn được thực hiện bởi nhiều vị khách được mời đến [bữa tiệc](../B/Bilbo's_Farewell_Party.md) của [Bilbo Baggins](../B/Bilbo_Baggins.md).<sup id="cite_ref-Long_Expected_1-0" class="reference"><a href="#cite_note-Long_Expected-1">[1]</a></sup> Đây có thể là một trong sáu bữa ăn mỗi ngày của [Người Hobbit vùng Shire](../S/Shire-hobbits.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
@@ -31,7 +31,7 @@ images:
 		</li>
 </ul>
 
-<b>2001: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i>:</b>
+<b>2001: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">Chúa tể của những chiếc nhẫn: Hiệp hội những chiếc nhẫn</a></i>:</b>
 
 <dl><dd>As <a href="../A/Aragorn.md" title="Aragorn">Strider</a> leads the <a href="../T/Travellers.md" title="Travellers">Travellers</a> to <a href="../R/Rivendell.md" title="Rivendell">Rivendell</a>, the <a href="../H/Hobbits.md" title="Hobbits">Hobbits</a> begin to unpack their cooking supplies. Strider tells them that they won&#39;t stop until night. <a href="../P/Peregrin_Took.md" title="Peregrin Took">Pippin</a> asks when they will take breakfast and Strider reminds him that they&#39;ve already eaten it. Pippin replies &#34;Well, we&#39;ve had one, yes. What about second breakfast?&#34;. Strider turns around and continues walking. <a href="../M/Meriadoc_Brandybuck.md" title="Meriadoc Brandybuck">Merry</a> says &#34;Don&#39;t think he knows about second breakfast, Pip.&#34;. Pippin then mentions other meals, such as elevenses.</dd></dl>
 

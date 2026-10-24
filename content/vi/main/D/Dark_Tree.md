@@ -12,11 +12,11 @@ categories:
   - "Concepts"
 ---
 
-**Cây tối** là một thuật ngữ trừu tượng trong đoạn truyện có tựa đề *[The New Shadow](../T/The_New_Shadow.md)*.
+**Cây tối** là một thuật ngữ trừu tượng trong đoạn truyện có tên *[The New Shadow](../T/The_New_Shadow.md)*.
 
 ## Lịch sử {#History}
 
-[Borlas](../B/Borlas.md) sử dụng thuật ngữ "Dark Tree" trong cuộc trò chuyện với [Saelon](../S/Saelon.md) như một mô tả về mối đe dọa ngày càng tăng của cái ác trong [Trung Địa](../M/Middle-earth.md) - rễ của nó không bao giờ có thể bị tiêu diệt hoàn toàn, đến mức ngay cả khi con người liên tục đẽo gọt nó, cái ác vẫn sẽ trỗi dậy một khi những người đó quay lưng lại với nó. Sau đó, Borlas nói thêm rằng không nên để những chiếc rìu đốn cây sang một bên hoặc treo trên tường, kể cả trong [Lễ chặt cây](../F/Feast_of_Felling.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+[Borlas](../B/Borlas.md) sử dụng thuật ngữ "Dark Tree" trong cuộc trò chuyện với [Saelon](../S/Saelon.md) như một mô tả về mối đe dọa ngày càng tăng của cái ác ở [Trung địa](../M/Middle-earth.md) - rễ của nó không bao giờ có thể bị tiêu diệt hoàn toàn, đến mức ngay cả khi con người liên tục đẽo gọt nó, cái ác vẫn sẽ trỗi dậy một khi những người đó quay lưng lại với nó. Sau đó, Borlas nói thêm rằng không nên để những chiếc rìu đốn cây sang một bên hoặc treo trên tường, kể cả trong [Lễ chặt cây](../F/Feast_of_Felling.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

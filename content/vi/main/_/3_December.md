@@ -66,16 +66,16 @@ Sự kiện xảy ra vào ngày 3 tháng 12
 
 ## Trên Trái đất {#On_Earth}
 
-- **[1916](1916.md)** - [G.B. Smith](../G/Geoffrey_Bache_Smith.md), một trong những [T.C.B.S.](../T/T.C.B.S..md), chết vì hoại tử khí trong vết thương, kéo dài 4 ngày trước đó. Tin tức không đến được [Tolkien](../J/J.R.R._Tolkien.md) cho đến ngày [ngày 16](16_December.md).
-- **[1954](1954.md)** - [BBC Chương trình thứ ba](../B/BBC.md) phát sóng phát thanh của *[The Homecoming of Beorhtnoth](<../T/The_Homecoming_of_Beorhtnoth,_Beorhthelm's_Son_(radio_play).md>)*.
-- **[1955](1955.md)** - Bài thơ Tolkien *[Imram](../I/Imram.md)* được đăng trên *[Time and Tide](<../T/Time_and_Tide_(3_December_1955).md>)*.
+- **[1916](1916.md)** - [G.B. Smith](../G/Geoffrey_Bache_Smith.md), một trong những [T.C.B.S.](../T/T.C.B.S..md), chết vì hoại tử khí trong vết thương, kéo dài 4 ngày trước đó. Tin tức không đến được [Tolkien](../J/J.R.R._Tolkien.md) cho đến [ngày 16](16_December.md).
+- **[1954](1954.md)** - [Chương trình thứ ba của BBC](../B/BBC.md) phát sóng chương trình phát thanh của *[The Homecoming of Beorhtnoth](<../T/The_Homecoming_of_Beorhtnoth,_Beorhthelm's_Son_(radio_play).md>)*.
+- **[1955](1955.md)** - Bài thơ *[Imram](../I/Imram.md)* của Tolkien được đăng trên *[Time and Tide](<../T/Time_and_Tide_(3_December_1955).md>)*.
 - **[1967](1967.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư 298a](../L/Letter_298a.md).
 - **[1998](1998.md)** - *[Tyalië Tyelelliéva](../T/Tyalië_Tyelelliéva.md)* số [13](../T/Tyalië_Tyelelliéva_13.md) được xuất bản.
 - **[2003](2003.md)** - Diễn viên [David Hemmings](../D/David_Hemmings.md) qua đời.
-- **[2004](2004.md)** - [The Lord of the Rings Bản giao hưởng](../T/The_Lord_of_the_Rings_Symphony.md) trình diễn ở <a class="extiw" href="http://en.wikipedia.org/wiki/Newark,_New_Jersey" title="wikipedia:Newark, New Jersey">Newark, New Jersey</a>.
+- **[2004](2004.md)** - [The Lord of the Rings Symphony](../T/The_Lord_of_the_Rings_Symphony.md) thi đấu ở <a class="extiw" href="http://en.wikipedia.org/wiki/Newark,_New_Jersey" title="wikipedia:Newark, New Jersey">Newark, New Jersey</a>.
 - **[2009](2009.md)** - *[The Lord of the Rings Online: Siege of Mirkwood](../T/The_Lord_of_the_Rings_Online%253A_Siege_of_Mirkwood.md)* được phát hành ở Châu Âu.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi ở [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Kẻ duy nhất Nhẫn](../T/The_One_Ring.md).
+    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi tại [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).

@@ -37,19 +37,19 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Anke_Eißmann_-_Leaving_the_Barrow-downs.jpeg.md"><img src="https://tolkiengateway.net/w/images/thumb/0/02/Anke_Ei%C3%9Fmann_-_Leaving_the_Barrow-downs.jpeg/320px-Anke_Ei%C3%9Fmann_-_Leaving_the_Barrow-downs.jpeg" decoding="async" loading="lazy" width="320" height="182" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/02/Anke_Ei%C3%9Fmann_-_Leaving_the_Barrow-downs.jpeg/480px-Anke_Ei%C3%9Fmann_-_Leaving_the_Barrow-downs.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/0/02/Anke_Ei%C3%9Fmann_-_Leaving_the_Barrow-downs.jpeg/640px-Anke_Ei%C3%9Fmann_-_Leaving_the_Barrow-downs.jpeg 2x" data-file-width="1121" data-file-height="636"/></a><figcaption>&#34;Leaving the Barrow-downs&#34; by <a href="../A/Anke_Eißmann.md" title="Anke Eißmann">Anke Eißmann</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../P/Ponies.md" title="Ponies">Pony</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Fatty Lumpkin</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../O/Old_Forest.md" title="Old Forest">Old Forest</a></td></tr><tr><th scope="row" class="tg-infobox-label">Affiliation</th><td class="tg-infobox-data"><a href="../T/Tom_Bombadil.md" title="Tom Bombadil">Tom Bombadil</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Fatty_Lumpkin.md" title="Category:Images of Fatty Lumpkin">Images of Fatty Lumpkin</a></td></tr></tbody></table>
 
-**Lumpkin béo** là một [con ngựa con](../P/Ponies.md) được [Tom Bombadil](../T/Tom_Bombadil.md)nuôi.
+**Fatty Lumpkin** là một [ngựa con](../P/Ponies.md) được nuôi bởi [Tom Bombadil](../T/Tom_Bombadil.md).
 
 ## Lịch sử {#History}
 
-Fatty Lumpkin hiếm khi được Tom cưỡi và dành phần lớn thời gian đi lang thang tự do trên [Barrow-downs](../B/Barrow-downs.md). Trong khi [Frodo](Frodo_Baggins.md) và những người bạn của anh ấy ở lại nhà Tom, Fatty đã kết bạn với những chú ngựa con của họ, mà sau này Tom đặt tên là [Tai nhọn](../S/Sharp-ears.md), [Bumpkin](../B/Bumpkin.md), [Mũi thông minh](../W/Wise-nose.md), [Đuôi ngoằn ngoèo](../S/Swish-tail.md) và [Tất trắng](../W/White-socks.md).
+Fatty Lumpkin hiếm khi được Tom cưỡi và dành phần lớn thời gian đi lang thang tự do trên [Barrow-down](../B/Barrow-downs.md). Trong khi [Frodo](Frodo_Baggins.md) và những người bạn của ông ở lại nhà Tom, Fatty đã kết bạn với những chú ngựa con của họ, mà sau này Tom đặt tên là [Tai nhọn](../S/Sharp-ears.md), [Bumpkin](../B/Bumpkin.md), [Mũi thông minh](../W/Wise-nose.md), [Đuôi ngoằn ngoèo](../S/Swish-tail.md) và [Tất trắng](../W/White-socks.md).
 
 Sau khi chạm trán với [Barrow-wight](../B/Barrow-wights.md), lũ ngựa con của người hobbit trở nên sợ hãi đến mức bỏ chạy đi tìm Fatty. Tom gọi tất cả họ lại bằng những cái tên mà anh đã đặt cho họ, và anh cưỡi trên con Lumpkin Béo cùng với những người hobbit và ngựa con của họ cho đến khi đến biên giới đất nước anh.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Sau khi những chú ngựa con của người hobbit trốn thoát khỏi [Bree](../B/Bree.md), họ lại chạy ra Downs để tìm Fatty. Họ ở lại với Tom một thời gian cho đến khi anh nghe tin về sự kiện ở Bree.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Sau khi những chú ngựa con của người Hobbit trốn thoát khỏi [Bree](../B/Bree.md), họ lại chạy ra Downs để tìm Fatty. Họ ở lại với Tom một thời gian cho đến khi anh nghe được tin tức về các sự kiện ở Bree.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-[Tolkien](../J/J.R.R._Tolkien.md) lưu ý rằng *-kin* trong tên này được sử dụng như một hậu tố nhỏ.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+[Tolkien](../J/J.R.R._Tolkien.md) lưu ý rằng *-kin* trong tên này được sử dụng như một hậu tố nhỏ gọn.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Văn hóa đại chúng {#Pop_Culture}
 

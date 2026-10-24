@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fladweth Amrod"
 ---
 
-Chuyển hướng đến [Fladweth Amrod](Fladweth_Amrod.md).
+Chuyển hướng tới [Fladweth Amrod](Fladweth_Amrod.md).

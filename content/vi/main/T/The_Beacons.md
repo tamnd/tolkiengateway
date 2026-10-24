@@ -36,7 +36,7 @@ Inspired by Howard Shore Lord of the Rings Soundtrack</td></tr><tr><th scope="ro
 
 ## Tóm tắt {#Synopsis}
 
-Borlas, một người lính của Gondor, được cảnh báo: đèn hiệu đã sáng. Nguy hiểm rình rập. Sau khi thắp sáng ngọn lửa của mình, anh ấy nhận ra ngọn lửa tiếp theo không bắt lửa. Dây chuyền bị đứt. Vương quốc đang gặp nguy hiểm.
+Borlas, một người lính của Gondor, được cảnh báo: đèn hiệu đã sáng. Nguy hiểm rình rập. Sau khi thắp sáng ngọn lửa của mình, ông nhận ra ngọn lửa tiếp theo không bắt lửa. Dây chuyền bị đứt. Vương quốc đang gặp nguy hiểm.
 
 ## Truyền {#Cast}
 
@@ -95,11 +95,11 @@ Borlas, một người lính của Gondor, được cảnh báo: đèn hiệu đ
 
 #### Được sản xuất với sự tham gia của {#Produced_with_the_participation_of}
 
-Auvergne kế thừa của - Arda
+- Auvergne di sản của Arda
 - Raphael Coudert
 - Adam Rebika
 - David Juillard
-- André-Paul Đạt Lai Lạt Ma AKA Dédé
+- André-Paul Đạt Lai Lạt Ma hay còn gọi là Dédé
 - Vincent Julien
 - Atos de Bayet & Rosalie
 
@@ -127,7 +127,7 @@ Auvergne kế thừa của - Arda
 #### Nhạc sáng tác bởi {#Music_composed_by}
 
 - Thomas Lyons - LyonsMusic -
-- Lấy cảm hứng từ Howard Shore Nhạc phim Chúa tể những chiếc nhẫn
+- Lấy cảm hứng từ Nhạc phim Chúa tể những chiếc nhẫn của Howard Shore
 
 #### Hiệu ứng hình ảnh {#Visual_Effects}
 
@@ -169,11 +169,11 @@ Auvergne kế thừa của - Arda
 - Vincent Julien
 - David Juillard
 - André-Paul Đạt Lai Lạt Ma hay còn gọi là Dédé
-- Tên thanh kiếm của Borlas là ROUGE-GORGE Chủ nhân của anh ấy là Jacques Soto
+- Tên thanh kiếm của Borlas là ROUGE-GORGE Chủ nhân của ông là Jacques Soto
 
 #### Lời cảm ơn đặc biệt tới {#Special_Thanks_To}
 
-Auvergne kế thừa của - Arda
+- Auvergne di sản của Arda
 - Jérémie Lalanne
 - Rémy Beisel Frappart
 - Marie Pigache

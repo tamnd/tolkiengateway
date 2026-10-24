@@ -28,7 +28,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Bức tranh này, để minh họa những từ đầu tiên trong Chương 7 của [The Hobbit](../../main/T/The_Hobbit.md) ([Queer Lodgings](../../main/Q/Queer_Lodgings.md)), không được sử dụng trong bản in tiếng Anh đầu tiên để chứa các bức tranh màu, nhưng xuất hiện trong ấn bản đầu tiên ở Mỹ, năm 1938. Nó được sao chép trong [Lịch J.R.R. Tolkien 1973](../../main/T/The_J.R.R._Tolkien_Calendar_1973.md) và 1974 và trong [The Hobbit Lịch 1976](../../main/T/The_Hobbit_Calendar_1976.md). Con đại bàng được lấy cảm hứng từ bức tranh Đại bàng vàng của Archibald Thorburn.
+Bức tranh này, để minh họa những từ đầu tiên trong Chương 7 của [The Hobbit](../../main/T/The_Hobbit.md) ([Queer Lodgings](../../main/Q/Queer_Lodgings.md)), không được sử dụng trong ấn bản tiếng Anh đầu tiên để chứa các bức tranh màu, nhưng xuất hiện trong ấn bản đầu tiên ở Mỹ, năm 1938. Nó được sao chép trong [Lịch J.R.R. Tolkien 1973](../../main/T/The_J.R.R._Tolkien_Calendar_1973.md) và 1974 và trong [The Hobbit Calendar 1976](../../main/T/The_Hobbit_Calendar_1976.md). Con đại bàng được lấy cảm hứng từ bức tranh Đại bàng vàng của Archibald Thorburn.
 
 ## Giấy phép {#Licensing}
 

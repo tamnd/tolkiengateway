@@ -30,11 +30,11 @@ infobox:
 
 **Celondim** là một thành phố ở [Ered Luin](../E/Ered_Luin.md) trong trò chơi *[The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md).*
 
-Tại đây [Tiên](../E/Elves.md) người chơi sẽ bị loại sau khi họ hoàn thành phần hướng dẫn.
+Tại đây, người chơi [Elven](../E/Elves.md) sẽ bị loại sau khi hoàn thành phần hướng dẫn.
 
 ## Lịch sử {#History}
 
-Celondim là thành phố nằm ở phía Nam sông Dãy Núi Xanh dọc theo sông [Lune](../L/Lune.md). Ban đầu nơi đây là cảng chuyên chở gỗ tới [Mithlond](../M/Mithlond.md) để đóng tàu, nhưng giờ đây nơi đây đã có một trong những thành phố lớn hơn trong khu vực. [Duillond](../D/Duillond.md), ở phía bắc, nhỏ hơn và được thành lập bởi người dân [Edhelion](../E/Edhelion.md), vì sau khi [Skorgrím](../S/Skorgrím.md) phá hủy thành phố của họ, họ đã chuyển đến [Gondamon](../G/Gondamon.md), nơi họ đã rời Duillond để sống gần [Lhûn](../L/Lhûn.md) và Biển.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Celondim là thành phố nằm ở phía Nam dãy núi Xanh dọc theo sông [Lune](../L/Lune.md). Ban đầu, nó là một cảng chuyên chở gỗ đến [Mithlond](../M/Mithlond.md) để đóng tàu, nhưng giờ đây nơi đây đã có một trong những thành phố lớn hơn trong khu vực. [Duillond](../D/Duillond.md), ở phía bắc, nhỏ hơn và được thành lập bởi người dân [Edhelion](../E/Edhelion.md), bởi vì sau khi [Skorgrím](../S/Skorgrím.md) phá hủy thành phố của họ, họ đã chuyển đến [Gondamon](../G/Gondamon.md), nơi họ đã rời Duillond để sống gần [Lhûn](../L/Lhûn.md) và Biển.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -55,4 +55,4 @@ Celondim có nghĩa là "dòng buồn chảy từ trên cao xuống", bởi [cel
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="https://lotro-wiki.com/wiki/Celondim" rel="noreferrer noopener" target="_blank">Celondim</a> trên <a class="external text" href="https://lotro-wiki.com/wiki" rel="noreferrer noopener" target="_blank">The Lord of the Rings Wiki trực tuyến</a>
+- <a class="external text" href="https://lotro-wiki.com/wiki/Celondim" rel="noreferrer noopener" target="_blank">Celondim</a> trên <a class="external text" href="https://lotro-wiki.com/wiki" rel="noreferrer noopener" target="_blank">Wiki trực tuyến Chúa tể của những chiếc nhẫn</a>

@@ -30,13 +30,13 @@ images:
 <p class="tg-quote-footer"><cite><a href="../E/Elrond.md" title="Elrond">Elrond</a> in <i><a href="The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="The_Council_of_Elrond.md" title="The Council of Elrond">The Council of Elrond</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-Nguồn gốc thần thoại của [Tom Bombadil](Tom_Bombadil.md) trong vũ trụ học nội tại của [Trung Địa](../M/Middle-earth.md) đã khiến ngay cả những người hâm mộ uyên bác cũng phải bối rối. Ví dụ: việc Chiếc nhẫn không có quyền năng đối với Tom sẽ gợi ý rằng Tom tồn tại ở cả hai thế giới [Thấy được](../S/Seen.md) và [Không nhìn thấy](../U/Unseen.md) hoặc rằng Cái vô hình không ảnh hưởng gì đến anh ấy vì "Anh ấy là [chủ nhân](../M/Master.md) của chính mình".
+Nguồn gốc thần thoại của [Tom Bombadil](Tom_Bombadil.md) trong vũ trụ học nội tại của [Trung Địa](../M/Middle-earth.md) đã khiến ngay cả những người hâm mộ uyên bác cũng phải bối rối. Ví dụ: việc Chiếc nhẫn không có quyền năng đối với Tom sẽ gợi ý rằng Tom tồn tại ở cả hai thế giới [Thấy được](../S/Seen.md) và [Không nhìn thấy](../U/Unseen.md) hoặc rằng Cái vô hình không ảnh hưởng gì đến ông vì "Ông là [chủ nhân](../M/Master.md) của chính mình".
 
-Những ý tưởng suy đoán về bản chất thực sự của anh ta bao gồm từ một [Tiên](../E/Elves.md) ẩn sĩ thông thái đơn giản đến một [Maia](../M/Maiar.md) hoặc [Vala](../V/Valar.md), thậm chí cả [Ilúvatar](../I/Ilúvatar.md) chính anh ta.
+Những ý tưởng suy đoán về bản chất thực sự của ông ta bao gồm từ một ẩn sĩ [Yêu tinh](../E/Elves.md) thông thái đến [Maia](../M/Maiar.md) hoặc [Vala](../V/Valar.md), thậm chí cả chính [Ilúvatar](../I/Ilúvatar.md).
 
 <h2><span id="Tolkien.27s_words"></span><span class="mw-headline" id="Tolkien&#39;s_words">Tolkien&#39;s words</span></h2>
 
-Ngay cả khi còn sống, [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã được hỏi trực tiếp về Tom, nhưng anh đã bác bỏ những câu hỏi này, cho thấy rõ rằng Tom là một nhân vật sống bí ẩn, một phần của một thế giới rộng lớn hơn, khó hiểu hơn:
+Ngay cả trong suốt cuộc đời của mình, [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã được hỏi trực tiếp về Tom, nhưng anh đã bác bỏ những câu hỏi này, cho thấy rõ rằng Tom là một nhân vật sống bí ẩn, một phần của một thế giới rộng lớn hơn, không thể hiểu nổi:
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
 <p>Even in a mythical Age there must be some enigmas, as there always are. Tom Bombadil is one (intentionally).
@@ -56,7 +56,7 @@ Ngay cả khi còn sống, [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã đượ
 <p class="tg-quote-footer"><cite>J.R.R. Tolkien<sup id="cite_ref-coghill_3-0" class="reference"><a href="#cite_note-coghill-3">[3]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-Tolkien gợi ý rằng ngay cả trong [thế giới thứ cấp](../S/Secondary_World~65496.md), các nhân vật, chủ yếu là Hobbit, những người tương tác với anh ta đều không nhận thức đầy đủ về bản chất của anh ta.
+Tolkien gợi ý rằng ngay cả trong [thế giới thứ cấp](../S/Secondary_World~65496.md), các nhân vật, chủ yếu là người Hobbit, những người tương tác với ông ta đều không nhận thức đầy đủ về bản chất của ông ta.
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
 <p>The <a href="../B/Bucklanders.md" title="Bucklanders">Bucklanders</a> knew Bombadil, though, no doubt, they had as little understanding of his powers as the <a class="mw-redirect" href="../S/Shire-folk.md" title="Shire-folk">Shire-folk</a> had of <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a>&#39;s: both were regarded as benevolent persons, mysterious maybe and unpredictable but nonetheless comic.
@@ -64,29 +64,29 @@ Tolkien gợi ý rằng ngay cả trong [thế giới thứ cấp](../S/Secondar
 <p class="tg-quote-footer"><cite><i><a href="The_Adventures_of_Tom_Bombadil.md" title="The Adventures of Tom Bombadil">The Adventures of Tom Bombadil</a></i>, Preface</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-## Tom vai Eru Ilúvatar {#Tom_as_Eru_Ilúvatar}
+## Tom trong vai Eru Ilúvatar {#Tom_as_Eru_Ilúvatar}
 
-Khi Goldberry được [Frodo Baggins](../F/Frodo_Baggins.md) hỏi anh ta là ai, cô chỉ nói "*He is*" trùng với tên thánh của Chúa trong Cơ đốc giáo, "*ὁ ὤν*" (Đấng, Đấng hiện hữu). Goldberry còn cho rằng Tom đơn giản là " [Master](../M/Master.md)",<sup id="cite_ref-Council_4-0" class="reference"><a href="#cite_note-Council-4">[4]</a></sup> và giả thuyết Tom là hóa thân, hiện thân hay "hình đại diện" của Ilúvatar đã được người hâm mộ ưa chuộng.<sup id="cite_ref-FAQ_5-0" class="reference"><a href="#cite_note-FAQ-5">[5]</a></sup>
+Khi Goldberry được [Frodo Baggins](../F/Frodo_Baggins.md) hỏi ông ta là ai, bà chỉ nói "*He is*" trùng với tên thánh của Chúa trong Cơ đốc giáo, "*ὁ ὤν*" (Đấng, Đấng hiện hữu). Goldberry cũng cho rằng Tom chỉ đơn giản là " [Master](../M/Master.md)",<sup id="cite_ref-Council_4-0" class="reference"><a href="#cite_note-Council-4">[4]</a></sup> và giả thuyết Tom là hóa thân, hiện thân hay "avatar" của Ilúvatar đã được người hâm mộ ưa chuộng.<sup id="cite_ref-FAQ_5-0" class="reference"><a href="#cite_note-FAQ-5">[5]</a></sup>
 
-Tuy nhiên, Tolkien sau đó đã nhận xét rằng cuộc đối thoại này không ám chỉ đến Thiên Chúa, giống như danh hiệu "Cha" ám chỉ đến một linh mục không ám chỉ đến Thiên Chúa.<sup id="cite_ref-L153_2-1" class="reference"><a href="#cite_note-L153-2">[2]</a></sup>
+Tuy nhiên, Tolkien sau đó nhận xét rằng cuộc đối thoại này không ám chỉ đến Thiên Chúa, giống như danh hiệu "Cha" ám chỉ đến một linh mục không ám chỉ đến Thiên Chúa.<sup id="cite_ref-L153_2-1" class="reference"><a href="#cite_note-L153-2">[2]</a></sup>
 
-Trong [Hội đồng Elrond](../C/Council_of_Elrond.md), người ta đề cập rằng Tom có ​​kiến ​​thức và hiểu biết hạn chế về sức mạnh của Chiếc nhẫn, điều này cho thấy rằng anh ấy không phải là Ilúvatar.
+Trong [Hội đồng Elrond](../C/Council_of_Elrond.md), người ta đề cập rằng Tom có ​​kiến ​​thức và hiểu biết hạn chế về sức mạnh của Chiếc nhẫn, điều này cho thấy rằng ông ta không phải là Ilúvatar.
 
-Elrond gọi Bombadil là "một *creature* kỳ lạ" \[nhấn mạnh thêm\] và đây không phải là mô tả chính xác về một Đấng sáng tạo chưa được tạo ra. Tuy nhiên, có thể trừ khi Elrond cũng không biết gì về bản chất của Bombadil.
+Elrond gọi Bombadil là "một *creature*" kỳ lạ \[nhấn mạnh thêm\] và đây không phải là mô tả chính xác về một Đấng sáng tạo chưa được tạo ra. Tuy nhiên, có thể xảy ra trừ khi Elrond cũng không biết gì về bản chất của Bombadil.
 
-Tolkien là một người sùng đạo Công giáo La Mã và ông đã tuyên bố cụ thể rằng ý tưởng về sự nhập thể của Chúa quá lớn để có thể đưa vào tác phẩm của ông.<sup id="cite_ref-L181_6-0" class="reference"><a href="#cite_note-L181-6">[6]</a></sup><sup id="cite_ref-L211_7-0" class="reference"><a href="#cite_note-L211-7">[7]</a></sup> Tolkien sau này sẽ tiếp tục thử nghiệm ý tưởng này trong *[Athrabeth Finrod ah Andreth](../A/Athrabeth_Finrod_ah_Andreth.md),* nói về sự tái sinh trong tương lai của Ilúvatar.
+Tolkien là một người sùng đạo Công giáo La Mã và ông đã tuyên bố cụ thể rằng ý tưởng về sự nhập thể của Chúa quá lớn để có thể đưa vào tác phẩm của ông.<sup id="cite_ref-L181_6-0" class="reference"><a href="#cite_note-L181-6">[6]</a></sup><sup id="cite_ref-L211_7-0" class="reference"><a href="#cite_note-L211-7">[7]</a></sup> Tolkien sau này tiếp tục thử nghiệm ý tưởng này trong *[Athrabeth Finrod ah Andreth](../A/Athrabeth_Finrod_ah_Andreth.md),* nói về sự tái sinh của Ilúvatar trong tương lai.
 
-Tolkien đặc biệt ám chỉ rằng Tom, không giống như Ilúvatarr, là một phần của thế giới này, và anh ấy sẽ bị tiêu diệt cùng với mọi thứ khác nếu cái ác chiến thắng.<sup id="cite_ref-coghill_3-1" class="reference"><a href="#cite_note-coghill-3">[3]</a></sup>
+Tolkien đặc biệt ám chỉ rằng Tom, không giống như Ilúvatarr, là một phần của thế giới này và ông ta sẽ bị tiêu diệt cùng với mọi thứ khác nếu cái ác chiến thắng.<sup id="cite_ref-coghill_3-1" class="reference"><a href="#cite_note-coghill-3">[3]</a></sup>
 
 ## Tom trong vai người Ainu {#Tom_as_an_Ainu}
 
 Một lời giải thích khác có thể là Tom là [Ainu](../A/Ainur.md).<sup id="cite_ref-FAQ_5-1" class="reference"><a href="#cite_note-FAQ-5">[5]</a></sup>
 
-Vì tất cả bảy Valar đều được đặt tên và tính toán,<sup id="cite_ref-Val_8-0" class="reference"><a href="#cite_note-Val-8">[8]</a></sup> nên một người sẽ phải biểu hiện là Tom. Ví dụ: một lý thuyết xác định Tom với [Aulë](../A/Aulë.md) và Goldberry với [Yavanna](../Y/Yavanna.md).<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>Ngược lại với bảy Valar, Maiar là một số không xác định,<sup id="cite_ref-Val_8-1" class="reference"><a href="#cite_note-Val-8">[8]</a></sup> nên việc nhóm Tom trong số đó sẽ dễ dàng hơn. Tuy nhiên, điều quan trọng là Tom đã ở Arda trước [Valar](../V/Valar.md),<sup id="cite_ref-Days_10-0" class="reference"><a href="#cite_note-Days-10">[10]</a></sup> khiến việc xác nhận danh tính người Ainu của Tom trở nên khó khăn hơn.
+Vì tất cả bảy Valar đều được đặt tên và ghi tên,<sup id="cite_ref-Val_8-0" class="reference"><a href="#cite_note-Val-8">[8]</a></sup> nên một người sẽ phải xuất hiện dưới cái tên Tom. Ví dụ: một giả thuyết xác định Tom với [Aulë](../A/Aulë.md) và Goldberry với [Yavanna](../Y/Yavanna.md).<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>Ngược lại với bảy Valar, Maiar là một số lượng không xác định,<sup id="cite_ref-Val_8-1" class="reference"><a href="#cite_note-Val-8">[8]</a></sup> nên việc nhóm Tom vào trong số họ sẽ dễ dàng hơn. Tuy nhiên, điều quan trọng là Tom đã ở Arda trước [Valar](../V/Valar.md),<sup id="cite_ref-Days_10-0" class="reference"><a href="#cite_note-Days-10">[10]</a></sup> khiến việc xác nhận danh tính người Ainu của Tom trở nên khó khăn hơn.
 
-Tom nhớ mình là *"[Anh cả](../E/Eldest.md), tôi chính là vậy...Tom nhớ giọt mưa đầu tiên và quả sồi đầu tiên...Anh ấy biết bóng tối dưới những vì sao khi nó không hề sợ hãi – trước khi Chúa tể Bóng tối đến từ [Bên ngoài](Timeless_Halls.md)"*. Nhân tiện, "Người lớn tuổi nhất" cũng là danh hiệu được đặt cho [Treebeard](Treebeard.md).
+Tom nhớ mình là *"[Anh cả](../E/Eldest.md), tôi chính là vậy...Tom nhớ giọt mưa đầu tiên và quả sồi đầu tiên...Ông biết bóng tối dưới các vì sao khi nó không hề sợ hãi – trước khi Chúa tể Hắc ám đến từ [Bên ngoài](Timeless_Halls.md)"*. Nhân tiện, "Người lớn tuổi nhất" cũng là danh hiệu được đặt cho [Cây râu](Treebeard.md).
 
-Sau khi Chiếc Nhẫn Chúa bị phá hủy, Gandalf đến nói chuyện với Tom, gợi ý về mối quan hệ sâu sắc giữa hai người. Ít nhất, chuyến thăm của Gandalf tới Tom, cho thấy mối liên hệ quan trọng với Maiar. Tuy nhiên, Chiếc nhẫn không có tác dụng với anh ta, mặc dù nó có tác dụng nhất định với [Saruman](../S/Saruman.md) và [Gandalf](../G/Gandalf.md), cả hai đều là Maia. Ngoài ra, Gandalf trong Hội đồng Elrond nói rằng Tom "trung lập" và sẽ không hiểu nguyên nhân của [các Dân tộc Tự do](../F/Free_peoples~19934.md), trong khi tất cả những Maiar khác đã biết đều đứng về phía nào.
+Sau khi Chiếc nhẫn Chúa bị phá hủy, Gandalf đến nói chuyện với Tom, gợi ý về mối quan hệ sâu sắc giữa hai người. Ít nhất, chuyến thăm Tom của Gandalf cho thấy mối liên hệ quan trọng với Maiar. Tuy nhiên, Chiếc nhẫn không có tác dụng với ông ta, mặc dù nó có tác dụng nhất định với [Saruman](../S/Saruman.md) và [Gandalf](../G/Gandalf.md), cả hai đều là Maia. Ngoài ra, Gandalf trong Hội đồng Elrond nói rằng Tom là người "trung lập" và sẽ không hiểu lý do của [các dân tộc Tự do](../F/Free_peoples~19934.md), trong khi tất cả những Maiar được biết đến khác đều đứng về phía nào.
 
 ## Tom là hiện thân của Arda {#Tom_as_the_embodiment_of_Arda}
 
@@ -96,15 +96,15 @@ Sau khi Chiếc Nhẫn Chúa bị phá hủy, Gandalf đến nói chuyện với
 <p class="tg-quote-footer"><cite>J.R.R. Tolkien explaining Tom to <a href="../N/Nevill_Coghill.md" title="Nevill Coghill">Nevill Coghill</a><sup id="cite_ref-coghill_3-2" class="reference"><a href="#cite_note-coghill-3">[3]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-Một lý thuyết cấp tiến và trừu tượng hơn cho rằng anh ta có thể là hiện thân của chính [Arda](../A/Arda.md), một "Cha Thiên nhiên". Tom dù gần gũi với thiên nhiên nhưng cũng có lúc tách mình ra khỏi thiên nhiên. Một ví dụ như vậy là trong Khu Rừng Cổ khi chiến đấu chống lại Old Man Willow và có tính cách khác với Khu Rừng Cổ, được mô tả là đen tối và đầy căm ghét mọi thứ diễn ra tự do. Mặt khác, Tom hát liên tục ngay cả khi chiến đấu với kẻ đánh xe: *"Chưa ai bắt được anh ta, đối với Tom, anh ta là Bậc thầy: Các bài hát của anh ta là những bài hát mạnh mẽ hơn và đôi chân của anh ta nhanh hơn"*.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>
+Một lý thuyết cấp tiến và trừu tượng hơn cho rằng ông có thể là hiện thân của chính [Arda](../A/Arda.md), một "Cha Thiên nhiên". Tom dù gần gũi với thiên nhiên nhưng cũng có lúc tách mình ra khỏi thiên nhiên. Một ví dụ như vậy là ở Old Forest khi chiến đấu chống lại Old Man Willow và có tính cách khác với Old Forest, nơi được mô tả là đen tối và đầy căm thù đối với mọi thứ diễn ra tự do. Mặt khác, Tom hát liên tục ngay cả khi chiến đấu với kẻ đánh xe: *"Chưa ai bắt được ông ta, đối với Tom, ông ta là Bậc thầy: Các bài hát của ông ta là những bài hát mạnh mẽ hơn và đôi chân của ông ta nhanh hơn"*.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>
 
-## Những sinh vật giống anh ấy {#Beings_like_him}
+## Những sinh vật giống ông {#Beings_like_him}
 
-Dù bản chất của anh ta là gì, một câu hỏi khác về Bombadil là liệu anh ta có phải là sinh vật độc nhất hay không, hay liệu anh ta có đồng nghiệp khác ở các bộ phận khác của Arda hay không. Ví dụ, Bombadil có thể là "linh hồn của tất cả Arda" duy nhất, hoặc chỉ là "linh hồn của Khu Rừng Cổ" với những sinh vật tương tự khác trong các khu rừng khác.
+Dù bản chất của ông ta là gì, một câu hỏi khác về Bombadil là liệu ông ta có phải là sinh vật độc nhất hay không, hay ông ta có những đồng nghiệp khác ở những vùng khác của Arda. Ví dụ, Bombadil có thể là "linh hồn của tất cả Arda", hoặc chỉ là "linh hồn của Rừng Cũ" cùng với những sinh vật tương tự khác trong các khu rừng khác.
 
-Bản chất của Goldberry (và [Người phụ nữ sông](../R/River-woman.md)) cũng không rõ ràng. Họ có thể giống như anh ấy, hoặc đối tác nữ của anh ấy.
+Bản chất của Goldberry (và [Người phụ nữ bên sông](../R/River-woman.md)) cũng không rõ ràng. Họ có thể giống như ông, hoặc đối tác nữ của ông.
 
-Gandalf, khi kể lại cuộc chiến của mình với [Tai Họa của Durin](../D/Durin's_Bane.md), có đề cập đến những đường hầm được tạo ra bởi [những thứ không tên](../N/Nameless_things.md) mà sự tồn tại của chúng Sauron không hề được biết đến, vì chúng "lớn hơn anh ta".<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>
+Gandalf, khi kể lại cuộc chiến của mình với [Durin's Bane](../D/Durin's_Bane.md), đã đề cập đến những đường hầm được tạo ra bởi [những thứ không tên](../N/Nameless_things.md) mà sự tồn tại của Sauron không biết đến, vì chúng "già hơn ông".<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>
 
 <span></span>
 
@@ -140,7 +140,7 @@ Gandalf, khi kể lại cuộc chiến của mình với [Tai Họa của Durin]
 ## Liên kết ngoài {#External_links}
 
 - <a class="external text" href="http://www.glyphweb.com/arda/t/tombombadil.html" rel="noreferrer noopener" target="_blank">Mục trong Bách khoa toàn thư của Arda</a> (tổng quan ngắn gọn về cuộc thảo luận)
-- <a class="external text" href="http://tolkien.slimy.com/essays/Bombadil.html" rel="noreferrer noopener" target="_blank"><i> Tom Bombadil là gì?</i></a> của Steuard Jensen (giải thích chi tiết)
-- <a class="external text" href="http://www.cas.unt.edu/~hargrove/bombadil.html" rel="noreferrer noopener" target="_blank"><i> Tom Bombadil là ai?</i></a> của Gene Hargrove (một bài luận có phần không chính thống nhưng được trình bày tốt)
-- <a class="external text" href="http://www.whoistombombadil.blogspot.com" rel="noreferrer noopener" target="_blank">"Ai là Tom Bombadil?"</a> của Ranger đến từ miền Bắc (lập luận sâu rộng về Lý thuyết Âm nhạc)
+- <a class="external text" href="http://tolkien.slimy.com/essays/Bombadil.html" rel="noreferrer noopener" target="_blank"><i>Tom Bombadil là gì?</i></a> của Steuard Jensen (giải thích chi tiết)
+- <a class="external text" href="http://www.cas.unt.edu/~hargrove/bombadil.html" rel="noreferrer noopener" target="_blank"><i>Tom Bombadil là ai?</i></a> của Gene Hargrove (một bài luận có phần không chính thống nhưng được trình bày tốt)
+- <a class="external text" href="http://www.whoistombombadil.blogspot.com" rel="noreferrer noopener" target="_blank">"Tom Bombadil là ai?"</a> của Ranger đến từ miền Bắc (một lập luận sâu rộng về Lý thuyết Âm nhạc)
 - <a class="external text" href="https://middle-earth.xenite.org/love-in-the-trees/" rel="noreferrer noopener" target="_blank"><i>Tình yêu trên cây</i></a> của Michael Martinez

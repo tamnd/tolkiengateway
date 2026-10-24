@@ -40,7 +40,7 @@ infobox:
 <p class="tg-quote-footer"><cite><a href="../C/Clyde_S._Kilby.md" title="Clyde S. Kilby">Clyde Kilby</a><sup id="cite_ref-TatSPre_1-0" class="reference"><a href="#cite_note-TatSPre-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-Giáo sư Tiến sĩ **John Ronald Reuel Tolkien** <a class="extiw" href="http://en.wikipedia.org/wiki/CBE" title="wikipedia:CBE">CBE</a> ([1892](../_/1892.md) - [1973](../_/1973.md)) là chủ đề của [Tolkien Gateway](../../project/A/About.md). Cuộc đời, công việc, gia đình của ông: mọi thứ về người đàn ông mà người hâm mộ trìu mến gọi là **Giáo sư** đều có thể tìm thấy ở đây.
+Giáo sư Tiến sĩ **John Ronald Reuel Tolkien** <a class="extiw" href="http://en.wikipedia.org/wiki/CBE" title="wikipedia:CBE">CBE</a> ([1892](../_/1892.md) - [1973](../_/1973.md)) là chủ đề của [Cổng Tolkien](../../project/A/About.md). Cuộc đời, tác phẩm, gia đình của ông: mọi thứ về người đàn ông mà người hâm mộ trìu mến gọi là **Giáo sư** đều có thể tìm thấy ở đây.
 
 Bên cạnh việc tạo ra [Arda](../A/Arda.md), [Vương quốc nhỏ](../L/Little_Kingdom.md) và nhiều thế giới tuyệt vời khác, cách đọc [Beowulf](../B/Beowulf%253A_The_Monsters_and_the_Critics.md) của Tolkien là một bước đột phá và được coi là cách diễn giải *the* của sử thi cho đến ngày nay.<sup id="cite_ref-FaHPre_2-0" class="reference"><a href="#cite_note-FaHPre-2">[2]</a></sup>
 
@@ -50,7 +50,7 @@ Bên cạnh việc tạo ra [Arda](../A/Arda.md), [Vương quốc nhỏ](../L/Li
 
 #### Tolkien {#Tolkien}
 
-Kể từ khi gia đình [Tolkien](../T/Tolkien_Family.md) chuyển đến từ Saxony vài thế hệ trước đó,<sup id="cite_ref-L165_3-0" class="reference"><a href="#cite_note-L165-3">[3]</a></sup> đã có nhiều thay đổi. Số tài sản ít ỏi mà gia đình có - họ là những người chế tạo đàn piano - đã không còn khi [John Benjamin Tolkien](John_Benjamin_Tolkien.md) phá sản vào năm 1877.<sup id="cite_ref-LonGaz_4-0" class="reference"><a href="#cite_note-LonGaz-4">[4]</a></sup> Con trai ông [Arthur](../A/Arthur_Tolkien.md) làm việc tại văn phòng [Birmingham](../B/Birmingham.md) của Ngân hàng Lloyds, nhưng có rất ít cơ hội thăng tiến.<sup id="cite_ref-Bio910_5-0" class="reference"><a href="#cite_note-Bio910-5">[5]</a></sup> Cơ hội vàng đến khi vàng và kim cương được phát hiện ở [Nam Phi](../S/South_Africa.md); Nhân viên ngân hàng đang có nhu cầu cao để chống lại nạn gian lận và tham nhũng ngày càng gia tăng.<sup id="cite_ref-Birzer_6-0" class="reference"><a href="#cite_note-Birzer-6">[6]</a></sup> Arthur, người đã gặp [Mabel Suffield](../M/Mabel_Suffield.md) một thời gian, đã chuyển đến Bloemfontein. Mabel đến vài năm sau đó, vào năm 1891.<sup id="cite_ref-Bio910_5-1" class="reference"><a href="#cite_note-Bio910-5">[5]</a></sup>
+Kể từ khi [gia đình Tolkien](../T/Tolkien_Family.md) chuyển đến từ Saxony vài thế hệ trước đó,<sup id="cite_ref-L165_3-0" class="reference"><a href="#cite_note-L165-3">[3]</a></sup> đã có nhiều thay đổi. Số tài sản ít ỏi mà gia đình có - họ là những người chế tạo đàn piano - đã không còn khi [John Benjamin Tolkien](John_Benjamin_Tolkien.md) phá sản vào năm 1877.<sup id="cite_ref-LonGaz_4-0" class="reference"><a href="#cite_note-LonGaz-4">[4]</a></sup> Con trai ông [Arthur](../A/Arthur_Tolkien.md) làm việc tại văn phòng [Birmingham](../B/Birmingham.md) của Ngân hàng Lloyds, nhưng có rất ít cơ hội thăng tiến.<sup id="cite_ref-Bio910_5-0" class="reference"><a href="#cite_note-Bio910-5">[5]</a></sup> Cơ hội vàng đến khi vàng và kim cương được phát hiện ở [Nam Phi](../S/South_Africa.md); Nhân viên ngân hàng đang có nhu cầu cao để chống lại nạn gian lận và tham nhũng ngày càng gia tăng.<sup id="cite_ref-Birzer_6-0" class="reference"><a href="#cite_note-Birzer-6">[6]</a></sup> Arthur, người đã gặp [Mabel Suffield](../M/Mabel_Suffield.md) một thời gian, đã chuyển đến Bloemfontein. Mabel đến vài năm sau đó, vào năm 1891.<sup id="cite_ref-Bio910_5-1" class="reference"><a href="#cite_note-Bio910-5">[5]</a></sup>
 
 #### Suffield {#Suffield}
 
@@ -66,7 +66,7 @@ Kể từ khi gia đình [Tolkien](../T/Tolkien_Family.md) chuyển đến từ 
 
 ### Thanh niên {#Young_Adult}
 
-#### Oxford Từ điển tiếng Anh {#Oxford_English_Dictionary}
+#### Từ điển tiếng Anh Oxford {#Oxford_English_Dictionary}
 
 #### Đại học Oxford {#University_of_Oxford}
 
@@ -74,15 +74,15 @@ Kể từ khi gia đình [Tolkien](../T/Tolkien_Family.md) chuyển đến từ 
 
 #### Đại học Leeds {#University_of_Leeds}
 
-#### The Hobbit {#The_Hobbit}
+#### Người Hobbit {#The_Hobbit}
 
-#### The Lord of the Rings {#The_Lord_of_the_Rings}
+#### Chúa tể của những chiếc nhẫn {#The_Lord_of_the_Rings}
 
-#### Quay lại Oxford {#Back_in_Oxford}
+#### Trở lại Oxford {#Back_in_Oxford}
 
 ### Cái giá của sự nổi tiếng {#The_Price_of_Fame}
 
-#### The Silmarillion {#The_Silmarillion}
+#### Đồng bạc {#The_Silmarillion}
 
 <h4><span id="Voluntary_.22Hiding.22"></span><span class="mw-headline" id="Voluntary_&#34;Hiding&#34;">Voluntary &#34;Hiding&#34;</span></h4>
 
@@ -98,17 +98,17 @@ Kể từ khi gia đình [Tolkien](../T/Tolkien_Family.md) chuyển đến từ 
 
 #### John {#John}
 
-Tên *John* là một tùy chỉnh trong dòng [Tolkien](J.R.R._Tolkien.md). Nó thường được trao cho con trai cả của con trai cả. Cha của Tolkien, [Arthur](../A/Arthur_Tolkien.md), là con trai đầu lòng trong cuộc hôn nhân thứ hai của [John Benjamin](John_Benjamin_Tolkien.md); Người con trai đầu của cuộc hôn nhân đầu tiên John chết chỉ còn lại ba cô con gái. Kể từ thời điểm đó, cái tên *John* đã được truyền cho con cháu của Arthur.<sup id="cite_ref-L309_7-0" class="reference"><a href="#cite_note-L309-7">[7]</a></sup> Nó được truyền cho con trai đầu lòng của Tolkien, [John](John_Tolkien.md), người đã trở thành linh mục và không để lại con cái,<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> nên cái tên *John* thực sự đã mất đi ý nghĩa di truyền.
+Tên *John* là một tùy chỉnh trong dòng [Tolkien](J.R.R._Tolkien.md). Nó thường được trao cho con trai cả của con trai cả. Cha của Tolkien, [Arthur](../A/Arthur_Tolkien.md), là con trai đầu lòng trong cuộc hôn nhân thứ hai của [John Benjamin](John_Benjamin_Tolkien.md); Con trai đầu của cuộc hôn nhân đầu tiên, John, qua đời chỉ có ba cô con gái. Kể từ thời điểm đó, cái tên *John* đã được truyền cho con cháu của Arthur.<sup id="cite_ref-L309_7-0" class="reference"><a href="#cite_note-L309-7">[7]</a></sup> Nó được truyền cho con trai đầu lòng của Tolkien, [John](John_Tolkien.md), người đã trở thành linh mục và không để lại con cái,<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> nên cái tên *John* đã thực sự mất đi ý nghĩa di truyền.
 
-Cái tên này, mặc dù mang tính chất Romish, nhưng ban đầu không có ý nghĩa tôn giáo. Tuy nhiên, vì sinh nhật của ngài ([ngày 3 tháng 1](../_/3_January.md)) là <a class="extiw" href="http://en.wikipedia.org/wiki/Octave_(liturgical)" title="wikipedia:Octave (liturgical)">Octave</a> của <a class="extiw" href="http://en.wikipedia.org/wiki/John_the_Evangelist" title="wikipedia:John the Evangelist">John Nhà truyền giáo</a>nên Tolkien đã chọn ngài làm bổn mạng.<sup id="cite_ref-L309_7-1" class="reference"><a href="#cite_note-L309-7">[7]</a></sup>
+Cái tên này, mặc dù mang tính chất Romish, nhưng ban đầu không có ý nghĩa tôn giáo. Tuy nhiên, vì sinh nhật của ông ([ngày 3 tháng 1](../_/3_January.md)) là <a class="extiw" href="http://en.wikipedia.org/wiki/Octave_(liturgical)" title="wikipedia:Octave (liturgical)">Octave</a> của <a class="extiw" href="http://en.wikipedia.org/wiki/John_the_Evangelist" title="wikipedia:John the Evangelist">John the Evangelist</a>nên Tolkien đã chọn ông làm người bảo trợ của mình.<sup id="cite_ref-L309_7-1" class="reference"><a href="#cite_note-L309-7">[7]</a></sup>
 
 #### Ronald {#Ronald}
 
-Lựa chọn đầu tiên của Arthur Tolkien cho đứa con thứ hai của con trai cả là Benjamin, sau cha anh. Mẹ của Tolkien, [Mabel](../M/Mabel_Suffield.md), người tự tin rằng mình sẽ có con gái, đã chọn *Rosalind*. Điều này sẽ trở thành *Ronald* khi đứa trẻ hóa ra là con trai.<sup id="cite_ref-L309_7-2" class="reference"><a href="#cite_note-L309-7">[7]</a></sup> Tolkien thường sử dụng tên này làm tên đầu tiên của mình; hầu hết các bức thư của anh ấy gửi cho [Edith](../E/Edith_Tolkien.md) đều có chữ ký *Ronald*hoặc đơn giản là *R.*.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
+Lựa chọn đầu tiên của Arthur Tolkien cho đứa con thứ hai của con trai cả là Benjamin, sau cha anh. Mẹ của Tolkien, [Mabel](../M/Mabel_Suffield.md), người tự tin rằng mình sẽ có con gái nên đã chọn *Rosalind*. Điều này sẽ trở thành *Ronald* khi đứa trẻ hóa ra là con trai.<sup id="cite_ref-L309_7-2" class="reference"><a href="#cite_note-L309-7">[7]</a></sup> Tolkien thường sử dụng tên này làm tên đầu tiên của mình; hầu hết các bức thư của ông gửi cho [Edith](../E/Edith_Tolkien.md) đều có chữ ký *Ronald* hoặc đơn giản là *R.*.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
 
 #### Tiếp nhiên liệu {#Reuel}
 
-Bất chấp <a class="extiw" href="http://en.wikipedia.org/wiki/Raguel_(name)" title="wikipedia:Raguel (name)">ý nghĩa Kinh thánh rõ ràng</a>, cái tên *Reuel* không đến từ bất kỳ người nào được đề cập trong Kinh thánh; thay vào đó, đó là họ của một người bạn của John Benjamin.<sup id="cite_ref-L309_7-3" class="reference"><a href="#cite_note-L309-7">[7]</a></sup> Ông đã đưa nó cho con trai mình là Arthur và cả hai con trai của ông, John và [Hilary](../H/Hilary_Tolkien.md) đều có nó. Thậm chí hầu hết con trai và cháu trai của họ đều mắc bệnh này. Mặc dù người bạn của gia đình này chưa bao giờ được xác định danh tính, Tolkien nhớ lại cái tên này có nguồn gốc từ Norman.<sup id="cite_ref-L309_7-4" class="reference"><a href="#cite_note-L309-7">[7]</a></sup> Theo cách hiểu này, nó có thể là sự thu gọn ban đầu của họ *Rouel*, có nghĩa là "(người tạo ra) bánh xe nhỏ/vật thể hình tròn".<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> "kinh thánh" *Reuel* có nghĩa là "Người bạn của Chúa".<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>
+Bất chấp <a class="extiw" href="http://en.wikipedia.org/wiki/Raguel_(name)" title="wikipedia:Raguel (name)">ý nghĩa Kinh thánh rõ ràng</a>, cái tên *Reuel* không đến từ bất kỳ người nào được đề cập trong Kinh thánh; thay vào đó, đó là họ của một người bạn của John Benjamin.<sup id="cite_ref-L309_7-3" class="reference"><a href="#cite_note-L309-7">[7]</a></sup> Ông đã đưa nó cho con trai mình là Arthur, và cả hai con trai của ông, John và [Hilary](../H/Hilary_Tolkien.md) đều có họ. Thậm chí hầu hết con trai và cháu trai của họ đều mắc bệnh này. Mặc dù người bạn của gia đình này chưa bao giờ được xác định, nhưng Tolkien nhớ lại cái tên này có nguồn gốc từ Norman.<sup id="cite_ref-L309_7-4" class="reference"><a href="#cite_note-L309-7">[7]</a></sup> Theo cách hiểu này, nó có thể là sự thu gọn ban đầu của họ *Rouel*, có nghĩa là "(người tạo ra) bánh xe nhỏ/vật thể hình tròn".<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> "kinh thánh" *Reuel* có nghĩa là "Người bạn của Chúa".<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>
 
 #### Tolkien {#Tolkien_2}
 
@@ -130,7 +130,7 @@ Bất chấp <a class="extiw" href="http://en.wikipedia.org/wiki/Raguel_(name)" 
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1992: <i><a href="../T/Tales_from_the_Perilous_Realm_(1992_radio_series).md" title="Tales from the Perilous Realm (1992 radio series)">Tales from the Perilous Realm</a></i></b>
+<b>1992: <i><a href="../T/Tales_from_the_Perilous_Realm_(1992_radio_series).md" title="Tales from the Perilous Realm (1992 radio series)">Những câu chuyện từ cõi nguy hiểm</a></i></b>
 
 <dl><dd><a href="../M/Michael_Hordern.md" title="Michael Hordern">Sir Michael Hordern</a>, who had previously played <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> in the <a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)">1981 radio series of <i>The Lord of the Rings</i></a>, serves as narrator, who is identified as &#34;Tolkien&#34; in the credits, to all episodes.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> He provides the narration, paired with the main characters of each segment: <a href="../B/Brian_Blessed.md" title="Brian Blessed">Brian Blessed</a> as <a href="../F/Farmer_Giles.md" title="Farmer Giles">Farmer Giles</a>,<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> <a class="new" href="https://tolkiengateway.net/w/index.php?title=Paul_Copley&amp;action=edit&amp;redlink=1" title="Paul Copley (page does not exist)">Paul Copley</a> as <a class="new" href="https://tolkiengateway.net/w/index.php?title=Smith&amp;action=edit&amp;redlink=1" title="Smith (page does not exist)">Smith</a>,<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> <a class="new" href="https://tolkiengateway.net/w/index.php?title=Alfred_Molina&amp;action=edit&amp;redlink=1" title="Alfred Molina (page does not exist)">Alfred Molina</a> as <a href="../N/Niggle.md" title="Niggle">Niggle</a>,<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> and <a class="new" href="https://tolkiengateway.net/w/index.php?title=Nigel_Planer&amp;action=edit&amp;redlink=1" title="Nigel Planer (page does not exist)">Nigel Planer</a> and <a class="new" href="https://tolkiengateway.net/w/index.php?title=Jonathan_Adams&amp;action=edit&amp;redlink=1" title="Jonathan Adams (page does not exist)">Jonathan Adams</a> as <a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo</a> and <a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Sam</a>.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup></dd></dl>
 
@@ -144,7 +144,7 @@ Bất chấp <a class="extiw" href="http://en.wikipedia.org/wiki/Raguel_(name)" 
 
 <dl><dd>In this film, also about Lewis, <a class="external text" href="http://www.imdb.com/name/nm1758026/" rel="noreferrer noopener" target="_blank">Ben Lambert</a> and <a class="external text" href="http://www.imdb.com/name/nm0383000/" rel="noreferrer noopener" target="_blank">Robert Hickson</a> play the younger and older Tolkien.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup></dd></dl>
 
-<b>2009: Quái vật của <i><a href="../T/Tolkien&#39;s_Monsters.md" title="Tolkien&#39;s Monsters">Tolkien</a></i>:</b>
+<b>2009: <i><a href="../T/Tolkien&#39;s_Monsters.md" title="Tolkien&#39;s Monsters">Quái vật của Tolkien</a></i>:</b>
 
 <dl><dd>Two uncredited actors portray Tolkien in this episode; one for the War years (aged 24) and one for the years beyond (aged 36).<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup> The latter sports a mustache while the former is clean shaven; an inversion of history. During the war, Tolkien had a mustache, but later images show he shaved it off.</dd></dl>
 
@@ -158,16 +158,16 @@ Tất cả sách và tiểu luận được viết bởi Tolkien.<sup id="cite_r
 
 - **[Ngày 11 tháng 5](../_/11_May.md), [1922](../_/1922.md)** : *[A Middle English Vocabulary](../A/A_Middle_English_Vocabulary.md)*
 - **[Ngày 1 tháng 7](../_/1_July.md), [1937](../_/1937.md)**: *[Beowulf: The Monsters and the Critics](../B/Beowulf%253A_The_Monsters_and_the_Critics.md)*
-- **[ngày 21 tháng 9](../_/21_September.md), [1937](../_/1937.md)**: *[The Hobbit](../T/The_Hobbit.md)*
+- **[Ngày 21 tháng 9](../_/21_September.md), [1937](../_/1937.md)**: *[The Hobbit](../T/The_Hobbit.md)*
 - **[20 tháng 10](../_/20_October.md), [1949](../_/1949.md)**: *[Farmer Giles of Ham](../F/Farmer_Giles_of_Ham.md)*
 - **[29 tháng 7](../_/29_July.md), [1954](../_/1954.md)**: *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)*
 - **[Ngày 11 tháng 11](../_/11_November.md), [1954](../_/1954.md)**: *[The Two Towers](../T/The_Two_Towers.md)*
 - **[Ngày 20 tháng 10](../_/20_October.md), [1955](../_/1955.md)**: *[The Return of the King](../T/The_Return_of_the_King.md)*
 - **[Ngày 22 tháng 11](../_/22_November.md), [1962](../_/1962.md)**: *[The Adventures of Tom Bombadil](../T/The_Adventures_of_Tom_Bombadil.md)*
 - **[28 tháng 5](../_/28_May.md), [1964](../_/1964.md)**: *[Tree and Leaf](../T/Tree_and_Leaf.md)*
-- **[tháng Chín](../S/September.md), [1966](../_/1966.md)**: *[The Tolkien Reader](../T/The_Tolkien_Reader.md)*
+- **[Tháng 9](../S/September.md), [1966](../_/1966.md)**: *[The Tolkien Reader](../T/The_Tolkien_Reader.md)*
 - **[Ngày 9 tháng 11](../_/9_November.md), [1967](../_/1967.md)**: *[Smith of Wootton Major](../S/Smith_of_Wootton_Major.md)*
-- **[Tháng 3](../M/March.md), [1969](../_/1969.md)**: <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Smith_of_Wootton_Major_and_Farmer_Giles_of_Ham&amp;action=edit&amp;redlink=1" title="Smith of Wootton Major and Farmer Giles of Ham (page does not exist)">Smith của Wootton Major và Farmer Giles of Ham</a></i>
+- **[Tháng 3](../M/March.md), [1969](../_/1969.md)**: <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Smith_of_Wootton_Major_and_Farmer_Giles_of_Ham&amp;action=edit&amp;redlink=1" title="Smith of Wootton Major and Farmer Giles of Ham (page does not exist)">Smith của Wootton Thiếu tá và Nông dân Giles của Ham</a></i>
 
 #### Khác {#Other}
 

@@ -18,13 +18,13 @@ langlinks:
     url: "https://kontu.wiki/Markin_ensimm%C3%A4inen_marsalkka"
 ---
 
-**Nguyên soái đầu tiên của Riddermark** là nguyên soái đầu tiên như vậy, cấp bậc quân sự cao nhất trong số [Kỵ sĩ của Rohan](../_/Éored.md) và là cấp bậc trung úy của [Vua Rohan](../K/King_of_Rohan.md).
+**Nguyên soái đầu tiên của Riddermark** là Thống chế đầu tiên như vậy, cấp bậc quân sự cao nhất trong số [Kỵ sĩ Rohan](../_/Éored.md) và là cấp bậc trung úy của [Vua Rohan](../K/King_of_Rohan.md).
 
-Nhiệm vụ của Thống chế thứ nhất là chỉ huy [Người tập hợp Edoras](../M/Muster_of_Edoras.md), bao gồm các Kỵ sĩ của thủ đô [Edoras](../E/Edoras.md) và [các vùng đất xung quanh](Folde.md), bao gồm cả [Vua Vùng đất](../K/King's_Lands.md) và [Harrowdale](../H/Harrowdale.md). Điều này trái ngược với nhiệm vụ của các nguyên soái [thứ hai](../S/Second_Marshal_of_the_Riddermark.md) và [thứ ba](../T/Third_Marshal_of_the_Riddermark.md), những người được Vua giao nhiệm vụ theo thời gian yêu cầu.<sup id="cite_ref-:0_1-0" class="reference"><a href="#cite_note-:0-1">[1]</a></sup>
+Nhiệm vụ của Thống chế thứ nhất là chỉ huy [Muster of Edoras](../M/Muster_of_Edoras.md), bao gồm các Kỵ sĩ của thủ đô [Edoras](../E/Edoras.md) và [các vùng đất xung quanh](Folde.md), bao gồm [Vùng đất của Vua](../K/King's_Lands.md) và [Harrowdale](../H/Harrowdale.md). Điều này trái ngược với nhiệm vụ của các nguyên soái [thứ hai](../S/Second_Marshal_of_the_Riddermark.md) và [thứ ba](../T/Third_Marshal_of_the_Riddermark.md), những người được Nhà vua giao nhiệm vụ theo yêu cầu của thời đại.<sup id="cite_ref-:0_1-0" class="reference"><a href="#cite_note-:0-1">[1]</a></sup>
 
-## Trong Cuộc chiến Nhẫn {#During_the_War_of_the_Ring}
+## Trong Cuộc chiến nhẫn {#During_the_War_of_the_Ring}
 
-Lên ngôi khi còn khá trẻ, Vua [Théoden](../T/Théoden.md), Vua Rohan thứ mười bảy, đã tự mình lãnh đạo Kỵ sĩ Muster của Edoras, do đó không cần Thống chế thứ nhất, ngay cả trong thời chiến. Sau đó, khi Vua rơi vào quyền lực của [Saruman](../S/Saruman.md), [Gríma Wormtongue](../G/Gríma.md) đã làm việc để đảm bảo rằng không có Nguyên soái thứ nhất nào được bổ nhiệm, để lại khoảng trống quyền lực cho anh ta khai thác. Vì thế mà vào thời [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md) chưa có Nguyên soái thứ nhất của Riddermark.<sup id="cite_ref-:0_1-1" class="reference"><a href="#cite_note-:0-1">[1]</a></sup> <span></span>
+Lên ngôi khi còn khá trẻ, Vua [Théoden](../T/Théoden.md), Vua thứ mười bảy của Rohan, đã tự mình lãnh đạo các Kỵ sĩ của Muster of Edoras, do đó không cần Thống chế thứ nhất, ngay cả trong thời chiến. Sau đó, khi Nhà vua rơi vào quyền lực của [Saruman](../S/Saruman.md), [Gríma Wormtongue](../G/Gríma.md) đã làm việc để đảm bảo rằng không có Nguyên soái thứ nhất nào được bổ nhiệm, để lại khoảng trống quyền lực cho ông ta khai thác. Do đó, vào thời điểm diễn ra [Chiến tranh Nhẫn](../W/War_of_the_Ring.md), không có Nguyên soái thứ nhất của Riddermark.<sup id="cite_ref-:0_1-1" class="reference"><a href="#cite_note-:0-1">[1]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

@@ -11,4 +11,4 @@ redirect_target: "Lord of Andúnië"
 redirect_fragment: "List of Lords"
 ---
 
-Chuyển hướng đến [Lãnh chúa Andúnië](Lord_of_Andúnië.md#List_of_Lords).
+Chuyển hướng đến [Chúa tể Andúnië](Lord_of_Andúnië.md#List_of_Lords).

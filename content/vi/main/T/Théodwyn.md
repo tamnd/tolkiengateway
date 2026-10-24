@@ -60,13 +60,13 @@ infobox:
 
 ## Lịch sử {#History}
 
-Théodwyn là một phụ nữ quý tộc của [Rohan](../R/Rohan.md), em gái của [Théoden](Théoden.md), đồng thời là con gái của [Thengel](Thengel.md) và [Morwen Steelsheen](../M/Morwen_Steelsheen.md). Cô đã kết hôn với [Éomund](../_/Éomund.md) của [Eastfold](../E/Eastfold.md) ở [T.A.](Third_Age.md) [2989](Third_Age_2989.md). Con trai Éomer của cô sinh năm [2991](Third_Age_2991.md)và con gái Éowyn sinh năm [2995](Third_Age_2995.md).
+Théodwyn là một phụ nữ quý tộc của [Rohan](../R/Rohan.md), em gái của [Théoden](Théoden.md), và là con gái của [Thengel](Thengel.md) và [Morwen Steelsheen](../M/Morwen_Steelsheen.md). Cô đã kết hôn với [Éomund](../_/Éomund.md) của [Eastfold](../E/Eastfold.md) ở [T.A.](Third_Age.md) [2989](Third_Age_2989.md). Con trai Éomer của cô sinh năm [2991](Third_Age_2991.md), và con gái Éowyn của cô sinh năm [2995](Third_Age_2995.md).
 
-Éomund bị giết vào năm [3002](Third_Age_3002.md). Không lâu sau Théodwyn chết vì bạo bệnh. Théoden nuôi hai đứa con sau khi bà qua đời.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Éomund bị giết vào năm [3002](Third_Age_3002.md). Không lâu sau Théodwyn chết vì bạo bệnh. Théoden đã nuôi hai đứa con sau khi bà qua đời.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Théodwyn* là [tiếng Anh cổ](../O/Old_English.md) nghĩa là “niềm vui của nhân dân”.
+*Théodwyn* là [tiếng Anh cổ](../O/Old_English.md) có nghĩa là "niềm vui của nhân dân".
 
 ## Phả hệ {#Genealogy}
 

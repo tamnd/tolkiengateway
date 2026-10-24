@@ -16,7 +16,7 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/E/Elena_Kukanova_-_Galadriel.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/56/Elena_Kukanova_-_Galadriel.jpg/250px-Elena_Kukanova_-_Galadriel.jpg" decoding="async" loading="lazy" width="250" height="367" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/56/Elena_Kukanova_-_Galadriel.jpg/375px-Elena_Kukanova_-_Galadriel.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/5/56/Elena_Kukanova_-_Galadriel.jpg/500px-Elena_Kukanova_-_Galadriel.jpg 2x" data-file-width="586" data-file-height="860"/></a><figcaption><i>Galadriel</i> by <a href="../E/Elena_Kukanova.md" title="Elena Kukanova">Elena Kukanova</a></figcaption></figure>
 
-Mái tóc **của Galadriel** được mô tả là có màu vàng pha chút bạc và dường như tỏa sáng dưới [ánh sáng](../L/Light.md) của [Hai Cây của Valinor](../T/Two_Trees_of_Valinor.md).
+**Mái tóc của Galadriel** được mô tả là có màu vàng pha chút bạc và dường như tỏa sáng dưới [ánh sáng](../L/Light.md) của [Hai Cây Valinor](../T/Two_Trees_of_Valinor.md).
 
 ## Lịch sử {#History}
 
@@ -26,20 +26,20 @@ Mái tóc **của Galadriel** được mô tả là có màu vàng pha chút b�
 <p class="tg-quote-footer"><cite><i><a href="../U/Unfinished_Tales.md" title="Unfinished Tales">Unfinished Tales</a></i>, &#34;<a href="../T/The_History_of_Galadriel_and_Celeborn.md" title="The History of Galadriel and Celeborn">The History of Galadriel and Celeborn</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-Nhiều người nghĩ rằng điều này ban đầu mang lại cho [Fëanor](../F/Fëanor.md) ý tưởng giam cầm và hòa trộn ánh sáng của Cây cối, sau này trở thành [Silmaril](../S/Silmarils.md). Anh ngưỡng mộ mái tóc của cô đến mức đã ba lần xin một lọn tóc nhưng lần nào cô cũng từ chối và không đưa cho anh dù chỉ một sợi tóc.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Nhiều người nghĩ rằng điều này ban đầu đã mang đến cho [Fëanor](../F/Fëanor.md) ý tưởng giam cầm và hòa trộn ánh sáng của Cây, sau này trở thành [Silmarils](../S/Silmarils.md). Anh ngưỡng mộ mái tóc của cô đến mức đã ba lần xin một lọn tóc nhưng lần nào cô cũng từ chối và không đưa cho anh dù chỉ một sợi tóc.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Một thiên niên kỷ sau, [Gimli](../G/Gimli.md) người [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) được hỏi anh ấy muốn [món quà](../G/Gifts_of_Galadriel.md) nào trước khi rời đi [Lothlórien](../L/Lothlórien.md), và anh ấy đã trả lời:
+Một thiên niên kỷ sau, [Gimli](../G/Gimli.md) của [Fellowship of the Ring](../F/Fellowship_of_the_Ring.md) được hỏi ông muốn [món quà](../G/Gifts_of_Galadriel.md) nào trước khi rời [Lothlórien](../L/Lothlórien.md), và ông đã trả lời:
 
 <blockquote class="tg-quote noexcerpt">
 <p>&#39; There is nothing, Lady Galadriel&#39;, said Gimli, bowing low and stammering. &#39;Nothing, unless it might be - unless it is permitted to ask, nay, to name a single strand of your hair, which surpasses the gold of the earth as the stars surpass the gems of the mine. I do not ask for such a gift. But you commanded me to name my desire&#39;.
 </p>
 </blockquote>
 
-Câu trả lời của Galadriel khiến tất cả [Tiên tộc](../E/Elves.md) ngạc nhiên: cô đã đáp ứng điều ước của Gimli và đưa cho anh ba sợi tóc vàng của cô, Gimli hứa sẽ cài thành pha lê như một "*lời cam kết thiện chí giữa Núi và Rừng cho đến ngày tận thế.*"<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Câu trả lời của Galadriel khiến tất cả [Yêu tinh](../E/Elves.md) ngạc nhiên: cô đáp ứng điều ước của Gimli và đưa cho anh ba sợi tóc vàng của cô, mà Gimli hứa sẽ cài thành pha lê như một "*lời cam kết thiện chí giữa Ngọn núi và Rừng cho đến ngày tận thế.*"<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong bản nháp đầu tiên của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, không có đoạn hội thoại nào giữa Galadriel và Gimli khi cô ấy tặng quà cho Công ty.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Trong bản nháp sau, khi Gimli được hỏi, anh ấy trả lời Galadriel rằng anh ấy hài lòng khi được gặp cô ấy. Sau đó, cô ấy tự mình tháo một chiếc trâm cài, một viên ngọc lục bảo dát vàng, và đưa nó cho anh ấy. Gimli đã cố gắng đặt tên *[Elfstone](../E/Elfstone.md)* cho chính mình, nhưng anh đã bị [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) ngăn lại, người đã quyết định sử dụng tên đó cho [Aragorn](../A/Aragorn.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Trong bản nháp đầu tiên của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, không có đoạn hội thoại nào giữa Galadriel và Gimli khi cô tặng quà cho Công ty.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Trong bản nháp sau, khi Gimli được hỏi, anh trả lời Galadriel rằng anh rất hài lòng khi được gặp cô. Sau đó, bà tự mình tháo một chiếc trâm cài, một viên ngọc lục bảo dát vàng, và đưa nó cho ông. Gimli cố gắng đặt cái tên *[Elfstone](../E/Elfstone.md)* cho chính mình nhưng bị [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) ngăn lại, người đã quyết định sử dụng cái tên đó cho [Aragorn](../A/Aragorn.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 <span></span>
 

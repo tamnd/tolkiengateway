@@ -32,7 +32,7 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the son of <a href="../_/Ælfwine.md" title="Ælfwine">Ælfwine</a></b>. For the father of Ælfwine, see <b><a href="../_/Éadwine.md" title="Éadwine">Éadwine</a></b>.</div></div>
 
-**Eädwine** (còn gọi là **Eadwine**), trong các phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md), là con trai của [Ælfwine](../_/Ælfwine.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Eädwine** (cũng là **Eadwine**), trong các phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md), là con trai của [Ælfwine](../_/Ælfwine.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

@@ -32,8 +32,8 @@ Tạp chí được xuất bản bốn lần một năm (khoảng 50 trang mỗi
 
 <small> </small>
 
-<small><dl><dd><dl><dd><ul><li><a href="../L/Lars-Terje_Lysemose.md" title="Lars-Terje Lysemose">Lars-Terje Lysemose</a>, "<a class="external text" href="http://www.imladris.dk/?id=16&amp;show=93" rel="noreferrer noopener" target="_blank">Historien om Imladris - Danmarks Tolkienforening (Den lange udgave) 11 tháng Chín 2005</a>" ("Lịch sử của Imladris, Tolkien Hiệp hội Đan Mạch (Câu chuyện dài)", bài viết trực tuyến, kể từ ngày 22 tháng 7 năm 2010</li>
-<li>Richard Leyton "<a class="external text" href="http://tolklang.quettar.org/tolkien.societies" rel="noreferrer noopener" target="_blank">Danh sách các tổ chức trên toàn thế giới Tolkien, Ấn bản 2 - 21/02/1995</a>", bài viết trực tuyến, kể từ ngày 22 tháng 7 năm 2010</li></ul></dd></dl></dd></dl></small>
+<small><dl><dd><dl><dd><ul><li><a href="../L/Lars-Terje_Lysemose.md" title="Lars-Terje Lysemose">Lars-Terje Lysemose</a>, "<a class="external text" href="http://www.imladris.dk/?id=16&amp;show=93" rel="noreferrer noopener" target="_blank">Historien om Imladris - Danmarks Tolkienforening (Den lange udgave) 11 tháng 9 năm 2005</a>" ("Lịch sử của Imladris, Hiệp hội Tolkien của Đan Mạch) (Câu chuyện dài)", bài viết trực tuyến, tính đến ngày 22 tháng 7 năm 2010</li>
+<li>Richard Leyton "<a class="external text" href="http://tolklang.quettar.org/tolkien.societies" rel="noreferrer noopener" target="_blank">Danh sách các tổ chức Tolkien trên toàn thế giới, Phiên bản 2 - 21/02/1995</a>", bài viết trực tuyến, kể từ ngày 22 tháng 7 năm 2010</li></ul></dd></dl></dd></dl></small>
 
 <small></small>
 

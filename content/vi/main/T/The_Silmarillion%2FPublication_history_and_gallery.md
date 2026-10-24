@@ -92,10 +92,10 @@ Dưới đây là danh sách *major* **ấn bản tại Vương quốc Anh** c�
 		</li>
 </ul>
 
-- [1977](../_/1977.md): [George Allen &amp; Unwin](../G/George_Allen_&_Unwin.md), bìa cứng, trang 365. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0048231398">ISBN 0048231398</a> - (bìa dựa trên tác phẩm nghệ thuật của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md))
+- [1977](../_/1977.md): [George Allen & Unwin](../G/George_Allen_&_Unwin.md), bìa cứng, trang 365. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0048231398">ISBN 0048231398</a> - (bìa dựa trên tác phẩm nghệ thuật của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md))
     - Một số được bảo lưu và phát hành dưới dạng [1982](../_/1982.md) ấn bản dành cho người sưu tầm trong hộp đựng, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0048232238">ISBN 0048232238</a>
-- [1979](../_/1979.md): [Unwin Paperbacks](../U/Unwin_Paperbacks.md), bìa mềm, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0048231533">ISBN 0048231533</a>
-- [1983](../_/1983.md): Unicorn / Unwin Paperbacks, bìa mềm, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0048232300">ISBN 0048232300</a> - (ảnh bìa của [Roger Garland](../R/Roger_Garland.md))
+- [1979](../_/1979.md): [Bỏ sách bìa mềm](../U/Unwin_Paperbacks.md), sách bìa mềm, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0048231533">ISBN 0048231533</a>
+- [1983](../_/1983.md): Unicorn / Unwin Bìa mềm, bìa mềm, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0048232300">ISBN 0048232300</a> - (ảnh bìa của [Roger Garland](../R/Roger_Garland.md))
     - Ấn bản bìa mềm năm 1983, lần in thứ 7 ([1987](../_/1987.md))
 
 ## 1990-2000 {#1990-2000}
@@ -176,8 +176,8 @@ Dưới đây là danh sách *major* **ấn bản tại Vương quốc Anh** c�
 - [1992](../_/1992.md): [HarperCollins](../H/HarperCollins.md) bìa cứng, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0261102427">ISBN 0261102427</a> - (ảnh bìa của [John Howe](../J/John_Howe.md))
 - [1994](../_/1994.md): [HarperCollins](../H/HarperCollins.md) bìa mềm, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0261102737">ISBN 0261102737</a>
 - [1998](../_/1998.md): [HarperCollins](../H/HarperCollins.md) bìa cứng, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0261103660">ISBN 0261103660</a> - (minh họa bởi [Ted Nasmith](Ted_Nasmith.md))
-- [1998](../_/1998.md): [HarperCollins](../H/HarperCollins.md) bìa cứng đựng trong hộp, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0261103733">ISBN 0261103733</a> - (minh họa bởi Ted Nasmith)
-- [1999](../_/1999.md): Ấn bản bìa cứng năm 1992, thiết lập lại năm 1999 - (ảnh bìa của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md))
+- [1998](../_/1998.md): [HarperCollins](../H/HarperCollins.md) bìa cứng đựng trong hộp đựng, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0261103733">ISBN 0261103733</a> - (minh họa bởi Ted Nasmith)
+- [1999](../_/1999.md): Ấn bản bìa cứng năm 1992, tái bản năm 1999 - (ảnh bìa của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md))
 - [1999](../_/1999.md): [HarperCollins](../H/HarperCollins.md) bìa mềm, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0261102443">ISBN 0261102443</a>
 - [1999](../_/1999.md): Ấn bản bìa mềm năm 1994, tái bản năm 1999 - (ảnh bìa của Ted Nasmith)
     - Ấn bản bìa mềm năm 1999, ấn bản thứ 5 - (được phát hành dưới dạng [2001](../_/2001.md) ấn bản dành cho nhà sưu tập bìa cứng)
@@ -316,11 +316,11 @@ Dưới đây là danh sách *major* **ấn bản tại Vương quốc Anh** c�
 - [2013](../_/2013.md): Ấn bản bìa mềm năm 1999, lần thứ 67? ấn tượng - (bìa dựa trên tác phẩm nghệ thuật của J.R.R. Tolkien)
 - [2013](../_/2013.md): [HarperCollins](../H/HarperCollins.md) bìa mềm, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/000752322X">ISBN 000752322X</a>
 - [2021](../_/2021.md): [HarperCollins](../H/HarperCollins.md) bìa cứng, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0008433941">ISBN 0008433941</a> - (minh họa bởi [Ted Nasmith](Ted_Nasmith.md))
-- [2021](../_/2021.md): [HarperCollins](../H/HarperCollins.md) bìa cứng đựng trong hộp, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/000843395X">ISBN 000843395X</a> - (minh họa bởi Ted Nasmith)
+- [2021](../_/2021.md): [HarperCollins](../H/HarperCollins.md) bìa cứng đựng trong hộp đựng, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/000843395X">ISBN 000843395X</a> - (minh họa bởi Ted Nasmith)
 - [2022](../_/2022.md): [HarperCollins](../H/HarperCollins.md) bìa cứng, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0008537895">ISBN 0008537895</a> - (minh họa bởi [tác giả](../J/J.R.R._Tolkien.md))
-- [2022](../_/2022.md): [HarperCollins](../H/HarperCollins.md) bìa cứng đựng trong hộp, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0008537909">ISBN 0008537909</a> - (do tác giả minh họa)
+- [2022](../_/2022.md): [HarperCollins](../H/HarperCollins.md) bìa cứng đựng trong hộp đựng, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0008537909">ISBN 0008537909</a> - (do tác giả minh họa)
 - [2023](../_/2023.md): [HarperCollins](../H/HarperCollins.md) bìa cứng với áo khoác chống bụi có thể đảo ngược, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/9780008663124">ISBN 978-0008663124</a> - ([Bộ đóng hộp thế kỷ](../C/Centenary_Boxed_Sets.md) #1)
-- [2024](../_/2024.md): [HarperCollins](../H/HarperCollins.md) bìa cứng không áo khoác, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0008669147">ISBN 0008669147</a> - (phiên bản sưu tập)
+- [2024](../_/2024.md): [HarperCollins](../H/HarperCollins.md) bìa cứng không áo khoác, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0008669147">ISBN 0008669147</a> - (ấn bản của người sưu tập)
 - [2024](../_/2024.md): Ấn bản bìa mềm năm 2013, in lần thứ 22
 - [2025](../_/2025.md): [HarperCollins](../H/HarperCollins.md) bìa mềm, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/9780008775919">ISBN 978-0008775919</a> - (ấn bản in khổ lớn)
 
@@ -343,5 +343,5 @@ Dưới đây là danh sách *major* **ấn bản tại Vương quốc Anh** c�
 		</li>
 </ul>
 
-- [2002](../_/2002.md): [HarperCollins](../H/HarperCollins.md) sách nói, được đọc bởi [Martin Shaw](../M/Martin_Shaw.md), ISBN B016N9U37Q
-- [2023](../_/2023.md): [HarperCollins](../H/HarperCollins.md) sách nói, được đọc bởi [Andy Serkis](../A/Andy_Serkis.md), ISBN B0C5MQNGF8
+- [2002](../_/2002.md): [Sách nói HarperCollins](../H/HarperCollins.md), được đọc bởi [Martin Shaw](../M/Martin_Shaw.md), ISBN B016N9U37Q
+- [2023](../_/2023.md): [Sách nói HarperCollins](../H/HarperCollins.md), được đọc bởi [Andy Serkis](../A/Andy_Serkis.md), ISBN B0C5MQNGF8

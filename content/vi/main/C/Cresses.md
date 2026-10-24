@@ -12,15 +12,15 @@ categories:
   - "Plants"
 ---
 
-**Cải xoong** là một loại cây mọc ven suối ở [Rohan](../R/Rohan.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Cải xoong** là một loại thực vật mọc dọc theo các con suối ở [Rohan](../R/Rohan.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Cảm hứng {#Inspiration}
 
-Loại cải xoong cụ thể gặp trong Rohan có thể là cải xoong.<sup id="cite_ref-flora_2-0" class="reference"><a href="#cite_note-flora-2">[2]</a></sup>
+Loại cải xoong cụ thể gặp ở Rohan có khả năng là cải xoong.<sup id="cite_ref-flora_2-0" class="reference"><a href="#cite_note-flora-2">[2]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1984-1997: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i></b>
+<b>1984-1997: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Nhập vai Trung Địa</a></i></b>
 
 <dl><dd><i><b>Golden Cress</b></i> (<a href="../S/Sindarin.md" title="Sindarin">S.</a> <i>Melbis</i>, <a href="../Q/Quenya.md" title="Quenya">Q.</a> <i>Malquessi</i>), also known as <i>Gold Chute</i>, was a fernlike riverside herb, found almost exclusively in the Vale of <a href="../E/Erech.md" title="Erech">Erech</a> and <a href="../B/Blackroot_Vale.md" title="Blackroot Vale">Blackroot Vale</a>. Prepared into ointment, it helped heal bleeding wounds. <sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></dd></dl>
 

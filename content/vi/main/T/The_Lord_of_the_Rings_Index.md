@@ -25,9 +25,9 @@ images:
 <p class="tg-quote-footer"><cite><a href="../G/Glóin.md" title="Glóin">Glóin</a></cite></p>
 </blockquote></div></div>
 
-**Chỉ mục** được xuất bản lần đầu tiên trong ấn bản Ballantine Books của *[The Lord of the Rings](The_Lord_of_the_Rings.md)* vào năm 1965. Chỉ mục này là bản sửa đổi của một chỉ mục do [Nancy Smith](../N/Nancy_Smith.md) biên soạn trong [1958](../_/1958.md) dựa trên các yêu cầu của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) về "danh sách theo thứ tự bảng chữ cái của tất cả tên riêng của người, địa điểm hoặc sự vật .. trong *text* (bao gồm Lời nói đầu và Lời mở đầu, nhưng *not* các phụ lục)”. Nó được kết hợp với danh mục các bài hát và câu thơ do [Baillie Klass](../B/Baillie_Klass.md) biên soạn.<sup id="cite_ref-Index_1-0" class="reference"><a href="#cite_note-Index-1">[1]</a></sup>
+**Chỉ mục** được xuất bản lần đầu tiên trong ấn bản Ballantine Books của *[The Lord of the Rings](The_Lord_of_the_Rings.md)* vào năm 1965. Chỉ mục này là bản sửa đổi của một chỉ mục do [Nancy Smith](../N/Nancy_Smith.md) biên soạn trong [1958](../_/1958.md) dựa trên các yêu cầu của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đối với "danh sách theo thứ tự chữ cái của tất cả tên riêng của người, địa điểm hoặc sự vật .. trong *text* (bao gồm Lời nói đầu và Lời mở đầu, nhưng *not* các Phụ lục)". Nó được kết hợp với danh mục các bài hát và câu thơ do [Baillie Klass](../B/Baillie_Klass.md) biên soạn.<sup id="cite_ref-Index_1-0" class="reference"><a href="#cite_note-Index-1">[1]</a></sup>
 
-[J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã thêm một số ghi chú và 'bản dịch' cũng như các trích dẫn chọn lọc vào phần phụ lục của mục lục cho Allen &amp; Unwin ấn bản thứ hai của [1966](../_/1966.md).<sup id="cite_ref-Index_1-1" class="reference"><a href="#cite_note-Index-1">[1]</a></sup>
+[J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã thêm một số ghi chú và 'bản dịch' cũng như các trích dẫn chọn lọc vào phần phụ lục của mục lục cho ấn bản thứ hai của Allen & Unwin của [1966](../_/1966.md).<sup id="cite_ref-Index_1-1" class="reference"><a href="#cite_note-Index-1">[1]</a></sup>
 
 Trong [2005](../_/2005.md), chỉ mục mới, mở rộng<sup id="cite_ref-Index_1-2" class="reference"><a href="#cite_note-Index-1">[1]</a></sup> được biên soạn bởi [Wayne G. Hammond](../W/Wayne_G._Hammond.md) và [Christina Scull](../C/Christina_Scull.md) độc lập với chỉ mục trước đó, nhưng các ghi chú và bản dịch bổ sung của J.R.R. Tolkien được giữ lại trong dấu ngoặc vuông.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
@@ -36,8 +36,8 @@ Trong [2005](../_/2005.md), chỉ mục mới, mở rộng<sup id="cite_ref-Inde
 - Bài hát và câu thơ
     - (a) \[*Titles*\]
     - (b) *First Lines*
-- II Người, Thú và Quái Vật
-- III Địa Điểm
+- II Người, Thú và Quái vật
+- III Địa điểm
 - IV Điều
 
 ## Nội dung của ấn bản 2005 {#Contents_of_the_2005_edition}

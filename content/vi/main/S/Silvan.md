@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Silvan Elves"
 ---
 
-Chuyển hướng đến [Silvan Tiên tộc](Silvan_Elves.md).
+Chuyển hướng đến [Yêu tinh Silvan](Silvan_Elves.md).

@@ -55,25 +55,25 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_-_The_Three_Trolls_are_turned_to_Stone_(Colored_by_H.E._Riddett).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/8/86/J.R.R._Tolkien_-_The_Three_Trolls_are_turned_to_Stone_%28Colored_by_H.E._Riddett%29.jpg/320px-J.R.R._Tolkien_-_The_Three_Trolls_are_turned_to_Stone_%28Colored_by_H.E._Riddett%29.jpg" decoding="async" loading="lazy" width="320" height="220" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/86/J.R.R._Tolkien_-_The_Three_Trolls_are_turned_to_Stone_%28Colored_by_H.E._Riddett%29.jpg/480px-J.R.R._Tolkien_-_The_Three_Trolls_are_turned_to_Stone_%28Colored_by_H.E._Riddett%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/8/86/J.R.R._Tolkien_-_The_Three_Trolls_are_turned_to_Stone_%28Colored_by_H.E._Riddett%29.jpg/640px-J.R.R._Tolkien_-_The_Three_Trolls_are_turned_to_Stone_%28Colored_by_H.E._Riddett%29.jpg 2x" data-file-width="1200" data-file-height="824"/></a><figcaption><i>The Three Trolls are turned to Stone</i> by <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> (coloured by <a href="../H/H.E._Riddett.md" title="H.E. Riddett">H.E. Riddett</a>)</figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../T/Trolls.md" title="Trolls">Trolls</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>William, Tom, and Bert</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Other names</th><td class="tg-infobox-data">Three Trolls<br/>&#34;William Huggins&#34; (William)<br/>&#34;Bill&#34; (William)</td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../T/Trollshaws.md" title="Trollshaws">Trollshaws</a></td></tr><tr><th scope="row" class="tg-infobox-label">Affiliation</th><td class="tg-infobox-data"><a href="../S/Stone-trolls.md" title="Stone-trolls">Stone-trolls</a></td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data"><a href="Westron.md" title="Westron">Westron</a></td></tr><tr><th scope="row" class="tg-infobox-label">Death</th><td class="tg-infobox-data"><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2941.md" title="Third Age 2941">2941</a><br/><a href="../T/Trollshaws.md" title="Trollshaws">Trollshaws</a></td></tr><tr><th scope="row" class="tg-infobox-label">Notable for</th><td class="tg-infobox-data">Capturing <a href="../T/Thorin_and_Company.md" title="Thorin and Company">Thorin and Company</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr><tr><th scope="row" class="tg-infobox-label">Clothing</th><td class="tg-infobox-data"><a href="../T/Talking_purse.md" title="Talking purse">Talking purse</a> (William)</td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_William,_Tom,_and_Bert.md" title="Category:Images of William, Tom, and Bert">Images of William, Tom, and Bert</a></td></tr></tbody></table>
 
-**Ba Troll**<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> (<b>William <i>Huggins</i></b>, **Tom** và **Bert**) là một nhóm [troll](../T/Trolls.md) đã bắt [Bilbo Baggins](../B/Bilbo_Baggins.md) và [người lùn](../T/Thorin_and_Company.md) trong thời gian diễn ra trận chiến [Nhiệm vụ Erebor](../Q/Quest_of_Erebor.md).
+**Ba tên quỷ lùn**<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> (<b>William <i>Huggins</i></b>, **Tom** và **Bert**) là một nhóm [troll](../T/Trolls.md) đã bắt giữ [Bilbo Baggins](../B/Bilbo_Baggins.md) và [người lùn](../T/Thorin_and_Company.md) trong thời gian đó [Nhiệm vụ của Erebor](../Q/Quest_of_Erebor.md).
 
 ## Lịch sử {#History}
 
 Họ sống trong một [hang động](../T/Trolls'_lair.md) ở [Trollshaws](../T/Trollshaws.md), phía tây [Rivendell](../R/Rivendell.md). Vào mùa xuân năm [T.A.](../T/Third_Age.md) [2941](../T/Third_Age_2941.md), họ hành trình từ trên đồi xuống để tìm kiếm thức ăn, được William dẫn đến khu vực này. Họ đã ăn xong một hoặc hai ngôi làng trước khi dừng lại qua đêm trong khu rừng cách [Great Road](../E/East-West_Road.md) không xa.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Ánh sáng của đám cháy troll được phát hiện bởi [Balin](../B/Balin.md) người đã báo động cho những người còn lại trong đại đội, và theo sự thúc giục của [Thorin](../T/Thorin.md), chính Bilbo đã tiến đến gần và lần đầu chạm trán với ba con troll đang uống rượu, ăn thịt cừu và cãi vã.
+Ánh sáng của ngọn lửa lũ troll được phát hiện bởi [Balin](../B/Balin.md), người đã báo động cho những người còn lại trong đại đội, và dưới sự thúc giục của [Thorin](../T/Thorin.md), chính Bilbo đã đến gần và lần đầu tiên chạm trán với ba con troll đang uống rượu, ăn thịt cừu và cãi nhau.
 
-Bilbo bị bắt khi đang cố móc túi của William và khi những người còn lại trong công ty đến để điều tra chuyện gì đã xảy ra với Bilbo thì họ cũng bị bắt. Chỉ có Thorin chống trả, dùng cành cây rực lửa chọc vào mắt Bert rồi đánh thẳng vào mặt Tom, làm gãy một chiếc răng. William bắt Thorin và thế là tất cả người lùn đều bị bắt trong bao tải.
+Bilbo bị bắt khi đang cố móc túi của William và khi những người còn lại trong công ty đến để điều tra chuyện gì đã xảy ra với Bilbo thì họ cũng bị bắt. Chỉ có Thorin chống cự, dùng cành cây rực lửa chọc vào mắt Bert rồi đánh vào mặt Tom, làm gãy một chiếc răng. William bắt được Thorin và thế là tất cả người lùn đều bị bắt trong bao tải.
 
-Tuy nhiên, Gandalf đã quay trở lại mà không bị chú ý và ném giọng nói của mình, khiến lũ troll tranh cãi với nhau rất lâu đến nỗi mặt trời mọc và biến cả ba người họ thành đá.
+Tuy nhiên, Gandalf đã quay trở lại mà không bị chú ý và ném giọng nói của mình, khiến lũ quỷ lùn tranh cãi với nhau lâu đến mức mặt trời mọc và biến cả ba người họ thành đá.
 
-Vào [ngày 18 tháng 10](../_/18_October.md) [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md), Strider và [bốn hobbit](../T/Travellers.md) tình cờ gặp những bức tượng đá của ba con quỷ lùn khi du hành đến Rivendell cùng với [Một Nhẫn](../O/One_Ring.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Vào [ngày 18 tháng 10](../_/18_October.md) [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md), Strider và [bốn hobbit](../T/Travellers.md) tình cờ thấy những bức tượng đá của ba con quỷ lùn khi du hành đến Rivendell cùng với [One Ring](../O/One_Ring.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <h2><span id="William.27s_.22pity.22"></span><span class="mw-headline" id="William&#39;s_&#34;pity&#34;">William&#39;s &#34;pity&#34;</span></h2>
 
-William đã hai lần tuyên bố rằng họ nên để Bilbo đi thay vì ăn thịt anh ta, gọi Bilbo là "kẻ tội nghiệp nhỏ bé", dẫn đến tranh cãi với Bert. Nhận xét của William gây tò mò vì bản chất quỷ lùn là ác quỷ, được tạo ra bởi [Morgoth](../M/Morgoth.md) vào lúc chạng vạng của [Ngày của Người cao tuổi](../E/Elder_Days.md). Tuy nhiên, William được ghi nhận là "đã ăn tối nhiều nhất có thể; anh ấy cũng đã uống rất nhiều bia."<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+William hai lần tuyên bố rằng họ nên để Bilbo đi thay vì ăn thịt ông ta, gọi Bilbo là "kẻ khốn nạn", dẫn đến tranh cãi với Bert. Nhận xét của William gây tò mò vì bản chất quỷ lùn là ác quỷ, được tạo ra bởi [Morgoth](../M/Morgoth.md) vào lúc chạng vạng của [Ngày của Người cao tuổi](../E/Elder_Days.md). Tuy nhiên, William được ghi nhận là "đã ăn tối nhiều nhất có thể; ông cũng đã uống rất nhiều bia."<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
-Trong một [bức thư](../L/Letter_153.md) chưa gửi cho chủ cửa hàng sách Christian <a class="new" href="https://tolkiengateway.net/w/index.php?title=Peter_Hastings&amp;action=edit&amp;redlink=1" title="Peter Hastings (page does not exist)">Peter Hastings</a>, [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã trả lời về chủ đề này:
+Trong một [bức thư](../L/Letter_153.md) chưa gửi cho chủ hiệu sách Christian <a class="new" href="https://tolkiengateway.net/w/index.php?title=Peter_Hastings&amp;action=edit&amp;redlink=1" title="Peter Hastings (page does not exist)">Peter Hastings</a>, [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã trả lời về chủ đề này:
 
 <blockquote class="tg-quote noexcerpt">
 <p>There is no more &#39;pity&#39; here than in a beast of prey yawning, or lazily patting a creature it could eat, but does not want to, since it is not hungry. Or indeed than there is in many of men&#39;s actions, whose real roots are in satiety, sloth, or a purely non-moral natural softness, though they may dignify them by &#39;pity&#39;s&#39; name.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
@@ -170,11 +170,11 @@ Trong một [bức thư](../L/Letter_153.md) chưa gửi cho chủ cửa hàng s
 
 <dl><dd>The troll&#39;s scene is presented without alteration. No actors are credited for the individual parts of the three trolls.</dd></dl>
 
-<b><a href="../_/1982.md" title="1982">1982</a>: <a href="../T/The_Hobbit_(1982_video_game).md" title="The Hobbit (1982 video game)"><i>The Hobbit</i> (trò chơi điện tử năm 1982)</a>:</b>
+<b><a href="../_/1982.md" title="1982">1982</a>: <a href="../T/The_Hobbit_(1982_video_game).md" title="The Hobbit (1982 video game)"><i>Người Hobbit</i> (trò chơi điện tử năm 1982)</a>:</b>
 
 <dl><dd>The three trolls are the first obstacle encountered after leaving Bag End.</dd></dl>
 
-<b><a href="../_/1982.md" title="1982">1982</a>-<a href="../_/1997.md" title="1997">97</a>: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>:</b>
+<b><a href="../_/1982.md" title="1982">1982</a>-<a href="../_/1997.md" title="1997">97</a>: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Nhập vai ở Trung Địa</a></i>:</b>
 
 <dl><dd>All three trolls are listed as members of the Hugath tribe of Stone Trolls of the Trollshaw and share the same last name; &#34;Huggins&#34;. Their real names are given as <i>Wûluag Hugath</i>, <i>Tûma</i>, and <i>Bûrat &#34;the Tongue&#34;</i>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></dd></dl>
 
@@ -182,23 +182,23 @@ Trong một [bức thư](../L/Letter_153.md) chưa gửi cho chủ cửa hàng s
 
 <dl><dd>The voices of William, Bert and Tom are provided by Peter Debnár, Vlado Černý and Ivan Gogál.</dd></dl>
 
-<b><a href="../_/1995.md" title="1995">1995</a>-<a href="../_/1998.md" title="1998">8</a>: <i><a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Trung Địa Trò chơi bài sưu tầm</a></i>:</b>
+<b><a href="../_/1995.md" title="1995">1995</a>-<a href="../_/1998.md" title="1998">8</a>: <i><a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Trò chơi thẻ bài sưu tầm ở Trung Địa</a></i>:</b>
 
 <dl><dd>All three trolls are playable both as a Hazard Creature and as a Minion. They are also given the <a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">MERP</a> variant names; <i>Wûluag</i>, <i>Tûma</i>, and <i>Bûrat</i>.</dd></dl>
 
-<b><a href="../_/2001.md" title="2001">2001</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i>:</b>
+<b><a href="../_/2001.md" title="2001">2001</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">Chúa tể của những chiếc nhẫn: Hiệp hội những chiếc nhẫn</a></i>:</b>
 
 <dl><dd><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a> and the Hobbits rest at the petrified trolls after Frodo is stabbed by the <a href="Witch-king.md" title="Witch-king">Witch-king</a>. In the Extended Edition, Sam points out to the wounded Frodo that they are &#34;Mr. Bilbo&#39;s trolls&#34;.</dd></dl>
 
-<b><a href="../_/2003.md" title="2003">2003</a>: <a href="../T/The_Hobbit_(2003_video_game).md" title="The Hobbit (2003 video game)"><i>The Hobbit</i> (trò chơi điện tử năm 2003)</a>:</b>
+<b><a href="../_/2003.md" title="2003">2003</a>: <a href="../T/The_Hobbit_(2003_video_game).md" title="The Hobbit (2003 video game)"><i>Người Hobbit</i> (trò chơi điện tử năm 2003)</a>:</b>
 
 <dl><dd>William, Tom, and Bert are the first &#39;bosses&#39; of the game, though they cannot be fought directly; Bilbo has to sneak around the trolls, waiting for them to turn or walk away.</dd></dl>
 
-<b><a href="../_/2007.md" title="2007">2007</a>: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b><a href="../_/2007.md" title="2007">2007</a>: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
 
 <dl><dd>The stone statues of all three trolls can be found in the wilderness of the <a href="../T/Trollshaws.md" title="Trollshaws">Trollshaws</a>.</dd></dl>
 
-<b><a href="../_/2012.md" title="2012">2012</a>: <i><a href="../T/The_Hobbit%253A_An_Unexpected_Journey.md" title="The Hobbit: An Unexpected Journey"><i>The Hobbit: An Unexpected Journey</i></a></i></b><i></i>
+<b><a href="../_/2012.md" title="2012">2012</a>: <i><a href="../T/The_Hobbit%253A_An_Unexpected_Journey.md" title="The Hobbit: An Unexpected Journey"><i>Người Hobbit: Hành trình bất ngờ</i></a></i></b><i></i>
 
 <dl><dd>The three trolls are played by <a href="../P/Peter_Hambleton.md" title="Peter Hambleton">Peter Hambleton</a>, <a href="William_Kircher.md" title="William Kircher">William Kircher</a> and <a href="../M/Mark_Hadlow.md" title="Mark Hadlow">Mark Hadlow</a> respectively, via the use of motion capture. In the film it is Tom that catches Bilbo when he mistakenly grabs him while reaching for his handkerchief and blows his nose on him.</dd></dl>
 

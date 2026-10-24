@@ -65,19 +65,19 @@ Sự kiện xảy ra vào ngày 22 tháng 6
 
 ## Trên Trái đất {#On_Earth}
 
-- **[1911](1911.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) and several other cadets of [King Edward's School](../K/King_Edward's_School.md)'s Officer Training Corps line the route at the Coronation of <a class="extiw" href="http://en.wikipedia.org/wiki/George_V_of_the_United_Kingdom" title="wikipedia:George V of the United Kingdom">George V</a>. Tolkien đứng gần Cung điện Buckingham.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+- **[1911](1911.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và một số học viên khác của Quân đoàn Huấn luyện Sĩ quan của [Trường King Edward](../K/King_Edward's_School.md) xếp hàng tại Lễ đăng quang của <a class="extiw" href="http://en.wikipedia.org/wiki/George_V_of_the_United_Kingdom" title="wikipedia:George V of the United Kingdom">George V</a>. Tolkien đứng gần Cung điện Buckingham.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 - **[1920](1920.md)** - Diễn viên lồng tiếng [Paul Frees](../P/Paul_Frees.md) ra đời.
 - **[1932](1932.md)** - Nữ diễn viên [Cân Prunella](../P/Prunella_Scales.md) ra đời.
-- **[1952](1952.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) writes [Letter 133](../L/Letter_133.md).
+- **[1952](1952.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 133](../L/Letter_133.md).
 - **[1953](1953.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 137d](../L/Letter_137d.md).
-- **[2007](2007.md)** - "Age's End", the seventeenth and last set in *[The Lord of the Rings Trading Card Game](../T/The_Lord_of_the_Rings_Trading_Card_Game.md)*, is released.
+- **[2007](2007.md)** - "Age's End", tập thứ mười bảy và cuối cùng trong *[The Lord of the Rings Trading Card Game](../T/The_Lord_of_the_Rings_Trading_Card_Game.md)*, được phát hành.
 - **[2009](2009.md)** - *[Tolkien's Bag End](../T/Tolkien's_Bag_End.md)* được xuất bản.
-- **[2010](2010.md)** - The [RiffTrax](../R/RiffTrax.md) commentary of *[The Lord of the Rings: The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)* is released online.
+- **[2010](2010.md)** - Bình luận [RiffTrax](../R/RiffTrax.md) của *[The Lord of the Rings: The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)* được phát hành trực tuyến.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [2942](../T/Third_Age_2942.md):
-    - [Bilbo](../B/Bilbo_Baggins.md) quay lại [Bag End](../B/Bag_End.md)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và được biết mình đã được tuyên bố là đã chết.
+    - [Bilbo](../B/Bilbo_Baggins.md) quay trở lại [Bag End](../B/Bag_End.md)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và được biết mình đã được tuyên bố là đã chết.
 
 <span></span>
 

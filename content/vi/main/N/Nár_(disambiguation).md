@@ -18,9 +18,9 @@ images:
 
 **Nár** có thể đề cập đến những điều sau:
 
-- <b><a class="new" href="https://tolkiengateway.net/w/index.php?title=N%C3%A1r_(word)&amp;action=edit&amp;redlink=1" title="Nár (word) (page does not exist)">Nár</a></b>, một [Quenya](../Q/Quenya.md) từ dành cho "lửa".
-- **[Nár](Nár.md)**, một [người lùn](../D/Dwarves.md) đi du lịch cùng [Thrór](../T/Thrór.md).
-- **[Nar](<Nar_(companion_of_Bilbo).md>)**, một vị khách lùn tại [Bag End](../B/Bag_End.md) trong phiên bản [trước](../T/The_Return_of_the_Shadow.md) của câu chuyện.
+- <b><a class="new" href="https://tolkiengateway.net/w/index.php?title=N%C3%A1r_(word)&amp;action=edit&amp;redlink=1" title="Nár (word) (page does not exist)">Nár</a></b>, một từ [Quenya](../Q/Quenya.md) cho "lửa".
+- **[Nár](Nár.md)**, một [người lùn](../D/Dwarves.md) du hành cùng [Thrór](../T/Thrór.md).
+- **[Nar](<Nar_(companion_of_Bilbo).md>)**, một vị khách lùn tại [Bag End](../B/Bag_End.md) trong phiên bản [trước đó](../T/The_Return_of_the_Shadow.md) của câu chuyện.
 
 <hr style="margin-top:15px;"/>
 

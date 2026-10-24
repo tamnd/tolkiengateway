@@ -58,7 +58,7 @@ infobox:
     - Bởi: Jackie Marshall, Mary Woffinden, Jessica Yates, [Christina Scull](../C/Christina_Scull.md), Colin Davey
 - Tác phẩm nghệ thuật: *[Gandalf](../G/Gandalf.md) the Grey Uncloaked*
     - Bởi: Dave McKenna
-- Frodo Sống...
+- Frodo sống...
     - Bởi: Andrew MacColl
 - Ngục tối của [Trung Địa](../M/Middle-earth.md)
     - Bởi: [Hartley Patterson](../H/Hartley_Patterson.md)

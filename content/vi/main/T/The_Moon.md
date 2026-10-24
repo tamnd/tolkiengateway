@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Moon"
 ---
 
-Chuyển hướng đến [Mặt Trăng](../M/Moon.md).
+Chuyển hướng tới [Mặt trăng](../M/Moon.md).

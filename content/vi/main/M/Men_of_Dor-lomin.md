@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Men of Dor-lómin"
 ---
 
-Chuyển hướng tới [Con Người của Dor-lómin](Men_of_Dor-lómin.md).
+Chuyển hướng tới [Những người đàn ông của Dor-lómin](Men_of_Dor-lómin.md).

@@ -31,7 +31,7 @@ images:
 <p class="tg-quote-footer"><cite><a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Sam</a></cite></p>
 </blockquote></div></div>
 
-Có nhiều **Nhạc sĩ** tạo ra âm nhạc lấy cảm hứng từ [Tolkien](../J/J.R.R._Tolkien.md) và các tác phẩm của anh ấy. Để biết danh sách đầy đủ các Ca sĩ có nhiều mối quan hệ cùng tên, hãy xem **[Hạng mục Ca sĩ](../../category/S/Singers.md)**.
+Có nhiều **Nhạc sĩ** tạo ra âm nhạc lấy cảm hứng từ [Tolkien](../J/J.R.R._Tolkien.md) và các tác phẩm của ông. Để biết danh sách đầy đủ các Ca sĩ có nhiều mối quan hệ cùng tên, hãy xem **[Hạng mục Ca sĩ](../../category/S/Singers.md)**.
 
 ## Nhạc sĩ chủ đề Tolkien chính theo thể loại {#Major_Tolkien-themed_Musicians_by_genre}
 

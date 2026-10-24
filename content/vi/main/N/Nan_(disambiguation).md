@@ -18,7 +18,7 @@ images:
 
 - [nan](<Nan_(Sindarin_noun).md>), một danh từ [Sindarin](../S/Sindarin.md) có nghĩa là "thung lũng".
 - [nan-](Nan-.md), tiền tố [Quenya](../Q/Quenya.md) có nghĩa là "ngược".
-- [Nan](<Nan_(Giant).md>), một [Người khổng lồ](../G/Giant.md) được nhắc đến trong [Truyện Tinúviel](../T/Tale_of_Tinúviel.md).
+- [Nan](<Nan_(Giant).md>), một [Người khổng lồ](../G/Giant.md) được nhắc đến trong [Truyện kể về Tinúviel](../T/Tale_of_Tinúviel.md).
 - [Nan Smithson](Nan_Smithson.md), con gái của [Smith](../S/Smith_Smithson.md) và [Nell Smithson](Nell_Smithson.md).
 
 <hr style="margin-top:15px;"/>

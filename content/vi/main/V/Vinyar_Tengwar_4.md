@@ -39,16 +39,16 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/V/Vinyar_Tengwar_4.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/9c/Vinyar_Tengwar_4.jpg/320px-Vinyar_Tengwar_4.jpg" decoding="async" loading="lazy" width="320" height="414" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/9c/Vinyar_Tengwar_4.jpg/480px-Vinyar_Tengwar_4.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/9/9c/Vinyar_Tengwar_4.jpg/640px-Vinyar_Tengwar_4.jpg 2x" data-file-width="2550" data-file-height="3300"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Vinyar Tengwar 4</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../J/Jorge_Quiñónez.md" title="Jorge Quiñónez">Jorge Quiñónez</a></td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="../R/Ronald_Kyrmse.md" title="Ronald Kyrmse">Ronald Kyrmse</a> (front cover)</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../E/Elvish_Linguistic_Fellowship.md" title="Elvish Linguistic Fellowship">Elvish Linguistic Fellowship</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">March <a href="../_/1989.md" title="1989">1989</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback journal</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">12</td></tr></tbody></table>
 
-<i><b>Vinyar Tengwar 4</b></i> là số thứ tư của *[Vinyar Tengwar](Vinyar_Tengwar.md)*, một tạp chí chuyên nghiên cứu học thuật về các ngôn ngữ được phát minh ra của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
+<i><b>Vinyar Tengwar 4</b></i> là số thứ tư của *[Vinyar Tengwar](Vinyar_Tengwar.md)*, một tạp chí chuyên nghiên cứu học thuật về các ngôn ngữ được phát minh của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
 <div class="template-prevnext"><div class="template-prevnext__prev template-prevnext__link"><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/8/81/WikimediaUI-ArrowPrevious-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__content"><div class="template-prevnext__title">Vinyar Tengwar 3</div></div><div class="template-prevnext__linkoverlay"><a href="Vinyar_Tengwar_3.md" title="Vinyar Tengwar 3">Vinyar Tengwar 3</a></div></div><div class="template-prevnext__current"><div class="template-prevnext__content"><div class="template-prevnext__title">Vinyar Tengwar 4</div></div></div><div class="template-prevnext__next template-prevnext__link"><div class="template-prevnext__content"><div class="template-prevnext__title">Vinyar Tengwar 5</div></div><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/7b/WikimediaUI-ArrowNext-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__linkoverlay"><a href="Vinyar_Tengwar_5.md" title="Vinyar Tengwar 5">Vinyar Tengwar 5</a></div></div></div>
 
 ## Nội dung {#Contents}
 
-- Bìa: "*Ondolindeo Otso Andor*" ("Bảy Cánh Cổng của Gondolin") — Ronald Kyrmse
+- Bìa: "*Ondolindeo Otso Andor*" ("Bảy cánh cổng Gondolin") — Ronald Kyrmse
 - Thư gửi *VT*
 
-- "*Hrestasse*: Một cuộc đối thoại Quenya mới" — Margaret Dean
+- "*Hrestasse*: Cuộc đối thoại mới của Quenya" — Margaret Dean
 - "*Essitalmar*" (cột) — Tom Loback
 - "Những câu thơ Entish" — Ben Koolen
 

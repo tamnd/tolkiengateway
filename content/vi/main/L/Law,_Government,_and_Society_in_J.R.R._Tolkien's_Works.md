@@ -44,31 +44,31 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/Law,_Government,_and_Society_in_J.R.R._Tolkien&#39;s_Works.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/56/Law%2C_Government%2C_and_Society_in_J.R.R._Tolkien%27s_Works.jpg/320px-Law%2C_Government%2C_and_Society_in_J.R.R._Tolkien%27s_Works.jpg" decoding="async" loading="lazy" width="320" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/56/Law%2C_Government%2C_and_Society_in_J.R.R._Tolkien%27s_Works.jpg/480px-Law%2C_Government%2C_and_Society_in_J.R.R._Tolkien%27s_Works.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/5/56/Law%2C_Government%2C_and_Society_in_J.R.R._Tolkien%27s_Works.jpg/640px-Law%2C_Government%2C_and_Society_in_J.R.R._Tolkien%27s_Works.jpg 2x" data-file-width="907" data-file-height="1360"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Law, Government, and Society in J.R.R. Tolkien&#39;s Works</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a href="../J/José_María_Miranda_Boto.md" title="José María Miranda Boto">José María Miranda Boto</a></td></tr><tr><th scope="row" class="tg-infobox-label">Foreword by</th><td class="tg-infobox-data"><a href="../T/Tom_Shippey.md" title="Tom Shippey">Tom Shippey</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../W/Walking_Tree_Publishers.md" title="Walking Tree Publishers">Walking Tree Publishers</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/23_May.md" title="23 May">23 May</a> <a href="../_/2022.md" title="2022">2022</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">264</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/9783905703436" title="Special:BookSources/9783905703436">9783905703436</a></td></tr><tr><th scope="row" class="tg-infobox-label">Series</th><td class="tg-infobox-data"><a href="../C/Cormarë_Series.md" title="Cormarë Series">Cormarë Series</a></td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="../T/Tolkien_and_the_Classics.md" title="Tolkien and the Classics">Tolkien and the Classics</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="../M/Middle-earth,_or_There_and_Back_Again.md" title="Middle-earth, or There and Back Again">Middle-earth, or There and Back Again</a></td></tr></tbody></table>
 
-<i><b>Luật pháp, Chính phủ và Xã hội trong các tác phẩm của J.R.R. Tolkien</b></i> là cuốn sách của [José María Miranda Boto](../J/José_María_Miranda_Boto.md) về vai trò của luật pháp và chính phủ trong [huyền thoại](Legendarium.md) của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Nó được xuất bản ở vị trí thứ 43 trong *[Cormarë Series](../C/Cormarë_Series.md)*. Nó được vinh danh với [Giải thưởng Học bổng Thần thoại trong Inklings Nghiên cứu](../M/Mythopoeic_Society.md) ở [2024](../_/2024.md). Nó đã được xem xét nhiều lần.
+<i><b>Luật pháp, Chính phủ và Xã hội trong các tác phẩm của J.R.R. Tolkien</b></i> là cuốn sách của [José María Miranda Boto](../J/José_María_Miranda_Boto.md) về vai trò của luật pháp và chính phủ trong [huyền thoại](Legendarium.md) của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Nó được xuất bản ở vị trí thứ 43 trong *[Cormarë Series](../C/Cormarë_Series.md)*. Nó được vinh danh với [Giải thưởng Học bổng Thần thoại trong Nghiên cứu về Inklings](../M/Mythopoeic_Society.md) ở [2024](../_/2024.md). Nó đã được xem xét nhiều lần.
 
 ## Nội dung {#Contents}
 
 - Giới thiệu
-- **Phần thứ nhất: Pháp luật và Tolkien**
-    - Luật có chỗ trong các tác phẩm của Tolkien không?
+- **Phần thứ nhất: Luật và Tolkien**
+    - Luật có chỗ trong tác phẩm của Tolkien không?
     - Luật đạo đức, Luật tự nhiên và Luật tích cực
     - Luật chung và Luật dân sự
     - Luật pháp và Công lý
-    - Giữa Luật pháp và Tội lỗi: Sự diệt vong của Noldor và Lệnh cấm Con Người đặt chân vào Valinor
+    - Giữa luật pháp và tội lỗi: Sự diệt vong của Noldor và lệnh cấm đàn ông đặt chân đến Valinor
     - Luật hiện đại: 'Leaf by Niggle'
-- **Phần thứ hai: Luật pháp và Chính phủ trong Arda**
-    - Chúng tôi, những vị Vua
+- **Phần thứ hai: Luật pháp và Chính phủ ở Arda**
+    - Chúng tôi, những vị vua
     - Quyền lực của các vị vua: Nhà lập pháp, nhà quản lý, thẩm phán
     - 'Sau này ngươi sẽ là Vua!': Về Quy tắc kế vị ngai vàng
     - 'Sau này ngươi có trở thành Nữ hoàng không?': Phụ nữ và ngai vàng
-    - Nhận xét pháp lý về Quan Chấp chính của Gondor
-    - Tất cả Người của Nhà Vua (và Một người phụ nữ)
+    - Nhận xét pháp lý về Quản lý Gondor
+    - Tất cả người đàn ông của nhà vua (và một người phụ nữ)
     - Hội nghị, cuộc họp và tranh luận
     - Các phán quyết không chính thức và sự vắng mặt của luật sư
     - Tội ác và trừng phạt
 - **Phần thứ ba: Luật pháp và xã hội**
-    - Chế độ phong kiến và tính cao quý của Gondor
-    - Nulli giây: Giới thiệu về Thân vương Dol Amroth
+    - Chế độ phong kiến và giới quý tộc Gondor
+    - Nulli secundus: Về các hoàng tử của Dol Amroth
     - Hôn nhân là yếu tố then chốt của xã hội
     - Luật Hôn nhân
     - Vấn đề gia đình
@@ -77,14 +77,14 @@ infobox:
     - Về tài sản
     - Xếp hạng và Tệp
 - **Phần thứ tư: Luật như một trò đùa trong tác phẩm của Tolkien**
-Cách sử dụng luật lỗi thời của     - Tolkien
-    - Arcadia đầy thử thách: Bí ẩn của Chính phủ Shire
-    - Max Weber trong Shire: Về việc Hobbit sử dụng vũ lực thể chất
-    - Farmer Giles of Ham và việc sử dụng pháp luật mang tính chế nhạo
-- Phần kết: The Lord of the Rings là công cụ giảng dạy Luật Lao động
-- **Phụ lục: Pháp luật trong đời sống cá nhân của Tolkien**
-    - "A Hobbit về mọi mặt ngoại trừ quy mô": Cuộc sống cá nhân của anh ấy từ góc độ pháp lý
-    - "Anh ấy còn nhiều việc khác phải làm": Đại học và môi trường xung quanh
+    - Cách sử dụng luật lỗi thời của Tolkien
+    - Arcadia đầy thử thách: Bí ẩn của Chính quyền Quận
+    - Max Weber ở Quận: Về việc người Hobbit sử dụng biện pháp cưỡng bức thể chất
+    - Nông dân Giles của Ham và việc sử dụng pháp luật một cách chế giễu
+- Phần kết: Chúa tể của những chiếc nhẫn như một công cụ giảng dạy luật lao động
+- **Phụ lục: Luật trong đời sống cá nhân của Tolkien**
+    - "Một người Hobbit ở mọi khía cạnh ngoại trừ kích thước": Cuộc sống cá nhân của ông từ góc độ pháp lý
+    - "Ông còn nhiều việc khác phải làm": Đại học và môi trường xung quanh
     - "Các sự kiện đáng nhớ xảy ra rất thường xuyên": Các vấn đề về hợp đồng và tài chính
 
 ## Từ nhà xuất bản {#From_the_publisher}

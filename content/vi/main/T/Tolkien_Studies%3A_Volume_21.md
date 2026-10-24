@@ -38,39 +38,39 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tolkien_Studies_21.jpeg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/5d/Tolkien_Studies_21.jpeg/315px-Tolkien_Studies_21.jpeg" decoding="async" loading="lazy" width="315" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/5d/Tolkien_Studies_21.jpeg/473px-Tolkien_Studies_21.jpeg 1.5x, https://tolkiengateway.net/w/images/5/5d/Tolkien_Studies_21.jpeg 2x" data-file-width="493" data-file-height="750"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Tolkien Studies: Volume 21</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../D/David_Bratman.md" title="David Bratman">David Bratman</a>, <a href="../M/Michael_D.C._Drout.md" title="Michael D.C. Drout">Michael D.C. Drout</a>, <a class="new" href="https://tolkiengateway.net/w/index.php?title=Yvette_Kisor&amp;action=edit&amp;redlink=1" title="Yvette Kisor (page does not exist)">Yvette Kisor</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">West Virginia University Press</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">November, <a href="../_/2025.md" title="2025">2025</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback; electronic</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">360</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">1547-3155</td></tr></tbody></table>
 
-<b><i>Tolkien Nghiên cứu</i>: Tập 21</b>, xuất bản vào tháng 11 [2025](../_/2025.md), mặc dù là số của [2024](../_/2024.md), nhưng là tập thứ hai mươi của tạp chí tổng kết hàng năm *[Tolkien Studies](<Tolkien_Studies_(journal).md>)*.
+<b><i>Nghiên cứu của Tolkien</i>: Tập 21</b>, xuất bản vào tháng 11 [2025](../_/2025.md), mặc dù là số của [2024](../_/2024.md), nhưng là tập thứ hai mươi của tạp chí đánh giá hàng năm *[Tolkien Studies](<Tolkien_Studies_(journal).md>)*.
 
 <div class="template-prevnext"><div class="template-prevnext__prev template-prevnext__link"><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/8/81/WikimediaUI-ArrowPrevious-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__content"><div class="template-prevnext__title">Tolkien Studies: Volume 20</div></div><div class="template-prevnext__linkoverlay"><a href="Tolkien_Studies%253A_Volume_20.md" title="Tolkien Studies: Volume 20">Tolkien Studies: Volume 20</a></div></div><div class="template-prevnext__current"><div class="template-prevnext__content"><div class="template-prevnext__title">Tolkien Studies: Volume 21</div></div></div><div class="template-prevnext__next template-prevnext__link"><div class="template-prevnext__content"><div class="template-prevnext__title">Tolkien Studies: Volume 21</div></div><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/7b/WikimediaUI-ArrowNext-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__linkoverlay"><a class="mw-selflink selflink">Tolkien Studies: Volume 21</a></div></div></div>
 
 ## Nội dung {#Contents}
 
 - Bài viết
-    - Alexandra Bolintineanu, "Những cây Elegiac củaTolkien: *Enta Geweorc* và Ent xuyên thời gian"
-    - Patrick J. Murphy, "Những câu đố về *The Hobbit*, Lịch sử học thuật của cuốn sách Exeter và Phát minh của Tolkien Nhẫn"
+    - Alexandra Bolintineanu, "Những cây bi kịch của Tolkien: *Enta Geweorc* và những con kiến xuyên thời gian"
+    - Patrick J. Murphy, "Những câu đố về *The Hobbit*, Lịch sử học thuật của cuốn sách Exeter và Sự phát minh ra chiếc nhẫn Tolkien"
     - Anika Jensen, "'Tôi tự hỏi liệu có bài hát nào sẽ nhắc đến nó không': Xác định thời điểm bấp bênh trong *The Lord of the Rings*"
     - Eduardo Boheme Kumamoto, "Dịch giả trung thành: J.R.R. Tolkien, Burton Raffel và Dịch thơ"
-    - [John Garth](../J/John_Garth.md) và Peter Gilliver, "Sự trở lại của kẻ lang thang: Những phát hiện mới về Tolkien trong Oxford 1918–19"
-    - Claudio A. Testi, "Từ 'Cái cây' đến '[Chiếc lá bên Niggle](../L/Leaf_by_Niggle.md)': Lên đến Dãy Núi và hơn thế nữa"
+    - [John Garth](../J/John_Garth.md) và Peter Gilliver, "Sự trở lại của kẻ lang thang: Những phát hiện mới về Tolkien ở Oxford 1918–19"
+    - Claudio A. Testi, "Từ 'Cái cây' đến '[Lá qua Niggle](../L/Leaf_by_Niggle.md)': Lên đến những ngọn núi và xa hơn"
     - Peizhen Wu và [Michael D. C. Drout](../M/Michael_D._C._Drout.md), "'Tiến trình sáng tác thực tế': Phân tích một số khía cạnh của lịch sử sửa đổi *The Lord of the Rings* bằng cách sử dụng các phương pháp kỹ thuật số 'từ vựng'"
 
 - Ghi chú và tài liệu
-    - [Łukasz Neubauer](../_/Łukasz_Neubauer.md), "'Nguồn gốc của Gandalf': *[Der Berggeist](../D/Der_Berggeist.md)* của Josef Madlener và Thần núi xuyên biên giới Rübezahl là nguồn cảm hứng có chủ đích cho Pháp sư của Tolkien"
+    - [Łukasz Neubauer](../_/Łukasz_Neubauer.md), "'Nguồn gốc của Gandalf': *[Der Berggeist](../D/Der_Berggeist.md)* của Josef Madlener và Thần núi xuyên biên giới Rübezahl là nguồn cảm hứng có mục đích cho Phù thủy của Tolkien"
     - Matthew Thompson-Handell, "Xem xét lại phản ứng phê phán sớm đối với *The Lord of the Rings*"
 
 - Đánh giá sách
     - *[Tolkien, Race, and Racism in Middle-earth](Tolkien,_Race,_and_Racism_in_Middle-earth.md)*, của Robert Stuart, được đánh giá bởi Yvette Kisor
     - *Representing Middle-earth: Tolkien, Form, and Ideology*, bởi Robert T. Tally, Jr., được đánh giá bởi [Douglas C. Kane](../D/Douglas_C._Kane.md)
-    - *Sự thương hại, quyền lực và Nhẫn của Tolkien: Thống trị số phận của nhiều người*, bởi Thomas P. Hillman, được đánh giá bởi Clare Moore
+    - *Sự thương hại, quyền lực và chiếc nhẫn của Tolkien: Thống trị số phận của nhiều người*, bởi Thomas P. Hillman, được đánh giá bởi Clare Moore
     - *[Theology and Tolkien: Practical Theology](Theology_and_Tolkien%253A_Practical_Theology.md)*, do Douglas Estes biên tập, Nick Polk đánh giá
-    - *Làm thế nào để hiểu lầm Tolkien: Nhà phê bình và sự ảo tưởng Chủ nhân*, của Bruno Bacelli, được Lori Campbell-Tanner đánh giá
+    - *Làm thế nào để hiểu sai Tolkien: Nhà phê bình và Bậc thầy tưởng tượng*, của Bruno Bacelli, được đánh giá bởi Lori Campbell-Tanner
 
-- Cami D. Agan, David Bratman, Mục sư Tom Emanuel, Jonathan Evans, [Jason Fisher](../J/Jason_Fisher.md), John Magoun, "Công việc của năm trong nghiên cứu Tolkien năm 2021"
+- Cami D. Agan, David Bratman, Mục sư Tom Emanuel, Jonathan Evans, [Jason Fisher](../J/Jason_Fisher.md), John Magoun, "Công việc của năm trong nghiên cứu Tolkien 2021"
 - David Bratman, "Thư mục (bằng tiếng Anh) cho năm 2022"
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="https://muse.jhu.edu/issue/55870" rel="noreferrer noopener" target="_blank"><i>Tolkien Nghiên cứu</i>: Tập 21</a> tại Project Muse
-- <a class="external text" href="https://kalimac.blogspot.com/2025/08/tolkien-studies-21-announcement.html" rel="noreferrer noopener" target="_blank"><i>Tolkien Nghiên cứu 21</i>: thông báo</a> trên blog của David Bratman
+- <a class="external text" href="https://muse.jhu.edu/issue/55870" rel="noreferrer noopener" target="_blank"><i>Nghiên cứu về Tolkien</i>: Tập 21</a> tại Project Muse
+- <a class="external text" href="https://kalimac.blogspot.com/2025/08/tolkien-studies-21-announcement.html" rel="noreferrer noopener" target="_blank"><i>Tolkien Studies 21</i>: thông báo</a> trên blog của David Bratman
 
 <span></span>
 

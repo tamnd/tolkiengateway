@@ -39,20 +39,20 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/V/Vinyar_Tengwar_5.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/5e/Vinyar_Tengwar_5.jpg/320px-Vinyar_Tengwar_5.jpg" decoding="async" loading="lazy" width="320" height="439" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/5e/Vinyar_Tengwar_5.jpg/480px-Vinyar_Tengwar_5.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/5/5e/Vinyar_Tengwar_5.jpg/640px-Vinyar_Tengwar_5.jpg 2x" data-file-width="1857" data-file-height="2545"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Vinyar Tengwar 5</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../J/Jorge_Quiñónez.md" title="Jorge Quiñónez">Jorge Quiñónez</a></td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="../T/Tom_Loback.md" title="Tom Loback">Tom Loback</a> (front cover)</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../E/Elvish_Linguistic_Fellowship.md" title="Elvish Linguistic Fellowship">Elvish Linguistic Fellowship</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">May <a href="../_/1989.md" title="1989">1989</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback journal</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">16</td></tr></tbody></table>
 
-<i><b>Vinyar Tengwar 5</b></i> là số thứ năm của *[Vinyar Tengwar](Vinyar_Tengwar.md)*, một tạp chí chuyên nghiên cứu học thuật về các ngôn ngữ được phát minh ra của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
+<i><b>Vinyar Tengwar 5</b></i> là số thứ năm của *[Vinyar Tengwar](Vinyar_Tengwar.md)*, một tạp chí chuyên nghiên cứu học thuật về các ngôn ngữ được phát minh của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
 <div class="template-prevnext"><div class="template-prevnext__prev template-prevnext__link"><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/8/81/WikimediaUI-ArrowPrevious-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__content"><div class="template-prevnext__title">Vinyar Tengwar 4</div></div><div class="template-prevnext__linkoverlay"><a href="Vinyar_Tengwar_4.md" title="Vinyar Tengwar 4">Vinyar Tengwar 4</a></div></div><div class="template-prevnext__current"><div class="template-prevnext__content"><div class="template-prevnext__title">Vinyar Tengwar 5</div></div></div><div class="template-prevnext__next template-prevnext__link"><div class="template-prevnext__content"><div class="template-prevnext__title">Vinyar Tengwar 6</div></div><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/7b/WikimediaUI-ArrowNext-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__linkoverlay"><a href="Vinyar_Tengwar_6.md" title="Vinyar Tengwar 6">Vinyar Tengwar 6</a></div></div></div>
 
 ## Nội dung {#Contents}
 
-- Bìa: "Daeron thể hiện Certhas cho Thingol ở Nivrim" — Tom Loback
+- Bìa: "Daeron trình diễn Certhas cho Thingol ở Nivrim" — Tom Loback
 - E.L.F. News
 - Thư gửi *VT*
 
-- "Quenya Bài viết nói cao hơn" — Jenny Coombs
+- "Bài viết truyền miệng cao hơn của Quenya" — Jenny Coombs
 - "*Essitalmar*" (cột) — Tom Loback
 - "Bản dịch từ Auld Elvish" — Arden R. Smith
-- "Các thuật ngữ từ '[Etymologies](../E/Etymologies.md)', Phần I" — Ronald Kyrmse
+- "Bảng thuật ngữ từ '[Từ nguyên](../E/Etymologies.md)', Phần I" — Ronald Kyrmse
 
 <br>
 

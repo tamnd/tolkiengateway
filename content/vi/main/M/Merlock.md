@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Merlock Mountains"
 ---
 
-Chuyển hướng tới [Merlock Dãy Núi](Merlock_Mountains.md).
+Chuyển hướng đến [Dãy núi Merlock](Merlock_Mountains.md).

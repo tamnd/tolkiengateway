@@ -17,7 +17,7 @@ sort_keys:
   "Quenya nouns": "Sundoma"
 ---
 
-**Sundóma** là tên [Quenya](../Q/Quenya.md) của nguyên âm căn trung tâm trong [sundo](Sundo.md), một gốc từ nguyên.
+**Sundóma** là tên [Quenya](../Q/Quenya.md) của nguyên âm gốc trung tâm trong [sundo](Sundo.md), một gốc từ nguyên.
 
 Trong quá trình hình thành ngôn ngữ, sundóma tham gia vào các hiện tượng sau:
 

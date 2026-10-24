@@ -65,13 +65,13 @@ infobox:
 <p class="tg-quote-footer"><cite><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a></cite></p>
 </blockquote></div></div>
 
-Ngọn núi, còn được gọi là **Núi Thánh**, được coi là thiêng liêng đối với [người Númenor](../N/Númenóreans.md) như một thánh địa dành cho [Eru Ilúvatar](../I/Ilúvatar.md). Yêu cầu im lặng tuyệt đối được áp đặt đối với bất kỳ ai leo lên núi. Truyền thống này mạnh mẽ và phổ quát đến mức ngay cả người nước ngoài cũng cảm thấy bị ràng buộc bởi nó. Chỉ Vua mới được phép cầu nguyện và tạ ơn Eru Ilúvatar, trong các ngày lễ [Erukyermë](../E/Erukyermë.md), [Erulaitalë](../E/Erulaitalë.md) và [Eruhantalë](../E/Eruhantalë.md).
+Ngọn núi, còn được gọi là **Núi Thánh**, là nơi linh thiêng đối với [Númenóreans](../N/Númenóreans.md) và là thánh địa dành cho [Eru Ilúvatar](../I/Ilúvatar.md). Yêu cầu im lặng tuyệt đối được áp đặt đối với bất kỳ ai leo lên núi. Truyền thống này mạnh mẽ và phổ quát đến mức ngay cả người nước ngoài cũng cảm thấy bị ràng buộc bởi nó. Chỉ có Nhà vua mới được phép cầu nguyện và tạ ơn Eru Ilúvatar, trong các lễ [Erukyermë](../E/Erukyermë.md), [Erulaitalë](../E/Erulaitalë.md) và [Eruhantalë](../E/Eruhantalë.md).
 
-Chim và động vật không tiếp cận địa điểm này và chỉ có [Đại Bàng của Manwë](../E/Eagles.md) được nhìn thấy bay vòng trên đỉnh núi. Họ cũng được coi là những người bảo vệ thiêng liêng của ngọn núi và toàn bộ vùng đất.
+Chim và động vật không đến gần địa điểm này và chỉ có [Đại bàng Manwë](../E/Eagles.md) được nhìn thấy bay vòng trên đỉnh núi. Họ cũng được coi là những người bảo vệ thiêng liêng của ngọn núi và toàn bộ vùng đất.
 
 ## Địa lý {#Geography}
 
-Meneltarma là đỉnh cao nhất của đảo. Nó nằm ở trung tâm hòn đảo, về mặt địa lý thuộc vùng nội địa được gọi là [Mittalmar](Mittalmar.md). Nó cao hơn vùng đồng bằng xung quanh ba nghìn feet (914m).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Meneltarma là đỉnh cao nhất của hòn đảo. Nó nằm ở trung tâm hòn đảo, về mặt địa lý thuộc vùng nội địa được gọi là [Mittalmar](Mittalmar.md). Nó cao hơn vùng đồng bằng xung quanh ba nghìn feet (914m).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Nền của Meneltarma có độ dốc thoai thoải và chia thành năm phần rễ vươn về phía năm phần đất. Những rễ cây này được gọi là [Tarmasundar](../T/Tarmasundar.md), *Roots of the Pillar*, vùng cao nguyên hiền hòa phủ đầy cỏ. Ở sườn phía nam là lăng mộ của [các vị vua và hoàng hậu Númenor](../K/King_of_Númenor.md), trong một thung lũng tên là [Noirinan](../N/Noirinan.md).
 
@@ -79,21 +79,21 @@ Tuy nhiên, gần đến đỉnh, các sườn dốc trở nên thẳng đứng 
 
 <figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/Jef_Murray_-_At_the_foot_of_the_Meneltarma.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/38/Jef_Murray_-_At_the_foot_of_the_Meneltarma.jpg/300px-Jef_Murray_-_At_the_foot_of_the_Meneltarma.jpg" decoding="async" loading="lazy" width="300" height="188" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/38/Jef_Murray_-_At_the_foot_of_the_Meneltarma.jpg/450px-Jef_Murray_-_At_the_foot_of_the_Meneltarma.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/3/38/Jef_Murray_-_At_the_foot_of_the_Meneltarma.jpg/600px-Jef_Murray_-_At_the_foot_of_the_Meneltarma.jpg 2x" data-file-width="800" data-file-height="501"/></a><figcaption><i>At the foot of the Meneltarma</i> by <a href="../J/Jef_Murray.md" title="Jef Murray">Jef Murray</a></figcaption></figure>
 
-Meneltarma có đỉnh bằng phẳng và có phần lõm xuống, rộng đến mức có thể chứa được rất đông người trong các nghi lễ tôn giáo. Tuy nhiên, không có công trình kiến ​​trúc cố định nào được dựng lên ở đó và các buổi lễ diễn ra ngoài trời. Người ta kể rằng vào một ngày trời quang đãng, người 'viễn thị' có thể nhìn thấy [Tol Eressëa](../T/Tol_Eressëa.md).
+Meneltarma có một đỉnh núi bằng phẳng và có phần lõm xuống, rộng đến mức có thể chứa được rất đông người trong các nghi lễ tôn giáo. Tuy nhiên, không có công trình kiến ​​trúc cố định nào được dựng lên ở đó và các buổi lễ diễn ra ngoài trời. Người ta nói rằng vào một ngày đẹp trời, 'người viễn thị' có thể nhìn thấy [Tol Eressëa](../T/Tol_Eressëa.md).
 
-Sau khi Númenor bị phá hủy với ngọn lửa bùng lên từ Meneltarma, một số [Những người lưu vong](../E/Exiles_of_Númenor.md) tin rằng [Hallow of Eru](../H/Hallow_of_Eru.md) trên đỉnh núi vẫn là một hòn đảo ở [Belegaer](../B/Belegaer.md). Một số [Dúnedain](../D/Dúnedain.md) thậm chí còn được cho là đã ra khơi để cố gắng đến hòn đảo này, từ đó truyền thuyết kể rằng người ta có thể thoáng thấy [Aman](../A/Aman.md) không thể tiếp cận được.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Sau khi Númenor bị hủy diệt với ngọn lửa bùng phát từ Meneltarma, một số [Người lưu vong](../E/Exiles_of_Númenor.md) tin rằng [Hallow of Eru](../H/Hallow_of_Eru.md) trên đỉnh núi vẫn là một hòn đảo ở [Belegaer](../B/Belegaer.md). Một số [Dúnedain](../D/Dúnedain.md) thậm chí còn được cho là đã ra khơi để cố gắng đến hòn đảo này, từ đó truyền thuyết cho rằng người ta có thể nhìn thoáng qua [Aman](../A/Aman.md) không thể tiếp cận được.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Meneltarma* là [Quenya](../Q/Quenya.md) dành cho "Cột trời",<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> từ *[menel](Menel.md)* ("trời, bầu trời, bầu trời") + <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Tarma&amp;action=edit&amp;redlink=1" title="Tarma (page does not exist)">tarma</a></i> ("trụ cột").<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+*Meneltarma* là [Quenya](../Q/Quenya.md) cho "Cột trời",<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> từ *[menel](Menel.md)* ("thiên đường, bầu trời, bầu trời") + <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Tarma&amp;action=edit&amp;redlink=1" title="Tarma (page does not exist)">tarma</a></i> ("trụ cột").<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Tên khác {#Other_names}
 
-Trong số [tiếng Anh cổ](../O/Old_English.md) tên của ngọn núi có những cái tên "rất cổ xưa" *hebaensuil*,<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>, *Heofonsýl*,<sup id="cite_ref-Edwin_6-0" class="reference"><a href="#cite_note-Edwin-6">[6]</a></sup> và *Ealfæderburg*,<sup id="cite_ref-Edwin_6-1" class="reference"><a href="#cite_note-Edwin-6">[6]</a></sup> với hai cái đầu tiên đều có nghĩa là "Cột trời" và ý nghĩa cuối cùng là "ngọn núi của Cha".
+Trong số các tên [tiếng Anh cổ](../O/Old_English.md) dành cho ngọn núi này có những cái tên "rất cổ xưa" *hebaensuil*,<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>, *Heofonsýl*,<sup id="cite_ref-Edwin_6-0" class="reference"><a href="#cite_note-Edwin-6">[6]</a></sup> và *Ealfæderburg*,<sup id="cite_ref-Edwin_6-1" class="reference"><a href="#cite_note-Edwin-6">[6]</a></sup> với hai tên đầu tiên đều có nghĩa là "Cột trời" và ý nghĩa cuối cùng là "ngọn núi của Cha".
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Tên của ngọn núi đã trải qua nhiều lần lặp lại. Tolkien đã cân nhắc *Menelmin, Menelmindo, Menelminda,* và *Menelmindon* trước khi cuối cùng anh ấy chọn *Meneltarma*.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+Tên của ngọn núi đã trải qua nhiều lần lặp lại. Tolkien đã cân nhắc *Menelmin, Menelmindo, Menelminda,* và *Menelmindon* trước khi cuối cùng chọn *Meneltarma*.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
 <span></span>
 

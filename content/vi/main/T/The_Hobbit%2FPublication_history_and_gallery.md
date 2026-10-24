@@ -99,7 +99,7 @@ images:
   - "The_Hobbit_graphic_2025.jpeg"
 ---
 
-Dưới đây được liệt kê là *major* **ấn bản tại Vương quốc Anh** của <i><b><a href="The_Hobbit.md" title="The Hobbit">The Hobbit</a></b></i>.
+Dưới đây được liệt kê là *major* **ấn bản ở Vương quốc Anh** của <i><b><a href="The_Hobbit.md" title="The Hobbit">The Hobbit</a></b></i>.
 
 ## 1937-1980 {#1937-1980}
 
@@ -190,17 +190,17 @@ Dưới đây được liệt kê là *major* **ấn bản tại Vương quốc 
 		</li>
 </ul>
 
-- [1937](../_/1937.md): [George Allen &amp; Unwin](../G/George_Allen_&_Unwin.md), bìa cứng, không có ISBN - (**Ấn bản đầu tiên**, bìa bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md))
-- [1951](../_/1951.md): [George Allen &amp; Unwin](../G/George_Allen_&_Unwin.md), bìa cứng, không có ISBN - (**Ấn bản thứ hai**)
+- [1937](../_/1937.md): [George Allen & Unwin](../G/George_Allen_&_Unwin.md), bìa cứng, không có ISBN - (**Ấn bản đầu tiên**, bìa bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md))
+- [1951](../_/1951.md): [George Allen & Unwin](../G/George_Allen_&_Unwin.md), bìa cứng, không có ISBN - (**Ấn bản thứ hai**)
 - [1961](../_/1961.md): Puffin Books / Penguin Books, bìa mềm, không có ISBN - (ảnh bìa của [Pauline Baynes](../P/Pauline_Baynes.md))
-- [1966](../_/1966.md): [George Allen &amp; Unwin](../G/George_Allen_&_Unwin.md), bìa cứng, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0048230693">ISBN 0048230693</a> - (**Ấn bản thứ ba**)
+- [1966](../_/1966.md): [George Allen & Unwin](../G/George_Allen_&_Unwin.md), bìa cứng, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0048230693">ISBN 0048230693</a> - (**Ấn bản thứ ba**)
 - [1966](../_/1966.md): Longmans, bìa cứng, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0582348889">ISBN 0582348889</a> - (bìa dựa trên tác phẩm nghệ thuật của J.R.R. Tolkien)
 - [1966](../_/1966.md): <a class="new" href="https://tolkiengateway.net/w/index.php?title=Unwin_Books&amp;action=edit&amp;redlink=1" title="Unwin Books (page does not exist)">Giải phóng sách</a>, bìa mềm, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0048230707">ISBN 0048230707</a> - (ảnh bìa của J.R.R. Tolkien)
-- [1972](../_/1972.md): [George Allen &amp; Unwin](../G/George_Allen_&_Unwin.md), bìa mềm, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0048231053">ISBN 0048231053</a> - (Được giới thiệu cho các trường học bởi R.S. Fowler, ảnh bìa của J.R.R. Tolkien)
+- [1972](../_/1972.md): [George Allen & Unwin](../G/George_Allen_&_Unwin.md), bìa mềm, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0048231053">ISBN 0048231053</a> - (Được giới thiệu cho các trường học bởi R.S. Fowler, ảnh bìa của J.R.R. Tolkien)
 - [1975](../_/1975.md): <a class="new" href="https://tolkiengateway.net/w/index.php?title=Unwin_Books&amp;action=edit&amp;redlink=1" title="Unwin Books (page does not exist)">Giải phóng sách</a>, bìa mềm, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0048231266">ISBN 0048231266</a>
     - Ấn bản bìa mềm năm 1975, ấn bản thứ 2 ([1976](../_/1976.md))
-- [1976](../_/1976.md): [George Allen &amp; Unwin](../G/George_Allen_&_Unwin.md), bìa cứng nguyên hộp, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0048231274">ISBN 0048231274</a> - (bìa dựa trên tác phẩm nghệ thuật của J.R.R. Tolkien)
-- [1978](../_/1978.md): [George Allen &amp; Unwin](../G/George_Allen_&_Unwin.md), bìa cứng, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0048231479">ISBN 0048231479</a> - (**Kỷ Đệ Tứ ấn bản**)
+- [1976](../_/1976.md): [George Allen & Unwin](../G/George_Allen_&_Unwin.md), bìa cứng nguyên hộp, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0048231274">ISBN 0048231274</a> - (bìa dựa trên tác phẩm nghệ thuật của J.R.R. Tolkien)
+- [1978](../_/1978.md): [George Allen & Unwin](../G/George_Allen_&_Unwin.md), bìa cứng, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0048231479">ISBN 0048231479</a> - (**Ấn bản thứ tư**)
 - [1979](../_/1979.md): [Bỏ sách bìa mềm](../U/Unwin_Paperbacks.md), sách bìa mềm, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0048231541">ISBN 0048231541</a>
 
 ## 1980-1990 {#1980-1990}
@@ -289,11 +289,11 @@ Dưới đây được liệt kê là *major* **ấn bản tại Vương quốc 
     - Ấn bản bìa mềm năm 1981, lần in thứ 2 ([1982](../_/1982.md))
     - Ấn bản bìa mềm năm 1981, lần in thứ 12 ([1984](../_/1984.md)) - (<a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/004823267X">ISBN 004823267X</a>)
 - [1982](../_/1982.md): F. A. Thorpe Xuất bản, bìa cứng, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0708980651">ISBN 0708980651</a> - (ấn bản in khổ lớn)
-- [1984](../_/1984.md): [George Allen &amp; Unwin](../G/George_Allen_&_Unwin.md), bìa cứng, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0048232734">ISBN 0048232734</a> - (minh họa bởi [Michael Hague](../M/Michael_Hague.md))
+- [1984](../_/1984.md): [George Allen & Unwin](../G/George_Allen_&_Unwin.md), bìa cứng, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0048232734">ISBN 0048232734</a> - (minh họa bởi [Michael Hague](../M/Michael_Hague.md))
 - [1987](../_/1987.md): [Bỏ sách bìa mềm](../U/Unwin_Paperbacks.md), bìa mềm, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0048233803">ISBN 0048233803</a> - (minh họa bởi Michael Hague)
 - [1987](../_/1987.md): [Giải phóng Hyman](../U/Unwin_Hyman.md), bìa cứng, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0048233862">ISBN 0048233862</a> - (**Ấn bản kỷ niệm 50 năm**)
 - [1987](../_/1987.md): [Unwin Hyman](../U/Unwin_Hyman.md), bìa cứng bọc da đựng trong hộp đựng, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0044400918">ISBN 0044400918</a> - (phiên bản siêu sang trọng kỷ niệm)
-    - Ấn bản bìa mềm năm 1981, lần in thứ 20 ([1987](../_/1987.md)) - (ảnh bìa của [Roger Garland](../R/Roger_Garland.md))
+    - Ấn bản bìa mềm năm 1981, ấn bản thứ 20 ([1987](../_/1987.md)) - (ảnh bìa của [Roger Garland](../R/Roger_Garland.md))
     - Ấn bản bìa mềm năm 1981, lần in thứ 25 ([1989](../_/1989.md)) - (ảnh bìa của [Ted Nasmith](Ted_Nasmith.md))
 - [1990](../_/1990.md): Isis / Clio Press, bìa cứng, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/1850898057">ISBN 1850898057</a> - (ấn bản in khổ lớn)
 
@@ -426,7 +426,7 @@ Dưới đây được liệt kê là *major* **ấn bản tại Vương quốc 
 - [1997](../_/1997.md): [HarperCollins](../H/HarperCollins.md) bìa cứng, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/026110330X">ISBN 026110330X</a> - (minh họa bởi [Alan Lee](../A/Alan_Lee.md))
     - Ấn bản bìa cứng năm 1997, ấn bản thứ 10
     - Ấn bản bìa cứng năm 1997, ấn bản thứ 13
-- [1997](../_/1997.md): [HarperCollins](../H/HarperCollins.md) bìa cứng đựng trong hộp trượt, không rõ ISBN<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> - (minh họa bởi Alan Lee)
+- [1997](../_/1997.md): [HarperCollins](../H/HarperCollins.md) bìa cứng đựng trong hộp đựng, không rõ ISBN<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> - (minh họa bởi Alan Lee)
 - [1998](../_/1998.md): Collins, bìa mềm, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0006754023">ISBN 0006754023</a> - (Ấn bản Modern Classics, minh họa bởi David Wyatt)
     - Ấn bản bìa mềm năm 1998, số 33? ấn tượng - (tái bản dưới dạng ấn bản dành cho trẻ em)
     - Ấn bản bìa mềm năm 1998, lần thứ 46? ấn tượng
@@ -541,7 +541,7 @@ Dưới đây được liệt kê là *major* **ấn bản tại Vương quốc 
 		</li>
 </ul>
 
-- [1999](../_/1999.md): [HarperCollins](../H/HarperCollins.md)bìa cứng bọc vải, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0261102575">ISBN 0261102575</a>
+- [1999](../_/1999.md): [HarperCollins](../H/HarperCollins.md) bìa cứng có nắp trượt bọc vải, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0261102575">ISBN 0261102575</a>
 - [1999](../_/1999.md): [HarperCollins](../H/HarperCollins.md) bìa cứng, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0001361287">ISBN 0001361287</a> - (Ấn bản 3D, minh họa bởi [John Howe](../J/John_Howe.md))
 - [1999](../_/1999.md): Ấn bản bìa mềm năm 1993, thiết lập lại năm 1999
     - Ấn bản bìa mềm năm 1999, lần in thứ 6 - (bìa dựa trên tác phẩm nghệ thuật của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md))
@@ -660,18 +660,18 @@ Dưới đây được liệt kê là *major* **ấn bản tại Vương quốc 
 		</li>
 </ul>
 
-- [2011](../_/2011.md): [HarperCollins](../H/HarperCollins.md) bìa cứng, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007440847">ISBN 0007440847</a> - (ấn bản bỏ túi, cũng là một phần của bộ bỏ túi [2017](../_/2017.md) [Trung Địa Kho Bạc](The_Middle-earth_Treasury.md))
+- [2011](../_/2011.md): [HarperCollins](../H/HarperCollins.md) bìa cứng, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007440847">ISBN 0007440847</a> - (ấn bản bỏ túi, cũng là một phần của bộ bỏ túi [2017](../_/2017.md) [Kho bạc Trung Địa](The_Middle-earth_Treasury.md))
     - 2011: Ấn bản bìa mềm năm 1996, ấn bản thứ 29 - (Ấn bản kỷ niệm 75 năm)
     - 2011: Ấn bản bìa mềm năm 1996, ấn bản thứ 30
-- [2012](../_/2012.md): [HarperCollins](../H/HarperCollins.md) bìa cứng không áo khoác, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007487304">ISBN 0007487304</a> - (phiên bản sưu tầm)
+- [2012](../_/2012.md): [HarperCollins](../H/HarperCollins.md) bìa cứng không áo khoác, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007487304">ISBN 0007487304</a> - (ấn bản của người sưu tập)
 - [2012](../_/2012.md): [HarperCollins](../H/HarperCollins.md) bìa mềm, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007487282">ISBN 0007487282</a> - ([phim I](The_Hobbit%253A_An_Unexpected_Journey.md) ấn bản đính kèm, bìa của phim)
-- [2012](../_/2012.md): HarperCollins Sách thiếu nhi, hai bìa mềm đựng trong hộp trượt, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007488513">ISBN 0007488513</a> - (ấn bản hai tập)
-- [2012](../_/2012.md): HarperCollins Sách thiếu nhi, bìa mềm, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007458428">ISBN 0007458428</a> - (Ấn bản dành cho trẻ em, minh họa bởi David Wyatt)
+- [2012](../_/2012.md): Sách thiếu nhi HarperCollins, hai bìa mềm đựng trong hộp trượt, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007488513">ISBN 0007488513</a> - (ấn bản hai tập)
+- [2012](../_/2012.md): Sách thiếu nhi HarperCollins, bìa mềm, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007458428">ISBN 0007458428</a> - (Ấn bản dành cho trẻ em, minh họa bởi David Wyatt)
     - [2013](../_/2013.md): Ấn bản dành cho trẻ em bìa mềm 2012, tái bản 2013
 - [2013](../_/2013.md): [HarperCollins](../H/HarperCollins.md) bìa cứng, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007497903">ISBN 0007497903</a> - (minh họa bởi [Jemima Catlin](../J/Jemima_Catlin.md))
 - [2013](../_/2013.md): [HarperCollins](../H/HarperCollins.md) bìa cứng đựng trong hộp đựng, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007497911">ISBN 0007497911</a> - (minh họa bởi Jemima Catlin)
 - [2013](../_/2013.md): [HarperCollins](../H/HarperCollins.md) bìa cứng, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007525532">ISBN 0007525532</a> - (phiên bản bỏ túi đựng phim)
-- [2013](../_/2013.md): [HarperCollins](../H/HarperCollins.md) bìa mềm, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007525494">ISBN 0007525494</a> - ([phim II](The_Hobbit%253A_The_Desolation_of_Smaug.md) ấn bản đính kèm, bìa của phim)
+- [2013](../_/2013.md): [HarperCollins](../H/HarperCollins.md) bìa mềm, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007525494">ISBN 0007525494</a> - ([ấn bản đính kèm phim II](The_Hobbit%253A_The_Desolation_of_Smaug.md), bìa của phim)
 - [2014](../_/2014.md): [HarperCollins](../H/HarperCollins.md) bìa mềm, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0544422848">ISBN 0544422848</a> - ([phim III](The_Hobbit%253A_The_Battle_of_the_Five_Armies.md) ấn bản đính kèm, bìa của phim)
 - [2014](../_/2014.md): [HarperCollins](../H/HarperCollins.md) bìa mềm, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0008108285">ISBN 0008108285</a> - (ấn bản in khổ lớn)
 
@@ -750,20 +750,20 @@ Dưới đây được liệt kê là *major* **ấn bản tại Vương quốc 
 		</li>
 </ul>
 
-- [2016](../_/2016.md): [HarperCollins](../H/HarperCollins.md) bìa cứng, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007440839">ISBN 0007440839</a> - (ấn bản fax đầu tiên, cũng được bao gồm trong [2018](../_/2018.md) [Hộp quà](The_Hobbit_Facsimile_Gift_Edition.md))
+- [2016](../_/2016.md): [HarperCollins](../H/HarperCollins.md) bìa cứng, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007440839">ISBN 0007440839</a> - (bản fax đầu tiên, cũng được bao gồm trong [2018](../_/2018.md) [Hộp quà](The_Hobbit_Facsimile_Gift_Edition.md))
 - [2017](../_/2017.md): [HarperCollins](../H/HarperCollins.md) bìa mềm, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007497938">ISBN 0007497938</a> - (minh họa bởi [Jemima Catlin](../J/Jemima_Catlin.md))
 - [2020](../_/2020.md): [HarperCollins](../H/HarperCollins.md) bìa cứng, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0008376115">ISBN 0008376115</a> - (minh họa bởi [Alan Lee](../A/Alan_Lee.md))
 - [2020](../_/2020.md): [HarperCollins](../H/HarperCollins.md) bìa mềm, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0008376050">ISBN 0008376050</a>
     - [2022](../_/2022.md): Ấn bản bìa mềm năm 1996, ấn bản thứ 68
 - [2023](../_/2023.md): [HarperCollins](../H/HarperCollins.md) bìa cứng, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0008627789">ISBN 0008627789</a> - (minh họa bởi [tác giả](../J/J.R.R._Tolkien.md))
-- [2023](../_/2023.md): [HarperCollins](../H/HarperCollins.md) bìa cứng đựng trong hộp, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0008627835">ISBN 0008627835</a> - (do tác giả minh họa)
+- [2023](../_/2023.md): [HarperCollins](../H/HarperCollins.md) bìa cứng đựng trong hộp đựng, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0008627835">ISBN 0008627835</a> - (do tác giả minh họa)
     - 2023: Ấn bản bìa mềm năm 1996, lần in thứ 73
 - [2025](../_/2025.md): [HarperCollins](../H/HarperCollins.md) bìa cứng đựng trong hộp đựng, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/9780008779900">ISBN 978-0008779900</a> - (minh họa bởi Alan Lee, ấn bản hộp đựng cao cấp)
 - [2026](../_/2026.md): [HarperCollins](../H/HarperCollins.md) bìa cứng đựng trong hộp trượt, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/9780008843076">ISBN 9780008843076</a> - (minh họa bởi [Tove Jansson](Tove_Jansson.md), ấn bản kỷ niệm 90 năm)
 
 ## Tiểu thuyết đồ họa {#Graphic_novel}
 
-Trong [1989](../_/1989.md) *The Hobbit* đã được chuyển thể thành bộ truyện tranh ba tập, được xuất bản bởi Eclipse Comics. Truyện được Chuck Dixon chuyển thể từ nguyên tác và David T. Wenzel minh họa. Chúng được đóng thành một tập bìa mềm thương mại [1990](../_/1990.md)và các ấn bản mới hơn đã được phát hành trong những năm tiếp theo.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Trong [1989](../_/1989.md) *The Hobbit* đã được chuyển thể thành bộ truyện tranh ba tập, được xuất bản bởi Eclipse Comics. Truyện được Chuck Dixon chuyển thể từ nguyên tác và David T. Wenzel minh họa. Chúng được đóng thành một tập bìa mềm thương mại [1990](../_/1990.md) và các ấn bản mới hơn đã được phát hành trong những năm tiếp theo.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <ul class="gallery mw-gallery-traditional">
 		<li class="gallerybox" style="width: 160px">
@@ -837,9 +837,9 @@ Trong [1989](../_/1989.md) *The Hobbit* đã được chuyển thể thành bộ
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://www.tolkienlibrary.com/booksbytolkien/hobbit/editions.htm" rel="noreferrer noopener" target="_blank">The Hobbit - ấn bản</a> tại [Tolkien Thư viện](Tolkien_Library.md)
+- <a class="external text" href="http://www.tolkienlibrary.com/booksbytolkien/hobbit/editions.htm" rel="noreferrer noopener" target="_blank">The Hobbit - ấn bản</a> tại [Thư viện Tolkien](Tolkien_Library.md)
 - <a class="external text" href="http://www.tolkienbooks.net/php/hobbit.php" rel="noreferrer noopener" target="_blank">Ấn bản Vương quốc Anh của <i>The Hobbit</i></a> tại <a class="external text" href="http://www.tolkienbooks.net/" rel="noreferrer noopener" target="_blank">TolkienBooks.net</a>
-- <a class="extiw" href="http://en.wikipedia.org/wiki/Early_American_editions_of_The_Hobbit" title="wikipedia:Early American editions of The Hobbit">Các ấn bản đầu tiên ở Mỹ của The Hobbit</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
+- <a class="extiw" href="http://en.wikipedia.org/wiki/Early_American_editions_of_The_Hobbit" title="wikipedia:Early American editions of The Hobbit">Các ấn bản đầu tiên của Người Hobbit ở Mỹ</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
 - <a class="external text" href="https://www.tolkienguide.com/modules/newbb/viewtopic.php?topic_id=6285" rel="noreferrer noopener" target="_blank">So sánh một số ấn bản bìa mềm thương mại gần đây</a> trên TCG.com
 
 <span></span>

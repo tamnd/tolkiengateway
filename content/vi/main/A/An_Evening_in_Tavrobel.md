@@ -17,7 +17,7 @@ langlinks:
     url: "https://kontu.wiki/An_Evening_in_Tavrobel"
 ---
 
-**Một buổi tối trong Tavrobel** là một bài thơ được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và xuất bản trong [1924](../_/1924.md) trong *[Leeds University Verse 1914-24](../L/Leeds_University_Verse_1914-24.md)* trang 56.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Có lẽ nó được viết vài năm trước đó, trong [1916](../_/1916.md) hoặc [1917](../_/1917.md). Bài thơ kể lại một buổi tối ở [Tavrobel](../T/Tavrobel.md), một nơi bên kia sông [Gruir](../G/Gruir.md) và [Afros](Afros.md), nơi sinh sống của yêu tinh [Gifanon](../G/Gilfanon.md).<sup id="cite_ref-AH_2-0" class="reference"><a href="#cite_note-AH-2">[2]</a></sup>
+**Một buổi tối ở Tavrobel** là một bài thơ được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và xuất bản trong [1924](../_/1924.md) trong *[Leeds University Verse 1914-24](../L/Leeds_University_Verse_1914-24.md)* ở trang 56.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Nó có thể được viết vài năm trước đó, trong [1916](../_/1916.md) hoặc [1917](../_/1917.md). Bài thơ kể lại một buổi tối ở [Tavrobel](../T/Tavrobel.md), một nơi bên kia sông [Gruir](../G/Gruir.md) và [Afros](Afros.md), nơi sinh sống của yêu tinh [Gilfanon](../G/Gilfanon.md).<sup id="cite_ref-AH_2-0" class="reference"><a href="#cite_note-AH-2">[2]</a></sup>
 
 Bài thơ đã được tái bản trong *[Three Early Poems](../T/Three_Early_Poems.md)* (1991),<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> và trong [*Amon Hen* 242](Amon_Hen_242.md) (2013), cùng với lời bình của Fernando Cid Lucas và Bernardo Santano Moreno.<sup id="cite_ref-AH_2-1" class="reference"><a href="#cite_note-AH-2">[2]</a></sup> Bài thơ được đưa vào ấn bản mở rộng của *[The Adventures of Tom Bombadil](../T/The_Adventures_of_Tom_Bombadil.md)* (2014).
 
@@ -50,7 +50,7 @@ thirsty, perchance, from dancing all noon.
 
 ## Xem thêm {#See_also}
 
-- [Các bài thơ của J.R.R. Tolkien](../../index/P/Poems_by_J.R.R._Tolkien.md)
+- [Thơ của J.R.R. Tolkien](../../index/P/Poems_by_J.R.R._Tolkien.md)
 
 <span></span>
 

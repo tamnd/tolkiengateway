@@ -42,7 +42,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/AmonHen156.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/bf/AmonHen156.jpg/320px-AmonHen156.jpg" decoding="async" loading="lazy" width="320" height="454" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/bf/AmonHen156.jpg/480px-AmonHen156.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/b/bf/AmonHen156.jpg/640px-AmonHen156.jpg 2x" data-file-width="705" data-file-height="1000"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Amon Hen 156</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Andrew McMurry</td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data">Alexander Ormerod</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Printer</th><td class="tg-infobox-data">Centurian Press, Rickmansworth, UK</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">March <a href="../_/1999.md" title="1999">1999</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">A5 stapled paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">28</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0306-8781</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Amon_Hen_155.md" title="Amon Hen 155">Amon Hen 155</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Amon_Hen_157.md" title="Amon Hen 157">Amon Hen 157</a></td></tr></tbody></table>
 
-<b><i>Amon Hen</i> 156</b> là số một trăm năm mươi sáu của tạp chí hai tháng một lần của [Hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, xuất bản vào tháng 3 [1999](../_/1999.md).
+<b><i>Amon Hen</i> 156</b> là số một trăm năm mươi sáu của tạp chí hai tháng một lần của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, được xuất bản vào tháng 3 [1999](../_/1999.md).
 
 ## Nội dung {#Contents}
 
@@ -51,13 +51,13 @@ infobox:
 - Biên tập
     - Bởi: Andrew McMurry
 - Nội dung
-- Bywater Thông báo
+- Thông báo bên bờ nước
     - Bởi: Malcolm Lindley
 - ĐHĐCĐ thường niên 1999 & Sửa đổi Hiến pháp
 - [Oxonmoot](../O/Oxonmoot.md) '99
 - Hội thảo '99
 - Thông báo
-- Sự kiện Tolkien Quốc tế
+- Sự kiện Tolkien quốc tế
 - Đánh giá: Narnia tại RSC
     - Bởi: [Chris Crawshaw](../C/Chris_Crawshaw.md)
 - Phía sau cánh cửa kính
@@ -72,7 +72,7 @@ infobox:
     - Bởi: Christian Schrange
 - Dấu chân trên thảm hoa của tôi
     - Bởi: [Helen Armstrong](../H/Helen_Armstrong.md)
-- Nhật thực trong cuộc đời và sự nghiệp của Tolkien
+- Nhật thực trong cuộc đời và tác phẩm của Tolkien
     - Bởi: [Gary Hunnewell](../S/Sumner_Gary_Hunnewell.md)
 - Tin tức từ Fangorn
     - Bởi: Lucy Ritchie
@@ -81,7 +81,7 @@ infobox:
 - Trang thư
 - Toán học
     - Bởi: Ian Collier & Anke Büttner
-- Truyện dân ca
+- Truyện dân gian
 - Thành viên/Ủy ban mới
 
 <div class="template-prevnext"><div class="template-prevnext__prev template-prevnext__link"><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/8/81/WikimediaUI-ArrowPrevious-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__content"><div class="template-prevnext__title">Amon Hen 155</div></div><div class="template-prevnext__linkoverlay"><a href="Amon_Hen_155.md" title="Amon Hen 155">Amon Hen 155</a></div></div><div class="template-prevnext__current"><div class="template-prevnext__content"><div class="template-prevnext__title">Amon Hen 156</div></div></div><div class="template-prevnext__next template-prevnext__link"><div class="template-prevnext__content"><div class="template-prevnext__title">Amon Hen 157</div></div><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/7b/WikimediaUI-ArrowNext-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__linkoverlay"><a href="Amon_Hen_157.md" title="Amon Hen 157">Amon Hen 157</a></div></div></div>

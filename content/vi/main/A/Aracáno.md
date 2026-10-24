@@ -12,7 +12,7 @@ categories:
   - "Quenya names"
 ---
 
-**Aracáno** là tên [Quenya](../Q/Quenya.md) có nghĩa là "Cao Thủ lĩnh", là [amilessë](Amilessë.md) của [Fingolfin](../F/Fingolfin.md). Đổi lại, ông đưa nó cho đứa con trai út của mình, có tên [Sindar hóa](../S/Sindarized.md) là <i><b><a href="Argon.md" title="Argon">Argon</a></b></i>.<sup id="cite_ref-Shibboleth_1-0" class="reference"><a href="#cite_note-Shibboleth-1">[1]</a></sup>
+**Aracáno** là tên [Quenya](../Q/Quenya.md) có nghĩa là "Thủ lĩnh cấp cao", là [amilessë](Amilessë.md) của [Fingolfin](../F/Fingolfin.md). Đổi lại, ông đưa nó cho con trai út của mình, cậu bé có tên [Sindarized](../S/Sindarized.md) là <i><b><a href="Argon.md" title="Argon">Argon</a></b></i>.<sup id="cite_ref-Shibboleth_1-0" class="reference"><a href="#cite_note-Shibboleth-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

@@ -183,7 +183,7 @@ Tồn tại nhiều **kiểu chữ** hoặc **họ phông chữ** dựa trên t�
 
 ### Phông chữ Unicode {#Unicode_fonts}
 
-Các kiểu chữ này tuân theo các điểm mã được chỉ định trong <a class="extiw" href="http://en.wikipedia.org/wiki/ConScript_Unicode_Registry" title="wikipedia:ConScript Unicode Registry">ConScript Unicode Register</a>, được ủng hộ bởi Tengwar Dự án Phông chữ Miễn phí. Điều này cho phép họ cũng hỗ trợ các tập lệnh khác.
+Các kiểu chữ này tuân theo các điểm mã được chỉ định trong <a class="extiw" href="http://en.wikipedia.org/wiki/ConScript_Unicode_Registry" title="wikipedia:ConScript Unicode Registry">Sổ đăng ký Unicode ConScript</a>, do Dự án Phông chữ Miễn phí Tengwar bảo vệ. Điều này cho phép họ cũng hỗ trợ các tập lệnh khác.
 
 <table class="wikitable sortable">
 <tbody><tr>
@@ -303,7 +303,7 @@ Các kiểu chữ này tuân theo các điểm mã được chỉ định trong 
 
 ### Phông chữ TengTeX {#TengTeX_Fonts}
 
-<a class="external text" href="https://ctan.org/pkg/tengtex" rel="noreferrer noopener" target="_blank">TengTeX</a> là gói sắp chữ Tengwar sử dụng <a class="extiw" href="http://en.wikipedia.org/wiki/LaTeX" title="wikipedia:LaTeX">LaTeX</a>. Những phông chữ này được thiết kế để sử dụng với nó.
+<a class="external text" href="https://ctan.org/pkg/tengtex" rel="noreferrer noopener" target="_blank">TengTeX</a> là gói sắp chữ Tengwar bằng <a class="extiw" href="http://en.wikipedia.org/wiki/LaTeX" title="wikipedia:LaTeX">LaTeX</a>. Những phông chữ này được thiết kế để sử dụng với nó.
 
 <table class="wikitable sortable">
 <tbody><tr>
@@ -391,7 +391,7 @@ Mã hóa của các phông chữ này vẫn chưa được biết. Họ có th�
 <td>
 </td></tr></tbody></table>
 
-### Tengwar-kiểu Latin {#Tengwar-Style_Latin}
+### Tiếng Latin kiểu Tengwar {#Tengwar-Style_Latin}
 
 Đây là những kiểu chữ sử dụng chữ Latinh nhưng được thiết kế trông giống Tengwar.
 
@@ -447,7 +447,7 @@ Mã hóa của các phông chữ này vẫn chưa được biết. Họ có th�
 
 ## Các kiểu chữ Runic {#Runic_typefaces}
 
-Các kịch bản runic khác nhau. Xem thêm phần Unicode Tengwar ở trên, để biết một số trong số chúng bao gồm Cirth.
+Các kịch bản runic khác nhau. Xem thêm phần Tengwar Unicode ở trên, để biết một số trong số đó bao gồm Cirth.
 
 <table class="wikitable sortable">
 <tbody><tr>
@@ -518,7 +518,7 @@ Các kiểu chữ khác liên quan đến Tolkien.
 
 ## Các kiểu chữ thích ứng {#Adaptational_typefaces}
 
-### Peter Jackson bộ ba {#Peter_Jackson_trilogy}
+### Bộ ba Peter Jackson {#Peter_Jackson_trilogy}
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/D/Daniel_Reeve_-_Lettering.gif.md"><img src="https://tolkiengateway.net/w/images/thumb/8/88/Daniel_Reeve_-_Lettering.gif/250px-Daniel_Reeve_-_Lettering.gif" decoding="async" loading="lazy" width="250" height="356" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/88/Daniel_Reeve_-_Lettering.gif/375px-Daniel_Reeve_-_Lettering.gif 1.5x, https://tolkiengateway.net/w/images/thumb/8/88/Daniel_Reeve_-_Lettering.gif/500px-Daniel_Reeve_-_Lettering.gif 2x" data-file-width="591" data-file-height="842"/></a><figcaption>An assortment of letterings done by <a href="../D/Daniel_Reeve.md" title="Daniel Reeve">Daniel Reeve</a>.</figcaption></figure>
 
@@ -602,7 +602,7 @@ Các kiểu chữ khác liên quan đến Tolkien.
 
 ### Các kiểu chữ hiện có {#Existing_typefaces}
 
-Đôi khi các kiểu chữ có sẵn được sử dụng trong phương tiện liên quan đến Tolkien.
+Đôi khi các kiểu chữ có sẵn được sử dụng trong các phương tiện liên quan đến Tolkien.
 
 <table class="wikitable sortable">
 <tbody><tr>
@@ -651,10 +651,10 @@ Các kiểu chữ khác liên quan đến Tolkien.
 ## Liên kết ngoài {#External_links}
 
 - <a class="external text" href="http://tengwar.art.pl/tengwar/fonty.php" rel="noreferrer noopener" target="_blank">Tengwar na PC : fonty</a> Trang tiếng Ba Lan có danh sách các phông chữ tengwar cùng với các liên kết của chúng.
-- <a class="external text" href="http://www.danielreeve.co.nz/Fonts/" rel="noreferrer noopener" target="_blank">Mua Tolkien Phông chữ từ Daniel Reeve</a>
+- <a class="external text" href="http://www.danielreeve.co.nz/Fonts/" rel="noreferrer noopener" target="_blank">Mua phông chữ Tolkien từ Daniel Reeve</a>
 - <a class="external text" href="http://www.acondia.com/fonts/" rel="noreferrer noopener" target="_blank">Phông chữ tưởng tượng của Dan Smith</a>
 - <a class="external text" href="https://www.thehutt.de/tolkien/fonts.html" rel="noreferrer noopener" target="_blank">Bộ sưu tập phông chữ Tolkien của Hutt</a>, bao gồm một số phông chữ giả tưởng
-- <a class="external text" href="https://www.reddit.com/r/Tengwar/comments/1aubbx2/complete_tengwar_fonts_guide/" rel="noreferrer noopener" target="_blank">Hoàn thành Tengwar Hướng dẫn về phông chữ trên Reddit</a>
+- <a class="external text" href="https://www.reddit.com/r/Tengwar/comments/1aubbx2/complete_tengwar_fonts_guide/" rel="noreferrer noopener" target="_blank">Hoàn thành hướng dẫn về phông chữ Tengwar trên Reddit</a>
 
 <span></span>
 

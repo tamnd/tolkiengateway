@@ -27,9 +27,9 @@ file:
 
 ## Tóm tắt {#Summary}
 
-*[Maedhros](../../main/M/Maedhros.md), đau khổ vô vọng, cầu xin [Fingon](../../main/F/Fingon.md) bắn anh ta. Fingon, không còn hy vọng nào tốt hơn, giương cung và kêu lên [Manwë](../../main/M/Manwë.md) "Hỡi Vua người mà tất cả các loài chim đều yêu quý, hãy tăng tốc chiếc trục lông vũ này và nhớ lại một chút thương xót cho [Noldor](../../main/N/Noldor.md) đang cần chúng!"*
+*[Maedhros](../../main/M/Maedhros.md), đau khổ vô vọng, cầu xin [Fingon](../../main/F/Fingon.md) bắn ông ta. Fingon, không còn hy vọng nào tốt hơn, giương cung và kêu lên [Manwë](../../main/M/Manwë.md) "Hỡi Vua người mà tất cả các loài chim đều yêu quý, hãy tăng tốc chiếc trục lông vũ này và nhớ lại một chút thương xót cho [Noldor](../../main/N/Noldor.md) đang cần chúng!"*
 
-*Lời cầu nguyện của anh đã nhanh chóng được đáp lại, vì Manwë đã ra lệnh canh chừng Morgoth vì anh vẫn còn chút thương xót cho Tiên tộc người bị lưu đày. Ngay khi Fingon giương cung, [Thorondor](../../main/T/Thorondor.md), Vua của [Đại Bàng](../../main/E/Eagles.md), bay xuống từ trên cao và nắm lấy tay Fingon, đưa anh ta đến vách núi nơi bạn anh ta bị treo cổ...*
+*Lời cầu nguyện của anh đã nhanh chóng được đáp lại, vì Manwë đã ra lệnh canh chừng Morgoth vì anh vẫn còn chút thương xót cho Tiên tộc người bị lưu đày. Ngay khi Fingon giương cung, [Thorondor](../../main/T/Thorondor.md), Vua của [Đại Bàng](../../main/E/Eagles.md), bay xuống từ trên cao và nắm lấy tay Fingon, đưa ông ta đến vách núi nơi bạn ông ta bị treo cổ...*
 
 ## Giấy phép {#Licensing}
 

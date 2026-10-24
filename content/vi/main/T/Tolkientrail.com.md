@@ -15,11 +15,11 @@ hidden_categories:
   - "Pages with short description"
 ---
 
-**Tolkien Đường mòn** là một trang web tương tác dành cho người hâm mộ Chúa tể những chiếc nhẫn được ra mắt vào [2000](../_/2000.md). Nó cung cấp các trò chơi và nhiều hoạt động khác bao gồm diễn đàn [Entmoot](../E/Entmoot.md), được thành lập vào [1999](../_/1999.md). Người dùng có thể di chuyển đến các địa điểm và lựa chọn hoạt động, phần lớn được hướng dẫn bởi [Gandalf](../G/Gandalf_the_Grey.md).
+**Đường mòn Tolkien** là một trang web tương tác dành cho người hâm mộ Chúa tể những chiếc nhẫn được ra mắt vào [2000](../_/2000.md). Nó cung cấp các trò chơi và nhiều hoạt động khác bao gồm diễn đàn [Entmoot](../E/Entmoot.md), được thành lập vào [1999](../_/1999.md). Người dùng có thể di chuyển đến các địa điểm và chọn các hoạt động, phần lớn được hướng dẫn bởi [Gandalf](../G/Gandalf_the_Grey.md).
 
 <br>
 
 ## Liên kết ngoài {#External_links}
 
 - <a class="external text" href="http://www.tolkientrail.com" rel="noreferrer noopener" target="_blank">Trang web chính thức</a>
-- <a class="external text" href="http://entmoot.tolkientrail.com" rel="noreferrer noopener" target="_blank">Entmoot</a>
+- <a class="external text" href="http://entmoot.tolkientrail.com" rel="noreferrer noopener" target="_blank">Thảo luận</a>

@@ -30,19 +30,19 @@ infobox:
 <p class="tg-quote-footer"><cite><a href="../F/Fredegar_Bolger.md" title="Fredegar Bolger">Fredegar Bolger</a><sup id="cite_ref-Cut_1-0" class="reference"><a href="#cite_note-Cut-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Nấm** là một [nấm](../F/Funguses.md) ăn được. Nghe nói Hobbit có niềm đam mê với nấm, vượt qua cả sở thích tham lam nhất của [Người to lớn](Men.md).<sup id="cite_ref-Cut_1-1" class="reference"><a href="#cite_note-Cut-1">[1]</a></sup>
+**Nấm** là một [nấm](../F/Funguses.md) ăn được. Người ta kể rằng người Hobbit có niềm đam mê với nấm, vượt qua cả sở thích tham lam nhất của [Người to lớn](Men.md).<sup id="cite_ref-Cut_1-1" class="reference"><a href="#cite_note-Cut-1">[1]</a></sup>
 
 ## Lịch sử {#History}
 
-Nấm là niềm vui đặc biệt của giới trẻ [Frodo Baggins](../F/Frodo_Baggins.md), những người thường ăn trộm chúng từ ruộng của [Farmer Maggot](../F/Farmer_Maggot.md). Lão Maggot vẫn còn nhớ điều đó khi Frodo đến [trang trại](../B/Bamfurlong.md) của ông nhiều năm sau đó, và như một món quà chia tay, [Bà. Giòi](Mrs._Maggot.md) tặng Frodo một giỏ nấm quý.<sup id="cite_ref-Cut_1-2" class="reference"><a href="#cite_note-Cut-1">[1]</a></sup>
+Nấm là niềm vui đặc biệt của [Frodo Baggins](../F/Frodo_Baggins.md) trẻ tuổi, những người thường ăn trộm chúng từ cánh đồng của [Farmer Maggot](../F/Farmer_Maggot.md). Già Maggot vẫn nhớ điều đó khi Frodo đến [trang trại](../B/Bamfurlong.md) của ông nhiều năm sau đó, và như một món quà chia tay, [Bà. Giòi](Mrs._Maggot.md) đưa cho Frodo một giỏ nấm quý.<sup id="cite_ref-Cut_1-2" class="reference"><a href="#cite_note-Cut-1">[1]</a></sup>
 
 ## Cảm hứng {#Inspiration}
 
-[J.R.R. Tolkien](../J/J.R.R._Tolkien.md) tự mô tả mình là một Hobbit về mọi mặt ngoại trừ kích thước, lưu ý rằng anh ấy rất thích nấm.<sup id="cite_ref-L213_2-0" class="reference"><a href="#cite_note-L213-2">[2]</a></sup>
+[J.R.R. Tolkien](../J/J.R.R._Tolkien.md) tự mô tả mình là người Hobbit về mọi mặt ngoại trừ kích thước, lưu ý rằng ông rất thích nấm.<sup id="cite_ref-L213_2-0" class="reference"><a href="#cite_note-L213-2">[2]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong một ghi chú thảo luận về [Drúedain](../D/Drúedain.md), Tolkien đã đề cập đến các loại nấm trong [Kỷ Đệ Nhất](../F/First_Age.md): chúng thường bị [Tiên tộc](../E/Elves.md) và hầu hết [Edain](../E/Edain.md) coi là xấu xí và nguy hiểm, và những người ít khôn ngoan hơn gọi chúng là "cây ork", tin rằng chúng bị [Morgoth](Morgoth.md) nguyền rủa và tàn lụi. Những con Eldar không ăn chúng và chỉ một số ít Edain biết cách phân biệt những con ăn được và có thể ăn chúng vì cơn đói khủng khiếp khi bị lạc trong tự nhiên. Người Drúedain có truyền thuyết về thực vật và ăn nấm một cách thích thú (trước sự ngạc nhiên của những dân tộc khác), và họ đã nuôi trồng những loại nấm mà họ yêu thích. Họ truyền đạt kiến ​​thức này cho [Haladin](../H/Haladin.md), những người sẽ ăn chúng khi có khách không lịch sự và giải quyết cho họ khi cần. Tolkien sau đó đã loại bỏ ghi chú vì tin rằng đặc điểm này khiến Drúedain "quá giống Hobbit".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Trong một ghi chú thảo luận về [Drúedain](../D/Drúedain.md), Tolkien đã đề cập đến các loại nấm ở [Thời đại thứ nhất](../F/First_Age.md): chúng thường bị [Yêu tinh](../E/Elves.md) và hầu hết [Edain](../E/Edain.md) coi là xấu xí và nguy hiểm, và những người ít khôn ngoan hơn gọi chúng là "cây ork-plants", tin rằng chúng bị [Morgoth](Morgoth.md) nguyền rủa và tàn lụi. Các Eldar không ăn chúng và chỉ một số ít Edain biết cách phân biệt những gì ăn được và có thể ăn chúng vì cơn đói khủng khiếp khi lạc vào nơi hoang dã. Người Drúedain có truyền thuyết về thực vật và ăn nấm một cách thích thú (trước sự ngạc nhiên của các dân tộc khác), và họ đã nuôi trồng những loại nấm yêu thích của mình. Họ truyền kiến ​​thức này cho [Haladin](../H/Haladin.md), người ăn chúng khi có khách không lịch sự và giải quyết cho họ khi cần. Tolkien sau đó đã loại bỏ mảnh giấy đó vì tin rằng đặc điểm này khiến Drúedain "quá giống người Hobbit".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
@@ -65,35 +65,35 @@ Trong một ghi chú thảo luận về [Drúedain](../D/Drúedain.md), Tolkien 
 		</li>
 </ul>
 
-<b>1984-1997: <i><a href="Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i></b>
+<b>1984-1997: <i><a href="Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Nhập vai Trung Địa</a></i></b>
 
 <dl><dd>The various books released for the game describe <a href="Mushrooms_in_Middle-earth_Role_Playing.md" title="Mushrooms in Middle-earth Role Playing">many different kinds of mushrooms</a>.</dd></dl>
 
-<b>2001: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i>:</b>
+<b>2001: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">Chúa tể của những chiếc nhẫn: Hiệp hội những chiếc nhẫn</a></i>:</b>
 
 <dl><dd>Though the scenes in Maggot&#39;s house have been omitted, a nod to mushrooms is given when the four Hobbits escape Farmer Maggot. <a href="../P/Peregrin_Took.md" title="Peregrin Took">Pippin</a> spots them after a comment on a &#34;short cut&#34;, making the full phrase sound as &#34;A short cut to... mushrooms!&#34;, the chapter title.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></dd></dl>
 
-<b>2002: <a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md" title="The Lord of the Rings: The Fellowship of the Ring (video game)"><i>The Lord of the Rings: The Fellowship of the Ring</i> (trò chơi điện tử)</a>:</b>
+<b>2002: <a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md" title="The Lord of the Rings: The Fellowship of the Ring (video game)"><i>Chúa tể của những chiếc nhẫn: Hiệp hội những chiếc nhẫn</i> (trò chơi điện tử)</a>:</b>
 
 <dl><dd>Mushrooms are collectible items found throughout the Shire. When eaten, they restore 10 points of the player&#39;s health.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></dd></dl>
 
-<b>2003: <a href="../T/The_Hobbit_(2003_video_game).md" title="The Hobbit (2003 video game)"><i>The Hobbit</i> (trò chơi điện tử năm 2003)</a>:</b>
+<b>2003: <a href="../T/The_Hobbit_(2003_video_game).md" title="The Hobbit (2003 video game)"><i>Người Hobbit</i> (trò chơi điện tử năm 2003)</a>:</b>
 
 <dl><dd>Mushrooms serve as power-ups throughout the game. One mushroom - green and blue of colour - restores one health bubble.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Later in the game, larger, clustered mushrooms serve as a full healing item.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></dd></dl>
 
-<b>2005: <i><a href="../T/The_Lord_of_the_Rings_Roleplaying_Game.md" title="The Lord of the Rings Roleplaying Game">The Lord of the Rings Trò chơi nhập vai</a>: <a href="../P/Paths_of_the_Wise%253A_The_Guide_to_Magicians_and_Loremasters.md" title="Paths of the Wise: The Guide to Magicians and Loremasters">Con đường khôn ngoan</a></i></b>
+<b>2005: <i><a href="../T/The_Lord_of_the_Rings_Roleplaying_Game.md" title="The Lord of the Rings Roleplaying Game">Trò chơi nhập vai Chúa tể của những chiếc nhẫn</a>: <a href="../P/Paths_of_the_Wise%253A_The_Guide_to_Magicians_and_Loremasters.md" title="Paths of the Wise: The Guide to Magicians and Loremasters">Con đường của nhà thông thái</a></i></b>
 
 <dl><dd><b>Carnestad</b> (<a href="../S/Sindarin.md" title="Sindarin">S.</a> “red healing”) was described in the book as a squat mushroom with a bright red cap, native to <a href="Mirkwood.md" title="Mirkwood">Mirkwood</a>. It neutralized disease, broke fevers, and alleviated symptoms of sickness. Elves guarded its patches carefully, while Men sought to sell them and Orcs tried to deny others their benefits.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
 
 <dl><dd>Mushrooms can be grown by players who are farmers by profession. Players who are cooks can make these into mushroom pie, fried mushroom and fried dace with mushrooms. These are foods for low leveled characters that can increase different traits.</dd></dl>
 
-<b>2012: <i><a href="../T/The_Hobbit%253A_An_Unexpected_Journey.md" title="The Hobbit: An Unexpected Journey">The Hobbit: An Unexpected Journey</a></i>:</b>
+<b>2012: <i><a href="../T/The_Hobbit%253A_An_Unexpected_Journey.md" title="The Hobbit: An Unexpected Journey">Người Hobbit: Hành trình bất ngờ</a></i>:</b>
 
 <dl><dd>During the <a href="../W/White_Council.md" title="White Council">White Council</a> <a href="../S/Saruman.md" title="Saruman">Saruman</a>, in order to dismiss <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a>&#39;s fears about the <a class="mw-redirect" href="../N/Necromancer.md" title="Necromancer">Necromancer</a>, mentions that <a href="../R/Radagast.md" title="Radagast">Radagast</a> consumes mushrooms excessively, which have blurred his cognition and judgement.</dd></dl>
 
-<b>2014: <i><a href="Middle-earth%253A_Shadow_of_Mordor.md" title="Middle-earth: Shadow of Mordor">Trung Địa: Bóng Tối trong số Mordor</a></i></b>
+<b>2014: <i><a href="Middle-earth%253A_Shadow_of_Mordor.md" title="Middle-earth: Shadow of Mordor">Trung địa: Cái bóng của Mordor</a></i></b>
 
 <dl><dd>Several mushrooms can be foraged in the game:<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></dd></dl>
 

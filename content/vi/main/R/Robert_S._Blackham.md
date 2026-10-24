@@ -24,7 +24,7 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/R/Robert_S._Blackham.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/50/Robert_S._Blackham.jpg/300px-Robert_S._Blackham.jpg" decoding="async" loading="lazy" width="300" height="450" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/50/Robert_S._Blackham.jpg/450px-Robert_S._Blackham.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/5/50/Robert_S._Blackham.jpg/600px-Robert_S._Blackham.jpg 2x" data-file-width="2000" data-file-height="3000"/></a><figcaption>Bob Blackham at <a href="../T/The_Return_of_the_Ring.md" title="The Return of the Ring">The Return of the Ring</a>, 2012</figcaption></figure>
 
-**Robert S. Blackham** là thành viên của [Hội Tolkien](../T/The_Tolkien_Society.md) và <a class="new" href="https://tolkiengateway.net/w/index.php?title=Birmingham_Tolkien_Group&amp;action=edit&amp;redlink=1" title="Birmingham Tolkien Group (page does not exist)">Birmingham Tolkien Nhóm</a>. Anh ấy đã tổ chức các chuyến tham quan [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) ở [Birmingham](../B/Birmingham.md) và [Oxford](../O/Oxford.md), đồng thời đã viết nhiều cuốn sách về nó.
+**Robert S. Blackham** là thành viên của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) và <a class="new" href="https://tolkiengateway.net/w/index.php?title=Birmingham_Tolkien_Group&amp;action=edit&amp;redlink=1" title="Birmingham Tolkien Group (page does not exist)">Nhóm Birmingham Tolkien</a>. Ông đã tổ chức các chuyến tham quan [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) ở [Birmingham](../B/Birmingham.md) và [Oxford](../O/Oxford.md) và đã viết nhiều cuốn sách về nó.
 
 ## Thư mục {#Bibliography}
 
@@ -40,13 +40,13 @@ images:
 ### Bài viết {#Articles}
 
 - [2005](../_/2005.md): *[Amon Hen 194](../A/Amon_Hen_194.md)*
-    - "Báo cáo: Cuối tuần Tolkien năm 2005"
+    - "Báo cáo: Cuối tuần Tolkien 2005"
 - [2005](../_/2005.md): *[Amon Hen 196](../A/Amon_Hen_196.md)*
-    - "Báo cáo: Tolkien Chuyến tham quan của huấn luyện viên tháng 8 năm 2005"
+    - "Báo cáo: Chuyến tham quan của huấn luyện viên Tolkien tháng 8 năm 2005"
 - [2007](../_/2007.md): *[Amon Hen 204](../A/Amon_Hen_204.md)*
-    - "J.R.R. Tolkien trong Vua's Heath"
+    - "J.R.R. Tolkien ở King's Heath"
 - [2008](../_/2008.md): *[Mallorn 45](../M/Mallorn_45.md)*
-    - "Tolkien của Birmingham"
+    - "Birmingham của Tolkien"
 - [2010](../_/2010.md): [*Amon Hen* 223](../A/Amon_Hen_223.md)
     - "Bill the Pony"
 - [2012](../_/2012.md): [*Amon Hen* 235](../A/Amon_Hen_235.md)
@@ -59,20 +59,20 @@ images:
 - [2014](../_/2014.md): [*Amon Hen* 250](../A/Amon_Hen_250.md)
     - "Một chút trường học cũ"
 - [2015](../_/2015.md): [*Amon Hen* 251](../A/Amon_Hen_251.md)
-    - "Báo cáo: King Edward's School và triển lãm Đại chiến"
+    - "Báo cáo: Trường học của Vua Edward và triển lãm Đại chiến"
 - [2015](../_/2015.md): [*Amon Hen* 256](../A/Amon_Hen_256.md)
     - "Cáo phó: Tiến sĩ Chris Upton"
 - [2016](../_/2016.md): *[The Return Of The Ring: Proceedings of the Tolkien Society Conference 2012](../T/The_Return_Of_The_Ring%253A_Proceedings_of_the_Tolkien_Society_Conference_2012~62335.md)*
-    - "Tolkien của [Birmingham](../B/Birmingham.md)"
-    - "Tolkien của [Oxford](../O/Oxford.md)"
+    - "Tolkien's [Birmingham](../B/Birmingham.md)"
+    - "Tolkien's [Oxford](../O/Oxford.md)"
     - "Tolkien: Những Năm Chiến Tranh"
 - [2017](../_/2017.md): [*Amon Hen* 263](../A/Amon_Hen_263.md)
     - "Từ điển Latin-Anh"
 - [2018](../_/2018.md): [*Amon Hen* 270](../A/Amon_Hen_270.md)
-    - "Một bí ẩn mà chúng ta không bao giờ có thể giải đáp"
+    - "Một bí ẩn mà chúng ta có thể không bao giờ giải quyết được"
 - [2020](../_/2020.md): [*Mallorn* 61](../M/Mallorn_61.md)
-    - "Tolkien trong Vua's Heath"
+    - "Tolkien ở King's Heath"
 
 ## Liên kết ngoài {#External_links}
 
-- Andrew Ffrench, "<a class="external text" href="http://www.oxfordmail.co.uk/leisure/artandbooks/books/3765106.Writer_finds_some_Tolkien_points/" rel="noreferrer noopener" target="_blank">Người viết tìm thấy một số Tolkien điểm</a>", <i><a class="external text" href="http://www.oxfordmail.co.uk/" rel="noreferrer noopener" target="_blank">Oxford Thư</a></i>, ([16 tháng 10](../_/16_October.md), [2008](../_/2008.md))
+- Andrew Ffrench, "<a class="external text" href="http://www.oxfordmail.co.uk/leisure/artandbooks/books/3765106.Writer_finds_some_Tolkien_points/" rel="noreferrer noopener" target="_blank">Nhà văn tìm thấy một số điểm Tolkien</a>", <i><a class="external text" href="http://www.oxfordmail.co.uk/" rel="noreferrer noopener" target="_blank">Oxford Mail</a></i>, ([16 tháng 10](../_/16_October.md), [2008](../_/2008.md))

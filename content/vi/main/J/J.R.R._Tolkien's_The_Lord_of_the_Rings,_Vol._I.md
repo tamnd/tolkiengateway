@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "J.R.R. Tolkien's The Lord of the Rings, Vol. I (disambiguation)"
 ---
 
-Chuyển hướng đến The Lord of the Rings của [J.R.R. Tolkien, Tập. Tôi (định hướng)](<J.R.R._Tolkien's_The_Lord_of_the_Rings,_Vol._I_(disambiguation).md>).
+Redirect to [J.R.R. Tolkien's The Lord of the Rings, Vol. I (disambiguation)](<J.R.R._Tolkien's_The_Lord_of_the_Rings,_Vol._I_(disambiguation).md>).

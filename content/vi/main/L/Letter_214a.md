@@ -29,7 +29,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien trả lời Cha Alex Jones về cuộc thảo luận trước đây của họ về sự tham gia của Tolkien vào dự án [Kinh thánh Jerusalem](../T/The_Jerusalem_Bible.md). Tolkien cung cấp thông tin cập nhật về tình hình của anh ấy, lưu ý rằng mặc dù anh ấy có sức khỏe tốt nhưng tai nạn nghiêm trọng của [Edith](../E/Edith_Tolkien.md) vào tháng 11 trước đó đã ảnh hưởng đáng kể đến thời gian của anh ấy. Ông tái khẳng định sự quan tâm của mình đến việc đóng góp cho Kinh thánh Jerusalem, bày tỏ cam kết với dự án mặc dù dự đoán rằng việc nghỉ hưu của ông sẽ bận rộn và có thể bị cản trở bởi những thách thức trong nước. <br>
+Tolkien trả lời Cha Alex Jones về cuộc thảo luận trước đây của họ về sự tham gia của Tolkien vào dự án [Kinh thánh Jerusalem](../T/The_Jerusalem_Bible.md). Tolkien cung cấp thông tin cập nhật về tình hình của ông, lưu ý rằng mặc dù ông có sức khỏe tốt nhưng tai nạn nghiêm trọng của [Edith](../E/Edith_Tolkien.md) vào tháng 11 trước đó đã ảnh hưởng đáng kể đến thời gian của ông. Ông tái khẳng định sự quan tâm của mình đến việc đóng góp cho Kinh thánh Jerusalem, bày tỏ cam kết với dự án mặc dù dự đoán rằng việc nghỉ hưu của ông sẽ bận rộn và có thể bị cản trở bởi những thách thức trong nước. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

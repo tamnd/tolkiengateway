@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Gateway:Technical To-do"
 ---
 
-Chuyển hướng tới [Tolkien Gateway:Việc cần làm về mặt kỹ thuật](Technical_To-do.md).
+Chuyển hướng tới [Cổng Tolkien:Việc cần làm về mặt kỹ thuật](Technical_To-do.md).

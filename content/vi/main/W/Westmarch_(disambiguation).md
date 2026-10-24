@@ -14,17 +14,17 @@ images:
   - "Disambig.png"
 ---
 
-**Westmarch** có thể tham khảo:
+**Westmarch** có thể đề cập đến:
 
-- **[Westmarch của Shire](Westmarch.md), đất được bổ sung vào [ Shire](../T/The_Shire.md) tại [S.R.](../S/Shire_Reckoning.md) [1452](../F/Fourth_Age_31.md).**
+- **[Westmarch of the Shire](Westmarch.md), vùng đất được thêm vào [Shire](../T/The_Shire.md) ở [S.R.](../S/Shire_Reckoning.md) [1452](../F/Fourth_Age_31.md).**
     - [Quản giáo của Westmarch](Warden_of_Westmarch.md), một vị trí cha truyền con nối do [Gia đình Fairbairn](../F/Fairbairn_Family~66364.md) nắm giữ.
-    - [Red Book of Westmarch](../R/Red_Book_of_Westmarch.md), cơ sở cho *[The Hobbit](../T/The_Hobbit.md)* và *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.
+    - [Sổ đỏ Westmarch](../R/Red_Book_of_Westmarch.md), cơ sở cho *[The Hobbit](../T/The_Hobbit.md)* và *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.
 
 ## Xem thêm {#See_also}
 
-- Cuộc [Phương Tây cuộc hành quân](West-march.md) của [Rohan](../R/Rohan.md), bao gồm cả phần đất nằm giữa sông [Adorn](../A/Adorn.md) và [Isen](../I/Isen.md)
+- [Cuộc hành quân về phía Tây](West-march.md) của [Rohan](../R/Rohan.md), bao gồm một vùng đất nằm giữa sông [Adorn](../A/Adorn.md) và [Isen](../I/Isen.md)
 - [West-mark](West-mark.md), sư đoàn quân sự của Rohan, bao trùm các vùng đất phía tây [Entwash](../E/Entwash.md) và [Snowbourn](../S/Snowbourn.md).
-- Tháng 3 [Phương Tây tháng 3](West_March.md), tên thay thế của khu rừng [Nivrim](../N/Nivrim.md), nằm ở phía tây [Doriath](../D/Doriath.md)
+- The [West March](West_March.md), tên thay thế của khu rừng [Nivrim](../N/Nivrim.md), nằm ở phía tây [Doriath](../D/Doriath.md)
 
 <hr style="margin-top:15px;"/>
 

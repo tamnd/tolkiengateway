@@ -24,7 +24,7 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>J.R.R. Tolkien</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="J.R.R._Tolkien_(disambiguation).md" title="J.R.R. Tolkien (disambiguation)">J.R.R. Tolkien (disambiguation)</a></b>.</div></div>
 
-**J.R.R. Tolkien: Nguồn gốc của Trung Địa** là một bộ phim tài liệu dài nửa giờ, do <a class="new" href="https://tolkiengateway.net/w/index.php?title=Michael_Pellerin&amp;action=edit&amp;redlink=1" title="Michael Pellerin (page does not exist)">Michael Pellerin</a>đạo diễn. Nó được đưa vào *[The Journey Continues](<../T/The_Lord_of_the_Rings%253A_The_Two_Towers_Special_Extended_DVD_Edition.md#The_Appendices:_Part_Three:_The_Journey_Continues_(disc_3)>)*, đĩa thứ ba của [phiên bản mở rộng của *The Lord of the Rings: The Two Towers*](<../T/The_Lord_of_the_Rings%253A_The_Two_Towers_(extended_edition).md>).
+**J.R.R. Tolkien: Nguồn gốc của Trung địa** là một bộ phim tài liệu dài nửa giờ, do <a class="new" href="https://tolkiengateway.net/w/index.php?title=Michael_Pellerin&amp;action=edit&amp;redlink=1" title="Michael Pellerin (page does not exist)">Michael Pellerin</a>đạo diễn. Nó được đưa vào *[The Journey Continues](<../T/The_Lord_of_the_Rings%253A_The_Two_Towers_Special_Extended_DVD_Edition.md#The_Appendices:_Part_Three:_The_Journey_Continues_(disc_3)>)*, đĩa thứ ba của [the extended edition of *The Lord of the Rings: The Two Towers*](<../T/The_Lord_of_the_Rings%253A_The_Two_Towers_(extended_edition).md>).
 
 ## Người được phỏng vấn {#Interviewees}
 
@@ -47,7 +47,7 @@ images:
 - [David Salo](../D/David_Salo.md)
 - [Tom Shippey](../T/Tom_Shippey.md)
 - [Brian Sibley](../B/Brian_Sibley.md)
-- [Rayner Unwin](../R/Rayner_Unwin.md)
+- [Rayner giành chiến thắng](../R/Rayner_Unwin.md)
 
 ## Liên kết ngoài {#External_links}
 

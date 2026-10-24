@@ -41,9 +41,9 @@ infobox:
 
 <h2><span id="Publisher.27s_description"></span><span class="mw-headline" id="Publisher&#39;s_description">Publisher&#39;s description</span></h2>
 
-Những người tạo ra Narnia và Trung Địa, C. S. Lewis và J. R. R. Tolkien là những người bạn thân và đồng nghiệp chuyên nghiệp. Họ thường xuyên gặp gỡ cộng đồng các nhà văn đồng nghiệp tại Oxford trong những năm 1930 và 1940, tất cả đều chia sẻ những tác phẩm đang thực hiện của mình. Nhóm được biết đến với cái tên Inklings.
+Những người tạo ra Narnia và Middle-earth, C. S. Lewis và J. R. R. Tolkien là những người bạn thân và đồng nghiệp chuyên nghiệp. Họ thường xuyên gặp gỡ cộng đồng các nhà văn đồng nghiệp tại Oxford trong những năm 1930 và 1940, tất cả đều chia sẻ những tác phẩm đang được thực hiện của họ. Nhóm được biết đến với cái tên Inklings.
 
-Nghiên cứu quan trọng này thách thức cách giải thích tiêu chuẩn rằng Lewis, Tolkien, Charles Williams, Owen Barfield và Inklings khác ít có ảnh hưởng đến công việc của nhau, dựa trên nghiên cứu mới nhất về nghiên cứu bố cục và xã hội học của quá trình sáng tạo. Diana Glyer mời độc giả vào trung tâm của nhóm, xem xét các mục nhật ký và thư từ cá nhân, đồng thời so sánh cẩn thận các bản thảo thô của bản thảo với tác phẩm cuối cùng đã được xuất bản của họ.
+Nghiên cứu quan trọng này thách thức cách giải thích tiêu chuẩn rằng Lewis, Tolkien, Charles Williams, Owen Barfield và các Inklings khác có ít ảnh hưởng đến tác phẩm của nhau, dựa trên nghiên cứu mới nhất về nghiên cứu sáng tác và xã hội học về quá trình sáng tạo. Diana Glyer mời độc giả vào trung tâm của nhóm, xem xét các mục nhật ký và thư từ cá nhân, đồng thời so sánh cẩn thận các bản thảo thô của bản thảo với tác phẩm cuối cùng đã được xuất bản của họ.
 
 Phân tích của cô không chỉ thể hiện mức độ ảnh hưởng lẫn nhau cao đặc trưng của nhóm nhà văn này mà còn cung cấp một bức tranh sống động và hấp dẫn về cách các nhà văn và các nghệ sĩ sáng tạo khác thách thức, sửa chữa và khuyến khích lẫn nhau khi họ làm việc cùng nhau trong cộng đồng.
 
@@ -54,7 +54,7 @@ Phân tích của cô không chỉ thể hiện mức độ ảnh hưởng lẫn
 3. Ảnh hưởng: Đánh giá tác động
 4. Người cộng hưởng: Hỗ trợ tiến độ
 5. Đối thủ: Đưa ra lời thách thức
-6. Người biên tập: Thực hiện thay đổi
+6. Người biên tập: Thực hiện Thay đổi
 7. Cộng tác viên: Cùng nhau làm việc
 8. Người tham khảo: Viết về nhau
 9. Sáng tạo: Đánh giá cao sự tương tác
@@ -63,10 +63,10 @@ Phân tích của cô không chỉ thể hiện mức độ ảnh hưởng lẫn
 
 ## Giải thưởng {#Awards}
 
-- Giải thưởng Học bổng Huyền thoại năm 2008 về Inklings nghiên cứu;
+- Giải thưởng Học bổng Huyền thoại năm 2008 về Nghiên cứu về Inklings;
 - Giải thưởng Ngọn lửa bất diệt của NETS 2006/2007.
 - Được đề cử giải Hugo cho Sách liên quan hay nhất tại Denvention
-- Hội nghị Khoa học Viễn tưởng Thế giới lần thứ 66, được tổ chức tại Denver, Colorado.
+- Hội nghị khoa học viễn tưởng thế giới lần thứ 66, được tổ chức tại Denver, Colorado.
 
 ## Liên kết ngoài {#External_links}
 

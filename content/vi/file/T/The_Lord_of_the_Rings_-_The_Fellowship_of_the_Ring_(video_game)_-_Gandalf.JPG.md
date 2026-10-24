@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Gandalf](../../main/G/Gandalf.md) trong [Bag End](../../main/B/Bag_End.md), đọc [Chiếc nhẫn](../../main/R/Ring-inscription.md). Ảnh chụp màn hình từ [*The Lord of the Rings: The Fellowship of the Ring* (trò chơi điện tử)](<../../main/T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md>).
+[Gandalf](../../main/G/Gandalf.md) trong [Bag End](../../main/B/Bag_End.md), đọc [Chiếc nhẫn](../../main/R/Ring-inscription.md). Ảnh chụp màn hình từ [*The Lord of the Rings: The Fellowship of the Ring* (video game)](<../../main/T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md>).
 
 ## Giấy phép {#Licensing}
 

@@ -68,21 +68,21 @@ Sự kiện xảy ra vào ngày 22 tháng 7
 
 - **[1916](1916.md)** - [Ralph "the Baby" Payton](../R/Ralph_Payton.md), một trong những [T.C.B.S.](../T/T.C.B.S..md), bị giết [trong khi hành động](../W/World_War_I.md).
 - **[1925](1925.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 8](../L/Letter_8.md).
-- **[1925](1925.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư cho H.F.B. Brett-Smith](<../L/Letter_to_H.F.B._Brett-Smith_(22_July_1925).md>).
+- **[1925](1925.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư gửi H.F.B. Brett-Smith](<../L/Letter_to_H.F.B._Brett-Smith_(22_July_1925).md>).
 - **[1928](1928.md)** – Diễn viên [Orson Bean](../O/Orson_Bean.md) ra đời.
 - **[1955](1955.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 166](../L/Letter_166.md).
 - **[1969](1969.md)** - Diễn viên [James Arnold Taylor](../J/James_Arnold_Taylor.md) ra đời.
 - **[1991](1991.md)** - Dịch giả người Đức [Margaret Carroux](../M/Margaret_Carroux.md) qua đời.
 - **[2002](2002.md)** - Diễn viên [Alexander John](../A/Alexander_John.md) qua đời.
-- **[2008](2008.md)** - *[The Lord of the Rings Trực tuyến](../T/The_Lord_of_the_Rings_Online.md): [Shadows of Angmar](../T/The_Lord_of_the_Rings_Online%253A_Shadows_of_Angmar.md)*, "The Ring-forges of Eregion" được phát hành ở Bắc Mỹ.
+- **[2008](2008.md)** - *[The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md): [Shadows of Angmar](../T/The_Lord_of_the_Rings_Online%253A_Shadows_of_Angmar.md)*, "The Ring-forges of Ezone" được phát hành ở Bắc Mỹ.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Gandalf](../G/Gandalf.md) bị giam giữ bởi [Saruman](../S/Saruman.md) trên đỉnh của [Orthanc](../O/Orthanc.md).
+    - [Gandalf](../G/Gandalf.md) bị [Saruman](../S/Saruman.md) giam giữ trên đỉnh [Orthanc](../O/Orthanc.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - Đoàn rước tang lễ của vua [Théoden](../T/Théoden.md) đi về hướng [Edoras](../E/Edoras.md)
+    - Đoàn tang vua [Théoden](../T/Théoden.md) đi về hướng [Edoras](../E/Edoras.md)
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 

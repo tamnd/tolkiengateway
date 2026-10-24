@@ -68,15 +68,15 @@ Sự kiện xảy ra vào ngày 19 tháng 8
 - **[1966](1966.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư 289a](../L/Letter_289a.md).
 - **[1973](1973.md)** - [Mythcon 4](../M/Mythcon_4.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Santa_Barbara,_California" title="wikipedia:Santa Barbara, California">Santa Barbara</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/California" title="wikipedia:California">California</a>.
 - **[1991](1991.md)** - Học giả [Taum Santoski](../T/Taum_Santoski.md) qua đời vì bệnh ung thư ở tuổi 32.
-- **[1992](1992.md)** - [Tolkien Hội nghị Thế kỷ](../T/Tolkien_Centenary_Conference.md), sự kết hợp giữa [Oxonmoot](../O/Oxonmoot.md) 1992 và [Mythcon](../M/Mythcon.md) 23, tại <a class="extiw" href="http://en.wikipedia.org/wiki/Keble_College,_Oxford" title="wikipedia:Keble College, Oxford">Keble College, Oxford</a>.
+- **[1992](1992.md)** - [Hội nghị trăm năm Tolkien](../T/Tolkien_Centenary_Conference.md), sự kết hợp giữa [Oxonmoot](../O/Oxonmoot.md) 1992 và [Mythcon](../M/Mythcon.md) 23, tại <a class="extiw" href="http://en.wikipedia.org/wiki/Keble_College,_Oxford" title="wikipedia:Keble College, Oxford">Keble College, Oxford</a>.
 - **[2000](2000.md)** - [Mythcon 31](../M/Mythcon_31.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Hawaii" title="wikipedia:Hawaii">Hawaii</a>.
-- **[2012](2012.md)** - [Sự trở lại của hội nghị Nhẫn](../T/The_Return_of_the_Ring.md), [Tolkien Xã hội](../T/The_Tolkien_Society.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Loughborough_University" title="wikipedia:Loughborough University">Đại học Loughborough</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/England" title="wikipedia:England">Anh</a>.
-- **[2022](2022.md)** - [The Lord of the Rings: The Rings of Power (Phần một: Amazon Nhạc phim gốc của loạt phim)](<../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power_(Season_One%253A_Amazon_Original_Series_Soundtrack).md>) được phát hành.
+- **[2012](2012.md)** - [Sự trở lại của chiếc nhẫn](../T/The_Return_of_the_Ring.md), [Hội nghị Tolkien](../T/The_Tolkien_Society.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Loughborough_University" title="wikipedia:Loughborough University">Đại học Loughborough</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/England" title="wikipedia:England">Anh</a>.
+- **[2022](2022.md)** - [The Lord of the Rings: The Rings of Power (Season One: Amazon Original Series Soundtrack)](<../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power_(Season_One%253A_Amazon_Original_Series_Soundtrack).md>) được phát hành.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Gandalf](../G/Gandalf.md) bị giam giữ bởi [Saruman](../S/Saruman.md) trên đỉnh của [Orthanc](../O/Orthanc.md).
+    - [Gandalf](../G/Gandalf.md) bị [Saruman](../S/Saruman.md) giam giữ trên đỉnh [Orthanc](../O/Orthanc.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
     - [Legolas](../L/Legolas.md) và [Gimli](../G/Gimli.md) tham quan [Hang động lấp lánh](../G/Glittering_Caves.md).

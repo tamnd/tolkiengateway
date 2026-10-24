@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Third Age 435"
 ---
 
-Chuyển hướng tới [Kỷ Đệ Tam 435](Third_Age_435.md).
+Chuyển hướng đến [Thời đại thứ ba 435](Third_Age_435.md).

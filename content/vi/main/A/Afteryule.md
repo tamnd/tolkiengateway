@@ -45,7 +45,7 @@ langlinks:
 <li><a href="../F/Foreyule.md" title="Foreyule">Foreyule</a> (December)</li></ol>
 </td></tr></tbody></table>
 
-**Afteryule** là tháng đầu tiên của [lịch Shire](../T/The_Shire.md), ba mươi ngày ngay sau ngày lễ [Yule](../Y/Yule.md) (do đó có tên như vậy) và gần tương ứng với [23 tháng 12](../_/23_December.md) đến [21 tháng 1](../_/21_January.md) hiện đại. Tháng này được gọi là [Frery](../F/Frery.md) ở [Bree](../B/Bree.md) và ở [Eastfarthing](../E/Eastfarthing.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Afteryule** là tháng đầu tiên của [lịch Shire](../T/The_Shire.md), ba mươi ngày ngay sau ngày lễ [Yule](../Y/Yule.md) (do đó có tên như vậy) và gần tương ứng với [ngày 23 tháng 12](../_/23_December.md) đến [ngày 21 tháng 1](../_/21_January.md) hiện đại. Tháng này được gọi là [Frery](../F/Frery.md) ở [Bree](../B/Bree.md) và ở [Eastfarthing](../E/Eastfarthing.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

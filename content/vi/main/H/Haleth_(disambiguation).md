@@ -27,17 +27,17 @@ images:
   - "Disambig.png"
 ---
 
-**Haleth** có thể tham khảo:
+**Haleth** có thể đề cập đến:
 
-## Trung Địa {#Middle-earth}
+## Trung địa {#Middle-earth}
 
-- **[Phu nhân Haleth](Haleth.md) ([F.A.](../F/First_Age.md) [341](../F/First_Age_341.md) - [420](../F/First_Age_420.md)), mẫu hệ của [Con Người](../M/Men.md) và là người đứng đầu của Haladin.**
-    - [Nhà Haleth](House_of_Haleth.md), ban đầu là *Haladin*, [Ngôi nhà thứ hai của Edain](../E/Edain.md#The_Three_Houses) được đổi tên để vinh danh Haleth.
-- [Haleth](<Haleth_(son_of_Helm).md>) (mất khoảng [T.A.](../T/Third_Age.md) [2759](../T/Third_Age_2759.md)), con trai của [Vua](../K/Kings_of_Rohan.md) [Helm Hammerhand](Helm.md) của [Rohan](../R/Rohan.md).
+- **[Quý bà Haleth](Haleth.md) ([F.A.](../F/First_Age.md) [341](../F/First_Age_341.md) - [420](../F/First_Age_420.md)), mẫu hệ của [Đàn ông](../M/Men.md) và là người đứng đầu Haladin.**
+    - [Gia tộc Haleth](House_of_Haleth.md), ban đầu là *Haladin*, [Gia tộc thứ hai của Edain](../E/Edain.md#The_Three_Houses) được đổi tên để vinh danh Haleth.
+- [Haleth](<Haleth_(son_of_Helm).md>) (mất vào khoảng [T.A.](../T/Third_Age.md) [2759](../T/Third_Age_2759.md)), con trai của [Vua](../K/Kings_of_Rohan.md) [Helm Hammerhand](Helm.md) của [Rohan](../R/Rohan.md).
 
 ## Các bản chuyển thể {#Adaptations}
 
-- [Haleth](<Haleth_(film_character).md>), con trai của [Háma](Háma.md) trong phim [2002](../_/2002.md) *[The Lord of the Rings: The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)*.
+- [Haleth](<Haleth_(film_character).md>), con trai của [Háma](Háma.md) trong bộ phim [2002](../_/2002.md) *[The Lord of the Rings: The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)*.
 
 <hr style="margin-top:15px;"/>
 

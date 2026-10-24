@@ -45,7 +45,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/AmonHen126.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/2/27/AmonHen126.jpg/320px-AmonHen126.jpg" decoding="async" loading="lazy" width="320" height="462" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/27/AmonHen126.jpg/480px-AmonHen126.jpg 1.5x, https://tolkiengateway.net/w/images/2/27/AmonHen126.jpg 2x" data-file-width="569" data-file-height="821"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Amon Hen 126</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Richard Fraser Overton</td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data">Susanne Stopfel</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Printer</th><td class="tg-infobox-data">Centurion Press, London</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">March <a href="../_/1994.md" title="1994">1994</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">A5 stapled paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">32</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0306-8781</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Amon_Hen_125.md" title="Amon Hen 125">Amon Hen 125</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Amon_Hen_127.md" title="Amon Hen 127">Amon Hen 127</a></td></tr></tbody></table>
 
-<b><i>Amon Hen</i> 126</b> là số thứ 126 của tạp chí hai tháng một lần của [Hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, xuất bản vào tháng 3 [1994](../_/1994.md).
+<b><i>Amon Hen</i> 126</b> là số một trăm hai mươi sáu của tạp chí hai tháng một lần của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, được xuất bản vào tháng 3 [1994](../_/1994.md).
 
 ## Nội dung {#Contents}
 
@@ -57,7 +57,7 @@ infobox:
 - Thông báo
 - Thông báo hội thảo
 - Thông báo họp Đại hội đồng cổ đông thường niên
-- Nordens Tolkien-Thông báo về lễ hội
+- Thông báo về Lễ hội Nordens Tolkien
 - [Oxonmoot](../O/Oxonmoot.md) 1994
 - Quảng cáo
     - Bởi: Malcolm Lindley
@@ -76,11 +76,11 @@ infobox:
     - Bởi: Annie Haward
 - Tác phẩm nghệ thuật: *Aragorn II*
     - Bởi: Geraldine Burns
-- Đánh giá: Morgoth's Ring
+- Đánh giá: Chiếc nhẫn của Morgoth
     - Bởi: [John Ellison](../J/John_Ellison.md)
-- Tác phẩm nghệ thuật: *Frodo và Samwise chiêm ngưỡng Sự sụp đổ của Barad-dur*
+- Tác phẩm nghệ thuật: *Frodo và Samwise chứng kiến sự sụp đổ của Barad-dur*
     - Bởi: [John Ellison](../J/John_Ellison.md)
-- Đánh giá: Niggles 6 & A Glade trong Ithilien
+- Đánh giá: Niggles 6 & A Glade ở Ithilien
     - Bởi: Ian Collier
 - Ghi chú dành cho người đóng góp
 

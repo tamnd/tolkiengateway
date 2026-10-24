@@ -27,34 +27,34 @@ images:
   - "Disambig.png"
 ---
 
-**Durin** là một tên người lùn trong truyện cổ tích Iceland [Völuspá](../V/Völuspá.md), được viết là *Durinn*; trong Bắc Âu *durin* cũ có nghĩa là "quản giáo" hoặc "bảo vệ". Với tư cách là cha đẻ của [Longbeards](../L/Longbeards.md), cái tên **Durin** đã được sử dụng thường xuyên trong [huyền thoại](../L/Legendarium.md).
+**Durin** là một tên người lùn trong truyện cổ tích Iceland [Völuspá](../V/Völuspá.md), trong đó nó được viết là *Durinn*; trong tiếng Bắc Âu cổ *durin* có nghĩa là "người quản lý" hoặc "người bảo vệ". Là cha của [Râu Dài](../L/Longbeards.md), cái tên **Durin** đã được sử dụng thường xuyên trong [huyền thoại](../L/Legendarium.md).
 
 ## Nhân vật {#Characters}
 
-- **[Durin I](Durin_I.md), "Bất tử", một trong bảy [Tổ phụ của người Lùn](../F/Fathers_of_the_Dwarves.md).**
+- **[Durin I](Durin_I.md), "Người bất tử", một trong bảy [Cha của Người lùn](../F/Fathers_of_the_Dwarves.md).**
 - [Durin II](Durin_II.md)
-- [Durin III](Durin_III.md), được [Nhẫn Quyền năng](../R/Ring_of_Thrór.md) cấp cho [Celebrimbor](../C/Celebrimbor.md).
+- [Durin III](Durin_III.md), được [Chiếc nhẫn sức mạnh](../R/Ring_of_Thrór.md) trao tặng [Celebrimbor](../C/Celebrimbor.md).
 - [Durin IV](Durin_IV.md)
 - [Durin V](Durin_V.md)
-- [Durin VI](Durin_VI.md), bị giết bởi [Tai họa của Durin](Durin's_Bane.md).
-- [Durin VII](Durin_VII.md), "Người cuối cùng", được lấy lại [Khazad-dûm](../M/Moria.md) ở [Kỷ Đệ Tứ](../F/Fourth_Age.md).
+- [Durin VI](Durin_VI.md), bị giết bởi [Durin's Bane](Durin's_Bane.md).
+- [Durin VII](Durin_VII.md), "Người cuối cùng", đã giành lại [Khazad-dûm](../M/Moria.md) vào [Kỷ thứ tư](../F/Fourth_Age.md).
 
-- [Tai họa của Durin](Durin's_Bane.md), [Balrog](../B/Balrogs.md) của [Moria](../M/Moria.md) bị giết bởi [Gandalf](../G/Gandalf.md).
+- [Durin's Bane](Durin's_Bane.md), [Balrog](../B/Balrogs.md) của [Moria](../M/Moria.md) bị giết bởi [Gandalf](../G/Gandalf.md).
 
 ## Mọi người {#People}
 
-- [Durin's Folk](Durin's_Folk~15256.md), gia tộc [Người lùn](Dwarves.md) nổi tiếng nhất trong [Tolkien](../J/J.R.R._Tolkien.md) [huyền thoại](../L/Legendarium.md).
+- [Durin's Folk](Durin's_Folk~15256.md), tộc [Người lùn](Dwarves.md) nổi tiếng nhất trong [Tolkien](../J/J.R.R._Tolkien.md) [huyền thoại](../L/Legendarium.md).
     - [Các vị vua của Dân gian Durin](../K/Kings_of_Durin's_Folk.md), danh hiệu do Durin I và những người kế vị ông nắm giữ, những người cai trị Dân gian Durin.
 
 ## Đối tượng {#Objects}
 
-- [Rìu của Durin](Durin's_Axe.md), một vật gia truyền của [Dân gian Durin](Durin's_Folk~15256.md).
+- [Chiếc rìu của Durin](Durin's_Axe.md), một vật gia truyền của [Dân tộc Durin](Durin's_Folk~15256.md).
 - [Hòn đá Durin](Durin's_Stone.md), một cột đá trên bờ [Mirrormere](../M/Mirrormere.md).
 
 ## Địa điểm {#Places}
 
 - [Cánh cửa Durin](Doors_of_Durin.md), lối vào [Moria](../M/Moria.md), được mở bởi [Gandalf](../G/Gandalf.md) ở *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)*.
-- [Tháp Durin](Durin's_Tower.md), một tòa tháp Người lùn được xây dựng trong [Celebdil](../C/Celebdil.md) phía trên [Moria](../M/Moria.md).
+- [Tháp Durin](Durin's_Tower.md), một tòa tháp của Người lùn được xây dựng trong [Celebdil](../C/Celebdil.md) phía trên [Moria](../M/Moria.md).
 
 ## Sự kiện {#Events}
 

@@ -72,10 +72,10 @@ Sự kiện xảy ra vào ngày 9 tháng 5.
 - **[1961](1961.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư cho ông Hart](../L/Letter_to_Mr_Hart.md).
 - **[1967](1967.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư cho Oscar Morland](../L/Letter_to_Oscar_Morland.md).
 - **[1975](1975.md)** - Đạo diễn người Tây Ban Nha [J. A. Bayona](../J/J._A._Bayona.md) ra đời.
-- **[1997](1997.md)** - [Bree Cuộc tranh luận 3](../B/Bree_Moot_3.md) bắt đầu ở <a class="extiw" href="http://en.wikipedia.org/wiki/Minneapolis" title="wikipedia:Minneapolis">Minneapolis</a>.
+- **[1997](1997.md)** - [Bree Moot 3](../B/Bree_Moot_3.md) bắt đầu ở <a class="extiw" href="http://en.wikipedia.org/wiki/Minneapolis" title="wikipedia:Minneapolis">Minneapolis</a>.
 - **[2006](2006.md)** - *[A Tolkienian Mathomium](../A/A_Tolkienian_Mathomium.md)* được xuất bản.
 - **[2007](2007.md)** - *[Quest for Middle-earth](../Q/Quest_for_Middle-earth.md)* được xuất bản.
-- **[2007](2007.md)** - Bản xem trước của [The Lord of the Rings (âm nhạc)](<../T/The_Lord_of_the_Rings_(musical).md>) bắt đầu ở London.
+- **[2007](2007.md)** - Bản xem trước của [The Lord of the Rings (musical)](<../T/The_Lord_of_the_Rings_(musical).md>) bắt đầu ở London.
 
 ## Trong Arda {#In_Arda}
 

@@ -16,7 +16,7 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><a href="../F/First_Age.md" title="First Age">I</a><a href="../S/Second_Age.md" title="Second Age">II</a><b>III</b><a href="../F/Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="Third_Age_2858.md" title="Third Age 2858">2858</a><a href="Third_Age_2859.md" title="Third Age 2859">2859</a><a href="Third_Age_2860.md" title="Third Age 2860">2860</a><a class="mw-selflink selflink">2861</a><a href="Third_Age_2862.md" title="Third Age 2862">2862</a><a href="Third_Age_2863.md" title="Third Age 2863">2863</a><a href="Third_Age_2864.md" title="Third Age 2864">2864</a></div></div></div></div></div></div>
 
-**Kỷ Đệ Tam 2861** (viết tắt là **T.A. 2861**) là năm [thứ 2861 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Tam](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Kỷ Đệ Tam 2861 còn được gọi là **S.R. 1261** trong [lịch Shire](../S/Shire-reckoning.md).
+**Kỷ thứ ba 2861** (viết tắt là **T.A. 2861**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 2861 của [Kỷ thứ ba](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Thời đại thứ ba 2861 còn được gọi là **S.R. 1261** trong [Tính toán quận](../S/Shire-reckoning.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
@@ -24,7 +24,7 @@ Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-[Phụ lục B](../A/Appendix_B.md) cho biết Vua [Walda](../W/Walda.md) qua đời vào năm nay, thọ 81 tuổi. Tuy nhiên, phần "Kings of the Mark" của [Appendix A](../A/Appendix_A.md) lại ghi cái chết của ông sớm hơn 10 năm, vào [T.A.](Third_Age.md) [2851](Third_Age_2851.md). <span></span>
+[Phụ lục B](../A/Appendix_B.md) cho biết Vua [Walda](../W/Walda.md) qua đời vào năm nay, thọ 81 tuổi. Tuy nhiên, phần "Những vị vua xứ Mark" trong [Phụ lục A](../A/Appendix_A.md) lại ghi rằng ông qua đời sớm hơn 10 năm, vào [T.A.](Third_Age.md) [2851](Third_Age_2851.md). <span></span>
 
 ## Tài liệu tham khảo {#References}
 

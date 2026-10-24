@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Lobelia Sackville-Baggins](../../main/L/Lobelia_Sackville-Baggins.md), trước nhà cô ấy. Ảnh chụp màn hình từ [*The Lord of the Rings: The Fellowship of the Ring* (trò chơi điện tử)](<../../main/T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md>).
+[Lobelia Sackville-Baggins](../../main/L/Lobelia_Sackville-Baggins.md), trước nhà bà. Ảnh chụp màn hình từ [*The Lord of the Rings: The Fellowship of the Ring* (video game)](<../../main/T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md>).
 
 ## Giấy phép {#Licensing}
 

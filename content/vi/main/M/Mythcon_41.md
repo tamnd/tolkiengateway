@@ -33,7 +33,7 @@ infobox:
 **Mythcon 41** là hội nghị thường niên lần thứ 41 của [Hiệp hội thần thoại](Mythopoeic_Society.md).
 
 - **Chủ đề:** "Chiến tranh trên thiên đường"
-- **Khách mời danh dự:** [Janet Brennan Croft](../J/Janet_Brennan_Croft.md) (biên tập viên của [Mythlore](Mythlore.md)) và Tim Powers (tác giả truyện giả tưởng)
+- **Khách mời danh dự:** [Janet Brennan Croft](../J/Janet_Brennan_Croft.md) (biên tập viên [Mythlore](Mythlore.md)) và Tim Powers (tác giả truyện giả tưởng)
 
 ## Liên kết ngoài {#External_links}
 

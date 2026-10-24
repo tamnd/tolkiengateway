@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Uldor"
 ---
 
-Chuyển hướng đến [Uldor](Uldor.md).
+Chuyển hướng tới [Uldor](Uldor.md).

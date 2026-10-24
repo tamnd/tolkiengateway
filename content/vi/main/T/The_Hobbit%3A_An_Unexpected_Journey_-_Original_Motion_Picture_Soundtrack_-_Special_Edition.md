@@ -27,23 +27,23 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Hobbit_-_An_Unexpected_Journey_-_Original_Motion_Picture_Soundtrack_-_Special_Edition.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/1/1c/The_Hobbit_-_An_Unexpected_Journey_-_Original_Motion_Picture_Soundtrack_-_Special_Edition.jpg/320px-The_Hobbit_-_An_Unexpected_Journey_-_Original_Motion_Picture_Soundtrack_-_Special_Edition.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/1/1c/The_Hobbit_-_An_Unexpected_Journey_-_Original_Motion_Picture_Soundtrack_-_Special_Edition.jpg 1.5x" data-file-width="480" data-file-height="480"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span><i>The Hobbit: An Unexpected Journey - Original Motion Picture Soundtrack</i></span></th></tr><tr><td colspan="2" class="tg-infobox-caption">Soundtrack by <a href="../H/Howard_Shore.md" title="Howard Shore">Howard Shore</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/11_December.md" title="11 December">11 December</a>, <a href="../_/2012.md" title="2012">2012</a></td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data">English</td></tr><tr><th scope="row" class="tg-infobox-label">Label</th><td class="tg-infobox-data"><a class="extiw" href="http://en.wikipedia.org/wiki/WaterTower_Music" title="wikipedia:WaterTower Music">WaterTower Music</a></td></tr></tbody></table>
 
-<i><b>The Hobbit: An Unexpected Journey - Nhạc phim gốc - Phiên bản đặc biệt</b></i> là một album phiên bản đặc biệt bao gồm nhạc phim từ *[The Hobbit: An Unexpected Journey](The_Hobbit%253A_An_Unexpected_Journey.md)*của [Howard Shore](../H/Howard_Shore.md). Nó được phát hành dưới dạng kỹ thuật số và trên CD vào [11 tháng 12](../_/11_December.md) [2012](../_/2012.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>The Hobbit: An Unexpected Journey - Original Motion Picture Soundtrack - Special Edition</b></i> là một album phiên bản đặc biệt bao gồm nhạc phim từ *[The Hobbit: An Unexpected Journey](The_Hobbit%253A_An_Unexpected_Journey.md)* của [Howard Shore](../H/Howard_Shore.md). Nó được phát hành dưới dạng kỹ thuật số và trên CD vào [11 tháng 12](../_/11_December.md) [2012](../_/2012.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Nội dung {#Contents}
 
 ### Đĩa 1 {#Disc_1}
 
-1. [Em yêu Frodo](../M/My_Dear_Frodo.md) (8:03)
-2. [Những người bạn cũ](../O/Old_Friends.md) (phiên bản mở rộng) (5:01)
+1. [Frodo thân mến của tôi](../M/My_Dear_Frodo.md) (8:03)
+2. [Bạn Cũ](../O/Old_Friends.md) (phiên bản mở rộng) (5:01)
 3. [Bữa tiệc bất ngờ](<../A/An_Unexpected_Party_(soundtrack).md>) (phiên bản mở rộng) (4:09)
-4. [Dao cùn](../B/Blunt_the_Knives.md) - do Người lùn diễn viên biểu diễn (1:01)
+4. [Dao cùn](../B/Blunt_the_Knives.md) - do Diễn viên người lùn biểu diễn (1:01)
 5. [Rìu hay kiếm?](../A/Axe_or_Sword%253F.md) (5:59)
-6. [Dãy Núi Sương Mù](<../M/Misty_Mountains_(soundtrack).md>) - do [Richard Armitage](../R/Richard_Armitage.md) và Người lùn diễn viên thực hiện (1:42)
+6. [Misty Mountains](<../M/Misty_Mountains_(soundtrack).md>) - do [Richard Armitage](../R/Richard_Armitage.md) và Dàn diễn viên Người lùn biểu diễn (1:42)
 7. [Cuộc phiêu lưu bắt đầu](The_Adventure_Begins.md) (2:05)
 8. [Thế giới ở phía trước](The_World_is_Ahead.md) (2:20)
-9. [Một người cổ đại Kẻ Thù](../A/An_Ancient_Enemy.md) (4:57)
+9. [Kẻ thù cổ xưa](../A/An_Ancient_Enemy.md) (4:57)
 10. [Radagast the Brown](<../R/Radagast_the_Brown_(soundtrack).md>) (phiên bản mở rộng) (6:39)
-11. [Cái Trollshaws](<The_Trollshaws_(soundtrack).md>) (2:09)
+11. [Những chiếc xe đẩy](<The_Trollshaws_(soundtrack).md>) (2:09)
 12. [Thịt cừu nướng](<../R/Roast_Mutton_(soundtrack).md>) (phiên bản mở rộng) (4:57)
 13. [Kho chứa troll](../A/A_Troll-hoard.md) (2:39)
 14. [Ngọn đồi ma thuật](The_Hill_of_Sorcery.md) (3:51)
@@ -52,9 +52,9 @@ infobox:
 ### Đĩa 2 {#Disc_2}
 
 1. [Thung lũng ẩn giấu](The_Hidden_Valley.md) (3:49)
-2. [Mặt Trăng Ngọc](<../M/Moon_Runes_(soundtrack).md>) (phiên bản mở rộng) (3:39)
+2. [Câu ngọc mặt trăng](<../M/Moon_Runes_(soundtrack).md>) (phiên bản mở rộng) (3:39)
 3. [Kẻ làm ô uế](The_Defiler.md) (1:14)
-4. [Bản Bạch Hội Đồng](<The_White_Council_(soundtrack).md>) (phiên bản mở rộng) (9:41)
+4. [Hội đồng Trắng](<The_White_Council_(soundtrack).md>) (phiên bản mở rộng) (9:41)
 5. [Trên đồi](../O/Over_Hill.md) (3:44)
 6. [Trận chiến sấm sét](../A/A_Thunder_Battle.md) (3:55)
 7. [Dưới đồi](../U/Under_Hill.md) (1:55)
@@ -62,8 +62,8 @@ infobox:
 9. [Nút đồng thau](../B/Brass_Buttons.md) (7:38)
 10. [Ra khỏi chảo rán](../O/Out_of_the_Frying-Pan.md) (5:55)
 11. [Điềm tốt](../A/A_Good_Omen.md) (5:47)
-12. [Bài hát của Ngọn Núi Cô Đơn](../S/Song_of_the_Lonely_Mountain.md) (phiên bản mở rộng) - do [Neil Finn](../N/Neil_Finn.md) trình bày (6:01)
-13. [Mơ về Bag End](../D/Dreaming_of_Bag_End.md) (1:47)
+12. [Bài hát của ngọn núi cô đơn](../S/Song_of_the_Lonely_Mountain.md) (phiên bản mở rộng) - được trình bày bởi [Neil Finn](../N/Neil_Finn.md) (6:01)
+13. [Mơ thấy đuôi túi](../D/Dreaming_of_Bag_End.md) (1:47)
 
 #### Bài hát thưởng độc quyền {#Exclusive_bonus_tracks}
 

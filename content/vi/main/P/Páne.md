@@ -17,11 +17,11 @@ sort_keys:
   "Birds": "Pane"
 ---
 
-<i><b>páne</b></i> là từ [Telerin](../T/Telerin.md) chỉ " [mòng biển](../G/Gulls.md) nhỏ, chim hải âu"
+<i><b>páne</b></i> là một từ [Telerin](../T/Telerin.md) dành cho " [mòng biển](../G/Gulls.md) nhỏ, chim hải âu"
 
 ## Từ nguyên {#Etymology}
 
-[Primitive Elvish](Primitive_Elvish.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Kwaene&amp;action=edit&amp;redlink=1" title="Kwaene (page does not exist)">kwaene</a></i> [Gốc](../S/Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=KW%C4%80&amp;action=edit&amp;redlink=1" title="KWĀ (page does not exist)">KWĀ</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
+[Tiên nguyên thủy](Primitive_Elvish.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Kwaene&amp;action=edit&amp;redlink=1" title="Kwaene (page does not exist)">kwaene</a></i> [Gốc](../S/Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=KW%C4%80&amp;action=edit&amp;redlink=1" title="KWĀ (page does not exist)">KWĀ</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

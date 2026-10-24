@@ -17,19 +17,19 @@ langlinks:
     url: "https://kontu.wiki/Brandagamba"
 ---
 
-<i><b>Brandagamba</b></i> là phiên bản [Westron](../W/Westron.md) gốc của [tên hobbit](../H/Hobbits.md) được dịch sang tiếng Anh là **[Brandybuck](Brandybuck.md)**.
+<i><b>Brandagamba</b></i> là phiên bản gốc [Westron](../W/Westron.md) của [tên hobbit](../H/Hobbits.md) được dịch sang tiếng Anh là **[Brandybuck](Brandybuck.md)**.
 
 ## Từ nguyên {#Etymology}
 
-Nó chứa thành phần *[branda](Branda.md)-* 'vùng biên giới' (ám chỉ [Buckland](Buckland.md) nằm ở rìa phía đông của [ Shire](../T/The_Shire.md)), nhưng cũng gợi lên *[Branda-nîn](Branda-nîn.md)*, 'nước biên giới' (tên [hobbit](../H/Hobbitish.md) đầu tiên của dòng sông [Brandywine](Brandywine.md)).<sup id="cite_ref-AppF_1-0" class="reference"><a href="#cite_note-AppF-1">[1]</a></sup>
+Nó chứa thành phần *[branda](Branda.md)-* 'vùng biên giới' (ám chỉ [Buckland](Buckland.md) nằm ở rìa phía đông của [Shire](../T/The_Shire.md)), nhưng cũng gợi lên *[Branda-nîn](Branda-nîn.md)*, 'nước biên giới' (tên [hobbitish](../H/Hobbitish.md) đầu tiên của dòng sông [Brandywine](Brandywine.md)).<sup id="cite_ref-AppF_1-0" class="reference"><a href="#cite_note-AppF-1">[1]</a></sup>
 
 Nửa sau của từ ghép, <i>-<a class="new" href="https://tolkiengateway.net/w/index.php?title=Gamba&amp;action=edit&amp;redlink=1" title="Gamba (page does not exist)">gamba</a></i>, là sự tái xuất hiện từ tên cũ *[Zaragamba](../Z/Zaragamba.md)* (hoặc *[Oldbuck](../O/Oldbuck_Family.md)* trong bản dịch), theo nghĩa là một con nai đực hoặc một con cừu đực.
 
-Dòng sông Branda-nîn sau đó được gọi đùa là *[Bralda-hîm](Bralda-hîm.md)*, 'bia mạnh'. Theo Tolkien, "chỉ có một hobbit rất táo bạo mới dám gọi [Chủ nhân của Buckland](../M/Master_of_Buckland.md) *braldagamba* trong thính giác của mình".<sup id="cite_ref-AppF_1-1" class="reference"><a href="#cite_note-AppF-1">[1]</a></sup>
+Dòng sông Branda-nîn sau đó được gọi đùa là *[Bralda-hîm](Bralda-hîm.md)*, 'bia mạnh'. Theo Tolkien, "chỉ có một hobbit rất táo bạo mới dám gọi [Bậc thầy của Buckland](../M/Master_of_Buckland.md) *braldagamba* trong phiên điều trần của mình".<sup id="cite_ref-AppF_1-1" class="reference"><a href="#cite_note-AppF-1">[1]</a></sup>
 
 ### Lưu ý về dịch thuật {#Note_on_translation}
 
-Mặc dù "[Marchbuck](../M/Marchbuck_Family.md)" là bản dịch theo nghĩa đen của cái tên này nhưng nó sẽ mất đi mối liên hệ truyền thống với Brandywine, rõ ràng trong Brandagamba-Branda-nîn thực tế. [Tolkien](../J/J.R.R._Tolkien.md) đúng hơn nên dịch tên này là "[**Brandy**buck](Brandybuck.md)" để giữ mối liên hệ này.<sup id="cite_ref-AppF_1-2" class="reference"><a href="#cite_note-AppF-1">[1]</a></sup>
+Mặc dù "[Marchbuck](../M/Marchbuck_Family.md)" là bản dịch theo nghĩa đen của cái tên này nhưng nó sẽ mất đi mối liên hệ truyền thống với Brandywine, rõ ràng trong Brandagamba-Branda-nîn thực tế. [Tolkien](../J/J.R.R._Tolkien.md) dịch tên này thành "[**Brandy**buck](Brandybuck.md)" để giữ mối liên hệ này.<sup id="cite_ref-AppF_1-2" class="reference"><a href="#cite_note-AppF-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sea-Lords of Gondor"
 ---
 
-Chuyển hướng đến [Biển-Lãnh chúa của Gondor](../S/Sea-Lords_of_Gondor.md).
+Chuyển hướng tới [Sea-Lords of Gondor](../S/Sea-Lords_of_Gondor.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Donato Giancola - I know much about you.jpg"
 ---
 
-Chuyển hướng đến [Tệp:Donato Giancola - Tôi biết nhiều về bạn.jpg](Donato_Giancola_-_I_know_much_about_you.jpg.md).
+Chuyển hướng tới [Tệp:Donato Giancola - Tôi biết nhiều về bạn.jpg](Donato_Giancola_-_I_know_much_about_you.jpg.md).

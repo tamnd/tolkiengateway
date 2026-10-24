@@ -42,18 +42,18 @@ infobox:
 
 ## Văn bản bìa/áo khoác {#Cover/Jacket_Text}
 
-Đi theo Con đường Khu Rừng Cổ vào trung tâm Mirkwood và bạn sẽ thấy mình đang ở trong khu rừng sâu, tối tăm từng đầy cá và thú săn. Khu rừng yên tĩnh lạ lùng kể từ khi Mordor phủ bóng đen chết chóc của nó lên khắp vùng đất. Chỉ có Nhện khổng lồ là có vẻ hài lòng khi chúng nằm trong hang ổ tối tăm của mình.
+Đi theo Con đường Rừng Cũ vào trung tâm Mirkwood và bạn sẽ thấy mình đang ở trong khu rừng sâu, tối tăm từng đầy cá và thú săn. Khu rừng yên tĩnh lạ lùng kể từ khi Mordor ném tấm màn chết chóc của nó xuống khắp vùng đất. Chỉ có Nhện khổng lồ là có vẻ hài lòng khi chúng nằm trong hang ổ tối tăm của mình.
 
-Giáp với con sông Anduin hùng vĩ ở phía tây và Dãy Núi Xám ở phía bắc, vùng đất hoang dã bao gồm các vùng cao nguyên hiểm trở như Dãy Đồi Sắt và Dãy Núi cổ kính Mirkwood, cũng như các tuyến đường thủy nổi tiếng như River Running và Long Lake. Các vùng đồng bằng Rhovanion ở phía đông khu rừng cung cấp đất nông nghiệp và đồng cỏ màu mỡ nhưng đang bị đe dọa bởi các bộ tộc người phương Đông. Miền Nam Mirkwood đã chìm trong bóng tối. Ở đó, Dol Guldur, pháo đài sương mù bao phủ Necromancer, đóng vai trò là tiền đồn của Chúa tể Bóng tối- từ đó tỏa ra mùi hôi thối của cái ác và bóng tối của cái chết.
+Giáp ranh với Sông Anduin hùng vĩ ở phía tây và Dãy núi Grey ở phía bắc, vùng đất hoang dã bao gồm các vùng cao nguyên gồ ghề như Đồi Sắt và Dãy núi Mirkwood cổ kính, cũng như các tuyến đường thủy nổi tiếng như River Running và Long Lake. Đồng bằng Rhovanion ở phía đông khu rừng cung cấp đất nông nghiệp và đồng cỏ màu mỡ, nhưng đang bị đe dọa bởi các bộ tộc Easterlings. Nam Mirkwood đã ở dưới bóng tối. Ở đó, Dol Guldur, pháo đài được bao phủ bởi sương mù của Necromancer, là tiền đồn của Chúa tể Hắc ám - từ đó tỏa ra mùi hôi thối của tà ác và bóng tối của cái chết.
 
-Mirkwood là một vùng đất hoang dã chưa bị một chủng tộc hoặc nền văn minh thống trị nào chiếm giữ. Tại đây, bạn sẽ tìm thấy Tiên rừng của Thranduil, những người đàn ông Gỗ mộc mạc, Người Lùn của Dãy Đồi Sắt và Beornings nguyên thủy, cũng như nhiều nền văn hóa phụ khác của Người phương Bắc. Hầu như không hiếu khách, Mirkwood là vùng đất mà những du khách bất cẩn thường trở thành con mồi của Warg, Troll, Người khổng lồ nhỏ hơn và Nhện khổng lồ. Thêm vào những tệ nạn của mình, Smaug Kẻ hủy diệt và những người anh em có cánh của hắn trong nhiều thế kỷ đã lập nhà ở vùng hoang mạc băng giá ngay phía bắc.
+Mirkwood là một vùng đất hoang dã chưa bị thuần hóa bởi một chủng tộc hoặc nền văn minh thống trị. Tại đây, bạn sẽ tìm thấy Yêu tinh rừng của Thranduil, những người rừng mộc mạc, Người lùn ở Đồi Sắt, và những Beornings nguyên thủy, cũng như nhiều nền văn hóa phụ khác của Người phương Bắc. Hầu như không hiếu khách, Mirkwood là vùng đất mà những du khách bất cẩn thường trở thành con mồi của Wargs, Troll, Lesser Giants và Giant Spiders. Thêm vào những tệ nạn của nó, Smaug the Destroyer và những người anh em họ có cánh của hắn trong nhiều thế kỷ đã lập nhà ở những vùng đất hoang lạnh giá ngay phía bắc.
 
 Những cư dân này đang thận trọng chờ đợi sự xuất hiện của bạn, vì vậy chào mừng bạn đến với Mirkwood, Nhà thám hiểm! Cầu mong thanh kiếm của bạn nhanh chóng và các giác quan của bạn nhạy bén!
 
 Các tính năng của MIRKWOOD:
 
-- 2 bản đồ đầy màu sắc 16" x 21" khổng lồ mô tả chi tiết tất cả vùng Mirkwood
-- Bản đồ đầy màu sắc của Dol Guldur, Người Rừng-thị trấn và Buhr Ailgra
-- Bố cục B&W chính của Dale, Esgaroth trên Long Lake, Dol Guldur, Lair of the Seer, Sảnh của Tiên-king và Erebor, Ngọn Núi Cô Đơn
+- 2 bản đồ khổng lồ đầy màu sắc 16" x 21" mô tả chi tiết toàn bộ vùng Mirkwood
+- Bản đồ đầy màu sắc của Dol Guldur, Woodmen-town và Buhr Ailgra
+- Bố cục B&W chính của Dale, Esgaroth trên Long Lake, Dol Guldur, Lair of the Seer, Halls of the Elven-king và Erebor, Lonely Mountain
 - Mô tả đầy đủ về nhiều chủng tộc sinh sống trong khu vực
 - Mô tả về Radagast, Sauron và các nhân vật nổi tiếng khác

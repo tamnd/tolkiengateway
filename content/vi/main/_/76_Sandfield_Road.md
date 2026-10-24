@@ -25,11 +25,11 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/_/76_Sandfield_Road.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/c/c7/76_Sandfield_Road.jpg/300px-76_Sandfield_Road.jpg" decoding="async" loading="lazy" width="300" height="210" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/c7/76_Sandfield_Road.jpg/450px-76_Sandfield_Road.jpg 1.5x, https://tolkiengateway.net/w/images/c/c7/76_Sandfield_Road.jpg 2x" data-file-width="503" data-file-height="352"/></a><figcaption></figcaption></figure>
 
-**76 Sandfield Road** ở <a class="extiw" href="http://en.wikipedia.org/wiki/Headington" title="wikipedia:Headington">Headington</a> là quê hương của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và [Edith Tolkien](../E/Edith_Tolkien.md) từ [30 tháng 3](30_March.md) [1953](1953.md) cho đến giữa tháng 7 [1968](1968.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Các tập [The Lord of the Rings](../T/The_Lord_of_the_Rings.md) được xuất bản lần đầu tiên khi Tolkien sống trong ngôi nhà này. Hiện tại có một tấm bảng phía trên cửa ghi rằng Giáo sư đã từng sống ở đó.
+**76 Sandfield Road** ở <a class="extiw" href="http://en.wikipedia.org/wiki/Headington" title="wikipedia:Headington">Headington</a> là quê hương của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và [Edith Tolkien](../E/Edith_Tolkien.md) từ [30 tháng 3](30_March.md) [1953](1953.md) cho đến giữa tháng 7 [1968](1968.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Các tập của [The Lord of the Rings](../T/The_Lord_of_the_Rings.md) được xuất bản lần đầu khi Tolkien sống trong ngôi nhà này. Hiện tại có một tấm bảng phía trên cửa ghi rằng Giáo sư đã từng sống ở đó.
 
 ## Chỉ đường {#Directions}
 
-- Đường Sandfield hơi xa trung tâm Oxford Xuất phát từ High Street sau bùng binh, đi đến Đường Headington và rẽ nửa đường sang Hadley Way. Bạn sẽ phải nhìn về phía bên phải, ngay trước bùng binh đầu tiên.
+- Đường Sandfield hơi xa trung tâm Oxford. Đi từ High Street sau bùng binh, đi đến Đường Headington và rẽ trái nửa đường để đến Đường Hadley. Bạn sẽ phải nhìn về phía bên phải, ngay trước bùng binh đầu tiên.
 
 <span></span>
 

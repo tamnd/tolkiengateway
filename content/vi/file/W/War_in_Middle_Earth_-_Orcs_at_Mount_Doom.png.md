@@ -27,7 +27,7 @@ file:
 
 ## Giấy phép {#Licensing}
 
-[Orc](../../main/O/Orcs.md) tại [Núi Doom](../../main/M/Mount_Doom.md) tại [J.R.R. Tolkien ở Trung Địa](../../main/J/J.R.R._Tolkien's_War_in_Middle_Earth.md).
+[Orc](../../main/O/Orcs.md) tại [Núi Diệt Vong](../../main/M/Mount_Doom.md) trong Cuộc chiến của [J.R.R. Tolkien ở Trung Địa](../../main/J/J.R.R._Tolkien's_War_in_Middle_Earth.md).
 
 ## Giấy phép {#Licensing_2}
 

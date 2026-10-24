@@ -16,14 +16,14 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><a href="../F/First_Age.md" title="First Age">I</a><a href="../S/Second_Age.md" title="Second Age">II</a><b>III</b><a href="../F/Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="Third_Age_2741.md" title="Third Age 2741">2741</a><a href="Third_Age_2743.md" title="Third Age 2743">2743</a><a href="Third_Age_2745.md" title="Third Age 2745">2745</a><a class="mw-selflink selflink">2746</a><a href="Third_Age_2747.md" title="Third Age 2747">2747</a><a href="Third_Age_2748.md" title="Third Age 2748">2748</a><a href="Third_Age_2751.md" title="Third Age 2751">2751</a></div></div></div></div></div></div>
 
-**Kỷ Đệ Tam 2746** (viết tắt là **T.A. 2746**) là năm [thứ 2746 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Tam](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Kỷ Đệ Tam 2746 còn được gọi là **S.R. 1146** trong [lịch Shire](../S/Shire-reckoning.md).
+**Kỷ thứ ba 2746** (viết tắt là **T.A. 2746**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 2746 của [Kỷ thứ ba](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Thời đại thứ ba 2746 còn được gọi là **S.R. 1146** trong [Tính toán quận](../S/Shire-reckoning.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- Sinh của [Thorin II Oakenshield](Thorin_II_Oakenshield.md), con của [Thráin II](Thráin.md), con của [Vua](../K/Kings_of_Durin's_Folk.md) [Thrór](Thrór.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
-- Người thứ mười lăm [Thân vương](../P/Princes_of_Dol_Amroth.md) chưa được đặt tên của [Dol Amroth](../D/Dol_Amroth.md) đã bị giết bởi [Corsairs](../C/Corsairs.md) của [Umbar](../U/Umbar.md).<sup id="cite_ref-Elendil_2-0" class="reference"><a href="#cite_note-Elendil-2">[2]</a></sup>
-- Đứa con trai giấu tên của Thân vương thứ mười lăm trở thành [Thân vương](../P/Princes_of_Dol_Amroth.md) thứ mười sáu của [Dol Amroth](../D/Dol_Amroth.md).<sup id="cite_ref-Elendil_2-1" class="reference"><a href="#cite_note-Elendil-2">[2]</a></sup>
-- Sự ra đời của [Thân vương](../P/Princes_of_Dol_Amroth.md) thứ mười bảy không tên của [Dol Amroth](../D/Dol_Amroth.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+- Sự ra đời của [Thorin II Oakenshield](Thorin_II_Oakenshield.md), con trai của [Thráin II](Thráin.md), con trai của [Vua](../K/Kings_of_Durin's_Folk.md) [Thrór](Thrór.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+- [Hoàng tử](../P/Princes_of_Dol_Amroth.md) thứ mười lăm vô danh của [Dol Amroth](../D/Dol_Amroth.md) bị giết bởi [Corsairs](../C/Corsairs.md) của [Umbar](../U/Umbar.md).<sup id="cite_ref-Elendil_2-0" class="reference"><a href="#cite_note-Elendil-2">[2]</a></sup>
+- Đứa con trai giấu tên của Hoàng tử thứ mười lăm trở thành [Hoàng tử](../P/Princes_of_Dol_Amroth.md) thứ mười sáu của [Dol Amroth](../D/Dol_Amroth.md).<sup id="cite_ref-Elendil_2-1" class="reference"><a href="#cite_note-Elendil-2">[2]</a></sup>
+- Sự ra đời của [Hoàng tử](../P/Princes_of_Dol_Amroth.md) thứ mười bảy vô danh của [Dol Amroth](../D/Dol_Amroth.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

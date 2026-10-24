@@ -12,7 +12,7 @@ categories:
   - "Sindarin nouns"
 ---
 
-**Elvellon** (pl. *Elvellyn*) là thuật ngữ [Sindarin](../S/Sindarin.md) cho "[Bạn của Tiên tộc](Elf-friend.md)"
+**Elvellon** (pl. *Elvellyn*) là thuật ngữ [Sindarin](../S/Sindarin.md) cho "[Người bạn yêu tinh](Elf-friend.md)"
 
 ## Từ nguyên {#Etymology}
 

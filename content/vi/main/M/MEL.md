@@ -12,7 +12,7 @@ categories:
   - "Roots"
 ---
 
-**MEL** là một [Elvish](../E/Elvish.md) [gốc](../S/Sundocarme.md).<sup id="cite_ref-VT39_1-0" class="reference"><a href="#cite_note-VT39-1">[1]</a></sup>
+**MEL** là một [Elvish](../E/Elvish.md) [root](../S/Sundocarme.md).<sup id="cite_ref-VT39_1-0" class="reference"><a href="#cite_note-VT39-1">[1]</a></sup>
 
 ## Công cụ phái sinh {#Derivatives}
 

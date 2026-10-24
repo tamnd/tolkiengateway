@@ -25,7 +25,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Ảnh bìa từ *The Lucifer Ego*của T.M. Doran.
+Ảnh bìa từ *The Lucifer Ego* của T.M. Doran.
 
 ## Giấy phép {#Licensing}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Void"
 ---
 
-Chuyển hướng đến [Hư Không](../V/Void.md).
+Chuyển hướng đến [Void](../V/Void.md).

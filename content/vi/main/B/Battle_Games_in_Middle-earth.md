@@ -29,7 +29,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Battle Games in Middle-earth</span></th></tr><tr><th scope="row" class="tg-infobox-label">Latest editor</th><td class="tg-infobox-data"><a href="../M/Mark_Latham.md" title="Mark Latham">Mark Latham</a></td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data">Peter Borlace, Glenn More</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a class="new" href="https://tolkiengateway.net/w/index.php?title=DeAgostini&amp;action=edit&amp;redlink=1" title="DeAgostini (page does not exist)">DeAgostini</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/2002.md" title="2002">2002</a>-<a href="../_/2006.md" title="2006">2006</a></td></tr></tbody></table>
 
-<i><b>Trò chơi chiến đấu trong Trung Địa</b></i> là một <a class="extiw" href="http://en.wikipedia.org/wiki/Partwork" title="wikipedia:Partwork">hợp tác</a> hai tuần một lần dành riêng cho [The Lord of the Rings Trò chơi chiến đấu chiến lược](../M/Middle-earth_Strategy_Battle_Game.md), được xuất bản bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=DeAgostini&amp;action=edit&amp;redlink=1" title="DeAgostini (page does not exist)">DeAgostini</a> sử dụng tài liệu và mô hình từ [Games Workshop](../G/Games_Workshop.md). 91 số thường kỳ (được gọi là *Packs*) và ba số phim đặc biệt đã được phát hành.<sup id="cite_ref-FAQ_1-0" class="reference"><a href="#cite_note-FAQ-1">[1]</a></sup><sup id="cite_ref-Latham_2-0" class="reference"><a href="#cite_note-Latham-2">[2]</a></sup> Tạp chí phát hành từ [2002](../_/2002.md) đến [2006](../_/2006.md).
+<i><b>Trò chơi chiến đấu ở Trung địa</b></i> là một <a class="extiw" href="http://en.wikipedia.org/wiki/Partwork" title="wikipedia:Partwork">hợp tác</a> hai tuần một lần dành riêng cho [The Lord of the Rings Strategy Battle Game](../M/Middle-earth_Strategy_Battle_Game.md), được xuất bản bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=DeAgostini&amp;action=edit&amp;redlink=1" title="DeAgostini (page does not exist)">DeAgostini</a> sử dụng tài liệu và mô hình từ [Games Workshop](../G/Games_Workshop.md). 91 số thường kỳ (được gọi là *Packs*) và ba số phim đặc biệt đã được phát hành.<sup id="cite_ref-FAQ_1-0" class="reference"><a href="#cite_note-FAQ-1">[1]</a></sup><sup id="cite_ref-Latham_2-0" class="reference"><a href="#cite_note-Latham-2">[2]</a></sup> Tạp chí phát hành từ [2002](../_/2002.md) đến [2006](../_/2006.md).
 
 Bên ngoài thế giới nói tiếng Anh, tạp chí đã được bản địa hóa sang nhiều ngôn ngữ khác nhau.<sup id="cite_ref-FAQ_1-1" class="reference"><a href="#cite_note-FAQ-1">[1]</a></sup>
 
@@ -39,7 +39,7 @@ Mỗi gói đi kèm với một bản thu nhỏ. Một số số phát hành cò
 
 Bản thân các Gói thường chứa một hoặc nhiều bài viết thuộc loạt bài sau:
 
-- Hướng dẫn Trung Địa, là những bài viết ngắn về nhân vật và truyền thuyết
+- Hướng dẫn về Trung Địa, là những bài viết ngắn về các nhân vật và truyền thuyết
 - Chơi trò chơi đưa ra quy tắc ăn từng phần
 - Trò chơi chiến đấu, trong đó có các kịch bản chiến đấu
 - Xưởng vẽ tranh, nơi hướng dẫn vẽ tranh cho các tiểu cảnh đi kèm
@@ -47,9 +47,9 @@ Bản thân các Gói thường chứa một hoặc nhiều bài viết thuộc 
 
 ## Sự tiếp nhận và tác động {#Reception_and_impact}
 
-Alan và Michael Perry, những nhà điêu khắc Games Workshop mà công việc của họ đôi khi có nhiều vấn đề, nhận thấy rằng điều đó khuyến khích những người mới tham gia vào sở thích chơi game thu nhỏ.<sup id="cite_ref-Interview_3-0" class="reference"><a href="#cite_note-Interview-3">[3]</a></sup>
+Alan và Michael Perry, những nhà điêu khắc Games Workshop mà tác phẩm của họ đôi khi có nhiều vấn đề, nhận thấy rằng điều đó khuyến khích những người mới tham gia vào sở thích chơi game thu nhỏ.<sup id="cite_ref-Interview_3-0" class="reference"><a href="#cite_note-Interview-3">[3]</a></sup>
 
-Sau khi kết thúc hợp tác, [Mark Latham](../M/Mark_Latham.md), một biên tập viên và nhà văn, và Glenn More, một nhà thiết kế đồ họa, đã được chuyển đến [White Người lùn](../W/White_Dwarf.md), tức là tạp chí của [Games Workshop](../G/Games_Workshop.md). Đây là một điều mà người hâm mộ có triển vọng thấy thú vị, vì họ nhận thấy White Người lùn thiếu chiều sâu trong việc đưa tin về nội dung Chúa tể những chiếc nhẫn.<sup id="cite_ref-GWOnline_4-0" class="reference"><a href="#cite_note-GWOnline-4">[4]</a></sup>
+Sau khi phần kết thúc, [Mark Latham](../M/Mark_Latham.md), một biên tập viên và nhà văn, và Glenn More, một nhà thiết kế đồ họa, đã được chuyển đến [White Dwarf](../W/White_Dwarf.md), tức là tạp chí của [Games Workshop](../G/Games_Workshop.md). Đây là một điều mà người hâm mộ có triển vọng thấy thú vị vì họ nhận thấy White Dwarf thiếu chiều sâu trong việc đưa tin về nội dung Chúa tể những chiếc nhẫn.<sup id="cite_ref-GWOnline_4-0" class="reference"><a href="#cite_note-GWOnline-4">[4]</a></sup>
 
 ## Bằng các ngôn ngữ khác {#In_other_languages}
 
@@ -65,8 +65,8 @@ Sau khi kết thúc hợp tác, [Mark Latham](../M/Mark_Latham.md), một biên 
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="extiw" href="http://en.wikipedia.org/wiki/Battle_Games_in_Middle-earth" title="wikipedia:Battle Games in Middle-earth">Trò chơi chiến đấu trong Trung Địa</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
-- <a class="external text" href="https://www.miniatures-workshop.com/lostminiswiki/index.php?title=Battle_Games_in_Middle-earth" rel="noreferrer noopener" target="_blank">Trò chơi chiến đấu trong Trung Địa</a> tại Lost Minis Wiki
+- <a class="extiw" href="http://en.wikipedia.org/wiki/Battle_Games_in_Middle-earth" title="wikipedia:Battle Games in Middle-earth">Trò chơi chiến đấu ở Trung Địa</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
+- <a class="external text" href="https://www.miniatures-workshop.com/lostminiswiki/index.php?title=Battle_Games_in_Middle-earth" rel="noreferrer noopener" target="_blank">Trò chơi chiến đấu ở Trung Địa</a> tại Lost Minis Wiki
 
 <span></span>
 

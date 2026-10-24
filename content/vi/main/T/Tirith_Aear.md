@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sea-ward Tower"
 ---
 
-Chuyển hướng tới [Biển Tháp phường](../S/Sea-ward_Tower.md).
+Chuyển hướng tới [Tháp Sea-ward](../S/Sea-ward_Tower.md).

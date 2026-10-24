@@ -38,10 +38,10 @@ infobox:
 - Truyền thông - Nancy Martsch, Scotto the Unwise, Jonathan Entner, Glenn Kuring
 - Tiền tuyến - [Chris Seeman](../C/Chris_Seeman.md)
 - Trung Địa Xuống Dưới: Chiến dịch Antipodian - Norman Talbot
-- Mùa đông ở Ladros: Báo cáo về chiến dịch Kỷ Đệ Nhất - [Anders Blixt](../A/Anders_Blixt.md)
-- Học bổng Orthanc: Ghi chú về Chiến dịch Kỷ Đệ Tứ - R. Benjamin Gribbon, W. Joseph Balderson
+- Mùa đông ở Ladros: Báo cáo về Chiến dịch Thời đại Đầu tiên - [Anders Blixt](../A/Anders_Blixt.md)
+- Hiệp hội Orthanc: Ghi chú về Chiến dịch Thời đại thứ tư - R. Benjamin Gribbon, W. Joseph Balderson
 - Dệt nên chủ nghĩa hiện thực huyền ảo từ thiên nhiên - W. Joseph Balderson, R. Benjamin Gribbon
-- Trở về và lưu vong trong thế giới của Tolkien- Gerrit Nuckton
-- Luyện kim trong Kỷ Đệ Tam - James Owen
+- Trở về và lưu vong trong thế giới của Tolkien - Gerrit Nuckton
+- Luyện kim ở thời đại thứ ba - James Owen
 - Thông tin thêm về Dân số: Phản hồi đối với Jason Beresford - Gunnar Brolin
 - Kẻ thù bảo vệ chúng ta - Tom Schneider

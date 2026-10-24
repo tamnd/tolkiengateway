@@ -40,26 +40,26 @@ infobox:
 
 **Stock** là một thị trấn ở phía bắc [Marish](../M/Marish.md), nằm trên dòng suối [Stock-brook](Stock-brook.md) gần bờ sông [Brandywine](../B/Brandywine.md) và phía nam [Cầu Brandywine](../B/Brandywine_Bridge.md) ở [Eastfarthing](../E/Eastfarthing.md) của [the Quận](../T/The_Shire.md). [Đường cao tốc](../C/Causeway.md) đi qua Stock và phía trên thị trấn nó rẽ nhánh thành một con đường<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> dẫn đến [Tuckborough](../T/Tuckborough.md) về phía tây.<sup id="cite_ref-short_2-0" class="reference"><a href="#cite_note-short-2">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:p. 88</sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup> *[The Golden Perch](../T/The_Golden_Perch.md)* ở Stock được cho là có loại bia ngon nhất ở [Eastfarthing](../E/Eastfarthing.md). Những [Puddifoots](../P/Puddifoot_Family.md) của Stock là những người sống trong nhà, giống như hầu hết người dân Marish.<sup id="cite_ref-short_2-1" class="reference"><a href="#cite_note-short-2">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:p. 92</sup>
 
-Trong hành trình của [Frodo](../F/Frodo_Baggins.md) tới [Buckland](../B/Buckland.md), Frodo đã thông báo rằng anh muốn đi thẳng xuyên quốc gia đến [Bến phà Bucklebury](../B/Bucklebury_Ferry.md). [Pippin](../P/Peregrin_Took.md) phản đối việc rút ngắn và đề cập đến *Golden Perch*. Thêm một lý do nữa để tránh Stock là để tránh Pippin đến đó và tránh cho hành trình của họ không bị trì hoãn.<sup id="cite_ref-short_2-2" class="reference"><a href="#cite_note-short-2">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:p. 88</sup>
+Trong [cuộc hành trình](../F/Frodo_Baggins.md) của Frodo đến [Buckland](../B/Buckland.md), Frodo đã thông báo rằng ông muốn đi thẳng xuyên đất nước để đến [Phà Bucklebury](../B/Bucklebury_Ferry.md). [Pippin](../P/Peregrin_Took.md) phản đối việc rút ngắn và đề cập đến *Golden Perch*. Thêm một lý do nữa để tránh Stock là để giữ Pippin tránh xa khỏi đó và tránh cho chuyến hành trình của họ bị trì hoãn.<sup id="cite_ref-short_2-2" class="reference"><a href="#cite_note-short-2">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:p. 88</sup>
 
 ## Từ nguyên {#Etymology}
 
-Cái tên này có thể thể hiện sự hiện đại hóa của [tiếng Anh cổ](../O/Old_English.md) *Stoc* "địa điểm, trang trại hoặc thôn ngoại ô".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup>
+Cái tên này có thể thể hiện sự hiện đại hóa của [tiếng Anh cổ](../O/Old_English.md) *Stoc* "địa điểm, trang trại hoặc thôn xa xôi".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2002: <a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md" title="The Lord of the Rings: The Fellowship of the Ring (video game)"><i>The Lord of the Rings: The Fellowship of the Ring</i> (trò chơi điện tử)</a>:</b>
+<b>2002: <a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md" title="The Lord of the Rings: The Fellowship of the Ring (video game)"><i>Chúa tể của những chiếc nhẫn: Hiệp hội những chiếc nhẫn</i> (trò chơi điện tử)</a>:</b>
 
 <dl><dd>In the Game Boy Advance version of <a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md" title="The Lord of the Rings: The Fellowship of the Ring (video game)"><i>The Lord of the Rings: The Fellowship of the Ring</i> (video game)</a>, it is possible to visit both Stock and the Golden Perch.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
 
 <dl><dd>Stock lies before the <a href="../B/Brandywine_Bridge.md" title="Brandywine Bridge">Brandywine Bridge</a>, welcoming the travelers to the <i><a class="mw-redirect" href="../T/The_Golden_Perch.md" title="The Golden Perch">The Golden Perch</a></i> inn.</dd></dl>
 
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Con đường không tên có lẽ là <a href="Stock_Road.md" title="Stock Road">Stock Đường</a></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Con đường không tên có lẽ là <a href="Stock_Road.md" title="Stock Road">Đường Stock</a></span>
 </li>
 </ol></div></span>
 

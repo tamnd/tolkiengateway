@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ungoliant"
 ---
 
-Chuyển hướng đến [Ungoliant](../U/Ungoliant.md).
+Chuyển hướng tới [Ungolian](../U/Ungoliant.md).

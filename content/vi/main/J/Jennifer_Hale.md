@@ -41,7 +41,7 @@ infobox:
 - [2014](../_/2014.md): *[Middle-earth: Shadow of Mordor](../M/Middle-earth%253A_Shadow_of_Mordor.md)* - [Galadriel](../G/Galadriel.md)
 - [2011](../_/2011.md): *[The Lord of the Rings: War in the North](../T/The_Lord_of_the_Rings%253A_War_in_the_North.md)* - Idonna Bellflower
 - [2003](../_/2003.md): [*The Hobbit* (trò chơi điện tử năm 2003)](<../T/The_Hobbit_(2003_video_game).md>) - Lianna, các giọng nói bổ sung
-- [2001](../_/2001.md): [*The Lord of the Rings: The Fellowship of the Ring* (trò chơi điện tử)](<../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md>) - [Galadriel](../G/Galadriel.md), [Lobelia](../L/Lobelia_Sackville-Baggins.md), [Rose Cotton](../R/Rose_Cotton.md)
+- [2001](../_/2001.md): [*The Lord of the Rings: The Fellowship of the Ring* (video game)](<../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md>) - [Galadriel](../G/Galadriel.md), [Lobelia](../L/Lobelia_Sackville-Baggins.md), [Bông hồng](../R/Rose_Cotton.md)
 
 ## Liên kết ngoài {#External_links}
 

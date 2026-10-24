@@ -14,12 +14,12 @@ images:
   - "Disambig.png"
 ---
 
-**Weta** là một phân loài <a class="extiw" href="http://en.wikipedia.org/wiki/Weta" title="wikipedia:Weta">côn trùng thuộc bộ New Zealand</a>, nhưng có thể đề cập đến:
+**Weta** là một <a class="extiw" href="http://en.wikipedia.org/wiki/Weta" title="wikipedia:Weta">phân loài côn trùng có nguồn gốc từ New Zealand</a>, nhưng có thể tham khảo:
 
 - [Sideshow Collectibles](../S/Sideshow_Collectibles.md), đôi khi là Sideshow Weta, một công ty có trụ sở tại California chuyên kinh doanh đồ sưu tầm.
 - [Wētā FX](Wētā_FX.md), trước đây gọi là Weta Digital, một công ty [New Zealand](../N/New_Zealand.md) chuyên tạo ra các hiệu ứng đặc biệt cho [*The Lord of the Rings* (loạt phim)](<../T/The_Lord_of_the_Rings_(film_series).md>).
     - "<a class="new" href="https://tolkiengateway.net/w/index.php?title=Weta_Digital_(documentary)&amp;action=edit&amp;redlink=1" title="Weta Digital (documentary) (page does not exist)">Weta Digital (phim tài liệu)</a>", một loạt nội dung bổ sung trên DVD Phiên bản Mở rộng.
-- [Weta Workshop](Weta_Workshop.md), một công ty liên quan đã tạo ra tất cả các đạo cụ.
+- [Weta Workshop](Weta_Workshop.md), một công ty liên quan chuyên tạo ra tất cả các đạo cụ.
     - "<a class="new" href="https://tolkiengateway.net/w/index.php?title=Weta_Workshop_(documentary)&amp;action=edit&amp;redlink=1" title="Weta Workshop (documentary) (page does not exist)">Weta Workshop (phim tài liệu)</a>", một loạt phần bổ sung trên DVD Phiên bản Mở rộng.
 
 <hr style="margin-top:15px;"/>

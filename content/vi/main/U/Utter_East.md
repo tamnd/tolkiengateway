@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Land of the Sun"
 ---
 
-Chuyển hướng đến [Vùng đất của Mặt Trời](../L/Land_of_the_Sun.md).
+Chuyển hướng tới [Xứ sở Mặt trời](../L/Land_of_the_Sun.md).

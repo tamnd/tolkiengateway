@@ -13,7 +13,7 @@ categories:
   - "Sindarin adjectives"
 ---
 
-<i><b>gorthob</b></i> là một từ [Sindarin](../S/Sindarin.md) có nghĩa là "khủng khiếp".<sup id="cite_ref-AC_1-0" class="reference"><a href="#cite_note-AC-1">[1]</a></sup> Người ta đề xuất rằng hình thức nên là *gortheb* (áp dụng kết thúc tính từ tiêu chuẩn).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+<i><b>gorthob</b></i> là một từ [tiếng Sindarin](../S/Sindarin.md) có nghĩa là "khủng khiếp".<sup id="cite_ref-AC_1-0" class="reference"><a href="#cite_note-AC-1">[1]</a></sup> Người ta đề xuất rằng hình thức nên là *gortheb* (áp dụng kết thúc tính từ tiêu chuẩn).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -21,12 +21,12 @@ categories:
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong [Etymologies](../T/The_Etymologies.md) xuất hiện dạng [Doriathrin](../D/Doriathrin.md) *ngorthin* ("khủng khiếp").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Trong [Từ nguyên](../T/The_Etymologies.md) xuất hiện dạng [Doriathrin](../D/Doriathrin.md) *ngorthin* ("khủng khiếp").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Xem thêm {#See_also}
 
-- Sindarin *[gorth](Gorth.md)*
-- Sindarin *[gorgor](Gorgor.md)*
+- Tiếng Sindarin *[gorth](Gorth.md)*
+- Tiếng Sindarin *[gorgor](Gorgor.md)*
 
 <span></span>
 

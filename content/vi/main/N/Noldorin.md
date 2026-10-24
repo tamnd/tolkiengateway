@@ -36,37 +36,37 @@ images:
 
 ## Lịch sử {#History}
 
-[Kornoldorin](../K/Kornoldorin.md) ("Gnomish của [Kôr](../K/Kôr.md)" hoặc "Old Noldorin") là ngôn ngữ của [Gnomes](../G/Gnomes.md) trong [Valinor](../V/Valinor.md). Nó tương tự như [Qenya](../Q/Qenya.md), ngôn ngữ của [Lindar](../V/Vanyar.md), nhưng kết hợp ảnh hưởng của [Solosimpin](../S/Solosimpi.md).
+[Kornoldorin](../K/Kornoldorin.md) ("Gnomish of [Kôr](../K/Kôr.md)" hay "Old Noldorin") là ngôn ngữ của [Gnomes](../G/Gnomes.md) ở [Valinor](../V/Valinor.md). Nó tương tự như [Qenya](../Q/Qenya.md), ngôn ngữ của [Lindar](../V/Vanyar.md), nhưng kết hợp ảnh hưởng của [Solosimpin](../S/Solosimpi.md).
 
-Khi Noldoli đến [Great Lands](../G/Great_Lands.md) với [Fëanor](../F/Fëanor.md), họ đã trộn lẫn với [Ilkorindi](../I/Ilkorindi.md), [Tiên Hắc Ám](../D/Dark_Elves.md) và ngôn ngữ của họ, Kornoldorin và [Ilkorin](../I/Ilkorin.md) tương ứng, cũng được trộn lẫn. Đây là nguồn gốc của Noldorin.
+Khi người Noldoli đến [Great Lands](../G/Great_Lands.md) cùng với [Fëanor](../F/Fëanor.md), họ đã hòa trộn với [Ilkorindi](../I/Ilkorindi.md), [Yêu tinh bóng tối](../D/Dark_Elves.md) và ngôn ngữ của họ, Kornoldorin và [Ilkorin](../I/Ilkorin.md), tương ứng, cũng hòa trộn với nhau. Đây là nguồn gốc của Noldorin.
 
-Noldorin có nhiều phương ngữ khác nhau, bao gồm các phương ngữ [Mithrim](../M/Mithrim.md), [Gondolin](../G/Gondolin.md), [Nargothrond](Nargothrond.md) và [Himring](../H/Himring.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> cũng như [phương ngữ Fëanorian](../F/Fëanorian_dialect.md) của [Đông Beleriand](../E/East_Beleriand.md) được nói bởi dân gian [các Con trai của Fëanor](../S/Sons_of_Fëanor.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Noldorin có nhiều phương ngữ khác nhau, bao gồm các phương ngữ [Mithrim](../M/Mithrim.md), [Gondolin](../G/Gondolin.md), [Nargothrond](Nargothrond.md), và [Himring](../H/Himring.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và [phương ngữ Fëanorian](../F/Fëanorian_dialect.md) của [Đông Beleriand](../E/East_Beleriand.md) được nói bởi dân gian của [Những người con trai của Fëanor](../S/Sons_of_Fëanor.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Hệ thống chữ viết {#Writing_System}
 
-[Tengwar](../T/Tengwar.md) là hệ thống chữ viết chính được sử dụng bởi Noldor (và [các Chủng tộc](../R/Races.md) khác) cho nhiều [Kỷ nguyên](../A/Ages.md). Nó được tạo ra bởi [Fëanor](../F/Fëanor.md) của [Nhà Finwë](../H/House_of_Finwë.md) trong [Y.T.](../Y/Years_of_the_Trees.md) [1250](../Y/Year_of_the_Trees_1250.md) của [Kỷ Đệ Nhất của Arda](../F/First_Age.md) và vẫn được sử dụng trong suốt quá trình lịch sử. Một ví dụ nổi tiếng về việc sử dụng Tengwar là dòng chữ trên [Chiếc nhẫn duy nhất](../T/The_One_Ring.md), được viết bằng [Hắc Ngữ](../B/Black_Speech.md).
+[Tengwar](../T/Tengwar.md) là hệ thống chữ viết chính được Noldor (và các [Chủng tộc](../R/Races.md) khác) sử dụng trong nhiều [Thời đại](../A/Ages.md). Nó được tạo ra bởi [Fëanor](../F/Fëanor.md) của [Nhà Finwë](../H/House_of_Finwë.md) vào [Y.T.](../Y/Years_of_the_Trees.md) [1250](../Y/Year_of_the_Trees_1250.md) thuộc [Thời đại đầu tiên của Arda](../F/First_Age.md) và vẫn được sử dụng trong suốt quá trình lịch sử. Một ví dụ nổi tiếng về việc sử dụng Tengwar là dòng chữ trên [The One Ring](../T/The_One_Ring.md), được viết bằng [Black Speech](../B/Black_Speech.md).
 
 ## Lịch sử bên ngoài {#External_history}
 
-Một ngôn ngữ mang âm hưởng Celtic được nói bởi Gnomes/Noldoli đã tồn tại từ đầu thần thoại của Tolkien. Trong giai đoạn đầu, nó được gọi là [Gnomish](../G/Gnomish.md) và giống với Noldorin/Sindarin sau này mặc dù có những khác biệt đáng chú ý.
+Một ngôn ngữ mang âm hưởng Celtic được người Gnomes/Noldoli sử dụng đã tồn tại từ thời kỳ đầu của thần thoại Tolkien. Trong giai đoạn đầu, nó được gọi là [Gnomish](../G/Gnomish.md) và giống với Noldorin/Sindarin sau này mặc dù có những khác biệt đáng chú ý.
 
-Sự phát triển của ngôn ngữ tiếp tục trong nhiều năm. Trong những năm 1930, nó được gọi là Noldorin và có nhiều điểm tương đồng hơn với Sindarin của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*. Phiên bản ngôn ngữ này xuất hiện trong *[Etymologies](../T/The_Etymologies.md)*.
+Sự phát triển của ngôn ngữ tiếp tục trong nhiều năm. Trong những năm 1930, nó được gọi là Noldorin và có sự tương đồng lớn hơn với Sindarin của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*. Phiên bản ngôn ngữ này xuất hiện trong *[Etymologies](../T/The_Etymologies.md)*.
 
-Noldorin là phiên bản ngôn ngữ hiện có trong quá trình viết *The Lord of the Rings*. Các cụm từ Elvish trong *The Lord of the Rings*, hiện được gọi là Sindarin, đã có "Noldorin" trong đầu Tolkien trong suốt quá trình viết. Chỉ khi biên soạn các Phụ lục, ông mới quyết định viết lại cốt truyện của ngôn ngữ và đổi tên thành Sindarin.
+Noldorin là phiên bản hiện có của ngôn ngữ này trong quá trình viết *The Lord of the Rings*. Các cụm từ Tiên trong *The Lord of the Rings*, hiện được gọi là Sindarin, là "Noldorin" trong tâm trí Tolkien trong suốt quá trình viết. Chỉ khi biên soạn các Phụ lục, ông mới quyết định viết lại câu chuyện phía sau của ngôn ngữ và đổi tên thành Sindarin.
 
-Tolkien đã tham khảo rộng rãi ngôn ngữ Noldorin của *Etymologies* trong công việc của mình về Sindarin, điều chỉnh các từ cũ cho phù hợp với phiên bản ngôn ngữ mới của anh ấy. Phương pháp tương tự này nhằm điều chỉnh các từ Noldorin để tạo ra các từ tương đương Sindarin được các sinh viên hiện đại của Elvish sử dụng. Từ vựng thu được thường được gọi là "[Neo-Sindarin](Neo-Sindarin.md)" để phân biệt với Sindarin đã được chứng thực.
+Tolkien đã tham khảo rộng rãi ngôn ngữ Noldorin của *Etymologies* trong tác phẩm của mình về Sindarin, điều chỉnh các từ cũ để phù hợp với phiên bản ngôn ngữ mới của ông. Phương pháp tương tự này là phỏng theo các từ của Noldorin để tạo ra các từ tương đương với tiếng Sindarin được các sinh viên tiếng Elvish hiện đại sử dụng. Từ vựng thu được thường được gọi là "[Tân Sindarin](Neo-Sindarin.md)" để phân biệt với tiếng Sindarin đã được chứng thực.
 
-### Ví dụ về việc điều chỉnh Noldorin thành Sindarin {#An_example_of_Noldorin_to_Sindarin_adaptation}
+### Một ví dụ về sự thích ứng Noldorin với Sindarin {#An_example_of_Noldorin_to_Sindarin_adaptation}
 
-Old Noldorin ban đầu *l-/r-* trở thành *lh-/rh-* trong Noldorin. Tuy nhiên, trong Sindarin, chúng vẫn giữ nguyên. Old Noldorin nguyên âm đôi *ai* trở thành *oe* trong Noldorin, nhưng *ae* trong Sindarin.
+Chữ viết tắt *l-/r-* cũ của Noldorin đã trở thành *lh-/rh-* trong Noldorin. Tuy nhiên, ở Sindarin, chúng vẫn giữ nguyên. Nguyên âm đôi Noldorin cũ *ai* trở thành *oe* trong Noldorin, nhưng *ae* trong Sindarin.
 
-Theo *Etymologies*, từ Old Noldorin *raika* phát triển thành Noldorin *rhoeg*. Một sinh viên hiện đại của Elvish sẽ cập nhật từ này thành Neo-Sindarin \**raeg*.
+Theo *Etymologies*, từ Noldorin Cũ *raika* phát triển thành Noldorin *rhoeg*. Một sinh viên hiện đại của Elvish sẽ cập nhật từ này thành Neo-Sindarin \**raeg*.
 
 ## Xem thêm {#See_also}
 
 - [Kornoldorin](../K/Kornoldorin.md)
 - [Salmar](../S/Salmar.md), cũng được đặt tên là *Noldorin* trong các bản thảo đầu tiên
-- [Gnomish](../G/Gnomish.md) hay còn gọi là *Goldogrin*, tiền thân của Noldorin
+- [Gnomish](../G/Gnomish.md), còn gọi là *Goldogrin*, tiền thân của Noldorin
 
 ## Liên kết ngoài {#External_links}
 

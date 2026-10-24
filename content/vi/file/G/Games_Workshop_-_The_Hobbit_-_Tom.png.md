@@ -24,7 +24,7 @@ file:
   user: "Morgan"
 ---
 
-<a class="mw-redirect mw-disambig" href="../../main/T/Tom.md" title="Tom">Tom</a> trong [The Hobbit Trò chơi chiến đấu chiến lược](../../main/T/The_Hobbit_Strategy_Battle_Game.md).
+<a class="mw-redirect mw-disambig" href="../../main/T/Tom.md" title="Tom">Tom</a> ở [The Hobbit Strategy Battle Game](../../main/T/The_Hobbit_Strategy_Battle_Game.md).
 
 ## Giấy phép {#Licensing}
 

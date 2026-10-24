@@ -21,7 +21,7 @@ categories:
 
 **Ambar-metta** là thuật ngữ [Quenya](../Q/Quenya.md) ám chỉ [Ngày tận thế](../T/The_End.md) của Thế giới.
 
-Nó hầu hết được biết đến như một phần của câu nói được [Elendil](../E/Elendil.md) sử dụng khi anh ấy đến [Trung Địa](../M/Middle-earth.md), tuyên bố "*Tôi và những người thừa kế của tôi sẽ ở lại nơi này cho đến ngày tận thế của [thế giới](Arda.md)*". [Elessar](Aragorn.md) sau này sẽ sử dụng dòng này trong <a class="new" href="https://tolkiengateway.net/w/index.php?title=Crowning_of_the_King&amp;action=edit&amp;redlink=1" title="Crowning of the King (page does not exist)">lễ đăng quang</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Nó hầu hết được biết đến như một phần của câu nói được [Elendil](../E/Elendil.md) sử dụng khi ông đến [Trung Địa](../M/Middle-earth.md), tuyên bố "*Tôi và những người thừa kế của tôi sẽ ở lại nơi này cho đến ngày tận thế của [thế giới](Arda.md)*". [Elessar](Aragorn.md) sau này sẽ sử dụng dòng này trong <a class="new" href="https://tolkiengateway.net/w/index.php?title=Crowning_of_the_King&amp;action=edit&amp;redlink=1" title="Crowning of the King (page does not exist)">lễ đăng quang</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

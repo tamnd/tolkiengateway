@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Entings"
 ---
 
-Chuyển hướng đến [Entings](Entings.md).
+Chuyển hướng đến [Bài viết](Entings.md).

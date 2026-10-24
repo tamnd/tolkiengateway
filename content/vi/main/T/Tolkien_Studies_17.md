@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Studies: Volume 17"
 ---
 
-Chuyển hướng tới [Tolkien Nghiên cứu: Tập 17](Tolkien_Studies%253A_Volume_17.md).
+Chuyển hướng đến [Tolkien Studies: Volume 17](Tolkien_Studies%253A_Volume_17.md).

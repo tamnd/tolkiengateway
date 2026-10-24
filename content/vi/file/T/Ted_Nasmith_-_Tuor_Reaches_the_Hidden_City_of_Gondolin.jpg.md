@@ -28,7 +28,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-<i><b>Tuor Đạt Thành phố Ẩn Giấu của Gondolin</b></i> [Ted Nasmith](../../main/T/Ted_Nasmith.md). Nó xuất hiện lần đầu tiên trong [Lịch Tolkien năm 1996](../../main/J/J.R.R._Tolkien_Calendar_1996.md) của tháng 6, được xuất bản bởi [HarperCollins](../../main/H/HarperCollins.md). Nó cũng đã được sử dụng trong các phiên bản minh họa của *[The Silmarillion](../../main/T/The_Silmarillion.md)*.
+<i><b>Tuor Đạt Thành Phố Ẩn Giấu của Gondolin</b></i> [Ted Nasmith](../../main/T/Ted_Nasmith.md). Nó xuất hiện lần đầu tiên trong [Lịch Tolkien năm 1996](../../main/J/J.R.R._Tolkien_Calendar_1996.md) của tháng 6, được xuất bản bởi [HarperCollins](../../main/H/HarperCollins.md). Nó cũng đã được sử dụng trong các phiên bản minh họa của *[The Silmarillion](../../main/T/The_Silmarillion.md)*.
 
 ## Giấy phép {#License}
 

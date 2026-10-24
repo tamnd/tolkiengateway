@@ -14,7 +14,7 @@ categories:
 
 **Cây bồ đề** là cây ở [Arda](../A/Arda.md). Một số [Ent](../E/Ents.md) trông giống cây bồ đề.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Lindens rõ ràng được biết đến với những chiếc lá trong và nhẹ: cả [Lúthien](Lúthien.md)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và [Nimrodel](../N/Nimrodel.md)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> đều được nói trong bài hát là di chuyển giống như những chiếc lá bồ đề.
+Lindens rõ ràng được biết đến với những chiếc lá trong và nhẹ: cả [Lúthien](Lúthien.md)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và [Nimrodel](../N/Nimrodel.md)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> trong bài hát đều được nói là di chuyển giống như những chiếc lá bồ đề.
 
 <span></span>
 

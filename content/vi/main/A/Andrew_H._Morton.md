@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Morton, Andrew H."
 ---
 
-**Andrew H. Morton** là tác giả, nhà soạn nhạc và là giáo viên tiếng Anh. Anh ấy đã viết hai cuốn sách về mối quan hệ của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)thời trẻ với [Jane Neave](../J/Jane_Neave.md) và với các địa điểm ở [Birmingham](../B/Birmingham.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Andrew H. Morton** là tác giả, nhà soạn nhạc và là giáo viên tiếng Anh. Ông đã viết hai cuốn sách về mối quan hệ của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) trẻ với [Jane Neave](../J/Jane_Neave.md) và với các địa điểm ở [Birmingham](../B/Birmingham.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Thư mục, đã chọn {#Bibliography,_selected}
 
@@ -34,7 +34,7 @@ sort_keys:
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://www.tolkienlibrary.com/press/1065-Bag-End-A-Very-English-Place.php" rel="noreferrer noopener" target="_blank">Andrew Morton đưa chúng ta đến Bag End thực sự - Một nơi rất Anh</a>
+- <a class="external text" href="http://www.tolkienlibrary.com/press/1065-Bag-End-A-Very-English-Place.php" rel="noreferrer noopener" target="_blank">Andrew Morton đưa chúng ta đến Bag End thực sự - Một địa điểm rất Anh</a>
 
 <span></span>
 

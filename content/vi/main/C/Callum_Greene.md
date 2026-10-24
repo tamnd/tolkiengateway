@@ -16,7 +16,7 @@ sort_keys:
   "Producers": "Greene, Callum"
 ---
 
-**Callum Greene** ([22 tháng 2](../_/22_February.md), [1971](../_/1971.md)) là nhà sản xuất người Anh. Anh ấy được chỉ định là nhà sản xuất điều hành trong *[The Hobbit: The Desolation of Smaug](../T/The_Hobbit%253A_The_Desolation_of_Smaug.md)* và anh ấy là một trong những nhà sản xuất điều hành của loạt phim *[The Lord of the Rings: The Rings of Power](../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)* mùa đầu tiên của [Amazon](../A/Amazon.com_Incorporated.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Callum Greene** ([22 tháng 2](../_/22_February.md), [1971](../_/1971.md)) là nhà sản xuất người Anh. Ông được chỉ định là nhà sản xuất điều hành trong *[The Hobbit: The Desolation of Smaug](../T/The_Hobbit%253A_The_Desolation_of_Smaug.md)* và ông là một trong những nhà sản xuất điều hành của loạt phim *[The Lord of the Rings: The Rings of Power](../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)* mùa đầu tiên của [Amazon](../A/Amazon.com_Incorporated.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Liên kết ngoài {#External_links}
 

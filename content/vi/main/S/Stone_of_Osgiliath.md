@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Master Stone of Osgiliath"
 ---
 
-Chuyển hướng tới [Chủ nhân Đá của Osgiliath](../M/Master_Stone_of_Osgiliath.md).
+Chuyển hướng tới [Viên đá chủ nhân của Osgiliath](../M/Master_Stone_of_Osgiliath.md).

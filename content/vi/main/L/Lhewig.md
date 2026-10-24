@@ -13,4 +13,4 @@ categories:
   - "Sindarin nouns"
 ---
 
-**lhewig** là từ [Sindarin](../S/Sindarin.md) cho *ear*. Một đôi tai là *[lhaw](Lhaw.md)*.
+**lhewig** là từ [tiếng Sindarin](../S/Sindarin.md) cho *ear*. Một đôi tai là *[lhaw](Lhaw.md)*.

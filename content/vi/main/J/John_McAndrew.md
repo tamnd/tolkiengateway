@@ -23,4 +23,4 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>John McAndrew</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Portrayed</th><td class="tg-infobox-data"><a href="../P/Peregrin_Took.md" title="Peregrin Took">Peregrin Took</a> in:<br/><a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)">The Lord of the Rings 1981 radio series</a></td></tr></tbody></table>
 
-**John McAndrew** lồng tiếng cho phần [Peregrin Took](../P/Peregrin_Took.md) trong [The Lord of the Rings loạt phim phát thanh năm 1981](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) phát sóng trên BBC 4.
+**John McAndrew** lồng tiếng cho phần [Peregrin Took](../P/Peregrin_Took.md) trong [The Lord of the Rings 1981 radio series](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) được phát sóng trên BBC 4.

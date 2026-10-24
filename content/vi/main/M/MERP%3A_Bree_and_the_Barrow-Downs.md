@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Bree and the Barrow-Downs"
 ---
 
-Chuyển hướng tới [Bree và Barrow-Downs](../B/Bree_and_the_Barrow-Downs.md).
+Chuyển hướng tới [Bree and the Barrow-Downs](../B/Bree_and_the_Barrow-Downs.md).

@@ -28,7 +28,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"[The Nhẫn of Galadriel](../../main/N/Nenya.md)" - Tác phẩm nghệ thuật của [Anh em nhà Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md), xuất bản lần đầu trong [1976 J.R.R. Tolkien Lịch](../../main/_/1976_J.R.R._Tolkien_Calendar.md)
+"[Chiếc nhẫn của Galadriel](../../main/N/Nenya.md)" - Tác phẩm nghệ thuật của [Anh em nhà Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md), xuất bản lần đầu trong [1976 J.R.R. Tolkien Lịch](../../main/_/1976_J.R.R._Tolkien_Calendar.md)
 
 ## Giấy phép {#Licensing}
 

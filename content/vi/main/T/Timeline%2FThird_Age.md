@@ -20,7 +20,7 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="Timeline.md" title="Timeline">Timeline</a></b></div></div>
 
-## [Kỷ Đệ Tam](Third_Age.md) {#Third_Age}
+## [Tuổi thứ ba](Third_Age.md) {#Third_Age}
 
 <table class="wikitable">
 <tbody><tr>
@@ -2476,11 +2476,11 @@ images:
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-Vidumavi-8"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Vidumavi_8-0">1.0</a></sup> <sup><a href="#cite_ref-Vidumavi_8-1">1.1</a></sup></span> <span class="reference-text">Tolkien có các ngày mâu thuẫn nhau về năm mất của Vidumavi; hai bản sao của cùng một bản đánh máy có ngày tháng khác nhau (<a href="Third_Age.md" title="Third Age">T.A.</a> <a href="Third_Age_1332.md" title="Third Age 1332">1332</a> hoặc <a href="Third_Age.md" title="Third Age">T.A.</a> <a href="Third_Age_1344.md" title="Third Age 1344">1344</a>).</span>
+<li id="cite_note-Vidumavi-8"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Vidumavi_8-0">1.0</a></sup> <sup><a href="#cite_ref-Vidumavi_8-1">1.1</a></sup></span> <span class="reference-text">Tolkien có những ngày tháng mâu thuẫn nhau về năm mất của Vidumavi; hai bản sao của cùng một bản đánh máy có ngày tháng khác nhau (<a href="Third_Age.md" title="Third Age">T.A.</a> <a href="Third_Age_1332.md" title="Third Age 1332">1332</a> hoặc <a href="Third_Age.md" title="Third Age">T.A.</a> <a href="Third_Age_1344.md" title="Third Age 1344">1344</a>).</span>
 </li>
-<li id="cite_note-21"><span class="mw-cite-backlink"><a href="#cite_ref-21">↑</a></span> <span class="reference-text">Trong các ấn bản trước, Phụ lục C ghi cái chết của ông là S.R. 1360, nhưng trong một số ấn bản sau, năm được ghi nhầm thành 1363.</span>
+<li id="cite_note-21"><span class="mw-cite-backlink"><a href="#cite_ref-21">↑</a></span> <span class="reference-text">Trong các ấn bản trước, Phụ lục C ghi cái chết của ông là S.R. 1360, nhưng trong một số ấn bản sau, năm này bị ghi nhầm thành 1363.</span>
 </li>
-<li id="cite_note-28"><span class="mw-cite-backlink"><a href="#cite_ref-28">↑</a></span> <span class="reference-text">Khi tính toán <a href="../G/Gondor.md" title="Gondor">Gondor</a>, nhằm mục đích lưu giữ hồ sơ, <a href="../F/Fourth_Age.md" title="Fourth Age">Kỷ Đệ Tứ</a> bắt đầu vào <a href="../_/25_March.md" title="25 March">25 tháng 3</a> của <a href="Third_Age.md" title="Third Age">T.A.</a> <a href="Third_Age_3021.md" title="Third Age 3021">3021</a>. Kỷ Đệ Tam được cho là đã thực sự kết thúc khi <a href="Three_Keepers.md" title="Three Keepers">Ba người canh giữ</a> khởi hành trên Biển vào <a href="../_/29_September.md" title="29 September">29 tháng Chín</a> năm 3021. <a href="../H/Hobbits.md" title="Hobbits">Hobbit</a> cho rằng Kỷ Đệ Tứ bắt đầu vào ngày 2 Yule của <a class="mw-redirect" href="../S/Shire_Reckoning.md" title="Shire Reckoning">S.R.</a> <a href="../F/Fourth_Age_1.md" title="Fourth Age 1">1422</a>, đáng lẽ phải ở <a href="Third_Age.md" title="Third Age">T.A.</a> <a class="mw-redirect" href="Third_Age_3022.md" title="Third Age 3022">3022</a>, có số lượng Kỷ Đệ Tam năm tiếp tục.</span>
+<li id="cite_note-28"><span class="mw-cite-backlink"><a href="#cite_ref-28">↑</a></span> <span class="reference-text">Theo tính toán của <a href="../G/Gondor.md" title="Gondor">Gondor</a>, nhằm mục đích lưu giữ hồ sơ, <a href="../F/Fourth_Age.md" title="Fourth Age">Kỷ thứ Tư</a> bắt đầu vào <a href="../_/25_March.md" title="25 March">25 tháng 3</a> của <a href="Third_Age.md" title="Third Age">T.A.</a> <a href="Third_Age_3021.md" title="Third Age 3021">3021</a>. Kỷ nguyên thứ ba được cho là đã thực sự kết thúc khi <a href="Three_Keepers.md" title="Three Keepers">Ba người canh giữ</a> khởi hành trên Biển vào <a href="../_/29_September.md" title="29 September">29 tháng 9</a> năm 3021. <a href="../H/Hobbits.md" title="Hobbits">Người Hobbit</a> cho rằng Kỷ nguyên thứ tư bắt đầu vào ngày 2 Yule của <a class="mw-redirect" href="../S/Shire_Reckoning.md" title="Shire Reckoning">S.R.</a> <a href="../F/Fourth_Age_1.md" title="Fourth Age 1">1422</a>, tức là sẽ đã ở <a href="Third_Age.md" title="Third Age">T.A.</a> <a class="mw-redirect" href="Third_Age_3022.md" title="Third Age 3022">3022</a>, vẫn tiếp tục tính số năm ở Thời đại Thứ ba.</span>
 </li>
 </ol></div></span>
 

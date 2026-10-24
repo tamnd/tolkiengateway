@@ -13,15 +13,15 @@ categories:
   - "Quenya nouns"
 ---
 
-<i><b>macil</b></i> là một từ [Quenya](../Q/Quenya.md) có nghĩa là "thanh kiếm".
+<i><b>macil</b></i> là từ [Quenya](../Q/Quenya.md) có nghĩa là "thanh kiếm".
 
 ## Từ nguyên {#Etymology}
 
-[Common Eldarin](../C/Common_Eldarin.md) \**makl* từ [PQ](../P/PQ.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Makla&amp;action=edit&amp;redlink=1" title="Makla (page does not exist)">makla</a></i> [Gốc](../S/Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=MAK&amp;action=edit&amp;redlink=1" title="MAK (page does not exist)">MAK</a>
+[Eldarin thông thường](../C/Common_Eldarin.md) \**makl* từ [PQ](../P/PQ.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Makla&amp;action=edit&amp;redlink=1" title="Makla (page does not exist)">makla</a></i> [Root](../S/Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=MAK&amp;action=edit&amp;redlink=1" title="MAK (page does not exist)">MAK</a>
 
 ## Các hình thức khác {#Other_forms}
 
-- **macilya** "thanh kiếm của anh ấy" (thông tục Quenya)
+- **macilya** "thanh kiếm của ông" (quenya thông tục)
 
 ## Xem thêm {#See_also}
 
@@ -40,4 +40,4 @@ categories:
 
 ## Có cùng nguồn gốc {#Cognates}
 
-- [Sindarin](../S/Sindarin.md) *[magol](Magol.md)*
+- [Tiếng Sindarin](../S/Sindarin.md) *[magol](Magol.md)*

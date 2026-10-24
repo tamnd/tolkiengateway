@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dwarves"
 ---
 
-Chuyển hướng đến [Người Lùn](Dwarves.md).
+Chuyển hướng tới [Người lùn](Dwarves.md).

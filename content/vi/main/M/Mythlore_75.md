@@ -39,23 +39,23 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mythlore_75.gif.md"><img src="https://tolkiengateway.net/w/images/c/c7/Mythlore_75.gif" decoding="async" loading="lazy" width="225" height="292" class="mw-file-element" data-file-width="225" data-file-height="292"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mythlore 75</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../G/Glen_GoodKnight.md" title="Glen GoodKnight">Glen GoodKnight</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Winter <a href="../_/1993.md" title="1993">1993</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">67</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mythlore_74.md" title="Mythlore 74">Mythlore 74</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mythlore_76.md" title="Mythlore 76">Mythlore 76</a></td></tr></tbody></table>
 
-<b><i>Mythlore</i> 75</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol20/iss1/" rel="noreferrer noopener" target="_blank">Tập 20, Số 1</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
+<b><i>Thần thoại</i> 75</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol20/iss1/" rel="noreferrer noopener" target="_blank">Tập 20, Số 1</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
 
 ## Nội dung {#Contents}
 
 #### Bài viết {#Articles}
 
-- McQuade, Brett T. "*Peter Pan*: Disney chuyển thể tác phẩm gốc của J.M. Barrie."
-- Bãi biển, Sarah. "Phá vỡ khuôn mẫu: *The Owl Service* của Alan Garner và *Mabinogion*."
-- Callahan, Tim. "Câu đố kiểm duyệt thế giới."
-- Thompson, Ricky L. "Tolkien's Word-Hord Onlēac."
-- Hruschka, John. "Anne Sexton và Sự biến đổi của Anima: Sự biến đổi như một lời phê bình về tâm lý tình yêu trong *Grimm’s Fairy Tales.*"
-- Stewig, John Warren. “The Witch Woman: Một Motif định kỳ trong văn bản giả tưởng gần đây dành cho độc giả trẻ.”
+- McQuade, Brett T. "*Peter Pan*: Disney’s Adaptation of J.M. Barrie’s Original Work."
+- Beach, Sarah. "Breaking the Pattern: Alan Garner's *The Owl Service* and the *Mabinogion*."
+- Callahan, Tim. "Censoring the World Riddle."
+- Thompson, Ricky L. "Tolkien’s Word-Hord Onlēac."
+- Hruschka, John. "Anne Sexton and Anima Transformations: Transformations as a Critique of the Psychology of Love in *Grimm’s Fairy Tales.*"
+- Stewig, John Warren. "The Witch Woman: A Recurring Motif in Recent Fantasy Writing for Young Readers."
 
 #### Tính năng {#Features}
 
 - Chúc ngủ ngon, Glen. Biên tập Giới thiệu: 75 trong 25.
-- Kodratiev, Alexei. “Những câu chuyện mới được kể.”
+- Kondratiev, Alexei. “Tales Newly Told.”
 - Thư.
 - Wynne, Patrick, Paula DiSante và Sarah Beach. “Nhận xét của nghệ sĩ.”
 
@@ -63,6 +63,6 @@ infobox:
 
 - *The 1994 J.R.R. Tolkien Calendar.* Minh họa bởi Michael Kaluta. Được đánh giá bởi Paula DiSante.
 - *Spiritual Writings*. Dorothy L. Sayers. Được đánh giá bởi Nancy-Lou Patterson.
-- *Dorothy L. Sayers: The Centenary Celebration*. Đá Alzina Dale, biên tập viên. Được đánh giá bởi Nancy-Lou Patterson.
+- *Dorothy L. Sayers: The Centenary Celebration*. Alzina Stone Dale, biên tập viên. Được đánh giá bởi Nancy-Lou Patterson.
 
 <div class="template-prevnext"><div class="template-prevnext__prev template-prevnext__link"><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/8/81/WikimediaUI-ArrowPrevious-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__content"><div class="template-prevnext__title">Mythlore 74</div></div><div class="template-prevnext__linkoverlay"><a href="Mythlore_74.md" title="Mythlore 74">Mythlore 74</a></div></div><div class="template-prevnext__current"><div class="template-prevnext__content"><div class="template-prevnext__title">Mythlore 75</div></div></div><div class="template-prevnext__next template-prevnext__link"><div class="template-prevnext__content"><div class="template-prevnext__title">Mythlore 76</div></div><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/7b/WikimediaUI-ArrowNext-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__linkoverlay"><a href="Mythlore_76.md" title="Mythlore 76">Mythlore 76</a></div></div></div>

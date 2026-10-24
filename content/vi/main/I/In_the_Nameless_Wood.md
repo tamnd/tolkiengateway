@@ -39,7 +39,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/I/In_the_Nameless_Wood.png.md"><img src="https://tolkiengateway.net/w/images/e/ee/In_the_Nameless_Wood.png" decoding="async" loading="lazy" width="280" height="420" class="mw-file-element" data-file-width="280" data-file-height="420"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>In the Nameless Wood: Explorations in the Philological Hinterland of Tolkien&#39;s Literary Creations</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a href="../J/John_Ryan.md" title="John Ryan">J.S. Ryan</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../W/Walking_Tree_Publishers.md" title="Walking Tree Publishers">Walking Tree Publishers</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/11_September.md" title="11 September">11 September</a> <a href="../_/2013.md" title="2013">2013</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">365</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/978-3-905703-30-6" title="Special:BookSources/978-3-905703-30-6">978-3-905703-30-6</a></td></tr><tr><th scope="row" class="tg-infobox-label">Series</th><td class="tg-infobox-data"><a href="../C/Cormarë_Series.md" title="Cormarë Series">Cormarë Series</a></td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="../O/O_What_a_Tangled_Web.md" title="O What a Tangled Web">O What a Tangled Web</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="../F/From_Peterborough_to_Faëry.md" title="From Peterborough to Faëry">From Peterborough to Faëry</a></td></tr></tbody></table>
 
-<i><b>Trong Kẻ Vô Danh Rừng: Khám phá vùng nội địa triết học của những sáng tạo văn học của Tolkien</b></i> là một tập hợp các bài tiểu luận khảo sát các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) liên quan đến các nền văn học khác. Nó được xuất bản ở vị trí thứ 30 trong *[Cormarë Series](../C/Cormarë_Series.md)*.
+<i><b>Trong khu rừng không tên: Khám phá vùng nội địa triết học của những sáng tạo văn học của Tolkien</b></i> là một tập hợp các bài tiểu luận khảo sát các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đối với các tác phẩm văn học khác. Nó được xuất bản ở vị trí thứ 30 trong *[Cormarë Series](../C/Cormarë_Series.md)*.
 
 ## Từ nhà xuất bản {#From_the_publisher}
 
@@ -53,29 +53,29 @@ infobox:
 - Lời nói đầu
 - Giới thiệu
 - Danh sách các từ viết tắt và tài liệu tham khảo
-- 'Khu rừng Kẻ Vô Danh' và 'Con đường hẹp'
-- **Phần A - Trung Cổ phương Đông và các mối liên hệ của nó**
-    - Ký ức và nỗi sợ hãi về chủng tộc Ấn-Âu từ Thành phố cổ Uruk ... và cả Tolkien với tư cách là Nhà ngữ văn suy đoán lặng lẽ
-    - Lời Thề-Chửi thề, Tảng đá Erech và Gần phương Đông của Thế giới Cổ đại
+- 'Khu rừng không tên' và 'Con đường hẹp'
+- **Phần A - Trung Đông cổ đại và các mối liên hệ của nó**
+    - Ký ức và nỗi sợ hãi về chủng tộc Ấn-Âu từ Thành phố cổ Uruk ... và cả Tolkien với tư cách là Nhà ngữ văn suy đoán thầm lặng
+    - Lời thề, hòn đá Erech và vùng Cận Đông của thế giới cổ đại
     - Saruman, 'Sharkey' và Suruman: Những hình ảnh tương tự về sự khéo léo và xảo quyệt của phương Đông
-    - Túrin, Ngữ văn Turanian và Ural-Altaic
+    - Ngữ văn Túrin, Turan và Ural-Altaic
     - Gollum và Golem: Hiệp hội Tolkienian bị lãng quên với tư tưởng Do Thái
 - **Phần B - Lydney người Anh gốc La Mã và tầm quan trọng đáng chú ý của nó đối với Œuvre của Tolkien**
-    - Địa điểm khảo cổ Lydney và Tolkien miêu tả Vua là Người chữa lành
-    - Các mỏ của Mendip và của Moria, với một số suy ngẫm về Hang ổ của Sâu trắng
-Đồi của     - Người lùn và 'Nhà nguyện củaNgười lùn' ... Vấn đề khai thác cổ xưa ở đó và những ý tưởng cho câu chuyện tiếp theo mà Hoạt động huyền thoại đó có thể đã tạo ra
-    - Gạch khảm cổ từ Phương Tây: một số họa tiết 'truyền thống' kiểu La Mã-Anh
-- **Phần C - Miền Bắc và Phương Tây Truyền thống Đức và Cơ đốc giáo**
+    - Khu khảo cổ Lydney và bức chân dung nhà vua là người chữa bệnh của Tolkien
+    - Các mỏ của Mendip và Moria, với một số suy ngẫm về Hang ổ của Sâu trắng
+    - Ngọn đồi của người lùn và 'Nhà nguyện của người lùn' ... Vấn đề khai thác cổ xưa ở đó và những ý tưởng cho câu chuyện xa hơn mà Hoạt động huyền thoại đó có thể đã tạo ra
+    - Gạch khảm cổ từ phương Tây: một số họa tiết 'truyền thống' kiểu La Mã-Anh
+- **Phần C - Truyền thống Đức và Kitô giáo miền Bắc và Tây Đức**
     - Frothi, Frodo - và Dodo và Odo
-    - Đầu gối và tiếng Anh cổ Gifstol là Biểu tượng thiêng liêng của sự bảo vệ và tha thứ
-    - Vua Khái niệm phát triển của Alfred về 'Trí tuệ' và sự liên quan của nó với triết lý đạo đức vĩ đại của Tolkien
+    - Đầu gối và Gifstol trong tiếng Anh cổ là biểu tượng thiêng liêng của sự bảo vệ và tha thứ
+    - Khái niệm đang phát triển của Vua Alfred về 'Trí tuệ' và sự liên quan của nó với triết lý đạo đức vĩ đại của Tolkien
     - Sự ngây thơ thô lỗ - một số mối liên hệ giữa Chrétien de Troyes, Wolfram von Eschenbach và J.R.R. Tolkien
-    - Truyền thuyết về Người Lùn - trong Jacob Grimm và Thomas Keightley
+    - Truyền thuyết về người lùn - trong Jacob Grimm và Thomas Keightley
     - Warg, Wearg, Earg và Người sói - Ghi chú về Từ nguyên học suy đoán của người Tolkienian
     - Con số mười lăm, những cuộc phiêu lưu anh hùng và hai bài hát kinh hoàng
-    - Sợ hãi và ghê tởm ở "vùng đất lạnh giá"
+    - Sợ hãi và ghê tởm ở "những vùng đất lạnh giá và khắc nghiệt"
     - Nguồn gốc và mối liên hệ văn hóa của địa danh Wetwang
-- **Phần D - Thế kỷ 20 Oxford & Anh**
+- **Phần D - Oxford thế kỷ 20 và nước Anh**
     - Rừng Hoang - Nơi nguy hiểm, Nơi biểu tình
     - J.R.R. Tolkien, C.S. Lewis và Roy Campbell
     - Tolkien và Auden

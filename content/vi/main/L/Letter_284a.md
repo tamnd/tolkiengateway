@@ -29,7 +29,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien đã thông báo cho Scott về thỏa thuận với [Ace Books](../A/Ace_Books.md) để trả cho anh ấy 4% tiền bản quyền khi bán ấn bản *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* trái phép của họ cho đến khi bán hết. Anh ấy nói rằng mối quan hệ của anh ấy với Ace Books giờ đã trở nên 'thân thiện'. Ông cũng chỉ ra rằng ông tin rằng thỏa thuận này sẽ không thể thực hiện được nếu không có chiến dịch mà Scott thực hiện.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[notes 1]</a></sup>
+Tolkien đã thông báo cho Scott về thỏa thuận với [Ace Books](../A/Ace_Books.md) để trả cho ông 4% tiền bản quyền khi bán ấn bản *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* trái phép của họ cho đến khi bán hết. Ông nói rằng mối quan hệ của ông với Ace Books giờ đã trở nên 'thân thiện'. Ông cũng chỉ ra rằng ông tin rằng thỏa thuận này sẽ không thể thực hiện được nếu không có chiến dịch mà Scott thực hiện.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[notes 1]</a></sup>
 
 ## Ghi chú {#Notes}
 

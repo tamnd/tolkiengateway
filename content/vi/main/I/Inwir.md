@@ -28,7 +28,7 @@ images:
 
 Tên *Inwir* có trong [Qenya](../Q/Qenya.md), có nghĩa là "đồng loại của Inwë" theo [Paul Strack](../P/Paul_Strack.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-[Gnomish](../G/Gnomish.md) cùng nguồn gốc của nó là <i><b>Imrim</b></i>, cũng xuất hiện dưới dạng <i><b>Imrin</b></i>và nó chứa hậu tố số nhiều *-[rim](../R/Rim.md)*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Từ cùng nguồn gốc [Gnomish](../G/Gnomish.md) của nó là <i><b>Imrim</b></i>, cũng xuất hiện dưới dạng <i><b>Imrin</b></i>và nó chứa hậu tố số nhiều *-[rim](../R/Rim.md)*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 <span></span>
 

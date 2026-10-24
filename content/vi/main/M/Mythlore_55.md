@@ -39,31 +39,31 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mythlore_55.gif.md"><img src="https://tolkiengateway.net/w/images/8/80/Mythlore_55.gif" decoding="async" loading="lazy" width="225" height="294" class="mw-file-element" data-file-width="225" data-file-height="294"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mythlore 55</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../G/Glen_GoodKnight.md" title="Glen GoodKnight">Glen GoodKnight</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Autumn <a href="../_/1988.md" title="1988">1988</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">67</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mythlore_54.md" title="Mythlore 54">Mythlore 54</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mythlore_56.md" title="Mythlore 56">Mythlore 56</a></td></tr></tbody></table>
 
-<b><i>Mythlore</i> 55</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol15/iss1/" rel="noreferrer noopener" target="_blank">Tập 15, Số 1</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
+<b><i>Thần thoại</i> 55</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol15/iss1/" rel="noreferrer noopener" target="_blank">Tập 15, Số 1</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, được xuất bản bởi [Hiệp hội Thần thoại](Mythopoeic_Society.md).
 
 ## Nội dung {#Contents}
 
 #### Bài viết {#Articles}
 
-- Aldrich, Kevin. “Cảm giác về thời gian trong *The Lord of the Rings*của J.R.R. Tolkien.”
-- Anderson, Thủy thủ Angelee. “Lãnh chúa Dunsany: Sức mạnh của ngôn từ và Sự kỳ diệu của vạn vật.”
-- Matheson, Sue. “C.S. Lewis và Sư tử: Chủ nghĩa nguyên thủy và Nguyên mẫu trong *Chronicles of Narnia*.”
-- Thompson, Christine K. “Đi về phía Bắc và Phương Tây để xem điệu nhảy Rồng: Bắc Âu và Celtic Các yếu tố trong Bộ ba Earthsea của Ursula Le Guin.”
-- Hyde, Paul Nolan. “Một nhà ngữ văn ở Bắc Cực: J.R.R. Tolkien và *The Father Christmas Letters*.”
-- Vua, Don. “Những điểm tương đồng về mặt tu từ của C.S. Lewis và Bertrand Russell.”
-- Christopher, Joe. “J.R.R. Tolkien, cuộc lưu đày ở Narnian.”
-- Harris, Mason. “Tâm lý học quyền lực trong *The Lord of the Rings*của Tolkien, *1984* của Orwell và *A Wizard of Earthsea*của Le Guin.”
-- Blackburn, William. “'Nguy hiểm như một hướng dẫn cho hành động': Chính trị trong tiểu thuyết J.R.R. Tolkien."
+- Aldrich, Kevin. “The Sense of Time in J.R.R. Tolkien's *The Lord of the Rings*.”
+- Anderson, Angelee Sailer. “Lord Dunsany: The Potency of Words and The Wonder of Things.”
+- Matheson, Sue. “C.S. Lewis and the Lion: Primitivism and Archetype in the *Chronicles of Narnia*.”
+- Thompson, Christine K. “Going North and West to Watch the Dragons Dance: Norse and Celtic Elements in Ursula Le Guin's Earthsea Trilogy.”
+- Hyde, Paul Nolan. “A Philologist at the North Pole: J.R.R. Tolkien and *The Father Christmas Letters*.”
+- King, Don. “The Rhetorical Similarities of C.S. Lewis and Bertrand Russell.”
+- Christopher, Joe. “J.R.R. Tolkien, Narnian Exile.”
+- Harris, Mason. “The Psychology of Power in Tolkien's *The Lord of the Rings*, Orwell's *1984* and Le Guin's *A Wizard of Earthsea*.”
+- Blackburn, William. “‘Dangerous as a Guide to Deeds’: Politics in the Fiction of J.R.R. Tolkien.”
 
 #### Thơ {#Poetry}
 
 - Williams, Donald T. “Sonnet XXXVII.”
-- Reid, Mindi M. “Ánh sáng sư tử.”
+- Reid, Mindi M. “Lionlight.”
 
 #### Tính năng {#Features}
 
 - Chúc ngủ ngon, Glen. Khai mạc tòa soạn.
-- Kodratiev, Alexei. “Những câu chuyện mới được kể.”
+- Kondratiev, Alexei. “Tales Newly Told.”
 - Thư.
 
 #### Đánh giá {#Reviews}

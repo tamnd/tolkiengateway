@@ -47,9 +47,9 @@ infobox:
 
 <i><b>Người đi biển</b></i> là ấn bản của bài thơ [tiếng Anh cổ](../O/Old_English.md) <i><a class="extiw" href="http://en.wikipedia.org/wiki/The_Seafarer_(poem)" title="wikipedia:The Seafarer (poem)">Người đi biển</a></i>, do [I.L. Gordon](../I/I.L._Gordon.md) biên tập. Nó được xuất bản lần đầu tiên trong [1960](../_/1960.md).
 
-Ban đầu, *The Seafarer*, cùng với tiếng Anh cổ bài thơ khác <i><a class="extiw" href="http://en.wikipedia.org/wiki/The_Wanderer_(Old_English_poem)" title="wikipedia:The Wanderer (Old English poem)">Người lang thang</a></i>, là tác phẩm hợp tác của [E.V. Gordon](../E/E.V._Gordon.md) và [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Chúng bị bỏ dở khi người trước qua đời vào năm [1938](../_/1938.md). Vợ của Gordon [Ida](../I/I.L._Gordon.md) sau đó tiếp tục nghiên cứu một trong số đó và do có sự sửa đổi lớn nên đã xuất bản nó dưới tên riêng của bà trên [1960](../_/1960.md).
+Ban đầu, *The Seafarer*, cùng với một bài thơ tiếng Anh cổ khác <i><a class="extiw" href="http://en.wikipedia.org/wiki/The_Wanderer_(Old_English_poem)" title="wikipedia:The Wanderer (Old English poem)">Người lang thang</a></i>, là tác phẩm hợp tác của [E.V. Gordon](../E/E.V._Gordon.md) và [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Chúng bị bỏ dở khi người trước qua đời vào năm [1938](../_/1938.md). Vợ của Gordon [Ida](../I/I.L._Gordon.md) sau đó tiếp tục nghiên cứu một trong số đó và do có sự sửa đổi lớn nên đã xuất bản nó dưới tên riêng của bà trên [1960](../_/1960.md).
 
-Trong lời nói đầu có lưu ý rằng nó "kết hợp phần lớn tài liệu gốc, đặc biệt là trong Ghi chú", và cô ấy "muốn cảm ơn Giáo sư Tolkien vì một số ghi chú đã gửi cho tôi với sự hào phóng thường thấy của ông ấy."
+Trong lời nói đầu có lưu ý rằng nó "kết hợp phần lớn tài liệu gốc, đặc biệt là trong Ghi chú", và bà "muốn cảm ơn Giáo sư Tolkien vì một số ghi chú đã gửi cho tôi với sự hào phóng thường thấy của ông ấy."
 
 Trong [1996](../_/1996.md), một ấn bản mới đã xuất hiện, bao gồm Thư mục dài 16 trang do Mary Clayton biên soạn.
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lonely Mountain"
 ---
 
-Chuyển hướng đến [The Ngọn Núi Cô Đơn](../T/The_Lonely_Mountain.md).
+Chuyển hướng đến [Ngọn núi cô đơn](../T/The_Lonely_Mountain.md).

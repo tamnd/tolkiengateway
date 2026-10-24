@@ -23,7 +23,7 @@ images:
 
 <figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Hobbit_-_The_Battle_of_the_Five_Armies_-_Extended_Edition_-_Blur-ray_cover.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/8/86/The_Hobbit_-_The_Battle_of_the_Five_Armies_-_Extended_Edition_-_Blur-ray_cover.jpg/250px-The_Hobbit_-_The_Battle_of_the_Five_Armies_-_Extended_Edition_-_Blur-ray_cover.jpg" decoding="async" loading="lazy" width="250" height="318" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/86/The_Hobbit_-_The_Battle_of_the_Five_Armies_-_Extended_Edition_-_Blur-ray_cover.jpg/375px-The_Hobbit_-_The_Battle_of_the_Five_Armies_-_Extended_Edition_-_Blur-ray_cover.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/8/86/The_Hobbit_-_The_Battle_of_the_Five_Armies_-_Extended_Edition_-_Blur-ray_cover.jpg/500px-The_Hobbit_-_The_Battle_of_the_Five_Armies_-_Extended_Edition_-_Blur-ray_cover.jpg 2x" data-file-width="1152" data-file-height="1467"/></a><figcaption>Blu-ray cover of the Extended Edition <table class="TGtable" border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; margin:0 auto; clear: both;">  <tbody><tr style="text-align: center;"> <td width="30%">Preceded by:<br/><b><a href="The_Hobbit%253A_The_Desolation_of_Smaug_(extended_edition).md" title="The Hobbit: The Desolation of Smaug (extended edition)">The Desolation of Smaug Extended Edition</a></b> </td> <td width="40%"><b>The Hobbit Extended Edition<br/> The Battle of the Five Armies</b> </td> <td width="30%">Followed by:<br/><b>-</b> </td></tr></tbody></table></figcaption></figure>
 
-<b><i>The Hobbit: The Battle of the Five Armies</i> (phiên bản mở rộng)</b> là phiên bản mở rộng của *[The Hobbit: The Battle of the Five Armies](The_Hobbit%253A_The_Battle_of_the_Five_Armies.md)*. Nó có 20 phút cảnh quay bổ sung được thêm lại vào phim (nâng tổng thời lượng chiếu lên 164 phút), cũng như nhiều phim tài liệu về quá trình làm phim dưới dạng phần bổ sung.
+<b><i>Người Hobbit: Trận chiến của năm cánh quân</i> (phiên bản mở rộng)</b> là phiên bản mở rộng của *[The Hobbit: The Battle of the Five Armies](The_Hobbit%253A_The_Battle_of_the_Five_Armies.md)*. Nó có 20 phút cảnh quay bổ sung được thêm lại vào phim (nâng tổng thời lượng chiếu lên 164 phút), cũng như nhiều phim tài liệu về quá trình làm phim dưới dạng phần bổ sung.
 
 <figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Hobbit_-_The_Battle_of_the_Five_Armies_-_Extended_Edition_-_DVD_cover.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/8/85/The_Hobbit_-_The_Battle_of_the_Five_Armies_-_Extended_Edition_-_DVD_cover.jpg/150px-The_Hobbit_-_The_Battle_of_the_Five_Armies_-_Extended_Edition_-_DVD_cover.jpg" decoding="async" loading="lazy" width="150" height="206" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/85/The_Hobbit_-_The_Battle_of_the_Five_Armies_-_Extended_Edition_-_DVD_cover.jpg/225px-The_Hobbit_-_The_Battle_of_the_Five_Armies_-_Extended_Edition_-_DVD_cover.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/8/85/The_Hobbit_-_The_Battle_of_the_Five_Armies_-_Extended_Edition_-_DVD_cover.jpg/300px-The_Hobbit_-_The_Battle_of_the_Five_Armies_-_Extended_Edition_-_DVD_cover.jpg 2x" data-file-width="1009" data-file-height="1383"/></a><figcaption>DVD cover</figcaption></figure>
 
@@ -44,30 +44,30 @@ LƯU Ý: Phim được chia thành 2 đĩa cho cả phiên bản DVD và Blu-ray
 
 ### Cảnh mở rộng {#Extended_Scenes}
 
-- 2\. Bard kẻ giết người Rồng
-- 9\. Tấn công vào Dol Guldur
+- 2\. Bard sát thủ rồng
+- 9\. Tấn công Dol Guldur
 - 10\. "Gọi bạn bè của chúng tôi"
-- 14\. Sự trợ giúp của Tiên-vua
+- 14\. Sự trợ giúp của vua Elf
 - 22\. Một tên trộm trung thực
 - 23\. Dáin Chân Sắt
 - 24\. Những đám mây bùng nổ
 - 26\. Giờ đen tối nhất
-- 30\. "Tới Vua!"
+- 30\. "Tới nhà vua!"
 - 31\. Lời kêu gọi vũ khí
 - 32\. Kế hoạch của Thorin
 - 34\. Dũng cảm và hèn nhát
-- 40\. Trận chiến tại Ravenhill
+- 40\. Trận chiến ở Ravenhill
 - 41\. Đến cái chết
 
-## Bộ Phụ lục: Phần 11 - Bão Táp: Biên Niên Sử *[The Hobbit](The_Hobbit.md)* - Phần 3 (đĩa 2)\*\* {#The_Appendices:_Part_Eleven_-_The_Gathering_Storm:_The_Chronicles_of_The_Hobbit_-_Part_3_(disc_2)**}
+## Các Phụ lục: Phần Mười Một - Bão Táp: Biên Niên Sử *[The Hobbit](The_Hobbit.md)* - Phần 3 (đĩa 2)\*\* {#The_Appendices:_Part_Eleven_-_The_Gathering_Storm:_The_Chronicles_of_The_Hobbit_-_Part_3_(disc_2)**}
 
 - Mở\*
-- "Trong ngục tối của [Necromancer](../S/Sauron.md#Sauron's_Return)" Phim tài liệu\*
+- Phim tài liệu "Trong ngục tối của [Necromancer](../S/Sauron.md#Sauron's_Return)"\*
 - Phim tài liệu "Lửa và nước"\*
-- Phim tài liệu"Dưới Bóng Tối ngọn núi"\*
-- Phim tài liệu về [Rồng](../D/Dragons.md)"\*
+- Phim tài liệu "Dưới bóng núi"\*
+- Phim tài liệu "Đánh thức [Rồng](../D/Dragons.md)"\*
 - Phim tài liệu "Những đám mây tụ tập"\*
-- "Many Partings" Phim tài liệu\*
+- Phim tài liệu "Nhiều cuộc chia tay"\*
 - Phim tài liệu "Mây tan"^
 - Phim tài liệu "Chỗ đứng tuyệt vọng cuối cùng"^
 - Phim tài liệu "Ra khỏi cổng"^
@@ -78,18 +78,18 @@ LƯU Ý: Phim được chia thành 2 đĩa cho cả phiên bản DVD và Blu-ray
 
 <h2><span id="The_Appendices:_Part_Twelve_-_Here_at_Journey.27s_End_.28disc_3.29.5E.5E"></span><span class="mw-headline" id="The_Appendices:_Part_Twelve_-_Here_at_Journey&#39;s_End_(disc_3)^^">The Appendices: Part Twelve - Here at Journey&#39;s End (disc 3)^^</span></h2>
 
-- "Bên dưới sấm sét: Rèn luyện [Trận chiến Năm Đạo quân](../B/Battle_of_Five_Armies.md)" Phim tài liệu^
-    - Một kế hoạch Chủ nhân, còn lâu mới được thực hiện
+- Phim tài liệu"Bên dưới sấm sét: Tạo nên [Trận chiến của năm đội quân](../B/Battle_of_Five_Armies.md)"^
+    - Một kế hoạch tổng thể còn lâu mới được thực hiện
     - Trên tiền tuyến của chiến trường ảo
     - Lật ngược tình thế
-- Phim tài liệu"Người dân và cư dân [Trung Địa](../M/Middle-earth.md)"
+- Phim tài liệu"Các dân tộc và cư dân của [Trung địa](../M/Middle-earth.md)"
     - [Tauriel](Tauriel.md): Con gái của rừng xanh
     - [Thranduil](Thranduil.md): Vua của Gỗ và Đá
-    - [Dáin Chân Sắt](../D/Dáin_Ironfoot.md): [Chúa](../L/Lord_of_the_Iron_Hills.md) của [Dãy Đồi Sắt](../I/Iron_Hills.md)
-- "Vương quốc của [Kỷ Đệ Tam](Third_Age.md): Từ Thành phố [Dale](../D/Dale.md) đến Hội trường [Erebor](../L/Lonely_Mountain.md)" Phim tài liệuº
-    - Dale: Thành phố Con Người
+    - [Dáin Ironfoot](../D/Dáin_Ironfoot.md): [Chúa](../L/Lord_of_the_Iron_Hills.md) của [Iron Hills](../I/Iron_Hills.md)
+- "Các vương quốc của [Thời đại thứ ba](Third_Age.md): Từ Thành phố [Dale](../D/Dale.md) đến Hội trường [Erebor](../L/Lonely_Mountain.md)" Phim tài liệuº
+    - Dale: Thành phố của đàn ông
     - [Dol Guldur](../D/Dol_Guldur.md): Ngọn đồi ma thuật
-    - Erebor: [Ngọn Núi Cô Đơn](../L/Lonely_Mountain.md)
+    - Erebor: [Ngọn núi cô đơn](../L/Lonely_Mountain.md)
 - "Tạm biệt các bạn!" Phim tài liệu
 - "[Andrew Lesnie](../A/Andrew_Lesnie.md) Đã nhớ" Phim tài liệuº
 - Tín dụngº
@@ -108,9 +108,9 @@ GHI CHÚ:
 - *[The Hobbit: The Battle of the Five Armies](The_Hobbit%253A_The_Battle_of_the_Five_Armies.md)*
 - [*The Hobbit: An Unexpected Journey* (phiên bản mở rộng)](<The_Hobbit%253A_An_Unexpected_Journey_(extended_edition).md>)
 - [*The Hobbit: The Desolation of Smaug* (phiên bản mở rộng)](<The_Hobbit%253A_The_Desolation_of_Smaug_(extended_edition).md>)
-- [*The Lord of the Rings: The Fellowship of the Ring* (phiên bản mở rộng)](<The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(extended_edition).md>)
-- [*The Lord of the Rings: The Two Towers* (phiên bản mở rộng)](<The_Lord_of_the_Rings%253A_The_Two_Towers_(extended_edition).md>)
-- [*The Lord of the Rings: The Return of the King* (phiên bản mở rộng)](<The_Lord_of_the_Rings%253A_The_Return_of_the_King_(extended_edition).md>)
+- [*The Lord of the Rings: The Fellowship of the Ring* (extended edition)](<The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(extended_edition).md>)
+- [*The Lord of the Rings: The Two Towers* (extended edition)](<The_Lord_of_the_Rings%253A_The_Two_Towers_(extended_edition).md>)
+- [*The Lord of the Rings: The Return of the King* (extended edition)](<The_Lord_of_the_Rings%253A_The_Return_of_the_King_(extended_edition).md>)
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

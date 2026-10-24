@@ -38,9 +38,9 @@ infobox:
 
 ## Lịch sử {#History}
 
-Những nàng tiên cá rõ ràng đã sống trong các hang động trên biển, nơi có lối đi của Mặt Trời.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Người cá dường như sống trong các hang động dưới biển, nơi có đường đi của Mặt trời.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
-Nàng tiên cá được nhắc đến trong bản thảo chưa hoàn chỉnh của *[The Tale of Eärendel](../T/The_Tale_of_Eärendel.md)*. Young [Eärendel](../E/Eärendel.md) kết bạn với Oarni ở [Cửa sông Sirion](Mouths_of_Sirion.md), người yêu anh ấy. Tuy nhiên, sau đó anh ta bị đắm tàu ​​tại <a class="new" href="https://tolkiengateway.net/w/index.php?title=Fiord_of_the_Mermaid&amp;action=edit&amp;redlink=1" title="Fiord of the Mermaid (page does not exist)">Fiord of the Nàng tiên cá</a> bởi sự phản bội của [Ossë](../O/Ossë.md) và một loại nàng tiên cá khác mê hoặc các thủy thủ của anh ta; Tolkien lưu ý rằng họ có thể là "<a class="new" href="https://tolkiengateway.net/w/index.php?title=Earthlings&amp;action=edit&amp;redlink=1" title="Earthlings (page does not exist)">người trái đất</a> hoặc [fays](../F/Fays.md)? - hoặc cả hai".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[note 1]</a></sup> Sau đó, Oarni đã cứu Eärendel tại [Falasquil](../F/Falasquil.md) khi Ossë hạ gục anh ta một lần nữa. Cuối cùng, người ta đề cập rằng Oarni đã giúp anh ấy xây dựng [Wingilot](../W/Wingilot.md) tại Falasquil, nơi anh ấy đã lên đường tới [Valinor](../V/Valinor.md).
+Nàng tiên cá được nhắc đến trong bản thảo chưa hoàn chỉnh của *[The Tale of Eärendel](../T/The_Tale_of_Eärendel.md)*. [Eärendel](../E/Eärendel.md) trẻ kết bạn với Oarni tại [Miệng của Sirion](Mouths_of_Sirion.md), người yêu ông. Tuy nhiên, sau đó ông ta bị đắm tàu ​​tại <a class="new" href="https://tolkiengateway.net/w/index.php?title=Fiord_of_the_Mermaid&amp;action=edit&amp;redlink=1" title="Fiord of the Mermaid (page does not exist)">Fiord of the Nàng tiên cá</a> bởi sự phản bội của [Ossë](../O/Ossë.md) và một loại nàng tiên cá khác mê hoặc các thủy thủ của ông ta; Tolkien lưu ý rằng họ có thể là "<a class="new" href="https://tolkiengateway.net/w/index.php?title=Earthlings&amp;action=edit&amp;redlink=1" title="Earthlings (page does not exist)">người trái đất</a> hoặc [fays](../F/Fays.md)? - hoặc cả hai".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[note 1]</a></sup> Sau đó, Oarni cứu Eärendel tại [Falasquil](../F/Falasquil.md) khi Ossë hạ gục ông ta một lần nữa. Cuối cùng, người ta đề cập rằng Oarni đã giúp ông xây dựng [Wingilot](../W/Wingilot.md) tại Falasquil, nơi ông đã lên đường đến [Valinor](../V/Valinor.md).
 
 ## Đặc điểm {#Characteristics}
 
@@ -48,30 +48,30 @@ Các nàng tiên cá là một phần của thứ dường như được chia th
 
 Trong các bài thơ, các nàng tiên bọt được miêu tả là có “mái tóc trắng như hoa” tỏa sáng “trong ánh nắng”, “cánh tay nhợt nhạt trước ngực biển”, và là “tụng những bài hát hoang dã”.<sup id="cite_ref-MC_3-1" class="reference"><a href="#cite_note-MC-3">[3]</a></sup>
 
-Ui (tiền thân của [Uinen](../U/Uinen.md)) được phong tước hiệu *Oarista* ("Nữ hoàng nàng tiên cá").<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[6]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[7]</a></sup>
+Ui (tiền thân của [Uinen](../U/Uinen.md)) được phong danh hiệu *Oarista* ("Nữ hoàng tiên cá").<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[6]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[7]</a></sup>
 
 ## Tên và bộ phận {#Names_and_divisions}
 
-Sự phân chia cơ bản của hai nhóm thủy linh, với tên [Elvish](../E/Elvish.md) của chúng, được đưa ra như sau:
+Sự phân chia cơ bản của hai nhóm thủy linh, với tên gọi [Elvish](../E/Elvish.md) của chúng, được đưa ra như sau:
 
-- <i><b>Oarni</b></i> (đội quân [Ossë](../O/Ossë.md)): "linh hồn của biển cả"; còn <i><b>Oaritsi</b></i> (từ *oaris*, "nàng tiên cá")<sup id="cite_ref-LT1Index_9-0" class="reference"><a href="#cite_note-LT1Index-9">[8]</a></sup>
-- <i><b>Falmaríni</b></i> và <i><b>Wingildi</b></i> (đội quân [Ossë](../O/Ossë.md)): "linh hồn của bọt biển"<sup id="cite_ref-LT1Index_9-1" class="reference"><a href="#cite_note-LT1Index-9">[8]</a></sup> (cũng <i><b>wingildin</b></i>, "tiên nữ bọt, tiên nữ bọt";<sup id="cite_ref-MC_3-2" class="reference"><a href="#cite_note-MC-3">[3]</a></sup> <i><b>wingild-</b></i> "nữ thần",<sup id="cite_ref-PE12_2-2" class="reference"><a href="#cite_note-PE12-2">[2]</a></sup> hoặc "thiếu nữ bọt";<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[9]</a></sup> *wingi* "nàng tiên cá, nữ thần bọt";<sup id="cite_ref-PE21_11-0" class="reference"><a href="#cite_note-PE21-11">[10]</a></sup> và *wingil* "nữ thần biển"<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[11]</a></sup>)
+- <i><b>Oarni</b></i> (đội quân của [Ossë](../O/Ossë.md)): "linh hồn của biển cả"; còn <i><b>Oaritsi</b></i> (từ *oaris*, "nàng tiên cá")<sup id="cite_ref-LT1Index_9-0" class="reference"><a href="#cite_note-LT1Index-9">[8]</a></sup>
+- <i><b>Falmaríni</b></i> và <i><b>Wingildi</b></i> (đội quân [Ossë](../O/Ossë.md)): "linh hồn của bọt biển"<sup id="cite_ref-LT1Index_9-1" class="reference"><a href="#cite_note-LT1Index-9">[8]</a></sup> (cũng <i><b>wingildin</b></i>, "tiên nữ bọt, tiên nữ bọt";<sup id="cite_ref-MC_3-2" class="reference"><a href="#cite_note-MC-3">[3]</a></sup> <i><b>wingild-</b></i> "nữ thần",<sup id="cite_ref-PE12_2-2" class="reference"><a href="#cite_note-PE12-2">[2]</a></sup> hoặc "tiên nữ bọt";<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[9]</a></sup> *wingi* "nàng tiên cá, cô hầu gái bọt biển";<sup id="cite_ref-PE21_11-0" class="reference"><a href="#cite_note-PE21-11">[10]</a></sup> và *wingil* "nữ thần biển"<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[11]</a></sup>)
 
-Cũng được đề cập là *flathwin* hoặc *-nir* ("foam fay") và *nendil*, *nennil* ("waterfay").<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[12]</a></sup> Độ bóng [Qenya](../Q/Qenya.md) được đưa ra là *nindari* ("người hầu sông, nữ thần").<sup id="cite_ref-PE21_11-1" class="reference"><a href="#cite_note-PE21-11">[10]</a></sup>
+Cũng được đề cập là *flathwin* hoặc *-nir* ("foam fay") và *nendil*, *nennil* ("waterfay").<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[12]</a></sup> Độ bóng [Qenya](../Q/Qenya.md) được đưa ra là *nindari* ("người hầu gái trên sông, nữ thần").<sup id="cite_ref-PE21_11-1" class="reference"><a href="#cite_note-PE21-11">[10]</a></sup>
 
 ## Huyền thoại sau này {#Later_legendarium}
 
-Nàng tiên cá không được nhắc đến trong các phiên bản sau của [truyền thuyết](../L/Legendarium.md). Nhiều lớp tham chiếu sinh vật trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)* đã được thay thế bằng khái niệm [Maiar](Maiar.md), khái niệm này không được đưa vào cho đến khi [Biên niên sử của Valinor](../A/Annals_of_Valinor.md) được làm lại thành [Biên niên sử của Aman](../A/Annals_of_Aman.md).<sup id="cite_ref-MRP2b_14-0" class="reference"><a href="#cite_note-MRP2b-14">[13]</a></sup>
+Nàng tiên cá không được nhắc đến trong các phiên bản sau của [truyền thuyết](../L/Legendarium.md). Nhiều loại sinh vật được tham chiếu trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)* đã được thay thế bằng khái niệm [Maiar](Maiar.md), khái niệm này không được giới thiệu cho đến khi [Biên niên sử của Valinor](../A/Annals_of_Valinor.md) được làm lại thành [Biên niên sử của Aman](../A/Annals_of_Aman.md).<sup id="cite_ref-MRP2b_14-0" class="reference"><a href="#cite_note-MRP2b-14">[13]</a></sup>
 
 ## Cảm hứng và những đề cập khác {#Inspiration_and_other_mentions}
 
-[Patrick H. Wynne](../P/Patrick_H._Wynne.md) và [Christopher Gilson](../C/Christopher_Gilson.md) đã lưu ý rằng việc Tolkien sử dụng các nữ thần (và các linh hồn liên quan) có thể bị ảnh hưởng bởi biểu đồ bốn nguyên tố của <a class="extiw" href="http://en.wikipedia.org/wiki/Paracelsus" title="wikipedia:Paracelsus">Paracelsus</a>: *sylphs* (không khí), *pygmies* hoặc *gnomes* (đất), *nymphs* (nước) và *salamanders* (lửa).<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[14]</a></sup>
+[Patrick H. Wynne](../P/Patrick_H._Wynne.md) và [Christopher Gilson](../C/Christopher_Gilson.md) đã lưu ý rằng việc Tolkien sử dụng các nữ thần (và các linh hồn liên quan) có thể bị ảnh hưởng bởi biểu đồ bốn nguyên tố của <a class="extiw" href="http://en.wikipedia.org/wiki/Paracelsus" title="wikipedia:Paracelsus">Paracelsus</a>: *sylphs* (không khí), *pygmies* hoặc *gnomes* (đất), *nymphs* (nước) và *salamanders* (cháy).<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[14]</a></sup>
 
-Theo [C.S. Lewis](../C/C.S._Lewis.md), Tolkien đã từng nói với anh rằng theo một nghĩa nào đó, những con người lịch sử không hề tuyên bố sai lầm rằng đã nhìn thấy "nữ thần trong đài phun nước và rừng và <a class="mw-redirect mw-disambig" href="../D/Dryads.md" title="Dryads">thần cây</a> trong gỗ", vì việc sản xuất lương thực gắn liền với đất đai và lãnh thổ của chính mình: con người đến để tiếp thu thiên nhiên xung quanh họ.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[15]</a></sup>
+Theo [C.S. Lewis](../C/C.S._Lewis.md), Tolkien từng nói với ông rằng theo một nghĩa nào đó, những con người lịch sử không hề tuyên bố sai lầm rằng họ nhìn thấy "nữ thần trong đài phun nước và rừng và <a class="mw-redirect mw-disambig" href="../D/Dryads.md" title="Dryads">thần cây</a> trong gỗ", vì việc sản xuất lương thực có mối liên hệ chặt chẽ với đất đai và lãnh thổ của chính mình: con người đã tiếp thu thiên nhiên xung quanh họ.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[15]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1995-8: <i><a href="Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Trung Địa Trò chơi bài sưu tầm</a></i>:</b>
+<b>1995-8: <i><a href="Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Trò chơi thẻ bài sưu tầm ở Trung Địa</a></i>:</b>
 
 <dl><dd>The Ally card &#34;Nenseldë the Wingild&#34;, portraying a unique character, is playable at Dol Amroth.</dd></dl>
 

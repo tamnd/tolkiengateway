@@ -82,7 +82,7 @@ infobox:
         - Bởi: Arletta Chwojnicka 'Eilíf'
     - "Thú vật, thực vật, sinh vật và những điều kỳ diệu” - đánh giá về *[A Tolkien Bestiary](A_Tolkien_Bestiary.md)* của [David Day](../D/David_Day.md)
         - Karolina Stopa - Olszańska 'Melinir'
-    - “Bilbo, hay đúng hơn là 'người viết tiểu sử' của anh ấy, lạc lối" - bài đánh giá về *[Bilbo's Journey: Discovering the Hidden Meaning in The Hobbit](../B/Bilbo's_Journey%253A_Discovering_the_Hidden_Meaning_in_The_Hobbit.md)* của [Joseph Pearce](../J/Joseph_Pearce.md)
+    - “Bilbo, hay đúng hơn là 'người viết tiểu sử' của ông, lạc lối" - bài đánh giá về *[Bilbo's Journey: Discovering the Hidden Meaning in The Hobbit](../B/Bilbo's_Journey%253A_Discovering_the_Hidden_Meaning_in_The_Hobbit.md)* của [Joseph Pearce](../J/Joseph_Pearce.md)
         - Bởi: Tadeusz Andrzej Olszański ‘Halbarad Dúnadan’
     - “Xu hướng mới trong phim bom tấn?” - xem xét phiên bản DVD mở rộng của *[The Hobbit: The Desolation of Smaug](../T/The_Hobbit%253A_The_Desolation_of_Smaug.md)*
         - Bởi: Agnieszka Sylwanowicz 'Evermind HS Took'

@@ -41,13 +41,13 @@ infobox:
 ### Bài viết {#Articles}
 
 - [1998](../_/1998.md): *Bản tin des Anglicistes Médiévistes / Etudes Médiévales Anglaises*, n°54, 1998.
-    - "<a class="external text" href="https://www.persee.fr/doc/bamed_0240-8805_1998_num_54_1_1999" rel="noreferrer noopener" target="_blank">Beowulf dưới dạng liên văn bản trong thần thoại của Tolkien</a>", p. 1-20.
+    - "<a class="external text" href="https://www.persee.fr/doc/bamed_0240-8805_1998_num_54_1_1999" rel="noreferrer noopener" target="_blank">Beowulf là liên văn bản trong thần thoại Tolkien</a>", p. 1-20.
 - [2011](../_/2011.md): *[Tolkien aujourd'hui](../T/Tolkien_aujourd'hui.md)*
-    - "Ælfwine của Leithian et la *Chronique anglo-saxonne*", tr. 169-180.
+    - "Ælfwine de Leithian et la *Chronique anglo-saxonne*", tr. 169-180.
 - [2017](../_/2017.md): *[Fées, navigateurs &amp; autres miscellanées en Terre du Milieu](../F/Fées,_navigateurs_&_autres_miscellanées_en_Terre_du_Milieu.md)*
     - "Homme elfique, peuple elfique. Sire Gauvain et le Chevalier vert", tr. 129-146.
 - [2019](../_/2019.md): *Tolkien. Voyage en Terre du Milieu*, ed. Vincent Ferré, Frédéric Monfrin, Bibliothèque nationale de France/Christian Bourgois
-    - "J.R.R. Tolkien et son fils Christopher: deux vies, une Mythologie", p. 12-16.
+    - "J.R.R. Tolkien et son fils Christopher: deux vies, une thần thoại", tr. 12-16.
 - [2022](../_/2022.md): *[L'Arc et le Heaume (Special Issue) 3](<L'Arc_et_le_Heaume_(Special_Issue)_3.md>)*
     - "Tolkien et la prière: phiên âm và truyền tải", 2022.
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=%3F&amp;action=edit&amp;redlink=1" title="? (page does not exist)">?</a>: <a class="new" href="https://tolkiengateway.net/w/index.php?title=La_Feuille_de_la_Compagnie_4&amp;action=edit&amp;redlink=1" title="La Feuille de la Compagnie 4 (page does not exist)"><i>La Feuille de la Compagnie</i> không. 4</a>, ed. [Michaël Devaux](../M/Michaël_Devaux.md), Ad Solem (sẽ được xuất bản).

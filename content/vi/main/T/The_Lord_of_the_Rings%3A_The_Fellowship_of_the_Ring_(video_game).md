@@ -104,33 +104,33 @@ infobox:
 </p>
 <b>Microsoft Windows</b><br/><a class="extiw" href="http://en.wikipedia.org/wiki/North_America" title="wikipedia:North America">NA</a>: <a href="../_/22_October.md" title="22 October">22 October</a> <a href="../_/2002.md" title="2002">2002</a><br/><a class="extiw" href="http://en.wikipedia.org/wiki/Europe" title="wikipedia:Europe">EU</a>: <a href="../_/8_November.md" title="8 November">8 November</a> <a href="../_/2002.md" title="2002">2002</a></td></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data">Action-Adventure</td></tr></tbody></table>
 
-**The Lord of the Rings: The Fellowship of the Ring** là tên của một bộ [2002](../_/2002.md) trò chơi điện tử tương tự do [Vivendi Universal](../V/Vivendi_Universal.md) xuất bản, được ba nhà phát triển sản xuất cho bốn nền tảng. Mặc dù tựa đề của nó tương tự như tựa phim của [Peter Jackson](The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md) nhưng nó dựa trên cuốn sách chứ không phải bộ phim.
+**Chúa tể của những chiếc nhẫn: Hiệp hội nhẫn** là tựa của một bộ trò chơi điện tử [2002](../_/2002.md) tương tự được xuất bản bởi [Vivendi Universal](../V/Vivendi_Universal.md), được ba nhà phát triển sản xuất cho bốn nền tảng. Mặc dù tựa đề của nó tương tự như [bộ phim của Peter Jackson](The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md) nhưng nó dựa trên cuốn sách chứ không phải bộ phim.
 
 ## Tóm tắt {#Synopsis}
 
 ### Giới thiệu {#Introduction}
 
-Trò chơi mở đầu bằng phần lồng tiếng của Galadriel, người cung cấp thông tin cơ bản về các sự kiện dẫn đến Cuộc chiến Nhẫn.
+Trò chơi mở đầu bằng phần lồng tiếng của Galadriel, người cung cấp thông tin cơ bản về các sự kiện dẫn đến Cuộc chiến trên chiếc nhẫn.
 
-Phần giới thiệu kết thúc bằng một đoạn cắt cảnh cho thấy Gandalf the Grey đến Bag End để thảo luận về Chiếc Nhẫn Chúa với Frodo Baggins.
+Phần giới thiệu kết thúc bằng một đoạn cắt cảnh cho thấy Gandalf the Grey đến Bag End để thảo luận về Chiếc nhẫn Chúa với Frodo Baggins.
 
-### The Shire {#The_Shire}
+### Quận {#The_Shire}
 
 <dl><dt>Hobbiton</dt></dl>
 
-Frodo quyết định phải rời khỏi Shire và bán [Bag End](../B/Bag_End.md) cho [Lobelia Sackville-Baggins](../L/Lobelia_Sackville-Baggins.md). Anh ta thực hiện nhiều nhiệm vụ khác nhau quanh làng; chẳng hạn như sửa cánh gió cho gió của Hal Hornbutter và sửa nhà máy của [Ted Sandyman](Ted_Sandyman.md).
+Frodo quyết định phải rời Shire và bán [Bag End](../B/Bag_End.md) cho [Lobelia Sackville-Baggins](../L/Lobelia_Sackville-Baggins.md). Ông ta thực hiện nhiều nhiệm vụ khác nhau quanh làng; chẳng hạn như sửa cánh gió cho gió của Hal Hornbutter và sửa nhà máy của [Ted Sandyman](Ted_Sandyman.md).
 
 <dl><dt>Bywater</dt></dl>
 
-Frodo đề nghị chứng thư Bag End cho Lobelia. Tuy nhiên, ban đầu cô từ chối nói chuyện với Frodo cho đến khi anh rung chuông thị trấn để thông báo cho Robin Smallburrow rằng có sói ở trong Shire. Sau khi làm như vậy, anh ta đã bán được chứng thư cho cô ấy.
+Frodo trao chứng thư Bag End cho Lobelia. Tuy nhiên, ban đầu cô từ chối nói chuyện với Frodo cho đến khi anh rung chuông thị trấn để thông báo cho Robin Smallburrow rằng sói đang ở Shire. Sau khi làm như vậy, ông ta đã bán được chứng thư cho bà.
 
 <dl><dt>Green Hill Country</dt></dl>
 
-Mặc dù tùy chọn, Frodo có thể chọn tìm dược liệu cho [Old Noakes](../O/Old_Noakes.md), những loại dược liệu đã bị [Sancho Proudfoot](../S/Sancho_Proudfoot.md) tinh quái phân tán. Tuy nhiên, một số loại thảo mộc này được tìm thấy trong trang trại của gia đình Maggot và Frodo phải tránh bị chó của Farmer Maggot phát hiện.
+Mặc dù không bắt buộc, nhưng Frodo có thể chọn tìm các loại dược liệu cho [Old Noakes](../O/Old_Noakes.md), được phân tán bởi [Sancho Proudfoot](../S/Sancho_Proudfoot.md) tinh quái. Tuy nhiên, một số loại thảo mộc này được tìm thấy trong trang trại của gia đình Maggot, và Frodo phải tránh bị chó của Nông dân Maggot phát hiện.
 
 <dl><dt>Night Hobbiton<sup id="cite_ref-save_1-0" class="reference"><a href="#cite_note-save-1">[1]</a></sup></dt></dl>
 
-Sau khi Frodo quay trở lại Bag End và lấy Chiếc nhẫn Chúa từ nơi cất giấu, anh ta đi xuống nhà Gaffer vào đêm hôm sau để đưa chìa khóa cho ông ta. Anh tình cờ nghe được cuộc trò chuyện giữa mình và một Kỵ Sĩ Đen bí ẩn, người đang tìm kiếm Baggins. Frodo sau khi đưa chìa khóa cho Gaffer, phải lẻn ra khỏi Hobbiton mà không bị Kỵ sĩ Đen tuần tra trên đường phố phát hiện.
+Sau khi Frodo quay trở lại Bag End và lấy Chiếc nhẫn Chúa từ nơi ẩn náu của nó, anh đi xuống nhà Gaffer vào đêm hôm sau để đưa chìa khóa cho ông ta. Anh tình cờ nghe được cuộc trò chuyện giữa anh và một Black Rider bí ẩn, người đang tìm kiếm Baggins. Frodo, sau khi đưa chìa khóa cho Gaffer, phải lẻn ra khỏi Hobbiton mà không bị các Kỵ sĩ áo đen tuần tra trên đường phố phát hiện.
 
 <dl><dt>Night Bywater<sup id="cite_ref-save_1-1" class="reference"><a href="#cite_note-save-1">[1]</a></sup></dt></dl>
 
@@ -138,99 +138,99 @@ Frodo giải cứu Robin Smallburrow đang sợ hãi khỏi một con sói trắ
 
 <dl><dt>Night Green Hill<sup id="cite_ref-save_1-2" class="reference"><a href="#cite_note-save-1">[1]</a></sup></dt></dl>
 
-Frodo phải lẻn qua Kỵ sĩ Đen để đến được Merry, Pippin và Sam tại Bamfurlong. Khi đến nơi, cả bốn phải đối mặt với Farmer Maggot, người đã cho họ lối đi an toàn đến Khu Rừng Cổ.
+Frodo phải lẻn qua Kỵ Sĩ Đen để tiếp cận Merry, Pippin và Sam tại Bamfurlong. Khi đến nơi, cả bốn phải đối mặt với Farmer Maggot, người đã cho họ lối đi an toàn đến Rừng Cũ.
 
-### Cái Khu Rừng Cổ {#The_Old_Forest}
+### Rừng già {#The_Old_Forest}
 
 <dl><dt>Forest Labyrinth</dt></dl>
 
-Frodo phải tìm [Merry](../M/Meriadoc_Brandybuck.md), [Sam](../S/Samwise_Gamgee.md) và [Pippin](../P/Peregrin_Took.md) những người đã lạc giữa những cái cây đang di chuyển của Khu Rừng Cổ trong khi chiến đấu với [những con nhện](../S/Spiders.md).
+Frodo phải tìm [Merry](../M/Meriadoc_Brandybuck.md), [Sam](../S/Samwise_Gamgee.md) và [Pippin](../P/Peregrin_Took.md), những người đã lạc giữa những tán cây đang chuyển động của Rừng Cũ trong khi chiến đấu với [nhện](../S/Spiders.md).
 
 <dl><dt>Withywindle Path</dt></dl>
 
-Frodo tìm thấy Merry và Pippin được chụp bởi [Old Man Willow](../O/Old_Man_Willow.md). Sau khi [Tom Bombadil](Tom_Bombadil.md) đến hiện trường để giải cứu họ, anh ta nhờ Frodo giúp thu thập hoa loa kèn cho [Goldberry](../G/Goldberry.md). Trên đường đi, nhiều con nhện xuất hiện hơn. Như một phần thưởng, anh ta mang Hobbit về nhà mình, nơi họ có thể hồi phục.
+Frodo tìm thấy Merry và Pippin bị [Ông già Willow](../O/Old_Man_Willow.md) bắt đi. Sau khi [Tom Bombadil](Tom_Bombadil.md) đến hiện trường để giải cứu họ, ông nhờ Frodo giúp ông thu thập hoa loa kèn cho [Goldberry](../G/Goldberry.md). Trên đường đi, nhiều con nhện xuất hiện hơn. Như một phần thưởng, ông đưa những người Hobbit đến nhà mình, nơi họ có thể hồi phục sức khỏe.
 
 <dl><dt>The Barrow-downs</dt></dl>
 
-Những người bạn đồng hành của Frodo lại bị lạc và Frodo phải tìm thấy họ trong sương mù của những ngọn núi bị ma ám. Ở chiếc xe đẩy cuối cùng Frodo tìm thấy vũ khí mới của mình, một trong những [Dao găm của Westernesse](../D/Daggers_of_Westernesse.md). Mặc dù nhật ký nhiệm vụ cho người chơi biết rằng con dao này là cần thiết để đánh bại tên Barrow-wight đóng vai trò là <a class="extiw" href="http://en.wikipedia.org/wiki/Boss_(video_games)" title="wikipedia:Boss (video games)">trùm</a>, việc ném nhiều tảng đá vào hắn từ vị trí an toàn trên cao cũng là một mẹo nhỏ. Sau khi "đánh bại" xác sống, Frodo quyết định hát một bài hát do Tom Bombadil dạy cho anh, người đã xuất hiện và hát đi xác sống. Anh ta đưa cho họ thêm dao găm và bảo họ ở lại qua đêm tại *[The Prancing Pony](The_Prancing_Pony.md)*.
+Những người bạn đồng hành của Frodo một lần nữa bị lạc và Frodo phải tìm thấy họ trong màn sương mù của vùng đất bị ma ám. Ở chiếc xe đẩy cuối cùng, Frodo tìm thấy vũ khí mới của mình, một trong những [Dao găm của Westernesse](../D/Daggers_of_Westernesse.md). Mặc dù nhật ký nhiệm vụ cho người chơi biết rằng con dao này là cần thiết để đánh bại tên Barrow-wight đóng vai trò là <a class="extiw" href="http://en.wikipedia.org/wiki/Boss_(video_games)" title="wikipedia:Boss (video games)">trùm</a>, việc ném nhiều tảng đá vào hắn từ vị trí an toàn trên cao cũng là một mẹo nhỏ. Sau khi "đánh bại" xác sống, Frodo quyết định hát một bài hát do Tom Bombadil dạy cho anh, người đã xuất hiện và hát đi xác sống. Ông ta đưa cho họ thêm dao găm và bảo họ ở lại qua đêm tại *[The Prancing Pony](The_Prancing_Pony.md)*.
 
 ### Bree {#Bree}
 
 <dl><dt>The Prancing Pony</dt></dl>
 
-Frodo và những người khác vào quán trọ Prancing Pony và nhận phòng bằng [Barliman Butterbur](../B/Barliman_Butterbur.md). Trong thời gian này, Frodo có thể tự do tương tác với [Strider](../A/Aragorn.md), [Bill Ferny](../B/Bill_Ferny.md) và những khách quen khác của nhà trọ. Sau một "tai nạn" khi Frodo vô tình đeo Nhẫn Chúa trước mặt những khách hàng quen, Strider tiết lộ danh tính của mình là Aragorn cho Hobbit và nói với họ rằng họ đang gặp nguy hiểm.
+Frodo và những người khác vào Nhà trọ Prancing Pony và đăng ký với [Barliman Butterbur](../B/Barliman_Butterbur.md). Trong thời gian này, Frodo có thể tự do giao lưu với [Strider](../A/Aragorn.md), [Bill Ferny](../B/Bill_Ferny.md) và những khách quen khác của quán trọ. Sau một "tai nạn" khi Frodo vô tình đeo chiếc Nhẫn Chúa trước mặt những người bảo trợ, Strider tiết lộ danh tính của mình là Aragorn cho người Hobbit và nói với họ rằng họ đang gặp nguy hiểm.
 
 <dl><dt>Town of Bree</dt></dl>
 
-Rõ ràng là Merry bị thiếu và lối chơi chuyển sang Aragorn. Sau khi tìm kiếm Merry trên những con đường đầy ánh trăng của Bree, anh ta săn lùng các đồ vật để tạo ra Hobbit mồi nhử nhằm đánh lừa Nazgûl vẫn đang bám theo dấu vết của chúng, chiến đấu với sói và những kẻ lưu manh trên đường đi.
+Rõ ràng là Merry bị mất tích và lối chơi chuyển sang Aragorn. Sau khi tìm kiếm Merry trên những con phố ngập ánh trăng ở Bree, ông ta săn lùng các đồ vật để chế tạo mồi nhử Hobbit nhằm đánh lừa Nazgûl vẫn đang theo dấu vết của họ, chiến đấu với bầy sói và những kẻ lưu manh trên đường đi.
 
-### Weathertop {#Weathertop}
+### Thời tiết {#Weathertop}
 
 <dl><dt>Weathertop Hill</dt></dl>
 
-Sau khi phát hiện tia sét ở đỉnh [Weathertop](../W/Weathertop.md), Aragorn hộ tống Frodo và Sam lên đỉnh. Trên đường [Warg](../W/Wargs.md) và [Orc](../O/Orcs.md) lần đầu tiên được đưa vào trò chơi. Trên đỉnh đồi, Aragorn phát hiện ra dấu hiệu của một cuộc giằng co và một chữ rune mang chữ "G" và số "3". Ngay sau đó anh ta bị tấn công bởi một [troll](Troll.md). Sau khi đánh bại con troll, Frodo nhận thấy [Kỵ sĩ Đen](../N/Nazgûl.md) trên [phương Đông Đường](../E/East_Road.md) và họ quay trở lại khu cắm trại.
+Sau khi phát hiện tia sét trên đỉnh [Weathertop](../W/Weathertop.md), Aragorn hộ tống Frodo và Sam lên đỉnh. Trên đường đi [Wargs](../W/Wargs.md) và [Orc](../O/Orcs.md) lần đầu tiên được đưa vào trò chơi. Trên đỉnh đồi, Aragorn phát hiện ra dấu hiệu của một cuộc đấu tranh và một chữ rune mang chữ "G" và số "3". Ngay sau đó ông ta bị tấn công bởi một [troll](Troll.md). Sau khi đánh bại tên troll, Frodo để ý đến [Kỵ sĩ áo đen](../N/Nazgûl.md) trên [Đường phía Đông](../E/East_Road.md) và họ quay trở lại khu cắm trại.
 
 <dl><dt>A Knife in the Dark</dt></dl>
 
-Trong một đoạn cắt cảnh, Frodo bị [Vua Phù thủy](../W/Witch-king.md) đâm và Aragorn phải ngăn Nazgûl đâm Frodo nhiều hơn nữa, chống lại chúng bằng lửa.
+Trong một đoạn cắt cảnh, Frodo bị [Vua phù thủy](../W/Witch-king.md) đâm và Aragorn phải ngăn Nazgûl đâm Frodo nhiều hơn nữa, chống lại họ bằng thương hiệu lửa.
 
 <dl><dt>Troll Shaws</dt></dl>
 
-Aragorn phải dọn sạch khu vực của kẻ thù bao gồm Orc, wargs và một số troll. Khi tất cả kẻ thù bị đánh bại [Glorfindel](../G/Glorfindel.md) xuất hiện; anh ta gửi Frodo đi trên [Asfaloth](../A/Asfaloth.md). Sau khi đứng ở [Ford of Bruinen](../F/Ford_of_Bruinen.md), Frodo gục xuống.
+Aragorn phải dọn sạch khu vực của kẻ thù bao gồm lũ Orc, wargs và một số loài troll. Khi tất cả kẻ thù bị đánh bại [Glorfindel](../G/Glorfindel.md) xuất hiện; ông gửi Frodo đi trên [Asfaloth](../A/Asfaloth.md). Sau khi đứng ở [Ford of Bruinen](../F/Ford_of_Bruinen.md), Frodo suy sụp.
 
 ### Rivendell {#Rivendell}
 
 <dl><dt>House of Elrond</dt></dl>
 
-Frodo thức dậy sau Rivendell và gặp Gandalf. Sau [Hội đồng Elrond](../C/Council_of_Elrond.md), [Bilbo Baggins](../B/Bilbo_Baggins.md) tặng Frodo [Sting](../S/Sting.md) và áo *[mithril](../M/Mithril.md)*; [Arwen](../A/Arwen.md) cho Aragorn [Andúril](../A/Andúril.md). Cả hai chỉ phục vụ như nâng cấp vũ khí.
+Frodo tỉnh dậy ở Rivendell và gặp Gandalf. Sau [Hội đồng Elrond](../C/Council_of_Elrond.md), [Bilbo Baggins](../B/Bilbo_Baggins.md) trao cho Frodo [Sting](../S/Sting.md) và chiếc áo *[mithril](../M/Mithril.md)*; [Arwen](../A/Arwen.md) trao cho Aragorn [Andúril](../A/Andúril.md). Cả hai chỉ phục vụ như nâng cấp vũ khí.
 
 ### Moria {#Moria}
 
 <dl><dt>Hollin Ridge</dt></dl>
 
-Hiệp hội trú ẩn trên Núi Hollin trước khi tiến đến cửa Moria. Kiểm soát được [Gandalf](../G/Gandalf.md), người chơi phải đánh bại Warg và Orc để dọn đường mới có thể tiến lên. Sau đó, người chơi sẽ điều khiển Aragorn, người bảo vệ Gandalf khỏi [Người canh gác dưới nước](../W/Watcher_in_the_Water.md).
+Hiệp hội trú ẩn trên Hollin Ridge trước khi tìm đường đến cửa Moria. Kiểm soát [Gandalf](../G/Gandalf.md), người chơi phải đánh bại Wargs và Orc để dọn đường nhằm tiến bộ. Sau đó, người chơi sẽ điều khiển Aragorn, người bảo vệ Gandalf khỏi [Người canh gác dưới nước](../W/Watcher_in_the_Water.md).
 
 <dl><dt>Labyrinth</dt></dl>
 
-Người chơi một lần nữa sẽ điều khiển Gandalf, người hành trình qua những lối đi tối tăm của Moria với sự trợ giúp của [Gimli](../G/Gimli.md). Trên đường đi, họ chiến đấu với Orc và lũ quỷ hang động. Trong cuộc hành trình, Gollum nhanh chóng theo dõi họ từ trong bóng tối.
+Người chơi một lần nữa điều khiển Gandalf, người hành trình qua những lối đi tối tăm của Moria với sự trợ giúp của [Gimli](../G/Gimli.md). Trên đường đi, họ chiến đấu với lũ Orc và lũ quỷ hang động. Trong cuộc hành trình, Gollum đã nhanh chóng theo dõi họ từ trong bóng tối.
 
 <dl><dt>3 Passages</dt></dl>
 
-Vẫn đóng vai Gandalf, người chơi phải điều khiển một chùm ánh sáng bằng cách di chuyển gương xung quanh một căn phòng, trong khi những người còn lại trong Hiệp hội chống lại cuộc tấn công của hai con quỷ hang động lớn. Chùm ánh sáng mở ra nhiều cánh cửa; đằng sau là Lăng mộ của Phòng Mazarbul và Balin. Khi họ bước vào căn phòng, một đoạn cắt cảnh sẽ kích hoạt và Orc tràn vào phòng.
+Vẫn vào vai Gandalf, người chơi phải điều khiển một chùm ánh sáng bằng cách di chuyển những tấm gương xung quanh một căn phòng, trong khi những người còn lại trong Hiệp hội chống lại cuộc tấn công của hai con quỷ hang động lớn. Chùm ánh sáng mở ra nhiều cánh cửa; phía sau đang chờ Phòng Mazarbul và Lăng mộ Balin. Khi họ bước vào căn phòng, một đoạn cắt cảnh sẽ kích hoạt và lũ Orc tràn vào phòng.
 
 <dl><dt>2nd Hall</dt></dl>
 
-Frodo và Gimli thấy mình bị tách khỏi phần còn lại của Hiệp hội và phải chiến đấu để vượt qua [Sảnh thứ hai](../S/Second_Hall.md). Người chơi điều khiển Frodo, người phải kéo một số đòn bẩy để nối các cây cầu và mở cửa chính. Mặc dù phần lớn cuộc chiến có thể được giao phó cho Gimli, một số kẻ thù - một số cung thủ, một số Orc - nằm ngoài tầm với của anh ta và phải bị Frodo tránh hoặc tiêu diệt.
+Frodo và Gimli thấy mình bị tách khỏi phần còn lại của Hiệp hội và phải chiến đấu để vượt qua [Sảnh thứ hai](../S/Second_Hall.md). Người chơi sẽ điều khiển Frodo, người phải kéo một số đòn bẩy để nối các cây cầu và mở cửa chính. Mặc dù phần lớn cuộc chiến có thể được giao cho Gimli, một số kẻ thù - một số cung thủ, một số loài Orc - nằm ngoài tầm với của ông ta và phải bị Frodo tránh hoặc giết.
 
 <dl><dt>Abyss Fight</dt></dl>
 
-Gandalf chiến đấu với Balrog. Balrog chỉ có thể bị choáng bằng bùa sét, sau đó Gandalf phải đánh anh ta bằng Glamdring. Tuy nhiên, một đòn từ thanh kiếm của Balrog sẽ gây chết người.
+Gandalf chiến đấu với Balrog. Balrog chỉ có thể bị choáng bởi bùa sét, sau đó Gandalf phải đánh ông ta bằng Glamdring. Tuy nhiên, một đòn từ thanh kiếm của Balrog sẽ gây chết người.
 
 ### Lothlórien {#Lothlórien}
 
 <dl><dt>Lothlórien Forest</dt></dl>
 
-Đoàn đến Lothlórien và nhận quà từ Quý Cô Galadriel. Frodo thấy trước Sự quét sạch của Shire trong gương của Galadriel.
+Hiệp hội đến Lothlórien và nhận quà từ Lady Galadriel. Frodo thấy trước Cuộc truy quét Quận qua tấm gương của Galadriel.
 
 ### Sông Anduin {#River_Anduin}
 
 <dl><dt>Orc Dam</dt></dl>
 
-Sau khi rời khỏi Lothlórien, Fellowship phát hiện dòng sông [Anduin](../A/Anduin.md) bị một con đập chặn lại. Họ tìm kiếm bờ biển, và Aragorn, Legolas, Gimli và Boromir phải thông quan trước khi có thể cập bến thuyền. Họ phải đánh bại hai tên troll, một số orc cung thủ và [Uruk-Hai](../U/Uruk-Hai~9489.md), những kẻ lần đầu tiên được nhìn thấy ở cấp độ này.
+Sau khi rời Lothlórien, Hiệp hội tìm thấy dòng sông [Anduin](../A/Anduin.md) bị chặn bởi một con đập. Họ tìm kiếm bờ biển và Aragorn, Legolas, Gimli và Boromir phải dọn sạch nó trước khi họ có thể cập bến những con thuyền. Họ phải đánh bại hai tên troll, một số orc cung thủ và [Uruk-Hai](../U/Uruk-Hai~9489.md), những kẻ lần đầu tiên được nhìn thấy ở cấp độ này.
 
 <dl><dt>Amon Hen</dt></dl>
 
-Người chơi lại nắm quyền điều khiển Aragorn và phải đánh bại Nazgûl cưỡi Fell Beast, kẻ đã bắt cóc nhầm Sam thay vì Frodo. Aragorn, được hỗ trợ bởi Legolas và Frodo, sau đó phải chiến đấu thông qua các lữ đoàn Uruk, Warg và Troll, trước khi chiến đấu với Nazgûl có cánh tại tàn tích [Amon Hen](../A/Amon_Hen.md). Ngoài ra còn có một khu vực bí mật trong màn này, nơi Gollum sẽ xuất hiện và tặng Aragorn một "món quà": một con cá kiếm, cũng là vũ khí mạnh nhất trong trò chơi.
+Người chơi một lần nữa nắm quyền điều khiển Aragorn và phải đánh bại một Nazgûl đang cưỡi Fell Beast, kẻ đã bắt cóc nhầm Sam thay vì Frodo. Aragorn, được hỗ trợ bởi Legolas và Frodo, sau đó phải chiến đấu qua các lữ đoàn Uruk, Wargs và Trolls, trước khi chiến đấu với Nazgûl có cánh tại tàn tích [Amon Hen](../A/Amon_Hen.md). Ngoài ra còn có một khu vực bí mật trong màn này, nơi Gollum sẽ xuất hiện và tặng Aragorn một "món quà": một con cá kiếm, cũng là vũ khí mạnh nhất trong trò chơi.
 
 <dl><dt>Final Cut Scene</dt></dl>
 
-Fell Beast bị Legolas bắn ra khỏi bầu trời, và sau đó trò chơi kết thúc với lời tường thuật của [Galadriel](../G/Galadriel.md), người nói về việc Frodo và Sam rời khỏi Hội đồng hành để hành trình đến Mordor, theo sát là Gollum.
+Fell Beast bị Legolas bắn khỏi bầu trời và sau đó trò chơi kết thúc với lời tường thuật của [Galadriel](../G/Galadriel.md), người nói về việc Frodo và Sam rời khỏi Hội đồng hành để hành trình đến Mordor, theo sát là Gollum.
 
 ## Phiên bản GBA {#GBA_version}
 
 Ngược lại với phiên bản PC và console, phiên bản GBA là một game nhập vai với chiến đấu theo lượt. Một điều độc đáo ở phiên bản này là tất cả chín thành viên của Fellowship đều có thể chơi được khi họ tham gia nhóm và tất cả đều có mặt trong chế độ chiến đấu (không giống như một số game nhập vai khác, trong đó các thành viên trong nhóm có sẵn bị giới hạn ở một số lượng nhất định tại bất kỳ thời điểm nào).
 
-Tất cả các cuộc chạm trán được coi là trận đấu trùm khả thi ( Nazgûl, Người canh gác dưới nước, Balrog) đều được rút gọn và giải quyết trong các bản trình chiếu ngắn không có tính tương tác. Giống như tựa game SNES <i><a class="mw-redirect mw-disambig" href="../J/J.R.R._Tolkien&#39;s_The_Lord_of_the_Rings,_Vol._I.md" title="J.R.R. Tolkien&#39;s The Lord of the Rings, Vol. I">J.R.R. Tolkien The Lord of the Rings, Vol. Tôi</a></i>, người ta chú trọng nhiều vào việc khám phá và nhiệm vụ phụ. Ngoài ra còn có một số câu đố bắt buộc phải hoàn thành để tiến về phía trước.
+Tất cả các cuộc chạm trán được coi là trận đấu trùm khả thi (Ringwraith, Watcher in the Water, Balrog) đều được rút gọn và giải quyết trong các trình chiếu ngắn không có tính tương tác. Giống như Chúa tể của những chiếc nhẫn <i><a class="mw-redirect mw-disambig" href="../J/J.R.R._Tolkien&#39;s_The_Lord_of_the_Rings,_Vol._I.md" title="J.R.R. Tolkien&#39;s The Lord of the Rings, Vol. I">J.R.R. Tolkien của tựa SNES, Tập. Tôi</a></i>, người ta chú trọng nhiều vào việc khám phá và nhiệm vụ phụ. Ngoài ra còn có một số câu đố bắt buộc phải hoàn thành để tiến về phía trước.
 
 Thật không may, lối chơi có nhiều lỗi và trục trặc, từ những lỗi có lợi như sao chép vật phẩm đến những lỗi phá game, chẳng hạn như các vật phẩm quan trọng không xuất hiện khi cần thiết hoặc những căn phòng vô tình bị người lập trình bỏ dở và không thể thoát được.
 
@@ -496,12 +496,12 @@ Phần tiếp theo đã được lên kế hoạch cho trò chơi này và có t
 
 ## Xem thêm {#See_also}
 
-- [Hình ảnh từ The Lord of the Rings: The Fellowship of the Ring (trò chơi điện tử)](<../../category/I/Images_from_The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md>)
+- [Images from The Lord of the Rings: The Fellowship of the Ring (video game)](<../../category/I/Images_from_The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md>)
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://www.mobygames.com/game/lord-of-the-rings-the-fellowship-of-the-ring" rel="noreferrer noopener" target="_blank">The Lord of the Rings: The Fellowship of the Ring (trò chơi điện tử)</a> tại <a class="external text" href="http://www.mobygames.com/home" rel="noreferrer noopener" target="_blank">MobyGames.com</a>
-- <a class="extiw" href="http://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring_(video_game)" title="wikipedia:The Lord of the Rings: The Fellowship of the Ring (video game)">The Lord of the Rings: The Fellowship of the Ring (trò chơi điện tử)</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
+- <a class="external text" href="http://www.mobygames.com/game/lord-of-the-rings-the-fellowship-of-the-ring" rel="noreferrer noopener" target="_blank">Chúa tể của những chiếc nhẫn: The Fellowship of the Ring (trò chơi điện tử)</a> tại <a class="external text" href="http://www.mobygames.com/home" rel="noreferrer noopener" target="_blank">MobyGames.com</a>
+- <a class="extiw" href="http://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring_(video_game)" title="wikipedia:The Lord of the Rings: The Fellowship of the Ring (video game)">Chúa tể của những chiếc nhẫn: Hiệp hội những chiếc nhẫn (trò chơi điện tử)</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
 
 <span></span>
 

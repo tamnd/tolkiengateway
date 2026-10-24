@@ -20,7 +20,7 @@ images:
 
 Vào [12 tháng 4](../_/12_April.md) [1966](../_/1966.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho James Ridolfo**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-- **Chủ đề:** Một thư trả lời cổ phiếu cho một lá thư đánh giá cao, trong đó Tolkien đã thêm: "những lời chúc tốt đẹp nhất! JRR Tolkien".
+- **Chủ đề:** Một câu trả lời cổ phiếu cho lá thư cảm ơn, trong đó Tolkien nói thêm: "những lời chúc tốt đẹp nhất! JRR Tolkien".
 - **Xuất bản:** Không có.
 
 ## Bản ghi {#Transcript}

@@ -12,7 +12,7 @@ categories:
   - "Epithets"
 ---
 
-**Người lớn nhất** là danh hiệu dành cho người lớn tuổi nhất trong tất cả chúng sinh. Điều khó hiểu là nó dường như áp dụng cho hai cá nhân khác nhau; [Tom Bombadil](../T/Tom_Bombadil.md) không chỉ yêu cầu điều đó cho chính mình,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> mà [Celeborn](../C/Celeborn.md) còn sử dụng nó để giải quyết [Ent](Ents.md) [Treebeard](../T/Treebeard.md)cũ.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> [Tom Bombadil bản chất](../T/Tom_Bombadil%252FNature~74818.md), bao gồm cả cách thức tồn tại của anh ta và liệu anh ta có thể được coi là còn sống và [hiện thân](../I/Incarnate.md) hay không, vẫn chưa được biết. Vấn đề ai thực sự là sinh vật lớn tuổi nhất trong [Trung Địa](../M/Middle-earth.md) vẫn là một bí ẩn. <span></span>
+**Người lớn nhất** là danh hiệu dành cho người lớn tuổi nhất trong tất cả chúng sinh. Điều khó hiểu là nó dường như áp dụng cho hai cá nhân khác nhau; [Tom Bombadil](../T/Tom_Bombadil.md) không chỉ yêu cầu nó cho chính mình,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> mà [Celeborn](../C/Celeborn.md) còn sử dụng nó để xưng hô với [Ent](Ents.md) [Treebeard](../T/Treebeard.md) cũ.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> [Bản chất của Tom Bombadil](../T/Tom_Bombadil%252FNature~74818.md), bao gồm cả cách tồn tại của ông ta và liệu ông ta có thể được coi là còn sống và [hiện thân](../I/Incarnate.md) hay không, vẫn chưa được biết. Vấn đề ai thực sự là sinh vật lớn tuổi nhất ở [Trung Địa](../M/Middle-earth.md) là một bí ẩn. <span></span>
 
 ## Tài liệu tham khảo {#References}
 

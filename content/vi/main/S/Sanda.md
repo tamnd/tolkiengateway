@@ -13,4 +13,4 @@ categories:
   - "Quenya verbs"
 ---
 
-<i><b>sanda</b></i> là [Quenya](../Q/Quenya.md) động từ tiếp diễn có nghĩa là *abiding*.
+<i><b>sanda</b></i> là một [Quenya](../Q/Quenya.md) động từ tiếp diễn có nghĩa là *abiding*.

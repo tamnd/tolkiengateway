@@ -31,7 +31,7 @@ images:
 
 ## Lịch sử {#History}
 
-Vào ngày tổ chức bữa tiệc bất ngờ tại nhà [Bilbo Baggins](../B/Bilbo_Baggins.md)', [13 người lùn](../T/Thorin_and_Company.md) và [Gandalf](../G/Gandalf.md) đã đến vào giờ uống trà. Sau khi ăn xong, Bilbo bắt đầu dọn đĩa và ly nhưng khi [Thorin](../T/Thorin.md) tuyên bố: "Bây giờ dọn đi!" tất cả những người lùn khác đều nhảy lên, xếp tất cả các món ăn một cách bấp bênh nhất và mang chúng vào bếp. Bilbo gần như kêu lên vì sợ hãi, tưởng rằng bát đĩa của mình sẽ bị hỏng. Những người lùn thích thú đã hát bài hát này mô tả tất cả những điều khủng khiếp trong nhà bếp dường như sắp xảy ra, nhưng tất nhiên là không ai trong số họ làm vậy.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Vào ngày diễn ra bữa tiệc bất ngờ tại nhà của [Bilbo Baggins](../B/Bilbo_Baggins.md), [13 người lùn](../T/Thorin_and_Company.md) và [Gandalf](../G/Gandalf.md) đã đến vào giờ uống trà. Sau khi họ đã ăn xong, Bilbo bắt đầu dọn đĩa và ly nhưng khi [Thorin](../T/Thorin.md) tuyên bố, "Bây giờ dọn đi!" tất cả những người lùn khác đều nhảy lên, xếp tất cả các món ăn một cách bấp bênh nhất và mang chúng vào bếp. Bilbo gần như kêu lên vì sợ hãi vì tin rằng bát đĩa của mình có thể bị hỏng. Những người lùn thích thú đã hát bài hát này mô tả tất cả những điều khủng khiếp trong nhà bếp dường như sắp xảy ra, nhưng tất nhiên là không ai trong số họ làm vậy.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Văn bản {#Text}
 
@@ -60,22 +60,22 @@ So, carefully! carefully with the plates!
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Hobbit_-_An_Unexpected_Journey_-_That&#39;s_what_Bilbo_Baggins_hates!.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/1/1b/The_Hobbit_-_An_Unexpected_Journey_-_That%27s_what_Bilbo_Baggins_hates%21.jpg/250px-The_Hobbit_-_An_Unexpected_Journey_-_That%27s_what_Bilbo_Baggins_hates%21.jpg" decoding="async" loading="lazy" width="250" height="108" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/1b/The_Hobbit_-_An_Unexpected_Journey_-_That%27s_what_Bilbo_Baggins_hates%21.jpg/375px-The_Hobbit_-_An_Unexpected_Journey_-_That%27s_what_Bilbo_Baggins_hates%21.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/1/1b/The_Hobbit_-_An_Unexpected_Journey_-_That%27s_what_Bilbo_Baggins_hates%21.jpg/500px-The_Hobbit_-_An_Unexpected_Journey_-_That%27s_what_Bilbo_Baggins_hates%21.jpg 2x" data-file-width="1888" data-file-height="814"/></a><figcaption>The scene at the conclusion of the singing of &#34;Chip the glasses and crack the plates&#34; in <i>The Hobbit: An Unexpected Journey</i></figcaption></figure>
 
-<b>1977: <a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>The Hobbit</i> (phim 1977)</a>:</b>
+<b>1977: <a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>Người Hobbit</i> (phim 1977)</a>:</b>
 
 <dl><dd>&#34;Chip the glasses and crack the plates&#34; was adapted as &#34;<a href="../T/That&#39;s_What_Bilbo_Baggins_Hates.md" title="That&#39;s What Bilbo Baggins Hates">That&#39;s What Bilbo Baggins Hates</a>&#34; and was included in <i><a href="../T/The_Hobbit%253A_The_Complete_Original_Soundtrack.md" title="The Hobbit: The Complete Original Soundtrack">The Hobbit: The Complete Original Soundtrack</a></i>.</dd></dl>
 
-<b>1985: <a href="../T/The_Hobbit_(1985_television_film).md" title="The Hobbit (1985 television film)"><i>The Hobbit</i> (phim truyền hình 1985)</a></b>
+<b>1985: <a href="../T/The_Hobbit_(1985_television_film).md" title="The Hobbit (1985 television film)"><i>Người Hobbit</i> (phim truyền hình 1985)</a></b>
 
 <dl><dd>The song is sang by the gnomes as in the book, with minor differences from the version written in the book translation that the film is based upon. Most phrases are repeated twice.</dd></dl>
 
-<b>2012: <i><a href="../T/The_Hobbit%253A_An_Unexpected_Journey.md" title="The Hobbit: An Unexpected Journey">The Hobbit: An Unexpected Journey</a></i>:</b>
+<b>2012: <i><a href="../T/The_Hobbit%253A_An_Unexpected_Journey.md" title="The Hobbit: An Unexpected Journey">Người Hobbit: Hành trình bất ngờ</a></i>:</b>
 
 <dl><dd>&#34;Chip the glasses and crack the plates&#34; was adapted as &#34;<a href="../B/Blunt_the_Knives.md" title="Blunt the Knives">Blunt the Knives</a>&#34; and was performed by the dwarves (without Thorin) during the Unexpected Party. It was included in the <a href="../T/The_Hobbit%253A_An_Unexpected_Journey_-_Original_Motion_Picture_Soundtrack_-_Special_Edition.md" title="The Hobbit: An Unexpected Journey - Original Motion Picture Soundtrack - Special Edition">special edition soundtrack</a>.</dd></dl>
 
 ## Xem thêm {#See_also}
 
 - [Bài thơ trong *The Hobbit*](../P/Poems_in_The_Hobbit.md)
-- [Đó là điều Bilbo Baggins Ghét](../T/That's_What_Bilbo_Baggins_Hates.md)
+- [Đó là điều Bilbo Baggins ghét](../T/That's_What_Bilbo_Baggins_Hates.md)
 
 <span></span>
 

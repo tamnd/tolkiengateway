@@ -25,13 +25,13 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">&#34;Rhûnnic&#34; is a concept which has only appeared in an  adaptation of the works of <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>.</div></div>
 
-**Rhûnic**<sup id="cite_ref-merc_1-0" class="reference"><a href="#cite_note-merc-1">[1]</a></sup>, còn được gọi là **Rhûnnic**<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>, là ngôn ngữ được sử dụng bởi [Easterling](../E/Easterlings.md) lính đánh thuê<sup id="cite_ref-merc_1-1" class="reference"><a href="#cite_note-merc-1">[1]</a></sup> được gọi là [Gaudrim](../G/Gaudrim.md) ở *[The Lord of the Rings: The Rings of Power](../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)*.
+**Rhûnic**<sup id="cite_ref-merc_1-0" class="reference"><a href="#cite_note-merc-1">[1]</a></sup>, còn được gọi là **Rhûnnic**<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>, là ngôn ngữ được sử dụng bởi lính đánh thuê [Easterling](../E/Easterlings.md)<sup id="cite_ref-merc_1-1" class="reference"><a href="#cite_note-merc-1">[1]</a></sup> được gọi là [Gaudrim](../G/Gaudrim.md) ở *[The Lord of the Rings: The Rings of Power](../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)*.
 
 ## Lịch sử {#History}
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tree_of_human_tongues_expanded.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/39/Tree_of_human_tongues_expanded.jpg/300px-Tree_of_human_tongues_expanded.jpg" decoding="async" loading="lazy" width="300" height="146" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/39/Tree_of_human_tongues_expanded.jpg/450px-Tree_of_human_tongues_expanded.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/3/39/Tree_of_human_tongues_expanded.jpg/600px-Tree_of_human_tongues_expanded.jpg 2x" data-file-width="4371" data-file-height="2126"/></a><figcaption>A summary of Tolkien’s attested human languages</figcaption></figure>
 
-Tolkien không bao giờ đề cập đến bất kỳ ngôn ngữ hoặc người "Rhûnic" nào mà sử dụng danh mục rộng hơn là "[Easterlings](../E/Easterlings.md)" và sự tồn tại của Easterling ngôn ngữ được xác nhận ngay cả khi những ngôn ngữ đó không được Tolkien bổ sung (ngoài một số tên như [Khamûl](../K/Khamûl.md)). Rhûnic, mặc dù được cho là dựa trên một trong các ngôn ngữ của Tolkien<sup id="cite_ref-merc_1-2" class="reference"><a href="#cite_note-merc-1">[1]</a></sup><sup id="cite_ref-fof_3-0" class="reference"><a href="#cite_note-fof-3">[3]</a></sup>, nhưng lại được phát triển cho *[The Lord of the Rings: The Rings of Power](../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)*. Theo lời của nhà soạn nhạc bộ truyện [Bear McCreary](../B/Bear_McCreary.md)<sup id="cite_ref-merc_1-3" class="reference"><a href="#cite_note-merc-1">[1]</a></sup>:
+Tolkien không bao giờ đề cập đến bất kỳ ngôn ngữ hoặc người "Rhûnic" nào, mà sử dụng danh mục rộng hơn là "[Easterlings](../E/Easterlings.md)", và sự tồn tại của các ngôn ngữ Easterling được xác nhận mặc dù những ngôn ngữ đó không được Tolkien bổ sung thêm (ngoài một số tên như [Khamûl](../K/Khamûl.md)). Rhûnic, mặc dù được cho là dựa trên một trong các ngôn ngữ của Tolkien<sup id="cite_ref-merc_1-2" class="reference"><a href="#cite_note-merc-1">[1]</a></sup><sup id="cite_ref-fof_3-0" class="reference"><a href="#cite_note-fof-3">[3]</a></sup>, nhưng lại được phát triển cho *[The Lord of the Rings: The Rings of Power](../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)*. Theo lời của nhà soạn nhạc bộ truyện [Bear McCreary](../B/Bear_McCreary.md)<sup id="cite_ref-merc_1-3" class="reference"><a href="#cite_note-merc-1">[1]</a></sup>:
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
 <p>For this series, we always strive to ensure that music sung by soloists or choirs communicates meaning in text that is relevant to the culture the music represents. So, what language would the music of Rhûn be sung in? Rhûn is a large, mostly unexplored area in Tolkien’s published works, left intentionally vague. Tolkien scholars working on our series dug through Tolkien’s unpublished notes and used them to build the foundation of a Rhûnic language, one that has never been heard before by fans. Helping to expand one of Tolkien’s lesser-known languages into a vibrant musical culture was a true honor.
@@ -427,19 +427,19 @@ Cũng có thể **N** trong các từ **NÍ** và <b>*NIM</b> được phát âm
 
 - [Rhûn (nhạc phim)](<Rhûn_(soundtrack).md>)
 - [Bão cát bên giếng](../S/Sandstorm_at_the_Well.md)
-- [Rhûn: Miêu tả trong chuyển thể](Rhûn.md#Portrayal_in_adaptations)
+- [Rhûn: Portrayal in adaptations](Rhûn.md#Portrayal_in_adaptations)
 
 ## Liên kết ngoài {#External_links}
 
 - <a class="external text" href="https://www.reddit.com/r/LOTR_on_Prime/comments/1g4misj/analysis_of_rh%C3%BBnic_language_on_soundtrack/" rel="noreferrer noopener" target="_blank">Phân tích ngôn ngữ Rhûnic trong nhạc phim</a> trên Reddit.com
 - <a class="external text" href="https://www.reddit.com/r/LOTR_on_Prime/comments/1f593in/rh%C3%BBnic_language/" rel="noreferrer noopener" target="_blank">Ngôn ngữ Rhûnic?</a> trên Reddit.com
-- <a class="external text" href="https://bearmccreary.com/the-lord-of-the-rings-episode-202/" rel="noreferrer noopener" target="_blank">The Lord of the Rings: Tập 202</a> trên bemccreary.com
+- <a class="external text" href="https://bearmccreary.com/the-lord-of-the-rings-episode-202/" rel="noreferrer noopener" target="_blank">Chúa tể của những chiếc nhẫn: Tập 202</a> trên Bearmccreary.com
 - <a class="external text" href="https://fellowshipoffans.com/news/rhunic-revealed/" rel="noreferrer noopener" target="_blank">Rhûnic được tiết lộ</a> trên Fellowoffans.com
 
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-note-4"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-note_4-0">1.0</a></sup> <sup><a href="#cite_ref-note_4-1">1.1</a></sup></span> <span class="reference-text">Từ này đã được sử dụng trong <a href="../W/Where_the_Stars_are_Strange.md" title="Where the Stars are Strange">tập thứ hai</a> của phần thứ hai của <i><a href="../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Lord of the Rings: The Rings of Power</a></i> bởi một trong những <a href="../G/Gaudrim.md" title="Gaudrim">Gaudrim</a>. Chưa rõ nghĩa.</span>
+<li id="cite_note-note-4"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-note_4-0">1.0</a></sup> <sup><a href="#cite_ref-note_4-1">1.1</a></sup></span> <span class="reference-text">Từ này đã được sử dụng trong <a href="../W/Where_the_Stars_are_Strange.md" title="Where the Stars are Strange">tập thứ hai</a> của phần thứ hai của <i><a href="../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">Chúa tể của những chiếc nhẫn: Những chiếc nhẫn quyền lực</a></i> bởi một trong những <a href="../G/Gaudrim.md" title="Gaudrim">Gaudrim</a>. Chưa rõ nghĩa.</span>
 </li>
 </ol></div></span>
 

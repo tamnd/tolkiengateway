@@ -15,7 +15,7 @@ categories:
 
 <i><b>Ilweran</b></i> là tên [Qenya](../Q/Qenya.md) của Cầu vồng.<sup id="cite_ref-LR1_1-0" class="reference"><a href="#cite_note-LR1-1">[1]</a></sup>
 
-[Oromë](../O/Oromë.md) làm cầu nối cho Valar từ mái tóc của [Vána](../V/Vána.md), vợ ông, sau khi Valinor lẩn trốn. Nó được Con Người gọi là Cầu vồng vì nó tỏa sáng rực rỡ khi trời mưa.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+[Oromë](../O/Oromë.md) đã biến nó thành cầu nối cho các Valar từ mái tóc của [Vána](../V/Vána.md), vợ ông, sau khi Valinor lẩn trốn. Nó được đàn ông gọi là Cầu vồng vì nó tỏa sáng rực rỡ khi trời mưa.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

@@ -27,9 +27,9 @@ sort_keys:
 - [2014](../_/2014.md): *[A Companion to J.R.R. Tolkien](../A/A_Companion_to_J.R.R._Tolkien.md)*, mục nhập
     - "Tolkien và tiếng Anh cổ"
 - [2014](../_/2014.md): [*Mallorn* 55](Mallorn_55.md):
-    - "'Xem một bức tranh trước mắt chúng ta': Lời bình của Tolkien trong [bản dịch *Beowulf*](../B/Beowulf%253A_A_Translation_and_Commentary.md) của anh ấy"
+    - "'See a Picture Before Us': Lời bình của Tolkien trong [bản dịch *Beowulf*](../B/Beowulf%253A_A_Translation_and_Commentary.md) của ông"
 - [2026](../_/2026.md): *[J.R.R. Tolkien and G.B. Smith: With Wind in our Ears](../J/J.R.R._Tolkien_and_G.B._Smith%253A_With_Wind_in_our_Ears.md)*
-    - "'Hỡi học giả xám với đôi mắt trầm lặng': Bài thơ Rime của G.B. Smith và ảnh hưởng của nó đối với tác phẩm của Tolkien"
+    - "'Hỡi học giả màu xám với đôi mắt trầm lặng': Bài thơ Rime của G.B. Smith và ảnh hưởng của nó đối với tác phẩm của Tolkien"
 
 ### Sách {#Books}
 
@@ -37,7 +37,7 @@ sort_keys:
 
 ### Bài giảng {#Lectures}
 
-- [2024](../_/2024.md): *Chiếc Arkenstone và Chiếc nhẫn: những đồ vật cố ý trong The Hobbit* của Tolkien([Oxford Đại học](../O/Oxford_University.md), có trên <a class="external text" href="https://www.youtube.com/watch?v=xvOvGdhHgfs" rel="noreferrer noopener" target="_blank">Youtube</a>)
+- [2024](../_/2024.md): *Arkenstone và chiếc nhẫn: những đồ vật cố ý trong The Hobbit của Tolkien* ([Đại học Oxford](../O/Oxford_University.md), có trên <a class="external text" href="https://www.youtube.com/watch?v=xvOvGdhHgfs" rel="noreferrer noopener" target="_blank">Youtube</a>)
 
 <span></span>
 

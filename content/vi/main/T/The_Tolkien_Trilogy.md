@@ -46,17 +46,17 @@ infobox:
 Bộ ba Tolkien là một loạt trò chơi bao gồm *[The Hobbit](The_Hobbit.md)* và *[The Lord of the Rings](The_Lord_of_the_Rings.md)* cũng bao gồm các phiên bản bìa mềm của *The Hobbit*, *[The Fellowship of the Ring](The_Fellowship_of_the_Ring.md)* và *[The Two Towers](The_Two_Towers.md)*. Nó chỉ được xuất bản ở Châu Âu.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Các trò chơi sau đây là một phần của bộ trò chơi:
 
 1. [The Hobbit](<The_Hobbit_(1982_video_game).md>)
-2. [Chúa tể của những chiếc nhẫn: Trò chơi thứ nhất](../L/Lord_of_the_Rings%253A_Game_One.md)
-3. [Bóng của Mordor](../S/Shadows_of_Mordor.md)
+2. [Lord of the Rings: Game One](../L/Lord_of_the_Rings%253A_Game_One.md)
+3. [Bóng tối của Mordor](../S/Shadows_of_Mordor.md)
 
-## Bộ ba phần mềm phiêu lưu Tolkien {#The_Tolkien_Software_Adventure_Trilogy}
+## Bộ ba phiêu lưu phần mềm Tolkien {#The_Tolkien_Software_Adventure_Trilogy}
 
-Sê-ri Cuộc phiêu lưu phần mềm Tolkien là một số trò chơi Cuộc phiêu lưu phần mềm bao gồm *[The Hobbit](The_Hobbit.md)* và *[The Lord of the Rings](The_Lord_of_the_Rings.md)* và bao gồm các ấn bản bìa mềm ở Châu Âu, *[The Hobbit](The_Hobbit.md)*, *[The Fellowship of the Ring](The_Fellowship_of_the_Ring.md)*, *[The Two Towers](The_Two_Towers.md)* và *[The Return of the King](The_Return_of_the_King.md)*. Nó chỉ được xuất bản ở Bắc Mỹ và Úc.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Các trò chơi sau đây là một phần của bộ trò chơi:
+Sê-ri Cuộc phiêu lưu phần mềm Tolkien là một số trò chơi Phiêu lưu phần mềm bao gồm *[The Hobbit](The_Hobbit.md)* và *[The Lord of the Rings](The_Lord_of_the_Rings.md)* và bao gồm các ấn bản bìa mềm ở Châu Âu, *[The Hobbit](The_Hobbit.md)*, *[The Fellowship of the Ring](The_Fellowship_of_the_Ring.md)*, *[The Two Towers](The_Two_Towers.md)* và *[The Return of the King](The_Return_of_the_King.md)*. Nó chỉ được xuất bản ở Bắc Mỹ và Úc.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Các trò chơi sau đây là một phần của bộ trò chơi:
 
-1. [The Hobbit Phiêu lưu phần mềm](The_Hobbit_Software_Adventure.md)
-2. [The Fellowship of the Ring Phiêu lưu phần mềm](The_Fellowship_of_the_Ring_Software_Adventure.md)
-3. [Bóng tối của cuộc phiêu lưu phần mềm Mordor](../S/Shadows_of_Mordor_Software_Adventure.md)
-4. [Crack of Doom Phiêu lưu phần mềm](../C/Crack_of_Doom_Software_Adventure.md)
+1. [The Hobbit Software Adventure](The_Hobbit_Software_Adventure.md)
+2. [Hiệp hội phiêu lưu phần mềm chiếc nhẫn](The_Fellowship_of_the_Ring_Software_Adventure.md)
+3. [Cuộc phiêu lưu phần mềm Shadows of Mordor](../S/Shadows_of_Mordor_Software_Adventure.md)
+4. [Cuộc phiêu lưu phần mềm Crack of Doom](../C/Crack_of_Doom_Software_Adventure.md)
 
 <span></span>
 

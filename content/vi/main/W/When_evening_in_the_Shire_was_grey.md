@@ -19,7 +19,7 @@ images:
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article describes a concept which is mentioned in <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s works, but was never given a definite name.
 </div></div>
 
-“**Khi buổi tối trong Shire xám xịt**” là dòng đầu tiên của bài thơ được [Frodo Baggins](../F/Frodo_Baggins.md) đọc thuộc lòng [Lothlórien](../L/Lothlórien.md) ở [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md). Thật đáng tiếc cho [Gandalf](../G/Gandalf.md), những người đã ngã xuống trong [Moria](../M/Moria.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+"**Khi buổi tối ở Shire xám xịt**" là dòng đầu tiên của bài thơ được [Frodo Baggins](../F/Frodo_Baggins.md) đọc trong [Lothlórien](../L/Lothlórien.md) ở [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md). Đó là sự tiếc thương cho [Gandalf](../G/Gandalf.md), người đã ngã xuống ở [Moria](../M/Moria.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Bài thơ {#Poem}
 

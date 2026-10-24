@@ -30,20 +30,20 @@ images:
 <p class="tg-quote-footer"><cite><a href="../G/Glóin.md" title="Glóin">Glóin</a></cite></p>
 </blockquote></div></div>
 
-**Tiếng Anh trung cổ** là tên do các nhà ngôn ngữ học lịch sử đặt cho các dạng ngôn ngữ tiếng Anh đa dạng được sử dụng từ cuối thế kỷ 11 đến khoảng năm 1470, mặc dù các học giả không đồng ý về niên đại chính xác của thời kỳ này. Thường được viết tắt là M.E., dạng tiếng Anh này phát triển từ [tiếng Anh cổ](../O/Old_English.md) và sau đó chuyển thành **[Tiếng Anh hiện đại sớm](Modern_English.md)**.
+**Tiếng Anh trung cổ** là tên do các nhà ngôn ngữ học lịch sử đặt cho các dạng ngôn ngữ tiếng Anh đa dạng được sử dụng từ cuối thế kỷ 11 đến khoảng năm 1470, mặc dù các học giả không đồng ý về niên đại chính xác của thời kỳ này. Thường được viết tắt là M.E., dạng tiếng Anh này phát triển từ [Tiếng Anh cổ](../O/Old_English.md) và sau đó chuyển thành **[Tiếng Anh hiện đại sớm](Modern_English.md)**.
 
 Trong số các bài viết của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) liên quan đến tiếng Anh trung cổ, chúng tôi tìm thấy *[Sir Gawain and the Green Knight](<../S/Sir_Gawain_and_the_Green_Knight_(edition).md>)*, *[A Middle English Vocabulary](../A/A_Middle_English_Vocabulary.md)*, *[Sir Gawain and the Green Knight, Pearl and Sir Orfeo](../S/Sir_Gawain_and_the_Green_Knight,_Pearl_and_Sir_Orfeo.md)*, các tiểu luận *[Ancrene Wisse and Hali Meiðhad](../A/Ancrene_Wisse_and_Hali_Meiðhad.md)* và *[Middle English 'Losenger'](Middle_English_'Losenger'.md)*, và bài thơ "[The Clerkes Compleinte](../T/The_Clerkes_Compleinte.md)".
 
 ## Xem thêm {#See_also}
 
 - [Ngôn ngữ AB](../A/AB_language.md)
-- [tiếng Anh cổ](../O/Old_English.md)
+- [Tiếng Anh cổ](../O/Old_English.md)
 - [Tiếng Anh hiện đại](Modern_English.md)
 
 ## Liên kết ngoài {#External_links}
 
 - <a class="extiw" href="http://en.wikipedia.org/wiki/Middle_English" title="wikipedia:Middle English">Tiếng Anh trung cổ</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
-- <a class="external text" href="http://www.carlaz.com/tolkien/mid_eng.html" rel="noreferrer noopener" target="_blank"><i>Từ "The Cuộc vây hãm Gondor" bằng tiếng Anh trung cổ</i></a>
+- <a class="external text" href="http://www.carlaz.com/tolkien/mid_eng.html" rel="noreferrer noopener" target="_blank"><i>Từ "Cuộc vây hãm Gondor" bằng tiếng Anh trung cổ</i></a>
 
 <span></span>
 

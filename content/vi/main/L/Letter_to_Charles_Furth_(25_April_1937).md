@@ -19,7 +19,7 @@ Vào [25 tháng 4](../_/25_April.md) [1937](../_/1937.md), [J.R.R. Tolkien](../J
 
 - **Chủ đề:** Tolkien trả lời thư từ Furth từ [ngày 15 tháng 4](../_/15_April.md), liên quan đến thiết kế áo khoác cho *[The Hobbit](../T/The_Hobbit.md)*.
 - **Xuất bản:** Trích dẫn trong thư xuất hiện trong *[The Hobbit 50th Anniversary](../T/The_Hobbit_50th_Anniversary.md)*,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và trong *[The J.R.R. Tolkien Companion and Guide](../T/The_J.R.R._Tolkien_Companion_and_Guide.md)*.<sup id="cite_ref-CG_1-1" class="reference"><a href="#cite_note-CG-1">[1]</a></sup>
-- **Lưu trữ:** Thư được lưu giữ tại kho lưu trữ Tolkien-George Allen &amp; Unwin.<sup id="cite_ref-CG_1-2" class="reference"><a href="#cite_note-CG-1">[1]</a></sup>
+- **Lưu trữ:** Bức thư được lưu giữ tại kho lưu trữ Tolkien-George Allen & Unwin.<sup id="cite_ref-CG_1-2" class="reference"><a href="#cite_note-CG-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}
 

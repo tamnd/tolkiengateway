@@ -39,12 +39,12 @@ Lindgren đã viết ba cuốn sách dành cho trẻ em thuộc thể loại gi�
 
 Vào cuối những năm 1940, khi *The Hobbit* của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được dịch sang tiếng Thụy Điển là *[Hompen](../H/Hompen.md)*, Lindgren chịu trách nhiệm về khoa Văn học thiếu nhi tại Rabén & Sjögren (nhà xuất bản bản dịch).<sup id="cite_ref-Lena_2-0" class="reference"><a href="#cite_note-Lena-2">[2]</a></sup>
 
-Tuy nhiên, rõ ràng tác phẩm của Tolkien không có ảnh hưởng trực tiếp đến tác phẩm của chính Lindgren. Trong khi người ta cho rằng cô ấy đã nói rằng Tolkien có ảnh hưởng lớn đến công việc của cô ấy,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> các nguồn thông tin khác cho rằng Lindgren trong một số cuộc phỏng vấn đã phủ nhận mọi ảnh hưởng của Tolkien và cô ấy thậm chí còn chưa đọc *The Lord of the Rings*.<sup id="cite_ref-Lena_2-1" class="reference"><a href="#cite_note-Lena-2">[2]</a></sup>
+Tuy nhiên, rõ ràng tác phẩm của Tolkien không có ảnh hưởng trực tiếp đến tác phẩm của Lindgren. Trong khi người ta cho rằng bà đã nói rằng Tolkien có ảnh hưởng lớn đến công việc của bà,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> các nguồn thông tin khác cho rằng Lindgren trong một số cuộc phỏng vấn đã phủ nhận bất kỳ ảnh hưởng nào của Tolkien và rằng bà thậm chí còn chưa đọc *The Lord of the Rings*.<sup id="cite_ref-Lena_2-1" class="reference"><a href="#cite_note-Lena-2">[2]</a></sup>
 
 ## Liên kết ngoài {#External_links}
 
 - <a class="extiw" href="http://en.wikipedia.org/wiki/Astrid_Lindgren" title="wikipedia:Astrid Lindgren">Astrid Lindgren</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
-- <a class="external text" href="http://mythoi.tolkienindex.net/#post1" rel="noreferrer noopener" target="_blank">Astrid Lindgren và Tove Jansson về <i>The Hobbit</i></a> của [Morgan Thomsen](../M/Morgan_Thomsen.md)
+- <a class="external text" href="http://mythoi.tolkienindex.net/#post1" rel="noreferrer noopener" target="_blank">Astrid Lindgren và Tove Jansson về <i>Người Hobbit</i></a> của [Morgan Thomsen](../M/Morgan_Thomsen.md)
 
 <span></span>
 

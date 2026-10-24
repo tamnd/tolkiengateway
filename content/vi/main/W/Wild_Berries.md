@@ -13,7 +13,7 @@ categories:
   - "Food"
 ---
 
-**Quả dại** mọc ở vùng [Thung lũng Anduin](../V/Vales_of_Anduin.md) phía trên. Trong [T.A.](../T/Third_Age.md) [2941](../T/Third_Age_2941.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> với tư cách là [Gandalf](../G/Gandalf.md), [những người lùn](../T/Thorin_and_Company.md) và [Bilbo Baggins](../B/Bilbo_Baggins.md) tìm cách trốn thoát khỏi [yêu tinh](../O/Orcs.md) trong [Dãy Núi Sương Mù](../M/Misty_Mountains.md), Bilbo đói khát đã tìm kiếm thức ăn khi họ hành quân. Mặc dù mâm xôi vẫn đang ra hoa và anh không tìm được quả táo gai nào nhưng Bilbo đã tìm được ba quả dâu dại.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Quả mọng dại** mọc ở vùng thượng lưu [Thung lũng Anduin](../V/Vales_of_Anduin.md). Trong [T.A.](../T/Third_Age.md) [2941](../T/Third_Age_2941.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> với vai [Gandalf](../G/Gandalf.md), [những người lùn](../T/Thorin_and_Company.md) và [Bilbo Baggins](../B/Bilbo_Baggins.md) tìm cách trốn thoát khỏi [yêu tinh](../O/Orcs.md) ở [Dãy núi Sương mù](../M/Misty_Mountains.md), Bilbo đói khát đã tìm kiếm thức ăn khi họ hành quân. Mặc dù những quả mâm xôi vẫn đang ra hoa và ông ta không thể tìm thấy quả táo gai nào, nhưng Bilbo đã tìm được ba quả dâu tây dại.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

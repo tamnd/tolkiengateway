@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gwaihir"
 ---
 
-Chuyển hướng đến [Gwaihir](../G/Gwaihir.md).
+Chuyển hướng tới [Gwaihir](../G/Gwaihir.md).

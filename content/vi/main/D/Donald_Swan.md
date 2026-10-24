@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Donald Swann"
 ---
 
-Chuyển hướng đến [Donald Swann](Donald_Swann.md).
+Chuyển hướng tới [Donald Swann](Donald_Swann.md).

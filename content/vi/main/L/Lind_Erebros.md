@@ -16,13 +16,13 @@ sort_keys:
   "Russian people": "Erebros, Lind"
 ---
 
-**Lind Erebros** là nhà soạn nhạc người Nga tên là Mikhail Anatolyevich Kostylev<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>. Chuyên về nhạc phim trò chơi điện tử, Lind cũng đã phát hành bộ ba album theo chủ đề gắn liền với chất liệu từ [Silmarillion](../S/Silmarillion.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Lind Erebros** là nhà soạn nhạc người Nga tên là Mikhail Anatolyevich Kostylev<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>. Chuyên về nhạc phim trò chơi điện tử, Lind cũng đã phát hành bộ ba album có chủ đề gắn liền với chất liệu từ [Silmarillion](../S/Silmarillion.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Album {#Albums}
 
-- [Tiên Nguyện I: Sự tái sinh của ánh sáng](../E/Elven_Oratory_I%253A_Rebirth_of_Light.md) (2009)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
-- [Tiên Nguyện II: Noldolante](../E/Elven_Oratory_II%253A_Noldolante.md) (2012)<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
-- [Tiên Nhà nguyện III: Lay of Leithian](../E/Elven_Oratory_III%253A_Lay_of_Leithian.md) (2015)<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+- [Elven Oratory I: Rebirth of Light](../E/Elven_Oratory_I%253A_Rebirth_of_Light.md) (2009)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+- [Elven Oratory II: Noldolante](../E/Elven_Oratory_II%253A_Noldolante.md) (2012)<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+- [Elven Oratory III: Lay of Leithian](../E/Elven_Oratory_III%253A_Lay_of_Leithian.md) (2015)<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 <br>
 

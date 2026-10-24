@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Pilla, Daniel"
 ---
 
-- Daniel Pilla đã vui lòng cho phép anh ấy sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Daniel_Pilla.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
+- Daniel Pilla đã vui lòng cho phép ông sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Daniel_Pilla.md) trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
 - Ngày: 2 tháng 4 năm 2015
 - Người dùng đã xin phép qua email: [Người dùng: Mith](https://tolkiengateway.net/wiki/User:Mith)

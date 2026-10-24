@@ -21,12 +21,12 @@ images:
 
 ## Thông tin xuất bản DVD {#DVD_publication_information}
 
-"*Bộ phim này kể về câu chuyện của [John Ronald Reuel Tolkien](J.R.R._Tolkien.md), nhà văn, nhà thơ, nhà ngữ văn người Anh và là tác giả của nhiều câu chuyện, trong đó nổi tiếng nhất là [The Hobbit](../T/The_Hobbit.md) và [The Lord of the Rings](../T/The_Lord_of_the_Rings.md). Phim mô tả tầm quan trọng của vùng nông thôn Phương Tây Midlands ở Anh, nơi Tolkien lớn lên, trong việc hình thành trí tưởng tượng văn học của ông cũng như cách các ngôn ngữ phương Bắc cổ mà ông đã học và dạy trong suốt cuộc đời đã ảnh hưởng đến tác phẩm của ông. Những yếu tố này đã kích thích ông đưa ra bối cảnh trong đó ngôn ngữ do chính ông sáng tạo ra có thể được nói: một vùng đất tưởng tượng tên là [Trung Địa](../M/Middle-earth.md). Những câu chuyện về nguồn gốc của The Hobbit và của The Lord of the Rings, cũng như sự thành công phi thường mà Tolkien có phần miễn cưỡng được hưởng khi tiếp nhận nền văn hóa phản văn hóa của những năm 1960.*"
+"*Bộ phim này kể về câu chuyện của [John Ronald Reuel Tolkien](J.R.R._Tolkien.md), nhà văn, nhà thơ, nhà ngữ văn người Anh và là tác giả của nhiều câu chuyện, trong đó nổi tiếng nhất là [The Hobbit](../T/The_Hobbit.md) và [The Lord of the Rings](../T/The_Lord_of_the_Rings.md). Phim mô tả tầm quan trọng của vùng nông thôn West Midlands nước Anh, nơi Tolkien lớn lên, trong việc hình thành trí tưởng tượng văn học của ông và cách các ngôn ngữ miền Bắc cổ mà ông nghiên cứu và dạy trong suốt cuộc đời đã ảnh hưởng đến việc viết lách của ông. Những yếu tố này đã kích thích ông cung cấp bối cảnh trong đó các ngôn ngữ do chính ông sáng tạo ra có thể được nói đến: một vùng đất tưởng tượng tên là [Trung địa](../M/Middle-earth.md). Những câu chuyện kể về nguồn gốc của Người Hobbit và Chúa tể của những chiếc nhẫn, cũng như thành công phi thường mà Tolkien có phần miễn cưỡng tận hưởng khi tiếp nhận nền văn hóa phản văn hóa những năm 1960.*"
 
 ## Diễn viên và đoàn làm phim {#Cast_and_Crew}
 
 - Người kể chuyện: Juliet Aubrey
-- The Hobbit Thực hiện bởi [Rob Inglis](../R/Rob_Inglis.md)
+- Người Hobbit do [Rob Inglis thể hiện](../R/Rob_Inglis.md)
 - Bài đọc của Chris Villiers
 - Do Julian Birkett sản xuất và đạo diễn
-- Biên tập bộ truyện: Michael Poole
+- Biên tập loạt bài: Michael Poole

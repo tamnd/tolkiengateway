@@ -30,11 +30,11 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-[Númenor](../N/Númenor.md), rút ​​gọn từ *[Númenórë](../N/Númenórë.md)*, là phát minh của chính ông, Tolkien cho biết. Nó là từ ghép của *numē-n*, "đi xuống" (NDŪ, NU), hoàng hôn, Phương Tây và *nórë* "đất, đất nước". Truyền thuyết về *Númenórë* là nền tảng cho *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*. Họ là phiên bản huyền thoại *Atlantis* của riêng anh, không dựa trên *knowledge* đặc biệt mà dựa trên truyền thống của những người đàn ông có văn hóa từ Biển.
+Tolkien cho biết [Númenor](../N/Númenor.md), rút ​​ngắn từ *[Númenórë](../N/Númenórë.md)*, là phát minh của chính ông. Nó là sự kết hợp của *numē-n*, "đi xuống" (NDŪ, NU), hoàng hôn, hướng Tây và *nórë* "đất, đất nước". Truyền thuyết về *Númenórë* là nền tảng cho *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*. Họ là phiên bản huyền thoại *Atlantis* của riêng anh, không dựa trên *knowledge* đặc biệt mà dựa trên truyền thống của những người đàn ông mang văn hóa đến từ Biển.
 
-Tolkien nói rằng [C.S. Lewis](../C/C.S._Lewis.md) là một người bạn rất cũ và chính sự động viên của anh ấy đã khiến anh ấy cuối cùng hoàn thành *The Lord of the Rings*. Anh ấy đã nghe đọc to tất cả nhưng chưa bao giờ nhìn thấy nó được in cho đến khi bộ ba của anh ấy được xuất bản. *Numinor* của anh ấy được bắt nguồn từ tên của Tolkien.
+Tolkien nói rằng [C.S. Lewis](../C/C.S._Lewis.md) là một người bạn rất cũ và chính sự động viên của ông đã thúc đẩy ông hoàn thành *The Lord of the Rings*. Ông đã nghe đọc to tất cả nhưng chưa bao giờ nhìn thấy nó được in cho đến khi bộ ba của ông được xuất bản. *Numinor* của ông được bắt nguồn từ tên của Tolkien.
 
-Tolkien cho biết anh ấy đang có hợp đồng chuẩn bị xuất bản thần thoại và các câu chuyện từ phần [Đầu tiên](../F/First_Age.md) và [Thứ hai](../S/Second_Age.md) Kỷ nguyên. Nó đã không được coi là có thể xuất bản cho đến khi thành công đáng ngạc nhiên của *The Lord of the Rings*. Tuy nhiên, *The Silmarillion* không có hobbit, ít niềm vui hay trần tục mà có nhiều đau buồn và thảm họa. Nó phải làm hài lòng những nhà phê bình đã tuyên bố sai lầm rằng trong *The Lord of the Rings* "mọi người đều hạnh phúc mãi mãi" - nếu họ hạ cố để ý đến điều đó.
+Tolkien cho biết ông đang có hợp đồng chuẩn bị xuất bản thần thoại và những câu chuyện từ Thời đại [Thứ nhất](../F/First_Age.md) và [Thứ hai](../S/Second_Age.md). Nó đã không được coi là có thể xuất bản cho đến khi thành công đáng ngạc nhiên của *The Lord of the Rings*. Tuy nhiên, *The Silmarillion* không có hobbit, ít niềm vui hay trần tục mà có nhiều đau buồn và thảm họa. Nó phải làm hài lòng những nhà phê bình đã tuyên bố sai lầm rằng trong *The Lord of the Rings* "mọi người đều hạnh phúc mãi mãi" - nếu họ hạ cố để ý đến điều đó.
 
 ## Xem thêm {#See_also}
 

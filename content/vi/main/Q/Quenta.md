@@ -13,7 +13,7 @@ categories:
   - "Quenya nouns"
 ---
 
-**quenta** là từ [Quenya](Quenya.md) được dịch là "tài khoản, tường thuật, câu chuyện".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**quenta** là một từ [Quenya](Quenya.md) được dịch là "tài khoản, tường thuật, câu chuyện".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -39,7 +39,7 @@ Từ này bắt nguồn từ danh từ [PQ](../P/PQ.md) \*<i><a class="new" href
 
 ## Có cùng nguồn gốc {#Cognates}
 
-- [Sindarin](../S/Sindarin.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Pent&amp;action=edit&amp;redlink=1" title="Pent (page does not exist)">tặng</a>, <a class="new" href="https://tolkiengateway.net/w/index.php?title=Pennas&amp;action=edit&amp;redlink=1" title="Pennas (page does not exist)">đồng xu</a></i>
+- [Sindarin](../S/Sindarin.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Pent&amp;action=edit&amp;redlink=1" title="Pent (page does not exist)">pent</a>, <a class="new" href="https://tolkiengateway.net/w/index.php?title=Pennas&amp;action=edit&amp;redlink=1" title="Pennas (page does not exist)">pennas</a></i>
 
 ## Cảm hứng {#Inspiration}
 

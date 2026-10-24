@@ -23,11 +23,11 @@ images:
 
 <figure class="mw-default-size mw-halign-left" typeof="mw:File"><a class="mw-file-description" href="../../file/U/Ungwe.gif.md"><img src="https://tolkiengateway.net/w/images/9/9c/Ungwe.gif" decoding="async" loading="lazy" width="53" height="65" class="mw-file-element" data-file-width="53" data-file-height="65"/></a><figcaption></figcaption></figure>
 
-*Ungwë* cũng là tên trong Quenya của chữ cái thứ tám trong bảng chữ cái [Tengwar](../T/Tengwar.md).<sup id="cite_ref-Names_1-1" class="reference"><a href="#cite_note-Names-1">[1]</a></sup> Đây là chữ cái thứ tư của lớp hai hoặc [Tyellë](../T/Tyellë.md), chứa "dừng vô thanh" và là chữ cái đầu tiên trong chuỗi phụ âm thứ tư. Đối với Quenya hoặc [Sindarin](../S/Sindarin.md)được viết, sê-ri thứ tư được sử dụng cho sê-ri labialized hoặc *kw*, *[Quessetéma](../Q/Quessetéma.md)*.<sup id="cite_ref-Letters_2-0" class="reference"><a href="#cite_note-Letters-2">[2]</a></sup> Trong cách viết chuẩn của Quenya, *Ungwë*đại diện cho **NGW**<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> trong khi ở [Sindarin](../S/Sindarin.md) chữ cái này đại diện cho **GW**. Trong [Westron](../W/Westron.md) sê-ri thứ tư được sử dụng cho sê-ri *k*, *[Calmatéma](../C/Calmatéma.md)*và chữ cái này đại diện cho **G**.<sup id="cite_ref-Letters_2-1" class="reference"><a href="#cite_note-Letters-2">[2]</a></sup> Tên Westron cho chữ cái này là <i><b>Gá</b></i>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+*Ungwë* cũng là tên bằng tiếng Quenya của chữ cái thứ tám trong bảng chữ cái [Tengwar](../T/Tengwar.md).<sup id="cite_ref-Names_1-1" class="reference"><a href="#cite_note-Names-1">[1]</a></sup> Đây là chữ cái thứ tư của lớp hai hoặc [Tyellë](../T/Tyellë.md), có chứa "dừng vô thanh" và là chữ cái đầu tiên trong chuỗi phụ âm thứ tư. Đối với chữ viết Quenya hoặc [Sindarin](../S/Sindarin.md), sê-ri thứ tư được sử dụng cho sê-ri labialized hoặc *kw*, *[Quessetéma](../Q/Quessetéma.md)*.<sup id="cite_ref-Letters_2-0" class="reference"><a href="#cite_note-Letters-2">[2]</a></sup> Trong cách viết chuẩn của Quenya, *Ungwë*đại diện cho **NGW**<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> trong khi ở [Sindarin](../S/Sindarin.md) chữ cái này đại diện cho **GW**. Ở [Westron](../W/Westron.md) dãy thứ tư được sử dụng cho dãy *k*, *[Calmatéma](../C/Calmatéma.md)* và chữ cái này đại diện cho **G**.<sup id="cite_ref-Letters_2-1" class="reference"><a href="#cite_note-Letters-2">[2]</a></sup> Tên Westron cho chữ cái này là <i><b>Gá</b></i>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Từ này bắt nguồn từ [Primitive Quendian](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=U%C3%91G&amp;action=edit&amp;redlink=1" title="UÑG (page does not exist)">UÑG</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Từ này bắt nguồn từ [Quendian nguyên thủy](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=U%C3%91G&amp;action=edit&amp;redlink=1" title="UÑG (page does not exist)">UÑG</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Ví dụ {#Example}
 
@@ -35,7 +35,7 @@ Từ này bắt nguồn từ [Primitive Quendian](../P/Primitive_Quendian.md) [g
 
 ## Xem thêm {#See_also}
 
-- <a class="external text" href="http://www.uib.no/People/hnohf/qlist.htm" rel="noreferrer noopener" target="_blank">Quenya Danh sách từ ngữ liệu</a> được chỉnh sửa bởi [Helge Fauskanger](../H/Helge_Fauskanger.md)
+- <a class="external text" href="http://www.uib.no/People/hnohf/qlist.htm" rel="noreferrer noopener" target="_blank">Danh sách từ Quenya Corpus</a> được chỉnh sửa bởi [Helge Fauskanger](../H/Helge_Fauskanger.md)
 
 <span></span>
 

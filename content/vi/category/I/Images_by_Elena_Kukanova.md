@@ -14,4 +14,4 @@ sort_keys:
   "Images by artist": "Kukanova, Elena"
 ---
 
-Danh mục này liệt kê tất cả **hình ảnh theo [Elena Kukanova](../../main/E/Elena_Kukanova.md)**.
+Thể loại này liệt kê tất cả **hình ảnh của [Elena Kukanova](../../main/E/Elena_Kukanova.md)**.

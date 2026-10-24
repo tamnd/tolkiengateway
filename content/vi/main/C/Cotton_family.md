@@ -24,13 +24,13 @@ langlinks:
     url: "https://kontu.wiki/T%C3%B6lli"
 ---
 
-**Gia đình Cotton** là một gia đình thuộc tầng lớp lao động [Hobbit](../H/Hobbits.md).
+**Gia đình Cotton** là một gia đình thuộc tầng lớp lao động của [Người Hobbit](../H/Hobbits.md).
 
 ## Xuất xứ {#Origin}
 
-[Cottar](Cottar.md), người sáng lập gia tộc Cotton, sinh trước [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md)khoảng hai trăm năm. Cháu trai của ông, [Holman](../H/Holman_Cotton.md), là người đầu tiên lấy họ Cotton. "Long Hom", như Holman được biết đến, cũng là ngôi làng đầu tiên của Cottons được kết nối rõ ràng với làng [Bywater](../B/Bywater.md), nơi vẫn là trụ sở của gia đình kể từ thời điểm đó.<sup id="cite_ref-Gamgee_1-0" class="reference"><a href="#cite_note-Gamgee-1">[1]</a></sup>
+[Cottar](Cottar.md), người sáng lập gia tộc Cotton, sinh ra khoảng hai trăm năm trước [Chiến tranh Nhẫn](../W/War_of_the_Ring.md). Cháu trai của ông, [Holman](../H/Holman_Cotton.md), là người đầu tiên lấy họ Cotton. "Long Hom", như Holman đã được biết đến, cũng là ngôi làng đầu tiên của Cottons được kết nối rõ ràng với ngôi làng [Bywater](../B/Bywater.md), nơi vẫn là trụ sở của gia đình kể từ thời điểm đó.<sup id="cite_ref-Gamgee_1-0" class="reference"><a href="#cite_note-Gamgee-1">[1]</a></sup>
 
-Con trai của Holman [Tolman](../T/Tolman_Cotton_Senior.md) đã canh tác những vùng đất ở phía nam Bywater và chính ông là người đã khiến gia đình trở thành một trong những gia đình quan trọng nhất ở [ Shire](../T/The_Shire.md). Ông đóng một vai trò quan trọng trong [Trận Bywater](../B/Battle_of_Bywater.md)mang tính quyết định, bước quan trọng nhất trong quá trình phục hồi Shire từ Con Người](../S/Sharkey's_Men.md) của [Sharkey,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và con gái ông [Rose](../R/Rose_Cotton.md) kết hôn [Samwise Gamgee](../S/Samwise_Gamgee.md) vào mùa xuân năm sau.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Con trai của Holman [Tolman](../T/Tolman_Cotton_Senior.md) làm ruộng ở vùng đất phía nam Bywater, và chính ông là người đã khiến gia đình trở thành một trong những gia đình quan trọng nhất ở [Shire](../T/The_Shire.md). Ông đóng một vai trò quan trọng trong [Trận chiến Bywater](../B/Battle_of_Bywater.md) mang tính quyết định, bước quan trọng nhất trong quá trình phục hồi Quận từ [Sharkey's Men](../S/Sharkey's_Men.md),<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và con gái ông [Rose](../R/Rose_Cotton.md) kết hôn với [Samwise Gamgee](../S/Samwise_Gamgee.md) vào mùa xuân năm sau.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Cây họ Bông {#The_Cotton_family_tree}
 
@@ -52,13 +52,13 @@ Hiển thị các thành viên nổi bật của tộc Cotton.<sup id="cite_ref-
 
 Tên *Cotton* là họ tiếng Anh có thật và có nghĩa là "thị trấn biệt thự".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
-Do đó, cái tên này có thể đại diện cho một [Cũ Hobbitish](../O/Old_English.md) *Cottun* "thị trấn có những ngôi nhà nhỏ".<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Do đó, cái tên này có thể đại diện cho một "thị trấn có nhà tranh" [người Hobbit cổ](../O/Old_English.md) *Cottun*.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
-Nó cũng là bản dịch của [Westron](../W/Westron.md) <i><b>Hlothran</b></i>, gắn liền với tên *[Hlothram](Cotman.md#Etymology)*. Hlothran là "một tên làng khá phổ biến trong Shire",<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> mặc dù không có tên nào được đề cập (hoặc đủ đáng chú ý) trên bất kỳ bản đồ nào.
+Nó cũng là bản dịch của [Westron](../W/Westron.md) <i><b>Hlothran</b></i>, gắn liền với tên *[Hlothram](Cotman.md#Etymology)*. Hlothran là "một tên làng khá phổ biến ở Shire",<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> mặc dù không có tên nào được nhắc đến (hoặc đủ đáng chú ý) trên bất kỳ bản đồ nào.
 
 ## Cảm hứng {#Inspiration}
 
-[J.R.R. Tolkien](../J/J.R.R._Tolkien.md) chọn ghép Cottons với [Gamgees](../G/Gamgee_family.md) vì *Gamgee cotton* (còn được gọi là *Gamgee tissue*), một loại mô phẫu thuật mà anh ấy đã nghe nói đến khi còn nhỏ. Nó được phát minh bởi <a class="external text" href="http://en.wikipedia.org/wiki/Sampson_Gamgee" rel="noreferrer noopener" target="_blank">J. Sampson Gamgee</a>.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
+[J.R.R. Tolkien](../J/J.R.R._Tolkien.md) chọn ghép Cottons với [Gamgees](../G/Gamgee_family.md) vì *Gamgee cotton* (còn được gọi là *Gamgee tissue*), một loại mô phẫu thuật mà anh đã nghe nói đến khi còn nhỏ. Nó được phát minh bởi <a class="external text" href="http://en.wikipedia.org/wiki/Sampson_Gamgee" rel="noreferrer noopener" target="_blank">J. Sampson Gamgee</a>.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
 
 <span></span>
 

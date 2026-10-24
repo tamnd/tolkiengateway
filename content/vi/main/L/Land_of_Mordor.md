@@ -27,7 +27,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Band</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Land of Mordor</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Background Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Origin</th><td class="tg-infobox-data">Spain</td></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data">heavy/progressive/power/death metal</td></tr><tr><th scope="row" class="tg-infobox-label">Years active</th><td class="tg-infobox-data">2001-present</td></tr><tr><th scope="row" class="tg-infobox-label">website</th><td class="tg-infobox-data"><a class="external text" href="http://www.myspace.com/landofmordorofficial/" rel="noreferrer noopener" target="_blank">Official Myspace</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Members</span></th></tr><tr><th scope="row" class="tg-infobox-label">Current Members</th><td class="tg-infobox-data">Gonzalo Abellán<br/>Raimon Santiago<br/>Pedro Vazquez<br/>Alex Yuste<br/>Javier Ortiz</td></tr></tbody></table>
 
-**Vùng đất của Mordor** là kim loại tiến bộ/cái chết/sức mạnh liên quan đến Tolkien được hình thành vào năm 2001 tại Tây Ban Nha. Album đầu tay của họ tập trung vào [Trung Địa](../M/Middle-earth.md), với các bài hát mang tên "Lothlorien", "Mordor", "Two Towers" và "Vua's Return".
+**Land of Mordor** là một kim loại tiến bộ/cái chết/sức mạnh liên quan đến Tolkien được thành lập vào năm 2001 tại Tây Ban Nha. Album đầu tay của họ tập trung vào [Trung địa](../M/Middle-earth.md), với các bài hát có tên "Lothlorien", "Mordor", "Two Towers" và "King's Return".
 
 ## Thành viên {#Members}
 

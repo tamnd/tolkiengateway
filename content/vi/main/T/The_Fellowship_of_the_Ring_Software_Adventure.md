@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lord of the Rings: Game One"
 ---
 
-Chuyển hướng tới [Chúa tể của những chiếc nhẫn: Trò chơi thứ nhất](../L/Lord_of_the_Rings%253A_Game_One.md).
+Chuyển hướng đến [Lord of the Rings: Game One](../L/Lord_of_the_Rings%253A_Game_One.md).

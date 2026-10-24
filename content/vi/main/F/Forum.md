@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Forums:Council"
 ---
 
-Chuyển hướng đến [Diễn đàn:Hội đồng](https://tolkiengateway.net/wiki/Forums:Council).
+Chuyển hướng tới [Diễn đàn:Hội đồng](https://tolkiengateway.net/wiki/Forums:Council).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Old English Exodus"
 ---
 
-Chuyển hướng đến [Cuộc di cư tiếng Anh cổ](../T/The_Old_English_Exodus.md).
+Chuyển hướng tới [Cuộc di cư ở Anh cổ](../T/The_Old_English_Exodus.md).

@@ -22,7 +22,7 @@ sort_keys:
 
 ## Vai trò {#Roles}
 
-- [2010](../_/2010.md): *[The Lord of the Rings: Aragorn's Quest](../T/The_Lord_of_the_Rings%253A_Aragorn's_Quest.md)*: [Merry Người làm vườn](../M/Merry_Gardner.md)
+- [2010](../_/2010.md): *[The Lord of the Rings: Aragorn's Quest](../T/The_Lord_of_the_Rings%253A_Aragorn's_Quest.md)*: [Người làm vườn vui vẻ](../M/Merry_Gardner.md)
 
 ## Liên kết ngoài {#External_links}
 

@@ -21,8 +21,8 @@ images:
 <p class="tg-quote-footer"><cite><a href="Glóin.md" title="Glóin">Glóin</a></cite></p>
 </blockquote></div></div>
 
-**Garn** là từ [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) thích chơi đùa xuyên suốt các tác phẩm của mình.
+**Garn** là một từ [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) thích chơi đùa xuyên suốt các tác phẩm của mình.
 
 ## Liên kết ngoài {#External_links}
 
-Cách sử dụng từ "Garn!"</a> của - <a class="external text" href="http://translationjournal.net/journal/32garn.htm#:~:text=The%20word%20garn%20is%20a,A%20Character%20Study%20(1911)." rel="noreferrer noopener" target="_blank">Tolkien của [Mark T. Hooker](../M/Mark_T._Hooker.md)
+- <a class="external text" href="http://translationjournal.net/journal/32garn.htm#:~:text=The%20word%20garn%20is%20a,A%20Character%20Study%20(1911)." rel="noreferrer noopener" target="_blank">Cách Tolkien sử dụng từ "Garn!"</a> của [Mark T. Hooker](../M/Mark_T._Hooker.md)

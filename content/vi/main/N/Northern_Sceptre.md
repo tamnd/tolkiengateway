@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sceptre of Annúminas"
 ---
 
-Chuyển hướng đến [Vương trượng Annúminas](../S/Sceptre_of_Annúminas.md).
+Chuyển hướng tới [Quyền trượng Annúminas](../S/Sceptre_of_Annúminas.md).

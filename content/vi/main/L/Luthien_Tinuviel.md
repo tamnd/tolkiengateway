@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lúthien"
 ---
 
-Chuyển hướng đến [Lúthien](Lúthien.md).
+Chuyển hướng tới [Lúthien](Lúthien.md).

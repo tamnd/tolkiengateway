@@ -24,7 +24,7 @@ images:
 <p class="tg-quote-footer"><cite><a href="Aragorn.md" title="Aragorn">Aragorn</a></cite></p>
 </blockquote></div></div>
 
-**Ann Maskrey** là một nhà thiết kế trang phục người Anh, từng làm việc trong loạt phim [*The Hobbit*](<../T/The_Hobbit_(film_series).md>) cùng với Bob Buck và [Richard Taylor](../R/Richard_Taylor.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+**Ann Maskrey** là một nhà thiết kế trang phục người Anh, từng làm việc cho loạt phim [*The Hobbit*](<../T/The_Hobbit_(film_series).md>) cùng với Bob Buck và [Richard Taylor](../R/Richard_Taylor.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Liên kết ngoài {#External_links}
 

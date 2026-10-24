@@ -16,9 +16,9 @@ images:
 
 **Carl** có thể đề cập đến:
 
-## Trung Địa {#Middle-earth}
+## Trung địa {#Middle-earth}
 
-Có khả năng kết nối với [Rohanese](../R/Rohanese.md) **[Ceorl](Ceorl.md)**, **Carl** đã được sử dụng bởi một số Hobbit tổ tiên của [Gia đình Cotton](Cotton_Family~66362.md).
+Có khả năng kết nối với [Rohanese](../R/Rohanese.md) **[Ceorl](Ceorl.md)**, **Carl** đã được sử dụng bởi một số người Hobbit trong tổ tiên của [Gia đình Cotton](Cotton_Family~66362.md).
 
 - [Carl](<Carl_(son_of_Cottar).md>) (sinh [S.R.](../S/Shire_Reckoning.md) [1263](../T/Third_Age_2863.md)), con trai thứ hai của [Cottar](Cottar.md).
 - [Carl "Nibs" Cotton](Carl_Cotton.md) (sinh [S.R.](../S/Shire_Reckoning.md) [1389](../T/Third_Age_2989.md)), con trai út của [Tolman Cotton Senior](../T/Tolman_Cotton_Senior.md).

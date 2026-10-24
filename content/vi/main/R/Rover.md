@@ -32,9 +32,9 @@ images:
 
 ## Các xe thám hiểm khác {#Other_Rovers}
 
-**Rover**, chú chó [mặt trăng](../M/Moon.md), là chú chó bay của [Người-trong-Mặt Trăng](../M/Man-in-the-Moon.md). Vì chú chó mặt trăng trùng tên nên Rover được đặt tên là "Roverandom".<sup id="cite_ref-Roverandom_1-1" class="reference"><a href="#cite_note-Roverandom-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:26</sup>
+**Rover**, chú chó [mặt trăng](../M/Moon.md), là chú chó bay của [Người trong Mặt trăng](../M/Man-in-the-Moon.md). Do chú chó mặt trăng có cùng tên nên Rover được đặt tên là "Roverandom".<sup id="cite_ref-Roverandom_1-1" class="reference"><a href="#cite_note-Roverandom-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:26</sup>
 
-**Rover**, chú chó đánh cá, thuộc sở hữu của con gái Mer-king (Bà [Artaxerxes](../A/Artaxerxes.md)) và tham gia chuyến phiêu lưu quanh Deep Blue Biển cùng Rover.<sup id="cite_ref-Roverandom_1-2" class="reference"><a href="#cite_note-Roverandom-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:63</sup>
+**Rover**, chú chó đánh cá, thuộc sở hữu của con gái Mer-king (Bà [Artaxerxes](../A/Artaxerxes.md)) và tham gia chuyến phiêu lưu quanh Biển Xanh Sâu thẳm cùng Rover.<sup id="cite_ref-Roverandom_1-2" class="reference"><a href="#cite_note-Roverandom-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:63</sup>
 
 <span></span>
 

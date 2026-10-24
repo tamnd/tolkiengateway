@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Men"
 ---
 
-Chuyển hướng đến [Con Người](../M/Men.md).
+Chuyển hướng tới [Nam giới](../M/Men.md).

@@ -22,15 +22,15 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/Joseph_Wright.jpg.md"><img src="https://tolkiengateway.net/w/images/5/5e/Joseph_Wright.jpg" decoding="async" loading="lazy" width="205" height="313" class="mw-file-element" data-file-width="205" data-file-height="313"/></a><figcaption>Joseph Wright, also located on page 33 of <i><a href="../T/The_Tolkien_Family_Album.md" title="The Tolkien Family Album">The Tolkien Family Album</a></i></figcaption></figure>
 
-**Joseph Wright** ([31 tháng 10](../_/31_October.md) [1855](../_/1855.md) – [27 tháng 2](../_/27_February.md) [1930](../_/1930.md)) một nhà ngữ văn người Đức gốc Anh. Ông từng là Giáo sư Ngữ văn So sánh tại [Đại học Oxford](../U/University_of_Oxford.md), nơi ông là một trong những giảng viên của [J.R.R. Tolkien](J.R.R._Tolkien.md).
+**Joseph Wright** ([31 tháng 10](../_/31_October.md) [1855](../_/1855.md) – [27 tháng 2](../_/27_February.md) [1930](../_/1930.md)) một nhà ngữ văn người Đức gốc Anh. Ông từng là Giáo sư Ngữ văn So sánh tại [Đại học Oxford](../U/University_of_Oxford.md), nơi ông là một trong những trợ giảng của [J.R.R. Tolkien](J.R.R._Tolkien.md).
 
-Trong những năm Tolkien còn là một cậu học sinh, lần đầu tiên anh làm quen với các tác phẩm của Wright, đặc biệt là *Primer of the Gothic Language*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Văn bản này cung cấp cái nhìn sâu sắc về những nghiên cứu ban đầu của Tolkien về ngôn ngữ Đức.
+Trong những năm Tolkien còn là một cậu học sinh, lần đầu tiên ông làm quen với các tác phẩm của Wright, đặc biệt là *Primer of the Gothic Language*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Văn bản này cung cấp cái nhìn sâu sắc về những nghiên cứu ban đầu của Tolkien về ngôn ngữ Đức.
 
-Trong một lá thư đề ngày [26 tháng 1](../_/26_January.md) [1925](../_/1925.md), Tolkien bày tỏ lòng biết ơn đối với Wright trước ngày ông nghỉ hưu, nói rằng: "Chính những tác phẩm của anh đã đến với tôi một cách tình cờ khi còn là một cậu học sinh, điều đó lần đầu tiên tiết lộ cho tôi nền ngữ văn mà tôi yêu thích".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Tolkien sau đó đã nói về Wright rằng anh ấy "đã chứng tỏ là một người bạn và cố vấn tốt".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Trong một bức thư đề ngày [26 tháng 1](../_/26_January.md) [1925](../_/1925.md), Tolkien bày tỏ lòng biết ơn đối với Wright trước ngày ông nghỉ hưu, nói rằng: "Chính những tác phẩm của ông đã đến với tôi một cách tình cờ khi còn là một cậu học sinh, điều đó lần đầu tiên tiết lộ cho tôi nền ngữ văn mà tôi yêu thích".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Tolkien sau này đã nói về Wright rằng ông "đã chứng tỏ là một người bạn và cố vấn tốt".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Tuy nhiên, tác động của Wright đối với Tolkien không chỉ giới hạn ở tiếng Đức, vì anh ấy đã học được nhiều tiếng Hy Lạp, [tiếng Latinh](../L/Latin.md) và tiếng Wales từ anh ấy. Hai người tiếp tục là bạn thân và Tolkien nhớ thường xuyên đến nhà Wright uống trà và trò chuyện.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Tuy nhiên, tác động của Wright đối với Tolkien không chỉ giới hạn ở tiếng Đức, vì ông đã học được nhiều tiếng Hy Lạp, [tiếng Latinh](../L/Latin.md) và tiếng Wales từ ông. Hai người tiếp tục là bạn thân và Tolkien nhớ thường xuyên đến nhà Wright uống trà và trò chuyện.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
-Trong [1925](../_/1925.md) Wright đã viết thư giới thiệu cho Tolkien ứng tuyển vào [Rawlinson và Bosworth Professorship of Anglo-Saxon](../R/Rawlinson_and_Bosworth_Professorship_of_Anglo-Saxon.md):
+Trong [1925](../_/1925.md) Wright đã viết thư giới thiệu cho đơn đăng ký của Tolkien tại [Rawlinson và Bosworth Professorship of Anglo-Saxon](../R/Rawlinson_and_Bosworth_Professorship_of_Anglo-Saxon.md):
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
 <p>I have known Professor Tolkien intimately since the beginning of his undergraduate days at Oxford, and have greatly admired his keen interest in the philological study of Latin, Greek, and more especially the Germanic Languages. He regularly attended my classes and lectures for two years on Comparative Philology in general, and on Latin, Greek, and Gothic, and I formed a high opinion of his attainments in these subjects...
@@ -38,7 +38,7 @@ Trong [1925](../_/1925.md) Wright đã viết thư giới thiệu cho Tolkien �
 <p class="tg-quote-footer"><cite>An Application for the Rawlinson and Bosworth Professorship of Anglo-Saxon in the University of Oxford by J.R.R. Tolkien, Professor of the English Language in the University of Leeds, June 25, 1925</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-Tolkien sẽ tiếp tục là người thi hành di chúc của Wright.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Tolkien sẽ tiếp tục là người thực thi di chúc của Wright.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Trên các phương tiện khác {#In_other_media}
 

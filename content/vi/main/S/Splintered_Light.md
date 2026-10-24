@@ -39,7 +39,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Splintered_Light_(First_edition).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b2/Splintered_Light_%28First_edition%29.jpg/308px-Splintered_Light_%28First_edition%29.jpg" decoding="async" loading="lazy" width="308" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/b/b2/Splintered_Light_%28First_edition%29.jpg 1.5x" data-file-width="425" data-file-height="662"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Splintered Light:<br/><small>Logos and Language in Tolkien&#39;s World</small></span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a href="../V/Verlyn_Flieger.md" title="Verlyn Flieger">Verlyn Flieger</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Eerdmans Publishing Company</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">1983</td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">144</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0802819559" title="Special:BookSources/0802819559">0802819559</a></td></tr></tbody></table>
 
-<i><b>Ánh sáng rải rác: Logo và ngôn ngữ trong thế giới của Tolkien</b></i> là một cuốn sách học thuật về các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), được viết bởi [Verlyn Flieger](../V/Verlyn_Flieger.md), xuất bản lần đầu vào năm [1983](../_/1983.md).
+<i><b>Splintered Light: Logos and Ngôn ngữ trong thế giới của Tolkien</b></i> là một cuốn sách học thuật về các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), được viết bởi [Verlyn Flieger](../V/Verlyn_Flieger.md), xuất bản lần đầu vào năm [1983](../_/1983.md).
 
 Ấn bản thứ hai được xuất bản trong [2002](../_/2002.md) sau khi xuất hiện loạt bài *[The History of Middle-earth](../T/The_History_of_Middle-earth.md)*, đã làm sáng tỏ nhiều vấn đề.
 
@@ -63,7 +63,7 @@ infobox:
 11. cửa hầm rượu và hầm rượu tuyệt vời
 12. Ánh sáng và nhiệt
 13. Tạo ra và tích trữ
-14. Ánh sáng của Bóng Tối
+14. Ánh sáng từ bóng tối
 15. Ngoài âm nhạc
 16. Ánh sáng cho ánh sáng
 17. Beren và Thingol

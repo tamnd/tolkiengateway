@@ -31,23 +31,23 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_-_The_Two_Towers_-_The_Complete_Recordings.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/dd/The_Lord_of_the_Rings_-_The_Two_Towers_-_The_Complete_Recordings.jpg/320px-The_Lord_of_the_Rings_-_The_Two_Towers_-_The_Complete_Recordings.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/dd/The_Lord_of_the_Rings_-_The_Two_Towers_-_The_Complete_Recordings.jpg/480px-The_Lord_of_the_Rings_-_The_Two_Towers_-_The_Complete_Recordings.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/d/dd/The_Lord_of_the_Rings_-_The_Two_Towers_-_The_Complete_Recordings.jpg/640px-The_Lord_of_the_Rings_-_The_Two_Towers_-_The_Complete_Recordings.jpg 2x" data-file-width="2400" data-file-height="2400"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Lord of the Rings: The Two Towers - The Complete Recordings</span></th></tr><tr><td colspan="2" class="tg-infobox-caption">Soundtrack by <a href="../H/Howard_Shore.md" title="Howard Shore">Howard Shore</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/7_November.md" title="7 November">7 November</a>, <a href="../_/2006.md" title="2006">2006</a></td></tr><tr><th scope="row" class="tg-infobox-label">Length</th><td class="tg-infobox-data">188:13</td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data">English</td></tr><tr><th scope="row" class="tg-infobox-label">Label</th><td class="tg-infobox-data"><a class="extiw" href="http://en.wikipedia.org/wiki/Reprise_Records" title="wikipedia:Reprise Records">Reprise Records</a></td></tr></tbody></table>
 
-<i><b>The Lord of the Rings: The Two Towers - The Complete Recordings</b></i> là một album của [Howard Shore](../H/Howard_Shore.md), bao gồm nhạc nền từ [phiên bản mở rộng](<The_Lord_of_the_Rings%253A_The_Two_Towers_(extended_edition).md>) của *[The Lord of the Rings: The Two Towers](The_Lord_of_the_Rings%253A_The_Two_Towers.md)*.
+<i><b>Chúa tể của những chiếc nhẫn: Hai tòa tháp - The Complete Recordings</b></i> là một album của [Howard Shore](../H/Howard_Shore.md), bao gồm nhạc nền từ [phiên bản mở rộng](<The_Lord_of_the_Rings%253A_The_Two_Towers_(extended_edition).md>) của *[The Lord of the Rings: The Two Towers](The_Lord_of_the_Rings%253A_The_Two_Towers.md)*.
 
 ## Nội dung {#Contents}
 
 ### Đĩa 1 {#Disc_1}
 
-1. [Glamdring](<../G/Glamdring_(soundtrack).md>) (3:50)
-2. [Tiên Dây](<../E/Elven_Rope_(soundtrack).md>) (2:19)
-3. [Đã thua trong Emyn Muil](../L/Lost_in_Emyn_Muil.md) (4:14)
+1. [Sự quyến rũ](<../G/Glamdring_(soundtrack).md>) (3:50)
+2. [Dây thừng yêu tinh](<../E/Elven_Rope_(soundtrack).md>) (2:19)
+3. [Lạc ở Emyn Muil](../L/Lost_in_Emyn_Muil.md) (4:14)
 4. [Người yêu quý của tôi](../M/My_Precious.md) (2:56)
 5. [Chiến binh của Ugluk](../U/Ugluk's_Warriors.md) (1:41)
-6. [Cái Ba Thợ Săn](<The_Three_Hunters_(soundtrack).md>) (6:12)
+6. [Ba người thợ săn](<The_Three_Hunters_(soundtrack).md>) (6:12)
 7. [Sự trục xuất của Éomer](The_Banishment_of_Eomer.md) (3:54)
 8. [Trại đêm](../N/Night_Camp.md) (2:50)
 9. [Đồng bằng Rohan](The_Plains_of_Rohan.md) (4:14)
-10. [Fangorn](<../F/Fangorn_(soundtrack).md>) (5:13)
-11. [Cái Đầm lầy Chết](The_Dead_Marshes.md) (5:07)
+10. [Fangor](<../F/Fangorn_(soundtrack).md>) (5:13)
+11. [Đầm lầy Chết](The_Dead_Marshes.md) (5:07)
 12. "[Bóng ma trên đôi cánh](../W/Wraiths_on_Wings.md)" (2:07)
 13. [Gandalf the White](<../G/Gandalf_the_White_(soundtrack).md>) (6:47)
 14. [Giấc mơ của cây](The_Dreams_of_Trees.md) (1:54)
@@ -58,33 +58,33 @@ infobox:
 
 1. [Edoras](<../E/Edoras_(soundtrack).md>) (4:34)
 2. [Tòa án Meduseld](The_Court_of_Meduseld.md) (3:10)
-3. [Théoden Vua](Théoden_King.md) (feat. "The Funeral of Theodred," do [Miranda Otto](../M/Miranda_Otto.md) biểu diễn) (6:12)
-4. [Quyết định của Vua](<The_King's_Decision_(soundtrack).md>) (2:07)
+3. [Théoden King](Théoden_King.md) (feat. "The Funeral of Theodred," do [Miranda Otto](../M/Miranda_Otto.md) biểu diễn) (6:12)
+4. [Quyết định của nhà vua](<The_King's_Decision_(soundtrack).md>) (2:07)
 5. [Cuộc di cư khỏi Edoras](../E/Exodus_From_Edoras~45963.md) (5:42)
 6. [Khu rừng Ithilien](<The_Forests_of_Ithilien_(soundtrack).md>) (6:37)
 7. [One of the Dunedain](../O/One_of_the_Dunedain.md) (feat. "Evenstar," do Isabel Bayrakdarian trình diễn) (7:13)
-8. [Số Sói của Isengard](<The_Wolves_of_Isengard_(soundtrack).md>) (4:22)
+8. [Bầy sói của Isengard](<The_Wolves_of_Isengard_(soundtrack).md>) (4:22)
 9. [Nơi trú ẩn tại Helm's Deep](../R/Refuge_at_Helm's_Deep.md) (3:59)
 10. [Giọng nói của Saruman](<The_Voice_of_Saruman_(soundtrack).md>) (1:11)
 11. [Arwen's Fate](<../A/Arwen's_Fate_(soundtrack).md>) (feat. "The Grace of the Valar," do Sheila Chandra trình diễn) (3:58)
 12. [Câu chuyện được báo trước](The_Story_Foretold.md) (3:58)
-13. [Những đứa con của Quản gia](<../S/Sons_of_the_Steward_(soundtrack).md>) (6:02)
+13. [Con trai của Quản gia](<../S/Sons_of_the_Steward_(soundtrack).md>) (6:02)
 14. [Đá và bể bơi](../R/Rock_and_Pool.md) (2:54)
-15. [Faramir Tốt Hội đồng](../F/Faramir's_Good_Council.md) (2:20)
+15. [Hội đồng tốt của Faramir](../F/Faramir's_Good_Council.md) (2:20)
 
 ### Đĩa 3 {#Disc_3}
 
-Sự trở lại của 1. [Aragorn](<../A/Aragorn's_Return_(soundtrack).md>) (2:11)
+1. [Sự trở lại của Aragorn](<../A/Aragorn's_Return_(soundtrack).md>) (2:11)
 2. [Chiến tranh đang đến với chúng ta](../W/War_is_Upon_Us.md) (3:35)
 3. "[Con ngựa và Người cưỡi ngựa ở đâu?](../W/Where_is_the_Horse_and_the_Rider%253F.md)" (6:15)
-4. [Chủ nhân của Eldar](<The_Host_of_the_Eldar_(soundtrack).md>) (2:50)
-5. [ Trận Hornburg](<The_Battle_of_the_Hornburg_(soundtrack).md>) (2:52)
-6. [Vụ phá vỡ Bức tường sâu](<The_Breach_of_the_Deeping_Wall_(soundtrack).md>) (3:03)
+4. [Đội quân của Eldar](<The_Host_of_the_Eldar_(soundtrack).md>) (2:50)
+5. [Trận Hornburg](<The_Battle_of_the_Hornburg_(soundtrack).md>) (2:52)
+6. [Vụ phá vỡ bức tường sâu](<The_Breach_of_the_Deeping_Wall_(soundtrack).md>) (3:03)
 7. [Quyết định của Entmoot](<The_Entmoot_Decides_(soundtrack).md>) (2:06)
 8. [Retreat](../R/Retreat.md) (feat. "Haldir's Lament," do Elizabeth Fraser trình diễn) (4:40)
 9. [Kế hoạch của Master Peregrin](<../M/Master_Peregrin's_Plan_(soundtrack).md>) (2:31)
-10. [Tháng ba cuối cùng của Ent](<The_Last_March_of_the_Ents_(soundtrack).md>) (feat. Ben Del Maestro) (2:31)
-11. [Cuộc tấn công Nazgûl](<The_Nazgûl_Attack_(soundtrack).md>) (2:45)
+10. [Cuộc hành quân cuối cùng của loài Ent](<The_Last_March_of_the_Ents_(soundtrack).md>) (feat. Ben Del Maestro) (2:31)
+11. [Cuộc tấn công của Nazgûl](<The_Nazgûl_Attack_(soundtrack).md>) (2:45)
 12. [Théoden Rides Forth](Théoden_Rides_Forth.md) (feat. Ben Del Maestro) (5:47)
 13. [Những câu chuyện thực sự quan trọng](The_Tales_That_Really_Matter.md) (12:01)
 14. "[Những chặng đường dài để đi](../L/Long_Ways_to_Go_Yet.md)" (feat. "[Gollum's Song](../G/Gollum's_Song.md)," do [Emiliana Torrini](../E/Emiliana_Torrini.md) trình bày) (8:05)
@@ -95,19 +95,19 @@ Sự trở lại của 1. [Aragorn](<../A/Aragorn's_Return_(soundtrack).md>) (2:
 
 ## Xem thêm {#See_also}
 
-- [*The Lord of the Rings: Bộ ba phim điện ảnh* - Nhạc phim gốc](../../category/T/The_Lord_of_the_Rings%253A_The_Motion_Picture_Trilogy_Original_Soundtracks.md):
+- [*The Lord of the Rings: The Motion Picture Trilogy* - Original Soundtracks](../../category/T/The_Lord_of_the_Rings%253A_The_Motion_Picture_Trilogy_Original_Soundtracks.md):
     - *[The Fellowship of the Ring](The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack.md)*
     - *[The Two Towers](The_Lord_of_the_Rings%253A_The_Two_Towers_-_Original_Motion_Picture_Soundtrack.md)*
     - *[The Return of the King](The_Lord_of_the_Rings%253A_The_Return_of_the_King_-_Original_Motion_Picture_Soundtrack.md)*
-- [*The Lord of the Rings: Bộ ba phim điện ảnh* - Bản ghi âm hoàn chỉnh](../../category/T/The_Lord_of_the_Rings%253A_The_Motion_Picture_Trilogy_The_Complete_Recordings.md):
+- [*The Lord of the Rings: The Motion Picture Trilogy* - The Complete Recordings](../../category/T/The_Lord_of_the_Rings%253A_The_Motion_Picture_Trilogy_The_Complete_Recordings.md):
     - *[The Fellowship of the Ring](The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_-_The_Complete_Recordings.md)*
     - *[The Return of the King](The_Lord_of_the_Rings%253A_The_Return_of_the_King_-_The_Complete_Recordings.md)*
 
 ## Liên kết ngoài {#External_links}
 
 - <a class="external text" href="http://www.lordoftherings-soundtrack.com/" rel="noreferrer noopener" target="_blank">Trang web nhạc phim chính thức</a>
-    - <a class="external text" href="http://www.lordoftherings-soundtrack.com/tt_complete.html" rel="noreferrer noopener" target="_blank"><i>The Lord of the Rings: The Two Towers - Bản ghi hoàn chỉnh</i></a>
-- <a class="external text" href="http://www.amagpiesnest.com/cd_editions/TTT/TTTcr.htm" rel="noreferrer noopener" target="_blank"><i>The Lord of the Rings: The Two Towers - Bản ghi hoàn chỉnh</i></a> về <a class="external text" href="http://www.amagpiesnest.com/" rel="noreferrer noopener" target="_blank">Tổ chim ác là</a>
+    - <a class="external text" href="http://www.lordoftherings-soundtrack.com/tt_complete.html" rel="noreferrer noopener" target="_blank"><i>Chúa tể của những chiếc nhẫn: Hai tòa tháp - Bản ghi âm hoàn chỉnh</i></a>
+- <a class="external text" href="http://www.amagpiesnest.com/cd_editions/TTT/TTTcr.htm" rel="noreferrer noopener" target="_blank"><i>Chúa tể của những chiếc nhẫn: Hai tòa tháp - Bản ghi âm hoàn chỉnh</i></a> về <a class="external text" href="http://www.amagpiesnest.com/" rel="noreferrer noopener" target="_blank">Tổ chim ác là</a>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

@@ -29,13 +29,13 @@ images:
 
 **Boromir** có thể đề cập đến:
 
-## Trung Địa {#Middle-earth}
+## Trung địa {#Middle-earth}
 
-- [Boromir con trai Bor](Borlach.md#Other_versions_of_the_legendarium), tên ban đầu sau này được thay thế bằng [Borlach](Borlach.md).
+- [Boromir con trai của Bor](Borlach.md#Other_versions_of_the_legendarium), tên ban đầu sau này được thay thế bằng [Borlach](Borlach.md).
 - [Boromir của Ladros](<Boromir_(Lord_of_Ladros).md>) ([F.A.](../F/First_Age.md) [338](../F/First_Age_338.md) - [432](../F/First_Age_432.md)), Người đứng đầu [Nhà Bëor](../H/House_of_Bëor.md) và [Lãnh chúa Ladros](../L/Lord_of_Ladros.md) đầu tiên.
-- [Boromir (Quản lý của Gondor)](<Boromir_(Steward_of_Gondor).md>) ([T.A.](../T/Third_Age.md) [2410](../T/Third_Age_2410.md) - [2489](../T/Third_Age_2489.md)), [Quản lý cầm quyền](../R/Ruling_Steward.md) thứ mười một của [Gondor](../G/Gondor.md).
-- **[Boromir](Boromir.md) ([T.A.](../T/Third_Age.md) [2978](../T/Third_Age_2978.md) - [3019](../T/Third_Age_3019.md)), con trai lớn của [Denethor II](../D/Denethor.md) và là thành viên của [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md).**
-    - [Boromir thắt lưng](Boromir's_belt.md), một món quà từ [Galadriel](../G/Galadriel.md) khi Hiệp hội ở lại [Lothlórien](../L/Lothlórien.md).
+- [Boromir (Quản gia của Gondor)](<Boromir_(Steward_of_Gondor).md>) ([T.A.](../T/Third_Age.md) [2410](../T/Third_Age_2410.md) - [2489](../T/Third_Age_2489.md)), [Quản lý cầm quyền](../R/Ruling_Steward.md) thứ mười một của [Gondor](../G/Gondor.md).
+- **[Boromir](Boromir.md) ([T.A.](../T/Third_Age.md) [2978](../T/Third_Age_2978.md) - [3019](../T/Third_Age_3019.md)), con trai lớn của [Denethor II](../D/Denethor.md) và là thành viên của [Fellowship of the Ring](../F/Fellowship_of_the_Ring.md).**
+    - [Thắt lưng Boromir](Boromir's_belt.md), một món quà từ [Galadriel](../G/Galadriel.md) khi Hiệp hội ở lại [Lothlórien](../L/Lothlórien.md).
     - [Bài hát của Boromir](../S/Song_of_Boromir.md), lời than thở của [Aragorn](../A/Aragorn.md) và [Legolas](../L/Legolas.md) sau cái chết của Boromir.
 
 ## Sách {#Books}

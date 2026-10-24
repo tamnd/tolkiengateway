@@ -36,13 +36,13 @@ infobox:
 
 **Lúthien** là tên con trai của [Vala](../V/Valar.md) [Telimektar](../T/Telimektar.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> theo phiên bản đầu tiên của [huyền thoại](Legendarium.md) trong một trong những phác thảo của *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.
 
-Trong phác thảo đó, [Tol Eressëa](../T/Tol_Eressëa.md) không còn được đồng nhất với nước Anh như trường hợp của hầu hết các *Lost Tales*. Và thay vì [Ottor Wǽfre](../E/Eriol.md), đó là một thủy thủ tên [Ælfwine](../_/Ælfwine.md) từ [Luthany](Luthany.md) đến Tol Eressëa - người, trong một trong những ghi chú liên quan đến phác thảo trên, được gọi là *Lúthien* bởi [Tiên tộc](../E/Elves.md) sống ở đó, vì tình yêu của anh ấy với chòm sao <a class="extiw" href="http://en.wikipedia.org/wiki/Orion_(constellation)" title="wikipedia:Orion (constellation)">Orion</a> (được xác định là Telimektar, cha của Lúsion/Lúthien).<sup id="cite_ref-Lus_2-0" class="reference"><a href="#cite_note-Lus-2">[1]</a></sup>
+Trong phác thảo đó, [Tol Eressëa](../T/Tol_Eressëa.md) không còn được đồng nhất với nước Anh như trường hợp của hầu hết *Lost Tales*. Và thay vì [Ottor Wǽfre](../E/Eriol.md), đó là một thủy thủ tên là [Ælfwine](../_/Ælfwine.md) từ [Luthany](Luthany.md) đến Tol Eressëa - người, trong một trong những ghi chú liên quan đến phác thảo trên, được gọi là *Lúthien* bởi [Yêu tinh](../E/Elves.md) sống ở đó, vì tình yêu của ông với chòm sao <a class="extiw" href="http://en.wikipedia.org/wiki/Orion_(constellation)" title="wikipedia:Orion (constellation)">Orion</a> (được xác định là Telimektar, cha của Lúsion/Lúthien).<sup id="cite_ref-Lus_2-0" class="reference"><a href="#cite_note-Lus-2">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Tên *Lúthien* nằm trong [Gnomish](../G/Gnomish.md). Nó được giải thích là có nghĩa là “người bạn” trong hầu hết các phác thảo đương đại, và “kẻ lang thang” trong những ý nghĩa khác.<sup id="cite_ref-Lus_2-1" class="reference"><a href="#cite_note-Lus-2">[1]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup>
+Tên *Lúthien* có trong [Gnomish](../G/Gnomish.md). Nó được giải thích là có nghĩa là “người bạn” trong hầu hết các phác thảo đương đại, và “kẻ lang thang” trong những ý nghĩa khác.<sup id="cite_ref-Lus_2-1" class="reference"><a href="#cite_note-Lus-2">[1]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup>
 
-Tên thay thế <i><b>Lúsion</b></i> cũng được đưa ra trong cùng một văn bản mà ký tự xuất hiện,<sup id="cite_ref-Lus_2-2" class="reference"><a href="#cite_note-Lus-2">[1]</a></sup> có thể là cùng nguồn gốc [Qenya](../Q/Qenya.md) của *Lúthien*.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[note 2]</a></sup>
+Tên thay thế <i><b>Lúsion</b></i> cũng được đặt trong cùng văn bản mà ký tự xuất hiện,<sup id="cite_ref-Lus_2-2" class="reference"><a href="#cite_note-Lus-2">[1]</a></sup> có thể là [Qenya](../Q/Qenya.md) cùng nguồn gốc của *Lúthien*.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[note 2]</a></sup>
 
 ## Phả hệ<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[note 3]</a></sup> {#Genealogy[note_3]}
 
@@ -59,11 +59,11 @@ Tên thay thế <i><b>Lúsion</b></i> cũng được đưa ra trong cùng một 
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Anh ấy được gọi là <i>Telumektar</i> hoặc <i>Telmaith</i> trong phác thảo này.</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Ông được gọi là <i>Telumektar</i> hoặc <i>Telmaith</i> trong phác thảo này.</span>
 </li>
 <li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text">Xem <a href="../H/Hendwine.md#Etymology" title="Hendwine">Hendwine#Etymology</a> để biết thêm chi tiết về tên này.</span>
 </li>
-<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text">Không biết liệu phiên bản cụ thể này của phả hệ của Lúthien có giữ vững hay không, vì đặc tính của Lúthien là phần bổ sung sau này cho <i>Lost Tales</i>.</span>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text">Không biết liệu phiên bản cụ thể này của phả hệ của Lúthien có đứng vững hay không, vì nhân vật Lúthien là phần bổ sung sau này cho <i>Những câu chuyện bị mất</i>.</span>
 </li>
 </ol></div></span>
 

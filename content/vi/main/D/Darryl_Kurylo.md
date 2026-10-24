@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Kurylo, Darryl"
 ---
 
-**Darryl Kurylo** là một diễn viên người Mỹ. Anh ấy đã cung cấp thêm tiếng nói trong *[EA's The Battle for Middle-earth II](../E/EA's_The_Battle_for_Middle-earth_II.md)*.
+**Darryl Kurylo** là một diễn viên người Mỹ. Ông đã cung cấp thêm tiếng nói trong *[EA's The Battle for Middle-earth II](../E/EA's_The_Battle_for_Middle-earth_II.md)*.
 
 ## Liên kết ngoài {#External_links}
 

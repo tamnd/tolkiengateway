@@ -11,4 +11,4 @@ redirect_target: "Eärnur"
 redirect_fragment: "Portrayal in adaptations"
 ---
 
-Chuyển hướng đến [Eärnur](../E/Eärnur.md#Portrayal_in_adaptations).
+Chuyển hướng tới [Eärnur](../E/Eärnur.md#Portrayal_in_adaptations).

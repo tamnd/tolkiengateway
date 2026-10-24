@@ -31,15 +31,15 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien dự đoán rằng [Rayner](../R/Rayner_Unwin.md) sẽ lo lắng về bản dịch "<a class="mw-redirect mw-disambig" href="../S/Sir_Gawain_and_the_Green_Knight.md" title="Sir Gawain and the Green Knight">Sir Gawain</a>" và "<a class="mw-redirect mw-disambig" href="../P/Pearl.md" title="Pearl">Pearl</a>" của anh ấy. Thật tai hại, anh đã đặt chúng sang một bên để sửa lại *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, điều này khiến anh mất sạch những bài thơ này. Anh ấy nhận thấy việc lựa chọn và nén các ghi chú cũng như phần giới thiệu là rất khó khăn. Anh ta có quá nhiều điều để nói và không chắc chắn về mục tiêu của mình. Mục tiêu chính là người đọc văn học nói chung không hiểu biết về tiếng Anh trung cổ. Tuy nhiên, sinh viên và học giả của Khoa Tiếng Anh cũng sẽ đọc nó và một số người trong số họ có súng lục trong bao.
+Tolkien dự đoán rằng [Rayner](../R/Rayner_Unwin.md) sẽ lo lắng về bản dịch "<a class="mw-redirect mw-disambig" href="../S/Sir_Gawain_and_the_Green_Knight.md" title="Sir Gawain and the Green Knight">Sir Gawain</a>" và "<a class="mw-redirect mw-disambig" href="../P/Pearl.md" title="Pearl">Pearl</a>" của ông. Thật tai hại, anh đã đặt chúng sang một bên để sửa lại *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, điều này khiến anh mất sạch những bài thơ này. Ông nhận thấy việc lựa chọn và nén các ghi chú cũng như phần giới thiệu là rất khó khăn. Ông ta có quá nhiều điều để nói và không chắc chắn về mục tiêu của mình. Mục tiêu chính là người đọc văn học nói chung không hiểu biết về tiếng Anh trung cổ. Tuy nhiên, sinh viên và học giả của Khoa Tiếng Anh cũng sẽ đọc nó và một số người trong số họ có súng lục trong bao.
 
-Một lượng lớn công việc biên tập đã được dùng để tạo ra một phiên bản, và trong quá trình đó, ông đã có những khám phá quan trọng liên quan đến một số từ và đoạn văn nhất định (Tolkien sau đó khiêm tốn nói về tầm quan trọng trong thế giới nhỏ bé của tiếng Anh Trung Cổ). Việc trình bày quan điểm của ông cuối cùng sẽ xuất hiện trong các bài báo trên tạp chí học thuật, nhưng người ta mong muốn chỉ ra sự khác biệt trong cách đọc của ông so với những người khác.
+Một lượng lớn công việc biên tập đã được sử dụng để tạo ra một phiên bản và trong quá trình đó, ông đã có những khám phá quan trọng liên quan đến một số từ và đoạn văn (khi đó Tolkien đã khiêm tốn nói về tầm quan trọng trong thế giới nhỏ bé của tiếng Anh Trung Cổ). Việc trình bày quan điểm của ông cuối cùng sẽ xuất hiện trong các bài báo trên tạp chí học thuật, nhưng người ta mong muốn chỉ ra sự khác biệt trong cách đọc của ông so với những người khác.
 
-Câu hỏi Tolkien đặt ra cho Rayner là anh có thể được phép cho phép bao nhiêu trang ngoài văn bản để anh có thể điều chỉnh phần trang trí của mình.
+Câu hỏi mà Tolkien đặt ra cho Rayner là ông có thể cho phép bao nhiêu trang ngoài văn bản để có thể điều chỉnh phần trang trí của mình.
 
 ## Lưu ý {#Note}
 
-*[Sir Gawain and the Green Knight, Pearl and Sir Orfeo](../S/Sir_Gawain_and_the_Green_Knight,_Pearl_and_Sir_Orfeo.md)*, một cuốn sách dịch cả ba bài thơ, được [Christopher Tolkien](../C/Christopher_Tolkien.md) xuất bản sau khi cha ông qua đời. <br>
+*[Sir Gawain and the Green Knight, Pearl and Sir Orfeo](../S/Sir_Gawain_and_the_Green_Knight,_Pearl_and_Sir_Orfeo.md)*, một cuốn sách có bản dịch của cả ba bài thơ, được xuất bản bởi [Christopher Tolkien](../C/Christopher_Tolkien.md) sau khi cha ông qua đời. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

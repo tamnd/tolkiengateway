@@ -20,9 +20,9 @@ sort_keys:
 
 ## Từ nguyên {#Etymology}
 
-Tên *Aïlior* nằm trong [Qenya](../Q/Qenya.md), có thể liên quan đến từ *[ailin](Ailin.md)* ("hồ").<sup id="cite_ref-Ail_1-1" class="reference"><a href="#cite_note-Ail-1">[1]</a></sup>
+Tên *Aïlior* có trong [Qenya](../Q/Qenya.md), có thể liên quan đến từ *[ailin](Ailin.md)* ("hồ").<sup id="cite_ref-Ail_1-1" class="reference"><a href="#cite_note-Ail-1">[1]</a></sup>
 
-Trong *[Gnomish Lexicon](../G/Gnomish_Lexicon.md)*cũng xuất hiện các từ <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Ailo&amp;action=edit&amp;redlink=1" title="Ailo (page does not exist)">ailo</a></i> ("a lake, a pool") và [Gnomish](../G/Gnomish.md) cùng nguồn gốc <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Ail&amp;action=edit&amp;redlink=1" title="Ail (page does not exist)">ail</a></i>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Trong *[Gnomish Lexicon](../G/Gnomish_Lexicon.md)*, cũng xuất hiện các từ <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Ailo&amp;action=edit&amp;redlink=1" title="Ailo (page does not exist)">ailo</a></i> ("hồ, hồ") và [Gnomish](../G/Gnomish.md) cùng nguồn gốc <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Ail&amp;action=edit&amp;redlink=1" title="Ail (page does not exist)">ail</a></i>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

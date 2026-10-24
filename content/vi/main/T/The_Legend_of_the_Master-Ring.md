@@ -35,7 +35,7 @@ infobox:
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
-<i><b>The Legend of the Chủ nhân-Nhẫn</b></i> là ca khúc thứ mười trong album [Minas Morgul](<../M/Minas_Morgul_(album).md>) của ban nhạc [Summoning](../S/Summoning.md). Tên bài hát được lấy từ [One Nhẫn](The_One_Ring.md). Lời bài hát được lấy trực tiếp từ [Nhẫn Câu](../R/Ring_Verse.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>The Legend of the Master-Ring</b></i> là ca khúc thứ mười trong album [Minas Morgul](<../M/Minas_Morgul_(album).md>) của ban nhạc [Summoning](../S/Summoning.md). Tên bài hát được lấy từ [One Ring](The_One_Ring.md). Lời bài hát được lấy trực tiếp từ [Đoạn nhạc chuông](../R/Ring_Verse.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Lời bài hát {#Lyrics}
 

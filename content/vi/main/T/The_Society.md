@@ -16,9 +16,9 @@ sort_keys:
   "Organizations (real-world)": "Society, The"
 ---
 
-**Hội** là một câu lạc bộ ăn uống gắn liền với [Đại học Oxford](../U/University_of_Oxford.md). [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã trở thành thành viên trong nhiệm kỳ <a class="extiw" href="http://en.wikipedia.org/wiki/Hilary_term" title="wikipedia:Hilary term">Hilary</a> [1935](../_/1935.md) và tham dự hầu hết các bữa tối cho đến khi chuyển từ [Oxford](../O/Oxford.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**The Society** là một câu lạc bộ ăn uống liên kết với [Đại học Oxford](../U/University_of_Oxford.md). [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã trở thành thành viên của <a class="extiw" href="http://en.wikipedia.org/wiki/Hilary_term" title="wikipedia:Hilary term">Nhiệm kỳ Hillary</a> [1935](../_/1935.md) và tham dự hầu hết các bữa tối cho đến khi chuyển từ [Oxford](../O/Oxford.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Các giấy tờ (kể cả bản thảo của Tolkien) của Hội được lưu giữ tại [Thư viện Bodleian](../B/Bodleian_Library.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Các giấy tờ (bao gồm cả bản thảo của Tolkien) của Hiệp hội được lưu giữ tại [Thư viện Bodleian](../B/Bodleian_Library.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Thành viên {#Members}
 

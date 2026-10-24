@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Nghệ thuật của <a class="new" href="https://tolkiengateway.net/w/index.php?title=Kieran_Yanner&amp;action=edit&amp;redlink=1" title="Kieran Yanner (page does not exist)">Kieran Yanner</a> cho [Magic: The Gathering](../../main/M/Magic%253A_The_Gathering.md) [The Lord of the Rings: Tales of Middle-earth](../../main/T/The_Lord_of_the_Rings%253A_Tales_of_Middle-earth.md). Thẻ: <a class="external text" href="https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=617054" rel="noreferrer noopener" target="_blank">Sauron, Chúa tể Bóng tối</a>
+Tác phẩm nghệ thuật của <a class="new" href="https://tolkiengateway.net/w/index.php?title=Kieran_Yanner&amp;action=edit&amp;redlink=1" title="Kieran Yanner (page does not exist)">Kieran Yanner</a> cho [Magic: The Gathering](../../main/M/Magic%253A_The_Gathering.md) [The Lord of the Rings: Tales of Middle-earth](../../main/T/The_Lord_of_the_Rings%253A_Tales_of_Middle-earth.md). Thẻ: <a class="external text" href="https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=617054" rel="noreferrer noopener" target="_blank">Sauron, Chúa tể Bóng tối</a>
 
 ## Giấy phép {#Licensing}
 

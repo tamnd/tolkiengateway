@@ -38,19 +38,19 @@ infobox:
 
 ## Tóm tắt {#Synopsis}
 
-Phiên bản CD-rom của trò chơi mở đầu bằng một số cảnh cắt từ *[The Lord of the Rings](<../T/The_Lord_of_the_Rings_(1978_film).md>)*của [Ralph Bakshi](../R/Ralph_Bakshi.md), trong khi phiên bản đĩa mềm của trò chơi sử dụng các đoạn cắt cảnh hoạt hình đơn giản để kể câu chuyện. Người chơi bắt đầu với tư cách [Frodo Baggins](../F/Frodo_Baggins.md) tại [Bag End](../B/Bag_End.md) và trước tiên phải di chuyển đến [Buckland](../B/Buckland.md) trước khi băng qua [Khu Rừng Cổ](../O/Old_Forest.md) và [Barrow-downs](../B/Barrow-downs.md) để đến [Bree](../B/Bree.md). Trong Barrow-downs người chơi phải thoát khỏi [Barrow-wight](../B/Barrow-wights.md) với sự trợ giúp của [Tom Bombadil](../T/Tom_Bombadil.md). Khi ở [Rivendell](../R/Rivendell.md), bạn phải thu thập áo choàng của Nazgûl đã bị đánh bại tại Ford of Bruinen, cũng như các mảnh [Andúril](../A/Andúril.md), cả hai đều có thể tìm thấy ở các vùng đất xung quanh.<sup id="cite_ref-Tolkien_Games_2-2" class="reference"><a href="#cite_note-Tolkien_Games-2">[2]</a></sup>
+Phiên bản CD-rom của trò chơi mở đầu bằng một số cảnh cắt từ *[The Lord of the Rings](<../T/The_Lord_of_the_Rings_(1978_film).md>)*của [Ralph Bakshi](../R/Ralph_Bakshi.md), trong khi phiên bản đĩa mềm của trò chơi sử dụng các đoạn cắt cảnh hoạt hình đơn giản để kể câu chuyện. Người chơi bắt đầu với tư cách là [Frodo Baggins](../F/Frodo_Baggins.md) tại [Bag End](../B/Bag_End.md) và trước tiên phải đi đến [Buckland](../B/Buckland.md) trước khi băng qua [Rừng Cũ](../O/Old_Forest.md) và [Barrow-downs](../B/Barrow-downs.md) để đến [Bree](../B/Bree.md). Trong Barrow-downs, người chơi phải thoát khỏi [Barrow-wights](../B/Barrow-wights.md) với sự trợ giúp của [Tom Bombadil](../T/Tom_Bombadil.md). Khi ở [Rivendell](../R/Rivendell.md) bạn phải thu thập áo choàng của Nazgûl đã bị đánh bại tại Ford of Bruinen, cũng như các mảnh của [Andúril](../A/Andúril.md), cả hai đều có thể tìm thấy ở các vùng đất xung quanh.<sup id="cite_ref-Tolkien_Games_2-2" class="reference"><a href="#cite_note-Tolkien_Games-2">[2]</a></sup>
 
-Sau khi người chơi thoát khỏi bóng tối của [Moria](../M/Moria.md) họ phải tìm kiếm những món quà từ [Galadriel](../G/Galadriel.md). Khi Frodo Baggins bị bắt trong [Dol Guldur](../D/Dol_Guldur.md), các thành viên còn lại của Hiệp hội phải giải thoát Frodo với sự giúp đỡ từ [Radagast Brown](../R/Radagast.md) và [Tiên tộc](../E/Elves.md) của [Lothlórien](../L/Lothlórien.md) trước khi [Vua Phù thủy](../W/Witch-king.md) đến và mang [Người Mang Nhẫn](../R/Ring-bearer.md) về [Mordor](../M/Mordor.md) và số phận của [Trung Địa](../M/Middle-earth.md) đã mất.<sup id="cite_ref-Tolkien_Games_2-3" class="reference"><a href="#cite_note-Tolkien_Games-2">[2]</a></sup>
+Sau khi người chơi thoát khỏi bóng tối của [Moria](../M/Moria.md) họ phải tìm kiếm những món quà từ [Galadriel](../G/Galadriel.md). Khi Frodo Baggins bị bắt ở [Dol Guldur](../D/Dol_Guldur.md), các thành viên còn lại của Hiệp hội phải giải thoát Frodo với sự giúp đỡ từ [Radagast the Brown](../R/Radagast.md) và [Yêu tinh](../E/Elves.md) của [Lothlórien](../L/Lothlórien.md) trước khi [Vua phù thủy](../W/Witch-king.md) đến và đưa [Người mang nhẫn](../R/Ring-bearer.md) đến [Mordor](../M/Mordor.md) và số phận của [Trung Địa](../M/Middle-earth.md) đã mất.<sup id="cite_ref-Tolkien_Games_2-3" class="reference"><a href="#cite_note-Tolkien_Games-2">[2]</a></sup>
 
 ## Cách chơi {#Gameplay}
 
 ### Phiên bản PC {#PC_version}
 
-Người chơi bắt đầu với tư cách [Frodo Baggins](../F/Frodo_Baggins.md) và có thể chiêu mộ ngay [Sam Gamgee](../S/Sam_Gamgee.md) và [Peregrin Took](../P/Peregrin_Took.md). Thông qua quá trình trò chơi, sáu thành viên khác của [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) có thể được tuyển dụng. Người chơi có thể chuyển đổi giữa các nhân vật để quyết định ai sẽ lãnh đạo Hiệp hội, trang bị cho các thành viên khác trong nhóm nhiều loại vũ khí và áo giáp, phân bổ kỹ năng trong nhóm, sử dụng phép thuật và thực hiện nhiều hành động dựa trên kỹ năng khác nhau.<sup id="cite_ref-Tolkien_Games_2-4" class="reference"><a href="#cite_note-Tolkien_Games-2">[2]</a></sup> Trong khi tiếp tục câu chuyện chính, người chơi có thể hoàn thành một số cuộc phiêu lưu phụ và thăm lại các địa điểm trước đó, trong đó có thể khám phá các nhân vật, nhiệm vụ và đồ vật mới.<sup id="cite_ref-Tolkien_Games_2-5" class="reference"><a href="#cite_note-Tolkien_Games-2">[2]</a></sup><sup id="cite_ref-Polygon_5-1" class="reference"><a href="#cite_note-Polygon-5">[5]</a></sup> Trò chơi cũng bao gồm hệ thống ngày/đêm. Vào ban đêm, một số kẻ thù mạnh hơn và có nhiều khả năng chạm trán [Nazgûl](../N/Nazgûl.md) hơn vào ban ngày.<sup id="cite_ref-Tolkien_Games_2-6" class="reference"><a href="#cite_note-Tolkien_Games-2">[2]</a></sup>
+Người chơi bắt đầu với tư cách là [Frodo Baggins](../F/Frodo_Baggins.md) và có thể ngay lập tức chiêu mộ [Sam Gamgee](../S/Sam_Gamgee.md) và [Peregrin Took](../P/Peregrin_Took.md). Thông qua quá trình trò chơi, sáu thành viên khác của [Fellowship of the Ring](../F/Fellowship_of_the_Ring.md) có thể được tuyển dụng. Người chơi có thể chuyển đổi giữa các nhân vật để quyết định ai sẽ lãnh đạo Hiệp hội, trang bị cho các thành viên khác trong nhóm nhiều loại vũ khí và áo giáp, phân bổ kỹ năng trong nhóm, sử dụng phép thuật và thực hiện nhiều hành động dựa trên kỹ năng khác nhau.<sup id="cite_ref-Tolkien_Games_2-4" class="reference"><a href="#cite_note-Tolkien_Games-2">[2]</a></sup> Trong khi tiếp tục câu chuyện chính, người chơi có thể hoàn thành một số cuộc phiêu lưu phụ và thăm lại các địa điểm trước đó, trong đó có thể khám phá các nhân vật, nhiệm vụ và đồ vật mới.<sup id="cite_ref-Tolkien_Games_2-5" class="reference"><a href="#cite_note-Tolkien_Games-2">[2]</a></sup><sup id="cite_ref-Polygon_5-1" class="reference"><a href="#cite_note-Polygon-5">[5]</a></sup> Trò chơi cũng bao gồm hệ thống ngày/đêm. Vào ban đêm, một số kẻ thù mạnh hơn và có nhiều khả năng chạm trán [Nazgûl](../N/Nazgûl.md) hơn vào ban ngày.<sup id="cite_ref-Tolkien_Games_2-6" class="reference"><a href="#cite_note-Tolkien_Games-2">[2]</a></sup>
 
 ### Phiên bản SNES {#SNES_version}
 
-Người chơi bắt đầu với tư cách là [Frodo Baggins](../F/Frodo_Baggins.md) và có thể nhận được phần còn lại của [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) (ngoại trừ [Boromir](../B/Boromir.md)) khi họ đi qua câu chuyện chính.
+Người chơi bắt đầu với tư cách là [Frodo Baggins](../F/Frodo_Baggins.md) và có thể nhận được phần còn lại của [Fellowship of the Ring](../F/Fellowship_of_the_Ring.md) (ngoại trừ [Boromir](../B/Boromir.md)) khi họ tiếp tục câu chuyện chính.
 
 ## Nhân vật {#Characters}
 
@@ -63,9 +63,9 @@ Tổng cộng có 37 nhân vật có thể chơi được trong phiên bản PC 
 - [Frodo Baggins](../F/Frodo_Baggins.md)
 - [Samwise Gamgee](../S/Samwise_Gamgee.md)
 - [Meriadoc Brandybuck](../M/Meriadoc_Brandybuck.md)
-- [Peregrin Took](../P/Peregrin_Took.md)
+- [Peregrin đã lấy](../P/Peregrin_Took.md)
 - [Aragorn II](../A/Aragorn.md)
-- [Gandalf the Grey](../G/Gandalf.md)
+- [Gandalf Xám](../G/Gandalf.md)
 - [Legolas](../L/Legolas.md)
 - [Boromir](../B/Boromir.md)
 - [Gimli](../G/Gimli.md)
@@ -76,7 +76,7 @@ Tổng cộng có 37 nhân vật có thể chơi được trong phiên bản PC 
 
 ## Phát triển {#Development}
 
-Interplay bắt đầu phát triển một game nhập vai giả tưởng không lấy bối cảnh ở Trung Địa vào cuối những năm 1980. Sau khi Interplay nhận được giấy phép tạo trò chơi điện tử dựa trên The Lord of the Rings và The Hobbit, trò chơi này đã bị loại bỏ và được phát triển lại dưới dạng chuyển thể từ [The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md).<sup id="cite_ref-Polygon_5-3" class="reference"><a href="#cite_note-Polygon-5">[5]</a></sup>
+Interplay bắt đầu phát triển một game nhập vai giả tưởng không lấy bối cảnh ở Trung Địa vào cuối những năm 1980. Sau khi Interplay nhận được giấy phép tạo trò chơi điện tử dựa trên Chúa tể của những chiếc nhẫn và Người Hobbit, trò chơi này đã bị loại bỏ và phát triển lại dưới dạng chuyển thể từ [The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md).<sup id="cite_ref-Polygon_5-3" class="reference"><a href="#cite_note-Polygon-5">[5]</a></sup>
 
 ## Xem thêm {#See_also}
 

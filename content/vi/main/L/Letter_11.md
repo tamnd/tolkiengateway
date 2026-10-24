@@ -38,11 +38,11 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Bức thư này liên quan đến việc xuất bản *[The Hobbit](../T/The_Hobbit.md)*. Tolkien đã nhận được bản in rút gọn của các bức tranh minh họa mà anh ấy gửi trong [Thư 9](Letter_9.md) và đề nghị chấp thuận. Ông cảm ơn Dagnall vì đã gặp nhiều rắc rối với họ, "đặc biệt là chống lại kinh tế", và thu hút sự chú ý của họ về một số lỗi nhỏ.
+Bức thư này liên quan đến việc xuất bản *[The Hobbit](../T/The_Hobbit.md)*. Tolkien đã nhận được bản in rút gọn của các bức tranh minh họa mà ông gửi trong [Thư 9](Letter_9.md) và đề nghị chấp thuận. Ông cảm ơn Dagnall vì đã gặp nhiều rắc rối với họ, "đặc biệt là chống lại kinh tế", và thu hút sự chú ý của họ về một số lỗi nhỏ.
 
 <dl><dt>In the expanded edition</dt></dl>
 
-Mở đầu thư Tolkien thể hiện lòng biết ơn đối với Phòng Sản xuất vì công việc của họ và chấp thuận việc họ lựa chọn các hình ảnh minh họa. Và cuối cùng, anh ấy mong được gặp cô Dagnall và lẽ ra anh ấy sẽ trả lời thư sớm hơn nếu có thời gian.
+Khi bắt đầu bức thư, Tolkien bày tỏ lòng biết ơn đối với Bộ phận Sản xuất vì công việc của họ và chấp thuận việc lựa chọn các hình minh họa của họ. Và cuối cùng, ông mong được gặp cô Dagnall và lẽ ra ông sẽ trả lời thư sớm hơn nếu có thời gian.
 
 <br>
 

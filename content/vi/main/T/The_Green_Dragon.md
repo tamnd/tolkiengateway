@@ -45,21 +45,21 @@ infobox:
 <p class="tg-quote-footer"><cite><a href="Ted_Sandyman.md" title="Ted Sandyman">Ted Sandyman</a> in <i><a href="The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="The_Shadow_of_the_Past.md" title="The Shadow of the Past">The Shadow of the Past</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**The Green Rồng** là một trong nhiều nhà trọ của [the Shire](The_Shire.md). Nó nằm ở [Bywater](../B/Bywater.md) trên [Bywater Đường](../B/Bywater_Road.md) và là tòa nhà gần [Hobbiton](../H/Hobbiton.md) nhất,<sup id="cite_ref-Scouring_1-0" class="reference"><a href="#cite_note-Scouring-1">[1]</a></sup> cách cây cầu bắc qua [Mặt Nước](The_Water.md) dẫn đến [Bag End](../B/Bag_End.md).<sup id="cite_ref-Mutton_2-0" class="reference"><a href="#cite_note-Mutton-2">[2]</a></sup> một dặm về phía đông nam. Như vậy, có thể nhìn thấy [Hobbit](../H/Hobbits.md) từ cả hai ngôi làng ở đó.
+**Rồng Xanh** là một trong nhiều quán trọ ở [Quận](The_Shire.md). Nó nằm ở [Bywater](../B/Bywater.md) trên [Đường Bywater](../B/Bywater_Road.md) và là tòa nhà gần [Hobbiton](../H/Hobbiton.md) nhất,<sup id="cite_ref-Scouring_1-0" class="reference"><a href="#cite_note-Scouring-1">[1]</a></sup> cách cây cầu bắc qua [Mặt nước](The_Water.md) dẫn đến [Bag End](../B/Bag_End.md) một dặm về phía đông nam.<sup id="cite_ref-Mutton_2-0" class="reference"><a href="#cite_note-Mutton-2">[2]</a></sup> Như vậy, [Hobbit](../H/Hobbits.md) từ cả hai làng có thể được nhìn thấy ở đó.
 
 ## Lịch sử {#History}
 
-Trong [T.A.](Third_Age.md) [2941](Third_Age_2941.md)<sup id="cite_ref-TA_3-0" class="reference"><a href="#cite_note-TA-3">[3]</a></sup> khi [Bilbo Baggins](../B/Bilbo_Baggins.md) nhìn vào lá thư [Thorin](Thorin.md) [Oakenshield](../O/Oakenshield.md) đã để trên bệ lò sưởi của mình sau Bữa tiệc bất ngờ, anh ấy thấy rằng mình chỉ có mười phút để đến đúng giờ vào lúc 11 giờ sáng bắt đầu nhiệm vụ tới [Ngọn Núi Cô Đơn](../L/Lonely_Mountain.md) tại Green Rồng Inn. Bilbo đã thành công và thấy rằng [Thorin và Đoàn tùy tùng](Thorin_and_Company.md) đã được đóng gói và sẵn sàng hoạt động.<sup id="cite_ref-Mutton_2-1" class="reference"><a href="#cite_note-Mutton-2">[2]</a></sup>
+Trong [T.A.](Third_Age.md) [2941](Third_Age_2941.md)<sup id="cite_ref-TA_3-0" class="reference"><a href="#cite_note-TA-3">[3]</a></sup> khi [Bilbo Baggins](../B/Bilbo_Baggins.md) nhìn vào bức thư mà [Thorin](Thorin.md) [Oakenshield](../O/Oakenshield.md) để lại trên bệ lò sưởi sau Bữa tiệc bất ngờ, ông thấy rằng mình chỉ có mười phút để đến đúng giờ vào lúc 11 giờ sáng bắt đầu nhiệm vụ tới [Ngọn núi cô đơn](../L/Lonely_Mountain.md) tại Green Dragon Inn. Bilbo hầu như không đến được và thấy rằng [Thorin và đồng đội](Thorin_and_Company.md) đã chật cứng và sẵn sàng khởi hành.<sup id="cite_ref-Mutton_2-1" class="reference"><a href="#cite_note-Mutton-2">[2]</a></sup>
 
-Vào [12 tháng 4](../_/12_April.md) [3018](Third_Age_3018.md), cùng ngày [Gandalf](../G/Gandalf.md) trở lại Shire sau nhiều năm,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> [Samwise Gamgee](../S/Samwise_Gamgee.md) đang đến thăm Green Rồng thì cuộc trò chuyện chuyển sang Người cây, một trong số họ đã được [anh họ Hal](../H/Halfast_Gamgee.md) của Sam nhìn thấy. Mặc dù những câu chuyện kỳ ​​quặc đã bắt đầu được kể trong Shire nhưng những người hobbit ở quán trọ, đặc biệt là [Ted Sandyman](Ted_Sandyman.md), đã cười nhạo câu chuyện của Sam.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Vào [12 tháng 4](../_/12_April.md) [3018](Third_Age_3018.md), cùng ngày mà [Gandalf](../G/Gandalf.md) trở lại Shire sau nhiều năm,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> [Samwise Gamgee](../S/Samwise_Gamgee.md) đang đến thăm Rồng Xanh thì cuộc trò chuyện chuyển sang Người cây, một trong số họ đã được [anh họ Hal](../H/Halfast_Gamgee.md) của Sam nhìn thấy. Mặc dù những câu chuyện kỳ ​​quặc đã bắt đầu được nghe thấy ở Quận nhưng những người hobbit ở quán trọ, đặc biệt là [Ted Sandyman](Ted_Sandyman.md), đã cười nhạo câu chuyện của Sam.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
-Khi [Frodo](../F/Frodo_Baggins.md), [Merry](../M/Meriadoc_Brandybuck.md), [Pippin](../P/Peregrin_Took.md) và Sam quay lại Bywater vào [2 tháng 11](../_/2_November.md) [3019](Third_Age_3019.md),<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> họ thấy Green Rồng đóng cửa với cửa sổ vỡ và nửa tá [Ruffians](../R/Ruffians.md) lảng vảng gần đó. Khi họ xúc phạm Frodo ba hobbit còn lại đã đuổi những người đàn ông đó đi.<sup id="cite_ref-Scouring_1-1" class="reference"><a href="#cite_note-Scouring-1">[1]</a></sup>
+Khi [Frodo](../F/Frodo_Baggins.md), [Merry](../M/Meriadoc_Brandybuck.md), [Pippin](../P/Peregrin_Took.md) và Sam quay trở lại Bywater vào [2 tháng 11](../_/2_November.md) [3019](Third_Age_3019.md),<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> họ thấy Rồng Xanh đóng cửa với cửa sổ vỡ và nửa tá [Ruffians](../R/Ruffians.md) lảng vảng gần đó. Khi họ xúc phạm Frodo, ba hobbit còn lại đã đuổi những người đàn ông đó đi.<sup id="cite_ref-Scouring_1-1" class="reference"><a href="#cite_note-Scouring-1">[1]</a></sup>
 
-Sau khi Ruffians và [Sharkey](../S/Saruman.md) bị giết hoặc bị đuổi đi, Green Rồng Inn chắc chắn đã được khôi phục.
+Sau khi bọn côn đồ và [Sharkey](../S/Saruman.md) bị giết hoặc bị đuổi đi, Quán trọ Rồng Xanh chắc chắn đã được khôi phục.
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong phiên bản gốc của bức thư [Thorin](Thorin.md) gửi Bilbo, điểm hẹn để bắt đầu cuộc hành trình đến [Ngọn Núi Cô Đơn](../L/Lonely_Mountain.md) là [Great Mill](../O/Old_Mill.md).<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> Không lâu trước khi câu chuyện được xuất bản, địa điểm này đã được đổi thành quán trọ, đầu tiên được đặt tên là **Green Man** trước khi đổi thành Green Rồng Inn quen thuộc.<sup id="cite_ref-TrollNotes_8-0" class="reference"><a href="#cite_note-TrollNotes-8">[8]</a></sup>
+Trong phiên bản gốc của bức thư [Thorin](Thorin.md) gửi Bilbo, điểm hẹn để bắt đầu cuộc hành trình đến [Núi cô đơn](../L/Lonely_Mountain.md) là [Great Mill](../O/Old_Mill.md).<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> Không lâu trước khi câu chuyện được xuất bản, địa điểm này được đổi thành quán trọ, đầu tiên được đặt tên là **Green Man** trước khi đổi thành Green Dragon Inn quen thuộc.<sup id="cite_ref-TrollNotes_8-0" class="reference"><a href="#cite_note-TrollNotes-8">[8]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
@@ -80,15 +80,15 @@ Trong phiên bản gốc của bức thư [Thorin](Thorin.md) gửi Bilbo, đi�
 		</li>
 </ul>
 
-<b>2001: <i><a href="The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i>:</b>
+<b>2001: <i><a href="The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">Chúa tể của những chiếc nhẫn: Hiệp hội những chiếc nhẫn</a></i>:</b>
 
 <dl><dd>The Green Dragon is the location of several scenes. The activities from the <a class="mw-redirect" href="../I/Ivy_Bush.md" title="Ivy Bush">Ivy Bush</a> were relocated here. <a href="../R/Rose_Cotton.md" title="Rose Cotton">Rose Cotton</a> appears there, implying that she works there as a barmaid.</dd></dl>
 
-<b>2002: <a href="The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md" title="The Lord of the Rings: The Fellowship of the Ring (video game)"><i>The Lord of the Rings: The Fellowship of the Ring</i> (trò chơi điện tử)</a>:</b>
+<b>2002: <a href="The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md" title="The Lord of the Rings: The Fellowship of the Ring (video game)"><i>Chúa tể của những chiếc nhẫn: Hiệp hội những chiếc nhẫn</i> (trò chơi điện tử)</a>:</b>
 
 <dl><dd>The Green Dragon is situated in Bywater. <a href="../D/Daddy_Twofoot.md" title="Daddy Twofoot">Daddy Twofoot</a> sits outside, while inside, <a href="../R/Robin_Smallburrow.md" title="Robin Smallburrow">Robin Smallburrow</a>, <a href="../R/Rose_Cotton.md" title="Rose Cotton">Rose Cotton</a> and <a href="../G/Gaffer_Gamgee.md" title="Gaffer Gamgee">Hamfast Gamgee</a> can be found. <a href="../M/Meriadoc_Brandybuck.md" title="Meriadoc Brandybuck">Merry</a> and <a href="../P/Peregrin_Took.md" title="Peregrin Took">Pippin</a> reveal their &#34;conspiracy&#34; there.</dd></dl>
 
-<b>2003: <a href="The_Hobbit_(2003_video_game).md" title="The Hobbit (2003 video game)"><i>The Hobbit</i> (trò chơi điện tử năm 2003)</a>:</b>
+<b>2003: <a href="The_Hobbit_(2003_video_game).md" title="The Hobbit (2003 video game)"><i>Người Hobbit</i> (trò chơi điện tử năm 2003)</a>:</b>
 
 <dl><dd>The Green Dragon is a small building with a thatched roof. Entering it marks the end of the first level.</dd></dl>
 

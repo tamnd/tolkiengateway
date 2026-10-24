@@ -28,7 +28,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"[Meneldil](../../main/M/Meneldil.md) của [Gondor](../../main/G/Gondor.md)" bởi [Matěj Čadil](../../main/M/Matěj_Čadil.md)
+"[Meneldil](../../main/M/Meneldil.md) của [Gondor](../../main/G/Gondor.md)" của [Matěj Čadil](../../main/M/Matěj_Čadil.md)
 
 ## Giấy phép {#Licensing}
 

@@ -19,7 +19,7 @@ langlinks:
     url: "https://kontu.wiki/Isilya"
 ---
 
-**Isilya** là tên [Quenya](../Q/Quenya.md) của ngày thứ ba trong tuần [Eldarin](../E/Eldar.md) sáu ngày (và [Númenórean](../N/Númenóreans.md) tuần bảy ngày), tên của nó đề cập đến [Mặt Trăng](../M/Moon.md). Tên [Sindarin](../S/Sindarin.md) của nó là **Orithil**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
+**Isilya** là tên [Quenya](../Q/Quenya.md) của ngày thứ ba trong tuần lễ sáu ngày [Eldarin](../E/Eldar.md) (và tuần bảy ngày [Númenórean](../N/Númenóreans.md)), tên của nó ám chỉ [Mặt trăng](../M/Moon.md). Tên [Sindarin](../S/Sindarin.md) của nó là **Orithil**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

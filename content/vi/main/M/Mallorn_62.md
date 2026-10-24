@@ -34,7 +34,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mallorn62.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/2/25/Mallorn62.jpg/320px-Mallorn62.jpg" decoding="async" loading="lazy" width="320" height="449" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/25/Mallorn62.jpg/480px-Mallorn62.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/2/25/Mallorn62.jpg/640px-Mallorn62.jpg 2x" data-file-width="760" data-file-height="1067"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mallorn 62</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Luke Shelton</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Winter 2021</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0308-6674</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mallorn_61.md" title="Mallorn 61">Mallorn 61</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mallorn_63.md" title="Mallorn 63">Mallorn 63</a></td></tr></tbody></table>
 
-<b><i>Mallorn</i> 62</b> là số thứ sáu mươi hai của tạp chí thường niên [Hội Tolkien](../T/The_Tolkien_Society.md) của *[Mallorn](<Mallorn_(journal).md>)*, xuất bản vào Mùa đông [2021](../_/2021.md).
+<b><i>Mallorn</i> 62</b> là số thứ 62 của tạp chí thường niên của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) *[Mallorn](<Mallorn_(journal).md>)*, xuất bản vào Mùa đông [2021](../_/2021.md).
 
 ## Nội dung {#Contents}
 
@@ -43,15 +43,15 @@ infobox:
 - **Bài viết**
     - "Bài hát về sức mạnh vĩ đại hơn: Công trình xây dựng Lúthien Tinúviel của Tolkien" của Clare Moore
     - "Sự phục vụ của Samwise: Chủ nghĩa anh hùng, Trí tưởng tượng và Sự phục hồi" của Sarah Shahan
-    - "The Sách Đỏ và Tolkien *The Lord of the Rings*: Một sự không chắc chắn kỳ lạ" của Vincent Ferré và Pauline Loquin
+    - "Sách Đỏ và *The Lord of the Rings* của Tolkien: Một sự không chắc chắn kỳ lạ" của Vincent Ferré và Pauline Loquin
 - **Ghi chú**
-    - "Bạn của SelbyTolkien" của [Douglas A. Anderson](../D/Douglas_A._Anderson.md)
+    - "Người bạn của Tolkien Selby" của [Douglas A. Anderson](../D/Douglas_A._Anderson.md)
     - "Dấu nối dưới dạng hình vị từ vựng phụ trong *The Hobbit*" của Sparrow Alden
     - "Bạn có thể cho tôi biết cách đi đến phố Watling không?" bởi Kristine Larsen
 - **Đánh giá**
-    - *[Trung Địa hoặc Đến đó và Quay lại](Middle-earth,_or_There_and_Back_Again.md). Dòng Cormarë #44* của [Łukasz Neubauer](../_/Łukasz_Neubauer.md) (được đánh giá bởi Tamsin Barlow và Milton Nye Weatherhead)
-    - *[Tolkien và Thế giới Cổ điển](../T/Tolkien_and_the_Classical_World.md). Dòng Cormarë #45*, ed. Hamish Williams (được đánh giá bởi Shawn Marchese)
-    - <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Following_the_Formula_in_Beowulf,_%C3%96rvar-Odds_saga,_and_Tolkien&amp;action=edit&amp;redlink=1" title="Following the Formula in Beowulf, Örvar-Odds saga, and Tolkien (page does not exist)">Tuân theo Công thức trong Beowulf, câu chuyện Örvar-Odds và Tolkien</a></i> của Michael Fox (do Richard Rohlin đánh giá)
+    - *[Trung Địa, hoặc Ở đó và Trở lại](Middle-earth,_or_There_and_Back_Again.md). Dòng Cormarë #44* của [Łukasz Neubauer](../_/Łukasz_Neubauer.md) (được đánh giá bởi Tamsin Barlow và Milton Nye Weatherhead)
+    - *[Tolkien và thế giới cổ điển](../T/Tolkien_and_the_Classical_World.md). Dòng Cormarë #45*, ed. Hamish Williams (được đánh giá bởi Shawn Marchese)
+    - <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Following_the_Formula_in_Beowulf,_%C3%96rvar-Odds_saga,_and_Tolkien&amp;action=edit&amp;redlink=1" title="Following the Formula in Beowulf, Örvar-Odds saga, and Tolkien (page does not exist)">Tuân theo công thức trong Beowulf, Örvar-Odds saga và Tolkien</a></i> của Michael Fox (được đánh giá bởi Richard Rohlin)
     - *[Tolkien’s Modern Reading: Middle-earth Beyond the Middle Ages](../T/Tolkien's_Modern_Reading.md)* của [Holly Ordway](../H/Holly_Ordway.md) (được đánh giá bởi Putri Prihatini)
 - **Bài gửi**
     - Thư
@@ -62,4 +62,4 @@ infobox:
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://journals.tolkiensociety.org/mallorn/issue/view/63/" rel="noreferrer noopener" target="_blank">Vấn đề này tại trang web Hội Tolkien</a>
+- <a class="external text" href="http://journals.tolkiensociety.org/mallorn/issue/view/63/" rel="noreferrer noopener" target="_blank">Số này tại trang web của The Tolkien Society</a>

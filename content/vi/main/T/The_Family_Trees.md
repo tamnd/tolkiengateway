@@ -39,19 +39,19 @@ sort_keys:
 <li><a href="Tal-Elmar_(chapter).md" title="Tal-Elmar (chapter)">Tal-Elmar</a></li></ol>
 </td></tr></tbody></table>
 
-**Cây phả hệ** là chương thứ ba của *[The Peoples of Middle-earth](The_Peoples_of_Middle-earth.md)*. Trong chương này [Christopher Tolkien](../C/Christopher_Tolkien.md) theo dõi quá trình tiến hóa của cây phả hệ của nhiều dòng họ [Hobbit](../H/Hobbits.md) khác nhau đã được công bố trong [Phụ lục C](../A/Appendix_C.md) ở *[The Lord of the Rings](The_Lord_of_the_Rings.md)*. Christopher đã sao chép các bảng theo các giai đoạn liên tiếp cho các dòng [Baggins](../B/Baggins_Family~66343.md) (BA), [Bolger](../B/Bolger_Family~66348.md) (BG), [Boffin](../B/Boffin_Family~66342.md) (BF), [Brandybuck](../B/Brandybuck_Family~66350.md) (BR), [Took](Took_Family.md) (T) và [Gamgee/Gardner](../G/Gamgee_Family~66365.md) (S) để người đọc có thể dễ dàng thấy chúng phát triển như thế nào theo thời gian.
+**Cây phả hệ** là chương thứ ba của *[The Peoples of Middle-earth](The_Peoples_of_Middle-earth.md)*. Trong chương này, [Christopher Tolkien](../C/Christopher_Tolkien.md) đã theo dõi quá trình tiến hóa của cây phả hệ của nhiều thị tộc [Hobbit](../H/Hobbits.md) khác nhau đã được xuất bản trong [Phụ lục C](../A/Appendix_C.md) ở *[The Lord of the Rings](The_Lord_of_the_Rings.md)*. Christopher đã tái tạo các bảng theo các giai đoạn liên tiếp cho các dòng [Baggins](../B/Baggins_Family~66343.md) (BA), [Bolger](../B/Bolger_Family~66348.md) (BG), [Boffin](../B/Boffin_Family~66342.md) (BF), [Brandybuck](../B/Brandybuck_Family~66350.md) (BR), [Took](Took_Family.md) (T) và [Gamgee/Gardner](../G/Gamgee_Family~66365.md) (S) để người đọc có thể dễ dàng thấy chúng phát triển theo thời gian như thế nào.
 
-Christopher dán nhãn các bảng cây phả hệ trong chương này bằng một hoặc hai chữ cái theo sau là một số chỉ vị trí của bảng trong một chuỗi. Tất cả các bảng đều có ít nhất bốn hoặc năm phiên bản và chúng thường được thực hiện theo nhóm. Như vậy BA1, BG1, BR1 và T2 đều được viết cùng nhau. Các cụm khác gồm: BA2, BF1, BR2; BA3, BG2, BF2, BR4, T4 và S1; và BA4, BG3, và BF3. Cần lưu ý rằng phiên bản "cuối cùng" của một số bảng không được cung cấp vì chúng được in trong Phụ lục C.
+Christopher dán nhãn các bảng cây gia phả trong chương này bằng một hoặc hai chữ cái theo sau là một con số chỉ vị trí của cái bàn trong một chuỗi. Tất cả các bảng đều có ít nhất bốn hoặc năm phiên bản và chúng thường được thực hiện theo nhóm. Như vậy BA1, BG1, BR1 và T2 đều được viết cùng nhau. Các cụm khác gồm: BA2, BF1, BR2; BA3, BG2, BF2, BR4, T4 và S1; và BA4, BG3, và BF3. Cần lưu ý rằng phiên bản "cuối cùng" của một số bảng không được cung cấp vì chúng được in trong Phụ lục C.
 
-Trong một số cây gia phả Tolkien đã có những thay đổi lớn về tên cũng như ngày sinh hoặc ngày mất. Christopher giải thích rằng những thay đổi này không chỉ mang tính chất cầu kỳ mà còn được thực hiện khi câu chuyện được viết sao cho tên và tuổi của các hobbit xuất hiện trong câu chuyện được thể hiện một cách trung thực trên cây.
+Trong một số cây gia phả, Tolkien đã thực hiện nhiều thay đổi về tên cũng như ngày sinh hoặc ngày mất. Christopher giải thích rằng những thay đổi không chỉ mang tính chất cầu kỳ mà còn được thực hiện khi câu chuyện được viết sao cho tên và tuổi của những người hobbit xuất hiện trong câu chuyện được thể hiện một cách trung thực trên cây.
 
-Christopher lưu ý rằng các bảng Bolger và Boffin đã sẵn sàng để in trong Phụ lục C trong các phiên bản đầu tiên nhưng chúng đã bị rút ra trước khi xuất bản. Anh ta không đưa ra bằng chứng nào về lý do từ chối và chỉ có thể suy đoán rằng nó liên quan đến tình trạng thiếu không gian nghiêm trọng được phân bổ cho Phụ lục.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Christopher lưu ý rằng các bảng Bolger và Boffin đã sẵn sàng để in trong Phụ lục C trong các phiên bản đầu tiên nhưng chúng đã bị rút ra trước khi xuất bản. Ông báo cáo không có bằng chứng nào liên quan đến lý do từ chối và chỉ có thể suy đoán rằng nó có liên quan đến sự thiếu hụt trầm trọng chỗ trống dành cho các Phụ lục.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Lưu ý {#Note}
 
-Bạn đọc muốn xem cây phả hệ cuối cùng của các gia đình được đề cập trong chương này có thể xem trong các bài **Tolkien Gateway** sau:
+Độc giả muốn xem cây phả hệ cuối cùng của những gia đình được đề cập trong chương này có thể xem chúng trong các bài viết **Cổng Tolkien** sau:
 
-- [Baggins Gia đình](../B/Baggins_Family~66343.md)
+- [Gia đình Baggins](../B/Baggins_Family~66343.md)
 - [Gia đình Bolger](../B/Bolger_Family~66348.md)
 - [Gia đình Boffin](../B/Boffin_Family~66342.md)
 - [Gia đình Brandybuck](../B/Brandybuck_Family~66350.md)

@@ -27,11 +27,11 @@ images:
 <p class="tg-quote-footer"><cite><a href="Samwise_Gamgee.md" title="Samwise Gamgee">Sam</a></cite></p>
 </blockquote></div></div>
 
-<i><b>Tạp chí Stapeldon</b></i>, xuất bản lần đầu trên [1901](../_/1901.md), là một tạp chí do Exeter College sản xuất.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Một số số có thơ của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
+<i><b>Tạp chí Stapeldon</b></i>, xuất bản lần đầu trên [1901](../_/1901.md), là tạp chí do Exeter College sản xuất.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Một số số có bài thơ của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
 ## Tháng 12 năm 1913 {#December_1913}
 
-Tập. 4. Số 20. tr. 345. Oxford: Cao đẳng Exeter.
+Tập. 4. Số 20. tr. 345. Oxford: trường đại học Exeter.
 
 Số này có khổ thơ đầu tiên của bài thơ *[Valedictory](../V/Valedictory.md)* (tr. 11).
 

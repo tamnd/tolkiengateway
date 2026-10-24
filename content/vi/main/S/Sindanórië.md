@@ -18,9 +18,9 @@ sort_keys:
   "Quenya locations": "Sindanorie"
 ---
 
-**Sindanórie** được cho là tên của một "vùng bóng tối thần thoại", nằm ở chân ngoài của [Pelóri](../P/Pelóri.md) Dãy Núi ở [Valinor](../V/Valinor.md).<sup id="cite_ref-PE17_1-0" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup>
+**Sindanórie** được cho là tên của một "vùng bóng tối thần thoại", nằm ở chân ngoài của Dãy núi [Pelóri](../P/Pelóri.md) ở [Valinor](../V/Valinor.md).<sup id="cite_ref-PE17_1-0" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup>
 
-Trong [lời than thở của cô ấy](../N/Namárië.md),<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> [Galadriel](../G/Galadriel.md) nói rằng từ một Quốc gia Xám (*sindanóriello*), bóng tối bao trùm những con sóng ngăn cách cô và [Varda](../V/Varda.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Trong [lời than thở](../N/Namárië.md),<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> [Galadriel](../G/Galadriel.md) nói rằng từ Xứ Xám (*sindanóriello*), bóng tối bao trùm lên những con sóng ngăn cách cô và [Varda](../V/Varda.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -28,10 +28,10 @@ Tên [Quenya](../Q/Quenya.md) *Sindanórie* bao gồm *[sinda](Sindar.md#Etymolo
 
 ## Xem thêm {#See_also}
 
-- [Avathar](../A/Avathar.md)
-- [Quần đảo Phù phép](../E/Enchanted_Isles.md)
+- [Hình đại diện](../A/Avathar.md)
+- [Quần đảo bị phù phép](../E/Enchanted_Isles.md)
 - [Ẩn Valinor](../H/Hiding_of_Valinor.md)
-- [Shadowy Seas](Shadowy_Seas.md)
+- [Biển bóng tối](Shadowy_Seas.md)
 
 <span></span>
 

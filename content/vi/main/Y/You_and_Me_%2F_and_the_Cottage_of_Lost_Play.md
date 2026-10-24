@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Little House of Lost Play: Mar Vanwa Tyaliéva"
 ---
 
-Chuyển hướng tới [Ngôi nhà nhỏ của trò chơi lạc lối: Mar Vanwa Tyaliéva](../T/The_Little_House_of_Lost_Play%253A_Mar_Vanwa_Tyaliéva.md).
+Chuyển hướng đến [The Little House of Lost Play: Mar Vanwa Tyaliéva](../T/The_Little_House_of_Lost_Play%253A_Mar_Vanwa_Tyaliéva.md).

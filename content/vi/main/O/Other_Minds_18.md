@@ -28,19 +28,19 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Other Minds 18</span></th></tr><tr><th scope="row" class="tg-infobox-label">Latest editor</th><td class="tg-infobox-data"><a href="../T/Thomas_Morwinsky.md" title="Thomas Morwinsky">Thomas Morwinsky</a>, Hawke Robinson</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Other Minds Volunteers</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">March <a href="../_/2018.md" title="2018">2018</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">PDF</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">94</td></tr></tbody></table>
 
-<b><i>Other Minds</i> 18</b> là số thứ mười tám của *[Other Minds](Other_Minds.md)*, một tạp chí dành riêng cho *[Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)* và các trò chơi nhập vai khác lấy bối cảnh Trung Địa, xuất bản vào tháng 3 năm 2018.
+<b><i>Other Minds</i> 18</b> là số thứ mười tám của *[Other Minds](Other_Minds.md)*, một tạp chí dành cho *[Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)* và các trò chơi nhập vai khác lấy bối cảnh ở Trung Địa, được xuất bản vào tháng 3 năm 2018.
 
 ## Nội dung {#Contents}
 
 - "Biên tập"
     - Bởi [Thomas Morwinsky](../T/Thomas_Morwinsky.md)
-- "The Road Goes Ever On"
+- "Con Đường Mãi Mãi Đi"
     - Bởi Thomas Morwinsky
 - "Thông tin nội bộ"
     - Bởi Thomas Morwinsky
 - "Đánh giá: Bree"
-    - Tác giả José Enrique Vacas de la Rosa
-- "Đánh giá: Những chúa tể kỵ mã của Rohan"
+    - Bởi José Enrique Vacas de la Rosa
+- "Đánh giá: Các chúa tể ngựa của Rohan"
     - Bởi Thomas Morwinsky
 - "Tòa án Ardor và Cuốn sách Linsûl"
     - Bởi Tom Davies

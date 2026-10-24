@@ -21,14 +21,14 @@ images:
 
 Vào tháng 8 [1968](../_/1968.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho Ingrid Pridgeon**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-- **Mô tả:** Thư xin chữ ký, 2pp. & phong bì, địa chỉ 8vo, Oxford bị gạch bỏ và đánh máy c/o Messrs Geo. Allen và Unwin, đóng dấu bưu điện Poole, tháng 8 năm 1968.<sup id="cite_ref-Bloom_2-0" class="reference"><a href="#cite_note-Bloom-2">[2]</a></sup>
+- **Mô tả:** Thư xin chữ ký, 2pp. & phong bì, 8vo, địa chỉ Oxford bị gạch bỏ và đánh máy c/o Messrs Geo. Allen và Unwin, đóng dấu bưu điện Poole, tháng 8 năm 1968.<sup id="cite_ref-Bloom_2-0" class="reference"><a href="#cite_note-Bloom-2">[2]</a></sup>
 - **Ấn bản:** Các đoạn trích, mô tả và ảnh của bức thư được đưa vào *[Bloomsbury Auctions: Modern First Editions, English &amp; Continental Literature &amp; History, Emblem Books, Economics &amp; Law 13 March 2008](../B/Bloomsbury_Modern_First_Editions,_English_and_Continental_Literature_and_History,_Emblem_Books,_Economics_and_Law_13_March_2008.md)*.
 
 ## Nội dung {#Contents}
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/I/Ingrid_Pridgeon_August_1968.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/7b/Ingrid_Pridgeon_August_1968.jpg/300px-Ingrid_Pridgeon_August_1968.jpg" decoding="async" loading="lazy" width="300" height="395" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/7/7b/Ingrid_Pridgeon_August_1968.jpg 1.5x" data-file-width="400" data-file-height="526"/></a><figcaption></figcaption></figure>
 
-\[Tolkien xin lỗi\] vì đã không trả lời đầy đủ hơn, "Tôi đang gặp một khoảng thời gian khá tồi tệ. Tôi đã rời đi Oxford, và khi đang di chuyển, tôi bị ngã xuống cầu thang và bị thương nặng ở chân phải đến mức bó bột từ ngón chân đến hông, và tôi phải chống nạng" và \[đưa ra\] một tham chiếu đến *The Lord of the Rings*, "Tôi nhận thấy Spire Hollin: rất giống Shire. Hollin là dạng nhựa ruồi phía bắc: và trong Quyển I của The L.R: Tôi đã sống một thời gian ở Leeds trong một ngõ Hollin".<sup id="cite_ref-Bloom_2-1" class="reference"><a href="#cite_note-Bloom-2">[2]</a></sup>
+\[Tolkien xin lỗi\] vì đã không trả lời đầy đủ hơn, "Tôi đang gặp một khoảng thời gian khá tồi tệ. Tôi đã rời Oxford, và khi đang di chuyển, tôi bị ngã xuống cầu thang và bị thương ở chân phải nặng đến mức thạch cao từ ngón chân đến hông, và tôi phải chống nạng" và \[đưa ra\] đề cập đến *The Lord of the Rings*, "Tôi nhận thấy Spire Hollin: rất giống Shire. Hollin là dạng nhựa ruồi phía bắc: và trong Quyển I của The L.R: Tôi đã sống một thời gian ở Leeds trong ngõ Hollin.<sup id="cite_ref-Bloom_2-1" class="reference"><a href="#cite_note-Bloom-2">[2]</a></sup>
 
 <span></span>
 

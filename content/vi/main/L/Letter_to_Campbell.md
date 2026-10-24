@@ -21,7 +21,7 @@ images:
 Vào [28 tháng 7](../_/28_July.md) [1973](../_/1973.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho Campbell**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 - **Chủ đề:** lá thư có chữ ký của J.R.R. Tolkien gửi tới Giáo sư Campbell, cảm ơn ông vì đã được nhận Bằng danh dự.
-- **Mô tả:** Thư xin chữ ký, 1 trang. Được ký bởi Tolkien.
+- **Mô tả:** Thư xin chữ ký, 1 trang. Có chữ ký của Tolkien.
 - **Ấn bản:** Một đoạn trích từ bức thư được trích dẫn trong chương "Tiểu sử là nguồn: Niggles and Notions" trong *[Tolkien and the Study of His Sources](../T/Tolkien_and_the_Study_of_His_Sources.md)* (2011).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Phiên âm {#Transcription}

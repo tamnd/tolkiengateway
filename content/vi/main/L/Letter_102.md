@@ -31,7 +31,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien đã bình luận về "<a class="extiw" href="http://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki" title="wikipedia:Atomic bombings of Hiroshima and Nagasaki">Bom nguyên tử</a>" và tố cáo những chiến thuật như vậy là "hoàn toàn điên rồ". Với sự suy thoái cả về đạo đức lẫn trí tuệ, những vũ khí như vậy trong tay con người sẽ không phải là điều khôn ngoan cho lắm. Nhưng nếu mọi việc suôn sẻ, Nhật Bản sẽ nhượng bộ. Tolkien kết thúc đoạn văn bằng tuyên bố rằng tất cả chúng ta đều nằm trong tay Chúa, và Chúa không có thiện cảm với những người xây dựng Tháp Babel. <br>
+Tolkien đã bình luận về "<a class="extiw" href="http://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki" title="wikipedia:Atomic bombings of Hiroshima and Nagasaki">bom nguyên tử</a>" và tố cáo những chiến thuật như vậy là "hoàn toàn điên rồ". Với sự suy thoái cả về đạo đức lẫn trí tuệ, những vũ khí như vậy trong tay con người sẽ không phải là điều khôn ngoan cho lắm. Nhưng nếu mọi việc suôn sẻ, Nhật Bản sẽ nhượng bộ. Tolkien kết thúc đoạn văn bằng tuyên bố rằng tất cả chúng ta đều nằm trong tay Chúa, và Chúa không có thiện cảm với những người xây dựng tháp Babel. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

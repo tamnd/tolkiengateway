@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Valandil (The Lost Road)"
 ---
 
-Chuyển hướng tới [Valandil (The Lost Road)](<Valandil_(The_Lost_Road).md>).
+Chuyển hướng tới [Valandil (Con đường đã mất)](<Valandil_(The_Lost_Road).md>).

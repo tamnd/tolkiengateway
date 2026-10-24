@@ -35,7 +35,7 @@ infobox:
 
 <i><b>W.H. Auden: Di sản</b></i> là tập hợp 26 bài tiểu luận về [W.H. Auden](W.H._Auden.md) đề cập đến cuộc đời và nghệ thuật của ông.
 
-[Những bức thư chưa được xuất bản](../L/Letters_not_published_in_%2522The_Letters_of_J.R.R._Tolkien%2522.md) từ [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) gửi cho Roger Verhulst và [Rod Jellema](../R/Rod_Jellema.md) được Jellema trích dẫn và mô tả trong một bài tiểu luận kể lại việc Auden rút khỏi hợp đồng viết một tập sách nhỏ về Tolkien trong bộ truyện Eerdmans. Bài luận có tựa đề "Auden on Tolkien: Cuốn sách không có, và Ngôi nhà đã đánh sập nó".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+[Những bức thư chưa được xuất bản](../L/Letters_not_published_in_%2522The_Letters_of_J.R.R._Tolkien%2522.md) từ [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) gửi Roger Verhulst và [Rod Jellema](../R/Rod_Jellema.md) được Jellema trích dẫn và mô tả trong một bài tiểu luận kể lại việc Auden rút khỏi hợp đồng viết một tập sách nhỏ về Tolkien trong bộ truyện Eerdmans. Bài luận có tựa đề "Auden on Tolkien: Cuốn sách không có, và Ngôi nhà đã phá hủy nó".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Nội dung được chọn {#Selected_content}
 

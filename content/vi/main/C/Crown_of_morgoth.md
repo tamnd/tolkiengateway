@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Iron Crown"
 ---
 
-Chuyển hướng đến [Vương miện Sắt](../I/Iron_Crown.md).
+Chuyển hướng tới [Vương miện sắt](../I/Iron_Crown.md).

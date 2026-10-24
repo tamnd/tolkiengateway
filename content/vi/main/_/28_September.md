@@ -61,16 +61,16 @@ images:
 </div><div class="template-month__footer"><div class="tg-button"><a href="../J/January.md" title="January">Jan</a></div><div class="tg-button"><a href="../F/February.md" title="February">Feb</a></div><div class="tg-button"><a href="../M/March.md" title="March">Mar</a></div><div class="tg-button"><a href="../A/April.md" title="April">Apr</a></div><div class="tg-button"><a href="../M/May.md" title="May">May</a></div><div class="tg-button"><a href="../J/June.md" title="June">Jun</a></div><div class="tg-button"><a href="../J/July.md" title="July">Jul</a></div><div class="tg-button"><a href="../A/August.md" title="August">Aug</a></div><div class="tg-button"><a href="../S/September.md" title="September">Sep</a></div><div class="tg-button"><a href="../O/October.md" title="October">Oct</a></div><div class="tg-button"><a href="../N/November.md" title="November">Nov</a></div><div class="tg-button"><a href="../D/December.md" title="December">Dec</a></div></div>
 </div>
 
-Sự kiện xảy ra vào ngày 28 tháng Chín.
+Sự kiện xảy ra vào ngày 28 tháng 9
 
 ## Trên Trái đất {#On_Earth}
 
 - **[1930](1930.md)** - Họa sĩ minh họa [Livia Rusz](../L/Livia_Rusz.md) ra đời.
 - **[1937](1937.md)** - Diễn viên lồng tiếng [Donald Gee](../D/Donald_Gee.md) ra đời.
-- **[1973](1973.md)** - Tạp chí <i><a class="external text" href="https://www.nationalreview.com/2005/10/tolkien-rip-guy-davenport/" rel="noreferrer noopener" target="_blank">Tạp chí Quốc gia</a></i> đăng một bài về cái chết của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
+- **[1973](1973.md)** - Tạp chí <i><a class="external text" href="https://www.nationalreview.com/2005/10/tolkien-rip-guy-davenport/" rel="noreferrer noopener" target="_blank">Tạp chí Quốc gia</a></i> đăng bài về cái chết của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 - **[1979](1979.md)** - [Oxonmoot 1979](../O/Oxonmoot_1979.md) tại khách sạn Eastgate.
 - **[1980](1980.md)** - [Oxonmoot 1980](../O/Oxonmoot_1980.md) tại The Turf Tavern.
-- **[1985](1985.md)** - [Oxonmoot 1985](../O/Oxonmoot_1985.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Oxford_Town_Hall" title="wikipedia:Oxford Town Hall">Oxford Tòa thị chính</a>.
+- **[1985](1985.md)** - [Oxonmoot 1985](../O/Oxonmoot_1985.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Oxford_Town_Hall" title="wikipedia:Oxford Town Hall">Tòa thị chính Oxford</a>.
 - **[2004](2004.md)** - Sách nhại *[The Sillymarillion](../T/The_Sillymarillion.md)* được xuất bản.
 - **[2008](2008.md)** - [Oxonmoot 2008](../O/Oxonmoot_2008.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Christ_Church,_Oxford" title="wikipedia:Christ Church, Oxford">Nhà thờ Chúa Kitô</a>.
 - **[2010](2010.md)** - *[The Music of the Lord of the Rings Films](../T/The_Music_of_the_Lord_of_the_Rings_Films.md)*, bởi [Doug Adams](../D/Doug_Adams.md), được xuất bản.
@@ -78,10 +78,10 @@ Sự kiện xảy ra vào ngày 28 tháng Chín.
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Frodo](../F/Frodo_Baggins.md) và những người bạn đồng hành của anh ta đi ngang qua [Barrow-downs](../B/Barrow-downs.md) và bị bắt giữ bởi một [Barrow-wight](../B/Barrow-wights.md). [Tom Bombadil](../T/Tom_Bombadil.md) giải cứu họ, tìm và đổi tên năm chú ngựa con của họ, đưa vũ khí cho họ và đề nghị đến thăm [Prancing Pony](../P/Prancing_Pony.md) tại [Bree](../B/Bree.md).
-    - [Gandalf](../G/Gandalf.md) đạt [Sarn Ford](../S/Sarn_Ford.md).
+    - [Frodo](../F/Frodo_Baggins.md) và những người bạn đồng hành của anh đi qua [Barrow-down](../B/Barrow-downs.md) và bị bắt giữ bởi [Barrow-wight](../B/Barrow-wights.md). [Tom Bombadil](../T/Tom_Bombadil.md) giải cứu họ, tìm và đổi tên năm chú ngựa con của họ, đưa cho chúng vũ khí và đề nghị đến thăm [Ngựa chồm](../P/Prancing_Pony.md) tại [Bree](../B/Bree.md).
+    - [Gandalf](../G/Gandalf.md) tiếp cận [Sarn Ford](../S/Sarn_Ford.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.
-    - Vào ban đêm [Khamûl](../K/Khamûl.md) và [Ringwraith](../R/Ringwraiths.md) từ [Dol Guldur](../D/Dol_Guldur.md) đến [Crickhollow](../C/Crickhollow.md); Khamûl gửi [Dol Guldur](../D/Dol_Guldur.md) Ringwraith để thu thập Ringwraith những người đã bảo vệ [Cầu Brandywine](../B/Brandywine_Bridge.md) và những con ngựa mà họ đã bỏ lại. Cả ba Nazgûl sau đó canh chừng Crickhollow suốt đêm cho đến sáng hôm sau.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+    - Vào ban đêm [Khamûl](../K/Khamûl.md) và [Ringwraith](../R/Ringwraiths.md) từ [Dol Guldur](../D/Dol_Guldur.md) đến [Crickhollow](../C/Crickhollow.md); Khamûl cử [Dol Guldur](../D/Dol_Guldur.md) Ringwraith đi thu thập Ringwraith, kẻ đã canh giữ [Cầu Brandywine](../B/Brandywine_Bridge.md) và những con ngựa mà chúng đã bỏ lại. Sau đó, ba Ma Nhẫn canh gác Crickhollow suốt đêm cho đến sáng hôm sau.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

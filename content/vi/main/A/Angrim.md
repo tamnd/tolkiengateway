@@ -31,11 +31,11 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../E/Edain.md" title="Edain">Adan</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Angrim</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">Children</th><td class="tg-infobox-data"><a href="../G/Gorlim.md" title="Gorlim">Gorlim</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr></tbody></table>
 
-**Angrim** là [người](../M/Men.md) của [Nhà Bëor](../H/House_of_Bëor.md).
+**Angrim** là một [người](../M/Men.md) của [Nhà Bëor](../H/House_of_Bëor.md).
 
 ## Lịch sử {#History}
 
-Angrim sống vào khoảng thế kỷ thứ năm của [Kỷ Đệ Nhất](../F/First_Age.md). Ông có ít nhất một con trai, [Gorlim](../G/Gorlim.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Angrim sống vào khoảng thế kỷ thứ năm của [Kỷ nguyên thứ nhất](../F/First_Age.md). Ông có ít nhất một con trai, [Gorlim](../G/Gorlim.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Phả hệ {#Genealogy}
 

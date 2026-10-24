@@ -39,9 +39,9 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tale_gondolin.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/2/27/Tale_gondolin.jpg/320px-Tale_gondolin.jpg" decoding="async" loading="lazy" width="320" height="438" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/2/27/Tale_gondolin.jpg 1.5x" data-file-width="423" data-file-height="579"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Tale of Gondolin</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../A/Alex_Lewis.md" title="Alex Lewis">Alex Lewis</a> (editor)</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">privately printed and bound in Great Britian</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/1987.md" title="1987">1987</a> (first edition)</td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Hardcover</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">228+</td></tr></tbody></table>
 
-<i><b>Câu chuyện về Gondolin</b></i> là nỗ lực của [Alex Lewis](../A/Alex_Lewis.md) nhằm biên soạn những câu chuyện còn dang dở về [Turgon](Turgon.md) và [Gondolin](../G/Gondolin.md) của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) thành một ấn phẩm duy nhất (theo cách tương tự như *[The Children of Húrin](The_Children_of_Húrin.md)*). Câu chuyện dựa trên các văn bản từ *[The Silmarillion](The_Silmarillion.md)*, *[Unfinished Tales](../U/Unfinished_Tales.md): "[Về Tuor và Việc Ngài Đến Gondolin](../O/Of_Tuor_and_his_Coming_to_Gondolin.md)*" và *[The Book of Lost Tales Part Two](The_Book_of_Lost_Tales_Part_Two.md)*.
+<i><b>Câu chuyện về Gondolin</b></i> là nỗ lực của [Alex Lewis](../A/Alex_Lewis.md) nhằm biên soạn những câu chuyện còn dang dở về [Turgon](Turgon.md) và [Gondolin](../G/Gondolin.md) của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) thành một ấn phẩm duy nhất (theo cách tương tự như *[The Children of Húrin](The_Children_of_Húrin.md)*). Câu chuyện dựa trên các văn bản từ *[The Silmarillion](The_Silmarillion.md)*, *[Unfinished Tales](../U/Unfinished_Tales.md): "[Về Tuor và việc ông đến Gondolin](../O/Of_Tuor_and_his_Coming_to_Gondolin.md)*" và *[The Book of Lost Tales Part Two](The_Book_of_Lost_Tales_Part_Two.md)*.
 
-*The Tale of Gondolin* không được hỗ trợ bởi [Tolkien Estate](Tolkien_Estate.md), mặc dù người ta tuyên bố rằng [Priscilla Tolkien](../P/Priscilla_Tolkien.md) đã cho phép bằng lời nói để Lewis làm việc với dự án.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+*The Tale of Gondolin* không được hỗ trợ bởi [Tolkien Estate](Tolkien_Estate.md), mặc dù có tuyên bố rằng [Priscilla Tolkien](../P/Priscilla_Tolkien.md) đã cho phép bằng lời nói để Lewis làm việc với dự án.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Ấn phẩm được giới hạn ở 50 bản trên toàn thế giới và giá trị đề xuất cho một bản duy nhất là hơn 1.000 USD.
 
@@ -49,16 +49,16 @@ infobox:
 
 - Lời tựa cho ấn bản thứ hai
 - Lời nói đầu: Trang 1
-- Giới thiệu phiên bản minh họa và chiếu sáng: Trang 4
-- 1\. Đường tới Gondolin: Trang 7
+- Giới thiệu bản minh họa và minh họa: Trang 4
+- 1\. Đường lên Gondolin: Trang 7
 - 2\. Cháu trai đen tối: Trang 20
-- 3\. Trận Kỷ Đệ Tứ và trận thứ Năm: Trang 37
-- 4\. Về Tuor và những chuyến hành trình của anh: Trang 57
+- 3\. Trận chiến thứ tư và thứ năm: Trang 37
+- 4\. Về Tuor và những cuộc hành trình của ông: Trang 57
 - 5\. Con đường đen tối: Trang 89
 - 6\. Thành Phố Đá Và Bài Hát: Trang 109
 - 7\. Cơn Bão Tụ Tập: Trang 140
 - 8\. Cuối bài hát: Trang 165
-- 9 Đường đến Biển: Trang 204
+- 9 Đường ra biển: Trang 204
 - Phần kết
 - Mục lục minh họa của Ruth Lacon
 
@@ -66,7 +66,7 @@ infobox:
 
 ### Ấn bản đầu tiên {#First_Edition}
 
-Trong [1987](../_/1987.md) hai bản sao chứng minh của cuốn sách đã được xuất bản. Một chiếc được buộc bằng da màu đỏ và được trao cho [Priscilla Tolkien](../P/Priscilla_Tolkien.md) và chiếc còn lại được bọc vải cho Lewis. Cả hai bản sao đều không có chữ ký hoặc minh họa.
+Trong [1987](../_/1987.md) hai bản sao chứng minh của cuốn sách đã được xuất bản. Một chiếc được bọc da màu đỏ và được trao cho [Priscilla Tolkien](../P/Priscilla_Tolkien.md) và chiếc còn lại được bọc vải cho Lewis. Cả hai bản sao đều không có chữ ký hoặc minh họa.
 
 ### Trạng thái đầu tiên {#First_State}
 
@@ -80,7 +80,7 @@ Tính đến hết [1995](../_/1995.md), 28 trong số 50 bản đã được b�
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Tale_of_Gondolin.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/c/cf/The_Tale_of_Gondolin.jpg/300px-The_Tale_of_Gondolin.jpg" decoding="async" loading="lazy" width="300" height="426" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/c/cf/The_Tale_of_Gondolin.jpg 1.5x" data-file-width="344" data-file-height="488"/></a><figcaption>The cover of the second state</figcaption></figure>
 
-Vào cuối năm 2003 hoặc đầu năm 2004, một nhà sưu tập sách người Mỹ được Alex Lewis cho biết rằng 22 bản còn lại vẫn chưa được bán và vẫn chưa được đóng bìa. Anh ấy đã chọn mua 22 bản sao và đóng chúng bằng một bìa sách khác ở Manchester vì bìa sách ban đầu không may đã qua đời. 22 bản sao mới đóng bìa này đã được hoàn thành vào năm 2004 và được gọi là Bang thứ hai.
+Vào cuối năm 2003 hoặc đầu năm 2004, một nhà sưu tập sách người Mỹ được Alex Lewis cho biết rằng 22 bản còn lại vẫn chưa được bán và vẫn chưa được đóng bìa. Ông đã chọn mua 22 bản sao và đóng chúng bằng một bìa sách khác ở Manchester vì bìa sách ban đầu không may đã qua đời. 22 bản sao mới đóng bìa này đã được hoàn thành vào năm 2004 và được gọi là Bang thứ hai.
 
 ## Liên kết ngoài {#External_links}
 

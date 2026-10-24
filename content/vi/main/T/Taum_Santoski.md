@@ -20,7 +20,7 @@ sort_keys:
   "People by name": "Santoski, Taum"
 ---
 
-**Taum J.R. Santoski** ([Ngày 2 tháng 11](../_/2_November.md), [1958](../_/1958.md) - [19 tháng 8](../_/19_August.md), [1991](../_/1991.md), 32 tuổi) là thành viên nổi bật của [Elvish Hội học bổng ngôn ngữ](../E/Elvish_Linguistic_Fellowship.md). Ông đã hỗ trợ [Christopher Tolkien](../C/Christopher_Tolkien.md) thực hiện bộ truyện *[History of Middle-earth](The_History_of_Middle-earth.md)*,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và dự định thực hiện một cuốn sách tương tự về quá trình sáng tác của *[The Hobbit](The_Hobbit.md)* nhưng đã qua đời vì bệnh ung thư trước khi kịp hoàn thành nó. [Tác phẩm](The_History_of_The_Hobbit.md) được tiếp tục và xuất bản bởi [John D. Rateliff](../J/John_D._Rateliff.md).
+**Taum J.R. Santoski** ([Ngày 2 tháng 11](../_/2_November.md), [1958](../_/1958.md) - [19 tháng 8](../_/19_August.md), [1991](../_/1991.md), 32 tuổi) là thành viên nổi bật của [Hiệp hội Ngôn ngữ học Elvish](../E/Elvish_Linguistic_Fellowship.md). Ông đã hỗ trợ [Christopher Tolkien](../C/Christopher_Tolkien.md) thực hiện bộ truyện *[History of Middle-earth](The_History_of_Middle-earth.md)*<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và dự định thực hiện một cuốn sách tương tự về quá trình sáng tác của chính *[The Hobbit](The_Hobbit.md)* nhưng đã qua đời vì bệnh ung thư trước khi ông kịp hoàn thành nó. [Tác phẩm](The_History_of_The_Hobbit.md) được tiếp tục và xuất bản bởi [John D. Rateliff](../J/John_D._Rateliff.md).
 
 ## Thư mục {#Bibliography}
 
@@ -31,11 +31,11 @@ sort_keys:
 - [1987](../_/1987.md): *[Selections from the Marquette J.R.R. Tolkien Collection](../S/Selections_from_the_Marquette_J.R.R._Tolkien_Collection.md)*
     - "Ranh giới của Vương quốc Nhỏ"
 - [1991](../_/1991.md): [*Vinyar Tengwar* 15](../V/Vinyar_Tengwar_15.md)
-    - "Elvish Thuật ngữ ngôn ngữ"
+    - "Thuật ngữ ngôn ngữ Elf"
 - [1991](../_/1991.md): [*Vinyar Tengwar* 20](../V/Vinyar_Tengwar_20.md)
-    - "Danh sách nguồn của các ngôn ngữ Elvish được tìm thấy trong *The Letters of J.R.R. Tolkien*"
+    - "Danh sách nguồn của các ngôn ngữ Tiên được tìm thấy trong *The Letters of J.R.R. Tolkien*"
 - [1994](../_/1994.md): [*Parma Eldalamberon* 10](../P/Parma_Eldalamberon_10.md)
-    - "Bảng chú giải các ngôn ngữ thứ yếu trong The Etymologies"
+    - "Bảng chú giải các ngôn ngữ thứ yếu trong từ nguyên"
 
 ### Khác {#Other}
 
@@ -44,9 +44,9 @@ sort_keys:
 
 ## Cống hiến {#Dedications}
 
-- [*Vinyar Tengwar* 19](../V/Vinyar_Tengwar_19.md) được dành để tưởng nhớ ông và có một bài xã luận *In Memoriam* của [Patrick H. Wynne](../P/Patrick_H._Wynne.md), trong đó ca ngợi sự kiên trì, rộng lượng và nhiệt tình của ông.
-- [*Vinyar Tengwar* 24](../V/Vinyar_Tengwar_24.md) được dành riêng cho anh ấy để ghi nhận công việc của anh ấy trên [Adûnaic](../A/Adûnaic.md) và hỗ trợ Christopher Tolkien với *History of Middle-earth*.
-- *[Sauron Defeated](../S/Sauron_Defeated.md)*, Tập IX của *[The History of Middle-earth](The_History_of_Middle-earth.md)* được Christopher Tolkien dành tặng để tưởng nhớ ông để ghi nhận sự hỗ trợ của ông trong bộ truyện *The History of Middle-earth*.
+- [*Vinyar Tengwar* 19](../V/Vinyar_Tengwar_19.md) được dành để tưởng nhớ ông và có bài xã luận *In Memoriam* của [Patrick H. Wynne](../P/Patrick_H._Wynne.md), trong đó ca ngợi sự kiên trì, rộng lượng và nhiệt tình của ông.
+- [*Vinyar Tengwar* 24](../V/Vinyar_Tengwar_24.md) được dành tặng cho ông để ghi nhận công việc của ông trên [Adûnaic](../A/Adûnaic.md) và hỗ trợ Christopher Tolkien với *History of Middle-earth*.
+- *[Sauron Defeated](../S/Sauron_Defeated.md)*, Tập IX của *[The History of Middle-earth](The_History_of_Middle-earth.md)* được Christopher Tolkien dành tặng để tưởng nhớ ông nhằm ghi nhận sự hỗ trợ của ông trong bộ truyện *The History of Middle-earth*.
 
 <span></span>
 

@@ -27,7 +27,7 @@ file:
 
 ## Phân tích nghệ thuật {#Art_Analysis}
 
-<i><b>Caranthir và Haleth</b></i> của [Catherine Karina Chmiel](../../main/C/Catherine_Karina_Chmiel.md) là một tác phẩm tuyệt vời so sánh niềm kiêu hãnh bướng bỉnh của con người [Haleth](../../main/H/Haleth.md) với sự ngưỡng mộ lạnh lùng của người giải cứu cô, Tiên [Caranthir Bóng tối](../../main/C/Caranthir.md) tối cao. Tuy nhiên, đây là một vấn đề đáng chú ý. Trong cuộc đời của Haleth [người của cô](../../main/H/Haladin.md) đã vượt qua [Dãy Núi Xanh](../../main/B/Blue_Mountains.md) và gặp nhau lần đầu [High Elves](../../main/H/High_Elves.md). High Elves chịu trách nhiệm giảng dạy [Con Người](../../main/M/Men.md) nền văn hóa cao hơn, bao gồm cả nghề rèn. Haleth không thể mặc áo giáp như trong hình; có thể người của cô ấy không có áo giáp nào cả.
+<i><b>Caranthir và Haleth</b></i> của [Catherine Karina Chmiel](../../main/C/Catherine_Karina_Chmiel.md) là một tác phẩm tuyệt vời so sánh niềm kiêu hãnh bướng bỉnh của con người [Haleth](../../main/H/Haleth.md) với sự ngưỡng mộ lạnh lùng của người giải cứu cô, Tiên [Caranthir Bóng tối](../../main/C/Caranthir.md) tối cao. Tuy nhiên, đây là một vấn đề đáng chú ý. Trong cuộc đời của Haleth [người của cô](../../main/H/Haladin.md) đã vượt qua [Dãy Núi Xanh](../../main/B/Blue_Mountains.md) và gặp nhau lần đầu [High Elves](../../main/H/High_Elves.md). High Elves chịu trách nhiệm giảng dạy [Con Người](../../main/M/Men.md) nền văn hóa cao hơn, bao gồm cả nghề rèn. Haleth không thể mặc áo giáp như trong hình; có thể người của bà không có áo giáp nào cả.
 
 ## Giấy phép {#Licensing}
 

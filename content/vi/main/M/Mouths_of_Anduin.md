@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ethir Anduin"
 ---
 
-Chuyển hướng đến [Ethir Anduin](../E/Ethir_Anduin.md).
+Chuyển hướng tới [Ethir Anduin](../E/Ethir_Anduin.md).

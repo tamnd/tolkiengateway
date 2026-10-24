@@ -29,4 +29,4 @@ file:
 <p class="tg-quote-footer"><cite><a href="../../main/G/Gandalf.md" title="Gandalf">Gandalf</a></cite></p>
 </blockquote></div></div>
 
-Sai chính tả, xem [Tệp:Miriam Ellis - Brock under briar nghe Bombadil.jpg](Miriam_Ellis_-_Brock_under_briar_hears_Bombadil.jpg.md)
+Sai chính tả, xem [File:Miriam Ellis - Brock under briar listens Bombadil.jpg](Miriam_Ellis_-_Brock_under_briar_hears_Bombadil.jpg.md)

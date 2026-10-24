@@ -87,7 +87,7 @@ Aladamir đã bị giết trong cuộc chiến với Harad và Hải tặc Umbar
 
 ## Các phiên bản khác của huyền thoại {#Other_verions_of_the_legendarium}
 
-Một bản thảo muộn của phần sau này trở thành Appendix A cũng đề cập rằng Aldamir là con thứ ba của Eldacar, ngụ ý rằng anh ta cũng có một người em gái, rằng anh trai Ornendil của anh ta đã bị giết vào năm [T.A.](../T/Third_Age.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=Third_Age_1446&amp;action=edit&amp;redlink=1" title="Third Age 1446 (page does not exist)">1446</a> và rằng Aldamir đã bị giết trong một cuộc chiến với các vị vua nổi loạn của Harad liên minh với quân nổi dậy của Umbar.<sup id="cite_ref-Elendil_1-1" class="reference"><a href="#cite_note-Elendil-1">[1]</a></sup>
+Một bản thảo muộn của phần sau này trở thành Appendix A cũng đề cập rằng Aldamir là con thứ ba của Eldacar, ngụ ý rằng ông ta cũng có một người em gái, rằng anh trai Ornendil của ông ta đã bị giết vào năm [T.A.](../T/Third_Age.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=Third_Age_1446&amp;action=edit&amp;redlink=1" title="Third Age 1446 (page does not exist)">1446</a> và rằng Aldamir đã bị giết trong một cuộc chiến với các vị vua nổi loạn của Harad liên minh với quân nổi dậy của Umbar.<sup id="cite_ref-Elendil_1-1" class="reference"><a href="#cite_note-Elendil-1">[1]</a></sup>
 
 <span></span>
 

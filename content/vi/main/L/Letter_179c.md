@@ -29,7 +29,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien bày tỏ sự tiếc nuối với [Rayner Unwin](../R/Rayner_Unwin.md) vì không có thời gian làm việc trên *[The Silmarillion](../T/The_Silmarillion.md)* do lịch trình bận rộn. Anh hy vọng rằng học kỳ sẽ trở nên dễ dàng hơn sau đợt gấp rút hành chính ban đầu, giúp anh có nhiều thời gian hơn để tập trung vào các dự án của mình. Tolkien ghi nhận và cảm ơn Unwin vì những lời chúc mừng trước đây của anh ấy khi hoàn thành *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* và bày tỏ lòng biết ơn đối với lòng tốt, sự giúp đỡ và hỗ trợ liên tục của Unwin, đặc biệt là trong những thời điểm bên ngoài ít ghi nhận những nỗ lực của Tolkien. <br>
+Tolkien bày tỏ sự tiếc nuối với [Rayner Unwin](../R/Rayner_Unwin.md) vì không có thời gian làm *[The Silmarillion](../T/The_Silmarillion.md)* do lịch trình bận rộn. Anh hy vọng rằng học kỳ sẽ trở nên dễ dàng hơn sau đợt gấp rút hành chính ban đầu, giúp anh có nhiều thời gian hơn để tập trung vào các dự án của mình. Tolkien ghi nhận và cảm ơn Unwin vì những lời chúc mừng trước đây của ông khi hoàn thành *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, đồng thời bày tỏ lòng biết ơn đối với lòng tốt, sự giúp đỡ và hỗ trợ liên tục của Unwin, đặc biệt là trong những thời điểm bên ngoài ít ghi nhận những nỗ lực của Tolkien. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

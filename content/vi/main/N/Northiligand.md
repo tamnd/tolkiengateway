@@ -14,13 +14,13 @@ categories:
   - "Third Age characters"
 ---
 
-**Northiligand** là lãnh chúa của [người dân](../G/Gondorian.md) vùng [Đồng bằng](../E/Ethir_Anduin.md) trong những bản thảo đầu tiên của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*. Anh ta được nhắc đến trong một bản phác thảo cùng với [Benrodir](../B/Benrodir.md) và [Inram](../I/Inram.md) với tư cách là một trong những thủ lĩnh của [Gondor](../G/Gondor.md) đã đến trợ giúp [Minas Tirith](../M/Minas_Tirith.md) trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Không có thông tin gì khác về anh ta, vì anh ta không xuất hiện ở nơi nào khác trong [huyền thoại](../L/Legendarium.md).
+**Northiligand** là lãnh chúa của [người dân](../G/Gondorian.md) vùng [Đồng bằng](../E/Ethir_Anduin.md) trong những bản thảo đầu tiên của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*. Ông ta được nhắc đến trong một bản phác thảo cùng với [Benrodir](../B/Benrodir.md) và [Inram](../I/Inram.md) với tư cách là một trong những thủ lĩnh của [Gondor](../G/Gondor.md) đã đến trợ giúp [Minas Tirith](../M/Minas_Tirith.md) trong [War of the Ring](../W/War_of_the_Ring.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Không có thông tin nào khác về ông ta, vì ông ta không xuất hiện ở nơi nào khác trong [huyền thoại](../L/Legendarium.md).
 
 ## Từ nguyên {#Etymology}
 
-Trước đó, tên của anh ấy được đánh vần là <i><b>Nosdiligand</b></i>, mặc dù Christopher Tolkien đã đề cập rằng một số chữ cái không đọc được.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Trước đó, tên của ông được đánh vần là <i><b>Nosdiligand</b></i>, mặc dù Christopher Tolkien đã đề cập rằng một số chữ cái không đọc được.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Theo *[Eldamo](../E/Eldamo.md)* thì tên *Nosdiligand* có trong [Noldorin](Noldorin.md) nhưng nghĩa không rõ ràng.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Theo *[Eldamo](../E/Eldamo.md)*, tên *Nosdiligand* có trong [Noldorin](Noldorin.md) nhưng ý nghĩa của nó không rõ ràng.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

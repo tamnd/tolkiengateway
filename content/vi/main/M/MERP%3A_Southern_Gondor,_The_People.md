@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Southern Gondor: The People"
 ---
 
-Chuyển hướng đến [Miền Nam Gondor: Con người](../S/Southern_Gondor%253A_The_People.md).
+Chuyển hướng đến [Southern Gondor: The People](../S/Southern_Gondor%253A_The_People.md).

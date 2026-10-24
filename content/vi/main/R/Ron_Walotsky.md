@@ -30,9 +30,9 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Person</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Ron Walotsky</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Born</th><td class="tg-infobox-data"><a href="../_/21_August.md" title="21 August">21 August</a> <a href="../_/1943.md" title="1943">1943</a></td></tr><tr><th scope="row" class="tg-infobox-label">Died</th><td class="tg-infobox-data"><a href="../_/29_July.md" title="29 July">29 July</a> <a href="../_/2002.md" title="2002">2002</a></td></tr><tr><th scope="row" class="tg-infobox-label">Occupation</th><td class="tg-infobox-data">Artist</td></tr></tbody></table>
 
-**Ron Walotsky** ([21 tháng 8](../_/21_August.md) [1943](../_/1943.md) – [29 tháng 7](../_/29_July.md) [2002](../_/2002.md)) là một nghệ sĩ khoa học viễn tưởng và giả tưởng người Mỹ. Sau khi tốt nghiệp Trường Nghệ thuật Thị giác ở New York năm 1966, ông nhanh chóng tìm được việc làm trong nhiều lĩnh vực khác nhau, từ minh họa tạp chí đến ảnh bìa album. Vào những năm 1990, ông được [Vương miện Sắt Enterprises](../I/Iron_Crown_Enterprises.md) ủy quyền tạo tác phẩm nghệ thuật thiệp cho *[Middle-earth Collectible Card Game](../M/Middle-earth_Collectible_Card_Game.md)*.
+**Ron Walotsky** ([21 tháng 8](../_/21_August.md) [1943](../_/1943.md) – [29 tháng 7](../_/29_July.md) [2002](../_/2002.md)) là một nghệ sĩ khoa học viễn tưởng và giả tưởng người Mỹ. Sau khi tốt nghiệp Trường Nghệ thuật Thị giác ở New York năm 1966, ông nhanh chóng tìm được việc làm trong nhiều lĩnh vực khác nhau, từ minh họa tạp chí đến ảnh bìa album. Vào những năm 1990, ông được [Iron Crown Enterprises](../I/Iron_Crown_Enterprises.md) ủy quyền để tạo tác phẩm nghệ thuật thẻ cho *[Middle-earth Collectible Card Game](../M/Middle-earth_Collectible_Card_Game.md)*.
 
-Anh ấy chủ yếu làm việc với acrylic trên bảng minh họa.<sup id="cite_ref-CCGA_1-0" class="reference"><a href="#cite_note-CCGA-1">[1]</a></sup>
+Ông chủ yếu làm việc với acrylic trên bảng minh họa.<sup id="cite_ref-CCGA_1-0" class="reference"><a href="#cite_note-CCGA-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}
 

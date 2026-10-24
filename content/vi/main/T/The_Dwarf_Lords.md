@@ -14,7 +14,7 @@ sort_keys:
   "The Hobbit: An Unexpected Journey - Original Motion Picture Soundtrack - Special Edition": "216"
 ---
 
-**The Người lùn Lords** là bài hát thứ mười sáu trong đĩa hai của *[The Hobbit: An Unexpected Journey - Original Motion Picture Soundtrack - Special Edition](The_Hobbit%253A_An_Unexpected_Journey_-_Original_Motion_Picture_Soundtrack_-_Special_Edition.md)*, bởi [Howard Shore](../H/Howard_Shore.md). Đây là bài hát thứ ba trong số bốn 'bài hát thưởng độc quyền'.
+**The Dwarf Lords** là bài hát thứ mười sáu trong đĩa hai của *[The Hobbit: An Unexpected Journey - Original Motion Picture Soundtrack - Special Edition](The_Hobbit%253A_An_Unexpected_Journey_-_Original_Motion_Picture_Soundtrack_-_Special_Edition.md)*, bởi [Howard Shore](../H/Howard_Shore.md). Đây là bài hát thứ ba trong số bốn 'bài hát thưởng độc quyền'.
 
 ## Xem thêm {#See_also}
 

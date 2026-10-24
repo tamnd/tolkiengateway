@@ -31,11 +31,11 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-[Allen &amp; Unwin](../A/Allen_&_Unwin.md) đã chọn <a class="extiw" href="http://en.wikipedia.org/wiki/Milein_Cosman" title="wikipedia:Milein Cosman">Milein Cosman</a> để minh họa *[Farmer Giles of Ham](../F/Farmer_Giles_of_Ham.md)* và sau nhiều lần trì hoãn đã gửi Tolkien mẫu để lấy ý kiến. Tolkien không quan tâm đến tính thời trang của các bức vẽ mà quan tâm nhiều hơn đến việc chúng không giống với văn bản. Câu chuyện của anh ấy chắc chắn đã được định vị với những địa điểm được đặt tên hoặc chỉ ra khá rõ ràng, nhưng người vẽ tranh minh họa đã không cố gắng thể hiện điều này.
+[Allen & Unwin](../A/Allen_&_Unwin.md) đã chọn <a class="extiw" href="http://en.wikipedia.org/wiki/Milein_Cosman" title="wikipedia:Milein Cosman">Milein Cosman</a> để minh họa *[Farmer Giles of Ham](../F/Farmer_Giles_of_Ham.md)* và sau nhiều lần trì hoãn, đã gửi mẫu cho Tolkien để lấy ý kiến. Tolkien không quan tâm đến tính thời trang của các bức vẽ mà quan tâm nhiều hơn đến việc chúng không giống với văn bản. Câu chuyện của ông chắc chắn đã được định vị với những địa điểm được đặt tên hoặc chỉ ra khá rõ ràng, nhưng người vẽ tranh minh họa đã không cố gắng thể hiện điều này.
 
-Người khổng lồ có thể qua được, Tolkien nói, nhưng cây cối được vẽ kém và con rồng thì lố bịch, nhút nhát một cách lố bịch và không có năng lực. Một bức vẽ cho thấy con rồng nhìn đi nơi khác khi con chó rời đi, nhưng con chó trong câu chuyện đã tìm thấy đuôi con rồng trước chứ không phải đầu của nó. Người nông dân to mồm hơn những người bạn của mình, nhưng ông ta lại sống trong một túp lều lụp xụp khi còn là một yeoman hay Franklin thịnh vượng.
+Tolkien nói, gã khổng lồ có thể vượt qua được, nhưng cây cối được vẽ kém và con rồng thì ngớ ngẩn, nhút nhát một cách lố bịch và không có khả năng. Một bức vẽ cho thấy con rồng nhìn đi nơi khác khi con chó rời đi, nhưng con chó trong câu chuyện đã tìm thấy đuôi con rồng trước chứ không phải đầu của nó. Người nông dân to mồm hơn những người bạn của mình, nhưng ông ta lại sống trong một túp lều lụp xụp khi còn là một yeoman hay Franklin thịnh vượng.
 
-Tolkien tuyên bố rằng anh sẽ nằm trong tay các nhà xuất bản nếu họ cho rằng những hình minh họa hoàn toàn không phù hợp với phong cách hoặc cách thức của anh là cần thiết. Tuy nhiên, anh ấy hỏi, liệu họ có bao giờ bắt cô C. hoàn thành công việc không? Và khi nào cuốn sách sẽ ra mắt?
+Tolkien tuyên bố rằng ông sẽ nằm trong tay các nhà xuất bản nếu họ cho rằng những bức tranh minh họa hoàn toàn không phù hợp với phong cách hoặc cách thức của ông là cần thiết. Tuy nhiên, ông hỏi, liệu họ có bao giờ bắt cô C. hoàn thành công việc không? Và khi nào cuốn sách sẽ ra mắt?
 
 <br>
 

@@ -19,13 +19,13 @@ images:
 
 <table class="noprint" style="float: right; border:var(--tg-border-base); background:var(--tg-color-surface-2); margin: .3em .3em .3em 1em; padding: 10px; text-align: center;border-radius:var(--tg-border-radius-large);"><tbody><tr><th style="border: none; background: transparent;" class="plainlist"><small>Shortcut:<br/><a class="mw-redirect" href="FQ.md" title="Tolkien Gateway:FQ">TG:FQ</a></small></th></tr></tbody></table>
 
-**Trích dẫn nổi bật** trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md) là trích dẫn của hoặc về [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) mà [các biên tập viên của Tolkien Gateway đã chọn để nêu](Featured_quotes%252FNominations.md). Các trích dẫn được chọn để làm nổi bật đặc biệt các bài viết của Tolkien hoặc vì giá trị thẩm mỹ hoặc văn học của chúng. Các trích dẫn nổi bật được hiển thị trên [Trang chính](../../main/M/Main_Page.md).
+**Các trích dẫn nổi bật** trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md) là các trích dẫn của hoặc về [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) mà [các biên tập viên của Tolkien Gateway đã chọn đưa ra](Featured_quotes%252FNominations.md). Các trích dẫn được chọn để làm nổi bật đặc biệt các tác phẩm của Tolkien hoặc vì giá trị thẩm mỹ hoặc văn học của chúng. Các trích dẫn nổi bật được hiển thị trên [Trang chính](../../main/M/Main_Page.md).
 
 ## Quy trình đề cử {#Nomination_process}
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="Featured_quotes%252FNominations.md" title="Tolkien Gateway:Featured quotes/Nominations">Tolkien Gateway:Featured quotes/Nominations</a></b></div></div>
 
-Tất cả các đề cử diễn ra tại [Tolkien Gateway:Trích dẫn nổi bật/Đề cử](Featured_quotes%252FNominations.md). Quy trình đề cử được chính thức hóa bởi [Người dùng: Mith](https://tolkiengateway.net/wiki/User:Mith) tại [2014](../../main/_/2014.md):
+Tất cả các đề cử đều diễn ra tại [Cổng Tolkien:Trích dẫn/Đề cử nổi bật](Featured_quotes%252FNominations.md). Quy trình đề cử được chính thức hóa bởi [User:Mith](https://tolkiengateway.net/wiki/User:Mith) trong [2014](../../main/_/2014.md):
 
 <blockquote class="tg-quote noexcerpt">
 <p>Any registered user can nominate an quote for <b>featured</b> status. It should meet these specific criteria:

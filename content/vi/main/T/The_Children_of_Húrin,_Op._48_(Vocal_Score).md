@@ -22,4 +22,4 @@ images:
 
 Đây là bản rút gọn hoàn chỉnh của bản piano với phần giới thiệu và tóm tắt của nhà soạn nhạc.
 
-Minh họa bìa: TED NASMITH ©2020 “The Slaying of Glaurung"
+Minh họa trang bìa: TED NASMITH ©2020 “Sự tàn sát Glaurung"

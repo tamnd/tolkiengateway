@@ -14,9 +14,9 @@ sort_keys:
   "Letters": "Callahan, Billy"
 ---
 
-Vào ngày [29 tháng Chín](../_/29_September.md) [1968](../_/1968.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho Billy Callahan**, một cậu học sinh ở Philadelphia.<sup id="cite_ref-CG_1-0" class="reference"><a href="#cite_note-CG-1">[1]</a></sup>
+Vào [29 tháng 9](../_/29_September.md) [1968](../_/1968.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho Billy Callahan**, một cậu học sinh ở Philadelphia.<sup id="cite_ref-CG_1-0" class="reference"><a href="#cite_note-CG-1">[1]</a></sup>
 
-- **Chủ đề:** Trả lời độc giả. Tolkien xin lỗi vì không thể gửi ảnh nhưng xin kèm theo chữ ký để Billy đính kèm vào sách.
+- **Chủ đề:** Trả lời độc giả. Tolkien xin lỗi vì không thể gửi ảnh nhưng kèm theo chữ ký để Billy đính kèm vào sách.
 - **Xuất bản:** Bản sao chép và chép lại bức thư xuất hiện trong [*Wisterian* (20 tháng 12 năm 1968)](<../W/Wisterian_(20_December_1968).md>).
 
 <span></span>

@@ -12,15 +12,15 @@ categories:
   - "Roots"
 ---
 
-**BER** là [Primitive Quendian](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) biểu thị "dũng cảm".<sup id="cite_ref-LR_1-0" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
+**BER** là [Quendian nguyên thủy](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) biểu thị "dũng cảm".<sup id="cite_ref-LR_1-0" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
 
 ## Công cụ phái sinh {#Derivatives}
 
-- [Primitive Quendian](../P/Primitive_Quendian.md): *bérya-*<sup id="cite_ref-LR_1-1" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
+- [Quendian nguyên thủy](../P/Primitive_Quendian.md): *bérya-*<sup id="cite_ref-LR_1-1" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
     - [Quenya](../Q/Quenya.md): *verya-* ("dám"); <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Verya&amp;action=edit&amp;redlink=1" title="Verya (page does not exist)">verya</a></i> (tính từ, "táo bạo");<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> *verie* ("táo bạo")<sup id="cite_ref-LR_1-2" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
 
-- [Old Noldorin](../K/Kornoldorin.md): *berina* ("táo bạo, dũng cảm"); *bértha-* ("in đậm")<sup id="cite_ref-LR_1-3" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
-    - [Exilic Noldorin](../N/Noldorin.md): *beren* ("táo bạo"); *bertho* ("dám")<sup id="cite_ref-LR_1-4" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
+- [Ông già Noldorin](../K/Kornoldorin.md): *berina* ("táo bạo, dũng cảm"); *bértha-* ("in đậm")<sup id="cite_ref-LR_1-3" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
+    - [Noldorin lưu vong](../N/Noldorin.md): *beren* ("táo bạo"); *bertho* ("dám")<sup id="cite_ref-LR_1-4" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
 - [Ilkorin](../I/Ilkorin.md): *ber* ("người dũng cảm, chiến binh"); *bereth* ("dũng cảm")<sup id="cite_ref-LR_1-5" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
 - [Danian](../N/Nandorin.md): *[beorn](<Beorn_(Nandorin).md>)* ("người đàn ông")<sup id="cite_ref-LR_1-6" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
 

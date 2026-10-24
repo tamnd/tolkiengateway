@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Balrog](../../main/B/Balrog.md) Tar Goroth như được mô tả trong [Trung Địa: Bóng Tối of War](../../main/M/Middle-earth%253A_Shadow_of_War.md).
+[Balrog](../../main/B/Balrog.md) Tar Goroth như được mô tả trong [Middle-earth: Shadow of War](../../main/M/Middle-earth%253A_Shadow_of_War.md).
 
 ## Giấy phép {#Licensing}
 

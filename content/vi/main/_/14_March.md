@@ -78,12 +78,12 @@ Sự kiện xảy ra vào ngày 14 tháng 3.
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
     - [Samwise](../S/Samwise_Gamgee.md) tìm thấy [Frodo](../F/Frodo_Baggins.md) trong [Tháp Cirith Ungol](../T/Tower_of_Cirith_Ungol.md).
     - [Minas Tirith](../M/Minas_Tirith.md) bị [bao vây](../S/Siege_of_Gondor.md).
-    - [Aragorn](../A/Aragorn.md) đi về phía [Minas Tirith](../M/Minas_Tirith.md)
-    - Con [Rohirrim](../R/Rohirrim.md) di chuyển về phía [Minas Tirith](../M/Minas_Tirith.md). Được dẫn đầu bởi [Drúedain](../D/Drúedain.md) họ đến được [Grey Wood](../G/Grey_Wood.md).
-    - [Trận Dale](../B/Battle_of_Dale.md)
-        - [Easterlings](../E/Easterlings.md) băng qua [Carnen](../C/Carnen.md) và đẩy [Vua](../K/King_of_Dale.md) [Brand](../B/Brand.md) quay lại [Dale](../D/Dale.md).
-        - [Người Dale](../M/Men_of_Dale.md) và [Người Lùn Erebor](../D/Dwarves_of_Erebor.md) đại chiến dưới chân [Erebor](../E/Erebor.md).
-    - Quý cuối cùng của Mặt Trăng<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+    - [Aragorn](../A/Aragorn.md) đi về hướng [Minas Tirith](../M/Minas_Tirith.md)
+    - [Rohirrim](../R/Rohirrim.md) đi về phía [Minas Tirith](../M/Minas_Tirith.md). Được dẫn đầu bởi [Drúedain](../D/Drúedain.md) họ đến được [Grey Wood](../G/Grey_Wood.md).
+    - [Trận chiến Dale](../B/Battle_of_Dale.md)
+        - [Easterlings](../E/Easterlings.md) băng qua [Carnen](../C/Carnen.md) và đẩy [King](../K/King_of_Dale.md) [Thương hiệu](../B/Brand.md) quay trở lại [Dale](../D/Dale.md).
+        - [Người của Dale](../M/Men_of_Dale.md) và [Người lùn của Erebor](../D/Dwarves_of_Erebor.md) đánh một trận lớn dưới chân [Erebor](../E/Erebor.md).
+    - Vầng trăng cuối cùng<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

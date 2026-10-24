@@ -18,16 +18,16 @@ categories:
 <p class="tg-quote-footer"><cite><i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="../A/Appendix_A.md" title="Appendix A">Appendix A</a>, <i>Eriador, Arnor, and the Heirs of Isildur</i></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Con Tàu Cuối Cùng** là con tàu cuối cùng do [Círdan](../C/Círdan.md) đóng, khởi hành từ [Cảng Xám](../G/Grey_Havens.md) đến [Tối cùng Phương Tây](../U/Uttermost_West.md) chở theo [Tiên tộc](../E/Elves.md) cuối cùng từ [Trung Địa](../M/Middle-earth.md).
+**Con tàu cuối cùng** là con tàu cuối cùng do [Círdan](../C/Círdan.md) đóng, khởi hành từ [Grey Havens](../G/Grey_Havens.md) đến [Cực Tây](../U/Uttermost_West.md) chở những [Yêu tinh](../E/Elves.md) cuối cùng từ [Trung Địa](../M/Middle-earth.md).
 
 [Círdan](../C/Círdan.md) đã duy trì nơi trú ẩn ít nhất cho đến [Thời đại thứ tư](../F/Fourth_Age.md) (lần cuối đề cập đến [Grey Havens](../G/Grey_Havens.md) là [Samwise Gamgee](../S/Samwise_Gamgee.md) khởi hành <a class="mw-redirect mw-disambig" href="../W/West.md" title="West">Tây</a> ở [Fo.A.](../F/Fourth_Age.md) [61](../F/Fourth_Age_61.md)),<sup id="cite_ref-Later_1-0" class="reference"><a href="#cite_note-Later-1">[1]</a></sup> nhưng người ta nhận ra rằng cuối cùng, mục đích của nó sẽ đạt được kết thúc khi không còn Yêu tinh nào muốn vượt qua [Biển](../S/Sea.md). Vào thời điểm đó, Círdan sẽ từ bỏ Grey Havens và cuối cùng tự mình đi đến [Con đường thẳng](../S/Straight_Road.md).
 
-Vào một ngày không xác định nào đó,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 1]</a></sup><sup id="cite_ref-AppTale_3-0" class="reference"><a href="#cite_note-AppTale-3">[2]</a></sup><sup id="cite_ref-prologue_4-0" class="reference"><a href="#cite_note-prologue-4">[3]</a></sup> [Celeborn](../C/Celeborn.md) cuối cùng đã tìm thấy Cảng Xám, mang theo ký ức cuối cùng về [Những ngày của Người cao tuổi](../E/Elder_Days.md) ở [Trung Địa](../M/Middle-earth.md). Vì Círdan và Celeborn là một trong những Tiên tộc duy nhất được biết đến của Ngày xưa trong Trung Địa, nên họ có thể đã gộp Con Tàu Cuối Cùng lại với nhau.<sup id="cite_ref-prologue_4-1" class="reference"><a href="#cite_note-prologue-4">[3]</a></sup>
+Vào một ngày nào đó không xác định,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 1]</a></sup><sup id="cite_ref-AppTale_3-0" class="reference"><a href="#cite_note-AppTale-3">[2]</a></sup><sup id="cite_ref-prologue_4-0" class="reference"><a href="#cite_note-prologue-4">[3]</a></sup> [Celeborn](../C/Celeborn.md) cuối cùng đã tìm kiếm Grey Havens, mang theo ký ức cuối cùng về [Ngày của Người cao tuổi](../E/Elder_Days.md) ở [Trung Địa](../M/Middle-earth.md). Vì Círdan và Celeborn là một trong những Yêu tinh thời xa xưa duy nhất được biết đến ở Trung Địa, nên họ sẽ cùng nhau chiếm lấy Con tàu cuối cùng.<sup id="cite_ref-prologue_4-1" class="reference"><a href="#cite_note-prologue-4">[3]</a></sup>
 
 ## Xem thêm {#See_also}
 
-- [Con Tàu Trắng](../W/White_Ship.md)
-- ['Về chuyến khởi hành Celeborn'](https://tolkiengateway.net/wiki/User:Mord/Of_the_Departure_of_Celeborn) của [Mord](https://tolkiengateway.net/wiki/User:Mord)
+- [Tàu trắng](../W/White_Ship.md)
+- ['Sự khởi hành của Celeborn'](https://tolkiengateway.net/wiki/User:Mord/Of_the_Departure_of_Celeborn) của [Mord](https://tolkiengateway.net/wiki/User:Mord)
 
 ## Ghi chú {#Notes}
 

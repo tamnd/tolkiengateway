@@ -16,7 +16,7 @@ sort_keys:
 
 Vào [9 tháng 12](../_/9_December.md) [1965](../_/1965.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_%2522The_Letters_of_J.R.R._Tolkien%2522.md) gửi William McCullam** ở Ohio, Hoa Kỳ.<sup id="cite_ref-CG_1-0" class="reference"><a href="#cite_note-CG-1">[1]</a></sup>
 
-- **Chủ đề:** Tolkien rất biết ơn vì McCullam đã gửi cho anh ấy "tiền bản quyền" cho ấn bản [Ace Books](../A/Ace_Books.md) của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.<sup id="cite_ref-CG_1-1" class="reference"><a href="#cite_note-CG-1">[1]</a></sup>
+- **Chủ đề:** Tolkien rất biết ơn McCullam đã gửi cho ông "tiền bản quyền" cho ấn bản [Ace Books](../A/Ace_Books.md) của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.<sup id="cite_ref-CG_1-1" class="reference"><a href="#cite_note-CG-1">[1]</a></sup>
 - **Xuất bản:** Mô tả về bức thư xuất hiện trong *[The J.R.R. Tolkien Companion and Guide: Chronology](../T/The_J.R.R._Tolkien_Companion_and_Guide.md)*.
 
 <span></span>

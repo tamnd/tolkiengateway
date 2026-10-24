@@ -28,7 +28,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Ereinion [Gil-galad](../../main/G/Gil-galad.md). Trong *[Silmarillion](../../main/S/Silmarillion.md)* đã xuất bản, anh ấy là con trai của [Fingon](../../main/F/Fingon.md), ý tưởng cuối cùng của JRRT là biến anh ấy thành con trai của [Orodreth](../../main/O/Orodreth.md) (bản thân người này trẻ hơn một thế hệ và trở thành con trai của [Angrod](../../main/A/Angrod.md), thay vì là anh trai của anh ấy). Đây là phiên bản xoay và tô màu của hình minh họa đen trắng gốc (có thể nhìn thấy bên dưới) cho một cuộc bút chiến về nguồn gốc của ông trong ấn bản kỷ niệm 20 năm của cuốn niên giám [Aiglos](<../../main/A/Aiglos_(journal).md>) (một ấn phẩm bằng tiếng Ba Lan). Thực hiện bằng Painter & Photoshop 2015, tô màu 2019.
+Ereinion [Gil-galad](../../main/G/Gil-galad.md). Trong *[Silmarillion](../../main/S/Silmarillion.md)* đã xuất bản, ông là con trai của [Fingon](../../main/F/Fingon.md), ý tưởng cuối cùng của JRRT là biến ông thành con trai của [Orodreth](../../main/O/Orodreth.md) (bản thân người này trẻ hơn một thế hệ và trở thành con trai của [Angrod](../../main/A/Angrod.md), thay vì là anh trai của ông). Đây là phiên bản xoay và tô màu của hình minh họa đen trắng gốc (có thể nhìn thấy bên dưới) cho một cuộc bút chiến về nguồn gốc của ông trong ấn bản kỷ niệm 20 năm của cuốn niên giám [Aiglos](<../../main/A/Aiglos_(journal).md>) (một ấn phẩm bằng tiếng Ba Lan). Thực hiện bằng Painter & Photoshop 2015, tô màu 2019.
 
 Con trai của biến thể Orodreth:
 

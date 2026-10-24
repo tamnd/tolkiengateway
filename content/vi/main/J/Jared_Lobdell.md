@@ -45,12 +45,12 @@ Tiến sĩ **Jared Charles Lobdell** (sinh [29 tháng 11](../_/29_November.md) [
 - [1991](../_/1991.md): *[Word and Story in C.S. Lewis](../W/Word_and_Story_in_C.S._Lewis.md)*
     - "C.S. Lewis Những câu chuyện đòi tiền chuộc và tổ tiên của họ ở thế kỷ 18"
 - [2006](../_/2006.md): *[J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment](J.R.R._Tolkien_Encyclopedia%253A_Scholarship_and_Critical_Assessment.md)*
-    - Danh pháp của The Lord of the Rings
+    - Danh pháp Chúa tể của những chiếc nhẫn
     - Thiên thần
     - Carolingian
     - Hang động, Cái
     - Tuổi thơ của Tolkien
-    - Phê phán Tolkien, Thế kỷ XX
+    - Phê bình Tolkien, Thế kỷ XX
     - Huấn luyện viên ngựa của quỷ
     - Giấc mơ
     - Anh, Thế kỷ XX
@@ -66,12 +66,12 @@ Tiến sĩ **Jared Charles Lobdell** (sinh [29 tháng 11](../_/29_November.md) [
     - Thánh Oswald
     - Sauron
     - Tội lỗi
-    - tiếng Wales Ngôn ngữ
+    - Tiếng Wales
     - Chiến tranh thế giới thứ hai
 - [2011](../_/2011.md): *[Light Beyond All Shadow: Religious Experience in Tolkien's Work](../L/Light_Beyond_All_Shadow.md)*
     - "Ymagynatyf và Công giáo La Mã của J.R.R. Tolkien, Thần học Công giáo, Tôn giáo trong *The Lord of the Rings*"
 - [2016](../_/2016.md): *[Laughter in Middle-earth](../L/Laughter_in_Middle-earth.md)*
-    - "Hài hước, hài kịch, hài hước, hài hước, chơi chữ, chơi chữ, 'kỳ ảo' và 'Hài hước kiểu Anh' trong và xung quanh Tolkien và Tác phẩm của anh ấy, cũng như trong số Inklings"
+    - "Hài hước, hài kịch, hài hước, hài hước, chơi chữ, chơi chữ, 'huyền ảo' và 'Hài hước kiểu Anh' trong và xung quanh Tolkien và tác phẩm của ông, cũng như giữa các Inklings"
 
 ### Đánh giá {#Reviews}
 

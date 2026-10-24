@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Wargs"
 ---
 
-Chuyển hướng đến [Warg](../W/Wargs.md).
+Chuyển hướng đến [Wargs](../W/Wargs.md).

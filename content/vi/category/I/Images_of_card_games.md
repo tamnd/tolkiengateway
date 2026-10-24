@@ -15,4 +15,4 @@ sort_keys:
   "Images of merchandise": "card"
 ---
 
-Dưới đây là bộ sưu tập hình ảnh về và từ [trò chơi bài](../C/Card_games.md) liên quan đến [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) và các tác phẩm của anh ấy.
+Dưới đây là bộ sưu tập hình ảnh về và từ [trò chơi bài](../C/Card_games.md) liên quan đến [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) và các tác phẩm của ông.

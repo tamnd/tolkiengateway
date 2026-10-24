@@ -38,19 +38,19 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../A/Arnor.md" title="Arnor">Arnorian</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Valandur</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Titles</th><td class="tg-infobox-data"><a href="../K/King_of_Arnor.md" title="King of Arnor">King of Arnor</a></td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../A/Arnor.md" title="Arnor">Arnor</a></td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data"><a href="../S/Sindarin.md" title="Sindarin">Sindarin</a>, <a href="../W/Westron.md" title="Westron">Westron</a></td></tr><tr><th scope="row" class="tg-infobox-label">Birth</th><td class="tg-infobox-data"><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_462.md" title="Third Age 462">462</a></td></tr><tr><th scope="row" class="tg-infobox-label">Rule</th><td class="tg-infobox-data"><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_602.md" title="Third Age 602">602</a> - <a href="../T/Third_Age_652.md" title="Third Age 652">652</a></td></tr><tr><th scope="row" class="tg-infobox-label">Death</th><td class="tg-infobox-data"><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_652.md" title="Third Age 652">652</a> (aged 190)<br/></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">House</th><td class="tg-infobox-data"><a href="../H/House_of_Isildur.md" title="House of Isildur">House of Isildur</a></td></tr><tr><th scope="row" class="tg-infobox-label">Parentage</th><td class="tg-infobox-data"><a href="../T/Tarondor_(King_of_Arnor).md" title="Tarondor (King of Arnor)">Tarondor</a></td></tr><tr><th scope="row" class="tg-infobox-label">Children</th><td class="tg-infobox-data"><a href="../E/Elendur_(King_of_Arnor).md" title="Elendur (King of Arnor)">Elendur</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr></tbody></table>
 
-**Valandur** ([T.A.](../T/Third_Age.md) [462](../T/Third_Age_462.md)<sup id="cite_ref-elendil_1-0" class="reference"><a href="#cite_note-elendil-1">[1]</a></sup>-[652](../T/Third_Age_652.md),<sup id="cite_ref-North_2-0" class="reference"><a href="#cite_note-North-2">[2]</a></sup> tuổi 190) là [Vua thứ tám của Arnor](../K/King_of_Arnor.md).
+**Valandur** ([T.A.](../T/Third_Age.md) [462](../T/Third_Age_462.md)<sup id="cite_ref-elendil_1-0" class="reference"><a href="#cite_note-elendil-1">[1]</a></sup>-[652](../T/Third_Age_652.md),<sup id="cite_ref-North_2-0" class="reference"><a href="#cite_note-North-2">[2]</a></sup> 190 tuổi) là [Vua của Arnor](../K/King_of_Arnor.md) thứ tám.
 
 ## Lịch sử {#History}
 
 Vào năm [552](../T/Third_Age_552.md) ông có một con trai, Elendur.<sup id="cite_ref-elendil_1-1" class="reference"><a href="#cite_note-elendil-1">[1]</a></sup> Ông kế vị cha mình, [Tarondor](<../T/Tarondor_(King_of_Arnor).md>), lên ngôi ở [602](../T/Third_Age_602.md).
 
-Có rất ít ghi chép về triều đại 50 năm của ông, ngoại trừ việc nó bị cắt ngắn vào [T.A.](../T/Third_Age.md) [652](../T/Third_Age_652.md) khi ông qua đời sớm. Anh là người Vua đầu tiên và duy nhất của [Arnor](../A/Arnor.md) sau [Isildur](../I/Isildur.md) chết thảm.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 1]</a></sup>
+Có rất ít ghi chép về triều đại 50 năm của ông, ngoại trừ việc nó bị cắt ngắn vào [T.A.](../T/Third_Age.md) [652](../T/Third_Age_652.md) khi ông qua đời sớm. Ông là vị vua đầu tiên và duy nhất của [Arnor](../A/Arnor.md) sau [Isildur](../I/Isildur.md) qua đời một cách đau đớn.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 1]</a></sup>
 
 Ông được kế vị bởi con trai mình, [Elendur](<../E/Elendur_(King_of_Arnor).md>), sau khi ông qua đời.<sup id="cite_ref-North_2-1" class="reference"><a href="#cite_note-North-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Valandur* là tên [Quenya](../Q/Quenya.md). Ý nghĩa của nó không được giải thích rõ ràng, nhưng Paul Strack gợi ý nó có nghĩa là "Người hầu của Vala" và là từ ghép của *[vala](Valar.md)* ("Vala") và *[-(n)dur](../_/-ndur.md)* ("người hầu").<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup>
+*Valandur* là tên [Quenya](../Q/Quenya.md). Ý nghĩa của nó không được giải thích rõ ràng, nhưng Paul Strack cho rằng nó có nghĩa là "Người hầu của Vala" và là từ ghép của *[vala](Valar.md)* ("Vala") và *[-(n)dur](../_/-ndur.md)* ("người hầu").<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup>
 
 ## Phả hệ {#Genealogy}
 
@@ -69,7 +69,7 @@ Có rất ít ghi chép về triều đại 50 năm của ông, ngoại trừ vi
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Điều này được suy ra từ biểu tượng con dao găm (†) bên cạnh ngày mất của ông trong <a href="../A/Appendix_A.md" title="Appendix A">Appendix A</a>, mặc dù câu chuyện không đề cập gì đến cuộc đời của ông.</span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Điều này được suy ra từ biểu tượng con dao găm (†) bên cạnh ngày mất của ông trong <a href="../A/Appendix_A.md" title="Appendix A">Phụ lục A</a>, mặc dù câu chuyện không đề cập gì đến cuộc đời của ông.</span>
 </li>
 </ol></div></span>
 

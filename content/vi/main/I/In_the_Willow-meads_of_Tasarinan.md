@@ -19,7 +19,7 @@ images:
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article describes a concept which is mentioned in <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s works, but was never given a definite name.
 </div></div>
 
-**In the Willow-meads of Tasarinan** là bài hát được hát bởi [Treebeard](../T/Treebeard.md) vào [29 tháng 2](../_/29_February.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> khi anh sải bước qua [Rừng Fangorn](../F/Fangorn_Forest.md), đưa [Merry](../M/Meriadoc_Brandybuck.md) và [Pippin](../P/Peregrin_Took.md) về nhà [Wellinghall](../W/Wellinghall.md) ở chân núi [Methedras](../M/Methedras.md). Treebeard đã kể cho các hobbit về "những ngày rộng rãi" vào [Kỷ Đệ Nhất](../F/First_Age.md) khi khu rừng còn rộng lớn hơn nhiều và sau một lúc im lặng, anh ấy bắt đầu hát bài hát này khi đi bộ.
+**In the Willow-meads of Tasarinan** là bài hát được [Treebeard](../T/Treebeard.md) hát vào [29 tháng 2](../_/29_February.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> khi anh sải bước qua [Rừng Fangorn](../F/Fangorn_Forest.md), đưa [Merry](../M/Meriadoc_Brandybuck.md) và [Pippin](../P/Peregrin_Took.md) về nhà của mình [Wellinghall](../W/Wellinghall.md) dưới chân núi [Methedras](../M/Methedras.md). Treebeard đã kể cho hobbit nghe về "những ngày rộng lớn" ở [Kỷ nguyên thứ nhất](../F/First_Age.md) khi những khu rừng rộng lớn hơn nhiều và sau một lúc im lặng, ông ấy bắt đầu hát bài hát này khi đi bộ.
 
 ## Lời bài hát {#Lyrics}
 
@@ -45,11 +45,11 @@ In Tauremornalómë.
 </p>
 </div>
 
-Sau khi hát xong bài hát này Treebeard lặng lẽ bước đi xuyên qua khu rừng tĩnh lặng.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Sau khi hát xong bài hát này Treebeard lặng lẽ bước đi xuyên qua khu rừng im lặng.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Di sản {#Legacy}
 
-[Donald Swann](../D/Donald_Swann.md) đã viết nhạc cho bài hát này, có thể tìm thấy trong sách *[The Road Goes Ever On](<../T/The_Road_Goes_Ever_On_(book).md>)*;<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> nó cũng có trong CD đi kèm của phiên bản mới nhất.
+[Donald Swann](../D/Donald_Swann.md) đã viết nhạc cho bài hát này, có thể tìm thấy trong cuốn sách *[The Road Goes Ever On](<../T/The_Road_Goes_Ever_On_(book).md>)*;<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> nó cũng có trong CD đi kèm của phiên bản mới nhất.
 
 ## Xem thêm {#See_also}
 

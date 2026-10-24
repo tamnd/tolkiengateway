@@ -22,7 +22,7 @@ langlinks:
     url: "https://kontu.wiki/Konnun_kalenteri"
 ---
 
-**Lịch Shire** đã được sử dụng bởi [Hobbit](../H/Hobbits.md) của [ Shire](../T/The_Shire.md). Nó khác với cái được sử dụng bởi [Con Người](../M/Men.md), [Người Lùn](../D/Dwarves.md) và [Tiên tộc](../E/Elves.md). Việc sử dụng lịch này trong Trung Địa được gọi là **[lịch Shire](Shire-reckoning.md)**.
+**Lịch Shire** đã được sử dụng bởi [Hobbit](../H/Hobbits.md) của [Shire](../T/The_Shire.md). Nó khác với thứ được sử dụng bởi [Đàn ông](../M/Men.md), [Người lùn](../D/Dwarves.md) và [Yêu tinh](../E/Elves.md). Việc sử dụng lịch này ở Trung Địa được gọi là **[Tính toán quận](Shire-reckoning.md)**.
 
 Lịch có 12 tháng, tất cả đều dài 30 ngày, cộng thêm 5 hoặc 6 ngày được đặt tên để làm tròn 365 ngày (hoặc 366 cho năm nhuận). Hai trong số những ngày được nêu tên là [Ngày Yule](../Y/Yuledays.md); một là ngày đầu năm và một là ngày cuối cùng của năm. Từ tháng 6 đến tháng 7 là [Ngày Lithe](../L/Lithedays.md). Trong những năm thường (không phải năm nhuận) có ba: 1 Lithe, [Giữa năm](../M/Mid-year's_Day.md), và 2 Lithe. Trong những năm nhuận (mỗi năm thứ tư trừ năm cuối cùng của thế kỷ), một ngày [Overlithe](../O/Overlithe.md) bổ sung được thêm vào sau Ngày giữa năm. Tất cả những ngày được nêu tên đều là những ngày lễ lớn (và là lý do để tổ chức tiệc tùng) trong đó Overlithe là ngày tổ chức lễ hội đặc biệt.<sup id="cite_ref-D1_1-0" class="reference"><a href="#cite_note-D1-1">[1]</a></sup><sup id="cite_ref-D2_2-0" class="reference"><a href="#cite_note-D2-2">[2]</a></sup> Hai Ngày Giáng Sinh thực ra là một phần của Yuletide, bao gồm ba ngày cuối cùng và ba ngày đầu tiên của mỗi năm.<sup id="cite_ref-D2_2-1" class="reference"><a href="#cite_note-D2-2">[2]</a></sup>
 
@@ -30,19 +30,19 @@ Trong *[The Hobbit](../T/The_Hobbit.md)* và *[The Lord of the Rings](../T/The_L
 
 ## Lịch sử {#History}
 
-Khi [Hobbit](../H/Hobbits.md) vẫn còn là những dân [lang thang](../W/Wandering_Days.md), đơn vị lịch của họ không phải là 'tuần' mà là 'tháng', ít nhiều bị chi phối bởi [Mặt Trăng](../M/Moon.md). Theo lịch cũ của họ, năm mới bắt đầu sau vụ thu hoạch. Điều này có thể được nhìn thấy trong tên của tháng [Winterfilth](../W/Winterfilth.md) có nghĩa là "lấp đầy (của năm) trước mùa đông".
+Khi [Hobbit](../H/Hobbits.md) vẫn còn là dân [lang thang](../W/Wandering_Days.md), đơn vị lịch của họ không phải là 'tuần' mà là 'tháng', ít nhiều bị chi phối bởi [Mặt trăng](../M/Moon.md). Theo lịch cũ của họ, năm mới bắt đầu sau vụ thu hoạch. Điều này có thể được nhìn thấy trong tên của tháng [Winterfilth](../W/Winterfilth.md) có nghĩa là "lấp đầy (của năm) trước mùa đông".
 
-Tuy nhiên, thông qua tiếp xúc với các dân tộc ngoài hành tinh (có lẽ là [Dúnedain của Arnor](../D/Dúnedain_of_Arnor.md)), họ đã áp dụng khái niệm tuần, hình thành nên [Shire Tính toán](Shire_Reckoning.md). Nó dựa trên [Vua Tính toán](../K/King's_Reckoning.md) nhưng có một số thay đổi nhỏ để phù hợp với phong tục của họ.
+Tuy nhiên, thông qua tiếp xúc với các dân tộc ngoài hành tinh (có lẽ là [Dúnedain của Arnor](../D/Dúnedain_of_Arnor.md)), họ đã áp dụng khái niệm tuần và hình thành nên [Shire Reckoning](Shire_Reckoning.md). Nó dựa trên [King's Reckoning](../K/King's_Reckoning.md) nhưng có một số thay đổi nhỏ để phù hợp với phong tục của họ.
 
-Một sự đổi mới được giới thiệu bởi [Shire-hobbit](Shire-hobbits.md) là **[Shire-cải cách](Shire-reform.md)** (cuối cùng cũng được áp dụng trong [Bree Lịch](../B/Bree_Calendar.md)). Vào thời Thain [Isengrim II](../I/Isengrim_Took_II.md) họ đã sắp xếp rằng Ngày giữa năm (và ngày Overlithe) sẽ không có tên ngày trong tuần, điều này đã ngăn chặn việc dịch chuyển tên các ngày trong tuần so với ngày tháng. Sự thay đổi này khiến ngày đầu tiên trong năm luôn tương ứng với ngày đầu tiên trong tuần và ngày cuối cùng trong năm luôn tương ứng với ngày cuối cùng trong tuần. Theo thời gian, vì cùng một ngày trong bất kỳ năm nào có cùng tên ngày trong tuần như mọi năm khác, nên dân gian Shire không còn ghi ngày trong tuần bằng thư từ và nhật ký. Vì không có tháng nào bắt đầu vào thứ Sáu nên sự sắp xếp này cũng sinh ra một thành ngữ đùa cợt trong Shire: "Vào thứ Sáu ngày đầu tiên" dùng để chỉ một ngày không tồn tại hoặc một ngày mà những điều không thể xảy ra (cách diễn đạt đầy đủ là "vào thứ Sáu ngày đầu tiên của [Summerfilth](Summerfilth.md)").<sup id="cite_ref-D2_2-3" class="reference"><a href="#cite_note-D2-2">[2]</a></sup>
+Một sự đổi mới được giới thiệu bởi [Shire-hobbit](Shire-hobbits.md) là **[Cải cách Shire](Shire-reform.md)** (cuối cùng cũng được áp dụng trong [Lịch Bree](../B/Bree_Calendar.md)). Vào thời Thain [Isengrim II](../I/Isengrim_Took_II.md) họ đã sắp xếp rằng Ngày giữa năm (và ngày Overlithe) sẽ không có tên ngày trong tuần, điều này đã ngăn chặn việc dịch chuyển tên các ngày trong tuần so với ngày tháng. Sự thay đổi này khiến ngày đầu tiên trong năm luôn tương ứng với ngày đầu tiên trong tuần và ngày cuối cùng trong năm luôn tương ứng với ngày cuối cùng trong tuần. Theo thời gian, vì cùng một ngày trong năm nào đó có tên ngày trong tuần giống như mọi năm khác, người dân Quận không còn ghi ngày trong tuần bằng thư từ và nhật ký nữa. Vì không có tháng nào bắt đầu vào thứ Sáu nên sự sắp xếp này cũng sinh ra một thành ngữ đùa cợt ở Quận: "Vào thứ Sáu ngày đầu tiên" ám chỉ một ngày không tồn tại hoặc một ngày mà những điều không thể xảy ra (cách diễn đạt đầy đủ là "vào thứ Sáu ngày đầu tiên của [Summerfilth](Summerfilth.md)").<sup id="cite_ref-D2_2-3" class="reference"><a href="#cite_note-D2-2">[2]</a></sup>
 
 ## Các tháng trong năm và các ngày đặc biệt {#Months_of_the_year_and_special_days}
 
-The Shire năm dương lịch được chia thành 12 tháng 30 ngày. Năm ngày bổ sung đã được thêm vào để tạo thành một năm có 365 ngày.
+Năm lịch của Quận được chia thành 12 tháng 30 ngày. Năm ngày bổ sung đã được thêm vào để tạo thành một năm có 365 ngày.
 
-Mười hai tháng của Lịch Shire là: [Afteryule](../A/Afteryule.md), [Solmath](Solmath.md), [Rethe](../R/Rethe.md), [Astron](../A/Astron.md), [Thrimidge](../T/Thrimidge.md), [Forelithe](../F/Forelithe.md), [Afterlithe](../A/Afterlithe.md), [Wedmath](../W/Wedmath.md), [Halimath](../H/Halimath.md), [Winterfilth](../W/Winterfilth.md), [Blotmath](../B/Blotmath.md) và [Foreyule](../F/Foreyule.md). Solmath thường được phát âm và đôi khi được viết là Somath. Thrimidge thường được viết là Thrimich và Blotmath được phát âm là Blodmath hoặc Blommath.
+Mười hai tháng theo Lịch Quận là: [Afteryule](../A/Afteryule.md), [Solmath](Solmath.md), [Rethe](../R/Rethe.md), [Astron](../A/Astron.md), [Thrimidge](../T/Thrimidge.md), [Forelithe](../F/Forelithe.md), [Afterlithe](../A/Afterlithe.md), [Wedmath](../W/Wedmath.md), [Halimath](../H/Halimath.md), [Winterfilth](../W/Winterfilth.md), [Blotmath](../B/Blotmath.md) và [Foreyule](../F/Foreyule.md). Solmath thường được phát âm và đôi khi được viết là Somath. Thrimidge thường được viết là Thrimich và Blotmath được phát âm là Blodmath hoặc Blommath.
 
-Trong [Eastfarthing](../E/Eastfarthing.md) tên của Afteryule, Astron và Foreyule lần lượt là [Frery](../F/Frery.md), [Chithing](../C/Chithing.md) và [Yulemath](../Y/Yulemath.md). Những cái này tương ứng với tên được sử dụng trong [Bree](../B/Bree.md) trong những tháng đó.<sup id="cite_ref-D2_2-4" class="reference"><a href="#cite_note-D2-2">[2]</a></sup>
+Trong [Eastfarthing](../E/Eastfarthing.md) tên của Afteryule, Astron và Foreyule lần lượt là [Frery](../F/Frery.md), [Chithing](../C/Chithing.md) và [Yulemath](../Y/Yulemath.md). Những cái này tương ứng với tên được sử dụng ở [Bree](../B/Bree.md) trong những tháng đó.<sup id="cite_ref-D2_2-4" class="reference"><a href="#cite_note-D2-2">[2]</a></sup>
 
 <table border="1" cellpadding="4" cellspacing="0" class="TGtable">
 <tbody><tr>
@@ -189,11 +189,11 @@ Trong [Eastfarthing](../E/Eastfarthing.md) tên của Afteryule, Astron và Fore
 <td colspan="2">20 December
 </td></tr></tbody></table>
 
-*[Yuledays](../Y/Yuledays.md)* là ngày đánh dấu sự kết thúc của một năm cũ và bắt đầu một năm mới nên 2 Yule là ngày đầu tiên của năm mới. Ngày *Lithedays* (gọi tắt là ngày *Summerdays* trong Bree) là 3 ngày giữa năm, 1 ngày Lithe, ngày Giữa năm và 2 ngày Lithe. Trong những năm nhuận (mỗi năm thứ tư trừ năm trăm năm) một ngày được thêm vào sau Ngày Giữa năm gọi là *Overlithe*. Tất cả những ngày này được đặt bên ngoài bất kỳ tháng nào. Những ngày này chủ yếu là những ngày lễ và ngày lễ. *Mid-year's Day* nhằm tương ứng với <a class="extiw" href="http://en.wikipedia.org/wiki/Solstice" title="wikipedia:Solstice">ngày hạ chí</a>, sớm hơn khoảng 10 ngày so với ngày giữa năm của chúng ta.<sup id="cite_ref-D2_2-5" class="reference"><a href="#cite_note-D2-2">[2]</a></sup>
+*[Yuledays](../Y/Yuledays.md)* là ngày đánh dấu sự kết thúc của một năm cũ và bắt đầu một năm mới nên 2 Yule là ngày đầu tiên của năm mới. Ngày *Lithedays* (được gọi là *Summerdays* trong Bree) là ba ngày giữa năm, 1 ngày Lithe, Ngày giữa năm và 2 ngày Lithe. Trong những năm nhuận (mỗi năm thứ tư trừ năm trăm năm) một ngày được thêm vào sau Ngày Giữa năm gọi là *Overlithe*. Tất cả những ngày này được đặt bên ngoài bất kỳ tháng nào. Những ngày này chủ yếu là những ngày lễ và ngày lễ. *Mid-year's Day* nhằm tương ứng với <a class="extiw" href="http://en.wikipedia.org/wiki/Solstice" title="wikipedia:Solstice">ngày hạ chí</a>, sớm hơn khoảng 10 ngày so với ngày giữa năm của chúng ta.<sup id="cite_ref-D2_2-5" class="reference"><a href="#cite_note-D2-2">[2]</a></sup>
 
 ## Các ngày trong tuần {#Days_of_the_week}
 
-Bảy ngày trong tuần của Lịch Shire (tại thời điểm [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md)) là [Ngày Thứ Hai](Sterday.md), [Chủ Nhật](Sunday.md), [Thứ Hai](../M/Monday.md), [Ngày Trew](../T/Trewsday.md), [Ngày Thứ Bảy](../H/Hevensday.md) (hoặc Ngày Hensday), [Thứ Hai](../M/Mersday.md) và [Ngày Cao điểm](../H/Highday.md). Ngày cuối cùng trong tuần, Highday, là ngày chính, ngày nghỉ sau buổi trưa và là thời gian dành cho những bữa tiệc tối.
+Bảy ngày trong tuần theo Lịch Quận (tại thời điểm diễn ra [War of the Ring](../W/War_of_the_Ring.md)) là [Sterday](Sterday.md), [Chủ Nhật](Sunday.md), [Thứ Hai](../M/Monday.md), [Trewsday](../T/Trewsday.md), [Hevensday](../H/Hevensday.md) (hoặc Hensday), [Mersday](../M/Mersday.md) và [Ngày cao điểm](../H/Highday.md). Ngày cuối cùng trong tuần, Highday, là ngày chính, ngày nghỉ sau buổi trưa và là thời gian dành cho những bữa tiệc tối.
 
 Ngày giữa năm và khi có mặt, Overlithe không có bài tập nào trong tuần. Sự sắp xếp này được sử dụng vì nó khiến cho mỗi ngày đều có cùng chỉ định ngày trong tuần từ năm này sang năm khác (thay vì thay đổi như trong <a class="extiw" href="http://en.wikipedia.org/wiki/Gregorian_calendar" title="wikipedia:Gregorian calendar">lịch Gregory</a>).
 
@@ -252,11 +252,11 @@ Ngày giữa năm và khi có mặt, Overlithe không có bài tập nào trong 
 
 Highday là một ngày nghỉ lễ với những bữa tiệc tối.
 
-Tất cả các ngày trong tuần đều được dịch sang *The Lord of the Rings* theo bảng trên, ngoại trừ trong Bài hát của Bilbo, thứ Bảy và Chủ nhật được sử dụng thay cho Ngày Thứ Tư và Ngày Cao điểm, để duy trì "cuối tuần" nghĩa là những ngày trong tuần đó có trong lịch Gregory hiện đại.<sup id="cite_ref-D2_2-6" class="reference"><a href="#cite_note-D2-2">[2]</a></sup>
+Tất cả các ngày trong tuần đều được dịch sang *The Lord of the Rings* theo bảng trên, ngoại trừ trong Bài hát của Bilbo, thứ Bảy và Chủ Nhật được sử dụng thay cho Ngày Mersday và Ngày Cao điểm, để duy trì "cuối tuần" nghĩa là những ngày trong tuần đó có trong lịch Gregory hiện đại.<sup id="cite_ref-D2_2-6" class="reference"><a href="#cite_note-D2-2">[2]</a></sup>
 
 ## Cảm hứng {#Inspiration}
 
-Tên các tháng của Lịch Shire chủ yếu dựa trên <a class="extiw" href="http://en.wikipedia.org/wiki/Germanic_calendar" title="wikipedia:Germanic calendar">lịch Đức</a>.
+Tên các tháng trong Lịch Quận phần lớn dựa trên <a class="extiw" href="http://en.wikipedia.org/wiki/Germanic_calendar" title="wikipedia:Germanic calendar">lịch Đức</a>.
 
 <span></span>
 
@@ -273,5 +273,5 @@ Tên các tháng của Lịch Shire chủ yếu dựa trên <a class="extiw" hre
 
 ## Liên kết ngoài {#External_links}
 
-Trang web - <a class="external text" href="http://shire-reckoning.com/" rel="noreferrer noopener" target="_blank">The Shire-tính toán</a>, dành riêng cho việc phân tích chi tiết về Lịch Hobbit.
-- Dự án <a class="external text" href="https://psarando.github.io/shire-reckoning" rel="noreferrer noopener" target="_blank">Shire Tính toán</a>, dành riêng cho việc mô phỏng và phân tích chi tiết tất cả các lịch của *The Lord of the Rings* [Phụ lục D](../A/Appendix_D.md).
+- <a class="external text" href="http://shire-reckoning.com/" rel="noreferrer noopener" target="_blank">Trang web tính toán quận</a>, dành riêng cho việc phân tích chi tiết về Lịch Hobbit.
+- Dự án <a class="external text" href="https://psarando.github.io/shire-reckoning" rel="noreferrer noopener" target="_blank">Shire Reckoning</a>, dành riêng cho việc mô phỏng và phân tích chi tiết tất cả các lịch của *The Lord of the Rings* [Phụ lục D](../A/Appendix_D.md).

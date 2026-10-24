@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Light Beyond All Shadow"
 ---
 
-Chuyển hướng đến [Ánh sáng vượt lên trên tất cả Bóng Tối](Light_Beyond_All_Shadow.md).
+Chuyển hướng tới [Ánh sáng vượt mọi bóng tối](Light_Beyond_All_Shadow.md).

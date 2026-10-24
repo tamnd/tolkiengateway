@@ -33,14 +33,14 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tim_Tolkien_at_Pembroke_College_(2024).webp.md"><img src="https://tolkiengateway.net/w/images/thumb/1/12/Tim_Tolkien_at_Pembroke_College_%282024%29.webp/300px-Tim_Tolkien_at_Pembroke_College_%282024%29.webp.png" decoding="async" loading="lazy" width="300" height="200" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/12/Tim_Tolkien_at_Pembroke_College_%282024%29.webp/450px-Tim_Tolkien_at_Pembroke_College_%282024%29.webp.png 1.5x, https://tolkiengateway.net/w/images/thumb/1/12/Tim_Tolkien_at_Pembroke_College_%282024%29.webp/600px-Tim_Tolkien_at_Pembroke_College_%282024%29.webp.png 2x" data-file-width="1024" data-file-height="683"/></a><figcaption>Tim next to the statue he created for <a href="../P/Pembroke_College.md" title="Pembroke College">Pembroke College</a> in <a href="../_/2024.md" title="2024">2024</a>.</figcaption></figure>
 
-**Tim Tolkien** (sinh [13 tháng 10](../_/13_October.md) [1962](../_/1962.md)) là chắt của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), con trai của [Julian Tolkien](../J/Julian_Tolkien.md), [Hilary Tolkien](../H/Hilary_Tolkien.md). Anh ấy có một người anh trai tên là Nick.
+**Tim Tolkien** (sinh [13 tháng 10](../_/13_October.md) [1962](../_/1962.md)) là chắt của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), con trai của [Julian Tolkien](../J/Julian_Tolkien.md), con trai của [Hilary Tolkien](../H/Hilary_Tolkien.md). Ông có một người anh trai tên là Nick.
 
 Tim Tolkien là một nhà điêu khắc thành công.
 
 ## Liên kết ngoài {#External_links}
 
 - <a class="external text" href="http://moseleystatue.org/" rel="noreferrer noopener" target="_blank">Đề xuất xây tượng Moseley Ent</a>
-- <a class="external text" href="http://icbirmingham.icnetwork.co.uk/birminghampost/news/tm_objectid=15530734&amp;method=full&amp;siteid=50002&amp;headline=tolkien-statue-plan-splits-community-name_page.html" rel="noreferrer noopener" target="_blank">Birmingham Bài đăng: Tolkien kế hoạch chia rẽ cộng đồng</a>
+- <a class="external text" href="http://icbirmingham.icnetwork.co.uk/birminghampost/news/tm_objectid=15530734&amp;method=full&amp;siteid=50002&amp;headline=tolkien-statue-plan-splits-community-name_page.html" rel="noreferrer noopener" target="_blank">Birmingham Post: Kế hoạch xây tượng Tolkien gây chia rẽ cộng đồng</a>
 - <a class="external text" href="http://online.dudley.gov.uk/news/fullrelease.asp?recid=2097" rel="noreferrer noopener" target="_blank">Ngôi sao điện ảnh Lye được vinh danh công dân</a>
-- <a class="external text" href="http://www.watfordobserver.co.uk/archive/display.var.307760.0.related_to_tolkien.php" rel="noreferrer noopener" target="_blank">Phỏng vấn bố của Tim Tolkien</a>
-- <a class="external text" href="http://www.davidisgrove.pwp.blueyonder.co.uk/TolkienStatue/statuesketches.htm" rel="noreferrer noopener" target="_blank">Các bức ảnh bao gồm ảnh của Tolkien</a>
+- <a class="external text" href="http://www.watfordobserver.co.uk/archive/display.var.307760.0.related_to_tolkien.php" rel="noreferrer noopener" target="_blank">Phỏng vấn cha của Tim Tolkien</a>
+- <a class="external text" href="http://www.davidisgrove.pwp.blueyonder.co.uk/TolkienStatue/statuesketches.htm" rel="noreferrer noopener" target="_blank">Các bức ảnh trong đó có ảnh của Tolkien</a>

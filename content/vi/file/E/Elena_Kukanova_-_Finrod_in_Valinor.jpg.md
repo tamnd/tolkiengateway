@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"*[Finrod](../../main/F/Finrod.md) in [Valinor](../../main/V/Valinor.md)*", bởi [Elena Kukanova](../../main/E/Elena_Kukanova.md)
+"*[Finrod](../../main/F/Finrod.md) in [Valinor](../../main/V/Valinor.md)*", của [Elena Kukanova](../../main/E/Elena_Kukanova.md)
 
 ## Giấy phép {#Licensing}
 

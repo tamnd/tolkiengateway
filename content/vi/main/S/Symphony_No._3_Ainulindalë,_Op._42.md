@@ -14,6 +14,6 @@ categories:
 
 Dàn nhạc giao hưởng của nhà soạn nhạc [Paul Corfield Godfrey](../P/Paul_Corfield_Godfrey.md).
 
-Bản giao hưởng bám sát chương trình mở đầu *[The Silmarillion](../T/The_Silmarillion.md)*của Tolkien và bản thảo gốc trích dẫn toàn bộ chương đó trên nền nhạc; nhưng những chữ viết này không được đưa vào tác phẩm như đã xuất bản.
+Bản giao hưởng theo chương trình mở đầu *[The Silmarillion](../T/The_Silmarillion.md)* của Tolkien, và bản thảo gốc trích dẫn toàn bộ chương trên phần nhạc; nhưng những chữ viết này không được đưa vào tác phẩm như đã xuất bản.
 
 Một phần lớn của tác phẩm này đã được đưa vào *[Fëanor, Op. 46 (Opera)](<../F/Fëanor,_Op._46_(Opera).md>)* làm phần mở đầu cho tác phẩm.

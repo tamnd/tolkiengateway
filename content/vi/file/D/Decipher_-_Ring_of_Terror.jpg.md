@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Nhẫn Khủng bố](../../main/N/Nine_Rings.md#Portrayals_in_adaptations)
+[Chiếc nhẫn khủng bố](../../main/N/Nine_Rings.md#Portrayals_in_adaptations)
 
 ## Giấy phép {#Licensing}
 

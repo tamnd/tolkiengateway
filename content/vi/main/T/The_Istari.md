@@ -52,7 +52,7 @@ images:
 <li><a href="The_Palantíri.md" title="The Palantíri">The Palantíri</a></li></ul>
 </td></tr></tbody></table>
 
-** Istari** là một chương trong [Unfinished Tales](../U/Unfinished_Tales.md), một tác phẩm được xuất bản sau khi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được biên tập và xuất bản bởi [Christopher Tolkien](../C/Christopher_Tolkien.md).
+**Istari** là một chương trong [Unfinished Tales](../U/Unfinished_Tales.md), một tác phẩm được xuất bản sau khi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được biên tập và xuất bản bởi [Christopher Tolkien](../C/Christopher_Tolkien.md).
 
 ## Tóm tắt {#Synopsis}
 
@@ -64,6 +64,6 @@ Trong phần mô tả bối cảnh của năm pháp sư:
 - [Pallando](../B/Blue_Wizards.md)
 - [Radagast](../R/Radagast.md)
 
-Tuy nhiên, trọng tâm chính là Gandalf và Saruman và cụ thể là tên của chúng bằng các ngôn ngữ khác nhau của Trung Địa.
+Tuy nhiên, trọng tâm chính là Gandalf và Saruman và cụ thể là tên của họ bằng các ngôn ngữ khác nhau ở Trung Địa.
 
-Điều quan trọng cần lưu ý là phần này là sự tổng hợp của nhiều bản thảo và văn bản in khác nhau từ [The Silmarillion](The_Silmarillion.md) và [The Lord of the Rings](The_Lord_of_the_Rings.md) với lời bình của [Christopher Tolkien](../C/Christopher_Tolkien.md) chứ không phải là một tài liệu đơn lẻ. Trong ghi chú một số thông tin về [Nữ hoàng Berúthiel](../Q/Queen_Berúthiel.md) cũng được tiết lộ. Ngoài ra còn có một <a class="new" href="https://tolkiengateway.net/w/index.php?title=Wilt_thou_learn_the_lore&amp;action=edit&amp;redlink=1" title="Wilt thou learn the lore (page does not exist)">bài thơ</a> về [Dagor Dagorath](../D/Dagor_Dagorath.md).
+Điều quan trọng cần lưu ý là phần này là tập hợp của nhiều bản thảo và văn bản in từ [The Silmarillion](The_Silmarillion.md) và [The Lord of the Rings](The_Lord_of_the_Rings.md) với lời bình của [Christopher Tolkien](../C/Christopher_Tolkien.md) chứ không phải là một tài liệu đơn lẻ. Trong ghi chú một số thông tin về [Nữ hoàng Berúthiel](../Q/Queen_Berúthiel.md) cũng được tiết lộ. Ngoài ra còn có một <a class="new" href="https://tolkiengateway.net/w/index.php?title=Wilt_thou_learn_the_lore&amp;action=edit&amp;redlink=1" title="Wilt thou learn the lore (page does not exist)">bài thơ</a> về [Dagor Dagorath](../D/Dagor_Dagorath.md).

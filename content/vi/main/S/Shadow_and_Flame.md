@@ -33,7 +33,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/ShadowAndFlame.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/a/a5/ShadowAndFlame.jpg/320px-ShadowAndFlame.jpg" decoding="async" loading="lazy" width="320" height="443" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/a/a5/ShadowAndFlame.jpg 1.5x" data-file-width="348" data-file-height="482"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Lord of the Rings Strategy Battle Game: Shadow and Flame</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a class="new" href="https://tolkiengateway.net/w/index.php?title=Alessio_Cavatore&amp;action=edit&amp;redlink=1" title="Alessio Cavatore (page does not exist)">Alessio Cavatore</a> and Matthew Ward</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../G/Games_Workshop.md" title="Games Workshop">Games Workshop</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/30_June.md" title="30 June">June 30</a>, <a href="../_/2003.md" title="2003">2003</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Softcover</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">49</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/1-84154-405-1" title="Special:BookSources/1-84154-405-1">1-84154-405-1</a></td></tr></tbody></table>
 
-<i><b>The Lord of the Rings Trò chơi chiến đấu chiến lược: Bóng Tối và Flame</b></i> là phần bổ sung cho [Games Workshop](../G/Games_Workshop.md) [LOTRSBG](../L/LOTRSBG.md). Đây là phần bổ sung đầu tiên có nội dung không có trong [*The Lord of the Rings* (loạt phim)](<../T/The_Lord_of_the_Rings_(film_series).md>).
+<i><b>Trò chơi chiến đấu chiến lược Chúa tể của những chiếc nhẫn: Bóng tối và ngọn lửa</b></i> là phần bổ sung cho [Games Workshop](../G/Games_Workshop.md) [LOTRSBG](../L/LOTRSBG.md). Đây là phần bổ sung đầu tiên có nội dung không có trong [*The Lord of the Rings* (loạt phim)](<../T/The_Lord_of_the_Rings_(film_series).md>).
 
 ## Từ phía sau {#From_the_back}
 
@@ -43,16 +43,16 @@ infobox:
 <p class="tg-quote-footer"><cite>Saruman the White</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-*Phần bổ sung này là hướng dẫn vô giá để sưu tầm, vẽ tranh và chơi game với các bức tiểu họa chi tiết Chúa tể của những chiếc nhẫn của Games Workshop. Trong các trang được minh họa đầy màu sắc, bạn sẽ tìm thấy các quy tắc, thông tin và cảm hứng thiết yếu để đưa các trận chiến Trung Địa lên bàn của riêng bạn.*
+*Phần bổ sung này là hướng dẫn vô giá để sưu tầm, vẽ tranh và chơi game với các bức tiểu họa chi tiết Chúa tể của những chiếc nhẫn của Games Workshop. Trong các trang được minh họa đầy màu sắc, bạn sẽ tìm thấy các quy tắc, thông tin và cảm hứng thiết yếu để đưa các trận chiến ở Trung Địa lên bàn của riêng bạn.*
 
 QUY TẮC
 
-Quy tắc chơi game hoàn chỉnh dành cho Balin và Người Lùn của anh ta, cùng với một số kẻ thù của họ - Durbûrz, Goblin Vua của Moria và Goblin Drums. Các phụ lục cũng bao gồm Tom Bombadil, Barrow-wight, Glorfindel, Glorfindel, Radagast Brown, v.v.
+Quy tắc chơi game hoàn chỉnh dành cho Balin và Người lùn của ông ta, cùng với một số kẻ thù của họ - Durbûrz, Vua yêu tinh của Moria và Trống yêu tinh. Các phần phụ lục cũng bao gồm Tom Bombadil, Barrow-wights, Glorfindel, Glorfindel, Radagast the Brown, và nhiều hơn nữa.
 
 KỊCH BẢN
 
-Bốn kịch bản được liên kết tái hiện cuộc đấu tranh hoành tráng của Người Lùn chống lại Goblin và Balrog hùng mạnh. Trong phần phụ lục, ba kịch bản khác nhau bao gồm các cuộc đụng độ thú vị khác giữa lực lượng Thiện và Ác trong Rivendell, khu rừng Barrow-downs và Fangorn.
+Bốn kịch bản được liên kết tái hiện cuộc đấu tranh hoành tráng của Người lùn chống lại Yêu tinh và Balrog hùng mạnh. Trong phần phụ lục, ba kịch bản khác nhau bao gồm các cuộc đụng độ thú vị khác giữa lực lượng Thiện và Ác ở Rivendell, Barrow-downs và rừng Fangorn.
 
 MẸO SƠN
 
-Lời khuyên chi tiết về cách vẽ Người Lùn trong trò chơi chiến đấu chiến lược Chúa tể của những chiếc nhẫn, cùng với những bức ảnh đầy cảm hứng về tất cả các mô hình và khung cảnh mới đã được thiết kế cho cuốn sách này.
+Lời khuyên chi tiết về cách vẽ Người lùn trong trò chơi chiến đấu chiến lược Chúa tể của những chiếc nhẫn, cùng với những bức ảnh đầy cảm hứng về tất cả các mô hình và khung cảnh mới đã được thiết kế cho cuốn sách này.

@@ -18,8 +18,8 @@ sort_keys:
   "People by name": "Church, John"
 ---
 
-**John Church** lồng tiếng cho phần [Gaffer Gamgee](../G/Gaffer_Gamgee.md) trong [*The Lord of the Rings* loạt phim phát thanh năm 1981](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) phát sóng trên BBC và [Ông già liễu](../O/Old_Man_Willow.md) trong tập "The Adventures of Tom Bombadil" của [loạt phim phát thanh *Tales from the Perilous Realm* năm 1992](<../T/Tales_from_the_Perilous_Realm_(1992_radio_series).md>).
+**John Church** lồng tiếng cho vai [Gaffer Gamgee](../G/Gaffer_Gamgee.md) trong [*The Lord of the Rings* loạt phim phát thanh năm 1981](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) phát sóng trên BBC và [Old Man Willow](../O/Old_Man_Willow.md) trong tập "Những cuộc phiêu lưu của Tom Bombadil" của loạt phim phát thanh [1992 *Tales from the Perilous Realm*](<../T/Tales_from_the_Perilous_Realm_(1992_radio_series).md>).
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://www.imdb.com/name/nm0161373/" rel="noreferrer noopener" target="_blank">John Nhà thờ</a> tại IMDb
+- <a class="external text" href="http://www.imdb.com/name/nm0161373/" rel="noreferrer noopener" target="_blank">John Church</a> tại IMDb

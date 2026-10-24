@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Northwestern Middle-earth Map Set"
 ---
 
-Chuyển hướng đến [Tây Bắc Trung Địa Bộ bản đồ](../N/Northwestern_Middle-earth_Map_Set.md).
+Chuyển hướng tới [Bộ bản đồ Tây Bắc Trung Địa](../N/Northwestern_Middle-earth_Map_Set.md).

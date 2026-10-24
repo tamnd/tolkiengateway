@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Logo chính thức của [The Lord of the Rings: Trở về Moria](../../main/T/The_Lord_of_the_Rings%253A_Return_to_Moria.md).
+Logo chính thức của [The Lord of the Rings: Return to Moria](../../main/T/The_Lord_of_the_Rings%253A_Return_to_Moria.md).
 
 ## Giấy phép {#Licensing}
 

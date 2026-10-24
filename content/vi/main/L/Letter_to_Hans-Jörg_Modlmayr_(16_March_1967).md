@@ -15,10 +15,10 @@ sort_keys:
   "Letters": "Modlmayr, Hans-Jorg (1967-03-16)"
 ---
 
-Vào [16 tháng 3](../_/16_March.md) [1967](../_/1967.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho [Hans-Jörg Modlmayr](../H/Hans-Jörg_Modlmayr.md)**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Vào [16 tháng 3](../_/16_March.md) [1967](../_/1967.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) gửi [Hans-Jörg Modlmayr](../H/Hans-Jörg_Modlmayr.md)**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-- **Chủ đề:** Tolkien quan điểm của ông về minh họa các tác phẩm của mình và thảo luận về các minh họa có thể có cho các bản dịch tiếng Đức.
-- **Ấn phẩm:** Trích dẫn bức thư xuất hiện trong danh mục đấu giá *[J.A. Stargardt Katalog 698](../J/J.A._Stargardt_Katalog_698.md)*.
+- **Chủ đề:** Quan điểm của Tolkien về minh họa cho các tác phẩm của ông và thảo luận về các minh họa có thể có cho các bản dịch tiếng Đức.
+- **Ấn bản:** Trích dẫn bức thư xuất hiện trong danh mục đấu giá *[J.A. Stargardt Katalog 698](../J/J.A._Stargardt_Katalog_698.md)*.
 
 ## Trích {#Excerpt}
 
@@ -31,7 +31,7 @@ Vào [16 tháng 3](../_/16_March.md) [1967](../_/1967.md), [J.R.R. Tolkien](../J
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://newboards.theonering.net/forum/gforum/perl/gforum.cgi?post=452405;sb=post_time;so=DESC;forum_view=forum_view_collapsed;guest=19262590" rel="noreferrer noopener" target="_blank">Tolkien - "Tôi chưa bao giờ là người yêu sách dành cho trẻ em.."</a> tại <a class="external text" href="http://newboards.theonering.net/forum/gforum/perl/gforum.cgi?guest=19262590" rel="noreferrer noopener" target="_blank">Chiếc nhẫn duy nhất Diễn đàn</a>
+- <a class="external text" href="http://newboards.theonering.net/forum/gforum/perl/gforum.cgi?post=452405;sb=post_time;so=DESC;forum_view=forum_view_collapsed;guest=19262590" rel="noreferrer noopener" target="_blank">Tolkien - "Tôi chưa bao giờ là người yêu thích sách dành cho trẻ em.."</a> tại <a class="external text" href="http://newboards.theonering.net/forum/gforum/perl/gforum.cgi?guest=19262590" rel="noreferrer noopener" target="_blank">Diễn đàn The One Ring</a>
 
 <span></span>
 

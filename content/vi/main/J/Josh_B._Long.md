@@ -25,7 +25,7 @@ sort_keys:
 ### Bài viết {#Articles}
 
 - [2008](../_/2008.md): *Mythlore* 101/102
-    - "Hai góc nhìn về Thần tiên trong *Smith of Wootton Major*: Nokes và Chiếc bánh của anh ấy, Smith và Ngôi sao của anh ấy"
+    - "Hai góc nhìn về Thần tiên trong *Smith of Wootton Major*: Nokes và Chiếc bánh của ông, Smith và Ngôi sao của ông"
 - [2009](../_/2009.md): [*Tolkien Studies*: Tập 6](../T/Tolkien_Studies%253A_Volume_6.md)
     - "Clinamen, Tessera, và nỗi lo ảnh hưởng: Chuyển hướng và hoàn thiện George MacDonald"
 - [2011](../_/2011.md): *[Tolkien and the Study of His Sources](../T/Tolkien_and_the_Study_of_His_Sources.md)*

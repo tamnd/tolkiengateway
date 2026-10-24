@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Bandobras Took"
 ---
 
-Chuyển hướng đến [Bandobras Took](Bandobras_Took.md).
+Chuyển hướng tới [Bandobras Took](Bandobras_Took.md).

@@ -39,7 +39,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tolkien_Studies_-_Volume_5.png.md"><img src="https://tolkiengateway.net/w/images/2/23/Tolkien_Studies_-_Volume_5.png" decoding="async" loading="lazy" width="311" height="461" class="mw-file-element" data-file-width="311" data-file-height="461"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Tolkien Studies: Volume 5</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../D/Douglas_A._Anderson.md" title="Douglas A. Anderson">Douglas A. Anderson</a>, <a href="../M/Michael_D.C._Drout.md" title="Michael D.C. Drout">Michael D.C. Drout</a>, <a href="../V/Verlyn_Flieger.md" title="Verlyn Flieger">Verlyn Flieger</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">West Virginia University</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">July, <a href="../_/2008.md" title="2008">2008</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Hardcover; electronic</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">310</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/1933202386" title="Special:BookSources/1933202386">1933202386</a></td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">1547-3155</td></tr></tbody></table>
 
-<b><i>Tolkien Nghiên cứu</i>: Tập 5</b>, xuất bản trong [2008](../_/2008.md), là tập thứ năm của tạp chí tổng kết hàng năm *[Tolkien Studies](<Tolkien_Studies_(journal).md>)*.
+<b><i>Nghiên cứu Tolkien</i>: Tập 5</b>, xuất bản trong [2008](../_/2008.md), là tập thứ năm của bài đánh giá hàng năm *[Tolkien Studies](<Tolkien_Studies_(journal).md>)*.
 
 Số này in lại hai bài viết của J.R.R. Tolkien: tiểu luận "[Chaucer as a Philologist: The Reeve's Tale](../C/Chaucer_as_a_Philologist%253A_The_Reeve's_Tale.md)", xuất bản lần đầu năm 1934, và một phiên bản "[The Reeve's Tale](The_Reeve's_Tale.md)" của <a class="extiw" href="http://en.wikipedia.org/wiki/Geoffrey_Chaucer" title="wikipedia:Geoffrey Chaucer">Chaucer</a>, xuất bản lần đầu năm 1939.
 
@@ -48,40 +48,40 @@ Số này in lại hai bài viết của J.R.R. Tolkien: tiểu luận "[Chaucer
 ## Nội dung {#Contents}
 
 - Bài viết
-    - Brian Rosebury, "Sự trả thù và phán xét đạo đức trong Tolkien"
+    - Brian Rosebury, "Sự trả thù và phán xét đạo đức ở Tolkien"
     - Douglas A. Anderson, "Brian Rosebury trên J.R.R. Tolkien: Danh sách kiểm tra"
     - Carl Phelpstead, "'Với những đoạn thơ xen vào': *The Lord of the Rings* và Thơ Saga"
     - Corey Olsen, "Huyền thoại về Ent và Entwife"
-    - James G. Davis, "Hiển thị Saruman là Faber: Tolkien và Peter Jackson"
-    - Lynn Forest-Hill, "Boromir, Byrhtnoth và Bayard: Tìm ngôn ngữ cho nỗi đau buồn trong *The Lord of the Rings*của J.R.R. Tolkien"
-    - Jason Fisher, "Ba Chiếc Nhẫn dành cho—Chính xác là ai? Và tại sao?: Biện minh cho việc xử lý ba chiếc nhẫn Tiên"
+    - James G. Davis, "Thể hiện Saruman trong vai Faber: Tolkien và Peter Jackson"
+    - Lynn Forest-Hill, "Boromir, Byrhtnoth và Bayard: Tìm ngôn ngữ cho nỗi đau buồn trong *The Lord of the Rings* của J.R.R. Tolkien"
+    - Jason Fisher, "Ba chiếc nhẫn dành cho—Chính xác là ai? Và tại sao?: Biện minh cho việc bố trí ba chiếc nhẫn của yêu tinh"
 
 - Ghi chú và tài liệu
-    - J.R.R. Tolkien, "[Chaucer với tư cách là nhà ngữ văn: Câu chuyện của Reeve](../C/Chaucer_as_a_Philologist%253A_The_Reeve's_Tale.md)"
-    - J.R.R. Tolkien, "[Câu chuyện của Reeve: Phiên bản được chuẩn bị để ngâm thơ tại 'Giải trí mùa hè'](The_Reeve's_Tale.md) Oxford: 1939"
+    - J.R.R. Tolkien, "[Chaucer as a Philologist: The Reeve's Tale](../C/Chaucer_as_a_Philologist%253A_The_Reeve's_Tale.md)"
+    - J.R.R. Tolkien, "[The Reeve's Tale: Version Prepared for Recitation at the 'Summer Diversions'](The_Reeve's_Tale.md)Oxford: 1939"
     - Ross Smith, "Steiner trên Tolkien"
-    - George Steiner, "Tolkien, Don lập dị của Oxford"
+    - George Steiner, "Tolkien, Ông trùm lập dị của Oxford"
 
 - Đánh giá sách
-    - *[The Children of Húrin](The_Children_of_Húrin.md), Narn i Chîn Húrin: The Tale of the Children of Húrin*, bởi J.R.R Tolkien, được chỉnh sửa bởi Christopher Tolkien, được Nicholas Birns đánh giá
-    - *Early Elvish Poetry and Pre-Fëanorian Alphabets* (*[Parma Eldalamberon 16](../P/Parma_Eldalamberon_16.md)*), bởi J.R.R. Tolkien, được chỉnh sửa bởi Arden R. Smith, Christopher Gilson, Bill Welden, Carl F. Hostetter và Patrick H. Wynne, được đánh giá bởi John Garth
-    - *Sự phát triển của thần thoại Tolkien: Nghiên cứu về lịch sử của Trung Địa*, bởi Elizabeth Whittingham, được Deidre A. Dawson đánh giá
-    - *Nhượng quyền Frodo: "The Lord of the Rings" và Hollywood hiện đại*, của Kristen Thompson, được đánh giá bởi Dyrk Ashton
+    - *[The Children of Húrin](The_Children_of_Húrin.md), Narn i Chîn Húrin: The Tale of the Children of Húrin*, của J.R.R Tolkien, Christopher Tolkien biên tập, Nicholas Birns đánh giá
+    - *Early Elvish Poetry and Pre-Fëanorian Alphabets* (*[Parma Eldalamberon 16](../P/Parma_Eldalamberon_16.md)*), bởi J.R.R. Tolkien, chỉnh sửa bởi Arden R. Smith, Christopher Gilson, Bill Welden, Carl F. Hostetter và Patrick H. Wynne, được đánh giá bởi John Garth
+    - *Sự phát triển của thần thoại Tolkien: Nghiên cứu về lịch sử Trung Địa*, của Elizabeth Whittingham, được Deidre đánh giá A. Dawson
+    - *Nhượng quyền thương mại Frodo: "Chúa tể của những chiếc nhẫn" và Hollywood hiện đại* của Kristen Thompson, được đánh giá bởi Dyrk Ashton
     - *[The History of The Hobbit](The_History_of_The_Hobbit.md)*, bởi John D. Rateliff, được đánh giá bởi Tom Shippey
     - *[Hither Shore](<../H/Hither_Shore_(journal).md>): Tạp chí liên ngành về văn học giả tưởng hiện đại, Jahrbuch der Deutschen Tolkien Gesellschaft e.V.*, do Thomas Fornet-Ponse (tổng biên tập), Marcel Bülles, Thomas Honegger, Rainer Nagel, Alexandra Velten và Frank Weinreich biên tập, được đánh giá bởi Mark T. Hooker
-    - *[Ngôn ngữ bên trong](../I/Inside_Language.md): Lý thuyết ngôn ngữ và thẩm mỹ trong Tolkien*, bởi Ross Smith, được đánh giá bởi Dimitra Fimi
-    - *[Rễ và Nhánh](../R/Roots_and_Branches.md): Các bài viết chọn lọc về Tolkien*, bởi Tom Shippey, được Kelley xem xét M. Wickham-Crowley
-    - *[Tolkien and Modernity 1](Tolkien_and_Modernity_1.md)*và *[Tolkien and Modernity 2](Tolkien_and_Modernity_2.md)*, do Frank Weinreich và Thomas Honegger biên tập, Shaun F. D. Hughes đánh giá
-    - *[Tolkien và Shakespeare](Tolkien_and_Shakespeare.md): Các bài tiểu luận về chủ đề và ngôn ngữ chung*, do Janet Brennan Croft biên tập, Jared Lobdell duyệt
+    - *[Ngôn ngữ bên trong](../I/Inside_Language.md): Lý thuyết ngôn ngữ và thẩm mỹ trong Tolkien*, của Ross Smith, được Dimitra Fimi đánh giá
+    - *[Rễ và nhánh](../R/Roots_and_Branches.md): Các bài viết chọn lọc về Tolkien*, của Tom Shippey, được Kelley đánh giá M. Wickham-Crowley
+    - *[Tolkien and Modernity 1](Tolkien_and_Modernity_1.md)* và *[Tolkien and Modernity 2](Tolkien_and_Modernity_2.md)*, do Frank Weinreich và Thomas Honegger biên tập, Shaun F. D. Hughes đánh giá
+    - *[Tolkien và Shakespeare](Tolkien_and_Shakespeare.md): Các bài tiểu luận về chủ đề và ngôn ngữ chung*, do Janet Brennan Croft biên tập, Jared Lobdell phê bình
     - *[Cây kể chuyện](Tree_of_Tales.md): Tolkien, Văn học và Thần học*, của Trevor Hart và Ivan Khovacs, được đánh giá bởi Michael J. Brisbois
     - Ghi chú sách, của Douglas A. Anderson
 
-- David Bratman, "Công trình nghiên cứu Tolkien của năm 2005"
-- Michael D.C. Drout, Jason Rea, Rebecca Epstein và Lauren Provost, "Thư mục (bằng tiếng Anh) năm 2006"
+- David Bratman, "Công trình nghiên cứu về Tolkien của năm 2005"
+- Michael D.C. Drout, Jason Rea, Rebecca Epstein, và Lauren Provost, "Thư mục (bằng tiếng Anh) năm 2006"
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="https://muse.jhu.edu/issue/12892" rel="noreferrer noopener" target="_blank"><i>Tolkien Nghiên cứu</i>: Tập 5</a> tại Project Muse
+- <a class="external text" href="https://muse.jhu.edu/issue/12892" rel="noreferrer noopener" target="_blank"><i>Nghiên cứu Tolkien</i>: Tập 5</a> tại Project Muse
 
 <br clear="all"/>
 

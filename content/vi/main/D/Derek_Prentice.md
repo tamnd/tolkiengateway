@@ -22,7 +22,7 @@ sort_keys:
 
 ## Vai trò {#Roles}
 
-- [1955](../_/1955.md)-[6](../_/1956.md): [*The Lord of the Rings* (sê-ri radio 1955)](<../T/The_Lord_of_the_Rings_(1955_radio_series).md>): [Boromir](../B/Boromir.md), [Faramir](../F/Faramir.md), [Beregond](../B/Beregond.md), [Orc](../O/Orcs.md), Giọng nói bổ sung
+- [1955](../_/1955.md)-[6](../_/1956.md): [*The Lord of the Rings* (sê-ri radio năm 1955)](<../T/The_Lord_of_the_Rings_(1955_radio_series).md>): [Boromir](../B/Boromir.md), [Faramir](../F/Faramir.md), [Beregond](../B/Beregond.md), [Orc](../O/Orcs.md), Giọng nói bổ sung
 
 ## Liên kết ngoài {#External_links}
 

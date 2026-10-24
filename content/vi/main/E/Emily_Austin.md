@@ -25,11 +25,11 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Emily Austin</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">USA</td></tr><tr><th scope="row" class="tg-infobox-label">Website</th><td class="tg-infobox-data"><a class="external text" href="https://emilyaustindesign.com/" rel="noreferrer noopener" target="_blank">official website</a></td></tr></tbody></table>
 
-**Emily Austin** là một nghệ sĩ người Mỹ vẽ cảnh trong các câu chuyện của Tolkien.
+**Emily Austin** là một nghệ sĩ người Mỹ vẽ các cảnh trong truyện của Tolkien.
 
 Cô làm ảnh bìa cho các cuốn sách *The Inklings and King Arthur* của [Sørina Higgins](../S/Sørina_Higgins.md) và *Why We Love Middle-earth* của <a class="new" href="https://tolkiengateway.net/w/index.php?title=Shawn_Marchese&amp;action=edit&amp;redlink=1" title="Shawn Marchese (page does not exist)">Shawn Marchese</a> và <a class="new" href="https://tolkiengateway.net/w/index.php?title=Alan_Sisto&amp;action=edit&amp;redlink=1" title="Alan Sisto (page does not exist)">Alan Sisto</a> (người sáng lập [The Prancing Pony Podcast](../T/The_Prancing_Pony_Podcast.md)).
 
-Những bức tranh minh họa "Cánh cửa vàng" và "The Vale of Rivendell" của cô đã được giới thiệu trong [Tolkien Lịch 2023](../T/Tolkien_Calendar_2023.md).
+Các hình minh họa "Cánh cửa vàng" và "The Vale of Rivendell" của cô đã được giới thiệu trong [Lịch Tolkien 2023](../T/Tolkien_Calendar_2023.md).
 
 ## Liên kết ngoài {#External_links}
 

@@ -13,7 +13,7 @@ categories:
   - "Sindarin nouns"
 ---
 
-<i><b>rond</b></i> là một từ [Sindarin](../S/Sindarin.md) có nghĩa là "mái vòm hoặc mái vòm, hoặc một hội trường hoặc căn phòng lớn được lợp mái như vậy".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>rond</b></i> là một từ [tiếng Sindarin](../S/Sindarin.md) có nghĩa là "mái vòm hoặc mái vòm, hoặc một hội trường hoặc căn phòng lớn được lợp mái như vậy".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Ví dụ {#Examples}
 

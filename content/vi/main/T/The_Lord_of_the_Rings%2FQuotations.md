@@ -13,7 +13,7 @@ categories:
   - "Quotes"
 ---
 
-Những trang này là những trích dẫn từ ba tập tiêu chuẩn của cuốn tiểu thuyết *The Lord of the Rings* của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
+Những trang này là trích dẫn từ ba tập tiểu thuyết tiêu chuẩn *The Lord of the Rings* của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
 ## Lời nói đầu cho lần xuất bản thứ hai (tháng 10 năm 1966) {#Foreword_to_the_Second_Edition_(October,_1966)}
 
@@ -42,4 +42,4 @@ Những trang này là những trích dẫn từ ba tập tiêu chuẩn của cu
 - Quyển I và II - [*The Fellowship of the Ring*/Trích dẫn](The_Fellowship_of_the_Ring%252FQuotations.md)
 - Quyển III và IV - [*The Two Towers*/Báo giá](The_Two_Towers%252FQuotations.md)
 - Quyển V và VI - [*The Return of the King*/Báo giá](The_Return_of_the_King%252FQuotations.md)
-- Phụ lục - [*The Lord of the Rings* Phụ lục/Báo giá](The_Lord_of_the_Rings_Appendices%252FQuotations.md)
+- Phụ lục - [*The Lord of the Rings* Phụ lục/Trích dẫn](The_Lord_of_the_Rings_Appendices%252FQuotations.md)

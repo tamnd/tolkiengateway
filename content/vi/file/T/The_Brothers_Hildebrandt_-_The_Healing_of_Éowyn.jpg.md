@@ -30,7 +30,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"Sự chữa lành của [Eowyn](../../main/_/Éowyn.md)" của [Anh em nhà Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md), được xuất bản lần đầu trong [1977 J.R.R. Tolkien Lịch](../../main/_/1977_J.R.R._Tolkien_Calendar.md).
+"Sự chữa lành của [Eowyn](../../main/_/Éowyn.md)" của [Anh em nhà Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md), xuất bản lần đầu trong [1977 J.R.R. Tolkien Lịch](../../main/_/1977_J.R.R._Tolkien_Calendar.md).
 
 ## Giấy phép {#Licensing}
 

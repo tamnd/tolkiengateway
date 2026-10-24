@@ -67,10 +67,10 @@ Sự kiện xảy ra vào ngày 5 tháng 2
 - **[1950](1950.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 123](../L/Letter_123.md).
 - **[1956](1956.md)** - Dan Wickenden đưa ra đánh giá tích cực về *[The Return of the King](../T/The_Return_of_the_King.md)* trong *New York Herald Tribune* có tựa đề "Bộ ba ngụ ngôn đáng chú ý đến với kết thúc khải hoàn".
 - **[1959](1959.md)** - [Peter Emshwiller](../P/Peter_Emshwiller.md), người sẽ lồng tiếng cho [Thranduil](../T/Thranduil.md) trong *[The Lord of the Rings: The Battle for Middle-earth II](../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md)*, đã ra đời.
-- **[1968](1968.md)** - Ngày đầu tiên quay phim [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) cho bộ phim tài liệu *[Tolkien in Oxford](../T/Tolkien_in_Oxford.md)*.
+- **[1968](1968.md)** - Ngày quay đầu tiên [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) cho bộ phim tài liệu *[Tolkien in Oxford](../T/Tolkien_in_Oxford.md)*.
 - **[2004](2004.md)** - [Andy Serkis](../A/Andy_Serkis.md) giành được <a class="external text" href="http://en.wikipedia.org/wiki/Empire_Awards" rel="noreferrer noopener" target="_blank">Giải thưởng Đế chế</a> ở hạng mục *Best British Actor*, cho vai diễn [Gollum](../G/Gollum.md) trong [*The Lord of the Rings* (loạt phim)](<../T/The_Lord_of_the_Rings_(film_series).md>).
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) nằm trong [Lothlórien](../L/Lothlórien.md).
+    - Nhóm [Hiệp hội chiếc nhẫn](../F/Fellowship_of_the_Ring.md) nằm ở [Lothlórien](../L/Lothlórien.md).

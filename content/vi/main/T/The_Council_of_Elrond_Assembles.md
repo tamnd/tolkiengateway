@@ -35,6 +35,6 @@ infobox:
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
-**The Hội đồng Elrond Assembles** là bài hát thứ bảy trong đĩa hai của *[The Lord of the Rings: The Fellowship of the Ring - The Complete Recordings](The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_-_The_Complete_Recordings.md)* của [Howard Shore](../H/Howard_Shore.md).
+**The Council of Elrond Assembles** là bài hát thứ bảy trong đĩa hai của *[The Lord of the Rings: The Fellowship of the Ring - The Complete Recordings](The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_-_The_Complete_Recordings.md)* của [Howard Shore](../H/Howard_Shore.md).
 
 Nửa đầu bài hát có bài hát "[Aníron](../A/Aníron.md)", do [Enya](../E/Enya.md) sáng tác và trình bày.

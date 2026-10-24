@@ -28,7 +28,7 @@ sort_keys:
 - [2006](../_/2006.md): *[The Lord of the Rings: The Battle for Middle-earth II](../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md)*: Giọng nói bổ sung
 - [2004](../_/2004.md): *[The Lord of the Rings: The Battle for Middle-earth](../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth.md)*: Giọng nói bổ sung
 - [2003](../_/2003.md): [*The Hobbit* (trò chơi điện tử năm 2003)](<../T/The_Hobbit_(2003_video_game).md>): [Gandalf](../G/Gandalf.md), Giọng nói bổ sung
-- [2002](../_/2002.md): [*The Lord of the Rings: The Two Towers* (trò chơi điện tử)](<../T/The_Lord_of_the_Rings%253A_The_Two_Towers_(video_game).md>): Giọng nói bổ sung
+- [2002](../_/2002.md): [*The Lord of the Rings: The Two Towers* (video game)](<../T/The_Lord_of_the_Rings%253A_The_Two_Towers_(video_game).md>): Giọng nói bổ sung
 
 ## Liên kết ngoài {#External_links}
 

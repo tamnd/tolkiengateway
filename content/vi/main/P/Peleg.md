@@ -32,13 +32,13 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../M/Men.md" title="Men">Man</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Peleg</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Other names</th><td class="tg-infobox-data"><i>Pelek</i> (<a href="../Q/Qenya.md" title="Qenya">Q</a>)</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">House</th><td class="tg-infobox-data"><a href="../H/House_of_the_Swan.md" title="House of the Swan">House of the Swan</a></td></tr><tr><th scope="row" class="tg-infobox-label">Parentage</th><td class="tg-infobox-data"><a href="../I/Indor_(grandfather_of_Tuor).md" title="Indor (grandfather of Tuor)">Indor</a></td></tr><tr><th scope="row" class="tg-infobox-label">Children</th><td class="tg-infobox-data"><a href="../T/Tuor.md" title="Tuor">Tuor</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr></tbody></table>
 
-**Peleg** là con trai của [Indor](<../I/Indor_(grandfather_of_Tuor).md>) và là cha của [Tuor](../T/Tuor.md), theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*. Vì vậy, giống như Tuor, có lẽ anh ta thuộc về [Nhà Thiên Nga](../H/House_of_the_Swan.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Peleg** là con trai của [Indor](<../I/Indor_(grandfather_of_Tuor).md>) và là cha của [Tuor](../T/Tuor.md), theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*. Vì vậy, giống như Tuor, có lẽ ông ta thuộc về [Nhà Thiên Nga](../H/House_of_the_Swan.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
 Tên *Peleg* có trong [Gnomish](../G/Gnomish.md), có nghĩa là "rìu",<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và [Qenya](../Q/Qenya.md) cùng nguồn gốc của nó là <i><b>Pelek</b></i>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Trong *[The Lay of the Fall of Gondolin](../T/The_Lay_of_the_Fall_of_Gondolin.md)*, từ c. [1920](../_/1920.md), tên của anh ấy đã được đổi thành <i><b>Fengel</b></i>, tên này sau này được sử dụng cho [mười lăm Vua Rohan](../F/Fengel.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Trong *[The Lay of the Fall of Gondolin](../T/The_Lay_of_the_Fall_of_Gondolin.md)*, từ c. [1920](../_/1920.md), tên của ông đã được đổi thành <i><b>Fengel</b></i>, tên này sau này được dùng cho [mười lăm vị vua của Rohan](../F/Fengel.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Phả hệ {#Genealogy}
 

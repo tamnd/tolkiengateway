@@ -75,11 +75,11 @@ Sự kiện xảy ra vào ngày 24 tháng 12
 - **[1940](1940.md)** - Ông già Noel viết [thư](../L/Letters_from_Father_Christmas.md) cho các con của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 - **[1942](1942.md)** - Ông già Noel viết [thư](../L/Letters_from_Father_Christmas.md) cho các con của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 - **[1944](1944.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 93](../L/Letter_93.md).
-- **[1956](1956.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một lá thư cho Patricia Kirke](<../L/Letter_to_Patricia_Kirke_(24_December_1956).md>).
+- **[1956](1956.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một bức thư cho Patricia Kirke](<../L/Letter_to_Patricia_Kirke_(24_December_1956).md>).
 - **[1971](1971.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một bức thư cho Eileen Elgar](<../L/Letter_to_Eileen_Elgar_(24_December_1971).md>).
 - **[1987](1987.md)** - Nhà sản xuất [Terence Tiller](../T/Terence_Tiller.md) qua đời.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - Người [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) nghỉ ngơi ở [Rivendell](../R/Rivendell.md) và chuẩn bị cho [nhiệm vụ](../Q/Quest_of_the_Ring.md) tiêu diệt [Người Nhẫn](../T/The_One_Ring.md).
+    - [Fellowship of the Ring](../F/Fellowship_of_the_Ring.md) nghỉ ngơi tại [Rivendell](../R/Rivendell.md) và chuẩn bị cho [nhiệm vụ](../Q/Quest_of_the_Ring.md) tiêu diệt [Chiếc nhẫn duy nhất](../T/The_One_Ring.md).

@@ -13,4 +13,4 @@ categories:
   - "Sindarin nouns"
 ---
 
-**peng** là một từ [Sindarin](../S/Sindarin.md) cho *bow* (như trong bắn súng; "cung và mũi tên"). Lưu ý sự tương đồng của nó với âm thanh của dây cung.
+**peng** là một từ [tiếng Sindarin](../S/Sindarin.md) cho *bow* (như trong bắn súng; "cung và mũi tên"). Lưu ý sự tương đồng của nó với âm thanh của dây cung.

@@ -29,7 +29,7 @@ images:
 <p class="tg-quote-footer"><cite><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a></cite></p>
 </blockquote></div></div>
 
-<i><b>The Year's Work in English Studies</b></i> là tạp chí được xuất bản hàng năm bởi Hiệp hội tiếng Anh. [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đóng góp ba bài ôn tập cho phần *Philology: General Works*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>The Year's Work in English Studies</b></i> là tạp chí được xuất bản hàng năm bởi Hiệp hội tiếng Anh. [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đóng góp 3 bài ôn tập cho phần *Philology: General Works*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Bài tiểu luận phê bình đầu tiên được xuất bản trong số đầu tiên của Tập IV năm 1923 (xuất bản vào ngày [8 tháng 1](../_/8_January.md) năm [1925](../_/1925.md),<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> mặc dù ngày xuất bản ghi là 1924), trang 20–37.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
@@ -37,7 +37,7 @@ Bài phê bình thứ hai đăng trong số đầu tiên của Tập 5 năm 1924
 
 Tiểu luận phê bình thứ ba được đăng trong số đầu tiên của Tập VI năm 1925 (xuất bản tháng 2 năm 1927), trang 32–66.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
-Tolkien đã viết về việc viết phần W cho [Oxford Từ điển tiếng Anh](../O/Oxford_English_Dictionary.md) cũng như các ấn phẩm liên quan đến tên các địa điểm. Xuyên suốt các bài luận, ông cố gắng cung cấp thông tin cho người đọc đồng thời đưa vào những câu chuyện hài hước để giải trí.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Tolkien đã viết về việc viết phần W cho [Từ điển tiếng Anh Oxford](../O/Oxford_English_Dictionary.md) cũng như các ấn phẩm liên quan đến tên các địa điểm. Xuyên suốt các bài luận, ông cố gắng cung cấp thông tin cho người đọc đồng thời đưa vào những câu chuyện hài hước để giải trí.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 <span></span>
 

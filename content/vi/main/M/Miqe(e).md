@@ -15,11 +15,11 @@ categories:
 
 <i><b>miqe(e)</b></i> là danh từ [Qenya](../Q/Qenya.md) có nghĩa là "một nụ hôn".<sup id="cite_ref-PE12_1-0" class="reference"><a href="#cite_note-PE12-1">[1]</a></sup>
 
-[Helge Fauskanger](../H/Helge_Fauskanger.md) đã gợi ý rằng dạng *miquë* (giữ nguyên ý nghĩa) có thể hợp lệ [Neo-Quenya](../N/Neo-Quenya.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+[Helge Fauskanger](../H/Helge_Fauskanger.md) đã gợi ý rằng dạng *miquë* (giữ nguyên nghĩa) có thể hợp lệ [Neo-Quenya](../N/Neo-Quenya.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-- [Gốc](../S/Sundocarme.md) MIQI ("hôn")<sup id="cite_ref-PE12_1-1" class="reference"><a href="#cite_note-PE12-1">[1]</a></sup>
+- [Gốc](../S/Sundocarme.md) MIQI ("nụ hôn")<sup id="cite_ref-PE12_1-1" class="reference"><a href="#cite_note-PE12-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}
 

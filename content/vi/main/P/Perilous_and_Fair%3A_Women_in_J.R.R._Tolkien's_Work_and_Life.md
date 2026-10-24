@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Perilous and Fair: Women in the Works and Life of J.R.R. Tolkien"
 ---
 
-Chuyển hướng tới [Nguy hiểm và Công bằng: Phụ nữ trong công việc và cuộc sống của J.R.R. Tolkien](Perilous_and_Fair%253A_Women_in_the_Works_and_Life_of_J.R.R._Tolkien.md).
+Chuyển hướng đến [Perilous and Fair: Women in the Works and Life of J.R.R. Tolkien](Perilous_and_Fair%253A_Women_in_the_Works_and_Life_of_J.R.R._Tolkien.md).

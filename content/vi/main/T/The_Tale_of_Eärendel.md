@@ -28,28 +28,28 @@ sort_keys:
 <li><a href="The_History_of_Eriol_or_Ælfwine_and_the_End_of_the_Tales.md" title="The History of Eriol or Ælfwine and the End of the Tales">The History of Eriol or Ælfwine</a></li></ol>
 </td></tr></tbody></table>
 
-**Truyện Eärendel** là chương thứ năm của *[The Book of Lost Tales Part Two](The_Book_of_Lost_Tales_Part_Two.md)*. Không giống như những câu chuyện trước đó trong cuốn sách, nó không chứa một câu chuyện đầy đủ mà chứa phần trình bày của [Christopher Tolkien](../C/Christopher_Tolkien.md) về các ghi chú khác nhau và "những nét phác thảo cô đọng và thường mâu thuẫn" về Câu chuyện chưa hoàn chỉnh của [Eärendel](../E/Eärendil.md). Christopher cũng bao gồm [bốn bài thơ](#Early_poems) được viết trước Lost Tales.
+**Câu chuyện về Eärendel** là chương thứ năm của *[The Book of Lost Tales Part Two](The_Book_of_Lost_Tales_Part_Two.md)*. Không giống như những câu chuyện trước đó trong cuốn sách, nó không chứa một câu chuyện đầy đủ mà chứa phần trình bày của [Christopher Tolkien](../C/Christopher_Tolkien.md) về các ghi chú khác nhau và "những nét phác thảo cô đọng và thường mâu thuẫn" về Câu chuyện chưa hoàn chỉnh về [Eärendel](../E/Eärendil.md). Christopher cũng bao gồm [bốn bài thơ](#Early_poems) được viết trước Những câu chuyện đã mất.
 
 ## Tóm tắt {#Synopsis}
 
-Câu chuyện này được cho là sẽ tiếp nối phần *[The Fall of Gondolin](<The_Fall_of_Gondolin_(chapter).md>)* và *[Tale of the Nauglafring](The_Nauglafring.md)* đã dừng lại, với quá trình lớn lên của Eärendel và [Elwing](../E/Elwing.md) giữa [Lothlim](../L/Lothlim.md) ở miệng [Sirion](../S/Sirion.md) và tình yêu giữa họ. Sau đó, các phác thảo phác họa cuộc giải cứu Eärendel khỏi một xác tàu đắm bởi [Ulmo](../U/Ulmo.md), chuyến hành trình tìm kiếm [Valinor](../V/Valinor.md), [sự ràng buộc của Melko](../W/War_of_Wrath.md) và cuối cùng là chuyến khởi hành của anh ta tới [vùng trời](../F/Firmament.md).
+Câu chuyện này được cho là sẽ tiếp tục phần *[The Fall of Gondolin](<The_Fall_of_Gondolin_(chapter).md>)* và *[Tale of the Nauglafring](The_Nauglafring.md)* đã dừng lại, với quá trình lớn lên của Eärendel và [Elwing](../E/Elwing.md) giữa [Lothlim](../L/Lothlim.md) ở miệng [Sirion](../S/Sirion.md) và tình yêu giữa họ. Sau đó, các phác thảo phác họa cuộc giải cứu Eärendel khỏi xác tàu đắm bởi [Ulmo](../U/Ulmo.md), chuyến hành trình tìm kiếm [Valinor](../V/Valinor.md), [sự ràng buộc của Melko](../W/War_of_Wrath.md) và cuối cùng là chuyến đi đến [nền tảng](../F/Firmament.md).
 
-Có hai điểm khác biệt chính giữa bản phác thảo của câu chuyện Eärendel và bản tóm tắt của *[Silmarillion](The_Silmarillion.md)* đã xuất bản. Đầu tiên, trong *Lost Tale*, Eärendel đến Valinor quá muộn: một thông điệp được truyền đi bởi những chú chim [Gondolin](../G/Gondolin.md) đã đánh thức Eldar, những người quyết định tham chiến bất chấp mong muốn của các vị thần, khởi hành đến [Great Lands](../M/Middle-earth.md). Theo [Christopher Tolkien](../C/Christopher_Tolkien.md) kết luận "bất thường" rằng nhiệm vụ của Eärendel đã không có kết quả cho đến các phiên bản đầu tiên của *Silmarillion*, nhưng để lại một câu hỏi nghiêm trọng chưa được giải đáp về mục đích của Ulmo trong việc hướng dẫn số phận của Tuor và Eärendel. Hình ảnh Eärendel đến [Kôr](../K/Kôr.md) chỉ để thấy nó vắng vẻ thực sự được lưu giữ trong *Silmarillion* đã xuất bản, nhưng trong quan niệm sau này thì đó là do cư dân đang tham dự một bữa tiệc ở [Valmar](../V/Valmar.md).
+Có hai điểm khác biệt lớn giữa bản phác thảo câu chuyện của Eärendel và bản phác thảo của *[Silmarillion](The_Silmarillion.md)* đã xuất bản. Đầu tiên, trong *Lost Tale*, Eärendel đến Valinor quá muộn: một thông điệp được truyền đi bởi những chú chim [Gondolin](../G/Gondolin.md) đã đánh thức Eldar, người quyết định tham chiến bất chấp mong muốn của các vị thần, khởi hành đến [Great Lands](../M/Middle-earth.md). Theo [Christopher Tolkien](../C/Christopher_Tolkien.md) kết luận "phi thường" rằng nhiệm vụ của Eärendel đã không có kết quả cho đến các phiên bản đầu tiên của *Silmarillion*, nhưng để lại một câu hỏi nghiêm trọng chưa được giải đáp về mục đích của Ulmo trong việc hướng dẫn số phận của Tuor và Eärendel. Hình ảnh Eärendel đến [Kôr](../K/Kôr.md) chỉ để thấy nó bị bỏ hoang quả thực đã được lưu giữ trong *Silmarillion* đã xuất bản, nhưng trong quan niệm sau này thì đó là vì cư dân đang tham dự một bữa tiệc ở [Valmar](../V/Valmar.md).
 
-Thứ hai, có vẻ như Elwing chưa bao giờ được Eärendel tìm thấy sau khi nhà của Eärendel bị cướp phá. Ngược lại với *The Silmarillion*, câu chuyện trước đó đã Eärendel lái xe qua [Cánh Cửa Đêm](../D/Door_of_Night.md) để tìm kiếm cô ấy, không phải theo thiết kế của Valar và không mang [Silmaril](../S/Silmaril.md). Thay vào đó, sự tươi sáng của anh được cho là do anh đã giẫm phải 'bụi kim cương' của Kôr và càng tăng thêm bởi nỗi buồn của chính anh.
+Thứ hai, có vẻ như Elwing chưa từng được Eärendel tìm thấy sau vụ cướp phá nhà của Eärendel. Ngược lại với *The Silmarillion*, câu chuyện trước đó có cảnh Eärendel lái xe qua [Cánh cửa bóng đêm](../D/Door_of_Night.md) để tìm kiếm bà, không phải theo thiết kế của Valar và không mang theo [Silmaril](../S/Silmaril.md). Thay vào đó, sự tươi sáng của ông được cho là do đã giẫm phải 'bụi kim cương' của Kôr và càng tăng thêm bởi nỗi buồn của chính ông.
 
-Như Christopher lưu ý, câu chuyện được cho là được chia thành bảy phần, mỗi phần có độ dài tương đương với câu chuyện *[The Nauglafring](The_Nauglafring.md)*; vì vậy nếu hoàn thành, *Tale of Eärendel* sẽ có độ dài bằng một nửa của tất cả *The Book of Lost Tales*.
+Như Christopher nhận thấy, câu chuyện được cho là được chia thành bảy phần, mỗi phần có độ dài tương đương với câu chuyện *[The Nauglafring](The_Nauglafring.md)*; vì vậy nếu hoàn thành, *Tale of Eärendel* sẽ có độ dài bằng một nửa của tất cả *The Book of Lost Tales*.
 
 ### Thơ đầu {#Early_poems}
 
-- *[Éalá Éarendel Engla Beorhtast](../_/Éalá_Éarendel_Engla_Beorhtast.md)*, viết bằng tháng Chín [1914](../_/1914.md).
+- *[Éalá Éarendel Engla Beorhtast](../_/Éalá_Éarendel_Engla_Beorhtast.md)*, viết vào tháng 9 [1914](../_/1914.md).
 - *[The Bidding of the Minstrel](The_Bidding_of_the_Minstrel.md)*, viết vào mùa đông [1914](../_/1914.md).
 - *[The Shores of Faëry](The_Shores_of_Faëry.md)*, viết vào tháng 7 [1915](../_/1915.md).
 - *[The Happy Mariners](The_Happy_Mariners.md)*, viết vào tháng 7 [1915](../_/1915.md).
 
 ## Các phác thảo được so sánh {#Outlines_compared}
 
-Dưới đây là bốn nét phác thảo được Christopher Tolkien đưa ra xuyên suốt chương này. Những kế hoạch này không có niên đại nên không thể biết kế hoạch cuối cùng của Tolkien cho Câu chuyện là gì. Lược đồ B và C là dài nhất và Christopher so sánh chúng với *The Silmarillion*. Ông cũng cung cấp một vài lời tựa ngắn gắn liền với hai bài thơ, nhưng chúng không được xem xét ở đây vì còn quá sớm. Việc phân chia ở đây chỉ được tạo ra để giúp cho việc so sánh, đôi khi ngắt đoạn các đoạn văn nhưng văn bản của từng sơ đồ không được chỉnh sửa ngoài ra. Các ghi chú rải rác thuộc Sổ ghi chép của Sơ đồ C, giữ nguyên số thứ tự do Christopher thực hiện, nhưng không phải lúc nào cũng theo cùng một thứ tự.
+Dưới đây là bốn nét phác thảo được Christopher Tolkien đưa ra xuyên suốt chương này. Những kế hoạch này không có niên đại, vì vậy không thể biết kế hoạch cuối cùng của Tolkien cho Câu chuyện là gì. Sơ đồ B và C là dài nhất và Christopher so sánh chúng với *The Silmarillion*. Ông cũng cung cấp một vài lời tựa ngắn gắn liền với hai bài thơ, nhưng chúng không được xem xét ở đây vì còn quá sớm. Việc phân chia ở đây chỉ được tạo ra để giúp cho việc so sánh, đôi khi ngắt đoạn các đoạn văn nhưng văn bản của từng sơ đồ không được chỉnh sửa ngoài ra. Các ghi chú rải rác thuộc về Sổ ghi chép của Sơ đồ C, giữ nguyên số do Christopher ghi, nhưng không phải lúc nào cũng theo cùng một thứ tự.
 
 <table class="wikitable">
 <tbody><tr>
@@ -167,6 +167,6 @@ Dưới đây là bốn nét phác thảo được Christopher Tolkien đưa ra 
 
 ## Xem thêm {#See_also}
 
-- [Sự hòa hợp giữa Lost Tale của Eärendel](https://tolkiengateway.net/wiki/User:Quentandil/Harmony_of_the_Lost_Tale_of_E%C3%A4rendel) bởi [Người dùng:Quentandil](https://tolkiengateway.net/wiki/User:Quentandil)
+- [Sự hòa hợp của câu chuyện đã mất về Eärendel](https://tolkiengateway.net/wiki/User:Quentandil/Harmony_of_the_Lost_Tale_of_E%C3%A4rendel) của [Người dùng:Quentandil](https://tolkiengateway.net/wiki/User:Quentandil)
 
 <br>

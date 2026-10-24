@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-*Lobelia đang vô cùng phẫn nộ hoặc "Ruffians Cẩn thận!"* Chúng ta có thể thấy Lobelia đang đối mặt với người cao hơn cô ấy rất nhiều. Đáng buồn thay, đây là bản sao vì bản gốc đã được bán trước khi nó được chụp ảnh một cách chính xác.
+*Lobelia đang vô cùng phẫn nộ hoặc "Ruffians Cẩn thận!"* Chúng ta có thể thấy Lobelia đang đối mặt với người cao hơn bà rất nhiều. Đáng buồn thay, đây là bản sao vì bản gốc đã được bán trước khi nó được chụp ảnh một cách chính xác.
 
 ## Giấy phép {#Licensing}
 

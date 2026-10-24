@@ -29,9 +29,9 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Trong bức thư gửi con trai [Christopher](../C/Christopher_Tolkien.md), Tolkien xin lỗi vì sự chậm trễ trong việc gửi thư, cho rằng đó là do học kỳ bắt đầu bận rộn. Ông bày tỏ những suy nghĩ và lời cầu nguyện không ngừng cho Christopher cũng như sự háo hức muốn biết vị trí của con trai mình. Tolkien đề cập đến những thách thức của anh trong việc tổ chức Kỳ thi Thiếu sinh quân và mô tả chuyến thăm ngắn ngủi tới Bạch Mã cùng [Charles Williams](../C/Charles_Williams.md) và anh em nhà Lewis, nơi [C.S. Lewis](../C/C.S._Lewis.md) kể lại một giai thoại hài hước về một nhà thuyết giáo ngoài trời.
+Trong một bức thư gửi con trai mình [Christopher](../C/Christopher_Tolkien.md), Tolkien xin lỗi vì sự chậm trễ trong việc gửi thư, cho rằng đó là do học kỳ bắt đầu bận rộn. Ông bày tỏ những suy nghĩ và lời cầu nguyện không ngừng dành cho Christopher cũng như sự háo hức muốn biết vị trí của con trai mình. Tolkien đề cập đến những thách thức của ông trong việc tổ chức Kỳ thi Thiếu sinh quân và mô tả chuyến thăm ngắn đến Bạch Mã cùng với [Charles Williams](../C/Charles_Williams.md) và anh em nhà Lewis, nơi [C.S. Lewis](../C/C.S._Lewis.md) kể lại một giai thoại hài hước về một nhà thuyết giáo ngoài trời.
 
-Tolkien cũng có kế hoạch gửi một máy bay với những tin tức chung, hy vọng nó sẽ đến tay Christopher nhanh hơn bức thư gần đây của anh ấy (xem [Thư 55](Letter_55.md)). Ngài kết thúc bức thư bằng những lời trìu mến và lời đảm bảo về lời cầu nguyện và tình yêu của mình. <br>
+Tolkien cũng có kế hoạch gửi một đường hàng không với những tin tức chung, hy vọng nó sẽ đến tay Christopher nhanh hơn bức thư gần đây của ông (xem [Thư 55](Letter_55.md)). Ngài kết thúc bức thư bằng những lời trìu mến và lời đảm bảo về lời cầu nguyện và tình yêu của mình. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

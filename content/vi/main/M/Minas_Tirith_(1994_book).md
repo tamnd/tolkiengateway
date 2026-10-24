@@ -44,18 +44,18 @@ infobox:
 
 ## Văn bản bìa/áo khoác {#Cover/Jacket_Text}
 
-\[... *(Trích dài từ [The Return of the King](../T/The_Return_of_the_King.md))*\]
+\[... *(Trích dài từ [Sự trở lại của nhà vua](../T/The_Return_of_the_King.md))*\]
 
-Minas Tirith ghi lại lịch sử, thiết kế, cách bố trí, nơi đồn trú và cư dân của Thành phố Phòng vệ, biểu tượng ưu việt của cuộc đấu tranh của Nhân dân Tự do chống lại Sauron của Mordor. Thủ đô của Gondor tạo ra khoảng cách rộng giữa Dãy Núi Trắng và Ephel Dúath bao quanh thái ấp của Chúa tể Bóng tối. Bảy bức tường và tầng của nó dường như mọc ra từ đá của ngọn núi, như thể được chạm khắc bởi những người khổng lồ.
+Minas Tirith ghi lại lịch sử, thiết kế, cách bố trí, nơi đồn trú và cư dân của Thành phố được Bảo vệ, biểu tượng ưu việt của cuộc đấu tranh của Dân tộc Tự do chống lại Sauron xứ Mordor. Thủ đô của Gondor cai trị khoảng trống rộng lớn giữa Dãy núi Trắng và Ephel Dúath bao quanh thái ấp của Chúa tể Hắc ám. Bảy bức tường và tầng của nó dường như mọc ra từ đá của ngọn núi, như thể được chạm khắc bởi những người khổng lồ.
 
 Minas Tirith bao gồm:
 
 - CẶP BẢN ĐỒ ĐẦY MÀU - mỗi bản đồ mô tả một nửa Thành phố Vệ binh đáng kinh ngạc. Được nghệ sĩ chịu trách nhiệm về bản đồ địa hình đa dạng của Endor thể hiện một cách đẹp mắt.
-- VỊ TRÍ CHÍNH - Cổng Lớn nơi Gandalf ngăn chặn Chúa tể của Nazgûl, Nhà chữa bệnh nơi Éowyn và Merry phải chịu đựng Hơi Thở Đen, và Nơi của Đài phun nước trong Tòa án Tối cao nơi Nữ hoàng Arwen hát về Valinor.
+- VỊ TRÍ CHÍNH - Cổng Lớn nơi Gandalf ngăn chặn Chúa tể Nazgûl, Ngôi nhà chữa lành nơi Éowyn và Merry phải chịu đựng Hơi thở đen, và Nơi có Đài phun nước trong Tòa án tối cao nơi Nữ hoàng Arwen hát về Valinor.
 - PHẦN HOÀN TOÀN - Tarondor, gia đình ông và các vị Vua đã định hình nên thiết kế của Minas Tirith.
 - MẶT SÀN - mô tả chi tiết hơn bốn mươi tòa nhà nằm trong các bức tường thành phố: Keylodge, Great Bakery, Waterwrights' Hall, Rynd Permaith Iaur, v.v.
-- DENETHOR & NHỮNG NGƯỜI Thừa kế CỦA NGÀI - Người quản lý cầm quyền cuối cùng của Gondor và các con trai của ông, Boromir và Faramir.
-- ĐẤT THÀNH PHỐ - Pelennor (các sườn dốc và bậc thang khép kín bao quanh Minas Tirith), bờ Anduin nơi có Harlond, thiên đường phía Nam nơi các bến tàu giao thông trên sông và các thung lũng của Dãy Núi Trắng, có đặc điểm hoang dã và núi cao.
+- DENETHOR VÀ NHỮNG NGƯỜI Thừa Kế CỦA Ông - Người Quản Lý Cuối Cùng của Gondor và các con trai của ông, Boromir và Faramir.
+- ĐẤT THÀNH PHỐ - Pelennor (các sườn dốc và bậc thang bao quanh Minas Tirith), bờ sông Anduin nơi Harlond tọa lạc, thiên đường phía Nam nơi các bến tàu giao thông trên sông và các thung lũng của Dãy núi Trắng, có đặc điểm hoang dã và núi cao.
 - PHIÊU LƯU - đối đầu với kẻ phản bội lừa đảo, kẻ nổi loạn giả tạo và mụ phù thủy tham nhũng.
 
-Tập này của Citadels of Trung Địa là phiên bản sửa đổi của sách nguồn phát hành năm 1988. Minas Tirith sửa đổi có bản đồ thành phố mới - lớn đến mức cần có hai nửa riêng biệt - và bao gồm số liệu thống kê đầy đủ cho Trò chơi phiêu lưu Chúa tể của những chiếc nhẫn bên cạnh số liệu thống kê MERP và Rolemaster.
+Tập này của Citadels of Middle-earth là phiên bản sửa đổi của sách nguồn phát hành năm 1988. Minas Tirith sửa đổi có bản đồ thành phố mới - lớn đến mức cần có hai nửa riêng biệt - và bao gồm số liệu thống kê đầy đủ cho Trò chơi phiêu lưu Chúa tể những chiếc nhẫn bên cạnh số liệu thống kê MERP và Rolemaster.

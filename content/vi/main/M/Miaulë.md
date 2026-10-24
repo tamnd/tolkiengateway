@@ -40,19 +40,19 @@ infobox:
 
 ## Lịch sử {#History}
 
-Miaulë là đầu bếp làm việc trong những căn bếp tuyệt vời của Tevildo, có mái vòm rộng rãi và có ít nhất một ngọn lửa lớn. Cô giám sát công việc của Tevildo thợ rửa bát.<sup id="cite_ref-tales_1-1" class="reference"><a href="#cite_note-tales-1">[1]</a></sup>
+Miaulë là đầu bếp làm việc trong những căn bếp lớn của Tevildo, nơi có mái vòm rộng rãi, có ít nhất một ngọn lửa lớn. Bà giám sát công việc của thợ điêu khắc Tevildo.<sup id="cite_ref-tales_1-1" class="reference"><a href="#cite_note-tales-1">[1]</a></sup>
 
-Khi gặp [Beren](../B/Beren.md) lần đầu tiên, Tevildo đã biến anh thành người nấu ăn dưới sự giám sát của Miaulë sau khi Beren trượt một bài kiểm tra khó. Sự giám sát của Miaulë đối với anh khốn khổ đến mức Beren cuối cùng ước rằng mình chưa bao giờ nhìn thấy [Tinúviel](../L/Lúthien.md).<sup id="cite_ref-tales_1-2" class="reference"><a href="#cite_note-tales-1">[1]</a></sup>
+Khi gặp [Beren](../B/Beren.md) lần đầu tiên, Tevildo đã biến anh thành một người nấu ăn dưới sự giám sát của Miaulë sau khi Beren thất bại trong một bài kiểm tra khó khăn. Sự giám sát của Miaulë đối với ông ta khốn khổ đến mức Beren cuối cùng ước rằng mình chưa bao giờ nhìn thấy [Tinúviel](../L/Lúthien.md).<sup id="cite_ref-tales_1-2" class="reference"><a href="#cite_note-tales-1">[1]</a></sup>
 
-Một thời gian sau, khi [Umuiyan](../U/Umuiyan.md) dẫn Tinúviel lên vách đá, Tevildo đưa cô đến phòng ăn cạnh căn bếp lớn trong sảnh của anh. Tinúviel đã có thể nhìn thoáng qua Beren và nhiều con mèo, có thể bao gồm cả Miaulë. Khi Tinúviel bắt đầu nói chuyện với Tevildo, Beren đã nghe thấy giọng nói của cô, khiến anh vô tình làm rơi một lượng kim loại và bình đất nung không xác định. Miaulë trừng phạt anh ta bằng những vết xước âm thanh.<sup id="cite_ref-tales_1-3" class="reference"><a href="#cite_note-tales-1">[1]</a></sup>
+Một thời gian sau, khi [Umuiyan](../U/Umuiyan.md) dẫn Tinúviel lên vách đá, Tevildo đưa cô đến phòng ăn cạnh căn bếp lớn trong sảnh của anh. Tinúviel đã có thể nhìn thoáng qua Beren và nhiều con mèo, có thể bao gồm cả Miaulë. Khi Tinúviel bắt đầu nói chuyện với Tevildo, Beren đã nghe thấy giọng nói của cô, khiến anh vô tình đánh rơi một lượng không xác định các bình kim loại và đất nung. Miaulë trừng phạt ông ta bằng những vết xước âm thanh.<sup id="cite_ref-tales_1-3" class="reference"><a href="#cite_note-tales-1">[1]</a></sup>
 
-Một giờ sau, sau cái chết của [Oikeroi](../O/Oikeroi.md) trong [Héo Dale](../W/Withered_Dale.md), Tevildo nói với [Huan](../H/Huan.md) rằng Beren có thể đã bị trừng phạt bằng những vết xước của Miaulë do sự việc trước đó.<sup id="cite_ref-tales_1-4" class="reference"><a href="#cite_note-tales-1">[1]</a></sup>
+Một giờ sau, sau cái chết của [Oikeroi](../O/Oikeroi.md) ở [Thung lũng khô héo](../W/Withered_Dale.md), Tevildo nói với [Huan](../H/Huan.md) rằng Beren có thể đã bị trừng phạt bằng những vết xước của Miaulë do sự việc trước đó.<sup id="cite_ref-tales_1-4" class="reference"><a href="#cite_note-tales-1">[1]</a></sup>
 
 Số phận cuối cùng của Miaulë vẫn chưa được biết.
 
 ## Từ nguyên {#Etymology}
 
-Tên [Gnomish](../G/Gnomish.md)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> *Miaulë* được mô tả bởi [Christopher Tolkien](../C/Christopher_Tolkien.md) cùng với *Miaugion* và *Meoita* là " [Elvish](../E/Elvish.md)-tên mèo một cách hấp dẫn".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Theo [Patrick H. Wynne](../P/Patrick_H._Wynne.md) và [Christopher Gilson](../C/Christopher_Gilson.md), nó có thể có cùng nguồn gốc với [Gnomish](../G/Gnomish.md) *miaulin* ("she-cat"),<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> dạng nữ tính của *miog* ("mèo").<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Tên [Gnomish](../G/Gnomish.md)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> *Miaulë* được mô tả bởi [Christopher Tolkien](../C/Christopher_Tolkien.md) cùng với *Miaugion* và *Meoita* là "tên [Elvish](../E/Elvish.md)-mèo hấp dẫn".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Đúng như vậy, theo [Patrick H. Wynne](../P/Patrick_H._Wynne.md) và [Christopher Gilson](../C/Christopher_Gilson.md), có thể có cùng nguồn gốc với [Gnomish](../G/Gnomish.md) *miaulin* ("she-cat"),<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> dạng nữ tính của *miog* ("mèo").<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 <span></span>
 

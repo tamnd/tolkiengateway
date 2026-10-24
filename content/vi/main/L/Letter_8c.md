@@ -29,7 +29,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien viết cho con trai [Michael](../M/Michael_Tolkien.md) một ngày trước sinh nhật lần thứ mười sáu của Michael. Anh ấy bảo sẽ gửi cho anh ấy một số tiền Michael để trả nợ và vài ngày nữa có thể gửi thêm tiền nếu anh ấy nhắc nhở. Anh ấy nói rằng anh ấy hy vọng Michael sẽ sớm nhận được một vai trong một vở kịch và anh ấy rất vui vì bàn tay của mình đã ổn.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> Anh ấy định đi London để họp hội đồng quản trị nhưng sẽ quay lại kịp lúc để họ gặp "Growler", bác sĩ của Michael, người đã điều trị bàn tay của anh ấy.
+Tolkien viết cho con trai mình [Michael](../M/Michael_Tolkien.md) một ngày trước sinh nhật lần thứ mười sáu của Michael. Ông nói với ông rằng ông sẽ gửi cho ông một số tiền để Michael trả nợ và có thể gửi thêm một số tiền trong vài ngày tới nếu ông nhắc nhở. Ông nói rằng ông hy vọng Michael sẽ sớm nhận được một vai trong một vở kịch và ông rất vui vì bàn tay của ông đã ổn.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> Ông định đến London để họp hội đồng quản trị nhưng sẽ quay lại kịp lúc để họ gặp "Growler", bác sĩ của Michael, người đã điều trị bàn tay của ông.
 
 ## Lưu ý {#Note}
 

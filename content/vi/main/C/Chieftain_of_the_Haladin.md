@@ -14,9 +14,9 @@ categories:
   - "Rulers in Beleriand"
 ---
 
-**Thủ lĩnh của Haladin**, sau này là **Thủ lĩnh của Nhà Haleth** là một chức danh được bầu chọn cho thủ lĩnh của [Haladin](../H/Haladin.md) trong thời gian đầu [Kỷ Đệ Nhất](../F/First_Age.md), nhóm thứ hai của [Edain](../E/Edain.md) vượt qua [Dãy Núi Xanh](../B/Blue_Mountains.md) và tiến vào [Beleriand](../B/Beleriand.md) và trở thành đồng minh của [Tiên tộc](../E/Elves.md). Ngay sau khi đến Haladin đã bị tấn công bởi [Orc](../O/Orcs.md) và [Haleth](../H/Haleth.md), con gái của Thủ lĩnh vừa bị giết, phải chịu trách nhiệm về sự sống còn của người dân của mình. Sau đó, Thủ lĩnh của Haladin trở thành tước hiệu cha truyền con nối.
+**Thủ lĩnh của Haladin**, sau này là **Thủ lĩnh của Nhà Haleth** là một chức danh được bầu chọn cho thủ lĩnh của [Haladin](../H/Haladin.md) vào đầu [Kỷ nguyên thứ nhất](../F/First_Age.md), nhóm thứ hai của [Edain](../E/Edain.md) vượt qua [Dãy núi Xanh](../B/Blue_Mountains.md) và tiến vào [Beleriand](../B/Beleriand.md) và trở thành đồng minh của [Yêu tinh](../E/Elves.md). Ngay sau khi đến Haladin đã bị tấn công bởi [Orc](../O/Orcs.md) và [Haleth](../H/Haleth.md), con gái của Thủ lĩnh vừa bị giết, chịu trách nhiệm về sự sống còn của người dân của bà. Sau đó, Thủ lĩnh của Haladin trở thành tước hiệu cha truyền con nối.
 
-Cô ấy không chỉ Haleth cứu người của mình mà còn dẫn họ đến một [vùng đất](../F/Forest_of_Brethil.md) an toàn hơn và mặc cả về ngôi nhà của họ. Để đổi lấy việc bảo vệ một con sông vượt sông, họ sẽ vẫn là những người tự do, không bao giờ thề trung thành vĩnh viễn với bất kỳ lãnh chúa nào. Để tưởng nhớ cô ấy, Haladin sẽ đổi tên thành [Nhà Haleth](../H/House_of_Haleth.md) và Thủ lĩnh của Haladin sẽ trở thành Thủ lĩnh của Nhà Haleth và Warden ([Halad](../H/Halad.md)) của Brethil.
+Haleth không chỉ cứu người của mình mà còn dẫn họ đến một [vùng đất](../F/Forest_of_Brethil.md) an toàn hơn và mặc cả về quê hương của họ. Để đổi lấy việc bảo vệ một con sông vượt sông, họ sẽ vẫn là những người tự do, không bao giờ thề trung thành vĩnh viễn với bất kỳ lãnh chúa nào. Để tưởng nhớ cô, Haladin sẽ đổi tên mình thành [Nhà Haleth](../H/House_of_Haleth.md), và Thủ lĩnh của Haleth sẽ trở thành Thủ lĩnh của Nhà Haleth và Người cai ngục ([Halad](../H/Halad.md)) của Brethil.
 
 ## Danh sách thủ lĩnh {#List_of_Chieftains}
 
@@ -26,7 +26,7 @@ Cô ấy không chỉ Haleth cứu người của mình mà còn dẫn họ đ�
 4. **[Haldan](../H/Haldan.md)**, [F.A.](../F/First_Age.md) [420](../F/First_Age_420.md)–[451](../F/First_Age_451.md)
 5. **[Halmir](../H/Halmir.md)**, [F.A.](../F/First_Age.md) [451](../F/First_Age_451.md)–[471](../F/First_Age_471.md)
 6. **[Haldir](<../H/Haldir_(Chieftain_of_the_Haladin).md>)**, [F.A.](../F/First_Age.md) [471](../F/First_Age_471.md)–[472](../F/First_Age_472.md)
-7. **[Handir](../H/Handir.md)**, [F.A.](../F/First_Age.md) [472](../F/First_Age_472.md)–[495](../F/First_Age_495.md)
+7. **[Người cầm tay](../H/Handir.md)**, [F.A.](../F/First_Age.md) [472](../F/First_Age_472.md)–[495](../F/First_Age_495.md)
 8. **[Brandir Kẻ Què](../B/Brandir_the_Lame.md)**, [F.A.](../F/First_Age.md) [495](../F/First_Age_495.md)–[499](../F/First_Age_499.md)
 9. **[Hardang](../H/Hardang.md)**, [F.A.](../F/First_Age.md) [499](../F/First_Age_499.md)–[501](../F/First_Age_501.md)
 10. **[Avranc](../A/Avranc.md)**, [F.A.](../F/First_Age.md) [501](../F/First_Age_501.md)–[F.A.](../F/First_Age.md)???

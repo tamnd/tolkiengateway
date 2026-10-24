@@ -25,15 +25,15 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../D/Dwarves.md" title="Dwarves">Dwarf</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Anar</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Birth</th><td class="tg-infobox-data"><a href="../T/Third_Age.md" title="Third Age">Third Age</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Anar_(dwarf).md" title="Category:Images of Anar (dwarf)">Images of Anar</a></td></tr></tbody></table>
 
-**Anar** là một trong bốn người Người Lùn đồng hành cùng [Bilbo Baggins](../B/Bilbo_Baggins.md) trên hành trình sau bữa tiệc sinh nhật của anh.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Anar** là một trong bốn Người lùn đi cùng [Bilbo Baggins](../B/Bilbo_Baggins.md) trong chuyến hành trình sau bữa tiệc sinh nhật của ông.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Lịch sử {#History}
 
-Trong những phần đầu của chương *[A Long-expected Party](A_Long-expected_Party.md)*, Anar đã được đưa ra một số đoạn hội thoại và phát triển thêm một chút. Tuy nhiên, [Tolkien](../J/J.R.R._Tolkien.md) sau đó đã thay đổi ý định và không tiết lộ tên của anh ta trong cuốn sách cũng như không đưa ra bất kỳ lời thoại nào.
+Trong những phần đầu của chương *[A Long-expected Party](A_Long-expected_Party.md)*, Anar đã được đưa ra một số đoạn hội thoại và phát triển thêm một chút. Tuy nhiên, [Tolkien](../J/J.R.R._Tolkien.md) sau đó đã thay đổi quyết định và không tiết lộ tên của ông trong cuốn sách cũng như không đưa ra bất kỳ lời thoại nào.
 
 ## Từ nguyên {#Etymology}
 
-Anar, hay *Anarr*, là một người lùn đến từ *[Dvergatal](../V/Völuspá.md)*. Tên của anh ấy rất có thể có nghĩa là "Người khác" hoặc "Người nhìn chằm chằm".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Anar, hay *Anarr*, là một người lùn đến từ *[Dvergatal](../V/Völuspá.md)*. Tên của ông rất có thể có nghĩa là "Người khác" hoặc "Người nhìn chằm chằm".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

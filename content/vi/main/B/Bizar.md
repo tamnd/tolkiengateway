@@ -25,11 +25,11 @@ categories:
 
 ## Phiên bản khác {#Other_versions}
 
-[Tolkien](../J/J.R.R._Tolkien.md) đã khám phá nhiều khả năng khác nhau liên quan đến việc giải thích chính xác các yếu tố xuất hiện trong tên *[Azanulbizar](../A/Azanulbizar.md)*; nó có nghĩa là ["Thung lũng Dimrill"](../D/Dimrill_Dale.md).
+[Tolkien](../J/J.R.R._Tolkien.md) đã khám phá nhiều khả năng khác nhau liên quan đến việc giải thích chính xác các yếu tố xuất hiện trong tên *[Azanulbizar](../A/Azanulbizar.md)*; nó có nghĩa là ["Dimrill Dale"](../D/Dimrill_Dale.md).
 
 Theo một cách hiểu, *Azanulbizar* có nghĩa là "Dòng xoáy của bóng tối", trong khi từ "dale" được hiểu (tên đầy đủ là *[duban](../D/Duban.md) Azanulbizar*, nhưng *duban* "dale, thung lũng" bị bỏ đi nên địa điểm này được gọi đơn giản là *Azanulbizar*).
 
-Trong một trường hợp khác, toàn bộ cụm từ "Thung lũng Dimrill" phù hợp với từ *Azanulbizar* vì phần *bizar* có nghĩa là "dale" và "rill(s)" hoặc "streams" tương ứng với phần tử ở giữa *[ûl](../_/Ûl.md)*. <span></span>
+Trong một trường hợp khác, toàn bộ cụm từ "Dimrill Dale" phù hợp với từ *Azanulbizar* vì phần *bizar* có nghĩa là "dale" và "rill(s)" hoặc "streams" tương ứng với phần tử ở giữa *[ûl](../_/Ûl.md)*. <span></span>
 
 ## Tài liệu tham khảo {#References}
 

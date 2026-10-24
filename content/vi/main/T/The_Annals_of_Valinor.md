@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Annals of Valinor"
 ---
 
-Chuyển hướng đến [Biên niên sử của Valinor](../A/Annals_of_Valinor.md).
+Chuyển hướng tới [Biên niên sử của Valinor](../A/Annals_of_Valinor.md).

@@ -38,7 +38,7 @@ infobox:
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
-**That's What [Bilbo Baggins](../B/Bilbo_Baggins.md) Hates** là một bài hát được chuyển thể từ [1977](<The_Hobbit_(1977_film).md>) của tác phẩm *[The Hobbit](The_Hobbit.md)*, lời bài hát dựa trên [bài thơ trong cuốn sách](../C/Chip_the_glasses_and_crack_the_plates!.md). Lời bài hát được chuyển thể bởi [Jules Bass](../J/Jules_Bass.md) và phần nhạc của [Maury Laws](../M/Maury_Laws.md). *[The Hobbit: An Unexpected Journey](The_Hobbit%253A_An_Unexpected_Journey.md)* có [một bản chuyển thể tương tự](../B/Blunt_the_Knives.md) của bài thơ.
+**That's What [Bilbo Baggins](../B/Bilbo_Baggins.md) Hates** là một bài hát được chuyển thể từ [1977](<The_Hobbit_(1977_film).md>) của *[The Hobbit](The_Hobbit.md)*, lời bài hát dựa trên [bài thơ trong cuốn sách](../C/Chip_the_glasses_and_crack_the_plates!.md). Lời bài hát được chuyển thể bởi [Jules Bass](../J/Jules_Bass.md) và phần nhạc của [Maury Laws](../M/Maury_Laws.md). *[The Hobbit: An Unexpected Journey](The_Hobbit%253A_An_Unexpected_Journey.md)* có [một bản chuyển thể tương tự](../B/Blunt_the_Knives.md) của bài thơ.
 
 ## Lời bài hát {#Lyrics}
 

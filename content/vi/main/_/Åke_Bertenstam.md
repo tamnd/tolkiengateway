@@ -25,22 +25,22 @@ sort_keys:
 ## Thư mục, đã chọn {#Bibliography,_selected}
 
 - [1985](1985.md): *[Beyond Bree](../B/Beyond_Bree.md)* (Tháng 11 năm 1985)
-    - "Tính toán của Vua: Tolkien Tính toán có đúng không?"
+    - "Tính toán của nhà vua: Tolkien tính toán có đúng không?"
 
 ## Bản sửa lỗi {#Corrigendas}
 
-Được người dùng của Tolkien Gateway ghi nhận.
+Được người dùng Tolkien Gateway ghi nhận.
 
 - Sửa chữa cho *Thư mục theo trình tự thời gian về các tác phẩm của J.R.R. Tolkien*
     - **90** Cardiff: Nhà xuất bản Đại học Wales
 
 - Sửa đổi cho *Thư mục theo trình tự thời gian của các cuốn sách về J.R.R. Tolkien*
     - **32** "Spojrzenie z zewnątrz"
-    - **40** *Bóng tối của thiên đường: Tôn giáo và sự kỳ ảo trong cách viết C.S. Lewis, Charles Williams và J.R.R. Tolkien*
-    - **57** \[Bertenstam có lẽ nên ghi chú vào một cuốn sách khác có cùng tựa đề, được xuất bản năm 1990 bởi Green và Hooper, cuốn sách cũng chứa tài liệu về Tolkien. Cuốn sách thứ hai cũng thiếu một mục trong tuyển tập của Bertenstam năm 1990.\]
+    - **40** *Bóng tối của thiên đường: Tôn giáo và sự tưởng tượng trong cách viết của C.S. Lewis, Charles Williams và J.R.R. Tolkien*
+    - **57** \[Bertenstam lẽ ra nên ghi chú vào một cuốn sách khác có cùng tựa đề, được xuất bản năm 1990 bởi Green và Hooper, cuốn sách cũng chứa tài liệu về Tolkien. Cuốn sách thứ hai cũng thiếu một mục trong tuyển tập của Bertenstam năm 1990.\]
     - **71** \[Đặt nhầm dưới tiêu đề 1974 (phải là 1975)\]
     - **81** *J.R.R. Tolkien: Kiến trúc sư của Trung Địa: Tiểu sử*
-    - **94** \[Tiêu đề *The Lord of the Rings và The Hobbit: Ghi chú* có lẽ nên là *Cliffs Notes on Tolkien's* The Lord of the Rings *and* The Hobbit hoặc *Tolkien's* The Lord of the Rings *and* The Hobbit.\]
+    - **94** \[Tiêu đề *Chúa tể của những chiếc nhẫn và Người Hobbit: Ghi chú* có lẽ nên là *Cliffs Notes on Tolkien's* Chúa tể của những chiếc nhẫn *and* Người Hobbit, hoặc *Tolkien's* Chúa tể của những chiếc nhẫn *and* Người Hobbit.\]
     - **128** Dựa trên tiến sĩ của Petty D. Thesis
     - **147** Crabbe, Katharyn F.
     - **282** Crabbe, Katharyn W.

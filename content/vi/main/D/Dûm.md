@@ -17,7 +17,7 @@ sort_keys:
 
 **dûm** có nghĩa là "đại sảnh, biệt thự" và/hoặc "khai quật" trong [Khuzdul](../K/Khuzdul.md).
 
-Nó được nhìn thấy trong tên [Khazad-dûm](../M/Moria.md), tên của [Moria](../M/Moria.md).
+Nó được thấy trong cái tên [Khazad-dûm](../M/Moria.md), tên của [Moria](../M/Moria.md).
 
 ## Từ nguyên {#Etymology}
 

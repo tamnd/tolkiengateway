@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Northwestern Middle-earth Gazetteer"
 ---
 
-Chuyển hướng đến [Tây Bắc Trung Địa Công báo](../N/Northwestern_Middle-earth_Gazetteer.md).
+Chuyển hướng đến [Công báo Tây Bắc Trung Địa](../N/Northwestern_Middle-earth_Gazetteer.md).

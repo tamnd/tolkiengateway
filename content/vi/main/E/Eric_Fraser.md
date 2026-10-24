@@ -31,7 +31,7 @@ infobox:
 
 **Eric George Fraser** ([11 tháng 6](../_/11_June.md), [1902](../_/1902.md) – [15 tháng 11](../_/15_November.md), [1983](../_/1983.md)) là một họa sĩ và họa sĩ đồ họa người Anh.
 
-Là chuyên gia minh họa những cảnh cổ điển trong thần thoại (chẳng hạn như [Beowulf](<../B/Beowulf_(poem).md>) chiến đấu với rồng) và những cảnh cổ điển thời trung cổ, Fraser cũng minh họa cho các sách của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), chẳng hạn như ấn bản Folio Society của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* năm 1977 và ấn bản Folio Society của *[The Hobbit](../T/The_Hobbit.md)* năm 1979.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Là chuyên gia minh họa những cảnh kinh điển trong thần thoại (chẳng hạn như [Beowulf](<../B/Beowulf_(poem).md>) chiến đấu với rồng) và những cảnh cổ điển thời trung cổ, Fraser cũng minh họa cho các sách của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), chẳng hạn như ấn bản *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* của Folio Society năm 1977 và ấn bản *[The Hobbit](../T/The_Hobbit.md)* của Folio Society năm 1979.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Liên kết ngoài {#External_links}
 

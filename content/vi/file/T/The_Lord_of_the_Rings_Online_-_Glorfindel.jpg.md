@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Glorfindel](../../main/G/Glorfindel.md) khi anh ấy xuất hiện trong *[The Lord of the Rings Online](../../main/T/The_Lord_of_the_Rings_Online.md)*.
+[Glorfindel](../../main/G/Glorfindel.md) khi ông xuất hiện trong *[The Lord of the Rings Online](../../main/T/The_Lord_of_the_Rings_Online.md)*.
 
 ## Giấy phép {#Licensing}
 

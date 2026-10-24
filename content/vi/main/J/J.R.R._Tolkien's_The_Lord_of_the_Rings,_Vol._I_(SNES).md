@@ -30,21 +30,21 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/LOTR-vol1-SNES1.png.md"><img src="https://tolkiengateway.net/w/images/thumb/f/fb/LOTR-vol1-SNES1.png/320px-LOTR-vol1-SNES1.png" decoding="async" loading="lazy" width="320" height="204" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/f/fb/LOTR-vol1-SNES1.png 1.5x" data-file-width="382" data-file-height="243"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Video game</td></tr><tr><th colspan="2" class="tg-infobox-title"><span><i>J.R.R. Tolkien&#39;s The Lord of the Rings, Vol. I</i></span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Details</span></th></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../I/Interplay_Productions.md" title="Interplay Productions">Interplay Productions</a>, <a href="../E/Electronic_Arts.md" title="Electronic Arts">Electronic Arts</a></td></tr><tr><th scope="row" class="tg-infobox-label">Platform</th><td class="tg-infobox-data"><a class="extiw" href="http://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System" title="wikipedia:Super Nintendo Entertainment System">SNES</a></td></tr><tr><th scope="row" class="tg-infobox-label">Release Date</th><td class="tg-infobox-data"><a href="../_/1994.md" title="1994">1994</a></td></tr></tbody></table>
 
-<i><b>J.R.R. Tolkien của The Lord of the Rings, Tập. I</b></i> là trò chơi điện tử do [Interplay Productions](../I/Interplay_Productions.md) sản xuất cho Hệ thống giải trí Super Nintendo.
+Chúa tể của những chiếc nhẫn của <i><b>J.R.R. Tolkien, Tập. I</b></i> là trò chơi điện tử do [Interplay Productions](../I/Interplay_Productions.md) sản xuất cho Hệ thống giải trí Super Nintendo.
 
 ## Cách chơi {#Gameplay}
 
 Mặc dù trò chơi có thể chơi được ở chế độ chơi đơn, nhưng có thể thêm tối đa bốn người chơi bằng cách sử dụng thiết bị ngoại vi Super Multitap. Trò chơi cũng tương thích với Super NES Mouse.
 
-Người chơi bắt đầu trò chơi với tư cách [Frodo Baggins](../F/Frodo_Baggins.md), với các thành viên còn lại của [Học bổng](../F/Fellowship_of_the_Ring.md) có thể chơi được trong suốt trò chơi (ngoại trừ [Boromir](../B/Boromir.md)). Sau khi chết, các nhân vật có thể chơi được sẽ vĩnh viễn không thể sử dụng được trong phần còn lại của trò chơi.
+Người chơi bắt đầu trò chơi với tư cách là [Frodo Baggins](../F/Frodo_Baggins.md), với các thành viên còn lại của [Fellowship](../F/Fellowship_of_the_Ring.md) có thể chơi được trong suốt trò chơi (ngoại trừ [Boromir](../B/Boromir.md)). Sau khi chết, các nhân vật có thể chơi được sẽ vĩnh viễn không thể sử dụng được trong phần còn lại của trò chơi.
 
 Trò chơi xoay quanh việc khám phá những môi trường rộng lớn để thu thập vật phẩm và trả lại cho những nhân vật không thể chơi được. Nó cũng chứa các yếu tố trò chơi nhập vai hành động, trong đó người chơi có thể tham gia chiến đấu với nhiều loại kẻ thù.
 
 ## Lô đồ {#Plot}
 
-Trò chơi tiếp nối phần đầu tiên của *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md),* bắt đầu [ Shire](../T/The_Shire.md) trong [Bilbo Tiệc sinh nhật](../B/Bilbo's_Birthday_Party.md) và tiến dần đến [Bree](../B/Bree.md) và [Rivendell](../R/Rivendell.md). Trò chơi kết thúc bằng cuộc chiến giữa [Học bổng](../F/Fellowship_of_the_Ring.md) và [Balrog](../B/Balrogs.md) trong [Mỏ Moria](../M/Moria.md).<sup id="cite_ref-Gamefaqs_1-0" class="reference"><a href="#cite_note-Gamefaqs-1">[1]</a></sup>
+Trò chơi tiếp nối phần đầu tiên của *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md),* bắt đầu [Shire](../T/The_Shire.md) trong [Bữa tiệc sinh nhật của Bilbo](../B/Bilbo's_Birthday_Party.md) và tiến triển qua [Bree](../B/Bree.md) và [Rivendell](../R/Rivendell.md). Trò chơi kết thúc bằng cuộc chiến giữa [Học bổng](../F/Fellowship_of_the_Ring.md) và [Balrog](../B/Balrogs.md) trong [Mines of Moria](../M/Moria.md).<sup id="cite_ref-Gamefaqs_1-0" class="reference"><a href="#cite_note-Gamefaqs-1">[1]</a></sup>
 
-Mặc dù trò chơi có tựa đề "*The Lord of the Rings, Tập 1*", nhưng không có phần tiếp theo nào được phát hành do bị đánh giá kém.
+Mặc dù trò chơi có tựa đề "*Chúa tể của những chiếc nhẫn, Tập 1*", nhưng không có phần tiếp theo nào được phát hành do bị đánh giá kém.
 
 ## Đánh giá {#Reviews}
 
@@ -59,7 +59,7 @@ Dựa trên 24 bài đánh giá về trò chơi tại GameFAQs.com, trò chơi n
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="extiw" href="http://en.wikipedia.org/wiki/J.R.R._Tolkien%27s_The_Lord_of_the_Rings,_Vol._I" title="wikipedia:J.R.R. Tolkien&#39;s The Lord of the Rings, Vol. I">J.R.R. Tolkien của The Lord of the Rings, Tập. Tôi</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
+Chúa tể của những chiếc nhẫn của - <a class="extiw" href="http://en.wikipedia.org/wiki/J.R.R._Tolkien%27s_The_Lord_of_the_Rings,_Vol._I" title="wikipedia:J.R.R. Tolkien&#39;s The Lord of the Rings, Vol. I">J.R.R. Tolkien, Tập. Tôi</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
 
 <span></span>
 

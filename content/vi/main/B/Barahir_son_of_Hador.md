@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Barahir (Steward of Gondor)"
 ---
 
-Chuyển hướng tới [Barahir (Người quản lý của Gondor)](<Barahir_(Steward_of_Gondor).md>).
+Chuyển hướng đến [Barahir (Người quản lý Gondor)](<Barahir_(Steward_of_Gondor).md>).

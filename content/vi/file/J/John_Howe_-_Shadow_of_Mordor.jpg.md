@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:John Howe - The Dark Tower 01.jpg"
 ---
 
-Chuyển hướng đến [Tệp:John Howe - Tòa Tháp Bóng Tối 01.jpg](John_Howe_-_The_Dark_Tower_01.jpg.md).
+Chuyển hướng đến [Tệp:John Howe - Tháp bóng tối 01.jpg](John_Howe_-_The_Dark_Tower_01.jpg.md).

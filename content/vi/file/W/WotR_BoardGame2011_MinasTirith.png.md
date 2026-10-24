@@ -23,7 +23,7 @@ file:
   user: "Qalten"
 ---
 
-Cảnh quay hành động của [Cuộc chiến Nhẫn: Phiên bản thứ hai (trò chơi board game năm 2011)](<../../main/W/War_of_the_Ring%253A_Second_Edition_(2011_board_game).md>).
+Cảnh quay hành động của [War of the Ring: Second Edition (2011 board game)](<../../main/W/War_of_the_Ring%253A_Second_Edition_(2011_board_game).md>).
 
 ## Giấy phép {#Licensing}
 

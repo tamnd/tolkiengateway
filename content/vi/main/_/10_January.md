@@ -71,7 +71,7 @@ Sự kiện xảy ra vào ngày 10 tháng 1.
 - **[1938](1938.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) tới London để diễn tập bài nói chuyện của mình tại BBC, [bốn ngày sau](14_January.md).
 - **[1947](1947.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư gửi A.W. Riddle](<../L/Letter_to_A.W._Riddle_(10_January_1947).md>).
 - **[1957](1957.md)** - Bertram Rota viết thư cho William Ready xem xét việc bán [Tolkien](../J/J.R.R._Tolkien.md) bản thảo của [Đại học Marquette](../M/Marquette_University.md).
-- **[1958](1958.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư gửi cháu ngoại Michael George Tolkien](<../L/Letter_to_Michael_George_Tolkien_(10_January_1958).md>).
+- **[1958](1958.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một bức thư cho cháu trai Michael George Tolkien](<../L/Letter_to_Michael_George_Tolkien_(10_January_1958).md>).
 - **[1959](1959.md)** - Biên kịch [Fran Walsh](../F/Fran_Walsh.md) ra đời.
 - **[1964](1964.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một bức thư gửi Hiệp hội Văn học Hoàng gia](../L/Letter_to_the_Royal_Society_of_Literature.md).
 - **[1966](1966.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư cho Timothy J. Wheeler](<../L/Letter_to_Timothy_J._Wheeler_(10_January_1966).md>).
@@ -80,4 +80,4 @@ Sự kiện xảy ra vào ngày 10 tháng 1.
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) di chuyển về phía [Caradhras](../C/Caradhras.md).
+    - Nhóm [Hiệp hội của chiếc nhẫn](../F/Fellowship_of_the_Ring.md) đi tới [Caradhras](../C/Caradhras.md).

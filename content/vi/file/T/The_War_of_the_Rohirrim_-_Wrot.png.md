@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Viết từ *The Lord of the Rings: The War of the Rohirrim*
+Viết từ *The Lord of the Rings: Cuộc chiến Rohirrim*
 
 ## Giấy phép {#Licensing}
 

@@ -66,7 +66,7 @@ Sự kiện xảy ra vào ngày 16 tháng 12
 
 ## Trên Trái đất {#On_Earth}
 
-- **[1913](1913.md)** – Trong trận đấu bóng bầu dục Giáng sinh hàng năm tại [King Edward's School](../K/King_Edward's_School.md), các cựu sinh viên tại [Oxford](../U/University_of_Oxford.md) và [Cambridge](../C/Cambridge.md) đấu với First XV của Trường. Năm nay, các cựu sinh viên [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), [Christopher Wiseman](../C/Christopher_Wiseman.md), [T.K. Barnsley](../T/Thomas_Kenneth_Barnsley.md), [Robert Gilson](../R/Robert_Gilson.md), [G.B. Smith](../G/Geoffrey_Bache_Smith.md) và [Sidney Barrowclough](../S/Sidney_Barrowclough.md) thua 14-10.
+- **[1913](1913.md)** – Trong trận đấu bóng bầu dục Giáng sinh hàng năm tại [Trường King Edward](../K/King_Edward's_School.md), các cựu sinh viên tại [Oxford](../U/University_of_Oxford.md) và [Cambridge](../C/Cambridge.md) thi đấu với đội First XV của Trường. Năm nay, các cựu sinh viên [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), [Christopher Wiseman](../C/Christopher_Wiseman.md), [T.K. Barnsley](../T/Thomas_Kenneth_Barnsley.md), [Robert Gilson](../R/Robert_Gilson.md), [G.B. Smith](../G/Geoffrey_Bache_Smith.md) và [Sidney Barrowclough](../S/Sidney_Barrowclough.md) thua 14-10.
 - **[1937](1937.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 19](../L/Letter_19.md).
 - **[1938](1938.md)** - Diễn viên [Wi Kuki Kaa](../W/Wi_Kuki_Kaa.md) ra đời.
 - **[1955](1955.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một bức thư cho ông Capan](../L/Letter_to_Mr_Capan.md).
@@ -81,4 +81,4 @@ Sự kiện xảy ra vào ngày 16 tháng 12
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi ở [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).
+    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi tại [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).

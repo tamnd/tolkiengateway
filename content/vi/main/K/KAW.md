@@ -12,7 +12,7 @@ categories:
   - "Roots"
 ---
 
-**KAW** là một [Primitive Quendian](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) biểu thị "nơi trú ẩn".<sup id="cite_ref-PEE_1-0" class="reference"><a href="#cite_note-PEE-1">[1]</a></sup>
+**KAW** là [Quendian nguyên thủy](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) biểu thị "nơi trú ẩn".<sup id="cite_ref-PEE_1-0" class="reference"><a href="#cite_note-PEE-1">[1]</a></sup>
 
 ## Công cụ phái sinh {#Derivatives}
 

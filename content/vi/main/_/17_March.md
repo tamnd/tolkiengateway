@@ -70,15 +70,15 @@ Sự kiện xảy ra vào ngày 17 tháng 3.
 - **[1968](1968.md)** - Tác giả [Nataša Tučev](../N/Nataša_Tučev.md) ra đời.
 - **[1989](1989.md)** - Nữ diễn viên [Morfydd Clark](../M/Morfydd_Clark.md) ra đời.
 - **[2006](2006.md)** - Diễn viên lồng tiếng [Bob Papenbrook](../B/Bob_Papenbrook.md) qua đời.
-- **[2009](2009.md)** - *[The Lord of the Rings Trực tuyến](../T/The_Lord_of_the_Rings_Online.md): [Mỏ Moria](../T/The_Lord_of_the_Rings_Online%253A_Mines_of_Moria.md#Synopsis)*, "Lá Lórien" được phát hành.
+- **[2009](2009.md)** - *[The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md): [Mines of Moria](../T/The_Lord_of_the_Rings_Online%253A_Mines_of_Moria.md#Synopsis)*, "Leaves of Lórien" được phát hành.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [2510](../T/Third_Age_2510.md):
     - [Borondir](../B/Borondir.md) đang trên đường tìm kiếm [Éothéod](Éothéod.md).
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - [Trận Dale](../B/Battle_of_Dale.md):
-        - [Vua Brand](../B/Brand.md) và [Vua Dain Ironfoot](../D/Dáin_Ironfoot.md) chết.
-        - Nhiều [Người Lùn Erebor](../D/Dwarves_of_Erebor.md) và [Người Dale](../M/Men_of_Dale.md) chạy trốn vào [Erebor](../L/Lonely_Mountain.md) và bị bao vây.
+    - [Trận chiến Dale](../B/Battle_of_Dale.md):
+        - [King Brand](../B/Brand.md) và [King Dain Ironfoot](../D/Dáin_Ironfoot.md) chết.
+        - Nhiều [Người lùn của Erebor](../D/Dwarves_of_Erebor.md) và [Người của Dale](../M/Men_of_Dale.md) chạy trốn vào [Erebor](../L/Lonely_Mountain.md) và bị bao vây.
     - [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md) đi về phía bắc dọc theo [Morgai](../M/Morgai.md).
-    - [Shagrat](../S/Shagrat.md) mang áo choàng, áo giáp và thanh kiếm của [Frodo](../F/Frodo_Baggins.md)đến [Barad-dûr](../B/Barad-dûr.md), nơi anh ta bị giết.
+    - [Shagrat](../S/Shagrat.md) mang áo choàng, áo giáp và thanh kiếm của [Frodo](../F/Frodo_Baggins.md) đến [Barad-dûr](../B/Barad-dûr.md), nơi ông ta bị giết.

@@ -41,7 +41,7 @@ infobox:
 
 **Những nhà lập pháp không được thừa nhận: Ausgewählte Aufsätze zur englischen Literatur** (*...: Selected essays on English literature*) là một cuốn sách bằng tiếng Đức, nằm trong bộ *Schweizer anglistische Arbeiten*, tập thứ 98. Tác giả viết về <a class="extiw" href="http://en.wikipedia.org/wiki/William_Shakespeare" title="wikipedia:William Shakespeare">Shakespeare</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/John_Milton" title="wikipedia:John Milton">Milton</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Thomas_Hardy" title="wikipedia:Thomas Hardy">Hardy</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/D.H._Lawrence" title="wikipedia:D.H. Lawrence">D.H. Lawrence</a> và [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-*[The Lord of the Rings](The_Lord_of_the_Rings.md)* được thảo luận trong bài tiểu luận "The Lord of the Rings: Aktualisierung einer untergehenden Welt" ("Sự hiện thực hóa của một thế giới đã biến mất"), trang 202–231.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+*[The Lord of the Rings](The_Lord_of_the_Rings.md)* được thảo luận trong bài tiểu luận "Chúa tể của những chiếc nhẫn: Aktualisierung einer untergehenden Welt" ("Sự hiện thực hóa của một thế giới đã biến mất"), trang 202–231.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

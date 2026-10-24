@@ -25,7 +25,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Bìa [J.R.R. Tolkien: Tiểu sử (Rừng Xanh Tiểu sử)](<../../main/J/J.R.R._Tolkien%253A_A_Biography_(Greenwood_Biographies).md>) của [Leslie Ellen Jones](../../main/L/Leslie_Ellen_Jones.md)
+Bìa [J.R.R. Tolkien: A Biography (Greenwood Biographies)](<../../main/J/J.R.R._Tolkien%253A_A_Biography_(Greenwood_Biographies).md>) của [Leslie Ellen Jones](../../main/L/Leslie_Ellen_Jones.md)
 
 ## Giấy phép {#Licensing}
 

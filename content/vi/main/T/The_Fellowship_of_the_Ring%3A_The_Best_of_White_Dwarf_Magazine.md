@@ -39,15 +39,15 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/F/FR_White_Dwarf.png.md"><img src="https://tolkiengateway.net/w/images/thumb/2/20/FR_White_Dwarf.png/320px-FR_White_Dwarf.png" decoding="async" loading="lazy" width="320" height="443" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/20/FR_White_Dwarf.png/480px-FR_White_Dwarf.png 1.5x, https://tolkiengateway.net/w/images/2/20/FR_White_Dwarf.png 2x" data-file-width="485" data-file-height="671"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Fellowship of the Ring: The Best of White Dwarf Magazine</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data">(Unknown)</td></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">(Unknown)</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../G/Games_Workshop.md" title="Games Workshop">Games Workshop</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/2002.md" title="2002">2002</a><sup id="cite_ref-amazon_1-0" class="reference"><a href="#cite_note-amazon-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Softcover</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">113<sup id="cite_ref-amazon_1-1" class="reference"><a href="#cite_note-amazon-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/978-1841543123" title="Special:BookSources/978-1841543123">978-1841543123</a></td></tr></tbody></table>
 
-<i><b>The Fellowship of the Ring: Tạp chí The Best of White Người lùn</b></i> là tập hợp các bài báo, được xuất bản lần đầu trên nhiều số khác nhau của *[White Dwarf](../W/White_Dwarf.md)*, liên quan đến [Games Workshop](../G/Games_Workshop.md) *[The Lord of the Rings Strategy Battle Game](The_Lord_of_the_Rings_Strategy_Battle_Game.md)*.
+<i><b>The Fellowship of the Ring: The Best of White Dwarf Magazine</b></i> là tập hợp các bài báo, ban đầu được xuất bản trên nhiều số khác nhau của *[White Dwarf](../W/White_Dwarf.md)*, liên quan đến [Games Workshop](../G/Games_Workshop.md) *[The Lord of the Rings Strategy Battle Game](The_Lord_of_the_Rings_Strategy_Battle_Game.md)*.
 
 ## Nội dung {#Contents}
 
-- Ghi chú của người thiết kế về trò chơi, quy tắc cho Sauron.
-- Báo cáo trận chiến về Orc Cuộc tấn công, Lăng mộ của Balin và Amon Hen.
-- Kịch bản dành cho Sauron Đã giải phóng và 2 phần Amon Hen.
-- Hướng dẫn phong cảnh cho bàn chơi game, Lăng Balin, Cầu Khazad-Dûm và Amon Hen.
-- Hướng dẫn vẽ tranh cho Sauron, MoG, High Elves, Moria Goblin, Mordor Orc, Gỗ \*Tiên tộc, Legolas, Gimli, Hobbit, Aragorn, Boromir, Elrond, Gil-Galad, Elendil, Isildur, Lurtz, Cave Troll, Kings of Con Người, Twilight Nazgûl, Nazgûl, Mounted Nazgûl và The Balrog.
+- Ghi chú của nhà thiết kế về trò chơi, luật lệ của Sauron.
+- Báo cáo trận chiến về Cuộc tấn công của lũ Orc, Lăng mộ của Balin và Gà mái Amon.
+- Kịch bản cho Sauron được giải phóng và Amon Hen 2 phần.
+- Hướng dẫn phong cảnh cho bàn chơi game, Lăng mộ Balin, Cây cầu ở Khazad-Dûm và Amon Hen.
+- Hướng dẫn vẽ tranh cho Sauron, MoG, High Elves, Moria Goblins, Mordor Orc, Wood \*Elves, Legolas, Gimli, the Hobbit, Aragorn, Boromir, Elrond, Gil-Galad, Elendil, Isildur, Lurtz, Cave Troll, Kings of Men, Twilight Ringwraith, Ringwraith, Ringwraiths và Balrog.
 
 <span></span>
 

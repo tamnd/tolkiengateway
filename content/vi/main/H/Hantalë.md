@@ -15,7 +15,7 @@ sort_keys:
   "Quenya nouns": "Hantale"
 ---
 
-<i><b>hantalë</b></i> (hoặc *hantale*) là một danh từ [Quenya](../Q/Quenya.md) có nghĩa là "Lễ tạ ơn". Lưu ý rằng từ này chỉ xuất hiện trong từ ghép *[Eruhantalë](../E/Eruhantalë.md)* ("ThanksThanks to [Eru](../I/Ilúvatar.md)").<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-VT43_3-0" class="reference"><a href="#cite_note-VT43-3">[3]</a></sup>
+<i><b>hantalë</b></i> (hoặc *hantale*) là danh từ [Quenya](../Q/Quenya.md) có nghĩa là "Lễ tạ ơn". Lưu ý rằng từ này chỉ xuất hiện trong từ ghép *[Eruhantalë](../E/Eruhantalë.md)* ("Lễ tạ ơn [Eru](../I/Ilúvatar.md)").<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-VT43_3-0" class="reference"><a href="#cite_note-VT43-3">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

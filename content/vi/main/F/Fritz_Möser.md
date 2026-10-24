@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Moser, Fritz"
 ---
 
-**Fritz Möser** ([19 tháng 10](../_/19_October.md) [1932](../_/1932.md) - Tháng 2 [2013](../_/2013.md)) là một nghệ sĩ người Đức.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Rõ ràng [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã biết đến tác phẩm nghệ thuật của Möser, vì anh ấy dường như quan tâm đến việc Möser tạo ra các hình minh họa cho bản dịch các tác phẩm của mình ở Đức.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+**Fritz Möser** ([19 October](../_/19_October.md) [1932](../_/1932.md) - February [2013](../_/2013.md)) was a German artist.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Apparently [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) was aware of Möser's artwork, as he was seemingly interested in Möser creating illustrations for translations of his works in Germany.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Liên kết ngoài {#External_links}
 

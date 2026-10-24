@@ -19,7 +19,7 @@ sort_keys:
 
 <i><b>The Clerkes Compleinte</b></i> là một bài thơ được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) bằng [tiếng Anh trung cổ](../M/Middle_English.md).
 
-Bài thơ được đăng lần đầu trên tạp chí [*The Gryphon*, Tập. 4 Số 3](The_Gryphon,_Vol.4_No.3.md) trang 95, ký 'N.N.'<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> vào tháng 12 năm [1922](../_/1922.md). Tại [1988](../_/1988.md), bài thơ được đăng lại ở *[Arda 1984](../A/Arda_1984%252F1985.md)*, có lời góp ý của [Tom Shippey](Tom_Shippey.md). Năm 1990, bản thảo bài thơ được sao chép dưới dạng fax ở *[Arda 1986](../A/Arda_1986.md)*, có ghi chú của [Christopher Tolkien](../C/Christopher_Tolkien.md) và [Anders Stenström](../A/Anders_Stenström.md).
+Bài thơ được đăng lần đầu trên tạp chí [*The Gryphon*, Tập. 4 Số 3](The_Gryphon,_Vol.4_No.3.md) trang 95, ký 'N.N.'<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> vào tháng 12 năm [1922](../_/1922.md). Ở [1988](../_/1988.md), bài thơ được tái bản ở *[Arda 1984](../A/Arda_1984%252F1985.md)*, có lời bình của [Tom Shippey](Tom_Shippey.md). Năm 1990, bản thảo bài thơ được sao chép dưới dạng fax ở *[Arda 1986](../A/Arda_1986.md)*, có ghi chú của [Christopher Tolkien](../C/Christopher_Tolkien.md) và [Anders Stenström](../A/Anders_Stenström.md).
 
 ## Ghi chú {#Notes}
 

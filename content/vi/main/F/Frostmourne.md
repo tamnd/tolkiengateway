@@ -26,7 +26,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Band</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Frostmourne</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Background Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Origin</th><td class="tg-infobox-data">Morelia/Zacapu, Michoacán de Ocampo, Mexico</td></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data">Melodic black metal</td></tr><tr><th scope="row" class="tg-infobox-label">Years active</th><td class="tg-infobox-data">Unknown</td></tr><tr><th scope="row" class="tg-infobox-label">website</th><td class="tg-infobox-data"><a class="external text" href="https://myspace.com/frostmournemetal" rel="noreferrer noopener" target="_blank">Myspace</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Members</span></th></tr><tr><th scope="row" class="tg-infobox-label">Current Members</th><td class="tg-infobox-data">Grond<br/>Lord<br/>Soldado del Odio</td></tr></tbody></table>
 
-**Frostmourne** là một ban nhạc black metal Mexico đến từ Morelia/Zacapu ở Michoacán de Ocampo.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Ban nhạc đã phát hành EP *Nazgul*, bao gồm các bài hát như "La batalla en el abismo de Helm" (đề cập đến [Trận Hornburg](../B/Battle_of_the_Hornburg.md)) và "La última Marcha de los ents" (đề cập đến [Ent](../E/Ent.md)).
+**Frostmourne** là một ban nhạc black metal Mexico đến từ Morelia/Zacapu ở Michoacán de Ocampo.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Ban nhạc đã phát hành EP *Nazgul*, bao gồm các bài hát như "La batalla en el abismo de Helm" (đề cập đến [Trận chiến Hornburg](../B/Battle_of_the_Hornburg.md)) và "La última Marcha de los ents" (đề cập đến [Ent](../E/Ent.md)).
 
 ## Thành viên {#Members}
 
@@ -38,7 +38,7 @@ infobox:
 
 - *Nazgul* (2009, EP)
     1. Melancolía
-    2. Cuộc chiến trong tình huống tuyệt vời Helm
+    2. Cuộc chiến trong trận chiến của Helm
     3. La bệnh chết chóc
     4. La última Marcha de los ents
     5. Nazgul

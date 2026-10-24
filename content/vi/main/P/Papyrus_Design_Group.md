@@ -13,7 +13,7 @@ categories:
   - "American businesses"
 ---
 
-**Nhóm thiết kế giấy cói** là một công ty trò chơi điện tử đã phát triển Riders of Rohan](../J/J.R.R._Tolkien's_Riders_of_Rohan.md) của [J.R.R. Tolkien cùng với [Phần mềm Beam](../M/Melbourne_House.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Nhóm thiết kế giấy cói** là một công ty trò chơi điện tử đã phát triển Riders of Rohan của [J.R.R. Tolkien](../J/J.R.R._Tolkien's_Riders_of_Rohan.md) cùng với [Phần mềm Beam](../M/Melbourne_House.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

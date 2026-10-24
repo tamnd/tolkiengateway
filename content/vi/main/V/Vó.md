@@ -28,7 +28,7 @@ sort_keys:
 ## Có cùng nguồn gốc {#Cognates}
 
 - [Quenya](../Q/Quenya.md) *[o-](../O/O-.md)*
-- [Sindarin](../S/Sindarin.md) *[go-, gwa-](../G/Go-.md)*
+- [Tiếng Sindarin](../S/Sindarin.md) *[go-, gwa-](../G/Go-.md)*
 
 <span></span>
 

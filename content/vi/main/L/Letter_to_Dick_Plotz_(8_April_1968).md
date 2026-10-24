@@ -16,12 +16,12 @@ sort_keys:
   "Letters": "Plotz, Dick"
 ---
 
-Vào [8 tháng 4](../_/8_April.md) [1968](../_/1968.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) gửi** [Dick Plotz](../D/Dick_Plotz.md), chủ tịch [Tolkien Society of America](../T/Tolkien_Society_of_America.md)<b>.<sup id="cite_ref-Marq_1-0" class="reference"><a href="#cite_note-Marq-1">[1]</a></sup></b>
+Vào [8 tháng 4](../_/8_April.md) [1968](../_/1968.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) gửi** [Dick Plotz](../D/Dick_Plotz.md), chủ tịch [Hiệp hội Tolkien Hoa Kỳ](../T/Tolkien_Society_of_America.md)<b>.<sup id="cite_ref-Marq_1-0" class="reference"><a href="#cite_note-Marq-1">[1]</a></sup></b>
 
 - **Mô tả:** Thư viết tay.<sup id="cite_ref-Marq_1-1" class="reference"><a href="#cite_note-Marq-1">[1]</a></sup>
-- **Chủ đề:** Tolkien bày tỏ sự không hài lòng về ấn phẩm sắp xuất bản của [William Ready](../W/William_Ready.md) trên The Lord of the Rings.
+- **Chủ đề:** Tolkien bày tỏ sự không hài lòng về ấn phẩm sắp tới của [William Ready](../W/William_Ready.md) về Chúa tể của những chiếc nhẫn.
 - **Xuất bản:** Không có.
-- **Lưu trữ:** Bản sao thư đánh máy gốc được lưu giữ tại [Đại học Marquette](../M/Marquette_University.md).<sup id="cite_ref-Marq_1-2" class="reference"><a href="#cite_note-Marq-1">[1]</a></sup>
+- **Lưu trữ:** Bản sao của lá thư đánh máy gốc được lưu giữ tại [Đại học Marquette](../M/Marquette_University.md).<sup id="cite_ref-Marq_1-2" class="reference"><a href="#cite_note-Marq-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}
 

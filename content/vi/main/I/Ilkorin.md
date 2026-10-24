@@ -32,21 +32,21 @@ images:
 <p class="tg-quote-footer"><cite><a href="../G/Glóin.md" title="Glóin">Glóin</a></cite></p>
 </blockquote></div></div>
 
-**Ilkorin**, một ngôn ngữ [Tolkien](../T/Tolkien.md) được viết trong những phiên bản đầu tiên trong [huyền thoại](../L/Legendarium.md) của ông, là ngôn ngữ của [Ilkorindi](Ilkorindi.md).
+**Ilkorin**, một ngôn ngữ mà [Tolkien](../T/Tolkien.md) viết trong những phiên bản đầu tiên trong [huyền thoại](../L/Legendarium.md) của ông, là ngôn ngữ của [Ilkorindi](Ilkorindi.md).
 
-Trong cài đặt ban đầu này, Ilkorin có hương vị [Celtic](../C/Celtic.md). Khi [Noldoli](../N/Noldoli.md) quay trở lại Vùng đất vĩ đại, [ngôn ngữ](../O/Old_Noldorin.md) của họ bị ảnh hưởng nhiều bởi âm vị học của Ilkorin và phát triển thành ngôn ngữ hỗn hợp được gọi là [Noldorin](../N/Noldorin.md).
+Trong bối cảnh ban đầu này, Ilkorin mang hương vị [Celtic](../C/Celtic.md). Khi [Noldoli](../N/Noldoli.md) quay trở lại Vùng đất vĩ đại, [ngôn ngữ](../O/Old_Noldorin.md) của họ bị ảnh hưởng nhiều bởi âm vị học của Ilkorin và phát triển thành ngôn ngữ hỗn hợp được gọi là [Noldorin](../N/Noldorin.md).
 
-Trong các văn bản sau này, ngôn ngữ được thay thế bằng [Sindarin](../S/Sindarin.md) và [Avarin](../A/Avarin.md). Trong *[The Etymologies](../T/The_Etymologies.md)*, một số tên (ví dụ: tên sông của [Ossiriand](../O/Ossiriand.md)) được cho là có nguồn gốc Ilkorin. Tuy nhiên, trong các ghi chú sau này, một số tên đó đã được đổi tên hoặc đặt từ nguyên khác.
+Trong các văn bản sau này, ngôn ngữ này được thay thế bằng [Sindarin](../S/Sindarin.md) và [Avarin](../A/Avarin.md). Trong *[The Etymologies](../T/The_Etymologies.md)*, một số tên (ví dụ: tên sông của [Ossiriand](../O/Ossiriand.md)) được cho là có nguồn gốc từ Ilkorin. Tuy nhiên, trong các ghi chú sau này, một số tên đó đã được đổi tên hoặc đặt từ nguyên khác.
 
-Cũng trong giai đoạn này, [Bắc Sindarin](../N/North_Sindarin.md) được hình thành, mang những đặc điểm ngôn ngữ bắt nguồn từ Ilkorin về mặt khái niệm.
+Trong cùng giai đoạn này, [Bắc Sindarin](../N/North_Sindarin.md) đã được hình thành, mang các đặc điểm ngôn ngữ bắt nguồn từ khái niệm Ilkorin.
 
 ## Danh sách từ {#Word-list}
 
-- [Ilkorin từ](../../category/I/Ilkorin_words.md)
+- [Lời Ilkorin](../../category/I/Ilkorin_words.md)
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://folk.uib.no/hnohf/ilkorin.htm" rel="noreferrer noopener" target="_blank">Ilkorin - "mất lưỡi"?</a> bởi [Helge Fauskanger](../H/Helge_Fauskanger.md)
+- <a class="external text" href="http://folk.uib.no/hnohf/ilkorin.htm" rel="noreferrer noopener" target="_blank">Ilkorin - "kẻ mất lưỡi"?</a> của [Helge Fauskanger](../H/Helge_Fauskanger.md)
 
 <span></span>
 

@@ -42,11 +42,11 @@ Họ đã tạo ra những bức ảnh tham khảo trước khi vẽ nhiều tá
 
 Cho đến khi Tim qua đời, cặp song sinh vẽ cùng nhau hoặc theo ca, tùy thuộc vào thời gian họ dành cho một tác phẩm nghệ thuật. Sau một thời gian chống chọi với bệnh tiểu đường, Tim đã qua đời vào ngày [ngày 11 tháng 6](../_/11_June.md), [2006](../_/2006.md).
 
-## The Lord of the Rings {#The_Lord_of_the_Rings}
+## Chúa tể của những chiếc nhẫn {#The_Lord_of_the_Rings}
 
-Sau khi xem [một Tolkien lịch](The_J.R.R._Tolkien_Calendar_1975.md) có tác phẩm của [Tim Kirk](Tim_Kirk.md), họ đã hưởng ứng lời kêu gọi tuyển nghệ sĩ của [Ballantine](../B/Ballantine_Books.md). Tác phẩm nghệ thuật của họ rất được yêu thích và họ được giao nhiệm vụ minh họa cho [lịch Ballantine năm 1976](../_/1976_J.R.R._Tolkien_Calendar.md).
+Sau khi xem [lịch Tolkien](The_J.R.R._Tolkien_Calendar_1975.md) có tác phẩm của [Tim Kirk](Tim_Kirk.md), họ đã hưởng ứng lời kêu gọi tuyển nghệ sĩ của [Ballantine](../B/Ballantine_Books.md). Tác phẩm nghệ thuật của họ rất được yêu thích và họ được giao nhiệm vụ minh họa cho [lịch Ballantine năm 1976](../_/1976_J.R.R._Tolkien_Calendar.md).
 
-Tiếp theo là nhiều lịch hơn: [1977](../_/1977_J.R.R._Tolkien_Calendar.md), [1978](../_/1978_J.R.R._Tolkien_Calendar.md) - và họ đã bán được kỷ lục một triệu lịch. Họ chuyển phạm vi của mình sang các dự án lớn khác nhưng vẫn tiếp tục sản xuất tác phẩm nghệ thuật Tolkien. Trong [2001](../_/2001.md), <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Greg_and_Tim_Hildebrandt:_The_Tolkien_Years&amp;action=edit&amp;redlink=1" title="Greg and Tim Hildebrandt: The Tolkien Years (page does not exist)">Greg và Tim Hildebrandt: The Tolkien Years</a></i> được xuất bản bởi con trai của Greg, Gregory Jr. Sau khi phát hành bộ sưu tập này, Ballantine bắt đầu phát hành lại các Lịch Tolkien phổ biến của họ bắt đầu từ [2002](The_Brothers_Hildebrandt_2002_Calendar.md).
+Tiếp theo là nhiều lịch hơn: [1977](../_/1977_J.R.R._Tolkien_Calendar.md), [1978](../_/1978_J.R.R._Tolkien_Calendar.md) - và họ đã bán được kỷ lục một triệu lịch. Họ chuyển phạm vi sang các dự án lớn khác nhưng vẫn tiếp tục sản xuất các tác phẩm nghệ thuật của Tolkien. Trong [2001](../_/2001.md), <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Greg_and_Tim_Hildebrandt:_The_Tolkien_Years&amp;action=edit&amp;redlink=1" title="Greg and Tim Hildebrandt: The Tolkien Years (page does not exist)">Greg và Tim Hildebrandt: Những năm Tolkien</a></i> được xuất bản bởi con trai của Greg, Gregory Jr. Sau khi phát hành bộ sưu tập này, Ballantine bắt đầu phát hành lại Lịch Tolkien nổi tiếng của họ bắt đầu từ [2002](The_Brothers_Hildebrandt_2002_Calendar.md).
 
 ## Tác phẩm đã xuất bản {#Published_artwork}
 
@@ -54,9 +54,9 @@ Tiếp theo là nhiều lịch hơn: [1977](../_/1977_J.R.R._Tolkien_Calendar.md
 - [1977](../_/1977.md) - *[Tolkien Calendar](../_/1977_J.R.R._Tolkien_Calendar.md)*
 - [1978](../_/1978.md) - *[Tolkien Calendar](../_/1978_J.R.R._Tolkien_Calendar.md)*
 - [1979](../_/1979.md) - <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Art_of_the_Brothers_Hildebrandt&amp;action=edit&amp;redlink=1" title="The Art of the Brothers Hildebrandt (page does not exist)">Nghệ thuật của anh em Hildebrandt</a></i>
-- [1985](../_/1985.md) - <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=From_Tolkien_to_Oz&amp;action=edit&amp;redlink=1" title="From Tolkien to Oz (page does not exist)">Từ Tolkien đến Oz</a></i> (bởi William McGuire)
+- [1985](../_/1985.md) - <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=From_Tolkien_to_Oz&amp;action=edit&amp;redlink=1" title="From Tolkien to Oz (page does not exist)">Từ Tolkien đến Oz</a></i> (của William McGuire)
 - [1992](../_/1992.md) - *[J.R.R. Tolkien: Architect of Middle-earth](../J/J.R.R._Tolkien%253A_Architect_of_Middle-earth.md)* (bởi [Daniel Grotta](../D/Daniel_Grotta.md))
-- [2001](../_/2001.md) - <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Greg_and_Tim_Hildebrandt:_The_Tolkien_Years&amp;action=edit&amp;redlink=1" title="Greg and Tim Hildebrandt: The Tolkien Years (page does not exist)">Greg và Tim Hildebrandt: Tolkien Những năm</a></i>
+- [2001](../_/2001.md) - <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Greg_and_Tim_Hildebrandt:_The_Tolkien_Years&amp;action=edit&amp;redlink=1" title="Greg and Tim Hildebrandt: The Tolkien Years (page does not exist)">Greg và Tim Hildebrandt: Những năm tháng Tolkien</a></i>
 - [2002](../_/2002.md) - *[Tolkien Calendar](The_Brothers_Hildebrandt_2002_Calendar.md)*
 - [2003](../_/2003.md) - *[Postcard Calendar](The_Tolkien_Artwork_of_Greg_and_Tim_Hildebrandt_Postcard_Calendar_2003.md)*
 - [2004](../_/2004.md) - *[Tolkien Calendar](The_Tolkien_Art_of_the_Brothers_Hildebrandt_2004_Calendar.md)*
@@ -78,7 +78,7 @@ Tiếp theo là nhiều lịch hơn: [1977](../_/1977_J.R.R._Tolkien_Calendar.md
 - <a class="external text" href="https://www.spiderwebart.com/default.asp" rel="noreferrer noopener" target="_blank">spiderwebart.com</a> (Cửa hàng trực tuyến chính thức)
 - <a class="external text" href="https://www.spiderwebart.com/memorial/2006-06-12_tim/TimHildebrandt61206.html" rel="noreferrer noopener" target="_blank">Đài tưởng niệm Tim Hildebrandt</a>
 - <a class="external text" href="https://www.youtube.com/watch?v=bX0dE-oXzwMl" rel="noreferrer noopener" target="_blank">Greg Hildebrandt: HVAtvcom Số 4</a> trên YouTube (video phỏng vấn)
-- <a class="external text" href="https://theprancingponypodcast.com/2019/06/30/131-visualizing-middle-earth-an-interview-with-greg-hildebrandt/" rel="noreferrer noopener" target="_blank">Trực quan hóa Trung Địa: Cuộc phỏng vấn với Greg Hildebrandt</a> (Tập 131 của [The Prancing Pony Podcast](The_Prancing_Pony_Podcast.md))
+- <a class="external text" href="https://theprancingponypodcast.com/2019/06/30/131-visualizing-middle-earth-an-interview-with-greg-hildebrandt/" rel="noreferrer noopener" target="_blank">Hình dung về Trung Địa: Cuộc phỏng vấn với Greg Hildebrandt</a> (Tập 131 của [Podcast The Prancing Pony](The_Prancing_Pony_Podcast.md))
 
 <span></span>
 

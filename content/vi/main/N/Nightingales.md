@@ -18,15 +18,15 @@ images:
 
 **Chim sơn ca** là loài chim [chim tưa](../T/Thrushes.md) màu nâu nhỏ, nổi tiếng với tiếng hót trong trẻo và thực tế là chúng hót vào ban đêm cũng như ban ngày (do đó có tên như vậy).
 
-[Maia](../M/Maia.md) [Melian](../M/Melian.md) được cho là luôn có những con chim sơn ca bên cạnh cô ấy và cô ấy đã dạy chúng những bài hát của chúng. Chính tiếng hót của những chú chim này đã mê hoặc [Elwë](../E/Elwë.md), chúa tể của [Teleri](../T/Teleri.md), khi ông đang lang thang một mình ở [Nan Elmoth](Nan_Elmoth.md) và bắt gặp Melian.<sup id="cite_ref-Thingol_1-0" class="reference"><a href="#cite_note-Thingol-1">[1]</a></sup>
+[Maia](../M/Maia.md) [Melian](../M/Melian.md) được cho là luôn có những con chim sơn ca bên cạnh bà và bà đã dạy chúng những bài hát của chúng. Chính tiếng hót của những con chim này đã mê hoặc [Elwë](../E/Elwë.md), chúa tể của [Teleri](../T/Teleri.md), khi ông đang lang thang một mình ở [Nan Elmoth](Nan_Elmoth.md) và gặp Melian.<sup id="cite_ref-Thingol_1-0" class="reference"><a href="#cite_note-Thingol-1">[1]</a></sup>
 
 ## Tên khác {#Other_names}
 
-"Chim sơn ca" trong [Sindarin](../S/Sindarin.md) là <i><b>dúlin</b></i> (*[dû](../D/Dû.md)* + *[lind](../L/Lind.md)*) hoặc *merilin*. Từ Sindarin đầy chất thơ cho "chim sơn ca" là *[tinúviel](../T/Tinúviel.md)*, cái tên [Beren](../B/Beren.md) đặt cho [Lúthien](../L/Lúthien.md) khi lần đầu tiên anh nhìn thấy cô.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+"Chim sơn ca" trong [Sindarin](../S/Sindarin.md) là <i><b>dúlin</b></i> (*[dû](../D/Dû.md)* + *[lind](../L/Lind.md)*) hoặc *merilin*. Từ thơ Sindarin cho "chim sơn ca" là *[tinúviel](../T/Tinúviel.md)*, cái tên [Beren](../B/Beren.md) đặt cho [Lúthien](../L/Lúthien.md) khi anh nhìn thấy cô lần đầu tiên.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 Trong [Quenya](../Q/Quenya.md), chim sơn ca là *lómelindë* (*[lómë](../L/Lómë.md)* + *[lind](../L/Lind.md)*)<sup id="cite_ref-Thingol_1-1" class="reference"><a href="#cite_note-Thingol-1">[1]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> *tindómerel*,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> hoặc *morilinde*.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Những từ này chứa các từ chỉ "đêm" "chạng vạng" và "bóng tối".
 
-Chúng còn được gọi là "những chú chim [Melian](../M/Melian.md)", bay lượn trên đầu cô khi cô ngồi trong [Menegroth](../M/Menegroth.md).<sup id="cite_ref-Birdsofmelian_6-0" class="reference"><a href="#cite_note-Birdsofmelian-6">[6]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
+Chúng còn được gọi là "những chú chim của [Melian](../M/Melian.md)", bay lượn trên đầu cô khi cô ngồi ở [Menegroth](../M/Menegroth.md).<sup id="cite_ref-Birdsofmelian_6-0" class="reference"><a href="#cite_note-Birdsofmelian-6">[6]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
 
 <span></span>
 

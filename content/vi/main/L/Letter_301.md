@@ -31,7 +31,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien đã bình luận về bộ phim tài liệu *[Tolkien in Oxford](../T/Tolkien_in_Oxford.md)*của BBC sẽ được phát sóng trên truyền hình vào [ngày 30 tháng 3](../_/30_March.md). Anh ấy nghĩ rằng toàn bộ bộ phim tài liệu này hơi quá đáng và BBC chắc chắn đã nhầm lẫn anh ấy với tác phẩm của mình. Anh ấy bị buộc phải tham dự một buổi trình diễn pháo hoa, điều mà anh ấy đã không làm từ khi còn nhỏ. Pháo hoa chỉ xuất hiện trong *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)* (chương *[A Long-expected Party](../A/A_Long-expected_Party.md)*) vì chúng tượng trưng cho [Gandalf](../G/Gandalf.md), người canh giữ [Vòng lửa](../N/Narya.md). <br>
+Tolkien đã bình luận về bộ phim tài liệu *[Tolkien in Oxford](../T/Tolkien_in_Oxford.md)* của BBC sẽ được phát sóng trên truyền hình vào [ngày 30 tháng 3](../_/30_March.md). Ông nghĩ rằng toàn bộ bộ phim tài liệu này hơi quá đáng và BBC chắc chắn đã nhầm lẫn ông với tác phẩm của mình. Ông bị buộc phải tham dự một buổi trình diễn pháo hoa, điều mà ông đã không làm từ khi còn nhỏ. Pháo hoa chỉ xuất hiện trong *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)* (chương *[A Long-expected Party](../A/A_Long-expected_Party.md)*) vì chúng đại diện cho [Gandalf](../G/Gandalf.md), người canh giữ [Vòng lửa](../N/Narya.md). <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien: In de Ban van zijn Werk"
 ---
 
-Chuyển hướng tới [Tolkien: In de Ban van zijn Werk](Tolkien%253A_In_de_Ban_van_zijn_Werk.md).
+Chuyển hướng đến [Tolkien: In de Ban van zijn Werk](Tolkien%253A_In_de_Ban_van_zijn_Werk.md).

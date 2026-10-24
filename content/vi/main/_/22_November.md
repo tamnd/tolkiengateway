@@ -66,23 +66,23 @@ Sự kiện xảy ra vào ngày 22 tháng 11
 ## Trên Trái đất {#On_Earth}
 
 - **[1914](1914.md)** - Theo yêu cầu của [G.B. Smith](../G/Geoffrey_Bache_Smith.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) gửi tới Hiệp hội Mặt trời của [Corpus Christi College](../O/Oxford_University.md) về *[Kalevala](../K/Kalevala.md)* và việc thiếu thần thoại Anh.
-- **[1916](1916.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) ký [một mẫu đơn cho Văn phòng Chiến tranh](../W/War_Office_form_22_November_1916.md), xác nhận việc ông từ Pháp trở về Anh do sốt chiến hào.
+- **[1916](1916.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) ký [một mẫu đơn cho Văn phòng Chiến tranh](../W/War_Office_form_22_November_1916.md), xác nhận việc ông từ Pháp trở về Anh vì sốt chiến hào.
 - **[1937](1937.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư 18a](../L/Letter_18a.md).
 - **[1950](1950.md)** - Nghệ sĩ [David T. Wenzel](../D/David_T._Wenzel.md) ra đời.
 - **[1954](1954.md)** - Rayner Heppenstall viết [thư gửi J.R.R. Tolkien](<../L/Letter_to_Rayner_Heppenstall_(1-2_December_1954).md>).
-- **[1956](1956.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một lá thư cho cô Stanley-Smith](<../L/Letter_to_Miss_Stanley-Smith_(22_November_1956).md>).
+- **[1956](1956.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một bức thư cho cô Stanley-Smith](<../L/Letter_to_Miss_Stanley-Smith_(22_November_1956).md>).
 - **[1961](1961.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 234](../L/Letter_234.md).
-- <b><a href="1962.md" title="1962">1962</a> - <i><a href="../T/The_Adventures_of_Tom_Bombadil.md" title="The Adventures of Tom Bombadil">The Adventures of Tom Bombadil</a></i> được xuất bản lần đầu tiên ở Anh.</b>
+- <b><a href="1962.md" title="1962">1962</a> - <i><a href="../T/The_Adventures_of_Tom_Bombadil.md" title="The Adventures of Tom Bombadil">Những cuộc phiêu lưu của Tom Bombadil</a></i> được xuất bản lần đầu ở Anh.</b>
 - **[1962](1962.md)** – Một bài đánh giá trong *The Listener* gọi *The Adventures of Tom Bombadil* là "gần như thiên tài".
-- **[1963](1963.md)** – Bạn của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) [C.S. Lewis](../C/C.S._Lewis.md) chết.
+- **[1963](1963.md)** – Bạn của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) [C.S. Lewis](../C/C.S._Lewis.md) qua đời.
 - **[1966](1966.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 291](../L/Letter_291.md).
 - **[1970](1970.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 318](../L/Letter_318.md).
 - **[1995](1995.md)** - *[Tyalië Tyelelliéva](../T/Tyalië_Tyelelliéva.md)* số [7](../T/Tyalië_Tyelelliéva_7.md) được xuất bản.
-- **[2002](2002.md)** - [ Nhẫn\*Con](../R/Ring%252ACon_2002.md) đầu tiên bắt đầu ở <a class="extiw" href="http://en.wikipedia.org/wiki/Bonn" title="wikipedia:Bonn">Bonn</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">Đức</a>.
+- **[2002](2002.md)** - [Ring\*Con](../R/Ring%252ACon_2002.md) đầu tiên bắt đầu ở <a class="extiw" href="http://en.wikipedia.org/wiki/Bonn" title="wikipedia:Bonn">Bonn</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">Đức</a>.
 - **[2005](2005.md)** - *[Ringers: Lord of the Fans](../R/Ringers%253A_Lord_of_the_Fans.md)* được phát hành.
-- **[2013](2013.md)** - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Lewis_and_Tolkien:_The_Lost_Road&amp;action=edit&amp;redlink=1" title="Lewis and Tolkien: The Lost Road (page does not exist)">Lewis và Tolkien: The Lost Road</a> được phát sóng trên [BBC Radio](../B/BBC.md).
+- **[2013](2013.md)** - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Lewis_and_Tolkien:_The_Lost_Road&amp;action=edit&amp;redlink=1" title="Lewis and Tolkien: The Lost Road (page does not exist)">Lewis và Tolkien: Con đường đã mất</a> được phát sóng trên [Đài BBC](../B/BBC.md).
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi ở [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Kẻ duy nhất Nhẫn](../T/The_One_Ring.md).
+    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi tại [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).

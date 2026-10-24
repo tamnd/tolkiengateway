@@ -39,29 +39,29 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mythlore_22.gif.md"><img src="https://tolkiengateway.net/w/images/2/20/Mythlore_22.gif" decoding="async" loading="lazy" width="225" height="291" class="mw-file-element" data-file-width="225" data-file-height="291"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mythlore 22</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Gracia Fay Ellwood</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Fall <a href="../_/1979.md" title="1979">1979</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">47</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mythlore_21.md" title="Mythlore 21">Mythlore 21</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mythlore_23.md" title="Mythlore 23">Mythlore 23</a></td></tr></tbody></table>
 
-<b><i>Mythlore</i> 22</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol6/iss4/" rel="noreferrer noopener" target="_blank">Tập 6, Số 4</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
+<b><i>Thần thoại</i> 22</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol6/iss4/" rel="noreferrer noopener" target="_blank">Tập 6, Số 4</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, được xuất bản bởi [Hiệp hội Thần thoại](Mythopoeic_Society.md).
 
 ## Nội dung {#Contents}
 
 #### Bài viết {#Articles}
 
-- Purtill, Richard L. “Thiên đường và những cõi nguy hiểm khác.” 3-6.
-- Russell, Mariann. “Các yếu tố của Ý tưởng về Thành phố trong Charles Williams’ Thơ Arthurian.” 10-18.
-- Patterson, Nancy-Lou. “*Guardaci Ben*: Người phụ nữ có tầm nhìn trong Biên niên sử Narnia của C.S. Lewis và Sức mạnh ghê tởm đó (Phần 2).” 20-24.
-- Berman, Ruth. “Ghi chú về Mythopoeeic Holdings trong Bộ sưu tập Kerlan.” 32, 42.
-- Epperson, William R. “Sự yên nghỉ của một sự cân bằng rất tinh tế: Các thỉnh sinh và những người cử hành Bí tích Hôn phối trong Tiểu thuyết trinh thám của Dorthy L. Sayers.” 33-36.
+- Purtill, Richard L. “Heaven and Other Perilous Realms.” 3-6.
+- Russell, Mariann. “Elements of the Idea of the City in Charles Williams’ Arthurian Poetry.” 10-18.
+- Patterson, Nancy-Lou. “*Guardaci Ben*: Người phụ nữ có tầm nhìn trong C.S. Lewis’ Biên niên sử Narnia và sức mạnh ghê tởm đó (Phần 2).” 20-24.
+- Berman, Ruth. “A Note on the Mythopoeeic Holdings in the Kerlan Collection.” 32, 42.
+- Epperson, William R. “The Repose of a Very Delicate Balance: Postulants and Celebrants of the Sacrament of Marriage in the Detective Fiction of Dorthy L. Sayers.” 33-36.
 
 #### Tính năng {#Features}
 
-- Speth, Lee. “Cách đối xử ung dung: Con lợn trong chiếc khăn choàng của góa phụ.” Mục sư của Brooks, loạt phim Walter R. The Freddy the Pig. 7-8.
-- Chúc ngủ ngon, Glen. “Trọng tâm của người sáng lập.” 17+.
+- Speth, Lee. “Cavalier Treatment: The Pig in the Widow’s Shawl.” Rev. of Brooks, Walter R. The Freddy the Pig series. 7-8.
+- GoodKnight, Glen. “Founder’s Focus.” 17+.
 - Ellwood, Gracia Fay. Bài xã luận: “Về sự sáng tạo và tình yêu.” 19, 42.
-- Patterson, Nancy-Lou. “Phụ nữ thời Phục hưng.” Linh mục của Hannay, Margaret P., ed. As Her Whimsey đã dẫn dắt cô ấy: Những bài luận phê bình về tác phẩm của Dorothy L. Sayers. 25.
-- Kocher, Paul H. “Jung ở Trung Địa.” Mục sư của O'Neill, Timothy.  Hobbit Cá thể: Jung, Tolkien và Nguyên mẫu của Trung Địa. 25.
-- Milward, Peter. “Có thể chạm vào: Tolkien với tư cách là Học giả.” 31-32.
-- Cowan, Lisa Ellen. “Huyền thoại.” 37+.
+- Patterson, Nancy-Lou. “Phụ nữ thời Phục hưng.” Linh mục của Hannay, Margaret P., ed. As Her Whimsey đã dẫn dắt bà: Những bài luận phê bình về tác phẩm của Dorothy L. Sayers. 25.
+- Kocher, Paul H. “Jung in Middle Earth.” Rev. of O’Neill, Timothy.  The Individuated Hobbit: Jung, Tolkien, and the Archetypes of Middle-earth. 25.
+- Milward, Peter. “Perchance to Touch: Tolkien as Scholar.” 31-32.
+- Cowan, Lisa Ellen. “Mythalliances.” 37+.
 - Thư. 39+.
-- Christopher, Joe R. “Một Inklings Thư mục (11).” 44-47.
+- Christopher, Joe R. “An Inklings Bibliography (11).” 44-47.
 
 #### Đánh giá {#Reviews}
 
@@ -69,7 +69,7 @@ infobox:
 - Patterson, Nancy-Lou. “Những người nói bằng bạc.” Mục sư xứ Hone, Ralph E.  Dorothy Sayers: Tiểu sử văn học. 26-27.
 - Patterson, Nancy-Lou. “Cốm của Niggle.” Mục sư của Becker, Alida, biên tập. Sổ lưu niệm Tolkien. 27-28.
 - Patterson, Nancy-Lou. “Chấp nhận điều tuyệt vời.” Mục sư của Como, James T., ed. C.S. Lewis tại Bàn Ăn Sáng, và Những Hồi Tưởng Khác. 28-29.
-- Ellwood, Robert S., Jr. “Ba người nhỏ bé.” Mục sư của Briggs, Katharine. Bách khoa toàn thư về các nàng tiên. Briggs, Katharine. Những Người Biến Mất. Phillpotts, Beatrice. Cuốn sách của các nàng tiên. 29-30.
+- Ellwood, Robert S., Jr. “Three on the Little People.” Rev. of Briggs, Katharine. An Encyclopedia of Fairies. Briggs, Katharine. The Vanishing People. Phillpotts, Beatrice. The Book of Fairies. 29-30.
 - Patterson, Nancy-Lou. “Thêm nữa và xa hơn nữa.” Mục sư của Walsh, Tchad. Di sản văn học của C.S. Lewis. 30.
 
 #### Nghệ thuật {#Art}
@@ -80,7 +80,7 @@ infobox:
 - Annette Harper: bìa, 34, 35, 36, bìa sau
 - Mary Janis Johnson: 12, 15
 - Thadara Ottobris: 6, 21
-- John Trụ cột: 5
+- John Pivovarnick: 5
 - Gord Wilson: 47
 - Bìa: Annette Harper, “Legolas.”
 - Trang 5: John Pivovarnick, “Smead Morgul.”

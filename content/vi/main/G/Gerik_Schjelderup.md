@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Schjelderup, Gerik"
 ---
 
-**Gerik R. Schjelderup** ([27 tháng 11](../_/27_November.md), [1899](../_/1899.md) - [1985](../_/1985.md)) là một diễn viên, họa sĩ, nhà viết kịch và dịch giả người Na Uy. Trong [1956](../_/1956.md) chuyển thể của *[The Lord of the Rings](<../T/The_Lord_of_the_Rings_(1955_radio_series).md>)*, anh ấy đóng vai [Gollum](Gollum.md) và một số [orc](../O/Orcs.md).
+**Gerik R. Schjelderup** ([27 tháng 11](../_/27_November.md), [1899](../_/1899.md) - [1985](../_/1985.md)) là một diễn viên, họa sĩ, nhà viết kịch và dịch giả người Na Uy. Trong [1956](../_/1956.md) chuyển thể của *[The Lord of the Rings](<../T/The_Lord_of_the_Rings_(1955_radio_series).md>)*, anh đóng vai [Gollum](Gollum.md) và một số [orc](../O/Orcs.md).
 
 ## Liên kết ngoài {#External_links}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Elsie Honeybourne (18 September 1967)"
 ---
 
-Chuyển hướng tới [Thư gửi Elsie Honeybourne (18 tháng Chín 1967)](<../L/Letter_to_Elsie_Honeybourne_(18_September_1967).md>).
+Chuyển hướng đến [Thư gửi Elsie Honeybourne (18 tháng 9 năm 1967)](<../L/Letter_to_Elsie_Honeybourne_(18_September_1967).md>).

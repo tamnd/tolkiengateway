@@ -35,7 +35,7 @@ infobox:
 
 **Anna Grob** là một nhạc sĩ và ca sĩ người Áo, người đã thực hiện một album nhạc rock lấy cảm hứng từ Tuor và sự sụp đổ của Gondolin, có tên là 'Circle of Light', một vở opera Faërie rock. Vào ngày 25 tháng 1 năm 2026, cô biểu diễn một số bài hát của mình tại [Ozmoot 2026](../O/Ozmoot_2026.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Tính đến tháng 8 năm 2026, cô ấy đã đăng ba bài hát, 'The Messenger', 'Intuition' và 'The Vua'. Album được phát hành chính thức vào ngày 20 tháng 11 năm 2026.
+Tính đến tháng 8 năm 2026, bà đã đăng ba bài hát, 'The Messenger', 'Intuition' và 'The King'. Album được phát hành chính thức vào ngày 20 tháng 11 năm 2026.
 
 ## Các bài hát trong Album Vòng tròn ánh sáng<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> {#Songs_on_Circle_of_Light_Album[2]}
 

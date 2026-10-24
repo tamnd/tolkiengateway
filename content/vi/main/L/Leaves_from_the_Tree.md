@@ -42,15 +42,15 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/Leaves_from_the_Tree.png.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b0/Leaves_from_the_Tree.png/320px-Leaves_from_the_Tree.png" decoding="async" loading="lazy" width="320" height="469" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/b/b0/Leaves_from_the_Tree.png 1.5x" data-file-width="341" data-file-height="500"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Leaves from the Tree: J.R.R. Tolkien&#39;s Shorter Fiction</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a href="../T/Tom_Shippey.md" title="Tom Shippey">Tom Shippey</a>, et al.</td></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Trevor Reynolds</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/1991.md" title="1991">1991</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">88</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0905520033" title="Special:BookSources/0905520033">0905520033</a></td></tr><tr><th scope="row" class="tg-infobox-label">Series</th><td class="tg-infobox-data"><a href="../P/Peter_Roe_Memorial_Fund.md" title="Peter Roe Memorial Fund">Peter Roe Memorial Fund</a></td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="../S/Some_Light_on_Middle-earth.md" title="Some Light on Middle-earth">Some Light on Middle-earth</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="../T/The_First_and_Second_Ages.md" title="The First and Second Ages">The First and Second Ages</a></td></tr></tbody></table>
 
-<i><b>Leaves from the Tree: Tiểu thuyết ngắn hơn của J.R.R. Tolkien</b></i> là tuyển tập kỷ yếu của Hội thảo Xã hội Tolkien lần thứ 4, được tổ chức tại Beverley năm 1989. Nó được xuất bản bởi [Hội Tolkien](../T/The_Tolkien_Society.md) trong [1991](../_/1991.md) dưới sự bảo trợ của [Quỹ Tưởng niệm Peter Roe](../P/Peter_Roe_Memorial_Fund.md) tại [1991](../_/1991.md).
+<i><b>Lá từ cây: Tiểu thuyết ngắn hơn của J.R.R. Tolkien</b></i> là tuyển tập các kỷ yếu của Hội thảo Hiệp hội Tolkien lần thứ 4, được tổ chức tại Beverley vào năm 1989. Nó được xuất bản bởi [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) trong [1991](../_/1991.md) dưới sự bảo trợ của [Quỹ tưởng niệm Peter Roe](../P/Peter_Roe_Memorial_Fund.md) trong [1991](../_/1991.md).
 
-Ấn phẩm này đáng chú ý vì có sự đóng góp của [John Rateliff](../J/John_Rateliff.md), [Christina Scull](../C/Christina_Scull.md) và [Tom Shippey](../T/Tom_Shippey.md). Cụ thể, bài viết của [Christina Scull](../C/Christina_Scull.md), "Rồng từ Kể lại Sigurd của Andrew Lang đến Chrysophylax của Tolkien", sao chép một đoạn trích từ [bài giảng về rồng](<../D/Dragons_(lecture).md>) chưa được xuất bản khi đó của Tolkien.
+Ấn phẩm này đáng chú ý vì có sự đóng góp của [John Rateliff](../J/John_Rateliff.md), [Christina Scull](../C/Christina_Scull.md) và [Tom Shippey](../T/Tom_Shippey.md). Đặc biệt, bài viết của [Christina Scull](../C/Christina_Scull.md), "Những con rồng từ câu chuyện kể về Sigurd của Andrew Lang đến Chrysophylax của Tolkien", sao chép một đoạn trích từ [bài giảng về rồng](<../D/Dragons_(lecture).md>) chưa được xuất bản khi đó của Tolkien.
 
 ## Nội dung {#Contents}
 
-- "Tolkien và 'Sự trở về của Beorhtnoth'"
+- "Tolkien và 'Sự trở lại của Beorhtnoth'"
     - Bởi: [Tom Shippey](../T/Tom_Shippey.md)
-- "Tìm kiếm sự thoát ra: Tolkien được nhìn thấy qua Smith"
+- "Tìm kiếm sự thoát ra: Tolkien nhìn thấu Smith"
     - Bởi: [David Doughan](../D/David_Doughan.md)
 - "'Tại sao' và 'Như thế nào': Những suy ngẫm về 'Chiếc lá bên Niggle'"
     - Bởi: [John Ellison](../J/John_Ellison.md)
@@ -58,15 +58,15 @@ infobox:
     - Bởi: [Alex Lewis](../A/Alex_Lewis.md)
 - "Phiên bản đầu tiên của *Farmer Giles of Ham*"
     - Bởi: [John Rateliff](../J/John_Rateliff.md)
-- "Rồng từ Câu chuyện kể lại Sigurd của Andrew Lang đến Chrysophylax của Tolkien"
+- "Những con rồng từ câu chuyện kể lại Sigurd của Andrew Lang đến Chrysophylax của Tolkien"
     - Bởi: [Christina Scull](../C/Christina_Scull.md)
-- "Nguồn của 'The Lay of Aotrou and Itroun'"
+- "Nguồn gốc của 'Sự nằm xuống của Aotrou và Itroun'"
     - Bởi: Jessica Yates
 - "Tom Bombadil và *The Lord of the Rings*"
     - Bởi: [Christina Scull](../C/Christina_Scull.md)
 - "Bản chất của Tom Bombadil: Tóm tắt"
     - Bởi: [Charles Noad](../C/Charles_Noad.md)
-- "Sự thật Tom Bombadil"
+- "Tom Bombadil đích thực"
     - Bởi: [Patricia Reynolds](../P/Patricia_Reynolds.md)
 
 <br clear="all"/>

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Kings of Khazad-dûm"
 ---
 
-Chuyển hướng tới [Những vị vua của Khazad-dûm](../K/Kings_of_Khazad-dûm.md).
+Chuyển hướng tới [Các vị vua của Khazad-dûm](../K/Kings_of_Khazad-dûm.md).

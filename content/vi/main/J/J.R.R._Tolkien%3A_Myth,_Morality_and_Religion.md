@@ -49,12 +49,12 @@ infobox:
 1. Các chiều kích của huyền thoại
 2. Ba khuôn mặt của huyền thoại
 3. Huyền thoại và câu chuyện
-4. Hobbit và chủ nghĩa anh hùng
-5. Vượt xa chủ nghĩa anh hùng
-6. Tiên tộc và những thứ khác
-Huyền thoại sáng tạo của 7. Tolkien
-8. Phép thuật và điều kỳ diệu trong Trung Địa
-9. Frodo, Fëanor và Tự do ý chí
+4. Người Hobbit và chủ nghĩa anh hùng
+5. Vượt lên trên chủ nghĩa anh hùng
+6. Yêu tinh và những loài khác
+7. Thần thoại sáng tạo của Tolkien
+8. Phép thuật và điều kỳ diệu ở Trung địa
+9. Frodo, Fëanor và Ý chí tự do
 10. Ý chí vui bất chợt
 
 - Lời cảm ơn

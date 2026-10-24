@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Bifur"
 ---
 
-Chuyển hướng đến [Bifur](Bifur.md).
+Chuyển hướng tới [Bifur](Bifur.md).

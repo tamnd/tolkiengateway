@@ -38,21 +38,21 @@ infobox:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the <a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">MERP</a> supplement</b>. For the location, see <b><a href="../E/Elvenking&#39;s_Halls.md" title="Elvenking&#39;s Halls">Elvenking&#39;s Halls</a></b>.</div></div>
 
-<i><b>Halls of the Tiên-king</b></i> là phần bổ sung (trong bộ *Fortresses of Middle-earth*) cho *[Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)*, Phiên bản đầu tiên.
+<i><b>Halls of the Elven-king</b></i> là phần bổ sung (trong series *Fortresses of Middle-earth*) cho *[Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)*, Phiên bản đầu tiên.
 
 Để sử dụng cùng với phần bổ sung này, [Mithril Miniatures](../M/Mithril_Miniatures.md) đã phát hành một bộ mô hình thu nhỏ bằng kim loại (M63 - M72 *Halls of the Elven-King*).
 
 ## Văn bản bìa/áo khoác {#Cover/Jacket_Text}
 
-Nhà của Legolas và Thranduil.
+Ngôi nhà của Legolas và Thranduil.
 
-Sảnh nguy nga của vị vua Tiên nằm sâu trong một ngọn đồi ở phía đông bắc Mirkwood. Hướng về phía Nam, cửa chính của khu vực đào sâu kỳ diệu này nhìn ra cây cầu đá bắc qua dòng Forest River đang chảy xiết. Cuộc vượt biển chiến lược này nối liền Vương quốc Rừng vĩ đại do Vua Thranduil cai trị ở phía bắc với khu rừng ma ám ở phía nam.
+Sảnh nguy nga của Vua Tiên nằm sâu trong một ngọn đồi ở phía đông bắc Mirkwood. Hướng về phía nam, cửa chính của khu vực đào sâu kỳ diệu này nhìn ra cây cầu đá bắc qua Sông Forest chảy xiết. Cuộc vượt biển chiến lược này nối liền Vương quốc Rừng vĩ đại do Vua Thranduil cai trị ở phía bắc với những khu rừng bị ma ám ở phía nam.
 
-Ngoài việc bảo vệ cây cầu, cung điện ngầm kiên cố còn đóng vai trò vừa là thủ đô của Tiên rừng vừa là cửa ngõ vào phía Bắc Mirkwood. Tại đây vị vua Tiên chào đón những du khách hiếm hoi hành trình về phía tây. Tuy nhiên, rất ít người sống sót bên ngoài Sảnh, vì Vương quốc Rừng vẫn là một vùng đất bị mê hoặc bao phủ trong bí ẩn và bị đe dọa bởi các thế lực đen tối do Chúa tể những chiếc nhẫn sinh ra.
+Bên cạnh việc bảo vệ cây cầu, cung điện ngầm kiên cố còn đóng vai trò là thủ đô của Yêu tinh rừng và cửa ngõ vào Bắc Mirkwood. Tại đây Vua Tiên chào đón những du khách hiếm hoi hành trình về phía tây. Tuy nhiên, rất ít người vượt ra khỏi Hội trường, vì Vương quốc Rừng vẫn là một vùng đất bị mê hoặc bao phủ trong bí ẩn và bị đe dọa bởi các thế lực đen tối do Chúa tể của những chiếc nhẫn sinh ra.
 
 Các tính năng của HALLS OF THE ELVEN-KING:
 
 - Hơn 20 trang bố cục, phối cảnh và hình minh họa.
-- Một góc nhìn hoàn chỉnh về Thành phố ngầm của Tiên-king.
+- Một góc nhìn hoàn chỉnh về Thành phố dưới lòng đất của Vua Yêu tinh.
 - Mô tả từng phòng và gợi ý cuộc phiêu lưu.
-- Nền tảng và số liệu thống kê cho Thranduil, Legolas và đơn vị đồn trú Tiên.
+- Thông tin cơ bản và số liệu thống kê về Thranduil, Legolas và đồn trú của Yêu tinh.

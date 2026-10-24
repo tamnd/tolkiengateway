@@ -19,7 +19,7 @@ sort_keys:
 
 ## Từ nguyên {#Etymology}
 
-Có thể [PQ](../P/PQ.md) \**kêwâ*, [Gốc](../S/Sundocarmë.md) \*KEW
+Có thể [PQ](../P/PQ.md) \**kêwâ*, [Root](../S/Sundocarmë.md) \*KEW
 
 ## Xem thêm {#See_also}
 

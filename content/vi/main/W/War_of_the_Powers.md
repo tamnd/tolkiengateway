@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Battle of the Powers"
 ---
 
-Chuyển hướng đến [Trận chiến của các Quyền năng](../B/Battle_of_the_Powers.md).
+Chuyển hướng đến [Trận chiến quyền lực](../B/Battle_of_the_Powers.md).

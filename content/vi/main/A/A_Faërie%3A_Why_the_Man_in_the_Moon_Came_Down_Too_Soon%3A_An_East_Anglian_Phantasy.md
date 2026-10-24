@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Man in the Moon Came Down Too Soon"
 ---
 
-Chuyển hướng tới [ Người đàn ông trong Mặt Trăng Đã ngừng hoạt động quá sớm](../T/The_Man_in_the_Moon_Came_Down_Too_Soon.md).
+Chuyển hướng đến [Người đàn ông trong Mặt Trăng Đã xuống quá sớm](../T/The_Man_in_the_Moon_Came_Down_Too_Soon.md).

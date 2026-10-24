@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Truter, Norton"
 ---
 
-**Norton Truter** là một trong những tác giả của [Crack of Doom Cuộc phiêu lưu phần mềm](../C/Crack_of_Doom_Software_Adventure.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Norton Truter** là một trong những tác giả của [Crack of Doom Software Adventure](../C/Crack_of_Doom_Software_Adventure.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

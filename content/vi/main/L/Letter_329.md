@@ -31,13 +31,13 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien cho biết ông không có thời gian để cung cấp tài liệu thư mục nhưng muốn nêu ba điểm:
+Tolkien nói rằng ông không có thời gian để cung cấp tài liệu thư mục nhưng muốn nêu ba điểm:
 
-Đầu tiên, một trong những ý kiến ​​​​mạnh mẽ nhất của ông cho rằng việc điều tra tiểu sử của một tác giả là một cách tiếp cận sai lầm và viển vông đối với các tác phẩm của ông ấy, đặc biệt là đối với nghệ thuật kể chuyện. Anh viết để được thưởng thức. Một số độc giả thích phê bình hoặc phân tích tác phẩm, họ có thể tự do làm điều đó miễn là họ thực sự chăm chú *read*tác phẩm trước. Tolkien không đồng tình với thái độ này, trích dẫn [Gandalf](../G/Gandalf.md): "Người đập đồ để tìm hiểu xem đó là gì thì đã rời khỏi con đường trí tuệ."<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Đầu tiên, một trong những ý kiến ​​​​mạnh mẽ nhất của ông cho rằng việc điều tra tiểu sử của một tác giả là một cách tiếp cận sai lầm và viển vông đối với các tác phẩm của ông ấy, đặc biệt là đối với nghệ thuật kể chuyện. Anh viết để được thưởng thức. Một số độc giả thích phê bình hoặc phân tích tác phẩm, họ có thể tự do làm điều đó miễn là họ thực sự chăm chú *read* tác phẩm trước. Tolkien không thông cảm với thái độ này, trích dẫn [Gandalf](../G/Gandalf.md): "Người đập vỡ một đồ vật để tìm hiểu xem nó là gì thì đã rời khỏi con đường khôn ngoan."<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Thứ hai, Tolkien không quan tâm đến lịch sử văn học nối tiếp hay lịch sử của “tiểu thuyết” tiếng Anh. Tác phẩm của ông là một tác phẩm "lãng mạn anh hùng", một thể loại văn học cổ hơn và khá khác biệt.
 
-Thứ ba, ông nói rằng việc dán nhãn cho nhà văn là một thủ tục không phù hợp và là một trò giải trí trẻ con của những bộ óc nhỏ bé. Nó gây nhàm chán, nhấn mạnh quá mức những điểm chung của một nhóm nhà văn trong khi bỏ qua những điểm chung không thể phân loại và mang tính cá nhân của mỗi người. Anh ấy không thể hiểu làm thế nào mà anh ấy lại có thể bị gắn mác là “người tin vào chủ nghĩa giáo huấn đạo đức” vì nó hoàn toàn trái ngược với quy trình của anh ấy trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*. <span></span>
+Thứ ba, ông nói rằng việc dán nhãn cho nhà văn là một thủ tục không phù hợp và là một trò giải trí trẻ con của những bộ óc nhỏ bé. Nó gây nhàm chán, nhấn mạnh quá mức những điểm chung của một nhóm nhà văn trong khi bỏ qua những điểm chung không thể phân loại và mang tính cá nhân của mỗi người. Ông không thể hiểu làm thế nào mà ông lại có thể bị gắn mác là “người tin vào chủ nghĩa giáo huấn đạo đức” vì nó hoàn toàn trái ngược với quy trình của ông trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*. <span></span>
 
 ## Tài liệu tham khảo {#References}
 

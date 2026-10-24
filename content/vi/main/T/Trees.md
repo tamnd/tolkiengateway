@@ -21,7 +21,7 @@ images:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/C/Colin_C._Throm_-_Trees_of_the_Dark_Forest.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/e/e1/Colin_C._Throm_-_Trees_of_the_Dark_Forest.jpg/320px-Colin_C._Throm_-_Trees_of_the_Dark_Forest.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e1/Colin_C._Throm_-_Trees_of_the_Dark_Forest.jpg/480px-Colin_C._Throm_-_Trees_of_the_Dark_Forest.jpg 1.5x, https://tolkiengateway.net/w/images/e/e1/Colin_C._Throm_-_Trees_of_the_Dark_Forest.jpg 2x" data-file-width="540" data-file-height="540"/></a><figcaption><i>Trees of the Dark Forest</i> by <a href="../C/Colin_C._Throm.md" title="Colin C. Throm">Colin C. Throm</a>.</figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Plant</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Trees</span></th></tr></tbody></table>
 
-**Cây** là loại cây cao nhất trong số *[olvar](../O/Olvar.md)* [Yavanna](../Y/Yavanna.md), phong phú khắp [Trung Địa](../M/Middle-earth.md) và hình thành [rừng](../../category/F/Forests.md). Mặc dù các cây là *olver*nhưng một số cây vẫn có sự sống, như [Huorn](../H/Huorns.md). Ngoài ra còn có [chủng tộc](../../portal/C/Characters.md) được gọi là [Ent](../E/Ents.md), những người chăn cây.
+**Cây** là loại cây cao nhất trong số *[olvar](../O/Olvar.md)* [Yavanna](../Y/Yavanna.md), phong phú khắp [Trung địa](../M/Middle-earth.md) và hình thành [các khu rừng](../../category/F/Forests.md). Mặc dù những cái cây đó là *olver* nhưng một số cây vẫn có sự sống, như [Huorns](../H/Huorns.md). Ngoài ra còn có [chủng tộc](../../portal/C/Characters.md) được gọi là [Ent](../E/Ents.md), những người chăn nuôi cây.
 
 Cây cối, là sinh vật sống, chưa bao giờ được coi là trung tính về giới tính trong [ngôn ngữ của tộc High Elf](../E/Eldarin.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
@@ -35,7 +35,7 @@ Cây cối, là sinh vật sống, chưa bao giờ được coi là trung tính 
 <p class="tg-quote-footer"><cite><a href="../J/J.R.R._Tolkien%253A_A_Biography.md" title="J.R.R. Tolkien: A Biography">J.R.R. Tolkien: A Biography</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-Cây cối có tầm quan trọng đặc biệt đối với Tolkien - trong truyện ngắn "[Leaf by Niggle](../L/Leaf_by_Niggle.md)", theo một nghĩa nào đó, là một câu chuyện ngụ ngôn phức tạp giải thích quá trình sáng tạo của chính anh ấy, nhân vật chính, Niggle, dành cả đời để vẽ một Cây duy nhất.
+Cây cối có tầm quan trọng đặc biệt đối với Tolkien - trong truyện ngắn "[Leaf by Niggle](../L/Leaf_by_Niggle.md)", theo một nghĩa nào đó, là một câu chuyện ngụ ngôn phức tạp giải thích quá trình sáng tạo của chính ông, nhân vật chính, Niggle, dành cả đời để vẽ một cái Cây duy nhất.
 
 ## Xem thêm {#See_also}
 

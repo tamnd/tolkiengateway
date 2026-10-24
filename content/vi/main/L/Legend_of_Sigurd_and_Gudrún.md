@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Legend of Sigurd and Gudrún"
 ---
 
-Chuyển hướng đến [The Legend of Sigurd and Gudrún](../T/The_Legend_of_Sigurd_and_Gudrún.md).
+Chuyển hướng đến [Truyền thuyết về Sigurd và Gudrún](../T/The_Legend_of_Sigurd_and_Gudrún.md).

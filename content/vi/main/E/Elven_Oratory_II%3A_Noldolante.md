@@ -22,20 +22,20 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Elven Oratory II: Noldolante</span></th></tr><tr><td colspan="2" class="tg-infobox-caption">by <a href="../L/Lind_Erebros.md" title="Lind Erebros">Lind Erebros</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">2011</td></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data">Electronic, Classical, Folk</td></tr><tr><th scope="row" class="tg-infobox-label">Length</th><td class="tg-infobox-data">45 min 36 sec</td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data">English</td></tr></tbody></table>
 
-<i><b>Tiên Oratory II: Noldolante</b></i> là album thứ hai trong số ba album [Silmarillion](../S/Silmarillion.md) lấy cảm hứng từ [Lind Erebros](../L/Lind_Erebros.md).
+<i><b>Elven Oratory II: Noldolante</b></i> là album thứ hai trong số ba album lấy cảm hứng từ [Silmarillion](../S/Silmarillion.md) của [Lind Erebros](../L/Lind_Erebros.md).
 
 ## Danh sách bản nhạc {#Track_listing}
 
 1. Tiếng kêu của Maeglor - 2:13
 2. Noldolante - 2:27
 3. Bão tuyết - 2:56
-4. Tiên Warsong - 3:54
+4. Bài hát chiến tranh của loài Elf - 3:54
 5. Quân tiếp viện đã đến - 0:57
-6. Fingon Đi tới Thangorodrim - 3:42
+6. Fingon đi đến Thangorodrim - 3:42
 7. Biểu ngữ có ngôi sao - 3:52
 8. Là Quạ Đen Và Đại Bàng Trắng - 2:03
 9. Dagor Bragollach - 6:44
-10. Balrog Bầy đàn - 2:16
+10. Bầy Balrog - 2:16
 11. Nirnaeth Arnoediad - 2:59
 12. Bình minh cuối cùng - 0:57
 13. Fingolfin - 5:32

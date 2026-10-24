@@ -41,16 +41,16 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Flame_Imperishable.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/4c/The_Flame_Imperishable.jpg/320px-The_Flame_Imperishable.jpg" decoding="async" loading="lazy" width="320" height="471" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/4c/The_Flame_Imperishable.jpg/480px-The_Flame_Imperishable.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/4c/The_Flame_Imperishable.jpg/640px-The_Flame_Imperishable.jpg 2x" data-file-width="696" data-file-height="1024"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Flame Imperishable<br/><small>Tolkien, St. Thomas, and the Metaphysics of Faerie</small></span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data">Jonathan S. McIntosh</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Angelico Press</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">December <a href="../_/2017.md" title="2017">2017</a><sup id="cite_ref-Angelico_1-0" class="reference"><a href="#cite_note-Angelico-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Hardcover/Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">306</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/978-16213154" title="Special:BookSources/978-16213154">978-16213154</a></td></tr></tbody></table>
 
-<i><b>Bộ Ngọn Lửa Bất Diệt: Tolkien, St. Thomas, và Siêu hình học của Faerie</b></i> là một nghiên cứu [2017](../_/2017.md) về [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) về Siêu hình học.
+<i><b>Ngọn lửa bất diệt: Tolkien, St. Thomas và siêu hình học của thần tiên</b></i> là một [2017](../_/2017.md) nghiên cứu về [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) về Siêu hình học.
 
 ## Nội dung {#Contents}
 
 - Giới thiệu
 
 - Một: Siêu hình học của Eru
-- Hai: Siêu hình học của Ainur
+- Hai: Siêu hình học của người Ainur
 - Ba: Siêu hình học của Âm nhạc và Tầm nhìn
-- Bốn: Siêu hình học của Valar
+- Bốn: Siêu hình học của các Valar
 - Năm: Siêu hình học của Melkor
 - Chủ đề cuối cùng: Siêu hình học và huyền thoại
 

@@ -12,4 +12,4 @@ categories:
   - "Tolkien Gateway"
 ---
 
-Người dùng tại Tolkien Gateway có khả năng duy trì chiến dịch Tải lên Pháp sư.
+Người dùng tại Tolkien Gateway có khả năng duy trì các chiến dịch Trình hướng dẫn tải lên.

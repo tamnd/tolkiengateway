@@ -13,7 +13,7 @@ categories:
   - "Black Speech words"
 ---
 
-<i><b>hai</b></i> (*-hai*) có nghĩa là "dân gian" ở dạng đã bị loại bỏ của [Hắc Ngữ](../B/Black_Speech.md) khi nó tồn tại trong [Kỷ Đệ Tam](../T/Third_Age.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>hai</b></i> (*-hai*) có nghĩa là "dân gian" trong dạng suy thoái của [Bài phát biểu của người da đen](../B/Black_Speech.md) vì nó vẫn tồn tại ở [Thời đại thứ ba](../T/Third_Age.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Ví dụ {#Examples}
 

@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Núi Doom](../../main/M/Mount_Doom.md) trong một cảnh trong [The Lord of the Rings: The Return of the King](../../main/T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md).
+[Núi Diệt Vong](../../main/M/Mount_Doom.md) trong một cảnh trong [The Lord of the Rings: The Return of the King](../../main/T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md).
 
 ## Giấy phép {#Licensing}
 

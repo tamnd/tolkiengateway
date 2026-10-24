@@ -17,7 +17,7 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Trilogy_-_2005_Daily_Boxed_Calendar.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/6d/The_Lord_of_the_Rings_Trilogy_-_2005_Daily_Boxed_Calendar.jpg/300px-The_Lord_of_the_Rings_Trilogy_-_2005_Daily_Boxed_Calendar.jpg" decoding="async" loading="lazy" width="300" height="249" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/6d/The_Lord_of_the_Rings_Trilogy_-_2005_Daily_Boxed_Calendar.jpg/450px-The_Lord_of_the_Rings_Trilogy_-_2005_Daily_Boxed_Calendar.jpg 1.5x, https://tolkiengateway.net/w/images/6/6d/The_Lord_of_the_Rings_Trilogy_-_2005_Daily_Boxed_Calendar.jpg 2x" data-file-width="500" data-file-height="415"/></a><figcaption></figcaption></figure>
 
-**The Lord of the Rings Bộ ba: Lịch đóng hộp hàng ngày năm 2005** chứa các hình ảnh từ [*The Lord of the Rings* (loạt phim)](<The_Lord_of_the_Rings_(film_series).md>).
+**Bộ ba Chúa tể của những chiếc nhẫn: Lịch đóng hộp hàng ngày năm 2005** chứa các hình ảnh từ [*The Lord of the Rings* (loạt phim)](<The_Lord_of_the_Rings_(film_series).md>).
 
 - **Cấp bởi:** Cedco
 - **Giá phát hành:** $12,99

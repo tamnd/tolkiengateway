@@ -33,11 +33,11 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a class="extiw" href="http://en.wikipedia.org/wiki/English_people" title="wikipedia:English people">Englishman</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>John Jethro Rashbold</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Position</th><td class="tg-infobox-data">Undergraduate</td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../O/Oxford.md" title="Oxford">Oxford</a></td></tr><tr><th scope="row" class="tg-infobox-label">Affiliation</th><td class="tg-infobox-data">The <a href="../N/Notion_Club.md" title="Notion Club">Notion Club</a></td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data"><a class="extiw" href="http://en.wikipedia.org/wiki/English_language" title="wikipedia:English language">English</a></td></tr><tr><th scope="row" class="tg-infobox-label">Birth</th><td class="tg-infobox-data"><a href="../_/1965.md" title="1965">1965</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr></tbody></table>
 
-**John Jethro Rashbold** (sinh năm [1965](../_/1965.md)) là thành viên của [Notion Club](../N/Notion_Club.md).
+**John Jethro Rashbold** (sinh năm [1965](../_/1965.md)) là thành viên của [Câu lạc bộ Notion](../N/Notion_Club.md).
 
 ## Lịch sử {#History}
 
-John Jethro Rashbold là sinh viên đại học tại <a class="extiw" href="http://en.wikipedia.org/wiki/Magdalen_College,_Oxford" title="wikipedia:Magdalen College, Oxford">Magdalen College</a> ở [Oxford](../O/Oxford.md). Ông là một học giả cổ điển và một nhà thơ tập sự. Anh được giới thiệu với [Notion Club](../N/Notion_Club.md) bởi [Philip Frankley](../P/Philip_Frankley.md), người mà anh rất gắn bó.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+John Jethro Rashbold từng là sinh viên đại học tại <a class="extiw" href="http://en.wikipedia.org/wiki/Magdalen_College,_Oxford" title="wikipedia:Magdalen College, Oxford">Magdalen College</a> ở [Oxford](../O/Oxford.md). Ông là một học giả cổ điển và một nhà thơ tập sự. Ông được giới thiệu với [Câu lạc bộ Notion](../N/Notion_Club.md) bởi [Philip Frankley](../P/Philip_Frankley.md), người mà ông rất gắn bó.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Cảm hứng {#Inspiration}
 

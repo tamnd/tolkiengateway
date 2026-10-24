@@ -39,31 +39,31 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mythlore_38.gif.md"><img src="https://tolkiengateway.net/w/images/e/e0/Mythlore_38.gif" decoding="async" loading="lazy" width="225" height="296" class="mw-file-element" data-file-width="225" data-file-height="296"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mythlore 38</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../G/Glen_GoodKnight.md" title="Glen GoodKnight">Glen GoodKnight</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Spring <a href="../_/1984.md" title="1984">1984</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">63</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mythlore_37.md" title="Mythlore 37">Mythlore 37</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mythlore_39.md" title="Mythlore 39">Mythlore 39</a></td></tr></tbody></table>
 
-<b><i>Mythlore</i> 38</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol10/iss4/" rel="noreferrer noopener" target="_blank">Tập 10, Số 4</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
+<b><i>Thần thoại</i> 38</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol10/iss4/" rel="noreferrer noopener" target="_blank">Tập 10, Số 4</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, được xuất bản bởi [Hiệp hội Thần thoại](Mythopoeic_Society.md).
 
 ## Nội dung {#Contents}
 
 #### Bài viết {#Articles}
 
-- Rawls, Melanie. “Nguyên tắc nữ tính trong Tolkien.”
-- Vua, Don. “Narnia và bảy tội lỗi chết người.”
-- Kollmann, Judith. “Truyền thuyết về Chén Thánh và cuộc chiến trên thiên đường: Từ lãng mạn thời trung cổ đến hiện đại.”
+- Rawls, Melanie. “The Feminine Principle in Tolkien.”
+- King, Don. “Narnia and the Seven Deadly Sins.”
+- Kollmann, Judith. “The Legend of the Grail and War in Heaven: From Medieval to Modern Romance.”
 - Cowan, Robert và cộng sự. "Tại sao viết truyện giả tưởng? Một hội nghị thần thoại lần thứ XIV."
-- Kilby, C.S. “Chiều không gian bên ngoài của huyền thoại: Diễn văn khách mời danh dự.”
-- Lowentrout, Peter. “Sự gợi lên điều tốt đẹp trong Tolkien.”
-- Barkley, Christine. “Donaldson với tư cách là Người thừa kế Tolkien.”
+- Kilby, C.S. “The Outer Dimension of Myth: Guest of Honor Address.”
+- Lowentrout, Peter. “The Evocation of Good in Tolkien.”
+- Barkley, Christine. “Donaldson as Heir to Tolkien.”
 
 #### Thơ {#Poetry}
 
-- Schweitzer, Darrell. “Phản hồi chính thức.”
+- Schweitzer, Darrell. “The Official Response.”
 
 #### Tính năng {#Features}
 
 - Chúc ngủ ngon, Glen. Biên tập.
-- Christopher, Joe R. An Inklings Thư mục (27).
+- Christopher, Joe R. An Inklings Bibliography (27).
 - Hyde, Paul Nolan. “Quenti Lambardillion.”
-- Speth, Lee. “Điều trị ung dung.”
-- Bãi biển, Sarah. “Thần thoại.”
+- Speth, Lee. “Cavalier Treatment.”
+- Beach, Sarah. “Mythopoeisis.”
 - Thư.
 
 #### Đánh giá {#Reviews}

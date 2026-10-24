@@ -12,7 +12,7 @@ categories:
   - "Songs by Battlelore"
 ---
 
-<i><b>Khazad-Dûm Pt.1 (Kỷ nguyên của Mithril)</b></i> là một bài hát của ban nhạc epic metal [Battlelore](../B/Battlelore.md). Nó xuất hiện trong album đầy đủ đầu tiên của họ, [...Where the Shadows Lie](../_/%252E..Where_the_Shadows_Lie.md), phát hành vào năm [2002](../_/2002.md).
+<i><b>Khazad-Dûm Pt.1 (Ages of Mithril)</b></i> là một bài hát của ban nhạc epic metal [Battlelore](../B/Battlelore.md). Nó xuất hiện trong album đầy đủ đầu tiên của họ, [...Where the Shadows Lie](../_/%252E..Where_the_Shadows_Lie.md), phát hành vào năm [2002](../_/2002.md).
 
 ## Lời bài hát {#Lyrics}
 

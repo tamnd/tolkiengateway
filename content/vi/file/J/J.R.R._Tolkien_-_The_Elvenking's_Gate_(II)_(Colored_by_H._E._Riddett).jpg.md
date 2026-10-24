@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Phiên bản màu của [H.E. Riddett](../../main/H/H.E._Riddett.md) trong bức vẽ "[Cổng Vua Tiên](<J.R.R._Tolkien_-_The_Elvenking's_Gate_(II).jpg.md>)" của [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md). Phiên bản này được tạo cho [The Hobbit Lịch 1976](../../main/T/The_Hobbit_Calendar_1976.md) và đã được sử dụng trong một số phiên bản minh họa của *[The Hobbit](../../main/T/The_Hobbit.md)*.
+Phiên bản màu của [H.E. Riddett](../../main/H/H.E._Riddett.md) trong bức vẽ "[Cổng Vua Tiên](<J.R.R._Tolkien_-_The_Elvenking's_Gate_(II).jpg.md>)" của [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md). Phiên bản này được tạo cho [The Hobbit Calendar 1976](../../main/T/The_Hobbit_Calendar_1976.md) và đã được sử dụng trong một số phiên bản minh họa của *[The Hobbit](../../main/T/The_Hobbit.md)*.
 
 ## Giấy phép {#Licensing}
 

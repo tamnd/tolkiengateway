@@ -38,12 +38,12 @@ infobox:
 <p class="tg-quote-footer"><cite><a href="../G/Glóin.md" title="Glóin">Glóin</a></cite></p>
 </blockquote></div></div>
 
-**Sự sụp đổ của Osgiliath** là cảnh thứ mười sáu của *[The Lord of the Rings: The Return of the King](The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)* và cảnh thứ 21 của [*The Lord of the Rings: The Return of the King* (phiên bản mở rộng)](<The_Lord_of_the_Rings%253A_The_Return_of_the_King_(extended_edition).md>). Nó đã được mở rộng trong phiên bản sau.
+**Sự sụp đổ của Osgiliath** là cảnh thứ mười sáu của *[The Lord of the Rings: The Return of the King](The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)* và cảnh thứ hai mươi mốt của [*The Lord of the Rings: The Return of the King* (extended edition)](<The_Lord_of_the_Rings%253A_The_Return_of_the_King_(extended_edition).md>). Nó đã được mở rộng trong phiên bản sau.
 
 ## Tóm tắt {#Synopsis}
 
-Những người lính của [Minas Tirith](../M/Minas_Tirith.md) chiến đấu với [Orc](../O/Orcs.md). [Madril](../M/Madril.md) nói với [Faramir](../F/Faramir.md) rằng họ không thể chống trả được nữa, nếu không tất cả sẽ chết. Faramir ra lệnh cho quân rút về Minas Tirith. [Gothmog](<../G/Gothmog_(Lieutenant_of_Morgul).md>) giết Madril bằng một ngọn giáo khi anh ta nằm trên mặt đất. Trong khi những người lính rút lui, họ bị tấn công bởi [Nazgûl](../N/Nazgûl.md).
+Những người lính của [Minas Tirith](../M/Minas_Tirith.md) chiến đấu với [Orc](../O/Orcs.md). [Madril](../M/Madril.md) nói với [Faramir](../F/Faramir.md) rằng họ không thể chống trả chúng nữa, nếu không tất cả sẽ chết. Faramir ra lệnh cho quân rút lui về Minas Tirith. [Gothmog](<../G/Gothmog_(Lieutenant_of_Morgul).md>) giết Madril bằng một ngọn giáo khi ông ta nằm trên mặt đất. Trong khi những người lính rút lui, họ bị tấn công bởi [Nazgûl](../N/Nazgûl.md).
 
-Gandalf và [Shadowfax](../S/Shadowfax.md) xuất phát từ Minas Tirith và chặn Nazgûl để các chiến sĩ có thể quay trở lại Minas Tirith an toàn. Bên trong các bức tường, Faramir tiếp cận Gandalf với thông tin rằng lũ Orc đã phá vỡ hàng phòng ngự của chúng và chiếm lấy [Osgiliath](../O/Osgiliath.md). [Irolas](../I/Irolas.md) nói thêm rằng [Denethor](../D/Denethor.md) đã thấy trước những sự kiện đó sẽ xảy ra và Gandalf nói thêm rằng người quản lý đã thấy trước và không làm gì cả.
+Gandalf và [Shadowfax](../S/Shadowfax.md) xuất phát khỏi Minas Tirith và cầm chân Nazgûl để giúp những người lính quay trở lại Minas Tirith một cách an toàn. Bên trong các bức tường, Faramir tiếp cận Gandalf với thông tin rằng lũ Orc đã phá vỡ hàng phòng thủ của họ và chiếm được [Osgiliath](../O/Osgiliath.md). [Irolas](../I/Irolas.md) nói thêm rằng [Denethor](../D/Denethor.md) đã thấy trước những sự kiện đó sẽ xảy ra, và Gandalf nói thêm rằng người quản lý đã thấy trước và không làm gì cả.
 
-Faramir nói với Gandalf rằng anh ấy đã nhìn thấy [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md) trong [Ithilien](../I/Ithilien.md) hai ngày trước.
+Faramir nói với Gandalf rằng ông đã nhìn thấy [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md) ở [Ithilien](../I/Ithilien.md) hai ngày trước.

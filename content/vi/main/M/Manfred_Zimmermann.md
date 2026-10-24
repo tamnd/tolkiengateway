@@ -40,17 +40,17 @@ Vào [1978](../_/1978.md) Zimmermann đã hoàn thành bằng tiến sĩ về Ng
 
 - [1981](../_/1981.md):[*Mythlore* 28](Mythlore_28.md)
     - "Hiển thị câu thơ ám chỉ của Tolkien"
-    - "Tolkien: Một góc nhìn của người Đức" (đánh giá về *J.R.R. Tolkien: "Văn học giả tưởng" als Wunscherfulling und Weltdeutung* của Dieter Petzold)
+    - "Tolkien: Một góc nhìn của người Đức" (đánh giá *J.R.R. Tolkien: "Văn học giả tưởng" als Wunscherfulling und Weltdeutung* của Dieter Petzold)
 - [1982](../_/1982.md): [*Mythlore* 30](Mythlore_30.md)
     - "Những cái nhìn đầu tiên về Trung Địa"
 - [1983](../_/1983.md): [*Mythlore* 34](Mythlore_34.md)
     - "Nguồn gốc của Gandalf và [Josef Madlener](../J/Josef_Madlener.md)"
 - [1985](../_/1985.md): [*Mythlore* 41](Mythlore_41.md)
-    - "Nhận xét khác về Gimli và về văn xuôi có nhịp điệu"
-- [1988](../_/1988.md): *Mittelalter-Rezeption III. Gesammelte Vorträge des Symposions‚ Mittelalter, Massenmedien, neue Mythen*
+    - "Những nhận xét khác về Gimli và văn xuôi có nhịp điệu"
+- [1988](../_/1988.md): *Mittelalter-Rezeption III. Gesammelte Vorträge des Symposis‚ Mittelalter, Massenmedien, neue Mythen*
     - "Mittelalter ở Mittelerde"
 - [1988](../_/1988.md): *Translations of "The Hobbit" Reviewed* (*Quettar Special Publication* 2)
-    - "The Hobbit ở Đức"
+    - "Người Hobbit ở Đức"
 - [1991](../_/1991.md): [*Mythlore* 66](Mythlore_66.md)
     - "Thư"
 

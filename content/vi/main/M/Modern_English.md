@@ -27,12 +27,12 @@ images:
 
 Tiếng Anh hiện đại bắt đầu quá trình phát triển từ [tiếng Anh trung cổ](Middle_English.md) xung quanh <a class="extiw" href="http://en.wikipedia.org/wiki/Great_Vowel_Shift" title="wikipedia:Great Vowel Shift">Sự thay đổi nguyên âm lớn</a> diễn ra ở <a class="extiw" href="http://en.wikipedia.org/wiki/England" title="wikipedia:England">Anh</a> giữa cuối thế kỷ 15 và thế kỷ 18. Trong quá trình phát triển này, các dạng tiếng Anh hiện đại đầu tiên có xu hướng được gọi là **Tiếng Anh hiện đại sơ khai** hoặc **Tiếng Anh Shakespeare**. Khi ngôn ngữ được tiêu chuẩn hóa vào giữa đến cuối thế kỷ 18, tiếng Anh hiện đại ra đời.
 
-[J.R.R. Tolkien](../J/J.R.R._Tolkien.md) các bài viết liên quan đến [Trung Địa](Middle-earth.md) được cho là đã được dịch từ [Westron](../W/Westron.md) sang tiếng Anh hiện đại.
+Các bài viết của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) liên quan đến [Trung địa](Middle-earth.md) được cho là đã được dịch từ [Westron](../W/Westron.md) sang tiếng Anh hiện đại.
 
 ## Xem thêm {#See_also}
 
 - [Ngôn ngữ AB](../A/AB_language.md)
-- [tiếng Anh cổ](../O/Old_English.md)
+- [Tiếng Anh cổ](../O/Old_English.md)
 - [Tiếng Anh trung cổ](Middle_English.md)
 
 ## Liên kết ngoài {#External_links}

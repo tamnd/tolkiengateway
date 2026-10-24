@@ -29,9 +29,9 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien đã đến dự cuộc họp của [Inklings](../I/Inklings.md) vào thứ Năm tuần trước, nhưng "khá thất bại": [Warren Lewis](../W/Warren_Lewis.md) đã nhờ [Robert Havard](../R/Robert_Havard.md) ("Honest Humphrey, hay vị bác sĩ cao quý") chở về nhà, nhưng khi Warren phát hiện ra rằng Havard sẽ không đến, ông đã đổi danh hiệu của Havard thành "Quack vô dụng". Biệt hiệu này sau đó đã được Inklings sử dụng (ví dụ: xem [Thư 48](Letter_48.md)).
+Tolkien đã đến dự một cuộc họp của [Inklings](../I/Inklings.md) vào thứ Năm của tuần trước, nhưng đó "khá thất bại": [Warren Lewis](../W/Warren_Lewis.md) đã nhờ [Robert Havard](../R/Robert_Havard.md) ("Honest Humphrey, hay vị bác sĩ cao quý") chở về nhà, nhưng khi Warren phát hiện ra rằng Havard sẽ không đến, ông đã đổi danh hiệu của Havard thành "Quạc vô dụng". Biệt danh này sau đó đã được Inklings sử dụng (ví dụ: xem [Thư 48](Letter_48.md)).
 
-Tolkien cũng viết rằng anh ta đã đi dự Thánh lễ với [Michael](../M/Michael_Tolkien.md) tại St. Gregory's, nhưng nhận thấy nhà thờ đang "chạy đến hạt giống", với giọng hát kém từ phòng trưng bày và một linh mục lạ nói chuyện khó hiểu. <br>
+Tolkien cũng viết rằng ông đã đi dự Thánh lễ với [Michael](../M/Michael_Tolkien.md) tại St. Gregory's, nhưng nhận thấy nhà thờ đang "chạy đến hạt giống", với giọng hát kém từ phòng trưng bày và một linh mục lạ nói khó hiểu. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

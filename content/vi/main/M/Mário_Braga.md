@@ -29,7 +29,7 @@ infobox:
 
 **Mário Augusto de Almeida Braga** (còn được gọi là **Mário Braga**) ([14 tháng 7](../_/14_July.md), [1921](../_/1921.md) - [1 tháng 10](../_/1_October.md), [2016](../_/2016.md)) là một tác giả, nhà báo, giáo sư và dịch giả người Bồ Đào Nha.
 
-Mário Braga trở thành dịch giả tiếng Bồ Đào Nha đầu tiên cho các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), khi ông đóng góp cho ấn bản tiếng Bồ Đào Nha đầu tiên của *[The Hobbit](../T/The_Hobbit.md)* (*[O Gnomo](../O/O_Gnomo.md)*), cùng với vợ ông [Maria Isabel Braga](Maria_Isabel_Braga.md).
+Mário Braga trở thành dịch giả tiếng Bồ Đào Nha đầu tiên dịch các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) khi ông đóng góp cho ấn bản tiếng Bồ Đào Nha đầu tiên của *[The Hobbit](../T/The_Hobbit.md)* (*[O Gnomo](../O/O_Gnomo.md)*), cùng với vợ ông [Maria Isabel Braga](Maria_Isabel_Braga.md).
 
 ## Liên kết ngoài {#External_links}
 

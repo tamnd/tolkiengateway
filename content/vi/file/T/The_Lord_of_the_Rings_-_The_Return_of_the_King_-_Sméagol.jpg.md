@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Andy Serkis](../../main/A/Andy_Serkis.md) chơi [Gollum](../../main/G/Gollum.md) trong *[The Lord of the Rings: The Return of the King](../../main/T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*. Cảnh này là cảnh mở đầu phim khi anh ấy lấy [Người Nhẫn](../../main/T/The_One_Ring.md) cho riêng mình.
+[Andy Serkis](../../main/A/Andy_Serkis.md) chơi [Gollum](../../main/G/Gollum.md) trong *[The Lord of the Rings: The Return of the King](../../main/T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*. Cảnh này là cảnh mở đầu phim khi ông tự mình lấy [Chiếc nhẫn duy nhất](../../main/T/The_One_Ring.md).
 
 ## Giấy phép {#Licensing}
 

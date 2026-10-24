@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Swanfleet"
 ---
 
-Chuyển hướng đến [Swanfleet](../S/Swanfleet.md).
+Chuyển hướng tới [Swanfleet](../S/Swanfleet.md).

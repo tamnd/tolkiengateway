@@ -41,13 +41,13 @@ infobox:
   <tr><th scope="row" class="tg-infobox-label">Subject(s)</th><td class="tg-infobox-data"><a href="../R/Red_Book_of_Westmarch.md" title="Red Book of Westmarch">Red Book of Westmarch</a></td></tr>
 </tbody></table>
 
-<i><b>Bóng Tối-Cô dâu</b></i> là một bài thơ [Hobbit](../H/Hobbit.md) vô nghĩa nằm trong số những bài thơ được viết bên lề [Sách Đỏ](../R/Red_Book.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>Shadow-Bride</b></i> là một bài thơ [Hobbit](../H/Hobbit.md) vô nghĩa nằm trong số những bài thơ được viết bên lề [Sách Đỏ](../R/Red_Book.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/E/Eva_Zahradníková_-_Shadow-bride.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/6e/Eva_Zahradn%C3%ADkov%C3%A1_-_Shadow-bride.jpg/150px-Eva_Zahradn%C3%ADkov%C3%A1_-_Shadow-bride.jpg" decoding="async" loading="lazy" width="150" height="214" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/6e/Eva_Zahradn%C3%ADkov%C3%A1_-_Shadow-bride.jpg/225px-Eva_Zahradn%C3%ADkov%C3%A1_-_Shadow-bride.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/6/6e/Eva_Zahradn%C3%ADkov%C3%A1_-_Shadow-bride.jpg/300px-Eva_Zahradn%C3%ADkov%C3%A1_-_Shadow-bride.jpg 2x" data-file-width="800" data-file-height="1143"/></a><figcaption><i>Shadow-bride</i> by <a href="../../category/I/Images_by_Eva_Zahradníková.md" title="Category:Images by Eva Zahradníková">Eva Zahradníková</a></figcaption></figure>
 
 Nó đã được xuất bản trong *[The Adventures of Tom Bombadil](../T/The_Adventures_of_Tom_Bombadil.md)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Một phiên bản trước đó của bài thơ, có tựa đề "**Người đàn ông Bóng Tối**", đã được xuất bản trên [*Annual* của Trường Đức Mẹ (1936)](<../A/Annual_of_Our_Lady's_School_(1936).md>).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Một phiên bản trước đó của bài thơ, có tựa đề "**Người đàn ông trong bóng tối**", đã được xuất bản trong [*Annual* của Trường Đức Mẹ (1936)](<../A/Annual_of_Our_Lady's_School_(1936).md>).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Xem thêm {#See_also}
 

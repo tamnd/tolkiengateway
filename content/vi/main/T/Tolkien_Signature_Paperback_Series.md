@@ -55,7 +55,7 @@ images:
   - "J.R.R._Tolkien_Author_of_the_Century_2026_UK.jpg"
 ---
 
-**Tolkien Sê-ri bìa mềm 'Chữ ký'** không chính thức đề cập đến một loạt ấn bản mới (hoặc tái bản) của một số Tolkien-cuốn sách cốt lõi được xuất bản bởi [HarperCollins](../H/HarperCollins.md), bắt đầu vào [2022](../_/2022.md) và tiếp tục kể từ [2025](../_/2025.md).
+**Bộ sách bìa mềm 'Signature' của Tolkien** không chính thức đề cập đến một loạt ấn bản mới (hoặc tái bản) của một số sách Tolkien cốt lõi được xuất bản bởi [HarperCollins](../H/HarperCollins.md), bắt đầu vào [2022](../_/2022.md) và tiếp tục kể từ [2025](../_/2025.md).
 
 Định dạng mới này là một bìa mềm thương mại có kích thước đồng nhất và thiết kế bìa phù hợp, có nền đơn sắc trang nhã với chữ ký của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) ở trên cùng, ở giữa là hoa văn hoặc tác phẩm nghệ thuật phù hợp với nội dung sách.
 
@@ -361,4 +361,4 @@ Cũng được phát hành vào năm 2025 là *[The Road to Middle-earth](The_Ro
 
 ## Xem thêm {#See_also}
 
-- [Christopher Tolkien Bộ hộp kỷ niệm 100 năm](../C/Christopher_Tolkien_Centenary_Boxed_Sets.md)
+- [Bộ đóng hộp kỷ niệm 100 năm của Christopher Tolkien](../C/Christopher_Tolkien_Centenary_Boxed_Sets.md)

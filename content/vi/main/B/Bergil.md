@@ -49,19 +49,19 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Stefano_Baldo_-_Bergil.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/9c/Stefano_Baldo_-_Bergil.jpg/320px-Stefano_Baldo_-_Bergil.jpg" decoding="async" loading="lazy" width="320" height="269" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/9/9c/Stefano_Baldo_-_Bergil.jpg 1.5x" data-file-width="400" data-file-height="336"/></a><figcaption>&#34;Bergil&#34; by <a href="../../category/I/Images_by_Stefano_Baldo.md" title="Category:Images by Stefano Baldo">Stefano Baldo</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../G/Gondorians.md" title="Gondorians">Gondorian</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Bergil</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../G/Gondor.md" title="Gondor">Gondor</a></td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data"><a href="../W/Westron.md" title="Westron">Westron</a></td></tr><tr><th scope="row" class="tg-infobox-label">Birth</th><td class="tg-infobox-data">Around <a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_3009.md" title="Third Age 3009">3009</a><br/><a href="../G/Gondor.md" title="Gondor">Gondor</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">Parentage</th><td class="tg-infobox-data"><a href="Beregond.md" title="Beregond">Beregond</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Bergil.md" title="Category:Images of Bergil">Images of Bergil</a></td></tr></tbody></table>
 
-**Bergil** là cậu bé ở [Minas Tirith](../M/Minas_Tirith.md).
+**Bergil** là con trai của [Minas Tirith](../M/Minas_Tirith.md).
 
 ## Lịch sử {#History}
 
-Bergil sinh vào khoảng [T.A.](../T/Third_Age.md) [3009](../T/Third_Age_3009.md) và là con trai cả của [Beregond](Beregond.md) của [Gondor](../G/Gondor.md). Anh ấy có ít nhất một người em trai, [Borlas](Borlas.md).
+Bergil sinh vào khoảng [T.A.](../T/Third_Age.md) [3009](../T/Third_Age_3009.md) và là con trai cả của [Beregond](Beregond.md) của [Gondor](../G/Gondor.md). Ông có ít nhất một người em trai, [Borlas](Borlas.md).
 
-Một cậu bé thời [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), cậu đã đi cùng [Pippin Took](../P/Peregrin_Took.md) khi lần đầu tiên cậu đến thành phố [Minas Tirith](../M/Minas_Tirith.md). Anh ta dẫn Pippin đến [Đại cổng Minas Tirith](../G/Great_Gate_of_Minas_Tirith.md) để xem những người từ các tỉnh khác nhau của Gondor đang đến [Pelennor](../P/Pelennor.md) để tiếp viện cho thành phố trước [cuộc bao vây](../S/Siege_of_Gondor.md) sắp xảy ra.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Là một cậu bé vào thời điểm diễn ra [War of the Ring](../W/War_of_the_Ring.md), cậu đã đi cùng [Pippin Took](../P/Peregrin_Took.md) khi lần đầu tiên đến thành phố [Minas Tirith](../M/Minas_Tirith.md). Ông ta dẫn Pippin đến [Đại cổng Minas Tirith](../G/Great_Gate_of_Minas_Tirith.md) để xem những người từ các tỉnh khác nhau của Gondor đang đến [Pelennor](../P/Pelennor.md) để tiếp viện cho thành phố chống lại [cuộc vây hãm](../S/Siege_of_Gondor.md) sắp xảy ra.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Bergil đã phục vụ [Nhà chữa lành](../H/Houses_of_Healing.md) trong [Trận chiến trên Cánh đồng Pelennor](Battle_of_the_Pelennor_Fields.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Anh ấy đã tìm thấy *athelas* cho [Aragorn](../A/Aragorn.md), được sử dụng để chữa lành [Faramir](../F/Faramir.md), [Éowyn](../_/Éowyn.md) và [Meriadoc](../M/Meriadoc_Brandybuck.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Bergil phục vụ [Nhà chữa bệnh](../H/Houses_of_Healing.md) trong [Trận chiến trên cánh đồng Pelennor](Battle_of_the_Pelennor_Fields.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Ông đã tìm thấy *athelas* cho [Aragorn](../A/Aragorn.md), thứ được dùng để chữa lành vết thương cho [Faramir](../F/Faramir.md), [Éowyn](../_/Éowyn.md) và [Meriadoc](../M/Meriadoc_Brandybuck.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Bergil* rõ ràng là [Sindarin](../S/Sindarin.md), nhưng nó không bao giờ được đánh bóng. Nó có thể là sự kết hợp của [root](../R/Root.md) [BER](BER.md) ("dũng cảm") + *[gil](../G/Gil.md)* ("ngôi sao").
+*Bergil* rõ ràng là [Sindarin](../S/Sindarin.md), nhưng nó không bao giờ được che đậy. Nó có thể là sự kết hợp của [root](../R/Root.md) [BER](BER.md) ("dũng cảm") + *[gil](../G/Gil.md)* ("ngôi sao").
 
 ## Phả hệ {#Genealogy}
 
@@ -79,7 +79,7 @@ Bergil đã phục vụ [Nhà chữa lành](../H/Houses_of_Healing.md) trong [Tr
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b><a href="../_/1956.md" title="1956">1956</a>: <i><a class="mw-redirect" href="../T/The_Lord_of_the_Rings_(1956_radio_series).md" title="The Lord of the Rings (1956 radio series)">The Lord of the Rings (loạt đài phát thanh 1956)</a></i>:</b>
+<b><a href="../_/1956.md" title="1956">1956</a>: <i><a class="mw-redirect" href="../T/The_Lord_of_the_Rings_(1956_radio_series).md" title="The Lord of the Rings (1956 radio series)">Chúa tể của những chiếc nhẫn (loạt phim phát thanh năm 1956)</a></i>:</b>
 
 <dl><dd>The role of Bergil was played by a young <a href="../D/David_Hemmings.md" title="David Hemmings">David Hemmings</a>.<sup id="cite_ref-RT1726_6-0" class="reference"><a href="#cite_note-RT1726-6">[6]</a></sup></dd></dl>
 
@@ -87,7 +87,7 @@ Bergil đã phục vụ [Nhà chữa lành](../H/Houses_of_Healing.md) trong [Tr
 
 <dl><dd>The voice of Bergil is provided by Viktor Petrov.</dd></dl>
 
-<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
 
 <dl><dd>Bergil is first found is pre-battle <a href="../M/Minas_Tirith.md" title="Minas Tirith">Minas Tirith</a>, where he and his friends take the player on a series of adventures throughout the city. After the <a class="mw-redirect" href="Battle_of_Pelennor_Fields.md" title="Battle of Pelennor Fields">Battle of Pelennor Fields</a>, he and the player are help <a href="../I/Ioreth.md" title="Ioreth">Ioreth</a> in finding <i><a href="../A/Athelas.md" title="Athelas">athelas</a></i>.</dd></dl>
 

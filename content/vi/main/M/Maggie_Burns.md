@@ -20,7 +20,7 @@ sort_keys:
   "People by name": "Burns, Maggie"
 ---
 
-**Maggie Burns** ([1954](../_/1954.md)–[2012](../_/2012.md)) là một nhà văn và thủ thư người Anh (tại khoa Lịch sử và Nghiên cứu Địa phương của Thư viện Trung tâm ở Birmingham, Anh). Mối quan tâm chính của cô trong các nghiên cứu về Tolkien là về cuộc sống của [Tolkien](../J/J.R.R._Tolkien.md)trẻ ở [Birmingham](../B/Birmingham.md), đặc biệt tập trung vào thời gian của Tolkien tại [King Edward's School](../K/King_Edward's_School.md) và lịch sử của gia đình Tolkien và Suffield. Burns đang viết một cuốn sách về gia đình Tolkien và Suffield vào thời điểm bà qua đời.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Maggie Burns** ([1954](../_/1954.md)–[2012](../_/2012.md)) là một nhà văn và thủ thư người Anh (tại khoa Lịch sử và Nghiên cứu Địa phương của Thư viện Trung tâm ở Birmingham, Anh). Mối quan tâm chính của cô đối với các nghiên cứu về Tolkien là về cuộc sống của [Tolkien](../J/J.R.R._Tolkien.md) trẻ tuổi ở [Birmingham](../B/Birmingham.md), đặc biệt tập trung vào thời gian Tolkien học tại [Trường King Edward](../K/King_Edward's_School.md) và lịch sử của gia đình Tolkien và Suffield. Burns đang viết một cuốn sách về gia đình Tolkien và Suffield vào thời điểm bà qua đời.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Thư mục, đã chọn {#Bibliography,_selected}
 
@@ -35,9 +35,9 @@ sort_keys:
 - [2008](../_/2008.md): [*Mallorn* 46](Mallorn_46.md)
     - "[Trận chiến ở chiến trường phía Đông](../T/The_Battle_of_the_Eastern_Field.md)" (bình luận)
 - [2009](../_/2009.md): [*Amon Hen* 216](../A/Amon_Hen_216.md)
-    - "Giai cấp tư sản thịnh vượng Birmingham"
+    - "Giai cấp tư sản thịnh vượng ở Birmingham"
 - [2009](../_/2009.md): [*Amon Hen* 219](../A/Amon_Hen_219.md)
-    - "Shire Giáo dục"
+    - "Giáo dục Quận"
 - [2009](../_/2009.md): [*Mallorn* 48](Mallorn_48.md)
     - "Niềm khát khao của người kể chuyện"
 - [2010](../_/2010.md): [*Mallorn* 49](Mallorn_49.md)

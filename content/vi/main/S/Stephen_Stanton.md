@@ -18,13 +18,13 @@ sort_keys:
   "People by name": "Stanton, Stephen"
 ---
 
-**Stephen Stanton** là một diễn viên lồng tiếng và người lồng tiếng đa năng. Anh ấy lồng tiếng cho [Sauron](Sauron.md) và [Uruk-hai](../U/Uruk-hai.md) trong một số [trò chơi điện tử](../../category/G/Games.md).
+**Stephen Stanton** là một diễn viên lồng tiếng và người lồng tiếng đa năng. Ông lồng tiếng cho [Sauron](Sauron.md) và [Uruk-hai](../U/Uruk-hai.md) trong một số [trò chơi điện tử](../../category/G/Games.md).
 
 ## Vai trò {#Roles}
 
 - [2006](../_/2006.md): *[The Lord of the Rings: The Battle for Middle-earth II](../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md)* - [Sauron](Sauron.md), Uruk-hai
 - [2004](../_/2004.md): *[The Lord of the Rings: The Battle for Middle-earth](../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth.md)* - Uruk-hai
-- [2003](../_/2003.md): [*The Lord of the Rings: The Return of the King* (trò chơi điện tử)](<../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_(video_game).md>) - Uruk-hai chiến binh
+- [2003](../_/2003.md): [*The Lord of the Rings: The Return of the King* (video game)](<../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_(video_game).md>) - Chiến binh Uruk-hai
 
 ## Liên kết ngoài {#External_links}
 

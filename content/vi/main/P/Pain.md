@@ -20,7 +20,7 @@ categories:
 
 ## Có cùng nguồn gốc {#Cognates}
 
-- [Quenya](../Q/Quenya.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Quain&amp;action=edit&amp;redlink=1" title="Quain (page does not exist)">kỳ lạ</a>/quean</i>
+- [Quenya](../Q/Quenya.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Quain&amp;action=edit&amp;redlink=1" title="Quain (page does not exist)">quain</a>/quean</i>
 
 ## Xem thêm {#See_also}
 

@@ -13,7 +13,7 @@ categories:
   - "Sindarin nouns"
 ---
 
-<i><b>than</b></i> (<i><b>thand</b></i> hoặc <i><b>thann</b></i> đầy đủ) là một danh từ trong ngôn ngữ [Sindarin](../S/Sindarin.md), có nghĩa là "lá chắn". Quenya tương đương là *stan*.
+<i><b>than</b></i> (<i><b>thand</b></i> hoặc <i><b>thann</b></i> đầy đủ) là một danh từ trong ngôn ngữ [Sindarin](../S/Sindarin.md), có nghĩa là "lá chắn". Tương đương với Quenya là *stan*.
 
 ## Ví dụ {#Example}
 

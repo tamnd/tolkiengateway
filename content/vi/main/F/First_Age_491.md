@@ -16,11 +16,11 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="../T/Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><b>I</b><a href="../S/Second_Age.md" title="Second Age">II</a><a href="../T/Third_Age.md" title="Third Age">III</a><a href="Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="First_Age_488.md" title="First Age 488">488</a><a href="First_Age_489.md" title="First Age 489">489</a><a href="First_Age_490.md" title="First Age 490">490</a><a class="mw-selflink selflink">491</a><a href="First_Age_494.md" title="First Age 494">494</a><a href="First_Age_495.md" title="First Age 495">495</a><a href="First_Age_496.md" title="First Age 496">496</a></div></div></div></div></div></div>
 
-**Kỷ Đệ Nhất 491** (viết tắt là **F.A. 491**) là năm [thứ 491 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Nhất](First_Age.md) của [Trung Địa](../M/Middle-earth.md).
+**Kỷ thứ nhất 491** (viết tắt là **F.A. 491**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 491 của [Kỷ nguyên thứ nhất](First_Age.md) của [Trung Địa](../M/Middle-earth.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- Sau ba năm bị giam cầm, [Tuor](../T/Tuor.md) trốn thoát khỏi ách nô lệ của [Lorgan](../L/Lorgan.md) [Easterling](../E/Easterling.md). Tuor ẩn náu trong hang động của [Androth](../A/Androth.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- Sau ba năm bị giam cầm, [Tuor](../T/Tuor.md) trốn thoát khỏi ách nô lệ của mình dưới sự chỉ huy của [Lorgan](../L/Lorgan.md) [Easterling](../E/Easterling.md). Tuor ẩn náu trong hang động của [Androth](../A/Androth.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

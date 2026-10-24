@@ -51,4 +51,4 @@ infobox:
 
 ## Liên kết ngoài {#External_links}
 
-- "<a class="external text" href="http://wayneandchristina.wordpress.com/2013/01/25/the-many-lives-of-the-hobbits/" rel="noreferrer noopener" target="_blank">Nhiều cuộc đời của Hobbit</a>" (tóm tắt nội dung và nhận xét của [Christina Scull](../C/Christina_Scull.md))
+- "<a class="external text" href="http://wayneandchristina.wordpress.com/2013/01/25/the-many-lives-of-the-hobbits/" rel="noreferrer noopener" target="_blank">The Many Lives of the Hobbit</a>" (tóm tắt nội dung và review của [Christina Scull](../C/Christina_Scull.md))

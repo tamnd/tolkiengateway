@@ -15,7 +15,7 @@ sort_keys:
   "Parma Nölé": "Parma Nole 12"
 ---
 
-<b><i>Parma Nölé</i> 12</b> là số thứ mười hai của tạp chí [Bắc phương Đông Tolkien Hiệp hội](../N/North_East_Tolkien_Society.md) *[Parma Nölé](Parma_Nölé.md)*, cho mùa Xuân/Hè 2005.
+<b><i>Parma Nölé</i> 12</b> là số thứ mười hai của tạp chí [Hiệp hội Tolkien Đông Bắc](../N/North_East_Tolkien_Society.md) *[Parma Nölé](Parma_Nölé.md)*, cho mùa Xuân/Hè 2005.
 
 ## Nội dung {#Contents}
 
@@ -23,4 +23,4 @@ sort_keys:
 - Maureen Woodman: "Một ý kiến"
 - Phỏng vấn Ralph Lister của Ancanar
 - Wendy S. Delmater: "Fëanor"
-- Kristyna Lavicka: "Namarië," "Estelio," & "Trung Địa"
+- Kristyna Lavicka: "Namarië", "Estelio" & "Trung địa"

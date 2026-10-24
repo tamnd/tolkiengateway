@@ -14,11 +14,11 @@ images:
   - "Disambig.png"
 ---
 
-**Beleg** có thể tham khảo:
+**Beleg** có thể đề cập đến:
 
 - [Beleg Cúthalion](Beleg_Cúthalion.md), [Sinda](../S/Sinda.md) người đã phục vụ Vua [Elu Thingol](../T/Thingol.md) của [Doriath](../D/Doriath.md).
 - [Beleg (Vua của Arthedain)](<Beleg_(King_of_Arthedain).md>), vị vua thứ hai của [Arthedain](../A/Arthedain.md).
-- [*Beleg*(word)](<Beleg_(word).md>), [Sindarin](../S/Sindarin.md) từ mang ý nghĩa hùng mạnh.
+- [*Beleg* (word)](<Beleg_(word).md>), [Sindarin](../S/Sindarin.md) từ có nghĩa là hùng mạnh.
 
 <hr style="margin-top:15px;"/>
 

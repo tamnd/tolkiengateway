@@ -12,7 +12,7 @@ categories:
   - "Roots"
 ---
 
-**LINKWI** là một [Primitive Quendian](../P/Primitive_Quendian.md) [root](../S/Sundocarme.md) không có bất kỳ ý nghĩa cụ thể nào.<sup id="cite_ref-Ety_1-0" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup> Nó có liên quan đến root <a href="LINI.md" title="LINI">LIN<sup>1</sup>-</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**LINKWI** là [Quendian nguyên thủy](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) không có bất kỳ ý nghĩa cụ thể nào.<sup id="cite_ref-Ety_1-0" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup> Nó có liên quan đến root <a href="LINI.md" title="LINI">LIN<sup>1</sup>-</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Công cụ phái sinh {#Derivatives}
 

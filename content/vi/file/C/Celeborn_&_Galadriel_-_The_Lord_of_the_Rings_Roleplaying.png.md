@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Chúa](../../main/L/Lord.md) [Celeborn](../../main/C/Celeborn.md) và Phu nhân [Galadriel](../../main/G/Galadriel.md) - [The Lord of the Rings Nhập vai](../../main/T/The_Lord_of_the_Rings_Roleplaying.md) *Keepers of the Elven-rings*
+[Chúa](../../main/L/Lord.md) [Celeborn](../../main/C/Celeborn.md) và Phu nhân [Galadriel](../../main/G/Galadriel.md) - [The Lord of the Rings Roleplaying](../../main/T/The_Lord_of_the_Rings_Roleplaying.md) *Keepers of the Elven-rings*
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
 <p>This work is copyrighted and owned by <a class="external text" href="http://www.sophisticated-games.com/" rel="noreferrer noopener" target="_blank">Sophisticated Games Ltd.</a>. It is believed that the limited use of this file,

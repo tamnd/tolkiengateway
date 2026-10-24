@@ -21,7 +21,7 @@ images:
 Vào [25 tháng 1](../_/25_January.md) [1973](../_/1973.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho Patrick Hunt**.<sup id="cite_ref-TL_1-0" class="reference"><a href="#cite_note-TL-1">[1]</a></sup>
 
 - **Chủ đề:** Lời chào cá nhân.
-- **Nhận xét:** Ông Hunt, người đã viết thư cho Tolkien, lúc này đang ở trong tù. Con gái của ông Hunt kể lại rằng bức thư và bức ảnh này là tài sản quý giá của ông Hunt và sau này ông đã đọc *[The Hobbit](../T/The_Hobbit.md)* và *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* cho con gái mình (và các anh chị em của cô ấy) nghe.<sup id="cite_ref-TL_1-1" class="reference"><a href="#cite_note-TL-1">[1]</a></sup>
+- **Nhận xét:** Ông Hunt, người đã viết thư cho Tolkien, lúc này đang ở trong tù. Con gái của ông Hunt kể lại rằng bức thư và bức ảnh này là tài sản quý giá của ông Hunt và sau này ông đã đọc *[The Hobbit](../T/The_Hobbit.md)* và *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* cho con gái mình (và các anh chị em của bà) nghe.<sup id="cite_ref-TL_1-1" class="reference"><a href="#cite_note-TL-1">[1]</a></sup>
 - **Xuất bản:** Không có.
 - **Mô tả:** Một lá thư viết tay (một trang) và ảnh có chữ ký.
 

@@ -17,7 +17,7 @@ sort_keys:
   "Poems by J.R.R. Tolkien": "Forest-walker, The"
 ---
 
-<i><b>Người đi rừng</b></i><sup id="cite_ref-chronology_1-0" class="reference"><a href="#cite_note-chronology-1">[1]</a></sup> là bài thơ của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được viết vào ngày 25 và 26 tháng 8 năm 1916.<sup id="cite_ref-chronology1916_2-0" class="reference"><a href="#cite_note-chronology1916-2">[2]</a></sup>
+<i><b>Người đi rừng</b></i><sup id="cite_ref-chronology_1-0" class="reference"><a href="#cite_note-chronology-1">[1]</a></sup> là bài thơ được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) vào ngày 25 và 26 tháng 8 năm 1916.<sup id="cite_ref-chronology1916_2-0" class="reference"><a href="#cite_note-chronology1916-2">[2]</a></sup>
 
 ## Trích đoạn thơ {#Poem_excerpt}
 
@@ -34,15 +34,15 @@ sort_keys:
 
 ## Nền {#Background}
 
-Trong khoảng thời gian từ ngày 25 đến ngày 26 tháng 8 năm 1916, Tolkien đã viết phiên bản đầu tiên của bài thơ cùng với <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Thatch_of_Poppies&amp;action=edit&amp;redlink=1" title="The Thatch of Poppies (page does not exist)">The Thatch of Poppies</a></i> trên một "giấy vở vuông"<sup id="cite_ref-collectedpoems_3-1" class="reference"><a href="#cite_note-collectedpoems-3">[3]</a></sup> trong một hầm đào ở Thiepval Wood. Anh ấy đặt tên cho nó là <i><b>Người đi trong rừng</b></i>. Trong bản thảo thứ hai gần giống với bản đầu tiên,<sup id="cite_ref-collectedpoems_3-2" class="reference"><a href="#cite_note-collectedpoems-3">[3]</a></sup> Tolkien đã đề tặng "To Bus-lès-Artois Wood", địa điểm mà ông đã đến thăm vào ngày 10 và 11 tháng 8 để suy nghĩ về [Câu lạc bộ Trà, Hội Barrovian](T.C.B.S..md)<sup id="cite_ref-collectedpoems_3-3" class="reference"><a href="#cite_note-collectedpoems-3">[3]</a></sup> và những hậu quả sau cái chết của Robert Gilson.<sup id="cite_ref-chronology1916_2-1" class="reference"><a href="#cite_note-chronology1916-2">[2]</a></sup>
+Trong khoảng thời gian từ ngày 25 đến ngày 26 tháng 8 năm 1916, Tolkien đã viết phiên bản đầu tiên của bài thơ cùng với <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Thatch_of_Poppies&amp;action=edit&amp;redlink=1" title="The Thatch of Poppies (page does not exist)">The Thatch of Poppies</a></i> trên một số "giấy vở vuông"<sup id="cite_ref-collectedpoems_3-1" class="reference"><a href="#cite_note-collectedpoems-3">[3]</a></sup> trong một hầm đào ở Thiepval Wood. Ông đặt tên cho nó là <i><b>Người đi trong rừng</b></i>. Trong bản thảo thứ hai gần giống với bản đầu tiên,<sup id="cite_ref-collectedpoems_3-2" class="reference"><a href="#cite_note-collectedpoems-3">[3]</a></sup> Tolkien đã cống hiến "To Bus-lès-Artois Wood", địa điểm mà ông đã đến thăm vào ngày 10 và 11 tháng 8 để suy nghĩ về [Câu lạc bộ Trà, Hội Barrovian](T.C.B.S..md)<sup id="cite_ref-collectedpoems_3-3" class="reference"><a href="#cite_note-collectedpoems-3">[3]</a></sup> và những hậu quả sau cái chết của Robert Gilson.<sup id="cite_ref-chronology1916_2-1" class="reference"><a href="#cite_note-chronology1916-2">[2]</a></sup>
 
-Khoảng giữa tháng Chín ngày 12 và ngày 24 tại Franqueville, Tolkien đã sửa lại *The Forest Walker*, ghi lời đề tặng tương tự như bản thảo thứ hai, và thêm [tiếng Anh cổ](../O/Old_English.md) từ <i><b>Se Wealdstapa</b></i> ("Người bước gỗ") vào tiêu đề. Một thời gian sau, Tolkien gửi bản này cho Christopher Wiseman cùng với một số bài thơ khác.<sup id="cite_ref-collectedpoems_3-4" class="reference"><a href="#cite_note-collectedpoems-3">[3]</a></sup>
+Khoảng từ ngày 12 đến ngày 24 tháng 9 tại Franqueville, Tolkien đã sửa lại *The Forest Walker*, ghi lời đề tặng tương tự như bản thảo thứ hai và thêm [tiếng Anh cổ](../O/Old_English.md) từ <i><b>Se Wealdstapa</b></i> ("Wood-stepper") vào tiêu đề. Một thời gian sau, Tolkien gửi bản này cho Christopher Wiseman cùng với một số bài thơ khác.<sup id="cite_ref-collectedpoems_3-4" class="reference"><a href="#cite_note-collectedpoems-3">[3]</a></sup>
 
 Vào ngày 18 tháng 1 năm 1917, Christopher Wiseman đã trả lại những bài thơ cho Tolkien trong một lá thư cùng với một số nhận xét về chúng và gợi ý rằng ông nên viết một sử thi.<sup id="cite_ref-chronology1917_4-0" class="reference"><a href="#cite_note-chronology1917-4">[4]</a></sup>
 
 Sau đó, Tolkien sửa đổi *The Forest Walker* thành *The Forest-walker*<sup id="cite_ref-chronology_1-1" class="reference"><a href="#cite_note-chronology-1">[1]</a></sup> vào khoảng năm 1924,<sup id="cite_ref-chronology1924_5-0" class="reference"><a href="#cite_note-chronology1924-5">[5]</a></sup> tạo ra một bản đánh máy tại Leeds chỉ với những thay đổi nhỏ.<sup id="cite_ref-collectedpoems_3-5" class="reference"><a href="#cite_note-collectedpoems-3">[3]</a></sup>
 
-Vào tháng Chín năm 2024, bài thơ được xuất bản lần đầu tiên ở mục 50 trong *[The Collected Poems of J.R.R. Tolkien](The_Collected_Poems_of_J.R.R._Tolkien.md)*.<sup id="cite_ref-collectedpoems_3-6" class="reference"><a href="#cite_note-collectedpoems-3">[3]</a></sup>
+Tháng 9 năm 2024, bài thơ được xuất bản lần đầu tiên ở mục 50 trên *[The Collected Poems of J.R.R. Tolkien](The_Collected_Poems_of_J.R.R._Tolkien.md)*.<sup id="cite_ref-collectedpoems_3-6" class="reference"><a href="#cite_note-collectedpoems-3">[3]</a></sup>
 
 <span></span>
 

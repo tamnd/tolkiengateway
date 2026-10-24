@@ -66,12 +66,12 @@ Sự kiện xảy ra vào ngày 25 tháng 12
 
 ## Trên Trái đất {#On_Earth}
 
-- **[1903](1903.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) Rước lễ lần đầu.
+- **[1903](1903.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) rước lễ lần đầu.
 - **[1914](1914.md)** – Cuộc họp cuối cùng của [T.C.B.S.](../T/T.C.B.S..md) diễn ra ở London trước khi [Geoffrey Bache Smith](../G/Geoffrey_Bache_Smith.md), [Robert Gilson](../R/Robert_Gilson.md), [Thomas Kenneth Barnsley](../T/Thomas_Kenneth_Barnsley.md) và [Christopher Wiseman](../C/Christopher_Wiseman.md) tham gia [Đại chiến](../W/World_War_I.md).
 - **[1925](1925.md)** - [Ông già Noel](../F/Father_Christmas.md) viết [thư](../L/Letters_from_Father_Christmas.md) gửi các con của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
-- **[1928](1928.md)** - Ông già Noel viết thư cho các con [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
-- **[1937](1937.md)** - Ông già Noel viết thư cho các con [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
-- **[1938](1938.md)** - Ông già Noel viết thư cho các con [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
+- **[1928](1928.md)** - Ông già Noel viết thư cho các con của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
+- **[1937](1937.md)** - Ông già Noel viết thư cho các con của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
+- **[1938](1938.md)** - Ông già Noel viết thư cho các con của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 - **[1943](1943.md)** - Ông già Noel viết lá thư cuối cùng cho các con của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 - **[1954](1954.md)** - Ca sĩ [Annie Lennox](../A/Annie_Lennox.md) ra đời.
 - **[1971](1971.md)** - *[Attacks of Taste](../A/Attacks_of_Taste.md)*, với sự đóng góp của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), được xuất bản.
@@ -80,7 +80,7 @@ Sự kiện xảy ra vào ngày 25 tháng 12
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - Chuyến [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) rời đi [Rivendell](../R/Rivendell.md) lúc chạng vạng.
+    - [Hiệp hội của chiếc nhẫn](../F/Fellowship_of_the_Ring.md) rời [Rivendell](../R/Rivendell.md) vào lúc hoàng hôn.
     - Trăng non<sup id="cite_ref-rc_1-0" class="reference"><a href="#cite_note-rc-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:xlviii</sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
@@ -89,9 +89,9 @@ Lúc đầu, Hiệp hội dự định khởi hành vào [24 tháng 11](24_Novem
 
 ## Cảm hứng {#Inspiration}
 
-[Tolkien](../J/J.R.R._Tolkien.md) đã lưu ý trong *[Nomenclature](../G/Guide_to_the_Names_in_The_Lord_of_the_Rings.md)* rằng ngày Học bổng khởi hành từ Rivendell đã được chọn có chủ đích.
+[Tolkien](../J/J.R.R._Tolkien.md) đã lưu ý trong *[Nomenclature](../G/Guide_to_the_Names_in_The_Lord_of_the_Rings.md)* rằng ngày Hiệp hội rời Rivendell đã được chọn có chủ đích.
 
-Tuy nhiên, sau đó anh ấy đề cập với Henry Resnick rằng đó là một "cuộc hẹn hò không quan trọng" "xảy ra hoàn toàn do tai nạn" nhưng anh ấy đã để nó "để chứng tỏ rằng dù sao thì đây cũng không phải là một huyền thoại Cơ đốc giáo".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
+Tuy nhiên, sau đó ông đề cập với Henry Resnick rằng đó là một "cuộc hẹn hò không quan trọng" "xảy ra hoàn toàn do tai nạn" nhưng ông đã để nó "để chứng tỏ rằng dù sao thì đây cũng không phải là một huyền thoại Cơ đốc giáo".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

@@ -18,11 +18,11 @@ langlinks:
     url: "https://kontu.wiki/Linnod"
 ---
 
-**Linnod** là một trong ba Elvish [Chế độ thơ](../V/Verse_Modes.md). Hai cái còn lại là *[Ann-thennath](../A/Ann-thennath.md)*và *[Minlamad thent/estent](../M/Minlamad_thent%252Festent.md)*. Linnod là một loại thước đo thơ dành cho những câu nói ngắn.
+**Linnod** là một trong ba [Chế độ thơ](../V/Verse_Modes.md) của Tiên. Hai cái còn lại là *[Ann-thennath](../A/Ann-thennath.md)* và *[Minlamad thent/estent](../M/Minlamad_thent%252Festent.md)*. Linnod là một loại thước đo thơ dành cho những câu nói ngắn.
 
 ## Lịch sử {#History}
 
-Dạng câu thơ đã được [Gilraen](../G/Gilraen.md), mẹ của [Aragorn](../A/Aragorn.md)sử dụng trong linnod: *Ónen i-Estel Edain, ú-chebin estel anim*, dịch như thế này: "Tôi đã trao [Hy vọng](../A/Aragorn.md#Names_and_titles) cho [Dúnedain](../D/Dúnedain.md), tôi không còn hy vọng gì cho bản thân mình."<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Dạng câu thơ đã được sử dụng bởi [Gilraen](../G/Gilraen.md), mẹ của [Aragorn](../A/Aragorn.md), trong linnod: *Ónen i-Estel Edain, ú-chebin estel anim*, dịch như thế này: "Tôi đã trao [Hy vọng](../A/Aragorn.md#Names_and_titles) cho [Dúnedain](../D/Dúnedain.md), tôi không còn hy vọng gì cho bản thân mình."<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

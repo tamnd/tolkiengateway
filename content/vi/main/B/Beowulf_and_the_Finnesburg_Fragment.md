@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Beowulf and the Finnsburg Fragment"
 ---
 
-Chuyển hướng đến [Beowulf và Đoạn Finnsburg](Beowulf_and_the_Finnsburg_Fragment.md).
+Chuyển hướng tới [Beowulf và mảnh Finnsburg](Beowulf_and_the_Finnsburg_Fragment.md).

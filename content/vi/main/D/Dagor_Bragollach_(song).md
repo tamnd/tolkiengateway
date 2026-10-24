@@ -39,7 +39,7 @@ infobox:
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
-<i><b>Dagor Bragollach</b></i> là ca khúc thứ tám trong album [Minas Morgul](<../M/Minas_Morgul_(album).md>) của ban nhạc [Summoning](../S/Summoning.md). Tên bài hát được lấy từ [Dagor Bragollach](Dagor_Bragollach.md), trận chiến vĩ đại thứ tư của [Cuộc chiến Beleriand](../W/Wars_of_Beleriand.md), diễn ra giữa lực lượng [Morgoth](../M/Morgoth.md) và liên minh [Noldor](../N/Noldor.md). Lời bài hát đề cập trực tiếp đến trận chiến và sự hủy diệt của [Ard-galen](../A/Ard-galen.md).
+<i><b>Dagor Bragollach</b></i> là ca khúc thứ tám trong album [Minas Morgul](<../M/Minas_Morgul_(album).md>) của ban nhạc [Summoning](../S/Summoning.md). Tên bài hát được lấy từ [Dagor Bragollach](Dagor_Bragollach.md), trận chiến lớn thứ tư trong [Wars of Beleriand](../W/Wars_of_Beleriand.md), diễn ra giữa lực lượng của [Morgoth](../M/Morgoth.md) và liên minh của [Noldor](../N/Noldor.md). Lời bài hát đề cập trực tiếp đến trận chiến và sự hủy diệt của [Ard-galen](../A/Ard-galen.md).
 
 ## Lời bài hát {#Lyrics}
 

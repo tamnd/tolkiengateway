@@ -16,7 +16,7 @@ sort_keys:
   "Quenya suffixes": "iel"
 ---
 
-<i><b>-iel</b></i> là hậu tố bảo trợ giống cái trong [Elvish](../E/Elvish.md) [ngôn ngữ](../L/Languages.md).
+<i><b>-iel</b></i> là hậu tố bảo trợ giống cái trong [ngôn ngữ Elvish](../E/Elvish.md) [](../L/Languages.md).
 
 ## Ví dụ {#Examples}
 

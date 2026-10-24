@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Anke Eißmann](../../main/A/Anke_Eißmann.md) - [Ohtar](../../main/O/Ohtar.md) nghỉ phép [Isildur](../../main/I/Isildur.md) ([2007](../../main/_/2007.md))
+[Anke Eißmann](../../main/A/Anke_Eißmann.md) - [Ohtar](../../main/O/Ohtar.md) rời [Isildur](../../main/I/Isildur.md) ([2007](../../main/_/2007.md))
 
 ## Giấy phép {#Licensing}
 

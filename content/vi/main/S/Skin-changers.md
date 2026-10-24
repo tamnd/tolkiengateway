@@ -24,7 +24,7 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/P/Pascal_Yung_-_Skin-changers.jpg.md"><img src="https://tolkiengateway.net/w/images/a/ab/Pascal_Yung_-_Skin-changers.jpg" decoding="async" loading="lazy" width="296" height="252" class="mw-file-element" data-file-width="296" data-file-height="252"/></a><figcaption><a href="../P/Pascal_Yung.md" title="Pascal Yung">Pascal Yung</a> - <i>Beorning Skin-changers</i></figcaption></figure>
 
-**Người thay đổi làn da** là những sinh vật có thể có nhiều hình dạng khác nhau theo ý muốn. Người ta biết rất ít về khả năng của họ; những người thay đổi làn da nổi tiếng duy nhất là [Beorn](../B/Beorn.md) và [hậu duệ](../B/Beornings.md) của anh ta (những người có thể mang hình dạng [Người](../M/Men.md) hoặc gấu),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> nhưng rõ ràng những người thay đổi làn da khác cũng tồn tại.
+**Người thay đổi làn da** là những sinh vật có thể có nhiều hình dạng khác nhau theo ý muốn. Người ta biết rất ít về khả năng của họ; những người thay đổi làn da nổi tiếng duy nhất là [Beorn](../B/Beorn.md) và [hậu duệ](../B/Beornings.md) của ông ta (những người có thể mang hình dạng [Người](../M/Men.md) hoặc gấu),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> nhưng rõ ràng những người thay đổi làn da khác cũng tồn tại.
 
 Có ý kiến ​​​​cho rằng [Radagast](../R/Radagast.md), một "bậc thầy về hình dạng và màu sắc", đã có thể thay đổi hình dạng của mình.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 

@@ -66,7 +66,7 @@ Sự kiện xảy ra vào ngày 1 tháng 2.
 
 ## Trên Trái đất {#On_Earth}
 
-- **[1913](1913.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [bưu thiếp gửi Edith Bratt](<../L/Letter_to_Edith_Bratt_(1_February_1913).md>).
+- **[1913](1913.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một tấm bưu thiếp cho Edith Bratt](<../L/Letter_to_Edith_Bratt_(1_February_1913).md>).
 - **[1923](1923.md)** - Diễn viên lồng tiếng [Frank Duncan](../F/Frank_Duncan.md) ra đời.
 - **[1938](1938.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 21](../L/Letter_21.md).
 - **[1939](1939.md)** - Dịch giả tiếng Đức [Wolfgang Krege](../W/Wolfgang_Krege.md) ra đời.
@@ -76,6 +76,6 @@ Sự kiện xảy ra vào ngày 1 tháng 2.
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3017](../T/Third_Age_3017.md):
-    - [Aragorn](../A/Aragorn.md) chụp [Gollum](../G/Gollum.md) trong [Đầm lầy Chết](../D/Dead_Marshes.md).
+    - [Aragorn](../A/Aragorn.md) bắt giữ [Gollum](../G/Gollum.md) tại [Đầm lầy Chết](../D/Dead_Marshes.md).
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) nằm trong [Lothlórien](../L/Lothlórien.md).
+    - Nhóm [Hiệp hội chiếc nhẫn](../F/Fellowship_of_the_Ring.md) nằm ở [Lothlórien](../L/Lothlórien.md).

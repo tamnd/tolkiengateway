@@ -55,7 +55,7 @@ Trong một bản thảo muộn, [Tolkien](../J/J.R.R._Tolkien.md) cũng đề x
 
 ## Xem thêm {#See_also}
 
-- [Sindarin](../S/Sindarin.md) *[leben](Leben.md)*
+- [Tiếng Sindarin](../S/Sindarin.md) *[leben](Leben.md)*
 - [Telerin](../T/Telerin.md) *[lepen](Lepen.md)*
 - [Noldorin](../N/Noldorin.md) *[lheben](Lheben.md)*
 - [Qenya](../Q/Qenya.md) *[lemin](Lemin.md)*

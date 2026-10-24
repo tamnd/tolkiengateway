@@ -24,7 +24,7 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/C/Carl_Phelpstead.png.md"><img src="https://tolkiengateway.net/w/images/thumb/6/6a/Carl_Phelpstead.png/300px-Carl_Phelpstead.png" decoding="async" loading="lazy" width="300" height="400" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/6/6a/Carl_Phelpstead.png 1.5x" data-file-width="346" data-file-height="461"/></a><figcaption></figcaption></figure>
 
-**Carl Phelpstead** là Giáo sư Văn học Anh tại <a class="extiw" href="http://en.wikipedia.org/wiki/Cardiff_University" title="wikipedia:Cardiff University">Đại học Cardiff</a> ở <a class="extiw" href="http://en.wikipedia.org/wiki/Wales" title="wikipedia:Wales">Wales</a>. Nghiên cứu và giảng dạy của ông tập trung vào tiếng Bắc Âu cổ-văn học Iceland, văn học Anh cổ và trung cổ, và chủ nghĩa trung cổ hiện đại.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Carl Phelpstead** là Giáo sư Văn học Anh tại <a class="extiw" href="http://en.wikipedia.org/wiki/Cardiff_University" title="wikipedia:Cardiff University">Đại học Cardiff</a> ở <a class="extiw" href="http://en.wikipedia.org/wiki/Wales" title="wikipedia:Wales">Wales</a>. Nghiên cứu và giảng dạy của ông tập trung vào văn học Bắc Âu-Iceland cổ, văn học Anh cổ và trung đại, và chủ nghĩa trung cổ hiện đại.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Thư mục, đã chọn {#Bibliography,_selected}
 
@@ -35,7 +35,7 @@ images:
 ### Bài viết {#Articles}
 
 - [2006](../_/2006.md): *[J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment](../J/J.R.R._Tolkien_Encyclopedia%253A_Scholarship_and_Critical_Assessment.md)*
-    - "*Brut* của Layamon", "Christ: Advent Lyrics", "Homecoming of Beorhtnoth", "Northern Courage", "On Translating *Beowulf*", "*Sir Gawain và Green Knight, Pearl, Sir Orfeo* biên tập bởi Christopher Tolkien"
+    - "*Brut* của Layamon", "Christ: Advent Lyrics", "Homecoming of Beorhtnoth", "Northern Courage", "On Translating *Beowulf*", "*Sir Gawain và Green Knight, Pearl, Sir Orfeo* do Christopher Tolkien biên tập"
 - [2008](../_/2008.md): [*Tolkien Studies*: Tập 5](../T/Tolkien_Studies%253A_Volume_5.md)
     - "'Với những đoạn thơ ở giữa': *The Lord of the Rings* và Thơ Saga"
 - [2013](../_/2013.md): The Lord of the Rings Fanatics Plaza (đăng ngày 30 tháng 1 năm 2013)

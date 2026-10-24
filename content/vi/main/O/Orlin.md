@@ -24,13 +24,13 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../M/Men.md" title="Men">Man</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Orlin</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a class="mw-redirect" href="../H/Hisilómë.md" title="Hisilómë">Hisilómë</a></td></tr><tr><th scope="row" class="tg-infobox-label">Death</th><td class="tg-infobox-data"><a href="../B/Brodda.md" title="Brodda">Brodda</a>&#39;s hall, killed by <a href="../T/Túrin.md" title="Túrin">Turambar</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">House</th><td class="tg-infobox-data"><a href="../H/House_of_Hador.md" title="House of Hador">Mavwin&#39;s kin</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr></tbody></table>
 
-**Orlin** là một [Người](../M/Man.md) của [Hisilómë](../H/Hithlum.md) theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) trong [*The Book of Lost Tales*](../T/The_Book_of_Lost_Tales.md).
+**Orlin** là [Người](../M/Man.md) của [Hisilómë](../H/Hithlum.md) theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) trong [*The Book of Lost Tales*](../T/The_Book_of_Lost_Tales.md).
 
-Anh ấy giống với chính [Turambar](../T/Túrin.md) thông qua [Mavwin](../M/Morwen.md). Khi Turambar đến [sảnh của Brodda](../B/Brodda's_hall.md) và sát hại [lãnh chúa](../B/Brodda.md) để trả thù, Orlin là một trong số ít người có mặt ở đó đã cố gắng bắt giữ Turambar, là người duy nhất bị giết. Khi [Airin](../A/Airin.md) xuất hiện và mọi người chờ đợi phán xét của cô, cô giải thích rằng Turambar thực sự đã phạm tội nghiêm trọng khi giết một người giống mẹ anh ta và trong một phòng tiệc, nhưng để bào chữa cho anh ta, anh ta sẽ chỉ bị kết án lưu đày.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Ông giống với chính [Turambar](../T/Túrin.md) thông qua [Mavwin](../M/Morwen.md). Khi Turambar đến [sảnh của Brodda](../B/Brodda's_hall.md) và sát hại [lãnh chúa](../B/Brodda.md) để trả thù, Orlin là một trong số ít người có mặt ở đó đã cố gắng bắt giữ Turambar, là người duy nhất bị giết. Khi [Airin](../A/Airin.md) xuất hiện và mọi người chờ đợi phán xét của cô, cô giải thích rằng Turambar thực sự đã phạm tội nghiêm trọng khi giết một người giống mẹ ông ta và trong một phòng tiệc, nhưng để bào chữa cho ông ta, ông ta sẽ chỉ bị kết án lưu đày.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}
 
-- [Ornil](Ornil.md), một [Tiên trong số Nargothrond](../E/Elves_of_Nargothrond.md) đã gặp [Túrin](../T/Túrin.md) sau [Trận Tumhalad](../B/Battle_of_Tumhalad.md).
+- [Ornil](Ornil.md), một [Yêu tinh của Nargothrond](../E/Elves_of_Nargothrond.md) đã gặp [Túrin](../T/Túrin.md) sau [Trận chiến Tumhalad](../B/Battle_of_Tumhalad.md).
 
 <span></span>
 

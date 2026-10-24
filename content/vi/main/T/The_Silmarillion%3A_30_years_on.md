@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Silmarillion: Thirty Years On"
 ---
 
-Chuyển hướng tới [The Silmarillion: Ba mươi năm sau](The_Silmarillion%253A_Thirty_Years_On.md).
+Chuyển hướng đến [The Silmarillion: Thirty Years On](The_Silmarillion%253A_Thirty_Years_On.md).

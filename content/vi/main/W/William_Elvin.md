@@ -19,4 +19,4 @@ sort_keys:
   "People by name": "Elvin, William"
 ---
 
-**William Elvin** là một ca sĩ opera người Scotland (bass-baritone) sinh ra ở Turrif ở [1945](../_/1945.md). Anh được đào tạo tại Học viện Âm nhạc Hoàng gia và hát với tư cách nghệ sĩ độc tấu với Nhà hát Opera Scotland và thường xuyên xuất hiện trong các vở kịch của Nhà hát Opera Hoàng gia. Anh hát 8 bài đầu tiên của *[The Road Goes Ever On](<../T/The_Road_Goes_Ever_On_(book).md>)*, kèm theo [Donald Swann](../D/Donald_Swann.md) bằng piano.
+**William Elvin** là một ca sĩ opera người Scotland (bass-baritone) sinh ra ở Turrif ở [1945](../_/1945.md). Anh được đào tạo tại Học viện Âm nhạc Hoàng gia và hát với tư cách nghệ sĩ độc tấu với Nhà hát Opera Scotland và thường xuyên xuất hiện trong các vở kịch của Nhà hát Opera Hoàng gia. Ông đã hát tám bài hát đầu tiên của *[The Road Goes Ever On](<../T/The_Road_Goes_Ever_On_(book).md>)*, đệm piano cùng [Donald Swann](../D/Donald_Swann.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Michael George Tolkien (16 September 1965)"
 ---
 
-Chuyển hướng tới [Thư gửi Michael George Tolkien (16 tháng Chín 1965)](<../L/Letter_to_Michael_George_Tolkien_(16_September_1965).md>).
+Chuyển hướng tới [Thư gửi Michael George Tolkien (16 tháng 9 năm 1965)](<../L/Letter_to_Michael_George_Tolkien_(16_September_1965).md>).

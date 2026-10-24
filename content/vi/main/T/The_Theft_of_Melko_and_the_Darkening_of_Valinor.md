@@ -42,4 +42,4 @@ images:
 <li><a href="../G/Gilfanon&#39;s_Tale%253A_The_Travail_of_the_Noldoli_and_the_Coming_of_Mankind.md" title="Gilfanon&#39;s Tale: The Travail of the Noldoli and the Coming of Mankind">Gilfanon&#39;s Tale</a></li></ol>
 </td></tr></tbody></table>
 
-**Vụ trộm Melko và Bóng tối của Valinor** là chương thứ sáu của *[The Book of Lost Tales Part One](The_Book_of_Lost_Tales_Part_One.md)*.
+**Vụ trộm Melko và bóng tối của Valinor** là chương thứ sáu của *[The Book of Lost Tales Part One](The_Book_of_Lost_Tales_Part_One.md)*.

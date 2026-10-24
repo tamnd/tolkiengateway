@@ -36,11 +36,11 @@ infobox:
 
 Christopher Tolkien đã tham gia trại huấn luyện RAF ở [Nam Phi](../S/South_Africa.md) kể từ tháng 1 và cha anh thường xuyên viết thư.
 
-Đoạn văn có ba chủ đề tầm thường. Tolkien bắt đầu lá thư của mình kể về sự trở lại của "Quack vô dụng", [Robert Havard](../R/Robert_Havard.md), người đã gia nhập quân y Hải quân và đang nghỉ phép ở [Oxford](../O/Oxford.md). Sau đó, ông kể về [C.S. Lewis](../C/C.S._Lewis.md) và sự thiếu chính xác của báo chí (liên quan đến ông Lewis), và kết thúc bức thư bằng một nhận xét về thời tiết.
+Đoạn văn có ba chủ đề tầm thường. Tolkien bắt đầu bức thư của mình kể về sự trở lại của "Quack vô dụng", [Robert Havard](../R/Robert_Havard.md), người đã gia nhập quân y Hải quân và đang nghỉ phép ở [Oxford](../O/Oxford.md). Sau đó, ông kể về [C.S. Lewis](../C/C.S._Lewis.md) và sự thiếu chính xác của báo chí (liên quan đến ông Lewis), và kết thúc bức thư bằng một nhận xét về thời tiết.
 
 <dl><dt>In the expanded edition</dt></dl>
 
-trong đoạn đầu tiên Tolkien thể hiện sự vui mừng khi nhận được tin nhắn bằng máy bay từ Christopher, và tự hỏi liệu anh ấy có đến thăm Bloemfontein, nơi Tolkien sinh ra hay không.
+trong đoạn đầu tiên, Tolkien tỏ ra vui mừng khi nhận được tin nhắn bằng máy bay từ Christopher, và tự hỏi liệu ông có đến thăm Bloemfontein, nơi Tolkien sinh ra hay không.
 
 Tolkien kết thúc bức thư bằng "Chúa phù hộ cho bạn."
 

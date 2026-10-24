@@ -69,15 +69,15 @@ Sự kiện xảy ra vào ngày 26 tháng 10
 - **[1966](1966.md)** - Thấy mình thiếu chủ đề phát biểu, [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đọc *[Smith of Wootton Major](../S/Smith_of_Wootton_Major.md)* trước một căn phòng khoảng 800 người.
 - **[1994](1994.md)** - *[Tyalië Tyelelliéva](../T/Tyalië_Tyelelliéva.md)* số [2](../T/Tyalië_Tyelelliéva_2.md) được xuất bản.
 - **[2003](2003.md)** - [RingCon](../R/RingCon.md) III ở <a class="extiw" href="http://en.wikipedia.org/wiki/Tacoma,_Washington" title="wikipedia:Tacoma, Washington">Tacoma, Washington</a>.
-- **[2005](2005.md)** - Học giả [Angus McIntosh](../A/Angus_McIntosh.md), học trò và bạn của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), qua đời.
+- **[2005](2005.md)** - Học giả [Angus McIntosh](../A/Angus_McIntosh.md), học trò và là bạn của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), qua đời.
 - **[2017](2017.md)** - [Roger Garland](../R/Roger_Garland.md) chết.
 
 ## Trong Arda {#In_Arda}
 
 - [F.A.](../F/First_Age.md) [495](../F/First_Age_495.md):
-    - [Tuor](../T/Tuor.md), được hướng dẫn bởi [Voronwë](../V/Voronwë.md), di chuyển đến [Gondolin](../G/Gondolin.md) để chuyển thông điệp của [Ulmo](../U/Ulmo.md) tới [Turgon](../T/Turgon.md).
+    - [Tuor](../T/Tuor.md), được hướng dẫn bởi [Voronwë](../V/Voronwë.md), đi đến [Gondolin](../G/Gondolin.md) để chuyển thông điệp của [Ulmo](../U/Ulmo.md) tới [Turgon](../T/Turgon.md).
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi ở [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).
+    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi tại [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).
     - Trăng non<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>

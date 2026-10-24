@@ -14,15 +14,15 @@ images:
   - "Disambig.png"
 ---
 
-**Rose** là tên hầu gái phổ biến ở [the Shire](../T/The_Shire.md) và có thể ám chỉ đến:
+**Rose** là tên hầu gái phổ biến ở [Quận](../T/The_Shire.md) và có thể ám chỉ:
 
-## Trung Địa {#Middle-earth}
+## Trung địa {#Middle-earth}
 
-- **[Hoa hồng](Roses.md)**, loài hoa có mùi thơm nhẹ được tìm thấy khắp nơi [Trung Địa](../M/Middle-earth.md).
+- **[Hoa hồng](Roses.md)**, loài hoa có mùi thơm nhẹ được tìm thấy trên khắp [Trung Địa](../M/Middle-earth.md).
     - [Eglantine](../E/Eglantine.md), một loại hoa hồng được tìm thấy ở [Ithilien](../I/Ithilien.md).
     - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Rock-roses&amp;action=edit&amp;redlink=1" title="Rock-roses (page does not exist)">Hoa hồng đá</a>, không phải một loại hoa hồng.
 - [Rosa Baggins](Rosa_Baggins.md) (sinh [S.R.](../S/Shire_Reckoning.md) [1256](../T/Third_Age_2856.md)), bà cố của [Peregrin Took](../P/Peregrin_Took.md).
-- [Rose](<Rose_(daughter_of_Holman).md>) (sinh [S.R.](../S/Shire_Reckoning.md) [1262](../T/Third_Age_2862.md)), con gái và con út của [Holman người xanh](../H/Holman_the_greenhanded.md).
+- [Rose](<Rose_(daughter_of_Holman).md>) (sinh ra [S.R.](../S/Shire_Reckoning.md) [1262](../T/Third_Age_2862.md)), con gái và con út của [Holman người xanh](../H/Holman_the_greenhanded.md).
 - **[Rose Cotton](Rose_Cotton.md) ([S.R.](../S/Shire_Reckoning.md) [1384](../T/Third_Age_2984.md) - [S.R.](../S/Shire_Reckoning.md) [1482](../F/Fourth_Age_61.md)), con gái của [Tom Cottom](../T/Tolman_Cotton_Senior.md) và vợ của [Samwise Gamgee](../S/Samwise_Gamgee.md).**
     - [Rose Gardner](Rose_Gardner.md) (sinh [S.R.](../S/Shire_Reckoning.md) [1425](../F/Fourth_Age_4.md)), con thứ ba của Rose Cotton và Samwise Gamgee.
     - [Primrose Gardner](../P/Primrose_Gardner.md) (sinh [S.R.](../S/Shire_Reckoning.md) [1435](../F/Fourth_Age_14.md)), con thứ chín của Rose Cotton và Samwise Gamgee.

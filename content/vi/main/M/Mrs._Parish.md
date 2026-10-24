@@ -14,7 +14,7 @@ sort_keys:
   "Leaf by Niggle": "Parish, Mrs."
 ---
 
-**Bà. Giáo xứ** là một ký tự trong *[Leaf by Niggle](../L/Leaf_by_Niggle.md)*. Cô ấy là hàng xóm của [Niggle](../N/Niggle.md) và là vợ của [Mr. Giáo xứ](Mr._Parish.md). Cô bị cảm lạnh mà vô tình lây sang Niggle khi anh được Mr. Parish tranh thủ ra ngoài trời mưa để gặp [Bác sĩ](../D/Doctor.md), người đến muộn hai ngày, kịp thời để giải quyết cho cả bà Parish và Niggle.
+**Bà. Giáo xứ** là một ký tự trong *[Leaf by Niggle](../L/Leaf_by_Niggle.md)*. Bà là hàng xóm của [Niggle](../N/Niggle.md) và là vợ của [Mr. Giáo xứ](Mr._Parish.md). Cô bị cảm lạnh mà vô tình lây sang Niggle khi anh được Mr. Parish tranh thủ ra ngoài trời mưa để gặp [Bác sĩ](../D/Doctor.md), người đến muộn hai ngày, kịp thời để giải quyết cho cả bà Parish và Niggle.
 
 <span></span>
 

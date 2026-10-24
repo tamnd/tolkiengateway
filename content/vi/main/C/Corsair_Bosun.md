@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Castamir of Umbar"
 ---
 
-Chuyển hướng tới [Castamir của Umbar](Castamir_of_Umbar.md).
+Chuyển hướng đến [Castamir của Umbar](Castamir_of_Umbar.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gorlim"
 ---
 
-Chuyển hướng đến [Gorlim](../G/Gorlim.md).
+Chuyển hướng tới [Gorlim](../G/Gorlim.md).

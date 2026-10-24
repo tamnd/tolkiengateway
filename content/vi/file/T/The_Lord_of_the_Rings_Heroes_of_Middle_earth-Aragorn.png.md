@@ -24,7 +24,7 @@ file:
   user: "Γιάννης Ευαγγελίου"
 ---
 
-Aragorn như được mô tả trong trò chơi điện tử [The Lord of the Rings: Những anh hùng của Trung Địa](../../main/T/The_Lord_of_the_Rings%253A_Heroes_of_Middle-earth.md).
+Aragorn như được mô tả trong trò chơi điện tử [The Lord of the Rings: Heroes of Middle-earth](../../main/T/The_Lord_of_the_Rings%253A_Heroes_of_Middle-earth.md).
 
 ## Giấy phép {#Licensing}
 

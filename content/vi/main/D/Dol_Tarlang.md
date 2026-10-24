@@ -14,7 +14,7 @@ categories:
   - "Sindarin locations"
 ---
 
-**Dol Tarlang** là đỉnh cực bắc trong ba đỉnh (hai đỉnh còn lại là [Cûl Bîn](../C/Cûl_Bîn.md) và [Cûl Veleg](../C/Cûl_Veleg.md)) nằm ở đèo [Tarlang's Neck](../T/Tarlang's_Neck.md). Ba ngọn núi tạo thành một mũi nhọn ở phía nam của [Dãy Núi Trắng](../W/White_Mountains.md).
+**Dol Tarlang** là đỉnh cực bắc trong ba đỉnh (hai đỉnh còn lại là [Cûl Bîn](../C/Cûl_Bîn.md) và [Cûl Veleg](../C/Cûl_Veleg.md)) nằm ở đèo [Tarlang's Neck](../T/Tarlang's_Neck.md). Ba ngọn núi tạo thành một mũi nhọn ở phía nam của [Dãy núi Trắng](../W/White_Mountains.md).
 
 Theo truyền thuyết, Dol Tarlang có nguồn gốc là người đứng đầu [người khổng lồ](../G/Giants.md) [Tarlang](../T/Tarlang.md).<sup id="cite_ref-N_1-0" class="reference"><a href="#cite_note-N-1">[1]</a></sup>
 

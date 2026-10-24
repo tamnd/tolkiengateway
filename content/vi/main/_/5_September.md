@@ -58,15 +58,15 @@ langlinks:
 </div><div class="template-month__footer"><div class="tg-button"><a href="../J/January.md" title="January">Jan</a></div><div class="tg-button"><a href="../F/February.md" title="February">Feb</a></div><div class="tg-button"><a href="../M/March.md" title="March">Mar</a></div><div class="tg-button"><a href="../A/April.md" title="April">Apr</a></div><div class="tg-button"><a href="../M/May.md" title="May">May</a></div><div class="tg-button"><a href="../J/June.md" title="June">Jun</a></div><div class="tg-button"><a href="../J/July.md" title="July">Jul</a></div><div class="tg-button"><a href="../A/August.md" title="August">Aug</a></div><div class="tg-button"><a href="../S/September.md" title="September">Sep</a></div><div class="tg-button"><a href="../O/October.md" title="October">Oct</a></div><div class="tg-button"><a href="../N/November.md" title="November">Nov</a></div><div class="tg-button"><a href="../D/December.md" title="December">Dec</a></div></div>
 </div>
 
-Sự kiện xảy ra vào ngày 5 tháng Chín.
+Sự kiện xảy ra vào ngày 5 tháng 9
 
 ## Trên Trái đất {#On_Earth}
 
 - **[1970](1970.md)** – [Mythcon đầu tiên](../M/Mythcon_1.md) được tổ chức tại <a class="extiw" href="http://en.wikipedia.org/wiki/Harvey_Mudd_College" title="wikipedia:Harvey Mudd College">Harvey Mudd College</a> ở <a class="extiw" href="http://en.wikipedia.org/wiki/Claremont,_California" title="wikipedia:Claremont, California">Claremont</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/California" title="wikipedia:California">California</a>.
 - **[1971](1971.md)** - [Mythcon 2](../M/Mythcon_2.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Santa_Barbara,_California" title="wikipedia:Santa Barbara, California">Santa Barbara</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/California" title="wikipedia:California">California</a>.
-- **[1975](1975.md)** - [Oxonmoot 1975](../O/Oxonmoot_1975.md) tại tiếng Wales Poney, <a class="extiw" href="http://en.wikipedia.org/wiki/Oxford" title="wikipedia:Oxford">Oxford</a>.
+- **[1975](1975.md)** - [Oxonmoot 1975](../O/Oxonmoot_1975.md) tại Welsh Poney, <a class="extiw" href="http://en.wikipedia.org/wiki/Oxford" title="wikipedia:Oxford">Oxford</a>.
 - **[2000](2000.md)** - *[Tyalië Tyelelliéva](../T/Tyalië_Tyelelliéva.md)* số [15](../T/Tyalië_Tyelelliéva_15.md) được xuất bản.
-- **[2005](2005.md)** - Một phiên bản của *[Smith of Wootton Major](../S/Smith_of_Wootton_Major.md)* được phát hành, được chỉnh sửa bởi [Verlyn Flieger](../V/Verlyn_Flieger.md).
+- **[2005](2005.md)** - Phiên bản *[Smith of Wootton Major](../S/Smith_of_Wootton_Major.md)* được phát hành, biên tập bởi [Verlyn Flieger](../V/Verlyn_Flieger.md).
 - **[2019](2019.md)** - *[Tolkien Calendar 2020](../T/Tolkien_Calendar_2020.md)* được xuất bản.
 
 ## Trong Arda {#In_Arda}

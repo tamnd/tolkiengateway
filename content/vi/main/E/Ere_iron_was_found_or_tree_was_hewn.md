@@ -19,7 +19,7 @@ images:
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article describes a concept which is mentioned in <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s works, but was never given a definite name.
 </div></div>
 
-"**Người ta tìm thấy sắt hoặc chặt cây**" là dòng đầu tiên của một bài thơ ngắn được [Gandalf](../G/Gandalf.md) đọc cho [Vua Théoden](../T/Théoden.md), khi được hỏi về nguyên nhân gây ra việc triệu hồi [Huorn](../H/Huorns.md) trong [Trận Hornburg](../B/Battle_of_the_Hornburg.md). Phải chăng đó là một hành động "[phép thuật](../M/Magic.md)?", Théoden hỏi. Gandalf nói rằng đó là "một sức mạnh cổ xưa hơn rất nhiều" và tiếp tục ngâm thơ. Théoden xác định những dòng thơ của Gandalf là một [câu đố](../R/Riddle-game.md).<sup id="cite_ref-TTIII8_1-0" class="reference"><a href="#cite_note-TTIII8-1">[1]</a></sup>
+"**Người ta tìm thấy sắt hoặc chặt cây**" là dòng đầu tiên của một bài thơ ngắn được [Gandalf](../G/Gandalf.md) đọc cho [Vua Théoden](../T/Théoden.md), khi được hỏi về nguyên nhân dẫn đến việc triệu hồi các [Huorns](../H/Huorns.md) trong [Trận chiến Hornburg](../B/Battle_of_the_Hornburg.md). Có thể nào đó là một hành động "[phép thuật](../M/Magic.md)?", Théoden hỏi. Gandalf nói rằng đó là "một sức mạnh lâu đời hơn rất nhiều" và tiếp tục đọc thuộc lòng bài thơ. Théoden coi những dòng thơ của Gandalf là một [câu đố](../R/Riddle-game.md).<sup id="cite_ref-TTIII8_1-0" class="reference"><a href="#cite_note-TTIII8-1">[1]</a></sup>
 
 ## Bài thơ {#The_poem}
 
@@ -27,11 +27,11 @@ images:
 
 ## Thành phần {#Composition}
 
-Bài thơ có <a class="extiw" href="http://en.wikipedia.org/wiki/Iamb_(poetry)" title="wikipedia:Iamb (poetry)">bốn câu iamb trong mỗi dòng</a>, và các dòng <a class="extiw" href="http://en.wikipedia.org/wiki/Couplet" title="wikipedia:Couplet">vần theo cặp</a>.<sup id="cite_ref-Kamelen_2-0" class="reference"><a href="#cite_note-Kamelen-2">[2]</a></sup> [Verlyn Flieger](../V/Verlyn_Flieger.md) đã mô tả bài thơ như một đoạn "thơ ca dân gian".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Bài thơ có <a class="extiw" href="http://en.wikipedia.org/wiki/Iamb_(poetry)" title="wikipedia:Iamb (poetry)">bốn câu iamb trong mỗi dòng</a>và các dòng <a class="extiw" href="http://en.wikipedia.org/wiki/Couplet" title="wikipedia:Couplet">vần theo cặp</a>.<sup id="cite_ref-Kamelen_2-0" class="reference"><a href="#cite_note-Kamelen-2">[2]</a></sup> [Verlyn Flieger](../V/Verlyn_Flieger.md) đã mô tả bài thơ như một đoạn "thơ dân gian".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Tên {#Name}
 
-Trong số [người hâm mộ](../T/Tolkien_fandom.md), bài thơ thường được gọi là Câu đố về Ent** của **Gandalf.<sup id="cite_ref-Kamelen_2-1" class="reference"><a href="#cite_note-Kamelen-2">[2]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Trong số [người hâm mộ](../T/Tolkien_fandom.md), bài thơ thường được gọi là **Câu đố về loài Ent của Gandalf**.<sup id="cite_ref-Kamelen_2-1" class="reference"><a href="#cite_note-Kamelen-2">[2]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 ## Cảm hứng {#Inspiration}
 

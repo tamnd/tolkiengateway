@@ -29,7 +29,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"Nhìn vào thung lũng [anh ấy](../../main/B/Bilbo_Baggins.md) không thể thấy [yêu tinh](../../main/O/Orcs.md) còn sống." bởi [Alan Lee](../../main/A/Alan_Lee.md). Minh họa từ *[The Hobbit](../../main/T/The_Hobbit.md)*.
+"Nhìn vào thung lũng [ông](../../main/B/Bilbo_Baggins.md) không thể thấy [yêu tinh](../../main/O/Orcs.md) còn sống." của [Alan Lee](../../main/A/Alan_Lee.md). Minh họa từ *[The Hobbit](../../main/T/The_Hobbit.md)*.
 
 ## Giấy phép {#Licensing}
 

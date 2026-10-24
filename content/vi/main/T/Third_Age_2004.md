@@ -16,11 +16,11 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><a href="../F/First_Age.md" title="First Age">I</a><a href="../S/Second_Age.md" title="Second Age">II</a><b>III</b><a href="../F/Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="Third_Age_1999.md" title="Third Age 1999">1999</a><a href="Third_Age_2000.md" title="Third Age 2000">2000</a><a href="Third_Age_2002.md" title="Third Age 2002">2002</a><a class="mw-selflink selflink">2004</a><a href="Third_Age_2012.md" title="Third Age 2012">2012</a><a href="Third_Age_2029.md" title="Third Age 2029">2029</a><a href="Third_Age_2035.md" title="Third Age 2035">2035</a></div></div></div></div></div></div>
 
-**Kỷ Đệ Tam 2004** (viết tắt là **T.A. 2004**) là năm [năm 2004 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Tam](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Kỷ Đệ Tam 2004 còn được gọi là **S.R. 404** trong [lịch Shire](../S/Shire-reckoning.md).
+**Kỷ thứ ba 2004** (viết tắt là **T.A. 2004**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 2004 của [Kỷ thứ ba](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Thời đại thứ ba 2004 còn được gọi là **S.R. 404** trong [Tính toán quận](../S/Shire-reckoning.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- Sinh con [Galador](../G/Galador.md), con trai [Imrazôr](../I/Imrazôr.md) và [Mithrellas](../M/Mithrellas.md).<sup id="cite_ref-Dol_Amroth_1-0" class="reference"><a href="#cite_note-Dol_Amroth-1">[1]</a></sup>
+- Sự ra đời của [Galador](../G/Galador.md), con trai của [Imrazôr](../I/Imrazôr.md) và [Mithrellas](../M/Mithrellas.md).<sup id="cite_ref-Dol_Amroth_1-0" class="reference"><a href="#cite_note-Dol_Amroth-1">[1]</a></sup>
 - Sự ra đời của [Gilmith](../G/Gilmith.md), con gái của [Imrazôr](../I/Imrazôr.md) và [Mithrellas](../M/Mithrellas.md).<sup id="cite_ref-Dol_Amroth_1-1" class="reference"><a href="#cite_note-Dol_Amroth-1">[1]</a></sup>
 
 <span></span>

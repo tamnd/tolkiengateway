@@ -16,13 +16,13 @@ images:
 
 <table class="noprint" style="float: right; border:var(--tg-border-base); background:var(--tg-color-surface-2); margin: .3em .3em .3em 1em; padding: 10px; text-align: center;border-radius:var(--tg-border-radius-large);"><tbody><tr><th style="border: none; background: transparent;" class="plainlist"><small>Shortcut:<br/><a class="mw-redirect" href="CONTACT~47574.md" title="Tolkien Gateway:CONTACT">TG:CONTACT</a></small></th></tr></tbody></table>
 
-Nói chung, nếu bạn muốn **liên hệ** Tolkien Gateway, bạn nên thực hiện thông qua trang thảo luận của bài viết, bằng cách đăng một thông báo trên [diễn đàn](https://tolkiengateway.net/wiki/Forums:Council) của chúng tôi, hoặc viết thư trực tiếp cho biên tập viên trên trang thảo luận của họ. Chúng tôi luôn mong muốn được nghe những đề xuất cải tiến của bạn cũng như được thông báo về mọi khiếu nại, vấn đề về nội dung hoặc vi phạm bản quyền tiềm ẩn.
+Nói chung, nếu bạn muốn **liên hệ** Tolkien Gateway, bạn nên thực hiện thông qua trang thảo luận của bài viết, bằng cách đăng một thông báo trên [diễn đàn](https://tolkiengateway.net/wiki/Forums:Council) của chúng tôi hoặc viết thư trực tiếp cho biên tập viên trên trang thảo luận của họ. Chúng tôi luôn mong muốn được nghe những đề xuất cải tiến của bạn cũng như được thông báo về mọi khiếu nại, vấn đề về nội dung hoặc vi phạm bản quyền tiềm ẩn.
 
-Mặc dù [Tolkien Gateway](../../main/T/Tolkien_Gateway.md) được thành lập bởi [Hyarion](https://tolkiengateway.net/wiki/User:Hyarion) nhưng anh ấy không chịu trách nhiệm trực tiếp về nội dung. Tolkien Gateway không có ban biên tập vì đây là nỗ lực hợp tác của một cộng đồng tình nguyện viên.
+Mặc dù [Tolkien Gateway](../../main/T/Tolkien_Gateway.md) được thành lập bởi [Hyarion](https://tolkiengateway.net/wiki/User:Hyarion) nhưng ông không chịu trách nhiệm trực tiếp về nội dung. Tolkien Gateway không có ban biên tập vì đây là nỗ lực hợp tác của một cộng đồng tình nguyện viên.
 
 ## Vi phạm bản quyền {#Copyright_violations}
 
-Vì Tolkien Gateway được lưu trữ trên máy chủ ở Hoa Kỳ nên wiki này thuộc thẩm quyền của Hoa Kỳ (bao gồm nguyên tắc [sử dụng hợp pháp](../F/Fair_use.md)). Nếu bạn cho rằng [Tolkien Gateway](../../main/T/Tolkien_Gateway.md) đang vi phạm luật bản quyền của Hoa Kỳ, thì vui lòng gắn cờ điều đó lên trang thảo luận của từng bài viết/tệp riêng lẻ. Một biên tập viên khác sẽ xem xét vấn đề và có thể [quản trị viên](../A/Administrators.md) sẽ thực hiện thêm hành động.
+Vì Tolkien Gateway được lưu trữ trên một máy chủ ở Hoa Kỳ nên wiki này thuộc thẩm quyền của Hoa Kỳ (bao gồm nguyên tắc [sử dụng hợp lý](../F/Fair_use.md)). Nếu bạn cho rằng [Tolkien Gateway](../../main/T/Tolkien_Gateway.md) đang vi phạm luật bản quyền của Hoa Kỳ thì vui lòng gắn cờ điều đó lên trang thảo luận của từng bài viết/tệp riêng lẻ. Một biên tập viên khác sẽ xem xét vấn đề và có thể [quản trị viên](../A/Administrators.md) sẽ thực hiện thêm hành động.
 
 ## Liên hệ với các cá nhân {#Contacting_individuals}
 

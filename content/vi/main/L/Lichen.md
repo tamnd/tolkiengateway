@@ -12,11 +12,11 @@ categories:
   - "Plants"
 ---
 
-**Địa y** là một quần thể lai giữa tảo và [nấm](../F/Funguses.md). Cây cối ở [Cổng rừng](../F/Forest_Gate.md) bị “treo địa y”<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>và nhiều cây ở [Rừng Fangorn](../F/Fangorn_Forest.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+**Địa y** là một quần thể lai giữa tảo và [nấm](../F/Funguses.md). Cây cối ở [Cổng rừng](../F/Forest_Gate.md) bị “treo đầy địa y”<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>và nhiều cây ở [Rừng Fangorn](../F/Fangorn_Forest.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1984-1997: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i></b>
+<b>1984-1997: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Nhập vai Trung Địa</a></i></b>
 
 <dl><dd>Many different types of lichen are distinguished in the game:</dd></dl>
 

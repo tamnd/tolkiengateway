@@ -21,13 +21,13 @@ images:
 <p class="tg-quote-footer"><cite><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a></cite></p>
 </blockquote></div></div>
 
-**Gian lận những chiếc nhẫn** là một bộ truyện tranh châm biếm của John Cook dựa trên *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*. Trang web chứa truyện tranh không còn hoạt động nữa, tuy nhiên, bạn có thể xem một số truyện bằng cách sử dụng <a class="external text" href="https://web.archive.org/web/20240000000000*/http://cartoons.sev.com.au/Sev-Space/Fraud-of-the-Rings/%7C" rel="noreferrer noopener" target="_blank">Wayback Machine</a>.
+**Fraud of the Rings** was a satirical comic strip by John Cook based on *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*. Trang web chứa truyện tranh không còn hoạt động nữa, tuy nhiên, bạn có thể xem một số truyện bằng cách sử dụng <a class="external text" href="https://web.archive.org/web/20240000000000*/http://cartoons.sev.com.au/Sev-Space/Fraud-of-the-Rings/%7C" rel="noreferrer noopener" target="_blank">Wayback Machine</a>.
 
 Dưới đây là danh sách nhiều tựa truyện tranh:
 
-## Đoàn Hộ Nhẫn {#Fellowship_of_the_Ring}
+## Hiệp hội của chiếc nhẫn {#Fellowship_of_the_Ring}
 
-- Một Nhẫn từ
+- Một lời nhắc nhở
 - Rung chuông
 - Gonedaft vs Bullfrog
 - Gonedaft the Grey
@@ -37,27 +37,27 @@ Dưới đây là danh sách nhiều tựa truyện tranh:
 - Phim chuyển thể bán hết vé
 - Gonedaft đấu với Sourman
 - Tom Bombadill cắt
-- Chân nhẹ Không có chân
-- Moria thông báo cổng
+- Chân nhẹ cụt chân
+- Thông điệp cổng Moria
 - Mở cổng Moria
-- Người chua nhiều màu
-- Mỏ Người lùn cao
-- Sự Hội đồng của Trứng cuộn
+- Sourman nhiều màu
+- Mỏ lùn cao
+- Hội đồng trứng cuộn
 - Thấy tin nhắn Đá
 - Chiếc nhẫn duy nhất của Sourone
 - Nhãn dán cản vòng tròn
-- Thanh kiếm gãy của kiêu ngạo
+- Kiếm gãy của kiêu ngạo
 - Đáng sợ hơn cả Dorcs
 - Người lùn mắt đại bàng
 - Yêu tinh phát sáng
 - Nhãn dán cản xe Gonedaft
-- Gonedaft từ chối Nhẫn
+- Gonedaft từ chối Chiếc Nhẫn
 - Hỏng một vòng
 - Cỏ dại nửa vời
 - Nguồn gốc của Dorcs
-- Sourone và Nhẫn
+- Sourone và chiếc nhẫn
 - Tầm nhìn của Gladwrapriel
-- Sức mạnh phép thuật chưa được sử dụng
+- Sức mạnh ma thuật chưa được sử dụng
 - Thấy được kênh Đá
 
 ## Hai tòa tháp {#Two_Towers}
@@ -66,30 +66,30 @@ Dưới đây là danh sách nhiều tựa truyện tranh:
 - Doc ác
 - kiểu tóc mới của Gonedaft
 - Kiêu ngạo nhiều tên
-- Treebeard & Hobnobbit vội vàng
-- Giáng sinh Treebeard
+- Râu Cây & Hobnobbit vội vã
+- Cây râu Giáng sinh
 - Hobnobbit Gollum
 - Nụ hôn ngựa kiêu ngạo
 - Sourman đội quân đông đảo
 - Không chân vs Gimme
 - Mùi của thợ săn
 - Lướt sóng Palantir
-- Thiếu Entwives
+- Mất tích
 - Sự kiêu ngạo cổ xưa
-- Cổng Đen người gác cửa
-- Arwen đấu với Gladwrapriel
+- Người gác cổng đen
+- Arwen vs Gladwrapriel
 - Thành lũy cao
-- Gollum độc thoại
+- Độc thoại của Gollum
 - Lướt sóng của đám đông
 - Nhảy qua vực thẳm
 - Xứ ngựa
 - Đăng ký Treeweed
 
-## Sự trở lại của Vua {#Return_of_the_King}
+## Sự trở lại của nhà vua {#Return_of_the_King}
 
-- Gollum tiết lộ
-- Gonedaft đấu với Ringwaif
-- Nhỏ Shelob
+- Sự tiết lộ của Gollum
+- Gonedaft vs Ringwaif
+- Thùy nhỏ bé
 - Không chân vs Oliphaunt
 - Bài hát của Pipsqueak
 - Rèn lại thanh kiếm gãy
@@ -98,10 +98,10 @@ Dưới đây là danh sách nhiều tựa truyện tranh:
 - Rời khỏi Trái đất lầy lội
 - Thạch rơi
 - Trò chơi giết chóc
-- Người chua miệng lớn tiếng
+- Người to mồm
 - Tập hợp lại với tôi
-- Fell beast chặt đầu
-- Bài ca chết chóc
+- Chặt đầu thú ngã
+- Bài hát tử thần
 - Tái tạo thanh kiếm
 
 ## Người Hobnobbit {#The_Hobnobbit}
@@ -113,9 +113,9 @@ Dưới đây là danh sách nhiều tựa truyện tranh:
 - Người cuồng LOTR
 - Đi taxi đại bàng
 - Cắt chua
-- Peter Jackson khách mời
-- Vua Kong khách mời
-- Elvish lướt web
+- Peter Jackson đóng vai khách mời
+- Phim khách mời của King Kong
+- Lướt sóng Elv
 - Nhãn dán cản xe Fell Beast
 - Pippsqueak ngớ ngẩn
 - Biệt danh Gonedaft

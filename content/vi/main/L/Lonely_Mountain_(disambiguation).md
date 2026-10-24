@@ -14,21 +14,21 @@ images:
   - "Disambig.png"
 ---
 
-**Ngọn Núi Cô Đơn** có thể tham khảo:
+**Núi Cô Đơn** có thể tham khảo:
 
-## Trung Địa {#Middle-earth}
+## Trung địa {#Middle-earth}
 
-- Cái **[Ngọn Núi Cô Đơn](Lonely_Mountain.md)** hay còn gọi là [Erebor](Lonely_Mountain.md), hang ổ của [Smaug](../S/Smaug.md) vào cuối [Kỷ Đệ Tam](../T/Third_Age.md)
+- **[Ngọn núi cô đơn](Lonely_Mountain.md)**, còn được gọi là [Erebor](Lonely_Mountain.md), hang ổ của [Smaug](../S/Smaug.md) vào cuối [Thời đại thứ ba](../T/Third_Age.md)
 
 ## Các bản chuyển thể {#Adaptations}
 
 ### Văn hóa đại chúng {#Popular_culture}
 
-- [Ban nhạc Ngọn Núi Cô Đơn](../T/The_Lonely_Mountain_Band.md), một ban nhạc dân gian lấy cảm hứng từ [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)
+- [The Lonely Mountain Band](../T/The_Lonely_Mountain_Band.md), một ban nhạc dân gian lấy cảm hứng từ [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)
 
 ### Trò chơi {#Games}
 
-- *[The Lonely Mountain](../T/The_Lonely_Mountain.md)*, một trò chơi board [1984](../_/1984.md) của [Vương miện Sắt Enterprises](../I/Iron_Crown_Enterprises.md)
+- *[The Lonely Mountain](../T/The_Lonely_Mountain.md)*, một trò chơi board [1984](../_/1984.md) của [Iron Crown Enterprises](../I/Iron_Crown_Enterprises.md)
 
 <hr style="margin-top:15px;"/>
 

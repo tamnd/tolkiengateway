@@ -14,7 +14,7 @@ categories:
   - "Sindarin nouns"
 ---
 
-<i><b>esgal</b></i> là từ [Sindarin](../S/Sindarin.md) chỉ "màn che, bình phong, mái lá".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>esgal</b></i> là từ [Sindarin](../S/Sindarin.md) có nghĩa là "màn che, bình phong, mái lá".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

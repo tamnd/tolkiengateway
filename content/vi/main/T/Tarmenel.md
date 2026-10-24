@@ -15,7 +15,7 @@ categories:
 
 **Tarmenel** hoặc **Tar-menel** là một thuật ngữ dùng để chỉ bầu trời "thật sự" hoặc "trên".
 
-Thuật ngữ này xuất hiện trong [Bài hát Eärendil](../S/Song_of_Eärendil.md) của Bilbo mà anh ấy đọc trong [Rivendell](../R/Rivendell.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Thuật ngữ này xuất hiện trong [Bài hát của Eärendil](../S/Song_of_Eärendil.md) của Bilbo mà ông đọc trong [Rivendell](../R/Rivendell.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <blockquote class="tg-quote noexcerpt">
 <div class="poem">
@@ -39,13 +39,13 @@ from east to west he passed away.
 </div>
 </blockquote>
 
-Trong [Thần thoại được biến đổi](../M/Myths_Transformed.md) nó được mô tả là "nền trời thực sự", trong đó *Nur-menel*, [Mái vòm của Varda](../D/Dome_of_Varda.md), là một mô phỏng.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Trong [Thần thoại bị biến đổi](../M/Myths_Transformed.md) nó được mô tả là "nền trời thực sự", trong đó *Nur-menel*, [Mái vòm Varda](../D/Dome_of_Varda.md), là một mô phỏng.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Trong [mục lục chưa hoàn thiện](../U/Unfinished_index.md), Tolkien định nghĩa thuật ngữ này là "trời cao, vùng gió".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:216</sup>
+Trong [phần mục lục chưa hoàn thiện](../U/Unfinished_index.md), Tolkien định nghĩa thuật ngữ này là “trời cao, vùng gió”.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:216</sup>
 
 ## Từ nguyên {#Etymology}
 
-*Tarmenel* là tên [Quenya](../Q/Quenya.md), được mô tả là biểu thị "vùng trời thực sự",<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> dường như bao gồm *[tar](Tar.md)* + *[menel](../M/Menel.md)*.
+*Tarmenel* là tên [Quenya](../Q/Quenya.md), được mô tả là biểu thị "sự vững chắc thực sự",<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> dường như bao gồm *[tar](Tar.md)* + *[menel](../M/Menel.md)*.
 
 <span></span>
 

@@ -13,13 +13,13 @@ categories:
   - "Lembas Extra"
 ---
 
-Bàn tròn thần thánh của **Elrond: Các bài tiểu luận về Tolkien, Sayers và Arthur Saga** là số [1990](../_/1990.md) của *[Lembas-extra](<../L/Lembas_(journal).md>)*, được xuất bản bởi [Unquendor](../U/Unquendor.md). Nó được biên tập bởi [René van Rossenberg](../R/René_van_Rossenberg.md).
+**Bàn tròn thần thánh của Elrond: Các bài tiểu luận về Tolkien, Sayers và Arthur Saga** là số [1990](../_/1990.md) của *[Lembas-extra](<../L/Lembas_(journal).md>)*, được xuất bản bởi [Unquendor](../U/Unquendor.md). Nó được biên tập bởi [René van Rossenberg](../R/René_van_Rossenberg.md).
 
 ## Nội dung {#Contents}
 
 - [René van Rossenberg](../R/René_van_Rossenberg.md): "Lời nói đầu"
 - [Renee Vink](../R/Renée_Vink.md): "Bức tranh không khung"
-- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Arti_Ponsen&amp;action=edit&amp;redlink=1" title="Arti Ponsen (page does not exist)">Arti Ponsen</a>: "Bật Tolkien và một số lần thử lại"
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Arti_Ponsen&amp;action=edit&amp;redlink=1" title="Arti Ponsen (page does not exist)">Arti Ponsen</a>: "Về Tolkien và một số bản Rehash"
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Jerry_Nieukoop&amp;action=edit&amp;redlink=1" title="Jerry Nieukoop (page does not exist)">Jerry Nieukoop</a>: "Cái kết thất bại"
 - [Renée Vink](../R/Renée_Vink.md): "Hình ảnh của Người sáng tạo"
 - [René van Rossenberg](../R/René_van_Rossenberg.md): "Bilbo Baggins và Beeb"

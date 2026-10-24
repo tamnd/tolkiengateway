@@ -24,7 +24,7 @@ images:
 
 <i><b>Die Walküre</b></i> là vở opera thứ hai trong số bốn vở opera bao gồm *[Der Ring des Nibelungen](Der_Ring_des_Nibelungen.md)* ("The Ring of the Nibelung") của [Richard Wagner](../R/Richard_Wagner.md).
 
-Trong những năm 1930, các thành viên [Inklings](../I/Inklings.md) [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và [C.S. Lewis](../C/C.S._Lewis.md) dường như đã bắt đầu thực hiện bản dịch *Die Walküre*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Trong những năm 1930, các thành viên [Inklings](../I/Inklings.md) [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và [C.S. Lewis](../C/C.S._Lewis.md) dường như đã bắt đầu dịch *Die Walküre*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Liên kết ngoài {#External_links}
 

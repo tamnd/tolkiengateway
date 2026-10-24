@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[*Ambarkanta*Sơ đồ III](../../main/A/Ambarkanta_maps.md), của J.R.R. Tolkien.
+[*Ambarkanta* Sơ đồ III](../../main/A/Ambarkanta_maps.md), của J.R.R. Tolkien.
 
 ## Giấy phép {#Licensing}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Eileen Elgar (September 1963)"
 ---
 
-Chuyển hướng tới [Thư gửi Eileen Elgar (tháng Chín 1963)](<../L/Letter_to_Eileen_Elgar_(September_1963).md>).
+Chuyển hướng tới [Thư gửi Eileen Elgar (tháng 9 năm 1963)](<../L/Letter_to_Eileen_Elgar_(September_1963).md>).

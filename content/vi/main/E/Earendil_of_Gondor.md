@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Eärendil (King of Gondor)"
 ---
 
-Chuyển hướng tới [Eärendil (Vua Gondor)](<Eärendil_(King_of_Gondor).md>).
+Chuyển hướng đến [Eärendil (Vua Gondor)](<Eärendil_(King_of_Gondor).md>).

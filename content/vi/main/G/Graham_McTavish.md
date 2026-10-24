@@ -40,14 +40,14 @@ infobox:
 
 ## Vai trò {#Roles}
 
-- [2003](../_/2003.md): <a class="new" href="https://tolkiengateway.net/w/index.php?title=Secrets_of_Middle-Earth:_Inside_Tolkien%27s_%27The_Fellowship_of_the_Ring&amp;action=edit&amp;redlink=1" title="Secrets of Middle-Earth: Inside Tolkien&#39;s &#39;The Fellowship of the Ring (page does not exist)">Bí mật của Trung Địa: Bên trong 'The Fellowship of the Ring</a>của Tolkien: Chính anh ta / Người dẫn chương trình
-- [2003](../_/2003.md): <a class="new" href="https://tolkiengateway.net/w/index.php?title=Secrets_of_Middle-Earth:_Inside_Tolkien%27s_%27The_Return_of_the_King&amp;action=edit&amp;redlink=1" title="Secrets of Middle-Earth: Inside Tolkien&#39;s &#39;The Return of the King (page does not exist)">Bí mật của Trung Địa: Bên trong 'Sự trở lại của nhà vua</a>của Tolkien: Chính anh ta / Người dẫn chương trình
+- [2003](../_/2003.md): <a class="new" href="https://tolkiengateway.net/w/index.php?title=Secrets_of_Middle-Earth:_Inside_Tolkien%27s_%27The_Fellowship_of_the_Ring&amp;action=edit&amp;redlink=1" title="Secrets of Middle-Earth: Inside Tolkien&#39;s &#39;The Fellowship of the Ring (page does not exist)">Bí mật của Trung Địa: Bên trong 'The Fellowship of the Ring</a>của Tolkien: Chính ông ta / Người dẫn chương trình
+- [2003](../_/2003.md): <a class="new" href="https://tolkiengateway.net/w/index.php?title=Secrets_of_Middle-Earth:_Inside_Tolkien%27s_%27The_Return_of_the_King&amp;action=edit&amp;redlink=1" title="Secrets of Middle-Earth: Inside Tolkien&#39;s &#39;The Return of the King (page does not exist)">Bí mật của Trung Địa: Bên trong 'Sự trở lại của nhà vua</a>của Tolkien: Chính ông ta / Người dẫn chương trình
 - [2003](../_/2003.md): <a class="new" href="https://tolkiengateway.net/w/index.php?title=Secrets_of_Middle-Earth:_Inside_Tolkien%27s_%27Lord_of_the_Rings&amp;action=edit&amp;redlink=1" title="Secrets of Middle-Earth: Inside Tolkien&#39;s &#39;Lord of the Rings (page does not exist)">Bí mật của Trung Địa: Bên trong 'Chúa tể những chiếc nhẫn</a>của Tolkien: Chính Ngài / Người dẫn chương trình
-- [2012](../_/2012.md): [Người Hobbit: Hành trình bất ngờ](../T/The_Hobbit%253A_An_Unexpected_Journey.md) : [Dwalin](../D/Dwalin.md)
-- [2013](../_/2013.md): [Người Hobbit: Sự tàn phá của Smaug](../T/The_Hobbit%253A_The_Desolation_of_Smaug.md): Dwalin
+- [2012](../_/2012.md): [The Hobbit: An Unexpected Journey](../T/The_Hobbit%253A_An_Unexpected_Journey.md) : [Dwalin](../D/Dwalin.md)
+- [2013](../_/2013.md): [The Hobbit: The Desolation of Smaug](../T/The_Hobbit%253A_The_Desolation_of_Smaug.md): Dwalin
 - [2013](../_/2013.md): <a class="new" href="https://tolkiengateway.net/w/index.php?title=New_Zealand:_Home_of_Middle-earth&amp;action=edit&amp;redlink=1" title="New Zealand: Home of Middle-earth (page does not exist)">New Zealand: Quê hương của Trung Địa</a>: Chính Ngài
 - [2015](../_/2015.md): [Lego The Hobbit: The Video Game](../L/Lego_The_Hobbit%253A_The_Video_Game.md): Dwalin (đoạn phim lưu trữ)
-- [2014](../_/2014.md): [Người Hobbit: Trận chiến của năm đội quân](../T/The_Hobbit%253A_The_Battle_of_the_Five_Armies.md): Dwalin
+- [2014](../_/2014.md): [The Hobbit: The Battle of the Five Armies](../T/The_Hobbit%253A_The_Battle_of_the_Five_Armies.md): Dwalin
 - [2015](../_/2015.md): <a class="new" href="https://tolkiengateway.net/w/index.php?title=Recruiting_the_Five_Armies&amp;action=edit&amp;redlink=1" title="Recruiting the Five Armies (page does not exist)">Tuyển ngũ quân</a>: Chính mình
 
 <span></span>

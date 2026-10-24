@@ -13,7 +13,7 @@ categories:
   - "Sindarin nouns"
 ---
 
-<i><b>groth</b></i> hoặc <i><b>grod</b></i> là một từ [Sindarin](../S/Sindarin.md), có nghĩa là "đi sâu, cư trú dưới lòng đất".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>groth</b></i> hoặc <i><b>grod</b></i> là một từ [Sindarin](../S/Sindarin.md), có nghĩa là "đi sâu, trú ngụ dưới lòng đất".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Ví dụ {#Examples}
 

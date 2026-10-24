@@ -21,11 +21,11 @@ images:
 
 <i><b>pêl</b></i> (số nhiều *peli*) là một danh từ [Noldorin](../N/Noldorin.md) có nghĩa là "cánh đồng có rào chắn".<sup id="cite_ref-etym_1-0" class="reference"><a href="#cite_note-etym-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Từ *pêl* hoặc *pel* thường xuất hiện dưới dạng từ [Neo-Sindarin](../N/Neo-Elvish.md) được gợi ý, giữ nguyên nghĩa.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Từ *pêl* hoặc *pel* thường xuất hiện dưới dạng từ [Tân Sindarin](../N/Neo-Elvish.md) được gợi ý, vẫn giữ nguyên nghĩa.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Noldorin *pêl* là dạng con của [Old Noldorin](../K/Kornoldorin.md) *pele*, xuất phát từ gốc [PEL(ES)](PEL~34941.md#Other_versions). [Tolkien](../J/J.R.R._Tolkien.md) cũng ghi chú từ <i><a class="extiw" href="http://en.wiktionary.org/wiki/tun#Old_English" title="wiktionary:tun">tūn</a></i> ("trường có hàng rào"; được xác định là [tiếng Anh cổ](../O/Old_English.md) bởi [Christopher Tolkien](../C/Christopher_Tolkien.md)) liên quan đến *pêl*.<sup id="cite_ref-etym_1-1" class="reference"><a href="#cite_note-etym-1">[1]</a></sup>
+Noldorin *pêl* là dạng hậu duệ của [Noldorin cũ](../K/Kornoldorin.md) *pele*, bắt nguồn từ gốc [PEL(ES)](PEL~34941.md#Other_versions). [Tolkien](../J/J.R.R._Tolkien.md) cũng lưu ý từ <i><a class="extiw" href="http://en.wiktionary.org/wiki/tun#Old_English" title="wiktionary:tun">tūn</a></i> ("cánh đồng có rào chắn"; được xác định là [Tiếng Anh cổ](../O/Old_English.md) bởi [Christopher Tolkien](../C/Christopher_Tolkien.md)) liên quan đến *pêl*.<sup id="cite_ref-etym_1-1" class="reference"><a href="#cite_note-etym-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}
 

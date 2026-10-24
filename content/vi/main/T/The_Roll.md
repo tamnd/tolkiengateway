@@ -36,13 +36,13 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Manuscript</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Roll</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="The_Shire.md" title="The Shire">The Shire</a></td></tr><tr><th scope="row" class="tg-infobox-label">Creator</th><td class="tg-infobox-data"><a href="../H/Hobbits.md" title="Hobbits">Shire-historians</a></td></tr><tr><th scope="row" class="tg-infobox-label">Created in</th><td class="tg-infobox-data"><a href="Third_Age.md" title="Third Age">T.A.</a> <a href="Third_Age_3019.md" title="Third Age 3019">3019</a></td></tr><tr><th scope="row" class="tg-infobox-label">Notable for</th><td class="tg-infobox-data">List of people who fought in the <a href="../B/Battle_of_Bywater.md" title="Battle of Bywater">Battle of Bywater</a></td></tr></tbody></table>
 
-**Cuộn** là một danh sách được các nhà sử học Shire-sử học lập ra và học thuộc lòng. Cuốn sách chứa tên của tất cả những người [Hobbit](../H/Hobbits.md) đã chiến đấu trong [Trận Bywater](../B/Battle_of_Bywater.md). Trong tất cả các tài khoản của Roll, Thuyền trưởng [Meriadoc Brandybuck](../M/Meriadoc_Brandybuck.md) và [Peregrin Took](../P/Peregrin_Took.md) luôn xuất hiện ở đầu danh sách. Một số Hobbit khác trong danh sách bao gồm những người như [Samwise Gamgee](../S/Samwise_Gamgee.md), [Farmer Cotton](../F/Farmer_Cotton.md), [Young Tom](Tolman_Cotton_Junior.md), [Jolly](../W/Wilcome_Cotton_II.md) và [Nick Cotton](../B/Bowman_Cotton.md).
+**Cuộn** là một danh sách được các nhà sử học ở Quận lập và học thuộc lòng. Cuốn sách chứa tên của tất cả những [Hobbit](../H/Hobbits.md) đã chiến đấu trong [Trận chiến Bywater](../B/Battle_of_Bywater.md). Trong tất cả các tài khoản của Roll, Thuyền trưởng [Meriadoc Brandybuck](../M/Meriadoc_Brandybuck.md) và [Peregrin Took](../P/Peregrin_Took.md) dường như luôn được liệt kê đầu tiên ở đầu danh sách. Một số người Hobbit khác trong danh sách bao gồm những người như [Samwise Gamgee](../S/Samwise_Gamgee.md), [Farmer Cotton](../F/Farmer_Cotton.md), [Young Tom](Tolman_Cotton_Junior.md), [Jolly](../W/Wilcome_Cotton_II.md) và [Nick Cotton](../B/Bowman_Cotton.md).
 
 Trong những năm sau này, danh tiếng và tài sản của [Bông](../C/Cotton_Family~66362.md) bắt đầu nổi lên từ thời điểm này.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}
 
-- [Trận Bywater](../B/Battle_of_Bywater.md)
+- [Trận chiến bên bờ nước](../B/Battle_of_Bywater.md)
 
 <span></span>
 

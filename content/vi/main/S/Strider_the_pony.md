@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Strider (pony)"
 ---
 
-Chuyển hướng đến [Strider (ngựa con)](<Strider_(pony).md>).
+Chuyển hướng tới [Strider (ngựa)](<Strider_(pony).md>).

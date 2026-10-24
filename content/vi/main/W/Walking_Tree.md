@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Walking Tree Publishers"
 ---
 
-Chuyển hướng đến [Nhà xuất bản Cây biết đi](Walking_Tree_Publishers.md).
+Chuyển hướng tới [Nhà xuất bản Cây biết đi](Walking_Tree_Publishers.md).

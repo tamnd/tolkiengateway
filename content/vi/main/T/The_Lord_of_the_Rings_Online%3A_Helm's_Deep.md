@@ -42,52 +42,52 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/LOTRO_-_Helm&#39;s_Deep_logo.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/48/LOTRO_-_Helm%27s_Deep_logo.jpg/320px-LOTRO_-_Helm%27s_Deep_logo.jpg" decoding="async" loading="lazy" width="320" height="170" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/4/48/LOTRO_-_Helm%27s_Deep_logo.jpg 1.5x" data-file-width="433" data-file-height="230"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Video game</td></tr><tr><th colspan="2" class="tg-infobox-title"><span><i>The Lord of the Rings Online: Helm&#39;s Deep</i></span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Details</span></th></tr><tr><th scope="row" class="tg-infobox-label">Developer</th><td class="tg-infobox-data"><a href="Turbine.md" title="Turbine">Turbine, Inc</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="Turbine.md" title="Turbine">Turbine, Inc</a><br/><a href="../C/Codemasters.md" title="Codemasters">Codemasters</a></td></tr><tr><th scope="row" class="tg-infobox-label">Platform</th><td class="tg-infobox-data">Microsoft Windows</td></tr><tr><th scope="row" class="tg-infobox-label">Release Date</th><td class="tg-infobox-data"><a href="../_/20_November.md" title="20 November">20 November</a> <a href="../_/2013.md" title="2013">2013</a></td></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data">MMORPG</td></tr></tbody></table>
 
-<i><b>The Lord of the Rings Trực tuyến: Deep</b></i> của Helm là bản mở rộng thứ năm của trò chơi *[The Lord of the Rings Online](The_Lord_of_the_Rings_Online.md)*. Nó mở rộng thế giới bằng cách mở ra khu vực Phương Tây [Rohan](../R/Rohan.md), bao gồm thành phố [Edoras](../E/Edoras.md), từ [Gap of Rohan](../G/Gap_of_Rohan.md) phía nam và phía đông về phía [Eastfold](../E/Eastfold.md). Nó cũng giới thiệu các bản mở rộng về lối chơi thông qua hệ thống Big Battles (bản đầu tiên là tên của bản mở rộng), nâng giới hạn cấp độ lên 95, thay đổi lớp và phần mở rộng của câu chuyện sử thi. Nó đánh dấu bản mở rộng trả phí lớn cuối cùng mà Turbine sẽ phát hành trong ba năm, thay vào đó chọn phát hành các bản cập nhật miễn phí hàng quý kèm theo tiền thưởng cho người đăng ký VIP.
+<i><b>Chúa tể của những chiếc nhẫn trực tuyến: Helm's Deep</b></i> là bản mở rộng thứ năm của trò chơi *[The Lord of the Rings Online](The_Lord_of_the_Rings_Online.md)*. Nó mở rộng thế giới bằng cách mở ra vùng [Rohan](../R/Rohan.md) phía Tây, bao gồm thành phố [Edoras](../E/Edoras.md), từ [Gap of Rohan](../G/Gap_of_Rohan.md) về phía nam và phía đông về phía [Eastfold](../E/Eastfold.md). Nó cũng giới thiệu các bản mở rộng về lối chơi thông qua hệ thống Big Battles (bản đầu tiên là tên của bản mở rộng), nâng giới hạn cấp độ lên 95, thay đổi lớp và phần mở rộng của câu chuyện sử thi. Nó đánh dấu bản mở rộng trả phí lớn cuối cùng mà Turbine sẽ phát hành trong ba năm, thay vào đó chọn phát hành các bản cập nhật miễn phí hàng quý kèm theo tiền thưởng cho người đăng ký VIP.
 
 ## Cốt truyện {#Storyline}
 
-### Tập III: Đồng minh của Vua {#Volume_III:_Allies_of_the_King}
+### Tập III: Đồng minh của nhà vua {#Volume_III:_Allies_of_the_King}
 
 - **Quyển XI - Sảnh Vàng**
 - **Quyển XII - Chiến tranh ở phương Tây**
-- **Quyển XIII - Bộ Trận Hornburg**
+- **Quyển XIII - Trận chiến Hornburg**
 
 ## Cập nhật {#Updates}
 
-### Cập nhật 13: Sự phá vỡ Isengard {#Update_13:_The_Breaking_of_Isengard}
+### Cập nhật 13: Sự đột phá của Isengard {#Update_13:_The_Breaking_of_Isengard}
 
 *The Breaking of Isengard* là bản cập nhật thứ mười ba và được phát hành [ngày 14 tháng 4](../_/14_April.md), [2014](../_/2014.md).<sup id="cite_ref-Update_13_1-0" class="reference"><a href="#cite_note-Update_13-1">[1]</a></sup>
 
-**Quyển XIV - Dòng nước Isengard**
+**Quyển XIV - Vùng nước Isengard**
 
 - Phát hành một cảnh quan mới bao gồm hậu [Trận Isengard](../B/Battle_of_Isengard.md) Nan Curunir cũng như Entwood,<sup id="cite_ref-Update_13_1-1" class="reference"><a href="#cite_note-Update_13-1">[1]</a></sup> một khu vực bao gồm phần phía tây nam của Fangorn.
-- Cuốn thứ mười bốn và cũng là cuốn cuối cùng của Sử thi Tập III: Đồng minh của Vua, Vùng nước của Isengard.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
-- Dãy Núi Sương Mù, North Downs và Trollshaws cải tiến khu vực.<sup id="cite_ref-Update_13_1-2" class="reference"><a href="#cite_note-Update_13-1">[1]</a></sup>
-- Túi đựng đồ có thể thay đổi kích thước.<sup id="cite_ref-Update_13_1-3" class="reference"><a href="#cite_note-Update_13-1">[1]</a></sup>
-- Tăng cấp độ từ cấp 20 trở lên cho người chơi trong Ettenmoors và thẻ tạm thời Ettenmoors để chơi miễn phí có thể mua được bằng Xu Mithril.<sup id="cite_ref-Update_13_1-4" class="reference"><a href="#cite_note-Update_13-1">[1]</a></sup>
+- Cuốn sách thứ mười bốn và cuối cùng của Sử thi Tập III: Đồng minh của nhà vua, Vùng nước của Isengard.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- Cải tạo khu vực Misty Mountains, North Downs và Trollshaws.<sup id="cite_ref-Update_13_1-2" class="reference"><a href="#cite_note-Update_13-1">[1]</a></sup>
+- Túi tồn kho có thể thay đổi kích thước.<sup id="cite_ref-Update_13_1-3" class="reference"><a href="#cite_note-Update_13-1">[1]</a></sup>
+- Tăng cấp độ từ cấp 20 trở lên cho người chơi trong Ettenmoors và thẻ Ettenmoors tạm thời để mua miễn phí khi chơi bằng Xu Mithril.<sup id="cite_ref-Update_13_1-4" class="reference"><a href="#cite_note-Update_13-1">[1]</a></sup>
 
 ### Cập nhật 14: Con đường chết {#Update_14:_Paths_of_the_Dead}
 
 *Paths of the Dead* là bản cập nhật thứ mười bốn và được phát hành [14 tháng 7](../_/14_July.md), [2014](../_/2014.md).<sup id="cite_ref-Update_14_3-0" class="reference"><a href="#cite_note-Update_14-3">[3]</a></sup>
 
-**Tập IV: Thế mạnh của Sauron** **Quyển I - Đường Về Gondor**
+**Tập IV: Sức mạnh của Sauron** **Quyển I - Đường tới Gondor**
 
-- Giải phóng vùng Phương Tây Gondor, bao gồm các khu vực [Con đường của người chết](../P/Paths_of_the_Dead.md), [Blackroot Vale](../B/Blackroot_Vale.md), [Lamedon](../L/Lamedon.md), Cảng [Belfalas](../B/Belfalas.md) và [Dol Amroth](../D/Dol_Amroth.md).<sup id="cite_ref-Update_14_3-1" class="reference"><a href="#cite_note-Update_14-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
-- Bộ sử thi mới,<sup id="cite_ref-Update_14_3-2" class="reference"><a href="#cite_note-Update_14-3">[3]</a></sup> Tập IV: Sức mạnh của Sauron, bắt đầu từ Quyển 1: Con đường tới Gondor.
+- Giải phóng vùng Tây Gondor, bao gồm các khu vực [Con đường của người chết](../P/Paths_of_the_Dead.md), [Blackroot Vale](../B/Blackroot_Vale.md), [Lamedon](../L/Lamedon.md), Cảng [Belfalas](../B/Belfalas.md) và [Dol Amroth](../D/Dol_Amroth.md).<sup id="cite_ref-Update_14_3-1" class="reference"><a href="#cite_note-Update_14-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+- Bộ sử thi mới,<sup id="cite_ref-Update_14_3-2" class="reference"><a href="#cite_note-Update_14-3">[3]</a></sup> Tập IV: Sức mạnh của Sauron, bắt đầu từ Quyển 1: Đường đến Gondor.
 - Hệ thống Tinh hoa, cho phép các áo giáp có rãnh đặc biệt được trang bị nhiều loại Tinh chất để có các chỉ số có thể tùy chỉnh.<sup id="cite_ref-Update_14_3-3" class="reference"><a href="#cite_note-Update_14-3">[3]</a></sup>
 - Tăng giới hạn cấp độ lên 100.<sup id="cite_ref-Update_14_3-4" class="reference"><a href="#cite_note-Update_14-3">[3]</a></sup>
-- Khu vực [Đầm lầy Chết](../D/Dead_Marshes.md) đã được thêm vào sau trong Bản cập nhật nhỏ 14.2, phát hành tháng Chín 15, 2014. Khu vực này bao gồm một Phiên chơi có Frodo, Samwise và Gollum băng qua đầm lầy, chọn nhân vật người chơi là Sam.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+- Khu vực [Đầm lầy chết](../D/Dead_Marshes.md) đã được thêm vào sau trong Bản cập nhật nhỏ 14.2, phát hành ngày 15 tháng 9 năm 2014. Khu vực này bao gồm một Phiên chơi có cảnh Frodo, Samwise và Gollum băng qua đầm lầy, chọn nhân vật người chơi là Sam.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
-### Cập nhật 15: Gondor Ngọn lửa {#Update_15:_Gondor_Aflame}
+### Cập nhật 15: Ngọn lửa Gondor {#Update_15:_Gondor_Aflame}
 
 *Gondor Aflame*<sup id="cite_ref-U15_Announcement_6-0" class="reference"><a href="#cite_note-U15_Announcement-6">[6]</a></sup> là bản cập nhật thứ mười lăm và được phát hành vào ngày 4 tháng 11 năm 2014.<sup id="cite_ref-Update_15_7-0" class="reference"><a href="#cite_note-Update_15-7">[7]</a></sup>
 
 **Quyển II - Ngày bình minh**
 
-- Khu vực miền Trung Gondor, bao gồm [Ringló Vale](../R/Ringló_Vale.md), [Dor-en-Ernil](../D/Dor-en-Ernil.md), [Lebennin](../L/Lebennin.md) và [Pelargir](../P/Pelargir.md).<sup id="cite_ref-U15_Announcement_6-1" class="reference"><a href="#cite_note-U15_Announcement-6">[6]</a></sup><sup id="cite_ref-Update_15_7-1" class="reference"><a href="#cite_note-Update_15-7">[7]</a></sup>
+- Khu vực Trung tâm Gondor, bao gồm [Ringló Vale](../R/Ringló_Vale.md), [Dor-en-Ernil](../D/Dor-en-Ernil.md), [Lebennin](../L/Lebennin.md) và [Pelargir](../P/Pelargir.md).<sup id="cite_ref-U15_Announcement_6-1" class="reference"><a href="#cite_note-U15_Announcement-6">[6]</a></sup><sup id="cite_ref-Update_15_7-1" class="reference"><a href="#cite_note-Update_15-7">[7]</a></sup>
 - Tôn vinh chủng tộc và đẳng cấp.<sup id="cite_ref-U15_Announcement_6-2" class="reference"><a href="#cite_note-U15_Announcement-6">[6]</a></sup><sup id="cite_ref-Update_15_7-2" class="reference"><a href="#cite_note-Update_15-7">[7]</a></sup>
 - Sử thi tập IV quyển 2: Ngày bình minh.<sup id="cite_ref-Update_15_7-3" class="reference"><a href="#cite_note-Update_15-7">[7]</a></sup>
-- Trận chiến hoành tráng mới, chiếm lại Pelargir.<sup id="cite_ref-Update_15_7-4" class="reference"><a href="#cite_note-Update_15-7">[7]</a></sup> Ban đầu chỉ có ở chế độ solo/duo, phiên bản đồng đội đầy đủ được phát hành vào ngày 4 tháng 2 năm 2015 với Bản cập nhật 15.2.<sup id="cite_ref-Update_15.2_8-0" class="reference"><a href="#cite_note-Update_15.2-8">[8]</a></sup>
+- Trận chiến hoành tráng mới, chiếm lại Pelargir.<sup id="cite_ref-Update_15_7-4" class="reference"><a href="#cite_note-Update_15-7">[7]</a></sup> Ban đầu chỉ có ở chế độ solo/duo, phiên bản học bổng đầy đủ được phát hành vào ngày 4 tháng 2 năm 2015 với Bản cập nhật 15.2.<sup id="cite_ref-Update_15.2_8-0" class="reference"><a href="#cite_note-Update_15.2-8">[8]</a></sup>
 - Mối đe dọa lưu động, một loại nội dung nhóm theo bối cảnh mở mới.<sup id="cite_ref-Update_15_7-5" class="reference"><a href="#cite_note-Update_15-7">[7]</a></sup> Các mối đe dọa lưu động bổ sung đã được thêm vào các khu vực khác của trò chơi bắt đầu từ Bản cập nhật 15.2<sup id="cite_ref-Update_15.2_8-1" class="reference"><a href="#cite_note-Update_15.2-8">[8]</a></sup>
 
 ### Cập nhật 16: Tro tàn của Osgiliath {#Update_16:_Ashes_of_Osgiliath}
@@ -96,9 +96,9 @@ infobox:
 
 **Quyển III - Tiếng nói của quá khứ**
 
-- Khu vực phía Đông Gondor, gồm Thượng Lebennin, Lossarnach, South Ithilien và Osgiliath.<sup id="cite_ref-Update_16_9-1" class="reference"><a href="#cite_note-Update_16-9">[9]</a></sup>
+- Khu vực Đông Gondor, bao gồm Thượng Lebennin, Lossarnach, Nam Ithilien và Osgiliath.<sup id="cite_ref-Update_16_9-1" class="reference"><a href="#cite_note-Update_16-9">[9]</a></sup>
 - Sử thi Tập IV Quyển 3: Tiếng nói của quá khứ.<sup id="cite_ref-Update_16_9-2" class="reference"><a href="#cite_note-Update_16-9">[9]</a></sup>
-- Vũ khí và khiên trang trí, nhiều mối đe dọa lưu động hơn và bản đồ PvMP mới trong Osgiliath đã được phát hành cùng với Bản cập nhật 16.2 vào ngày 17 tháng 7 năm 2015. Một loạt nhiệm vụ mới có nội dung nhiều tập hàng tuần, theo sau cuộc phiêu lưu của Hobbit Bingo Boffin, đã được bắt đầu vào thứ Tư sau bản cập nhật, vào ngày 22 tháng 7.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
+- Vũ khí và khiên trang trí, nhiều mối đe dọa lưu động hơn và bản đồ PvMP mới đặt ở Osgiliath đã được phát hành cùng với Bản cập nhật 16.2 vào ngày 17 tháng 7 năm 2015. Một chuỗi nhiệm vụ mới gồm nội dung nhiều tập hàng tuần, theo sau cuộc phiêu lưu của Hobbit Bingo Boffin, đã được bắt đầu vào thứ Tư sau bản cập nhật, vào ngày 22 tháng 7.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
 
 ### Cập nhật 17: Cuộc vây hãm Minas Tirith {#Update_17:_The_Siege_of_Minas_Tirith}
 
@@ -106,38 +106,38 @@ infobox:
 
 **Quyển IV - Cuộc vây hãm Thành phố Trắng**
 
-- Khu vực Cũ Anórien, bao gồm [Minas Tirith](../M/Minas_Tirith.md), [cánh đồng Pelennor](../P/Pelennor_Fields.md) và Talath Anor.
+- Khu vực Old Anórien, bao gồm [Minas Tirith](../M/Minas_Tirith.md), [Cánh đồng Pelennor](../P/Pelennor_Fields.md) và Talath Anor.
 - Sử thi Tập IV Quyển 4: Cuộc vây hãm Thành phố Trắng
 - Cấp chế tạo mới, chuyển đổi vũ khí mỹ phẩm ẩn.
-- Trận chiến sử thi mới: Bảo vệ Minas Tirith, Búa của thế giới ngầm.
+- Trận chiến lịch sử mới: Bảo vệ Minas Tirith, Búa của thế giới ngầm.
 
-### Cập nhật 18: Trận chiến cánh đồng Pelennor {#Update_18:_The_Battle_of_Pelennor_Fields}
+### Cập nhật 18: Trận chiến trên cánh đồng Pelennor {#Update_18:_The_Battle_of_Pelennor_Fields}
 
 *The Battle of Pelennor fields* là bản cập nhật thứ mười tám và được phát hành [ngày 11 tháng 4](../_/11_April.md) [2016](../_/2016.md).
 
-**Quyển V - Chuyến đi của Rohirrim** **Quyển VI - Trận chiến cánh đồng Pelennor**
+**Quyển V - Chuyến đi của người Rohirrim** **Quyển VI - Trận chiến trên cánh đồng Pelennor**
 
-- Vùng Viễn Anórien, bao gồm [Taur Drúadan](../D/Drúadan_Forest.md), [Đồi Beacon](../W/Warning_beacons_of_Gondor.md) và cánh đồng Pelennor trong trận chiến.
+- Khu vực Far Anórien, bao gồm [Taur Drúadan](../D/Drúadan_Forest.md), [Beacon Hills](../W/Warning_beacons_of_Gondor.md) và Cánh đồng Pelennor trong trận chiến.
 - Cụm phiên bản bao gồm hai phiên bản 3 người (The Quays of the Harlond, The Blood of the Black Serpent), một phiên bản 6 người (The Silent Street) và một phiên bản đột kích 12 người (Throne of the Dread Terror).
-- Sử thi Tập IV Quyển 5: Chuyến đi của Rohirrim và Quyển 6: Trận chiến của cánh đồng Pelennor.
+- Sử thi Tập IV Quyển 5: Chuyến đi của người Rohirrim và Quyển 6: Trận chiến trên cánh đồng Pelennor.
 
-### Cập nhật 19: Tháng 3 của Vua {#Update_19:_March_of_the_King}
+### Cập nhật 19: Cuộc hành quân của nhà vua {#Update_19:_March_of_the_King}
 
 *March of the King* là bản cập nhật thứ 19 và được phát hành [ngày 14 tháng 10](../_/14_October.md), [2016](../_/2016.md).
 
-**Quyển VII - Tháng Ba Vua**
+**Quyển VII - Cuộc hành quân của nhà vua**
 
-- Khu vực hành quân của Vua, bao gồm [Bắc Ithilien](../N/North_Ithilien.md), sau trận Minas Tirith, sau trận Osgiliath và sau trận cánh đồng Pelennor.
+- Khu vực March of the King, bao gồm [Bắc Ithilien](../N/North_Ithilien.md), sau trận chiến Minas Tirith, sau trận chiến Osgiliath và sau trận chiến Pelennor Fields.
 - Hệ thống trao đổi thực vật để đổi trang bị mới lấy hoa.
-- Sử thi Tập IV Quyển 7: Tháng Ba của Vua.
+- Sử thi tập IV quyển 7: Cuộc hành quân của nhà vua.
 
 ### Cập nhật 20: Trận chiến Cổng Đen {#Update_20:_Battle_of_the_Black_Gate}
 
 *Battle of the Black Gate* là bản cập nhật thứ 20 và được phát hành [21 tháng 3](../_/21_March.md), [2017](../_/2017.md).
 
-**Quyển VIII - Trận Cổng Đen**
+**Quyển VIII - Trận chiến cổng đen**
 
-- Khu vực Wastes, bao gồm vùng đất Noman, [Đồi xỉ](../S/Slag-hills.md) và [Dagorlad](../D/Dagorlad.md) bao quanh [Cổng Đen](../B/Black_Gate.md).
+- Khu vực Wastes, bao gồm Noman-lands, [Slag-hills](../S/Slag-hills.md) và [Dagorlad](../D/Dagorlad.md) bao quanh [Cổng đen](../B/Black_Gate.md).
 - Vật phẩm danh tiếng mới để đổi lấy áo giáp.
 - Sử thi Tập IV Quyển 8: Trận chiến Cổng Đen.
 

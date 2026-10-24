@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lord of the Rings: The Two Towers (video game)"
 ---
 
-Chuyển hướng đến [The Lord of the Rings: The Two Towers (trò chơi điện tử)](<../T/The_Lord_of_the_Rings%253A_The_Two_Towers_(video_game).md>).
+Chuyển hướng đến [The Lord of the Rings: The Two Towers (video game)](<../T/The_Lord_of_the_Rings%253A_The_Two_Towers_(video_game).md>).

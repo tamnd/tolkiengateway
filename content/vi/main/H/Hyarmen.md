@@ -21,13 +21,13 @@ images:
 
 <figure class="mw-default-size mw-halign-left" typeof="mw:File"><a class="mw-file-description" href="../../file/H/Hyarmen.gif.md"><img src="https://tolkiengateway.net/w/images/1/14/Hyarmen.gif" decoding="async" loading="lazy" width="53" height="65" class="mw-file-element" data-file-width="53" data-file-height="65"/></a><figcaption></figcaption></figure>
 
-*Hyarmen* cũng là tên trong Quenya của chữ cái thứ ba mươi ba của bảng chữ cái [Tengwar](../T/Tengwar.md).<sup id="cite_ref-Names_1-1" class="reference"><a href="#cite_note-Names-1">[1]</a></sup> Về nguồn gốc, nó là một biến thể của *[Harma](Harma.md)* (chữ cái 11) và đại diện cho **HY**,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> nhưng theo [Kỷ Đệ Tam](../T/Third_Age.md) thì nó thường đại diện cho **H**.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Nó là một trong những tên được biết đến và sử dụng rộng rãi nhất trong tất cả các tên Tengwar vì nó biểu thị "miền nam" ngay cả trong các ngôn ngữ sử dụng thuật ngữ rất khác.<sup id="cite_ref-Names_1-2" class="reference"><a href="#cite_note-Names-1">[1]</a></sup> Tên Westron của chữ cái này là <i><b>Há</b></i>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+*Hyarmen* cũng là tên bằng tiếng Quenya của chữ cái thứ ba mươi ba trong bảng chữ cái [Tengwar](../T/Tengwar.md).<sup id="cite_ref-Names_1-1" class="reference"><a href="#cite_note-Names-1">[1]</a></sup> Về nguồn gốc, nó là một biến thể của *[Harma](Harma.md)* (chữ cái 11) và đại diện cho **HY**,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> nhưng đến [Thời thứ ba](../T/Third_Age.md), nó thường đại diện cho **H**.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> được biết đến và sử dụng rộng rãi trong tất cả các chữ Tengwar vì nó chỉ "miền nam" ngay cả trong các ngôn ngữ sử dụng thuật ngữ rất khác.<sup id="cite_ref-Names_1-2" class="reference"><a href="#cite_note-Names-1">[1]</a></sup> Tên tiếng Tây phương của chữ cái này là <i><b>Há</b></i>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 <br>
 
 ## Từ nguyên {#Etymology}
 
-Ở vùng đất Phương Tây của [Trung Địa](../M/Middle-earth.md), bốn hướng chính là *[Númen](../N/Númen.md), Hyarmen, [Rómen](../R/Rómen.md),* và *[Formen](../F/Formen.md)*, và chúng được đặt tên theo thứ tự này, bắt đầu bằng (và quay mặt về phía tây). *Hyarmen* nghĩa là vùng bên trái và *Formen* nghĩa là vùng bên phải.<sup id="cite_ref-Names_1-3" class="reference"><a href="#cite_note-Names-1">[1]</a></sup> Do đó, từ "phía nam" bắt nguồn từ [Primitive Quendian](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=KHYAR&amp;action=edit&amp;redlink=1" title="KHYAR (page does not exist)">KHYAR</a>, nghĩa là "tay trái", cộng với [MEN](../M/MEN~35108.md) biểu thị hướng.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Ở các vùng đất phía Tây của [Trung địa](../M/Middle-earth.md) bốn hướng chính là *[Númen](../N/Númen.md), Hyarmen, [Rómen](../R/Rómen.md),* và *[Formen](../F/Formen.md)*, và chúng được đặt tên theo thứ tự này, bắt đầu bằng (và quay mặt về phía tây). *Hyarmen* có nghĩa là vùng bên trái và *Formen* có nghĩa là vùng bên phải.<sup id="cite_ref-Names_1-3" class="reference"><a href="#cite_note-Names-1">[1]</a></sup> Do đó, từ "phía nam" bắt nguồn từ [Quendian nguyên thủy](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=KHYAR&amp;action=edit&amp;redlink=1" title="KHYAR (page does not exist)">KHYAR</a>, có nghĩa là "tay trái", cộng với [MEN](../M/MEN~35108.md) biểu thị hướng.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Ví dụ {#Examples}
 
@@ -37,7 +37,7 @@ images:
 ## Xem thêm {#See_also}
 
 - Quenya *[Formen](../F/Formen.md)* ("phía bắc")
-- <a class="external text" href="http://www.uib.no/People/hnohf/qlist.htm" rel="noreferrer noopener" target="_blank">Quenya Danh sách từ ngữ liệu</a> được chỉnh sửa bởi [Helge Fauskanger](Helge_Fauskanger.md)
+- <a class="external text" href="http://www.uib.no/People/hnohf/qlist.htm" rel="noreferrer noopener" target="_blank">Danh sách từ Quenya Corpus</a> được chỉnh sửa bởi [Helge Fauskanger](Helge_Fauskanger.md)
 
 <span></span>
 

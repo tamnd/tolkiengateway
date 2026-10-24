@@ -43,7 +43,7 @@ Khi còn trẻ, bà đã xuất bản một số bài thơ và từ [1969](../_/
 
 Vào [1977](../_/1977.md), nữ thi sĩ góa bụa đã chuyển đến sống với con gái mình <a class="new" href="https://tolkiengateway.net/w/index.php?title=Thelma_von_Freymann&amp;action=edit&amp;redlink=1" title="Thelma von Freymann (page does not exist)">Thelma von Freymann</a>, sống gần Hildesheim. Ở đó, bà đã dịch, với sự giúp đỡ của con gái, mọi bài thơ trong tuyển tập *[The Adventures of Tom Bombadil](../T/The_Adventures_of_Tom_Bombadil.md)* (xuất bản dưới tên *Die Abenteuer des Tom Bombadil* trong [1984](../_/1984.md)), trong khi Thelma von Freymann dịch lời nói đầu.
 
-Trong [1991](../_/1991.md) cô đã dịch bài thơ [Bilbo Bài hát cuối cùng](../B/Bilbo's_Last_Song.md) (*Bilbos Abschiedslied*).
+Trong [1991](../_/1991.md) cô đã dịch bài thơ [Bài hát cuối cùng của Bilbo](../B/Bilbo's_Last_Song.md) (*Bilbos Abschiedslied*).
 
 ## Liên kết ngoài {#External_links}
 

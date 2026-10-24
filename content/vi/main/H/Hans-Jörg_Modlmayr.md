@@ -27,18 +27,18 @@ langlinks:
 
 **Hans-Jörg Modlmayr** (sinh [6 tháng 3](../_/6_March.md) [1940](../_/1940.md)) là một tác giả và phát thanh viên người Đức. Anh học lịch sử và tiếng Anh tại Peterhouse College ở [Cambridge](../C/Cambridge.md). Sau khi tốt nghiệp, ông dạy tiếng Đức tại Cao đẳng Gonville & Caius và Khoa tiếng Đức của Đại học Cambridge.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Khi học ở Cambridge, Modlmayr đã làm quen với các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) ở [1964](../_/1964.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Vào ngày [27 tháng 7](../_/27_July.md) [1966](../_/1966.md), Modlmayr và [J.S. Ryan](../J/John_Ryan.md) đã đến thăm [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) mà không được mời. Tuy nhiên, Tolkien đã dành thời gian trò chuyện với họ và cho họ xem bản dịch các tác phẩm của mình.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Khi học tại Cambridge, Modlmayr đã làm quen với các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) ở [1964](../_/1964.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Vào ngày [27 tháng 7](../_/27_July.md) [1966](../_/1966.md), Modlmayr và [J.S. Ryan](../J/John_Ryan.md) đã đến thăm [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) mà không được mời. Tuy nhiên, Tolkien đã dành thời gian nói chuyện với họ và cho họ xem bản dịch các tác phẩm của mình.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
-Một bộ sưu tập thư từ Tolkien gửi Modlmayr được [bán](../J/J.A._Stargardt_Katalog_698.md) vào tháng 6 năm 2012.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Một bộ sưu tập các bức thư từ Tolkien gửi Modlmayr được [bán](../J/J.A._Stargardt_Katalog_698.md) vào tháng 6 năm 2012.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Thư mục, đã chọn {#Bibliography,_selected}
 
 ### Bài viết {#Articles}
 
 - [1983](../_/1983.md): *Deutsches Allgemeines Sonntagsblatt* (1983, số 36)
-    - "Die ahnungsvollen Tintenklekser. J.R.R. Tolkien – dem Autor des 'Herrn der Ringe' und des 'Hobbit' - zum 10. Todestag am 2. tháng Chín" (ấn phẩm tưởng niệm 10 năm ngày mất của J.R.R. Tolkien)
+    - "Die ahnungsvollen Tintenklekser. J.R.R. Tolkien – dem Autor des 'Herrn der Ringe' und des 'Hobbit' - zum 10. Todestag am 2. November" (một ấn phẩm tưởng niệm nhân kỷ niệm 10 năm ngày mất của J.R.R. Tolkien)
 - [1992](../_/1992.md): *[Inklings: Jahrbuch für Literatur und Ästhetik](../I/Inklings%253A_Jahrbuch_für_Literatur_und_Ästhetik.md)*, Quyển. 10 (Kranz, Gisbert, chủ biên). Đức: Stier.
-    - "Ảo tưởng tạo nên những người bạn cùng giường kỳ lạ: Mein Besuch bei Tolkien und die Folgen" (trang 275–282; từ kỷ yếu của Das Internationale Tolkien-Symposion, Aachen 7–9 tháng 1 năm 1992)
+    - "Ảo tưởng tạo nên những người bạn chung giường kỳ lạ: Mein Besuch bei Tolkien und die Folgen" (trang 275–282; từ quá trình tố tụng của Das Internationale Tolkien-Symposion, Aachen 7–9 tháng 1 năm 1992)
 
 <span></span>
 

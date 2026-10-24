@@ -29,7 +29,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tolrone_-_Eonwe.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/42/Tolrone_-_Eonwe.jpg/320px-Tolrone_-_Eonwe.jpg" decoding="async" loading="lazy" width="320" height="215" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/42/Tolrone_-_Eonwe.jpg/480px-Tolrone_-_Eonwe.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/42/Tolrone_-_Eonwe.jpg/640px-Tolrone_-_Eonwe.jpg 2x" data-file-width="1280" data-file-height="861"/></a><figcaption><i>Eonwe</i> by <a href="../../category/I/Images_by_Tolrone.md" title="Category:Images by Tolrone">Tolrone</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Sword</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Sword of Manwë</span></th></tr><tr><th scope="row" class="tg-infobox-label">Owner</th><td class="tg-infobox-data"><a href="../M/Manwë.md" title="Manwë">Manwë</a>, <a href="../E/Eönwë.md" title="Eönwë">Eönwë</a></td></tr></tbody></table>
 
-**thanh kiếm [Manwë](../M/Manwë.md)** là một [vũ khí](../../category/W/Weapons.md) mà [Vala](../V/Valar.md) nói trên mang theo bên mình trong [Chiến tranh quyền lực](../W/War_of_the_Powers.md) và sau đó được sứ giả của anh ta [Eönwë](../E/Eönwë.md) sử dụng trong [Chiến tranh thịnh nộ](../W/War_of_Wrath.md).
+**Thanh kiếm của [Manwë](../M/Manwë.md)** là một [vũ khí](../../category/W/Weapons.md) mà [Vala](../V/Valar.md) nói trên đã mang theo bên mình trong [Chiến tranh quyền lực](../W/War_of_the_Powers.md) và sau này được sứ giả [Eönwë](../E/Eönwë.md) của ông sử dụng trong [Chiến tranh Phẫn nộ](../W/War_of_Wrath.md).
 
 ## Lịch sử {#History}
 
@@ -41,7 +41,7 @@ Lần đầu tiên đề cập đến loại vũ khí như vậy xảy ra trong 
 <p class="tg-quote-footer"><cite><i><a href="../M/Morgoth&#39;s_Ring.md" title="Morgoth&#39;s Ring">Morgoth&#39;s Ring</a></i>, &#34;<a class="mw-redirect" href="../A/Annals_of_Aman.md" title="Annals of Aman">Annals of Aman</a>&#34;<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></cite></p>
 </blockquote>
 
-Sau đó, nhiều thiên niên kỷ sau, người ta kể rằng Manwë đã trao thanh kiếm của mình cho [Eönwë](../E/Eönwë.md) sứ giả của mình,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>, người đã lãnh đạo [Chủ nhà của Valar](../H/Host_of_the_Valar.md) trong [Chiến tranh Phẫn nộ](../W/War_of_Wrath.md), nơi [Morgoth](../M/Morgoth.md) cuối cùng đã bị đánh bại.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Sau đó, nhiều thiên niên kỷ sau, người ta kể rằng Manwë đã trao thanh kiếm của mình cho [Eönwë](../E/Eönwë.md) sứ giả của mình,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>, người đã lãnh đạo [Chủ nhà của các Valar](../H/Host_of_the_Valar.md) trong [Chiến tranh Phẫn nộ](../W/War_of_Wrath.md), nơi [Morgoth](../M/Morgoth.md) cuối cùng đã bị đánh bại.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Xem thêm {#See_also}
 

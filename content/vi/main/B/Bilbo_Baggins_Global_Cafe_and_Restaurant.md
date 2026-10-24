@@ -13,7 +13,7 @@ categories:
   - "American businesses"
 ---
 
-**Bilbo Baggins Nhà hàng và quán cà phê rượu vang toàn cầu** là một nhà hàng nằm ở Alexandria, Virginia với chủ đề không ai khác ngoài [Bilbo Baggins](Bilbo_Baggins.md) và [Hobbit](../H/Hobbits.md). Nó được mở vào [1980](../_/1980.md) bởi Michael Armellino và đóng cửa vĩnh viễn vào [2020](../_/2020.md).<sup id="cite_ref-living_1-0" class="reference"><a href="#cite_note-living-1">[1]</a></sup><sup id="cite_ref-connection_2-0" class="reference"><a href="#cite_note-connection-2">[2]</a></sup>
+**Nhà hàng và quán rượu toàn cầu Bilbo Baggins** là một nhà hàng nằm ở Alexandria, Virginia, có chủ đề xoay quanh [Bilbo Baggins](Bilbo_Baggins.md) và [Hobbit](../H/Hobbits.md). Nó được Michael Armellino mở vào [1980](../_/1980.md) và đóng cửa vĩnh viễn vào [2020](../_/2020.md).<sup id="cite_ref-living_1-0" class="reference"><a href="#cite_note-living-1">[1]</a></sup><sup id="cite_ref-connection_2-0" class="reference"><a href="#cite_note-connection-2">[2]</a></sup>
 
 <span></span>
 

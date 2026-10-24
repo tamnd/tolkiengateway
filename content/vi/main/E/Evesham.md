@@ -18,7 +18,7 @@ langlinks:
     url: "https://kontu.wiki/Evesham"
 ---
 
-Gia đình của [Mabel Suffield](../M/Mabel_Suffield.md) sống ở **Evesham**, Worcestershire qua nhiều thế hệ và trang trại của anh trai [Tolkien](../J/J.R.R._Tolkien.md) [Hilary](../H/Hilary_Tolkien.md)nằm gần Evesham.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Tolkien nói rằng Worcestershire giống như nhà của anh ấy hơn bất kỳ nơi nào khác trên thế giới.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
+Gia đình của [Mabel Suffield](../M/Mabel_Suffield.md) sống ở **Evesham**, Worcestershire qua nhiều thế hệ và trang trại của anh trai [Tolkien](../J/J.R.R._Tolkien.md) là [Hilary](../H/Hilary_Tolkien.md) nằm gần Evesham.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Tolkien nói rằng Worcestershire giống như quê hương của ông hơn bất kỳ nơi nào khác trên thế giới.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

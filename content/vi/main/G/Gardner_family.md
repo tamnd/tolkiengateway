@@ -25,9 +25,9 @@ langlinks:
     url: "https://kontu.wiki/Tarhuri"
 ---
 
-**Gia đình Gardner**, còn được gọi chung là **Những người làm vườn của [đồi](../H/Hobbiton_Hill.md)**, là tên gia đình được đặt bởi con cháu của [Samwise Gamgee](../S/Samwise_Gamgee.md) và [Rose Cotton](../R/Rose_Cotton.md) để vinh danh việc Sam trồng lại [ Shire](../T/The_Shire.md) sau [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md).<sup id="cite_ref-long_1-0" class="reference"><a href="#cite_note-long-1">[1]</a></sup>
+**Gia đình Gardner**, còn được gọi chung là **Những người làm vườn của [the Hill](../H/Hobbiton_Hill.md)**, là tên gia đình được lấy bởi con cháu của [Samwise Gamgee](../S/Samwise_Gamgee.md) và [Rose Cotton](../R/Rose_Cotton.md) để vinh danh việc Sam tái trồng [Quận](../T/The_Shire.md) sau [Chiến tranh Thế giới thứ hai Đổ chuông](../W/War_of_the_Ring.md).<sup id="cite_ref-long_1-0" class="reference"><a href="#cite_note-long-1">[1]</a></sup>
 
-Gia đình, một nhánh trong số đó là [Fairbairns of the Towers](../F/Fairbairn_family.md), đã trở thành một gia đình quan trọng và có ảnh hưởng của [Shire-hobbit](../S/Shire-hobbits.md) ở [Kỷ Đệ Tứ](../F/Fourth_Age.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Gia tộc, một nhánh trong số đó là [Fairbairns of the Towers](../F/Fairbairn_family.md), đã trở thành một gia đình quan trọng và có ảnh hưởng của [Hobbit ở Quận](../S/Shire-hobbits.md) ở [Kỷ nguyên thứ tư](../F/Fourth_Age.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Cây gia phả Gardner<sup id="cite_ref-long_1-1" class="reference"><a href="#cite_note-long-1">[1]</a></sup> {#The_Gardner_family_tree[1]}
 

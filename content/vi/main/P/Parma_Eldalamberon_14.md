@@ -41,26 +41,26 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/P/Parma_Eldalamberon_14.png.md"><img src="https://tolkiengateway.net/w/images/thumb/8/89/Parma_Eldalamberon_14.png/320px-Parma_Eldalamberon_14.png" decoding="async" loading="lazy" width="320" height="414" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/89/Parma_Eldalamberon_14.png/480px-Parma_Eldalamberon_14.png 1.5x, https://tolkiengateway.net/w/images/thumb/8/89/Parma_Eldalamberon_14.png/640px-Parma_Eldalamberon_14.png 2x" data-file-width="2487" data-file-height="3221"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Parma Eldalamberon 14<br/><small>Early Qenya and Valmaric</small></span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="Patrick_H._Wynne.md" title="Patrick H. Wynne">Patrick H. Wynne</a>, <a href="../C/Christopher_Gilson.md" title="Christopher Gilson">Christopher Gilson</a>, <a href="../C/Carl_F._Hostetter.md" title="Carl F. Hostetter">Carl F. Hostetter</a>, <a href="../B/Bill_Welden.md" title="Bill Welden">Bill Welden</a>, and <a href="../A/Arden_R._Smith.md" title="Arden R. Smith">Arden R. Smith</a></td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data">Adam Christensen (front and back cover)</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../E/Elvish_Linguistic_Fellowship.md" title="Elvish Linguistic Fellowship">Elvish Linguistic Fellowship</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/23_December.md" title="23 December">23 December</a> <a href="../_/2003.md" title="2003">2003</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback journal</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">136</td></tr></tbody></table>
 
-<i><b>Parma Eldalamberon 14: Early Qenya và Valmaric</b></i> là số thứ mười bốn của *[Parma Eldalamberon](Parma_Eldalamberon.md)*, một tạp chí nghiên cứu ngôn ngữ học về các ngôn ngữ Elvish và tên trong các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Số này đã được sửa lại vào năm 2010 cho lần in thứ hai.
+<i><b>Parma Eldalamberon 14: Early Qenya và Valmaric</b></i> là số thứ mười bốn của *[Parma Eldalamberon](Parma_Eldalamberon.md)*, một tạp chí nghiên cứu ngôn ngữ học về các ngôn ngữ và tên của người Tiên trong các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Số này đã được sửa lại vào năm 2010 cho lần in thứ hai.
 
 <div class="template-prevnext"><div class="template-prevnext__prev template-prevnext__link"><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/8/81/WikimediaUI-ArrowPrevious-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__content"><div class="template-prevnext__title">Parma Eldalamberon 13</div></div><div class="template-prevnext__linkoverlay"><a href="Parma_Eldalamberon_13.md" title="Parma Eldalamberon 13">Parma Eldalamberon 13</a></div></div><div class="template-prevnext__current"><div class="template-prevnext__content"><div class="template-prevnext__title">Parma Eldalamberon 14</div></div></div><div class="template-prevnext__next template-prevnext__link"><div class="template-prevnext__content"><div class="template-prevnext__title">Parma Eldalamberon 15</div></div><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/7b/WikimediaUI-ArrowNext-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__linkoverlay"><a href="Parma_Eldalamberon_15.md" title="Parma Eldalamberon 15">Parma Eldalamberon 15</a></div></div></div>
 
 ## Nội dung {#Contents}
 
-- Bìa: "Chúa tể của Biển" — Adam Christensen
+- Bìa: "Chúa tể biển cả" — Adam Christensen
 
-- "Các mảnh Qenya sớm" — J.R.R. Tolkien, eds. Patrick H. Wynne và Christopher Gilson
+- "Những mảnh vỡ Qenya đầu tiên" — J.R.R. Tolkien, eds. Patrick H. Wynne và Christopher Gilson
     - Các sinh vật trên Trái đất
-    - Tên của Valar
+    - Tên của các Valar
     - Otsan và Kainendan
     - *Matar* và *Tulir*
     - Các dạng động từ Qenya
 
-- "Ngữ pháp sớm Qenya" — J.R.R. Tolkien, eds. Carl F. Hostetter và Bill Welden
+- "Ngữ pháp Qenya thời kỳ đầu" — J.R.R. Tolkien, eds. Carl F. Hostetter và Bill Welden
     - Giới thiệu
-    - Qenya Ngữ pháp trong bản thảo
-    - Qenya Âm vị học
-    - Qenya Ngữ pháp trong bản đánh máy
+    - Ngữ pháp Qenya trong bản thảo
+    - Âm vị học Kenya
+    - Ngữ pháp Qenya trong bản đánh máy
 
 - "[Tác phẩm nghệ thuật](../../file/P/Parma_Eldalamberon_14_page_88.png.md)" — Adam Christensen
 - "Kịch bản Valmaric" — J.R.R. Tolkien, ed. Arden R. Smith
@@ -73,11 +73,11 @@ infobox:
 
 ## Mô tả {#Description}
 
-**"Các mảnh Qenya đầu"** là một tập hợp các bảng và danh sách tên của Tolkien được liên kết với *The Book of Lost Tales*, bao gồm tên ban đầu của các Ngày trong Tuần Elvish và Hai tuần lễ Valinorian, cũng như tên của Valar và các Sinh vật khác nhau trên Trái đất, như Tolkien hình dung về chúng trong thần thoại sớm nhất của ông. Ngoài ra còn có các mô hình cách chia động từ Thông thường Qenya được liên kết với "Qenya Lexicon" (*[Parma 12](Parma_Eldalamberon_12.md)*).
+**"Những mảnh vỡ Qenya đầu tiên"** là một tập hợp các bảng và danh sách tên của Tolkien được liên kết với *The Book of Lost Tales*, bao gồm những cái tên ban đầu của Những ngày trong Tuần lễ Yêu tinh và Hai tuần lễ Valinorian, cũng như tên của các Valar và nhiều Sinh vật khác nhau trên Trái đất, như Tolkien nghĩ về chúng trong thần thoại đầu tiên của ông. Cũng bao gồm các mô hình cách chia động từ Qenya thông thường được liên kết với "Từ điển Qenya" (*[Parma 12](Parma_Eldalamberon_12.md)*).
 
-**"Ngữ pháp Qenya sơ khai"** bao gồm các bài viết ban đầu về Qenya Âm vị học, cùng với Qenya Ngữ pháp hoàn chỉnh sớm nhất, mô tả các dạng và biến tố của Mạo từ, Danh từ, Tính từ, Trạng từ, Số, Đại từ và Động từ. Cả hai văn bản này đều có niên đại từ những năm 1920. Các chú thích và bình luận được cung cấp cho tất cả các văn bản Qenya ban đầu, trình bày chi tiết về mối liên hệ giữa chúng và sự phát triển của các khái niệm ngôn ngữ có trong chúng.
+**"Ngữ pháp Qenya sơ khai"** bao gồm các bài viết ban đầu về Âm vị học Qenya, cùng với Ngữ pháp Qenya hoàn chỉnh sớm nhất, mô tả các dạng và biến tố của Mạo từ, Danh từ, Tính từ, Trạng từ, Số, Đại từ và Động từ. Cả hai văn bản này đều có niên đại từ những năm 1920. Các chú thích và bình luận được cung cấp cho tất cả các văn bản Qenya sơ khai, trình bày chi tiết về mối liên hệ giữa chúng và sự phát triển của các khái niệm ngôn ngữ chứa trong chúng.
 
-**"Chữ viết Valmaric"** là ấn bản của nhiều tài liệu khác nhau liên quan đến hệ thống chữ viết Elvish được Tolkien nghĩ ra vào những năm 1920. Một ví dụ về kịch bản đã được xuất bản trước đó dưới dạng bản vẽ cho câu chuyện *[Roverandom](../R/Roverandom.md)*. Ấn bản này bao gồm nhiều biểu đồ khác nhau về âm thanh được biểu thị bằng các chữ cái, theo dõi quá trình thử nghiệm của Tolkien với các hình thức và ứng dụng của chúng. Ngoài ra còn có các ví dụ về chữ Valmaric được sử dụng để viết cả Qenya và tiếng Anh, bao gồm một đoạn trích từ bài thơ tiếng Anh cổ *[Beowulf](<../B/Beowulf_(poem).md>)*. Phiên âm của các văn bản này và bình luận về niên đại của các tài liệu và sự phát triển khái niệm của chúng đều được đưa vào ấn bản này.
+**"Chữ viết Valmaric"** là ấn bản của nhiều tài liệu khác nhau liên quan đến hệ thống chữ viết của người Tiên do Tolkien nghĩ ra vào những năm 1920. Một ví dụ về kịch bản đã được xuất bản trước đó dưới dạng bản vẽ cho câu chuyện *[Roverandom](../R/Roverandom.md)*. Ấn bản này bao gồm nhiều biểu đồ khác nhau về âm thanh được biểu thị bằng các chữ cái, ghi lại quá trình thử nghiệm của Tolkien với các hình thức và ứng dụng của chúng. Ngoài ra còn có các ví dụ về chữ viết Valmaric được sử dụng để viết cả tiếng Qenya và tiếng Anh, bao gồm một đoạn trích từ bài thơ tiếng Anh cổ *[Beowulf](<../B/Beowulf_(poem).md>)*. Phiên âm của các văn bản này và bình luận về niên đại của các tài liệu và sự phát triển khái niệm của chúng đều được đưa vào ấn bản này.
 
 ## Liên kết ngoài {#External_links}
 

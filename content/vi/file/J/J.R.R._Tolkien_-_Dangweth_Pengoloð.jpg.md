@@ -25,7 +25,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Trang đầu tiên của bản thảo *[Dangweth Pengoloð](../../main/D/Dangweth_Pengoloð.md)*của Tolkien, xuất hiện ở trang bìa của *[The Peoples of Middle-earth](../../main/T/The_Peoples_of_Middle-earth.md)*.
+Trang đầu tiên của bản thảo *[Dangweth Pengoloð](../../main/D/Dangweth_Pengoloð.md)* của Tolkien, xuất hiện ở trang bìa của *[The Peoples of Middle-earth](../../main/T/The_Peoples_of_Middle-earth.md)*.
 
 ## Giấy phép {#Licensing}
 

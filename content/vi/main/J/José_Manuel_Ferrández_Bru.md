@@ -33,7 +33,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/José_Manuel_Ferrández_Bru.jpg.md"><img src="https://tolkiengateway.net/w/images/5/55/Jos%C3%A9_Manuel_Ferr%C3%A1ndez_Bru.jpg" decoding="async" loading="lazy" width="282" height="406" class="mw-file-element" data-file-width="282" data-file-height="406"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>José Manuel Ferrández Bru</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Born</th><td class="tg-infobox-data"><a href="../_/1970.md" title="1970">1970</a></td></tr><tr><th scope="row" class="tg-infobox-label">Occupation</th><td class="tg-infobox-data">Engineer</td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">Spain</td></tr><tr><th scope="row" class="tg-infobox-label">Website</th><td class="tg-infobox-data"><a class="external text" href="http://www.josemanuelferrandez.com/ENindex.html" rel="noreferrer noopener" target="_blank">JoseManuelFerrandez.com</a></td></tr></tbody></table>
 
-**José Manuel Ferrández Bru** (sinh [1970](../_/1970.md)) là một kỹ sư, giáo sư và nhà văn khoa học máy tính người Tây Ban Nha. Ông đã xuất bản một số bài viết về [J.R.R. Tolkien](J.R.R._Tolkien.md), đặc biệt là về mối quan hệ của Tolkien với Tây Ban Nha nói chung và với [Francis Xavier Morgan](../F/Francis_Xavier_Morgan.md) nói riêng. Ferrández Bru là thành viên sáng lập và là chủ tịch đầu tiên của [Hiệp hội Tolkien Tây Ban Nha](../S/Sociedad_Tolkien_Española.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**José Manuel Ferrández Bru** (sinh ra [1970](../_/1970.md)) là một kỹ sư, giáo sư và nhà văn khoa học máy tính người Tây Ban Nha. Ông đã xuất bản một số bài viết về [J.R.R. Tolkien](J.R.R._Tolkien.md), đặc biệt là về mối quan hệ của Tolkien với Tây Ban Nha nói chung và với [Francis Xavier Morgan](../F/Francis_Xavier_Morgan.md) nói riêng. Ferrández Bru là thành viên sáng lập và là chủ tịch đầu tiên của [Hiệp hội Tolkien Tây Ban Nha](../S/Sociedad_Tolkien_Española.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Ấn phẩm, được chọn {#Publications,_selected}
 
@@ -47,15 +47,15 @@ infobox:
 - [2011](../_/2011.md): [*Mallorn* 51](../M/Mallorn_51.md)
     - "<a class="external text" href="http://www.josemanuelferrandez.com/vieja/ENguerra.html" rel="noreferrer noopener" target="_blank">J.R.R. Tolkien và Nội chiến Tây Ban Nha</a>"
 - [2011](../_/2011.md): [*Tolkien Studies*: Tập 8](../T/Tolkien_Studies%253A_Volume_8.md)
-    - "'Không cánh rung rinh': Một số kết nối cá nhân trong những năm hình thành của Tolkien"
+    - "'Không cánh rung rinh': Một số mối liên hệ cá nhân trong những năm hình thành của Tolkien"
 - [2016](../_/2016.md): *[The Return Of The Ring: Proceedings of the Tolkien Society Conference 2012](../T/The_Return_Of_The_Ring%253A_Proceedings_of_the_Tolkien_Society_Conference_2012~62335.md)*
     - "J.R.R. Tolkien'người cha thứ hai' của Cha Francis Morgan và những người có ảnh hưởng phi kinh điển khác"
 - [2025](../_/2025.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Proceedings_of_the_Tolkien_2019_Conference&amp;action=edit&amp;redlink=1" title="Proceedings of the Tolkien 2019 Conference (page does not exist)">Kỷ yếu Hội nghị Tolkien 2019</a></i>
-Công việc đầu tiên của     - "Tolkien: Trải nghiệm ở Pháp gắn liền với chuyến đi năm 1913 của ông"
+    - "Công việc đầu tiên của Tolkien: Những trải nghiệm ở Pháp gắn liền với chuyến đi năm 1913 của ông"
 
 ## Giải thưởng {#Awards}
 
-- [2008](../_/2008.md): **[Premio Ensayo "Ælfwine"](../S/Sociedad_Tolkien_Española.md)**, *J.R.R. Tolkien y la Guerra Civil española* (sau này được xuất bản dưới tên *"Tolkien and the Spanish Civil War"* trong [Mallorn 51](../M/Mallorn_51.md))
+- [2008](../_/2008.md): **[Premio Ensayo "Ælfwine"](../S/Sociedad_Tolkien_Española.md)**, *J.R.R. Tolkien y la Guerra Civil española* (sau này được xuất bản dưới tên *"Tolkien and the Spanish Civil War"* ở [Mallorn 51](../M/Mallorn_51.md))
 
 ## Liên kết ngoài {#External_links}
 

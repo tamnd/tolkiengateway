@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Gee, Donald"
 ---
 
-**Donald Gee** ([tháng Chín 28](../_/28_September.md), [1937](../_/1937.md) - [14 tháng 1](../_/14_January.md), [2022](../_/2022.md)) là một diễn viên người Anh. Ông đã lồng tiếng cho [Radagast](../R/Radagast.md) trong [loạt phim phát thanh năm 1981](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) phát sóng trên [BBC 4](../B/BBC.md).
+**Donald Gee** ([28 tháng 9](../_/28_September.md), [1937](../_/1937.md) - [14 tháng 1](../_/14_January.md), [2022](../_/2022.md)) là một diễn viên người Anh. Ông đã lồng tiếng cho [Radagast](../R/Radagast.md) trong [loạt phim phát thanh năm 1981](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) phát sóng trên [BBC 4](../B/BBC.md).
 
 ## Liên kết ngoài {#External_links}
 

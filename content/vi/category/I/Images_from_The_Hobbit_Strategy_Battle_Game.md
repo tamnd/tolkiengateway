@@ -12,4 +12,4 @@ categories:
   - "Images from Games Workshop"
 ---
 
-Hình ảnh từ **[The Hobbit Trò chơi chiến đấu chiến lược](../../main/T/The_Hobbit_Strategy_Battle_Game.md)**.
+Hình ảnh từ **[The Hobbit Strategy Battle Game](../../main/T/The_Hobbit_Strategy_Battle_Game.md)**.

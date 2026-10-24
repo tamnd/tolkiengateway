@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Hình ảnh thứ sáu về *Một buổi chiều hè đầy nắng trong Shire* của [Kay Woollard](../../main/K/Kay_Woollard.md).
+Hình ảnh thứ sáu về *Một buổi chiều mùa hè đầy nắng trong Shire* của [Kay Woollard](../../main/K/Kay_Woollard.md).
 
 ## Giấy phép {#Licensing}
 

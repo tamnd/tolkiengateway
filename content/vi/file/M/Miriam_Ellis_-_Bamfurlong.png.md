@@ -34,7 +34,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Minh họa [Frodo](../../main/F/Frodo_Baggins.md), [Sam](../../main/S/Samwise_Gamgee.md) và [Pippin](../../main/P/Peregrin_Took.md) gặp [Farmer Maggot](../../main/F/Farmer_Maggot.md), [vợ anh](../../main/M/Mrs_Maggot.md) và [d](../../main/G/Grip.md)[o](<../../main/W/Wolf_(dog).md>)[gs](<../../main/F/Fang_(dog).md>) của anh [Miriam Ellis](../../main/M/Miriam_Ellis.md). Tiêu đề của hình minh họa không phải là chính thức vì nó chưa được đăng riêng lẻ trên trang web của cô ấy. Nó có sẵn ở đây: <a class="external text" href="https://www.youtube.com/watch?v=5QS_HWfAVHs&amp;t=391" rel="noreferrer noopener" target="_blank">Bag End đến Bree (By The Book) - Miriam Ellis Fine Art</a>
+Hình minh họa [Frodo](../../main/F/Frodo_Baggins.md), [Sam](../../main/S/Samwise_Gamgee.md) và [Pippin](../../main/P/Peregrin_Took.md) gặp [Farmer Maggot](../../main/F/Farmer_Maggot.md), [vợ anh](../../main/M/Mrs_Maggot.md) và [d](../../main/G/Grip.md)[o](<../../main/W/Wolf_(dog).md>)[gs](<../../main/F/Fang_(dog).md>) của [Miriam Ellis](../../main/M/Miriam_Ellis.md). Tiêu đề của hình minh họa không phải là chính thức vì nó chưa được đăng riêng lẻ trên trang web của bà. Nó có sẵn ở đây: <a class="external text" href="https://www.youtube.com/watch?v=5QS_HWfAVHs&amp;t=391" rel="noreferrer noopener" target="_blank">Bag End đến Bree (By The Book) - Miriam Ellis Fine Art</a>
 
 ## Giấy phép {#Licensing}
 

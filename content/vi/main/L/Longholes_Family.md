@@ -26,7 +26,7 @@ langlinks:
     url: "https://kontu.wiki/Isokolo"
 ---
 
-**Nhà Longholes** là một gia đình [Hobbit](../B/Bree-hobbits.md) sống ở [Bree](../B/Bree.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Longholes** là một gia đình [Hobbit](../B/Bree-hobbits.md) sống ở [Bree](../B/Bree.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

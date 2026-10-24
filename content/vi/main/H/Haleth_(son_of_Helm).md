@@ -56,11 +56,11 @@ infobox:
 
 ## Lịch sử {#History}
 
-Haleth cố gắng bảo vệ [Edoras](../E/Edoras.md) khỏi [Dunlending](../D/Dunlendings.md) kẻ đã xâm chiếm [T.A.](../T/Third_Age.md) [2758](../T/Third_Age_2758.md), nhưng anh ta đã bị giết ngay trước cửa [Meduseld](../M/Meduseld.md), người bảo vệ cuối cùng của nó. [Wulf](../W/Wulf.md) con trai của [Freca](../F/Freca.md) chiếm đoạt ngai vàng trong khi Helm và Háma chạy trốn đến [Helm's Deep](Helm's_Deep.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Haleth cố gắng bảo vệ [Edoras](../E/Edoras.md) khỏi [Dunlendings](../D/Dunlendings.md) đã xâm lược vào [T.A.](../T/Third_Age.md) [2758](../T/Third_Age_2758.md), nhưng ông ta đã bị giết ngay trước cửa [Meduseld](../M/Meduseld.md), người bảo vệ cuối cùng của nó. [Wulf](../W/Wulf.md) con trai của [Freca](../F/Freca.md) soán ngôi trong khi Helm và Háma chạy trốn đến [Helm's Deep](Helm's_Deep.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Haleth* có nghĩa là "người đàn ông", "chiến binh" hay "anh hùng" trong thơ [tiếng Anh cổ](../O/Old_English.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Đừng nhầm lẫn với [Mannish](../M/Mannish.md) [Haleth](Haleth.md).
+*Haleth* có nghĩa là "người đàn ông", "chiến binh" hoặc "anh hùng" trong thơ [tiếng Anh cổ](../O/Old_English.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Đừng nhầm lẫn với [Mannish](../M/Mannish.md) [Haleth](Haleth.md).
 
 ## Phả hệ {#Genealogy}
 
@@ -90,7 +90,7 @@ Haleth cố gắng bảo vệ [Edoras](../E/Edoras.md) khỏi [Dunlending](../D/
 		</li>
 </ul>
 
-<b>2024: <i><a class="mw-redirect" href="../W/War_of_the_Rohirrim.md" title="War of the Rohirrim">Chiến tranh Rohirrim</a></i>:</b>
+<b>2024: <i><a class="mw-redirect" href="../W/War_of_the_Rohirrim.md" title="War of the Rohirrim">Chiến tranh của người Rohirrim</a></i>:</b>
 
 <span></span>
 

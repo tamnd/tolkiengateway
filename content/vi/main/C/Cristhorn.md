@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Cirith Thoronath"
 ---
 
-Chuyển hướng đến [Cirith Thoronath](Cirith_Thoronath.md).
+Chuyển hướng tới [Cirith Thoronath](Cirith_Thoronath.md).

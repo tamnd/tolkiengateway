@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Sotomayor, Felix"
 ---
 
-- Felix Sotomayor đã vui lòng cho phép anh ấy sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Felix_Sotomayor.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
+- Felix Sotomayor đã vui lòng cho phép ông sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Felix_Sotomayor.md) trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
 - Ngày: 31 tháng 1 năm 2013
 - Người dùng đã xin phép qua email: [Người dùng: Mith](https://tolkiengateway.net/wiki/User:Mith)

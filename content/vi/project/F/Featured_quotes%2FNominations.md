@@ -16,7 +16,7 @@ categories:
 
 Các **đề cử** hiện tại cho trạng thái **[trích dẫn nổi bật](Featured_quotes.md)** được liệt kê ở đây. Các đề cử trước đây (thành công và không thành công) được liệt kê tại [Tolkien Gateway:Trích dẫn nổi bật/Lưu trữ](Featured_quotes%252FArchive.md).
 
-Khi xem xét một báo giá, vui lòng xem lại các tiêu chí đề cử bên dưới để tự đánh giá xem báo giá đó có đáp ứng các tiêu chí hay không. Nếu bạn hài lòng thì hãy tạo một phần mới ở cuối trang. Nếu đề cử thành công, báo giá có thể sớm được đăng trên [Trang chính](../../main/M/Main_Page.md).
+Khi xem xét một báo giá, vui lòng xem lại các tiêu chí đề cử bên dưới để tự đánh giá xem báo giá đó có đáp ứng các tiêu chí hay không. Nếu bạn hài lòng thì hãy tạo một phần mới ở cuối trang. Nếu đề cử thành công, trích dẫn có thể sớm được đăng trên [Trang chính](../../main/M/Main_Page.md).
 
 ## Tiêu chí đề cử {#Nomination_criteria}
 
@@ -31,7 +31,7 @@ Sau khi đề cử, một trích dẫn phải nhận được ba phiếu bầu t
 
 ## Các đề cử hiện tại {#Current_nominations}
 
-### The Hobbit {#The_Hobbit}
+### Người Hobbit {#The_Hobbit}
 
 <blockquote class="tg-quote noexcerpt">
 <p>There is nothing like looking, if you want to find something.  You certainly usually find something, if you look, but it is not always quite the something you were after.
@@ -45,7 +45,7 @@ Sau khi đề cử, một trích dẫn phải nhận được ba phiếu bầu t
 <p class="tg-quote-footer"><cite><i><a href="../../main/T/The_Hobbit.md" title="The Hobbit">The Hobbit</a></i>, &#34;<a href="../../main/F/Fire_and_Water.md" title="Fire and Water">Fire and Water</a>&#34; </cite></p>
 </blockquote>
 
-### The Fellowship of the Ring {#The_Fellowship_of_the_Ring}
+### Hiệp hội nhẫn {#The_Fellowship_of_the_Ring}
 
 <blockquote class="tg-quote noexcerpt">
 <p>&#39;Proudfeet!&#39; shouted an elderly hobbit from the back of the pavillion. His name, of course, was Proudfoot, and well merited; his feet were large, exceptionally furry, and both were on the table.
@@ -131,7 +131,7 @@ Sau khi đề cử, một trích dẫn phải nhận được ba phiếu bầu t
 <p class="tg-quote-footer"><cite><i><a href="../../main/T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="../../main/T/The_Breaking_of_the_Fellowship.md" title="The Breaking of the Fellowship">The Breaking of the Fellowship</a>&#34;</cite></p>
 </blockquote>
 
-### The Two Towers {#The_Two_Towers}
+### Hai tòa tháp {#The_Two_Towers}
 
 <blockquote class="tg-quote noexcerpt">
 <p>Gondor! Gondor, between the Mountains and the Sea!<br/>West Wind blew there; the light upon the Silver Tree<br/>Fell like bright rain in gardens of the Kings of old.<br/>O proud walls! White towers! O winged crown and throne of gold!<br/>O Gondor, Gondor! Shall Men behold the Silver Tree,<br/>Or West Wind blow again between the Mountains and the Sea?
@@ -175,7 +175,7 @@ Sau khi đề cử, một trích dẫn phải nhận được ba phiếu bầu t
 <p class="tg-quote-footer"><cite><i><a href="../../main/T/The_Two_Towers.md" title="The Two Towers">The Two Towers</a></i>, &#34;<a href="../../main/T/The_Stairs_of_Cirith_Ungol.md" title="The Stairs of Cirith Ungol">The Stairs of Cirith Ungol</a>&#34;</cite></p>
 </blockquote>
 
-### Sự trở lại của Vua {#The_Return_of_The_King}
+### Sự trở lại của Nhà Vua {#The_Return_of_The_King}
 
 <blockquote class="tg-quote noexcerpt">
 <p>&#34;What do you fear, lady?&#34; he asked.<br/>&#34;A cage,&#34; she said. &#34;To stay behind bars, until use and old age accept them, and all chance of doing great deeds is gone beyond recall or desire.&#34;
@@ -311,7 +311,7 @@ Sau khi đề cử, một trích dẫn phải nhận được ba phiếu bầu t
 <p class="tg-quote-footer"><cite><i><a href="../../main/T/The_Return_of_the_King.md" title="The Return of the King">The Return of the King</a></i>, &#34;<a class="mw-redirect" href="../../main/T/The_Grey_Havens.md" title="The Grey Havens">The Grey Havens</a>&#34;</cite></p>
 </blockquote>
 
-### The Silmarillion {#The_Silmarillion}
+### Đồng bạc {#The_Silmarillion}
 
 <blockquote class="tg-quote noexcerpt">
 <p>Last of all Húrin stood alone. Then he cast aside his shield, and wielded an axe two-handed; and it is sung that the axe smoked in the black blood of the troll-guard of Gothmog until it withered, and each time that he slew Húrin cried &#39;Aurë entuluva! Day shall come again!&#39; Seventy times he uttered that cry; but they took him at last alive.
@@ -337,7 +337,7 @@ Sau khi đề cử, một trích dẫn phải nhận được ba phiếu bầu t
 <p class="tg-quote-footer"><cite><i><a href="../../main/T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i>, &#34;<a href="../../main/A/Akallabêth.md" title="Akallabêth">Akallabêth</a>&#34;</cite></p>
 </blockquote>
 
-### Unfinished Tales {#Unfinished_Tales}
+### Những câu chuyện dang dở {#Unfinished_Tales}
 
 <blockquote class="tg-quote noexcerpt">
 <p>When you think of the great Battle of Pelennor, do not forget the Battle of Dale. Think of what might have been. Dragon-fire and savage swords in Eriador! There might be no Queen in Gondor. We might now only hope to return from the victory here to ruin and ash. But that has been averted – because I met Thorin Oakenshield one evening on the edge of spring not far from Bree. A chance-meeting, as we say in Middle-earth.
@@ -345,7 +345,7 @@ Sau khi đề cử, một trích dẫn phải nhận được ba phiếu bầu t
 <p class="tg-quote-footer"><cite><i><a href="../../main/U/Unfinished_Tales.md" title="Unfinished Tales">Unfinished Tales</a></i>, &#34;<a href="../../main/T/The_Quest_of_Erebor.md" title="The Quest of Erebor">The Quest of Erebor</a>&#34;</cite></p>
 </blockquote>
 
-### The Lays of Beleriand {#The_Lays_of_Beleriand}
+### The Lay of Beleriand {#The_Lays_of_Beleriand}
 
 <blockquote class="tg-quote noexcerpt">
 <p>Behold! the hope of Elvenland<br/>the fire of Fëanor, Light of Morn<br/>before the sun and moon were born,<br/>thus out of bondage came at last,<br/>from iron to mortal hand it passed.
@@ -353,7 +353,7 @@ Sau khi đề cử, một trích dẫn phải nhận được ba phiếu bầu t
 <p class="tg-quote-footer"><cite><a href="../../main/T/The_History_of_Middle-earth.md" title="The History of Middle-earth">The History of Middle-earth</a>, <a href="../../main/T/The_Lays_of_Beleriand.md" title="The Lays of Beleriand">The Lays of Beleriand</a></cite></p>
 </blockquote>
 
-### The Lay of Leithian {#The_Lay_of_Leithian}
+### Sự nằm của Leithian {#The_Lay_of_Leithian}
 
 <blockquote class="tg-quote noexcerpt">
 <p>For little price do elven-kings their daughters sell—for gems and rings and things of gold! If such thy will, thy bidding I will now fulfill. On Beren son of Barahir thou hast not looked the last, I fear. Farewell, Tinúviel, starlit maiden! Ere the pale winter pass snowladen, I will return, not thee to buy with any jewel in Elvenesse, but to find my love in loveliness, a flower that grows beneath the sky.
@@ -361,7 +361,7 @@ Sau khi đề cử, một trích dẫn phải nhận được ba phiếu bầu t
 <p class="tg-quote-footer"><cite><i><a href="../../main/T/The_Lay_of_Leithian.md" title="The Lay of Leithian">The Lay of Leithian</a></i></cite></p>
 </blockquote>
 
-### The Peoples of Middle-earth {#The_Peoples_of_Middle-earth}
+### Các dân tộc ở Trung Địa {#The_Peoples_of_Middle-earth}
 
 <blockquote class="tg-quote noexcerpt">
 <p>Abide now that time, for when it comes then will your work be of utmost worth, and it will be remembered in song for many ages after.” “I obey.
@@ -428,7 +428,7 @@ Sau khi đề cử, một trích dẫn phải nhận được ba phiếu bầu t
 <dl><dd><b>Disagree</b> Not a terrible quote, but I think it lacks a certain context needed for it to be fully appreciated. --<a href="https://tolkiengateway.net/wiki/User:Grace18" title="User:Grace18">Grace18</a> 17:41, 28 December 2021 (UTC)</dd>
 <dd><b>Disagree</b>. For the same reasons as Grace18. --<a href="https://tolkiengateway.net/wiki/User:GondolinFan" title="User:GondolinFan">GondolinFan</a> 18:21, 28 December 2021 (UTC)</dd></dl>
 
-### Than tiếc cho Rohirrim {#Lament_for_the_Rohirrim}
+### Thương tiếc cho người Rohirrim {#Lament_for_the_Rohirrim}
 
 <blockquote class="tg-quote noexcerpt">
 <p>Where now the horse and the rider? Where is the horn that was blowing?<br/>Where is the helm and the hauberk, and the bright hair flowing?<br/>Where is the hand on the harpstring, and the red fire glowing?<br/>Where is the spring and the harvest and the tall corn growing?<br/>They have passed like rain on the mountain, like a wind in the meadow;<br/>The days have gone down in the West behind the hills into shadow.<br/>Who shall gather the smoke of the dead wood burning,<br/>Or behold the flowing years from the Sea returning?
@@ -439,7 +439,7 @@ Sau khi đề cử, một trích dẫn phải nhận được ba phiếu bầu t
 <dl><dd><b>Agree</b>: This poem is one of my Favorite poems in all of Tolkien&#39;s works beside the Song of Earendil by Bilbo. So I totally agree with being a quote on this page.--<a href="https://tolkiengateway.net/wiki/User:Aragorn_is_Awesome" title="User:Aragorn is Awesome">Aragorn is Awesome</a></dd>
 <dd><b>Disagree</b>. Too long for a &#34;quote&#34;. --<a href="https://tolkiengateway.net/wiki/User:Quentandil" title="User:Quentandil">Quentandil</a> 19:05, 21 May 2022 (UTC)</dd></dl>
 
-### Tới Isengard! {#To_Isengard!}
+### Gửi Isengard! {#To_Isengard!}
 
 <blockquote class="tg-quote noexcerpt">
 <p>To Isengard! Though Isengard be ringed and barred with doors of stone;<br/>Though Isengard be strong and hard, as cold as stone and bare as bone,<br/>We go, we go, we go to war, to hew the stone and break the door;<br/>For bole and bough are burning now, the furnace roars - we go to war!<br/>To land of gloom with tramp of doom, with roll of drum, we come, we come;<br/>To Isengard with doom we come!<br/>With doom we come, with doom we come!

@@ -30,11 +30,11 @@ images:
 <p class="tg-quote-footer"><cite><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s note in the <i><a class="mw-redirect" href="../Q/Qenya_Lexicon.md" title="Qenya Lexicon">Qenya Lexicon</a></i><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Sundocarmë** hay "Cấu trúc cơ sở" là tiêu đề của một phần trong <a class="new" href="https://tolkiengateway.net/w/index.php?title=Tengwesta_Qenderinwa&amp;action=edit&amp;redlink=1" title="Tengwesta Qenderinwa (page does not exist)">Tengwesta Qenderinwa</a> (*Quendian Grammar*) của Tolkien liên quan đến ba hình dạng chính của [Elvish](../E/Elvish.md) gốc từ nguyên và các sửa đổi của chúng.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Tất cả các từ [Elvish](../E/Elvish.md) và [Mannish](../M/Mannish.md) (và theo một nghĩa nào đó, cả [Khuzdul](../K/Khuzdul.md)) xuất phát từ gốc cơ sở hoặc [sundo](Sundo.md).
+**Sundocarmë** hay "Cấu trúc cơ sở" là tiêu đề của một phần trong <a class="new" href="https://tolkiengateway.net/w/index.php?title=Tengwesta_Qenderinwa&amp;action=edit&amp;redlink=1" title="Tengwesta Qenderinwa (page does not exist)">Tengwesta Qenderinwa</a> (*Quendian Grammar*) của Tolkien liên quan đến ba dạng chính của nguồn gốc từ nguyên [Elvish](../E/Elvish.md) và các sửa đổi của chúng.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Tất cả các từ [Elvish](../E/Elvish.md) và [Mannish](../M/Mannish.md) (và theo một nghĩa nào đó, [Khuzdul](../K/Khuzdul.md)) cũng bắt nguồn từ gốc cơ sở hoặc [sundo](Sundo.md).
 
 Gốc không phải là những từ thực tế mà là những cơ sở chứa đựng những ý nghĩa chung, và từ đó, trong quá trình tiến hóa và thời gian, những từ thực sự được rút ra thông qua các phụ tố, hậu tố hoặc sửa đổi.
 
-Trong giai đoạn đầu tiên của [Primitive Quendian](../P/Primitive_Quendian.md), gốc có thể được sử dụng như các từ thực tế; trong thời kỳ đó Tiên tộc chỉ có thể nói bằng những từ không biến cách, không có bất kỳ sự phân biệt nào giữa các phần của lời nói (Truyền thống nói rằng từ đầu tiên được nói bởi một Tiên là *el-e!*, một câu cảm thán nguyên thủy "nhìn!", ám chỉ một ngôi sao).
+Trong giai đoạn đầu tiên của [Quendian nguyên thủy](../P/Primitive_Quendian.md), gốc từ có thể được sử dụng như những từ thực tế; trong thời kỳ đó, Yêu tinh chỉ có thể nói bằng những từ không biến cách, không có bất kỳ sự phân biệt nào giữa các phần của bài phát biểu (Truyền thống nói rằng từ đầu tiên mà Yêu tinh từng nói là *el-e!*, một câu cảm thán nguyên thủy "nhìn!", ám chỉ một ngôi sao).
 
 Khung phụ âm gốc được gọi là [canta](../C/Canta.md) và nguyên âm căn trung tâm được gọi là [sundóma](Sundóma.md).
 
@@ -63,7 +63,7 @@ Rễ thường có sự kết hợp xây dựng:
 <dt><a href="../R/ROK.md" title="ROK">ROKO</a></dt>
 <dd>Quenya <i><a class="mw-redirect" href="../H/Horse.md#Names" title="Horse">rocco</a></i>, Sindarin <i><a class="mw-redirect" href="../H/Horse.md#Names" title="Horse">roch</a></i></dd></dl>
 
-Một số từ gốc [Mannish](../M/Mannish.md) (đôi khi bắt nguồn từ các từ Elvish) là:
+Một số từ gốc [Mannish](../M/Mannish.md) (đôi khi bắt nguồn từ các từ tiếng Tiên) là:
 
 <dl><dt><a href="../B/BAR~31359.md" title="BAR">BAR</a></dt>
 <dd><a href="../A/Adûnaic.md" title="Adûnaic">Adûnaic</a> <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Ab%C3%A2r&amp;action=edit&amp;redlink=1" title="Abâr (page does not exist)">abâr</a></i>, <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Abraz%C3%A2n&amp;action=edit&amp;redlink=1" title="Abrazân (page does not exist)">abrazân</a></i>, <a href="../W/Westron.md" title="Westron">Westron</a> <i><a href="../B/Branda.md" title="Branda">brand(a)</a></i>, <i><a href="../B/Bara.md" title="Bara">bara</a></i></dd>

@@ -13,7 +13,7 @@ categories:
   - "Sindarin adjectives"
 ---
 
-<i><b>gwathui</b></i> là một từ [Sindarin](../S/Sindarin.md),<sup id="cite_ref-PM_1-0" class="reference"><a href="#cite_note-PM-1">[1]</a></sup> có thể có nghĩa là "bóng tối" (cf. *[gwathren](Gwathren.md)*).<sup id="cite_ref-Hiswe_2-0" class="reference"><a href="#cite_note-Hiswe-2">[2]</a></sup>
+<i><b>gwathui</b></i> là một từ [tiếng Sindarin](../S/Sindarin.md),<sup id="cite_ref-PM_1-0" class="reference"><a href="#cite_note-PM-1">[1]</a></sup> có thể có nghĩa là "bóng tối" (cf. *[gwathren](Gwathren.md)*).<sup id="cite_ref-Hiswe_2-0" class="reference"><a href="#cite_note-Hiswe-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -25,8 +25,8 @@ categories:
 
 ## Có cùng nguồn gốc {#Cognates}
 
-- Sindarin *[gwathren](Gwathren.md)*
-- Sindarin *[gwath](Gwath.md)*
+- Tiếng Sindarin *[gwathren](Gwathren.md)*
+- Tiếng Sindarin *[gwath](Gwath.md)*
 
 <span></span>
 

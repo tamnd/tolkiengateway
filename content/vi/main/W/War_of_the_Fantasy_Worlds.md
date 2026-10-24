@@ -37,4 +37,4 @@ infobox:
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://www.tolkienlibrary.com/press/929-War_of_the_Fantasy_Worlds.php" rel="noreferrer noopener" target="_blank">Mô tả trên Tolkien Library</a>
+- <a class="external text" href="http://www.tolkienlibrary.com/press/929-War_of_the_Fantasy_Worlds.php" rel="noreferrer noopener" target="_blank">Mô tả trên Thư viện Tolkien</a>

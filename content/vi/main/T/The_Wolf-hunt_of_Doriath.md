@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hunting of the Wolf"
 ---
 
-Chuyển hướng đến [Cuộc Săn Sói](../H/Hunting_of_the_Wolf.md).
+Chuyển hướng đến [Săn sói](../H/Hunting_of_the_Wolf.md).

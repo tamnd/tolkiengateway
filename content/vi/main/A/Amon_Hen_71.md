@@ -42,7 +42,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/AmonHen71.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/43/AmonHen71.jpg/320px-AmonHen71.jpg" decoding="async" loading="lazy" width="320" height="464" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/43/AmonHen71.jpg/480px-AmonHen71.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/43/AmonHen71.jpg/640px-AmonHen71.jpg 2x" data-file-width="690" data-file-height="1000"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Amon Hen 71</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Colin Davey</td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data">Tom Sherry</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Printer</th><td class="tg-infobox-data">Hanway Print Centre, London</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">January <a href="../_/1985.md" title="1985">1985</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">A5 stapled paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">24</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0306-8781</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Amon_Hen_70.md" title="Amon Hen 70">Amon Hen 70</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Amon_Hen_72.md" title="Amon Hen 72">Amon Hen 72</a></td></tr></tbody></table>
 
-<b><i>Amon Hen</i> 71</b> là số thứ 71 của tạp chí hai tháng một lần của [Hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, xuất bản vào tháng 1 [1985](../_/1985.md).
+<b><i>Amon Hen</i> 71</b> là số thứ 71 của tạp chí hai tháng một lần của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, xuất bản vào tháng 1 [1985](../_/1985.md).
 
 ## Nội dung {#Contents}
 
@@ -57,7 +57,7 @@ infobox:
     - Bởi: Jenny Curtis, Colin Davey
 - Báo cáo của Ủy ban
 - Diễn đàn về nụ cười/Câu đố về nụ cười
-- Việc di chuyển Dãy Núi của Mirkwood
+- Những ngọn núi chuyển động của Mirkwood
     - Bởi: [Alex Lewis](Alex_Lewis.md)
 - Truyện dân ca
 - Hãy mỉm cười

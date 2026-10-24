@@ -15,7 +15,7 @@ sort_keys:
   "Sindarin nouns": "glin"
 ---
 
-**glîn** là từ [Sindarin](../S/Sindarin.md) có nghĩa là "lấp lánh", "lấp lánh" (của mắt).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**glîn** là từ [tiếng Sindarin](../S/Sindarin.md) có nghĩa là "lấp lánh", "ánh sáng" (của mắt).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Ví dụ {#Example}
 

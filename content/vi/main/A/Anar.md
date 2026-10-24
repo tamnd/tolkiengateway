@@ -11,4 +11,4 @@ redirect_target: "Sun"
 redirect_fragment: "Names of the Sun"
 ---
 
-Chuyển hướng đến [Mặt Trời](../S/Sun.md#Names_of_the_Sun).
+Chuyển hướng đến [Mặt trời](../S/Sun.md#Names_of_the_Sun).

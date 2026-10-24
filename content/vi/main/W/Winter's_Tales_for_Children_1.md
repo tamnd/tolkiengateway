@@ -30,15 +30,15 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/W/Winters_tale.gif.md"><img src="https://tolkiengateway.net/w/images/thumb/a/a0/Winters_tale.gif/320px-Winters_tale.gif" decoding="async" loading="lazy" width="320" height="436" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/a/a0/Winters_tale.gif 1.5x" data-file-width="367" data-file-height="500"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Winter&#39;s Tales for Children 1</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Caroline Hillier</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">London: Macmillan</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">October <a href="../_/1965.md" title="1965">1965</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Hardback in dustwrapper</td></tr></tbody></table>
 
-<i><b>Những câu chuyện mùa đông dành cho trẻ em 1</b></i>, do Hugh Marshall minh họa, là một cuốn sách dành cho trẻ em xuất bản năm [1965](../_/1965.md), trong đó hai bài thơ của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được xuất bản lần đầu: <i><b><a href="../T/The_Dragon&#39;s_Visit.md" title="The Dragon&#39;s Visit">Chuyến thăm của Rồng</a></b></i> (trang 84–87) và <i><b><a href="../O/Once_upon_a_Time.md" title="Once upon a Time">Ngày xửa ngày xưa</a></b></i> (trang 44–45).
+<i><b>Truyện kể mùa đông cho trẻ em 1</b></i>, do Hugh Marshall minh họa, là sách dành cho trẻ em xuất bản năm [1965](../_/1965.md), trong đó hai bài thơ của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được xuất bản lần đầu: <i><b><a href="../T/The_Dragon&#39;s_Visit.md" title="The Dragon&#39;s Visit">Chuyến thăm của con rồng</a></b></i> (trang 84–87) và <i><b><a href="../O/Once_upon_a_Time.md" title="Once upon a Time">Ngày xửa ngày xưa</a></b></i> (trang 44–45).
 
 Một ấn bản tương tự đã được St. Martin's Press xuất bản tại Hoa Kỳ.
 
-Tolkien cũng gửi tác phẩm thứ ba (một [bài thơ cho Rosalind Ramage](../R/Rosalind_Ramage.md)) để đưa vào tuyển tập, nhưng cuối cùng đã bị bỏ qua do thiếu chỗ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Tolkien cũng gửi tác phẩm thứ ba ( [bài thơ cho Rosalind Ramage](../R/Rosalind_Ramage.md)) để đưa vào tuyển tập, nhưng cuối cùng tác phẩm này đã bị lược bỏ do thiếu chỗ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://sacnoths.blogspot.com/2009/07/new-arrival-winters-tales-for-children.html" rel="noreferrer noopener" target="_blank">Nhận xét bài luận</a> của [John D. Rateliff](../J/John_D._Rateliff.md)
+- <a class="external text" href="http://sacnoths.blogspot.com/2009/07/new-arrival-winters-tales-for-children.html" rel="noreferrer noopener" target="_blank">Bài đánh giá</a> của [John D. Rateliff](../J/John_D._Rateliff.md)
 
 <span></span>
 

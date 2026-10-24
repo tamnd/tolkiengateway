@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Bìa [*Mallorn*64](../../main/M/Mallorn_64.md). Tác phẩm nghệ thuật là "Con đường thiêng liêng Mirkwood" của <a class="external text" href="https://en.spirosgelekas.com/" rel="noreferrer noopener" target="_blank">Spiros Gelekas</a>.
+Bìa [*Mallorn* 64](../../main/M/Mallorn_64.md). Tác phẩm nghệ thuật là "Con đường thiêng liêng Mirkwood" của <a class="external text" href="https://en.spirosgelekas.com/" rel="noreferrer noopener" target="_blank">Spiros Gelekas</a>.
 
 ## Giấy phép {#Licensing}
 

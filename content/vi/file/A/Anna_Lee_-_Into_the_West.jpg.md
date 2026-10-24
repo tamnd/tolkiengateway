@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-*Into the West* bởi [Anna Lee](../../main/A/Anna_Lee.md).
+*Into the West* của [Anna Lee](../../main/A/Anna_Lee.md).
 
 ## Giấy phép {#Licensing}
 

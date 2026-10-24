@@ -30,13 +30,13 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Narn i Chîn Húrin</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="Narn_i_Chîn_Húrin_(disambiguation).md" title="Narn i Chîn Húrin (disambiguation)">Narn i Chîn Húrin (disambiguation)</a></b>.</div></div>
 
-**Narn i Chîn Húrin**, câu chuyện **Đau buồn về những đứa trẻ của Húrin**, kể về cuộc đời bi thảm của [Túrin Turambar](../T/Túrin.md) và em gái [Nienor](Nienor.md).<sup id="cite_ref-Turin_1-0" class="reference"><a href="#cite_note-Turin-1">[1]</a></sup>
+**Narn i Chîn Húrin**, **Câu chuyện đau buồn về những đứa con của Húrin**, kể về cuộc đời bi thảm của [Túrin Turambar](../T/Túrin.md) và em gái [Nienor](Nienor.md).<sup id="cite_ref-Turin_1-0" class="reference"><a href="#cite_note-Turin-1">[1]</a></sup>
 
 ## Lịch sử {#History}
 
-Còn được gọi là *Narn e-'Rach Morgoth* (Câu chuyện về lời nguyền của Morgoth), nó tạo thành một phần của vật chất rộng hơn *Narn e-mbar Hador* ("Câu chuyện về [Nhà Hador](../H/House_of_Hador.md)") và *[Atanatárion](../A/Atanatárion.md)*, được bảo quản trong [Gondor](../G/Gondor.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Còn được gọi là *Narn e-'Rach Morgoth* (Truyện về lời nguyền của Morgoth), nó tạo thành một phần của vật chất rộng hơn *Narn e-mbar Hador* ("Truyện về [Nhà Hador](../H/House_of_Hador.md)") và *[Atanatárion](../A/Atanatárion.md)*, được bảo tồn ở [Gondor](../G/Gondor.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-[Eldar](../E/Eldar.md) cũng lưu giữ một bản sao của câu chuyện và mang đến [Valinor](../V/Valinor.md); Narn i Chîn Húrin đã được [Pengolodh](../P/Pengolodh.md) hiển thị cho [Ælfwine](../_/Ælfwine.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+[Eldar](../E/Eldar.md) cũng lưu giữ một bản sao của câu chuyện và mang đến [Valinor](../V/Valinor.md); Narn i Chîn Húrin được [Pengolodh](../P/Pengolodh.md) chiếu cho [Ælfwine](../_/Ælfwine.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -48,7 +48,7 @@ Còn được gọi là *Narn e-'Rach Morgoth* (Câu chuyện về lời nguyề
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Khái niệm tường thuật đề cập đến một câu chuyện dài hơn khác về cuộc đời của Túrin đã có từ những giai đoạn đầu của [huyền thoại](../L/Legendarium.md). Xuất hiện lần đầu tiên trong *[Sketch of the Mythology](../S/Sketch_of_the_Mythology.md)* với tư cách là "Những đứa trẻ của Húrin".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Tên tương tự được đặt cho nó trong *[Quenta Noldorinwa](../Q/Quenta_Noldorinwa.md)*và nó còn được gọi là "Câu chuyện đau buồn".<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Khái niệm tường thuật đề cập đến một câu chuyện dài hơn khác về cuộc đời của Túrin đã có từ những giai đoạn đầu của [huyền thoại](../L/Legendarium.md). Xuất hiện lần đầu tiên trong *[Sketch of the Mythology](../S/Sketch_of_the_Mythology.md)* với tư cách là "Những đứa trẻ của Húrin".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Tên tương tự được đặt cho nó trong *[Quenta Noldorinwa](../Q/Quenta_Noldorinwa.md)*, và nó còn được gọi là "Câu chuyện về nỗi đau buồn".<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 <span></span>
 

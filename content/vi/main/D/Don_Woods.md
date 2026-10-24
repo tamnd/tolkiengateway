@@ -14,7 +14,7 @@ sort_keys:
   "Game designers": "Woods, Don"
 ---
 
-**Donald A. Woods** (sinh [30 tháng 4](../_/30_April.md), [1954](../_/1954.md)) là một hacker và lập trình viên. Cùng với [Willie Crowther](../W/Willie_Crowther.md), anh ấy đã viết <a class="extiw" href="http://en.wikipedia.org/wiki/Colossal_Cave_Adventure" title="wikipedia:Colossal Cave Adventure">Cuộc phiêu lưu trong hang động khổng lồ</a>, một Cuộc phiêu lưu văn bản chịu ảnh hưởng mạnh mẽ bởi [Tolkien](../J/J.R.R._Tolkien.md) mà [Cuộc phiêu lưu khổng lồ](../C/Colossal_Adventure.md) dựa trên đó.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Donald A. Woods** (sinh [30 tháng 4](../_/30_April.md), [1954](../_/1954.md)) là một hacker và lập trình viên. Cùng với [Willie Crowther](../W/Willie_Crowther.md), ông đã viết <a class="extiw" href="http://en.wikipedia.org/wiki/Colossal_Cave_Adventure" title="wikipedia:Colossal Cave Adventure">Cuộc phiêu lưu trong hang động khổng lồ</a>, một Cuộc phiêu lưu văn bản chịu ảnh hưởng mạnh mẽ của [Tolkien](../J/J.R.R._Tolkien.md) mà [Cuộc phiêu lưu khổng lồ](../C/Colossal_Adventure.md) dựa trên đó.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Liên kết ngoài {#External_links}
 

@@ -14,11 +14,11 @@ images:
   - "Disambig.png"
 ---
 
-**Ringil** có thể tham khảo:
+**Ringil** có thể đề cập đến:
 
 - **[Ringil](Ringil.md), thanh kiếm của [Fingolfin](../F/Fingolfin.md)**
-- **[Ringil (tháp)](<Ringil_(tower).md>)**, tòa tháp cổ cầm đèn [Ormal](../O/Ormal.md)
-- **[Biển Ringil](../S/Sea_of_Ringil.md)**, một vùng biển nội địa phía nam của [Biển Helcar](../S/Sea_of_Helcar.md) đã nối với [Belegaer](../B/Belegaer.md) và [phương Đông Biển](../E/East_Sea.md)
+- **[Ringil (tháp)](<Ringil_(tower).md>)**, tòa tháp cổ giữ Đèn [Bình thường](../O/Ormal.md)
+- **[Biển Ringil](../S/Sea_of_Ringil.md)**, một vùng biển nội địa phía nam [Biển Helcar](../S/Sea_of_Helcar.md) nối với [Belegaer](../B/Belegaer.md) và [Biển Đông](../E/East_Sea.md)
 
 <hr style="margin-top:15px;"/>
 

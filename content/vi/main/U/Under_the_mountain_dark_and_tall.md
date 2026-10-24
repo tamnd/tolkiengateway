@@ -26,7 +26,7 @@ images:
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article describes a concept which is mentioned in <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s works, but was never given a definite name.
 </div></div>
 
-"**Dưới núi tối và cao**" là dòng đầu tiên của bài thơ được [những người lùn](../T/Thorin_and_Company.md) hát sau khi đoàn quân [Tiên rừng](../E/Elves_of_Mirkwood.md) và [Con Người](../M/Men.md) đến thung lũng [Dale](../D/Dale.md) trước [Cổng Trước](../F/Front_Gate.md) của [Erebor](../E/Erebor.md) (trong [T.A.](../T/Third_Age.md) [2941](../T/Third_Age_2941.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>). Khi màn đêm buông xuống, bữa tiệc của Thorin có thể nghe thấy tiếng đàn hạc của thần tiên và tiếng nhạc ngọt ngào vọng lên từ thung lũng. Để đáp lại và làm dịu tâm trạng của Thorin, những người lùn đã lấy đàn hạc và các nhạc cụ khác từ kho báu của [Smaug](../S/Smaug.md)và hát bài hát này. Bài hát làm anh vui Thorin nhưng [Bilbo Baggins](../B/Bilbo_Baggins.md) lại thấy chán nản trước giọng điệu hiếu chiến của bài thơ.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+"**Dưới ngọn núi tối tăm và cao lớn**" là dòng đầu tiên của bài thơ được [những người lùn](../T/Thorin_and_Company.md) hát sau khi đoàn quân [Yêu tinh rừng](../E/Elves_of_Mirkwood.md) và [Người](../M/Men.md) đến thung lũng [Dale](../D/Dale.md) trước [Cổng trước](../F/Front_Gate.md) của [Erebor](../E/Erebor.md) (ở [T.A.](../T/Third_Age.md) [2941](../T/Third_Age_2941.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>). Khi màn đêm buông xuống, nhóm của Thorin có thể nghe thấy tiếng đàn hạc của thần tiên và tiếng nhạc ngọt ngào vọng lên từ thung lũng. Để đáp lại và làm dịu tâm trạng của Thorin, những người lùn đã lấy đàn hạc và các nhạc cụ khác từ kho báu của [Smaug](../S/Smaug.md) và hát bài hát này. Bài hát đã làm Thorin hài lòng và khiến anh vui vẻ nhưng [Bilbo Baggins](../B/Bilbo_Baggins.md) trở nên chán nản trước giọng điệu hiếu chiến của bài thơ.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Trích đoạn thơ {#Poem_excerpt}
 
@@ -70,7 +70,7 @@ And ever so our foes shall fall!
 
 ## Xem thêm {#See_also}
 
-- [Bài thơ trong The Hobbit](../P/Poems_in_The_Hobbit.md)
+- [Bài thơ trong Người Hobbit](../P/Poems_in_The_Hobbit.md)
 
 <span></span>
 

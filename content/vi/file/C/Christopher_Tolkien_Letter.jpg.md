@@ -25,7 +25,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Josh Long: "Năm 2004, ngay sau khi tôi viết [Christopher Tolkien](../../main/C/Christopher_Tolkien.md), anh ấy đã rất tốt bụng khi trả lời bằng bức thư ngắn này."
+Josh Long: "Năm 2004, ngay sau khi tôi viết [Christopher Tolkien](../../main/C/Christopher_Tolkien.md), ông đã rất tốt bụng khi trả lời bằng bức thư ngắn này."
 
 ## Giấy phép {#Licensing}
 

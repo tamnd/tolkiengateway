@@ -30,7 +30,7 @@ Bản vẽ bút chì cổng Phương Tây cổng Moria của [J.R.R. Tolkien](..
 
 <dl><dd>&#39;Beyond the ominous water were reared vast cliffs, their stern faces pallid in the fading light: final and impassable.&#39;</dd></dl>
 
-Nó được xuất bản trong [Lịch J.R.R. Tolkien 1973](../../main/T/The_J.R.R._Tolkien_Calendar_1973.md) và 1974, và trong [The Lord of the Rings Lịch 1977](../../main/T/The_Lord_of_the_Rings_1977_Calendar.md) (được cắt ngắn một chút ở trên và dưới).
+Nó được xuất bản trong [Lịch J.R.R. Tolkien 1973](../../main/T/The_J.R.R._Tolkien_Calendar_1973.md) và 1974, và trong [The Lord of the Rings 1977 Calendar](../../main/T/The_Lord_of_the_Rings_1977_Calendar.md) (được cắt bớt một chút ở trên và dưới).
 
 ## Giấy phép {#Licensing}
 

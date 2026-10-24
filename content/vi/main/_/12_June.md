@@ -62,12 +62,12 @@ Sự kiện xảy ra vào ngày 12 tháng 6
 
 ## Trên Trái đất {#On_Earth}
 
-- **[1925](1925.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư cho ông Ashton](../L/Letter_to_Mr_Ashton.md).
+- **[1925](1925.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một bức thư cho ông Ashton](../L/Letter_to_Mr_Ashton.md).
 - **[1932](1932.md)** - Diễn viên [Michael Elsworth](../M/Michael_Elsworth.md) ra đời.
 - **[1967](1967.md)** - [Donald Swann](../D/Donald_Swann.md) và [William Elvin](../W/William_Elvin.md) thu âm nhạc cho *[The Road Goes Ever On](<../T/The_Road_Goes_Ever_On_(book).md>)*.
 - **[2002](2002.md)** - *[The Art of The Fellowship of the Ring](../T/The_Art_of_The_Fellowship_of_the_Ring.md)* được xuất bản.
 - **[2007](2007.md)** - Bộ phim dành cho người hâm mộ *[The Peril to the Shire](../T/The_Peril_to_the_Shire.md)* ra mắt khán giả riêng.
-- **[2007](2007.md)** - *[The Lord of the Rings Trực tuyến](../T/The_Lord_of_the_Rings_Online.md): Bản vá Shores of Evendim* được phát hành.
+- **[2007](2007.md)** - *[The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md): Bản vá Shores of Evendim* được phát hành.
 - **[2015](2015.md)** - [*Parma Eldalamberon* 22](../P/Parma_Eldalamberon_22.md) được xuất bản.
 
 ## Trong Arda {#In_Arda}

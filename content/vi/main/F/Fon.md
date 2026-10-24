@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Fall of Númenor"
 ---
 
-Chuyển hướng đến [The Fall of Númenor](../T/The_Fall_of_Númenor.md).
+Chuyển hướng đến [Sự sụp đổ của Númenor](../T/The_Fall_of_Númenor.md).

@@ -30,27 +30,27 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Other Minds 28</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../T/Thomas_Morwinsky.md" title="Thomas Morwinsky">Thomas Morwinsky</a>, <a href="../H/Hawke_Robinson.md" title="Hawke Robinson">Hawke Robinson</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Other Minds Volunteers</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">April <a href="../_/2025.md" title="2025">2025</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">PDF</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">110</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Other_Minds_27.md" title="Other Minds 27">Other Minds 27</a></td></tr></tbody></table>
 
-<b><i>Other Minds</i> 28</b> là số thứ 28 của *[Other Minds](Other_Minds.md)*, một tạp chí dành riêng cho *[Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)* và các trò chơi nhập vai khác lấy bối cảnh Trung Địa, xuất bản vào tháng 4 năm 2025.
+<b><i>Other Minds</i> 28</b> là số thứ 28 của *[Other Minds](Other_Minds.md)*, một tạp chí dành cho *[Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)* và các trò chơi nhập vai khác lấy bối cảnh ở Trung Địa, được xuất bản vào tháng 4 năm 2025.
 
 ## Nội dung {#Contents}
 
 - "Biên tập: Xong lại"
     - Bởi [Thomas Morwinsky](../T/Thomas_Morwinsky.md)
-- "The Road Goes Ever On"
+- "Con Đường Mãi Mãi Đi"
     - Bởi Thomas Morwinsky
 - "Thông tin nội bộ"
     - Bởi Thomas Morwinsky
 - "Về Sao Sắt"
     - Bởi Jens Peters
-- "Suy ngẫm về sức mạnh của trí tuệ Elvish"
+- "Suy ngẫm về sức mạnh của trí óc Tiên"
     - Bởi [Gabriele Quaglia](../G/Gabriele_Quaglia.md)
-- "Bởi Ngân hàng của Greyflood"
+- "Bên bờ sông lũ xám"
     - Bởi Rafael Perez
 - "Đánh giá: Moria - Qua cánh cửa Durin"
     - Bởi Thomas Morwinsky
 - "Harondor được tô màu"
     - Bởi Thomas Morwinsky & Cirdànn de Felrive
-- "Đánh giá: Vương quốc của Ba Chiếc Nhẫn"
+- "Đánh giá: Vương quốc của ba chiếc nhẫn"
     - Bởi Thomas Morwinsky
 
 - **Tác phẩm nghệ thuật / Bản đồ:**

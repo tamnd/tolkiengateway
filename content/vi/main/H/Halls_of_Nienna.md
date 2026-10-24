@@ -19,23 +19,23 @@ images:
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article describes a concept which is mentioned in <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s works, but was never given a definite name.
 </div></div>
 
-**Hội trường của Nienna** nằm ở biên giới cực tây của thế giới và người ta nói rằng các cửa sổ của ngôi nhà của cô nhìn "từ [các bức tường của thế giới](../W/Walls_of_the_World.md) ra ngoài".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> tuy nhiên, nó được cho là cũng gần [các hội trường của Mandos](Halls_of_Mandos.md), hướng về phía tây của [Valinor](../V/Valinor.md). [Valie](../V/Valar.md) [Nienna](../N/Nienna.md) chủ yếu sống trong hành lang của cô ấy và không thường xuyên ghé thăm [Valimar](../V/Valimar.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[1]</a></sup>
+**Các đại sảnh của Nienna** nằm ở biên giới cực tây của thế giới và người ta nói rằng các cửa sổ của ngôi nhà của bà nhìn "từ [các bức tường của thế giới](../W/Walls_of_the_World.md) ra ngoài".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> tuy nhiên, nó được cho là cũng gần [các đại sảnh của Mandos](Halls_of_Mandos.md), nằm về phía tây của [Valinor](../V/Valinor.md). [Valie](../V/Valar.md) [Nienna](../N/Nienna.md) chủ yếu sống trong sảnh của bà và không thường xuyên đến thăm [Valimar](../V/Valimar.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[1]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Như được mô tả trong phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md), Fui Nienna đã chọn cho mình một căn phòng rộng và tối trong [các tòa án của Mandos](Halls_of_Mandos.md) (trong phiên bản này là chồng cô). Hội trường này cô đặt tên là **Fui**, và ở đó:
+Như được mô tả trong phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md), Fui Nienna đã chọn nơi ở của mình một căn phòng rộng và tối trong [các tòa án của Mandos](Halls_of_Mandos.md) (trong phiên bản này là chồng cô). Hội trường này cô đặt tên là **Fui**, và ở đó:
 
 <blockquote class="tg-quote noexcerpt">
 <p>before her black chair burnt a brazier with a single flickering coal, and the roof was of <a href="../B/Bats.md" title="Bats">bats</a>&#39; wings, and the pillars that upheld it and the walls about were made of basalt.
 </p>
 </blockquote>
 
-Tại Fui được triệu hồi [Con Người](../M/Men.md) sau khi chết, để chờ đợi ngày diệt vong (một số ở lại đó, một số đến [Angamandi](../A/Angamandi.md) của Melko, nhiều đến [Arvalin](../A/Avathar.md), và một số đến Valinor).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup> Như Christopher Tolkien cũng đã lưu ý, trong các phiên bản sau, [Mandos](../M/Mandos.md) xuất hiện với tư cách là Kẻ hủy diệt của Valar <sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup>
+Tại Fui được triệu tập các [Người](../M/Men.md) sau khi chết, để chờ đợi ngày diệt vong (một số người ở lại đó, một số đến [Angamandi](../A/Angamandi.md) của Melko, nhiều người đến [Arvalin](../A/Avathar.md), và một số đến Valinor).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup> Như Christopher Tolkien cũng lưu ý, trong các phiên bản sau, chính [Mandos](../M/Mandos.md) xuất hiện với tư cách là Kẻ hủy diệt của các Valar <sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup>
 
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Người ta đã <a class="external text" href="https://www.quora.com/How-can-the-Halls-of-Nienna-look-outward-from-the-walls-of-the-world-if-between-the-walls-and-Aman-there-is-Ekkaia" rel="noreferrer noopener" target="_blank">lưu ý</a> rằng tài liệu tham khảo này có vấn đề, vì trong <i>Silmarillion</i> Valinor đã xuất bản được bao quanh bởi biển <a href="../E/Ekkaia.md" title="Ekkaia">Ekkaia</a> chứ không phải là <a class="mw-redirect" href="../I/Ilurambar.md" title="Ilurambar">Ilurambar</a> hoặc <a class="mw-redirect" href="../T/The_Void.md" title="The Void"> Hư Không</a> như trong <i><a class="mw-redirect" href="../A/Ambarkanta.md" title="Ambarkanta">Ambarkanta</a></i>trước đó.</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Người ta đã <a class="external text" href="https://www.quora.com/How-can-the-Halls-of-Nienna-look-outward-from-the-walls-of-the-world-if-between-the-walls-and-Aman-there-is-Ekkaia" rel="noreferrer noopener" target="_blank">lưu ý</a> rằng tài liệu tham khảo này có vấn đề, như trong <i>Silmarillion</i> đã xuất bản Valinor được bao quanh bởi biển <a href="../E/Ekkaia.md" title="Ekkaia">Ekkaia</a> chứ không phải <a class="mw-redirect" href="../I/Ilurambar.md" title="Ilurambar">Ilurambar</a> hoặc <a class="mw-redirect" href="../T/The_Void.md" title="The Void">Hư không</a> như trong <i><a class="mw-redirect" href="../A/Ambarkanta.md" title="Ambarkanta">Ambarkanta</a></i>trước đó.</span>
 </li>
 </ol></div></span>
 

@@ -20,7 +20,7 @@ images:
 
 Vào [28 tháng 10](../_/28_October.md) [1965](../_/1965.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã gửi **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho ông P.M. Cowan**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-- **Chủ đề:** Tolkien câu trả lời của một fan trẻ (9 tuổi vào năm 1965) liên quan đến *[The Lord of the Rings Index](../T/The_Lord_of_the_Rings_Index.md)*.
+- **Chủ đề:** Tolkien trả lời một người hâm mộ trẻ tuổi (9 tuổi vào năm 1965) về *[The Lord of the Rings Index](../T/The_Lord_of_the_Rings_Index.md)*.
 - **Xuất bản:** Không có.
 
 <span></span>

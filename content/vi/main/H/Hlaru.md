@@ -13,7 +13,7 @@ categories:
   - "Quenya nouns"
 ---
 
-<i><b>hlaru</b></i> là từ [Quenya](../Q/Quenya.md) chỉ một đôi tai.<sup id="cite_ref-PE_1-0" class="reference"><a href="#cite_note-PE-1">[1]</a></sup>
+<i><b>hlaru</b></i> là từ [Quenya](../Q/Quenya.md) để chỉ một đôi tai.<sup id="cite_ref-PE_1-0" class="reference"><a href="#cite_note-PE-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -21,7 +21,7 @@ categories:
 
 ## Có cùng nguồn gốc {#Cognates}
 
-- [Sindarin](../S/Sindarin.md) *[lhaw](../L/Lhaw.md)*<sup id="cite_ref-PE_1-2" class="reference"><a href="#cite_note-PE-1">[1]</a></sup>
+- [tiếng Sindarin](../S/Sindarin.md) *[lhaw](../L/Lhaw.md)*<sup id="cite_ref-PE_1-2" class="reference"><a href="#cite_note-PE-1">[1]</a></sup>
 
 <span></span>
 

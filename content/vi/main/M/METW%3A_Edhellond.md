@@ -31,13 +31,13 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/METW_-_Edhellond.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/7c/METW_-_Edhellond.jpg/320px-METW_-_Edhellond.jpg" decoding="async" loading="lazy" width="320" height="450" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/7/7c/METW_-_Edhellond.jpg 1.5x" data-file-width="420" data-file-height="590"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle"><a href="Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">MECCG</a> card</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Edhellond</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Card Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Type</th><td class="tg-infobox-data">Site</td></tr><tr><th scope="row" class="tg-infobox-label">Alignment</th><td class="tg-infobox-data">Hero</td></tr><tr><th scope="row" class="tg-infobox-label">Region</th><td class="tg-infobox-data">Anfalas</td></tr><tr><th scope="row" class="tg-infobox-label">Artist</th><td class="tg-infobox-data"><a href="../C/Christina_Wald.md" title="Christina Wald">Christina Wald</a></td></tr><tr><th scope="row" class="tg-infobox-label"><a href="Middle-earth_Collectible_Card_Game.md#Rarity" title="Middle-earth Collectible Card Game">Rarity</a></th><td class="tg-infobox-data">CommonB1</td></tr><tr><th scope="row" class="tg-infobox-label">Set number</th><td class="tg-infobox-data">TW386</td></tr></tbody></table>
 
-**METW: Edhellond** là thẻ trò chơi trong bộ *[Middle-earth: The Wizards](Middle-earth%253A_The_Wizards.md)*, dành cho [MECCG](Middle-earth_Collectible_Card_Game.md).
+**METW: Edhellond** là một thẻ trò chơi trong bộ *[Middle-earth: The Wizards](Middle-earth%253A_The_Wizards.md)*, dành cho [MECCG](Middle-earth_Collectible_Card_Game.md).
 
-<i><b>Lưu ý:</b></i> *"Edhellond" đề cập đến [Edhellond](../E/Edhellond.md) trong [huyền thoại](../L/Legendarium.md) của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).*
+<i><b>Note:</b></i> *"Edhellond" refers to [Edhellond](../E/Edhellond.md) of [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)'s [legendarium](../L/Legendarium.md).*
 
 ## Nội dung thẻ {#Card_text}
 
-- <i><b>Đường dẫn trang web từ <a href="METW%253A_Grey_Havens.md" title="METW: Grey Havens">Cảng Xám</a>:</b></i> \[f\] \[c\] \[c\] \[c\] \[c\] \[w\]
+- <i><b>Đường dẫn trang web từ <a href="METW%253A_Grey_Havens.md" title="METW: Grey Havens">Grey Havens</a>:</b></i> \[f\] \[c\] \[c\] \[c\] \[c\] \[w\]
 - <i><b>Đường dẫn trang web từ <a href="METW%253A_Lórien.md" title="METW: Lórien">Lórien</a>:</b></i> \[w\] \[b\] \[f\] \[f\] \[b\] \[w\]
 
-*"Đã lâu rồi người dân của Nimrodel rời khỏi khu rừng của Lórien, nhưng người ta có thể thấy rằng không phải tất cả đều khởi hành từ thiên đường của Amroth trên mặt nước."* <i><b>-<a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">LotRV</a></b></i>
+*"Đã lâu rồi người dân Nimrodel rời khỏi vùng rừng Lórien, nhưng người ta có thể thấy rằng không phải tất cả đều đi thuyền từ thiên đường của Amroth về phía tây bằng đường biển."* <i><b>-<a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">LotRV</a></b></i>

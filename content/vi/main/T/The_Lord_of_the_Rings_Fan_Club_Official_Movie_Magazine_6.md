@@ -33,7 +33,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Fan_Club_Official_Movie_Magazine_6.jpg.md"><img src="https://tolkiengateway.net/w/images/5/53/The_Lord_of_the_Rings_Fan_Club_Official_Movie_Magazine_6.jpg" decoding="async" loading="lazy" width="200" height="266" class="mw-file-element" data-file-width="200" data-file-height="266"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Lord of the Rings<br/>Fan Club Official Movie Magazine 6</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Carla Atkinson</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Warren Holland</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">December 2002</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="The_Lord_of_the_Rings_Fan_Club_Official_Movie_Magazine_5.md" title="The Lord of the Rings Fan Club Official Movie Magazine 5">Issue 5</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="The_Lord_of_the_Rings_Fan_Club_Official_Movie_Magazine_7.md" title="The Lord of the Rings Fan Club Official Movie Magazine 7">Issue 7</a></td></tr></tbody></table>
 
-<b><i>The Lord of the Rings Tạp chí Điện ảnh Chính thức của Fan Club</i> 6</b> là số thứ sáu của *[The Lord of the Rings Fan Club Official Movie Magazine](The_Lord_of_the_Rings_Fan_Club_Official_Movie_Magazine.md)* vào tháng 12 năm 2002/tháng 1 năm 2003.
+<b><i>Tạp chí điện ảnh chính thức của Câu lạc bộ người hâm mộ Chúa tể những chiếc nhẫn</i> 6</b> là số thứ sáu của *[The Lord of the Rings Fan Club Official Movie Magazine](The_Lord_of_the_Rings_Fan_Club_Official_Movie_Magazine.md)* vào tháng 12 năm 2002/tháng 1 năm 2003.
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
 <p>Legendary actor Christopher Lee talks about not playing villains, and British actor Bernard Hill shares the experience of playing Théoden. Weta-maestro Richard Taylor shows us what’s behind the weapons of the Uruk-hai, and Matt Cooper proves that even lawyers get dream jobs.
@@ -49,9 +49,9 @@ infobox:
 - **12** TIN TỨC TỪ TRUNG ĐỊA
     - Chuẩn bị cho buổi ra mắt The Two Towers ... Một kỷ lục thế giới bị phá vỡ ... Bài đánh giá về trò chơi điện tử The Two Towers của Electronic Arts ... và một đám cưới của Fan Club!
 - **18** NHỮNG ANH HÙNG VUI VẺ
-    - Cuộc đời của luật sư New Zealand Matt Cooper có một bước ngoặt thú vị khi anh gia nhập bộ phận địa điểm sản xuất phim The Lord of the Rings.
+    - Cuộc đời của luật sư người New Zealand Matt Cooper đã có một bước ngoặt thú vị khi anh gia nhập bộ phận địa điểm sản xuất phim Chúa tể của những chiếc nhẫn.
 - **70** TẬP TRUNG CỦA QUẠT
-    - Báo cáo về buổi tụ tập người hâm mộ tháng 8 cho buổi biểu diễn ở Hollywood Bowl với điểm số Howard Shore The Fellowship of the Ring, cùng với điểm nổi bật là Australian Fellowship và một cuộc thi mới.
+    - Báo cáo về buổi tụ tập người hâm mộ vào tháng 8 cho buổi biểu diễn The Fellowship of the Ring của Howard Shore ở Hollywood Bowl, cùng với điểm nổi bật là Australian Fellowship và một cuộc thi mới.
 - **73** DANH MỤC
 - **82** ĐÁNG GIÁ
 
@@ -60,12 +60,12 @@ infobox:
 ### Tính năng {#Features}
 
 - **24** CẬP NHẬT VỚI PETER JACKSON
-    - Đây có thể là cuộc phỏng vấn yêu thích của chúng tôi với đạo diễn The Lord of the Rings. Bạn sẽ không muốn bỏ lỡ những tiết lộ của Jackson về một diễn viên nào đó bị thương khi máy quay đang quay nhưng vẫn không bỏ lỡ nhịp nào; ngày anh phải quay phim mà không được nhìn thấy; cảm giác của anh ấy khi tham dự buổi ra mắt; và nhiều hơn nữa
+    - Đây có thể là cuộc phỏng vấn yêu thích của chúng tôi với đạo diễn Chúa tể những chiếc nhẫn. Bạn sẽ không muốn bỏ lỡ những tiết lộ của Jackson về một diễn viên nào đó bị thương khi máy quay đang quay nhưng vẫn không bỏ lỡ nhịp nào; ngày anh phải quay phim mà không được nhìn thấy; cảm giác của ông khi tham dự buổi ra mắt; và nhiều hơn nữa
 - **34** TÌM KIẾM SARUMAN
-    - Diễn viên huyền thoại người Anh Christopher Lee nói anh không đóng vai phản diện - anh đóng vai con người. Lee nói với chúng ta rằng Saruman, nhân vật của anh trong The Lord of the Rings, không phải là một kẻ phản diện mà là một "người đàn ông vĩ đại bị lòng tham quyền lực hạ thấp."
-- **44** MỘT LẦN NỮA CHO VI PHẠM - Phỏng vấn Bernard Hill
-    - Diễn viên người Anh thú vị nói rằng làm việc trên The Lord of the Rings là một trải nghiệm phim đặc biệt ở nhiều cấp độ. Anh ấy chia sẻ những câu chuyện hậu trường và hiểu biết sâu sắc với chúng ta đúng lúc anh ấy ra mắt với vai Theoden trong The Two Towers.
-- **54** HIỆN PHẨM - Uruk-hai Vũ khí
-    - Richard Taylor kể lại "câu chuyện phía sau" mà ông và nhóm thiết kế của mình đã mơ ước về Uruk-hai trước khi tạo ra loại vũ khí tàn bạo mà khán giả xem phim sẽ thấy trong Trận chiến Helm's Deep.
-- **66** XUỐNG CON ĐƯỜNG PHIÊU LƯU - The Business of Blades
-    - Justin Pakes trò chuyện với các nghệ nhân của United Cutlery về thách thức trong việc tạo ra các bản sao cho người hâm mộ và nhà sưu tập sao cho phù hợp với những thanh kiếm và vũ khí khác được chế tạo tỉ mỉ đến từng chi tiết do Weta Workshop tạo ra cho The Lord of the Rings.
+    - Diễn viên huyền thoại người Anh Christopher Lee nói rằng ông không đóng vai phản diện - ông đóng vai con người. Lee nói với chúng ta rằng Saruman, nhân vật của anh trong Chúa tể những chiếc nhẫn, không phải là một kẻ phản diện mà là một "người đàn ông vĩ đại bị lòng ham muốn quyền lực hạ thấp."
+- **44** MỘT LẦN NỮA ĐẾN VI PHẠM - Phỏng vấn Bernard Hill
+    - Nam diễn viên thú vị người Anh nói rằng đóng phim Chúa tể của những chiếc nhẫn là một trải nghiệm phim đặc biệt ở nhiều cấp độ. Ông chia sẻ những câu chuyện hậu trường và những hiểu biết sâu sắc với chúng tôi đúng lúc ông ra mắt với vai Theoden trong The Two Towers.
+- **54** HIỆN PHẨM - Vũ khí Uruk-hai
+    - Richard Taylor kể lại "câu chuyện phía sau" mà ông và nhóm thiết kế của mình đã mơ về Uruk-hai trước khi tạo ra loại vũ khí tàn bạo mà khán giả xem phim sẽ thấy trong Trận chiến Helm's Deep.
+- **66** HƯỚNG DẪN CON ĐƯỜNG PHIÊU LƯU - The Business of Blades
+    - Justin Pakes trò chuyện với các nghệ nhân của United Cutlery về thách thức tạo ra các bản sao cho người hâm mộ và nhà sưu tập phù hợp với những thanh kiếm và vũ khí khác được chế tạo tỉ mỉ đến từng chi tiết do Weta Workshop tạo ra cho Chúa tể của những chiếc nhẫn.

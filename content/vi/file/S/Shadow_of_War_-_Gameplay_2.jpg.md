@@ -25,7 +25,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Hình ảnh từ [Trung Địa: Bóng Tối of War](../../main/M/Middle-earth%253A_Shadow_of_War.md).
+Hình ảnh từ [Middle-earth: Shadow of War](../../main/M/Middle-earth%253A_Shadow_of_War.md).
 
 ## Giấy phép {#Licensing}
 

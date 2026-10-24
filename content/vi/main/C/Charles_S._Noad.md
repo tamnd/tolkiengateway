@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Charles Noad"
 ---
 
-Chuyển hướng đến [Charles Noad](Charles_Noad.md).
+Chuyển hướng tới [Charles Noad](Charles_Noad.md).

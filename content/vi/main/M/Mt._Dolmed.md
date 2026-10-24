@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dolmed"
 ---
 
-Chuyển hướng đến [Dolmed](../D/Dolmed.md).
+Chuyển hướng tới [Dolmed](../D/Dolmed.md).

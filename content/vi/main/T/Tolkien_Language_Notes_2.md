@@ -30,9 +30,9 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tolkien_Language_Notes_2.jpg.md"><img src="https://tolkiengateway.net/w/images/5/51/Tolkien_Language_Notes_2.jpg" decoding="async" loading="lazy" width="154" height="205" class="mw-file-element" data-file-width="154" data-file-height="205"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Tolkien Language Notes Issue 2</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../J/Jim_Allan.md" title="Jim Allan">James D. Allan</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Mythopoeic Linguistic Fellowship</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/1974.md" title="1974">1974</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Magazine</td></tr></tbody></table>
 
-<b><i>Tolkien Ghi chú ngôn ngữ</i> 2</b> là một số của fanzine *Tolkien Language Notes*.
+<b><i>Ghi chú ngôn ngữ Tolkien</i> 2</b> là một số của fanzine *Tolkien Language Notes*.
 
-Tạp chí bao gồm bài viết\[?\] của [Jim Allan](../J/Jim_Allan.md)"Danh từ Quenya" - bài này bao gồm bản chép lại trang bản thảo "[Sự suy giảm Plotz](The_Plotz_Declension.md)" của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Tạp chí bao gồm bài viết "Danh từ Quenya" của [Jim Allan](../J/Jim_Allan.md)\[?\] - bài này bao gồm bản chép lại trang bản thảo "[Sự suy giảm Plotz](The_Plotz_Declension.md)" của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

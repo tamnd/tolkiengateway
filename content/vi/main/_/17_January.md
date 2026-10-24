@@ -73,11 +73,11 @@ Sự kiện xảy ra vào ngày 17 tháng 1.
 - **[1977](1977.md)** - [Adam Fox](../A/Adam_Fox.md), [Mơ hồ](../I/Inklings.md), qua đời.
 - **[1982](1982.md)** - *[Mr. Bliss](../M/Mr._Bliss.md)* được xuất bản ở Mỹ.
 - **[1983](1983.md)** - Diễn viên [Ryan Gage](../R/Ryan_Gage.md) ra đời.
-- **[2001](2001.md)** - Tolkien nhà sưu tập [Richard E. Blackwelder](../R/Richard_E._Blackwelder.md) qua đời.
+- **[2001](2001.md)** - Nhà sưu tập Tolkien [Richard E. Blackwelder](../R/Richard_E._Blackwelder.md) qua đời.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) vượt qua [Silverlode](../S/Silverlode.md) và đạt được [Naith](../N/Naith.md) và [Cerin Amroth](../C/Cerin_Amroth.md).
-    - Những [Orc](../O/Orcs.md) theo sau họ bị giết hoặc chạy trốn đến [Dãy Núi Sương Mù](../M/Misty_Mountains.md).
-    - Học bổng sẽ đến [Caras Galadhon](../C/Caras_Galadhon.md) vào buổi tối.
+    - [Fellowship of the Ring](../F/Fellowship_of_the_Ring.md) vượt qua [Silverlode](../S/Silverlode.md) và đến được [Naith](../N/Naith.md) và [Cerin Amroth](../C/Cerin_Amroth.md).
+    - Những [Orc](../O/Orcs.md) theo sau họ sẽ bị giết hoặc chạy trốn đến [Dãy núi Sương mù](../M/Misty_Mountains.md).
+    - Hiệp hội đến [Caras Galadhon](../C/Caras_Galadhon.md) vào buổi tối.

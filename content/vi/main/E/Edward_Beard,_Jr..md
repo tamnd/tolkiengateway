@@ -28,13 +28,13 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Person</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Edward Peter Beard, Jr.</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Born</th><td class="tg-infobox-data"><a href="../_/11_December.md" title="11 December">11 December</a> <a href="../_/1964.md" title="1964">1964</a></td></tr><tr><th scope="row" class="tg-infobox-label">Occupation</th><td class="tg-infobox-data">Artist</td></tr></tbody></table>
 
-**Edward Beard, Jr.** (sinh [ngày 11 tháng 12](../_/11_December.md) [1964](../_/1964.md)) là một nghệ sĩ giả tưởng người Mỹ.<sup id="cite_ref-CCGA_1-0" class="reference"><a href="#cite_note-CCGA-1">[1]</a></sup> Anh được [Vương miện Sắt Enterprises](../I/Iron_Crown_Enterprises.md) ký hợp đồng để tạo tác phẩm nghệ thuật cho [Trung Địa Trò chơi Thẻ sưu tập](../M/Middle-earth_Collectible_Card_Game.md).
+**Edward Beard, Jr.** (sinh [ngày 11 tháng 12](../_/11_December.md) [1964](../_/1964.md)) là một nghệ sĩ giả tưởng người Mỹ.<sup id="cite_ref-CCGA_1-0" class="reference"><a href="#cite_note-CCGA-1">[1]</a></sup> Anh được [Iron Crown Enterprises](../I/Iron_Crown_Enterprises.md) ký hợp đồng để tạo ra tác phẩm nghệ thuật cho [Trò chơi thẻ bài sưu tầm ở Trung Địa](../M/Middle-earth_Collectible_Card_Game.md).
 
-Anh ấy có xu hướng làm việc với acrylic để tạo màu và dùng than chì cho các tác phẩm đen trắng.<sup id="cite_ref-CCGA_1-1" class="reference"><a href="#cite_note-CCGA-1">[1]</a></sup>
+Ông có xu hướng làm việc với acrylic để tạo màu và dùng than chì cho các tác phẩm đen trắng.<sup id="cite_ref-CCGA_1-1" class="reference"><a href="#cite_note-CCGA-1">[1]</a></sup>
 
 ## Sự nghiệp {#Career}
 
-Beard không được đào tạo bài bản vì trường học của anh coi thường nghệ thuật giả tưởng. Mặc dù vậy, ông được coi là người có triển vọng và ban đầu làm việc trong các ủy ban tôn giáo. Sau đó, anh trở thành họa sĩ cho [Magic: The Gathering](../M/Magic%253A_The_Gathering.md) và nhiều game giả tưởng khác. <sup id="cite_ref-CCGA_1-2" class="reference"><a href="#cite_note-CCGA-1">[1]</a></sup>
+Beard không được đào tạo bài bản vì trường học của anh coi thường nghệ thuật giả tưởng. Mặc dù vậy, ông được coi là người có triển vọng và ban đầu làm việc trong các ủy ban tôn giáo. Sau này, anh trở thành họa sĩ cho [Magic: The Gathering](../M/Magic%253A_The_Gathering.md) và nhiều game giả tưởng khác. <sup id="cite_ref-CCGA_1-2" class="reference"><a href="#cite_note-CCGA-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}
 

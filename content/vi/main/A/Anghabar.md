@@ -27,11 +27,11 @@ langlinks:
     url: "https://www.tolkiendil.com/encyclo:geographie:reliefs:beleriand:anghabar"
 ---
 
-**Anghabar** là một mỏ ở phần phía bắc của [Echoriath](../E/Echoriath.md), hay [Bao quanh Dãy Núi](../E/Encircling_Mountains.md) của [Gondolin](../G/Gondolin.md). Chính việc tìm kiếm quặng quý trên núi của [Maeglin](../M/Maeglin.md) đã khiến anh phát hiện ra một vỉa sắt cứng phong phú ở phần phía bắc của dãy núi. Từ mỏ Anghabar, lượng sắt đó đã được khai thác và sử dụng để tăng cường, cải tiến vũ khí của Gondolin, sẵn sàng cho những trận chiến liều lĩnh và hủy diệt trong những năm cuối của [Kỷ Đệ Nhất](../F/First_Age.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Anghabar** là một mỏ ở phía bắc của [Echoriath](../E/Echoriath.md), hay [Những ngọn núi bao quanh](../E/Encircling_Mountains.md) của [Gondolin](../G/Gondolin.md). Chính [Maeglin](../M/Maeglin.md) đang tìm kiếm những loại quặng quý trên núi đã khiến anh phát hiện ra một vỉa sắt cứng dồi dào ở phần phía bắc của dãy núi. Từ mỏ Anghabar, lượng sắt đó được khai thác và sử dụng để tăng cường và cải tiến vũ khí của Gondolin, sẵn sàng cho những trận chiến tuyệt vọng và hủy diệt trong những năm cuối của [Kỷ nguyên thứ nhất](../F/First_Age.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Anghabar* là [Sindarin](../S/Sindarin.md) dành cho "Iron Delvings",<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> từ *[ang](Ang.md)* ("sắt") + *[habar](../H/Habar.md)* ("mỏ đã đào").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+*Anghabar* là [Sindarin](../S/Sindarin.md) cho "Iron Delvings",<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> từ *[ang](Ang.md)* ("sắt") + *[habar](../H/Habar.md)* ("mỏ đã đào").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

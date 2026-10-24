@@ -15,11 +15,11 @@ hidden_categories:
   - "Pages with short description"
 ---
 
-**Lissuin** là một loài hoa thơm [Tol Eressëa](../T/Tol_Eressëa.md), được cho là mang lại cảm giác dễ chịu cho trái tim. Đó là một trong những loại hoa được tàu [Eldar](../E/Eldar.md) mang đến [Númenor](../N/Númenor.md) để chúc mừng đám cưới của [Aldarion](../T/Tar-Aldarion.md) và [Erendis](../E/Erendis.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Lissuin** là loài hoa thơm của [Tol Eressëa](../T/Tol_Eressëa.md), được cho là mang lại cảm giác dễ chịu cho trái tim. Đó là một trong những loại hoa được tàu của [Eldar](../E/Eldar.md) mang đến [Númenor](../N/Númenor.md) để chúc mừng đám cưới của [Aldarion](../T/Tar-Aldarion.md) và [Erendis](../E/Erendis.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Tên liên quan đến từ [Quenya](../Q/Quenya.md) *[lissë](Lissë.md)* có nghĩa là "ngọt ngào".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
+Tên có liên quan đến từ [Quenya](../Q/Quenya.md) *[lissë](Lissë.md)* có nghĩa là "ngọt ngào".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

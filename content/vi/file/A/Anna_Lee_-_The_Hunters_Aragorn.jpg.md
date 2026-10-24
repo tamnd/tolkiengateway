@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-*The Hunters - Aragorn* bởi [Anna Lee](../../main/A/Anna_Lee.md).
+*The Hunters - Aragorn* của [Anna Lee](../../main/A/Anna_Lee.md).
 
 ## Giấy phép {#Licensing}
 

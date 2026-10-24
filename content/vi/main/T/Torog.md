@@ -30,7 +30,7 @@ langlinks:
 
 ## Xem thêm {#See_also}
 
-- [Hắc Ngữ](../B/Black_Speech.md) *[olog](../O/Olog.md)*
+- [Bài phát biểu của người da đen](../B/Black_Speech.md) *[olog](../O/Olog.md)*
 
 <span></span>
 

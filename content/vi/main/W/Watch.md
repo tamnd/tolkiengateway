@@ -12,11 +12,11 @@ categories:
   - "Organisations in the Shire"
 ---
 
-**Cảnh sát** là cơ quan [Hobbit](../H/Hobbits.md) chịu trách nhiệm duy trì hòa bình ở [ Shire](../T/The_Shire.md). Các thành viên của nó đội mũ có gắn lông vũ để phân biệt mình.
+**Nhóm canh gác** là một nhóm [Người Hobbit](../H/Hobbits.md) chịu trách nhiệm duy trì hòa bình ở [Shire](../T/The_Shire.md). Các thành viên của nó đội mũ có gắn lông vũ để phân biệt mình.
 
-Nó bao gồm [Cảnh sát trưởng](../S/Shirriffs.md), một lực lượng cảnh sát gồm 12 hobbit (ba người trong mỗi [Farthing](../F/Farthings.md)) chịu trách nhiệm về 'Công việc nội bộ' và [Bounders](../B/Bounders.md), một cơ quan lớn hơn bảo vệ biên giới của Shire. Người đứng đầu Đội Tuần tra là [Cảnh sát trưởng đầu tiên](../F/First_Shirriff.md), một chức vụ gắn liền với chức vụ của [Thị trưởng Michel Delving](../M/Mayor_of_Michel_Delving.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Nó bao gồm [Cảnh sát trưởng](../S/Shirriffs.md), một lực lượng cảnh sát gồm 12 người hobbit (ba người trong mỗi [Farthing](../F/Farthings.md)) chịu trách nhiệm về 'Công việc nội bộ' và [Bounders](../B/Bounders.md), một cơ quan lớn hơn bảo vệ biên giới của Quận. Người đứng đầu Đội Tuần tra là [Cảnh sát trưởng thứ nhất](../F/First_Shirriff.md), một chức vụ gắn liền với chức vụ của [Thị trưởng Michel Delving](../M/Mayor_of_Michel_Delving.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Trong thời gian [Saruman](../S/Saruman.md) chiếm đóng, cơ thể của anh ta và [Cảnh sát trưởng](../C/Chief_Shirriff.md) đã tăng lên rất nhiều. Lực lượng mở rộng này được tổ chức thành các đại đội, một trong số đó là [Đội quân Eastfarthing đầu tiên](../F/First_Eastfarthing_Troop.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Trong thời gian [Saruman](../S/Saruman.md) chiếm đóng, cơ thể của ông ta và [Cảnh sát trưởng](../C/Chief_Shirriff.md) đã tăng lên rất nhiều. Lực lượng mở rộng này được tổ chức thành các đại đội, một trong số đó là [Đội quân Eastfarthing đầu tiên](../F/First_Eastfarthing_Troop.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Xem thêm {#See_also}
 

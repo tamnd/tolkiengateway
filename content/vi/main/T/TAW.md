@@ -12,16 +12,16 @@ categories:
   - "Roots"
 ---
 
-**TAW** hoặc **TAWA**, là [Primitive Quendian](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) biểu thị "gỗ".<sup id="cite_ref-PE17_1-0" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**TAW** hoặc **TAWA**, là [tiếng Quendian nguyên thủy](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) biểu thị "gỗ".<sup id="cite_ref-PE17_1-0" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Công cụ phái sinh {#Derivatives}
 
-- [Common Eldarin](../C/Common_Eldarin.md): *tau-rē* ("rừng")<sup id="cite_ref-PE17_1-1" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup>
+- [Eldarin thông thường](../C/Common_Eldarin.md): *tau-rē* ("rừng")<sup id="cite_ref-PE17_1-1" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup>
     - [Quenya](../Q/Quenya.md): *[taure](Taure.md)*<sup id="cite_ref-PE17_1-2" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup>
-    - [Sindarin](../S/Sindarin.md): *[taur](Taur.md#Sindarin)*<sup id="cite_ref-PE17_1-3" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup>
+    - [Tiếng Sindarin](../S/Sindarin.md): *[taur](Taur.md#Sindarin)*<sup id="cite_ref-PE17_1-3" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup>
 
-- [Quenya](../Q/Quenya.md): *töa* ("gỗ làm vật liệu"); *tauka* ("cứng, bằng gỗ"); *toina* ("gỗ - nguyên liệu" hoặc "gỗ tự làm")<sup id="cite_ref-PE17_1-4" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup>
-- [Sindarin](../S/Sindarin.md): *taw* ("gỗ làm vật liệu"); *tāva* ("cây lớn"); *tawen, tewin* ("gỗ - bằng vật liệu" hoặc "gỗ làm thành"); *taug* ("vững chắc, mạnh mẽ")<sup id="cite_ref-PE17_1-5" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup>
+- [Quenya](../Q/Quenya.md): *töa* ("gỗ làm nguyên liệu"); *tauka* ("cứng, bằng gỗ"); *toina* ("gỗ - nguyên liệu" hoặc "gỗ tự làm")<sup id="cite_ref-PE17_1-4" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup>
+- [Sindarin](../S/Sindarin.md): *taw* ("gỗ làm nguyên liệu"); *tāva* ("cây lớn"); *tawen, tewin* ("gỗ - bằng vật liệu" hoặc "gỗ làm thành"); *taug* ("vững chắc, mạnh mẽ")<sup id="cite_ref-PE17_1-5" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Arnor: The Realm"
 ---
 
-Chuyển hướng đến [Arnor: Vương quốc](../A/Arnor%253A_The_Realm.md).
+Chuyển hướng đến [Arnor: The Realm](../A/Arnor%253A_The_Realm.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "First Age 472"
 ---
 
-Chuyển hướng tới [Kỷ Đệ Nhất 472](../F/First_Age_472.md).
+Chuyển hướng tới [Kỷ nguyên thứ nhất 472](../F/First_Age_472.md).

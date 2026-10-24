@@ -53,13 +53,13 @@ infobox:
 
 ## Lịch sử {#History}
 
-Sam luôn có ý định đặt tên một trong những đứa con của mình theo tên người bạn thân nhất của mình, [Frodo Baggins](Frodo_Baggins.md). Đứa con đầu lòng tuy là [gái](../E/Elanor_Gardner.md) nhưng anh đặt tên đứa thứ hai là Frodo.<sup id="cite_ref-Grey_1-1" class="reference"><a href="#cite_note-Grey-1">[1]</a></sup>
+Sam luôn có ý định đặt tên một trong những đứa con của mình theo tên người bạn thân nhất của anh, [Frodo Baggins](Frodo_Baggins.md). Mặc dù đứa con đầu lòng của ông là [gái](../E/Elanor_Gardner.md) nhưng ông đã đặt tên đứa con thứ hai là Frodo.<sup id="cite_ref-Grey_1-1" class="reference"><a href="#cite_note-Grey-1">[1]</a></sup>
 
 Frodo trở thành người đứng đầu [Gia đình Gardner](../G/Gardner_Family~66367.md) và kế thừa [Bag End](../B/Bag_End.md). Con trai ông là [Holfast Gardner](../H/Holfast_Gardner.md).<sup id="cite_ref-Gamgee_2-2" class="reference"><a href="#cite_note-Gamgee-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Trong *[King's Letter](../K/King's_Letter.md)*, [Vua Elessar](../A/Aragorn.md) đề cập đến tên của anh ấy trong [Sindarin](../S/Sindarin.md) là *Iorhael*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Trong *[King's Letter](../K/King's_Letter.md)*, [Vua Elessar](../A/Aragorn.md) đề cập đến tên của ông trong [Sindarin](../S/Sindarin.md) là *Iorhael*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
@@ -80,7 +80,7 @@ Trong *[King's Letter](../K/King's_Letter.md)*, [Vua Elessar](../A/Aragorn.md) �
 		</li>
 </ul>
 
-<b>2003: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">The Lord of the Rings: The Return of the King</a></i>:</b>
+<b>2003: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">Chúa tể của những chiếc nhẫn: Sự trở lại của nhà vua</a></i>:</b>
 
 <dl><dd><a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Samwise&#39;s</a> son is seen in the final scene of the film, in which Sam returns to his home and is greeted by <a href="../R/Rose_Cotton.md" title="Rose Cotton">Rosie</a>, who is holding his daughter and son. He is credited as &#34;Baby Gamgee&#34; and portrayed by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Maisy_McLeod-Riera&amp;action=edit&amp;redlink=1" title="Maisy McLeod-Riera (page does not exist)">Maisy McLeod-Riera</a>. <a href="../T/The_Lord_of_the_Rings_Trading_Card_Game.md" title="The Lord of the Rings Trading Card Game">The Lord of the Rings Trading Card Game</a> expansion <i>Bloodlines</i> identifies him as Frodo Gamgee.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></dd></dl>
 

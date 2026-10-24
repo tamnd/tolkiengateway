@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Halifirien"
 ---
 
-Chuyển hướng đến [Halifirien](../H/Halifirien.md).
+Chuyển hướng tới [Halifirien](../H/Halifirien.md).

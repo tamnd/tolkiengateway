@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Rough Guide to The Lord of the Rings"
 ---
 
-Chuyển hướng tới [Hướng dẫn sơ bộ về The Lord of the Rings](The_Rough_Guide_to_The_Lord_of_the_Rings.md).
+Chuyển hướng đến [Hướng dẫn sơ bộ về Chúa tể của những chiếc nhẫn](The_Rough_Guide_to_The_Lord_of_the_Rings.md).

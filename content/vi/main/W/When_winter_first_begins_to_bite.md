@@ -32,11 +32,11 @@ infobox:
   <tr><th scope="row" class="tg-infobox-label">Subject(s)</th><td class="tg-infobox-data"><a href="../T/The_Wild.md" title="The Wild">The Wild</a>, <a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo Baggins</a>, <a href="../R/Red_Book_of_Westmarch.md" title="Red Book of Westmarch">Red Book of Westmarch</a>, <a href="../H/Hobbits.md" title="Hobbits">Hobbits</a></td></tr>
 </tbody></table>
 
-<i><b>Khi mùa đông bắt đầu đến</b></i><sup id="cite_ref-title_1-0" class="reference"><a href="#cite_note-title-1">[1]</a></sup> là một "[Hobbit](../H/Hobbits.md) câu ngạn ngữ"<sup id="cite_ref-collectedpoems1_2-0" class="reference"><a href="#cite_note-collectedpoems1-2">[2]</a></sup> ngắn gọn được [Bilbo Baggins](../B/Bilbo_Baggins.md) đọc cho [Frodo](../F/Frodo_Baggins.md) trong "[The Ring Goes South](../T/The_Ring_Goes_South.md)", trong đó ông cảnh báo Frodo về sự nguy hiểm khi đi du lịch vào mùa đông.<sup id="cite_ref-winter_3-0" class="reference"><a href="#cite_note-winter-3">[3]</a></sup>
+<i><b>Khi mùa đông bắt đầu đến</b></i><sup id="cite_ref-title_1-0" class="reference"><a href="#cite_note-title-1">[1]</a></sup> là một đoạn "[Câu ngạn ngữ Hobbit](../H/Hobbits.md)"<sup id="cite_ref-collectedpoems1_2-0" class="reference"><a href="#cite_note-collectedpoems1-2">[2]</a></sup> được [Bilbo Baggins](../B/Bilbo_Baggins.md) đọc cho [Frodo](../F/Frodo_Baggins.md) trong "[The Ring Goes South](../T/The_Ring_Goes_South.md)", trong đó ông cảnh báo Frodo về sự nguy hiểm khi du hành đến miền Nam mùa đông.<sup id="cite_ref-winter_3-0" class="reference"><a href="#cite_note-winter-3">[3]</a></sup>
 
 ## Lịch sử {#History}
 
-Khi Bilbo, [Frodo Baggins](../F/Frodo_Baggins.md), [Peregrin Took](../P/Peregrin_Took.md), [Meriadoc Brandybuck](../M/Meriadoc_Brandybuck.md), [Samwise Gamgee](../S/Samwise_Gamgee.md)và [Gandalf](../G/Gandalf.md) đang thảo luận về [Hội đồng Elrond](../C/Council_of_Elrond.md) và hành trình sắp tới tới [Mordor](../M/Mordor.md). Bilbo nhận thấy họ sẽ đi du lịch vào mùa đông vì Frodo quyết định đợi đến sinh nhật của anh ấy để bắt đầu hành trình đến [Rivendell](../R/Rivendell.md) như một cách tôn vinh Bilbo. Khi Bilbo phát hiện ra, anh ấy đã không đồng tình với quyết định của mình vì anh ấy sẽ không bao giờ tặng [Bag End](../B/Bag_End.md) cho [Sackville-Baggins](../S/Sackville-Baggins.md) vào ngày sinh nhật của anh ấy. Bilbo rồi than thở trong một bài thơ về việc Frodo sẽ đi du lịch trong mùa đông như thế nào.<sup id="cite_ref-winter_3-1" class="reference"><a href="#cite_note-winter-3">[3]</a></sup>
+Khi Bilbo, [Frodo Baggins](../F/Frodo_Baggins.md), [Peregrin Took](../P/Peregrin_Took.md), [Meriadoc Brandybuck](../M/Meriadoc_Brandybuck.md), [Samwise Gamgee](../S/Samwise_Gamgee.md) và [Gandalf](../G/Gandalf.md) đang thảo luận về [Hội đồng Elrond](../C/Council_of_Elrond.md) và chuyến hành trình sắp tới tới [Mordor](../M/Mordor.md). Bilbo nhận thấy rằng họ sẽ đi du lịch vào mùa đông vì Frodo quyết định đợi đến sinh nhật của mình để bắt đầu cuộc hành trình đến [Rivendell](../R/Rivendell.md) như một cách tôn vinh Bilbo. Khi Bilbo phát hiện ra, ông đã không đồng tình với quyết định của mình vì ông sẽ không bao giờ tặng [Bag End](../B/Bag_End.md) cho [Sackville-Baggins](../S/Sackville-Baggins.md) vào ngày sinh nhật của ông. Bilbo sau đó đã than thở trong một bài thơ về việc Frodo sẽ đi du lịch trong mùa đông.<sup id="cite_ref-winter_3-1" class="reference"><a href="#cite_note-winter-3">[3]</a></sup>
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
 <p><span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 1em;">When winter first begins to bite</span><br/>
@@ -46,7 +46,7 @@ Khi Bilbo, [Frodo Baggins](../F/Frodo_Baggins.md), [Peregrin Took](../P/Peregrin
 </p>
 </div>
 
-Đôi khi trong quá trình viết [Red Book of Westmarch](../R/Red_Book_of_Westmarch.md), ai đó đã viết nguệch ngoạc một câu thơ lạ ở phần lề của "trang ghi *When winter first begins to bite*của Bilbo",<sup id="cite_ref-title_1-1" class="reference"><a href="#cite_note-title-1">[1]</a></sup> mặc dù mối liên hệ của chúng như thế nào thì chưa được kể.
+Đôi khi trong quá trình viết [Sách đỏ Westmarch](../R/Red_Book_of_Westmarch.md), ai đó đã viết nguệch ngoạc một câu thơ kỳ lạ ở phần lề của "trang ghi *When winter first begins to bite* của Bilbo",<sup id="cite_ref-title_1-1" class="reference"><a href="#cite_note-title-1">[1]</a></sup> mặc dù mối liên hệ của chúng như thế nào thì chưa được kể.
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
 <p><span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 1em;">The wind so whirled a weathercock</span><br/>
@@ -63,21 +63,21 @@ Khi Bilbo, [Frodo Baggins](../F/Frodo_Baggins.md), [Peregrin Took](../P/Peregrin
 
 Những bản thảo đầu tiên của *When winter first begins to bite* được viết vào khoảng cuối [tháng 8](../A/August.md) [1940](../_/1940.md) và mùa thu [1941](../_/1941.md) cùng thời điểm với bài thơ "[Tôi ngồi bên đống lửa và suy nghĩ](../I/I_sit_beside_the_fire_and_think~64430.md)".<sup id="cite_ref-collectedpoems1_2-1" class="reference"><a href="#cite_note-collectedpoems1-2">[2]</a></sup>
 
-Ban đầu, Bilbo nói với Frodo rằng anh ấy sẽ ra đi "ngay khi mùa đông bắt đầu đến", nhưng điều này ngay lập tức được đổi thành bài thơ của Bilbo.<sup id="cite_ref-history_4-0" class="reference"><a href="#cite_note-history-4">[4]</a></sup>
+Ban đầu, Bilbo nói với Frodo rằng ông sẽ đi "ngay khi mùa đông bắt đầu đến", nhưng điều này ngay lập tức được đổi thành bài thơ của Bilbo.<sup id="cite_ref-history_4-0" class="reference"><a href="#cite_note-history-4">[4]</a></sup>
 
-Dòng chữ nguệch ngoạc được cho là viết ở lề của Sách Đỏ thực chất là khổ thơ đầu tiên của một bài thơ dài hơn Tolkien viết cách đây 5 năm vào ngày [5 tháng 11](../_/5_November.md) của [1956](../_/1956.md). Tolkien đã viết hai bản thảo khó đọc về "một phiếu khen ngợi từ văn phòng Công ty 3M ở London" bên cạnh một bản thảo dễ đọc ở mặt sau "của một bản ghi nhớ của D.S. Parsons, Phó giám đốc của trường Merton College" trong [Oxford](../O/Oxford.md).<sup id="cite_ref-collectedpoems2_5-0" class="reference"><a href="#cite_note-collectedpoems2-5">[5]</a></sup>
+Dòng chữ nguệch ngoạc được cho là viết bên lề Sách Đỏ thực ra ban đầu là khổ thơ đầu tiên của một bài thơ dài hơn mà Tolkien viết cách đây 5 năm vào ngày [ngày 5 tháng 11](../_/5_November.md) năm [1956](../_/1956.md). Tolkien đã viết hai bản thảo khó đọc về "một phiếu khen ngợi từ văn phòng Công ty 3M ở London" bên cạnh một bản thảo dễ đọc ở mặt sau "của một bản ghi nhớ của D.S. Parsons, Phó Giám thị của Đại học Merton" ở [Oxford](../O/Oxford.md).<sup id="cite_ref-collectedpoems2_5-0" class="reference"><a href="#cite_note-collectedpoems2-5">[5]</a></sup>
 
 ## Cảm hứng {#Inspiration}
 
-Bài thơ của Bilbo có thể được lấy cảm hứng từ một bài thơ trong Màn V, Cảnh 2 trong vở <i><a class="extiw" href="http://en.wikipedia.org/wiki/Love%27s_Labour%27s_Lost" title="wikipedia:Love&#39;s Labour&#39;s Lost">Love's Labour's Lost</a></i>của <a class="extiw" href="http://en.wikipedia.org/wiki/William_Shakespeare" title="wikipedia:William Shakespeare">William Shakespeare</a>, một <a class="extiw" href="http://en.wikipedia.org/wiki/Set_play" title="wikipedia:Set play">vở kịch</a> được sử dụng trong [1915](../_/1915.md) lúc Oxford cho kỳ thi cuối kỳ của Tolkien.<sup id="cite_ref-inspire_6-0" class="reference"><a href="#cite_note-inspire-6">[6]</a></sup>
+Bài thơ của Bilbo có thể được lấy cảm hứng từ một bài thơ trong Màn V, Cảnh 2 trong vở <i><a class="extiw" href="http://en.wikipedia.org/wiki/Love%27s_Labour%27s_Lost" title="wikipedia:Love&#39;s Labour&#39;s Lost">Love's Labour's Lost</a></i>của <a class="extiw" href="http://en.wikipedia.org/wiki/William_Shakespeare" title="wikipedia:William Shakespeare">William Shakespeare</a>, một <a class="extiw" href="http://en.wikipedia.org/wiki/Set_play" title="wikipedia:Set play">vở kịch</a> được sử dụng trong [1915](../_/1915.md) tại Oxford cho kỳ thi cuối kỳ của Tolkien.<sup id="cite_ref-inspire_6-0" class="reference"><a href="#cite_note-inspire-6">[6]</a></sup>
 
 ## Nền {#Background}
 
-[Christina Scull](../C/Christina_Scull.md) và [Wayne G. Hammond](Wayne_G._Hammond.md) giải thích trong phần bình luận của họ về [Lời nói đầu](../P/Preface.md) của Tolkien rằng thuật ngữ "thời tiết" là một từ khác để chỉ cánh gió, một chỉ báo hình con chim để chỉ hướng gió, trong khi "*throstlecock*, hay gọi tắt là *throstle*, là một cái tên lỗi thời cho một loài chim hét".<sup id="cite_ref-scribble_7-0" class="reference"><a href="#cite_note-scribble-7">[7]</a></sup> Họ cũng gợi ý rằng nét vẽ nguệch ngoạc được viết bởi Bilbo,<sup id="cite_ref-scribble_7-1" class="reference"><a href="#cite_note-scribble-7">[7]</a></sup> mặc dù làm thế nào họ đi đến kết luận này vẫn chưa được kể.
+[Christina Scull](../C/Christina_Scull.md) và [Wayne G. Hammond](Wayne_G._Hammond.md) giải thích trong phần bình luận của họ về [Lời nói đầu](../P/Preface.md) của Tolkien rằng thuật ngữ "thời tiết" là một từ khác để chỉ cánh gió, một vật chỉ báo hình con chim để chỉ hướng gió, trong khi "*throstlecock* hay gọi tắt là *throstle* là một cái tên cổ cho loài chim hét".<sup id="cite_ref-scribble_7-0" class="reference"><a href="#cite_note-scribble-7">[7]</a></sup> Họ cũng gợi ý rằng những nét nguệch ngoạc được viết bởi Bilbo,<sup id="cite_ref-scribble_7-1" class="reference"><a href="#cite_note-scribble-7">[7]</a></sup> mặc dù làm thế nào họ đi đến kết luận này vẫn chưa được kể.
 
 ## Xem thêm {#See_also}
 
-- [Bài thơ trong The Lord of the Rings](../P/Poems_in_The_Lord_of_the_Rings.md)
+- [Những bài thơ trong Chúa tể của những chiếc nhẫn](../P/Poems_in_The_Lord_of_the_Rings.md)
 
 <span></span>
 

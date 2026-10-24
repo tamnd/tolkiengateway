@@ -55,7 +55,7 @@ infobox:
 - "Sửa một trong hai quan niệm sai lầm: Đọc Ngạc nhiên vì niềm vui như một câu chuyện phản biện"
     - Bởi: Carrie Birmingham
 - Đánh giá sách:
-    - "Đánh giá về Kỳ quan của sự sáng tạo: Học cách quản lý từ Narnia và Trung Địa của Kristen Page"
+    - "Đánh giá về Những điều kỳ diệu của sự sáng tạo: Học cách quản lý từ Narnia và Trung Địa của Kristen Page"
         - Bởi: Sharon Jones
     - "Đánh giá về tư duy thời trung cổ của C.S. Lewis: Những cuốn sách vĩ đại đã định hình một trí tuệ vĩ đại như thế nào của Jason M. Baxter"
         - Bởi: Abigail Sargent
@@ -63,7 +63,7 @@ infobox:
         - Bởi: Paul Michelson
     - "Đánh giá về bản chất của Trung Địa: Những bài viết muộn về Đất đai, Cư dân và Siêu hình học của Trung Địa do Carl F. Hostetter biên tập"
         - Bởi: Matthew Dickerson
-    - "Đánh giá về Tolkien Giáo lý: Thần học thông qua Thần thoại với Người tạo ra Trung Địa của Austin M. Freeman"
+    - "Đánh giá về Giáo lý Tolkien: Thần học thông qua Thần thoại với Người tạo ra Trung Địa của Austin M. Freeman"
         - Bởi: Joel Scandrett
     - "Đánh giá về J.R.R. Tolkien và Nghệ thuật do Melody Green và Ned Bustard biên tập"
         - Bởi: Derek Witten
@@ -80,7 +80,7 @@ infobox:
         - Bởi: James Prothero
     - The Gallant Edith Bratt: Nguồn cảm hứng của J.R.R. Tolkien
         - Bởi: Nancy Bunting và Seamus Keays-Hamill
-    - The Great Tales Never End: Tiểu luận tưởng nhớ Christopher Tolkien
+    - Những câu chuyện vĩ đại không bao giờ kết thúc: Những bài tiểu luận tưởng nhớ Christopher Tolkien
         - Bởi: Richard Ovenden và Catherine McIlwaine, biên tập.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <div class="template-prevnext"><div class="template-prevnext__prev template-prevnext__link"><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/8/81/WikimediaUI-ArrowPrevious-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__content"><div class="template-prevnext__title">SEVEN 38</div></div><div class="template-prevnext__linkoverlay"><a href="SEVEN_38.md" title="SEVEN 38">SEVEN 38</a></div></div><div class="template-prevnext__current"><div class="template-prevnext__content"><div class="template-prevnext__title">SEVEN 39</div></div></div><div class="template-prevnext__next template-prevnext__link"><div class="template-prevnext__content"><div class="template-prevnext__title">SEVEN 40</div></div><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/7b/WikimediaUI-ArrowNext-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__linkoverlay"><a href="SEVEN_40.md" title="SEVEN 40">SEVEN 40</a></div></div></div>

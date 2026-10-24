@@ -25,7 +25,7 @@ sort_keys:
 </p>
 </blockquote>
 
-Trong một lá thư viết vào ngày [8 tháng 4](../_/8_April.md) [1932](../_/1932.md), [C.S. Lewis](../C/C.S._Lewis.md) đề nghị anh trai [Warren](../W/Warren_Lewis.md) đọc bản dịch *The Owl and the Nightingale*của Tolkien.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Do đó, có vẻ như Tolkien đã hoàn thành bản dịch bài thơ vào ngày này, nhưng không hài lòng với kết quả như đã thấy trong Bức thư năm 1967.<sup id="cite_ref-Addenda_3-0" class="reference"><a href="#cite_note-Addenda-3">[3]</a></sup>
+Trong một lá thư viết vào ngày [8 tháng 4](../_/8_April.md) [1932](../_/1932.md), [C.S. Lewis](../C/C.S._Lewis.md) đề nghị anh trai [Warren](../W/Warren_Lewis.md) đọc bản dịch *The Owl and the Nightingale* của Tolkien.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Do đó, có vẻ như Tolkien đã hoàn thành bản dịch bài thơ vào thời điểm này, nhưng không hài lòng với kết quả như đã thấy trong Bức thư năm 1967.<sup id="cite_ref-Addenda_3-0" class="reference"><a href="#cite_note-Addenda-3">[3]</a></sup>
 
 ## Liên kết ngoài {#External_links}
 

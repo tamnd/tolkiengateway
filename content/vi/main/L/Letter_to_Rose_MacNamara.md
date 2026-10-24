@@ -18,9 +18,9 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/R/Rose_MacNamara_12_September_1966.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/e/e2/Rose_MacNamara_12_September_1966.jpg/300px-Rose_MacNamara_12_September_1966.jpg" decoding="async" loading="lazy" width="300" height="208" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e2/Rose_MacNamara_12_September_1966.jpg/450px-Rose_MacNamara_12_September_1966.jpg 1.5x, https://tolkiengateway.net/w/images/e/e2/Rose_MacNamara_12_September_1966.jpg 2x" data-file-width="475" data-file-height="330"/></a><figcaption></figcaption></figure>
 
-Vào ngày [12 tháng Chín](../_/12_September.md) [1966](../_/1966.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_%2522The_Letters_of_J.R.R._Tolkien%2522.md) cho Rose MacNamara** (nhũ danh Murphy).<sup id="cite_ref-Burren_1-0" class="reference"><a href="#cite_note-Burren-1">[1]</a></sup>
+Vào [12 tháng 9](../_/12_September.md) [1966](../_/1966.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_%2522The_Letters_of_J.R.R._Tolkien%2522.md) cho Rose MacNamara** (nhũ danh Murphy).<sup id="cite_ref-Burren_1-0" class="reference"><a href="#cite_note-Burren-1">[1]</a></sup>
 
-- **Nhận xét:** Tolkien đã viết thư cho Rose ngay trước khi cô phát nguyện trở thành một nữ tu sĩ ở Ấn Độ.<sup id="cite_ref-Burren_1-1" class="reference"><a href="#cite_note-Burren-1">[1]</a></sup>
+- **Nhận xét:** Tolkien đã viết cho Rose bức thư ngay trước khi cô phát nguyện trở thành một nữ tu sĩ ở Ấn Độ.<sup id="cite_ref-Burren_1-1" class="reference"><a href="#cite_note-Burren-1">[1]</a></sup>
 - **Mô tả:** Thư viết tay.
 
 ## Bản ghi {#Transcript}

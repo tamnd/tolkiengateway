@@ -14,20 +14,20 @@ images:
   - "Disambig.png"
 ---
 
-**Isengard** có thể tham khảo:
+**Isengard** có thể đề cập đến:
 
-## Trung Địa {#Middle-earth}
+## Trung địa {#Middle-earth}
 
-- **[Isengard](Isengard.md), pháo đài là nơi sinh sống của [Saruman](../S/Saruman.md) vào cuối [Kỷ Đệ Tam](../T/Third_Age.md).**
-- Trận [Trận Isengard](../B/Battle_of_Isengard.md), một trận chiến diễn ra trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md).
+- **[Isengard](Isengard.md), pháo đài là nơi sinh sống của [Saruman](../S/Saruman.md) vào cuối [Thời đại thứ ba](../T/Third_Age.md).**
+- [Trận Isengard](../B/Battle_of_Isengard.md), một trận chiến diễn ra trong [Chiến tranh Chiếc Nhẫn](../W/War_of_the_Ring.md).
 - [Cổng Isengard](../G/Gate_of_Isengard.md)
-- [Vòng Isengard](../R/Ring_of_Isengard.md)
+- [Chiếc nhẫn của Isengard](../R/Ring_of_Isengard.md)
 
 ## Sách và chương {#Books_and_Chapters}
 
 - *[The Treason of Isengard](../T/The_Treason_of_Isengard.md)*, tập thứ bảy trong bộ *[The History of Middle-earth](../T/The_History_of_Middle-earth.md)* của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), được biên tập bởi [Christopher Tolkien](../C/Christopher_Tolkien.md).
 - *The Treason of Isengard*, tựa Sách III của [The Lord of the Rings](../T/The_Lord_of_the_Rings.md), được xuất bản trong *[The Two Towers](../T/The_Two_Towers.md)*.
-- "[Con đường tới Isengard](../T/The_Road_to_Isengard.md)", chương thứ tám của cuốn thứ ba trong *[The Two Towers](../T/The_Two_Towers.md)*.
+- "[Đường tới Isengard](../T/The_Road_to_Isengard.md)", chương thứ tám của cuốn thứ ba trong *[The Two Towers](../T/The_Two_Towers.md)*.
 
 ## Các bản chuyển thể {#Adaptations}
 

@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Morello, Sara M."
 ---
 
-- Sara M. Morello đã vui lòng cho phép cô sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Sara_M._Morello.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
+- Sara M. Morello đã vui lòng cho phép cô sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Sara_M._Morello.md) trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
 - Ngày: 28 tháng 2 năm 2017
 - Người dùng đã xin phép qua email: [Mith](https://tolkiengateway.net/wiki/User:Mith)

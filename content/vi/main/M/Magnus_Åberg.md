@@ -28,4 +28,4 @@ images:
 <p class="tg-quote-footer"><cite><a href="../T/Treebeard.md" title="Treebeard">Treebeard</a></cite></p>
 </blockquote></div></div>
 
-**Magnus Åberg** (sinh [23 tháng 8](../_/23_August.md) [1973](../_/1973.md)) đã viết các bài viết về ngôn ngữ học liên quan đến [huyền thoại](../L/Legendarium.md) của [Tolkien](../J/J.R.R._Tolkien.md)(đặc biệt là về [Khuzdul](../K/Khuzdul.md)).
+**Magnus Åberg** (sinh [23 tháng 8](../_/23_August.md) [1973](../_/1973.md)) đã viết các bài viết về ngôn ngữ học liên quan đến [Tolkien](../J/J.R.R._Tolkien.md)'s [huyền thoại](../L/Legendarium.md) (đặc biệt là về [Khuzdul](../K/Khuzdul.md)).

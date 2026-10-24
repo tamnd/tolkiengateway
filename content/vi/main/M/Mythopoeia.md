@@ -20,9 +20,9 @@ langlinks:
 
 **Mythopoeia** (tiếng Hy Lạp, "Tạo ra huyền thoại") là tựa đề một bài thơ và cũng là một khái niệm văn học được phổ biến bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
-"Mythopoeia" được viết để phản ứng lại tuyên bố của [C.S. Lewis](../C/C.S._Lewis.md)rằng thần thoại là "những lời dối trá được thổi qua bạc". Bài thơ có lập trường đối lập với chủ nghĩa duy lý và chủ nghĩa duy vật, coi tác giả con người sáng tạo là "người sáng tạo nhỏ bé" cầm "cây vương trượng nhỏ bằng vàng của riêng mình" cai trị [Tác phẩm phụ](../S/Sub-creation.md) của mình (được hiểu là Sự sáng tạo đích thực trong Sự sáng tạo chính của Chúa).
+"Mythopoeia" được viết để phản ứng lại tuyên bố của [C.S. Lewis](../C/C.S._Lewis.md) rằng huyền thoại là "những lời dối trá được thổi qua bạc". Bài thơ có lập trường đối lập với chủ nghĩa duy lý và chủ nghĩa duy vật, coi tác giả con người sáng tạo là "người sáng tạo nhỏ bé" cầm "cây vương trượng nhỏ bằng vàng của riêng mình" cai trị [Tác phẩm phụ](../S/Sub-creation.md) của mình (được hiểu là Sự sáng tạo đích thực trong Sự sáng tạo chính của Chúa).
 
-Mặc dù được trích dẫn trong "[Về những câu chuyện cổ tích](../O/On_Fairy-Stories.md)" (1947) và được đề cập bởi [Humphrey Carpenter](../H/Humphrey_Carpenter.md) trong *[J.R.R. Tolkien: A Biography](../J/J.R.R._Tolkien%253A_A_Biography.md)* (1977) của ông, bài thơ đã được xuất bản toàn bộ lần đầu tiên trong ấn bản [1988](../_/1988.md) của <i><b><a href="../T/Tree_and_Leaf.md" title="Tree and Leaf">Cây và Lá</a></b></i>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Được trích dẫn trong "[Về những câu chuyện cổ tích](../O/On_Fairy-Stories.md)" (1947) và được [Humphrey Carpenter](../H/Humphrey_Carpenter.md) đề cập trong *[J.R.R. Tolkien: A Biography](../J/J.R.R._Tolkien%253A_A_Biography.md)* (1977), bài thơ đã được xuất bản toàn bộ lần đầu tiên trong ấn bản [1988](../_/1988.md) của <i><b><a href="../T/Tree_and_Leaf.md" title="Tree and Leaf">Cây và Lá</a></b></i>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Trích {#Excerpt}
 
@@ -31,7 +31,7 @@ Mặc dù được trích dẫn trong "[Về những câu chuyện cổ tích](.
 biểu thị cái này cái kia bằng cái này cái kia <br/>
 thế giới của bạn là bất biến trong đó không có phần nào <br/>
 nhà sản xuất nhỏ có nghệ thuật của nhà sản xuất. <br/>
-Tôi chưa lạy trước Vương miện Sắt, <br/>
+Tôi chưa cúi đầu trước Vương Miện Sắt, <br/>
 cũng không ném vương trượng vàng nhỏ của mình xuống.
 </p>
 </div></i>

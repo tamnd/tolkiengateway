@@ -24,4 +24,4 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Kay được nhìn thấy ở đây cùng với [Vera Chapman](../../main/V/Vera_Chapman.md), Người sáng lập [Tolkien Hội](../../main/T/Tolkien_Society.md). Họ là bạn tốt và Kay đã minh họa một số câu chuyện của Vera cho tạp chí *[Weathertop](<../../main/W/Weathertop_(journal).md>)*, Amon Sûl Smial. Bức ảnh được chụp vào đầu những năm 1980 vào đầu tuần [Oxonmoot](../../main/O/Oxonmoot.md) tại Turf Tavern, địa điểm uống rượu lâu đời nhất ở [Oxford](../../main/O/Oxford.md) (thành lập năm 1381), nơi tổ chức đăng ký vào thời điểm đó.
+Kay được nhìn thấy ở đây cùng với [Vera Chapman](../../main/V/Vera_Chapman.md), Người sáng lập Hiệp hội [Tolkien](../../main/T/Tolkien_Society.md). Họ là bạn tốt và Kay đã minh họa một số câu chuyện của Vera cho tạp chí *[Weathertop](<../../main/W/Weathertop_(journal).md>)*, Amon Sûl Smial. Bức ảnh được chụp vào đầu những năm 1980 vào đầu tuần [Oxonmoot](../../main/O/Oxonmoot.md) tại Turf Tavern, địa điểm uống rượu lâu đời nhất ở [Oxford](../../main/O/Oxford.md) (thành lập năm 1381), nơi tổ chức đăng ký vào thời điểm đó.

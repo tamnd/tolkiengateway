@@ -72,7 +72,7 @@ Sự kiện xảy ra vào ngày 5 tháng 1.
 - **[1961](1961.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một lá thư cho bà Ossendrijver](<../L/Letter_to_Madam_Ossendrijver_(5_January_1961).md>).
 - **[1967](1967.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư gửi Joy Hill](<../L/Letter_to_Joy_Hill_(5_January_1967).md>).
 - **[1982](1982.md)** - Diễn viên lồng tiếng [Hans Conried](../H/Hans_Conried.md) qua đời.
-- **[1989](1989.md)** - *[The Return of the Shadow](../T/The_Return_of_the_Shadow.md)* được xuất bản tại Mỹ.<b></b>
+- **[1989](1989.md)** - *[The Return of the Shadow](../T/The_Return_of_the_Shadow.md)* được xuất bản ở Mỹ.<b></b>
 - **[1996](1996.md)** - Diễn viên [Maxim Baldry](../M/Maxim_Baldry.md) ra đời.
 - **[1998](1998.md)** - *[Roverandom](../R/Roverandom.md)* được xuất bản ở Anh.<b></b>
 - **[2004](2004.md)** - Tiểu thuyết đồ họa *[Heaven's War](../H/Heaven's_War.md)* được xuất bản.
@@ -81,4 +81,4 @@ Sự kiện xảy ra vào ngày 5 tháng 1.
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - Con [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) di chuyển về phía nam dọc theo [Dãy Núi Sương Mù](../M/Misty_Mountains.md).
+    - [Hiệp hội Nhẫn thần](../F/Fellowship_of_the_Ring.md) đi về phía nam dọc theo [Dãy núi Sương mù](../M/Misty_Mountains.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Shire"
 ---
 
-Chuyển hướng đến [The Shire](The_Shire.md).
+Chuyển hướng tới [The Shire](The_Shire.md).

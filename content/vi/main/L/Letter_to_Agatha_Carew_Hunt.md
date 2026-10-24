@@ -18,10 +18,10 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Agatha_Carew_Hunt_4_October_1965.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/c/cc/Agatha_Carew_Hunt_4_October_1965.jpg/300px-Agatha_Carew_Hunt_4_October_1965.jpg" decoding="async" loading="lazy" width="300" height="424" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/c/cc/Agatha_Carew_Hunt_4_October_1965.jpg 1.5x" data-file-width="436" data-file-height="616"/></a><figcaption></figcaption></figure>
 
-Vào [4 tháng 10](../_/4_October.md) [1965](../_/1965.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã gửi **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho Agatha Carew Hunt**.<sup id="cite_ref-C_1-0" class="reference"><a href="#cite_note-C-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Vào [4 tháng 10](../_/4_October.md) [1965](../_/1965.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã gửi **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) tới Agatha Carew Hunt**.<sup id="cite_ref-C_1-0" class="reference"><a href="#cite_note-C-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 - **Chủ đề:** Một thư trả lời có sẵn (do thư ký của Tolkien viết vào ngày 11 tháng 5) cho một lá thư cảm ơn. Tuy nhiên, Tolkien phát hiện ra bức thư vào ngày 4 tháng 10 và thêm lời xin lỗi.
-- **Nhà xuất bản:** [Hammond](../W/Wayne_G._Hammond.md) và [Scull](../C/Christina_Scull.md) đã xuất bản phần mô tả về bức thư trong [*Người đồng hành và Hướng dẫn J.R.R. Tolkien: Niên đại*](../T/The_J.R.R._Tolkien_Companion_and_Guide.md) (tr. 644) của họ. Một bức ảnh của bức thư được sao chép trong *[Dominic Winter Children's and Illustrated Books, Modern First Editions 2003](../D/Dominic_Winter_Children's_and_Illustrated_Books,_Modern_First_Editions_2003.md)*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+- **Ấn bản:** [Hammond](../W/Wayne_G._Hammond.md) và [Scull](../C/Christina_Scull.md) đã xuất bản mô tả về bức thư trong [*The J.R.R. Tolkien Companion and Guide: Chronology*](../T/The_J.R.R._Tolkien_Companion_and_Guide.md) (tr. 644) của họ. Một bức ảnh của bức thư được sao chép trong *[Dominic Winter Children's and Illustrated Books, Modern First Editions 2003](../D/Dominic_Winter_Children's_and_Illustrated_Books,_Modern_First_Editions_2003.md)*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Phiên âm {#Transcription}
 

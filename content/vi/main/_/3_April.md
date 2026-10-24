@@ -65,10 +65,10 @@ Sự kiện xảy ra vào ngày 3 tháng 4.
 - **[1944](1944.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 58](../L/Letter_58.md).
 - **[1956](1956.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 188](../L/Letter_188.md).
 - **[1956](1956.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư 188a](../L/Letter_188a.md).
-- **[1958](1958.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), ký là "[Gandalf](../G/Gandalf.md)", gửi [một lá thư cho một người Hà Lan](../L/Letter_to_an_unknown_Dutchman.md).
+- **[1958](1958.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), ký tên là "[Gandalf](../G/Gandalf.md)", gửi [một lá thư cho một người Hà Lan](../L/Letter_to_an_unknown_Dutchman.md).
 - **[2016](2016.md)** - Diễn viên [Erik Bauersfeld](../E/Erik_Bauersfeld.md) qua đời.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md), được cứu ra khỏi đám cháy, nghỉ ngơi tại [Ithilien](../I/Ithilien.md).
+    - [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md), được cứu ra khỏi đám cháy, nghỉ ngơi ở [Ithilien](../I/Ithilien.md).

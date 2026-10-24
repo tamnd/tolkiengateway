@@ -22,7 +22,7 @@ sort_keys:
 
 ## Từ nguyên {#Etymology}
 
-Tên *Finrún* có trong [tiếng Anh cổ](../O/Old_English.md), vì nó được dịch bởi [Ælfwine](../_/Ælfwine.md), nhưng không có [Elvish](../E/Elvish.md) tương đương.<sup id="cite_ref-Fin_1-1" class="reference"><a href="#cite_note-Fin-1">[1]</a></sup> *Felageómor* cũng là tên tiếng Anh cổ (có nghĩa là "rất đau buồn").<sup id="cite_ref-Fin_1-2" class="reference"><a href="#cite_note-Fin-1">[1]</a></sup>
+Tên *Finrún* bằng [tiếng Anh cổ](../O/Old_English.md), vì nó được dịch bởi [Ælfwine](../_/Ælfwine.md), nhưng không có [Elvish](../E/Elvish.md) tương đương.<sup id="cite_ref-Fin_1-1" class="reference"><a href="#cite_note-Fin-1">[1]</a></sup> *Felageómor* cũng là một tên tiếng Anh cổ (có nghĩa là "rất buồn").<sup id="cite_ref-Fin_1-2" class="reference"><a href="#cite_note-Fin-1">[1]</a></sup>
 
 Trong tiếng Bắc Âu cổ "rún" có nghĩa là "rune" hoặc "bí mật";<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> từ "rūn" này trong tiếng Anh cổ cũng có nghĩa tương tự.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 

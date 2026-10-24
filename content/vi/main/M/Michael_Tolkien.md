@@ -48,7 +48,7 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s son</b>. For the grandson of Tolkien, see <b><a href="Michael_George_Tolkien.md" title="Michael George Tolkien">Michael George Tolkien</a></b>.</div></div>
 
-**Michael Hilary Reuel "Mick" Tolkien** ([22 tháng 10](../_/22_October.md) [1920](../_/1920.md) - [27 tháng 2](../_/27_February.md) [1984](../_/1984.md)) là con trai thứ hai của [J.R.R.](../J/J.R.R._Tolkien.md) và [Edith Tolkien](../E/Edith_Tolkien.md). Tolkien viết câu chuyện *[Roverandom](../R/Roverandom.md)* như một cách để an ủi Michael về việc mất đi chú chó đồ chơi của mình; Michael xuất hiện trong câu chuyện với cái tên **cậu bé Hai**.
+**Michael Hilary Reuel "Mick" Tolkien** ([22 tháng 10](../_/22_October.md) [1920](../_/1920.md) - [27 tháng 2](../_/27_February.md) [1984](../_/1984.md)) là con trai thứ hai của [J.R.R.](../J/J.R.R._Tolkien.md) và [Edith Tolkien](../E/Edith_Tolkien.md). Tolkien viết câu chuyện *[Roverandom](../R/Roverandom.md)* như một cách để an ủi Michael về việc mất con chó đồ chơi; Michael xuất hiện trong câu chuyện với cái tên **cậu bé Hai**.
 
 Trong bộ phim tiểu sử *[Tolkien](<../T/Tolkien_(film).md>)* ([2019](../_/2019.md)), anh xuất hiện chớp nhoáng, do nam diễn viên Paul Gurcel Escudero thể hiện.
 
@@ -56,21 +56,21 @@ Trong bộ phim tiểu sử *[Tolkien](<../T/Tolkien_(film).md>)* ([2019](../_/2
 
 ### Tuổi trẻ {#Youth}
 
-Michael sở hữu con rối mà [Tom Bombadil](../T/Tom_Bombadil.md) dựa vào. Giống như cha mình, Michael cũng có những giấc mơ **[Ám ảnh về Atlantis](../A/Atlantis-haunting.md)** trong khi J.R.R. chưa bao giờ đề cập đến giấc mơ của mình với ông.
+Michael sở hữu con rối mà [Tom Bombadil](../T/Tom_Bombadil.md) làm dựa trên đó. Giống như cha mình, Michael cũng có những giấc mơ **[Ám ảnh về Atlantis](../A/Atlantis-haunting.md)** trong khi J.R.R. chưa bao giờ đề cập đến giấc mơ của mình với ông.
 
 #### *Roverandom* {#Roverandom}
 
-Đầu tháng Chín [1925](../_/1925.md), gia đình Tolkien (lúc đó là [Ronald](../J/J.R.R._Tolkien.md), [Edith](../E/Edith_Tolkien.md), [John](../J/John_Tolkien.md), Michael và cậu con trai một tuổi [Christopher](../C/Christopher_Tolkien.md)) đã đi nghỉ ở khu nghỉ mát ven biển Filey ở Yorkshire. Mặc dù Tolkien đã từng đi nghỉ ở đó trước đó vào [1922](../_/1922.md), nhưng Tolkien đã mô tả Filey là "một khu nghỉ mát nhỏ ven biển ở ngoại ô rất khó chịu".<sup id="cite_ref-bio_1-0" class="reference"><a href="#cite_note-bio-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:146</sup> Trong kỳ nghỉ, Michael đã đánh mất chú chó đồ chơi đen trắng yêu quý của mình trên bãi biển; Mặc dù gia đình đã tìm kiếm nhưng không tìm thấy chú chó đồ chơi.
+Vào đầu tháng 9 [1925](../_/1925.md), gia đình Tolkien (lúc đó là [Ronald](../J/J.R.R._Tolkien.md), [Edith](../E/Edith_Tolkien.md), [John](../J/John_Tolkien.md), Michael và [Christopher](../C/Christopher_Tolkien.md) một tuổi) đã đi nghỉ ở khu nghỉ mát ven biển Filey ở Yorkshire. Mặc dù Tolkien đã từng đi nghỉ ở đó trước đó vào [1922](../_/1922.md), nhưng Tolkien đã mô tả Filey là "một khu nghỉ mát nhỏ ven biển ở ngoại ô rất khó chịu".<sup id="cite_ref-bio_1-0" class="reference"><a href="#cite_note-bio-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:146</sup> Trong kỳ nghỉ, Michael đã đánh mất con chó đồ chơi đen trắng yêu quý của mình trên bãi biển; Mặc dù gia đình đã tìm kiếm nhưng không tìm thấy chú chó đồ chơi.
 
-Để an ủi con trai, Tolkien đã tạo ra câu chuyện *Roverandom* để giải thích về cuộc phiêu lưu của chú chó. Tolkien đã viết lại câu chuyện, dựa trên phiên bản truyền miệng của chính mình, trong [1927](../_/1927.md) và cũng cung cấp một số hình ảnh minh họa đã được xuất bản.<sup id="cite_ref-AI_2-0" class="reference"><a href="#cite_note-AI-2">[2]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:77–83</sup> Vài năm sau, Tolkien gửi *Roverandom* để xuất bản cho [George Allen &amp; Unwin](../G/George_Allen_&_Unwin.md) vào [1936](../_/1936.md) và mặc dù cuốn sách được [Rayner Unwin](../R/Rayner_Unwin.md) mô tả là "viết hay và thú vị" nhưng nó chưa bao giờ được xem xét xuất bản, có lẽ do mong muốn có một [phần tiếp theo của *The Hobbit*](../T/The_Lord_of_the_Rings.md).<sup id="cite_ref-Roverandom_3-0" class="reference"><a href="#cite_note-Roverandom-3">[3]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:xvii</sup>
+Để an ủi con trai, Tolkien đã sáng tạo ra câu chuyện *Roverandom* để giải thích về cuộc phiêu lưu của chú chó. Tolkien đã viết lại câu chuyện, dựa trên phiên bản truyền miệng của chính ông, trong [1927](../_/1927.md) và cũng cung cấp một số hình ảnh minh họa đã được xuất bản.<sup id="cite_ref-AI_2-0" class="reference"><a href="#cite_note-AI-2">[2]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:77–83</sup> Vài năm sau, Tolkien gửi *Roverandom* để xuất bản cho [George Allen & Unwin](../G/George_Allen_&_Unwin.md) trong [1936](../_/1936.md) và mặc dù cuốn sách được [Rayner Unwin](../R/Rayner_Unwin.md) mô tả là "được viết hay và thú vị" nhưng nó chưa bao giờ được xem xét xuất bản, có lẽ là do mong muốn có [phần tiếp theo của *The Hobbit*](../T/The_Lord_of_the_Rings.md).<sup id="cite_ref-Roverandom_3-0" class="reference"><a href="#cite_note-Roverandom-3">[3]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:xvii</sup>
 
-Xuyên suốt câu chuyện, Michael được gọi là "cậu bé Hai" vì cậu là con trai thứ hai của Tolkien. Trong câu chuyện, cậu bé Hai được mang về nhà một con chó đồ chơi và sau đó cậu đã đánh mất nó ở bãi biển. Anh ấy không bao giờ quên con chó và sau đó gặp Roverandom ở vùng đất mộng mơ trên mặt trăng. Cuối truyện, cậu bé Hai gặp lại Roverandom, giờ đã là một chú chó thật.<sup id="cite_ref-Roverandom_3-1" class="reference"><a href="#cite_note-Roverandom-3">[3]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:88</sup>
+Xuyên suốt câu chuyện, Michael được gọi là "cậu bé Hai" vì anh là con trai thứ hai của Tolkien. Trong câu chuyện, cậu bé Hai được mang về nhà một con chó đồ chơi và sau đó cậu đã đánh mất nó ở bãi biển. Ông không bao giờ quên con chó và sau đó gặp Roverandom ở vùng đất mộng mơ trên mặt trăng. Cuối truyện, cậu bé Hai gặp lại Roverandom, chú chó giờ đã trở thành một chú chó thật.<sup id="cite_ref-Roverandom_3-1" class="reference"><a href="#cite_note-Roverandom-3">[3]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:88</sup>
 
 ### Đời sau {#Later_life}
 
-Michael và gia đình anh cư trú tại Payables Farm, Woodcote. Họ đón tiếp cha anh vào cuối mùa hè [1948](../_/1948.md). Trong lúc cả nhà đi nghỉ mát, bố anh đã tìm được điều kiện yên tĩnh để hoàn thiện *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Michael và gia đình anh cư trú tại Trang trại Payables, Woodcote. Họ đón tiếp cha anh vào cuối mùa hè [1948](../_/1948.md). Trong lúc cả nhà đi nghỉ mát, bố anh đã tìm được điều kiện yên tĩnh để hoàn thiện *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
-Cháu trai của ông là [Royd Tolkien](../R/Royd_Tolkien.md), người đã đóng vai khách mời là [Ranger](../R/Rangers_of_Ithilien.md) trong *[The Lord of the Rings: The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*.
+Cháu trai của ông là [Royd Tolkien](../R/Royd_Tolkien.md), người từng đóng vai [Ranger](../R/Rangers_of_Ithilien.md) trong *[The Lord of the Rings: The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*.
 
 <br>
 
@@ -78,8 +78,8 @@ Cháu trai của ông là [Royd Tolkien](../R/Royd_Tolkien.md), người đã đ
 
 ### Bài viết {#Article}
 
-- [1973](../_/1973.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=J._R._R._Tolkien_%E2%80%93_The_Wizard_Father&amp;action=edit&amp;redlink=1" title="J. R. R. Tolkien – The Wizard Father (page does not exist)">J. R. R. Tolkien – Người cha Pháp sư</a></i> trong “The Sunday Telegraph”
-- [1974](../_/1974.md): Hai lá thư gửi [Hội Tolkien](../T/The_Tolkien_Society.md), đăng trong *[Mallorn 9](Mallorn_9.md)*
+- [1973](../_/1973.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=J._R._R._Tolkien_%E2%80%93_The_Wizard_Father&amp;action=edit&amp;redlink=1" title="J. R. R. Tolkien – The Wizard Father (page does not exist)">J. R. R. Tolkien – Người Cha Phù Thủy</a></i> trong "The Sunday Telegraph"
+- [1974](../_/1974.md): Hai bức thư gửi [Hiệp hội Tolkien](../T/The_Tolkien_Society.md), xuất bản trên *[Mallorn 9](Mallorn_9.md)*
 
 ## Cây phả hệ {#Family_Tree}
 

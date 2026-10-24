@@ -24,7 +24,7 @@ images:
 <p class="tg-quote-footer"><cite><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a></cite></p>
 </blockquote></div></div>
 
-<i><b>-vëa</b></i> là tính từ kết thúc với nghĩa cụ thể là “-like” trong [Quenya](../Q/Quenya.md). Số nhiều là <i><b>-vië</b></i>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>-vëa</b></i> là một tính từ kết thúc với nghĩa cụ thể là "-like" trong [Quenya](../Q/Quenya.md). Số nhiều là <i><b>-vië</b></i>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Ví dụ {#Examples}
 

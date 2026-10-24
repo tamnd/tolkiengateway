@@ -11,4 +11,4 @@ redirect_target: "University of Oxford"
 redirect_fragment: "Merton College"
 ---
 
-Chuyển hướng đến [Đại học Oxford](../U/University_of_Oxford.md#Merton_College).
+Chuyển hướng tới [Đại học Oxford](../U/University_of_Oxford.md#Merton_College).

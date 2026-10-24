@@ -17,7 +17,7 @@ langlinks:
     url: "https://kontu.wiki/TolkLang"
 ---
 
-**Tolklang** là danh sách gửi thư dành riêng cho các ngôn ngữ của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Nó được bắt đầu vào ngày 1 tháng 11 [1990](../_/1990.md)và được kiểm duyệt bởi [Julian C. Bradfield](../J/Julian_C._Bradfield.md). Tin nhắn cuối cùng trong kho lưu trữ là từ [2013](../_/2013.md).
+**Tolklang** là danh sách gửi thư dành riêng cho các ngôn ngữ của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Nó được bắt đầu vào ngày 1 tháng 11 [1990](../_/1990.md) và được kiểm duyệt bởi [Julian C. Bradfield](../J/Julian_C._Bradfield.md). Tin nhắn cuối cùng trong kho lưu trữ là từ [2013](../_/2013.md).
 
 ## Liên kết ngoài {#External_links}
 

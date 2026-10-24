@@ -24,9 +24,9 @@ langlinks:
     url: "https://kontu.wiki/Oxonmoot"
 ---
 
-**Oxonmoot** là hội nghị thường niên được tổ chức bởi [Hội Tolkien](../T/The_Tolkien_Society.md). Nó thường được tổ chức tại trường đại học [Đại học Oxford](../U/University_of_Oxford.md) ở [Oxford](Oxford.md), Anh và trước đây được tổ chức vào cuối tuần gần nhất với [22 tháng Chín](../_/22_September.md), ngày sinh nhật chung của [Bilbo](../B/Bilbo_Baggins.md) và [Frodo Baggins](../F/Frodo_Baggins.md). Tuy nhiên, trong những năm gần đây, nó đã được tổ chức vào cuối tuần đầu tiên của tháng Chín.<sup id="cite_ref-OM1_1-0" class="reference"><a href="#cite_note-OM1-1">[1]</a></sup>
+**Oxonmoot** là hội nghị thường niên được tổ chức bởi [Hiệp hội Tolkien](../T/The_Tolkien_Society.md). Nó thường được tổ chức tại một trường đại học thuộc [Đại học Oxford](../U/University_of_Oxford.md) ở [Oxford](Oxford.md), Anh và trước đây được tổ chức vào cuối tuần gần nhất với [22 tháng 9](../_/22_September.md), ngày sinh nhật chung của [Bilbo](../B/Bilbo_Baggins.md) và [Frodo Baggins](../F/Frodo_Baggins.md). Tuy nhiên, trong những năm gần đây, nó lại được tổ chức vào cuối tuần đầu tiên của tháng 9.<sup id="cite_ref-OM1_1-0" class="reference"><a href="#cite_note-OM1-1">[1]</a></sup>
 
-Cuộc tranh luận thường bao gồm các buổi nói chuyện, câu đố, chương trình nghệ thuật, lễ hội hóa trang và các hoạt động giải trí khác, chuyến viếng thăm mộ của [Tolkien](../W/Wolvercote_Cemetery.md) ở phía bắc Oxford và cuối cùng nhưng không kém phần quan trọng là cơ hội dành một ngày cuối tuần cùng với những người hâm mộ tác phẩm của Tolkien khác. Hầu hết sự kiện được tổ chức tại một trường đại học Oxford.
+Cuộc tranh luận thường bao gồm các buổi nói chuyện, câu đố, chương trình nghệ thuật, lễ hội hóa trang và các hoạt động giải trí khác, chuyến viếng thăm [mộ Tolkien](../W/Wolvercote_Cemetery.md) ở phía bắc Oxford và cuối cùng nhưng không kém phần quan trọng là cơ hội dành một ngày cuối tuần cùng với những người hâm mộ tác phẩm của Tolkien khác. Phần lớn sự kiện được tổ chức tại một trường đại học Oxford.
 
 ## Xem thêm {#See_also}
 
@@ -37,7 +37,7 @@ Cuộc tranh luận thường bao gồm các buổi nói chuyện, câu đố, c
 
 - <b><a class="external text" href="https://www.tolkiensociety.org/society/events/oxonmoot/" rel="noreferrer noopener" target="_blank">Trang web Oxonmoot</a></b>
 - <a class="external text" href="http://www.facebook.com/Oxonmoot" rel="noreferrer noopener" target="_blank">Trang Facebook Oxonmoot</a>
-- <a class="external text" href="http://www.tolkiensociety.org/" rel="noreferrer noopener" target="_blank">Hội Tolkien trang web</a>
+- <a class="external text" href="http://www.tolkiensociety.org/" rel="noreferrer noopener" target="_blank">Trang web của Hiệp hội Tolkien</a>
 
 <span></span>
 

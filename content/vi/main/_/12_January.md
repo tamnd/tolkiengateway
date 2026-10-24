@@ -66,19 +66,19 @@ Sự kiện xảy ra vào ngày 12 tháng 1.
 
 ## Trên Trái đất {#On_Earth}
 
-- **[1917](1917.md)** - Thời gian nghỉ phép của [Tolkien](../J/J.R.R._Tolkien.md)(để hồi phục sau <a class="extiw" href="http://en.wikipedia.org/wiki/trench_fever" title="wikipedia:trench fever">cơn sốt</a>) đã kết thúc, nhưng anh ấy còn lâu mới bình phục.
+- **[1917](1917.md)** - [Tolkien](../J/J.R.R._Tolkien.md) thời gian nghỉ phép (để hồi phục sau <a class="extiw" href="http://en.wikipedia.org/wiki/trench_fever" title="wikipedia:trench fever">cơn sốt</a>) đã kết thúc, nhưng ông vẫn chưa bình phục.
 - **[1928](1928.md)** - *[A New Glossary of the Dialect of the Huddersfield District](../A/A_New_Glossary_of_the_Dialect_of_the_Huddersfield_District.md)*, chứa [Lời nói đầu](../F/Foreword_to_A_New_Glossary_of_the_Dialect_of_the_Huddersfield_District.md) của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), được xuất bản.
 - **[1930](1930.md)** - Nhạc sĩ [Glenn Yarbrough](../G/Glenn_Yarbrough.md) ra đời.
 - **[1941](1941.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 42](../L/Letter_42.md).
 - **[1959](1959.md)** - [Simon Tolkien](../S/Simon_Tolkien.md) ra đời.
-- **[1966](1966.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư cho David Hicks](../L/Letter_to_David_Hicks.md).
+- **[1966](1966.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một bức thư cho David Hicks](../L/Letter_to_David_Hicks.md).
 - **[1966](1966.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư 283a](../L/Letter_283a.md).
 - **[1985](1985.md)** - Nữ diễn viên [Cynthia Addai-Robinson](../C/Cynthia_Addai-Robinson.md) ra đời.
-- **[1992](1992.md)** - "Hội nghị chuyên đề quốc tế Tolkien" được tổ chức tại <a class="extiw" href="http://en.wikipedia.org/wiki/Aachen" title="wikipedia:Aachen">Aachen</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">Đức</a>.
+- **[1992](1992.md)** - "Hội nghị chuyên đề quốc tế về Tolkien" được tổ chức tại <a class="extiw" href="http://en.wikipedia.org/wiki/Aachen" title="wikipedia:Aachen">Aachen</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">Đức</a>.
 - **[2009](2009.md)** - *[The Image of Man in C.S. Lewis](../T/The_Image_of_Man_in_C.S._Lewis.md)* được phát hành lại.
 - **[2010](2010.md)** - Nữ diễn viên [Elizabeth Moody](../E/Elizabeth_Moody.md) qua đời.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - Những [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) bị đánh bại bởi [Caradhras](../C/Caradhras.md) quay trở lại [Hollin](../E/Eregion.md). Họ cắm trại trên một ngọn đồi nhỏ và trong đêm bị tấn công bởi một đàn [Warg](../W/Wargs.md).
+    - Nhóm [Fellowship of the Ring](../F/Fellowship_of_the_Ring.md) bị đánh bại bởi [Caradhras](../C/Caradhras.md) quay trở lại [Hollin](../E/Eregion.md). Họ cắm trại trên một ngọn đồi nhỏ và trong đêm bị tấn công bởi một bầy [Wargs](../W/Wargs.md).

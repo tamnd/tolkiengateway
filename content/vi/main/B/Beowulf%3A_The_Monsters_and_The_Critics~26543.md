@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Beowulf: The Monsters and the Critics"
 ---
 
-Chuyển hướng tới [Beowulf: Quái vật và những kẻ phê bình](Beowulf%253A_The_Monsters_and_the_Critics.md).
+Chuyển hướng đến [Beowulf: The Monsters and the Critics](Beowulf%253A_The_Monsters_and_the_Critics.md).

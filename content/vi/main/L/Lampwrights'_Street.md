@@ -16,11 +16,11 @@ hidden_categories:
   - "Pages with short description"
 ---
 
-**Phố Lampwrights'**, hay <i><b>Rath Celerdain</b></i> ở [Sindarin](../S/Sindarin.md), là con phố ở tầng thấp nhất của [Minas Tirith](../M/Minas_Tirith.md). Ngoài [Nhà khách cổ](../O/Old_Guesthouse.md) nổi tiếng, nơi đây còn là nơi chế tạo ra nhiều loại đèn của thành phố.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Phố Lampwrights'** hay <i><b>Rath Celerdain</b></i> ở [Sindarin](../S/Sindarin.md), là con phố ở tầng thấp nhất của [Minas Tirith](../M/Minas_Tirith.md). Ngoài [Nhà khách cổ](../O/Old_Guesthouse.md) nổi tiếng, nơi đây còn là nơi chế tạo ra nhiều loại đèn của thành phố.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2003: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">The Lord of the Rings: The Return of the King</a></i>:</b>
+<b>2003: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">Chúa tể của những chiếc nhẫn: Sự trở lại của nhà vua</a></i>:</b>
 
 <dl><dd>One of the streets in the Minas Tirith set was christened the Lampwrights&#39; Street. It had a sign of a lamp in framework, and according to <a href="../G/Grant_Major.md" title="Grant Major">Grant Major</a> it housed the metalworkers of the city.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></dd></dl>
 

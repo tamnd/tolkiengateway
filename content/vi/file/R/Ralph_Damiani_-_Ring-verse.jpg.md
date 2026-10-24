@@ -45,7 +45,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"[Nhẫn-verse](../../main/R/Ring-inscription.md)" của [Ralph Damiani](../../main/R/Ralph_Damiani.md)
+"[Ring-verse](../../main/R/Ring-inscription.md)" của [Ralph Damiani](../../main/R/Ralph_Damiani.md)
 
 ## Giấy phép {#Licensing}
 

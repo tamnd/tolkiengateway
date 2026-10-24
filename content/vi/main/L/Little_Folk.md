@@ -17,7 +17,7 @@ langlinks:
     url: "https://kontu.wiki/Pikkuv%C3%A4ki"
 ---
 
-**Little Folk** là thuật ngữ chỉ những [Hobbit](../H/Hobbits.md), đặc biệt là **[Bree-hobbit](../B/Bree-hobbits.md)** (q.v.), đối lập với họ với [Con Người](../M/Men_of_Bree.md) ( [Big Folk](../B/Big_Folk.md)) khi hai chủng tộc sống cùng nhau trong [Bree-land](../B/Bree-land.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Little Folk** là thuật ngữ chỉ người [Hobbit](../H/Hobbits.md), đặc biệt là **[Bree-hobbit](../B/Bree-hobbits.md)** (q.v.), đối lập họ với [Người](../M/Men_of_Bree.md) ( [Dân gian lớn](../B/Big_Folk.md)) khi hai chủng tộc sống cùng nhau ở [Bree-land](../B/Bree-land.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Ở những điểm khác, [Boromir](../B/Boromir.md)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> và [Celeborn](../C/Celeborn.md)<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> gọi những người Hobbit thuộc [Fellowship of the Ring](../F/Fellowship_of_the_Ring.md) là "dân gian nhỏ". [Treebeard](../T/Treebeard.md)<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> và [Sharkey](../S/Sharkey.md)'s [Ruffians](../R/Ruffians.md)<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> cũng đề cập đến [Halflings](../H/Halflings.md) nói chung như vậy, và do đó có thể giả định rằng thuật ngữ này được sử dụng phổ biến.
 

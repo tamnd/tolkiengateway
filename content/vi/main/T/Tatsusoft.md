@@ -13,7 +13,7 @@ categories:
   - "Video Game publishers"
 ---
 
-**Tatsusoft** là công ty đã phát triển và phát hành *[Lord of the Rings: The Duel](<../L/Lord_of_the_Rings%253A_The_Duel_(video_game).md>)*, một trong những trò chơi hành động đầu tiên dựa trên [huyền thoại](../L/Legendarium.md) của Tolkien.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Công ty hiện được biết đến với cái tên **TwinSky Games**.<sup id="cite_ref-Twinsky_3-0" class="reference"><a href="#cite_note-Twinsky-3">[3]</a></sup> Công ty được thành lập bởi [Tim Winsky](Tim_Winsky.md).<sup id="cite_ref-Twinsky_3-1" class="reference"><a href="#cite_note-Twinsky-3">[3]</a></sup>
+**Tatsusoft** là công ty đã phát triển và phát hành *[Lord of the Rings: The Duel](<../L/Lord_of_the_Rings%253A_The_Duel_(video_game).md>)*, một trong những trò chơi hành động đầu tiên dựa trên [huyền thoại](../L/Legendarium.md) của Tolkien.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Công ty hiện được biết đến với tên **TwinSky Games**.<sup id="cite_ref-Twinsky_3-0" class="reference"><a href="#cite_note-Twinsky-3">[3]</a></sup> Công ty được thành lập bởi [Tim Winsky](Tim_Winsky.md).<sup id="cite_ref-Twinsky_3-1" class="reference"><a href="#cite_note-Twinsky-3">[3]</a></sup>
 
 ## Liên kết ngoài {#External_links}
 

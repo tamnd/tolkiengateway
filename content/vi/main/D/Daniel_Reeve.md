@@ -33,11 +33,11 @@ infobox:
 
 **Daniel Reeve** là một nghệ sĩ, nhà thư pháp và người vẽ bản đồ, từng làm việc trên các bộ phim [*The Lord of the Rings*](<../T/The_Lord_of_the_Rings_(film_series).md>) và *[The Hobbit](<../T/The_Hobbit_(film_series).md>)* cũng như *[The Rings of Power](../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)* phim truyền hình nhiều tập.
 
-Từng là một lập trình viên máy tính, Reeve là một người hâm mộ Tolkien và có sở thích thử nghiệm [Elvish thư pháp](../T/Tengwar.md) và bản đồ. Trong quá trình quay Bộ ba phim, anh ấy được thuê để sản xuất tất cả các bản đồ, chữ khắc, cuộn giấy và các đạo cụ khác xuất hiện trên màn hình. Bây giờ Reeve làm việc như một nghệ sĩ tự do.
+Từng là một lập trình viên máy tính, Reeve là một người hâm mộ Tolkien và là người có sở thích thử nghiệm [thư pháp cổ tích](../T/Tengwar.md) và bản đồ. Trong quá trình quay Bộ ba phim, ông được thuê để sản xuất tất cả các bản đồ, chữ khắc, cuộn giấy và các đạo cụ khác xuất hiện trên màn hình. Bây giờ Reeve làm việc như một nghệ sĩ tự do.
 
-Anh ấy đã tạo ra một số [phông chữ](../F/Fonts.md) lấy cảm hứng từ Tolkien và xuất hiện trong các đồ dùng của loạt phim Chúa Tể Những Chiếc Nhẫn. Bản đồ của anh ấy là một phần của *[The Lord of the Rings Roleplaying Game](../T/The_Lord_of_the_Rings_Roleplaying_Game.md)*.
+Ông đã tạo ra một số [phông chữ](../F/Fonts.md) lấy cảm hứng từ Tolkien và xuất hiện trong các đồ dùng của loạt phim Chúa Tể Những Chiếc Nhẫn. Bản đồ của ông là một phần của *[The Lord of the Rings Roleplaying Game](../T/The_Lord_of_the_Rings_Roleplaying_Game.md)*.
 
-Reeve cũng từng tham gia sản xuất phim chuyển thể từ *[The Chronicles of Narnia](../T/The_Chronicles_of_Narnia.md)*của [C.S. Lewis](../C/C.S._Lewis.md).
+Reeve cũng từng tham gia sản xuất phim chuyển thể từ *[The Chronicles of Narnia](../T/The_Chronicles_of_Narnia.md)* của [C.S. Lewis](../C/C.S._Lewis.md).
 
 ## Xem thêm {#See_also}
 

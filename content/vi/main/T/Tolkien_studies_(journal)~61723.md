@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Studies (journal)"
 ---
 
-Chuyển hướng tới [Tolkien Nghiên cứu (tạp chí)](<Tolkien_Studies_(journal).md>).
+Chuyển hướng đến [Nghiên cứu Tolkien (tạp chí)](<Tolkien_Studies_(journal).md>).

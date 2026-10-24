@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lord of the Rings: The White Council"
 ---
 
-Chuyển hướng đến [The Lord of the Rings: Bạch Hội Đồng](../T/The_Lord_of_the_Rings%253A_The_White_Council.md).
+Chuyển hướng đến [The Lord of the Rings: The White Council](../T/The_Lord_of_the_Rings%253A_The_White_Council.md).

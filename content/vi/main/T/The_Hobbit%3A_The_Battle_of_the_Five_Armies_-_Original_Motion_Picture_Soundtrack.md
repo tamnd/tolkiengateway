@@ -30,17 +30,17 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Hobbit_-_The_Battle_of_the_Five_Armies_-_Original_Motion_Picture_Soundtrack.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/7b/The_Hobbit_-_The_Battle_of_the_Five_Armies_-_Original_Motion_Picture_Soundtrack.jpg/320px-The_Hobbit_-_The_Battle_of_the_Five_Armies_-_Original_Motion_Picture_Soundtrack.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/7b/The_Hobbit_-_The_Battle_of_the_Five_Armies_-_Original_Motion_Picture_Soundtrack.jpg/480px-The_Hobbit_-_The_Battle_of_the_Five_Armies_-_Original_Motion_Picture_Soundtrack.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/7/7b/The_Hobbit_-_The_Battle_of_the_Five_Armies_-_Original_Motion_Picture_Soundtrack.jpg/640px-The_Hobbit_-_The_Battle_of_the_Five_Armies_-_Original_Motion_Picture_Soundtrack.jpg 2x" data-file-width="1024" data-file-height="1024"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span><i>The Hobbit: The Battle of the Five Armies - Original Motion Picture Soundtrack</i></span></th></tr><tr><td colspan="2" class="tg-infobox-caption">Soundtrack by <a href="../H/Howard_Shore.md" title="Howard Shore">Howard Shore</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/9_December.md" title="9 December">9 December</a>, <a href="../_/2014.md" title="2014">2014</a></td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data">English</td></tr><tr><th scope="row" class="tg-infobox-label">Label</th><td class="tg-infobox-data"><a class="extiw" href="http://en.wikipedia.org/wiki/WaterTower_Music" title="wikipedia:WaterTower Music">WaterTower Music</a></td></tr></tbody></table>
 
-<i><b>The Hobbit: The Battle of the Five Armies - Nhạc phim gốc</b></i> là một album bao gồm nhạc phim từ *[The Hobbit: The Battle of the Five Armies](The_Hobbit%253A_The_Battle_of_the_Five_Armies.md)*. Nó được phát hành dưới dạng kỹ thuật số và trên CD vào [9 tháng 12](../_/9_December.md) [2014](../_/2014.md).
+<i><b>Người Hobbit: Trận chiến của năm cánh quân - Nhạc phim gốc</b></i> là một album bao gồm nhạc phim từ *[The Hobbit: The Battle of the Five Armies](The_Hobbit%253A_The_Battle_of_the_Five_Armies.md)*. Nó được phát hành dưới dạng kỹ thuật số và trên CD vào [9 tháng 12](../_/9_December.md) [2014](../_/2014.md).
 
 ## Nội dung {#Contents}
 
 ### Đĩa 1 {#Disc_1}
 
 1. [Lửa và nước](<../F/Fire_and_Water_(soundtrack).md>)
-2. [Bờ Long Lake](../S/Shores_of_the_Long_Lake.md)
+2. [Bờ Hồ Dài](../S/Shores_of_the_Long_Lake.md)
 3. [Vượt qua nỗi buồn và sự đau buồn](../B/Beyond_Sorrow_and_Grief.md)
 4. [Ba người bảo vệ](../G/Guardians_of_the_Three.md)
-5. [Tàn tích của Dale](The_Ruins_of_Dale.md)
+5. [Tàn tích của Thung lũng](The_Ruins_of_Dale.md)
 6. [Sự hội tụ của những đám mây](<The_Gathering_of_the_Clouds_(soundtrack).md>)
 7. [Mithril](<../M/Mithril_(soundtrack).md>)
 8. [Được tạo ra cho chiến tranh](../B/Bred_for_War.md)

@@ -25,7 +25,7 @@ langlinks:
     url: "https://kontu.wiki/Apan%C3%B3nar"
 ---
 
-**Apanónar** là tên của [Con Người](../M/Men.md), có nghĩa là 'The Afterborn' trong [Quenya](../Q/Quenya.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
+**Apanónar** là tên dành cho [Đàn ông](../M/Men.md), có nghĩa là 'The Afterborn' trong [Quenya](../Q/Quenya.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

@@ -41,13 +41,13 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../H/Hobbits.md" title="Hobbits">Hobbit</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Gilly Brownlock</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../T/The_Shire.md" title="The Shire">The Shire</a></td></tr><tr><th scope="row" class="tg-infobox-label">Birth</th><td class="tg-infobox-data">Before <a class="mw-redirect" href="../S/Shire_Reckoning.md" title="Shire Reckoning">S.R.</a> <a href="../T/Third_Age_2946.md" title="Third Age 2946">1346</a></td></tr><tr><th scope="row" class="tg-infobox-label">Death</th><td class="tg-infobox-data">After <a class="mw-redirect" href="../S/Shire_Reckoning.md" title="Shire Reckoning">S.R.</a> <a href="../T/Third_Age_3001.md" title="Third Age 3001">1401</a><br/></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">Family</th><td class="tg-infobox-data"><a class="mw-redirect" href="../B/Brownlock_Family~66355.md" title="Brownlock Family">Brownlock</a></td></tr><tr><th scope="row" class="tg-infobox-label">Spouse</th><td class="tg-infobox-data"><a href="../P/Posco_Baggins.md" title="Posco Baggins">Posco Baggins</a></td></tr><tr><th scope="row" class="tg-infobox-label">Children</th><td class="tg-infobox-data"><a href="../P/Ponto_Baggins_II.md" title="Ponto Baggins II">Ponto</a>, <a href="../P/Porto_Baggins.md" title="Porto Baggins">Porto</a> and <a href="../P/Peony_Baggins.md" title="Peony Baggins">Peony</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Female</td></tr></tbody></table>
 
-**Gilly Brownlock** là [Hobbit](../H/Hobbits.md) của [ Shire](../T/The_Shire.md).
+**Gilly Brownlock** là một [Hobbit](../H/Hobbits.md) của [Shire](../T/The_Shire.md).
 
 ## Lịch sử {#History}
 
 Gilly kết hôn với [Posco Baggins](../P/Posco_Baggins.md) và họ có nhiều con: [Ponto](../P/Ponto_Baggins_II.md), [Porto](../P/Porto_Baggins.md) và [Peony](../P/Peony_Baggins.md).
 
-Gilly cùng các con và cháu đã có mặt tại [Bilbo Baggins](../B/Bilbo_Baggins.md)' [Tiệc sinh nhật](../B/Birthday_Party.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Gilly cùng các con và cháu của bà đã có mặt tại [Bilbo Baggins](../B/Bilbo_Baggins.md)' [Tiệc sinh nhật](../B/Birthday_Party.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

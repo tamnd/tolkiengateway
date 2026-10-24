@@ -34,4 +34,4 @@ file:
 </p>
 </div>
 
-\[\[Thể loại:Hình ảnh từ The Lord of the Rings (film series)
+\[\[Thể loại:Hình ảnh từ The Lord of the Rings (loạt phim)

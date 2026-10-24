@@ -45,11 +45,11 @@ infobox:
 
 **Ithilbor** là thủ lĩnh của [Yêu tinh khách](../G/Guest-elves.md) và là thành viên trong hội đồng của [Thingol](../T/Thingol.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Không có thông tin nào khác về ông ta, ngoại trừ việc ông ta là cha của [Saeros](../S/Saeros.md), một Yêu tinh xanh của [Arthórien](../A/Arthórien.md) người đã cư trú lâu dài tại tòa án của Thingol ở [Menegroth](../M/Menegroth.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Không có thông tin nào khác về ông ta, ngoại trừ việc ông ta là cha của [Saeros](../S/Saeros.md), một Yêu tinh xanh của [Arthórien](../A/Arthórien.md) người đã cư trú lâu dài tại triều đình của Thingol ở [Menegroth](../M/Menegroth.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Tên của anh ta không được giải thích nhưng dường như được tạo thành từ các từ [Sindarin](../S/Sindarin.md) *[Ithil](Ithil.md)* + *-[paur](../P/Paur.md)*, dịch là "Mặt Trăng-nắm tay".
+Tên của ông ta không được giải thích nhưng dường như được tạo thành từ các từ [Sindarin](../S/Sindarin.md) *[Ithil](Ithil.md)* + *-[paur](../P/Paur.md)*, dịch là "Nắm đấm mặt trăng".
 
 ## Phả hệ {#Genealogy}
 

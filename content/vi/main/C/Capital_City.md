@@ -17,11 +17,11 @@ images:
 
 **Thủ đô** có thể tham khảo:
 
-- [Annúminas](../A/Annúminas.md)
+- [Thông báo](../A/Annúminas.md)
 - [Armenelos](../A/Armenelos.md)
 - [Dale](../D/Dale.md)
 - [Edoras](../E/Edoras.md)
-- [Fornost Erain](../F/Fornost_Erain.md)
+- [Kỷ nguyên Fornost](../F/Fornost_Erain.md)
 - [Menegroth](../M/Menegroth.md)
 - [Michel Delving](../M/Michel_Delving.md)
 - [Minas Tirith](../M/Minas_Tirith.md)
@@ -30,7 +30,7 @@ images:
 
 ## Các bài viết khác {#Other_writings}
 
-Trong Đoạn II của *[The End of Bovadium](../T/The_End_of_Bovadium.md)*<sup id="cite_ref-CGL_1-0" class="reference"><a href="#cite_note-CGL-1">[1]</a></sup>, có đề cập rằng các thành phố khác ngoài *[Bovadium](../B/Bovadium.md)* đã gặp rắc rối từ *[Motores Bi](../M/Motores_Bi.md)*; **Thủ đô** được mô tả là đã "trở thành một khối *Motores*gần như rắn chắc". Trong các cuộc tranh luận giữa <a class="mw-redirect mw-disambig" href="../N/Northerners.md" title="Northerners">Người miền Bắc</a> và [Người miền Nam](../S/Southerners.md), Bộ trưởng quyết định không làm bất cứ điều gì do hai bên đề xuất và lẽ ra sẽ tiến hành kế hoạch của riêng mình nếu ông không bị mắc kẹt ở Thủ đô và chết.<sup id="cite_ref-FII_2-0" class="reference"><a href="#cite_note-FII-2">[2]</a></sup>
+Trong Đoạn II của *[The End of Bovadium](../T/The_End_of_Bovadium.md)*<sup id="cite_ref-CGL_1-0" class="reference"><a href="#cite_note-CGL-1">[1]</a></sup>, có đề cập rằng các thành phố khác ngoài *[Bovadium](../B/Bovadium.md)* đã gặp rắc rối từ *[Motores Bi](../M/Motores_Bi.md)*; **Thủ đô** được mô tả là đã "trở thành một khối *Motores* gần như rắn chắc". Trong các cuộc tranh luận giữa <a class="mw-redirect mw-disambig" href="../N/Northerners.md" title="Northerners">Người miền Bắc</a> và [Người miền Nam](../S/Southerners.md), Bộ trưởng quyết định không làm bất cứ điều gì do hai bên đề xuất và lẽ ra sẽ tiến hành kế hoạch của riêng mình nếu ông không bị mắc kẹt ở Thủ đô và chết.<sup id="cite_ref-FII_2-0" class="reference"><a href="#cite_note-FII-2">[2]</a></sup>
 
 <span></span>
 

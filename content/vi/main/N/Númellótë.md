@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tar-Palantir"
 ---
 
-Chuyển hướng đến [Tar-Palantir](../T/Tar-Palantir.md).
+Chuyển hướng tới [Tar-Palantir](../T/Tar-Palantir.md).

@@ -34,7 +34,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Michael Tolkien phục vụ với súng trong <a class="extiw" href="http://en.wikipedia.org/wiki/Battle_of_Britain" title="wikipedia:Battle of Britain">Trận chiến nước Anh</a> và đã bị thương trong một tai nạn khi huấn luyện ban đêm. J.R.R. Tolkien đã gửi cho anh ấy rất nhiều lá thư trong thời gian anh ấy đang dưỡng bệnh tại bệnh viện Worcester. Trong bức thư này, Tolkien trò chuyện về thời tiết và chuyến thăm thú vị đến một quán rượu. Ông tuyên bố rằng cảnh báo không kích thường xuyên nhưng cho đến nay không có vụ đánh bom nào xảy ra trong khu vực. Ông tin rằng thời kỳ sôi động hơn sắp đến, vì lý do dường như cho thấy Hitler phải tấn công nước Anh một cách trực tiếp và rất mạnh mẽ trước mùa hè. Tolkien cầu xin Chúa ban phước lành cho con trai ông, nói với cháu rằng ông liên tục cầu nguyện cho cháu và hỏi Michael có cần điều gì đặc biệt không.
+Michael Tolkien phục vụ trong đội súng trong <a class="extiw" href="http://en.wikipedia.org/wiki/Battle_of_Britain" title="wikipedia:Battle of Britain">Trận chiến nước Anh</a> và đã bị thương trong một tai nạn khi huấn luyện ban đêm. J.R.R. Tolkien đã gửi cho ông rất nhiều lá thư trong thời gian ông đang dưỡng bệnh tại bệnh viện Worcester. Trong bức thư này, Tolkien trò chuyện về thời tiết và chuyến thăm thú vị đến một quán rượu. Ông tuyên bố rằng cảnh báo không kích thường xuyên nhưng cho đến nay không có vụ đánh bom nào xảy ra trong khu vực. Ông tin rằng thời kỳ sôi động hơn sắp đến, vì lý do dường như cho thấy Hitler phải tấn công nước Anh một cách trực tiếp và rất mạnh mẽ trước mùa hè. Tolkien cầu xin sự phù hộ của Chúa cho con trai mình, nói với cậu rằng ông liên tục cầu nguyện cho cậu và hỏi Michael có cần điều gì đặc biệt không.
 
 <br>
 

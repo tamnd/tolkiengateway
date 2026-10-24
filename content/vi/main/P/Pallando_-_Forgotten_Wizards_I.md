@@ -12,7 +12,7 @@ categories:
   - "Songs by Battlelore"
 ---
 
-<i><b>Pallando - Forgotten Pháp sư I</b></i> là một bài hát của ban nhạc epic metal [Battlelore](../B/Battlelore.md) về [Pallando](../B/Blue_Wizards.md). Nó xuất hiện trong album dài thứ ba của họ, [Kỷ Đệ Tam của Mặt Trời](../T/Third_Age_of_the_Sun.md).
+<i><b>Pallando - Forgotten Wizards I</b></i> là một bài hát của ban nhạc epic metal [Battlelore](../B/Battlelore.md) về [Pallando](../B/Blue_Wizards.md). Nó xuất hiện trong album dài thứ ba của họ, [Third Age of the Sun](../T/Third_Age_of_the_Sun.md).
 
 ## Lời bài hát {#Lyrics}
 

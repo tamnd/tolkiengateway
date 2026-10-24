@@ -16,12 +16,12 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="../T/Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><a href="../F/First_Age.md" title="First Age">I</a><b>II</b><a href="../T/Third_Age.md" title="Third Age">III</a><a href="../F/Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="Second_Age_843.md" title="Second Age 843">843</a><a href="Second_Age_850.md" title="Second Age 850">850</a><a href="Second_Age_852.md" title="Second Age 852">852</a><a class="mw-selflink selflink">858</a><a href="Second_Age_861.md" title="Second Age 861">861</a><a href="Second_Age_863.md" title="Second Age 863">863</a><a href="Second_Age_869.md" title="Second Age 869">869</a></div></div></div></div></div></div>
 
-**Kỷ thứ hai 858** (viết tắt là **S.A. 858**) là năm [thứ 858 thuộc Mặt Trời](../Y/Years_of_the_Sun.md) của [Kỷ thứ hai](Second_Age.md) của [Trung Địa](../M/Middle-earth.md).
+**Kỷ thứ hai 858** (viết tắt là **S.A. 858**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 858 của [Kỷ thứ hai](Second_Age.md) của [Trung Địa](../M/Middle-earth.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 - Sự tham gia của [Aldarion](../T/Tar-Aldarion.md) và [Erendis](../E/Erendis.md).<sup id="cite_ref-Wife_1-0" class="reference"><a href="#cite_note-Wife-1">[1]</a></sup>
-- Các thủy thủ của [Hiệp hội mạo hiểm](../G/Guild_of_Venturers.md) không hài lòng. Không có sự đồng hành của Aldarion cũng như sự giàu có và quyền lực của anh ta, họ thực hiện những chuyến đi ít hơn và ngắn hơn và hiếm khi đi xa hơn vùng đất [Gil-galad](../G/Gil-galad.md).<sup id="cite_ref-Wife_1-1" class="reference"><a href="#cite_note-Wife-1">[1]</a></sup>
+- Các thủy thủ của [Hiệp hội mạo hiểm](../G/Guild_of_Venturers.md) không hài lòng. Không có sự đồng hành của Aldarion cũng như sự giàu có và quyền lực của ông, họ thực hiện ít chuyến đi hơn và ngắn hơn và hiếm khi đi xa hơn vùng đất [Gil-galad](../G/Gil-galad.md).<sup id="cite_ref-Wife_1-1" class="reference"><a href="#cite_note-Wife-1">[1]</a></sup>
 
 <span></span>
 

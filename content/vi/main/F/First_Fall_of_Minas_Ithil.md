@@ -21,17 +21,17 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>battle of the <a href="../S/Second_Age.md" title="Second Age">Second Age</a></b>. For the <a href="../T/Third_Age.md" title="Third Age">Third Age</a> siege by the <a href="../N/Nazgûl.md" title="Nazgûl">Nazgûl</a>, see <b><a href="../S/Second_Fall_of_Minas_Ithil.md" title="Second Fall of Minas Ithil">Second Fall of Minas Ithil</a></b>.</div></div>
 
-**Sự sụp đổ đầu tiên của Minas Ithil** là trận chiến xảy ra vào [S.A.](../S/Second_Age.md) [3429](../S/Second_Age_3429.md) giữa lực lượng của [Gondor](../G/Gondor.md) và [Mordor](../M/Mordor.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Sự sụp đổ đầu tiên của Minas Ithil** là trận chiến xảy ra ở [S.A.](../S/Second_Age.md) [3429](../S/Second_Age_3429.md) giữa lực lượng của [Gondor](../G/Gondor.md) và [Mordor](../M/Mordor.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Sau [Sự sụp đổ của Númenor](../D/Downfall_of_Númenor.md) ở [3319](../S/Second_Age_3319.md), những người con trai của [Elendil](../E/Elendil.md) đã đưa tàu của mình lên [Anduin](../A/Anduin.md) và cùng nhau thành lập vương quốc [Gondor](../G/Gondor.md). Trong khi [Anárion](../A/Anárion.md) lập nhà ở [Minas Anor](../M/Minas_Anor.md), anh trai [Isildur](../I/Isildur.md) lập nhà ở [Minas Ithil](../M/Minas_Ithil.md) trong một con đèo ở [Ephel Dúath](../E/Ephel_Dúath.md) giáp ranh [Mordor](../M/Mordor.md).
+Sau [Sự sụp đổ của Númenor](../D/Downfall_of_Númenor.md) ở [3319](../S/Second_Age_3319.md), các con trai của [Elendil](../E/Elendil.md) đã đưa tàu của họ lên [Anduin](../A/Anduin.md) và cùng nhau thành lập vương quốc [Gondor](../G/Gondor.md). Trong khi [Anárion](../A/Anárion.md) lập ngôi nhà của mình ở [Minas Anor](../M/Minas_Anor.md), thì anh trai anh [Isildur](../I/Isildur.md) đã lập ngôi nhà của mình ở [Minas Ithil](../M/Minas_Ithil.md) trong một con đèo ở [Ephel Dúath](../E/Ephel_Dúath.md) ở biên giới [Mordor](../M/Mordor.md).
 
-Nhưng [Sauron](../S/Sauron.md) cũng thoát khỏi Sự sụp đổ và quay trở lại Mordor. Ở đó, anh ta đã xây dựng sức mạnh của mình cho đến khi có thể tấn công những [người Númenor](../N/Númenóreans.md) bị lưu đày. Tại [3429](../S/Second_Age_3429.md) một lực lượng lớn đã chiếm Minas Ithil, đánh đuổi Isildur và đốt cháy [Cây Trắng](../W/White_Tree_of_Gondor.md). Isildur trốn thoát cùng vợ, các con trai và một cây giống. Họ tiến đến Elendil ở phía bắc trong khi Anárion phòng thủ [Osgiliath](../O/Osgiliath.md) và giữ Sauron ở ngoài khơi.
+Nhưng [Sauron](../S/Sauron.md) cũng thoát khỏi Sự sụp đổ và quay trở lại Mordor. Ở đó, anh đã xây dựng sức mạnh của mình cho đến khi có thể tấn công [Númenóreans](../N/Númenóreans.md) bị lưu đày. Trong [3429](../S/Second_Age_3429.md) một lực lượng lớn đã chiếm Minas Ithil, đánh đuổi Isildur và đốt cháy [Cây Trắng](../W/White_Tree_of_Gondor.md). Isildur trốn thoát cùng vợ, các con trai và một cây con của Cây. Họ tới Elendil ở phía bắc trong khi Anárion bảo vệ [Osgiliath](../O/Osgiliath.md) và ngăn chặn Sauron.
 
-Sauron cuộc tấn công và chinh phục của Minas Ithil chính là tia lửa đánh thức [Cuộc chiến của Liên minh Cuối cùng](../W/War_of_the_Last_Alliance.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Cuộc tấn công và chinh phục Minas Ithil của Sauron là tia lửa châm ngòi cho [Cuộc chiến của Liên minh cuối cùng](../W/War_of_the_Last_Alliance.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Xem thêm {#See_also}
 
-- [Sự sụp đổ thứ hai của Minas Ithil](../S/Second_Fall_of_Minas_Ithil.md)
+- [Sự sụp đổ lần thứ hai của Minas Ithil](../S/Second_Fall_of_Minas_Ithil.md)
 
 <span></span>
 

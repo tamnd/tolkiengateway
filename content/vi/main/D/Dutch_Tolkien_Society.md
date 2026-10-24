@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Unquendor"
 ---
 
-Chuyển hướng đến [Unquendor](../U/Unquendor.md).
+Chuyển hướng tới [Unquendor](../U/Unquendor.md).

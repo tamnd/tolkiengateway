@@ -30,4 +30,4 @@ images:
 <p class="tg-quote-footer"><cite><a href="../G/Glóin.md" title="Glóin">Glóin</a></cite></p>
 </blockquote></div></div>
 
-**Walter Hooper** là khách đến thăm [ Inklings](../T/The_Inklings.md) do [C.S. Lewis](../C/C.S._Lewis.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và bạn bè của họ tổ chức. Walter được mời tham gia một buổi gặp mặt đọc sách, trong đó *[The Horse and His Boy](../T/The_Chronicles_of_Narnia.md)*, *[The Two Towers](../T/The_Two_Towers.md)*và những cuốn sách khác đang được viết (vào thời điểm đó). Ông chủ yếu được biết đến qua công việc là người ủy thác văn học cho C.S. Lewis và [Owen Barfield](../O/Owen_Barfield.md).
+**Walter Hooper** là khách của [Inklings](../T/The_Inklings.md), do [C.S. Lewis](../C/C.S._Lewis.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và bạn bè của họ tổ chức. Walter được mời tham gia một buổi gặp mặt đọc sách, trong đó *[The Horse and His Boy](../T/The_Chronicles_of_Narnia.md)*, *[The Two Towers](../T/The_Two_Towers.md)* và những cuốn sách khác đang được viết (vào thời điểm đó). Ông chủ yếu được biết đến qua công việc là người ủy thác văn học cho C.S. Lewis và [Owen Barfield](../O/Owen_Barfield.md).

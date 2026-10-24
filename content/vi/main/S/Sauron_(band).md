@@ -19,6 +19,6 @@ categories:
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Sauron_(Argentine_band)&amp;action=edit&amp;redlink=1" title="Sauron (Argentine band) (page does not exist)">Sauron (ban nhạc Argentina)</a>
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Sauron_(Polish_band)&amp;action=edit&amp;redlink=1" title="Sauron (Polish band) (page does not exist)">Sauron (ban nhạc Ba Lan)</a>
 - Sauron, cũng đến từ Ba Lan (Łowicz), tách ra
-- Sauron, ban nhạc thứ ba đến từ Ba Lan (Starachowice), tan rã
+- Sauron, ban nhạc thứ ba đến từ Ba Lan (Starachowice), đã tan rã
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Sauron_(Swedish_band)&amp;action=edit&amp;redlink=1" title="Sauron (Swedish band) (page does not exist)">Sauron (ban nhạc Thụy Điển)</a>
 - [Sauron (ban nhạc Hoa Kỳ)](<Sauron_(US_band).md>)

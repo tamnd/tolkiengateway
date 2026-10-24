@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fell beasts"
 ---
 
-Chuyển hướng đến [Những con thú dữ](../F/Fell_beasts.md).
+Chuyển hướng tới [Thú vật sa ngã](../F/Fell_beasts.md).

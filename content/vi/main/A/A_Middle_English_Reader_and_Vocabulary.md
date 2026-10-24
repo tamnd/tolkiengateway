@@ -39,7 +39,7 @@ Hai tác phẩm được tái bản là:
 
 - 1\. *[Fourteenth Century Verse &amp; Prose](../F/Fourteenth_Century_Verse_&_Prose.md)* của <a class="new" href="https://tolkiengateway.net/w/index.php?title=Kenneth_Sisam&amp;action=edit&amp;redlink=1" title="Kenneth Sisam (page does not exist)">Kenneth Sisam</a>, được xuất bản lần đầu trong [1921](../_/1921.md) bởi Clarendon Press, Oxford. Đó là một tuyển tập thơ tiếng Anh thời trung cổ.
 
-- 2\. *[A Middle English Vocabulary](A_Middle_English_Vocabulary.md)* của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), được xuất bản lần đầu trên [1922](../_/1922.md), cũng bởi Clarendon Press, Oxford. Đây là bảng chú giải các từ tiếng Anh Trung Cổ, nhằm đi kèm với *Verse &amp; Prose*của Sisam. Đây là cuốn sách được xuất bản đầu tiên của Tolkien.
+- 2\. *[A Middle English Vocabulary](A_Middle_English_Vocabulary.md)* của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), được xuất bản lần đầu trên [1922](../_/1922.md), cũng bởi Clarendon Press, Oxford. Đây là bảng chú giải các từ tiếng Anh Trung Cổ, nhằm đi kèm với *Verse &amp; Prose* của Sisam. Đây là cuốn sách được xuất bản đầu tiên của Tolkien.
 
 ## Nội dung {#Contents}
 
@@ -57,13 +57,13 @@ Hai tác phẩm được tái bản là:
     - VIII. Người đi cày Piers
     - IX. Những chuyến du lịch của Mandeville
     - X. John Bruce của Barbour
-    - XI. John Wiclif
-    - XII. John Goer
-    - XIII. John Bản dịch Higden's Polychronicon của Trevisa
+    - XI. John Wicliff
+    - XII. John Gower
+    - XIII. Bản dịch của John of Trevisa về Polychronicon của Higden
     - XIV. Mảnh ghép chính trị
     - XV. Những mảnh ghép khác trong câu thơ
     - XVI. Vở kịch 'Sự đau khổ của địa ngục' ở York
-    - XVII. Vở kịch Towneley của Nô-ê
+    - XVIII. Vở kịch Towneley của Nô-ê
 
 - Ghi chú
 - Phụ lục: Ngôn ngữ tiếng Anh thế kỷ XIV

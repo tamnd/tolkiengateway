@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Middle-earth: The Role-playing Game set in J.R.R. Tolkien's World"
 ---
 
-Chuyển hướng đến [Trung Địa: Trò chơi nhập vai lấy bối cảnh trong Thế giới của J.R.R. Tolkien](Middle-earth%253A_The_Role-playing_Game_set_in_J.R.R._Tolkien's_World.md).
+Chuyển hướng đến [Middle-earth: The Role-playing Game set in J.R.R. Tolkien's World](Middle-earth%253A_The_Role-playing_Game_set_in_J.R.R._Tolkien's_World.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "East Road"
 ---
 
-Chuyển hướng đến [phương Đông Đường](East_Road.md).
+Chuyển hướng tới [Đường Đông](East_Road.md).

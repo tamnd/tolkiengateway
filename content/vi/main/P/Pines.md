@@ -20,11 +20,11 @@ Tên [Sindarin](../S/Sindarin.md) của "cây thông" là <i><b>thôn</b></i>.<s
 
 Trong *[Etymologies](../T/The_Etymologies.md)*, [Ilkorin](../I/Ilkorin.md) <i><b>thōn</b></i> và [Noldorin](../N/Noldorin.md) <i><b>thaun</b></i> (pl. *thuin*), bắt nguồn từ gốc [THON](../T/THON.md), được cho là có nghĩa là "cây thông".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
-Trong quan niệm rất sớm của Tolkien về các ngôn ngữ [Elvish](../E/Elvish.md) (có niên đại từ khoảng [1917](../_/1917.md)), tên [Gnomish](../G/Gnomish.md) của "cây thông" là <i><b>aigos</b></i> và tên [Qenya](../Q/Qenya.md) là <i><b><a href="../A/Aikasse.md#Qenya" title="Aikasse">aikasse</a></b></i>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Trong quan niệm rất sớm của Tolkien về các ngôn ngữ [Elvish](../E/Elvish.md) (có niên đại từ khoảng [1917](../_/1917.md)), tên [Gnomish](../G/Gnomish.md) cho "cây thông" là <i><b>aigos</b></i> và tên [Qenya](../Q/Qenya.md) là <i><b><a href="../A/Aikasse.md#Qenya" title="Aikasse">aikasse</a></b></i>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1994: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a>—<a href="../T/Treasures_of_Middle-earth_(2nd_edition).md" title="Treasures of Middle-earth (2nd edition)">Kho báu của Trung Địa</a></i></b>
+<b>1994: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Nhập vai ở Trung Địa</a>—<a href="../T/Treasures_of_Middle-earth_(2nd_edition).md" title="Treasures of Middle-earth (2nd edition)">Kho báu của Trung Địa</a></i></b>
 
 <dl><dd>A type of pine tree, namely <i><b>Blue Pine</b></i>  (<a href="../S/Sindarin.md" title="Sindarin">S</a>. <i>Luinthon</i>, <a href="../Q/Quenya.md" title="Quenya">Q</a>. <i>Luinisono</i>), also called <i>Mother Pine</i>, is described as a common evergreen tree in <a href="../R/Rhudaur.md" title="Rhudaur">Rhudaur</a>. As the name suggests, its wood had a blue-silver hue. The wood&#39;s high amounts of tannic acid made it act as a natural preservative, while its large cones carried edible seeds which were consumed by <a href="../H/Hillmen.md" title="Hillmen">Hillmen</a>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></dd></dl>
 

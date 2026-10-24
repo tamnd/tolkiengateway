@@ -28,7 +28,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Trận chiến giữa [Aragorn](../../main/A/Aragorn.md) và [Frodo](../../main/F/Frodo_Baggins.md) chống lại [Nazgûl](../../main/N/Nazgûl.md) trong [J.R.R. Tolkien ở Trung Địa](../../main/J/J.R.R._Tolkien's_War_in_Middle_Earth.md).
+Trận chiến giữa [Aragorn](../../main/A/Aragorn.md) và [Frodo](../../main/F/Frodo_Baggins.md) chống lại một [Nazgûl](../../main/N/Nazgûl.md) trong Cuộc chiến của [J.R.R. Tolkien ở Trung Địa](../../main/J/J.R.R._Tolkien's_War_in_Middle_Earth.md).
 
 ## Giấy phép {#Licensing}
 

@@ -39,7 +39,7 @@ infobox:
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
-**The Great River** là ca khúc thứ mười lăm trong *[The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture Soundtrack](The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack.md)* của [Howard Shore](../H/Howard_Shore.md). Phần đầu tiên của lời bài hát được lấy từ [Namárië](../N/Namárië.md) và nửa sau từ Lời Thề](../E/Elendil's_Oath.md) của [Elendil.
+**The Great River** là ca khúc thứ mười lăm trong *[The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture Soundtrack](The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack.md)* của [Howard Shore](../H/Howard_Shore.md). Phần đầu tiên của lời bài hát được lấy từ [Namárië](../N/Namárië.md) và nửa sau từ [Lời thề của Elendil](../E/Elendil's_Oath.md).
 
 ## Lời bài hát {#Lyrics}
 

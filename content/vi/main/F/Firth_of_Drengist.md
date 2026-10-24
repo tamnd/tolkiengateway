@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Drengist"
 ---
 
-Chuyển hướng đến [Drengist](../D/Drengist.md).
+Chuyển hướng tới [Drengist](../D/Drengist.md).

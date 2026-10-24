@@ -13,7 +13,7 @@ categories:
   - "Noldorin words"
 ---
 
-<i><b>rhoss</b></i> là từ [Noldorin](../N/Noldorin.md) cổ có nguồn gốc từ gốc <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Rus-&amp;action=edit&amp;redlink=1" title="Rus- (page does not exist)">rus-</a></i>, có nghĩa là "tia sáng" hoặc "lấp lánh của kim loại".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>rhoss</b></i> là từ cổ [Noldorin](../N/Noldorin.md) có nguồn gốc từ gốc <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Rus-&amp;action=edit&amp;redlink=1" title="Rus- (page does not exist)">rus-</a></i>, có nghĩa là "tia sáng" hoặc "ánh sáng lấp lánh của kim loại".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Ví dụ {#Examples}
 

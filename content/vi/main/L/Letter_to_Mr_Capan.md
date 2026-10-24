@@ -20,9 +20,9 @@ images:
 
 Vào [16 tháng 12](../_/16_December.md) [1955](../_/1955.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho ông Capan**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-- **Chủ đề**: Tolkien từ chối lời mời nói chuyện với Câu lạc bộ tiếng Anh [Đại học Cambridge](../C/Cambridge.md).
-- **Mô tả:** Một trang, tiêu đề thư cá nhân.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
-- **Xuất bản:** Mô tả về bức thư được đưa vào *[The J.R.R. Tolkien Companion and Guide](../T/The_J.R.R._Tolkien_Companion_and_Guide.md): Niên đại* (tr. 482).
+- **Subject**: Tolkien declines an invitation to talk to the [Cambridge University](../C/Cambridge.md) English Club.
+- **Description:** One page, personal letterhead.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- **Publication:** A description of the letter was included in *[The J.R.R. Tolkien Companion and Guide](../T/The_J.R.R._Tolkien_Companion_and_Guide.md): Chronology* (p. 482).
 
 ## Phiên âm {#Transcription}
 

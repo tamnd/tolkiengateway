@@ -12,16 +12,16 @@ categories:
   - "Northmen"
 ---
 
-**Con Người của Thung lũng Anduin** là những người [Con Người](Men.md) sống ở phía bắc của [Gondor](../G/Gondor.md) và thừa nhận quyền lực của mình khi Vương quốc miền Nam đạt đến đỉnh cao quyền lực vào thời Vua <a class="mw-redirect mw-disambig" href="../H/Hyarmendacil.md" title="Hyarmendacil">Hyarmendacil</a> vào thế kỷ thứ 12 T.A.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Người của Thung lũng Anduin** là dân tộc của [Người](Men.md) sống ở phía bắc [Gondor](../G/Gondor.md) và thừa nhận quyền lực của mình khi Vương quốc miền Nam đạt đến đỉnh cao quyền lực vào thời Vua <a class="mw-redirect mw-disambig" href="../H/Hyarmendacil.md" title="Hyarmendacil">Hyarmendacil</a> vào thế kỷ 12 T.A.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Là [Người phương Bắc](../N/Northmen.md), rất có thể họ là hậu duệ của [Edain](../E/Edain.md) của [Kỷ Đệ Nhất](../F/First_Age.md) giống như hầu hết Con Người của phần phía bắc của [Westlands](../W/Westlands.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Có vẻ như Con Người của Thung lũng Anduin là tổ tiên của [Éothéod](../_/Éothéod.md), những người đến từ [Thung lũng Anduin](../V/Vales_of_Anduin.md) giữa [Carrock](../C/Carrock.md) và <a class="mw-redirect mw-disambig" href="../G/Gladden.md" title="Gladden">Gladden</a>, di chuyển đến các vùng gần nguồn Anduin dưới thời trị vì của Vua [Eärnil II](../E/Eärnil_II.md) ở thế kỷ 21 T.A.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Với tư cách là [Người phương Bắc](../N/Northmen.md), có lẽ họ là hậu duệ của [Edain](../E/Edain.md) của [Kỷ nguyên thứ nhất](../F/First_Age.md) giống như hầu hết Người ở vùng phía bắc của [Westlands](../W/Westlands.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Có vẻ như Người ở Thung lũng Anduin là tổ tiên của [Éothéod](../_/Éothéod.md), đến từ [Vales of Anduin](../V/Vales_of_Anduin.md) giữa [Carrock](../C/Carrock.md) và <a class="mw-redirect mw-disambig" href="../G/Gladden.md" title="Gladden">Gladden</a>, được chuyển đến các khu vực gần nguồn của Anduin dưới thời trị vì của Vua [Eärnil II](../E/Eärnil_II.md) vào thế kỷ 21 T.A.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Ngôn ngữ của họ có ảnh hưởng nhất định đến ngôn ngữ của [Hobbit](../H/Hobbits.md) sống ở [Thung lũng Anduin](../V/Vales_of_Anduin.md) vào thời điểm đó.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Ngôn ngữ của họ có ảnh hưởng nhất định đến ngôn ngữ của [Hobbit](../H/Hobbits.md) sống ở [Vales of Anduin](../V/Vales_of_Anduin.md) vào thời điểm đó.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Xem thêm {#See_also}
 
 - [Éothéod](../_/Éothéod.md)
-- [Beornings](../B/Beornings.md)
+- [Buổi sáng](../B/Beornings.md)
 
 <span></span>
 

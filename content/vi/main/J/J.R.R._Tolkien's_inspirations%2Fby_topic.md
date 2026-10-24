@@ -47,9 +47,9 @@ categories:
 <p class="tg-quote-footer"><cite><a href="J.R.R._Tolkien%253A_A_Biography.md" title="J.R.R. Tolkien: A Biography">J.R.R. Tolkien: A Biography</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-## Bag End {#Bag_End}
+## Cuối túi {#Bag_End}
 
-Trang trại của dì Jane Neave của - Tolkien, được người dân địa phương gọi là Bag End, ở Dormston, Worcestershire -
+- Trang trại của dì Tolkien, Jane Neave, được người dân địa phương gọi là Bag End, ở Dormston, Worcestershire -
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
 <p>It [Bag End] was the local name for my aunt&#39;s [Jane Neave] farm in Worcestershire, which was at the end of a lane leading to it and no further ...
@@ -97,7 +97,7 @@ Trang trại của dì Jane Neave của - Tolkien, được người dân địa
 <p class="tg-quote-footer"><cite><a href="J.R.R._Tolkien%253A_A_Biography.md" title="J.R.R. Tolkien: A Biography">J.R.R. Tolkien: A Biography</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-## Belladonna Took {#Belladonna_Took}
+## Belladonna đã lấy {#Belladonna_Took}
 
 - Mabel Suffield, mẹ của Tolkien
 
@@ -109,9 +109,9 @@ Trang trại của dì Jane Neave của - Tolkien, được người dân địa
 <p class="tg-quote-footer"><cite><a href="J.R.R._Tolkien%253A_A_Biography.md" title="J.R.R. Tolkien: A Biography">J.R.R. Tolkien: A Biography</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-## Beren and Lúthien, cuộc họp của {#Beren_and_Lúthien,_meeting_of}
+## Beren và Lúthien, cuộc gặp gỡ của {#Beren_and_Lúthien,_meeting_of}
 
-- Edith Bratt hát và nhảy Tolkien tại một khu rừng nhỏ ở làng Roos, Yorkshire
+- Edith Bratt hát và nhảy cho Tolkien trong một khu rừng nhỏ ở làng Roos, Yorkshire
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
 <p>Blue was her [Lúthien’s] raiment as the unclouded heaven, but her eyes were grey as the starlit evening; her mantle was sewn with golden flowers, but her hair was dark as the shadows of twilight.
@@ -222,11 +222,11 @@ Trang trại của dì Jane Neave của - Tolkien, được người dân địa
 
 ## Bungo Baggins {#Bungo_Baggins}
 
-- Arthur Tolkien, bố của Tolkien
+- Arthur Tolkien, cha của Tolkien
 
 <br>
 
-## Bywater {#Bywater}
+## Bên nước {#Bywater}
 
 - Hồ bơi tại [Sarehole](../S/Sarehole.md) Mill, Warwickshire, Anh –
 
@@ -254,7 +254,7 @@ Trang trại của dì Jane Neave của - Tolkien, được người dân địa
 <p class="tg-quote-footer"><cite><a href="../G/Guide_to_the_Names_in_The_Lord_of_the_Rings.md" title="Guide to the Names in The Lord of the Rings">Guide to the Names in The Lord of the Rings</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-Xem thêm [#Gladden Fields](#Gladden_Fields)
+Xem thêm [#Cánh đồng Gladden](#Gladden_Fields)
 
 <br>
 
@@ -300,7 +300,7 @@ Xem thêm [#Gladden Fields](#Gladden_Fields)
 
 ## đi bộ {#walking}
 
-- Việc tập trung vào các nhân vật xuyên qua các tác phẩm của Tolkien có thể là do Tolkien phải đi bộ đến ngôi trường đầu tiên của mình, Vua Trường Edward ở Birmingham
+- Việc tập trung vào các nhân vật xuyên qua các tác phẩm của Tolkien có thể là do Tolkien phải đi bộ đến ngôi trường đầu tiên của mình, Trường King Edward ở Birmingham
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
 <p>The school [King Edward’s School] was in the centre of Birmingham, four miles from Sarehole, and for the first few weeks <b>Ronald had to walk much of the way</b>, for his mother could not afford the train fare and the trams did not run as far as his home. Clearly this could not continue, and regretfully Mabel decided that their days in the country would have to end.
@@ -310,4 +310,4 @@ Xem thêm [#Gladden Fields](#Gladden_Fields)
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://users.abo.fi/jolin/tolkien/tolkiens_inspirations.pdf" rel="noreferrer noopener" target="_blank">Tolkien nguồn cảm hứng và ảnh hưởng của anh tới tác phẩm</a>
+- <a class="external text" href="http://users.abo.fi/jolin/tolkien/tolkiens_inspirations.pdf" rel="noreferrer noopener" target="_blank">Nguồn cảm hứng và ảnh hưởng của Tolkien tới các tác phẩm của ông</a>

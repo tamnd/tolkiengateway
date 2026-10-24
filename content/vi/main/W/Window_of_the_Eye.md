@@ -19,7 +19,7 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Ted_Nasmith_-_The_Nazgûl.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/0/00/Ted_Nasmith_-_The_Nazg%C3%BBl.jpg/300px-Ted_Nasmith_-_The_Nazg%C3%BBl.jpg" decoding="async" loading="lazy" width="300" height="392" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/0/00/Ted_Nasmith_-_The_Nazg%C3%BBl.jpg 1.5x" data-file-width="344" data-file-height="450"/></a><figcaption><i>The Nazgûl</i> by <a href="../T/Ted_Nasmith.md" title="Ted Nasmith">Ted Nasmith</a>.</figcaption></figure>
 
-**Cửa sổ của [Con mắt](../E/Eye_of_Sauron.md)** là một cửa sổ ở tòa tháp cao nhất của [Barad-dûr](../B/Barad-dûr.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Nó hướng về phía tây theo hướng [Núi Doom](../M/Mount_Doom.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Có thể đó là một trong những cửa sổ mà từ đó [Sauron](../S/Sauron.md) nhìn ra vùng đất phía tây bắc của [Trung Địa](../M/Middle-earth.md).
+**Cửa sổ của [Con mắt](../E/Eye_of_Sauron.md)** là một cửa sổ ở tòa tháp cao nhất của [Barad-dûr](../B/Barad-dûr.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Nó hướng về phía tây theo hướng [Núi Định mệnh](../M/Mount_Doom.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Có thể đó là một trong những cửa sổ mà từ đó [Sauron](../S/Sauron.md) nhìn ra vùng đất phía tây bắc của [Trung địa](../M/Middle-earth.md).
 
 <span></span>
 

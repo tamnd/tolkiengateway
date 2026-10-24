@@ -33,4 +33,4 @@ infobox:
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
-**Roots and Beginnings** là bài hát đầu tiên trong đĩa một trong *[The Lord of the Rings: The Return of the King - The Complete Recordings](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_-_The_Complete_Recordings.md)* của [Howard Shore](../H/Howard_Shore.md).
+**Roots and Beginnings** là bài hát đầu tiên trong đĩa *[The Lord of the Rings: The Return of the King - The Complete Recordings](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_-_The_Complete_Recordings.md)* của [Howard Shore](../H/Howard_Shore.md).

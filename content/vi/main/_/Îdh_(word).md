@@ -19,13 +19,13 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the Sindarin word</b>. For the <a href="../V/Valar.md" title="Valar">Vala</a>, see <b><a href="../E/Estë.md" title="Estë">Estë</a></b>.</div></div>
 
-## Sindarin {#Sindarin}
+## Tiếng Sindarin {#Sindarin}
 
 <i><b>îdh</b></i> là một từ [Sindarin](../S/Sindarin.md) có nghĩa là "hòa bình, yên tĩnh"<sup id="cite_ref-PE19_1-0" class="reference"><a href="#cite_note-PE19-1">[1]</a></sup> hoặc "nghỉ ngơi, nghỉ ngơi"<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>.
 
 ### Từ nguyên {#Etymoloy}
 
-- Gốc <a class="new" href="https://tolkiengateway.net/w/index.php?title=SED&amp;action=edit&amp;redlink=1" title="SED (page does not exist)">SED</a> ("nghỉ ngơi")<sup id="cite_ref-PE19_1-1" class="reference"><a href="#cite_note-PE19-1">[1]</a></sup>
+- Gốc <a class="new" href="https://tolkiengateway.net/w/index.php?title=SED&amp;action=edit&amp;redlink=1" title="SED (page does not exist)">SED</a> ("phần còn lại")<sup id="cite_ref-PE19_1-1" class="reference"><a href="#cite_note-PE19-1">[1]</a></sup>
 
 ### Có cùng nguồn gốc {#Cognates}
 

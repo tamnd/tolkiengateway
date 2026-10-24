@@ -14,12 +14,12 @@ images:
   - "Disambig.png"
 ---
 
-**Các tay đua Rohan** có thể tham khảo:
+**Kỵ sĩ Rohan** có thể tham khảo:
 
-- tên gọi chung của [Rohirrim](Rohirrim.md), những kỵ binh từ phương bắc cư trú tại vùng đất [Rohan](Rohan.md) sau khi thành lập vào [Eorl the Young](../E/Eorl_the_Young.md).
+- tên gọi chung của [Rohirrim](Rohirrim.md), những kỵ binh từ phương bắc cư trú tại vùng đất [Rohan](Rohan.md) sau khi được thành lập bởi [Eorl the Young](../E/Eorl_the_Young.md).
 - *[The Riders of Rohan](../T/The_Riders_of_Rohan.md)*, một chương của *[The Two Towers](../T/The_Two_Towers.md)*
 
-- *[Riders of Rohan](<Riders_of_Rohan_(1985_book).md>)*, trò chơi bổ sung dành cho [Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md).
+- *[Riders of Rohan](<Riders_of_Rohan_(1985_book).md>)*, một trò chơi bổ sung dành cho [Nhập vai ở Trung Địa](../M/Middle-earth_Role_Playing.md).
 - *[Riders of Rohan](../J/J.R.R._Tolkien's_Riders_of_Rohan.md)*, một trò chơi điện tử [1990](../_/1990.md).
 - *[The Lord of the Rings Online: Riders of Rohan](../T/The_Lord_of_the_Rings_Online%253A_Riders_of_Rohan.md)*, bản mở rộng thứ tư cho *[The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md)*.
 

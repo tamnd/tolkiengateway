@@ -14,4 +14,4 @@ sort_keys:
   "Fandom": "Fan projects and fan works"
 ---
 
-Danh mục này liệt kê tất cả **dự án và tác phẩm của người hâm mộ** (phim của người hâm mộ, tiểu thuyết hư cấu của người hâm mộ, tác phẩm sân khấu do người hâm mộ tạo ra, mod hoặc trò chơi phần mềm miễn phí do người hâm mộ tạo ra) liên quan đến [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) tác phẩm.
+Danh mục này liệt kê tất cả **dự án và tác phẩm của người hâm mộ** (phim của người hâm mộ, tiểu thuyết hư cấu, tác phẩm sân khấu do người hâm mộ tạo ra, mod hoặc trò chơi phần mềm miễn phí do người hâm mộ tạo ra) liên quan đến tác phẩm của [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md).

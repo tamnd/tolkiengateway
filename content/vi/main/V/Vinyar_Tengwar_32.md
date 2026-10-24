@@ -39,7 +39,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/V/Vinyar_Tengwar_32.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/0/00/Vinyar_Tengwar_32.jpg/287px-Vinyar_Tengwar_32.jpg" decoding="async" loading="lazy" width="287" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/00/Vinyar_Tengwar_32.jpg/430px-Vinyar_Tengwar_32.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/0/00/Vinyar_Tengwar_32.jpg/574px-Vinyar_Tengwar_32.jpg 2x" data-file-width="1785" data-file-height="2985"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Vinyar Tengwar 32</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../C/Carl_F._Hostetter.md" title="Carl F. Hostetter">Carl F. Hostetter</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../E/Elvish_Linguistic_Fellowship.md" title="Elvish Linguistic Fellowship">Elvish Linguistic Fellowship</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">November <a href="../_/1993.md" title="1993">1993</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback journal</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">32</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">1054-7606</td></tr></tbody></table>
 
-<i><b>Vinyar Tengwar 32</b></i> là số thứ 32 của *[Vinyar Tengwar](Vinyar_Tengwar.md)*, một tạp chí chuyên nghiên cứu học thuật về các ngôn ngữ được phát minh ra của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
+<i><b>Vinyar Tengwar 32</b></i> là số thứ 32 của *[Vinyar Tengwar](Vinyar_Tengwar.md)*, một tạp chí chuyên nghiên cứu học thuật về các ngôn ngữ được phát minh của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
 <div class="template-prevnext"><div class="template-prevnext__prev template-prevnext__link"><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/8/81/WikimediaUI-ArrowPrevious-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__content"><div class="template-prevnext__title">Vinyar Tengwar 31</div></div><div class="template-prevnext__linkoverlay"><a href="Vinyar_Tengwar_31.md" title="Vinyar Tengwar 31">Vinyar Tengwar 31</a></div></div><div class="template-prevnext__current"><div class="template-prevnext__content"><div class="template-prevnext__title">Vinyar Tengwar 32</div></div></div><div class="template-prevnext__next template-prevnext__link"><div class="template-prevnext__content"><div class="template-prevnext__title">Vinyar Tengwar 33</div></div><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/7b/WikimediaUI-ArrowNext-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__linkoverlay"><a href="Vinyar_Tengwar_33.md" title="Vinyar Tengwar 33">Vinyar Tengwar 33</a></div></div></div>
 
@@ -48,13 +48,13 @@ infobox:
 - Bìa: Bản thảo *Attolma* — [Carl F. Hostetter](../C/Carl_F._Hostetter.md)
 - E.L.F. News
 
-- "*Attolma* (Kinh Lạy Cha trong Quenya)" — Patrick H. Wynne và Carl F. Hostetter
+- "*Attolma* (Kinh Lạy Cha ở Quenya)" — Patrick H. Wynne và Carl F. Hostetter
 - "Từ ngữ và thiết bị: Có những nàng tiên ở cuối khu vườn của chúng ta!" (cột) — Patrick H. Wynne và Carl F. Hostetter
 - "Chuyển đổi trong bản dịch: Chữ Rune tiếng Séc" (cột) — Arden R. Smith
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="https://www.elvish.org/articles/Attolma.html" rel="noreferrer noopener" target="_blank"><i>Attolma</i>: Kinh Lạy Cha trong Quenya</a>
+- <a class="external text" href="https://www.elvish.org/articles/Attolma.html" rel="noreferrer noopener" target="_blank"><i>Attolma</i>: Kinh Lạy Cha ở Quenya</a>
 
 <br>
 

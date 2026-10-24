@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Trees of Kortirion"
 ---
 
-Chuyển hướng tới [Những cái cây của Kortirion](../T/The_Trees_of_Kortirion.md).
+Chuyển hướng đến [Những cái cây của Kortirion](../T/The_Trees_of_Kortirion.md).

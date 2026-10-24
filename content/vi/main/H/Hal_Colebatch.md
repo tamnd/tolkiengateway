@@ -27,17 +27,17 @@ sort_keys:
 ### Sách {#Books}
 
 - [1990](../_/1990.md): *[Return of the Heroes: The Lord of the Rings, Star Wars, Harry Potter, and Social Conflict](../R/Return_of_the_Heroes.md)*
-- [2003](../_/2003.md): *Sự trở lại của các anh hùng: The Lord of the Rings, Chiến tranh giữa các vì sao, Harry Potter và Xung đột xã hội* (ấn bản thứ hai)
+- [2003](../_/2003.md): *Sự trở lại của các anh hùng: Chúa tể của những chiếc nhẫn, Chiến tranh giữa các vì sao, Harry Potter và Xung đột xã hội* (ấn bản thứ hai)
 
 ### Bài viết {#Articles}
 
 - [1989](../_/1989.md): *Quadrant*
-    - "Tolkien và những nhà phê bình của ông"
+    - "Tolkien và những nhà phê bình"
 - [1989](../_/1989.md): *Antipodes : một tạp chí văn học Úc ở Bắc Mỹ*
     - ([Tháng 12](../D/December.md)): "Đọc *The Lord of the Rings*"
 - [2006](../_/2006.md): *[J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment](../J/J.R.R._Tolkien_Encyclopedia%253A_Scholarship_and_Critical_Assessment.md)*
     - "Chủ nghĩa tư bản"
-    - "Chủ nghĩa Cộng sản"
+    - "Cộng sản"
     - "Chính trị"
 - [2007](../_/2007.md): *The American Spectator*
     - ([23 tháng 8](../_/23_August.md)) "<a class="external text" href="http://spectator.org/archives/2007/08/23/the-christian-resonances-of-mo" rel="noreferrer noopener" target="_blank">Tiếng vang Kitô giáo của sử thi hiện đại</a>"

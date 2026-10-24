@@ -13,7 +13,7 @@ categories:
   - "Video Game publishers"
 ---
 
-**Sarassota Collectibles** là công ty đã phát triển và xuất bản [Trung Địa: The Riddles](../M/Middle-earth%253A_The_Riddles.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Sarassota Collectibles** là công ty đã phát triển và xuất bản [Middle-earth: The Riddles](../M/Middle-earth%253A_The_Riddles.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

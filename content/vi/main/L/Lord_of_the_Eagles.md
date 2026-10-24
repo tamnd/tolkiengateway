@@ -22,15 +22,15 @@ langlinks:
     url: "https://kontu.wiki/Kotkien_ruhtinas"
 ---
 
-**Chúa tể của Đại Bàng** là danh hiệu của hai [Đại Bàng](../E/Eagles.md): [Đại bàng vĩ đại](../G/Great_Eagle.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và [Thorondor](../T/Thorondor.md)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>.
+**Chúa tể của những chú đại bàng** là danh hiệu của hai [Đại bàng](../E/Eagles.md): [Đại bàng vĩ đại](../G/Great_Eagle.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và [Thorondor](../T/Thorondor.md)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>.
 
-Đại bàng vĩ đại còn được gọi là **chúa tể của những con đại bàng [Dãy Núi Sương Mù](../M/Misty_Mountains.md)**<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> và **chúa tể của những con đại bàng**.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Thorondor còn được gọi là **Vua của Đại Bàng**<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> hay **vua của đại bàng**<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>. Ông còn được gọi là **Chúa tể Đại Bàng**.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup>
+Đại bàng vĩ đại còn được biết đến là **chúa tể của những con đại bàng của [Dãy núi sương mù](../M/Misty_Mountains.md)**<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> và **chúa tể của những con đại bàng**.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Thorondor còn được gọi là **Vua đại bàng**<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> hay **vua của các loài đại bàng đại bàng**<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>. Ông còn được gọi là **Chúa đại bàng**.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup>
 
-Mặc dù [Gwaihir](../G/Gwaihir.md) chưa bao giờ được gọi trực tiếp là Chúa tể của Đại Bàng nhưng tên của ông thường được dịch là Chúa tể gió.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup><sup id="cite_ref-:0_15-0" class="reference"><a href="#cite_note-:0-15">[15]</a></sup> Có thể Gwaihir và anh trai [Landroval](Landroval.md) là hai trong số mười lăm thủ lĩnh của Đại bàng<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup>, vì tất cả những Đại Bàng khác đều được gọi là chư hầu của họ.<sup id="cite_ref-:0_15-1" class="reference"><a href="#cite_note-:0-15">[15]</a></sup>
+Mặc dù [Gwaihir](../G/Gwaihir.md) chưa bao giờ được gọi trực tiếp là Chúa tể của Đại bàng nhưng tên của ông thường được dịch là Chúa tể gió.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup><sup id="cite_ref-:0_15-0" class="reference"><a href="#cite_note-:0-15">[15]</a></sup> Có thể Gwaihir và anh trai [Landroval](Landroval.md) là hai trong số mười lăm thủ lĩnh của Đại bàng<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup>, vì tất cả các Đại bàng khác đều được gọi là chư hầu của họ.<sup id="cite_ref-:0_15-1" class="reference"><a href="#cite_note-:0-15">[15]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong bản thảo đầu tiên của chương "[Từ chảo rán vào lửa](../O/Out_of_the_Frying-Pan_into_the_Fire.md)", Đại bàng lớn được gọi là " **chúa tể của những con đại bàng**" và " **[Chúa tể của Đại Bàng](Lord_of_Eagles.md)**".<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup> Trong bản thảo đầu tiên của chương "[Nhà nghỉ kỳ lạ](../Q/Queer_Lodgings.md)", tiêu đề của Đại bàng lớn đã được đổi thành <a class="mw-selflink selflink">Chúa tể của Đại Bàng</a> và ông được trao danh hiệu **vua của các loài chim**.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup>
+Trong bản thảo đầu tiên của chương "[Từ chảo rán vào lửa](../O/Out_of_the_Frying-Pan_into_the_Fire.md)", Đại bàng lớn được gọi là " **chúa tể của những chú đại bàng**" và " **[Chúa tể của những chú đại bàng](Lord_of_Eagles.md)**".<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup> Trong bản thảo đầu tiên của chương "[Nhà nghỉ kỳ lạ](../Q/Queer_Lodgings.md)", danh hiệu của Đại bàng lớn đã được đổi thành <a class="mw-selflink selflink">Chúa của Đại bàng</a> và ông được trao danh hiệu **vua của các loài chim**.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
@@ -38,11 +38,11 @@ Trong bản thảo đầu tiên của chương "[Từ chảo rán vào lửa](..
 
 <dl><dd>The Lord of the Eagles is played by Friedrich W. Bauschulle.</dd></dl>
 
-<b>2011: <i><a href="../T/The_Lord_of_the_Rings%253A_War_in_the_North.md" title="The Lord of the Rings: War in the North">The Lord of the Rings: War in the North</a></i>:</b>
+<b>2011: <i><a href="../T/The_Lord_of_the_Rings%253A_War_in_the_North.md" title="The Lord of the Rings: War in the North">Chúa tể của những chiếc nhẫn: Cuộc chiến ở phương Bắc</a></i>:</b>
 
 <dl><dd><a href="../G/Gwaihir.md" title="Gwaihir">Gwaihir</a> bears the title &#34;Lord of the Eagles&#34;.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup></dd></dl>
 
-<b>2012: <i><a href="Lego.md" title="Lego">LEGO The Hobbit</a></i>:</b>
+<b>2012: <i><a href="Lego.md" title="Lego">LEGO Người Hobbit</a></i>:</b>
 
 <dl><dd>Gwaihir is conflated with the Lord of the Eagles.</dd></dl>
 

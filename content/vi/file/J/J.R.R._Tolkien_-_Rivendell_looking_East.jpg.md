@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Bức ảnh này được đăng trên [The Lord of the Rings Lịch năm 1977](../../main/T/The_Lord_of_the_Rings_1977_Calendar.md) nhưng phần trên bị cắt bớt nhiều.
+Bức ảnh này được xuất bản ở [The Lord of the Rings 1977 Calendar](../../main/T/The_Lord_of_the_Rings_1977_Calendar.md) và phần đầu bị cắt bớt nhiều.
 
 ## Giấy phép {#Licensing}
 

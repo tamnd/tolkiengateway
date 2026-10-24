@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Hobbit (public house)"
 ---
 
-Chuyển hướng đến [The Hobbit (nhà công cộng)](<The_Hobbit_(public_house).md>).
+Chuyển hướng đến [The Hobbit (public house)](<The_Hobbit_(public_house).md>).

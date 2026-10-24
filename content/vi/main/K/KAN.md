@@ -12,13 +12,13 @@ categories:
   - "Roots"
 ---
 
-**KAN** là từ gốc [Common Eldarin](../C/Common_Eldarin.md) biểu thị "khóc, gọi to".<sup id="cite_ref-PM_1-0" class="reference"><a href="#cite_note-PM-1">[1]</a></sup>
+**KAN** là từ gốc [Eldarin thông thường](../C/Common_Eldarin.md) biểu thị "khóc, gọi to".<sup id="cite_ref-PM_1-0" class="reference"><a href="#cite_note-PM-1">[1]</a></sup>
 
 ## Công cụ phái sinh {#Derivatives}
 
-- ?[Primitive Quendian](../P/Primitive_Quendian.md):<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 1]</a></sup> *kānō*<sup id="cite_ref-PM_1-1" class="reference"><a href="#cite_note-PM-1">[1]</a></sup>
+- ?[Quendian nguyên thủy](../P/Primitive_Quendian.md):<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 1]</a></sup> *kānō*<sup id="cite_ref-PM_1-1" class="reference"><a href="#cite_note-PM-1">[1]</a></sup>
     - [Quenya](../Q/Quenya.md): *[káno](Káno.md)* "người báo tin", "người báo trước"<sup id="cite_ref-PM_1-2" class="reference"><a href="#cite_note-PM-1">[1]</a></sup>
-    - [Telerin](../T/Telerin.md): *[cāno](../C/Cāno.md)* "báo trước"; *[can-](../C/Can-.md)* "khóc to, gọi" hoặc "gọi hoặc gọi tên một người"<sup id="cite_ref-PM_1-3" class="reference"><a href="#cite_note-PM-1">[1]</a></sup>
+    - [Telerin](../T/Telerin.md): *[cāno](../C/Cāno.md)* "đưa tin"; *[can-](../C/Can-.md)* "khóc to, gọi" hoặc "gọi hoặc gọi tên một người"<sup id="cite_ref-PM_1-3" class="reference"><a href="#cite_note-PM-1">[1]</a></sup>
     - [Sindarin](../S/Sindarin.md): *[can-](../C/Can-.md)* "kêu, hét, gọi"; *[caun](../C/Caun.md)* "kêu la, kêu la"<sup id="cite_ref-PM_1-4" class="reference"><a href="#cite_note-PM-1">[1]</a></sup>
 
 ## Ghi chú {#Notes}

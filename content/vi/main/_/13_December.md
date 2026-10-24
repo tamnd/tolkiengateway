@@ -68,12 +68,12 @@ Sự kiện xảy ra vào ngày 13 tháng 12
 
 - **[1907](1907.md)** - Dịch giả [Ebba-Margareta von Freymann](../E/Ebba-Margareta_von_Freymann.md) ra đời.
 - **[1937](1937.md)** - <a class="extiw" href="http://en.wikipedia.org/wiki/Arthur_Ransome" title="wikipedia:Arthur Ransome">Arthur Ransome</a> viết [một bức thư cho J.R.R. Tolkien](../L/Letter_to_Arthur_Ransome.md).
-- **[1954](1954.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một lá thư cho Rayner Heppenstall](<../L/Letter_to_Rayner_Heppenstall_(13_December_1954).md>).
+- **[1954](1954.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một bức thư cho Rayner Heppenstall](<../L/Letter_to_Rayner_Heppenstall_(13_December_1954).md>).
 - **[1957](1957.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư 204a](../L/Letter_204a.md).
-- **[1967](1967.md)** - [Margaret Carroux](../M/Margaret_Carroux.md) đến gặp [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) ở [Oxford](../O/Oxford.md) để nói về bản dịch tiếng Đức của cô ấy.
+- **[1967](1967.md)** - [Margaret Carroux](../M/Margaret_Carroux.md) đến gặp [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) ở [Oxford](../O/Oxford.md) để nói về bản dịch tiếng Đức của bà.
 - **[1972](1972.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 346](../L/Letter_346.md).
 - <b><a href="2012.md" title="2012">2012</a> - <i><a href="../T/The_Hobbit%253A_An_Unexpected_Journey.md" title="The Hobbit: An Unexpected Journey">The Hobbit: An Unexpected Journey</a></i> được phát hành ở Châu Âu.</b>
-- <b><a href="2013.md" title="2013">2013</a> - <i><a href="../T/The_Hobbit%253A_The_Desolation_of_Smaug.md" title="The Hobbit: The Desolation of Smaug">The Hobbit: The Desolation of Smaug</a></i> được phát hành.</b>
+- <b><a href="2013.md" title="2013">2013</a> - <i><a href="../T/The_Hobbit%253A_The_Desolation_of_Smaug.md" title="The Hobbit: The Desolation of Smaug">The Hobbit: Sự tàn phá của Smaug</a></i> được phát hành.</b>
 - **[2013](2013.md)** - *[The Hobbit: The Desolation of Smaug: Chronicles: Art &amp; Design](../T/The_Hobbit%253A_The_Desolation_of_Smaug%253A_Chronicles%253A_Art_&_Design.md)* được xuất bản.
 - **[2015](2015.md)** - Tác giả [Daniel Grotta](../D/Daniel_Grotta.md) qua đời.
 - **[2024](2024.md)** - [The Lord of the Rings: The War of the Rohirrim](../T/The_Lord_of_the_Rings%253A_The_War_of_the_Rohirrim.md) **được phát hành tại Hoa Kỳ.**
@@ -81,7 +81,7 @@ Sự kiện xảy ra vào ngày 13 tháng 12
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi ở [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).
+    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi tại [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).
 
 <span></span>
 

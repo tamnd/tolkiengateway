@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Belegost"
 ---
 
-Chuyển hướng đến [Belegost](../B/Belegost.md).
+Chuyển hướng tới [Belegost](../B/Belegost.md).

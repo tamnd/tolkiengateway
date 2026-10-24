@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hador (Steward of Gondor)"
 ---
 
-Chuyển hướng tới [Hador (Người quản lý của Gondor)](<Hador_(Steward_of_Gondor).md>).
+Chuyển hướng đến [Hador (Người quản lý Gondor)](<Hador_(Steward_of_Gondor).md>).

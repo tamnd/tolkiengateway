@@ -71,10 +71,10 @@ Sự kiện xảy ra vào ngày 23 tháng 2.
 - **[1961](1961.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 229](../L/Letter_229.md).
 - **[1966](1966.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 284](../L/Letter_284.md).
 - **[2009](2009.md)** - Bộ phim tài liệu [1997](1997.md) *[J.R.R. Tolkien](<../J/J.R.R._Tolkien_(1997_documentary).md>)* được phát hành dưới dạng DVD tại Anh.
-- **[2024](2024.md)** - Đã có thông báo rằng trò chơi điện tử trực tuyến [The Lord of the Rings: Heroes of Trung Địa](../T/The_Lord_of_the_Rings%253A_Heroes_of_Middle-earth.md) sẽ ngừng hoạt động trực tuyến.
+- **[2024](2024.md)** - Đã có thông báo rằng trò chơi điện tử trực tuyến [The Lord of the Rings: Heroes of Middle-earth](../T/The_Lord_of_the_Rings%253A_Heroes_of_Middle-earth.md) sẽ ngừng hoạt động trực tuyến.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - Con [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) di chuyển về phía nam xuống [Anduin](../A/Anduin.md).
-    - Chúng bị phục kích gần [Sarn Gebir](../S/Sarn_Gebir.md) vào ban đêm. [Gollum](../G/Gollum.md) sợ hãi bỏ chạy sang bờ phía đông và trốn trong [Emyn Muil](../E/Emyn_Muil.md). Một bóng bay tiến đến nhưng Legolas bắn nó bằng cung Galadriel.
+    - Nhóm [Hiệp hội Nhẫn](../F/Fellowship_of_the_Ring.md) đi về phía nam dọc theo [Anduin](../A/Anduin.md).
+    - Họ bị phục kích gần [Sarn Gebir](../S/Sarn_Gebir.md) vào ban đêm. [Gollum](../G/Gollum.md) sợ hãi chạy trốn đến bờ phía đông và ẩn náu trong [Emyn Muil](../E/Emyn_Muil.md). Một cái bóng bay đến gần nhưng Legolas bắn nó bằng cây cung của Galadriel.

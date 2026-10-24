@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Orcs of the Misty Mountains"
 ---
 
-Chuyển hướng đến [Orc của Dãy Núi Sương Mù](Orcs_of_the_Misty_Mountains.md).
+Chuyển hướng tới [Orc ở vùng núi sương mù](Orcs_of_the_Misty_Mountains.md).

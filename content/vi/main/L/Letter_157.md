@@ -33,13 +33,13 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien cảm thấy rất xấu tính khi biết Katharine bị ốm và gặp rắc rối, và anh không hề liên lạc với cô dù có ý định tốt. Ngoại trừ lòng tốt của cô ấy, anh ấy sẽ xuất hiện như kiểu "người bạn" lợi dụng bạn và rồi ra đi khi bạn suy sụp.
+Tolkien cảm thấy rất xấu tính khi biết rằng Katharine bị ốm và gặp rắc rối, và anh đã không hề liên lạc với bà dù có ý định tốt. Ngoại trừ lòng tốt của bà, ông sẽ xuất hiện như kiểu "người bạn" lợi dụng bạn và rồi ra đi khi bạn suy sụp.
 
-Anh ấy hiểu được những khó khăn tài chính. Một kỳ nghỉ thực sự phải "có nhiều hơn là lương". Nếu không tìm được tiền, anh ấy có thể dành ra 50 bảng Anh. Trường Trinity College đã rất tử tế với anh khi anh gặp khó khăn khủng khiếp trong những năm đầu chiến tranh.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 2]</a></sup> Anh nên thích cách tỏ lòng biết ơn này hơn bằng cách giúp đỡ vợ chồng cô "hướng về phía mặt trời".
+Ông hiểu được những khó khăn tài chính. Một kỳ nghỉ thực sự phải "có nhiều hơn là lương". Nếu không tìm được tiền, ông có thể dành ra 50 bảng Anh. Trường Trinity College đã rất tử tế với anh khi anh gặp khó khăn khủng khiếp trong những năm đầu chiến tranh.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 2]</a></sup> Anh nên thích cách tỏ lòng biết ơn này hơn bằng cách giúp đỡ vợ chồng cô "hướng về phía mặt trời".
 
-Tolkien trả về một "bản sao của [Lewis](../C/C.S._Lewis.md)"<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 3]</a></sup> và một bản sao của *Encounter* chứa một cú vô lê [Auden](../W/W.H._Auden.md). Cô ấy có thể giữ *Encounter* vì anh ấy đã mua nó cho cô ấy. [Ent](../E/Ents.md) dường như đã thành công.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[note 4]</a></sup> Như thường lệ với chính anh ấy, Tolkien nói, họ đã phát triển từ cái tên của mình chứ không phải ngược lại. Anh luôn cảm thấy cần phải làm gì đó với từ Anglo-Saxon đặc biệt *ent* để chỉ một "người khổng lồ".
+Tolkien trả lại một "bản sao của [Lewis](../C/C.S._Lewis.md)"<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 3]</a></sup> và một bản sao của *Encounter* chứa một cú vô lê [Auden](../W/W.H._Auden.md). Bà có thể giữ *Encounter* vì ông đã mua nó cho bà. Các [Ent](../E/Ents.md) dường như đã thành công.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[note 4]</a></sup> Như thường lệ với chính ông, Tolkien nói, chúng phát triển không còn tên gọi nữa chứ không phải ngược lại. Anh luôn cảm thấy cần phải làm gì đó với từ Anglo-Saxon đặc biệt *ent* để chỉ "người khổng lồ".
 
-Anh ấy đã bị tụt lại phía sau một cách vô vọng với "[Phụ lục](../T/The_Lord_of_the_Rings_Appendices.md)" đến Tập III và [Chris](../C/Christopher_Tolkien.md) quá choáng ngợp để có thể trợ giúp về bản đồ. Tuy nhiên, anh ấy đã ở đó.
+Ông đã bị tụt lại phía sau một cách vô vọng với "[Phụ lục](../T/The_Lord_of_the_Rings_Appendices.md)" của Tập III và [Chris](../C/Christopher_Tolkien.md) quá choáng ngợp để có thể trợ giúp về bản đồ. Tuy nhiên, ông đã ở đó.
 
 ## Ghi chú {#Notes}
 

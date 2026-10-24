@@ -29,7 +29,7 @@ sort_keys:
 ## Liên kết ngoài {#External_links}
 
 - <b><a class="external text" href="http://www.mikevaughn.com/" rel="noreferrer noopener" target="_blank">Trang web chính thức</a></b>
-- <a class="external text" href="http://www.imdb.com/name/nm1993995/" rel="noreferrer noopener" target="_blank">Mike Austin Vaughn</a> tại IMDb
+- <a class="external text" href="http://www.imdb.com/name/nm1993995/" rel="noreferrer noopener" target="_blank">Mike Vaughn</a> tại IMDb
 
 <span></span>
 

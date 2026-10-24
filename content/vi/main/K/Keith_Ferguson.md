@@ -18,7 +18,7 @@ sort_keys:
 
 **Keith James Ferguson** ([26 tháng 2](../_/26_February.md), [1972](../_/1972.md)) là một diễn viên lồng tiếng người Mỹ, được biết đến nhiều nhất với vai trò lồng tiếng cho nhân vật Bloo trong *[Foster's Home for Imaginary Friends](../R/References_to_The_Lord_of_the_Rings.md#Foster's_Home_for_Imaginary_Friends)*.
 
-Anh ấy đã lồng tiếng cho Morgomir trong *[The Lord of the Rings: The Battle for Middle-earth II: The Rise of the Witch-king](../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II%253A_The_Rise_of_the_Witch-king.md)*.
+Ông đã lồng tiếng cho Morgomir trong *[The Lord of the Rings: The Battle for Middle-earth II: The Rise of the Witch-king](../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II%253A_The_Rise_of_the_Witch-king.md)*.
 
 ## Liên kết ngoài {#External_links}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Rayner Unwin (12 October 1972)"
 ---
 
-Chuyển hướng đến [Thư gửi Rayner Unwin (12 tháng 10 năm 1972)](<../L/Letter_to_Rayner_Unwin_(12_October_1972).md>).
+Chuyển hướng tới [Thư gửi Rayner Unwin (12 tháng 10 năm 1972)](<../L/Letter_to_Rayner_Unwin_(12_October_1972).md>).

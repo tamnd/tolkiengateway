@@ -16,11 +16,11 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="../T/Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><a href="../F/First_Age.md" title="First Age">I</a><b>II</b><a href="../T/Third_Age.md" title="Third Age">III</a><a href="../F/Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="Second_Age_500.md" title="Second Age 500">500</a><a href="Second_Age_512.md" title="Second Age 512">512</a><a href="Second_Age_521.md" title="Second Age 521">521</a><a class="mw-selflink selflink">532</a><a href="Second_Age_543.md" title="Second Age 543">543</a><a href="Second_Age_551.md" title="Second Age 551">551</a><a href="Second_Age_562.md" title="Second Age 562">562</a></div></div></div></div></div></div>
 
-**Kỷ thứ 532** (viết tắt là **S.A. 532**) là năm [thứ 532 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ thứ hai](Second_Age.md) của [Trung Địa](../M/Middle-earth.md).
+**Kỷ thứ hai 532** (viết tắt là **S.A. 532**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 532 của [Kỷ thứ hai](Second_Age.md) của [Trung Địa](../M/Middle-earth.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- Sinh ra [Isilmë](../I/Isilmë.md), con thứ hai và con gái của [Tar-Elendil](../T/Tar-Elendil.md).<sup id="cite_ref-earlier_1-0" class="reference"><a href="#cite_note-earlier-1">[1]</a></sup>
+- Sự ra đời của [Isilmë](../I/Isilmë.md), đứa con thứ hai và con gái của [Tar-Elendil](../T/Tar-Elendil.md).<sup id="cite_ref-earlier_1-0" class="reference"><a href="#cite_note-earlier-1">[1]</a></sup>
 
 <span></span>
 

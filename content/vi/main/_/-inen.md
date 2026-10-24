@@ -14,7 +14,7 @@ sort_keys:
   "Quenya suffixes": "inen"
 ---
 
-<i><b>-inen</b></i> là một [Quenya](../Q/Quenya.md) nhạc cụ pl. kết thúc (ví dụ: **ómainen** "có giọng nói" từ [óma](Óma.md)).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>-inen</b></i> là một nhạc cụ [Quenya](../Q/Quenya.md) pl. kết thúc (ví dụ: **ómainen** "có giọng nói" từ [óma](Óma.md)).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

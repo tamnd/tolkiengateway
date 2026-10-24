@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien's World (disambiguation)"
 ---
 
-Chuyển hướng tới Thế giới của [Tolkien(định hướng)](<Tolkien's_World_(disambiguation).md>).
+Chuyển hướng tới [Thế giới của Tolkien (định hướng)](<Tolkien's_World_(disambiguation).md>).

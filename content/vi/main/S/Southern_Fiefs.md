@@ -25,33 +25,33 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Regions</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Southern Fiefs</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>General Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Other names</th><td class="tg-infobox-data">Outlands</td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">South and west <a href="../G/Gondor.md" title="Gondor">Gondor</a></td></tr><tr><th scope="row" class="tg-infobox-label">Type</th><td class="tg-infobox-data">Regions</td></tr><tr><th scope="row" class="tg-infobox-label">Description</th><td class="tg-infobox-data">Coastlands south of the <a href="../W/White_Mountains.md" title="White Mountains">White Mountains</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>People and History</span></th></tr><tr><th scope="row" class="tg-infobox-label">Inhabitants</th><td class="tg-infobox-data"><a href="../N/Númenóreans.md" title="Númenóreans">Númenórean</a>, <a href="../P/Pre-Númenóreans.md" title="Pre-Númenóreans">Pre-Númenórean</a></td></tr></tbody></table>
 
-**các lãnh địa phía Nam** hay **Vùng ngoại ô** của [Gondor](../G/Gondor.md) là vùng đất ven biển phía nam [Anórien](../A/Anórien.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> các thái ấp của Gondor bên ngoài [Pelennor](../P/Pelennor.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Các thái ấp phía Nam** hay **Vùng ngoại ô** của [Gondor](../G/Gondor.md) là vùng đất ven biển phía nam [Anórien](../A/Anórien.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> các thái ấp của Gondor bên ngoài [Pelennor](../P/Pelennor.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 Những vùng đất ven biển dọc theo [Vịnh Belfalas](../B/Bay_of_Belfalas.md) cung cấp phần lớn nhu cầu của [Minas Tirith](../M/Minas_Tirith.md): [cá](../F/Fish.md) từ [Ethir](../E/Ethir_Anduin.md), [hoa](../../category/F/Flowers.md) từ [Lossarnach](../L/Lossarnach.md) và trước đó là đá từ [Anórien](../A/Anórien.md). Các thái ấp cũng cung cấp binh lính lành nghề.
 
 ## Lịch sử {#History}
 
-Sau [Đại Dịch](../G/Great_Plague.md) [Hải tặc Umbar](../C/Corsairs_of_Umbar.md) đột kích Gondor bờ biển đến tận [Anfalas](../A/Anfalas.md), cho đến khi [Umbardacil](../U/Umbardacil.md) báo thù và chiếm lại [Umbar](../U/Umbar.md) ở [T.A.](../T/Third_Age.md) [1810](../T/Third_Age_1810.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Sau [Đại dịch](../G/Great_Plague.md) [Corsairs of Umbar](../C/Corsairs_of_Umbar.md) đột kích bờ biển Gondorian cho đến [Anfalas](../A/Anfalas.md), cho đến khi [Umbardacil](../U/Umbardacil.md) báo thù và chiếm lại [Umbar](../U/Umbar.md) ở [T.A.](../T/Third_Age.md) [1810](../T/Third_Age_1810.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Nhiều năm sau, Corsairs một lần nữa tấn công bờ biển Gondor trong thời gian [Cirion](../C/Cirion.md).<sup id="cite_ref-Stewards_4-0" class="reference"><a href="#cite_note-Stewards-4">[4]</a></sup>
+Nhiều năm sau, Corsairs một lần nữa quấy phá bờ biển Gondor trong thời kỳ [Cirion](../C/Cirion.md).<sup id="cite_ref-Stewards_4-0" class="reference"><a href="#cite_note-Stewards-4">[4]</a></sup>
 
-Trong [T.A.](../T/Third_Age.md) [2758](../T/Third_Age_2758.md), khi Gondor và [Rohan](../R/Rohan.md) bị tàn phá bởi [Mùa Đông Dài](../L/Long_Winter.md), ba hạm đội lớn khởi hành từ Umbar và [Harad](../H/Harad.md) và đột kích và đổ bộ lên các bờ biển Gondor, ở phía bắc tận cửa [Isen](../I/Isen.md). Đi lên [Lefnui](../L/Lefnui.md) và Isen chúng thậm chí còn tấn công [Rohan](../R/Rohan.md). Trước mùa xuân [2759](../T/Third_Age_2759.md), [Beregond](<../B/Beregond_(Steward_of_Gondor).md>) đã chiến thắng quân xâm lược.<sup id="cite_ref-Stewards_4-1" class="reference"><a href="#cite_note-Stewards-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Vào [T.A.](../T/Third_Age.md) [2758](../T/Third_Age_2758.md), khi Gondor và [Rohan](../R/Rohan.md) bị tàn phá bởi [Mùa đông dài](../L/Long_Winter.md), ba hạm đội lớn khởi hành từ Umbar và [Harad](../H/Harad.md) đột kích và đổ bộ lên bờ biển Gondorian, ở phía bắc tận cửa [Isen](../I/Isen.md). Đi lên [Lefnui](../L/Lefnui.md) và Isen, họ thậm chí còn tấn công [Rohan](../R/Rohan.md). Trước mùa xuân [2759](../T/Third_Age_2759.md), [Beregond](<../B/Beregond_(Steward_of_Gondor).md>) đã chiến thắng quân xâm lược.<sup id="cite_ref-Stewards_4-1" class="reference"><a href="#cite_note-Stewards-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
-Vào cuối [Kỷ Đệ Tam](../T/Third_Age.md), hầu hết các khu vực của Gondor đều bị bỏ hoang hoặc bị tràn ngập và chỉ còn lại các lãnh địa phía Nam. Trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), Outlands đang bị tấn công từ phía nam bởi một đội quân lớn gồm [Corsairs từ Umbar](../C/Corsairs_of_Umbar.md), đồng minh của [Mordor](../M/Mordor.md)và họ đã gửi quân tiếp viện nhỏ đến [Minas Tirith](../M/Minas_Tirith.md).<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Vào cuối [Kỷ nguyên thứ ba](../T/Third_Age.md), hầu hết các vùng của Gondor đều bị bỏ hoang hoặc bị tàn phá và chỉ còn lại các thái ấp phía Nam. Trong [War of the Ring](../W/War_of_the_Ring.md), Outlands đang bị tấn công từ phía nam bởi một đội quân lớn gồm [Corsairs từ Umbar](../C/Corsairs_of_Umbar.md), đồng minh của [Mordor](../M/Mordor.md) và họ đã gửi quân tiếp viện nhỏ đến [Minas Tirith](../M/Minas_Tirith.md).<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 ## Các thái ấp đã biết {#Known_fiefs}
 
-các lãnh địa phía Nam là:
+Các thái ấp miền Nam là:
 
 - [Dor-en-Ernil](../D/Dor-en-Ernil.md)
 - [Lossarnach](../L/Lossarnach.md)
 - [Lebennin](../L/Lebennin.md)
-- [Belfalas](../B/Belfalas.md)
+- [Balfalas](../B/Belfalas.md)
 - [Ethir Anduin](../E/Ethir_Anduin.md)
 - [Lamedon](../L/Lamedon.md)
-- [Anfalas](../A/Anfalas.md) và [Những ngọn đồi xanh](../P/Pinnath_Gelin.md)
+- [Anfalas](../A/Anfalas.md) và [Green Hills](../P/Pinnath_Gelin.md)
 - [Thung lũng rễ đen](../B/Blackroot_Vale.md)
-- [Ringló Giá trị](../R/Ringló_Vale.md)
+- [Ringló Vale](../R/Ringló_Vale.md)
 
 ## Từ nguyên {#Etymology}
 

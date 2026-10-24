@@ -25,9 +25,9 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/G/Good_and_Evil_in_The_Lord_of_the_Rings.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/7e/Good_and_Evil_in_The_Lord_of_the_Rings.jpg/300px-Good_and_Evil_in_The_Lord_of_the_Rings.jpg" decoding="async" loading="lazy" width="300" height="450" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/7e/Good_and_Evil_in_The_Lord_of_the_Rings.jpg/450px-Good_and_Evil_in_The_Lord_of_the_Rings.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/7/7e/Good_and_Evil_in_The_Lord_of_the_Rings.jpg/600px-Good_and_Evil_in_The_Lord_of_the_Rings.jpg 2x" data-file-width="660" data-file-height="990"/></a><figcaption></figcaption></figure>
 
-**Thiện và Ác trong** <i><b>The Lord of the Rings</b></i> là bài viết của [W.H. Auden](../W/W.H._Auden.md) thảo luận về chủ đề Thiện và Ác trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Nó được xuất bản trong *Critical Quarterly*, Tập 10, Số 1-2, [1968](../_/1968.md), trang 138–142.
+**Thiện và Ác trong** <i><b>Chúa tể của những chiếc nhẫn</b></i> là bài viết của [W.H. Auden](../W/W.H._Auden.md) thảo luận về chủ đề Thiện và Ác trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Nó được xuất bản trong *Critical Quarterly*, Tập 10, Số 1-2, [1968](../_/1968.md), trang 138–142.
 
-Vào ngày [28 tháng Chín](../_/28_September.md), [2007](../_/2007.md), bài viết được đăng trực tuyến bởi Blackwell Publishing Ltd.
+Vào [28 tháng 9](../_/28_September.md), [2007](../_/2007.md), bài viết đã được xuất bản trực tuyến bởi Blackwell Publishing Ltd.
 
 ## Liên kết ngoài {#External_links}
 

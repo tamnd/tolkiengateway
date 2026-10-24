@@ -18,7 +18,7 @@ categories:
 ## Xem thêm {#See_also}
 
 - *[-ndil](../_/-ndil.md)*
-- *[mellon](../M/Mellon.md)* (bản sao [Sindarin](../S/Sindarin.md))
+- *[mellon](../M/Mellon.md)* (đối tác [Sindarin](../S/Sindarin.md))
 
 <span></span>
 

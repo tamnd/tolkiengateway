@@ -45,18 +45,18 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/AmonHen177.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/6e/AmonHen177.jpg/320px-AmonHen177.jpg" decoding="async" loading="lazy" width="320" height="454" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/6e/AmonHen177.jpg/480px-AmonHen177.jpg 1.5x, https://tolkiengateway.net/w/images/6/6e/AmonHen177.jpg 2x" data-file-width="579" data-file-height="821"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Amon Hen 177</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="Andrew_Butler.md" title="Andrew Butler">Andrew Butler</a></td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="../O/Octo_Kwan.md" title="Octo Kwan">Octo Kwan</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Printer</th><td class="tg-infobox-data"><a class="external text" href="http://www.horshampress.co.uk/" rel="noreferrer noopener" target="_blank">Horsham Press</a>, Horsham, UK</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">September <a href="../_/2002.md" title="2002">2002</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">A5 stapled paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">40</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0306-8781</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Amon_Hen_176.md" title="Amon Hen 176">Amon Hen 176</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Amon_Hen_178.md" title="Amon Hen 178">Amon Hen 178</a></td></tr></tbody></table>
 
-<b><i>Amon Hen</i> 177</b> là số thứ một trăm bảy mươi bảy của tạp chí hai tháng một lần của [Hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, được xuất bản trên tháng Chín [2002](../_/2002.md).
+<b><i>Amon Hen</i> 177</b> là số thứ một trăm bảy mươi bảy của tạp chí hai tháng một lần của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, được xuất bản vào tháng 9 [2002](../_/2002.md).
 
 ## Nội dung {#Contents}
 
-- Vỏ bọc: *Untitled* (Beren gặp Tinúviel của hắn)
+- Vỏ bọc: *Untitled* (Beren gặp Tinúviel của mình)
     - Bởi: [Octo Kwan](../O/Octo_Kwan.md)
 - Biên tập
     - Bởi: [Andrew Butler](Andrew_Butler.md)
 - Nội dung
-- Trung Địa Tấm đá ốp cửa ra vào
-    - Bởi: Mike Austin Đá
-- Bywater Thông báo
+- Các mảng đồ đá ở cửa Trung Địa
+    - Bởi: Mike Stone
+- Thông báo bên bờ nước
     - Bởi: Malcolm Lindley
 - Tác phẩm nghệ thuật: *[Galadriel](../G/Galadriel.md)*
     - Bởi: Neil Loughran
@@ -66,15 +66,15 @@ infobox:
 - Quảng cáo tạp chí "SFX".
 - Báo cáo: Hội thảo TS 2002
     - Bởi: Laura Marples
-- Báo cáo: Lộ rõ mảng bám lỗ Sarehole
+- Báo cáo: Lộ ra mảng bám lỗ Sarehole
     - Bởi: [Chris Crawshaw](../C/Chris_Crawshaw.md)
-- Báo cáo: Ra mắt DVD/Video & Christopher Lee Signing
+- Báo cáo: Ra mắt DVD/Video & Ký kết Christopher Lee
     - Bởi: Andrew Butler
 - Giải ô chữ
     - Bởi: Michael Kennedy
 - Tác phẩm nghệ thuật: *Ambush*
-    - Bởi: Mike Austin Johnson
-- Số mệnh đưa tôi đến đâu - Phần thứ hai
+    - Bởi: Mike Johnson
+- Số phận đưa tôi đến đâu - Phần thứ hai
     - Bởi: Alex Hall
 - Ảnh minh họa: (xin lỗi, không thể dịch tác phẩm này)
     - Bởi: Eleonora Yaskovskaya
@@ -102,7 +102,7 @@ infobox:
 - Thành viên mới
 - Trả lời *Complete the Sentences Quiz*
     - Bởi: Paul Cockburn
-- Truyện dân gian/Ủy ban
+- Truyện dân ca/Ủy ban
 - Tác phẩm nghệ thuật/họa tiết trang trí bổ sung
     - Bởi: Susanne Stopfel và Chris Leaper
 

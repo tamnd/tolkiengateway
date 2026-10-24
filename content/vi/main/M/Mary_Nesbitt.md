@@ -35,6 +35,6 @@ infobox:
 
 ## Gia đình {#Family}
 
-- Con gái của [James Nesbitt](../J/James_Nesbitt.md), người đóng vai [Bofur](../B/Bofur.md) trong [The Hobbit (loạt phim)](<../T/The_Hobbit_(film_series).md>)
-- Con gái của <a class="new" href="https://tolkiengateway.net/w/index.php?title=Sonia_Forbes-Adam&amp;action=edit&amp;redlink=1" title="Sonia Forbes-Adam (page does not exist)">Sonia Forbes-Adam</a>, người đóng vai [Belladonna Took](../B/Belladonna_Took.md) trong [The Hobbit: An Unexpected Journey (ấn bản mở rộng)](<../T/The_Hobbit%253A_An_Unexpected_Journey_(extended_edition).md>)
+- Con gái của [James Nesbitt](../J/James_Nesbitt.md), người đóng vai [Bofur](../B/Bofur.md) trong [The Hobbit (film series)](<../T/The_Hobbit_(film_series).md>)
+- Con gái của <a class="new" href="https://tolkiengateway.net/w/index.php?title=Sonia_Forbes-Adam&amp;action=edit&amp;redlink=1" title="Sonia Forbes-Adam (page does not exist)">Sonia Forbes-Adam</a>, người đóng vai [Belladonna Took](../B/Belladonna_Took.md) trong [The Hobbit: An Unexpected Journey (extended edition)](<../T/The_Hobbit%253A_An_Unexpected_Journey_(extended_edition).md>)
 - Em gái của [Peggy Nesbitt](../P/Peggy_Nesbitt.md), người đóng vai [Sigrid](../S/Sigrid.md) trong The Hobbit (loạt phim)

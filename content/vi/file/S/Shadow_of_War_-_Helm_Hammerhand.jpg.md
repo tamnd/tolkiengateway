@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Helm Hammerhand như được mô tả trong [Trung Địa: Bóng Tối of War](../../main/M/Middle-earth%253A_Shadow_of_War.md) trước khi trở thành [Nazgul](../../main/N/Nazgul.md).
+Helm Hammerhand như được mô tả trong [Middle-earth: Shadow of War](../../main/M/Middle-earth%253A_Shadow_of_War.md) trước khi anh trở thành [Nazgul](../../main/N/Nazgul.md).
 
 ## Giấy phép {#Licensing}
 

@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Scales, Prunella"
 ---
 
-**Prunella Margaret Rumney Illingworth**, CBE (sinh [22 tháng 6](../_/22_June.md), [1932](../_/1932.md)) là một nữ diễn viên người Anh, được biết đến nhiều nhất với vai diễn <a class="extiw" href="http://en.wikipedia.org/wiki/Sybil_Fawlty" title="wikipedia:Sybil Fawlty">Sybil Fawlty</a> trong *Fawlty Towers*và cô cũng từng là người kể chuyện cho *[Jackanory](../J/Jackanory.md)*. Trong [1956](../_/1956.md), cô đóng vai [Ioreth](../I/Ioreth.md) trong [*The Lord of the Rings* (loạt phim phát thanh năm 1955)](<../T/The_Lord_of_the_Rings_(1955_radio_series).md>).
+**Prunella Margaret Rumney Illingworth**, CBE (sinh [22 tháng 6](../_/22_June.md), [1932](../_/1932.md)) là một nữ diễn viên người Anh, được biết đến nhiều nhất với vai diễn <a class="extiw" href="http://en.wikipedia.org/wiki/Sybil_Fawlty" title="wikipedia:Sybil Fawlty">Sybil Fawlty</a> trong *Fawlty Towers* và cô cũng từng là người kể chuyện cho *[Jackanory](../J/Jackanory.md)*. Trong [1956](../_/1956.md), cô đóng vai [Ioreth](../I/Ioreth.md) trong [*The Lord of the Rings* (loạt phim phát thanh năm 1955)](<../T/The_Lord_of_the_Rings_(1955_radio_series).md>).
 
 ## Liên kết ngoài {#External_links}
 

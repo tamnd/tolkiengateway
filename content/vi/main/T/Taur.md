@@ -17,13 +17,13 @@ categories:
   - "Sindarin nouns"
 ---
 
-## Sindarin {#Sindarin}
+## Tiếng Sindarin {#Sindarin}
 
-<i><b>taur</b></i> là một từ [Sindarin](../S/Sindarin.md) có nghĩa là "rừng".<sup id="cite_ref-PE17_1-0" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+<i><b>taur</b></i> là từ [tiếng Sindarin](../S/Sindarin.md) có nghĩa là "rừng".<sup id="cite_ref-PE17_1-0" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ### Từ nguyên {#Etymology}
 
-Sindarin *taur* là dạng hậu duệ của [Common Eldarin](../C/Common_Eldarin.md) *tau-rē*, bắt nguồn từ [root](../S/Sundocarme.md) [TAW](TAW.md).<sup id="cite_ref-PE17_1-1" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup>
+Sindarin *taur* là dạng hậu duệ của [Eldarin thông thường](../C/Common_Eldarin.md) *tau-rē*, bắt nguồn từ [root](../S/Sundocarme.md) [TAW](TAW.md).<sup id="cite_ref-PE17_1-1" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup>
 
 ### Có cùng nguồn gốc {#Cognates}
 
@@ -33,19 +33,19 @@ Sindarin *taur* là dạng hậu duệ của [Common Eldarin](../C/Common_Eldari
 
 ### Từ nguyên 1 {#Etymology_1}
 
-<i><b>taur</b></i> là một từ [Noldorin](../N/Noldorin.md) có nghĩa là "gỗ lớn, rừng",<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 1]</a></sup> là dạng hậu duệ của [Common Eldarin](../C/Common_Eldarin.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Taur%C4%93&amp;action=edit&amp;redlink=1" title="Taurē (page does not exist)">taurē</a></i>, bắt nguồn từ [gốc](../S/Sundocarme.md) [TÁWAR](TAW.md#Other_versions_of_the_legendarium).<sup id="cite_ref-LR1_4-0" class="reference"><a href="#cite_note-LR1-4">[3]</a></sup>
+<i><b>taur</b></i> là một từ [Noldorin](../N/Noldorin.md) có nghĩa là "khu rừng, khu rừng lớn",<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 1]</a></sup> là hậu duệ của [Eldarin thông thường](../C/Common_Eldarin.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Taur%C4%93&amp;action=edit&amp;redlink=1" title="Taurē (page does not exist)">taurē</a></i>, bắt nguồn từ [gốc](../S/Sundocarme.md) [TÁWAR](TAW.md#Other_versions_of_the_legendarium).<sup id="cite_ref-LR1_4-0" class="reference"><a href="#cite_note-LR1-4">[3]</a></sup>
 
 ### Từ nguyên 2 {#Etymology_2}
 
-<i><b>taur</b></i> là một từ cổ xưa/thơ (†) [Noldorin](../N/Noldorin.md) có nghĩa là "vua", bắt nguồn từ Common Eldarin <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=T%C4%81ro&amp;action=edit&amp;redlink=1" title="Tāro (page does not exist)">tāro</a></i> ("vua: chỉ được sử dụng cho các vị vua hợp pháp của toàn bộ bộ tộc"), từ gốc <a class="new" href="https://tolkiengateway.net/w/index.php?title=T%C4%80&amp;action=edit&amp;redlink=1" title="TĀ (page does not exist)">TĀ, TAƷ</a>.<sup id="cite_ref-LR2_5-0" class="reference"><a href="#cite_note-LR2-5">[4]</a></sup>
+<i><b>taur</b></i> là một từ cổ xưa/thơ (†) [Noldorin](../N/Noldorin.md) có nghĩa là "vua", bắt nguồn từ Common Eldarin <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=T%C4%81ro&amp;action=edit&amp;redlink=1" title="Tāro (page does not exist)">tāro</a></i> ("vua: chỉ dùng cho các vị vua hợp pháp của cả bộ tộc"), từ gốc <a class="new" href="https://tolkiengateway.net/w/index.php?title=T%C4%80&amp;action=edit&amp;redlink=1" title="TĀ (page does not exist)">TĀ, TAƷ</a>.<sup id="cite_ref-LR2_5-0" class="reference"><a href="#cite_note-LR2-5">[4]</a></sup>
 
 ### Từ nguyên 3 {#Etymology_3}
 
-<i><b>taur</b></i> là một tính từ [Noldorin](../N/Noldorin.md) có nghĩa là "rộng lớn, hùng mạnh, áp đảo, khủng khiếp - cũng cao cả, siêu phàm" (chỉ mang tính chất thơ hoặc trong các danh hiệu và tên cổ), từ gốc <a class="new" href="https://tolkiengateway.net/w/index.php?title=T%C4%80&amp;action=edit&amp;redlink=1" title="TĀ (page does not exist)">TĀ, TAƷ</a>/[TUR](TUR~21398.md).<sup id="cite_ref-LR1_4-1" class="reference"><a href="#cite_note-LR1-4">[3]</a></sup><sup id="cite_ref-LR3_6-0" class="reference"><a href="#cite_note-LR3-6">[5]</a></sup>
+<i><b>taur</b></i> là một tính từ [Noldorin](../N/Noldorin.md) có nghĩa là "rộng lớn, hùng mạnh, áp đảo, khủng khiếp - cũng cao cả, siêu phàm" (chỉ mang tính chất thơ hoặc trong các tựa đề và tên cổ), từ gốc <a class="new" href="https://tolkiengateway.net/w/index.php?title=T%C4%80&amp;action=edit&amp;redlink=1" title="TĀ (page does not exist)">TĀ, TAƷ</a>/[TUR](TUR~21398.md).<sup id="cite_ref-LR1_4-1" class="reference"><a href="#cite_note-LR1-4">[3]</a></sup><sup id="cite_ref-LR3_6-0" class="reference"><a href="#cite_note-LR3-6">[5]</a></sup>
 
 ## Ilkorin {#Ilkorin}
 
-Từ [Ilkorin](../I/Ilkorin.md) <i><b>taur</b></i> có nghĩa là "gỗ lớn, rừng" hoặc "gỗ (địa điểm và vật liệu), một dạng hậu duệ của [Primitive Quendian](../P/Primitive_Quendian.md) *taurē*, bắt nguồn từ [gốc](../S/Sundocarme.md) [TÁWAR](TAW.md#Other_versions_of_the_legendarium).<sup id="cite_ref-LR1_4-2" class="reference"><a href="#cite_note-LR1-4">[3]</a></sup>
+Từ [Ilkorin](../I/Ilkorin.md) <i><b>taur</b></i> có nghĩa là "gỗ, rừng lớn" hoặc "gỗ (địa điểm và vật liệu), một dạng hậu duệ của [Quendian nguyên thủy](../P/Primitive_Quendian.md) *taurē*, bắt nguồn từ [gốc](../S/Sundocarme.md) [TÁWAR](TAW.md#Other_versions_of_the_legendarium).<sup id="cite_ref-LR1_4-2" class="reference"><a href="#cite_note-LR1-4">[3]</a></sup>
 
 ## Xem thêm {#See_also}
 

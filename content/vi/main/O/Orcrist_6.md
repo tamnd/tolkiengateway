@@ -50,10 +50,10 @@ Cống hiến: Dành cho Bill Orr: Học từ Ba chữ R
 - "Nghiên cứu về Dymer của C. S. Lewis"—J. R. Christopher (trang 17–19)
 - "Đang xem xét"—Richard C. West (tr. 19)
     - "Người ủng hộ quái vật" : John Gardner, Grendel (Knopf, 1971)
-    - "Pháp sư Cũng là con người" : John Bellairs, Khuôn mặt trong băng giá (Macmillan, 1969)
+    - "Pháp sư cũng là con người" : John Bellairs, Khuôn mặt trong băng giá (Macmillan, 1969)
 - "C. S. Lewis, Nhà phân phối: Kinh tế của ông được thể hiện qua sức mạnh ghê tởm đó"—Jared C. Lobdell (tr. 20-21)
-- Dactyl kép của Sharyn Lawler (trang 21, 24), John Leland (tr. 16) , Deborah Rogers (tr. 21), Ivor Rogers (tr. 16) và Richard Phương Tây (tr. 16)
-- "Moot Point" (trang 22–23) \[thư từ L. Sprague de Camp (1 tháng 10 năm 1971), Glen GoodKnight (11 tháng 6 năm 1971), Sharyn Lawler (12 tháng Chín 1971), Sandra Miesel (16 tháng 11 năm 1971), Nan C. Scott (9 tháng 6 năm 1971)
+- Dactyl kép của Sharyn Lawler (trang 21, 24), John Leland (tr. 16) , Deborah Rogers (tr. 21), Ivor Rogers (tr. 16) và Richard West (tr. 16)
+- "Moot Point" (trang 22–23) \[thư từ L. Sprague de Camp (1 tháng 10 năm 1971), Glen GoodKnight (11 tháng 6 năm 1971), Sharyn Lawler (12 tháng 9 năm 1971), Sandra Miesel (16 tháng 11 năm 1971), Nan C. Scott (9 tháng 6 năm 1971)
 - "Cuộc săn lùng Hnakra"—Karen Rockow (trang 23–24)
 
 <span></span>

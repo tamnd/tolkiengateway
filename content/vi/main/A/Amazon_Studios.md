@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Amazon MGM Studios"
 ---
 
-Chuyển hướng đến [Amazon Phim trường MGM](Amazon_MGM_Studios.md).
+Chuyển hướng đến [Amazon MGM Studios](Amazon_MGM_Studios.md).

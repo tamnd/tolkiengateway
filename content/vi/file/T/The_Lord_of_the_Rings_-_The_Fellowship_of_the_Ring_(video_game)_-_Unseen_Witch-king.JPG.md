@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Vua Phù thủy](../../main/W/Witch-king.md), khi anh ta chuẩn bị đâm [Frodo Baggins](../../main/F/Frodo_Baggins.md). Ảnh chụp màn hình từ [*The Lord of the Rings: The Fellowship of the Ring* (trò chơi điện tử)](<../../main/T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md>).
+[Vua Phù thủy](../../main/W/Witch-king.md), khi ông ta chuẩn bị đâm [Frodo Baggins](../../main/F/Frodo_Baggins.md). Ảnh chụp màn hình từ [*The Lord of the Rings: The Fellowship of the Ring* (video game)](<../../main/T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md>).
 
 ## Giấy phép {#Licensing}
 

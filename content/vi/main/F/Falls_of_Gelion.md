@@ -22,7 +22,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Waterfall</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Falls of Gelion</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>General Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">between Sarn Athrad and the junction of Gelion with Ascar</td></tr><tr><th scope="row" class="tg-infobox-label">Type</th><td class="tg-infobox-data">Waterfall</td></tr><tr><th scope="row" class="tg-infobox-label">Regions</th><td class="tg-infobox-data"><a href="../O/Ossiriand.md" title="Ossiriand">Ossiriand</a></td></tr></tbody></table>
 
-Thác **Thác Gelion** nằm bên dưới khúc cạn cuối cùng trên Gelion, tức là [Sarn Athrad](../S/Sarn_Athrad.md), và phía trên điểm giao nhau với sông [Ascar](../A/Ascar.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>. Ở phía nam Thác, con sông Gelion trở nên chảy xiết và lớn hơn do có năm nhánh của nó và được Người Lùn<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>đặt tên là Gabilān.
+**Thác Gelion** nằm bên dưới khúc cạn cuối cùng qua Gelion, tức là [Sarn Athrad](../S/Sarn_Athrad.md), và phía trên điểm giao nhau với sông [Ascar](../A/Ascar.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>. Ở phía nam của Thác, sông Gelion trở nên chảy xiết và lớn hơn do có năm nhánh của nó và được Người lùn<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>đặt tên là Gabilān.
 
 Vị trí này không xuất hiện trên [Bản đồ 'Silmarillion' thứ hai](../T/The_Second_'Silmarillion'_Map.md), cũng như trong bất kỳ bản đồ nào của Beleriand.
 

@@ -25,32 +25,32 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Ted_Nasmith_-_The_Shadow_of_Sauron.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/d1/Ted_Nasmith_-_The_Shadow_of_Sauron.jpg/339px-Ted_Nasmith_-_The_Shadow_of_Sauron.jpg" decoding="async" loading="lazy" width="339" height="258" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/d1/Ted_Nasmith_-_The_Shadow_of_Sauron.jpg/509px-Ted_Nasmith_-_The_Shadow_of_Sauron.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/d/d1/Ted_Nasmith_-_The_Shadow_of_Sauron.jpg/678px-Ted_Nasmith_-_The_Shadow_of_Sauron.jpg 2x" data-file-width="1221" data-file-height="929"/></a><figcaption><i>The Shadow of Sauron</i> by <a href="../T/Ted_Nasmith.md" title="Ted Nasmith">Ted Nasmith</a>.</figcaption></figure>
 
-**Bóng Tối** là một thuật ngữ rất rộng và trừu tượng được sử dụng để chỉ [Bóng Tối](../D/Darkness.md) cũng như mức độ của cái ác và ảnh hưởng của nó đối với tâm trí con người do [Marring Arda](../A/Arda_Marred.md). Vì [Morgoth](../M/Morgoth.md) đã vấy bẩn [Arda](../A/Arda.md) tinh thần nổi loạn của mình nên ý chí của anh ta có thể tiếp tục ảnh hưởng đến trái tim của những người sống trên Trái đất sau khi anh ta ra đi. Ở những điểm khác nhau, Bóng Tối đề cập đến Bóng Tối của Kẻ Thù, [Sauron](Sauron.md) hoặc người hầu của chúng, [Nazgûl](../N/Nazgûl.md), còn được gọi là "Bóng tối" (và [Hơi Thở Đen](../B/Black_Breath.md) của chúng). Sauron được gọi là "Bóng Tối của Rừng" (trong khi anh ta sống ở [Dol Guldur](../D/Dol_Guldur.md)) hoặc "Bóng Tối của phương Đông" (trong [Mordor](../M/Mordor.md)). Bóng Tối cũng mô tả [Sự khai sáng](../U/Unlight.md) của [Ungoliant](../U/Ungoliant.md).
+**Bóng tối** là một thuật ngữ rất rộng và trừu tượng được sử dụng để chỉ [Bóng tối](../D/Darkness.md) cũng như mức độ của cái ác cũng như ảnh hưởng của nó đối với tâm trí con người do [Marring of Arda](../A/Arda_Marred.md). Bởi vì [Morgoth](../M/Morgoth.md) đã đầu độc [Arda](../A/Arda.md) bằng tinh thần nổi loạn của mình, ý chí của ông ta có thể tiếp tục ảnh hưởng đến trái tim của những người sống trên Trái đất sau khi ông ta ra đi. Ở những thời điểm khác nhau, Bóng tối ám chỉ Bóng tối của Kẻ thù, [Sauron](Sauron.md) hoặc những người hầu của chúng, [Quỷ nhẫn](../N/Nazgûl.md), còn được gọi là "Bóng tối" (và [Hơi thở đen](../B/Black_Breath.md) của chúng). Sauron được gọi là "Cái bóng của Khu rừng" (khi hắn sống ở [Dol Guldur](../D/Dol_Guldur.md)) hay "Cái bóng của phương Đông" (ở [Mordor](../M/Mordor.md)). Shadow cũng mô tả [Sự khai sáng](../U/Unlight.md) của [Ungoliant](../U/Ungoliant.md).
 
-"Bóng tối" cũng là tên của [Kẻ phá lời thề](../O/Oathbreakers.md), đã trở thành [Wraiths](../W/Wraiths.md), còn được gọi là "Bóng Tối-hosts" hoặc "Bóng Tối-men."
+"Bóng tối" cũng là tên của [Kẻ phá lời thề](../O/Oathbreakers.md), đã trở thành [Wraiths](../W/Wraiths.md), còn được gọi là "Vật chủ bóng tối" hay "Người bóng tối".
 
-Những dân tộc bị ảnh hưởng bởi quyền lực thối nát này được cho là "dưới sự Bóng Tối". Thuật ngữ này cũng là một uyển ngữ ám chỉ sự quyến rũ của [Con Người](../M/Men.md) bởi Morgoth ngay từ đầu lịch sử của họ: "*Con Người xuất hiện ở phương Đông của thế giới; nhưng họ lại rơi vào cái bóng của [Kẻ Thù](../M/Morgoth.md)*". Cách sử dụng này tương tự như các ví dụ khác ở trên, nhưng sâu rộng hơn ở chỗ tất cả Con Người sống vào thời điểm đó được cho là đã khuất phục trước sức mạnh của Morgoth. Con Người rơi vào Bóng Tối đã có trong [Hildórien](../H/Hildórien.md) và trở nên sợ [Quà tặng Con Người](../G/Gift_of_Men.md). Nỗi sợ hãi tương tự cũng xuất hiện ở vương quốc [Númenor](../N/Númenor.md) khi người dân nơi đây trở nên bồn chồn và bắt đầu ghen tị với [sự bất tử](../I/Immortality.md) của [Tiên tộc](../E/Elves.md).
+Những dân tộc chịu ảnh hưởng của quyền lực thối nát này được cho là "ở dưới bóng tối". Thuật ngữ này cũng là một uyển ngữ ám chỉ đến việc Morgoth dụ dỗ [Đàn ông](../M/Men.md) vào thời kỳ đầu lịch sử của họ: "*Đàn ông xuất hiện ở phía Đông của thế giới; nhưng họ rơi vào cái bóng của [Kẻ thù](../M/Morgoth.md)*". Cách sử dụng này tương tự như các ví dụ khác ở trên, nhưng sâu rộng hơn ở chỗ tất cả Đàn ông sống vào thời điểm đó đều được cho là đã khuất phục trước sức mạnh của Morgoth. Đàn ông đã rơi vào Bóng tối ở [Hildórien](../H/Hildórien.md) và trở nên sợ hãi [Món quà của đàn ông](../G/Gift_of_Men.md). Nỗi sợ hãi tương tự cũng đến với vương quốc [Númenor](../N/Númenor.md) khi người dân ở đây trở nên bồn chồn và bắt đầu ghen tị với [sự bất tử](../I/Immortality.md) của [Yêu tinh](../E/Elves.md).
 
-Một số họ hàng [Người Lùn](../D/Dwarves.md) cũng rơi vào tay Bóng Tối, đặc biệt là trong số những thị tộc sống ở vùng núi phía đông của Trung Địa. Một số Người Lùn đã chiến đấu theo phe Sauron trong [Chiến tranh](../W/War_of_the_Last_Alliance.md) [Liên minh Cuối cùng](../L/Last_Alliance_of_Elves_and_Men.md).
+Một số [Người lùn](../D/Dwarves.md) cũng rơi vào Bóng tối, đặc biệt là trong số những bộ tộc sống ở vùng núi xa xôi phía đông của Trung Địa. Một số Người lùn đã chiến đấu theo phe của Sauron trong [Chiến tranh của](../W/War_of_the_Last_Alliance.md) [Liên minh cuối cùng](../L/Last_Alliance_of_Elves_and_Men.md).
 
-Mặc dù Bóng Tối ít rõ ràng hơn trong các quần thể của Tiên tộc, nhưng Bóng Tối của [Tàn sát](../K/Kinslaying_at_Alqualondë.md) lại ảnh hưởng đến họ hàng của [Noldor](../N/Noldor.md).
+Mặc dù Bóng tối ít xuất hiện hơn trong cộng đồng Yêu tinh, nhưng Bóng tối [Tàn sát](../K/Kinslaying_at_Alqualondë.md) lại ảnh hưởng đến đồng loại của [Noldor](../N/Noldor.md).
 
-Tuy nhiên, Bóng Tối cũng đề cập đến những điều cụ thể và hiển nhiên hơn, như Bóng Tối bao phủ Mordor, [Cơn bão Mordor](Storm_of_Mordor.md) bao phủ [Gondor](../G/Gondor.md) vào [Ngày không bình minh](../D/Dawnless_Day.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Tuy nhiên, Bóng tối cũng đề cập đến những thứ cụ thể và hiển nhiên hơn, như Bóng tối bao phủ Mordor, [Cơn bão Mordor](Storm_of_Mordor.md) bao phủ [Gondor](../G/Gondor.md) vào [Ngày không bình minh](../D/Dawnless_Day.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Khi anh gặp [Tai Họa của Durin](../D/Durin's_Bane.md), [Gandalf](../G/Gandalf.md) đã trục xuất nó để trở về Bóng Tối nơi nó xuất phát, có lẽ là [Hư Không](../V/Void.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Khi anh gặp [Tai ương của Durin](../D/Durin's_Bane.md), [Gandalf](../G/Gandalf.md) đã trục xuất nó để trở về với Cái bóng mà nó sinh ra, có lẽ là [Void](../V/Void.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Trong [Quest of the Ring](../Q/Quest_of_the_Ring.md), một [bóng](Shadow_over_Hollin.md) bí ẩn đi qua [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) trong đêm, làm tối các ngôi sao khi nó di chuyển qua [Hollin](../E/Eregion.md). Nguồn gốc của cái bóng này không rõ ràng vì nó di chuyển nhanh và ngược gió.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Trong [Quest of the Ring](../Q/Quest_of_the_Ring.md), một [bóng tối](Shadow_over_Hollin.md) bí ẩn đã bay qua [Fellowship of the Ring](../F/Fellowship_of_the_Ring.md) trong đêm, làm tối các ngôi sao khi nó di chuyển qua [Hollin](../E/Eregion.md). Nguồn gốc của cái bóng này không rõ ràng vì nó di chuyển nhanh và ngược gió.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Sau khi Sauron qua đời, Bóng Tối đã được dỡ bỏ khỏi trái tim của [Những người dân tự do](../F/Free_Peoples.md) và họ đã chiến đấu chống lại tàn dư lực lượng của ông ta.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Sau khi Sauron qua đời, Cái bóng đã được xóa bỏ khỏi trái tim của [Dân tộc Tự do](../F/Free_Peoples.md) và họ đã chiến đấu được với tàn dư lực lượng của hắn.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
-Trong các ứng dụng tổng quát hơn, "Bóng Tối" là một thuật ngữ rõ ràng đề cập đến sự hoang mang và bóng tối đi kèm với một số bùa mê nhất định. [Sauron](Sauron.md) tháp [Barad-dûr](../B/Barad-dûr.md) được bao quanh bởi Bóng Tối, và từ này cũng gắn liền với vùng đất [Lothlórien](../L/Lothlórien.md) và với [Ent](../E/Ents.md).
+In more general applications, "Shadow" is a term that apparently refers to the bewilderment and darkness accompanying certain enchantments. [Sauron's](Sauron.md) tower of [Barad-dûr](../B/Barad-dûr.md) was surrounded by Shadow, and the word is also associated with the land of [Lothlórien](../L/Lothlórien.md) and with the [Ents](../E/Ents.md).
 
-[Saruman](Saruman.md) gọi [Ent](../E/Ents.md) và [Huorn](../H/Huorns.md) là "Bóng Tối của Rừng".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+[Saruman](Saruman.md) gọi [Ent](../E/Ents.md) và [Huorns](../H/Huorns.md) là "Cái bóng của Rừng".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Bằng các ngôn ngữ khác {#In_other_languages}
 
-- Trong [Quenya](../Q/Quenya.md), từ *huine* mang nghĩa "bóng tối, u ám" được dùng với hàm ý tiêu cực như [Sauron](Sauron.md). Từ *unuhuine* dùng để chỉ Númenor "thuộc Bóng Tối".<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
-- Trong [Adûnaic](../A/Adûnaic.md), từ có nghĩa tương tự là *ugru*. Biểu thức "dưới bóng" là *ugru-dalad*.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+- Trong [Quenya](../Q/Quenya.md), từ *huine* có nghĩa là "bóng tối, u ám" được dùng với hàm ý tiêu cực như [Sauron](Sauron.md). Từ *unuhuine* được dùng để chỉ Númenor "dưới bóng tối".<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+- Trong [Adûnaic](../A/Adûnaic.md), từ có cùng nghĩa là *ugru*. Biểu thức "dưới bóng" là *ugru-dalad*.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
 <span></span>
 
@@ -73,4 +73,4 @@ Trong các ứng dụng tổng quát hơn, "Bóng Tối" là một thuật ngữ
 </li>
 </ol></div>
 
-- [Robert Foster](../R/Robert_Foster.md), *[The Complete Guide to Middle-earth](../T/The_Complete_Guide_to_Middle-earth.md)*, trang 349–351
+- [Robert Foster](../R/Robert_Foster.md), *[The Complete Guide to Middle-earth](../T/The_Complete_Guide_to_Middle-earth.md)*, trang 349–351

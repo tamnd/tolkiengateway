@@ -51,15 +51,15 @@ infobox:
 
 ## Lịch sử {#History}
 
-Borin là con trai thứ của [Vua](../K/Kings_of_Durin's_Folk.md) [Náin II](../N/Náin_II.md). Thời trẻ, [Gia tộc Durin](../H/House_of_Durin.md) sống trong [con rồng](../D/Dragons.md) bị tai họa [Dãy Núi Xám](../G/Grey_Mountains.md) do anh trai [Dáin I](../D/Dáin_I.md)cai trị.
+Borin là con trai thứ của [Vua](../K/Kings_of_Durin's_Folk.md) [Náin II](../N/Náin_II.md). Thời trẻ, [Gia tộc Durin](../H/House_of_Durin.md) sống ở [con rồng](../D/Dragons.md) bị tàn phá bởi [Dãy núi Xám](../G/Grey_Mountains.md) được cai trị bởi anh trai ông [Dáin I](../D/Dáin_I.md).
 
-Khi Vua và con trai ông ta [Frór](../F/Frór.md) bị giết bởi [Cold-drake](../C/Cold-drake.md), dân tộc Durin bị chia rẽ. Borin đi theo Vua [Thrór](../T/Thrór.md) mới quay lại [Ngọn Núi Cô Đơn](../L/Lonely_Mountain.md), trong khi những người khác đi theo [Grór](../G/Grór.md) đến [Dãy Đồi Sắt](../I/Iron_Hills.md). Borin sống với [Người Lùn Erebor](../D/Dwarves_of_Erebor.md) dưới [Vua](../K/King_under_the_Mountain.md) Thrór trong suốt quãng đời còn lại của mình.
+Khi Nhà vua và con trai [Frór](../F/Frór.md) bị giết bởi [Cold-drake](../C/Cold-drake.md), dân tộc Durin bị chia rẽ. Borin đi theo vị Vua mới [Thrór](../T/Thrór.md) quay trở lại [Núi Cô Đơn](../L/Lonely_Mountain.md), trong khi những người khác đi theo [Grór](../G/Grór.md) đến [Iron Hills](../I/Iron_Hills.md). Borin sống với [Người lùn ở Erebor](../D/Dwarves_of_Erebor.md) dưới quyền [Vua](../K/King_under_the_Mountain.md) Thrór trong suốt quãng đời còn lại của mình.
 
-Thông qua con trai ông, [Farin](../F/Farin.md), Borin là tổ tiên của bốn trong số mười ba Người Lùn [Thorin và Đoàn tùy tùng](../T/Thorin_and_Company.md) ([Balin](Balin.md), [Dwalin](../D/Dwalin.md), [Óin](../_/Óin.md)và [Glóin](../G/Glóin.md)) và [Gimli Bạn của Tiên tộc](../G/Gimli.md) của [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Thông qua con trai mình, [Farin](../F/Farin.md), Borin là tổ tiên của bốn trong số mười ba Người lùn của [Thorin và Đồng đội](../T/Thorin_and_Company.md) ([Balin](Balin.md), [Dwalin](../D/Dwalin.md), [Óin](../_/Óin.md) và [Glóin](../G/Glóin.md)) và [Gimli Elf-friend](../G/Gimli.md) của [Công ty của Nhẫn](../F/Fellowship_of_the_Ring.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-[Jim Allan](../J/Jim_Allan.md) đã gợi ý rằng *Borin* có thể bắt nguồn từ [tiếng Bắc Âu cổ](../O/Old_Norse.md) *bora* ("to khoan lỗ"), do đó có nghĩa là "Kẻ đục lỗ".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+[Jim Allan](../J/Jim_Allan.md) đã gợi ý rằng *Borin* có thể bắt nguồn từ [tiếng Bắc Âu cổ](../O/Old_Norse.md) *bora* ("khoan lỗ"), do đó có nghĩa là "Kẻ đục lỗ".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Phả hệ {#Genealogy}
 

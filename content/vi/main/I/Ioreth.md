@@ -46,15 +46,15 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Andrea_Piparo_-_Ioreth_in_Minas_Tirith.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/34/Andrea_Piparo_-_Ioreth_in_Minas_Tirith.jpg/320px-Andrea_Piparo_-_Ioreth_in_Minas_Tirith.jpg" decoding="async" loading="lazy" width="320" height="352" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/34/Andrea_Piparo_-_Ioreth_in_Minas_Tirith.jpg/480px-Andrea_Piparo_-_Ioreth_in_Minas_Tirith.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/3/34/Andrea_Piparo_-_Ioreth_in_Minas_Tirith.jpg/640px-Andrea_Piparo_-_Ioreth_in_Minas_Tirith.jpg 2x" data-file-width="1308" data-file-height="1440"/></a><figcaption>&#34;Ioreth in Minas Tirith&#34; by <a href="../A/Andrea_Piparo.md" title="Andrea Piparo">Andrea Piparo</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../G/Gondorians.md" title="Gondorians">Gondorian</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Ioreth</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Position</th><td class="tg-infobox-data">Healer in <a href="../H/Houses_of_Healing.md" title="Houses of Healing">Houses of Healing</a></td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../G/Gondor.md" title="Gondor">Gondor</a></td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data"><a href="../W/Westron.md" title="Westron">Westron</a></td></tr><tr><th scope="row" class="tg-infobox-label">Birth</th><td class="tg-infobox-data">Late <a href="../T/Third_Age.md" title="Third Age">Third Age</a><br/><a href="../L/Lossarnach.md" title="Lossarnach">Lossarnach</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Female</td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Ioreth.md" title="Category:Images of Ioreth">Images of Ioreth</a></td></tr></tbody></table>
 
-**Ioreth** là phụ nữ của [Gondor](../G/Gondor.md) trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md).
+**Ioreth** là một phụ nữ của [Gondor](../G/Gondor.md) trong [War of the Ring](../W/War_of_the_Ring.md).
 
 ## Lịch sử {#History}
 
-Ioreth ban đầu đến từ [Imloth Melui](Imloth_Melui.md) ở [Lossarnach](../L/Lossarnach.md), nhưng đã chuyển đến [Minas Tirith](../M/Minas_Tirith.md) và làm việc trong [Houses of Healing](../H/Houses_of_Healing.md). Đến [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md) bà là người phụ nữ lớn tuổi nhất làm việc ở đó và rất thông thạo các kiến ​​thức cổ. Khi nhìn thấy người [Faramir](../F/Faramir.md)bị bệnh, bà nói rằng bà ước gì vẫn còn một vị vua ở Gondor, nhận xét "Vì truyền thuyết xưa có nói: *Bàn tay của nhà vua là bàn tay của người chữa bệnh*." [Gandalf](../G/Gandalf.md) nghe thấy điều này và đưa [Aragorn](../A/Aragorn.md) đến Nhà chữa bệnh, nơi anh có thể chữa khỏi bệnh cho nhiều người. Ioreth rất nói nhiều, điều này khiến Aragorn và Gandalf khó chịu.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Ioreth ban đầu đến từ [Imloth Melui](Imloth_Melui.md) ở [Lossarnach](../L/Lossarnach.md), nhưng đã chuyển đến [Minas Tirith](../M/Minas_Tirith.md) và làm việc tại [Houses of Healing](../H/Houses_of_Healing.md). Đến [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md) bà là người phụ nữ lớn tuổi nhất làm việc ở đó và rất thông thạo các kiến ​​thức cổ. Khi nhìn thấy [Faramir](../F/Faramir.md) bị bệnh, cô nói rằng cô ước gì vẫn còn một vị vua ở Gondor, nhận xét "Vì truyền thuyết xưa có nói: *Bàn tay của nhà vua là bàn tay của người chữa bệnh*." [Gandalf](../G/Gandalf.md) nghe thấy điều này và đưa [Aragorn](../A/Aragorn.md) đến Nhà chữa bệnh, nơi anh có thể chữa khỏi bệnh cho nhiều người. Ioreth rất lắm lời, điều này khiến Aragorn và Gandalf khó chịu.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Ioreth* có nghĩa là "bà già" trong [Sindarin](../S/Sindarin.md); *[iaur](Iaur.md)* ("cũ") cộng với kết thúc nữ tính <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=-eth&amp;action=edit&amp;redlink=1" title="-eth (page does not exist)">-eth</a></i>. Trong bản nháp, Tolkien đã đánh vần tên cô ấy là *Yoreth*.<sup id="cite_ref-Joukes_2-0" class="reference"><a href="#cite_note-Joukes-2">[2]</a></sup>
+*Ioreth* có nghĩa là "bà già" trong [Sindarin](../S/Sindarin.md); *[iaur](Iaur.md)* ("cũ") cộng với kết thúc nữ tính <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=-eth&amp;action=edit&amp;redlink=1" title="-eth (page does not exist)">-eth</a></i>. Trong bản nháp, Tolkien đã đánh vần tên bà là *Yoreth*.<sup id="cite_ref-Joukes_2-0" class="reference"><a href="#cite_note-Joukes-2">[2]</a></sup>
 
 Giống như "[Cờ bạc](../G/Gamling.md)", nó được lựa chọn đặc biệt để phù hợp với tính cách của bà y tá già.<sup id="cite_ref-Joukes_2-1" class="reference"><a href="#cite_note-Joukes-2">[2]</a></sup>
 
@@ -62,15 +62,15 @@ Giống như "[Cờ bạc](../G/Gamling.md)", nó được lựa chọn đặc b
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1956: <i><a class="mw-redirect" href="../T/The_Lord_of_the_Rings_(1956_radio_series).md" title="The Lord of the Rings (1956 radio series)">The Lord of the Rings (loạt đài phát thanh 1956)</a></i>:</b>
+<b>1956: <i><a class="mw-redirect" href="../T/The_Lord_of_the_Rings_(1956_radio_series).md" title="The Lord of the Rings (1956 radio series)">Chúa tể của những chiếc nhẫn (loạt phim phát thanh năm 1956)</a></i>:</b>
 
 <dl><dd><a href="../P/Prunella_Scales.md" title="Prunella Scales">Prunella Scales</a> is credited as Ioreth in the fifth episode of the second run, &#34;Minas Tirith and Mount Doom&#34;.<sup id="cite_ref-RT1727_3-0" class="reference"><a href="#cite_note-RT1727-3">[3]</a></sup> As Scales was in her twenties at the time, it is unknown to what extent the &#34;old lady&#34; aspect was used.</dd></dl>
 
-<b>1979: <a href="../T/The_Lord_of_the_Rings_(1979_radio_series).md" title="The Lord of the Rings (1979 radio series)"><i>The Lord of the Rings</i> (loạt phim phát thanh 1979)</a>:</b>
+<b>1979: <a href="../T/The_Lord_of_the_Rings_(1979_radio_series).md" title="The Lord of the Rings (1979 radio series)"><i>Chúa tể của những chiếc nhẫn</i> (loạt phim phát thanh năm 1979)</a>:</b>
 
 <dl><dd><a class="new" href="https://tolkiengateway.net/w/index.php?title=Pat_Franklyn&amp;action=edit&amp;redlink=1" title="Pat Franklyn (page does not exist)">Pat Franklyn</a> is credited as &#34;The Old Woman&#34;. She is not referred to as Ioreth at any time, but her lines are lifted from Ioreth&#39;s.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></dd></dl>
 
-<b>1981: <a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>The Lord of the Rings</i> (loạt phim phát thanh 1981)</a>:</b>
+<b>1981: <a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>Chúa tể của những chiếc nhẫn</i> (loạt phim phát thanh năm 1981)</a>:</b>
 
 <dl><dd><a href="../P/Pauline_Letts.md" title="Pauline Letts">Pauline Letts</a> plays Ioreth.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> in the absence of <a href="../B/Bergil.md" title="Bergil">Bergil</a> she is the one who provides Aragorn with the leaves he uses in his ministrations.</dd></dl>
 
@@ -78,7 +78,7 @@ Giống như "[Cờ bạc](../G/Gamling.md)", nó được lựa chọn đặc b
 
 <dl><dd>The voice of Ioreth is provided by Vilma Jamnická.</dd></dl>
 
-<b>2015<i>: </i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a><i>:</i></b><i></i>
+<b>2015<i>: </i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a><i>:</i></b><i></i>
 
 <dl><dd>Ioreth is found in the Houses of Healing after the battle, where she asks the player to assist her with mixing herbs and delivering medicine to the wounded.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></dd></dl>
 

@@ -25,7 +25,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Logo của trò chơi [The Hobbit: Army of The Kỷ Đệ Tam](../../main/T/The_Hobbit%253A_Armies_of_The_Third_Age.md).
+Logo của trò chơi [The Hobbit: Armies of The Third Age](../../main/T/The_Hobbit%253A_Armies_of_The_Third_Age.md).
 
 ## Giấy phép {#Licensing}
 

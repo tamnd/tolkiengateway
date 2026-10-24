@@ -18,7 +18,7 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Sirith.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/32/The_Lord_of_the_Rings_Online_-_Sirith.jpg/250px-The_Lord_of_the_Rings_Online_-_Sirith.jpg" decoding="async" loading="lazy" width="250" height="141" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/32/The_Lord_of_the_Rings_Online_-_Sirith.jpg/375px-The_Lord_of_the_Rings_Online_-_Sirith.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/3/32/The_Lord_of_the_Rings_Online_-_Sirith.jpg/500px-The_Lord_of_the_Rings_Online_-_Sirith.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>Sirith in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-**Sirith** là một con sông ở [Gondor](../G/Gondor.md) bắt nguồn từ [Dãy Núi Trắng](../W/White_Mountains.md) ở phía đông [Lebennin](../L/Lebennin.md) và chảy về phía nam. Phía nam của vùng ngoại vi cuối cùng của dãy núi, nó được nối với một nhánh, sông [Celos](../C/Celos.md). Tại điểm gặp [Sông Lớn Anduin](../A/Anduin.md) đã xây dựng cảng [Pelargir](../P/Pelargir.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Sirith** là một con sông ở [Gondor](../G/Gondor.md) bắt nguồn từ [White Mountains](../W/White_Mountains.md) ở phía đông [Lebennin](../L/Lebennin.md) và chảy về phía nam. Phía nam của vùng ngoại vi cuối cùng của dãy núi, nó được nối với một nhánh, sông [Celos](../C/Celos.md). Tại điểm gặp [Great River Anduin](../A/Anduin.md), cảng [Pelargir](../P/Pelargir.md) đã được xây dựng.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -26,7 +26,7 @@ Tên *Sirith* có nghĩa là "dòng chảy" trong [Sindarin](Sindarin.md).<sup i
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2014: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2014: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
 
 <dl><dd>The Sirith was in the area of Upper <a href="../L/Lebennin.md" title="Lebennin">Lebennin</a> in the Eastern <a href="../G/Gondor.md" title="Gondor">Gondor</a> region. It flowed through the fortified valley of <a href="../T/Tumladen_(Gondor).md" title="Tumladen (Gondor)">Tumladen</a> before turning west to meet the <a href="../C/Celos.md" title="Celos">Celos</a> below the <a href="../W/Warning_beacons_of_Gondor.md" title="Warning beacons of Gondor">beacon</a> &#34;Sirthanc&#34;. The town of &#34;Erynos&#34; was located on the western shore across from where the two rivers met. South of the juncture, the two joined rivers flowed south from the beacon to the <a href="../A/Anduin.md" title="Anduin">Anduin</a>, forming the boundary with Lower Lebennin and the region of Central Gondor. The combined river also bisected the port city of <a href="../P/Pelargir.md" title="Pelargir">Pelargir</a> where it joined the <a href="../A/Anduin.md" title="Anduin">Anduin</a>. The Sirith was the domain of the honest River-maid Truetongue, one of the Five Sisters, though she and her sisters were widely considered a myth by the time of the <a href="../W/War_of_the_Ring.md" title="War of the Ring">War of the Ring</a>.</dd></dl>
 

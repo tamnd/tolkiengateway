@@ -11,4 +11,4 @@ redirect_target: "Ered Gorgoroth"
 redirect_fragment: "Other versions of the legendarium"
 ---
 
-Chuyển hướng đến [Ered Gorgoroth](../E/Ered_Gorgoroth.md#Other_versions_of_the_legendarium).
+Chuyển hướng tới [Ered Gorgoroth](../E/Ered_Gorgoroth.md#Other_versions_of_the_legendarium).

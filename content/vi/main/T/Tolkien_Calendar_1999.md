@@ -42,7 +42,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tolkien_Calendar_1999.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/e/ed/Tolkien_Calendar_1999.jpg/320px-Tolkien_Calendar_1999.jpg" decoding="async" loading="lazy" width="320" height="319" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/e/ed/Tolkien_Calendar_1999.jpg 1.5x" data-file-width="351" data-file-height="350"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Tolkien Calendar 1999</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="../A/Alan_Lee.md" title="Alan Lee">Alan Lee</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../H/HarperCollins.md" title="HarperCollins">HarperCollins</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/15_June.md" title="15 June">15 June</a> <a href="../_/1998.md" title="1998">1998</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Calendar</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">32</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0-261-10352-0" title="Special:BookSources/0-261-10352-0">0-261-10352-0</a> (UK)<br/><a href="https://tolkiengateway.net/wiki/Special:BookSources/0-06-105591-3" title="Special:BookSources/0-06-105591-3">0-06-105591-3</a> (US)</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Tolkien_Calendar_1998.md" title="Tolkien Calendar 1998">Tolkien Calendar 1998</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Tolkien_Calendar_2000.md" title="Tolkien Calendar 2000">Tolkien Calendar 2000</a></td></tr></tbody></table>
 
-Lịch <i><b>Tolkien 1999</b></i> là lịch Tolkien chính thức được xuất bản bởi [HarperCollins](../H/HarperCollins.md) vào [15 tháng 6](../_/15_June.md) [1998](../_/1998.md). Nó có tác phẩm nghệ thuật của [Alan Lee](../A/Alan_Lee.md) dựa trên *[The Hobbit](The_Hobbit.md)*.
+<i><b>Lịch Tolkien 1999</b></i> là lịch Tolkien chính thức được xuất bản bởi [HarperCollins](../H/HarperCollins.md) vào [15 tháng 6](../_/15_June.md) [1998](../_/1998.md). Nó có tác phẩm nghệ thuật của [Alan Lee](../A/Alan_Lee.md) dựa trên *[The Hobbit](The_Hobbit.md)*.
 
 ## Từ nhà xuất bản {#From_the_publishers}
 
@@ -53,17 +53,17 @@ Lịch <i><b>Tolkien 1999</b></i> là lịch Tolkien chính thức được xu�
 
 ## Minh họa {#Illustrations}
 
-- Tháng 1 - "[Ngày Warg](../../file/A/Alan_Lee_-_The_Wargs.jpg.md)"
-- Tháng 2 - "[Sự tàn phá của Rồng](../../file/A/Alan_Lee_-_The_Front_Gate.jpg.md)"
+- Tháng 1 - "[Bọn Wargs](../../file/A/Alan_Lee_-_The_Wargs.jpg.md)"
+- Tháng 2 - "[Sự tàn phá của loài rồng](../../file/A/Alan_Lee_-_The_Front_Gate.jpg.md)"
 - Tháng 3 - "[Ruồi và Nhện](../../file/A/Alan_Lee_-_Captured_by_the_Spiders.jpg.md)"
 - Tháng 4 - "[Thorin, Vua Dưới Núi](../../file/A/Alan_Lee_-_The_Gathering_of_the_Clouds.jpg.md)"
 - Tháng 5 - "[Rivendell](../../file/A/Alan_Lee_-_Rivendell.jpg.md)"
-- Tháng 6 - "[ Carrock](../../file/A/Alan_Lee_-_The_Carrock.jpg.md)"
+- Tháng 6 - "[Carrock](../../file/A/Alan_Lee_-_The_Carrock.jpg.md)"
 - Trung tâm - "[Bản đồ của Thror](../../file/A/Alan_Lee_-_Thror's_Map.jpg.md)"
-- Tháng 7 - "[Cổng Tiên Vua](../../file/A/Alan_Lee_-_The_Elvenking's_Gate.jpg.md)"
-- Tháng 8 - "[Một bữa tiệc bất ngờ](../../file/A/Alan_Lee_-_An_Unexpected_Party.jpg.md)"
-- tháng Chín - "[Thị trấn bên hồ](../../file/A/Alan_Lee_-_Lake-town.jpg.md)"
-- Tháng 10 - "[Ngày Goblin](../../file/A/Alan_Lee_-_The_Great_Goblin.jpg.md)"
+- Tháng 7 - "[Cổng Vua Yêu Tinh](../../file/A/Alan_Lee_-_The_Elvenking's_Gate.jpg.md)"
+- Tháng 8 - "[Bữa tiệc bất ngờ](../../file/A/Alan_Lee_-_An_Unexpected_Party.jpg.md)"
+- Tháng 9 - "[Thị trấn hồ](../../file/A/Alan_Lee_-_Lake-town.jpg.md)"
+- Tháng 10 - "[Yêu tinh](../../file/A/Alan_Lee_-_The_Great_Goblin.jpg.md)"
 - Tháng 11 - "[Sự phẫn nộ của Smaug](../../file/A/Alan_Lee_-_Smaug's_Fury.jpg.md)"
 - Tháng 12 - "[Vương quốc dưới núi](../../file/A/Alan_Lee_-_The_King_under_the_Mountain.jpg.md)"
 
@@ -99,8 +99,8 @@ Lịch <i><b>Tolkien 1999</b></i> là lịch Tolkien chính thức được xu�
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://www.tolkienbooks.net/php/caldetails.php?reference=94310" rel="noreferrer noopener" target="_blank">Tolkien Lịch 1999</a> tại <a class="external text" href="http://www.tolkienbooks.net" rel="noreferrer noopener" target="_blank">TolkienBooks.net</a>
-- <a class="external text" href="http://tolkiencalendars.com/1999_2001.html" rel="noreferrer noopener" target="_blank">Tolkien Lịch 1999 - 2001</a> tại <a class="external text" href="http://tolkiencalendars.com/" rel="noreferrer noopener" target="_blank">The Compleat Gyde tới Tolkien Lịch</a>
+- <a class="external text" href="http://www.tolkienbooks.net/php/caldetails.php?reference=94310" rel="noreferrer noopener" target="_blank">Lịch Tolkien 1999</a> tại <a class="external text" href="http://www.tolkienbooks.net" rel="noreferrer noopener" target="_blank">TolkienBooks.net</a>
+- <a class="external text" href="http://tolkiencalendars.com/1999_2001.html" rel="noreferrer noopener" target="_blank">Lịch Tolkien 1999 - 2001</a> tại <a class="external text" href="http://tolkiencalendars.com/" rel="noreferrer noopener" target="_blank">The Compleat Gyde to Tolkien Calendars</a>
 
 <table style="margin:0 auto;" class="collapsible toccolours" width="100%" align="center">
 <tbody><tr>

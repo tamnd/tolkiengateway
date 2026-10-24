@@ -29,11 +29,11 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Deeping-coomb.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/62/The_Lord_of_the_Rings_Online_-_Deeping-coomb.jpg/250px-The_Lord_of_the_Rings_Online_-_Deeping-coomb.jpg" decoding="async" loading="lazy" width="250" height="141" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/62/The_Lord_of_the_Rings_Online_-_Deeping-coomb.jpg/375px-The_Lord_of_the_Rings_Online_-_Deeping-coomb.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/6/62/The_Lord_of_the_Rings_Online_-_Deeping-coomb.jpg/500px-The_Lord_of_the_Rings_Online_-_Deeping-coomb.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>The Deeping-coomb ends at <a href="../H/Helm&#39;s_Dike.md" title="Helm&#39;s Dike">Helm&#39;s Dike</a> in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-**Thung lũng sâu** là một thung lũng sâu ở phía bắc của [Dãy Núi Trắng](../W/White_Mountains.md) dẫn đến [Helm's Deep](../H/Helm's_Deep.md) và lâu đài của [Hornburg](../H/Hornburg.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Deeping-coomb** là một thung lũng sâu ở phía bắc của [Dãy núi Trắng](../W/White_Mountains.md) dẫn đến [Helm's Deep](../H/Helm's_Deep.md) và lâu đài của [Hornburg](../H/Hornburg.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Deeping-coomb là một thung lũng xanh tươi có những sườn dốc phủ cỏ trải dài trên những ngọn đồi núi.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Cửa của nó cách [Cạnh cạn Isen](../F/Fords_of_Isen.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> năm dặm (15 dặm<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>)
 
-Deeping-coomb là nơi diễn ra trận chiến quan trọng [Trận Hornburg](../B/Battle_of_the_Hornburg.md), trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Deeping-coomb là nơi diễn ra một trận chiến quan trọng, [Trận Hornburg](../B/Battle_of_the_Hornburg.md), trong [War of the Ring](../W/War_of_the_Ring.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -43,13 +43,13 @@ A *Coomb* là một "thung lũng sâu", xuất hiện thường xuyên trong cá
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
 
 <dl><dd>The Deeping-coomb is one of the five major battlegrounds in the game&#39;s representation of the <a href="../B/Battle_of_the_Hornburg.md" title="Battle of the Hornburg">Battle of the Hornburg</a>.</dd></dl>
 
 ## Xem thêm {#See_also}
 
-- [Combe](../C/Combe.md), một ngôi làng [Bree](../B/Bree.md)
+- [Combe](../C/Combe.md), ngôi làng của [Bree](../B/Bree.md)
 
 <span></span>
 

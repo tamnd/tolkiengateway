@@ -21,8 +21,8 @@ images:
 <p class="tg-quote-footer"><cite><a href="../G/Glóin.md" title="Glóin">Glóin</a></cite></p>
 </blockquote></div></div>
 
-<b>Tolkien Thư viện <sup><a class="external autonumber" href="https://tolkienlibrary.com" rel="noreferrer noopener" target="_blank">[1]</a></sup></b> là trang web của Tolkien nhà sưu tập sách [Pieter Collier](../P/Pieter_Collier.md).
+<b>Thư viện Tolkien <sup><a class="external autonumber" href="https://tolkienlibrary.com" rel="noreferrer noopener" target="_blank">[1]</a></sup></b> là trang web của nhà sưu tập sách Tolkien [Pieter Collier](../P/Pieter_Collier.md).
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://www.tolkienlibrary.com" rel="noreferrer noopener" target="_blank">Tolkien Thư viện</a>
+- <a class="external text" href="http://www.tolkienlibrary.com" rel="noreferrer noopener" target="_blank">Thư viện Tolkien</a>

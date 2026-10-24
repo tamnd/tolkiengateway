@@ -22,13 +22,13 @@ images:
 
 ## Lịch sử {#History}
 
-Chủng tộc của Langon và ý nghĩa tên của anh ta vẫn chưa được biết. Trong [Ngày của người cao tuổi](../E/Elder_Days.md) anh ấy đã trở thành người hầu của Melko.
+Chủng tộc của Langon và ý nghĩa tên của ông ta vẫn chưa được biết. Trong [Ngày của người cao tuổi](../E/Elder_Days.md) ông trở thành người hầu của Melko.
 
-Khi [Các vị thần](../G/Gods.md) đến [Great Lands](../G/Great_Lands.md) để tấn công Melko, anh ta chạy về phía bắc và nhốt mình trong [Utumna](../U/Utumna.md). Sau đó Valar mở cổng và yêu cầu anh ta đi ra. Tuy nhiên, Melko đã cử Langon đi đàm phán với kẻ thù của họ. Thông điệp của ông ta đầy sự xấc xược và xu nịnh giả dối, gây ra cơn thịnh nộ giữa các vị thần.<sup id="cite_ref-Langon_1-0" class="reference"><a href="#cite_note-Langon-1">[1]</a></sup>
+Khi [Các vị thần](../G/Gods.md) đến [Great Lands](../G/Great_Lands.md) để tấn công Melko, ông ta chạy về phía bắc và nhốt mình trong [Utumna](../U/Utumna.md). Sau đó Valar mở cổng và yêu cầu ông ta đi ra. Tuy nhiên, Melko đã cử Langon đến đàm phán với kẻ thù của họ. Thông điệp của ông ta đầy sự xấc xược và xu nịnh giả dối, gây ra cơn thịnh nộ giữa các vị thần.<sup id="cite_ref-Langon_1-0" class="reference"><a href="#cite_note-Langon-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Mặc dù *Langon* không bao giờ được đánh bóng, trong *[Gnomish Lexicon](../G/Gnomish_Lexicon.md)* có hai mục có thể liên quan: *lang* ("to blare, clang, ring"), *langon* ("tiếng chuông lớn").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Vì vậy có lẽ cái tên này có liên quan gì đó với thông điệp của Langon "bùng nổ" Melko.
+Mặc dù *Langon* không bao giờ được chú thích, nhưng trong *[Gnomish Lexicon](../G/Gnomish_Lexicon.md)* có hai mục có thể liên quan: *lang* ("to blare, clang, reng"), *langon* ("chuông lớn").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Vậy có lẽ cái tên này có liên quan gì đó với thông điệp của Langon "bùng nổ" Melko.
 
 <span></span>
 

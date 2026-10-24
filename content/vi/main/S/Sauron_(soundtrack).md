@@ -39,7 +39,7 @@ infobox:
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
-**Sauron** là bài hát thứ tám trong [*The Lord of the Rings: The Rings of Power* (Phần một: Nhạc phim loạt phim gốc của Amazon)](<../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power_(Season_One%253A_Amazon_Original_Series_Soundtrack).md>).
+**Sauron** là bài hát thứ tám trên [*The Lord of the Rings: The Rings of Power* (Season One: Amazon Original Series Soundtrack)](<../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power_(Season_One%253A_Amazon_Original_Series_Soundtrack).md>).
 
 ## Lời bài hát {#Lyrics}
 

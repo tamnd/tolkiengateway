@@ -49,11 +49,11 @@ infobox:
     - Bởi: David Holbrook
 - "Tính biểu tượng của chiếc chìa khóa trong tác phẩm của Chesterton"
     - Bởi: Christiane d'Haussy
-- "Chesterton và Tolkien: Đường tới Trung Địa"
+- "Chesterton và Tolkien: Con đường đến Trung Địa"
     - Bởi: Thomas M. Egan
 - "Charles Williams và Arthur Edward Waite"
     - Bởi: Elisabeth Brewer
-Tiểu thuyết Giáng sinh của - "Charles Williams: *The Greater Trumps*"
+- "Tiểu thuyết Giáng sinh của Charles Williams: *The Greater Trumps*"
     - Bởi: Charles Huttar
 - "Thấy và Biết: Nhận thức luận của C.S. Lewis *Till We Have Faces*"
     - Bởi: Peter J. Schakel

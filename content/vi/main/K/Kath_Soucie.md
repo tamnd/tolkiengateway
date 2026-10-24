@@ -21,7 +21,7 @@ sort_keys:
   "People by name": "Soucie, Kath"
 ---
 
-**Katherine Soucie** (20 tháng 2 năm 1967) là một nữ diễn viên lồng tiếng người Mỹ. Cô ấy đã chơi [Goldberry](../G/Goldberry.md), [Angelica](../A/Angelica_Baggins.md) và [Arwen](../A/Arwen.md) trong trò chơi *[The Fellowship of the Ring](<../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md>)* (nhưng chỉ xuất hiện trong phần ghi công đầu tiên) và lồng tiếng bổ sung cho *[The Hobbit](<../T/The_Hobbit_(2003_video_game).md>)*.
+**Katherine Soucie** (20 tháng 2 năm 1967) là một nữ diễn viên lồng tiếng người Mỹ. Bà đã chơi [Goldberry](../G/Goldberry.md), [Angelica](../A/Angelica_Baggins.md) và [Arwen](../A/Arwen.md) trong trò chơi *[The Fellowship of the Ring](<../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md>)* (nhưng chỉ xuất hiện trong phần ghi công đầu tiên) và lồng tiếng bổ sung cho *[The Hobbit](<../T/The_Hobbit_(2003_video_game).md>)*.
 
 ## Liên kết ngoài {#External_links}
 

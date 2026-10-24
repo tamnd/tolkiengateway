@@ -39,36 +39,36 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mythlore_53.gif.md"><img src="https://tolkiengateway.net/w/images/7/7e/Mythlore_53.gif" decoding="async" loading="lazy" width="225" height="290" class="mw-file-element" data-file-width="225" data-file-height="290"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mythlore 53</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../G/Glen_GoodKnight.md" title="Glen GoodKnight">Glen GoodKnight</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Spring <a href="../_/1988.md" title="1988">1988</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">63</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mythlore_52.md" title="Mythlore 52">Mythlore 52</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mythlore_54.md" title="Mythlore 54">Mythlore 54</a></td></tr></tbody></table>
 
-<b><i>Mythlore</i> 53</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol14/iss3/" rel="noreferrer noopener" target="_blank">Tập 14, Số 3</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
+<b><i>Thần thoại</i> 53</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol14/iss3/" rel="noreferrer noopener" target="_blank">Tập 14, Số 3</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
 
 ## Nội dung {#Contents}
 
 #### Bài viết {#Articles}
 
-- Reckford, Kenneth J. “‘There and Back Again’ \~ Odysseus và Bilbo Baggins.”
-- Westbrook, Dee Anne. “Linh hồn của động vật: Sự tiến hóa của lý tưởng chiến đấu.”
-- White, Donna R. “Nữ tư tế và Nữ thần: Sự tiến hóa của ý thức con người trong các Trump lớn hơn.”
-- Người xanh, David. “The Silmarillion với tư cách là Bi kịch sử thi của Aristotle.”
-- Pennington, John. “Phantastes như siêu hư cấu: Huyền thoại tự phản xạ của George MacDonald.”
-- Musacchio, George. “Cơ đốc nhân chiến đấu.”
-- Veith, Gene Edward. “Tưởng tượng và truyền thống của nghệ thuật Kitô giáo.”
-- Burns, Marjorie J. “Truyện cổ tích vô danh: Vua dòng sông Vàng của Ruskin.”
-- Madsen, Catherine. “Ánh sáng từ ngọn đèn vô hình: Tôn giáo tự nhiên ở The Lord of the Rings.”
-- Boenig, Robert. “Tiếng trống diệt vong: H.G. Wells' Đầu tiên Con Người trong Mặt Trăng và The Lord of the Rings.”
-- Deyo, Steven Mark. “Wyrd and Will: Fate, Fatalism, and Free Will in The Northern Elegy và J.R.R. Tolkien.”
+- Reckford, Kenneth J. “‘There and Back Again’ \~ Odysseus and Bilbo Baggins.”
+- Westbrook, Dee Anne. “The Souls of Animals: Evolution of the Combative Ideal.”
+- White, Donna R. “Priestess and Goddess: Evolution of Human Consciousness in The Greater Trumps.”
+- Greenman, David. “The Silmarillion as Aristotelian Epic-Tragedy.”
+- Pennington, John. “Phantastes as Metafiction: George MacDonald's Self-Reflexive Myth.”
+- Musacchio, George. “Warfaring Christian.”
+- Veith, Gene Edward. “Fantasy and the Tradition of Christian Art.”
+- Burns, Marjorie J. “The Anonymous Fairy Tale: Ruskin's King of the Golden River.”
+- Madsen, Catherine. “Light from an Invisible Lamp: Natural Religion in The Lord of the Rings.”
+- Boenig, Robert. “The Drums of Doom: H.G. Wells' First Men in the Moon and The Lord of the Rings.”
+- Deyo, Steven Mark. “Wyrd and Will: Fate, Fatalism, and Free Will in The Northern Elegy and J.R.R. Tolkien.”
 
 #### Thơ {#Poetry}
 
-- Berkeley, David S. “Trên The Lord of the Rings của J.R.R. Tolkien.”
+- Berkeley, David S. “On J.R.R. Tolkien's The Lord of the Rings.”
 
 #### Tính năng {#Features}
 
 - Chúc ngủ ngon, Glen. Khai mạc tòa soạn.
-- Hyde, Paul Nolan. “Quenti Lambardillion: Niềm vui của người Thổ Nhĩ Kỳ.”
+- Hyde, Paul Nolan. “Quenti Lambardillion: Turkish Delight.”
 - Thư.
-- Chúc ngủ ngon, Glen. “Sự tham gia.”
-- Chúc ngủ ngon, Glen. “Triết lý biên tập.”
-- Mythlore Nhân viên. Hội đồng của Quản lý.
+- GoodKnight, Glen. “Involvement.”
+- GoodKnight, Glen. “Editorial Philosophy.”
+- Nhân viên thần thoại. Hội đồng quản lý.
 
 #### Đánh giá {#Reviews}
 

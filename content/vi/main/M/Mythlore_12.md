@@ -39,26 +39,26 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mythlore_12.gif.md"><img src="https://tolkiengateway.net/w/images/b/bf/Mythlore_12.gif" decoding="async" loading="lazy" width="225" height="289" class="mw-file-element" data-file-width="225" data-file-height="289"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mythlore 12</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../G/Glen_GoodKnight.md" title="Glen GoodKnight">Glen GoodKnight</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">June <a href="../_/1976.md" title="1976">1976</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">39</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mythlore_11.md" title="Mythlore 11">Mythlore 11</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mythlore_13.md" title="Mythlore 13">Mythlore 13</a></td></tr></tbody></table>
 
-<b><i>Mythlore</i> 12</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol3/iss4/" rel="noreferrer noopener" target="_blank">Tập 3, Số 4</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
+<b><i>Thần thoại</i> 12</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol3/iss4/" rel="noreferrer noopener" target="_blank">Tập 3, Số 4</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
 
 ## Nội dung {#Contents}
 
 #### Bài viết {#Articles}
 
-- Harwood, A.C. “Nâng ly tưởng nhớ C.S. Lewis.” 3-5.
-- Hooper, Walter. “Hồi ức.” 5-9.
-- Chapman, Ed. “Hướng tới một hệ sinh thái bí tích: Công nghệ, Tự nhiên và Siêu việt trong Bộ ba Tiền chuộc của C.S. Lewis.” 10-17.
-- Bisenieks, Dainis. “Bài tái bút về Kenneth Morris (1879-1937).” 17.
-- Lindskoog, Kathryn. “C.S. Lewis: Phản ứng của phụ nữ.” 18-20.
+- Harwood, A.C. “A Toast to the Memory of C.S. Lewis.” 3-5.
+- Hooper, Walter. “Reminiscences.” 5-9.
+- Chapman, Ed. “Toward a Sacramental Ecology: Technology, Nature and Transcendence in C.S. Lewis’s Ransom Trilogy.” 10-17.
+- Bisenieks, Dainis. “A Postscript on Kenneth Morris (1879-1937).” 17.
+- Lindskoog, Kathryn. “C.S. Lewis: Reactions from Women.” 18-20.
 
 #### Tính năng {#Features}
 
-- Christopher, Joe R. “Hành trình xuyên địa ngục, luyện ngục và thiên đường của Jung.” Đánh giá về *Gỗ sẫm đến hoa hồng trắng: Nghiên cứu về ý nghĩa trong Thần khúc của Dante* của Helen M. Luke. 21-22.
-- Colvin, George. “Biên niên sử của Chúa Kitô và Constantine.” Bài đánh giá về *The Singer* của Calvin Miller và *The Emperor Constantine: A Chronicle* của Dorothy L. Sayers. 22-24.
+- Christopher, Joe R. “Jung’s Journey through Hell, Purgatory and Heaven.” Review of *Dark Wood to White Rose: A Study of Meanings in Dante’s Divine Comedy* by Helen M. Luke. 21-22.
+- Colvin, George. “Chronicles of Christ and Constantine.” Review of *The Singer* by Calvin Miller and *The Emperor Constantine: A Chronicle* by Dorothy L. Sayers. 22-24.
 - Patterson, Nancy-Lou. “Quyết định & Pháp sư.” Bài đánh giá về *Mithrandir và Trung Địa: Một thế giới xung đột* của Stephen O. Miller. 24-25.
-- Chúc ngủ ngon, Glen H. Editorial. 26.
+- GoodKnight, Glen H. Editorial. 26.
 - Thư. 27+.
-- Christopher, Joe R. “Một Inklings Thư mục (1).” 30.
+- Christopher, Joe R. “An Inklings Bibliography (1).” 30.
 
 #### Nghệ thuật {#Art}
 

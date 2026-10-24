@@ -13,7 +13,7 @@ categories:
   - "Noldorin verbs"
 ---
 
-<i><b>orthor-</b></i> là một từ [Noldorin](../N/Noldorin.md) có nghĩa là "làm chủ hoặc chinh phục".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>orthor-</b></i> là từ [Noldorin](../N/Noldorin.md) có nghĩa là "làm chủ hoặc chinh phục".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

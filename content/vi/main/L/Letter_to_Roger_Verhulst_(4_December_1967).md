@@ -21,8 +21,8 @@ images:
 
 Vào [4 tháng 12](../_/4_December.md) [1967](../_/1967.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_%2522The_Letters_of_J.R.R._Tolkien%2522.md) cho Roger Verhulst**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-- **Nội dung:** Tolkien cảm ơn ông Verhulst đã gửi cho ông hai bản sao [C.S. Lewis](../C/C.S._Lewis.md)'s *[Letters to an American Lady](Letters_to_an_American_Lady.md)*mà ông thấy vô cùng thú vị và đề cập rằng ông hiện đang khỏi bệnh.
-- **Xuất bản:** Không có. Mô tả của bức thư đã được cung cấp trong *[W.H. Auden: A Legacy](../W/W.H._Auden%253A_A_Legacy.md)* và trên trang web [Tolkien Library](../T/Tolkien_Library.md). Mô tả về bức thư đã xuất hiện trong danh mục *Những cuốn sách và bản thảo in đẹp của Christie ngày 28 tháng 11 năm 2011* (lô 258).
+- **Nội dung:** Tolkien cảm ơn ông Verhulst đã gửi cho ông hai bản sao *[Letters to an American Lady](Letters_to_an_American_Lady.md)* của [C.S. Lewis](../C/C.S._Lewis.md) mà ông thấy vô cùng thú vị và đề cập rằng ông hiện đang khỏi bệnh.
+- **Xuất bản:** Không có. Mô tả về bức thư đã được cung cấp trong *[W.H. Auden: A Legacy](../W/W.H._Auden%253A_A_Legacy.md)* và trên trang web [Thư viện Tolkien](../T/Tolkien_Library.md). Mô tả về bức thư đã xuất hiện trong danh mục *Những cuốn sách và bản thảo in đẹp của Christie ngày 28 tháng 11 năm 2011* (lô 258).
 - **Mô tả:** Một trang, 76 Sandfield Road, Oxford tiêu đề thư, có chữ ký của J.R.R. Tolkien.
 
 ## Xem thêm {#See_also}

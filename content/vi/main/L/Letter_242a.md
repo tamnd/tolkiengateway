@@ -29,7 +29,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien cảm ơn <a class="extiw" href="http://en.wikipedia.org/wiki/Austin_Farrer" title="wikipedia:Austin Farrer">Austin Farrer</a> về cuốn sách nhỏ về <a class="extiw" href="http://en.wikipedia.org/wiki/Rosary" title="wikipedia:Rosary">Kinh Mân Côi</a>. Anh ta cũng cho biết rằng anh ta chỉ bắt đầu sử dụng Kinh Mân Côi sau khi được <a class="extiw" href="http://en.wikipedia.org/wiki/Ronald_Knox" title="wikipedia:Ronald Knox">Ronald Knox</a> nói riêng rằng anh ta tin <a class="extiw" href="http://en.wikipedia.org/wiki/Veneration_of_Mary_in_the_Catholic_Church" title="wikipedia:Veneration of Mary in the Catholic Church">Mary</a> sử dụng nó. <br>
+Tolkien cảm ơn <a class="extiw" href="http://en.wikipedia.org/wiki/Austin_Farrer" title="wikipedia:Austin Farrer">Austin Farrer</a> về cuốn sách nhỏ về <a class="extiw" href="http://en.wikipedia.org/wiki/Rosary" title="wikipedia:Rosary">Kinh Mân Côi</a>. Ông ta cũng cho biết rằng ông ta chỉ bắt đầu sử dụng Kinh Mân Côi sau khi được <a class="extiw" href="http://en.wikipedia.org/wiki/Ronald_Knox" title="wikipedia:Ronald Knox">Ronald Knox</a> nói riêng rằng ông ta tin <a class="extiw" href="http://en.wikipedia.org/wiki/Veneration_of_Mary_in_the_Catholic_Church" title="wikipedia:Veneration of Mary in the Catholic Church">Mary</a> sử dụng nó. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

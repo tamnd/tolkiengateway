@@ -12,4 +12,4 @@ categories:
   - "Real-world"
 ---
 
-Thể loại này và các thể loại con của nó liệt kê tất cả **Bản chuyển thể** của [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) tác phẩm.
+Thể loại này và các thể loại con của nó liệt kê tất cả **Chuyển thể** tác phẩm của [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md).

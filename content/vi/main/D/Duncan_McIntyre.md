@@ -22,7 +22,7 @@ sort_keys:
 
 ## Vai trò {#Roles}
 
-- [1968](../_/1968.md): [*The Hobbit* (loạt phim phát thanh 1968)](<../T/The_Hobbit_(1968_radio_series).md>): [Bombur](../B/Bombur.md), Tiên tộc, Goblin
+- [1968](../_/1968.md): [*The Hobbit* (loạt phim phát thanh năm 1968)](<../T/The_Hobbit_(1968_radio_series).md>): [Bombur](../B/Bombur.md), Yêu tinh, Yêu tinh
 
 ## Liên kết ngoài {#External_links}
 

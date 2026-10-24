@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Arthedain (Tolkien Society)"
 ---
 
-Chuyển hướng đến [Arthedain (Tolkien Hội)](<../A/Arthedain_(Tolkien_Society).md>).
+Chuyển hướng đến [Arthedain (Hiệp hội Tolkien)](<../A/Arthedain_(Tolkien_Society).md>).

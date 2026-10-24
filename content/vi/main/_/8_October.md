@@ -68,16 +68,16 @@ Sự kiện xảy ra vào ngày 8 tháng 10
 
 - **[1920](1920.md)** - Dịch giả [Nils Werenskiold](../N/Nils_Werenskiold.md) ra đời.
 - **[1937](1937.md)** – [C.S. Lewis](../C/C.S._Lewis.md) đánh giá *[The Hobbit](../T/The_Hobbit.md)* trong *The Times*.
-- **[1979](1979.md)** - Tập *[Jackanory](../J/Jackanory.md)* "Barrels Out of Bond" được phát sóng trên kênh [BBC](../B/BBC.md).
+- **[1979](1979.md)** - Tập *[Jackanory](../J/Jackanory.md)* "Barrels Out of Bond" được phát sóng trên [BBC](../B/BBC.md).
 - **[1987](1987.md)** - [Inkling](../I/Inklings.md) và người viết tiểu sử [Roger Lancelyn Green](../R/Roger_Lancelyn_Green.md) qua đời.
-- **[2004](2004.md)** - [The Lord of the Rings Bản giao hưởng](../T/The_Lord_of_the_Rings_Symphony.md) tại Nhà hát Thính phòng ở <a class="extiw" href="http://en.wikipedia.org/wiki/Chicago" title="wikipedia:Chicago">Chicago</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Illinois" title="wikipedia:Illinois">Illinois</a>.
+- **[2004](2004.md)** - [The Lord of the Rings Symphony](../T/The_Lord_of_the_Rings_Symphony.md) tại Nhà hát Thính phòng ở <a class="extiw" href="http://en.wikipedia.org/wiki/Chicago" title="wikipedia:Chicago">Chicago</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Illinois" title="wikipedia:Illinois">Illinois</a>.
 - **[2009](2009.md)** - *[Hordes of the Things](<../H/Hordes_of_the_Things_(audiobook).md>)* được phát hành dưới dạng CD.
-- <b><a href="2015.md" title="2015">2015</a> - <i><a href="../T/The_Art_of_The_Lord_of_the_Rings.md" title="The Art of The Lord of the Rings">Nghệ thuật The Lord of the Rings</a></i> được xuất bản ở Vương quốc Anh.</b>
+- <b><a href="2015.md" title="2015">2015</a> - <i><a href="../T/The_Art_of_The_Lord_of_the_Rings.md" title="The Art of The Lord of the Rings">Nghệ thuật của Chúa tể những chiếc nhẫn</a></i> được xuất bản ở Anh.</b>
 - **[2017](2017.md)** - *[Binding Them All](../B/Binding_Them_All.md)* được xuất bản.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - Với [Frodo](../F/Frodo_Baggins.md) bị thương nặng, [Strider](../A/Aragorn.md) và [bốn hobbit](../T/Travellers.md) di chuyển chậm về phía [Rivendell](../R/Rivendell.md).
-    - [Gandalf](../G/Gandalf.md) lao về phía [Rivendell](../R/Rivendell.md) sau khi [Kỵ sĩ Đen](../N/Nazgûl.md) tấn công anh ta vào [Weathertop](../W/Weathertop.md).
+    - Với [Frodo](../F/Frodo_Baggins.md) bị thương nặng, [Strider](../A/Aragorn.md) và [bốn hobbit](../T/Travellers.md) di chuyển chậm rãi về phía [Rivendell](../R/Rivendell.md).
+    - [Gandalf](../G/Gandalf.md) vội vã tiến về [Rivendell](../R/Rivendell.md) sau khi [Kỵ sĩ áo đen](../N/Nazgûl.md) tấn công ông ta trên [Weathertop](../W/Weathertop.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.

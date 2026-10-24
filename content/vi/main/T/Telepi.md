@@ -17,14 +17,14 @@ categories:
 
 ## Từ nguyên {#Etymology}
 
-Trong một lá thư, [Tolkien](../J/J.R.R._Tolkien.md) nêu rằng hình thức *telepi* bắt nguồn từ [Primitive Elvish](../P/Primitive_Elvish.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Kyelep%C4%93&amp;action=edit&amp;redlink=1" title="Kyelepē (page does not exist)">kyelepē</a></i>.<sup id="cite_ref-L347_1-1" class="reference"><a href="#cite_note-L347-1">[1]</a></sup>
+Trong một lá thư, [Tolkien](../J/J.R.R._Tolkien.md) đã nói rằng hình thức *telepi* bắt nguồn từ [Tiên nguyên thủy](../P/Primitive_Elvish.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Kyelep%C4%93&amp;action=edit&amp;redlink=1" title="Kyelepē (page does not exist)">kyelepē</a></i>.<sup id="cite_ref-L347_1-1" class="reference"><a href="#cite_note-L347-1">[1]</a></sup>
 
 [Christopher Tolkien](../C/Christopher_Tolkien.md) đã lưu ý rằng *telpe*, *telep-* xuất phát từ [gốc](../S/Sundocarme.md) [KYELEP](../K/KYELEP.md).<sup id="cite_ref-UT6e_2-2" class="reference"><a href="#cite_note-UT6e-2">[2]</a></sup>
 
 ## Có cùng nguồn gốc {#Cognates}
 
 - [Quenya](../Q/Quenya.md) *[tyelpe/telpe](Telpe.md)*
-- [Sindarin](../S/Sindarin.md) *[celeb](../C/Celeb.md)*
+- [Tiếng Sindarin](../S/Sindarin.md) *[celeb](../C/Celeb.md)*
 
 ## Hợp chất {#Compounds}
 

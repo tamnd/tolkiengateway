@@ -31,13 +31,13 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien đã nhận xét về [Thư 184](Letter_184.md), từ Sam Gamgee của <a class="extiw" href="http://en.wikipedia.org/wiki/Tooting" title="wikipedia:Tooting">Tooting</a>. Sau đó anh ấy nói rằng mặc dù Tooting nghe có vẻ giống [hobbit](../H/Hobbits.md) nhưng nó lại rất không giống Shire.
+Tolkien đã nhận xét về [Thư 184](Letter_184.md), từ Sam Gamgee của <a class="extiw" href="http://en.wikipedia.org/wiki/Tooting" title="wikipedia:Tooting">Tooting</a>. Sau đó ông nói rằng mặc dù Tooting nghe có vẻ giống [hobbit](../H/Hobbits.md) nhưng nó lại rất không giống Shire.
 
-Đoạn cuối thư bình luận về dự báo doanh thu bán sách của [Allen &amp; Unwin](../A/Allen_and_Unwin.md), một tin cực kỳ vui.
+Đoạn cuối thư bình luận về dự báo về doanh số bán sách của [Allen & Unwin](../A/Allen_and_Unwin.md), một tin cực kỳ tốt.
 
 ## Ghi chú {#Notes}
 
-Trong *[J.R.R. Tolkien: A Biography](../J/J.R.R._Tolkien%253A_A_Biography.md)*, trang 224-225, sự kiện Thư 184 cũng được đề cập. Tiếp theo là: "\[l\]sau đó anh ấy nói: 'Đã có lúc tôi sống trong nỗi sợ hãi khi nhận được một lá thư có chữ ký *S. Gollum*. Điều đó sẽ khó giải quyết hơn." Có khả năng đoạn văn này là từ bức thư này. <br>
+Trong *[J.R.R. Tolkien: A Biography](../J/J.R.R._Tolkien%253A_A_Biography.md)*, trang 224-225, sự kiện Thư 184 cũng được đề cập. Tiếp theo là: "\[l\]sau đó ông nói: 'Đã có lúc tôi sống trong nỗi sợ hãi khi nhận được một lá thư có chữ ký *S. Gollum*. Điều đó sẽ khó giải quyết hơn." Có khả năng đoạn văn này là từ bức thư này. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

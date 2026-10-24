@@ -14,11 +14,11 @@ categories:
   - "The Lord of the Rings: The Battle for Middle-earth (video game series)"
 ---
 
-**The Lord of the Rings: The Battle for Trung Địa Anthology** là một bộ hộp gồm ba trò chơi điện tử dành cho PC của [Electronic Arts](../E/Electronic_Arts.md). Bộ trò chơi này được phát hành vào [ngày 1 tháng 3](../_/1_March.md), [2007](../_/2007.md)và bao gồm các trò chơi sau:
+**Chúa tể của những chiếc nhẫn: Trận chiến cho tuyển tập Trung Địa** là một bộ hộp gồm ba trò chơi điện tử dành cho PC của [Electronic Arts](../E/Electronic_Arts.md). Bộ trò chơi này được phát hành vào [ngày 1 tháng 3](../_/1_March.md), [2007](../_/2007.md) và bao gồm các trò chơi sau:
 
-- [The Lord of the Rings:Trận chiến Trung Địa](../E/EA's_The_Battle_for_Middle-earth.md)
-- [The Lord of the Rings:Trận chiến vì Trung Địa II](../E/EA's_The_Battle_for_Middle-earth_II.md)
-- [The Lord of the Rings: Trận chiến Trung Địa II: Sự trỗi dậy của Vua Phù thủy](The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II%253A_The_Rise_of_the_Witch-king.md) (mở rộng)
+- [The Lord of the Rings:The Battle for Middle-earth](../E/EA's_The_Battle_for_Middle-earth.md)
+- [The Lord of the Rings:The Battle for Middle-earth II](../E/EA's_The_Battle_for_Middle-earth_II.md)
+- [The Lord of the Rings: The Battle for Middle-earth II: The Rise of the Witch-king](The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II%253A_The_Rise_of_the_Witch-king.md) (mở rộng)
 
 ## Liên kết ngoài {#External_links}
 

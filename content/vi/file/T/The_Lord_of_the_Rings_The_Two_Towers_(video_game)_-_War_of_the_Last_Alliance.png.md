@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Cuộc chiến của Liên minh Cuối cùng](../../main/W/War_of_the_Last_Alliance.md) trong [The Lord of the Rings: The Two Towers (trò chơi điện tử)](<../../main/T/The_Lord_of_the_Rings%253A_The_Two_Towers_(video_game).md>).
+[Cuộc chiến của Liên minh Cuối cùng](../../main/W/War_of_the_Last_Alliance.md) trong [The Lord of the Rings: The Two Towers (video game)](<../../main/T/The_Lord_of_the_Rings%253A_The_Two_Towers_(video_game).md>).
 
 ## Giấy phép {#Licensing}
 

@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"The [Hobbit](../../main/H/Hobbits.md) sa thải [Bilbo Ngôi nhà](../../main/B/Bag_End.md) I" của [Cor Blok](../../main/C/Cor_Blok.md), được tạo vào [ngày 14 tháng 4](../../main/_/14_April.md), [1960](../../main/_/1960.md).
+"The [Hobbit](../../main/H/Hobbits.md) sa thải [Bilbo's House](../../main/B/Bag_End.md) I" của [Cor Blok](../../main/C/Cor_Blok.md), được tạo vào [ngày 14 tháng 4](../../main/_/14_April.md), [1960](../../main/_/1960.md).
 
 ## Giấy phép {#Licensing}
 

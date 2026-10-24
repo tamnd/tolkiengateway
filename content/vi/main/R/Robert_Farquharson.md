@@ -18,9 +18,9 @@ sort_keys:
   "People by name": "Farquharson, Robert"
 ---
 
-**Robert Farquharson** ([6 tháng 11](../_/6_November.md), [1877](../_/1877.md) - [11 tháng 1](../_/11_January.md), [1966](../_/1966.md)) là một diễn viên sân khấu và đài phát thanh người Anh. Trong series radio [1955](../_/1955.md) *[The Lord of the Rings](<../T/The_Lord_of_the_Rings_(1955_radio_series).md>)*, anh ấy đã chơi [Saruman](../S/Saruman.md) và [Denethor](../D/Denethor.md).
+**Robert Farquharson** ([6 tháng 11](../_/6_November.md), [1877](../_/1877.md) - [11 tháng 1](../_/11_January.md), [1966](../_/1966.md)) là một diễn viên sân khấu và đài phát thanh người Anh. Trong loạt phim phát thanh [1955](../_/1955.md) *[The Lord of the Rings](<../T/The_Lord_of_the_Rings_(1955_radio_series).md>)*, ông đóng vai [Saruman](../S/Saruman.md) và [Denethor](../D/Denethor.md).
 
-Anh ấy là diễn viên lớn tuổi nhất ở độ tuổi từng đóng bất kỳ bộ phim chuyển thể nào từ các tác phẩm của [Tolkien](../J/J.R.R._Tolkien.md).
+Ông là diễn viên lớn tuổi nhất từng đóng bất kỳ bộ phim chuyển thể nào từ [tác phẩm của Tolkien](../J/J.R.R._Tolkien.md).
 
 ## Liên kết ngoài {#External_links}
 

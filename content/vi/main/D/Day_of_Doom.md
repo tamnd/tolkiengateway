@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ambar-metta"
 ---
 
-Chuyển hướng đến [Ambar-metta](../A/Ambar-metta.md).
+Chuyển hướng tới [Ambar-metta](../A/Ambar-metta.md).

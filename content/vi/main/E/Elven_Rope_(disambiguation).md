@@ -16,14 +16,14 @@ images:
 
 Thuật ngữ <i><b>dây thần tiên</b></i> có thể đề cập đến:
 
-## Trung Địa {#Middle-earth}
+## Trung địa {#Middle-earth}
 
-- <i><b><a href="Elven-rope.md" title="Elven-rope">Tiên-rope</a></b></i>, một sợi dây được tạo ra bởi [Tiên tộc](Elves.md) của [Lothlórien](../L/Lothlórien.md).
+- <i><b><a href="Elven-rope.md" title="Elven-rope">Dây yêu tinh</a></b></i>, một sợi dây được tạo ra bởi [Yêu tinh](Elves.md) của [Lothlórien](../L/Lothlórien.md).
 
 ## Các bản chuyển thể {#Adaptations}
 
-- **[Tiên Rope (cảnh)](<Elven_Rope_(scene).md>)**, cảnh thứ hai của [*The Lord of the Rings: The Two Towers* (phiên bản mở rộng)](<../T/The_Lord_of_the_Rings%253A_The_Two_Towers_(extended_edition).md>).
-- **[Tiên Rope (nhạc phim)](<Elven_Rope_(soundtrack).md>)**, bài hát thứ hai trong đĩa một trong *[The Lord of the Rings: The Two Towers - The Complete Recordings](../T/The_Lord_of_the_Rings%253A_The_Two_Towers_-_The_Complete_Recordings.md)* của [Howard Shore](../H/Howard_Shore.md).
+- **[Dây thừng yêu tinh (cảnh)](<Elven_Rope_(scene).md>)**, cảnh thứ hai của [*The Lord of the Rings: The Two Towers* (extended edition)](<../T/The_Lord_of_the_Rings%253A_The_Two_Towers_(extended_edition).md>).
+- **[Elven Rope (nhạc phim)](<Elven_Rope_(soundtrack).md>)**, bài hát thứ hai trong đĩa một trong *[The Lord of the Rings: The Two Towers - The Complete Recordings](../T/The_Lord_of_the_Rings%253A_The_Two_Towers_-_The_Complete_Recordings.md)* của [Howard Shore](../H/Howard_Shore.md).
 
 <hr style="margin-top:15px;"/>
 

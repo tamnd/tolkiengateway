@@ -13,7 +13,7 @@ categories:
   - "Quenya verbs"
 ---
 
-<i><b>savin</b></i> là [Quenya](../Q/Quenya.md) nghĩa là "Tôi tin" (ám chỉ sự tồn tại hoặc thực tế của một điều gì đó).
+<i><b>savin</b></i> là [Quenya](../Q/Quenya.md) có nghĩa là "Tôi tin" (ám chỉ sự tồn tại hoặc thực tế của một điều gì đó).
 
 ## Từ nguyên {#Etymology}
 
@@ -21,7 +21,7 @@ categories:
 
 ## Biểu mẫu {#Forms}
 
-- *savin* "Tôi tin rằng anh ấy/cô ấy/nó thực sự tồn tại/tồn tại"<sup id="cite_ref-VT49_1-1" class="reference"><a href="#cite_note-VT49-1">[1]</a></sup>
+- *savin* "Tôi tin rằng ông/bà/nó thực sự tồn tại/tồn tại"<sup id="cite_ref-VT49_1-1" class="reference"><a href="#cite_note-VT49-1">[1]</a></sup>
 
 ## Ví dụ {#Examples}
 

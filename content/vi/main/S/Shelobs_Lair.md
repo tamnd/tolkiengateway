@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Shelob's Lair"
 ---
 
-Chuyển hướng đến [Hang ổ của Shelob](Shelob's_Lair.md).
+Chuyển hướng đến [Shelob's Lair](Shelob's_Lair.md).

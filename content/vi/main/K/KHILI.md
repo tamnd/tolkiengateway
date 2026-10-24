@@ -12,7 +12,7 @@ categories:
   - "Roots"
 ---
 
-**KHILI**, cũng xuất hiện dưới dạng **KHIL**, là [Primitive Quendian](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) biểu thị "đi theo; đi theo phía sau".<sup id="cite_ref-WJ_1-0" class="reference"><a href="#cite_note-WJ-1">[1]</a></sup><sup id="cite_ref-PE17_2-0" class="reference"><a href="#cite_note-PE17-2">[2]</a></sup>
+**KHILI**, cũng xuất hiện dưới dạng **KHIL**, là [Quendian nguyên thủy](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) biểu thị "đi theo; đi theo phía sau".<sup id="cite_ref-WJ_1-0" class="reference"><a href="#cite_note-WJ-1">[1]</a></sup><sup id="cite_ref-PE17_2-0" class="reference"><a href="#cite_note-PE17-2">[2]</a></sup>
 
 ## Công cụ phái sinh {#Derivatives}
 
@@ -26,7 +26,7 @@ categories:
 
 Trong [*Etymologies*](../T/The_Etymologies.md) xuất hiện gốc KHIL-, biểu thị "theo dõi". Từ gốc này suy ra:<sup id="cite_ref-LR_3-0" class="reference"><a href="#cite_note-LR-3">[3]</a></sup>
 
-- [Quenya](../Q/Quenya.md): *hilya-* ("đi theo"; *[hildi](../H/Hildor.md)* ("người đi theo = phàm nhân"), *-hildi* (làm hậu tố)
+- [Quenya](../Q/Quenya.md): *hilya-* ("đi theo"; *[hildi](../H/Hildor.md)* ("người đi theo = người phàm"), *-hildi* (làm hậu tố)
 
 ## Xem thêm {#See_also}
 

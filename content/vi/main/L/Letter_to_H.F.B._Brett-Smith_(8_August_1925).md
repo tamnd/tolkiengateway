@@ -18,7 +18,7 @@ sort_keys:
 Vào [8 tháng 8](../_/8_August.md) [1925](../_/1925.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) gửi** H.F.B. Brett-Smith<b>.<sup id="cite_ref-wheaton_1-0" class="reference"><a href="#cite_note-wheaton-1">[1]</a></sup></b>
 
 - **Mô tả:** Thư viết tay, 2 trang.
-- **Chủ đề:** Tolkien đang thảo luận về học thuật tại Đại học Leeds và thơ của Tolkien.
+- **Chủ đề:** Tolkien đang thảo luận về giới học thuật tại Đại học Leeds và thơ của Tolkien.
 - **Xuất bản:** Một đoạn trích đã được xuất bản trong <a class="new" href="https://tolkiengateway.net/w/index.php?title=Catalogue_37:_Books_from_a_Private_Library_(with_Additions)&amp;action=edit&amp;redlink=1" title="Catalogue 37: Books from a Private Library (with Additions) (page does not exist)">Danh mục 37: Sách từ Thư viện Tư nhân (có bổ sung)</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 - **Lưu trữ:** Bức thư gốc được lưu giữ tại Trung tâm E. Wade The Marion.<sup id="cite_ref-wheaton_1-1" class="reference"><a href="#cite_note-wheaton-1">[1]</a></sup>
 

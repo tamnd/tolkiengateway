@@ -65,35 +65,35 @@ langlinks:
 <li><a href="../O/Of_the_Rings_of_Power_and_the_Third_Age.md" title="Of the Rings of Power and the Third Age">Of the Rings of Power</a></li></ol>
 </td></tr></tbody></table>
 
-<b><i>Valaquenta</i>: Tài khoản của Valar và Maiar theo truyền thuyết của Eldar</b> là phần thứ hai của *[The Silmarillion](../T/The_Silmarillion.md)*, do [Christopher Tolkien](../C/Christopher_Tolkien.md) biên tập từ [các văn bản sau này của cha ông](../T/Tolkien.md).
+<b><i>Valaquenta</i>: Lời kể của Valar và Maiar theo truyền thuyết về Eldar</b> là phần thứ hai của *[The Silmarillion](../T/The_Silmarillion.md)*, được biên tập bởi [Christopher Tolkien](../C/Christopher_Tolkien.md) từ các văn bản sau này của [cha anh](../T/Tolkien.md).
 
-Mặc dù văn bản trình bày kiến ​​thức về Ainur được bắt nguồn từ [Eldar](../E/Eldar.md) nhưng nó không được viết theo quan điểm trực tiếp của chính họ. Ngoài ra còn có một số tài liệu tham khảo nằm ngoài ngữ cảnh, chẳng hạn như [người Númenor](../N/Númenóreans.md), cho biết văn bản được viết trong hoặc sau [Thời thứ hai](../S/Second_Age.md).
+Mặc dù văn bản trình bày kiến ​​thức về người Ainur có nguồn gốc từ [Eldar](../E/Eldar.md) nhưng nó không được viết theo quan điểm trực tiếp của họ. Ngoài ra còn có một số tài liệu tham khảo nằm ngoài ngữ cảnh, chẳng hạn như [Númenóreans](../N/Númenóreans.md), cho biết rằng văn bản được viết trong hoặc sau [Thời đại thứ hai](../S/Second_Age.md).
 
 ## Tóm tắt {#Synopsis}
 
-### Của Valar {#Of_the_Valar}
+### của Valar {#Of_the_Valar}
 
-*Valar* ("Quyền lực của Arda") là tên được đặt cho tù trưởng [Ainur](../A/Ainur.md) sau khi họ chuyển xuống [Arda](../A/Arda.md). Ainur là những linh hồn thiên thần được tạo ra bởi vị thần tối cao, [Ilúvatar](../I/Ilúvatar.md). Kẻ mạnh nhất trong [Valar](Valar.md) là [Melkor](../M/Morgoth.md), kẻ đã trở nên tham nhũng và không còn tuân theo ý muốn của Ilúvatar. Mười bốn Valar còn lại tiếp tục theo ý muốn của Ilúvatar.
+*Valar* ("Sức mạnh của Arda") là tên được đặt cho tù trưởng [Ainur](../A/Ainur.md) sau khi họ xuống [Arda](../A/Arda.md). Người Ainur là những linh hồn thiên thần được tạo ra bởi vị thần tối cao, [Ilúvatar](../I/Ilúvatar.md). Người mạnh nhất trong [Valar](Valar.md) là [Melkor](../M/Morgoth.md), người đã trở nên tham nhũng và không còn tuân theo ý muốn của Ilúvatar. Mười bốn Valar còn lại tiếp tục theo ý muốn của Ilúvatar.
 
-Ainur có hình dạng nam hoặc nữ, một số là cặp đôi, trong khi một số là anh em ruột trong tâm trí Ilúvatar. Như vậy, có bảy nam Valar và bảy nữ (*[Valier](Valier.md)*). Trong số mười bốn người, tám người có sức mạnh lớn nhất (được gọi là [Aratar](../A/Aratar.md)) chịu trách nhiệm về một số thuộc tính của cuộc sống ở [Arda](../A/Arda.md) (ví dụ: thủ công, khai thác mỏ, nông nghiệp, v.v.). Vua của Valar và của tất cả [Arda](../A/Arda.md) là [Manwë](../M/Manwë.md).
+Người Ainur có hình dạng nam hoặc nữ, một số là cặp đôi, trong khi một số là anh em ruột trong tâm trí Ilúvatar. Như vậy, có bảy Valar nam và bảy nữ (*[Valier](Valier.md)*). Trong số mười bốn người, tám người có sức mạnh lớn nhất (được gọi là [Aratar](../A/Aratar.md)) chịu trách nhiệm về một số thuộc tính của cuộc sống ở [Arda](../A/Arda.md) (ví dụ: thủ công, khai thác mỏ, nông nghiệp, v.v.). Vua của các Valar và của tất cả [Arda](../A/Arda.md) là [Manwë](../M/Manwë.md).
 
 ### Của Maiar {#Of_the_Maiar}
 
-Khi xuống Arda, Valar, theo sau là Ainur có sức mạnh thấp hơn, [Maiar](../M/Maiar.md), là đối tượng, sinh viên và trợ lý của họ trong việc quản lý Arda. Valar có khả năng thay đổi hình dáng bên ngoài hoặc không có hình dạng nào cả.
+Trên đường đến Arda, các Valar, theo sau là Ainur có sức mạnh thấp hơn, [Maiar](../M/Maiar.md), là thần dân, học trò và trợ lý của họ trong việc cai trị Arda. Các Valar có khả năng thay đổi ngoại hình hoặc không có hình dạng nào cả.
 
 ### Của Kẻ Thù {#Of_the_Enemies}
 
-Trong số những kẻ thù có Melkor, [Sauron](../S/Sauron.md) và [Balrog](../B/Balrogs.md), những linh hồn bị anh ta dụ dỗ và rơi vào hận thù.
+Trong số những kẻ thù có Melkor, [Sauron](../S/Sauron.md) và [Balrogs](../B/Balrogs.md), những linh hồn bị ông ta dụ dỗ và trở nên căm thù.
 
 ## Từ nguyên {#Etymology}
 
-*Valaquenta* là [Quenya](../Q/Quenya.md) dành cho "Tài khoản của Valar", từ gốc *[Vala](Valar.md)* ("quyền hạn")<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và *[quenta](../Q/Quenta.md)* ("câu chuyện, tài khoản").<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup>
+*Valaquenta* là [Quenya](../Q/Quenya.md) có nghĩa là "Tài khoản của các Valar", từ gốc *[Vala](Valar.md)* ("sức mạnh")<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và *[quenta](../Q/Quenta.md)* ("câu chuyện, tài khoản").<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup>
 
 ## Lịch sử sáng tác {#History_of_composition}
 
-Mặc dù các mô tả tuần tự của Valar có từ *[The Book of Lost Tales Part One](../T/The_Book_of_Lost_Tales_Part_One.md)*, văn bản sớm nhất giống với Valaquenta được tìm thấy trong văn bản có tên *[Quenta Noldorinwa](../Q/Quenta_Noldorinwa.md)*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Sau đó nó trở thành Chương 1 của *[Quenta Silmarillion](../Q/Quenta_Silmarillion.md)* (có tựa đề *Of the Valar*). Trong các bản sửa đổi của Quenta Silmarillion được thực hiện vào năm 1958, phần này đã được tách thành một tác phẩm có tiêu đề riêng.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Không có gì cho thấy tại sao Tolkien cảm thấy rằng phần này nên đứng riêng lẻ. Mặc dù đây không phải là một câu chuyện tường thuật, nhưng chương *[Of Beleriand and its Realms](../O/Of_Beleriand_and_its_Realms~31103.md)* cũng vậy, và Tolkien dường như chưa bao giờ cân nhắc việc loại bỏ phần đó.
+Mặc dù các mô tả tuần tự về Valar có từ *[The Book of Lost Tales Part One](../T/The_Book_of_Lost_Tales_Part_One.md)*, văn bản sớm nhất giống với Valaquenta được tìm thấy trong văn bản có tên *[Quenta Noldorinwa](../Q/Quenta_Noldorinwa.md)*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Sau đó nó trở thành Chương 1 của *[Quenta Silmarillion](../Q/Quenta_Silmarillion.md)* (có tiêu đề *Of the Valar*). Trong các bản sửa đổi của Quenta Silmarillion được thực hiện vào năm 1958, phần này đã được tách thành một tác phẩm có tiêu đề riêng.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Không có gì cho thấy tại sao Tolkien lại cảm thấy rằng tác phẩm này nên đứng một mình. Mặc dù đây không phải là một câu chuyện kể, nhưng chương *[Of Beleriand and its Realms](../O/Of_Beleriand_and_its_Realms~31103.md)* cũng vậy, và Tolkien dường như chưa bao giờ cân nhắc việc loại bỏ phần đó.
 
-Trong [huyền thoại](../L/Legendarium.md), giả định rằng *Valaquenta* được bảo tồn qua *[Translations from the Elvish](../T/Translations_from_the_Elvish.md)* bởi [Bilbo Baggins](../B/Bilbo_Baggins.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Trong [huyền thoại](../L/Legendarium.md), người ta cho rằng *Valaquenta* được bảo tồn thông qua *[Translations from the Elvish](../T/Translations_from_the_Elvish.md)* bởi [Bilbo Baggins](../B/Bilbo_Baggins.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 <span></span>
 

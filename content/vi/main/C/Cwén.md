@@ -39,7 +39,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Cwén kết hôn Eriol (khi đó được gọi là *Ottor*) sau khi định cư trên đảo <a class="extiw" href="http://en.wikipedia.org/wiki/Heligoland" title="wikipedia:Heligoland">Heligoland</a> ở <a class="extiw" href="http://en.wikipedia.org/wiki/North_Sea" title="wikipedia:North Sea">Bắc Biển</a>, ở [Great Lands](../G/Great_Lands.md).
+Cwén kết hôn với Eriol (khi đó được gọi là *Ottor*) sau khi anh định cư trên đảo <a class="extiw" href="http://en.wikipedia.org/wiki/Heligoland" title="wikipedia:Heligoland">Heligoland</a> ở <a class="extiw" href="http://en.wikipedia.org/wiki/North_Sea" title="wikipedia:North Sea">Biển Bắc</a>, ở [Great Lands](../G/Great_Lands.md).
 
 Cùng nhau, họ có hai người con trai tên là [Hengest](../H/Hengest.md) và [Horsa](../H/Horsa.md), được đặt tên như vậy để vinh danh ông nội [Eoh](../E/Eoh.md) (vì các tên này có cùng ý nghĩa).
 
@@ -47,7 +47,7 @@ Một thời gian sau, khi Hengest và Horsa vẫn còn nhỏ, Cwén qua đời,
 
 ## Từ nguyên {#Etymology}
 
-Tên *Cwén* trong [tiếng Anh cổ](../O/Old_English.md)có nghĩa là "người phụ nữ, người vợ".<sup id="cite_ref-Cwe_1-3" class="reference"><a href="#cite_note-Cwe-1">[1]</a></sup>
+Tên *Cwén* trong [tiếng Anh cổ](../O/Old_English.md), có nghĩa là "người phụ nữ, người vợ".<sup id="cite_ref-Cwe_1-3" class="reference"><a href="#cite_note-Cwe-1">[1]</a></sup>
 
 ## Phả hệ {#Genealogy}
 
@@ -64,7 +64,7 @@ Tên *Cwén* trong [tiếng Anh cổ](../O/Old_English.md)có nghĩa là "ngư�
 <tr align="center"><td class="tg-familytree-member" colspan="6" rowspan="2" style=""><a href="../H/Hengest.md" title="Hengest">Hengest</a><br/><small><i>fl. <a class="extiw" href="http://en.wikipedia.org/wiki/5th_century" title="wikipedia:5th century">5th century</a></i></small></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td class="tg-familytree-member" colspan="6" rowspan="2" style=""><a class="mw-redirect" href="../H/Horsa.md" title="Horsa">Horsa</a><br/><small><i>fl. <a class="extiw" href="http://en.wikipedia.org/wiki/5th_century" title="wikipedia:5th century">5th century</a></i></small></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td class="tg-familytree-member" colspan="6" rowspan="2" style=""><a href="../H/Heorrenda.md" title="Heorrenda">Heorrenda</a><br/><small><i>fl. <a class="extiw" href="http://en.wikipedia.org/wiki/5th_century" title="wikipedia:5th century">5th century</a></i></small></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td class="tg-familytree-member" colspan="6" rowspan="2" style=""><a href="../H/Hendwine.md" title="Hendwine">Hendwine</a>*<br/><small><i>fl. <a class="extiw" href="http://en.wikipedia.org/wiki/5th_century" title="wikipedia:5th century">5th century</a></i></small></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td></tr><tr align="center"></tr>
 </tbody></table></div>
 
-\* Tên mẹ của Hendwine không phải là Naimi mà là *[Nelmir](../N/Nelmir.md)* trong văn bản làm cơ sở cho việc đưa anh ta vào - mối quan hệ của bà với [Lindo](../L/Lindo.md) và [Vairë](<../V/Vairë_(wife_of_Lindo).md>) cũng không được trình bày chi tiết.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+\* Tên mẹ của Hendwine không phải là Naimi mà là *[Nelmir](../N/Nelmir.md)* trong văn bản làm cơ sở cho việc đưa ông ta vào - mối quan hệ của bà với [Lindo](../L/Lindo.md) và [Vairë](<../V/Vairë_(wife_of_Lindo).md>) cũng không được trình bày chi tiết.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

@@ -32,7 +32,7 @@ infobox:
 
 **Mythcon 16** là hội nghị [Hiệp hội thần thoại](Mythopoeic_Society.md) thường niên lần thứ mười sáu.
 
-- **Chủ đề:** "Mối quan hệ họ hàng của các vũ công: Tương tác trong cuộc sống và tác phẩm của [Lewis](../C/C.S._Lewis.md), [Tolkien](../J/J.R.R._Tolkien.md)và [Williams](../C/Charles_Williams.md)"
+- **Chủ đề:** "Mối quan hệ họ hàng của các vũ công: Tương tác trong cuộc sống và tác phẩm của [Lewis](../C/C.S._Lewis.md), [Tolkien](../J/J.R.R._Tolkien.md) và [Williams](../C/Charles_Williams.md)"
 - **Khách mời danh dự:** Patricia A. McKillip (tác giả truyện giả tưởng) và Peter Schakel (học giả Lewis)
 - **Chủ tịch:** Diana Lynne Pavlac
 

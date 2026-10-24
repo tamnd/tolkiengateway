@@ -42,22 +42,22 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Translating_Tolkien_-_Text_and_Film.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b3/Translating_Tolkien_-_Text_and_Film.jpg/320px-Translating_Tolkien_-_Text_and_Film.jpg" decoding="async" loading="lazy" width="320" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/b/b3/Translating_Tolkien_-_Text_and_Film.jpg 1.5x" data-file-width="333" data-file-height="500"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Translating Tolkien: Text and Film</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="Thomas_M._Honegger.md" title="Thomas M. Honegger">Thomas M. Honegger</a> (editor)</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../W/Walking_Tree_Publishers.md" title="Walking Tree Publishers">Walking Tree Publishers</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">July <a href="../_/2004.md" title="2004">2004</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">243</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/3952142492" title="Special:BookSources/3952142492">3952142492</a></td></tr><tr><th scope="row" class="tg-infobox-label">Series</th><td class="tg-infobox-data"><a href="../C/Cormarë_Series.md" title="Cormarë Series">Cormarë Series</a></td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Tolkien_Through_Russian_Eyes.md" title="Tolkien Through Russian Eyes">Tolkien Through Russian Eyes</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="../R/Recovery_and_Transcendence_for_the_Contemporary_Mythmaker.md" title="Recovery and Transcendence for the Contemporary Mythmaker">Recovery and Transcendence for the Contemporary Mythmaker</a></td></tr></tbody></table>
 
-<i><b>Dịch Tolkien: Văn bản và Phim</b></i> là cuốn sách thứ sáu trong bộ *[Cormarë Series](../C/Cormarë_Series.md)*của Cây Đi Bộ. Đó là một tập hợp của một số bài tiểu luận.
+<i><b>Dịch Tolkien: Văn bản và Phim</b></i> là cuốn sách thứ sáu trong bộ *[Cormarë Series](../C/Cormarë_Series.md)* của Walking Tree. Đó là một tập hợp của một số bài tiểu luận.
 
 ## Nội dung {#Contents}
 
-- [Thomas M. Honegger](Thomas_M._Honegger.md): " Westron đã trở thành tiếng Anh hiện đại: Người dịch và Web ngôn ngữ của Tolkien"
+- [Thomas M. Honegger](Thomas_M._Honegger.md): "Tiếng Tây phương chuyển sang tiếng Anh hiện đại: Người phiên dịch và trang web ngôn ngữ của Tolkien"
 - [Rainer Nagel](../R/Rainer_Nagel.md): "'Kẻ mới muốn đồng hóa người ngoài hành tinh.' Các cách giải thích khác nhau về văn bản nguồn là nguyên nhân gây tranh cãi: Bản dịch tiếng Đức 'Cũ' và 'Mới' của *[The Lord of the Rings](The_Lord_of_the_Rings.md)*"
 - Danny Orbach: "Tranh cãi về bản dịch tiếng Israel - Chuyện gì và đi đâu?"
 - [Richard Sturch](../R/Richard_Sturch.md): "Estne Tolkien Latine Reddendus? Một cái nhìn nhẹ nhàng về một số thách thức"
-- [Mark T. Hooker](../M/Mark_T._Hooker.md): "Tiếng Hà Lan Samizdat: Bản dịch Mensink-van Warmelo của The Lord of the Rings".
-- [Rainer Nagel](../R/Rainer_Nagel.md): "Việc xử lý tên riêng trong (các) ấn bản tiếng Đức của The Lord of the Rings như một ví dụ về các chuẩn mực trong thực hành dịch thuật"
+- [Mark T. Hooker](../M/Mark_T._Hooker.md): "Tiếng Hà Lan Samizdat: Bản dịch của Mensink-van Warmelo về Chúa tể của những chiếc nhẫn".
+- [Rainer Nagel](../R/Rainer_Nagel.md): "Việc xử lý tên riêng trong (các) ấn bản tiếng Đức của Chúa tể những chiếc nhẫn như một ví dụ về các chuẩn mực trong thực hành dịch thuật"
 - [Anders Stenström](../A/Anders_Stenström.md): "Tolkien trong bản dịch tiếng Thụy Điển: từ *Hompen* đến *Ringarnas herre*"
-- [Vincent Ferré](../V/Vincent_Ferré.md): "Tolkien, Thẩm phán của chúng tôi Peter Jackson"
-- [Anthony S. Burdge](../A/Anthony_Burdge.md) và <a class="new" href="https://tolkiengateway.net/w/index.php?title=Jessica_Burke&amp;action=edit&amp;redlink=1" title="Jessica Burke (page does not exist)">Jessica Burke</a>: "Những anh hùng bị sỉ nhục: Peter Jackson diễn giải về The Lord of the Rings"
-- Øystein Høgset: "Sự chuyển thể của The Lord of the Rings Một bình luận phê bình"
-- [James Dunning](../J/James_Dunning.md): "Giáo sư và Giám đốc và Thiện vs. Ác trong Trung Địa"
-- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Alexandra_Velten&amp;action=edit&amp;redlink=1" title="Alexandra Velten (page does not exist)">Alexandra Velten</a>: "Lời nhạc phim Chúa tể những chiếc nhẫn của Peter Jackson- 'Bản dịch' hợp pháp của Tolkien?"
+- [Vincent Ferré](../V/Vincent_Ferré.md): "Tolkien, Thẩm phán của chúng tôi về Peter Jackson"
+- [Anthony S. Burdge](../A/Anthony_Burdge.md) và <a class="new" href="https://tolkiengateway.net/w/index.php?title=Jessica_Burke&amp;action=edit&amp;redlink=1" title="Jessica Burke (page does not exist)">Jessica Burke</a>: "Những anh hùng bị sỉ nhục: Cách giải thích của Peter Jackson về Chúa tể của những chiếc nhẫn"
+- Øystein Høgset: "Chuyển thể Chúa tể của những chiếc nhẫn Một nhận xét phê phán"
+- [James Dunning](../J/James_Dunning.md): "Giáo sư và Giám đốc và Thiện và Ác ở Trung Địa"
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Alexandra_Velten&amp;action=edit&amp;redlink=1" title="Alexandra Velten (page does not exist)">Alexandra Velten</a>: "Lời nhạc phim Chúa tể những chiếc nhẫn của Peter Jackson - 'Bản dịch' hợp pháp của Tolkien?"
 
 ## Liên kết ngoài {#External_links}
 

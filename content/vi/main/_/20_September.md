@@ -61,7 +61,7 @@ images:
 </div><div class="template-month__footer"><div class="tg-button"><a href="../J/January.md" title="January">Jan</a></div><div class="tg-button"><a href="../F/February.md" title="February">Feb</a></div><div class="tg-button"><a href="../M/March.md" title="March">Mar</a></div><div class="tg-button"><a href="../A/April.md" title="April">Apr</a></div><div class="tg-button"><a href="../M/May.md" title="May">May</a></div><div class="tg-button"><a href="../J/June.md" title="June">Jun</a></div><div class="tg-button"><a href="../J/July.md" title="July">Jul</a></div><div class="tg-button"><a href="../A/August.md" title="August">Aug</a></div><div class="tg-button"><a href="../S/September.md" title="September">Sep</a></div><div class="tg-button"><a href="../O/October.md" title="October">Oct</a></div><div class="tg-button"><a href="../N/November.md" title="November">Nov</a></div><div class="tg-button"><a href="../D/December.md" title="December">Dec</a></div></div>
 </div>
 
-Sự kiện xảy ra vào ngày 20 tháng Chín.
+Sự kiện xảy ra vào ngày 20 tháng 9
 
 ## Trên Trái đất {#On_Earth}
 
@@ -72,19 +72,19 @@ Sự kiện xảy ra vào ngày 20 tháng Chín.
 - **[1962](1962.md)** – Họa sĩ truyện tranh [Bill Amend](../B/Bill_Amend.md) ra đời.
 - **[1963](1963.md)** – [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 247](../L/Letter_247.md).
 - <b><a href="1982.md" title="1982">1982</a> – <i><a href="../M/Mr._Bliss.md" title="Mr. Bliss">Mr. Bliss</a></i> được xuất bản ở Anh.</b>
-- **[1986](1986.md)** – [Oxonmoot 1986](../O/Oxonmoot_1986.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Oxford_Town_Hall" title="wikipedia:Oxford Town Hall">Oxford Tòa thị chính</a>.
+- **[1986](1986.md)** – [Oxonmoot 1986](../O/Oxonmoot_1986.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Oxford_Town_Hall" title="wikipedia:Oxford Town Hall">Tòa thị chính Oxford</a>.
 - **[1991](1991.md)** – [Oxonmoot 1991](../O/Oxonmoot_1991.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/University_College,_Oxford" title="wikipedia:University College, Oxford">Đại học Cao đẳng</a>.
 - **[1992](1992.md)** – Bản chuyển thể [radio năm 1992](<../T/Tales_from_the_Perilous_Realm_(1992_radio_series).md>) của *[Leaf by Niggle](../L/Leaf_by_Niggle.md)* được phát sóng trên [BBC Radio 5](../B/BBC.md).
 - **[1996](1996.md)** – [Oxonmoot 1996](../O/Oxonmoot_1996.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/University_College,_Oxford" title="wikipedia:University College, Oxford">Đại học Cao đẳng</a>.
 - **[1997](1997.md)** – [Oxonmoot 1997](../O/Oxonmoot_1997.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Exeter_College,_Oxford" title="wikipedia:Exeter College, Oxford">Exeter College</a>.
 - **[2003](2003.md)** – [Oxonmoot 2003](../O/Oxonmoot_2003.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/St_Hugh%27s_College,_Oxford" title="wikipedia:St Hugh&#39;s College, Oxford">Đại học St Hugh</a>.
 - **[2013](2013.md)** – [Oxonmoot 2013](../O/Oxonmoot_2013.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Lady_Margaret_Hall,_Oxford" title="wikipedia:Lady Margaret Hall, Oxford">Lady Margaret Hall</a>.
-- **[2018](2018.md)** - [Oxonmoot 2018](../O/Oxonmoot_2018.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/St_Antony%27s_College,_Oxford" title="wikipedia:St Antony&#39;s College, Oxford">Trường Cao đẳng St Antony</a>.
+- **[2018](2018.md)** - [Oxonmoot 2018](../O/Oxonmoot_2018.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/St_Antony%27s_College,_Oxford" title="wikipedia:St Antony&#39;s College, Oxford">Đại học St Antony</a>.
 - **[2020](2020.md)** - [Oxonmoot 2020](../O/Oxonmoot_2020.md) được tổ chức trực tuyến do <a class="extiw" href="http://en.wikipedia.org/wiki/COVID-19_pandemic" title="wikipedia:COVID-19 pandemic">đại dịch Covid-19</a>.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Gandalf](../G/Gandalf.md) giành được quyền truy cập vào [Edoras](../E/Edoras.md) và cảnh báo họ về [Saruman](../S/Saruman.md). [Théoden](../T/Théoden.md) bảo anh ta 'Hãy cưỡi ngựa đi, chỉ cần đi trước khi ngày mai già!'.
-    - Hai chiếc xe đẩy có mái che khởi hành [Bag End](../B/Bag_End.md) đến ngôi nhà mới của [Frodo](../F/Frodo_Baggins.md) ở [Crickhollow](../C/Crickhollow.md). Họ vận chuyển đồ nội thất và hàng hóa mà Frodo chưa bán được qua [Cầu Brandywine](../B/Brandywine_Bridge.md).
+    - [Gandalf](../G/Gandalf.md) vào được [Edoras](../E/Edoras.md) và cảnh báo họ về [Saruman](../S/Saruman.md). [Théoden](../T/Théoden.md) bảo ông ta 'Hãy cưỡi ngựa đi, chỉ cần đi trước khi ngày mai già!'.
+    - Hai chiếc xe đẩy có mái che khởi hành [Bag End](../B/Bag_End.md) đến ngôi nhà mới của [Frodo](../F/Frodo_Baggins.md) ở [Crickhollow](../C/Crickhollow.md). Họ vận chuyển đồ nội thất và hàng hóa mà Frodo chưa bán qua [Cầu Brandywine](../B/Brandywine_Bridge.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.

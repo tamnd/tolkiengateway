@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Imrahil"
 ---
 
-Chuyển hướng đến [Imrahil](../I/Imrahil.md).
+Chuyển hướng tới [Imrahil](../I/Imrahil.md).

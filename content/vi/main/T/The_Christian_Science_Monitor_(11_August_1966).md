@@ -28,7 +28,7 @@ infobox:
 
 <b><i>The Christian Science Monitor</i> (11 tháng 8 năm 1966)</b> là số của tờ báo <i><a class="extiw" href="http://en.wikipedia.org/wiki/The_Christian_Science_Monitor" title="wikipedia:The Christian Science Monitor">The Christian Science Monitor</a></i>.
 
-Bài viết "Tolkien về Tolkien: Tạo nên huyền thoại" của [Daphne Castell](../D/Daphne_Castell.md) (xem trang 11) bao gồm các đoạn trích từ [cuộc phỏng vấn](../../index/I/Interviews_with_J.R.R._Tolkien.md) với [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Bài viết "Tolkien on Tolkien: Making of a Myth" của [Daphne Castell](../D/Daphne_Castell.md) (xem trang 11) có trích đoạn từ [cuộc phỏng vấn](../../index/I/Interviews_with_J.R.R._Tolkien.md) với [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

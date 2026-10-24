@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Great Journey"
 ---
 
-Chuyển hướng đến [Đại Hành Trình](../G/Great_Journey.md).
+Chuyển hướng đến [Hành trình vĩ đại](../G/Great_Journey.md).

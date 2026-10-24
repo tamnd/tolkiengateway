@@ -39,40 +39,40 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mythlore_23.gif.md"><img src="https://tolkiengateway.net/w/images/a/a2/Mythlore_23.gif" decoding="async" loading="lazy" width="225" height="291" class="mw-file-element" data-file-width="225" data-file-height="291"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mythlore 23</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Gracia Fay Ellwood</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Winter <a href="../_/1982.md" title="1982">1982</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">47</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mythlore_22.md" title="Mythlore 22">Mythlore 22</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mythlore_24.md" title="Mythlore 24">Mythlore 24</a></td></tr></tbody></table>
 
-<b><i>Mythlore</i> 23</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol7/iss1/" rel="noreferrer noopener" target="_blank">Tập 7, Số 1</a>) là số của tạp chí [Mythlore](Mythlore.md), do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
+<b><i>Thần thoại</i> 23</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol7/iss1/" rel="noreferrer noopener" target="_blank">Tập 7, Số 1</a>) là số của tạp chí [Mythlore](Mythlore.md), do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
 
 ## Nội dung {#Contents}
 
 #### Bài viết {#Articles}
 
-- Marchesani, Diane. "Truyền thuyết củaTolkien: Những bài hát của Trung Địa." 3-5.
-- Chết tiệt, David. "Hình dáng của Taliessin." 6-13.
-- Neuleib, Janice. "Giả kim thuật của tình yêu: Jane trong sức mạnh gớm ghiếc đó." 16-17, 19.
-- Howard, Thomas. “Việc sử dụng thần thoại.” 20-23, 35.
-- Sammons, Martha C. "Các học thuyết Cơ đốc giáo 'Chuyển đổi' trong C.S. Lewis' cho đến khi chúng ta có khuôn mặt." 31-35.
+- Marchesani, Diane. "Tolkien's Lore: The Songs of Middle-Earth." 3-5.
+- Dowdy, David. "The Figure of Taliessin." 6-13.
+- Neuleib, Janice. "Love's Alchemy: Jane in That Hideous Strength." 16-17, 19.
+- Howard, Thomas. "The Uses of Myth." 20-23, 35.
+- Sammons, Martha C. "Christian Doctrines 'Transposed' in C.S. Lewis' Till We Have Faces." 31-35.
 
 #### Tính năng {#Features}
 
-- Speth, Lee. “Điều trị ung dung: Câu hỏi về hương vị.” Đánh giá *The Life of Brian* (phim). Hooper, Walter. *They Stand Together*. 14-15.
+- Speth, Lee. "Cavalier Treatment: Questions of Taste." Review of *The Life of Brian* (movie). Hooper, Walter. *They Stand Together*. 14-15.
 - Smith, Christine. Báo cáo Mythcon. 15.
 - Ellwood, Gracia Fay. Biên tập. 18+.
 - Thư. 36+.
 - Chúc ngủ ngon, Glen. Trọng tâm của người sáng lập. 40.
-- Christopher, Joe R. "Thư mục Inklings (12)." 41-45.
+- Christopher, Joe R. "An Inklings Bibliography (12)." 41-45.
 
 #### Đánh giá {#Reviews}
 
-- Patterson, Nancy-Lou. "Gia truyền ánh sáng." Đánh giá của Hillegas, March R., ed. *Những cái bóng của trí tưởng tượng: Những tưởng tượng về C.S. Lewis, J.R.R. Tolkien và Charles Williams*. 24.
+- Patterson, Nancy-Lou. "Gia truyền ánh sáng." Đánh giá của Hillegas, March R., ed. *Những cái bóng của trí tưởng tượng: Những tưởng tượng của C.S. Lewis, J.R.R. Tolkien và Charles Williams*. 24.
 - Patterson, Nancy-Lou. "Gợi lên sự kỳ diệu." Đánh giá về *Manlove, C.N. Modern Fantasy -- Năm nghiên cứu.* 24-25.
-- Speth, Lee. "Nơi hoàn hảo." Đánh giá của Baum, L. Frank. sê-ri *Oz* (tái bản của Del Rey). 25-26.
-- Patterson, Nancy-Lou. "Không làm người ta bối rối." Đánh giá của Payne, Leanne. *Sự Hiện Diện Thực Sự: Chúa Thánh Thần Trong Công Việc C.S. Lewis*. 26-27.
-- Patterson, Nancy-Lou. "Đáng chú ý trong quá khứ Rồng." Đánh giá của Hooper, Walter. *Past Watchful Dragons*. 28-29.
+- Speth, Lee. "The Perfect Place." Review of Baum, L. Frank. *Oz* series (Del Rey reprints). 25-26.
+- Patterson, Nancy-Lou. "Không làm người ta bối rối." Đánh giá của Payne, Leanne. *Sự Hiện Diện Thực Sự: Chúa Thánh Thần Trong Công Việc của C.S. Lewis*. 26-27.
+- Patterson, Nancy-Lou. "Những con rồng cảnh giác trong quá khứ." Đánh giá của Hooper, Walter. *Past Watchful Dragons*. 28-29.
 - Patterson, Nancy-Lou. "Họ đứng cùng nhau." Đánh giá của Lewis, C.S. *Họ sát cánh cùng nhau: Những bức thư của C.S. Lewis gửi Arthur Greeves.* 29-30.
 
 #### Thơ {#Poems}
 
-- Christopher, Joe R. "Dorothy L. Sayers ở tuổi 50." 40.
-- Berman, Ruth. "Lời triệu tập của Robin." 47.
+- Christopher, Joe R. "Dorothy L. Sayers at Fifty." 40.
+- Berman, Ruth. "Robin's Summonses." 47.
 
 #### Nghệ thuật {#Art}
 
@@ -82,7 +82,7 @@ infobox:
 - Louis Dwarshuis: 27
 - Giai điệu Bà: 37
 - Mary Janis Johnson: Bìa trước
-- Michael logan: 47
+- Michael Logan: 47
 - Thadara Ottobris: 8, 9, 10, Bìa sau
 - Người Annalee: 5, 11, 19
 - John Pivovarnick: 32

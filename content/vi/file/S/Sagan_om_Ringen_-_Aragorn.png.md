@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Aragorn](../../main/A/Aragorn.md) trong [Sagan om Ringen](<../../main/S/Sagan_om_Ringen_(1971_film).md>)
+[Aragorn](../../main/A/Aragorn.md) ở [Sagan om Ringen](<../../main/S/Sagan_om_Ringen_(1971_film).md>)
 
 ## Giấy phép {#Licensing}
 

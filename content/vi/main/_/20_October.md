@@ -67,26 +67,26 @@ Sự kiện xảy ra vào ngày 20 tháng 10
 ## Trên Trái đất {#On_Earth}
 
 - **[1784](1784.md)** – [George Tolkien](../G/George_Tolkien.md) ra đời.
-- **[1911](1911.md)** – [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) ký vào [Oxford trang dành cho khách tham quan trường đại học](../O/Oxford_University_visitor's_page.md).
+- **[1911](1911.md)** – [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) ký vào [trang dành cho khách tham quan Đại học Oxford](../O/Oxford_University_visitor's_page.md).
 - **[1940](1940.md)** - J.R.R. Tolkien viết [Thư 40a](../L/Letter_40a.md).
-- <b><a href="1949.md" title="1949">1949</a> – <i><a href="../F/Farmer_Giles_of_Ham.md" title="Farmer Giles of Ham">Farmer Giles of Ham</a></i> được xuất bản.</b>
-- <b><a href="1955.md" title="1955">1955</a> – <i><a href="../T/The_Return_of_the_King.md" title="The Return of the King">The Return of the King</a></i> được xuất bản.</b>
+- <b><a href="1949.md" title="1949">1949</a> – <i><a href="../F/Farmer_Giles_of_Ham.md" title="Farmer Giles of Ham">Nông dân Giles of Ham</a></i> được xuất bản.</b>
+- <b><a href="1955.md" title="1955">1955</a> – <i><a href="../T/The_Return_of_the_King.md" title="The Return of the King">Sự trở lại của nhà vua</a></i> được xuất bản.</b>
 - **[1958](1958.md)** – [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư gửi Cô E. Jones và J. Taylor](../L/Letter_to_Misses_E._Jones_and_J._Taylor.md).
 - **[1958](1958.md)** – Diễn viên [Viggo Mortensen](../V/Viggo_Mortensen.md) ra đời.
 - **[1963](1963.md)** - J.R.R. Tolkien viết [Thư 249a](../L/Letter_249a.md).
 - **[1965](1965.md)** – [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 278](../L/Letter_278.md).
 - **[1965](1965.md)** – [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một lá thư](<../L/Letter_to_Timothy_J._Wheeler_(20_October_1965).md>) cho [Timothy J. Wheeler](../T/Timothy_J._Wheeler.md).
 - **[1968](1968.md)** – *Strange Lodgings*, tập thứ tư của [loạt phim phát thanh năm 1968](<../T/The_Hobbit_(1968_radio_series).md>) của *[The Hobbit](../T/The_Hobbit.md)*, được phát sóng trên [Đài BBC](../B/BBC.md).
-- <b><a href="1994.md" title="1994">1994</a> - <i><a href="../T/The_War_of_the_Jewels.md" title="The War of the Jewels">The War of the Jewels</a></i> được xuất bản ở Vương quốc Anh.</b>
+- <b><a href="1994.md" title="1994">1994</a> - <i><a href="../T/The_War_of_the_Jewels.md" title="The War of the Jewels">The War of the Jewels</a></i> được xuất bản ở Anh.</b>
 - **[1997](1997.md)** - Diễn viên [John Bell](../J/John_Bell.md) ra đời.
-- <b><a href="2003.md" title="2003">2003</a> - <i><a href="../T/Tolkien_and_the_Great_War.md" title="Tolkien and the Great War">Tolkien và Đại chiến</a></i> được xuất bản.</b>
+- <b><a href="2003.md" title="2003">2003</a> - <i><a href="../T/Tolkien_and_the_Great_War.md" title="Tolkien and the Great War">Tolkien và cuộc đại chiến</a></i> được xuất bản.</b>
 - **[2005](2005.md)** – [George Sayer](../G/George_Sayer.md), bạn của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), qua đời.
 - **[2020](2020.md)** - *[The Lord of the Rings Online: War of Three Peaks](../T/The_Lord_of_the_Rings_Online%253A_War_of_Three_Peaks.md)* bản mở rộng được phát hành.
 
 ## Trong Arda {#In_Arda}
 
 - [F.A.](../F/First_Age.md) [495](../F/First_Age_495.md):
-    - [Tuor](../T/Tuor.md), được hướng dẫn bởi [Voronwë](../V/Voronwë.md), di chuyển đến [Gondolin](../G/Gondolin.md) để chuyển thông điệp của [Ulmo](../U/Ulmo.md)tới [Turgon](../T/Turgon.md).
+    - [Tuor](../T/Tuor.md), được hướng dẫn bởi [Voronwë](../V/Voronwë.md), đi đến [Gondolin](../G/Gondolin.md) để chuyển thông điệp của [Ulmo](../U/Ulmo.md) tới [Turgon](../T/Turgon.md).
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Glorfindel](../G/Glorfindel.md), [Strider](../A/Aragorn.md) và [bốn hobbit](../T/Travellers.md) đến [Ford of Bruinen](../F/Ford_of_Bruinen.md) nơi họ bị tấn công bởi [Kỵ sĩ Đen](../N/Nazgûl.md). [Frodo](../F/Frodo_Baggins.md) đến được bờ sông bên kia nhưng các Kỵ sĩ bị nước đẩy lùi, ngựa của họ chết đuối và áo choàng của họ bị phá hủy.
+    - [Glorfindel](../G/Glorfindel.md), [Strider](../A/Aragorn.md) và [bốn người hobbit](../T/Travellers.md) đến [Ford of Bruinen](../F/Ford_of_Bruinen.md) nơi họ bị tấn công bởi [Kỵ sĩ đen](../N/Nazgûl.md). [Frodo](../F/Frodo_Baggins.md) đến được bờ sông bên kia nhưng các Kỵ sĩ bị nước đẩy lùi, ngựa của họ chết đuối và áo choàng của họ bị phá hủy.
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.

@@ -40,7 +40,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mallorn52.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/1/1a/Mallorn52.jpg/320px-Mallorn52.jpg" decoding="async" loading="lazy" width="320" height="458" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/1a/Mallorn52.jpg/480px-Mallorn52.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/1/1a/Mallorn52.jpg/640px-Mallorn52.jpg 2x" data-file-width="707" data-file-height="1012"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mallorn 52</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../H/Henry_Gee.md" title="Henry Gee">Henry Gee</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Printer</th><td class="tg-infobox-data"><a class="external text" href="http://www.printedword.co.uk/" rel="noreferrer noopener" target="_blank">The Printed Word</a>, Horsham, UK</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Autumn <a href="../_/2011.md" title="2011">2011</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">A4 stapled paperback, glossy</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">52</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0308-6674</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mallorn_51.md" title="Mallorn 51">Mallorn 51</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mallorn_53.md" title="Mallorn 53">Mallorn 53</a></td></tr></tbody></table>
 
-<b><i>Mallorn</i> 52</b> là số thứ 52 của tạp chí hai năm một lần của [Hội Tolkien](../T/The_Tolkien_Society.md) *[Mallorn](<Mallorn_(journal).md>)*, xuất bản vào Mùa thu [2011](../_/2011.md).
+<b><i>Mallorn</i> 52</b> là số thứ 51 của tạp chí hai năm một lần của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) *[Mallorn](<Mallorn_(journal).md>)*, được xuất bản vào Mùa thu [2011](../_/2011.md).
 
 ## Nội dung {#Contents}
 
@@ -55,10 +55,10 @@ infobox:
         - Bởi: Zak Cramer
 - **Đánh giá**
     - "Sự diệt vong của kim cương": *The King of Diamonds* của [Simon Tolkien](../S/Simon_Tolkien.md)
-        - Được đánh giá bởi Mike Austin Foster
-    - "Kết nối tiếng Wales": *[Tolkien and Wales: Language, Literature and Identity](../T/Tolkien_and_Wales.md)* của Carl Phelpstead
+        - Được đánh giá bởi Mike Foster
+    - "Kết nối xứ Wales": *[Tolkien and Wales: Language, Literature and Identity](../T/Tolkien_and_Wales.md)* của Carl Phelpstead
         - Được đánh giá bởi Troels Forchhammer
-    - "Từ giữa Kỷ nguyên đến [Trung Địa](Middle-earth.md)": *[The Keys of Middle-Earth: Discovering Medieval Literature through the Fiction of J.R.R. Tolkien](../T/The_Keys_of_Middle-earth~15408.md)* của Stuart D. Lee và Elizabeth Solopova
+    - "Từ thời Trung Cổ đến [Trung Địa](Middle-earth.md)": *[The Keys of Middle-Earth: Discovering Medieval Literature through the Fiction of J.R.R. Tolkien](../T/The_Keys_of_Middle-earth~15408.md)* của Stuart D. Lee và Elizabeth Solopova
         - Được đánh giá bởi Kastytis Zubovas
     - "Cuộc cách mạng xanh": *[Ents, Elves, And Eriador: The Environmental Vision of J. R. R. Tolkien](../E/Ents,_Elves,_and_Eriador.md)* của [Matthew Dickerson](Matthew_Dickerson.md) và <a class="new" href="https://tolkiengateway.net/w/index.php?title=Jonathan_Evans&amp;action=edit&amp;redlink=1" title="Jonathan Evans (page does not exist)">Jonathan Evans</a>
         - Được đánh giá bởi Kusumita P. Pedersen
@@ -69,9 +69,9 @@ infobox:
     - "Chuyến đi đến Iceland": *Where the Shadows Lie* của Michael Ridpath
         - Được đánh giá bởi [Pat Reynolds](../P/Patricia_Reynolds.md)
 - **Bình luận**
-    - "Vứt bỏ thủ quỹ: [Tolkien](../J/J.R.R._Tolkien.md) sử dụng <i><a class="mw-redirect mw-disambig" href="../P/Pearl.md" title="Pearl">Ngọc trai</a></i> trong *[The Hobbit](../T/The_Hobbit.md)* và *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*"
+    - "Vứt bỏ thủ quỹ: [Tolkien](../J/J.R.R._Tolkien.md) sử dụng <i><a class="mw-redirect mw-disambig" href="../P/Pearl.md" title="Pearl">Pearl</a></i> trong *[The Hobbit](../T/The_Hobbit.md)* và *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*"
         - Bởi: Leigh Smith
-    - "Người phụ nữ dũng cảm: [Éowyn](../_/Éowyn.md) trong *War and Peace*"
+    - "Người phụ nữ dũng cảm: [Éowyn](../_/Éowyn.md) ở *War and Peace*"
         - Bởi: Catherine Madsen
     - "Chúng tôi ghét những con số phức tạp đó: Tolkien, [Lewis](../C/C.S._Lewis.md) và nỗi lo toán học"
         - Bởi: [Kristine Larsen](../K/Kristine_Larsen.md)
@@ -80,10 +80,10 @@ infobox:
     - "[Orc](../O/Orcs.md) và cách đối xử với cái ác của Tolkien"
         - Bởi: David Tneh
 - **Tiểu thuyết**
-    - "Người sói Rỗng"
+    - "Rỗng người sói"
         - Bởi: Đánh dấu L. Ridge
 - **Ồ, tôi đã quay lại đây**
-    - "Có Tolkien hỗ trợ Chim Hoàng Yến"
+    - "Tolkien có hỗ trợ Chim hoàng yến không"
         - Bởi: Henry Gee
 - **Nghệ thuật nội tâm**
     - Bởi: Lorenzo Daniele, Henry Gee, John Gilbey, [Jef Murray](../J/Jef_Murray.md), Ted Nasmith, Rick J. Ritchie, Colin Sullivan, Sue Wookey
@@ -92,4 +92,4 @@ infobox:
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://journals.tolkiensociety.org/mallorn/issue/view/53/" rel="noreferrer noopener" target="_blank">Vấn đề này tại trang web Hội Tolkien</a>
+- <a class="external text" href="http://journals.tolkiensociety.org/mallorn/issue/view/53/" rel="noreferrer noopener" target="_blank">Số này tại trang web của The Tolkien Society</a>

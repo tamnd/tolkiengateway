@@ -41,35 +41,35 @@ images:
 
 ## Địa lý {#Geography}
 
-Westlands là phần được biết đến và ghi chép nhiều nhất của Trung Địa, phần phía tây bắc của lục địa đối diện với [Belegaer](../B/Belegaer.md). Nó bao gồm các vùng đất rộng lớn, chẳng hạn như [Beleriand](../B/Beleriand.md)/[Lindon](../L/Lindon.md), [Eriador](../E/Eriador.md), [Rhovanion](../R/Rhovanion.md), [Gondor](../G/Gondor.md) và [Mordor](../M/Mordor.md). Những vùng cực đoan nhất của Westlands (có lẽ không thuộc về họ) là những vùng đất xa lạ như [Rhûn](../R/Rhûn.md), [Harad](../H/Harad.md) và [Khand](../K/Khand.md). Ngoài họ, những vùng đất vô danh nằm ở [phương Đông](../E/East.md) và <a class="mw-disambig" href="../S/South_(disambiguation).md" title="South (disambiguation)">Miền Nam</a>.<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup>
+Westlands là phần được biết đến và ghi chép nhiều nhất ở Trung Địa, phần phía tây bắc của lục địa đối diện với [Belegaer](../B/Belegaer.md). Nó bao gồm những vùng đất rộng lớn như [Beleriand](../B/Beleriand.md)/[Lindon](../L/Lindon.md), [Eriador](../E/Eriador.md), [Rhovanion](../R/Rhovanion.md), [Gondor](../G/Gondor.md) và [Mordor](../M/Mordor.md). Những vùng cực đoan nhất của Westlands (có lẽ không thuộc về họ) là những vùng đất xa lạ như [Rhûn](../R/Rhûn.md), [Harad](../H/Harad.md) và [Khand](../K/Khand.md). Ngoài ra, những vùng đất chưa được biết đến nằm ở [Đông](../E/East.md) và <a class="mw-disambig" href="../S/South_(disambiguation).md" title="South (disambiguation)">Nam</a>.<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup>
 
-Ở Westlands, phần phía tây có tên Beleriand đã bị nhấn chìm vào cuối Kỷ Đệ Nhất, và những người sống sót đã chuyển đến Lindon và Eriador. Eriador, hiện là phần cực tây của Trung Địa, được bao bọc bởi [Dãy Núi Sương Mù](../M/Misty_Mountains.md) đến phương Đông kéo dài xuống phía nam đến [Dãy Núi Trắng](White_Mountains.md) và [Vịnh Belfalas](../B/Bay_of_Belfalas.md).<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup>
+Ở Westlands, phần phía tây có tên Beleriand đã bị nhấn chìm vào cuối Thời đại thứ nhất, và những người sống sót đã chuyển đến Lindon và Eriador. Eriador, hiện là phần cực tây của Trung Địa, giáp với [Dãy núi sương mù](../M/Misty_Mountains.md) ở phía Đông, kéo dài xuống phía nam đến [Dãy núi trắng](White_Mountains.md) và [Vịnh Belfalas](../B/Bay_of_Belfalas.md).<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup>
 
-Bên kia Dãy Núi Sương Mù từ Eriador là một vùng khác của Westlands, Rhovanion. Nó kéo dài về phía đông tới [Biển Rhûn](../S/Sea_of_Rhûn.md). Trong Rhovanion có khu rừng lớn [Mirkwood](../M/Mirkwood.md), [Rừng Fangorn](../F/Fangorn_Forest.md) và [Lothlórien](../L/Lothlórien.md). Phía nam là vùng Mordor, có núi bao bọc ba mặt. Ở cực bắc của Rhovanion và Eriador giống nhau là [Forodwaith](<../F/Forodwaith_(lands).md>) băng giá.<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup>
+Bên kia Dãy núi Sương mù từ Eriador là một vùng khác của Westlands, Rhovanion. Nó kéo dài về phía đông tới [Biển Rhûn](../S/Sea_of_Rhûn.md). Trong Rhovanion có khu rừng lớn [Mirkwood](../M/Mirkwood.md), [Rừng Fangorn](../F/Fangorn_Forest.md) và [Lothlórien](../L/Lothlórien.md). Về phía nam là vùng Mordor, được bao bọc ba mặt bởi các ngọn núi. Ở phía bắc xa xôi của Rhovanion và Eriador là [Forodwaith](<../F/Forodwaith_(lands).md>) băng giá.<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup>
 
-Phần phía nam của Westlands nằm xung quanh Vịnh Belfalas, bao gồm khu vực Gondor.<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup>
+Phần phía nam của Westlands nằm quanh Vịnh Belfalas, bao gồm cả khu vực Gondor.<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup>
 
 ## Lịch sử {#History}
 
 Vào [Ngày Người Cao Tuổi](../E/Elder_Days.md), hầu hết vùng đất phía Tây được bao phủ bởi một khu rừng bạt ngàn.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
-Westlands có hầu hết các chủng tộc Trung Địa được biết đến: [Tiên tộc](../E/Elves.md) ([Eldar](../E/Eldar.md)) và [Con Người](../M/Men.md), những người ở lại trên đường đến <a class="mw-redirect mw-disambig" href="West.md" title="West">Phương Tây</a>và sau đó đã thoát khỏi sự hủy diệt của [Beleriand](../B/Beleriand.md). [Người Lùn](../D/Dwarves.md), [Orc](../O/Orcs.md) và [Ent](../E/Ents.md) cũng đã xây dựng vương quốc của mình trên khắp Westlands.<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup>
+Westlands là nơi cư trú của hầu hết các chủng tộc được biết đến ở Trung Địa: [Yêu tinh](../E/Elves.md) ([Eldar](../E/Eldar.md)) và [Đàn ông](../M/Men.md) ở lại trên đường đến <a class="mw-redirect mw-disambig" href="West.md" title="West">Tây</a>và sau đó đã thoát khỏi sự hủy diệt của [Beleriand](../B/Beleriand.md). [Người lùn](../D/Dwarves.md), [Orc](../O/Orcs.md) và [Ent](../E/Ents.md) cũng đã xây dựng vương quốc của mình trên khắp Westlands.<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup>
 
-Trong [Kỷ thứ hai](../S/Second_Age.md), nhiều [người Númenor](../N/Númenóreans.md) đã đến và thành lập khu định cư của họ. Đó là lúc những khu rừng rộng lớn bắt đầu bị thu hẹp do cây cối được sử dụng để đóng tàu.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> [Rừng Fangorn](../F/Fangorn_Forest.md) và [Khu Rừng Cổ](../O/Old_Forest.md) là tàn tích của những ngày đó.<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup>
+Trong [Thời đại thứ hai](../S/Second_Age.md), nhiều [Númenóreans](../N/Númenóreans.md) đã đến và thành lập khu định cư của họ. Đó là lúc những khu rừng khổng lồ bắt đầu bị thu hẹp lại do cây được sử dụng để đóng tàu.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> [Rừng Fangorn](../F/Fangorn_Forest.md) và [Rừng già](../O/Old_Forest.md) là tàn tích của những ngày đó.<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup>
 
-Các Vương quốc Númenórean Lưu vong, [Arnor](../A/Arnor.md) và [Gondor](../G/Gondor.md), đã thống trị Westlands trong Thời kỳ thứ hai và [Kỷ Đệ Tam](../T/Third_Age.md). Cuối cùng, hầu hết các dân tộc Manish ở Westlands đã được tập hợp lại dưới [Vương quốc Thống nhất](../R/Reunited_Kingdom.md). Vua đầu tiên của họ, [Elessar](../A/Aragorn.md), có tựa đề là "Chúa tể miền Tây" trong [Kỷ Đệ Tứ](../F/Fourth_Age.md).<sup id="cite_ref-KL_7-0" class="reference"><a href="#cite_note-KL-7">[7]</a></sup>
+Vương quốc Númenórean lưu vong, [Arnor](../A/Arnor.md) và [Gondor](../G/Gondor.md), thống trị vùng Westlands trong Thời đại thứ hai và [Thời đại thứ ba](../T/Third_Age.md). Cuối cùng, hầu hết các dân tộc Mannish ở Westlands đã được tập hợp lại dưới [Vương quốc Thống nhất](../R/Reunited_Kingdom.md). Vị vua đầu tiên của họ, [Elessar](../A/Aragorn.md), được phong là "Chúa tể của vùng đất phía Tây" vào [Kỷ nguyên thứ tư](../F/Fourth_Age.md).<sup id="cite_ref-KL_7-0" class="reference"><a href="#cite_note-KL-7">[7]</a></sup>
 
 ## Tên khác {#Other_names}
 
-Trong [Sindarin](../S/Sindarin.md) [Vua Thư](../K/King's_Letter.md), thuật ngữ "Westlands" được dịch là <i><b>i Mbair Annui</b></i>.<sup id="cite_ref-KL_7-1" class="reference"><a href="#cite_note-KL-7">[7]</a></sup>
+Trong [Sindarin](../S/Sindarin.md) [Thư của nhà vua](../K/King's_Letter.md), thuật ngữ "Westlands" được dịch là <i><b>i Mbair Annui</b></i>.<sup id="cite_ref-KL_7-1" class="reference"><a href="#cite_note-KL-7">[7]</a></sup>
 
 ## Các vịnh và đảo {#Bays_and_islands}
 
 - [Tol Morwen](../T/Tol_Morwen.md)
 - [Tol Fuin](../T/Tol_Fuin.md)
 - [Himling](../H/Himling.md)
-- [Tolfalas](../T/Tolfalas.md), trong Vịnh Belfalas
-- [Vịnh Băng Forochel](../I/Icebay_of_Forochel.md)
+- [Tolfalas](../T/Tolfalas.md), ở Vịnh Belfalas
+- [Vịnh băng Forochel](../I/Icebay_of_Forochel.md)
 - [Vịnh Lune](../G/Gulf_of_Lune.md)
 - [Vịnh Belfalas](../B/Bay_of_Belfalas.md)
 
@@ -82,12 +82,12 @@ Trong [Sindarin](../S/Sindarin.md) [Vua Thư](../K/King's_Letter.md), thuật ng
 <dl><dd>A map of the Westlands is the main interface of the game where the player moves their units.</dd>
 <dd>The game package also provides a redesigned map of the Westlands as a poster.</dd></dl>
 
-<b>2001: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i>:</b>
+<b>2001: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">Chúa tể của những chiếc nhẫn: Hiệp hội những chiếc nhẫn</a></i>:</b>
 
 <dl><dd>During the <a href="../P/Prologue%253A_One_Ring_to_Rule_Them_All....md" title="Prologue: One Ring to Rule Them All...">Prologue</a> to the film accompanied by <a href="../G/Galadriel.md" title="Galadriel">Galadriel</a>&#39;s narration, <a href="../S/Sauron.md" title="Sauron">Sauron</a>&#39;s power is seen expanding over a map of the Westlands during the <a href="../D/Dark_Years.md" title="Dark Years">Dark Years</a>.</dd>
 <dd><a href="../D/Daniel_Reeve.md" title="Daniel Reeve">Daniel Reeve</a> was the artist who designed the map and other props for the trilogy and related merchantise, such as <i><a href="../T/The_Lord_of_the_Rings_Roleplaying_Game.md" title="The Lord of the Rings Roleplaying Game">The Lord of the Rings Roleplaying Game</a></i>.</dd></dl>
 
-<b>2002: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Lord of the Rings: The Two Towers</a></i>:</b>
+<b>2002: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">Chúa tể của những chiếc nhẫn: Hai tòa tháp</a></i>:</b>
 
 <dl><dd>In <a href="../H/Henneth_Annûn.md" title="Henneth Annûn">Henneth Annûn</a>, <a href="../I/Irolas.md" title="Irolas">Irolas</a> unfolds a map of the Westlands for <a href="../F/Faramir.md" title="Faramir">Faramir</a> to tell him the development of the <a href="War_of_the_Ring.md" title="War of the Ring">War of the Ring</a>; pointing at several locations on the map, he mentions the <a href="../B/Battle_of_the_Hornburg.md" title="Battle of the Hornburg">Battle of the Hornburg</a>, and <a href="../E/Easterlings.md" title="Easterlings">Easterlings</a>&#39; movements from <a class="mw-redirect" href="../M/Morannon.md" title="Morannon">Morannon</a> to the south.</dd></dl>
 

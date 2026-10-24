@@ -29,9 +29,9 @@ images:
 
 ## Tolkien và tiếng Latin {#Tolkien_and_Latin}
 
-[Tolkien](../T/Tolkien.md) rất yêu thích tiếng Latin. Anh được mẹ [Mabel Tolkien](../M/Mabel_Tolkien.md) dạy tiếng Latin khi còn nhỏ. Ông rất quan tâm đến cả âm thanh và ý nghĩa của từ. Điều này đánh dấu sự khởi đầu tình yêu của Tolkien với ngôn ngữ học và ngữ văn. Tolkien học tiếng Latinh tại [King Edward's School](../K/King_Edward's_School.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và sẽ tiếp tục học tiếng Latinh cho đến hết đời.
+[Tolkien](../T/Tolkien.md) đánh giá cao tiếng Latin. Anh được mẹ mình, [Mabel Tolkien](../M/Mabel_Tolkien.md) dạy tiếng Latin khi còn nhỏ. Ông rất quan tâm đến cả âm thanh và ý nghĩa của từ. Điều này đánh dấu sự khởi đầu tình yêu của Tolkien đối với ngôn ngữ học và ngữ văn. Tolkien học tiếng Latinh tại [Trường King Edward](../K/King_Edward's_School.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và sẽ tiếp tục học tiếng Latinh trong suốt quãng đời còn lại của mình.
 
-Là một người có niềm tin tôn giáo sâu sắc, tiếng Latin cũng có ý nghĩa quan trọng đối với Tolkien do nó được sử dụng trong [Nhà thờ Công giáo](../C/Catholicism.md). Trong thời kỳ [1962](../_/1962.md)-[65](../_/1965.md) Giáo hội Công giáo đã trải qua quá trình chuyển đổi từ tiếng Latinh sang tiếng địa phương.<a class="external autonumber" href="https://en.wikipedia.org/wiki/Sacrosanctum_Concilium" rel="noreferrer noopener" target="_blank">[1]</a> Điều này khiến Tolkien không hài lòng lắm.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> [Cháu trai của Simon Tolkien](../S/Simon_Tolkien.md) J.R.R. Tolkien đã viết như sau:
+Là một người có niềm tin tôn giáo sâu sắc, tiếng Latin cũng có ý nghĩa quan trọng đối với Tolkien do nó được sử dụng trong [Nhà thờ Công giáo](../C/Catholicism.md). Trong thời kỳ [1962](../_/1962.md)-[65](../_/1965.md) Giáo hội Công giáo đã trải qua quá trình chuyển đổi từ tiếng Latinh sang tiếng địa phương.<a class="external autonumber" href="https://en.wikipedia.org/wiki/Sacrosanctum_Concilium" rel="noreferrer noopener" target="_blank">[1]</a> Điều này khiến Tolkien vô cùng khó chịu.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> [cháu trai của Simon Tolkien](../S/Simon_Tolkien.md) J.R.R. Tolkien đã viết như sau:
 
 <blockquote class="tg-quote noexcerpt">
 <p>I vividly remember going to church with him in Bournemouth. He was a devout Roman Catholic and it was soon after the Church had changed the liturgy from Latin to English. My Grandfather obviously didn&#39;t agree with this and made all the responses very loudly in Latin while the rest of the congregation answered in English. I found the whole experience quite excruciating, but My Grandfather was oblivious. He simply had to do what he believed to be right.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
@@ -44,9 +44,9 @@ Là một người có niềm tin tôn giáo sâu sắc, tiếng Latin cũng có
 
 ### Quenya {#Quenya}
 
-[Quenya](../Q/Quenya.md), ngôn ngữ thần tiên của [Noldor](../N/Noldor.md) và [Vanyar](../V/Vanyar.md), rất giống với tiếng Latinh cả về góc độ ngôn ngữ lẫn cách sử dụng. Bởi [Kỷ Đệ Tam](../T/Third_Age.md) Quenya đã không còn được sử dụng trong tiếng địa phương và chủ yếu chỉ nhằm mục đích theo đuổi học thuật. Nó được coi là có uy tín và chủ yếu được sử dụng trong nghi lễ cũng như trong văn học và bài hát quan trọng hoặc cổ xưa. Chính vì điều này mà Tolkien gọi Quenya là Tiên-Latin.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+[Quenya](../Q/Quenya.md), ngôn ngữ thần tiên của [Noldor](../N/Noldor.md) và [Vanyar](../V/Vanyar.md), rất giống với tiếng Latinh cả về góc độ ngôn ngữ lẫn cách sử dụng. Đến [Thời đại thứ ba](../T/Third_Age.md) Quenya không còn được sử dụng trong tiếng địa phương nữa và chủ yếu chỉ theo đuổi mục đích học thuật. Nó được coi là có uy tín và chủ yếu được sử dụng trong nghi lễ cũng như trong văn học và bài hát quan trọng hoặc cổ xưa. Chính vì điều này mà Tolkien gọi Quenya là Yêu tinh gốc Latin.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
-Quenya âm vị học và chính tả gần giống với tiếng Latinh nhất với các quy tắc âm vị học của Phần Lan.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Ngữ pháp trong Quenya cũng dựa trên ngữ pháp tiếng Latinh mặc dù ở mức độ thấp hơn so với tiếng Phần Lan. Quenya và tiếng Latin là những ngôn ngữ có biến tố cao cho phép cả hai có thứ tự từ linh hoạt.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[note 1]</a></sup>
+Âm vị học và chính tả của tiếng Quenya gần giống với tiếng Latin nhất với các quy tắc âm vị học của Phần Lan.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Ngữ pháp trong tiếng Quenya cũng dựa trên ngữ pháp tiếng Latin mặc dù ở mức độ thấp hơn so với tiếng Phần Lan. Quenya và tiếng Latin là những ngôn ngữ có biến tố cao cho phép cả hai có trật tự từ linh hoạt.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[note 1]</a></sup>
 
 ### Nevbosh và Naffarin {#Nevbosh_and_Naffarin}
 
@@ -56,14 +56,14 @@ Một trong những nỗ lực đầu tiên của Tolkien trong việc tạo ra 
 
 - <a class="extiw" href="http://en.wikipedia.org/wiki/Latin" title="wikipedia:Latin">Tiếng Latinh</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
 - <a class="external text" href="http://glaemscrafu.jrrvf.com/english/latin.html" rel="noreferrer noopener" target="_blank">Văn bản và mẫu âm thanh</a> tại [Glǽmscrafu](../G/Glǽmscrafu.md)
-- <a class="external text" href="https://antigonejournal.com/2022/01/farmer-giles-tolkien-latin/" rel="noreferrer noopener" target="_blank">Niềm vui của các bữa tiệc Latin và lễ Giáng sinh: <i>Farmer Giles of Ham</i></a> của J.R.R. Tolkien của Mateusz Stróżyński
-- <a class="external text" href="http://www.legonium.com/hobbitus-i" rel="noreferrer noopener" target="_blank">Hobbitus-i</a>, bản tóm tắt minh họa về *[The Hobbit](../T/The_Hobbit.md)* bằng tiếng Latinh của Anthony Gibbins
+- <a class="external text" href="https://antigonejournal.com/2022/01/farmer-giles-tolkien-latin/" rel="noreferrer noopener" target="_blank">Niềm vui của các bữa tiệc Latin và lễ Giáng sinh: J.R.R. Tolkien's <i>Nông dân Giles xứ Ham</i></a> của Mateusz Stróżyński
+- <a class="external text" href="http://www.legonium.com/hobbitus-i" rel="noreferrer noopener" target="_blank">Hobbitus-i</a>, bản tóm tắt minh họa về *[The Hobbit](../T/The_Hobbit.md)* bằng tiếng Latin của Anthony Gibbins
 - <a class="external text" href="https://medium.com/in-medias-res/would-tolkien-approve-of-the-hobbit-in-latin-1b51089ee301" rel="noreferrer noopener" target="_blank">"Liệu Tolkien có chấp thuận <i>The Hobbit</i> bằng tiếng Latinh không?"</a>, Đánh giá phê bình về *Hobbitus Ille* của Robert Ziomkowski.
 
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text">Mặc dù Quenya và tiếng Latin đều có trật tự từ khá tự do nhưng thứ tự phổ biến nhất trong Quenya là chủ ngữ-động từ-tân ngữ trong khi tiếng Latin phổ biến nhất là chủ ngữ-tân ngữ-động từ.</span>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text">Mặc dù cả Quenya và tiếng Latin đều có trật tự từ khá tự do nhưng thứ tự phổ biến nhất trong tiếng Quenya là chủ ngữ-động từ-tân ngữ trong khi tiếng Latin phổ biến nhất là chủ ngữ-tân ngữ-động từ.</span>
 </li>
 </ol></div></span>
 

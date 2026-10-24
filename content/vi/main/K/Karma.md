@@ -22,10 +22,10 @@ Nó thường xuất hiện dưới dạng *-car* (hoặc *-kar*) trong các h�
 
 ## Ví dụ {#Examples}
 
-- <i><a class="mw-redirect" href="Karma-kundo.md" title="Karma-kundo"><b>Nghiệp chướng</b>-cundo</a></i> = "Helm-người giám hộ"
-- <i><a class="mw-redirect mw-disambig" href="../E/Eldacar.md" title="Eldacar">Elda<b>xe</b></a></i> = "Tiên-mũ bảo hiểm"
-- <i><a href="../H/Hallacar.md" title="Hallacar">Halla<b>xe</b></a></i> = "Cao Helm"
-- <i><a href="../V/Valacar.md" title="Valacar">Vala<b>xe</b></a></i> = "Vala Helm"
+- <i><a class="mw-redirect" href="Karma-kundo.md" title="Karma-kundo"><b>Karma</b>-cundo</a></i> = "Người bảo vệ mũ bảo hiểm"
+- <i><a class="mw-redirect mw-disambig" href="../E/Eldacar.md" title="Eldacar">Elda<b>xe</b></a></i> = "Mũ bảo hiểm yêu tinh"
+- <i><a href="../H/Hallacar.md" title="Hallacar">Halla<b>xe</b></a></i> = "Mũ bảo hiểm cao"
+- <i><a href="../V/Valacar.md" title="Valacar">Vala<b>xe</b></a></i> = "Vala Mũ bảo hiểm"
 
 <span></span>
 

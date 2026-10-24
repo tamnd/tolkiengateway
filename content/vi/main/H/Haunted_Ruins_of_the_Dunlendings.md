@@ -51,8 +51,8 @@ Ba cuộc phiêu lưu ở cấp độ thấp đến trung bình, mỗi cuộc ph
 
 Mười sáu thương gia đã chết trên con đường nguy hiểm giữa thị trấn Cabed Angren và Sarn Erech. Forlong, một chủ đất giàu có, tin rằng bọn cướp đứng sau vụ giết người và đã đưa ra phần thưởng hậu hĩnh cho việc tiêu diệt chúng. Bạn có đủ khôn ngoan để làm sáng tỏ bí ẩn xung quanh Tháp Cô Đơn không?
 
-Setmaenen, một ngôi đền lịch bị bỏ hoang của Daen Coentis cổ đại, chứa đựng tài sản của một vị vua bằng đồ trang sức và kho báu. Nhưng thánh địa được bảo vệ bởi những kết giới và cạm bẫy mạnh mẽ, được canh giữ bởi những bóng ma và bị vấy bẩn bởi tạo tác bị nguyền rủa của Chúa tể Bóng tối. Bạn có thể đánh bại các thế lực siêu nhiên ẩn nấp trong The Seven Stones không?
+Setmaenen, một ngôi đền lịch bị bỏ hoang của Daen Coentis cổ đại, chứa đựng tài sản của một vị vua bằng đồ trang sức và kho báu. Nhưng thánh địa được bảo vệ bởi những kết giới và cạm bẫy mạnh mẽ, được canh giữ bởi những bóng ma và bị vấy bẩn bởi một cổ vật bị nguyền rủa của Chúa tể bóng tối. Bạn có thể đánh bại các thế lực siêu nhiên ẩn nấp trong The Seven Stones không?
 
-Chỉ có Tarien, Phu nhân của một gia đình Dúnadan giàu có, trốn thoát cùng đứa cháu sơ sinh khi các chiến binh Dunnish tấn công ngôi nhà nông thôn của cô. Con trai của bà, Derovin, bị bắt và đưa đến khu vực bị ma ám tên là Hogo Tarosvan. Lady tìm cách trả thù và đưa con trai mình trở về an toàn. Bạn có đủ can đảm để tìm kiếm ngoài The Phantom Doors không?
+Chỉ có Tarien, Phu nhân của một gia đình Dúnadan giàu có, trốn thoát cùng đứa cháu trai sơ sinh của mình khi các chiến binh Dunnish tấn công ngôi nhà ở nông thôn của cô. Con trai của bà, Derovin, bị bắt và đưa đến khu vực bị ma ám tên là Hogo Tarosvan. Lady tìm cách trả thù và đưa con trai mình trở về an toàn. Bạn có đủ can đảm để tìm kiếm ngoài The Phantom Doors không?
 
 Nguy hiểm rình rập giữa tàn tích của người Dunnish, nhưng vinh quang và sự giàu có luôn theo sau nguy hiểm trong 3 cuộc phiêu lưu thú vị này!

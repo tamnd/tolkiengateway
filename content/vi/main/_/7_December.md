@@ -70,10 +70,10 @@ Sự kiện xảy ra vào ngày 7 tháng 12.
 - **[1946](1946.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 107](../L/Letter_107.md).
 - **[1957](1957.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 204](../L/Letter_204.md).
 - **[1962](1962.md)** - *[Ancrene Wisse](../A/Ancrene_Wisse.md)* được xuất bản.
-- **[1967](1967.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một bức thư cho Hans-Jörg Modlmayr](<../L/Letter_to_Hans-Jörg_Modlmayr_(7_December_1967).md>).
+- **[1967](1967.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một bức thư gửi Hans-Jörg Modlmayr](<../L/Letter_to_Hans-Jörg_Modlmayr_(7_December_1967).md>).
 - **[1989](1989.md)** - Diễn viên [Nicholas Hoult](../N/Nicholas_Hoult.md) ra đời.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi ở [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Kẻ duy nhất Nhẫn](../T/The_One_Ring.md).
+    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi tại [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).

@@ -26,25 +26,25 @@ images:
 
 <div class="tg-section-divider"></div>
 
-**Ma** là cái tên thường được sử dụng để mô tả [xác sống](../U/Undead.md), những sinh vật không chết sau cái chết tự nhiên nhưng vẫn tiếp tục ám ảnh người sống ở thế giới bên kia. Mặc dù có thể thường là sản phẩm của trí tưởng tượng sống động, nhưng việc [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) giao tiếp với một số loại xác sống chứng tỏ rằng ma có thật ở [Trung Địa](../M/Middle-earth.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Ma** là cái tên thường được sử dụng để mô tả [xác sống](../U/Undead.md), những sinh vật không chết sau cái chết tự nhiên nhưng vẫn tiếp tục ám ảnh người sống ở thế giới bên kia. Mặc dù có thể thường là sản phẩm của trí tưởng tượng sống động, nhưng việc [Hiệp hội chiếc nhẫn](../F/Fellowship_of_the_Ring.md) giao tiếp với một số loại xác sống chứng minh rằng ma có thật ở [Trung Địa](../M/Middle-earth.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Vào cuối [Kỷ Đệ Tam](../T/Third_Age.md), [Osgiliath](../O/Osgiliath.md) đổ nát và hoang vắng được biết đến với cái tên "*a city of ghosts.*"<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Vào cuối [Thời đại thứ ba](../T/Third_Age.md), [Osgiliath](../O/Osgiliath.md) đổ nát và hoang tàn được biết đến với cái tên "*a city of ghosts.*"<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Tên khác {#Other_names}
 
-Trong [Gnomish](Gnomish.md), một trong những quan niệm ban đầu của [Tolkien](../J/J.R.R._Tolkien.md)về ngôn ngữ [Tiên](../E/Elvish.md), từ "ma" là *ûl*.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Trong [Gnomish](Gnomish.md), một trong những quan niệm ban đầu của [Tolkien](../J/J.R.R._Tolkien.md) về ngôn ngữ [Yêu tinh](../E/Elvish.md), từ dành cho "ma" là *ûl*.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>:</b>
+<b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Nhập vai ở Trung Địa</a></i>:</b>
 
 <dl><dd>Ghosts are one of the most powerful Undead beings. They are altogether incorporeal, and drain constitution points from player characters.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></dd></dl>
 
-<b>2002-5: <i><a href="../T/The_Lord_of_the_Rings_Roleplaying_Game.md" title="The Lord of the Rings Roleplaying Game">The Lord of the Rings Trò chơi nhập vai</a></i>:</b>
+<b>2002-5: <i><a href="../T/The_Lord_of_the_Rings_Roleplaying_Game.md" title="The Lord of the Rings Roleplaying Game">Trò chơi nhập vai Chúa tể của những chiếc nhẫn</a></i>:</b>
 
 <dl><dd>Ghosts come in three types: phantoms, wraiths and wights.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
 
 <dl><dd>Ghostly beings are referred to as Shades in the game and come in several varieties including Oath-breakers (similar to the <a class="mw-redirect" href="../D/Dead_Men_of_Dunharrow.md" title="Dead Men of Dunharrow">Dead Men of Dunharrow</a>), fell spirits (ghosts that animate the <a href="../B/Barrow-wights.md" title="Barrow-wights">Barrow-wights</a>), Corpse-candles (like those of the <a href="../D/Dead_Marshes.md" title="Dead Marshes">Dead Marshes</a>), and evil river-spirits called Darkwaters.</dd></dl>
 

@@ -14,4 +14,4 @@ sort_keys:
   "Images by artist": "Shuey, Ronald"
 ---
 
-Thể loại này liệt kê tất cả **hình ảnh của [Ronald Shuey](../../main/R/Ronald_Shuey.md)**.
+Danh mục này liệt kê tất cả **hình ảnh của [Ronald Shuey](../../main/R/Ronald_Shuey.md)**.

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sea of Helcar"
 ---
 
-Chuyển hướng đến [Biển Helcar](../S/Sea_of_Helcar.md).
+Chuyển hướng tới [Biển Helcar](../S/Sea_of_Helcar.md).

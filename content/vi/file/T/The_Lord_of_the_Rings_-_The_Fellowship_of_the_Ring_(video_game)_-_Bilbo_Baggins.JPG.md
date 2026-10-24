@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Bilbo Baggins](../../main/B/Bilbo_Baggins.md) tại phòng của anh ấy ở [Rivendell](../../main/R/Rivendell.md). Ảnh chụp màn hình từ [*The Lord of the Rings: The Fellowship of the Ring* (trò chơi điện tử)](<../../main/T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md>).
+[Bilbo Baggins](../../main/B/Bilbo_Baggins.md) tại phòng của ông ở [Rivendell](../../main/R/Rivendell.md). Ảnh chụp màn hình từ [*The Lord of the Rings: The Fellowship of the Ring* (video game)](<../../main/T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md>).
 
 ## Giấy phép {#Licensing}
 

@@ -59,7 +59,7 @@ Theo như ghi chép, sự cai trị của Aranuir là không có gì bất thư�
 
 ## Từ nguyên {#Etymology}
 
-*Aranuir* là tên [Sindarin](../S/Sindarin.md). Ý nghĩa của nó không được giải thích rõ ràng, nhưng Hiệp hội Tolkiendil cho rằng nó có nghĩa là "Vĩnh cửu Vua".<sup id="cite_ref-Tolkiendil_3-0" class="reference"><a href="#cite_note-Tolkiendil-3">[3]</a></sup> Nó có thể là từ ghép của *[aran](Aran.md)* ("vua", "chúa", "tù trưởng", \[lit.\] người cao quý hoặc cao quý) và *uir* ("vĩnh cửu").<sup id="cite_ref-Tolkiendil_3-1" class="reference"><a href="#cite_note-Tolkiendil-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+*Aranuir* là tên [Sindarin](../S/Sindarin.md). Ý nghĩa của nó không được giải thích rõ ràng, nhưng Hiệp hội Tolkiendil cho rằng nó có nghĩa là "Vị vua vĩnh cửu".<sup id="cite_ref-Tolkiendil_3-0" class="reference"><a href="#cite_note-Tolkiendil-3">[3]</a></sup> Nó có thể là từ ghép của *[aran](Aran.md)* ("vua", "chúa", "tù trưởng", \[lit.\] người cao quý hoặc cao quý) và *uir* ("vĩnh cửu").<sup id="cite_ref-Tolkiendil_3-1" class="reference"><a href="#cite_note-Tolkiendil-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Phả hệ {#Genealogy}
 

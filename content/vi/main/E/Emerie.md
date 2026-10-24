@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Emerië"
 ---
 
-Chuyển hướng đến [Emerië](Emerië.md).
+Chuyển hướng tới [Emerië](Emerië.md).

@@ -27,25 +27,25 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the people</b>. For the region also called &#34;Forodwaith&#34;, see <b><a href="../N/Northern_Waste.md" title="Northern Waste">Northern Waste</a></b>.</div></div>
 
-**Forodwaith** là một dân tộc [Con Người](../M/Men.md) sống ở cực bắc của [Trung Địa](../M/Middle-earth.md), dường như có niên đại từ [Ngày của Người cao tuổi](../E/Elder_Days.md). Không có nhiều thông tin về họ.
+**Forodwaith** là một dân tộc gồm [Đàn ông](../M/Men.md) sống ở cực bắc của [Trung địa](../M/Middle-earth.md), dường như có niên đại từ [Ngày của Người cao tuổi](../E/Elder_Days.md). Không có nhiều thông tin về họ.
 
 ## Lịch sử {#History}
 
 Forodwaith được ghi nhận là một dân tộc cứng rắn, quen với cái lạnh, vì thực sự cần thiết phải sống ở vùng đất băng giá gần vương quốc của [Morgoth](../M/Morgoth.md).<sup id="cite_ref-Lossoth_1-0" class="reference"><a href="#cite_note-Lossoth-1">[1]</a></sup> Vùng đất họ sinh sống được gọi là [Forodwaith](../N/Northern_Waste.md), theo tên cư dân của nó.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Đến [Kỷ Đệ Tam](../T/Third_Age.md), [Lossoth](../L/Lossoth.md), tàn tích của Forodwaith, sống chủ yếu ở [Mũi Forochel](../C/Cape_of_Forochel.md) vĩ đại ở phía tây bắc của [Vịnh Băng Forochel](../I/Icebay_of_Forochel.md). Tuy nhiên, họ thường dựng trại ở bờ phía nam của vịnh dưới chân [Dãy Núi](../B/Blue_Mountains.md).<sup id="cite_ref-Lossoth_1-1" class="reference"><a href="#cite_note-Lossoth-1">[1]</a></sup> Khu vực phía bắc [Dãy núi Angmar](../M/Mountains_of_Angmar.md) và [Dãy Núi Xám](../G/Grey_Mountains.md) vẫn được gọi là Forodwaith trên bản đồ Trung Địa vào cuối Kỷ Đệ Tam.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Đến [Thời đại thứ ba](../T/Third_Age.md), [Lossoth](../L/Lossoth.md), tàn tích của Forodwaith, sống chủ yếu ở [Mũi Forochel](../C/Cape_of_Forochel.md) vĩ đại ở phía tây bắc của [Vịnh băng Forochel](../I/Icebay_of_Forochel.md). Tuy nhiên, họ thường dựng trại ở bờ phía nam của vịnh dưới chân [Núi](../B/Blue_Mountains.md).<sup id="cite_ref-Lossoth_1-1" class="reference"><a href="#cite_note-Lossoth-1">[1]</a></sup> Khu vực phía bắc [Núi Angmar](../M/Mountains_of_Angmar.md) và [Dãy núi Xám](../G/Grey_Mountains.md) vẫn được gọi là Forodwaith trên bản đồ Trung Địa vào cuối Thời đại thứ ba.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Forodwaith* là tên [Sindarin](../S/Sindarin.md), có nghĩa là "Người phương Bắc".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Nó là sự kết hợp của phần tử *[forod](Forod.md)*<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> ("phía bắc")<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> và phần tử *[gwaith](../G/Gwaith.md)*<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> ("người" được liên kết theo địa điểm và nghề nghiệp)<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>.
+*Forodwaith* là tên [Sindarin](../S/Sindarin.md), có nghĩa là "Người phương Bắc".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Nó là sự kết hợp của yếu tố *[forod](Forod.md)*<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> ("hướng bắc")<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> và yếu tố *[gwaith](../G/Gwaith.md)*<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> ("người" liên quan đến địa điểm và nghề nghiệp)<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>.
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong một số dự thảo về [Ælfwine](../_/Ælfwine.md), Tolkien sử dụng từ *Forodwaith* để chỉ <a class="extiw" href="http://en.wikipedia.org/wiki/Vikings" title="wikipedia:Vikings">Người Viking</a>.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
+Trong một số bản nháp về [Ælfwine](../_/Ælfwine.md), Tolkien sử dụng từ *Forodwaith* để chỉ <a class="extiw" href="http://en.wikipedia.org/wiki/Vikings" title="wikipedia:Vikings">Người Viking</a>.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
 
 ## Xem thêm {#See_also}
 
-- [Người phương Bắc](../N/Northmen.md)
+- [Người phương bắc](../N/Northmen.md)
 
 <span></span>
 

@@ -20,11 +20,11 @@ sort_keys:
   "People of unknown nationality": "Dueck, Jo-Anna"
 ---
 
-**Jo-Anna Dueck** là quản trị viên của *[Silver Leaves](../S/Silver_Leaves.md)*, tạp chí của [Quỹ Cây Trắng](../T/The_White_Tree_Fund.md).
+**Jo-Anna Dueck** là quản trị viên của *[Silver Leaves](../S/Silver_Leaves.md)*, tạp chí của [Quỹ White Tree](../T/The_White_Tree_Fund.md).
 
 ## Thư mục {#Bibliography}
 
 - [2006](../_/2006.md): *[J.R.R. Tolkien Encyclopedia](J.R.R._Tolkien_Encyclopedia.md)*
-    - "Thorin Oakenshield"
+    - "Khiên Sồi Thorin"
 - [2007](../_/2007.md): *[Silver Leaves](../S/Silver_Leaves.md)* 1
-    - "Tolkien Chuỗi bài giảng 2007"
+    - "Loạt bài giảng Tolkien 2007"

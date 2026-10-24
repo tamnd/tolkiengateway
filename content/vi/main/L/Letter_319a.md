@@ -29,9 +29,9 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien đã viết thư cho [Roger](../R/Roger_Lancelyn_Green.md) để cảm ơn anh ấy vì đã xác định câu chuyện có tựa đề "*Puss-Cat Mew*" là một phần trong tuyển tập được viết bởi <a class="extiw" href="http://en.wikipedia.org/wiki/Edward_Knatchbull-Hugessen,_1st_Baron_Brabourne" title="wikipedia:Edward Knatchbull-Hugessen, 1st Baron Brabourne">E. H. Knatchbull-Hugessen</a>. Tolkien bày tỏ sự ngạc nhiên khi quên mất tên tác giả, tác phẩm đã để lại ấn tượng sâu sắc với anh suốt thời thơ ấu. Cái tên duy nhất mà Tolkien cho biết anh sẽ luôn nhớ mỗi khi nó xuất hiện trở lại.
+Tolkien đã viết thư cho [Roger](../R/Roger_Lancelyn_Green.md) để cảm ơn ông vì đã xác định câu chuyện có tựa đề "*Puss-Cat Mew*" là một phần trong tuyển tập được viết bởi <a class="extiw" href="http://en.wikipedia.org/wiki/Edward_Knatchbull-Hugessen,_1st_Baron_Brabourne" title="wikipedia:Edward Knatchbull-Hugessen, 1st Baron Brabourne">E. H. Knatchbull-Hugessen</a>. Tolkien bày tỏ sự ngạc nhiên khi quên tên tác giả, tác giả đã để lại ấn tượng đáng kể cho ông trong suốt thời thơ ấu. Cái tên duy nhất là cái tên mà Tolkien lưu ý rằng ông sẽ luôn nhớ bất cứ khi nào nó xuất hiện trở lại.
 
-Tolkien đã đề cập đến ý định mua một bản sao của *Stories for my Children*, trong đó có câu chuyện được đề cập. Tuy nhiên, anh bày tỏ sẵn sàng mượn tập của Green nếu không thể có được bản sao của riêng mình. <br>
+Tolkien đề cập đến ý định mua một bản sao *Stories for my Children*, trong đó có câu chuyện được đề cập. Tuy nhiên, anh bày tỏ sẵn sàng mượn tập của Green nếu không thể có được bản sao của riêng mình. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

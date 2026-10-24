@@ -13,4 +13,4 @@ categories:
   - "Khuzdul words"
 ---
 
-**gathol** Là một từ [Khuzdul](../K/Khuzdul.md) có nghĩa là "pháo đài". Có phải nó chỉ được tìm thấy trong tên của thành phố Người lùn [Gabilgathol](Gabilgathol.md).
+**gathol** Là từ [Khuzdul](../K/Khuzdul.md) có nghĩa là "pháo đài". Có phải nó chỉ được tìm thấy trong tên của thành phố Người lùn [Gabilgathol](Gabilgathol.md).

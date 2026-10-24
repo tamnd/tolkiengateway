@@ -13,7 +13,7 @@ categories:
   - "Tolkien Societies"
 ---
 
-**Đại học Wisconsin Tolkien và Hiệp hội Ảo** là một hiệp hội Tolkien được thành lập vào tháng Chín [1966](../_/1966.md) dưới tên Hội Tolkien tại Đại học Wisconsin-Madison. Tên được đổi vào tháng 1 năm 2001. Hội xuất bản tạp chí <i><a href="../O/Orcrist_(journal).md" title="Orcrist (journal)">Orcrist<i></i></a>.</i>
+**Đại học Wisconsin Tolkien và Hiệp hội Ảo tưởng** là một hiệp hội Tolkien được thành lập vào tháng 9 [1966](../_/1966.md) dưới tên Hiệp hội Tolkien tại Đại học Wisconsin-Madison. Tên được đổi vào tháng 1 năm 2001. Hiệp hội xuất bản tạp chí <i><a href="../O/Orcrist_(journal).md" title="Orcrist (journal)">Orcrist<i></i></a>.</i>
 
 ## Liên kết ngoài {#External_links}
 

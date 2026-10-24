@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Sofia, Kenneth"
 ---
 
-- Kenneth Sofia đã vui lòng cho phép anh sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Kenneth_Sofia.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
+- Kenneth Sofia đã vui lòng cho phép anh sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Kenneth_Sofia.md) trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
 - Ngày: 18 tháng 6 năm 2017
 - Người dùng đã xin phép qua email: [Mith](https://tolkiengateway.net/wiki/User:Mith)

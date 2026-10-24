@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dúnedain of Arnor"
 ---
 
-Chuyển hướng tới [Dúnedain của Arnor](Dúnedain_of_Arnor.md).
+Chuyển hướng tới [Dúnedain of Arnor](Dúnedain_of_Arnor.md).

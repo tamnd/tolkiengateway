@@ -42,9 +42,9 @@ images:
   - "The_Lord_of_the_Rings_SV_2012-v7.jpeg"
 ---
 
-Dưới đây liệt kê các ấn bản gồm bảy tập của <i><b><a href="The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></b></i>.
+Dưới đây là danh sách ấn bản bảy tập của <i><b><a href="The_Lord_of_the_Rings.md" title="The Lord of the Rings">Chúa tể của những chiếc nhẫn</a></b></i>.
 
-Năm 1999, HarperCollins phát hành "Ấn bản Thiên niên kỷ" của *The Lord of the Rings*, gồm bảy tập do J.R.R. Tolkien lên ý tưởng ban đầu, với tựa sách do ông gợi ý:
+Năm 1999, HarperCollins phát hành "Ấn bản Thiên niên kỷ" của *The Lord of the Rings*, bao gồm bảy tập do J.R.R. Tolkien hình thành ban đầu, với tựa sách do ông gợi ý:
 
 1. *The Ring Sets Out*
 2. *The Ring Goes South*
@@ -139,10 +139,10 @@ Năm 1999, HarperCollins phát hành "Ấn bản Thiên niên kỷ" của *The L
 		</li>
 </ul>
 
-- [1999](../_/1999.md): [HarperCollins](../H/HarperCollins.md), bìa cứng đựng trong hộp, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0261103873">ISBN 0261103873</a> (bộ) - (Ấn bản Thiên niên kỷ)
+- [1999](../_/1999.md): [HarperCollins](../H/HarperCollins.md), bìa cứng đựng trong hộp trượt, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0261103873">ISBN 0261103873</a> (bộ) - (Ấn bản thiên niên kỷ)
     - tập: <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0261103938">ISBN 0261103938</a>, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0261103946">ISBN 0261103946</a>, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0261103954">ISBN 0261103954</a>, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0261103964">ISBN 0261103964</a>, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0261103970">ISBN 0261103970</a>, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0261103989">ISBN 0261103989</a>, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0261103997">ISBN 0261103997</a>
     - Bao gồm một CD Tolkien đọc các đoạn trích từ *The Lord of the Rings* và ghi chú của George Sayer
-- [2000](../_/2000.md): [HarperCollins](../H/HarperCollins.md), bìa mềm đựng trong bìa trượt, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007105002">ISBN 0007105002</a> (bộ)
+- [2000](../_/2000.md): [HarperCollins](../H/HarperCollins.md), bìa mềm đựng trong hộp đựng, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007105002">ISBN 0007105002</a> (bộ)
     - Bộ đóng hộp bìa mềm được phát hành vào năm 2000, sau khi ấn bản bìa cứng hết bản in
     - Bìa và ISBN của mỗi tập đều giống với ấn bản năm 1999
 
@@ -257,7 +257,7 @@ Năm 1999, HarperCollins phát hành "Ấn bản Thiên niên kỷ" của *The L
 		</li>
 </ul>
 
-- [2012](../_/2012.md): [HarperCollins](../H/HarperCollins.md), bìa mềm đựng trong hộp trượt, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007489978">ISBN 0007489978</a> (bộ) - (ấn bản gắn liền với phim)
+- [2012](../_/2012.md): [HarperCollins](../H/HarperCollins.md), bìa mềm đựng trong hộp đựng, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007489978">ISBN 0007489978</a> (bộ) - (ấn bản gắn liền với phim)
     - ISBN của mỗi tập giống như ấn bản năm 2001
 
 <br>

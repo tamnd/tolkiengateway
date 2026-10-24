@@ -35,7 +35,7 @@ infobox:
 ## Nội dung {#Contents}
 
 - Biên tập: cho đến nay, rất tốt... - [Chris Seeman](../C/Chris_Seeman.md)
-- Không có Tiên tộc trong Kỷ Đệ Tứ?! - Jorge Quiñónez
-- Tôn giáo trong Trung Địa: Nó hoạt động như thế nào và để làm gì? - [Chris Seeman](../C/Chris_Seeman.md)
+- Không có Yêu tinh ở Thời đại thứ tư?! - Jorge Quiñónez
+- Tôn giáo ở Trung Địa: Nó hoạt động như thế nào và để làm gì? - [Chris Seeman](../C/Chris_Seeman.md)
 - Hồ sơ nhân vật: Konar - Jeff Hatch
-- Arda trong một tấm gương xa: Một số vấn đề về thiết kế RPG trong thế giới của Tolkien- [Anders Blixt](../A/Anders_Blixt.md)
+- Arda trong tấm gương xa: Một số vấn đề về thiết kế RPG trong thế giới của Tolkien - [Anders Blixt](../A/Anders_Blixt.md)

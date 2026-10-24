@@ -15,7 +15,7 @@ sort_keys:
   "Quenya adjectives": "Lisse"
 ---
 
-<i><b>lissë</b></i> là một từ [Quenya](../Q/Quenya.md) có nghĩa là "ngọt ngào".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>lissë</b></i> là từ [Quenya](../Q/Quenya.md) có nghĩa là "ngọt ngào".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Ví dụ {#Examples}
 

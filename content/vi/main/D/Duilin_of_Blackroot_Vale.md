@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Duilin (son of Duinhir)"
 ---
 
-Chuyển hướng tới [Duilin (con trai của Duinhir)](<Duilin_(son_of_Duinhir).md>).
+Chuyển hướng đến [Duilin (con trai của Duinhir)](<Duilin_(son_of_Duinhir).md>).

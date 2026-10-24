@@ -18,10 +18,10 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/H/Humphrey_Carpenter_21_March_1967.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b6/Humphrey_Carpenter_21_March_1967.jpg/300px-Humphrey_Carpenter_21_March_1967.jpg" decoding="async" loading="lazy" width="300" height="397" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b6/Humphrey_Carpenter_21_March_1967.jpg/450px-Humphrey_Carpenter_21_March_1967.jpg 1.5x, https://tolkiengateway.net/w/images/b/b6/Humphrey_Carpenter_21_March_1967.jpg 2x" data-file-width="600" data-file-height="794"/></a><figcaption></figcaption></figure>
 
-Vào [21 tháng 3](../_/21_March.md) [1967](../_/1967.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) gửi [Humphrey Carpenter](../H/Humphrey_Carpenter.md)**.<sup id="cite_ref-C_1-0" class="reference"><a href="#cite_note-C-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Vào [21 tháng 3](../_/21_March.md) [1967](../_/1967.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho [Humphrey Carpenter](../H/Humphrey_Carpenter.md)**.<sup id="cite_ref-C_1-0" class="reference"><a href="#cite_note-C-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 - **Chủ đề:** Trả lời yêu cầu cấp phép cho Carpenter và [Paul Drayton](../P/Paul_Drayton.md) biến *[The Hobbit](../T/The_Hobbit.md)* thành một vở nhạc kịch dành cho trẻ em.
-- **Xuất bản:** Mô tả về bức thư đã được xuất bản trong [*Người đồng hành và Hướng dẫn J.R.R. Tolkien: Niên đại*](../T/The_J.R.R._Tolkien_Companion_and_Guide.md) (trang. 687–8).
+- **Xuất bản:** Mô tả về bức thư đã được xuất bản trong [*The J.R.R. Tolkien Companion and Guide: Chronology*](../T/The_J.R.R._Tolkien_Companion_and_Guide.md) (trang 687–8).
 
 ## Phiên âm {#Transcription}
 

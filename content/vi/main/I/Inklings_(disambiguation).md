@@ -14,22 +14,22 @@ images:
   - "Disambig.png"
 ---
 
-**Inklings** có thể tham khảo:
+**Inklings** có thể đề cập đến:
 
 ## Thế giới thực {#Real-world}
 
-- Nhóm **[Inklings](Inklings.md)**, một nhóm văn học bao gồm [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và [C.S. Lewis](../C/C.S._Lewis.md).
-- [Danh mục:Inklings](../../category/I/Inklings.md), liệt kê những người được liên kết với Inklings.
-- [ Inklings](../T/The_Founders'_Inklings.md) của Người sáng lập, podcast do [Trung Địa Network Radio sản xuất](../M/Middle-earth_Network.md).
+- The **[Inklings](Inklings.md)**, một nhóm văn học bao gồm [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và [C.S. Lewis](../C/C.S._Lewis.md).
+- [Danh mục: Inklings](../../category/I/Inklings.md), liệt kê những người có liên quan đến Inklings.
+- [The Founders' Inklings](../T/The_Founders'_Inklings.md), podcast do [Middle-earth Network Radio sản xuất](../M/Middle-earth_Network.md).
 
 ## Ấn phẩm {#Publications}
 
 ### Sách {#Books}
 
-- <i><b><a href="../T/The_Inklings_(book).md" title="The Inklings (book)">Các Inklings: C.S. Lewis, J.R.R. Tolkien, Charles Williams và những người bạn của họ</a></b></i>, một cuốn sách [1978](../_/1978.md) của [Humphrey Carpenter](../H/Humphrey_Carpenter.md).
-- [The Inklings của Oxford](../T/The_Inklings_of_Oxford.md), một cuốn sách [2009](../_/2009.md) của Harry Lee Poe.
+- <i><b><a href="../T/The_Inklings_(book).md" title="The Inklings (book)">The Inklings: C.S. Lewis, J.R.R. Tolkien, Charles Williams và những người bạn của họ</a></b></i>, một cuốn sách [1978](../_/1978.md) của [Humphrey Carpenter](../H/Humphrey_Carpenter.md).
+- [The Inklings of Oxford](../T/The_Inklings_of_Oxford.md), cuốn sách [2009](../_/2009.md) của Harry Lee Poe.
 - *[Inklings: Jahrbuch für Literatur und Ästhetik](Inklings%253A_Jahrbuch_für_Literatur_und_Ästhetik.md)*, tạp chí song ngữ (tiếng Đức/tiếng Anh).
-- *[The Inklings Handbook: The Lives, Thought and Writings of C. S. Lewis, J. R. R. Tolkien, Charles Williams, Owen Barfield, and Their Friends](../T/The_Inklings_Handbook.md)*, một cuốn sách [2001](../_/2001.md) của [Colin Duriez](../C/Colin_Duriez.md) và David Porter.
+- *[The Inklings Handbook: The Lives, Thought and Writings of C. S. Lewis, J. R. R. Tolkien, Charles Williams, Owen Barfield, and Their Friends](../T/The_Inklings_Handbook.md)*, cuốn sách [2001](../_/2001.md) của [Colin Duriez](../C/Colin_Duriez.md) và David Porter.
 - *[Myth and Magic: Art according to the Inklings](../M/Myth_and_Magic%253A_Art_according_to_the_Inklings.md)*, một cuốn sách [2007](../_/2007.md) trong *[Cormarë Series](../C/Cormarë_Series.md)*.
 
 ### Lịch {#Calendars}
@@ -39,7 +39,7 @@ images:
 
 ## Các bản chuyển thể {#Adaptations}
 
-- Nhóm **Inklings**, một nhóm tưởng tượng gồm Hobbit-tác giả chỉ xuất hiện trong *[The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md)*.
+- Nhóm **Inklings**, một nhóm tác giả Hobbit tưởng tượng chỉ xuất hiện trong *[The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md)*.
 
 <hr style="margin-top:15px;"/>
 

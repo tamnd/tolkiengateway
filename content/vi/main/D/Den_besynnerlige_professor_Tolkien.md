@@ -19,7 +19,7 @@ images:
 
 **Den besynnerlige Professor Tolkien** ("Giáo sư kỳ dị Tolkien" hay "Tolkien, Giáo sư kỳ dị") là tiêu đề của cuộc phỏng vấn với [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) do [Lars Gustafsson](../L/Lars_Gustafsson.md) thực hiện. Bài viết được xuất bản bằng tiếng Thụy Điển trên <i><a class="extiw" href="http://en.wikipedia.org/wiki/Dagens_Nyheter" title="wikipedia:Dagens Nyheter">Dagens Nyheter</a></i>, vào [ngày 21 tháng 8](../_/21_August.md), [1961](../_/1961.md).
 
-Cuộc phỏng vấn dài hơn cuộc phỏng vấn [của [Jan Broberg](../J/Jan_Broberg.md) trong cùng năm](../_/1961_Jan_Broberg.md). [Åke Ohlmarks](../_/Åke_Ohlmarks.md) đề cập đến cuộc phỏng vấn trong cuốn sách *[Tolkiens arv](../T/Tolkiens_arv.md)*của anh ấy:
+Cuộc phỏng vấn dài hơn cuộc phỏng vấn [của [Jan Broberg](../J/Jan_Broberg.md) trong cùng năm](../_/1961_Jan_Broberg.md). [Åke Ohlmarks](../_/Åke_Ohlmarks.md) đề cập đến cuộc phỏng vấn trong cuốn sách *[Tolkiens arv](../T/Tolkiens_arv.md)* của ông:
 
 "*Lars Gustafsson \[...\] kể lại vào năm 1961 rằng ngôi nhà của \[Tolkien\] ở Headington chứa đầy những chồng bản thảo lớn*"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
@@ -28,7 +28,7 @@ Phiên bản tiếng Anh của cuộc phỏng vấn, do John-Henri Holmberg dị
 ## Liên kết ngoài {#External_links}
 
 - <a class="external text" href="http://larsgustafssonblog.blogspot.se/2012/02/interview-with-r-r-tolkien-from-oxford.html" rel="noreferrer noopener" target="_blank">Bản dịch tiếng Anh tạm thời bài phỏng vấn tại blog của Lars Gustafsson</a>
-- "<a class="external text" href="http://www.lotrplaza.com/forum/forum_posts.asp?TID=235718&amp;OB=DESC" rel="noreferrer noopener" target="_blank">Sách 'Nước ngoài' về Tolkien</a>" tại <a class="external text" href="http://www.lotrplaza.com" rel="noreferrer noopener" target="_blank">Lotrplaza.com</a>
+- "<a class="external text" href="http://www.lotrplaza.com/forum/forum_posts.asp?TID=235718&amp;OB=DESC" rel="noreferrer noopener" target="_blank">Sách 'nước ngoài' trên Tolkien</a>" tại <a class="external text" href="http://www.lotrplaza.com" rel="noreferrer noopener" target="_blank">Lotrplaza.com</a>
 
 <span></span>
 

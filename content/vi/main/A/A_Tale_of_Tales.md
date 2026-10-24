@@ -42,7 +42,7 @@ Câu chuyện của 4. Morgoth– *4:04*
 7. Trận Dagorlad – *4:34*
 Số phận của 8. Isildur– *4:55*
 9. Gollum – *6:05*
-10. Thứ tự Pháp sư – *4:41*
+10. Đơn hàng Pháp sư – *4:41*
 
 ## Liên kết ngoài {#External_links}
 

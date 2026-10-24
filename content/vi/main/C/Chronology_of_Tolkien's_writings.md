@@ -22,11 +22,11 @@ images:
 
 ## Công cụ tham khảo {#A_reference_tool}
 
-Mục đích của trang này là trình bày niên đại các tác phẩm của Tolkien được sắp xếp theo chuyên đề để người đọc hiểu được mối quan hệ giữa các văn bản, tính “mới mẻ”, niên đại chung của chúng. Theo một cách nào đó, đây là sự mở rộng về [Các văn bản và mối quan hệ của chúng](../T/The_Texts_and_Their_Relations.md).
+Mục tiêu của trang này là trình bày niên đại các tác phẩm của Tolkien được sắp xếp theo chủ đề để người đọc có thể hiểu được mối quan hệ giữa các văn bản, độ “mới mẻ” của chúng, niên đại chung của chúng. Theo một cách nào đó, đây là sự mở rộng về [Các văn bản và mối quan hệ của chúng](../T/The_Texts_and_Their_Relations.md).
 
-Đây là một công cụ hữu ích khi tranh luận về Canon - cho dù sở thích của bạn là Ý định cao hay Ý định cuối cùng hay bất kỳ ý định nào khác. Nguồn thông tin chủ yếu là những chỉ dẫn bằng văn bản được đưa ra bởi Christopher Tolkien trong bộ Lịch sử Trung Địa.
+Đây là một công cụ hữu ích khi tranh luận về Canon - cho dù sở thích của bạn là Ý định cao hay Ý định cuối cùng hay bất kỳ ý định nào khác. Nguồn thông tin chủ yếu là những chỉ dẫn bằng văn bản do Christopher Tolkien đưa ra trong bộ Lịch sử Trung Địa.
 
-[Tolkien](../T/Tolkien.md) thời gian viết bài rất dài, trình tự thời gian này được chia thành 3 giai đoạn sản xuất.
+Dòng thời gian viết [Tolkien](../T/Tolkien.md) rất dài, trình tự thời gian này được chia thành 3 giai đoạn sản xuất.
 
 ## Những năm đầu - thời kỳ Thần thoại {#Early_Years_-_the_Mythology_period}
 
@@ -243,7 +243,7 @@ Mục đích của trang này là trình bày niên đại các tác phẩm củ
 
 ## Năm giữa - Giai đoạn xuất bản {#Middle_years_-_The_publication_phase}
 
-Khoảng thời gian này là khoảng thời gian hiệu quả nhất trong cuộc đời của Tolkien. Tiếp nối thành công của Hobbit, ông hy vọng sẽ xuất bản Silmarillion như một tài liệu nhất quán về Ngày của Người cao tuổi. Các văn bản được tạo ra trong giai đoạn sau có rất nhiều sự nhất quán với Chúa tể của những chiếc nhẫn đã xuất bản.
+Thời kỳ này là thời kỳ hiệu quả nhất trong cuộc đời Tolkien. Sau thành công của Người Hobbit, ông hy vọng sẽ xuất bản Silmarillion như một tài liệu nhất quán về Ngày của Người cao tuổi. Các văn bản được tạo ra trong giai đoạn sau có rất nhiều sự nhất quán với Chúa tể của những chiếc nhẫn đã xuất bản.
 
 <table class="wikitable">
 <tbody><tr>

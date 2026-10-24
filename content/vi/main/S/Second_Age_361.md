@@ -16,11 +16,11 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="../T/Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><a href="../F/First_Age.md" title="First Age">I</a><b>II</b><a href="../T/Third_Age.md" title="Third Age">III</a><a href="../F/Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="Second_Age_222.md" title="Second Age 222">222</a><a href="Second_Age_300.md" title="Second Age 300">300</a><a href="Second_Age_350.md" title="Second Age 350">350</a><a class="mw-selflink selflink">361</a><a href="Second_Age_371.md" title="Second Age 371">371</a><a href="Second_Age_377.md" title="Second Age 377">377</a><a href="Second_Age_382.md" title="Second Age 382">382</a></div></div></div></div></div></div>
 
-**Kỷ thứ hai 361** (viết tắt là **S.A. 361**) là năm [thứ 361 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ thứ hai](Second_Age.md) của [Trung Địa](../M/Middle-earth.md).
+**Kỷ thứ hai 361** (viết tắt là **S.A. 361**) là [năm Mặt trời](../Y/Years_of_the_Sun.md) thứ 361 của [Kỷ thứ hai](Second_Age.md) của [Trung Địa](../M/Middle-earth.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- Sinh [Eärendur](<../E/Eärendur_(son_of_Tar-Amandil).md>), con trai thứ hai và con của [Tar-Amandil](../T/Tar-Amandil.md).<sup id="cite_ref-UT_1-0" class="reference"><a href="#cite_note-UT-1">[1]</a></sup>
+- Sự ra đời của [Eärendur](<../E/Eärendur_(son_of_Tar-Amandil).md>), con trai thứ hai và con của [Tar-Amandil](../T/Tar-Amandil.md).<sup id="cite_ref-UT_1-0" class="reference"><a href="#cite_note-UT-1">[1]</a></sup>
 
 <span></span>
 

@@ -18,7 +18,7 @@ langlinks:
     url: "https://kontu.wiki/Alcar_i_Ataren"
 ---
 
-**Alcar i Ataren** là bản dịch chưa hoàn thành của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)tác phẩm <a class="extiw" href="http://en.wikipedia.org/wiki/Gloria_Patri" title="wikipedia:Gloria Patri">Gloria Patri</a> sang [Quenya](../Q/Quenya.md) mà ông viết vào những năm 1950. Bản thảo được xuất bản trong [*Vinyar Tengwar*, Số 43](../V/Vinyar_Tengwar_43.md), tháng 1 năm 2002, được biên tập bởi [Patrick H. Wynne](../P/Patrick_H._Wynne.md), [Arden R. Smith](Arden_R._Smith.md)và [Carl F. Hostetter](../C/Carl_F._Hostetter.md).
+**Alcar i Ataren** là bản dịch chưa hoàn thành của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) tác phẩm <a class="extiw" href="http://en.wikipedia.org/wiki/Gloria_Patri" title="wikipedia:Gloria Patri">Gloria Patri</a> sang [Quenya](../Q/Quenya.md) mà ông viết vào những năm 1950. Bản thảo được xuất bản trong [*Vinyar Tengwar*, Số 43](../V/Vinyar_Tengwar_43.md), tháng 1 năm 2002, được biên tập bởi [Patrick H. Wynne](../P/Patrick_H._Wynne.md), [Arden R. Smith](Arden_R._Smith.md) và [Carl F. Hostetter](../C/Carl_F._Hostetter.md).
 
 ## Cầu nguyện {#Prayer}
 

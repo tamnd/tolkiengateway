@@ -21,7 +21,7 @@ Vào [10 tháng 4](../_/10_April.md) [1969](../_/1969.md), [J.R.R. Tolkien](../J
 
 ## Nội dung {#Contents}
 
-\[Trích:\] "\[Trong thư, Tolkien\] kết luận rằng 'Ba Lan vì lợi ích của mình, nhưng đặc biệt vì đây là đất nước của bạn, luôn ở trong tâm trí tôi'"<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+\[Trích:\] "\[Trong thư, Tolkien\] kết luận rằng 'Ba Lan vì lợi ích riêng của mình, nhưng đặc biệt vì đây là đất nước của bạn, luôn ở trong tâm trí tôi'"<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 \[Contents and excerpts:\] "Tolkien replies to a letter from Mrs Mroczkowska (the wife of Przemyslaw Mroczkowski), who apparently is on a visit to Britain. He tries to keep his address secret 'from the Press and other intruders who have made it impossible for me to do any more writing especially as I am now beginning to feel my age' and is still rather lame from his accident the previous summer. Mrs Mroczkowska having enclosed a letter from her daughter asking about a thesis she has to present later in April, Tolkien wishes that the daughter had written to him sooner, allowing time for him to offer useful help and advice. He will do his best to send replies to reach Mrs Mroczkowska by 20 April so that she can take them back, but 'it is unfortunate that the next few days are already much occupied. My three sons, my lawyer, and my publisher are all descending on me to settle urgent affairs'<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 

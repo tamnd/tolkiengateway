@@ -72,19 +72,19 @@ Sự kiện xảy ra vào ngày 22 tháng 8
 - **[1971](1971.md)** - Diễn viên [Richard Armitage](../R/Richard_Armitage.md) ra đời.
 - **[1980](1980.md)** - Diễn viên lồng tiếng [Norman Shelley](../N/Norman_Shelley.md) qua đời.
 - <b><a href="1985.md" title="1985">1985</a> - <i><a href="../T/The_Lays_of_Beleriand.md" title="The Lays of Beleriand">The Lays of Beleriand</a></i> được xuất bản ở Anh.</b>
-- **[1992](1992.md)** - [Tolkien Hội nghị Thế kỷ](../T/Tolkien_Centenary_Conference.md), sự kết hợp giữa [Oxonmoot](../O/Oxonmoot.md) 1992 và [Mythcon](../M/Mythcon.md) 23, tại <a class="extiw" href="http://en.wikipedia.org/wiki/Keble_College,_Oxford" title="wikipedia:Keble College, Oxford">Keble College, Oxford</a>.
-- **[2006](2006.md)** - [Hội thảo Oxford Tolkien](../T/The_Oxford_Tolkien_Conference.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Exeter_College,_Oxford" title="wikipedia:Exeter College, Oxford">Exeter College, Oxford</a>.
+- **[1992](1992.md)** - [Hội nghị trăm năm Tolkien](../T/Tolkien_Centenary_Conference.md), sự kết hợp giữa [Oxonmoot](../O/Oxonmoot.md) 1992 và [Mythcon](../M/Mythcon.md) 23, tại <a class="extiw" href="http://en.wikipedia.org/wiki/Keble_College,_Oxford" title="wikipedia:Keble College, Oxford">Keble College, Oxford</a>.
+- **[2006](2006.md)** - [Hội nghị Oxford Tolkien](../T/The_Oxford_Tolkien_Conference.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Exeter_College,_Oxford" title="wikipedia:Exeter College, Oxford">Exeter College, Oxford</a>.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Gandalf](../G/Gandalf.md) bị giam giữ bởi [Saruman](../S/Saruman.md) trên đỉnh của [Orthanc](../O/Orthanc.md).
+    - [Gandalf](../G/Gandalf.md) bị [Saruman](../S/Saruman.md) giam giữ trên đỉnh [Orthanc](../O/Orthanc.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - Đoàn hộ tống đến lúc [Isengard](../I/Isengard.md); lúc hoàng hôn<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Vua [Elessar](../A/Aragorn.md) cấp [Isengard](../I/Isengard.md) cho Ent và nhận khóa của [Orthanc](../O/Orthanc.md).
+    - Đoàn hộ tống đến [Isengard](../I/Isengard.md); vào lúc hoàng hôn<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Vua [Elessar](../A/Aragorn.md) trao [Isengard](../I/Isengard.md) cho Người Ent và nhận chìa khóa của [Orthanc](../O/Orthanc.md).
     - [Aragorn](../A/Aragorn.md), [Gimli](../G/Gimli.md) và [Legolas](../L/Legolas.md) nói lời tạm biệt với [Gandalf](../G/Gandalf.md) và [bốn người Hobbit](../T/Travellers.md).
-    - Nhóm [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) chính thức bị giải tán.
-    - [Legolas](../L/Legolas.md) và [Gimli](../G/Gimli.md) lên đường đến vùng đất của riêng mình thông qua [Rừng Fangorn](../F/Fangorn_Forest.md).
+    - Nhóm [Hiệp hội của chiếc nhẫn](../F/Fellowship_of_the_Ring.md) chính thức giải tán.
+    - [Legolas](../L/Legolas.md) và [Gimli](../G/Gimli.md) khởi hành đến vùng đất của riêng họ thông qua [Rừng Fangorn](../F/Fangorn_Forest.md).
 
 <span></span>
 

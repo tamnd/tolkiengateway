@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-*Young [Éomer](../../main/_/Éomer.md) and [Éowyn](../../main/_/Éowyn.md)* bởi [Anna Lee](../../main/A/Anna_Lee.md).
+*Young [Éomer](../../main/_/Éomer.md) and [Éowyn](../../main/_/Éowyn.md)* của [Anna Lee](../../main/A/Anna_Lee.md).
 
 ## Giấy phép {#Licensing}
 

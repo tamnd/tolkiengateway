@@ -39,13 +39,13 @@ Bản in đầu tiên có bìa màu xanh lá cây trơn. Lần in thứ 4 (1968)
 ## Nội dung {#Contents}
 
 - "Giới thiệu" (biên tập) (trang i-iii)
-- "Sự trở lại của Vua" (thơ) -- Janet Boatner (tr. 1)
+- "Sự trở lại của nhà vua" (thơ) -- Janet Boatner (tr. 1)
 - "Tolkien trong những bức thư của C. S. Lewis" -- Richard C. West (trang 2-16)
-- " Pháp sư và Lịch sử: Tầm nhìn của Saruman về một Trật tự Mới" -- James Robinson (trang 17-23)
-- "Âm nhạc để đọc Tolkien Bởi: Giai điệu cho hai bài thơ" -- [Deborah Webster](../D/Deborah_Rogers.md) (tr. 24) \[cài đặt âm nhạc cho "The Tiên tộc Chào mừng 14 đến Rivendell" và "Lay of Beren và Luthien"\]
-- "The Interlace and Professor Tolkien: Kỹ thuật tường thuật thời Trung cổ trong *The Lord of the Rings*" -- R. C. West (trang 26-47) \[phiên bản sửa đổi của bài tiểu luận này sau đó đã được xuất bản trong *[A Tolkien Compass](../A/A_Tolkien_Compass.md)*, ed. Jared Lobdell\]
+- "Pháp sư và lịch sử: Tầm nhìn của Saruman về một trật tự mới" -- James Robinson (trang 17-23)
+- "Âm nhạc để đọc Tolkien theo: Giai điệu cho hai bài thơ" -- [Deborah Webster](../D/Deborah_Rogers.md) (tr. 24) \[cài đặt âm nhạc cho "The Elves Welcome the 14 to Rivendell" và "Lay of Beren and Luthien"\]
+- "The Interlace and Professor Tolkien: Medieval Narrative Technique in *The Lord of the Rings*" -- R. C. West (trang 26-47) \[phiên bản sửa đổi của bài tiểu luận này sau đó đã được xuất bản trong *[A Tolkien Compass](../A/A_Tolkien_Compass.md)*, ed. Jared Lobdell\]
 - "The Picnic" (nhại lại) -- Paulette Carroll (tr. 50)
-- "Thư mục có chú thích về Tolkien lời phê bình"—Richard Phương Tây (trang 51–90)
+- "Thư mục có chú thích về phê bình Tolkien"—Richard West (trang 51–90)
 
 <span></span>
 

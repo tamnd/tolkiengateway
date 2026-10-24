@@ -33,7 +33,7 @@ infobox:
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
-<i><b>Like Some Snow-white Marble Eyes</b></i> là ca khúc thứ tư trong album [Stronghold](../S/Stronghold.md) của ban nhạc [Summoning](../S/Summoning.md). Lời bài hát chịu ảnh hưởng từ bài thơ *Stars*của Robert Frost. nhưng cũng bị ảnh hưởng bởi sự giam cầm của [Húrin](../H/Húrin.md) dưới bàn tay của [Morgoth](../M/Morgoth.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>Like Some Snow-white Marble Eyes</b></i> là ca khúc thứ tư trong album [Stronghold](../S/Stronghold.md) của ban nhạc [Summoning](../S/Summoning.md). Lời bài hát chịu ảnh hưởng từ bài thơ *Stars* của Robert Frost. nhưng cũng bị ảnh hưởng bởi việc giam giữ [Húrin](../H/Húrin.md) dưới bàn tay của [Morgoth](../M/Morgoth.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Lời bài hát {#Lyrics}
 

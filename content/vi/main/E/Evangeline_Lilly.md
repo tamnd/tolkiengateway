@@ -40,7 +40,7 @@ infobox:
 
 ## Đố vui {#Trivia}
 
-Cô ấy thông thạo tiếng Pháp<sup id="cite_ref-:0_2-0" class="reference"><a href="#cite_note-:0-2">[2]</a></sup>
+Bà thông thạo tiếng Pháp<sup id="cite_ref-:0_2-0" class="reference"><a href="#cite_note-:0-2">[2]</a></sup>
 
 Trước *Lost*, phần diễn xuất duy nhất của cô là quảng cáo và các phần phụ không được ghi công.<sup id="cite_ref-:0_2-1" class="reference"><a href="#cite_note-:0-2">[2]</a></sup>
 

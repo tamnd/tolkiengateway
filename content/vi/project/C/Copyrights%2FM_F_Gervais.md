@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Gervais, M F"
 ---
 
-- MF Gervais đã vui lòng cho phép họ sử dụng [tác phẩm nghệ thuật của họ](../../category/I/Images_by_M_F_Gervais.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
+- MF Gervais đã vui lòng cho phép họ sử dụng [tác phẩm nghệ thuật của họ](../../category/I/Images_by_M_F_Gervais.md) trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
 - Ngày: ngày 2 tháng 6 năm 2024
 - Người dùng đã xin phép qua email: [Người dùng:Hyarion](https://tolkiengateway.net/wiki/User:Hyarion)

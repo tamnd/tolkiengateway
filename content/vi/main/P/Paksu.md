@@ -26,7 +26,7 @@ images:
 <p class="tg-quote-footer"><cite><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a></cite></p>
 </blockquote></div></div>
 
-**Paksu** là một nhân vật phụ trong [Những lá thư Giáng sinh của Cha](../T/The_Father_Christmas_Letters.md). Anh ta là một chú gấu Bắc Cực sống ở Bắc Cực. Anh ấy và anh trai [Valkotukka](../V/Valkotukka.md) là cháu trai của [North Polar Bear](../N/North_Polar_Bear.md).<sup id="cite_ref-31b_1-0" class="reference"><a href="#cite_note-31b-1">[1]</a></sup>
+**Paksu** là một nhân vật phụ trong [Những lá thư Giáng sinh của Cha](../T/The_Father_Christmas_Letters.md). Ông ta là một chú gấu Bắc Cực sống ở Bắc Cực. Anh và anh trai [Valkotukka](../V/Valkotukka.md) là cháu trai của [Gấu Bắc Cực](../N/North_Polar_Bear.md).<sup id="cite_ref-31b_1-0" class="reference"><a href="#cite_note-31b-1">[1]</a></sup>
 
 ## Lịch sử {#History}
 

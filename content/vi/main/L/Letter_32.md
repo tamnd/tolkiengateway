@@ -32,9 +32,9 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Masefield đã mời Tolkien đóng giả Chaucer vào năm 1938 của Oxford *Summer Diversions* để đọc thuộc lòng *Nun’s Priest’s Tale*. Kèm theo lời mời là một số dòng thơ mà Masefield đề xuất giới thiệu Tolkien. Tolkien chấp nhận và cho biết anh không phản đối lời giới thiệu của Masefield với tư cách là người biểu diễn. Tuy nhiên, với tư cách là học trò của Chaucer, ông cũng có một số phản đối: Những dòng cho rằng Chaucer là nhà thơ người Anh đầu tiên, và tất cả trước đó đều ngu ngốc và man rợ; điều này là sai lầm, Tolkien khẳng định, bởi vì trong truyền thống văn học 1200 năm của nước Anh, Chaucer đứng ở giữa. Tolkien cũng cảm thấy Chaucer mang phong cách mùa thu hơn là mùa xuân và thuộc tầng lớp trung lưu hơn là vua chúa.
+Masefield đã mời Tolkien đóng giả Chaucer trong vở *Summer Diversions* năm 1938 của Oxford để đọc thuộc lòng *Nun’s Priest’s Tale*. Kèm theo lời mời là một số dòng thơ mà Masefield đề xuất giới thiệu Tolkien. Tolkien chấp nhận và nói rằng ông không phản đối với tư cách là người biểu diễn phần giới thiệu của Masefield. Tuy nhiên, với tư cách là học trò của Chaucer, ông cũng có một số phản đối: Những dòng cho rằng Chaucer là nhà thơ người Anh đầu tiên, và tất cả trước đó đều ngu ngốc và man rợ; Tolkien khẳng định điều này là sai lầm bởi vì trong truyền thống văn học 1200 năm của nước Anh, Chaucer đứng ở giữa. Tolkien cũng cảm thấy Chaucer mang phong cách mùa thu hơn là mùa xuân và thuộc tầng lớp trung lưu hơn là vua chúa.
 
-Về phần trình diễn, Tolkien có những nghi ngại về việc sử dụng cách phát âm được cho là của thế kỷ 14, có thể không đủ dễ hiểu. Ông nghĩ rằng cách phát âm hiện đại đã được sửa đổi để tránh chủ nghĩa cổ xưa sẽ là tốt nhất, như Masefield đã từng làm. <br>
+Về phần trình diễn, Tolkien đã nghi ngờ về việc sử dụng cách phát âm được cho là của thế kỷ 14, có thể không đủ dễ hiểu. Ông nghĩ rằng cách phát âm hiện đại đã được sửa đổi để tránh chủ nghĩa cổ xưa sẽ là tốt nhất, như Masefield đã từng làm. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

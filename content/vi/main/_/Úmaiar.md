@@ -16,7 +16,7 @@ sort_keys:
   "Spirits": "Umaiar"
 ---
 
-<i><b>Úmaiar</b></i> (hoặc *Umaiar*) là từ [Quenya](../Q/Quenya.md) ám chỉ [ác linh](../E/Evil_spirits.md) bị tha hóa bởi [Morgoth](../M/Morgoth.md). Đứng đầu trong số đó là [Balrog](../B/Balrogs.md).<sup id="cite_ref-MR_1-0" class="reference"><a href="#cite_note-MR-1">[1]</a></sup>
+<i><b>Úmaiar</b></i> (hoặc *Umaiar*) là một từ [Quenya](../Q/Quenya.md) ám chỉ [ác linh](../E/Evil_spirits.md) bị tha hóa bởi [Morgoth](../M/Morgoth.md). Đứng đầu trong số đó là [Balrogs](../B/Balrogs.md).<sup id="cite_ref-MR_1-0" class="reference"><a href="#cite_note-MR-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

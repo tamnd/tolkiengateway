@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Neo-Elvish"
 ---
 
-Chuyển hướng đến [Neo-Elvish](Neo-Elvish.md).
+Chuyển hướng tới [Tân Elvish](Neo-Elvish.md).

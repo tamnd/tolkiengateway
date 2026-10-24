@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gobeth e Lam Edhellen: The Sindarin Dictionary"
 ---
 
-Chuyển hướng đến [Gobeth e Lam Edhellen: Sindarin Từ điển](../G/Gobeth_e_Lam_Edhellen%253A_The_Sindarin_Dictionary.md).
+Chuyển hướng đến [Gobeth e Lam Edhellen: The Sindarin Dictionary](../G/Gobeth_e_Lam_Edhellen%253A_The_Sindarin_Dictionary.md).

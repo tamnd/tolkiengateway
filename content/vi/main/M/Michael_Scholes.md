@@ -20,7 +20,7 @@ sort_keys:
   "People by name": "Scholes, Michael"
 ---
 
-**Michael Scholes** là người lồng tiếng cho [Samwise Gamgee](../S/Samwise_Gamgee.md) trong [The Lord of the Rings (phim 1978)](<../T/The_Lord_of_the_Rings_(1978_film).md>).
+**Michael Scholes** là người lồng tiếng cho [Samwise Gamgee](../S/Samwise_Gamgee.md) trong [The Lord of the Rings (1978 film)](<../T/The_Lord_of_the_Rings_(1978_film).md>).
 
 ## Liên kết ngoài {#External_links}
 

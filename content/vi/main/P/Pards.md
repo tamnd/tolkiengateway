@@ -12,11 +12,11 @@ categories:
   - "Animals"
 ---
 
-**Pards** là <a class="extiw" href="http://en.wikipedia.org/wiki/Felidae" title="wikipedia:Felidae">sinh vật mèo</a> chỉ được nhắc đến trong [Hobbit](../H/Hobbits.md) thơ. Rõ ràng những người được tha đã sống ở vùng đất rừng của phương Đông (có lẽ ám chỉ những vùng đất ngoài [Rhûn](../R/Rhûn.md), [Cực Đông](../U/Uttermost_East.md)). Con thú “bước nhanh” lao vào con mồi từ trên cao.<sup id="cite_ref-ATB12_1-0" class="reference"><a href="#cite_note-ATB12-1">[1]</a></sup>
+**Pards** là <a class="extiw" href="http://en.wikipedia.org/wiki/Felidae" title="wikipedia:Felidae">sinh vật mèo</a> chỉ được nhắc đến trong thơ [Hobbit](../H/Hobbits.md). Rõ ràng những người tha thứ sống ở vùng đất nhiều cây cối ở phía Đông (có lẽ ám chỉ những vùng đất nằm ngoài [Rhûn](../R/Rhûn.md), [Cực Đông](../U/Uttermost_East.md)). Con thú “bước nhanh” lao vào con mồi từ trên cao.<sup id="cite_ref-ATB12_1-0" class="reference"><a href="#cite_note-ATB12-1">[1]</a></sup>
 
 ## Cảm hứng {#Inspiration}
 
-Tại [Thư viện Bodleian](../B/Bodleian_Library.md) ở [Oxford](../O/Oxford.md) có lưu giữ một số bản viết tay về các sinh vật thời Trung cổ có mô tả về *pard*huyền thoại. Con vật này được mô tả là rất nhanh nhẹn, giết chết con mồi chỉ bằng một cú nhảy. Người ta tin rằng sự giao phối của một con pard và một [sư tử](../L/Lions.md) đã tạo ra con báo.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Trong [1962](../_/1962.md) [Tolkien](../J/J.R.R._Tolkien.md) xuất bản bài thơ "[Cat](<../C/Cat_(poem).md>)",<sup id="cite_ref-ATB12_1-1" class="reference"><a href="#cite_note-ATB12-1">[1]</a></sup> mang nhiều điểm tương đồng với quan niệm thời Trung cổ này, cho thấy rằng ông có thể đã quen thuộc với những bản viết tay này.
+Tại [Thư viện Bodleian](../B/Bodleian_Library.md) ở [Oxford](../O/Oxford.md) lưu giữ một số bản thảo về các quái vật thời Trung cổ có mô tả về *pard* huyền thoại. Con vật này được mô tả là rất nhanh nhẹn, giết chết con mồi chỉ bằng một cú nhảy. Người ta tin rằng sự giao phối của một con pard và một [sư tử](../L/Lions.md) đã tạo ra con báo.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Trong [1962](../_/1962.md) [Tolkien](../J/J.R.R._Tolkien.md) đã xuất bản bài thơ "[Cat](<../C/Cat_(poem).md>)",<sup id="cite_ref-ATB12_1-1" class="reference"><a href="#cite_note-ATB12-1">[1]</a></sup> mang nhiều điểm tương đồng với quan niệm thời Trung cổ này, cho thấy rằng ông có thể đã quen thuộc với những bản viết tay này.
 
 ## Liên kết ngoài {#External_links}
 

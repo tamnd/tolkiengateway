@@ -18,13 +18,13 @@ langlinks:
     url: "https://kontu.wiki/Coranar"
 ---
 
-**Canar** nghĩa đen là "mặt trời quay", tên do [Tiên tộc](../E/Elves.md) đặt cho một [năm dương lịch](../Y/Years_of_the_Sun.md).<sup id="cite_ref-cal_1-0" class="reference"><a href="#cite_note-cal-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Canar** nghĩa đen là "mặt trời quay", tên do [Yêu tinh](../E/Elves.md) đặt cho một [năm dương lịch](../Y/Years_of_the_Sun.md).<sup id="cite_ref-cal_1-0" class="reference"><a href="#cite_note-cal-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-[Valar](../V/Valar.md) dự định Năm của Mặt Trời có chính xác là 350 ngày, là một phần 1/10 của [Năm của Cây](../Y/Years_of_the_Trees.md). Tuy nhiên, [Mặt Trời](../S/Sun.md) và [Mặt Trăng](../M/Moon.md) di chuyển chậm hơn mong đợi so với dự kiến ​​của Valar và trong một vòng quay, Mặt Trời quay 365,25 lần thay vì 350, hoặc khoảng 1/9,58 của một Năm Cây.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+[Valar](../V/Valar.md) dự định Năm Mặt Trời có chính xác là 350 ngày, là một phần 1/10 của [Năm Cây](../Y/Years_of_the_Trees.md). Tuy nhiên, [Mặt trời](../S/Sun.md) và [Mặt trăng](../M/Moon.md) di chuyển chậm hơn dự kiến ​​so với dự kiến ​​của các Valar và trong một vòng quay, Mặt trời quay 365,25 vòng thay vì 350, tức xấp xỉ 1/9,58 của một Năm Cây.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Mặc dù [Dúnedain](../D/Dúnedain.md) (và [Hobbit](../H/Hobbits.md)) chia corana thành 365 ngày, nhưng số giờ tăng thêm (5 giờ, 48 phút, 46 giây) đã tích lũy thâm hụt sau nhiều thế kỷ; Để khắc phục điều này, một số lịch bao gồm "năm nhuận" bốn năm một lần (xem: [enderi](../E/Enderi.md), [Overlithe](../O/Overlithe.md)).
+Mặc dù [Dúnedain](../D/Dúnedain.md) (và [Hobbit](../H/Hobbits.md)) chia coranar thành 365 ngày, nhưng số giờ tăng thêm (5 giờ, 48 phút, 46 giây) đã tích lũy thâm hụt sau nhiều thế kỷ; Để khắc phục điều này, một số lịch bao gồm "năm nhuận" bốn năm một lần (xem: [enderi](../E/Enderi.md), [Overlithe](../O/Overlithe.md)).
 
-144 coranari đã tạo ra một [yén](../Y/Yén.md) là đơn vị thời gian cơ bản cho [bất tử](../I/Immortality.md) [Tiên tộc](../E/Elves.md).
+144 coranari đã tạo ra [yén](../Y/Yén.md) là đơn vị thời gian cơ bản của [bất tử](../I/Immortality.md) [Yêu tinh](../E/Elves.md).
 
 <span></span>
 

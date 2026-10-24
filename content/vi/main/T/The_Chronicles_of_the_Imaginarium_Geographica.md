@@ -21,7 +21,7 @@ images:
 
 <figure class="mw-halign-right" typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Chronicles_of_the_Imaginarium_Geographica_logo.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/1/17/The_Chronicles_of_the_Imaginarium_Geographica_logo.jpg/250px-The_Chronicles_of_the_Imaginarium_Geographica_logo.jpg" decoding="async" loading="lazy" width="250" height="49" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/17/The_Chronicles_of_the_Imaginarium_Geographica_logo.jpg/375px-The_Chronicles_of_the_Imaginarium_Geographica_logo.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/1/17/The_Chronicles_of_the_Imaginarium_Geographica_logo.jpg/500px-The_Chronicles_of_the_Imaginarium_Geographica_logo.jpg 2x" data-file-width="824" data-file-height="160"/></a><figcaption></figcaption></figure>
 
-**Biên niên sử của Imaginarium Geographica** là tựa một bộ sách được viết bởi [James A. Owen](../J/James_A._Owen.md). Truyện kể về câu chuyện hư cấu của John ([J.R.R. Tolkien](../J/J.R.R._Tolkien.md)), Charles ([Charles Williams](../C/Charles_Williams.md)) và Jack ([C.S. Lewis](../C/C.S._Lewis.md)). Bảy cuốn sách đã được xuất bản cho đến nay. Tác giả bắt đầu chiến dịch gây quỹ cộng đồng cho cuốn sách thứ tám vào năm 2016.
+**Biên niên sử của Imaginarium Geographica** là tựa một bộ sách được viết bởi [James A. Owen](../J/James_A._Owen.md). Sách kể một câu chuyện hư cấu của John ([J.R.R. Tolkien](../J/J.R.R._Tolkien.md)), Charles ([Charles Williams](../C/Charles_Williams.md)) và Jack ([C.S. Lewis](../C/C.S._Lewis.md)). Bảy cuốn sách đã được xuất bản cho đến nay. Tác giả bắt đầu chiến dịch gây quỹ cộng đồng cho cuốn sách thứ tám vào năm 2016.
 
 Warner Brothers đã mua bản quyền quay phim cho *The Chronicles of the Imaginarium Geographica* và [Rick Porras](../R/Rick_Porras.md), đồng sản xuất của [*The Lord of the Rings* (loạt phim)](<The_Lord_of_the_Rings_(film_series).md>), được cho là thành viên của nhóm sản xuất.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
@@ -54,7 +54,7 @@ Pursued by strange and terrifying creatures, the companions flee London aboard t
 ## Liên kết ngoài {#External_links}
 
 - <a class="external text" href="http://www.heretherebedragons.net" rel="noreferrer noopener" target="_blank">Trang web chính thức</a>
-- <a class="external text" href="http://www.kickstarter.com/projects/1401678214/the-dragon-knight-the-8th-imaginarium-geographica" rel="noreferrer noopener" target="_blank">Hiệp sĩ Rồng – Cuốn sách Imaginarium Geographica thứ 8 của James A. Owen — Kickstarter</a>
+- <a class="external text" href="http://www.kickstarter.com/projects/1401678214/the-dragon-knight-the-8th-imaginarium-geographica" rel="noreferrer noopener" target="_blank">Hiệp sĩ rồng – Cuốn sách Imaginarium Geographica thứ 8 của James A. Owen — Kickstarter</a>
 
 <span></span>
 

@@ -12,7 +12,7 @@ categories:
   - "Rohirrim"
 ---
 
-**Người da trắng** là cái tên trong số [Orc](../O/Orcs.md) dành cho [Những tay đua của Rohan](../R/Riders_of_Rohan.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> mà nguồn gốc phương Bắc xa xôi sẽ mang lại cho họ màu da nhạt hơn nhiều so với [Con Người](../M/Men.md) những người sống xung quanh họ.
+**Người da trắng** là tên trong số [Orc](../O/Orcs.md) dành cho [Kỵ sĩ Rohan](../R/Riders_of_Rohan.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> có nguồn gốc phương bắc xa xôi sẽ mang lại cho họ màu da nhạt hơn nhiều so với [Đàn ông](../M/Men.md) sống xung quanh họ.
 
 <span></span>
 

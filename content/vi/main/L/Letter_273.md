@@ -31,7 +31,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Bà Scott đang tham gia chiến dịch chống lại [Ace Books](../A/Ace_Books.md), người đã sản xuất ấn bản lậu của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* ở Hoa Kỳ. Tolkien cảm ơn cô ấy, vì anh ấy không có thời gian để tự mình chiến đấu với các ấn bản lậu, và thông báo với cô ấy rằng anh ấy đang đàm phán với [Ballantine Books](../B/Ballantine_Books.md) về một cuốn sách bìa mềm được ủy quyền sẽ được phát hành ở Mỹ. <br>
+Bà Scott đang tham gia chiến dịch chống lại [Ace Books](../A/Ace_Books.md), người đã sản xuất ấn bản lậu của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* ở Hoa Kỳ. Tolkien cảm ơn bà vì ông không có thời gian để tự mình đấu tranh với các ấn bản cướp biển và thông báo với bà rằng ông đang đàm phán với [Ballantine Books](../B/Ballantine_Books.md) về một cuốn sách bìa mềm được ủy quyền sẽ được phát hành ở Mỹ. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

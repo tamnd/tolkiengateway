@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Olórin](../../main/G/Gandalf.md) dưới dạng [Maia](../../main/M/Maiar.md) của [Manwë](../../main/M/Manwë.md) trong [Valinor](../../main/V/Valinor.md) và dưới dạng [Istar](../../main/I/Istar.md) trong Trung Địa.
+[Olórin](../../main/G/Gandalf.md) với tư cách là [Maia](../../main/M/Maiar.md) của [Manwë](../../main/M/Manwë.md) trong [Valinor](../../main/V/Valinor.md) và với tư cách là [Istar](../../main/I/Istar.md) trong Trung Địa.
 
 Trong nghệ thuật của Phobs, Maiar thường có chung đặc điểm với bản chất của Vala mà chúng phục vụ, chẳng hạn như đôi cánh cho Maiar của Manwë.
 

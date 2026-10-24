@@ -16,37 +16,37 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/H/Hurin_CD_Cover.png.md"><img src="https://tolkiengateway.net/w/images/thumb/9/92/Hurin_CD_Cover.png/300px-Hurin_CD_Cover.png" decoding="async" loading="lazy" width="300" height="315" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/92/Hurin_CD_Cover.png/450px-Hurin_CD_Cover.png 1.5x, https://tolkiengateway.net/w/images/thumb/9/92/Hurin_CD_Cover.png/600px-Hurin_CD_Cover.png 2x" data-file-width="1405" data-file-height="1474"/></a><figcaption>Artwork from the CD release with permission from Ted Nasmith.</figcaption></figure>
 
-Bản ghi demo hoàn chỉnh về tác phẩm opera của nhà soạn nhạc Paul Corfield Godfrey *[The Children of Húrin, Op. 48 (Opera)](<The_Children_of_Húrin,_Op._48_(Opera).md>)* từ vở kịch *Những cảnh sử thi từ The Silmarillion sau thần thoại J. R. R. Tolkien* do Volante Opera Productions ghi lại và được Prima Facie phát hành dưới dạng CD và bản tải xuống kỹ thuật số vào năm 2020.
+Bản ghi demo hoàn chỉnh về tác phẩm opera của nhà soạn nhạc Paul Corfield Godfrey *[The Children of Húrin, Op. 48 (Opera)](<The_Children_of_Húrin,_Op._48_(Opera).md>)* từ vở kịch *Những cảnh sử thi trong The Silmarillion sau thần thoại J. R. R. Tolkien* do Volante Opera Productions ghi lại và được Prima Facie phát hành dưới dạng CD và bản tải xuống kỹ thuật số vào năm 2020.
 
 <br> **Diễn viên:**
 
 Morgoth, kẻ thù (Bass): Laurence Cole
 
-Húrin Thalion, Chúa tể Nhà Hador (Đã nói): Julian Boyce
+Húrin Thalion, Lãnh chúa nhà Hador (Nói): Julian Boyce
 
-Túrin, con trai ông (Giọng nam cao): Simon Crosby Buttle
+Túrin, con trai ông (Tenor): Simon Crosby Buttle
 
 Morwen Eledhwen, vợ của Húrin (Mezzo-Soprano): Helen Greenaway
 
-Saeros, ủy viên hội đồng của Doriath (Tenor): Michael Clifton-Thompson
+Saeros, ủy viên hội đồng của Doriath (Giọng nam cao): Michael Clifton-Thompson
 
-Mablung của Heavy Hand, Thuyền trưởng của Doriath (Bass): Stephen Wells
+Mablung của Bàn tay nặng nề, Đội trưởng của Doriath (Bass): Stephen Wells
 
 Beleg Cúthalion, Đội trưởng của Doriath (Baritone): Philip Lloyd-Evans
 
-Gwindor, Lãnh chúa của Nargothrond (Baritone): Julian Boyce
+Gwindor, Lãnh chúa Nargothrond (Baritone): Julian Boyce
 
-Finduilas, con gái của Vua của Nargothrond (Soprano): Emma Mary Llewellyn
+Finduilas, con gái của Vua Nargothrond (Soprano): Emma Mary Llewellyn
 
 Glaurung, con rồng đầu tiên và vĩ đại nhất (Bass): George Newton-Fitzgerald
 
 Niënor, con gái của Húrin (Soprano): Angharad Morgan
 
-Dorlas, người rừng Brethil (Giọng nam cao): Michael Clifton-Thompson
+Dorlas, người thợ rừng của Brethil (Giọng nam cao): Michael Clifton-Thompson
 
-Brandir, Chúa tể của Brethil (Baritone): Philip Lloyd-Evans
+Brandir, Chúa tể của những người đàn ông Brethil (Baritone): Philip Lloyd-Evans
 
-<br> **Điệp khúc của những giọng nói và con người vô hình của Doriath, Nargothrond và Brethil:**
+<br> **Điệp khúc của những giọng nói vô hình và các dân tộc Doriath, Nargothrond và Brethil:**
 
 Angharad Morgan/Emma Mary Llewellyn/Louise Ratcliffe/Helen Greenaway/
 

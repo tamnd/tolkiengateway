@@ -15,7 +15,7 @@ sort_keys:
   "Quenya nouns": "Cuivie"
 ---
 
-<i><b>cuivië</b></i> là từ [Quenya](../Q/Quenya.md) mang ý nghĩa "thức tỉnh", xuất phát từ động từ <b><a class="new" href="https://tolkiengateway.net/w/index.php?title=Cuiva&amp;action=edit&amp;redlink=1" title="Cuiva (page does not exist)">cuiva</a>-</b>, "thức tỉnh".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>cuivië</b></i> là từ [Quenya](../Q/Quenya.md) có nghĩa là "thức tỉnh", xuất phát từ động từ <b><a class="new" href="https://tolkiengateway.net/w/index.php?title=Cuiva&amp;action=edit&amp;redlink=1" title="Cuiva (page does not exist)">cuiva</a>-</b>, "thức tỉnh".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Ví dụ {#Examples}
 

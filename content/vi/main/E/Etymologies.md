@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Etymologies"
 ---
 
-Chuyển hướng đến [The Etymologies](../T/The_Etymologies.md).
+Chuyển hướng đến [Từ nguyên](../T/The_Etymologies.md).

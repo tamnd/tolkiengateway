@@ -16,9 +16,9 @@ sort_keys:
   "Swedish organizations": "Tolkien Society of Sweden, The"
 ---
 
-**Hội Tolkien của Thụy Điển** (tên gốc bằng tiếng Anh) là Hiệp hội Tolkien đầu tiên ở Châu Âu, được thành lập tại [1968](../_/1968.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Gothenburg" title="wikipedia:Gothenburg">Gothenburg</a>. Lúc đầu chỉ có tên "Hội Tolkien", "của Thụy Điển" đã được thêm vào khi [Hội Tolkien](The_Tolkien_Society.md) được thành lập tại Vương quốc Anh vào năm 1969.
+**Hiệp hội Tolkien của Thụy Điển** (tên gốc bằng tiếng Anh) là Hiệp hội Tolkien đầu tiên ở Châu Âu, được thành lập tại [1968](../_/1968.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Gothenburg" title="wikipedia:Gothenburg">Gothenburg</a>. Lúc đầu chỉ có tên là "Hiệp hội Tolkien", "của Thụy Điển" được thêm vào khi [Hiệp hội Tolkien](The_Tolkien_Society.md) được thành lập tại Vương quốc Anh vào năm 1969.
 
-Mặc dù Hội Tolkien của Thụy Điển không còn tồn tại như vậy nữa, một số Hiệp hội Tolkien vẫn tồn tại ở Thụy Điển ngày nay (xem [Tolkien Hiệp hội](Tolkien_Societies~67099.md)).
+Mặc dù Hiệp hội Tolkien Thụy Điển không còn tồn tại như vậy nhưng ngày nay một số Hiệp hội Tolkien vẫn tồn tại ở Thụy Điển (xem [Hiệp hội Tolkien](Tolkien_Societies~67099.md)).
 
 ## Tài liệu tham khảo {#References}
 

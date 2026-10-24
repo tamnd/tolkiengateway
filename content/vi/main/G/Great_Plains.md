@@ -15,7 +15,7 @@ categories:
 
 **Great Plains** là khu vực mà [Gnomes](Gnomes.md) tiến vào sau khi trốn thoát khỏi Vùng đất bóng tối. Khu vực này chỉ được đề cập trong các phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md).<sup id="cite_ref-LT1_1-0" class="reference"><a href="#cite_note-LT1-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-[Christopher Tolkien](../C/Christopher_Tolkien.md) đã gợi ý rằng Region của Great Plains (là tên đầy đủ) có thể là "tiền thân của [Talath Dirnen](../T/Talath_Dirnen.md)" sau này.<sup id="cite_ref-LT1_1-1" class="reference"><a href="#cite_note-LT1-1">[1]</a></sup> Trong một bản thảo sau này, người ta tìm thấy cái tên tương tự **Great Plain**, được cho là một khu vực mà sau này được gọi là [Dor nu Fauglith](../D/Dor-nu-Fauglith.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+[Christopher Tolkien](../C/Christopher_Tolkien.md) đã gợi ý rằng Vùng Great Plains (tên đầy đủ) có thể là "tiền thân của [Talath Dirnen](../T/Talath_Dirnen.md) sau này".<sup id="cite_ref-LT1_1-1" class="reference"><a href="#cite_note-LT1-1">[1]</a></sup> Trong một bản thảo sau này, người ta tìm thấy cái tên tương tự **Great Plain**, được cho là một vùng mà sau này được gọi là [Dor nu Fauglith](../D/Dor-nu-Fauglith.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

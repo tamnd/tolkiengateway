@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Shadows of Mordor"
 ---
 
-Chuyển hướng tới [Bóng tối của Mordor](Shadows_of_Mordor.md).
+Chuyển hướng tới [Shadows of Mordor](Shadows_of_Mordor.md).

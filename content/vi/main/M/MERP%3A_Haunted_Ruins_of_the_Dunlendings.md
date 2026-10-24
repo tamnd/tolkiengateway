@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Haunted Ruins of the Dunlendings"
 ---
 
-Chuyển hướng đến [Tàn tích ma ám của Dunlending](../H/Haunted_Ruins_of_the_Dunlendings.md).
+Chuyển hướng tới [Tàn tích ma ám ở Dunlendings](../H/Haunted_Ruins_of_the_Dunlendings.md).

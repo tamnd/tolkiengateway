@@ -57,7 +57,7 @@ and leaves were laid upon the mould.
 
 ## Xem thêm {#See_also}
 
-- [Bài thơ trong The Hobbit](../P/Poems_in_The_Hobbit.md)
+- [Bài thơ trong Người Hobbit](../P/Poems_in_The_Hobbit.md)
 
 <span></span>
 

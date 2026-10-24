@@ -15,7 +15,7 @@ sort_keys:
   "Black Speech words": "Burz"
 ---
 
-<i><b>búrz</b></i> là một từ [Hắc Ngữ](Black_Speech.md) có nghĩa là "tối".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>búrz</b></i> là một từ [Bài phát biểu của người da đen](Black_Speech.md) có nghĩa là "đen tối".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Ví dụ {#Examples}
 

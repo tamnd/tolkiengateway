@@ -32,7 +32,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Orleg là thành viên của [Gaurwaith](../G/Gaurwaith.md) hay Người Sói đi săn trong rừng [Taeglin](../T/Taeglin.md). Khi nhóm tiến về phía nam dưới sự chỉ huy của Túrin họ gặp một nhóm [Orc](Orcs.md) đang đánh phá về phía nam. Túrin và Orleg đang trinh sát vùng đất thì bị Orc phát hiện và bị săn lùng về phía tây tới vùng hoang dã [Nargothrond](../N/Nargothrond.md). Ở đó Orleg bị giết bởi nhiều mũi tên nhưng Túrin trốn thoát và còn một chặng đường dài để trở về trại của kẻ ngoài vòng pháp luật.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Orleg là thành viên của [Gaurwaith](../G/Gaurwaith.md) hay Người Sói đi săn trong rừng [Taeglin](../T/Taeglin.md). Khi nhóm đi về phía nam dưới sự lãnh đạo của Túrin, họ gặp một nhóm [Orc](Orcs.md) đang đột kích về phía nam. Túrin và Orleg đang trinh sát vùng đất thì bị lũ Orc phát hiện và bị săn lùng về phía tây, hướng tới vùng hoang dã [Nargothrond](../N/Nargothrond.md). Ở đó Orleg bị giết bởi nhiều mũi tên nhưng Túrin đã trốn thoát và còn một chặng đường dài để trở về trại của kẻ ngoài vòng pháp luật.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

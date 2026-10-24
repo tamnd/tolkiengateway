@@ -22,9 +22,9 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Michael Silverman Catalogue Twenty-Seven</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">London: Michael Silverman</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/2009.md" title="2009">2009</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Dealer&#39;s catalogue</td></tr></tbody></table>
 
-<i><b>Michael Silverman Catalog Twenty-Seven</b></i> là danh mục của đại lý từ <a class="external text" href="http://www.michael-silverman.com/" rel="noreferrer noopener" target="_blank">Michael Silverman Literary & History Manuscripts</a> (London).
+<i><b>Danh mục Michael Silverman Twenty-Seven</b></i> là danh mục của đại lý từ <a class="external text" href="http://www.michael-silverman.com/" rel="noreferrer noopener" target="_blank">Bản thảo văn học và lịch sử Michael Silverman</a> (London).
 
-Mô tả mục 112 bao gồm các đoạn trích từ [một lá thư của J.R.R. Tolkien gửi Ronald Ashton](../L/Letter_to_Ronald_Ashton.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Mô tả mục 112 bao gồm các trích đoạn từ [bức thư của J.R.R. Tolkien gửi Ronald Ashton](../L/Letter_to_Ronald_Ashton.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

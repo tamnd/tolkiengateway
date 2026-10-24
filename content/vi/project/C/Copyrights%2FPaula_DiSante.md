@@ -15,7 +15,7 @@ sort_keys:
 ---
 
 - Tất cả hình ảnh đều do người giữ bản quyền tải lên.
-- Việc sử dụng các hình ảnh bên ngoài Tolkien Gateway bị cấm nếu không có sự cho phép của [Paula DiSante](https://tolkiengateway.net/wiki/User:Pdisante).
+- Việc sử dụng các hình ảnh bên ngoài Cổng Tolkien bị cấm nếu không có sự cho phép của [Paula DiSante](https://tolkiengateway.net/wiki/User:Pdisante).
 - [Paula DiSante](../../main/P/Paula_DiSante.md) đã xác nhận lại quyền sử dụng [tác phẩm nghệ thuật của cô](../../category/I/Images_by_Paula_DiSante.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Ngày: 6 tháng 1 năm 2012
 - Người dùng đã xin phép qua email: [Người dùng: Mith](https://tolkiengateway.net/wiki/User:Mith)

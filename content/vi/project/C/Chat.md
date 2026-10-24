@@ -20,11 +20,11 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/P/Paula_DiSante_-_Khazad-Zum_with_banner.png.md"><img src="https://tolkiengateway.net/w/images/thumb/2/24/Paula_DiSante_-_Khazad-Zum_with_banner.png/200px-Paula_DiSante_-_Khazad-Zum_with_banner.png" decoding="async" loading="lazy" width="200" height="190" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/24/Paula_DiSante_-_Khazad-Zum_with_banner.png/300px-Paula_DiSante_-_Khazad-Zum_with_banner.png 1.5x, https://tolkiengateway.net/w/images/thumb/2/24/Paula_DiSante_-_Khazad-Zum_with_banner.png/400px-Paula_DiSante_-_Khazad-Zum_with_banner.png 2x" data-file-width="850" data-file-height="809"/></a><figcaption><i>Khazad-zûm</i> by Paula DiSante</figcaption></figure>
 
-Tolkien Gateway có **nền tảng trò chuyện** riêng, được lưu trữ trên <b><a class="external text" href="http://discord.gg/ktX6fhU9FY" rel="noreferrer noopener" target="_blank">Máy chủ Discord</a></b>. <a class="external text" href="http://discord.gg/ktX6fhU9FY" rel="noreferrer noopener" target="_blank"><img src="https://discordapp.com/api/guilds/919188348319444993/widget.png" alt="widget.png"/></a>
+Cổng Tolkien có **nền tảng trò chuyện** riêng, được lưu trữ trên <b><a class="external text" href="http://discord.gg/ktX6fhU9FY" rel="noreferrer noopener" target="_blank">Máy chủ Discord</a></b>. <a class="external text" href="http://discord.gg/ktX6fhU9FY" rel="noreferrer noopener" target="_blank"><img src="https://discordapp.com/api/guilds/919188348319444993/widget.png" alt="widget.png"/></a>
 
 Nó hiện đang mở cửa cho các biên tập viên cũng như các thành viên của cộng đồng muốn đóng góp cho wiki, là nơi thảo luận mọi vấn đề liên quan đến wiki và nội dung của nó. Các trang thảo luận Wiki vẫn hữu ích cho những vấn đề đáng được đăng ký, nhưng nhiều cuộc thảo luận, cập nhật và đề xuất thường xuyên được đăng trên máy chủ Discord.
 
-**Xin vui lòng** lưu ý rằng trọng tâm chính của máy chủ là Tolkien Gateway wiki và việc bảo trì nó; trong khi cuộc trò chuyện liên quan đến Tolkien được chấp nhận trong các kênh thích hợp trên máy chủ, những *only* mong muốn có các cuộc thảo luận không liên quan đến wiki về Tolkien và các tác phẩm của anh ta nên tìm kiếm một diễn đàn thích hợp cho mục đích này.
+**Xin vui lòng** lưu ý rằng trọng tâm chính của máy chủ là wiki Tolkien Gateway và việc bảo trì nó; mặc dù cuộc trò chuyện liên quan đến Tolkien có thể được chấp nhận ở các kênh thích hợp trên máy chủ, những *only* mong muốn có các cuộc thảo luận không liên quan đến wiki về Tolkien và các tác phẩm của ông nên tìm kiếm một diễn đàn thích hợp cho mục đích này.
 
 Theo nguyên tắc chung, người dùng máy chủ Discord phải tuân theo [nguyên tắc hành vi](../P/Policy.md#Behavior_guidelines) giống như wiki:
 
@@ -38,5 +38,5 @@ Theo nguyên tắc chung, người dùng máy chủ Discord phải tuân theo [n
 
 ### Xem thêm {#See_also}
 
-- [Tolkien Gateway:Chat/Cựu](Chat%252FFormer.md), trang lưu trữ của cuộc trò chuyện trước đây.
-- [Tolkien Gateway:Cuộc họp](../M/Meetings.md), kho lưu trữ các cuộc họp được tổ chức trong cuộc trò chuyện trước đây cho đến năm 2012.
+- [Cổng Tolkien:Trò chuyện/Cựu](Chat%252FFormer.md), trang lưu trữ của cuộc trò chuyện trước đây.
+- [Cổng Tolkien:Cuộc họp](../M/Meetings.md), kho lưu trữ các cuộc họp được tổ chức trong cuộc trò chuyện trước đây cho đến năm 2012.

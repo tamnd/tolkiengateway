@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Black Númenóreans"
 ---
 
-Chuyển hướng tới [Đen người Númenor](../B/Black_Númenóreans.md).
+Chuyển hướng đến [Người Númenóre đen](../B/Black_Númenóreans.md).

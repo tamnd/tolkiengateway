@@ -14,10 +14,10 @@ images:
   - "Disambig.png"
 ---
 
-**Ponto Baggins** có thể ám chỉ hai thành viên của Gia đình [Baggins](../B/Baggins_Family~66343.md):
+**Ponto Baggins** có thể ám chỉ hai thành viên của [Gia đình Baggins](../B/Baggins_Family~66343.md):
 
-- [Ponto Baggins tôi](Ponto_Baggins_I.md) ([S.R.](../S/Shire_Reckoning.md) [1216](../T/Third_Age_2816.md)-[1311](../T/Third_Age_2911.md)), con trai của [Balbo Baggins](../B/Balbo_Baggins.md) và [Berylla Boffin](../B/Berylla_Boffin.md), và là chú của [Bilbo](../B/Bilbo_Baggins.md).
-- [Ponto Baggins II](Ponto_Baggins_II.md) (sinh ra [S.R.](../S/Shire_Reckoning.md) [1346](../T/Third_Age_2946.md)), con trai của [Posco Baggins](Posco_Baggins.md) và [Gilly Brownlock](../G/Gilly_Brownlock.md), và là chắt của [Ponto Baggins I](Ponto_Baggins_I.md).
+- [Ponto Baggins I](Ponto_Baggins_I.md) ([S.R.](../S/Shire_Reckoning.md) [1216](../T/Third_Age_2816.md)-[1311](../T/Third_Age_2911.md)), con trai của [Balbo Baggins](../B/Balbo_Baggins.md) và [Berylla Boffin](../B/Berylla_Boffin.md), và là chú của [Bilbo](../B/Bilbo_Baggins.md).
+- [Ponto Baggins II](Ponto_Baggins_II.md) (sinh [S.R.](../S/Shire_Reckoning.md) [1346](../T/Third_Age_2946.md)), con trai của [Posco Baggins](Posco_Baggins.md) và [Gilly Brownlock](../G/Gilly_Brownlock.md), và chắt của [Ponto Baggins I](Ponto_Baggins_I.md).
 
 <hr style="margin-top:15px;"/>
 

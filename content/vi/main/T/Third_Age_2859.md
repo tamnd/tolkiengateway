@@ -16,14 +16,14 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><a href="../F/First_Age.md" title="First Age">I</a><a href="../S/Second_Age.md" title="Second Age">II</a><b>III</b><a href="../F/Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="Third_Age_2856.md" title="Third Age 2856">2856</a><a href="Third_Age_2857.md" title="Third Age 2857">2857</a><a href="Third_Age_2858.md" title="Third Age 2858">2858</a><a class="mw-selflink selflink">2859</a><a href="Third_Age_2860.md" title="Third Age 2860">2860</a><a href="Third_Age_2861.md" title="Third Age 2861">2861</a><a href="Third_Age_2862.md" title="Third Age 2862">2862</a></div></div></div></div></div></div>
 
-**Kỷ Đệ Tam 2859** (viết tắt là **T.A. 2859**) là năm [thứ 2859 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Tam](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Kỷ Đệ Tam 2859 còn được gọi là **S.R. 1259** trong [lịch Shire](../S/Shire-reckoning.md).
+**Thời đại thứ ba 2859** (viết tắt là **T.A. 2859**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 2859 của [Thời đại thứ ba](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Thời đại thứ ba 2859 còn được gọi là **S.R. 1259** trong [Tính toán quận](../S/Shire-reckoning.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- Sinh [Fíli](../F/Fíli.md), con trai lớn của [Dís](../D/Dís.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+- Sự ra đời của [Fíli](../F/Fíli.md), con trai lớn của [Dís](../D/Dís.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 - Sinh ra [Hending](../H/Hending.md), con thứ tư và con trai thứ ba của [Holman tay xanh](../H/Holman_the_greenhanded.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
-- Cái chết của [Thân vương](../P/Princes_of_Dol_Amroth.md) thứ mười bảy vô danh của [Dol Amroth](../D/Dol_Amroth.md).<sup id="cite_ref-Elendil_3-0" class="reference"><a href="#cite_note-Elendil-3">[3]</a></sup>
-- Con trai giấu tên của Thân vương thứ mười bảy trở thành [Thân vương](../P/Princes_of_Dol_Amroth.md) thứ mười tám của [Dol Amroth](../D/Dol_Amroth.md).<sup id="cite_ref-Elendil_3-1" class="reference"><a href="#cite_note-Elendil-3">[3]</a></sup>
+- Cái chết của [Hoàng tử](../P/Princes_of_Dol_Amroth.md) thứ mười bảy vô danh của [Dol Amroth](../D/Dol_Amroth.md).<sup id="cite_ref-Elendil_3-0" class="reference"><a href="#cite_note-Elendil-3">[3]</a></sup>
+- Con trai giấu tên của Hoàng tử thứ mười bảy trở thành [Hoàng tử](../P/Princes_of_Dol_Amroth.md) thứ mười tám của [Dol Amroth](../D/Dol_Amroth.md).<sup id="cite_ref-Elendil_3-1" class="reference"><a href="#cite_note-Elendil-3">[3]</a></sup>
 
 <span></span>
 

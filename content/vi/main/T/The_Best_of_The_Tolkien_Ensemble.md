@@ -27,20 +27,20 @@ infobox:
 ## Danh sách bản nhạc {#Track_listing}
 
 1. Bài thơ về những chiếc nhẫn
-Bài hát của 2. Galadriel của Eldamar (I)
+2. Bài ca Eldamar của Galadriel (I)
 3. Bài hát dạo bộ (I)
-4. Bài ca dạo xưa (I)
+4. Bài hát dạo phố xưa (I)
 5. Có một quán trọ, một quán trọ cũ vui vẻ...
-Bài hát / Câu đố của 6. Gollum
-7. Bài hát của Gondor
-8. Bài hát diễu hành Ent'
-Bài hát của 9. Treebeard
+6. Bài hát / Câu đố của Gollum
+7. Bài ca của Gondor
+8. Bài hát diễu hành của Ent
+9. Bài hát của Treebeard
 10. Bài hát của Lebennin
-Bài hát của 11. Sam trong tòa tháp Orc
+11. Bài hát của Sam trong tháp Orc
 12. Bài hát dạo phố (II)
-13. Tiên Thánh ca tặng Elbereth Gilthoniel (III)
+13. Bài thánh ca của người Elven gửi Elbereth Gilthoniel (III)
 14. Bài hát chia tay của Merry & Pippin
-15. Hobbit giai điệu: Jigs 'n' Reels, Trực tiếp từ Buổi hòa nhạc tại Lâu đài Ledreborg 2005
+15. Giai điệu Hobbit: Jigs 'n' Reels, Trực tiếp từ Buổi hòa nhạc ở Lâu đài Ledreborg 2005
 16. Bài hát của Đại bàng, Trực tiếp từ Buổi hòa nhạc ở Lâu đài Ledreborg 2005
-Bài hát của 17. Galadriel của Eldamar (I), Trực tiếp từ Nhà hát Nhạc kịch Bremen 2008
-18. Jigs 'n' Reels (phiên bản encore), Trực tiếp từ Nhà hát Nhạc kịch Bremen 2008
+17. Bài hát Eldamar (I) của Galadriel, Trực tiếp từ Nhà hát Nhạc kịch Bremen 2008
+18. Jigs 'n' Reels (phiên bản encore), Trực tiếp từ Musical Theater Bremen 2008

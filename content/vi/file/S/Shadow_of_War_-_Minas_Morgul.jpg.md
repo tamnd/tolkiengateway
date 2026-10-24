@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Minas Morgul](../../main/M/Minas_Morgul.md) trong [Trung Địa: Bóng Tối Chiến tranh](../../main/M/Middle-earth%253A_Shadow_of_War.md).
+[Minas Morgul](../../main/M/Minas_Morgul.md) trong [Middle-earth: Shadow of War](../../main/M/Middle-earth%253A_Shadow_of_War.md).
 
 ## Giấy phép {#Licensing}
 

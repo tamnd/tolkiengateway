@@ -30,11 +30,11 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien kể cho L.W. Forster về những ảnh hưởng của anh ấy. Vì chữ viết của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* đã đạt tới [Bree](../B/Bree.md) vào năm [1937](../_/1937.md)nên Chiến tranh thế giới thứ hai và [bom nguyên tử](Letter_102.md) không có ảnh hưởng gì đến chữ viết. [Chiến tranh thế giới thứ nhất](../W/World_War_I.md) cũng vậy, mặc dù [Đầm lầy Chết](../D/Dead_Marshes.md) có nợ miền Bắc nước Pháp sau [Trận Somme](../B/Battle_of_the_Somme.md). Tuy nhiên, nó còn nợ [William Morris](../W/William_Morris.md)' <i><a class="extiw" href="http://en.wikipedia.org/wiki/The_House_of_the_Wolfings" title="wikipedia:The House of the Wolfings">The House of the Wolfings</a></i> và *[The Roots of the Mountains](../T/The_Roots_of_the_Mountains.md)*.
+Tolkien kể L.W. Forster về những ảnh hưởng của mình. Vì chữ viết của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* đã đến [Bree](../B/Bree.md) vào [1937](../_/1937.md) nên Chiến tranh thế giới thứ hai và [bom nguyên tử](Letter_102.md) không ảnh hưởng gì đến chữ viết. [Chiến tranh thế giới thứ nhất](../W/World_War_I.md) cũng vậy, mặc dù [Đầm lầy chết](../D/Dead_Marshes.md) đã nợ miền Bắc nước Pháp một thứ gì đó sau [Trận chiến Somme](../B/Battle_of_the_Somme.md). Tuy nhiên, nó còn nợ [William Morris](../W/William_Morris.md)' <i><a class="extiw" href="http://en.wikipedia.org/wiki/The_House_of_the_Wolfings" title="wikipedia:The House of the Wolfings">The House of the Wolfings</a></i> và *[The Roots of the Mountains](../T/The_Roots_of_the_Mountains.md)*.
 
 <dl><dt>In the expanded edition</dt></dl>
 
-Trong đoạn thứ hai Tolkien lưu ý rằng tên của anh ấy *Tolkien* cuối cùng có nguồn gốc từ Đức, từ Leipzig. Nó đánh vần đúng là "Tollkiehn", xuất phát từ *tollkühn*.
+Trong đoạn thứ hai, Tolkien lưu ý rằng tên của ông *Tolkien* cuối cùng có nguồn gốc từ Đức, từ Leipzig. Nó đánh vần đúng là "Tollkiehn", xuất phát từ *tollkühn*.
 
 ## Ghi chú {#Notes}
 

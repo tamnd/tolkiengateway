@@ -37,34 +37,34 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tolkien_Studies_-_Volume_1.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/a/a5/Tolkien_Studies_-_Volume_1.jpg/297px-Tolkien_Studies_-_Volume_1.jpg" decoding="async" loading="lazy" width="297" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/a/a5/Tolkien_Studies_-_Volume_1.jpg 1.5x" data-file-width="310" data-file-height="500"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Tolkien Studies: Volume 1</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../D/Douglas_A._Anderson.md" title="Douglas A. Anderson">Douglas A. Anderson</a>, <a href="../M/Michael_D.C._Drout.md" title="Michael D.C. Drout">Michael D.C. Drout</a>, <a href="../V/Verlyn_Flieger.md" title="Verlyn Flieger">Verlyn Flieger</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">West Virginia University</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Printed: April, <a href="../_/2004.md" title="2004">2004</a><br/>Digital: December, 2004</td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Hardcover; electronic</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">190</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0937058874" title="Special:BookSources/0937058874">0937058874</a></td></tr></tbody></table>
 
-<b><i>Tolkien Nghiên cứu</i>: Tập 1</b>, xuất bản trong [2004](../_/2004.md), là tập đầu tiên của tổng kết hàng năm *[Tolkien Studies](<Tolkien_Studies_(journal).md>)*.
+<b><i>Nghiên cứu của Tolkien</i>: Tập 1</b>, xuất bản trong [2004](../_/2004.md), là tập đầu tiên của bài đánh giá hàng năm *[Tolkien Studies](<Tolkien_Studies_(journal).md>)*.
 
-Bài viết của [Carl F. Hostetter](../C/Carl_F._Hostetter.md) in lại phiên bản tiếng Anh trung cổ [1944](../_/1944.md) của *[Sir Orfeo](<../S/Sir_Orfeo_(booklet).md>)* của J.R.R. Tolkien, phân tích sự khác biệt và tương đồng giữa phiên bản này và phiên bản tiếng Anh hiện đại của nó, cũng bởi Tolkien. Sau này đã được xuất bản trong *[Sir Gawain and the Green Knight, Pearl, and Sir Orfeo](../S/Sir_Gawain_and_the_Green_Knight,_Pearl,_and_Sir_Orfeo.md)* trong [1975](../_/1975.md).
+[Bài viết của Carl F. Hostetter](../C/Carl_F._Hostetter.md) in lại phiên bản [1944](../_/1944.md) tiếng Anh trung cổ của *[Sir Orfeo](<../S/Sir_Orfeo_(booklet).md>)* của J.R.R. Tolkien, nó phân tích sự khác biệt và tương đồng giữa phiên bản này với phiên bản tiếng Anh hiện đại của nó, cũng của Tolkien. Sau này đã được xuất bản trong *[Sir Gawain and the Green Knight, Pearl, and Sir Orfeo](../S/Sir_Gawain_and_the_Green_Knight,_Pearl,_and_Sir_Orfeo.md)* trong [1975](../_/1975.md).
 
 <div class="template-prevnext"><div class="template-prevnext__prev template-prevnext__link"><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/8/81/WikimediaUI-ArrowPrevious-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__content"><div class="template-prevnext__title">Tolkien Studies: Volume 1</div></div><div class="template-prevnext__linkoverlay"><a class="mw-selflink selflink">Tolkien Studies: Volume 1</a></div></div><div class="template-prevnext__current"><div class="template-prevnext__content"><div class="template-prevnext__title">Tolkien Studies: Volume 1</div></div></div><div class="template-prevnext__next template-prevnext__link"><div class="template-prevnext__content"><div class="template-prevnext__title">Tolkien Studies: Volume 2</div></div><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/7b/WikimediaUI-ArrowNext-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__linkoverlay"><a href="Tolkien_Studies%253A_Volume_2.md" title="Tolkien Studies: Volume 2">Tolkien Studies: Volume 2</a></div></div></div>
 
 ## Nội dung {#Contents}
 
 - Bài viết
-    - Tom Shippey, "Yêu tinh ánh sáng, Yêu tinh bóng tối và những loài khác: Vấn đề Elvish của Tolkien"
+    - Tom Shippey, "Yêu tinh ánh sáng, Yêu tinh bóng tối và những người khác: Vấn đề yêu tinh của Tolkien"
     - Douglas A. Anderson, "[Tom Shippey](Tom_Shippey.md) trên J.R.R. Tolkien: Danh sách kiểm tra"
-    - Gergely Nagy, "Văn bản chuyển thể: Thơ thất lạc của Beleriand"
-    - Verlyn Flieger, "'Làm câu chuyện về Atlantis và từ bỏ Eriol-Saga'"
+    - Gergely Nagy, "Văn bản chuyển thể: Bài thơ thất lạc của Beleriand"
+    - Verlyn Flieger, "'Thực hiện câu chuyện về Atlantis và từ bỏ Eriol-Saga'"
     - Anne C. Petty, "Xác định Lönnrot của nước Anh"
     - J.R.R. Tolkien, Carl F. Hostetter, "*[Sir Orfeo](<../S/Sir_Orfeo_(booklet).md>)*: Phiên bản tiếng Anh trung cổ của J.R.R. Tolkien"
-    - Mark T. Hooker, "Người dơi củaFrodo"
-    - Michael D.C. Drout, "Phong cách văn xuôi củaTolkien và tác dụng văn học và tu từ của nó"
+    - Mark T. Hooker, "Người dơi của Frodo"
+    - Michael D.C. Drout, "Phong cách văn xuôi của Tolkien và những hiệu ứng văn học và tu từ của nó"
     - Olga Markova, Mark T. Hooker, "Khi Ngữ văn trở thành Hệ tư tưởng: Quan điểm của người Nga về J.R.R. Tolkien"
 
 - Ghi chú và tài liệu
-    - Thomas Honegger, "Ghi chú về việc Beren and Lúthien cải trang thành Người sói và Dơi ma cà rồng"
-    - Dale Nelson, "Có thể có tiếng vọng của Blackwood và Dunsany trong Tolkien's Fantasy"
+    - Thomas Honegger, "Ghi chú về việc Beren và Lúthien cải trang thành Người sói và Dơi ma cà rồng"
+    - Dale Nelson, "Có thể có tiếng vang của Blackwood và Dunsany trong truyện giả tưởng của Tolkien"
 
 - Michael D.C. Drout, Laura Kalafarski, và Stefanie Olsen, "Thư mục (bằng tiếng Anh) năm 2001-2002"
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="https://muse.jhu.edu/issue/9448" rel="noreferrer noopener" target="_blank"><i>Tolkien Nghiên cứu</i>: Tập 1</a> tại Project Muse (truy cập miễn phí)
+- <a class="external text" href="https://muse.jhu.edu/issue/9448" rel="noreferrer noopener" target="_blank"><i>Nghiên cứu Tolkien</i>: Tập 1</a> tại Project Muse (truy cập miễn phí)
 - <a class="external text" href="https://muse.jhu.edu/pub/20/article/176069/pdf" rel="noreferrer noopener" target="_blank"><i>Sir Orfeo</i>: Phiên bản tiếng Anh trung cổ của J.R.R. Tolkien</a> (pdf)
 
 <br clear="all"/>

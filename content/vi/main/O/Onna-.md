@@ -15,7 +15,7 @@ sort_keys:
   "Sindarin verbs": "Onna"
 ---
 
-<i><b>onna-</b></i> là động từ [Sindarin](../S/Sindarin.md) có nghĩa là **sanh ra**. Xem thêm phân từ *[onnen](Onnen.md)*và từ đồng nghĩa *[edonna-](../E/Edonna-.md)*.
+<i><b>onna-</b></i> là động từ [tiếng Sindarin](../S/Sindarin.md) có nghĩa là **sinh ra**. Xem thêm phân từ *[onnen](Onnen.md)* và từ đồng nghĩa *[edonna-](../E/Edonna-.md)*.
 
 The [Old Sindarin](Old_Sindarin.md) form would be *ont<sup>h</sup>a-*.
 

@@ -16,9 +16,9 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/Q/Quentandil_-_Gnomic_Letters.png.md"><img src="https://tolkiengateway.net/w/images/thumb/7/7e/Quentandil_-_Gnomic_Letters.png/300px-Quentandil_-_Gnomic_Letters.png" decoding="async" loading="lazy" width="300" height="325" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/7e/Quentandil_-_Gnomic_Letters.png/450px-Quentandil_-_Gnomic_Letters.png 1.5x, https://tolkiengateway.net/w/images/thumb/7/7e/Quentandil_-_Gnomic_Letters.png/600px-Quentandil_-_Gnomic_Letters.png 2x" data-file-width="2515" data-file-height="2725"/></a><figcaption>Selected Gnomic Letters. The first trace being in capital, followed by the lower case</figcaption></figure>
 
-**Gnomic Letters** là một hệ thống chữ viết được tạo bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) khi ông làm việc tại [Đại học Leeds](../U/University_of_Leeds.md) giữa [1920](../_/1920.md)-[5](../_/1925.md). Nó được hình thành khi Tolkien lần đầu tiên tạo tập lệnh và, giống như [Gondolinic Runes](Gondolinic_Runes.md), tập lệnh này không bao giờ được sử dụng sau đó. Điều đáng chú ý là nó bao gồm một hệ thống chữ thường.
+**Gnomic Letters** là một hệ thống chữ viết được tạo ra bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) khi ông làm việc tại [Đại học Leeds](../U/University_of_Leeds.md) giữa [1920](../_/1920.md)-[5](../_/1925.md). Nó được hình thành khi Tolkien lần đầu tiên tạo chữ viết và, giống như [Gondolinic Runes](Gondolinic_Runes.md), chữ viết này không bao giờ được sử dụng sau đó. Điều đáng chú ý là nó bao gồm một hệ thống chữ thường.
 
-Các chữ cái được tạo dưới dạng chữ viết cho ngôn ngữ [Gnomish](Gnomish.md), các từ duy nhất được phiên âm có liên quan đến ngôn ngữ (*ilam naŋgóldaþon*).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Các chữ cái được tạo dưới dạng chữ viết cho ngôn ngữ [Gnomish](Gnomish.md), những từ duy nhất được phiên âm có liên quan đến ngôn ngữ (*ilam naŋgóldaþon*).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

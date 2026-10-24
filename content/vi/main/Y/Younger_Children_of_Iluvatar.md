@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Younger Children of Ilúvatar"
 ---
 
-Chuyển hướng đến [Trẻ hơn Những Người Con của Ilúvatar](Younger_Children_of_Ilúvatar.md).
+Chuyển hướng tới [Những đứa trẻ nhỏ của Ilúvatar](Younger_Children_of_Ilúvatar.md).

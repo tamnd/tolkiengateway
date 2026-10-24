@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lord of the Rings: The Fellowship of the Ring - The Complete Recordings"
 ---
 
-Chuyển hướng đến [The Lord of the Rings: The Fellowship of the Ring - Bản ghi hoàn chỉnh](The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_-_The_Complete_Recordings.md).
+Chuyển hướng đến [The Lord of the Rings: The Fellowship of the Ring - The Complete Recordings](The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_-_The_Complete_Recordings.md).

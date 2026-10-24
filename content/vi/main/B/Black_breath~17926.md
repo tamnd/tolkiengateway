@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Black Breath"
 ---
 
-Chuyển hướng đến [Hơi Thở Đen](Black_Breath.md).
+Chuyển hướng đến [Hơi thở đen](Black_Breath.md).

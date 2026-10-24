@@ -15,6 +15,6 @@ sort_keys:
 ---
 
 - Người giữ bản quyền [Hiệp hội Tolkien Brazil](../../main/T/The_Brazilian_Tolkien_Society.md) cấp quyền sử dụng [Logo STB Wiki.png](../../file/L/Logo_STB_Wiki.png.md) trên Tolkien Gateway.
-- Tuyên bố từ chủ sở hữu bản quyền: "*Có, tôi nghĩ vậy, vì nhãn hiệu là của chúng tôi nên chúng tôi chắc chắn đồng ý hiển thị logo của riêng mình trên Tolkien Gateway, không sao cả!.*" ([Thảo luận của người dùng:Amroth](https://tolkiengateway.net/wiki/User_talk:Amroth/2012#Logo))
+- Tuyên bố từ chủ sở hữu bản quyền: "*Có, tôi nghĩ vậy, vì nhãn hiệu là của chúng tôi nên chúng tôi chắc chắn đồng ý hiển thị logo của riêng mình trên Tolkien Gateway, điều đó được thôi!.*" ([Thảo luận của người dùng:Amroth](https://tolkiengateway.net/wiki/User_talk:Amroth/2012#Logo))
 - Ngày: 17 tháng 2 năm 2012
 - Người dùng đã xin phép: [Người dùng:Amroth](https://tolkiengateway.net/wiki/User:Amroth)

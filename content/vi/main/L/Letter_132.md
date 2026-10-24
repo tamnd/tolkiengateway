@@ -31,11 +31,11 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-[Tolkien](../J/J.R.R._Tolkien.md) kể cho [con trai cả](../J/John_Tolkien.md) của mình về một "bữa tiệc giăm bông" mà anh ấy đã có với [C.S. Lewis](../C/C.S._Lewis.md) và [Charles Leslie Wrenn](../C/Charles_Leslie_Wrenn.md). Một tiến sĩ Firor của <a class="extiw" href="http://en.wikipedia.org/wiki/Johns_Hopkins_University" title="wikipedia:Johns Hopkins University">Đại học Johns Hopkins</a> đã mang đến một chiếc giăm bông Mỹ và Tolkien đã tận hưởng buổi tối: thật yên tĩnh và hợp lý, "vì [Hugo](../H/Hugo_Dyson.md) không được mời".
+[Tolkien](../J/J.R.R._Tolkien.md) kể cho [con trai cả](../J/John_Tolkien.md) của mình về một "bữa tiệc giăm bông" mà ông đã có với [C.S. Lewis](../C/C.S._Lewis.md) và [Charles Leslie Wrenn](../C/Charles_Leslie_Wrenn.md). Một Tiến sĩ Firor của <a class="extiw" href="http://en.wikipedia.org/wiki/Johns_Hopkins_University" title="wikipedia:Johns Hopkins University">Đại học Johns Hopkins</a> đã mang đến một chiếc giăm bông Mỹ, và Tolkien đã tận hưởng buổi tối đó: thật yên tĩnh và lý trí, "vì [Hugo](../H/Hugo_Dyson.md) không được mời".
 
 ## Ghi chú {#Notes}
 
-Tiến sĩ Firor của Đại học Johns Hopkins chưa được [Christopher Tolkien](../C/Christopher_Tolkien.md) hoặc [Humphrey Carpenter](../H/Humphrey_Carpenter.md) xác định danh tính. Tiến sĩ Firor duy nhất được JHU tuyển dụng vào thời điểm đó là <a class="external text" href="http://medicalarchives.jhmi.edu/sgml/firor.html" rel="noreferrer noopener" target="_blank">Warfield Monroe Firor</a>, một giáo sư Y khoa. Công việc kinh doanh của anh ta với Inklings là gì vẫn chưa được biết. <br>
+Tiến sĩ Firor của Đại học Johns Hopkins chưa được xác định bởi [Christopher Tolkien](../C/Christopher_Tolkien.md) hoặc [Humphrey Carpenter](../H/Humphrey_Carpenter.md). Tiến sĩ Firor duy nhất được JHU tuyển dụng vào thời điểm đó là <a class="external text" href="http://medicalarchives.jhmi.edu/sgml/firor.html" rel="noreferrer noopener" target="_blank">Warfield Monroe Firor</a>, một giáo sư Y khoa. Công việc kinh doanh của ông ta với Inklings là gì vẫn chưa được biết. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

@@ -12,11 +12,11 @@ categories:
   - "Other fictional worlds"
 ---
 
-**Major Road Ahead** là một anh hùng — một nhân vật trong "sử thi gia đình dài tập" được [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) kể cho các con của mình nghe. Các câu chuyện “xoay quanh nỗ lực không mệt mỏi của Major Road Ahead để truy tố kẻ thủ ác”, [Bill Sticker](../B/Bill_Stickers.md).<sup id="cite_ref-Bio_1-0" class="reference"><a href="#cite_note-Bio-1">[1]</a></sup>
+**Major Road Ahead** là một anh hùng — một nhân vật trong "sử thi gia đình lâu đời" được [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) kể cho các con của mình nghe. Các câu chuyện “xoay quanh nỗ lực không mệt mỏi của Major Road Ahead để truy tố kẻ thủ ác”, [Bill Sticker](../B/Bill_Stickers.md).<sup id="cite_ref-Bio_1-0" class="reference"><a href="#cite_note-Bio-1">[1]</a></sup>
 
 ## Cảm hứng {#Inspiration}
 
-Những câu chuyện về Major Road Ahead và Bill Sticker chỉ được kể bằng miệng (có thể khoảng [1926](../_/1926.md) và [1930](../_/1930.md)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>) và do đó chưa được ghi lại,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> không giống như *[Roverandom](../R/Roverandom.md)* và *[Letters from Father Christmas](../L/Letters_from_Father_Christmas.md)*chẳng hạn.
+Những câu chuyện về Major Road Ahead và Bill Sticker chỉ được kể bằng miệng (có thể khoảng [1926](../_/1926.md) và [1930](../_/1930.md)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>) và do đó chưa được ghi lại,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> không giống như *[Roverandom](../R/Roverandom.md)* và *[Letters from Father Christmas](../L/Letters_from_Father_Christmas.md)* chẳng hạn.
 
 <span></span>
 

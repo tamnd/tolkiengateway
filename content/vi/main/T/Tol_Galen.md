@@ -46,13 +46,13 @@ infobox:
 
 ## Lịch sử {#History}
 
-Sau khi trở về [Trung Địa](../M/Middle-earth.md), [Beren](../B/Beren.md) và [Lúthien](../L/Lúthien.md) cư trú tại Tol Galen trong thời gian còn lại của họ trong phạm vi giới hạn của [Eä](../E/Eä.md). Chính tại đây, đứa con trai [Dior](../D/Dior.md) của họ đã chào đời. Quốc gia xung quanh Tol Galen sau này được gọi là *[Dor Firn-i-Guinar](../D/Dor_Firn-i-Guinar.md)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Sau khi trở về [Trung địa](../M/Middle-earth.md), [Beren](../B/Beren.md) và [Lúthien](../L/Lúthien.md) cư trú tại Tol Galen trong thời gian còn lại của họ trong phạm vi [Eä](../E/Eä.md). Chính tại đây, con trai của họ, [Dior](../D/Dior.md), đã chào đời. Đất nước xung quanh Tol Galen sau này được gọi là *[Dor Firn-i-Guinar](../D/Dor_Firn-i-Guinar.md)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Sau cái chết của [Thingol](Thingol.md), Beren rời đi Tol Galen và cùng với con trai và một đoàn quân Tiên Xanh, đến phía bắc Sông [Ascar](../A/Ascar.md). Tại [Sarn Athrad](../S/Sarn_Athrad.md) chúng tấn công những [Người lùn Nogrod](../D/Dwarves_of_Nogrod.md) trở về từ [Doriath](../D/Doriath.md) bằng chiến lợi phẩm của chúng. Người Lùn đã bị đánh bại và toàn bộ kho báu bị ném vào Ascar, hãy cứu một người. [Silmaril](../S/Silmarils.md) từ vương miện của [Morgoth](../M/Morgoth.md), được đặt trong [Nauglamír](../N/Nauglamír.md), đã trở lại tay của Beren. Anh ấy đưa nó về Tol Galen. Người ta kể rằng khi Lúthien đeo Vòng cổ của Người Lùn 'Vùng đất của người chết sống trở nên giống như ảo ảnh về vùng đất của Valar, và kể từ đó, chưa có nơi nào lại công bằng, trù phú hoặc tràn ngập ánh sáng như vậy.'<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Sau cái chết của [Thingol](Thingol.md), Beren rời Tol Galen và cùng con trai và một nhóm Yêu tinh xanh đến phía bắc Sông [Ascar](../A/Ascar.md). Tại [Sarn Athrad](../S/Sarn_Athrad.md) họ tấn công [Người lùn Nogrod](../D/Dwarves_of_Nogrod.md) trở về từ [Doriath](../D/Doriath.md) cùng với chiến lợi phẩm của họ. Người lùn bị đánh bại và tất cả kho báu bị ném vào Ascar, hãy cứu một người. [Silmaril](../S/Silmarils.md) từ vương miện của [Morgoth](../M/Morgoth.md), đặt trong [Nauglamír](../N/Nauglamír.md), đã trở lại tay Beren. Ông ta mang nó lại cho Tol Galen. Người ta kể rằng khi Lúthien đeo Vòng cổ của Người lùn, 'Vùng đất của người chết sống' trở nên giống như ảo ảnh về vùng đất của các Valar, và kể từ đó, chưa có nơi nào lại đẹp đẽ, trù phú và tràn ngập ánh sáng như vậy.'<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Tol Galen* có nghĩa là "Đảo Xanh",<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> bao gồm các từ [Sindarin](../S/Sindarin.md) *[tol](Tol.md)* ("đảo") + *[calen](../C/Calen.md)* ("xanh").<sup id="cite_ref-Tolkiendil_5-0" class="reference"><a href="#cite_note-Tolkiendil-5">[5]</a></sup>
+*Tol Galen* có nghĩa là "Đảo xanh",<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> bao gồm các từ [Sindarin](../S/Sindarin.md) *[tol](Tol.md)* ("đảo") + *[calen](../C/Calen.md)* ("xanh").<sup id="cite_ref-Tolkiendil_5-0" class="reference"><a href="#cite_note-Tolkiendil-5">[5]</a></sup>
 
 <span></span>
 

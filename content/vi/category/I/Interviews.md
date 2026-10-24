@@ -12,4 +12,4 @@ categories:
   - "Tolkien Gateway research"
 ---
 
-Các cuộc phỏng vấn hoặc liên quan đến [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) và các tác phẩm của anh ấy.
+Các cuộc phỏng vấn hoặc liên quan đến [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) và các tác phẩm của ông.

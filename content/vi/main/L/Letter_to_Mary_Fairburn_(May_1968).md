@@ -17,14 +17,14 @@ sort_keys:
 
 Vào tháng 5 [1968](../_/1968.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho [Mary Fairburn](../M/Mary_Fairburn.md)**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-- **Nội dung:** Fairburn đã gửi hình ảnh minh họa của [Trung Địa](../M/Middle-earth.md) tới Tolkien, người trả lời rằng anh ấy coi chúng là "*tuyệt vời. Bản thân chúng là những bức tranh đẹp hơn và cũng thể hiện sự chú ý đến văn bản nhiều hơn bất kỳ bức tranh nào chưa được gửi cho tôi*". Các hình minh họa của Fairburn bao gồm hình minh họa bằng bút mực về [Gandalf](../G/Gandalf.md) trên tháp [Orthanc](../O/Orthanc.md) và "*a little sketch of [Gollum](../G/Gollum.md)*", đồng thời Tolkien tiếp tục: "*Sau khi xem mẫu vật của bạn, tôi bắt đầu \[...\] nghĩ rằng một ấn bản có minh họa có thể là một điều tốt*". Tolkien kết thúc bức thư bằng cách nói với Fairburn rằng anh sẽ "*very pleased indeed*" xem những bức ảnh khác của cô khi chúng hoàn thành.
+- **Nội dung:** Fairburn đã gửi các hình ảnh minh họa về [Trung địa](../M/Middle-earth.md) cho Tolkien, Tolkien trả lời rằng ông coi chúng là "*tuyệt vời. Bản thân chúng là những bức tranh đẹp hơn và cũng thể hiện sự chú ý đến văn bản nhiều hơn bất kỳ bức tranh nào chưa được gửi cho tôi*". Các hình minh họa của Fairburn bao gồm hình minh họa bằng bút mực về [Gandalf](../G/Gandalf.md) trên tháp [Orthanc](../O/Orthanc.md) và "*a little sketch of [Gollum](../G/Gollum.md)*", và Tolkien tiếp tục: "*Sau khi xem mẫu vật của bạn, tôi bắt đầu \[...\] nghĩ rằng một ấn bản có minh họa có thể là một điều tốt*". Tolkien kết thúc bức thư bằng cách nói với Fairburn rằng anh sẽ "*very pleased indeed*" xem những bức ảnh khác của cô khi chúng hoàn thành.
 
 - **Mô tả:** Thư đánh máy.
-- **Xuất bản:** [*The Times Literary Supplement* 14 tháng Chín 2012](../T/The_Times_Literary_Supplement_14_September_2012.md).
+- **Xuất bản:** [*The Times Literary Supplement* ngày 14 tháng 9 năm 2012](../T/The_Times_Literary_Supplement_14_September_2012.md).
 
 ## Xem thêm {#See_also}
 
-- [Thư gửi Mary Fairburn (4 tháng Chín 1968)](<Letter_to_Mary_Fairburn_(4_September_1968).md>)
+- [Thư gửi Mary Fairburn (4 tháng 9 năm 1968)](<Letter_to_Mary_Fairburn_(4_September_1968).md>)
 - [Thư gửi Mary Fairburn (10 tháng 10 năm 1968)](<Letter_to_Mary_Fairburn_(10_October_1968).md>)
 - [Thư gửi Mary Fairburn (4 tháng 11 năm 1968)](<Letter_to_Mary_Fairburn_(4_November_1968).md>)
 

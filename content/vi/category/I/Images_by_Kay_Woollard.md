@@ -14,6 +14,6 @@ sort_keys:
   "Images by artist": "Woollard, Kay"
 ---
 
-Danh mục này liệt kê tất cả **hình ảnh theo [Kay Woollard](../../main/K/Kay_Woollard.md)**.
+Danh mục này liệt kê tất cả **hình ảnh của [Kay Woollard](../../main/K/Kay_Woollard.md)**.
 
 <dl><dd><i>See also <a href="../../main/K/Kay_Woollard%252FGallery.md" title="Kay Woollard/Gallery">Kay Woollard/Gallery</a>.</i></dd></dl>

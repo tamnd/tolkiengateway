@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Neldoreth (Rhûn)"
 ---
 
-Chuyển hướng tới [Neldoreth (Rhûn)](<Neldoreth_(Rhûn).md>).
+Chuyển hướng đến [Neldoreth (Rhûn)](<Neldoreth_(Rhûn).md>).

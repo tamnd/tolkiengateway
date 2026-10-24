@@ -43,27 +43,27 @@ infobox:
 
 **Limlight** là một con sông ở phía bắc [Rohan](../R/Rohan.md) chảy qua phía bắc [Fangorn](../F/Fangorn_Forest.md) và đổ vào [Anduin](../A/Anduin.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Nó tạo thành ranh giới phía nam của [Cánh đồng Celebrant](../F/Field_of_Celebrant.md) và được [Celeborn](../C/Celeborn.md) và [Galadriel](../G/Galadriel.md) của [Lothlórien](Lothlórien.md) tuyên bố là ranh giới phía nam lãnh thổ của họ.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Đây cũng là biên giới lịch sử phía bắc của [Gondor](../G/Gondor.md),<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> và sau đó là [Rohan](../R/Rohan.md).<sup id="cite_ref-River_4-0" class="reference"><a href="#cite_note-River-4">[4]</a></sup>
+Nó tạo thành ranh giới phía nam của [Cánh đồng Celebrant](../F/Field_of_Celebrant.md) và được [Celeborn](../C/Celeborn.md) và [Galadriel](../G/Galadriel.md) của [Lothlórien](Lothlórien.md) tuyên bố là ranh giới phía nam của vương quốc của họ.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Đây cũng là biên giới lịch sử phía bắc của [Gondor](../G/Gondor.md),<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> và sau đó của [Rohan](../R/Rohan.md).<sup id="cite_ref-River_4-0" class="reference"><a href="#cite_note-River-4">[4]</a></sup>
 
 ## Lịch sử {#History}
 
-Trong [T.A.](../T/Third_Age.md) [2510](../T/Third_Age_2510.md)<sup id="cite_ref-TA_5-0" class="reference"><a href="#cite_note-TA-5">[5]</a></sup> Quân đội miền Bắc của [Gondor](../G/Gondor.md) đã bị [Balchoth](../B/Balchoth.md) và [Orc](../O/Orcs.md) đánh đuổi qua Limlight. Những người của Gondor đang phải đối mặt với sự hủy diệt khi [Eorl the Young](../E/Eorl.md), dẫn đầu [Éothéod](../_/Éothéod.md), tấn công vào phía sau quân địch và đẩy chúng về phía nam với tổn thất nặng nề qua Limlight vào [ Wold](../T/The_Wold.md).<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Trong [T.A.](../T/Third_Age.md) [2510](../T/Third_Age_2510.md)<sup id="cite_ref-TA_5-0" class="reference"><a href="#cite_note-TA-5">[5]</a></sup> Quân đội phía Bắc của [Gondor](../G/Gondor.md) đã bị [Balchoth](../B/Balchoth.md) và [Orc](../O/Orcs.md) đánh đuổi qua Limlight. Người Gondor đang phải đối mặt với sự hủy diệt khi [Eorl the Young](../E/Eorl.md), dẫn đầu [Éothéod](../_/Éothéod.md), tấn công vào phía sau kẻ thù và đẩy chúng về phía nam với tổn thất nặng nề từ Limlight vào [Wold](../T/The_Wold.md).<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
-[Aragorn](../A/Aragorn.md), theo lệnh của [Gandalf](../G/Gandalf.md), đã truy lùng và bắt giữ [Gollum](../G/Gollum.md) ở [3017](../T/Third_Age_3017.md);<sup id="cite_ref-TA_5-1" class="reference"><a href="#cite_note-TA-5">[5]</a></sup> trên hành trình về phía bắc tới [Thranduil](../T/Thranduil.md) họ đã vượt qua Limlight vì Aragorn đang đi theo con đường phía tây Sông Lớn.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+[Aragorn](../A/Aragorn.md), theo lệnh của [Gandalf](../G/Gandalf.md), đã săn lùng và bắt giữ [Gollum](../G/Gollum.md) ở [3017](../T/Third_Age_3017.md);<sup id="cite_ref-TA_5-1" class="reference"><a href="#cite_note-TA-5">[5]</a></sup> trên hành trình về phía bắc tới [Thranduil](../T/Thranduil.md) họ băng qua Limlight vì Aragorn đang đi theo con đường phía tây Sông Lớn.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
-Vào [tháng 2](../F/February.md) [3019](../T/Third_Age_3019.md)<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) trôi qua cửa Limlight khi họ tiến về phía nam trên Anduin.<sup id="cite_ref-River_4-1" class="reference"><a href="#cite_note-River-4">[4]</a></sup>
+Vào [tháng 2](../F/February.md) [3019](../T/Third_Age_3019.md)<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> [Hiệp hội của chiếc nhẫn](../F/Fellowship_of_the_Ring.md) trôi qua cửa Limlight khi họ tiến về phía nam trên sông Anduin.<sup id="cite_ref-River_4-1" class="reference"><a href="#cite_note-River-4">[4]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Limlight* là dạng hiện đại hóa của từ *Limliht* từ [Rohanese](../R/Rohanese.md).<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
+*Limlight* là dạng hiện đại hóa của từ *Limliht* từ [tiếng Rohan](../R/Rohanese.md).<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
 
-Thành phần đầu tiên của tên là từ dạng [Elvish](../E/Elvish.md) hoặc [Pre-Númenórean](../P/Pre-Númenórean.md) của người ngoài hành tinh vốn không rõ ràng trong [Westron](../W/Westron.md). Yếu tố thứ hai đề cập đến độ trong của làn nước trong sáng.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
+Thành phần đầu tiên của tên là từ dạng [Elvish](../E/Elvish.md) hoặc [Pre-Númenórean](../P/Pre-Númenórean.md) của người ngoài hành tinh vốn không rõ ràng ở [Westron](../W/Westron.md). Yếu tố thứ hai đề cập đến độ trong của làn nước trong sáng.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
 
-[Tolkien](../J/J.R.R._Tolkien.md) đã đưa ra các giải thích khác nhau về ý nghĩa chính xác và thậm chí cả ngôn ngữ được sử dụng trong tên, bao gồm *Limlich*, *Limliht*, *Limlaith*<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> và *Limhîr*.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>
+[Tolkien](../J/J.R.R._Tolkien.md) đã đưa ra những giải thích khác nhau về ý nghĩa chính xác và thậm chí cả ngôn ngữ được sử dụng trong tên, bao gồm *Limlich*, *Limliht*, *Limlaith*<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> và *Limhîr*.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
 
 <dl><dd>The Limlight River forms the southern border of &#34;The Great River&#34; region. It gives name to the &#34;Limlight Gorge&#34; on the northern bank, &#34;Limlight Glade&#34; on the <a class="mw-redirect mw-disambig" href="../F/Fangorn.md" title="Fangorn">Fangorn</a> side, and the &#34;Limlight Falls&#34; through which is plummets below. The river then flows past &#34;Stangard&#34;, a Rohirrim military town outside the borders of <a href="../R/Rohan.md" title="Rohan">Rohan</a> proper. It eventually joins the <a href="../A/Anduin.md" title="Anduin">Anduin</a> at the &#34;Rushgore&#34; marsh.</dd></dl>
 

@@ -29,11 +29,11 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/R/Rush.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/fb/Rush.jpg/320px-Rush.jpg" decoding="async" loading="lazy" width="320" height="220" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/fb/Rush.jpg/480px-Rush.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/f/fb/Rush.jpg/640px-Rush.jpg 2x" data-file-width="1200" data-file-height="825"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Band</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Rush</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Background Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Origin</th><td class="tg-infobox-data">Toronto, Canada</td></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data">Progressive Rock</td></tr><tr><th scope="row" class="tg-infobox-label">Years active</th><td class="tg-infobox-data">1968-2015</td></tr><tr><th scope="row" class="tg-infobox-label">website</th><td class="tg-infobox-data"><a class="external text" href="http://rush.com%7C" rel="noreferrer noopener" target="_blank">Rush Website</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Members</span></th></tr><tr><th scope="row" class="tg-infobox-label">Current Members</th><td class="tg-infobox-data">L-R: Geddy Lee, Neil Peart, Alex Lifeson</td></tr></tbody></table>
 
-**Rush** là một ban nhạc prog-rock người Canada, trong đội hình tồn tại lâu nhất của nhóm bao gồm tay trống và người viết lời chính <a class="extiw" href="http://en.wikipedia.org/wiki/Neil_Peart" title="wikipedia:Neil Peart">Neil Peart</a>, tay bass và ca sĩ <a class="extiw" href="http://en.wikipedia.org/wiki/Geddy_Lee" title="wikipedia:Geddy Lee">Geddy Lee</a>và tay guitar <a class="extiw" href="http://en.wikipedia.org/wiki/Alex_Lifeson" title="wikipedia:Alex Lifeson">Alex Lifeson</a>. Bộ ba đã phát hành hai bài hát dựa trên sáng tác của Tolkien.
+**Rush** là một ban nhạc prog-rock người Canada, trong đội hình tồn tại lâu nhất của nhóm bao gồm tay trống và người viết lời chính <a class="extiw" href="http://en.wikipedia.org/wiki/Neil_Peart" title="wikipedia:Neil Peart">Neil Peart</a>, tay bass và ca sĩ <a class="extiw" href="http://en.wikipedia.org/wiki/Geddy_Lee" title="wikipedia:Geddy Lee">Geddy Lee</a>và tay guitar <a class="extiw" href="http://en.wikipedia.org/wiki/Alex_Lifeson" title="wikipedia:Alex Lifeson">Alex Lifeson</a>. Bộ ba đã phát hành hai bài hát dựa trên tác phẩm của Tolkien.
 
 ## Rivendell {#Rivendell}
 
-"Rivendell" là ca khúc thứ sáu và cũng là ca khúc cuối cùng trong album [1975](../_/1975.md) tháng 2 của Rush, <a class="external text" href="https://en.wikipedia.org/wiki/Fly_by_Night_(album)" rel="noreferrer noopener" target="_blank"><i>Fly by Night</i></a>. Một bản ballad, kể về vẻ đẹp và sự bình yên dành cho du khách mệt mỏi khi ở lại [Rivendell](Rivendell.md).
+"Rivendell" là ca khúc thứ sáu và cũng là ca khúc cuối cùng trong album [1975](../_/1975.md) tháng 2 của Rush, <a class="external text" href="https://en.wikipedia.org/wiki/Fly_by_Night_(album)" rel="noreferrer noopener" target="_blank"><i>Fly by Night</i></a>. Là một bản ballad, nó kể về vẻ đẹp và sự bình yên mang lại cho người du hành mệt mỏi khi ở lại [Rivendell](Rivendell.md).
 
 Lời bài hát do Peart viết, còn nhạc do Lee sáng tác, người đã hát và (theo phỏng đoán) cũng chơi phần guitar acoustic.
 
@@ -54,9 +54,9 @@ Peace of mind and sanctuary by loud water&#39;s flow<sup id="cite_ref-1" class="
 </p>
 </div>
 
-## Cái Necromancer {#The_Necromancer}
+## Pháp sư chiêu hồn {#The_Necromancer}
 
-"The Necromancer" là ca khúc thứ tư trong album phòng thu thứ ba của ban nhạc, <a class="external text" href="https://en.wikipedia.org/wiki/Caress_of_Steel" rel="noreferrer noopener" target="_blank"><i>Caress of Steel</i></a>, được phát hành vào năm tháng Chín của [1975](../_/1975.md). Ca khúc hoành tráng dài 12 phút, gồm ba phần riêng biệt, có lời bài hát của Peart và nhạc của Lee và Lifeson.
+"The Necromancer" là ca khúc thứ tư trong album phòng thu thứ ba của ban nhạc, <a class="external text" href="https://en.wikipedia.org/wiki/Caress_of_Steel" rel="noreferrer noopener" target="_blank"><i>Caress of Steel</i></a>, được phát hành vào tháng 9 năm [1975](../_/1975.md). Ca khúc hoành tráng dài 12 phút, gồm ba phần riêng biệt, có lời bài hát của Peart và nhạc của Lee và Lifeson.
 
 ### Trích lời bài hát {#Lyrics_excerpt_2}
 

@@ -51,15 +51,15 @@ images:
 </tbody></table>
 </div>
 
-<i><b>Elanor</b></i> là một bông hoa hình ngôi sao màu vàng, mọc rất nhiều trong khu rừng [Lórien](../L/Lothlórien.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> [Samwise Gamgee](../S/Samwise_Gamgee.md) rất thích loài hoa này và theo gợi ý của [Frodo](../F/Frodo_Baggins.md), ông đã đặt tên cho con gái lớn của mình là [Elanor Gardner](Elanor_Gardner.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+<i><b>Elanor</b></i> là một bông hoa hình ngôi sao màu vàng, mọc nhiều trong khu rừng [Lórien](../L/Lothlórien.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> [Samwise Gamgee](../S/Samwise_Gamgee.md) rất thích loài hoa này và theo [lời đề nghị của Frodo](../F/Frodo_Baggins.md), ông đã đặt tên cho con gái lớn của mình, [Elanor Gardner](Elanor_Gardner.md), từ nó.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Đó là một trong những bông hoa được Tiên tộc của [Tol Eressëa](../T/Tol_Eressëa.md) mang đến [Númenor](../N/Númenor.md) vào [Thời thứ hai](../S/Second_Age.md). Elanor và [Lissuin](../L/Lissuin.md) được sử dụng để trang trí các con tàu trong đám cưới của [Aldarion](../A/Aldarion.md) và [Erendis](Erendis.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Đó là một trong những bông hoa được Yêu tinh của [Tol Eressëa](../T/Tol_Eressëa.md) mang đến [Númenor](../N/Númenor.md) ở [Thời đại thứ hai](../S/Second_Age.md). Elanor và [Lissuin](../L/Lissuin.md) được sử dụng để trang trí các con tàu trong đám cưới của [Aldarion](../A/Aldarion.md) và [Erendis](Erendis.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 Nó giống như "một cái <a class="external text" href="https://en.wikipedia.org/wiki/Lysimachia_arvensis" rel="noreferrer noopener" target="_blank">pimpernel</a> (có lẽ hơi to hơn) trồng những bông hoa màu vàng nắng và những bông hoa màu sao bạc trên cùng một cây, và đôi khi cả hai kết hợp lại".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Từ *elanor* có nghĩa là "Mặt Trời-sao" trong [Sindarin](../S/Sindarin.md) (từ *[êl](../_/Êl.md)* = "sao" và *anor* = "[Mặt Trời](../S/Sun.md)").
+Từ *elanor* có nghĩa là "Sao mặt trời" trong [Sindarin](../S/Sindarin.md) (từ *[êl](../_/Êl.md)* = "sao" và *anor* = "[Mặt trời](../S/Sun.md)").
 
 <span></span>
 

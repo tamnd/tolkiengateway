@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Rûth"
 ---
 
-Chuyển hướng tới [Rûth](Rûth.md).
+Chuyển hướng đến [Rûth](Rûth.md).

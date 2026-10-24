@@ -42,15 +42,15 @@ infobox:
 
 - Bìa - "[Trung úy của Tháp Đen Barad-dûr](../../file/J/John_Howe_-_The_Lieutenant_of_The_Black_Tower_of_Barad-dur.jpg.md)" của [John Howe](../J/John_Howe.md)
 - Tháng 1 - "[Under the Spell of the Barrow-Wight](../../file/T/Ted_Nasmith_-_Under_the_Spell_of_the_Barrow-wight.jpg.md)" của [Ted Nasmith](Ted_Nasmith.md)
-- Tháng 2 - "[The Kỵ Sĩ Đen](../../file/J/John_Howe_-_The_Black_Rider.jpg.md)" của John Howe
+- Tháng 2 - "[Kỵ sĩ đen](../../file/J/John_Howe_-_The_Black_Rider.jpg.md)" của John Howe
 - Tháng 3 - "[The Shire](../../file/R/Roger_Garland_-_The_Shire.JPG.md)" của [Roger Garland](../R/Roger_Garland.md)
 - Tháng 4 - "[Minas Tirith](../../file/A/Alan_Lee_-_Minas_Tirith_2.jpg.md)" của [Alan Lee](../A/Alan_Lee.md)
-- Tháng 5 - "[Rời khỏi Shire](../../file/T/Ted_Nasmith_-_Leaving_the_Shire.jpg.md)" bởi Ted Nasmith
+- Tháng 5 - "[Rời khỏi Shire](../../file/T/Ted_Nasmith_-_Leaving_the_Shire.jpg.md)" của Ted Nasmith
 - Tháng 6 - "[Minas Morgul, Tháp ma thuật](../../file/R/Roger_Garland_-_Minas_Morgul_-_Tower_of_Sorcery.JPG.md)" của Roger Garland
 - Tháng 7 - "[Barad-dûr](../../file/A/Alan_Lee_-_Barad-dûr.jpg.md)" của Alan Lee
 - Tháng 8 - "[The Balrog](../../file/T/Ted_Nasmith_-_The_Balrog.jpg.md)" của Ted Nasmith
-- tháng Chín - "[Minas Tirith](../../file/R/Roger_Garland_-_Minas_Tirith.JPG.md)" của Roger Garland
-- Tháng 10 - "[Trung úy Tháp Đen Barad-dûr](../../file/J/John_Howe_-_The_Lieutenant_of_The_Black_Tower_of_Barad-dur.jpg.md)" của John Howe
+- Tháng 9 - "[Minas Tirith](../../file/R/Roger_Garland_-_Minas_Tirith.JPG.md)" của Roger Garland
+- Tháng 10 - "[Trung úy của Tháp Đen Barad-dûr](../../file/J/John_Howe_-_The_Lieutenant_of_The_Black_Tower_of_Barad-dur.jpg.md)" của John Howe
 - Tháng 11 - "[Shelob](../../file/T/Ted_Nasmith_-_Shelob.jpg.md)" của Ted Nasmith
 - Tháng 12 - "[The Uruk-hai](../../file/J/John_Howe_-_The_Uruk-hai.jpg.md)" của John Howe
 
@@ -60,8 +60,8 @@ infobox:
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://www.tolkienbooks.net/php/caldetails.php?reference=94190" rel="noreferrer noopener" target="_blank">Lịch Tolkien năm 1987</a> tại <a class="external text" href="http://www.tolkienbooks.net" rel="noreferrer noopener" target="_blank">TolkienBooks.net</a>
-- <a class="external text" href="http://tolkiencalendars.com/1985_1988.html" rel="noreferrer noopener" target="_blank">Tolkien Lịch 1985 - 1988</a> tại <a class="external text" href="http://tolkiencalendars.com/" rel="noreferrer noopener" target="_blank">The Compleat Gyde đến Tolkien Lịch</a>
+- <a class="external text" href="http://www.tolkienbooks.net/php/caldetails.php?reference=94190" rel="noreferrer noopener" target="_blank">Lịch Tolkien 1987</a> tại <a class="external text" href="http://www.tolkienbooks.net" rel="noreferrer noopener" target="_blank">TolkienBooks.net</a>
+- <a class="external text" href="http://tolkiencalendars.com/1985_1988.html" rel="noreferrer noopener" target="_blank">Lịch Tolkien 1985 - 1988</a> tại <a class="external text" href="http://tolkiencalendars.com/" rel="noreferrer noopener" target="_blank">The Compleat Gyde to Tolkien Calendars</a>
 
 <table style="margin:0 auto;" class="collapsible toccolours" width="100%" align="center">
 <tbody><tr>

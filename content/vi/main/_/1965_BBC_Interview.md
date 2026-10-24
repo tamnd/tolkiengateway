@@ -12,12 +12,12 @@ categories:
   - "Interviews with J.R.R. Tolkien"
 ---
 
-**1965 BBC Phỏng vấn** là một [được ghi âm](../../index/A/Audio_recordings_of_J.R.R._Tolkien.md) [cuộc phỏng vấn](../../index/I/Interviews_with_J.R.R._Tolkien.md) với [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) vào [ngày 20 tháng 1](20_January.md), [1965](1965.md), sẽ được đặt trong Thư viện cố định về các chương trình được ghi lại của BBC.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Cuộc phỏng vấn bao gồm một cuộc thảo luận chi tiết về *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* và liệu Tolkien sẽ được nhớ đến nhờ tiểu thuyết hay sự nghiệp học thuật của ông.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Cuộc phỏng vấn BBC năm 1965** là một [được ghi âm](../../index/A/Audio_recordings_of_J.R.R._Tolkien.md) [cuộc phỏng vấn](../../index/I/Interviews_with_J.R.R._Tolkien.md) với [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) vào [ngày 20 tháng 1](20_January.md), [1965](1965.md), sẽ được đưa vào Thư viện Thường trực về các Chương trình Ghi âm của BBC.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Cuộc phỏng vấn bao gồm một cuộc thảo luận chi tiết về *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* và liệu Tolkien sẽ được nhớ đến vì tiểu thuyết hư cấu của ông hay sự nghiệp học tập của mình.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 - Người phỏng vấn: [Từ chối Gueroult](../D/Denys_Gueroult.md)
 - Địa điểm: Khách sạn Randolph, Oxford
 - Thời lượng: gần 40 phút
-- Ấn bản: Một bản trích xuất được phát hành vào ngày *[The Spoken Word: British Writers](../T/The_Spoken_Word%253A_British_Writers.md)*. Một đoạn trích khác, trong đó Tolkien thảo luận về ngữ pháp của từ 'Người Lùn', đã được xuất bản trong *[The Annotated Hobbit: Revised and Expanded Edition](../T/The_Annotated_Hobbit%253A_Revised_and_Expanded_Edition.md)*, trang 27.
+- Xuất bản: Một bản trích xuất được phát hành vào ngày *[The Spoken Word: British Writers](../T/The_Spoken_Word%253A_British_Writers.md)*. Một đoạn trích khác, trong đó Tolkien thảo luận về ngữ pháp của từ 'Người lùn', được xuất bản trong *[The Annotated Hobbit: Revised and Expanded Edition](../T/The_Annotated_Hobbit%253A_Revised_and_Expanded_Edition.md)*, trang 27.
 
 Để thử nghiệm cuộc phỏng vấn này, [Denys Gueroult](../D/Denys_Gueroult.md) đã thực hiện một bản ghi âm không chính thức về Tolkien vào năm 1964 (xem *[1964 BBC Interview](1964_BBC_Interview.md)*).
 

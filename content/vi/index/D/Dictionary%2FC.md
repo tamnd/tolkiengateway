@@ -18,7 +18,7 @@ categories:
 
 - gọi: T *[can-](../../main/C/Can-.md)*; S *[can-](../../main/C/Can-.md)*
 - [lạc đà](../../main/C/Camels.md): Qe *[ulun(t)](../../main/C/Camels.md)*
-- mèo, cô ấy-: G *[miaulin](../../main/M/Miaulë.md#Etymology)*
+- mèo, bà-: G *[miaulin](../../main/M/Miaulë.md#Etymology)*
 - hang: Q <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Rondo&amp;action=edit&amp;redlink=1" title="Rondo (page does not exist)">rondo</a></i>; S *[groth](../../main/G/Groth.md)*; N *rhond*; Dor *[roth](../../main/R/Roth.md)*
 - thủ lĩnh: Q *[haran](../../main/H/Haran.md)*
 - con: S *[hîn](../../main/H/Hîn.md)*

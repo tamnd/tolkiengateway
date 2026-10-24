@@ -18,7 +18,7 @@ langlinks:
     url: "https://kontu.wiki/Varjonhenget"
 ---
 
-**Các linh hồn bóng tối** là người hầu của [Morgoth](../M/Morgoth.md), người mà anh ta cử đi chống lại [Tilion](../T/Tilion.md) và kim khí của [Mặt Trăng](../M/Moon.md). Đã xảy ra một cuộc xung đột ở [Ilmen](../I/Ilmen.md), nhưng Tilion đã chiến thắng những [linh hồn](Spirits.md) độc ác này.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Các linh hồn bóng tối** là người hầu của [Morgoth](../M/Morgoth.md), người mà hắn cử đi chống lại [Tilion](../T/Tilion.md) và kim khí của [Mặt trăng](../M/Moon.md). Đã xảy ra một cuộc xung đột ở [Ilmen](../I/Ilmen.md), nhưng Tilion đã chiến thắng những [linh hồn](Spirits.md) độc ác này.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

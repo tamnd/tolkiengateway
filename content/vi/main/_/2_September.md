@@ -61,7 +61,7 @@ images:
 </div><div class="template-month__footer"><div class="tg-button"><a href="../J/January.md" title="January">Jan</a></div><div class="tg-button"><a href="../F/February.md" title="February">Feb</a></div><div class="tg-button"><a href="../M/March.md" title="March">Mar</a></div><div class="tg-button"><a href="../A/April.md" title="April">Apr</a></div><div class="tg-button"><a href="../M/May.md" title="May">May</a></div><div class="tg-button"><a href="../J/June.md" title="June">Jun</a></div><div class="tg-button"><a href="../J/July.md" title="July">Jul</a></div><div class="tg-button"><a href="../A/August.md" title="August">Aug</a></div><div class="tg-button"><a href="../S/September.md" title="September">Sep</a></div><div class="tg-button"><a href="../O/October.md" title="October">Oct</a></div><div class="tg-button"><a href="../N/November.md" title="November">Nov</a></div><div class="tg-button"><a href="../D/December.md" title="December">Dec</a></div></div>
 </div>
 
-Sự kiện xảy ra vào ngày 2 tháng Chín.
+Sự kiện xảy ra vào ngày 2 tháng 9
 
 ## Trên Trái đất {#On_Earth}
 
@@ -69,14 +69,14 @@ Sự kiện xảy ra vào ngày 2 tháng Chín.
 - **[1973](1973.md) - Sau khi đi thăm bạn bè ở [Bournemouth](../B/Bournemouth.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) bị bệnh và qua đời, thọ 81 tuổi. Ông được chôn cất cạnh vợ mình, [Edith](../E/Edith_Tolkien.md).**
 - <b><a href="1976.md" title="1976">1976</a> - <i><a href="../L/Letters_from_Father_Christmas.md" title="Letters from Father Christmas">Những bức thư Giáng sinh của Cha</a></i> được xuất bản lần đầu tiên ở Anh.</b>
 - **[1996](1996.md)** - *[A Tolkien Book of Days](../A/A_Tolkien_Book_of_Days.md)* được xuất bản.
-- <b><a href="1996.md" title="1996">1996</a> - <i><a href="../T/The_Peoples_of_Middle-earth.md" title="The Peoples of Middle-earth">The Peoples of Middle-earth</a></i> được xuất bản ở Anh.</b>
+- <b><a href="1996.md" title="1996">1996</a> - <i><a href="../T/The_Peoples_of_Middle-earth.md" title="The Peoples of Middle-earth">The Peoples of Middle-earth</a></i> được xuất bản ở Vương quốc Anh.</b>
 - **[2004](2004.md)** - [TheOneRing.net](../T/TheOneRing.net.md) sắp xếp trồng 11 cây kỷ niệm tại Công viên Willowbank, [Wellington](../W/Wellington.md).
 - **[2010](2010.md)** - *[There and Back Again: The Map of Tolkien's The Hobbit](../T/There_and_Back_Again%253A_The_Map_of_Tolkien's_The_Hobbit.md)* được xuất bản.
 - **[2013](2013.md)** - [*Parma Eldalamberon* 21](../P/Parma_Eldalamberon_21.md) được xuất bản.
-- <b><a href="2021.md" title="2021">2021</a> - <i><a href="../T/The_Nature_of_Middle-earth.md" title="The Nature of Middle-earth">The Nature of Middle-earth</a></i> được xuất bản.</b>
+- <b><a href="2021.md" title="2021">2021</a> - <i><a href="../T/The_Nature_of_Middle-earth.md" title="The Nature of Middle-earth">Bản chất của Trung Địa</a></i> được xuất bản.</b>
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Gandalf](../G/Gandalf.md) bị giam giữ bởi [Saruman](../S/Saruman.md) trên đỉnh của [Orthanc](../O/Orthanc.md).
+    - [Gandalf](../G/Gandalf.md) bị [Saruman](../S/Saruman.md) giam giữ trên đỉnh [Orthanc](../O/Orthanc.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.

@@ -29,11 +29,11 @@ infobox:
 
 ## Lịch sử {#History}
 
-*Norman Keeps* không phải tên thật của anh ấy mà là biệt danh mà [Lowdham](../A/Alwin_Arundel_Lowdham.md) và [Frankley](../P/Philip_Frankley.md) đặt cho anh ấy từ <a class="extiw" href="http://en.wikipedia.org/wiki/Keeps" title="wikipedia:Keeps">Keeps</a> mà anh ấy đã đề cập. Anh ta là thợ cắt tóc của họ, là một người đàn ông tử tế và thông minh vừa phải, nhưng đối với anh ta, mọi thứ mà "<a class="extiw" href="http://en.wikipedia.org/wiki/Dark_Ages" title="wikipedia:Dark Ages">Dark Kỷ nguyên</a>" đại diện đều là "<a class="extiw" href="http://en.wikipedia.org/wiki/Keeps" title="wikipedia:Keeps">Norman Keeps</a>", "<a class="extiw" href="http://en.wikipedia.org/wiki/King_James" title="wikipedia:King James">Them Jameses</a>", "The Squires" và "The People".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+*Norman Keeps* không phải tên thật của ông mà là biệt danh mà [Lowdham](../A/Alwin_Arundel_Lowdham.md) và [Frankley](../P/Philip_Frankley.md) đặt cho ông từ <a class="extiw" href="http://en.wikipedia.org/wiki/Keeps" title="wikipedia:Keeps">Keeps</a> mà ông đã đề cập. Ông ta là thợ cắt tóc của họ, là một người đàn ông tử tế và thông minh vừa phải, nhưng đối với ông ta, mọi thứ mà "<a class="extiw" href="http://en.wikipedia.org/wiki/Dark_Ages" title="wikipedia:Dark Ages">Thời kỳ đen tối</a>" đại diện đều là "<a class="extiw" href="http://en.wikipedia.org/wiki/Keeps" title="wikipedia:Keeps">Norman Keeps</a>", "<a class="extiw" href="http://en.wikipedia.org/wiki/King_James" title="wikipedia:King James">Them Jameses</a>", "The Squires" và "The People".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Cảm hứng {#Inspiration}
 
-*Norman Keeps* là một con người có thật, người đã trình bày cho [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) quan điểm về <a class="extiw" href="http://en.wikipedia.org/wiki/English_history" title="wikipedia:English history">lịch sử nước Anh</a> được kể lại bởi nhân vật cùng tên trong câu chuyện. Anh ấy cũng là thợ cắt tóc.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+*Norman Keeps* là một con người có thật, người đã trình bày cho [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) quan điểm về <a class="extiw" href="http://en.wikipedia.org/wiki/English_history" title="wikipedia:English history">lịch sử nước Anh</a> được kể lại bởi nhân vật cùng tên trong câu chuyện. Ông cũng là thợ cắt tóc.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

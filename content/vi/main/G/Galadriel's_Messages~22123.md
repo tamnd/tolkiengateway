@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Galadriel's messages"
 ---
 
-Chuyển hướng tới tin nhắn của [Galadriel](Galadriel's_messages.md).
+Chuyển hướng tới [tin nhắn của Galadriel](Galadriel's_messages.md).

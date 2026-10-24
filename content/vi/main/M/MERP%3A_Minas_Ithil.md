@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Minas Ithil (book)"
 ---
 
-Chuyển hướng đến [Minas Ithil (sách)](<Minas_Ithil_(book).md>).
+Chuyển hướng tới [Minas Ithil (sách)](<Minas_Ithil_(book).md>).

@@ -31,7 +31,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Ví dụ: Tolkien đã gửi phiên bản mới của chương *[Riddles in the Dark](../R/Riddles_in_the_Dark.md)*, phiên bản này [Allen &amp; Unwin](../A/Allen_and_Unwin.md) được đưa vào ấn bản thứ hai của *[The Hobbit](../T/The_Hobbit.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[notes 1]</a></sup> Tolkien đã do dự về những gì cần nói liên quan đến hai phiên bản của sự kiện quan trọng này,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[notes 2]</a></sup> nhưng giờ đã quyết định chấp nhận sự tồn tại của cả hai. Kèm theo lá thư này là một ghi chú giải thích ngắn, cũng có nghĩa là để đưa vào, nói rằng văn bản hiện tại ([Bilbo](../B/Bilbo_Baggins.md) đã tìm thấy/đánh cắp [Nhẫn](../T/The_One_Ring.md)) là điều đã thực sự xảy ra và rằng phiên bản trước đó (Bilbo đã thắng Nhẫn) là một nỗ lực của Bilbo nhằm che đậy điều này.
+Ví dụ: Tolkien đã gửi một phiên bản mới của chương *[Riddles in the Dark](../R/Riddles_in_the_Dark.md)*, mà [Allen & Unwin](../A/Allen_and_Unwin.md) đã đưa vào ấn bản thứ hai của *[The Hobbit](../T/The_Hobbit.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[notes 1]</a></sup> Tolkien đã do dự về những gì cần nói liên quan đến hai phiên bản của sự kiện quan trọng này,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[notes 2]</a></sup> nhưng giờ đã quyết định chấp nhận sự tồn tại của cả hai. Đi kèm với lá thư này là một lời giải thích ngắn gọn, cũng nhằm mục đích đưa vào, nói rằng văn bản hiện tại ([Bilbo](../B/Bilbo_Baggins.md) đã tìm thấy/đánh cắp [Chiếc nhẫn](../T/The_One_Ring.md)) là điều đã thực sự xảy ra và rằng phiên bản trước đó (Bilbo đã giành được Chiếc nhẫn) là nỗ lực của Bilbo nhằm che đậy điều này.
 
 ## Ghi chú {#Notes}
 

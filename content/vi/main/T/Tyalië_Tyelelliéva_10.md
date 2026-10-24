@@ -33,21 +33,21 @@ infobox:
 ## Nội dung {#Contents}
 
 - Biên tập, Sự kiện thiên thể, Tin tức và Ghi chú
-- Peoples of Trung Địa, (Tập 12 trong bộ HoMe) do Edward Kloczko đánh giá
-- Bách khoa toàn thư về Terre du Milieu; Tập I: Quenya, sách của Edward Kloczko, review của [Sumner Gary Hunnewell](../S/Sumner_Gary_Hunnewell.md)
+- Các dân tộc ở Trung địa, (Tập 12 trong bộ truyện HoMe) do Edward Kloczko đánh giá
+- Bách khoa toàn thư về Terre du Milieu; Tập I: Quenya, sách của Edward Kloczko, bài phê bình của [Sumner Gary Hunnewell](../S/Sumner_Gary_Hunnewell.md)
 - Thư gửi Biên tập viên của Tiến sĩ [Rhona Beare](../R/Rhona_Beare.md) (về chiếc cốc của Druid)
-Chiếc nhẫn của - Barahir, của Leonid Korablev (tác phẩm nghệ thuật)
-- Sách Mazarbul là một ví dụ về cách làm sách trong Trung Địa, bởi [David Salo](../D/David_Salo.md)
-- Tìm hiểu về thuyết thần bí của Didier Willis (phân tích dòng chữ trên lăng mộ của Balin)
-- Bài thơ của Nancy Martsch (bài thơ trong Quenya)
-- Ai an Elured của Peter Nikolaj Edelberg (bài thơ trong Quenya)
+- Chiếc nhẫn của Barahir, bởi Leonid Korablev (tác phẩm nghệ thuật)
+- Sách Mazarbul là một ví dụ về việc làm sách ở Trung Địa, của [David Salo](../D/David_Salo.md)
+- Nghiên cứu thuyết thần bí của Didier Willis (phân tích dòng chữ khắc trên Lăng mộ Balin)
+- Bài thơ của Nancy Martsch (thơ ở Quenya)
+- Ai an Elured của Peter Nikolaj Edelberg (thơ ở Quenya)
 - Trò chơi nhập vai hành động trực tiếp, của Esteban Manchado (báo cáo)
 - Tolkienwinkel (mô tả về hiệu sách đặt hàng qua thư)
 - Đánh giá phần mềm:
     - Phông chữ Angerthas của một nhà thiết kế ẩn danh
     - Angerthas Moria được thiết kế bởi Morten Bek
 - Quái vật của Al McFarland (tác phẩm nghệ thuật)
-- Thể lệ cuộc thi Thơ cho Giải thưởng Thơ Ngôn ngữ Elvish
-- Bas du Page Homework (Sindarin số nhiều thuộc loại a...a)
+- Thể lệ cuộc thi thơ cho Giải thưởng Thơ bằng tiếng Tiên
+- Bas du Trang Bài tập về nhà (Số nhiều tiếng Sindarin thuộc loại a...a)
 
 <center><a href="Tyalië_Tyelelliéva_9.md" title="Tyalië Tyelelliéva 9">Previous Issue</a> <b>||</b> <a href="Tyalië_Tyelelliéva_11.md" title="Tyalië Tyelelliéva 11">Next Issue</a></center>

@@ -29,7 +29,7 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Matěj_Čadil_-_Brandy_Hall.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/8/8c/Mat%C4%9Bj_%C4%8Cadil_-_Brandy_Hall.jpg/300px-Mat%C4%9Bj_%C4%8Cadil_-_Brandy_Hall.jpg" decoding="async" loading="lazy" width="300" height="205" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/8c/Mat%C4%9Bj_%C4%8Cadil_-_Brandy_Hall.jpg/450px-Mat%C4%9Bj_%C4%8Cadil_-_Brandy_Hall.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/8/8c/Mat%C4%9Bj_%C4%8Cadil_-_Brandy_Hall.jpg/600px-Mat%C4%9Bj_%C4%8Cadil_-_Brandy_Hall.jpg 2x" data-file-width="2268" data-file-height="1548"/></a><figcaption><a href="../M/Matěj_Čadil.md" title="Matěj Čadil">Matěj Čadil</a> - <i>Brandy Hall</i></figcaption></figure>
 
-**Buck Hill** là một ngọn đồi nhìn ra ngôi làng [Bucklebury](Bucklebury.md) ở [Buckland](Buckland.md), ẩn sâu trong [những nụ cười](../S/Smials.md) tạo nên [Brandy Hall](Brandy_Hall.md), quê hương của gia đình [Brandybuck](Brandybuck_Family~66350.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Buck Hill** là một ngọn đồi nhìn ra ngôi làng [Bucklebury](Bucklebury.md) ở [Buckland](Buckland.md), ẩn sâu trong [những nụ cười](../S/Smials.md) tạo nên [Brandy Hall](Brandy_Hall.md), ngôi nhà tổ tiên của gia đình [Brandybuck](Brandybuck_Family~66350.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

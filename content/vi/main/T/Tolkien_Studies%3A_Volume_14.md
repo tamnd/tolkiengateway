@@ -37,7 +37,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tolkien_Studies_14.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/bb/Tolkien_Studies_14.jpg/320px-Tolkien_Studies_14.jpg" decoding="async" loading="lazy" width="320" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/bb/Tolkien_Studies_14.jpg/480px-Tolkien_Studies_14.jpg 1.5x, https://tolkiengateway.net/w/images/b/bb/Tolkien_Studies_14.jpg 2x" data-file-width="500" data-file-height="750"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Tolkien Studies: Volume 14</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../D/David_Bratman.md" title="David Bratman">David Bratman</a>, <a href="../M/Michael_D.C._Drout.md" title="Michael D.C. Drout">Michael D.C. Drout</a>, <a href="../V/Verlyn_Flieger.md" title="Verlyn Flieger">Verlyn Flieger</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">West Virginia University Press</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">November, <a href="../_/2017.md" title="2017">2017</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback; electronic</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">299</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">1547-3155</td></tr></tbody></table>
 
-<b><i>Tolkien Nghiên cứu</i>: Tập 14</b>, xuất bản trong [2017](../_/2017.md), là tập thứ mười bốn của tổng kết hàng năm *[Tolkien Studies](<Tolkien_Studies_(journal).md>)*.
+<b><i>Nghiên cứu Tolkien</i>: Tập 14</b>, xuất bản trong [2017](../_/2017.md), là tập thứ mười bốn của tạp chí đánh giá hàng năm *[Tolkien Studies](<Tolkien_Studies_(journal).md>)*.
 
 Bài viết của H.L. Spencer bao gồm các bài giảng chưa được xuất bản của J.R.R. Tolkien liên quan đến <a class="extiw" href="http://en.wikipedia.org/wiki/Israel_Gollancz" title="wikipedia:Israel Gollancz">Israel Gollancz</a> và [E.V. Gordon](../E/E.V._Gordon.md) (xem ghi chú 27, trang 28). <br>Bài viết của Paul Tankard bao gồm các trích dẫn chưa được xuất bản từ [các bức thư](../L/Letters_not_published_in_%2522The_Letters_of_J.R.R._Tolkien%2522.md) và ghi chú của Tolkien.
 
@@ -47,30 +47,30 @@ Bài viết của H.L. Spencer bao gồm các bài giảng chưa được xuất
 
 - Bài viết
     - H.L. Spencer, "Triết lý huyền bí của J.R.R. Tolkien và Ngài Israel Gollancz: Quái vật và những nhà phê bình"
-    - Christopher Gilson, "Hít thở của anh ấy đã bị lấy đi: Tolkien, Barfield, và Elvish Diction"
-    - Kathy Cawsey, "Có thể Gollum Hát một bài sonnet được không? Dự án thơ ca của *The Lord of the Rings*"
-    - Eleanor R. Simpson, "Sự tiến hóa trong việc miêu tả thiên nhiên của J.R.R. Tolkien: Báo trước sự phản đối chủ nghĩa phân biệt loài"
-    - Leonard Neidorf, " *[The Fall of Arthur](The_Fall_of_Arthur.md)*củaJ.R.R. Tolkien: Sự sáng tạo từ phê bình văn học"
-    - Jeffrey J. MacLeod và Anna Smol, "Hình dung từ ngữ: Tolkien với tư cách là Nghệ sĩ và Nhà văn"
+    - Christopher Gilson, "Hít thở của ông đã bị lấy đi: Tolkien, Barfield, và Lời nói của thần tiên"
+    - Kathy Cawsey, "Liệu Gollum có thể hát một bài sonnet không? Dự án thơ ca của *The Lord of the Rings*"
+    - Eleanor R. Simpson, "Sự phát triển trong việc miêu tả tự nhiên của J.R.R. Tolkien: Báo trước sự phản đối chủ nghĩa phân biệt loài"
+    - Leonard Neidorf, " *[The Fall of Arthur](The_Fall_of_Arthur.md)* củaJ.R.R. Tolkien: Sự sáng tạo từ phê bình văn học"
+    - Jeffrey J. MacLeod và Anna Smol, "Hình dung từ ngữ: Tolkien với tư cách là nghệ sĩ và nhà văn"
 
 - Ghi chú và tài liệu
     - Paul Tankard, "'Giống như nguồn cảm hứng của chính tôi': Mary Fairburn và Nghệ thuật Trung Địa"
-    - J. Silk, "Lưu ý về bản dịch Sindarin Tên *Daisy*"
-    - Giovanni Costabile, "Lê bị đánh cắp, Táo chưa chín: Việc lạm dụng trái cây như một biểu tượng của tội lỗi nguyên thủy trong Tolkien's *[The New Shadow](The_New_Shadow.md)* và Augustine of Hippo's *Confessions*"
+    - J. Silk, "Lưu ý về bản dịch tên tiếng Sindarin *Daisy*"
+    - Giovanni Costabile, "Lê bị đánh cắp, Táo chưa chín: Việc lạm dụng trái cây như một biểu tượng của tội lỗi nguyên thủy trong *[The New Shadow](The_New_Shadow.md)* của Tolkien và *Confessions* của Augustine of Hippo"
 
 - Đánh giá sách
     - *[A Secret Vice: Tolkien on Invented Languages](../A/A_Secret_Vice%253A_Tolkien_on_Invented_Languages.md)*, bởi J.R.R. Tolkien, được chỉnh sửa bởi Dimitra Fimi và Andrew Higgins, được Arden xem xét R. Smith
-    - *[The Lay of Aotrou and Itroun](The_Lay_of_Aotrou_and_Itroun.md)*, bởi J.R.R. Tolkien, được chỉnh sửa bởi Verlyn Flieger và *The Lay of Aotrou and Itroun*, bởi J.R.R. Tolkien, được chỉnh sửa bởi Aleksandar Mikić với sự hỗ trợ của Elizabeth Currie, được xem xét bởi Dimitra Fimi
-    - *Bảng chữ cái Feanorian, Phần 1; Quenya Cấu trúc động từ* (*[Parma Eldalamberon 22](../P/Parma_Eldalamberon_22.md)*), bởi J.R.R. Tolkien, chỉnh sửa bởi Christopher Gilson và Arden R. Smith, được đánh giá bởi Nelson Goering
-    - *Các phương pháp tiếp cận giảng dạy The Lord of the Rings và các tác phẩm khác* của Tolkien, do Leslie biên tập A. Donovan, được Diana Pavlac Glyer đánh giá
-    - *[Tiếng cười trong Trung Địa](../L/Laughter_in_Middle-earth.md): Sự hài hước trong và xung quanh Tác phẩm của J.R.R. Tolkien*, do Thomas Honegger và Maureen biên tập F. Mann, được David Bratman đánh giá
+    - *[The Lay of Aotrou and Itroun](The_Lay_of_Aotrou_and_Itroun.md)*, bởi J.R.R. Tolkien, do Verlyn Flieger biên tập, và *The Lay of Aotrou and Itroun*, bởi J.R.R. Tolkien, do Aleksandar Mikić biên tập với sự hỗ trợ của Elizabeth Currie, được Dimitra Fimi đánh giá
+    - *Bảng chữ cái Feanorian, Phần 1; Cấu trúc động từ Quenya* (*[Parma Eldalamberon 22](../P/Parma_Eldalamberon_22.md)*), bởi J.R.R. Tolkien, do Christopher Gilson và Arden biên tập R. Smith, được Nelson Goering xem xét
+    - *Các phương pháp giảng dạy Chúa tể của những chiếc nhẫn và các tác phẩm khác của Tolkien*, do Leslie biên tập A. Donovan, được Diana Pavlac Glyer đánh giá
+    - *[Tiếng cười ở Trung Địa](../L/Laughter_in_Middle-earth.md): Sự hài hước trong và xung quanh Tác phẩm của J.R.R. Tolkien*, do Thomas Honegger và Maureen biên tập F. Mann, được David Bratman đánh giá
 
-- David Bratman, Edith L. Crowe, Jason Fisher, John Wm. Houghton, John Magoun và Robin Anne Reid, "Công trình nghiên cứu Tolkien của năm 2014"
+- David Bratman, Edith L. Crowe, Jason Fisher, John Wm. Houghton, John Magoun và Robin Anne Reid, "Công trình nghiên cứu về Tolkien của năm 2014"
 - David Bratman, "Thư mục (bằng tiếng Anh) năm 2015"
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="https://muse.jhu.edu/issue/37520" rel="noreferrer noopener" target="_blank"><i>Tolkien Nghiên cứu</i>: Tập 14</a> tại Project Muse
+- <a class="external text" href="https://muse.jhu.edu/issue/37520" rel="noreferrer noopener" target="_blank"><i>Nghiên cứu về Tolkien</i>: Tập 14</a> tại Project Muse
 
 <br clear="all"/>
 

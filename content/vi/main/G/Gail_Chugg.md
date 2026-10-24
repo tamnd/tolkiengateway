@@ -20,7 +20,7 @@ sort_keys:
   "People by name": "Chugg, Gail"
 ---
 
-**Gail Chugg** là một diễn viên sân khấu người Mỹ. Anh ấy đã lồng tiếng cho hai loạt chương trình phát thanh [1979](../_/1979.md) của <a class="new" href="https://tolkiengateway.net/w/index.php?title=Mind%27s_Eye&amp;action=edit&amp;redlink=1" title="Mind&#39;s Eye (page does not exist)">Mind's Eye</a>.
+**Gail Chugg** là một diễn viên sân khấu người Mỹ. Ông đã lồng tiếng cho hai loạt chương trình phát thanh [1979](../_/1979.md) của <a class="new" href="https://tolkiengateway.net/w/index.php?title=Mind%27s_Eye&amp;action=edit&amp;redlink=1" title="Mind&#39;s Eye (page does not exist)">Mind's Eye</a>.
 
 ## Vai trò {#Roles}
 

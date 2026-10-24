@@ -13,7 +13,7 @@ categories:
   - "Quenya adverbs"
 ---
 
-<i><b>oio</b></i> là từ [Quenya](../Q/Quenya.md), có nghĩa là "bao giờ".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>oio</b></i> là một từ [Quenya](../Q/Quenya.md), có nghĩa là "không bao giờ".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Ví dụ {#Examples}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "House of Elwë"
 ---
 
-Chuyển hướng đến [Nhà Elwë](House_of_Elwë.md).
+Chuyển hướng tới [Nhà Elwë](House_of_Elwë.md).

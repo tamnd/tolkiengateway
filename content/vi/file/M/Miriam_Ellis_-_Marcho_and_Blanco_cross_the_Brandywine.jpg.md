@@ -29,7 +29,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"[Marcho và Blanco](../../main/M/Marcho_and_Blanco.md) vượt qua [ Brandywine](../../main/B/Baranduin.md)" bởi [Miriam Ellis](../../main/M/Miriam_Ellis.md)
+"[Marcho và Blanco](../../main/M/Marcho_and_Blanco.md) giao nhau [ Brandywine](../../main/B/Baranduin.md)" của [Miriam Ellis](../../main/M/Miriam_Ellis.md)
 
 ## Giấy phép {#Licensing}
 

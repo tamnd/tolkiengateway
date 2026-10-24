@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fíriel (The Lost Road)"
 ---
 
-Chuyển hướng tới [Fíriel (The Lost Road)](<Fíriel_(The_Lost_Road).md>).
+Chuyển hướng tới [Firiel (Con đường đã mất)](<Fíriel_(The_Lost_Road).md>).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Waning of the Dúnedain"
 ---
 
-Chuyển hướng đến [Sự suy yếu của Dúnedain](Waning_of_the_Dúnedain.md).
+Chuyển hướng đến [Sự suy tàn của người Dúnedain](Waning_of_the_Dúnedain.md).

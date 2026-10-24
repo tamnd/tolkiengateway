@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Kramer, Steven M."
 ---
 
-**Steven M. Kramer** ([1 tháng 3](../_/1_March.md), [1948](../_/1948.md)) là một diễn viên người Mỹ, chủ yếu làm việc trong lĩnh vực lồng tiếng cho anime. Anh ấy thường được chọn vào vai người cố vấn cũ.
+**Steven M. Kramer** ([1 tháng 3](../_/1_March.md), [1948](../_/1948.md)) là một diễn viên người Mỹ, chủ yếu làm việc trong lĩnh vực lồng tiếng cho anime. Ông thường được chọn vào vai người cố vấn cũ.
 
 ## Phim ảnh {#Filmography}
 

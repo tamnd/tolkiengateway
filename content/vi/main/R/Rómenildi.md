@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Easterlings (First Age)"
 ---
 
-Chuyển hướng tới [Easterlings (Kỷ Đệ Nhất)](<../E/Easterlings_(First_Age).md>).
+Chuyển hướng đến [Easterlings (Thời đại đầu tiên)](<../E/Easterlings_(First_Age).md>).

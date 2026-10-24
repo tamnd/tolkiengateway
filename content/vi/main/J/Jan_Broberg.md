@@ -22,7 +22,7 @@ sort_keys:
 
 **Jan Broberg** ([9 tháng 12](../_/9_December.md) [1932](../_/1932.md) - [29 tháng 3](../_/29_March.md) [2012](../_/2012.md)) là một tác giả, nhà phê bình văn học người Thụy Điển và là chuyên gia hàng đầu ở Thụy Điển về truyện tội phạm, trinh thám và bí ẩn.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Trong [1961](../_/1961.md), Broberg đã trao đổi thư từ với [J.R.R. Tolkien](J.R.R._Tolkien.md) (xem thư *[Letter to Jan Broberg](../L/Letter_to_Jan_Broberg.md)*), gợi ý [một cuộc phỏng vấn](../_/1961_Jan_Broberg.md), sẽ được xuất bản bằng ấn bản tiếng Thụy Điển.
+Trong [1961](../_/1961.md), Broberg đã trao đổi thư từ với [J.R.R. Tolkien](J.R.R._Tolkien.md) (xem thư *[Letter to Jan Broberg](../L/Letter_to_Jan_Broberg.md)*), đề xuất [một cuộc phỏng vấn](../_/1961_Jan_Broberg.md), sẽ được xuất bản bằng ấn bản tiếng Thụy Điển.
 
 ## Thư mục, đã chọn {#Bibliography,_selected}
 

@@ -38,7 +38,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Scholarship_and_fantasy_0001_1.jpg.180x270_q75.jpg.md"><img src="https://tolkiengateway.net/w/images/4/4c/Scholarship_and_fantasy_0001_1.jpg.180x270_q75.jpg" decoding="async" loading="lazy" width="180" height="256" class="mw-file-element" data-file-width="180" data-file-height="256"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Scholarship and Fantasy: Proceedings of the Tolkien Phenomenon, Turku, May 1992</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a class="new" href="https://tolkiengateway.net/w/index.php?title=Keith_Battarbee&amp;action=edit&amp;redlink=1" title="Keith Battarbee (page does not exist)">Keith Battarbee</a> (ed)</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Department of English, <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Turku" title="wikipedia:University of Turku">University of Turku</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/1993.md" title="1993">1993</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">(Unknown Binding)</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">236</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/978-9512900879" title="Special:BookSources/978-9512900879">978-9512900879</a></td></tr></tbody></table>
 
-**Học bổng và sự tưởng tượng** là tập hợp các bài báo được trình bày tại [Hiện tượng Tolkien](../T/The_Tolkien_Phenomenon.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Turku" title="wikipedia:Turku">Turku</a>, Phần Lan, vào tháng 5 năm 1992.
+**Học bổng và tưởng tượng** là tập hợp các bài báo được trình bày tại [Hiện tượng Tolkien](../T/The_Tolkien_Phenomenon.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Turku" title="wikipedia:Turku">Turku</a>, Phần Lan, vào tháng 5 năm 1992.
 
 ## Người đóng góp và nội dung {#Contributors_and_contents}
 
@@ -49,18 +49,18 @@ infobox:
 - Helena Rautala
     - "Sự quen thuộc và khoảng cách: Mối quan hệ của Quenya với tiếng Phần Lan"
 - [Christina Scull](../C/Christina_Scull.md)
-    - "Ảnh hưởng của Khảo cổ học và Lịch sử đối với Trung Địa của Tolkien"
+    - "Ảnh hưởng của Khảo cổ học và Lịch sử đến Trung Địa của Tolkien"
 - [Anders Stenström](../A/Anders_Stenström.md)
-    - "Một số ghi chú về người khổng lồ trong bài viết của Tolkien"
+    - "Một số ghi chú về người khổng lồ trong tác phẩm của Tolkien"
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Andy_Orchard&amp;action=edit&amp;redlink=1" title="Andy Orchard (page does not exist)">Andy Orchard</a>
     - "Tolkien, Quái vật và Nhà phê bình: Quay lại *Beowulf*"
 - [Verlyn Flieger](../V/Verlyn_Flieger.md)
-    - "Người đàn ông xanh, Hiệp sĩ xanh và Treebeard: Học bổng và phát minh trong tiểu thuyết của Tolkien"
+    - "Người đàn ông xanh, Hiệp sĩ xanh và Cây râu: Học bổng và phát minh trong tiểu thuyết của Tolkien"
 - Fredrik Heinemann
-    - "Tolkien và Văn học cổ Iceland"
+    - "Tolkien và văn học Iceland cổ"
 - [Paul Bibire](../P/Paul_Bibire.md)
     - "Sægde seþe cuþe: J.R.R. Tolkien với tư cách là một người theo chủ nghĩa Anglo-Saxon"
-    - "Bởi Stock hoặc bằng Stone: Hình ảnh lặp lại và Mẫu tường thuật trong The Hobbit"
+    - "Theo kho hoặc bằng đá: Hình ảnh lặp lại và kiểu kể chuyện trong Người Hobbit"
 - [Colin Duriez](../C/Colin_Duriez.md)
     - "Sáng tạo phụ và Thần học về câu chuyện của Tolkien"
 - Clive Tolley
@@ -70,4 +70,4 @@ infobox:
 - Vappu Viemero
     - "Bạo lực và ảo tưởng"
 - [Tom A Shippey](../T/Tom_Shippey.md)
-    - "Tolkien với tư cách là Nhà văn thời hậu chiến"
+    - "Tolkien với tư cách là nhà văn thời hậu chiến"

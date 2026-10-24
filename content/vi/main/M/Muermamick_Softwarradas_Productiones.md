@@ -13,7 +13,7 @@ categories:
   - "Spanish businesses"
 ---
 
-**Muermamick Softwarradas Productiones** là một công ty Tây Ban Nha đã xuất bản [El Señor de los Anillos, Phần I: La Communidad del Anillo (Libro 1)](<../E/El_Señor_de_los_Anillos,_Parte_I%253A_La_Communidad_del_Anillo_(Libro_1).md>).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Muermamick Softwarradas Productiones** là một công ty Tây Ban Nha đã xuất bản [El Señor de los Anillos, Parte I: La Communidad del Anillo (Libro 1)](<../E/El_Señor_de_los_Anillos,_Parte_I%253A_La_Communidad_del_Anillo_(Libro_1).md>).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

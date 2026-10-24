@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Jess of the Shire"
 ---
 
-Chuyển hướng tới [Jess của Shire](../J/Jess_of_the_Shire.md).
+Chuyển hướng tới [Jess of the Shire](../J/Jess_of_the_Shire.md).

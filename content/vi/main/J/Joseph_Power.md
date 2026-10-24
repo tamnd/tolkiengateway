@@ -22,15 +22,15 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the Power, with the forename Joseph, who encountered <a href="J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> in the 1950s</b>. For the Power, with the forenames Norman Sandiford, an acquaintance of <a href="J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, see <b><a href="../N/Norman_Power.md" title="Norman Power">Norman Power</a></b>.</div></div>
 
-Anh **Joseph Power** ([2 tháng 2](../_/2_February.md) [1925](../_/1925.md) - [19 tháng 10](../_/19_October.md) [2011](../_/2011.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>) là giáo sư Ngôn ngữ và Văn học Anh tại <a class="extiw" href="http://en.wikipedia.org/wiki/Walsh_University" title="wikipedia:Walsh University">Đại học Walsh</a>. Anh ấy đã nhận được B.A. từ <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_London" title="wikipedia:University of London">Đại học London</a>, và sau đó đã giành được một suất triển lãm tại Đại học St. Catherine, Oxford (đọc để lấy bằng danh dự về Ngôn ngữ và Văn học Anh).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Anh **Joseph Power** ([2 tháng 2](../_/2_February.md) [1925](../_/1925.md) - [19 tháng 10](../_/19_October.md) [2011](../_/2011.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>) là giáo sư Ngôn ngữ và Văn học Anh tại <a class="extiw" href="http://en.wikipedia.org/wiki/Walsh_University" title="wikipedia:Walsh University">Đại học Walsh</a>. Ông đã nhận được B.A. từ <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_London" title="wikipedia:University of London">Đại học London</a>, và sau đó đã giành được một suất triển lãm tại Đại học St. Catherine's, Oxford (đọc để lấy bằng danh dự về Ngôn ngữ và Văn học Anh).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Trong thời gian này, anh ấy đã đến thăm nhà của [J.R.R. Tolkien](J.R.R._Tolkien.md) để được hướng dẫn buổi tối về [tiếng Anh cổ](../O/Old_English.md), nhưng thay vào đó anh ấy lại tham gia cùng Tolkiens trong lễ kỷ niệm nền cộng hòa của *[The Hobbit](../T/The_Hobbit.md)* (có thể là phiên bản thứ hai của [1951](../_/1951.md)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Trong thời gian này, ông đã đến thăm nhà của [J.R.R. Tolkien](J.R.R._Tolkien.md) để được dạy buổi tối bằng [Tiếng Anh cổ](../O/Old_English.md), nhưng thay vào đó ông lại tham gia cùng Tolkiens trong lễ kỷ niệm nền cộng hòa của *[The Hobbit](../T/The_Hobbit.md)* (có thể là ấn bản thứ hai của [1951](../_/1951.md)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 Năm 1965, Joseph Power chuyển đến Hoa Kỳ.
 
 ## Phim ảnh {#Filmography}
 
-- [2008](../_/2008.md): *Người học việc của Pháp sư 1/4: Gặp gỡ Tolkien và C.S. Lewis* (phỏng vấn Joseph Power)
+- [2008](../_/2008.md): *A Wizard's Apprentice 1/4: Gặp gỡ Tolkien và C.S. Lewis* (phỏng vấn Joseph Power)
 
 <span></span>
 

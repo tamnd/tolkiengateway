@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Andúril"
 ---
 
-Chuyển hướng đến [Andúril](../A/Andúril.md).
+Chuyển hướng tới [Andúril](../A/Andúril.md).

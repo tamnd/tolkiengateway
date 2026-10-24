@@ -23,7 +23,7 @@ images:
 
 <figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Hobbit_-_The_Desolation_of_Smaug_-_Extended_Edition_-_Blu-ray_cover.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/53/The_Hobbit_-_The_Desolation_of_Smaug_-_Extended_Edition_-_Blu-ray_cover.jpg/250px-The_Hobbit_-_The_Desolation_of_Smaug_-_Extended_Edition_-_Blu-ray_cover.jpg" decoding="async" loading="lazy" width="250" height="319" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/53/The_Hobbit_-_The_Desolation_of_Smaug_-_Extended_Edition_-_Blu-ray_cover.jpg/375px-The_Hobbit_-_The_Desolation_of_Smaug_-_Extended_Edition_-_Blu-ray_cover.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/5/53/The_Hobbit_-_The_Desolation_of_Smaug_-_Extended_Edition_-_Blu-ray_cover.jpg/500px-The_Hobbit_-_The_Desolation_of_Smaug_-_Extended_Edition_-_Blu-ray_cover.jpg 2x" data-file-width="1944" data-file-height="2477"/></a><figcaption>Blu-ray cover of the Extended Edition <table class="TGtable" border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; margin:0 auto; clear: both;">  <tbody><tr style="text-align: center;"> <td width="30%">Preceded by:<br/><b><a href="The_Hobbit%253A_An_Unexpected_Journey_(extended_edition).md" title="The Hobbit: An Unexpected Journey (extended edition)">An Unexpected Journey Extended Edition</a></b> </td> <td width="40%"><b>The Hobbit Extended Edition<br/> The Desolation of Smaug</b> </td> <td width="30%">Followed by:<br/><b><a href="The_Hobbit%253A_The_Battle_of_the_Five_Armies_(extended_edition).md" title="The Hobbit: The Battle of the Five Armies (extended edition)">The Battle of the Five Armies Extended Edition</a></b> </td></tr></tbody></table></figcaption></figure>
 
-<b><i>The Hobbit: The Desolation of Smaug</i> (phiên bản mở rộng)</b> là phiên bản mở rộng của *[The Hobbit: The Desolation of Smaug](The_Hobbit%253A_The_Desolation_of_Smaug.md)*. Nó có 25 phút cảnh quay bổ sung được thêm lại vào phim (nâng tổng thời lượng chiếu lên 186 phút), cũng như nhiều phim tài liệu về quá trình làm phim dưới dạng phần bổ sung.
+<b><i>The Hobbit: Sự tàn phá của Smaug</i> (phiên bản mở rộng)</b> là phiên bản mở rộng của *[The Hobbit: The Desolation of Smaug](The_Hobbit%253A_The_Desolation_of_Smaug.md)*. Nó có 25 phút cảnh quay bổ sung được thêm lại vào phim (nâng tổng thời lượng chiếu lên 186 phút), cũng như nhiều phim tài liệu về quá trình làm phim dưới dạng phần bổ sung.
 
 <figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Hobbit_-_The_Desolation_of_Smaug_-_Extended_Edition_-_DVD_cover.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/1/14/The_Hobbit_-_The_Desolation_of_Smaug_-_Extended_Edition_-_DVD_cover.jpg/150px-The_Hobbit_-_The_Desolation_of_Smaug_-_Extended_Edition_-_DVD_cover.jpg" decoding="async" loading="lazy" width="150" height="201" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/14/The_Hobbit_-_The_Desolation_of_Smaug_-_Extended_Edition_-_DVD_cover.jpg/225px-The_Hobbit_-_The_Desolation_of_Smaug_-_Extended_Edition_-_DVD_cover.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/1/14/The_Hobbit_-_The_Desolation_of_Smaug_-_Extended_Edition_-_DVD_cover.jpg/300px-The_Hobbit_-_The_Desolation_of_Smaug_-_Extended_Edition_-_DVD_cover.jpg 2x" data-file-width="1870" data-file-height="2500"/></a><figcaption>DVD cover</figcaption></figure>
 
@@ -44,29 +44,29 @@ LƯU Ý: Phim được chia thành 2 đĩa cho cả phiên bản DVD và Blu-ray
 ### Cảnh mở rộng {#Extended_Scenes}
 
 - 1\. Cuộc tìm kiếm Erebor
-- 8\. Cổng Tiên
-- 9\. Mirkwood
-- 21\. Chủ nhân của Thị trấn Hồ
-- 22\. Thế giới Con Người
+- 8\. Cổng yêu tinh
+- 9\. Rừng tối
+- 21\. Bậc thầy của thị trấn hồ
+- 22\. Thế giới đàn ông
 - 25\. Lời tiên tri
 - 26\. Chào đón nồng nhiệt
 - 27\. Sự chia tay của công ty
-- 28\. Ngọn Núi Cô Đơn
+- 28\. Ngọn núi cô đơn
 - 29\. Phép thuật che giấu
-- 35\. Kẻ Thù được tiết lộ
+- 35\. Kẻ thù lộ diện
 
-## The Phụ lục: Phần Chín - Vào [Wilderland](../R/Rhovanion.md): Biên niên sử của *[The Hobbit](The_Hobbit.md)* - Phần 2 (đĩa 2)\*\* {#The_Appendices:_Part_Nine_-_Into_the_Wilderland:_The_Chronicles_of_The_Hobbit_-_Part_2_(disc_2)**}
+## Các Phụ lục: Phần Chín - Vào [Vùng đất hoang](../R/Rhovanion.md): Biên niên sử *[The Hobbit](The_Hobbit.md)* - Phần 2 (đĩa 2)\*\* {#The_Appendices:_Part_Nine_-_Into_the_Wilderland:_The_Chronicles_of_The_Hobbit_-_Part_2_(disc_2)**}
 
 - Mở\*
 - Phim tài liệu "Chào mừng nồng nhiệt"\*
 - Phim tài liệu "Doanh nghiệp nhà nước"\*
-- "Nơi trú ẩn trong phim tài liệu Long Lake"\*
-- Phim tài liệu "Trong sảnh của Tiên-king"\*
+- Phim tài liệu "Nơi trú ẩn trên Hồ Dài"\*
+- Phim tài liệu "Trong đại sảnh của vua yêu tinh"\*
 - Phim tài liệu "Ruồi và Nhện"\*
 - Phim tài liệu về "Nhà nghỉ dành cho người đồng tính"\*
 - Phim tài liệu "Trên ngưỡng cửa"\*
 - Phim tài liệu "Thông tin nội bộ"\*
-- "Dòng nước nhanh, dòng tối..." Phim tài liệu\*
+- "Dòng chảy nhanh, dòng tối..." Phim tài liệu\*
 - Phim tài liệu "Thùng hết trái phiếu"^
 - Phim tài liệu "Cuộc gặp gỡ tình cờ"^
 - "[Erebor](../L/Lonely_Mountain.md) Phim tài liệu được nhen nhóm lại^
@@ -75,24 +75,24 @@ LƯU Ý: Phim được chia thành 2 đĩa cho cả phiên bản DVD và Blu-ray
 
 <figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Hobbit_-_The_Desolation_of_Smaug_-_Extended_Edition_-_Blu-ray_3-D_cover.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/be/The_Hobbit_-_The_Desolation_of_Smaug_-_Extended_Edition_-_Blu-ray_3-D_cover.jpg/150px-The_Hobbit_-_The_Desolation_of_Smaug_-_Extended_Edition_-_Blu-ray_3-D_cover.jpg" decoding="async" loading="lazy" width="150" height="191" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/be/The_Hobbit_-_The_Desolation_of_Smaug_-_Extended_Edition_-_Blu-ray_3-D_cover.jpg/225px-The_Hobbit_-_The_Desolation_of_Smaug_-_Extended_Edition_-_Blu-ray_3-D_cover.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/b/be/The_Hobbit_-_The_Desolation_of_Smaug_-_Extended_Edition_-_Blu-ray_3-D_cover.jpg/300px-The_Hobbit_-_The_Desolation_of_Smaug_-_Extended_Edition_-_Blu-ray_3-D_cover.jpg 2x" data-file-width="1945" data-file-height="2471"/></a><figcaption>Blu-ray 3-D cover</figcaption></figure>
 
-## Phần Phụ lục: Phần 10 - Hành trình tới Erebor (đĩa 3)^ {#The_Appendices:_Part_Ten_-_The_Journey_to_Erebor_(disc_3)^^}
+## Các Phụ lục: Phần 10 - Hành trình đến Erebor (đĩa 3)^ {#The_Appendices:_Part_Ten_-_The_Journey_to_Erebor_(disc_3)^^}
 
-- "Triệu hồi [Smaug](../S/Smaug.md): Phim tài liệu cuối cùng của [con rồng lửa](../F/Fire-drakes.md)"^
-    - Cuối cùng và đầu tiên [Rồng](../D/Dragons.md)
+- "Triệu hồi [Smaug](../S/Smaug.md): Phim tài liệu cuối cùng của [những con rồng lửa](../F/Fire-drakes.md)"^
+    - Con rồng cuối cùng và đầu tiên [](../D/Dragons.md)
     - Cuộc trò chuyện với Smaug
-    - Vào hang ổ của Rồng
-- Phim tài liệu"Người dân và cư dân Trung Địa"
-    - [Beorn](../B/Beorn.md): Kẻ Biến Hình
-    - Sự sinh sản của [Ungoliant](../U/Ungoliant.md)
-    - Số Con Người của [Thị trấn Hồ](../L/Lake-town.md)
-- "Vương quốc của [Kỷ Đệ Tam](Third_Age.md): Từ nhà của [Beorn](../B/Beorn's_Hall.md) đến Thị trấn Hồ" Phim tài liệuº
-Nhà của     - Beorn
-    - [Mirkwood](../M/Mirkwood.md) Rừng
-    - Cái [Vương quốc Rừng](../W/Woodland_Realm.md)
-    - Thị trấn Hồ
+    - Vào hang rồng
+- Phim tài liệu "Các dân tộc và cư dân Trung Địa"
+    - [Beorn](../B/Beorn.md): Kẻ biến hình
+    - Sự ra đời của [Ungoliant](../U/Ungoliant.md)
+    - Những người đàn ông của [Thị trấn hồ](../L/Lake-town.md)
+- "Các vương quốc của [Thời thứ ba](Third_Age.md): Từ [Nhà của Beorn](../B/Beorn's_Hall.md) đến Thị trấn Hồ" Phim tài liệuº
+    - Nhà của Beorn
+Rừng     - [Mirkwood](../M/Mirkwood.md)
+    - [Vương quốc rừng](../W/Woodland_Realm.md)
+    - Thị trấn hồ
 - Phim tài liệu "Âm nhạc của *The Hobbit*"^
-    - Overture: Âm nhạc của Wilderland
-    - Chuyển động thứ nhất: Thế giới của Con Người
+    - Overture: Âm nhạc của vùng đất hoang dã
+    - Phong trào thứ 1: Thế giới đàn ông
     - Chuyển động thứ 2: Trong Sảnh Erebor
 - Tín dụngº
 
@@ -109,10 +109,10 @@ GHI CHÚ:
 
 - *[The Hobbit: The Desolation of Smaug](The_Hobbit%253A_The_Desolation_of_Smaug.md)*
 - [*The Hobbit: An Unexpected Journey* (phiên bản mở rộng)](<The_Hobbit%253A_An_Unexpected_Journey_(extended_edition).md>)
-- [*The Hobbit: The Battle of the Five Armies* (phiên bản mở rộng)](<The_Hobbit%253A_The_Battle_of_the_Five_Armies_(extended_edition).md>)
-- [*The Lord of the Rings: The Fellowship of the Ring* (phiên bản mở rộng)](<The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(extended_edition).md>)
-- [*The Lord of the Rings: The Two Towers* (phiên bản mở rộng)](<The_Lord_of_the_Rings%253A_The_Two_Towers_(extended_edition).md>)
-- [*The Lord of the Rings: The Return of the King* (phiên bản mở rộng)](<The_Lord_of_the_Rings%253A_The_Return_of_the_King_(extended_edition).md>)
+- [*The Hobbit: The Battle of the Five Armies* (extended edition)](<The_Hobbit%253A_The_Battle_of_the_Five_Armies_(extended_edition).md>)
+- [*The Lord of the Rings: The Fellowship of the Ring* (extended edition)](<The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(extended_edition).md>)
+- [*The Lord of the Rings: The Two Towers* (extended edition)](<The_Lord_of_the_Rings%253A_The_Two_Towers_(extended_edition).md>)
+- [*The Lord of the Rings: The Return of the King* (extended edition)](<The_Lord_of_the_Rings%253A_The_Return_of_the_King_(extended_edition).md>)
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

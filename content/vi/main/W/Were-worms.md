@@ -29,7 +29,7 @@ images:
 <p class="tg-quote-footer"><cite><a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo Baggins</a>, from <i><a href="../T/The_Hobbit.md" title="The Hobbit">The Hobbit</a></i>, &#34;<a href="../A/An_Unexpected_Party.md" title="An Unexpected Party">An Unexpected Party</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-Theo [Bilbo Baggins](../B/Bilbo_Baggins.md), **were-worm** là những sinh vật sống ở [Sa mạc Cuối cùng](../L/Last_Desert.md) ở [phương Đông của phương Đông](../U/Uttermost_East.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Chúng chỉ được nhắc đến bởi anh ta. Người ta không biết họ là một chủng tộc thực sự hay chỉ đơn thuần là một phần của Hobbit văn hóa dân gian, trong đó có đề cập đến một số sinh vật thần thoại, chẳng hạn như [người lùn](../D/Dumbledors.md),<sup id="cite_ref-Errantry_2-0" class="reference"><a href="#cite_note-Errantry-2">[2]</a></sup> [hummerhorns](../H/Hummerhorns.md)<sup id="cite_ref-Errantry_2-1" class="reference"><a href="#cite_note-Errantry-2">[2]</a></sup> và [cá rùa](../T/Turtle-fish.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Theo [Bilbo Baggins](../B/Bilbo_Baggins.md), **những con sâu** là những sinh vật sống ở [Sa mạc Cuối cùng](../L/Last_Desert.md) ở [Phía Đông phương Đông](../U/Uttermost_East.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Chúng chỉ được nhắc đến bởi ông ta. Người ta không biết liệu họ có phải là một chủng tộc thực sự hay chỉ đơn thuần là một phần trong văn hóa dân gian Hobbit, trong đó đề cập đến một số sinh vật thần thoại, chẳng hạn như [người lùn](../D/Dumbledors.md),<sup id="cite_ref-Errantry_2-0" class="reference"><a href="#cite_note-Errantry-2">[2]</a></sup> [hummerhorns](../H/Hummerhorns.md)<sup id="cite_ref-Errantry_2-1" class="reference"><a href="#cite_note-Errantry-2">[2]</a></sup> và [cá rùa](../T/Turtle-fish.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -37,7 +37,7 @@ Yếu tố "were-" (như được tìm thấy trong "werewolf") bắt nguồn t�
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong đoạn đầu tiên của *[The Hobbit](../T/The_Hobbit.md)*, Bilbo đề nghị đi bộ đến "Sa mạc vĩ đại Gobi và chiến đấu với sâu dây hoang dã của người Trung Quốc".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Tolkien đã thay đổi điều này trong phiên bản muộn hơn một chút thành "sa mạc cuối cùng ở phương Đông" và "Trùm dây hoang dã của người Trung Quốc",<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> biến từ này thành số nhiều. Trong thực tế, thuật ngữ "giun kim" dùng để chỉ ấu trùng của loài bọ click, một loài gây hại cây trồng.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
+Trong đoạn đầu tiên của *[The Hobbit](../T/The_Hobbit.md)*, Bilbo đề nghị đi bộ đến "Sa mạc lớn Gobi và chiến đấu với sâu dây hoang dã của người Trung Quốc".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Tolkien đã thay đổi điều này trong phiên bản muộn hơn một chút thành "sa mạc cuối cùng ở phía Đông" và "Trùm dây hoang dã của người Trung Quốc",<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> biến từ này thành số nhiều. Trong thực tế, thuật ngữ "giun kim" dùng để chỉ ấu trùng của loài bọ click, một loài gây hại cây trồng.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
@@ -72,11 +72,11 @@ Trong đoạn đầu tiên của *[The Hobbit](../T/The_Hobbit.md)*, Bilbo đề
 		</li>
 </ul>
 
-<b>1982–97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>:</b>
+<b>1982–97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Nhập vai ở Trung Địa</a></i>:</b>
 
 <dl><dd>Were-worms are depicted as a very unusual breed of legless, wingless dragon, capable of altering their shapes. They are divided into two varieties: sand-drakes, animalistic beasts that can mimic the characteristics of objects they touch, and true were-worms, intelligent beings that use sorcery to take on the forms of other things.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></dd></dl>
 
-<b>2014: <i><a href="../T/The_Hobbit%253A_The_Battle_of_the_Five_Armies.md" title="The Hobbit: The Battle of the Five Armies">The Hobbit: The Battle of the Five Armies</a></i>:</b>
+<b>2014: <i><a href="../T/The_Hobbit%253A_The_Battle_of_the_Five_Armies.md" title="The Hobbit: The Battle of the Five Armies">Người Hobbit: Trận chiến của năm đội quân</a></i>:</b>
 
 <dl><dd><a href="../A/Azog.md" title="Azog">Azog</a>&#39;s forces use giant worms, which Azog calls &#34;earth eaters&#34;, to tunnel underground towards the city of <a href="../D/Dale.md" title="Dale">Dale</a>. When the creatures appear during the <a href="../B/Battle_of_Five_Armies.md" title="Battle of Five Armies">Battle of Five Armies</a>, <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> identifies them as &#34;were-worms&#34;. In the film, they are depicted as absolutely gigantic, with <a class="mw-redirect" href="Weta_Digital.md" title="Weta Digital">Weta Digital</a> stating that they are 400 feet long and 75 feet in diameter. They are apparently used only for tunneling, not fighting, as they do not take part in the ensuing battle.</dd></dl>
 

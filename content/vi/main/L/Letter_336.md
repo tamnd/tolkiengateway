@@ -34,12 +34,12 @@ infobox:
 
 <figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/P/Patrick_Browne_23_May_1972.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/2/29/Patrick_Browne_23_May_1972.jpg/300px-Patrick_Browne_23_May_1972.jpg" decoding="async" loading="lazy" width="300" height="450" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/2/29/Patrick_Browne_23_May_1972.jpg 1.5x" data-file-width="400" data-file-height="600"/></a><figcaption></figcaption></figure>
 
-Tolkien nói với Ngài Patrick Browne về cái giá của sự nổi tiếng và quan điểm của ông về việc trở thành một nhân vật được sùng bái: điều đó không hề dễ chịu chút nào. Nó làm cho anh ta cảm thấy nhỏ bé và thiếu thốn, mặc dù anh ta cảm thấy hãnh diện.
+Tolkien nói với Ngài Patrick Browne về cái giá của sự nổi tiếng và quan điểm của ông về việc trở thành một nhân vật sùng bái: điều đó không hề dễ chịu chút nào. Nó làm cho ông ta cảm thấy nhỏ bé và thiếu thốn, mặc dù ông ta cảm thấy hãnh diện.
 
 ## Ghi chú {#Notes}
 
-- Đoạn được chọn là phần thứ hai của bức thư thực sự. [Tolkien Library](../P/Pieter_Collier.md) có hình ảnh đầy đủ của lá thư và thư từ của [Humphrey Carpenter](../H/Humphrey_Carpenter.md), <a class="external text" href="http://www.tolkienlibrary.com/sdebelder/images/LotrLetter12.jpg" rel="noreferrer noopener" target="_blank">trực tuyến</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
-- Mặc dù "Ngài Patrick Browne" không được xác định trong *The Letters of J.R.R. Tolkien*, nhưng rất có thể đó là <a class="external text" href="http://www.independent.co.uk/news/people/obituary-sir-patrick-browne-1360765.html" rel="noreferrer noopener" target="_blank">Patrick Browne</a>, một thẩm phán, vì Tolkien gọi ông ấy như vậy ("Kính gửi thẩm phán") trong bản sao đầy đủ.
+- Đoạn được chọn là phần thứ hai của bức thư thực sự. [Thư viện Tolkien](../P/Pieter_Collier.md) có hình ảnh đầy đủ của bức thư và thư từ của [Humphrey Carpenter](../H/Humphrey_Carpenter.md), <a class="external text" href="http://www.tolkienlibrary.com/sdebelder/images/LotrLetter12.jpg" rel="noreferrer noopener" target="_blank">trực tuyến</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+- Mặc dù "Sir Patrick Browne" không được xác định trong *The Letters of J.R.R. Tolkien*, nhưng rất có thể <a class="external text" href="http://www.independent.co.uk/news/people/obituary-sir-patrick-browne-1360765.html" rel="noreferrer noopener" target="_blank">Patrick Browne</a>, một thẩm phán, vì Tolkien xưng hô với ông như vậy ("Kính gửi thẩm phán") trong bản sao đầy đủ.
 
 <span></span>
 

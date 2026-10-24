@@ -25,7 +25,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Kịch ca nhạc trong trường học do Malcolm biên tập John
+Kịch âm nhạc trong trường học do Malcolm John biên tập
 
 ## Giấy phép {#Licensing}
 

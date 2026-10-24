@@ -42,8 +42,8 @@ Phần bổ sung ban đầu được công bố vào năm 2003 dưới dạng b�
 *Paths of the Wise* cung cấp mọi thứ bạn cần để khắc họa những người làm bùa chú hùng mạnh và những nhân vật có học thức tuyệt vời và trí tuệ tuyệt vời. Đây là một kho tàng các quy tắc mới, tài liệu cơ bản và lời khuyên về trò chơi dành cho người chơi cũng như Người kể chuyện. Nó bao gồm:
 
 - 4 mệnh lệnh ưu tú mới, 8 cạnh mới, 12 lỗ hổng mới, 6 khả năng của trật tự truyền thuyết mới, 3 khả năng của trật tự pháp sư mới và 3 khả năng của trật tự phù thủy mới.
-- 50 phép thuật mới để mở rộng Trung Địa Grimoire và các tùy chọn mới cho phép Người kể chuyện tùy chỉnh cách sử dụng phép thuật.
-- Các quy tắc mới về truyền thuyết thảo mộc, bao gồm [hàng tá mẫu thảo mộc](Plants_in_The_Lord_of_the_Rings_Roleplaying_Game.md) có thể được tìm thấy trên khắp vùng đất Trung Địa.
+- 50 phép thuật mới để mở rộng Grimoire Trung Địa và các tùy chọn mới cho phép Người kể chuyện tùy chỉnh cách sử dụng phép thuật.
+- Các quy tắc mới về truyền thuyết thảo mộc, bao gồm [hàng tá loại thảo mộc mẫu](Plants_in_The_Lord_of_the_Rings_Roleplaying_Game.md) có thể được tìm thấy trên khắp các vùng đất ở Trung Địa.
 - Quy tắc mới dành cho vật phẩm bị phù phép, vật phẩm bị nguyền rủa, ma thú, sách truyền thuyết, thư viện, v.v.
 - Thông tin chi tiết về vai trò của người sử dụng phép thuật và vị trí của họ trong biên niên sử, cũng như năm nhân vật mẫu, sẵn sàng để sử dụng làm NPC hoặc nhân vật người chơi.
 

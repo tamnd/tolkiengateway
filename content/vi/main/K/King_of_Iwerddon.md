@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The King of the Green Dozen"
 ---
 
-Chuyển hướng đến [The Vua của Green Dozen](../T/The_King_of_the_Green_Dozen.md).
+Chuyển hướng tới [Vua của Thập Lục Xanh](../T/The_King_of_the_Green_Dozen.md).

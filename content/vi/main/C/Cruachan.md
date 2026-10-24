@@ -28,21 +28,21 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Band</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Cruachan</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Background Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Origin</th><td class="tg-infobox-data">Dublin, Ireland</td></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data"><a class="new" href="https://tolkiengateway.net/w/index.php?title=Category:Folk_Metal&amp;action=edit&amp;redlink=1" title="Category:Folk Metal (page does not exist)"> Folk Metal</a></td></tr><tr><th scope="row" class="tg-infobox-label">Years active</th><td class="tg-infobox-data">1992–1997, 1998–present</td></tr><tr><th scope="row" class="tg-infobox-label">label</th><td class="tg-infobox-data">Trollzorn, Candlelight, AFM, Karmageddon Media, Hammerheart, Nazgul&#39;s Eyrie Productions</td></tr><tr><th scope="row" class="tg-infobox-label">website</th><td class="tg-infobox-data"><a class="external text" href="https://www.cruachanireland.com/" rel="noreferrer noopener" target="_blank">Cruachan Website</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Members</span></th></tr><tr><th scope="row" class="tg-infobox-label">Current Members</th><td class="tg-infobox-data">Keith Fay, Joe Farrell, Audrey Trainor, David Quinn, Sterling Paterson</td></tr></tbody></table>
 
-**Cruachan** là một nhóm nhạc Ireland khởi đầu là một ban nhạc theo phong cách dân gian Tolkien có tên là [Minas Tirith](../M/Minas_Tirith.md) và đã phát hành một số bài hát liên quan đến truyền thuyết.
+**Cruachan** là một nhóm nhạc Ireland ban đầu là ban nhạc theo phong cách dân gian Tolkien tên là [Minas Tirith](../M/Minas_Tirith.md) và đã phát hành một số bài hát liên quan đến truyền thuyết.
 
 Sau khi đổi tên thành Cruachan, họ được biết đến với việc kết hợp kim loại đen và dân gian Ireland để tạo ra Folk Metal. <sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-## Tolkien Đĩa hát liên quan<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> {#Tolkien_Related_Discography[2]}
+## Danh sách đĩa nhạc liên quan đến Tolkien<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> {#Tolkien_Related_Discography[2]}
 
 - Tuatha Na Gael; Album 1995
-    - The Fall of Gondolin
+    - Sự sụp đổ của Gondolin
 - Đi tiếp; EP 2001
     - Sauron
 - Ngoại đạo; Album 2004
     - Sự sụp đổ của Gondolin
 - Lời kêu gọi của Morrigan; Album 2006
     - Shelob
-    - Ungoliant
+    - Không ổn định
 - Máu Của Thần Máu; Album 2014
     - Beren và Luthien
 
@@ -56,7 +56,7 @@ Sau khi đổi tên thành Cruachan, họ được biết đến với việc k�
 
 ## Cựu thành viên {#Former_Members}
 
-- John Clohessy – trầm (1992–2012)
+- John Clohessy – bass (1992–2012)
 - John (O'Fathaigh) Fay – còi thiếc, sáo Ailen, keyboard, bộ gõ (1993–1997, 1999–2002, 2003, 2008–2016)
 - Jay O'Neill – trống, bộ gõ (1993–1997)
 - Steven Anderson – guitar, hát (1993–1994)

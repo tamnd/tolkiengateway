@@ -39,34 +39,34 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mythlore_36.png.md"><img src="https://tolkiengateway.net/w/images/3/3b/Mythlore_36.png" decoding="async" loading="lazy" width="309" height="397" class="mw-file-element" data-file-width="309" data-file-height="397"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mythlore 36</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../G/Glen_GoodKnight.md" title="Glen GoodKnight">Glen GoodKnight</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Summer <a href="../_/1983.md" title="1983">1983</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">55</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mythlore_35.md" title="Mythlore 35">Mythlore 35</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mythlore_37.md" title="Mythlore 37">Mythlore 37</a></td></tr></tbody></table>
 
-<b><i>Mythlore</i> 36</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol10/iss2/" rel="noreferrer noopener" target="_blank">Tập 10, Số 2</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
+<b><i>Thần thoại</i> 36</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol10/iss2/" rel="noreferrer noopener" target="_blank">Tập 10, Số 2</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, được xuất bản bởi [Hiệp hội Thần thoại](Mythopoeic_Society.md).
 
 ## Nội dung {#Contents}
 
 #### Bài viết {#Articles}
 
-- Quạ, Edith. “Nhiều khuôn mặt của Herosim trong Tolkien.”
-- Pitts, M. E. “Con đường vượt qua: Cách tiếp cận để đi xuống địa ngục.”
-- Manganiello, Dominic. “Nghệ sĩ là nhà ảo thuật: Yeats, Joyce và Tolkien.”
-- Trường học, Karl. “Bản chất của những giấc mơ trong The Lord of the Rings.”
-- Boeing, Robert. “C.S. Lewis' Cuộc ly hôn vĩ đại và Tầm nhìn giấc mơ thời Trung cổ.”
-- Kodratiev, Alex. “Những huyền thoại mới cho cái cũ, Phần II.”
+- Crowe, Edith. “The Many Faces of Herosim in Tolkien.”
+- Pitts, M. E. “Ways of Passage: An Approach to Descent Into Hell.”
+- Manganiello, Dominic. “The Artist as Magician: Yeats, Joyce, and Tolkien.”
+- Schoor, Karl. “The Nature of Dreams in The Lord of the Rings.”
+- Boeing, Robert. “C.S. Lewis' The Great Divorce and the Medieval Dream Vision.”
+- Kondratiev, Alex. “New Myths for Old, Part II.”
 
 #### Thơ {#Poetry}
 
-- DuPriest, Travis. “Một số giá trị của thế kỷ 17: Một loạt câu thơ ngắn.”
-- Christopher, Joe R. “Tầm nhìn của Margaret Anstruther.”
-- Kenny, Alice P. “Chị Cóc.”
-- Hàng xóm, Jim. “Từng là Nữ hoàng Susan.”
-- Rusa, Karla. “Bài thánh ca tháng mười.”
+- DuPriest, Travis. “Some 17th Century Worthies: A Short Verse Series.”
+- Christopher, Joe R. “Margaret Anstruther's Vision.”
+- Kenny, Alice P. “The Toad-Sister.”
+- Neighbors, Jim. “Once Queen Susan.”
+- Rusa, Karla. “October Hymn.”
 
 #### Tính năng {#Features}
 
 - Chúc ngủ ngon, Glen. Biên tập.
-- Christopher, Joe R. Inklings' Thư mục (25)
+- Christopher, Joe R. Inklings' Bibliography (25)
 - Hyde, Paul Nolan. “Quenti Lambardillion.”
-- Biển, Sarah. “Thần thoại.”
-- Speth, Lee. “Điều trị ung dung.”
+- Beach, Sarah. “Mythopoesis.”
+- Speth, Lee. “Cavalier Treatment.”
 - Thư.
 
 #### Đánh giá {#Reviews}

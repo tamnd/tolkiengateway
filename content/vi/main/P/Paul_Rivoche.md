@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Rivoche, Paul"
 ---
 
-**Paul Rivoche** đã tạo ra nhiều hình minh họa lấy cảm hứng từ [Tolkien](../J/J.R.R._Tolkien.md). Anh ấy đã thực hiện tác phẩm nghệ thuật cho [Lịch J.R.R. Tolkien năm 1981](../T/The_1981_J.R.R._Tolkien_Calendar_-_The_Lord_of_the_Rings.md) dựa trên [*The Lord of the Rings* (phim 1978)](<../T/The_Lord_of_the_Rings_(1978_film).md>), "To Honor the Silver Anniversary" của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.
+**Paul Rivoche** đã tạo ra nhiều hình minh họa lấy cảm hứng từ [Tolkien](../J/J.R.R._Tolkien.md). Ông đã thực hiện tác phẩm nghệ thuật cho [Lịch J.R.R. Tolkien năm 1981](../T/The_1981_J.R.R._Tolkien_Calendar_-_The_Lord_of_the_Rings.md) dựa trên [*The Lord of the Rings* (phim 1978)](<../T/The_Lord_of_the_Rings_(1978_film).md>), "To Honor the Silver Anniversary" của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.
 
 ## Xem thêm {#See_also}
 

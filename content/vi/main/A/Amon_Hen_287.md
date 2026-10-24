@@ -42,31 +42,31 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/AmonHen287.png.md"><img src="https://tolkiengateway.net/w/images/thumb/3/3b/AmonHen287.png/320px-AmonHen287.png" decoding="async" loading="lazy" width="320" height="454" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/3b/AmonHen287.png/480px-AmonHen287.png 1.5x, https://tolkiengateway.net/w/images/thumb/3/3b/AmonHen287.png/640px-AmonHen287.png 2x" data-file-width="1410" data-file-height="2000"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Amon Hen 287</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Cate Billing, Mathew Suta, Ana Demartino</td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data">Nicolas Rix</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Printer</th><td class="tg-infobox-data"><a class="external text" href="http://www.horshampress.co.uk/" rel="noreferrer noopener" target="_blank">Horsham Press</a>, Horsham, UK</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">January <a href="../_/2021.md" title="2021">2021</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">A5 stapled paperback, glossy</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">36</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0306-8781</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Amon_Hen_286.md" title="Amon Hen 286">Amon Hen 286</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Amon_Hen_288.md" title="Amon Hen 288">Amon Hen 288</a></td></tr></tbody></table>
 
-<b><i>Amon Hen</i> 287</b> là số thứ hai trăm tám mươi bảy của tạp chí hai tháng một lần của [Hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, xuất bản vào tháng 1 [2021](../_/2021.md).
+<b><i>Amon Hen</i> 287</b> is the two-hundred-and-eighty-seventh issue of the [The Tolkien Society](../T/The_Tolkien_Society.md)'s bimonthly journal *[Amon Hen](<Amon_Hen_(journal).md>)*, published in January [2021](../_/2021.md).
 
 ## Nội dung {#Contents}
 
 - Ảnh bìa: Varda
     - Bởi: Telpefinde
 - Đại hội thường niên
-- Tolkien Mặt bàn số 3
+- Mặt bàn Tolkien #3
     - Bởi: Daniel Marchant
 - Đánh giá: Tolkienography
     - Bởi: Lance A. Green
 - Walter Hooper
     - Bởi: [Colin Duriez](../C/Colin_Duriez.md)
 - Thư tình gửi thiên nhiên
-    - Bởi: Christopher Sheffield
+    - Bởi: Christopher Shefford
 - Richard C. West
     - Bởi: Charles E. Noad
-- Về nguồn gốc của Hobbit - Phần Một -
+- Về nguồn gốc của người Hobbit - Phần Một -
     - Bởi: James P. Buchman
-- The Hobbit, Lửa & Nước
+- Người Hobbit, Lửa & Nước
     - Bởi: Norloth
 - Câu hỏi khó nhất từ trước đến nay: Đáp án
 - Toán học
     - Bởi: Jan Boom
-- Tin từ Fangorn
+- Tin tức từ Fangorn
     - Bởi: Carol Brownlow
 - Tất cả cám
     - Bởi: Ian Spittlehouse

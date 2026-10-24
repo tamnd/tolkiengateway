@@ -17,11 +17,11 @@ sort_keys:
   "Sindarin nouns": "Tin"
 ---
 
-## Sindarin {#Sindarin}
+## Tiếng Sindarin {#Sindarin}
 
 ### Danh từ {#Noun}
 
-<i><b>tîn</b></i> (cũng xuất hiện dưới dạng <i><b>tin</b></i> và <i><b>tĭn</b></i>) là một từ [Sindarin](../S/Sindarin.md) có nghĩa là "tia lửa, lấp lánh (đặc biệt được sử dụng để chỉ sự lấp lánh của [các ngôi sao](../S/Stars.md))" hoặc "tỏa sáng, ngôi sao".<sup id="cite_ref-PE17_1-0" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup>
+<i><b>tîn</b></i> (cũng xuất hiện dưới dạng <i><b>tin</b></i> và <i><b>tĭn</b></i>) là một từ [tiếng Sindarin](../S/Sindarin.md) có nghĩa là "tia lửa, lấp lánh (đặc biệt được sử dụng cho sự lấp lánh của [ngôi sao](../S/Stars.md))" hoặc "tia lửa, ngôi sao".<sup id="cite_ref-PE17_1-0" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup>
 
 #### Từ nguyên {#Etymology}
 
@@ -37,15 +37,15 @@ sort_keys:
 
 ### Tính từ {#Adjective}
 
-<i><b>tîn</b></i> (hoặc *tínen*) là một từ [Sindarin](../S/Sindarin.md) có nghĩa là "im lặng, im lặng".<sup id="cite_ref-UI_2-0" class="reference"><a href="#cite_note-UI-2">[2]</a></sup>
+<i><b>tîn</b></i> (hoặc *tínen*) là từ [Sindarin](../S/Sindarin.md) có nghĩa là "im lặng, yên tĩnh".<sup id="cite_ref-UI_2-0" class="reference"><a href="#cite_note-UI-2">[2]</a></sup>
 
 #### Ví dụ {#Examples_2}
 
 - <i><a href="../R/Rath_Dínen.md" title="Rath Dínen">Rath <b>Dínen</b></a></i><sup id="cite_ref-UI_2-1" class="reference"><a href="#cite_note-UI-2">[2]</a></sup>
 
-## Tân-Sindarin {#Neo-Sindarin}
+## Tân Sindarin {#Neo-Sindarin}
 
-Dạng chưa được chứng thực <i><b>tîn</b></i> thường được hiểu là "của anh ấy (không phải chủ đề)" trong [Neo-Sindarin](../N/Neo-Elvish.md), liên quan đến *[dîn](../D/Dîn.md)* và *[în](../_/În.md)*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Dạng chưa được chứng thực <i><b>tîn</b></i> thường được hiểu là "của ông (không phải chủ đề)" trong [Neo-Sindarin](../N/Neo-Elvish.md), liên quan đến *[dîn](../D/Dîn.md)* và *[în](../_/În.md)*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 <span></span>
 

@@ -39,8 +39,8 @@ sort_keys:
 <p class="tg-quote-footer"><cite><i><a href="../N/Namárië.md" title="Namárië">Namárië</a></i></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-- *[Eärrámë](../E/Eärrámë.md)* (Biển-Cánh)<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
-- *[Númerrámar](../N/Númerrámar.md)* ("Phương Tây-cánh")<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+- *[Eärrámë](../E/Eärrámë.md)* (Cánh biển)<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+- *[Númerrámar](../N/Númerrámar.md)* ("Cánh Tây")<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
 ## Cảm hứng {#Inspiration}
 

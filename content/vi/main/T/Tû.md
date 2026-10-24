@@ -17,9 +17,9 @@ sort_keys:
 
 <dl><dd><i>Not to be confused with <a href="Thû.md" title="Thû">Thû</a>.</i></dd></dl>
 
-<i><b>tû</b></i> là một từ [Noldorin](../N/Noldorin.md) có nghĩa là "cơ bắp, gân cốt; sức sống, thể lực".<sup id="cite_ref-LR_1-0" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
+<i><b>tû</b></i> là từ [Noldorin](../N/Noldorin.md) có nghĩa là "cơ bắp, gân cốt; sức sống, sức mạnh thể chất".<sup id="cite_ref-LR_1-0" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
 
-Vẫn giữ nguyên hình thức và ý nghĩa, *tû* thường được coi là một từ [Neo-Sindarin](../N/Neo-Elvish.md) hợp lệ.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Vẫn giữ nguyên hình thức và ý nghĩa, *tû* thường được coi là một từ [Tân Sindarin](../N/Neo-Elvish.md) hợp lệ.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

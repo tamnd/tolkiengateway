@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Shire Calendar"
 ---
 
-Chuyển hướng đến [Lịch Shire](Shire_Calendar.md).
+Chuyển hướng tới [Lịch Shire](Shire_Calendar.md).

@@ -16,21 +16,21 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/John_Howe_-_Morgul_Rats.jpg.md"><img src="https://tolkiengateway.net/w/images/b/b2/John_Howe_-_Morgul_Rats.jpg" decoding="async" loading="lazy" width="244" height="335" class="mw-file-element" data-file-width="244" data-file-height="335"/></a><figcaption><a href="../J/John_Howe.md" title="John Howe">John Howe</a> - <i>Morgul Rats</i></figcaption></figure>
 
-**Chuột** là sinh vật thường được tìm thấy ở những nơi bẩn thỉu và không thân thiện của [Trung Địa](../M/Middle-earth.md).<sup id="cite_ref-RKVI8_1-0" class="reference"><a href="#cite_note-RKVI8-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Một giống chuột cụ thể dường như là "*brown water-rat*", được đề cập trong [Hobbit](../H/Hobbits.md) thơ.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+**Chuột** là sinh vật thường được tìm thấy ở những nơi bẩn thỉu và không thân thiện ở [Trung Địa](../M/Middle-earth.md).<sup id="cite_ref-RKVI8_1-0" class="reference"><a href="#cite_note-RKVI8-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Một giống chuột cụ thể dường như là "*brown water-rat*", được đề cập trong thơ [Hobbit](../H/Hobbits.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 "Chuột" cũng thường được dùng làm biệt danh mang tính nhục nhã.<sup id="cite_ref-RKVI8_1-1" class="reference"><a href="#cite_note-RKVI8-1">[1]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-RKVI1_6-0" class="reference"><a href="#cite_note-RKVI1-6">[6]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Trong [Quenya](../Q/Quenya.md), từ "chuột" là *nyarro*và [Noldorin](../N/Noldorin.md) cùng nguồn gốc có nghĩa tương tự là *nâr*.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
+Trong [Quenya](../Q/Quenya.md), từ "chuột" là *nyarro* và [Noldorin](../N/Noldorin.md) có cùng nghĩa là *nâr*.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>:</b>
+<b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Nhập vai ở Trung Địa</a></i>:</b>
 
 <dl><dd>Rats can infect people with the plague through their fleas.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></dd></dl>
 
-<b>1995-8: <i><a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Trung Địa Trò chơi bài sưu tầm</a></i>:</b>
+<b>1995-8: <i><a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Trò chơi thẻ bài sưu tầm ở Trung Địa</a></i>:</b>
 
 <dl><dd>&#34;Morgul-rats&#34; is a Hazard Creature, able to inflict 12 strikes. The breed is described as carrying &#34;<i>the stink of black sorcery in their bite</i>&#34;. &#34;Rats!&#34; is a Hazard Event, forcing a player to discard a minor item of one of the characters, which also become wounded.</dd></dl>
 
@@ -38,11 +38,11 @@ Trong [Quenya](../Q/Quenya.md), từ "chuột" là *nyarro*và [Noldorin](../N/N
 
 <dl><dd>&#34;Morgul Rats&#34; is a card (with artwork by <a href="../J/John_Howe.md" title="John Howe">John Howe</a>) supplied with the <i>Friends &amp; Foes</i> Expansion (2002) for the <i>Lord of the Rings</i> boardgame.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></dd></dl>
 
-<b>2003: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">The Lord of the Rings: The Return of the King</a></i>:</b>
+<b>2003: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">Chúa tể của những chiếc nhẫn: Sự trở lại của nhà vua</a></i>:</b>
 
 <dl><dd>As part of the <a href="../M/Minas_Tirith.md" title="Minas Tirith">Minas Tirith</a> set, one hut was called the &#34;Ratcatcher&#39;s hut&#34;, after a doodle by <a href="../A/Alan_Lee.md" title="Alan Lee">Alan Lee</a> was interpreted as a rat. It was outfitted with several taxidermied rats, but was not featured prominently in the movie.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></dd></dl>
 
-<b>2007-: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007-: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
 
 <dl><dd>Rats are always aggressive. Breeds include Field-rats (found in the Barrow-downs), Harbour-rats (found around Falathlorn in Ered Luin), and Plague-rats.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup></dd></dl>
 

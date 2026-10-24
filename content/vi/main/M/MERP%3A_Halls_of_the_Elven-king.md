@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Halls of the Elven-king"
 ---
 
-Chuyển hướng đến [Sảnh của Tiên-vua](../H/Halls_of_the_Elven-king.md).
+Chuyển hướng đến [Sảnh của vua Yêu tinh](../H/Halls_of_the_Elven-king.md).

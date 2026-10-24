@@ -32,32 +32,32 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>H.E. Riddett</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Born</th><td class="tg-infobox-data"><a href="../_/1905.md" title="1905">1905</a></td></tr><tr><th scope="row" class="tg-infobox-label">Died</th><td class="tg-infobox-data"><a href="../_/1990.md" title="1990">1990</a></td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">England, UK</td></tr></tbody></table>
 
-**Harold Eric Riddett** ([1905](../_/1905.md)-[1990](../_/1990.md)), thường được gọi là **H.E. Riddett**, là một nghệ sĩ người Anh. Ông nổi tiếng vì đã bổ sung màu sắc cho nhiều bản đồ và bản vẽ đen trắng trong một số ấn phẩm [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) để lại, đáng chú ý nhất là trong nhiều ấn bản *[The Hobbit](../T/The_Hobbit.md)* và các ấn bản minh họa của *[The Silmarillion](../T/The_Silmarillion.md)*.
+**Harold Eric Riddett** ([1905](../_/1905.md)-[1990](../_/1990.md)), thường được gọi là **H.E. Riddett**, là một nghệ sĩ người Anh. Ông nổi tiếng vì đã bổ sung màu sắc cho nhiều bản đồ và bản vẽ đen trắng trong một số ấn phẩm [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) để lại, đáng chú ý nhất là trong nhiều ấn bản của *[The Hobbit](../T/The_Hobbit.md)* và các ấn bản minh họa của *[The Silmarillion](../T/The_Silmarillion.md)*.
 
 ## Minh họa màu {#Illustrations_coloured}
 
 ### *The Hobbit* {#The_Hobbit}
 
-- "[Cái Troll](<../../file/J/J.R.R._Tolkien_-_The_Trolls_(Colored_by_H.E._Riddett).jpg.md>)"
+- "[Quỷ khổng lồ](<../../file/J/J.R.R._Tolkien_-_The_Trolls_(Colored_by_H.E._Riddett).jpg.md>)"
 - "[Con đường lên núi](<../../file/J/J.R.R._Tolkien_-_The_Mountain-path_(Colored_by_H.E._Riddett).png.md>)"
-- "[Sương mù Dãy Núi nhìn Phương Tây từ Eyrie về phía Cổng Goblin](<../../file/J/J.R.R._Tolkien_-_The_Misty_Mountains_looking_West_from_the_Eyrie_towards_Goblin_Gate_(Colored_by_H.E._Riddett).jpg.md>)"
-- "[Beorn Hội trường](<../../file/J/J.R.R._Tolkien_-_Beorn's_Hall_(Colored_by_H._E._Riddett).jpg.md>)"
-- "[Cổng Vua Tiên](<../../file/J/J.R.R._Tolkien_-_The_Elvenking's_Gate_(II)_(Colored_by_H._E._Riddett).jpg.md>)"
+- "[Dãy núi mù sương nhìn về phía Tây từ Eyrie tới Cổng Goblin](<../../file/J/J.R.R._Tolkien_-_The_Misty_Mountains_looking_West_from_the_Eyrie_towards_Goblin_Gate_(Colored_by_H.E._Riddett).jpg.md>)"
+- "[Sảnh của Beorn](<../../file/J/J.R.R._Tolkien_-_Beorn's_Hall_(Colored_by_H._E._Riddett).jpg.md>)"
+- "[Cổng của Vua Tiên](<../../file/J/J.R.R._Tolkien_-_The_Elvenking's_Gate_(II)_(Colored_by_H._E._Riddett).jpg.md>)"
 - "[Thị trấn bên hồ](<../../file/J/J.R.R._Tolkien_-_Lake_Town_(Colored_by_H._E._Riddett).jpg.md>)"
-- "[Cái Cổng Trước](<../../file/J/J.R.R._Tolkien_-_The_Front_Gate_(Colored_by_H.E._Riddett).png.md>)"
-- "[Hội trường tại Bag End, Nơi ở của B. Baggins Esquire](<../../file/J/J.R.R._Tolkien_-_The_Hall_at_Bag-End,_Residence_of_B._Baggins_Esquire_(Colored_by_H.E._Riddett).jpg.md>)"
+- "[Cổng trước](<../../file/J/J.R.R._Tolkien_-_The_Front_Gate_(Colored_by_H.E._Riddett).png.md>)"
+- "[Hội trường ở Bag End, nơi ở của B. Baggins Esquire](<../../file/J/J.R.R._Tolkien_-_The_Hall_at_Bag-End,_Residence_of_B._Baggins_Esquire_(Colored_by_H.E._Riddett).jpg.md>)"
 
 ### Bản đồ {#Maps}
 
 - "[Bản đồ Beleriand và các vùng đất phía Bắc](../M/Map_of_Beleriand_and_the_Lands_to_the_North.md)"
-- "[Bản đồ Wilderland](../M/Map_of_Wilderland.md)"
+- "[Bản đồ vùng đất hoang dã](../M/Map_of_Wilderland.md)"
 - "[Bản đồ của Thrór](../T/Thrór's_Map.md)"
 
 ### Khác {#Others}
 
 - "[Gondolin và Thung lũng Tumladen](<../../file/J/J.R.R._Tolkien_-_Gondolin_and_the_Vale_of_Tumladen_(Colored_by_H.E._Riddett).jpg.md>)"
 - "[Nargothrond (II)](<../../file/J/J.R.R._Tolkien_-_Nargothrond_(II)_(Colored_by_H.E._Riddett).jpg.md>)"
-- "[Bộ ba Troll bị biến thành Đá](<../../file/J/J.R.R._Tolkien_-_The_Three_Trolls_are_turned_to_Stone_(Colored_by_H.E._Riddett).jpg.md>)"
+- "[Ba con Troll bị biến thành Đá](<../../file/J/J.R.R._Tolkien_-_The_Three_Trolls_are_turned_to_Stone_(Colored_by_H.E._Riddett).jpg.md>)"
 - "[Tol Sirion](<../../file/J/J.R.R._Tolkien_-_Tol_Sirion_(Colored_by_H.E._Riddett).jpg.md>)"
 
 ## Thư mục (với tư cách nghệ sĩ) {#Bibliography_(as_artist)}

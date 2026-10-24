@@ -43,7 +43,7 @@ infobox:
 
 ### Ấn bản lần đầu năm 1921 {#First_edition_1921}
 
-*A Middle English Vocabulary* mãi đến năm 1922 mới được xuất bản, nhưng sau khi xuất bản, một số bản sao được đóng bìa in đầu tiên về cuốn sách của Sisam. Chúng dự định được xuất bản cùng nhau, nhưng đóng góp của Tolkien đã bị trì hoãn. *Fourteenth Century Verse &amp; Prose* cũng được ban hành riêng mà không có bảng chú giải thuật ngữ của Tolkien.
+*A Middle English Vocabulary* mãi đến năm 1922 mới được xuất bản, nhưng sau khi xuất bản, một số bản sao được đóng bìa in đầu tiên về cuốn sách của Sisam. Chúng dự định được xuất bản cùng nhau, nhưng đóng góp của Tolkien đã bị trì hoãn. *Fourteenth Century Verse &amp; Prose* cũng được phát hành riêng mà không có bảng thuật ngữ của Tolkien.
 
 Có khả năng ấn tượng về cuốn sách này năm 1933 với giấy bọc bụi màu xám chứ không phải giấy màu nâu sau này.
 
@@ -57,7 +57,7 @@ Bản đính chính được in trên trang cuối cùng của bản *A Middle E
 
 Lần hiển thị thứ 6 đã sửa các lần hiển thị đã phát hành trước đó.
 
-*Fourteenth Century Verse &amp; Prose* cũng được ban hành riêng mà không có bảng chú giải thuật ngữ của Tolkien.
+*Fourteenth Century Verse &amp; Prose* cũng được phát hành riêng mà không có bảng thuật ngữ của Tolkien.
 
 In lại ở [1944](../_/1944.md), [1946](../_/1946.md), [1948](../_/1948.md) và [1950](../_/1950.md).
 

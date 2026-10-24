@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Elvish"
 ---
 
-Chuyển hướng đến [Elvish](Elvish.md).
+Chuyển hướng tới [Elvish](Elvish.md).

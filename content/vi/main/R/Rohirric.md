@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Rohanese"
 ---
 
-Chuyển hướng đến [Rohanese](Rohanese.md).
+Chuyển hướng tới [Tiếng Rohan](Rohanese.md).

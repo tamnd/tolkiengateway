@@ -16,11 +16,11 @@ categories:
   - "The Notion Club Papers"
 ---
 
-**Geraint** của <a class="external text" href="http://en.wikipedia.org/wiki/West_Wales" rel="noreferrer noopener" target="_blank">Phương Tây xứ Wales</a> là một trong những người bạn đồng hành của [Ælfwine](../_/Ælfwine.md) trong hành trình đến [Tol Eressëa](../T/Tol_Eressëa.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Geraint** của <a class="external text" href="http://en.wikipedia.org/wiki/West_Wales" rel="noreferrer noopener" target="_blank">Tây Wales</a> là một trong những người bạn đồng hành của [Ælfwine](../_/Ælfwine.md) trong hành trình đến [Tol Eressëa](../T/Tol_Eressëa.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Tên *Geraint* nằm trong [tiếng Wales](../W/Welsh.md). Nó có thể bắt nguồn từ tiếng Hy Lạp *Gerontius* ("ông già").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Tên *Geraint* bằng tiếng [xứ Wales](../W/Welsh.md). Nó có thể bắt nguồn từ tiếng Hy Lạp *Gerontius* ("ông già").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

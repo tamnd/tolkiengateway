@@ -21,12 +21,12 @@ categories:
 
 ## Ví dụ {#Examples}
 
-- *[Andafangar](../A/Andafangar.md)* "[Longbeards](../L/Longbeards.md)"
+- *[Andafangar](../A/Andafangar.md)* "[Râu dài](../L/Longbeards.md)"
 
 ## Có cùng nguồn gốc {#Cognates}
 
 - [Telerin](../T/Telerin.md) *[spanga](../S/Spanga.md)*
-- [Sindarin](../S/Sindarin.md) *[fang](Fang.md)*
+- [Tiếng Sindarin](../S/Sindarin.md) *[fang](Fang.md)*
 
 ## Phiên bản khác {#Other_version}
 

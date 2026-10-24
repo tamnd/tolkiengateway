@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Hàng năm vào khoảng thời gian sinh nhật Bilbo (tháng Chín 22), Hội Tolkien tổ chức một sự kiện cuối tuần ở Oxford, gọi là Oxonmoot. Sự kiện lên đến đỉnh điểm với giây phút tôn kính và suy ngẫm vào ngày Chủ nhật trước mộ Tolkien tại nghĩa trang Wolvercote, phía Bắc Oxford. Ở đây người ta thấy Kay đang đặt vòng hoa thay mặt cho Amon Sûl Smial. Bức ảnh này được Charles Noad chụp vào đầu những năm 1980.
+Hàng năm vào khoảng thời gian sinh nhật của Bilbo(tháng Chín 22), Hội Tolkien tổ chức một sự kiện cuối tuần ở Oxford, gọi là Oxonmoot. Sự kiện lên đến đỉnh điểm với giây phút tôn kính và suy ngẫm vào ngày Chủ nhật trước mộ Tolkien tại nghĩa trang Wolvercote, phía Bắc Oxford. Ở đây người ta thấy Kay đang đặt vòng hoa thay mặt cho Amon Sûl Smial. Bức ảnh này được chụp bởi Charles Noad vào đầu những năm 1980.
 
 ## Giấy phép {#License}
 

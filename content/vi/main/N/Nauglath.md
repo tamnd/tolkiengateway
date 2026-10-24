@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dwarves of Nogrod"
 ---
 
-Chuyển hướng đến [Người lùn Nogrod](../D/Dwarves_of_Nogrod.md).
+Chuyển hướng tới [Người lùn ở Nogrod](../D/Dwarves_of_Nogrod.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Eärendur (King of Arnor)"
 ---
 
-Chuyển hướng đến [Eärendur (Vua của Arnor)](<Eärendur_(King_of_Arnor).md>).
+Chuyển hướng đến [Eärendur (Vua xứ Arnor)](<Eärendur_(King_of_Arnor).md>).

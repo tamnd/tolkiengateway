@@ -32,7 +32,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mallorn64.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/8/8e/Mallorn64.jpg/320px-Mallorn64.jpg" decoding="async" loading="lazy" width="320" height="449" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/8e/Mallorn64.jpg/480px-Mallorn64.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/8/8e/Mallorn64.jpg/640px-Mallorn64.jpg 2x" data-file-width="1276" data-file-height="1789"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mallorn 64</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Luke Shelton</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Winter 2023</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mallorn_63.md" title="Mallorn 63">Mallorn 63</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mallorn_65.md" title="Mallorn 65">Mallorn 65</a></td></tr></tbody></table>
 
-<b><i>Mallorn</i> 64</b> là số thứ sáu mươi tư của tạp chí thường niên [Hội Tolkien](../T/The_Tolkien_Society.md) của *[Mallorn](<Mallorn_(journal).md>)*, xuất bản vào Mùa đông [2023](../_/2023.md).
+<b><i>Mallorn</i> 64</b> là số thứ sáu mươi tư của tạp chí thường niên của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) *[Mallorn](<Mallorn_(journal).md>)*, xuất bản vào Mùa đông [2023](../_/2023.md).
 
 ## Nội dung {#Contents}
 
@@ -42,21 +42,21 @@ infobox:
     - "Tiếp cận cái mới, bảo tồn cái cũ" của Luke Shelton
 - **Bài viết**
     - "Bên dòng nước Anduin, chúng ta nằm xuống và khóc: *[Akallabêth](../A/Akallabêth.md)* của Tolkien và trí tưởng tượng tiên tri" của Tom Emanuel
-    - "Trở về quá khứ? Gỡ rối Elvish Tham khảo thời gian và không gian" của Maria Zielenbach
+    - "Quay lại quá khứ? Gỡ rối tham chiếu thời gian và không gian của thần tiên" của Maria Zielenbach
 - **Ghi chú**
-    - "Có sự tham gia Trung Địa: Cộng hưởng cổ xưa và chiếc nhẫn thống trị" của Jason Monroe
+    - "Trung địa có sự tham gia: Cộng hưởng cổ xưa và chiếc nhẫn thống trị" của Jason Monroe
     - "*Eruanno* trong Tolkien's *[Aia María](../A/Aia_María.md)*" của Michael Corso
-Bài giảng bị mất của     - "Tolkien về *Hamlet*, được xây dựng lại" bởi Jessica Yates
+    - "Bài giảng bị thất lạc của Tolkien về *Hamlet*, được phục dựng lại" bởi Jessica Yates
     - "Liên quan đến ‘[Liên quan đến phân biệt chủng tộc và Tolkien](../A/Amon_Hen_299.md)'" của Clare Moore
     - " [Người miền Nam mắt lác](../S/Squint-eyed_Southerner~64042.md) như một nghiên cứu điển hình về chủ nghĩa phương Đông trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* §" của Mercury Natis
     - "Vấn đề của học viện da trắng §" của Robin Anne Reid
-    - "Tolkien và [Fallohides](../F/Fallohides.md) §" của Luke Shelton
-    - "Ghi chú về Hội nghị bàn tròn: Về 'Tolkien và Cấu trúc chủng tộc thời Trung cổ' tại ICMS 2023 §" của Mariana Rios Maldonado
+    - "Tolkien và [Thác nước](../F/Fallohides.md) §" của Luke Shelton
+    - "Ghi chú về Hội nghị bàn tròn: Về 'Tolkien và các công trình thời Trung cổ về chủng tộc' tại ICMS 2023 §" của Mariana Rios Maldonado
 - **Đánh giá**
 Chủ nghĩa không tưởng và tác phẩm kinh điển của     - <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=J.R.R._Tolkien%E2%80%99s_Utopianism_and_The_Classics&amp;action=edit&amp;redlink=1" title="J.R.R. Tolkien’s Utopianism and The Classics (page does not exist)">J.R.R. Tolkien</a></i> của Hamish Williams (được Nicholas Birns đánh giá)
-    - <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=A_Sense_of_Tales_Untold&amp;action=edit&amp;redlink=1" title="A Sense of Tales Untold (page does not exist)">A Sense of Tales Untold</a></i> của Peter Grybauskas (Rebecca Davis đánh giá)
+    - <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=A_Sense_of_Tales_Untold&amp;action=edit&amp;redlink=1" title="A Sense of Tales Untold (page does not exist)">A Sense of Tales Untold</a></i> của Peter Grybauskas (được đánh giá bởi Rebecca Davis)
     - *[Tweaking Things a Little: Essays on the Epic Fantasy of J.R.R. Tolkien and George R.R. Martin](../T/Tweaking_Things_a_Little.md)* của [Thomas Honegger](../T/Thomas_Honegger.md) (được đánh giá bởi Kristine Larsen)
-    - <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Tolkien_Dogmatics&amp;action=edit&amp;redlink=1" title="Tolkien Dogmatics (page does not exist)">Tolkien Giáo lý: Thần học thông qua Thần thoại trong Trung Địa</a></i> của Austin Freeman (được Nick Polk đánh giá)
+    - <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Tolkien_Dogmatics&amp;action=edit&amp;redlink=1" title="Tolkien Dogmatics (page does not exist)">Tolkien Dogmatics: Thần học thông qua thần thoại ở Trung Địa</a></i> của Austin Freeman (được Nick Polk đánh giá)
 - **Bài gửi**
     - Hướng dẫn dành cho tác giả
 
@@ -64,4 +64,4 @@ Chủ nghĩa không tưởng và tác phẩm kinh điển của     - <i><a clas
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://journals.tolkiensociety.org/mallorn/issue/view/65/" rel="noreferrer noopener" target="_blank">Vấn đề này tại trang web Hội Tolkien</a>
+- <a class="external text" href="http://journals.tolkiensociety.org/mallorn/issue/view/65/" rel="noreferrer noopener" target="_blank">Số này tại trang web của The Tolkien Society</a>

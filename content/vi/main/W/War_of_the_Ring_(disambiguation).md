@@ -14,11 +14,11 @@ images:
   - "Disambig.png"
 ---
 
-**Cuộc chiến Nhẫn** có thể đề cập đến:
+**Cuộc chiến trên chiếc nhẫn** có thể đề cập đến:
 
-## Trung Địa {#Middle-earth}
+## Trung địa {#Middle-earth}
 
-- **[Cuộc chiến Nhẫn](War_of_the_Ring.md)**, một cuộc chiến lớn ở *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* kết thúc sau sự phá hủy của [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).
+- **[War of the Ring](War_of_the_Ring.md)**, một cuộc chiến lớn ở *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* kết thúc sau sự phá hủy của [The One Ring](../T/The_One_Ring.md).
 
 ## Sách {#Books}
 
@@ -32,18 +32,18 @@ images:
 - *[War of the Ring](<War_of_the_Ring_(2004_board_game).md>)*, một trò chơi cờ [2004](../_/2004.md).
 - *[War of the Ring: Second Edition](War_of_the_Ring%253A_Second_Edition.md)*, một trò chơi board [2011](../_/2011.md) của [ARES Games](../A/ARES_Games~73366.md).
 - *[War of the Ring: The Card Game](War_of_the_Ring%253A_The_Card_Game.md)*, một trò chơi board [2023](../_/2023.md) của ARES Games.
-- *Phụ lục Phần 5: Cuộc chiến Nhẫn*, đĩa ba của [*The Lord of the Rings: The Return of the King* (ấn bản mở rộng)](<../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_(extended_edition).md>).
-- *War of the Ring*, một chế độ trò chơi trong [Trận chiến dành cho Trung Địa II](../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md) và [Sự trỗi dậy của phù thủy-Vua](../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II%253A_The_Rise_of_the_Witch-king.md).
-- <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_War_of_the_Ring_(Eamon_series)&amp;action=edit&amp;redlink=1" title="The War of the Ring (Eamon series) (page does not exist)"> Cuộc chiến Nhẫn</a></i>, một loạt trò chơi được tạo bởi [Eamon](<../E/Eamon_(video_game).md>).
+- *Phụ lục Phần 5: Cuộc chiến trên chiếc nhẫn*, đĩa ba của [*The Lord of the Rings: The Return of the King* (extended edition)](<../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_(extended_edition).md>).
+- *War of the Ring*, một chế độ trò chơi trong [Trận chiến ở Trung địa II](../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md) và [Sự trỗi dậy của Vua phù thủy](../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II%253A_The_Rise_of_the_Witch-king.md).
+- <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_War_of_the_Ring_(Eamon_series)&amp;action=edit&amp;redlink=1" title="The War of the Ring (Eamon series) (page does not exist)">The War of the Ring</a></i>, một loạt trò chơi được thực hiện bởi [Eamon](<../E/Eamon_(video_game).md>).
 - [*War of the Ring* (sách 2009)](<War_of_the_Ring_(2009_book).md>), phần bổ sung [2009](../_/2009.md) cho *[The Lord of the Rings Strategy Battle Game](../T/The_Lord_of_the_Rings_Strategy_Battle_Game.md)*.
 - *[War of the Ring: Battlehosts](War_of_the_Ring%253A_Battlehosts.md)*, phần bổ sung [2010](../_/2010.md) cho *[The Lord of the Rings Strategy Battle Game](../T/The_Lord_of_the_Rings_Strategy_Battle_Game.md)*.
 
 ## Xem thêm {#See_also}
 
 - <a class="mw-disambig" href="../B/Battle_of_Dagorlad_(disambiguation).md" title="Battle of Dagorlad (disambiguation)">Trận Dagorlad (định hướng)</a>
-- <a class="mw-disambig" href="../T/The_Fellowship_of_the_Ring_(disambiguation).md" title="The Fellowship of the Ring (disambiguation)">The Fellowship of the Ring (định hướng)</a>
-- <a class="mw-disambig" href="../T/The_Lord_of_the_Rings_(disambiguation).md" title="The Lord of the Rings (disambiguation)">The Lord of the Rings (định hướng)</a>
-- <a class="mw-disambig" href="../T/The_Return_of_the_King_(disambiguation).md" title="The Return of the King (disambiguation)">The Return of the King (định hướng)</a>
+- <a class="mw-disambig" href="../T/The_Fellowship_of_the_Ring_(disambiguation).md" title="The Fellowship of the Ring (disambiguation)">Hiệp hội của chiếc nhẫn (định hướng)</a>
+- <a class="mw-disambig" href="../T/The_Lord_of_the_Rings_(disambiguation).md" title="The Lord of the Rings (disambiguation)">Chúa tể của những chiếc nhẫn (định hướng)</a>
+- <a class="mw-disambig" href="../T/The_Return_of_the_King_(disambiguation).md" title="The Return of the King (disambiguation)">Sự trở lại của nhà vua (định hướng)</a>
 - <a class="mw-disambig" href="../R/Ring_(disambiguation).md" title="Ring (disambiguation)">Ring (định hướng)</a>
 
 <hr style="margin-top:15px;"/>

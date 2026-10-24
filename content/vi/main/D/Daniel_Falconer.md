@@ -45,8 +45,8 @@ infobox:
 
 ## Phim ảnh {#Filmography}
 
-- *[The Lord of the Rings: The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)* ([2002](../_/2002.md)) - Lorien Tiên
-- *[The Hobbit: The Desolation of Smaug](../T/The_Hobbit%253A_The_Desolation_of_Smaug.md)* ([2013](../_/2013.md)) - Mirkwood Tiên
+- *[The Lord of the Rings: The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)* ([2002](../_/2002.md)) - Yêu Tinh Lorien
+- *[The Hobbit: The Desolation of Smaug](../T/The_Hobbit%253A_The_Desolation_of_Smaug.md)* ([2013](../_/2013.md)) - Yêu Tinh Rừng Âm U
 
 ## Liên kết ngoài {#External_links}
 

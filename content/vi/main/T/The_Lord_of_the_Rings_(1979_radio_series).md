@@ -17,7 +17,7 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>The Lord of the Rings</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="The_Lord_of_the_Rings_(disambiguation).md" title="The Lord of the Rings (disambiguation)">The Lord of the Rings (disambiguation)</a></b>.</div></div>
 
-**The Lord of the Rings** là bản chuyển thể [1979](../_/1979.md) radio của [Bernard Mayes](../B/Bernard_Mayes.md), do <a class="extiw" href="http://en.wikipedia.org/wiki/The_Mind%27s_Eye_(publisher)" title="wikipedia:The Mind&#39;s Eye (publisher)">The Mind's Eye</a>sản xuất.
+**Chúa tể của những chiếc nhẫn** là bản chuyển thể [1979](../_/1979.md) trên đài phát thanh của [Bernard Mayes](../B/Bernard_Mayes.md), do <a class="extiw" href="http://en.wikipedia.org/wiki/The_Mind%27s_Eye_(publisher)" title="wikipedia:The Mind&#39;s Eye (publisher)">The Mind's Eye</a>sản xuất.
 
 Đây là phiên bản rút gọn của câu chuyện, được lồng tiếng bởi các diễn viên nhà hát địa phương ở Virginia, những người gặp vấn đề nghiêm trọng khi phát âm chính xác tên. Do kinh phí thấp, các hiệu ứng được thực hiện tại nhà và âm nhạc ở mức nhẹ nhàng.
 
@@ -26,29 +26,29 @@ Quá trình sản xuất bị lu mờ bởi [BBC](<The_Lord_of_the_Rings_(1981_r
 ## Các tập {#Episodes}
 
 1. "Một bữa tiệc được mong đợi từ lâu"
-2. "Các Nhẫn Lá The Shire"
-3. "Được cứu bởi Tom Bombadil"
-4. "Strider Và Nazgûl"
-5. "Chuyến bay tới chiếc Ford"
-6. " Hội đồng Của Elrond"
-7. "Mỏ của Moria"
+2. "Chiếc Nhẫn Rời Quận"
+3. "Được Tom Bombadil giải cứu"
+4. "Người Sải Bước Và Ma Nhẫn"
+5. "Chuyến Bay Đến Chiếc Ford"
+6. "Hội đồng Elrond"
+7. "Mỏ Moria"
 8. "Sự tan vỡ của tình bạn"
 9. "Cuộc tìm kiếm người Hobbit"
-10. "Treebeard"
+10. "Râu Cây"
 11. "Kỵ Sĩ Trắng"
 12. "Sự sụp đổ của Isengard"
 13. "Sự sụp đổ của Saruman"
-14. "Sự thuần hóa Gollum"
+14. "Việc thuần hóa Gollum"
 15. "Bị bắt...bởi bạn bè"
 16. "Hang ổ của Shelob"
 17. "Để bảo vệ Gondor"
 18. "Sự điên rồ của Denethor"
-19. "Chúa Tể Của Nazgûl"
+19. "Chúa tể của Nazgûl"
 20. "Thanh kiếm đã gãy... được rèn mới"
 21. "Miệng Của Sauron"
 22. "Tại vết nứt của sự diệt vong"
 23. "Đã đến lúc chia tay"
-24. "Cái Cảng Xám"
+24. "Những thiên đường xám"
 
 ## Truyền {#Cast}
 
@@ -117,4 +117,4 @@ Quá trình sản xuất bị lu mờ bởi [BBC](<The_Lord_of_the_Rings_(1981_r
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="extiw" href="http://en.wikipedia.org/wiki/The_Lord_of_the_Rings_(1979_radio_series)" title="wikipedia:The Lord of the Rings (1979 radio series)">The Lord of the Rings (loạt phim phát thanh năm 1979)</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
+- <a class="extiw" href="http://en.wikipedia.org/wiki/The_Lord_of_the_Rings_(1979_radio_series)" title="wikipedia:The Lord of the Rings (1979 radio series)">Chúa tể của những chiếc nhẫn (loạt phim phát thanh năm 1979)</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>

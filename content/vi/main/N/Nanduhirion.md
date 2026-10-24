@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dimrill Dale"
 ---
 
-Chuyển hướng đến [Thung lũng Dimrill](../D/Dimrill_Dale.md).
+Chuyển hướng tới [Dimrill Dale](../D/Dimrill_Dale.md).

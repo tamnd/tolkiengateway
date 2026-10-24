@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lord of the Rings: The Duel (video game)"
 ---
 
-Chuyển hướng đến [Chúa tể của những chiếc nhẫn: Cuộc đấu tay đôi (trò chơi điện tử)](<Lord_of_the_Rings%253A_The_Duel_(video_game).md>).
+Chuyển hướng đến [Lord of the Rings: The Duel (video game)](<Lord_of_the_Rings%253A_The_Duel_(video_game).md>).

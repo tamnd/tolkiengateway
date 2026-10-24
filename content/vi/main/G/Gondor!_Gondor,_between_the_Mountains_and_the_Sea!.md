@@ -17,7 +17,7 @@ langlinks:
     url: "https://kontu.wiki/Gondor!_Gondor,_v%C3%A4lill%C3%A4_olet_meren,_vuorien!"
 ---
 
-"**Gondor! Gondor, giữa Dãy Núi và Biển!**" là một bài thơ được [Aragorn](../A/Aragorn.md) nói với [Legolas](../L/Legolas.md) và [Gimli](Gimli.md) trong quá trình truy đuổi [Uruk-hai](../U/Uruk-hai.md) trong "[Những kỵ sĩ của Rohan](../T/The_Riders_of_Rohan.md)" khi nhìn thấy [Dãy Núi Trắng](../W/White_Mountains.md) ở phía nam.
+"**Gondor! Gondor, giữa Núi và Biển!**" là một bài thơ được [Aragorn](../A/Aragorn.md) nói với [Legolas](../L/Legolas.md) và [Gimli](Gimli.md) trong quá trình truy đuổi [Uruk-hai](../U/Uruk-hai.md) trong "[Những kỵ sĩ của Rohan](../T/The_Riders_of_Rohan.md)" khi nhìn thấy [Dãy núi Trắng](../W/White_Mountains.md) ở phía nam.
 
 ## Văn bản {#Text}
 

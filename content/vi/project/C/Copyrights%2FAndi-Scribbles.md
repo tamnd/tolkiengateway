@@ -15,5 +15,5 @@ sort_keys:
 ---
 
 - Andi-Scribbles đã vui lòng cho phép cô sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Andi-Scribbles.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
-- Ngày: 11 tháng Chín năm 2014
+- Ngày: 11 tháng 9 năm 2014
 - Người dùng đã xin phép thông qua deviantArt: [Người dùng: Mith](https://tolkiengateway.net/wiki/User:Mith)

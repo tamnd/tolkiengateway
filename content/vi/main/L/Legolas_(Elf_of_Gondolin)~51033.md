@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Legolas (elf of Gondolin)"
 ---
 
-Chuyển hướng tới [Legolas (bản chất của Gondolin)](<Legolas_(elf_of_Gondolin).md>).
+Chuyển hướng đến [Legolas (yêu tinh Gondolin)](<Legolas_(elf_of_Gondolin).md>).

@@ -16,12 +16,12 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><a href="../F/First_Age.md" title="First Age">I</a><a href="../S/Second_Age.md" title="Second Age">II</a><b>III</b><a href="../F/Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="Third_Age_913.md" title="Third Age 913">913</a><a href="Third_Age_933.md" title="Third Age 933">933</a><a href="Third_Age_936.md" title="Third Age 936">936</a><a class="mw-selflink selflink">946</a><a href="Third_Age_977.md" title="Third Age 977">977</a><a href="Third_Age_979.md" title="Third Age 979">979</a><a href="Third_Age_1000.md" title="Third Age 1000">1000</a></div></div></div></div></div></div>
 
-**Kỷ Đệ Tam 946** (viết tắt là **T.A. 946**) là năm [thứ 946 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Tam](Third_Age.md) của [Trung Địa](../M/Middle-earth.md).
+**Thời đại thứ ba 946** (viết tắt là **T.A. 946**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 946 của [Thời đại thứ ba](Third_Age.md) của [Trung Địa](../M/Middle-earth.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 - Cái chết của [Vua](../K/Kings_of_Arthedain.md) [Amlaith](../A/Amlaith.md) của [Arthedain](../A/Arthedain.md).<sup id="cite_ref-AppNorth_1-0" class="reference"><a href="#cite_note-AppNorth-1">[1]</a></sup>
-- [Con trai của Amlaith](../A/Amlaith.md), [Beleg](<../B/Beleg_(King_of_Arthedain).md>), trở thành [Vua](../K/Kings_of_Arthedain.md) thứ hai trong [Arthedain](../A/Arthedain.md).<sup id="cite_ref-AppNorth_1-1" class="reference"><a href="#cite_note-AppNorth-1">[1]</a></sup>
+- [Con trai của Amlaith](../A/Amlaith.md), [Beleg](<../B/Beleg_(King_of_Arthedain).md>), trở thành [Vua](../K/Kings_of_Arthedain.md) thứ hai của [Arthedain](../A/Arthedain.md).<sup id="cite_ref-AppNorth_1-1" class="reference"><a href="#cite_note-AppNorth-1">[1]</a></sup>
 
 <span></span>
 

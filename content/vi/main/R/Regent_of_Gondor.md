@@ -13,29 +13,29 @@ categories:
   - "Rulers of Gondor"
 ---
 
-**Nhiếp chính** ([Q](../Q/Quenya.md). *[Karma](../K/Karma.md)-[kundo](../K/Kundo.md)*, "Người bảo vệ Helm") là một chức danh được áp dụng cho những người được trao quyền hành pháp thay cho một vị vua trị vì hợp pháp.
+**Nhiếp chính** ([Q](../Q/Quenya.md). *[Karma](../K/Karma.md)-[kundo](../K/Kundo.md)*, "Người bảo vệ chiếc mũ") là một chức danh được áp dụng cho những người được trao quyền hành pháp thay cho một vị vua trị vì hợp pháp.
 
 ## [Noldorin](../N/Noldor.md) tùy chỉnh {#Noldorin_custom}
 
-[Orodreth](../O/Orodreth.md) hành động với tư cách này sau khi [Finrod](../F/Finrod.md) rời đi [Nargothrond](../N/Nargothrond.md) trước khi lên ngôi sau cái chết của nhà vua.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Ngược lại, [Maeglin](../M/Maeglin.md) sẽ từ chối một chức vụ tương tự đối với [Gondolin](../G/Gondolin.md) để ủng hộ việc hành quân cùng [Turgon](../T/Turgon.md) đến [Nirnaeth Arnoediad](../N/Nirnaeth_Arnoediad.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Liệu Turgon có bổ nhiệm một lãnh chúa khác làm nhiếp chính hay không thì vẫn chưa rõ.
+[Orodreth](../O/Orodreth.md) hành động với tư cách này sau khi [Finrod](../F/Finrod.md) rời [Nargothrond](../N/Nargothrond.md) trước khi lên ngôi sau cái chết của nhà vua.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Ngược lại, [Maeglin](../M/Maeglin.md) sẽ từ chối một chức vụ tương tự trên [Gondolin](../G/Gondolin.md) để ủng hộ việc hành quân cùng [Turgon](../T/Turgon.md) đến [Nirnaeth Arnoediad](../N/Nirnaeth_Arnoediad.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Liệu Turgon có bổ nhiệm một lãnh chúa khác làm nhiếp chính hay không vẫn chưa được biết.
 
 ## [Númenorean](../N/Númenor.md) tiền lệ {#Númenorean_precedent}
 
-Trước thời [Tar-Aldarion](../T/Tar-Aldarion.md), chưa có [Vua](../K/Kings_of_Númenor.md) nào rời khỏi [đảo](../E/Elenna.md) trong thời gian ông trị vì. Khi Tar-Aldarion quyết định du hành tới [Trung Địa](../M/Middle-earth.md), [Hội đồng của Quyền trượng](../C/Council_of_the_Sceptre.md) đã tìm kiếm một nhiếp chính để cai trị vị trí của mình. Cha của nhà vua, [Meneldur](../M/Meneldur.md), đã từ chối quyền nhiếp chính khi được đề nghị, và em họ của Meneldur, [Hallatan](../H/Hallatan.md) của [Hyarastorni](../H/Hyarastorni.md), trở thành nhiếp chính thay thế. [Ancalimë](../A/Ancalimë.md) đã nhiều lần giữ chức nhiếp chính trong khi cha cô đi du hành.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Trước thời [Tar-Aldarion](../T/Tar-Aldarion.md), chưa có [Vị vua](../K/Kings_of_Númenor.md) nào rời khỏi [hòn đảo](../E/Elenna.md) trong thời gian trị vì của mình. Khi Tar-Aldarion quyết định du hành đến [Trung Địa](../M/Middle-earth.md), [Hội đồng Vương trượng](../C/Council_of_the_Sceptre.md) đã tìm kiếm một nhiếp chính để cai trị thay cho ông. Cha của nhà vua, [Meneldur](../M/Meneldur.md), đã từ chối quyền nhiếp chính khi được đề nghị, và em họ của Meneldur, [Hallatan](../H/Hallatan.md) của [Hyarastorni](../H/Hyarastorni.md), trở thành nhiếp chính thay thế. [Ancalimë](../A/Ancalimë.md) đã nhiều lần giữ chức nhiếp chính trong khi cha cô đi du hành.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## [Gondor](../G/Gondor.md) {#Gondor}
 
-Trong toàn bộ lịch sử của [Các vị vua của Gondor](../K/Kings_of_Gondor.md), chỉ có một Nhiếp chính thuộc loại này được bổ nhiệm, [Minalcar](../M/Minalcar.md).
+Trong suốt lịch sử của [Các vị vua Gondor](../K/Kings_of_Gondor.md), chỉ có một Nhiếp chính thuộc loại này được bổ nhiệm, [Minalcar](../M/Minalcar.md).
 
-Minalcar là cháu trai của [Atanatar II Alcarin](../A/Atanatar_II.md) và con trai của [Calmacil](<../C/Calmacil_(King_of_Gondor).md>). Trong những năm cuối cùng dưới sự cai trị của ông nội, ông đã trở thành một người hiện diện mạnh mẽ trong các hội đồng hoàng gia vì cả hai con trai của Vua, [Narmacil](../N/Narmacil_I.md) và Calmacil, đều không tỏ ra quan tâm nhiều đến các vấn đề nhà nước. Chỉ vài năm ngắn ngủi sau khi chú của ông là Narmacil kế vị Vua, ông đã phong chức Karma-kundo cho Minalcar; kể từ thời điểm đó, ông đã cai trị [Gondor](../G/Gondor.md) một cách hiệu quả không dưới sáu mươi bốn năm, mặc dù chính thức làm điều đó dưới danh nghĩa của Vua.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Minalcar cuối cùng sẽ tự mình lên ngôi Gondor dưới cái tên nổi tiếng hơn [Rómendacil II](Rómendacil_II.md).
+Minalcar là cháu trai của [Atanatar II Alcarin](../A/Atanatar_II.md) và con trai của [Calmacil](<../C/Calmacil_(King_of_Gondor).md>). Trong những năm cuối cùng dưới sự cai trị của ông nội, ông đã trở thành một người hiện diện mạnh mẽ trong các hội đồng hoàng gia vì cả hai con trai của Nhà vua, [Narmacil](../N/Narmacil_I.md) và Calmacil, đều không tỏ ra quan tâm nhiều đến các vấn đề nhà nước. Chỉ vài năm ngắn ngủi sau khi chú của ông là Narmacil kế vị Nhà vua, ông đã phong chức Karma-kundo cho Minalcar; kể từ thời điểm đó, ông đã cai trị [Gondor](../G/Gondor.md) một cách hiệu quả trong không dưới 64 năm, mặc dù chính thức làm việc đó dưới danh nghĩa Nhà vua.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Minalcar cuối cùng sẽ tự mình lên ngôi Gondor dưới cái tên nổi tiếng hơn [Rómendacil II](Rómendacil_II.md).
 
-Sau cái chết của [Ondoher](../O/Ondoher.md) và các con trai của ông, [Quản gia](../S/Steward.md) [Pelendur](../P/Pelendur.md) cai trị Gondor một thời gian ngắn giữa [T.A.](../T/Third_Age.md) [1944](../T/Third_Age_1944.md) và [1945](../T/Third_Age_1945.md) cho đến khi [Earnil I](../E/Earnil_I.md) được bổ nhiệm làm người kế vị Ondoher.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Các [Quản lý cầm quyền](Ruling_Stewards.md) thực tế là những "Người nhiếp chính" cai trị Gondor vô thời hạn trong thời kỳ đó Vua vắng mặt.
+Sau cái chết của [Ondoher](../O/Ondoher.md) và các con trai của ông ta, [Quản gia](../S/Steward.md) [Pelendur](../P/Pelendur.md) cai trị Gondor một thời gian ngắn giữa [T.A.](../T/Third_Age.md) [1944](../T/Third_Age_1944.md) và [1945](../T/Third_Age_1945.md) cho đến khi [Earnil I](../E/Earnil_I.md) được bổ nhiệm làm người kế vị Ondoher.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Các [Quản lý cầm quyền](Ruling_Stewards.md) thực tế là những "Người nhiếp chính" cai trị Gondor vô thời hạn trong sự vắng mặt của nhà vua.
 
 ## Từ nguyên {#Etymology}
 
-*Karma-kundo* được dịch là "Helm-người giám hộ".<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+*Karma-kundo* được dịch là "Người bảo vệ mũ bảo hiểm".<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
-Trong cách viết được sử dụng trong *The Lord of the Rings*, tên này sẽ được viết là *Carma-cundo*, vì Tolkien thường biểu thị âm \[k\] bằng chữ cái "c". <span></span>
+Trong cách viết được sử dụng trong *The Lord of the Rings*, tên này sẽ được viết *Carma-cundo*, vì Tolkien thường biểu thị âm \[k\] bằng chữ cái "c". <span></span>
 
 ## Tài liệu tham khảo {#References}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Black Gate Is Closed (soundtrack)"
 ---
 
-Chuyển hướng tới [ Cổng Đen đã đóng (nhạc phim)](<The_Black_Gate_Is_Closed_(soundtrack).md>).
+Chuyển hướng đến [Cổng đen đã đóng (nhạc phim)](<The_Black_Gate_Is_Closed_(soundtrack).md>).

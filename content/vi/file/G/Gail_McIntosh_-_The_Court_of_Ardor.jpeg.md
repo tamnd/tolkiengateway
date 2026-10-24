@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Ảnh bìa của [Tòa án Ardor](../../main/T/The_Court_of_Ardor.md). Nó cho thấy nữ phù thủy Rilia (bằng chứng là mái tóc đỏ của cô ấy) và con quỷ Mourfuin (dựa trên làn da đỏ của anh ta), nhưng tôi vẫn chưa biết ai được miêu tả đang chiến đấu với anh ta.
+Ảnh bìa của [Tòa án Ardor](../../main/T/The_Court_of_Ardor.md). Nó cho thấy nữ phù thủy Rilia (bằng chứng là mái tóc đỏ của bà) và con quỷ Mourfuin (dựa trên làn da đỏ của ông ta), nhưng tôi vẫn chưa biết ai được miêu tả đang chiến đấu với ông ta.
 
 ## Giấy phép {#Licensing}
 

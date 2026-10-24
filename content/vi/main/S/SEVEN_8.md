@@ -49,7 +49,7 @@ infobox:
     - Bởi: David S. Robb
 - "Nỗi bất an trong lòng *The Flying Inn*"
     - Bởi: John Coates
-- "Chủ nghĩa hiện sinh Kitô giáo trong thơ đầu Charles Williams"
+- "Chủ nghĩa hiện sinh Kitô giáo trong thơ đầu của Charles Williams"
     - Bởi: Diane Edwards
 - "Sauron trong vai Gorgon và Basilisk"
     - Bởi: Gwyneth E. Hood
@@ -58,7 +58,7 @@ infobox:
 - "Dorothy L. Sayers và sự thật về Lucan"
     - Bởi: Brian G. Marsden
 - Bài luận ôn tập:
-    - ""Charles Williams tự nhiên và phi tự nhiên""
+    - ""Charles Williams tự nhiên và phi thường""
         - Bởi: Stephen Medcalf<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <div class="template-prevnext"><div class="template-prevnext__prev template-prevnext__link"><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/8/81/WikimediaUI-ArrowPrevious-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__content"><div class="template-prevnext__title">SEVEN 7</div></div><div class="template-prevnext__linkoverlay"><a href="SEVEN_7.md" title="SEVEN 7">SEVEN 7</a></div></div><div class="template-prevnext__current"><div class="template-prevnext__content"><div class="template-prevnext__title">SEVEN 8</div></div></div><div class="template-prevnext__next template-prevnext__link"><div class="template-prevnext__content"><div class="template-prevnext__title">SEVEN 9</div></div><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/7b/WikimediaUI-ArrowNext-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__linkoverlay"><a href="SEVEN_9.md" title="SEVEN 9">SEVEN 9</a></div></div></div>

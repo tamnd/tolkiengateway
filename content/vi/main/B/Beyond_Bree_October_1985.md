@@ -22,16 +22,16 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Beyond Bree October 1985</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../A/American_Mensa_Tolkien_Special_Interest_Group.md" title="American Mensa Tolkien Special Interest Group">American Mensa Tolkien Special Interest Group</a></td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">11½</td></tr></tbody></table>
 
-<b><i>Beyond Bree</i> Tháng 10 năm 1985</b> là số của *[Beyond Bree](Beyond_Bree.md)*, do [Nancy Martsch biên tập](../N/Nancy_Martsch.md). Trong bài viết của mình, [Taum Santoski](../T/Taum_Santoski.md) cung cấp bản phiên âm của các nốt [elvish](../E/Elvish.md) được sao chép trong *[Les aventures de Tom Bombadil](../L/Les_aventures_de_Tom_Bombadil.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<b><i>Beyond Bree</i> Tháng 10 năm 1985</b> là số của *[Beyond Bree](Beyond_Bree.md)*, do [Nancy Martsch](../N/Nancy_Martsch.md) biên tập. Trong bài viết của mình, [Taum Santoski](../T/Taum_Santoski.md) cung cấp bản phiên âm của các nốt [elvish](../E/Elvish.md) được sao chép trong *[Les aventures de Tom Bombadil](../L/Les_aventures_de_Tom_Bombadil.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Nội dung {#Contents}
 
 - "Bông hoa sống trong quan tài" của Katherine Schroeder (ll.)
 - Bài thơ "Trở về quê hương, SR 1419" của Lee Garig
-- "Tolkien-san, Yoku Irasshaimashitaf ... Một số quan sát về sự tương đồng giữa tiếng Nhật và Elvish ngôn ngữ của J.R.R. Tolkien" của [Patrick Wynne](../P/Patrick_H._Wynne.md)
-- "Bản chất của Eru" nhận xét của Michael Fath & Steve Deyo
+- "Tolkien-san, Yoku Irasshaimashitaf ... Một số quan sát về sự tương đồng giữa ngôn ngữ tiếng Nhật và tiếng Tiên của J.R.R. Tolkien" của [Patrick Wynne](../P/Patrick_H._Wynne.md)
+- Bình luận "Bản chất của Eru" của Michael Fath & Steve Deyo
 - "Bản thảo của J.R.R. Tolkien trong ấn bản tiếng Pháp của *The Adventures of Tom Bombadil*" của [Taum Santoski](../T/Taum_Santoski.md)
-- "The Tảng đá Erech" của Geoff Davies
+- "Hòn đá Erech" của Geoff Davies
 - Ấn phẩm, Thư, Tin tức<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>

@@ -31,7 +31,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Tolkien, trente ans après</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../V/Vincent_Ferré.md" title="Vincent Ferré">Vincent Ferré</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Christian Bourgois éditeur</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">2003</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">393</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/978-2-3642400-63" title="Special:BookSources/978-2-3642400-63">978-2-3642400-63</a></td></tr></tbody></table>
 
-**Tolkien, trente ans après** 1973-2003 ("Tolkien ba mươi năm sau") là một tập hợp các tiểu luận học thuật bằng tiếng Pháp vào [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), ba mươi năm sau khi tác giả qua đời.
+**Tolkien, trente ans après** 1973-2003 ("Tolkien ba mươi năm sau") là một tập hợp các tiểu luận học thuật bằng tiếng Pháp về [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), ba mươi năm sau khi tác giả qua đời.
 
 ## Nội dung {#Contents}
 
@@ -59,20 +59,20 @@ infobox:
 - ​
     - Orques, Specters de l'Anneau et Êtres-des-Galgals: les rerésentations du Mal chez Tolkien ([Tom Shippey](Tom_Shippey.md))
     - Les frontières du Mal dans le Seigneur des Anneaux (Fabienne Claire Caland)
-    - Frodo và Aragorn: le concept du héros ([Verlyn Flieger](../V/Verlyn_Flieger.md))
-    - Tolkien và phân biệt chủng tộc (Guido Semprini)
+    - Frodo et Aragorn: le concept du héros ([Verlyn Flieger](../V/Verlyn_Flieger.md))
+    - Tolkien và le phân biệt chủng tộc (Guido Semprini)
 
-**IV. Tolkien và nghệ thuật**
+**IV. Tolkien và les nghệ thuật**
 
 - ​
-    - Puissances de la grisaille et enfance perdue. Allers et retours entre Tolkien et son thích ứng par Peter Jackson (Hervé Aubron)
-    - La Communauté de l'Anneau, de J.R.R. Tolkien à P. Jackson: Tỷ lệ hành quyết không? (Jean Cleder)
+    - Puissances de la grisaille et enfance perdue. Allers et retours entre Tolkien et son chuyển thể của Peter Jackson (Hervé Aubron)
+    - La Communauté de l'Anneau, de J.R.R. Tolkien à P. Jackson: Tỷ lệ thi hành án là gì? (Jean Cleder)
     - Giải trí với John Howe
     - La Terre du Milieu et les royaumes voisins: de l'influence de Tolkien sur les Cycles của những người đương thời trong truyện giả tưởng ([Anne Besson](../A/Anne_Besson.md))
 
 ## Từ nhà xuất bản {#From_the_publisher}
 
-Tác phẩm tập thể đầu tiên của trường đại học bằng tiếng Pháp, dành cho những độc giả muốn hiểu rõ hơn về vũ trụ Tolkien, cũng như dành cho sinh viên và nhà nghiên cứu quan tâm đến một tác phẩm vẫn còn ít được nghiên cứu ở Pháp. Các tác giả thuộc nhiều lĩnh vực khác nhau (văn học, lịch sử, nghiên cứu điện ảnh, v.v.), trong đó có ba chuyên gia giỏi nhất hiện nay (Tom Shippey, Verlyn Flieger, Thomas Honegger), đưa ra những phân tích về lịch sử tác phẩm của Tolkien ở Pháp, trên mạng lưới các ngôn ngữ do tác giả phát minh ra, trên các tập chính (Moria, Tấm gương Galadriel, câu đố của The Hobbit) hoặc trên các văn bản ít được biết đến hơn (The History of Middle-earth hoặc Lá, từ đùa giỡn); các bài viết khác xem xét câu hỏi về Cái ác (sự thể hiện, đường viền của nó) và vai trò của quái vật trong The Lord of the Rings, vị trí của Tolkien trong thể loại giả tưởng hiện đại, tiếng Anh và tiếng Pháp, hoặc thậm chí là chuyển văn bản thành hình ảnh – của Peter Jackson, cho bộ phim chuyển thể của anh ấy, hoặc của John Howe, họa sĩ minh họa nổi tiếng. Những bài viết này, được nhóm thành bốn phần "Sự hợp lưu", "Cái cây và cành của nó", "Bóng tối Bóng Tối", "Tolkien và nghệ thuật", có thể được đọc riêng hoặc xem trên toàn cầu như một trạng thái nghiên cứu ngôn ngữ tiếng Pháp hiện nay. về công việc của J.R.R. Tolkien.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup>
+Tác phẩm tập thể đầu tiên của trường đại học bằng tiếng Pháp, dành cho những độc giả muốn hiểu rõ hơn về vũ trụ của Tolkien, cũng như dành cho sinh viên và nhà nghiên cứu quan tâm đến một tác phẩm vẫn còn ít được nghiên cứu ở Pháp. Các tác giả thuộc nhiều lĩnh vực khác nhau (văn học, lịch sử, nghiên cứu điện ảnh, v.v.), bao gồm ba trong số những chuyên gia giỏi nhất hiện nay (Tom Shippey, Verlyn Flieger, Thomas Honegger), đưa ra những phân tích về lịch sử tác phẩm của Tolkien ở Pháp, trên mạng lưới các ngôn ngữ do tác giả phát minh ra, về các tập chính (Moria, Tấm gương của Galadriel, câu đố của Người Hobbit) hoặc trên các văn bản ít được biết đến hơn (Lịch sử của Trung địa hoặc Lá, từ Niggle); các bài viết khác xem xét câu hỏi về Cái ác (sự thể hiện, biên giới của nó) và vai trò của quái vật trong Chúa tể của những chiếc nhẫn, vị trí của Tolkien trong thể loại giả tưởng hiện đại, tiếng Anh và tiếng Pháp, hay thậm chí là chuyển văn bản thành hình ảnh – của Peter Jackson, cho bộ phim chuyển thể của ông, hoặc của John Howe, họa sĩ minh họa nổi tiếng. Những bài viết này, được nhóm thành bốn phần "Sự hợp lưu", "Cái cây và cành của nó", "Bóng tối", "Tolkien và nghệ thuật", có thể được đọc riêng hoặc xem trên toàn cầu như một trạng thái nghiên cứu ngôn ngữ tiếng Pháp hiện nay. về công việc của J.R.R. Tolkien.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup>
 
 ## Liên kết ngoài {#External_links}
 

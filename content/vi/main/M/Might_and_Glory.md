@@ -12,7 +12,7 @@ categories:
   - "Songs by Summoning"
 ---
 
-<i><b>Might and Glory</b></i> là một bài hát của ban nhạc [Tolkien metal](../T/Tolkien_metal.md) [Summoning](../S/Summoning.md). Nó xuất hiện trong album đầy đủ thứ sáu của họ, [Lời Thề Bound](../O/Oath_Bound.md).
+<i><b>Might and Glory</b></i> là một bài hát của ban nhạc [Tolkien metal](../T/Tolkien_metal.md) [Summoning](../S/Summoning.md). Nó xuất hiện trong album đầy đủ thứ sáu của họ, [Oath Bound](../O/Oath_Bound.md).
 
 ## Lời bài hát {#Lyrics}
 

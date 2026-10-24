@@ -12,22 +12,22 @@ categories:
   - "Roots"
 ---
 
-**BAN** là một [Primitive Quendian](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) với hai ý nghĩa khác nhau. BAN<sup>[1]</sup> biểu thị "công bằng, đẹp đẽ", ban đầu "được gọi đơn giản là 'vẻ đẹp' — nhưng với hàm ý rằng đó là do *lack of fault*, hoặc *blemish*".<sup id="cite_ref-PE149_1-0" class="reference"><a href="#cite_note-PE149-1">[1]</a></sup> BAN<sup>[2]</sup> biểu thị "gặp nhau, đối đầu".<sup id="cite_ref-PE150_2-0" class="reference"><a href="#cite_note-PE150-2">[2]</a></sup>
+**BAN** là [Quendian nguyên thủy](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) với hai ý nghĩa khác nhau. BAN<sup>[1]</sup> biểu thị "công bằng, đẹp đẽ", ban đầu "được gọi đơn giản là 'vẻ đẹp' — nhưng với hàm ý rằng đó là do *lack of fault*, hoặc *blemish*".<sup id="cite_ref-PE149_1-0" class="reference"><a href="#cite_note-PE149-1">[1]</a></sup> BAN<sup>[2]</sup> biểu thị "gặp nhau, đối đầu".<sup id="cite_ref-PE150_2-0" class="reference"><a href="#cite_note-PE150-2">[2]</a></sup>
 
 [Tolkien](../J/J.R.R._Tolkien.md) đã thử nghiệm ý tưởng rằng BAN có liên quan đến <a class="new" href="https://tolkiengateway.net/w/index.php?title=MAN&amp;action=edit&amp;redlink=1" title="MAN (page does not exist)">MAN</a> ("tốt").<sup id="cite_ref-PE149_1-1" class="reference"><a href="#cite_note-PE149-1">[1]</a></sup><sup id="cite_ref-VT_3-0" class="reference"><a href="#cite_note-VT-3">[3]</a></sup>
 
 ## Đạo hàm của BAN<sup>[1]</sup> {#Derivatives_of_BAN[1]}
 
 - [Quenya](../Q/Quenya.md): *[Vána](../V/Vána.md)*; *[vanya](../V/Vanyar.md#etymology)*; *[linda](../L/Linda.md)*; *vanima* ("đẹp"); *[úvano, úvanimo](../_/Úvanimo.md)*<sup id="cite_ref-PE149_1-2" class="reference"><a href="#cite_note-PE149-1">[1]</a></sup>
-- [Sindarin](../S/Sindarin.md): *bân*, *bain* ("may mắn, công bằng, thuận lợi, tốt, không có yếu tố ác/xấu"); *gwain* ("tóc vàng")<sup id="cite_ref-PE149_1-3" class="reference"><a href="#cite_note-PE149-1">[1]</a></sup>
+- [Sindarin](../S/Sindarin.md): *bân*, *bain* ("may mắn, công bằng, thuận lợi, tốt, không có yếu tố xấu/xấu"); *gwain* ("tóc vàng")<sup id="cite_ref-PE149_1-3" class="reference"><a href="#cite_note-PE149-1">[1]</a></sup>
 
 ## Đạo hàm của BAN<sup>[2]</sup> {#Derivatives_of_BAN[2]}
 
-- [Sindarin](../S/Sindarin.md): *[govannen](../G/Govannen.md)*<sup id="cite_ref-PE150_2-1" class="reference"><a href="#cite_note-PE150-2">[2]</a></sup>
+- [Tiếng Sindarin](../S/Sindarin.md): *[govannen](../G/Govannen.md)*<sup id="cite_ref-PE150_2-1" class="reference"><a href="#cite_note-PE150-2">[2]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong *Qenya Lexicon* xuất hiện gốc VANA-, cho ra [Qenya](../Q/Qenya.md) *vane* ("công bằng, đáng yêu").<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Trong *[Etymologies](../T/The_Etymologies.md)* xuất hiện gốc BAN-, cho ra Quenya *vanya* ("đẹp"), *vanima* ("công bằng"), *úvanimo* ("quái vật"), v.v.<sup id="cite_ref-VT_3-1" class="reference"><a href="#cite_note-VT-3">[3]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Trong *Qenya Lexicon* xuất hiện gốc VANA-, mang lại [Qenya](../Q/Qenya.md) *vane* ("công bằng, đáng yêu").<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Trong *[Etymologies](../T/The_Etymologies.md)* xuất hiện gốc BAN-, mang lại Quenya *vanya* ("đẹp"), *vanima* ("công bằng"), *úvanimo* ("quái vật"), v.v.<sup id="cite_ref-VT_3-1" class="reference"><a href="#cite_note-VT-3">[3]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Xem thêm {#See_also}
 

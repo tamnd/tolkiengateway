@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The History of Middle-earth Index"
 ---
 
-Chuyển hướng tới [The History of Middle-earth Chỉ mục](The_History_of_Middle-earth_Index.md).
+Chuyển hướng đến [The History of Middle-earth Index](The_History_of_Middle-earth_Index.md).

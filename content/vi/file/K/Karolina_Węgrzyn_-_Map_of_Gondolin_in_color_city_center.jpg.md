@@ -34,7 +34,7 @@ Gondolin theo phong cách bản đồ giả tưởng của [Karolina Węgrzyn](h
 
 Ngoài ra còn có các biến thể của bản đồ này tại Tolkien Gateway trong *[Category:Images by Karolina Węgrzyn](../../category/I/Images_by_Karolina_Węgrzyn.md)*.
 
-Lưu ý - [Tháp của Vua](../../main/T/Tower_of_the_King.md) trong hình ảnh đã được di chuyển từ trung tâm của [Vua Quảng trường](../../main/S/Square_of_the_Palace.md) để trở thành một phần của cung điện, trở thành tòa tháp cao nhất trong số các tòa tháp của cung điện. Ban đầu Tháp của Vua có lẽ là một tòa nhà riêng biệt ở trung tâm Quảng trường Vua.
+Lưu ý - [Tháp của Vua](../../main/T/Tower_of_the_King.md) trong hình ảnh đã được di chuyển từ trung tâm của Quảng trường [Vua](../../main/S/Square_of_the_Palace.md) để trở thành một phần của cung điện, trở thành tòa tháp cao nhất trong số các tòa tháp của nó. Ban đầu Tháp Vua có lẽ là một tòa nhà riêng biệt ở trung tâm Quảng trường Vua.
 
 ## Giấy phép {#Licensing}
 

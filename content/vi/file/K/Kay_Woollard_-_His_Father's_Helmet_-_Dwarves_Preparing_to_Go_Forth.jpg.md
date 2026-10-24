@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Người Lùn chuẩn bị lên đường bởi [Kay Woollard](../../main/K/Kay_Woollard.md), một trong những bức tranh minh họa được thực hiện cho Peter Bolton.
+Người Lùn chuẩn bị lên đường bởi [Kay Woollard](../../main/K/Kay_Woollard.md), một trong những bức minh họa được thực hiện cho Peter Bolton.
 
 ## Giấy phép {#Licensing}
 

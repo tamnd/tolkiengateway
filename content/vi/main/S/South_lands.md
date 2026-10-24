@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mordor"
 ---
 
-Chuyển hướng đến [Mordor](../M/Mordor.md).
+Chuyển hướng tới [Mordor](../M/Mordor.md).

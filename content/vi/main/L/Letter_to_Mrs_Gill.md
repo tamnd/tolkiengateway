@@ -22,9 +22,9 @@ Vào [21 tháng 2](../_/21_February.md) [1963](../_/1963.md), [J.R.R. Tolkien](.
 
 **Bà Gill ngày 21 tháng 2 năm 1963** là một [bức thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) gửi bà Gill, được soạn vào [21 tháng 2](../_/21_February.md) [1963](../_/1963.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-- **Chủ đề**: Tolkien trả lời thư cảm ơn của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* từ bà Gill.
-- **Xuất bản:** Mô tả về bức thư đã được đưa vào *[The J.R.R. Tolkien Companion and Guide](../T/The_J.R.R._Tolkien_Companion_and_Guide.md): Niên đại* (tr. 604).
-- **Mô tả:** Một trang, đánh máy, có chữ ký.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- **Subject**: Tolkien replies to a letter of appreciation of *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* from Mrs Gill.
+- **Publication:** A description of the letter was included in *[The J.R.R. Tolkien Companion and Guide](../T/The_J.R.R._Tolkien_Companion_and_Guide.md): Chronology* (p. 604).
+- **Description:** One page, typerscript, signed.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Phiên âm {#Transcription}
 

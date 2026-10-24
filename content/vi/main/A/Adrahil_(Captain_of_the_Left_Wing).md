@@ -60,15 +60,15 @@ infobox:
 
 ## Lịch sử {#History}
 
-Là hậu duệ của gia đình [Númenórean](../N/Númenóreans.md) quý tộc định cư tại [Belfalas](../B/Belfalas.md) vào [Thời thứ hai](../S/Second_Age.md), ông là tổ tiên của dòng dõi [Thân vương Dol Amroth](../P/Princes_of_Dol_Amroth.md).<sup id="cite_ref-CirionNote_3-0" class="reference"><a href="#cite_note-CirionNote-3">[2]</a></sup>
+Là hậu duệ của gia đình quý tộc [Númenórean](../N/Númenóreans.md) định cư ở [Belfalas](../B/Belfalas.md) trong [Kỷ Đệ Nhị](../S/Second_Age.md), ông là tổ tiên của dòng dõi [Thân vương Dol Amroth](../P/Princes_of_Dol_Amroth.md).<sup id="cite_ref-CirionNote_3-0" class="reference"><a href="#cite_note-CirionNote-3">[2]</a></sup>
 
 Khi Vua [Ondoher](../O/Ondoher.md) dẫn quân đối mặt với [Wainriders](../W/Wainriders.md) kẻ đe dọa [Gondor](../G/Gondor.md), Adrahil chỉ huy cánh trái của quân. Những người lính ở cánh phải nằm dưới sự chỉ huy của cháu [Minohtar](../M/Minohtar.md) của Vua, trong khi cánh trung tâm do chính nhà vua và người thừa kế của ông [Artamir](Artamir.md) chỉ huy.<sup id="cite_ref-Cirion_1-3" class="reference"><a href="#cite_note-Cirion-1">[1]</a></sup>
 
-Công việc kinh doanh của Ondoher đã đi đến kết cục tàn khốc: anh ta bị [Wainriders](../W/Wainriders.md) bất ngờ và lực lượng của anh ta bị áp đảo. Tuy nhiên, binh lính của Adrahil đã được che chắn khỏi cuộc tấn công và sống sót sau đó. Ondoher và Artamir đều đã bị giết, và Minohtar lên nắm quyền, cử Adrahil cùng với cả chỉ huy của Cánh Tả của ông ta và những người ở phía sau Cánh Phải chưa tham chiến.<sup id="cite_ref-Cirion_1-4" class="reference"><a href="#cite_note-Cirion-1">[1]</a></sup>
+Công việc kinh doanh của Ondoher đã đi đến kết cục tàn khốc: ông ta bị [Wainriders](../W/Wainriders.md) bất ngờ và lực lượng của ông ta bị áp đảo. Tuy nhiên, binh lính của Adrahil đã được che chắn khỏi cuộc tấn công và sống sót sau đó. Ondoher và Artamir đều đã bị giết, và Minohtar lên nắm quyền, cử Adrahil cùng với cả chỉ huy của Cánh Tả của ông ta và những người ở phía sau Cánh Phải chưa tham chiến.<sup id="cite_ref-Cirion_1-4" class="reference"><a href="#cite_note-Cirion-1">[1]</a></sup>
 
-Adrahil rút về phía nam vào [Ithilien](../I/Ithilien.md) để tạo thành tuyến phòng thủ từ [Cair Andros](../C/Cair_Andros.md) đến [Ephel Dúath](../E/Ephel_Dúath.md). Với những lực lượng này, anh ta sẽ yểm trợ cho các cuộc tiếp cận của [Minas Tirith](../M/Minas_Tirith.md) và cho phép Minohtar thành lập lực lượng hậu vệ và cố gắng ngăn chặn bước tiến của Wainriders. Adrahil nên nhắn tin ngay cho [Eärnil](../E/Eärnil_II.md), thông báo về thảm họa Morannon và vị trí của Quân đội miền Bắc đang rút lui.<sup id="cite_ref-Cirion_1-5" class="reference"><a href="#cite_note-Cirion-1">[1]</a></sup>
+Adrahil rút về phía nam vào [Ithilien](../I/Ithilien.md) để tạo thành tuyến phòng thủ từ [Cair Andros](../C/Cair_Andros.md) đến [Ephel Dúath](../E/Ephel_Dúath.md). Với những lực lượng này, ông ta sẽ yểm trợ cho các cuộc tiếp cận của [Minas Tirith](../M/Minas_Tirith.md) và cho phép Minohtar thành lập lực lượng hậu vệ và cố gắng ngăn chặn bước tiến của Wainriders. Adrahil nên nhắn tin ngay cho [Eärnil](../E/Eärnil_II.md), thông báo về thảm họa Morannon và vị trí của Quân đội miền Bắc đang rút lui.<sup id="cite_ref-Cirion_1-5" class="reference"><a href="#cite_note-Cirion-1">[1]</a></sup>
 
-Số phận của Adrahil không chắc chắn; [Wainriders](../W/Wainriders.md) cuối cùng đã xuyên thủng được hàng phòng thủ ở phía bắc của [Minohtar](../M/Minohtar.md), nhưng liệu họ có xâm nhập được vào vị trí của Adrahil hay không thì vẫn chưa rõ. Không còn gì để nói về anh ta nữa.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[note 2]</a></sup>
+Số phận của Adrahil không chắc chắn; [Wainriders](../W/Wainriders.md) cuối cùng đã xuyên thủng được hàng phòng thủ ở phía bắc của [Minohtar](../M/Minohtar.md), nhưng liệu họ có xâm nhập được vào vị trí của Adrahil hay không thì vẫn chưa rõ. Không còn gì để nói về ông ta nữa.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[note 2]</a></sup>
 
 ## Phả hệ {#Genealogy}
 
@@ -89,9 +89,9 @@ Trong chương “[Cirion và Eorl](../C/Cirion_and_Eorl_and_the_Friendship_of_G
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Các mối quan hệ gia đình và ngày tháng của anh ấy đều ngụ ý rằng anh ấy là cha của <a href="../I/Imrazôr.md" title="Imrazôr">Imrazôr</a>, nhưng Tolkien chưa bao giờ đưa ra mối liên hệ một cách rõ ràng. Niên đại phù hợp với việc Adrahil là cha của Imrazôr, và do đó là ông nội của <a href="../G/Galador.md" title="Galador">Galador</a>, nhưng bằng chứng về điểm này rất mỏng.</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Các mối quan hệ gia đình và ngày tháng của ông đều ngụ ý rằng ông là cha của <a href="../I/Imrazôr.md" title="Imrazôr">Imrazôr</a>, nhưng Tolkien chưa bao giờ đưa ra mối liên hệ một cách rõ ràng. Niên đại phù hợp với việc Adrahil là cha của Imrazôr, và do đó là ông nội của <a href="../G/Galador.md" title="Galador">Galador</a>, nhưng bằng chứng về điểm này rất mỏng.</span>
 </li>
-<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">Nếu anh ta sống sót sau cuộc tấn công ban đầu, có vẻ như Adrahil sẽ tham gia cùng <a href="../E/Eärnil_II.md" title="Eärnil II">Eärnil</a> trong cuộc phản công của mình, chứng kiến thất bại cuối cùng của Wainriders tại <a href="../B/Battle_of_the_Camp.md" title="Battle of the Camp">Trận chiến trong trại</a> mặc dù không thể nói gì chắc chắn về vấn đề này.</span>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">Nếu ông ta sống sót sau cuộc tấn công ban đầu, có vẻ như Adrahil sẽ tham gia cùng <a href="../E/Eärnil_II.md" title="Eärnil II">Eärnil</a> trong cuộc phản công của mình, chứng kiến thất bại cuối cùng của Wainriders tại <a href="../B/Battle_of_the_Camp.md" title="Battle of the Camp">Trận chiến trong trại</a> mặc dù không thể nói gì chắc chắn về vấn đề này.</span>
 </li>
 </ol></div></span>
 

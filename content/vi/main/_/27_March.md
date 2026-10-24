@@ -65,12 +65,12 @@ Sự kiện xảy ra vào ngày 27 tháng 3.
 
 - **[1807](1807.md)** - [John Benjamin Tolkien](../J/John_Benjamin_Tolkien.md) ra đời.
 - **[1928](1928.md)** - [Tolkien](../J/J.R.R._Tolkien.md) hoạt động trên phần sau của [Canto IV](../L/Lay_of_Leithian_Canto_IV.md) của *[Lay of Leithian](../L/Lay_of_Leithian.md)*.
-- **[1939](1939.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) thực hiện khóa đào tạo đầu tiên trong ba ngày với Trường Mật mã và Mật mã tuyệt mật của Chính phủ (GCCS) tại trụ sở chính ở London.
+- **[1939](1939.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) thực hiện khóa đào tạo đầu tiên trong ba ngày với Trường Mật mã và Mã hóa tuyệt mật của Chính phủ (GCCS) tại trụ sở chính ở London.
 - **[1944](1944.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 56a](../L/Letter_56a.md).
-- **[1972](1972.md)** – [Rayner Unwin](../R/Rayner_Unwin.md) tổ chức tiệc mừng CBE của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) vào [ngày hôm sau](28_March.md).
+- **[1972](1972.md)** – [Rayner Unwin](../R/Rayner_Unwin.md) tổ chức một bữa tiệc mừng CBE của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) vào [ngày hôm sau](28_March.md).
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
     - [Bard II](../B/Bard_II.md) và [Thorin III Stonehelm](../T/Thorin_Stonehelm.md) điều khiển [Easterlings](../E/Easterlings.md) từ [Dale](../D/Dale.md).
-    - [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md), được cứu ra khỏi đám cháy, nghỉ ngơi tại [Ithilien](../I/Ithilien.md).
+    - [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md), được cứu ra khỏi đám cháy, nghỉ ngơi ở [Ithilien](../I/Ithilien.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Second siege of Imladris"
 ---
 
-Chuyển hướng tới [Cuộc vây hãm Imladris](Second_siege_of_Imladris.md) lần thứ hai.
+Chuyển hướng đến [Cuộc vây hãm Imladris lần thứ hai](Second_siege_of_Imladris.md).

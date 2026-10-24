@@ -27,9 +27,9 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"Cô ấy dấn thân vào Teiglin, Không còn ham muốn cuộc sống nữa"
+"Bà dấn thân vào Teiglin, Không còn ham muốn cuộc sống nữa"
 
-"\[B\]ut Brandir nói: 'Hãy nghe tôi nói hết! Níniel người yêu dấu cũng đã chết. Cô ấy gieo mình vào Teiglin, không còn ham muốn sống nữa; vì cô ấy biết được rằng mình không ai khác chính là Nienor con gái của Húrin của Dor-lómin, trước khi sự quên lãng của cô ấy ập đến, và Turambar là anh trai cô ấy, Túrin con trai của Húrin.'"
+"\[B\]ut Brandir nói: 'Hãy nghe tôi nói hết! Níniel người yêu dấu cũng đã chết. Bà lao vào Teiglin, không còn ham muốn sống nữa; vì bà biết rằng mình không ai khác chính là Nienor con gái của Húrin của Dor-lómin, trước khi sự quên lãng của bà ập đến, và Turambar là anh trai bà, Túrin con trai của Húrin.'"
 
 Nghệ thuật kỹ thuật số, phong cách Tiffany.
 

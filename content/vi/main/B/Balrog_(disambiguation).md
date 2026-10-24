@@ -14,18 +14,18 @@ images:
   - "Disambig.png"
 ---
 
-**Balrog** hoặc **balrog** có thể đề cập đến:
+**Balrog** hoặc **balrogs** có thể đề cập đến:
 
 ## Nhân vật {#Characters}
 
-- **[Balrog](Balrogs.md), những sinh vật tà ác của lửa và bóng tối.**
-    - [Balrog/Wings](Balrogs%252FWings.md), cuộc tranh luận về việc liệu balrog có cánh hay không.
-- [Tai họa của Durin](../D/Durin's_Bane.md), balrog của [Moria](../M/Moria.md) bị giết bởi [Gandalf](../G/Gandalf.md).
-- [Gothmog (balrog)](<../G/Gothmog_(balrog).md>), Chúa tể của Balrog đã bị giết bởi [Ecthelion](../E/Ecthelion.md) vào [Gondolin](../G/Gondolin.md).
+- **[Balrogs](Balrogs.md), sinh vật tà ác của lửa và bóng tối.**
+    - [Balrogs/Wings](Balrogs%252FWings.md), cuộc tranh luận về việc liệu balrogs có cánh hay không.
+- [Durin's Bane](../D/Durin's_Bane.md), balrog của [Moria](../M/Moria.md) bị giết bởi [Gandalf](../G/Gandalf.md).
+- [Gothmog (balrog)](<../G/Gothmog_(balrog).md>), Chúa tể của Balrogs đã bị [Ecthelion](../E/Ecthelion.md) giết chết ở [Gondolin](../G/Gondolin.md).
 
 ## Trò chơi bài {#Card_games}
 
-- [Trung Địa: Balrog](../M/Middle-earth%253A_The_Balrog.md), một bản mở rộng của [Trung Địa Trò chơi Thẻ sưu tập](../M/Middle-earth_Collectible_Card_Game.md).
+- [Middle-earth: The Balrog](../M/Middle-earth%253A_The_Balrog.md), bản mở rộng của [Trò chơi thẻ bài sưu tầm ở Trung Địa](../M/Middle-earth_Collectible_Card_Game.md).
 
 ## Ban nhạc {#Bands}
 

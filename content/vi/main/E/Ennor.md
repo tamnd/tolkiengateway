@@ -21,7 +21,7 @@ langlinks:
     url: "https://kontu.wiki/Ennor"
 ---
 
-<i><b>Ennor</b></i> là tên [Sindarin](../S/Sindarin.md) của "[Trung Địa](../M/Middle-earth.md)".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Tương đương [Quenya](../Q/Quenya.md) là *[Endor](Endor.md)*.<sup id="cite_ref-PE_2-0" class="reference"><a href="#cite_note-PE-2">[2]</a></sup>
+<i><b>Ennor</b></i> là tên [Sindarin](../S/Sindarin.md) của "[Trung địa](../M/Middle-earth.md)".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Tương đương [Quenya](../Q/Quenya.md) là *[Endor](Endor.md)*.<sup id="cite_ref-PE_2-0" class="reference"><a href="#cite_note-PE-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

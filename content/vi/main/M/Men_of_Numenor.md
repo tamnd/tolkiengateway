@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Númenóreans"
 ---
 
-Chuyển hướng đến [người Númenor](../N/Númenóreans.md).
+Chuyển hướng đến [Númenóreans](../N/Númenóreans.md).

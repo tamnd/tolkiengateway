@@ -43,7 +43,7 @@ infobox:
 
 ## Từ phía sau {#From_the_back}
 
-*Pearl* kể về một người đàn ông đi vào nghĩa địa để than khóc về cái chết của đứa con gái bé bỏng mà ông đã đánh mất như một viên ngọc trượt qua ngón tay rơi xuống cỏ. Quá mệt mỏi vì đau buồn, anh ngủ thiếp đi và có một tầm nhìn huy hoàng về một thế giới khác, được trang sức bằng đá quý một cách tượng trưng, ​​​​trong đó anh gặp lại con gái mình và phát hiện ra những gì đã xảy ra với cô ấy.
+*Pearl* kể về một người đàn ông đi vào nghĩa địa để than khóc về cái chết của đứa con gái bé bỏng mà ông đã đánh mất như một viên ngọc trượt qua ngón tay rơi xuống cỏ. Quá mệt mỏi vì đau buồn, anh ngủ thiếp đi và có một tầm nhìn huy hoàng về một thế giới khác, được trang sức bằng đá quý một cách tượng trưng, ​​​​trong đó anh gặp lại con gái mình và phát hiện ra những gì đã xảy ra với bà.
 
 Trong *Sir Orfeo*, một diễn viên hát rong kể lại, lần này với bối cảnh ở Anh, câu chuyện lâu đời về tình yêu của Orpheus dành cho Eurydice, một tình yêu mãnh liệt đến mức vượt qua cái chết.
 

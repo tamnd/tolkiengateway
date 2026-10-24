@@ -29,7 +29,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien đã viết thư cho nhà xuất bản Hoa Kỳ của The Two Towers về ba sửa đổi trong ấn bản đầu tiên. Tolkien dự kiến ​​rằng The Return of the King sẽ cần số lần chỉnh sửa lớn hơn The Two Towers. <br>
+Tolkien đã viết thư cho nhà xuất bản The Two Towers của Hoa Kỳ về ba lần chỉnh sửa cho ấn bản đầu tiên. Tolkien dự đoán rằng The Return of the King sẽ cần chỉnh sửa nhiều hơn The Two Towers. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

@@ -61,47 +61,47 @@ infobox:
 <p class="tg-quote-footer"><cite><a href="../B/Beorn.md" title="Beorn">Beorn</a> in <i><a href="../T/The_Hobbit.md" title="The Hobbit">The Hobbit</a></i>, &#34;<a href="../Q/Queer_Lodgings.md" title="Queer Lodgings">Queer Lodgings</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Warg** hoặc **Wild Sói**<sup id="cite_ref-H17_1-0" class="reference"><a href="#cite_note-H17-1">[1]</a></sup> là một chủng tộc [sói](Wolves.md) độc ác,<sup id="cite_ref-H6_2-0" class="reference"><a href="#cite_note-H6-2">[2]</a></sup> theo cách gọi của [Người phương Bắc](../N/Northmen.md) của Rhovanion.<sup id="cite_ref-L297_3-0" class="reference"><a href="#cite_note-L297-3">[3]</a></sup>
+**Wargs** hay **Sói hoang**<sup id="cite_ref-H17_1-0" class="reference"><a href="#cite_note-H17-1">[1]</a></sup> là một chủng tộc [sói](Wolves.md) độc ác,<sup id="cite_ref-H6_2-0" class="reference"><a href="#cite_note-H6-2">[2]</a></sup> được gọi bởi [Người phương Bắc](../N/Northmen.md) của Rhovanion.<sup id="cite_ref-L297_3-0" class="reference"><a href="#cite_note-L297-3">[3]</a></sup>
 
 ## Đặc điểm {#Characteristics}
 
-Warg là một giống sói [quỷ](../D/Demons.md) độc ác,<sup id="cite_ref-L297_3-1" class="reference"><a href="#cite_note-L297-3">[3]</a></sup><sup id="cite_ref-Gene_4-0" class="reference"><a href="#cite_note-Gene-4">[4]</a></sup> cho thấy rằng chúng là nơi sinh sống của các linh hồn ma quỷ. Nguồn gốc của giống chó này vẫn chưa được xác định - có lẽ chúng nằm trong số những sinh vật được [Morgoth](../M/Morgoth.md) nhân giống vào [Ngày của Người cao tuổi](../E/Elder_Days.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Trong mọi trường hợp, [Gandalf](../G/Gandalf.md) đã liệt kê Warg trong số những người hầu của [Sauron](../S/Sauron.md) vào cuối [Kỷ Đệ Tam](../T/Third_Age.md).<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Wargs là một giống sói [quỷ](../D/Demons.md) độc ác,<sup id="cite_ref-L297_3-1" class="reference"><a href="#cite_note-L297-3">[3]</a></sup><sup id="cite_ref-Gene_4-0" class="reference"><a href="#cite_note-Gene-4">[4]</a></sup> cho thấy rằng chúng là nơi sinh sống của các linh hồn ma quỷ. Nguồn gốc của giống chó này vẫn chưa được xác định - có lẽ chúng nằm trong số những sinh vật được [Morgoth](../M/Morgoth.md) nhân giống vào [Ngày của Người cao tuổi](../E/Elder_Days.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Trong mọi trường hợp, [Gandalf](../G/Gandalf.md) đã liệt kê Wargs trong số những người hầu của [Sauron](../S/Sauron.md) vào cuối [Thời đại thứ ba](../T/Third_Age.md).<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
-Warg đã được nhìn thấy trong [Rhovanion](../R/Rhovanion.md) và chúng thường được liên minh với [Orc của Dãy Núi Sương Mù](../O/Orcs_of_the_Misty_Mountains.md) và được sử dụng làm thú cưỡi. Warg đã thông minh và sử dụng một cái lưỡi, "[ngôn ngữ đáng sợ của Warg](Wolf-language.md)". Họ sợ lửa và không thể trèo cây.<sup id="cite_ref-H6_2-1" class="reference"><a href="#cite_note-H6-2">[2]</a></sup>
+Người ta thấy lũ Wargs ở [Rhovanion](../R/Rhovanion.md) và chúng thường liên minh với [Orc của Dãy núi Sương mù](../O/Orcs_of_the_Misty_Mountains.md) và được sử dụng làm thú cưỡi. Wargs rất thông minh và sử dụng một cái lưỡi, "[ngôn ngữ đáng sợ của Wargs](Wolf-language.md)". Họ sợ lửa và không thể trèo cây.<sup id="cite_ref-H6_2-1" class="reference"><a href="#cite_note-H6-2">[2]</a></sup>
 
 ## Lịch sử {#History}
 
 <figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/R/Ron_Walotsky_-_Wargs.jpg.md"><img src="https://tolkiengateway.net/w/images/6/60/Ron_Walotsky_-_Wargs.jpg" decoding="async" loading="lazy" width="296" height="250" class="mw-file-element" data-file-width="296" data-file-height="250"/></a><figcaption>Ron Walotsky - <i>Wargs</i></figcaption></figure>
 
-Trong [T.A.](../T/Third_Age.md) [2941](../T/Third_Age_2941.md), Warg xuất hiện một lần để gặp [Goblin](../O/Orcs.md) và tổ chức đột kích vào các ngôi làng lân cận, nhằm đánh đuổi [Người Rừng](Woodmen.md) ra ngoài và bắt giữ một số nô lệ. Khi một đàn Warg tiếp cận phía đông của [Dãy Núi Sương Mù](../M/Misty_Mountains.md) để gặp chúng, [Bilbo Baggins](../B/Bilbo_Baggins.md), [Gandalf](../G/Gandalf.md) và [Thorin và Đoàn tùy tùng](../T/Thorin_and_Company.md) đang trốn thoát khỏi bọn yêu tinh. Gandalf thấy đàn đến, đề nghị trèo cây và [Dori](../D/Dori.md) giúp đỡ Bilbo kịp thời.
+Trong [T.A.](../T/Third_Age.md) [2941](../T/Third_Age_2941.md), Wargs xuất hiện một lần để gặp [Yêu tinh](../O/Orcs.md) và tổ chức một cuộc đột kích đến các ngôi làng gần đó, nhằm đánh đuổi [Người rừng](Woodmen.md) và bắt giữ một số nô lệ. Khi một bầy Wargs tiếp cận phía đông [Dãy núi Sương mù](../M/Misty_Mountains.md) để gặp chúng, [Bilbo Baggins](../B/Bilbo_Baggins.md), [Gandalf](../G/Gandalf.md) và [Thorin và Company](../T/Thorin_and_Company.md) đang trốn thoát lũ yêu tinh. Gandalf nhìn thấy bầy đàn đang đến, đề nghị trèo cây và [Dori](../D/Dori.md) giúp đỡ Bilbo đúng lúc.
 
-Bọn Warg nghĩ rằng Người Lùn là đồng minh của Người Rừng nên đã bao vây trảng rừng và không cho chúng đi xuống. Gandalf sau đó sử dụng [ma thuật](../M/Magic.md) của mình để thắp sáng những quả thông và ném chúng vào Warg cho đến khi hắn đuổi chúng ra ngoài. Những con sói bốc cháy chạy vào rừng và đốt cháy ở một số nơi, vì trời đang là mùa hè, và ở sườn phía đông của dãy núi này đã có một thời gian ít mưa. Tuy nhiên, những người bảo vệ ở dưới gốc cây vẫn không biến mất. Cuối cùng Goblin xuất hiện và thắp sáng những cái cây mà Người Lùn đang ở cho đến khi [Đại Bàng](../E/Eagles.md) đến giải cứu họ.<sup id="cite_ref-H6_2-2" class="reference"><a href="#cite_note-H6-2">[2]</a></sup>
+Bọn Wargs nghĩ rằng Người lùn là đồng minh của Người rừng nên đã bao vây trảng cỏ và không cho họ đi xuống. Sau đó, Gandalf sử dụng [ma thuật](../M/Magic.md) của mình để thắp sáng những quả thông và ném chúng vào bọn Warg cho đến khi hắn đuổi chúng ra ngoài. Những con sói bốc cháy chạy vào rừng và đốt cháy ở một số nơi, vì trời đang là mùa hè, và ở sườn phía đông của dãy núi này đã có một thời gian ít mưa. Tuy nhiên, những người bảo vệ ở dưới gốc cây vẫn không biến mất. Cuối cùng, Yêu tinh xuất hiện và thắp sáng những cái cây mà Người lùn đang ở cho đến khi [Đại bàng](../E/Eagles.md) đến giải cứu họ.<sup id="cite_ref-H6_2-2" class="reference"><a href="#cite_note-H6-2">[2]</a></sup>
 
-Goblin và Warg nhất quyết đi tìm ban nhạc, vì Gandalf đã giết [Yêu tinh vĩ đại](../G/Great_Goblin.md) và cũng đốt mũi con sói trưởng. Họ đã đi xa tới tận nhà của [Beorn](../B/Beorn.md), nhưng anh ta đã bắt được một cặp và nhét đầu con yêu tinh ra ngoài cổng và đóng đinh bộ da warg vào một cái cây ngay bên ngoài<sup id="cite_ref-Queer_7-0" class="reference"><a href="#cite_note-Queer-7">[7]</a></sup>
+Bọn yêu tinh và lũ Wargs nhất quyết đi tìm nhóm này, vì Gandalf đã giết [Yêu tinh vĩ đại](../G/Great_Goblin.md), đồng thời đốt mũi con sói trưởng. Họ đã đi xa đến tận trang trại của [Beorn](../B/Beorn.md), nhưng ông ta đã bắt được một cặp trong số họ và nhét đầu con yêu tinh ra ngoài cổng và đóng đinh bộ da warg vào một cái cây ngay bên ngoài<sup id="cite_ref-Queer_7-0" class="reference"><a href="#cite_note-Queer-7">[7]</a></sup>
 
-Warg xuất hiện một lần nữa, được cưỡi bởi Goblin, tại [Trận chiến Năm Đạo quân](../B/Battle_of_Five_Armies.md).<sup id="cite_ref-H17_1-1" class="reference"><a href="#cite_note-H17-1">[1]</a></sup> Sau đó, Warg đã biến mất khỏi rừng, nên những người đàn ông ra nước ngoài mà không hề sợ hãi.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
+Wargs xuất hiện một lần nữa, được cưỡi bởi lũ Goblin, trong [Trận chiến của năm đội quân](../B/Battle_of_Five_Armies.md).<sup id="cite_ref-H17_1-1" class="reference"><a href="#cite_note-H17-1">[1]</a></sup> Sau đó, lũ Wargs đã biến mất khỏi rừng, nên mọi người có thể ra nước ngoài mà không sợ hãi.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
 
-Một nhóm Warg, không có Orc đi cùng, đã tấn công [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) ở [Hollin](../E/Eregion.md).<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
+Một nhóm Wargs, không có Orc đi cùng, đã tấn công [Fellowship of the Ring](../F/Fellowship_of_the_Ring.md) ở [Hollin](../E/Eregion.md).<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
 
 ## Từ nguyên và tên gọi {#Etymology_and_names}
 
-[J.R.R. Tolkien](../J/J.R.R._Tolkien.md) bắt nguồn từ *warg* từ [tiếng Anh cổ](../O/Old_English.md) *wearg-*, tiếng Đức cổ *warg-*và [tiếng Bắc Âu cổ](../O/Old_Norse.md) *varg*-r., tất cả các thuật ngữ này được dịch theo nghĩa đen sang *strangler*, *choker*.<sup id="cite_ref-Gene_4-1" class="reference"><a href="#cite_note-Gene-4">[4]</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> Từ này được hiểu cụ thể là [Người Mannish miền Bắc](../N/Northern_Mannish.md) được "bắt gặp" trong suốt thời kỳ [Vùng đất phía Tây](Westlands.md).<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>
+[J.R.R. Tolkien](../J/J.R.R._Tolkien.md) bắt nguồn từ *warg* từ [Tiếng Anh cổ](../O/Old_English.md) *wearg-*, Tiếng Đức cổ cao *warg-*và [Tiếng Bắc Âu cổ](../O/Old_Norse.md) *varg*-r., tất cả các thuật ngữ này được dịch theo nghĩa đen sang *strangler*, *choker*.<sup id="cite_ref-Gene_4-1" class="reference"><a href="#cite_note-Gene-4">[4]</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> Từ này được hiểu cụ thể là [Người Mannish phía Bắc](../N/Northern_Mannish.md) "phổ biến" khắp [Westlands](Westlands.md).<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>
 
-Trong khi Bắc Âu *vargr* là từ đồng nghĩa phổ biến của *wolf*, tiếng Anh cổ *wearg* chỉ được sử dụng cho tội phạm ngoài vòng pháp luật hoặc bị truy lùng.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>
+Trong khi tiếng Bắc Âu *vargr* là từ đồng nghĩa phổ biến của *wolf* thì tiếng Anh cổ *wearg* chỉ được sử dụng cho tội phạm ngoài vòng pháp luật hoặc bị truy lùng.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>
 
-Trong danh sách tiếng Anh cổ tương đương với [Elvish](../E/Elvish.md) từ, *[Balrog](../B/Balrogs.md#Etymology)* được đánh bóng là có *[Bealuwérig](../B/Bealuwérig.md)* tương đương. Theo ghi chú của [Christopher Tolkien](../C/Christopher_Tolkien.md), từ tiếng Anh cổ chứa các phần tử *bealu* ("ác"; như trong *bale(ful)*) và *wearg* ("sói, kẻ ngoài vòng pháp luật"; từ đó có *Wargs*).<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup>
+Trong danh sách các từ tương đương trong tiếng Anh cổ của [Elvish](../E/Elvish.md), *[Balrog](../B/Balrogs.md#Etymology)* được đánh bóng là có *[Bealuwérig](../B/Bealuwérig.md)* tương đương. Theo ghi nhận của [Christopher Tolkien](../C/Christopher_Tolkien.md), từ tiếng Anh cổ chứa các phần tử *bealu* ("ác"; như trong *bale(ful)*) và *wearg* ("sói, kẻ ngoài vòng pháp luật"; từ đó có *Wargs*).<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup>
 
 ## Cảm hứng và ảnh hưởng {#Inspiration_and_influences}
 
-Trong tiếng Bắc Âu cổ thần thoại, chiến binh (*vargr*, từ đồng nghĩa với "sói", *ulfr*) đặc biệt là sói <a class="extiw" href="http://en.wikipedia.org/wiki/Fenrir" title="wikipedia:Fenrir">Fenrir</a> và các con trai của ông ta <a class="extiw" href="http://en.wikipedia.org/wiki/Skoll" title="wikipedia:Skoll">Skoll</a> và <a class="extiw" href="http://en.wikipedia.org/wiki/Hati" title="wikipedia:Hati">Hati</a>.
+Trong thần thoại Bắc Âu Cổ, wargs (*vargr*, từ đồng nghĩa với "sói", *ulfr*) đặc biệt là sói <a class="extiw" href="http://en.wikipedia.org/wiki/Fenrir" title="wikipedia:Fenrir">Fenrir</a> và các con trai của ông ta <a class="extiw" href="http://en.wikipedia.org/wiki/Skoll" title="wikipedia:Skoll">Skoll</a> và <a class="extiw" href="http://en.wikipedia.org/wiki/Hati" title="wikipedia:Hati">Hati</a>.
 
-Tolkien đã đề cập trong một lá thư rằng tình tiết chiến tranh trong *[The Hobbit](../T/The_Hobbit.md)* "một phần bắt nguồn từ một cảnh" trong tiểu thuyết của <a class="extiw" href="http://en.wikipedia.org/wiki/Samuel_Rutherford_Crockett" title="wikipedia:Samuel Rutherford Crockett">S. R. Crockett</a> <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Black_Douglas&amp;action=edit&amp;redlink=1" title="The Black Douglas (page does not exist)">The Black Douglas</a></i>.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup>
+Tolkien đã đề cập trong một lá thư rằng tình tiết chiến tranh trong *[The Hobbit](../T/The_Hobbit.md)* "một phần bắt nguồn từ một cảnh" trong tiểu thuyết <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Black_Douglas&amp;action=edit&amp;redlink=1" title="The Black Douglas (page does not exist)">The Black Douglas</a></i>của <a class="extiw" href="http://en.wikipedia.org/wiki/Samuel_Rutherford_Crockett" title="wikipedia:Samuel Rutherford Crockett">S. R. Crockett</a>.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup>
 
-Tolkien cũng lưu ý rằng [Gene Wolfe](../G/Gene_Wolfe.md), một trong những độc giả của ông, dường như đã lấy khái niệm của ông về Warg, xuất hiện trong truyện ngắn khoa học viễn tưởng "Trip, Trap" (1967) của Wolfe: "Cũng có một thứ trông giống như một con chó hoang hoặc sói rất lớn, Warg".<sup id="cite_ref-L297_3-2" class="reference"><a href="#cite_note-L297-3">[3]</a></sup><sup id="cite_ref-MB2257_15-0" class="reference"><a href="#cite_note-MB2257-15">[15]</a></sup> [John D. Rateliff](../J/John_D._Rateliff.md) đã bình luận thêm rằng Warg của Tolkien có thể có ảnh hưởng đến việc tạo ra những quái thú giống sói <i><a class="extiw" href="http://en.wikipedia.org/wiki/Worg_(Dungeons_%26_Dragons)" title="wikipedia:Worg (Dungeons &amp; Dragons)">worgs</a></i> trong tài liệu sau này liên quan đến [Dungeon & Rồng](../D/Dungeons_and_Dragons.md) và trong các thế giới giả tưởng khác.<sup id="cite_ref-MB2257_15-1" class="reference"><a href="#cite_note-MB2257-15">[15]</a></sup>
+Tolkien cũng lưu ý rằng [Gene Wolfe](../G/Gene_Wolfe.md), một trong những độc giả của ông, dường như đã lấy được khái niệm của ông về Wargs, xuất hiện trong truyện ngắn khoa học viễn tưởng "Trip, Trap" (1967) của Wolfe: "Cũng có một thứ trông giống như một con chó hoang hoặc sói rất lớn, Warg".<sup id="cite_ref-L297_3-2" class="reference"><a href="#cite_note-L297-3">[3]</a></sup><sup id="cite_ref-MB2257_15-0" class="reference"><a href="#cite_note-MB2257-15">[15]</a></sup> [John D. Rateliff](../J/John_D._Rateliff.md) đã nhận xét thêm rằng Wargs của Tolkien có thể có ảnh hưởng đến thế giới việc tạo ra những con thú giống sói <i><a class="extiw" href="http://en.wikipedia.org/wiki/Worg_(Dungeons_%26_Dragons)" title="wikipedia:Worg (Dungeons &amp; Dragons)">worgs</a></i> trong văn học sau này liên quan đến [Dungeons & Dragons](../D/Dungeons_and_Dragons.md) và trong các thế giới giả tưởng khác.<sup id="cite_ref-MB2257_15-1" class="reference"><a href="#cite_note-MB2257-15">[15]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-### Warg trong các bản chuyển thể {#Wargs_in_adaptations}
+### Wargs trong các bản chuyển thể {#Wargs_in_adaptations}
 
 <ul class="gallery mw-gallery-traditional">
 		<li class="gallerybox" style="width: 285px">
@@ -192,49 +192,49 @@ Tolkien cũng lưu ý rằng [Gene Wolfe](../G/Gene_Wolfe.md), một trong nhữ
 
 ### Đài phát thanh {#Radio}
 
-<b>1968: <a href="../T/The_Hobbit_(1968_radio_series).md" title="The Hobbit (1968 radio series)"><i>The Hobbit</i> (loạt phim phát thanh 1968)</a>:</b>
+<b>1968: <a href="../T/The_Hobbit_(1968_radio_series).md" title="The Hobbit (1968 radio series)"><i>Người Hobbit</i> (loạt phim phát thanh năm 1968)</a>:</b>
 
 <dl><dd>The Wargs are given fully-voiced dialogue in English, though it&#39;s unclear if it&#39;s meant to be <a href="Westron.md" title="Westron">Westron</a>, or their own language translated for the audience&#39;s sake.</dd></dl>
 
 ### Phim {#Films}
 
-<b>1977: <a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>The Hobbit</i> (phim 1977)</a>:</b>
+<b>1977: <a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>Người Hobbit</i> (phim 1977)</a>:</b>
 
 <dl><dd>Wargs are seen as large wolves ridden by Goblins. They do not have a fear of fire.</dd></dl>
 
-<b>2001-03: <a href="../T/The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings</i> (loạt phim)</a>:</b>
+<b>2001-03: <a href="../T/The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>Chúa tể của những chiếc nhẫn</i> (loạt phim)</a>:</b>
 
 <dl><dd>Wargs appear during the film as cavalry mounted by Orcs and attack Rohan&#39;s people en route to <a href="../H/Helm&#39;s_Deep.md" title="Helm&#39;s Deep">Helm&#39;s Deep</a>; they are also seen throughout the siege of <a href="../M/Minas_Tirith.md" title="Minas Tirith">Minas Tirith</a> among Sauron&#39;s forces, and one is ridden by <a href="../G/Gothmog_(Lieutenant_of_Morgul).md" title="Gothmog (Lieutenant of Morgul)">Gothmog</a>. Rather than being depicted as just demonic wolves as described by Tolkien, the Wargs shown here are comparable in size to horses and seem to superficially resemble hyenas more so than wolves. They are heavily built, with broad, boxy skulls with eyes placed very close to the snout, and thick manes on their necks. They have rather stout limbs and short tails.</dd></dl>
 
-<b>2012-14: <a href="../T/The_Hobbit_(film_series).md" title="The Hobbit (film series)"><i>The Hobbit</i> (loạt phim)</a>:</b>
+<b>2012-14: <a href="../T/The_Hobbit_(film_series).md" title="The Hobbit (film series)"><i>Người Hobbit</i> (loạt phim)</a>:</b>
 
 <dl><dd>The Wargs are visually more wolf-like than in the preceding <a href="../T/The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings</i> films</a>; their builds are overall more slender, with longer limbs and slimmer skulls. Their eyes notably have slit pupils. They are mentioned to be from <a href="../G/Gundabad.md" title="Gundabad">Gundabad</a> and are ridden by <a href="../O/Orcs.md" title="Orcs">Orcs</a> under <a href="../A/Azog.md" title="Azog">Azog</a> who hunt Thorin and Co. Azog himself rides an enormous <a class="mw-redirect" href="Warg_Matriarch.md" title="Warg Matriarch">white-haired Warg</a>.</dd></dl>
 
 ### Loạt phim {#Series}
 
-<b>2022: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Lord of the Rings: The Rings of Power</a></i>:</b>
+<b>2022: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">Chúa tể của những chiếc nhẫn: Những chiếc nhẫn quyền lực</a></i>:</b>
 
 <dl><dd>A Warg is set upon <a href="../A/Arondir.md" title="Arondir">Arondir</a> and the other members of a rebellion in an Orc labour camp in <i><a href="../A/Adar_(episode).md" title="Adar (episode)">Adar</a></i>. Wargs are seen in the same camp, caged, in <i><a href="../T/The_Great_Wave.md" title="The Great Wave">The Great Wave</a></i></dd></dl>
 
 ### Trò chơi {#Games}
 
-<b>1982-1997: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>:</b>
+<b>1982-1997: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Nhập vai Trung Địa</a></i>:</b>
 
 <dl><dd>Classified as Undead Beings, the Wargs are said to be bred from cursed wolves, inhabited by an evil spirit, &#34;<i>being artificially long-lived</i>&#34;, and that their &#34;<i>body dissipates when slain</i>&#34;. The Wargs are described as being larger, fiercer, and more intelligent than normal wolves.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup><sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup></dd></dl>
 
-<b>1995-8: <i><a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Trung Địa Trò chơi bài sưu tầm</a></i>:</b>
+<b>1995-8: <i><a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Trò chơi thẻ bài sưu tầm ở Trung Địa</a></i>:</b>
 
 <dl><dd>Wargs are a Hazard Creature. Different factions of Wargs are the <i>Wargs of the Forochel</i> and the <i>Misty Mountain Wargs</i>, and related minions are the <i>War-warg</i> and <i>The Warg-king</i>.</dd></dl>
 
-<b>2002: <a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md" title="The Lord of the Rings: The Fellowship of the Ring (video game)"><i>The Lord of the Rings: The Fellowship of the Ring</i> (trò chơi điện tử)</a>:</b>
+<b>2002: <a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md" title="The Lord of the Rings: The Fellowship of the Ring (video game)"><i>Chúa tể của những chiếc nhẫn: Hiệp hội những chiếc nhẫn</i> (trò chơi điện tử)</a>:</b>
 
 <dl><dd>Wargs are taller and darker than regular wolves, but due to the progression in the game, pose less of a threat; whereas wolves are only encountered by a stick-wielding <a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo</a>, wargs appear only in levels in which the player is <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> or <a href="../A/Aragorn.md" title="Aragorn">Aragorn</a>.</dd></dl>
 
-<b>2003: <a href="../T/The_Hobbit_(2003_video_game).md" title="The Hobbit (2003 video game)"><i>The Hobbit</i> (trò chơi điện tử năm 2003)</a>:</b>
+<b>2003: <a href="../T/The_Hobbit_(2003_video_game).md" title="The Hobbit (2003 video game)"><i>Người Hobbit</i> (trò chơi điện tử năm 2003)</a>:</b>
 
 <dl><dd>Wargs are portrayed as large wolves. They only appear in cutscenes, and are non-fightable.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
 
 <dl><dd>Wargs, including Wargs ridden by <a href="../O/Orcs.md" title="Orcs">Orcs and Goblins</a>, are a common enemy found throughout the game. &#34;Warg Stalkers&#34; are one of the Monster Player classes available for Player versus Monster Player combat in the <a href="../E/Ettenmoors.md" title="Ettenmoors">Ettenmoors</a>. Monster Player Wargs rely on stealth to ambush players, and some computer-controlled Wargs also demonstrate this ability.</dd></dl>
 
@@ -242,7 +242,7 @@ Tolkien cũng lưu ý rằng [Gene Wolfe](../G/Gene_Wolfe.md), một trong nhữ
 
 ## Xem thêm {#See_also}
 
-- [Hình ảnh của Warg](../../category/I/Images_of_Wargs.md)
+- [Hình ảnh của Wargs](../../category/I/Images_of_Wargs.md)
 
 <span></span>
 

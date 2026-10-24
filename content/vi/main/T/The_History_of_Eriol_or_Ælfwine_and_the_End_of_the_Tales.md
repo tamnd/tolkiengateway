@@ -41,4 +41,4 @@ images:
 <li><a class="mw-selflink selflink">The History of Eriol or Ælfwine</a></li></ol>
 </td></tr></tbody></table>
 
-**Lịch sử của Eriol hay Ælfwine và Cái kết của những câu chuyện** là chương thứ sáu của *[The Book of Lost Tales Part Two](The_Book_of_Lost_Tales_Part_Two.md)*.
+**Lịch sử của Eriol hay Ælfwine và cái kết của những câu chuyện** là chương thứ sáu của *[The Book of Lost Tales Part Two](The_Book_of_Lost_Tales_Part_Two.md)*.

@@ -35,19 +35,19 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a class="extiw" href="http://en.wikipedia.org/wiki/Celtic_Britons" title="wikipedia:Celtic Britons">Briton</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Éadgifu</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a class="mw-redirect" href="../L/Lionesse.md" title="Lionesse">Lionesse</a><br/><a href="../K/Kortirion.md#Other_versions_of_the_legendarium" title="Kortirion">Kortirion</a></td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data"><i>Presumably</i> <a href="../O/Old_English.md" title="Old English">Old English</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">Spouse</th><td class="tg-infobox-data"><a href="../D/Déor_(father_of_Ælfwine).md" title="Déor (father of Ælfwine)">Déor</a></td></tr><tr><th scope="row" class="tg-infobox-label">Children</th><td class="tg-infobox-data"><a href="Ælfwine.md" title="Ælfwine">Ælfwine</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Female</td></tr></tbody></table>
 
-**Éadgifu** là mẹ của [Ælfwine](Ælfwine.md), người mà anh đã nghe những câu chuyện về "các hòn đảo của <a class="mw-redirect mw-disambig" href="../W/West.md" title="West">Phương Tây</a>",<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) trong văn bản có tên *[Ælfwine of England](Ælfwine_of_England.md)* từ *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.<sup id="cite_ref-Eng_2-0" class="reference"><a href="#cite_note-Eng-2">[2]</a></sup>
+**Éadgifu** là mẹ của [Ælfwine](Ælfwine.md), người mà ông đã nghe những câu chuyện về "các hòn đảo ở <a class="mw-redirect mw-disambig" href="../W/West.md" title="West">Tây</a>",<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) trong văn bản có tên *[Ælfwine of England](Ælfwine_of_England.md)* từ *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.<sup id="cite_ref-Eng_2-0" class="reference"><a href="#cite_note-Eng-2">[2]</a></sup>
 
 ## Lịch sử {#History}
 
 Éadgifu was born in [Lionesse](../L/Lionesse.md), a region of [Lúthien](../L/Luthany.md), and was called as such by [Déor](<../D/Déor_(father_of_Ælfwine).md>) her husband - even though that was not her original name.
 
-Bà có niềm khao khát biển cả không thể nguôi khi sống ở thành phố nội địa [Kortirion](../K/Kortirion.md#Other_versions_of_the_legendarium)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 1]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup> cùng với Déor, một đặc điểm được con trai bà Ælfwine thừa hưởng. [Tiên tộc](../E/Elves.md) của Lionesse, người mà cô rất thân thiện, đã gửi sứ giả tới dự lễ sinh của anh ấy, có lẽ là để chúc mừng.
+Cô có niềm khao khát biển cả không thể nguôi khi cô sống ở thành phố nội địa [Kortirion](../K/Kortirion.md#Other_versions_of_the_legendarium)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 1]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup> với Déor, một đặc điểm được con trai cô Ælfwine thừa hưởng. Các [Yêu tinh](../E/Elves.md) của Lionesse, những người mà cô rất thân thiết, đã gửi sứ giả đến dự lễ sinh của anh, có lẽ là để chúc mừng.
 
-Éadgifu chết trong cuộc bao vây Kortirion của <a class="new" href="https://tolkiengateway.net/w/index.php?title=Forodwaith_(The_Book_of_Lost_Tales)&amp;action=edit&amp;redlink=1" title="Forodwaith (The Book of Lost Tales) (page does not exist)">Forodwaith</a> (tức là <a class="extiw" href="http://en.wikipedia.org/wiki/Vikings" title="wikipedia:Vikings">Người Viking</a>), và "hình dáng công bằng của cô ấy không được tôn vinh ở [Mindon Gwar](../M/Mindon_Gwar.md)".<sup id="cite_ref-Eng_2-1" class="reference"><a href="#cite_note-Eng-2">[2]</a></sup>
+Éadgifu chết trong cuộc vây hãm Kortirion bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=Forodwaith_(The_Book_of_Lost_Tales)&amp;action=edit&amp;redlink=1" title="Forodwaith (The Book of Lost Tales) (page does not exist)">Forodwaith</a> (tức là <a class="extiw" href="http://en.wikipedia.org/wiki/Vikings" title="wikipedia:Vikings">Người Viking</a>), và "hình dáng công bằng của bà không được tôn vinh ở [Mindon Gwar](../M/Mindon_Gwar.md)".<sup id="cite_ref-Eng_2-1" class="reference"><a href="#cite_note-Eng-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Tên *Éadgifu* nằm trong [tiếng Anh cổ](../O/Old_English.md), bao gồm *éad* ("phước lành") + *gifu* ("quà tặng").<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup>
+Tên *Éadgifu* bằng [tiếng Anh cổ](../O/Old_English.md), bao gồm *éad* ("may mắn") + *gifu* ("quà tặng").<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup>
 
 ## Phả hệ {#Genealogy}
 
@@ -59,12 +59,12 @@ Tên *Éadgifu* nằm trong [tiếng Anh cổ](../O/Old_English.md), bao gồm *
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong văn bản trước đó từ *The Book of Lost Tales*, *Éadgifu* là tên tiếng Anh cổ của [Naimi](../N/Naimi.md), vợ Tiên của [Eriol](../E/Eriol.md).<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[5]</a></sup>
+Trong văn bản trước đó từ *The Book of Lost Tales*, *Éadgifu* là tên tiếng Anh cổ của [Naimi](../N/Naimi.md), vợ Yêu tinh của [Eriol](../E/Eriol.md).<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[5]</a></sup>
 
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Kortirion là <a href="../Q/Qenya.md" title="Qenya">Elvish</a> tên của thị trấn <a class="extiw" href="http://en.wikipedia.org/wiki/Warwick" title="wikipedia:Warwick">Warwick</a>.</span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Kortirion là tên <a href="../Q/Qenya.md" title="Qenya">Elvish</a> của thị trấn <a class="extiw" href="http://en.wikipedia.org/wiki/Warwick" title="wikipedia:Warwick">Warwick</a>.</span>
 </li>
 </ol></div></span>
 

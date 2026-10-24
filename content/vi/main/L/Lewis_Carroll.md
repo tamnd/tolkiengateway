@@ -24,14 +24,14 @@ sort_keys:
 
 ### *The Hobbit* nhận xét về áo khoác {#The_Hobbit_jacket_remarks}
 
-Carroll đã xuất bản hai cuốn sách hiện được coi là kinh điển giả tưởng, *Alice's Adventures in Wonderland* (1865) và *Through the Looking-Glass* (1871). Chia sẻ quyền sở hữu tại Oxford và quyền tác giả của truyện giả tưởng, [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã được một số người đánh giá ban đầu về *[The Hobbit](../T/The_Hobbit.md)* và *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*vội vàng so sánh với Carroll.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Những người đánh giá *The Hobbit* so sánh nó với các câu chuyện *Alice*, dường như đã "dựa quá nhiều vào lời giới thiệu của nhà xuất bản",<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> trong đó tuyên bố rằng:
+Carroll published two books now deemed as fantasy classics, *Alice's Adventures in Wonderland* (1865) and *Through the Looking-Glass* (1871). Sharing tenure at Oxford and authorship of fantasy, [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) was hastily compared with Carroll by some early reviewers of *[The Hobbit](../T/The_Hobbit.md)* and *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> The reviewers of *The Hobbit* comparing it to the *Alice* stories, appear to have "relied overmuch on the publisher's blurb",<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> which stated that:
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
 <p>The birth of <i>The Hobbit</i> recalls very strongly that of <i>Alice in Wonderland</i>. Here again a professor of an abstruse subject is at play.<sup id="cite_ref-L15_3-0" class="reference"><a href="#cite_note-L15-3">[3]</a></sup>
 </p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-Tolkien đưa ra nhận xét về "chủ đề khó hiểu" và so sánh với *Alice in Wonderland* trong [Thư 15](Letter_15.md) của mình. Về điểm thứ hai, Tolkien viết rằng *The Hobbit* "có thể so sánh với tác phẩm nhiếp ảnh nghiệp dư của Dodgson và bài hát về sự thất bại của Hiawatha<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[note 1]</a></sup> hơn là với *Alice*". Tuy nhiên, ông thừa nhận rằng "lời khen dành cho *The Hobbit* là khá cao" và, nếu sự so sánh được duy trì, thì *Through the Looking-Glass* của Carroll "nên được nhắc đến" vì nó "gần hơn nhiều về mọi mặt".<sup id="cite_ref-L15_3-1" class="reference"><a href="#cite_note-L15-3">[3]</a></sup>
+Tolkien đưa ra nhận xét về "chủ đề khó hiểu" và sự so sánh với *Alice in Wonderland* trong [Thư 15](Letter_15.md) của ông. Về điểm thứ hai, Tolkien viết rằng *The Hobbit* "có thể so sánh với tác phẩm nhiếp ảnh nghiệp dư của Dodgson và bài hát về sự thất bại của Hiawatha<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[note 1]</a></sup> hơn là với *Alice*". Tuy nhiên, ông thừa nhận rằng "lời khen dành cho *The Hobbit* là khá cao" và, nếu sự so sánh được duy trì, thì *Through the Looking-Glass* của Carroll "nên được nhắc đến" vì nó "gần hơn nhiều về mọi mặt".<sup id="cite_ref-L15_3-1" class="reference"><a href="#cite_note-L15-3">[3]</a></sup>
 
 ### Về truyện cổ tích {#On_Fairy-Stories}
 
@@ -39,7 +39,7 @@ At the beginning of his essay *[On Fairy-Stories](../O/On_Fairy-Stories.md)*, To
 
 ### Các đề cập khác {#Other_mentions}
 
-Làm việc cho *[Oxford English Dictionary](../O/Oxford_English_Dictionary.md)*, Tolkien đã đề xuất "*để bổ sung trong tương lai... ít nhất hãy trích dẫn* <a class="extiw" href="http://en.wikipedia.org/wiki/Sylvie_and_Bruno" title="wikipedia:Sylvie and Bruno">Sylvie và Bruno</a> *của Lewis Carroll, minh họa từ nhếch mép*".<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[6]</a></sup>
+Làm việc cho *[Oxford English Dictionary](../O/Oxford_English_Dictionary.md)*, Tolkien đề xuất "*để bổ sung trong tương lai... ít nhất hãy trích dẫn* <a class="extiw" href="http://en.wikipedia.org/wiki/Sylvie_and_Bruno" title="wikipedia:Sylvie and Bruno">Sylvie và Bruno</a> *của Lewis Carroll, minh họa từ nhếch mép*".<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[6]</a></sup>
 
 [Christina Scull](../C/Christina_Scull.md) và [Wayne G. Hammond](../W/Wayne_G._Hammond.md) đã lưu ý rằng Tolkien:
 
@@ -50,9 +50,9 @@ Làm việc cho *[Oxford English Dictionary](../O/Oxford_English_Dictionary.md)*
 
 Bạn của Tolkien [Roger Lancelyn Green](../R/Roger_Lancelyn_Green.md) là người sáng lập Hiệp hội Lewis Carroll, đồng thời biên tập và viết lời giới thiệu cho *The Works of Lewis Carroll* (1965).
 
-[John D. Rateliff](../J/John_D._Rateliff.md) đã gợi ý rằng việc Tolkien tạo ra từ [*ishness*](../T/The_Book_of_Ishness.md) có thể được lấy cảm hứng từ một đoạn văn trong chương 7 của *Alice's Adventures in Wonderland*: "bạn đã bao giờ nhìn thấy một vật như một bản vẽ của cái gì đó lớn lao chưa!".<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[8]</a></sup>
+[John D. Rateliff](../J/John_D._Rateliff.md) đã gợi ý rằng việc Tolkien tạo ra từ [*ishness*](../T/The_Book_of_Ishness.md) có thể được lấy cảm hứng từ một đoạn văn trong chương 7 của *Alice's Adventures in Wonderland*: "bạn đã bao giờ nhìn thấy một vật như một hình vẽ của một cái gì đó lớn lao chưa!".<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[8]</a></sup>
 
-Tolkien đã từng viết một bản dịch <a class="extiw" href="http://en.wikipedia.org/wiki/Jabberwocky" title="wikipedia:Jabberwocky">Jabberwocky</a> sang [tiếng Anh cổ](../O/Old_English.md) mà anh ấy đặt tên là *[Bealuwérig](../B/Bealuwérig.md)*.<sup id="cite_ref-collectedpoems_10-0" class="reference"><a href="#cite_note-collectedpoems-10">[9]</a></sup>
+Tolkien đã từng viết một bản dịch <a class="extiw" href="http://en.wikipedia.org/wiki/Jabberwocky" title="wikipedia:Jabberwocky">Jabberwocky</a> sang [tiếng Anh cổ](../O/Old_English.md) mà ông đặt tên là *[Bealuwérig](../B/Bealuwérig.md)*.<sup id="cite_ref-collectedpoems_10-0" class="reference"><a href="#cite_note-collectedpoems-10">[9]</a></sup>
 
 ## Liên kết ngoài {#External_links}
 

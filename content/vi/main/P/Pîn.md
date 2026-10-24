@@ -15,7 +15,7 @@ sort_keys:
   "Sindarin adjectives": "Pin"
 ---
 
-<i><b>pîn</b></i> là từ [Sindarin](../S/Sindarin.md) có nghĩa là "nhỏ".<sup id="cite_ref-N_1-0" class="reference"><a href="#cite_note-N-1">[1]</a></sup><sup id="cite_ref-DW_2-0" class="reference"><a href="#cite_note-DW-2">[2]</a></sup>
+<i><b>pîn</b></i> là từ [tiếng Sindarin](../S/Sindarin.md) có nghĩa là "nhỏ".<sup id="cite_ref-N_1-0" class="reference"><a href="#cite_note-N-1">[1]</a></sup><sup id="cite_ref-DW_2-0" class="reference"><a href="#cite_note-DW-2">[2]</a></sup>
 
 ## Ví dụ {#Examples}
 

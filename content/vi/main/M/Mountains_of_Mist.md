@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Misty Mountains"
 ---
 
-Chuyển hướng đến [Dãy Núi Sương Mù](Misty_Mountains.md).
+Chuyển hướng đến [Dãy núi mù sương](Misty_Mountains.md).

@@ -32,11 +32,11 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Scholar_storyteller.gif.md"><img src="https://tolkiengateway.net/w/images/thumb/4/46/Scholar_storyteller.gif/314px-Scholar_storyteller.gif" decoding="async" loading="lazy" width="314" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/4/46/Scholar_storyteller.gif 1.5x" data-file-width="327" data-file-height="500"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>J.R.R. Tolkien, Scholar and Storyteller: Essays in Memoriam</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data">Edited by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Mary_Salu&amp;action=edit&amp;redlink=1" title="Mary Salu (page does not exist)">Mary Salu</a> and <a class="new" href="https://tolkiengateway.net/w/index.php?title=Robert_T._Farrell&amp;action=edit&amp;redlink=1" title="Robert T. Farrell (page does not exist)">Robert T. Farrell</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Ithaca/London: Cornell University Press</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/31_March.md" title="31 March">31 March</a> <a href="../_/1979.md" title="1979">1979</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Hardback in dust-jacket</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/080141038X" title="Special:BookSources/080141038X">080141038X</a></td></tr></tbody></table>
 
-<i><b>J.R.R. Tolkien, Học giả và Người kể chuyện: Những bài tiểu luận trong Tưởng nhớ</b></i> là một tuyển tập được xuất bản để tri ân [J.R.R. Tolkien](J.R.R._Tolkien.md) - vừa là một học giả vừa là một tác giả. 1.560 bản đã được in.
+<i><b>J.R.R. Tolkien, Học giả và Người kể chuyện: Những bài luận trong Tưởng nhớ</b></i> là một tuyển tập được xuất bản để tri ân [J.R.R. Tolkien](J.R.R._Tolkien.md) - vừa là một học giả vừa là một tác giả. 1.560 bản đã được in.
 
-Nó bao gồm [Địa chỉ thủ khoa tới Đại học Oxford](../V/Valedictory_Address_to_the_University_of_Oxford.md) của Tolkien(trang 16–32). Cũng bao gồm:
+Nó bao gồm [Diễn văn tốt nghiệp tại Đại học Oxford](../V/Valedictory_Address_to_the_University_of_Oxford.md) của Tolkien (trang 16–32). Cũng bao gồm:
 
-- *Giáo sư J.R.R. Tolkien: Người tạo ra Hobbit và người phát minh ra thần thoại mới* - cáo phó của Tolkien, in trên The Times, 3 tháng Chín 1973.
+- *Giáo sư J.R.R. Tolkien: Người tạo ra người Hobbit và người phát minh ra một thần thoại mới* - Thông báo cáo phó của Tolkien, được in trên tờ The Times, ngày 3 tháng 9 năm 1973.
 - *The Man and the Scholar* - Hồi tưởng của [S.T.R.O. d'Ardenne](../S/S.T.R.O._d'Ardenne.md).
 - *Danh sách các bài viết đã xuất bản của J.R.R. Tolkien* - Biên soạn bởi [Humphrey Carpenter](../H/Humphrey_Carpenter.md).
 
@@ -44,11 +44,11 @@ Nó bao gồm [Địa chỉ thủ khoa tới Đại học Oxford](../V/Valedicto
 
 - PHẦN MỘT
     - "Giáo sư J.R.R. Tolkien" (từ *The Times*)
-    - "Địa chỉ thủ khoa tới Đại học Oxford" của ​[J.R.R. Tolkien](J.R.R._Tolkien.md)
+    - "Bài phát biểu tại trường Đại học Oxford" của ​[J.R.R. Tolkien](J.R.R._Tolkien.md)
     - "Người đàn ông và học giả"​ của S.T.R.O. d'Ardenne
 
 - PHẦN HAI
-    - "Beowulf Dòng 3074- 3075" của [A.J. Bliss](../A/A.J._Bliss.md)
+    - "Dòng Beowulf 3074- 3075" của [A.J. Bliss](../A/A.J._Bliss.md)
     - "Nguồn tiếng Anh của Lazamon" của P.J. Frankis
     - "Chúa, cái chết và lòng trung thành trong *The Battle of Maldon*" của​ Fred C. Robinson
     - "Geoweorpa: 'Từng được coi trọng'" của​ E.G. Stanley
@@ -63,7 +63,7 @@ Nó bao gồm [Địa chỉ thủ khoa tới Đại học Oxford](../V/Valedicto
     - "*The Lord of the Rings* lãng mạn" của​ Derek S. Brewer
     - "Phúc Âm Trung Địa Theo J.R.R. Tolkien" của​ William Dowie
     - "Sáng tạo từ Ngữ văn trong *The Lord of the Rings*" của​ [T.A. Shippey](../T/T.A._Shippey.md)
-    - "Danh sách các bài viết đã xuất bản của J.R.R. Tolkien" của ​[Humphrey Carpenter](../H/Humphrey_Carpenter.md)
+    - "Danh sách các tác phẩm đã xuất bản của J.R.R. Tolkien" của ​[Humphrey Carpenter](../H/Humphrey_Carpenter.md)
 
 ## Liên kết ngoài {#External_links}
 

@@ -13,7 +13,7 @@ categories:
   - "Sindarin nouns"
 ---
 
-<i><b>barad</b></i> là [Sindarin](../S/Sindarin.md) nghĩa là "tháp, pháo đài".<sup id="cite_ref-LR_1-0" class="reference"><a href="#cite_note-LR-1">[1]</a></sup> Số nhiều là <i><b>beraid</b></i>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+<i><b>barad</b></i> là [Sindarin](../S/Sindarin.md) có nghĩa là "tháp, pháo đài".<sup id="cite_ref-LR_1-0" class="reference"><a href="#cite_note-LR-1">[1]</a></sup> Số nhiều là <i><b>beraid</b></i>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -21,8 +21,8 @@ categories:
 
 ## Ví dụ {#Examples}
 
-- <i><a href="Barad-dûr.md" title="Barad-dûr"><b>Barad</b>-dûr</a></i> = "Tòa Tháp Bóng Tối"
-- <i><a class="mw-redirect" href="../E/Emyn_Beraid.md" title="Emyn Beraid">Emyn <b>Beraid</b></a></i> = "Đồi Tháp"
+- <i><a href="Barad-dûr.md" title="Barad-dûr"><b>Barad</b>-dûr</a></i> = "Tháp tối"
+- <i><a class="mw-redirect" href="../E/Emyn_Beraid.md" title="Emyn Beraid">Emyn <b>Beraid</b></a></i> = "Tower Hills"
 
 ## Xem thêm {#See_also}
 

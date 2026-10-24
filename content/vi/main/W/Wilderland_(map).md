@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Map of Wilderland"
 ---
 
-Chuyển hướng đến [Bản đồ Wilderland](../M/Map_of_Wilderland.md).
+Chuyển hướng đến [Bản đồ vùng đất hoang dã](../M/Map_of_Wilderland.md).

@@ -28,7 +28,7 @@ infobox:
 
 <i><b>Sách và Bản thảo Thế kỷ 20 của Christie's Ngày 2 tháng 12 năm 2003</b></i> là một danh mục đấu giá của Christie's. Nó bao gồm các lô liên quan đến Tolkien sau:<sup id="cite_ref-TB_1-0" class="reference"><a href="#cite_note-TB-1">[1]</a></sup><sup id="cite_ref-CG_2-0" class="reference"><a href="#cite_note-CG-2">[2]</a></sup>
 
-- Lô 36 (tr. 24): - Thư gửi [Jennifer Brookes-Smith (26 tháng Chín 1947)](<../L/Letter_to_Jennifer_Brookes-Smith_(26_September_1947).md>). Một trang của bức thư được sao chép trong một bức ảnh.
+- Lô 36 (tr. 24): - Thư gửi [Jennifer Brookes-Smith (26 tháng 9 năm 1947)](<../L/Letter_to_Jennifer_Brookes-Smith_(26_September_1947).md>). Một trang của bức thư được sao chép trong một bức ảnh.
 - Lô 37 (tr. 25): Thư gửi [Jennifer Brookes-Smith (28 tháng 7 năm 1955)](<../L/Letter_to_Jennifer_Brookes-Smith_(28_July_1955).md>).
 - Lô 38 (trang 25–6): Thư gửi [Jane Neave (15 tháng 11 năm 1961)](<../L/Letter_to_Jane_Neave_(15_November_1961).md>). Trang đầu tiên của bức thư được sao chép trong một bức ảnh.
 - Lô 39 (tr. 26): Lô này bao gồm một bản đánh máy của bài thơ [Princess Mee](../L/Little_Princess_Mee.md), cùng với [Thư 234](../L/Letter_234.md).

@@ -15,7 +15,7 @@ hidden_categories:
   - "Pages with short description"
 ---
 
-<i><b>I Sat Upon a Bench</b></i> là một bài hát được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), được hát theo giai điệu của *The Carrion Crow*. Nó được xuất bản dưới dạng bài hát thứ 19 trong *[Songs for the Philologists](../S/Songs_for_the_Philologists.md)* trong [1936](../_/1936.md).
+<i><b>I Sat Upon a Bench</b></i> là bài hát được sáng tác bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), được hát theo giai điệu của *The Carrion Crow*. Nó được xuất bản dưới dạng bài hát thứ 19 trong *[Songs for the Philologists](../S/Songs_for_the_Philologists.md)* trong [1936](../_/1936.md).
 
 ## Trích đoạn thơ {#Poem_excerpt}
 

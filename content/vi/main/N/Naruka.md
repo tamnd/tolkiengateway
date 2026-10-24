@@ -13,7 +13,7 @@ categories:
   - "Khuzdul words"
 ---
 
-<i><b>naruka</b></i> là một từ [Khuzdul](../K/Khuzdul.md) không rõ nghĩa, có lúc được nêu ra về nguồn gốc có thể có của tên sông *[Narog](Narog.md)*. Từ *naruka* có lẽ ban đầu là tên Khuzdul của [Người lùn Nhỏ](../P/Petty-dwarves.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>naruka</b></i> là một từ [Khuzdul](../K/Khuzdul.md) không rõ nghĩa, có lúc được nêu ra về nguồn gốc có thể có của tên sông *[Narog](Narog.md)*. Từ *naruka* có lẽ ban đầu là tên Khuzdul của [Những người lùn nhỏ](../P/Petty-dwarves.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}
 

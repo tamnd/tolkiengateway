@@ -23,7 +23,7 @@ langlinks:
     url: "https://kontu.wiki/Paul_Strack"
 ---
 
-**Paul Strack** là nhà ngôn ngữ học Tolkien tính toán. Anh ấy là người tạo ra *[Eldamo](../E/Eldamo.md)*, Mô hình Dữ liệu Elvish, được ra mắt vào năm 2008, là từ vựng của tất cả các ngôn ngữ được phát minh bởi Tolkien.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Paul Strack** là nhà ngôn ngữ học máy tính Tolkien. Ông là người tạo ra *[Eldamo](../E/Eldamo.md)*, Mô hình Dữ liệu Elvish, được ra mắt vào năm 2008, là từ vựng của tất cả các ngôn ngữ được Tolkien phát minh ra.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Liên kết ngoài {#External_links}
 

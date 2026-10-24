@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Kôr"
 ---
 
-Chuyển hướng đến [Kôr](Kôr.md).
+Chuyển hướng tới [Kôr](Kôr.md).

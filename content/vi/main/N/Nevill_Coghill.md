@@ -27,7 +27,7 @@ langlinks:
 
 **Nevill Henry Kendal Aylmer Coghill** ([19 tháng 4](../_/19_April.md) [1899](../_/1899.md)-[6 tháng 11](../_/6_November.md) [1980](../_/1980.md)) là bạn đồng hành [Inkling](../I/Inklings.md) với [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Ông đã xuất bản bản dịch nổi tiếng của *Canterbury Tales*.
 
-Ngay sau khi xuất bản *[Fellowship of the Ring](../F/Fellowship_of_the_Ring.md)*, Coghill đã viết thư cho Tolkien yêu cầu một số lời giải thích về câu chuyện; Tolkien [đã trả lời trong một lá thư](../L/Letter_to_Nevill_Coghill.md) ([21 tháng 8](../_/21_August.md) [1954](../_/1954.md)) rằng nên để lại một số thứ cho đến khi các tập sau của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* xuất hiện.
+Ngay sau khi xuất bản *[Fellowship of the Ring](../F/Fellowship_of_the_Ring.md)*, Coghill đã viết thư cho Tolkien để yêu cầu giải thích một số câu chuyện; Tolkien [đã trả lời trong một lá thư](../L/Letter_to_Nevill_Coghill.md) ([21 tháng 8](../_/21_August.md) [1954](../_/1954.md)) rằng nên để lại một số thứ cho đến khi các tập sau của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* xuất hiện.
 
 ## Thư mục, đã chọn {#Bibliography,_selected}
 

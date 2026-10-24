@@ -26,11 +26,11 @@ langlinks:
     url: "https://kontu.wiki/Carnil"
 ---
 
-**Carnil** là một ngôi sao màu đỏ tươi<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> được tạo ra bởi [Varda](../V/Varda.md) để chuẩn bị cho sự xuất hiện của [Tiên tộc](../E/Elves.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Trên thực tế, "ngôi sao" này là hành tinh <a class="extiw" href="http://en.wikipedia.org/wiki/Mars" title="wikipedia:Mars">Sao Hỏa</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+**Carnil** là một ngôi sao màu đỏ tươi<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> được tạo ra bởi [Varda](../V/Varda.md) để chuẩn bị cho sự xuất hiện của [Yêu tinh](../E/Elves.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Thực ra, "ngôi sao" này là hành tinh <a class="extiw" href="http://en.wikipedia.org/wiki/Mars" title="wikipedia:Mars">Sao Hỏa</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Carnil* có lẽ là [Quenya](../Q/Quenya.md) dành cho "Sao Đỏ", bởi Paul Strack giải thích, là sự kết hợp của *[carnë](Carnë.md)* ("đỏ") + *[el](../E/El.md)* ("ngôi sao").<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> <span></span>
+*Carnil* có lẽ là [Quenya](../Q/Quenya.md) cho "Sao Đỏ", theo giải thích của Paul Strack, là từ ghép của *[carnë](Carnë.md)* ("đỏ") + *[el](../E/El.md)* ("ngôi sao").<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

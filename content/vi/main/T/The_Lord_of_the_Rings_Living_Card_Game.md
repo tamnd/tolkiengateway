@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lord of the Rings: The Card Game"
 ---
 
-Chuyển hướng đến [The Lord of the Rings: Trò chơi bài](The_Lord_of_the_Rings%253A_The_Card_Game.md).
+Chuyển hướng đến [The Lord of the Rings: The Card Game](The_Lord_of_the_Rings%253A_The_Card_Game.md).

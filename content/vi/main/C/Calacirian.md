@@ -21,15 +21,15 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-**Calacirian** là vùng [Eldamar](../E/Eldamar.md) gần lối vào khe núi [Calacirya](Calacirya.md). Ngọn đồi [Túna](../T/Túna.md) đứng đó, với thành phố [Tirion](../T/Tirion.md) được xây dựng trên đó. Ánh sáng của [Hai Cây](../T/Two_Trees.md) là mạnh nhất trong tất cả các Eldamar.
+**Calacirian** là vùng [Eldamar](../E/Eldamar.md) gần lối vào khe núi [Calacirya](Calacirya.md). Ngọn đồi [Túna](../T/Túna.md) đứng đó, với thành phố [Tirion](../T/Tirion.md) được xây dựng trên đó. Ánh sáng của [Hai Cây](../T/Two_Trees.md) mạnh nhất ở Eldamar.
 
-Tên xuất hiện trong [Bilbo](../B/Bilbo_Baggins.md) *[Eärendillinwë](../E/Eärendillinwë.md)* trong [Rivendell](../R/Rivendell.md):<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-RGEO_2-0" class="reference"><a href="#cite_note-RGEO-2">[2]</a></sup>
+Tên xuất hiện trong [Bilbo's](../B/Bilbo_Baggins.md) *[Eärendillinwë](../E/Eärendillinwë.md)* ở [Rivendell](../R/Rivendell.md):<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-RGEO_2-0" class="reference"><a href="#cite_note-RGEO-2">[2]</a></sup>
 
 <dl><dd><i>and seven lights before him sent,<br/>as through the Calacirian<br/>to hidden land forlorn he went.</i></dd></dl>
 
 ## Từ nguyên {#Etymology}
 
-Tên [Quenya](../Q/Quenya.md) *Calacirian* là dạng đơn giản ("tiếng Anh hóa") của *Kalakiryan* (đầy đủ *Kalakiryandë*, bắt nguồn từ *Kalakirya*).<sup id="cite_ref-RGEO_2-1" class="reference"><a href="#cite_note-RGEO-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Tên [Quenya](../Q/Quenya.md) *Calacirian* là dạng đơn giản hóa ("tiếng Anh hóa") của *Kalakiryan* ( *Kalakiryandë* đầy đủ, bắt nguồn từ *Kalakirya*).<sup id="cite_ref-RGEO_2-1" class="reference"><a href="#cite_note-RGEO-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">See also: <a href="../_/-nd.md" title="-nd">-nd</a></div></div>
 

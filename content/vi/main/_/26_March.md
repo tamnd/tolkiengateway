@@ -64,12 +64,12 @@ Sự kiện xảy ra vào ngày 26 tháng 3.
 ## Trên Trái đất {#On_Earth}
 
 - **[1931](1931.md)** - [Leonard Nimoy](../L/Leonard_Nimoy.md), người sẽ đạt đến địa vị sùng bái với *[The Ballad of Bilbo Baggins](../T/The_Ballad_of_Bilbo_Baggins.md)*, đã ra đời.
-- **[1938](1938.md)** - "[Có điều kỳ diệu trong The Hobbit](../T/There's_magic_in_The_Hobbit.md)", quảng cáo của [Houghton Mifflin](../H/Houghton_Mifflin.md) cho *[The Hobbit](../T/The_Hobbit.md)*, được in trong *Publishers Weekly*.
+- **[1938](1938.md)** - "[Có điều kỳ diệu trong The Hobbit](../T/There's_magic_in_The_Hobbit.md)", [Quảng cáo của Houghton Mifflin](../H/Houghton_Mifflin.md) cho *[The Hobbit](../T/The_Hobbit.md)*, được in trên *Publishers Weekly*.
 - **[1954](1954.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 143d](../L/Letter_143d.md).
-- **[2011](2011.md)** - <a class="external text" href="http://3rdcome.org/" rel="noreferrer noopener" target="_blank">Hội nghị lần thứ 3 về Trung Địa</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Westford,_Massachusetts" title="wikipedia:Westford, Massachusetts">Westford, Massachusetts</a>.
+- **[2011](2011.md)** - <a class="external text" href="http://3rdcome.org/" rel="noreferrer noopener" target="_blank">Hội nghị lần thứ 3 về Trung Địa</a> ở <a class="extiw" href="http://en.wikipedia.org/wiki/Westford,_Massachusetts" title="wikipedia:Westford, Massachusetts">Westford, Massachusetts</a>.
 - **[2011](2011.md)** - Tác giả [Diana Wynne Jones](../D/Diana_Wynne_Jones.md) qua đời.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md), được cứu ra khỏi đám cháy, nghỉ ngơi tại [Ithilien](../I/Ithilien.md).
+    - [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md), được cứu ra khỏi đám cháy, nghỉ ngơi ở [Ithilien](../I/Ithilien.md).

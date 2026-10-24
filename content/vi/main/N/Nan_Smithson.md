@@ -12,7 +12,7 @@ categories:
   - "Smith of Wootton Major"
 ---
 
-**Nan Smithson** là con gái của [Smith Smithson](../S/Smith_Smithson.md), nhân vật chính của câu chuyện *[Smith of Wootton Major](../S/Smith_of_Wootton_Major.md)*và [Nell Smithson](Nell_Smithson.md). Khi lớn lên và kết hôn với <a class="new" href="https://tolkiengateway.net/w/index.php?title=Tom_Wright&amp;action=edit&amp;redlink=1" title="Tom Wright (page does not exist)">Tom Wright</a>, cô chuyển đến [Wootton Minor](../W/Wootton_Minor.md) và có một con trai tên [Tomling](../T/Tomling.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Nan Smithson** là con gái của [Smith Smithson](../S/Smith_Smithson.md), nhân vật chính của câu chuyện *[Smith of Wootton Major](../S/Smith_of_Wootton_Major.md)* và [Nell Smithson](Nell_Smithson.md). Khi lớn lên và kết hôn với <a class="new" href="https://tolkiengateway.net/w/index.php?title=Tom_Wright&amp;action=edit&amp;redlink=1" title="Tom Wright (page does not exist)">Tom Wright</a>, cô chuyển đến [Wootton Minor](../W/Wootton_Minor.md) và có một con trai tên [Tomling](../T/Tomling.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Phả hệ {#Genealogy}
 

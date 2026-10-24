@@ -66,7 +66,7 @@ Sự kiện xảy ra vào ngày 25 tháng 11
 ## Trên Trái đất {#On_Earth}
 
 - **[1926](1926.md)** - Tác giả người Mỹ [Poul Anderson](../P/Poul_Anderson.md) ra đời.
-- **[1936](1936.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) giảng bài "[Beowulf: Quái vật và những nhà phê bình](../B/Beowulf%253A_The_Monsters_and_the_Critics.md)" cho <a class="extiw" href="http://en.wikipedia.org/wiki/British_Academy" title="wikipedia:British Academy">Học viện Anh</a>.
+- **[1936](1936.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) giảng bài "[Beowulf: The Monsters and the Critics](../B/Beowulf%253A_The_Monsters_and_the_Critics.md)" tại <a class="extiw" href="http://en.wikipedia.org/wiki/British_Academy" title="wikipedia:British Academy">Học viện Anh</a>.
 - **[1951](1951.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một bức thư cho Iona và Peter Opie](../L/Letter_to_Iona_and_Peter_Opie.md).
 - **[1955](1955.md)** - Diễn viên [Bruce Hopkins](../B/Bruce_Hopkins.md) ra đời.
 - **[1969](1969.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 313](../L/Letter_313.md).
@@ -76,4 +76,4 @@ Sự kiện xảy ra vào ngày 25 tháng 11
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi ở [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).
+    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi tại [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).

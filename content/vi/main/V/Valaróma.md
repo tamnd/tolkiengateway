@@ -37,15 +37,15 @@ images:
 
 ## Lịch sử {#History}
 
-Khi mới định cư ở [Aman](../A/Aman.md), Oromë thường sử dụng Valaróma trong rừng [Yavanna](../Y/Yavanna.md) ở [Valinor](Valinor.md) để huấn luyện những người theo mình chống lại [Melkor](../M/Melkor.md). Người ta nói rằng Valaróma có thể được nghe thấy hơn tất cả những chiếc tù và khác, vì âm thanh của nó giống như tia chớp xé mây,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> vang vọng những ngọn núi, và buộc [những cái bóng](../S/Shadow.md) phải chạy trốn, thậm chí khiến [Melkor](../M/Melkor.md) phải khiếp sợ trong [Utumno](../U/Utumno.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Khi mới định cư ở [Aman](../A/Aman.md), Oromë thường sử dụng Valaróma trong rừng [Yavanna](../Y/Yavanna.md) ở [Valinor](Valinor.md) để huấn luyện những người theo mình chống lại [Melkor](../M/Melkor.md). Người ta nói rằng Valaróma có thể được nghe thấy hơn tất cả những chiếc tù và khác, vì âm thanh của nó giống như tia sét xé toạc những đám mây,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> vang vọng những ngọn núi, và buộc [những cái bóng](../S/Shadow.md) phải chạy trốn, thậm chí khiến [Melkor](../M/Melkor.md) run rẩy trong [Utumno](../U/Utumno.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Sau khi Melkor và [Ungoliant](../U/Ungoliant.md) [giết](../D/Darkening_of_Valinor.md) [Hai Cây](../T/Two_Trees.md), Oromë đã cố gắng thổi bay Valaróma để giải tán [Đám mây Ungoliant](../U/Unlight.md), nhưng anh ta phải thất vọng khi âm thanh ấp úng và thất bại.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Sau khi Melkor và [Ungoliant](../U/Ungoliant.md) [giết](../D/Darkening_of_Valinor.md) [Hai Cây](../T/Two_Trees.md), Oromë đã cố gắng thổi bay Valaróma để giải tán [Cloud of Ungoliant](../U/Unlight.md), nhưng thất vọng khi âm thanh bị ấp úng và khiến ông ta thất bại.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 Ở [Beleriand](../B/Beleriand.md), khi [Sindar](../S/Sindar.md) nghe thấy Valaróma, họ biết rằng một lần nữa người thợ săn đang truy đuổi những người hầu của [Morgoth](../M/Morgoth.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Valaróma* là [Quenya](../Q/Quenya.md)và chứa *rom-* ("tiếng còi"), giống như trong *Oromë*.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Tên ban đầu là *Rombaras*.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+*Valaróma* là [Quenya](../Q/Quenya.md) và chứa *rom-* ("tiếng còi"), giống như trong *Oromë*.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Tên ban đầu là *Rombaras*.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 <span></span>
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Orcs of Isengard"
 ---
 
-Chuyển hướng tới [Orc của Isengard](../O/Orcs_of_Isengard.md).
+Chuyển hướng đến [Orc của Isengard](../O/Orcs_of_Isengard.md).

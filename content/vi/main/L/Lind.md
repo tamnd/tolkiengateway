@@ -13,16 +13,16 @@ categories:
   - "Quenya nouns"
 ---
 
-<i><b>lind</b></i> hoặc <i><b>lin</b></i> là một phần tử trong [Quenya](../Q/Quenya.md) và [Sindarin](../S/Sindarin.md). Trong Quenya đôi khi nó xuất hiện dưới dạng rút gọn của <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Linde&amp;action=edit&amp;redlink=1" title="Linde (page does not exist)">linde</a></i> "không khí, giai điệu" hoặc "bài hát, âm nhạc".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+<i><b>lind</b></i> hoặc <i><b>lin</b></i> là một phần tử trong [Quenya](../Q/Quenya.md) và [Sindarin](../S/Sindarin.md). Trong Quenya, đôi khi nó xuất hiện dưới dạng rút gọn của <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Linde&amp;action=edit&amp;redlink=1" title="Linde (page does not exist)">linde</a></i> "không khí, giai điệu" hoặc "bài hát, âm nhạc".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Quenya {#Quenya}
 
-- <i><a href="../A/Ainulindalë_(Rúmil&#39;s_work).md" title="Ainulindalë (Rúmil&#39;s work)">Ainu<b>lind</b>alë</a></i> = "The Âm nhạc của các Ainur" (*lindele* = âm nhạc)
+- <i><a href="../A/Ainulindalë_(Rúmil&#39;s_work).md" title="Ainulindalë (Rúmil&#39;s work)">Ainu<b>lind</b>alë</a></i> = "Âm nhạc của người Ainur" (*lindele* = âm nhạc)
 - <i><a href="Laurelin.md" title="Laurelin">Laure<b>lin</b></a></i> = "Bài hát vàng"
 - <i><a href="Lindon.md" title="Lindon"><b>Lind</b>on</a></i> = "Vùng đất của âm nhạc"
 - <i><b>lind</b>e</i> = "ca sĩ"<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-## Sindarin {#Sindarin}
+## Tiếng Sindarin {#Sindarin}
 
 - <i><a href="Lindir.md" title="Lindir"><b>Lind</b>ir</a></i> = "Song Man"
 - <i><a class="mw-redirect" href="../T/Teiglin.md" title="Teiglin">Teig<b>lin</b></a></i> = "Ca sĩ ranh giới"

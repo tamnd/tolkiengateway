@@ -64,7 +64,7 @@ Sự kiện xảy ra vào ngày 9 tháng 6
 
 - **[1930](1930.md)** - Tác giả [Lin Carter](../L/Lin_Carter.md) ra đời.
 - **[1941](1941.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 45](../L/Letter_45.md).
-- **[1957](1957.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư cho William Ready](<../L/Letter_to_William_Ready_(9_June_1957).md>).
+- **[1957](1957.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một bức thư cho William Ready](<../L/Letter_to_William_Ready_(9_June_1957).md>).
 - **[1963](1963.md)** - Nữ diễn viên [Megan Edwards](../M/Megan_Edwards.md) ra đời.
 - **[1966](1966.md)** - [John Garth](../J/John_Garth.md) ra đời.
 - **[2010](2010.md)** - [Midway Games](../M/Midway_Games.md) đóng cửa vì phá sản.

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Second Music of the Ainur"
 ---
 
-Chuyển hướng tới [Thứ hai Âm nhạc của các Ainur](Second_Music_of_the_Ainur.md).
+Chuyển hướng tới [Âm nhạc thứ hai của người Ainur](Second_Music_of_the_Ainur.md).

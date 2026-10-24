@@ -29,9 +29,9 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Trong thư gửi <a class="extiw" href="http://en.wikipedia.org/wiki/P._H._Newby" title="wikipedia:P. H. Newby">P. H. Newby</a> của [BBC](../B/BBC.md), Tolkien thảo luận về các vấn đề sức khỏe hiện tại của anh ấy, bao gồm viêm thanh quản, đau thắt lưng và đau thần kinh tọa, khiến anh ấy gần như bất động. Bất chấp bệnh tật, Tolkien bày tỏ hy vọng được tham gia vào các buổi diễn tập và ghi âm theo lịch trình cho bộ phim của BBC, mặc dù anh ấy cảnh báo rằng tình trạng của anh ấy có thể khiến điều này không thể thực hiện được.
+Trong bức thư gửi <a class="extiw" href="http://en.wikipedia.org/wiki/P._H._Newby" title="wikipedia:P. H. Newby">P. H. Newby</a> của [BBC](../B/BBC.md), Tolkien thảo luận về các vấn đề sức khỏe hiện tại của ông, bao gồm viêm thanh quản, đau thắt lưng và đau thần kinh tọa, khiến ông gần như bất động. Bất chấp bệnh tật của mình, Tolkien bày tỏ hy vọng được tham gia vào các buổi diễn tập và ghi âm theo lịch trình cho bộ phim của BBC, mặc dù ông cảnh báo rằng tình trạng của ông có thể khiến điều này không thể thực hiện được.
 
-Anh ấy đề cập đến việc đã soạn thảo các nhận xét mở đầu nhưng lưu ý rằng thách thức trong việc cô đọng chúng để phù hợp với khung thời gian năm phút. Tolkien cũng xác nhận ngày sau đó là ngày 3 tháng 12 để ghi âm bài nói chuyện kết thúc. <br>
+Ông đề cập đến việc đã soạn thảo các nhận xét mở đầu nhưng lưu ý rằng thách thức trong việc cô đọng chúng để phù hợp với khung thời gian năm phút. Tolkien cũng xác nhận một ngày sau đó, ngày 3 tháng 12, để ghi lại bài nói chuyện kết thúc. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

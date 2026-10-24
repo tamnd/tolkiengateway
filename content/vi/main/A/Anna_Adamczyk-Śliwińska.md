@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Adamczyk-Sliwinska, Anna"
 ---
 
-**Anna Adamczyk-Śliwińska** 'Nifrodel' là tổng biên tập và là một trong những người sáng lập Almanac Tolkienists Ba Lan *[Aiglos](<Aiglos_(journal).md>).* Cô đã giữ chức tổng biên tập từ [tháng 11](../N/November.md) [2004](../_/2004.md) đến nay.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Cô cũng là thành viên của Bộ phận *Parmadili*, [Nhóm Tolkien của Câu lạc bộ tưởng tượng Silesian](../S/Sekcja_Tolkienowska_ŚKF.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Anna Adamczyk-Śliwińska** 'Nifrodel' là tổng biên tập và là một trong những người sáng lập Almanac của Tolkienists Ba Lan *[Aiglos](<Aiglos_(journal).md>).* Cô đã giữ chức tổng biên tập từ [tháng 11](../N/November.md) [2004](../_/2004.md) đến nay.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Cô cũng là thành viên của *Parmadili*, [Bộ phận Tolkien của Câu lạc bộ tưởng tượng Silesian](../S/Sekcja_Tolkienowska_ŚKF.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <br>
 
@@ -27,20 +27,20 @@ sort_keys:
 ### Bài viết {#Articles}
 
 - [2005](../_/2005.md): *[Aiglos Special Issue](Aiglos_Special_Issue_I.md)*
-    - "Tolkien và Thiên nhiên"
+    - "Tolkien và thiên nhiên"
     - Thơ
 - [2011](../_/2011.md): *[Aiglos 15](Aiglos_15.md)*
     - Thơ
 - [2012](../_/2012.md): *[Aiglos Special Issue II](Aiglos_Special_Issue_II.md)*
-    - "Lời nói, sức mạnh và ý chí – phép thuật trong ngòi bút của J.R.R. Tolkien"
+    - "Lời nói, sức mạnh và ý chí – phép thuật trong các tác phẩm của J.R.R. Tolkien"
     - Thơ
 
 ### Đánh giá {#Reviews}
 
 - [2005](../_/2005.md): *[Aiglos Special Issue](Aiglos_Special_Issue_I.md)*
-    - *Đại cương thần học của Trung Địa*
+    - *Sơ lược thần học về Trung Địa*
 - [2011](../_/2011.md): *[Aiglos 15](Aiglos_15.md)*
-    - L.E. Jones, *Huyền thoại và Trung Địa, Khám phá những huyền thoại đằng sau The Hobbit và The Lord of the Rings* của J.R.R. Tolkien("Bài viết hạng hai hoặc Cách kiếm tiền trên Tolkien")
+    - L.E. Jones, *Thần thoại và Trung Địa, Khám phá những huyền thoại đằng sau The Hobbit và Chúa tể của những chiếc nhẫn của J.R.R. Tolkien* ("Tác phẩm hạng hai hoặc Cách kiếm tiền trên Tolkien")
 - [2012](../_/2012.md): *[Aiglos Special Issue II](Aiglos_Special_Issue_II.md)*
     - "*The Lord of the Rings*, cuốn sách và bộ phim được xem bởi các sinh viên của Đại học Adam Mickiewicz"
     - "Lịch sử của một tình bạn khác thường? Colin Duriez, *Tolkien và C.S. Lewis: Món quà của tình bạn*"

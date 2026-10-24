@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Astrid (The Rings of Power)"
 ---
 
-Chuyển hướng đến [Astrid (The Những Chiếc Nhẫn Quyền Năng)](<../A/Astrid_(The_Rings_of_Power).md>).
+Chuyển hướng tới [Astrid (Những chiếc nhẫn quyền lực)](<../A/Astrid_(The_Rings_of_Power).md>).

@@ -12,13 +12,13 @@ categories:
   - "Conflicts in The Book of Lost Tales"
 ---
 
-**Trận chiến ở những hồ bơi im lặng** diễn ra tại [Umboth-muilin](../A/Aelin-uial.md) trong [chuyến thám hiểm vĩ đại](../W/War_of_Wrath.md#Other_versions_of_the_legendarium) từ [Valinor](../V/Valinor.md) để giải phóng những [Gnomes](../G/Gnomes.md) bị bắt làm nô lệ ở [Great Lands](../G/Great_Lands.md), theo một số phác thảo thuộc về phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.<sup id="cite_ref-Tulk_1-0" class="reference"><a href="#cite_note-Tulk-1">[1]</a></sup> Không có tường thuật đầy đủ, chi tiết nào về trận chiến được đưa ra, vì nó chỉ được đề cập thoáng qua trong *Lost Tales*, và trong nhiều bản phác thảo khác nhau để tiếp tục.
+**Trận chiến ở những hồ bơi im lặng** diễn ra tại [Umboth-muilin](../A/Aelin-uial.md) trong [chuyến thám hiểm vĩ đại](../W/War_of_Wrath.md#Other_versions_of_the_legendarium) từ [Valinor](../V/Valinor.md) để giải phóng [Gnomes](../G/Gnomes.md) bị bắt làm nô lệ ở [Great Lands](../G/Great_Lands.md), theo một số phác thảo thuộc về phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.<sup id="cite_ref-Tulk_1-0" class="reference"><a href="#cite_note-Tulk-1">[1]</a></sup> Không có bản tường thuật đầy đủ, chi tiết nào về trận chiến được đưa ra, vì nó chỉ được đề cập thoáng qua trong *Lost Tales* và trong nhiều bản phác thảo khác nhau để tiếp tục.
 
 Điều ít được biết về nó là:
 
-- Đó là cuộc chiến giữa [Tulkas](../T/Tulkas.md) và [Melko](../M/Melko.md), trong đó Tulkas đánh bại kẻ sau, và Melko sau đó bị trói ở [Lumbi](../L/Lumbi.md) và được bảo vệ bởi [Gorgumoth](../G/Gorgumoth.md) con chó săn của [Mandos](../M/Mandos.md).<sup id="cite_ref-Tulk_1-1" class="reference"><a href="#cite_note-Tulk-1">[1]</a></sup>
-- Sau đó, [Angamandi](../A/Angamandi.md) bị phá vỡ và Gnomes người bị giam giữ được thả ra.<sup id="cite_ref-Tulk_1-2" class="reference"><a href="#cite_note-Tulk-1">[1]</a></sup>
-- Sau khi cuộc chiến đó kết thúc là cuộc chiến với nhiều [Con Người](../M/Men.md) sống ở Great Lands, ngay khi [Valar](../V/Valar.md) Tulkas và [Noldorin](../S/Salmar.md) quay trở lại Valinor.<sup id="cite_ref-Tulk_1-3" class="reference"><a href="#cite_note-Tulk-1">[1]</a></sup>
+- Đó là cuộc chiến giữa [Tulkas](../T/Tulkas.md) và [Melko](../M/Melko.md), trong đó Tulkas đánh bại kẻ sau, và Melko sau đó bị trói ở [Lumbi](../L/Lumbi.md) và được canh giữ bởi [Gorgumoth](../G/Gorgumoth.md) con chó săn của [Mandos](../M/Mandos.md).<sup id="cite_ref-Tulk_1-1" class="reference"><a href="#cite_note-Tulk-1">[1]</a></sup>
+- Sau đó, [Angamandi](../A/Angamandi.md) bị phá vỡ và những Gnomes bị giam giữ được thả ra.<sup id="cite_ref-Tulk_1-2" class="reference"><a href="#cite_note-Tulk-1">[1]</a></sup>
+- Sau khi cuộc chiến đó kết thúc là cuộc chiến với nhiều [Đàn ông](../M/Men.md) sống ở Great Lands, ngay khi [Valar](../V/Valar.md) Tulkas và [Noldorin](../S/Salmar.md) quay trở lại Valinor.<sup id="cite_ref-Tulk_1-3" class="reference"><a href="#cite_note-Tulk-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}
 

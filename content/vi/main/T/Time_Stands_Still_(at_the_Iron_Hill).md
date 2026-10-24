@@ -35,7 +35,7 @@ infobox:
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
-**Time Stands Still (at the Iron Hill)** là ca khúc thứ mười ba trong album chủ đề Tolkien của [Blind Guardian](../B/Blind_Guardian.md), *[Nightfall in Middle-Earth](../N/Nightfall_in_Middle-Earth.md)*. Nó kể câu chuyện về chuyến đi của [Fingolfin](../F/Fingolfin.md) đến [Angband](../A/Angband.md) sau [Dagor Bragollach](../D/Dagor_Bragollach.md), thử thách của anh ấy với [Morgoth](../M/Morgoth.md) cũng như trận chiến và thất bại của anh ấy.
+**Time Stands Still (at the Iron Hill)** là ca khúc thứ mười ba trong album chủ đề Tolkien của [Blind Guardian](../B/Blind_Guardian.md), *[Nightfall in Middle-Earth](../N/Nightfall_in_Middle-Earth.md)*. Nó kể câu chuyện về chuyến đi của [Fingolfin](../F/Fingolfin.md) đến [Angband](../A/Angband.md) sau [Dagor Bragollach](../D/Dagor_Bragollach.md), lời thách thức của ông với [Morgoth](../M/Morgoth.md) cũng như trận chiến và thất bại của ông.
 
 ## Lời bài hát {#Lyrics}
 

@@ -41,4 +41,4 @@ infobox:
 ## Liên kết ngoài {#External_links}
 
 - <a class="external text" href="http://haven.theonering.net/gaming/thetrilogy.html" rel="noreferrer noopener" target="_blank"><i>Bộ ba</i> về Thiên đường chơi game</a>
-- <a class="external text" href="http://www.lysator.liu.se/tolkien-games/entry/thetrilogy.html" rel="noreferrer noopener" target="_blank"><i>Bộ ba</i> trên Tolkien Trò chơi</a>
+- <a class="external text" href="http://www.lysator.liu.se/tolkien-games/entry/thetrilogy.html" rel="noreferrer noopener" target="_blank"><i>Bộ ba</i> trên Tolkien Games</a>

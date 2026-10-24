@@ -44,11 +44,11 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../E/Edain.md" title="Edain">Adan</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Bregil</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Birth</th><td class="tg-infobox-data"><a href="../F/First_Age.md" title="First Age">F.A.</a> <a href="../F/First_Age_386.md" title="First Age 386">386</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">House</th><td class="tg-infobox-data"><a href="../H/House_of_Bëor.md" title="House of Bëor">House of Bëor</a></td></tr><tr><th scope="row" class="tg-infobox-label">Parentage</th><td class="tg-infobox-data"><a href="Bregor.md" title="Bregor">Bregor</a></td></tr><tr><th scope="row" class="tg-infobox-label">Siblings</th><td class="tg-infobox-data"><a href="../H/Hirwen.md" title="Hirwen">Hirwen</a>, <a href="Bregolas.md" title="Bregolas">Bregolas</a>, <a href="../G/Gilwen.md" title="Gilwen">Gilwen</a>, <a href="Barahir.md" title="Barahir">Barahir</a></td></tr><tr><th scope="row" class="tg-infobox-label">Spouse</th><td class="tg-infobox-data"><a href="../A/Arachon.md" title="Arachon">Arachon</a></td></tr><tr><th scope="row" class="tg-infobox-label">Children</th><td class="tg-infobox-data"><a href="Brandir_(son_of_Arachon).md" title="Brandir (son of Arachon)">Brandir</a>, <a href="Beldis.md" title="Beldis">Beldis</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Female</td></tr></tbody></table>
 
-**Bregil** (sinh [F.A.](../F/First_Age.md) [386](../F/First_Age_386.md)) là một phụ nữ của [Nhà Bëor](../H/House_of_Bëor.md).
+**Bregil** (sinh ra [F.A.](../F/First_Age.md) [386](../F/First_Age_386.md)) là một phụ nữ của [Nhà Bëor](../H/House_of_Bëor.md).
 
 ## Lịch sử {#History}
 
-Bregil là con cả và con gái đầu lòng của [Bregor](Bregor.md), thủ lĩnh thứ năm của [Nhà Bëor](../H/House_of_Bëor.md). Cô ấy là chị gái của [Hirwen](../H/Hirwen.md), [Bregolas](Bregolas.md), [Gilwen](../G/Gilwen.md) và [Barahir](Barahir.md). Bregil kết hôn với [Arachon](../A/Arachon.md), một người Bëorian và họ có hai con, một con trai [Brandir](<Brandir_(son_of_Arachon).md>) là con lớn của họ và một con gái [Beldis](Beldis.md) là con út của họ, sinh năm [409](../F/First_Age_409.md) và [411](../F/First_Age_411.md). Con gái của bà là Beldis kết hôn với [Handir](../H/Handir.md), thủ lĩnh của [Haladin](../H/Haladin.md) và là mẹ của [Brandir the Lame](Brandir.md), thủ lĩnh cuối cùng của Haladin.<sup id="cite_ref-WJBeor_1-0" class="reference"><a href="#cite_note-WJBeor-1">[1]</a></sup>
+Bregil là con cả và con gái đầu lòng của [Bregor](Bregor.md), người đứng đầu thứ năm của [Nhà Bëor](../H/House_of_Bëor.md). Bà là chị gái của [Hirwen](../H/Hirwen.md), [Bregolas](Bregolas.md), [Gilwen](../G/Gilwen.md) và [Barahir](Barahir.md). Bregil kết hôn với [Arachon](../A/Arachon.md), một người Bëorian và họ có hai con, một con trai [Brandir](<Brandir_(son_of_Arachon).md>) là con lớn của họ và một con gái [Beldis](Beldis.md) là con út của họ, sinh năm [409](../F/First_Age_409.md) và [411](../F/First_Age_411.md). Con gái của bà là Beldis kết hôn với [Handir](../H/Handir.md), thủ lĩnh của [Haladin](../H/Haladin.md) và là mẹ của [Brandir the Lame](Brandir.md), thủ lĩnh cuối cùng của Haladin.<sup id="cite_ref-WJBeor_1-0" class="reference"><a href="#cite_note-WJBeor-1">[1]</a></sup>
 
 ## Phả hệ {#Genealogy}
 
@@ -66,7 +66,7 @@ Bregil là con cả và con gái đầu lòng của [Bregor](Bregor.md), thủ l
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong phiên bản trước của phả hệ của Nhà Bëor, Bregil là em gái của Bregor. Ở phiên bản sau cô trở thành con gái của anh.<sup id="cite_ref-WJBeor_1-1" class="reference"><a href="#cite_note-WJBeor-1">[1]</a></sup>
+Trong phiên bản trước đó của gia phả Nhà Bëor, Bregil là em gái của Bregor. Ở phiên bản sau cô trở thành con gái của anh.<sup id="cite_ref-WJBeor_1-1" class="reference"><a href="#cite_note-WJBeor-1">[1]</a></sup>
 
 <span></span>
 

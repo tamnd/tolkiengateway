@@ -12,11 +12,11 @@ categories:
   - "Roots"
 ---
 
-**DAT** hoặc **DANT**, là một [Primitive Quendian](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) biểu thị "rơi xuống".<sup id="cite_ref-LR_1-0" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
+**DAT** hoặc **DANT**, là [Quendian nguyên thủy](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) biểu thị "sụp đổ".<sup id="cite_ref-LR_1-0" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
 
 ## Công cụ phái sinh {#Derivatives}
 
-- [Exilic Noldorin](../N/Noldorin.md): *dad* ("xuống"); *dath* ("hố, hố")<sup id="cite_ref-LR_1-1" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
+- [Noldorin lưu vong](../N/Noldorin.md): *dad* ("xuống"); *dath* ("hố, hố")<sup id="cite_ref-LR_1-1" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
 - [Quenya](../Q/Quenya.md): *latta* ("hố, hố"); *lanta* ("ngã"); *lanta-* ("ngã")<sup id="cite_ref-LR_1-2" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
 - [Noldorin](../N/Noldorin.md): *dant-* ("ngã"); *dannen* ("ngã")<sup id="cite_ref-LR_1-3" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
 

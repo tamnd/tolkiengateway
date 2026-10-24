@@ -56,25 +56,25 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Ten_Thousand_Leaves_-_Erestor.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b1/Ten_Thousand_Leaves_-_Erestor.jpg/320px-Ten_Thousand_Leaves_-_Erestor.jpg" decoding="async" loading="lazy" width="320" height="367" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b1/Ten_Thousand_Leaves_-_Erestor.jpg/480px-Ten_Thousand_Leaves_-_Erestor.jpg 1.5x, https://tolkiengateway.net/w/images/b/b1/Ten_Thousand_Leaves_-_Erestor.jpg 2x" data-file-width="566" data-file-height="650"/></a><figcaption>&#34;Erestor&#34; by <a href="../../category/I/Images_by_Ten_Thousand_Leaves.md" title="Category:Images by Ten Thousand Leaves">Ten Thousand Leaves</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle"><a href="Elves.md" title="Elves">Elf</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Erestor</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Position</th><td class="tg-infobox-data">Chief counsellor of <a href="Elrond.md" title="Elrond">Elrond</a></td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../R/Rivendell.md" title="Rivendell">Rivendell</a></td></tr><tr><th scope="row" class="tg-infobox-label">Affiliation</th><td class="tg-infobox-data"><a href="Elrond.md" title="Elrond">Elrond</a></td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data">At least <a href="../W/Westron.md" title="Westron">Westron</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Erestor.md" title="Category:Images of Erestor">Images of Erestor</a></td></tr></tbody></table>
 
-**Erestor** là [Tiên](Elves.md) của [Rivendell](../R/Rivendell.md) và là cố vấn trưởng của [Elrond](Elrond.md).
+**Erestor** là một [Yêu tinh](Elves.md) của [Rivendell](../R/Rivendell.md) và là cố vấn trưởng của [Elrond](Elrond.md).
 
 ## Lịch sử {#History}
 
-Erestor, là cố vấn trưởng của gia đình [Elrond](Elrond.md) vào thời điểm [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), đã tham gia [Hội đồng Elrond](../C/Council_of_Elrond.md). Anh ta không ủng hộ ý tưởng phá hủy [Chiếc nhẫn](../T/The_One_Ring.md), thay vào đó anh ta thích ý tưởng bảo vệ nó khỏi [Sauron](../S/Sauron.md), có lẽ với sự trợ giúp của [Iarwain ben-adar](../T/Tom_Bombadil.md). Đề nghị của ông đã bị [Glorfindel](../G/Glorfindel.md) cũng như [Galdor](../G/Galdor_of_the_Havens.md) phản đối vì họ không tin rằng Iarwain có đủ sức mạnh để thách thức Sauron.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Erestor, là cố vấn trưởng của gia đình [Elrond](Elrond.md) vào thời điểm diễn ra [War of the Ring](../W/War_of_the_Ring.md), đã tham gia [Hội đồng Elrond](../C/Council_of_Elrond.md). Ông ta không ủng hộ ý tưởng phá hủy [Chiếc nhẫn](../T/The_One_Ring.md), thay vào đó ông ta thích ý tưởng bảo vệ nó khỏi [Sauron](../S/Sauron.md), có lẽ với sự trợ giúp của [Iarwain ben-adar](../T/Tom_Bombadil.md). Đề nghị của ông đã bị [Glorfindel](../G/Glorfindel.md) cũng như [Galdor](../G/Galdor_of_the_Havens.md) phản đối, vì họ không tin rằng Iarwain có sức mạnh để thách thức Sauron.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Erestor tháp tùng [Arwen](../A/Arwen.md) tới đám cưới của cô với [Aragorn](../A/Aragorn.md) ở [Gondor](../G/Gondor.md) ở [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Erestor đi cùng [Arwen](../A/Arwen.md) tới lễ cưới của cô với [Aragorn](../A/Aragorn.md) tại [Gondor](../G/Gondor.md) ở [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Tên *Erestor* có trong [Sindarin](../S/Sindarin.md) nhưng nghĩa không rõ ràng.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Tên *Erestor* có trong [Sindarin](../S/Sindarin.md) nhưng nghĩa của nó không rõ ràng.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong phần giới thiệu sớm nhất về Erestor, anh ta là một trong ba cố vấn của Elrond(hai người còn lại không được nêu tên); cả ba đều là họ hàng của Elrond, "của một người nửa yêu tinh mà Tiên tộc đặt tên cho con của [Lúthien](../L/Lúthien.md)". Trong một bản cập nhật tiếp theo, hai người còn lại đã được phong thành Tiên-lãnh chúa vô danh của Rivendell, với Erestor là nửa yêu tinh duy nhất còn lại và là bà con của Elrond.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Tuy nhiên, Erestor không bao giờ được gọi là nửa yêu tinh trong văn bản hoàn chỉnh.
+Trong phần giới thiệu sớm nhất về Erestor, ông là một trong ba cố vấn của Elrond (hai người còn lại không được nêu tên); cả ba đều là bà con của Elrond, "của một dân tộc nửa yêu tinh mà Yêu tinh đặt tên là những đứa con của [Lúthien](../L/Lúthien.md)". Trong một bản cập nhật tiếp theo, hai người còn lại đã được phong thành các chúa tể Yêu tinh giấu tên của Rivendell, với Erestor là nửa yêu tinh duy nhất còn lại và là bà con của Elrond.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Tuy nhiên, Erestor không bao giờ được gọi là nửa yêu tinh trong văn bản hoàn chỉnh.
 
-Trong lần lựa chọn ban đầu cho Chín trong số Đoàn Hộ Nhẫn, Erestor phải đại diện cho một nửa-Tiên tộc.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Trong cuộc lựa chọn ban đầu cho Nine of the Company of the Ring, Erestor phải đại diện cho nửa Yêu tinh.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
-Ban đầu, chỉ có Elrond, [Galadriel](../G/Galadriel.md) và [Celeborn](../C/Celeborn.md) đi cùng Arwen đến đám cưới của cô ấy.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Ban đầu, chỉ có Elrond, [Galadriel](../G/Galadriel.md) và [Celeborn](../C/Celeborn.md) đi cùng Arwen tới đám cưới của cô.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
@@ -102,15 +102,15 @@ Ban đầu, chỉ có Elrond, [Galadriel](../G/Galadriel.md) và [Celeborn](../C
 		</li>
 </ul>
 
-<b>2001: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i>:</b>
+<b>2001: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">Chúa tể của những chiếc nhẫn: Hiệp hội những chiếc nhẫn</a></i>:</b>
 
 <dl><dd>A card from <i><a href="../T/The_Lord_of_the_Rings_Trading_Card_Game.md" title="The Lord of the Rings Trading Card Game">The Lord of the Rings Trading Card Game</a></i> expansion: <i>Realms of the Elf Lords</i> identifies the <a href="Elves.md" title="Elves">Elf</a> sitting next to <a href="Elrond.md" title="Elrond">Elrond</a> at <a href="../C/Council_of_Elrond.md" title="Council of Elrond">the Counci</a> as Erestor.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> He is portrayed by <a href="../J/Jonathan_Harding.md" title="Jonathan Harding">Jonathan Harding</a>.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
 
 <dl><dd>Prior to the Fellowship&#39;s departure from <a href="../R/Rivendell.md" title="Rivendell">Rivendell</a>, Erestor is involved in a quest exclusive to the Elven characters. After the <a href="../W/War_of_the_Ring.md" title="War of the Ring">War of the Ring</a>, he joins the procession from Rivendell that travels to <a href="../M/Minas_Tirith.md" title="Minas Tirith">Minas Tirith</a> for Lady <a href="../A/Arwen.md" title="Arwen">Arwen</a>&#39;s wedding.</dd></dl>
 
-<b><a href="../_/2023.md" title="2023">2023</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_Tales_of_Middle-earth.md" title="The Lord of the Rings: Tales of Middle-earth">The Lord of the Rings: Những câu chuyện về Trung Địa</a></i>:</b>
+<b><a href="../_/2023.md" title="2023">2023</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_Tales_of_Middle-earth.md" title="The Lord of the Rings: Tales of Middle-earth">Chúa tể của những chiếc nhẫn: Những câu chuyện về Trung Địa</a></i>:</b>
 
 <dl><dd>Erestor is depicted on the &#34;Erestor of the Council&#34; card, illustrated by Syd Mills. The card has the following effects:</dd></dl>
 

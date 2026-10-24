@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Shaw, Martin"
 ---
 
-**Martin Shaw** (sinh [21 tháng 1](../_/21_January.md) [1945](../_/1945.md)) là một diễn viên người Anh được biết đến với các vai diễn trong *Judge John Deed* và *Inspector George Gently*. Anh ấy cũng làm việc với tư cách là người kể chuyện và nghệ sĩ lồng tiếng, đồng thời đã tường thuật các sách nói không rút gọn của cả *[The Hobbit](../T/The_Hobbit.md)* và *[The Silmarillion](../T/The_Silmarillion.md)*.
+**Martin Shaw** (sinh [21 tháng 1](../_/21_January.md) [1945](../_/1945.md)) là một diễn viên người Anh được biết đến với các vai diễn trong *Judge John Deed* và *Inspector George Gently*. Ông cũng làm việc với tư cách là người kể chuyện và nghệ sĩ lồng tiếng, đồng thời đã tường thuật các sách nói không rút gọn của cả *[The Hobbit](../T/The_Hobbit.md)* và *[The Silmarillion](../T/The_Silmarillion.md)*.
 
 ## Vai trò {#Roles}
 

@@ -115,11 +115,11 @@ sort_keys:
 - [*The Hobbit* (loạt phim)](<../../main/T/The_Hobbit_(film_series).md>)
     - Cộng đồng nhận thấy tầm quan trọng của việc khai thác phim để thu hút nhiều thành viên hơn.
     - Cập nhật bài viết của chúng tôi bằng cách sử dụng <a class="extiw" href="http://en.wikipedia.org/wiki/The_Hobbit_film_project" title="wikipedia:The Hobbit film project">Wikipedia</a> làm khung.
-    - Tạo một "Dự ánHobbit" để có được các bài viết liên quan đến *[The Hobbit](../../main/T/The_Hobbit.md)*đạt tiêu chuẩn cao.
-- [Hobbit](../../main/H/Hobbits.md) bài viết
-    - Đối với những nữ hobbit đã kết hôn, họ sẽ được ưu tiên đặt tên thời con gái, ngoại trừ những trường hợp họ được biết đến phổ biến hơn bằng tên đã kết hôn, đặc biệt trong trường hợp [Lobelia Sackville-Baggins](../../main/L/Lobelia_Sackville-Baggins.md).
+    - Tạo một "Dự án Hobbit" để đạt tiêu chuẩn cao về các bài viết liên quan đến *[The Hobbit](../../main/T/The_Hobbit.md)*.
+Bài viết - [Hobbit](../../main/H/Hobbits.md)
+    - Đối với những nữ hobbit đã kết hôn, họ sẽ ưu tiên tên thời con gái của họ, ngoại trừ những nơi họ được biết đến phổ biến hơn bằng tên đã kết hôn, đặc biệt là trong trường hợp [Lobelia Sackville-Baggins](../../main/L/Lobelia_Sackville-Baggins.md).
     - Các số sẽ được đặt sau tên, ví dụ: "Isumbras Took III" và "Ponto Baggins II" trên "Isumbras III Took" và "Ponto II Baggins".
-    - Ngày trong [lịch Shire](../../main/S/Shire-reckoning.md) (sử dụng [Mẫu:SR](https://tolkiengateway.net/wiki/Template:SR)) sẽ được sử dụng, lưu lại cho Hobbit người đã rời khỏi [ Shire](../../main/T/The_Shire.md) trong trường hợp đó, ngày [Kỷ Đệ Tam](../../main/T/Third_Age.md) sẽ được sử dụng, bao gồm một số ngày SR.
+    - Các ngày trong [Tính toán quận](../../main/S/Shire-reckoning.md) (sử dụng [Mẫu:SR](https://tolkiengateway.net/wiki/Template:SR)) sẽ được sử dụng, ngoại trừ những người Hobbit đã rời khỏi [Shire](../../main/T/The_Shire.md) trong trường hợp đó ngày [Thời đại thứ ba](../../main/T/Third_Age.md) sẽ được sử dụng, bao gồm một số ngày SR.
     - "Tolman Cotton Senior" được chuyển đến "Nông dân bông".
 - Các vấn đề kỹ thuật không được thảo luận do sự vắng mặt của [Hyarion](https://tolkiengateway.net/wiki/User:Hyarion), mặc dù cộng đồng lưu ý rằng cơ sở dữ liệu đã được mở khóa mà không cần CAPTCHA.
 - Tiêu chuẩn cho các bài viết về ngôn ngữ không được thảo luận do thiếu thời gian, tuy nhiên, [cuộc thảo luận có thể được tiếp tục trong diễn đàn](https://tolkiengateway.net/wiki/Forums:Diaereses).

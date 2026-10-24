@@ -36,7 +36,7 @@ infobox:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Matěj_Čadil_-_In_western_lands.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/0/08/Mat%C4%9Bj_%C4%8Cadil_-_In_western_lands.jpg/300px-Mat%C4%9Bj_%C4%8Cadil_-_In_western_lands.jpg" decoding="async" loading="lazy" width="300" height="413" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/08/Mat%C4%9Bj_%C4%8Cadil_-_In_western_lands.jpg/450px-Mat%C4%9Bj_%C4%8Cadil_-_In_western_lands.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/0/08/Mat%C4%9Bj_%C4%8Cadil_-_In_western_lands.jpg/600px-Mat%C4%9Bj_%C4%8Cadil_-_In_western_lands.jpg 2x" data-file-width="1000" data-file-height="1375"/></a><figcaption><i>In Western Lands beneath the Sun</i> by <a href="../M/Matěj_Čadil.md" title="Matěj Čadil">Matěj Čadil</a></figcaption></figure>
 
-**Ở vùng đất phía Tây bên dưới Mặt Trời**, có thể được viết bởi [Bilbo Baggins](../B/Bilbo_Baggins.md), là bài hát được hát bởi [Sam Gamgee](../S/Sam_Gamgee.md) vào [14 tháng 3](../_/14_March.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> ở [Tháp Cirith Ungol](../T/Tower_of_Cirith_Ungol.md). Sam vừa leo lên đầu cầu thang trong tháp nhưng không tìm thấy [Frodo Baggins](../F/Frodo_Baggins.md); anh ấy cảm thấy mình không thực sự ở trên đỉnh tháp nhưng anh ấy không thể khám phá ra bất kỳ con đường nào dẫn lên trên. Bị đánh bại, Sam cúi đầu. Đột nhiên, trước sự ngạc nhiên của anh, anh bắt đầu hát. Lúc đầu anh chỉ đọc những giai điệu và vần điệu trẻ con, nhưng sau đó một bài hát mới nảy sinh trong anh:
+**Ở vùng đất phía Tây bên dưới Mặt trời**, có thể được viết bởi [Bilbo Baggins](../B/Bilbo_Baggins.md), là một bài hát được hát bởi [Sam Gamgee](../S/Sam_Gamgee.md) vào [14 tháng 3](../_/14_March.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> tại [Tháp Cirith Ungol](../T/Tower_of_Cirith_Ungol.md). Sam vừa leo lên đầu cầu thang trong tòa tháp nhưng không tìm thấy [Frodo Baggins](../F/Frodo_Baggins.md); ông cảm thấy mình không thực sự ở trên đỉnh tháp nhưng ông không thể khám phá ra bất kỳ con đường nào dẫn lên trên. Bị đánh bại, Sam cúi đầu. Đột nhiên, trước sự ngạc nhiên của anh, anh bắt đầu hát. Lúc đầu anh chỉ đọc những giai điệu và vần điệu trẻ con, nhưng sau đó một bài hát mới nảy sinh trong anh:
 
 ## Trích đoạn thơ {#Poem_excerpt}
 
@@ -52,15 +52,15 @@ amid their branching hair.
 </p>
 </div>
 
-Sam bắt đầu hát lại câu “Vượt lên trên mọi ngọn tháp mạnh mẽ và cao lớn” nhưng đột ngột dừng lại khi anh tưởng mình có thể nghe thấy một giọng nói yếu ớt trả lời. Giọng nói dừng lại nhưng sau đó anh nghe thấy tiếng bước chân của [Snaga](<../S/Snaga_(orc_of_Mordor).md>) đang đến gần. Giọng nói của Sam, rõ ràng không phải của một [Tiên](../E/Elves.md), đã thu hút [orc](../O/Orcs.md), khiến nó phải im lặng Frodo. Snaga mang theo một chiếc thang giúp anh ta có thể đến được căn phòng cuối cùng phía trên, ngay sau đó là Sam.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Sam bắt đầu hát lại câu "Vượt trên mọi tòa tháp mạnh mẽ và cao lớn" nhưng đột ngột dừng lại khi anh nghĩ mình có thể nghe thấy một giọng nói yếu ớt trả lời. Giọng nói dừng lại nhưng sau đó anh nghe thấy tiếng bước chân của [Snaga](<../S/Snaga_(orc_of_Mordor).md>) đang đến gần. Giọng nói của Sam, rõ ràng không phải của một [Yêu tinh](../E/Elves.md), đã thu hút [orc](../O/Orcs.md), kẻ đến để khiến Frodo im lặng. Snaga mang theo một chiếc thang giúp anh có thể đến được căn phòng cuối cùng phía trên, ngay sau đó là Sam.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-Donald Swann đã viết nhạc cho bài hát này, có thể tìm thấy trong sách *[The Road Goes Ever On](<../T/The_Road_Goes_Ever_On_(book).md>)*;<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> nó cũng có trong CD đi kèm của phiên bản mới nhất.
+Donald Swann đã viết nhạc cho bài hát này, có thể tìm thấy trong cuốn sách *[The Road Goes Ever On](<../T/The_Road_Goes_Ever_On_(book).md>)*;<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> nó cũng có trong CD đi kèm của phiên bản mới nhất.
 
-Stephen Oliver cũng viết nhạc cho bài hát cho vở kịch trên đài phát thanh BBC. Nó được hát trong câu chuyện bởi Bill Nighy (được gọi là William Nighy) và trên BBC Record của nhà phê bình rượu vang, Oz Clarke.
+Stephen Oliver cũng viết nhạc cho bài hát cho vở kịch của Đài BBC. Nó được hát trong câu chuyện bởi Bill Nighy (được gọi là William Nighy) và trên BBC Record bởi nhà phê bình rượu vang, Oz Clarke.
 
-Trong vở opera *[Beren and Lúthien](<../B/Beren_and_Lúthien,_Op._47_(Opera).md>)*của [Paul Corfield Godfrey](../P/Paul_Corfield_Godfrey.md), bài thơ này được tặng cho các nhân vật chính, với Lúthien hát khổ đầu tiên và Beren khổ thứ hai khi cô phát hiện ra anh ta trong hang ổ của [Sauron](../S/Sauron.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Trong vở opera của [Paul Corfield Godfrey](../P/Paul_Corfield_Godfrey.md) *[Beren and Lúthien](<../B/Beren_and_Lúthien,_Op._47_(Opera).md>)*, bài thơ này được tặng cho các nhân vật chính, với Lúthien hát khổ đầu tiên và Beren hát khổ thứ hai khi cô phát hiện ra ông ta trong hang ổ của [Sauron](../S/Sauron.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Xem thêm {#See_also}
 

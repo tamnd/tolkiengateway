@@ -25,7 +25,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Bức tranh này có dòng chữ 'Sketch for the Forest River, Hobbit Ch. IX', cho thấy Bilbo xuất hiện trên thùng vào lúc trăng tròn, trong khi trong bức tranh được xuất bản cùng cuốn sách thì mặt trời đã mọc. Trong văn bản, những chiếc thùng đã đến làng của Raft-elf khi trời vẫn còn tối: 'Có một làn nước mờ không còn bị lu mờ, và trên bề mặt trượt của nó có những hình ảnh phản chiếu nhảy múa và đứt quãng của những đám mây và các vì sao.' Bức ảnh này được đăng trên Lịch J. R. R. Tolkien 1979. Giấy của bản gốc bị rách ở phía dưới bên trái và có lớp lót màu xanh ở đây.
+Bức tranh này có dòng chữ 'Sketch for the Forest River, Hobbit Ch. IX', cho thấy Bilbo xuất hiện trên thùng vào lúc trăng tròn, trong khi trong bức tranh được xuất bản cùng cuốn sách thì mặt trời đã mọc. Trong văn bản, những chiếc thùng đã đến làng Chiếc Bè-Tiên tộc khi trời vẫn còn tối: 'Có một làn nước mờ ảo không còn bị lu mờ, và trên bề mặt trượt của nó có những hình ảnh phản chiếu nhảy múa và đứt quãng của những đám mây và các vì sao.' Bức ảnh này được đăng trên Lịch J. R. R. Tolkien 1979. Giấy của bản gốc bị rách ở phía dưới bên trái và có lớp lót màu xanh ở đây.
 
 ## Giấy phép {#Licensing}
 

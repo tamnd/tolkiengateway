@@ -30,7 +30,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Không có "Thần" nào trong thần thoại của ông ấy, Tolkien đã nêu. Thay vào đó là [Valar](../V/Valar.md) hay Quyền năng: những sinh vật do thiên thần tạo ra được chỉ định để cai trị thế giới. Tiên tộc đương nhiên tin tưởng vào họ vì họ đã sống cùng họ. Việc giải thích tất cả những điều này sẽ cản trở công việc của Tolkien trong việc xuất bản nó ở dạng phù hợp.
+Tolkien nói rằng không có "Thần" nào trong thần thoại của ông. Thay vào đó là [Valar](../V/Valar.md) hay Quyền năng: những sinh vật được tạo ra bởi thiên thần được chỉ định để cai trị thế giới. Yêu tinh đương nhiên tin tưởng vào họ vì họ đã sống cùng họ. Việc giải thích tất cả những điều này sẽ cản trở việc Tolkien xuất bản nó ở dạng thích hợp.
 
 ## Lưu ý {#Note}
 

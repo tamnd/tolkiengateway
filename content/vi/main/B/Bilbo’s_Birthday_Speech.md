@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Bilbo's birthday speech"
 ---
 
-Chuyển hướng tới [Bilbo bài phát biểu sinh nhật](Bilbo's_birthday_speech.md).
+Chuyển hướng đến [bài phát biểu mừng sinh nhật của Bilbo](Bilbo's_birthday_speech.md).

@@ -18,15 +18,15 @@ langlinks:
     url: "https://www.tolkiendil.com/encyclo/geographie/forets/rhovanion/etranglement"
 ---
 
-**Vùng thu hẹp của rừng** là "eo" của [Mirkwood](../M/Mirkwood.md) do vết lõm của [phương Đông Bight](../E/East_Bight.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Ở phía tây của khu rừng có một vết lõm tự nhiên tương ứng ở ranh giới của rừng, nhưng phương Đông Bight được tạo ra do [Người phương Bắc](Northmen.md)chặt cây.<sup id="cite_ref-Narrows_2-0" class="reference"><a href="#cite_note-Narrows-2">[2]</a></sup> Hai vết lõm này cùng nhau thu hẹp Mirkwood đến dưới 100 dặm tại vị trí này và do đó có đủ phương tiện để băng qua rừng.
+**Khu rừng hẹp** là "eo" của [Mirkwood](../M/Mirkwood.md) do vết lõm của [East Bight](../E/East_Bight.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Ở phía tây của khu rừng có vết lõm tự nhiên tương ứng ở ranh giới của rừng, nhưng East Bight được tạo ra do việc chặt cây của [Người phương Bắc](Northmen.md).<sup id="cite_ref-Narrows_2-0" class="reference"><a href="#cite_note-Narrows-2">[2]</a></sup> Hai nơi này cùng nhau vết lõm đã thu hẹp Mirkwood xuống dưới 100 dặm tại vị trí này và do đó đủ khả năng để đi qua khu rừng.
 
-Vào thời [Forthwini](../F/Forthwini.md) của [Éothéod](../_/Éothéod.md) vương quốc của ông gặp rắc rối bởi các cuộc tấn công của [Wainriders](../W/Wainriders.md) những kẻ đã đi qua Narrows cũng như lên Vale of the [Anduin](../A/Anduin.md). Những cuộc xâm nhập này đã khiến Forthwini gửi cảnh báo tới Vua [Ondoher](../O/Ondoher.md) rằng Wainriders đã phục hồi sức mạnh.<sup id="cite_ref-Narrows_2-1" class="reference"><a href="#cite_note-Narrows-2">[2]</a></sup>
+Vào thời [Forthwini](../F/Forthwini.md) của [Éothéod](../_/Éothéod.md) vương quốc của ông gặp rắc rối bởi các cuộc tấn công của [Wainriders](../W/Wainriders.md) đi qua Narrows cũng như lên Thung lũng [Anduin](../A/Anduin.md). Những cuộc xâm nhập này đã khiến Forthwini gửi lời cảnh báo tới Vua [Ondoher](../O/Ondoher.md) rằng những Người cưỡi ngựa đã phục hồi sức mạnh.<sup id="cite_ref-Narrows_2-1" class="reference"><a href="#cite_note-Narrows-2">[2]</a></sup>
 
-Trong [Kỷ Đệ Tứ](../F/Fourth_Age.md), Vùng Narrows có [Beornings](../B/Beornings.md) và [Người Rừng](../W/Woodmen.md)cư trú, tách biệt [Vương quốc Rừng](../W/Woodland_Realm.md) phía bắc khỏi vùng mới [phương Đông Lorien](../E/East_Lorien.md).
+Vào [Kỷ nguyên thứ tư](../F/Fourth_Age.md), Vùng Narrows là nơi sinh sống của [Beornings](../B/Beornings.md) và [Người rừng](../W/Woodmen.md), tách biệt [Vương quốc rừng](../W/Woodland_Realm.md) phía bắc khỏi khu vực mới [Đông Lorien](../E/East_Lorien.md).
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>:</b>
+<b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Nhập vai ở Trung Địa</a></i>:</b>
 
 <dl><dd>A Northman trail connecting the East Bight and West Bight, the Rad Angálaladh, traverses the Narrows.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></dd></dl>
 

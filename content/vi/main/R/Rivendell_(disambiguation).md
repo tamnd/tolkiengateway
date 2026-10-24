@@ -14,21 +14,21 @@ images:
   - "Disambig.png"
 ---
 
-**Rivendell** có thể tham khảo:
+**Rivendell** có thể đề cập đến:
 
-## Trung Địa {#Middle-earth}
+## Trung địa {#Middle-earth}
 
-- **[Rivendell](Rivendell.md)**, Tiên cư trú tại [Dãy Núi Sương Mù](../M/Misty_Mountains.md)
-- [Chúa tể của Rivendell](../L/Lord_of_Rivendell.md), danh hiệu [Elrond](../E/Elrond.md)
-- [Tính Rivendell](Reckoning_of_Rivendell.md), Lịch Imladris
-- [Elvish Bài hát trong Rivendell](../E/Elvish_Song_in_Rivendell.md), một bài thơ của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)
+- **[Rivendell](Rivendell.md)**, Yêu tinh sống ở [Dãy núi Sương mù](../M/Misty_Mountains.md)
+- [Lãnh chúa của Rivendell](../L/Lord_of_Rivendell.md), danh hiệu [Elrond](../E/Elrond.md)
+- [Tính toán Rivendell](Reckoning_of_Rivendell.md), Lịch của Imladris
+- [Bài hát Elvish ở Rivendell](../E/Elvish_Song_in_Rivendell.md), một bài thơ của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)
 
 ## Các bản chuyển thể {#Adaptations}
 
 ### Trò chơi {#Games}
 
 - *[Rivendell: The House of Elrond](Rivendell%253A_The_House_of_Elrond.md)*, phần bổ sung [MERP](../M/Middle-earth_Role_Playing.md)
-- *[Rivendell](<Rivendell_(The_One_Ring_role-playing_game).md>), phần bổ sung cho [Chiếc nhẫn duy nhất (trò chơi nhập vai)](<../T/The_One_Ring_(role-playing_game).md>)*
+- *[Rivendell](<Rivendell_(The_One_Ring_role-playing_game).md>), phần bổ sung cho [The One Ring (trò chơi nhập vai)](<../T/The_One_Ring_(role-playing_game).md>)*
 
 ### Âm nhạc {#Music}
 

@@ -37,11 +37,11 @@ infobox:
 - Biên tập: Chúng ta không đơn độc - [Chris Seeman](../C/Chris_Seeman.md)
 - Truyền thông - Martin Baker, Brian Carlton, Vyacheslav Kozlov, Alina Nemirova, Gary Hunnewell
 - Tiền tuyến - [Chris Seeman](../C/Chris_Seeman.md)
-- Danh mục toàn cầu về trò chơi Trung Địa - Gary Hunnewell
-- Nghi lễ và thực hành tôn giáo Tiên tộc của Trung Địa tại thời điểm Cuộc chiến Nhẫn - Michael R. Hiclonan
-- Người chữa lành Gondor - Nadine Salim
+- Danh mục toàn cầu về trò chơi ở Trung Địa - Gary Hunnewell
+- Nghi lễ và thực hành tôn giáo của Yêu tinh ở Trung Địa vào thời điểm diễn ra Cuộc chiến Nhẫn - Michael R. Hiclonan
+- Những người chữa lành Gondor - Nadine Salim
 - Bá tước Khazad - Bernie Roessler
 - Doanh nghiệp gia đình - Martin Rundqvist
 - Câu chuyện của Miller - Deena McKinney-Martin
 - Đánh giá sản phẩm: Kin-xung đột - Mark A. Merrell
-- Đánh giá sản phẩm: The Kin-strife (đánh giá thứ 2) - James Owen
+- Đánh giá sản phẩm: The Kin-xung đột (đánh giá lần 2) - James Owen

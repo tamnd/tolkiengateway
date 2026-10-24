@@ -20,4 +20,4 @@ sort_keys:
 
 - Người giữ bản quyền Andrew Wells cấp phép sử dụng ảnh [Nhà Quốc tế ngữ Anh (bìa)](<../../file/T/The_British_Esperantist_(cover).jpg.md>) và [Nhà Quốc tế ngữ Anh (trang tiêu đề).jpg](<../../file/T/The_British_Esperantist_(title_page).jpg.md>) trên Tolkien Gateway.
 - Ngày: 16 tháng 2 năm 2014.
-- Người dùng xin phép thông qua liên lạc riêng tư: [Người dùng:Morgan](https://tolkiengateway.net/wiki/User:Morgan).
+- Người dùng đã xin phép thông qua liên lạc riêng tư: [Người dùng:Morgan](https://tolkiengateway.net/wiki/User:Morgan).

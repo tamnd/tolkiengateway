@@ -19,7 +19,7 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Hobbit_The_Complete_Original_Soundtrack_-_cover.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/1/18/The_Hobbit_The_Complete_Original_Soundtrack_-_cover.jpg/250px-The_Hobbit_The_Complete_Original_Soundtrack_-_cover.jpg" decoding="async" loading="lazy" width="250" height="252" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/18/The_Hobbit_The_Complete_Original_Soundtrack_-_cover.jpg/375px-The_Hobbit_The_Complete_Original_Soundtrack_-_cover.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/1/18/The_Hobbit_The_Complete_Original_Soundtrack_-_cover.jpg/500px-The_Hobbit_The_Complete_Original_Soundtrack_-_cover.jpg 2x" data-file-width="574" data-file-height="579"/></a><figcaption>Soundtrack cover. Note the green version of <a href="../S/Smaug.md" title="Smaug">Smaug</a>, who is red in the film.</figcaption></figure>
 
-**The Hobbit: Bản nhạc gốc hoàn chỉnh** là nhạc phim của [*The Hobbit* (phim 1977)](<The_Hobbit_(1977_film).md>), được xuất bản trong [1977](../_/1977.md) bởi Buena Vista Records (một bộ phận của [Disney](../D/Disney.md)). Nó có nhiều bài thơ gốc của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), được chuyển thể bởi [Jules Bass](../J/Jules_Bass.md) và được [Maury Laws](../M/Maury_Laws.md) phổ nhạc. Kèm theo một tập sách 16 trang có hình minh họa đầy màu sắc từ bộ phim.
+**The Hobbit: The Complete Original Soundtrack** là nhạc phim của [*The Hobbit* (phim 1977)](<The_Hobbit_(1977_film).md>), được xuất bản trong [1977](../_/1977.md) bởi Buena Vista Records (một bộ phận của [Disney](../D/Disney.md)). Nó có nhiều bài thơ gốc của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), được chuyển thể bởi [Jules Bass](../J/Jules_Bass.md) và được [Maury Laws](../M/Maury_Laws.md) phổ nhạc. Kèm theo một tập sách 16 trang có hình minh họa đầy màu sắc từ bộ phim.
 
 - Định dạng: Bộ đóng hộp bao gồm 3 đĩa vinyl LP và tập sách nhỏ
 - Mã sản phẩm: Buena Vista ghi 103
@@ -28,32 +28,32 @@ images:
 
 # Mặt 1 (Bản ghi 1) {#Side_1_(Record_1)}
 
-1. "<a class="new" href="https://tolkiengateway.net/w/index.php?title=Bilbo_Baggins_Meets_Gandalf&amp;action=edit&amp;redlink=1" title="Bilbo Baggins Meets Gandalf (page does not exist)">Bilbo Baggins Gặp Gandalf</a>"
-2. "<a class="new" href="https://tolkiengateway.net/w/index.php?title=Thorin_and_Company_(soundtrack)&amp;action=edit&amp;redlink=1" title="Thorin and Company (soundtrack) (page does not exist)">Thorin và Đoàn tùy tùng</a>"
+1. "<a class="new" href="https://tolkiengateway.net/w/index.php?title=Bilbo_Baggins_Meets_Gandalf&amp;action=edit&amp;redlink=1" title="Bilbo Baggins Meets Gandalf (page does not exist)">Bilbo Baggins gặp Gandalf</a>"
+2. "<a class="new" href="https://tolkiengateway.net/w/index.php?title=Thorin_and_Company_(soundtrack)&amp;action=edit&amp;redlink=1" title="Thorin and Company (soundtrack) (page does not exist)">Thorin và đồng đội</a>"
 3. "<a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Journey_Begins&amp;action=edit&amp;redlink=1" title="The Journey Begins (page does not exist)">Hành trình bắt đầu</a>"
-4. "<a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Trolls&amp;action=edit&amp;redlink=1" title="The Trolls (page does not exist)"> Troll</a>"
-5. "<a class="new" href="https://tolkiengateway.net/w/index.php?title=Rivendell_Where_Elrond_Dwells&amp;action=edit&amp;redlink=1" title="Rivendell Where Elrond Dwells (page does not exist)">Rivendell Nơi Elrond Cư trú</a>"
+4. "<a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Trolls&amp;action=edit&amp;redlink=1" title="The Trolls (page does not exist)">Bọn quỷ lùn</a>"
+5. "<a class="new" href="https://tolkiengateway.net/w/index.php?title=Rivendell_Where_Elrond_Dwells&amp;action=edit&amp;redlink=1" title="Rivendell Where Elrond Dwells (page does not exist)">Rivendell Nơi Elrond cư trú</a>"
 
 # Mặt 2 (Bản ghi 2) {#Side_2_(Record_2)}
 
 1. "<a class="new" href="https://tolkiengateway.net/w/index.php?title=Into_the_Misty_Mountains&amp;action=edit&amp;redlink=1" title="Into the Misty Mountains (page does not exist)">Vào Dãy Núi Sương Mù</a>"
-2. "<a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Goblins&amp;action=edit&amp;redlink=1" title="The Goblins (page does not exist)">Cái Goblin</a>"
+2. "<a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Goblins&amp;action=edit&amp;redlink=1" title="The Goblins (page does not exist)">Bọn yêu tinh</a>"
 3. "<a class="new" href="https://tolkiengateway.net/w/index.php?title=Riddles_With_Gollum&amp;action=edit&amp;redlink=1" title="Riddles With Gollum (page does not exist)">Câu đố với Gollum</a>"
 4. "<a class="new" href="https://tolkiengateway.net/w/index.php?title=Trapped_In_the_Trees&amp;action=edit&amp;redlink=1" title="Trapped In the Trees (page does not exist)">Bị mắc kẹt trên cây</a>"
-5. "<a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Eagles%27_Rescue&amp;action=edit&amp;redlink=1" title="The Eagles&#39; Rescue (page does not exist)">Cuộc giải cứu Đại Bàng'</a>"
+5. "<a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Eagles%27_Rescue&amp;action=edit&amp;redlink=1" title="The Eagles&#39; Rescue (page does not exist)">Cuộc giải cứu đại bàng</a>"
 
 # Mặt 3 (Bản ghi 2) {#Side_3_(Record_2)}
 
-1. "<a class="new" href="https://tolkiengateway.net/w/index.php?title=Mirkwood_Forest&amp;action=edit&amp;redlink=1" title="Mirkwood Forest (page does not exist)">Mirkwood Rừng</a>"
-2. "<a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Spiders_Versus_Sting&amp;action=edit&amp;redlink=1" title="The Spiders Versus Sting (page does not exist)">Nhện đấu với Sting</a>"
-3. "<a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Wood_Elves%27_Prison&amp;action=edit&amp;redlink=1" title="The Wood Elves&#39; Prison (page does not exist)">Nhà tù Tiên tộc' Gỗ</a>"
-4. "<a class="new" href="https://tolkiengateway.net/w/index.php?title=Laketown_and_the_Lonely_Mountain&amp;action=edit&amp;redlink=1" title="Laketown and the Lonely Mountain (page does not exist)">Laketown và Ngọn Núi Cô Đơn</a>"
-5. "<a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Dragon_Smaug&amp;action=edit&amp;redlink=1" title="The Dragon Smaug (page does not exist)"> Rồng Smaug</a>"
+1. "<a class="new" href="https://tolkiengateway.net/w/index.php?title=Mirkwood_Forest&amp;action=edit&amp;redlink=1" title="Mirkwood Forest (page does not exist)">Rừng Mirkwood</a>"
+2. "<a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Spiders_Versus_Sting&amp;action=edit&amp;redlink=1" title="The Spiders Versus Sting (page does not exist)">Nhện đấu với vết chích</a>"
+3. "<a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Wood_Elves%27_Prison&amp;action=edit&amp;redlink=1" title="The Wood Elves&#39; Prison (page does not exist)">Nhà tù của Yêu tinh Rừng</a>"
+4. "<a class="new" href="https://tolkiengateway.net/w/index.php?title=Laketown_and_the_Lonely_Mountain&amp;action=edit&amp;redlink=1" title="Laketown and the Lonely Mountain (page does not exist)">Laketown và Ngọn núi Cô đơn</a>"
+5. "<a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Dragon_Smaug&amp;action=edit&amp;redlink=1" title="The Dragon Smaug (page does not exist)">Rồng Smaug</a>"
 
 # Mặt 4 (Bản ghi 1) {#Side_4_(Record_1)}
 
-1. "<a class="new" href="https://tolkiengateway.net/w/index.php?title=Bard_Saves_Laketown&amp;action=edit&amp;redlink=1" title="Bard Saves Laketown (page does not exist)">Bard Cứu Laketown</a>"
-2. "<a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Battle_of_Five_Armies&amp;action=edit&amp;redlink=1" title="The Battle of Five Armies (page does not exist)">Cái Trận chiến Năm Đạo quân</a>"
+1. "<a class="new" href="https://tolkiengateway.net/w/index.php?title=Bard_Saves_Laketown&amp;action=edit&amp;redlink=1" title="Bard Saves Laketown (page does not exist)">Bard cứu Laketown</a>"
+2. "<a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Battle_of_Five_Armies&amp;action=edit&amp;redlink=1" title="The Battle of Five Armies (page does not exist)">Trận chiến của năm đạo quân</a>"
 3. "<a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Journey_Ends&amp;action=edit&amp;redlink=1" title="The Journey Ends (page does not exist)">Hành trình kết thúc</a>"
 
 # Mặt 5 (Bản ghi 3) {#Side_5_(Record_3)}
@@ -67,13 +67,13 @@ images:
 
 # Mặt 6 (Bản ghi 3) {#Side_6_(Record_3)}
 
-1. "[Đó là điều Bilbo Baggins Ghét](That's_What_Bilbo_Baggins_Hates.md)"/"[Gandalf Suy ngẫm của](../G/Gandalf's_Reflection.md)"
+1. "[Đó là điều Bilbo Baggins ghét](That's_What_Bilbo_Baggins_Hates.md)"/"[Hình ảnh phản chiếu của Gandalf](../G/Gandalf's_Reflection.md)"
 2. "[Xuống, xuống, tới thị trấn yêu tinh](../D/Down,_Down,_To_Goblin_Town.md)"
 3. "[Lăn xuống hố](../R/Rollin'_Down_the_Hole.md)"
-4. "Câu đố của [Gollum](../G/Gollum's_Riddle.md)"
+4. "[Câu đố của Gollum](../G/Gollum's_Riddle.md)"
 5. "[Những điều nhỏ nhặt hài hước](../F/Funny_Little_Things.md)"
 6. "<a class="new" href="https://tolkiengateway.net/w/index.php?title=In_the_Valley,_Ha!_Ha!_(Reprise)&amp;action=edit&amp;redlink=1" title="In the Valley, Ha! Ha! (Reprise) (page does not exist)">Trong Thung lũng, Ha! Ha! (Tái hiện)</a>"
-7. "[Dãy Núi Sương Mù Lạnh](../M/Misty_Mountains_Cold.md)"
+7. "[Dãy núi sương mù lạnh](../M/Misty_Mountains_Cold.md)"
 
 ## Xem thêm {#See_also}
 

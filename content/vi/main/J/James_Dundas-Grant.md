@@ -18,11 +18,11 @@ sort_keys:
   "People by name": "Dundas-Grant, James"
 ---
 
-**James Dundas-Grant** ([1896](../_/1896.md)–[1985](../_/1985.md)) là bạn [Inkling](../I/Inklings.md) với [J.R.R. Tolkien](J.R.R._Tolkien.md). Ông là chỉ huy trưởng sư đoàn hải quân Đại học Oxford, là học viên theo học tại [Đại học Oxford](../U/University_of_Oxford.md).
+**James Dundas-Grant** ([1896](../_/1896.md)–[1985](../_/1985.md)) là bạn [Inkling](../I/Inklings.md) với [J.R.R. Tolkien](J.R.R._Tolkien.md). Ông là chỉ huy sư đoàn hải quân của Đại học Oxford, những học viên theo học tại [Đại học Oxford](../U/University_of_Oxford.md).
 
 Dundas-Grant là con trai của bác sĩ phẫu thuật tai mũi họng người Anh <a class="extiw" href="http://en.wikipedia.org/wiki/James_Dundas-Grant" title="wikipedia:James Dundas-Grant">Sir James Dundas-Grant</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Trong hồi ký của mình, "[Từ một 'Người ngoài cuộc'](../F/From_an_%2522Outsider%2522.md)" (1979), Dundas-Grant đã chia sẻ những kỷ niệm về [J.R.R. Tolkien](J.R.R._Tolkien.md).
+Trong hồi ký “[Từ một 'Người ngoài cuộc'](../F/From_an_%2522Outsider%2522.md)" (1979), Dundas-Grant đã chia sẻ những kỷ niệm về [J.R.R. Tolkien](J.R.R._Tolkien.md).
 
 <span></span>
 

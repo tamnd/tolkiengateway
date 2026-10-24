@@ -17,11 +17,11 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>The Fellowship of the Ring</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="../T/The_Fellowship_of_the_Ring_(disambiguation).md" title="The Fellowship of the Ring (disambiguation)">The Fellowship of the Ring (disambiguation)</a></b>.</div></div>
 
-<i><b>National Geographic: Beyond the Movie - The Lord of the Rings: The Fellowship of the Ring</b></i> là bộ phim tài liệu [2001](../_/2001.md) của National Geographic Channel. Sau đó nó sẽ được theo sau bởi *[Beyond the Movie: The Return of the King](Beyond_the_Movie%253A_The_Return_of_the_King.md)*.
+<i><b>National Geographic: Beyond the Movie - Chúa tể của những chiếc nhẫn: Hiệp hội những chiếc nhẫn</b></i> là một bộ phim tài liệu [2001](../_/2001.md) của National Geographic Channel. Sau đó nó sẽ được theo sau bởi *[Beyond the Movie: The Return of the King](Beyond_the_Movie%253A_The_Return_of_the_King.md)*.
 
 ## Bìa sau {#Back_Cover}
 
-Người bạn đồng hành cuối cùng của bộ phim bom tấn Hollywood. National Geographic bắt đầu một cuộc hành trình phi thường xuyên qua thần thoại, truyền thuyết, ngôn ngữ và lịch sử để khám phá thế giới tưởng tượng của Trung Địa phản ánh thế giới của chúng ta như thế nào. [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) là ai và anh ấy đã tạo ra thế giới [Trung Địa](../M/Middle-earth.md) tuyệt vời như thế nào? Cuộc đấu tranh giữa thiện và ác trong câu chuyện sử thi này song song với những thách thức trong thế giới của chúng ta như thế nào? Tại sao các địa điểm, anh hùng và nhân vật phản diện của Trung Địa lại quen thuộc một cách kỳ lạ? Frodos ngoài đời thực ngày nay là ai?
+Người bạn đồng hành cuối cùng của bộ phim bom tấn Hollywood. National Geographic bắt đầu một cuộc hành trình phi thường xuyên qua thần thoại, truyền thuyết, ngôn ngữ và lịch sử để khám phá thế giới tưởng tượng ở Trung Địa phản ánh thế giới của chúng ta như thế nào. [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) là ai và ông đã tạo ra thế giới tuyệt vời của [Trung Địa](../M/Middle-earth.md) như thế nào? Cuộc đấu tranh giữa thiện và ác trong câu chuyện sử thi này song song với những thách thức trong thế giới của chúng ta như thế nào? Tại sao các địa điểm, anh hùng và nhân vật phản diện ở Trung Địa lại quen thuộc một cách kỳ lạ? Frodos ngoài đời thực ngày nay là ai?
 
 Với những cảnh quay độc quyền từ [The Lord of the Rings: The Fellowship of the Ring](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md), những cuộc phỏng vấn sâu sắc với dàn diễn viên và các nhà làm phim cũng như góc nhìn đầy khiêu khích của các nhà thám hiểm, nhà nhân chủng học và nhà khảo cổ học. Chỉ National Geographic mới có thể mang đến cái nhìn độc đáo như vậy về bộ phim bom tấn và câu chuyện đời thực đằng sau nó.
 
@@ -43,7 +43,7 @@ Với những cảnh quay độc quyền từ [The Lord of the Rings: The Fellow
 - [Tom Shippey](../T/Tom_Shippey.md)
 - [Richard Taylor](../R/Richard_Taylor.md)
 - [Liv Tyler](../L/Liv_Tyler.md)
-- [Rayner Unwin](../R/Rayner_Unwin.md)
+- [Rayner giành chiến thắng](../R/Rayner_Unwin.md)
 - [Rừng Elijah](../E/Elijah_Wood.md)
 
 ## Liên kết ngoài {#External_links}

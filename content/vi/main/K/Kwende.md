@@ -13,13 +13,13 @@ categories:
   - "Primitive Quendian words"
 ---
 
-<i><b>kwende</b></i> xin vui lòng. <i><b>kwendî</b></i> là từ [Primitive Quendian](../P/Primitive_Quendian.md) cho [Tiên tộc](../E/Elves.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Từ này có lẽ được sử dụng chủ yếu ở số nhiều.
+<i><b>kwende</b></i> xin vui lòng. <i><b>kwendî</b></i> là từ [Quendian nguyên thủy](../P/Primitive_Quendian.md) dành cho [Yêu tinh](../E/Elves.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Từ này có lẽ được sử dụng chủ yếu ở số nhiều.
 
 ## Từ nguyên {#Etymology}
 
 Được hình thành từ [Gốc](../S/Sundocarmë.md) [KWE](KWE.md)NE (xem <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Kwene&amp;action=edit&amp;redlink=1" title="Kwene (page does not exist)">kwene</a></i>) với <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Ostime&amp;action=edit&amp;redlink=1" title="Ostime (page does not exist)">ostime</a></i> của *n &gt; nd*.
 
-Vì KWENE có lẽ được mở rộng từ KWE, gốc nguyên thủy nhất liên quan đến lời nói rõ ràng, nên thuật ngữ *kwendî* xác định Tiên tộc là "người nói".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Vì KWENE có lẽ được mở rộng từ KWE, gốc nguyên thủy nhất liên quan đến lời nói rõ ràng, nên thuật ngữ *kwendî* xác định Yêu tinh là "người nói".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Công cụ phái sinh {#Derivatives}
 
@@ -36,7 +36,7 @@ Lưu ý rằng chữ viết tắt *-e* cuối cùng không bị mất trong các
 
 ## Phiên bản khác {#Other_versions}
 
-Trong *[Etymologies](../T/The_Etymologies.md)* [Quenya](../Q/Quenya.md) *[quendë](../Q/Quendë.md)* "Tiên" có nguồn gốc từ gốc KWEN(ED) được định nghĩa đơn giản là "Tiên" và dạng nguyên thủy được đưa ra là *kwenedê*. <span></span>
+Trong *[Etymologies](../T/The_Etymologies.md)* [Quenya](../Q/Quenya.md) *[quendë](../Q/Quendë.md)* "Elf" có nguồn gốc từ gốc KWEN(ED) được định nghĩa đơn giản là "Elf" và dạng nguyên thủy được đưa ra là *kwenedê*. <span></span>
 
 ## Tài liệu tham khảo {#References}
 

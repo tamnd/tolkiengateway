@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Một người lùn Stiffbeard của Daniel Falconer, xuất hiện trong Mike Austin Mearls và Chris Seeman, *[The Lord of the Rings Trò chơi nhập vai](../../main/T/The_Lord_of_the_Rings_Roleplaying_Game.md): [Moria](../../main/T/The_Lord_of_the_Rings_Roleplaying_Game%253A_Moria.md)* (Decipher, 2003).
+Một người lùn Stiffbeard của Daniel Falconer, xuất hiện trong Mike Austin Mearls và Chris Seeman, *[The Lord of the Rings Roleplaying Game](../../main/T/The_Lord_of_the_Rings_Roleplaying_Game.md): [Moria](../../main/T/The_Lord_of_the_Rings_Roleplaying_Game%253A_Moria.md)* (Decipher, 2003).
 
 ## Giấy phép {#Licensing}
 

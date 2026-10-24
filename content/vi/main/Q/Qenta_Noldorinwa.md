@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Quenta"
 ---
 
-Chuyển hướng đến [The Quenta](../T/The_Quenta.md).
+Chuyển hướng đến [Quenta](../T/The_Quenta.md).

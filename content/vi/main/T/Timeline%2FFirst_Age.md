@@ -21,7 +21,7 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="Timeline.md" title="Timeline">Timeline</a></b></div></div>
 
-[Kỷ Đệ Nhất](../F/First_Age.md) bắt đầu với [Sự thức tỉnh của Tiên tộc](../A/Awakening_of_the_Elves.md) trong [Năm Cây](../Y/Years_of_the_Trees.md) [1050](../Y/Year_of_the_Trees_1050.md),<sup id="cite_ref-LettersEpoch_1-0" class="reference"><a href="#cite_note-LettersEpoch-1">[1]</a></sup> nhưng những Năm đó kết thúc vào [Y.T.](../Y/Years_of_the_Trees.md) [1500](../Y/Year_of_the_Trees_1500.md) với việc tạo ra [Mặt Trăng](../M/Moon.md) và [Mặt Trời](../S/Sun.md) và được thay thế bằng [Các Năm của Mặt Trời](../Y/Years_of_the_Sun.md). Do đó phần lớn của Kỷ Đệ Nhất tương đương với c. 4.312 năm dương lịch trước lần mọc đầu tiên của Mặt Trời.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 1]</a></sup>
+[Thời đại thứ nhất](../F/First_Age.md) bắt đầu với [Sự thức tỉnh của Yêu tinh](../A/Awakening_of_the_Elves.md) vào [Năm Cây](../Y/Years_of_the_Trees.md) [1050](../Y/Year_of_the_Trees_1050.md),<sup id="cite_ref-LettersEpoch_1-0" class="reference"><a href="#cite_note-LettersEpoch-1">[1]</a></sup> nhưng những Năm đó kết thúc vào [Y.T.](../Y/Years_of_the_Trees.md) [1500](../Y/Year_of_the_Trees_1500.md) với sự ra đời của [Mặt trăng](../M/Moon.md) và [Mặt trời](../S/Sun.md) và được thay thế bằng [Năm của Mặt trời](../Y/Years_of_the_Sun.md). Do đó, phần lớn thời đại thứ nhất tương đương với c. 4.312 năm dương lịch trước khi Mặt trời mọc lần đầu tiên.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 1]</a></sup>
 
 ## [Năm Cây](../Y/Years_of_the_Trees.md) {#Years_of_the_Trees}
 
@@ -251,7 +251,7 @@ images:
 <td><b> The Creation of the <a href="../M/Moon.md" title="Moon">Moon</a> and the <a href="../S/Sun.md" title="Sun">Sun</a>.<sup id="cite_ref-121" class="reference"><a href="#cite_note-121">[2.71]</a></sup> The host of the <a href="../N/Noldor.md" title="Noldor">Noldor</a>, led by <a href="../F/Fingolfin.md" title="Fingolfin">Fingolfin</a>, finishes crossing the <a href="../H/Helcaraxë.md" title="Helcaraxë">Helcaraxë</a> and enters the Northern Lands.</b><sup id="cite_ref-AA173_122-0" class="reference"><a href="#cite_note-AA173-122">[2.72]</a></sup><sup id="cite_ref-123" class="reference"><a href="#cite_note-123">[4.29]</a></sup> The <a href="../B/Battle_of_the_Lammoth.md" title="Battle of the Lammoth">Battle of the Lammoth</a> and death of <a href="../A/Argon.md" title="Argon">Argon</a>.<sup id="cite_ref-Shibboleth_124-0" class="reference"><a href="#cite_note-Shibboleth-124">[13]</a></sup><sup id="cite_ref-Shibbolethn38_125-0" class="reference"><a href="#cite_note-Shibbolethn38-125">[13.1]</a></sup> The Moon rises seven times, after which the Sun follows.<sup id="cite_ref-AA173_122-1" class="reference"><a href="#cite_note-AA173-122">[2.72]</a></sup> <b>The First Age continues.<sup id="cite_ref-LettersEpoch_1-2" class="reference"><a href="#cite_note-LettersEpoch-1">[1]</a></sup></b>
 </td></tr></tbody></table>
 
-## [Những năm Mặt Trời](../Y/Years_of_the_Sun.md) {#Years_of_the_Sun}
+## [Năm Mặt Trời](../Y/Years_of_the_Sun.md) {#Years_of_the_Sun}
 
 <table class="wikitable">
 <tbody><tr>
@@ -815,11 +815,11 @@ images:
 
 ### Y.T. 1330 {#Y.T._1330}
 
-Tolkien cũng đã xem xét YT 1320 cho năm đầu tiên Orc vào Beleriand.<sup id="cite_ref-AAc85p106_71-2" class="reference"><a href="#cite_note-AAc85p106-71">[2.44]</a></sup>
+Tolkien cũng đã xem xét YT 1320 cho năm đầu tiên của loài Orc ở Beleriand.<sup id="cite_ref-AAc85p106_71-2" class="reference"><a href="#cite_note-AAc85p106-71">[2.44]</a></sup>
 
 ### Y.T. 1490 {#Y.T._1490}
 
-Trong *Annals of Aman* và giai đoạn đầu tiên của *Quenta Silmarillion*Sau này, cuộc lưu đày của ông được viết là hai mươi năm.<sup id="cite_ref-AA99_90-2" class="reference"><a href="#cite_note-AA99-90">[2.53]</a></sup><sup id="cite_ref-EarlyFeanorUnrest_279-0" class="reference"><a href="#cite_note-EarlyFeanorUnrest-279">[31]</a></sup>
+Trong *Annals of Aman* và giai đoạn đầu tiên của *Quenta Silmarillion* Sau này, cuộc lưu đày của ông được viết là hai mươi năm.<sup id="cite_ref-AA99_90-2" class="reference"><a href="#cite_note-AA99-90">[2.53]</a></sup><sup id="cite_ref-EarlyFeanorUnrest_279-0" class="reference"><a href="#cite_note-EarlyFeanorUnrest-279">[31]</a></sup>
 
 ### Y.S. 313 {#Y.S._313}
 
@@ -827,52 +827,52 @@ Thay vào đó, sự xuất hiện của Marach ở Beleriand được ghi là 3
 
 ### Y.S. 402 {#Y.S._402}
 
-Trận chiến này chỉ được tham chiếu trong Grey Annals chứ không phải trong bất kỳ tài liệu nào được viết sau khi Tolkien đẩy lùi sự xuất hiện của Con Người trong Beleriand về 310, điều này đã sửa đổi hầu hết các mục Grey Annals' liên quan đến Con Người trước Dagor Bragollach. Nhiều đặc điểm của biên niên sử này tạo ra sự khác biệt với các phiên bản sau này. Bëor đã tham gia trận chiến này hai năm sau khi người của anh ta tiến vào Beleriand vào năm 400, và 18 năm trước khi các gia tộc khác của Edain đến vào năm 420, trong khi ở niên đại muộn hơn, tất cả Edain đã cư trú tại Beleriand ít nhất 89 năm và Bëor sẽ chết trước đó 47 năm. Điều này không nhất thiết có nghĩa là Tolkien không có ý định đưa sự kiện này vào phiên bản cuối cùng của mình, nhưng nếu anh ấy làm vậy thì không có dấu hiệu nào cho thấy sự kiện có thể đã được chuyển sang năm nào hoặc những con số nào có thể có liên quan.
+Trận chiến này chỉ được đề cập đến trong Biên niên sử Xám và không có trong bất kỳ tài liệu nào được viết sau khi Tolkien đẩy lùi sự xuất hiện của Đàn ông ở Beleriand đến năm 310, điều này đã sửa đổi hầu hết các mục trong Biên niên sử Xám liên quan đến Đàn ông trước Dagor Bragollach. Nhiều đặc điểm của biên niên sử này tạo ra sự khác biệt với các phiên bản sau này. Bëor tham gia trận chiến này hai năm sau khi người của ông tiến vào Beleriand vào năm 400, và 18 năm trước khi các gia tộc khác của Edain đến vào năm 420, trong khi theo niên đại sau này, tất cả người Edain đã cư trú ở Beleriand ít nhất 89 năm, và Bëor có thể đã chết trước đó 47 năm. Điều này không nhất thiết có nghĩa là Tolkien không có ý định đưa sự kiện này vào phiên bản cuối cùng của mình, nhưng nếu ông làm vậy, không có dấu hiệu nào cho thấy sự kiện có thể đã được chuyển sang năm nào hoặc những nhân vật nào có thể liên quan.
 
 ### Y.S. 422 {#Y.S._422}
 
-Biên niên sử này tạo ra sự khác biệt với niên đại hậu-Grey Annals, tương tự như biên niên sử về trận chiến ở Đèo Aglond năm 402 trong ghi chú trước. Trong Grey Annals, Haleth vẫn còn sống ở năm 422 và là một người đàn ông. Bảng phả hệ sau của Haladin cho biết cái chết của Haleth là 420, và bảng phả hệ sau *Quenta Silmarillion* mô tả Thingol trao Brethil cho người dân của mình và Haleth sống ở đó cho đến khi cô qua đời.<sup id="cite_ref-280" class="reference"><a href="#cite_note-280">[17.9]</a></sup>
+Biên niên sử này tạo ra sự khác biệt với niên đại của Biên niên sử hậu Grey, tương tự như biên niên sử về trận chiến ở Đèo Aglond năm 402 trong ghi chú trước. Trong Biên niên sử xám, Haleth vẫn còn sống vào năm 422 và là một người đàn ông. Bảng phả hệ sau này của Haladin cho biết cái chết của Haleth là 420, và Bảng phả hệ sau này *Quenta Silmarillion* mô tả Thingol trao Brethil cho người dân của mình và Haleth sống ở đó cho đến khi cô qua đời.<sup id="cite_ref-280" class="reference"><a href="#cite_note-280">[17.9]</a></sup>
 
 ### Y.S. 456 và Y.S. 473 {#Y.S._456_and_Y.S._473}
 
-Tuyên bố Gil-galad được gửi đến Cảng vào năm 456 được viết khi Tolkien được coi Gil-galad là con trai của Fingon. Khi Tolkien coi Gil-galad là con trai của Finrod Felagund, anh ta đã vội vàng ghi chú rằng Gil-galad đã bị đuổi đi khi Finrod rời khỏi Nargothrond cùng với Beren, hoặc khi Orodreth trục xuất Celegorm và Curufin khỏi Nargothrond.<sup id="cite_ref-WJ15_281-0" class="reference"><a href="#cite_note-WJ15-281">[32]</a></sup> Trong cả hai trường hợp, mẹ của Gil-galad đều đi cùng anh ta. Trong "Lời cuối cùng về chủ đề" của Tolkien, trong đó Gil-galad là con trai của Orodreth và anh trai của Finduilas, anh ta chỉ viết rằng "Gil-galad đã trốn thoát và cuối cùng đến miệng của Sirion".<sup id="cite_ref-282" class="reference"><a href="#cite_note-282">[13.3]</a></sup>
+Tuyên bố rằng Gil-galad được gửi đến Havens vào năm 456 được viết khi Tolkien coi Gil-galad là con trai của Fingon. Khi Tolkien coi Gil-galad là con trai của Finrod Felagund, ông đã vội vàng ghi chú rằng Gil-galad đã bị đuổi đi khi Finrod rời Nargothrond cùng Beren, hoặc khi Orodreth trục xuất Celegorm và Curufin khỏi Nargothrond.<sup id="cite_ref-WJ15_281-0" class="reference"><a href="#cite_note-WJ15-281">[32]</a></sup> Trong cả hai trường hợp, mẹ của Gil-galad đều đi cùng ông. Trong "lời cuối cùng về chủ đề này" của Tolkien, trong đó Gil-galad là con trai của Orodreth và anh trai của Finduilas, ông chỉ viết rằng "Gil-galad đã trốn thoát và cuối cùng đến Miệng của Sirion".<sup id="cite_ref-282" class="reference"><a href="#cite_note-282">[13.3]</a></sup>
 
-Tương tự, Gil-galad chỉ được mô tả là du hành cùng Cirdan tới Đảo Balar sau Sự sụp đổ của Falas trong phiên bản *Silmarillion* đã xuất bản của đoạn văn liên quan.
+Tương tự như vậy, Gil-galad chỉ được mô tả là đang du hành cùng Cirdan đến Đảo Balar sau Sự sụp đổ của Falas trong phiên bản *Silmarillion* đã xuất bản của đoạn văn liên quan.
 
 ### Y.S. 457 {#Y.S._457}
 
-Trong Grey Annals, ngày 456 ban đầu được viết phía trên mô tả về việc bắt giữ Minas Tirith, trước khi bị gạch bỏ và sự kiện được để lại dưới biên niên sử 455. Mô tả về thời gian gần hai năm trôi qua trong *Silmarillion* đã xuất bản có thể là sự viện dẫn đến các niên đại trước khi Grey Annals được viết.
+Trong Biên niên sử Xám, ngày 456 ban đầu được viết phía trên mô tả về việc bắt giữ Minas Tirith, trước khi bị loại bỏ và sự kiện được giữ nguyên trong biên niên sử 455. Mô tả về thời gian gần hai năm trôi qua trong *Silmarillion* đã xuất bản có thể là sự viện dẫn đến các niên đại trước khi viết Biên niên sử Xám.
 
 ### Y.S. 489 {#Y.S._489}
 
-Trong *Grey Annals*, chính [Blodren](../B/Blodren.md) là người phản bội [Gaurwaith](../G/Gaurwaith.md) chứ không phải Mîm. Không có dấu hiệu nào cho thấy ngày tháng đã thay đổi khi Mîm được giới thiệu vào câu chuyện.
+Trong *Grey Annals*, chính [Blodren](../B/Blodren.md) là người phản bội [Gaurwaith](../G/Gaurwaith.md) chứ không phải Mîm. Không có dấu hiệu nào cho thấy việc hẹn hò đã thay đổi khi Mîm được giới thiệu câu chuyện.
 
 ### Y.S. 502 {#Y.S._502}
 
-Trong phiên bản cuối cùng của *The Tale of Years*,<sup id="cite_ref-VD_255-1" class="reference"><a href="#cite_note-VD-255">[25]</a></sup> Húrin lấy kho báu từ Nargothrond đến Menegroth ở Y.S. 501, dựa trên hầu hết các phiên bản của câu chuyện, Mím cũng bị giết vào năm đó. Tuy nhiên *Wanderings of Hurin* thể hiện rõ ràng ở chỗ cái chết của Mím xảy ra vào năm Y.S. 502, điều này cho thấy rằng đó cũng là năm Húrin và người của ông ta đã giành được kho báu Nargothrond, tương đương với việc thu được Nauglamír trong phiên bản *Silmarillion* đã xuất bản. Do đó, việc đúc kho báu dưới chân Thingol cũng sẽ phải diễn ra ở Y.S. 502.
+Trong phiên bản cuối cùng của *The Tale of Years*,<sup id="cite_ref-VD_255-1" class="reference"><a href="#cite_note-VD-255">[25]</a></sup> Húrin mang kho báu từ Nargothrond đến Menegroth vào Y.S. 501, dựa trên hầu hết các phiên bản của câu chuyện đều cho rằng Mím cũng bị giết vào năm đó. Tuy nhiên *Wanderings of Hurin* thể hiện rõ ràng cái chết của Mím xảy ra vào năm Y.S. 502, điều này cho thấy rằng đó cũng là năm Húrin và người của ông ta giành được kho báu của Nargothrond, tương đương với việc giành được Nauglamír trong phiên bản *Silmarillion* đã xuất bản. Do đó, việc đúc kho báu dưới chân Thingol cũng sẽ phải xảy ra vào năm Y.S. 502.
 
-Phiên bản tương tự của *The Tale of Years* đặt cái chết của Thingol vào Y.S. 503, năm xảy ra cuộc xâm lược Doriath của Người lùn. Trong *Silmarillion*được xuất bản, cái chết của Thingol trùng hợp với cuộc cãi vã của anh ta với Người Lùn, mà *The Tale of Years* đặt trong Y.S. 502.
+Phiên bản tương tự của *The Tale of Years* đặt cái chết của Thingol vào Y.S. 503, năm xảy ra cuộc xâm lược Doriath của Người lùn. Trong *Silmarillion* đã xuất bản, cái chết của Thingol trùng hợp với cuộc cãi vã của ông ta với Người lùn, *The Tale of Years* đặt ở Y.S. 502.
 
 ### Y.S. 503 {#Y.S._503}
 
-Trong các phiên bản của Tolkien, bao gồm cả phiên bản cuối cùng của *The Tale of Years*, Melian không quay trở lại Valinor cho đến sau cuộc xâm lược của Người lùn Doriath, trong Y.S. 503 hoặc Y.S. 504.
+Trong các phiên bản của Tolkien, bao gồm cả phiên bản cuối cùng của *The Tale of Years*, Melian không quay trở lại Valinor cho đến sau cuộc xâm lược của Người lùn vào Doriath, trong Y.S. 503 hoặc Y.S. 504.
 
-Cái chết của Mablung trong cuộc xâm lược Doriath của Người lùn không được tìm thấy trong bất kỳ tác phẩm nào khác ngoài *Silmarillion*đã xuất bản. Mablung là một trong những [nguồn của Dírhaval](../D/Dírhaval.md),<sup id="cite_ref-283" class="reference"><a href="#cite_note-283">[33]</a></sup> và Dírhaval không được biết là đã từng ở Doriath, chỉ có Các Cảng Sirion.
+Cái chết của Mablung trong cuộc xâm lược Doriath của người lùn không được tìm thấy trong bất kỳ tác phẩm nào khác ngoài *Silmarillion* đã xuất bản. Mablung là một trong những nguồn [Dírhaval](../D/Dírhaval.md),<sup id="cite_ref-283" class="reference"><a href="#cite_note-283">[33]</a></sup> và Dírhaval không được biết là đã từng ở Doriath, chỉ có Cảng Sirion.
 
-Trong *The Tale of Years*, Curufin và Celegorm phục kích Người Lùn khi họ trở về từ Doriath và địa điểm được đặt tên là Fords của Ascar thay vì Sarn Athrad. Beren không có trong phiên bản này. Các phiên bản trong đó Beren một lần nữa có liên quan đến Trận Sarn Athrad, cụ thể là [Liên quan đến ... 'The Hoard'](../C/Concerning_..._'The_Hoard'.md) và [Thư 248](../L/Letter_248.md), được viết sau *The Tale of Years*.
+Trong *The Tale of Years*, Curufin và Celegorm phục kích Người lùn khi họ trở về từ Doriath, và địa điểm được đặt tên là Fords of Ascar chứ không phải Sarn Athrad. Beren không tham gia vào phiên bản này. Các phiên bản trong đó Beren một lần nữa tham gia vào Trận chiến Sarn Athrad, cụ thể là [Liên quan đến ... 'The Hoard'](../C/Concerning_..._'The_Hoard'.md) và [Thư 248](../L/Letter_248.md), được viết sau *The Tale of Years*.
 
 ### Y.S. 506 và Y.S. 507 {#Y.S._506_and_Y.S._507}
 
-Trong phiên bản cuối cùng của [*The Tale of Years*](<The_Tale_of_Years_(The_War_of_the_Jewels).md>) từ *[The War of the Jewels](The_War_of_the_Jewels.md)*, vợ của<sup id="cite_ref-284" class="reference"><a href="#cite_note-284">[25.6]</a></sup> Dior tên là **[Lindis](<../N/Nimloth_(elf_of_Doriath).md>)**, sống sót trong [Lần giết người thân thứ hai](../S/Second_Kinslaying.md) và trốn thoát đến [Ossiriand](../O/Ossiriand.md) cùng với con gái [Elwing](../E/Elwing.md) và với [Nauglamír](../N/Nauglamír.md), nhưng sau đó cô ấy quay về phía [Các Cảng Sirion](../M/Mouths_of_Sirion.md), có lẽ chỉ sau khi nghe tin về việc tập hợp [những người lưu vong](../E/Exiles_of_Gondolin.md) từ [Gondolin](../G/Gondolin.md) tại địa điểm đó ở [F.A.](../F/First_Age.md) [511](../F/First_Age_511.md). Trong *Silmarillion* được xuất bản, chương "Của Tuor và Sự sụp đổ của Gondolin" xác nhận rằng Elwing và người của cô ấy đã đến Cảng trước những người lưu vong của Gondolin.
+Trong phiên bản cuối cùng của [*The Tale of Years*](<The_Tale_of_Years_(The_War_of_the_Jewels).md>) từ *[The War of the Jewels](The_War_of_the_Jewels.md)*,<sup id="cite_ref-284" class="reference"><a href="#cite_note-284">[25.6]</a></sup> Vợ của Dior tên là **[Lindis](<../N/Nimloth_(elf_of_Doriath).md>)**, sống sót sau [Lần giết họ hàng thứ hai](../S/Second_Kinslaying.md) và trốn thoát đến [Ossiriand](../O/Ossiriand.md) cùng với con gái [Elwing](../E/Elwing.md) và cùng với [Nauglamír](../N/Nauglamír.md), nhưng sau đó bà quay về phía [Nơi trú ẩn của Sirion](../M/Mouths_of_Sirion.md), có thể chỉ sau khi nghe tin về cuộc tụ tập của [những người lưu vong](../E/Exiles_of_Gondolin.md) từ [Gondolin](../G/Gondolin.md) tại địa điểm đó ở [F.A.](../F/First_Age.md) [511](../F/First_Age_511.md). Trong *Silmarillion* đã xuất bản, chương "Của Tuor và sự sụp đổ của Gondolin" xác nhận rằng Elwing và người của bà đã đến Cảng trước những người Gondolin bị lưu đày.
 
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
 <li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Một <a class="mw-redirect" href="../Y/Year_of_the_Trees.md" title="Year of the Trees">Năm Cây</a> bằng 9,582 năm dương lịch.</span>
 </li>
-<li id="cite_note-89"><span class="mw-cite-backlink"><a href="#cite_ref-89">↑</a></span> <span class="reference-text">Tolkien đã tính năm sinh này theo giả định sau đó rằng Cuộc Vượt Băng xảy ra hoàn toàn trong vòng Y.T. 1496, thay vì kết thúc vào Y.T. 1500 và một Năm Valian đó bằng 144 năm dương lịch. (Nếu niên đại trước đó được giữ nguyên thì ông ấy đã tính được năm sinh là Y.T. 1483.)</span>
+<li id="cite_note-89"><span class="mw-cite-backlink"><a href="#cite_ref-89">↑</a></span> <span class="reference-text">Tolkien đã tính toán năm sinh này theo giả định sau đó rằng Cuộc vượt băng xảy ra hoàn toàn trong Y.T. 1496, thay vì kết thúc vào Y.T. 1500, và một Năm Valian đó bằng 144 năm dương lịch. (Nếu niên đại trước đó được giữ nguyên thì ông ấy đã tính được năm sinh là Y.T. 1483.)</span>
 </li>
-<li id="cite_note-270"><span class="mw-cite-backlink"><a href="#cite_ref-270">↑</a></span> <span class="reference-text">Trong Sơ đồ D của Tale of Years, các sự kiện của Vụ sát hại người thân lần thứ hai và sự xuất hiện của Elwing và mẹ cô ấy ở Cảng được mô tả trong biên niên sử của "506–507". Ở đó, Lễ sát nhân lần thứ hai trùng với lễ Yule, xảy ra vào giữa mùa đông và do đó vào hoặc gần đầu năm, do đó cuộc trốn thoát của Elwing được đặt ở đây vào năm 507 chứ không phải 506.</span>
+<li id="cite_note-270"><span class="mw-cite-backlink"><a href="#cite_ref-270">↑</a></span> <span class="reference-text">Trong Sơ đồ D của Câu chuyện về những năm tháng, các sự kiện của Vụ sát hại người thân lần thứ hai và việc Elwing và mẹ cô đến Cảng được mô tả trong biên niên sử của "506–507". Ở đó, Lễ sát nhân thứ hai trùng với lễ Yule, xảy ra vào giữa mùa đông và do đó vào hoặc gần đầu năm, do đó cuộc trốn thoát của Elwing được đặt ở đây vào năm 507 chứ không phải năm 506.</span>
 </li>
 </ol></div></span>
 

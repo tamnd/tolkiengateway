@@ -16,7 +16,7 @@ sort_keys:
   "Tolkien Societies": "Tolkien sFolge"
 ---
 
-**Tolkiens Følge** là một xã hội Tolkien tồn tại trong thời gian ngắn ở Đan Mạch. Hội được thành lập bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=Jeppe_Juul&amp;action=edit&amp;redlink=1" title="Jeppe Juul (page does not exist)">Jeppe Juul</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Roskilde" title="wikipedia:Roskilde">Roskilde</a> vào ngày [tháng Chín 22](../_/22_September.md), [1992](../_/1992.md). Hiệp hội đã xuất bản một số duy nhất của bản tin <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Ringen_(publication)&amp;action=edit&amp;redlink=1" title="Ringen (publication) (page does not exist)">Ringen</a></i>.
+**Tolkiens Følge** là một xã hội Tolkien tồn tại trong thời gian ngắn ở Đan Mạch. Hội được thành lập bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=Jeppe_Juul&amp;action=edit&amp;redlink=1" title="Jeppe Juul (page does not exist)">Jeppe Juul</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Roskilde" title="wikipedia:Roskilde">Roskilde</a> vào [ngày 22 tháng 9](../_/22_September.md), [1992](../_/1992.md). Hiệp hội đã xuất bản một số duy nhất của bản tin <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Ringen_(publication)&amp;action=edit&amp;redlink=1" title="Ringen (publication) (page does not exist)">Ringen</a></i>.
 
 "Tolkiens Følge" được lấy cảm hứng từ Hiệp hội Tolkien Thụy Điển: các thành viên mặc trang phục thời trung cổ và lấy bí danh từ vũ trụ do Tolkien tạo ra.
 

@@ -33,7 +33,7 @@ infobox:
 **Mythcon 7** là hội nghị [Hiệp hội thần thoại](Mythopoeic_Society.md) thường niên lần thứ bảy.
 
 - **Chủ đề:** Các yếu tố Arthurian trong [Williams](../C/Charles_Williams.md), [Lewis](../C/C.S._Lewis.md) và [Tolkien](../J/J.R.R._Tolkien.md)
-- **Khách mời danh dự:** Thomas Howard (học giảInklings)
+- **Khách mời danh dự:** Thomas Howard (học giả Inklings)
 - **Chủ tịch:** Bruce McMenomy
 - **Điều phối viên:** Mary Morman
 

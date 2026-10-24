@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Eldarin week"
 ---
 
-Chuyển hướng đến [Danh mục:Eldarin tuần](../../category/E/Eldarin_week.md).
+Chuyển hướng tới [Danh mục:Tuần lễ Eldarin](../../category/E/Eldarin_week.md).

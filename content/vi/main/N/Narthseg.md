@@ -21,19 +21,19 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../E/Elves.md" title="Elves">Elf</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Narthseg</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a class="mw-redirect" href="../A/Artanor.md" title="Artanor">Artanor</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr></tbody></table>
 
-**Narthseg** là [Tiên](../E/Elf.md) của [Artanor](../A/Artanor.md).
+**Narthseg** là một [Yêu tinh](../E/Elf.md) của [Artanor](../A/Artanor.md).
 
 ## Lịch sử {#History}
 
-Narthseg thuộc về người dân của [Artanor](../A/Artanor.md), nhưng sau đó đã phản bội cả Artanor và [Tinwelint](../T/Thingol.md) vị vua của mình bằng cách tiết lộ những thông tin quan trọng cho [Naugladur](Naugladur.md) chúa tể của [Nogrod](Nogrod.md) dẫn đến cái chết của Tinwelint và bao tải Artanor. Anh ấy đã bị giết trong trận chiến đó.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Narthseg thuộc về người dân của [Artanor](../A/Artanor.md), nhưng sau đó đã phản bội cả Artanor và [Tinwelint](../T/Thingol.md) vua của mình bằng cách tiết lộ những thông tin quan trọng cho [Naugladur](Naugladur.md) chúa tể của [Nogrod](Nogrod.md) dẫn đến cái chết của Tinwelint và việc Artanor bị cướp phá. Ông đã bị giết trong trận chiến đó.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-**Narthseg** là [Gnomish](../G/Gnomish.md), mặc dù nó không được đánh bóng. Trong Gnomish, *narth* có nghĩa là "mùi"<sup id="cite_ref-pe11_2-0" class="reference"><a href="#cite_note-pe11-2">[2]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:59</sup> và *seg* có nghĩa là "điểm giữa".<sup id="cite_ref-pe11_2-1" class="reference"><a href="#cite_note-pe11-2">[2]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:67</sup> Vì các từ chỉ "trung tâm" thường được dùng để chỉ "trái tim", nên điều này có thể có nghĩa là "Trái tim có mùi" (xem *Malcamectë*: "Trái tim của Ác ma").
+**Narthseg** là [Gnomish](../G/Gnomish.md), mặc dù nó không được đánh bóng. Trong Gnomish, *narth* có nghĩa là "mùi"<sup id="cite_ref-pe11_2-0" class="reference"><a href="#cite_note-pe11-2">[2]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:59</sup> và *seg* có nghĩa là "điểm giữa".<sup id="cite_ref-pe11_2-1" class="reference"><a href="#cite_note-pe11-2">[2]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:67</sup> Vì các từ chỉ "trung tâm" thường được dùng để chỉ "trái tim", nên điều này có thể có nghĩa là "Trái tim có mùi" (cf. *Malcamectë*: "Trái tim của Ác ma").
 
 ## Xem thêm {#See_also}
 
-- [Ufedhin](../U/Ufedhin.md): một Tiên khác đã phản bội Tinwelint
+- [Ufedhin](../U/Ufedhin.md): một Yêu tinh khác đã phản bội Tinwelint
 
 <span></span>
 

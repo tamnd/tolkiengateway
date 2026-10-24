@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Rodriguez, Jose"
 ---
 
-- Jose Rodriguez đã vui lòng cho phép sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Jose_Rodriguez.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
+- Jose Rodriguez đã vui lòng cho phép ông sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Jose_Rodriguez.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Ngày: 29 tháng 7 năm 2012
 - Người dùng đã xin phép qua email: [Người dùng:KingAragorn](https://tolkiengateway.net/wiki/User:KingAragorn)

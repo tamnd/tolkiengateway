@@ -31,7 +31,7 @@ images:
     - Anne Wipf: Chasse et biche blanche à Mirkwood
     - Éric Flieller: Les corbeaux et corneilles
     - Jean-Rodolphe Turlin: Những cuộc trò chuyện
-    - François Ruiz: Những dấu vết của Huan
+    - François Ruiz: Sur les trace de Huân
 - Bảng thuật ngữ
     - Espèces et groupes d'animaux
     - Nhân vật chăn nuôi
@@ -52,11 +52,11 @@ images:
     - Julien Mansencal: *The Children of Húrin*
     - Stephanie Loubechine: *[The History of The Hobbit](../T/The_History_of_The_Hobbit.md)*
 - Tập tin: Động vật
-    - Jean-Yves Stenuick: Beorn hay nguồn gốc khả năng đặc biệt của một người đàn ông
-    - Anne Wipf: Hunt và White Doe trong Mirkwood
+    - Jean-Yves Stenuick: Beorn hay nguồn gốc những khả năng đặc biệt của con người
+    - Anne Wipf: Đi săn và hươu trắng ở Mirkwood
     - Éric Flieller: Quạ và quạ
     - Jean-Rodolphe Turlin: Mèo
-    - François Ruiz: Theo bước chân của Huan
+    - François Ruiz: Theo bước Huân
 - Bảng thuật ngữ
     - Loài và nhóm động vật
     - Nhân vật động vật

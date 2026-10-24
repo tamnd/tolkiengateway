@@ -34,15 +34,15 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien rất vui vì [Christopher](../C/Christopher_Tolkien.md) đã gửi nhiều thư và có thêm nhiều [Nhẫn](../T/The_Lord_of_the_Rings.md) nữa đã đến. Con trai ông thích nó mặc dù nó dường như làm tăng thêm nỗi nhớ nhà của ông. Tolkien nhận xét rằng nó chỉ thể hiện sự khác biệt giữa cuộc sống và văn học. Bất kỳ ai thực sự ở [Kirith Ungol](../C/Cirith_Ungol.md) đều muốn đổi nó lấy bất kỳ nơi nào khác trên thế giới, ngoại trừ chính [Mordor](../M/Mordor.md). Một điều mà văn học dạy là chúng ta có trong mình một yếu tố vĩnh cửu, thoát khỏi sự bận tâm và sợ hãi, có thể thanh thản nhìn nhận cuộc sống và cái ác. Ông coi đó là một chiến thắng khi hai chương cuối có thể khiến con trai ông quên đi tiếng ồn ào trong Phòng Phi hành đoàn!
+Tolkien rất vui vì [Christopher](../C/Christopher_Tolkien.md) đã gửi nhiều thư và thêm [Chiếc nhẫn](../T/The_Lord_of_the_Rings.md) đã đến. Con trai ông thích nó mặc dù nó dường như làm tăng thêm nỗi nhớ nhà của ông. Tolkien nhận xét rằng nó chỉ cho thấy sự khác biệt giữa cuộc sống và văn học. Bất cứ ai thực sự ở [Kirith Ungol](../C/Cirith_Ungol.md) đều muốn đổi nó lấy bất kỳ nơi nào khác trên thế giới, ngoại trừ chính [Mordor](../M/Mordor.md). Một điều mà văn học dạy là chúng ta có trong mình một yếu tố vĩnh cửu, thoát khỏi sự bận tâm và sợ hãi, có thể thanh thản nhìn nhận cuộc sống và cái ác. Ông coi đó là một chiến thắng khi hai chương cuối có thể khiến con trai ông quên đi tiếng ồn ào trong Phòng Phi hành đoàn!
 
-Thời tiết là một trong những sự kiện chính của lễ Giáng sinh. Một làn sương mù dày đặc đã đóng băng và tạo ra sương muối mà trước đây anh chỉ có thể nhớ được ba lần trong đời. Một trong những sự kiện đáng yêu nhất của thiên nhiên miền Bắc, Tolkien, mô tả thế giới sương mù im lặng mờ ảo với đồ trang sức bằng sương muối, mạng nhện giăng lưới và hoa văn kim cương. Ngày hôm sau mặt trời ló dạng và tất cả đều đẹp đến nghẹt thở. Dưới ánh trăng, đó là hình ảnh của một thế giới hoặc thời gian khác.
+Thời tiết là một trong những sự kiện chính của lễ Giáng sinh. Một làn sương mù dày đặc đã đóng băng và tạo ra sương muối mà trước đây anh chỉ có thể nhớ được ba lần trong đời. Tolkien cho biết, một trong những sự kiện đáng yêu nhất của thiên nhiên phương Bắc, mô tả thế giới sương mù im lặng mờ ảo với đồ trang sức bằng sương muối, mạng nhện có lưới và hoa văn kim cương. Ngày hôm sau mặt trời ló dạng và tất cả đều đẹp đến nghẹt thở. Dưới ánh trăng, đó là hình ảnh của một thế giới hoặc thời gian khác.
 
-<a class="extiw" href="http://en.wikipedia.org/wiki/Anthony_Eden" title="wikipedia:Anthony Eden">Ông. Eden</a> tại Hạ viện đã bày tỏ sự đau buồn trước những sự việc xảy ra ở Hy Lạp, "ngôi nhà của nền dân chủ". Anh ta không biết hay không thành thật, hỏi Tolkien. Trong tiếng Hy Lạp, nó không phải là một từ tán thành mà gần như là "sự cai trị của đám đông". Các quốc gia Hy Lạp vĩ đại, đặc biệt là Athens vào thời kỳ có nghệ thuật và quyền lực cao, gần như là những chế độ độc tài.
+<a class="extiw" href="http://en.wikipedia.org/wiki/Anthony_Eden" title="wikipedia:Anthony Eden">Ông. Eden</a> tại Hạ viện đã bày tỏ sự đau buồn trước những sự việc xảy ra ở Hy Lạp, "ngôi nhà của nền dân chủ". Tolkien hỏi ông ta là người thiếu hiểu biết hay không thành thật. Trong tiếng Hy Lạp, nó không phải là một từ tán thành mà gần như là "sự cai trị của đám đông". Các quốc gia Hy Lạp vĩ đại, đặc biệt là Athens vào thời kỳ có nghệ thuật và quyền lực cao, gần như là những chế độ độc tài.
 
 <dl><dt>In the expanded edition</dt></dl>
 
-Ở cuối đoạn thứ hai Tolkien nhận xét về thời tiết ở Birmingham và suy nghĩ của mọi người về thời tiết đó.
+Ở cuối đoạn thứ hai, Tolkien bình luận về thời tiết ở Birmingham và suy nghĩ của mọi người về thời tiết đó.
 
 <br>
 

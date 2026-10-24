@@ -39,32 +39,32 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mythlore_68.gif.md"><img src="https://tolkiengateway.net/w/images/c/c2/Mythlore_68.gif" decoding="async" loading="lazy" width="225" height="299" class="mw-file-element" data-file-width="225" data-file-height="299"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mythlore 68</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../G/Glen_GoodKnight.md" title="Glen GoodKnight">Glen GoodKnight</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Spring <a href="../_/1992.md" title="1992">1992</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">67</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mythlore_67.md" title="Mythlore 67">Mythlore 67</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mythlore_69.md" title="Mythlore 69">Mythlore 69</a></td></tr></tbody></table>
 
-<b><i>Mythlore</i> 68</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol18/iss2/" rel="noreferrer noopener" target="_blank">Tập 18, Số 2</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
+<b><i>Thần thoại</i> 68</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol18/iss2/" rel="noreferrer noopener" target="_blank">Tập 18, Số 2</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
 
 ## Nội dung {#Contents}
 
 #### Bài viết {#Articles}
 
-- Người xanh, David. “Các mô hình trốn thoát và quay trở lại của Aeneidic và Odyssean trong *The Fall of Gondolin* và *The Return of the King*của Tolkien.”
-- Payne, Graig. “Sự cứu chuộc của Cain trong John *Grendel*của Gardner.”
-- Fike, Matthew A. “Thiên nhiên là siêu nhiên: Bản sửa đổi Spenser của Donaldson.”
+- Greenman, David. “Aeneidic and Odyssean Patterns of Escape and Return in Tolkien's *The Fall of Gondolin* and *The Return of the King*.”
+- Payne, Graig. “The Redemption of Cain in John Gardner's *Grendel*.”
+- Fike, Matthew A. “Nature As Supernature: Donaldson's Revision of Spenser.”
 - Wynne, Patrick, Paula DiSante, Sarah Beach và Lynn Maudlin. “Dự án chung của các nghệ sĩ.”
-- Giá, Beverly. “Sheri S. Tepper và Tương lai của Chủ nghĩa Nữ quyền.”
-- Hyde, Paul Nolan. “Khiêu vũ với Dusei: Phản hồi cá nhân cho *The Faded Sun*của C.J. Cherryh.”
-- Bãi biển, Sarah. “Mất mát và đền bù: Trách nhiệm trong *Beowulf*.”
+- Price, Beverly. “Sheri S. Tepper and Feminism's Future.”
+- Hyde, Paul Nolan. “Dances with Dusei: A Personal Response to C.J. Cherryh's *The Faded Sun*.”
+- Beach, Sarah. “Loss and Recompense: Responsibilities in *Beowulf*.”
 
 #### Tính năng {#Features}
 
-- GoodKnight, Glen H. Editorial Giới thiệu: Trong số này.
-- Christopher, Joe R. và Wayne G. Hammond. Một Inklings Thư mục (45).
-- Kodratiev, Alexei. “Những câu chuyện mới được kể.”
+- GoodKnight, Glen H. Editorial Introduction: In This Issue.
+- Christopher, Joe R., and Wayne G. Hammond. An Inklings Bibliography (45).
+- Kondratiev, Alexei. “Tales Newly Told.”
 - Hyde, Paul Nolan. “Quenti Lambardillion.”
 - Thư.
 
 #### Đánh giá {#Reviews}
 
-- *The Lord of the Rings.* J.R.R. Tolkien, Minh họa. bởi Alan Lee. Được đánh giá bởi Nancy-Lou Patterson.
-- *The Lord of the Rings.* J.R.R. Tolkien, Minh họa. bởi Alan Lee. Được đánh giá bởi Paula DiSante.
+- *The Lord of the Rings.* J.R.R. Tolkien, Minh họa. của Alan Lee. Được đánh giá bởi Nancy-Lou Patterson.
+- *The Lord of the Rings.* J.R.R. Tolkien, Minh họa. của Alan Lee. Được đánh giá bởi Paula DiSante.
 - *Farmer Giles of Ham.* J.R.R. Tolkien. Được đánh giá bởi Nancy-Lou Patterson.
 - *The Adventures of Tom Bombadil.* J.R.R. Tolkien. Được đánh giá bởi Nancy-Lou Patterson.
 - *Smith of Wooton Major.* J.R.R. Tolkien. Được đánh giá bởi Nancy-Lou Patterson.

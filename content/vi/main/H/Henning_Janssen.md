@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Janssen, Henning"
 ---
 
-**Henning Janssen** là một nghệ sĩ tưởng tượng và họa sĩ minh họa tự do người Hà Lan, người đã thực hiện một số [Tolkien](../J/J.R.R._Tolkien.md) tác phẩm liên quan, chẳng hạn như [Lịch HenJ GrafX 2006](HenJ_GrafX_Calendar_2006.md). Anh ấy cũng là họa sĩ vẽ concept cho bộ phim *[Born of Hope](../B/Born_of_Hope.md)*dành cho người hâm mộ.
+**Henning Janssen** là một nghệ sĩ tưởng tượng và họa sĩ minh họa tự do người Hà Lan, người đã thực hiện một số tác phẩm liên quan đến [Tolkien](../J/J.R.R._Tolkien.md), chẳng hạn như [HenJ GrafX Calendar 2006](HenJ_GrafX_Calendar_2006.md). Ông cũng là họa sĩ vẽ concept cho bộ phim *[Born of Hope](../B/Born_of_Hope.md)* dành cho người hâm mộ.
 
 ## Xem thêm {#See_also}
 

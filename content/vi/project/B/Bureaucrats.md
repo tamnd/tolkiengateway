@@ -16,9 +16,9 @@ images:
 
 <table class="noprint" style="float: right; border:var(--tg-border-base); background:var(--tg-color-surface-2); margin: .3em .3em .3em 1em; padding: 10px; text-align: center;border-radius:var(--tg-border-radius-large);"><tbody><tr><th style="border: none; background: transparent;" class="plainlist"><small>Shortcuts:<br/><a class="mw-redirect" href="BUR.md" title="Tolkien Gateway:BUR">TG:BUR</a><br/><a class="mw-redirect" href="../C/CRAT.md" title="Tolkien Gateway:CRAT">TG:CRAT</a></small></th></tr></tbody></table>
 
-**Các quan chức** là những biên tập viên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md) đã được cấp khả năng kỹ thuật để thay đổi các quyền của người dùng cá nhân. Đặc biệt, họ có thể thăng chức cho các biên tập viên lên vị trí [quản trị](../A/Administrators.md) hoặc phê duyệt việc tạo [bot](Bots.md) mới.
+**Các quan chức** là các biên tập viên của [Tolkien Gateway](../../main/T/Tolkien_Gateway.md) đã được cấp khả năng kỹ thuật để thay đổi quyền của từng người dùng. Đặc biệt, họ có thể thăng chức cho các biên tập viên lên vị trí [quản trị](../A/Administrators.md) hoặc phê duyệt việc tạo [bot](Bots.md) mới.
 
-Các quan chức là những người tình nguyện sử dụng *judgement* của mình để phát huy khả năng của mình vì lợi ích tốt nhất của Tolkien Gateway. Hiện tại có 3 quan chức.
+Các quan chức là những tình nguyện viên sử dụng *judgement* của chính mình để thực hiện khả năng của mình vì lợi ích tốt nhất của Tolkien Gateway. Hiện tại có 3 quan chức.
 
 <h2><span id="Bureaucrats.27_abilities"></span><span class="mw-headline" id="Bureaucrats&#39;_abilities">Bureaucrats&#39; abilities</span></h2>
 
@@ -41,4 +41,4 @@ Hiện tại không có thủ tục xác định nào để người dùng trở
 
 ## Xem thêm {#See_also}
 
-- [Tolkien Gateway: Quản trị viên](../A/Administrators.md), nhóm người dùng dành cho những biên tập viên có khả năng kỹ thuật sâu rộng.
+- [Tolkien Gateway: Administrators](../A/Administrators.md), nhóm người dùng dành cho các biên tập viên có năng lực kỹ thuật sâu rộng.

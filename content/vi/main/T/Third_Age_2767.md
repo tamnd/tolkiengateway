@@ -16,13 +16,13 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><a href="../F/First_Age.md" title="First Age">I</a><a href="../S/Second_Age.md" title="Second Age">II</a><b>III</b><a href="../F/Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="Third_Age_2759.md" title="Third Age 2759">2759</a><a href="Third_Age_2760.md" title="Third Age 2760">2760</a><a href="Third_Age_2763.md" title="Third Age 2763">2763</a><a class="mw-selflink selflink">2767</a><a href="Third_Age_2769.md" title="Third Age 2769">2769</a><a href="Third_Age_2770.md" title="Third Age 2770">2770</a><a href="Third_Age_2772.md" title="Third Age 2772">2772</a></div></div></div></div></div></div>
 
-**Kỷ Đệ Tam 2767** (viết tắt là **T.A. 2767**) là năm [thứ 2767 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Tam](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Kỷ Đệ Tam 2767 còn được gọi là **S.R. 1167** trong [lịch Shire](../S/Shire-reckoning.md).
+**Kỷ thứ ba 2767** (viết tắt là **T.A. 2767**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 2767 của [Kỷ thứ ba](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Thời đại thứ ba 2767 còn được gọi là **S.R. 1167** trong [Tính toán quận](../S/Shire-reckoning.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 - Sự ra đời của [Balbo Baggins](../B/Balbo_Baggins.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 - Sự ra đời của [Bosco Boffin](../B/Bosco_Boffin.md), con trai đầu lòng của [Buffo Boffin](../B/Buffo_Boffin.md) và [Ivy Goodenough](../I/Ivy_Goodenough.md)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
-- Sinh [Dáin II Ironfoot](../D/Dáin_Ironfoot.md), con trai [Náin](<../N/Náin_(son_of_Grór).md>)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+- Sự ra đời của [Dáin II Ironfoot](../D/Dáin_Ironfoot.md), con trai của [Náin](<../N/Náin_(son_of_Grór).md>)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

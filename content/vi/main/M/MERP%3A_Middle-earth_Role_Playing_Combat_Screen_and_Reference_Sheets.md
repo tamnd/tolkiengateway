@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Middle-earth Role Playing Combat Screen and Reference Sheets"
 ---
 
-Chuyển hướng đến [Middle-earth Role Playing Màn hình chiến đấu và bảng tham khảo](Middle-earth_Role_Playing_Combat_Screen_and_Reference_Sheets.md).
+Chuyển hướng đến [Màn hình chiến đấu nhập vai ở Trung Địa và Bảng tham khảo](Middle-earth_Role_Playing_Combat_Screen_and_Reference_Sheets.md).

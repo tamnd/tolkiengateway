@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Grigorjev, Konstantin"
 ---
 
-- Konstantin Grigorjev đã vui lòng cho phép anh ấy sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Konstantin_Grigorjev.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
+- Konstantin Grigorjev đã vui lòng cho phép anh sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Konstantin_Grigorjev.md) trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
 - Ngày: 13 tháng 10 năm 2023
 - Người dùng đã xin phép qua DeviantArt: [Người dùng:IvarTheBoneless](https://tolkiengateway.net/wiki/User:IvarTheBoneless)

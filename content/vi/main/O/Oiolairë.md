@@ -31,15 +31,15 @@ langlinks:
     url: "https://kontu.wiki/Oiolair%C3%AB"
 ---
 
-**Oiolairë** là một [Cây thơm](../F/Fragrant_Trees.md) mọc ở [Númenor](../N/Númenor.md), và đặc biệt là ở khu vực phía Tây được gọi là [Nísimaldar](../N/Nísimaldar.md). Theo thông lệ của [Númenórean](../N/Númenóreans.md) thủy thủ, họ sẽ đặt một cành cây **oiolairë** đã cắt trên mũi [tàu](../S/Ships.md) của họ, được gọi là [Cành cây trở về xanh](../G/Green_Bough_of_Return.md), như một biểu tượng của sự may mắn.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Oiolairë** là một [Cây thơm](../F/Fragrant_Trees.md) mọc ở [Númenor](../N/Númenor.md), và đặc biệt là ở khu vực phía tây được gọi là [Nísimaldar](../N/Nísimaldar.md). Theo phong tục của các thủy thủ [Númenórean](../N/Númenóreans.md) là đặt một cành cây **oiolairë** đã cắt trên mũi [con tàu](../S/Ships.md) của họ, được gọi là [Cành cây trở về xanh](../G/Green_Bough_of_Return.md), như một biểu tượng của sự may mắn.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Oiolairë* là [Quenya](../Q/Quenya.md) cho "Mùa hè vĩnh cửu".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+*Oiolairë* là [Quenya](../Q/Quenya.md) có nghĩa là "Mùa hè vĩnh cửu".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1994: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a>—<a href="../T/Treasures_of_Middle-earth_(2nd_edition).md" title="Treasures of Middle-earth (2nd edition)">Kho báu của Trung Địa</a></i></b>
+<b>1994: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Nhập vai ở Trung Địa</a>—<a href="../T/Treasures_of_Middle-earth_(2nd_edition).md" title="Treasures of Middle-earth (2nd edition)">Kho báu của Trung Địa</a></i></b>
 
 <dl><dd><i><b>Oiolairé</b></i> is mentioned as a sweet-scented evergreen that grew around <a href="../F/Fornost_Erain.md" title="Fornost Erain">Fornost Erain</a>, but went extinct when they were all burned by the forces of <a href="../A/Angmar.md" title="Angmar">Angmar</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></dd></dl>
 

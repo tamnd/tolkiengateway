@@ -16,7 +16,7 @@ sort_keys:
   "Tolkien Societies": "Arda-sallskapet"
 ---
 
-**Arda-sällskapet** (tiếng Thụy Điển:**Arda Xã hội**) là một xã hội Tolkien Thụy Điển. Họ là nhà xuất bản của tạp chí song ngữ (tiếng Anh và nhiều ngôn ngữ Scandinavia khác) [*Arda*](<Arda_(annual).md>) và *Arda Philology* ghi lại diễn biến của hội nghị ngôn ngữ học hai năm một lần [Omentielva](../O/Omentielva.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
+**Arda-sällskapet** (tiếng Thụy Điển:**Hội Arda**) là một hội Tolkien của Thụy Điển. Họ là nhà xuất bản của tạp chí song ngữ (tiếng Anh và nhiều ngôn ngữ Scandinavia khác) [*Arda*](<Arda_(annual).md>) và *Arda Philology* ghi lại diễn biến của hội nghị ngôn ngữ học hai năm một lần [Omentielva](../O/Omentielva.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

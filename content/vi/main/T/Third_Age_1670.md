@@ -16,12 +16,12 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><a href="../F/First_Age.md" title="First Age">I</a><a href="../S/Second_Age.md" title="Second Age">II</a><b>III</b><a href="../F/Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="Third_Age_1636.md" title="Third Age 1636">1636</a><a href="Third_Age_1637.md" title="Third Age 1637">1637</a><a href="Third_Age_1640.md" title="Third Age 1640">1640</a><a class="mw-selflink selflink">1670</a><a href="Third_Age_1684.md" title="Third Age 1684">1684</a><a href="Third_Age_1711.md" title="Third Age 1711">1711</a><a href="Third_Age_1731.md" title="Third Age 1731">1731</a></div></div></div></div></div></div>
 
-**Kỷ Đệ Tam 1670** (viết tắt là **T.A. 1670**) là năm [thứ 1670 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Tam](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Kỷ Đệ Tam 1670 còn được gọi là **S.R. 70** trong [lịch Shire](../S/Shire-reckoning.md).
+**Thời đại thứ ba 1670** (viết tắt là **T.A. 1670**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 1670 của [Thời đại thứ ba](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Thời đại thứ ba năm 1670 còn được gọi là **S.R. 70** trong [Tính toán quận](../S/Shire-reckoning.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 - Cái chết của [Vua](../K/Kings_of_Arthedain.md) [Argeleb II](../A/Argeleb_II.md) của [Arthedain](../A/Arthedain.md).<sup id="cite_ref-AppA_1-0" class="reference"><a href="#cite_note-AppA-1">[1]</a></sup>
-Con trai của - [Argeleb II](../A/Argeleb_II.md), [Arvegil](../A/Arvegil.md), trở thành [Vua](../K/Kings_of_Arthedain.md) thứ mười một của [Arthedain](../A/Arthedain.md).<sup id="cite_ref-AppA_1-1" class="reference"><a href="#cite_note-AppA-1">[1]</a></sup>
+- [Con trai của Argeleb II](../A/Argeleb_II.md), [Arvegil](../A/Arvegil.md), trở thành [Vua](../K/Kings_of_Arthedain.md) thứ mười một của [Arthedain](../A/Arthedain.md).<sup id="cite_ref-AppA_1-1" class="reference"><a href="#cite_note-AppA-1">[1]</a></sup>
 
 <span></span>
 

@@ -21,7 +21,7 @@ sort_keys:
 
 Trong bản thảo "[Từ, cụm từ và đoạn văn](../P/Parma_Eldalamberon_17.md)", Sindarin *randir* bao gồm một từ phái sinh của gốc [RĂNĂ](RAN.md) ("lang thang") + <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Ndir&amp;action=edit&amp;redlink=1" title="Ndir (page does not exist)">ndir</a></i> ("người đàn ông").<sup id="cite_ref-PE_1-2" class="reference"><a href="#cite_note-PE-1">[1]</a></sup>
 
-Trong bản thảo “[Những dòng sông và ngọn đồi Gondor](../T/The_Rivers_and_Beacon-hills_of_Gondor~21248.md)”, Sindarin *randír* xuất phát từ [gốc](../S/Sundocarme.md) [RAN](RAN.md).<sup id="cite_ref-VT_2-2" class="reference"><a href="#cite_note-VT-2">[2]</a></sup>
+Trong bản thảo "[Những dòng sông và những ngọn đồi của Gondor](../T/The_Rivers_and_Beacon-hills_of_Gondor~21248.md)", Sindarin *randír* có nguồn gốc từ [gốc](../S/Sundocarme.md) [RAN](RAN.md).<sup id="cite_ref-VT_2-2" class="reference"><a href="#cite_note-VT-2">[2]</a></sup>
 
 ## Ví dụ {#Examples}
 

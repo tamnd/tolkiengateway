@@ -18,7 +18,7 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the Sindarin word</b>. For the river in the early legendarium, see <b><a href="Nen_(river_in_Valinor).md" title="Nen (river in Valinor)">Nen (river in Valinor)</a></b>.</div></div>
 
-<i><b>nen</b></i> là danh từ [Sindarin](../S/Sindarin.md) có nghĩa là "nước" (được dùng cho một vùng nước nhỏ như hồ, vũng, sông nhỏ hoặc nhánh).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+<i><b>nen</b></i> là danh từ [tiếng Sindarin](../S/Sindarin.md) có nghĩa là "nước" (được dùng cho một vùng nước nhỏ như hồ, ao, sông nhỏ hoặc nhánh).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -26,14 +26,14 @@ Trong *[The Etymologies](../T/The_Etymologies.md)*, [Noldorin](Noldorin.md) *nen
 
 ## Ví dụ {#Examples}
 
-- <i><a href="../B/Bruinen.md" title="Bruinen">Brui<b>nen</b></a> =</i> "Loudwater"
+- <i><a href="../B/Bruinen.md" title="Bruinen">Brui<b>nen</b></a> =</i> "Tiếng nước lớn"
 - <i><a href="../M/Mirrormere.md" title="Mirrormere"><b>Nen</b> Cenedril</a></i> = "Mirrormere"
 - <i><a href="Nen_Hithoel.md" title="Nen Hithoel"><b>Nen</b> Hithoel</a></i> = "Hồ Sương"
 - <i><a href="Nen_Lalaith.md" title="Nen Lalaith"><b>Nen</b> Lalaith</a></i> = "Dòng sông cười"
 - <i><a class="mw-redirect" href="Nenuial.md" title="Nenuial"><b>Nen</b>uial</a></i> = "Hồ Evendim"
 - <i><a href="../S/Sea_of_Núrnen.md#Etymology" title="Sea of Núrnen">Núr<b>nen</b></a></i> = "Nước Buồn"
 - <i><a class="mw-redirect" href="Ninui.md" title="Ninui"><b>Nin</b>ui</a></i> = tên tháng "Mưa"
-- <i><a href="../S/Swanfleet.md" title="Swanfleet"><b>Nîn</b>-in-Eilph</a></i> = "Swanfleet"
+- <i><a href="../S/Swanfleet.md" title="Swanfleet"><b>Nîn</b>-in-Eilph</a></i> = "Hạ đội thiên nga"
 
 ## Có cùng nguồn gốc {#Cognates}
 

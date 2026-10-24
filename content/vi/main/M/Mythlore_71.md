@@ -39,28 +39,28 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mythlore_71.gif.md"><img src="https://tolkiengateway.net/w/images/d/d1/Mythlore_71.gif" decoding="async" loading="lazy" width="225" height="292" class="mw-file-element" data-file-width="225" data-file-height="292"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mythlore 71</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../G/Glen_GoodKnight.md" title="Glen GoodKnight">Glen GoodKnight</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Winter <a href="../_/1993.md" title="1993">1993</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">67</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mythlore_70.md" title="Mythlore 70">Mythlore 70</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mythlore_72.md" title="Mythlore 72">Mythlore 72</a></td></tr></tbody></table>
 
-<b><i>Mythlore</i> 71</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol19/iss1/" rel="noreferrer noopener" target="_blank">Tập 19, Số 1</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
+<b><i>Thần thoại</i> 71</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol19/iss1/" rel="noreferrer noopener" target="_blank">Tập 19, Số 1</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
 
 ## Nội dung {#Contents}
 
 #### Bài viết {#Articles}
 
-- Rawls, Melanie A. “Bài thơ của J.R.R. Tolkien.”
-- Myers, Doris T. “Luật pháp và Rối loạn: Hai bối cảnh trong *That Hideous Strength.*”
-- Bãi biển, Charles. “‘Lịch sự’ trong Charles Williams' *The Greater Trumps*.”
-- Hughes, Melinda. “Chị em bóng tối và chị em ánh sáng: Chị em nhân đôi và cuộc tìm kiếm tình chị em trong *The Mists of Avalon* và *The White Raven*.”
-- GoodKnight, Glen H. “Hai mươi lăm năm gắn bó với Hội thần thoại: Phản hồi cá nhân.”
-- Quyền lực, Canon Norman. “J.R.R. Tolkien.”
-- Plotz, Richard. “Tolkien và tôi: Một cuốn hồi ký ngắn gọn.”
-- Trung sĩ, William A.S. “ Người Lùn đến từ đâu?”
-- Laurent, John. “C.S. Lewis và Quyền Động Vật.”
+- Rawls, Melanie A. “The Verse of J.R.R. Tolkien.”
+- Myers, Doris T. “Law and Disorder: Two Settings in *That Hideous Strength.*”
+- Beach, Charles. “‘Courtesy’ in Charles Williams' *The Greater Trumps*.”
+- Hughes, Melinda. “Dark Sisters and Light Sisters: Sister Doubles and the Search for Sisterhood in *The Mists of Avalon* and *The White Raven*.”
+- GoodKnight, Glen H. “Twenty-five Years with The Mythopoeic Society: A Personal Response.”
+- Power, Canon Norman. “J.R.R. Tolkien.”
+- Plotz, Richard. “Tolkien and I: A Brief Memoir.”
+- Sarjeant, William A.S. “Where Did The Dwarves Come From?”
+- Laurent, John. “C.S. Lewis and Animal Rights.”
 
 #### Tính năng {#Features}
 
 - Chúc ngủ ngon, Glen. Lời giới thiệu của biên tập: Trong số này.
-- Mythlore Nhân viên. “Kỷ niệm 25 năm thành lập Hội Thần thoại.”
-- Christopher, Joe R. và Wayne G. Hammond. Một Inklings Thư mục (48).
-- kondratiev, Alexei. “Những câu chuyện mới được kể.”
+- Nhân viên thần thoại. “Kỷ niệm 25 năm thành lập Hội Thần thoại.”
+- Christopher, Joe R., and Wayne G. Hammond. An Inklings Bibliography (48).
+- Kondratiev, Alexei. “Tales Newly Told.”
 - Thư.
 - Patterson, Nancy-Lou, Mary Stolzenbach, Bernie Zuber và Diana L. Paxson. “25 năm: Sự đánh giá cao của Hiệp hội Thần thoại.”
 - Beach, Sarah, Paula DiSante, Patrick Wynne và Denis Gordeyev. “Nhận xét của nghệ sĩ.”

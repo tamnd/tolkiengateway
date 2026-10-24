@@ -20,11 +20,11 @@ images:
 
 <figure class="mw-default-size mw-halign-left" typeof="mw:File"><a class="mw-file-description" href="../../file/A/Ampa.gif.md"><img src="https://tolkiengateway.net/w/images/3/3f/Ampa.gif" decoding="async" loading="lazy" width="53" height="65" class="mw-file-element" data-file-width="53" data-file-height="65"/></a><figcaption></figcaption></figure>
 
-*Ampa* cũng là tên trong Quenya của chữ cái thứ mười bốn của bảng chữ cái [Tengwar](../T/Tengwar.md).<sup id="cite_ref-Names_1-1" class="reference"><a href="#cite_note-Names-1">[1]</a></sup> Đây là chữ cái thứ hai của lớp bốn hoặc [Tyellë](../T/Tyellë.md), chứa "các âm thanh có tiếng" và là chữ cái thứ tư của chuỗi phụ âm môi, *[Parmatéma](../P/Parmatéma.md)*.<sup id="cite_ref-Letters_2-0" class="reference"><a href="#cite_note-Letters-2">[2]</a></sup> Trong cách viết Quenya tiêu chuẩn *Ampa* đại diện **MP**<sup id="cite_ref-Names_1-2" class="reference"><a href="#cite_note-Names-1">[1]</a></sup> nhưng trong tất cả các chế độ khác, nó đại diện cho **V**.<sup id="cite_ref-Letters_2-1" class="reference"><a href="#cite_note-Letters-2">[2]</a></sup> Tên Westron của chữ cái này là <i><b>Ivi</b></i>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+*Ampa* cũng là tên bằng tiếng Quenya của chữ cái thứ mười bốn trong bảng chữ cái [Tengwar](../T/Tengwar.md).<sup id="cite_ref-Names_1-1" class="reference"><a href="#cite_note-Names-1">[1]</a></sup> Đây là chữ cái thứ hai của lớp bốn hay [Tyellë](../T/Tyellë.md), trong đó có chứa "các âm thanh có tiếng" và là chữ cái thứ tư của chuỗi phụ âm môi, *[Parmatéma](../P/Parmatéma.md)*.<sup id="cite_ref-Letters_2-0" class="reference"><a href="#cite_note-Letters-2">[2]</a></sup> Trong cách viết Quenya tiêu chuẩn *Ampa* đại diện **MP**<sup id="cite_ref-Names_1-2" class="reference"><a href="#cite_note-Names-1">[1]</a></sup> nhưng trong tất cả các chế độ khác, nó đại diện cho **V**.<sup id="cite_ref-Letters_2-1" class="reference"><a href="#cite_note-Letters-2">[2]</a></sup> Tên phương Tây của chữ cái này là <i><b>Ivi</b></i>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Xem thêm {#See_also}
 
-- <a class="external text" href="http://www.uib.no/People/hnohf/qlist.htm" rel="noreferrer noopener" target="_blank">Quenya Danh sách từ ngữ liệu</a> được chỉnh sửa bởi [Helge Fauskanger](../H/Helge_Fauskanger.md)
+- <a class="external text" href="http://www.uib.no/People/hnohf/qlist.htm" rel="noreferrer noopener" target="_blank">Danh sách từ Quenya Corpus</a> được chỉnh sửa bởi [Helge Fauskanger](../H/Helge_Fauskanger.md)
 
 <span></span>
 

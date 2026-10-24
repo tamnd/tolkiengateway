@@ -15,8 +15,8 @@ sort_keys:
   "Podcasts": "The Founders' Inklings"
 ---
 
-<i><b> Inklings</b></i> của Người sáng lập là một podcast được tổ chức bởi những người sáng lập Mạng [Trung Địa](../M/Middle-earth_Network.md). Nó được sản xuất bởi [Trung Địa Network Radio](../M/Middle-earth_Network.md).
+<i><b>The Founders' Inklings</b></i> là một podcast do những người sáng lập của [Mạng Trung Địa](../M/Middle-earth_Network.md) tổ chức. Nó được sản xuất bởi [Đài phát thanh mạng Trung địa](../M/Middle-earth_Network.md).
 
 ## Liên kết ngoài {#External_links}
 
-- <i><a class="external text" href="http://tfi.mymiddleearth.com/" rel="noreferrer noopener" target="_blank"> Inklings</a></i>Người sáng lập
+- <i><a class="external text" href="http://tfi.mymiddleearth.com/" rel="noreferrer noopener" target="_blank">Những điều mơ hồ của những người sáng lập</a></i>

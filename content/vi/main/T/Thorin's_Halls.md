@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Thorin's hall"
 ---
 
-Chuyển hướng tới sảnh của [Thorin](Thorin's_hall.md).
+Chuyển hướng đến [sảnh của Thorin](Thorin's_hall.md).

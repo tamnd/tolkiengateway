@@ -72,14 +72,14 @@ Sự kiện xảy ra vào ngày 20 tháng 8
 - **[1948](1948.md)** - Diễn viên [John Noble](../J/John_Noble.md) ra đời.
 - **[1973](1973.md)** - [Mythcon 4](../M/Mythcon_4.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Santa_Barbara,_California" title="wikipedia:Santa Barbara, California">Santa Barbara</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/California" title="wikipedia:California">California</a>.
 - <b><a href="1981.md" title="1981">1981</a> - <i><a href="../T/The_Letters_of_J.R.R._Tolkien.md" title="The Letters of J.R.R. Tolkien">Những bức thư của J.R.R. Tolkien</a></i> được xuất bản.</b>
-- **[1992](1992.md)** - [Tolkien Hội nghị Thế kỷ](../T/Tolkien_Centenary_Conference.md), sự kết hợp giữa [Oxonmoot](../O/Oxonmoot.md) 1992 và [Mythcon](../M/Mythcon.md) 23, tại <a class="extiw" href="http://en.wikipedia.org/wiki/Keble_College,_Oxford" title="wikipedia:Keble College, Oxford">Keble College, Oxford</a>.
+- **[1992](1992.md)** - [Hội nghị trăm năm Tolkien](../T/Tolkien_Centenary_Conference.md), sự kết hợp giữa [Oxonmoot](../O/Oxonmoot.md) 1992 và [Mythcon](../M/Mythcon.md) 23, tại <a class="extiw" href="http://en.wikipedia.org/wiki/Keble_College,_Oxford" title="wikipedia:Keble College, Oxford">Keble College, Oxford</a>.
 - **[2000](2000.md)** - [Mythcon 31](../M/Mythcon_31.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Hawaii" title="wikipedia:Hawaii">Hawaii</a>.
-- **[2004](2004.md)** - Các gói tăng cường của "Bộ sưu tập Weta", một bộ [The Lord of the Rings Trò chơi thẻ giao dịch](../T/The_Lord_of_the_Rings_Trading_Card_Game.md) đặc biệt, được phát hành.
+- **[2004](2004.md)** - Các gói tăng cường của "The Weta Collection", một bộ [The Lord of the Rings Trading Card Game](../T/The_Lord_of_the_Rings_Trading_Card_Game.md) đặc biệt, được phát hành.
 - **[2010](2010.md)** - *[The Legend of Sigurd and Gudrún](../T/The_Legend_of_Sigurd_and_Gudrún.md)* được phát hành tại Đức.
-- **[2012](2012.md)** - [Sự trở lại của chiếc nhẫn](../T/The_Return_of_the_Ring.md), hội nghị [Tolkien Xã hội](../T/The_Tolkien_Society.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Loughborough_University" title="wikipedia:Loughborough University">Đại học Loughborough</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/England" title="wikipedia:England">Anh</a>.
+- **[2012](2012.md)** - [Sự trở lại của chiếc nhẫn](../T/The_Return_of_the_Ring.md), [Hội nghị Tolkien](../T/The_Tolkien_Society.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Loughborough_University" title="wikipedia:Loughborough University">Đại học Loughborough</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/England" title="wikipedia:England">Anh</a>.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Gandalf](../G/Gandalf.md) bị giam giữ bởi [Saruman](../S/Saruman.md) trên đỉnh của [Orthanc](../O/Orthanc.md).
+    - [Gandalf](../G/Gandalf.md) bị [Saruman](../S/Saruman.md) giam giữ trên đỉnh [Orthanc](../O/Orthanc.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.

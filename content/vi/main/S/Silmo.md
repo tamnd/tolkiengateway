@@ -14,15 +14,15 @@ categories:
   - "Valar"
 ---
 
-**Silmo**, một [Ainu](../A/Ainur.md) chỉ xuất hiện trong các phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md), được bổ nhiệm làm người giám hộ cái cây [Silpion](../T/Telperion.md) — để "luôn quan tâm" đến việc tưới nước cho cây. Với nhiệm vụ này, anh đã được chọn bởi [Vala](../V/Valar.md) [Lórien](../I/Irmo.md), người yêu quý Silmo thời trẻ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Silmo**, một [Ainu](../A/Ainur.md) chỉ xuất hiện trong các phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md), được bổ nhiệm làm người giám hộ cái cây [Silpion](../T/Telperion.md) — để "luôn quan tâm" đến việc tưới nước cho cây. Đối với nhiệm vụ này, anh đã được chọn bởi [Vala](../V/Valar.md) [Lórien](../I/Irmo.md), người yêu quý Silmo thời trẻ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Ông muốn điều khiển [Mặt Trăng](../M/Moon.md) nhưng không thể làm được nên [Manwë](../M/Manwë.md) đã bổ nhiệm [Ilinsor](../I/Ilinsor.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Ông muốn điều khiển [Mặt trăng](../M/Moon.md) nhưng không thể làm được nên [Manwë](../M/Manwë.md) đã bổ nhiệm [Ilinsor](../I/Ilinsor.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-[Christopher Tolkien](../C/Christopher_Tolkien.md) đã gợi ý rằng [Maia](../M/Maiar.md) [Tilion](../T/Tilion.md) (sáng tạo sau này) "có lẽ có nét gì đó ở hình tượng Silmo".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+[Christopher Tolkien](../C/Christopher_Tolkien.md) đã gợi ý rằng [Maia](../M/Maiar.md) [Tilion](../T/Tilion.md) (một sáng tạo sau này) "có lẽ có nét gì đó ở hình tượng Silmo".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Silmo* là tên [Qenya](../Q/Qenya.md). Tên của anh ấy trong [Gnomish](../G/Gnomish.md) là <i><b>Thilim</b></i> (có đuôi nam tính *-im*).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+*Silmo* là tên [Qenya](../Q/Qenya.md). Tên của ông trong [Gnomish](../G/Gnomish.md) là <i><b>Thilim</b></i> (có đuôi nam tính *-im*).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Xem thêm {#See_also}
 

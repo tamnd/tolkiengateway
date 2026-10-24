@@ -14,9 +14,9 @@ images:
   - "Disambig.png"
 ---
 
-Từ <i><b>elanor</b></i> có nghĩa là "Sao-mặt trời" trong [Sindarin](../S/Sindarin.md) (từ *[êl](../_/Êl.md)*, "ngôi sao" và *anor*, "[Mặt Trời](../S/Sun.md)") và có thể ám chỉ đến:
+Từ <i><b>elanor</b></i> có nghĩa là "Sao-mặt trời" trong [Sindarin](../S/Sindarin.md) (từ *[êl](../_/Êl.md)*, "ngôi sao" và *anor*, "[Mặt trời](../S/Sun.md)") và có thể ám chỉ:
 
-## Trung Địa {#Middle-earth}
+## Trung địa {#Middle-earth}
 
 - *[elanor](<Elanor_(flower).md>)*, một loài hoa mọc trong rừng [Lothlórien](../L/Lothlórien.md).
 - **[Elanor Gardner](Elanor_Gardner.md) (sinh [T.A.](../T/Third_Age.md) [3021](../T/Third_Age_3021.md)), con đầu lòng của [Samwise Gamgee](../S/Samwise_Gamgee.md).**

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lord of the Rings Roleplaying Game"
 ---
 
-Chuyển hướng tới [The Lord of the Rings Trò chơi nhập vai](../T/The_Lord_of_the_Rings_Roleplaying_Game.md).
+Chuyển hướng đến [The Lord of the Rings Roleplaying Game](../T/The_Lord_of_the_Rings_Roleplaying_Game.md).

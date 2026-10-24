@@ -31,6 +31,6 @@ infobox:
 ## Danh sách bản nhạc {#Track_listing}
 
 1. Mirkwood - 9:45
-2. Kortirion Giữa Hàng Cây - 8:51
+2. Kortirion Giữa Rừng Cây - 8:51
 3. Xác thịt - 7:55
 4. Habbanan Dưới Những Vì Sao – 7:13

@@ -12,9 +12,9 @@ categories:
   - "Letters from Father Christmas"
 ---
 
-**Yêu tinh tuyết** sống ở Bắc Cực. Không có nhiều thông tin về Yêu tinh tuyết; có vẻ như họ mặc đồ trắng (không giống như [Đỏ](../R/Red_Elves.md) và [Xanh Tiên tộc](../G/Green-elves.md#Other_writings)), vì chúng hòa quyện với tuyết.<sup id="cite_ref-1929b_1-0" class="reference"><a href="#cite_note-1929b-1">[1]</a></sup>
+**Yêu tinh tuyết** sống ở Bắc Cực. Không có nhiều thông tin về Yêu tinh tuyết; rõ ràng là họ mặc đồ màu trắng (không giống như [Red](../R/Red_Elves.md) và [Yêu tinh xanh](../G/Green-elves.md#Other_writings)), vì họ hòa quyện với tuyết.<sup id="cite_ref-1929b_1-0" class="reference"><a href="#cite_note-1929b-1">[1]</a></sup>
 
-Yêu tinh tuyết chỉ xuất hiện một lần trong các câu chuyện về *[Father Christmas Letters](../L/Letters_from_Father_Christmas.md)*, tại lễ kỷ niệm mùa đông sắp đến. Lễ hội được tổ chức bởi [Ông già Noel](../F/Father_Christmas.md) và bao gồm cả Đốt lửa trại để mang lại niềm vui cho [North Polar Bear](../N/North_Polar_Bear.md). Trước sự ngạc nhiên của Ông già Noel và Gấu Bắc Cực, các Yêu tinh tuyết đã cùng nhau phóng tất cả tên lửa - hàng trăm chiếc - cùng nhau.<sup id="cite_ref-1929b_1-1" class="reference"><a href="#cite_note-1929b-1">[1]</a></sup>
+Yêu tinh tuyết chỉ xuất hiện một lần trong các câu chuyện về *[Father Christmas Letters](../L/Letters_from_Father_Christmas.md)*, tại lễ kỷ niệm mùa đông sắp đến. Lễ hội được tổ chức bởi [Ông già Noel](../F/Father_Christmas.md) và bao gồm cả Đốt lửa trại để mang lại niềm vui cho [Gấu Bắc Cực](../N/North_Polar_Bear.md). Trước sự ngạc nhiên của Ông già Noel và Gấu Bắc Cực, các Yêu tinh tuyết đã cùng nhau phóng tất cả tên lửa - hàng trăm chiếc - cùng nhau.<sup id="cite_ref-1929b_1-1" class="reference"><a href="#cite_note-1929b-1">[1]</a></sup>
 
 ## Liên kết ngoài {#External_links}
 

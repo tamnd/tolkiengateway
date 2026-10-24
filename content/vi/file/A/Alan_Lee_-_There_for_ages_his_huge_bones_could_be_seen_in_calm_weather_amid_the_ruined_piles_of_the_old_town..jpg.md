@@ -29,7 +29,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"Ở đó từ lâu [bộ xương khổng lồ](../../main/S/Smaug.md) của ông ấy có thể được nhìn thấy trong thời tiết lặng gió giữa những đống đổ nát của [phố cổ](../../main/L/Lake-town.md)." bởi [Alan Lee](../../main/A/Alan_Lee.md). Minh họa từ *[The Hobbit](../../main/T/The_Hobbit.md)*.
+"Ở đó từ lâu [bộ xương khổng lồ](../../main/S/Smaug.md) của ông ấy có thể được nhìn thấy trong thời tiết lặng gió giữa những đống đổ nát của [phố cổ](../../main/L/Lake-town.md)." của [Alan Lee](../../main/A/Alan_Lee.md). Minh họa từ *[The Hobbit](../../main/T/The_Hobbit.md)*.
 
 ## Giấy phép {#Licensing}
 

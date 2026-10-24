@@ -20,7 +20,7 @@ images:
 
 Trong [1966](../_/1966.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho Charles Calleja**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-- **Nội dung:** Tolkien giải thích rằng ấn bản thứ hai [*Hobbit*](../T/The_Hobbit.md) khác với ấn bản gốc.
+- **Nội dung:** Tolkien giải thích rằng ấn bản thứ hai [*Hobbit*](../T/The_Hobbit.md) khác với bản gốc.
 - **Mô tả:** Thư đánh máy có chú thích viết tay, 2 trang, Oxford.
 - **Xuất bản:** Không có.
 

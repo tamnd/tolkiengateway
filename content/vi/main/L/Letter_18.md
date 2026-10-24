@@ -32,7 +32,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien cảm ơn [Stanley Unwin](../S/Stanley_Unwin.md) vì đã gọi anh ấy là thiên tài; Unwin nói rằng anh ấy không nói điều đó với mọi người - thực tế, đây là lần đầu tiên sau ba mươi năm. Tolkien nói thêm rằng anh ấy sẽ sớm bắt đầu viết gì đó.
+Tolkien cảm ơn [Stanley Unwin](../S/Stanley_Unwin.md) vì đã gọi ông là thiên tài; Unwin nói rằng ông không nói điều đó với mọi người - thực tế, đây là lần đầu tiên sau ba mươi năm. Tolkien nói thêm rằng ông sẽ sớm bắt đầu viết về điều gì đó.
 
 <dl><dt>In the expanded edition</dt></dl>
 

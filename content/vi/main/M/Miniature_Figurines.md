@@ -19,7 +19,7 @@ images:
 
 **Tượng nhỏ**, hay còn được gọi là **Minifigs**, là một công ty của Anh chuyên sản xuất tượng nhỏ bằng kim loại cho trò chơi chiến tranh.<sup id="cite_ref-appelcline_1-0" class="reference"><a href="#cite_note-appelcline-1">[1]</a></sup>
 
-Nó đã phát hành một dòng mô hình thu nhỏ Chúa tể của những chiếc nhẫn không có giấy phép trong [1973](../_/1973.md) có tựa đề *Mythical Earth*.<sup id="cite_ref-appelcline_1-1" class="reference"><a href="#cite_note-appelcline-1">[1]</a></sup> Đây là một trong những dòng mô hình thu nhỏ giả tưởng sớm nhất dành cho trò chơi chiến tranh. Trong số *Airfix Magazine*tháng 8 năm 1973, các mô hình được công bố rõ ràng là các nhân vật “Trung Địa” và gửi như vậy đến tạp chí.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Nó đã phát hành một dòng mô hình thu nhỏ Chúa tể của những chiếc nhẫn không có giấy phép trong [1973](../_/1973.md) có tựa đề *Mythical Earth*.<sup id="cite_ref-appelcline_1-1" class="reference"><a href="#cite_note-appelcline-1">[1]</a></sup> Đây là một trong những dòng mô hình thu nhỏ giả tưởng sớm nhất dành cho trò chơi chiến tranh. Trong số *Airfix Magazine* tháng 8 năm 1973, các mô hình được công bố rõ ràng là các nhân vật “Trung Địa” và gửi như vậy đến tạp chí.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 Công ty [Heritage Models](../H/Heritage_Models.md) của Mỹ ban đầu là nhà nhập khẩu các mô hình MiniFigs thu nhỏ.<sup id="cite_ref-appelcline_1-2" class="reference"><a href="#cite_note-appelcline-1">[1]</a></sup>
 

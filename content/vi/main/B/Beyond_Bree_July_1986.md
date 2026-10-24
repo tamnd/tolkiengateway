@@ -27,9 +27,9 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/B/Beyond_Bree_July_1986.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/c/c3/Beyond_Bree_July_1986.jpg/320px-Beyond_Bree_July_1986.jpg" decoding="async" loading="lazy" width="320" height="415" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/c/c3/Beyond_Bree_July_1986.jpg 1.5x" data-file-width="343" data-file-height="445"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Beyond Bree July 1986</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../A/American_Mensa_Tolkien_Special_Interest_Group.md" title="American Mensa Tolkien Special Interest Group">American Mensa Tolkien Special Interest Group</a></td></tr></tbody></table>
 
-<b><i>Beyond Bree</i> Tháng 7 năm 1986</b> là số của *[Beyond Bree](Beyond_Bree.md)*, do [Nancy Martsch biên tập](../N/Nancy_Martsch.md).
+<b><i>Beyond Bree</i> Tháng 7 năm 1986</b> là số của *[Beyond Bree](Beyond_Bree.md)*, do [Nancy Martsch](../N/Nancy_Martsch.md) biên tập.
 
-Bao gồm một bài viết/thư ("Ghi chú về sự khác biệt trong các ấn bản của The Hobbit được trích dẫn bởi ông David Cofield" của [Christopher Tolkien](../C/Christopher_Tolkien.md), trang 1–3) sao chép hai trang từ một trong các bản sao có chú thích của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)của *[The Hobbit](../T/The_Hobbit.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Bao gồm một bài viết/thư ("Ghi chú về sự khác biệt trong các ấn bản của Người Hobbit được trích dẫn bởi ông David Cofield" của [Christopher Tolkien](../C/Christopher_Tolkien.md), trang 1–3) sao chép hai trang từ một trong những bản sao có chú thích của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) của *[The Hobbit](../T/The_Hobbit.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

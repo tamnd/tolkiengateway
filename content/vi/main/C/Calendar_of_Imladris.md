@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Reckoning of Rivendell"
 ---
 
-Chuyển hướng đến [Tính toán Rivendell](../R/Reckoning_of_Rivendell.md).
+Chuyển hướng tới [Tính toán của Rivendell](../R/Reckoning_of_Rivendell.md).

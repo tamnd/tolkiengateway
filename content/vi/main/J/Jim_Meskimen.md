@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Meskimen, Jim"
 ---
 
-**Jim Ross Meskimen** (sinh [tháng Chín 10](../_/10_September.md), [1959](../_/1959.md)) là một diễn viên hài, diễn viên lồng tiếng và người theo trường phái ấn tượng giọng nói người Mỹ.
+**Jim Ross Meskimen** (sinh [10 tháng 9](../_/10_September.md), [1959](../_/1959.md)) là một diễn viên hài, diễn viên lồng tiếng và người theo trường phái ấn tượng giọng nói người Mỹ.
 
 ## Vai trò {#Roles}
 

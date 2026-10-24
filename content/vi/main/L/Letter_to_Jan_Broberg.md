@@ -16,7 +16,7 @@ sort_keys:
 
 Vào [1 tháng 6](../_/1_June.md) [1961](../_/1961.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho [Jan Broberg](../J/Jan_Broberg.md)**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-- **Mô tả:** Thư đánh máy có chữ ký của J.R.R. Tolkien (Oxford, England 1 trang, 8" x 8 3/4"). Được viết để trả lời Jan Broberg về yêu cầu của Brobergs về [cuộc phỏng vấn với Tolkien](../_/1961_Jan_Broberg.md).
+- **Mô tả:** Thư đánh máy có chữ ký của J.R.R. Tolkien (Oxford, Anh 1 trang, 8" x 8 3/4"). Được viết để trả lời câu hỏi của Jan Broberg về cuộc phỏng vấn của Brobergs về [cuộc phỏng vấn với Tolkien](../_/1961_Jan_Broberg.md).
 
 ## Trích {#Excerpt}
 

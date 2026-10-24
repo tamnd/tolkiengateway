@@ -27,15 +27,15 @@ langlinks:
     url: "https://kontu.wiki/Kalorm%C3%AB"
 ---
 
-**Kalormë** là một ngọn núi lớn ở [Oronto](../O/Oronto.md) (xa nhất phương Đông thế giới). Đỉnh núi dường như là ngọn núi cao thứ hai ở [Arda](../A/Arda.md), tương ứng với [Oiolossë](../O/Oiolossë.md) ở xa trong [Phương Tây](../A/Aman.md).<sup id="cite_ref-LT1_1-0" class="reference"><a href="#cite_note-LT1-1">[1]</a></sup>
+**Kalormë** là một ngọn núi lớn ở [Oronto](../O/Oronto.md) (nơi xa nhất về phía Đông của thế giới). Đỉnh núi dường như là ngọn núi cao thứ hai ở [Arda](../A/Arda.md), tương ứng với [Oiolossë](../O/Oiolossë.md) xa về phía [Tây](../A/Aman.md).<sup id="cite_ref-LT1_1-0" class="reference"><a href="#cite_note-LT1-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Trong *[Qenya Lexicon](../Q/Qenya_Lexicon.md)*, tên <i><b>kalorme(e)</b></i> được gọi là "đỉnh đồi mà Mặt Trời mọc lên".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Trong *[Qenya Lexicon](../Q/Qenya_Lexicon.md)*, tên <i><b>kalorme(e)</b></i> được gọi là "đỉnh đồi nơi Mặt trời mọc".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong các tác phẩm sau này, Kalormë không được nhắc đến. Tuy nhiên, [Vùng đất của Mặt Trời](../L/Land_of_the_Sun.md) được đánh dấu bằng một dãy núi lớn có hình cong được gọi là [Những bức tường của Mặt Trời](../W/Walls_of_the_Sun.md), tương ứng đối xứng với [Pelóri](../P/Pelóri.md) của Aman.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Trong các tác phẩm sau này, Kalormë không được nhắc đến. Tuy nhiên, [Vùng đất mặt trời](../L/Land_of_the_Sun.md) được đánh dấu bằng một dãy núi lớn có hình đường cong được gọi là [Những bức tường mặt trời](../W/Walls_of_the_Sun.md), tương ứng đối xứng với [Pelóri](../P/Pelóri.md) của Aman.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Cảm hứng {#Inspiration}
 

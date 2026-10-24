@@ -25,9 +25,9 @@ langlinks:
     url: "https://www.tolkiendil.com/encyclo/arts/livres/herbier_de_la_comte"
 ---
 
-<i><b>Herblore of the Shire</b></i> là cuốn sách được viết bởi [Merry Brandybuck](../M/Meriadoc_Brandybuck.md), một trong nhiều chuyên luận mà ông là tác giả sau khi trở về từ [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), nhưng trước khi ông trở thành [Chủ nhân của Buckland](../M/Master_of_Buckland.md).
+<i><b>Herblore of the Shire</b></i> là cuốn sách được viết bởi [Merry Brandybuck](../M/Meriadoc_Brandybuck.md), một trong nhiều chuyên luận mà ông viết sau khi trở về từ [War of the Ring](../W/War_of_the_Ring.md) nhưng trước khi trở thành [Master of Buckland](../M/Master_of_Buckland.md).
 
-Cuốn sách thảo luận về nguồn gốc và lịch sử của [Hobbit](Hobbits.md)' 'nghệ thuật' [hút thuốc](../S/Smoking.md) [Pipe-weed](../P/Pipe-weed.md), truy tìm nó từ [Tobold Hornbutter](../T/Tobold_Hornblower.md) (người đã giới thiệu nó với [ Shire](../T/The_Shire.md)) đến nguồn gốc cuối cùng của nó ở [Trung Địa](../M/Middle-earth.md), ở [vùng đất dọc theo](../V/Vales_of_Anduin.md) bờ nam của sông [Anduin](../A/Anduin.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Cuốn sách thảo luận về nguồn gốc và lịch sử của [Hobbit](Hobbits.md)''nghệ thuật' [hút thuốc](../S/Smoking.md) [Pipe-weed](../P/Pipe-weed.md), truy tìm nó từ [Tobold Hornbutter](../T/Tobold_Hornblower.md) (người đã giới thiệu nó đến [Shire](../T/The_Shire.md)) đến nguồn gốc cuối cùng của nó ở [Trung Địa](../M/Middle-earth.md), ở [vùng đất dọc theo](../V/Vales_of_Anduin.md) bờ phía nam của [Anduin](../A/Anduin.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Cuốn sách này là một trong những cuốn sách quan trọng được lưu giữ trong thư viện của [Bucklebury](../B/Bucklebury.md), có lẽ là một trong những tác phẩm quan trọng chưa được sao chép vào [Sách Đỏ](../R/Red_Book.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hallow of Eru"
 ---
 
-Chuyển hướng tới [Hallow của Eru](../H/Hallow_of_Eru.md).
+Chuyển hướng đến [Thánh địa Eru](../H/Hallow_of_Eru.md).

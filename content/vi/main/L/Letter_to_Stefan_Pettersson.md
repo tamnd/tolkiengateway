@@ -18,7 +18,7 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/_/1973_-_02-26_-_Stefan_Petterson.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/4e/1973_-_02-26_-_Stefan_Petterson.jpg/300px-1973_-_02-26_-_Stefan_Petterson.jpg" decoding="async" loading="lazy" width="300" height="388" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/4e/1973_-_02-26_-_Stefan_Petterson.jpg/450px-1973_-_02-26_-_Stefan_Petterson.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/4e/1973_-_02-26_-_Stefan_Petterson.jpg/600px-1973_-_02-26_-_Stefan_Petterson.jpg 2x" data-file-width="637" data-file-height="824"/></a><figcaption></figcaption></figure>
 
-Vào [26 tháng 2](../_/26_February.md) [1973](../_/1973.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã gửi <i><a class="extiw" href="http://en.wikipedia.org/wiki/Procuration" title="wikipedia:Procuration">mỗi lần mua sắm</a></i> **[thư](Letters_not_published_in_%2522The_Letters_of_J.R.R._Tolkien%2522.md) cho Stefan Pettersson**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Vào [26 tháng 2](../_/26_February.md) [1973](../_/1973.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã gửi <i><a class="extiw" href="http://en.wikipedia.org/wiki/Procuration" title="wikipedia:Procuration">mỗi bên mua</a></i> **[thư](Letters_not_published_in_%2522The_Letters_of_J.R.R._Tolkien%2522.md) tới Stefan Pettersson**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 - **Chủ đề:** Trả lời thư của Stefan Pettersson [23 tháng 2](../_/23_February.md). Xin lỗi vì không thể đưa ra câu trả lời dài hơn.
 - **Mô tả:** Thư đánh máy (1 trang).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Palantír Quest"
 ---
 
-Chuyển hướng đến [Palantír Nhiệm vụ](../P/Palantír_Quest.md).
+Chuyển hướng đến [Nhiệm vụ Palantír](../P/Palantír_Quest.md).

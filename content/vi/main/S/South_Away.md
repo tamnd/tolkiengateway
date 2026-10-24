@@ -35,7 +35,7 @@ infobox:
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
-<i><b>South Away</b></i> là ca khúc thứ hai trong album [Let Mortal Heroes Sing Your Fame](../L/Let_Mortal_Heroes_Sing_Your_Fame.md) của ban nhạc [Summoning](Summoning.md). Lời bài hát dựa trên bài thơ [Roll-roll-roll-roll,](../R/Roll-roll-roll-roll,.md) có trong [The Hobbit](../T/The_Hobbit.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Các tài liệu tham khảo khác bao gồm các từ được nói bởi [Saruman](Saruman.md) với [Gandalf](../G/Gandalf.md) trong [The Lord of the Rings](../T/The_Lord_of_the_Rings.md),<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và lời chúc mừng [Vua Rohan](../K/King_of_Rohan.md), [Éomer](../_/Éomer.md) mới.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+<i><b>South Away</b></i> là ca khúc thứ hai trong album [Let Mortal Heroes Sing Your Fame](../L/Let_Mortal_Heroes_Sing_Your_Fame.md) của ban nhạc [Summoning](Summoning.md). Lời bài hát dựa trên bài thơ [Roll-roll-roll-roll,](../R/Roll-roll-roll-roll,.md) có trong [The Hobbit](../T/The_Hobbit.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Các tài liệu tham khảo khác bao gồm những lời mà [Saruman](Saruman.md) nói với [Gandalf](../G/Gandalf.md) trong [The Lord of the Rings](../T/The_Lord_of_the_Rings.md),<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và lời chúc mừng [Vua Rohan](../K/King_of_Rohan.md) mới, [Éomer](../_/Éomer.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Lời bài hát {#Lyrics}
 

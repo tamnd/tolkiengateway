@@ -25,7 +25,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Ảnh chụp màn hình từ [The Lord of the Rings: Kỷ Đệ Tam](../../main/T/The_Lord_of_the_Rings%253A_The_Third_Age.md) của [EA](../../main/E/Electronic_Arts.md).
+Ảnh chụp màn hình từ [The Lord of the Rings: The Third Age](../../main/T/The_Lord_of_the_Rings%253A_The_Third_Age.md) của [EA](../../main/E/Electronic_Arts.md).
 
 ## Giấy phép {#Licensing}
 

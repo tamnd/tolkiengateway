@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Áp phích giới thiệu trò chơi điện tử [Tales of the Shire: Trò chơi "The Lord of the Rings"](../../main/T/Tales_of_the_Shire%253A_A_%2522The_Lord_of_the_Rings%2522_Game.md).
+Poster giới thiệu trò chơi điện tử [Tales of the Shire: A "The Lord of the Rings" Game](../../main/T/Tales_of_the_Shire%253A_A_%2522The_Lord_of_the_Rings%2522_Game.md).
 
 ## Giấy phép {#Licensing}
 

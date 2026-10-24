@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lord of the Rings: Aragorn's Quest"
 ---
 
-Chuyển hướng đến [The Lord of the Rings: Nhiệm vụ của Aragorn](../T/The_Lord_of_the_Rings%253A_Aragorn's_Quest.md).
+Chuyển hướng đến [The Lord of the Rings: Aragorn's Quest](../T/The_Lord_of_the_Rings%253A_Aragorn's_Quest.md).

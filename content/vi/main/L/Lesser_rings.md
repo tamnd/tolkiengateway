@@ -29,31 +29,31 @@ images:
 <p class="tg-quote-footer"><cite><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> in <i><a href="../T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="../T/The_Shadow_of_the_Past.md" title="The Shadow of the Past">The Shadow of the Past</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Những chiếc nhẫn nhỏ hơn** là những chiếc nhẫn ma thuật, được các yêu tinh rèn trước [Những Chiếc Nhẫn Quyền Năng](../R/Rings_of_Power.md) như những bài tiểu luận về nghề làm nhẫn.
+**Những chiếc nhẫn nhỏ hơn** là những chiếc nhẫn ma thuật, được các yêu tinh rèn trước [Những chiếc nhẫn quyền lực](../R/Rings_of_Power.md) như những bài tiểu luận về nghề chế tạo nhẫn.
 
 ## Lịch sử {#History}
 
-Những chiếc nhẫn nhỏ hơn được làm vào khoảng giữa [S.A.](../S/Second_Age.md) [1200](../S/Second_Age_1200.md), khi [Sauron](../S/Sauron.md) cải trang thành [Eregion](../E/Eregion.md) và [1500](../S/Second_Age_1500.md), khi họ bắt đầu chế tạo những chiếc [Những Chiếc Nhẫn Quyền Năng](../R/Rings_of_Power.md) lớn hơn.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Không giống như những chiếc nhẫn lớn hơn, những chiếc nhẫn này có hình tròn và không trang trí, không có đá quý, giống như [Một chiếc nhẫn](../O/One_Ring.md).<sup id="cite_ref-Rivendell_2-0" class="reference"><a href="#cite_note-Rivendell-2">[2]</a></sup>
+Những chiếc nhẫn nhỏ hơn được tạo ra vào khoảng giữa [S.A.](../S/Second_Age.md) [1200](../S/Second_Age_1200.md), khi [Sauron](../S/Sauron.md) cải trang thành [Ezone](../E/Eregion.md) và [1500](../S/Second_Age_1500.md), khi họ bắt đầu chế tạo những [Những chiếc nhẫn quyền lực](../R/Rings_of_Power.md) lớn hơn.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Không giống như những chiếc nhẫn lớn hơn, những chiếc nhẫn này có hình tròn và không trang trí, không có đá quý, giống như [Một chiếc nhẫn quyền năng](../O/One_Ring.md).<sup id="cite_ref-Rivendell_2-0" class="reference"><a href="#cite_note-Rivendell-2">[2]</a></sup>
 
-Trong [Kỷ Đệ Tam](../T/Third_Age.md), [Hobbit](../H/Hobbits.md) của [Shire](../S/Shire.md) có những câu chuyện cổ về những chiếc nhẫn ma thuật khiến con người trở nên vô hình. Khi [Bilbo Baggins](../B/Bilbo_Baggins.md) tìm thấy Chiếc Nhẫn Chúa trong đường hầm gần hồ [Gollum](../G/Gollum's_lake.md), anh ấy tin rằng đó là một trong số chúng.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Trong [Thời đại thứ ba](../T/Third_Age.md), [Người Hobbit](../H/Hobbits.md) của [Shire](../S/Shire.md) có những câu chuyện cổ về những chiếc nhẫn ma thuật khiến con người trở nên vô hình. Khi [Bilbo Baggins](../B/Bilbo_Baggins.md) tìm thấy Chiếc Nhẫn Chúa trong đường hầm gần [Hồ Gollum](../G/Gollum's_lake.md), ông ta tin rằng đó là một trong số chúng.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Vào năm [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md), [Gandalf](../G/Gandalf.md) đã nhắc đến những chiếc nhẫn này với [Frodo](../F/Frodo_Baggins.md) khi kể lại nguồn gốc của Những Chiếc Nhẫn Quyền Năng.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Giả sử, những chiếc nhẫn nhỏ hơn cũng được sứ giả của Sauron nhắc đến, người đã yêu cầu [Dáin Chân Sắt](../D/Dáin_Ironfoot.md) tìm và quay trở lại Sauron "một chiếc nhẫn nhỏ, chiếc nhẫn nhỏ nhất", tức là chiếc nhẫn của Bilbo Baggins.<sup id="cite_ref-Rivendell_2-1" class="reference"><a href="#cite_note-Rivendell-2">[2]</a></sup>
+Vào năm [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md), [Gandalf](../G/Gandalf.md) đã đề cập đến những chiếc nhẫn này với [Frodo](../F/Frodo_Baggins.md) khi kể lại nguồn gốc của những chiếc Nhẫn Quyền lực.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Giả sử, những chiếc nhẫn nhỏ hơn cũng được sứ giả của Sauron nhắc đến, người đã yêu cầu [Dáin Ironfoot](../D/Dáin_Ironfoot.md) tìm và trả về Sauron "một chiếc nhẫn nhỏ, chiếc nhẫn nhỏ nhất", tức là chiếc nhẫn của Bilbo Baggins.<sup id="cite_ref-Rivendell_2-1" class="reference"><a href="#cite_note-Rivendell-2">[2]</a></sup>
 
-Trong cuộc trò chuyện với Gandalf ở [Orthanc](../O/Orthanc.md), [Saruman](../S/Saruman.md) đã đeo một chiếc nhẫn trên ngón tay và tự nhận mình là '[Người chế tạo nhẫn](../R/Ring-maker.md)'.<sup id="cite_ref-Rivendell_2-2" class="reference"><a href="#cite_note-Rivendell-2">[2]</a></sup> Có thể anh ta thực sự đã rèn một trong những chiếc nhẫn kém hơn.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Trong cuộc trò chuyện với Gandalf ở [Orthanc](../O/Orthanc.md), [Saruman](../S/Saruman.md) đã đeo một chiếc nhẫn trên ngón tay và tự nhận mình là '[Người chế tạo nhẫn](../R/Ring-maker.md)'.<sup id="cite_ref-Rivendell_2-2" class="reference"><a href="#cite_note-Rivendell-2">[2]</a></sup> Có thể ông ta thực sự đã rèn một trong những chiếc nhẫn cấp thấp hơn.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-**1995-1997**: <i><b><a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Trung Địa Trò chơi bài sưu tầm</a></b></i>
+**1995-1997**: <i><b><a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Trò chơi thẻ bài sưu tầm ở Trung Địa</a></b></i>
 
 <dl><dd>Several cards describing and depicting lesser rings were released, for example &#34;The Oracle&#39;s Ring&#34;, &#34;Wizard&#39;s Ring&#34;, and &#34;Magic Rings&#34; of different power (lore, stealth, courage, etc.).</dd></dl>
 
-<b>2007-: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007-: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
 
 <dl><dd><a class="external text" href="http://lotro-wiki.com/index.php/Narchuil" rel="noreferrer noopener" target="_blank">Narchuil</a> was one of the lesser rings forged by the elven-smiths. It was worn by <a href="../A/Amarthiel.md" title="Amarthiel">Amarthiel</a>.</dd></dl>
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://middle-earth.xenite.org/2014/04/29/where-did-the-power-in-the-minor-rings-come-from/" rel="noreferrer noopener" target="_blank">Sức mạnh trong những chiếc nhẫn phụ đến từ đâu?</a> bởi [Michael Martinez](../M/Michael_Martinez.md)
+- <a class="external text" href="http://middle-earth.xenite.org/2014/04/29/where-did-the-power-in-the-minor-rings-come-from/" rel="noreferrer noopener" target="_blank">Sức mạnh trong những chiếc nhẫn phụ đến từ đâu?</a> của [Michael Martinez](../M/Michael_Martinez.md)
 
 <span></span>
 

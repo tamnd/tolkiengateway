@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Essays Presented to Charles Williams"
 ---
 
-Chuyển hướng tới [Bài luận được trình bày tại Charles Williams](Essays_Presented_to_Charles_Williams.md).
+Chuyển hướng đến [Các bài tiểu luận được trình bày cho Charles Williams](Essays_Presented_to_Charles_Williams.md).

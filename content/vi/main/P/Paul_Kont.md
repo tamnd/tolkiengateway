@@ -19,7 +19,7 @@ images:
 
 <figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/K/Komponist_Paul_Kont.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/38/Komponist_Paul_Kont.jpg/200px-Komponist_Paul_Kont.jpg" decoding="async" loading="lazy" width="200" height="416" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/3/38/Komponist_Paul_Kont.jpg 1.5x" data-file-width="264" data-file-height="549"/></a><figcaption>Paul Kont</figcaption></figure>
 
-**Paul Kont** ([19 tháng 8](../_/19_August.md), [1920](../_/1920.md) - [26 tháng 12](../_/26_December.md), [2000](../_/2000.md)), là một nhà soạn nhạc từng đoạt giải thưởng. Cùng với Leonard Rosenman, ông đã sáng tác nhạc phim cho [*The Lord of the Rings*phim 1978](<../T/The_Lord_of_the_Rings_(1978_film).md>).
+**Paul Kont** ([19 tháng 8](../_/19_August.md), [1920](../_/1920.md) - [26 tháng 12](../_/26_December.md), [2000](../_/2000.md)), là một nhà soạn nhạc từng đoạt giải thưởng. Cùng với Leonard Rosenman, ông đã sáng tác nhạc phim cho [*The Lord of the Rings* phim 1978](<../T/The_Lord_of_the_Rings_(1978_film).md>).
 
 ## Xem thêm {#See_also}
 

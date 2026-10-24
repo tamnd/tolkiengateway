@@ -29,4 +29,4 @@ file:
 <p class="tg-quote-footer"><cite><a href="../../main/G/Gandalf.md" title="Gandalf">Gandalf</a></cite></p>
 </blockquote></div></div>
 
-Được thay thế bằng [Tệp:Miriam Ellis - Donnamira.png](Miriam_Ellis_-_Donnamira.png.md)
+Được thay thế bởi [File:Miriam Ellis - Donnamira.png](Miriam_Ellis_-_Donnamira.png.md)

@@ -26,7 +26,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Person</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Xabi Gaztelua</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Occupation</th><td class="tg-infobox-data">Artist</td></tr></tbody></table>
 
-**Xabi Gaztelua** là một họa sĩ minh họa người Tây Ban Nha. Với tư cách là một nghệ sĩ [Magic: The Gathering](../M/Magic%253A_The_Gathering.md), cô đã sáng tạo nghệ thuật cho bản mở rộng [The Hobbit](../M/Magic%253A_The_Gathering_-_The_Hobbit.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Xabi Gaztelua** là một họa sĩ minh họa người Tây Ban Nha. Với tư cách là một nghệ sĩ [Magic: The Gathering](../M/Magic%253A_The_Gathering.md), bà đã sáng tạo nghệ thuật cho việc mở rộng [The Hobbit](../M/Magic%253A_The_Gathering_-_The_Hobbit.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Gaztelua cho rằng sở thích của anh đối với thể loại giả tưởng là do mẹ anh, người đã đọc *[The Hobbit](../T/The_Hobbit.md)* cho anh nghe và tặng anh [bản chuyển thể từ truyện tranh](<../T/The_Hobbit_(comic_book).md>).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 

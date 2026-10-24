@@ -43,7 +43,7 @@ infobox:
   <tr><th scope="row" class="tg-infobox-label">Subject(s)</th><td class="tg-infobox-data"><a href="../M/Malbeth.md" title="Malbeth">Malbeth</a>, <a class="mw-redirect" href="../K/Kings_of_Arnor.md" title="Kings of Arnor">Kings of Arnor</a>, <a href="../P/Paths_of_the_Dead.md" title="Paths of the Dead">Paths of the Dead</a></td></tr>
 </tbody></table>
 
-"**Trên mặt đất có một cái bóng dài,**" là lời tiên tri được nói bởi [Malbeth Nhà tiên tri](../M/Malbeth.md) vào những ngày [Arvedui](../A/Arvedui.md), [Vua cuối cùng của Arnor](../K/Kings_of_Arnor.md). Nó được [Aragorn](../A/Aragorn.md) kể lại trước khi đi đến [Con đường của người chết](../P/Paths_of_the_Dead.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+"**Trên mặt đất có một cái bóng dài,**" là lời tiên tri được nói bởi [Mabeth the Seer](../M/Malbeth.md) vào thời của [Arvedui](../A/Arvedui.md), [Vua cuối cùng của Arnor](../K/Kings_of_Arnor.md). Nó được kể lại bởi [Aragorn](../A/Aragorn.md) trước khi đi đến [Con đường của người chết](../P/Paths_of_the_Dead.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Trích đoạn thơ {#Poem_excerpt}
 
@@ -60,13 +60,13 @@ and hear there a horn in the hills ringing.
 
 ## Bình luận {#Commentary}
 
-Lời tiên tri này được viết dưới dạng câu thơ ám chỉ tiếng Anh cổ, trong đó Tolkien là một chuyên gia, vừa là học giả vừa là người thực hành. Nhiều ví dụ về câu điệp âm được đưa vào *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, nhưng đây là ví dụ duy nhất không liên quan đến [Rohirrim](../R/Rohirrim.md). Rohirrim được mô tả là sử dụng dạng câu thơ này vì Tolkien đánh đồng chúng với tổ tiên của tiếng Anh; nhưng không có lý do rõ ràng tại sao Númenórean lại viết theo dạng này. Các bản thảo đăng trong *[The War of the Ring](../T/The_War_of_the_Ring.md)* đều ở thể thơ có vần.<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup>
+Lời tiên tri này được viết dưới dạng câu thơ ám chỉ tiếng Anh cổ, trong đó Tolkien là một chuyên gia, vừa là học giả vừa là người thực hành. Nhiều ví dụ về câu thơ ám chỉ được đưa vào *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, nhưng đây là ví dụ duy nhất không liên quan đến [Rohirrim](../R/Rohirrim.md). Người Rohirrim được miêu tả là sử dụng dạng câu thơ này vì Tolkien đánh đồng họ với tổ tiên của người Anh; nhưng không có lý do rõ ràng tại sao người Númenórean lại viết theo hình thức này. Các bản thảo đăng trong *[The War of the Ring](../T/The_War_of_the_Ring.md)* đều ở thể thơ có vần.<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2003: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">The Lord of the Rings: The Return of the King</a></i> </b>
+<b>2003: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">Chúa tể của những chiếc nhẫn: Sự trở lại của nhà vua</a></i> </b>
 
-Khi Aragorn, [Legolas](../L/Legolas.md) và [Gimli](../G/Gimli.md) đi theo [Đường Dimholt](../D/Dimholt.md) vào vùng núi, Legolas đọc một phần lời tiên tri sau khi kể lại lịch sử về Con Người của Ngọn núi và lời thề bị phá vỡ của họ với [Isildur](../I/Isildur.md):
+Khi Aragorn, [Legolas](../L/Legolas.md) và [Gimli](../G/Gimli.md) đi theo [Đường Dimholt](../D/Dimholt.md) vào vùng núi, Legolas đọc thuộc lòng một phần lời tiên tri sau khi kể lại lịch sử của Những Người Trên Núi và lời thề tan vỡ của họ với [Isildur](../I/Isildur.md):
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
 <p>Who shall call them from the grey twilight, the forgotten people?<br/>

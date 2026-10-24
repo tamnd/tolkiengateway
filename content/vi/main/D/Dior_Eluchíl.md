@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dior"
 ---
 
-Chuyển hướng đến [Dior](Dior.md).
+Chuyển hướng tới [Dior](Dior.md).

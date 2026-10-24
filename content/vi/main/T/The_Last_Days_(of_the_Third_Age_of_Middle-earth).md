@@ -89,25 +89,25 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/TLD_logo.png.md"><img src="https://tolkiengateway.net/w/images/thumb/6/68/TLD_logo.png/320px-TLD_logo.png" decoding="async" loading="lazy" width="320" height="80" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/68/TLD_logo.png/480px-TLD_logo.png 1.5x, https://tolkiengateway.net/w/images/6/68/TLD_logo.png 2x" data-file-width="600" data-file-height="150"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Video game</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Last Days (of the Third Age of Middle-earth)</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Details</span></th></tr><tr><th scope="row" class="tg-infobox-label">Developer</th><td class="tg-infobox-data"><a class="external text" href="https://www.moddb.com/company/tld" rel="noreferrer noopener" target="_blank">The Last Days Team</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">N/A (freeware mod)</td></tr><tr><th scope="row" class="tg-infobox-label">Platform</th><td class="tg-infobox-data">Microsoft Windows</td></tr><tr><th scope="row" class="tg-infobox-label">Release Date</th><td class="tg-infobox-data"><a href="../_/16_October.md" title="16 October">October 16</a>, <a href="../_/2011.md" title="2011">2011</a></td></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data">Action RPG / Adventure / Strategy</td></tr></tbody></table>
 
-<i><b>The Last Days (of the Third Age of Middle-earth)</b></i> (viết tắt **TLD**) là một mod chuyển đổi tổng thể do người hâm mộ tạo ra (phần mềm miễn phí, phi thương mại) dành cho các trò chơi trên máy tính <i><a class="extiw" href="http://en.wikipedia.org/wiki/Mount_%26_Blade" title="wikipedia:Mount &amp; Blade">Mount & Blade</a></i> và <i><a class="extiw" href="http://en.wikipedia.org/wiki/Mount_%26_Blade:_Warband" title="wikipedia:Mount &amp; Blade: Warband">Mount & Blade: Warband</a></i>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Bản mod mở rộng này, bao gồm các sự kiện của [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), được phát hành lần đầu tiên vào tháng 10 năm 2011 cho *Mount &amp; Blade* và phiên bản *Mount &amp; Blade: Warband* của trò chơi.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+<i><b>The Last Days (of the Third Age of Middle-earth)</b></i> (abbrev. **TLD**) is a fan-made (freeware, non-commercial) total conversion mod for the computer games <i><a class="extiw" href="http://en.wikipedia.org/wiki/Mount_%26_Blade" title="wikipedia:Mount &amp; Blade">Mount &amp; Blade</a></i> and <i><a class="extiw" href="http://en.wikipedia.org/wiki/Mount_%26_Blade:_Warband" title="wikipedia:Mount &amp; Blade: Warband">Mount &amp; Blade: Warband</a></i>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> This expansive mod, covering the events of the [War of the Ring](../W/War_of_the_Ring.md), was first released in October 2011 for *Mount &amp; Blade* and the *Mount &amp; Blade: Warband* edition of the game.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
-"TLD" tuân theo cơ chế trò chơi cơ bản của loạt trò chơi *Mount &amp; Blade*, đồng thời thay đổi nhiều cơ chế để người chơi hòa nhập tốt hơn vào Trung Địa của Tolkien(chủ yếu là [Rhovanion](../R/Rhovanion.md), [Rohan](../R/Rohan.md), [Gondor](../G/Gondor.md) và các vùng đất ở phía đông) trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md).
+"TLD" tuân theo cơ chế trò chơi cơ bản của loạt trò chơi *Mount &amp; Blade*, đồng thời thay đổi nhiều cơ chế để người chơi hòa mình vào Trung địa của Tolkien tốt hơn (chủ yếu là [Rhovanion](../R/Rhovanion.md), [Rohan](../R/Rohan.md), [Gondor](../G/Gondor.md) và các vùng đất ở phía đông) trong [War of the Ring](../W/War_of_the_Ring.md).
 
 Quá trình chuyển đổi tổng thể đã được phát triển trong vài năm, từ 2007 và 2008 cho đến 2011 và 2013. Kể từ đó, nó đã liên tục nhận được các bản cập nhật và tiện ích bổ sung. Bản phát hành gần đây nhất của *The Last Days* là phiên bản 3.6 (phát hành tháng 7 năm 2020), cho cả *Mount &amp; Blade* và *Mount &amp; Blade: Warband*.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> Bản mod, cụ thể là các thành phần của nó (đồ họa, âm nhạc, mã nguồn), được cấp phép trên cơ sở OSP (dự án nguồn mở) kể từ tháng 12 năm 2012.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
 
 ## Cách chơi {#Gameplay}
 
-Bản mod mô tả Cuộc chiến Nhẫn từ góc nhìn của một người lính bình thường ở phe Dân tộc Tự do hoặc những người theo phe Sauron. Các chủng tộc có thể chơi được bao gồm Con Người, Tiên tộc, Người Lùn, Orc và Uruk cho một trong hai bên. Bản mod này được chơi chủ yếu dưới dạng game nhập vai hành động và mô phỏng chiến đấu thời trung cổ, từ góc nhìn thứ nhất và thứ ba, tập trung vào chiến đấu trên lưng ngựa, chiến đấu bộ binh và chiến đấu bao vây tại nhiều địa điểm khác nhau bị ảnh hưởng bởi chiến tranh. Theo thời gian, nhân vật của người chơi tạo ra một nhóm gồm những người theo dõi và sau đó là một đại đội binh lính và tham gia vào Cuộc chiến Nhẫn dưới sự lãnh đạo của các chỉ huy từ nhiều phe phái khác nhau.
+Bản mod mô tả Cuộc chiến trên chiếc nhẫn từ góc nhìn của một người lính bình thường ở phe Nhân dân Tự do hoặc những người đứng về phía Sauron. Các chủng tộc có thể chơi được bao gồm Nam giới, Yêu tinh, Người lùn, Orc và Uruk cho một trong hai bên. Bản mod này được chơi chủ yếu dưới dạng game nhập vai hành động và mô phỏng chiến đấu thời trung cổ, từ góc nhìn thứ nhất và thứ ba, tập trung vào chiến đấu trên lưng ngựa, chiến đấu bộ binh và chiến đấu bao vây tại nhiều địa điểm khác nhau bị ảnh hưởng bởi chiến tranh. Theo thời gian, nhân vật của người chơi tạo ra một nhóm gồm những người theo dõi và sau đó là một đại đội binh lính và tham gia vào Cuộc chiến trên võ đài dưới sự lãnh đạo của các chỉ huy từ nhiều phe phái khác nhau.
 
-Không giống như trong các trò chơi *Mount &amp; Blade* cơ bản, pháo đài hoặc khu định cư có thể bị phe địch phá hủy vĩnh viễn, đòi hỏi người chơi phải quan tâm nhiều hơn để giữ và bảo vệ lãnh thổ, đồng thời cố gắng chinh phục lãnh thổ của đối thủ. Một yếu tố mới đối với chiến lược và chiến thuật trong trò chơi là vị trí của nhân vật người chơi với các phe phái khác nhau, bao gồm cả đồng minh của họ. Nó không được tính toán trên toàn cầu, thay vào đó, vị thế phát triển dựa trên những ưu đãi mà người chơi đã thực hiện cho một phe đồng minh cụ thể. (Ví dụ: Có thể là một người bạn nổi tiếng của Vương quốc Dale, nhưng được các đồng minh trong Lothlórien nhìn nhận với thái độ hai chiều.)
+Không giống như trong các trò chơi *Mount &amp; Blade* cơ bản, pháo đài hoặc khu định cư có thể bị phe địch phá hủy vĩnh viễn, đòi hỏi người chơi phải quan tâm nhiều hơn để giữ và bảo vệ lãnh thổ, đồng thời cố gắng chinh phục lãnh thổ của đối thủ. Một yếu tố mới đối với chiến lược và chiến thuật trong trò chơi là vị trí của nhân vật người chơi với các phe phái khác nhau, bao gồm cả đồng minh của họ. Nó không được tính toán trên toàn cầu, thay vào đó, vị thế phát triển dựa trên những ưu đãi mà người chơi đã thực hiện cho một phe đồng minh cụ thể. (Ví dụ: Có thể là một người bạn nổi tiếng của Vương quốc Dale, nhưng lại bị các đồng minh ở Lothlórien nhìn nhận một cách trái chiều.)
 
 Như trong trò chơi cơ bản *Mount &amp; Blade*, người chơi có thể chiêu mộ một số người bạn đồng hành độc đáo nhất định để trở thành thành viên trong nhóm của họ. Những người bạn đồng hành có thể tuyển dụng đều có sẵn cho phe thiện hoặc phe ác, nhưng không có người nào trong số họ dành cho cả hai.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
 
-Người chơi có thể gặp nhiều nhân vật khác nhau từ thời Cuộc chiến Nhẫn, bao gồm các thủ lĩnh và quý tộc nổi tiếng của các phe phái, cũng như sự xuất hiện khách mời của các thành viên Đoàn Hộ Nhẫn, với tư cách là nhân vật không phải người chơi.
+Người chơi có thể gặp nhiều nhân vật khác nhau từ thời War of the Ring, bao gồm các thủ lĩnh và quý tộc nổi tiếng của các phe phái, cũng như sự xuất hiện khách mời của các thành viên của Fellowship of the Ring, với tư cách là nhân vật không phải người chơi.
 
 ## Các phe phái có thể chơi được {#Playable_factions}
 
-Các phe phái xuất hiện trong tổng chuyển đổi mà nhân vật người chơi có thể tham gia, hợp tác và chiến đấu. Không thể phục vụ cả hai phe "Thiện" hoặc "Ác" cùng một lúc. Một thành viên của Dân tộc Tự do sẽ không thể phục vụ Sauron và người theo dõi hoặc đồng minh của Sauron sẽ không thể hợp tác với Dân tộc Tự do.
+Các phe phái xuất hiện trong tổng chuyển đổi mà nhân vật người chơi có thể tham gia, hợp tác và chiến đấu. Không thể phục vụ cả hai phe "Thiện" hoặc "Ác" cùng một lúc. Một thành viên của Dân tộc Tự do sẽ không thể phục vụ Sauron và một người theo dõi hoặc đồng minh của Sauron sẽ không thể hợp tác với Dân tộc Tự do.
 
 #### Những Dân tộc Tự do {#The_Free_Peoples}
 
@@ -121,15 +121,15 @@ Chiến dịch “Tốt”: *The Dawn of a New Age*
     - [Pelargir](../P/Pelargir.md)
     - [Lossarnach](../L/Lossarnach.md)
 - [Rohan](../R/Rohan.md) ([Rohirrim](../R/Rohirrim.md))
-- [Tiên tộc trong số Imladris](../I/Imladris.md) ([Rivendell](../R/Rivendell.md))
-    - [Dúnedain Biệt đội](../R/Rangers_of_the_North.md)
-- [Tiên tộc trong số Lothlórien](../L/Lothlórien.md)
-- [Gỗ Tiên tộc](../S/Silvan_Elves.md) ([Vương quốc Rừng](../W/Woodland_Realm.md))
-- [Người Lùn](../D/Dwarves.md) ([Vương quốc dưới Núi](../K/Kingdom_under_the_Mountain.md) và [Dãy Đồi Sắt](../I/Iron_Hills.md))
+- [Yêu tinh của Imladris](../I/Imladris.md) ([Rivendell](../R/Rivendell.md))
+    - [Biệt đội Dúnedain](../R/Rangers_of_the_North.md)
+- [Yêu tinh xứ Lothlórien](../L/Lothlórien.md)
+- [Yêu tinh rừng](../S/Silvan_Elves.md) ([Vương quốc rừng](../W/Woodland_Realm.md))
+- [Người lùn](../D/Dwarves.md) ([Vương quốc dưới ngọn núi](../K/Kingdom_under_the_Mountain.md) và [Đồi Sắt](../I/Iron_Hills.md))
 - [Vương quốc Dale](../K/Kingdom_of_Dale.md) ([Bardings](../B/Bardings.md) của [Dale](../D/Dale.md) và [Esgaroth](../E/Esgaroth.md))
-- [Beornings](../B/Beornings.md) và [Người Rừng](../W/Woodmen.md)
+- [Đồ nghề](../B/Beornings.md) và [Thợ rừng](../W/Woodmen.md)
 
-Gondor đáng chú ý vì có thêm một số phe phái phụ, nhằm đại diện cho các vùng và tỉnh khác nhau của vương quốc cũng như các truyền thống và đặc sản quân sự khác nhau của họ. Chúng có cây phát triển quân đội độc đáo của riêng mình. (Dol Amroth có các hiệp sĩ Thiên Nga, Pinnath Gelin giáo và cung thủ, cung thủ Blackroot Vale, lính rìu Lossarnach và Pelargir thủy quân lục chiến.) Biệt đội phương Bắc là một phân nhánh của chủ nhà Rivendell (cũng có cây phát triển quân đội riêng của họ so với cây Imladris yêu tinh) và Beornings và Người Rừng tạo thành một phe chung (với cả hai nhóm đều có cây phát triển quân đội riêng của họ).
+Gondor đáng chú ý vì có thêm một số phe phái phụ, nhằm đại diện cho các vùng và tỉnh khác nhau của vương quốc cũng như các truyền thống và đặc sản quân sự khác nhau của họ. Chúng có cây phát triển quân đội độc đáo của riêng mình. (Dol Amroth có các hiệp sĩ Swan độc đáo, cung thủ và giáo viên Pinnath Gelin, cung thủ Blackroot Vale, lính rìu Lossarnach và lính thủy đánh bộ Pelargir.) Rangers of the North là một phân nhánh của chủ nhà Rivendell (cũng có cây phát triển quân đội riêng của họ so với yêu tinh Imladris) và Beornings và Woodmen tạo thành một phe chung (với cả hai nhóm đều có cây phát triển quân đội riêng của họ).
 
 #### Lực lượng của Sauron {#The_Forces_of_Sauron}
 
@@ -137,16 +137,16 @@ Chiến dịch "Ác quỷ": *The Twilight of Man*
 
 - [Mordor](../M/Mordor.md)
 - [Dol Guldur](../D/Dol_Guldur.md)
-- Con Người trong số [Rhûn](../R/Rhûn.md)
-- [Easterlings](../E/Easterlings.md) ([Các biến thể](../V/Variags.md) của [Khand](../K/Khand.md))
+- Người của [Rhûn](../R/Rhûn.md)
+- [Người phương Đông](../E/Easterlings.md) ([Các biến thể](../V/Variags.md) của [Khand](../K/Khand.md))
 - [Haradrim](../H/Haradrim.md)
-- [Hải tặc Umbar](../C/Corsairs_of_Umbar.md) ([Đen người Númenor](../B/Black_Númenóreans.md))
+- [Corsairs of Umbar](../C/Corsairs_of_Umbar.md) ([Người Númenóre đen](../B/Black_Númenóreans.md))
 - [Isengard](../I/Isengard.md)
-- [Orc](../O/Orcs.md) trong số [Moria](../M/Moria.md)
+- [Orc](../O/Orcs.md) của [Moria](../M/Moria.md)
 - [Gundabad](../G/Gundabad.md) [orc](../O/Orcs.md)
-- [Dunlending](../D/Dunlendings.md)
+- [Cho vay khó khăn](../D/Dunlendings.md)
 
-Dunlending là phe yếu nhất và nhỏ nhất trong các phe đối kháng.
+Dunlendings là phe yếu nhất và nhỏ nhất trong các phe đối kháng.
 
 ## Âm nhạc {#Music}
 
@@ -619,9 +619,9 @@ Nhóm phát triển ban đầu của toàn bộ chuyển đổi hoặc các nhó
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="https://www.moddb.com/mods/the-last-days" rel="noreferrer noopener" target="_blank"><i>The Last Days (of the Third Age of Middle-earth)</i> tổng quan chính</a> tại <a class="external text" href="https://www.moddb.com/" rel="noreferrer noopener" target="_blank">ModDB.com</a> (tin tức và cập nhật thường xuyên)
+- <a class="external text" href="https://www.moddb.com/mods/the-last-days" rel="noreferrer noopener" target="_blank"><i>Những ngày cuối cùng (của Thời đại thứ ba ở Trung Địa)</i> tổng quan chính</a> tại <a class="external text" href="https://www.moddb.com/" rel="noreferrer noopener" target="_blank">ModDB.com</a> (tin tức và cập nhật thường xuyên)
 - <a class="external text" href="http://synnaskole.sweb.cz/TLDManual3.3.pdf" rel="noreferrer noopener" target="_blank">Sách hướng dẫn bằng tiếng Anh cho <i>Những ngày cuối cùng</i></a> (cập nhật cho phiên bản 3.3 trở lên)
-- <a class="external text" href="https://forums.taleworlds.com/index.php?threads/tld-the-last-days-lotr-mod-for-m-b-1-011-info.199243/" rel="noreferrer noopener" target="_blank">Chủ đề chính về tổng số chuyển đổi <i>The Last Days (of the Third Age of Middle-earth)</i> (cho <i>Mount & Blade</i> 1.011)</a> tại diễn đàn chính thức của TaleWorlds Entertainment, "Các bản mod đã phát hành"
+- <a class="external text" href="https://forums.taleworlds.com/index.php?threads/tld-the-last-days-lotr-mod-for-m-b-1-011-info.199243/" rel="noreferrer noopener" target="_blank">Chủ đề chính cho <i>Những ngày cuối cùng (của Thời đại thứ ba của Trung địa)</i> tổng số chuyển đổi (cho <i>Mount & Blade</i> 1.011)</a> tại diễn đàn chính thức của TaleWorlds Entertainment, "Các bản mod đã phát hành"
 - <a class="external text" href="http://mbx.streetofeyes.com/index.php/board,20.0.html" rel="noreferrer noopener" target="_blank">Diễn đàn phát triển và khắc phục sự cố cho <i>Những ngày cuối cùng</i></a> (lưu trữ)
 
 <br>

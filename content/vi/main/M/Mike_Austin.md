@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Austin, Mike"
 ---
 
-**Mike Austin Austin** là tác giả của [Cuộc phiêu lưu khổng lồ](../C/Colossal_Adventure.md), [Nhiệm vụ phiêu lưu](../A/Adventure_Quest.md) và [Cuộc phiêu lưu trong ngục tối](../D/Dungeon_Adventure.md), tất cả đều là một phần của [The Middle-Earth Trilogy](../T/The_Middle-Earth_Trilogy.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+**Mike Austin** là tác giả của [Cuộc phiêu lưu khổng lồ](../C/Colossal_Adventure.md), [Nhiệm vụ phiêu lưu](../A/Adventure_Quest.md) và [Cuộc phiêu lưu trong ngục tối](../D/Dungeon_Adventure.md), tất cả đều là một phần của [Bộ ba Trung Địa](../T/The_Middle-Earth_Trilogy.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

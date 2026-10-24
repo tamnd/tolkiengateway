@@ -21,39 +21,39 @@ langlinks:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><a href="../F/First_Age.md" title="First Age">I</a><a href="../S/Second_Age.md" title="Second Age">II</a><b>III</b><a href="../F/Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="Third_Age_2938.md" title="Third Age 2938">2938</a><a href="Third_Age_2939.md" title="Third Age 2939">2939</a><a href="Third_Age_2940.md" title="Third Age 2940">2940</a><a class="mw-selflink selflink">2941</a><a href="Third_Age_2942.md" title="Third Age 2942">2942</a><a href="Third_Age_2943.md" title="Third Age 2943">2943</a><a href="Third_Age_2944.md" title="Third Age 2944">2944</a></div></div></div></div></div></div>
 
-**Kỷ Đệ Tam 2941** (viết tắt là **T.A. 2941**) là năm [thứ 2941 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Tam](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Kỷ Đệ Tam 2941 còn được gọi là **S.R. 1341** trong [lịch Shire](../S/Shire-reckoning.md).
+**Kỷ thứ ba 2941** (viết tắt là **T.A. 2941**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 2941 của [Kỷ thứ ba](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Thời đại thứ ba 2941 còn được gọi là **S.R. 1341** trong [Tính toán quận](../S/Shire-reckoning.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 ## [Tháng 3](../M/March.md) {#March}
 
-- **[15](../_/15_March.md)**: [Gandalf](../G/Gandalf.md) gặp [Thorin](Thorin.md) gần [Bree](../B/Bree.md) và cuối cùng quyết định về [Nhiệm vụ Erebor](../Q/Quest_of_Erebor.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+- **[15](../_/15_March.md)**: [Gandalf](../G/Gandalf.md) gặp [Thorin](Thorin.md) gần [Bree](../B/Bree.md) và cuối cùng quyết định về [Nhiệm vụ của Erebor](../Q/Quest_of_Erebor.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## [Tháng 4](../A/April.md) {#April}
 
-- **[6](../_/6_April.md)**: [Bilbo Baggins](../B/Bilbo_Baggins.md) không còn cho *[Yestare](../Y/Yestare.md)*; [Gandalf](../G/Gandalf.md) thăm [Bag End](../B/Bag_End.md), nói chuyện với [Holman Greenhand](../H/Holman_Greenhand.md) và nhận ra Bilbo là người phù hợp cho Nhiệm vụ.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
-- [Thorin](Thorin.md) và [Gandalf](../G/Gandalf.md) ghé thăm [Bilbo](../B/Bilbo_Baggins.md) tại [ Shire](The_Shire.md).<sup id="cite_ref-TA_3-0" class="reference"><a href="#cite_note-TA-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
-- Ngày hôm sau [Thorin và Đoàn tùy tùng](Thorin_and_Company.md) khởi hành đi *[Green Dragon](../G/Green_Dragon~72852.md)*. Bilbo bắt kịp lúc 11 giờ sáng. Nhiệm vụ tìm kiếm Erebor bắt đầu.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+- **[6](../_/6_April.md)**: [Bilbo Baggins](../B/Bilbo_Baggins.md) bị loại vì *[Yestare](../Y/Yestare.md)*; [Gandalf](../G/Gandalf.md) đến thăm [Bag End](../B/Bag_End.md), nói chuyện với [Holman Greenhand](../H/Holman_Greenhand.md) và nhận ra Bilbo là người phù hợp cho Nhiệm vụ.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- [Thorin](Thorin.md) và [Gandalf](../G/Gandalf.md) thăm [Bilbo](../B/Bilbo_Baggins.md) ở [Shire](The_Shire.md).<sup id="cite_ref-TA_3-0" class="reference"><a href="#cite_note-TA-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+- Ngày hôm sau [Thorin và đồng đội](Thorin_and_Company.md) khởi hành đến *[Green Dragon](../G/Green_Dragon~72852.md)*. Bilbo bắt kịp lúc 11 giờ sáng. Cuộc tìm kiếm Erebor bắt đầu.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Xuân-Hè {#Spring-Summer}
 
 - Bilbo gặp [Gollum](../G/Gollum.md) và tìm thấy [Chiếc Nhẫn Chúa](The_One_Ring.md).<sup id="cite_ref-TA_3-1" class="reference"><a href="#cite_note-TA-3">[3]</a></sup>
-- Cuộc [Bạch Hội Đồng](../W/White_Council.md) gặp nhau.<sup id="cite_ref-TA_3-2" class="reference"><a href="#cite_note-TA-3">[3]</a></sup>
-- [Saruman](../S/Saruman.md) đồng ý [Tấn công vào Dol Guldur](../A/Attack_on_Dol_Guldur.md), vì giờ đây anh ta muốn ngăn chặn [Sauron](../S/Sauron.md) tìm kiếm [Anduin](../A/Anduin.md).<sup id="cite_ref-TA_3-3" class="reference"><a href="#cite_note-TA-3">[3]</a></sup>
-- [Sauron](../S/Sauron.md) thực hiện xong kế hoạch rồi từ bỏ [Dol Guldur](../D/Dol_Guldur.md).<sup id="cite_ref-TA_3-4" class="reference"><a href="#cite_note-TA-3">[3]</a></sup>
+- Hội đồng [Da trắng](../W/White_Council.md) họp.<sup id="cite_ref-TA_3-2" class="reference"><a href="#cite_note-TA-3">[3]</a></sup>
+- [Saruman](../S/Saruman.md) đồng ý [Tấn công Dol Guldur](../A/Attack_on_Dol_Guldur.md), vì giờ đây ông ta muốn ngăn chặn [Sauron](../S/Sauron.md) tìm kiếm [Anduin](../A/Anduin.md).<sup id="cite_ref-TA_3-3" class="reference"><a href="#cite_note-TA-3">[3]</a></sup>
+- [Sauron](../S/Sauron.md) sau khi thực hiện kế hoạch của mình đã từ bỏ [Dol Guldur](../D/Dol_Guldur.md).<sup id="cite_ref-TA_3-4" class="reference"><a href="#cite_note-TA-3">[3]</a></sup>
 
-## [tháng Chín](../S/September.md) {#September}
+## [Tháng 9](../S/September.md) {#September}
 
 - Bilbo và [Thorin và đồng đội](Thorin_and_Company.md) thoát khỏi [Sảnh của Elvenking](../E/Elvenking's_Halls.md) trên những chiếc thùng.
-- **[22](../_/22_September.md)**: Sinh nhật của Bilbo; ngày hôm đó anh ấy đến [Lake-town](../L/Lake-town.md).
+- **[22](../_/22_September.md)**: Sinh nhật của Bilbo; ngày hôm đó ông đến [Lake-town](../L/Lake-town.md).
 
 ## Sau {#Later}
 
-- [Bard](../B/Bard.md) trong số [Esgaroth](../L/Lake-town.md) giết [Smaug](../S/Smaug.md).<sup id="cite_ref-TA_3-5" class="reference"><a href="#cite_note-TA-3">[3]</a></sup>
-- [Trận chiến Năm Đạo quân](../B/Battle_of_Five_Armies.md) trong [Dale](../D/Dale.md).<sup id="cite_ref-TA_3-6" class="reference"><a href="#cite_note-TA-3">[3]</a></sup>
+- [Bard](../B/Bard.md) của [Esgaroth](../L/Lake-town.md) giết [Smaug](../S/Smaug.md).<sup id="cite_ref-TA_3-5" class="reference"><a href="#cite_note-TA-3">[3]</a></sup>
+- [Trận chiến của năm đạo quân](../B/Battle_of_Five_Armies.md) ở [Dale](../D/Dale.md).<sup id="cite_ref-TA_3-6" class="reference"><a href="#cite_note-TA-3">[3]</a></sup>
 - Cái chết của [Thorin](Thorin.md) Oakenshield, [Fíli](../F/Fíli.md) và [Kíli](../K/Kíli.md).<sup id="cite_ref-TA_3-7" class="reference"><a href="#cite_note-TA-3">[3]</a></sup>
 - Cái chết của [Bolg](../B/Bolg.md).<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
-- [Dáin II Ironfoot](../D/Dáin_Ironfoot.md) của [Dãy Đồi Sắt](../I/Iron_Hills.md) trở thành [Vua Dưới Núi](../K/King_under_the_Mountain.md).<sup id="cite_ref-TA_3-8" class="reference"><a href="#cite_note-TA-3">[3]</a></sup>
+- [Dáin II Ironfoot](../D/Dáin_Ironfoot.md) của [Iron Hills](../I/Iron_Hills.md) trở thành [Vua dưới núi](../K/King_under_the_Mountain.md).<sup id="cite_ref-TA_3-8" class="reference"><a href="#cite_note-TA-3">[3]</a></sup>
 
 ## Không xác định {#Unknown}
 

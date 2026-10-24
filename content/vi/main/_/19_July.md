@@ -78,14 +78,14 @@ Sự kiện xảy ra vào ngày 19 tháng 7.
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Gandalf](../G/Gandalf.md) bị giam giữ bởi [Saruman](../S/Saruman.md) trên đỉnh của [Orthanc](../O/Orthanc.md).
+    - [Gandalf](../G/Gandalf.md) bị [Saruman](../S/Saruman.md) giam giữ trên đỉnh [Orthanc](../O/Orthanc.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - Lễ tang vua [Théoden](../T/Théoden.md) xuất phát từ [Minas Tirith](../M/Minas_Tirith.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+    - Lễ tang vua [Théoden](../T/Théoden.md) khởi hành từ [Minas Tirith](../M/Minas_Tirith.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong một số phiên bản của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, đoàn tang lễ của [Théoden](../T/Théoden.md) đã rời đi [Minas Tirith](../M/Minas_Tirith.md) vào ngày [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md)này. Trong các phiên bản khác, điều này đã được chuyển sang [ngày 22 tháng 7](22_July.md).
+Trong một số phiên bản của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, đoàn tang lễ của [Théoden](../T/Théoden.md) đã rời [Minas Tirith](../M/Minas_Tirith.md) vào ngày [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md) này. Trong các phiên bản khác, điều này đã được chuyển sang [ngày 22 tháng 7](22_July.md).
 
 ## Tài liệu tham khảo {#References}
 

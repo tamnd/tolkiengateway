@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "High King (Dúnedain)"
 ---
 
-Chuyển hướng tới [Đại Vương (Dúnedain)](<../H/High_King_(Dúnedain).md>).
+Chuyển hướng tới [Vua tối cao (Dúnedain)](<../H/High_King_(Dúnedain).md>).

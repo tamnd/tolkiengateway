@@ -15,23 +15,23 @@ sort_keys:
   "Albums": "Adventures of Tom Bombadil"
 ---
 
-<i><b>The Adventures of Tom Bombadil</b></i> là album demo của [Gene Hargrove](../G/Gene_Hargrove.md), phát hành năm 1999.
+<i><b>Những cuộc phiêu lưu của Tom Bombadil</b></i> là album demo của [Gene Hargrove](../G/Gene_Hargrove.md), phát hành năm 1999.
 
 ## Danh sách bản nhạc {#Track_listing}
 
-- The Adventures of Tom Bombadil
-- Bombadil Goes Boating
-- Errantry
+- Những cuộc phiêu lưu của Tom Bombadil
+- Bombadil đi chèo thuyền
+- Lỗi
 - Công chúa Mee
-- Người Người đàn ông trong Mặt Trăng thức quá muộn
-- Người đàn ông trong Mặt Trăng Đã xuống quá sớm
+- Người đàn ông trên mặt trăng thức quá khuya
+- Người đàn ông trên mặt trăng xuống quá sớm
 - Con quỷ đá
 - Perry-nháy mắt
 - Mewlips
 - Oliphaunt
 - Fastitocalon
-- Mèo
-- Bóng Tối-Cô dâu
+- Con mèo
+- Cô dâu bóng tối
 - Kho tích trữ
-- Cái chuông Biển
-- Cái Con Tàu Cuối Cùng
+- Chuông biển
+- Con tàu cuối cùng

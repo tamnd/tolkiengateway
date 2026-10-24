@@ -27,11 +27,11 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Ciril.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/5e/The_Lord_of_the_Rings_Online_-_Ciril.jpg/250px-The_Lord_of_the_Rings_Online_-_Ciril.jpg" decoding="async" loading="lazy" width="250" height="141" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/5e/The_Lord_of_the_Rings_Online_-_Ciril.jpg/375px-The_Lord_of_the_Rings_Online_-_Ciril.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/5/5e/The_Lord_of_the_Rings_Online_-_Ciril.jpg/500px-The_Lord_of_the_Rings_Online_-_Ciril.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>Ciril in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-Con sông **Ciril** cũng được đánh vần là <i><b>Kiril</b></i>,<sup id="cite_ref-VT_1-0" class="reference"><a href="#cite_note-VT-1">[1]</a></sup> được tính là một phần ba trong số [Bảy con sông của Gondor](../R/Rivers_of_Gondor.md).
+Con sông **Ciril** cũng được đánh vần là <i><b>Kiril</b></i>,<sup id="cite_ref-VT_1-0" class="reference"><a href="#cite_note-VT-1">[1]</a></sup> được tính là một phần ba trong số [Bảy con sông Gondor](../R/Rivers_of_Gondor.md).
 
-Nó phát sinh ở một đỉnh biệt lập phía nam [Dãy Núi Trắng](../W/White_Mountains.md) ở phía bắc vùng [Gondor](../G/Gondor.md) của [Lamedon](../L/Lamedon.md) và chảy về phía nam qua thị trấn [Calembel](Calembel.md) cho đến khi gặp sông [Ringló](../R/Ringló.md), và một phần của con sông đó chảy về phía [Edhellond](../E/Edhellond.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Nó phát sinh ở một đỉnh biệt lập phía nam [Dãy núi Trắng](../W/White_Mountains.md) ở phía bắc vùng [Gondorian](../G/Gondor.md) của [Lamedon](../L/Lamedon.md) và chảy về phía nam qua thị trấn [Calembel](Calembel.md) cho đến khi gặp sông [Ringló](../R/Ringló.md), và một phần của dòng sông đó chảy về phía [Edhellond](../E/Edhellond.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Vào [ngày 9 tháng 3](../_/9_March.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> [Aragorn](../A/Aragorn.md) đã dẫn [Gimli](../G/Gimli.md), [Legolas](../L/Legolas.md), [Grey Company](../G/Grey_Company.md) và [Những kẻ vi phạm lời thề](../O/Oathbreakers.md) băng qua Ciril trên đường tới [Pelargir](../P/Pelargir.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Vào [9 tháng 3](../_/9_March.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> [Aragorn](../A/Aragorn.md) dẫn [Gimli](../G/Gimli.md), [Legolas](../L/Legolas.md), [Grey Company](../G/Grey_Company.md) và [Những kẻ phá lời thề](../O/Oathbreakers.md) băng qua Ciril trên đường đến [Plargir](../P/Pelargir.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -39,7 +39,7 @@ Theo [Tolkien](../J/J.R.R._Tolkien.md), cái tên *Ciril*/*Kiril* có thể bắ
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2014: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2014: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
 
 <dl><dd>Ciril pours from the <a href="../W/White_Mountains.md" title="White Mountains">White Mountains</a> into the marshland of &#34;Tathrendalf&#34; from which it eventually emerges as a single stream. It passes <a href="Calembel.md" title="Calembel">Calembel</a> with its farmlands and the beacon of &#34;Maegond&#34; before joining the <a href="../R/Ringló.md" title="Ringló">Ringló</a>.</dd></dl>
 

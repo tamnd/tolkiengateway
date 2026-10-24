@@ -38,7 +38,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mallorn40.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/46/Mallorn40.jpg/320px-Mallorn40.jpg" decoding="async" loading="lazy" width="320" height="452" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/46/Mallorn40.jpg/480px-Mallorn40.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/46/Mallorn40.jpg/640px-Mallorn40.jpg 2x" data-file-width="708" data-file-height="1000"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mallorn 40</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Len Sanford</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">November <a href="../_/2002.md" title="2002">2002</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">A4 stapled paperback, glossy</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">52</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0308-6674</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mallorn_39.md" title="Mallorn 39">Mallorn 39</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mallorn_41.md" title="Mallorn 41">Mallorn 41</a></td></tr></tbody></table>
 
-<b><i>Mallorn</i> 40</b> là số thứ 40 của tạp chí [Hội Tolkien](../T/The_Tolkien_Society.md) *[Mallorn](<Mallorn_(journal).md>)*, xuất bản vào tháng 11 [2002](../_/2002.md).
+<b><i>Mallorn</i> 40</b> là số thứ 40 của tạp chí [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) *[Mallorn](<Mallorn_(journal).md>)*, xuất bản vào tháng 11 [2002](../_/2002.md).
 
 ## Nội dung {#Contents}
 
@@ -50,25 +50,25 @@ infobox:
     - Bởi: Lynn Forest-Hill
 Trí tưởng tượng đạo đức của - J.R.R. Tolkien
     - Bởi: Gary L. Willhite, John R. D. Bell
-Tầm nhìn Thánh Mẫu của - Tolkien về [Trung Địa](Middle-earth.md)
+- Tầm nhìn Đức Mẹ của Tolkien về [Trung Địa](Middle-earth.md)
     - Bởi: Donald P. Richmond
-- Người Hamlet Hobbit
+- Người Hobbit Hamletian
     - Bởi: Laura Marples
-- Bài đánh giá: '[The Fellowship of the Ring](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)' của [Peter Jackson](../P/Peter_Jackson.md)
+- Bài đánh giá: ['[The Fellowship of the Ring](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)' của Peter Jackson](../P/Peter_Jackson.md)
     - Bởi: [Charles Noad](../C/Charles_Noad.md)
     - Bởi: Christine Davidson
     - Bởi: Chris Garbowski
     - Bởi: [John Ellison](../J/John_Ellison.md)
     - Bởi: Susanne Stopfel
-Giọng nói của - [Treebeard](../T/Treebeard.md)
+- [Giọng của Cây Râu](../T/Treebeard.md)
     - Bởi: [John Ellison](../J/John_Ellison.md)
-- [The Lord of the Rings](../T/The_Lord_of_the_Rings.md) and the Four Loves
+- [The Lord of the Rings](../T/The_Lord_of_the_Rings.md) và Tứ Yêu
     - Bởi: Dale Nelson
 - Vấn đề nhị phân và vấn đề nữ quyền trong LOTR
     - Bởi: Dale Nelson
-- J.R.R. Tolkien's use of an tiếng Anh cổ charm
+Việc - J.R.R. Tolkien sử dụng bùa chú tiếng Anh cổ
     - Bởi: Edward Pettit
-- Chiếc Nhẫn: tiểu luận về thần thoại của Tolkien
+- Chiếc nhẫn: tiểu luận về thần thoại Tolkien
     - Bởi: Håken Arvidsson
 - Tác phẩm nghệ thuật
     - Bởi: Lorezno Daniele, [John Ellison](../J/John_Ellison.md), Lynn Forest-Hill, Natasha Gorton, [Kay Woollard](../K/Kay_Woollard.md)
@@ -77,4 +77,4 @@ Giọng nói của - [Treebeard](../T/Treebeard.md)
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://journals.tolkiensociety.org/mallorn/issue/view/41/" rel="noreferrer noopener" target="_blank">Vấn đề này tại trang web Hội Tolkien</a>
+- <a class="external text" href="http://journals.tolkiensociety.org/mallorn/issue/view/41/" rel="noreferrer noopener" target="_blank">Số này tại trang web của The Tolkien Society</a>

@@ -21,7 +21,7 @@ images:
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article describes a concept which is mentioned in <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s works, but was never given a definite name.
 </div></div>
 
-"**Hãy trỗi dậy, hãy trỗi dậy, các Kỵ sĩ của Théoden!**" là dòng đầu tiên trong tiếng kêu tập hợp được [Théoden](../T/Théoden.md) nói với [Các Kỵ sĩ của Rohan](../R/Riders_of_Rohan.md). Các biến thể của nó xuất hiện khi anh ta được phục hồi lần đầu tiên bởi [Gandalf](../G/Gandalf.md) và sau đó trước khi họ tiến vào [Trận chiến trên Cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md).
+"**Hãy trỗi dậy, hãy trỗi dậy, các Kỵ sĩ của Théoden!**" là dòng đầu tiên trong lời kêu gọi tập hợp được [Théoden](../T/Théoden.md) nói với [Các Kỵ sĩ của Rohan](../R/Riders_of_Rohan.md). Các biến thể của nó xuất hiện khi ông ta được [Gandalf](../G/Gandalf.md) phục hồi lần đầu tiên và sau đó trước khi họ tham gia [Trận chiến trên cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md).
 
 ## Văn bản {#Text}
 
@@ -48,9 +48,9 @@ Ride now, ride now! Ride to Gondor!<sup id="cite_ref-2" class="reference"><a hre
 
 ## Ảnh hưởng {#Influences}
 
-Những dòng chữ được viết bắt chước<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>clarify</i></a>]</sup>tiếng Đức và tiếng Scandinavi, cụ thể là [tiếng Anh cổ](../O/Old_English.md) (Anglo-Saxon), thơ ám chỉ.
+Những dòng này được viết bằng<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>clarify</i></a>]</sup> bắt chước tiếng Đức và tiếng Scandinavi, cụ thể là [tiếng Anh cổ](../O/Old_English.md) (Anglo-Saxon), câu điệp âm.
 
-Biến thể thứ hai có lẽ<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>clarify</i></a>]</sup> lấy cảm hứng từ một phần của bài thơ [tiếng Bắc Âu cổ](../O/Old_Norse.md) *[Völuspá](../V/Völuspá.md)*, một phần của *[Elder Edda](../E/Elder_Edda.md)*, mô tả trạng thái hỗn loạn của loài người vào Ngày tận thế ngay trước Ragnarök, trận chiến cuối cùng của các vị thần Bắc Âu.
+Biến thể thứ hai có lẽ<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>clarify</i></a>]</sup> lấy cảm hứng từ một phần của bài thơ [Bắc Âu cổ](../O/Old_Norse.md) *[Völuspá](../V/Völuspá.md)*, một phần của *[Elder Edda](../E/Elder_Edda.md)*, mô tả trạng thái hỗn loạn của loài người vào Ngày tận thế ngay trước Ragnarök, trận chiến cuối cùng của các vị thần Bắc Âu.
 
 <table>
 <tbody><tr>
@@ -90,17 +90,17 @@ each other spare.
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1980: <i><a href="../T/The_Return_of_the_King_(1980_film).md" title="The Return of the King (1980 film)">The Return of the King (phim 1980)</a></i> </b>
+<b>1980: <i><a href="../T/The_Return_of_the_King_(1980_film).md" title="The Return of the King (1980 film)">Sự trở lại của nhà vua (phim 1980)</a></i> </b>
 
-Théoden chỉ nói "*Ride now! Ride to Gondor!*" trước khi tính phí ở Minas Tirith.
+Théoden chỉ nói "*Ride now! Ride to Gondor!*" trước khi tấn công Minas Tirith.
 
-<b>1981: <i><a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)">The Lord of the Rings (loạt phim phát thanh 1981)</a></i> </b>
+<b>1981: <i><a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)">Chúa tể của những chiếc nhẫn (loạt phim phát thanh năm 1981)</a></i> </b>
 
-Théoden nói đầy đủ về biến thể đầu tiên của các Kỵ sĩ của Rohan tại Edoras như anh ấy đã làm trong sách.
+Théoden nói đầy đủ về biến thể đầu tiên của Kỵ sĩ Rohan tại Edoras như ông đã làm trong cuốn sách.
 
-<b>2003: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">The Lord of the Rings: The Return of the King</a></i> </b>
+<b>2003: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">Chúa tể của những chiếc nhẫn: Sự trở lại của nhà vua</a></i> </b>
 
-Théoden nói biến thể thứ hai của các Kỵ sĩ của Rohan trước cuộc tấn công của họ như anh ấy đã làm trong sách, lời bài hát có chút thay đổi:
+Théoden nói biến thể thứ hai của Kỵ sĩ Rohan trước cuộc tấn công của họ như ông đã làm trong cuốn sách, lời bài hát được thay đổi một chút:
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
 <p>Arise, arise, Riders of Théoden!<br/>
@@ -112,7 +112,7 @@ Forth Eorlingas!
 </p>
 </div>
 
-Trong sách, chính [Éomer](../_/Éomer.md) là người đã kêu lên "*Chết! Hãy cưỡi ngựa, đi đến sự hủy diệt và ngày tận thế!*" sau khi anh ta nổi điên lên vì đau buồn khi phát hiện ra thi thể của Théoden và [Éowyn](../_/Éowyn.md). Anh ta ra lệnh tấn công liều lĩnh và các Kỵ sĩ đồng thanh kêu lên "*Death*".
+Trong sách, chính [Éomer](../_/Éomer.md) là người đã kêu lên "*Chết! Hãy cưỡi ngựa, cưỡi ngựa đến sự hủy diệt và thế giới kết thúc!*" sau khi ông ta nổi điên lên vì đau buồn khi phát hiện ra thi thể của Théoden và [Éowyn](../_/Éowyn.md). Ông ta ra lệnh tấn công liều lĩnh và các Kỵ sĩ đồng thanh kêu lên "*Death*".
 
 ## Xem thêm {#See_also}
 

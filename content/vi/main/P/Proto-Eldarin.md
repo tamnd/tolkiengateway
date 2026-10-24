@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Primitive Quendian"
 ---
 
-Chuyển hướng đến [Primitive Quendian](Primitive_Quendian.md).
+Chuyển hướng tới [Quendian nguyên thủy](Primitive_Quendian.md).

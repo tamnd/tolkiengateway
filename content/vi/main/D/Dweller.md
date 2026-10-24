@@ -16,7 +16,7 @@ images:
 
 **Dweller** có thể tham khảo các trang sau:
 
-- [Dweller of the Deep](Dweller_of_the_Deep.md), danh hiệu [Ulmo](../U/Ulmo.md), một trong những [Valar](../V/Valar.md).
+- [Dweller of the Deep](Dweller_of_the_Deep.md), danh hiệu của [Ulmo](../U/Ulmo.md), một trong những [Valar](../V/Valar.md).
 - [Dweller in the Pool](Dweller_in_the_Pool.md), tên ban đầu của [Người canh giữ dưới nước](../W/Watcher_in_the_Water.md).
 
 ## Các bản chuyển thể {#Adaptations}

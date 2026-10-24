@@ -15,5 +15,5 @@ sort_keys:
 ---
 
 - Tajmah đã vui lòng cho phép cô sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Tajmah.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
-- Ngày: 6 tháng Chín năm 2020
+- Ngày: 6 tháng 9 năm 2020
 - Người dùng đã xin phép qua DeviantArt: [IvarTheBoneless](https://tolkiengateway.net/wiki/User:IvarTheBoneless)

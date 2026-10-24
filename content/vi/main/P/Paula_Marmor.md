@@ -34,22 +34,22 @@ Là người gốc California, Paula Marmor sống ở <a class="extiw" href="ht
     - Ảnh bìa
     - "Beth-Luis-Nion"
 - [1971](../_/1971.md): *[Mythlore 7](../M/Mythlore_7.md)*
-    - "Chuyến du ngoạn từ nguyên giữa Shire dân gian"
+    - "Chuyến du ngoạn từ nguyên giữa người dân Shire"
     - Tác phẩm nghệ thuật
 - [1972](../_/1972.md): *[Parma Eldalamberon 2](Parma_Eldalamberon_2.md)*
     - "Beth-Luis-Nion"
-    - "Ghi chú về các hạt chỉ thị trong Quenya và Tiếng Phần Lan"
+    - "Ghi chú về các hạt chỉ thị trong tiếng Quenya và tiếng Phần Lan"
 - [1972](../_/1972.md): *[Mythlore 8](../M/Mythlore_8.md)*
     - "Người nắm giữ ba cây: Và những cái cây khác"
 - [1973](../_/1973.md): *[Parma Eldalamberon 3](Parma_Eldalamberon_3.md)*
     - Ảnh bìa
     - "Beth-Luis-Nion"
-    - "Ghi chú về hệ thống Sindarin Chuyển đổi nguyên âm"
+    - "Chú ý về hệ thống Chuyển đổi nguyên âm Sindarin"
 - [1973](../_/1973.md): *[Mythlore 9](../M/Mythlore_9.md)*
     - Tác phẩm nghệ thuật
 - [1974](../_/1974.md): *[Parma Eldalamberon 4](Parma_Eldalamberon_4.md)*
     - "Beth-Luis-Nion"
-    - "Đột biến phụ âm đầu trong Celtic và Sindarin" (với <a class="new" href="https://tolkiengateway.net/w/index.php?title=Larry_Krieg&amp;action=edit&amp;redlink=1" title="Larry Krieg (page does not exist)">Larry Krieg</a> và <a class="new" href="https://tolkiengateway.net/w/index.php?title=David_Strecker&amp;action=edit&amp;redlink=1" title="David Strecker (page does not exist)">David Strecker</a>)
+    - "Đột biến phụ âm đầu trong tiếng Celtic và tiếng Sindarin" (với <a class="new" href="https://tolkiengateway.net/w/index.php?title=Larry_Krieg&amp;action=edit&amp;redlink=1" title="Larry Krieg (page does not exist)">Larry Krieg</a> và <a class="new" href="https://tolkiengateway.net/w/index.php?title=David_Strecker&amp;action=edit&amp;redlink=1" title="David Strecker (page does not exist)">David Strecker</a>)
 - [1975](../_/1975.md): *[Mythlore 10](../M/Mythlore_10.md)*
     - Tác phẩm nghệ thuật
 - [1977](../_/1977.md): *[Parma Eldalamberon 5](Parma_Eldalamberon_5.md)*
@@ -57,7 +57,7 @@ Là người gốc California, Paula Marmor sống ở <a class="extiw" href="ht
     - "Beth-Luis-Nion"
     - "Ghi chú về *[The Father Christmas Letters](../T/The_Father_Christmas_Letters.md)*"
 - [1978](../_/1978.md): *[An Introduction to Elvish](../A/An_Introduction_to_Elvish.md)*
-    - "Một chuyến du ngoạn từ nguyên giữa Shire Dân gian"
+    - "Một chuyến du ngoạn từ nguyên giữa Dân tộc Shire"
 
 ## Liên kết ngoài {#External_links}
 

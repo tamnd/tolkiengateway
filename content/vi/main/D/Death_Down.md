@@ -23,7 +23,7 @@ langlinks:
     url: "https://kontu.wiki/Kuollut_kumpu"
 ---
 
-**Cái chết** là một ngọn đồi được quân đội của [Huorn](../H/Huorns.md) xây dựng trong đêm sau [Trận Hornburg](../B/Battle_of_the_Hornburg.md). Vào buổi sáng sau khi trận chiến kết thúc, [Orc](../O/Orcs.md) xác của [Saruman](../S/Saruman.md) được chất thành từng đống gần mái hiên cây trong [Deeping-coomb](Deeping-coomb.md). Đêm đó rừng rời đi. Sáng hôm sau người ta phát hiện ra rằng Orc đã biến mất và một ngọn đồi mới đã được nâng lên, chất đầy đá. Người ta tin rằng Orc những người bị giết đã được chôn cất ở đó, nhưng không có người nào đặt chân lên đồi và không có cỏ nào mọc ở đó.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
+**Death Down** là một ngọn đồi được xây dựng bởi quân đội [Huorns](../H/Huorns.md) vào đêm sau [Trận chiến Hornburg](../B/Battle_of_the_Hornburg.md). Vào buổi sáng sau khi trận chiến kết thúc, những [Orc](../O/Orcs.md) chết của [Saruman](../S/Saruman.md) được chất thành từng đống gần mái hiên cây trong [Deeping-coomb](Deeping-coomb.md). Đêm đó rừng rời đi. Sáng hôm sau, người ta phát hiện ra rằng lũ Orc đã biến mất và một ngọn đồi mới đã được dựng lên, chất đầy đá. Người ta tin rằng lũ Orc bị giết đã được chôn ở đó, nhưng chưa có người nào đặt chân lên ngọn đồi và không có cỏ nào mọc ở đó.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

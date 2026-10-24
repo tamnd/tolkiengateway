@@ -36,7 +36,7 @@ infobox:
 
 ## Nội dung {#Content}
 
-Uydlert đã chỉ ra sự tương đồng giữa cuộc chinh phục của [Sauron](Sauron.md) và nhiều quy trình hiện đại khác mà cô có suy nghĩ tiêu cực, chẳng hạn như thuế, fluoride hóa nguồn nước, quốc tế hóa, ngân hàng kỹ thuật số và xem truyền hình.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Uydlert đã chỉ ra những điểm tương đồng giữa cuộc chinh phục của [Sauron](Sauron.md) và nhiều quy trình hiện đại khác mà cô có suy nghĩ tiêu cực, chẳng hạn như đánh thuế, fluoride hóa nguồn nước, quốc tế hóa, ngân hàng kỹ thuật số và xem truyền hình.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Bìa sau {#Back_cover}
 

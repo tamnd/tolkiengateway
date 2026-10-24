@@ -16,11 +16,11 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><a href="../F/First_Age.md" title="First Age">I</a><a href="../S/Second_Age.md" title="Second Age">II</a><b>III</b><a href="../F/Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="Third_Age_2619.md" title="Third Age 2619">2619</a><a href="Third_Age_2620.md" title="Third Age 2620">2620</a><a href="Third_Age_2623.md" title="Third Age 2623">2623</a><a class="mw-selflink selflink">2626</a><a href="Third_Age_2627.md" title="Third Age 2627">2627</a><a href="Third_Age_2628.md" title="Third Age 2628">2628</a><a href="Third_Age_2644.md" title="Third Age 2644">2644</a></div></div></div></div></div></div>
 
-**Kỷ Đệ Tam 2626** (viết tắt là **T.A. 2626**) là năm [thứ 2626 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Tam](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Kỷ Đệ Tam 2626 còn được gọi là **S.R. 1026** trong [lịch Shire](../S/Shire-reckoning.md).
+**Kỷ thứ ba 2626** (viết tắt là **T.A. 2626**) là [năm Mặt trời](../Y/Years_of_the_Sun.md) thứ 2626 của [Kỷ thứ ba](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Thời đại thứ ba 2626 còn được gọi là **S.R. 1026** trong [Tính toán quận](../S/Shire-reckoning.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- Sinh ra [Egalmoth](<../E/Egalmoth_(Steward_of_Gondor).md>), cháu trai của [Morwen](<../M/Morwen_(daughter_of_Belecthor).md>) con gái của [Belecthor I](../B/Belecthor_I.md). Cuối cùng anh ấy sẽ kế vị người anh họ [Ecthelion I](../E/Ecthelion_I.md) của [Gondor](../G/Gondor.md) làm [Quản lý](../R/Ruling_Steward.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+- Sự ra đời của [Egalmoth](<../E/Egalmoth_(Steward_of_Gondor).md>), cháu trai của [Morwen](<../M/Morwen_(daughter_of_Belecthor).md>) con gái của [Belecthor I](../B/Belecthor_I.md). Cuối cùng ông sẽ kế vị người anh họ [Ecthelion I](../E/Ecthelion_I.md) của [Gondor](../G/Gondor.md) làm [Quản gia](../R/Ruling_Steward.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

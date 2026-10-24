@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Kíli"
 ---
 
-Chuyển hướng đến [Kíli](Kíli.md).
+Chuyển hướng tới [Kíli](Kíli.md).

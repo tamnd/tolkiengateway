@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "McCallum, R.B."
 ---
 
-**Ronald Buchanan McCallum** ([28 tháng 8](../_/28_August.md) [1898](../_/1898.md) – [18 tháng 5](../_/18_May.md) [1973](../_/1973.md)) là thành viên không thường xuyên của [Inklings](../I/Inklings.md) với [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). McCallum từng là giảng viên và trợ giảng môn Lịch sử và Chính trị Hiện đại tại Oxford.
+**Ronald Buchanan McCallum** ([28 tháng 8](../_/28_August.md) [1898](../_/1898.md) – [18 tháng 5](../_/18_May.md) [1973](../_/1973.md)) thỉnh thoảng là thành viên của [Inklings](../I/Inklings.md) với [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). McCallum là giảng viên và trợ giảng về Lịch sử và Chính trị Hiện đại tại Oxford.
 
 ## Liên kết ngoài {#External_links}
 

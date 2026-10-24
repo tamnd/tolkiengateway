@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tar-Aldarion"
 ---
 
-Chuyển hướng đến [Tar-Aldarion](Tar-Aldarion.md).
+Chuyển hướng tới [Tar-Aldarion](Tar-Aldarion.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Klett-Cotta: Das erste Jahrzehnt 1977-1987: Ein Almanach"
 ---
 
-Chuyển hướng tới [Klett-Cotta: Das erste Jahrzehnt 1977-1987: Ein Almanach](Klett-Cotta%253A_Das_erste_Jahrzehnt_1977-1987%253A_Ein_Almanach.md).
+Chuyển hướng đến [Klett-Cotta: Das erste Jahrzehnt 1977-1987: Ein Almanach](Klett-Cotta%253A_Das_erste_Jahrzehnt_1977-1987%253A_Ein_Almanach.md).

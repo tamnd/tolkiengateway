@@ -26,7 +26,7 @@ langlinks:
 
 ## Từ nguyên {#Etymology}
 
-Tên có thể chứa [tiếng Anh cổ](Old_English.md) <i><a class="extiw" href="http://en.wiktionary.org/wiki/ofer#Etymology_2" title="wiktionary:ofer">ofer</a></i> "viền, lề, cạnh" và phần tử *-bourn*, phổ biến trong tên sông và địa danh ở Anh, đề cập đến [Shirebourn](../S/Shirebourn.md). Tuy nhiên yếu tố đầu tiên cũng có thể được đọc là "trên, ngang" theo nghĩa hiện đại, do đó tên này có thể hiểu là "đầm lầy bên kia suối".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Tên này có thể chứa [Tiếng Anh cổ](Old_English.md) <i><a class="extiw" href="http://en.wiktionary.org/wiki/ofer#Etymology_2" title="wiktionary:ofer">ofer</a></i> "border, lề, cạnh" và thành phần *-bourn*, phổ biến trong tên sông và địa danh ở Anh, đề cập đến [Shirebourn](../S/Shirebourn.md). Tuy nhiên yếu tố đầu tiên cũng có thể được đọc là "trên, ngang" theo nghĩa hiện đại, do đó tên này có thể hiểu là "đầm lầy bên kia suối".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Xem thêm {#See_also}
 

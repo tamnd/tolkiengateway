@@ -28,7 +28,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-*The Hunters - [Legolas](../../main/L/Legolas.md) and [Gimli](../../main/G/Gimli.md)* bởi [Anna Lee](../../main/A/Anna_Lee.md).
+*The Hunters - [Legolas](../../main/L/Legolas.md) and [Gimli](../../main/G/Gimli.md)* của [Anna Lee](../../main/A/Anna_Lee.md).
 
 ## Giấy phép {#Licensing}
 

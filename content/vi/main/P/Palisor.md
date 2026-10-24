@@ -15,19 +15,19 @@ categories:
   - "Regions"
 ---
 
-**Palisor** là tên được [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) sử dụng trong truyền thuyết ban đầu của ông cho khu vực giữa của [Great Lands](../G/Great_Lands.md). Tại Palisor có [Dòng nước thức tỉnh](../C/Cuiviénen.md), nơi Tiên tộc thức tỉnh.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Palisor** là tên được sử dụng bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) trong truyền thuyết đầu tiên của ông về vùng trung tâm của [Great Lands](../G/Great_Lands.md). Ở Palisor có [Dòng nước thức tỉnh](../C/Cuiviénen.md), nơi Yêu tinh thức dậy.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-[Tiên Hắc Ám](../D/Dark_Elves.md) ở lại Palisor, và trong [Câu chuyện của Gilfanon](../G/Gilfanon's_Tale.md) chưa hoàn thành, chúng ta biết rằng [Hisildi](../H/Hisildi.md) được cai trị bởi [fay](../S/Sprites.md) [Tu](../T/Tu.md), người sống trong các hang động bên dưới Vùng nước Thức tỉnh. phương Đông của Palisor là [Murmenalda](../M/Murmenalda.md) nơi [Con Người](../M/Men.md) thức dậy.
+[Yêu tinh bóng tối](../D/Dark_Elves.md) ở lại Palisor, và trong [Câu chuyện của Gilfanon](../G/Gilfanon's_Tale.md) chưa hoàn thành, chúng ta biết rằng [Hisildi](../H/Hisildi.md) được cai trị bởi [fay](../S/Sprites.md) [Tu](../T/Tu.md), người cư trú trong các hang động bên dưới Vùng nước thức tỉnh. Phía đông Palisor là [Murmenalda](../M/Murmenalda.md) nơi [Người](../M/Men.md) thức dậy.
 
 In the outlines of that story, Palisor was the site of the [Battle of Palisor](../B/Battle_of_Palisor.md), where Elves and Men fought against [Fankil](../F/Fankil.md)'s [Dwarves](../D/Dwarves.md) and/or [goblins](../G/Goblins.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Lẫn lộn về khái niệm {#Conceptual_confusion}
 
-Trong *[The History of Middle-earth Index](../T/The_History_of_Middle-earth_Index.md)*, Palisor được mô tả chính xác là khu vực nơi " Tiên tộc thức dậy", trong chỉ mục cho *[The Book of Lost Tales Part One](../T/The_Book_of_Lost_Tales_Part_One.md)* và *[The Book of Lost Tales Part Two](../T/The_Book_of_Lost_Tales_Part_Two.md)*. Tuy nhiên, trong chỉ mục cho *[The Shaping of Middle-earth](../T/The_Shaping_of_Middle-earth.md)* và *[The Lost Road and Other Writings](../T/The_Lost_Road_and_Other_Writings.md)*, Palisor được mô tả là khu vực nơi " Con Người đầu tiên thức tỉnh". Một sự nhầm lẫn có thể đã được đưa vào chỉ mục, vì không có tham chiếu trang nào chỉ ra bất kỳ cách sử dụng tên Palisor nào khác ngoài nơi sinh của Tiên tộc.
+Trong *[The History of Middle-earth Index](../T/The_History_of_Middle-earth_Index.md)*, Palisor được mô tả chính xác là khu vực nơi "Yêu tinh thức dậy", trong chỉ mục cho *[The Book of Lost Tales Part One](../T/The_Book_of_Lost_Tales_Part_One.md)* và *[The Book of Lost Tales Part Two](../T/The_Book_of_Lost_Tales_Part_Two.md)*. Tuy nhiên, trong chỉ mục dành cho *[The Shaping of Middle-earth](../T/The_Shaping_of_Middle-earth.md)* và *[The Lost Road and Other Writings](../T/The_Lost_Road_and_Other_Writings.md)*, Palisor được mô tả là khu vực nơi "Những Con Người đầu tiên thức tỉnh". Một quan niệm sai lầm có thể đã được đưa vào chỉ mục, vì không có tài liệu tham khảo trang nào chỉ ra bất kỳ cách sử dụng tên Palisor nào khác ngoài nơi sinh của Yêu tinh.
 
 ## Từ nguyên {#Etymology}
 
-Theo cách hiểu của [Christopher Tolkien](../C/Christopher_Tolkien.md) về *[Qenya Lexicon](../Q/Qenya_Lexicon.md)*, 'Palisor' có nguồn gốc từ gốc PALA, "có các từ phái sinh có ý nghĩa chung chung về 'độ phẳng', trong số đó có *palis* 'bãi cỏ, bãi cỏ', do đó không còn nghi ngờ gì nữa *Palisor*."<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Theo cách đọc của [Christopher Tolkien](../C/Christopher_Tolkien.md) về *[Qenya Lexicon](../Q/Qenya_Lexicon.md)*, 'Palisor' có nguồn gốc từ gốc PALA, "có các dẫn xuất có ý nghĩa chung chung về 'độ phẳng', trong số đó *palis* 'bãi cỏ, bãi cỏ', do đó không còn nghi ngờ gì nữa *Palisor*."<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

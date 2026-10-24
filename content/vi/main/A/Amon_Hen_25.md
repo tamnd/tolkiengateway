@@ -18,7 +18,7 @@ images:
   - "WikimediaUI-ArrowNext-ltr.svg"
 ---
 
-<b><i>Amon Hen</i> 25</b> là số thứ 25 của [Amon Hen tạp chí](<Amon_Hen_(journal).md>), được xuất bản trên [1977](../_/1977.md) bởi [Hội Tolkien](../T/The_Tolkien_Society.md).
+<b><i>Amon Hen</i> 25</b> là số thứ 25 của [tạp chí Amon Hen](<Amon_Hen_(journal).md>), được xuất bản trên [1977](../_/1977.md) bởi [Hiệp hội Tolkien](../T/The_Tolkien_Society.md).
 
 <br>
 

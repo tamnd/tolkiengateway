@@ -13,7 +13,7 @@ categories:
   - "Sindarin nouns"
 ---
 
-<i><b>vui</b></i> là từ [Sindarin](../S/Sindarin.md) có nghĩa là "gỗ".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>vui</b></i> là từ [tiếng Sindarin](../S/Sindarin.md) có nghĩa là "gỗ".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Ví dụ {#Examples}
 
@@ -21,7 +21,7 @@ categories:
 
 ## Xem thêm {#See_also}
 
-- [Sindarin](../S/Sindarin.md) *[taur](../T/Taur.md)*
+- [Tiếng Sindarin](../S/Sindarin.md) *[taur](../T/Taur.md)*
 
 <span></span>
 

@@ -13,7 +13,7 @@ categories:
   - "Screenwriters"
 ---
 
-**Robert Bryan Cogman** ([25 tháng 7](../_/25_July.md), [1979](../_/1979.md)) là nhà văn và nhà sản xuất truyền hình người Mỹ. Ông chủ yếu được biết đến với công việc là nhà văn và nhà sản xuất trong loạt phim truyền hình <i><a class="extiw" href="http://en.wikipedia.org/wiki/Game_of_Thrones" title="wikipedia:Game of Thrones">Game of Thrones</a></i>, dựa trên sách của [George R. R. Martin](../G/George_R._R._Martin.md). Anh ấy là nhà tư vấn sản xuất và đồng biên kịch cho phần đầu tiên của *[The Lord of the Rings: The Rings of Power‎](../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Robert Bryan Cogman** ([25 tháng 7](../_/25_July.md), [1979](../_/1979.md)) là nhà văn và nhà sản xuất truyền hình người Mỹ. Ông chủ yếu được biết đến với công việc là nhà văn và nhà sản xuất trong loạt phim truyền hình <i><a class="extiw" href="http://en.wikipedia.org/wiki/Game_of_Thrones" title="wikipedia:Game of Thrones">Game of Thrones</a></i>, dựa trên sách của [George R. R. Martin](../G/George_R._R._Martin.md). Ông là nhà tư vấn sản xuất và đồng biên kịch cho phần đầu tiên của *[The Lord of the Rings: The Rings of Power‎](../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

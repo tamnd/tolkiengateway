@@ -17,7 +17,7 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>The Road Goes Ever On</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="../T/The_Road_Goes_Ever_On_(disambiguation).md" title="The Road Goes Ever On (disambiguation)">The Road Goes Ever On (disambiguation)</a></b>.</div></div>
 
-<i><b>Mountain Live: The Road Goes Ever On</b></i> là một album trực tiếp của ban nhạc hard rock **Mountain**, phát hành năm 1972. Nó bao gồm hai bài hát được thu âm tại Lễ hội Woodstock ở [1969](../_/1969.md) và hai bài hát được thu âm trực tiếp tại [1972](../_/1972.md). Ngoài tựa đề được lấy từ [bài thơ cùng tên](<../T/The_Road_Goes_Ever_On_(song).md>), lời bài hát không liên quan gì đến tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
+<i><b>Mountain Live: The Road Goes Ever On</b></i> là một album trực tiếp của ban nhạc hard rock **Mountain**, phát hành năm 1972. Album bao gồm hai bài hát được thu âm tại Lễ hội Woodstock ở [1969](../_/1969.md) và hai bài hát được thu âm trực tiếp ở [1972](../_/1972.md). Ngoài tựa đề được lấy từ [bài thơ cùng tên](<../T/The_Road_Goes_Ever_On_(song).md>), lời bài hát không liên quan gì đến tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
 ## Danh sách bản nhạc {#Track_listing}
 

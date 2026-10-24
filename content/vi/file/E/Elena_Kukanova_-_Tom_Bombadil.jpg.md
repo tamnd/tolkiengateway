@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"*[Tom Bombadil](../../main/T/Tom_Bombadil.md)*", bởi [Elena Kukanova](../../main/E/Elena_Kukanova.md)
+"*[Tom Bombadil](../../main/T/Tom_Bombadil.md)*", của [Elena Kukanova](../../main/E/Elena_Kukanova.md)
 
 ## Giấy phép {#Licensing}
 

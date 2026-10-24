@@ -42,7 +42,7 @@ infobox:
 
 **Michael D.C. Drout** (sinh [3 tháng 5](../_/3_May.md) [1968](../_/1968.md)) là giáo sư tiếng Anh và Trưởng khoa Tiếng Anh tại Đại học Wheaton ở Norton, Massachusetts.
 
-Cùng với [Douglas A. Anderson](../D/Douglas_A._Anderson.md) và [Verlyn Flieger](../V/Verlyn_Flieger.md), Drout là biên tập viên sáng lập của *[Tolkien Studies: An Annual Scholarly Review](<../T/Tolkien_Studies_(journal).md>)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Ông cũng là thành viên Hội đồng Cố vấn Học thuật của [Nhà xuất bản Cây đi bộ](../W/Walking_Tree_Publishers.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Cùng với [Douglas A. Anderson](../D/Douglas_A._Anderson.md) và [Verlyn Flieger](../V/Verlyn_Flieger.md), Drout là biên tập viên sáng lập của *[Tolkien Studies: An Annual Scholarly Review](<../T/Tolkien_Studies_(journal).md>)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Ông cũng là thành viên Ban cố vấn học thuật của [Nhà xuất bản Cây đi bộ](../W/Walking_Tree_Publishers.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Thư mục {#Bibliography}
 
@@ -80,31 +80,31 @@ Cùng với [Douglas A. Anderson](../D/Douglas_A._Anderson.md) và [Verlyn Flieg
 - [2002](../_/2002.md): *The Medieval Academy of America* \[trang web\]
     - "<a class="external text" href="http://www.medievalacademy.org/medacnews/news_drout.htm" rel="noreferrer noopener" target="_blank">Sai về hầu hết mọi thứ: Đang chỉnh sửa J.R.R. Tolkien</a>" \[bài viết trên web\]
 - [2004](../_/2004.md): *[Tolkien Studies: Volume 1](../T/Tolkien_Studies%253A_Volume_1.md)*
-Phong cách văn xuôi của     - "Tolkien và các hiệu ứng văn học và tu từ của nó"
+    - "Phong cách văn xuôi của Tolkien và những hiệu ứng văn học và tu từ của nó"
 - [2006](../_/2006.md): *[The Lord of the Rings 1954-2004](../T/The_Lord_of_the_Rings_1954-2004.md)*
     - "Sự phát triển tu từ của Beowulf: Những con quái vật và những nhà phê bình"
 - [2009](../_/2009.md): [*Mallorn* 47](Mallorn_47.md)
     - "Tính lan truyền của văn hóa": Truyền thống vận hành như thế nào"
-- [2011](../_/2011.md): [*Picturing Tolkien: Essays on Peter Jackson's* The Lord of the Rings *Film Trilogy*](../P/Picturing_Tolkien.md)
-    - " Rohirrim, người Anglo-Saxon và vấn đề của Phụ lục F: Sự mơ hồ, sự tương tự và sự tham khảo trong sách của Tolkien và phim của Jackson"
+- [2011](../_/2011.md): [*Picturing Tolkien: Essays on Peter Jackson's* Chúa tể của những chiếc nhẫn *Film Trilogy*](../P/Picturing_Tolkien.md)
+    - "Người Rohirrim, người Anglo-Saxon và vấn đề của Phụ lục F: Sự mơ hồ, sự tương tự và tài liệu tham khảo trong sách của Tolkien và phim của Jackson"
 - [2013](../_/2013.md): *[J.R.R. Tolkien: the Forest and the City](../J/J.R.R._Tolkien%253A_the_Forest_and_the_City.md)*
-    - "Tháp và tàn tích: Quá khứ trong tác phẩm của J.R.R. Tolkien"
+    - "Tòa tháp và tàn tích: Quá khứ trong tác phẩm của J.R.R. Tolkien"
 - [2013](../_/2013.md): *[Tolkien's Poetry](../T/Tolkien's_Poetry.md)*
     - "Đọc thơ Tolkien" (Giới thiệu)
 - [2014](../_/2014.md): [*Tolkien Studies*: Tập 11](../T/Tolkien_Studies%253A_Volume_11.md)
-    - "Tolkien Tạo ấn tượng về chiều sâu" (với Namiko Hitotsubashi và Rachel Scavera)
+    - "Sự sáng tạo ấn tượng về chiều sâu" của Tolkien (với Namiko Hitotsubashi và Rachel Scavera)
 - [2015](../_/2015.md): [*Tolkien Studies*: Tập 12](../T/Tolkien_Studies%253A_Volume_12.md)
-    - "*[Beowulf: A Translation and Commentary](../B/Beowulf%253A_A_Translation_and_Commentary.md) cùng với Sellic Spell* bởi J.R.R. Tolkien"
+    - "*[Beowulf: A Translation and Commentary](../B/Beowulf%253A_A_Translation_and_Commentary.md) cùng với Sellic Spell* của J.R.R. Tolkien"
 
 ### Sách nói {#Audiobooks}
 
-- [2006](../_/2006.md): *Về phù thủy và Con Người: Tolkien và Cội nguồn của văn học giả tưởng hiện đại* (bài giảng)
+- [2006](../_/2006.md): *Về phù thủy và đàn ông: Tolkien và cội nguồn của văn học giả tưởng hiện đại* (bài giảng)
 
 <br>
 
 ## Giải thưởng {#Awards}
 
-- [2026](../_/2026.md): **[Giải thưởng của Hội Tolkien](../T/Tolkien_Society_Awards.md): Sách hay nhất**, *[The Tower and the Ruin](../T/The_Tower_and_the_Ruin.md)*
+- [2026](../_/2026.md): **[Giải thưởng của Hiệp hội Tolkien](../T/Tolkien_Society_Awards.md): Sách hay nhất**, *[The Tower and the Ruin](../T/The_Tower_and_the_Ruin.md)*
 
 <br>
 

@@ -11,4 +11,4 @@ redirect_target: "Trolls"
 redirect_fragment: "Portrayal in adaptations"
 ---
 
-Chuyển hướng đến [Troll](../T/Trolls.md#Portrayal_in_adaptations).
+Chuyển hướng tới [Quỷ dữ](../T/Trolls.md#Portrayal_in_adaptations).

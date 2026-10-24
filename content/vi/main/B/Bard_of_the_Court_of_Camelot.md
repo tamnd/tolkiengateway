@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Charles Williams"
 ---
 
-Chuyển hướng đến [Charles Williams](../C/Charles_Williams.md).
+Chuyển hướng tới [Charles Williams](../C/Charles_Williams.md).

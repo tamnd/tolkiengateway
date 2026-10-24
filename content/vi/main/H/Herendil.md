@@ -29,17 +29,17 @@ infobox:
 
 ## Lịch sử {#History}
 
-Herendil là một thợ lặn táo bạo và anh ấy rất tự hào về tài năng của mình. Sau một lần lặn như vậy, cha anh, [Elendil](../E/Elendil.md), nhận thấy rằng anh dường như đã trưởng thành vượt bậc và nói với Herendil rằng anh có tố chất của một người đàn ông tốt.<sup id="cite_ref-P1_1-0" class="reference"><a href="#cite_note-P1-1">[1]</a></sup>
+Herendil là một thợ lặn táo bạo và ông rất tự hào về tài năng của mình. Sau một lần lặn như vậy, cha của anh, [Elendil](../E/Elendil.md), nhận thấy rằng anh dường như đã trưởng thành vượt bậc và nói với Herendil rằng anh có tố chất của một người đàn ông tốt.<sup id="cite_ref-P1_1-0" class="reference"><a href="#cite_note-P1-1">[1]</a></sup>
 
-Về điều này, Herendil quở trách cha mình, tin rằng nhận xét này là một sự nhạo báng, cho rằng Elendil đã biết rằng ông có chiều cao thấp hơn những người khác cùng tuổi và ông bị dày vò vì điều đó. Herendil đưa ra bằng chứng rằng anh ta chỉ cao ngang vai [Almáriel](../A/Almáriel.md).<sup id="cite_ref-P1_1-1" class="reference"><a href="#cite_note-P1-1">[1]</a></sup>
+Về điều này, Herendil quở trách cha mình, tin rằng nhận xét này là một sự chế giễu, đồng thời cho rằng Elendil đã biết rằng ông có chiều cao thấp hơn những người cùng tuổi và ông bị dày vò vì điều đó. Herendil đưa ra bằng chứng rằng ông ta chỉ cao ngang vai [Almáriel](../A/Almáriel.md).<sup id="cite_ref-P1_1-1" class="reference"><a href="#cite_note-P1-1">[1]</a></sup>
 
-Herendil sau đó đã thông báo với cha mình rằng mặc dù hai người họ đều mang dòng máu của các vị vua, nhưng ngày trước những người bạn cùng lứa của anh đã gọi anh bằng những cái tên như "Terendul" và buộc tội anh là "nửaNoldo." Tuy nhiên, Herendil thừa nhận rằng ít nhất như vậy cũng tốt hơn việc “bị gọi là một nửa Gnome”.<sup id="cite_ref-P1_1-2" class="reference"><a href="#cite_note-P1-1">[1]</a></sup>
+Herendil sau đó đã thông báo với cha mình rằng mặc dù hai người họ đều mang dòng máu của các vị vua, nhưng những người đồng nghiệp của ông đã gọi ông bằng những cái tên như "Terendul" vào ngày hôm trước và buộc tội ông là "nửa Noldo". Tuy nhiên, Herendil thừa nhận rằng điều đó ít nhất cũng tốt hơn việc "bị gọi là một nửa Gnome".<sup id="cite_ref-P1_1-2" class="reference"><a href="#cite_note-P1-1">[1]</a></sup>
 
-Elendil trả lời rằng nếu Herendil là con trai ông ấy thì có thể sẽ nguy hiểm vì tên của chính cha mình, [Valandil](<../V/Valandil_(The_Lost_Road).md>), nghĩa là *"God-friend"*.<sup id="cite_ref-P1_1-3" class="reference"><a href="#cite_note-P1-1">[1]</a></sup>
+Elendil trả lời rằng nếu Herendil là con trai ông ấy thì có thể sẽ nguy hiểm vì tên của chính cha ông ấy, [Valandil](<../V/Valandil_(The_Lost_Road).md>), nghĩa là *"God-friend"*.<sup id="cite_ref-P1_1-3" class="reference"><a href="#cite_note-P1-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Herendil* là [Quenya](../Q/Quenya.md), là từ ghép của *heren* ("may mắn, quản trị") + *(-n)dil* ("bạn"). [tiếng Anh cổ](../O/Old_English.md) cùng nguồn gốc của nó là *[Eadwine](../E/Eadwine.md)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> có nghĩa là "Người bạn may mắn".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+*Herendil* là [Quenya](../Q/Quenya.md), là từ ghép của *heren* ("may mắn, quản trị") + *(-n)dil* ("bạn"). [Tiếng Anh cổ](../O/Old_English.md) cùng nguồn gốc của nó là *[Eadwine](../E/Eadwine.md)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> có nghĩa là "Người bạn may mắn".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 Tên chế giễu, *Terendul*, có nghĩa là "mảnh mai và đen tối",<sup id="cite_ref-P1_1-4" class="reference"><a href="#cite_note-P1-1">[1]</a></sup> chứa các phần tử *teren* ("mảnh mai") ​​+ *nulla* ("tối tăm, tối tăm, tối nghĩa").<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 

@@ -40,15 +40,15 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../H/Hobbits.md" title="Hobbits">Hobbit</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Berilac Brandybuck</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="Buckland.md" title="Buckland">Buckland</a></td></tr><tr><th scope="row" class="tg-infobox-label">Birth</th><td class="tg-infobox-data"><a class="mw-redirect" href="../S/Shire_Reckoning.md" title="Shire Reckoning">S.R.</a> <a href="../T/Third_Age_2980.md" title="Third Age 2980">1380</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">Family</th><td class="tg-infobox-data"><a class="mw-redirect" href="Brandybuck_Family~66350.md" title="Brandybuck Family">Brandybuck</a></td></tr><tr><th scope="row" class="tg-infobox-label">Parentage</th><td class="tg-infobox-data"><a href="../M/Merimac_Brandybuck.md" title="Merimac Brandybuck">Merimac Brandybuck</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr></tbody></table>
 
-**Berilac Brandybuck** là [Hobbit](../H/Hobbits.md) của [ Shire](../T/The_Shire.md).
+**Berilac Brandybuck** là một [Hobbit](../H/Hobbits.md) của [Shire](../T/The_Shire.md).
 
 ## Lịch sử {#History}
 
-Berilac là con trai của [Merimac Brandybuck](../M/Merimac_Brandybuck.md). Anh ấy là khách mời trong bữa tiệc chia tay của [Bilbo](Bilbo_Baggins.md) [Bữa tiệc chia tay](Bilbo's_Farewell_Party.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Berilac là con trai của [Merimac Brandybuck](../M/Merimac_Brandybuck.md). Ông là khách mời tại [Bilbo's](Bilbo_Baggins.md) [Bữa tiệc chia tay](Bilbo's_Farewell_Party.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Ý nghĩa của tên *Berilac* vẫn chưa được biết. [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) lưu ý rằng tên của Bucklanders có phong cách [Celtic](../C/Celtic.md) mơ hồ.<sup id="cite_ref-Translation_2-0" class="reference"><a href="#cite_note-Translation-2">[2]</a></sup>
+Ý nghĩa của tên *Berilac* vẫn chưa được biết. [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) lưu ý rằng tên của Bucklanders mang phong cách [Celtic](../C/Celtic.md) mơ hồ.<sup id="cite_ref-Translation_2-0" class="reference"><a href="#cite_note-Translation-2">[2]</a></sup>
 
 Một ghi chú trong [ấn bản](<../S/Sir_Gawain_and_the_Green_Knight_(edition).md>) bài thơ <a class="mw-redirect mw-disambig" href="../S/Sir_Gawain_and_the_Green_Knight.md" title="Sir Gawain and the Green Knight">Sir Gawain và Hiệp sĩ xanh</a> của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và [E.V. Gordon](../E/E.V._Gordon.md) đề cập đến cái tên *Bercilak de Hautdesert* là tên của <a class="extiw" href="http://en.wikipedia.org/wiki/Green_Knight" title="wikipedia:Green Knight">Hiệp sĩ xanh</a>. Điều này cũng đề cập rằng không rõ chữ cái thứ tư trong tên của nhân vật này nên được đọc là "c" hay "t". Cái tên tương tự *Bertilak* đã được J.R.R. Tolkien sử dụng làm tên của Hiệp sĩ xanh trong [bản dịch](../S/Sir_Gawain_and_the_Green_Knight,_Pearl,_and_Sir_Orfeo.md) của bài thơ *Sir Gawain and the Green Knight*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 

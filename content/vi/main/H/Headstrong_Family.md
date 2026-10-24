@@ -22,7 +22,7 @@ langlinks:
     url: "https://kontu.wiki/Voimap%C3%A4%C3%A4"
 ---
 
-Gia đình **Headstrong** là một gia đình [Hobbit](Hobbits.md), có lẽ khá giả,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> mặc dù họ không có tên trong danh sách các gia đình Hobbit giàu có hơn của Tolkien.<sup id="cite_ref-L|25_2-0" class="reference"><a href="#cite_note-L|25-2">[2]</a></sup> Thành viên duy nhất được biết đến trong gia đình, [Malva Headstrong](../M/Malva_Headstrong.md), kết hôn với [Gormadoc Brandybuck](../G/Gormadoc_Brandybuck.md), một [Chủ nhân đáng chú ý của Buckland](../M/Master_of_Buckland.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Gia đình **Headstrong** là một gia đình [Hobbit](Hobbits.md), có lẽ là khá giả,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> mặc dù họ không có tên trong danh sách các gia đình Hobbit giàu có hơn của Tolkien.<sup id="cite_ref-L|25_2-0" class="reference"><a href="#cite_note-L|25-2">[2]</a></sup> Thành viên duy nhất được biết đến của gia đình, [Malva Headstrong](../M/Malva_Headstrong.md), kết hôn với [Gormadoc Brandybuck](../G/Gormadoc_Brandybuck.md), một [Bậc thầy nổi tiếng của Buckland](../M/Master_of_Buckland.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

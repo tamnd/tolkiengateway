@@ -112,8 +112,8 @@ infobox:
 Ban nhạc cũng đã phát hành các bản demo/EP sau:
 
 - [Rừng Nightshade](<../N/Nightshade_Forests_(album).md>)([1997](../_/1997.md))
-- [Lost Tales](<../L/Lost_Tales_(album).md>) ([2003](../_/2003.md))
-- Tối Kỷ nguyên Tôi
+- [Những câu chuyện bị thất lạc](<../L/Lost_Tales_(album).md>) ([2003](../_/2003.md))
+- Thời kỳ đen tối thứ nhất
 - Trên con ngựa giống Viking
 - Văn bản Urilia
 - Anno Mortiri Domini 1959
@@ -130,7 +130,7 @@ Ban nhạc cũng đã phát hành các bản demo/EP sau:
 
 ## Đặc điểm âm nhạc {#Musical_Characteristics}
 
-Triệu hồi được biết đến với phong cách kim loại đen trong khí quyển liên quan đến phong cách sử thi Tolkien, với điểm nhấn là bàn phím. Âm thanh thương hiệu của họ được đặc trưng bởi:
+Triệu hồi được biết đến với phong cách kim loại đen trong khí quyển liên quan đến phong cách sử thi của Tolkien, với điểm nhấn là bàn phím. Âm thanh thương hiệu của họ được đặc trưng bởi:
 
 - Những cây đàn guitar rất tối giản thường có âm lượng thấp trong bản phối
 - Tiếng trống được lập trình và có âm vang lớn mang lại cảm giác nhịp điệu rất sâu lắng

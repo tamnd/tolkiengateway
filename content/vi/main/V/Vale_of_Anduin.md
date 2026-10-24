@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Vales of Anduin"
 ---
 
-Chuyển hướng đến [Thung lũng Anduin](Vales_of_Anduin.md).
+Chuyển hướng tới [Vales Anduin](Vales_of_Anduin.md).

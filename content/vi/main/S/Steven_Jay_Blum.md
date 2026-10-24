@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Blum, Steven Jay"
 ---
 
-**Steven Jay Blum** ([28 tháng 4](../_/28_April.md), [1965](../_/1965.md)) là một diễn viên lồng tiếng người Mỹ. Những vai diễn được công nhận nhiều nhất của anh là <a class="extiw" href="http://en.wikipedia.org/wiki/Wolverine_(comics)" title="wikipedia:Wolverine (comics)">Wolverine</a>và <a class="extiw" href="http://en.wikipedia.org/wiki/Spike_Spiegel" title="wikipedia:Spike Spiegel">Spike Spiegel</a> trong <i><a class="extiw" href="http://en.wikipedia.org/wiki/Cowboy_Bebop" title="wikipedia:Cowboy Bebop">Cowboy Bebop</a></i>. Anh ấy hiện đã kết hôn với [Mary Elizabeth McGlynn](../M/Mary_Elizabeth_McGlynn.md), cũng là một nữ diễn viên lồng tiếng.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Steven Jay Blum** ([28 tháng 4](../_/28_April.md), [1965](../_/1965.md)) là một diễn viên lồng tiếng người Mỹ. Những vai diễn được công nhận nhiều nhất của anh là <a class="extiw" href="http://en.wikipedia.org/wiki/Wolverine_(comics)" title="wikipedia:Wolverine (comics)">Wolverine</a>và <a class="extiw" href="http://en.wikipedia.org/wiki/Spike_Spiegel" title="wikipedia:Spike Spiegel">Spike Spiegel</a> trong <i><a class="extiw" href="http://en.wikipedia.org/wiki/Cowboy_Bebop" title="wikipedia:Cowboy Bebop">Cowboy Bebop</a></i>. Ông hiện đã kết hôn với [Mary Elizabeth McGlynn](../M/Mary_Elizabeth_McGlynn.md), cũng là một nữ diễn viên lồng tiếng.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Vai trò {#Roles}
 
@@ -26,7 +26,7 @@ sort_keys:
 - [2011](../_/2011.md): *[The Lord of the Rings: War in the North](../T/The_Lord_of_the_Rings%253A_War_in_the_North.md)*: Không xác định
 - [2010](../_/2010.md): *[The Lord of the Rings: Aragorn's Quest](../T/The_Lord_of_the_Rings%253A_Aragorn's_Quest.md)*: Không xác định
 - [2006](../_/2006.md): *[The Lord of the Rings: The Battle for Middle-earth II](../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md)*: Không xác định
-- [2003](../_/2003.md): *[The Lord of the Rings: War of the Ring](../T/The_Lord_of_the_Rings%253A_War_of_the_Ring.md)*: [Varin](../V/Varin.md), Gondor Kiếm sĩ, Người lùn Người phá khiên
+- [2003](../_/2003.md): *[The Lord of the Rings: War of the Ring](../T/The_Lord_of_the_Rings%253A_War_of_the_Ring.md)*: [Varin](../V/Varin.md), Kiếm sĩ Gondor, Người phá khiên người lùn
 
 <span></span>
 

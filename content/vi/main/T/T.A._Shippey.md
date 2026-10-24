@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tom Shippey"
 ---
 
-Chuyển hướng đến [Tom Shippey](Tom_Shippey.md).
+Chuyển hướng tới [Tom Shippey](Tom_Shippey.md).

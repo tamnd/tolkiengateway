@@ -47,38 +47,38 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Ways_of_Creative_Mythologies.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/a/ac/The_Ways_of_Creative_Mythologies.jpg/320px-The_Ways_of_Creative_Mythologies.jpg" decoding="async" loading="lazy" width="320" height="475" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/a/ac/The_Ways_of_Creative_Mythologies.jpg 1.5x" data-file-width="337" data-file-height="500"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Ways of Creative Mythologies</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Maria Kuteeva</td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data">William Blake</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">April <a href="../_/2000.md" title="2000">2000</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Two paperback booklets</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">140</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0-905520-14-9" title="Special:BookSources/0-905520-14-9">0-905520-14-9</a></td></tr><tr><th scope="row" class="tg-infobox-label">Series</th><td class="tg-infobox-data"><a href="../P/Peter_Roe_Memorial_Fund.md" title="Peter Roe Memorial Fund">Peter Roe Memorial Fund</a></td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data">The Ways of Creative Mythologies</td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Tolkien%253A_A_Mythology_for_England%253F.md" title="Tolkien: A Mythology for England?">Tolkien: A Mythology for England?</a></td></tr></tbody></table>
 
-<i><b>Cách thức của Thần thoại sáng tạo: Thế giới tưởng tượng và những người tạo ra chúng</b></i> là tuyển tập kỷ yếu của Hội thảo Xã hội Tolkien lần thứ 12 được tổ chức tại Đại học Manchester vào năm 1997. Cuốn sách (được chia thành hai tập sách nhỏ nhưng kết hợp với cùng một ISBN) được xuất bản bởi [Hội Tolkien](The_Tolkien_Society.md) trong [2000](../_/2000.md) dưới sự bảo trợ của [Đài tưởng niệm Peter Roe Quỹ](../P/Peter_Roe_Memorial_Fund.md).
+<i><b>Cách thức của thần thoại sáng tạo: Thế giới tưởng tượng và những người tạo ra chúng</b></i> là tuyển tập các kỷ yếu của Hội thảo Hiệp hội Tolkien lần thứ 12 được tổ chức tại Đại học Manchester vào năm 1997. Cuốn sách (được chia thành hai tập sách nhỏ nhưng kết hợp với cùng một ISBN) được xuất bản bởi [Hiệp hội Tolkien](The_Tolkien_Society.md) vào [2000](../_/2000.md) dưới sự bảo trợ của [Peter Quỹ tưởng niệm Roe](../P/Peter_Roe_Memorial_Fund.md).
 
 ## Tập I {#Volume_I}
 
 **Huyền thoại, chủ nghĩa dân tộc và hệ tư tưởng**
 
 - "Grimm, Grundtvig và Tolkien: Chủ nghĩa dân tộc và sự phát minh ra thần thoại" của [Tom Shippey](Tom_Shippey.md)
-- "Thần thoại và chủ nghĩa dân tộc Ireland: Lời khẳng định về quá khứ" của Georg Grote
-- "Thần thoại và lịch sử tiến bộ Con Người" của [David Doughan](../D/David_Doughan.md)
-- "Arthur Vua của Blake: Niềm hy vọng của nhân loại về đại diện của Satan" của Jodi Quinn
+- "Thần thoại và chủ nghĩa dân tộc Ireland: Tuyên bố về quá khứ" của Georg Grote
+- "Thần thoại và lịch sử tiến bộ" của [David Doughan](../D/David_Doughan.md)
+- "Vua Arthur của Blake: Niềm hy vọng của nhân loại về đại diện của Satan" của Jodi Quinn
 
 **Huyền thoại, hiện đại và hậu hiện đại**
 
 - "Từ ngữ và Lời nói: Logic học của Kenneth Burke và Thần thoại của T.S. Eliot" của Lawrence Coupe
-- "Tiếp cận huyền thoại trong Trung Địa" của Patrick Curry
+- "Tiếp cận huyền thoại ở Trung Địa" của Patrick Curry
 - "Sức mạnh và bản chất của con người trong các tác phẩm của Tolkien, Orwell và Huxley" của John Flood
-- "Thần thoại với tư cách là Tầm nhìn Thế giới hoặc Phiên bản Thế giới trong *Wolf Solent*" của John Cowper Powys" của Joe Boulter
+- "Thần thoại với tư cách là Tầm nhìn Thế giới hoặc Phiên bản Thế giới trong *Wolf Solent* của John Cowper Powys" của Joe Boulter
 
 ## Tập II {#Volume_II}
 
 **Trí tưởng tượng thần thoại**
 
-- "J.R.R. Tolkien's Trung Địa: Thành phần đối thoại của việc tạo ra huyền thoại hiện đại" của Christopher Garbowski
+Trung địa của - "J.R.R. Tolkien: Thành phần đối thoại của việc tạo ra huyền thoại hiện đại" của Christopher Garbowski
 - "Huyền thoại, ẩn dụ và siêu hình học trong W.B. Yeats" của Maria Leontiner
-- " Valar và Byzantium: Tầm nhìn về sự huy hoàng của hệ thống phân cấp trong Charles Williams và J.R.R. Tolkien" của Robert DiNapoli
-- "Những phản hồi quan trọng ban đầu đối với *Phantastes*của George MacDonald" của John Docherty
+- "The Valar và Byzantium: Tầm nhìn về sự huy hoàng của hệ thống phân cấp ở Charles Williams và J.R.R. Tolkien" của Robert DiNapoli
+- "Những phản hồi phê bình ban đầu đối với *Phantastes* của George MacDonald" của John Docherty
 
 **Huyền thoại trong văn hóa đương đại**
 
-- "Huyền thoại và chính trị trong bài thơ 'Những sự kiện'" của George Oppen" của Lynn Forest-Hill
+- "Huyền thoại và Chính trị trong bài thơ 'Những sự kiện'" của George Oppen" của Lynn Forest-Hill
 - "Fenestering Godward: Từ Dei ex Machinis đến Deus ex DNA" của Denis Bridoux
-- "Vẽ nên Sói: Huyền thoại cổ điển và kịch đương đại" của Steve Nicholson
+- "Vẽ tranh bầy sói: Thần thoại cổ điển và kịch đương đại" của Steve Nicholson
 
 <br clear="all"/>
 

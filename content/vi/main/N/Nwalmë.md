@@ -16,24 +16,24 @@ images:
   - "Nwalme.gif"
 ---
 
-<i><b>nwalme</b></i> (phát âm trước đó là <i><b>ngwalme</b></i> hoặc <i><b>ŋwalme</b></i><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup>) là một [Quenya](../Q/Quenya.md) danh từ có nghĩa là "sự dày vò".<sup id="cite_ref-Names_2-0" class="reference"><a href="#cite_note-Names-2">[1]</a></sup>
+<i><b>nwalme</b></i> (phát âm trước đó là <i><b>ngwalme</b></i> hoặc <i><b>ŋwalme</b></i><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup>) là một danh từ [Quenya](../Q/Quenya.md) có nghĩa là "sự dày vò".<sup id="cite_ref-Names_2-0" class="reference"><a href="#cite_note-Names-2">[1]</a></sup>
 
 <figure class="mw-default-size mw-halign-left" typeof="mw:File"><a class="mw-file-description" href="../../file/N/Nwalme.gif.md"><img src="https://tolkiengateway.net/w/images/7/75/Nwalme.gif" decoding="async" loading="lazy" width="53" height="65" class="mw-file-element" data-file-width="53" data-file-height="65"/></a><figcaption></figcaption></figure>
 
-*Nwalme* cũng là tên trong Quenya của chữ cái thứ 20 của bảng chữ cái [Tengwar](../T/Tengwar.md).<sup id="cite_ref-Names_2-1" class="reference"><a href="#cite_note-Names-2">[1]</a></sup> Nó là chữ cái thứ tư của lớp năm hay [Tyellë](../T/Tyellë.md), chứa các phụ âm "mũi" và là chữ cái thứ năm trong dãy phụ âm thứ tư. Đối với Quenya hoặc [Sindarin](../S/Sindarin.md) được viết, sê-ri thứ tư được sử dụng cho sê-ri labialized hoặc *kw*, *[Quessetéma](../Q/Quessetéma.md)* và *Nwalme* đại diện cho **NGW** hoặc **ŊW**. Trong [Westron](../W/Westron.md) sê-ri thứ tư được sử dụng cho sê-ri *k*, *[Calmatéma](../C/Calmatéma.md)* và chữ cái này đại diện cho **NG** hoặc **Ŋ**.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup> Tên Westron cho chữ cái này là <i><b>Ngá</b></i>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup>
+*Nwalme* cũng là tên bằng tiếng Quenya của chữ cái thứ 20 trong bảng chữ cái [Tengwar](../T/Tengwar.md).<sup id="cite_ref-Names_2-1" class="reference"><a href="#cite_note-Names-2">[1]</a></sup> Đây là chữ cái thứ tư của lớp năm hay [Tyellë](../T/Tyellë.md), chứa các phụ âm "mũi" và là chữ cái thứ năm trong chuỗi phụ âm thứ tư. Đối với chữ viết Quenya hoặc [Sindarin](../S/Sindarin.md), sê-ri thứ tư được sử dụng cho sê-ri labialized hoặc *kw*, *[Quessetéma](../Q/Quessetéma.md)* và *Nwalme* đại diện cho **NGW** hoặc **ŊW**. Ở [Westron](../W/Westron.md) dãy thứ tư được sử dụng cho dãy *k*, *[Calmatéma](../C/Calmatéma.md)* và chữ cái này đại diện cho **NG** hoặc **Ŋ**.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup> Tên Westron cho chữ cái này là <i><b>Ngá</b></i>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Từ này bắt nguồn từ [Primitive Quendian](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=%C3%91GWAL&amp;action=edit&amp;redlink=1" title="ÑGWAL (page does not exist)">ÑGWAL</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup>
+Từ này bắt nguồn từ [Quendian nguyên thủy](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=%C3%91GWAL&amp;action=edit&amp;redlink=1" title="ÑGWAL (page does not exist)">ÑGWAL</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup>
 
 ## Xem thêm {#See_also}
 
-- <a class="external text" href="http://www.uib.no/People/hnohf/qlist.htm" rel="noreferrer noopener" target="_blank">Quenya Danh sách từ ngữ liệu</a> được chỉnh sửa bởi [Helge Fauskanger](../H/Helge_Fauskanger.md)
+- <a class="external text" href="http://www.uib.no/People/hnohf/qlist.htm" rel="noreferrer noopener" target="_blank">Danh sách từ Quenya Corpus</a> được chỉnh sửa bởi [Helge Fauskanger](../H/Helge_Fauskanger.md)
 
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../H/Helge_Fauskanger.md" title="Helge Fauskanger">Helge Fauskanger</a> đã gợi ý rằng các dạng <i>nwalmë</i>/<i>ngwalmë</i> (giữ nguyên ý nghĩa) có thể hợp lệ <a href="Neo-Elvish.md" title="Neo-Elvish">Neo-Quenya</a>; xem <a class="external text" href="http://folk.uib.no/hnohf/wordlists.htm" rel="noreferrer noopener" target="_blank">Quettaparma Quenyallo (Quenya Danh sách từ</a> (truy cập ngày 29 tháng 11 năm 2010).</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../H/Helge_Fauskanger.md" title="Helge Fauskanger">Helge Fauskanger</a> đã gợi ý rằng các dạng <i>nwalmë</i>/<i>ngwalmë</i> (giữ nguyên ý nghĩa) có thể hợp lệ <a href="Neo-Elvish.md" title="Neo-Elvish">Neo-Quenya</a>; xem <a class="external text" href="http://folk.uib.no/hnohf/wordlists.htm" rel="noreferrer noopener" target="_blank">Quettaparma Quenyallo (Danh sách từ Quenya</a> (truy cập ngày 29 tháng 11 năm 2010).</span>
 </li>
 </ol></div></span>
 

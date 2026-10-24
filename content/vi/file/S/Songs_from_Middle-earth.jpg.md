@@ -25,7 +25,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Hãy cover *J.R.R. Tolkien's Songs from Middle-earth* của ban nhạc Hà Lan [The Hobbitons](../../main/T/The_Hobbitons.md).
+Cover *J.R.R. Tolkien's Songs from Middle-earth* của ban nhạc Hà Lan [The Hobbitons](../../main/T/The_Hobbitons.md).
 
 ## Giấy phép {#Licensing}
 

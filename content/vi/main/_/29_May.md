@@ -72,7 +72,7 @@ Sự kiện xảy ra vào ngày 29 tháng 5.
 - **[1973](1973.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 351](../L/Letter_351.md).
 - **[1980](1980.md)** - *[Poems and Stories](../P/Poems_and_Stories.md)* được xuất bản.
 - **[1980](1980.md)** - Diễn viên [Adam Brown](../A/Adam_Brown.md) ra đời.
-- **[1981](1981.md)** - *[The Atlas of Middle-earth](../T/The_Atlas_of_Middle-earth.md)* bởi [Karen Wynn Fonstad](../K/Karen_Wynn_Fonstad.md) được xuất bản
+- **[1981](1981.md)** - *[The Atlas of Middle-earth](../T/The_Atlas_of_Middle-earth.md)* của [Karen Wynn Fonstad](../K/Karen_Wynn_Fonstad.md) được xuất bản
 - **[2002](2002.md)** – [Danh sách gửi thư Lambengolmor](<../L/Lambengolmor_(mailing_list).md>) được đưa lên mạng.
 - **[2009](2009.md)** - Trailer đầu tiên của *[The Lord of the Rings: Aragorn's Quest](../T/The_Lord_of_the_Rings%253A_Aragorn's_Quest.md)* đã ra mắt.
 

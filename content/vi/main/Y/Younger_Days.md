@@ -83,7 +83,7 @@ categories:
 <p class="tg-quote-footer"><cite><a href="../S/Saruman.md" title="Saruman">Saruman</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Thời trẻ** là những thời kỳ nối tiếp [Trung kỳ](../M/Middle_Days.md) ở [Trung Địa](../M/Middle-earth.md). Thuật ngữ này được áp dụng cho các năm [Kỷ Đệ Tứ](../F/Fourth_Age.md) (và [sau đó](../L/Later_Ages.md)) tiếp theo sau [Sự sụp đổ của Barad-dûr](../D/Downfall_of_Barad-dûr.md). Đó là thời điểm mà [Sự thống trị của Con Người](../D/Dominion_of_Men.md) cuối cùng đã phát huy tối đa.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Thời trẻ** là những thời kỳ nối tiếp [Thời Trung cổ](../M/Middle_Days.md) ở [Trung địa](../M/Middle-earth.md). Thuật ngữ này được áp dụng cho những năm ở [Kỷ nguyên thứ tư](../F/Fourth_Age.md) (và [sau đó](../L/Later_Ages.md)) sau [Sự sụp đổ của Barad-dûr](../D/Downfall_of_Barad-dûr.md). Đó là thời điểm mà [Sự thống trị của con người](../D/Dominion_of_Men.md) cuối cùng đã phát huy tối đa.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

@@ -48,7 +48,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_Author_of_the_Century_2000_UK.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/51/J.R.R._Tolkien_Author_of_the_Century_2000_UK.jpg/316px-J.R.R._Tolkien_Author_of_the_Century_2000_UK.jpg" decoding="async" loading="lazy" width="316" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/51/J.R.R._Tolkien_Author_of_the_Century_2000_UK.jpg/474px-J.R.R._Tolkien_Author_of_the_Century_2000_UK.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/5/51/J.R.R._Tolkien_Author_of_the_Century_2000_UK.jpg/633px-J.R.R._Tolkien_Author_of_the_Century_2000_UK.jpg 2x" data-file-width="731" data-file-height="1109"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>J.R.R. Tolkien: Author of the Century</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a href="../T/Tom_Shippey.md" title="Tom Shippey">Tom Shippey</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../H/HarperCollins.md" title="HarperCollins">HarperCollins</a> (UK)<br/><a class="mw-redirect" href="../H/Houghton_Mifflin.md" title="Houghton Mifflin">Houghton Mifflin</a> (US)</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">September <a href="../_/2000.md" title="2000">2000</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Hardcover; paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">384</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0261104004" title="Special:BookSources/0261104004">0261104004</a></td></tr></tbody></table>
 
-<i><b>J.R.R. Tolkien: Tác Giả Của Thế Kỷ</b></i> là một công trình nghiên cứu học thuật về [J.R.R. Tolkien](J.R.R._Tolkien.md) và tác phẩm của Giáo sư [Tom Shippey](../T/Tom_Shippey.md).
+<i><b>J.R.R. Tolkien: Tác giả của Thế kỷ</b></i> là một nghiên cứu học thuật về [J.R.R. Tolkien](J.R.R._Tolkien.md) và tác phẩm của Giáo sư [Tom Shippey](../T/Tom_Shippey.md).
 
 Nội dung cuốn sách phần lớn tương tự như *[The Road to Middle-earth](../T/The_Road_to_Middle-earth.md)*. Đúng như lời Giáo sư, hai cuốn sách
 
@@ -91,7 +91,7 @@ Nội dung cuốn sách phần lớn tương tự như *[The Road to Middle-eart
 		</li>
 </ul>
 
-- [HarperCollins](../H/HarperCollins.md) bìa cứng ([2000](../_/2000.md)), trang 384. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0261104004">ISBN 0261104004</a>
+- [HarperCollins](../H/HarperCollins.md) bìa cứng ([2000](../_/2000.md)), trang 384. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0261104004">ISBN 0261104004</a>
 - [HarperCollins](../H/HarperCollins.md) bìa mềm ([2001](../_/2001.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0261104012">ISBN 0261104012</a>
     - Ấn bản bìa mềm năm 2001, thiết lập lại vào [2022](../_/2022.md)
     - Ấn bản bìa mềm năm 2022, lần in thứ 4 ([2026](../_/2026.md))

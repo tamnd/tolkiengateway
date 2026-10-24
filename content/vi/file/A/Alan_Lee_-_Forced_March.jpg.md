@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Alan Lee - The Black Gate is Closed.jpg"
 ---
 
-Chuyển hướng tới [Tệp:Alan Lee - Cổng Đen là Closed.jpg](Alan_Lee_-_The_Black_Gate_is_Closed.jpg.md).
+Chuyển hướng đến [Tệp:Alan Lee - Cổng Đen là Closed.jpg](Alan_Lee_-_The_Black_Gate_is_Closed.jpg.md).

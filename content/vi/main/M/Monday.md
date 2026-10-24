@@ -27,13 +27,13 @@ categories:
 <li><a href="../H/Highday.md" title="Highday">Highday</a></li></ol>
 </td></tr></tbody></table>
 
-**Thứ Hai** (dạng cổ xưa *Monendei*) là ngày thứ ba trong tuần ở [Lịch Shire](../S/Shire_Calendar.md). Nó được dành riêng cho ngày [Mặt Trăng](Moon.md), tượng trưng cho ngày [Númenórean](../N/Númenórean.md) *[Orithil](../O/Orithil.md)*.<sup id="cite_ref-cal_1-0" class="reference"><a href="#cite_note-cal-1">[1]</a></sup>
+**Thứ Hai** (dạng cổ xưa *Monendei*) là ngày thứ ba trong tuần trong [Lịch Quận](../S/Shire_Calendar.md). Nó được dành riêng cho [Mặt trăng](Moon.md), đại diện cho ngày [Númenórean](../N/Númenórean.md) *[Orithil](../O/Orithil.md)*.<sup id="cite_ref-cal_1-0" class="reference"><a href="#cite_note-cal-1">[1]</a></sup>
 
 Sau cuộc cải cách [Isengrim Took II](../I/Isengrim_Took_II.md),<sup id="cite_ref-cal_1-1" class="reference"><a href="#cite_note-cal-1">[1]</a></sup> [1 tháng 5](../_/1_May.md) và [1 tháng 11](../_/1_November.md) luôn rơi vào ngày này.
 
 ## Từ nguyên {#Etymology}
 
-*Monday* đại diện cho dạng [Hobbitish](../H/Hobbitish.md) cổ xưa "Monendei", một từ được lưu giữ trong [Yellowskin](../Y/Yellowskin.md). Nó được dành riêng cho [Mặt Trăng](Moon.md).<sup id="cite_ref-cal_1-2" class="reference"><a href="#cite_note-cal-1">[1]</a></sup>
+*Monday* đại diện cho một dạng [Hobbitish](../H/Hobbitish.md) cổ xưa "Monendei", một từ được lưu giữ trong [Yellowskin](../Y/Yellowskin.md). Nó được dành riêng cho [Mặt trăng](Moon.md).<sup id="cite_ref-cal_1-2" class="reference"><a href="#cite_note-cal-1">[1]</a></sup>
 
 *Monday* được dịch là "Thứ Hai" trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.<sup id="cite_ref-cal_1-3" class="reference"><a href="#cite_note-cal-1">[1]</a></sup>
 

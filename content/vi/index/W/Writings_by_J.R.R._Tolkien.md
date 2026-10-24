@@ -68,12 +68,12 @@ langlinks:
 - ?[1922](../../main/_/1922.md): *[Fifty New Poems for Children](../../main/F/Fifty_New_Poems_for_Children.md)*. Bao gồm **[Bàn chân yêu tinh](../../main/G/Goblin_Feet.md)**.
 - [1922](../../main/_/1922.md): *[The Gryphon, Vol.4 No.3](../../main/T/The_Gryphon,_Vol.4_No.3.md)*. Bao gồm **[Bản tổng hợp của Thư ký](../../main/T/The_Clerkes_Compleinte.md)**.
 
-- [1923](../../main/_/1923.md): *[A Northern Venture](../../main/A/A_Northern_Venture.md)*. Bao gồm các bài thơ **[Tha Eadigan Saelidan](../../main/T/Tha_Eadigan_Saelidan%253A_The_Happy_Mariners.md)**, **[Tại sao Người đàn ông trong Mặt Trăng Came Down Too Soon](../../main/T/The_Man_in_the_Moon_Came_Down_Too_Soon.md)** và **[Enigmata Saxonica Nuper Inventa Duo](../../main/E/Enigmata_Saxonica_Nuper_Inventa_Duo.md)**.
+- [1923](../../main/_/1923.md): *[A Northern Venture](../../main/A/A_Northern_Venture.md)*. Bao gồm các bài thơ **[Tha Eadigan Saelidan](../../main/T/Tha_Eadigan_Saelidan%253A_The_Happy_Mariners.md)**, **[Tại sao người đàn ông trong Mặt Trăng đến quá sớm](../../main/T/The_Man_in_the_Moon_Came_Down_Too_Soon.md)** và **[Enigmata Saxonica Nuper Inventa Duo](../../main/E/Enigmata_Saxonica_Nuper_Inventa_Duo.md)**.
 - [1923](../../main/_/1923.md): *[Bulletin of the Modern Humanities Research Association, number 20](../../main/B/Bulletin_of_the_Modern_Humanities_Research_Association_20.md)*.Bao gồm cáo phó cho [Henry Bradley](../../main/H/Henry_Bradley.md).
 - [1923](../../main/_/1923.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Gryphon,_n.s.4,_no.4&amp;action=edit&amp;redlink=1" title="The Gryphon, n.s.4, no.4 (page does not exist)">Gryphon, n.s.4, số 4</a></i>. Bao gồm **[Iúmonna Gold Galdre Bewunden](../../main/I/Iúmonna_Gold_Galdre_Bewunden.md)**.
 - [1923](../../main/_/1923.md): *[The Microcosm, Vol.8 No.1](../../main/T/The_Microcosm,_Vol.8_No.1.md)*. Bao gồm **[Thành phố của các vị thần](../../main/T/The_City_of_the_Gods.md)**.
 - [1923](../../main/_/1923.md): *[Times Literary Supplement](../../main/T/Times_Literary_Supplement.md)*. Luân Đôn, ngày 26 tháng 4 năm 1923. Chứa đựng **[Thánh nữ](../../main/H/Holy_Maidenhood.md)**.
-- [1923](../../main/_/1923.md): *[Yorkshire Poetry](../../main/Y/Yorkshire_Poetry.md)*. Bao gồm **[Con mèo và cây vĩ cầm: Một bài đồng dao chưa được hoàn tác và bí mật đầy tai tiếng của nó đã được mở khóa](../../main/T/The_Man_in_the_Moon_Stayed_Up_Too_Late.md)**.
+- [1923](../../main/_/1923.md): *[Yorkshire Poetry](../../main/Y/Yorkshire_Poetry.md)*. Bao gồm **[The cat and the fiddle: A nursery-rhyme undone and its scandalous secret unlocked](../../main/T/The_Man_in_the_Moon_Stayed_Up_Too_Late.md)**.
 
 - [1924](../../main/_/1924.md): *[Leeds University Verse 1914-24](../../main/L/Leeds_University_Verse_1914-24.md)*. Bao gồm các bài thơ **[Một buổi tối ở Tavrobel](../../main/A/An_Evening_in_Tavrobel.md)**, **[Đảo cô đơn](../../main/T/The_Lonely_Isle.md)** và **[Công chúa Ní](../../main/T/The_Princess_Ní.md)**.
 - [1924](../../main/_/1924.md): *[The Year's Work in English Studies 1923](../../main/T/The_Year's_Work_in_English_Studies_1923.md)*. Ed. Lee & Boas. Hiệp hội tiếng Anh. Oxford Nhà xuất bản Đại học. Ôn tập - Ngữ văn.
@@ -109,16 +109,16 @@ langlinks:
 - [1932](../../main/_/1932.md): *[Report on the Excavation of the Prehistoric, Roman, and Post-Roman Site in Lydney Park, Gloucestershire](../../main/R/Report_on_the_Excavation_of_the_Prehistoric,_Roman,_and_Post-Roman_Site_in_Lydney_Park,_Gloucestershire.md)*. Bao gồm **[Tên 'Nodens'](../../main/T/The_Name_'Nodens'.md)**.
 - [1932](../../main/_/1932.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Sigelwara_land_%E2%80%94_I&amp;action=edit&amp;redlink=1" title="Sigelwara land — I (page does not exist)">Đất Sigelwara — tôi</a></i>
 
-- [1933](../../main/_/1933.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Oxford_Magazine&amp;action=edit&amp;redlink=1" title="Oxford Magazine (page does not exist)">Oxford Tạp chí</a></i>. 52, số 5. Chứa bài thơ **[Errantry](../../main/E/Errantry.md)**, tr.180.
+- [1933](../../main/_/1933.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Oxford_Magazine&amp;action=edit&amp;redlink=1" title="Oxford Magazine (page does not exist)">Oxford Tạp chí</a></i>. 52, số 5. Trong đó có bài thơ **[Lỗi lầm](../../main/E/Errantry.md)**, tr.180.
 
 - [1934](../../main/_/1934.md): [*Biên niên sử các Tu viện Thánh Tâm*, Tập IV](<../../main/T/The_Chronicle_of_the_Convents_of_the_Sacred_Heart_(Volume_IV).md>). Bao gồm bài thơ **[Firiel](<../../main/F/Firiel_(poem).md>)**.
 - [1934](../../main/_/1934.md): <a class="new" href="https://tolkiengateway.net/w/index.php?title=Medium_%C3%86vum_(Vol._3,_No._2)&amp;action=edit&amp;redlink=1" title="Medium Ævum (Vol. 3, No. 2) (page does not exist)"><i>Ævum trung bình</i> (Tập 3, số 2)</a>. Bao gồm **[Đất Sigelwara (Phần 2)](../../main/S/Sigelwara_Land.md)**.
 - [1934](../../main/_/1934.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Oxford_Magazine&amp;action=edit&amp;redlink=1" title="Oxford Magazine (page does not exist)">Oxford Tạp chí</a></i>. 52, số 9. Chứa bài thơ **[Looney](../../main/L/Looney.md)**, tr.340.
 - [1934](../../main/_/1934.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Oxford_Magazine&amp;action=edit&amp;redlink=1" title="Oxford Magazine (page does not exist)">Oxford Tạp chí</a></i>. 52, số 13. Gồm bài thơ **[The Adventures of Tom Bombadil](<../../main/T/The_Adventures_of_Tom_Bombadil_(poem).md>)**, tr.464-465.
 - [1934](../../main/_/1934.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Sigelwara_land_%E2%80%94_II&amp;action=edit&amp;redlink=1" title="Sigelwara land — II (page does not exist)">Đất Sigelwara — II</a></i>
-- [1934](../../main/_/1934.md): *[Transactions of the Philological Society 1934](../../main/T/Transactions_of_the_Philological_Society_1934.md)*. David Nutt. Stephen Austin và các con trai. Gồm bài tiểu luận **[Chaucer với tư cách là nhà ngữ văn: Câu chuyện của Reeve](../../main/C/Chaucer_as_a_Philologist%253A_The_Reeve's_Tale.md)**, tr.70.
+- [1934](../../main/_/1934.md): *[Transactions of the Philological Society 1934](../../main/T/Transactions_of_the_Philological_Society_1934.md)*. David Nutt. Stephen Austin và các con trai. Gồm bài luận **[Chaucer as a Philologist: The Reeve's Tale](../../main/C/Chaucer_as_a_Philologist%253A_The_Reeve's_Tale.md)**, tr.70.
 
-- [1936](../../main/_/1936.md): [*Annual*của Trường Đức Mẹ](<../../main/A/Annual_of_Our_Lady's_School_(1936).md>). Bao gồm các bài thơ **[Người đàn ông Bóng Tối](../../main/S/Shadow-Bride.md)** và **[Noel](../../main/N/Noel.md)**.
+- [1936](../../main/_/1936.md): [*Annual* của Trường Đức Mẹ](<../../main/A/Annual_of_Our_Lady's_School_(1936).md>). Bao gồm các bài thơ **[Người đàn ông Bóng Tối](../../main/S/Shadow-Bride.md)** và **[Noel](../../main/N/Noel.md)**.
 - **(**[1936](../../main/_/1936.md): *[An Edition of Þe Liflade ant te Passiun of Seinte Iuliene](../../main/A/An_Edition_of_Þe_Liflade_ant_te_Passiun_of_Seinte_Iuliene.md)*.**)**
 - **(**[1936](../../main/_/1936.md): *[Roman Britain and the English Settlements](../../main/R/Roman_Britain_and_the_English_Settlements.md)*.**)**
 - [1936](../../main/_/1936.md): <i><b><a href="../../main/S/Songs_for_the_Philologists.md" title="Songs for the Philologists">Bài hát dành cho các nhà ngữ văn</a></b></i>.
@@ -148,7 +148,7 @@ langlinks:
 
 - [1945](../../main/_/1945.md): [*The Catholic Herald* (23 tháng 2 năm 1945)](<../../main/T/The_Catholic_Herald_(23_February_1945).md>). Bao gồm **[Tên Coventry](../../main/T/The_Name_Coventry.md)** - Thư gửi biên tập viên.
 - [1945](../../main/_/1945.md): [*The Dublin Review*(tháng 1 năm 1945)](<../../main/T/The_Dublin_Review_(January_1945).md>). Bao gồm câu chuyện **[Chiếc lá của Niggle](../../main/L/Leaf_by_Niggle.md)**.
-- [1945](../../main/_/1945.md): [*The Welsh Review* (Tập IV, Số 4)](<../../main/T/The_Welsh_Review_(Vol.IV,_No.4).md>). Bao gồm **[The Lay of Aotrou and Itroun](../../main/T/The_Lay_of_Aotrou_and_Itroun.md)**.
+- [1945](../../main/_/1945.md): [*The Welsh Review* (Tập IV, Số 4)](<../../main/T/The_Welsh_Review_(Vol.IV,_No.4).md>). Bao gồm **[Sự nằm của Aotrou và Itroun](../../main/T/The_Lay_of_Aotrou_and_Itroun.md)**.
 
 - [1946](../../main/_/1946.md): [*Sunday Times* (14 tháng 4 năm 1946)](<../../main/S/Sunday_Times_(14_April_1946).md>). Bao gồm **Nghiên cứu và Văn học**.
 
@@ -223,14 +223,14 @@ langlinks:
 - [1966](../../main/_/1966.md): *[The Hobbit](../../main/T/The_Hobbit.md)*, phiên bản Longmans/Unwin. Bao gồm **[phần mở đầu đã được sửa đổi](../../main/T/The_Hobbit_Preface.md)**.
 - [1966](../../main/_/1966.md): <i><b><a href="../../main/T/The_Jerusalem_Bible.md" title="The Jerusalem Bible">Kinh thánh Jerusalem</a></b></i>.
 - [1966](../../main/_/1966.md): [*New Worlds* Tập. 50, số 168](../../main/N/New_Worlds_Vol._50,_No._168.md). Bao gồm các đoạn trích từ cuộc phỏng vấn của [Daphne Castell](../../main/D/Daphne_Castell.md).
-- [1966](../../main/_/1966.md): <a class="new" href="https://tolkiengateway.net/w/index.php?title=Oxford_Mail_(3_August_1966)&amp;action=edit&amp;redlink=1" title="Oxford Mail (3 August 1966) (page does not exist)"><i>Oxford Thư</i> (3 tháng 8 năm 1966)</a>. Bao gồm các đoạn trích từ cuộc phỏng vấn của John Ezard.
+- [1966](../../main/_/1966.md): <a class="new" href="https://tolkiengateway.net/w/index.php?title=Oxford_Mail_(3_August_1966)&amp;action=edit&amp;redlink=1" title="Oxford Mail (3 August 1966) (page does not exist)"><i>Oxford Thư</i> (3 tháng 8 năm 1966)</a>. Bao gồm các trích đoạn từ cuộc phỏng vấn của John Ezard.
 - [1966](../../main/_/1966.md): *[The Return of the King](../../main/T/The_Return_of_the_King.md)*. Bao gồm [**Chỉ mục năm 1966**](../../main/T/The_Lord_of_the_Rings_Index.md).
 - [1966](../../main/_/1966.md): [*Saturday Evening Post* (2 tháng 7 năm 1966)](<../../main/S/Saturday_Evening_Post_(2_July_1966).md>). Bao gồm các trích đoạn từ cuộc phỏng vấn của Henry Resnik.
 - [1966](../../main/_/1966.md): [*Tolkien Journal* (Tập 2, Số 1)](<../../main/T/Tolkien_Journal_(Vol.2,_No.1).md>). Bao gồm bài thơ **[A Elbereth Gilthoniel](../../main/A/A_Elbereth_Gilthoniel.md)** và bản dịch.
 - [1966](../../main/_/1966.md): *[The Tolkien Reader](../../main/T/The_Tolkien_Reader.md)*. Chứa *The Homecoming of Beortnoth Beorthelm's Son*, *Tree and Leaf*, *Farmer Giles of Ham* và *The Adventures of Tom Bombadil*.
 
-- [1967](../../main/_/1967.md): [*The New York Times Magazine*ngày 15 tháng 1 năm 1967](../../main/T/The_New_York_Times_Magazine_15_January_1967.md). Bao gồm [phỏng vấn](../I/Interviews_with_J.R.R._Tolkien.md).
-- [1967](../../main/_/1967.md): *[The Poetry of J.R.R. Tolkien](../../main/T/The_Poetry_of_J.R.R._Tolkien.md)*. Trong đó có bài thơ "[The Gốc of the Boot](../../main/T/The_Root_of_the_Boot.md)".
+- [1967](../../main/_/1967.md): [*The New York Times Magazine* ngày 15 tháng 1 năm 1967](../../main/T/The_New_York_Times_Magazine_15_January_1967.md). Bao gồm [phỏng vấn](../I/Interviews_with_J.R.R._Tolkien.md).
+- [1967](../../main/_/1967.md): *[The Poetry of J.R.R. Tolkien](../../main/T/The_Poetry_of_J.R.R._Tolkien.md)*. Trong đó có bài thơ “[Cái gốc chiếc ủng](../../main/T/The_Root_of_the_Boot.md)”.
 - [1967](../../main/_/1967.md): [*Redbook* (23 tháng 11 năm 1967)](<../../main/R/Redbook_(23_November_1967).md>). Bao gồm [Smith của Wootton Thiếu tá](../../main/S/Smith_of_Wootton_Major.md).
 - [1967](../../main/_/1967.md): <i><b><a href="../../main/T/The_Road_Goes_Ever_On_(book).md" title="The Road Goes Ever On (book)">The Road Goes Ever On: Một chu kỳ bài hát</a></b></i>.
 - [1967](../../main/_/1967.md): [*Seventeen* Tháng 1 năm 1967](../../main/S/Seventeen.md). Bao gồm [phỏng vấn](../I/Interviews_with_J.R.R._Tolkien.md).
@@ -269,7 +269,7 @@ langlinks:
 - [1972](../../main/_/1972.md): *Daily Telegraph*. Bao gồm **[Địa điểm đẹp vì cây được yêu thương](../../main/L/Letter_339.md)** - Thư gửi biên tập viên phản hồi một bài xã luận.
 - [1972](../../main/_/1972.md): *[The Fictitious Characters of C.S. Lewis and J.R.R. Tolkien in Relation to Their Medieval Sources](../../main/T/The_Fictitious_Characters_of_C.S._Lewis_and_J.R.R._Tolkien.md)*. Bao gồm [Thư 213](../../main/L/Letter_213.md).
 - [1972](../../main/_/1972.md): <a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Los_Angeles_Times_Calendar_(9_April_1972)&amp;action=edit&amp;redlink=1" title="The Los Angeles Times Calendar (9 April 1972) (page does not exist)"><i>Lịch Thời báo Los Angeles</i> (ngày 9 tháng 4 năm 1972)</a>. Bao gồm các đoạn trích từ cuộc phỏng vấn của [William Cater](../../main/W/William_Cater.md).
-- [1972](../../main/_/1972.md): [*Mallorn* 5](../../main/M/Mallorn_5.md). Bao gồm [một lá thư gửi Vera Chapman](../../main/L/Letter_to_Vera_Chapman_and_the_Tolkien_Society.md)
+- [1972](../../main/_/1972.md): [*Mallorn* 5](../../main/M/Mallorn_5.md). Bao gồm [một bức thư gửi Vera Chapman](../../main/L/Letter_to_Vera_Chapman_and_the_Tolkien_Society.md)
 - [1972](../../main/_/1972.md): <a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Scotsman_(5_February_1972)&amp;action=edit&amp;redlink=1" title="The Scotsman (5 February 1972) (page does not exist)"><i>Người Scotland</i> (5 tháng 2 năm 1972)</a>. Bao gồm các trích đoạn từ một cuộc phỏng vấn.
 - [1972](../../main/_/1972.md): *[Sotheby's Fine English and Continental Furniture Bronzes, Textiles and Works of Art 1825-1930 and French Animalier Bronzes](../../main/S/Sotheby's_Fine_English_and_Continental_Furniture_Bronzes,_Textiles_and_Works_of_Art_1825-1930_and_French_Animalier_Bronzes.md)*. Bao gồm [tuyên bố bằng văn bản](../../main/D/Desk_certificate_27_July_1972.md).
 - [1972](../../main/_/1972.md): [*The Sunday Times Magazine* (2 tháng 1 năm 1972)](<../../main/T/The_Sunday_Times_Magazine_(2_January_1972).md>). Bao gồm các đoạn trích từ cuộc phỏng vấn của [William Cater](../../main/W/William_Cater.md).
@@ -305,7 +305,7 @@ langlinks:
 - [1975](../../main/_/1975.md): <i><b><a class="mw-redirect" href="../../main/S/Sir_Gawain_and_the_Green_Knight,_Pearl_and_Sir_Orfeo.md" title="Sir Gawain and the Green Knight, Pearl and Sir Orfeo">Ngài Gawain và Hiệp sĩ xanh, Pearl và Ngài Orfeo</a></b></i>.
 
 - [1976](../../main/_/1976.md): *[Drawings by Tolkien](<../../main/D/Drawings_by_Tolkien_(exhibition_catalogue).md>)*. Danh mục triển lãm.
-- [1976](../../main/_/1976.md): [*Fantastic*Tháng 11 năm 1976](../../main/F/Fantastic_November_1976.md). Bao gồm các trích dẫn và hồi ức.
+- [1976](../../main/_/1976.md): [*Fantastic* Tháng 11 năm 1976](../../main/F/Fantastic_November_1976.md). Bao gồm các trích dẫn và hồi ức.
 - [1976](../../main/_/1976.md): <i><b><a class="mw-redirect" href="../../main/T/The_Father_Christmas_Letters.md" title="The Father Christmas Letters">Những lá thư Giáng sinh của Cha</a></b></i>.
 - [1976](../../main/_/1976.md): *[J.R.R. Tolkien: Architect of Middle Earth](../../main/J/J.R.R._Tolkien%253A_Architect_of_Middle-earth.md)*. Bao gồm các trích dẫn từ các lá thư và các cuộc phỏng vấn.
 - [1976](../../main/_/1976.md): *[Literary Swordsmen and Sorcerers: The Makers of Heroic Fantasy](../../main/L/Literary_Swordsmen_and_Sorcerers.md)*. Bao gồm một trích dẫn và hồi ức.
@@ -366,19 +366,19 @@ langlinks:
 - [1983](../../main/_/1983.md): *[Parma Eldalamberon 6](../../main/P/Parma_Eldalamberon_6.md)*. Bao gồm các ghi chú được thực hiện trên phiên bản nháp của Bản đồ Thror.
 - [1983](../../main/_/1983.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Peter_Jolliffe_Catalogue_27&amp;action=edit&amp;redlink=1" title="Peter Jolliffe Catalogue 27 (page does not exist)">Danh mục Peter Jolliffe 27</a></i>. Bao gồm một lá thư và một phim hoạt hình có chú thích.
 - [1983](../../main/_/1983.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Robin_Waterfield_Catalogue_45:_A_Fair_Choice&amp;action=edit&amp;redlink=1" title="Robin Waterfield Catalogue 45: A Fair Choice (page does not exist)">Robin Waterfield Danh mục 45: Sự lựa chọn công bằng</a></i>. Bao gồm dòng chữ và một ghi chú.
-- [1983](../../main/_/1983.md): *Smith of Wootton Major và Leaf của Niggle*. Unwin Paperbacks.
-- [1983](../../main/_/1983.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Sotheby%27s_English_Literature_Comprising_Printed_Books,_Autograph_Letters_and_Manuscripts_21-22_July_1983&amp;action=edit&amp;redlink=1" title="Sotheby&#39;s English Literature Comprising Printed Books, Autograph Letters and Manuscripts 21-22 July 1983 (page does not exist)">Văn học Anh của Sotheby bao gồm sách in, thư bút tích và bản thảo ngày 21-22 tháng 7 năm 1983</a></i>. Bao gồm ghi chú và chữ cái.
+- [1983](../../main/_/1983.md): *Smith of Wootton Major và Leaf của Niggle*. Unwin Sách bìa mềm.
+- [1983](../../main/_/1983.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Sotheby%27s_English_Literature_Comprising_Printed_Books,_Autograph_Letters_and_Manuscripts_21-22_July_1983&amp;action=edit&amp;redlink=1" title="Sotheby&#39;s English Literature Comprising Printed Books, Autograph Letters and Manuscripts 21-22 July 1983 (page does not exist)">Văn học Anh của Sotheby's Bao gồm Sách in, Thư ký tặng và Bản thảo ngày 21-22 tháng 7 năm 1983</a></i>. Bao gồm ghi chú và chữ cái.
 
-- [1984](../../main/_/1984.md): [*Amon Hen*70](../../main/A/Amon_Hen_70.md). Bao gồm các trích dẫn từ một lá thư.
-- [1984](../../main/_/1984.md): [*Beyond Bree*Tháng 12 năm 1984](../../main/B/Beyond_Bree_December_1984.md).
+- [1984](../../main/_/1984.md): [*Amon Hen* 70](../../main/A/Amon_Hen_70.md). Bao gồm các trích dẫn từ một lá thư.
+- [1984](../../main/_/1984.md): [*Beyond Bree* Tháng 12 năm 1984](../../main/B/Beyond_Bree_December_1984.md).
 - [1984](../../main/_/1984.md): *[Fantasists on Fantasy: A Collection of Critical Reflections by Eighteen Masters of the Art](../../main/F/Fantasists_on_Fantasy.md)*. Bao gồm <b><a class="new" href="https://tolkiengateway.net/w/index.php?title=Fantasy_(writing)&amp;action=edit&amp;redlink=1" title="Fantasy (writing) (page does not exist)">Giả tưởng</a></b> và **[Tới W.H. Auden](../../main/T/To_W.H._Auden.md)**.
 - [1984](../../main/_/1984.md): *[The History of Middle-earth](../../main/T/The_History_of_Middle-earth.md)* tập. 2: <i><b><a class="mw-redirect" href="../../main/T/The_Book_of_Lost_Tales_Part_Two.md" title="The Book of Lost Tales Part Two">The Book of Lost Tales Part Two</a></b></i>.
 - [1984](../../main/_/1984.md): *[The Manuscripts of J.R.R.T.](../../main/T/The_Manuscripts_of_J.R.R.T..md)*. Sao chép bốn đoạn trích từ *The Lord of the Rings* bản thảo.
 - [1984](../../main/_/1984.md): *[Oliphaunt](<../../main/O/Oliphaunt_(sheet).md>)* (dưới dạng tấm phẳng; xem thêm *[Oliphaunt (book)](<../../main/O/Oliphaunt_(book).md>)*, 1989).
 - [1984](../../main/_/1984.md): *[Sotheby's English Literature and English History 6-7 December 1984](../../main/S/Sotheby's_English_Literature_and_English_History_6-7_December_1984.md)*. Bao gồm **[Liên quan đến ... 'The Hoard'](../../main/C/Concerning_..._'The_Hoard'.md)**, **[Mối quan hệ họ hàng của Half-elven](../../main/K/Kinship_of_the_Half-elven.md)** và các đoạn trích từ các bức thư gửi cho Eileen Elgar.
 
-- [1985](../../main/_/1985.md): [*Beyond Bree*Tháng 5 năm 1985](../../main/B/Beyond_Bree_May_1985.md). Bao gồm [Liên quan đến ... 'Người tích trữ'](../../main/C/Concerning_..._'The_Hoard'.md), [Mối quan hệ họ hàng của Half-elven](../../main/K/Kinship_of_the_Half-elven.md) và các đoạn trích từ các bức thư gửi cho Eileen Elgar.
-- [1985](../../main/_/1985.md): [*Beyond Bree*Tháng 6 năm 1985](../../main/B/Beyond_Bree_June_1985.md). Bao gồm [Mối quan hệ của Half-elven](../../main/K/Kinship_of_the_Half-elven.md).
+- [1985](../../main/_/1985.md): [*Beyond Bree* Tháng 5 năm 1985](../../main/B/Beyond_Bree_May_1985.md). Bao gồm [Liên quan đến ... 'Người tích trữ'](../../main/C/Concerning_..._'The_Hoard'.md), [Mối quan hệ họ hàng của Half-elven](../../main/K/Kinship_of_the_Half-elven.md) và các đoạn trích từ các bức thư gửi cho Eileen Elgar.
+- [1985](../../main/_/1985.md): [*Beyond Bree* Tháng 6 năm 1985](../../main/B/Beyond_Bree_June_1985.md). Bao gồm [Mối quan hệ của Half-elven](../../main/K/Kinship_of_the_Half-elven.md).
 - [1985](../../main/_/1985.md): [*Beyond Bree* Tháng 10 năm 1985](../../main/B/Beyond_Bree_October_1985.md). Bao gồm phiên âm.
 - ?[1985](../../main/_/1985.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Blackwell%27s_Catalogue_A81&amp;action=edit&amp;redlink=1" title="Blackwell&#39;s Catalogue A81 (page does not exist)">Danh mục A81 của Blackwell</a></i>. Bao gồm các chữ cái.
 - [1985](../../main/_/1985.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Blackwell%27s_Catalogue_of_Rare_Modern_Books_May_1985&amp;action=edit&amp;redlink=1" title="Blackwell&#39;s Catalogue of Rare Modern Books May 1985 (page does not exist)">Danh mục sách hiện đại quý hiếm của Blackwell Tháng 5 năm 1985</a></i>. Bao gồm các chữ cái.
@@ -390,8 +390,8 @@ langlinks:
 - [1985](../../main/_/1985.md): *[Masterpieces of Terror and the Supernatural: A Treasury of Spellbinding Tales Old and New](../../main/M/Masterpieces_of_Terror_and_the_Supernatural.md)*. Bao gồm **[Những câu đố trong bóng tối (Ấn bản đầu tiên)](../../main/R/Riddles_in_the_Dark.md#First_Edition)**.
 - [1985](../../main/_/1985.md): <a class="new" href="https://tolkiengateway.net/w/index.php?title=Walter_R._Benjamin_Autographs:_The_Collector_(No._910)&amp;action=edit&amp;redlink=1" title="Walter R. Benjamin Autographs: The Collector (No. 910) (page does not exist)"><i>Walter R. Benjamin Chữ ký: Người sưu tầm</i> (Số 910)</a>. Bao gồm thư.
 
-- [1986](../../main/_/1986.md): [*Beyond Bree*Tháng 7 năm 1986](../../main/B/Beyond_Bree_July_1986.md). Bao gồm hai trang từ một bản sao có chú thích của *The Hobbit*.
-- [1986](../../main/_/1986.md): [*Beyond Bree*Tháng 12 năm 1986](../../main/B/Beyond_Bree_December_1986.md). Bao gồm tuyên bố.
+- [1986](../../main/_/1986.md): [*Beyond Bree* Tháng 7 năm 1986](../../main/B/Beyond_Bree_July_1986.md). Bao gồm hai trang từ một bản sao có chú thích của *The Hobbit*.
+- [1986](../../main/_/1986.md): [*Beyond Bree* Tháng 12 năm 1986](../../main/B/Beyond_Bree_December_1986.md). Bao gồm tuyên bố.
 - [1986](../../main/_/1986.md): *[The History of Middle-earth](../../main/T/The_History_of_Middle-earth.md) vol. 4*: <i><b><a href="../../main/T/The_Shaping_of_Middle-earth.md" title="The Shaping of Middle-earth">The Shaping of Middle-earth</a></b></i>.
 - [1986](../../main/_/1986.md): [*Mallorn* 23](../../main/M/Mallorn_23.md). Bao gồm <i><b><a href="../../main/G/Goblin_Feet.md" title="Goblin Feet">Bàn chân yêu tinh</a></b></i>.
 - [1986](../../main/_/1986.md): [*Mythlore* 45](../../main/M/Mythlore_45.md). Bao gồm trích dẫn từ các chữ cái và chú thích.
@@ -440,7 +440,7 @@ langlinks:
 - [1990](../../main/_/1990.md): *[Arda 1986](../../main/A/Arda_1986.md)*. Bao gồm bản thảo của **[Clerkes Compleinte](../../main/T/The_Clerkes_Compleinte.md)**.
 - [1990](../../main/_/1990.md): [*C.S. Lewis: A Biography*](<../../main/C/C.S._Lewis%253A_A_Biography_(1990_book).md>).
 - [1990](../../main/_/1990.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=George_J._Houle_Catalogue_54:_Autographs&amp;action=edit&amp;redlink=1" title="George J. Houle Catalogue 54: Autographs (page does not exist)">George J. Houle Danh mục 54: Chữ ký</a></i>. Bao gồm thư.
-- [1990](../../main/_/1990.md): *[The History of Middle-earth](../../main/T/The_History_of_Middle-earth.md) vol. 8*: <i><b><a href="../../main/T/The_War_of_the_Ring.md" title="The War of the Ring">The War of the Ring</a></b></i>.
+- [1990](../../main/_/1990.md): *[The History of Middle-earth](../../main/T/The_History_of_Middle-earth.md) vol. 8*: <i><b><a href="../../main/T/The_War_of_the_Ring.md" title="The War of the Ring"> Cuộc chiến Nhẫn</a></b></i>.
 - [1990](../../main/_/1990.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Paul_C._Richards_Autographs_Catalogue_249&amp;action=edit&amp;redlink=1" title="Paul C. Richards Autographs Catalogue 249 (page does not exist)">Paul C. Richards Danh mục chữ ký 249</a></i>. Bao gồm thư.
 - [1990](../../main/_/1990.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Paul_C._Richards_Autographs_Catalogue_251&amp;action=edit&amp;redlink=1" title="Paul C. Richards Autographs Catalogue 251 (page does not exist)">Paul C. Richards Danh mục chữ ký 251</a></i>. Bao gồm thư.
 - [1990](../../main/_/1990.md): [*Parma Eldalamberon* 9](../../main/P/Parma_Eldalamberon_9.md). Bao gồm **[Narqelion](../../main/N/Narqelion.md)**.
@@ -451,7 +451,7 @@ langlinks:
 - [1991](../../main/_/1991.md): <a class="new" href="https://tolkiengateway.net/w/index.php?title=Beyond_Bree_September_1991&amp;action=edit&amp;redlink=1" title="Beyond Bree September 1991 (page does not exist)"><i>Beyond Bree</i> tháng Chín 1991</a>. Bao gồm thư.
 - [1991](../../main/_/1991.md): *[The Homecoming of Beorhtnoth](<../../main/T/The_Homecoming_of_Beorhtnoth_(booklet).md>)*. In lại riêng biệt.
 - [1991](../../main/_/1991.md): *[Leaves from the Tree: J.R.R. Tolkien's Shorter Fiction. The Proceedings of the 4th Tolkien Society Workshop](../../main/L/Leaves_from_the_Tree.md)*. Bao gồm một đoạn trích từ bài giảng chưa được xuất bản lúc bấy giờ về **[Rồng](<../../main/D/Dragons_(lecture).md>)**.
-- [1991](../../main/_/1991.md): [*Mythlore*65](../../main/M/Mythlore_65.md). Bao gồm ** Tiên tộc tại Koivienéni**.
+- [1991](../../main/_/1991.md): [*Mythlore* 65](../../main/M/Mythlore_65.md). Bao gồm ** Tiên tộc tại Koivienéni**.
 - [1991](../../main/_/1991.md): *[Sotheby's English Literature and History 18 July 1991](../../main/S/Sotheby's_English_Literature_and_History_18_July_1991.md)*. Bao gồm các đoạn trích từ các bức thư [Thư gửi cô Turnbull (11 tháng 3 năm 1949)](<../../main/L/Letter_to_Miss_Turnbull_(11_March_1949).md>), [Thư gửi cô Turnbull (2 tháng 5 năm 1955)](<../../main/L/Letter_to_Miss_Turnbull_(2_May_1955).md>) và [Thư gửi cô Turnbull (19 tháng 5 năm 1955)](<../../main/L/Letter_to_Miss_Turnbull_(19_May_1955).md>).
 - [1991](../../main/_/1991.md): *[Sotheby's The Library of Richard Manney 11 October 1991](../../main/S/Sotheby's_The_Library_of_Richard_Manney_11_October_1991.md)*. Bao gồm dòng chữ.
 - [1991](../../main/_/1991.md): *[Three Early Poems](../../main/T/Three_Early_Poems.md)*.
@@ -475,10 +475,10 @@ langlinks:
 - [1992](../../main/_/1992.md): *[Tolkien in aller Welt: Eine Ausstellung der Inklings-Gesellschaft anläßlich des 100](../../main/T/Tolkien_in_aller_Welt.md)*. Tái tạo một lá thư.
 - [1992](../../main/_/1992.md): [*Vinyar Tengwar* 21](../../main/V/Vinyar_Tengwar_21.md). Bao gồm một dòng chữ *tengwar*.
 - [1992](../../main/_/1992.md): [*Vinyar Tengwar* 23](../../main/V/Vinyar_Tengwar_23.md). Bao gồm một dòng chữ *tengwar*.
-- [1992](../../main/_/1992.md): [*Vinyar Tengwar* 26](../../main/V/Vinyar_Tengwar_26.md). Bao gồm **Uglúk đến hố phân**.
+- [1992](../../main/_/1992.md): [*Vinyar Tengwar* 26](../../main/V/Vinyar_Tengwar_26.md). Bao gồm **Uglúk tới hố phân**.
 
 - [1993](../../main/_/1993.md): <a class="new" href="https://tolkiengateway.net/w/index.php?title=Esperanto_USA,_Vol.29,_No.4&amp;action=edit&amp;redlink=1" title="Esperanto USA, Vol.29, No.4 (page does not exist)"><i>Quốc tế ngữ Hoa Kỳ</i>. Quyển 29, số 4</a>. Bao gồm **Tại sao tôi ủng hộ Esperanto** (giống như [Một nhà ngữ văn về Esperanto](../../main/A/A_Philologist_on_Esperanto.md)).
-- [1993](../../main/_/1993.md): *[The History of Middle-earth](../../main/T/The_History_of_Middle-earth.md) vol. 10*: <i><b><a href="../../main/M/Morgoth&#39;s_Ring.md" title="Morgoth&#39;s Ring">Morgoth của Nhẫn</a></b></i>.
+- [1993](../../main/_/1993.md): *[The History of Middle-earth](../../main/T/The_History_of_Middle-earth.md) vol. 10*: Nhẫn của <i><b><a href="../../main/M/Morgoth&#39;s_Ring.md" title="Morgoth&#39;s Ring">Morgoth</a></b></i>.
 - [1993](../../main/_/1993.md): *[Michael Silverman Catalogue Nine](../../main/M/Michael_Silverman_Catalogue_Nine.md)*. Bao gồm [một lá thư](../../main/L/Letter_to_Miss_Perry.md).
 - [1993](../../main/_/1993.md): *[Poems by J.R.R. Tolkien: Volume I-III](../../main/P/Poems_by_J.R.R._Tolkien%253A_Volume_I-III.md)*.
 - [1993](../../main/_/1993.md): [*Vinyar Tengwar* 27](../../main/V/Vinyar_Tengwar_27.md). Bao gồm bản fax của **bản thảo Koivienéni**.
@@ -534,7 +534,7 @@ langlinks:
 
 - [2001](../../main/_/2001.md): *[Christie's 20th Century Books and Manuscripts 16 November 2001](../../main/C/Christie's_20th_Century_Books_and_Manuscripts_16_November_2001.md)*. Bao gồm các chữ cái và chú thích trong bản sao chứng minh.
 - [2001](../../main/_/2001.md): [*Interzone* số tháng 12, #174](../../main/I/Interzone_174.md). Bao gồm bản sao của một [bức thư gửi Gene Wolfe từ ngày 7 tháng 11 năm 1966](../../main/L/Letter_to_Gene_Wolfe.md).
-- [2001](../../main/_/2001.md): [*Parma Eldalamberon*số 13](../../main/P/Parma_Eldalamberon_13.md). Bao gồm **Bảng chữ cái của Rúmil & Noldorin Đoạn đầu**.
+- [2001](../../main/_/2001.md): [*Parma Eldalamberon* số 13](../../main/P/Parma_Eldalamberon_13.md). Bao gồm **Bảng chữ cái của Rúmil & Noldorin Đoạn đầu**.
 - [2001](../../main/_/2001.md): *[Sotheby's Literature, History and Illustrated Books 10 July 2001](../../main/S/Sotheby's_Literature,_History_and_Illustrated_Books_10_July_2001.md)*. Bao gồm thư.
 - [2001](../../main/_/2001.md): *[Sotheby's Valuable Printed Books and Manuscripts 13 December 2001](../../main/S/Sotheby's_Valuable_Printed_Books_and_Manuscripts_13_December_2001.md)*. Bao gồm một số chữ cái.
 - [2001](../../main/_/2001.md): *[Treasures from the Misty Mountains](../../main/T/Treasures_from_the_Misty_Mountains.md)*. Tái tạo một tấm bưu thiếp.
@@ -546,7 +546,7 @@ langlinks:
 - [2002](../../main/_/2002.md): <i><b><a href="../../main/B/Beowulf_and_the_Critics.md" title="Beowulf and the Critics">Beowulf và các Nhà phê bình</a></b></i>.
 - [2002](../../main/_/2002.md): *[Christie's 20th-Century Books and Manuscripts 6 December 2002](../../main/C/Christie's_20th-Century_Books_and_Manuscripts_6_December_2002.md)*. Bao gồm trích dẫn từ ba chữ cái.
 - [2002](../../main/_/2002.md): *[Christie's Fine Printed Books and Manuscripts 24 May 2002](../../main/C/Christie's_Fine_Printed_Books_and_Manuscripts_24_May_2002.md)*. Bao gồm **[Câu hỏi chỉ mục](../../main/U/Unfinished_index.md)** và ba chữ cái.
-- [2002](../../main/_/2002.md): *[Pesma o Otruu i Itrun](../../main/P/Pesma_o_Otruu_i_Itrun.md)*. Chứa **[The Lay of Aotrou and Itroun](../../main/T/The_Lay_of_Aotrou_and_Itroun.md)** bằng tiếng Serbia và tiếng Anh.
+- [2002](../../main/_/2002.md): *[Pesma o Otruu i Itrun](../../main/P/Pesma_o_Otruu_i_Itrun.md)*. Chứa **[The Lay of Aotrou và Itroun](../../main/T/The_Lay_of_Aotrou_and_Itroun.md)** bằng tiếng Serbia và tiếng Anh.
 - [2002](../../main/_/2002.md): *[Sotheby's Literature and Illustration 11-12 July 2002](../../main/S/Sotheby's_Literature_and_Illustration_11-12_July_2002.md)*. Bao gồm một số chữ cái.
 - [2002](../../main/_/2002.md): *[A Tolkien Miscellany](../../main/A/A_Tolkien_Miscellany.md)*. Bao gồm một số bài viết ngắn hơn.
 - [2002](../../main/_/2002.md): *[Vinyar Tengwar 43](../../main/V/Vinyar_Tengwar_43.md)*. Bao gồm **Lời Niềm Vui: Năm Lời Cầu Nguyện Công Giáo - Phần Một**.
@@ -608,12 +608,12 @@ langlinks:
 - [2008](../../main/_/2008.md): [*Mallorn* 46](../../main/M/Mallorn_46.md). Bao gồm **[Trận chiến ở chiến trường phía Đông](../../main/T/The_Battle_of_the_Eastern_Field.md)**.
 - [2008](../../main/_/2008.md): *[Tales Before Narnia: The Roots of Modern Fantasy and Science Fiction](../../main/T/Tales_Before_Narnia.md)*. Bao gồm **[Chuyến thăm của Rồng](../../main/T/The_Dragon's_Visit.md)**.
 - [2008](../../main/_/2008.md): <i><b><a href="../../main/T/Tolkien_On_Fairy-stories~23734.md" title="Tolkien On Fairy-stories">Tolkien Về truyện cổ tích: Ấn bản mở rộng, có bình luận và ghi chú</a></b></i>.
-- [2008](../../main/_/2008.md): [*Tolkien Studies*: Tập 5](../../main/T/Tolkien_Studies%253A_Volume_5.md). Bao gồm **[Chaucer với tư cách là nhà ngữ văn: Câu chuyện của Reeve](../../main/C/Chaucer_as_a_Philologist%253A_The_Reeve's_Tale.md)** và **[Câu chuyện của Reeve: Phiên bản được chuẩn bị để ngâm thơ tại 'Giải trí mùa hè'](<../../main/T/The_Reeve's_Tale_(version).md>)**.
+- [2008](../../main/_/2008.md): [*Tolkien Studies*: Tập 5](../../main/T/Tolkien_Studies%253A_Volume_5.md). Bao gồm **[Chaucer as a Philologist: The Reeve's Tale](../../main/C/Chaucer_as_a_Philologist%253A_The_Reeve's_Tale.md)** và **[The Reeve's Tale: Version Prepared for Recitation at the 'Summer Diversions'](<../../main/T/The_Reeve's_Tale_(version).md>)**.
 
 - [2009](../../main/_/2009.md): *[Black &amp; White Ogre Country: The Lost Tales of Hilary Tolkien](../../main/B/Black_&_White_Ogre_Country.md)*. Bao gồm các bức ảnh chưa được công bố và thư **[Thư gửi Hilary Tolkien](../../main/L/Letter_to_Hilary_Tolkien.md)**.
 - [2009](../../main/_/2009.md): *[Christie's Fine Printed Books and Manuscripts 1 June 2009](../../main/C/Christie's_Fine_Printed_Books_and_Manuscripts_1_June_2009.md)*. Bao gồm một số chữ cái.
-- [2009](../../main/_/2009.md): <i><b><a href="../../main/T/The_Legend_of_Sigurd_and_Gudrún.md" title="The Legend of Sigurd and Gudrún">The Legend of Sigurd and Gudrún</a></b></i>.
-- [2009](../../main/_/2009.md): *[Michael Silverman Catalogue 27](../../main/M/Michael_Silverman_Catalogue_27.md)*. Bao gồm [một lá thư gửi Ronald Ashton](../../main/L/Letter_to_Ronald_Ashton.md).
+- [2009](../../main/_/2009.md): <i><b><a href="../../main/T/The_Legend_of_Sigurd_and_Gudrún.md" title="The Legend of Sigurd and Gudrún">Truyền thuyết về Sigurd và Gudrún</a></b></i>.
+- [2009](../../main/_/2009.md): *[Michael Silverman Catalogue 27](../../main/M/Michael_Silverman_Catalogue_27.md)*. Bao gồm [một bức thư gửi Ronald Ashton](../../main/L/Letter_to_Ronald_Ashton.md).
 - [2009](../../main/_/2009.md): [*Parma Eldalamberon*, số 18](../../main/P/Parma_Eldalamberon_18.md). Chứa **Tengwesta Qenderinwa** và **Bảng chữ cái tiền Fëanorian Phần 2**.
 - [2009](../../main/_/2009.md): *[Sotheby's English Literature, History, Children's Books and Illustrations 17 December 2009](../../main/S/Sotheby's_English_Literature,_History,_Children's_Books_and_Illustrations_17_December_2009.md)*. Bao gồm vẽ **[Trang trại cừu, Gedling](../../main/L/Lamb's_Farm,_Gedling.md)**.
 - [2009](../../main/_/2009.md): [*Tolkien Studies*: Tập 6](../../main/T/Tolkien_Studies%253A_Volume_6.md). Bao gồm **[Số phận và Ý chí Tự do](../../main/F/Fate_and_Free_Will.md)** và các ghi chú mang tính học thuật.
@@ -626,7 +626,7 @@ langlinks:
 - [2010](../../main/_/2010.md): *[Tolkien Studies: Volume 7](../../main/T/Tolkien_Studies%253A_Volume_7.md)*. Bao gồm **[Câu chuyện về Kullervo](../../main/T/The_Story_of_Kullervo.md)** và **Trên Kalevala**.
 - <strike><a href="../../main/_/2010.md" title="2010">2010</a>: <i><a href="../../main/W/Wheelbarrows_at_Dawn.md" title="Wheelbarrows at Dawn">Xe cút kít lúc bình minh: Ký ức về Hilary Tolkien</a></i>.</strike>
 
-- [2011](../../main/_/2011.md): <b><a class="mw-redirect" href="../../main/T/The_Art_of_The_Hobbit_by_J.R.R._Tolkien.md" title="The Art of The Hobbit by J.R.R. Tolkien"><i>Nghệ thuật</i> The Hobbit <i>của J.R.R. Tolkien</i></a></b>. Bao gồm các hình ảnh chưa được công bố trước đây.
+- [2011](../../main/_/2011.md): <b><a class="mw-redirect" href="../../main/T/The_Art_of_The_Hobbit_by_J.R.R._Tolkien.md" title="The Art of The Hobbit by J.R.R. Tolkien"><i>Nghệ thuật</i> The Hobbit <i>của J.R.R. Tolkien</i></a></b>. Bao gồm các hình ảnh chưa được công bố trước đó.
 - [2011](../../main/_/2011.md): [*Beowulf and the Critics*: Tái bản lần thứ hai có sửa đổi](../../main/B/Beowulf_and_the_Critics.md).
 - [2011](../../main/_/2011.md): *[Bonhams Books, Maps, Manuscripts and Historical Photographs 22 November 2011](../../main/B/Bonhams_Books,_Maps,_Manuscripts_and_Historical_Photographs_22_November_2011.md)*. Bao gồm các trích dẫn từ [một bức thư năm 1957](<../../main/L/Letter_to_Przemyslaw_Mroczkowski_(9%252F10_November_1957).md>).
 - [2011](../../main/_/2011.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Christie%27s_Fine_Printed_Books_and_Manuscripts_28_November_2011&amp;action=edit&amp;redlink=1" title="Christie&#39;s Fine Printed Books and Manuscripts 28 November 2011 (page does not exist)">Sách và Bản thảo in đẹp của Christie ngày 28 tháng 11 năm 2011</a></i>. Bao gồm trích dẫn từ các chữ cái.
@@ -647,7 +647,7 @@ langlinks:
 
 - [2013](../../main/_/2013.md): [*Amon Hen* 242](../../main/A/Amon_Hen_242.md). Bao gồm [Một buổi tối ở Tavrobel](../../main/A/An_Evening_in_Tavrobel.md).
 - [2013](../../main/_/2013.md): *[Christie's Fine Printed Books and Manuscripts 18 June 2013](../../main/C/Christie's_Fine_Printed_Books_and_Manuscripts_18_June_2013.md)*. Bao gồm hai chữ cái.
-- [2013](../../main/_/2013.md): <i><b><a href="../../main/T/The_Fall_of_Arthur.md" title="The Fall of Arthur">The Fall of Arthur</a></b></i>.
+- [2013](../../main/_/2013.md): <i><b><a href="../../main/T/The_Fall_of_Arthur.md" title="The Fall of Arthur">Sự sụp đổ của Arthur</a></b></i>.
 - [2013](../../main/_/2013.md): **[Các đoạn ngữ pháp của "Nala Lambe"](../../main/C/Cushing_Memorial_Library_and_Archives_collection.md)**, được xuất bản trên danh sách gửi thư Lambengolmor.
 - [2013](../../main/_/2013.md): *[From Abjection to Alchemy: Tolkien's Middle-earth Legendarium](../../main/F/From_Abjection_to_Alchemy.md)*.
 - [2013](../../main/_/2013.md): [*Hither Shore* 9](../../main/H/Hither_Shore_9.md). Bao gồm **Hai cuộc phỏng vấn người Thụy Điển với J.R.R. Tolkien**.
@@ -659,7 +659,7 @@ langlinks:
 - [2013](../../main/_/2013.md): [*Vinyar Tengwar*, số 50](../../main/V/Vinyar_Tengwar_50.md). Chứa **Túrin Trình bao bọc**.
 - [2013](../../main/_/2013.md): *[Ex Philologia Lux: Essays in honour of Leena Kahlas-Tarkka](../../main/E/Ex_Philologia_Lux.md)*. Bao gồm thư.
 
-- [2014](../../main/_/2014.md): <a href="../../main/T/The_Adventures_of_Tom_Bombadil.md#Expanded_edition" title="The Adventures of Tom Bombadil"><b><i>The Adventures of Tom Bombadil and Other Verses from the Red Book</i> (phiên bản mở rộng)</b></a>. Bao gồm những bài thơ khó tìm và tài liệu chưa được xuất bản trước đây.
+- [2014](../../main/_/2014.md): <a href="../../main/T/The_Adventures_of_Tom_Bombadil.md#Expanded_edition" title="The Adventures of Tom Bombadil"><b><i>The Adventures of Tom Bombadil và các câu khác từ Sách Đỏ</i> (ấn bản mở rộng)</b></a>. Bao gồm những bài thơ khó tìm và tài liệu chưa được xuất bản trước đây.
 - [2014](../../main/_/2014.md): <i><b><a href="../../main/B/Beowulf%253A_A_Translation_and_Commentary.md" title="Beowulf: A Translation and Commentary">Beowulf: A Translation and Commentary</a></b></i>. Cũng bao gồm **[Sellic Spell](../../main/S/Sellic_Spell.md)**.
 - [2014](../../main/_/2014.md): [*La Feuille de la Compagnie*, tập 3](../../main/L/La_Feuille_de_la_Compagnie_3.md). Bao gồm **Các mảnh vỡ về Elvish Tái sinh**.
 - [2014](../../main/_/2014.md): [Tạp chí nghiên cứu Inklings, tập 4 số 2](../../main/J/Journal_of_Inklings_Studies,_vol.4_no.2.md), tháng 10. Bao gồm **[Sách Giô-na](../../main/T/The_Book_of_Jonah.md)**.
@@ -675,7 +675,7 @@ langlinks:
 - [2015](../../main/_/2015.md): [*Tolkien Studies*: Tập 12](../../main/T/Tolkien_Studies%253A_Volume_12.md). Bao gồm một cáo phó cho Henry Bradley.
 
 - [2016](../../main/_/2016.md): <i><b><a class="mw-redirect" href="../../main/A/A_Secret_Vice_(book).md" title="A Secret Vice (book)">Phó bí mật</a>.</b></i>
-- [2016](../../main/_/2016.md): <i><b><a href="../../main/T/The_Lay_of_Aotrou_and_Itroun.md" title="The Lay of Aotrou and Itroun">The Lay of Aotrou and Itroun</a>.</b></i>
+- [2016](../../main/_/2016.md): <i><b><a href="../../main/T/The_Lay_of_Aotrou_and_Itroun.md" title="The Lay of Aotrou and Itroun">Sự kết hợp của Aotrou và Itroun</a>.</b></i>
 - [2016](../../main/_/2016.md): *[Leaf by Niggle](<../../main/L/Leaf_by_Niggle_(paperback).md>).*
 
 - [2017](../../main/_/2017.md): <i><b><a href="../../main/B/Beren_and_Lúthien.md" title="Beren and Lúthien">Beren and Lúthien</a>.</b></i>
@@ -700,13 +700,13 @@ langlinks:
 - [2020](../../main/_/2020.md): *[The Worlds of J.R.R. Tolkien: The Places that Inspired Middle-earth](../../main/T/The_Worlds_of_J.R.R._Tolkien.md)*
 - [2021](../../main/_/2021.md): <i><b><a href="../../main/T/The_Nature_of_Middle-earth.md" title="The Nature of Middle-earth">The Nature of Middle-earth</a></b></i>
 - [2022](../../main/_/2022.md): *[J.R.R. Tolkien: The Art of the Manuscript](../../main/J/J.R.R._Tolkien%253A_The_Art_of_the_Manuscript.md)*
-- [2022](../../main/_/2022.md): *[The Chronology of The Lord of the Rings](../../main/T/The_Chronology_of_The_Lord_of_the_Rings.md)* (số bổ sung của [Tolkien Nghiên cứu: Tập 19](../../main/T/Tolkien_Studies%253A_Volume_19.md))
+- [2022](../../main/_/2022.md): *[The Chronology of The Lord of the Rings](../../main/T/The_Chronology_of_The_Lord_of_the_Rings.md)* (vấn đề bổ sung của [Tolkien Studies: Volume 19](../../main/T/Tolkien_Studies%253A_Volume_19.md))
 - [2022](../../main/_/2022.md): <i><b><a class="mw-redirect" href="../../main/T/The_Fall_of_Númenor_(book).md" title="The Fall of Númenor (book)">The Fall of Númenor</a></b></i>
 - [2023](../../main/_/2023.md): <i><b><a href="../../main/T/The_Battle_of_Maldon%253A_together_with_The_Homecoming_of_Beorhtnoth.md" title="The Battle of Maldon: together with The Homecoming of Beorhtnoth">Trận chiến Maldon: cùng với Sự trở lại của Beorhtnoth</a></b></i>
 - [2024](../../main/_/2024.md): [*Parma Eldalamberon*, số 23](../../main/P/Parma_Eldalamberon_23.md).
 - [2024](../../main/_/2024.md): *[Tolkien on Chaucer, 1913-1959](../../main/T/Tolkien_on_Chaucer,_1913-1959.md)*
 - [2024](../../main/_/2024.md): <i><b><a href="../../main/T/The_Collected_Poems_of_J.R.R._Tolkien.md" title="The Collected Poems of J.R.R. Tolkien">Những bài thơ sưu tầm của J.R.R. Tolkien</a></b></i>
-- [2025](../../main/_/2025.md): <i><b><a href="../../main/T/The_Bovadium_Fragments%253A_together_with_The_Origin_of_Bovadium.md" title="The Bovadium Fragments: together with The Origin of Bovadium">The Bovadium Fragments: together with The Origin of Bovadium</a></b></i>
+- [2025](../../main/_/2025.md): <i><b><a href="../../main/T/The_Bovadium_Fragments%253A_together_with_The_Origin_of_Bovadium.md" title="The Bovadium Fragments: together with The Origin of Bovadium">Các mảnh Bovadium: cùng với Nguồn gốc của Bovadium</a></b></i>
 
 ## Xem thêm {#See_also}
 

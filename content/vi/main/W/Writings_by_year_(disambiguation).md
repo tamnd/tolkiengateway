@@ -19,7 +19,7 @@ Trên Tolkien Gateway, có một số thư mục theo trình tự thời gian c�
 - **[Bài viết của J.R.R. Tolkien](../../index/W/Writings_by_J.R.R._Tolkien.md)** (bài viết đã xuất bản của J.R.R. Tolkien)
 - **[Bài viết theo năm](../../index/W/Writings_by_year.md)** (các bài viết đã xuất bản liên quan đến J.R.R. Tolkien)
 
-- **[Các bài thơ của J.R.R. Tolkien](../../index/P/Poems_by_J.R.R._Tolkien.md)** (danh sách theo trình tự thời gian)
+- **[Thơ của J.R.R. Tolkien](../../index/P/Poems_by_J.R.R._Tolkien.md)** (danh sách theo trình tự thời gian)
 
 - **[Những bức thư không được đăng trong "Những bức thư của J.R.R. Tolkien"](../L/Letters_not_published_in_%2522The_Letters_of_J.R.R._Tolkien%2522.md)** (danh sách theo thời gian bao gồm những bức thư chưa được công bố)
 

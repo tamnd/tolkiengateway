@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Rohirrim"
 ---
 
-Chuyển hướng đến [Rohirrim](../R/Rohirrim.md).
+Chuyển hướng tới [Rohirrim](../R/Rohirrim.md).

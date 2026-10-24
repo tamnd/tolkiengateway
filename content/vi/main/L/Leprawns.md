@@ -16,7 +16,7 @@ categories:
 
 ## Từ nguyên {#Etymology}
 
-Có ý kiến ​​cho rằng cái tên *leprawn* là "sự chuyển thể đặc biệt củaTolkien từ *leprechaun*".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Có ý kiến ​​​​cho rằng cái tên *leprawn* là "sự chuyển thể đặc biệt của Tolkien từ *leprechaun*".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Các bài viết khác {#Other_writings}
 
@@ -26,7 +26,7 @@ Bài thơ *[Goblin Feet](../G/Goblin_Feet.md)* nói về “những chiếc sừ
 
 Tác giả Philip và Carol Zaleski kể lại rằng:<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[note 1]</a></sup>
 
-> *Tolkien, để trả lời câu hỏi của một sinh viên về sự thật của rồng và các truyền thuyết khác, đã tuyên bố rằng đằng sau những câu chuyện như vậy luôn có điều gì đó có thật; sau đó anh ta thọc vào túi và lôi ra, cùng với một cuộn dây và những mảnh vụn khác, một chiếc giày nhỏ màu xanh lá cây, mỏng và mũi nhọn, làm bằng chất liệu da có cảm giác giống như da bò sát, và tuyên bố rằng, "mạnh mẽ và có vẻ chân thành", là giày của yêu tinh.*
+> *Tolkien, trước câu hỏi của một sinh viên đại học về sự thật của loài rồng và các truyền thuyết khác, đã tuyên bố rằng đằng sau những câu chuyện như vậy luôn ẩn chứa một điều gì đó có thật; sau đó ông ta thọc vào túi và lôi ra, cùng với một cuộn dây và những mảnh vụn khác, một chiếc giày nhỏ màu xanh lá cây, mỏng và mũi nhọn, làm bằng chất liệu da có cảm giác giống như da bò sát, và tuyên bố rằng, "mạnh mẽ và rõ ràng là chân thành", là giày của yêu tinh.*
 
 ## Liên kết ngoài {#External_links}
 
@@ -35,7 +35,7 @@ Tác giả Philip và Carol Zaleski kể lại rằng:<sup id="cite_ref-5" class
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text">Theo <a href="../B/Bradley_J._Birzer.md" title="Bradley J. Birzer">Bradley J. Birzer</a>, nguồn gốc của hồi tưởng này là một bức thư của <a href="../N/Norman_Power.md" title="Norman Power">Norman Power</a> gửi <a href="../C/Clyde_S._Kilby.md" title="Clyde S. Kilby">Clyde S. Kilby</a>, được lưu giữ tại <a href="../M/Marion_E._Wade_Center.md" title="Marion E. Wade Center">Wade Bộ sưu tập, Trung tâm Marion Wade tại Cao đẳng Wheaton</a>: "Trích từ bức thư về JRRT, từ Norman S. Power, Ladywood, Birmingham, Anh, tác giả của THE FIRLAND SAGA," WCWC, Kilby Files, 3-8, "Tolkien the Man" từ TOLKIEN AND THE SILMARILLION'". Xem <a class="external text" href="http://www.facebook.com/groups/TheTolkienSociety.EducationalCharity/permalink/10157132379411068/?comment_id=10157132852931068&amp;comment_tracking=%7B%22tn%22%3A%22R%22%7D" rel="noreferrer noopener" target="_blank">thảo luận</a> tại Tolkien Nhóm Facebook xã hội (ngày 13 tháng 8 năm 2019).</span>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text">Theo <a href="../B/Bradley_J._Birzer.md" title="Bradley J. Birzer">Bradley J. Birzer</a>, nguồn gốc của hồi tưởng này là một bức thư của <a href="../N/Norman_Power.md" title="Norman Power">Norman Power</a> gửi <a href="../C/Clyde_S._Kilby.md" title="Clyde S. Kilby">Clyde S. Kilby</a>, được lưu giữ tại <a href="../M/Marion_E._Wade_Center.md" title="Marion E. Wade Center">Wade Bộ sưu tập, Trung tâm Marion Wade tại Cao đẳng Wheaton</a>: "Trích từ bức thư về JRRT, từ Norman S. Power, Ladywood, Birmingham, Anh, tác giả của THE FIRLAND SAGA," WCWC, Kilby Files, 3-8, "Tolkien the Man" từ TOLKIEN AND THE SILMARILLION'". Xem <a class="external text" href="http://www.facebook.com/groups/TheTolkienSociety.EducationalCharity/permalink/10157132379411068/?comment_id=10157132852931068&amp;comment_tracking=%7B%22tn%22%3A%22R%22%7D" rel="noreferrer noopener" target="_blank">thảo luận</a> tại nhóm Facebook của Hiệp hội Tolkien (ngày 13 tháng 8 năm 2019).</span>
 </li>
 </ol></div></span>
 

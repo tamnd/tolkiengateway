@@ -30,13 +30,13 @@ images:
     - *La carte du Rohan, du Gondor et du Mordor* — Simon Ayrinhac
     - *La Nomenclature du Seigneur des Anneaux* — Lucas Zembrzuski
 - Tiểu luận
-    - *L'importance de [Christopher Tolkien](../C/Christopher_Tolkien.md) dans l'histoire du Seigneur des Anneaux* — Lucas Zembrzuski
+    - *L’importance de [Christopher Tolkien](../C/Christopher_Tolkien.md) dans l’histoire du Seigneur des Anneaux* — Lucas Zembrzuski
     - *De si discrets chi tiết : les Changements opérés par J.R.R. Tolkien entre la 1re et 2de édition du Seigneur des Anneaux* — [Damien Bador](../D/Damien_Bador.md)
     - *L’impact psychologique de l’Anneau Unique* — Marion Lucibello
-    - *Un espoir de fou : la Nature de l'Espoir dans Le Seigneur des Anneaux* — Elisabeth Laneyrie
-    - *Une Princesse illustre Le Seigneur des Anneaux : Ingahild Grathmer, Eric Fraser et la Folio Society* — Marie Bretagnolle
+    - *Un espoir de fou : la nature de l’Espoir dans Le Seigneur des Anneaux* — Elisabeth Laneyrie
+    - *Une princesse illustre Le Seigneur des Anneaux : Ingahild Grathmer, Eric Fraser et la Folio Society* — Marie Bretagnolle
 - Giảm căng thẳng
-    - *Du Brave de Mestres Bolgeurre et Boffine* — Vincent Plancher
+    - *Du courage de mestres Bolgeurre et Boffine* — Vincent Plancher
     - *Câu đố : Sự khác biệt trong Le Seigneur des Anneaux de J.R.R. Tolkien et l'adaptation cinématographique de Peter Jackson* — Antoine Palama & Audrey Morelle
 
 <br>
@@ -45,20 +45,20 @@ images:
 
 - Biên tập - Antoine Palama
 - Tin tức
-    - *The Lord of the Rings bằng tiếng Pháp: nên mua phiên bản nào?* - Anastasie Hallouin
+    - *The Lord of the Rings in French: which edition to buy?* - Anastasie Hallouin
 - Tóm tắt
-    - *Nguồn gốc của The Lord of the Rings* - Quentin Feltgen
-    - *Bản đồ Rohan, Gondor và Mordor* - Simon Ayrinhac
-    - *Danh pháp của The Lord of the Rings* - Lucas Zembrzuski
+    - *The genesis of The Lord of the Rings* - Quentin Feltgen
+    - *The map of Rohan, Gondor and Mordor* - Simon Ayrinhac
+    - *The Nomenclature of The Lord of the Rings* - Lucas Zembrzuski
 - Tiểu luận
-    - *Tầm quan trọng của Christopher Tolkien trong lịch sử The Lord of the Rings* - Lucas Zembrzuski
-    - *Những chi tiết kín đáo như vậy: những thay đổi được thực hiện bởi J.R.R. Tolkien giữa phiên bản 1 và 2 của The Lord of the Rings* - Damien Bador
-    - *Tác động tâm lý của The One Nhẫn* - Marion Lucibello
-    - *Hy vọng ngu ngốc: bản chất của Hy vọng trong The Lord of the Rings* - Elisabeth Laneyrie
-    - *Minh họa một nàng công chúa The Lord of the Rings: Ingahild Grathmer, Eric Fraser và Hội Folio* - Marie Bretagnolle
+    - *The importance of Christopher Tolkien in the history of The Lord of the Rings* - Lucas Zembrzuski
+    - *Such discreet details: the changes made by J.R.R. Tolkien between the 1st and 2nd editions of The Lord of the Rings* - Damien Bador
+    - *The psychological impact of the One Ring* - Marion Lucibello
+    - *A fool's hope: the nature of Hope in The Lord of the Rings* - Elisabeth Laneyrie
+    - *A Princess Illustrates The Lord of the Rings: Ingahild Grathmer, Eric Fraser and the Folio Society* - Marie Bretagnolle
 - Thư giãn
-    - *Sự dũng cảm của Mestres Bolgeurre và Boffine* - Vincent Plancher
-    - *Câu đố: Sự khác biệt giữa The Lord of the Rings của J.R.R. Tolkien và phim chuyển thể của Peter Jackson* - Antoine Palama & Audrey Morelle
+    - *The courage of Mestres Bolgeurre and Boffine* - Vincent Plancher
+    - *Câu hỏi: Sự khác biệt giữa Chúa tể của những chiếc nhẫn của J.R.R. Tolkien và phim chuyển thể của Peter Jackson* - Antoine Palama & Audrey Morelle
 
 <br>
 

@@ -40,15 +40,15 @@ images:
 <p class="tg-quote-footer"><cite><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a></cite></p>
 </blockquote></div></div>
 
-**Eglamar** là một khu vực chính ở [Falas](../F/Falas.md), bao gồm toàn bộ [biển](../B/Belegaer.md) từ [Mũi Andras](../C/Cape_Andras.md) về phía tây bắc đến tận mũi đất [Ras Mewrim](../R/Ras_Mewrim.md) ở phía đông nam.<sup id="cite_ref-Egla_1-0" class="reference"><a href="#cite_note-Egla-1">[1]</a></sup> Vùng Eglamar cũng bao gồm [thiên đường](../H/Havens_of_the_Falas.md) của [Círdan](../C/Círdan.md) tại [Brithombar](../B/Brithombar.md) và [Eglarest](Eglarest.md), hai thành phố quan trọng nhất của [Falathrim](../F/Falathrim.md).<sup id="cite_ref-Egla_1-1" class="reference"><a href="#cite_note-Egla-1">[1]</a></sup>
+**Eglamar** là một khu vực chính ở [Falas](../F/Falas.md), bao trùm toàn bộ [biển](../B/Belegaer.md) từ [Mũi Andras](../C/Cape_Andras.md) về phía tây bắc đến tận mũi đất [Ras Mewrim](../R/Ras_Mewrim.md) ở phía đông nam.<sup id="cite_ref-Egla_1-0" class="reference"><a href="#cite_note-Egla-1">[1]</a></sup> Vùng Eglamar cũng bao gồm [thiên đường](../H/Havens_of_the_Falas.md) của [Círdan](../C/Círdan.md) tại [Brithombar](../B/Brithombar.md) và [Eglarest](Eglarest.md), hai thành phố quan trọng nhất của [Falathrim](../F/Falathrim.md).<sup id="cite_ref-Egla_1-1" class="reference"><a href="#cite_note-Egla-1">[1]</a></sup>
 
 Eglamar cũng là nơi [Finrod](../F/Finrod.md) xây dựng tháp [Barad Nimras](../B/Barad_Nimras.md) trên mũi phía tây Eglarest, đề phòng một cuộc tấn công hải quân tiềm ẩn của [Morgoth](../M/Morgoth.md) - tuy nhiên, một cuộc tấn công như vậy chưa bao giờ xảy ra.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Tuy nhiên, Eglamar chỉ được đặt tên trên *[the Second 'Silmarillion' Map](../T/The_Second_'Silmarillion'_Map.md)*,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> tạo cơ sở cho [bản đồ Beleriand](../M/Map_of_Beleriand_and_the_Lands_to_the_North.md) trong *[Silmarillion](../S/Silmarillion.md)*,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> được xuất bản mặc dù cả Eglamar và Ras Mewrim đều không được gắn nhãn trên bản đồ *Silmarillion* được xuất bản.
+Tuy nhiên, Eglamar chỉ được đặt tên trên *[the Second 'Silmarillion' Map](../T/The_Second_'Silmarillion'_Map.md)*,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> là cơ sở cho [bản đồ Beleriand](../M/Map_of_Beleriand_and_the_Lands_to_the_North.md) trong *[Silmarillion](../S/Silmarillion.md)*,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> được xuất bản mặc dù cả Eglamar và Ras Mewrim đều không được dán nhãn trên bản đồ *Silmarillion* được xuất bản.
 
 ## Từ nguyên {#Etymology}
 
-Tên *Eglamar* có trong [Sindarin](../S/Sindarin.md), có nghĩa là "Ngôi nhà của [Eglain](Eglain.md)". Nó bao gồm dạng tiền tố *Egla-* (từ <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Eglan&amp;action=edit&amp;redlink=1" title="Eglan (page does not exist)">Eglan</a></i>, nghĩa là "Bị bỏ rơi Tiên") + *[bar](../B/Bar.md)* ("nhà").<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Tên *Eglamar* có trong [Sindarin](../S/Sindarin.md), có nghĩa là "Quê hương của [Eglain](Eglain.md)". Nó bao gồm dạng tiền tố *Egla-* (từ <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Eglan&amp;action=edit&amp;redlink=1" title="Eglan (page does not exist)">Eglan</a></i>, nghĩa là "Yêu tinh bị bỏ rơi") + *[bar](../B/Bar.md)* ("nhà").<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 <span></span>
 

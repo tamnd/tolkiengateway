@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "House of Fingolfin"
 ---
 
-Chuyển hướng đến [Gia tộc Fingolfin](House_of_Fingolfin.md).
+Chuyển hướng tới [Nhà của Fingolfin](House_of_Fingolfin.md).

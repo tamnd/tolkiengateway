@@ -18,7 +18,7 @@ langlinks:
     url: "https://kontu.wiki/Harany%C3%AB"
 ---
 
-**Haranyë** là thuật ngữ lịch được sử dụng trong bối cảnh [Vua Tính toán](../K/King's_Reckoning.md). Có lẽ là tên của năm cuối cùng của thế kỷ.<sup id="cite_ref-D2_1-0" class="reference"><a href="#cite_note-D2-1">[1]</a></sup>
+**Haranyë** là thuật ngữ lịch được sử dụng trong bối cảnh [Sự tính toán của nhà vua](../K/King's_Reckoning.md). Có lẽ là tên của năm cuối cùng của thế kỷ.<sup id="cite_ref-D2_1-0" class="reference"><a href="#cite_note-D2-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -30,7 +30,7 @@ langlinks:
 
 Từ này rõ ràng là [Quenya](../Q/Quenya.md), nhưng có từ nguyên không chắc chắn.
 
-[Helge Fauskanger](Helge_Fauskanger.md) lưu ý rằng cách diễn đạt của Tolkien không làm rõ liệu từ này mô tả "\[năm\] cuối cùng của một thế kỷ" hay bản dịch của "thế kỷ".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+[Helge Fauskanger](Helge_Fauskanger.md) lưu ý rằng cách diễn đạt của Tolkien không làm rõ liệu từ này mô tả "\[năm\] cuối cùng của một thế kỷ" hay bản dịch của chính "thế kỷ".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <a class="external text" href="http://eldamo.org/content/words/word-2462020639.html" rel="noreferrer noopener" target="_blank">mục nhập</a> của từ ở *[Eldamo](../E/Eldamo.md)* gọi nó là "thế kỷ". <span></span>
 

@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Humphries, Jeremiah"
 ---
 
-- Jeremiah Humphries đã vui lòng cho phép anh ấy sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Jeremiah_Humphries.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
+- Jeremiah Humphries đã vui lòng cho phép ông sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Jeremiah_Humphries.md) trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
 - Ngày: 18 tháng 6 năm 2015
 - Người dùng đã xin phép qua email: [Người dùng:Woolly Mammoth](https://tolkiengateway.net/wiki/User:Woolly_Mammoth)

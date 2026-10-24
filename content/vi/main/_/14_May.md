@@ -65,7 +65,7 @@ Sự kiện xảy ra vào ngày 14 tháng 5.
 
 - **[1944](1944.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 69](../L/Letter_69.md).
 - **[1969](1969.md)** – Nữ diễn viên [Cate Blanchett](../C/Cate_Blanchett.md) ra đời.
-- **[1996](1996.md)** – [Vera Chapman](../V/Vera_Chapman.md) chết.
+- **[1996](1996.md)** – [Vera Chapman](../V/Vera_Chapman.md) qua đời.
 
 ## Trong Arda {#In_Arda}
 

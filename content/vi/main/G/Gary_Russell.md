@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Russell, Gary"
 ---
 
-**Gary Russell** ([tháng Chín 18](../_/18_September.md), [1963](../_/1963.md)) là một nhà văn tự do và từng là diễn viên nhí (trong danh tiếng của "<a class="external text" href="http://www.imdb.com/title/tt0078611/" rel="noreferrer noopener" target="_blank">Famous Five</a>"), từng là biên kịch cho các loạt phim Marvel và Dr. Who. Anh ấy đã viết một số cuốn sách liên quan đến [phim](<../T/The_Lord_of_the_Rings_(film_series).md>) của [Peter Jackson](../P/Peter_Jackson.md).
+**Gary Russell** ([September 18](../_/18_September.md), [1963](../_/1963.md)) is a freelance writer and former child actor (of "<a class="external text" href="http://www.imdb.com/title/tt0078611/" rel="noreferrer noopener" target="_blank">Famous Five</a>" fame), who has worked as a writer for franchises as Marvel and Dr. Who. He wrote several books relating to [Peter Jackson](../P/Peter_Jackson.md)'s [movies](<../T/The_Lord_of_the_Rings_(film_series).md>).
 
 ## Trích dẫn {#Quotes}
 

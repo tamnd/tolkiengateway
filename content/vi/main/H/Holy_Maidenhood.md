@@ -16,11 +16,11 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/H/Holy_Maidenhood.png.md"><img src="https://tolkiengateway.net/w/images/thumb/8/8d/Holy_Maidenhood.png/300px-Holy_Maidenhood.png" decoding="async" loading="lazy" width="300" height="380" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/8/8d/Holy_Maidenhood.png 1.5x" data-file-width="332" data-file-height="421"/></a><figcaption>Excerpt from &#34;Holy Maidenhood&#34;.</figcaption></figure>
 
-"**Holy Maidenhood**" là bài đánh giá của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) về ấn bản E.E.T.S. của *Hali Meidenhad: Bài giảng bằng văn xuôi ám chỉ của thế kỷ thứ mười ba* do F.J. Furnivall biên tập.
+"**Holy Maidenhood**" là bài đánh giá của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) về ấn bản E.E.T.S. của *Hali Meidenhad: An Alliterative Prose Homily of the Thirteenth Century* do F.J. Furnivall biên tập.
 
 Bài đánh giá được xuất bản vào [26 tháng 4](../_/26_April.md) [1923](../_/1923.md) trong *[The Times Literary Supplement](../T/The_Times_Literary_Supplement.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Vào ngày 28 tháng 6 năm 2017, một <a class="external text" href="http://www.the-tls.co.uk/articles/public/tolkien-from-the-archives/" rel="noreferrer noopener" target="_blank">phiên bản chỉnh sửa của bài đánh giá của Tolkien</a> (hiện có tựa đề "Trong niềm hạnh phúc đầu tiên của cô ấy") đã được xuất bản trực tuyến trên *The Times Literary Supplement*, xuất hiện trên bản in của tạp chí vào ngày 30 tháng 6 năm 2017 (trang 34).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Vào ngày 28 tháng 6 năm 2017, một <a class="external text" href="http://www.the-tls.co.uk/articles/public/tolkien-from-the-archives/" rel="noreferrer noopener" target="_blank">phiên bản chỉnh sửa của bài đánh giá của Tolkien</a> (hiện có tựa đề "Trong niềm hạnh phúc đầu tiên của bà") đã được xuất bản trực tuyến trên *The Times Literary Supplement*, xuất hiện trên bản in của tạp chí vào ngày 30 tháng 6 năm 2017 (trang 34).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

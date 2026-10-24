@@ -37,11 +37,11 @@ infobox:
 
 **Kiryandil** là cha của [Eärnil II](../E/Eärnil_II.md), theo phiên bản dự thảo của *[Appendices](../A/Appendices.md)*.<sup id="cite_ref-Man_2-1" class="reference"><a href="#cite_note-Man-2">[1]</a></sup>
 
-Trong <a class="new" href="https://tolkiengateway.net/w/index.php?title=Manuscript_A_(The_Southern_Line)&amp;action=edit&amp;redlink=1" title="Manuscript A (The Southern Line) (page does not exist)">bản thảo</a> ban đầu về thứ sẽ trở thành *[Appendix A](../A/Appendix_A.md)* của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, Eärnil II được giới thiệu là con trai của một người đàn ông tên là Kiryandil, người này lần lượt là con trai của [Siriondil](<../S/Siriondil_(son_of_Calimmacil).md>), con trai của [Kalimmakil](../C/Calimmacil.md),<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 2]</a></sup> con trai của vua [Narmakil II](../N/Narmacil_II.md).<sup id="cite_ref-Man_2-2" class="reference"><a href="#cite_note-Man-2">[1]</a></sup>
+Trong <a class="new" href="https://tolkiengateway.net/w/index.php?title=Manuscript_A_(The_Southern_Line)&amp;action=edit&amp;redlink=1" title="Manuscript A (The Southern Line) (page does not exist)">bản thảo</a> ban đầu về những gì sẽ trở thành *[Appendix A](../A/Appendix_A.md)* của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, Eärnil II được giới thiệu là con trai của một người đàn ông tên là Kiryandil, người này lần lượt là con trai của [Siriondil](<../S/Siriondil_(son_of_Calimmacil).md>), con trai của [Kalimmakil](../C/Calimmacil.md),<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 2]</a></sup> con trai của vua [Narmakil II](../N/Narmacil_II.md).<sup id="cite_ref-Man_2-2" class="reference"><a href="#cite_note-Man-2">[1]</a></sup>
 
 Tuy nhiên, ngay sau đó, nhân vật Kiryandil biến mất hoàn toàn, thay vào đó Eärnil trở thành con trai của Siriondil, con trai của Kalimmakil, con trai của Narmakil II.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[2]</a></sup>
 
-Tuy nhiên, cuối cùng, trong phiên bản được xuất bản của *Appendix A*, phả hệ của Eärnil lại một lần nữa thay đổi - ở đó anh ta được mô tả là con trai của Siriondil, con trai của Calimmacil, con trai của [Arciryas](../A/Arciryas.md), một nhân vật mới được tạo ra được hình dung là anh trai của vua Narmacil II.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[3]</a></sup>
+Tuy nhiên, cuối cùng, trong phiên bản được xuất bản của *Appendix A*, phả hệ của Eärnil lại một lần nữa thay đổi - ở đó ông ta được mô tả là con trai của Siriondil, con trai của Calimmacil, con trai của [Arciryas](../A/Arciryas.md), một nhân vật mới được tạo ra được hình dung là anh trai của vua Narmacil II.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -64,9 +64,9 @@ Tuy nhiên, cuối cùng, trong phiên bản được xuất bản của *Append
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Trong <i>Bản thảo A</i> của Dòng phía Nam, người ta nói rằng Eärnil, con trai của Kiryandil, đã trở thành <a href="King_of_Gondor.md" title="King of Gondor">Vua Gondor</a> trong <a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_1960.md" title="Third Age 1960">1960</a>. Vì vậy, có thể Kiryandil đã chết vào thời điểm đó, nếu không thì có thể ông đã trở thành vị vua mới.</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Trong <i>Bản thảo A</i> của Dòng phía Nam, người ta nói rằng Eärnil, con trai của Kiryandil, đã trở thành <a href="King_of_Gondor.md" title="King of Gondor">Vua của Gondor</a> vào năm <a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_1960.md" title="Third Age 1960">1960</a>. Vì vậy, có thể Kiryandil đã chết vào thời điểm đó, nếu không thì có thể ông đã trở thành vị vua mới.</span>
 </li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Các dạng <i>Kalimmakil</i> và <i>Narmakil</i> là cách viết trước đó của <i>Calimmacil</i> và <i>Narmacil</i>, tương ứng.</span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Các dạng <i>Kalimmakil</i> và <i>Narmakil</i> là cách viết trước đây của <i>Calimmacil</i> và <i>Narmacil</i>, tương ứng.</span>
 </li>
 </ol></div></span>
 

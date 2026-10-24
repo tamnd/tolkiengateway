@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Alwin Arundel Lowdham"
 ---
 
-Chuyển hướng đến [Alwin Arundel Lowdham](Alwin_Arundel_Lowdham.md).
+Chuyển hướng tới [Alwin Arundel Lowdham](Alwin_Arundel_Lowdham.md).

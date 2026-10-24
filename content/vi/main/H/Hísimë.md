@@ -29,9 +29,9 @@ langlinks:
     url: "https://kontu.wiki/H%C3%ADsim%C3%AB"
 ---
 
-**Hísimë**, sau [Narquelië](../N/Narquelië.md) và trước tháng trước, [Ringarë](../R/Ringarë.md), là tháng thứ 11 trong năm theo [Các vị vua'](../K/Kings'_Reckoning.md) và [Tính toán của quản gia](../S/Stewards'_Reckoning.md) của [Gondor](../G/Gondor.md) và là tháng thứ 8 theo [Tính toán mới](../N/New_Reckoning.md). Hísimë trong Sự tính toán của Vua và Quản lý tương ứng với [Blotmath](../B/Blotmath.md) trong [Lịch Shire](../S/Shire_Calendar.md) (khoảng [22 tháng 10](../_/22_October.md) hiện đại đến [20 tháng 11](../_/20_November.md)).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Hísimë**, sau [Narquelië](../N/Narquelië.md) và trước tháng trước, [Ringarë](../R/Ringarë.md), là tháng thứ 11 trong năm theo [Các vị vua'](../K/Kings'_Reckoning.md) và [Tính toán quản gia](../S/Stewards'_Reckoning.md) của [Gondor](../G/Gondor.md) và là tháng thứ 8 theo [New Tính toán](../N/New_Reckoning.md). Hísimë trong Sự tính toán của Vua và Quản lý tương ứng với [Blotmath](../B/Blotmath.md) trong [Lịch Quận](../S/Shire_Calendar.md) (khoảng [22 tháng 10](../_/22_October.md) hiện đại đến [20 tháng 11](../_/20_November.md)).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Trong số [Dúnedain](../D/Dúnedain.md) nó được đặt tên trong [Sindarin](../S/Sindarin.md) *[Hithui](Hithui.md)*. <span></span>
+Trong số [Dúnedain](../D/Dúnedain.md) nó được đặt tên bằng [Sindarin](../S/Sindarin.md) *[Hithui](Hithui.md)*. <span></span>
 
 ## Tài liệu tham khảo {#References}
 

@@ -49,7 +49,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Brandir là con lớn của [Arachon](../A/Arachon.md) và [Bregil](Bregil.md). Em gái anh [Beldis](Beldis.md) kết hôn với [Handir](../H/Handir.md) người [Brethil](Brethil.md) và đứa con của họ, được gọi là [Brandir Kẻ què](Brandir.md), được đặt theo tên chú của anh.<sup id="cite_ref-WJ_1-0" class="reference"><a href="#cite_note-WJ-1">[1]</a></sup>
+Brandir là con lớn của [Arachon](../A/Arachon.md) và [Bregil](Bregil.md). Em gái anh [Beldis](Beldis.md) kết hôn với [Handir](../H/Handir.md) của [Brethil](Brethil.md) và đứa con của họ, được gọi là [Brandir the Lame](Brandir.md), được đặt theo tên chú của anh.<sup id="cite_ref-WJ_1-0" class="reference"><a href="#cite_note-WJ-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

@@ -31,13 +31,13 @@ infobox:
 
 ## Nền {#Background}
 
-Tolkien đã nhận được [Huân chương của Đế quốc Anh](../O/Order_of_the_British_Empire.md) tại Cung điện Buckingham vào [28 tháng 3](../_/28_March.md) [1972](../_/1972.md). [Rayner Unwin](../R/Rayner_Unwin.md) đã vinh danh anh ấy bằng bữa tối tại Câu lạc bộ Garrick và [Allen và Unwin](../A/Allen_and_Unwin.md) đã sắp xếp kỳ nghỉ của họ tại khách sạn Brown's ở London.
+Tolkien đã nhận được [Huân chương của Đế quốc Anh](../O/Order_of_the_British_Empire.md) tại Cung điện Buckingham vào [28 tháng 3](../_/28_March.md) [1972](../_/1972.md). [Rayner Unwin](../R/Rayner_Unwin.md) đã vinh dự tổ chức bữa tối cho ông tại Câu lạc bộ Garrick và [Allen và Unwin](../A/Allen_and_Unwin.md) đã sắp xếp kỳ nghỉ của họ tại khách sạn Brown's ở London.
 
 ## Tóm tắt {#Summary}
 
-Tolkien rất biết ơn sự giúp đỡ của Rayner, cho chính anh ấy, [John Tolkien](../J/John_Tolkien.md) và [Priscilla Tolkien](../P/Priscilla_Tolkien.md). Anh ấy rất thích bữa tiệc, chỗ ở khách sạn rất tuyệt vời, và khi trời mưa lúc 6 giờ sáng, anh ấy biết rằng sau đó trời sẽ tạnh ráo cho dịp này. Các nghi lễ bên trong Cung điện có phần tẻ nhạt và hài hước, nhưng Tolkien đã vô cùng xúc động trước cuộc gặp ngắn ngủi của ông với Nữ hoàng.
+Tolkien rất biết ơn sự giúp đỡ của Rayner, cho chính ông, [John Tolkien](../J/John_Tolkien.md) và [Priscilla Tolkien](../P/Priscilla_Tolkien.md). Ông rất thích bữa tiệc, chỗ ở khách sạn rất tuyệt vời, và khi trời mưa lúc 6 giờ sáng, ông biết rằng sau đó trời sẽ tạnh ráo cho dịp này. Các buổi lễ bên trong Cung điện hơi tẻ nhạt và hài hước, nhưng Tolkien đã vô cùng xúc động trước cuộc gặp ngắn ngủi với Nữ hoàng.
 
-Tolkien hỏi liệu Rayner có sử dụng tên thánh của Tolkien không vì giờ đây họ đã là những người bạn rất lâu năm và thân thiết (anh ấy đã đưa ra yêu cầu tương tự trong [Thư 281](Letter_281.md)).
+Tolkien hỏi liệu Rayner có sử dụng tên thánh của Tolkien không vì họ giờ đã là những người bạn rất cũ và thân thiết (ông đã đưa ra yêu cầu tương tự trong [Thư 281](Letter_281.md)).
 
 <br>
 

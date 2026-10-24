@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lord of the Rings: The Two Towers Visual Companion"
 ---
 
-Chuyển hướng đến [The Lord of the Rings: The Two Towers Đồng hành trực quan](The_Lord_of_the_Rings%253A_The_Two_Towers_Visual_Companion.md).
+Chuyển hướng đến [The Lord of the Rings: The Two Towers Visual Companion](The_Lord_of_the_Rings%253A_The_Two_Towers_Visual_Companion.md).

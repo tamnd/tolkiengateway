@@ -12,7 +12,7 @@ categories:
   - "Tolkien Gateway"
 ---
 
-**Tolkien Gateway Ứng dụng Android** là một ứng dụng có sẵn trên các thiết bị Android để truy cập trang web Tolkien Gateway. Nó cung cấp một menu điều hướng bổ sung bằng cách vuốt từ bên trái màn hình. Các cải tiến trong tương lai được lên kế hoạch bao gồm truy cập ngoại tuyến và bố cục đơn giản hóa.
+**Ứng dụng Android Tolkien Gateway** là một ứng dụng có sẵn trên các thiết bị Android để truy cập trang web Tolkien Gateway. Nó cung cấp một menu điều hướng bổ sung bằng cách vuốt từ bên trái màn hình. Các cải tiến trong tương lai được lên kế hoạch bao gồm truy cập ngoại tuyến và bố cục đơn giản hóa.
 
 Ứng dụng hiện đang trong giai đoạn thử nghiệm beta. Bất kỳ ai cũng có thể tham gia bằng cách điền vào <a class="external text" href="https://docs.google.com/forms/d/e/1FAIpQLSdTIWWLTaQ5VooZ8bD4hwbfTY7wHRt6lFx9wCizAQYYZDCbHQ/viewform" rel="noreferrer noopener" target="_blank">biểu mẫu này</a>
 

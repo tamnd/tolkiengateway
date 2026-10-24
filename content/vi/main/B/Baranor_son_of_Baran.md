@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Baranor (son of Baran)"
 ---
 
-Chuyển hướng đến [Baranor (con trai của Baran)](<Baranor_(son_of_Baran).md>).
+Chuyển hướng tới [Baranor (con trai của Baran)](<Baranor_(son_of_Baran).md>).

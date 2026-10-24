@@ -12,7 +12,7 @@ categories:
   - "Dutch organizations"
 ---
 
-**Ennorandirrim** là một nhóm Trung Địa nhập vai hành động trực tiếp có trụ sở tại Hà Lan, chủ yếu bắt nguồn từ [Unquendor](../U/Unquendor.md) và ở một mức độ hạn chế [Elanor (xã hội)](<Elanor_(society).md>).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Nhóm chủ yếu hoạt động tại các sự kiện [fandom](../F/Fandom.md) giả tưởng lớn như Elfia và Tolkien Tage. Đôi khi, nó cũng tham dự các sự kiện Unquendor và Elanor.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Ennorandirrim** là một nhóm nhập vai hành động trực tiếp ở Trung Địa có trụ sở tại Hà Lan, chủ yếu có nguồn gốc từ [Unquendor](../U/Unquendor.md) và ở một mức độ hạn chế [Elanor (xã hội)](<Elanor_(society).md>).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Nhóm chủ yếu hoạt động tại các sự kiện [fandom](../F/Fandom.md) giả tưởng lớn như Elfia và Tolkien Tage. Đôi khi, nó cũng tham dự các sự kiện Unquendor và Elanor.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 Nhóm còn xuất bản bản tin điện tử một cách không thường xuyên.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> <span></span>
 

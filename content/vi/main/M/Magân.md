@@ -33,4 +33,4 @@ Cuối cùng, thân phải liên quan đến [Elvish](../E/Elvish.md) [Root](../
 ## Có cùng nguồn gốc {#Cognates}
 
 - [Quenya](../Q/Quenya.md) <i><a href="Mahtan.md" title="Mahtan">Mahtan</a>, <a class="new" href="https://tolkiengateway.net/w/index.php?title=Tano&amp;action=edit&amp;redlink=1" title="Tano (page does not exist)">tano</a></i>
-- [Sindarin](../S/Sindarin.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Tan&amp;action=edit&amp;redlink=1" title="Tan (page does not exist)">tan</a></i>
+- [tiếng Sindarin](../S/Sindarin.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Tan&amp;action=edit&amp;redlink=1" title="Tan (page does not exist)">tan</a></i>

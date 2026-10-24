@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Kaluta, Michael"
 ---
 
-- [Michael Kaluta](../../main/M/Michael_Kaluta.md) đã vui lòng cho phép anh ấy sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Michael_Kaluta.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
+- [Michael Kaluta](../../main/M/Michael_Kaluta.md) đã vui lòng cho phép anh sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Michael_Kaluta.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Ngày: 9 tháng 1 năm 2012
 - Người dùng đã xin phép qua email: [Người dùng: Mith](https://tolkiengateway.net/wiki/User:Mith)

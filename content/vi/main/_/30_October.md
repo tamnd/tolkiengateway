@@ -63,28 +63,28 @@ Sự kiện xảy ra vào ngày 30 tháng 10
 
 ## Trên Trái đất {#On_Earth}
 
-- **[1920](1920.md)** - Diễn viên [Norman Bird](../N/Norman_Bird.md) ra đời.
-- **[1931](1931.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được bổ nhiệm làm giám thị cho B.Litt sinh viên [A.F. Colborn](../A/A.F._Colborn.md).
-- **[1936](1936.md)** - [Rayner Unwin](../R/Rayner_Unwin.md), 10 tuổi, viết "[Báo cáo về Hobbit](../R/Report_on_the_Hobbit.md)".
-- **[1965](1965.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư gửi cháu nội Michael George](<../L/Letter_to_Michael_George_Tolkien_(30_October_1965).md>), xuất bản dưới tên [Thư 279](../L/Letter_279.md).
-- **[1965](1965.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư cho J.L.N. O'Loughlin](<../L/Letter_to_J.L.N._O'Loughlin_(30_October_1965).md>).
-- **[1995](1995.md)** - Diễn viên [Andy Pessoa](../A/Andy_Pessoa.md) ra đời.
-- **[2001](2001.md)** - Sách nhại *[The Roadkill of Middle Earth](../T/The_Roadkill_of_Middle_Earth.md)* được xuất bản.
-- **[2005](2005.md)** - [RingCon](../R/RingCon.md) V tại <a class="extiw" href="http://en.wikipedia.org/wiki/SeaTac,_Washington" title="wikipedia:SeaTac, Washington">SeaTac, Washington</a>.
-- **[2006](2006.md)** - *[Finding God in The Hobbit](../F/Finding_God_in_The_Hobbit.md)* được xuất bản.
-- **[2010](2010.md)** - Mereth Aderthad XVI, hay "EstelCon" của Hiệp hội Tolkien tiếng Tây Ban Nha ở <a class="extiw" href="http://en.wikipedia.org/wiki/Valenica" title="wikipedia:Valenica">Valenica</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Spain" title="wikipedia:Spain">Tây Ban Nha</a>.
-- **[2010](2010.md)** - *[Looking for the King: An Inklings Novel](../L/Looking_for_the_King.md)* được xuất bản.
-- **[2014](2014.md)** - [The Hobbit *and Tolkien's Mythology*](../T/The_Hobbit_and_Tolkien's_Mythology.md) được xuất bản.
-- **[2014](2014.md)** - *[Arda Inhabited](../A/Arda_Inhabited.md)* được xuất bản.
+- **[1920](1920.md)** - Actor [Norman Bird](../N/Norman_Bird.md) is born.
+- **[1931](1931.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) is appointed supervisor for B.Litt student [A.F. Colborn](../A/A.F._Colborn.md).
+- **[1936](1936.md)** - [Rayner Unwin](../R/Rayner_Unwin.md), aged 10, writes a "[Report on the Hobbit](../R/Report_on_the_Hobbit.md)".
+- **[1965](1965.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) writes [a letter to his grandson Michael George](<../L/Letter_to_Michael_George_Tolkien_(30_October_1965).md>), published as [Letter 279](../L/Letter_279.md).
+- **[1965](1965.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) writes [a letter to J.L.N. O'Loughlin](<../L/Letter_to_J.L.N._O'Loughlin_(30_October_1965).md>).
+- **[1995](1995.md)** - Actor [Andy Pessoa](../A/Andy_Pessoa.md) is born.
+- **[2001](2001.md)** - The parody book *[The Roadkill of Middle Earth](../T/The_Roadkill_of_Middle_Earth.md)* is published.
+- **[2005](2005.md)** - [RingCon](../R/RingCon.md) V at <a class="extiw" href="http://en.wikipedia.org/wiki/SeaTac,_Washington" title="wikipedia:SeaTac, Washington">SeaTac, Washington</a>.
+- **[2006](2006.md)** - *[Finding God in The Hobbit](../F/Finding_God_in_The_Hobbit.md)* is published.
+- **[2010](2010.md)** - Mereth Aderthad XVI, or "EstelCon" of the Spanish Tolkien Society in <a class="extiw" href="http://en.wikipedia.org/wiki/Valenica" title="wikipedia:Valenica">Valenica</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Spain" title="wikipedia:Spain">Spain</a>.
+- **[2010](2010.md)** - *[Looking for the King: An Inklings Novel](../L/Looking_for_the_King.md)* is published.
+- **[2014](2014.md)** - [The Hobbit *and Tolkien's Mythology*](../T/The_Hobbit_and_Tolkien's_Mythology.md) is published.
+- **[2014](2014.md)** - *[Arda Inhabited](../A/Arda_Inhabited.md)* is published.
 
 ## Trong Arda {#In_Arda}
 
 - [F.A.](../F/First_Age.md) [495](../F/First_Age_495.md):
-    - [Tuor](../T/Tuor.md), được hướng dẫn bởi [Voronwë](../V/Voronwë.md), di chuyển đến [Gondolin](../G/Gondolin.md) để chuyển thông điệp của [Ulmo](../U/Ulmo.md)tới [Turgon](../T/Turgon.md).
+    - [Tuor](../T/Tuor.md), được hướng dẫn bởi [Voronwë](../V/Voronwë.md), đi đến [Gondolin](../G/Gondolin.md) để chuyển thông điệp của [Ulmo](../U/Ulmo.md) tới [Turgon](../T/Turgon.md).
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi ở [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).
+    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi tại [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - [Gandalf](../G/Gandalf.md) và [bốn người Hobbit](../T/Travellers.md) rời đi [Bree](../B/Bree.md).<sup id="cite_ref-chief_1-0" class="reference"><a href="#cite_note-chief-1">[1]</a></sup> Gandalf lên đường thăm [Tom Bombadil](../T/Tom_Bombadil.md).
+    - [Gandalf](../G/Gandalf.md) và [bốn người Hobbit](../T/Travellers.md) rời khỏi [Bree](../B/Bree.md).<sup id="cite_ref-chief_1-0" class="reference"><a href="#cite_note-chief-1">[1]</a></sup> Gandalf rời đi để thăm [Tom Bombadil](../T/Tom_Bombadil.md).
     - Đêm: Lữ khách đến [Cầu Brandywine](../B/Brandywine_Bridge.md).<sup id="cite_ref-chief_1-1" class="reference"><a href="#cite_note-chief-1">[1]</a></sup>
     - Trăng tròn<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 

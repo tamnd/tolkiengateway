@@ -61,7 +61,7 @@ images:
 </div><div class="template-month__footer"><div class="tg-button"><a href="../J/January.md" title="January">Jan</a></div><div class="tg-button"><a href="../F/February.md" title="February">Feb</a></div><div class="tg-button"><a href="../M/March.md" title="March">Mar</a></div><div class="tg-button"><a href="../A/April.md" title="April">Apr</a></div><div class="tg-button"><a href="../M/May.md" title="May">May</a></div><div class="tg-button"><a href="../J/June.md" title="June">Jun</a></div><div class="tg-button"><a href="../J/July.md" title="July">Jul</a></div><div class="tg-button"><a href="../A/August.md" title="August">Aug</a></div><div class="tg-button"><a href="../S/September.md" title="September">Sep</a></div><div class="tg-button"><a href="../O/October.md" title="October">Oct</a></div><div class="tg-button"><a href="../N/November.md" title="November">Nov</a></div><div class="tg-button"><a href="../D/December.md" title="December">Dec</a></div></div>
 </div>
 
-Sự kiện xảy ra vào ngày 8 tháng Chín.
+Sự kiện xảy ra vào ngày 8 tháng 9
 
 ## Trên Trái đất {#On_Earth}
 
@@ -76,11 +76,11 @@ Sự kiện xảy ra vào ngày 8 tháng Chín.
 - **[2008](2008.md)** - *[Tolkien's Oxford](../T/Tolkien's_Oxford.md)* được xuất bản.
 - **[2009](2009.md)** - *[Halifirien: The Hallowed Mountain](../H/Halifirien%253A_The_Hallowed_Mountain.md)* được phát hành trực tuyến.
 - **[2009](2009.md)** - [Tolkien Estate](../T/Tolkien_Estate.md), [The Tolkien Trust](../T/The_Tolkien_Trust.md) và [HarperCollins](../H/HarperCollins.md) giải quyết vụ kiện của họ với [New Line Cinema](../N/New_Line_Cinema.md) và [Công ty Saul Zaentz](../S/Saul_Zaentz_Company.md).
-- **[2010](2010.md)** - *[The Lord of the Rings Trực tuyến:](../T/The_Lord_of_the_Rings_Online.md) [Tập III: Allies of the Vua](../T/The_Lord_of_the_Rings_Online%253A_Siege_of_Mirkwood.md#Volume_III:_Allies_of_the_King)*, "Ride of the Grey Company" được phát hành ở Bắc Mỹ, bao gồm trò chơi miễn phí cho những người đăng ký hiện tại và trước đây.
+- **[2010](2010.md)** - *[The Lord of the Rings Online:](../T/The_Lord_of_the_Rings_Online.md) [Volume III: Allies of the King](../T/The_Lord_of_the_Rings_Online%253A_Siege_of_Mirkwood.md#Volume_III:_Allies_of_the_King)*, "Ride of the Grey Company" được phát hành ở Bắc Mỹ, bao gồm trò chơi miễn phí cho những người đăng ký hiện tại và trước đây.
 - **[2016](2016.md)** - [Oxonmoot 2016](../O/Oxonmoot_2016.md) tại <a class="external text" href="http://www.sant.ox.ac.uk" rel="noreferrer noopener" target="_blank">Trường Cao đẳng St Antony</a>.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Gandalf](../G/Gandalf.md) bị giam giữ bởi [Saruman](../S/Saruman.md) trên đỉnh của [Orthanc](../O/Orthanc.md).
+    - [Gandalf](../G/Gandalf.md) bị [Saruman](../S/Saruman.md) giam giữ trên đỉnh [Orthanc](../O/Orthanc.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.

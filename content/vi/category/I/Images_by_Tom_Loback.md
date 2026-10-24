@@ -14,4 +14,4 @@ sort_keys:
   "Images by artist": "Loback, Tom"
 ---
 
-Danh mục này liệt kê tất cả **hình ảnh theo [Tom Loback](../../main/T/Tom_Loback.md)**.
+Danh mục này liệt kê tất cả **hình ảnh của [Tom Loback](../../main/T/Tom_Loback.md)**.

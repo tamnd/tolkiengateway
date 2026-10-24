@@ -18,7 +18,7 @@ J.R.R. Tolkien rất phát triển ở nhiều cấp độ.
 
 <u>thơ</u> của ông rất nhiều, một số lượng lớn đã được xuất bản ở nhiều nơi. Một lựa chọn quan trọng trong số đó xuất hiện trong *[The Collected Poems of J.R.R. Tolkien](../T/The_Collected_Poems_of_J.R.R._Tolkien.md)*.
 
-Những <u>bức thư</u> của anh ấy rất phong phú, nhưng do tính chất chủ yếu mang tính cá nhân và thực tế là chúng chỉ là một *means of communication* trong thời đại mà các thông điệp *must* mang hình thức vật lý nên không phải lúc nào chúng cũng chứa đựng suy nghĩ sâu sắc. Do đó, danh mục *complete* của chúng là không cần thiết. Tuy nhiên, [một bộ sưu tập tốt](../T/The_Letters_of_J.R.R._Tolkien.md) vẫn tồn tại và có thể dự kiến ​​sẽ mở rộng bộ sưu tập này.
+Những <u>bức thư</u> của ông rất phong phú, nhưng do tính chất chủ yếu mang tính cá nhân và thực tế là chúng chỉ là một *means of communication* trong thời đại mà các thông điệp *must* mang hình thức vật lý nên không phải lúc nào chúng cũng chứa đựng suy nghĩ sâu sắc. Do đó, danh mục *complete* của chúng là không cần thiết. Tuy nhiên, [một bộ sưu tập tốt](../T/The_Letters_of_J.R.R._Tolkien.md) vẫn tồn tại và có thể dự kiến ​​sẽ mở rộng bộ sưu tập này.
 
 <u>tác phẩm nghệ thuật</u> của ông rất hấp dẫn và <u>bản thảo</u> thường gây hoang mang. Một số danh mục đã cung cấp cho chúng tôi một số chế độ xem tốt về chúng, chẳng hạn như *[Maker of Middle-earth](../T/Tolkien%253A_Maker_of_Middle-earth.md)* và *[The Art of the Manuscript](../J/J.R.R._Tolkien%253A_The_Art_of_the_Manuscript.md)*.
 
@@ -26,11 +26,11 @@ Tài liệu về <u>các phát minh ngôn ngữ</u> của ông rất phong phú 
 
 Vậy thì còn lại gì? Hai.
 
-Đầu tiên là <u>các bài tiểu luận</u>, <u>các bài đánh giá</u>của Tolkien và các ấn phẩm ngắn khác chỉ có độ dài bằng một <u>bài viết</u>. Những cuốn này đã xuất hiện trên nhiều tạp chí định kỳ hoặc dưới dạng tập sách nhỏ, một số được tái bản sau đó, một số khác thì không.
+Đầu tiên là <u>các bài tiểu luận</u>, <u>các bài đánh giá</u>của Tolkien và các ấn phẩm ngắn khác chỉ có độ dài bằng một <u>bài báo</u>. Những cuốn này đã xuất hiện trên nhiều tạp chí định kỳ hoặc dưới dạng tập sách nhỏ, một số được tái bản sau đó, một số khác thì không.
 
-Thứ hai là những "văn bản phụ" của Tolkien xuất hiện trong những cuốn sách không phải của anh ta, cụ thể là <u>lời nói đầu</u>, <u>chú thích mở đầu</u>, v.v.
+Thứ hai là những “văn bản nhỏ” của Tolkien xuất hiện trong những cuốn sách không phải của ông, cụ thể là <u>lời tựa</u>, <u>ghi chú mở đầu</u>, v.v.
 
-Chắc chắn là có rất nhiều phương tiện truyền thông khác có những đóng góp nhỏ hơn của Tolkien, chẳng hạn như <u>ghi chú</u> hoặc <u>trích dẫn</u>riêng lẻ. Nhưng trang này không theo đuổi đến mức đó vì cho rằng chúng quá nhỏ nhặt hoặc không phù hợp với mục đích chính nên không mang lại lợi nhuận.
+Chắc chắn là có rất nhiều phương tiện truyền thông khác có chứa những đóng góp thậm chí còn nhỏ hơn của Tolkien, chẳng hạn như <u>ghi chú</u> hoặc <u>trích dẫn</u>riêng lẻ. Nhưng trang này không theo đuổi đến mức đó vì cho rằng chúng quá nhỏ nhặt hoặc không phù hợp với mục đích chính nên không mang lại lợi nhuận.
 
 ## Tiểu luận, bài báo {#Essays_and_articles}
 
@@ -65,10 +65,10 @@ Chắc chắn là có rất nhiều phương tiện truyền thông khác có nh
     - "Chaucer với tư cách là một nhà ngữ văn", trong *Transactions of the Philological Society*<br>- (tiểu luận, in lại trong *[Tolkien Studies vol. 5](../T/Tolkien_Studies%253A_Volume_5.md)*)
 
 - 1937 —
-    - "Beowulf: Những con quái vật và những nhà phê bình", trong *Proceedings of the British Academy*<br>- (tiểu luận, in lại trong *[The Monsters and the Critics, and Other Essays](../T/The_Monsters_and_the_Critics,_and_Other_Essays.md)*, và dưới dạng *[Beowulf and the Critics](../B/Beowulf_and_the_Critics.md)*)
+    - "Beowulf: The Monsters and the Critics", trong *Proceedings of the British Academy*<br>- (tiểu luận, in lại trong *[The Monsters and the Critics, and Other Essays](../T/The_Monsters_and_the_Critics,_and_Other_Essays.md)* và dưới dạng *[Beowulf and the Critics](../B/Beowulf_and_the_Critics.md)*)
 
 - 1939 —
-    - "Câu chuyện của Reeve: Phiên bản được chuẩn bị để đọc tại 'Giải trí mùa hè'"<br>- (phiên bản *The Reeve's Tale*của Chaucer, được in thành sách nhỏ, in lại trong *[Tolkien Studies vol. 5](../T/Tolkien_Studies%253A_Volume_5.md)*)
+    - "Câu chuyện của Reeve: Phiên bản được chuẩn bị để đọc tại 'Giải trí mùa hè'"<br>- (phiên bản *The Reeve's Tale* của Chaucer, được in thành sách nhỏ, in lại trong *[Tolkien Studies vol. 5](../T/Tolkien_Studies%253A_Volume_5.md)*)
 
 - 1940 —
     - "Lời mở đầu về bản dịch văn xuôi của *Beowulf*", trong *Beowulf and the Finnesburg Fragment* của John R. Clark Hall<br>- (tiểu luận, in lại trong *[The Monsters and the Critics, and Other Essays](../T/The_Monsters_and_the_Critics,_and_Other_Essays.md)*)
@@ -77,7 +77,7 @@ Chắc chắn là có rất nhiều phương tiện truyền thông khác có nh
     - "*Sir Orfeo*"<br>- (ấn bản bài thơ tiếng Anh trung cổ, in thành tập sách, tái bản trong *[Tolkien Studies vol. 1](../T/Tolkien_Studies%253A_Volume_1.md)*)
 
 - 1946 —
-    - "Nghiên cứu v. văn học", trong *The Sunday Times*<br>- (xem lại *Văn học Anh cuối thời Trung Kỷ nguyên* của E.K. Chambers)
+    - "Nghiên cứu v. văn học", trong *The Sunday Times*<br>- (đánh giá *Văn học Anh cuối thời Trung cổ* của E.K. Chambers)
 
 - 1947 —
     - "Iþþlen in *Sawles Warde*", trong *English Studies*<br>- (tiểu luận, với S.R.T.O. d'Ardenne)
@@ -99,7 +99,7 @@ Chắc chắn là có rất nhiều phương tiện truyền thông khác có nh
     - "Jonah", trong *The Jerusalem Bible*<br>- (bản dịch, in lại trong *[Journal of Inklings Studies (October 2014)](<../J/Journal_of_Inklings_Studies_(October_2014).md>)*)
 
 - 1979 —
-    - "Bài diễn thuyết gửi đến Đại học Oxford", trong *J.R.R. Tolkien, Học giả và người kể chuyện: Các bài tiểu luận trong ký ức*<br>- (tiểu luận, in lại trong *[The Monsters and the Critics, and Other Essays](../T/The_Monsters_and_the_Critics,_and_Other_Essays.md)*)
+    - "Bài phát biểu tại trường Đại học Oxford", trong *J.R.R. Tolkien, Học giả và người kể chuyện: Các bài tiểu luận trong ký ức*<br>- (tiểu luận, in lại trong *[The Monsters and the Critics, and Other Essays](../T/The_Monsters_and_the_Critics,_and_Other_Essays.md)*)
 
 ## Văn bản nhỏ {#Minor_texts}
 
@@ -112,7 +112,7 @@ Chắc chắn là có rất nhiều phương tiện truyền thông khác có nh
     - "Biên tập", trong *King Edward's School Chronicle*, trong 2 số
 
 - 1913 —
-    - "Oxford Thư", trong *King Edward's School Chronicle*
+    - "Thư Oxford", trong *King Edward's School Chronicle*
 
 - 1918 —
     - "Lời mở đầu", trong *A Spring Harvest* của G.B. Smith
@@ -146,18 +146,18 @@ Chắc chắn là có rất nhiều phương tiện truyền thông khác có nh
 
 ## Xem xét thêm {#Further_consideration}
 
-Để đưa ra một mô tả về “tất cả các sản phẩm” của J.R.R. Tolkien trong cuộc sống vật chất của anh ta, cần phải giải thích nhiều tầng lớp.
+Để đưa ra một mô tả về “tất cả các sản phẩm” của J.R.R. Tolkien trong cuộc sống vật chất của ông ta, cần phải giải thích nhiều tầng lớp.
 
-Đầu tiên là hình cầu trướcTolkien. Đây thực tế là toàn bộ thế giới vào thời điểm Tolkien chuẩn bị lấy đi cơ thể vật lý của anh ấy. Nó chứa đựng tất cả những nội dung, thông tin và ảnh hưởng mà sau này anh ta sẽ tiếp thu và hình thành trong suy nghĩ của mình. Nó cũng bao gồm bản ngã tái sinh của chính Tolkien và tất cả những trải nghiệm trong quá khứ của anh ta.
+Đầu tiên là quả cầu tiền Tolkien. Đây thực tế là toàn bộ thế giới vào thời điểm Tolkien chuẩn bị lấy cơ thể vật lý của mình. Nó chứa đựng tất cả những nội dung, thông tin và ảnh hưởng mà sau này ông ta sẽ tiếp thu và hình thành trong suy nghĩ của mình. Nó cũng bao gồm bản ngã tái sinh của chính Tolkien và tất cả những trải nghiệm trong quá khứ của ông.
 
-Tiếp theo là tất cả những suy nghĩ của Tolkien trong cuộc sống trần thế. Điều này hoàn toàn dựa trên lớp trước, cộng với tất cả những kinh nghiệm mà anh ta đã tích lũy được trong lần tái sinh này. Ở lớp này, chúng không ở bất kỳ dạng vật lý nào nhưng có thể được truy cập hoàn hảo trong hồ sơ Akashic.
+Tiếp theo là tất cả những suy nghĩ của Tolkien trong suốt cuộc đời trần thế. Điều này hoàn toàn dựa trên lớp trước, cộng với tất cả những kinh nghiệm mà ông ta đã tích lũy được trong lần tái sinh này. Ở lớp này, chúng không ở bất kỳ dạng vật lý nào nhưng có thể được truy cập hoàn hảo trong hồ sơ Akashic.
 
-Tiếp theo là tất cả các tài liệu bằng văn bản của mình. Điều này bao gồm bất cứ điều gì anh ấy đã từng viết ra hoặc vẽ trên bất kỳ bề mặt nào bằng bất kỳ công cụ viết nào. Có thể hiểu được, phần lớn trong số chúng đã bị mất hoặc bị phá hủy từ lâu. Tuy nhiên, chúng vẫn có sẵn trong hồ sơ.
+Tiếp theo là tất cả các tài liệu bằng văn bản của mình. Điều này bao gồm bất cứ điều gì ông đã từng viết ra hoặc vẽ trên bất kỳ bề mặt nào bằng bất kỳ công cụ viết nào. Có thể hiểu được, phần lớn trong số chúng đã bị mất hoặc bị phá hủy từ lâu. Tuy nhiên, chúng vẫn có sẵn trong hồ sơ.
 
 Tiếp theo là chất liệu còn được bảo tồn cho đến ngày nay. Những thứ này nằm trong nhiều kho lưu trữ, thư viện và bộ sưu tập cá nhân khác nhau trên khắp thế giới. Chúng tồn tại ở dạng bản thảo ban đầu của chúng.
 
-Tiếp theo là hình thức xuất bản đầu tiên của một số tài liệu đó. Những tác phẩm này đã trải qua quá trình chăm sóc đặc biệt cần thiết để xuất bản, một số của chính Tolkien một số của chính những người khác. Nhiều chiếc trong số này hiện nay đã gần một thế kỷ và rất khó tìm.
+Tiếp theo là hình thức xuất bản đầu tiên của một số tài liệu đó. Những cuốn này đã trải qua quá trình chăm sóc đặc biệt cần thiết để xuất bản, một số của chính Tolkien, một số của những người khác. Nhiều chiếc trong số này hiện nay đã gần một thế kỷ và rất khó tìm.
 
-Tiếp theo là ấn phẩm hiện đại của một số tài liệu đó. Đây là những tài liệu chưa được xuất bản trước đây hoặc được in lại từ các ấn phẩm cũ hơn. Đây là những “Tolkien sách” được độc giả hiện đại quen thuộc nhất.
+Tiếp theo là ấn phẩm hiện đại của một số tài liệu đó. Đây là những tài liệu chưa được xuất bản trước đây hoặc được in lại từ các ấn phẩm cũ hơn. Đây là những “sách Tolkien” mà độc giả hiện đại quen thuộc nhất.
 
 Lớp cuối cùng là di sản của Tolkien. Đây là những ảnh hưởng không thể bỏ qua của các tác phẩm của Tolkien đối với thế giới. Họ truyền cảm hứng cho mọi người viết sách, khởi xướng mọi loại dự án. Họ đưa ra những tư tưởng mới và khuấy động những triết lý mới. Những ảnh hưởng này một lần nữa hợp nhất trở lại thế giới.

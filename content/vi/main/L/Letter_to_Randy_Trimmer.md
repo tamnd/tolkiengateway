@@ -16,7 +16,7 @@ sort_keys:
 
 Vào [7 tháng 4](../_/7_April.md) [1971](../_/1971.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho Randy Trimmer**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-CG_2-0" class="reference"><a href="#cite_note-CG-2">[2]</a></sup>
 
-- **Chủ đề:** Tolkien xin lỗi vì không thể trả lời vì anh ấy đang làm việc trên *[The Silmarillion](../T/The_Silmarillion.md)*.
+- **Chủ đề:** Tolkien xin lỗi vì không thể trả lời vì ông đang làm việc trên *[The Silmarillion](../T/The_Silmarillion.md)*.
 - **Xuất bản:** Bức thư được sao chép trong [*Amon Dîn* (Tập 2, số 1)](<../A/Amon_Dîn_(Vol.2,_No.1).md>).
 
 <span></span>

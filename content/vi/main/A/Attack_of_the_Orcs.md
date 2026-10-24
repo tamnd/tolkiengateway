@@ -35,4 +35,4 @@ infobox:
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
-<i><b>Cuộc tấn công của Orc</b></i> là bài hát thứ mười ba của [*Chúa tể của những chiếc nhẫn - Nhạc phim gốc*](<../T/The_Lord_Of_The_Rings_(Original_Motion_Picture_Soundtrack).md>).
+<i><b>Cuộc tấn công của lũ Orc</b></i> là bài hát thứ mười ba của [*Chúa tể của những chiếc nhẫn - Nhạc phim gốc*](<../T/The_Lord_Of_The_Rings_(Original_Motion_Picture_Soundtrack).md>).

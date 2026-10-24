@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Beren (Steward of Gondor)"
 ---
 
-Chuyển hướng tới [Beren (Người quản lý của Gondor)](<Beren_(Steward_of_Gondor).md>).
+Chuyển hướng tới [Beren (Người quản lý Gondor)](<Beren_(Steward_of_Gondor).md>).

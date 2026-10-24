@@ -16,7 +16,7 @@ images:
   - "WikimediaUI-ArrowNext-ltr.svg"
 ---
 
-<b><i>L'Arc et le Heaume</i> n°6</b> (*Ainulindalë et Valaquenta*) là số thứ sáu của fanzine <i><a class="external text" href="https://www.tolkiendil.com/asso/mag" rel="noreferrer noopener" target="_blank">L'Arc et le Heaume</a></i> của hiệp hội [Tolkiendil](<../T/Tolkiendil_(Tolkien_society).md>) Pháp. Nó được xuất bản trong tháng Chín [2019](../_/2019.md) và được dành riêng cho các chương *[Ainulindalë](../A/Ainulindalë.md)* và *[Valaquenta](../V/Valaquenta.md)* cũng như các quyền hạn trong Arda ([Eru](../E/Eru.md), [Valar](../V/Valar.md) và [Maiar](../M/Maiar.md)).
+<b><i>L'Arc et le Heaume</i> n°6</b> (*Ainulindalë et Valaquenta*) là số thứ sáu của fanzine <i><a class="external text" href="https://www.tolkiendil.com/asso/mag" rel="noreferrer noopener" target="_blank">L'Arc et le Heaume</a></i> của hiệp hội [Tolkiendil](<../T/Tolkiendil_(Tolkien_society).md>) Pháp. Nó được xuất bản vào tháng 9 [2019](../_/2019.md) và được dành riêng cho các chương *[Ainulindalë](../A/Ainulindalë.md)* và *[Valaquenta](../V/Valaquenta.md)* cũng như họ hàng của chúng, chẳng hạn như các quyền lực ở Arda ([Eru](../E/Eru.md), [Valar](../V/Valar.md) và [Maiar](../M/Maiar.md)).
 
 <div class="template-prevnext"><div class="template-prevnext__prev template-prevnext__link"><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/8/81/WikimediaUI-ArrowPrevious-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__content"><div class="template-prevnext__title">L&#39;Arc et le Heaume 5</div></div><div class="template-prevnext__linkoverlay"><a href="L&#39;Arc_et_le_Heaume_5.md" title="L&#39;Arc et le Heaume 5">L&#39;Arc et le Heaume 5</a></div></div><div class="template-prevnext__current"><div class="template-prevnext__content"><div class="template-prevnext__title">L&#39;Arc et le Heaume 6</div></div></div><div class="template-prevnext__next template-prevnext__link"><div class="template-prevnext__content"><div class="template-prevnext__title">L&#39;Arc et le Heaume 7</div></div><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/7b/WikimediaUI-ArrowNext-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__linkoverlay"><a href="L&#39;Arc_et_le_Heaume_7.md" title="L&#39;Arc et le Heaume 7">L&#39;Arc et le Heaume 7</a></div></div></div>
 
@@ -32,9 +32,9 @@ images:
     - *Genèse et édition des chapitres « Ainulindalë » et « Valaquenta » du* Silmarillion *publié* – Simon Ayrinhac
     - *Eru et les Ainur* – Yann Morello
 - Tiểu luận
-    - Ainulindalë*: âm nhạc, huyền thoại sáng tạo, vũ trụ* – François Parmentier
-    - *Le chủe de la Genèse chez J.R.R. Tolkien : Eru, les Ainur et la creation d'Arda* – Juliette Baron
-    - *Quand l'*Ainulindalë *devient source d’inspiration* – Benjamin Tisot
+    - Ainulindalë*: musique, mythe de création, cosmogonie* – François Parmentier
+    - *Le thème de la Genèse chez J.R.R. Tolkien : Eru, les Ainur et la création d’Arda* – Juliette Baron
+    - *Quand l’*Ainulindalë *devient source d’inspiration* – Benjamin Tisot
     - *Aulë, subcréateur* – Quentin Feltgen
 - Ngôn ngữ
     - *Le valarin : la langue secrète des Puissances* – [Damien Bador](../D/Damien_Bador.md) & François Parmentier
@@ -48,29 +48,29 @@ images:
 
 ## Dịch thuật tiếng Anh {#English_Translation}
 
-- Biên tập
-    - *Ainulindalë and Valaquenta* – Laura Martin-Gomez & Audrey Morelle
-- Tin tức
-    - *The Fall of Gondolin* — đánh giá bởi Vivien Stocker
-    - *Tolkien: Maker of Middle-earth*, triển lãm — Vivien Stocker
-- Tóm tắt
-    - *Tolkien's texts on the Valar* – Marie-Cécile de Lajudie & Laura Martin-Gomez
-    - *Sự hình thành và biên tập các chương “Ainulindalë” và “Valaquenta” của các tác phẩm đã xuất bản* Silmarillion – Simon Ayrinhac
+- Editorial
+    - *Ainulindalë and Valaquenta* – Laura Martin-Gomez &amp; Audrey Morelle
+- News
+    - *The Fall of Gondolin* — review by Vivien Stocker
+    - *Tolkien: Maker of Middle-earth*, the exhibition — Vivien Stocker
+- Summaries
+    - *Tolkien's texts on the Valar* – Marie-Cécile de Lajudie &amp; Laura Martin-Gomez
+    - *Genesis and editing of the “Ainulindalë” and “Valaquenta” chapters of the published* Silmarillion – Simon Ayrinhac
     - *Eru and the Ainur* – Yann Morello
-- Tiểu luận
+- Essays
     - Ainulindalë *: music, creation myth, cosmogony* – François Parmentier
-    - *Chủ đề của Genesis trong J.R.R. Tolkien: Eru, Ainur và sự sáng tạo Arda* – Juliette Baron
+    - *The theme of Genesis in J.R.R. Tolkien: Eru, the Ainur and the creation of Arda* – Juliette Baron
     - *When the* Ainulindalë *becomes a source of inspiration* – Benjamin Tisot
     - *Aulë, sub-creator* – Quentin Feltgen
-- Ngôn ngữ
-    - *Valarin: ngôn ngữ bí mật của Quyền lực* – [Damien Bador](../D/Damien_Bador.md) & François Parmentier
-- Thư giãn
+- Languages
+    - *Valarin: the secret language of the Powers* – [Damien Bador](../D/Damien_Bador.md) &amp; François Parmentier
+- Relaxation
     - *Crosswords* – Solveig Boissay
-    - *Which Istar are you ?* – Francois Parmentier & Sebastien Vrayenne
+    - *Which Istar are you ?* – Francois Parmentier &amp; Sebastien Vrayenne
     - *Questions for a Vala !* – [Damien Bador](../D/Damien_Bador.md)
     - *The work of Varda* – Benjamin Tisot
-- Khám phá
-    - *Star Maker* của Olaf Stapledon – Simon Ayrinhac
+- Discovery
+    - *Star Maker* by Olaf Stapledon – Simon Ayrinhac
 
 ## Liên kết ngoài {#External_links}
 

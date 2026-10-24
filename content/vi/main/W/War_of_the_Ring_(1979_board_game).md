@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "War of the Ring (1977 board game)"
 ---
 
-Chuyển hướng đến [Cuộc chiến Nhẫn (trò chơi board game năm 1977)](<War_of_the_Ring_(1977_board_game).md>).
+Chuyển hướng đến [War of the Ring (trò chơi board game năm 1977)](<War_of_the_Ring_(1977_board_game).md>).

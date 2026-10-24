@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Corsairs of Umbar"
 ---
 
-Chuyển hướng đến [Hải tặc Umbar](../C/Corsairs_of_Umbar.md).
+Chuyển hướng đến [Corsairs of Umbar](../C/Corsairs_of_Umbar.md).

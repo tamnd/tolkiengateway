@@ -20,7 +20,7 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the lenited <a href="../N/Noldorin.md" title="Noldorin">Noldorin</a>/<a href="../S/Sindarin.md" title="Sindarin">Sindarin</a> suffix</b>. For the the word meaning &#34;land&#34;, see <b><a href="../D/Dôr.md" title="Dôr">dôr</a></b>.</div></div>
 
-**-dor** là hậu tố [Sindarin](../S/Sindarin.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> có nghĩa là "vua, chúa".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Như đã thấy trong [Noldorin](../N/Noldorin.md)trước đó, từ này thực tế là <i><b>taur</b></i>,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> nhưng chỉ có dạng [lenited](../L/Lenition.md) được thấy trong các ví dụ.
+**-dor** là hậu tố [Sindarin](../S/Sindarin.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> có nghĩa là "vua, chúa".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Như đã thấy trong [Noldorin](../N/Noldorin.md) trước đó, từ này thực tế là <i><b>taur</b></i>,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> nhưng chỉ có dạng [lenited](../L/Lenition.md) được thấy trong các ví dụ.
 
 ## Ví dụ {#Examples}
 
@@ -29,7 +29,7 @@ images:
 - <i><a href="../G/Gildor.md" title="Gildor">Gil<b>dor</b></a></i> = "Chúa tể ngôi sao"
 - <i><a href="../G/Gwindor.md" title="Gwindor">Gwin<b>dor</b></a></i> = "Lãnh chúa mới"
 - <i><a href="../M/Meneldor.md" title="Meneldor">Menel<b>dor</b></a></i> = "Chúa tể của thiên đường"
-- <i><a href="../T/Thorondor.md" title="Thorondor">Thoron<b>dor</b></a></i> = "Vua của Đại Bàng"
+- <i><a href="../T/Thorondor.md" title="Thorondor">Thoron<b>dor</b></a></i> = "Vua đại bàng"
 
 <span></span>
 

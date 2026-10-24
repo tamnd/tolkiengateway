@@ -48,15 +48,15 @@ infobox:
 
 ## Lịch sử {#History}
 
-Khi Gandalf và những người đồng hành của anh ta đến [Meduseld](../M/Meduseld.md) vào ngày 2 tháng 3, [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> thanh kiếm đang bị giam giữ bởi cố vấn phản bội của Théoden [Gríma Wormtongue](../G/Gríma.md). Sau khi được [Gandalf](../G/Gandalf.md) chữa lành, Théoden đã lấy lại thanh kiếm,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và mang nó đến [Trận Hornburg](../B/Battle_of_the_Hornburg.md) và [Trận cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md).
+Khi Gandalf và những người bạn đồng hành của ông đến [Meduseld](../M/Meduseld.md) vào ngày 2 tháng 3, [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> thanh kiếm nằm trong tay cố vấn phản bội của Théoden [Gríma Wormtongue](../G/Gríma.md). Sau khi được [Gandalf](../G/Gandalf.md) chữa lành, Théoden lấy lại thanh kiếm,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và mang nó đến [Trận chiến Hornburg](../B/Battle_of_the_Hornburg.md) và [Trận chiến trên cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md).
 
 ## Từ nguyên {#Etymology}
 
-*Herugrim* là một cái tên [tiếng Anh cổ](../O/Old_English.md) có nghĩa là "Rất hung dữ hoặc tàn nhẫn, man rợ".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Người ta đã lưu ý rằng *herugrim* có trong <a class="extiw" href="http://en.wikipedia.org/wiki/Mercian_dialect" title="wikipedia:Mercian dialect">phương ngữ Mercian</a> của [tiếng Anh cổ](../O/Old_English.md) (cách viết của "tiêu chuẩn" <a class="extiw" href="http://en.wikipedia.org/wiki/West_Saxon_dialect_(Old_English)" title="wikipedia:West Saxon dialect (Old English)">Phương Tây phương ngữ Saxon</a> lẽ ra là *heorugrim*).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> *Heorugrim* xuất hiện ở dòng 1564 của *Beowulf,* như một tính từ áp dụng cho người anh hùng trong cuộc chiến với mẹ của Grendel; Tolkien dịch là "ngã".<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+*Herugrim* là một tên [tiếng Anh cổ](../O/Old_English.md) có nghĩa là "Rất hung dữ hoặc tàn nhẫn, man rợ".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Người ta đã lưu ý rằng *herugrim* nằm trong <a class="extiw" href="http://en.wikipedia.org/wiki/Mercian_dialect" title="wikipedia:Mercian dialect">phương ngữ Mercian</a> của [tiếng Anh cổ](../O/Old_English.md) (cách viết của "tiêu chuẩn" <a class="extiw" href="http://en.wikipedia.org/wiki/West_Saxon_dialect_(Old_English)" title="wikipedia:West Saxon dialect (Old English)">phương ngữ Tây Saxon</a> lẽ ra phải là *heorugrim*).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> *Heorugrim* xuất hiện ở dòng 1564 của *Beowulf,* như một tính từ áp dụng cho người anh hùng trong cuộc chiến với mẹ của Grendel; Tolkien đã dịch nó là "ngã".<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
 ## Các phiên bản khác của Legendarium {#Other_versions_of_the_Legendarium}
 
-Trong bản thảo ban đầu của [Helm's Deep](<Helm's_Deep_(chapter).md>), Théoden được ghi chú cụ thể là đã sử dụng Herugrim trong [Trận Hornburg](../B/Battle_of_the_Hornburg.md). Người ta kể rằng "Theoden xuống ngựa và chiến đấu giữa những người bảo vệ của mình. Herugrim đã hát một bài hát đã im lặng từ lâu."<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
+Trong bản thảo ban đầu của [Helm's Deep](<Helm's_Deep_(chapter).md>), Théoden được đặc biệt lưu ý là đã sử dụng Herugrim trong [Trận chiến Hornburg](../B/Battle_of_the_Hornburg.md). Người ta kể rằng "Theoden xuống ngựa và chiến đấu giữa những người bảo vệ của mình. Herugrim đã hát một bài hát đã im lặng từ lâu."<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
@@ -97,11 +97,11 @@ Trong bản thảo ban đầu của [Helm's Deep](<Helm's_Deep_(chapter).md>), T
 
 <dl><dd>Herugrim can be found in <a href="../M/Meduseld.md" title="Meduseld">Meduseld</a>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></dd></dl>
 
-<b><a href="../_/2002.md" title="2002">2002</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Lord of the Rings: The Two Towers</a></i>:</b>
+<b><a href="../_/2002.md" title="2002">2002</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">Chúa tể của những chiếc nhẫn: Hai tòa tháp</a></i>:</b>
 
 <dl><dd>After <a href="../T/Théoden.md" title="Théoden">Théoden</a> is healed by <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a>, the <a href="../W/Wizards.md" title="Wizards">Wizard</a> remarks that &#34;Your fingers would remember their old strength better if they grasped your sword.&#34; <a href="Háma.md" title="Háma">Háma</a> steps forward and offers Herugrim. Théoden pulls it out of the scabbard and holds it.</dd></dl>
 
-<b><a href="../_/2012.md" title="2012">2012</a>: <i><a href="../L/Lego_The_Lord_of_the_Rings%253A_The_Video_Game.md" title="Lego The Lord of the Rings: The Video Game">Lego The Lord of the Rings: Trò chơi điện tử</a></i>:</b>
+<b><a href="../_/2012.md" title="2012">2012</a>: <i><a href="../L/Lego_The_Lord_of_the_Rings%253A_The_Video_Game.md" title="Lego The Lord of the Rings: The Video Game">Lego Chúa tể của những chiếc nhẫn: Trò chơi điện tử</a></i>:</b>
 
 <dl><dd>The scene in which <a href="../T/Théoden.md" title="Théoden">Théoden</a> reclaims his sword is replicated.</dd></dl>
 

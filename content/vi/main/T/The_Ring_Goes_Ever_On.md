@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien 2005"
 ---
 
-Chuyển hướng đến [Tolkien 2005](Tolkien_2005.md).
+Chuyển hướng tới [Tolkien 2005](Tolkien_2005.md).

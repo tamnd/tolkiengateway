@@ -20,11 +20,11 @@ sort_keys:
   "People by name": "Zuber, Bernie"
 ---
 
-**Bernie Zuber** ([1933](../_/1933.md)-[2005](../_/2005.md)) là một tác giả, nghệ sĩ và [Tolkien](../J/J.R.R._Tolkien.md) [người hâm mộ](../T/Tolkien_fandom.md), tham gia vào một số dự án liên quan đến Tolkien.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Ông thành lập The Tolkien Fellowships và là biên tập viên kiêm nhà xuất bản tạp chí *The Westmarch Chronicle*của tổ chức này. Anh ấy cũng đóng vai trò là đồng đạo diễn (với vợ anh ấy là Teny) về quan hệ với người hâm mộ nhằm quảng bá cho [*The Lord of the Rings*](<../T/The_Lord_of_the_Rings_(1978_film).md>) của [Ralph Bakshi](../R/Ralph_Bakshi.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Bernie Zuber** ([1933](../_/1933.md)-[2005](../_/2005.md)) là một tác giả, nghệ sĩ và [Tolkien](../J/J.R.R._Tolkien.md) [người hâm mộ](../T/Tolkien_fandom.md), tham gia vào một số dự án liên quan đến Tolkien.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Ông thành lập The Tolkien Fellowships và là biên tập viên kiêm nhà xuất bản tạp chí *The Westmarch Chronicle* của tổ chức này. Ông cũng đóng vai trò là đồng đạo diễn (với vợ ông là Teny) về quan hệ với người hâm mộ nhằm quảng bá [Ralph Bakshi](../R/Ralph_Bakshi.md) của [*The Lord of the Rings*](<../T/The_Lord_of_the_Rings_(1978_film).md>).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Thư mục {#Bibliography}
 
-- [1973](../_/1973.md): "Bên kia Brandywine", trong [*Mythlore* 9](../M/Mythlore_9.md)
+- [1973](../_/1973.md): "Bên kia rượu Brandywine", trong [*Mythlore* 9](../M/Mythlore_9.md)
 - [1979](../_/1979.md): *[The Tolkien Quiz Book](<../T/The_Tolkien_Quiz_Book_(by_Bart_Andrews).md>)* (với Bart Andrews)
 
 ## Liên kết ngoài {#External_links}

@@ -22,7 +22,7 @@ langlinks:
     url: "https://kontu.wiki/Fanyamar"
 ---
 
-**Fanyamar**, "Cloudhome", là vùng phía trên của [Vista](../V/Vista.md), không khí dễ thở và là phần khí quyển hình thành mây.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Fanyamar**, "Cloudhome", là vùng phía trên của [Vista](../V/Vista.md), nơi có không khí dễ thở và là phần bầu khí quyển nơi mây hình thành.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

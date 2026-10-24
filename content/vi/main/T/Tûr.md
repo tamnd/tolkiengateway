@@ -19,7 +19,7 @@ sort_keys:
   "Mannish words": "Tur"
 ---
 
-## Rohanese {#Rohanese}
+## Tiếng Rohan {#Rohanese}
 
 <i><b>tûr</b></i> là phần tử ([Rohanese](../R/Rohanese.md)) có nghĩa là "người".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 

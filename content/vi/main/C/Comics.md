@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien's works in popular media/Comics"
 ---
 
-Chuyển hướng đến các tác phẩm của [Tolkien trên các phương tiện truyền thông/Truyện tranh phổ biến](../T/Tolkien's_works_in_popular_media%252FComics.md).
+Chuyển hướng tới [Tác phẩm của Tolkien trên phương tiện truyền thông/Truyện tranh phổ biến](../T/Tolkien's_works_in_popular_media%252FComics.md).

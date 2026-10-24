@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ælfwine"
 ---
 
-Chuyển hướng đến [Ælfwine](Ælfwine.md).
+Chuyển hướng tới [Ælfwine](Ælfwine.md).

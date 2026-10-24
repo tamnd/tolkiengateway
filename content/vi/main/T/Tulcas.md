@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tulkas"
 ---
 
-Chuyển hướng đến [Tulkas](Tulkas.md).
+Chuyển hướng tới [Tulkas](Tulkas.md).

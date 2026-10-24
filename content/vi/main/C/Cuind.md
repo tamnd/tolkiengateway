@@ -21,11 +21,11 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">People</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Cuind</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>General Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Languages</th><td class="tg-infobox-data">one of the many <a href="../A/Avarin.md" title="Avarin">Avarin</a> languages</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Lifespan</th><td class="tg-infobox-data">Immortal</td></tr></tbody></table>
 
-**Cuind** là thuật ngữ được một số [Avari](../A/Avari.md) sử dụng để mô tả bản thân họ. Không biết tên "Cuind" được áp dụng cho một nhóm Avari cụ thể hay cho toàn bộ Avari.
+**Cuind** là thuật ngữ được một số [Avari](../A/Avari.md) sử dụng để mô tả bản thân họ. Không rõ liệu cái tên "Cuind" được áp dụng cho một nhóm Avari cụ thể hay cho toàn bộ Avari nói chung.
 
 ## Từ nguyên {#Etymology}
 
-Đó là một từ [Avarin](../A/Avarin.md) có nghĩa là "Nhân dân". Nó bắt nguồn từ [Primitive Quendian](../P/Primitive_Quendian.md) *[kwendī](../K/Kwende.md)*.<sup id="cite_ref-Author_1-0" class="reference"><a href="#cite_note-Author-1">[1]</a></sup>
+Đó là từ [Avarin](../A/Avarin.md) có nghĩa là "Nhân dân". Nó bắt nguồn từ [Quendian nguyên thủy](../P/Primitive_Quendian.md) *[kwendī](../K/Kwende.md)*.<sup id="cite_ref-Author_1-0" class="reference"><a href="#cite_note-Author-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}
 
@@ -37,7 +37,7 @@ infobox:
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>:</b>
+<b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Nhập vai ở Trung Địa</a></i>:</b>
 
 <dl><dd><i>Cuind</i>, an articulation of &#34;Quendi&#34; (the most ancient name of the Elves), is also the name of a tribe of Avari Elves of the jungles of the <a href="../M/Mûmakan.md" title="Mûmakan">Mûmakan</a> in the Utter South of Middle-earth.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></dd></dl>
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Priscilla Tolkien"
 ---
 
-Chuyển hướng đến [Priscilla Tolkien](Priscilla_Tolkien.md).
+Chuyển hướng tới [Priscilla Tolkien](Priscilla_Tolkien.md).

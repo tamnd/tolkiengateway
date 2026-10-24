@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Tolkien Gateway research"
 ---
 
-Chuyển hướng đến [Danh mục:Tolkien Gateway nghiên cứu](../../category/T/Tolkien_Gateway_research.md).
+Chuyển hướng tới [Danh mục:Nghiên cứu về Cổng Tolkien](../../category/T/Tolkien_Gateway_research.md).

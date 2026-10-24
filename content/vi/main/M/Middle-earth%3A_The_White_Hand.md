@@ -28,15 +28,15 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Collectible card game expansion</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Middle-earth: The White Hand</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Release date</th><td class="tg-infobox-data"><a href="../_/1997.md" title="1997">1997</a></td></tr><tr><th scope="row" class="tg-infobox-label">Cards</th><td class="tg-infobox-data">122</td></tr><tr><th scope="row" class="tg-infobox-label">Abbreviation</th><td class="tg-infobox-data">MEWH</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Middle-earth%253A_Against_the_Shadow.md" title="Middle-earth: Against the Shadow">Middle-earth: Against the Shadow</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Middle-earth%253A_The_Balrog.md" title="Middle-earth: The Balrog">Middle-earth: The Balrog</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Set symbol</span></th></tr><tr><td colspan="2" class="tg-infobox-data"><figure class="mw-default-size mw-halign-center" typeof="mw:File"><a class="mw-file-description" href="../../file/C/Certh_54.svg.md"><img src="https://tolkiengateway.net/w/images/e/eb/Certh_54.svg" decoding="async" loading="lazy" width="32" height="48" class="mw-file-element" data-file-width="32" data-file-height="48"/></a><figcaption></figcaption></figure></td></tr></tbody></table>
 
-**Trung Địa: The White Hand**, được phát hành vào [1997](../_/1997.md), là bộ mở rộng cho [Trung Địa Trò chơi Thẻ sưu tập](Middle-earth_Collectible_Card_Game.md).
+**Middle-earth: The White Hand**, được phát hành vào [1997](../_/1997.md), là bộ mở rộng cho [Trò chơi thẻ sưu tập Middle-earth](Middle-earth_Collectible_Card_Game.md).
 
-*The White Hand* làm trò chơi thêm phức tạp khi thêm phe thứ ba, *Fallen-Wizard*bị hỏng, người chơi của họ có thể sử dụng cả tài nguyên và nhân vật anh hùng và tay sai, mặc dù có những hạn chế.
+*The White Hand* làm trò chơi thêm phức tạp khi thêm phe thứ ba, *Fallen-Wizard* bị hỏng, người chơi của họ có thể sử dụng cả tài nguyên và nhân vật anh hùng và tay sai, mặc dù có những hạn chế.
 
 *The White Hand* đã được bán dưới dạng 12 thẻ tăng cường (36 thẻ tăng cường trên mỗi màn hình) với 2 thẻ hiếm, 4 thẻ thông thường và 6 thẻ chung trong mỗi thẻ.
 
 ## Lễ tân {#Reception}
 
-Trong bài đánh giá cho *[InQuest](../I/InQuest.md)*, Luke Durok ca ngợi trò chơi vì đã làm được "điều mà ít bản mở rộng CCG khác đã đạt được", nói rằng cơ chế phù thủy sa ngã tạo nên một bản mở rộng thực sự với "một phong cách chơi hoàn toàn mới". Anh ấy nhận thấy rằng nhìn chung tác phẩm nghệ thuật không mạnh mẽ bằng các bản mở rộng trước đó.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Trong bài đánh giá cho *[InQuest](../I/InQuest.md)*, Luke Durok ca ngợi trò chơi vì đã làm được "điều mà ít bản mở rộng CCG khác đã đạt được", nói rằng cơ chế phù thủy sa ngã tạo nên một bản mở rộng thực sự với "một phong cách chơi hoàn toàn mới". Ông nhận thấy rằng nhìn chung tác phẩm nghệ thuật không mạnh mẽ bằng các bản mở rộng trước đó.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Thư viện {#Gallery}
 

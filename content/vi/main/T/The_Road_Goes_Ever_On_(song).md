@@ -45,7 +45,7 @@ images:
 
 ## *The Hobbit* {#The_Hobbit}
 
-Phiên bản gốc của bài hát được [Bilbo](../B/Bilbo_Baggins.md) đọc lại trong chương cuối của *[The Hobbit](The_Hobbit.md)*, khi kết thúc hành trình trở về [ Shire](The_Shire.md). Khi lên tới đỉnh dốc, anh ta nhìn thấy ngôi nhà của mình ở phía xa, dừng lại và nói như sau:
+Phiên bản gốc của bài hát được [Bilbo](../B/Bilbo_Baggins.md) đọc lại trong chương cuối của *[The Hobbit](The_Hobbit.md)*, khi kết thúc hành trình trở lại [the Shire](The_Shire.md) của ông. Khi lên tới đỉnh dốc, ông ta nhìn thấy ngôi nhà của mình ở phía xa, dừng lại và nói như sau:
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
 <p>Roads go ever ever on,<br/>
@@ -74,7 +74,7 @@ Có ba phiên bản của bài hát đi bộ này trong *[The Lord of the Rings]
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><audio src="https://tolkiengateway.net/w/images/4/44/J.R.R._Tolkien_-_The_Road_Goes_Ever_On.mp3" width="300" class="mw-file-element" style="max-width: 100%; width: 300px;" controls=""><a href="https://tolkiengateway.net/wiki/File:J.R.R._Tolkien_-_The_Road_Goes_Ever_On.mp3">https://tolkiengateway.net/wiki/File:J.R.R._Tolkien_-_The_Road_Goes_Ever_On.mp3</a></audio><figcaption><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> reads The Road Goes Ever On</figcaption></figure>
 
-Bài đầu tiên được hát bởi [Bilbo](../B/Bilbo_Baggins.md) khi anh rời [ Shire](The_Shire.md) và chuẩn bị đi thăm [Rivendell](../R/Rivendell.md):
+Bài đầu tiên được [Bilbo](../B/Bilbo_Baggins.md) hát khi anh rời [Shire](The_Shire.md) và chuẩn bị đi thăm [Rivendell](../R/Rivendell.md):
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
 <p>The Road goes ever on and on,<br/>
@@ -88,9 +88,9 @@ And whither then? I cannot say.<sup id="cite_ref-3" class="reference"><a href="#
 </p>
 </div>
 
-Phiên bản thứ hai giống hệt ngoại trừ việc thay đổi từ “háo hức” thành “mệt mỏi” ở dòng thứ năm. Nó được [Frodo](../F/Frodo_Baggins.md) nói to, chậm rãi, khi anh và những người bạn đồng hành dừng lại trên đường đến [Crickhollow](../C/Crickhollow.md), nhìn xa hơn những vùng đất mà một số người trong số họ chưa từng thấy trước đây.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Phiên bản thứ hai giống hệt ngoại trừ việc thay đổi từ “háo hức” thành “mệt mỏi” ở dòng thứ năm. Nó được [Frodo](../F/Frodo_Baggins.md) nói to, chậm rãi khi anh và những người bạn đồng hành của mình dừng lại trên đường đến [Crickhollow](../C/Crickhollow.md), nhìn xa hơn đến những vùng đất mà một số người trong số họ chưa từng thấy trước đây.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
-Phiên bản thứ ba được Bilbo nói trong Rivendell sau khi người Hobbit trở về từ cuộc hành trình của họ. Bilbo bây giờ là một hobbit già buồn ngủ, lẩm bẩm câu thơ rồi ngủ thiếp đi.
+Phiên bản thứ ba được Bilbo nói ở Rivendell sau khi những người hobbit trở về sau cuộc hành trình của họ. Bilbo bây giờ là một ông hobbit già buồn ngủ, ông lẩm bẩm câu thơ rồi chìm vào giấc ngủ.
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
 <p>The Road goes ever on and on <br/>
@@ -106,19 +106,19 @@ My evening-rest and sleep to meet.<sup id="cite_ref-5" class="reference"><a href
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1977: <a href="The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>The Hobbit</i> (phim 1977)</a>:</b>
+<b>1977: <a href="The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>Người Hobbit</i> (phim 1977)</a>:</b>
 
 <dl><dd>Sections of the poem are sung during the trip through <a href="../M/Mirkwood.md" title="Mirkwood">Mirkwood</a>. It appears on the soundtrack titled &#34;Roads&#34;.</dd></dl>
 
-<b>1980: <a href="The_Return_of_the_King_(1980_film).md" title="The Return of the King (1980 film)"><i>The Return of the King</i> (phim 1980)</a>:</b>
+<b>1980: <a href="The_Return_of_the_King_(1980_film).md" title="The Return of the King (1980 film)"><i>Sự trở lại của nhà vua</i> (phim 1980)</a>:</b>
 
 <dl><dd>A song inspired by the poem is sung at the end of the film called &#34;<a href="../R/Roads_Go_Ever,_Ever_On~44338.md" title="Roads Go Ever, Ever On">Roads Go Ever, Ever On</a>&#34;.</dd></dl>
 
-<b>1981: <a href="The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>The Lord of the Rings</i> (loạt phim phát thanh 1981)</a>:</b>
+<b>1981: <a href="The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>Chúa tể của những chiếc nhẫn</i> (loạt phim phát thanh năm 1981)</a>:</b>
 
 <dl><dd>Bilbo sings the song as he leaves <a href="../B/Bag_End.md" title="Bag End">Bag End</a>. It is sung by <a href="../J/John_Le_Mesurier.md" title="John Le Mesurier">John Le Mesurier</a> to a tune by <a href="../S/Stephen_Oliver.md" title="Stephen Oliver">Stephen Oliver</a>.</dd></dl>
 
-<b>1985: <a href="The_Hobbit_(1985_television_film).md" title="The Hobbit (1985 television film)"><i>The Hobbit</i> (phim truyền hình 1985)</a></b>
+<b>1985: <a href="The_Hobbit_(1985_television_film).md" title="The Hobbit (1985 television film)"><i>Người Hobbit</i> (phim truyền hình 1985)</a></b>
 
 <dl><dd>Bilbo sings the second verse of the song at the end of the film.</dd></dl>
 
@@ -126,15 +126,15 @@ My evening-rest and sleep to meet.<sup id="cite_ref-5" class="reference"><a href
 
 <dl><dd>The Tolkien Ensemble adapted an original melody to the song, composed by Caspar Reiff.</dd></dl>
 
-<b>2001: <i><a href="The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i>:</b>
+<b>2001: <i><a href="The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">Chúa tể của những chiếc nhẫn: Hiệp hội những chiếc nhẫn</a></i>:</b>
 
 <dl><dd>Parts of the <a href="../B/Bag_End_(soundtrack).md" title="Bag End (soundtrack)">song</a> are sung by <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> in his first appearance, and also by Bilbo as he leaves <a href="../B/Bag_End.md" title="Bag End">Bag End</a>.</dd></dl>
 
-<b>2006: <i><a href="The_Lord_of_the_Rings_(musical).md" title="The Lord of the Rings (musical)">The Lord of the Rings (âm nhạc)</a></i>:</b>
+<b>2006: <i><a href="The_Lord_of_the_Rings_(musical).md" title="The Lord of the Rings (musical)">Chúa tể của những chiếc nhẫn (nhạc kịch)</a></i>:</b>
 
 <dl><dd>The poem is the basis of the song &#34;The Road Goes On&#34; sung by Sam, Frodo, Merry, and Pippin in the first act.</dd></dl>
 
-<b>2014: <i><a href="The_Hobbit%253A_The_Battle_of_the_Five_Armies.md" title="The Hobbit: The Battle of the Five Armies">The Hobbit: The Battle of the Five Armies</a></i>:</b>
+<b>2014: <i><a href="The_Hobbit%253A_The_Battle_of_the_Five_Armies.md" title="The Hobbit: The Battle of the Five Armies">Người Hobbit: Trận chiến của năm đội quân</a></i>:</b>
 
 <dl><dd>Lines of the poem partially make up the lyrics of <a href="The_Last_Goodbye.md" title="The Last Goodbye">The Last Goodbye</a>, performed by <a href="../B/Billy_Boyd.md" title="Billy Boyd">Billy Boyd</a> for the credits of the film.</dd></dl>
 

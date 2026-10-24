@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Meriadoc Brandybuck](../../main/M/Meriadoc_Brandybuck.md) tại phòng sinh hoạt chung của *[The Prancing Pony](../../main/T/The_Prancing_Pony.md)*. Ảnh chụp màn hình từ [*The Lord of the Rings: The Fellowship of the Ring* (trò chơi điện tử)](<../../main/T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md>).
+[Meriadoc Brandybuck](../../main/M/Meriadoc_Brandybuck.md) tại phòng sinh hoạt chung của *[The Prancing Pony](../../main/T/The_Prancing_Pony.md)*. Ảnh chụp màn hình từ [*The Lord of the Rings: The Fellowship of the Ring* (video game)](<../../main/T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md>).
 
 ## Giấy phép {#Licensing}
 

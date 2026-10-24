@@ -28,7 +28,7 @@ langlinks:
     url: "https://kontu.wiki/T%C3%B6rm%C3%A4"
 ---
 
-**Ngân hàng** là họ [Hobbit](../H/Hobbits.md) phổ biến, được tìm thấy trong [ Shire](../T/The_Shire.md) và [Bree](Bree.md). Các thành viên được biết đến của gia đình này là [Eglantine Banks](../E/Eglantine_Banks.md), mẹ của [Peregrin Took](../P/Peregrin_Took.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và [Willie Banks](../W/Willie_Banks.md), một hobbit đến từ Bree, người đã thiệt mạng trong trận chiến chống lại [những kẻ lạ mặt](../R/Ruffians.md) đã tấn công Bree vào đầu [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Không biết liệu các thành viên của những gia đình này có ở giữa không hai khu vực có liên quan.
+**Banks** là họ [Hobbit](../H/Hobbits.md) phổ biến, được tìm thấy ở [the Shire](../T/The_Shire.md) và [Bree](Bree.md). Các thành viên được biết đến của gia đình này là [Eglantine Banks](../E/Eglantine_Banks.md), mẹ của [Peregrin Took](../P/Peregrin_Took.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và [Willie Banks](../W/Willie_Banks.md), một hobbit đến từ Bree, người đã bị giết trong trận chiến chống lại [những kẻ lạ mặt](../R/Ruffians.md) đã tấn công Bree sớm vào [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Không biết liệu các thành viên của những gia đình này có ở giữa hay không hai khu vực có liên quan.
 
 ## Từ nguyên {#Etymology}
 

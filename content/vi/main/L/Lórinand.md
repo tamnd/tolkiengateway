@@ -30,9 +30,9 @@ images:
 
 ## Từ nguyên {#Etymology}
 
-Trong một bản thảo do [Tolkien](../J/J.R.R._Tolkien.md) sáng tác sau *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, *Lórinand* được cho là tên [Nandorin](../N/Nandorin.md), nghĩa là "thung lũng vàng" (chứa "Elvish từ có nghĩa là 'ánh sáng vàng'").<sup id="cite_ref-UTG_1-0" class="reference"><a href="#cite_note-UTG-1">[1]</a></sup>
+Trong một bản thảo do [Tolkien](../J/J.R.R._Tolkien.md) sáng tác sau *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, *Lórinand* được cho là tên [Nandorin](../N/Nandorin.md), có nghĩa là "thung lũng vàng" (chứa "từ Elvish có nghĩa là 'ánh sáng vàng'").<sup id="cite_ref-UTG_1-0" class="reference"><a href="#cite_note-UTG-1">[1]</a></sup>
 
-Tuy nhiên, [Christopher Tolkien](../C/Christopher_Tolkien.md) lưu ý rằng trong một bản thảo sau này, tên *Lórinand* đã được khái niệm lại thành "một sự chuyển đổi, sau sự ra đời của [mallorns](../M/Mallorn.md), của một cái tên cũ hơn *[Lindórinand](Lothlórien.md#Names)*".<sup id="cite_ref-UTG_1-1" class="reference"><a href="#cite_note-UTG-1">[1]</a></sup>
+Tuy nhiên, [Christopher Tolkien](../C/Christopher_Tolkien.md) lưu ý rằng trong một bản thảo sau này, cái tên *Lórinand* đã được khái niệm lại thành "một sự chuyển đổi, sau sự ra đời của [mallorns](../M/Mallorn.md), thành một cái tên cũ hơn *[Lindórinand](Lothlórien.md#Names)*".<sup id="cite_ref-UTG_1-1" class="reference"><a href="#cite_note-UTG-1">[1]</a></sup>
 
 <span></span>
 

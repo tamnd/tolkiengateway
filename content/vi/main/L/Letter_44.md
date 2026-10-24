@@ -34,7 +34,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien kể cho [Michael](<../M/Michael_Tolkien_(b._1920).md>) về gia đình [mẹ](../M/Mabel_Suffield.md) của anh, họ đến từ Worcestershire. Mabel - người mà Michael mang ơn rất nhiều - xinh đẹp và thông minh nhưng lại chết quá sớm so với tuổi của mình (38 tuổi) vì bệnh tật và bị đàn áp tôn giáo.
+Tolkien kể cho [Michael](<../M/Michael_Tolkien_(b._1920).md>) về gia đình [mẹ](../M/Mabel_Suffield.md) của anh, họ đến từ Worcestershire. Mabel - người mà Michael mang ơn rất nhiều - xinh đẹp và thông minh nhưng lại chết quá sớm so với tuổi (38 tuổi) vì bệnh tật và bị đàn áp tôn giáo.
 
 <dl><dt>In the expanded edition</dt></dl>
 
@@ -42,7 +42,7 @@ Câu mở đầu cho thấy [Edith](../E/Edith_Tolkien.md) lần đầu tiên đ
 
 ## Ghi chú {#Notes}
 
-Mabel Suffield và chị gái của cô ít nhiều đã bị xóa khỏi lịch sử gia đình Suffield vì đã chuyển sang đạo Công giáo. Tolkien coi đây là một hành vi sai trái nghiêm trọng đối với mẹ mình. Anh ấy sẽ viết lại nó bằng các chữ cái [142](Letter_142.md), [250](Letter_250.md) và [267](Letter_267.md).
+Mabel Suffield và chị gái của cô ít nhiều đã bị xóa khỏi lịch sử gia đình Suffield vì đã chuyển sang đạo Công giáo. Tolkien coi đây là một hành vi sai trái nghiêm trọng đối với mẹ mình. Ông sẽ viết lại nó bằng các chữ cái [142](Letter_142.md), [250](Letter_250.md) và [267](Letter_267.md).
 
 <br>
 

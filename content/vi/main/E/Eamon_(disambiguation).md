@@ -16,7 +16,7 @@ images:
 
 **Eamon** có thể đề cập đến:
 
-- **[Eamon (The Những Chiếc Nhẫn Quyền Năng)](<Eamon_(The_Rings_of_Power).md>)**, một [Người đàn ông](../M/Men.md) trong *[The Lord of the Rings: The Rings of Power](../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)* do [Amazon Studios](../A/Amazon_Studios.md) sản xuất.
+- **[Eamon (Những chiếc nhẫn quyền lực)](<Eamon_(The_Rings_of_Power).md>)**, một [Người đàn ông](../M/Men.md) trong *[The Lord of the Rings: The Rings of Power](../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)* do [Amazon Studios](../A/Amazon_Studios.md) sản xuất.
 - <i><b><a href="Eamon_(video_game).md" title="Eamon (video game)">Eamon (trò chơi điện tử)</a></b></i>, một loạt trò chơi phiêu lưu văn bản dài tập ban đầu được tạo cho <a class="extiw" href="http://en.wikipedia.org/wiki/Apple_II_series" title="wikipedia:Apple II series">Apple II</a>.
 
 <hr style="margin-top:15px;"/>

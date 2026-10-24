@@ -29,9 +29,9 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien phản ánh tác động sâu sắc của câu chuyện Bernadette Soubirous (xem [Thư 94a](Letter_94a.md)), đánh giá cao sự kết hợp giữa các yếu tố cổ tích với sự thật và thiêng liêng. Anh ấy đề cập đến việc đọc cuốn sách nhỏ của Martindale, trong đó tiết lộ một số quyền tự do nghệ thuật được áp dụng trong các tác phẩm chuyển thể từ sách và phim.
+Tolkien phản ánh tác động sâu sắc của câu chuyện Bernadette Soubirous (xem [Thư 94a](Letter_94a.md)), đánh giá cao sự kết hợp giữa các yếu tố cổ tích với sự thật và thiêng liêng. Ông đề cập đến việc đọc cuốn sách nhỏ của Martindale, trong đó tiết lộ một số quyền tự do nghệ thuật được áp dụng trong các tác phẩm chuyển thể từ sách và phim.
 
-Ngoài ra, Tolkien mô tả cuộc gặp với [C.S. Lewis](../C/C.S._Lewis.md) và [anh trai](../W/Warren_Lewis.md) của anh ấy, những người đã rất thất vọng trước sự trở về bất ngờ của một thành viên trong gia đình cùng với một em bé mới sinh. Tolkien và những người bạn đã lập gia đình của anh ấy đã làm trầm trọng thêm sự u ám một cách hài hước khi dự đoán những thách thức phía trước. <br>
+Ngoài ra, Tolkien còn mô tả cuộc gặp với [C.S. Lewis](../C/C.S._Lewis.md) và [anh trai](../W/Warren_Lewis.md) của ông, những người đã rất thất vọng trước sự trở lại bất ngờ của một thành viên trong gia đình cùng với một em bé mới sinh. Tolkien và những người bạn đã lập gia đình của ông đã làm trầm trọng thêm sự u ám của họ một cách hài hước khi dự đoán những thách thức phía trước. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

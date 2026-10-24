@@ -74,11 +74,11 @@ Sự kiện xảy ra vào ngày 4 tháng 12
 - **[1967](1967.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một lá thư cho Roger Verhulst](<../L/Letter_to_Roger_Verhulst_(4_December_1967).md>).
 - **[1999](1999.md)** - Diễn viên lồng tiếng [Gaia Wise](../G/Gaia_Wise.md) ra đời.
 - **[2001](2001.md)** - Phim tài liệu *[Master of the Rings](../M/Master_of_the_Rings%253A_The_Unauthorized_Story_Behind_J.R.R._Tolkien's_'Lord_of_the_Rings'.md)* được phát hành.
-- **[2004](2004.md)** - [The Lord of the Rings Bản giao hưởng](../T/The_Lord_of_the_Rings_Symphony.md) trình diễn ở <a class="extiw" href="http://en.wikipedia.org/wiki/Newark,_New_Jersey" title="wikipedia:Newark, New Jersey">Newark, New Jersey</a>.
+- **[2004](2004.md)** - [The Lord of the Rings Symphony](../T/The_Lord_of_the_Rings_Symphony.md) thi đấu ở <a class="extiw" href="http://en.wikipedia.org/wiki/Newark,_New_Jersey" title="wikipedia:Newark, New Jersey">Newark, New Jersey</a>.
 - **[2012](2012.md)** - *[Guardians of Middle-earth](../G/Guardians_of_Middle-earth.md)* được phát hành trên <a class="extiw" href="http://en.wikipedia.org/wiki/PlayStation_3" title="wikipedia:PlayStation 3">PlayStation 3</a> và <a class="extiw" href="http://en.wikipedia.org/wiki/Xbox_360" title="wikipedia:Xbox 360">Xbox 360</a>.
-- **[2014](2014.md)** - <a class="new" href="https://tolkiengateway.net/w/index.php?title=JRR_Tolkien,_le_seigneur_des_%C3%A9crivains&amp;action=edit&amp;redlink=1" title="JRR Tolkien, le seigneur des écrivains (page does not exist)">JRR Tolkien, le seigneur des écrivains</a> (La Grande Librairie) được phát sóng.
+- **[2014](2014.md)** - <a class="new" href="https://tolkiengateway.net/w/index.php?title=JRR_Tolkien,_le_seigneur_des_%C3%A9crivains&amp;action=edit&amp;redlink=1" title="JRR Tolkien, le seigneur des écrivains (page does not exist)">JRR Tolkien, le seigneur des écrivains</a> (La Grande Librairie) đã được phát sóng.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi ở [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).
+    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi tại [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).

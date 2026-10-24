@@ -28,7 +28,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Orlando Bloom](../../main/O/Orlando_Bloom.md) dưới dạng [Legolas](../../main/L/Legolas.md) - *[The Lord of the Rings: The Fellowship of the Ring](../../main/T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)*
+[Orlando Bloom](../../main/O/Orlando_Bloom.md) vai [Legolas](../../main/L/Legolas.md) - *[The Lord of the Rings: The Fellowship of the Ring](../../main/T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)*
 
 ## Giấy phép {#Licensing}
 

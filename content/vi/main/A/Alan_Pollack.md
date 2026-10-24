@@ -28,9 +28,9 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Person</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Alan Pollack</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Born</th><td class="tg-infobox-data"><a href="../_/5_September.md" title="5 September">5 September</a> <a href="../_/1964.md" title="1964">1964</a></td></tr><tr><th scope="row" class="tg-infobox-label">Occupation</th><td class="tg-infobox-data">Artist</td></tr></tbody></table>
 
-**Alan Pollack** (sinh [5 tháng Chín](../_/5_September.md) [1964](../_/1964.md)) là một nghệ sĩ giả tưởng người Mỹ. Anh làm họa sĩ toàn thời gian cho [TSR](../T/TSR.md) từ [1994](../_/1994.md) đến [1997](../_/1997.md), minh họa cho [Dungeons và Rồng](../D/Dungeons_and_Dragons.md) và [Rồng Magazine](../D/Dragon_Magazine.md), sau đó anh bắt đầu làm việc tự do. Với tư cách đó, anh được [Vương miện Sắt Enterprises](../I/Iron_Crown_Enterprises.md) ủy quyền sáng tạo nghệ thuật cho [Trung Địa Trò chơi Thẻ sưu tập](../M/Middle-earth_Collectible_Card_Game.md).
+**Alan Pollack** (sinh [5 tháng Chín](../_/5_September.md) [1964](../_/1964.md)) là một nghệ sĩ giả tưởng người Mỹ. Anh làm họa sĩ toàn thời gian cho [TSR](../T/TSR.md) từ [1994](../_/1994.md) đến [1997](../_/1997.md), minh họa cho [Dungeons và Rồng](../D/Dungeons_and_Dragons.md) và [Rồng Magazine](../D/Dragon_Magazine.md), sau đó anh bắt đầu làm việc tự do. Với tư cách đó, anh được [Vương miện Sắt Enterprises](../I/Iron_Crown_Enterprises.md) ủy quyền sáng tạo nghệ thuật cho [Trung Địa Trò chơi thẻ sưu tập](../M/Middle-earth_Collectible_Card_Game.md).
 
-Nói chung làm việc trong lĩnh vực sơn dầu, anh ấy cũng bắt đầu vẽ minh họa kỹ thuật số vào năm 2003. Anh ấy coi [Donato Giancola](../D/Donato_Giancola.md) là một trong những ảnh hưởng nghệ thuật của mình.<sup id="cite_ref-CCGA_1-0" class="reference"><a href="#cite_note-CCGA-1">[1]</a></sup>
+Nói chung làm việc trong lĩnh vực sơn dầu, anh cũng bắt đầu vẽ minh họa kỹ thuật số vào năm 2003. Anh coi [Donato Giancola](../D/Donato_Giancola.md) là một trong những người có ảnh hưởng nghệ thuật đến anh.<sup id="cite_ref-CCGA_1-0" class="reference"><a href="#cite_note-CCGA-1">[1]</a></sup>
 
 ## Liên kết ngoài {#External_links}
 

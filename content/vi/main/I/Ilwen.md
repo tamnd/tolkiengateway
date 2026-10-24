@@ -44,13 +44,13 @@ infobox:
 
 ## Lịch sử {#History}
 
-Ilwen sinh ra ở [Cuiviénen](../C/Cuiviénen.md), có lẽ là thế hệ đàn em của [Minyar](../M/Minyar.md). Bà lấy [Ingwë](Ingwë.md), con trai trực hệ của [Imin](Imin.md), từ con trai cả đến con trai cả. Cặp đôi đã kết hôn và có vài đứa con tại Cuiviénen vào thời điểm [Oromë](../O/Oromë.md) tìm thấy [Quendi](../Q/Quendi.md) và mời họ đến [Aman](../A/Aman.md).<sup id="cite_ref-Ilion_1-0" class="reference"><a href="#cite_note-Ilion-1">[1]</a></sup>
+Ilwen sinh ra ở [Cuiviénen](../C/Cuiviénen.md), có thể là thế hệ trẻ hơn của [Minyar](../M/Minyar.md). Cô kết hôn với [Ingwë](Ingwë.md), hậu duệ nam trực hệ của [Imin](Imin.md), từ con trai cả đến con trai cả. Cặp đôi đã kết hôn và có một số con tại Cuiviénen vào thời điểm [Oromë](../O/Oromë.md) tìm thấy [Quendi](../Q/Quendi.md) và mời họ đến [Aman](../A/Aman.md).<sup id="cite_ref-Ilion_1-0" class="reference"><a href="#cite_note-Ilion-1">[1]</a></sup>
 
-Ilwen có lẽ đã đi cùng Ingwë và những người còn lại trong Vanyar đến [Valinor](../V/Valinor.md), vì người ta nói rằng Ingwë đã sinh ra nhiều đứa con trong niềm hạnh phúc của Aman, như [Finwë](../F/Finwë.md) đã lưu ý khi anh phàn nàn với [Valar](../V/Valar.md) về tình trạng góa bụa của mình sau cái chết của [Míriel](../M/Míriel.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Ilwen có lẽ đã đi cùng Ingwë và phần còn lại của Vanyar tới [Valinor](../V/Valinor.md), vì người ta nói rằng Ingwë sinh ra nhiều đứa con trong niềm hạnh phúc của Aman, như [Finwë](../F/Finwë.md) đã lưu ý khi ông phàn nàn với [Valar](../V/Valar.md) về tình trạng góa bụa sau cái chết của [Míriel](../M/Míriel.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Theo *[Eldamo](../E/Eldamo.md)*, tên *Ilwen* dường như có trong [Quenya](../Q/Quenya.md)nhưng ý nghĩa của nó không rõ ràng.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Theo *[Eldamo](../E/Eldamo.md)*, cái tên *Ilwen* dường như có trong [Quenya](../Q/Quenya.md), nhưng ý nghĩa của nó không rõ ràng.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Phả hệ {#Genealogy}
 
@@ -68,7 +68,7 @@ Theo *[Eldamo](../E/Eldamo.md)*, tên *Ilwen* dường như có trong [Quenya](.
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong *[The Nature of Middle-earth](../T/The_Nature_of_Middle-earth.md)*, [Indis](Indis.md) (vợ thứ hai của [Finwë](../F/Finwë.md)) là con gái của Ingwë và Ilwen, và là em gái của [Ingwion](Ingwion.md) (trong văn bản có tên là *Ingwil*).<sup id="cite_ref-Ilion_1-1" class="reference"><a href="#cite_note-Ilion-1">[1]</a></sup>
+Trong *[The Nature of Middle-earth](../T/The_Nature_of_Middle-earth.md)*, [Indis](Indis.md) (vợ thứ hai của [Finwë](../F/Finwë.md)) là con gái của Ingwë và Ilwen, và là em gái của [Ingwion](Ingwion.md) (trong văn bản có tên *Ingwil*).<sup id="cite_ref-Ilion_1-1" class="reference"><a href="#cite_note-Ilion-1">[1]</a></sup>
 
 <span></span>
 

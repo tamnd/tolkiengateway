@@ -18,7 +18,7 @@ categories:
 
 Từ *patakar* là một từ '[Quenyarized](../Q/Quenya.md)' được tạo bởi các âm <span title="Pronunciation in IPA" class="IPA">/p/</span>, <span title="Pronunciation in IPA" class="IPA">/t/</span>, <span title="Pronunciation in IPA" class="IPA">/k/</span>và đề cập đến các điểm dừng vô thanh.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Đây là các ký tự cơ bản của [Tengwar](../T/Tengwar.md) ([Parma](Parma.md), [Tinco](../T/Tinco.md) cùng với [Tyelpë](../T/Tyelpë.md), [Calma](../C/Calma.md) cùng với [Quessë](../Q/Quessë.md)) và là người đứng đầu mỗi 'loạt phim'.
 
-Các sê-ri lần lượt được đặt tên là *[tincotéma](../T/Tincotéma.md)*, *[parmatéma](Parmatéma.md)*, *[calmatéma](../C/Calmatéma.md)* (*[téma](../T/Téma.md)* có nghĩa là "sê-ri" trong Quenya). <span></span>
+Các bộ truyện lần lượt được đặt tên là *[tincotéma](../T/Tincotéma.md)*, *[parmatéma](Parmatéma.md)*, *[calmatéma](../C/Calmatéma.md)* (*[téma](../T/Téma.md)* có nghĩa là "bộ truyện" trong Quenya). <span></span>
 
 ## Tài liệu tham khảo {#References}
 

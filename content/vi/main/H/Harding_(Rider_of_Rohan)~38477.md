@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Harding (rider of Rohan)"
 ---
 
-Chuyển hướng đến [Harding (người lái Rohan)](<Harding_(rider_of_Rohan).md>).
+Chuyển hướng đến [Harding (kỵ sĩ Rohan)](<Harding_(rider_of_Rohan).md>).

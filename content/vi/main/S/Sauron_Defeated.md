@@ -54,33 +54,33 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Sauron_Defeated_1992.png.md"><img src="https://tolkiengateway.net/w/images/thumb/b/bb/Sauron_Defeated_1992.png/297px-Sauron_Defeated_1992.png" decoding="async" loading="lazy" width="297" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/b/bb/Sauron_Defeated_1992.png 1.5x" data-file-width="310" data-file-height="500"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Sauron Defeated</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../H/HarperCollins.md" title="HarperCollins">HarperCollins</a> (UK)<br/><a class="mw-redirect" href="../H/Houghton_Mifflin.md" title="Houghton Mifflin">Houghton Mifflin</a> (US)</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/6_January.md" title="6 January">6 January</a> <a href="../_/1992.md" title="1992">1992</a> (UK)<br/><a href="../_/27_October.md" title="27 October">27 October</a> 1992 (US)</td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Hardcover; paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">482</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0261102400" title="Special:BookSources/0261102400">0261102400</a></td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="../T/The_War_of_the_Ring.md" title="The War of the Ring">The War of the Ring</a> (1990)</td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="../M/Morgoth&#39;s_Ring.md" title="Morgoth&#39;s Ring">Morgoth&#39;s Ring</a> (1993)</td></tr></tbody></table>
 
-<i><b>Sauron Defeated</b></i>, xuất bản trong [1992](../_/1992.md), là tập thứ chín trong bộ sách 12 tập của [Christopher Tolkien](../C/Christopher_Tolkien.md), *[The History of Middle-earth](../T/The_History_of_Middle-earth.md)*, trong đó ông phân tích các bản thảo chưa xuất bản của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
+<i><b>Sauron Defeated</b></i>, xuất bản năm [1992](../_/1992.md), là tập thứ chín trong bộ sách 12 tập của [Christopher Tolkien](../C/Christopher_Tolkien.md), *[The History of Middle-earth](../T/The_History_of_Middle-earth.md)*, trong đó ông phân tích các bản thảo chưa xuất bản của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
-Một phiên bản rút gọn của nó, dưới tựa đề <i><b><a href="../T/The_End_of_the_Third_Age.md" title="The End of the Third Age">Sự kết thúc của Kỷ Đệ Tam</a></b></i>, tạo thành tập thứ tư của *[The History of The Lord of the Rings](../T/The_History_of_The_Lord_of_the_Rings.md)*, ghi lại quá trình viết của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.
+Một phiên bản rút gọn của nó, dưới tựa đề <i><b><a href="../T/The_End_of_the_Third_Age.md" title="The End of the Third Age">Sự kết thúc của Thời đại thứ ba</a></b></i>, tạo thành tập thứ tư của *[The History of The Lord of the Rings](../T/The_History_of_The_Lord_of_the_Rings.md)*, ghi lại quá trình viết của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.
 
-Tập này kết thúc câu chuyện và có *Epilogue*bị từ chối, trong đó [Sam](Sam.md) trả lời các câu hỏi của con anh ta. Nó cũng bao gồm *[The Notion Club Papers](../T/The_Notion_Club_Papers.md)* (một câu chuyện du hành thời gian liên quan đến [Númenor](../N/Númenor.md)), bản nháp của *[Drowning of Anadûnê](../D/Drowning_of_Anadûnê.md)*và tài liệu duy nhất còn tồn tại về ngôn ngữ hư cấu của Tolkien [Adûnaic](../A/Adûnaic.md).
+Tập này kết thúc câu chuyện và kể về *Epilogue* bị từ chối, trong đó [Sam](Sam.md) trả lời các câu hỏi của con mình. Nó cũng bao gồm *[The Notion Club Papers](../T/The_Notion_Club_Papers.md)* (một câu chuyện du hành thời gian liên quan đến [Númenor](../N/Númenor.md)), bản nháp của *[Drowning of Anadûnê](../D/Drowning_of_Anadûnê.md)* và tài liệu duy nhất còn tồn tại về ngôn ngữ hư cấu [Adûnaic](../A/Adûnaic.md) của Tolkien.
 
-Tựa đề *The End of the Third Age* là tựa gốc cho Quyển 6 của *TLotR*, sau đó bị Tolkien loại bỏ.
+Tiêu đề *The End of the Third Age* là tiêu đề ban đầu cho Quyển 6 của *TLotR*, sau đó bị Tolkien loại bỏ.
 
 ## Nội dung {#Contents}
 
 - Lời nói đầu
 
-- **Phần thứ nhất: Sự kết thúc của Kỷ Đệ Tam**
-    - Tôi. "Câu chuyện về Frodo và Sam trong Mordor"
+- **Phần thứ nhất: Sự kết thúc của Thời đại thứ ba**
+    - Tôi. "Câu chuyện về Frodo và Sam ở Mordor"
     - II. "Tháp Kirith Ungol"
-    - III. "Vùng đất Bóng Tối"
-    - IV. "Núi Doom"
+    - III. "Vùng đất bóng tối"
+    - IV. "Núi định mệnh"
     - V. "Cánh đồng Kormallen"
-    - VI. "Quản gia và Vua"
-    - VIII. "Many Partings"
+    - VI. "Quản gia và nhà vua"
+    - VII. "Nhiều cuộc chia tay"
     - VIII. "Trở Về Nhà"
-    - IX. "Cuộc thanh trừng của Shire"
-    - X. "Cái Cảng Xám"
+    - IX. "Cuộc thanh trừng vùng Shire"
+    - X. "Những thiên đường xám"
     - XI. "Phần kết"
-    - Phụ lục: Bản vẽ Orthanc và Dunharrow
+    - Phụ lục: Bản vẽ Orthanc và Dunharg
 
-- **Phần thứ hai: [The Notion Club Papers](../T/The_Notion_Club_Papers.md)**
+- **Phần thứ hai: [Bài viết của Câu lạc bộ Notion](../T/The_Notion_Club_Papers.md)**
     - Giới thiệu
     - Lời nói đầu và danh sách thành viên
     - [*The Notion Club Papers* Phần thứ nhất](../T/The_Notion_Club_Papers_Part_One.md)
@@ -89,8 +89,8 @@ Tựa đề *The End of the Third Age* là tựa gốc cho Quyển 6 của *TLot
         - (i) Các phiên bản trước của Đêm 66
         - (ii) Phiên bản gốc của 'Mảnh vỡ' của Lowdham
         - (iii) Các phiên bản trước đó của 'Mảnh vỡ' của Lowdham trong Adunaic
-        - (iv) Các phiên bản trước của văn bản tiếng Anh cổ của Edwin Lowdham
-        - (v) Trang được bảo tồn từ bản thảo của Edwin Lowdham được viết bằng chữ Númenórean
+        - (iv) Các phiên bản trước đây của văn bản tiếng Anh cổ của Edwin Lowdham
+        - (v) Trang được bảo tồn từ bản thảo của Edwin Lowdham viết bằng chữ Númenórean
 
 - **Phần thứ ba: [Sự chết đuối của Anadûnê](../T/The_Drowning_of_Anadûnê.md)**
     - (i) Phiên bản thứ ba của *The Fall of Númenor*
@@ -104,7 +104,7 @@ Tựa đề *The End of the Third Age* là tựa gốc cho Quyển 6 của *TLot
 
 ## Chữ khắc {#Inscriptions}
 
-Có một dòng chữ bằng ký tự [Tengwar](../T/Tengwar.md) ở những trang đầu tiên của mỗi tập *History of Middle-earth*, do Christopher Tolkien viết và mô tả nội dung của cuốn sách. Dòng chữ trong Quyển IX có nội dung:
+Có một dòng chữ bằng ký tự [Tengwar](../T/Tengwar.md) ở trang đầu tiên của mỗi tập *History of Middle-earth*, do Christopher Tolkien viết và mô tả nội dung cuốn sách. Dòng chữ trong Quyển IX có nội dung:
 
 <dl><dd>&#34;<i>In this book is traced first the story of the destruction of the One Ring and the Downfall of Sauron at the End of the Third Age. Then follows an account of the intrusion of the Cataclysm of the West into the deliberations of certain scholars of Oxford and the Fall of Sauron named <a class="mw-redirect" href="../Z/Zigûr.md" title="Zigûr">Zigûr</a> in the Drowning of Anadûne.</i>&#34;</dd></dl>
 
@@ -175,11 +175,11 @@ The second section is an edition of The Notion Club Papers. These mysterious pap
 
 - [HarperCollins](../H/HarperCollins.md) bìa cứng ([1992](../_/1992.md)), trang 482. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0261102400">ISBN 0261102400</a>
 - [HarperCollins](../H/HarperCollins.md) bìa mềm ([1993](../_/1993.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0261103059">ISBN 0261103059</a> - (ảnh bìa của [Roger Garland](../R/Roger_Garland.md))
-    - Ấn bản bìa mềm năm 1993, lần in thứ 2 - (ảnh bìa của [John Howe](../J/John_Howe.md))
+    - Ấn bản bìa mềm năm 1993, ấn tượng thứ 2 - (ảnh bìa của [John Howe](../J/John_Howe.md))
     - Ấn bản bìa mềm năm 1993, đặt lại ở [2002](../_/2002.md), sau đó ở [2015](../_/2015.md)
 - [HarperCollins](../H/HarperCollins.md) bìa cứng ([2010](../_/2010.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007365330">ISBN 0007365330</a>
     - Ấn bản bìa mềm năm 2015, lần in thứ 26 ([2024](../_/2024.md))
-- [HarperCollins](../H/HarperCollins.md) bìa cứng có áo chống bụi có thể đảo ngược ([2024](../_/2024.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/9780063390843">ISBN 978-0063390843</a> (bộ) - ([Bộ đóng hộp thế kỷ](../C/Centenary_Boxed_Sets.md) #3)
+- [HarperCollins](../H/HarperCollins.md) bìa cứng với áo khoác chống bụi có thể đảo ngược ([2024](../_/2024.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/9780063390843">ISBN 978-0063390843</a> (bộ) - ([Bộ đóng hộp thế kỷ](../C/Centenary_Boxed_Sets.md) #3)
 
 ## Liên kết ngoài {#External_links}
 

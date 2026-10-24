@@ -39,30 +39,30 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mythlore_39.png.md"><img src="https://tolkiengateway.net/w/images/b/be/Mythlore_39.png" decoding="async" loading="lazy" width="311" height="398" class="mw-file-element" data-file-width="311" data-file-height="398"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mythlore 39</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../G/Glen_GoodKnight.md" title="Glen GoodKnight">Glen GoodKnight</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Summer <a href="../_/1984.md" title="1984">1984</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">63</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mythlore_38.md" title="Mythlore 38">Mythlore 38</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mythlore_40.md" title="Mythlore 40">Mythlore 40</a></td></tr></tbody></table>
 
-<b><i>Mythlore</i> 39</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol11/iss1/" rel="noreferrer noopener" target="_blank">Tập 11, Số 1</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
+<b><i>Thần thoại</i> 39</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol11/iss1/" rel="noreferrer noopener" target="_blank">Tập 11, Số 1</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
 
 ## Nội dung {#Contents}
 
 #### Bài viết {#Articles}
 
-- Bergvall, Ake. “Một huyền thoại được kể lại: C.S. Lewis' cho đến khi chúng ta có khuôn mặt.”
-- Houghton, John. “Rochester Người đổi mới: Anh hùng Byronic và Đấng cứu thế là các nguyên tố trong The Vua Elessar.”
-- Kenney, Alice P. “Bà chủ của sự sáng tạo.”
-- Paxton, Diana. “Truyền thống Tolkien.”
-- Harrod, Elizabeth. “Những cái cây ở Tolkien và những gì đã xảy ra bên dưới chúng.”
-- Berman, Ruth. “Rồng cho Tolkien và Lewis.”
+- Bergvall, Ake. “A Myth Retold: C.S. Lewis' Till We Have Faces.”
+- Houghton, John. “Rochester The Renewer: The Byronic Hero and The Messiah as Elements in The King Elessar.”
+- Kenney, Alice P. “Mistress of Creation.”
+- Paxton, Diana. “The Tolkien Tradition.”
+- Harrod, Elizabeth. “Trees in Tolkien, and What Happened Under Them.”
+- Berman, Ruth. “Dragons for Tolkien and Lewis.”
 
 #### Thơ {#Poetry}
 
-- Benedict, Marthe. “Cư dân ở vùng đất của những giấc mơ.”
-- Christopher, Joe R. “Một đêm ở nhà Mara.”
+- Benedict, Marthe. “Dwellers in the Land of Dreams.”
+- Christopher, Joe R. “A Night at Mara's House.”
 
 #### Tính năng {#Features}
 
-- GoodKnight, Glen H. Editorial: Tình yêu của những người bạn cũ
-- Christopher, Joe R. An Inklings Thư mục (28).
+- GoodKnight, Glen H. Editorial: The Love of Old Friends
+- Christopher, Joe R. An Inklings Bibliography (28).
 - Hyde, Paul Nolan. “Quenti Lambardillion.”
-- Bãi biển, Sarah. “Thần thoại.”
+- Beach, Sarah. “Mythopoesis.”
 - Thư
 
 #### Đánh giá {#Reviews}

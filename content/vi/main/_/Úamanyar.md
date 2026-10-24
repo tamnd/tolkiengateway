@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Úmanyar"
 ---
 
-Chuyển hướng đến [Úmanyar](Úmanyar.md).
+Chuyển hướng tới [Úmanyar](Úmanyar.md).

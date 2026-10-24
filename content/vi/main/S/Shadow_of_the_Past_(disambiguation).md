@@ -14,13 +14,13 @@ images:
   - "Disambig.png"
 ---
 
-**Bóng Tối Quá Khứ** có thể ám chỉ:
+**Hình bóng của quá khứ** có thể ám chỉ:
 
-- **[ Bóng Tối của Quá khứ (chương)](../T/The_Shadow_of_the_Past.md)**, chương thứ hai của [The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md).
-- **[Bóng Tối của Quá khứ (phim)](../T/The_Lord_of_the_Rings%253A_Shadow_of_the_Past.md)**, một bộ phim sắp ra mắt.
-- **[(Cảnh) Bóng Tối của Quá khứ](<../T/The_Shadow_of_the_Past_(scene).md>)**, một cảnh trong [The Lord of the Rings: The Fellowship of the Ring](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md).
-- **[The Bóng Tối Of The Past (nhạc phim)](<../T/The_Shadow_Of_The_Past_(soundtrack).md>)**, bài hát thứ ba trong [The Lord of the Rings: The Fellowship of the Ring - Nhạc phim gốc](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack.md).
-- **[Một Bóng Tối của quá khứ](../A/A_Shadow_of_the_Past.md)**, tập đầu tiên trong loạt phim truyền hình của [Amazon Studios](../A/Amazon_Studios.md), [The Lord of the Rings: The Rings of Power](../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md).
+- **[Cái bóng của quá khứ (chương)](../T/The_Shadow_of_the_Past.md)**, chương thứ hai của [Hiệp hội nhẫn](../T/The_Fellowship_of_the_Ring.md).
+- **[Cái bóng của quá khứ (phim)](../T/The_Lord_of_the_Rings%253A_Shadow_of_the_Past.md)**, một bộ phim sắp ra mắt.
+- **[Cái bóng của quá khứ (cảnh)](<../T/The_Shadow_of_the_Past_(scene).md>)**, một cảnh trong [The Lord of the Rings: The Fellowship of the Ring](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md).
+- **[The Shadow Of The Past (nhạc phim)](<../T/The_Shadow_Of_The_Past_(soundtrack).md>)**, ca khúc thứ ba trong [The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture Soundtrack](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack.md).
+- **[Cái bóng của quá khứ](../A/A_Shadow_of_the_Past.md)**, tập đầu tiên của loạt phim truyền hình [Amazon Studios](../A/Amazon_Studios.md), [The Lord of the Rings: The Rings of Power](../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md).
 
 <hr style="margin-top:15px;"/>
 

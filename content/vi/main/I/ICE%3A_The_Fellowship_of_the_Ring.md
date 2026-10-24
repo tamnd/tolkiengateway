@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Fellowship of the Ring (board game)"
 ---
 
-Chuyển hướng tới [The Fellowship of the Ring (trò chơi board game)](<../T/The_Fellowship_of_the_Ring_(board_game).md>).
+Chuyển hướng tới [Hiệp hội nhẫn thần (trò chơi trên bàn)](<../T/The_Fellowship_of_the_Ring_(board_game).md>).

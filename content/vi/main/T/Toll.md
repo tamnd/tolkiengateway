@@ -13,7 +13,7 @@ categories:
   - "Noldorin nouns"
 ---
 
-<i><b>toll</b></i> (pl. *tyll*) là một từ [Noldorin](../N/Noldorin.md) có nghĩa là "đảo".<sup id="cite_ref-Ety_1-0" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup>
+<i><b>toll</b></i> (pl. *tyll*) là từ [Noldorin](../N/Noldorin.md) có nghĩa là "đảo".<sup id="cite_ref-Ety_1-0" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

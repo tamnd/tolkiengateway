@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Kaplan, Neil"
 ---
 
-**Neil Kaplan** ([9 tháng 3](../_/9_March.md), [1967](../_/1967.md)) là một diễn viên người Mỹ. Anh ấy vẫn là bạn thân với *Transformers: Robots in Disguise* bạn diễn [Wally Wingert](../W/Wally_Wingert.md).
+**Neil Kaplan** ([9 tháng 3](../_/9_March.md), [1967](../_/1967.md)) là một diễn viên người Mỹ. Ông vẫn là bạn thân với *Transformers: Robots in Disguise* bạn diễn [Wally Wingert](../W/Wally_Wingert.md).
 
 ## Vai trò {#Roles}
 

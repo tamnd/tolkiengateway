@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Grimbold"
 ---
 
-Chuyển hướng đến [Grimbold](Grimbold.md).
+Chuyển hướng tới [Grimbold](Grimbold.md).

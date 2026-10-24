@@ -22,8 +22,8 @@ sort_keys:
 
 ## Vai trò {#Roles}
 
-- [1981](../_/1981.md): *[The Lord of the Rings](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>)*: [Daddy Twofoot](../D/Daddy_Twofoot.md)
-- [1968](../_/1968.md): *[The Hobbit](<../T/The_Hobbit_(1968_radio_series).md>)*: [Cái Vua Tiên](../T/Thranduil.md)
+- [1981](../_/1981.md): *[The Lord of the Rings](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>)*: [Bố Hai Chân](../D/Daddy_Twofoot.md)
+- [1968](../_/1968.md): *[The Hobbit](<../T/The_Hobbit_(1968_radio_series).md>)*: [Vua Tiên](../T/Thranduil.md)
 
 ## Liên kết ngoài {#External_links}
 

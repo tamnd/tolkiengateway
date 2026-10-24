@@ -36,19 +36,19 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/John_Howe.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/2/21/John_Howe.jpg/319px-John_Howe.jpg" decoding="async" loading="lazy" width="319" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/2/21/John_Howe.jpg 1.5x" data-file-width="426" data-file-height="640"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>John Howe</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Born</th><td class="tg-infobox-data"><a href="../_/21_August.md" title="21 August">21 August</a>, <a href="../_/1957.md" title="1957">1957</a></td></tr><tr><th scope="row" class="tg-infobox-label">Images</th><td class="tg-infobox-data"><a href="../../category/I/Images_by_John_Howe.md" title="Category:Images by John Howe">Images by John Howe</a></td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">Switzerland</td></tr><tr><th scope="row" class="tg-infobox-label">Website</th><td class="tg-infobox-data"><a class="external text" href="http://www.john-howe.com/" rel="noreferrer noopener" target="_blank">john-howe.com</a></td></tr></tbody></table>
 
-**John Howe** là một họa sĩ minh họa người Canada nổi tiếng với việc minh họa cho nhiều tác phẩm của [J.R.R. Tolkien](J.R.R._Tolkien.md) cũng như làm việc trên cả loạt phim [*The Lord of the Rings*](<../T/The_Lord_of_the_Rings_(film_series).md>) và [*The Hobbit*](<../T/The_Hobbit_(film_series).md>). Gần đây nhất anh ấy đã làm việc với tư cách là họa sĩ ý tưởng cho *[The Lord of the Rings: The Rings of Power](../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)* loạt phim truyền hình<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và *[The Lord of the Rings: The Hunt for Gollum](../T/The_Lord_of_the_Rings%253A_The_Hunt_for_Gollum.md)*.<sup id="cite_ref-Hunt_2-0" class="reference"><a href="#cite_note-Hunt-2">[2]</a></sup>
+**John Howe** là họa sĩ minh họa người Canada nổi tiếng với việc minh họa nhiều tác phẩm [J.R.R. Tolkien](J.R.R._Tolkien.md) cũng như làm việc trên cả loạt phim [*The Lord of the Rings*](<../T/The_Lord_of_the_Rings_(film_series).md>) và [*The Hobbit*](<../T/The_Hobbit_(film_series).md>). Gần đây nhất ông đã làm việc với tư cách là họa sĩ ý tưởng cho *[The Lord of the Rings: The Rings of Power](../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)* loạt phim truyền hình<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và *[The Lord of the Rings: The Hunt for Gollum](../T/The_Lord_of_the_Rings%253A_The_Hunt_for_Gollum.md)*.<sup id="cite_ref-Hunt_2-0" class="reference"><a href="#cite_note-Hunt-2">[2]</a></sup>
 
 ## Lịch sử {#History}
 
-John Howe sinh ra ở Vancouver, Canada.<sup id="cite_ref-bio_3-0" class="reference"><a href="#cite_note-bio-3">[3]</a></sup> Anh tốt nghiệp trường École des Arts Dècoratifs của <a class="extiw" href="http://en.wikipedia.org/wiki/Strasbourg" title="wikipedia:Strasbourg">Strasbourg</a><sup id="cite_ref-bio_3-1" class="reference"><a href="#cite_note-bio-3">[3]</a></sup> tại [1981](../_/1981.md), với bằng Cao đẳng về Minh họa.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Hiện anh sống ở <a class="extiw" href="http://en.wikipedia.org/wiki/Neuchatel" title="wikipedia:Neuchatel">Neuchatel</a> cùng với vợ [Fataneh](../F/Fataneh_Howe.md) (một người bạn Tolkien họa sĩ minh họa) và con trai của họ Dana.<sup id="cite_ref-bio_3-2" class="reference"><a href="#cite_note-bio-3">[3]</a></sup>
+John Howe sinh ra ở Vancouver, Canada.<sup id="cite_ref-bio_3-0" class="reference"><a href="#cite_note-bio-3">[3]</a></sup> Anh tốt nghiệp trường École des Arts Dècoratifs của <a class="extiw" href="http://en.wikipedia.org/wiki/Strasbourg" title="wikipedia:Strasbourg">Strasbourg</a><sup id="cite_ref-bio_3-1" class="reference"><a href="#cite_note-bio-3">[3]</a></sup> ở [1981](../_/1981.md), với bằng Cao đẳng về Minh họa.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Hiện anh sống ở <a class="extiw" href="http://en.wikipedia.org/wiki/Neuchatel" title="wikipedia:Neuchatel">Neuchatel</a> cùng với vợ [Fataneh](../F/Fataneh_Howe.md) (một họa sĩ minh họa Tolkien) và con trai của họ Dana.<sup id="cite_ref-bio_3-2" class="reference"><a href="#cite_note-bio-3">[3]</a></sup>
 
-Lần đầu tiên Howe đọc [*The Lord of the Rings*](../T/The_Lord_of_the_Rings.md) là ở trường trung học, sau khi mượn sách từ thư viện trường. Anh ấy bắt đầu với [*The Two Towers*](../T/The_Two_Towers.md) vì "*tất cả những người bắt đầu tập đầu tiên sẽ không bao giờ tiến xa hơn*" và [*The Fellowship of the Ring*](../T/The_Fellowship_of_the_Ring.md) hiếm khi có thể mượn được.<sup id="cite_ref-myth_5-0" class="reference"><a href="#cite_note-myth-5">[5]</a></sup> Anh ấy lấy cảm hứng từ tác phẩm nghệ thuật của [Anh em nhà Hildebrandt](../T/The_Brothers_Hildebrandt.md) để bắt đầu tạo hình minh họa cho các tác phẩm của Tolkien.<sup id="cite_ref-myth_5-1" class="reference"><a href="#cite_note-myth-5">[5]</a></sup>
+Lần đầu tiên Howe đọc [*The Lord of the Rings*](../T/The_Lord_of_the_Rings.md) là ở trường trung học, sau khi mượn sách từ thư viện trường. Ông bắt đầu với [*The Two Towers*](../T/The_Two_Towers.md) vì "*tất cả những người bắt đầu tập đầu tiên sẽ không bao giờ tiến xa hơn*" và [*The Fellowship of the Ring*](../T/The_Fellowship_of_the_Ring.md) hiếm khi có thể mượn được.<sup id="cite_ref-myth_5-0" class="reference"><a href="#cite_note-myth-5">[5]</a></sup> Ông lấy cảm hứng từ tác phẩm nghệ thuật của [Anh em nhà Hildebrandt](../T/The_Brothers_Hildebrandt.md) để bắt đầu tạo hình minh họa cho các tác phẩm của Tolkien.<sup id="cite_ref-myth_5-1" class="reference"><a href="#cite_note-myth-5">[5]</a></sup>
 
-[phiên bản](../../file/J/John_Howe_-_Boromir_01.jpg.md) của [Boromir](../B/Boromir.md) của Howe dựa trên khuôn mặt của chính anh ấy.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+[phiên bản](../../file/J/John_Howe_-_Boromir_01.jpg.md) của [Boromir](../B/Boromir.md) của Howe dựa trên khuôn mặt của chính ông.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 <h3><span id="Involvement_in_Peter_Jackson.27s_Middle-earth_film_series"></span><span class="mw-headline" id="Involvement_in_Peter_Jackson&#39;s_Middle-earth_film_series">Involvement in Peter Jackson&#39;s Middle-earth film series</span></h3>
 
-John Howe và [Alan Lee](../A/Alan_Lee.md) từng là nhà thiết kế ý tưởng chính cho bộ ba phim [*The Lord of the Rings*](<../T/The_Lord_of_the_Rings_(film_series).md>).<sup id="cite_ref-imdb_7-0" class="reference"><a href="#cite_note-imdb-7">[7]</a></sup> Howe cũng được ghi nhận là thợ mộc trong hai bộ phim đầu tiên.<sup id="cite_ref-imdb_7-1" class="reference"><a href="#cite_note-imdb-7">[7]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Anh ấy đóng vai khách mời là một trong chín [Vị vua của Con Người](../N/Nazgûl.md) trong Đoạn mở đầu của *[The Lord of the Rings: The Fellowship of the Ring](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)*. Howe và Lee trở lại làm nhà thiết kế ý tưởng cho loạt phim [*The Hobbit*](<../T/The_Hobbit_(film_series).md>). Cả hai đều xuất hiện không được công nhận với tư cách là nhạc sĩ nam của [Laketown](../L/Lake-town.md) trong *[The Desolation of Smaug](../T/The_Hobbit%253A_The_Desolation_of_Smaug.md)*.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> Howe từng làm nghệ sĩ ý tưởng cho *[The Lord of the Rings: The Hunt for Gollum](../T/The_Lord_of_the_Rings%253A_The_Hunt_for_Gollum.md)*.<sup id="cite_ref-Hunt_2-1" class="reference"><a href="#cite_note-Hunt-2">[2]</a></sup>
+John Howe và [Alan Lee](../A/Alan_Lee.md) từng là nhà thiết kế ý tưởng chính cho bộ ba phim [*The Lord of the Rings*](<../T/The_Lord_of_the_Rings_(film_series).md>).<sup id="cite_ref-imdb_7-0" class="reference"><a href="#cite_note-imdb-7">[7]</a></sup> Howe cũng được ghi nhận là thợ mộc trong hai bộ phim đầu tiên.<sup id="cite_ref-imdb_7-1" class="reference"><a href="#cite_note-imdb-7">[7]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Ông đóng vai khách mời là một trong chín [Vua đàn ông](../N/Nazgûl.md) trong Đoạn mở đầu của *[The Lord of the Rings: The Fellowship of the Ring](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)*. Howe và Lee trở lại làm nhà thiết kế ý tưởng cho loạt phim [*The Hobbit*](<../T/The_Hobbit_(film_series).md>). Cả hai đều xuất hiện không được công nhận với tư cách là nhạc sĩ nam của [Laketown](../L/Lake-town.md) trong *[The Desolation of Smaug](../T/The_Hobbit%253A_The_Desolation_of_Smaug.md)*.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> Howe từng làm nghệ sĩ ý tưởng cho *[The Lord of the Rings: The Hunt for Gollum](../T/The_Lord_of_the_Rings%253A_The_Hunt_for_Gollum.md)*.<sup id="cite_ref-Hunt_2-1" class="reference"><a href="#cite_note-Hunt-2">[2]</a></sup>
 
 ### Trộm cắp tác phẩm nghệ thuật {#Artwork_theft}
 
@@ -56,11 +56,11 @@ Vào đêm ngày 18 tháng 5 năm 1997, 11 bản gốc của Howe đã bị đá
 
 ### *Lord of the Brush* {#Lord_of_the_Brush}
 
-Năm 2005 [Lord of the Brush](../L/Lord_of_the_Brush.md), một bộ phim tài liệu về tác phẩm của Howe trong Legendarium đã được phát hành dưới dạng DVD.
+Năm 2005 [Lord of the Brush](../L/Lord_of_the_Brush.md), một bộ phim tài liệu về công việc của Howe trong Legendarium đã được phát hành dưới dạng DVD.
 
 ## Tác phẩm nghệ thuật đã xuất bản {#Published_Artwork}
 
-Howe là một trong những nghệ sĩ [HarperCollins](../H/HarperCollins.md) được sử dụng nhiều nhất và ảnh bìa của anh ấy cũng thường xuyên xuất hiện trên các bản dịch.
+Howe là một trong những nghệ sĩ được [HarperCollins](../H/HarperCollins.md) sử dụng nhiều nhất và ảnh bìa của ông cũng thường xuyên xuất hiện trên các bản dịch.
 
 ### Nhiều phiên bản {#Multiple_editions}
 
@@ -92,21 +92,21 @@ Howe là một trong những nghệ sĩ [HarperCollins](../H/HarperCollins.md) �
 - [1995](../_/1995.md) - *[Tolkien Calendar](J.R.R._Tolkien_Calendar_1995.md)*
 - [1995](../_/1995.md) - *[The Tolkien Diary](../T/The_Tolkien_Diary_1995.md)*
 - [1997](../_/1997.md) - *[Tolkien Calendar](../T/Tolkien_Calendar_1997.md)*
-- [1997](../_/1997.md) - [Vương miện Sắt Doanh nghiệp](../I/Iron_Crown_Enterprises.md)' *[Middle-earth Collectible Card Game](../M/Middle-earth_Collectible_Card_Game.md)*
+- [1997](../_/1997.md) - [Doanh nghiệp Iron Crown](../I/Iron_Crown_Enterprises.md)' *[Middle-earth Collectible Card Game](../M/Middle-earth_Collectible_Card_Game.md)*
 - [1998](../_/1998.md) - *[The History of The Lord of the Rings](../T/The_History_of_The_Lord_of_the_Rings.md)* bộ hộp
 - [2000](../_/2000.md) - <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Images_of_Middle-Earth&amp;action=edit&amp;redlink=1" title="Images of Middle-Earth (page does not exist)">Hình ảnh về Trung Địa</a></i>
 - [2000](../_/2000.md) - *[Lord of the Rings](<../L/Lord_of_the_Rings_(board_game).md>)* (trò chơi board game)
 - [2001](../_/2001.md) - *[Tolkien Calendar](../T/The_Lord_of_the_Rings_Calendar_2001.md)*
-- [2001](../_/2001.md) - <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Lord_of_the_Rings_Tolkien_Diary_2001&amp;action=edit&amp;redlink=1" title="The Lord of the Rings Tolkien Diary 2001 (page does not exist)">The Lord of the Rings Tolkien Nhật ký</a></i>
-- [2001](../_/2001.md) - *Thần thoại và phép thuật: Nghệ thuật John Howe*
+- [2001](../_/2001.md) - <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Lord_of_the_Rings_Tolkien_Diary_2001&amp;action=edit&amp;redlink=1" title="The Lord of the Rings Tolkien Diary 2001 (page does not exist)">Nhật ký Chúa tể của những chiếc nhẫn Tolkien</a></i>
+- [2001](../_/2001.md) - *Thần thoại và phép thuật: Nghệ thuật của John Howe*
 - [2004](../_/2004.md) - *[War of the Ring](<../W/War_of_the_Ring_(Board_game).md>)* (trò chơi board game)
 - [2004](../_/2004.md) - *John Howe - Artbook*
 - [2006](../_/2006.md) - *[Battles of the Third Age](../B/Battles_of_the_Third_Age.md)* (trò chơi board game)
 - [2007](../_/2007.md) - *John Howe Fantasy Art Workshop*
 - [2008](../_/2008.md) - *John Howe Forging Dragons*
 - [2009](../_/2009.md) - *John Howe Fantasy Drawing Workshop*
-- [2011](../_/2011.md) - *[War of the Ring: Second Edition](<../W/War_of_the_Ring%253A_Second_Edition_(2011_board_game).md>)* (trò chơi board game)
-- [2014](../_/2014.md) - *Tô màu Rồng: Nổi bật với tác phẩm nghệ thuật của John Howe từ The Lord of the Rings & The Hobbit phim*
+- [2011](../_/2011.md) - *[War of the Ring: Second Edition](<../W/War_of_the_Ring%253A_Second_Edition_(2011_board_game).md>)* (trò chơi cờ bàn)
+- [2014](../_/2014.md) - *Tô màu rồng: Với tác phẩm nghệ thuật của John Howe từ phim Chúa tể của những chiếc nhẫn & Người Hobbit*
 - [2018](../_/2018.md) - *[A Middle-earth Traveller](../A/A_Middle-earth_Traveller.md)*
 - [2020](../_/2020.md) - *[Tolkien Calendar 2021](../T/Tolkien_Calendar_2021.md)* (với [Alan Lee](../A/Alan_Lee.md) và [Ted Nasmith](../T/Ted_Nasmith.md))
 - [2022](../_/2022.md) - *[War of the Ring: The Card Game](../W/War_of_the_Ring%253A_The_Card_Game.md)*
@@ -126,24 +126,24 @@ Howe là một trong những nghệ sĩ [HarperCollins](../H/HarperCollins.md) �
 
 ### Bài viết {#Articles}
 
-- [2013](../_/2013.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=3_minutes_pour_comprendre_l%27univers_de_Tolkien&amp;action=edit&amp;redlink=1" title="3 minutes pour comprendre l&#39;univers de Tolkien (page does not exist)">3 phút để hiểu về đại học Tolkien </a></i>
+- [2013](../_/2013.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=3_minutes_pour_comprendre_l%27univers_de_Tolkien&amp;action=edit&amp;redlink=1" title="3 minutes pour comprendre l&#39;univers de Tolkien (page does not exist)">3 phút để hiểu về trường đại học Tolkien </a></i>
     - "Lời nói đầu"
 - [2014](../_/2014.md): *[The Hobbit: The Battle of the Five Armies: Chronicles: Art &amp; Design](../T/The_Hobbit%253A_The_Battle_of_the_Five_Armies%253A_Chronicles%253A_Art_&_Design.md)*
     - "Giới thiệu"
 - [2021](../_/2021.md): *[Switzerland in Tolkien's Middle-Earth](../S/Switzerland_in_Tolkien's_Middle-Earth.md)*
     - "Lời nói đầu"
-- [2022](../_/2022.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Guida_completa_al_mondo_di_Tolkien&amp;action=edit&amp;redlink=1" title="Guida completa al mondo di Tolkien (page does not exist)">Hướng dẫn hoàn chỉnh về điều này Tolkien</a></i>
+- [2022](../_/2022.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Guida_completa_al_mondo_di_Tolkien&amp;action=edit&amp;redlink=1" title="Guida completa al mondo di Tolkien (page does not exist)">Hướng dẫn hoàn chỉnh về Tolkien</a></i>
     - "Prefazione"
 
 ### Phim ảnh {#Filmography}
 
-- [2001](../_/2001.md) - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Beyond_the_Movie:_The_Lord_of_the_Rings&amp;action=edit&amp;redlink=1" title="Beyond the Movie: The Lord of the Rings (page does not exist)">Ngoài phim: The Lord of the Rings</a>
-- [2002](../_/2002.md) - <a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Making_of_%27The_Lord_of_the_Rings%27&amp;action=edit&amp;redlink=1" title="The Making of &#39;The Lord of the Rings&#39; (page does not exist)">Quá trình hình thành 'The Lord of the Rings'</a>
-- [2003](../_/2003.md) - [J.R.R. Tolkien: Nguồn gốc của Trung Địa](J.R.R._Tolkien%253A_Origins_of_Middle-Earth.md)
+- [2001](../_/2001.md) - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Beyond_the_Movie:_The_Lord_of_the_Rings&amp;action=edit&amp;redlink=1" title="Beyond the Movie: The Lord of the Rings (page does not exist)">Vượt xa bộ phim: Chúa tể của những chiếc nhẫn</a>
+- [2002](../_/2002.md) - <a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Making_of_%27The_Lord_of_the_Rings%27&amp;action=edit&amp;redlink=1" title="The Making of &#39;The Lord of the Rings&#39; (page does not exist)">Quá trình tạo nên 'Chúa tể của những chiếc nhẫn'</a>
+- [2003](../_/2003.md) - [J.R.R. Tolkien: Origins of Middle-Earth](J.R.R._Tolkien%253A_Origins_of_Middle-Earth.md)
 - [2004](../_/2004.md) - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Designing_Middle-Earth&amp;action=edit&amp;redlink=1" title="Designing Middle-Earth (page does not exist)">Thiết kế Trung Địa</a>
-- [2004](../_/2004.md) - [John Howe: Ở đó và quay lại](John_Howe%253A_There_and_Back_Again.md)
+- [2004](../_/2004.md) - [John Howe: There and Back Again](John_Howe%253A_There_and_Back_Again.md)
 - [2009](../_/2009.md) - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Reclaiming_the_Blade&amp;action=edit&amp;redlink=1" title="Reclaiming the Blade (page does not exist)">Thu hồi lại Lưỡi kiếm</a>
-- [2014](../_/2014.md) - <a class="new" href="https://tolkiengateway.net/w/index.php?title=A_la_recherche_du_Hobbit&amp;action=edit&amp;redlink=1" title="A la recherche du Hobbit (page does not exist)">A la recherche du Hobbit</a> series (tập 1-5)
+- [2014](../_/2014.md) - <a class="new" href="https://tolkiengateway.net/w/index.php?title=A_la_recherche_du_Hobbit&amp;action=edit&amp;redlink=1" title="A la recherche du Hobbit (page does not exist)">Loạt phim A la recherche du Hobbit</a> (tập 1-5)
 - [2022](../_/2022.md) - <a class="new" href="https://tolkiengateway.net/w/index.php?title=The_origins_of_fantasy&amp;action=edit&amp;redlink=1" title="The origins of fantasy (page does not exist)">Nguồn gốc của dòng truyện giả tưởng</a> (tập 1-4)
 
 ## Trích dẫn {#Quotations}

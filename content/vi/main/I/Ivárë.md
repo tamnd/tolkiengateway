@@ -20,17 +20,17 @@ sort_keys:
   "Solosimpi": "Ivare"
 ---
 
-**Ivárë** là một [Tiên](../E/Elves.md) [minstrel](../M/Minstrels.md) nổi tiếng, được đặt tên cùng với [Tinfang Warble](../T/Tinfang_Warble.md) và [Dairon](../D/Daeron.md) là một trong "ba người chơi kỳ diệu nhất của Tiên tộc", theo [huyền thoại](../L/Legendarium.md) đầu tiên trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Ivárë** là một [Yêu tinh](../E/Elves.md) [minstrel](../M/Minstrels.md) nổi tiếng, được đặt tên cùng với [Tinfang Warble](../T/Tinfang_Warble.md) và [Dairon](../D/Daeron.md) là một trong "ba người chơi ma thuật nhất của Yêu tinh", theo [huyền thoại](../L/Legendarium.md) đầu tiên trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Trong *[Gnomish Lexicon](../G/Gnomish_Lexicon.md)* anh ta được gọi là "người thổi sáo của biển",<sup id="cite_ref-Ior_2-0" class="reference"><a href="#cite_note-Ior-2">[2]</a></sup> có thể ám chỉ rằng anh ta là một trong [Solosimpi](../S/Solosimpi.md), một nhóm Tiên tộc mà trong truyền thuyết sau này đã trở thành [Teleri](../F/Falmari.md) của [Aman](../A/Aman.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[note 1]</a></sup>
+Trong *[Gnomish Lexicon](../G/Gnomish_Lexicon.md)* ông ta được gọi là "người thổi sáo của biển",<sup id="cite_ref-Ior_2-0" class="reference"><a href="#cite_note-Ior-2">[2]</a></sup> có thể ám chỉ rằng ông ta là một trong [Solosimpi](../S/Solosimpi.md), một nhóm Yêu tinh trong truyền thuyết sau này đã trở thành [Teleri](../F/Falmari.md) của [Aman](../A/Aman.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[note 1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Tên *Ivárë* là [Qenya](../Q/Qenya.md), nhưng ý nghĩa của nó không rõ ràng.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup> Cùng nguồn gốc [Gnomish](../G/Gnomish.md) của nó là <i><b>Ior</b></i>.<sup id="cite_ref-Ior_2-1" class="reference"><a href="#cite_note-Ior-2">[2]</a></sup>
+Tên *Ivárë* là [Qenya](../Q/Qenya.md), nhưng ý nghĩa của nó không rõ ràng.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup> Tên cùng nguồn gốc [Gnomish](../G/Gnomish.md) của nó là <i><b>Ior</b></i>.<sup id="cite_ref-Ior_2-1" class="reference"><a href="#cite_note-Ior-2">[2]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong *[The Lay of Leithian](../T/The_Lay_of_Leithian.md)*, ba diễn viên Tiên vĩ đại nhất lại được nhắc đến là Tinfang, Dairon và [Maglor](../M/Maglor.md); *Maglor* là một sự thay đổi sau này so với bản dự thảo trước đó, trong đó anh ấy thay thế Ivárë.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[5]</a></sup>
+Trong *[The Lay of Leithian](../T/The_Lay_of_Leithian.md)*, ba diễn viên Elven vĩ đại nhất lại được nhắc đến là Tinfang, Dairon và [Maglor](../M/Maglor.md); *Maglor* là một sự thay đổi sau này so với bản dự thảo trước đó, trong đó ông thay thế Ivárë.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[5]</a></sup>
 
 ## Ghi chú {#Notes}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Finn and Hengest: The Fragment and the Episode"
 ---
 
-Chuyển hướng đến [Finn và Hengest: Đoạn và Tập](Finn_and_Hengest%253A_The_Fragment_and_the_Episode.md).
+Chuyển hướng đến [Finn and Hengest: The Fragment and the Episode](Finn_and_Hengest%253A_The_Fragment_and_the_Episode.md).

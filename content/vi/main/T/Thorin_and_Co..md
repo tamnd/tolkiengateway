@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Thorin and Company"
 ---
 
-Chuyển hướng đến [Thorin và Đoàn tùy tùng](Thorin_and_Company.md).
+Chuyển hướng đến [Thorin và Công ty](Thorin_and_Company.md).

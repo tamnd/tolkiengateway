@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fornost Erain"
 ---
 
-Chuyển hướng đến [Fornost Erain](../F/Fornost_Erain.md).
+Chuyển hướng tới [Fornost Erain](../F/Fornost_Erain.md).

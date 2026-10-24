@@ -31,7 +31,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Đoạn thư gửi [Allen &amp; Unwin](../A/Allen_and_Unwin.md) mà [Christopher Tolkien](../C/Christopher_Tolkien.md) và [Humphrey Carpenter](../H/Humphrey_Carpenter.md) chọn đưa vào chỉ gồm có hai câu: "Khi nào [Tập III](../T/The_Return_of_the_King.md) có khả năng xuất hiện bây giờ? Tôi sẽ bị sát hại nếu không sớm xảy ra chuyện gì đó."
+Đoạn của bức thư gửi [Allen & Unwin](../A/Allen_and_Unwin.md) mà [Christopher Tolkien](../C/Christopher_Tolkien.md) và [Humphrey Carpenter](../H/Humphrey_Carpenter.md) đã chọn đưa vào chỉ bao gồm hai câu: "Khi nào [Tập III](../T/The_Return_of_the_King.md) có khả năng xuất hiện? Tôi sẽ bị sát hại nếu điều gì đó không xảy ra sớm."
 
 ## Ghi chú {#Notes}
 

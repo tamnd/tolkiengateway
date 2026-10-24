@@ -12,7 +12,7 @@ categories:
   - "Smith of Wootton Major"
 ---
 
-**Thung lũng Evermorn** nằm ở trung tâm của [Thần tiên](../F/Faery.md) và chỉ có thể đến được qua một khe hẹp xuyên qua Ngoại giới Dãy Núi. Trong thung lũng này cây cối xanh tươi đã vượt qua những đồng cỏ xanh mướt của Ngoại Tiên cũng như chúng vượt qua màu xanh của mùa xuân trên những vùng đất phàm trần. Không khí trong lành đến mức có thể nhìn thấy những chiếc lưỡi đỏ của những chú chim ở phía xa thung lũng khi chúng hót. Trên bãi cỏ rải đầy hoa huệ trong thung lũng, các thiếu nữ Tiên nhảy múa.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
+**Thung lũng Evermorn** nằm ở trung tâm của [Thần tiên](../F/Faery.md) và chỉ có thể đến được qua một khe hẹp xuyên qua Dãy núi Bên ngoài. Trong thung lũng này cây cối xanh tươi đã vượt qua những đồng cỏ xanh mướt của Ngoại Tiên cũng như chúng vượt qua màu xanh của mùa xuân trên những vùng đất phàm trần. Không khí trong lành đến mức có thể nhìn thấy những chiếc lưỡi đỏ của những chú chim ở phía xa thung lũng khi chúng hót. Trên bãi cỏ rải đầy hoa huệ trong thung lũng, các thiếu nữ Tiên đang nhảy múa.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

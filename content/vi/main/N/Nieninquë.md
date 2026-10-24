@@ -24,7 +24,7 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the <a href="../Q/Quenya.md" title="Quenya">Quenya</a> word</b>. For the poem, see <b><a href="Nieninque.md" title="Nieninque">Nieninque</a></b>.</div></div>
 
-<i><b>Nieninquë</b></i> là một từ [Quenya](../Q/Quenya.md) có nghĩa là "giọt tuyết".<sup id="cite_ref-eldamo_1-0" class="reference"><a href="#cite_note-eldamo-1">[1]</a></sup>
+<i><b>Nieninquë</b></i> là từ [Quenya](../Q/Quenya.md) có nghĩa là "giọt tuyết".<sup id="cite_ref-eldamo_1-0" class="reference"><a href="#cite_note-eldamo-1">[1]</a></sup>
 
 <span></span>
 

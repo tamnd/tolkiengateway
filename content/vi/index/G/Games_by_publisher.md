@@ -29,7 +29,7 @@ images:
 ## [Addison-Wesley](../../main/A/Addison-Wesley.md) {#Addison-Wesley}
 
 - [Crack of Doom Phiêu lưu phần mềm](../../main/C/Crack_of_Doom_Software_Adventure.md)
-- [The Hobbit Phiêu lưu phần mềm](<../../main/T/The_Hobbit_(1982_video_game).md>)
+- [The Hobbit Software Adventure](<../../main/T/The_Hobbit_(1982_video_game).md>)
 - [The Fellowship of the Ring Phiêu lưu phần mềm](../../main/L/Lord_of_the_Rings%253A_Game_One.md)
 - [Cái bóng của Mordor Cuộc phiêu lưu phần mềm](../../main/S/Shadows_of_Mordor.md)
 - [Bộ ba phần mềm phiêu lưu Tolkien](../../main/T/The_Tolkien_Trilogy.md#The_Tolkien_Software_Adventure_Trilogy)
@@ -92,18 +92,18 @@ images:
 - [Cầu Catzad-Dum](../../main/T/The_Bridge_of_Catzad-Dum.md)
 - [Khu rừng sợ hãi](../../main/T/The_Forest_of_Fear.md)
 - [Haradwaith](<../../main/H/Haradwaith_(video_game).md>)
-- [Cuộc săn lùng Nhẫn](<../../main/T/The_Hunt_for_the_Ring_(video_game).md>)
+- [Cuộc săn lùng chiếc nhẫn](<../../main/T/The_Hunt_for_the_Ring_(video_game).md>)
 - [Nhà tù sắt](../../main/T/The_Iron_Prison.md)
-- [Cái Mỏ Moria](<../../main/T/The_Mines_of_Moria_(video_game).md>)
+- [Mỏ Moria](<../../main/T/The_Mines_of_Moria_(video_game).md>)
 - [Nhiệm vụ của Erebor](<../../main/Q/Quest_of_Erebor_(video_game).md>)
 - [Quay lại Moria](../../main/R/Return_to_Moria.md)
 - [Cái Vòng Phán xét](<../../main/T/The_Ring_of_Doom_(video_game).md>)
-- [Thror Nhẫn](../../main/T/Thror's_Ring.md)
+- [Chiếc nhẫn kinh hoàng](../../main/T/Thror's_Ring.md)
 
 ## [Nghệ thuật điện tử](../../main/E/Electronic_Arts.md) {#Electronic_Arts}
 
-- [The Lord of the Rings, Tập. Tôi (1990)](<../../main/J/J.R.R._Tolkien's_The_Lord_of_the_Rings,_Vol._I_(1990_video_game).md>)
-- [The Lord of the Rings, Tập. Tôi (1994)](<../../main/J/J.R.R._Tolkien's_The_Lord_of_the_Rings,_Vol._I_(SNES).md>)
+- [The Lord of the Rings, Vol. I (1990)](<../../main/J/J.R.R._Tolkien's_The_Lord_of_the_Rings,_Vol._I_(1990_video_game).md>)
+- [The Lord of the Rings, Vol. I (1994)](<../../main/J/J.R.R._Tolkien's_The_Lord_of_the_Rings,_Vol._I_(SNES).md>)
 
 ## <a class="extiw" href="http://en.wikipedia.org/wiki/Telecomsoft" title="wikipedia:Telecomsoft">Chim lửa</a> {#Firebird}
 
@@ -126,14 +126,14 @@ images:
 
 ## [Xuất bản bang hội](../../main/G/Guild_Publishing.md) {#Guild_Publishing}
 
-- [Chúa tể của những chiếc nhẫn: Trò chơi thứ nhất](../../main/L/Lord_of_the_Rings%253A_Game_One.md)
+- [Lord of the Rings: Game One](../../main/L/Lord_of_the_Rings%253A_Game_One.md)
 
 ## [Sản phẩm tương tác](../../main/I/Interplay_Productions.md) {#Interplay_Productions}
 
-- [The Lord of the Rings & The Two Towers](../../main/T/The_Lord_of_the_Rings_&_The_Two_Towers.md)
-- [The Lord of the Rings, Tập. Tôi (1990)](<../../main/J/J.R.R._Tolkien's_The_Lord_of_the_Rings,_Vol._I_(1990_video_game).md>)
-- [The Lord of the Rings, Tập. Tôi (1994)](<../../main/J/J.R.R._Tolkien's_The_Lord_of_the_Rings,_Vol._I_(SNES).md>)
-- [The Lord of the Rings, Tập. II: The Two Towers](../../main/J/J.R.R._Tolkien's_The_Lord_of_the_Rings,_Vol._II%253A_The_Two_Towers.md)
+- [The Lord of the Rings &amp; The Two Towers](../../main/T/The_Lord_of_the_Rings_&_The_Two_Towers.md)
+- [The Lord of the Rings, Vol. I (1990)](<../../main/J/J.R.R._Tolkien's_The_Lord_of_the_Rings,_Vol._I_(1990_video_game).md>)
+- [The Lord of the Rings, Vol. I (1994)](<../../main/J/J.R.R._Tolkien's_The_Lord_of_the_Rings,_Vol._I_(SNES).md>)
+- [The Lord of the Rings, Vol. II: The Two Towers](../../main/J/J.R.R._Tolkien's_The_Lord_of_the_Rings,_Vol._II%253A_The_Two_Towers.md)
 
 ## [Tin học cấp 9](../../main/L/Level_9_Computing.md) {#Level_9_Computing}
 
@@ -145,7 +145,7 @@ images:
 ## [Trò chơi sốt cà chua](../../main/K/Ketchup_Games.md) {#Ketchup_Games}
 
 - [Mỏ Moria](<../../main/M/Mines_of_Moria_(video_game).md>)
-- [Mỏ Moria II: Cuộc tẩu thoát](../../main/M/Mines_of_Moria_II%253A_The_Escape_Out.md)
+- [Mines of Moria II: The Escape Out](../../main/M/Mines_of_Moria_II%253A_The_Escape_Out.md)
 - [Mỏ Moria 3](../../main/M/Mines_of_Moria_3.md)
 
 ## [Konami](../../main/K/Konami_Corporation.md) {#Konami}
@@ -155,7 +155,7 @@ Những kỵ sĩ của - [J.R.R. Tolkien của Rohan](../../main/J/J.R.R._Tolkie
 ## [Nhà Melbourne](../../main/M/Melbourne_House.md) {#Melbourne_House}
 
 - [The Hobbit](<../../main/T/The_Hobbit_(1982_video_game).md>)
-- [Chúa tể của những chiếc nhẫn: Trò chơi thứ nhất](../../main/L/Lord_of_the_Rings%253A_Game_One.md)
+- [Lord of the Rings: Game One](../../main/L/Lord_of_the_Rings%253A_Game_One.md)
 - [Bóng của Mordor](../../main/S/Shadows_of_Mordor.md)
 - [Chiến tranh ở Trung Địa](../../main/J/J.R.R._Tolkien's_War_in_Middle_Earth.md)
 
@@ -169,7 +169,7 @@ Những kỵ sĩ của - [J.R.R. Tolkien của Rohan](../../main/J/J.R.R._Tolkie
 
 ## [Nhà sản xuất Muermamick Softwarradas](../../main/M/Muermamick_Softwarradas_Productiones.md) {#Muermamick_Softwarradas_Productiones}
 
-- [El Señor de los Anillos, Phần I: La Communidad del Anillo (Libro 1)](<../../main/E/El_Señor_de_los_Anillos,_Parte_I%253A_La_Communidad_del_Anillo_(Libro_1).md>)
+- [El Señor de los Anillos, Parte I: La Communidad del Anillo (Libro 1)](<../../main/E/El_Señor_de_los_Anillos,_Parte_I%253A_La_Communidad_del_Anillo_(Libro_1).md>)
 
 ## [Phần mềm OC](../../main/O/OCSoftware.md) {#OCSoftware}
 
@@ -188,7 +188,7 @@ Những kỵ sĩ của - [J.R.R. Tolkien của Rohan](../../main/J/J.R.R._Tolkie
 
 ## [Bộ sưu tập Sarassota](../../main/S/Sarassota_Collectibles.md) {#Sarassota_Collectibles}
 
-- [Trung Địa: Câu đố](../../main/M/Middle-earth%253A_The_Riddles.md)
+- [Middle-earth: The Riddles](../../main/M/Middle-earth%253A_The_Riddles.md)
 
 ## [Công ty TNHH Trò chơi SCi](../../main/S/SCi_Games_Ltd..md) {#SCi_Games_Ltd.}
 
@@ -200,7 +200,7 @@ Những kỵ sĩ của - [J.R.R. Tolkien của Rohan](../../main/J/J.R.R._Tolkie
 
 ## [Silic & khớp thần kinh](../../main/S/Silicon_&_Synapse.md) {#Silicon_&_Synapse}
 
-- [The Lord of the Rings, Tập. II: The Two Towers](../../main/J/J.R.R._Tolkien's_The_Lord_of_the_Rings,_Vol._II%253A_The_Two_Towers.md)
+- [The Lord of the Rings, Vol. II: The Two Towers](../../main/J/J.R.R._Tolkien's_The_Lord_of_the_Rings,_Vol._II%253A_The_Two_Towers.md)
 
 ## [Slamsoft](../../main/S/Slamsoft.md) {#Slamsoft}
 
@@ -229,7 +229,7 @@ Những kỵ sĩ của - [J.R.R. Tolkien của Rohan](../../main/J/J.R.R._Tolkie
 
 ## [Tatsusoft](../../main/T/Tatsusoft.md) {#Tatsusoft}
 
-- [Chúa tể của những chiếc nhẫn: Cuộc đấu tay đôi](<../../main/L/Lord_of_the_Rings%253A_The_Duel_(video_game).md>)
+- [Lord of the Rings: The Duel](<../../main/L/Lord_of_the_Rings%253A_The_Duel_(video_game).md>)
 
 ## [Phần mềm Zenobi](../../main/Z/Zenobi_Software.md) {#Zenobi_Software}
 

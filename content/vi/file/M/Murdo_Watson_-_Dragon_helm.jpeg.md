@@ -23,7 +23,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Kết xuất 3D kỹ thuật số của thiết kế Alan Lee của Mũ Rồng của Dor-lómin.
+Kết xuất 3D kỹ thuật số của thiết kế Alan Lee của The Mũ Rồng of Dor-lómin.
 
 ## Giấy phép {#Licensing}
 

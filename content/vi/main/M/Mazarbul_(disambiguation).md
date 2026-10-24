@@ -16,10 +16,10 @@ images:
 
 **Mazarbul** có thể tham khảo:
 
-## Trung Địa {#Middle-earth}
+## Trung địa {#Middle-earth}
 
-- cái **[Sách Mazarbul](../B/Book_of_Mazarbul.md)**
-- **[Phòng Mazarbul](../C/Chamber_of_Mazarbul.md)** trong [Moria](Moria.md)
+- **[Sách Mazarbul](../B/Book_of_Mazarbul.md)**
+- **[Phòng Mazarbul](../C/Chamber_of_Mazarbul.md)** ở [Moria](Moria.md)
 - *[mazarbul (word)](<Mazarbul_(word).md>)*, một từ [Khuzdul](../K/Khuzdul.md)
 
 <hr style="margin-top:15px;"/>

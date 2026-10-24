@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Như được giới thiệu trong [Far Harad: The Scorched Land](../../main/F/Far_Harad%253A_The_Scorched_Land.md), cái nhìn cận cảnh hơn về [Far Harad](../../main/F/Far_Harad.md)
+Như được mô tả trong [Far Harad: The Scorched Land](../../main/F/Far_Harad%253A_The_Scorched_Land.md), cái nhìn phóng to hơn về [Xa Harad](../../main/F/Far_Harad.md)
 
 ## Giấy phép {#Licensing}
 

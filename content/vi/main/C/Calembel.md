@@ -39,15 +39,15 @@ infobox:
 
 ## Lịch sử {#History}
 
-Vào [9 tháng 3](../_/9_March.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md),<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> [Aragorn](../A/Aragorn.md), [Đại đội Xám](../G/Grey_Company.md) và [Đội quân của Người chết](../O/Oathbreakers.md) khởi hành từ Erech, băng qua pháo đài qua sông [Ciril](Ciril.md) và đến Calembel. Các bến cạn trên sông Ciril và thị trấn Calembel vắng tanh vì nhiều người đã đi chiến đấu ở [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md) và số dân còn lại đã chạy trốn lên đồi sau khi họ nghe tin đồn rằng [Vua của Người chết](../K/King_of_the_Dead.md) đang đến.<sup id="cite_ref-Company_2-1" class="reference"><a href="#cite_note-Company-2">[2]</a></sup>
+Vào [9 tháng 3](../_/9_March.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md),<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> [Aragorn](../A/Aragorn.md), [Đại đội Xám](../G/Grey_Company.md) và [Đội quân của Người chết](../O/Oathbreakers.md) khởi hành từ Erech, băng qua pháo đài qua sông [Ciril](Ciril.md) và đến Calembel. Các bến cạn trên sông Ciril và thị trấn Calembel vắng tanh vì nhiều người đã đi chiến đấu trong [Cuộc chiến của chiếc nhẫn](../W/War_of_the_Ring.md) và số dân còn lại đã chạy trốn lên đồi sau khi họ nghe tin đồn rằng [Vua của người chết](../K/King_of_the_Dead.md) sắp đến.<sup id="cite_ref-Company_2-1" class="reference"><a href="#cite_note-Company-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Calembel* là tên [Sindarin](../S/Sindarin.md).<sup id="cite_ref-Eldamo_4-0" class="reference"><a href="#cite_note-Eldamo-4">[4]</a></sup> Nó có nghĩa là "Greenham".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Paul Strack và David Salo gợi ý rằng nó là sự kết hợp của *[calen](Calen.md)* ("xanh") và dạng [được cho phép](../L/Lenition.md) *bel* của *[pêl](../P/Pêl.md)* ("trường có rào chắn", "hàng rào").<sup id="cite_ref-Eldamo_4-1" class="reference"><a href="#cite_note-Eldamo-4">[4]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+*Calembel* là tên [Sindarin](../S/Sindarin.md).<sup id="cite_ref-Eldamo_4-0" class="reference"><a href="#cite_note-Eldamo-4">[4]</a></sup> Nó có nghĩa là "Greenham".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Paul Strack và David Salo cho rằng nó là sự kết hợp của *[calen](Calen.md)* ("xanh") và dạng [lenited](../L/Lenition.md) *bel* của *[pêl](../P/Pêl.md)* ("cánh đồng có rào chắn", "hàng rào").<sup id="cite_ref-Eldamo_4-1" class="reference"><a href="#cite_note-Eldamo-4">[4]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2014: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2014: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
 
 <dl><dd>Calembel is the seat of Lord <a href="../A/Angbor.md" title="Angbor">Angbor</a>, who was charged by Prince <a href="../I/Imrahil.md" title="Imrahil">Imrahil</a> with protecting the land from the Corsairs of <a href="../U/Umbar.md" title="Umbar">Umbar</a> when the other Lords of Gondor rode to the defence of <a href="../M/Minas_Tirith.md" title="Minas Tirith">Minas Tirith</a>. Deciding to make a stand against the Corsairs in <a href="../L/Linhir.md" title="Linhir">Linhir</a>, Angbor left his son Drambor in charge of Calembel, which served as a refuge for inhabitants of the nearby village of Lothgobel when it was attacked by the Corsairs.</dd></dl>
 

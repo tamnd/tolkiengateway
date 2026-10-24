@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"[Tuor](../../main/T/Tuor.md) đến Hội trường của [Vinyamar](../../main/V/Vinyamar.md)" bởi [Alan Lee](../../main/A/Alan_Lee.md).
+"[Tuor](../../main/T/Tuor.md) đến Hội trường [Vinyamar](../../main/V/Vinyamar.md)" của [Alan Lee](../../main/A/Alan_Lee.md).
 
 ## Giấy phép {#Licensing}
 

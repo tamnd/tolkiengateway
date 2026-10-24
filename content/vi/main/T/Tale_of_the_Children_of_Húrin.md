@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Narn i Chîn Húrin (disambiguation)"
 ---
 
-Chuyển hướng đến [Narn i Chîn Húrin (định hướng)](<../N/Narn_i_Chîn_Húrin_(disambiguation).md>).
+Chuyển hướng tới [Narn i Chîn Húrin (định hướng)](<../N/Narn_i_Chîn_Húrin_(disambiguation).md>).

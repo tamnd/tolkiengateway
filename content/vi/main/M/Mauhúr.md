@@ -33,11 +33,11 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/Javier_Charro_-_Mauhur,_Uruk-hai_Captain.webp.md"><img src="https://tolkiengateway.net/w/images/thumb/a/a9/Javier_Charro_-_Mauhur%2C_Uruk-hai_Captain.webp/320px-Javier_Charro_-_Mauhur%2C_Uruk-hai_Captain.webp.png" decoding="async" loading="lazy" width="320" height="235" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/a9/Javier_Charro_-_Mauhur%2C_Uruk-hai_Captain.webp/480px-Javier_Charro_-_Mauhur%2C_Uruk-hai_Captain.webp.png 1.5x, https://tolkiengateway.net/w/images/thumb/a/a9/Javier_Charro_-_Mauhur%2C_Uruk-hai_Captain.webp/640px-Javier_Charro_-_Mauhur%2C_Uruk-hai_Captain.webp.png 2x" data-file-width="2450" data-file-height="1800"/></a><figcaption><i>Mauhur, Uruk-hai Captain</i> by <a class="external text" href="https://www.charroart.com/" rel="noreferrer noopener" target="_blank">Javier Charrofor</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../O/Orcs.md" title="Orcs">Orc</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mauhúr</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../I/Isengard.md" title="Isengard">Isengard</a> and <a href="../F/Fangorn_Forest.md" title="Fangorn Forest">Fangorn Forest</a></td></tr><tr><th scope="row" class="tg-infobox-label">Affiliation</th><td class="tg-infobox-data"><a href="../O/Orcs_of_Isengard.md" title="Orcs of Isengard">Orcs of Isengard</a></td></tr><tr><th scope="row" class="tg-infobox-label">Death</th><td class="tg-infobox-data">Possibly <a href="../_/29_February.md" title="29 February">29 February</a>, <a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_3019.md" title="Third Age 3019">3019</a><br/>Possibly at the edge of <a href="../F/Fangorn_Forest.md" title="Fangorn Forest">Fangorn Forest</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Mauhúr.md" title="Category:Images of Mauhúr">Images of Mauhúr</a></td></tr></tbody></table>
 
-**Mauhúr** là một [Orc](../O/Orcs.md) phục vụ cho [Saruman](../S/Saruman.md).
+**Mauhúr** là một [Orc](../O/Orcs.md) phục vụ [Saruman](../S/Saruman.md).
 
 ## Lịch sử {#History}
 
-Mauhúr được cử đến tiếp viện cho quân của [Uglúk](../U/Uglúk.md) khi họ quay trở lại [Isengard](../I/Isengard.md) cùng với [Merry](Meriadoc_Brandybuck.md) và [Pippin](../P/Peregrin_Took.md). Anh ta tìm thấy họ bị bao vây bởi [Rohirrim](../R/Rohirrim.md) của [Éomer](../_/Éomer.md) ở rìa [Rừng Fangorn](../F/Fangorn_Forest.md), từ đó anh ta dẫn đầu Orc của mình trong một cuộc tấn công. Cuộc tấn công này đã thất bại: Rohirrim đã có thể đánh bại Orc, ngay cả khi có quân tiếp viện của Mauhúr. Không rõ Mauhúr và binh lính của ông có bị*killed or driven off*" Rohirrim hay không.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Mauhúr được cử đến tiếp viện cho quân của [Uglúk](../U/Uglúk.md) khi họ quay trở lại [Isengard](../I/Isengard.md) cùng với [Merry](Meriadoc_Brandybuck.md) và [Pippin](../P/Peregrin_Took.md). Ông ta tìm thấy họ bị bao vây bởi [Rohirrim](../R/Rohirrim.md) của [Éomer](../_/Éomer.md) ở rìa [Rừng Fangorn](../F/Fangorn_Forest.md), từ đó ông ta dẫn quân Orc của mình tấn công. Cuộc tấn công này đã thất bại: người Rohirrim đã có thể đánh bại lũ Orc, ngay cả khi có quân tiếp viện của Mauhúr. Không rõ Mauhúr và binh lính của ông có bị người Rohirrim "*killed or driven off*" hay không.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
@@ -72,17 +72,17 @@ Mauhúr được cử đến tiếp viện cho quân của [Uglúk](../U/Uglúk.
 		</li>
 </ul>
 
-<b><a href="../_/1997.md" title="1997">1997</a>: <i><a href="Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Trung Địa Trò chơi bài sưu tầm</a></i>:</b>
+<b><a href="../_/1997.md" title="1997">1997</a>: <i><a href="Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Trò chơi thẻ bài sưu tầm Trung Địa</a></i>:</b>
 
 <dl><dd>Mauhúr is depicted in the <a href="../_/1997.md" title="1997">1997</a> expansion <i><a href="Middle-earth%253A_Against_the_Shadow.md" title="Middle-earth: Against the Shadow">Middle-earth: Against the Shadow</a></i> on the <i>Mauhûr</i> <small>[sic]</small> card illustrated by Omar Rayyan. He can be played as Unique Leader, and his home site is <a href="../D/Dol_Guldur.md" title="Dol Guldur">Dol Guldur</a>. The card has the following effects:</dd></dl>
 
-> Loại bỏ kết quả kiểm tra cơ thể có ảnh hưởng trực tiếp 9. +2 đối với các phe phái Orc và Orc.
+> Vứt bỏ kết quả kiểm tra cơ thể có ảnh hưởng trực tiếp 9, +2 đối với phe Orc và Orc.
 
-<b><a href="../_/2002.md" title="2002">2002</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Lord of the Rings: The Two Towers</a></i>:</b>
+<b><a href="../_/2002.md" title="2002">2002</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">Chúa tể của những chiếc nhẫn: Hai tòa tháp</a></i>:</b>
 
 <dl><dd>Mauhúr is portrayed as an <a href="../U/Uruk-hai.md" title="Uruk-hai">Uruk-hai</a> instead of an Orc, and is played by <a href="../R/Robbie_Magasiva.md" title="Robbie Magasiva">Robbie Magasiva</a> and voiced by <a href="../A/Andy_Serkis.md" title="Andy Serkis">Andy Serkis</a>. His remarks on the lack of food enticed <a href="../S/Snaga_(orc_of_Isengard).md" title="Snaga (orc of Isengard)">Snaga</a>, who proposed eating the captives. Mauhúr was among the Uruks who devoured Snaga&#39;s corpse after the latter was beheaded for his limited discipline.</dd></dl>
 
-<b><a href="../_/2012.md" title="2012">2012</a>: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b><a href="../_/2012.md" title="2012">2012</a>: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
 
 <dl><dd>Mauhúr leads a group of Uruks that split off from <a href="../U/Uglúk.md" title="Uglúk">Uglúk</a>&#39;s band and establish a camp called Kufuzg in the Norcrofts of <a href="../R/Rohan.md" title="Rohan">Rohan</a>, where he is found and defeated by the player.</dd></dl>
 

@@ -12,4 +12,4 @@ categories:
   - "Websites"
 ---
 
-**The Barrow Downs**, hoặc <b><a class="external text" href="http://www.barrowdowns.com" rel="noreferrer noopener" target="_blank">www.barrowdowns.com</a></b>, là một trang web có liên quan [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) với các trò chơi, Câu hỏi thường gặp, bài phát biểu điên cuồng, câu đố, bài kiểm tra tính cách và các hoạt động khác. Nó cũng có hai nhánh, một trang diễn đàn và một trang fanfiction.
+**The Barrow Downs** hoặc <b><a class="external text" href="http://www.barrowdowns.com" rel="noreferrer noopener" target="_blank">www.barrowdowns.com</a></b>, là một trang web có liên quan [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) với các trò chơi, Câu hỏi thường gặp, bài phát biểu điên cuồng, câu đố, bài kiểm tra tính cách và các hoạt động khác. Nó cũng có hai nhánh, một trang diễn đàn và một trang fanfiction.

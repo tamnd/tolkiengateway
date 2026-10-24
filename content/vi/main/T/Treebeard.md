@@ -86,35 +86,35 @@ infobox:
 <p class="tg-quote-footer"><cite><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> to <a href="Théoden.md" title="Théoden">Théoden</a> in <i><a href="The_Two_Towers.md" title="The Two Towers">The Two Towers</a></i>, &#34;<a href="The_Road_to_Isengard.md" title="The Road to Isengard">The Road to Isengard</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Treebeard**, còn được gọi là **Fangorn**, là người già nhất trong số [Ent](../E/Ents.md), một sinh vật giống cây và là một loại "người chăn cây". Rất cao và chân tay cứng đờ, với làn da giống như vỏ cây và mái tóc lá, giống như hầu hết Ent, Treebeard phải mất một thời gian dài để quyết định. Anh nhiều lần nói không được “vội vàng”.
+**Treebeard**, còn được gọi là **Fangorn**, là người già nhất trong số [Ent](../E/Ents.md), một sinh vật giống cây và là một loại "người chăn cừu". Rất cao và chân tay cứng đơ, với làn da giống như vỏ cây và mái tóc lá, giống như hầu hết các Ent, Treebeard phải mất một thời gian dài mới đưa ra quyết định. Anh nhiều lần nói không được “vội vàng”.
 
-Treebeard được mô tả cùng với [Tom Bombadil](Tom_Bombadil.md) là [sinh vật lớn tuổi nhất](../E/Eldest.md) trong Trung Địa. Sau [Kỷ Đệ Tam](Third_Age.md), anh sống ở [Rừng Fangorn](../F/Fangorn_Forest.md), nơi được đặt theo tên anh.
+Treebeard được mô tả cùng với [Tom Bombadil](Tom_Bombadil.md) là [sinh vật già nhất](../E/Eldest.md) ở Trung Địa. Vào [Thời đại thứ ba](Third_Age.md) sau này, ông sống ở [Rừng Fangorn](../F/Fangorn_Forest.md), nơi được đặt theo tên ông.
 
 ## Lịch sử {#History}
 
-Treebeard là [sinh vật lớn nhất](../E/Eldest.md) của [Trung Địa](../M/Middle-earth.md), đã được đánh thức cùng với Ent trong [Năm Cây](../Y/Years_of_the_Trees.md) của [Kỷ Đệ Nhất](../F/First_Age.md), một thời gian sau [Sự thức tỉnh](../A/Awakening_of_the_Elves.md) của [Tiên tộc](../E/Elves.md), người đã dạy Ent nói ngôn ngữ ngay từ đầu;<sup id="cite_ref-Treebeard_1-3" class="reference"><a href="#cite_note-Treebeard-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:468</sup> mặc dù anh ta đã nói vậy có những cây ở Fangorn “già hơn anh”. Vương quốc của ông là khu rừng bao la trải dài từ [Beleriand](../B/Beleriand.md) và [Eriador](../E/Eriador.md) đến [Calenardhon](../C/Calenardhon.md) và chứng kiến ​​nó bị tàn phá và thu hẹp dần qua nhiều thế kỷ. Từ [Ngày của Người cao tuổi](../E/Elder_Days.md), Treebeard đã có những kỷ niệm về [cây liễu](../W/Willows.md)-đồng cỏ của [Tasarinan](Tasarinan.md), rừng [cây du](../E/Elms.md) của [Ossiriand](../O/Ossiriand.md), cây [thông](../P/Pines.md)-cây của [Dorthonion](../D/Dorthonion.md) và [cây sồi](../B/Beeches.md) của [Neldoreth](../F/Forest_of_Neldoreth.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Treebeard là [người lớn nhất](../E/Eldest.md) sinh vật sống của [Trung Địa](../M/Middle-earth.md), đã được đánh thức cùng với các Ent trong [Năm của Cây](../Y/Years_of_the_Trees.md) của [Thời đại thứ nhất](../F/First_Age.md), khoảng sau [Sự thức tỉnh](../A/Awakening_of_the_Elves.md) của [Yêu tinh](../E/Elves.md), người đã dạy các Ent nói ngôn ngữ đầu tiên nơi;<sup id="cite_ref-Treebeard_1-3" class="reference"><a href="#cite_note-Treebeard-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:468</sup> mặc dù ông nói rằng ở Fangorn có những cái cây "già hơn ông". Vương quốc của ông là khu rừng rộng lớn trải dài từ [Beleriand](../B/Beleriand.md) và [Eriador](../E/Eriador.md) đến [Calenardhon](../C/Calenardhon.md) và chứng kiến ​​nó bị phá hủy và suy giảm qua nhiều thế kỷ. Từ [Ngày của Người cao tuổi](../E/Elder_Days.md), Treebeard đã có những ký ức về [cây liễu](../W/Willows.md)-đồng cỏ của [Tasarinan](Tasarinan.md), [cây du](../E/Elms.md)-rừng của [Ossiriand](../O/Ossiriand.md), cây [thông](../P/Pines.md) của [Dorthonion](../D/Dorthonion.md) và [những cây sồi](../B/Beeches.md) của [Neldoreth](../F/Forest_of_Neldoreth.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <figure class="mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/Luca_Bonatti_-_Farewell_to_Fangorn.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/65/Luca_Bonatti_-_Farewell_to_Fangorn.jpg/200px-Luca_Bonatti_-_Farewell_to_Fangorn.jpg" decoding="async" loading="lazy" width="200" height="94" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/65/Luca_Bonatti_-_Farewell_to_Fangorn.jpg/300px-Luca_Bonatti_-_Farewell_to_Fangorn.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/6/65/Luca_Bonatti_-_Farewell_to_Fangorn.jpg/400px-Luca_Bonatti_-_Farewell_to_Fangorn.jpg 2x" data-file-width="900" data-file-height="425"/></a><figcaption><i>Farewell to Fangorn</i> by <a href="../../category/I/Images_by_Luca_Bonatti.md" title="Category:Images by Luca Bonatti">Luca Bonatti</a></figcaption></figure>
 
-Anh ấy đang ở cùng với [Fimbrethil](../F/Fimbrethil.md) yêu quý của mình, nhưng cũng như tất cả những [Entwives](../E/Entwives.md) khác, cô ấy đã rời đến [khu vườn của Entwives](../B/Brown_Lands.md) và mất tích kể từ đó, đặc biệt là sau khi lực lượng của [Sauron](../S/Sauron.md) phá hủy những vùng đất đó vào [Thời đại thứ hai](../S/Second_Age.md).
+Ông ở cùng với [Fimbrethil](../F/Fimbrethil.md) yêu quý của mình, nhưng cũng như tất cả các [Entives](../E/Entwives.md) khác, bà rời đến [khu vườn của Entives](../B/Brown_Lands.md) và mất tích kể từ đó, đặc biệt là sau khi lực lượng của [Sauron](../S/Sauron.md) phá hủy những vùng đất đó vào [Thời đại thứ hai](../S/Second_Age.md).
 
-Các khu rừng của Ent bị suy giảm và [Rừng Fangorn](../F/Fangorn_Forest.md) là một trong những tàn tích của chúng, nơi Treebeard và các Ent khác rút lui. Ở đó, ông giữ [Những ngôi nhà](../E/Ent-houses.md) của mình, một trong số đó là [Wellinghall](../W/Wellinghall.md) ở hai bên sườn của [Methedras](../M/Methedras.md).<sup id="cite_ref-Treebeard_1-4" class="reference"><a href="#cite_note-Treebeard-1">[1]</a></sup>
+Rừng của loài Ent bị suy giảm và [Rừng Fangorn](../F/Fangorn_Forest.md) là một trong những tàn tích còn sót lại của chúng, nơi Treebeard và những loài Ent khác rút lui. Ở đó, ông giữ [Những ngôi nhà](../E/Ent-houses.md) của mình, một trong số đó là [Wellinghall](../W/Wellinghall.md) ở hai bên sườn của [Methedras](../M/Methedras.md).<sup id="cite_ref-Treebeard_1-4" class="reference"><a href="#cite_note-Treebeard-1">[1]</a></sup>
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Ted_Nasmith_-_Treebeard_and_the_Entmoot.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/2/20/Ted_Nasmith_-_Treebeard_and_the_Entmoot.jpg/200px-Ted_Nasmith_-_Treebeard_and_the_Entmoot.jpg" decoding="async" loading="lazy" width="200" height="275" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/20/Ted_Nasmith_-_Treebeard_and_the_Entmoot.jpg/300px-Ted_Nasmith_-_Treebeard_and_the_Entmoot.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/2/20/Ted_Nasmith_-_Treebeard_and_the_Entmoot.jpg/400px-Ted_Nasmith_-_Treebeard_and_the_Entmoot.jpg 2x" data-file-width="699" data-file-height="960"/></a><figcaption><i>Treebeard and the Entmoot</i> by <a href="Ted_Nasmith.md" title="Ted Nasmith">Ted Nasmith</a></figcaption></figure>
 
-Trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), vào [29 tháng 2](../_/29_February.md) [T.A.](Third_Age.md) [3019](Third_Age_3019.md) anh ấy đã phát hiện ra [Meriadoc Brandybuck](../M/Meriadoc_Brandybuck.md) ("Merry") và [Peregrin Took](../P/Peregrin_Took.md) ("Pippin") sau khi họ trốn thoát khỏi [Orc](../O/Orcs.md). Anh ấy chào đón họ tới [Wellinghall](../W/Wellinghall.md). Các hobbit đưa tin về sự phản bội của Pháp sư Saruman và [ Orc](../O/Orcs_of_Isengard.md) của hắn đang phá hoại cây cối, nhưng Treebeard đã biết về những thảm họa này.
+Trong [Chiến tranh Chiếc nhẫn](../W/War_of_the_Ring.md), vào [29 tháng 2](../_/29_February.md) [T.A.](Third_Age.md) [3019](Third_Age_3019.md) anh đã phát hiện ra [Meriadoc Brandybuck](../M/Meriadoc_Brandybuck.md) ("Merry") và [Peregrin Took](../P/Peregrin_Took.md) ("Pippin") sau khi họ trốn thoát khỏi [Orc](../O/Orcs.md). Ông chào đón họ tới [Wellinghall](../W/Wellinghall.md). Những người Hobbit đưa tin về sự phản bội của Pháp sư Saruman và [lũ Orc của hắn](../O/Orcs_of_Isengard.md) đang phá hoại cây cối, nhưng Treebeard đã biết về những thảm họa này.
 
-Ent—thường là những người rất kiên nhẫn và thận trọng—đã trở nên tức giận với Saruman, lực lượng của họ đang chặt hạ một số lượng lớn cây cối của họ. Treebeard đã triệu tập [Entmoot](../E/Entmoot.md), một cuộc họp của Ent tại [Derndingle](../D/Derndingle.md).<sup id="cite_ref-Treebeard_1-5" class="reference"><a href="#cite_note-Treebeard-1">[1]</a></sup>
+Người Ent—thường là những người rất kiên nhẫn và thận trọng—đã trở nên tức giận với Saruman, người đang chặt hạ một số lượng lớn cây cối của họ. Treebeard đã triệu tập một [Entmoot](../E/Entmoot.md), một cuộc họp của các Ent tại [Derndingle](../D/Derndingle.md).<sup id="cite_ref-Treebeard_1-5" class="reference"><a href="#cite_note-Treebeard-1">[1]</a></sup>
 
-Sau khi cân nhắc kéo dài Treebeard họ đã hành quân đến pháo đài của Saruman tại Isengard vào [ngày 3 tháng 3](../M/March_3.md), cùng với hai Hobbit: cuộc hành quân cuối cùng của Ent. Trong [Trận Isengard](../B/Battle_of_Isengard.md) họ đã phá hủy thung lũng và nhốt Saruman trong tòa tháp Orthanc. Treebeard bổ nhiệm hai Hobbit người canh cửa của Orthanc. Ở đó Treebeard cũng thấy [Wormtongue](../G/Gríma.md) mang tin nhắn cho Saruman, bắt được và bắt vào bên trong Orthanc.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Sau một thời gian dài cân nhắc, Treebeard dẫn đầu họ hành quân đến pháo đài của Saruman ở Isengard vào [ngày 3 tháng 3](../M/March_3.md), cùng với hai người Hobbit: cuộc hành quân cuối cùng của Người Ent. Trong [Trận Isengard](../B/Battle_of_Isengard.md) họ đã phá hủy thung lũng và nhốt Saruman trong tháp Orthanc. Treebeard bổ nhiệm hai người Hobbit canh cửa Orthanc. Ở đó, Treebeard cũng nhìn thấy [Wormtongue](../G/Gríma.md), người đã mang thông điệp đến cho Saruman, và bắt được hắn và bắt hắn vào bên trong Orthanc.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-[Hai ngày sau](../_/5_March.md) họ nhanh chóng được gia nhập bởi một đại đội [Rohirrim](../R/Rohirrim.md) với [Gandalf](../G/Gandalf.md), chiến thắng trở về từ [Trận Hornburg](../B/Battle_of_the_Hornburg.md). Sau khi hạ Saruman, Gandalf yêu cầu Treebeard đổ lại nước vào Orthanc để Saruman không bao giờ thoát ra được. Treebeard tuyên bố rằng cây cối sẽ quay trở lại và khu rừng mới sẽ được gọi là "Cây canh gác".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+[Hai ngày sau](../_/5_March.md) họ sớm được gia nhập cùng một đại đội của [Rohirrim](../R/Rohirrim.md) với [Gandalf](../G/Gandalf.md), chiến thắng trở về sau [Trận chiến Hornburg](../B/Battle_of_the_Hornburg.md). Sau khi hạ bệ Saruman, Gandalf yêu cầu Treebeard đổ lại nước vào Orthanc để Saruman không bao giờ trốn thoát được. Treebeard tuyên bố rằng cây cối sẽ quay trở lại và khu rừng mới sẽ được gọi là "Rừng canh gác".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
-Những tháng tiếp theo Ent đã phá hủy [Vành đai Isengard](../R/Ring_of_Isengard.md), lấp đầy nó bằng cây cối; Treebeard chứng kiến ​​chuyến bay của nhiều Orc người gặp số phận trong rừng. Anh ta thông báo cho tù nhân của họ biết ai sẽ đến cửa sổ Orthanc để nghe.
+Những tháng tiếp theo, Người Ent phá hủy [Vành đai Isengard](../R/Ring_of_Isengard.md), lấp đầy nó bằng cây cối; Treebeard nhìn thấy cuộc chạy trốn của nhiều Orc gặp nạn trong rừng. Ông ta thông báo cho tù nhân của họ biết ai sẽ đến cửa sổ Orthanc để lắng nghe.
 
-Cuối cùng Pháp sư héo tàn và cuối cùng đã khiến Ent thương hại anh ta, và vào [ngày 15 tháng 8](../A/August_15.md) họ để họ rời đi Isengard. Tuy nhiên, trước khi rời đi, Treebeard bắt anh khóa tháp và giao [chìa khóa Orthanc](../K/Key_of_Orthanc.md). [Một tuần sau](../A/August_22.md) Treebeard chào mừng [Gandalf](../G/Gandalf.md), [Vua Elessar](../A/Aragorn.md) và công ty tại Orthanc, đồng thời kể lại những tin tức này.
+Cuối cùng, Pháp sư héo mòn và cuối cùng đã khiến các Ent thương hại ông ta, và vào [ngày 15 tháng 8](../A/August_15.md) họ để họ rời khỏi Isengard. Tuy nhiên, trước khi rời đi, Treebeard đã yêu cầu anh khóa tòa tháp và giao [chìa khóa của Orthanc](../K/Key_of_Orthanc.md). [Một tuần sau](../A/August_22.md) Treebeard chào đón [Gandalf](../G/Gandalf.md), [Vua Elessar](../A/Aragorn.md) và đoàn quân tại Orthanc, đồng thời kể lại những tin tức này.
 
-Có lẽ Treebeard đã ở lại một thời gian ở [Treegarth của Orthanc](Treegarth_of_Orthanc.md), nơi Vua Elessar được tuyên bố là vương quốc của người Ent.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Có lẽ Treebeard đã ở lại một thời gian tại [Treegarth of Orthanc](Treegarth_of_Orthanc.md), nơi mà Vua Elessar tuyên bố là vương quốc của người Ent.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -137,9 +137,9 @@ Treebeard là bản dịch trực tiếp của tên [Sindarin](../S/Sindarin.md)
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong các phiên bản đầu tiên của [The Lord of the Rings](The_Lord_of_the_Rings.md), Treebeard là một [Người khổng lồ](../G/Giants.md) độc ác liên minh với [Kẻ Thù](../S/Sauron.md). Chính anh ta là người đã giam giữ Gandalf, vai trò này sau này được giao cho Saruman, trong khi trong các đợt dự thảo khác, anh ta cố gắng bẫy [Người Mang Nhẫn](../F/Frodo_Baggins.md) cho chủ nhân của mình bằng cách tỏ ra thân thiện.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+Trong các phiên bản đầu tiên của [The Lord of the Rings](The_Lord_of_the_Rings.md), Treebeard là một [Người khổng lồ](../G/Giants.md) độc ác liên minh với [Kẻ thù](../S/Sauron.md). Chính ông ta là người đã giam giữ Gandalf, một vai trò sau này được giao cho Saruman, trong khi trong các bản dự thảo khác, ông ta cố gắng gài bẫy [Người mang nhẫn](../F/Frodo_Baggins.md) cho chủ nhân của mình bằng cách tỏ ra thân thiện.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
-Trong một ghi chú sau đó, anh ta được coi là "tốt bụng và khá tốt", và được mô tả là "Cao khoảng 50 feet với làn da vỏ cây. Tóc và râu giống như cành cây. Mặc trang phục màu xanh đậm như một chiếc áo giáp bằng những chiếc lá ngắn sáng bóng. Anh ta có một lâu đài trong [Đen Dãy Núi](../B/Black_Mountains.md) cùng nhiều thần và người đi theo. Họ trông giống như những cây non \[?khi\] họ đứng."<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:411</sup>
+Trong một ghi chú sau đó, ông ta được coi là "tốt bụng và khá tốt", và được mô tả là "Cao khoảng 50 feet với làn da vỏ cây. Tóc và râu giống như cành cây. Mặc trang phục màu xanh đậm như một chiếc áo giáp bằng những chiếc lá ngắn sáng bóng. Ông ta có một lâu đài ở [Núi Đen](../B/Black_Mountains.md) cùng nhiều thần và người đi theo. Họ trông giống như những cây non \[?khi\] họ đứng."<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:411</sup>
 
 Treebeard biết [Tom Bombadil](Tom_Bombadil.md) trong phiên bản viết tay trước đó của chương *Treebeard*, nhưng điều này sau đó đã bị loại bỏ.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> Theo Christopher Tolkien, có thể hình dung rằng sự tương phản giữa Tom Bombadil và Ent đã làm nhầm lẫn xung đột giữa Ent và Entives hoặc đoạn văn bị gạch bỏ đã khởi xướng ý tưởng về một cuộc xung đột giữa Ent và Ent.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
 
@@ -156,7 +156,7 @@ Giọng nói oang oang của Treebeard được lấy cảm hứng từ cách [C
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-### Treebeard trong các bản chuyển thể {#Treebeard_in_adaptations}
+### Râu cây trong các bản chuyển thể {#Treebeard_in_adaptations}
 
 <ul class="gallery mw-gallery-traditional">
 		<li class="gallerybox" style="width: 285px">
@@ -182,11 +182,11 @@ Giọng nói oang oang của Treebeard được lấy cảm hứng từ cách [C
 		</li>
 </ul>
 
-<b>1978: <i><a href="The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)">The Lord of the Rings</a></i>:</b>
+<b>1978: <i><a href="The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)">Chúa tể của những chiếc nhẫn</a></i>:</b>
 
 <dl><dd><a href="../J/John_Westbrook.md" title="John Westbrook">John Westbrook</a> provides the voice of Treebeard. His actions in the overthrow of Isengard are not mentioned: he merely brings Merry and Pippin to Gandalf.</dd></dl>
 
-<b>1981: <a href="The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>The Lord of the Rings</i> (loạt phim phát thanh 1981)</a>:</b>
+<b>1981: <a href="The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>Chúa tể của những chiếc nhẫn</i> (loạt phim phát thanh năm 1981)</a>:</b>
 
 <dl><dd><a href="../S/Stephen_Thorne.md" title="Stephen Thorne">Stephen Thorne</a> provided the voice of Treebeard.  Thorne also sings the songs of &#39;The Lore of Living Creatures&#39; and 2 verses of the &#39;Song of the Ents and the Entwives.&#39; His participation in the destruction of Isengard is fully documented, but he is the only Ent given a voice in the production.  He also appears in the penultimate episode when the company pass through Isengard on their return.  As in the book, he reveals to Gandalf Saruman&#39;s departure from Orthanc.</dd></dl>
 
@@ -194,13 +194,13 @@ Giọng nói oang oang của Treebeard được lấy cảm hứng từ cách [C
 
 <dl><dd>Treebeard is played by Friedrich Schütter.</dd></dl>
 
-<b>2002: <i><a href="The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Lord of the Rings: The Two Towers</a></i>:</b>
+<b>2002: <i><a href="The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">Chúa tể của những chiếc nhẫn: Hai tòa tháp</a></i>:</b>
 
 <dl><dd>Treebeard is a combination of a large animatronic model and a CGI construct; his voice is performed by <a href="../J/John_Rhys-Davies.md" title="John Rhys-Davies">John Rhys-Davies</a>, who also plays <a href="../G/Gimli.md" title="Gimli">Gimli</a>.</dd></dl>
 
 <dl><dd>The Ents at the <a href="../E/Entmoot.md" title="Entmoot">Entmoot</a> initially decline Merry and Pippin&#39;s request for help. Treebeard is carrying the hobbits through the forest, when Pippin gets an idea. He asks Treebeard to carry them towards <a href="../I/Isengard.md" title="Isengard">Isengard</a>, claiming that it is the last place <a href="../S/Saruman.md" title="Saruman">Saruman</a> would look for them because it puts them so close to danger. Treebeard is initially confused, but ultimately succumbs to Pippin&#39;s request. When Treebeard gets close to the forest&#39;s edge, he sees the devastation wrought by Saruman&#39;s orcs. The trees have all been chopped down to serve as fuel for Saruman&#39;s war machine. Treebeard then makes a momentous decision, and calls for the other Ents. They attack Isengard and manage to flood it.</dd></dl>
 
-<b>2003: <i><a href="The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">The Lord of the Rings: The Return of the King</a></i>:</b>
+<b>2003: <i><a href="The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">Chúa tể của những chiếc nhẫn: Sự trở lại của nhà vua</a></i>:</b>
 
 <dl><dd>Treebeard, fully CGI, makes some appearance at Isengard, when Gandalf, alongside with Aragorn, Legolas, Merry, Pippin, Eomer and king Theoden arrive there.</dd></dl>
 
@@ -208,12 +208,12 @@ Giọng nói oang oang của Treebeard được lấy cảm hứng từ cách [C
 
 <dl><dd>The voice of Treebeard is provided by Leopold Haverl.</dd></dl>
 
-<b>2009: <i><a href="The_Lord_of_the_Rings%253A_Conquest.md" title="The Lord of the Rings: Conquest">The Lord of the Rings: Chinh phục</a></i>:</b>
+<b>2009: <i><a href="The_Lord_of_the_Rings%253A_Conquest.md" title="The Lord of the Rings: Conquest">Chúa tể của những chiếc nhẫn: Cuộc chinh phục</a></i>:</b>
 
 <dl><dd>Bob Joles plays Treebeard, who engages Wormtongue during the Battle of Isengard.</dd>
 <dd>In the Evil Campaign, Treebeard and the Ents retreat to the Shire as the armies of Sauron sweep across Middle-earth. Treebeard fights in the final battle, but is killed by <a href="../D/Durin&#39;s_Bane.md" title="Durin&#39;s Bane">Durin&#39;s Bane</a>.</dd></dl>
 
-<b>2012: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2012: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
 
 <dl><dd>Treebeard&#39;s encounter with Merry and Pippin, the Entmoot and the Breaking of Isengard are told in a series of flashbacks, narrated either by Gandalf, the Hobbits or Treebeard himself. The player themselves does not meet Treebeard until after the confrontation between Gandalf and Saruman. Afterwards, Treebeard remains at the Ring of Isengard to watch over the Wizard.</dd></dl>
 

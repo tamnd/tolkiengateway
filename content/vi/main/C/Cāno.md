@@ -19,7 +19,7 @@ sort_keys:
 
 ## Từ nguyên {#Etymology}
 
-- [Gốc](../S/Sundocarme.md): [Common Eldarin](Common_Eldarin.md) [KAN](../K/KAN.md)<sup id="cite_ref-PM_1-1" class="reference"><a href="#cite_note-PM-1">[1]</a></sup>
+- [Gốc](../S/Sundocarme.md): [Eldarin thông thường](Common_Eldarin.md) [KAN](../K/KAN.md)<sup id="cite_ref-PM_1-1" class="reference"><a href="#cite_note-PM-1">[1]</a></sup>
 
 <span></span>
 

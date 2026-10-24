@@ -56,7 +56,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Eofor là con trai thứ ba của vua [Brego](../B/Brego.md). Các anh trai của anh ấy là [Baldor](../B/Baldor.md) và Vua [Aldor](../A/Aldor.md). Ông sống ở thị trấn [Aldburg](../A/Aldburg.md).<sup id="cite_ref-Isen_1-1" class="reference"><a href="#cite_note-Isen-1">[1]</a></sup> [Éomund](../_/Éomund.md) là hậu duệ của ông<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Eofor là con trai thứ ba của vua [Brego](../B/Brego.md). Các anh trai của ông là [Baldor](../B/Baldor.md) và Vua [Aldor](../A/Aldor.md). Ông sống ở thị trấn [Aldburg](../A/Aldburg.md).<sup id="cite_ref-Isen_1-1" class="reference"><a href="#cite_note-Isen-1">[1]</a></sup> [Éomund](../_/Éomund.md) là hậu duệ của ông<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

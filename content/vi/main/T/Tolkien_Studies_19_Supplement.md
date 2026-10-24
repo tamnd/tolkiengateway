@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Studies: Volume 19 Supplement"
 ---
 
-Chuyển hướng tới [Tolkien Nghiên cứu: Phụ lục Tập 19](Tolkien_Studies%253A_Volume_19_Supplement.md).
+Chuyển hướng đến [Tolkien Studies: Volume 19 Supplement](Tolkien_Studies%253A_Volume_19_Supplement.md).

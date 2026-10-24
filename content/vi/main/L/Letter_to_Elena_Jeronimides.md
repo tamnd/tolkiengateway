@@ -26,7 +26,7 @@ Vào [14 tháng 6](../_/14_June.md) [1973](../_/1973.md), [J.R.R. Tolkien](../J/
 
 ## Trích đoạn {#Excerpts}
 
-"*Tôi không biết đủ tiếng Ý để giúp bạn nhiều... Về địa lý, điều đó thật kỳ lạ nhưng hoàn toàn có thể*", khuyên cô ấy không nên tìm từ trong ngôn ngữ khác để dịch các sinh vật thần thoại trong tác phẩm của anh ấy, "*Thực tế là tôi đã sử dụng tên 'elf' cho những sinh vật có rất ít điểm chung với truyền thống phổ biến về yêu tinh trong tiếng Anh. 'Troll' không phải là một từ tiếng Anh ... Tôi khuyên bạn nên làm theo ví dụ tiếng Anh về việc mượn từ 'troll' và Nên tránh biến nó thành 'trolle' hoặc 'trollo'. Vì nó không phải là một từ thần thoại về nguồn gốc mà có nguồn gốc từ Parcelsus*\[sic?\]<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 1]</a></sup>..."
+"*Tôi không biết đủ tiếng Ý để giúp bạn nhiều... Về địa lý, điều đó thật kỳ lạ nhưng hoàn toàn có thể*", khuyên bà không nên tìm từ trong ngôn ngữ khác để dịch các sinh vật thần thoại trong tác phẩm của ông, "*Thực tế là tôi đã sử dụng tên 'elf' cho những sinh vật có rất ít điểm chung với truyền thống phổ biến về yêu tinh trong tiếng Anh. 'Troll' không phải là một từ tiếng Anh ... Tôi khuyên bạn nên làm theo ví dụ tiếng Anh về việc mượn từ 'troll' và Nên tránh biến nó thành 'trolle' hoặc 'trollo'. Vì nó không phải là một từ thần thoại về nguồn gốc mà có nguồn gốc từ Parcelsus*\[sic?\]<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 1]</a></sup>..."
 
 ## Ghi chú {#Notes}
 

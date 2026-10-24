@@ -46,15 +46,15 @@ images:
 </tbody></table>
 </div>
 
-**Elbereth** (phát âm là <span title="Pronunciation in IPA" class="IPA">[ˈelbereθ]</span>) là một tên [Sindarin](../S/Sindarin.md). Nó có thể đề cập đến:
+**Elbereth** (phát âm là <span title="Pronunciation in IPA" class="IPA">[ˈelbereθ]</span>) là tên [Sindarin](../S/Sindarin.md). Nó có thể đề cập đến:
 
-- **[Elbereth Gilthoniel](../V/Varda.md)**, tên Sindarin của **Varda, Nữ hoàng của [Valar](../V/Valar.md)**.
+- **[Elbereth Gilthoniel](../V/Varda.md)**, tên tiếng Sindarin của **Varda, Nữ hoàng của [Valar](../V/Valar.md)**.
     - [Tuyết trắng! Bạch Tuyết! O Lady rõ ràng!](../S/Snow-white!_Snow-white!_O_Lady_clear!.md), một bài hát được hát bởi [Gildor Inglorion](../G/Gildor.md) trong *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)*.
     - [A Elbereth Gilthoniel](../A/A_Elbereth_Gilthoniel.md), một bài thơ [Sindarin](../S/Sindarin.md) ở cả *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)* và *[The Road Goes Ever On](<../T/The_Road_Goes_Ever_On_(book).md>)*.
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-[Eluréd](Eluréd.md), con trai của [Dior Eluchíl](../D/Dior.md), ban đầu được gọi là *Elbereth*, tên [Ilkorin](../I/Ilkorin.md) chứa từ *bereth* "valor". [Elrohir](Elrohir.md), con trai của [Elrond](Elrond.md), đôi khi được gọi là *Elbereth* trong các bài viết trước đó. Tên *Elbereth* sau đó được sửa thành Varda trong khi Tolkien đang viết *[Three is Company](../T/Three_is_Company.md)* (trong bài thánh ca Tiên gốc, Varda cho đến lúc đó được gọi là *Elberil*).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+[Eluréd](Eluréd.md), con trai của [Dior Eluchíl](../D/Dior.md), ban đầu được gọi là *Elbereth*, một tên [Ilkorin](../I/Ilkorin.md) chứa từ *bereth* "valor". [Elrohir](Elrohir.md), con trai của [Elrond](Elrond.md), đôi khi được gọi là *Elbereth* trong các bài viết trước đó. Tên *Elbereth* sau đó được sửa thành Varda trong khi Tolkien đang viết *[Three is Company](../T/Three_is_Company.md)* (trong Bản thánh ca yêu tinh ban đầu, Varda cho đến lúc đó được gọi là *Elberil*).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Công việc khác {#Other_works}
 
@@ -62,8 +62,8 @@ images:
 
 ## Cộng đồng người hâm mộ {#Fandom}
 
-- <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Elbereth_(journal)&amp;action=edit&amp;redlink=1" title="Elbereth (journal) (page does not exist)">Elbereth (tạp chí)</a></i>, tạp chí của Hiệp hội Tolkien Úc ​​ <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Fellowship_of_Middle_Earth&amp;action=edit&amp;redlink=1" title="Fellowship of Middle Earth (page does not exist)">Hiệp hội Trung Địa</a></i>.
-- [Một Elbereth Gilthoniel! 1, không. 2](../A/A_Elbereth_Gilthoniel!_1,_no._2.md), Số bản tin
+- <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Elbereth_(journal)&amp;action=edit&amp;redlink=1" title="Elbereth (journal) (page does not exist)">Elbereth (tạp chí)</a></i>, tạp chí của Hiệp hội Tolkien Úc <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Fellowship_of_Middle_Earth&amp;action=edit&amp;redlink=1" title="Fellowship of Middle Earth (page does not exist)">Hiệp hội Trung Địa</a></i>.
+- [Elbereth Gilthoniel! 1, không. 2](../A/A_Elbereth_Gilthoniel!_1,_no._2.md), Số bản tin
 
 <span></span>
 

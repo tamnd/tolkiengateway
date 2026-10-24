@@ -31,7 +31,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien dì của anh ấy một phần khác của *[The Silmarillion](../T/The_Silmarillion.md)*. Anh ấy xin lỗi vì nó lộn xộn và cho biết rằng anh ấy sẽ gửi cho cô ấy những tài liệu thú vị hơn trong tương lai.
+Tolkien dì của mình một phần khác của *[The Silmarillion](../T/The_Silmarillion.md)*. Ông xin lỗi vì nó lộn xộn và cho biết rằng ông sẽ gửi cho bà những tài liệu thú vị hơn trong tương lai.
 
 <br>
 

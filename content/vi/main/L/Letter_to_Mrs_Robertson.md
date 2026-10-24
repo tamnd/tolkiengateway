@@ -27,7 +27,7 @@ Vào [28 tháng 4](../_/28_April.md) [1972](../_/1972.md), [J.R.R. Tolkien](../J
 
 Bức thư đánh máy có ký tên ("J.R.R. Tolkien") gửi cho bà Robertson, xin lỗi vì sự chậm trễ trong việc trả lời, gây ra bởi "một quá trình lâu dài và có phần rắc rối khi sắp xếp phòng ở trường Đại học", và hy vọng bà có thể đến thăm Sidmouth lần nữa: "Tôi có thể nói rằng tôi đã đặt chỗ ở Belmont trong một tuần, từ ngày 22 đến ngày 29 tháng 8, cho tôi, con gái tôi và đứa cháu trai quyến rũ của tôi [Simon](../S/Simon_Tolkien.md)"; với phần tái bút thảo luận về các mối quan hệ tương ứng của họ ở Canada; ghi ngày trả lời.
 
-Trong lô hàng có một lá thư có chữ ký của thư ký của Tolkien, [Joy Hill](../J/Joy_Hill.md), cảm ơn bà Robertson vì lá thư chia buồn về cái chết của vợ ông "Giáo sư thấy lá thư của bà là một nguồn an ủi lớn lao".<sup id="cite_ref-Bonhams_1-1" class="reference"><a href="#cite_note-Bonhams-1">[1]</a></sup>
+Trong lô hàng có một lá thư được ký bởi thư ký của Tolkien, [Joy Hill](../J/Joy_Hill.md), cảm ơn bà Robertson vì lá thư chia buồn về cái chết của vợ ông "Giáo sư thấy lá thư của bà là một sự an ủi lớn lao".<sup id="cite_ref-Bonhams_1-1" class="reference"><a href="#cite_note-Bonhams-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}
 

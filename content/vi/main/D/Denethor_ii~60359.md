@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Denethor"
 ---
 
-Chuyển hướng đến [Denethor](Denethor.md).
+Chuyển hướng tới [Denethor](Denethor.md).

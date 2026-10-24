@@ -39,7 +39,7 @@ images:
 
 ## Từ nguyên {#Etymology}
 
-*Lórellin* là [Quenya](../Q/Quenya.md) dành cho "Hồ bơi trong mơ", từ <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=L%C3%B3r%C3%AB&amp;action=edit&amp;redlink=1" title="Lórë (page does not exist)">lórë</a></i> ("giấc mơ") + *[lin](Lin.md)* ("hồ bơi, đơn thuần").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+*Lórellin* là [Quenya](../Q/Quenya.md) cho "Hồ bơi trong mơ", từ <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=L%C3%B3r%C3%AB&amp;action=edit&amp;redlink=1" title="Lórë (page does not exist)">lórë</a></i> ("giấc mơ") + *[lin](Lin.md)* ("hồ bơi, chỉ đơn thuần").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

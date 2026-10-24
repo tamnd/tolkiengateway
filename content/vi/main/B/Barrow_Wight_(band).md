@@ -26,22 +26,22 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Band</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Barrow Wight</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Background Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Origin</th><td class="tg-infobox-data">Ottawa, Canada</td></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data">heavy/black metal</td></tr><tr><th scope="row" class="tg-infobox-label">Years active</th><td class="tg-infobox-data">2006-present</td></tr><tr><th scope="row" class="tg-infobox-label">website</th><td class="tg-infobox-data"><a class="external text" href="https://barrowwight.bandcamp.com/music" rel="noreferrer noopener" target="_blank">Bandcamp</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Members</span></th></tr><tr><th scope="row" class="tg-infobox-label">Current Members</th><td class="tg-infobox-data">Antero Wight<br/>Akiva<br/>Elf Ripper</td></tr></tbody></table>
 
-**Barrow Wight** là một ban nhạc kim loại nặng/kim loại đen có liên quan đến Tolkien đến từ Ottawa, Canada, được thành lập vào năm 2006. Ban nhạc lấy tên từ [Barrow-wight](Barrow-wight.md) trong huyền thoại của Tolkien và các bản phát hành của nhóm thu hút rất nhiều vào Trung Địa. Phim dài tập đầu tay *Kings in Saurons Service* (2016) bao gồm các bài hát như "Osgiliath", "Grond" và "The Palantir".
+**Barrow Wight** là một ban nhạc kim loại đen/nặng có liên quan đến Tolkien đến từ Ottawa, Canada, được thành lập vào năm 2006. Ban nhạc lấy tên từ [Barrow-wights](Barrow-wight.md) trong truyền thuyết của Tolkien và các bản phát hành của nhóm thu hút nhiều người ở Trung Địa. Phim dài tập đầu tay *Kings in Saurons Service* (2016) bao gồm các bài hát như "Osgiliath", "Grond" và "The Palantir".
 
 ## Thành viên {#Members}
 
 - Antero Wight - bass, vocal
 - Akiva - guitar
-- Tiên Ripper - trống
+- Elf Ripper - trống
 
 ## Danh sách đĩa {#Discography}
 
-- Bùng nổ Mordor (Bản demo, 2010)
-- Trong Liên minh với Sauron (Bản demo, 2012)
-- Nguồn từ phương Đông (EP, 2014)
-- Unfinished Tales (Tổng hợp, 2015)
-- Không ngủ cho đến Gondor (Đĩa đơn, 2015)
-- Dịch vụ của các vị vua trong Sauron (Trọn bộ, 2016)
+- Tung vào Mordor (Bản demo, 2010)
+- Liên minh với Sauron (Bản demo, 2012)
+- Sức mạnh từ phương Đông (EP, 2014)
+- Những câu chuyện dang dở (Tổng hợp, 2015)
+- No Sleep Till Gondor (Đĩa đơn, 2015)
+- Những vị vua trong sự phục vụ của Sauron (Trọn bộ, 2016)
 - Morgül Blade (Đĩa đơn, 2019)
 
 ## Liên kết ngoài {#External_links}

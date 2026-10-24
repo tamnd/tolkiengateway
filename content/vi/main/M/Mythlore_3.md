@@ -39,24 +39,24 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mythlore_3.gif.md"><img src="https://tolkiengateway.net/w/images/a/ac/Mythlore_3.gif" decoding="async" loading="lazy" width="225" height="291" class="mw-file-element" data-file-width="225" data-file-height="291"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mythlore 3</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../G/Glen_GoodKnight.md" title="Glen GoodKnight">Glen GoodKnight</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">July, <a href="../_/1969.md" title="1969">1969</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">46</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mythlore_2.md" title="Mythlore 2">Mythlore 2</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mythlore_4.md" title="Mythlore 4">Mythlore 4</a></td></tr></tbody></table>
 
-<i><b>Mythlore</b></i> **3** <a class="external text" href="https://dc.swosu.edu/mythlore/vol1/iss3/" rel="noreferrer noopener" target="_blank">(Tập 1, Số 3)</a> là số của tạp chí *[Mythlore](Mythlore.md)*, được xuất bản bởi [Hiệp hội Thần thoại](Mythopoeic_Society.md).
+<i><b>Thần thoại</b></i> **3** <a class="external text" href="https://dc.swosu.edu/mythlore/vol1/iss3/" rel="noreferrer noopener" target="_blank">(Tập 1, Số 3)</a> là số của tạp chí *[Mythlore](Mythlore.md)*, được xuất bản bởi [Hiệp hội Thần thoại](Mythopoeic_Society.md).
 
 ## Nội dung {#Contents}
 
-- Trời, George. “Nó có cái gì trong túi thế?” (ghi chú ở bìa). 2+.
-- Chúc ngủ ngon, Glen. "Luật sư của Elrond." 4.
-- Zuber, Bernie. "Bên kia Brandywine." 5+.
-- Hoan hô, Nan. "Tolkien và Máy rút." 8-10; 13.
-- Ellwood, Robert S., Jr. "Người Nhật Hobbit." Review truyện "Hobitto no Boken" ("Cuộc phiêu lưu của Hobbit"), trans. Teiji Seta, minh họa. Ryuichi Terashima. 14-17.
-- Chúc ngủ ngon, Glen. "So sánh Địa lý vũ trụ trong các tác phẩm của J.R.R. Tolkien, C.S. Lewis và Charles Williams." 18-22.
-- Bergstrom, Bonnie. "Từ Lemuria đến Lugburz: So sánh giữa Kiếm & Ma thuật và Ảo tưởng anh hùng." 23-4.
-- Callahan, Patrick. "Một trang bị mất từ ​​ Red Book of Westmarch." 25.
-- Barczak, Christopher. "Sự trừng phạt của Sauron: Một câu chuyện ngụ ngôn giả định." 26.
-- Hoggman, Irving X. "Những cuộc phiêu lưu thần thoại tại Hội chợ Niềm vui." 28+.
-- Zuber, Bernie. "Thế giới của Fanzines." 32+.
-- Kuhl, Rand. "Truyền thuyết về Logres: Rất ít điều tốt Rồng." Đánh giá về "Beowulf: Quái vật và những nhà phê bình" của J.R.R. Tolkien. 34-37.
+- Barr, George. "What has it got in its pocketses?" (notes on the cover). 2+.
+- GoodKnight, Glen. "The Counsel of Elrond." 4.
+- Zuber, Bernie. "Across The Brandywine." 5+.
+- Braude, Nan. "Tolkien and Spenser." 8-10; 13.
+- Ellwood, Robert S., Jr. "The Japanese Hobbit." Review of "Hobitto no Boken" ("The Adventure of the Hobbit"), trans. Teiji Seta, illus. Ryuichi Terashima. 14-17.
+- GoodKnight, Glen. "A Comparison of Cosmological Geography in the Works of J.R.R. Tolkien, C.S. Lewis, and Charles Williams." 18-22.
+- Bergstrom, Bonnie. "From Lemuria to Lugburz: A Comparison of Sword &amp; Sorcery and Heroic Fantasy." 23-4.
+- Callahan, Patrick. "A Lost Page From The Red Book of Westmarch." 25.
+- Barczak, Christopher. "The Punishment of Sauron: A Hypothetical Parable." 26.
+- Hoggman, Irving X. "The Myth-Adventures at The Pleasure Faire." 28+.
+- Zuber, Bernie. "World of Fanzines." 32+.
+- Kuhl, Rand. "Lore of Logres: Very Few Good Dragons." Review of "Beowulf: The Monsters and the Critics" by J.R.R. Tolkien. 34-37.
 - Biên tập. 38+.
-- "Công văn gửi tới *Mythlore*." 41.
+- "Công văn gửi đến *Mythlore*." 41.
 - "Danh sách sách." 46.
 
 <div class="template-prevnext"><div class="template-prevnext__prev template-prevnext__link"><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/8/81/WikimediaUI-ArrowPrevious-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__content"><div class="template-prevnext__title">Mythlore 2</div></div><div class="template-prevnext__linkoverlay"><a href="Mythlore_2.md" title="Mythlore 2">Mythlore 2</a></div></div><div class="template-prevnext__current"><div class="template-prevnext__content"><div class="template-prevnext__title">Mythlore 3</div></div></div><div class="template-prevnext__next template-prevnext__link"><div class="template-prevnext__content"><div class="template-prevnext__title">Mythlore 4</div></div><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/7b/WikimediaUI-ArrowNext-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__linkoverlay"><a href="Mythlore_4.md" title="Mythlore 4">Mythlore 4</a></div></div></div>

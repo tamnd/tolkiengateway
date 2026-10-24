@@ -13,7 +13,7 @@ categories:
   - "Sindarin adjectives"
 ---
 
-<i><b>iaur</b></i> là tính từ [Sindarin](../S/Sindarin.md) có nghĩa là "cũ, xưa, nguyên bản, nguyên thủy".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>iaur</b></i> là một tính từ [Sindarin](../S/Sindarin.md) có nghĩa là "cũ, cổ, nguyên bản, trước đây".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -21,7 +21,7 @@ categories:
 
 ## Ví dụ {#Examples}
 
-- <i><a class="mw-redirect" href="../A/Aran_Einior.md" title="Aran Einior">Aran Ein<b>ior</b></a></i> = "Trưởng lão Vua"
+- <i><a class="mw-redirect" href="../A/Aran_Einior.md" title="Aran Einior">Aran Ein<b>ior</b></a></i> = "Vua trưởng lão"
 - <i><a href="../D/Drúwaith_Iaur.md" title="Drúwaith Iaur">Drúwaith <b>Iaur</b></a></i> = "Vùng đất Púkel cũ"
 - <i><a href="../T/Tom_Bombadil.md" title="Tom Bombadil"><b>Iar</b>wain</a></i> = "Già-trẻ"
 - *[Ioreth](Ioreth.md)* = "Bà già"
@@ -30,7 +30,7 @@ categories:
 
 ## Cảm hứng {#Inspiration}
 
-[Jim Allan](../J/Jim_Allan.md) lưu ý rằng *iâr* trong [tiếng Wales](../W/Welsh.md) có nghĩa là "con gà mái", trong khi *hen* có nghĩa là "cũ" trong tiếng Wales.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+[Jim Allan](../J/Jim_Allan.md) lưu ý rằng *iâr* trong [xứ Wales](../W/Welsh.md) có nghĩa là "con gà mái", trong khi *hen* có nghĩa là "cũ" trong tiếng Wales.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Có cùng nguồn gốc {#Cognates}
 

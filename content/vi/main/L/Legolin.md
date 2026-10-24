@@ -14,7 +14,7 @@ categories:
   - "Sindarin names"
 ---
 
-**Legolin** là con sông thứ ba trong số sáu nhánh sông của [Gelion](../G/Gelion.md), giống như những con sông khác bắt nguồn từ sườn phía tây của [Dãy Núi Xanh](../B/Blue_Mountains.md). Nó chảy nhanh về phía tây qua [Ossiriand](../O/Ossiriand.md) giữa [Thalos](../T/Thalos.md) ở phía bắc và [Brilthor](../B/Brilthor.md) ở phía nam.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Tên *Legolin* có nguồn gốc từ [Ilkorin](../I/Ilkorin.md) *legol* ("chảy tự do").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Legolin** là con sông thứ ba trong số sáu nhánh sông của [Gelion](../G/Gelion.md), giống như những con sông khác bắt nguồn từ sườn phía tây của [Blue Mountains](../B/Blue_Mountains.md). Nó chảy nhanh về phía tây qua [Ossiriand](../O/Ossiriand.md) giữa [Thalos](../T/Thalos.md) ở phía bắc và [Brilthor](../B/Brilthor.md) ở phía nam.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Tên *Legolin* có nguồn gốc từ [Ilkorin](../I/Ilkorin.md) *legol* ("chảy tự do").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 

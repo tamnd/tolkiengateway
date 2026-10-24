@@ -27,7 +27,7 @@ images:
 <p class="tg-quote-footer"><cite><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a></cite></p>
 </blockquote></div></div>
 
-**William Lawrence Snyder** ([14 tháng 2](../_/14_February.md), [1918](../_/1918.md) – [3 tháng 6](../_/3_June.md), [1998](../_/1998.md)) là nhà sản xuất phim người Mỹ từng đoạt giải thưởng học viện. Ông là nhà sản xuất [bộ phim hoạt hình đầu tiên](<../T/The_Hobbit_(1967_film).md>) của *[The Hobbit](../T/The_Hobbit.md)* vào năm 1967. Phim do [Gene Deitch đạo diễn](../G/Gene_Deitch.md) và được thực hiện trong vòng chưa đầy một tháng. Thời lượng chiếu của bộ phim rất nhỏ 12 phút và được sản xuất đơn giản để Snyder có thể gia hạn giấy phép của mình cho *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*và bán lại cho Tolkien và các nhà xuất bản của anh ấy với giá 100.000 USD.
+**William Lawrence Snyder** ([14 tháng 2](../_/14_February.md), [1918](../_/1918.md) – [3 tháng 6](../_/3_June.md), [1998](../_/1998.md)) là nhà sản xuất phim người Mỹ từng đoạt giải thưởng học viện. Ông là nhà sản xuất [bộ phim hoạt hình đầu tiên](<../T/The_Hobbit_(1967_film).md>) của *[The Hobbit](../T/The_Hobbit.md)* vào năm 1967. Phim do [Gene Deitch đạo diễn](../G/Gene_Deitch.md) và được thực hiện trong vòng chưa đầy một tháng. Thời lượng chiếu của bộ phim rất nhỏ là 12 phút và được sản xuất đơn giản để Snyder có thể gia hạn giấy phép của mình với giá *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* và bán lại cho Tolkien và các nhà xuất bản của ông với giá 100.000 USD.
 
 ## Liên kết ngoài {#External_Links}
 

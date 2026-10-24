@@ -18,11 +18,11 @@ langlinks:
     url: "https://kontu.wiki/Voivalvatti"
 ---
 
-**Butterbur** là một gia đình lâu đời của [Bree](Bree.md), đã giữ quán trọ ở đó, [Prancing Pony](../P/Prancing_Pony.md), trong nhiều năm không thể tính toán được. Chủ quán lúc [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md) là [Barliman Butterbur](Barliman_Butterbur.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Butterbur** là một gia đình lâu đời của [Bree](Bree.md), đã giữ quán trọ ở đó, [Ngựa chồm](../P/Prancing_Pony.md), trong nhiều năm không thể tính toán được. Chủ quán trọ vào thời điểm diễn ra [Chiến tranh trên nhẫn](../W/War_of_the_Ring.md) là [Barliman Butterbur](Barliman_Butterbur.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2011: <i><a href="../T/The_Lord_of_the_Rings%253A_War_in_the_North.md" title="The Lord of the Rings: War in the North">The Lord of the Rings: War in the North</a></i>:</b>
+<b>2011: <i><a href="../T/The_Lord_of_the_Rings%253A_War_in_the_North.md" title="The Lord of the Rings: War in the North">Chúa tể của những chiếc nhẫn: Cuộc chiến ở phương Bắc</a></i>:</b>
 
 <dl><dd>The family is mentioned by Barliman Butterbur, who tells the player that the Prancing Pony has been in possession of the Butterbur family for many generations.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></dd></dl>
 

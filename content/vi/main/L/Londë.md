@@ -15,18 +15,18 @@ sort_keys:
   "Quenya nouns": "Londe"
 ---
 
-<i><b>londë</b></i> là [Quenya](../Q/Quenya.md) dành cho "nơi trú ẩn nằm trong đất liền".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>londë</b></i> là [Quenya](../Q/Quenya.md) có nghĩa là "thiên đường nằm trong đất liền".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Ví dụ {#Examples}
 
 - <i><a href="../A/Alqualondë.md" title="Alqualondë">Alqua<b>londë</b></a></i> = "Thiên nga thiên nga"
-- <i><a href="../E/Eldalondë.md" title="Eldalondë">Elda<b>londë</b></a></i> = "Tiên Haven"
+- <i><a href="../E/Eldalondë.md" title="Eldalondë">Elda<b>londë</b></a></i> = "Yêu tinh trú ẩn"
 - <i><a href="../H/Hirilondë.md" title="Hirilondë">Hiri<b>londë</b></a></i> = "Người tìm kiếm thiên đường"
 - <i><a href="../V/Vinyalondë.md" title="Vinyalondë">Vinya<b>londë</b></a></i> = "New Haven"
 
 ## Có cùng nguồn gốc {#Cognates}
 
-- [Sindarin](../S/Sindarin.md) *[lond](Lond.md)*
+- [Tiếng Sindarin](../S/Sindarin.md) *[lond](Lond.md)*
 
 <span></span>
 

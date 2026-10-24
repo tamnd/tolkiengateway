@@ -34,7 +34,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien khen ngợi Edith vì những bức thư tuyệt vời của cô ấy trong khi tự gọi mình là "con lợn" vì không viết thường xuyên hơn.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[notes 1]</a></sup> Anh ấy thảo luận về thời gian đào tạo của mình tại Quân đoàn Huấn luyện Sĩ quan [Đại học](../O/Oxford_University.md) khi đang theo học năm cuối đại học tại Oxford. Anh ấy đề cập đến một câu chuyện anh ấy đang viết, *[The Story of Kullervo](../T/The_Story_of_Kullervo.md)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[notes 2]</a></sup>
+Tolkien khen ngợi Edith vì những bức thư tuyệt vời của bà trong khi tự gọi mình là "con lợn" vì không viết thường xuyên hơn.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[notes 1]</a></sup> Ông thảo luận về thời gian đào tạo của mình tại Quân đoàn Huấn luyện Sĩ quan [Đại học](../O/Oxford_University.md) khi đang theo học năm cuối đại học tại Oxford. Ông đề cập đến một câu chuyện ông đang viết, *[The Story of Kullervo](../T/The_Story_of_Kullervo.md)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[notes 2]</a></sup>
 
 ## Ghi chú {#Notes}
 

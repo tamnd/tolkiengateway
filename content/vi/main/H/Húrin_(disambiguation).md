@@ -27,14 +27,14 @@ images:
   - "Disambig.png"
 ---
 
-**Húrin** có nghĩa là "Tâm trạng sẵn sàng chiến đấu" trong [Sindarin](../S/Sindarin.md) (từ *[hûr](Hûr.md)*, "sự sẵn sàng, sức sống, tinh thần bốc lửa" và <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Ind&amp;action=edit&amp;redlink=1" title="Ind (page does not exist)">ind</a></i>, "tâm trạng"), và có thể tham khảo:
+**Húrin** có nghĩa là "Tâm trạng sẵn sàng chiến đấu" trong [Sindarin](../S/Sindarin.md) (từ *[hûr](Hûr.md)*, "sự sẵn sàng, sức sống, tinh thần bốc lửa" và <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Ind&amp;action=edit&amp;redlink=1" title="Ind (page does not exist)">ind</a></i>, "tâm trạng"), và có thể đề cập đến:
 
-- **[Húrin Thalion](Húrin.md) ([F.A.](../F/First_Age.md) [441](../F/First_Age_441.md) - c. [500](../F/First_Age_500.md)), [Chúa tể cuối cùng của Dor-lómin](../L/Lord_of_Dor-lómin.md) và là cha của [Túrin Turambar](../T/Túrin.md), anh hùng của [Kỷ Đệ Nhất](../F/First_Age.md).**
-- [Húrin của Emyn Arnen](Húrin_of_Emyn_Arnen.md) (fl. [T.A.](../T/Third_Age.md) [1634](../T/Third_Age_1634.md)), [Quản gia đầu tiên của Gondor](../S/Stewards_of_Gondor.md) có tên được ghi vào lịch sử.
-    - [Nhà Húrin](House_of_Húrin.md), nhà triều đại của [Quản lý](../S/Stewards_of_Gondor.md) nhà [Gondor](../G/Gondor.md), được đặt theo tên Húrin của [Emyn Arnen](../E/Emyn_Arnen.md).
-- [Húrin Tôi](Húrin_I.md) ([T.A.](../T/Third_Age.md) [2124](../T/Third_Age_2124.md) - [2244](../T/Third_Age_2244.md)), [Người quản lý cầm quyền](../R/Ruling_Steward.md) thứ năm của Gondor.
-- [Húrin II](Húrin_II.md) ([T.A.](../T/Third_Age.md) [2515](../T/Third_Age_2515.md) - [2628](../T/Third_Age_2628.md)), [Người quản lý cầm quyền](../R/Ruling_Steward.md) thứ mười bốn của Gondor.
-- [Húrin the Tall](<Húrin_(Warden_of_the_Keys).md>) (fl. [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md)), [Người bảo vệ chìa khóa](../W/Warden_of_the_Keys.md) của [Minas Tirith](../M/Minas_Tirith.md) tại thời điểm [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md).
+- **[Húrin Thalion](Húrin.md) ([F.A.](../F/First_Age.md) [441](../F/First_Age_441.md) - c. [500](../F/First_Age_500.md)), [Chúa tể cuối cùng của Dor-lómin](../L/Lord_of_Dor-lómin.md) và là cha của [Túrin Turambar](../T/Túrin.md), anh hùng của [Thời đại thứ nhất](../F/First_Age.md).**
+- [Húrin của Emyn Arnen](Húrin_of_Emyn_Arnen.md) (fl. [T.A.](../T/Third_Age.md) [1634](../T/Third_Age_1634.md)), [Quản gia Gondor](../S/Stewards_of_Gondor.md) đầu tiên có tên được ghi vào lịch sử.
+    - [Nhà Húrin](House_of_Húrin.md), triều đại của [Quản lý](../S/Stewards_of_Gondor.md) của [Gondor](../G/Gondor.md), được đặt theo tên Húrin của [Emyn Arnen](../E/Emyn_Arnen.md).
+- [Húrin I](Húrin_I.md) ([T.A.](../T/Third_Age.md) [2124](../T/Third_Age_2124.md) - [2244](../T/Third_Age_2244.md)), [Quản lý cai trị](../R/Ruling_Steward.md) thứ năm của Gondor.
+- [Húrin II](Húrin_II.md) ([T.A.](../T/Third_Age.md) [2515](../T/Third_Age_2515.md) - [2628](../T/Third_Age_2628.md)), [Quản lý cai trị](../R/Ruling_Steward.md) thứ mười bốn của Gondor.
+- [Húrin the Tall](<Húrin_(Warden_of_the_Keys).md>) (fl. [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md)), [Warden of the Keys](../W/Warden_of_the_Keys.md) của [Minas Tirith](../M/Minas_Tirith.md) tại thời điểm diễn ra [War of the Ring](../W/War_of_the_Ring.md).
 
 <hr style="margin-top:15px;"/>
 

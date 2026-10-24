@@ -32,7 +32,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/O/Orcrist_7.png.md"><img src="https://tolkiengateway.net/w/images/thumb/8/84/Orcrist_7.png/320px-Orcrist_7.png" decoding="async" loading="lazy" width="320" height="402" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/8/84/Orcrist_7.png 1.5x" data-file-width="369" data-file-height="464"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Orcrist 7</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../R/Richard_C._West.md" title="Richard C. West">Richard C. West</a> (Art Editor: Ivor A. Rogers)</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Madison: <a href="../U/University_of_Wisconsin_Tolkien_and_Fantasy_Society.md" title="University of Wisconsin Tolkien and Fantasy Society">University of Wisconsin J.R.R. Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/1973.md" title="1973">1973</a></td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Orcrist_6.md" title="Orcrist 6">Orcrist 6</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Orcrist_8.md" title="Orcrist 8">Orcrist 8</a></td></tr></tbody></table>
 
-<b><i>Orcrist</i> 7</b> là số của tạp chí *[Orcrist](<Orcrist_(journal).md>)*, xuất bản dưới dạng Số Đặc biệt về Truyền thống Trung cổ trong Văn học Hiện đại.
+<b><i>Orcrist</i> 7</b> là số của tạp chí *[Orcrist](<Orcrist_(journal).md>)*, được xuất bản dưới dạng Số Đặc biệt về Truyền thống Trung cổ trong Văn học Hiện đại.
 
 Bìa trước có hình minh họa không có tiêu đề của M. Cannito.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
@@ -46,20 +46,20 @@ Cống hiến: Dành cho Carl Carroll: un homme tant preux que nus plus
 - "Không ai có thể thoát khỏi sự kỳ lạ của mình"—Sandra Miesel (trang 9–12) \[chủ yếu là trên *The Broken Sword*\] của Poul Anderson
 - "Malory và T. H. White"—Richard C. West (trang 13–15)
 - "Moot Point" (tr. 15) \[thư từ Tim Kirk (30 tháng 4 năm 1972) và Eugene Vinaver (12 tháng 5 năm 1972) \]
-Kỹ thuật sáng tạo của - "Tolkien: *Beowulf* và *The Hobbit*"—Bonniejean Christensen (trang 16–20)
+- "Kỹ thuật sáng tạo của Tolkien: *Beowulf* và *The Hobbit*"—Bonniejean Christensen (trang 16–20)
 - "*Farmer Giles of Ham*: Nó là gì?"—J. A. Johnson (trang 21–24)
-- "Biên niên sử Prydain và tiếng Wales truyền thống của Lloyd Alexander"—Elizabeth Lane (trang 25–29)
+- "Biên niên sử Prydain và truyền thống xứ Wales của Lloyd Alexander"—Elizabeth Lane (trang 25–29)
 - Đang xem xét" (tr. 29)
     - "Hướng dẫn về vàng rắn" : [Robert Foster](../R/Robert_Foster.md), *[A Guide to Middle-earth](../A/A_Guide_to_Middle-earth.md)* (Mirage Press, 1971) -- được đánh giá bởi Deborah Rogers
-- "Đề cập ngắn gọn" của Richard Phương Tây về:
+- "Đề cập ngắn gọn" của Richard West của:
     - [James D. Allan](../J/Jim_Allan.md), *[A Glossary of the Eldarin Tongues](../A/A_Glossary_of_the_Eldarin_Tongues.md)* (tự xuất bản, 1972)
     - Thomas D. Clareson, chủ biên. SF: Mặt khác của chủ nghĩa hiện thực (Nhà xuất bản phổ biến của Đại học Bowling Green, 1971)
-    - Charles H. Huttar, biên tập. Trí tưởng tượng và tinh thần: Các tiểu luận về văn học và đức tin Kitô giáo trình bày cho Clyde S. Kilby (Eerdmans, 1971)
+    - Charles H. Huttar, chủ biên. Trí tưởng tượng và tinh thần: Các tiểu luận về văn học và đức tin Kitô giáo trình bày cho Clyde S. Kilby (Eerdmans, 1971)
     - Carolyn Keefe, biên tập. C. S. Lewis: Diễn giả và Giáo viên (Zondervan, 1971)
     - C.S. Lewis, *Chúa ở bến tàu: Các tiểu luận về Thần học và Đạo đức*, ed. Walter Hooper (Eerdmans, 1970)
     - Sam J. Lundwall, *Science Fiction: What It's All About* (Ace, 1971)
     - Jeremy Potter, *A Trail of Blood* (McCall, 1971)
-    - [William Ready](../W/William_Ready.md), *The Lord of the Rings, The Hobbit Ghi chú* (Coles Publishing Co., Ltd., 1971)
+    - [William Ready](../W/William_Ready.md), *Chúa tể của những chiếc nhẫn, Ghi chú của người Hobbit* (Coles Publishing Co., Ltd., 1971)
     - R.J. Reilly, *[Romantic Religion: A Study of Barfield, Lewis, Williams, and Tolkien](../R/Romantic_Religion.md)* (Nhà xuất bản Đại học Georgia, 1971)
     - Mary Stewart, *The Crystal Cave* (Ngày mai, 1970)
     - Gunnar Urang, *[Shadows of Heaven: Religion and Fantasy in the Writing of C.S. Lewis, Charles Williams, and J.R.R. Tolkien](../S/Shadows_of_Heaven.md)* (Nhà xuất bản hành hương, 1971)

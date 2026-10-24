@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Chi tiết bức tranh "[Yule at Bag End, 1427](Miriam_Ellis_-_Yule_at_Bag_End,_1427.jpg.md)" của [Miriam Ellis](../../main/M/Miriam_Ellis.md), mô tả [Lily Brown](../../main/L/Lily_Brown.md)
+Chi tiết bức tranh "[Yule at Bag End, 1427](Miriam_Ellis_-_Yule_at_Bag_End,_1427.jpg.md)" của [Miriam Ellis](../../main/M/Miriam_Ellis.md), miêu tả [Lily Brown](../../main/L/Lily_Brown.md)
 
 ## Giấy phép {#Licensing}
 

@@ -25,9 +25,9 @@ images:
 <p class="tg-quote-footer"><cite><a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Sam</a></cite></p>
 </blockquote></div></div>
 
-**Đại đội 3 của Hoàng thành**, là một nhóm [Đội Cận vệ Thành trì](../G/Guards_of_the_Citadel.md) dưới sự chỉ huy của [Quản lý Gondor](../S/Steward_of_Gondor.md), [Denethor](../D/Denethor.md) thứ 26
+**Đại đội thứ ba của Thành cổ**, là một nhóm [Vệ binh Thành cổ](../G/Guards_of_the_Citadel.md) dưới sự chỉ huy của [Quản lý Gondor](../S/Steward_of_Gondor.md) thứ 26, [Denethor](../D/Denethor.md)
 
-[Beregond](../B/Beregond.md), một trong số ít lính canh được biết đến, được giao nhiệm vụ hướng dẫn và kết bạn với [Peregrin Took](../P/Peregrin_Took.md) trong thời gian trước cuộc bao vây của [Sauron](../S/Sauron.md) vào [Minas Tirith](../M/Minas_Tirith.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+[Beregond](../B/Beregond.md), một trong số ít lính canh được biết đến, được giao nhiệm vụ hướng dẫn và kết bạn với [Peregrin Took](../P/Peregrin_Took.md) trong thời gian trước cuộc vây hãm [Sauron](../S/Sauron.md) của [Minas Tirith](../M/Minas_Tirith.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

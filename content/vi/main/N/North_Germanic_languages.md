@@ -21,7 +21,7 @@ langlinks:
     url: "https://kontu.wiki/Muinaisnorja"
 ---
 
-**Ngôn ngữ German Bắc**, **Bắc Âu** hoặc **Ngôn ngữ Scandinavi** tạo thành một trong ba nhánh của ngôn ngữ German, một phân họ của ngôn ngữ Ấn-Âu, cùng với Phương Tây ngôn ngữ German và phương Đông ngôn ngữ German đã tuyệt chủng như [Gothic](../G/Gothic.md).
+**Ngôn ngữ German Bắc**, **tiếng Bắc Âu** hoặc **ngôn ngữ Scandinavia** tạo thành một trong ba nhánh của ngôn ngữ German, một phân họ của các ngôn ngữ Ấn-Âu, cùng với các ngôn ngữ German Tây và các ngôn ngữ Đông German đã tuyệt chủng như [Gothic](../G/Gothic.md).
 
 Trong thư gửi [Naomi Mitchison](Naomi_Mitchison.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết rằng:
 
@@ -31,22 +31,22 @@ Trong thư gửi [Naomi Mitchison](Naomi_Mitchison.md), [J.R.R. Tolkien](../J/J.
 <p class="tg-quote-footer"><cite><a href="../L/Letter_144.md" title="Letter 144">Letter 144</a></cite></p>
 </blockquote>
 
-Hầu hết các tên không phải tiếng Anh trong *[The Hobbit](../T/The_Hobbit.md)* là Bắc Âu (chủ yếu từ danh sách Người Lùn được tìm thấy trong *Voluspa* và *Gylfaginning*)<sup id="cite_ref-intro_1-0" class="reference"><a href="#cite_note-intro-1">[1]</a></sup> mặc dù đã được Anh hóa, chẳng hạn như [Gandalfr](../G/Gandalf.md), <a class="mw-redirect mw-disambig" href="../D/Durin.md" title="Durin">Durinn</a>, [Dvalinn](../D/Dwalin.md), [Þrór](../T/Thrór.md), [Eikinskjaldi](../O/Oakenshield.md), [Jarknasteinn](../A/Arkenstone.md), [Beorn](../B/Beorn.md), [Bard](../B/Bard.md), [Smaug](../S/Smaug.md) và [Golfimbul](../G/Golfimbul.md).
+Hầu hết các tên không phải tiếng Anh trong *[The Hobbit](../T/The_Hobbit.md)* đều là tên Bắc Âu (chủ yếu từ danh sách Người lùn được tìm thấy trong *Voluspa* và *Gylfaginning*)<sup id="cite_ref-intro_1-0" class="reference"><a href="#cite_note-intro-1">[1]</a></sup> mặc dù đã được Anh hóa, chẳng hạn như [Gandalfr](../G/Gandalf.md), <a class="mw-redirect mw-disambig" href="../D/Durin.md" title="Durin">Durinn</a>, [Dvalinn](../D/Dwalin.md), [Þrór](../T/Thrór.md), [Eikinskjaldi](../O/Oakenshield.md), [Jarknasteinn](../A/Arkenstone.md), [Beorn](../B/Beorn.md), [Bard](../B/Bard.md), [Smaug](../S/Smaug.md) và [Golfimbul](../G/Golfimbul.md).
 
-Trong cốt truyện được phát triển cho *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, Tolkien đã giải thích rằng [Durin's Folk](../D/Durin's_Folk~15256.md), sau khi di cư đến [Erebor](../L/Lonely_Mountain.md), đã sử dụng ngôn ngữ Dale cho tên của họ khi tương tác với [Con Người](../M/Men.md) vì bản chất bí mật của họ đã ngăn cản họ sử dụng [Khuzdul](../K/Khuzdul.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Các tên trong *The Lord of the Rings* như [Gimli](../G/Gimli.md), [Narvi](Narvi.md) và [Forn](../T/Tom_Bombadil.md) cũng là Bắc Âu.
+Trong cốt truyện được phát triển cho *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, Tolkien giải thích rằng [Durin's Folk](../D/Durin's_Folk~15256.md), sau khi di cư đến [Erebor](../L/Lonely_Mountain.md), đã sử dụng ngôn ngữ của Dale cho tên của họ khi tương tác với [Đàn ông](../M/Men.md) vì bản chất bí mật của họ khiến họ không thể sử dụng [Khuzdul](../K/Khuzdul.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Những cái tên trong *The Lord of the Rings* như [Gimli](../G/Gimli.md), [Narvi](Narvi.md) và [Forn](../T/Tom_Bombadil.md) cũng là người Bắc Âu.
 
-Tolkien không bao giờ cung cấp các dạng tiếng Dalish "gốc", tuy nhiên các bản dịch Bắc Âu phù hợp với ý nghĩa của chúng một cách thuận tiện; ví dụ: Người lùn quan hệ - như cha-con hoặc anh em - có tên có vần điệu hoặc tương tự (cf. [Glóin](../G/Glóin.md)-[Gróin](../G/Gróin.md)-[Óin](../_/Óin.md), [Thrór](../T/Thrór.md)-[Frór](../F/Frór.md)-[Grór](../G/Grór.md), [Fíli](../F/Fíli.md)-[Kíli](../K/Kíli.md) v.v.)<sup id="cite_ref-intro_1-1" class="reference"><a href="#cite_note-intro-1">[1]</a></sup> có thể phản ánh mối quan hệ tương tự ở dạng ban đầu của chúng.
+Tolkien không bao giờ đưa ra các dạng tiếng Dalish "nguyên bản", tuy nhiên các bản dịch tiếng Bắc Âu phù hợp với ý nghĩa của chúng một cách thuận tiện; ví dụ: Quan hệ giữa người lùn - như cha-con hoặc anh em - có tên có vần điệu hoặc tương tự (cf. [Glóin](../G/Glóin.md)-[Gróin](../G/Gróin.md)-[Óin](../_/Óin.md), [Thrór](../T/Thrór.md)-[Frór](../F/Frór.md)-[Grór](../G/Grór.md), [Fíli](../F/Fíli.md)-[Kíli](../K/Kíli.md) v.v.)<sup id="cite_ref-intro_1-1" class="reference"><a href="#cite_note-intro-1">[1]</a></sup> có thể phản ánh mối quan hệ tương tự ở dạng ban đầu của chúng.
 
-Bắc Âu đã sử dụng [Chữ rune](../R/Runes.md) cho hệ thống chữ viết, tuy nhiên Tolkien trong *The Hobbit* đã sử dụng [tiếng Anh cổ](../O/Old_English.md) rune.
+Người Bắc Âu sử dụng [chữ rune](../R/Runes.md) cho hệ thống chữ viết, tuy nhiên Tolkien trong *The Hobbit* lại sử dụng [chữ rune cổ](../O/Old_English.md).
 
 ## Xem thêm {#See_also}
 
 - [ngôn ngữ của Dale](../L/Language_of_Dale.md)
 - [Khuzdul](../K/Khuzdul.md)
-- [tiếng Anh cổ](../O/Old_English.md)/[Rohanese](../R/Rohanese.md)
+- [Tiếng Anh cổ](../O/Old_English.md)/[Tiếng Rohan](../R/Rohanese.md)
 - [Gothic](../G/Gothic.md)
 
-Các ngôn ngữ không phải tiếng Đức khác xuất hiện trong [Tolkien tên](../T/Tolkiennymy.md) là [Celtic](../C/Celtic.md) và [tiếng Hy Lạp hoặc tiếng Latinh](../../category/G/Greco-Roman_names.md) (và các từ phái sinh). <span></span>
+Các ngôn ngữ không phải tiếng Đức khác xuất hiện trong [tên Tolkien](../T/Tolkiennymy.md) là [Celtic](../C/Celtic.md) và [tiếng Hy Lạp hoặc tiếng Latin](../../category/G/Greco-Roman_names.md) (và các ngôn ngữ phái sinh). <span></span>
 
 ## Tài liệu tham khảo {#References}
 

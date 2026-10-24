@@ -15,11 +15,11 @@ hidden_categories:
   - "Pages with short description"
 ---
 
-<br> **MerpCon** hay **Hội nghị nhập vai ở Trung Địa** là một hội nghị thường niên được tổ chức tại Spokane, Washington. Nó không được xác nhận bởi [Trung Địa Doanh nghiệp](Middle-earth_Enterprises.md), [Tolkien Estate](../T/Tolkien_Estate.md)và không được liên kết với [Vương miện Sắt Doanh nghiệp](../I/Iron_Crown_Enterprises.md)' "[MERP](Middle-earth_Role_Playing.md)".
+<br> **MerpCon** hay **Hội nghị nhập vai ở Trung Địa** là một hội nghị thường niên được tổ chức tại Spokane, Washington. Nó không được xác nhận bởi [Doanh nghiệp Trung Địa](Middle-earth_Enterprises.md), [Tolkien Estate](../T/Tolkien_Estate.md) và không được liên kết với [Iron Crown Enterprises](../I/Iron_Crown_Enterprises.md)' "[MERP](Middle-earth_Role_Playing.md)".
 
 ## Lịch sử {#History}
 
-MerpCon được tổ chức hàng năm vào cuối tuần cuối cùng của tháng 7. Nó diễn ra trong 3 ngày kể từ thứ Sáu đó, cho đến hết Chủ nhật (và đôi khi kéo dài một chút đến sáng thứ Hai tuần sau). Sự kiện này tập trung vào Trò chơi nhập vai trong [Trung Địa](Middle-earth.md)của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), sử dụng bất kỳ hệ thống trò chơi nào được điều chỉnh hoặc tạo để chơi trong Trung Địa hoặc bất kỳ khía cạnh nào trong vũ trụ của Tolkien. [MerpCon đầu tiên](MerpCon_I.md) được tổ chức vào năm 2005, sau đó là một MerpCon mới mỗi năm.
+MerpCon được tổ chức hàng năm vào cuối tuần cuối cùng của tháng 7. Nó diễn ra trong 3 ngày kể từ thứ Sáu đó, cho đến hết Chủ nhật (và đôi khi kéo dài một chút đến sáng thứ Hai tuần sau). Sự kiện này tập trung vào Trò chơi nhập vai trong [Trung địa](Middle-earth.md) của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), sử dụng bất kỳ hệ thống trò chơi nào được điều chỉnh hoặc tạo ra để chơi ở Trung địa hoặc bất kỳ khía cạnh nào của vũ trụ Tolkien. [MerpCon đầu tiên](MerpCon_I.md) được tổ chức vào năm 2005, sau đó là một MerpCon mới mỗi năm.
 
 MerpCon được thành lập bởi [Hawke Robinson](../H/Hawke_Robinson.md).
 

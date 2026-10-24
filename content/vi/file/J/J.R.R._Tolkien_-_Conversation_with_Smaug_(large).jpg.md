@@ -29,7 +29,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Hình ảnh này không được sử dụng trong ấn bản đầu tiên của *The Hobbit*, 1937, không có hình minh họa màu, bức tranh này xuất hiện trong ấn bản tiếng Anh thứ hai cùng năm và trong ấn bản đầu tiên ở Mỹ, 1938. Trong ấn bản ở Mỹ, tiêu đề và chữ lồng J.R.R.T. đã bị xóa; nhưng cả hai bản sao đều có chú thích in 'Hỡi Smaug kẻ đứng đầu và vĩ đại nhất của tai họa' (Bilbo từ cho Rồng, Chương 12, "[Thông tin nội bộ](../../main/I/Inside_Information.md)"). Bức tranh được sao chép ở *[The J.R.R. Tolkien Calendar 1973](../../main/T/The_J.R.R._Tolkien_Calendar_1973.md)* và *[1974](../../main/T/The_J.R.R._Tolkien_Calendar_1974.md)*, và ở *[The Hobbit Calendar 1976](../../main/T/The_Hobbit_Calendar_1976.md)*.
+Hình ảnh này không được sử dụng trong ấn bản đầu tiên của *The Hobbit*, 1937, không có hình minh họa màu, bức tranh này xuất hiện trong ấn bản tiếng Anh thứ hai cùng năm và trong ấn bản đầu tiên ở Mỹ, 1938. Trong ấn bản ở Mỹ, tiêu đề và chữ lồng J.R.R.T. đã bị xóa; nhưng cả hai bản sao đều có chú thích in 'Hỡi Smaug kẻ đứng đầu và vĩ đại nhất của tai họa' (Bilbo lời của Rồng, Chương 12, "[Thông tin nội bộ](../../main/I/Inside_Information.md)"). Bức tranh được sao chép ở *[The J.R.R. Tolkien Calendar 1973](../../main/T/The_J.R.R._Tolkien_Calendar_1973.md)* và *[1974](../../main/T/The_J.R.R._Tolkien_Calendar_1974.md)*, và ở *[The Hobbit Calendar 1976](../../main/T/The_Hobbit_Calendar_1976.md)*.
 
 ## Giấy phép {#Licensing}
 

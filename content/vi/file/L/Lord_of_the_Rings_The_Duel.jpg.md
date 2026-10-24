@@ -25,7 +25,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Bìa của [Chúa tể những chiếc nhẫn: The Duel (trò chơi board game)](<../../main/L/Lord_of_the_Rings%253A_The_Duel_(board_game).md>) phiên bản Hoa Kỳ. [Ảnh bìa](../J/John_Howe_-_Moria.jpg.md) của [John Howe](../../main/J/John_Howe.md).
+Bìa ấn bản Hoa Kỳ của [Lord of the Rings: The Duel (board game)](<../../main/L/Lord_of_the_Rings%253A_The_Duel_(board_game).md>). [Ảnh bìa](../J/John_Howe_-_Moria.jpg.md) của [John Howe](../../main/J/John_Howe.md).
 
 ## Giấy phép {#Licensing}
 

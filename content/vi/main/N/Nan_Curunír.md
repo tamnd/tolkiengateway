@@ -56,7 +56,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Matěj_Čadil_-_Autumn_at_Isengard.jpeg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/59/Mat%C4%9Bj_%C4%8Cadil_-_Autumn_at_Isengard.jpeg/320px-Mat%C4%9Bj_%C4%8Cadil_-_Autumn_at_Isengard.jpeg" decoding="async" loading="lazy" width="320" height="254" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/59/Mat%C4%9Bj_%C4%8Cadil_-_Autumn_at_Isengard.jpeg/480px-Mat%C4%9Bj_%C4%8Cadil_-_Autumn_at_Isengard.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/5/59/Mat%C4%9Bj_%C4%8Cadil_-_Autumn_at_Isengard.jpeg/640px-Mat%C4%9Bj_%C4%8Cadil_-_Autumn_at_Isengard.jpeg 2x" data-file-width="1600" data-file-height="1270"/></a><figcaption>&#34;Autumn at Isengard&#34; by <a href="../M/Matěj_Čadil.md" title="Matěj Čadil">Matěj Čadil</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Valley</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Nan Curunír</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>General Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">Between the southern arms of the <a href="../M/Misty_Mountains.md" title="Misty Mountains">Misty Mountains</a>, around <a href="../I/Isengard.md" title="Isengard">Isengard</a></td></tr><tr><th scope="row" class="tg-infobox-label">Type</th><td class="tg-infobox-data">Valley</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>People and History</span></th></tr><tr><th scope="row" class="tg-infobox-label">Inhabitants</th><td class="tg-infobox-data"><a href="../S/Saruman.md" title="Saruman">Saruman</a>, <a href="../U/Uruk-hai.md" title="Uruk-hai">Uruks</a>; <a href="../E/Ents.md" title="Ents">Ents</a>, <a href="../H/Huorns.md" title="Huorns">Huorns</a></td></tr><tr><th scope="row" class="tg-infobox-label">Events</th><td class="tg-infobox-data"><a href="../B/Battle_of_Isengard.md" title="Battle of Isengard">Battle of Isengard</a></td></tr></tbody></table>
 
-**Nan Curunír** là tên được đặt vào cuối [Kỷ Đệ Tam](../T/Third_Age.md) cho thung lũng ở chân phía nam của [Dãy Núi Sương Mù](../M/Misty_Mountains.md) nơi [Isengard](../I/Isengard.md) tọa lạc. Tên được lấy từ *[Curunír](../C/Curunír.md)*, tên [Sindarin](../S/Sindarin.md) của [Pháp sư](../W/Wizards.md) [Saruman](../S/Saruman.md), người cư trú ở đó.
+**Nan Curunír** là tên được đặt vào cuối [Thời đại thứ ba](../T/Third_Age.md) cho thung lũng ở chân phía nam của [Dãy núi sương mù](../M/Misty_Mountains.md) nơi [Isengard](../I/Isengard.md) tọa lạc. Tên này được lấy từ *[Curunír](../C/Curunír.md)*, tên [Sindarin](../S/Sindarin.md) của [Pháp sư](../W/Wizards.md) [Saruman](../S/Saruman.md), người sống ở đó.
 
 ## Từ nguyên {#Etymology}
 
@@ -64,7 +64,7 @@ infobox:
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Dạng ban đầu của tên này khi viết *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* là *Nan Gurunír* xuất hiện như vậy trong [Bản đồ chung của Trung Địa](../G/General_Map_of_Middle-earth.md) đã được xuất bản. Tên đã được sửa sau trong *[A Map of Middle-earth](../A/A_Map_of_Middle-earth.md)*của [Pauline Baynes](../P/Pauline_Baynes.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Dạng ban đầu của tên này khi viết *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* là *Nan Gurunír* xuất hiện như vậy trong [Bản đồ chung về Trung địa](../G/General_Map_of_Middle-earth.md) được xuất bản. Tên đã được sửa sau đó trong *[A Map of Middle-earth](../A/A_Map_of_Middle-earth.md)* của [Pauline Baynes](../P/Pauline_Baynes.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
@@ -94,19 +94,19 @@ Dạng ban đầu của tên này khi viết *[The Lord of the Rings](../T/The_L
 		</li>
 </ul>
 
-<b>2001-03: <a href="../T/The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings</i> (loạt phim)</a>:</b>
+<b>2001-03: <a href="../T/The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>Chúa tể của những chiếc nhẫn</i> (loạt phim)</a>:</b>
 
 <dl><dd>The valley of Nan Curunír appears in all three movies of <a href="../P/Peter_Jackson.md" title="Peter Jackson">Peter Jackson&#39;s</a> film trilogy.</dd></dl>
 
-<b>2004: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth.md" title="The Lord of the Rings: The Battle for Middle-earth">The Lord of the Rings: Trận chiến vì Trung Địa</a></i>:</b>
+<b>2004: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth.md" title="The Lord of the Rings: The Battle for Middle-earth">Chúa tể của những chiếc nhẫn: Trận chiến vì Trung Địa</a></i>:</b>
 
 <dl><dd>The valley makes appearance as part of Isengard map.</dd></dl>
 
-<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: Trận chiến vì Trung Địa II</a></i>:</b>
+<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">Chúa tể của những chiếc nhẫn: Trận chiến vì Trung địa II</a></i>:</b>
 
 <dl><dd>The valley and the Ring of Isengard makes appearance once again, though its depiction differs from the first game.</dd></dl>
 
-<b>2011: <i><a href="../T/The_Lord_of_the_Rings_Online%253A_Rise_of_Isengard.md" title="The Lord of the Rings Online: Rise of Isengard">The Lord of the Rings Trực tuyến: Sự trỗi dậy của Isengard</a></i>:</b>
+<b>2011: <i><a href="../T/The_Lord_of_the_Rings_Online%253A_Rise_of_Isengard.md" title="The Lord of the Rings Online: Rise of Isengard">Chúa tể của những chiếc nhẫn trực tuyến: Sự trỗi dậy của Isengard</a></i>:</b>
 
 <dl><dd>Nan Curunír is considered a sub-area of the <a href="../D/Dunland.md" title="Dunland">Dunland</a> region for gameplay purposes. The valley is filled with multiple Orcs, Uruks, Goblins, Wargs and Trolls and several quest chains take place there.</dd></dl>
 

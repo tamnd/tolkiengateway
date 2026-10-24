@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "House of Haleth"
 ---
 
-Chuyển hướng đến [Nhà Haleth](../H/House_of_Haleth.md).
+Chuyển hướng tới [Nhà Haleth](../H/House_of_Haleth.md).

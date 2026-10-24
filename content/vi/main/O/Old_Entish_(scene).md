@@ -45,11 +45,11 @@ infobox:
            50 (extended)</td></tr><tr><th scope="row" class="tg-infobox-label">Duration</th><td class="tg-infobox-data">1:39 (theatrical)<br/>
              1:37 (extended)</td></tr><tr><th scope="row" class="tg-infobox-label">Events</th><td class="tg-infobox-data"><a href="../T/Treebeard.md" title="Treebeard">Treebeard</a> speaks with Merry and Pippin about the decisions being made at the <a href="../E/Entmoot.md" title="Entmoot">Entmoot</a>.</td></tr><tr><th scope="row" class="tg-infobox-label">Characters</th><td class="tg-infobox-data"><a href="../M/Meriadoc_Brandybuck.md" title="Meriadoc Brandybuck">Merry</a>, <a href="../P/Peregrin_Took.md" title="Peregrin Took">Pippin</a>, <a href="../T/Treebeard.md" title="Treebeard">Treebeard</a></td></tr><tr><th scope="row" class="tg-infobox-label">Previous</th><td class="tg-infobox-data"><i><a href="../T/The_Battle_of_the_Hornburg.md" title="The Battle of the Hornburg">The Battle of the Hornburg</a></i></td></tr><tr><th scope="row" class="tg-infobox-label">Next</th><td class="tg-infobox-data"><i><a href="../T/The_Breach_of_the_Deeping_Wall.md" title="The Breach of the Deeping Wall">The Breach of the Deeping Wall</a></i></td></tr></tbody></table>
 
-**Old Entish** là cảnh thứ ba mươi chín của *[The Lord of the Rings: The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)* và cảnh thứ năm mươi của [*The Lord of the Rings: The Two Towers* (phiên bản mở rộng)](<../T/The_Lord_of_the_Rings%253A_The_Two_Towers_(extended_edition).md>).
+**Old Entish** là cảnh thứ ba mươi chín của *[The Lord of the Rings: The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)* và cảnh thứ năm mươi của [*The Lord of the Rings: The Two Towers* (extended edition)](<../T/The_Lord_of_the_Rings%253A_The_Two_Towers_(extended_edition).md>).
 
 ## Tóm tắt {#Synopsis}
 
-[Treebeard](../T/Treebeard.md) tạm thời quay lưng lại với [Entmoot](../E/Entmoot.md) để nói với [Merry](../M/Meriadoc_Brandybuck.md) và [Pippin](../P/Peregrin_Took.md) rằng họ đã được quyết định không phải là [Orc](Orcs.md). Merry hỏi liệu họ đã đưa ra quyết định liên quan đến [Saruman](../S/Saruman.md) chưa, Treebeard nói "Đừng vội vàng".
+[Treebeard](../T/Treebeard.md) tạm thời rời khỏi [Entmoot](../E/Entmoot.md) để nói với [Merry](../M/Meriadoc_Brandybuck.md) và [Pippin](../P/Peregrin_Took.md) rằng họ đã được quyết định không phải là [Orc](Orcs.md). Merry hỏi liệu họ đã đưa ra quyết định liên quan đến [Saruman](../S/Saruman.md) chưa, Treebeard nói "Đừng vội".
 
 <blockquote class="tg-quote noexcerpt">
 <p>Hasty? Our friends are out there. They need our help.
@@ -57,6 +57,6 @@ infobox:
 <p class="tg-quote-footer"><cite>Merry to Treebeard</cite></p>
 </blockquote>
 
-Treebeard nhẹ nhàng giải thích cho Merry rằng phải mất rất nhiều thời gian để nói bất cứ điều gì bằng tiếng [Old Entish](../E/Entish.md) và [Ent](../E/Ents.md) có xu hướng không sử dụng ngôn ngữ trừ khi việc đó đáng giá thời gian và công sức để làm như vậy.
+Treebeard nhẹ nhàng giải thích với Merry rằng phải mất rất nhiều thời gian để nói bất cứ điều gì bằng [Old Entish](../E/Entish.md) và [Ent](../E/Ents.md) có xu hướng không sử dụng ngôn ngữ này trừ khi việc đó đáng giá thời gian và công sức để làm như vậy.
 
 ## Sự khác biệt {#Differences}

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Burning of Osgiliath"
 ---
 
-Chuyển hướng tới [Ghi Osgiliath](../B/Burning_of_Osgiliath.md).
+Chuyển hướng tới [Đốt Osgiliath](../B/Burning_of_Osgiliath.md).

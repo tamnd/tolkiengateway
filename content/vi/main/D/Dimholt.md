@@ -30,9 +30,9 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Dimholt.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/58/The_Lord_of_the_Rings_Online_-_Dimholt.jpg/250px-The_Lord_of_the_Rings_Online_-_Dimholt.jpg" decoding="async" loading="lazy" width="250" height="141" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/58/The_Lord_of_the_Rings_Online_-_Dimholt.jpg/375px-The_Lord_of_the_Rings_Online_-_Dimholt.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/5/58/The_Lord_of_the_Rings_Online_-_Dimholt.jpg/500px-The_Lord_of_the_Rings_Online_-_Dimholt.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>Dimholt in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-**Dimholt**, là một khu rừng linh sam nhỏ gồm những cây tối màu bên trong [Dunharrow](Dunharrow.md), bên ngoài lối vào [Cánh Cửa Tối](Dark_Door.md).
+**Dimholt**, là một khu rừng linh sam nhỏ gồm những cây tối màu trong [Dunharrow](Dunharrow.md), bên ngoài lối vào [Cánh cửa tối](Dark_Door.md).
 
-Đi qua Dimholt có một dãy đá đứng đôi đánh dấu một con đường cổ dẫn về phía đông, hướng tới [Dwimorberg](Dwimorberg.md) và [Con đường của người chết](../P/Paths_of_the_Dead.md). Sâu trong rừng cây đen có một tảng đá lớn duy nhất đánh dấu đường đi, và xa hơn nữa, giữa rễ cây Dwimorberg, là Cánh Cửa Tối của [Người chết](../O/Oathbreakers.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Đi qua Dimholt có một dãy đá đứng đôi đánh dấu một con đường cổ dẫn về phía đông, hướng tới [Dwimorberg](Dwimorberg.md) và [Con đường của người chết](../P/Paths_of_the_Dead.md). Sâu trong khu rừng cây đen có một tảng đá lớn duy nhất đánh dấu đường đi, và xa hơn nữa, giữa rễ cây Dwimorberg, là Cánh cửa tối tăm của [Người chết](../O/Oathbreakers.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -40,7 +40,7 @@ Từ này được cho là [Rohanese](../R/Rohanese.md) và phần tử *dim* c�
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
 
 <dl><dd>Dimholt lies on the edge of the <a href="../F/Firienfeld.md" title="Firienfeld">Firienfeld</a>. The wood is devoid of animals, who are avoiding the <a href="Dark_Door.md" title="Dark Door">Dark Door</a>.</dd></dl>
 

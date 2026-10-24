@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Kemen (The Rings of Power)"
 ---
 
-Chuyển hướng tới [Kemen (The Những Chiếc Nhẫn Quyền Năng)](<Kemen_(The_Rings_of_Power).md>).
+Chuyển hướng đến [Kemen (Những chiếc nhẫn quyền lực)](<Kemen_(The_Rings_of_Power).md>).

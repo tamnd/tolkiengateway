@@ -26,9 +26,9 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/LotRRealmsInExileLogo.png.md"><img src="https://tolkiengateway.net/w/images/thumb/f/f4/LotRRealmsInExileLogo.png/320px-LotRRealmsInExileLogo.png" decoding="async" loading="lazy" width="320" height="201" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f4/LotRRealmsInExileLogo.png/480px-LotRRealmsInExileLogo.png 1.5x, https://tolkiengateway.net/w/images/thumb/f/f4/LotRRealmsInExileLogo.png/640px-LotRRealmsInExileLogo.png 2x" data-file-width="1202" data-file-height="755"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Video game</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Lord of the Rings: Realms in Exile</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Details</span></th></tr><tr><th scope="row" class="tg-infobox-label">Platform</th><td class="tg-infobox-data">Microsoft Windows</td></tr><tr><th scope="row" class="tg-infobox-label">Release Date</th><td class="tg-infobox-data">November 18, 2020</td></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data">Grand Strategy</td></tr></tbody></table>
 
-**The Lord of the Rings: Realms in Exile** là bản sửa đổi cho trò chơi PC <i><a class="extiw" href="http://en.wikipedia.org/wiki/Crusader_Kings_III" title="wikipedia:Crusader Kings III">Crusader Kings III</a></i> của dòng game Crusader Vua của <a class="extiw" href="http://en.wikipedia.org/wiki/Paradox_Development_Studio" title="wikipedia:Paradox Development Studio">Paradox Development Studio</a>. Nó thay đổi bản đồ Châu Âu thành bản đồ [Trung Địa](../M/Middle-earth.md), trong khi vẫn giữ lại chiến lược tổng thể và mô phỏng dựa trên nhân vật của bản gốc.
+**Chúa tể của những chiếc nhẫn: Realms in Exile** là bản sửa đổi cho trò chơi PC <i><a class="extiw" href="http://en.wikipedia.org/wiki/Crusader_Kings_III" title="wikipedia:Crusader Kings III">Crusader Kings III</a></i> của loạt phim Crusader King của <a class="extiw" href="http://en.wikipedia.org/wiki/Paradox_Development_Studio" title="wikipedia:Paradox Development Studio">Paradox Development Studio</a>. Nó thay đổi bản đồ Châu Âu thành bản đồ [Trung Địa](../M/Middle-earth.md), trong khi vẫn giữ lại chiến lược tổng thể và mô phỏng dựa trên nhân vật của bản gốc.
 
-Nó có bản đồ Trung Địa mở rộng, chi tiết để người chơi tham gia, bao gồm cả địa lý rộng lớn phía tây nam không chính thống. Nó đã lấy tài liệu bổ sung (không phải tiêu chuẩn) từ trò chơi nhập vai trên máy tính bảng [Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md) và [Chúa tể của những chiếc nhẫn trực tuyến](../L/Lord_of_the_Rings_Online.md) để tạo hình cho thế giới mở rộng.
+Nó có một bản đồ Trung Địa chi tiết, rộng lớn để người chơi tương tác, bao gồm cả địa lý rộng lớn không chính thống ở phía Tây Nam. Nó đã lấy tài liệu bổ sung (không chính thức) từ game nhập vai trên máy tính bảng [Nhập vai Trung địa](../M/Middle-earth_Role_Playing.md) và [Chúa tể của những chiếc nhẫn trực tuyến](../L/Lord_of_the_Rings_Online.md) để tạo nên thế giới mở rộng.
 
 <figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/LotRRealmsInExileMap.png.md"><img src="https://tolkiengateway.net/w/images/thumb/8/8a/LotRRealmsInExileMap.png/300px-LotRRealmsInExileMap.png" decoding="async" loading="lazy" width="300" height="307" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/8a/LotRRealmsInExileMap.png/450px-LotRRealmsInExileMap.png 1.5x, https://tolkiengateway.net/w/images/thumb/8/8a/LotRRealmsInExileMap.png/600px-LotRRealmsInExileMap.png 2x" data-file-width="890" data-file-height="912"/></a><figcaption>The playable area available in Realms in Exile.</figcaption></figure>
 
@@ -40,9 +40,9 @@ Nó có bản đồ Trung Địa mở rộng, chi tiết để người chơi th
 
 <figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/LotRRealmsInExileScreenshot.png.md"><img src="https://tolkiengateway.net/w/images/thumb/2/23/LotRRealmsInExileScreenshot.png/300px-LotRRealmsInExileScreenshot.png" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/23/LotRRealmsInExileScreenshot.png/450px-LotRRealmsInExileScreenshot.png 1.5x, https://tolkiengateway.net/w/images/thumb/2/23/LotRRealmsInExileScreenshot.png/600px-LotRRealmsInExileScreenshot.png 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>Screenshot of an active game of Realms in Exile, examining the profile of <a href="../D/Denethor.md" title="Denethor">Denethor</a></figcaption></figure>
 
-Phiên bản hiện tại của trò chơi cho phép người chơi bắt đầu mô phỏng thế giới bắt đầu từ [T.A. 3000](Third_Age_3000.md), với kế hoạch trong tương lai là cho phép chơi sớm nhất là [S.A. 3320](../S/Second_Age_3320.md) và muộn nhất là [Kỷ Đệ Tứ 120](../F/Fourth_Age_120.md). Nó bao gồm truyền thuyết và trích dẫn từ [The Lord of the Rings](The_Lord_of_the_Rings.md), với các chuyển thể nhân vật và ảnh tĩnh xen kẽ lấy cảm hứng từ [loạt phim Chúa tể của những chiếc nhẫn](<The_Lord_of_the_Rings_(film_series).md>).
+Phiên bản hiện tại của trò chơi cho phép người chơi bắt đầu mô phỏng thế giới bắt đầu từ [T.A. 3000](Third_Age_3000.md), với kế hoạch trong tương lai là cho phép chơi sớm nhất là [S.A. 3320](../S/Second_Age_3320.md) và muộn nhất là [Fo.A. 120](../F/Fourth_Age_120.md). Nó bao gồm truyền thuyết và trích dẫn từ [The Lord of the Rings](The_Lord_of_the_Rings.md), với các chuyển thể nhân vật và ảnh tĩnh xen kẽ lấy cảm hứng từ [loạt phim Chúa tể của những chiếc nhẫn](<The_Lord_of_the_Rings_(film_series).md>).
 
-Bản mod này cung cấp một số lượng lớn các nhân vật và vương quốc (một số chính thống, một số khác thì không) để mô phỏng việc dẫn đầu. Đối với chiến dịch [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), các nhân vật nổi bật là:
+Bản mod này cung cấp một số lượng lớn các nhân vật và vương quốc (một số chính thống, một số khác thì không) để mô phỏng việc dẫn đầu. Đối với chiến dịch [War of the Ring](../W/War_of_the_Ring.md), các nhân vật nổi bật là:
 
 - Vương quốc đã mất của Arnor
     - [Maglor](../M/Maglor.md) ([Himring](../H/Himring.md))
@@ -51,23 +51,23 @@ Bản mod này cung cấp một số lượng lớn các nhân vật và vương
     - [Cirdan](../C/Cirdan.md) ([Lindon](../L/Lindon.md))
     - [Aragorn](../A/Aragorn.md) (Chuyển vùng với [Dúnedain](../D/Dúnedain.md))
     - Madogh ([Saralain](../E/Enedwaith.md))
-- Quá Dãy Núi Sương Mù Lạnh
-    - Brokkr (dân gian của[Dwalin](../D/Dwalin.md))
+- Trên Núi Sương Lạnh
+    - Brokkr ([Dwalin](../D/Dwalin.md) dân gian)
     - [Gorkil](../G/Gorkil.md) ([Thị trấn yêu tinh](../G/Goblin_town.md))
     - [Gorgol](../G/Gorgol.md) ([Gundabad](../G/Gundabad.md))
-    - Úri VI ([Firebeards](../F/Firebeards.md))
+    - Úri VI ([Râu Lửa](../F/Firebeards.md))
     - Mazog (Chuyển vùng với máy chủ)
-    - [Balin](../B/Balin.md) ([Longbeards](../L/Longbeards.md))
-    - <a class="mw-redirect mw-disambig" href="../D/Dáin.md" title="Dáin">Dáin</a> ([Longbeards](../L/Longbeards.md))
+    - [Balin](../B/Balin.md) ([Râu dài](../L/Longbeards.md))
+    - <a class="mw-redirect mw-disambig" href="../D/Dáin.md" title="Dáin">Dáin</a> ([Râu dài](../L/Longbeards.md))
 - Trận chiến dưới tán cây
-    - [Grimbeorn](../G/Grimbeorn.md) ([Beornings](../B/Beornings.md))
+    - [Grimbeorn](../G/Grimbeorn.md) ([Buổi sáng](../B/Beornings.md))
     - [Thranduil](Thranduil.md) ([Mirkwood](../M/Mirkwood.md))
     - [Bain](../B/Bain.md) ([Dale](../D/Dale.md))
     - Hawin ([Dorwinion](../D/Dorwinion.md))
     - [Galadriel](../G/Galadriel.md) ([Lothlórien](../L/Lothlórien.md))
     - [Khamûl](../K/Khamûl.md) ([Amon Lanc](../A/Amon_Lanc.md))
     - Huz-Margoz ([Rhûn](../R/Rhûn.md))
-- Cái Cuộc vây hãm Gondor
+- Cuộc vây hãm Gondor
     - [Denethor](../D/Denethor.md) ([Gondor](../G/Gondor.md))
     - [Sauron](../S/Sauron.md) ([Mordor](../M/Mordor.md))
     - [Adrahil](../A/Adrahil.md) ([Dol Amroth](../D/Dol_Amroth.md))
@@ -78,7 +78,7 @@ Bản mod này cung cấp một số lượng lớn các nhân vật và vương
     - Brynjarrson ([Dunland](../D/Dunland.md))
     - [Saruman](../S/Saruman.md) ([Isengard](../I/Isengard.md))
     - [Théoden](Théoden.md) ([Rohan](../R/Rohan.md))
-- Bóng Tối on the Sands (các lãnh chúa miền nam không chính thống)
+- Shadow on the Sands (lãnh chúa miền nam không chính thống)
 - Các hoàng tử phương Nam (các lãnh chúa Tây Nam không theo giáo luật)
 
 ## Liên kết ngoài {#External_Links}

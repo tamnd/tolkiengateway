@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Aulë"
 ---
 
-Chuyển hướng đến [Aulë](Aulë.md).
+Chuyển hướng tới [Aulë](Aulë.md).

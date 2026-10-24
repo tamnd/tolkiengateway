@@ -21,7 +21,7 @@ images:
 <p class="tg-quote-footer"><cite><a href="../T/Treebeard.md" title="Treebeard">Treebeard</a></cite></p>
 </blockquote></div></div>
 
-Bài viết này nhằm mục đích liệt kê những sự kiện chính trong cuộc đời của [J.R.R. Tolkien](J.R.R._Tolkien.md) theo trình tự thời gian.
+Bài viết này có ý định liệt kê những sự kiện chính trong cuộc đời của [J.R.R. Tolkien](J.R.R._Tolkien.md) theo trình tự thời gian.
 
 ## [1892](../_/1892.md) {#1892}
 
@@ -30,7 +30,7 @@ Bài viết này nhằm mục đích liệt kê những sự kiện chính trong
 
 ## [1894](../_/1894.md) {#1894}
 
-- [17 tháng 2](../_/17_February.md): Em trai của Tolkien [Hilary](../H/Hilary_Tolkien.md) chào đời.
+- [17 tháng 2](../_/17_February.md): Em trai [Hilary](../H/Hilary_Tolkien.md) của Tolkien chào đời.
 
 ## [1895](../_/1895.md) {#1895}
 
@@ -43,28 +43,28 @@ Bài viết này nhằm mục đích liệt kê những sự kiện chính trong
 
 ## [1900](../_/1900.md) {#1900}
 
-- Tháng 6: Mẹ của Tolkien được tiếp nhận vào Giáo hội Công giáo.
-- tháng Chín: Tolkien bắt đầu tham dự [King Edward's School](../K/King_Edward's_School.md).
+- Tháng 6: Mẹ của Tolkien được tiếp nhận vào Nhà thờ Công giáo.
+- Tháng 9: Tolkien bắt đầu theo học [Trường King Edward](../K/King_Edward's_School.md).
 
 ## [1902](../_/1902.md) {#1902}
 
 - Tolkien bắt đầu theo học tại Trường St. Philip.
-- Cha [Francis Morgan](../F/Francis_Morgan.md) của [Birmingham Nhà nguyện](../B/Birmingham_Oratory.md) trở thành một người bạn của gia đình Tolkiens.
+- Cha [Francis Morgan](../F/Francis_Morgan.md) của [Nhà nguyện Birmingham](../B/Birmingham_Oratory.md) trở thành bạn của gia đình Tolkiens.
 
 ## [1903](../_/1903.md) {#1903}
 
-- [Tháng 1](January.md) : Tolkien quay trở lại King Edward's School, sau khi giành được Học bổng Dự bị.
+- [Tháng 1](January.md) : Tolkien trở lại Trường King Edward sau khi giành được Học bổng Foundation.
 
 ## [1904](../_/1904.md) {#1904}
 
 - [Tháng 4](../A/April.md): Mabel Tolkien nhập viện vì bệnh tiểu đường. Tolkien được gửi đến sống với dì [Jane Neave](Jane_Neave.md).
 - [Tháng 6](June.md): Mabel Tolkien hồi phục một phần và cùng các con trai đi đến Rednal ở Worcestershire để dưỡng bệnh.
-- [14 tháng 11](../_/14_November.md): Mẹ của Tolkien qua đời sau khi tái phát.
+- [14 tháng 11](../_/14_November.md): Mẹ của Tolkien qua đời sau một cơn tái phát.
 
 ## [1905](../_/1905.md) {#1905}
 
 - Tolkien và anh trai đến sống với dì Beatrice Suffield.
-- Mùa thu: Tolkien gặp người bạn [Christopher Wiseman](../C/Christopher_Wiseman.md) tại Vua Edward's.
+- Mùa thu: Tolkien gặp người bạn [Christopher Wiseman](../C/Christopher_Wiseman.md) tại King Edward's.
 
 ## [1908](../_/1908.md) {#1908}
 
@@ -73,22 +73,22 @@ Bài viết này nhằm mục đích liệt kê những sự kiện chính trong
 ## [1909](../_/1909.md) {#1909}
 
 - Mùa hè: Tolkien và Edith Bratt yêu nhau.
-- [Tháng 12](../D/December.md): Cha [Francis Morgan](../F/Francis_Morgan.md) biết được mối quan hệ của Tolkien và Edith và yêu cầu chấm dứt mối quan hệ đó. Tolkien không giành được học bổng Đại học ở mức [Oxford](../O/Oxford.md).
+- [Tháng 12](../D/December.md): Cha [Francis Morgan](../F/Francis_Morgan.md) biết được mối quan hệ của Tolkien và Edith và yêu cầu chấm dứt mối quan hệ đó. Tolkien không giành được học bổng Đại học tại [Oxford](../O/Oxford.md).
 
 ## [1910](../_/1910.md) {#1910}
 
 - [Tháng 1](January.md): Tolkien và anh trai chuyển đến nhà của Thomas Macsherry tại số 4 đường Highfield.
-- [21 tháng 1](../_/21_January.md): Tolkien và Edith có một cuộc gặp bí mật, điều mà Cha Francis biết được. Anh ta cấm Tolkien mọi liên lạc với Edith cho đến khi anh ta 21 tuổi.
-- [Tháng 12](../D/December.md): Tolkien giành được học bổng của Exeter College, Oxford.
+- [21 tháng 1](../_/21_January.md): Tolkien và Edith có một cuộc gặp bí mật, điều mà Cha Francis biết được. Ông ta cấm Tolkien tiếp xúc với Edith cho đến khi anh bước sang tuổi 21.
+- [Tháng 12](../D/December.md): Tolkien giành được học bổng vào trường Exeter College, Oxford.
 
 ## [1911](../_/1911.md) {#1911}
 
-- Mùa hè: Tolkien và một số người bạn tạo thành [T.C.B.S.](../T/T.C.B.S..md)
+- Mùa hè: Tolkien và một số người bạn thành lập [T.C.B.S.](../T/T.C.B.S..md)
 - [Tháng 10](../O/October.md): Tolkien bắt đầu học tại Exeter College, [Oxford](../O/Oxford.md).
 
 ## [1915](../_/1915.md) {#1915}
 
-- Tolkien tốt nghiệp đại học Oxford với bằng danh dự hạng nhất.
+- Tolkien tốt nghiệp Đại học Oxford với bằng danh dự hạng nhất.
 - [15 tháng 7](../_/15_July.md): Tolkien được bổ nhiệm làm thiếu úy trong Lancashire Fusiliers
 
 ## [1916](../_/1916.md) {#1916}
@@ -97,30 +97,30 @@ Bài viết này nhằm mục đích liệt kê những sự kiện chính trong
 
 ## [1917](../_/1917.md) {#1917}
 
-- [16 tháng 11](../_/16_November.md): Sinh con trai lớn Tolkien [John](John_Tolkien.md).
+- [16 tháng 11](../_/16_November.md): Sự ra đời của con trai lớn của Tolkien [John](John_Tolkien.md).
 
 ## [1920](../_/1920.md) {#1920}
 
 - Mùa thu: Tolkien trở thành độc giả tiếng Anh tại [Đại học Leeds](../U/University_of_Leeds.md).
 
-- [22 tháng 10](../_/22_October.md): Sinh con trai thứ hai Tolkien [Michael](../M/Michael_Tolkien.md).
-- [Tháng 11](../N/November.md): Tolkien xuất ngũ với quân hàm trung úy.
+- [22 tháng 10](../_/22_October.md): Sinh con trai thứ hai của Tolkien [Michael](../M/Michael_Tolkien.md).
+- [Tháng 11](../N/November.md): Tolkien rời quân đội với cấp bậc trung úy.
 
 ## [1924](../_/1924.md) {#1924}
 
-- [21/11](../_/21_November.md): Sinh con trai thứ ba của Tolkien [Christopher](../C/Christopher_Tolkien.md).
+- [21 tháng 11](../_/21_November.md): Sự ra đời của con trai thứ ba của Tolkien [Christopher](../C/Christopher_Tolkien.md).
 
 ## [1925](../_/1925.md) {#1925}
 
-- Trở lại Oxford với tư cách là [Giáo sư Rawlinson và Bosworth của Anglo-Saxon](../R/Rawlinson_and_Bosworth_Professor_of_Anglo-Saxon.md) và sau đó là Giáo sư Ngôn ngữ và Văn học Anh Merton
+- Trở lại Oxford với tư cách là [Giáo sư Rawlinson và Bosworth của Anglo-Saxon](../R/Rawlinson_and_Bosworth_Professor_of_Anglo-Saxon.md) và sau đó là Giáo sư Merton về Ngôn ngữ và Văn học Anh
 
 ## [1929](../_/1929.md) {#1929}
 
-- [18 tháng 6](../_/18_June.md): Sinh con gái Tolkien [Priscilla](../P/Priscilla_Tolkien.md).
+- [18 tháng 6](../_/18_June.md): Sự ra đời của con gái Tolkien [Priscilla](../P/Priscilla_Tolkien.md).
 
 ## [1937](../_/1937.md) {#1937}
 
-- [21 tháng Chín](../_/21_September.md): Xuất bản *[The Hobbit](../T/The_Hobbit.md)*.
+- [21 tháng 9](../_/21_September.md): Xuất bản *[The Hobbit](../T/The_Hobbit.md)*.
 
 ## [1954](../_/1954.md) {#1954}
 
@@ -133,17 +133,17 @@ Bài viết này nhằm mục đích liệt kê những sự kiện chính trong
 
 ## [1959](../_/1959.md) {#1959}
 
-- Tolkien nghỉ hưu từ Oxford.
+- Tolkien nghỉ hưu ở Oxford.
 
 ## [1971](../_/1971.md) {#1971}
 
-- [29 tháng 11](../_/29_November.md): Vợ của Tolkien là Edith qua đời ở tuổi 82.
+- [29 tháng 11](../_/29_November.md): Edith, vợ của Tolkien qua đời ở tuổi 82.
 
 ## [1972](../_/1972.md) {#1972}
 
-- Tolkien được phong làm Tư lệnh của [Huân chương Đế quốc Anh](../O/Order_of_the_British_Empire.md)
+- Tolkien được phong làm Tư lệnh [Huân chương Đế quốc Anh](../O/Order_of_the_British_Empire.md)
 - Tolkien nhận bằng Tiến sĩ Văn học danh dự của Đại học Oxford.
 
 ## [1973](../_/1973.md) {#1973}
 
-- [2 tháng Chín](../_/2_September.md): J.R.R. Tolkien qua đời hưởng thọ 81 tuổi.
+- [2 tháng 9](../_/2_September.md): J.R.R. Tolkien qua đời, hưởng thọ 81 tuổi.

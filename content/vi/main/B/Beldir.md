@@ -65,7 +65,7 @@ Beldir là con trai của [Belen](Belen.md). Ông có một con trai, [Belemir](
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong các phiên bản đầu tiên của phả hệ của Nhà Bëor không hề đề cập đến Beldir, người không xuất hiện cho đến khi có những sửa đổi được thực hiện sau khi xuất bản *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* vào những năm 1950.<sup id="cite_ref-WJBeor_1-1" class="reference"><a href="#cite_note-WJBeor-1">[1]</a></sup>
+Trong các phiên bản đầu tiên của phả hệ Nhà Bëor không hề đề cập đến Beldir, người không xuất hiện cho đến khi có những sửa đổi sau khi xuất bản *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* vào những năm 1950.<sup id="cite_ref-WJBeor_1-1" class="reference"><a href="#cite_note-WJBeor-1">[1]</a></sup>
 
 <span></span>
 

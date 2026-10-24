@@ -31,9 +31,9 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien cảm ơn Ronald về món quà của cô. Anh cảm thấy mình như một người khôn ngoan, người đã cất giữ những thứ hữu ích và cần thiết nhất trong nghề của mình cho một chuyến đi dài. Anh cảm thấy ngôi nhà của mình giống như một con tàu và nó trông giống như một con tàu, hài lòng nhưng ngạc nhiên khi bị sóng cuốn trôi vào chỗ cũ.
+Tolkien cảm ơn Ronald về món quà của bà. Anh cảm thấy mình như một người khôn ngoan, người đã cất giữ những thứ hữu ích và cần thiết nhất trong nghề của mình cho một chuyến đi dài. Anh cảm thấy ngôi nhà của mình giống như một con tàu và nó trông giống như một con tàu, hài lòng nhưng ngạc nhiên khi bị sóng cuốn trôi vào chỗ cũ.
 
-Anh ấy chưa mua loại rượu mạnh nào ngon nhưng anh ấy có rượu đỏ tía, rượu port, rượu sherry, một ít rượu mùi và một chai sâm panh (cho Giáng sinh). Ông lưu ý rằng cảng không cổ điển. Anh ấy thích rượu port như một thức uống vào giữa buổi sáng; nó không dành cho sau bữa ăn no và trên hết không dành cho sa mạc.
+Ông chưa mua loại rượu mạnh nào ngon nhưng ông có rượu đỏ tía, rượu port, rượu sherry, một ít rượu mùi và một chai sâm panh (cho Giáng sinh). Ông lưu ý rằng cảng không cổ điển. Ông thích rượu port như một thức uống vào giữa buổi sáng; nó không dành cho sau bữa ăn no và trên hết không dành cho sa mạc.
 
 <br>
 

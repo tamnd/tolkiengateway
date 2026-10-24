@@ -13,4 +13,4 @@ categories:
   - "Cancelled video games"
 ---
 
-**Trong đó Hobbit Dare** là trò chơi điện tử bị hủy. Nó là sản phẩm kế thừa theo kế hoạch của [The Hobbit](<../T/The_Hobbit_(1982_video_game).md>) từ [Beam Software](../M/Melbourne_House.md). Tuy nhiên, nó chưa bao giờ được xuất bản.
+**Where Hobbit Dare** là một trò chơi điện tử đã bị hủy bỏ. Nó là sản phẩm kế thừa theo kế hoạch của [The Hobbit](<../T/The_Hobbit_(1982_video_game).md>) từ [Beam Software](../M/Melbourne_House.md). Tuy nhiên, nó chưa bao giờ được xuất bản.

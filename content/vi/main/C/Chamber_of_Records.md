@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Chamber of Mazarbul"
 ---
 
-Chuyển hướng đến [Phòng Mazarbul](Chamber_of_Mazarbul.md).
+Chuyển hướng tới [Phòng Mazarbul](Chamber_of_Mazarbul.md).

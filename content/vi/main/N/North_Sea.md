@@ -25,7 +25,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/C/Christopher_Tolkien_-_The_First_Map_(composite).gif.md"><img src="https://tolkiengateway.net/w/images/thumb/9/90/Christopher_Tolkien_-_The_First_Map_%28composite%29.gif/320px-Christopher_Tolkien_-_The_First_Map_%28composite%29.gif" decoding="async" loading="lazy" width="320" height="389" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/90/Christopher_Tolkien_-_The_First_Map_%28composite%29.gif/480px-Christopher_Tolkien_-_The_First_Map_%28composite%29.gif 1.5x, https://tolkiengateway.net/w/images/thumb/9/90/Christopher_Tolkien_-_The_First_Map_%28composite%29.gif/640px-Christopher_Tolkien_-_The_First_Map_%28composite%29.gif 2x" data-file-width="1450" data-file-height="1762"/></a><figcaption>&#34;The First Map&#34; in composite version by <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Ocean</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>North Sea</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>General Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">west of the <a href="../I/Icebay_of_Forochel.md" title="Icebay of Forochel">Icebay of Forochel</a></td></tr><tr><th scope="row" class="tg-infobox-label">Type</th><td class="tg-infobox-data">Ocean</td></tr><tr><th scope="row" class="tg-infobox-label">Regions</th><td class="tg-infobox-data"><a href="../F/Forochel.md" title="Forochel">Forochel</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>People and History</span></th></tr><tr><th scope="row" class="tg-infobox-label">Created</th><td class="tg-infobox-data">possibly due to the <a href="../W/War_of_Wrath.md" title="War of Wrath">War of Wrath</a></td></tr></tbody></table>
 
-**Bắc Biển** của [Trung Địa](../M/Middle-earth.md) là vùng biển nằm ngay phía tây của [Vịnh Băng Forochel](../I/Icebay_of_Forochel.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Biển Bắc** của [Trung Địa](../M/Middle-earth.md) là một vùng biển nằm ngay phía tây [Vịnh băng của Forochel](../I/Icebay_of_Forochel.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Lịch sử {#History}
 
@@ -33,7 +33,7 @@ Vì Biển Bắc nằm ngay phía tây của [Vịnh băng Forochel](../I/Icebay
 
 ### Quần đảo {#Islands}
 
-Phía Bắc Biển nằm ngay phía đông bắc của các đảo sau:
+Biển Bắc nằm ngay phía đông bắc của các đảo sau:
 
 - ​
     - [Tol Fuin](../T/Tol_Fuin.md)
@@ -41,11 +41,11 @@ Phía Bắc Biển nằm ngay phía đông bắc của các đảo sau:
 
 ### Các vịnh và cửa vào {#Bays_and_inlets}
 
-- [Vịnh Băng Forochel](../I/Icebay_of_Forochel.md)
+- [Vịnh băng của Forochel](../I/Icebay_of_Forochel.md)
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Miền Bắc Biển không được đánh dấu trên bất kỳ bản đồ nào được xuất bản với [The Lord of the Rings](../T/The_Lord_of_the_Rings.md), [Unfinished Tales của Númenor và Trung Địa](../U/Unfinished_Tales.md) hoặc [The Silmarillion](../T/The_Silmarillion.md) và không được đề cập trong văn bản của các tác phẩm đó. [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) ghi tên trên [Bản đồ đầu tiên của The Lord of the Rings](../T/The_First_Map_of_The_Lord_of_the_Rings.md) và [Christopher Tolkien](../C/Christopher_Tolkien.md) đã ghi nhãn tại "tọa độ" G 4-5 trên [bản đồ ông vẽ năm 1943](../T/The_1943_Map_of_The_Lord_of_the_Rings.md), "dù đã vô tình bị bỏ sót trên Bản đồ I".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Biển Bắc không được đánh dấu trên bất kỳ bản đồ nào được xuất bản bằng [The Lord of the Rings](../T/The_Lord_of_the_Rings.md), [Unfinished Tales of Númenor and Middle-earth](../U/Unfinished_Tales.md) hoặc [The Silmarillion](../T/The_Silmarillion.md) và không được đề cập trong văn bản của các tác phẩm đó. [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết tên trên [Bản đồ đầu tiên của Chúa tể những chiếc nhẫn](../T/The_First_Map_of_The_Lord_of_the_Rings.md) và [Christopher Tolkien](../C/Christopher_Tolkien.md) đã đưa nhãn này vào "tọa độ" G 4-5 trên [bản đồ ông vẽ năm 1943](../T/The_1943_Map_of_The_Lord_of_the_Rings.md), "mặc dù vô tình bị bỏ sót trên Bản đồ I".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 <span></span>
 

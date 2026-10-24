@@ -29,7 +29,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien đã xin lỗi Rayner về hành vi của anh ấy trong chuyến thăm gần đây của Unwin và giải thích rằng thời hạn gần đây đã bị đánh thuế. Anh ta cũng thảo luận về công việc của mình trên *[The Silmarillion](../T/The_Silmarillion.md)* và rằng anh ta đã phát hiện ra một trường hợp lưu trữ một số tài liệu. Anh ấy bày tỏ mong muốn quay trở lại làm việc nhưng cho biết rằng anh ấy có cuộc họp sắp tới vào [19 tháng 3](../_/19_March.md) với <a class="new" href="https://tolkiengateway.net/w/index.php?title=Early_English_Text_Society&amp;action=edit&amp;redlink=1" title="Early English Text Society (page does not exist)">Hiệp hội Văn bản Tiếng Anh Sơ cấp</a>. Ông mô tả cuộc họp như một "Tòa án võ trang".
+Tolkien đã xin lỗi Rayner về hành vi của ông trong chuyến thăm gần đây của Unwin và giải thích rằng thời hạn gần đây đã bị đánh thuế. Ông ta cũng thảo luận về công việc của mình trên *[The Silmarillion](../T/The_Silmarillion.md)* và rằng ông ta đã phát hiện ra một trường hợp lưu trữ một số tài liệu. Ông bày tỏ mong muốn quay trở lại làm việc nhưng cho biết rằng ông có cuộc họp sắp tới vào [19 tháng 3](../_/19_March.md) với <a class="new" href="https://tolkiengateway.net/w/index.php?title=Early_English_Text_Society&amp;action=edit&amp;redlink=1" title="Early English Text Society (page does not exist)">Hiệp hội Văn bản Tiếng Anh Sơ cấp</a>. Ông mô tả cuộc họp như một "Tòa án võ trang".
 
 <br>
 

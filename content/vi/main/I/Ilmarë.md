@@ -57,17 +57,17 @@ infobox:
 
 **Ilmarë** là một trong những thủ lĩnh của [Maiar](../M/Maiar.md) và là hầu gái của Nữ hoàng [Varda](../V/Varda.md).
 
-Cô ấy chỉ được đề cập ngắn gọn trong *[Valaquenta](../V/Valaquenta.md)*, trong đó Ilmarë được mô tả cùng với Maia [Eönwë](../E/Eönwë.md), người cầm cờ và sứ giả của Vua [Manwë](../M/Manwë.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Bà chỉ được đề cập ngắn gọn trong *[Valaquenta](../V/Valaquenta.md)*, trong đó Ilmarë được mô tả cùng với Maia [Eönwë](../E/Eönwë.md), người cầm cờ và sứ giả của Vua [Manwë](../M/Manwë.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Tên của cô ấy có thể liên quan đến một trong những từ [Quenya](../Q/Quenya.md) của "Starlight".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Christopher Tolkien đã lưu ý rằng *Ilmarë* có liên quan đến những từ như *[Ilmen](Ilmen.md)* và *[Ilmarin](Ilmarin.md)*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Tên của bà có thể liên quan đến một trong những từ [Quenya](../Q/Quenya.md) của "Starlight".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Christopher Tolkien đã lưu ý rằng *Ilmarë* có liên quan đến những từ như *[Ilmen](Ilmen.md)* và *[Ilmarin](Ilmarin.md)*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Theo giai đoạn đầu của [huyền thoại](../L/Legendarium.md) ở *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*, nhân vật sau này trở thành Ilmarë được gọi là **Erinti**. Cô là con gái của [Manwë](../M/Manwë.md) và Varda, nhưng khái niệm Valar có [con](../V/Valarindi.md) đã bị từ bỏ và Ilmarë trở thành hầu gái của Varda.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Theo giai đoạn đầu của [huyền thoại](../L/Legendarium.md) ở *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*, nhân vật sau này trở thành Ilmarë được gọi là **Erinti**. Cô là con gái của [Manwë](../M/Manwë.md) và Varda, nhưng quan niệm về việc Valar có [con](../V/Valarindi.md) đã bị từ bỏ và Ilmarë trở thành hầu gái của Varda.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
-Cô ấy xuất hiện trong *[Qenyaqetsa](../Q/Qenyaqetsa.md)*, trong một mục nhập ban đầu bị từ chối. Ở đó cô được mô tả là:
+Bà xuất hiện trong *[Qenyaqetsa](../Q/Qenyaqetsa.md)*, trong một mục nhập ban đầu bị từ chối. Ở đó cô được mô tả là:
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
 <p>the <a class="mw-redirect" href="../V/Valier.md" title="Valier">Vali</a> of love, music, beauty and purity, who is the same as <i>Lotisse</i> (or <i>Veneste</i>). She dwells in <a class="mw-redirect" href="../A/Alalminóre.md" title="Alalminóre">Alalminóre</a>, and the fairies guard her tower. She and <a href="../S/Salmar.md" title="Salmar">Noldorin</a>, and his brother <a class="mw-redirect" href="../A/Amillo.md" title="Amillo">Amillo</a>, alone have left <a href="../V/Valinor.md" title="Valinor">Valinóre</a> to dwell among the Inweli, Noldor, Eldar, and Teleri in <a class="mw-redirect" href="../T/Tol_Eressea.md" title="Tol Eressea">Tol Eressea</a> (Inwenóre). She is also often called <i>Akairis</i>, or bride. She dwells in a &#34;<a href="../K/Korin.md" title="Korin">korin</a>&#34; of elms.
@@ -77,15 +77,15 @@ Cô ấy xuất hiện trong *[Qenyaqetsa](../Q/Qenyaqetsa.md)*, trong một m�
 
 <sup id="cite_ref-Aka_5-0" class="reference"><a href="#cite_note-Aka-5">[5]</a></sup>
 
-Tuy nhiên, như [Christopher Tolkien](../C/Christopher_Tolkien.md) đã chỉ ra, nơi ở của cô tại Tol Eressëa trong một *korin* cuối cùng đã bị nhân vật [Meril-i-Turinqi](../M/Meril-i-Turinqi.md) tiếp quản, và Erinti trở thành con gái của Manwë và Varda.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Tuy nhiên, như [Christopher Tolkien](../C/Christopher_Tolkien.md) chỉ ra, nơi ở của cô ở Tol Eressëa trong một *korin* cuối cùng đã bị nhân vật [Meril-i-Turinqi](../M/Meril-i-Turinqi.md) tiếp quản, và Erinti trở thành con gái của Manwë và Varda.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 ### Từ nguyên ban đầu {#Early_etymology}
 
 Tên <i><b>Erinti</b></i> có trong [Qenya](../Q/Qenya.md), nhưng ý nghĩa của nó không rõ ràng.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
-Cô còn được gọi là <i><b>Lotessë</b></i> (hoặc <i><b>Lotissë</b></i>), bao gồm Qenya <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=L%C3%B3te&amp;action=edit&amp;redlink=1" title="Lóte (page does not exist)">lóte</a></i> ("hoa") và hậu tố nữ tính *-ssë*.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Một tên khác của cô là <i><b>Akairis</b></i> (nghĩa đơn giản là "cô dâu" trong Qenya).<sup id="cite_ref-Aka_5-1" class="reference"><a href="#cite_note-Aka-5">[5]</a></sup>
+Cô còn được gọi là <i><b>Lotessë</b></i> (hoặc <i><b>Lotissë</b></i>), bao gồm Qenya <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=L%C3%B3te&amp;action=edit&amp;redlink=1" title="Lóte (page does not exist)">lóte</a></i> ("hoa") và hậu tố nữ tính *-ssë*.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Một tên khác của cô là <i><b>Akairis</b></i> (nghĩa đơn giản là "cô dâu" trong tiếng Qenya).<sup id="cite_ref-Aka_5-1" class="reference"><a href="#cite_note-Aka-5">[5]</a></sup>
 
-Trong số những cái tên bị từ chối trước đó của cô có <i><b>Helinyetillë</b></i> (được gọi là "Eyes of Heartsease"<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>), sự kết hợp của Qenya <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Helin&amp;action=edit&amp;redlink=1" title="Helin (page does not exist)">helin</a></i> ("pansy") và một số biến thể của <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Y%C3%A9ta&amp;action=edit&amp;redlink=1" title="Yéta (page does not exist)">yéta</a>-</i> ("nhìn"), sau này được dùng làm tên cho [Nessa](../N/Nessa.md).<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> Một tên sớm bị từ chối tương tự <i><b>Venestë</b></i> xuất hiện bên cạnh *Lotesse* trong Từ điển Qenya, nhưng ý nghĩa của nó không rõ ràng.<sup id="cite_ref-Aka_5-2" class="reference"><a href="#cite_note-Aka-5">[5]</a></sup>
+Trong số những cái tên bị từ chối trước đó của cô có <i><b>Helinyetillë</b></i> (được gọi là "Eyes of Heartsease"<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>), sự kết hợp của Qenya <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Helin&amp;action=edit&amp;redlink=1" title="Helin (page does not exist)">helin</a></i> ("pansy") và một số biến thể của <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Y%C3%A9ta&amp;action=edit&amp;redlink=1" title="Yéta (page does not exist)">yéta</a>-</i> ("nhìn at"), sau này được dùng làm tên cho [Nessa](../N/Nessa.md).<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> Một cái tên ban đầu cũng bị từ chối tương tự <i><b>Venestë</b></i> xuất hiện bên cạnh *Lotesse* trong Từ điển Qenya, nhưng ý nghĩa của nó không rõ ràng.<sup id="cite_ref-Aka_5-2" class="reference"><a href="#cite_note-Aka-5">[5]</a></sup>
 
 ### Phả hệ sớm {#Early_genealogy}
 

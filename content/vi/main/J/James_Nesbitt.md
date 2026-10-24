@@ -33,13 +33,13 @@ infobox:
 
 **James Nesbitt** (sinh [15 tháng 1](../_/15_January.md) [1965](../_/1965.md)) là một diễn viên người Bắc Ireland, nổi tiếng với vai Adam Williams trong bộ phim hài kịch <i><a class="extiw" href="http://en.wikipedia.org/wiki/Cold_Feet" title="wikipedia:Cold Feet">Cold Feet</a></i> và vai chính trong bộ phim trinh thám <i><a class="extiw" href="http://en.wikipedia.org/wiki/Murphy%27s_Law_(TV_series)" title="wikipedia:Murphy&#39;s Law (TV series)">Định luật Murphy</a></i>. Anh đóng vai [Bofur](../B/Bofur.md) trong [*The Hobbit* (loạt phim)](<../T/The_Hobbit_(film_series).md>).<sup id="cite_ref-ComingSoon_1-0" class="reference"><a href="#cite_note-ComingSoon-1">[1]</a></sup>
 
-Con gái của ông là [Mary](../M/Mary_Nesbitt.md) và [Peggy](../P/Peggy_Nesbitt.md) Nesbitt, người đóng vai con gái của [Bard](../B/Bard.md)là [Tilda](../T/Tilda.md) và [Sigrid](../S/Sigrid.md) trong *[The Hobbit: The Desolation of Smaug](../T/The_Hobbit%253A_The_Desolation_of_Smaug.md)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Con gái của ông là [Mary](../M/Mary_Nesbitt.md) và [Peggy](../P/Peggy_Nesbitt.md) Nesbitt, người đóng vai con gái của [Bard](../B/Bard.md) là [Tilda](../T/Tilda.md) và [Sigrid](../S/Sigrid.md) trong *[The Hobbit: The Desolation of Smaug](../T/The_Hobbit%253A_The_Desolation_of_Smaug.md)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Phim ảnh {#Filmography}
 
 - [2012](../_/2012.md) *[The Hobbit: An Unexpected Journey](../T/The_Hobbit%253A_An_Unexpected_Journey.md)*: [Bofur](../B/Bofur.md)
 - [2013](../_/2013.md) *[The Hobbit: The Desolation of Smaug](../T/The_Hobbit%253A_The_Desolation_of_Smaug.md)*: Bofur
-- [2013](../_/2013.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=New_Zealand:_Home_of_Middle-earth&amp;action=edit&amp;redlink=1" title="New Zealand: Home of Middle-earth (page does not exist)">New Zealand: Nhà của Trung Địa</a></i>: Chính mình
+- [2013](../_/2013.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=New_Zealand:_Home_of_Middle-earth&amp;action=edit&amp;redlink=1" title="New Zealand: Home of Middle-earth (page does not exist)">New Zealand: Quê hương của Trung Địa</a></i>: Chính Ngài
 - [2014](../_/2014.md) *[Lego The Hobbit: The Video Game](../L/Lego_The_Hobbit%253A_The_Video_Game.md)*: Bofur (đoạn phim lưu trữ)
 - [2014](../_/2014.md): *[The Hobbit: The Battle of the Five Armies](../T/The_Hobbit%253A_The_Battle_of_the_Five_Armies.md)*: Bofur
 

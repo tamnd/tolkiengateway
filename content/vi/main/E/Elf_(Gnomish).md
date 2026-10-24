@@ -30,7 +30,7 @@ images:
 ## Xem thêm {#See_also}
 
 - [Noldorin](../N/Noldorin.md) *[lheben](../L/Lheben.md)*
-- [Sindarin](../S/Sindarin.md) *[leben](../L/Leben.md)*
+- [Tiếng Sindarin](../S/Sindarin.md) *[leben](../L/Leben.md)*
 
 <span></span>
 

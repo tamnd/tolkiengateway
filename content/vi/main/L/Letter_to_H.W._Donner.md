@@ -20,7 +20,7 @@ images:
 
 Vào [7 tháng 7](../_/7_July.md) [1960](../_/1960.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) gửi [H.W. Donner](../H/H.W._Donner.md)**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-Abo_2-0" class="reference"><a href="#cite_note-Abo-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-- **(Các) chủ đề:** Tolkien không thích hình minh họa bìa của bản dịch tiếng Thụy Điển của *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)* (*[Sagan om ringen](../H/Härskarringen.md)*, ấn bản tiếng Thụy Điển đầu tiên [1959](../_/1959.md)).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+- **(Các) chủ đề:** Tolkien không thích hình minh họa bìa bản dịch tiếng Thụy Điển của *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)* (*[Sagan om ringen](../H/Härskarringen.md)*, ấn bản tiếng Thụy Điển đầu tiên [1959](../_/1959.md)).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 - **Xuất bản:** Không có. Bức thư được lưu giữ trong bộ sưu tập của <a class="extiw" href="http://en.wikipedia.org/wiki/%C3%85bo_Akademi_University" title="wikipedia:Åbo Akademi University">Đại học Åbo Akademi</a>.<sup id="cite_ref-Abo_2-1" class="reference"><a href="#cite_note-Abo-2">[2]</a></sup>
 - **Nhận xét:** Bìa được minh họa bởi Rolf Lagerson.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Gateway:Featured articles/Nominations"
 ---
 
-Chuyển hướng đến [Tolkien Gateway:Bài viết nổi bật/Đề cử](Featured_articles%252FNominations.md).
+Chuyển hướng đến [Cổng Tolkien:Bài viết nổi bật/Đề cử](Featured_articles%252FNominations.md).

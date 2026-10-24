@@ -39,30 +39,30 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mythlore_81.gif.md"><img src="https://tolkiengateway.net/w/images/4/45/Mythlore_81.gif" decoding="async" loading="lazy" width="225" height="292" class="mw-file-element" data-file-width="225" data-file-height="292"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mythlore 81</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../G/Glen_GoodKnight.md" title="Glen GoodKnight">Glen GoodKnight</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Summer <a href="../_/1996.md" title="1996">1996</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">67</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a class="mw-redirect" href="Mythlore_80.md" title="Mythlore 80">Mythlore 80</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mythlore_82.md" title="Mythlore 82">Mythlore 82</a></td></tr></tbody></table>
 
-<b><i>Mythlore</i> 81</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol21/iss3/" rel="noreferrer noopener" target="_blank">Tập 21, Số 3</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
+<b><i>Thần thoại</i> 81</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol21/iss3/" rel="noreferrer noopener" target="_blank">Tập 21, Số 3</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
 
 ## Nội dung {#Contents}
 
 #### Bài viết {#Articles}
 
-- Flieger, Verlyn. "Ngôn ngữ của huyền thoại."
-- Meyer, Doris. "Bứt phá: Chủ đề vũ trụ khép kín trong E.M. Forster, Owen Barfield và C.S. Lewis."
-- Phim-Davies, Cath. "Vua Arthur ở Chợ, Vua Arthur trong Thần thoại."
-- Fenwick, Mac. "Áo ngực bằng lụa: Phụ nữ Homeric trong *The Lord of the Rings*."
-- Sobat, Gail Sidonie. "Đêm trên quê hương của cô ấy: Hành trình tìm kiếm bản thân của nữ anh hùng ở Ursula K. Le Guin's *The Tombs of Atuan*."
-- Xin chào, Rhona. "Du hành thời gian."
-- Collings, Michael R. "Thẻ Orson Scott: Cách tiếp cận tiểu thuyết thần thoại."
+- Flieger, Verlyn. "The Language of Myth."
+- Meyers, Doris. "Breaking Free: The Closed Universe Theme in E.M. Forster, Owen Barfield, and C.S. Lewis."
+- Filmer-Davies, Cath. "King Arthur in the Marketplace, King Arthur in the Myth."
+- Fenwick, Mac. "Breastplates of Silk: Homeric Women in *The Lord of the Rings*."
+- Sobat, Gail Sidonie. "The Night in Her Own Country: The Heroine’s Quest for Self in Ursula K. Le Guin’s *The Tombs of Atuan*."
+- Beare, Rhona. "Time Travel."
+- Collings, Michael R. "Orson Scott Card: An Approach to Mythopoeic Fiction."
 
 #### Tính năng {#Features}
 
 - Chúc ngủ ngon, Glen. Lời giới thiệu của biên tập: Trong số này.
-- Christopher, Joe R. và Wayne G. Hammond. Một thư mục Inklings (56).
+- Christopher, Joe R., and Wayne G. Hammond. An Inklings Bibliography (56).
 - Hoagland, Cary và John Stolzenbach. Một lời chia tay của Mythcon.
 
 #### Đánh giá {#Reviews}
 
 - *J.R.R. Tolkien: Artist &amp; Illustrator.* Wayne G. Hammond và Christina Scull. Được đánh giá bởi Glen GoodKnight.
-- *The 1996 J.R.R. Tolkien Calendar.* Tác phẩm của Ted Nasmith. Được đánh giá bởi Paula DiSante.
+- *The 1996 J.R.R. Tolkien Calendar.* Nghệ thuật của Ted Nasmith. Được đánh giá bởi Paula DiSante.
 - *Charles Williams: A Celebration.* Brian Home, biên tập viên. Được đánh giá bởi Nancy-Lou Patterson.
 - *Những bức thư của Dorothy L. Sayers, 1899-1936: Quá trình hình thành một tiểu thuyết gia trinh thám.* Barbara Reynolds. Được đánh giá bởi Nancy-Lou Patterson.
 - *Tìm Chủ nhà: Sách hướng dẫn về C.S. Lewis' Vương quốc của người hành hương.* Kathryn Lindskoog. Được đánh giá bởi Nancy-Lou Patterson.

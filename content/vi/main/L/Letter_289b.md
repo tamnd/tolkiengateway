@@ -31,7 +31,7 @@ Các đoạn trích từ bức thư này lần đầu tiên được xuất bả
 
 ## Tóm tắt {#Summary}
 
-Tolkien mô tả một số kinh nghiệm viết lách gần đây của anh ấy và mô tả chuyến hành trình Địa Trung Hải của anh ấy.
+Tolkien mô tả một số kinh nghiệm viết lách gần đây của ông và mô tả chuyến hành trình Địa Trung Hải của ông.
 
 <br>
 

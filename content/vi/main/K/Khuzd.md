@@ -21,7 +21,7 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../D/Dwarves.md" title="Dwarves">Dwarves</a></b></div></div>
 
-<i><b>Khuzd</b></i>, xin vui lòng. <i><b>Khazâd</b></i>, là [Khuzdul](Khuzdul.md) từ dành cho "[Người Lùn](../D/Dwarves.md)".
+<i><b>Khuzd</b></i>, xin vui lòng. <i><b>Khazâd</b></i>, là từ [Khuzdul](Khuzdul.md) để chỉ "[Người lùn](../D/Dwarves.md)".
 
 ## Từ nguyên {#Etymology}
 

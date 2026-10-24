@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Arkenstone"
 ---
 
-Chuyển hướng đến [Arkenstone](Arkenstone.md).
+Chuyển hướng tới [Arkenstone](Arkenstone.md).

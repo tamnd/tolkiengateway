@@ -18,13 +18,13 @@ langlinks:
     url: "https://kontu.wiki/Orom%C3%ABn_mets%C3%A4t"
 ---
 
-**Khu rừng Oromë**, lãnh địa của [Vala](../V/Valar.md) [Oromë](../O/Oromë.md), nằm ở [Valinor](../V/Valinor.md), ở phần phía nam của vùng đất. Ở phía tây là [Đồng cỏ Yavanna](../P/Pastures_of_Yavanna.md) trong khi ở phía đông là [Hyarmentir](../H/Hyarmentir.md), và xa hơn nữa là vùng đất hẹp [Avathar](../A/Avathar.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Rừng Oromë**, lãnh địa của [Vala](../V/Valar.md) [Oromë](../O/Oromë.md), nằm ở [Valinor](../V/Valinor.md), ở phần phía nam của vùng đất. Ở phía tây là [Đồng cỏ Yavanna](../P/Pastures_of_Yavanna.md) trong khi ở phía đông là [Hyarmentir](../H/Hyarmentir.md), và xa hơn nữa là vùng đất hẹp [Avathar](../A/Avathar.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-[Maia](../M/Maiar.md) [Tilion](../T/Tilion.md) được cho là đã sống trong khu rừng Oromë nơi anh ta đến [Lórien](<../L/Lórien_(Valinor).md>) khi anh ta nghỉ ngơi.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+[Maia](../M/Maiar.md) [Tilion](../T/Tilion.md) được cho là đã sống trong rừng Oromë từ nơi ông ta đến [Lórien](<../L/Lórien_(Valinor).md>) khi ông ta nghỉ ngơi.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Xem thêm {#See_also}
 
-- [Nhà của Oromë](../H/House_of_Oromë.md)
+- [Nhà Oromë](../H/House_of_Oromë.md)
 
 <span></span>
 

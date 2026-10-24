@@ -25,13 +25,13 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Constellation</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Hermit&#39;s Hat</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>General Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../R/Rhûn.md" title="Rhûn">Rhûn</a></td></tr><tr><th scope="row" class="tg-infobox-label">Type</th><td class="tg-infobox-data">Constellation</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>People and History</span></th></tr><tr><th scope="row" class="tg-infobox-label">Events</th><td class="tg-infobox-data">Battle against the Mystics</td></tr></tbody></table>
 
-**Mũ ẩn sĩ** là một [chòm sao](../C/Constellations.md) ở xa về phía đông của [Rhûn](../R/Rhûn.md) ở [Arda](../A/Arda.md). Mũ Ẩn sĩ được [Amazon Studios](../A/Amazon_Studios.md) phát minh cho *[The Lord of the Rings: The Rings of Power](../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)*.
+**Mũ ẩn sĩ** là một [chòm sao](../C/Constellations.md) ở xa về phía đông của [Rhûn](../R/Rhûn.md) ở [Arda](../A/Arda.md). Chiếc mũ ẩn sĩ được [Amazon Studios](../A/Amazon_Studios.md) phát minh cho *[The Lord of the Rings: The Rings of Power](../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)*.
 
 ## Lịch sử {#History}
 
 Mũ ẩn sĩ là một chòm sao được [Nhà thần bí](../M/Mystics.md) công nhận và chỉ có thể nhìn thấy ở đâu đó sâu bên trong [Rhûn](../R/Rhûn.md), "nơi có những ngôi sao kỳ lạ".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[Note 1]</a></sup>
 
-Vào cuối [Kỷ nguyên thứ hai](../S/Second_Age.md), một nhóm ba Nhà thần bí đến phía tây từ Rhûn để tìm kiếm [Sauron](../S/Sauron.md). Khi họ tìm thấy [một sinh vật](../T/The_Stranger.md) mà họ tin là Sauron, họ đã kể cho anh ấy nghe về Chiếc Mũ Ẩn Sĩ. Sau đó họ đã bị anh ta đánh bại sau khi nhận ra rằng anh ta là một [Istar](../O/Order_of_Wizards.md) chứ không phải Sauron. Cùng với [Elanor Brandyfoot](../E/Elanor_Brandyfoot.md), Istar sau đó khởi hành [Grove](../G/Grove.md) tới [Rhûn](../R/Rhûn.md) để tìm hiểu thêm về chòm sao.
+Vào cuối [Kỷ nguyên thứ hai](../S/Second_Age.md), một nhóm ba Nhà thần bí đến từ Rhûn về phía tây để tìm kiếm [Sauron](../S/Sauron.md). Khi họ tìm thấy [một sinh vật](../T/The_Stranger.md) mà họ tin là Sauron, họ đã kể cho ông nghe về Chiếc mũ ẩn sĩ. Sau đó họ đã bị ông ta đánh bại sau khi nhận ra rằng ông ta là [Istar](../O/Order_of_Wizards.md) chứ không phải Sauron. Cùng với [Elanor Brandyfoot](../E/Elanor_Brandyfoot.md), Istar sau đó khởi hành [Grove](../G/Grove.md) tới [Rhûn](../R/Rhûn.md) để tìm hiểu thêm về chòm sao.
 
 ## Ghi chú {#Notes}
 

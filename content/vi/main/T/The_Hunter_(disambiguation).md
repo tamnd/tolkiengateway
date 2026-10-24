@@ -18,13 +18,13 @@ images:
 
 **Thợ săn** có thể đề cập đến những điều sau:
 
-- [Folca](../F/Folca.md), [Vua](../K/Kings_of_Rohan.md) thứ mười ba trong số [Rohan](../R/Rohan.md) đã chết khi bắt giữ [Con lợn lòi của Everholt](../B/Boar_of_Everholt.md).
-- [Haleth](../H/Haleth.md), nữ [Thủ lĩnh của Haladin](../C/Chieftain_of_the_Haladin.md) trong [Kỷ Đệ Nhất](../F/First_Age.md).
-- [Thợ săn](../H/Hunter_and_Rider.md), một nhân vật hư cấu trong Tiên huyền thoại.
-- [Mablung](../M/Mablung.md), một [Kỷ Đệ Nhất](../F/First_Age.md) [Tiên](../E/Elves.md) trong số [Doriath](../D/Doriath.md) đã đi cùng [Beren](../B/Beren.md) trong [Cuộc Săn Sói](../H/Hunting_of_the_Wolf.md).
+- [Folca](../F/Folca.md), [Vua](../K/Kings_of_Rohan.md) thứ mười ba của [Rohan](../R/Rohan.md), người đã chết khi bắt giữ [Heo Rừng Everholt](../B/Boar_of_Everholt.md).
+- [Haleth](../H/Haleth.md), nữ [Thủ lĩnh của Haladin](../C/Chieftain_of_the_Haladin.md) trong [Thời đại thứ nhất](../F/First_Age.md).
+- [Thợ săn](../H/Hunter_and_Rider.md), một nhân vật hư cấu trong truyền thuyết Yêu tinh.
+- [Mablung](../M/Mablung.md), một [Thời đại thứ nhất](../F/First_Age.md) [Yêu tinh](../E/Elves.md) của [Doriath](../D/Doriath.md), người đã đồng hành cùng [Beren](../B/Beren.md) trong [Săn sói](../H/Hunting_of_the_Wolf.md).
 - [Oromë](../O/Oromë.md), một trong những [Valar](../V/Valar.md), được gọi là *Huntsman of the Valar*.
-- [Vorondil](../V/Vorondil.md), [Quản gia của Gondor](../S/Stewards_of_Gondor.md), người đã giết [Kine của Araw](../K/Kine_of_Araw.md).
-- [Thû](Thû.md), Necromancer của [Pháp sư Đảo](Tol-in-Gaurhoth.md).
+- [Vorondil](../V/Vorondil.md), một [Quản gia của Gondor](../S/Stewards_of_Gondor.md), người đã giết chết [Kine của Araw](../K/Kine_of_Araw.md).
+- [Thû](Thû.md), Pháp sư chiêu hồn của [Đảo phù thủy](Tol-in-Gaurhoth.md).
 
 <hr style="margin-top:15px;"/>
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fen of Serech"
 ---
 
-Chuyển hướng đến [Đầm lầy Serech](../F/Fen_of_Serech.md).
+Chuyển hướng tới [Fen of Serech](../F/Fen_of_Serech.md).

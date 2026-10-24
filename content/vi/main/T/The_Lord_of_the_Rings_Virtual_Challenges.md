@@ -24,15 +24,15 @@ images:
 
 <figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/LotR_Virtual_Challenge_Medals_with_Hangar.webp.md"><img src="https://tolkiengateway.net/w/images/thumb/e/ef/LotR_Virtual_Challenge_Medals_with_Hangar.webp/300px-LotR_Virtual_Challenge_Medals_with_Hangar.webp.png" decoding="async" loading="lazy" width="300" height="273" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/ef/LotR_Virtual_Challenge_Medals_with_Hangar.webp/450px-LotR_Virtual_Challenge_Medals_with_Hangar.webp.png 1.5x, https://tolkiengateway.net/w/images/thumb/e/ef/LotR_Virtual_Challenge_Medals_with_Hangar.webp/600px-LotR_Virtual_Challenge_Medals_with_Hangar.webp.png 2x" data-file-width="762" data-file-height="694"/></a><figcaption>All <i>Lord of the Rings</i> Virtual Challenge Medals (with optional hangar)</figcaption></figure>
 
-<b><i>The Lord of the Rings</i> Thử thách ảo</b> là một loạt các chương trình thể dục có thương hiệu được cung cấp bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Conqueror_-_Virtual_Challenges_and_Medals&amp;action=edit&amp;redlink=1" title="The Conqueror - Virtual Challenges and Medals (page does not exist)">The Conqueror - Thử thách ảo và Huy chương</a>. Những người tham gia đăng ký gói hoặc thử thách cá nhân và sau khi hoàn thành số dặm mục tiêu đã thực hiện sẽ nhận được huy chương sưu tập được cá nhân hóa.
+<b><i>Chúa tể của những chiếc nhẫn</i> Thử thách ảo</b> là một chuỗi các chương trình thể dục có thương hiệu được cung cấp bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Conqueror_-_Virtual_Challenges_and_Medals&amp;action=edit&amp;redlink=1" title="The Conqueror - Virtual Challenges and Medals (page does not exist)">Kẻ chinh phục - Thử thách ảo và Huy chương</a>. Những người tham gia đăng ký gói hoặc thử thách cá nhân và sau khi hoàn thành số dặm mục tiêu đã thực hiện sẽ nhận được huy chương sưu tập được cá nhân hóa.
 
-Hai chuỗi thử thách liên quan là *The Lord of the Rings* và *The Return of the King*, mỗi loạt thử thách đều yêu cầu người tham gia mô phỏng việc đi bộ qua [Trung Địa](../M/Middle-earth.md) di chuyển trên những quãng đường giống như mô tả trong các câu chuyện. Một ứng dụng di động hỗ trợ việc này, hiển thị cho người tham gia vị trí hiện tại của họ trên hành trình. Trong mỗi chuỗi, mỗi thử thách phải được hoàn thành tuần tự trước khi có thể thử thử thách tiếp theo. Trong quá trình tham gia, người tham gia sẽ nhận được bưu thiếp và câu chuyện có hình ảnh từ [Peter Jackson](../P/Peter_Jackson.md) [*Lord of the Rings* loạt phim](<The_Lord_of_the_Rings_(film_series).md>) qua đường bưu điện.
+Hai chuỗi thử thách liên quan là *The Lord of the Rings* và *The Return of the King*, mỗi chuỗi có người tham gia mô phỏng việc đi bộ qua [Trung Địa](../M/Middle-earth.md) di chuyển những quãng đường giống như mô tả trong các câu chuyện. Một ứng dụng di động hỗ trợ việc này, hiển thị cho người tham gia vị trí hiện tại của họ trên hành trình. Trong mỗi chuỗi, mỗi thử thách phải được hoàn thành tuần tự trước khi có thể thử thử thách tiếp theo. Trong quá trình tham gia, người tham gia sẽ nhận được bưu thiếp và câu chuyện có hình ảnh từ [Peter Jackson](../P/Peter_Jackson.md) [*Lord of the Rings* loạt phim](<The_Lord_of_the_Rings_(film_series).md>) qua đường bưu điện.
 
 Ngoài ra, Người chinh phục cam kết trồng một cây hoặc ngăn mười chai nhựa đổ ra đại dương cho mỗi 20% mỗi Thử thách mà người tham gia hoàn thành.
 
 ## *The Lord of the Rings* {#The_Lord_of_the_Rings}
 
-Năm thử thách này dành cho những người tham gia nhiệm vụ tổng thể khi đi bộ từ [Shire](../S/Shire.md) đến [Mordor](../M/Mordor.md), mô phỏng việc di chuyển cần thiết trong các sự kiện của câu chuyện chính. Huy chương được gửi cho những người hoàn thành Thử thách đầu tiên (The Shire) sẽ bao gồm một bản sao [Một chiếc nhẫn](../O/One_Ring.md), sau đó có thể được hiển thị trong Huy chương cuối cùng (Mordor), đặt nó một cách tượng trưng trong hình ảnh của Núi Doom.
+Năm thử thách này dành cho những người tham gia nhiệm vụ tổng thể khi đi bộ từ [Shire](../S/Shire.md) đến [Mordor](../M/Mordor.md), mô phỏng việc đi lại cần thiết trong các sự kiện của câu chuyện chính. Huy chương được gửi cho những người hoàn thành Thử thách đầu tiên (The Shire) sẽ bao gồm một bản sao [One Ring](../O/One_Ring.md), sau đó có thể được hiển thị trong Huy chương cuối cùng (Mordor), tượng trưng là đặt nó trong hình ảnh của Núi Định mệnh.
 
 <table class="wikitable" style="padding: 2px;">
 <tbody><tr style="background:var(--tg-color-surface-3)">
@@ -68,7 +68,7 @@ Năm thử thách này dành cho những người tham gia nhiệm vụ tổng t
 
 ## *The Return of the King* {#The_Return_of_the_King}
 
-Ba thử thách này dành cho những người tham gia nhiệm vụ tổng thể với việc mô phỏng hành trình của [Aragorn](../A/Aragorn.md) trong suốt *The Lord of the Rings*.
+Ba thử thách này dành cho những người tham gia nhiệm vụ tổng thể với việc mô phỏng chuyến đi của [Aragorn](../A/Aragorn.md) xuyên suốt *The Lord of the Rings*.
 
 <table class="wikitable" style="padding: 2px;">
 <tbody><tr style="background:var(--tg-color-surface-3)">

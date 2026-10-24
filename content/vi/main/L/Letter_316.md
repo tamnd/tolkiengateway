@@ -35,9 +35,9 @@ infobox:
 
 <figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/R/Robert_Burchfield_11_September_1970.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/8/84/Robert_Burchfield_11_September_1970.jpg/300px-Robert_Burchfield_11_September_1970.jpg" decoding="async" loading="lazy" width="300" height="362" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/8/84/Robert_Burchfield_11_September_1970.jpg 1.5x" data-file-width="434" data-file-height="524"/></a><figcaption></figcaption></figure>
 
-Nhân viên *Oxford English Dictionary*, biên soạn một mục cho *hobbit* trong phần phụ lục thứ hai của họ, đã hỏi về nguồn gốc của từ này và liệu nó có phải từ một câu chuyện trước đó hay không. Tolkien thừa nhận mối quan tâm cá nhân đối với nó và muốn ý nghĩa của nó được làm rõ. Anh ấy đã cảnh báo họ rằng nhìn vào mọi thứ là tìm kiếm rắc rối.
+Nhân viên *Oxford English Dictionary*, biên soạn một mục cho *hobbit* trong phần phụ lục thứ hai của họ, đã hỏi về nguồn gốc của từ này và liệu nó có phải từ một câu chuyện trước đó hay không. Tolkien thừa nhận mối quan tâm cá nhân đối với nó và muốn ý nghĩa của nó được rõ ràng. Ông đã cảnh báo họ rằng nhìn vào mọi thứ là tìm kiếm rắc rối.
 
-Anh ta đã được các chuyên gia điều tra từ nguyên "được phát minh bởi J.R.R. Tolkien". Anh ấy biết tuyên bố của mình không rõ ràng nhưng anh ấy không bận tâm về điều đó cho đến khi phần bổ sung thứ hai xuất hiện. Sau đó, ông đưa ra một định nghĩa, giả định rằng từ nguyên có thể đứng vững:
+Ông ta đã được các chuyên gia điều tra từ nguyên "được phát minh bởi J.R.R. Tolkien". Ông biết tuyên bố của mình không rõ ràng nhưng ông không bận tâm về điều đó cho đến khi phần bổ sung thứ hai xuất hiện. Sau đó, ông đưa ra một định nghĩa, giả định rằng từ nguyên có thể đứng vững:
 
 <blockquote class="tg-quote noexcerpt">
 <p>One of an imaginary people, a small variety of the human race, that gave themselves the name (meaning &#34;hole-dweller&#34;) but were called by others <i>halflings</i>, since they were half the height of normal men.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup>

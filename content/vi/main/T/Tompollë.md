@@ -25,11 +25,11 @@ langlinks:
 
 ## Lịch sử {#History}
 
-Hàng năm vào mùa thu, nhiều [người Númenor](../N/Númenóreans.md) sẽ đến từ khắp nơi trên đảo đến khu vực [Forostar](../F/Forostar.md) nơi Tompollë tọa lạc để chứng kiến ​​điệu nhảy gấu vĩ đại diễn ra không lâu sau [Eruhantalë](../E/Eruhantalë.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Hàng năm vào mùa thu, nhiều [Númenóreans](../N/Númenóreans.md) sẽ đến từ khắp hòn đảo đến vùng [Forostar](../F/Forostar.md) nơi Tompollë tọa lạc, để chứng kiến ​​Vũ điệu gấu vĩ đại diễn ra không lâu sau [Eruhantalë](../E/Eruhantalë.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Tompollë* là tên [Quenya](../Q/Quenya.md) không rõ nghĩa. Tuy nhiên, Paul Strack gợi ý rằng nó có thể liên quan đến gốc <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=TOM&amp;action=edit&amp;redlink=1" title="TOM (page does not exist)">TOM</a></i> ("của âm thanh cộng hưởng") và được xây dựng từ Quenya <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Tompa&amp;action=edit&amp;redlink=1" title="Tompa (page does not exist)">Tompa</a></i> ("trống nhỏ").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> đầu tiên.
+*Tompollë* là tên [Quenya](../Q/Quenya.md) không rõ nghĩa. Tuy nhiên, Paul Strack gợi ý rằng nó có thể liên quan đến gốc <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=TOM&amp;action=edit&amp;redlink=1" title="TOM (page does not exist)">TOM</a></i> ("của âm thanh cộng hưởng") và được phát triển từ Quenya <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Tompa&amp;action=edit&amp;redlink=1" title="Tompa (page does not exist)">Tompa</a></i> ("trống nhỏ").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

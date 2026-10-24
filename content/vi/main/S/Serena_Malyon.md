@@ -26,7 +26,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Person</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Serena Malyon</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Occupation</th><td class="tg-infobox-data">Artist</td></tr></tbody></table>
 
-**Serena Malyon** là một họa sĩ minh họa người Canada. Với tư cách là một nghệ sĩ [Magic: The Gathering](../M/Magic%253A_The_Gathering.md), cô đã sáng tạo nghệ thuật cho bản mở rộng [The Hobbit](../M/Magic%253A_The_Gathering_-_The_Hobbit.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Serena Malyon** là một họa sĩ minh họa người Canada. Với tư cách là một nghệ sĩ [Magic: The Gathering](../M/Magic%253A_The_Gathering.md), bà đã sáng tạo nghệ thuật cho việc mở rộng [The Hobbit](../M/Magic%253A_The_Gathering_-_The_Hobbit.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Ngoài công việc chuyên môn, cô còn vẽ minh họa cho người hâm mộ về các tác phẩm của Tolkien.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 

@@ -12,7 +12,7 @@ categories:
   - "Published articles"
 ---
 
-**"Hobbit"** của giáo sư Tolkien là tựa đề một bài phê bình văn học của *[The Hobbit](../T/The_Hobbit.md)*. Nó được viết bởi [C.S. Lewis](../C/C.S._Lewis.md) và được xuất bản lần đầu trên *The Times* vào ngày [8 tháng 10](../_/8_October.md) [1937](../_/1937.md) (tr. 20).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**"Hobbit"** của Giáo sư Tolkien là tựa đề một bài phê bình văn học của *[The Hobbit](../T/The_Hobbit.md)*. Nó được viết bởi [C.S. Lewis](../C/C.S._Lewis.md) và được xuất bản lần đầu trên *The Times* vào ngày [8 tháng 10](../_/8_October.md) [1937](../_/1937.md) (tr. 20).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

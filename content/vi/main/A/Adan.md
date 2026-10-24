@@ -28,7 +28,7 @@ langlinks:
 
 - *Adanath* = Cha của Con Người
 - *[Adanel](Adanel.md)* = "Ngôi sao nam"
-- [*Adanedhel*](../T/Túrin.md) = "Người tinh"
+- [*Adanedhel*](../T/Túrin.md) = "Người đàn ông-Tiên"
 - *[Dúnadan](../D/Dúnedain.md) =* "Người đàn ông của Phương Tây"
 - *[Drúadan](../D/Drúedain.md)* = "Người hoang dã"
 - *[Elladan](../E/Elladan.md) = "*Tiên-người đàn ông"

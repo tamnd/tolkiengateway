@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "José Manuel Ferrández Bru"
 ---
 
-Chuyển hướng đến [José Manuel Ferrández Bru](../J/José_Manuel_Ferrández_Bru.md).
+Chuyển hướng tới [José Manuel Ferrández Bru](../J/José_Manuel_Ferrández_Bru.md).

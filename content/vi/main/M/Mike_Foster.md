@@ -20,7 +20,7 @@ sort_keys:
   "People by name": "Foster, Mike"
 ---
 
-**Michael Alan ("Mike Austin") Foster** (mất. [12 tháng 4](../A/April_12.md), [2023](../_/2023.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>) là Giáo sư tiếng Anh đã nghỉ hưu tại <a class="extiw" href="http://en.wikipedia.org/wiki/Illinois_Central_College" title="wikipedia:Illinois Central College">Illinois Central College</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Ông là đại diện Bắc Mỹ của [Hội Tolkien](../T/The_Tolkien_Society.md) từ năm 1995 và giảng dạy một khóa học về [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) tại Illinois Central College từ năm 1995 1978 đến 2005.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+**Michael Alan ("Mike") Foster** (mất. [12 tháng 4](../A/April_12.md), [2023](../_/2023.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>) là Giáo sư tiếng Anh đã nghỉ hưu tại <a class="extiw" href="http://en.wikipedia.org/wiki/Illinois_Central_College" title="wikipedia:Illinois Central College">Illinois Central College</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Ông từng là đại diện Bắc Mỹ của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) từ năm 1995 và đã giảng dạy một khóa học về [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) tại Illinois Central College từ năm 1978 đến năm 2005.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Thư mục, đã chọn {#Bibliography,_selected}
 
@@ -35,7 +35,7 @@ sort_keys:
 - [2005](../_/2005.md): [*Amon Hen* 196](../A/Amon_Hen_196.md)
     - "Báo cáo: Người chiến thắng cuộc thi Clerihew"
 - [2006](../_/2006.md): *[J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment](../J/J.R.R._Tolkien_Encyclopedia%253A_Scholarship_and_Critical_Assessment.md)*
-    - "Mỹ những năm 1960: Tiếp nhận Tolkien"
+    - "Mỹ những năm 1960: Sự tiếp nhận của Tolkien"
 - [2006](../_/2006.md): *[The Lord of the Rings 1954-2004](../T/The_Lord_of_the_Rings_1954-2004.md)*
     - "Dạy Tolkien"
 - [2008](../_/2008.md): *[The Ring Goes Ever On: Proceedings of the Tolkien 2005 Conference](../T/The_Ring_Goes_Ever_On%253A_Proceedings_of_the_Tolkien_2005_Conference.md)*

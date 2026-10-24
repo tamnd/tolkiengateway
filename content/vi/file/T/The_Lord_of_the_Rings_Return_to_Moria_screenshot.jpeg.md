@@ -25,7 +25,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Ảnh chụp màn hình trò chơi [The Lord of the Rings: Quay lại Moria](../../main/T/The_Lord_of_the_Rings%253A_Return_to_Moria.md).
+Ảnh chụp màn hình của trò chơi [The Lord of the Rings: Return to Moria](../../main/T/The_Lord_of_the_Rings%253A_Return_to_Moria.md).
 
 ## Giấy phép {#Licensing}
 

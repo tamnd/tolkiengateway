@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Nienor"
 ---
 
-Chuyển hướng đến [Nienor](Nienor.md).
+Chuyển hướng tới [Nienor](Nienor.md).

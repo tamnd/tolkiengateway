@@ -46,15 +46,15 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_-_The_Return_of_the_King_-_Iorlas.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/a/ac/The_Lord_of_the_Rings_-_The_Return_of_the_King_-_Iorlas.jpg/320px-The_Lord_of_the_Rings_-_The_Return_of_the_King_-_Iorlas.jpg" decoding="async" loading="lazy" width="320" height="242" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/ac/The_Lord_of_the_Rings_-_The_Return_of_the_King_-_Iorlas.jpg/480px-The_Lord_of_the_Rings_-_The_Return_of_the_King_-_Iorlas.jpg 1.5x, https://tolkiengateway.net/w/images/a/ac/The_Lord_of_the_Rings_-_The_Return_of_the_King_-_Iorlas.jpg 2x" data-file-width="588" data-file-height="445"/></a><figcaption>&#34;Iorlas&#34; from <i><a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">The Lord of the Rings: The Return of the King</a></i></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../G/Gondorians.md" title="Gondorians">Gondorian</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Iorlas</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data"><a href="../W/Westron.md" title="Westron">Westron</a></td></tr><tr><th scope="row" class="tg-infobox-label">Birth</th><td class="tg-infobox-data">c. <a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2990.md" title="Third Age 2990">2990</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Iorlas.md" title="Category:Images of Iorlas">Images of Iorlas</a></td></tr></tbody></table>
 
-**Iorlas** là một người đàn ông [Gondor](../G/Gondor.md).
+**Iorlas** là người của [Gondor](../G/Gondor.md).
 
 ## Lịch sử {#History}
 
-Iorlas là chú của [Bergil](../B/Bergil.md), anh trai hoặc anh rể của [Beregond](../B/Beregond.md). Khi [Pippin](../P/Peregrin_Took.md) đề cập với Bergil rằng anh ấy 29 tuổi, điều này làm anh ấy ngạc nhiên vì chú Iorlas của anh ấy cũng 29 tuổi và cao gần gấp đôi Hobbit.<sup id="cite_ref-MT_1-0" class="reference"><a href="#cite_note-MT-1">[1]</a></sup>
+Iorlas là chú của [Bergil](../B/Bergil.md), anh trai hoặc anh rể của [Beregond](../B/Beregond.md). Khi [Pippin](../P/Peregrin_Took.md) đề cập với Bergil rằng ông 29 tuổi, điều này làm ông ngạc nhiên vì chú Iorlas của ông cũng 29 tuổi và cao gần gấp đôi người Hobbit.<sup id="cite_ref-MT_1-0" class="reference"><a href="#cite_note-MT-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Iorlas* có thể có nghĩa là "Chiếc Lá Cũ" hoặc "Niềm Vui Cũ" trong [Sindarin](../S/Sindarin.md).
+*Iorlas* có thể có nghĩa là "Chiếc lá già" hoặc "Niềm vui cũ" trong [Sindarin](../S/Sindarin.md).
 
 ## Phả hệ {#Genealogy}
 
@@ -87,11 +87,11 @@ Iorlas là chú của [Bergil](../B/Bergil.md), anh trai hoặc anh rể của [
 		</li>
 </ul>
 
-<b><a href="../_/2003.md" title="2003">2003</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">The Lord of the Rings: The Return of the King</a></i>:</b>
+<b><a href="../_/2003.md" title="2003">2003</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">Chúa tể của những chiếc nhẫn: Sự trở lại của nhà vua</a></i>:</b>
 
 <dl><dd>A card from <i><a href="../T/The_Lord_of_the_Rings_Trading_Card_Game.md" title="The Lord of the Rings Trading Card Game">The Lord of the Rings Trading Card Game</a></i> identifies one of the Gondorians near the gate of <a href="../M/Minas_Tirith.md" title="Minas Tirith">Minas Tirith</a> as Iorlas.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></dd></dl>
 
-<b><a href="../_/2015.md" title="2015">2015</a>: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b><a href="../_/2015.md" title="2015">2015</a>: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
 
 <dl><dd>Iorlas is <a href="../B/Beregond.md" title="Beregond">Beregond</a>&#39;s brother and is first found  on the seventh level of pre-battle <a href="../M/Minas_Tirith.md" title="Minas Tirith">Minas Tirith</a>. During the siege of the city he is struck by a fallen stone, but is protected by his helmet, suffering only what he calls a &#34;dizziness&#34;.</dd></dl>
 

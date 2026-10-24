@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lay of the Fall of Gondolin"
 ---
 
-Chuyển hướng đến [Vị trí của Sự sụp đổ của Gondolin](../T/The_Lay_of_the_Fall_of_Gondolin.md).
+Chuyển hướng đến [Sự sụp đổ của Gondolin](../T/The_Lay_of_the_Fall_of_Gondolin.md).

@@ -25,8 +25,8 @@ categories:
 
 ## Có cùng nguồn gốc {#Cognates}
 
-- Sindarin *[gwathui](Gwathui.md)*
-- Sindarin *[gwath](Gwath.md)*
+- Tiếng Sindarin *[gwathui](Gwathui.md)*
+- Tiếng Sindarin *[gwath](Gwath.md)*
 
 <span></span>
 

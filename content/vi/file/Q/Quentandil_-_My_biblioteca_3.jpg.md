@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Một phần ba thư viện Tolkien của tôi, sách tiếng Anh và tiếng Tây Ban Nha quá cao. Sổ xanh *Parma Eldalamberon*11-22 do tôi đóng bìa tay.
+Một phần ba thư viện Tolkien của tôi, sách tiếng Anh và tiếng Tây Ban Nha quá cao. Sổ xanh *Parma Eldalamberon* 11-22 do tôi đóng bìa tay.
 
 ## Giấy phép {#Licensing}
 

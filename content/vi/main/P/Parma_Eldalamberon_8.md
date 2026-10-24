@@ -39,7 +39,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/P/Parma_Eldalamberon_8.png.md"><img src="https://tolkiengateway.net/w/images/thumb/8/82/Parma_Eldalamberon_8.png/320px-Parma_Eldalamberon_8.png" decoding="async" loading="lazy" width="320" height="441" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/82/Parma_Eldalamberon_8.png/480px-Parma_Eldalamberon_8.png 1.5x, https://tolkiengateway.net/w/images/thumb/8/82/Parma_Eldalamberon_8.png/640px-Parma_Eldalamberon_8.png 2x" data-file-width="1160" data-file-height="1600"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Parma Eldalamberon 8</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../C/Christopher_Gilson.md" title="Christopher Gilson">Christopher Gilson</a></td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data">Adam Christensen (front cover)</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../E/Elvish_Linguistic_Fellowship.md" title="Elvish Linguistic Fellowship">Elvish Linguistic Fellowship</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/1989.md" title="1989">1989</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback journal</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">56</td></tr></tbody></table>
 
-<i><b>Parma Eldalamberon 8</b></i> là số thứ 8 của *[Parma Eldalamberon](Parma_Eldalamberon.md)*, tạp chí nghiên cứu ngôn ngữ học về các ngôn ngữ Elvish và tên gọi trong các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
+<i><b>Parma Eldalamberon 8</b></i> là số thứ tám của *[Parma Eldalamberon](Parma_Eldalamberon.md)*, một tạp chí nghiên cứu ngôn ngữ học về các ngôn ngữ và tên gọi của người Tiên trong các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
 <div class="template-prevnext"><div class="template-prevnext__prev template-prevnext__link"><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/8/81/WikimediaUI-ArrowPrevious-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__content"><div class="template-prevnext__title">Parma Eldalamberon 7</div></div><div class="template-prevnext__linkoverlay"><a href="Parma_Eldalamberon_7.md" title="Parma Eldalamberon 7">Parma Eldalamberon 7</a></div></div><div class="template-prevnext__current"><div class="template-prevnext__content"><div class="template-prevnext__title">Parma Eldalamberon 8</div></div></div><div class="template-prevnext__next template-prevnext__link"><div class="template-prevnext__content"><div class="template-prevnext__title">Parma Eldalamberon 9</div></div><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/7b/WikimediaUI-ArrowNext-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__linkoverlay"><a href="Parma_Eldalamberon_9.md" title="Parma Eldalamberon 9">Parma Eldalamberon 9</a></div></div></div>
 
@@ -48,16 +48,16 @@ infobox:
 - Bìa: "Ainulindale" — Adam Christensen
 
 - Bài viết
-    - "Lý thuyết trường thống nhất của Elvish" — [Patrick H. Wynne](Patrick_H._Wynne.md)
+    - "Lý thuyết trường thống nhất của thần tiên" — [Patrick H. Wynne](Patrick_H._Wynne.md)
     - "Đại từ trong *Noldorin* và *Sindarin*" — [Tom Loback](../T/Tom_Loback.md)
     - "*Itarille Quete*" — được dịch bởi Craig Marnock
     - "Khảo sát về *Eldarin* Đại từ" — [Bill Welden](../B/Bill_Welden.md)
-    - "23 và 31: Các số có vấn đề trong Elvish" — [Arden R. Smith](../A/Arden_R._Smith.md)
-    - "*Hoth, Hothri, Hothron:* Orc Tổ chức quân sự và ngôn ngữ" — Tom Loback
+    - "23 và 31: Những con số có vấn đề trong tiếng Tiên" — [Arden R. Smith](../A/Arden_R._Smith.md)
+    - "*Hoth, Hothri, Hothron:* Tổ chức quân sự và ngôn ngữ của loài Orc" — Tom Loback
     - "Một phân tích cực kỳ kỹ lưỡng về *Fíriel's Song*" — Patrick H. Wynne
 
 - Chữ rune: Thư gửi *Parma*
-- Bìa sau: "[Hoạt động kinh doanh diễn ra bình thường ở Mordor](<../../file/P/Parma_Eldalamberon_8_(back_cover).png.md>)" — Patrick Wynne
+- Bìa sau: "[Hoạt động kinh doanh vẫn diễn ra bình thường ở Mordor](<../../file/P/Parma_Eldalamberon_8_(back_cover).png.md>)" — Patrick Wynne
 
 ## Liên kết ngoài {#External_links}
 

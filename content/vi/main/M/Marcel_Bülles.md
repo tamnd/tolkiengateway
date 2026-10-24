@@ -44,15 +44,15 @@ infobox:
 
 ## Tiểu sử {#Biography}
 
-Bülles đã cộng tác với Giáo sư [Michael D.C. Drout](Michael_D.C._Drout.md) trong nghiên cứu về [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), hỗ trợ biên soạn kỷ yếu học thuật *[Tolkien Studies](<../T/Tolkien_Studies_(journal).md>)*và đóng góp một số bài báo cho *[J.R.R. Tolkien Encyclopedia](../J/J.R.R._Tolkien_Encyclopedia.md)*.
+Bülles đã hợp tác với Giáo sư [Michael D.C. Drout](Michael_D.C._Drout.md) trong nghiên cứu về [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), hỗ trợ biên soạn kỷ yếu học thuật *[Tolkien Studies](<../T/Tolkien_Studies_(journal).md>)*và đóng góp một số bài báo cho *[J.R.R. Tolkien Encyclopedia](../J/J.R.R._Tolkien_Encyclopedia.md)*.
 
-Ông là chủ tịch sáng lập của [Hiệp hội Tolkien Đức](../G/German_Tolkien_Society.md) (1997) và là Đại diện Châu Âu của Hiệp hội Tolkien, Vương quốc Anh. Ông đã khởi xướng hội nghị học thuật thường niên thường niên đầu tiên ở Đức trên Tolkien (Tolkien Hội thảo) và là người đồng sáng lập [Ring\*Con](../R/Ring%252ACon.md), hội nghị bộ ba phim lớn nhất và đầu tiên ở Châu Âu.
+Ông là chủ tịch sáng lập của [Hiệp hội Tolkien Đức](../G/German_Tolkien_Society.md) (1997) và là Đại diện Châu Âu của Hiệp hội Tolkien, Vương quốc Anh. Ông đã khởi xướng hội nghị học thuật thường niên thường niên đầu tiên ở Đức về Tolkien (Hội thảo Tolkien) và là người đồng sáng lập [Ring\*Con](../R/Ring%252ACon.md), hội nghị bộ ba phim đầu tiên và lớn nhất Châu Âu.
 
-Là một diễn giả nổi tiếng về nhiều sự kiện liên quan đến Tolkien, ông đã diễn thuyết ở Mỹ, Canada, Thụy Sĩ, Anh và Ý. Ông giữ chức vụ là thành viên Ban biên tập kỷ yếu học thuật *[Hither Shore](<../H/Hither_Shore_(journal).md>)*của Hiệp hội Tolkien Đức.
+Là một diễn giả nổi tiếng về nhiều sự kiện khác nhau liên quan đến Tolkien, ông đã có những buổi nói chuyện ở Mỹ, Canada, Thụy Sĩ, Anh và Ý. Ông giữ chức vụ là thành viên Ban biên tập kỷ yếu học thuật *[Hither Shore](<../H/Hither_Shore_(journal).md>)*của Hiệp hội Tolkien Đức.
 
-Bülles đặc biệt quan tâm đến mối quan hệ quốc tế giữa các xã hội Tolkien trên toàn thế giới và kể từ năm 2003, GTS đã mời các chủ tịch và nữ chủ tịch tham dự sự kiện chính hàng năm của họ, [Tolkien Thing](../T/Tolkien_Thing.md), bao gồm Israel, Hy Lạp, Bỉ và Pháp. Năm 2005, ông đã mời bốn hiệp hội Tolkien châu Âu tham gia một thỏa thuận hữu nghị thông báo cho mỗi thành viên của liên minh để thông báo cho tất cả những thành viên khác về các sự kiện, ấn phẩm, v.v. Pháp, Bỉ và Áo đã tham gia.
+Bülles đặc biệt quan tâm đến mối quan hệ quốc tế giữa các xã hội Tolkien trên toàn thế giới và kể từ năm 2003, GTS đã mời các chủ tịch và nữ chủ tịch tham dự sự kiện chính hàng năm của họ, [Tolkien Thing](../T/Tolkien_Thing.md), bao gồm Israel, Hy Lạp, Bỉ và Pháp. Năm 2005, ông mời bốn hiệp hội Tolkien Châu Âu tham gia một thỏa thuận hữu nghị thông báo cho từng thành viên của liên minh để thông báo cho tất cả những người khác về các sự kiện, ấn phẩm, v.v. Pháp, Bỉ và Áo đã tham gia.
 
-Anh ấy là thành viên danh dự của [Hiệp hội Tolkien Hy Lạp](../G/Greek_Tolkien_Society.md) và đã tham dự *Cair Andros* năm 2007. Anh ấy cũng là thành viên danh dự của [Hiệp hội Tolkien Đức](../G/German_Tolkien_Society.md).
+Anh là thành viên danh dự của [Hiệp hội Tolkien Hy Lạp](../G/Greek_Tolkien_Society.md) và đã tham dự *Cair Andros* vào năm 2007. Anh cũng là thành viên danh dự của [Hiệp hội Tolkien Đức](../G/German_Tolkien_Society.md).
 
 ## Thư mục, đã chọn {#Bibliography,_selected}
 
@@ -68,13 +68,13 @@ Anh ấy là thành viên danh dự của [Hiệp hội Tolkien Hy Lạp](../G/G
     - "Cái chết của một Dunadan"
     - "Cirdan - Một trong những anh hùng vô danh"
 - [2004](../_/2004.md): [*Hither Shore* 1](../H/Hither_Shore_1.md)
-    - "Tolkien Chỉ trích — đã tải lại"
+    - "Chỉ trích Tolkien — đã tải lại"
 - [2006](../_/2006.md): *[J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment](../J/J.R.R._Tolkien_Encyclopedia%253A_Scholarship_and_Critical_Assessment.md)*
     - "Bán hàng", "Thingol"
 - [2010](../_/2010.md): [*Mallorn* 50](Mallorn_50.md)
     - "Hình dung tương lai" (bài xã luận của khách)
 - [2013](../_/2013.md): [*Mallorn* 54](Mallorn_54.md)
-    - "Hành trình đến rạp chiếu phim" (đánh giá *[The Hobbit: An Unexpected Journey](../T/The_Hobbit%253A_An_Unexpected_Journey.md)*)
+    - "Hành trình đến rạp chiếu phim" (đánh giá về *[The Hobbit: An Unexpected Journey](../T/The_Hobbit%253A_An_Unexpected_Journey.md)*)
 - [2020](../_/2020.md): [*Mallorn* 61](Mallorn_61.md)
     - "Oxford, Thành phố New York, Paris: Triển lãm Tolkien 2018-2020"
 

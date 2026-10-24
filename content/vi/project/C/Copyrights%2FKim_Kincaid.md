@@ -15,7 +15,7 @@ sort_keys:
 ---
 
 - Kim Kincaid đã vui lòng cho phép cô sử dụng [tác phẩm nghệ thuật được chọn](../../category/I/Images_by_Kyle_Anderson.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
-    - [Tập tin:Kim Kincaid - Thorin Oakenshield.jpg](../../file/K/Kim_Kincaid_-_Thorin_Oakenshield.jpg.md)
+    - [Tệp:Kim Kincaid - Thorin Oakenshield.jpg](../../file/K/Kim_Kincaid_-_Thorin_Oakenshield.jpg.md)
     - [Tập tin:Kim Kincaid - Destiny's Call.jpg](../../file/K/Kim_Kincaid_-_Destiny's_Call.jpg.md)
 - Ngày: 3 tháng 8 năm 2012
 - Người dùng đã xin phép qua email: [Người dùng:KingAragorn](https://tolkiengateway.net/wiki/User:KingAragorn)

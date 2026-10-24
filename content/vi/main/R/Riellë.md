@@ -26,7 +26,7 @@ Ví dụ:
 
 ## Từ nguyên {#Etymology}
 
-Có thể có [dạng Elvish](../P/Primitive_Elvish.md) nguyên thủy \**rîgellê* từ [Gốc](../S/Sundocarmë.md) [RIG](RIG.md).
+Có thể có [Tiên nguyên thủy](../P/Primitive_Elvish.md) dạng \**rîgellê* từ [Gốc](../S/Sundocarmë.md) [RIG](RIG.md).
 
 Từ *[ría](Ría.md)/[rie](Rie.md)* "vòng hoa" và <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Elle&amp;action=edit&amp;redlink=1" title="Elle (page does not exist)">elle</a></i>.
 
@@ -40,4 +40,4 @@ Từ *[ría](Ría.md)/[rie](Rie.md)* "vòng hoa" và <i><a class="new" href="htt
 </ol></div>
 
 - *[The Languages of Tolkien's Middle-earth](../T/The_Languages_of_Tolkien's_Middle-earth.md)* bởi [Ruth S. Noel](Ruth_S._Noel.md)
-- <a class="external text" href="http://www.uib.no/People/hnohf/qlist.htm" rel="noreferrer noopener" target="_blank">Quenya Danh sách từ ngữ liệu</a> được chỉnh sửa bởi [Helge Fauskanger](../H/Helge_Fauskanger.md)
+- <a class="external text" href="http://www.uib.no/People/hnohf/qlist.htm" rel="noreferrer noopener" target="_blank">Danh sách từ Quenya Corpus</a> được chỉnh sửa bởi [Helge Fauskanger](../H/Helge_Fauskanger.md)

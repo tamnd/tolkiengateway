@@ -60,7 +60,7 @@ Khi *[The Wanderings of Húrin](../T/The_Wanderings_of_Húrin.md)* được vi�
 
 Trong phiên bản trước, Enthor là em trai của [Hunthor](../H/Hunthor.md) và [Manthor](../M/Manthor.md), đồng thời anh là đội trưởng đội cận vệ gần [Brithiach](../B/Brithiach.md) mà [Asgon](../A/Asgon.md) đã gặp.
 
-Tuy nhiên, trong bản thảo cuối cùng, thuyền trưởng *Enthor* đã được thay thế bởi *[Ebor](Ebor.md)*, "tay sai chính của Manthor", và những từ "em trai của Hunthor và Manthor" dự định bị cắt bỏ, theo [Christopher Tolkien](../C/Christopher_Tolkien.md).<sup id="cite_ref-Enthor_1-1" class="reference"><a href="#cite_note-Enthor-1">[1]</a></sup> Ebor mới được đặt tên gọi Manthor là lãnh chúa của mình chứ không phải anh trai, củng cố gợi ý của Christopher.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Tuy nhiên, trong bản thảo cuối cùng, đội trưởng *Enthor* đã được thay thế bởi *[Ebor](Ebor.md)*, "tay sai chính của Manthor", và những từ "em trai của Hunthor và Manthor" dự định bị cắt bỏ, theo [Christopher Tolkien](../C/Christopher_Tolkien.md).<sup id="cite_ref-Enthor_1-1" class="reference"><a href="#cite_note-Enthor-1">[1]</a></sup> Ebor mới được đặt tên gọi Manthor là lãnh chúa của mình chứ không phải anh trai, củng cố gợi ý của Christopher.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

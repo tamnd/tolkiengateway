@@ -35,19 +35,19 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Hobbit_-_The_Desolation_of_Smaug_-_Feren.png.md"><img src="https://tolkiengateway.net/w/images/thumb/3/36/The_Hobbit_-_The_Desolation_of_Smaug_-_Feren.png/320px-The_Hobbit_-_The_Desolation_of_Smaug_-_Feren.png" decoding="async" loading="lazy" width="320" height="216" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/36/The_Hobbit_-_The_Desolation_of_Smaug_-_Feren.png/480px-The_Hobbit_-_The_Desolation_of_Smaug_-_Feren.png 1.5x, https://tolkiengateway.net/w/images/3/36/The_Hobbit_-_The_Desolation_of_Smaug_-_Feren.png 2x" data-file-width="562" data-file-height="379"/></a><figcaption>&#34;Feren&#34; from <i><a href="../T/The_Hobbit%253A_The_Desolation_of_Smaug.md" title="The Hobbit: The Desolation of Smaug">The Hobbit: The Desolation of Smaug</a></i></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../S/Silvan_Elves.md" title="Silvan Elves">Silvan Elf</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Feren</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../W/Woodland_Realm.md" title="Woodland Realm">Woodland Realm</a></td></tr><tr><th scope="row" class="tg-infobox-label">Affiliation</th><td class="tg-infobox-data"><a href="../E/Elves_of_Mirkwood.md" title="Elves of Mirkwood">Elves of Mirkwood</a></td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data"><a href="../E/Elvish.md" title="Elvish">Elvish</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr><tr><th scope="row" class="tg-infobox-label">Hair colour</th><td class="tg-infobox-data">Brown</td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Feren.md" title="Category:Images of Feren">Images of Feren</a></td></tr></tbody></table>
 
-**Feren** là [Tiên](../E/Elves_of_Mirkwood.md) trong số [Vương quốc Rừng](../W/Woodland_Realm.md) xuất hiện trong [*Hobbit* loạt phim](<../T/The_Hobbit_(film_series).md>). Anh ấy do <a class="new" href="https://tolkiengateway.net/w/index.php?title=Simon_London&amp;action=edit&amp;redlink=1" title="Simon London (page does not exist)">Simon London</a>thủ vai.
+**Feren** là một [Yêu tinh](../E/Elves_of_Mirkwood.md) của [Vương quốc rừng](../W/Woodland_Realm.md) xuất hiện trong [*Hobbit* loạt phim](<../T/The_Hobbit_(film_series).md>). Ông do <a class="new" href="https://tolkiengateway.net/w/index.php?title=Simon_London&amp;action=edit&amp;redlink=1" title="Simon London (page does not exist)">Simon London</a>thủ vai.
 
 ## Lịch sử {#History}
 
-Khi phát hiện [Thorin và Đoàn tùy tùng](../T/Thorin_and_Company.md) đã trốn thoát khỏi phòng giam bằng thùng rượu, Feren đã thổi còi báo động cho Tiên tộc canh cổng dẫn vào [River Running](../R/River_Running.md) và ra lệnh cho họ đóng cổng và đưa [Người Lùn](../D/Dwarves.md) về nơi giam giữ.
+Khi phát hiện ra rằng [Thorin và Công ty](../T/Thorin_and_Company.md) đã trốn thoát khỏi phòng giam của họ bằng thùng rượu, Feren đã thổi còi để cảnh báo Yêu tinh đang canh giữ cánh cổng dẫn đến [River Running](../R/River_Running.md) và ra lệnh cho họ đóng cổng và đưa [Người lùn](../D/Dwarves.md) trở lại nơi giam giữ.
 
-Sau đó, Feren được [Thranduil](../T/Thranduil.md) cử đến nơi những người tị nạn [Thị trấn Hồ](../L/Lake-town.md) đang ở để triệu hồi [Legolas](../L/Legolas.md) quay lại [Mirkwood](../M/Mirkwood.md), đồng thời thông báo cho [Tauriel](../T/Tauriel.md) rằng vua yêu tinh đã trục xuất cô khỏi vương quốc.
+Sau đó, Feren được [Thranduil](../T/Thranduil.md) cử đến nơi những người tị nạn [Thị trấn hồ](../L/Lake-town.md) đang ở để triệu hồi [Legolas](../L/Legolas.md) quay lại [Mirkwood](../M/Mirkwood.md), đồng thời thông báo cho [Tauriel](../T/Tauriel.md) rằng vua yêu tinh đã trục xuất cô khỏi vương quốc.
 
-Anh ta cũng là một trong những trung úy của Thranduil trong [Trận chiến Năm Đạo quân](../B/Battle_of_Five_Armies.md).
+Ông ta cũng đóng vai trò là một trong những trung úy của Thranduil trong [Trận chiến của năm đạo quân](../B/Battle_of_Five_Armies.md).
 
 ## Từ nguyên {#Etymology}
 
-Feren là từ Quenya chỉ "sồi" hoặc "cây sồi", có cách viết khác là "fernë."<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Feren là một từ Quenya có nghĩa là "cây sồi" hoặc "cây sồi", có cách viết khác là "fernë."<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Tài liệu tham khảo {#References}
 

@@ -46,11 +46,11 @@ images:
 <dl><dd><dl><dd><dl><dd>*<small><i>Differ from Shire names.</i></small></dd></dl></dd></dl></dd></dl>
 </td></tr></tbody></table>
 
-**Lithe** là tháng thứ sáu trong lịch [Bree](../B/Bree.md), tương ứng với [Forelithe](../F/Forelithe.md) của [Lịch Shire](../S/Shire_Calendar.md)và gần tương ứng với [22 tháng 5](../_/22_May.md) đến [20 tháng 6](../_/20_June.md) hiện đại trong một năm bình thường. Tiếp theo là [Những ngày hè](../S/Summerdays.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Lithe** là tháng thứ sáu trong lịch [Bree](../B/Bree.md), tương ứng với [Forelithe](../F/Forelithe.md) của [Lịch Shire](../S/Shire_Calendar.md) và gần tương ứng với [22 tháng 5](../_/22_May.md) đến [20 tháng 6](../_/20_June.md) hiện đại trong một năm bình thường. Tiếp theo là [Những ngày hè](../S/Summerdays.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-[tiếng Anh cổ](../O/Old_English.md) <i><a class="extiw" href="http://en.wiktionary.org/wiki/li%C3%BEa" title="wiktionary:liþa">líða</a></i>, là tên cũ của tháng Sáu và tháng Bảy.<sup id="cite_ref-Nomen_2-0" class="reference"><a href="#cite_note-Nomen-2">[2]</a></sup> Có lẽ nó ám chỉ đến lần trăng non đầu tiên vào khoảng ngày hạ chí.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> <span></span>
+[Tiếng Anh cổ](../O/Old_English.md) <i><a class="extiw" href="http://en.wiktionary.org/wiki/li%C3%BEa" title="wiktionary:liþa">líða</a></i>, là tên cũ của tháng Sáu và tháng Bảy.<sup id="cite_ref-Nomen_2-0" class="reference"><a href="#cite_note-Nomen-2">[2]</a></sup> Nó có thể ám chỉ ngày trăng non đầu tiên vào khoảng ngày hạ chí.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

@@ -51,6 +51,6 @@ infobox:
 
 ## Từ nhà xuất bản {#From_the_publisher}
 
-Trong Lời nói đầu, Robert Morse khẳng định rằng cả Virgil và Tolkien đều trình bày huyền thoại như một khía cạnh của một chuỗi lịch sử liên tục. Đối với những tác giả này, huyền thoại dường như không đại diện cho sự giả dối, mà dường như nó thuật lại một bản ghi chép kinh nghiệm mà nhân loại học hỏi được từ đó. Như vậy, huyền thoại là... một dạng ký ức. Trong *Evocation of Virgil in Tolkien's Art*, Robert Morse đặt câu hỏi: liệu sự đồng bộ giữa huyền thoại và lịch sử này có phục vụ một mục đích giống nhau ở mỗi tác giả không?
+Trong Lời nói đầu của mình, Robert Morse nói rằng cả Virgil và Tolkien đều trình bày huyền thoại như một khía cạnh của một chuỗi lịch sử liên tục. Đối với những tác giả này, huyền thoại dường như không đại diện cho sự giả dối, mà dường như nó thuật lại một bản ghi chép kinh nghiệm mà nhân loại học hỏi được từ đó. Như vậy, huyền thoại là... một dạng ký ức. Trong *Evocation of Virgil in Tolkien's Art*, Robert Morse đặt câu hỏi: liệu sự đồng bộ giữa huyền thoại và lịch sử này có phục vụ một mục đích giống nhau ở mỗi tác giả không?
 
 Bao gồm mục lục tên riêng từ tác phẩm của cả hai tác giả, mục mục các đoạn văn và thư mục chọn lọc.

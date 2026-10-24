@@ -13,7 +13,7 @@ categories:
   - "Songs by Summoning"
 ---
 
-<i><b>Menegroth</b></i> là một bài hát của ban nhạc [Tolkien metal](../T/Tolkien_metal.md) [Summoning](../S/Summoning.md). Nó xuất hiện trong album dài thứ sáu của họ, [Lời Thề Bound](../O/Oath_Bound.md), phát hành vào [2006](../_/2006.md). Nó xoay quanh [Thingol](../T/Thingol.md), Vua của [Doriath](../D/Doriath.md) và thành phố [Menegroth](Menegroth.md) nơi anh sống.
+<i><b>Menegroth</b></i> là một bài hát của ban nhạc [Tolkien metal](../T/Tolkien_metal.md) [Summoning](../S/Summoning.md). Nó xuất hiện trong album dài thứ sáu của họ, [Oath Bound](../O/Oath_Bound.md), phát hành vào [2006](../_/2006.md). Nó xoay quanh [Thingol](../T/Thingol.md), Vua của [Doriath](../D/Doriath.md) và thành phố [Menegroth](Menegroth.md) nơi ông sống.
 
 ## Lời bài hát {#Lyrics}
 
@@ -39,4 +39,4 @@ Where might and glory wealth untold <br/>
 
 ## Cảm hứng {#Inspiration}
 
-Trong khi bài hát nhắc đến Thingol, lời của câu thứ hai lại tương tự như *[The Fall of Gil-galad](../T/The_Fall_of_Gil-galad.md)*, một bài thơ trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* về [Gil-galad](../G/Gil-galad.md).
+Mặc dù bài hát đề cập đến Thingol nhưng lời của câu thứ hai lại tương tự như *[The Fall of Gil-galad](../T/The_Fall_of_Gil-galad.md)*, một bài thơ trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* về [Gil-galad](../G/Gil-galad.md).

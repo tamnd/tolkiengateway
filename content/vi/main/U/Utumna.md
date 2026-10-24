@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Utumno"
 ---
 
-Chuyển hướng đến [Utumno](Utumno.md).
+Chuyển hướng tới [Utumno](Utumno.md).

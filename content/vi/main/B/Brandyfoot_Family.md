@@ -20,7 +20,7 @@ images:
 
 **Brandyfoot** là một gia đình [Harfoots](../H/Harfoots.md) du hành trong một đoàn lữ hành [lang thang](../W/Wandering_Days.md) do [Sadoc Burrows](../S/Sadoc_Burrows.md) dẫn đầu vào khoảng [Thời đại thứ hai](../S/Second_Age.md).
 
-Họ và các thành viên của nó được [Amazon Studios](../A/Amazon_Studios.md) phát minh cho *[The Lord of the Rings: The Rings of Power](../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Nhóm này và các thành viên của nhóm được [Amazon Studios](../A/Amazon_Studios.md) phát minh cho *[The Lord of the Rings: The Rings of Power](../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Cây phả hệ Brandyfoot {#The_Brandyfoot_Family_Tree}
 

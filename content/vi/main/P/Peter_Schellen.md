@@ -22,17 +22,17 @@ sort_keys:
 
 ## Lịch sử {#History}
 
-Schellen là cựu thủ quỹ và thành viên ủy ban kiểm toán của [Unquendor](../U/Unquendor.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> đồng sáng lập của [Hiệp hội Tolkien Nam Phi Haradrim](<../H/Haradrim_(Tolkien_Society).md>), nhà xuất bản Tolkien tạp chí định kỳ *Voronwë*,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> chủ quán trọ của Unquendor smial [Gondolin](../U/Unquendor.md)và là người ấp ủ [Tolkien xã hội](../T/Tolkien_Societies~67099.md) ở [Slovenia](<../G/Gil-Galad_(Tolkien_Society).md>) và [Israel](../I/Israeli_Tolkien_Society.md).
+Schellen là cựu thủ quỹ và thành viên ủy ban kiểm toán của [Unquendor](../U/Unquendor.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> đồng sáng lập của [Hiệp hội Tolkien Nam Phi Haradrim](<../H/Haradrim_(Tolkien_Society).md>), nhà xuất bản tạp chí định kỳ Tolkien *Voronwë*,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> chủ quán trọ của Unquendor smial [Gondolin](../U/Unquendor.md) và là người ươm tạo [các xã hội Tolkien](../T/Tolkien_Societies~67099.md) ở [Slovenia](<../G/Gil-Galad_(Tolkien_Society).md>) và [Israel](../I/Israeli_Tolkien_Society.md).
 
 Ông cũng là một nhà sưu tầm và một số bài viết của ông đã xuất hiện trên *[Amon Hen](<../A/Amon_Hen_(journal).md>)* và *[Lembas](<../L/Lembas_(journal).md>)*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Nghiên cứu của ông ở Nam Phi đã được tặng cho Unquendor và sau đó được [Renee Vink](../R/Renee_Vink.md) sử dụng trong bài viết của cô về Tolkien và Nam Phi.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Nghiên cứu của ông ở Nam Phi đã được tặng cho Unquendor và sau đó được [Renee Vink](../R/Renee_Vink.md) sử dụng trong bài viết của bà về Tolkien và Nam Phi.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
-Từ năm 1994 đến năm 1996, Schellen cũng xuất bản một tạp chí định kỳ có tên Voronwë viết về nụ cười của mình.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Từ năm 1994 đến năm 1996 Schellen cũng xuất bản một tạp chí định kỳ mang tên Voronwë để viết về nụ cười của mình.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 Schellen trình bày tại các cuộc họp cuối năm của Unquendor và lễ kỷ niệm Forodrim lần thứ 27 vào năm 1996.
 
-Priscilla Tolkien đã ký và tặng Schellen một bộ lịch Tolkien năm 2005 để tri ân công việc của fandom anh ấy ở Nam Phi.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Priscilla Tolkien đã ký và tặng Schellen một cuốn lịch Tolkien năm 2005 để tri ân công việc của cộng đồng fan hâm mộ của ông ở Nam Phi.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 Gần đây hơn, Peter đã ủng hộ bản dịch tiếng Afrikaans của Chúa tể những chiếc nhẫn bằng cách chỉ ra những lỗi dịch thuật.
 

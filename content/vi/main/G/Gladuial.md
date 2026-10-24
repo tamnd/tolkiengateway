@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Nan Elmoth"
 ---
 
-Chuyển hướng đến [Nan Elmoth](../N/Nan_Elmoth.md).
+Chuyển hướng tới [Nan Elmoth](../N/Nan_Elmoth.md).

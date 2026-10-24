@@ -36,7 +36,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tolkien_in_the_New_Century.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/e/ef/Tolkien_in_the_New_Century.jpg/320px-Tolkien_in_the_New_Century.jpg" decoding="async" loading="lazy" width="320" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/e/ef/Tolkien_in_the_New_Century.jpg 1.5x" data-file-width="331" data-file-height="497"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Tolkien in the New Century: Essays in Honor of Tom Shippey</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">John Wm. Houghton, <a href="../J/Janet_Brennan_Croft.md" title="Janet Brennan Croft">Janet Brennan Croft</a>, <a href="../N/Nancy_Martsch.md" title="Nancy Martsch">Nancy Martsch</a>, <a href="../J/John_D._Rateliff.md" title="John D. Rateliff">John D. Rateliff</a> and Robin Anne Reid</td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="../P/Patrick_H._Wynne.md" title="Patrick H. Wynne">Patrick H. Wynne</a> (cover illustration)</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">McFarland</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/30_May.md" title="30 May">30 May</a> <a href="../_/2014.md" title="2014">2014</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Softcover, E-book</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">268</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/978-0-7864-7438-7" title="Special:BookSources/978-0-7864-7438-7">978-0-7864-7438-7</a></td></tr></tbody></table>
 
-<i><b>Tolkien trong Thế kỷ Mới: Các bài luận vinh danh Tom Shippey</b></i> là một <a class="extiw" href="http://en.wikipedia.org/wiki/Festschrift" title="wikipedia:Festschrift">Liên hoan</a> dành cho [Tom Shippey](Tom_Shippey.md), được xuất bản trên tạp chí [2014](../_/2014.md) nhân dịp ông nghỉ hưu từ Walter J. Ong, S.J., Chủ tịch được ưu đãi về Nhân văn tại Đại học St. Louis ở Missouri.
+<i><b>Tolkien trong thế kỷ mới: Các bài luận vinh danh Tom Shippey</b></i> là một <a class="extiw" href="http://en.wikipedia.org/wiki/Festschrift" title="wikipedia:Festschrift">Liên hoan</a> dành cho [Tom Shippey](Tom_Shippey.md), được xuất bản trên tạp chí [2014](../_/2014.md) nhân dịp ông nghỉ hưu từ Walter J. Ong, S.J., Chủ tịch được ưu đãi về Nhân văn tại Đại học St. Louis ở Missouri.
 
 ## Từ nhà xuất bản {#From_the_publisher}
 
@@ -52,33 +52,33 @@ infobox:
 - Các từ viết tắt và các quy ước khác  7
 
 - I. Memoirs
-    - "Tư vấn *Scippigræd*: T.A. Shippey Dạy chúng tôi đọc như thế nào" (John R. Holmes) 11
-    - "Shippey: Nhà ngữ văn và nhà phê bình" ([David Bratman](../D/David_Bratman.md)) 14
+    - "Tư vấn *Scippigræd*: T.A. Shippey dạy chúng tôi đọc như thế nào" (John R. Holmes) 11
+    - "Shippey: Nhà ngữ văn và các nhà phê bình" ([David Bratman](../D/David_Bratman.md)) 14
     - "Tom Shippey, và một vài chiếc lá mới trên một số rễ và cành cũ" (E.L. Risden) 16
     - "Cuộc nói chuyện của Tom Shippey" (Todd Jensen) 20
     - "Tom Shippey và Hội Tolkien" (<a class="new" href="https://tolkiengateway.net/w/index.php?title=Jessica_Yates&amp;action=edit&amp;redlink=1" title="Jessica Yates (page does not exist)">Jessica Yates</a>) 22
     - "Shippey Trong số những người lính đánh thuê" (John Wm. Houghton) 25
 - II. Trả lời câu hỏi
-    - "'Quý bà mặc áo choàng đơn giản và cánh tay trắng' *or* Những ảnh hưởng có thể có của các minh họa sách thế kỷ 19 và đầu thế kỷ 20 đối với tác phẩm của Tolkien([Nancy Martsch](../N/Nancy_Martsch.md)) 29
-    - "Những nơi có những vì sao kỳ lạ: Ảo mộng và không tưởng trong Tolkien'sTrung Địa" (Robert T. Tally, Jr.) 41
-    - "Trung Địa và Vùng đất hoang: Rừng Xanh, Ngày tận thế và Nghị quyết sau chiến tranh" (E.L. Risden) 57
-    - "Những viên ngọc, viên đá, Nhẫn và sự tạo nên ý nghĩa" ([Verlyn Flieger](../V/Verlyn_Flieger.md)) 65
+    - "'Quý cô mặc áo choàng đơn giản và cánh tay trắng' *or* Những ảnh hưởng có thể có của các minh họa sách thế kỷ 19 và đầu thế kỷ 20 đối với tác phẩm của Tolkien ([Nancy Martsch](../N/Nancy_Martsch.md)) 29
+    - "Những nơi có những vì sao kỳ lạ: Ảo mộng và không tưởng ở Trung Địa của Tolkien" (Robert T. Tally, Jr.) 41
+    - "Trung địa và vùng đất hoang: Greenwood, Ngày tận thế và Nghị quyết sau chiến tranh" (E.L. Risden) 57
+    - "Những viên ngọc, viên đá, chiếc nhẫn và sự tạo nên ý nghĩa" ([Verlyn Flieger](../V/Verlyn_Flieger.md)) 65
     - "Tolkien và sự bổ nhiệm" (Leslie Stratyner) 78
 - III. "Những câu hỏi ngữ văn"
     - "Giữ lời khuyên: Lời khuyên trong tiểu thuyết của Tolkien" (John R. Holmes) 87
-    - "Tolkien's Wraiths, Rings và Rồng: Một bài tập về ngôn ngữ học văn học" ([Jason Fisher](../J/Jason_Fisher.md)) 97
-    - "'Anh ấy hát một bài hát ma thuật': Lời nói có sức mạnh trong Trung Địa" (B.S.W. Barootes) 115
+    - "Những bóng ma, những chiếc nhẫn và những con rồng của Tolkien: Một bài tập về ngôn ngữ học văn học" ([Jason Fisher](../J/Jason_Fisher.md)) 97
+    - "'Ông hát một bài hát ma thuật': Lời nói có sức mạnh ở Trung địa" (B.S.W. Barootes) 115
 - IV. “Truyền thống đích thực”
     - "Bên trong văn học: Những khám phá của Tolkien về các thể loại thời trung cổ" ([John D. Rateliff](../J/John_D._Rateliff.md)) 133
-    - "'Kém Sméagol': Gollum bị lưu đày ở *The Lord of the Rings*" (Yvette Kisor) 153
+    - "'Sméagol tội nghiệp': Gollum bị lưu đày ở *The Lord of the Rings*" (Yvette Kisor) 153
     - "Sự hiện diện của quá khứ trong *The Lord of the Rings*" (John B. Marino) 169
     - "Sói đêm, nửa quỷ lùn và xác chết không chịu khuất phục" ([Marjorie Burns](../M/Marjorie_J._Burns.md)) 182
-- V. Perspectives từ Bên ngoài Chu trình
-    - "Vainamoinen inTrung Địa: Sự hiện diện tràn lan của *Kalevala* trong các Chương Bombadil của *The Lord of the Rings*" (David L. Dettman) 197
+- V. Perspectives từ Bên ngoài Chu kỳ
+    - "Vainamoinen ở Trung Địa: Sự hiện diện tràn lan của *Kalevala* trong các Chương Bombadil của *The Lord of the Rings*" (David L. Dettman) 197
     - "'Thiếu lời khuyên không có lòng can đảm': J.R.R. Tolkien Phê phán đạo đức anh hùng trong *The Children of Húrin*" ([Richard C. West](../R/Richard_C._West.md)) 216
     - "'Alone Between the Dark and Light': "The Lay of Aotrou and Itroun" và Bài học từ tương lai *Legendarium*" ([Kristine Larsen](../K/Kristine_Larsen.md)) 221
 
-- Phụ lục: Công việc gần đây—Shippey trên Tolkien Từ năm 2004  235
+- Phụ lục: Công việc gần đây—Shippey trên Tolkien từ năm 2004  235
 - Giới thiệu về người đóng góp  237
 - Lời cảm ơn mở rộng  241
 - Chỉ số  247
@@ -86,7 +86,7 @@ infobox:
 ## Liên kết ngoài {#External_links}
 
 - <a class="external text" href="http://www.mcfarlandbooks.com/book-2.php?id=978-0-7864-7438-7" rel="noreferrer noopener" target="_blank">Trang web chính thức</a>
-- <a class="external text" href="http://www.academia.edu/5644161/Tolkien_in_the_New_Century_Essays_in_Honor_of_Tom_Shippey" rel="noreferrer noopener" target="_blank">Chỉ số thay thế cho <i>Tolkien trong Thế kỷ Mới</i></a> của [Janet Brennan Croft](../J/Janet_Brennan_Croft.md)
+- <a class="external text" href="http://www.academia.edu/5644161/Tolkien_in_the_New_Century_Essays_in_Honor_of_Tom_Shippey" rel="noreferrer noopener" target="_blank">Chỉ mục thay thế cho <i>Tolkien trong thế kỷ mới</i></a> của [Janet Brennan Croft](../J/Janet_Brennan_Croft.md)
 
 <span></span>
 

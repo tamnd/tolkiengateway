@@ -27,11 +27,11 @@ images:
 - Bia của Vua
 - Ngày và đêm (Câu chuyện về Elrenn Walthair và Endereth Tamarel)
 - Người Đàn Ông Trong Rừng
-- Ngọt ngào Goldberry
-- Mirkwood
+- Quả vàng ngọt ngào
+- Cây rừng tối
 - Mithrandir
 - Con quỷ già
 - Quỷ già và cô gái
-- Người lùn và Orc (Truyện Về Balin Râu Dài)
+- Người lùn và Orc (Câu chuyện về bộ râu dài của Balin)
 - Không có vương miện cho Balin
-- Balin Râu dài
+- Balin Râu Dài

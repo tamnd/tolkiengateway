@@ -17,19 +17,19 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Angus_McBride_-_Osgiliath_stone.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/f8/Angus_McBride_-_Osgiliath_stone.jpg/200px-Angus_McBride_-_Osgiliath_stone.jpg" decoding="async" loading="lazy" width="200" height="171" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/f/f8/Angus_McBride_-_Osgiliath_stone.jpg 1.5x" data-file-width="296" data-file-height="253"/></a><figcaption><i>Palantír of Osgiliath</i> by <a href="../A/Angus_McBride.md" title="Angus McBride">Angus McBride</a></figcaption></figure>
 
-Viên đá **Chủ nhân của Osgiliath**<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> có lẽ là viên đá lớn nhất trong số bảy viên *[palantíri](../P/Palantíri.md)* mà [Những người trung thành](../F/Faithful.md) mang đến [Trung Địa](Middle-earth.md) từ [Númenor](../N/Númenor.md).<sup id="cite_ref-Palantiri_2-0" class="reference"><a href="#cite_note-Palantiri-2">[2]</a></sup>
+**Viên đá chủ yếu của Osgiliath**<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> có lẽ là viên đá vĩ đại nhất trong số bảy *[palantíri](../P/Palantíri.md)* mà [Những người trung thành](../F/Faithful.md) mang đến [Trung địa](Middle-earth.md) từ [Númenor](../N/Númenor.md).<sup id="cite_ref-Palantiri_2-0" class="reference"><a href="#cite_note-Palantiri-2">[2]</a></sup>
 
-Đó cũng là *palantír* duy nhất có thể được sử dụng để bí mật nghe liên lạc giữa những người dùng của *palantíri*kia.<sup id="cite_ref-Palantiri_2-1" class="reference"><a href="#cite_note-Palantiri-2">[2]</a></sup>
+Đó cũng là *palantír* duy nhất có thể được sử dụng để bí mật nghe liên lạc giữa những người dùng của *palantíri* kia.<sup id="cite_ref-Palantiri_2-1" class="reference"><a href="#cite_note-Palantiri-2">[2]</a></sup>
 
-*palantír* được tổ chức tại [Tháp mái vòm](../D/Dome_of_Stars.md) ở [Osgiliath](../O/Osgiliath.md),<sup id="cite_ref-Gondor_3-0" class="reference"><a href="#cite_note-Gondor-3">[3]</a></sup> cố đô [Gondor](../G/Gondor.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+*palantír* được tổ chức tại [Tháp mái vòm](../D/Dome_of_Stars.md) ở [Osgiliath](../O/Osgiliath.md),<sup id="cite_ref-Gondor_3-0" class="reference"><a href="#cite_note-Gondor-3">[3]</a></sup> cố đô của [Gondor](../G/Gondor.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Lịch sử {#History}
 
-Trong khi hầu hết *palantíri* đều nhỏ và có thể di chuyển được thì Viên đá Osgiliath lại lớn hơn nhiều và không một người đàn ông nào có thể nhấc lên được.<sup id="cite_ref-Palantiri_2-2" class="reference"><a href="#cite_note-Palantiri-2">[2]</a></sup>
+Trong khi hầu hết *palantíri* đều nhỏ và có thể di chuyển được thì Hòn đá Osgiliath lại lớn hơn nhiều và không một người đàn ông nào có thể nhấc lên được.<sup id="cite_ref-Palantiri_2-2" class="reference"><a href="#cite_note-Palantiri-2">[2]</a></sup>
 
-Tuy nhiên, viên đá thấy lớn nhất cũng là viên bị mất đầu tiên. Sau cái chết của Vua [Valacar](../V/Valacar.md) một cuộc nội chiến được gọi là [Kin-strife](../K/Kin-strife~3650.md) bắt đầu giữa phiến quân do [Castamir](../C/Castamir.md) lãnh đạo và các lực lượng trung thành với Vua [Eldacar](<../E/Eldacar_(King_of_Gondor).md>) mới ở [T.A.](../T/Third_Age.md) [1432](../T/Third_Age_1432.md).<sup id="cite_ref-Appendix_5-0" class="reference"><a href="#cite_note-Appendix-5">[5]</a></sup>
+Tuy nhiên, viên đá thấy lớn nhất cũng là viên bị mất đầu tiên. Sau cái chết của Vua [Valacar](../V/Valacar.md), một cuộc nội chiến được gọi là [Kin-strife](../K/Kin-strife~3650.md) bắt đầu giữa phiến quân do [Castamir](../C/Castamir.md) lãnh đạo và các lực lượng trung thành với Vua mới [Eldacar](<../E/Eldacar_(King_of_Gondor).md>) ở [T.A.](../T/Third_Age.md) [1432](../T/Third_Age_1432.md).<sup id="cite_ref-Appendix_5-0" class="reference"><a href="#cite_note-Appendix-5">[5]</a></sup>
 
-Trong cuộc nội chiến ở [T.A.](../T/Third_Age.md) [1437](../T/Third_Age_1437.md),<sup id="cite_ref-Appendix_5-1" class="reference"><a href="#cite_note-Appendix-5">[5]</a></sup> thành phố Osgiliath bị quân nổi dậy bao vây và đốt cháy, [Tháp Mái Vòm](../D/Dome_of_Stars.md) của Osgiliath bị phá hủy và Hòn đá bị mất tích trong nước Sông [Anduin](../A/Anduin.md).<sup id="cite_ref-Gondor_3-1" class="reference"><a href="#cite_note-Gondor-3">[3]</a></sup>
+Trong cuộc nội chiến ở [T.A.](../T/Third_Age.md) [1437](../T/Third_Age_1437.md),<sup id="cite_ref-Appendix_5-1" class="reference"><a href="#cite_note-Appendix-5">[5]</a></sup> thành phố Osgiliath bị quân nổi dậy bao vây và đốt cháy, [Tháp Mái vòm](../D/Dome_of_Stars.md) của Osgiliath bị phá hủy và Hòn đá bị mất tích trong nước của Sông [Anduin](../A/Anduin.md).<sup id="cite_ref-Gondor_3-1" class="reference"><a href="#cite_note-Gondor-3">[3]</a></sup>
 
 <table style="margin: 0 auto;" class="toccolours" align="center">
 <tbody><tr>

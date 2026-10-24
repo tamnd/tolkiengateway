@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Thorin's letter"
 ---
 
-Chuyển hướng đến [Thorin thư của](Thorin's_letter.md).
+Chuyển hướng đến [bức thư của Thorin](Thorin's_letter.md).

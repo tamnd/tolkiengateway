@@ -30,7 +30,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Lyle Leach, một độc giả, đã nhờ Tolkien hỗ trợ viết một dự án học thuật về tác phẩm của mình. Tolkien từ chối, nói rằng anh ấy không thích phân tích.
+Lyle Leach, một độc giả, đã nhờ Tolkien hỗ trợ viết một dự án học thuật về tác phẩm của mình. Tolkien từ chối, nói rằng ông không thích phân tích.
 
 <br>
 

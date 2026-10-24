@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Inland Sea (The Book of Lost Tales)"
 ---
 
-Chuyển hướng tới [Nội địa Biển (The Book of Lost Tales)](<../I/Inland_Sea_(The_Book_of_Lost_Tales).md>).
+Chuyển hướng đến [Biển nội địa (Cuốn sách về những câu chuyện đã mất)](<../I/Inland_Sea_(The_Book_of_Lost_Tales).md>).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Uglúk"
 ---
 
-Chuyển hướng đến [Uglúk](Uglúk.md).
+Chuyển hướng tới [Uglúk](Uglúk.md).

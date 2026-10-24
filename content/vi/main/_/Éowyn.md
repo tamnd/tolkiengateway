@@ -90,9 +90,9 @@ infobox:
 <p class="tg-quote-footer"><cite>Éowyn and the <a href="../W/Witch-king.md" title="Witch-king">Witch-king</a>, <i><a href="../T/The_Return_of_the_King.md" title="The Return of the King">The Return of the King</a></i>, &#34;<a href="../T/The_Battle_of_the_Pelennor_Fields.md" title="The Battle of the Pelennor Fields">The Battle of the Pelennor Fields</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div></center>
 
-**Éowyn** là thành viên của [Nhà Eorl](../H/House_of_Eorl.md) và là cháu gái của Vua [Théoden](../T/Théoden.md) của [Rohan](../R/Rohan.md). Cô ấy nổi tiếng vì đã tiêu diệt [Vua Phù thủy của Angmar](../W/Witch-king_of_Angmar~30551.md). Cô là con gái của [Théodwyn](../T/Théodwyn.md), em gái của Théoden, và [Éomund](Éomund.md) của [Eastfold](../E/Eastfold.md); anh trai cô ấy là [Éomer](Éomer.md). Sau khi [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md) kết thúc, cô và [Faramir](../F/Faramir.md) kết hôn và sinh ra một con trai, [Elboron](../E/Elboron.md).<sup id="cite_ref-Mark_4-0" class="reference"><a href="#cite_note-Mark-4">[3]</a></sup>
+**Éowyn** là thành viên của [Gia tộc Eorl](../H/House_of_Eorl.md) và là cháu gái của Vua [Théoden](../T/Théoden.md) của [Rohan](../R/Rohan.md). Cô nổi tiếng vì đã tiêu diệt [Vua phù thủy của Angmar](../W/Witch-king_of_Angmar~30551.md). Cô là con gái của [Théodwyn](../T/Théodwyn.md), em gái của Théoden, và [Éomund](Éomund.md) của [Eastfold](../E/Eastfold.md); anh trai bà là [Éomer](Éomer.md). Sau khi [War of the Ring](../W/War_of_the_Ring.md) kết thúc, cô và [Faramir](../F/Faramir.md) kết hôn và sinh ra một con trai, [Elboron](../E/Elboron.md).<sup id="cite_ref-Mark_4-0" class="reference"><a href="#cite_note-Mark-4">[3]</a></sup>
 
-Cô còn được gọi là Quý cô Rohan, Quý cô cầm khiên, Quý cô áo trắng Rohan,<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[note 2]</a></sup> và Quý cô [Ithilien](../I/Ithilien.md).
+Cô còn được biết đến với cái tên Công chúa Rohan, Công chúa cầm khiên, Công chúa áo trắng của Rohan<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[note 2]</a></sup> và Công chúa [Ithilien](../I/Ithilien.md).
 
 ## Lịch sử {#History}
 
@@ -102,47 +102,47 @@ Cô còn được gọi là Quý cô Rohan, Quý cô cầm khiên, Quý cô áo 
 <p class="tg-quote-footer"><cite><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a> and Éowyn, <i><a href="../T/The_Return_of_the_King.md" title="The Return of the King">The Return of the King</a></i>, &#34;<a href="../T/The_Passing_of_the_Grey_Company.md" title="The Passing of the Grey Company">The Passing of the Grey Company</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-Sau cái chết của cha mẹ cô vào [T.A.](../T/Third_Age.md) [3002](../T/Third_Age_3002.md), Éowyn và Éomer được đưa vào nhà của Théoden và lớn lên ở đó. Éowyn lớn lên cao gầy, mang trong mình nét duyên dáng và kiêu hãnh từ mẹ.<sup id="cite_ref-Mark_4-1" class="reference"><a href="#cite_note-Mark-4">[3]</a></sup>
+Sau cái chết của cha mẹ cô vào năm [T.A.](../T/Third_Age.md) [3002](../T/Third_Age_3002.md), Éowyn và Éomer được đưa vào nhà Théoden và lớn lên ở đó. Éowyn lớn lên cao và mảnh mai, mang trong mình nét duyên dáng và kiêu hãnh từ mẹ.<sup id="cite_ref-Mark_4-1" class="reference"><a href="#cite_note-Mark-4">[3]</a></sup>
 
-Trước [Trận Hornburg](../B/Battle_of_the_Hornburg.md), Éowyn được giao cho [Meduseld](../M/Meduseld.md) chăm sóc khi Théoden và Éomer dẫn đầu [Rohirrim](../R/Rohirrim.md) còn lại về phía tây. Vua Théoden chỉ định người cai trị Rohan của cô ấy khi anh ấy và Éomer vắng mặt khi [Háma](../H/Háma.md) đề xuất rằng một trong "Gia tộc Eorl" nên cai trị. Lúc đầu, Théoden chỉ nghĩ đến những người đàn ông trong nhà mình, trong đó anh và Éomer là những người cuối cùng, nhưng Háma đã nhắc nhở Vua về Éowyn, người "không hề sợ hãi" và "tất cả đều yêu cô ấy".<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[4]</a></sup>
+Trước [Trận chiến Hornburg](../B/Battle_of_the_Hornburg.md), Éowyn được giao nhiệm vụ chăm sóc [Meduseld](../M/Meduseld.md) khi Théoden và Éomer dẫn [Rohirrim](../R/Rohirrim.md) còn lại về phía tây. Vua Théoden chỉ định cô là người cai trị Rohan khi ông và Éomer vắng mặt khi [Háma](../H/Háma.md) đề xuất rằng một trong những "Gia tộc Eorl" nên cai trị. Lúc đầu, Théoden chỉ nghĩ đến những người đàn ông trong nhà mình, trong đó anh và Éomer là những người cuối cùng, nhưng Háma đã nhắc nhở Vua Éowyn, người “không biết sợ hãi” và rằng “tất cả đều yêu bà”.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[4]</a></sup>
 
-Éowyn bộc lộ khí chất của mình khi [Aragorn](../A/Aragorn.md) cưỡi ngựa vào núi và đi theo [Con đường của người chết](../P/Paths_of_the_Dead.md). Không thể khuyên can anh, cô muốn đi cùng anh, tuyên bố mình "mệt mỏi vì phải trốn trên đồi" với "mong muốn đối mặt với nguy hiểm và trận chiến". Tuy nhiên, Aragorn nhắc nhở cô về trách nhiệm cai trị dân chúng cho đến khi nhà vua trở về và rời đi mà không có cô.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[5]</a></sup>
+Éowyn bộc lộ tính khí của mình khi [Aragorn](../A/Aragorn.md) cưỡi ngựa vào núi và đi theo [Con đường của người chết](../P/Paths_of_the_Dead.md). Không thể khuyên can anh, cô muốn đi cùng anh, tuyên bố mình "mệt mỏi vì phải trốn trên đồi" với "mong muốn đối mặt với nguy hiểm và trận chiến". Tuy nhiên, Aragorn nhắc nhở cô về trách nhiệm cai trị dân chúng cho đến khi nhà vua trở về và rời đi mà không có cô.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[5]</a></sup>
 
 <figure class="mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Matt_Stewart_-_Dernhelm.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/fb/Matt_Stewart_-_Dernhelm.jpg/250px-Matt_Stewart_-_Dernhelm.jpg" decoding="async" loading="lazy" width="250" height="306" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/fb/Matt_Stewart_-_Dernhelm.jpg/375px-Matt_Stewart_-_Dernhelm.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/f/fb/Matt_Stewart_-_Dernhelm.jpg/500px-Matt_Stewart_-_Dernhelm.jpg 2x" data-file-width="843" data-file-height="1032"/></a><figcaption><a href="../M/Matt_Stewart.md" title="Matt Stewart">Matt Stewart</a> - <i>Dernhelm</i></figcaption></figure>
 
-Sau đó, khi lực lượng của Rohan được tập trung để đi đến Gondor, Éowyn cải trang thành nam giới và dưới bí danh **[Dernhelm](../D/Dernhelm.md)**, đi cùng các Kỵ sĩ của Rohan, mang theo [Merry](../M/Meriadoc_Brandybuck.md), người cũng được lệnh ở lại phía sau.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[6]</a></sup>
+Sau đó, khi lực lượng của Rohan được tập trung để tới Gondor, Éowyn cải trang thành nam giới và dưới bí danh **[Dernhelm](../D/Dernhelm.md)**, du hành cùng các Kỵ sĩ của Rohan, mang theo [Merry](../M/Meriadoc_Brandybuck.md), người cũng được lệnh ở lại phía sau.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[6]</a></sup>
 
-Trong [Trận chiến trên Cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md), cô đã chiến đấu với Vua Théoden, và khi anh ta bị Vua Phù thủy của Angmar hạ gục, cô đã tự mình bảo vệ Vua Rohan. Đối mặt với Vua Phù thủy, người khoe khoang rằng "không có người sống nào có thể cản trở tôi", cô cởi mũ bảo hiểm, để lộ mái tóc vàng dài và tuyên bố:
+Trong [Trận chiến trên cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md), cô đã chiến đấu với Vua Théoden và khi ông bị Vua phù thủy của Angmar đánh bại, cô đã tự mình bảo vệ Vua Rohan. Đối mặt với Vua phù thủy, người khoe khoang rằng "không có người sống nào có thể cản trở tôi", cô cởi mũ bảo hiểm, để lộ mái tóc vàng dài và tuyên bố:
 
 > *"Tôi không phải là đàn ông sống! Bạn nhìn vào một người phụ nữ."*
 
-Mặc dù anh rất nghi ngờ về việc cô ra mắt, nhưng Vua Phù thủy đã chiến đấu với cô, dùng chùy của mình làm gãy khiên và cánh tay của cô. Tuy nhiên, trước khi anh có thể hạ gục cô, Merry, người không được Vua Phù thủy chú ý, đã dùng [Barrow-blade](../D/Daggers_of_Westernesse.md) đánh vào sau đầu gối anh, làm tê liệt hồn ma và tạo cơ hội cho Éowyn đâm thanh kiếm của cô vào giữa vương miện và áo choàng, khiến lưỡi kiếm bị gãy. Do đó, Éowyn đã tiêu diệt Vua Phù thủy với sự trợ giúp của Merry và rơi vào kẻ thù đã ngã xuống của cô, dường như đã chết.<sup id="cite_ref-Battle_3-2" class="reference"><a href="#cite_note-Battle-3">[2]</a></sup>
+Mặc dù rất nghi ngờ về việc cô ra mắt, Vua phù thủy đã chiến đấu với cô, dùng chùy đánh gãy khiên và cánh tay của cô. Tuy nhiên, trước khi ông ta có thể hạ gục bà ta, Merry, người không được Vua phù thủy để ý đến, đã dùng [Barrow-blade](../D/Daggers_of_Westernesse.md) đánh vào sau đầu gối ông ta, làm tê liệt hồn ma và tạo cơ hội cho Éowyn đâm thanh kiếm của cô vào giữa vương miện và áo choàng, khiến lưỡi kiếm bị gãy. Vì vậy, Éowyn đã giết Vua phù thủy với sự trợ giúp của Merry, và tấn công kẻ thù đã ngã xuống của cô, dường như đã chết.<sup id="cite_ref-Battle_3-2" class="reference"><a href="#cite_note-Battle-3">[2]</a></sup>
 
 Cô đã được phong tặng danh hiệu "Quý cô cầm khiên" sau trận chiến để ghi nhận chiến công của cô, vì cánh tay khiên của cô đã bị gãy trong trận chiến.<sup id="cite_ref-Battle_3-3" class="reference"><a href="#cite_note-Battle-3">[2]</a></sup>
 
-Ngay sau đó, Éomer tìm thấy Éowyn bên cạnh Théoden, và tin rằng cả em gái mình và Vua đều đã chết, anh vô cùng đau buồn và giận dữ. Giành lấy vương quyền của Rohan, ông ra lệnh đưa Théoden và Éowyn về Hoàng thành. Éowyn đã được đưa đi cùng với Théoden trong danh dự, vì cô ấy đã rơi vào giấc ngủ như chết từ [Hơi Thở Đen](../B/Black_Breath.md) và được cho là đã chết. Tuy nhiên, [Thân vương Imrahil](../I/Imrahil.md) nhận ra rằng cô ấy vẫn còn sống và thay vào đó ra lệnh đưa cô ấy đến [Nhà chữa bệnh](../H/Houses_of_Healing.md), nơi cô ấy sẽ nhận được sự giúp đỡ.<sup id="cite_ref-Battle_3-4" class="reference"><a href="#cite_note-Battle-3">[2]</a></sup>
+Ngay sau đó, Éomer tìm thấy Éowyn bên cạnh Théoden, và tin rằng cả em gái mình và Nhà vua đều đã chết, Éomer vô cùng đau buồn và giận dữ. Giành lấy vương quyền của Rohan, ông ra lệnh đưa Théoden và Éowyn về Hoàng thành. Éowyn được đưa đi cùng với Théoden trong danh dự, vì bà đã chìm vào giấc ngủ như chết vì [Hơi thở đen](../B/Black_Breath.md), và được cho là đã chết. Tuy nhiên, [Hoàng tử Imrahil](../I/Imrahil.md) nhận ra rằng cô vẫn còn sống và thay vào đó ra lệnh đưa cô đến [Nhà chữa bệnh](../H/Houses_of_Healing.md), nơi cô sẽ nhận được sự giúp đỡ.<sup id="cite_ref-Battle_3-4" class="reference"><a href="#cite_note-Battle-3">[2]</a></sup>
 
 <figure class="mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Brothers_Hildebrandt_-_The_Healing_of_Éowyn.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/33/The_Brothers_Hildebrandt_-_The_Healing_of_%C3%89owyn.jpg/200px-The_Brothers_Hildebrandt_-_The_Healing_of_%C3%89owyn.jpg" decoding="async" loading="lazy" width="200" height="152" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/33/The_Brothers_Hildebrandt_-_The_Healing_of_%C3%89owyn.jpg/300px-The_Brothers_Hildebrandt_-_The_Healing_of_%C3%89owyn.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/3/33/The_Brothers_Hildebrandt_-_The_Healing_of_%C3%89owyn.jpg/400px-The_Brothers_Hildebrandt_-_The_Healing_of_%C3%89owyn.jpg 2x" data-file-width="1300" data-file-height="988"/></a><figcaption>&#34;The Healing of Éowyn&#34; by <a href="../T/The_Brothers_Hildebrandt.md" title="The Brothers Hildebrandt">The Brothers Hildebrandt</a></figcaption></figure>
 
-Éowyn bị thương nặng, và vì Hơi Thở Đen của Nazgûl nên cô phải đối mặt với cái chết; tuy nhiên, cô ấy đã được Aragorn điều trị ngay sau đó trong thời gian ngắn ngủi anh ấy đến [Minas Tirith](../M/Minas_Tirith.md). Sau một thời gian, cô tỉnh lại và vì vẫn chưa bình phục hoàn toàn nên cô không được phép tham gia [Đạo quân Phương Tây](../A/Army_of_the_West.md) sẽ hành quân vào [Mordor](../M/Mordor.md). Tuy nhiên, trong khi hồi phục tại Nhà chữa bệnh, cô đã gặp Faramir, người mà sau này cô yêu.<sup id="cite_ref-Steward_9-0" class="reference"><a href="#cite_note-Steward-9">[7]</a></sup>
+Éowyn bị thương nặng, và vì Hơi thở đen của Nazgûl, cô phải đối mặt với cái chết nhất định; tuy nhiên, cô đã được Aragorn chữa trị ngay sau đó trong chuyến lưu trú ngắn ngủi của anh tới [Minas Tirith](../M/Minas_Tirith.md). Sau một thời gian, cô tỉnh lại và vì vẫn chưa bình phục hoàn toàn nên cô không được phép tham gia [Chủ nhà phương Tây](../A/Army_of_the_West.md) sẽ hành quân đến [Mordor](../M/Mordor.md). Tuy nhiên, trong khi hồi phục tại Nhà chữa bệnh, cô gặp Faramir, người mà sau này cô yêu.<sup id="cite_ref-Steward_9-0" class="reference"><a href="#cite_note-Steward-9">[7]</a></sup>
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Magdalena_Olechny_-_Eowyn_and_Faramir.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/75/Magdalena_Olechny_-_Eowyn_and_Faramir.jpg/200px-Magdalena_Olechny_-_Eowyn_and_Faramir.jpg" decoding="async" loading="lazy" width="200" height="284" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/75/Magdalena_Olechny_-_Eowyn_and_Faramir.jpg/300px-Magdalena_Olechny_-_Eowyn_and_Faramir.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/7/75/Magdalena_Olechny_-_Eowyn_and_Faramir.jpg/400px-Magdalena_Olechny_-_Eowyn_and_Faramir.jpg 2x" data-file-width="760" data-file-height="1080"/></a><figcaption><i>Eowyn and Faramir</i> by <a href="../../category/I/Images_by_Magdalena_Olechny.md" title="Category:Images by Magdalena Olechny">Magdalena Olechny</a></figcaption></figure>
 
-Sau thất bại [Sauron](../S/Sauron.md) và lễ kỷ niệm, vào ngày [8 tháng 5](8_May.md) cô theo anh trai mình, hiện Vua Rohan, trở về nhà ở [Edoras](../E/Edoras.md).<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[8]</a></sup>
+Sau thất bại của [Sauron](../S/Sauron.md) và các lễ kỷ niệm, vào [8 tháng 5](8_May.md) cô theo anh trai mình, hiện là Vua của Rohan, trở về nhà ở [Edoras](../E/Edoras.md).<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[8]</a></sup>
 
-Sau đó, Éowyn định cư ở [Ithilien](../I/Ithilien.md), trong đó Faramir được đưa ra phán quyết Thân vương. Sau đó, cô được biết đến với cái tên *Lady of Ithilien*.<sup id="cite_ref-Steward_9-1" class="reference"><a href="#cite_note-Steward-9">[7]</a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[note 3]</a></sup> Éowyn và Faramir đã kết hôn và cùng nhau sống trên những ngọn đồi ở [Emyn Arnen](../E/Emyn_Arnen.md) ở Ithilien.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[9]</a></sup> Cô vẫn giữ tình bạn với Merry và khi anh trở thành [Bậc thầy của Buckland](../M/Master_of_Buckland.md) ở [Kỷ Đệ Tứ](../F/Fourth_Age.md) [11](../F/Fourth_Age_11.md), cô đã gửi cho anh những món quà tuyệt vời, cô cũng vậy anh trai từ Rohan.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[10]</a></sup>
+Sau đó, Éowyn định cư ở [Ithilien](../I/Ithilien.md), nơi Faramir được phong làm Hoàng tử cai trị. Sau đó, cô được biết đến với cái tên *Lady of Ithilien*.<sup id="cite_ref-Steward_9-1" class="reference"><a href="#cite_note-Steward-9">[7]</a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[note 3]</a></sup> Éowyn và Faramir đã kết hôn và cùng nhau sống trên những ngọn đồi của [Emyn Arnen](../E/Emyn_Arnen.md) ở Ithilien.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[9]</a></sup> Cô vẫn giữ tình bạn với Merry và khi anh trở thành [Chủ nhân của Buckland](../M/Master_of_Buckland.md) ở [Fo.A.](../F/Fourth_Age.md) [11](../F/Fourth_Age_11.md), cô đã gửi cho anh những món quà tuyệt vời, anh trai cô cũng vậy. từ Rohan.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[10]</a></sup>
 
-Họ có ít nhất một con trai (có thể là [Elboron](../E/Elboron.md)),<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[11]</a></sup> và cháu trai của họ là [Barahir](<../B/Barahir_(grandson_of_Faramir).md>), người đã viết *[The Tale of Aragorn and Arwen](../T/The_Tale_of_Aragorn_and_Arwen.md)* trong Kỷ Đệ Tứ.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[12]</a></sup>
+Họ có ít nhất một con trai (có thể là [Elboron](../E/Elboron.md)),<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[11]</a></sup> và cháu trai của họ là [Barahir](<../B/Barahir_(grandson_of_Faramir).md>), người đã viết *[The Tale of Aragorn and Arwen](../T/The_Tale_of_Aragorn_and_Arwen.md)* vào Thời đại thứ tư.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[12]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Éowyn* có nghĩa là "Niềm vui của ngựa" hoặc "người yêu ngựa" trong [tiếng Anh cổ](../O/Old_English.md) (là sự kết hợp giữa tên của cha mẹ cô: [Éomund](Éomund.md) và [Théodwyn](../T/Théodwyn.md)),<sup id="cite_ref-Intro_16-0" class="reference"><a href="#cite_note-Intro-16">[13]</a></sup> ngôn ngữ [Tolkien](../J/J.R.R._Tolkien.md) được điều chỉnh để đại diện cho [Rohanese](../R/Rohanese.md).<sup id="cite_ref-L144_17-0" class="reference"><a href="#cite_note-L144-17">[14]</a></sup>
+*Éowyn* có nghĩa là "Niềm vui của ngựa" hoặc "người yêu ngựa" trong [tiếng Anh cổ](../O/Old_English.md) (là sự kết hợp giữa tên của cha mẹ cô: [Éomund](Éomund.md) và [Théodwyn](../T/Théodwyn.md)),<sup id="cite_ref-Intro_16-0" class="reference"><a href="#cite_note-Intro-16">[13]</a></sup> ngôn ngữ [Tolkien](../J/J.R.R._Tolkien.md) được điều chỉnh để đại diện cho [tiếng Rohan](../R/Rohanese.md).<sup id="cite_ref-L144_17-0" class="reference"><a href="#cite_note-L144-17">[14]</a></sup>
 
 Éo- nghe giống như "eh-ah" với chữ "ah" vừa được phát âm, trong khi *y* là *u*,<sup id="cite_ref-Umlaut_2-1" class="reference"><a href="#cite_note-Umlaut-2">[1]</a></sup> được sửa đổi, ít nhiều giống *u* trong tiếng Pháp *lune*.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[15]</a></sup>
 
 ## Tên khác {#Other_names}
 
-Danh hiệu "Quý cô áo trắng của Rohan" được Faramir trao cho Éowyn của Rohan khi họ cùng nhau nhìn ra từ các bức tường của Minas Tirith và nhìn thấy đám mây khổng lồ bay lên trên Mordor vào lúc Sauron<sup id="cite_ref-Steward_9-2" class="reference"><a href="#cite_note-Steward-9">[7]</a></sup> rơi vào [25 tháng 3](25_March.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md).<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[16]</a></sup>
+Danh hiệu "Quý cô Trắng của Rohan" được Faramir trao cho Éowyn xứ Rohan khi họ cùng nhau nhìn ra từ những bức tường của Minas Tirith và nhìn thấy đám mây khổng lồ bay lên phía trên Mordor vào lúc Sauron<sup id="cite_ref-Steward_9-2" class="reference"><a href="#cite_note-Steward-9">[7]</a></sup> sụp đổ vào [25 tháng 3](25_March.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md).<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[16]</a></sup>
 
 ## Phả hệ {#Genealogy}
 
@@ -158,15 +158,15 @@ Danh hiệu "Quý cô áo trắng của Rohan" được Faramir trao cho Éowyn 
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong một ghi chú ban đầu, Éowyn ban đầu được biết đến với cái tên "*Eowyn Elfsheen daughter of Theoden*".<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[17]</a></sup> Trong bản phác thảo đầu tiên về ngoại hình của mình, cô được chia thành hai nhân vật: Éowyn, em gái của Éomer và [Idis](../I/Idis.md), con gái của Théoden. Tolkien cuối cùng đã loại bỏ Idis vì Éowyn làm lu mờ cô ấy và dự định Éowyn kết hôn với Aragorn khi anh trở thành Vua Gondor. Tuy nhiên, Tolkien cắt bỏ câu chuyện tình yêu, quyết định biến Éowyn thành "*chị em song sinh của Eomund, một phụ nữ Amazon nghiêm khắc*", và có thể chết để cứu hoặc trả thù Théoden.<sup id="cite_ref-King_21-0" class="reference"><a href="#cite_note-King-21">[18]</a></sup>
+Trong một ghi chú ban đầu, Éowyn ban đầu được biết đến với cái tên "*Eowyn Elfsheen daughter of Theoden*".<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[17]</a></sup> Trong bản phác thảo đầu tiên về ngoại hình của mình, cô được chia thành hai nhân vật: Éowyn, em gái của Éomer, và [Idis](../I/Idis.md), con gái của Théoden. Tolkien cuối cùng đã loại bỏ Idis vì Éowyn làm lu mờ bà, và lên kế hoạch để Éowyn kết hôn với Aragorn khi anh trở thành Vua của Gondor. Tuy nhiên, Tolkien đã cắt bỏ câu chuyện tình yêu, quyết định biến Éowyn thành "*em gái song sinh của Eomund, một phụ nữ Amazon nghiêm khắc*", và có thể chết để cứu hoặc trả thù cho Théoden.<sup id="cite_ref-King_21-0" class="reference"><a href="#cite_note-King-21">[18]</a></sup>
 
 ## Phân tích {#Analysis}
 
-Cũng giống như MacDuff khiến <a class="external text" href="http://en.wikisource.org/wiki/The_Tragedy_of_Macbeth" rel="noreferrer noopener" target="_blank">Macbeth</a> bối rối khi tiết lộ rằng anh ta không phải là "người phụ nữ sinh ra", Lady Éowyn đã tìm ra kẽ hở trong lời tiên tri 1.000 năm tuổi của [Glorfindel](../G/Glorfindel.md), ứng nghiệm rằng Vua Phù thủy sẽ không bị giết bởi một người đàn ông. Tuy nhiên, Vua Phù thủy thực sự đã đọc sai lời tiên tri: anh ta nói rằng "không có người sống nào có thể cản trở tôi", mặc dù lời tiên tri thực sự nói rằng "anh ta sẽ không rơi vào tay *man*." Lời tiên tri của<sup id="cite_ref-Gondor_22-0" class="reference"><a href="#cite_note-Gondor-22">[19]</a></sup> Glorfindel, không giống như phiên bản của anh ta, ngụ ý rằng Vua Phù thủy sẽ không rơi vào tay một người đàn ông. Trong văn bản của Tolkien, nam và nữ chỉ đơn giản áp dụng cho giới tính của bất kỳ chủng tộc Trung Địa nào. Chỉ khi anh ấy viết hoa Man thì nó mới biểu thị chủng tộc Con Người. Vua Phù thủy có thể đã không nhận ra rằng lời tiên tri chỉ dành cho nam giới, do đó, anh ta đã có lúc nghi ngờ và do dự khi đối mặt với Éowyn.<sup id="cite_ref-Battle_3-5" class="reference"><a href="#cite_note-Battle-3">[2]</a></sup>
+Cũng giống như MacDuff khiến <a class="external text" href="http://en.wikisource.org/wiki/The_Tragedy_of_Macbeth" rel="noreferrer noopener" target="_blank">Macbeth</a> bối rối khi tiết lộ rằng ông ta không phải là "người được sinh ra bởi phụ nữ", Lady Éowyn đã tìm ra kẽ hở trong lời tiên tri 1.000 năm tuổi của [Glorfindel](../G/Glorfindel.md), chứng tỏ rằng Vua phù thủy sẽ không bị giết bởi một người đàn ông. Tuy nhiên, Vua phù thủy thực sự đã đọc sai lời tiên tri: ông ấy nói rằng "không có người sống nào có thể cản trở tôi", mặc dù lời tiên tri thực sự nói rằng "ông ấy sẽ không gục ngã dưới bàn tay của *man*."<sup id="cite_ref-Gondor_22-0" class="reference"><a href="#cite_note-Gondor-22">[19]</a></sup> Lời tiên tri của Glorfindel, không giống như phiên bản của ông, ngụ ý rằng Vua phù thủy sẽ không rơi vào tay một người đàn ông. Trong tác phẩm của Tolkien, đàn ông và phụ nữ chỉ đơn giản áp dụng cho giới tính của bất kỳ chủng tộc Trung Địa nào. Chỉ khi ông viết hoa chữ Man thì nó mới biểu thị chủng tộc của Đàn ông. Vua phù thủy có thể đã không nhận ra rằng lời tiên tri chỉ dành cho nam giới, do đó, ông đã có lúc nghi ngờ và do dự khi đối mặt với Éowyn.<sup id="cite_ref-Battle_3-5" class="reference"><a href="#cite_note-Battle-3">[2]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-### Éowyn trong các bản chuyển thể {#Éowyn_in_adaptations}
+### Éowyn trong bản chuyển thể {#Éowyn_in_adaptations}
 
 <ul class="gallery mw-gallery-traditional">
 		<li class="gallerybox" style="width: 235px">
@@ -199,23 +199,23 @@ Cũng giống như MacDuff khiến <a class="external text" href="http://en.wiki
 		</li>
 </ul>
 
-<b>1955-6: <a href="../T/The_Lord_of_the_Rings_(1955_radio_series).md" title="The Lord of the Rings (1955 radio series)"><i>The Lord of the Rings</i> (loạt đài phát thanh 1955)</a>:</b>
+<b>1955-6: <a href="../T/The_Lord_of_the_Rings_(1955_radio_series).md" title="The Lord of the Rings (1955 radio series)"><i>Chúa tể của những chiếc nhẫn</i> (loạt phim phát thanh năm 1955)</a>:</b>
 
 <dl><dd><a class="new" href="https://tolkiengateway.net/w/index.php?title=Olive_Gregg&amp;action=edit&amp;redlink=1" title="Olive Gregg (page does not exist)">Olive Gregg</a> provides the voice of Éowyn.</dd></dl>
 
-<b>1978: <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim 1978)</a>:</b>
+<b>1978: <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>Chúa tể của những chiếc nhẫn</i> (phim 1978)</a>:</b>
 
 <dl><dd>Éowyn is briefly seen, but has no lines.</dd></dl>
 
-<b>1979: <i><a href="../T/The_Lord_of_the_Rings_(1979_radio_series).md" title="The Lord of the Rings (1979 radio series)">Con mắt của Tâm trí The Lord of the Rings</a></i>:</b>
+<b>1979: <i><a href="../T/The_Lord_of_the_Rings_(1979_radio_series).md" title="The Lord of the Rings (1979 radio series)">Chúa tể của những chiếc nhẫn là Con mắt của Tâm trí</a></i>:</b>
 
 <dl><dd>Éowyn is portrayed by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Karen_Hurley&amp;action=edit&amp;redlink=1" title="Karen Hurley (page does not exist)">Karen Hurley</a>.</dd></dl>
 
-<b>1980: <a href="../T/The_Return_of_the_King_(1980_film).md" title="The Return of the King (1980 film)"><i>The Return of the King</i> (phim 1980)</a>:</b>
+<b>1980: <a href="../T/The_Return_of_the_King_(1980_film).md" title="The Return of the King (1980 film)"><i>Sự trở lại của nhà vua</i> (phim 1980)</a>:</b>
 
 <dl><dd>Éowyn is voiced by actress <a href="../N/Nellie_Bellflower.md" title="Nellie Bellflower">Nellie Bellflower</a>. She appears unintroduced, but Merry fills Pippin (and so the spectator) in on the details. She is not terribly wounded, and appears healthy beside Faramir at the coronation.</dd></dl>
 
-<b>1981: <a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>The Lord of the Rings</i> (loạt phim phát thanh 1981)</a>:</b>
+<b>1981: <a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>Chúa tể của những chiếc nhẫn</i> (loạt phim phát thanh năm 1981)</a>:</b>
 
 <dl><dd><a href="../E/Elin_Jenkins.md" title="Elin Jenkins">Elin Jenkins</a> plays the part of Éowyn. She is introduced much earlier than in the book when <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> escapes from Isengard and borrows a horse from Théoden. Unlike some adaptations her recovery in the Houses of Healing, and the blossoming of her relationship with Faramir are included. She is last encountered in the penultimate episode gifting Merry the horn he would blow later during the scouring of the Shire.</dd></dl>
 
@@ -223,7 +223,7 @@ Cũng giống như MacDuff khiến <a class="external text" href="http://en.wiki
 
 <dl><dd>Éowyn is played by Donata Höffer.</dd></dl>
 
-<b>2002-3: <a href="../T/The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings</i> (loạt phim)</a>:</b>
+<b>2002-3: <a href="../T/The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>Chúa tể của những chiếc nhẫn</i> (loạt phim)</a>:</b>
 
 <dl><dd>Éowyn is portrayed by <a href="../M/Miranda_Otto.md" title="Miranda Otto">Miranda Otto</a>. Jackson&#39;s adaptation shows two different explanations for Éowyn&#39;s injuries after fighting the Witch-king. In the Theatrical Release, her wounds are less severe than in the book; she is conscious but hurt, as opposed to unconscious. In the Extended Edition, she is near death; her brother finds her and grieves, and later she is healed in the Houses of Healing, where she meets Faramir.</dd></dl>
 
@@ -231,26 +231,26 @@ Cũng giống như MacDuff khiến <a class="external text" href="http://en.wiki
 
 <dl><dd>The voice of Éowyn is provided by Diana Mórová. Éowyn is alluded to in <i>The Two Towers</i>, but has no lines. She appears fully in <i>The Return of the King</i>. Her role is identical to that in the books.</dd></dl>
 
-<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
 
 <dl><dd>Éowyn is first encountered in Edoras, shortly before the arrival of Gandalf and the Three Hunters. After King Théoden departs with his host, the player stays behind and helps Éowyn with various preparations before moving the citizens to <a href="../D/Dunharrow.md" title="Dunharrow">Dunharrow</a>. As Dernhelm, she travels to Minas Tirith with permission of <a href="../E/Elfhelm.md" title="Elfhelm">Elfhelm</a>, who keeps her secret and gives her the sword of her late cousin <a href="../T/Théodred.md" title="Théodred">Théodred</a>, taken from the <a href="../F/Fords_of_Isen.md" title="Fords of Isen">Fords of Isen</a>. It is the very sword that Eowyn uses to slay the <a class="mw-redirect" href="../W/Witch-King~20091.md" title="Witch-King">Witch-King</a> of <a href="../A/Angmar.md" title="Angmar">Angmar</a>, though it breaks in doing the deed. After healing from her wounds, she attends the coronation of King Elessar, but departs for Edoras prior to Aragorn and Arwen&#39;s wedding.</dd></dl>
 
 ## Xem thêm {#See_also}
 
-- [Hình ảnh của Éowyn](../../category/I/Images_of_Éowyn.md)
+- [Hình ảnh Éowyn](../../category/I/Images_of_Éowyn.md)
 
 ## Liên kết ngoài {#External_links}
 
-- "<a class="external text" href="http://www.norsemyth.org/2013/02/tolkiens-heathen-feminist-part-one.html" rel="noreferrer noopener" target="_blank">Tolkien Nhà nữ quyền ngoại đạo</a>" của Karl E.H. Seigfried
+- "<a class="external text" href="http://www.norsemyth.org/2013/02/tolkiens-heathen-feminist-part-one.html" rel="noreferrer noopener" target="_blank">Nhà nữ quyền ngoại đạo của Tolkien</a>" của Karl E.H. Seigfried
 
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Năm mất của Éowyn không được ghi nhận. Cô ấy vẫn còn sống ở F.A.11 khi gửi quà cho Shire. Cô có <a href="../N/Númenóreans.md" title="Númenóreans">Númenorean</a> tổ tiên thông qua bà ngoại <a class="mw-redirect" href="../M/Morwen_of_Lossarnach.md" title="Morwen of Lossarnach">Morwen của Lossarnach</a>, điều này sẽ giúp cô sống lâu.</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Năm mất của Éowyn không được ghi lại. Bà vẫn còn sống ở F.A.11 khi gửi quà đến Shire. Bà có <a href="../N/Númenóreans.md" title="Númenóreans">Númenorean</a> tổ tiên thông qua bà ngoại <a class="mw-redirect" href="../M/Morwen_of_Lossarnach.md" title="Morwen of Lossarnach">Morwen của Lossarnach</a> điều này sẽ giúp bà sống lâu.</span>
 </li>
-<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text">Éowyn được biết đến với cái tên "Quý cô Rohan" trong Rohan, nhưng là "Quý cô da trắng của Rohan" trong Ithilien (do nước da nhợt nhạt).</span>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text">Éowyn được biết đến là "Quý bà Rohan" ở Rohan, nhưng là "Quý bà da trắng của Rohan" ở Ithilien (do nước da nhợt nhạt).</span>
 </li>
-<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text">Điều này dường như ngụ ý rằng Éowyn không phải là Công chúa, trong khi chồng cô ấy là Thân vương.</span>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text">Điều này dường như ngụ ý rằng Éowyn không phải là Công chúa, trong khi chồng cô là Hoàng tử.</span>
 </li>
 </ol></div></span>
 

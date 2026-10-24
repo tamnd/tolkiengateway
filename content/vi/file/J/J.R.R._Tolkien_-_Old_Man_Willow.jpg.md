@@ -31,7 +31,7 @@ file:
 
 <dl><dd>&#39;Enormous it looked, its sprawling branches going up like reaching arms with many long-fingered hands, its knotted and twisted trunk gaping in wide fissures that creaked faintly as the boughs moved.&#39;</dd></dl>
 
-Nó được xuất bản trong [Lịch J.R.R. Tolkien 1973](../../main/T/The_J.R.R._Tolkien_Calendar_1973.md) và 1974; một bản sao được phóng to hơn một chút với một phần hình ảnh bị loại bỏ đã xuất hiện trong [The Lord of the Rings Lịch 1977](../../main/T/The_Lord_of_the_Rings_1977_Calendar.md).
+Nó được xuất bản trong [Lịch J.R.R. Tolkien 1973](../../main/T/The_J.R.R._Tolkien_Calendar_1973.md) và 1974; một bản sao được phóng to hơn một chút với một phần hình ảnh bị loại trừ xuất hiện trong [The Lord of the Rings 1977 Calendar](../../main/T/The_Lord_of_the_Rings_1977_Calendar.md).
 
 ## Giấy phép {#Licensing}
 

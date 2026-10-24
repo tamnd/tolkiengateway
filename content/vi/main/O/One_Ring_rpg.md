@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The One Ring (role-playing game)"
 ---
 
-Chuyển hướng tới [Chiếc nhẫn duy nhất (trò chơi nhập vai)](<../T/The_One_Ring_(role-playing_game).md>).
+Chuyển hướng đến [The One Ring (trò chơi nhập vai)](<../T/The_One_Ring_(role-playing_game).md>).

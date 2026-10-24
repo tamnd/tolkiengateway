@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Sting](../../main/S/Sting.md) xuất hiện trong [The Hobbit (phim 1977)](<../../main/T/The_Hobbit_(1977_film).md>).
+[Sting](../../main/S/Sting.md) như xuất hiện trong [The Hobbit (1977 film)](<../../main/T/The_Hobbit_(1977_film).md>).
 
 ## Giấy phép {#Licensing}
 

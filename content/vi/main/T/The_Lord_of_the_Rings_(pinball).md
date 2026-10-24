@@ -13,7 +13,7 @@ categories:
   - "Pinball machines"
 ---
 
-**The Lord of the Rings** là máy bắn bi của <a class="extiw" href="http://en.wikipedia.org/wiki/Stern_(gaming_company)" title="wikipedia:Stern (gaming company)">Stern Pinball</a>. Đây là sản phẩm được cấp phép của [*The Lord of the Rings* (loạt phim)](<The_Lord_of_the_Rings_(film_series).md>), được phát hành vào năm [2003](../_/2003.md). Quá trình tạo ra chiếc máy này đã được ghi lại trong <i><a class="extiw" href="http://en.wikipedia.org/wiki/How_It%27s_Made" title="wikipedia:How It&#39;s Made">Nó được tạo ra như thế nào</a></i> tập 9.02.
+**Chúa tể của những chiếc nhẫn** là máy bắn bi của <a class="extiw" href="http://en.wikipedia.org/wiki/Stern_(gaming_company)" title="wikipedia:Stern (gaming company)">Stern Pinball</a>. Đây là sản phẩm được cấp phép của [*The Lord of the Rings* (loạt phim)](<The_Lord_of_the_Rings_(film_series).md>), được phát hành vào năm [2003](../_/2003.md). Quá trình tạo ra chiếc máy này đã được ghi lại trong <i><a class="extiw" href="http://en.wikipedia.org/wiki/How_It%27s_Made" title="wikipedia:How It&#39;s Made">Nó được tạo ra như thế nào</a></i> tập 9.02.
 
 Phiên bản giới hạn của trò chơi được phát hành vào năm 2009 với chỉ 500 máy được sản xuất.
 
@@ -31,7 +31,7 @@ Trò chơi có ba <a class="extiw" href="http://en.wikipedia.org/wiki/Multiball"
 
 <dl><dt><i><a href="The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">The Return of the King</a></i></dt></dl>
 
-- Thu thập 5000 linh hồn trên "Con đường của người chết" và bắn [Orthanc](../O/Orthanc.md), Barad-Dûr hoặc Gollum Hang động để bắt đầu. Điểm tất cả các giải độc đắc để hoàn thành.
+- Thu thập 5000 linh hồn trên "Con đường của người chết" và bắn [Orthanc](../O/Orthanc.md), Barad-Dûr hoặc Gollum Cave để bắt đầu. Điểm tất cả các giải độc đắc để hoàn thành.
 
 <dl><dt>Other objectives</dt>
 <dd></dd></dl>
@@ -47,6 +47,6 @@ Hoàn thành tất cả đèn ở chế độ thưởng "There and Back Again".
 
 ## Liên kết ngoài {#External_links}
 
-- <i><a class="external text" href="https://pinside.com/pinball/machine/lord-of-the-rings" rel="noreferrer noopener" target="_blank">The Lord of the Rings</a></i> tại <a class="external text" href="https://pinside.com/" rel="noreferrer noopener" target="_blank">Pinside</a>
-- <i><a class="external text" href="https://pinside.com/pinball/machine/lord-of-the-rings-le" rel="noreferrer noopener" target="_blank">The Lord of the Rings (LE)</a></i> tại Pinside
-- <i><a class="external text" href="http://www.ipdb.org/machine.cgi?id=4858" rel="noreferrer noopener" target="_blank">The Lord of the Rings</a></i> tại <a class="external text" href="http://www.ipdb.org/" rel="noreferrer noopener" target="_blank">IPDB.org</a>
+- <i><a class="external text" href="https://pinside.com/pinball/machine/lord-of-the-rings" rel="noreferrer noopener" target="_blank">Chúa tể của những chiếc nhẫn</a></i> tại <a class="external text" href="https://pinside.com/" rel="noreferrer noopener" target="_blank">Pinside</a>
+- <i><a class="external text" href="https://pinside.com/pinball/machine/lord-of-the-rings-le" rel="noreferrer noopener" target="_blank">Chúa tể của những chiếc nhẫn (LE)</a></i> tại Pinside
+- <i><a class="external text" href="http://www.ipdb.org/machine.cgi?id=4858" rel="noreferrer noopener" target="_blank">Chúa tể của những chiếc nhẫn</a></i> tại <a class="external text" href="http://www.ipdb.org/" rel="noreferrer noopener" target="_blank">IPDB.org</a>

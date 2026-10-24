@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Secret Fire: The Spiritual Vision of J.R.R. Tolkien"
 ---
 
-Chuyển hướng đến [Ngọn lửa bí mật: Tầm nhìn tâm linh của J.R.R. Tolkien](Secret_Fire%253A_The_Spiritual_Vision_of_J.R.R._Tolkien.md).
+Chuyển hướng đến [Secret Fire: The Spiritual Vision of J.R.R. Tolkien](Secret_Fire%253A_The_Spiritual_Vision_of_J.R.R._Tolkien.md).

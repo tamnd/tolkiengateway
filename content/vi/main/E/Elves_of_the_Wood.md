@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Elves of Mirkwood"
 ---
 
-Chuyển hướng tới [Tiên tộc của Mirkwood](Elves_of_Mirkwood.md).
+Chuyển hướng đến [Yêu tinh vùng Mirkwood](Elves_of_Mirkwood.md).

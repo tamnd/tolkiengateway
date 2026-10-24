@@ -12,9 +12,9 @@ categories:
   - "Roots"
 ---
 
-**POL** là một [Primitive Quendian](Primitive_Quendian.md) [gốc](../S/Sundocarme.md) biểu thị "lớn, lớn (mạnh)" hoặc "có thể, có sức mạnh thể chất và khả năng". Đã có lúc [Tolkien](../J/J.R.R._Tolkien.md) dường như đã do dự về ý nghĩa gốc rễ này, viết: "\[√POL\] không thể đề cập đến *strength*", vì nó "\[t\]oo rõ ràng là sự hồi tưởng về *pollens*"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> và "nó cũng không tính đến *poli-* 'bữa ăn'". Do đó, ông đã đề xuất cách diễn đạt sửa đổi "'đập lên', bẻ nhỏ, nghiền thành bột, v.v.". Tuy nhiên, ý nghĩa ban đầu của POL dường như cuối cùng vẫn được giữ lại và Tolkien thay vào đó đề xuất thay đổi từ *pole* ("bữa ăn"; xem *poli-* ở trên) thành *mŭle*.<sup id="cite_ref-PE17_2-0" class="reference"><a href="#cite_note-PE17-2">[1]</a></sup>
+**POL** là [Quendian nguyên thủy](Primitive_Quendian.md) [gốc](../S/Sundocarme.md) biểu thị "lớn, to (mạnh)" hoặc "có thể, có sức mạnh thể chất và khả năng". Đã có lúc [Tolkien](../J/J.R.R._Tolkien.md) dường như đã do dự về ý nghĩa gốc rễ này, viết: "\[√POL\] không thể đề cập đến *strength*", vì nó "\[t\]oo rõ ràng là sự hồi tưởng về *pollens*"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> và "nó cũng không tính đến *poli-* 'bữa ăn'". Do đó, ông đã đề xuất cách diễn đạt sửa đổi "'đập lên', bẻ nhỏ, nghiền thành bột, v.v.". Tuy nhiên, ý nghĩa ban đầu của POL dường như cuối cùng vẫn được giữ lại và thay vào đó, Tolkien đã đề xuất thay đổi từ *pole* ("bữa ăn"; xem *poli-* ở trên) thành *mŭle*.<sup id="cite_ref-PE17_2-0" class="reference"><a href="#cite_note-PE17-2">[1]</a></sup>
 
-Trong [*Parma Eldalamberon* 17](Parma_Eldalamberon_17.md) (tr. 115) "*pol*" dường như được trích dẫn dưới dạng một từ [Quenya](../Q/Quenya.md). Tuy nhiên, người ta lập luận rằng: "\[s\]vì đây là ví dụ duy nhất về tính từ Quenya đơn âm tiết, nên có thể Tolkien ở đây trích dẫn POL gốc chứ không phải là một từ hoàn chỉnh."<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup> Lập luận cũng có tính hợp lý vì *pol* được liệt kê trong số các gốc trong nhóm "lớn & nhỏ".
+Trong [*Parma Eldalamberon* 17](Parma_Eldalamberon_17.md) (tr. 115) "*pol*" dường như được trích dẫn là một từ [Quenya](../Q/Quenya.md). Tuy nhiên, người ta lập luận rằng: "\[s\]vì đây là ví dụ duy nhất về tính từ Quenya đơn âm tiết, nên có thể Tolkien ở đây trích dẫn POL gốc chứ không phải là một từ hoàn chỉnh."<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup> Lập luận này cũng trở nên hợp lý vì *pol* được liệt kê trong số các gốc trong nhóm "lớn & nhỏ".
 
 POL được cho là có ý nghĩa gần giống với một trong các giác quan của <a class="new" href="https://tolkiengateway.net/w/index.php?title=LER&amp;action=edit&amp;redlink=1" title="LER (page does not exist)">LER</a> "được tự do làm, không có trở ngại", vì phần "không có trở ngại" đôi khi có thể biểu thị "không có trở ngại vật lý".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup>
 
@@ -24,12 +24,12 @@ POL được cho là có ý nghĩa gần giống với một trong các giác qu
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong *Qenya Lexicon* xuất hiện gốc POL-I (tạo ra từ phái sinh [Qenya](../Q/Qenya.md) *pole* "yến mạch") và POLO (biểu thị "có sức mạnh").<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[5]</a></sup> Trong [*Etymologies*](../T/The_Etymologies.md) xuất hiện gốc POL-, POLOD-, biểu thị "mạnh mẽ về thể chất".<sup id="cite_ref-LR_5-1" class="reference"><a href="#cite_note-LR-5">[4]</a></sup>
+Trong *Qenya Lexicon* xuất hiện gốc POL-I (mang lại từ phái sinh [Qenya](../Q/Qenya.md) *pole* "yến mạch") và POLO (biểu thị "có sức mạnh").<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[5]</a></sup> Trong [*Etymologies*](../T/The_Etymologies.md) xuất hiện gốc POL-, POLOD-, biểu thị "mạnh mẽ về thể chất".<sup id="cite_ref-LR_5-1" class="reference"><a href="#cite_note-LR-5">[4]</a></sup>
 
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Tolkien dường như không đề cập đến một từ <a href="../E/Elvish.md" title="Elvish">Elvish</a> mà thay vào đó là từ tiếng Anh <i><a class="extiw" href="http://en.wikipedia.org/wiki/Pollen" title="wikipedia:Pollen">phấn hoa</a></i> (<i>phấn hoa</i> không xuất hiện ở bất kỳ <a href="../S/Sindarin.md" title="Sindarin">Sindarin</a> hoặc Quenya tập hợp các từ). Cách giải thích này có lẽ được chứng thực bằng cách biểu thị thay thế của POL gốc là "chia nhỏ, giảm sức mạnh".</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Tolkien dường như không đề cập đến một từ <a href="../E/Elvish.md" title="Elvish">Elvish</a>, mà thay vào đó là từ tiếng Anh <i><a class="extiw" href="http://en.wikipedia.org/wiki/Pollen" title="wikipedia:Pollen">pollens</a></i> (<i>phấn hoa</i> không xuất hiện ở bất kỳ <a href="../S/Sindarin.md" title="Sindarin">Sindarin</a> hoặc tổng hợp các từ Quenya). Cách giải thích này có lẽ được chứng thực bằng cách biểu thị thay thế của POL gốc là "chia nhỏ, giảm sức mạnh".</span>
 </li>
 </ol></div></span>
 

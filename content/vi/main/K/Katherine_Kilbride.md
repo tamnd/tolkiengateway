@@ -22,9 +22,9 @@ sort_keys:
 
 **Katherine 'Kitty' Kilbride** ([1900](../_/1900.md)-[1966](../_/1966.md)) là sinh viên của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và [E.V. Gordon](../E/E.V._Gordon.md) tại [Đại học Leeds](../U/University_of_Leeds.md). Kilbride sẽ trở thành bạn tốt của Tolkien.
 
-Theo cháu trai của bà, Kilbride là “người tàn tật suốt đời”, “và rất vui mừng bởi những lá thư và tấm thiệp tán gẫu của \[Tolkien\] ... những cuốn sách được tặng cho bà khi chúng được xuất bản”.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Theo cháu trai của bà, Kilbride là “người tàn tật suốt đời”, “và rất vui mừng trước những lá thư và tấm thiệp tán gẫu của \[Tolkien\] ... những cuốn sách được tặng cho bà khi chúng được xuất bản”.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Cô ấy nằm trong số những người nhận được Tolkien gửi các ấn bản có ghi của *[The Hobbit](../T/The_Hobbit.md)*mới xuất bản, vào hoặc đóng sau [21 tháng Chín](../_/21_September.md) [1937](../_/1937.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Cô nằm trong số những người nhận được Tolkien gửi các ấn bản có ghi của *[The Hobbit](../T/The_Hobbit.md)* mới xuất bản, vào hoặc kết thúc sau [21 tháng 9](../_/21_September.md) [1937](../_/1937.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Xem thêm {#See_also}
 

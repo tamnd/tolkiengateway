@@ -20,7 +20,7 @@ sort_keys:
   "People by name": "Jallings, Fiona"
 ---
 
-**Fiona Jallings** là nhà ngôn ngữ học Tolkien người Mỹ. Cô ấy là người tạo ra trang web "Realelvish.net" và là tác giả của *[A Fan's Guide to Neo-Sindarin](../A/A_Fan's_Guide_to_Neo-Sindarin.md)*.
+**Fiona Jallings** là nhà ngôn ngữ học Tolkien người Mỹ. Bà là người tạo ra trang web "Realelvish.net" và là tác giả của *[A Fan's Guide to Neo-Sindarin](../A/A_Fan's_Guide_to_Neo-Sindarin.md)*.
 
 ## Liên kết ngoài {#External_links}
 

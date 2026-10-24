@@ -47,13 +47,13 @@ infobox:
 
 ## Lịch sử {#History}
 
-Lurtz là con đầu tiên trong số [Saruman](../S/Saruman.md) [Uruk-hai](../U/Uruk-hai.md) được nhân giống và dẫn chúng vào trận chiến chống lại [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) tại [Amon Hen](../A/Amon_Hen.md). Lurtz cũng có vẻ là Uruk-hai lớn nhất, và sức mạnh của anh ta được thể hiện rõ khi anh ta bóp cổ một Orc ngay sau khi được sinh ra. Trong sách, [Boromir](../B/Boromir.md) bị giết bởi một hoặc nhiều orc giấu tên; anh ta được mô tả là đã bị "nhiều mũi tên xuyên qua". Trong phim, anh ta bị giết bởi Lurtz, kẻ đã bắn anh ta ba phát. Trước khi anh ta có thể bắn mũi tên thứ tư vào Boromir, [Aragorn](../A/Aragorn.md) đã can thiệp và một cuộc đấu tay đôi xảy ra sau đó. Trong khi Lurtz dường như chiếm thế thượng phong ngay từ đầu nhờ sức mạnh vũ phu của mình, thì anh ta lại hoàn toàn thất bại khi tham gia đấu kiếm; Aragorn nhanh chóng chặt đứt cánh tay cầm kiếm của đối thủ và giáng một đòn chí mạng vào bụng. Lurtz cố gắng chế nhạo Aragorn lần cuối nhưng bị chặt đầu ngay sau đó.
+Lurtz là con đầu tiên trong số [Saruman](../S/Saruman.md) [Uruk-hai](../U/Uruk-hai.md) được lai tạo và dẫn dắt chúng tham gia trận chiến chống lại [Fellowship of the Ring](../F/Fellowship_of_the_Ring.md) tại [Amon Hen](../A/Amon_Hen.md). Lurtz cũng có vẻ là Uruk-hai lớn nhất, và sức mạnh của ông ta được thể hiện rõ khi ông ta bóp cổ một con Orc ngay sau khi được sinh ra. Trong cuốn sách, [Boromir](../B/Boromir.md) bị giết bởi một hoặc nhiều orc giấu tên; ông ta được mô tả là đã bị "nhiều mũi tên xuyên qua". Trong phim, ông ta bị giết bởi Lurtz, kẻ đã bắn ông ta ba phát. Trước khi anh có thể bắn mũi tên thứ tư vào Boromir, [Aragorn](../A/Aragorn.md) đã can thiệp và một cuộc đấu tay đôi diễn ra sau đó. Trong khi Lurtz dường như chiếm thế thượng phong ngay từ đầu nhờ sức mạnh vũ phu của mình, thì ông ta lại hoàn toàn thất bại khi tham gia đấu kiếm; Aragorn nhanh chóng chặt đứt cánh tay cầm kiếm của đối thủ và tung một đòn chí mạng vào bụng. Lurtz cố gắng chế nhạo Aragorn lần cuối, nhưng ngay sau đó đã bị chặt đầu.
 
 Sau khi ông qua đời, quyền lãnh đạo đội quân Uruk-hai được chuyển cho [Uglúk](../U/Uglúk.md), như thường lệ trong sách.
 
 ## Từ nguyên {#Etymology}
 
-Cái tên "Lurtz" có thể được [Peter Jackson](../P/Peter_Jackson.md) và các đồng tác giả của ông bắt nguồn từ phong cách ngôn ngữ [Orkish](../O/Orkish.md) của Tolkien, cụ thể là tên [Lugbúrz](../B/Barad-dûr.md#Etymology).
+Cái tên "Lurtz" có thể được [Peter Jackson](../P/Peter_Jackson.md) và các đồng tác giả của ông bắt nguồn từ phong cách ngôn ngữ [Orkish](../O/Orkish.md) của Tolkien, cụ thể là cái tên [Lugbúrz](../B/Barad-dûr.md#Etymology).
 
 Tên của Lurtz không bao giờ được nói to trong phim và chỉ được biết đến qua nhượng quyền thương mại và phần tín dụng.
 
@@ -61,7 +61,7 @@ Tên của Lurtz không bao giờ được nói to trong phim và chỉ được
 
 Trong trò chơi điện tử, Lurtz được lồng tiếng bởi [Isaac C. Singleton Jr.](../I/Isaac_C._Singleton_Jr..md).
 
-Lurtz là một trong những anh hùng có thể điều khiển được của Phe Isengard trong *[EA's The Battle for Middle-earth Anthology](../E/EA's_The_Battle_for_Middle-earth_Anthology.md)*.
+Lurtz là một trong những anh hùng điều khiển được của Phe Isengard trong *[EA's The Battle for Middle-earth Anthology](../E/EA's_The_Battle_for_Middle-earth_Anthology.md)*.
 
 <span></span>
 

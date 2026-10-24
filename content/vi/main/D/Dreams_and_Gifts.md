@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dreams & Gifts: The Art of Angelo Montanini"
 ---
 
-Chuyển hướng đến [Ước mơ & Quà tặng: Nghệ thuật của Angelo Montanini](Dreams_&_Gifts%253A_The_Art_of_Angelo_Montanini.md).
+Chuyển hướng đến [Dreams &amp; Gifts: The Art of Angelo Montanini](Dreams_&_Gifts%253A_The_Art_of_Angelo_Montanini.md).

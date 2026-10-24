@@ -26,7 +26,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Person</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Martina Pilcerova</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Born</th><td class="tg-infobox-data"><a href="../_/14_March.md" title="14 March">14 March</a> <a href="../_/1973.md" title="1973">1973</a></td></tr><tr><th scope="row" class="tg-infobox-label">Occupation</th><td class="tg-infobox-data">Artist</td></tr></tbody></table>
 
-**Martina Pilcerova** (sinh [14 tháng 3](../_/14_March.md) [1973](../_/1973.md)) là một họa sĩ minh họa người Slovakia.<sup id="cite_ref-CCGA_1-0" class="reference"><a href="#cite_note-CCGA-1">[1]</a></sup> Là một nghệ sĩ [Magic: The Gathering](Magic%253A_The_Gathering.md), cô đã sáng tạo nghệ thuật cho bản mở rộng [The Hobbit](Magic%253A_The_Gathering_-_The_Hobbit.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Martina Pilcerova** (sinh [14 tháng 3](../_/14_March.md) [1973](../_/1973.md)) là một họa sĩ minh họa người Slovakia.<sup id="cite_ref-CCGA_1-0" class="reference"><a href="#cite_note-CCGA-1">[1]</a></sup> Là một nghệ sĩ [Magic: The Gathering](Magic%253A_The_Gathering.md), cô đã sáng tạo nghệ thuật cho [The Hobbit](Magic%253A_The_Gathering_-_The_Hobbit.md) mở rộng.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Xem thêm {#See_also}
 

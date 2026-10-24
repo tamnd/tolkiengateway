@@ -48,7 +48,7 @@ infobox:
 <p class="tg-quote-footer"><cite>Celebrimbor</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Ông. Chuột** là tên [Celebrimbor](../C/Celebrimbor.md) được đặt cho một [chuột](Mouse.md) là một phần của ảo ảnh được tạo ra bởi [Sauron](../S/Sauron.md), người lúc đó dưới vỏ bọc *Annatar*. Ông Chuột được [Amazon Studios](../A/Amazon_Studios.md) phát minh cho tập thứ bảy trong phần hai của *[The Lord of the Rings: The Rings of Power](../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)*, nơi ông được miêu tả bởi một con chuột tên là <a class="new" href="https://tolkiengateway.net/w/index.php?title=Peachy&amp;action=edit&amp;redlink=1" title="Peachy (page does not exist)">Peachy</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Ông. Chuột** là tên [Celebrimbor](../C/Celebrimbor.md) đặt cho một [chuột](Mouse.md) là một phần của ảo ảnh được tạo ra bởi [Sauron](../S/Sauron.md), người lúc đó dưới vỏ bọc *Annatar*. Chuột được [Amazon Studios](../A/Amazon_Studios.md) phát minh cho tập thứ bảy trong phần hai của *[The Lord of the Rings: The Rings of Power](../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)*, nơi ông được miêu tả bởi một con chuột có tên <a class="new" href="https://tolkiengateway.net/w/index.php?title=Peachy&amp;action=edit&amp;redlink=1" title="Peachy (page does not exist)">Peachy</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Đặc điểm {#Characteristics}
 
@@ -56,11 +56,11 @@ Ngài Chuột có vẻ là một con chuột vàng (*Ochrotomys nuttalli)* với
 
 ## Lịch sử {#History}
 
-Ông Chuột xuất hiện như một phần của ảo ảnh do Sauron tạo ra để Celebrimbor tiếp tục rèn [Cửu Nhẫn](../N/Nine_Rings.md) trong [Cuộc cướp phá Eregion](../S/Sack_of_Eregion.md). Nhìn thấy một viên ngọc bị mất trên chiếc búa của [Fëanor](../F/Fëanor.md), Celembrimbor quỳ xuống để tìm viên ngọc bị mất và nhìn thấy một con chuột trên sàn bên dưới bàn làm việc của mình, người mà anh chào đón.
+Ông Mouse xuất hiện như một phần của ảo ảnh do Sauron tạo ra để Celebrimbor tiếp tục rèn [Chín chiếc nhẫn](../N/Nine_Rings.md) trong [Sack of Ezone](../S/Sack_of_Eregion.md). Nhìn thấy một viên đá quý bị mất trên chiếc búa của [Fëanor](../F/Fëanor.md), Celembrimbor quỳ xuống để tìm viên ngọc bị mất và nhìn thấy một con chuột trên sàn bên dưới bàn làm việc của mình, người mà anh chào đón.
 
 <figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Rings_of_Power_(TV_series)_-_Celebrimbor_sees_Mr_Mouse.png.md"><img src="https://tolkiengateway.net/w/images/thumb/7/77/The_Rings_of_Power_%28TV_series%29_-_Celebrimbor_sees_Mr_Mouse.png/300px-The_Rings_of_Power_%28TV_series%29_-_Celebrimbor_sees_Mr_Mouse.png" decoding="async" loading="lazy" width="300" height="255" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/77/The_Rings_of_Power_%28TV_series%29_-_Celebrimbor_sees_Mr_Mouse.png/450px-The_Rings_of_Power_%28TV_series%29_-_Celebrimbor_sees_Mr_Mouse.png 1.5x, https://tolkiengateway.net/w/images/thumb/7/77/The_Rings_of_Power_%28TV_series%29_-_Celebrimbor_sees_Mr_Mouse.png/600px-The_Rings_of_Power_%28TV_series%29_-_Celebrimbor_sees_Mr_Mouse.png 2x" data-file-width="905" data-file-height="770"/></a><figcaption>Celebrimbor when he successfully demonstrates to Annatar that Mr. Mouse is, in fact, an illusory mouse.</figcaption></figure>
 
-Celebrimbor sau đó đã khôn ngoan hơn trong ảo tưởng này và nhận thấy rằng Ngài Chuột sẽ đến vào một thời điểm đã định trong ngày và lần nào cũng đi theo cùng một con đường. Nhận thấy mình đang bị mắc kẹt trong [nhà tù tâm trí](../_/Ósanwe-kenta.md), Celebrimbor đã đối đầu với Annatar và khiến anh ta tiết lộ rằng mình thực sự là Sauron.
+Celebrimbor sau đó đã khôn ngoan hơn trong ảo tưởng này và nhận thấy rằng Mr. Mouse sẽ đến vào một thời điểm đã định trong ngày và lần nào cũng đi theo cùng một con đường. Nhận ra rằng mình đang bị mắc kẹt trong [nhà tù tâm trí](../_/Ósanwe-kenta.md), Celebrimbor đối mặt với Annatar và khiến ông ta tiết lộ rằng mình thực sự là Sauron.
 
 <span></span>
 

@@ -67,15 +67,15 @@ Sự kiện xảy ra vào ngày 19 tháng 12
 ## Trên Trái đất {#On_Earth}
 
 - **[1884](1884.md)** - Nhà xuất bản [Stanley Unwin](../S/Stanley_Unwin.md) ra đời.
-- **[1937](1937.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 20](../L/Letter_20.md) trong đó anh ấy nói rằng anh ấy "*đã viết chương đầu tiên của một câu chuyện mới về Hobbit - '[Một bữa tiệc được mong đợi từ lâu](../A/A_Long-expected_Party.md)*'". Sau này đây vẫn là chương đầu tiên của *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)*.
+- **[1937](1937.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 20](../L/Letter_20.md) trong đó ông nói rằng ông "*đã viết chương đầu tiên của một câu chuyện mới về Người Hobbit - '[Một bữa tiệc được mong đợi từ lâu](../A/A_Long-expected_Party.md)*'". Sau này đây vẫn là chương đầu tiên của *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)*.
 - **[1939](1939.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 37](../L/Letter_37.md).
 - **[1956](1956.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một lá thư cho cô Stanley-Smith](<../L/Letter_to_Miss_Stanley-Smith_(19_December_1956).md>).
 - **[1962](1962.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 243](../L/Letter_243.md).
 - **[1964](1964.md)** - Tập thứ 11 của [Princess](../P/Princess.md)-serialization của *[The Hobbit](../T/The_Hobbit.md)* được xuất bản.
 - **[1971](1971.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư 331b](../L/Letter_331b.md).
-- <b><a href="2001.md" title="2001">2001</a> – <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i> được phát hành tại các rạp chiếu phim trên toàn thế giới.</b>
+- <b><a href="2001.md" title="2001">2001</a> – <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">Chúa tể của những chiếc nhẫn: The Fellowship of the Ring</a></i> được phát hành tại các rạp trên toàn thế giới.</b>
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - Người [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) nghỉ ngơi ở [Rivendell](../R/Rivendell.md) và chuẩn bị cho [nhiệm vụ](../Q/Quest_of_the_Ring.md) tiêu diệt [Người Nhẫn](../T/The_One_Ring.md).
+    - [Fellowship of the Ring](../F/Fellowship_of_the_Ring.md) nghỉ ngơi tại [Rivendell](../R/Rivendell.md) và chuẩn bị cho [nhiệm vụ](../Q/Quest_of_the_Ring.md) tiêu diệt [Chiếc nhẫn duy nhất](../T/The_One_Ring.md).

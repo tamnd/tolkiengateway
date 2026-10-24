@@ -13,7 +13,7 @@ categories:
   - "Sindarin nouns"
 ---
 
-**tinnu** là từ [Sindarin](../S/Sindarin.md) có nghĩa là *dusk* hoặc *[twilight](Twilight.md)*. Nó có nguồn gốc từ *[tinu](Tinu.md)* "tia lửa, ngôi sao nhỏ" và *[dû](../D/Dû.md)* "buổi tối, buổi tối, bóng tối*.*
+**tinnu** là từ [tiếng Sindarin](../S/Sindarin.md) có nghĩa là *dusk* hoặc *[twilight](Twilight.md)*. Nó có nguồn gốc từ *[tinu](Tinu.md)* "tia lửa, ngôi sao nhỏ" và *[dû](../D/Dû.md)* "buổi tối, buổi tối, bóng tối*.*
 
 ## Ví dụ {#Examples}
 

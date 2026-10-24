@@ -42,15 +42,15 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../E/Edain.md" title="Edain">Adan</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Belemir</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Birth</th><td class="tg-infobox-data"><a href="../F/First_Age.md" title="First Age">F.A.</a> <a href="../F/First_Age_339.md" title="First Age 339">339</a><br/>Presumably <a href="../H/Hithlum.md" title="Hithlum">Hithlum</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">House</th><td class="tg-infobox-data"><a href="../H/House_of_Bëor.md" title="House of Bëor">House of Bëor</a></td></tr><tr><th scope="row" class="tg-infobox-label">Parentage</th><td class="tg-infobox-data"><a href="Beldir.md" title="Beldir">Beldir</a></td></tr><tr><th scope="row" class="tg-infobox-label">Spouse</th><td class="tg-infobox-data"><a href="../A/Adanel.md" title="Adanel">Adanel</a></td></tr><tr><th scope="row" class="tg-infobox-label">Children</th><td class="tg-infobox-data"><a href="Beren_(son_of_Belemir).md" title="Beren (son of Belemir)">Beren</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr></tbody></table>
 
-**Belemir** (sinh ra [F.A.](../F/First_Age.md) [339](../F/First_Age_339.md)) là một [người](../M/Men.md) của [Nhà Bëor](../H/House_of_Bëor.md).
+**Belemir** (sinh [F.A.](../F/First_Age.md) [339](../F/First_Age_339.md)) là [người](../M/Men.md) của [Nhà Bëor](../H/House_of_Bëor.md).
 
 ## Lịch sử {#History}
 
-Belemir là con trai của [Beldir](Beldir.md) và là chồng của [Adanel](../A/Adanel.md) của [Nhà Marach](../H/House_of_Hador.md). Ông là cha của [Beren](<Beren_(son_of_Belemir).md>), ông nội của [Beren Erchamion](Beren.md), anh hùng của Kỷ Đệ Nhất.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Belemir là con trai của [Beldir](Beldir.md) và là chồng của [Adanel](../A/Adanel.md) của [Nhà Marach](../H/House_of_Hador.md). Ông là cha của [Beren](<Beren_(son_of_Belemir).md>), ông nội của [Beren Erchamion](Beren.md), anh hùng của Thời đại thứ nhất.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Giữa anh và người em họ [Andreth](../A/Andreth.md) có một tình yêu sâu sắc, và cô ấy đã ở rất lâu trong nhà anh. Khi ở đó, Andreth đã học được nhiều truyền thuyết về dân gian [Marach](../M/Marach.md) từ Adanel.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Giữa anh và người em họ trẻ hơn [Andreth](../A/Andreth.md) có một tình yêu lớn lao, và bà đã ở rất lâu trong nhà anh. Khi ở đó, Andreth đã học được nhiều truyền thuyết về dân gian [Marach](../M/Marach.md) từ Adanel.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Trong [F.A.](../F/First_Age.md) [409](../F/First_Age_409.md), [Finrod](../F/Finrod.md) là khách đến nhà anh ta và [đã tổ chức một cuộc tranh luận kéo dài](../A/Athrabeth_Finrod_ah_Andreth.md) với Andreth.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Trong [F.A.](../F/First_Age.md) [409](../F/First_Age_409.md), [Finrod](../F/Finrod.md) là khách đến nhà ông ta và [đã tổ chức một cuộc tranh luận kéo dài](../A/Athrabeth_Finrod_ah_Andreth.md) với Andreth.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Phả hệ {#Genealogy}
 
@@ -72,9 +72,9 @@ Trong [F.A.](../F/First_Age.md) [409](../F/First_Age_409.md), [Finrod](../F/Finr
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Có hai phiên bản của bảng phả hệ cho Nhà Hador. Trong phiên bản đầu tiên của bảng có ghi chú rằng Beren, con trai của Belemir và Adanel, là đứa con thứ năm của họ. Trong phiên bản thứ hai không có đề cập đến những đứa trẻ khác. Phần của phiên bản thứ hai hiển thị ở trên chỉ hiển thị Beren đầu tiên mặc dù các phần tử con khác có thể đã tồn tại.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Có hai phiên bản của bảng phả hệ dành cho Nhà Hador. Trong phiên bản đầu tiên của bảng có ghi chú rằng Beren, con trai của Belemir và Adanel, là đứa con thứ năm của họ. Trong phiên bản thứ hai không có đề cập đến những đứa trẻ khác. Phần của phiên bản thứ hai hiển thị ở trên chỉ hiển thị Beren đầu tiên mặc dù những đứa trẻ khác có thể đã tồn tại.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
-Trong một ghi chú bị gạch bỏ, có ghi rằng Adanel rằng cô ấy đã "kết hôn với Belemir của Nhà Bëor, và anh ấy đã gia nhập người dân Aradan".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Trong một ghi chú bị gạch bỏ, Adanel đã nói rằng bà "kết hôn với Belemir của Nhà Bëor, và ông đã gia nhập người dân Aradan".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 <span></span>
 

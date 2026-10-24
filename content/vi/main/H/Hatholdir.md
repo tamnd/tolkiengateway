@@ -37,11 +37,11 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../N/Númenóreans.md" title="Númenóreans">Númenórean</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Hatholdir</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../N/Númenor.md" title="Númenor">Númenor</a></td></tr><tr><th scope="row" class="tg-infobox-label">Birth</th><td class="tg-infobox-data">Before <a href="../S/Second_Age.md" title="Second Age">S.A.</a> <a href="../S/Second_Age_799.md" title="Second Age 799">799</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">House</th><td class="tg-infobox-data">descended from the <a href="House_of_Hador.md" title="House of Hador">House of Hador</a></td></tr><tr><th scope="row" class="tg-infobox-label">Children</th><td class="tg-infobox-data"><a href="../O/Orchaldor.md" title="Orchaldor">Orchaldor</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr></tbody></table>
 
-**Hatholdir** là một [Númenórean](../N/Númenóreans.md) và là hậu duệ của [Nhà Hador](House_of_Hador.md). Anh ấy là bạn thân của Vua [Tar-Meneldur](../T/Tar-Meneldur.md). Ông có một người con trai tên [Orchaldor](../O/Orchaldor.md) kết hôn với con gái lớn của Tar-Meneldur, [Alinel](../A/Ailinel.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Hatholdir** là một [Númenórean](../N/Númenóreans.md) và là hậu duệ của [Nhà Hador](House_of_Hador.md). Ông là bạn thân của Vua [Tar-Meneldur](../T/Tar-Meneldur.md). Ông có một người con trai tên [Orchaldor](../O/Orchaldor.md) kết hôn với con gái lớn của Tar-Meneldur, [Alinel](../A/Ailinel.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Hatholdir* là tên [Sindarin](../S/Sindarin.md). Ý nghĩa của nó không được giải thích rõ ràng, nhưng Paul Strack gợi ý nó có nghĩa là "Người dùng rìu" và là từ ghép của *hathol* ("rìu") và *dîr* ("người đàn ông").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+*Hatholdir* là tên [Sindarin](../S/Sindarin.md). Ý nghĩa của nó không được giải thích rõ ràng, nhưng Paul Strack cho rằng nó có nghĩa là "Người dùng rìu" và là từ ghép của *hathol* ("rìu") và *dîr* ("người đàn ông").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Phả hệ {#Genealogy}
 

@@ -27,9 +27,9 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Trong lá thư gửi con trai [Christopher](../C/Christopher_Tolkien.md), người đã ở Nam Phi từ tháng 1 [1944](../_/1944.md) và đang hy vọng được trở về nhà trong kỳ nghỉ phép, Tolkien viết từ <a class="extiw" href="http://en.wikipedia.org/wiki/Taylor_Institution" title="wikipedia:Taylor Institution">Taylorian</a> khi đang giám thị các học viên. Anh ấy bày tỏ những suy nghĩ và lời cầu nguyện liên tục của mình cho Christopher trong bối cảnh tình hình của anh ấy không chắc chắn.
+Trong một bức thư gửi con trai [Christopher](../C/Christopher_Tolkien.md), người đã ở Nam Phi từ tháng 1 [1944](../_/1944.md) và đang hy vọng được trở về nhà trong kỳ nghỉ phép, Tolkien viết từ <a class="extiw" href="http://en.wikipedia.org/wiki/Taylor_Institution" title="wikipedia:Taylor Institution">Taylorian</a> khi đang giám sát các học viên. Ông bày tỏ những suy nghĩ và lời cầu nguyện liên tục của mình dành cho Christopher trong bối cảnh hoàn cảnh của ông không chắc chắn.
 
-Tolkien ghi lại sự tiến triển của mùa xuân ở Anh, với thời tiết ấm áp gợi ý hoa nở sớm và tự hỏi liệu Christopher có quay lại kịp để chứng kiến ​​điều đó hay không. Anh ta đề cập đến kế hoạch đi xa một thời gian ngắn sau Lễ Phục sinh tới Aberystwyth, với điều kiện Christopher phải đến. Tolkien nhấn mạnh mong muốn được trò chuyện lâu dài và ghé thăm những quán rượu quen thuộc, đồng thời nêu bật mong muốn Christopher được trở lại Oxford và quê hương. <br>
+Tolkien ghi lại sự tiến triển của mùa xuân ở Anh, với thời tiết ấm áp cho thấy hoa nở sớm và tự hỏi liệu Christopher có quay lại kịp để chứng kiến ​​​​điều đó hay không. Ông ta đề cập đến kế hoạch đi xa một thời gian ngắn sau Lễ Phục sinh tới Aberystwyth, với điều kiện Christopher phải đến. Tolkien nhấn mạnh mong muốn được trò chuyện lâu dài và ghé thăm những quán rượu quen thuộc, nêu bật niềm mong mỏi được Christopher trở lại Oxford và quê hương. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

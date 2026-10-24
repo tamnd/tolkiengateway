@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien: Voyage en Terre du Milieu"
 ---
 
-Chuyển hướng tới [Tolkien: Hành trình trên Terre du Milieu](Tolkien%253A_Voyage_en_Terre_du_Milieu.md).
+Chuyển hướng đến [Tolkien: Voyage en Terre du Milieu](Tolkien%253A_Voyage_en_Terre_du_Milieu.md).

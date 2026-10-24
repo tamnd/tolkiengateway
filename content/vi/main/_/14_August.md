@@ -73,17 +73,17 @@ Sự kiện xảy ra vào ngày 14 tháng 8
 - **[1982](1982.md)** - [Dorothy Whitelock](../D/Dorothy_Whitelock.md), đồng nghiệp cũ của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), qua đời.
 - **[1982](1982.md)** - [Mythcon 13](../M/Mythcon_13.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Chapman_University" title="wikipedia:Chapman University">Chapman College</a> ở <a class="extiw" href="http://en.wikipedia.org/wiki/Orange,_California" title="wikipedia:Orange, California">Orange</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/California" title="wikipedia:California">California</a>.
 - **[1983](1983.md)** - [Mythcon 14](../M/Mythcon_14.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Scripps_College" title="wikipedia:Scripps College">Scripps College</a> ở <a class="extiw" href="http://en.wikipedia.org/wiki/Claremont,_California" title="wikipedia:Claremont, California">Claremont</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/California" title="wikipedia:California">California</a>.
-- **[2005](2005.md)** - Hội nghị [Tolkien 2005](../T/Tolkien_2005.md) của [Hội Tolkien](../T/The_Tolkien_Society.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Birmingham" title="wikipedia:Birmingham">Birmingham</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/England" title="wikipedia:England">Anh</a>.
-- **[2010](2010.md)** - "[Edge of the Wild](<../E/Edge_of_the_Wild_(Tolkien_art_exhibit).md>)", Tolkien triển lãm nghệ thuật tại <a class="extiw" href="http://en.wikipedia.org/wiki/Moreton-in-Marsh" title="wikipedia:Moreton-in-Marsh">Moreton-in-Marsh</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/England" title="wikipedia:England">Anh</a>.
+- **[2005](2005.md)** - [Hội thảo [Tolkien 2005](../T/Tolkien_2005.md) của Hiệp hội Tolkien](../T/The_Tolkien_Society.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Birmingham" title="wikipedia:Birmingham">Birmingham</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/England" title="wikipedia:England">Anh</a>.
+- **[2010](2010.md)** - "[Edge of the Wild](<../E/Edge_of_the_Wild_(Tolkien_art_exhibit).md>)", Triển lãm nghệ thuật Tolkien tại <a class="extiw" href="http://en.wikipedia.org/wiki/Moreton-in-Marsh" title="wikipedia:Moreton-in-Marsh">Moreton-in-Marsh</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/England" title="wikipedia:England">Anh</a>.
 - **[2011](2011.md)** - <a class="external text" href="http://omentielva.com/" rel="noreferrer noopener" target="_blank">Omentielva Cantea</a> - Hội nghị quốc tế lần thứ 4 về các ngôn ngữ được phát minh của [Tolkien](../J/J.R.R._Tolkien.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Valencia" title="wikipedia:Valencia">Valencia</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Spain" title="wikipedia:Spain">Tây Ban Nha</a>.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Gandalf](../G/Gandalf.md) bị giam giữ bởi [Saruman](../S/Saruman.md) trên đỉnh của [Orthanc](../O/Orthanc.md).
+    - [Gandalf](../G/Gandalf.md) bị [Saruman](../S/Saruman.md) giam giữ trên đỉnh [Orthanc](../O/Orthanc.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - Sau tang lễ của [Théoden](../T/Théoden.md), khách mời của [Éomer](Éomer.md) ra về. [Arwen](../A/Arwen.md) từ biệt cha và các anh. [Éomer](Éomer.md) và [Éowyn](Éowyn.md) tạo ra [Merry](../M/Merry.md) một tiếng còi tuyệt vời.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+    - Sau tang lễ của [Théoden](../T/Théoden.md), khách của [Éomer](Éomer.md) ra về. [Arwen](../A/Arwen.md) chào tạm biệt cha và các anh trai cô. [Éomer](Éomer.md) và [Éowyn](Éowyn.md) thổi cho [Merry](../M/Merry.md) một tiếng kèn lớn.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

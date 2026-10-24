@@ -12,7 +12,7 @@ categories:
   - "Bands"
 ---
 
-**High** là một ban nhạc đến từ Calcutta, Ấn Độ. Ban nhạc được thành lập vào năm [1974](../_/1974.md) và chính thức tan rã vào năm [1990](../_/1990.md) sau khi Dilip, nhạc sĩ chính qua đời. Họ có một album với Tolkien bài thơ tên là Suite Tolkien. Họ bị ảnh hưởng nặng nề bởi nhạc pop và rock của Anh và Mỹ.
+**High** là một ban nhạc đến từ Calcutta, Ấn Độ. Ban nhạc được thành lập vào năm [1974](../_/1974.md) và chính thức tan rã vào năm [1990](../_/1990.md) sau khi Dilip, nhạc sĩ chính qua đời. Họ có một album gồm những bài thơ của Tolkien tên là Tolkien Suite. Họ bị ảnh hưởng nặng nề bởi nhạc pop và rock của Anh và Mỹ.
 
 ### Thành viên ban nhạc {#Band_Members}
 
@@ -22,14 +22,14 @@ categories:
 - Adi Irani chơi guitar chính cho đến năm 1975
 - Subir Chatterjee thay thế Adi chơi guitar chính sau khi Adi chuyển đến Canada
 
-### Tolkien nhạc liên quan {#Tolkien_related_music}
+### Nhạc liên quan đến Tolkien {#Tolkien_related_music}
 
-Bộ album Tolkien <sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Album Suite Tolkien <sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 - Vòng quanh —Phần I
-- The Hobbit Chủ đề
-Bài hát của - Gollum
-- Đất Mordor <sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- Chủ đề Người Hobbit
+- Bài hát của Gollum
+- Vùng đất Mordor <sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 - Những con đường đi mãi mãi <sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 - Bài hát
 - Vòng quanh — Phần II

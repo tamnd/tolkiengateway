@@ -15,8 +15,8 @@ sort_keys:
   "Podcasts": "Secrets of The Hobbit"
 ---
 
-<i><b>Bí mật của The Hobbit</b></i> là một podcast do Fr. Roderick và Dave Kale nơi họ thảo luận về [*The Hobbit* (loạt phim)](<../T/The_Hobbit_(film_series).md>) sắp tới.
+<i><b>Bí mật của người Hobbit</b></i> là một podcast do Fr. Roderick và Dave Kale nơi họ thảo luận về [*The Hobbit* (loạt phim)](<../T/The_Hobbit_(film_series).md>) sắp tới.
 
 ## Liên kết ngoài {#External_links}
 
-- <i><a class="external text" href="http://thehobbit.sqpn.com/" rel="noreferrer noopener" target="_blank">Bí mật của The Hobbit</a></i>
+- <i><a class="external text" href="http://thehobbit.sqpn.com/" rel="noreferrer noopener" target="_blank">Bí mật của người Hobbit</a></i>

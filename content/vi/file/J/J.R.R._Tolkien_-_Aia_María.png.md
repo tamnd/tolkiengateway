@@ -25,7 +25,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Hình ảnh đã cắt của bản thảo *[Aia María IV](../../main/A/Aia_María.md)*của Tolkien, bản dịch [Quenya](../../main/Q/Quenya.md) của Ave María, được xuất bản trong [*Vinyar Tengwar*, Số 43](../../main/V/Vinyar_Tengwar_43.md), tr. 4, được biên tập bởi [Patrick H. Wynne](../../main/P/Patrick_H._Wynne.md), [Arden R. Smith](../../main/A/Arden_R._Smith.md) và [Carl F. Hostetter](../../main/C/Carl_F._Hostetter.md).
+Hình ảnh đã cắt của bản thảo *[Aia María IV](../../main/A/Aia_María.md)* của Tolkien, bản dịch [Quenya](../../main/Q/Quenya.md) của Ave María, được xuất bản trong [*Vinyar Tengwar*, Số 43](../../main/V/Vinyar_Tengwar_43.md), tr. 4, được biên tập bởi [Patrick H. Wynne](../../main/P/Patrick_H._Wynne.md), [Arden R. Smith](../../main/A/Arden_R._Smith.md) và [Carl F. Hostetter](../../main/C/Carl_F._Hostetter.md).
 
 ## Giấy phép {#Licensing}
 

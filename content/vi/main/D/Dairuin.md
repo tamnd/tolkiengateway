@@ -41,9 +41,9 @@ infobox:
 
 ## Lịch sử {#History}
 
-Dairuin chiến đấu trong [Dagor Bragollach](Dagor_Bragollach.md) dưới sự chỉ huy [Barahir](../B/Barahir.md). Anh ta là thành viên của một nhóm nhỏ gồm [mười hai](../B/Barahir's_outlaws.md) [Bëorings](../B/Bëorings.md) trung thành với lãnh chúa của họ đã sống sót.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Những người sống sót đã thành lập một ban nhạc nhỏ và sống ngoài vòng pháp luật ở [Dorthonion](Dorthonion.md), gần [Tarn Aeluin](../T/Tarn_Aeluin.md).
+Dairuin chiến đấu ở [Dagor Bragollach](Dagor_Bragollach.md) dưới sự chỉ huy [Barahir](../B/Barahir.md). Ông ta là thành viên của một nhóm nhỏ [mười hai](../B/Barahir's_outlaws.md) [Bëorings](../B/Bëorings.md) trung thành với lãnh chúa của họ đã sống sót.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Những người sống sót đã thành lập một ban nhạc nhỏ và sống ngoài vòng pháp luật ở [Dorthonion](Dorthonion.md), gần [Tarn Aeluin](../T/Tarn_Aeluin.md).
 
-Họ sống ẩn náu một thời gian cho đến khi đặc vụ của [Morgoth](../M/Morgoth.md)bắt được thành viên ngoài vòng pháp luật [Gorlim](../G/Gorlim.md) của anh ta và ép anh ta khai ra địa điểm nơi ẩn náu của họ. [Orc](../O/Orcs.md) được cử đi đột kích nó và đã thành công. Dairuin và những kẻ ngoài vòng pháp luật khác đã bị giết. Chỉ có [Beren](../B/Beren.md) sống sót vì anh ta đã đi công tác xa.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Họ sống ẩn náu một thời gian, cho đến khi đặc vụ của [Morgoth](../M/Morgoth.md) bắt được thành viên ngoài vòng pháp luật [Gorlim](../G/Gorlim.md) của ông ta và ép ông ta tiết lộ vị trí nơi ẩn náu của họ. [Orc](../O/Orcs.md) được cử đi đột kích và đã thành công. Dairuin và những kẻ ngoài vòng pháp luật khác đã bị giết. Chỉ có [Beren](../B/Beren.md) sống sót vì ông đã đi công tác xa.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

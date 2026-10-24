@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Mary Fairburn (4 September 1968)"
 ---
 
-Chuyển hướng tới [Thư gửi Mary Fairburn (4 tháng Chín 1968)](<../L/Letter_to_Mary_Fairburn_(4_September_1968).md>).
+Chuyển hướng tới [Thư gửi Mary Fairburn (4 tháng 9 năm 1968)](<../L/Letter_to_Mary_Fairburn_(4_September_1968).md>).

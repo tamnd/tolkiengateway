@@ -20,7 +20,7 @@ images:
 
 Điều này đề cập một cách không chính thức đến hai tập sách đi kèm với hai ấn bản nhất định của *[The Hobbit](The_Hobbit.md)*. Chúng giống nhau về định dạng và nội dung, chứa đựng những thứ linh tinh liên quan đến *The Hobbit*.
 
-Đáng chú ý nhất là chúng có chứa một bài giảng có tựa đề "[Rồng](<../D/Dragons_(lecture).md>)" của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), chưa được xuất bản đầy đủ ở bất kỳ nơi nào khác.
+Đáng chú ý nhất là chúng có một bài giảng có tựa đề "[Dragons](<../D/Dragons_(lecture).md>)" của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), bài giảng này chưa được xuất bản đầy đủ ở bất kỳ nơi nào khác.
 
 ## *The Hobbit 1937-2017* {#The_Hobbit_1937-2017}
 
@@ -31,7 +31,7 @@ images:
 - Phiên bản sau
 - 'The tích trữ' của J.R.R. Tolkien
 - Bài giảng về Rồng
-- 'Rồng' bởi J.R.R. Tolkien
+- 'Rồng' của J.R.R. Tolkien
 
 ## *Mathoms* {#Mathoms}
 
@@ -40,9 +40,9 @@ images:
 Cuốn sách nhỏ này một lần nữa được đưa vào *The Hobbit Illustrated by the Author* ấn bản đóng trượt sang trọng (<a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/9780008627836">ISBN 9780008627836</a>) ở [2023](../_/2023.md). nó có 88 trang, nhiều hơn trang trước một phần.
 
 - Lịch sử của *The Hobbit*
-Thư của - Thorin gửi Bilbo\*
+- Thorin gửi Bilbo\*
 - Xuất bản
 - Phiên bản sau
 - 'The tích trữ' của J.R.R. Tolkien
 - Bài giảng về Rồng
-- 'Rồng' bởi J.R.R. Tolkien
+- 'Rồng' của J.R.R. Tolkien

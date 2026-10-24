@@ -27,13 +27,13 @@ langlinks:
     url: "https://www.tolkiendil.com/encyclo/personnages/ainur/valar/nieliqui"
 ---
 
-**Nielíqui** là một thiếu nữ [Vala](../V/Valar.md) theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) ở *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.
+**Nielíqui** là một thiếu nữ [Vala](../V/Valar.md) theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.
 
 Cô là con gái của [Oromë](../O/Oromë.md) và [Vána](../V/Vána.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Cô cũng thích khiêu vũ trong [khu rừng](../W/Woods_of_Oromë.md) của cha mình và [Ómar](../_/Ómar.md) đôi khi sẽ cùng cô hát theo.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Người ta nói rằng: "nơi nước mắt cô rơi, những giọt tuyết rơi, nơi chân cô chạm vào khi cô cười khi hoa thủy tiên nở rộ".<sup id="cite_ref-Nie_4-0" class="reference"><a href="#cite_note-Nie-4">[4]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Ngoài dạng <i><b>Nielíqui</b></i>, còn có các biến thể khác về tên của cô ấy: <i><b>Nielikki</b></i> hoặc <i><b>Nyelikki</b></i>, và <i><b>Nieliqi</b></i>.<sup id="cite_ref-Nie_4-1" class="reference"><a href="#cite_note-Nie-4">[4]</a></sup> *Nielikki* có lẽ được dự định là "dạng tên thú cưng" của *Nieliqi*.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Cô ấy còn được gọi là <i><b>Wendine</b></i> (có nghĩa là "Thiếu nữ" trong [Qenya](../Q/Qenya.md)).<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Ngoài dạng <i><b>Nielíqui</b></i>, còn có các biến thể khác về tên của bà: <i><b>Nielikki</b></i> hoặc <i><b>Nyelikki</b></i>, và <i><b>Nieliqi</b></i>.<sup id="cite_ref-Nie_4-1" class="reference"><a href="#cite_note-Nie-4">[4]</a></sup> *Nielikki* có lẽ được dự định là "dạng tên thú cưng" của *Nieliqi*.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Bà còn được gọi là <i><b>Wendine</b></i> (có nghĩa là "Thiếu nữ" trong [Qenya](../Q/Qenya.md)).<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 ## Phả hệ {#Genealogy}
 

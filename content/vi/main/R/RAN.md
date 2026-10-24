@@ -12,7 +12,7 @@ categories:
   - "Roots"
 ---
 
-**RAN** là một [Common Eldarin](../C/Common_Eldarin.md) [gốc](../S/Sundocarme.md) biểu thị "đi lang thang, đi lạc, đi lang thang, đi theo con đường không chắc chắn".<sup id="cite_ref-VT_1-0" class="reference"><a href="#cite_note-VT-1">[1]</a></sup> Ngoài ra còn có một dạng thay thế của gốc, **RĂNĂ**, được cho là biểu thị "đi lang thang".<sup id="cite_ref-PE_2-0" class="reference"><a href="#cite_note-PE-2">[2]</a></sup>
+**RAN** là một [Eldarin thông thường](../C/Common_Eldarin.md) [gốc](../S/Sundocarme.md) biểu thị "đi lang thang, đi lạc, đi lang thang, đi theo con đường không chắc chắn".<sup id="cite_ref-VT_1-0" class="reference"><a href="#cite_note-VT-1">[1]</a></sup> Ngoài ra còn có một dạng thay thế của từ gốc, **RĂNĂ**, được cho là biểu thị "đi lang thang".<sup id="cite_ref-PE_2-0" class="reference"><a href="#cite_note-PE-2">[2]</a></sup>
 
 ## Công cụ phái sinh {#Derivatives}
 
@@ -21,20 +21,20 @@ categories:
     - Sindarin: *rein*, *rain* ("lang thang thất thường"); *[randír](Randir.md)*<sup id="cite_ref-VT_1-2" class="reference"><a href="#cite_note-VT-1">[1]</a></sup>
 
 - RĂNG
-    - [Sindarin](../S/Sindarin.md) *[randir](Randir.md)*<sup id="cite_ref-PE_2-1" class="reference"><a href="#cite_note-PE-2">[2]</a></sup>
+    - [tiếng Sindarin](../S/Sindarin.md) *[randir](Randir.md)*<sup id="cite_ref-PE_2-1" class="reference"><a href="#cite_note-PE-2">[2]</a></sup>
 
 ## Phiên bản khác {#Other_versions}
 
-Trong *[Etymologies](../T/The_Etymologies.md)* xuất hiện RAN gốc [Primitive Quendian](../P/Primitive_Quendian.md) ("đi lang thang, đi lạc"). Trong số các dẫn xuất của nó có:<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Trong *[Etymologies](../T/The_Etymologies.md)* xuất hiện RAN gốc [Quendian nguyên thủy](../P/Primitive_Quendian.md) ("đi lang thang, đi lạc"). Trong số các dẫn xuất của nó có:<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-- Primitive Quendian: *[Ranā](../M/Moon.md#Other_names)* ("Mặt Trăng")
+- Quendian nguyên thủy: *[Ranā](../M/Moon.md#Other_names)* ("Mặt trăng")
     - Quenya: *[Rana](../M/Moon.md#Other_names)*
     - [Noldorin](../N/Noldorin.md): *[Rhân](../M/Moon.md#Other_names)*
 
 - Quenya: *ranya-* ("đi lạc"); *ráne* ("đi lạc, lang thang"); *ránen* ("lỗi")
 - Noldorin: *rhenio* ("đi lạc"); *rhaun* ("lỗi"); *[rhandir](Rhandir.md)*
 
-- Primitive Quendian: *(a)raniā* ("miễn phí, \[?không kiểm soát\]")<sup id="cite_ref-Corr_4-0" class="reference"><a href="#cite_note-Corr-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[note 1]</a></sup>
+- Quendian nguyên thủy: *(a)raniā* ("miễn phí, \[?không kiểm soát\]")<sup id="cite_ref-Corr_4-0" class="reference"><a href="#cite_note-Corr-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[note 1]</a></sup>
     - Noldorin: *[rhain, rhein](Rhain.md)*<sup id="cite_ref-Corr_4-1" class="reference"><a href="#cite_note-Corr-4">[4]</a></sup>
     - Quenya: *[(a)ranya](<../_/(a)ranya.md>)*<sup id="cite_ref-Corr_4-2" class="reference"><a href="#cite_note-Corr-4">[4]</a></sup>
 

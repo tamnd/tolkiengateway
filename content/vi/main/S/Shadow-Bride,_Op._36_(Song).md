@@ -13,9 +13,9 @@ categories:
   - "Songs (real-world)"
 ---
 
-Nhà soạn nhạc [Paul Corfield Godfrey](../P/Paul_Corfield_Godfrey.md) đã được [Rayner Unwin](../R/Rayner_Unwin.md) cho phép trong [1978](../_/1978.md) để sáng tác bối cảnh này cho bài thơ [Bóng Tối-Bride](Shadow-Bride.md) của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
+Nhà soạn nhạc [Paul Corfield Godfrey](../P/Paul_Corfield_Godfrey.md) đã được [Rayner Unwin](../R/Rayner_Unwin.md) cho phép trong [1978](../_/1978.md) để sáng tác bối cảnh này cho bài thơ [Shadow-Bride](Shadow-Bride.md) của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
-Bóng Tối-cô dâu được viết cho viola và đệm piano, như một sự ủy thác cho Sheila Searchfield và Myra Ricketts, những người đã trình diễn lần đầu tiên tại Greenwich Festival năm 1978.
+Shadow-bride được viết cho viola và piano đệm, như một sự ủy thác cho Sheila Searchfield và Myra Ricketts, những người đã trình diễn lần đầu tiên tại Greenwich Festival năm 1978.
 
 Chất liệu của bài hát sau đó đã được sử dụng trong hoàn cảnh tương tự trong vở opera, *[The Fall of Gondolin, Op. 49 (Opera)](<../T/The_Fall_of_Gondolin,_Op.49_(Opera).md>)*.
 

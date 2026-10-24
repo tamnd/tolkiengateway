@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Umbar: Haven of the Corsairs"
 ---
 
-Chuyển hướng đến [Umbar: Bến cảng của Corsairs](../U/Umbar%253A_Haven_of_the_Corsairs.md).
+Chuyển hướng đến [Umbar: Haven of the Corsairs](../U/Umbar%253A_Haven_of_the_Corsairs.md).

@@ -19,11 +19,11 @@ images:
 
 **Citadel Miniatures** là một công ty sản xuất các bức tượng nhỏ dành cho trò chơi chiến tranh. Mặc dù từng là một công ty riêng biệt nhưng giờ đây công ty chủ yếu đóng vai trò là thương hiệu cho [Games Workshop](../G/Games_Workshop.md).
 
-Vào tháng 12 [1984](../_/1984.md), Games Workshop thông báo rằng họ đã giành được quyền sử dụng Chúa tể những chiếc nhẫn cho Thành cổ, để sử dụng với [Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Cuối cùng, họ sẽ mất giấy phép này vào tay [Mithril Miniatures](../M/Mithril_Miniatures.md). Citadel sau này sẽ sản xuất các mô hình thu nhỏ cho [The Lord of the Rings Trò chơi chiến đấu chiến lược](../T/The_Lord_of_the_Rings_Strategy_Battle_Game.md) và những trò chơi kế nhiệm của nó.
+Vào tháng 12 [1984](../_/1984.md), Games Workshop thông báo rằng họ đã giành được quyền sử dụng Chúa tể những chiếc nhẫn cho Citadel trong [Trò chơi nhập vai ở Trung Địa](../M/Middle-earth_Role_Playing.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Cuối cùng, họ sẽ mất giấy phép này vào tay [Mithril Miniatures](../M/Mithril_Miniatures.md). Citadel sau này sẽ sản xuất các tác phẩm thu nhỏ cho [The Lord of the Rings Strategy Battle Game](../T/The_Lord_of_the_Rings_Strategy_Battle_Game.md) và những người kế nhiệm nó.
 
 ## Bộ hộp {#Box_sets}
 
-### BME1 - The Fellowship of the Ring {#BME1_-_The_Fellowship_of_the_Ring}
+### BME1 - Hiệp hội Nhẫn {#BME1_-_The_Fellowship_of_the_Ring}
 
 *The Fellowship of the Ring* đến cùng với [học bổng](../F/Fellowship_of_the_Ring.md) và [Bill the Pony](../B/Bill_the_Pony.md).
 
@@ -53,7 +53,7 @@ Vào tháng 12 [1984](../_/1984.md), Games Workshop thông báo rằng họ đã
 
 ### Thành BME3 - Balrog: Chạm trán ở Khazad-dum {#Citadel_BME3_-_Balrog:_Encounter_at_Khazad-dum}
 
-*Balrog: Encounter at Khazad-dum* đi kèm với Balrog, Gandalf, Aragorn và Boromir.
+*Balrog: Encounter at Khazad-dum* đến cùng với Balrog, Gandalf, Aragorn và Boromir.
 
 <ul class="gallery mw-gallery-traditional">
 		<li class="gallerybox" style="width: 155px">
@@ -69,44 +69,44 @@ Vào tháng 12 [1984](../_/1984.md), Games Workshop thông báo rằng họ đã
 
 - Anh hùng học bổng ME-1
 - Anh hùng học bổng ME-2
-- ME-11 Gandalf cái Pháp sư
-- ME-12 Strider Biệt Động Quân
-- ME-13 Frodo: Hobbit Anh hùng
-- ME-14 Legolas: Tiên Anh hùng
-- ME-15 Gimli: Người lùn Anh hùng
-- ME-21 Boromir: Người đàn ông của Gondor
-- ME-22 Elrond: Nửa-Tiên Chúa
+- ME-11 Pháp sư Gandalf
+- ME-12 Kiểm lâm viên Strider
+- ME-13 Frodo: Anh hùng Hobbit
+- ME-14 Legolas: Anh hùng yêu tinh
+- ME-15 Gimli: Anh hùng người lùn
+- ME-21 Boromir: Người đàn ông Gondor
+- ME-22 Elrond: Chúa tể nửa yêu tinh
 - ME-23 Rohirrim
-- ME-24 Gondor Bảo vệ Thành cổ
-- Biệt kích ME-25 của Ithilien
-- ME-31 Silvan Tiên tộc
-- ME-32 Noldor - Sâu Tiên tộc
-- ME-33 Người Lùn
-- ME-34 Hobbit của Shire
+- ME-24 Lính gác Thành Gondor
+- ME-25 Biệt đội Ithilien
+- ME-31 Yêu tinh Silvan
+- ME-32 Noldor - Yêu tinh sâu
+- ME-33 Người lùn
+- ME-34 Người Hobbit xứ Shire
 - ME-35 Beorn: Là Người và Gấu
-- ME-36 Orc của Bàn tay trắng
+- ME-36 Orc Bàn Tay Trắng
 - ME-41 Goblin Warg Rider
-- ME-42 Orc của Bàn tay trắng
-- ME-43 Một nửa-Orc của Saruman
+- ME-42 Orc Bàn Tay Trắng
+- ME-43 Bán Orc của Saruman
 - ME-44 Uruk-Hai
-- ME-45 Dunlending: Đồi Con Người
-- ME-51 Orc của Mắt Đỏ
+- ME-45 Dunlending: Người miền núi
+- ME-51 Orc Mắt Đỏ
 - ME-52 Olog-Hai: Quỷ lùn
-- ME-53 Southron: Ác ma Haradrim
-- ME-54 Phương Đông
-- ME-55 Miệng của Sauron
+- ME-53 Southron: Haradrim độc ác
+- ME-54 Người phương Đông
+- ME-55 Miệng Sauron
 - ME-56 Sauron Saruman Nazgul
-- ME-61 Sauron: Chúa tể Bóng tối
-- ME-62 Saruman màu trắng
+- ME-61 Sauron: Chúa tể bóng tối
+- ME-62 Saruman Trắng
 - ME-63 Chúa tể của Nazgul
-- ME-64 Kỵ Sĩ Đen: Ma Nhẫn
-- ME-71 Hải tặc Umbar
-- ME-72 Chết Con Người trong số Dunharrow
-- ME-73 Xe Barrow
-- ME-74 Lỗi: Goblin
+- ME-64 Black Rider: Ma Nhẫn
+- ME-71 Cướp biển vùng Umbar
+- ME-72 Người chết của Dunharg
+- ME-73 Barrow Wights
+- ME-74 Snagga: Yêu tinh
 - ME-75 Hiệp sĩ của Dol Amroth
-- ME-81 Aragorn: Vua Gondor
-Gói - ME-82 The Hobbit
+- ME-81 Aragorn: Vua xứ Gondor
+- ME-82 Gói Hobbit
 - ME-83 Tom Bombadil
 - ME-84 Đại bàng lớn
 - ME-85 Treebeard: Ent hùng mạnh

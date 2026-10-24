@@ -43,11 +43,11 @@ infobox:
 
 **Lanthir Lamath**, "Thác nước vang vọng giọng nói"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>, là thác nước lung linh, lấp lánh chạy bên cạnh ngôi nhà của [Dior Eluchíl](../D/Dior.md) ở [Ossiriand](../O/Ossiriand.md). Nó có lẽ là một phần của dòng sông [Adurant](../A/Adurant.md).
 
-Lanthir Lamath nổi tiếng nhất vì đã truyền cảm hứng cho cái tên [Elwing](../E/Elwing.md)của con gái Dior, cái tên - có nghĩa là 'Sao phun' - được lấy cảm hứng từ nước rơi vào đêm đầy sao khi cô bé được sinh ra.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Lanthir Lamath nổi tiếng nhất vì đã truyền cảm hứng cho cái tên [Elwing](../E/Elwing.md) của con gái Dior, cái tên - có nghĩa là 'Sao phun' - được lấy cảm hứng từ dòng nước rơi trong đêm đầy sao khi cô bé chào đời.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Lanthir Lamath* là [Sindarin](../S/Sindarin.md) của "Thác nước vang vọng", từ <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Lamthir&amp;action=edit&amp;redlink=1" title="Lamthir (page does not exist)">lamthir</a></i> ("thác nước") + số nhiều <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Lam&amp;action=edit&amp;redlink=1" title="Lam (page does not exist)">lam</a></i> ("tiếng vang").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+*Lanthir Lamath* là [Sindarin](../S/Sindarin.md) của "Thác nước vang vọng", từ <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Lamthir&amp;action=edit&amp;redlink=1" title="Lamthir (page does not exist)">lamthir</a></i> ("thác nước") + số nhiều <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Lam&amp;action=edit&amp;redlink=1" title="Lam (page does not exist)">lam</a></i> ("echo").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

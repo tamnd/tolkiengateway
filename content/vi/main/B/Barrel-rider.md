@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Bilbo Baggins"
 ---
 
-Chuyển hướng đến [Bilbo Baggins](Bilbo_Baggins.md).
+Chuyển hướng tới [Bilbo Baggins](Bilbo_Baggins.md).

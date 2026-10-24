@@ -28,12 +28,12 @@ langlinks:
 
 ## Từ nguyên {#Etymology}
 
-Trong *[Etymologies](The_Etymologies.md)*, Noldorin *thalion* xuất phát từ [Primitive Quendian](../P/Primitive_Quendian.md) *stalgondō*, từ gốc <a class="new" href="https://tolkiengateway.net/w/index.php?title=ST%C3%81LAG&amp;action=edit&amp;redlink=1" title="STÁLAG (page does not exist)">STÁLAG</a>.<sup id="cite_ref-LR_3-1" class="reference"><a href="#cite_note-LR-3">[3]</a></sup>
+Trong *[Etymologies](The_Etymologies.md)*, Noldorin *thalion* bắt nguồn từ [Quendian nguyên thủy](../P/Primitive_Quendian.md) *stalgondō*, từ gốc <a class="new" href="https://tolkiengateway.net/w/index.php?title=ST%C3%81LAG&amp;action=edit&amp;redlink=1" title="STÁLAG (page does not exist)">STÁLAG</a>.<sup id="cite_ref-LR_3-1" class="reference"><a href="#cite_note-LR-3">[3]</a></sup>
 
 ## Là Tên {#As_a_Name}
 
-- [Húrin](../H/Húrin.md) con trai của [Galdor](<../G/Galdor_(Lord_of_Dor-lómin).md>), [Lãnh chúa cuối cùng của Dor-lómin](../L/Lord_of_Dor-lómin.md) được gọi là **Thalion**, "Người kiên định".
-- [Mardil Voronwë](../M/Mardil.md), [Người quản lý cầm quyền](../R/Ruling_Steward.md) đầu tiên của [Gondor](../G/Gondor.md) được mệnh danh là "Người kiên định" vì đã ngăn chặn nội chiến bằng cách nắm quyền cai trị Gondor.
+- [Húrin](../H/Húrin.md) con trai của [Galdor](<../G/Galdor_(Lord_of_Dor-lómin).md>), [Lãnh chúa của Dor-lómin](../L/Lord_of_Dor-lómin.md) cuối cùng được gọi là **Thalion**, "Người kiên định".
+- [Mardil Voronwë](../M/Mardil.md), [Quản lý cầm quyền](../R/Ruling_Steward.md) đầu tiên của [Gondor](../G/Gondor.md) được mệnh danh là "Người kiên định" vì đã ngăn chặn nội chiến bằng cách nắm quyền cai trị Gondor.
 
 ## Xem thêm {#See_also}
 

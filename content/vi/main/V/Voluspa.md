@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Völuspá"
 ---
 
-Chuyển hướng đến [Völuspá](Völuspá.md).
+Chuyển hướng tới [Völuspá](Völuspá.md).

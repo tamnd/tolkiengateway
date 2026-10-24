@@ -13,7 +13,7 @@ categories:
   - "Sindarin nouns"
 ---
 
-<i><b>eithel</b></i> là [Sindarin](../S/Sindarin.md) thuật ngữ cho "tốt".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>eithel</b></i> là thuật ngữ [Sindarin](../S/Sindarin.md) cho "tốt".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Ví dụ {#Examples}
 

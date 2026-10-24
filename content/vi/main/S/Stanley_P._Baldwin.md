@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Baldwin, Stephen P."
 ---
 
-**Stanley P. Baldwin** (sinh [1942](../_/1942.md)) là một nhà văn và giáo viên, hiện đang sống ở Nebraska. Anh ấy là người thường xuyên đóng góp cho các loạt bài mang tính học thuật như <a class="extiw" href="http://en.wikipedia.org/wiki/SparkNotes" title="wikipedia:SparkNotes">SparkNotes</a> và [CliffsNotes](../C/Cliffs_Notes_on_Tolkien's_The_Lord_of_the_Rings_and_The_Hobbit.md). Anh ấy đã viết về *[Beowulf](<../B/Beowulf_(poem).md>)* và nhiều tác phẩm khác trong loạt bài sau, và [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) trong loạt bài trước.
+**Stanley P. Baldwin** (sinh [1942](../_/1942.md)) là một nhà văn và giáo viên, hiện đang sống ở Nebraska. Ông là người thường xuyên đóng góp cho các loạt bài mang tính học thuật như <a class="extiw" href="http://en.wikipedia.org/wiki/SparkNotes" title="wikipedia:SparkNotes">SparkNotes</a> và [CliffsNotes](../C/Cliffs_Notes_on_Tolkien's_The_Lord_of_the_Rings_and_The_Hobbit.md). Ông đã viết về *[Beowulf](<../B/Beowulf_(poem).md>)* và nhiều tác phẩm khác trong loạt bài sau, và [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) trong loạt bài trước.
 
 ## Thư mục {#Bibliography}
 

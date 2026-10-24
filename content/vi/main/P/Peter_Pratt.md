@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Pratt, Peter"
 ---
 
-**Peter Pratt** ([21 tháng 3](../_/21_March.md), [1923](../_/1923.md) – [11 tháng 1](../_/11_January.md), [1995](../_/1995.md)) là một diễn viên và ca sĩ người Anh. Anh ấy đã chơi [Balin](../B/Balin.md) trong [*The Hobbit* (loạt phim phát thanh năm 1968)](<../T/The_Hobbit_(1968_radio_series).md>).
+**Peter Pratt** ([21 tháng 3](../_/21_March.md), [1923](../_/1923.md) – [11 tháng 1](../_/11_January.md), [1995](../_/1995.md)) là một diễn viên và ca sĩ người Anh. Ông chơi [Balin](../B/Balin.md) trong [*The Hobbit* (loạt phim phát thanh năm 1968)](<../T/The_Hobbit_(1968_radio_series).md>).
 
 ## Liên kết ngoài {#External_links}
 

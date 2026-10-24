@@ -25,7 +25,7 @@ Từ nguyên của *senya*/*senwa* vẫn chưa được biết. [Patrick H. Wynn
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-<i><b>senya</b></i> cũng xuất hiện trong chương *[The Disaster of the Gladden Fields](../T/The_Disaster_of_the_Gladden_Fields.md)*, mặc dù không bị mất.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Người ta cho rằng nó có thể có nghĩa là "con trai tôi", như được [Isildur](../I/Isildur.md) nói khi con trai ông [Elendur](<../E/Elendur_(son_of_Isildur).md>) sử dụng từ *[atarinya](../A/Atarinya.md)*hoặc "cha tôi".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+<i><b>senya</b></i> cũng xuất hiện trong chương *[The Disaster of the Gladden Fields](../T/The_Disaster_of_the_Gladden_Fields.md)*, mặc dù không bị mất.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Người ta cho rằng nó có thể có nghĩa là "con trai tôi", như được [Isildur](../I/Isildur.md) nói khi con trai ông [Elendur](<../E/Elendur_(son_of_Isildur).md>) sử dụng từ *[atarinya](../A/Atarinya.md)* hoặc "cha tôi".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

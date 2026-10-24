@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Chi tiết tác phẩm "[Yule at Bag End, 1427](Miriam_Ellis_-_Yule_at_Bag_End,_1427.jpg.md)" của [Miriam Ellis](../../main/M/Miriam_Ellis.md), mô tả [Wilcome Cotton I](../../main/W/Wilcome_Cotton_I.md)
+Chi tiết bức tranh "[Yule at Bag End, 1427](Miriam_Ellis_-_Yule_at_Bag_End,_1427.jpg.md)" của [Miriam Ellis](../../main/M/Miriam_Ellis.md), mô tả [Wilcome Cotton I](../../main/W/Wilcome_Cotton_I.md)
 
 ## Giấy phép {#Licensing}
 

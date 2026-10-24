@@ -18,19 +18,19 @@ sort_keys:
   "People by name": "Thomas, Chance"
 ---
 
-**Chance Thomas** là nhà soạn nhạc và sản xuất nhạc gốc cho trò chơi điện tử. Anh ấy từng là giám đốc âm nhạc của [Sierra Online](../S/Sierra_Entertainment.md) cũng như [Electronic Arts](../E/Electronic_Arts.md)' và đã làm việc trên nhiều trò chơi Tolkien. Năm 1998, anh được thuê để sáng tác nhạc cho *[Middle-earth Online](../M/Middle-earth_Online.md)*, một dự án sau này trở thành *[The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md)*.
+**Chance Thomas** là nhà soạn nhạc và sản xuất nhạc gốc cho trò chơi điện tử. Ông từng là giám đốc âm nhạc của [Sierra Online](../S/Sierra_Entertainment.md) cũng như [Electronic Arts](../E/Electronic_Arts.md)' và đã từng làm việc trên nhiều trò chơi Tolkien. Năm 1998, anh được thuê để sáng tác nhạc cho *[Middle-earth Online](../M/Middle-earth_Online.md)*, một dự án sau này trở thành *[The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md)*.
 
 ## Danh sách đĩa {#Discography}
 
 - [1999](../_/1999.md): *[Tolkien's Middle-earth](../T/Tolkien's_Middle-earth.md)* (giám sát, chưa công bố)
-- [2002](../_/2002.md): [*The Lord of the Rings: The Fellowship of the Ring* (trò chơi điện tử)](<../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md>) (giám sát, đoạn giới thiệu)
-- [2002](../_/2002.md): [*The Lord of the Rings: The Two Towers* (trò chơi điện tử)](<../T/The_Lord_of_the_Rings%253A_The_Two_Towers_(video_game).md>) (giám sát)
+- [2002](../_/2002.md): [*The Lord of the Rings: The Fellowship of the Ring* (video game)](<../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md>) (giám sát, trailer)
+- [2002](../_/2002.md): [*The Lord of the Rings: The Two Towers* (video game)](<../T/The_Lord_of_the_Rings%253A_The_Two_Towers_(video_game).md>) (giám sát)
 - [2003](../_/2003.md): [*The Hobbit* (trò chơi điện tử năm 2003)](<../T/The_Hobbit_(2003_video_game).md>) (giám sát)
 - [2003](../_/2003.md): *[The Lord of the Rings: The Treason of Isengard](../T/The_Lord_of_the_Rings%253A_The_Treason_of_Isengard.md)* (giám sát, đã hủy)
 - [2003](../_/2003.md): *[The Lord of the Rings: War of the Ring](../T/The_Lord_of_the_Rings%253A_War_of_the_Ring.md)* (nhà soạn nhạc)
 - [2007](../_/2007.md): *[The Lord of the Rings Online: Shadows of Angmar](<../T/The_Lord_of_the_Rings_Online%253A_Shadows_of_Angmar_(soundtrack).md>)* (nhà soạn nhạc)
 - [2008](../_/2008.md): *[The Lord of the Rings Online: Mines of Moria](<../T/The_Lord_of_the_Rings_Online%253A_Mines_of_Moria_(soundtrack).md>)* (nhà soạn nhạc)
-- [2012](../_/2012.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Lord_of_the_Rings_Online:_Riders_of_Rohan_(soundtrack)&amp;action=edit&amp;redlink=1" title="The Lord of the Rings Online: Riders of Rohan (soundtrack) (page does not exist)">The Lord of the Rings Online: Những tay đua của Rohan (nhạc phim)</a></i> (nhà soạn nhạc)
+- [2012](../_/2012.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Lord_of_the_Rings_Online:_Riders_of_Rohan_(soundtrack)&amp;action=edit&amp;redlink=1" title="The Lord of the Rings Online: Riders of Rohan (soundtrack) (page does not exist)">Chúa tể của những chiếc nhẫn trực tuyến: Riders of Rohan (nhạc phim)</a></i> (nhà soạn nhạc)
 
 ## Trích dẫn {#Quotes}
 

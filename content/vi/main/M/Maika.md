@@ -18,11 +18,11 @@ categories:
 
 ## Từ nguyên {#Etymology}
 
-- [Gốc](../S/Sundocarme.md) MAK ("cắt, đẽo có cạnh sắc")<sup id="cite_ref-VT39_2-1" class="reference"><a href="#cite_note-VT39-2">[2]</a></sup>
+- [Gốc](../S/Sundocarme.md) MAK ("cắt, đẽo bằng cạnh sắc")<sup id="cite_ref-VT39_2-1" class="reference"><a href="#cite_note-VT39-2">[2]</a></sup>
 
 ## Xem thêm {#See_also}
 
-- [Sindarin](../S/Sindarin.md) *[maeg](Maeg.md)*<sup id="cite_ref-SApp_1-1" class="reference"><a href="#cite_note-SApp-1">[1]</a></sup>
+- [tiếng Sindarin](../S/Sindarin.md) *[maeg](Maeg.md)*<sup id="cite_ref-SApp_1-1" class="reference"><a href="#cite_note-SApp-1">[1]</a></sup>
 
 <span></span>
 

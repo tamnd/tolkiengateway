@@ -25,13 +25,13 @@ sort_keys:
   "Tolkien Society members": "Helen, Daniel"
 ---
 
-**Daniel Helen** là Chủ tịch lâm thời của [Hội Tolkien](../T/The_Tolkien_Society.md), sau khi [Shaun Gunner](../S/Shaun_Gunner.md) được thăng chức lên vai trò Giám đốc điều hành vào [ngày 1 tháng 6](../_/1_June.md) [2025](../_/2025.md).
+**Daniel Helen** là Chủ tịch lâm thời của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md), sau khi [Shaun Gunner](../S/Shaun_Gunner.md) được thăng chức lên vai trò Giám đốc điều hành vào [ngày 1 tháng 6](../_/1_June.md) [2025](../_/2025.md).
 
 ## Thư mục {#Bibliography}
 
 ### Sách {#Books}
 
-- [2017](../_/2017.md): [Cái chết và sự bất tử trong Trung Địa](Death_and_Immortality_in_Middle-earth.md) (biên tập viên)
+- [2017](../_/2017.md): [Cái chết và sự bất tử ở Trung Địa](Death_and_Immortality_in_Middle-earth.md) (biên tập viên)
 
 ### Bài viết {#Articles}
 
@@ -40,7 +40,7 @@ sort_keys:
 - [2013](../_/2013.md): [*Mallorn* 54](../M/Mallorn_54.md)
     - "Hồi ức về Tolkien: Canon Gerard Hanlon" (đồng tác giả với [Morgan Thomsen](../M/Morgan_Thomsen.md))
 - [2014](../_/2014.md): [*Amon Hen* 249](../A/Amon_Hen_249.md)
-    - "Sói của bầy ong The Hobbit"
+    - "Sói của bầy ong ở người Hobbit"
 - [2017](../_/2017.md): [*Amon Hen* 268](../A/Amon_Hen_268.md)
     - "Rath Dínen: [Faith Tolkien](../F/Faith_Tolkien.md)/[Roger Garland](../R/Roger_Garland.md)" (đồng tác giả với Ian Collier)
 

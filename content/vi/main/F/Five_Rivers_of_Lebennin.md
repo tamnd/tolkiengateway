@@ -21,17 +21,17 @@ langlinks:
     url: "https://kontu.wiki/Lebennin"
 ---
 
-**Năm con sông [Lebennin](../L/Lebennin.md)** như sau:
+**Năm con sông của [Lebennin](../L/Lebennin.md)** như sau:
 
 1. Sông [Erui](../E/Erui.md),
 2. Sông [Sirith](../S/Sirith.md) gặp sông [Anduin](../A/Anduin.md) tại [Pelargir](../P/Pelargir.md),
-3. Sông [Celos](../C/Celos.md), bắt nguồn từ [Dãy Núi Trắng](../W/White_Mountains.md) và trở thành một nhánh của sông Sirith,
+3. Sông [Celos](../C/Celos.md), bắt nguồn từ [Dãy núi Trắng](../W/White_Mountains.md) và trở thành một nhánh của sông Sirith,
 4. Sông [Serni](../S/Serni.md), bắt nguồn từ vùng đồng bằng Lebennin và đổ vào [Vịnh Belfalas](../B/Bay_of_Belfalas.md) phía tây [Ethir Anduin](../E/Ethir_Anduin.md) và phía tây nam thành phố [Linhir](../L/Linhir.md), và
-5. Sông [Gilrain](../G/Gilrain.md), bắt đầu từ hai nhánh không tên ở Dãy Núi Trắng, và chảy về phía nam gặp Serni tại Linhir.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+5. Sông [Gilrain](../G/Gilrain.md), bắt nguồn từ hai nhánh không tên ở Dãy núi Trắng và chảy về phía nam gặp Serni tại Linhir.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2014: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2014: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
 
 <dl><dd>The Five Rivers were the Gilrain, the Serni, the Sirith, the Celos, and the <a href="../E/Erui.md" title="Erui">Erui</a>. Each of the rivers was the domain of a River-Maiden, one of the Five Sisters of Lebennin. By the time of the <a href="../W/War_of_the_Ring.md" title="War of the Ring">War of the Ring</a>, the Five Sisters were considered a myth by most of the <a href="../M/Men.md" title="Men">Men</a> of Lebennin, though it remained traditional to leave baskets of flowers as offerings to the rivers.</dd></dl>
 

@@ -30,7 +30,7 @@ images:
 
 ## Khóa học {#Course}
 
-Dòng nước sâu chảy từ hẻm núi ở phía bắc của [Dãy Núi Trắng](../W/White_Mountains.md) được gọi là [Helm's Deep](../H/Helm's_Deep.md)<sup id="cite_ref-UI_1-0" class="reference"><a href="#cite_note-UI-1">[1]</a></sup> qua một cống trong [Bức tường sâu](Deeping_Wall.md) chặn lối vào Helm's Deep, sau đó đi vòng quanh chân tảng đá nơi [Hornburg](../H/Hornburg.md) đứng, trước khi chảy về phía bắc vào [Vòng sâu](Deeping-coomb.md) rồi chảy ra ngoài [Westfold Vale](../W/Westfold_Vale.md)<sup id="cite_ref-UI_1-1" class="reference"><a href="#cite_note-UI-1">[1]</a></sup>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Phía nam đáy lòng chảo<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Suối sâu chạy cạnh [Đường sâu](Deeping-road.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Đường sâu chạy về phía đông bắc,<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> nhưng không biết suối sâu chảy vào sông nào. Có thể là nếu chảy theo hướng tây bắc vào sông [Isen](../I/Isen.md), đây là con sông gần nhất tính từ đầu phía bắc của Westfold Vale. Tuy nhiên, cũng có thể nó chảy theo hướng Đông Bắc ra sông [Entwash](../E/Entwash.md).
+Dòng nước sâu chảy từ hẻm núi ở phía bắc của [Dãy núi trắng](../W/White_Mountains.md) được gọi là [Helm's Deep](../H/Helm's_Deep.md)<sup id="cite_ref-UI_1-0" class="reference"><a href="#cite_note-UI-1">[1]</a></sup> qua một cống trong [Bức tường sâu](Deeping_Wall.md) chặn lối vào Helm's Deep, sau đó đi vòng quanh chân tảng đá nơi [Hornburg](../H/Hornburg.md) đứng, trước khi chảy về phía bắc vào [Vòng sâu](Deeping-coomb.md) rồi ra [Westfold Vale](../W/Westfold_Vale.md)<sup id="cite_ref-UI_1-1" class="reference"><a href="#cite_note-UI-1">[1]</a></sup>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Phía nam đáy lòng thung lũng<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Suối sâu chạy cạnh [Đường sâu](Deeping-road.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Đường Deeping chạy về phía đông bắc,<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> nhưng không biết suối Deeping chảy vào sông nào. Có thể điều đó sẽ xảy ra nếu chảy theo hướng tây bắc vào sông [Isen](../I/Isen.md), con sông gần nhất tính từ đầu phía bắc của Westfold Vale. Tuy nhiên, cũng có thể nó chảy theo hướng đông bắc ra sông [Entwash](../E/Entwash.md).
 
 ## Từ nguyên {#Etymology}
 
@@ -38,11 +38,11 @@ Phần tử Deeping trong tên Deeping-stream có nghĩa là dòng suối thuộ
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong bức vẽ không có tiêu đề Helm's Deep của J.R.R. Tolkien đường dòng của Deeping-stream dường như chảy về phía tây sau khi rời khỏi Deeping-coomb.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+Trong bức vẽ không có tiêu đề về Helm's Deep của J.R.R. Tolkien, dòng Deeping-stream dường như chảy về phía tây sau khi rời khỏi Deeping-coomb.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
 
 <dl><dd>The Deeping-stream originates inside the <a href="../G/Glittering_Caves.md" title="Glittering Caves">Glittering Caves</a> and forms a small pool with an island in the middle before flowing out through the <a href="Deeping_Wall.md" title="Deeping Wall">Deeping Wall</a>. After flowing into <a href="../W/Westfold.md" title="Westfold">Westfold</a>, the stream turns east and joins the river <i>Swiftwater</i>, originating in the <a href="../W/White_Mountains.md" title="White Mountains">White Mountains</a>, before eventually flowing into <a href="../E/Entwash.md" title="Entwash">Entwash</a>.</dd></dl>
 

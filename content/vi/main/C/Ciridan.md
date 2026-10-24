@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Círdan"
 ---
 
-Chuyển hướng đến [Círdan](Círdan.md).
+Chuyển hướng tới [Círdan](Círdan.md).

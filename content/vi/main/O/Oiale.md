@@ -14,11 +14,11 @@ categories:
   - "Quenya nouns"
 ---
 
-**oiale** là trạng từ [Quenya](../Q/Quenya.md) có nghĩa là "mãi mãi, vĩnh viễn, trong vĩnh hằng,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> vĩnh viễn".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Nó cũng có thể được dùng như một danh từ cho "mãi mãi \[?age\]"<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+**oiale** là một [Quenya](../Q/Quenya.md) trạng từ có nghĩa là "mãi mãi, vĩnh viễn, trong vĩnh hằng,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> vĩnh viễn".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Nó cũng có thể được dùng như một danh từ cho "mãi mãi \[?age\]"<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Từ này có thể là [Gốc](../S/Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=OY&amp;action=edit&amp;redlink=1" title="OY (page does not exist)">OY</a> hoặc một gốc như *[oio](Oio.md)* "một khoảng thời gian vô tận", cộng với phần kết thúc *[-lë](../_/-lë.md)*.
+Từ này có thể là [Gốc](../S/Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=OY&amp;action=edit&amp;redlink=1" title="OY (page does not exist)">OY</a> hoặc thân từ như *[oio](Oio.md)* "một khoảng thời gian vô tận", cộng với phần kết thúc *[-lë](../_/-lë.md)*.
 
 <span></span>
 

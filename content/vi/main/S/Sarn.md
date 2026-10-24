@@ -16,20 +16,20 @@ categories:
   - "Sindarin nouns"
 ---
 
-<i><b>sarn</b></i> là một từ [Sindarin](Sindarin.md). Là một danh từ, nó có nghĩa là "đá (nhỏ)" hoặc "nơi có đá" (đá nhô lên trên nền đất mềm hơn hoặc dưới lòng sông).<sup id="cite_ref-silmap_1-0" class="reference"><a href="#cite_note-silmap-1">[1]</a></sup><sup id="cite_ref-RC163_2-0" class="reference"><a href="#cite_note-RC163-2">[2]</a></sup> Nó cũng được gọi là "đá nhỏ, sỏi".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+<i><b>sarn</b></i> là một từ [tiếng Sindarin](Sindarin.md). Là một danh từ, nó có nghĩa là "đá (nhỏ)" hoặc "nơi có đá" (đá nhô lên trên nền đất mềm hơn hoặc dưới lòng sông).<sup id="cite_ref-silmap_1-0" class="reference"><a href="#cite_note-silmap-1">[1]</a></sup><sup id="cite_ref-RC163_2-0" class="reference"><a href="#cite_note-RC163-2">[2]</a></sup> Nó cũng được gọi là "đá nhỏ, sỏi".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 Là một tính từ, *sarn* có nghĩa là "đá".<sup id="cite_ref-RC163_2-1" class="reference"><a href="#cite_note-RC163-2">[2]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Trong *[The Etymologies](../T/The_Etymologies.md)*, [Noldorin](../N/Noldorin.md) *sarn* ("đá làm vật liệu, hoặc tính từ.") bắt nguồn từ [gốc](../R/Root.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=SAR&amp;action=edit&amp;redlink=1" title="SAR (page does not exist)">SAR</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Trong *[The Etymologies](../T/The_Etymologies.md)*, [Noldorin](../N/Noldorin.md) *sarn* ("đá làm vật liệu, hoặc là tính từ.") bắt nguồn từ [gốc](../R/Root.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=SAR&amp;action=edit&amp;redlink=1" title="SAR (page does not exist)">SAR</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
-*Sarn* là từ [tiếng Wales](../W/Welsh.md) có nghĩa là đường đắp cao, vỉa hè hoặc bậc đá.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+*Sarn* là một từ [tiếng Wales](../W/Welsh.md) có nghĩa là đường đắp cao, vỉa hè hoặc bậc đá.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 ## Ví dụ {#Examples}
 
-- <i><a class="mw-redirect" href="../E/Edhelharn.md" title="Edhelharn">Edhel<b>harn</b></a></i> = "Elfstone"
-- <i><a class="mw-redirect" href="Sarnas_Fingolfin.md" title="Sarnas Fingolfin"><b>Sarn</b>as Fingolfin</a></i> = "ngọn đá củaFingolfin"
+- <i><a class="mw-redirect" href="../E/Edhelharn.md" title="Edhelharn">Edhel<b>harn</b></a></i> = "Tinh thạch"
+- <i><a class="mw-redirect" href="Sarnas_Fingolfin.md" title="Sarnas Fingolfin"><b>Sarn</b>trong vai Fingolfin</a></i> = "Tháp đá của Fingolfin"
 - <i><a href="Sarn_Athrad.md" title="Sarn Athrad"><b>Sarn</b> Athrad</a></i>/<i><a href="Sarn_Ford.md" title="Sarn Ford"><b>Sarn</b> Ford</a>'</i> = "Ford of Stones"
 - <i><a href="Sarn_Gebir.md" title="Sarn Gebir"><b>Sarn</b> Gebir</a></i> = "Gai đá"
 - <i><a href="Serni.md" title="Serni"><b>Sern</b>i</a></i> = "Ngân hàng sỏi"

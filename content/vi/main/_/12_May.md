@@ -66,7 +66,7 @@ Sự kiện xảy ra vào ngày 12 tháng 5
 
 ## Trên Trái đất {#On_Earth}
 
-- **[1917](1917.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được tuyên bố phù hợp để phục vụ tại nhà.
+- **[1917](1917.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được tuyên bố là phù hợp để phục vụ tại nhà.
 - **[1879](1879.md)** - [Percy Bates](../P/Percy_Bates.md) ra đời.
 - **[1944](1944.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 68](../L/Letter_68.md).
 - **[1955](1955.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư gửi Rayner Unwin](<../L/Letter_to_Rayner_Unwin_(12_May_1955).md>).

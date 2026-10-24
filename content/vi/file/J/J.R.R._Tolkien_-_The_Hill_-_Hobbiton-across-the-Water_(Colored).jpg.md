@@ -28,7 +28,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Bức tranh tháng 8 năm 1937 của [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md). Xem bài viết **[Ngọn đồi: Hobbiton-trên mặt nước](../../main/T/The_Hill%253A_Hobbiton-across-the_Water.md)**.
+Bức tranh tháng 8 năm 1937 của [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md). Xem bài **[The Hill: Hobbiton-across-the Water](../../main/T/The_Hill%253A_Hobbiton-across-the_Water.md)**.
 
 ## Giấy phép {#Licensing}
 

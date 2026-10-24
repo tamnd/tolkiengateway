@@ -23,7 +23,7 @@ langlinks:
     url: "https://kontu.wiki/Eglath"
 ---
 
-**Eglath** ("Kẻ bị bỏ rơi") là [Teleri](../T/Teleri.md) [Tiên tộc](Elves.md) ([Eldar](Eldar.md)) của [Great March](../G/Great_March.md) đã quyết định ở lại [Beleriand](../B/Beleriand.md) để tìm kiếm thủ lĩnh đã mất của họ [Elwë](Elwë.md) ([Thingol](../T/Thingol.md)). Chủ nhà chính của Teleri đã theo dõi [Olwe](../O/Olwe.md) trên đường đến [Aman](../A/Aman.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Eglath** ("Kẻ bị bỏ rơi") là [Teleri](../T/Teleri.md) [Yêu tinh](Elves.md) ([Eldar](Eldar.md)) của [Great March](../G/Great_March.md) đã quyết định ở lại [Beleriand](../B/Beleriand.md) để tìm kiếm thủ lĩnh đã mất của họ [Elwë](Elwë.md) ([Thingol](../T/Thingol.md)). Người dẫn chương trình chính của Teleri đã theo dõi [Olwe](../O/Olwe.md) trên đường đến [Aman](../A/Aman.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Eglath cuối cùng đã trở thành [Sindar](../S/Sindar.md) với Thingol là Vua của họ.
 

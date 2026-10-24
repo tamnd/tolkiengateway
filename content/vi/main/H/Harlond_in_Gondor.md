@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Harlond (Gondor)"
 ---
 
-Chuyển hướng đến [Harlond (Gondor)](<Harlond_(Gondor).md>).
+Chuyển hướng tới [Harlond (Gondor)](<Harlond_(Gondor).md>).

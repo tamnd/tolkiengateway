@@ -17,9 +17,9 @@ langlinks:
     url: "https://kontu.wiki/Kes%C3%A4nfilth"
 ---
 
-**Summerfilth** là một tháng không tồn tại được sử dụng một cách vui vẻ giữa [Shire-hobbit](Shire-hobbits.md).
+**Summerfilth** là một tháng không tồn tại được sử dụng một cách hài hước giữa [người Hobbit ở Quận](Shire-hobbits.md).
 
-Theo tục ngữ, Summerfilth sẽ bắt đầu vào ngày [Thứ Sáu](../H/Highday.md); không có tháng thực tế nào trong [Lịch Shire](Shire_Calendar.md) bắt đầu vào thứ Sáu (vì sau cải cách c. [T.A.](../T/Third_Age.md) [2670](../T/Third_Age_2670.md), mỗi ngày trong tuần luôn rơi vào cùng một ngày) và Hobbit sẽ nói "*on Friday the first of Summerfilth*" để chỉ điều gì đó sẽ không bao giờ xảy ra.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Theo tục ngữ, Summerfilth sẽ bắt đầu vào ngày [Thứ Sáu](../H/Highday.md); không có tháng thực sự nào trong [Lịch Quận](Shire_Calendar.md) bắt đầu vào thứ Sáu (vì sau cải cách c. [T.A.](../T/Third_Age.md) [2670](../T/Third_Age_2670.md), mỗi ngày trong tuần luôn rơi vào cùng một ngày) và người Hobbit sẽ nói "*on Friday the first of Summerfilth*" để ám chỉ điều gì đó sẽ không bao giờ xảy ra.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

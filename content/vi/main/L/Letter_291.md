@@ -31,7 +31,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-<a class="extiw" href="http://en.wikipedia.org/wiki/Walter_Hooper" title="wikipedia:Walter Hooper">Walter Hooper</a> đã gửi một tập mới <i><a class="extiw" href="http://en.wikipedia.org/wiki/Of_Other_Worlds" title="wikipedia:Of Other Worlds">Of Other Worlds</a></i>, một cuốn sách sưu tầm tài liệu của [C.S. Lewis](../C/C.S._Lewis.md), người đã qua đời ba năm trước. Tolkien đã viết một câu trả lời dài hai câu, kèm theo một bài viết thừa nhận rằng câu trả lời đó ngắn đến mức nào. Ông nhận xét về tâm trí và trí tưởng tượng nhị nguyên của Lewis, đồng thời gọi "tầm nhìn khốn khổ" là vô nghĩa về mặt lý trí và báng bổ về mặt thần học. <br>
+<a class="extiw" href="http://en.wikipedia.org/wiki/Walter_Hooper" title="wikipedia:Walter Hooper">Walter Hooper</a> đã gửi một tập mới <i><a class="extiw" href="http://en.wikipedia.org/wiki/Of_Other_Worlds" title="wikipedia:Of Other Worlds">Of Other Worlds</a></i>, một cuốn sách sưu tầm tài liệu của [C.S. Lewis](../C/C.S._Lewis.md), người đã qua đời ba năm trước. Tolkien đã viết một câu trả lời dài hai câu, kèm theo một đoạn kịch bản thừa nhận rằng câu trả lời đó ngắn đến mức nào. Ông nhận xét về tâm trí và trí tưởng tượng nhị nguyên của Lewis, đồng thời gọi "tầm nhìn khốn khổ" là vô nghĩa về mặt lý trí và báng bổ về mặt thần học. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

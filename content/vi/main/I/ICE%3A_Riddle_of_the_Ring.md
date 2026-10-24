@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Riddle of the Ring"
 ---
 
-Chuyển hướng tới [Câu đố về Nhẫn](../R/Riddle_of_the_Ring.md).
+Chuyển hướng đến [Câu đố về chiếc nhẫn](../R/Riddle_of_the_Ring.md).

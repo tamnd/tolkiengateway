@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Quảng cáo cho [METW](../../main/M/METW.md), có tác phẩm của [Angus McBride](../../main/A/Angus_McBride.md).
+Quảng cáo cho [METW](../../main/M/METW.md), có tác phẩm nghệ thuật của [Angus McBride](../../main/A/Angus_McBride.md).
 
 ## Giấy phép {#Licensing}
 

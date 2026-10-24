@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Gateway:Top Editors"
 ---
 
-Chuyển hướng tới [Tolkien Gateway:Biên tập viên hàng đầu](Top_Editors.md).
+Chuyển hướng đến [Cổng Tolkien:Biên tập viên hàng đầu](Top_Editors.md).

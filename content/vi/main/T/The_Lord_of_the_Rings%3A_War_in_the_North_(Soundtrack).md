@@ -12,7 +12,7 @@ categories:
   - "The Lord of the Rings: War in the North soundtrack"
 ---
 
-<i><b>The Lord of the Rings: War in the North</b></i> là nhạc nền của *[The Lord of the Rings: War in the North](The_Lord_of_the_Rings%253A_War_in_the_North.md)*. Nhạc phim có sẵn trên iTunes và trên [Amazon](../A/Amazon.com_Incorporated.md). Tất cả các bản nhạc đều được sáng tác bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=Inon_Zur&amp;action=edit&amp;redlink=1" title="Inon Zur (page does not exist)">Inon Zur</a> và được thu âm tại phòng thu Abbey Road.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>Chúa tể của những chiếc nhẫn: Chiến tranh phương Bắc</b></i> là nhạc nền của *[The Lord of the Rings: War in the North](The_Lord_of_the_Rings%253A_War_in_the_North.md)*. Nhạc phim có sẵn trên iTunes và trên [Amazon](../A/Amazon.com_Incorporated.md). Tất cả các bản nhạc đều được sáng tác bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=Inon_Zur&amp;action=edit&amp;redlink=1" title="Inon Zur (page does not exist)">Inon Zur</a> và được thu âm tại phòng thu Abbey Road.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Bài hát {#Tracks}
 
@@ -122,10 +122,10 @@ categories:
 ## Xem thêm {#See_also}
 
 - [The Lord of the Rings: War in the North](The_Lord_of_the_Rings%253A_War_in_the_North.md)
-- <a class="new" href="https://tolkiengateway.net/w/index.php?title=To_Challenge_the_Darkness&amp;action=edit&amp;redlink=1" title="To Challenge the Darkness (page does not exist)">Để thách thức Bóng Tối</a>
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=To_Challenge_the_Darkness&amp;action=edit&amp;redlink=1" title="To Challenge the Darkness (page does not exist)">Thử thách bóng tối</a>
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Beleram,_Eagle_of_the_North&amp;action=edit&amp;redlink=1" title="Beleram, Eagle of the North (page does not exist)">Beleram, Đại bàng phương Bắc</a>
-- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Over_the_Misty_Mountains&amp;action=edit&amp;redlink=1" title="Over the Misty Mountains (page does not exist)">Trên Dãy Núi Sương Mù</a>
-- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Midnight_in_Bree&amp;action=edit&amp;redlink=1" title="Midnight in Bree (page does not exist)">Nửa đêm Bree</a>
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Over_the_Misty_Mountains&amp;action=edit&amp;redlink=1" title="Over the Misty Mountains (page does not exist)">Trên dãy núi mù sương</a>
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Midnight_in_Bree&amp;action=edit&amp;redlink=1" title="Midnight in Bree (page does not exist)">Nửa đêm ở Bree</a>
 
 <span></span>
 

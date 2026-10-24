@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Guler, Eytan Eylul"
 ---
 
-- Eytan Eylul Guler đã vui lòng cho phép anh ấy sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Eytan_Eylul_Guler.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
-- Ngày: 16 tháng Chín năm 2012
+- Eytan Eylul Guler đã vui lòng cho phép anh sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Eytan_Eylul_Guler.md) trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
+- Ngày: 16 tháng 9 năm 2012
 - Người dùng đã xin phép qua DeviantArt: [Người dùng:Amroth](https://tolkiengateway.net/wiki/User:Amroth)

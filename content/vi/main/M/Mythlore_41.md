@@ -39,35 +39,35 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mythlore_41.png.md"><img src="https://tolkiengateway.net/w/images/0/08/Mythlore_41.png" decoding="async" loading="lazy" width="310" height="396" class="mw-file-element" data-file-width="310" data-file-height="396"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mythlore 41</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../G/Glen_GoodKnight.md" title="Glen GoodKnight">Glen GoodKnight</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Winter/Spring <a href="../_/1985.md" title="1985">1985</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">63</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mythlore_40.md" title="Mythlore 40">Mythlore 40</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mythlore_42.md" title="Mythlore 42">Mythlore 42</a></td></tr></tbody></table>
 
-<b><i>Mythlore</i> 41</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol11/iss3/" rel="noreferrer noopener" target="_blank">Tập 11, Số 3</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
+<b><i>Thần thoại</i> 41</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol11/iss3/" rel="noreferrer noopener" target="_blank">Tập 11, Số 3</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
 
 ## Nội dung {#Contents}
 
 #### Bài viết {#Articles}
 
-- Yolen, Jane. “Khu rừng giữa các thế giới.”
-- Schorr, Karl. “Phần thưởng của việc đọc truyện giả tưởng.”
-- Hollwitz, John. “Điều kỳ diệu của con đường, Việc tạo ra vàng: Thuật giả kim và sự khởi đầu ở ngoài hành tinh im lặng.”
-- Stolzenbach, Mary M. “Bảo bối của Machen.”
-- Bullock, Richard P. “Tầm quan trọng của ý chí tự do trong The Lord of the Rings.”
-- Carter, M. L. “Biểu tượng tâm lý của Đài phun nước thần kỳ và Người chăn cừu khổng lồ ở Yvain.”
-- Zimmerman, Manfred. “Những nhận xét khác về Gimli và về văn xuôi có nhịp điệu.”
-- Hall, Robert A., Jr. “Bậc thầy của "Quý giá" là ai?
-- Lowentrout, Peter. “The Rags of Lordship: Khoa học viễn tưởng, giả tưởng và sự quyến rũ của thế giới.”
-- Myers, Doris T. “C.S. Lewis' Các đoạn văn: Thời đại theo thời gian và sự phát triển tâm linh ở Narnia.”
-- Thompson, George H. “Đánh giá sớm về sách của J.R.R. Tolkien - Phần II.”
+- Yolen, Jane. “The Wood Between the Worlds.”
+- Schorr, Karl. “The Rewards of Reading Fantasy.”
+- Hollwitz, John. “The Wonder of Passage, The Making of Gold: Alchemy and Initiation in Out of the Silent Planet.”
+- Stolzenbach, Mary M. “Machen's Hallows.”
+- Bullock, Richard P. “The Importance of Free Will in The Lord of the Rings.”
+- Carter, M. L. “The Psychological Symbolism of the Magic Fountain and the Giant Herdsman in Yvain.”
+- Zimmerman, Manfred. “Miscellaneous Remarks On Gimli and On Rhythmic Prose.”
+- Hall, Robert A., Jr. “Who is The Master of The "Precious"?”
+- Lowentrout, Peter. “The Rags of Lordship: Science Fiction, Fantasy, and the Reenchantment of the World.”
+- Myers, Doris T. “C.S. Lewis' Passages: Chronological Age and Spiritual Development in Narnia.”
+- Thompson, George H. “Early Review of Books by J.R.R. Tolkien - Part II.”
 
 #### Thơ {#Poetry}
 
-- Rawls, Melanie. “Khu rừng giữa các thế giới.”
-- Berman, Ruth. “Radagast ở Trung Địa.”
+- Rawls, Melanie. “The Wood Between the Worlds.”
+- Berman, Ruth. “Radagast in Middle-earth.”
 
 #### Tính năng {#Features}
 
-- GoodKnight, Glen H. Editorial: Chiếc giường hoạt hình Procrustean.
-- Speth, Lee. “Điều trị ung dung.”
-- Bãi biển, Sarah. “Thần thoại.”
-- Hyde, Paul Nolan. “Quenti Lambardillion: Thẩm mỹ ngôn ngữ của Tolkien.”
+- GoodKnight, Glen H. Editorial: The Procrustean Bed of Film Animation.
+- Speth, Lee. “Cavalier Treatment.”
+- Beach, Sarah. “Mythopoesis.”
+- Hyde, Paul Nolan. “Quenti Lambardillion: Tolkien's Linguistic Aesthetic.”
 - Thư.
 
 #### Đánh giá {#Reviews}

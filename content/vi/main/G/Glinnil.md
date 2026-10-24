@@ -11,4 +11,4 @@ redirect_target: "Teleri"
 redirect_fragment: "Names"
 ---
 
-Chuyển hướng đến [Teleri](../T/Teleri.md#Names).
+Chuyển hướng tới [Teleri](../T/Teleri.md#Names).

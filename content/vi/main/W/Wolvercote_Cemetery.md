@@ -19,13 +19,13 @@ images:
   - "Tolkiengrave.jpg"
 ---
 
-**Nghĩa trang Wolvercote** là nghĩa trang thành phố ở phía bắc [Oxford](../O/Oxford.md). Đây là nơi an nghỉ cuối cùng của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Ông được chôn cất cùng với vợ mình, [Edith](../E/Edith_Tolkien.md). Mộ của [John Tolkien](../J/John_Tolkien.md) cách mộ cha mẹ anh không xa. [Humphrey Carpenter](../H/Humphrey_Carpenter.md) cũng được chôn cất tại Nghĩa trang Wolvercote.
+**Nghĩa trang Wolvercote** là nghĩa trang thành phố ở phía bắc [Oxford](../O/Oxford.md). Đó là nơi an nghỉ cuối cùng của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Ông được chôn cất cùng với vợ mình, [Edith](../E/Edith_Tolkien.md). [Mộ của John Tolkien](../J/John_Tolkien.md) cách mộ cha mẹ ông không xa. [Humphrey Carpenter](../H/Humphrey_Carpenter.md) cũng được chôn cất tại Nghĩa trang Wolvercote.
 
 <figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tolkiengrave.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/e/ec/Tolkiengrave.jpg/200px-Tolkiengrave.jpg" decoding="async" loading="lazy" width="200" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/ec/Tolkiengrave.jpg/300px-Tolkiengrave.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/e/ec/Tolkiengrave.jpg/400px-Tolkiengrave.jpg 2x" data-file-width="2048" data-file-height="1536"/></a><figcaption>The Grave of J.R.R and Edith Tolkien</figcaption></figure>
 
 <h2><span id="The_Tolkiens.27_grave"></span><span class="mw-headline" id="The_Tolkiens&#39;_grave">The Tolkiens&#39; grave</span></h2>
 
-Edith Tolkien qua đời vào [28 tháng 11](../_/29_November.md), [1971](../_/1971.md), ở tuổi tám mươi hai, và Tolkien được khắc tên *Lúthien* trên đá của bà.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Vào những ngày chủ nhật sau nhà thờ, ông sẽ đến thăm mộ bà.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Khi Tolkien qua đời 21 tháng sau vì bệnh viêm phổi [2 tháng Chín](../_/2_September.md), [1973](../_/1973.md), tại Ông được chôn trong cùng một ngôi mộ ở tuổi 81, có thêm *Beren* tên,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> nên dòng khắc bây giờ là:
+Edith Tolkien qua đời vào [28 tháng 11](../_/29_November.md), [1971](../_/1971.md), ở tuổi tám mươi hai, và Tolkien được khắc tên *Lúthien* trên đá của bà.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Vào những ngày chủ nhật sau nhà thờ, ông sẽ đến thăm mộ bà.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Khi Tolkien qua đời 21 tháng sau vì bệnh viêm phổi vào [2 tháng 9](../_/2_September.md), [1973](../_/1973.md), ở tuổi 81, ông được chôn cất trong cùng một địa điểm mộ, với *Beren* được thêm vào tên của ông,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> để dòng khắc bây giờ có nội dung:
 
 <dl><dd><i>Edith Mary Tolkien,</i> <i>Lúthien,</i> <i>1889 – 1971</i></dd>
 <dd><i>John Ronald Reuel Tolkien,</i> <i>Beren</i> , <i>1892 – 1973</i></dd></dl>

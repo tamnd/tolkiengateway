@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hobbits"
 ---
 
-Chuyển hướng đến [Hobbit](../H/Hobbits.md).
+Chuyển hướng tới [Người Hobbit](../H/Hobbits.md).

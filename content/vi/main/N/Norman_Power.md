@@ -24,7 +24,7 @@ images:
 
 Canon<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> **Norman Sandiford Power** ([31 tháng 10](../_/31_October.md) [1916](../_/1916.md) - tháng 5 [1993](../_/1993.md)) nhận bằng B.A. tại Worcester College, [Oxford](../O/Oxford.md), vào năm 1938. Ông tiếp tục được liên kết với giáo xứ Ladywood ở [Birmingham](../B/Birmingham.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[1]</a></sup>
 
-Power đã tham dự bài phát biểu mời của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)tại Hiệp hội Lovelace ở [1938](../_/1938.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup>
+Power đã tham dự bài phát biểu mời của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) tại Hiệp hội Lovelace ở [1938](../_/1938.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup>
 
 Đến cuối đời Tolkien, họ nối lại liên lạc (ít nhất một lá thư được ghi lại, xem [Thư gửi Norman Power](../L/Letter_to_Norman_Power.md)<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup>):
 

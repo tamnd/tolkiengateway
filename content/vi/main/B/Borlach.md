@@ -55,7 +55,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Borlach và người thân của anh ta phục vụ [Maedhros](../M/Maedhros.md) và [Maglor](../M/Maglor.md), anh cả [các Con trai của Fëanor](../S/Sons_of_Fëanor.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Anh ta chiến đấu trong [Nirnaeth Arnoediad](../N/Nirnaeth_Arnoediad.md), và trung thành với [Noldor](../N/Noldor.md), tham gia giết các con trai của [Ulfang](../U/Ulfang.md)trước khi chính anh ta bị giết.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Borlach và người thân của ông phục vụ cho [Maedhros](../M/Maedhros.md) và [Maglor](../M/Maglor.md), con cả [Các con trai của Fëanor](../S/Sons_of_Fëanor.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Anh chiến đấu trong [Nirnaeth Arnoediad](../N/Nirnaeth_Arnoediad.md), và trung thành với [Noldor](../N/Noldor.md), tham gia tiêu diệt Các con trai của [Ulfang](../U/Ulfang.md) trước khi ông bị giết.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Phả hệ {#Genealogy}
 
@@ -71,7 +71,7 @@ Borlach và người thân của anh ta phục vụ [Maedhros](../M/Maedhros.md)
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong [*Later Annals of Beleriand*](../T/The_Later_Annals_of_Beleriand.md) và *[Grey Annals](../G/Grey_Annals.md)*, tên của nhân vật là *Boromir*,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> tên sau này được sử dụng cho [Boromir của Ladros](<Boromir_(Lord_of_Ladros).md>).<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> Boromir được nhắc đến trong [*Etymologies*](../T/The_Etymologies.md) (cf. [Boromir của Ladros: Từ nguyên](<Boromir_(Lord_of_Ladros).md#Etymology>)) do đó là Borlach.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> Trong phụ lục của *[The Lost Road](../T/The_Lost_Road.md)* có ghi rằng Borlach (khi đó được gọi là Boromir) sinh vào năm 145.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
+Trong [*Later Annals of Beleriand*](../T/The_Later_Annals_of_Beleriand.md) và *[Grey Annals](../G/Grey_Annals.md)*, tên của nhân vật là *Boromir*,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> tên sau này được sử dụng cho [Boromir of Ladros](<Boromir_(Lord_of_Ladros).md>).<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> Boromir được nhắc đến trong [*Etymologies*](../T/The_Etymologies.md) (cf. [Boromir of Ladros: Etymology](<Boromir_(Lord_of_Ladros).md#Etymology>)) là như vậy Borlach.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> Trong phụ lục của *[The Lost Road](../T/The_Lost_Road.md)* có ghi rằng Borlach (khi đó gọi là Boromir) sinh vào năm 145.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
 
 <span></span>
 
