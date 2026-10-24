@@ -24,7 +24,7 @@ Vào [29 tháng 1](../_/29_January.md) [1954](../_/1954.md), [J.R.R. Tolkien](..
 ## Trích {#Excerpt}
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>I look forward with great pleasure to the opportunity of again visiting the renowned University of Liège, for which I entertain feelings of affection and the highest regard.
+<p>Tôi rất vui mừng có cơ hội được thăm lại Đại học Liège nổi tiếng, nơi tôi có cảm tình yêu mến và kính trọng cao nhất.
 </p>
 <p class="tg-quote-footer"><cite>J.R.R. Tolkien (in <i><a href="Lembas_Extra%253A_Proceedings_of_the_5th_Unquendor_Lustrum.md" title="Lembas Extra: Proceedings of the 5th Unquendor Lustrum">Lembas Extra: Proceedings of the 5th Unquendor Lustrum</a></i>, p.56)</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

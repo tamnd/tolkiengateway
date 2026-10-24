@@ -15,7 +15,7 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Foreword</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="Foreword_(disambiguation).md" title="Foreword (disambiguation)">Foreword (disambiguation)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>Lời nói đầu</b> đề cập đến nhiều ký tự, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="Foreword_(disambiguation).md" title="Foreword (disambiguation)">Lời nói đầu (định hướng)</a></b>.</div></div>
 
 <b>Lời nói đầu cho <i>Bảng thuật ngữ mới về phương ngữ của Quận Huddersfield</i></b> đề cập đến Lời nói đầu của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) cho *[A New Glossary of the Dialect of the Huddersfield District](../A/A_New_Glossary_of_the_Dialect_of_the_Huddersfield_District.md)* ([1928](../_/1928.md)) của Walter E. Haigh.
 

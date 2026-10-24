@@ -27,7 +27,7 @@ Vào [19 tháng 4](../_/19_April.md) [1972](../_/1972.md), [J.R.R. Tolkien](../J
 ## Phiên âm {#Transcription}
 
 <blockquote class="tg-quote noexcerpt">
-<p>Dear Miss Heilborn,<br/><br/>Thank you very, very much for your long letter. I was glad to hear that you enjoyed my books so much. I agree with you about illustrations; it is far better to use one&#39;s imagination, as you clearly have done.<br/><br/>I am very busy at the moment as I am moving house, so I hope you will excuse me if I write only a short letter to you.<br/><br/>Again, thank you for your appreciation and I hope that you will continue to get so much enjoyment out of Aragorn, Gandalf, and all the others!<br/><br/>Yours sincerely,<br/>pp. J.R.R. Tolkien
+<p>Kính gửi cô Heilborn,<br/><br/>Cảm ơn cô rất nhiều vì bức thư dài của cô. Tôi rất vui khi biết rằng bạn rất thích sách của tôi. Tôi đồng ý với bạn về minh họa; tốt hơn hết là nên sử dụng trí tưởng tượng của mình, như bạn rõ ràng đã làm.<br/><br/>Hiện tại tôi đang rất bận vì đang chuyển nhà, vì vậy tôi hy vọng bạn sẽ thứ lỗi nếu tôi chỉ viết một lá thư ngắn cho bạn.<br/><br/>Một lần nữa, cảm ơn bạn đã đánh giá cao và tôi hy vọng rằng bạn sẽ tiếp tục nhận được nhiều niềm vui từ Aragorn, Gandalf và tất cả những người khác!<br/><br/>Trân trọng,<br/>pp. J.R.R. Tolkien
 </p>
 </blockquote>
 

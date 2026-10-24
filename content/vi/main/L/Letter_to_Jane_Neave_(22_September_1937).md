@@ -18,7 +18,7 @@ images:
   - "Jane_Neave_22_September_1937.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/Jane_Neave_22_September_1937.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/5c/Jane_Neave_22_September_1937.jpg/300px-Jane_Neave_22_September_1937.jpg" decoding="async" loading="lazy" width="300" height="225" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/5c/Jane_Neave_22_September_1937.jpg/450px-Jane_Neave_22_September_1937.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/5/5c/Jane_Neave_22_September_1937.jpg/600px-Jane_Neave_22_September_1937.jpg 2x" data-file-width="1053" data-file-height="790"/></a><figcaption>Screenshot from the Antiques Roadshow episode showing the full letter</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/Jane_Neave_22_September_1937.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/5c/Jane_Neave_22_September_1937.jpg/300px-Jane_Neave_22_September_1937.jpg" decoding="async" loading="lazy" width="300" height="225" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/5c/Jane_Neave_22_September_1937.jpg/450px-Jane_Neave_22_September_1937.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/5/5c/Jane_Neave_22_September_1937.jpg/600px-Jane_Neave_22_September_1937.jpg 2x" data-file-width="1053" data-file-height="790"/></a><figcaption>Ảnh chụp màn hình từ tập Antiques Roadshow hiển thị toàn bộ bức thư</figcaption></figure>
 
 Vào ngày [22 tháng Chín](../_/22_September.md) [1937](../_/1937.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho [Jane Neave](../J/Jane_Neave.md)**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
@@ -28,12 +28,12 @@ Vào ngày [22 tháng Chín](../_/22_September.md) [1937](../_/1937.md), [J.R.R.
 ## Phiên âm {#Transcription}
 
 <blockquote class="tg-quote noexcerpt">
-<p>Sept 22. 1937<br/>
-My dearest Jane
+<p>Ngày 22 tháng 9 năm 1937<br/>
+Jane thân yêu của tôi
 <br/>
-Here&#39;s a copy of my little book which I send you with much love; I hope it will amuse you. It arrived yesterday, and is now at last &#39;published&#39;. We are <u>all</u> so much looking forward to your coming again this winter. It was not like Christmas without you. I have bought another second-hand car partly with money already brought in by &#34;The Hobbit&#34;. It is quieter, quicker, and very much steadier and less bumpy, so [?now] I think I shall come and fetch you this time, and bring you safe and unshaken direct from door to door.<br/>
-I hope you are better,<br/>
-Your loving 
+Đây là bản sao cuốn sách nhỏ của tôi mà tôi rất yêu quý gửi cho bạn; Tôi hy vọng nó sẽ làm bạn thích thú. Nó đã đến ngày hôm qua và cuối cùng đã được 'xuất bản'. Chúng tôi <u>tất cả</u> rất mong chờ sự trở lại của bạn vào mùa đông này. Nó không giống như Giáng sinh mà không có bạn. Tôi đã mua một chiếc ô tô cũ khác một phần bằng tiền "The Hobbit". Nó yên tĩnh hơn, nhanh hơn, ổn định hơn và ít gập ghềnh hơn, vì vậy [?bây giờ] tôi nghĩ lần này tôi sẽ đến đón bạn và đưa bạn đi thẳng từ nhà này sang nhà khác một cách an toàn và không bị lay chuyển.<br/>
+Tôi hy vọng bạn sẽ tốt hơn,<br/>
+tình yêu của bạn 
 Ronald.
 </p>
 </blockquote>

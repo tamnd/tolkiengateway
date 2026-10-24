@@ -30,11 +30,11 @@ Vào [17 tháng 11](../_/17_November.md) [1957](../_/1957.md), [J.R.R. Tolkien](
 ## Phiên âm {#Transcription}
 
 <blockquote class="tg-quote noexcerpt">
-<p> 17 November 1957
-My dear Mroczkowski, <br/>
-My wife and I are <u>very</u> gratified for your invitation [from] you <u>and</u> your wife. It would, of course, but for the thought of the trouble we should be giving, be far more pleasant to have lunch <u>chez vous</u>.<br/>
-I am dreadfully sorry that we cannot manage this Tuesday; but I do hope that you will find a chance to ask us again! (If I go to America at all, I will not be until the middle of March at the earliest). This is a very crowded week, and my wife is unfortunately not able to do many things (pleasant or otherwise) in succession. Tuesday is quite a good day usually. <br/>
-I do not understand your use of &#39;bold&#39;! It is extraordinarily kind of you both to bother about us. We are quite unimportant people. And I do hope that as I have been bold enough to address you as a colleague without title you will please do the same to me.<sup id="cite_ref-TG_2-1" class="reference"><a href="#cite_note-TG-2">[2]</a></sup>
+<p> 17 tháng 11 năm 1957
+Mroczkowski thân mến của tôi, <br/>
+Vợ chồng tôi <u>rất</u> rất vui vì lời mời của bạn [từ] bạn <u>và</u> vợ bạn. Tất nhiên là sẽ như vậy, nhưng nghĩ đến những rắc rối mà chúng ta sẽ gặp phải, bữa trưa sẽ dễ chịu hơn nhiều <u>chez vous</u>.<br/>
+Tôi vô cùng xin lỗi vì chúng tôi không thể quản lý được thứ Ba này; nhưng tôi hy vọng rằng bạn sẽ tìm được cơ hội để hỏi lại chúng tôi! (Nếu có đi Mỹ thì sớm nhất cũng phải đến giữa tháng 3). Đây là một tuần rất bận rộn và rất tiếc là vợ tôi không thể làm nhiều việc (dù dễ chịu hay không) liên tiếp. Thứ Ba thường là một ngày khá tốt. <br/>
+Tôi không hiểu bạn dùng từ 'đậm'! Cả hai người thật là tốt bụng khi quan tâm đến chúng tôi. Chúng tôi là những người khá không quan trọng. Và tôi thực sự hy vọng rằng vì tôi đã đủ dũng cảm để xưng hô với bạn như một đồng nghiệp không có chức danh nên bạn cũng sẽ làm như vậy với tôi.<sup id="cite_ref-TG_2-1" class="reference"><a href="#cite_note-TG-2">[2]</a></sup>
 </p>
 </blockquote>
 

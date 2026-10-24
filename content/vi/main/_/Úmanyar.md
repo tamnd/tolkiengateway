@@ -44,7 +44,7 @@ Theo định nghĩa được đưa ra trong *The Silmarillion*, Úmanyar bao g�
 <blockquote class="tg-quote noexcerpt">
 <p>Nhưng những người khác trong Eldar thực sự đã lên đường hành quân về phía tây, nhưng bị lạc trên con đường dài, hoặc rẽ sang một bên, hoặc nán lại bờ biển Trung Địa [...] Những Tiên tộc Calaquendi này gọi là Úmanyar, vì họ chưa bao giờ đến vùng đất Aman và Vương quốc Phước lành
 </p>
-<p class="tg-quote-footer"><cite><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i>, "<i><a href="../Q/Quenta_Silmarillion.md" title="Quenta Silmarillion">Quenta Silmarillion</a></i>: <a href="../O/Of_the_Coming_of_the_Elves_and_the_Captivity_of_Melkor.md" title="Of the Coming of the Elves and the Captivity of Melkor">Về sự xuất hiện của Tiên tộc và sự giam cầm của Melkor</a>"</cite></p>
+<p class="tg-quote-footer"><cite><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i>, &#34;<i><a href="../Q/Quenta_Silmarillion.md" title="Quenta Silmarillion">Quenta Silmarillion</a></i>: <a href="../O/Of_the_Coming_of_the_Elves_and_the_Captivity_of_Melkor.md" title="Of the Coming of the Elves and the Captivity of Melkor">Of the Coming of the Elves and the Captivity of Melkor</a>&#34;</cite></p>
 </blockquote>
 
 Tuy nhiên, định nghĩa trong *The History of Middle-earth* chỉ bao gồm các chủ đề của Thingol:

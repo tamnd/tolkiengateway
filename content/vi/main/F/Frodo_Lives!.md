@@ -13,7 +13,7 @@ categories:
 ---
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Hippies who may be pushing thirty wear buttons that read &#34;Frodo Lives&#34; and decorate their pads with maps of Middle Earth...
+<p>Những người hippies có thể đang nhấn ba mươi nút đeo có dòng chữ "Frodo Lives" và trang trí miếng đệm của họ bằng các bản đồ của Trung Địa...
 </p>
 <p class="tg-quote-footer"><cite>Theodore Rosazak <sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

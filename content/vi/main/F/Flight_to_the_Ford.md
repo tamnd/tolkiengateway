@@ -8,7 +8,7 @@ source_url: "https://tolkiengateway.net/wiki/Flight_to_the_Ford"
 content_sha256: aef2765f0d10cec1387cbed6c915808fd475e8172d63bfb08ffff3c83e1db0a1
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "12th chapter of the first book of The Fellowship of the Ring"
+short_description: "Chương 12 cuốn sách đầu tiên của The Fellowship of the Ring"
 categories:
   - "The Fellowship of the Ring chapters"
 hidden_categories:
@@ -35,10 +35,10 @@ infobox:
     value: "Many Meetings"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Ted_Nasmith_-_At_the_Ford.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/e/e5/Ted_Nasmith_-_At_the_Ford.jpg/320px-Ted_Nasmith_-_At_the_Ford.jpg" decoding="async" loading="lazy" width="320" height="275" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e5/Ted_Nasmith_-_At_the_Ford.jpg/480px-Ted_Nasmith_-_At_the_Ford.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/e/e5/Ted_Nasmith_-_At_the_Ford.jpg/640px-Ted_Nasmith_-_At_the_Ford.jpg 2x" data-file-width="1600" data-file-height="1377"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Chapter of <i><a href="../T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Flight to the Ford</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Number</th><td class="tg-infobox-data">12</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Synopsis</span></th></tr><tr><th scope="row" class="tg-infobox-label">Event</th><td class="tg-infobox-data"><a href="../G/Glorfindel.md" title="Glorfindel">Glorfindel</a> helps <a href="Frodo_Baggins.md" title="Frodo Baggins">Frodo</a> escape the <a href="../N/Nazgûl.md" title="Nazgûl">Black Riders</a>.</td></tr><tr><th scope="row" class="tg-infobox-label">Date</th><td class="tg-infobox-data"><a href="../_/6_October.md" title="6 October">6</a>-<a href="../_/20_October.md" title="20 October">20 October</a> <a href="../T/Third_Age_3018.md" title="Third Age 3018">3018</a></td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="Ford_of_Bruinen.md" title="Ford of Bruinen">Ford of Bruinen</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Navigation</span></th></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="../A/A_Knife_in_the_Dark.md" title="A Knife in the Dark">A Knife in the Dark</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="../M/Many_Meetings.md" title="Many Meetings">Many Meetings</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Ted_Nasmith_-_At_the_Ford.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/e/e5/Ted_Nasmith_-_At_the_Ford.jpg/320px-Ted_Nasmith_-_At_the_Ford.jpg" decoding="async" loading="lazy" width="320" height="275" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e5/Ted_Nasmith_-_At_the_Ford.jpg/480px-Ted_Nasmith_-_At_the_Ford.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/e/e5/Ted_Nasmith_-_At_the_Ford.jpg/640px-Ted_Nasmith_-_At_the_Ford.jpg 2x" data-file-width="1600" data-file-height="1377"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Chapter of <i><a href="../T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Cuộc chạy trốn đến Khúc Cạn</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin</span></th></tr><tr><th scope="row" class="tg-infobox-label">Số</th><td class="tg-infobox-data">12</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Tóm tắt nội dung</span></th></tr><tr><th scope="row" class="tg-infobox-label">Sự kiện</th><td class="tg-infobox-data"><a href="../G/Glorfindel.md" title="Glorfindel">Glorfindel</a> giúp <a href="Frodo_Baggins.md" title="Frodo Baggins">Frodo</a> thoát khỏi <a href="../N/Nazgûl.md" title="Nazgûl">Kỵ sĩ Đen</a>.</td></tr><tr><th scope="row" class="tg-infobox-label">Ngày</th><td class="tg-infobox-data"><a href="../_/6_October.md" title="6 October">6</a>-<a href="../_/20_October.md" title="20 October">20 October</a> <a href="../T/Third_Age_3018.md" title="Third Age 3018">3018</a></td></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data"><a href="Ford_of_Bruinen.md" title="Ford of Bruinen">Ford of Bruinen</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Điều hướng</span></th></tr><tr><th scope="row" class="tg-infobox-label">Trước đó</th><td class="tg-infobox-data"><a href="../A/A_Knife_in_the_Dark.md" title="A Knife in the Dark">Một lưỡi dao trong bóng tối</a></td></tr><tr><th scope="row" class="tg-infobox-label">Tiếp theo</th><td class="tg-infobox-data"><a href="../M/Many_Meetings.md" title="Many Meetings">Nhiều cuộc hội ngộ</a></td></tr></tbody></table>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>It is you, Frodo, and that which you bear that brings us all in peril.
+<p>Chính bạn, Frodo, và thứ mà bạn mang theo đã khiến tất cả chúng ta gặp nguy hiểm.
 </p>
 <p class="tg-quote-footer"><cite><a href="../G/Glorfindel.md" title="Glorfindel">Glorfindel</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -58,7 +58,7 @@ Chương này bắt đầu khi [chương trước](../A/A_Knife_in_the_Dark.md) 
 Được Sam, Merry và Pippin theo dõi, Frodo đã tỉnh lại, kích động và vẫn ôm chặt [Chiếc Nhẫn](../T/The_One_Ring.md).
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>What has happened? Where is the pale king?
+<p>Chuyện gì đã xảy ra vậy? Vua nhợt nhạt ở đâu?
 </p>
 <p class="tg-quote-footer"><cite><a href="Frodo_Baggins.md" title="Frodo Baggins">Frodo Baggins</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -74,7 +74,7 @@ Strider và Hobbit quyết định rời đi Weathertop càng sớm càng tốt.
 Sau sáu ngày hành quân, họ đã đến được [Cây Cầu Cuối Cùng](../L/Last_Bridge.md) trên [Hoarwell](../H/Hoarwell.md). Trinh sát phía trước, Strider tìm thấy một viên beryl màu xanh lá cây sáng bóng - một viên ngọc [Tiên](../E/Elven.md) - mặc dù anh không thể xác định được ý nghĩa của nó. Không thấy có dấu hiệu phục kích Kỵ Sĩ Đen, anh vội vã Hobbit qua cầu. Khi leo lên đồi, họ bắt đầu nhìn thấy tàn tích của những bức tường và tòa tháp. Frodo được nhắc về những lời kể của [Bilbo](../B/Bilbo_Baggins.md) về khu vực và câu chuyện của ông về [Quỷ đá](../S/Stone-trolls.md). Họ đi qua những tòa tháp đổ nát, Strider được mô tả là tàn tích của các khu định cư [Mannish](../M/Men.md) cổ xưa từng thuộc về vương quốc tà ác [Angmar](../A/Angmar.md); bóng của nó vẫn còn bao quanh vùng đất. Pippin hỏi làm sao Strider biết nhiều truyền thuyết đến vậy.
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>The heirs of Elendil do not forget all things past, and many more things than I can tell are remembered in Rivendell.
+<p>Những người thừa kế của Elendil không quên tất cả những điều đã qua, và còn nhiều điều hơn tôi có thể kể được đều được ghi nhớ trong Rivendell.
 </p>
 <p class="tg-quote-footer"><cite><a class="mw-redirect" href="../S/Strider.md" title="Strider">Strider</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -94,7 +94,7 @@ Pippin phát hiện ra một con đường dẫn thẳng xuyên qua khu rừng b
 Khi họ tiếp tục đi, Pippin trinh sát phía trước với Merry. Họ nhanh chóng chạy lại và báo cáo rằng họ đã nhìn thấy những con quỷ lùn. Strider nhặt một cây gậy và họ từ từ tiến lên. Trong một bãi đất trống, họ tìm thấy ba chiếc Troll khổng lồ đang đứng hoàn toàn bất động. Strider bước tới ra lệnh cho họ thức dậy, rồi bẻ gậy vào một trong số họ. Troll không phản ứng, điều này khiến Hobbit ngạc nhiên. Frodo bật cười, nhận ra rằng đây chính là lũ Stone-troll trong câu chuyện của Bilbo, điều mà trước thời điểm này Pippin chưa bao giờ thực sự tin tưởng.
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>You are forgetting not only your family history, but all you ever knew about trolls. It is broad daylight with a bright sun, and yet you come back trying to scare me with a tale of live trolls waiting for us in this glade! In any case you might have noticed that one of them has an old bird&#39;s nest behind his ear.
+<p>Bạn đang quên không chỉ lịch sử gia đình mình mà còn quên tất cả những gì bạn từng biết về quỷ lùn. Trời đang giữa ban ngày với ánh nắng chói chang, thế mà bạn lại quay lại cố dọa tôi bằng câu chuyện về những con quỷ khổng lồ đang chờ chúng ta ở trảng rừng này! Trong mọi trường hợp, bạn có thể nhận thấy rằng một trong số họ có một tổ chim già sau tai.
 </p>
 <p class="tg-quote-footer"><cite><a class="mw-redirect" href="../S/Strider.md" title="Strider">Strider</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -103,7 +103,7 @@ Họ dùng bữa gần chân một trong những bức tượng troll và Merry 
 
 Cả nhóm đi theo con đường mà họ suy đoán đã được Bilbo, [Gandalf](../G/Gandalf.md) và [mười ba người lùn](../T/Thorin_and_Company.md) sử dụng. Quả thực, họ đã sớm tìm thấy một hòn đá được bao phủ bởi [Người Lùn](../D/Dwarves.md) rune, đánh dấu nơi Công ty chôn giấu kho báu Troll. Khi Merry hỏi Frodo liệu phần kho báu đó của Bilbo có còn sót lại gì không, Frodo thầm ước rằng Bilbo đã không mang về nhà chút kho báu nào, ám chỉ The One Ring. Ông ta khai với Merry rằng Bilbo đã cho đi toàn bộ kho báu vì nó đến từ tên cướp Troll.
 
-<h3><span id="Glorfindel.27s_aid"></span><span class="mw-headline" id="Glorfindel&#39;s_aid">Glorfindel&#39;s aid</span></h3>
+<h3><span id="Glorfindel.27s_aid"></span><span class="mw-headline" id="Glorfindel&#39;s_aid">sự trợ giúp của Glorfindel</span></h3>
 
 Khi mặt trời lặn, cả nhóm đột nhiên nghe thấy tiếng vó ngựa từ phía sau, liền ẩn nấp. Một bóng người với mái tóc vàng óng bồng bềnh cưỡi ngựa trắng xuất hiện trên con đường phía sau họ. Strider nhảy ra ngoài vui sướng và người cưỡi ngựa xuống ngựa.
 
@@ -122,7 +122,7 @@ Cả nhóm phân bổ lại trọng lượng tiếp tế của họ và vội v�
 Sáng hôm sau, bữa tiệc tiếp tục với tâm trạng mệt mỏi hơn bao giờ hết. Đi qua một vết cắt, họ bắt đầu nghe thấy tiếng bước chân vang vọng xung quanh, theo sau họ. Ở đầu bên kia, vẫn còn cách chiếc Ford một khoảng, tiếng bước chân ngày càng nhiều và một cơn gió mạnh bất ngờ thổi xung quanh họ.
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Fly! Fly! The enemy is upon us!
+<p>Bay! Bay! Kẻ thù đang tấn công chúng ta!
 </p>
 <p class="tg-quote-footer"><cite><a href="../G/Glorfindel.md" title="Glorfindel">Glorfindel</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

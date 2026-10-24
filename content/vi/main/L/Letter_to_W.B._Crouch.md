@@ -26,7 +26,7 @@ Vào [28 tháng 12](../_/28_December.md) [1971](../_/1971.md), [J.R.R. Tolkien](
 ## Nội dung {#Content}
 
 <blockquote class="tg-quote noexcerpt">
-<p>Dear Mr Crouch,<br/><br/>I am sorry that I broke in on you so abruptly on Monday (Dec. 20). But I was in great haste and also distress. I wish now to assure you that, I have much appreciated your kindness and courtesy, and wish you all success. I am very sorry to cease dealing with your delightful shop, and I hope to call on you if ever I am in Canford Cliffs again. Not unlikely, as I intend to come to Bournemouth as often as possible.<br/><br/>Yours sincerely<br/><br/>J.R.R. Tolkien<br/><br/>I understand that the “Sunday Times” of Jan. 2 will contain a large picture of me in anticipation of my birthday on Jan. 3.
+<p>Thưa ông Crouch,<br/><br/>Tôi xin lỗi vì đã đột ngột đến gặp ông vào thứ Hai (20 tháng 12). Nhưng tôi đã rất vội vàng và cũng đang đau khổ. Bây giờ tôi muốn đảm bảo với bạn rằng, tôi đánh giá cao lòng tốt và sự lịch sự của bạn, và chúc bạn thành công. Tôi rất tiếc phải ngừng giao dịch với cửa hàng thú vị của bạn và tôi hy vọng sẽ ghé thăm bạn nếu tôi quay lại Canford Cliffs. Không có khả năng xảy ra, vì tôi dự định đến Bournemouth thường xuyên nhất có thể.<br/><br/>Trân trọng<br/><br/>J.R.R. Tolkien<br/><br/>Tôi hiểu rằng tờ “Sunday Times” ngày 2 tháng 1 sẽ có một bức ảnh lớn của tôi trước ngày sinh nhật của tôi vào ngày 3 tháng 1.
 </p>
 </blockquote>
 

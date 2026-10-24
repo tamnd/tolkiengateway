@@ -49,7 +49,7 @@ Cái tên *Forannest* chỉ xuất hiện trong bản nháp từ những năm 19
 
 <b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>Forannest is only referred to as the &#34;North-gate&#34; in the game. <a href="../I/Ingold.md" title="Ingold">Ingold</a> stands watch over the game and gives the player several task to scout and undermine the enemy before the Siege of Gondor beings in earnest.</dd></dl>
+<dl><dd>Forannest chỉ được gọi là "Cổng phía Bắc" trong game. <a href="../I/Ingold.md" title="Ingold">Ingold</a> giám sát trò chơi và giao cho người chơi một số nhiệm vụ để trinh sát và tiêu diệt kẻ thù trước các sinh vật Cuộc vây hãm Gondor một cách nghiêm túc.</dd></dl>
 
 ## Ghi chú {#Notes}
 

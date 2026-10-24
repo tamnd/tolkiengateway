@@ -38,12 +38,12 @@ Nó mô tả một kỳ nghỉ Tolkien và vợ ông vào năm 1963. Mặc dù k
 Tác giả viết:
 
 <blockquote class="tg-quote noexcerpt">
-<p>I meant to send this to welcome you home, but both of us have been feeling ill. I am better now, but I am afraid Edith is not - a v. nasty throat.
-We thought of you yesterday, and hoped your journey home would be less unpleasant than our icy winds and snow here foreboded.
-Rather a disastrous (and costly) &#39;holiday&#39;? But for us it was at any rate made memorable by your company and kindness. 
-</p><p>Love to you both
-from Ronald and Edith Tolkien
-</p><p>I am sorry for the small defects in this copy. There are signs of some printing rush in these later examples.
+<p>Tôi định gửi cái này để chào mừng bạn về nhà, nhưng cả hai chúng tôi đều cảm thấy ốm. Bây giờ tôi đã khá hơn, nhưng tôi e là Edith vẫn chưa ổn - một cái cổ họng khó chịu.
+Chúng tôi đã nghĩ đến bạn ngày hôm qua và hy vọng chuyến hành trình về nhà của bạn sẽ bớt khó chịu hơn những cơn gió lạnh và tuyết ở đây đã báo trước.
+Đúng hơn là một 'kỳ nghỉ' tai hại (và tốn kém)? Nhưng đối với chúng tôi, dù sao đi nữa, đó cũng là điều đáng nhớ bởi sự đồng hành và lòng tốt của bạn. 
+</p><p>Yêu cả hai bạn
+từ Ronald và Edith Tolkien
+</p><p>Tôi xin lỗi vì những khiếm khuyết nhỏ trong bản sao này. Có dấu hiệu của một số cuộc in gấp trong những ví dụ sau này.
 </p>
 </blockquote>
 

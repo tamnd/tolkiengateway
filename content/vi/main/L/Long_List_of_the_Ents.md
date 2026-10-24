@@ -23,30 +23,30 @@ Danh sách này hẳn là rất cổ xưa, vì Treebeard đã nói rằng ông �
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Alan_Lee_-_Treebeard_2.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/30/Alan_Lee_-_Treebeard_2.jpg/200px-Alan_Lee_-_Treebeard_2.jpg" decoding="async" loading="lazy" width="200" height="273" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/30/Alan_Lee_-_Treebeard_2.jpg/300px-Alan_Lee_-_Treebeard_2.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/3/30/Alan_Lee_-_Treebeard_2.jpg/400px-Alan_Lee_-_Treebeard_2.jpg 2x" data-file-width="1172" data-file-height="1600"/></a><figcaption>&#34;Treebeard&#34; by <a href="../A/Alan_Lee.md" title="Alan Lee">Alan Lee</a></figcaption></figure>
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>Learn now the lore of Living Creatures!<br/>
-First name the four, the free peoples:<br/>
-Eldest of all, the elf-children;<br/>
-Dwarf the delver, dark are his houses;<br/>
-Ent the earthborn, old as mountains;<br/>
-Man the mortal, master of horses:<br/>
+<p>Hãy tìm hiểu ngay truyền thuyết về Sinh Vật Sống!<br/>
+Kể tên bốn dân tộc tự do:<br/>
+Lớn nhất là Tiên-trẻ em;<br/>
+Người Lùn nhà của hắn, nhà hắn tối tăm;<br/>
+Ent người đất, già như núi;<br/>
+Người phàm, chủ ngựa:<br/>
 <br/>
-Beaver the builder, buck the leaper,<br/>
-Bear bee-hunter, boar the fighter;<br/>
-Hound is hungry, hare is fearful...<br/>
+Hải ly người xây dựng, người nhảy cầu,<br/>
+Gấu thợ săn ong, lợn rừng chiến đấu;<br/>
+Chó đói, thỏ sợ...<br/>
 <br/>
-Eagle in eyrie, ox in pasture,<br/>
-Hart horn-crownéd; hawk is swiftest,<br/>
-Swan the whitest, serpent coldest...
+Đại bàng ở eyrie, bò trên đồng cỏ,<br/>
+Hart đội vương miện bằng sừng; diều hâu nhanh nhất,<br/>
+Thiên nga trắng nhất, rắn lạnh nhất...
 </p>
 </div>
 
 Pippin đề xuất thêm Hobbit trên một dòng mới; *Half-grown hobbits, the hole-dwellers* và nó sẽ nằm cạnh [Người đàn ông](../M/Men.md), mà Treebeard nghĩ rằng đề xuất là *"Not bad, not bad"*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Sau cuộc đấu tranh với [Saruman](../S/Saruman.md) tại [Isengard](../I/Isengard.md) vào [5 tháng 3](../_/5_March.md),<sup id="cite_ref-Great_2-1" class="reference"><a href="#cite_note-Great-2">[2]</a></sup> Treebeard tiết lộ rằng ông thực sự đã thêm Hobbit vào Danh sách dài:
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>Ents the earthborn, old as mountains,<br/>
-the wide-walkers, water drinking;<br/>
-and hungry as hunters, the Hobbit children,<br/>
-the laughing-folk, the little people,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+<p>Ent người đất, già như núi,<br/>
+người đi bộ rộng rãi, uống nước;<br/>
+và đói khát như thợ săn, những đứa trẻ Hobbit,<br/>
+những kẻ hay cười, những con người nhỏ bé,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 </p>
 </div>
 

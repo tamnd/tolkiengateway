@@ -32,7 +32,7 @@ images:
 
 <dl><dd><b>Số nhiều</b>: <i>-ssen</i> hoặc <i>-issen</i> cho các phụ âm cuối cùng.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></dd>
 <dd><b>Số nhiều</b>: <i>-lissen</i> hoặc <i>-ilissen</i> cho các kết thúc có phụ âm.</dd>
-<dd><b>Kép</b>: <i>-tsë</i></dd></dl>
+<dd><b>Dual</b>: <i>-tsë</i></dd></dl>
 
 ## -ssë<sup>2</sup> {#-ssë2}
 

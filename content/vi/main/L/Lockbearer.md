@@ -20,9 +20,9 @@ langlinks:
 ---
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p> &#39;To Gimli son of Glóin&#39;, she said, &#39;give his Lady&#39;s greeting. Lockbearer, wherever thou goest my thought goes with thee. But have a care to lay thine axe to the right tree!&#39; 
+<p> 'Gửi Gimli con trai của Glóin', bà nói, 'hãy gửi lời chào phu nhân của ông. Người mang khóa, bất cứ nơi nào bạn đi, suy nghĩ của tôi sẽ đi cùng bạn. Nhưng hãy cẩn thận đặt rìu của bạn vào đúng cây nhé!” 
 </p>
-<p class="tg-quote-footer"><cite>Gandalf passing on Galadriel&#39;s message<sup id="cite_ref-Rider_1-0" class="reference"><a href="#cite_note-Rider-1">[1]</a></sup></cite></p>
+<p class="tg-quote-footer"><cite>Gandalf chuyển tin nhắn của Galadriel<sup id="cite_ref-Rider_1-0" class="reference"><a href="#cite_note-Rider-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
 **Người giữ khóa** là tên mà [Galadriel](../G/Galadriel.md) sử dụng cho [Gimli](../G/Gimli.md) trong tin nhắn do [Gandalf](../G/Gandalf.md) gửi vào [Rừng Fangorn](../F/Fangorn_Forest.md),<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> được chọn vì Galadriel đã tặng [ba sợi tóc vàng](../H/Hair_of_Galadriel.md) cho Gimli như một món quà chia tay (theo yêu cầu của ông) vào [Lothlórien](Lothlórien.md).<sup id="cite_ref-Rider_1-1" class="reference"><a href="#cite_note-Rider-1">[1]</a></sup>

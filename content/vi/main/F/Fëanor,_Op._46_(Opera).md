@@ -21,7 +21,7 @@ Phần này của *Epic Scenes* được sáng tác từ cuối năm 1982 đến
 
 Nó có tổng thời lượng 122 phút và được chấm điểm cho dàn nhạc đầy đủ, hợp xướng đầy đủ và giọng solo.
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/F/Feanor_Cover.png.md"><img src="https://tolkiengateway.net/w/images/thumb/7/74/Feanor_Cover.png/300px-Feanor_Cover.png" decoding="async" loading="lazy" width="300" height="319" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/74/Feanor_Cover.png/450px-Feanor_Cover.png 1.5x, https://tolkiengateway.net/w/images/thumb/7/74/Feanor_Cover.png/600px-Feanor_Cover.png 2x" data-file-width="1387" data-file-height="1477"/></a><figcaption>Artwork from the CD release, used by kind permission of Ted Nasmith.</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/F/Feanor_Cover.png.md"><img src="https://tolkiengateway.net/w/images/thumb/7/74/Feanor_Cover.png/300px-Feanor_Cover.png" decoding="async" loading="lazy" width="300" height="319" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/74/Feanor_Cover.png/450px-Feanor_Cover.png 1.5x, https://tolkiengateway.net/w/images/thumb/7/74/Feanor_Cover.png/600px-Feanor_Cover.png 2x" data-file-width="1387" data-file-height="1477"/></a><figcaption>Tác phẩm nghệ thuật từ bản phát hành CD, được sử dụng với sự cho phép của Ted Nasmith.</figcaption></figure>
 
 ## Nhân vật {#Characters}
 

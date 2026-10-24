@@ -23,7 +23,7 @@ langlinks:
 ---
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Death to the Forgoil! Death to the Strawheads! Death to the robbers from the North!
+<p>Cái chết cho Forgoil! Cái chết cho bọn Đầu Rơm! Chết đi bọn cướp phương Bắc!
 </p>
 <p class="tg-quote-footer"><cite>Dunlendings<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

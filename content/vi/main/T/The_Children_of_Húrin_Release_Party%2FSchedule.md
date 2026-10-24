@@ -239,7 +239,7 @@ Lịch trình dưới đây hiện chỉ bao gồm khách mời, chúng tôi s�
 <tr>
 <td>16:00
 </td>
-<td>12:00 trưa
+<td>12:00pm
 </td>
 <td><a href="../M/Mark_T._Hooker.md" title="Mark T. Hooker">Mark T. Hooker</a>
 </td>

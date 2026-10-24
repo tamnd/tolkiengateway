@@ -29,7 +29,7 @@ Vào [31 tháng 12](../_/31_December.md) [1964](../_/1964.md), [J.R.R. Tolkien](
 ## Phiên âm {#Transcription}
 
 <blockquote class="tg-quote noexcerpt">
-<p>Dear Children,<br/><br/>Thank you very much indeed for writing to me to say that you have enjoyed reading my books. It is always pleasant for an author to learn that his work has given pleasure.<br/><br/>I was particularly interested to know that you have not only read &#34;The Hobbit&#34; and &#34;The Lord of the Rings&#34; in your own language, but that they are helping you to learn English as well. And Miss Korff tells me that you have painted water-colours of many scenes from these stories.<br/><br/>I hope that the books will continue to give you pleasure, and I wish you all much success in your studies.<br/><br/>Yours sincerely<br/><br/>J.R.R. Tolkien
+<p>Các em thân mến,<br/><br/>Thật sự cảm ơn các em đã viết thư cho tôi để nói rằng các em rất thích đọc sách của tôi. Tác giả luôn cảm thấy dễ chịu khi biết rằng tác phẩm của mình mang lại niềm vui.<br/><br/>Tôi đặc biệt quan tâm khi biết rằng bạn không chỉ đọc "The Hobbit" và "The Lord of the Rings" bằng ngôn ngữ của mình mà chúng còn giúp bạn học tiếng Anh. Và cô Korff nói với tôi rằng các em đã vẽ nhiều cảnh trong những câu chuyện này bằng màu nước.<br/><br/>Tôi hy vọng rằng những cuốn sách này sẽ tiếp tục mang lại cho các em niềm vui và tôi chúc các em đạt được nhiều thành công trong học tập.<br/><br/>Trân trọng<br/><br/>J.R.R. Tolkien
 </p>
 </blockquote>
 

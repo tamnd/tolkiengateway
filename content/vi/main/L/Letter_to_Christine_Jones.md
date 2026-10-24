@@ -23,7 +23,7 @@ Vào [9 tháng 12](../_/9_December.md) [1965](../_/1965.md), [J.R.R. Tolkien](..
 ## Trích {#Excerpt}
 
 <blockquote class="tg-quote noexcerpt">
-<p>If I answered all the letters I receive as they deserved, I should write nothing else.
+<p>Nếu tôi đã trả lời tất cả những lá thư tôi nhận được một cách xứng đáng thì tôi sẽ không viết gì nữa.
 </p>
 <p class="tg-quote-footer"><cite><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a><sup id="cite_ref-CG_2-3" class="reference"><a href="#cite_note-CG-2">[1]</a></sup></cite></p>
 </blockquote>

@@ -16,7 +16,7 @@ images:
   - "CdxIconInfoFilled.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article describes a concept which is mentioned in <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s works, but was never given a definite name.
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này mô tả một khái niệm được đề cập trong các tác phẩm của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> nhưng chưa bao giờ được đặt tên rõ ràng.
 </div></div>
 
 **Những ngôi làng bị lãng quên** là nơi định cư của [Hobbit](../H/Hobbits.md) sau khi họ di cư về phía tây qua [Dãy Núi Sương Mù](../M/Misty_Mountains.md) nhưng trước khi họ định cư [ Shire](../T/The_Shire.md).
@@ -35,7 +35,7 @@ Khoảng [T.A.](../T/Third_Age.md) [1300](../T/Third_Age_1300.md) vương quốc
 
 <b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>Remnants of the Hobbit migration can be found in <a href="../E/Eriador.md" title="Eriador">Eriador</a>. In the <a href="../A/Angle.md" title="Angle">Angle</a>, rotting and long-abandoned holes of the <a href="../S/Stoors.md" title="Stoors">Stoors</a> are tucked into corners of the landscape. Up north in the <a href="../E/Ettenmoors.md" title="Ettenmoors">Ettenmoors</a> exists an isolated Hobbit village of &#34;Hoarhallow&#34;.</dd></dl>
+<dl><dd>Phần còn lại của quá trình di chuyển Hobbit có thể được tìm thấy trong <a href="../E/Eriador.md" title="Eriador">Eriador</a>. Trong <a href="../A/Angle.md" title="Angle">Angle</a>, những cái hố mục nát và bị bỏ hoang từ lâu của <a href="../S/Stoors.md" title="Stoors">Stoors</a> nằm gọn trong các góc của cảnh quan. Ở phía bắc trong <a href="../E/Ettenmoors.md" title="Ettenmoors">Ettenmoors</a> tồn tại một ngôi làng Hobbit biệt lập "Hoarhallow".</dd></dl>
 
 <span></span>
 

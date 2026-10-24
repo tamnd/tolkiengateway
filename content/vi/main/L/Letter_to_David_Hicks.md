@@ -25,7 +25,7 @@ Vào [12 tháng 1](../_/12_January.md) [1966](../_/1966.md), [J.R.R. Tolkien](..
 ## Phiên âm {#Transcription}
 
 <blockquote class="tg-quote noexcerpt">
-<p>Dear Mr. Hicks,<br/><br/>Thank you very much for your birthday greetings. I am, in fact, writing more about the world of The Lord of the Rings, though the time I have to spare, which is not much, is much cut into by my correspondence.<br/><br/>I am herewith sending back to you the pictures you kindly let me see. Some of them interested me; none of them enraged me.<br/><br/>Yours sincerely,<br/><br/>J.R.R. Tolkien
+<p>Thưa ông Hicks,<br/><br/>Cảm ơn rất nhiều vì lời chúc mừng sinh nhật của ông. Trên thực tế, tôi đang viết nhiều hơn về thế giới của The Lord of the Rings, mặc dù thời gian rảnh rỗi của tôi không nhiều, bị cắt giảm nhiều do thư từ của tôi.<br/><br/>Sau đây tôi xin gửi lại cho bạn những bức ảnh mà bạn vui lòng cho tôi xem. Một số trong số họ khiến tôi quan tâm; không ai trong số họ làm tôi tức giận.<br/><br/>Trân trọng,<br/><br/>J.R.R. Tolkien
 </p>
 </blockquote>
 

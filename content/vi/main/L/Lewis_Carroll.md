@@ -27,7 +27,7 @@ sort_keys:
 Carroll đã xuất bản hai cuốn sách hiện được coi là kinh điển giả tưởng, *Alice's Adventures in Wonderland* (1865) và *Through the Looking-Glass* (1871). Chia sẻ quyền sở hữu tại Oxford và quyền tác giả của truyện giả tưởng, [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã được một số người đánh giá ban đầu về *[The Hobbit](../T/The_Hobbit.md)* và *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* vội vàng so sánh với Carroll.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Những người đánh giá *The Hobbit* so sánh nó với các câu chuyện *Alice*, dường như đã "dựa quá nhiều vào lời giới thiệu của nhà xuất bản",<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> trong đó tuyên bố rằng:
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>The birth of <i>The Hobbit</i> recalls very strongly that of <i>Alice in Wonderland</i>. Here again a professor of an abstruse subject is at play.<sup id="cite_ref-L15_3-0" class="reference"><a href="#cite_note-L15-3">[3]</a></sup>
+<p>Sự ra đời của <i>The Hobbit</i> gợi nhớ rất nhiều về sự ra đời của <i>Alice in Wonderland</i>. Ở đây một lần nữa một giáo sư về một chủ đề sâu sắc đang diễn ra.<sup id="cite_ref-L15_3-0" class="reference"><a href="#cite_note-L15-3">[3]</a></sup>
 </p>
 </blockquote><div class="tg-section-divider"></div></div>
 
@@ -44,7 +44,7 @@ Làm việc cho *[Oxford English Dictionary](../O/Oxford_English_Dictionary.md)*
 [Christina Scull](../C/Christina_Scull.md) và [Wayne G. Hammond](../W/Wayne_G._Hammond.md) đã lưu ý rằng Tolkien:
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>...was amused by Lewis Carroll&#39;s <i>Alice&#39;s Adventures in Wonderland</i> (1865) and <i>Through the Looking Glass</i> (1872); later in his life he was also fond of Carroll&#39;s <i>Sylvie and Bruno</i> (1889) and <i>Sylvie and Bruno Concluded</i> (1893), and occasionally recited verses from them.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[7]</a></sup>
+<p>...rất thích thú với <i>Alice&#39;s Adventures in Wonderland</i> (1865) và <i>Through the Looking Glass</i> (1872) của Lewis Carroll; sau này khi lớn lên, ông cũng thích <i>Sylvie and Bruno</i> (1889) và <i>Sylvie and Bruno Concluded</i> (1893) của Carroll, và thỉnh thoảng đọc lại những câu thơ trong đó.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[7]</a></sup>
 </p>
 </blockquote><div class="tg-section-divider"></div></div>
 

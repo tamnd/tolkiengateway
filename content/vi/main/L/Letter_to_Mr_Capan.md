@@ -27,7 +27,7 @@ Vào [16 tháng 12](../_/16_December.md) [1955](../_/1955.md), [J.R.R. Tolkien](
 ## Phiên âm {#Transcription}
 
 <blockquote class="tg-quote noexcerpt">
-<p>Dear Mr. Capan,<br/><br/>Thank you very much for the pleasure and honour of your invitation to visit the Cambridge University English Club. I am afraid, however, that I must decline with regret. It&#39;s difficult for me to get to Cambridge in term-time, especially in the middle of the week, and I simply have not the time for the composition of any paper or address worthy of your notice and hospitality.<br/><br/>Yours Sincerely,<br/><br/>J.R.R. Tolkien.
+<p>Kính gửi ông Capan,<br/><br/>Cảm ơn ông rất nhiều vì hân hạnh và vinh dự khi nhận được lời mời đến thăm Câu lạc bộ tiếng Anh Đại học Cambridge. Tuy nhiên, tôi e rằng mình phải từ chối trong tiếc nuối. Thật khó để tôi đến Cambridge trong kỳ học, đặc biệt là vào giữa tuần, và đơn giản là tôi không có thời gian để viết bất kỳ giấy tờ hoặc địa chỉ nào xứng đáng với sự chú ý và lòng hiếu khách của bạn.<br/><br/>Trân trọng,<br/><br/>J.R.R. Tolkien.
 </p>
 </blockquote>
 

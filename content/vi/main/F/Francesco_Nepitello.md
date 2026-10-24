@@ -22,7 +22,7 @@ infobox:
     value: "Game designer"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Person</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Francesco Nepitello</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Born</th><td class="tg-infobox-data"><a href="../_/29_December.md" title="29 December">29 December</a> <a href="../_/1967.md" title="1967">1967</a></td></tr><tr><th scope="row" class="tg-infobox-label">Occupation</th><td class="tg-infobox-data">Game designer</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Người</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Francesco Nepitello</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin tiểu sử</span></th></tr><tr><th scope="row" class="tg-infobox-label">Sinh</th><td class="tg-infobox-data"><a href="../_/29_December.md" title="29 December">29 December</a> <a href="../_/1967.md" title="1967">1967</a></td></tr><tr><th scope="row" class="tg-infobox-label">Nghề nghiệp</th><td class="tg-infobox-data">Nhà thiết kế trò chơi</td></tr></tbody></table>
 
 **Francesco Nepitello** (sinh [29 tháng 12](../_/29_December.md) [1967](../_/1967.md)) là một nhà thiết kế trò chơi trên máy tính bảng người Ý, người thường làm việc cùng với người bạn lâu năm [Marco Maggi](../M/Marco_Maggi.md).<sup id="cite_ref-Juegos_1-0" class="reference"><a href="#cite_note-Juegos-1">[1]</a></sup><sup id="cite_ref-roliste_2-0" class="reference"><a href="#cite_note-roliste-2">[2]</a></sup>
 

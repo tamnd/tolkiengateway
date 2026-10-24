@@ -30,7 +30,7 @@ Vào [28 tháng 10](../_/28_October.md) [1971](../_/1971.md), [J.R.R. Tolkien](.
 ## Nội dung {#Contents}
 
 <blockquote class="tg-quote noexcerpt">
-<p>Dear Joy,<br/><br/>I have appended the following note to the copy of <i>Bilbo&#39;s Last Song</i> (at the Grey Havens) which I retain.<br/><br/>A copy of this poem was presented to Miss M. Joy Hill on September 3, 1970, and also the ownership of the copyright of this poem, with the intention that she should have the right to publish it, or to dispose of the copyright, as she might wish to do, at any time after my death. This was a free gift as a token of gratitude for her work on my behalf.<br/><br/>J.R.R. Tolkien
+<p>Joy thân mến,<br/><br/>Tôi đã đính kèm ghi chú sau vào bản sao của <i>Bilbo&#39;s Last Song</i> (tại Cảng Xám) mà tôi giữ lại.<br/><br/>Một bản sao của bài thơ này đã được tặng cho cô M. Joy Hill vào ngày tháng Chín 3, 1970, và cả quyền sở hữu bản quyền của bài thơ này, với ý định rằng bà có quyền xuất bản nó hoặc định đoạt bản quyền, tùy theo ý muốn của bà phải làm, bất cứ lúc nào sau khi tôi chết. Đây là một món quà miễn phí nhằm thể hiện lòng biết ơn đối với công việc của bà thay mặt tôi.<br/><br/>J.R.R. Tolkien
 </p>
 </blockquote>
 

@@ -27,7 +27,7 @@ Vào [9 tháng 5](../_/9_May.md) [1967](../_/1967.md), [J.R.R. Tolkien](../J/J.R
 ## Phiên âm {#Transcription}
 
 <blockquote class="tg-quote noexcerpt">
-<p>Dear Mr. Morland,<br/><br/>Thank you very much for the typed copies of your indexes. I think it is a very generous gift. It will probably be of considerable use to me when I have time to turn to the correction and improvement of the index provided in the revised edition of <i>The Lord of the Rings</i> published last year. It is the only index material I have received that takes in the Appendices, and these references will save me a lot of time. Thank you also for telling me of the pleasure you and your family have found in my works.<br/><br/>Yours sincerely,<br/><br/>J.R.R. Tolkien
+<p>Kính gửi ông Morland,<br/><br/>Cảm ơn ông rất nhiều vì đã đánh máy các bản chỉ mục của ông. Tôi nghĩ đó là một món quà rất hào phóng. Nó có lẽ sẽ rất hữu ích đối với tôi khi tôi có thời gian chuyển sang sửa chữa và cải thiện chỉ mục được cung cấp trong ấn bản sửa đổi của <i>The Lord of the Rings</i> được xuất bản năm ngoái. Đây là tài liệu mục lục duy nhất mà tôi nhận được có chứa các Phụ lục và những tài liệu tham khảo này sẽ giúp tôi tiết kiệm rất nhiều thời gian. Cũng xin cảm ơn bạn đã cho tôi biết về niềm vui mà bạn và gia đình bạn đã tìm thấy trong các tác phẩm của tôi.<br/><br/>Trân trọng,<br/><br/>J.R.R. Tolkien
 </p>
 </blockquote>
 

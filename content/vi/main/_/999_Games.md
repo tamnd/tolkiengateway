@@ -56,14 +56,14 @@ infobox:
 		<li class="gallerybox" style="width: 175.33333333333px">
 			<div class="thumb" style="width: 173.33333333333px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/L/Lord_of_the_Rings_Board_Game_Dutch_advertisement.jpg.md" title="Advertisement for In de Ban van de Ring"><img alt="Advertisement for In de Ban van de Ring" src="https://tolkiengateway.net/w/images/thumb/9/91/Lord_of_the_Rings_Board_Game_Dutch_advertisement.jpg/260px-Lord_of_the_Rings_Board_Game_Dutch_advertisement.jpg" decoding="async" loading="lazy" width="174" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/91/Lord_of_the_Rings_Board_Game_Dutch_advertisement.jpg/389px-Lord_of_the_Rings_Board_Game_Dutch_advertisement.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/9/91/Lord_of_the_Rings_Board_Game_Dutch_advertisement.jpg/519px-Lord_of_the_Rings_Board_Game_Dutch_advertisement.jpg 2x" data-file-width="1928" data-file-height="1338"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 154px"><div class="gallerytext">
-<p>Quảng cáo cho <i>In de Ban van de Ring</i>
+<p>Advertisement for <i>In de Ban van de Ring</i>
 </p>
 			</div></div>
 		</li>
 		<li class="gallerybox" style="width: 76.666666666667px">
 			<div class="thumb" style="width: 74.666666666667px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/Middle-earth_CCG_and_Toys_Dutch_advertisement.jpg.md" title="Advertisement for In de Ban van de Ring: het Verzamelkaartspel"><img alt="Advertisement for In de Ban van de Ring: het Verzamelkaartspel" src="https://tolkiengateway.net/w/images/thumb/e/e1/Middle-earth_CCG_and_Toys_Dutch_advertisement.jpg/112px-Middle-earth_CCG_and_Toys_Dutch_advertisement.jpg" decoding="async" loading="lazy" width="75" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e1/Middle-earth_CCG_and_Toys_Dutch_advertisement.jpg/168px-Middle-earth_CCG_and_Toys_Dutch_advertisement.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/e/e1/Middle-earth_CCG_and_Toys_Dutch_advertisement.jpg/224px-Middle-earth_CCG_and_Toys_Dutch_advertisement.jpg 2x" data-file-width="1555" data-file-height="2500"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 55px"><div class="gallerytext">
-<p>Quảng cáo cho <i>In de Ban van de Ring: het Verzamelkaartspel</i>
+<p>Advertisement for <i>In de Ban van de Ring: het Verzamelkaartspel</i>
 </p>
 			</div></div>
 		</li>

@@ -16,10 +16,10 @@ images:
   - "Kenneth_Sofia_-_The_Nazgul.png"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>The Lord of the Rings</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="../T/The_Lord_of_the_Rings_(disambiguation).md" title="The Lord of the Rings (disambiguation)">The Lord of the Rings (disambiguation)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>The Lord of the Rings</b> đề cập đến nhiều nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="../T/The_Lord_of_the_Rings_(disambiguation).md" title="The Lord of the Rings (disambiguation)">The Lord of the Rings (disambiguation)</a></b>.</div></div>
 
 <center><div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>The <b>Lord of the Ring</b> is not Frodo, but the master of the <a class="mw-redirect" href="../D/Dark_Tower.md" title="Dark Tower">Dark Tower</a> of <a href="../M/Mordor.md" title="Mordor">Mordor</a>...
+<p><b>Chúa tể của những chiếc nhẫn</b> không phải là Frodo, mà là chủ nhân của <a class="mw-redirect" href="../D/Dark_Tower.md" title="Dark Tower">Tháp bóng tối</a> của <a href="../M/Mordor.md" title="Mordor">Mordor</a>...
 </p>
 <p class="tg-quote-footer"><cite><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a>  in <i><a href="../T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="../M/Many_Meetings.md" title="Many Meetings">Many Meetings</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div></center>

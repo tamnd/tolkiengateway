@@ -45,7 +45,7 @@ Năm 2013, [José Manuel Ferrández Bru](../J/José_Manuel_Ferrández_Bru.md) xu
 
 Trong bộ phim chính kịch tiểu sử [Tolkien](<../T/Tolkien_(film).md>), ông được diễn viên [Colm Meaney](../C/Colm_Meaney.md) thủ vai.
 
-<h2><span id="In_Tolkien.27s_works"></span><span class="mw-headline" id="In_Tolkien&#39;s_works">In Tolkien&#39;s works</span></h2>
+<h2><span id="In_Tolkien.27s_works"></span><span class="mw-headline" id="In_Tolkien&#39;s_works">Trong tác phẩm của Tolkien</span></h2>
 
 Trong *[Gnomish Lexicon](../G/Gnomish_Lexicon.md)*, Tolkien dịch tên "Francis" sang tiếng [Gnomish](../G/Gnomish.md): *Faidron* hoặc *Faithron*. Những tên này rõ ràng có liên hệ với các từ khác trong cùng từ điển: *fair* ("tự do, không bị ràng buộc"), *faidwen/faith* ("sự tự do"), *faithir* ("người giải phóng, Đấng Cứu Thế").<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Bản dịch này dựa trên từ nguyên, vì tên <a class="extiw" href="http://en.wikipedia.org/wiki/Francis_(given_name)#Derivation" title="wikipedia:Francis (given name)">Francis</a> (bắt nguồn từ Francesco trong tiếng Ý) có nguồn gốc từ người <a class="extiw" href="http://en.wikipedia.org/wiki/Franks#Etymology" title="wikipedia:Franks">Frank</a>, những người đã tạo nên từ <a class="extiw" href="http://en.wiktionary.org/wiki/frank" title="wiktionary:frank">frank</a> ("không phải chịu cảnh nô dịch; thẳng thắn, bộc trực, không giữ kẽ").<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Ferrández Bru cho rằng Tolkien đã bày tỏ lòng kính trọng đối với Cha Francis theo cách này.
 

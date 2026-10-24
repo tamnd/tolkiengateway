@@ -14,7 +14,7 @@ images:
   - "FEANOR_Vocal_Score_Cover.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/F/FEANOR_Vocal_Score_Cover.jpg.md"><img src="https://tolkiengateway.net/w/images/b/b3/FEANOR_Vocal_Score_Cover.jpg" decoding="async" loading="lazy" width="249" height="333" class="mw-file-element" data-file-width="249" data-file-height="333"/></a><figcaption>Vocal Score cover by permission of Ted Nasmith</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/F/FEANOR_Vocal_Score_Cover.jpg.md"><img src="https://tolkiengateway.net/w/images/b/b3/FEANOR_Vocal_Score_Cover.jpg" decoding="async" loading="lazy" width="249" height="333" class="mw-file-element" data-file-width="249" data-file-height="333"/></a><figcaption>Bản cover Điểm giọng hát đã được sự cho phép của Ted Nasmith</figcaption></figure>
 
 Được Zarathustra Music xuất bản vào năm 2022, Điểm giọng hát hoàn chỉnh của [Paul Corfield Godfrey](../P/Paul_Corfield_Godfrey.md) *[Fëanor, Op. 46 (Opera)](<Fëanor,_Op._46_(Opera).md>)* được cập nhật để phản ánh những sửa đổi được thực hiện trong quá trình sản xuất Bản ghi demo tác phẩm của Volante Opera Production.
 

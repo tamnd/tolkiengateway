@@ -27,7 +27,7 @@ Vào [21 tháng 12](../_/21_December.md) [1933](../_/1933.md), [J.R.R. Tolkien](
 ## Phiên âm {#Transcription}
 
 <blockquote class="tg-quote noexcerpt">
-<p>My Dear Chambers,<br/><br/>Thank you for your note. I am sorry you are — or were — unwell. My very best wishes for a happy feast and for all blessings in 1934.<br/><br/>Yrs very sincerely,<br/>J.R.R. Tolkien<br/><br/>I send you - it may possibly amuse you — a report on last year&#39;s Examinations in Oxford: held by myself, <a href="../C/Charles_Leslie_Wrenn.md" title="Charles Leslie Wrenn">Wrenn</a>, Brett-Smith &amp; <a href="../C/C.S._Lewis.md" title="C.S. Lewis">C.S. Lewis</a> (whose <i>Pilgrim&#39;s Regress</i> you may have read). The howlers are genuine except the nonsense about Percy S.<br/><br/>Yrs<br/>J.R.R.T.
+<p>Chambers thân mến của tôi,<br/><br/>Cảm ơn bạn đã lưu ý. Tôi rất tiếc vì bạn đã — hoặc đã — không khỏe. Những lời chúc tốt đẹp nhất của tôi cho một bữa tiệc vui vẻ và mọi phước lành trong năm 1934.<br/><br/>Xin chân thành cảm ơn,<br/>J.R.R. Tolkien<br/><br/>Tôi gửi cho bạn - nó có thể khiến bạn thích thú — một báo cáo về Kỳ thi năm ngoái trong Oxford: do tôi thực hiện, <a href="../C/Charles_Leslie_Wrenn.md" title="Charles Leslie Wrenn">Wrenn</a>, Brett-Smith &amp; <a href="../C/C.S._Lewis.md" title="C.S. Lewis">C.S. Lewis</a> (của ai <i>Pilgrim&#39;s Regress</i> bạn có thể đã đọc). Những tiếng hú là có thật ngoại trừ những điều vô nghĩa về Percy S.<br/><br/>Năm<br/>J.R.R.T.
 </p>
 </blockquote>
 

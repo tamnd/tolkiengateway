@@ -29,14 +29,14 @@ images:
 <td>
 <dl><dd><i>Átaremma i ëa han ëa,</i></dd>
 <dd><i>na aire esselya,</i></dd>
-<dd><i>aranielya và tuluva,</i></dd>
+<dd><i>aranielya na tuluva,</i></dd>
 <dd><i>na kare indómelya</i></dd>
 <dd><i>cemende tambe Erumande.</i></dd>
 <dd><i>Ámen anta síra ilaurëa massamma,</i></dd>
-<dd><i>ar thời gian apsene úcaremmar</i></dd>
-<dd><i>sív’ emme apsenet tien and úccarer emmen.</i></dd>
+<dd><i>ar ámen apsene úcaremmar</i></dd>
+<dd><i>sív’ emme apsenet tien i úcarer emmen.</i></dd>
 <dd><i>Álame tulya úsahtienna</i></dd>
-<dd><i>mal mơe etelehta ulcullo.</i></dd>
+<dd><i>mal áme etelehta ulcullo.</i></dd>
 <dd><i>Násië.</i></dd></dl>
 </td>
 <td>

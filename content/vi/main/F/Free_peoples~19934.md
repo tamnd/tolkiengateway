@@ -26,7 +26,7 @@ images:
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Abe_Papakhian_-_The_Fellowship_of_the_Ring.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/8/88/Abe_Papakhian_-_The_Fellowship_of_the_Ring.jpg/300px-Abe_Papakhian_-_The_Fellowship_of_the_Ring.jpg" decoding="async" loading="lazy" width="300" height="217" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/88/Abe_Papakhian_-_The_Fellowship_of_the_Ring.jpg/450px-Abe_Papakhian_-_The_Fellowship_of_the_Ring.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/8/88/Abe_Papakhian_-_The_Fellowship_of_the_Ring.jpg/600px-Abe_Papakhian_-_The_Fellowship_of_the_Ring.jpg 2x" data-file-width="1024" data-file-height="742"/></a><figcaption><i>The Fellowship of the Ring</i> by <a href="../../category/I/Images_by_Abe_Papakhian.md" title="Category:Images by Abe Papakhian">Abe Papakhian</a></figcaption></figure>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Farewell, and may the blessing of Elves and Men and all Free Folk go with you.
+<p>Tạm biệt, cầu mong phước lành của Tiên tộc và Con Người cũng như tất cả Dân gian Tự do sẽ đồng hành cùng bạn.
 </p>
 <p class="tg-quote-footer"><cite><a href="../E/Elrond.md" title="Elrond">Elrond</a> in <i><a href="../T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="../T/The_Ring_Goes_South.md" title="The Ring Goes South">The Ring Goes South</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -43,15 +43,15 @@ Các thành viên của [Đoàn Hộ Nhẫn](Fellowship_of_the_Ring.md) được
 
 <b>2001: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i>:</b>
 
-<dl><dd>In the prologue, the term &#34;Free Peoples of Middle-earth&#34; is used to describe those that formed the <a href="../L/Last_Alliance_of_Elves_and_Men.md" title="Last Alliance of Elves and Men">Last Alliance of Elves and Men</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></dd></dl>
+<dl><dd>Trong phần mở đầu, thuật ngữ "Những dân tộc tự do của Trung Địa" được dùng để mô tả những người đã hình thành <a href="../L/Last_Alliance_of_Elves_and_Men.md" title="Last Alliance of Elves and Men">Liên minh Cuối cùng của Tiên tộc và Con Người</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></dd></dl>
 
 <b>2004: <i><a href="../T/The_Lord_of_the_Rings%253A_War_of_the_Ring.md" title="The Lord of the Rings: War of the Ring">The Lord of the Rings: Cuộc chiến Nhẫn</a></i>:</b>
 
-<dl><dd>&#34;Free Peoples&#34; is one of the playable factions, the other being &#34;Minions of Sauron&#34;. Its troops include Men of <a href="../G/Gondor.md" title="Gondor">Gondor</a> and <a href="../R/Rohan.md" title="Rohan">Rohan</a>, <a href="../D/Dwarves.md" title="Dwarves">Dwarves</a>, <a href="../E/Elves.md" title="Elves">Elves</a>, <a href="../H/Huorns.md" title="Huorns">Huorns</a> and <a href="../B/Beornings.md" title="Beornings">Beornings</a>.</dd></dl>
+<dl><dd>"Người dân tự do" là một trong những phe có thể chơi được, phe còn lại là "Minions of Sauron". Quân đội của nó bao gồm Con Người của <a href="../G/Gondor.md" title="Gondor">Gondor</a> và <a href="../R/Rohan.md" title="Rohan">Rohan</a>, <a href="../D/Dwarves.md" title="Dwarves">Người Lùn</a>, <a href="../E/Elves.md" title="Elves">Tiên tộc</a>, <a href="../H/Huorns.md" title="Huorns">Huorn</a> và <a href="../B/Beornings.md" title="Beornings">Beornings</a>.</dd></dl>
 
 <b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>The term &#34;Free Peoples&#34; is generally used to identify the &#34;good&#34; faction in the MonsterPlay sessions. It is often abbreviated as &#34;Freeps&#34;.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></dd></dl>
+<dl><dd>Thuật ngữ "Người tự do" thường được sử dụng để xác định phe "tốt" trong các phiên MonsterPlay. Nó thường được viết tắt là "Freeps".<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></dd></dl>
 
 <span></span>
 

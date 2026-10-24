@@ -31,31 +31,31 @@ langlinks:
 
 <table align="right" cellpadding="6" cellspacing="0" class="tginfobox floatright">
 <tbody><tr>
-<th style="background:var(--tg-color-surface-5);border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);" colspan="3"><a href="../H/History_of_Arda.md" title="History of Arda">History of Arda</a>
+<th style="background:var(--tg-color-surface-5);border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);" colspan="3"><a href="../H/History_of_Arda.md" title="History of Arda">Lịch sử Arda</a>
 </th></tr>
 <tr>
-<td colspan="3"><b><a href="../M/Music_of_the_Ainur.md" title="Music of the Ainur">Music of the Ainur</a></b>
+<td colspan="3"><b><a href="../M/Music_of_the_Ainur.md" title="Music of the Ainur">Âm nhạc của các Ainur</a></b>
 </td></tr>
 <tr>
-<td colspan="3"><b><a href="../T/Timeline.md" title="Timeline">Timeline of Arda</a></b>
-</td></tr>
-<tr>
-<td style="padding-top: 0em; padding-bottom: 0em;">
-</td>
-<td colspan="2" style="padding-top: 0em; padding-bottom: 0em;"><a href="../D/Days_before_days.md" title="Days before days">Days before days</a>
+<td colspan="3"><b><a href="../T/Timeline.md" title="Timeline">Dòng thời gian Arda</a></b>
 </td></tr>
 <tr>
 <td style="padding-top: 0em; padding-bottom: 0em;">
 </td>
-<td colspan="2" style="padding-top: 0em; padding-bottom: 0em;"><a href="../Y/Years_of_the_Trees.md" title="Years of the Trees">Years of the Trees</a>
+<td colspan="2" style="padding-top: 0em; padding-bottom: 0em;"><a href="../D/Days_before_days.md" title="Days before days">Những ngày trước thời đại</a>
 </td></tr>
 <tr>
 <td style="padding-top: 0em; padding-bottom: 0em;">
 </td>
-<td colspan="2" style="padding-top: 0em; padding-bottom: 0em;"><a href="../Y/Years_of_the_Sun.md" title="Years of the Sun">Years of the Sun</a>
+<td colspan="2" style="padding-top: 0em; padding-bottom: 0em;"><a href="../Y/Years_of_the_Trees.md" title="Years of the Trees">Thời đại Cây Hai Ngọn</a>
 </td></tr>
 <tr>
-<td colspan="3"><b><a href="../A/Ages.md" title="Ages">Ages of the Children of Ilúvatar</a></b>
+<td style="padding-top: 0em; padding-bottom: 0em;">
+</td>
+<td colspan="2" style="padding-top: 0em; padding-bottom: 0em;"><a href="../Y/Years_of_the_Sun.md" title="Years of the Sun">Những năm Mặt Trời</a>
+</td></tr>
+<tr>
+<td colspan="3"><b><a href="../A/Ages.md" title="Ages">Các Kỷ nguyên của Những Người Con của Ilúvatar</a></b>
 </td></tr>
 <tr>
 <td style="padding-top: 0em; padding-bottom: 0em;">
@@ -80,22 +80,22 @@ langlinks:
 <tr>
 <td style="padding-top: 0em; padding-bottom: 0em;">
 </td>
-<td colspan="2" style="padding-top: 0em; padding-bottom: 0em;"><a href="../L/Later_Ages.md" title="Later Ages">Later Ages</a> <small>(up to present day)</small>
+<td colspan="2" style="padding-top: 0em; padding-bottom: 0em;"><a href="../L/Later_Ages.md" title="Later Ages">Sau Kỷ nguyên</a> <small>(tính đến thời điểm hiện tại)</small>
 </td></tr>
 <tr>
 <td colspan="3"><b><a href="../D/Dagor_Dagorath.md" title="Dagor Dagorath">Dagor Dagorath</a></b>
 </td></tr>
 <tr>
-<td colspan="3"><b><a href="../S/Second_Music_of_the_Ainur.md" title="Second Music of the Ainur">Second Music of the Ainur</a></b>
+<td colspan="3"><b><a href="../S/Second_Music_of_the_Ainur.md" title="Second Music of the Ainur">Âm nhạc thứ hai của các Ainur</a></b>
 </td></tr>
 <tr>
-<td align="center" style="background:var(--tg-color-surface-3);border-bottom-left-radius:var(--tg-border-radius-large);border-bottom-right-radius:var(--tg-border-radius-large);" colspan="3">See also: <b><a href="../R/Round_World_version_of_the_legendarium.md" title="Round World version of the legendarium">Round World version of the legendarium</a></b>
+<td align="center" style="background:var(--tg-color-surface-3);border-bottom-left-radius:var(--tg-border-radius-large);border-bottom-right-radius:var(--tg-border-radius-large);" colspan="3">Xem thêm: <b><a href="../R/Round_World_version_of_the_legendarium.md" title="Round World version of the legendarium">Truyền thuyết phiên bản Round World</a></b>
 </td></tr></tbody></table>
 
 <center><div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>I have written nothing beyond the first few years of the Fourth Age. (Except the beginning of a tale supposed to refer to the end of the reign of Eldarion about 100 years after the death of Aragorn. Then I of course discovered that the King&#39;s Peace would contain no tales worth recounting; and his wars would have little interest after the overthrow of Sauron; but that almost certainly a restlessness would appear about then, owing to the (it seems) inevitable boredom of Men with the good: there would be secret societies practising dark cults, and ‘orc-cults’ among adolescents.)
+<p>Tôi không viết gì ngoài vài năm đầu tiên của Kỷ Đệ Tứ. (Ngoại trừ phần mở đầu của một câu chuyện được cho là đề cập đến sự kết thúc của triều đại Eldarion khoảng 100 năm sau cái chết của Aragorn. Sau đó, tất nhiên tôi phát hiện ra rằng Hòa bình của Vua sẽ không có câu chuyện nào đáng kể lại; và các cuộc chiến của ông sẽ không còn được quan tâm nhiều sau khi Sauron bị lật đổ; nhưng gần như chắc chắn rằng sự bồn chồn sẽ xuất hiện vào khoảng thời gian đó, do sự nhàm chán (dường như) không thể tránh khỏi của Con Người đối với cái tốt: sẽ có những hội kín thực hành các giáo phái đen tối và 'giáo phái orc' trong thanh thiếu niên.)
 </p>
-<p class="tg-quote-footer"><cite><i><a href="../L/Letter_338.md" title="Letter 338"><i>From a letter to Fr. Douglas Carter, 6 June 1972 </i></a></i><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></cite></p>
+<p class="tg-quote-footer"><cite><i><a href="../L/Letter_338.md" title="Letter 338"><i>Từ bức thư gửi Cha. Douglas Carter, ngày 6 tháng 6 năm 1972</i></a></i><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div></center>
 
 **Kỷ nguyên thứ Tư** bắt đầu sau khi [Sauron](../S/Sauron.md) cuối cùng bị đánh bại, khi [Chiếc Nhẫn Thống trị](../T/The_One_Ring.md) của hắn bị hủy diệt, và [Những Người Giữ Ba Chiếc Nhẫn](../K/Keepers_of_the_Three_Rings.md) rời Trung Địa để đến [Miền Tây Tận cùng](../A/Aman.md).
@@ -113,7 +113,7 @@ Không có thông tin cụ thể về quá vài thế kỷ đầu tiên của K�
 Ngoài ra, theo một trong những bản thảo của *[Phụ lục](../A/Appendices.md)*, có ghi rằng:
 
 <blockquote class="tg-quote noexcerpt">
-<p>Of <a href="../E/Eldarion.md" title="Eldarion">Eldarion</a> son of <a href="../A/Aragorn.md" title="Aragorn">Elessar</a> it was foretold that he should rule a great <a href="../R/Reunited_Kingdom.md" title="Reunited Kingdom">realm</a>, and <b>that it should endure for a hundred generations of <a href="../M/Men.md" title="Men">Men</a> after him, that is until a new age brought in again new things</b>; and from him should come the kings of many realms in long days after.
+<p>Về <a href="../E/Eldarion.md" title="Eldarion">Eldarion</a> con trai của <a href="../A/Aragorn.md" title="Aragorn">Elessar</a>, người ta đã tiên đoán rằng ông sẽ cai trị một <a href="../R/Reunited_Kingdom.md" title="Reunited Kingdom">vương quốc</a> vĩ đại, và <b>rằng nó sẽ tồn tại đến hàng trăm thế hệ <a href="../M/Men.md" title="Men">Con Người</a> sau ông, đó là cho đến khi một thời đại mới lại mang đến những điều mới mẻ</b>; và từ ông sẽ trở thành vị vua của nhiều cõi trong những ngày dài sau đó.
 </p>
 <p class="tg-quote-footer"><cite><i><a href="../T/The_Peoples_of_Middle-earth.md" title="The Peoples of Middle-earth">The Peoples of Middle-earth</a></i>, &#34;<a href="../T/The_Tale_of_Years_of_the_Third_Age.md" title="The Tale of Years of the Third Age">The Tale of Years of the Third Age</a>&#34;<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></cite></p>
 </blockquote>
