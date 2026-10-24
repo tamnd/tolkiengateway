@@ -35,15 +35,15 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/H/HenryGee.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/98/HenryGee.jpg/320px-HenryGee.jpg" decoding="async" loading="lazy" width="320" height="227" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/98/HenryGee.jpg/480px-HenryGee.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/9/98/HenryGee.jpg/640px-HenryGee.jpg 2x" data-file-width="1400" data-file-height="995"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Henry Gee</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Born</th><td class="tg-infobox-data"><a href="../_/1962.md" title="1962">1962</a></td></tr><tr><th scope="row" class="tg-infobox-label">Education</th><td class="tg-infobox-data"><a href="../U/University_of_Leeds.md" title="University of Leeds">University of Leeds</a>,<br/> <a class="external text" href="http://www.cam.ac.uk" rel="noreferrer noopener" target="_blank">University of Cambridge</a></td></tr><tr><th scope="row" class="tg-infobox-label">Occupation</th><td class="tg-infobox-data">Author, biologist, palaeontologist</td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">Norfolk, UK</td></tr><tr><th scope="row" class="tg-infobox-label">Website</th><td class="tg-infobox-data"><a class="external text" href="https://occamstypewriter.org/cromercrox/" rel="noreferrer noopener" target="_blank">occamstypewriter.org</a></td></tr></tbody></table>
 
-**Henry Gee** là nhà sinh vật học, nhà cổ sinh vật học và là tác giả của *[The Science of Middle-earth](<../T/The_Science_of_Middle-earth_(2004_book).md>)*.
+**Henry Gee** là một nhà sinh vật học, nhà cổ sinh vật học và tác giả của *[The Science of Middle-earth](<../T/The_Science_of_Middle-earth_(2004_book).md>)*.
 
 ## Giới thiệu {#About}
 
-Henry Gee was awarded a BA in zoology and genetics from the [University of Leeds](../U/University_of_Leeds.md) in [1984](../_/1984.md) before going on to complete a PhD in zoology at the [University of Cambridge](../C/Cambridge.md) in [1991](../_/1991.md);<sup id="cite_ref-about_1-0" class="reference"><a href="#cite_note-about-1">[1]</a></sup> before finishing his doctorate, he joined the staff of <i><a class="extiw" href="http://en.wikipedia.org/wiki/Nature(journal)" title="wikipedia:Nature(journal)">Nature</a></i> in [1987](../_/1987.md) where he is now a senior editor of biological sciences.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> At *Nature* he devised and edits the "Futures" science-fiction series for which he won the Best Publisher award from the <a class="external text" href="https://www.esfs.info/esfs-awards/2000-2009/5" rel="noreferrer noopener" target="_blank">European Science Fiction Society</a> in [2005](../_/2005.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Henry Gee nhận bằng Cử nhân Khoa học (BA) về động vật học và di truyền học tại [University of Leeds](../U/University_of_Leeds.md) vào [1984](../_/1984.md), trước khi tiếp tục hoàn thành bằng Tiến sĩ (PhD) về động vật học tại [University of Cambridge](../C/Cambridge.md) vào [1991](../_/1991.md);<sup id="cite_ref-about_1-0" class="reference"><a href="#cite_note-about-1">[1]</a></sup> trước khi hoàn thành chương trình tiến sĩ, ông đã gia nhập đội ngũ biên tập của <i><a class="extiw" href="http://en.wikipedia.org/wiki/Nature(journal)" title="wikipedia:Nature(journal)">Nature</a></i> vào [1987](../_/1987.md), nơi hiện nay ông giữ chức biên tập viên cao cấp phụ trách khoa học sinh học.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Tại *Nature*, ông đã sáng lập và biên tập loạt truyện khoa học viễn tưởng "Futures", nhờ đó ông giành được giải Nhà xuất bản xuất sắc nhất do <a class="external text" href="https://www.esfs.info/esfs-awards/2000-2009/5" rel="noreferrer noopener" target="_blank">European Science Fiction Society</a> trao tặng vào [2005](../_/2005.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Ngoài công việc về sinh học, Gee còn nổi tiếng trong cộng đồng Tolkien với tư cách là tác giả của *[The Science of Middle-earth](<../T/The_Science_of_Middle-earth_(2004_book).md>)*, biên tập viên của *[Mallorn](<../M/Mallorn_(journal).md>)* từ [số 45-54](<../../category/M/Mallorn_(journal).md>) và phóng viên đặc biệt về các vấn đề khoa học - dưới bút danh "[Olog-Hai](../O/Olog-hai.md)"<sup id="cite_ref-about_1-1" class="reference"><a href="#cite_note-about-1">[1]</a></sup> - tại <a class="external text" href="http://www.theonering.net" rel="noreferrer noopener" target="_blank">TheOneRing.net</a>.
+Bên cạnh công việc trong lĩnh vực sinh học, Gee còn được biết đến rộng rãi trong cộng đồng Tolkien với tư cách là tác giả của *[The Science of Middle-earth](<../T/The_Science_of_Middle-earth_(2004_book).md>)*, biên tập viên của *[Mallorn](<../M/Mallorn_(journal).md>)* từ [các số 45–54](<../../category/M/Mallorn_(journal).md>), và phóng viên đặc biệt phụ trách các vấn đề khoa học — dưới bút danh "[Olog-Hai](../O/Olog-hai.md)"<sup id="cite_ref-about_1-1" class="reference"><a href="#cite_note-about-1">[1]</a></sup> — tại <a class="external text" href="http://www.theonering.net" rel="noreferrer noopener" target="_blank">TheOneRing.net</a>.
 
-## Thư mục, đã chọn {#Bibliography,_selected}
+## Thư mục tài liệu tham khảo, tuyển chọn {#Bibliography,_selected}
 
 ### Sách {#Books}
 
@@ -62,39 +62,39 @@ Ngoài công việc về sinh học, Gee còn nổi tiếng trong cộng đồng
 - [2012](../_/2012.md): [*Mallorn* 53](../M/Mallorn_53.md)
 - [2013](../_/2013.md): [*Mallorn* 54](../M/Mallorn_54.md)
 
-### Bài viết {#Articles}
+### Bài báo {#Articles}
 
-- [2003](../_/2003.md): <i><a class="external text" href="http://www.nature.com" rel="noreferrer noopener" target="_blank">Thiên nhiên</a></i>
-    - ([Ngày 2 tháng 10](../_/2_October.md):) "<a class="external text" href="http://www.nature.com/nature/journal/v425/n6957/full/425455a.html" rel="noreferrer noopener" target="_blank">Triển lãm: Một buổi biểu diễn mang phong cách hobbit</a>"<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
-- [2004](../_/2004.md): <i><a class="external text" href="http://www.nature.com" rel="noreferrer noopener" target="_blank">Thiên nhiên</a></i>
-    - ([Ngày 8 tháng 11](../_/8_November.md):) "<a class="external text" href="http://www.nature.com/news/2004/041108/full/news041108-4.html" rel="noreferrer noopener" target="_blank">Bỏ thói quen hobbit</a>"<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
-- [2007](../_/2007.md): <i><a class="external text" href="http://www.nature.com" rel="noreferrer noopener" target="_blank">Thiên nhiên</a></i>
-    - ([26 tháng 4](../_/26_April.md):) "<a class="external text" href="http://www.nature.com/nature/journal/v446/n7139/full/446979a.html" rel="noreferrer noopener" target="_blank">Trong một cái hố trên mặt đất</a>"<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+- [2003](../_/2003.md): <i><a class="external text" href="http://www.nature.com" rel="noreferrer noopener" target="_blank">Nature</a></i>
+    - ([ngày 2 tháng 10](../_/2_October.md):) "<a class="external text" href="http://www.nature.com/nature/journal/v425/n6957/full/425455a.html" rel="noreferrer noopener" target="_blank">Triển lãm: Một chương trình về sự hình thành hobbit</a>"<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+- [2004](../_/2004.md): <i><a class="external text" href="http://www.nature.com" rel="noreferrer noopener" target="_blank">Nature</a></i>
+    - ([ngày 8 tháng 11](../_/8_November.md):) "<a class="external text" href="http://www.nature.com/news/2004/041108/full/news041108-4.html" rel="noreferrer noopener" target="_blank">Từ bỏ thói quen hobbit</a>"<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+- [2007](../_/2007.md): <i><a class="external text" href="http://www.nature.com" rel="noreferrer noopener" target="_blank">Nature</a></i>
+    - ([ngày 26 tháng 4](../_/26_April.md):) "<a class="external text" href="http://www.nature.com/nature/journal/v446/n7139/full/446979a.html" rel="noreferrer noopener" target="_blank">Trong một cái hố dưới mặt đất</a>"<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 - [2008](../_/2008.md): [*Mallorn* 45](../M/Mallorn_45.md)
-    - "Beowulf, Câu chuyện có thật" (đánh giá về phim <a class="extiw" href="http://en.wikipedia.org/wiki/Beowulf_(2007_film)" title="wikipedia:Beowulf (2007 film)"><i>Beowulf</i></a>)
+    - "Beowulf, câu chuyện có thật" (bài phê bình phim <a class="extiw" href="http://en.wikipedia.org/wiki/Beowulf_(2007_film)" title="wikipedia:Beowulf (2007 film)"><i>Beowulf</i></a>)
 - [2009](../_/2009.md): [*Mallorn* 47](../M/Mallorn_47.md)
-    - "Bài ca ngợi vẫn tiếp tục" (biên tập)
-    - "Đi cùng nàng tiên" (đánh giá về *[Tolkien, Race and Cultural History](../T/Tolkien,_Race_and_Cultural_History.md)*)
+    - "Khúc ca vẫn ngân vang mãi" (bài xã luận)
+    - "Hãy xua đuổi các nàng tiên" (bài phê bình *[Tolkien, Race and Cultural History](../T/Tolkien,_Race_and_Cultural_History.md)*)
 - [2009](../_/2009.md): [*Mallorn* 48](../M/Mallorn_48.md)
-    - "Một năm học tập" (đánh giá *[Tolkien Studies: Volume 6](../T/Tolkien_Studies%253A_Volume_6.md)*)
+    - "Một năm nghiên cứu" (bài phê bình *[Tolkien Studies: Volume 6](../T/Tolkien_Studies%253A_Volume_6.md)*)
 - [2010](../_/2010.md): [*Mallorn* 49](../M/Mallorn_49.md)
-    - "Sâu trong rừng..." (đánh giá về *[Born of Hope](../B/Born_of_Hope.md)*)
+    - "Sâu trong rừng..." (bài phê bình *[Born of Hope](../B/Born_of_Hope.md)*)
 - [2011](../_/2011.md): [*Mallorn* 51](../M/Mallorn_51.md)
-    - "Ent và nguồn" (biên tập)
+    - "Ent và các nguồn tư liệu" (bài xã luận)
 - [2011](../_/2011.md): [*Mallorn* 52](../M/Mallorn_52.md)
-    - "Một chút phép thuật trong phim" (đánh giá về <i><a class="extiw" href="http://en.wikipedia.org/wiki/Harry_Potter_and_the_Deathly_Hallows_%E2%80%93_Part_2" title="wikipedia:Harry Potter and the Deathly Hallows – Part 2">Harry Potter và Bảo bối Tử thần Phần 2</a></i>)
-    - "Tolkien có hỗ trợ Chim hoàng yến không"
+    - "Một chút phép màu điện ảnh" (bài phê bình <i><a class="extiw" href="http://en.wikipedia.org/wiki/Harry_Potter_and_the_Deathly_Hallows_%E2%80%93_Part_2" title="wikipedia:Harry Potter and the Deathly Hallows – Part 2">Harry Potter and the Deathly Hallows Part 2</a></i>)
+    - "Tolkien có ủng hộ đội Canaries không?"
 - [2013](../_/2013.md): [*Mallorn* 54](../M/Mallorn_54.md)
-    - "Câu hỏi về quyền tác giả" (biên tập)
-    - "Hành trình đến rạp chiếu phim" (đánh giá về *[The Hobbit: An Unexpected Journey](../T/The_Hobbit%253A_An_Unexpected_Journey.md)*)
+    - "Những vấn đề về quyền tác giả" (bài xã luận)
+    - "Hành trình đến rạp chiếu phim" (bài phê bình *[The Hobbit: An Unexpected Journey](../T/The_Hobbit%253A_An_Unexpected_Journey.md)*)
 - [2013](../_/2013.md): *Discover Magazine*
     - "<a class="external text" href="http://discovermagazine.com/2013/dec/20-how-to-explain-your-dragon" rel="noreferrer noopener" target="_blank">Khoa học đằng sau những con rồng thần thoại</a>"
 
 ## Liên kết ngoài {#External_links}
 
 - <b><a class="external text" href="https://occamstypewriter.org/cromercrox/" rel="noreferrer noopener" target="_blank">Blog của ông</a></b>
-- <a class="extiw" href="http://en.wikipedia.org/wiki/Henry_Gee" title="wikipedia:Henry Gee">Henry Gee</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
-- <a class="external text" href="http://network.nature.com/people/henrygee/profile" rel="noreferrer noopener" target="_blank">Henry Gee</a> và <i><a class="external text" href="http://www.nature.com/" rel="noreferrer noopener" target="_blank">Thiên nhiên</a></i>
+- <a class="extiw" href="http://en.wikipedia.org/wiki/Henry_Gee" title="wikipedia:Henry Gee">Henry Gee</a> trên <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
+- <a class="external text" href="http://network.nature.com/people/henrygee/profile" rel="noreferrer noopener" target="_blank">Henry Gee</a> trên <i><a class="external text" href="http://www.nature.com/" rel="noreferrer noopener" target="_blank">Nature</a></i>
 - <a class="external text" href="http://us.macmillan.com/author/henrygee" rel="noreferrer noopener" target="_blank">Henry Gee</a> tại <a class="external text" href="http://us.macmillan.com/default.aspx" rel="noreferrer noopener" target="_blank">Macmillan Books</a>
 
 <span></span>
