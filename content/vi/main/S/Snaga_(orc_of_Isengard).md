@@ -79,7 +79,7 @@ Một [Orc](../O/Orcs.md), được gọi là **Snaga**, là một trinh sát d�
 		</li>
 </ul>
 
-<b><a href="../_/1978.md" title="1978">1978</a>: <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim 1978)</a>:</b>
+<b><a href="../_/1978.md" title="1978">1978</a>: <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim năm 1978)</a>:</b>
 
 <dl><dd><a href="../U/Uglúk.md" title="Uglúk">Uglúk</a> orders Snaga and <a href="../L/Lugdush.md" title="Lugdush">Lugdush</a> to stand guard over <a href="../M/Meriadoc_Brandybuck.md" title="Meriadoc Brandybuck">Merry</a> and <a href="../P/Peregrin_Took.md" title="Peregrin Took">Pippin</a>. He tells them not to kill the Hobbits unless the <a href="../W/Whiteskins.md" title="Whiteskins">Whiteskins</a> break through.</dd></dl>
 

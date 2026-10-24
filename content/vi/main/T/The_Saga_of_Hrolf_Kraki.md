@@ -53,7 +53,7 @@ Trong [2012](../_/2012.md), cuốn sách đã được tái bản bởi công ty
 ## Tranh chấp bản quyền {#Copyright_dispute}
 
 <blockquote class="tg-quote noexcerpt">
-<p>The copyright to the saga of Hrolf Kraki forms part of the estate of the late Rosalie Shannon, cousin of Stella Mills.  The reprinting by Douglas Anderson infringes U.S. Copyright and UK copyright and German and French copyright.  I have already contacted Douglas Anderson asking him to stop selling the book and I would ask that you take references to it down from your website.<br/>The introduction by Priscilla Tolkien is inaccurate and offensive to the family of the late Stella Mills and we are taking legal advice on this matter.
+<p>The copyright to the saga of Hrolf Kraki forms part of the estate of the late Rosalie Shannon, cousin of Stella Mills. The reprinting by Douglas Anderson infringes U.S. Copyright and UK copyright and German and French copyright. I have already contacted Douglas Anderson asking him to stop selling the book and I would ask that you take references to it down from your website.<br/>The introduction by Priscilla Tolkien is inaccurate and offensive to the family of the late Stella Mills and we are taking legal advice on this matter.
 </p>
 <p class="tg-quote-footer"><cite>Ellen Darrar-Shannon, in an e-mail to <a href="Tolkien_Gateway.md" title="Tolkien Gateway">Tolkien Gateway</a></cite></p>
 </blockquote>

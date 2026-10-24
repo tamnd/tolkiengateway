@@ -14,7 +14,7 @@ images:
   - "Disambig.png"
 ---
 
-**Isengrim** là tên được sinh ra bởi ba [Thains](../T/Thain.md) của [the Shire](../T/The_Shire.md), tất cả đều thuộc [Gia đình Took](../T/Took_Family.md):
+**Isengrim** là tên được sinh ra bởi ba [Thains](../T/Thain.md) của [Shire](../T/The_Shire.md), tất cả đều thuộc [Gia đình Took](../T/Took_Family.md):
 
 - [Isengrim Took I](Isengrim_Took_I.md), một trong tám người Thái vô danh của dòng Took, người trị vì vào khoảng giữa [S.R.](../S/Shire_Reckoning.md) [740](../T/Third_Age_2340.md) và [S.R.](../S/Shire_Reckoning.md) [1083](../T/Third_Age_2683.md).
 - [Isengrim Took II](Isengrim_Took_II.md) ([S.R.](../S/Shire_Reckoning.md) [1020](../T/Third_Age_2620.md) - [S.R.](../S/Shire_Reckoning.md) [1122](../T/Third_Age_2722.md)), Thain thứ 22 của [người Shire](../T/The_Shire.md), người bắt đầu cuộc khai quật [Great Smials](../G/Great_Smials.md).

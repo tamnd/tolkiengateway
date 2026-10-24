@@ -69,7 +69,7 @@ Khi [Aegnor](../A/Aegnor.md) nhìn thấy hình ảnh phản chiếu của [Andr
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Theo văn bản trong "[Khiếu nại của Mîm người Người lùn](The_Complaint_of_Mîm_the_Dwarf.md)", [Mîm](../M/Mîm.md), người cuối cùng trong số [Người lùn Nhỏ](../P/Petty-dwarves.md), đã thực hiện tác phẩm nghệ thuật đầu tiên của mình tại Tarn Aeluin khi còn trẻ.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Theo văn bản trong "[Khiếu nại của Mîm người Người Lùn](The_Complaint_of_Mîm_the_Dwarf.md)", [Mîm](../M/Mîm.md), người cuối cùng trong số [Người Lùn Nhỏ](../P/Petty-dwarves.md), đã thực hiện tác phẩm nghệ thuật đầu tiên của mình tại Tarn Aeluin khi còn trẻ.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 <span></span>
 

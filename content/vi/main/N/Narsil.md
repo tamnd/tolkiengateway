@@ -64,7 +64,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Thanh kiếm được rèn "trong thời gian sâu thẳm", có lẽ là trong [Kỷ Đệ Nhất](../F/First_Age.md), bởi [Telchar](../T/Telchar.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>, người có thể là Người lùn-thợ rèn nổi tiếng của [Nogrod](Nogrod.md) cùng tên, người đã chế tạo kiếm cho kho vũ khí của Vua [Thingol](../T/Thingol.md) ở [Menegroth](../M/Menegroth.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Thanh kiếm được rèn "trong thời gian sâu thẳm", có lẽ là trong [Kỷ Đệ Nhất](../F/First_Age.md), bởi [Telchar](../T/Telchar.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>, người có thể là Người Lùn-thợ rèn nổi tiếng của [Nogrod](Nogrod.md) cùng tên, người đã chế tạo kiếm cho kho vũ khí của Vua [Thingol](../T/Thingol.md) ở [Menegroth](../M/Menegroth.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 Không có thông tin gì về Narsil trong thời gian [Kỷ Đệ Nhị](../S/Second_Age.md) cho đến khi nó cuối cùng rơi vào tay [Elendil](../E/Elendil.md) vào lúc kết thúc Kỷ Đệ Nhị.
 

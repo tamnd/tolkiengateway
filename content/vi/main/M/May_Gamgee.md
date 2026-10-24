@@ -53,7 +53,7 @@ May là con gái thứ hai và là con thứ tư của [Hamfast Gamgee](../G/Gaf
 
 ## Từ nguyên {#Etymology}
 
-<i><a class="external text" href="http://en.wiktionary.org/wiki/may#Etymology_2" rel="noreferrer noopener" target="_blank">Tháng 5</a></i> có thể ám chỉ hoa táo gai nở rộ, gọi như vậy vì chúng nở vào tháng Năm. Đó là <a class="mw-disambig" href="May_(disambiguation).md" title="May (disambiguation)">tên một cô gái phổ biến</a> ở [the Shire](../T/The_Shire.md).
+<i><a class="external text" href="http://en.wiktionary.org/wiki/may#Etymology_2" rel="noreferrer noopener" target="_blank">Tháng 5</a></i> có thể ám chỉ hoa táo gai nở rộ, gọi như vậy vì chúng nở vào tháng Năm. Đó là <a class="mw-disambig" href="May_(disambiguation).md" title="May (disambiguation)">tên một cô gái phổ biến</a> ở [Shire](../T/The_Shire.md).
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 

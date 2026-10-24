@@ -46,7 +46,7 @@ Vào cuối [2019](../_/2019.md), Cubicle 7 đã thông báo chấm dứt thỏa
 <li>Instructions for how to create your character and forge your own fellowship</li>
 <li>11 unique Cultures and 6 different Callings to choose from</li>
 <li>A bestiary of enemies to face, from creeping Giant Spiders and hungry Wargs, to vicious Orcs and terrifying Stone-trolls</li>
-<li>Advice for telling stories that evoke the spirit and feeling of the  The Hobbit™ and The Lord of the Rings™</li>
+<li>Advice for telling stories that evoke the spirit and feeling of the The Hobbit™ and The Lord of the Rings™</li>
 <li>A complete Tale of Years spanning from the death of Smaug up to the year 2965 of the Third Age<sup id="cite_ref-cover_1-1" class="reference"><a href="#cite_note-cover-1">[1]</a></sup></li></ul>
 </blockquote>
 

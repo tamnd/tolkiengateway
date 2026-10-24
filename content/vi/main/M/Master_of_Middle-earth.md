@@ -39,7 +39,7 @@ infobox:
 
 Như trường hợp của tất cả các tác phẩm nghệ thuật vĩ đại, những kiệt tác của J. R. R. Tolkien luôn đáp lại sự quan tâm và nghiên cứu kỹ lưỡng. Trong cuốn sách mang tính giải trí và cảm thụ sâu sắc này, người đoạt Giải thưởng Học bổng của Hiệp hội Thần thoại danh giá, Giáo sư Kocher xem xét các nguồn mà Tolkien dựa vào để tạo nên Trung Địa và những cư dân của nó—và cung cấp những hiểu biết sâu sắc có giá trị về mục đích và phương pháp của tác giả. Từ The Hobbit đến The Lord of the Rings đến The Silmarillion và hơn thế nữa, Master of Trung Địa mở ra cơ hội đánh giá sâu sắc hơn và phong phú hơn về thành tích tuyệt vời của Tolkien. Bên trong bạn sẽ khám phá
 
-- Tại sao Aragorn là ký tự bị hiểu lầm nhiều nhất trong The Lord of the Rings . . . và anh hùng thực sự của nó.
+- Tại sao Aragorn là ký tự bị hiểu lầm nhiều nhất trong The Lord of the Rings. . . và anh hùng thực sự của nó.
 - Nguồn gốc của Sauron—và bản chất của cái ác trong vũ trụ của Tolkien.
 - Các thế lực đối lập giữa số phận và ý chí tự do trong nhiệm vụ của Frodo.
 - Vũ trụ học của Trung Địa—đó là thế giới của chúng ta ở thời điểm sớm hơn hay nó tồn tại ở một Nơi khác tuyệt vời?

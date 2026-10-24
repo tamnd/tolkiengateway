@@ -70,7 +70,7 @@ Games Workshop chưa giành được quyền đối với *[The Silmarillion](..
 
 ### Sách và tạp chí {#Books_and_magazines}
 
-<small><i>Xem thêm <a href="../W/White_Dwarf.md" title="White Dwarf">Trắng Người lùn</a></i></small>
+<small><i>Xem thêm <a href="../W/White_Dwarf.md" title="White Dwarf">Trắng Người Lùn</a></i></small>
 
 - [2001](../_/2001.md): *[The Fellowship of the Ring](../T/The_Lord_of_the_Rings_Strategy_Battle_Game%253A_The_Fellowship_of_the_Ring.md)* (sách nội quy)
 - [2002](../_/2002.md): *[The Fellowship of the Ring: The Best of White Dwarf Magazine](../T/The_Fellowship_of_the_Ring%253A_The_Best_of_White_Dwarf_Magazine.md)*

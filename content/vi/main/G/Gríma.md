@@ -163,7 +163,7 @@ Khi mới được hình thành ý tưởng, nhân vật này được giới th
 
 <b>1981: <a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>The Lord of the Rings</i> (1981 radio series)</a>:</b>
 
-<dl><dd><a href="../P/Paul_Brooke.md" title="Paul Brooke">Paul Brooke</a> played Gríma.  He is introduced much earlier than in the book in excerpts from <a href="../T/The_Hunt_for_the_Ring.md" title="The Hunt for the Ring">The Hunt for the Ring</a> when he is questioned by the Nazgûl on his way to Isengard. His death at Bag End is also included in the final episode.</dd></dl>
+<dl><dd><a href="../P/Paul_Brooke.md" title="Paul Brooke">Paul Brooke</a> played Gríma. He is introduced much earlier than in the book in excerpts from <a href="../T/The_Hunt_for_the_Ring.md" title="The Hunt for the Ring">The Hunt for the Ring</a> when he is questioned by the Nazgûl on his way to Isengard. His death at Bag End is also included in the final episode.</dd></dl>
 
 <b>1992: <a href="../D/Der_Herr_der_Ringe_(1992_German_radio_series).md" title="Der Herr der Ringe (1992 German radio series)"><i>Der Herr der Ringe</i> (loạt chương trình phát thanh tiếng Đức năm 1992)</a>:</b>
 

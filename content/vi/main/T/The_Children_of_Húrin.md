@@ -114,7 +114,7 @@ Câu chuyện là một trong ba "[câu chuyện hay](../A/Atanatarion.md)" lấ
 4. "[Sự khởi hành của Túrin](The_Departure_of_Túrin.md)"
 5. "[Túrin trong Doriath](Túrin_in_Doriath.md)"
 6. "[Túrin trong số những kẻ ngoài vòng pháp luật](Túrin_among_the_Outlaws.md)"
-7. "[Của Mîm Người lùn](../O/Of_Mîm_the_Dwarf.md)"
+7. "[Của Mîm Người Lùn](../O/Of_Mîm_the_Dwarf.md)"
 8. "[Vùng đất cung và Helm](The_Land_of_Bow_and_Helm.md)"
 9. "[Cái chết của Beleg](The_Death_of_Beleg.md)"
 10. "[Túrin trong Nargothrond](Túrin_in_Nargothrond.md)"

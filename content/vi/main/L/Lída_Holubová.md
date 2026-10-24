@@ -27,7 +27,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Lída Aegeri Holubová</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Images</th><td class="tg-infobox-data"><a href="../../category/I/Images_by_Lída_Holubová.md" title="Category:Images by Lída Holubová">Gallery</a></td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">Czech Republic</td></tr></tbody></table>
 
-**Lída Holubová** còn được biết đến với biệt danh **Aegeri** hay **Gnóme the Artist** là một nghệ sĩ người Séc và là thành viên tích cực của cộng đồng Tolkien.
+**Lída Holubová** còn được biết đến với biệt danh **Aegeri** hay **Gnóme Artist** là một nghệ sĩ người Séc và là thành viên tích cực của cộng đồng Tolkien.
 
 Cô sống ở Praha và có mối liên hệ sâu sắc với thế giới của Tolkien. Cô khám phá ra Trung Địa qua những cuốn sách từ thư viện địa phương khi còn nhỏ và bị thu hút bởi chiều sâu và sự trau chuốt trong tác phẩm của Tolkien. Cô là một nghệ sĩ tự học và chịu ảnh hưởng của các họa sĩ minh họa nổi tiếng như [John Howe](../J/John_Howe.md) và [Alan Lee](../A/Alan_Lee.md). Cô cộng tác và tìm thấy nguồn cảm hứng chung với các nghệ sĩ Tolkien người Séc khác, đặc biệt là [Matěj Čadil](../M/Matěj_Čadil.md) và [Šárka Škorpíková](../_/Šárka_Škorpíková.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 

@@ -39,7 +39,7 @@ infobox:
 - Pamina Camacho: "Những biến động mang tính chu kỳ, khuôn mẫu Do Thái và cải cách tôn giáo: Númenor của người theo chủ nghĩa cổ điển" (trang 13–24)
 - Frank Wasmus: "Khảo sát giữa các ngôi mộ: Nghi thức chôn cất ở Trung địa" (trang 25–34)
 - [Renée Vink](../R/Renée_Vink.md): "Nguồn gốc của Gil-galad: Lịch sử văn bản" (trang 35–44)
-- Sjoerd van der Weide: "Cuộc chiến vĩ đại: Sauron chống lại Yêu tinh ở Thời đại thứ hai" (trang 45–9)
+- Sjoerd van der Weide: "Cuộc chiến vĩ đại: Sauron chống lại Yêu tinh ở Kỷ Đệ Nhị" (trang 45–9)
 - Arti Ponsen: "Lửa Orthanc: Thuốc súng ở Trung địa" (trang 50–64)
 - Thijs Porck: "<a class="external text" href="https://hcommons.org/deposits/item/hc:21473" rel="noreferrer noopener" target="_blank">Xương trong súp: Hương vị Anglo-Saxon trong <i>Người Hobbit</i></a>" (trang 65–74)
 - Tyellas: "Lịch sử phi tự nhiên của tộc Orc ở Tolkien" (trang 75–85)

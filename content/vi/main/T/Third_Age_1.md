@@ -20,7 +20,7 @@ sort_keys:
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- [Thời đại thứ ba](Third_Age.md) bắt đầu<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> sau thất bại của [Sauron](../S/Sauron.md) trong [Cuộc chiến của liên minh cuối cùng](../W/War_of_the_Last_Alliance.md) và việc [Isildur](../I/Isildur.md) chiếm được [Chiếc nhẫn duy nhất](../O/One_Ring.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- [Kỷ Đệ Tam](Third_Age.md) bắt đầu<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> sau thất bại của [Sauron](../S/Sauron.md) trong [Cuộc chiến của liên minh cuối cùng](../W/War_of_the_Last_Alliance.md) và việc [Isildur](../I/Isildur.md) chiếm được [Chiếc nhẫn duy nhất](../O/One_Ring.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

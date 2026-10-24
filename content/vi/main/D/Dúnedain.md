@@ -74,7 +74,7 @@ infobox:
 <p class="tg-quote-footer"><cite><a href="../G/Galadriel&#39;s_messages.md" title="Galadriel&#39;s messages">Galadriel&#39;s messages</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Dúnedain** ([S](../S/Sindarin.md): "Người phương Tây"), số ít là **Dúnadan**, là [Người Númenor](../M/Men_of_Númenor.md) và hậu duệ của họ, những người đã cư trú tại [Vùng đất phía Tây](../W/Westlands.md) của [Trung Địa](../M/Middle-earth.md) trong [Kỷ thứ Hai](../S/Second_Age.md) và [Kỷ thứ Ba](../T/Third_Age.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[chú thích 1]</a></sup>
+**Dúnedain** ([S](../S/Sindarin.md): "Người phương Tây"), số ít là **Dúnadan**, là [Người Númenor](../M/Men_of_Númenor.md) và hậu duệ của họ, những người đã cư trú tại [Vùng đất phía Tây](../W/Westlands.md) của [Trung Địa](../M/Middle-earth.md) trong [Kỷ Đệ Nhị](../S/Second_Age.md) và [Kỷ Đệ Tam](../T/Third_Age.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[chú thích 1]</a></sup>
 
 Mặc dù ngay từ đầu, số lượng của họ đã ít hơn rất nhiều so với [những người thuộc các chủng tộc thấp kém hơn](../M/Middle_Men.md), Dúnedain là những bậc quân chủ có tuổi thọ lâu dài, sức mạnh phi thường và trí tuệ uyên thâm; họ vượt trội hơn hẳn so với [Người Trung Địa](../M/Middle_Men.md), những người mà họ chung sống và cai trị.<sup id="cite_ref-languages_3-0" class="reference"><a href="#cite_note-languages-3">[2]</a></sup>
 
@@ -188,7 +188,7 @@ Tên gọi trong [Westron](../W/Westron.md) của *Dúnadan* đơn giản là **
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> sử dụng các thuật ngữ <i>Númenoreans</i> và <i>Dúnedain</i> thay thế cho nhau; để làm rõ, <a href="../T/Tolkien_Gateway.md" title="Tolkien Gateway">Tolkien Gateway</a> hiểu thuật ngữ <b>Númenor</b>eans theo nghĩa đen, chỉ những người Dúnedain thực sự sinh sống <i>trên</i> Númenor trong Kỷ thứ Hai, trong khi bài viết này đề cập đến chủng tộc Dúnedain nói chung (ở Middle-earth và trong Kỷ thứ Ba).</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> sử dụng các thuật ngữ <i>Númenoreans</i> và <i>Dúnedain</i> thay thế cho nhau; để làm rõ, <a href="../T/Tolkien_Gateway.md" title="Tolkien Gateway">Tolkien Gateway</a> hiểu thuật ngữ <b>Númenor</b>eans theo nghĩa đen, chỉ những người Dúnedain thực sự sinh sống <i>trên</i> Númenor trong Kỷ Đệ Nhị, trong khi bài viết này đề cập đến chủng tộc Dúnedain nói chung (ở Middle-earth và trong Kỷ Đệ Tam).</span>
 </li>
 </ol></div></span>
 

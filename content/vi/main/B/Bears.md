@@ -27,7 +27,7 @@ infobox:
 ---
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>I should say there were little  bears, large bears, ordinary bears, and gigantic big bears, all dancing outside from dark to nearly dawn.
+<p>I should say there were little bears, large bears, ordinary bears, and gigantic big bears, all dancing outside from dark to nearly dawn.
 </p>
 <p class="tg-quote-footer"><cite><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> in <i><a href="../T/The_Hobbit.md" title="The Hobbit">The Hobbit</a></i>, &#34;<a href="../Q/Queer_Lodgings.md" title="Queer Lodgings">Queer Lodgings</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

@@ -38,8 +38,8 @@ images:
 
 ### Phim {#Films}
 
-- [*The Hobbit* (phim 1967)](<The_Hobbit_(1967_film).md>), bản chuyển thể dài 12 phút của [Gene Deitch](../G/Gene_Deitch.md).
-- [*The Hobbit* (phim 1977)](<The_Hobbit_(1977_film).md>), bộ phim hoạt hình chuyển thể [1977](../_/1977.md) của [Rankin/Bass](../R/Rankin%252FBass.md).
+- [*The Hobbit* (phim năm 1967)](<The_Hobbit_(1967_film).md>), bản chuyển thể dài 12 phút của [Gene Deitch](../G/Gene_Deitch.md).
+- [*The Hobbit* (phim năm 1977)](<The_Hobbit_(1977_film).md>), bộ phim hoạt hình chuyển thể [1977](../_/1977.md) của [Rankin/Bass](../R/Rankin%252FBass.md).
 - [*The Hobbit* (phim truyền hình Nga)](<The_Hobbit_(1985_television_film).md>), [1985](../_/1985.md) phim truyền hình Nga.
 - <b><a href="The_Hobbit_(film_series).md" title="The Hobbit (film series)"><i>The Hobbit</i> (loạt phim)</a>, loạt phim dựa trên sách, do <a href="../P/Peter_Jackson.md" title="Peter Jackson">Peter Jackson</a>đạo diễn:</b>
     - *[The Hobbit: An Unexpected Journey](The_Hobbit%253A_An_Unexpected_Journey.md)*, phim [2012](../_/2012.md).

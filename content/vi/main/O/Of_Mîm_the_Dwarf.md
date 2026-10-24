@@ -47,13 +47,13 @@ images:
 <li><a href="../T/The_Death_of_Túrin.md" title="The Death of Túrin">The Death of Túrin</a></li></ol>
 </td></tr></tbody></table>
 
-**Trong số Mîm Người lùn** là chương thứ bảy của *[The Children of Húrin](../T/The_Children_of_Húrin.md)*.
+**Trong số Mîm Người Lùn** là chương thứ bảy của *[The Children of Húrin](../T/The_Children_of_Húrin.md)*.
 
 ## Tóm tắt {#Synopsis}
 
 Khi [Beleg](../B/Beleg.md) rời khỏi trại của kẻ ngoài vòng pháp luật, mọi thứ trở nên tồi tệ với [Gaurwaith](../G/Gaurwaith.md), vì mưa trái mùa và [lũ orc](Orcs.md) đột kích ngày càng xa hơn về phía nam. [Túrin](../T/Túrin.md) quyết định xây dựng một thành trì để người của ông có thể vượt qua bão tố và dự trữ chống lại nạn đói – vì vậy họ đã hành trình xa hơn về phía nam qua [Thung lũng Sirion](../S/Sirion.md).
 
-Ở đó, họ bắt được [Mîm](../M/Mîm.md), một trong số ít [Nibin-Nogrim](../N/Nibin-Nogrim.md) (hoặc [Người lùn Nhỏ](../P/Petty-dwarves.md)), và ông ta cầu xin sự thương xót dưới chân Túrin; nhưng khi những kẻ ngoài vòng pháp luật khác định giết ông ta, Túrin đã thả Mîm để lấy tiền chuộc. Để trả giá cho mạng sống của ông, Mîm đã cấp cho họ lối đi đến nhà ông, nơi họ có thể ở chung các sảnh của ông và do đó cũng cấp cho Gaurwaith nơi trú ẩn của họ. Nhưng khi bóng tối bao trùm, những kẻ ngoài vòng pháp luật không muốn theo dõi Mîm vì sợ anh trốn thoát nên chúng trói anh lại để chờ sáng, và Mîm thực hiện việc này một cách đen tối.
+Ở đó, họ bắt được [Mîm](../M/Mîm.md), một trong số ít [Nibin-Nogrim](../N/Nibin-Nogrim.md) (hoặc [Người Lùn Nhỏ](../P/Petty-dwarves.md)), và ông ta cầu xin sự thương xót dưới chân Túrin; nhưng khi những kẻ ngoài vòng pháp luật khác định giết ông ta, Túrin đã thả Mîm để lấy tiền chuộc. Để trả giá cho mạng sống của ông, Mîm đã cấp cho họ lối đi đến nhà ông, nơi họ có thể ở chung các sảnh của ông và do đó cũng cấp cho Gaurwaith nơi trú ẩn của họ. Nhưng khi bóng tối bao trùm, những kẻ ngoài vòng pháp luật không muốn theo dõi Mîm vì sợ anh trốn thoát nên chúng trói anh lại để chờ sáng, và Mîm thực hiện việc này một cách đen tối.
 
 <figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Alan_Lee_-_The_Petty-dwarves.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/a/ae/Alan_Lee_-_The_Petty-dwarves.jpg/300px-Alan_Lee_-_The_Petty-dwarves.jpg" decoding="async" loading="lazy" width="300" height="240" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/ae/Alan_Lee_-_The_Petty-dwarves.jpg/450px-Alan_Lee_-_The_Petty-dwarves.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/a/ae/Alan_Lee_-_The_Petty-dwarves.jpg/600px-Alan_Lee_-_The_Petty-dwarves.jpg 2x" data-file-width="1280" data-file-height="1024"/></a><figcaption><i>The Petty-dwarves</i> by <a href="../A/Alan_Lee.md" title="Alan Lee">Alan Lee</a></figcaption></figure>
 

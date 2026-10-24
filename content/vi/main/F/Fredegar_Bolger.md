@@ -56,7 +56,7 @@ infobox:
 <p class="tg-quote-footer"><cite><a href="../P/Peregrin_Took.md" title="Peregrin Took">Peregrin Took</a><sup id="cite_ref-Havens_1-0" class="reference"><a href="#cite_note-Havens-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div></center>
 
-**Fredegar "Fatty" Bolger** là một người Hobbit ở [the Shire](../T/The_Shire.md). Ông là một trong những người bạn thân thiết của [Frodo](Frodo_Baggins.md), biết rằng Frodo sở hữu [Ring](../T/The_One_Ring.md) và đã giúp đỡ cậu trong sứ mệnh rời khỏi Shire.
+**Fredegar "Fatty" Bolger** là một người Hobbit ở [Shire](../T/The_Shire.md). Ông là một trong những người bạn thân thiết của [Frodo](Frodo_Baggins.md), biết rằng Frodo sở hữu [Ring](../T/The_One_Ring.md) và đã giúp đỡ cậu trong sứ mệnh rời khỏi Shire.
 
 ## Lịch sử {#History}
 
@@ -76,11 +76,11 @@ Sau khi nghe tin Frodo đang bị [Các Kỵ Sĩ Đen](../N/Nazgûl.md) truy đu
 
 <figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/C/Christina_Wald_-_Fatty_Bolger.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/d2/Christina_Wald_-_Fatty_Bolger.jpg/300px-Christina_Wald_-_Fatty_Bolger.jpg" decoding="async" loading="lazy" width="300" height="250" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/d2/Christina_Wald_-_Fatty_Bolger.jpg/450px-Christina_Wald_-_Fatty_Bolger.jpg 1.5x, https://tolkiengateway.net/w/images/d/d2/Christina_Wald_-_Fatty_Bolger.jpg 2x" data-file-width="567" data-file-height="473"/></a><figcaption>Christina Wald - <i>Fatty Bolger</i></figcaption></figure>
 
-Các Nazgûl cuối cùng cũng đến Crickhollow vào đêm [30 September](../_/30_September.md) để tìm Frodo và [the Ring](../T/The_One_Ring.md). Nhưng Fatty, dù sợ hãi đến gần như mất trí, vẫn trốn thoát được để báo động cho [Buckland](../B/Buckland.md), khiến các [Brandybucks](../B/Brandybucks.md) thổi [Horn-call of Buckland](../H/Horn-call_of_Buckland.md). Điều này khiến các Nazgûl phải bỏ chạy, nhưng chúng đã biết rằng chiếc Nhẫn không còn ở đó nữa.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Các Nazgûl cuối cùng cũng đến Crickhollow vào đêm [30 September](../_/30_September.md) để tìm Frodo và [Ring](../T/The_One_Ring.md). Nhưng Fatty, dù sợ hãi đến gần như mất trí, vẫn trốn thoát được để báo động cho [Buckland](../B/Buckland.md), khiến các [Brandybucks](../B/Brandybucks.md) thổi [Horn-call of Buckland](../H/Horn-call_of_Buckland.md). Điều này khiến các Nazgûl phải bỏ chạy, nhưng chúng đã biết rằng chiếc Nhẫn không còn ở đó nữa.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ### Kháng chiến {#Resistance}
 
-Trong thời kỳ [Saruman](../S/Saruman.md) cai trị [the Shire](../T/The_Shire.md), Fatty lãnh đạo một nhóm du kích chiến đấu chống lại các [Ruffians](../R/Ruffians.md) tại vùng [Brockenbores](../B/Brockenbores.md), quanh những ngọn đồi ở [Scary](../S/Scary.md), trước khi cuối cùng bị bắt. Ông bị giam trong [Lockholes](../L/Lockholes.md) và bỏ đói (đến mức không còn có thể được gọi là "Fatty" nữa), nhưng được giải cứu sau chiến thắng trong [Battle of Bywater](../B/Battle_of_Bywater.md).<sup id="cite_ref-Havens_1-1" class="reference"><a href="#cite_note-Havens-1">[1]</a></sup>
+Trong thời kỳ [Saruman](../S/Saruman.md) cai trị [Shire](../T/The_Shire.md), Fatty lãnh đạo một nhóm du kích chiến đấu chống lại các [Ruffians](../R/Ruffians.md) tại vùng [Brockenbores](../B/Brockenbores.md), quanh những ngọn đồi ở [Scary](../S/Scary.md), trước khi cuối cùng bị bắt. Ông bị giam trong [Lockholes](../L/Lockholes.md) và bỏ đói (đến mức không còn có thể được gọi là "Fatty" nữa), nhưng được giải cứu sau chiến thắng trong [Battle of Bywater](../B/Battle_of_Bywater.md).<sup id="cite_ref-Havens_1-1" class="reference"><a href="#cite_note-Havens-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

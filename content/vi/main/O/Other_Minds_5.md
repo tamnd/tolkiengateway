@@ -44,10 +44,10 @@ Tác động của - "Tolkien tới Beowulf"
     - Bởi Chris Seeman, David Salo
 - "Thu nhỏ Mithril và MERP"
     - Bởi Chris Seeman
-- "Sửa đổi 'Lược sử về các dinh thự Người lùn'"
+- "Sửa đổi 'Lược sử về các dinh thự Người Lùn'"
 - "Bản in đẹp và tuyên bố miễn trừ trách nhiệm"
 - "Giấy phép Creative Commons"
-- "Phụ lục: Bản đồ sửa đổi 'Lược sử các dinh thự Người lùn'"
+- "Phụ lục: Bản đồ sửa đổi 'Lược sử các dinh thự Người Lùn'"
 
 - **Tác phẩm nghệ thuật / Bản đồ:**
     - Bởi: Hawke Robinson

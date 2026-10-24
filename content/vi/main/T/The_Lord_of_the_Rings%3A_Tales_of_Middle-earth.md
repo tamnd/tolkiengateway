@@ -56,7 +56,7 @@ Tales of Trung Địa được công bố lần đầu vào ngày 21 tháng 2 n�
 Ngoài các kiểu in và kiểu thẻ quảng cáo thông thường, bộ này còn có một loạt phiên bản đặc biệt rất hiếm của thẻ "Sol Ring"<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>, một thẻ phổ biến và được sử dụng phổ biến ở dạng Chỉ huy nhiều người chơi. Đối với bộ này, Sol Ring đã được in lại với hình ảnh mới, đại diện cho [Những Chiếc Nhẫn Quyền Năng](../R/Rings_of_Power.md), hoàn chỉnh với việc cách điệu hóa tất cả văn bản bằng phông chữ [Tengwar](Tengwar.md). Ba phiên bản giới hạn khác nhau của chiếc Nhẫn Sol đặc biệt này đã được in theo cách này, với các con số được in để biểu thị số lượng Nhẫn tương ứng được phân bổ cho các chủng tộc khác nhau: <sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>:
 
 - 3.000 tờ giấy bạc thông thường và 300 tờ giấy in nhiều kỳ với hình vẽ có hình chiếc nhẫn Tiên (tượng trưng cho [Ba Chiếc Nhẫn](Three_Rings.md))
-- 7.000 tờ giấy bạc thông thường và 700 tờ giấy in nhiều kỳ với hình vẽ có hình chiếc nhẫn Người lùn (đại diện cho [Bảy Chiếc Nhẫn](../S/Seven_Rings.md))
+- 7.000 tờ giấy bạc thông thường và 700 tờ giấy in nhiều kỳ với hình vẽ có hình chiếc nhẫn Người Lùn (đại diện cho [Bảy Chiếc Nhẫn](../S/Seven_Rings.md))
 - 9.000 tờ giấy thông thường và 900 tờ giấy in nhiều kỳ với tác phẩm nghệ thuật có hình một chiếc nhẫn Con Người (đại diện cho [Chín chiếc nhẫn](../N/Nine_Rings.md))
 
 ### Cuộc săn lùng chiếc nhẫn duy nhất {#The_Hunt_for_the_One_Ring}

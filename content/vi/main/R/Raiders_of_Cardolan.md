@@ -47,4 +47,4 @@ Cướp biển từ phía nam đi thuyền từ một bến cảng ẩn giấu t
 
 Tàn tích của chủng tộc người lùn nhỏ mọn cổ xưa ám ảnh Rừng Đen. Sự tham gia của họ vào các âm mưu đen tối có thể lôi kéo toàn bộ khu vực. Bạn có sẵn sàng dấn thân vào Meur Tol không?
 
-Đối mặt với sự nguy hiểm của Beffraen, Người lùn Nhỏ và Undead khi bạn tìm kiếm Raiders của Cardolan trong 3 cuộc phiêu lưu thú vị này!
+Đối mặt với sự nguy hiểm của Beffraen, Người Lùn Nhỏ và Undead khi bạn tìm kiếm Raiders của Cardolan trong 3 cuộc phiêu lưu thú vị này!

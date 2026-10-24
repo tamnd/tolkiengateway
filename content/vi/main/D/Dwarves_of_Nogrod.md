@@ -38,7 +38,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/H/Henning_Janssen_-_Nauglamir_and_the_Doom_of_Thingol.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b8/Henning_Janssen_-_Nauglamir_and_the_Doom_of_Thingol.jpg/320px-Henning_Janssen_-_Nauglamir_and_the_Doom_of_Thingol.jpg" decoding="async" loading="lazy" width="320" height="455" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b8/Henning_Janssen_-_Nauglamir_and_the_Doom_of_Thingol.jpg/480px-Henning_Janssen_-_Nauglamir_and_the_Doom_of_Thingol.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/b/b8/Henning_Janssen_-_Nauglamir_and_the_Doom_of_Thingol.jpg/640px-Henning_Janssen_-_Nauglamir_and_the_Doom_of_Thingol.jpg 2x" data-file-width="837" data-file-height="1189"/></a><figcaption>&#34;<a href="../../file/H/Henning_Janssen_-_Nauglamir_and_the_Doom_of_Thingol.jpg.md" title="File:Henning Janssen - Nauglamir and the Doom of Thingol.jpg">Nauglamir and the Doom of Thingol.jpg</a>&#34; by <a href="../H/Henning_Janssen.md" title="Henning Janssen">Henning Janssen</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">People</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Dwarves of Nogrod</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>General Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Locations</th><td class="tg-infobox-data"><a href="../N/Nogrod.md" title="Nogrod">Nogrod</a>, <a href="../B/Blue_Mountains.md" title="Blue Mountains">Blue Mountains</a>, <a class="mw-redirect" href="../K/Khazad-Dûm~69981.md" title="Khazad-Dûm">Khazad-Dûm</a><sup id="cite_ref-Durin_1-0" class="reference"><a href="#cite_note-Durin-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Languages</th><td class="tg-infobox-data"><a href="../K/Khuzdul.md" title="Khuzdul">Khuzdul</a>, <a href="../S/Sindarin.md" title="Sindarin">Sindarin</a></td></tr><tr><th scope="row" class="tg-infobox-label">Members</th><td class="tg-infobox-data"><a href="../G/Gamil_Zirak.md" title="Gamil Zirak">Gamil Zirak</a>, <a href="../T/Telchar.md" title="Telchar">Telchar</a>, <a href="../N/Naugladur.md" title="Naugladur">Naugladur</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Lifespan</th><td class="tg-infobox-data">c. 250 years</td></tr><tr><th scope="row" class="tg-infobox-label">Distinctions</th><td class="tg-infobox-data">Greatest craftsmen in <a href="../M/Middle-earth.md" title="Middle-earth">Middle-earth</a></td></tr><tr><th scope="row" class="tg-infobox-label">Average Height</th><td class="tg-infobox-data">Five feet or less</td></tr></tbody></table>
 
-**Người lùn Nogrod** là tộc người [Dwarven](Dwarves.md) sinh sống tại [Nogrod](../N/Nogrod.md), một trong hai thành phố của người lùn ở [Dãy Núi Xanh](../B/Blue_Mountains.md) trong [Kỷ Đệ Nhất](../F/First_Age.md). Cùng với những [bà con thân cận](Dwarves_of_Belegost.md) tại [Belegost](../B/Belegost.md), họ thuộc nhóm [Người lùn ở Dãy Núi Xanh](Dwarves_of_the_Blue_Mountains.md).
+**Người Lùn Nogrod** là tộc người [Dwarven](Dwarves.md) sinh sống tại [Nogrod](../N/Nogrod.md), một trong hai thành phố của người lùn ở [Dãy Núi Xanh](../B/Blue_Mountains.md) trong [Kỷ Đệ Nhất](../F/First_Age.md). Cùng với những [bà con thân cận](Dwarves_of_Belegost.md) tại [Belegost](../B/Belegost.md), họ thuộc nhóm [Người Lùn ở Dãy Núi Xanh](Dwarves_of_the_Blue_Mountains.md).
 
 ## Lịch sử {#History}
 
@@ -62,12 +62,12 @@ Sau khi [Kỷ Đệ Nhất](../F/First_Age.md) kết thúc, vào khoảng năm [
 
 ## Xem thêm {#See_also}
 
-- [Người lùn ở Belegost](Dwarves_of_Belegost.md)
+- [Người Lùn ở Belegost](Dwarves_of_Belegost.md)
 
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Các câu chuyện không cho biết rõ liệu mỗi thành phố có thuộc về một trong hai Gia tộc hay không, cũng như liệu Người lùn ở Nogrod thuộc Gia tộc Râu Lửa hay Gia tộc Vai Rộng; có thể thành viên của cả hai Gia tộc đều cư trú tại mỗi thành phố.</span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Các câu chuyện không cho biết rõ liệu mỗi thành phố có thuộc về một trong hai Gia tộc hay không, cũng như liệu Người Lùn ở Nogrod thuộc Gia tộc Râu Lửa hay Gia tộc Vai Rộng; có thể thành viên của cả hai Gia tộc đều cư trú tại mỗi thành phố.</span>
 </li>
 </ol></div></span>
 

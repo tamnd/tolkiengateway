@@ -129,7 +129,7 @@ Một số loài rồng ([Glaurung](../G/Glaurung.md)) bò trườn như rắn, 
 
 Các *[Urulóki](../U/Urulóki.md)* (số ít là *Urulokë*, rồng lửa) có khả năng phun lửa. Chưa hoàn toàn rõ liệu thuật ngữ "Urulóki" chỉ đề cập đến những con rồng đầu tiên như Glaurung, vốn có thể phun lửa nhưng không có cánh, hay chỉ bất kỳ con rồng nào có khả năng phun lửa, bao gồm cả Smaug.
 
-Lửa rồng (của loài Urulóki) nóng đến mức có thể nung chảy các [Nhẫn Quyền Lực](../R/Rings_of_Power.md): bốn trong số [Bảy chiếc Nhẫn](../S/Seven_Rings.md) của người Dwarf đã bị lửa rồng thiêu hủy, mặc dù sức nóng ấy không đủ mạnh để phá hủy chính Chiếc Nhẫn Chủ.<sup id="cite_ref-Shadow_12-2" class="reference"><a href="#cite_note-Shadow-12">[10]</a></sup>
+Lửa rồng (của loài Urulóki) nóng đến mức có thể nung chảy các [Nhẫn Quyền Lực](../R/Rings_of_Power.md): bốn trong số [Bảy chiếc Nhẫn](../S/Seven_Rings.md) của người Dwarf đã bị lửa rồng thiêu hủy, mặc dù sức nóng ấy không đủ mạnh để phá hủy chính Chiếc Nhẫn Chúa.<sup id="cite_ref-Shadow_12-2" class="reference"><a href="#cite_note-Shadow-12">[10]</a></sup>
 
 Những con rồng không thể phun lửa được gọi là [Cold-drakes](../C/Cold-drakes.md). Chúng chủ yếu sinh sống ở [Ered Mithrin](../E/Ered_Mithrin.md).
 

@@ -55,7 +55,7 @@ infobox:
 
 ## Phim ảnh {#Filmography}
 
-- [1978](../_/1978.md): [*The Lord of the Rings* (phim 1978)](<../T/The_Lord_of_the_Rings_(1978_film).md>) (kịch bản, với Chris Conkling)
+- [1978](../_/1978.md): [*The Lord of the Rings* (phim năm 1978)](<../T/The_Lord_of_the_Rings_(1978_film).md>) (kịch bản, với Chris Conkling)
 - [2005](../_/2005.md): *[Ringers: Lord of the Fans](../R/Ringers%253A_Lord_of_the_Fans.md)* (người được phỏng vấn)
 
 ## Xuất hiện theo quy ước {#Convention_appearances}

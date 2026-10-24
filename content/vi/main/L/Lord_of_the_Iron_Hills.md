@@ -24,7 +24,7 @@ images:
 
 <b>2018: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>During the reign of <a href="../T/Thorin_Stonehelm.md" title="Thorin Stonehelm">Thorin Stonehelm</a>, his brother, &#34;Náin the Slakeless&#34;, is Lord of the Iron Hills. He rules from the capital, &#34;Járnfast&#34;.</dd></dl>
+<dl><dd>During the reign of <a href="../T/Thorin_Stonehelm.md" title="Thorin Stonehelm">Thorin Stonehelm</a>, his brother, &#34;Náin Slakeless&#34;, is Lord of the Iron Hills. He rules from the capital, &#34;Járnfast&#34;.</dd></dl>
 
 ## Ghi chú {#Notes}
 

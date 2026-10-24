@@ -85,7 +85,7 @@ Cuốn sách là sự tiếp nối của *[The Book of Lost Tales: Part One](The
 
 - III. "[The Fall of Gondolin](<The_Fall_of_Gondolin_(chapter).md>)" — câu chuyện đầy đủ duy nhất về Sự sụp đổ của [Gondolin](../G/Gondolin.md)
 
-- IV. "[The Nauglafring](The_Nauglafring.md)" — câu chuyện về chiếc vòng cổ Người lùn được gọi là [Nauglamír](../N/Nauglamír.md)
+- IV. "[The Nauglafring](The_Nauglafring.md)" — câu chuyện về chiếc vòng cổ Người Lùn được gọi là [Nauglamír](../N/Nauglamír.md)
 
 - V. "[Câu chuyện về Eärendel](The_Tale_of_Eärendel.md)" — câu chuyện đầy đủ duy nhất về chuyến du hành của [Eärendil](../E/Eärendil.md)
 

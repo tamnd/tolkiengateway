@@ -35,21 +35,21 @@ infobox:
 <p class="tg-quote-footer"><cite><a href="../M/Mîm.md" title="Mîm">Mîm</a><sup id="cite_ref-S22_1-0" class="reference"><a href="#cite_note-S22-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Nulukkizdîn** hay **Nulukkhizdīn** là đại sảnh của [Người lùn Nhỏ](../P/Petty-dwarves.md) trên sông [Narog](Narog.md).
+**Nulukkizdîn** hay **Nulukkhizdīn** là đại sảnh của [Người Lùn Nhỏ](../P/Petty-dwarves.md) trên sông [Narog](Narog.md).
 
 ## Lịch sử {#History}
 
-Nulukkizdîn đã được Người Lùn khai thác trước khi [Tiên tộc](../E/Elves.md) bị trục xuất khỏi [Valinor](../V/Valinor.md). Qua nhiều năm, số lượng của nó suy giảm và những loài khác bị Tiên tộc săn đuổi đến gần tuyệt chủng, những loài không quen thuộc với Người lùn Nhỏ. Nulukkizdîn cuối cùng đã bị bỏ hoang và được Tiên tộc tái định cư. [Finrod Felagund](../F/Finrod.md) đã thành lập [Nargothrond](Nargothrond.md) thay cho nó. Sau khi Nargothrond thất thủ trước [Glaurung](../G/Glaurung.md), người lùn Petty cuối cùng, [Mîm](../M/Mîm.md), đã lấy lại nó nhưng bị [Húrin](../H/Húrin.md) giết chết.<sup id="cite_ref-S22_1-1" class="reference"><a href="#cite_note-S22-1">[1]</a></sup>
+Nulukkizdîn đã được Người Lùn khai thác trước khi [Tiên tộc](../E/Elves.md) bị trục xuất khỏi [Valinor](../V/Valinor.md). Qua nhiều năm, số lượng của nó suy giảm và những loài khác bị Tiên tộc săn đuổi đến gần tuyệt chủng, những loài không quen thuộc với Người Lùn Nhỏ. Nulukkizdîn cuối cùng đã bị bỏ hoang và được Tiên tộc tái định cư. [Finrod Felagund](../F/Finrod.md) đã thành lập [Nargothrond](Nargothrond.md) thay cho nó. Sau khi Nargothrond thất thủ trước [Glaurung](../G/Glaurung.md), người lùn Petty cuối cùng, [Mîm](../M/Mîm.md), đã lấy lại nó nhưng bị [Húrin](../H/Húrin.md) giết chết.<sup id="cite_ref-S22_1-1" class="reference"><a href="#cite_note-S22-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Tolkien không cung cấp bản dịch của **Nulukkizdîn** hoặc **Nulukkhizdīn**. Phần tử cuối cùng thường được cho là gốc [Khuzdul](../K/Khuzdul.md) của "Người lùn", Kh-Z-D.<sup id="cite_ref-Ardalambion_2-0" class="reference"><a href="#cite_note-Ardalambion-2">[2]</a></sup> Cho dù đây là một từ Khuzdul thực sự hay một phương ngữ của người lùn Petty vẫn chưa được biết, nhưng bằng chứng gián tiếp chỉ ra lựa chọn thứ hai. [Angerthas Daeron](../A/Angerthas_Daeron.md) và biến thể Người lùn cụ thể của nó [Angerthas Moria](../A/Angerthas_Moria.md), không có ký hiệu cho chữ cái *Î*.<sup id="cite_ref-Angerthas_3-0" class="reference"><a href="#cite_note-Angerthas-3">[3]</a></sup> Ngoài *Nulukkizdîn*, nó chỉ xuất hiện trong *[Khîm](../K/Khîm.md)* và *Mîm*,<sup id="cite_ref-Ardalambion_2-1" class="reference"><a href="#cite_note-Ardalambion-2">[2]</a></sup> tên của hai Người lùn Nhỏ.
+Tolkien không cung cấp bản dịch của **Nulukkizdîn** hoặc **Nulukkhizdīn**. Phần tử cuối cùng thường được cho là gốc [Khuzdul](../K/Khuzdul.md) của "Người Lùn", Kh-Z-D.<sup id="cite_ref-Ardalambion_2-0" class="reference"><a href="#cite_note-Ardalambion-2">[2]</a></sup> Cho dù đây là một từ Khuzdul thực sự hay một phương ngữ của người lùn Petty vẫn chưa được biết, nhưng bằng chứng gián tiếp chỉ ra lựa chọn thứ hai. [Angerthas Daeron](../A/Angerthas_Daeron.md) và biến thể Người Lùn cụ thể của nó [Angerthas Moria](../A/Angerthas_Moria.md), không có ký hiệu cho chữ cái *Î*.<sup id="cite_ref-Angerthas_3-0" class="reference"><a href="#cite_note-Angerthas-3">[3]</a></sup> Ngoài *Nulukkizdîn*, nó chỉ xuất hiện trong *[Khîm](../K/Khîm.md)* và *Mîm*,<sup id="cite_ref-Ardalambion_2-1" class="reference"><a href="#cite_note-Ardalambion-2">[2]</a></sup> tên của hai Người Lùn Nhỏ.
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
 Trong *[The Silmarillion](../T/The_Silmarillion.md)*, tên được đánh vần là *Nulukkizdîn*; tuy nhiên, [Christopher Tolkien](../C/Christopher_Tolkien.md) đã lưu ý rằng trong bản thảo gốc, cha anh đã sử dụng cách viết **Nulukkhizdīn**. Nó thay thế cách viết trước đó **Nulukkhizidûn**.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
-Ghi chú sau này của Tolkien về nguồn gốc của Nargothrond đưa ra một cái tên Người lùn khác, **Nar(u)kuthûn**, bắt nguồn từ tên Người lùn của [Narog](Narog.md), \**[Naruka](Naruka.md)*. Tolkien bao gồm các từ "của Người lùn Nhỏ" giữa các dấu ngoặc đơn đằng sau việc đề cập đến nguồn gốc Người lùn của nó.<sup id="cite_ref-PE17_5-0" class="reference"><a href="#cite_note-PE17-5">[5]</a></sup> Liệu Tolkien có ý định thay thế *Nulukkhizdīn* bằng *Nar(u)kuthûn* hay không thì vẫn chưa rõ.
+Ghi chú sau này của Tolkien về nguồn gốc của Nargothrond đưa ra một cái tên Người Lùn khác, **Nar(u)kuthûn**, bắt nguồn từ tên Người Lùn của [Narog](Narog.md), \**[Naruka](Naruka.md)*. Tolkien bao gồm các từ "của Người Lùn Nhỏ" giữa các dấu ngoặc đơn đằng sau việc đề cập đến nguồn gốc Người Lùn của nó.<sup id="cite_ref-PE17_5-0" class="reference"><a href="#cite_note-PE17-5">[5]</a></sup> Liệu Tolkien có ý định thay thế *Nulukkhizdīn* bằng *Nar(u)kuthûn* hay không thì vẫn chưa rõ.
 
 <span></span>
 

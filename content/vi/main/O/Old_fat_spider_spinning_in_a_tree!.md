@@ -67,11 +67,11 @@ Tolkien lần đầu tiên viết bài thơ trên một số ghi chú của cố
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1977: <a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>The Hobbit</i> (phim 1977)</a>:</b>
+<b>1977: <a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>The Hobbit</i> (phim năm 1977)</a>:</b>
 
 <dl><dd>Though it was omitted from the final film, a version of the song appears on <a href="../T/The_Hobbit%253A_The_Complete_Original_Soundtrack.md" title="The Hobbit: The Complete Original Soundtrack">the soundtrack</a>, titled &#34;<a href="Old_Fat_Spider.md" title="Old Fat Spider">Old Fat Spider</a>&#34;. The vocals were performed by <a href="../G/Glenn_Yarbrough.md" title="Glenn Yarbrough">Glenn Yarbrough</a>.</dd></dl>
 
-<b>1985: <a href="../T/The_Hobbit_(1985_television_film).md" title="The Hobbit (1985 television film)"><i>The Hobbit</i> (phim truyền hình 1985)</a></b>
+<b>1985: <a href="../T/The_Hobbit_(1985_television_film).md" title="The Hobbit (1985 television film)"><i>The Hobbit</i> (phim truyền hình năm 1985)</a></b>
 
 <dl><dd>The words are used by Bilbo as in the book, though without singing.</dd></dl>
 

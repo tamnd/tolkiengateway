@@ -30,7 +30,7 @@ images:
 
 ## Các bản chuyển thể {#Adaptations}
 
-- <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Council_of_Elrond_(scene)&amp;action=edit&amp;redlink=1" title="Council of Elrond (scene) (page does not exist)">Hội đồng Elrond (cảnh)</a></i>, cảnh trong [*The Lord of the Rings* (phim 1978)](<The_Lord_of_the_Rings_(1978_film).md>).
+- <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Council_of_Elrond_(scene)&amp;action=edit&amp;redlink=1" title="Council of Elrond (scene) (page does not exist)">Hội đồng Elrond (cảnh)</a></i>, cảnh trong [*The Lord of the Rings* (phim năm 1978)](<The_Lord_of_the_Rings_(1978_film).md>).
 - <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Council_of_Elrond_(1979_episode)&amp;action=edit&amp;redlink=1" title="The Council of Elrond (1979 episode) (page does not exist)">The Hội đồng Elrond (tập 1979)</a></i>, tập của [*The Lord of the Rings* (loạt phim phát thanh năm 1979)](<The_Lord_of_the_Rings_(1979_radio_series).md>).
 - <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Council_of_Elrond_(1981_episode)&amp;action=edit&amp;redlink=1" title="The Council of Elrond (1981 episode) (page does not exist)">The Hội đồng Elrond (tập 1981)</a></i>, tập thứ sáu của [*The Lord of the Rings* (loạt phim phát thanh năm 1981)](<The_Lord_of_the_Rings_(1981_radio_series).md>), phát sóng [ngày 12 tháng 4](../_/12_April.md), [1981](../_/1981.md).
 - *[The Council of Elrond (scene)](<The_Council_of_Elrond_(scene).md>)*, một cảnh trong phim [2001](../_/2001.md) *[The Lord of the Rings: The Fellowship of the Ring](The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)*.

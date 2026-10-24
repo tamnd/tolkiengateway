@@ -18,7 +18,7 @@ categories:
 ## Ví dụ {#Examples}
 
 - <i><a class="mw-redirect" href="Pityafinwë.md" title="Pityafinwë"><b>Đáng tiếc</b>finwë</a></i> = "Nhỏ Finwë"
-- <i><a class="mw-redirect" href="Pitya-naukor.md" title="Pitya-naukor"><b>Đáng tiếc</b>-naukor</a></i> = "Người lùn Nhỏ"
+- <i><a class="mw-redirect" href="Pitya-naukor.md" title="Pitya-naukor"><b>Đáng tiếc</b>-naukor</a></i> = "Người Lùn Nhỏ"
 
 <span></span>
 

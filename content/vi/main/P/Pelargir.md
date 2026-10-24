@@ -79,7 +79,7 @@ Trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), Pelargir lại bị [Cor
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1980: <a href="../T/The_Return_of_the_King_(1980_film).md" title="The Return of the King (1980 film)"><i>The Return of the King</i> (phim 1980)</a>:</b>
+<b>1980: <a href="../T/The_Return_of_the_King_(1980_film).md" title="The Return of the King (1980 film)"><i>The Return of the King</i> (phim năm 1980)</a>:</b>
 
 <dl><dd>Pelargir appears on a map when Gandalf explains the coming of the Black Ships.</dd></dl>
 

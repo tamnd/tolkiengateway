@@ -34,7 +34,7 @@ images:
 
 Ở phía đông của vịnh, sông [Anduin](../A/Anduin.md) đổ vào vịnh, với hòn đảo [Tolfalas](../T/Tolfalas.md) nằm gần cửa sông. Lãnh địa Gondor [Belfalas](Belfalas.md) nằm ở phía tây bắc Tolfalas.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Các bờ biển quanh Vịnh phần lớn đều hoang vắng trong [Kỷ nguyên thứ Hai](../S/Second_Age.md), ngoại trừ khu định cư của [Sindar](../S/Sindar.md) từ cuối [Kỷ nguyên thứ Nhất](../F/First_Age.md), nơi về sau trở thành hải cảng [Edhellond](../E/Edhellond.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Các bờ biển quanh Vịnh phần lớn đều hoang vắng trong [Kỷ Đệ Nhị](../S/Second_Age.md), ngoại trừ khu định cư của [Sindar](../S/Sindar.md) từ cuối [Kỷ Đệ Nhất](../F/First_Age.md), nơi về sau trở thành hải cảng [Edhellond](../E/Edhellond.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 Trong [Sự Nhấn chìm Númenor](../D/Drowning_of_Númenor.md), Vịnh Belfalas bị lấp đầy đáng kể ở phía đông và phía nam, còn đất đai xung quanh bị nâng lên. Anduin mở một dòng chảy mới qua nhiều [cửa sông](../E/Ethir_Anduin.md) đổ vào Vịnh.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Tolfalas gần như bị hủy diệt, cuối cùng chỉ còn lại như một ngọn núi cằn cỗi và cô độc giữa biển, không xa cửa sông.
 

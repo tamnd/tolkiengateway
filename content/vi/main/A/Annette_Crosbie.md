@@ -24,7 +24,7 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Annette_Crosbie.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/32/Annette_Crosbie.jpg/300px-Annette_Crosbie.jpg" decoding="async" loading="lazy" width="300" height="225" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/3/32/Annette_Crosbie.jpg 1.5x" data-file-width="320" data-file-height="240"/></a><figcaption>Annette Crosbie in <i><a class="extiw" href="http://en.wikipedia.org/wiki/One_Foot_in_the_Grave" title="wikipedia:One Foot in the Grave">One Foot in the Grave</a></i></figcaption></figure>
 
-**Annette Crosbie**, [OBE](../O/Order_of_the_British_Empire.md) ([12 tháng 2](../_/12_February.md), [1934](../_/1934.md)) là một nữ diễn viên nhân vật người Scotland. Cô đã lồng tiếng cho nhân vật [Galadriel](../G/Galadriel.md) trong [*The Lord of the Rings* (phim 1978)](<../T/The_Lord_of_the_Rings_(1978_film).md>).
+**Annette Crosbie**, [OBE](../O/Order_of_the_British_Empire.md) ([12 tháng 2](../_/12_February.md), [1934](../_/1934.md)) là một nữ diễn viên nhân vật người Scotland. Cô đã lồng tiếng cho nhân vật [Galadriel](../G/Galadriel.md) trong [*The Lord of the Rings* (phim năm 1978)](<../T/The_Lord_of_the_Rings_(1978_film).md>).
 
 ## Liên kết ngoài {#External_links}
 

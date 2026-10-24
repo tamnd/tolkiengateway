@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Petty-dwarves"
 ---
 
-Chuyển hướng đến [Người lùn Nhỏ](../P/Petty-dwarves.md).
+Chuyển hướng đến [Người Lùn Nhỏ](../P/Petty-dwarves.md).

@@ -38,7 +38,7 @@ Nguồn của dòng sông bắt đầu từ hai nhánh không tên ở khu vực
 
 ## Lịch sử {#History}
 
-Sau [Liên minh Cuối cùng giữa Tiên tộc và Loài Người](../L/Last_Alliance_of_Elves_and_Men.md), [Isildur](../I/Isildur.md), người thừa kế của [Elendil](../E/Elendil.md) và người mang [Nhẫn Chủ](../T/The_One_Ring.md), bị [Orc](../O/Orcs.md) tấn công gần Cánh đồng Gladden, và Nhẫn Chủ đã thất lạc tại đây, trong dòng sông Gladden.<sup id="cite_ref-Disaster_3-0" class="reference"><a href="#cite_note-Disaster-3">[3]</a></sup>
+Sau [Liên minh Cuối cùng giữa Tiên tộc và Loài Người](../L/Last_Alliance_of_Elves_and_Men.md), [Isildur](../I/Isildur.md), người thừa kế của [Elendil](../E/Elendil.md) và người mang [Nhẫn Chúa](../T/The_One_Ring.md), bị [Orc](../O/Orcs.md) tấn công gần Cánh đồng Gladden, và Nhẫn Chúa đã thất lạc tại đây, trong dòng sông Gladden.<sup id="cite_ref-Disaster_3-0" class="reference"><a href="#cite_note-Disaster-3">[3]</a></sup>
 
 Rất lâu sau đó, vào [Kỷ Đệ Tam](../T/Third_Age.md), một số [Stoor](../S/Stoors.md) sinh sống gần các dòng suối ở Gladden. Trong số họ có [Déagol](../D/Déagol.md), người đã tìm thấy chiếc nhẫn và bị [Sméagol](../S/Sméagol.md) ([Gollum](Gollum.md)) sát hại. Gollum đã nắm giữ chiếc Nhẫn trong một thời gian dài. Cuối cùng, Gollum lần theo dòng suối ngược lên tận nguồn, rồi đến những hang động bị lãng quên gần [thị trấn Goblin](Goblin-town.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 

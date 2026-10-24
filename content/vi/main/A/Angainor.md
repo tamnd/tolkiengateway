@@ -45,7 +45,7 @@ Trong những bản hiệu đính sau này của [huyền sử](../L/Legendarium
 
 ## Cảm hứng {#Inspiration}
 
-Trong [Norse Mythology](../N/Norse_Mythology~40840.md), <a class="extiw" href="http://en.wikipedia.org/wiki/Gleipnir" title="wikipedia:Gleipnir">Gleipnir</a> là sợi trói giam giữ con sói hùng mạnh <a class="extiw" href="http://en.wikipedia.org/wiki/Fenrir" title="wikipedia:Fenrir">Fenrir</a>, được các Người lùn rèn nên từ sáu vật liệu khác nhau.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Trong [Norse Mythology](../N/Norse_Mythology~40840.md), <a class="extiw" href="http://en.wikipedia.org/wiki/Gleipnir" title="wikipedia:Gleipnir">Gleipnir</a> là sợi trói giam giữ con sói hùng mạnh <a class="extiw" href="http://en.wikipedia.org/wiki/Fenrir" title="wikipedia:Fenrir">Fenrir</a>, được các Người Lùn rèn nên từ sáu vật liệu khác nhau.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 <span></span>
 

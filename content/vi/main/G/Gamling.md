@@ -54,7 +54,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Là một ông lão vào thời [Chiến tranh Nhẫn](../W/War_of_the_Ring.md), Gamling vẫn là một nhân vật đầy uy thế chỉ huy vào thời điểm diễn ra [Trận Hornburg](../B/Battle_of_the_Hornburg.md). Trong trận chiến, Gamling là người đầu tiên nhận ra rằng [Orcs](../O/Orcs.md) đã xâm nhập vào [Thung lũng Sâu](../H/Helm's_Deep.md) qua cống thoát nước, và chính ông đã dẫn đầu cuộc phản công.
+Là một ông lão vào thời [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), Gamling vẫn là một nhân vật đầy uy thế chỉ huy vào thời điểm diễn ra [Trận Hornburg](../B/Battle_of_the_Hornburg.md). Trong trận chiến, Gamling là người đầu tiên nhận ra rằng [Orcs](../O/Orcs.md) đã xâm nhập vào [Thung lũng Sâu](../H/Helm's_Deep.md) qua cống thoát nước, và chính ông đã dẫn đầu cuộc phản công.
 
 Có vẻ như Gamling đã lớn lên ở các thung lũng phía tây Rohan; ông hiểu tiếng nói của [Dunland](../D/Dunland.md), thứ tiếng vẫn còn được sử dụng ở những vùng này.<sup id="cite_ref-Helm_1-2" class="reference"><a href="#cite_note-Helm-1">[1]</a></sup>
 

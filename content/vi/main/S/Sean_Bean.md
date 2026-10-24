@@ -57,7 +57,7 @@ Anh cũng từng tham gia loạt phim <a class="extiw" href="http://en.wikipedia
 </blockquote><div class="tg-section-divider"></div></div>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Lord of the Rings  was just so much enjoyment. It was over about the space of a year that I was filming. It&#39;s one of the most enjoyable things I&#39;ve ever done...so emotional.
+<p>Lord of the Rings was just so much enjoyment. It was over about the space of a year that I was filming. It&#39;s one of the most enjoyable things I&#39;ve ever done...so emotional.
 </p>
 <p class="tg-quote-footer"><cite>Sean Bean, compleatseanbean.com</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

@@ -86,7 +86,7 @@ Trong Hobbit văn hóa dân gian, mặt trăng được tưởng tượng là n�
 
 ### Người Lùn {#Dwarves}
 
-[Người Lùn](../D/Dwarves.md) dựa trên lịch của họ trên Mặt Trăng. Năm Người lùn bắt đầu từ ngày đầu tiên của tuần trăng cuối cùng của Mùa Thu trước ngưỡng cửa Mùa Đông.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Tuy nhiên, có vẻ như vào cuối [Kỷ Đệ Tam](../T/Third_Age.md) Người Lùn đã áp dụng [Tính toán của Quản gia](../S/Stewards'_Reckoning.md),<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> và rất ít người có kỹ năng tính toán [Ngày Durin](../D/Durin's_Day.md).
+[Người Lùn](../D/Dwarves.md) dựa trên lịch của họ trên Mặt Trăng. Năm Người Lùn bắt đầu từ ngày đầu tiên của tuần trăng cuối cùng của Mùa Thu trước ngưỡng cửa Mùa Đông.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Tuy nhiên, có vẻ như vào cuối [Kỷ Đệ Tam](../T/Third_Age.md) Người Lùn đã áp dụng [Tính toán của Quản gia](../S/Stewards'_Reckoning.md),<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> và rất ít người có kỹ năng tính toán [Ngày Durin](../D/Durin's_Day.md).
 
 ## Tên khác {#Other_names}
 
@@ -155,7 +155,7 @@ Việc đề cập rằng Hobbit và Người Lùn dựa trên năm và tháng c
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_(video_game)_-_Legolas_firing_an_arrow.JPG.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b3/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_%28video_game%29_-_Legolas_firing_an_arrow.JPG/200px-The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_%28video_game%29_-_Legolas_firing_an_arrow.JPG" decoding="async" loading="lazy" width="200" height="108" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b3/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_%28video_game%29_-_Legolas_firing_an_arrow.JPG/300px-The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_%28video_game%29_-_Legolas_firing_an_arrow.JPG 1.5x, https://tolkiengateway.net/w/images/thumb/b/b3/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_%28video_game%29_-_Legolas_firing_an_arrow.JPG/400px-The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_%28video_game%29_-_Legolas_firing_an_arrow.JPG 2x" data-file-width="800" data-file-height="430"/></a><figcaption>The Moon in <a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md" title="The Lord of the Rings: The Fellowship of the Ring (video game)"><i>The Lord of the Rings: The Fellowship of the Ring</i> (video game)</a></figcaption></figure>
 
-<b>1978: <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim 1978)</a>:</b>
+<b>1978: <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim năm 1978)</a>:</b>
 
 <dl><dd>The moon appears in the background of various scenes. In a notable animation error, it is visible behind both <a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo</a> and <a href="../B/Boromir.md" title="Boromir">Boromir</a> when the latter tries to persuade Frodo to give the Ring at <a href="../A/Amon_Hen.md" title="Amon Hen">Amon Hen</a>.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup></dd></dl>
 

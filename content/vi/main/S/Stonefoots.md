@@ -32,9 +32,9 @@ infobox:
 
 **Stonefoots** là một trong bảy ngôi nhà của [Người Lùn](../D/Dwarves.md) cư trú tại [Rhûn](../R/Rhûn.md). Ban đầu chúng được ghép nối với [Blacklocks](../B/Blacklocks.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Vị trí của bốn gia tộc [Người lùn](../D/Dwarves.md), bao gồm cả Stonefoots, sống ở [phương Đông](../E/East.md) vẫn chưa được xác định. Khoảng cách giữa dinh thự của họ trong phương Đông và [Dãy Núi Sương Mù](../M/Misty_Mountains.md), cụ thể là [Gundabad](../G/Gundabad.md), được cho là bằng hoặc lớn hơn khoảng cách của Gundabad với [Dãy Núi Xanh](../B/Blue_Mountains.md) trong Phương Tây.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Vị trí của bốn gia tộc [Người Lùn](../D/Dwarves.md), bao gồm cả Stonefoots, sống ở [phương Đông](../E/East.md) vẫn chưa được xác định. Khoảng cách giữa dinh thự của họ trong phương Đông và [Dãy Núi Sương Mù](../M/Misty_Mountains.md), cụ thể là [Gundabad](../G/Gundabad.md), được cho là bằng hoặc lớn hơn khoảng cách của Gundabad với [Dãy Núi Xanh](../B/Blue_Mountains.md) trong Phương Tây.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
-Có thể Stonefoots nằm trong số những người "*Houses of other Fathers*" đã gửi quân đến giúp đỡ [Dân tộc Durin](../D/Durin's_Folk~15256.md) trong [Cuộc chiến giữa Người lùn và Orc](../W/War_of_the_Dwarves_and_Orcs.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Có thể Stonefoots nằm trong số những người "*Houses of other Fathers*" đã gửi quân đến giúp đỡ [Dân tộc Durin](../D/Durin's_Folk~15256.md) trong [Cuộc chiến giữa Người Lùn và Orc](../W/War_of_the_Dwarves_and_Orcs.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 Vào cuối [Kỷ Đệ Tam](../T/Third_Age.md), khi chiến tranh và khủng bố gia tăng trong chính [phương Đông](../E/East.md), một số lượng đáng kể Người Chân Đá và người lùn của các thị tộc phương Đông đã rời bỏ quê hương cổ xưa của họ. Họ tìm nơi ẩn náu ở vùng đất phía tây của Trung Địa, nơi một số người trong số họ có thể đã gặp [Frodo Baggins](../F/Frodo_Baggins.md).<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
@@ -56,7 +56,7 @@ Vào cuối [Kỷ Đệ Tam](../T/Third_Age.md), khi chiến tranh và khủng b
 
 <b>2021: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>The House corresponding to the Stonefoots is called the <b>Abnúzhu</b>. They are dark-skinned, their banners display an armored boot. Their <a href="Seven_Rings.md" title="Seven Rings">Ring</a> was either &#34;Taurya&#34;, which was reclaimed by Sauron, or &#34;Tulcya&#34;, which was consumed by the <a href="../D/Dragons.md" title="Dragons">dragon</a> &#34;Thostír the Rank&#34;. The Abnúzhu had no dealings with the Longbeards after the fall of <a href="../M/Moria.md" title="Moria">Khazad-dûm</a> until the <a href="../W/War_of_the_Dwarves_and_Orcs.md" title="War of the Dwarves and Orcs">War of the Dwarves and Orcs</a>, during which they were led by &#34;King Shâlim Nightcloak&#34;.</dd></dl>
+<dl><dd>The House corresponding to the Stonefoots is called the <b>Abnúzhu</b>. They are dark-skinned, their banners display an armored boot. Their <a href="Seven_Rings.md" title="Seven Rings">Ring</a> was either &#34;Taurya&#34;, which was reclaimed by Sauron, or &#34;Tulcya&#34;, which was consumed by the <a href="../D/Dragons.md" title="Dragons">dragon</a> &#34;Thostír Rank&#34;. The Abnúzhu had no dealings with the Longbeards after the fall of <a href="../M/Moria.md" title="Moria">Khazad-dûm</a> until the <a href="../W/War_of_the_Dwarves_and_Orcs.md" title="War of the Dwarves and Orcs">War of the Dwarves and Orcs</a>, during which they were led by &#34;King Shâlim Nightcloak&#34;.</dd></dl>
 
 <span></span>
 

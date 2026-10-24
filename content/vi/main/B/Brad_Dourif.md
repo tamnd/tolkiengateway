@@ -49,7 +49,7 @@ Trong suốt quá trình quay phim, ông hoàn toàn nhập vai và chỉ sau kh
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
 <p>What got me excited to do Grima Wormtongue is when I was young I went through a period in boarding school were I was picked on a lot. And there is something about Grima, he has been picked on when he was a kid, he (Grima) is so distrustful, he is so easily corrupted, He is so ugly, and he wants somebody, he wants to love somebody, and he can&#39;t, because nobody will have him.
 </p>
-<p class="tg-quote-footer"><cite>Brad Dourif,  ICON 20, March 31st, 2001</cite></p>
+<p class="tg-quote-footer"><cite>Brad Dourif, ICON 20, March 31st, 2001</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
 ## Giải thưởng {#Awards}

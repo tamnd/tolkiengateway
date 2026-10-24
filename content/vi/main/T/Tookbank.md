@@ -34,7 +34,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Village</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Tookbank</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>General Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../W/Westfarthing.md" title="Westfarthing">Westfarthing</a>, <a href="The_Shire.md" title="The Shire">the Shire</a></td></tr><tr><th scope="row" class="tg-infobox-label">Type</th><td class="tg-infobox-data">Village</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>People and History</span></th></tr><tr><th scope="row" class="tg-infobox-label">Inhabitants</th><td class="tg-infobox-data"><a href="../H/Hobbits.md" title="Hobbits">Hobbits</a></td></tr></tbody></table>
 
-**Tookbank** là một ngôi làng nhỏ ở [Tookland](Tookland.md), ở [Westfarthing](../W/Westfarthing.md) của [the Shire](The_Shire.md), không xa về phía tây của thị trấn lớn hơn [Tuckborough](Tuckborough.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Tookbank** là một ngôi làng nhỏ ở [Tookland](Tookland.md), ở [Westfarthing](../W/Westfarthing.md) của [Shire](The_Shire.md), không xa về phía tây của thị trấn lớn hơn [Tuckborough](Tuckborough.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

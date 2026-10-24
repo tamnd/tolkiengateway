@@ -28,7 +28,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Band</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Khazad-dûm</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Background Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Origin</th><td class="tg-infobox-data">Reading, England</td></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data">funeral doom/death metal</td></tr><tr><th scope="row" class="tg-infobox-label">Years active</th><td class="tg-infobox-data">2014-present</td></tr><tr><th scope="row" class="tg-infobox-label">website</th><td class="tg-infobox-data"><a class="external text" href="https://khazaddumuk.bandcamp.com/" rel="noreferrer noopener" target="_blank">Bandcamp</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Members</span></th></tr><tr><th scope="row" class="tg-infobox-label">Current Members</th><td class="tg-infobox-data">Daniel Scrivener<br/>Matthew Surry</td></tr></tbody></table>
 
-**Khazad-dûm** là một ban nhạc tang lễ doom/death metal đến từ Reading, Anh, được thành lập vào năm 2014.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Ban nhạc lấy tên từ [Khazad-dûm](Khazad-dûm.md), vương quốc Người lùn cổ xưa còn được gọi là Moria.
+**Khazad-dûm** là một ban nhạc tang lễ doom/death metal đến từ Reading, Anh, được thành lập vào năm 2014.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Ban nhạc lấy tên từ [Khazad-dûm](Khazad-dûm.md), vương quốc Người Lùn cổ xưa còn được gọi là Moria.
 
 ## Thành viên {#Members}
 

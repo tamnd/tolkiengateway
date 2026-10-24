@@ -567,7 +567,7 @@ Sự không chắc chắn của - Frodo– Garth, 'Frodo và cuộc Đại chi�
 - laurelin, (mallorn) – hoa kim tước “mưa vàng”
 - telperion, cây trắng – anh đào bạc
 - ilmarin – ilmarinen ở Kalevala
-- Sau khi Númenor bị phá hủy, Vùng Đất Bất Tử đã bị loại khỏi Arda nên Con Người không thể tiếp cận chúng và chỉ Tiên tộc mới có thể đến đó bằng Con Đường Thẳng và trên những con tàu có khả năng đi ra khỏi Quả cầu của trái đất. Bằng sự cho phép đặc biệt của Valar, Hobbit Frodo Baggins, Bilbo Baggins và Samwise Gamgee cũng được phép truy cập Valinor, cũng như Gimli Người lùn. -
+- Sau khi Númenor bị phá hủy, Vùng Đất Bất Tử đã bị loại khỏi Arda nên Con Người không thể tiếp cận chúng và chỉ Tiên tộc mới có thể đến đó bằng Con Đường Thẳng và trên những con tàu có khả năng đi ra khỏi Quả cầu của trái đất. Bằng sự cho phép đặc biệt của Valar, Hobbit Frodo Baggins, Bilbo Baggins và Samwise Gamgee cũng được phép truy cập Valinor, cũng như Gimli Người Lùn. -
 
 Có ý kiến ​​​​cho rằng ý tưởng này dựa trên Hy Brasil, một vùng đất thần thoại được cho là có thể được nhìn thấy ngoài khơi Ireland một ngày trong bảy năm một lần.
 
@@ -867,7 +867,7 @@ Nó có nguồn gốc từ Ba Tư và có một nguồn gốc từ tiếng Kazah
 - Tôi không nhớ mình đã từng nghe cái tên Gondar (ở Ethiopia) trước lá thư của bạn chưa
 - JS. Ryan trong “Ứng dụng thần thoại Đức - Sự mở rộng của văn học”
 
-Ký ức dân gian” lưu ý rằng tên của Arkenstone có nghĩa là “viên đá vô song” và . ’ cái tên Gimli gợi ý “gimlet”, “một khái niệm thích hợp về sự nhàm chán đối với một thợ đào và thợ cắt đá.“28 Hơn nữa, Gimli là người lùn duy nhất vượt biển tới -the Cảng Xám. Chắc chắn, mô tả của Snorri về một đại sảnh tên là Gimle trong Poetic Edda nằm trong nồi súp: “Ở đầu phía nam của thiên đường hội trường đó đẹp nhất và sáng hơn mặt trời; và đó là C&led Gimle.“29 Nếu tên của những người lùn đã được văn học phương Bắc gợi ý thì nhân vật của ông cũng vậy. Lời tuyên bố hoa mỹ của Gimli,” . l Quý cô Galadriel vượt trên tất cả những viên ngọc quý nằm dưới lòng đất,” là hình ảnh thu nhỏ của mối quan tâm điển hình của một người lùn với kho báu của trái đất.
+Ký ức dân gian” lưu ý rằng tên của Arkenstone có nghĩa là “viên đá vô song” và. ’ cái tên Gimli gợi ý “gimlet”, “một khái niệm thích hợp về sự nhàm chán đối với một thợ đào và thợ cắt đá.“28 Hơn nữa, Gimli là người lùn duy nhất vượt biển tới -the Cảng Xám. Chắc chắn, mô tả của Snorri về một đại sảnh tên là Gimle trong Poetic Edda nằm trong nồi súp: “Ở đầu phía nam của thiên đường hội trường đó đẹp nhất và sáng hơn mặt trời; và đó là C&led Gimle.“29 Nếu tên của những người lùn đã được văn học phương Bắc gợi ý thì nhân vật của ông cũng vậy. Lời tuyên bố hoa mỹ của Gimli,” . l Quý cô Galadriel vượt trên tất cả những viên ngọc quý nằm dưới lòng đất,” là hình ảnh thu nhỏ của mối quan tâm điển hình của một người lùn với kho báu của trái đất.
 
 - Tolkien ghi lại ý tưởng về một con người biến mất trong
 

@@ -55,7 +55,7 @@ Bảy năm sau khi tình trạng bất ổn bắt đầu, một nhóm Orc của 
 
 Sau thất bại tan tác của lũ Orc và cái chết của vị vua, những cuộc nổi dậy ngắn ngủi của chúng trong Eriador chấm dứt, và cuối cùng các cuộc tấn công vào vùng này cũng hoàn toàn dừng lại.<sup id="cite_ref-Index_4-1" class="reference"><a href="#cite_note-Index-4">[4]</a></sup> Shire, cũng như toàn thể Eriador, sẽ không phải chịu thêm cuộc xâm lược nào cho đến [War of the Ring](../W/War_of_the_Ring.md).<sup id="cite_ref-Scouring_2-2" class="reference"><a href="#cite_note-Scouring-2">[2]</a></sup>
 
-Bandobras trở thành một anh hùng trong truyền thuyết Hobbit nhờ chiến công của mình, và được coi ở [the Shire](../T/The_Shire.md) là một trong những Hobbit vĩ đại nhất trong lịch sử. Để kỷ niệm việc đầu Golfimbul rơi xuống hang thỏ, những hobbit đã phát minh ra trò [golf](../G/Golf.md).<sup id="cite_ref-Party_1-2" class="reference"><a href="#cite_note-Party-1">[1]</a></sup>
+Bandobras trở thành một anh hùng trong truyền thuyết Hobbit nhờ chiến công của mình, và được coi ở [Shire](../T/The_Shire.md) là một trong những Hobbit vĩ đại nhất trong lịch sử. Để kỷ niệm việc đầu Golfimbul rơi xuống hang thỏ, những hobbit đã phát minh ra trò [golf](../G/Golf.md).<sup id="cite_ref-Party_1-2" class="reference"><a href="#cite_note-Party-1">[1]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 

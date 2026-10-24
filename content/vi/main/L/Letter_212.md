@@ -51,7 +51,7 @@ Một trong những [Aulë](../A/Aulë.md) vĩ đại, đã "ngã" theo một ng
 ## Lưu ý {#Note}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">In a side note, Tolkien said that the Elvish and uncorrupted <a class="mw-redirect" href="../N/Númenórean.md" title="Númenórean">Númenórean</a> view was that a &#34;good&#34; man would die voluntarily by surrender with trust before being compelled.  He then discussed the Assumption of Mary.</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">In a side note, Tolkien said that the Elvish and uncorrupted <a class="mw-redirect" href="../N/Númenórean.md" title="Númenórean">Númenórean</a> view was that a &#34;good&#34; man would die voluntarily by surrender with trust before being compelled. He then discussed the Assumption of Mary.</span>
 </li>
 </ol></div>
 

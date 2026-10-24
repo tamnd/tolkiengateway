@@ -74,7 +74,7 @@ Diari dalla Terza Era diễn ra giữa các sự kiện [The Lord of the Rings](
 Bộ phim kể về một [Người đàn ông](../M/Men.md) được biết đến với cái tên "Il Campione" (tiếng Ý: Nhà vô địch), người truy đuổi [Witch-Vua của Angmar](../W/Witch-King~20091.md) bất chấp lời tiên tri của [Glorfindel](../G/Glorfindel.md) nêu rõ:
 
 <blockquote class="tg-quote noexcerpt">
-<p>He will not return to this land.  Far off yet is his doom, and not by the hand of man will he fall.
+<p>He will not return to this land. Far off yet is his doom, and not by the hand of man will he fall.
 </p>
 <p class="tg-quote-footer"><cite>Glorfindel, <i><a href="../T/The_Return_of_the_King.md" title="The Return of the King">The Return of the King</a></i>, <a href="../A/Appendix_A.md" title="Appendix A">Appendix A</a> (iv)</cite></p>
 </blockquote>

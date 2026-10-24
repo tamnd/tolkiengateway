@@ -34,7 +34,7 @@ infobox:
     value: "Images of Léod"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">&#34;Léod (Westfold Herdsman)&#34; is a concept which has only appeared in an  adaptation of the works of <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">&#34;Léod (Westfold Herdsman)&#34; is a concept which has only appeared in an adaptation of the works of <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>.</div></div>
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the film character</b>. For the Lord of the Éothéod, see <b><a href="Léod.md" title="Léod">Léod</a></b>.</div></div>
 
@@ -48,7 +48,7 @@ Léod là tác phẩm độc đáo dành cho phim *[The Lord of the Rings: The T
 
 Léod là [Người](../R/Rohirrim.md) của [Rohan](../R/Rohan.md) trong [Kỷ Đệ Tam](../T/Third_Age.md). Ông ta làm chủ trang trại và người chăn nuôi ở [Westfold](../W/Westfold.md) của [Rohan](../R/Rohan.md).
 
-Dự đoán trước một cuộc tấn công vào thủ đô [Edoras](../E/Edoras.md), [Théoden](../T/Théoden.md) [Vua](../K/King_of_Rohan.md) cùng Rohirrim bỏ chạy đến pháo đài [thủ đô Hornburg](../H/Hornburg.md) ở [Helm's Deep](../H/Helm's_Deep.md). Khi [Aragorn](../A/Aragorn.md) báo cáo rằng [Saruman phe Trắng](../S/Saruman.md) đã cử một lực lượng hơn mười nghìn [Uruk-hai](../U/Uruk-hai.md) tấn công Hornburg, Théoden đã ra lệnh cho mọi người đàn ông và chàng trai khỏe mạnh có khả năng cầm vũ khí chuẩn bị cho trận chiến. Léod dự tính dùng rìu để chiến đấu. Khi quân Uruk đến, ông đã chiến đấu trong [the Trận Hornburg](../B/Battle_of_the_Hornburg.md).
+Dự đoán trước một cuộc tấn công vào thủ đô [Edoras](../E/Edoras.md), [Théoden](../T/Théoden.md) [Vua](../K/King_of_Rohan.md) cùng Rohirrim bỏ chạy đến pháo đài [thủ đô Hornburg](../H/Hornburg.md) ở [Helm's Deep](../H/Helm's_Deep.md). Khi [Aragorn](../A/Aragorn.md) báo cáo rằng [Saruman phe Trắng](../S/Saruman.md) đã cử một lực lượng hơn mười nghìn [Uruk-hai](../U/Uruk-hai.md) tấn công Hornburg, Théoden đã ra lệnh cho mọi người đàn ông và chàng trai khỏe mạnh có khả năng cầm vũ khí chuẩn bị cho trận chiến. Léod dự tính dùng rìu để chiến đấu. Khi quân Uruk đến, ông đã chiến đấu trong [Trận Hornburg](../B/Battle_of_the_Hornburg.md).
 
 <span></span>
 

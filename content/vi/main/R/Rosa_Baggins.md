@@ -56,7 +56,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Rosa là con gái của [Ponto Baggins](../P/Ponto_Baggins_I.md) và [Mimosa Bunce](../M/Mimosa_Bunce.md). Cô kết hôn với [Hildigrim Took](../H/Hildigrim_Took.md), con trai của [the Old Took](../G/Gerontius_Took.md). Họ chỉ có một đứa con, [Adalgrim](../A/Adalgrim_Took.md), sinh năm [1280](../T/Third_Age_2880.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Rosa là con gái của [Ponto Baggins](../P/Ponto_Baggins_I.md) và [Mimosa Bunce](../M/Mimosa_Bunce.md). Cô kết hôn với [Hildigrim Took](../H/Hildigrim_Took.md), con trai của [Old Took](../G/Gerontius_Took.md). Họ chỉ có một đứa con, [Adalgrim](../A/Adalgrim_Took.md), sinh năm [1280](../T/Third_Age_2880.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

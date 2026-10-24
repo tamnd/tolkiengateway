@@ -83,11 +83,11 @@ Bộ phim vẫn chưa được người hâm mộ Tolkien biết đến cho đ�
 
 ## Xem thêm {#See_also}
 
-- [Hình ảnh trong *The Hobbit* (phim 1967)](<../../category/I/Images_from_The_Hobbit_(1967_film).md>)
+- [Hình ảnh trong *The Hobbit* (phim năm 1967)](<../../category/I/Images_from_The_Hobbit_(1967_film).md>)
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="extiw" href="http://en.wikipedia.org/wiki/The_Hobbit_(1967_film)" title="wikipedia:The Hobbit (1967 film)">The Hobbit (phim 1967)</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
+- <a class="extiw" href="http://en.wikipedia.org/wiki/The_Hobbit_(1967_film)" title="wikipedia:The Hobbit (1967 film)">The Hobbit (phim năm 1967)</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
 
 <span></span>
 

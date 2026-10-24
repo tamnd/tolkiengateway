@@ -93,7 +93,7 @@ Iorlas là chú của [Bergil](../B/Bergil.md), anh trai hoặc anh rể của [
 
 <b><a href="../_/2015.md" title="2015">2015</a>: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>Iorlas is <a href="../B/Beregond.md" title="Beregond">Beregond</a>&#39;s brother and is first found  on the seventh level of pre-battle <a href="../M/Minas_Tirith.md" title="Minas Tirith">Minas Tirith</a>. During the siege of the city he is struck by a fallen stone, but is protected by his helmet, suffering only what he calls a &#34;dizziness&#34;.</dd></dl>
+<dl><dd>Iorlas is <a href="../B/Beregond.md" title="Beregond">Beregond</a>&#39;s brother and is first found on the seventh level of pre-battle <a href="../M/Minas_Tirith.md" title="Minas Tirith">Minas Tirith</a>. During the siege of the city he is struck by a fallen stone, but is protected by his helmet, suffering only what he calls a &#34;dizziness&#34;.</dd></dl>
 
 <span></span>
 

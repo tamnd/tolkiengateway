@@ -31,7 +31,7 @@ images:
 </blockquote></div></div>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Part of the attraction of [The Lord of the Rings] is, I think,  glimpses of a large history in the background: an attraction like that of viewing far off an unvisited island, or seeing the towers of a distant city gleaming in a sunlit mist.
+<p>Part of the attraction of [The Lord of the Rings] is, I think, glimpses of a large history in the background: an attraction like that of viewing far off an unvisited island, or seeing the towers of a distant city gleaming in a sunlit mist.
 </p>
 <p class="tg-quote-footer"><cite>J.R.R. Tolkien<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

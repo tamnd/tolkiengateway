@@ -52,7 +52,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Hildifons là con thứ sáu trong số mười hai người con của [the Old Took](../G/Gerontius_Took.md). Ông đã đi du lịch bên ngoài [ Shire](../T/The_Shire.md) và không bao giờ quay trở lại.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Khi [Bilbo Baggins](../B/Bilbo_Baggins.md) còn nhỏ ông thường quấy rầy [Gandalf](../G/Gandalf.md) để biết thông tin về [Hobbit](Hobbits.md) những người đã "ra đi", chẳng hạn như chú Hildifons.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Hildifons là con thứ sáu trong số mười hai người con của [Old Took](../G/Gerontius_Took.md). Ông đã đi du lịch bên ngoài [ Shire](../T/The_Shire.md) và không bao giờ quay trở lại.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Khi [Bilbo Baggins](../B/Bilbo_Baggins.md) còn nhỏ ông thường quấy rầy [Gandalf](../G/Gandalf.md) để biết thông tin về [Hobbit](Hobbits.md) những người đã "ra đi", chẳng hạn như chú Hildifons.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

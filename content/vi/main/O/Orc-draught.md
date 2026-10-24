@@ -66,7 +66,7 @@ Trong bản phác thảo trước đó, [Frodo Baggins](../F/Frodo_Baggins.md) �
 		</li>
 </ul>
 
-<b><a href="../_/1978.md" title="1978">1978</a>: <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim 1978)</a>:</b>
+<b><a href="../_/1978.md" title="1978">1978</a>: <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim năm 1978)</a>:</b>
 
 <dl><dd>An Orc steals another&#39;s draught and hits him with his mace, throwing him backward. He feeds the draught first to <a class="mw-redirect" href="../M/Meriadoc.md" title="Meriadoc">Merry</a> and then to <a href="../P/Peregrin_Took.md" title="Peregrin Took">Pippin</a>.</dd></dl>
 
@@ -86,7 +86,7 @@ Trong bản phác thảo trước đó, [Frodo Baggins](../F/Frodo_Baggins.md) �
 
 <b><a href="../_/2015.md" title="2015">2015</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Card_Game.md" title="The Lord of the Rings: The Card Game">The Lord of the Rings: Trò chơi bài</a></i>:</b>
 
-<dl><dd>The draught is depicted in the <a href="../_/2015.md" title="2015">2015</a> expansion <i>The Uruk-hai Nightmare</i> on the &#34;Orc-draught&#34; card, illustrated by Rafal Hrynkiewicz . The card has the following effects:</dd></dl>
+<dl><dd>The draught is depicted in the <a href="../_/2015.md" title="2015">2015</a> expansion <i>The Uruk-hai Nightmare</i> on the &#34;Orc-draught&#34; card, illustrated by Rafal Hrynkiewicz. The card has the following effects:</dd></dl>
 
 > Nguy hiểm. Tăng đột biến.<br>Khi lộ diện: Loại bỏ một đồng minh mà bạn điều khiển hoặc tăng giá trị truy đuổi lên 1.<br>Bóng Tối: Tiêu diệt nhân vật bạn điều khiển.
 

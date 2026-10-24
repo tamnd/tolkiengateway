@@ -53,7 +53,7 @@ fry them, boil them and eat them hot?
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1977: <a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>The Hobbit</i> (phim 1977)</a>:</b>
+<b>1977: <a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>The Hobbit</i> (phim năm 1977)</a>:</b>
 
 <dl><dd>The <a href="../O/Orcs.md" title="Orcs">Goblins</a> sing a version of the song while they chase <a href="../T/Thorin_and_Company.md" title="Thorin and Company">Thorin and Company</a>. It is titled &#34;<a href="Funny_Little_Things.md" title="Funny Little Things">Funny Little Things</a>&#34; on <a href="../T/The_Hobbit%253A_The_Complete_Original_Soundtrack.md" title="The Hobbit: The Complete Original Soundtrack">the soundtrack</a>.</dd></dl>
 

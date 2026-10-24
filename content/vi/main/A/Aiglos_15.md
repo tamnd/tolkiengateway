@@ -51,7 +51,7 @@ infobox:
 - **Bài viết và tiểu luận**
     - "Một anh hùng đến với Vua, hay Địa chất giúp nói về sử thi như thế nào"
         - Bởi: Maria Błaszkiewicz
-    - "Bảy cho các lãnh chúa Người lùn..."
+    - "Bảy cho các lãnh chúa Người Lùn..."
         - Bởi: Magdalena Kudelska 'Geirve'
     - "J.R.R. Tolkien và Huyền thoại Atlantis, hay Sự hữu ích của những giấc mơ và việc tạo ra huyền thoại"
         - Bởi: [Michał Leśniewski 'M.L.'](../M/Michał_Leśniewski.md)

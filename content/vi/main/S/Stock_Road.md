@@ -26,7 +26,7 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Stock_Road.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/48/The_Lord_of_the_Rings_Online_-_Stock_Road.jpg/300px-The_Lord_of_the_Rings_Online_-_Stock_Road.jpg" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/48/The_Lord_of_the_Rings_Online_-_Stock_Road.jpg/450px-The_Lord_of_the_Rings_Online_-_Stock_Road.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/48/The_Lord_of_the_Rings_Online_-_Stock_Road.jpg/600px-The_Lord_of_the_Rings_Online_-_Stock_Road.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>Stock Road in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-Đường **Stock** là đường ở [the Shire](../T/The_Shire.md).
+Đường **Stock** là đường ở [Shire](../T/The_Shire.md).
 
 Nó bắt đầu từ làng [Stock](Stock.md), đi qua [Woody End](../W/Woody_End.md) và [Green Hills](../G/Green_Hills.md).
 

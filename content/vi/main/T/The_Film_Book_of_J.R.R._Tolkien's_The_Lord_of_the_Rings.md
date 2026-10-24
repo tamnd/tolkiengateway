@@ -40,7 +40,7 @@ infobox:
 
 Không có tác phẩm tiểu thuyết hiện đại nào đạt được thành công phi thường như *[The Lord of the Rings](The_Lord_of_the_Rings.md)* của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Giờ đây, câu chuyện phi thường về giả tưởng, chủ nghĩa anh hùng và trí tưởng tượng này đã được dựng thành phim hoạt hình dài tập, do [Ralph Bakshi](../R/Ralph_Bakshi.md) đạo diễn và [Saul Zaentz](../S/Saul_Zaentz.md) sản xuất.
 
-Phim kể về câu chuyện của [hobbit](../H/Hobbits.md) [Frodo Baggins](../F/Frodo_Baggins.md), người rời bỏ ngôi nhà yên bình của mình ở [the Shire](The_Shire.md) và vượt qua núi non và đồng bằng [Trung Địa](../M/Middle-earth.md) chịu đựng gian khổ và nguy hiểm trong nỗ lực phá hủy [Chiếc Nhẫn Chúa](The_One_Ring.md): chiếc nhẫn không được rơi vào tay [Sauron](../S/Sauron.md), Chúa tể Bóng tối.
+Phim kể về câu chuyện của [hobbit](../H/Hobbits.md) [Frodo Baggins](../F/Frodo_Baggins.md), người rời bỏ ngôi nhà yên bình của mình ở [Shire](The_Shire.md) và vượt qua núi non và đồng bằng [Trung Địa](../M/Middle-earth.md) chịu đựng gian khổ và nguy hiểm trong nỗ lực phá hủy [Chiếc Nhẫn Chúa](The_One_Ring.md): chiếc nhẫn không được rơi vào tay [Sauron](../S/Sauron.md), Chúa tể Bóng tối.
 
 *The Lord of the Rings* sẽ được phát hành dưới dạng hai bộ phim và cuốn sách này tiếp nối câu chuyện của bộ phim đầu tiên. Sử dụng văn bản dựa trên kịch bản phim và tuyển chọn các hình ảnh sống động và đầy màu sắc từ bộ phim, nó kể câu chuyện về cuộc khủng hoảng ở [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md); đến mức mà tình bạn của những người đồng hành cùng Frodo trong sứ mệnh của ông bị phá vỡ, và vận may của chính Frodo đang bị đe dọa
 

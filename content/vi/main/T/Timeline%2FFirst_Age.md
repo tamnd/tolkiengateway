@@ -851,13 +851,13 @@ Trong *Grey Annals*, chính [Blodren](../B/Blodren.md) là người phản bội
 
 Trong phiên bản cuối cùng của *The Tale of Years*,<sup id="cite_ref-VD_255-1" class="reference"><a href="#cite_note-VD-255">[25]</a></sup> Húrin lấy kho báu từ Nargothrond đến Menegroth ở Y.S. 501, dựa trên hầu hết các phiên bản của câu chuyện, Mím cũng bị giết vào năm đó. Tuy nhiên *Wanderings of Hurin* thể hiện rõ ràng ở chỗ cái chết của Mím xảy ra vào năm Y.S. 502, điều này cho thấy rằng đó cũng là năm Húrin và người của ông ta đã giành được kho báu Nargothrond, tương đương với việc thu được Nauglamír trong phiên bản *Silmarillion* đã xuất bản. Do đó, việc đúc kho báu dưới chân Thingol cũng sẽ phải diễn ra ở Y.S. 502.
 
-Phiên bản tương tự của *The Tale of Years* đặt cái chết của Thingol vào Y.S. 503, năm xảy ra cuộc xâm lược Doriath của Người lùn. Trong *Silmarillion* được xuất bản, cái chết của Thingol trùng hợp với cuộc cãi vã của ông ta với Người Lùn, mà *The Tale of Years* đặt trong Y.S. 502.
+Phiên bản tương tự của *The Tale of Years* đặt cái chết của Thingol vào Y.S. 503, năm xảy ra cuộc xâm lược Doriath của Người Lùn. Trong *Silmarillion* được xuất bản, cái chết của Thingol trùng hợp với cuộc cãi vã của ông ta với Người Lùn, mà *The Tale of Years* đặt trong Y.S. 502.
 
 ### Y.S. 503 {#Y.S._503}
 
-Trong các phiên bản của Tolkien, bao gồm cả phiên bản cuối cùng của *The Tale of Years*, Melian không quay trở lại Valinor cho đến sau cuộc xâm lược của Người lùn Doriath, trong Y.S. 503 hoặc Y.S. 504.
+Trong các phiên bản của Tolkien, bao gồm cả phiên bản cuối cùng của *The Tale of Years*, Melian không quay trở lại Valinor cho đến sau cuộc xâm lược của Người Lùn Doriath, trong Y.S. 503 hoặc Y.S. 504.
 
-Cái chết của Mablung trong cuộc xâm lược Doriath của Người lùn không được tìm thấy trong bất kỳ tác phẩm nào khác ngoài *Silmarillion* đã xuất bản. Mablung là một trong những [nguồn của Dírhaval](../D/Dírhaval.md),<sup id="cite_ref-283" class="reference"><a href="#cite_note-283">[33]</a></sup> và Dírhaval không được biết là đã từng ở Doriath, chỉ có Các Cảng Sirion.
+Cái chết của Mablung trong cuộc xâm lược Doriath của Người Lùn không được tìm thấy trong bất kỳ tác phẩm nào khác ngoài *Silmarillion* đã xuất bản. Mablung là một trong những [nguồn của Dírhaval](../D/Dírhaval.md),<sup id="cite_ref-283" class="reference"><a href="#cite_note-283">[33]</a></sup> và Dírhaval không được biết là đã từng ở Doriath, chỉ có Các Cảng Sirion.
 
 Trong *The Tale of Years*, Curufin và Celegorm phục kích Người Lùn khi họ trở về từ Doriath và địa điểm được đặt tên là Fords của Ascar thay vì Sarn Athrad. Beren không có trong phiên bản này. Các phiên bản trong đó Beren một lần nữa có liên quan đến Trận Sarn Athrad, cụ thể là [Liên quan đến ... 'The Hoard'](../C/Concerning_..._'The_Hoard'.md) và [Thư 248](../L/Letter_248.md), được viết sau *The Tale of Years*.
 

@@ -15,7 +15,7 @@ images:
   - "CdxIconInfoFilled.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">&#34;Culduin&#34; is a concept which has only appeared in an  adaptation of the works of <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">&#34;Culduin&#34; is a concept which has only appeared in an adaptation of the works of <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>.</div></div>
 
 **Culduin** là con sông ở [Nurn](../N/Nurn.md) ở [Mordor](../M/Mordor.md) chảy từ phần phía đông của đoạn chạy từ tây sang đông của dãy núi [Ephel Dúath](../E/Ephel_Dúath.md) phía nam về phía bắc vào [Biển Nurnen](../S/Sea_of_Nurnen.md) trên bờ phía nam của nó. Con sông không có tên trên [bản đồ](../G/General_Map_of_Middle-earth.md) được vẽ bởi [Christopher Tolkien](Christopher_Tolkien.md) để xuất bản với *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* dựa trên [bản đồ](../T/The_Third_Map_of_The_Lord_of_the_Rings.md) được vẽ bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 

@@ -24,7 +24,7 @@ langlinks:
 
 **Người bảo vệ chìa khóa** là một chức vụ cấp cao của [Minas Tirith](../M/Minas_Tirith.md) ở [Gondor](../G/Gondor.md).
 
-Vào thời điểm [Cuộc chiến Nhẫn](War_of_the_Ring.md), vị trí này được lấp đầy bởi [Húrin the Tall](<../H/Húrin_(Warden_of_the_Keys).md>), người có biệt danh là "of the Keys". Khi đăng quang [Aragorn](../A/Aragorn.md), ông đã mở một chướng ngại vật (đặt thay cho cánh cổng bị phá hủy) tại [cổng Minas Tirith](../G/Great_Gate_of_Minas_Tirith.md) cho vị vua mới. Ngoài ra, những nhiệm vụ và trách nhiệm nào khác của văn phòng này vẫn chưa được xác định.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Vào thời điểm [Cuộc chiến Nhẫn](War_of_the_Ring.md), vị trí này được lấp đầy bởi [Húrin Tall](<../H/Húrin_(Warden_of_the_Keys).md>), người có biệt danh là "of the Keys". Khi đăng quang [Aragorn](../A/Aragorn.md), ông đã mở một chướng ngại vật (đặt thay cho cánh cổng bị phá hủy) tại [cổng Minas Tirith](../G/Great_Gate_of_Minas_Tirith.md) cho vị vua mới. Ngoài ra, những nhiệm vụ và trách nhiệm nào khác của văn phòng này vẫn chưa được xác định.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

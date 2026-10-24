@@ -82,7 +82,7 @@ infobox:
 <p class="tg-quote-footer"><cite><i><a href="../T/The_Hobbit.md" title="The Hobbit">The Hobbit</a></i>, &#34;<a href="../A/An_Unexpected_Party.md" title="An Unexpected Party">An Unexpected Party</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Dwalin** là một [Người lùn](Dwarves.md) thuộc [Gia tộc Durin](../H/House_of_Durin.md). Ông là con trai của [Fundin](../F/Fundin.md) và là em trai của [Balin](../B/Balin.md). Cùng với Balin, Dwalin đã tham gia hai cuộc viễn chinh nhằm giành lại quê hương đã mất của dân tộc mình, [Ngọn Núi Cô Đơn](../L/Lonely_Mountain.md), khỏi con rồng [Smaug](../S/Smaug.md); cuộc viễn chinh đầu tiên thất bại, do Vua [Thráin](../T/Thráin.md) lãnh đạo, còn cuộc thứ hai thành công, trong đó ông là thành viên của [Đoàn tùy tùng của Thorin](../T/Thorin_and_Company.md). Dwalin sống sót sau cuộc phiêu lưu và [Trận chiến Năm đạo quân](../B/Battle_of_Five_Armies.md) tiếp sau đó, rồi sống trong sự giàu sang và huy hoàng tại Ngọn Núi Cô Đơn cho đến tận [Kỷ thứ Tư](../F/Fourth_Age.md).
+**Dwalin** là một [Người Lùn](Dwarves.md) thuộc [Gia tộc Durin](../H/House_of_Durin.md). Ông là con trai của [Fundin](../F/Fundin.md) và là em trai của [Balin](../B/Balin.md). Cùng với Balin, Dwalin đã tham gia hai cuộc viễn chinh nhằm giành lại quê hương đã mất của dân tộc mình, [Ngọn Núi Cô Đơn](../L/Lonely_Mountain.md), khỏi con rồng [Smaug](../S/Smaug.md); cuộc viễn chinh đầu tiên thất bại, do Vua [Thráin](../T/Thráin.md) lãnh đạo, còn cuộc thứ hai thành công, trong đó ông là thành viên của [Đoàn tùy tùng của Thorin](../T/Thorin_and_Company.md). Dwalin sống sót sau cuộc phiêu lưu và [Trận chiến Năm đạo quân](../B/Battle_of_Five_Armies.md) tiếp sau đó, rồi sống trong sự giàu sang và huy hoàng tại Ngọn Núi Cô Đơn cho đến tận [Kỷ thứ Tư](../F/Fourth_Age.md).
 
 ## Lịch sử {#History}
 
@@ -126,7 +126,7 @@ Khi Bilbo thu dọn một số món đồ linh tinh vào [Kỷ Đệ Tam](../T/T
 
 ## Từ nguyên học {#Etymology}
 
-Trong [thần thoại Bắc Âu](../N/Norse_mythology.md), *Dvalinn* là một thủ lĩnh Người lùn.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> Nguồn gốc của cái tên này chưa được xác định chắc chắn; các cách giải thích từ nguyên được đề xuất gồm “người chìm trong trạng thái xuất thần”,<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> “tê liệt” và “kẻ chậm chạp”.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> Cả hai từ *dvalen* (“ngủ”) và *dvelja* (“trì hoãn”) đều bắt nguồn từ cùng một gốc từ.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup>
+Trong [thần thoại Bắc Âu](../N/Norse_mythology.md), *Dvalinn* là một thủ lĩnh Người Lùn.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> Nguồn gốc của cái tên này chưa được xác định chắc chắn; các cách giải thích từ nguyên được đề xuất gồm “người chìm trong trạng thái xuất thần”,<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> “tê liệt” và “kẻ chậm chạp”.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> Cả hai từ *dvalen* (“ngủ”) và *dvelja* (“trì hoãn”) đều bắt nguồn từ cùng một gốc từ.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup>
 
 ## Gia phả {#Genealogy}
 
@@ -208,7 +208,7 @@ Trong phiên bản đầu tiên của *[The Hobbit](../T/The_Hobbit.md)*, chính
 
 <dl><dd>Dwalin is omitted. <a href="../T/Thorin.md" title="Thorin">Thorin Oakenshield</a> only travels with an unnamed guard and the princess of Dale.<sup id="cite_ref-Deitch_19-0" class="reference"><a href="#cite_note-Deitch-19">[19]</a></sup></dd></dl>
 
-<b>1977: <a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>The Hobbit</i> (phim 1977)</a>:</b>
+<b>1977: <a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>The Hobbit</i> (phim năm 1977)</a>:</b>
 
 <dl><dd>Dwalin does not have a blue beard, but a white one with a long nose and a green hood (looking as Balin, though he wears a red hood and glasses). He speaks only one line on his own (by <a href="../P/Paul_Frees.md" title="Paul Frees">Paul Frees</a>), when the Dwarves are in front of the <a href="../B/Back_Door.md" title="Back Door">Back Door</a> saying&#34; &#34;Well, what now?&#34;; otherwise, he only speaks in unison with the rest of the Company though it is unknown whether he survived the Battle of the Five Armies, as seven dwarves passed away during the battle.</dd></dl>
 

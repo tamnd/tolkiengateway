@@ -46,7 +46,7 @@ infobox:
 <p class="tg-quote-footer"><cite>Daddy Twofoot on the <a href="../O/Old_Forest.md" title="Old Forest">Old Forest</a><sup id="cite_ref-ALEP_1-0" class="reference"><a href="#cite_note-ALEP-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div></center>
 
-**Daddy Twofoot** là [Hobbit](../H/Hobbits.md) của [the Shire](../T/The_Shire.md) vào cuối [Kỷ Đệ Tam](../T/Third_Age.md).
+**Daddy Twofoot** là [Hobbit](../H/Hobbits.md) của [Shire](../T/The_Shire.md) vào cuối [Kỷ Đệ Tam](../T/Third_Age.md).
 
 ## Lịch sử {#History}
 

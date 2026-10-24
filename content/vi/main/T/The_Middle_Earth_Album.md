@@ -32,6 +32,6 @@ images:
 - Mithrandir
 - Con quỷ già
 - Quỷ già và cô gái
-- Người lùn và Orc (Truyện Về Balin Râu Dài)
+- Người Lùn và Orc (Truyện Về Balin Râu Dài)
 - Không có vương miện cho Balin
 - Balin Râu dài

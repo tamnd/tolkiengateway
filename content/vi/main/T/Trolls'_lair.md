@@ -60,7 +60,7 @@ Trong bản thảo của *[The Hobbit](The_Hobbit.md)*, Công ty đã tìm thấ
 
 <dl><dd>The Trolls&#39; lair features in this adaptation without any difference from book.</dd></dl>
 
-<b>1977: <i><a href="The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)">The Hobbit (phim 1977)</a></i>:</b>
+<b>1977: <i><a href="The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)">The Hobbit (phim năm 1977)</a></i>:</b>
 
 <dl><dd>In this film, the Trolls&#39; lair does not have a locked door as in the book.</dd></dl>
 
@@ -78,7 +78,7 @@ Trong bản thảo của *[The Hobbit](The_Hobbit.md)*, Công ty đã tìm thấ
 
 <b>2012: <i><a href="The_Hobbit%253A_An_Unexpected_Journey.md" title="The Hobbit: An Unexpected Journey">The Hobbit: An Unexpected Journey</a></i>:</b>
 
-<dl><dd>The Trolls&#39; lair appears in the first film  of <a href="The_Hobbit_(film_series).md" title="The Hobbit (film series)"><i>The Hobbit</i> film series</a> as an open tunnel with no locked door blocking it. Gandalf finds <a href="../S/Sting.md" title="Sting">Sting</a> inside the cave and gives it to Bilbo.</dd></dl>
+<dl><dd>The Trolls&#39; lair appears in the first film of <a href="The_Hobbit_(film_series).md" title="The Hobbit (film series)"><i>The Hobbit</i> film series</a> as an open tunnel with no locked door blocking it. Gandalf finds <a href="../S/Sting.md" title="Sting">Sting</a> inside the cave and gives it to Bilbo.</dd></dl>
 
 <span></span>
 

@@ -254,7 +254,7 @@ Trong bản thảo trước khi xuất bản của *[The Lord of the Rings](../T
 
 <dl><dd>The voice of Merry is provided by Michael Collins.<sup id="cite_ref-RT1672_38-0" class="reference"><a href="#cite_note-RT1672-38">[38]</a></sup></dd></dl>
 
-<b>1978: <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim 1978)</a>:</b>
+<b>1978: <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim năm 1978)</a>:</b>
 
 <dl><dd>The voice of Merry was provided by <a href="../S/Simon_Chandler.md" title="Simon Chandler">Simon Chandler</a>.</dd></dl>
 
@@ -262,7 +262,7 @@ Trong bản thảo trước khi xuất bản của *[The Lord of the Rings](../T
 
 <dl><dd>The voice of Merry was provided by Pat Franklyn.</dd></dl>
 
-<b>1980: <a href="../T/The_Return_of_the_King_(1980_film).md" title="The Return of the King (1980 film)"><i>The Return of the King</i> (phim 1980)</a>:</b>
+<b>1980: <a href="../T/The_Return_of_the_King_(1980_film).md" title="The Return of the King (1980 film)"><i>The Return of the King</i> (phim năm 1980)</a>:</b>
 
 <dl><dd>The voice of Merry was provided by <a href="../C/Casey_Kasem.md" title="Casey Kasem">Casey Kasem</a>.</dd></dl>
 

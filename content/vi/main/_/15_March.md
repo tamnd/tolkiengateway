@@ -78,7 +78,7 @@ Sự kiện xảy ra vào ngày 15 tháng 3.
 - [T.A.](../T/Third_Age.md) [2510](../T/Third_Age_2510.md):
     - [Borondir](../B/Borondir.md) đang trên đường tìm kiếm [Éothéod](Éothéod.md).
 - [T.A.](../T/Third_Age.md) [2941](../T/Third_Age_2941.md):
-    - [Gandalf](../G/Gandalf.md) gặp [Thorin](../T/Thorin.md) tại [the Prancing Pony](../T/The_Prancing_Pony.md) và họ nghĩ ra kế hoạch loại bỏ [Erebor](../L/Lonely_Mountain.md) [Smaug](../S/Smaug.md).
+    - [Gandalf](../G/Gandalf.md) gặp [Thorin](../T/Thorin.md) tại [Prancing Pony](../T/The_Prancing_Pony.md) và họ nghĩ ra kế hoạch loại bỏ [Erebor](../L/Lonely_Mountain.md) [Smaug](../S/Smaug.md).
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
     - Sáng sớm [Vua Phù thủy](../W/Witch-king.md) đã phá [Cổng](../G/Great_Gate_of_Minas_Tirith.md) của [Minas Tirith](../M/Minas_Tirith.md).
     - [Denethor](../D/Denethor.md) tự thiêu trên giàn thiêu. [Faramir](../F/Faramir.md) được [Gandalf](../G/Gandalf.md) và [Beregond](../B/Beregond.md) giải cứu và đưa đến [Nhà chữa bệnh](../H/Houses_of_Healing.md).

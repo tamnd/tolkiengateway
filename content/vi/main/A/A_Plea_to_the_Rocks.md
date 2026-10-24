@@ -43,7 +43,7 @@ infobox:
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
-**A Plea to the Rocks** là bài hát thứ 24 của *[The Lord of the Rings: The Rings of Power (Season One: Amazon Original Series Soundtrack)](<../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power_(Season_One%253A_Amazon_Original_Series_Soundtrack).md>)*. Bài hát được hát bởi [Sophia Nomvete](../S/Sophia_Nomvete.md) với vai [Người lùn](../D/Dwarves.md) [Disa](../D/Disa.md).
+**A Plea to the Rocks** là bài hát thứ 24 của *[The Lord of the Rings: The Rings of Power (Season One: Amazon Original Series Soundtrack)](<../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power_(Season_One%253A_Amazon_Original_Series_Soundtrack).md>)*. Bài hát được hát bởi [Sophia Nomvete](../S/Sophia_Nomvete.md) với vai [Người Lùn](../D/Dwarves.md) [Disa](../D/Disa.md).
 
 ## Lời bài hát {#Lyrics}
 

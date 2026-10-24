@@ -19,7 +19,7 @@ infobox:
     value: "The Shire"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">&#34;Siragalë&#34; is a concept which has only appeared in an  adaptation of the works of <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">&#34;Siragalë&#34; is a concept which has only appeared in an adaptation of the works of <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>.</div></div>
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Siragalë</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>General Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Other names</th><td class="tg-infobox-data">Siremyn-galador</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>History</span></th></tr><tr><th scope="row" class="tg-infobox-label">Followed By</th><td class="tg-infobox-data"><a href="../T/The_Shire.md" title="The Shire">The Shire</a></td></tr></tbody></table>
 
@@ -31,7 +31,7 @@ Một số [Tiên Xanh](../G/Green-elves.md) chạy trốn [Morgoth](../M/Morgot
 
 Sirannar chưa bao giờ xây dựng bất kỳ thị trấn nào và Merethorn đã đi khắp vương quốc của mình, thiết lập triều đình ở bất cứ nơi nào ông cần.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 1]</a></sup> Con Người bắt đầu đơn giản hóa tên thành “Sirigalë”, và cư dân của nó là những người đầu tiên trong số [Nandor](../N/Nandor.md) được gọi là [Silvan Tiên tộc](Silvan_Elves.md).
 
-Hai tuyến đường chính, [Đường mòn phía Đông](../E/East_Road.md) ([S.](Sindarin.md) *Len Romen*) và Đường mòn Đỏ-Người lùn ([S.](Sindarin.md) *Len Caraug*), gặp nhau tại [Michinnec](../M/Michel_Delving.md) ở Sirigalë. Từ đó Merethorn đã xử lý Người Lùn và Con Người.
+Hai tuyến đường chính, [Đường mòn phía Đông](../E/East_Road.md) ([S.](Sindarin.md) *Len Romen*) và Đường mòn Đỏ-Người Lùn ([S.](Sindarin.md) *Len Caraug*), gặp nhau tại [Michinnec](../M/Michel_Delving.md) ở Sirigalë. Từ đó Merethorn đã xử lý Người Lùn và Con Người.
 
 Merethorn đã bị giết bởi một con Rồng Cát trong [Cuộc chiến của Liên minh Cuối cùng](../W/War_of_the_Last_Alliance.md), và Elindiel phải chịu trách nhiệm về Lindon. Cô từ chối sự cai trị sau này của [Círdan](../C/Círdan.md), và ở [T.A.](../T/Third_Age.md) [10](../T/Third_Age_10.md) Sirigalë trở thành một tỉnh Elvish của [Arnor](../A/Arnor.md) khi cô thề trung thành với vua của nó.<sup id="cite_ref-taleofyears_3-0" class="reference"><a href="#cite_note-taleofyears-3">[2]</a></sup> Việc mất Merethorn đã khiến nhiều người Sirannar phải đi thuyền về phía tây, và do đó Sirigalë chưa bao giờ thực sự phát triển mạnh mẽ. Số lượng ngày càng giảm của họ dẫn đến nhu cầu ngày càng tăng về các lãnh chúa nam tính để giữ cho tỉnh không có bọn cướp. <sup id="cite_ref-history_1-1" class="reference"><a href="#cite_note-history-1">[1]</a></sup>
 

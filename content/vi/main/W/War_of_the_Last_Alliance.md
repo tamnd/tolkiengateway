@@ -144,7 +144,7 @@ Trong khi đội quân Orc của Sauron gần như bị tiêu diệt trong Chi�
 		</li>
 </ul>
 
-<b>1978: <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim 1978)</a>:</b>
+<b>1978: <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim năm 1978)</a>:</b>
 
 <dl><dd>The entire venture of the <a href="../L/Last_Alliance_of_Elves_and_Men.md" title="Last Alliance of Elves and Men">Last Alliance</a> was combined into a short silhouette play, in which <a href="../I/Isildur.md" title="Isildur">Isildur</a> cut the <a href="../T/The_One_Ring.md" title="The One Ring">Ring</a> off <a href="../S/Sauron.md" title="Sauron">Sauron</a>&#39;s hand in battle - not when Sauron was already conquered.</dd></dl>
 

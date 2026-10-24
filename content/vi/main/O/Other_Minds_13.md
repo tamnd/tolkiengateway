@@ -46,7 +46,7 @@ infobox:
     - Bởi Neville Percy
 - "Nghệ thuật phép thuật-với chỉ số TOR"
     - Bởi Daniel Vacaflores
-- "Cái Người lùn *Iglismêk*"
+- "Cái Người Lùn *Iglismêk*"
     - Bởi Neville Percy
 - "Dân số và đô thị hóa ở Eriador"
     - Bởi Thomas Morwinsky

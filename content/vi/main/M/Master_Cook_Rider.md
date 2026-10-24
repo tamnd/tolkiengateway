@@ -61,7 +61,7 @@ Ba năm sau, Rider đột ngột từ biệt Alf và rời đi, nói rằng anh 
 </li>
 <li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><i><a href="../S/Smith_of_Wootton_Major.md" title="Smith of Wootton Major">Smith of Wootton Major</a></i>/<i><a href="../F/Farmer_Giles_of_Ham.md" title="Farmer Giles of Ham">Farmer Giles of Ham</a></i>, Thirtieth Printing <a href="../B/Ballantine_Books.md" title="Ballantine Books">Ballantine Books</a> 1991 p. 11.</span>
 </li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">ibid., p. 44. &#34;<i>He left it [the fay-star] behind in the hope that it might come to you, his only grandchild.  So he told me, for he thought that I could arrange that.</i>&#34;</span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">ibid., p. 44. &#34;<i>He left it [the fay-star] behind in the hope that it might come to you, his only grandchild. So he told me, for he thought that I could arrange that.</i>&#34;</span>
 </li>
 <li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">ibid., p. 12.</span>
 </li>

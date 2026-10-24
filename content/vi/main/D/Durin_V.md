@@ -68,7 +68,7 @@ Giống như tất cả các Durin sau <a class="mw-redirect mw-disambig" href="
 
 Một tài khoản cho rằng cái tên *Durin* là từ chỉ "vua" trong ngôn ngữ của <a class="mw-redirect mw-disambig" href="../M/Men_of_the_North.md" title="Men of the North">Con Người miền Bắc</a> vào đầu [Kỷ Đệ Nhị](../S/Second_Age.md).<sup id="cite_ref-relations_1-0" class="reference"><a href="#cite_note-relations-1">[1]</a></sup>
 
-Một tài khoản khác nói rằng *Durinn* là một trong những Người lùn trong *[Dvergatal](../V/Völuspá.md)*. Tên có nghĩa là "Buồn ngủ".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Một tài khoản khác nói rằng *Durinn* là một trong những Người Lùn trong *[Dvergatal](../V/Völuspá.md)*. Tên có nghĩa là "Buồn ngủ".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Phả hệ {#Genealogy}
 

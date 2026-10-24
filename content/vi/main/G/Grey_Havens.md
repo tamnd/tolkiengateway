@@ -57,7 +57,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-### Kỷ thứ Hai {#Second_Age}
+### Kỷ Đệ Nhị {#Second_Age}
 
 Được thành lập bởi các [Tiên tộc Lindon](../E/Elves_of_Lindon.md) vào năm [S.A.](../S/Second_Age.md) [1](../S/Second_Age_1.md),<sup id="cite_ref-SA_1-1" class="reference"><a href="#cite_note-SA-1">[1]</a></sup> Grey Havens nổi tiếng với bến cảng tốt và nhiều con tàu; những con tàu này được bất kỳ ai thuộc [Eldar](../E/Eldar.md) sử dụng để rời Trung Địa đến [Eressëa](../E/Eressëa.md) hoặc [Valinor](../V/Valinor.md). [Círdan](../C/Círdan.md) là Chúa tể của Bến cảng kể từ khi nơi này được thành lập cho đến tận [Kỷ thứ Tư](../F/Fourth_Age.md).<sup id="cite_ref-rings_4-0" class="reference"><a href="#cite_note-rings-4">[4]</a></sup>
 
@@ -65,7 +65,7 @@ Vào năm [600](../S/Second_Age_600.md) thuộc [S.A.](../S/Second_Age.md), con 
 
 Trong [Cuộc chiến giữa Tiên tộc và Sauron](../W/War_of_the_Elves_and_Sauron.md), [Lhûn](../L/Lhûn.md) được giữ vững trong nỗ lực phòng thủ tuyệt vọng nhằm bảo vệ Bến cảng, sau khi [Sauron](../S/Sauron.md) chinh phục gần như toàn bộ [Eriador](../E/Eriador.md). Những người phòng thủ bị vây hãm đã được cứu viện nhờ hạm đội của [Tar-Minastir](../T/Tar-Minastir.md) đến nơi, và quân đội của Sauron bị đẩy lui.<sup id="cite_ref-Galadriel_6-0" class="reference"><a href="#cite_note-Galadriel-6">[6]</a></sup>
 
-### Kỷ thứ Ba {#Third_Age}
+### Kỷ Đệ Tam {#Third_Age}
 
 Sau khi [Gil-galad](Gil-galad.md) tử trận (vào thời kỳ của các [Quốc vương Arnor](../K/Kings_of_Arnor.md)), Grey Havens vẫn là nơi cư trú của cộng đồng [Noldor](../N/Noldor.md) đông đảo nhất ở [Trung Địa](../M/Middle-earth.md), ngoài [Rivendell](../R/Rivendell.md) thuộc [Eriador](../E/Eriador.md). [Cirdan](../C/Cirdan.md) tiếp tục giữ chức Chúa tể Bến cảng và cai quản các [Tiên tộc Lindon](../E/Elves_of_Lindon.md) từ Mithlond.<sup id="cite_ref-rings_4-1" class="reference"><a href="#cite_note-rings-4">[4]</a></sup><sup id="cite_ref-eriador_7-0" class="reference"><a href="#cite_note-eriador-7">[7]</a></sup>
 

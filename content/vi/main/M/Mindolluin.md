@@ -42,7 +42,7 @@ infobox:
 
 Mindolluin là một ngọn núi cao có đỉnh phủ tuyết và những thung lũng cao, in bóng tím đậm trong ánh bình minh.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Ở sườn phía đông của ngọn núi có một bờ vai hẹp nối với [Đồi Canh gác](../H/Hill_of_Guard.md)<sup id="cite_ref-MT752_5-0" class="reference"><a href="#cite_note-MT752-5">[5]</a></sup> trên đó thành phố [Minas Tirith](Minas_Tirith.md) được xây dựng<sup id="cite_ref-N_6-0" class="reference"><a href="#cite_note-N-6">[6]</a></sup> ngang tầm bức tường thứ năm của thành phố.<sup id="cite_ref-MT752_5-1" class="reference"><a href="#cite_note-MT752-5">[5]</a></sup>
 
-Ở chân phía nam của Núi Mindolluin là một con đường dốc cổ xưa , dẫn lên núi đến một thánh địa cao xa phía trên thành phố, nơi chỉ có [Các vị vua của Gondor](../K/Kings_of_Gondor.md) quen đi. Đứng ở vị trí này người ta có thể nhìn qua vách núi để đến những tòa tháp của thành phố Minas Tirith xa bên dưới.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+Ở chân phía nam của Núi Mindolluin là một con đường dốc cổ xưa, dẫn lên núi đến một thánh địa cao xa phía trên thành phố, nơi chỉ có [Các vị vua của Gondor](../K/Kings_of_Gondor.md) quen đi. Đứng ở vị trí này người ta có thể nhìn qua vách núi để đến những tòa tháp của thành phố Minas Tirith xa bên dưới.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
 ## Lịch sử {#History}
 

@@ -31,7 +31,7 @@ infobox:
 
 ## Nhân vật {#Characters}
 
-Người chơi mới có thể là [Người lùn](../D/Dwarves.md), [Tiên](Elves.md), [Hobbit](../H/Hobbits.md), [Người](../M/Men.md) hoặc [Orc](../O/Orcs.md).<sup id="cite_ref-Elendor-home_3-2" class="reference"><a href="#cite_note-Elendor-home-3">[3]</a></sup> Khi cấp bậc Trong nhân vật và Ngoài nhân vật tăng lên, người chơi có thể có cơ hội chơi các chủng tộc khác. Một danh sách đầy đủ các cuộc đua có thể được tìm thấy dưới đây:
+Người chơi mới có thể là [Người Lùn](../D/Dwarves.md), [Tiên](Elves.md), [Hobbit](../H/Hobbits.md), [Người](../M/Men.md) hoặc [Orc](../O/Orcs.md).<sup id="cite_ref-Elendor-home_3-2" class="reference"><a href="#cite_note-Elendor-home-3">[3]</a></sup> Khi cấp bậc Trong nhân vật và Ngoài nhân vật tăng lên, người chơi có thể có cơ hội chơi các chủng tộc khác. Một danh sách đầy đủ các cuộc đua có thể được tìm thấy dưới đây:
 
 - "Araurak" ([Nửa-Orc](../H/Half-Orcs~19882.md))<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 - [Beijabar](../B/Beornings.md)<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>

@@ -72,7 +72,7 @@ images:
 
 ### Cảnh mở rộng {#Extended_Scenes_2}
 
-- 31\. Người lùn Phụ nữ
+- 31\. Người Lùn Phụ nữ
 - 33\. ngôi sao buổi tối
 - 35\. Helm's Deep
 - 40\. Cửa sổ trên Phương Tây

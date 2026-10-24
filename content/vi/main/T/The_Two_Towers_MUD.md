@@ -38,7 +38,7 @@ Thế giới được mô tả trong *The Two Towers* có tổng cộng gần m�
 
 *The Two Towers* cũng bao gồm hình ảnh đại diện của hầu hết các thành viên [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) đã sống trong thời kỳ thành lập nó.
 
-*The Two Towers* mô tả ngày 15 tháng 3, 3019, [Kỷ Đệ Tam](Third_Age.md) khi Minas Tirith bị bao vây. Bùn đóng vai trò chủ nhà cho một cuộc chiến giữa thiện và ác, với các chủng tộc tự do ([Hobbit](../H/Hobbit.md), [Sindar](../S/Sindar.md), [Silvan](../S/Silvan_Elves.md), [Người lùn](../D/Dwarf.md), [Edain](../E/Edain.md), [Dunlending](../D/Dunlendings.md), [Dúnedain](../D/Dúnedain.md) và [Eorling](../R/Rohirrim.md)) thường tranh giành với tay sai của [Sauron](../S/Sauron.md) ([Uruk-hai](../U/Uruk-hai.md), [Easterling](../E/Easterlings.md), [Númenórean](../N/Númenórean.md), [Haradrim](../H/Haradrim.md) và [Variag](../V/Variag.md)), mặc dù các thành viên của các chủng tộc tự do có thể chọn phản bội di sản của họ.
+*The Two Towers* mô tả ngày 15 tháng 3, 3019, [Kỷ Đệ Tam](Third_Age.md) khi Minas Tirith bị bao vây. Bùn đóng vai trò chủ nhà cho một cuộc chiến giữa thiện và ác, với các chủng tộc tự do ([Hobbit](../H/Hobbit.md), [Sindar](../S/Sindar.md), [Silvan](../S/Silvan_Elves.md), [Người Lùn](../D/Dwarf.md), [Edain](../E/Edain.md), [Dunlending](../D/Dunlendings.md), [Dúnedain](../D/Dúnedain.md) và [Eorling](../R/Rohirrim.md)) thường tranh giành với tay sai của [Sauron](../S/Sauron.md) ([Uruk-hai](../U/Uruk-hai.md), [Easterling](../E/Easterlings.md), [Númenórean](../N/Númenórean.md), [Haradrim](../H/Haradrim.md) và [Variag](../V/Variag.md)), mặc dù các thành viên của các chủng tộc tự do có thể chọn phản bội di sản của họ.
 
 ## Lịch sử {#History}
 

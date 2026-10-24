@@ -71,7 +71,7 @@ infobox:
 
 ## Giải thưởng {#Awards}
 
-- [1980](../_/1980.md) - <b><a class="external text" href="http://en.wikipedia.org/wiki/Giffoni_Film_Festival" rel="noreferrer noopener" target="_blank">Golden Gryphon</a></b>, Phim hay nhất, [*The Lord of the Rings* (phim 1978)](<../T/The_Lord_of_the_Rings_(1978_film).md>)
+- [1980](../_/1980.md) - <b><a class="external text" href="http://en.wikipedia.org/wiki/Giffoni_Film_Festival" rel="noreferrer noopener" target="_blank">Golden Gryphon</a></b>, Phim hay nhất, [*The Lord of the Rings* (phim năm 1978)](<../T/The_Lord_of_the_Rings_(1978_film).md>)
 
 ## Liên kết ngoài {#External_links}
 

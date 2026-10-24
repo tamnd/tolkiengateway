@@ -55,7 +55,7 @@ In this far land beneath the trees,<br/>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1971: <a href="Sagan_om_Ringen_(1971_film).md" title="Sagan om Ringen (1971 film)"><i>Sagan om Ringen</i> (phim 1971)</a>:</b>
+<b>1971: <a href="Sagan_om_Ringen_(1971_film).md" title="Sagan om Ringen (1971 film)"><i>Sagan om Ringen</i> (phim năm 1971)</a>:</b>
 
 <dl><dd><a href="../N/Nazgûl.md" title="Nazgûl">The Black Riders</a> stalking the <a href="../H/Hobbits.md" title="Hobbits">Hobbits</a> are driven off by a majestic song. <a href="Samwise_Gamgee.md" title="Samwise Gamgee">Sam</a> recognises it as the song of the elves and the Hobbits watch as they dance and sing. After the song is over, the Hobbits camp, eat and party with the Elves. Sam remembers it as one of the chief experiences in his life.</dd></dl>
 

@@ -104,7 +104,7 @@ Thủ lĩnh có kích thước gần bằng một [Người đàn ông](../M/Men
 		</li>
 </ul>
 
-<b><a href="../_/1978.md" title="1978">1978</a>: <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim 1978)</a>:</b>
+<b><a href="../_/1978.md" title="1978">1978</a>: <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim năm 1978)</a>:</b>
 
 <dl><dd>After <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> tells <a href="../F/Fellowship_of_the_Ring.md" title="Fellowship of the Ring">the Fellowship</a> to &#34;run for it&#34;, the orc-chieftain gives a war cry and charges. He is alone, without any followers. <a href="../B/Boromir.md" title="Boromir">Boromir</a> tries to stop him but the chieftain blocks him with his shield, which falls to the ground with Boromir. <a href="../A/Aragorn.md" title="Aragorn">Aragorn</a> swings at the chieftain with <a href="../A/Andúril.md" title="Andúril">his sword</a> but the <a href="Orcs.md" title="Orcs">Orc</a> ducks under it and pushes Aragorn to the ground, before letting out another war cry and throwing his spear at <a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo</a>. The spear strikes Frodo in the centre of his chest, rather than to his right. Aragorn gets up and runs at the Orc, but he is punched in the stomach and on the back of his neck. Aragorn turns and strikes the Orc with his sword on the left of his torso. The chieftain tumbles to the ground and Aragorn slashes him again on his left leg. The orc lies still and Aragorn stabs him once more on the back.</dd></dl>
 

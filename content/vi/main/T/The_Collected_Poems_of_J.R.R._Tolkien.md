@@ -154,7 +154,7 @@ Cuốn sách chứa "ít nhất 240 bài thơ riêng biệt, tùy thuộc vào c
 <ol><li class="mw-empty-elt"></li><li value="64"><a href="../S/Song_of_Beren_and_Lúthien.md" title="Song of Beren and Lúthien">Light as Leaf on Lind · As Light as Leaf on Lindentree · The Tale of Tinúviel</a></li>
 <li><a href="../N/Nieninque.md" title="Nieninque">Nieninqe · Nieninque</a></li>
 <li><a href="The_Lay_of_the_Fall_of_Gondolin.md" title="The Lay of the Fall of Gondolin">The Lay of the Fall of Gondolin</a></li>
-<li><a href="The_Lay_of_the_Children_of_Húrin.md" title="The Lay of the Children of Húrin">The Golden Dragon · Túrin Son of Húrin and Glórund the Dragon · The Children of Húrin (alliterative)</a> <a class="new" href="https://tolkiengateway.net/w/index.php?title=Winter_comes_to_Nargothrond&amp;action=edit&amp;redlink=1" title="Winter comes to Nargothrond (page does not exist)">· Winter Comes to Nargothrond</a></li>
+<li><a href="The_Lay_of_the_Children_of_Húrin.md" title="The Lay of the Children of Húrin">The Golden Dragon · Túrin Son of Húrin and Glórund Dragon · The Children of Húrin (alliterative)</a> <a class="new" href="https://tolkiengateway.net/w/index.php?title=Winter_comes_to_Nargothrond&amp;action=edit&amp;redlink=1" title="Winter comes to Nargothrond (page does not exist)">· Winter Comes to Nargothrond</a></li>
 <li><a href="The_Clerkes_Compleinte.md" title="The Clerkes Compleinte">The Clerkes Compleinte</a></li>
 <li><a href="The_Hoard.md" title="The Hoard">Iúmonna Gold Galdre Bewunden · The Hoard</a></li>
 <li><a class="mw-redirect mw-disambig" href="../S/Sir_Gawain_and_the_Green_Knight.md" title="Sir Gawain and the Green Knight">Sir Gawain and the Green Knight</a></li>

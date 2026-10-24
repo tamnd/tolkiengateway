@@ -295,7 +295,7 @@ Trang này là **danh sách các podcast liên quan đến [Tolkien](../J/J.R.R.
 </td>
 <td><a class="external text" href="https://luke-shelton.com/tolkienexperiencepodcast/" rel="noreferrer noopener" target="_blank">Website</a>
 </td>
-<td>A podcast interviewing leading Tolkien scholars, artists,  and fans. Its goal is to create a bridge between the academic and fan communities.
+<td>A podcast interviewing leading Tolkien scholars, artists, and fans. Its goal is to create a bridge between the academic and fan communities.
 </td></tr>
 <tr>
 <td><i>Lore of the Rings</i>

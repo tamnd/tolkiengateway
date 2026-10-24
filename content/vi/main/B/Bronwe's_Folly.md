@@ -15,7 +15,7 @@ images:
   - "Bronwe's_Folly-LOTRO-1.jpg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">&#34;Bronwe&#39;s Folly&#34; is a concept which has only appeared in an  adaptation of the works of <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">&#34;Bronwe&#39;s Folly&#34; is a concept which has only appeared in an adaptation of the works of <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>.</div></div>
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/B/Bronwe&#39;s_Folly-LOTRO-1.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/8/8f/Bronwe%27s_Folly-LOTRO-1.jpg/250px-Bronwe%27s_Folly-LOTRO-1.jpg" decoding="async" loading="lazy" width="250" height="151" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/8f/Bronwe%27s_Folly-LOTRO-1.jpg/375px-Bronwe%27s_Folly-LOTRO-1.jpg 1.5x, https://tolkiengateway.net/w/images/8/8f/Bronwe%27s_Folly-LOTRO-1.jpg 2x" data-file-width="490" data-file-height="295"/></a><figcaption></figcaption></figure>
 

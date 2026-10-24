@@ -248,11 +248,11 @@ Lần xuất hiện đầu tiên của một Kỵ Sĩ Đen trong bản dự th�
 
 ### Phim {#Films}
 
-<b>1978: <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim 1978)</a>:</b>
+<b>1978: <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim năm 1978)</a>:</b>
 
 <dl><dd>The Nine are clad in brown and black, and have red eyes. The attack on <i><a href="../T/The_Prancing_Pony.md" title="The Prancing Pony">The Prancing Pony</a></i> is their deed, not that of any accomplices. After the attack, they cast off their hoods, revealing the black armour and hideous masks they wear beneath their cloaks.</dd></dl>
 
-<b>1980: <a href="../T/The_Return_of_the_King_(1980_film).md" title="The Return of the King (1980 film)"><i>The Return of the King</i> (phim 1980)</a></b>
+<b>1980: <a href="../T/The_Return_of_the_King_(1980_film).md" title="The Return of the King (1980 film)"><i>The Return of the King</i> (phim năm 1980)</a></b>
 
 <dl><dd>The Nine are skull headed demons, who ride winged horses. The <a href="../W/Witch-king.md" title="Witch-king">Witch-king</a> himself rides a dragon-like creature, and has no face. Only a suspended crown and two red eyes can be seen. The Nazgûl have the <a class="mw-redirect" href="../R/Red_Eye.md" title="Red Eye">Red Eye</a> of <a href="../B/Barad-dûr.md" title="Barad-dûr">Barad-dûr</a> rather than the emblem of <a href="../M/Minas_Morgul.md" title="Minas Morgul">Minas Morgul</a>.</dd></dl>
 
@@ -332,7 +332,7 @@ Lần xuất hiện đầu tiên của một Kỵ Sĩ Đen trong bản dự th�
 
 <dl><dd>Early in the game one of the Nine wounds a <a href="../D/Dúnedain.md" title="Dúnedain">Dúnedain</a> ranger, Amdir, with a <a href="../M/Morgul-knife.md" title="Morgul-knife">Morgul blade</a>, who is later transformed into a Wraith himself, despite the best efforts of Free Peoples. Later, the player attempts to resist the troubles the Nine are spreading in Bree-Land. During the Fellowship&#39;s stay in <a href="../L/Lothlórien.md" title="Lothlórien">Lothlórien</a>, the <a href="../G/Galadhrim.md" title="Galadhrim">Galadhrim</a> Elves launch a military strike against <a href="../D/Dol_Guldur.md" title="Dol Guldur">Dol Guldur</a>, to draw the attention of the Eye from the company departing down the Shores of Anduin. During their travel down the waters of the Great River, Legolas shot and killed a fell shadow in the sky, not knowing it to be a Nazgûl. The player is later able to find the corpse of the fell beast in the <a href="../B/Brown_Lands.md" title="Brown Lands">Brown Lands</a> and it becomes clear that a Nazgûl is not far. At night, the Wraith ambushes the player who manages to drive him away with the use of fire.</dd></dl>
 
-<dl><dd>During the Battle of the Pelennor, the Witch-king plays the role as described in the books. The High Sorcerer of Harad and the Woe of Khand guard the way to Gothmog in the raid instance &#34;Throne of the Dread Terror&#34;, and the Forsaken Reaver is found at the end of the &#34;Quays of the <a href="../H/Harlond_(Gondor).md" title="Harlond (Gondor)">Harlond</a> instance, in which he attempts to prevent Aragorn and his host from joining the battle.  The Gloom of Nurn confronts the players at the conclusion of &#34;The Silent Street&#34; instance, as he attempts to reclaim the crown of Eärnur among the tombs of Gondor&#39;s kings and stewards.</dd></dl>
+<dl><dd>During the Battle of the Pelennor, the Witch-king plays the role as described in the books. The High Sorcerer of Harad and the Woe of Khand guard the way to Gothmog in the raid instance &#34;Throne of the Dread Terror&#34;, and the Forsaken Reaver is found at the end of the &#34;Quays of the <a href="../H/Harlond_(Gondor).md" title="Harlond (Gondor)">Harlond</a> instance, in which he attempts to prevent Aragorn and his host from joining the battle. The Gloom of Nurn confronts the players at the conclusion of &#34;The Silent Street&#34; instance, as he attempts to reclaim the crown of Eärnur among the tombs of Gondor&#39;s kings and stewards.</dd></dl>
 
 <b>2009: <i><a href="../T/The_Lord_of_the_Rings%253A_Conquest.md" title="The Lord of the Rings: Conquest">The Lord of the Rings: Chinh phục</a></i>:</b>
 

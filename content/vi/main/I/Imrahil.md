@@ -95,7 +95,7 @@ Trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), Imrahil đã đến giú
 
 Hai ngày sau, [Trận chiến trên Cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md) hoành hành trước thành phố. Imrahil mạo hiểm ra ngoài thành phố và chứng kiến ​​lễ rước tang lễ của [Théoden](../T/Théoden.md). Tại đây, ông đã nhìn thấy [Éowyn](../_/Éowyn.md) và tự hỏi rằng Rohan sẽ gửi ngay cả những phụ nữ có nhu cầu lớn đến Gondor đến. Mặc dù Théoden đã qua đời nhưng Imrahil nhận ra rằng Éowyn vẫn còn sống (mặc dù bà đã cận kề cái chết) và ra lệnh đưa bà đến [Nhà chữa bệnh](../H/Houses_of_Healing.md).
 
-Bởi vì [Éomer](../_/Éomer.md) và các tay đua của ông ta đông hơn, Imrahil đã tham gia trận chiến cùng với [Húrin the Tall](<../H/Húrin_(Warden_of_the_Keys).md>), [Forlong of Lossarnach](../F/Forlong.md) và [Hirluin the Fair](../H/Hirluin.md), và họ nhanh chóng có sự tham gia của [Aragorn](../A/Aragorn.md), người đã hạ cánh xuống [Harlond](../H/Harlond_in_Gondor.md). Imrahil tiếp tục phương Đông, xua đuổi [Variags](../V/Variags.md) và [orc](../O/Orcs.md) đang sợ hãi.
+Bởi vì [Éomer](../_/Éomer.md) và các tay đua của ông ta đông hơn, Imrahil đã tham gia trận chiến cùng với [Húrin Tall](<../H/Húrin_(Warden_of_the_Keys).md>), [Forlong of Lossarnach](../F/Forlong.md) và [Hirluin the Fair](../H/Hirluin.md), và họ nhanh chóng có sự tham gia của [Aragorn](../A/Aragorn.md), người đã hạ cánh xuống [Harlond](../H/Harlond_in_Gondor.md). Imrahil tiếp tục phương Đông, xua đuổi [Variags](../V/Variags.md) và [orc](../O/Orcs.md) đang sợ hãi.
 
 Imrahil sống sót sau trận chiến mà không bị tổn hại gì, cùng với Éomer và Aragorn anh đến [Đại Môn Minas Tirith](../G/Great_Gate_of_Minas_Tirith.md).<sup id="cite_ref-Battle_4-0" class="reference"><a href="#cite_note-Battle-4">[4]</a></sup> Imrahil thừa nhận rằng Aragorn là Vua chính đáng, nhưng anh đồng ý rằng Aragorn nên đợi để vào thành phố, vì anh biết Denethor là người có ý chí mạnh mẽ và kiêu hãnh.
 
@@ -208,7 +208,7 @@ Imrahil trắng trẻo<sup id="cite_ref-17" class="reference"><a href="#cite_not
 		</li>
 </ul>
 
-<b>1980: <a href="../T/The_Return_of_the_King_(1980_film).md" title="The Return of the King (1980 film)"><i>The Return of the King</i> (phim 1980)</a>:</b>
+<b>1980: <a href="../T/The_Return_of_the_King_(1980_film).md" title="The Return of the King (1980 film)"><i>The Return of the King</i> (phim năm 1980)</a>:</b>
 
 <dl><dd>Imrahil is not mentioned by name. However, in the film&#39;s version of the <a href="../L/Last_Debate.md" title="Last Debate">Last Debate</a>, <a href="../A/Aragorn.md" title="Aragorn">Aragorn</a> and <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> are joined by individuals who, based on the book scene, can be inferred to be Imrahil, <a href="../_/Éomer.md" title="Éomer">Éomer</a>, <a href="../E/Elladan_and_Elrohir.md" title="Elladan and Elrohir">Elladan, and Elrohir</a>.</dd></dl>
 

@@ -26,7 +26,7 @@ images:
 
 ## Các bản chuyển thể {#Adaptations}
 
-- [*The Return of the King* (phim 1980)](<The_Return_of_the_King_(1980_film).md>), phim truyền hình [Rankin/Bass](../R/Rankin%252FBass.md).
+- [*The Return of the King* (phim năm 1980)](<The_Return_of_the_King_(1980_film).md>), phim truyền hình [Rankin/Bass](../R/Rankin%252FBass.md).
 - *[The Lord of the Rings: The Return of the King](The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*, bộ phim [2003](../_/2003.md) của đạo diễn [Peter Jackson](../P/Peter_Jackson.md).
     - [*The Lord of the Rings: The Return of the King* (extended edition)](<The_Lord_of_the_Rings%253A_The_Return_of_the_King_(extended_edition).md>), phiên bản phim có thêm 52 phút.
 Trò chơi điện tử     - [*The Lord of the Rings: The Return of the King* (video game)](<The_Lord_of_the_Rings%253A_The_Return_of_the_King_(video_game).md>), [Electronic Arts](../E/Electronic_Arts.md) chuyển thể từ bộ phim năm 2003.

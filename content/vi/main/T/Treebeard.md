@@ -188,7 +188,7 @@ Giọng nói oang oang của Treebeard được lấy cảm hứng từ cách [C
 
 <b>1981: <a href="The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>The Lord of the Rings</i> (loạt phim phát thanh 1981)</a>:</b>
 
-<dl><dd><a href="../S/Stephen_Thorne.md" title="Stephen Thorne">Stephen Thorne</a> provided the voice of Treebeard.  Thorne also sings the songs of &#39;The Lore of Living Creatures&#39; and 2 verses of the &#39;Song of the Ents and the Entwives.&#39; His participation in the destruction of Isengard is fully documented, but he is the only Ent given a voice in the production.  He also appears in the penultimate episode when the company pass through Isengard on their return.  As in the book, he reveals to Gandalf Saruman&#39;s departure from Orthanc.</dd></dl>
+<dl><dd><a href="../S/Stephen_Thorne.md" title="Stephen Thorne">Stephen Thorne</a> provided the voice of Treebeard. Thorne also sings the songs of &#39;The Lore of Living Creatures&#39; and 2 verses of the &#39;Song of the Ents and the Entwives.&#39; His participation in the destruction of Isengard is fully documented, but he is the only Ent given a voice in the production. He also appears in the penultimate episode when the company pass through Isengard on their return. As in the book, he reveals to Gandalf Saruman&#39;s departure from Orthanc.</dd></dl>
 
 <b>1992: <a href="../D/Der_Herr_der_Ringe_(1992_German_radio_series).md" title="Der Herr der Ringe (1992 German radio series)"><i>Der Herr der Ringe</i> (loạt phim phát thanh Đức năm 1992)</a>:</b>
 

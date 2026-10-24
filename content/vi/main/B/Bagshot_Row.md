@@ -43,7 +43,7 @@ infobox:
 
 **Bagshot Row** là dãy [hang Hobbit](../H/Hobbit-holes.md) được đào vào [Đồi Hobbiton](../H/Hobbiton_Hill.md) bên dưới [Bag End](Bag_End.md). [Gia đình Gamgee](../G/Gamgee_Family~66365.md) sống tại số 3, Bagshot Row.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Hàng xóm của họ là [Daddy Twofoot](../D/Daddy_Twofoot.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 1]</a></sup> Những nơi ở này có các khu vườn và tường đất được đắp bằng phần đất đào lên trong quá trình đào Bag End.<sup id="cite_ref-nom_3-0" class="reference"><a href="#cite_note-nom-3">[2]</a></sup>
 
-Trong [Cuộc Chiến tranh Nhẫn](../W/War_of_the_Ring.md) và thời kỳ [Xứ Shire](../T/The_Shire.md) bị chiếm đóng, [Saruman](../S/Saruman.md) đã cho đào xới tung nơi này, biến nó thành một hố cát sỏi há miệng. Sau [Trận Bywater](Battle_of_Bywater.md), khu vực bị tàn phá được thay thế bằng một dãy nhà mới, được gọi đơn giản là [New Row](../N/New_Row.md) (tại thị trấn [Bywater](Bywater.md), người ta đùa rằng nó được gọi là Sharkey's End).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup>
+Trong [Cuộc Cuộc chiến Nhẫn](../W/War_of_the_Ring.md) và thời kỳ [Xứ Shire](../T/The_Shire.md) bị chiếm đóng, [Saruman](../S/Saruman.md) đã cho đào xới tung nơi này, biến nó thành một hố cát sỏi há miệng. Sau [Trận Bywater](Battle_of_Bywater.md), khu vực bị tàn phá được thay thế bằng một dãy nhà mới, được gọi đơn giản là [New Row](../N/New_Row.md) (tại thị trấn [Bywater](Bywater.md), người ta đùa rằng nó được gọi là Sharkey's End).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

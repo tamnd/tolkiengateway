@@ -41,14 +41,14 @@ infobox:
 ## Lời bài hát {#Lyrics}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>Out of the Great Sea to Middle-earth I am come.  In this place will I abide, and my heirs, unto the ending of the world.
+<p>Out of the Great Sea to Middle-earth I am come. In this place will I abide, and my heirs, unto the ending of the world.
 </p>
 </div>
 
 <dl><dd>In <a href="../Q/Quenya.md" title="Quenya">Quenya</a> (sung by Viggo Mortensen):</dd></dl>
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>Et Eärello Endorenna utúlien.  Sinome maruvan ar Hildinyar tenn’ Ambar-metta!<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<p>Et Eärello Endorenna utúlien. Sinome maruvan ar Hildinyar tenn’ Ambar-metta!<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 </p>
 </div>
 

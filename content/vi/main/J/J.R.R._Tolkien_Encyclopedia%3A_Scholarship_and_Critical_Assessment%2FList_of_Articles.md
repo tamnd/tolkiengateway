@@ -470,7 +470,7 @@ categories:
 <td>Harper, Amelia
 </td></tr>
 <tr>
-<td>Egypt:  Relationship to Númenóreans</td>
+<td>Egypt: Relationship to Númenóreans</td>
 <td>Walsh, John
 </td></tr>
 <tr>

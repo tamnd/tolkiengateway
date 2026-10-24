@@ -74,7 +74,7 @@ infobox:
 
 Hắn bị [Huan](../H/Huan.md) giết trong [Cuộc truy tìm Silmaril](../Q/Quest_for_the_Silmaril.md), dù hắn đã báo cho Sauron biết rằng Huan đang hiện diện. [Beren](../B/Beren.md) và [Lúthien](../L/Lúthien.md) đã dùng bộ da của hắn để lẻn vào [Angband](../A/Angband.md).<sup id="cite_ref-Draug_2-1" class="reference"><a href="#cite_note-Draug-2">[2]</a></sup>
 
-Draugluin là tổ phụ của [Carcharoth](../C/Carcharoth.md) và nhiều Người sói khác. Có khả năng [Warg](../W/Wargs.md) trong [Kỷ nguyên thứ Ba](../T/Third_Age.md) là hậu duệ của hắn.<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>nguồn?</i></a>]</sup>
+Draugluin là tổ phụ của [Carcharoth](../C/Carcharoth.md) và nhiều Người sói khác. Có khả năng [Warg](../W/Wargs.md) trong [Kỷ Đệ Tam](../T/Third_Age.md) là hậu duệ của hắn.<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>nguồn?</i></a>]</sup>
 
 ## Từ nguyên học {#Etymology}
 

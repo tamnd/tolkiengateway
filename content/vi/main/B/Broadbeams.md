@@ -41,7 +41,7 @@ infobox:
 
 **Broadbeams** là một trong bảy ngôi nhà của [Người Lùn](../D/Dwarves.md). Ban đầu chúng được ghép nối với [Firebeards](../F/Firebeards.md). Tổ tiên của Broadbeams là một trong những người già nhất trong Bảy Tổ phụ của người Lùn (cùng với tổ tiên của [Firebeards](../F/Firebeards.md) và [Longbeards](../L/Longbeards.md)).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Broadbeams (với Firebeards) thức dậy trong [Dãy Núi Xanh](Blue_Mountains.md) và sống ở đó trong suốt lịch sử của dân tộc họ. Hai ngôi nhà này đã xây dựng các thành phố Người lùn vĩ đại là [Nogrod](../N/Nogrod.md) và [Belegost](Belegost.md) ở Dãy Núi Xanh, và sinh sống tại đó trước khi bị tàn phá trong [War of Wrath](../W/War_of_Wrath.md). Không rõ liệu họ có chung hai thành phố hay mỗi ngôi nhà đều ở riêng.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Trong [phiên bản trước của truyền thuyết](../T/The_Book_of_Lost_Tales_Part_Two.md), hai thành phố rõ ràng là nơi sinh sống của những ngôi nhà riêng biệt; tuy nhiên, Belegost được cho là nhà của [Longbeards](../D/Durin's_Folk~15256.md).<sup id="cite_ref-#_4-0" class="reference"><a href="#cite_note-#-4">[4]</a></sup>
+Broadbeams (với Firebeards) thức dậy trong [Dãy Núi Xanh](Blue_Mountains.md) và sống ở đó trong suốt lịch sử của dân tộc họ. Hai ngôi nhà này đã xây dựng các thành phố Người Lùn vĩ đại là [Nogrod](../N/Nogrod.md) và [Belegost](Belegost.md) ở Dãy Núi Xanh, và sinh sống tại đó trước khi bị tàn phá trong [War of Wrath](../W/War_of_Wrath.md). Không rõ liệu họ có chung hai thành phố hay mỗi ngôi nhà đều ở riêng.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Trong [phiên bản trước của truyền thuyết](../T/The_Book_of_Lost_Tales_Part_Two.md), hai thành phố rõ ràng là nơi sinh sống của những ngôi nhà riêng biệt; tuy nhiên, Belegost được cho là nhà của [Longbeards](../D/Durin's_Folk~15256.md).<sup id="cite_ref-#_4-0" class="reference"><a href="#cite_note-#-4">[4]</a></sup>
 
 Vào [Kỷ Đệ Nhị](../S/Second_Age.md), vào khoảng năm [40](../S/Second_Age_40.md),<sup id="cite_ref-SA_5-0" class="reference"><a href="#cite_note-SA-5">[5]</a></sup> những người Firebeards và Broadbeams sống ở Nogrod và Belegost đã bỏ lại sự tàn phá phía sau và đến [Khazad-dûm](../K/Khazad-dûm.md), gia tăng sự giàu có và quyền lực của nó.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
@@ -66,7 +66,7 @@ Tuy nhiên, luôn có một số Người Lùn ở phía đông của Dãy Núi 
 ## Xem thêm {#See_also}
 
 - [Người Lùn Belegost](../D/Dwarves_of_Belegost.md)
-- [Người lùn Nogrod](../D/Dwarves_of_Nogrod.md)
+- [Người Lùn Nogrod](../D/Dwarves_of_Nogrod.md)
 
 <span></span>
 

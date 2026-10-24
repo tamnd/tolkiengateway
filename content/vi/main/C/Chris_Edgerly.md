@@ -44,7 +44,7 @@ infobox:
 ## Trích dẫn {#Quotes}
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>I couldn&#39;t do Viggo when he was talking low. I can&#39;t do him if he&#39;s  like this, but if he <i>[he starts yelling]</i> yells or skewers an orc with his sword...<i>[laughs][he stops yelling]</i> which is mostly what video games are.
+<p>I couldn&#39;t do Viggo when he was talking low. I can&#39;t do him if he&#39;s like this, but if he <i>[he starts yelling]</i> yells or skewers an orc with his sword...<i>[laughs][he stops yelling]</i> which is mostly what video games are.
 </p>
 <p class="tg-quote-footer"><cite>Chris Edgerly on mimicking Viggo Mortensen, <a class="external text" href="http://www.chrisedgerly.com/Chris_Comic_Con.html" rel="noreferrer noopener" target="_blank">2007 ComicCon</a>.</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

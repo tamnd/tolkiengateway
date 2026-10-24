@@ -19,7 +19,7 @@ images:
 ## Mọi người {#People}
 
 - [Arthur Tolkien](Arthur_Tolkien.md), cha của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)
-- [Arthur Rankin, Jr.](Arthur_Rankin,_Jr..md), đồng đạo diễn/nhà sản xuất của [*The Hobbit* (phim 1977)](<../T/The_Hobbit_(1977_film).md>) và [*The Return of the King* (phim 1980)](<../T/The_Return_of_the_King_(1980_film).md>)
+- [Arthur Rankin, Jr.](Arthur_Rankin,_Jr..md), đồng đạo diễn/nhà sản xuất của [*The Hobbit* (phim năm 1977)](<../T/The_Hobbit_(1977_film).md>) và [*The Return of the King* (phim năm 1980)](<../T/The_Return_of_the_King_(1980_film).md>)
 
 ## Văn học {#Literature}
 

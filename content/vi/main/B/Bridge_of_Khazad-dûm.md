@@ -56,7 +56,7 @@ Cây cầu gồm một nhịp cầu đá cong dài năm mươi foot. Cầu khôn
 
 Vào ngày 15 tháng 1 [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md),<sup id="cite_ref-Great_1-1" class="reference"><a href="#cite_note-Great-1">[1]</a></sup> [Gandalf](../G/Gandalf.md) cùng những thành viên còn lại của [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) chạy qua cầu để thoát khỏi [Balrog](../D/Durin's_Bane.md), một số lượng lớn [Orc](../O/Orcs.md) và hai [Troll](../T/Trolls.md). Gandalf ở lại giữa cầu để ngăn Balrog. Sau khi giao chiến với Balrog, Gandalf buộc phải dùng cây quyền trượng phá hủy phần cầu nơi Balrog đang đứng. Balrog rơi xuống vực thẳm, nhưng dùng roi quấn lấy Gandalf và kéo ông xuống cùng mình.<sup id="cite_ref-Bridge_3-2" class="reference"><a href="#cite_note-Bridge-3">[3]</a></sup>
 
-Có khả năng [Người lùn](../D/Dwarves.md) đã giành lại Moria trong [Kỷ Đệ Tứ](../D/Durin_VII.md) và xây dựng lại cây cầu.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Có khả năng [Người Lùn](../D/Dwarves.md) đã giành lại Moria trong [Kỷ Đệ Tứ](../D/Durin_VII.md) và xây dựng lại cây cầu.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Khắc họa trong các bản chuyển thể {#Portrayal_in_adaptations}
 

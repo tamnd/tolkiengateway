@@ -112,7 +112,7 @@ Three for the Elven-kings of earth, sea, and sky<br/>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1978: <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim 1978)</a>:</b>
+<b>1978: <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim năm 1978)</a>:</b>
 
 <dl><dd>The Ring-inscription poses a plot gap in the movie. Gandalf makes Frodo throw the Ring in the fireplace, and later they both notice it is cold. The Ring-inscription does not appear nor is mentioned, although Gandalf recites the verse; all these remain without giving any explanation why the Ring was thrown in the fireplace in the first place, since the non-existent inscription was not the point.</dd></dl>
 

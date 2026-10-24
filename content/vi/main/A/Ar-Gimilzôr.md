@@ -107,7 +107,7 @@ Tên [Quenya](../Q/Quenya.md) của ông là *Telemnar*. Ý nghĩa của nó kh�
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Ngày qua đời của Ar-Gimilzôr được [Tale of Years](Appendix_B.md) trong Phụ lục B ghi là [Kỷ nguyên thứ Hai 3175](../S/Second_Age_3175.md)<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> nhưng [The Line of Elros: Kings of Númenor](../T/The_Line_of_Elros%253A_Kings_of_Númenor.md) lại ghi là [Kỷ nguyên thứ Hai 3177](../S/Second_Age_3177.md).<sup id="cite_ref-Ar-Gimilzor_1-9" class="reference"><a href="#cite_note-Ar-Gimilzor-1">[1]</a></sup>
+Ngày qua đời của Ar-Gimilzôr được [Tale of Years](Appendix_B.md) trong Phụ lục B ghi là [Kỷ Đệ Nhị 3175](../S/Second_Age_3175.md)<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> nhưng [The Line of Elros: Kings of Númenor](../T/The_Line_of_Elros%253A_Kings_of_Númenor.md) lại ghi là [Kỷ Đệ Nhị 3177](../S/Second_Age_3177.md).<sup id="cite_ref-Ar-Gimilzor_1-9" class="reference"><a href="#cite_note-Ar-Gimilzor-1">[1]</a></sup>
 
 <span></span>
 

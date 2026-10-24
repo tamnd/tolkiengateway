@@ -71,7 +71,7 @@ Trong bản nháp ban đầu của *The Hobbit*, Tolkien ban đầu đã bỏ qu
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1977: <a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>The Hobbit</i> (phim 1977)</a>:</b>
+<b>1977: <a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>The Hobbit</i> (phim năm 1977)</a>:</b>
 
 <dl><dd>A version of the song titled &#34;<a href="Rollin&#39;_Down_the_Hole.md" title="Rollin&#39; Down the Hole">Rollin&#39; Down the Hole</a>&#34; plays as <a href="../T/Thorin_and_Company.md" title="Thorin and Company">Thorin and Company</a> escape in the barrels and arrive in <a href="../L/Lake-town.md" title="Lake-town">Lake-town</a>.</dd></dl>
 

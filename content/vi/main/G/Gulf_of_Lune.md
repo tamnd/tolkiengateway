@@ -67,7 +67,7 @@ Vịnh Lune, được đặt tên theo dòng sông [Lhûn](../L/Lhûn.md), hay "
 
 Phần còn lại của Beleriand ở phía bắc vịnh được biết đến với tên gọi [Forlindon](../F/Forlindon.md), còn phần phía nam được gọi là [Harlindon](../H/Harlindon.md). Tại đầu phía đông của Vịnh, [Grey Havens](Grey_Havens.md) được thành lập, nhưng những bến cảng nhỏ hơn cũng được xây dựng ở Forlindon và Harlindon: [Forlond](../F/Forlond.md) và [Harlond](<../H/Harlond_(Lindon).md>).
 
-Trong [Kỷ thứ Hai](../S/Second_Age.md), những con tàu của người [Númenóreans](../N/Númenóreans.md) lần đầu tiên đến Vịnh Lune để thăm người [Noldor](../N/Noldor.md) và [Sindar](../S/Sindar.md) dưới quyền [Gil-galad](Gil-galad.md), những người vẫn ở lại Trung Địa; và trong [Kỷ thứ Ba](../T/Third_Age.md), từ nơi đây, những con tàu của người [Eldar](../E/Eldar.md) ra khơi về phương [Tây](../A/Aman.md).
+Trong [Kỷ Đệ Nhị](../S/Second_Age.md), những con tàu của người [Númenóreans](../N/Númenóreans.md) lần đầu tiên đến Vịnh Lune để thăm người [Noldor](../N/Noldor.md) và [Sindar](../S/Sindar.md) dưới quyền [Gil-galad](Gil-galad.md), những người vẫn ở lại Trung Địa; và trong [Kỷ Đệ Tam](../T/Third_Age.md), từ nơi đây, những con tàu của người [Eldar](../E/Eldar.md) ra khơi về phương [Tây](../A/Aman.md).
 
 ## Cảm hứng {#Inspiration}
 

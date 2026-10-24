@@ -54,7 +54,7 @@ Mirkwood tính năng:
 
 - BẢN ĐỒ MÀU - hai bản đồ được hiển thị đẹp mắt mô tả miền bắc và miền nam Mirkwood, cũng như những vùng đất đa dạng nằm cạnh khu rừng rộng lớn.
 - RADAGAST & RHOSGOBEL - bậc thầy về hình dạng và màu sắc cũng như ngôi nhà ma thuật của ông với nhiều du khách trong rừng.
-- BẮC - Beornings có các lãnh chúa thực hành việc thay đổi hình dạng; Sairthéod trong ngôi làng nhà trên cây của họ; Dalemen và Lakemen, hậu duệ của Thời đại thứ nhất cao quý Edain; Người Rừng đi lang thang trong rừng theo gia tộc; và Éothraim yêu ngựa, tổ tiên của Rohirrim.
+- BẮC - Beornings có các lãnh chúa thực hành việc thay đổi hình dạng; Sairthéod trong ngôi làng nhà trên cây của họ; Dalemen và Lakemen, hậu duệ của Kỷ Đệ Nhất cao quý Edain; Người Rừng đi lang thang trong rừng theo gia tộc; và Éothraim yêu ngựa, tổ tiên của Rohirrim.
 - WARVES OF THE IRON HILLS - những tổ tiên kiên cường của Dáin Chân Sắt đã đến trợ giúp Thorin Oakenshield tại Erebor sau này trong Thời đại.
 - NHỮNG YÊU CẦU CỦA THRANDUIL'S HALLS - dân gian thông thái về rừng tôn vinh ánh sao, bài hát và cây cối trong rừng bằng tiệc tùng và nhạc đàn hạc trong những thung lũng tuyệt đẹp.
 - SÁNG TẠO BÓNG TỐ - Rồng từ Withered Heath bay về phía nam để tìm kiếm con mồi; Những con Nhện Lớn và những mạng lưới đen tối của chúng kéo dài từ thân cây này sang thân cây khác; Stone Troll lang thang trên Emyn-nu-Fuin; và những cái cây tỉnh táo với trái tim ác độc và những cành thù địch.

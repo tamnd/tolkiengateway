@@ -12,7 +12,7 @@ categories:
   - "Dwarven titles"
 ---
 
-**Chúa tể Belegost** là danh hiệu dành cho người cai trị thành phố [Người lùn](../D/Dwarves.md) [Belegost](../B/Belegost.md). Ông ta có lẽ là hậu duệ của một trong [Bảy Tổ phụ của người Lùn](../S/Seven_Fathers_of_the_Dwarves.md). Vật gia truyền của các Lãnh chúa Belegost từng là viên ngọc trai [Nimphelos](../N/Nimphelos.md) do [Thingol](../T/Thingol.md) tặng.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Chúa tể Belegost** là danh hiệu dành cho người cai trị thành phố [Người Lùn](../D/Dwarves.md) [Belegost](../B/Belegost.md). Ông ta có lẽ là hậu duệ của một trong [Bảy Tổ phụ của người Lùn](../S/Seven_Fathers_of_the_Dwarves.md). Vật gia truyền của các Lãnh chúa Belegost từng là viên ngọc trai [Nimphelos](../N/Nimphelos.md) do [Thingol](../T/Thingol.md) tặng.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Chúa tể duy nhất của Belegost được biết đến là [Azaghâl](../A/Azaghâl.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 

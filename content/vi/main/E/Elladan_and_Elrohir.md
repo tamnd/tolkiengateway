@@ -218,7 +218,7 @@ Sau Chiến tranh, người ta biết rất ít về số phận của hai anh e
 
 <dl><dd>Elladan and Elrohir follow <a href="../H/Halbarad.md" title="Halbarad">Halbarad</a> and come to <a href="../A/Aragorn.md" title="Aragorn">Aragorn</a>&#39;s aid. No actor is credited.</dd></dl>
 
-<b>1980: <a href="../T/The_Return_of_the_King_(1980_film).md" title="The Return of the King (1980 film)"><i>The Return of the King</i> (phim 1980)</a>:</b>
+<b>1980: <a href="../T/The_Return_of_the_King_(1980_film).md" title="The Return of the King (1980 film)"><i>The Return of the King</i> (phim năm 1980)</a>:</b>
 
 <dl><dd>Elladan and Elrohir are not mentioned by name. However, two dark-haired individuals of similar dress and appearance appear at the council in Aragorn&#39;s tent, just as Elladan and Elrohir do in the novel.</dd></dl>
 

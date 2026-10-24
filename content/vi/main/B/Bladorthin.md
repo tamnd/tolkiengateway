@@ -54,7 +54,7 @@ Các câu hỏi về việc Bladorthin là [Người](../M/Men.md) hay [Tiên](.
 
 ## Lịch sử {#History}
 
-Vào khoảng giữa đến cuối [Kỷ Đệ Tam](../T/Third_Age.md), Bladorthin cai trị một vương quốc có quân đội duy trì và có mối quan hệ thương mại với [Người lùn](../D/Dwarves.md) [Vương quốc dưới Núi](../K/Kingdom_under_the_Mountain.md).<sup id="cite_ref-inside_1-1" class="reference"><a href="#cite_note-inside-1">[1]</a></sup>
+Vào khoảng giữa đến cuối [Kỷ Đệ Tam](../T/Third_Age.md), Bladorthin cai trị một vương quốc có quân đội duy trì và có mối quan hệ thương mại với [Người Lùn](../D/Dwarves.md) [Vương quốc dưới Núi](../K/Kingdom_under_the_Mountain.md).<sup id="cite_ref-inside_1-1" class="reference"><a href="#cite_note-inside-1">[1]</a></sup>
 
 Bladorthin giao cho [Người Lùn Erebor](../D/Dwarves_of_Erebor.md) chế tạo nhiều ngọn giáo cho quân đội của mình. Mỗi ngọn giáo này bao gồm "một đầu được rèn ba lần" với một thân được lót bằng [vàng](../G/Gold.md) một cách khéo léo. Trong khi những ngọn giáo được rèn, Người Lùn chưa bao giờ giao chúng và Bladorthin chưa bao giờ trả tiền cho chúng. Kết quả là những ngọn giáo vẫn ở trong Erebor.<sup id="cite_ref-inside_1-2" class="reference"><a href="#cite_note-inside-1">[1]</a></sup>
 

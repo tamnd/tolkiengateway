@@ -51,7 +51,7 @@ infobox:
     - Curtis A. Weyant, "'Một dịch giả không được tự do': Các quy tắc dịch thuật của J.R.R. Tolkien và ứng dụng của chúng trong *[Sir Orfeo](<../S/Sir_Orfeo_(booklet).md>)*"
     - Josh B. Long, "Thần tiên, niềm tin và sự tự miêu tả bản thân: Một cách giải thích mang tính ngụ ngôn về *[Smith of Wootton Major](../S/Smith_of_Wootton_Major.md)*"
     - Magne Bergland, "'Món quà tự do': Món quà của Ilúvatar, từ Giải pháp thần thoại đến vấn đề thần học"
-    - Douglas C. Kane, "Túrin the Hapless: Tolkien và sự thánh hóa của đau khổ"
+    - Douglas C. Kane, "Túrin Hapless: Tolkien và sự thánh hóa của đau khổ"
     - Joshua T. Parks, "Thần thoại suy đoán: Sự chuyển thể của Mùa đông và Ác quỷ của Tolkien trong Thơ Anh cổ"
     - Stentor Danielson, "'Đối với cây cối, tất cả đàn ông đều là Orc': Đạo đức môi trường trong '[Cái bóng mới](The_New_Shadow.md)' của J.R.R. Tolkien"
     - Michael A. Moir, Jr., "'Bạn sử dụng *Good morning* vào rất nhiều thứ!': Gandalf Nhà giải cấu trúc lang thang trong *The Hobbit*"

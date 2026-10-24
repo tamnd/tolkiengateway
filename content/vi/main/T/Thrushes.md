@@ -130,7 +130,7 @@ Trên phiên bản đầu tiên của Bản đồ của Thrór (được [John D
 
 <dl><dd>Given gaming statistics, the Thrushes are among Radagast&#39;s principal agents and are friends of the Northmen. The thrush language, which can be learned by Elves and Men but not by Dwarves, is called &#34;Throsel-tunge&#34;.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></dd></dl>
 
-<b>1977: <i><a href="The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)">The Hobbit (phim 1977)</a></i>:</b>
+<b>1977: <i><a href="The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)">The Hobbit (phim năm 1977)</a></i>:</b>
 
 <dl><dd>The Thrush goes with Bilbo into The Mountain. The Thrush later tells Bard of the dragon&#39;s weakness.</dd></dl>
 

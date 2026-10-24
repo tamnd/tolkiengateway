@@ -74,7 +74,7 @@ Merry đã cố gắng xác định vị trí được cho là con đường r�
 Merry bị trừng phạt Pippin vì sự bộc phát của mình. Mặc dù không bao giờ tìm thấy con đường mình đang tìm kiếm nhưng cuối cùng anh cũng tìm được Bonfire Glade. Trảng cỏ đã mọc um tùm nhưng vẫn không có cây cối. Cả nhóm được khích lệ khi họ tìm thấy một con đường thẳng dẫn ra phía bên kia. Họ suy đoán rằng khu rừng có thể đã bỏ cuộc và đang cố gắng đẩy nhanh cuộc khởi hành của họ. Tuy nhiên, khi họ tiếp tục đi theo con đường này, bầu không khí càng trở nên nặng nề hơn đối với họ. Frodo cố gắng giảm bớt căng thẳng bằng cách hát [O! Những người lang thang trong Vùng đất bóng tối](../O/O!_Wanderers_in_the_Shadowed_Land~44033.md), nhưng nhanh chóng nhận ra rằng câu thơ có thể không được cây cối ưa chuộng.
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>For east or west all woods must fail . . .
+<p>For east or west all woods must fail. . .
 </p>
 <p class="tg-quote-footer"><cite><a class="mw-redirect" href="../O/O!_Wanderers_in_the_Shadowed_Land~44033.md" title="O! Wanderers in the Shadowed Land">O! Wanderers in the Shadowed Land</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

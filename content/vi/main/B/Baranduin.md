@@ -53,7 +53,7 @@ infobox:
 <p class="tg-quote-footer"><cite><a href="../D/Daddy_Twofoot.md" title="Daddy Twofoot">Daddy Twofoot</a> in <i><a href="../T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="../A/A_Long-expected_Party.md" title="A Long-expected Party">A Long-expected Party</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Baranduin** là một con sông ở [Eriador](../E/Eriador.md). Đối với [người Hobbit](../H/Hobbits.md) ở [the Shire](../T/The_Shire.md), **Brandywine** (tên mà họ gọi con sông này) là ranh giới giữa những gì quen thuộc và những gì chưa biết, và ngay cả những người sống ở [Buckland](Buckland.md), trên bờ đối diện ngay bên kia, cũng bị xem là “kỳ quặc”.
+**Baranduin** là một con sông ở [Eriador](../E/Eriador.md). Đối với [người Hobbit](../H/Hobbits.md) ở [Shire](../T/The_Shire.md), **Brandywine** (tên mà họ gọi con sông này) là ranh giới giữa những gì quen thuộc và những gì chưa biết, và ngay cả những người sống ở [Buckland](Buckland.md), trên bờ đối diện ngay bên kia, cũng bị xem là “kỳ quặc”.
 
 ## Lịch sử {#History}
 

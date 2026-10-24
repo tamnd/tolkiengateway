@@ -98,13 +98,13 @@ Người chơi tìm kiếm Thuyền trưởng Brackenbrook và cảnh báo ông 
 
 Sau khi người chơi tập luyện xong, Strider yêu cầu người chơi tìm một số [lá vua](../K/Kingsfoil.md) để chữa vết thương cho Amdir. Ông ta cũng đề nghị hỗ trợ Thuyền trưởng Brackenbrook để giành được sự ưu ái của ông ta. Đội trưởng sẽ thông báo cho người chơi nơi một số Lá Kings mọc lên. Ông cũng chấp nhận sự giúp đỡ của bạn, bảo bạn hãy giúp đỡ Calder Cob, người đang gặp vấn đề với bầy sói trong trang trại của ông.
 
-#### Người lùn và Tiên {#Dwarf_and_Elf}
+#### Người Lùn và Tiên {#Dwarf_and_Elf}
 
 Khi người chơi Tiên đến thăm Nơi ẩn náu của Edhelion, bị [Skorgrím Dourhand](../S/Skorgrím_Dourhand.md) và gia tộc của ông ta tấn công. Chủ nhân Talaga của người chơi, để bảo vệ các di tích yêu tinh mà vua lùn đang tìm kiếm, đã đánh sập thư viện Edhelion của cả ông ta và Skorgrím.
 
 Tuy nhiên, người chơi lùn bắt đầu muộn hơn nhiều, tại mỏ Silverdeep. Ông gặp Gandalf ngay trước khi Thorin và Đoàn tùy tùng lên đường tới Shire để gặp Bilbo. Dourhands và Longbeards hiện đang sống cùng nhau.
 
-Cả hai cốt truyện đều hội tụ nhiều năm sau đó, khi căng thẳng xuất hiện trong mối quan hệ giữa hai nhóm Người lùn, đỉnh điểm là xác của vị vua sa ngã của họ được Ivar the Blood-hand nuôi dưỡng như một xác sống.
+Cả hai cốt truyện đều hội tụ nhiều năm sau đó, khi căng thẳng xuất hiện trong mối quan hệ giữa hai nhóm Người Lùn, đỉnh điểm là xác của vị vua sa ngã của họ được Ivar the Blood-hand nuôi dưỡng như một xác sống.
 
 #### Cao Tiên {#High_Elf}
 
@@ -112,7 +112,7 @@ Trong phần giới thiệu Cao Tiên, người chơi tham gia [Cuộc chiến c
 
 #### Rìu mập mạp {#Stout-axe}
 
-Khi bắt đầu phần giới thiệu Stout-axe, người chơi là nô lệ [Sauron](../S/Sauron.md). Cuối cùng, người chơi có thể chạy trốn trong một cuộc nổi dậy và tìm nơi ẩn náu giữa Dourhands. Tuy nhiên, sức mạnh của [Skorgrím Dourhand](../S/Skorgrím_Dourhand.md) vừa trỗi dậy và người chơi cùng Dourhand đơn độc tên là Nagli là những người duy nhất từ ​​chối lời kêu gọi của ông ta. Họ kết thúc tại Sảnh của Thorin để tiếp tục phần mở đầu Người lùn thông thường.
+Khi bắt đầu phần giới thiệu Stout-axe, người chơi là nô lệ [Sauron](../S/Sauron.md). Cuối cùng, người chơi có thể chạy trốn trong một cuộc nổi dậy và tìm nơi ẩn náu giữa Dourhands. Tuy nhiên, sức mạnh của [Skorgrím Dourhand](../S/Skorgrím_Dourhand.md) vừa trỗi dậy và người chơi cùng Dourhand đơn độc tên là Nagli là những người duy nhất từ ​​chối lời kêu gọi của ông ta. Họ kết thúc tại Sảnh của Thorin để tiếp tục phần mở đầu Người Lùn thông thường.
 
 #### Sáng sớm {#Beorning}
 

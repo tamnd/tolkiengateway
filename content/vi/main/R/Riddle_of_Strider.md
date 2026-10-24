@@ -50,7 +50,7 @@ Dòng đầu tiên rõ ràng là sự viết lại câu tục ngữ truyền th�
 
 <b>2003: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">The Lord of the Rings: The Return of the King</a></i>:</b>
 
-<dl><dd>The last four lines are recited by <a href="../A/Arwen.md" title="Arwen">Arwen</a> upon her return to <a href="Rivendell.md" title="Rivendell">Rivendell</a> as she stands before the Shards of Narsil.  She later encourages <a href="../E/Elrond.md" title="Elrond">Elrond</a> to re-forge the sword, and presumably to deliver it to Aragorn.</dd></dl>
+<dl><dd>The last four lines are recited by <a href="../A/Arwen.md" title="Arwen">Arwen</a> upon her return to <a href="Rivendell.md" title="Rivendell">Rivendell</a> as she stands before the Shards of Narsil. She later encourages <a href="../E/Elrond.md" title="Elrond">Elrond</a> to re-forge the sword, and presumably to deliver it to Aragorn.</dd></dl>
 
 <b>2022: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Lord of the Rings: The Rings of Power</a></i>:</b>
 

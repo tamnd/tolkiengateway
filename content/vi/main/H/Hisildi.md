@@ -57,7 +57,7 @@ Một Hisildë đặc biệt nổi tiếng là một Tiên thông thái tên là
 
 ### Cuộc chiến ở Palisor {#The_War_of_Palisor}
 
-Tuy nhiên, một người hầu của [Melko](../M/Melko.md) tên là [Fankil](../F/Fankil.md), cùng với [Yêu tinh](../G/Goblins.md) và [Người lùn](../D/Dwarves.md),<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 1]</a></sup> đã khiến hầu hết Đàn ông xa lánh Người yêu tinh. Và trong cuộc chiến đầu tiên giữa Yêu tinh và Yêu tinh, được gọi là <a class="new" href="https://tolkiengateway.net/w/index.php?title=War_of_Palisor&amp;action=edit&amp;redlink=1" title="War of Palisor (page does not exist)">Cuộc chiến của Palisor</a>, chỉ có loài Người ở Ermon đứng về phía Yêu tinh. Nuin lừng danh cũng chiến đấu ở đó nhưng cuối cùng lại chết dưới tay lũ Goblin "do sự phản bội của loài người".<sup id="cite_ref-Gil_2-1" class="reference"><a href="#cite_note-Gil-2">[2]</a></sup>
+Tuy nhiên, một người hầu của [Melko](../M/Melko.md) tên là [Fankil](../F/Fankil.md), cùng với [Yêu tinh](../G/Goblins.md) và [Người Lùn](../D/Dwarves.md),<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 1]</a></sup> đã khiến hầu hết Đàn ông xa lánh Người yêu tinh. Và trong cuộc chiến đầu tiên giữa Yêu tinh và Yêu tinh, được gọi là <a class="new" href="https://tolkiengateway.net/w/index.php?title=War_of_Palisor&amp;action=edit&amp;redlink=1" title="War of Palisor (page does not exist)">Cuộc chiến của Palisor</a>, chỉ có loài Người ở Ermon đứng về phía Yêu tinh. Nuin lừng danh cũng chiến đấu ở đó nhưng cuối cùng lại chết dưới tay lũ Goblin "do sự phản bội của loài người".<sup id="cite_ref-Gil_2-1" class="reference"><a href="#cite_note-Gil-2">[2]</a></sup>
 
 ### Hậu quả {#Aftermath}
 

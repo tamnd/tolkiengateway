@@ -133,7 +133,7 @@ Trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), Lobelia bị giam trong 
 
 <b>1981: <a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>The Lord of the Rings</i> (loạt phim phát thanh 1981)</a>:</b>
 
-<dl><dd>Although she is only named in passing, Diana Bishop plays Lobelia at Bilbo&#39;s 111th Birthday party.  She and <a href="../O/Otho_Sackville-Baggins.md" title="Otho Sackville-Baggins">Otho</a> are given a brief exchange complaining about being part of &#34;one gross&#34;, and questioning what &#34;Frodo coming into his inheritance&#34; means.</dd></dl>
+<dl><dd>Although she is only named in passing, Diana Bishop plays Lobelia at Bilbo&#39;s 111th Birthday party. She and <a href="../O/Otho_Sackville-Baggins.md" title="Otho Sackville-Baggins">Otho</a> are given a brief exchange complaining about being part of &#34;one gross&#34;, and questioning what &#34;Frodo coming into his inheritance&#34; means.</dd></dl>
 
 <b>1995-8: <i><a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Trung Địa Trò chơi bài sưu tầm</a></i>:</b>
 

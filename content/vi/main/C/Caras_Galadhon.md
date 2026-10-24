@@ -79,7 +79,7 @@ Thành phố tọa lạc trên một ngọn đồi xanh, được bao quanh bở
 
 ## Lịch sử {#History}
 
-Thành phố được thành lập vào thiên niên kỷ thứ hai của [Kỷ nguyên thứ Ba](../T/Third_Age.md) do mối đe dọa ngày càng gia tăng từ [Dol Guldur](../D/Dol_Guldur.md).<sup id="cite_ref-UT-6_2-1" class="reference"><a href="#cite_note-UT-6-2">[2]</a></sup>
+Thành phố được thành lập vào thiên niên kỷ thứ hai của [Kỷ Đệ Tam](../T/Third_Age.md) do mối đe dọa ngày càng gia tăng từ [Dol Guldur](../D/Dol_Guldur.md).<sup id="cite_ref-UT-6_2-1" class="reference"><a href="#cite_note-UT-6-2">[2]</a></sup>
 
 Trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) được đưa qua Lothlórien đến Caras Galadhon, và tại đó gặp các vị chúa tể của [Galadhrim](../G/Galadhrim.md). Họ ở lại thành phố trong một tháng để hồi phục sau chuyến hành trình qua [Moria](../M/Moria.md).
 

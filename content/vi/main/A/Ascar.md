@@ -45,7 +45,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Sau khi Vua [Thingol](../T/Thingol.md) của Doriath bị sát hại, [Người lùn Nogrod](../D/Dwarves_of_Nogrod.md) dễ dàng tiến vào [Menegroth](../M/Menegroth.md), nơi họ [cướp phá](../B/Battle_in_the_Thousand_Caves.md) và vơ vét các đại sảnh, lấy lại [Nauglamír](../N/Nauglamír.md). Những Người lùn chiến thắng hành quân dọc theo bờ sông Ascar cùng chiến lợi phẩm. Đột nhiên, [Beren](../B/Beren.md), con trai ông là [Dior](../D/Dior.md), cùng một đạo quân [Laiquendi](../G/Green-elves.md) tấn công Người lùn. Sau [Trận chiến Sarn Athrad](../B/Battle_of_Sarn_Athrad.md), Beren giành lại Nauglamír, nhưng cho ném toàn bộ phần kho báu còn lại của Doriath xuống sông Ascar. Kể từ đó, con sông được đổi tên thành [Rathlóriel](../R/Rathlóriel.md) ("Giường Vàng").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Sau khi Vua [Thingol](../T/Thingol.md) của Doriath bị sát hại, [Người Lùn Nogrod](../D/Dwarves_of_Nogrod.md) dễ dàng tiến vào [Menegroth](../M/Menegroth.md), nơi họ [cướp phá](../B/Battle_in_the_Thousand_Caves.md) và vơ vét các đại sảnh, lấy lại [Nauglamír](../N/Nauglamír.md). Những Người Lùn chiến thắng hành quân dọc theo bờ sông Ascar cùng chiến lợi phẩm. Đột nhiên, [Beren](../B/Beren.md), con trai ông là [Dior](../D/Dior.md), cùng một đạo quân [Laiquendi](../G/Green-elves.md) tấn công Người Lùn. Sau [Trận chiến Sarn Athrad](../B/Battle_of_Sarn_Athrad.md), Beren giành lại Nauglamír, nhưng cho ném toàn bộ phần kho báu còn lại của Doriath xuống sông Ascar. Kể từ đó, con sông được đổi tên thành [Rathlóriel](../R/Rathlóriel.md) ("Giường Vàng").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

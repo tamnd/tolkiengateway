@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mr. Bliss (2004 film)"
 ---
 
-Chuyển hướng tới [Mr. Hạnh phúc (phim 2004)](<Mr._Bliss_(2004_film).md>).
+Chuyển hướng tới [Mr. Hạnh phúc (phim năm 2004)](<Mr._Bliss_(2004_film).md>).

@@ -402,7 +402,7 @@ Mô phỏng [Qenya](../Q/Qenya.md) theo tiếng Phần Lan và [Goldogrin](../G/
 - <a class="external text" href="http://www.elvish.org" rel="noreferrer noopener" target="_blank">Elvish.org</a>
 - <a class="external text" href="http://www.dcs.ed.ac.uk/misc/local/TolkLang/" rel="noreferrer noopener" target="_blank">Nhiều tài nguyên Tolkien khác nhau</a>
 - <a class="external text" href="http://www.uib.no/People/hnohf/qcourse.htm" rel="noreferrer noopener" target="_blank">Một khóa học Quenya có thể tải xuống</a>
-- <a class="external text" href="http://babel.uoregon.edu/yamada/fonts/tolkien.html" rel="noreferrer noopener" target="_blank">Phông chữ Tiếng Tiên &amp; Người lùn cho Mac Classic</a>
+- <a class="external text" href="http://babel.uoregon.edu/yamada/fonts/tolkien.html" rel="noreferrer noopener" target="_blank">Phông chữ Tiếng Tiên &amp; Người Lùn cho Mac Classic</a>
 - <a class="external text" href="http://www.dcs.ed.ac.uk/misc/local/TolkLang/resources" rel="noreferrer noopener" target="_blank">Danh sách các sách hiện có về Tiếng Tiên</a>
 - <a class="external text" href="http://www.dcs.ed.ac.uk/misc/local/TolkLang/fonts/" rel="noreferrer noopener" target="_blank">Phông chữ Tiếng Tiên</a> cho TeX\|T<sub>E</sub>X
 - <a class="external text" href="http://www.dcs.ed.ac.uk/misc/local/TolkLang/pronguide.html" rel="noreferrer noopener" target="_blank">Hướng dẫn phát âm</a>

@@ -47,7 +47,7 @@ Một trò chơi bài và boardgame hấp dẫn dành cho 2 đến 8 người ch
 
 ## Văn bản bìa sau {#Back_Cover_Text}
 
-RIDDLE OF THE RING là một trò chơi bài và boardgame hấp dẫn phù hợp cho người mới bắt đầu cũng như những game thủ có kinh nghiệm. Trò chơi gia đình hoàn hảo. Mỗi người trong số 2 đến 8 người chơi trở thành Hobbit hoặc Kỵ Sĩ Đen khi ông ta bắt đầu tìm Chiếc nhẫn và mang nó đến Núi Diệt Vong hoặc Barad-dur. Tất cả các nhân vật bạn yêu thích như Gandalf, Frodo. Gollum và Wormtongue trở nên sống động. Hãy đồng hành cùng họ trên suốt chiều dài Trung Địa . . . cuộc phiêu lưu đang chờ đợi!
+RIDDLE OF THE RING là một trò chơi bài và boardgame hấp dẫn phù hợp cho người mới bắt đầu cũng như những game thủ có kinh nghiệm. Trò chơi gia đình hoàn hảo. Mỗi người trong số 2 đến 8 người chơi trở thành Hobbit hoặc Kỵ Sĩ Đen khi ông ta bắt đầu tìm Chiếc nhẫn và mang nó đến Núi Diệt Vong hoặc Barad-dur. Tất cả các nhân vật bạn yêu thích như Gandalf, Frodo. Gollum và Wormtongue trở nên sống động. Hãy đồng hành cùng họ trên suốt chiều dài Trung Địa. . . cuộc phiêu lưu đang chờ đợi!
 
 RIDDLE OF THE RING được dựa trên J.R.R. THE Lord OF THE RINGS của TOLKIEN, nhưng bạn không cần phải làm quen với tác phẩm này để có thể chơi và thưởng thức trò chơi một cách triệt để.
 

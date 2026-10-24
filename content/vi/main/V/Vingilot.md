@@ -86,7 +86,7 @@ Trong một bản thảo, [Tolkien](../T/Tolkien.md) coi cái tên *Eälótë*.<
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Không rõ ngày xây dựng Vingilótë.  Tuor và Idril khởi hành vào <a href="../F/First_Age.md" title="First Age">F.A.</a> <a href="../F/First_Age_525.md" title="First Age 525">525</a> và Eärendil bắt đầu hành trình vào <a href="../F/First_Age_534.md" title="First Age 534">534</a> nên con tàu chắc chắn đã được đóng trong những năm đó.</span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Không rõ ngày xây dựng Vingilótë. Tuor và Idril khởi hành vào <a href="../F/First_Age.md" title="First Age">F.A.</a> <a href="../F/First_Age_525.md" title="First Age 525">525</a> và Eärendil bắt đầu hành trình vào <a href="../F/First_Age_534.md" title="First Age 534">534</a> nên con tàu chắc chắn đã được đóng trong những năm đó.</span>
 </li>
 <li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">Trong bài thơ</a> của <a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo về Eärendil ông tuyên bố rằng Vingilótë được làm lại "<i>của <a href="../M/Mithril.md" title="Mithril">mithril</a> và thủy tinh yêu tinh</i>". Nó làm cho thế giới có thể nhìn thấy ánh sáng của truesilver dưới dạng Sao Hôm và Sao Mai.</span>
 </li>

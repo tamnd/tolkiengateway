@@ -51,7 +51,7 @@ Các tính năng của TEETH OF MORDOR:
 - Hơn 20 trang bố cục, phối cảnh và hình minh họa.
 - Bố cục đa cấp, hoàn chỉnh cho Carchost, Narchhost và khu phức hợp cổng trung tâm.
 - Dữ liệu đồn trú cho cả lực lượng Gondor và Sauronic.
-- Số liệu thống kê và thông tin cơ bản về Miệng của Sauron và Người lùn xứ Waw, chỉ huy Nazgul của Morannon.
+- Số liệu thống kê và thông tin cơ bản về Miệng của Sauron và Người Lùn xứ Waw, chỉ huy Nazgul của Morannon.
 
 ## Xem thêm {#See_also}
 

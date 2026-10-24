@@ -32,7 +32,7 @@ langlinks:
     - [The Tale of Aragorn and Arwen](../T/The_Tale_of_Aragorn_and_Arwen.md) <small>(Theo dõi câu chuyện tình yêu của đôi này, bao gồm cả cái chết của họ.)</small>
 - Nhà Eorl <small>(Lịch sử của <a href="../R/Rohan.md" title="Rohan">Rohan</a>.)</small>
     - Các vị vua của Xứ Mark
-- Dân tộc Durin <small>(Tập trung vào những Người lùn thuộc dòng dõi đó. Một số sự kiện dẫn đến <a href="../Q/Quest_of_Erebor.md" title="Quest of Erebor">Cuộc hành trình đến Erebor</a> được trình bày. Phần này có một gia phả của Durin, bao gồm một số chi tiết về <a href="../G/Gimli.md" title="Gimli">Gimli</a>.)</small>
+- Dân tộc Durin <small>(Tập trung vào những Người Lùn thuộc dòng dõi đó. Một số sự kiện dẫn đến <a href="../Q/Quest_of_Erebor.md" title="Quest of Erebor">Cuộc hành trình đến Erebor</a> được trình bày. Phần này có một gia phả của Durin, bao gồm một số chi tiết về <a href="../G/Gimli.md" title="Gimli">Gimli</a>.)</small>
 
 ## Sáng tác {#Composition}
 

@@ -112,7 +112,7 @@ Dưới đây là **Cây danh mục vị trí** nhằm giúp người chỉnh s�
             - <a href="../../category/R/Realms.md" title="Category:Realms"><span style="color:blue;">Các cõi</span></a>
                 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Category:Ainur_Realms&amp;action=edit&amp;redlink=1" title="Category:Ainur Realms (page does not exist)"><span style="color:purple;">Ainur Vương quốc</span></a>
                     - <a href="../../category/V/Valinor.md" title="Category:Valinor"><span style="color:green;">Valinor</span></a>
-                - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Category:Dwarven_Realms&amp;action=edit&amp;redlink=1" title="Category:Dwarven Realms (page does not exist)"><span style="color:purple;">Người lùn Vương quốc</span></a>
+                - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Category:Dwarven_Realms&amp;action=edit&amp;redlink=1" title="Category:Dwarven Realms (page does not exist)"><span style="color:purple;">Người Lùn Vương quốc</span></a>
                     - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Category:Khazad-d%C3%BBm&amp;action=edit&amp;redlink=1" title="Category:Khazad-dûm (page does not exist)"><span style="color:green;">Khazad-dûm</span></a>
                 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Category:Elven_Realms&amp;action=edit&amp;redlink=1" title="Category:Elven Realms (page does not exist)"><span style="color:purple;">Tiên Vương quốc</span></a>
                     - <a href="../../category/G/Gondolin.md" title="Category:Gondolin"><span style="color:green;">Gondolin</span></a>

@@ -263,7 +263,7 @@ Bởi vì ông bị loại khỏi ba phiên bản chuyển thể chính ([Ralph 
 
 <b>1990: <i><a href="../J/J.R.R._Tolkien&#39;s_The_Lord_of_the_Rings,_Vol._I_(1990_video_game).md" title="J.R.R. Tolkien&#39;s The Lord of the Rings, Vol. I (1990 video game)">J.R.R. Tolkien's The Lord of the Rings, Tập. Tôi</a></i>:</b>
 
-<dl><dd>Tom Bombadil rescues the party from the Willow Man, and provides information, supplies, shelter, and side-quests for the party.  He later rescues the party from the Barrow Wights, and very briefly joins as a temporary playable character while inside the barrow.  His role runs almost directly parallel to the original, with some related passages of <i><a href="The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i> quoted directly.  However, <a href="../G/Goldberry.md" title="Goldberry">Goldberry</a>&#39;s role is significantly changed to provide a quest for the party.</dd></dl>
+<dl><dd>Tom Bombadil rescues the party from the Willow Man, and provides information, supplies, shelter, and side-quests for the party. He later rescues the party from the Barrow Wights, and very briefly joins as a temporary playable character while inside the barrow. His role runs almost directly parallel to the original, with some related passages of <i><a href="The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i> quoted directly. However, <a href="../G/Goldberry.md" title="Goldberry">Goldberry</a>&#39;s role is significantly changed to provide a quest for the party.</dd></dl>
 
 <b>1992: <a href="../D/Der_Herr_der_Ringe_(1992_German_radio_series).md" title="Der Herr der Ringe (1992 German radio series)"><i>Der Herr der Ringe</i> (loạt phim phát thanh Đức năm 1992)</a>:</b>
 
@@ -307,7 +307,7 @@ Bởi vì ông bị loại khỏi ba phiên bản chuyển thể chính ([Ralph 
 
 <b>2012: <i><a href="../L/Lego_The_Lord_of_the_Rings%253A_The_Video_Game.md" title="Lego The Lord of the Rings: The Video Game">Lego The Lord of the Rings: Trò chơi điện tử</a></i>:</b>
 
-<dl><dd>Bombadil is a playable character.  He uses a trowel as a weapon and for digging in certain spots. Tom can be found in his house on the road to the north of <a href="../B/Bucklebury_Ferry.md" title="Bucklebury Ferry">Bucklebury Ferry</a> in the forested area between <a href="../B/Bree.md" title="Bree">Bree</a> and the Shire. It is unclear if this forest is meant to be the Old Forest or not; it is in the right location, but the game never specifically names it and its physical appearance does not fit the book&#39;s description.</dd></dl>
+<dl><dd>Bombadil is a playable character. He uses a trowel as a weapon and for digging in certain spots. Tom can be found in his house on the road to the north of <a href="../B/Bucklebury_Ferry.md" title="Bucklebury Ferry">Bucklebury Ferry</a> in the forested area between <a href="../B/Bree.md" title="Bree">Bree</a> and the Shire. It is unclear if this forest is meant to be the Old Forest or not; it is in the right location, but the game never specifically names it and its physical appearance does not fit the book&#39;s description.</dd></dl>
 
 <b>2014: <i><a href="../L/Lego_The_Hobbit%253A_The_Video_Game.md" title="Lego The Hobbit: The Video Game">Lego The Hobbit: Trò chơi điện tử</a></i>:</b>
 

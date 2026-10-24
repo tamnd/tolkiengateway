@@ -18,7 +18,7 @@ categories:
 
 **Joshua Burnell** là một nhạc sĩ đến từ Vương quốc Anh, người đã phát hành một số album kể từ năm 2013, bao gồm album *Lend An Ear* có hai bài hát là thơ của Tolkien được đưa vào nhạc; Bài hát cuối cùng của [Bilbo](<../B/Bilbo's_Last_Song_(at_the_Grey_Havens).md>) là bản cover lại phần phối khí của [Donald Swann](../D/Donald_Swann.md) và [Far Over The Dãy Núi Sương Mù Cold](../F/Far_over_the_misty_mountains_cold.md) mà ông đã thể hiện theo giai điệu của riêng mình. Album *Lend An Ear* ban đầu được xuất bản vào năm 2013, và đến năm 2026, anh thu âm lại album do không hài lòng với kết quả của album đầu tiên. Đối với album năm 2026 *Lend An Ear \[Revisited\]*, ông đã thu âm lại bài hát Last Song của Bilbo mang đậm chất riêng của mình hơn.
 
-Ông cũng đăng lên YouTube dưới tên *Runcible Spoon*<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> mười bốn bài hát từ [the Hobbit](../T/The_Hobbit.md).
+Ông cũng đăng lên YouTube dưới tên *Runcible Spoon*<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> mười bốn bài hát từ [Hobbit](../T/The_Hobbit.md).
 
 ## Tolkien Đĩa hát {#Tolkien_Discography}
 

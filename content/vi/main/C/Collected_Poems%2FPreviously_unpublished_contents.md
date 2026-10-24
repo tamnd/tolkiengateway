@@ -107,7 +107,7 @@ Trang này ghi lại những bài thơ chưa được xuất bản trước đâ
 - \#181.  [Gió xoáy một chiếc chong chóng gió](../W/When_winter_first_begins_to_bite.md)
     - Khổ thơ thứ nhất trong lời nói đầu *[The Adventures of Tom Bombadil](../T/The_Adventures_of_Tom_Bombadil.md)* (1962)
 
-- \#185.  [Khiếu nại của Mîm của Người lùn](../T/The_Complaint_of_Mîm_the_Dwarf.md)
+- \#185.  [Khiếu nại của Mîm của Người Lùn](../T/The_Complaint_of_Mîm_the_Dwarf.md)
     - bản dịch tiếng Đức xuất hiện vào năm *[Klett-Cotta: Das erste Jahrzehnt 1977–1987, ein Almanach](../K/Klett-Cotta%253A_Das_erste_Jahrzehnt_1977–1987,_ein_Almanach.md)* (1987)
 
 ### Bài thơ còn lại {#Remaining_poems}

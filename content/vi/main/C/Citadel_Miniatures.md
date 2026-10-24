@@ -73,7 +73,7 @@ Vào tháng 12 [1984](../_/1984.md), Games Workshop thông báo rằng họ đã
 - ME-12 Strider Biệt Động Quân
 - ME-13 Frodo: Hobbit Anh hùng
 - ME-14 Legolas: Tiên Anh hùng
-- ME-15 Gimli: Người lùn Anh hùng
+- ME-15 Gimli: Người Lùn Anh hùng
 - ME-21 Boromir: Người đàn ông của Gondor
 - ME-22 Elrond: Nửa-Tiên Chúa
 - ME-23 Rohirrim

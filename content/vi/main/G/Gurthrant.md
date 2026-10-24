@@ -15,7 +15,7 @@ images:
   - "CdxIconInfoFilled.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">&#34;Gurthrant&#34; is a concept which has only appeared in an  adaptation of the works of <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">&#34;Gurthrant&#34; is a concept which has only appeared in an adaptation of the works of <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>.</div></div>
 
 **Gurthrant** là con sông ở [Nurn](../N/Nurn.md) ở [Mordor](../M/Mordor.md) chảy từ góc tây nam của dãy núi [Ephel Dúath](../E/Ephel_Dúath.md) theo hướng đông bắc vào [Biển Nurnen](../S/Sea_of_Nurnen.md) trên bờ phía tây của nó. Con sông không có tên trong [bản đồ](General_Map_of_Middle-earth.md) được [Christopher Tolkien](../C/Christopher_Tolkien.md) vẽ dựa trên bản đồ do [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) vẽ để xuất bản với *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.
 

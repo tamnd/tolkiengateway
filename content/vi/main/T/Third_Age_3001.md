@@ -24,7 +24,7 @@ Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 - [Gaffer Gamgee](../G/Gaffer_Gamgee.md), [Old Noakes](../O/Old_Noakes.md), [Daddy Twofoot](../D/Daddy_Twofoot.md), [Sandyman](../S/Sandyman.md) và những người lạ khác đang ở *[Ivy Bush](../I/Ivy_Bush.md)* và buôn chuyện về [Bilbo](../B/Bilbo_Baggins.md) và [Frodo Baggins](../F/Frodo_Baggins.md).<sup id="cite_ref-party_1-0" class="reference"><a href="#cite_note-party-1">[1]</a></sup>
 - (hai ngày sau) Có tin đồn rằng bữa tiệc của Bilbo sẽ có bắn pháo hoa.<sup id="cite_ref-party_1-1" class="reference"><a href="#cite_note-party-1">[1]</a></sup>
-- Một toa xe [Người lùn](../D/Dwarves_of_Erebor.md) chất đầy các gói hàng đến [Bag End](../B/Bag_End.md).<sup id="cite_ref-party_1-2" class="reference"><a href="#cite_note-party-1">[1]</a></sup>
+- Một toa xe [Người Lùn](../D/Dwarves_of_Erebor.md) chất đầy các gói hàng đến [Bag End](../B/Bag_End.md).<sup id="cite_ref-party_1-2" class="reference"><a href="#cite_note-party-1">[1]</a></sup>
 - c. **[15](../_/15_September.md)**<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> - [Gandalf](../G/Gandalf.md) lái xe đẩy qua [Cầu Brandywine](../B/Brandywine_Bridge.md), qua [Bywater](../B/Bywater.md) và đến Bag End.<sup id="cite_ref-party_1-3" class="reference"><a href="#cite_note-party-1">[1]</a></sup>
 - Ngày và tuần tiếp theo sẽ có thêm nhiều toa xe và xe đẩy đến. Bilbo gửi đơn đặt hàng lương thực từ các vùng lân cận.<sup id="cite_ref-party_1-4" class="reference"><a href="#cite_note-party-1">[1]</a></sup>
 - **[21](../_/21_September.md)** - Trời nhiều mây [Hobbiton](../H/Hobbiton.md).<sup id="cite_ref-party_1-5" class="reference"><a href="#cite_note-party-1">[1]</a></sup>

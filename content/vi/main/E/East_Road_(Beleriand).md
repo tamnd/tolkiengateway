@@ -21,7 +21,7 @@ images:
 
 ## Lịch sử {#History}
 
-Con đường được xây dựng trong những ngày bình yên, trước khi [Morgoth](../M/Morgoth.md) về [Trung Địa](../M/Middle-earth.md)<sup id="cite_ref-maeglin_1-0" class="reference"><a href="#cite_note-maeglin-1">[1]</a></sup> vào [Y.T.](../Y/Years_of_the_Trees.md) [1495](../Y/Year_of_the_Trees_1495.md). Sau khi anh trở về, nó trở thành một tuyến đường nguy hiểm, chỉ được một số ít du khách [Tiên](Elf.md) hoặc [Người lùn](../D/Dwarf.md) dũng cảm sử dụng.<sup id="cite_ref-maeglin_1-1" class="reference"><a href="#cite_note-maeglin-1">[1]</a></sup>
+Con đường được xây dựng trong những ngày bình yên, trước khi [Morgoth](../M/Morgoth.md) về [Trung Địa](../M/Middle-earth.md)<sup id="cite_ref-maeglin_1-0" class="reference"><a href="#cite_note-maeglin-1">[1]</a></sup> vào [Y.T.](../Y/Years_of_the_Trees.md) [1495](../Y/Year_of_the_Trees_1495.md). Sau khi anh trở về, nó trở thành một tuyến đường nguy hiểm, chỉ được một số ít du khách [Tiên](Elf.md) hoặc [Người Lùn](../D/Dwarf.md) dũng cảm sử dụng.<sup id="cite_ref-maeglin_1-1" class="reference"><a href="#cite_note-maeglin-1">[1]</a></sup>
 
 Con đường có lúc kéo dài về phía tây tới Núi Taras trên bờ biển.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 

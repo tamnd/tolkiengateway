@@ -32,9 +32,9 @@ infobox:
 
 **Râu Cứng** là một trong bảy gia tộc của [Người Lùn](../D/Dwarves.md) sống ở [Rhûn](../R/Rhûn.md). Ban đầu họ được ghép đôi với [Ironfists](../I/Ironfists.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Vị trí của bốn gia tộc [Người lùn](../D/Dwarves.md), bao gồm cả Stiffbeards, sống ở [phương Đông](../E/East.md), vẫn chưa được xác định. Khoảng cách giữa dinh thự của họ trong phương Đông và [Dãy Núi Sương Mù](../M/Misty_Mountains.md), cụ thể là [Gundabad](../G/Gundabad.md), được cho là bằng hoặc lớn hơn khoảng cách của Gundabad với [Dãy Núi Xanh](../B/Blue_Mountains.md) trong Phương Tây.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Vị trí của bốn gia tộc [Người Lùn](../D/Dwarves.md), bao gồm cả Stiffbeards, sống ở [phương Đông](../E/East.md), vẫn chưa được xác định. Khoảng cách giữa dinh thự của họ trong phương Đông và [Dãy Núi Sương Mù](../M/Misty_Mountains.md), cụ thể là [Gundabad](../G/Gundabad.md), được cho là bằng hoặc lớn hơn khoảng cách của Gundabad với [Dãy Núi Xanh](../B/Blue_Mountains.md) trong Phương Tây.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
-Có thể Stiffbeards nằm trong số những người "*Houses of other Fathers*" đã gửi quân đến giúp đỡ [Dân tộc Durin](../D/Durin's_Folk~15256.md) trong [Cuộc chiến giữa Người lùn và Orc](../W/War_of_the_Dwarves_and_Orcs.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Có thể Stiffbeards nằm trong số những người "*Houses of other Fathers*" đã gửi quân đến giúp đỡ [Dân tộc Durin](../D/Durin's_Folk~15256.md) trong [Cuộc chiến giữa Người Lùn và Orc](../W/War_of_the_Dwarves_and_Orcs.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 Vào cuối [Kỷ Đệ Tam](../T/Third_Age.md), khi chiến tranh và khủng bố gia tăng trong chính [phương Đông](../E/East.md), một số lượng đáng kể Người râu cứng và người lùn của các thị tộc phương Đông đã rời bỏ quê hương cổ xưa của họ. Họ tìm nơi ẩn náu ở vùng đất phía tây của Trung Địa, nơi một số người trong số họ có thể đã gặp [Frodo Baggins](../F/Frodo_Baggins.md).<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 

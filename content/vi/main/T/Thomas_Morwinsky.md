@@ -52,11 +52,11 @@ images:
 - [2008](../_/2008.md): *[Other Minds](../O/Other_Minds.md)* #3
     - " Những Chiếc Nhẫn Quyền Năng – lịch sử và khả năng"
 - [2008](../_/2008.md): *[Other Minds](../O/Other_Minds.md)* #4
-    - "Lược sử về các dinh thự Người lùn"
+    - "Lược sử về các dinh thự Người Lùn"
     - "Bị cuốn trôi bởi đôi chân của bạn..."
 - [2009](../_/2009.md): *[Other Minds](../O/Other_Minds.md)* #5
     - "Suy Nghĩ Về Imladris, Phần II"
-    - "Sửa đổi 'Lược sử về các dinh thự Người lùn'"
+    - "Sửa đổi 'Lược sử về các dinh thự Người Lùn'"
 - [2009](../_/2009.md): *[Other Minds](../O/Other_Minds.md)* #6
     - "Númenórean Tuổi thọ"
 - [2009](../_/2009.md): *[Other Minds](../O/Other_Minds.md)* #7

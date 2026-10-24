@@ -24,7 +24,7 @@ langlinks:
     url: "https://kontu.wiki/M%C3%A4yr%C3%A4maja"
 ---
 
-**Gia đình Brockhouse** là một gia đình đông dân của [Bree-hobbit](Bree-hobbits.md). Một số thành viên trong gia đình sống ở [the Shire](../T/The_Shire.md): [Sapphira Brockhouse](../S/Sapphira_Brockhouse.md) là vợ của [Uffo Boffin](../U/Uffo_Boffin.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và [Bilbo Baggins](Bilbo_Baggins.md) đã chào mừng gia đình Brockhouse cùng với các gia đình hobbit khác trong bài phát biểu chia tay nổi tiếng của ông vào [tháng Chín 22](../_/22_September.md), [T.A.](../T/Third_Age.md) [3001](../T/Third_Age_3001.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Gia đình Brockhouse** là một gia đình đông dân của [Bree-hobbit](Bree-hobbits.md). Một số thành viên trong gia đình sống ở [Shire](../T/The_Shire.md): [Sapphira Brockhouse](../S/Sapphira_Brockhouse.md) là vợ của [Uffo Boffin](../U/Uffo_Boffin.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và [Bilbo Baggins](Bilbo_Baggins.md) đã chào mừng gia đình Brockhouse cùng với các gia đình hobbit khác trong bài phát biểu chia tay nổi tiếng của ông vào [tháng Chín 22](../_/22_September.md), [T.A.](../T/Third_Age.md) [3001](../T/Third_Age_3001.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

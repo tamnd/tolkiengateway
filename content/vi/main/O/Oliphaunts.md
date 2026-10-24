@@ -83,7 +83,7 @@ Phiên bản phác thảo của cái mà sau này trở thành [Phụ lục F](.
 
 <dl><dd>Gandalf&#39;s line &#34;Great elephants!&#34; was replaced by &#34;Great oliphaunts&#34;; this was one of several uses of material from <i>The Lord of the Rings</i>.</dd></dl>
 
-<b>1980: <a href="../T/The_Return_of_the_King_(1980_film).md" title="The Return of the King (1980 film)"><i>The Return of the King</i> (phim 1980)</a>:</b>
+<b>1980: <a href="../T/The_Return_of_the_King_(1980_film).md" title="The Return of the King (1980 film)"><i>The Return of the King</i> (phim năm 1980)</a>:</b>
 
 <dl><dd><figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mumakil.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/4d/Mumakil.jpg/300px-Mumakil.jpg" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/4d/Mumakil.jpg/450px-Mumakil.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/4d/Mumakil.jpg/600px-Mumakil.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>Oliphaunts as portrayed in Peter Jackson&#39;s <i>The Lord of the Rings</i> film trilogy.</figcaption></figure>The oliphaunts are depicted as large wooly mammoth-like creatures and are the beasts that pull <a href="../G/Grond_(battering_ram).md" title="Grond (battering ram)">Grond</a> into position.</dd></dl>
 

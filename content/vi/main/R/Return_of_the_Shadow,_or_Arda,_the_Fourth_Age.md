@@ -33,7 +33,7 @@ Bùn này có bảy chủng tộc có thể chơi được, được chia thành
 ### [các Dân tộc Tự do](../F/Free_peoples~19934.md) {#Free_peoples}
 
 - [Con người](../M/Men.md)
-- [Người lùn](../D/Dwarves.md)
+- [Người Lùn](../D/Dwarves.md)
 - [Gỗ Tiên](../S/Silvan_Elves.md)
 - [Hobbit](../H/Hobbits.md)
 

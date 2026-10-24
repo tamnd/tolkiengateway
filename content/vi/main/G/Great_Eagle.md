@@ -63,7 +63,7 @@ Trong bản thảo đầu tiên của chương "[Từ chảo rán vào lửa](..
 		</li>
 </ul>
 
-<b>1977: <a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>The Hobbit</i> (phim 1977)</a>:</b>
+<b>1977: <a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>The Hobbit</i> (phim năm 1977)</a>:</b>
 
 <dl><dd>The Eagles come to <a href="../T/Thorin_and_Company.md" title="Thorin and Company">Thorin and Company</a>&#39;s rescue, who are being assailed by <a href="../O/Orcs.md" title="Orcs">Goblins</a>. Gandalf raises his hands to signal them and the Lord of the Eagles gestures towards the group with his wing, signalling the Eagles to pick them up. The Great Eagle picks up Gandalf and the Company is borne away from danger. They land near the edge of <a href="../M/Mirkwood.md" title="Mirkwood">Mirkwood</a> and the Great Eagle places Gandalf down and perches on a rock. Gandalf thanks the &#39;Great Lord of the Eagles&#39; for their rescue. The Lord of the Eagles tells Gandalf that he has not forgotten the arrow which wounded him many years ago and how Gandalf healed him. He tells them &#34;Farewell! wherever you fare, till your eyries receive you at the journey&#39;s end!&#34; and flies off with the rest of the eagles.</dd></dl>
 

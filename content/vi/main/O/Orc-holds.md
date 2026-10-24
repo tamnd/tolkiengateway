@@ -31,9 +31,9 @@ images:
 <p class="tg-quote-footer"><cite><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a></cite></p>
 </blockquote></div></div>
 
-**Orc-holds** là thuật ngữ dùng để chỉ các đường hầm dưới lòng đất của [Orc của Dãy Núi Sương Mù](Orcs_of_the_Misty_Mountains.md), được tìm thấy trên khắp [Dãy Núi Sương Mù](../M/Misty_Mountains.md) và [Mount Gundabad](../M/Mount_Gundabad.md). Từ đó chúng gây rối ở các vùng lân cận như [Eriador](../E/Eriador.md), [Lothlórien](../L/Lothlórien.md) và [the Shire](../T/The_Shire.md).
+**Orc-holds** là thuật ngữ dùng để chỉ các đường hầm dưới lòng đất của [Orc của Dãy Núi Sương Mù](Orcs_of_the_Misty_Mountains.md), được tìm thấy trên khắp [Dãy Núi Sương Mù](../M/Misty_Mountains.md) và [Mount Gundabad](../M/Mount_Gundabad.md). Từ đó chúng gây rối ở các vùng lân cận như [Eriador](../E/Eriador.md), [Lothlórien](../L/Lothlórien.md) và [Shire](../T/The_Shire.md).
 
-Mount Gundabad là thủ đô của Orc ở miền Bắc sau lần bao vây đầu tiên ở [Kỷ Đệ Nhị](../S/Second_Age.md). Các hoạt động chính của Orkish như các trận chiến trong [Cuộc chiến giữa Người lùn và Orc](../W/War_of_the_Dwarves_and_Orcs.md) và [Trận chiến Năm Đạo quân](../B/Battle_of_Five_Armies.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> đều bắt nguồn từ nó.
+Mount Gundabad là thủ đô của Orc ở miền Bắc sau lần bao vây đầu tiên ở [Kỷ Đệ Nhị](../S/Second_Age.md). Các hoạt động chính của Orkish như các trận chiến trong [Cuộc chiến giữa Người Lùn và Orc](../W/War_of_the_Dwarves_and_Orcs.md) và [Trận chiến Năm Đạo quân](../B/Battle_of_Five_Armies.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> đều bắt nguồn từ nó.
 
 Các vùng lãnh thổ [Orkish](Orc.md) bao gồm [Moria](../M/Moria.md) và [Thị trấn yêu tinh](../G/Goblin-town.md) dưới lòng đất do [Great Goblin](../G/Great_Goblin.md) lãnh đạo.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 

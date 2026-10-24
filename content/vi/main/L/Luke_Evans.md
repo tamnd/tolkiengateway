@@ -41,7 +41,7 @@ infobox:
 ## Trích dẫn {#Quotes}
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p> It&#39;s interesting, It&#39;s quite an organic journey I&#39;ve been on with The Hobbit, because obviously I wasn’t in the first film.  I watched from a distance as everybody else, enjoyed the premiere, and watched the characters being taken in by the fans and all that.  But then obviously when the second film came out that was very exciting because I got to see, as well as the rest of the world, Bard the Bowman come to life.  It&#39;s been really lovely watching and reading the positive reception around the world, and different fans all really enjoying Bard and liking his story and liking me playing him. So it&#39;s been a positive experience so far.
+<p> It&#39;s interesting, It&#39;s quite an organic journey I&#39;ve been on with The Hobbit, because obviously I wasn’t in the first film. I watched from a distance as everybody else, enjoyed the premiere, and watched the characters being taken in by the fans and all that. But then obviously when the second film came out that was very exciting because I got to see, as well as the rest of the world, Bard the Bowman come to life. It&#39;s been really lovely watching and reading the positive reception around the world, and different fans all really enjoying Bard and liking his story and liking me playing him. So it&#39;s been a positive experience so far.
 </p>
 <p class="tg-quote-footer"><cite>Luke Evans, Collider</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

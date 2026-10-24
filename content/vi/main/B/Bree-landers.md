@@ -36,7 +36,7 @@ Các khu định cư chính của họ là bốn cộng đồng nằm rải rác
 
 ## Lịch sử {#History}
 
-Những Người mà về sau trở thành họ nằm trong số những người đầu tiên đi về phía tây trong [Kỷ nguyên Cổ](../E/Elder_Days.md). Có vẻ như họ đã ở lại khu vực này, bởi khi người Númenor trở lại Trung Địa vào Kỷ nguyên thứ Hai, họ nhận thấy cư dân Bree vẫn còn hiện diện.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Những Người mà về sau trở thành họ nằm trong số những người đầu tiên đi về phía tây trong [Kỷ nguyên Cổ](../E/Elder_Days.md). Có vẻ như họ đã ở lại khu vực này, bởi khi người Númenor trở lại Trung Địa vào Kỷ Đệ Nhị, họ nhận thấy cư dân Bree vẫn còn hiện diện.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 Các Hobbit vùng Bree cũng có nguồn gốc không rõ ràng, nhưng có xu hướng coi mình là thuộc địa Hobbit lâu đời nhất trên thế giới. Phần lớn họ định cư ở Staddle, dù một số cũng sống ngay tại Bree. Hai chủng tộc Hobbit và Người sống hòa thuận với nhau, nhưng nhìn chung có xu hướng không can thiệp vào chuyện của nhau.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
@@ -44,7 +44,7 @@ Sau Cuộc chiến Nhẫn và việc tái lập [Arnor](../A/Arnor.md), cư dân
 
 ## Văn hóa {#Culture}
 
-Họ nhìn chung là một dân tộc thân thiện, ít nhất là cho đến những biến động do [Cuộc Chiến tranh của Chiếc Nhẫn](../W/War_of_the_Ring.md) gây ra. Họ có một số giao thiệp với [người Hobbit vùng Shire](../S/Shire-hobbits.md), mặc dù con đường giữa Bree và “thuộc địa” của họ ở Shire đã ít người qua lại hơn vào cuối [Kỷ nguyên thứ Ba](../T/Third_Age.md).
+Họ nhìn chung là một dân tộc thân thiện, ít nhất là cho đến những biến động do [Cuộc Chiến tranh của Chiếc Nhẫn](../W/War_of_the_Ring.md) gây ra. Họ có một số giao thiệp với [người Hobbit vùng Shire](../S/Shire-hobbits.md), mặc dù con đường giữa Bree và “thuộc địa” của họ ở Shire đã ít người qua lại hơn vào cuối [Kỷ Đệ Tam](../T/Third_Age.md).
 
 Bree tính thời gian theo [Lịch Bree](Bree_Calendar.md)<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>, rõ ràng là một cách bản địa hóa theo kiểu Hobbit của [Lịch của Nhà vua](../K/King's_Reckoning.md).<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 

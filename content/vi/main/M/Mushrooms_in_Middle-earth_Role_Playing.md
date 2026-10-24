@@ -15,7 +15,7 @@ images:
   - "CdxIconInfoFilled.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">&#34;Mushrooms in Middle-earth Role Playing&#34; is a concept which has only appeared in an  adaptation of the works of <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">&#34;Mushrooms in Middle-earth Role Playing&#34; is a concept which has only appeared in an adaptation of the works of <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>.</div></div>
 
 Để làm rõ bối cảnh hơn, [Middle-earth Role Playing](Middle-earth_Role_Playing.md) giới thiệu nhiều loại [nấm](Mushrooms.md) mới.
 
@@ -45,7 +45,7 @@ images:
 
 ## Nấm phễu {#Hopper_Mushrooms}
 
-<i><b>Nấm phễu</b></i> ([S.](../S/Sindarin.md) *Mithgeryn*, [Q.](../Q/Quenya.md) *Sindibwandi*), còn được gọi là *Tarnas* (mặc dù khác với [True Tarnas](../P/Plants_in_Middle-earth_Role_Playing.md#True_Tarnas)) , là loại nấm màu xám lành tính mọc trên [cây gụ](../W/Woods_in_Middle-earth_Role_Playing.md#Mahogany). Trà được pha từ các nốt sần hình thành nên đã điều trị tổn thương nội tạng, tuy nhiên cũng gây buồn nôn.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup><sup id="cite_ref-hopper_8-0" class="reference"><a href="#cite_note-hopper-8">[8]</a></sup>
+<i><b>Nấm phễu</b></i> ([S.](../S/Sindarin.md) *Mithgeryn*, [Q.](../Q/Quenya.md) *Sindibwandi*), còn được gọi là *Tarnas* (mặc dù khác với [True Tarnas](../P/Plants_in_Middle-earth_Role_Playing.md#True_Tarnas)), là loại nấm màu xám lành tính mọc trên [cây gụ](../W/Woods_in_Middle-earth_Role_Playing.md#Mahogany). Trà được pha từ các nốt sần hình thành nên đã điều trị tổn thương nội tạng, tuy nhiên cũng gây buồn nôn.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup><sup id="cite_ref-hopper_8-0" class="reference"><a href="#cite_note-hopper-8">[8]</a></sup>
 
 ## Chân phễu {#Hopperfoot}
 
@@ -65,7 +65,7 @@ images:
 
 ## Nightrod {#Nightrod}
 
-<i><b>Nightrod</b></i> ([S.](../S/Sindarin.md) *Lebedmor*, [Q.](../Q/Quenya.md) *Morilepsë*), còn được gọi là *Ebony Fingers*, là một loại nấm hình nón nhỏ, màu đen, được tìm thấy trong các hang động. Nó mọc thành từng cụm và được đánh giá cao vừa là một loại nấm chữa bệnh nhẹ vừa là một món ngon, đặc biệt là trong Người lùn món súp. Một chiếc mũ cần câu mới có thể phục hồi sức khỏe nhưng nó sẽ mất tác dụng sau khi khô.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[12]</a></sup>
+<i><b>Nightrod</b></i> ([S.](../S/Sindarin.md) *Lebedmor*, [Q.](../Q/Quenya.md) *Morilepsë*), còn được gọi là *Ebony Fingers*, là một loại nấm hình nón nhỏ, màu đen, được tìm thấy trong các hang động. Nó mọc thành từng cụm và được đánh giá cao vừa là một loại nấm chữa bệnh nhẹ vừa là một món ngon, đặc biệt là trong Người Lùn món súp. Một chiếc mũ cần câu mới có thể phục hồi sức khỏe nhưng nó sẽ mất tác dụng sau khi khô.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[12]</a></sup>
 
 ## Mắt khác {#Other_Eyes}
 

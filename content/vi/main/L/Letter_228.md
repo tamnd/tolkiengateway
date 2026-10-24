@@ -50,7 +50,7 @@ Mặc dù không phản đối thông tin tiểu sử nhưng ông tuyên bố r�
 ## Ghi chú {#Notes}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../_/Åke_Ohlmarks.md" title="Åke Ohlmarks">Åke Ohlmarks</a> translated <i>The Lord of the Rings</i> into Swedish and added his own biographical article about Tolkien.  See <a href="Letter_229.md" title="Letter 229">Letter 229</a> for more of Tolkien&#39;s reaction to this article.</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../_/Åke_Ohlmarks.md" title="Åke Ohlmarks">Åke Ohlmarks</a> translated <i>The Lord of the Rings</i> into Swedish and added his own biographical article about Tolkien. See <a href="Letter_229.md" title="Letter 229">Letter 229</a> for more of Tolkien&#39;s reaction to this article.</span>
 </li>
 </ol></div>
 

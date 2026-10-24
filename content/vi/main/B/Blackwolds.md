@@ -16,7 +16,7 @@ images:
   - "Blackwold1.jpg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">&#34;Blackwolds&#34; is a concept which has only appeared in an  adaptation of the works of <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">&#34;Blackwolds&#34; is a concept which has only appeared in an adaptation of the works of <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>.</div></div>
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/B/Blackwold1.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/57/Blackwold1.jpg/200px-Blackwold1.jpg" decoding="async" loading="lazy" width="200" height="372" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/5/57/Blackwold1.jpg 1.5x" data-file-width="215" data-file-height="400"/></a><figcaption>A <b>Blackwold</b> in <a href="../A/Archet.md" title="Archet">Archet</a>.</figcaption></figure>
 

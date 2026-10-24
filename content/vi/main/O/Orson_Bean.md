@@ -39,8 +39,8 @@ infobox:
 
 ## Vai trò {#Roles}
 
-- [1977](../_/1977.md): [*The Hobbit* (phim 1977)](<../T/The_Hobbit_(1977_film).md>): [Bilbo Baggins](../B/Bilbo_Baggins.md)
-- [1980](../_/1980.md): [*The Return of the King* (phim 1980)](<../T/The_Return_of_the_King_(1980_film).md>): [Frodo Baggins](../F/Frodo_Baggins.md), [Bilbo Baggins](../B/Bilbo_Baggins.md)
+- [1977](../_/1977.md): [*The Hobbit* (phim năm 1977)](<../T/The_Hobbit_(1977_film).md>): [Bilbo Baggins](../B/Bilbo_Baggins.md)
+- [1980](../_/1980.md): [*The Return of the King* (phim năm 1980)](<../T/The_Return_of_the_King_(1980_film).md>): [Frodo Baggins](../F/Frodo_Baggins.md), [Bilbo Baggins](../B/Bilbo_Baggins.md)
 
 ## Liên kết ngoài {#External_links}
 

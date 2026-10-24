@@ -129,7 +129,7 @@ Theo một trong những dự thảo của *[Appendices](../A/Appendices.md)*, n
 
 Trong *[Letter 211](Letter_211.md)* mà [Tolkien](../T/Tolkien.md) viết vào [14 tháng 10](../_/14_October.md) [1958](../_/1958.md) gửi cho [Rhona Beare](../R/Rhona_Beare.md), ông viết rằng khoảng cách thời gian giữa sự sụp đổ của [Barad-dûr](../B/Barad-dûr.md) (vào [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md)) và thời điểm hiện tại (như năm 1958, vào thời điểm Tolkien viết bức thư nói trên) là c. 6.000 năm.
 
-Do đó, Tolkien kết luận rằng vào năm 1958, thế giới đã gần kết thúc **Kỷ thứ năm**, nếu Kỷ nguyên tiếp theo có cùng độ dài với [Kỷ nguyên thứ hai](../S/Second_Age.md) và [Kỷ nguyên thứ ba](../T/Third_Age.md) Kỷ nguyên.
+Do đó, Tolkien kết luận rằng vào năm 1958, thế giới đã gần kết thúc **Kỷ thứ năm**, nếu Kỷ nguyên tiếp theo có cùng độ dài với [Kỷ Đệ Nhị](../S/Second_Age.md) và [Kỷ Đệ Tam](../T/Third_Age.md) Kỷ nguyên.
 
 Tuy nhiên, cuối cùng ông kết luận rằng Kỷ nguyên đã "tăng tốc" và thế giới hiện nay (tức là vào năm 1958) ở cuối **Thời đại thứ sáu**, hoặc thậm chí có thể ở Thời đại thứ bảy.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 

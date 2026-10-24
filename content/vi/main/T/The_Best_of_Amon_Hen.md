@@ -64,7 +64,7 @@ infobox:
 - [*Amon Hen* 140](../A/Amon_Hen_140.md): "Vera Chapman - 'Belladonna Took'" của [Charles Noad](../C/Charles_Noad.md)
 - [*Amon Hen* 142](../A/Amon_Hen_142.md): "Hiệp sĩ hoa vàng" của Juha-Matti Henriksen
 - [*Amon Hen* 145](../A/Amon_Hen_145.md): "Lời thì thầm xuyên qua những chiếc lá" của Matt Bower
-- [*Amon Hen* 145](../A/Amon_Hen_145.md): "And Have a Eye to That Người lùn" của [Helen Armstrong](../H/Helen_Armstrong.md)
+- [*Amon Hen* 145](../A/Amon_Hen_145.md): "And Have a Eye to That Người Lùn" của [Helen Armstrong](../H/Helen_Armstrong.md)
 - [*Amon Hen* 150](../A/Amon_Hen_150.md): "*Amon Hen* - Một lịch sử ngắn" của [Charles Noad](../C/Charles_Noad.md)
 
 ## Phần 2 {#Part_2}

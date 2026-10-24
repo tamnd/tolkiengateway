@@ -73,7 +73,7 @@ Bởi [1956](../_/1956.md) Tolkien đã được thông báo về "một ngôi n
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
 <dl><dd><b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: The Battle for Middle-earth II</a></i>:</b></dd>
-<dd>Mallorn trees are the core buildings in the <a href="../E/Elves.md" title="Elves">elven</a> faction, as they produce  resources needed for constructing buildings and recruiting troops. When a mallorn tree reaches level 3, a tower is automatically constructed atop of the tree, where an elven archer is placed.</dd></dl>
+<dd>Mallorn trees are the core buildings in the <a href="../E/Elves.md" title="Elves">elven</a> faction, as they produce resources needed for constructing buildings and recruiting troops. When a mallorn tree reaches level 3, a tower is automatically constructed atop of the tree, where an elven archer is placed.</dd></dl>
 
 <b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 

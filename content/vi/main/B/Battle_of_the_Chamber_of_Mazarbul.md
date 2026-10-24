@@ -69,7 +69,7 @@ Khi đến cây cầu, Fellowship quay lại và thấy những con Orc đang tr
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1978: <i><a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)">The Lord of the Rings (phim 1978)</a></i>:</b>
+<b>1978: <i><a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)">The Lord of the Rings (phim năm 1978)</a></i>:</b>
 
 <dl><dd>Like the book, the <a class="mw-redirect" href="../C/Cave-troll.md" title="Cave-troll">cave-troll</a> is only glimpsed when it tries to open the door, and Frodo drives it away when he stabs its foot. Then a large group of orcs break through the Chamber door. The fighting is short but sharp, though the orc-chieftain&#39;s attack on Frodo is in slow-motion.</dd></dl>
 

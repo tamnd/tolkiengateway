@@ -28,7 +28,7 @@ Vào [29 tháng 1](../_/29_January.md) [1968](../_/1968.md), [J.R.R. Tolkien](..
 ## Phiên âm {#Transcription}
 
 <blockquote class="tg-quote noexcerpt">
-<p>My dear Jackson,<br/><br/>Thank you for your kind letter. It may interest you to know that (however unfair it may seem) it is impossible to patent mere names, so that you have no obligation to ask my permission, though I appreciate your courtesy.  In the case of Bag-End, I did not invent it, it was in fact the local name of a house an aunt of mine lived in in Worcestershire: an old tumbledown manor house at the end of an untidy lane that led nowhere else.<br/><br/>Yours sincerely,<br/><br/>J.R.R. Tolkien
+<p>My dear Jackson,<br/><br/>Thank you for your kind letter. It may interest you to know that (however unfair it may seem) it is impossible to patent mere names, so that you have no obligation to ask my permission, though I appreciate your courtesy. In the case of Bag-End, I did not invent it, it was in fact the local name of a house an aunt of mine lived in in Worcestershire: an old tumbledown manor house at the end of an untidy lane that led nowhere else.<br/><br/>Yours sincerely,<br/><br/>J.R.R. Tolkien
 </p>
 </blockquote>
 

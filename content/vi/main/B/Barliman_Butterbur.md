@@ -156,7 +156,7 @@ Trong phiên bản đầu tiên của các sự kiện tại Prancing Pony, đư
 
 <b>1981: <i><a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)">The Lord of the Ring của Đài BBC Radio</a></i>:</b>
 
-<dl><dd><a href="../J/James_Grout.md" title="James Grout">James Grout</a> provided the voice of Butterbur. Grout played what is a fairly minor character with great panache, and much of his garrulous dialogue from the book is intact, especially in the longer 1982 episodes.  Butterbur also appears in the penultimate instalment when the returning company stop off at Bree.</dd></dl>
+<dl><dd><a href="../J/James_Grout.md" title="James Grout">James Grout</a> provided the voice of Butterbur. Grout played what is a fairly minor character with great panache, and much of his garrulous dialogue from the book is intact, especially in the longer 1982 episodes. Butterbur also appears in the penultimate instalment when the returning company stop off at Bree.</dd></dl>
 
 <b>2001: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">Chúa tể những chiếc nhẫn: The Fellowship of the Ring</a></i>:</b>
 

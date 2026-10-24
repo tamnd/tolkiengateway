@@ -76,7 +76,7 @@ Trong *[The History of The Hobbit](../T/The_History_of_The_Hobbit.md)*, [John D.
 
 <dl><dd>In the short 1967 film, <i>J.R.R. Tolkien&#39;s The Hobbit</i>, significant changes were made. For instance, the black arrow and the <a href="../A/Arkenstone.md" title="Arkenstone">Arkenstone</a> were merged and it was <a href="Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo Baggins</a>, rather than <a href="Bard.md" title="Bard">Bard</a>, who killed <a href="../S/Smaug.md" title="Smaug">Smaug</a>, here known as as Slag.</dd></dl>
 
-<b>1977: <i><a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)">The Hobbit (phim 1977)</a></i>:</b>
+<b>1977: <i><a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)">The Hobbit (phim năm 1977)</a></i>:</b>
 
 <dl><dd>The black arrow plays a very similar role to that in the book. Bard uses the arrow to kill Smaug after the thrush informs him of Smaug&#39;s weak point.</dd></dl>
 

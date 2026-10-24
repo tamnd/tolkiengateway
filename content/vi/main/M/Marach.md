@@ -55,7 +55,7 @@ infobox:
 
 Người của Marach là nhóm đông đảo nhất trong số các nhóm [Con Người](Men.md) di chuyển về phía tây qua [Ered Luin](../E/Ered_Luin.md) trong [Kỷ Đệ Nhất](../F/First_Age.md) ( [Nhà Hador](../H/House_of_Hador.md)). Do quy mô của đội quân của Marach, họ đi cùng nhau và di chuyển chậm - đến mức mặc dù ban đầu Marach dẫn đầu nhưng ông đã bị người của [Bëor](../B/Bëor.md) và [Haladin](../H/Haladin.md) vượt qua. Khi Haladin băng qua những ngọn núi, họ đã bị quay về phía bắc do tình bạn của [Tiên Xanh](../G/Green-elves.md). Tuy nhiên, khi người dân Marach đi theo Haladin một năm sau đó, hành quân theo đoàn gồm những người cao lớn, hiếu chiến, Tiên tộc của [Ossiriand](../O/Ossiriand.md) đã tránh đường cho họ.
 
-Người dân Marach không nán lại Ossiriand vì họ nghe nói người dân [Bëor](../B/Bëor.md) đã tìm được vùng đất xanh tươi và màu mỡ. Hành quân theo [Người lùn đường](../D/Dwarf-road_of_Beleriand.md) họ định cư ở phía nam và phía đông vùng đất [Baran](../B/Baran.md), con trai của Bëor, trong một vùng có tên là [Estolad](../E/Estolad.md).
+Người dân Marach không nán lại Ossiriand vì họ nghe nói người dân [Bëor](../B/Bëor.md) đã tìm được vùng đất xanh tươi và màu mỡ. Hành quân theo [Người Lùn đường](../D/Dwarf-road_of_Beleriand.md) họ định cư ở phía nam và phía đông vùng đất [Baran](../B/Baran.md), con trai của Bëor, trong một vùng có tên là [Estolad](../E/Estolad.md).
 
 Hầu hết người dân Marach muốn hành trình xa hơn về phía tây nên [Malach Aradan](Malach.md), con trai của Marach, đã dẫn họ đến sườn phía nam của [Ered Wethrin](../E/Ered_Wethrin.md). Tuy nhiên, Marach đã chọn ở lại Estolad cho đến khi qua đời.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 

@@ -20,7 +20,7 @@ sort_keys:
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- [Vua](../K/Kings_of_Durin's_Folk.md) [Thráin](Thráin.md) [Người lùn](../D/Dwarves.md) bị giam trong [Dol Guldur](../D/Dol_Guldur.md); [Chiếc nhẫn Thrór](../R/Ring_of_Thrór.md), chiếc nhẫn cuối cùng của [Bảy Chiếc Nhẫn](../S/Seven_Rings.md), đã bị lấy đi khỏi ông ta.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- [Vua](../K/Kings_of_Durin's_Folk.md) [Thráin](Thráin.md) [Người Lùn](../D/Dwarves.md) bị giam trong [Dol Guldur](../D/Dol_Guldur.md); [Chiếc nhẫn Thrór](../R/Ring_of_Thrór.md), chiếc nhẫn cuối cùng của [Bảy Chiếc Nhẫn](../S/Seven_Rings.md), đã bị lấy đi khỏi ông ta.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

@@ -14,7 +14,7 @@ images:
   - "Disambig.png"
 ---
 
-**Rose** là tên hầu gái phổ biến ở [the Shire](../T/The_Shire.md) và có thể ám chỉ đến:
+**Rose** là tên hầu gái phổ biến ở [Shire](../T/The_Shire.md) và có thể ám chỉ đến:
 
 ## Trung Địa {#Middle-earth}
 

@@ -268,7 +268,7 @@ Tên của ông có thể bắt nguồn từ các từ Anglo-Saxon *eoh* ("ngự
 
 <dl><dd>The part of Éomer is played by <a href="../N/Noel_Johnson.md" title="Noel Johnson">Noel Johnson</a>.<sup id="cite_ref-RT1723_35-0" class="reference"><a href="#cite_note-RT1723-35">[35]</a></sup></dd></dl>
 
-<b>1978: <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim 1978)</a>:</b>
+<b>1978: <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim năm 1978)</a>:</b>
 
 <dl><dd>Éomer and his army are shown slaying <a href="../U/Uglúk.md" title="Uglúk">Uglúk</a>&#39;s band of Orcs, and later arriving at the <a href="../B/Battle_of_the_Hornburg.md" title="Battle of the Hornburg">Battle of the Hornburg</a> alongside <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> to help turn the tide (Éomer taking the place of <a href="../E/Erkenbrand.md" title="Erkenbrand">Erkenbrand</a>, in that regard). Though his name is mentioned by other characters, he is never officially identified and does not have any lines — nor is any animation superimposed over the rotoscoped live-action.</dd></dl>
 
@@ -276,7 +276,7 @@ Tên của ông có thể bắt nguồn từ các từ Anglo-Saxon *eoh* ("ngự
 
 <dl><dd><a href="../M/Matthew_Locricchio.md" title="Matthew Locricchio">Matthew Locricchio</a> plays Éomer.<sup id="cite_ref-36" class="reference"><a href="#cite_note-36">[36]</a></sup> He is portrayed as the son of <a href="../T/Théoden.md" title="Théoden">Théoden</a>, rather than the sister-son.<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">[37]</a></sup></dd></dl>
 
-<b>1980: <a href="../T/The_Return_of_the_King_(1980_film).md" title="The Return of the King (1980 film)"><i>The Return of the King</i> (phim 1980)</a>:</b>
+<b>1980: <a href="../T/The_Return_of_the_King_(1980_film).md" title="The Return of the King (1980 film)"><i>The Return of the King</i> (phim năm 1980)</a>:</b>
 
 <dl><dd>An unnamed Man (who has no lines) flanks Théoden leading into the <a href="../B/Battle_of_the_Pelennor_Fields.md" title="Battle of the Pelennor Fields">Battle of the Pelennor Fields</a>, is later present during the <a href="../L/Last_Debate.md" title="Last Debate">Last Debate</a>, and eventually flanks Aragorn as the mustered forces march to the <a href="../B/Black_Gate.md" title="Black Gate">Black Gate</a>. This character could very well be Éomer, but it is never confirmed.</dd></dl>
 

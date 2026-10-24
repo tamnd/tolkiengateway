@@ -80,7 +80,7 @@ Giống như những [Rohirrim](../R/Rohirrim.md) khác, tên của Ceorl bắt 
 		</li>
 </ul>
 
-<b><a href="../_/1978.md" title="1978">1978</a>: <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim 1978)</a>:</b>
+<b><a href="../_/1978.md" title="1978">1978</a>: <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim năm 1978)</a>:</b>
 
 <dl><dd>Ceorl is omitted. <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> simply breaks off the main unit and rides to the Crossings of the Isen.</dd></dl>
 

@@ -60,7 +60,7 @@ infobox:
 </p><p>RULES
 </p><p>New Warriors and Heroes for the forces of Good and Evil, including the dour-handed Rangers of the North, the courageous Knights of Dol Amroth, the deadly Hâsharii and the fearsome might of the Mûmakil.
 </p><p>SCENARIOS
-</p><p>Seven linked scenarios that tell of the prologue to the Battle of the Pelennor Fields, from the rise of Suladân the Serpent Lord and Imrahil&#39;s defence of Harondor to the manipulations of the Hâsharii. A further four scenarios - allow players to reenact key scenes from the book and films as the Haradrim arrive upon the Pelennor.
+</p><p>Seven linked scenarios that tell of the prologue to the Battle of the Pelennor Fields, from the rise of Suladân Serpent Lord and Imrahil&#39;s defence of Harondor to the manipulations of the Hâsharii. A further four scenarios - allow players to reenact key scenes from the book and films as the Haradrim arrive upon the Pelennor.
 </p><p>PAINTING TIPS
 </p><p>Detailed advice on creating scenery for your games, as well as painting guides for the Haradrim and the Mûmakil.
 </p>

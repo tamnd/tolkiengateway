@@ -15,7 +15,7 @@ images:
   - "CdxIconInfoFilled.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">&#34;Banes of Angmar&#34; is a concept which has only appeared in an  adaptation of the works of <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">&#34;Banes of Angmar&#34; is a concept which has only appeared in an adaptation of the works of <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>.</div></div>
 
 Trong [Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md), **Tai ương của Angmar** là một thuật ngữ chung để chỉ những cơn tàn lụi, dịch bệnh, bệnh tật và lời nguyền ma thuật giáng xuống [Eriador](../E/Eriador.md) giữa [T.A.](../T/Third_Age.md) [1636](../T/Third_Age_1636.md) và [Kỷ Đệ Tứ](../F/Fourth_Age.md) [15](../F/Fourth_Age_15.md). Không thể đánh bại [Dúnedain](../D/Dúnedain.md) của [Arthedain](../A/Arthedain.md) trên chiến trường, [Vua Phù thủy của Angmar](../W/Witch-king_of_Angmar~30551.md) đã chuyển sang các phương pháp này.
 

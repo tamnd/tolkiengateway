@@ -72,14 +72,14 @@ Số báo này bao gồm bài đánh giá "Ý kiến ​​của Priscilla Tolki
     - Bởi: [Charles Noad](../C/Charles_Noad.md)
 - Truyện ngắn: Kẻ biến hình
     - Bởi: Jim Johnstone
-- Phê bình và đáp trả: Câu chuyện của những người vợ Người lùn
+- Phê bình và đáp trả: Câu chuyện của những người vợ Người Lùn
     - Bởi: Anthony Gunning
     - Bởi: [Vera Chapman](../V/Vera_Chapman.md)
 - Đánh giá: Khám phá thế giới mới
     - Bởi: Rosemary Haughton
 - Bài thơ: Dragonsnore
     - Bởi: Anne Etkin
-- Bài viết: Lời nguyền của Người lùn Nhỏ
+- Bài viết: Lời nguyền của Người Lùn Nhỏ
     - Bởi: Pat Masson
 - Minh họa: Minas Tirith
     - Bởi: John Trippick

@@ -20,7 +20,7 @@ sort_keys:
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- [Cuộc chiến giữa Người lùn và Orc](../W/War_of_the_Dwarves_and_Orcs.md): [Trận Nanduhirion](../B/Battle_of_Azanulbizar.md) trước [Cổng Đông của Moria](../G/Great_Gates.md).<sup id="cite_ref-AppB2_1-0" class="reference"><a href="#cite_note-AppB2-1">[1]</a></sup> Chiến tranh kết thúc.<sup id="cite_ref-AppA3_2-0" class="reference"><a href="#cite_note-AppA3-2">[2]</a></sup>
+- [Cuộc chiến giữa Người Lùn và Orc](../W/War_of_the_Dwarves_and_Orcs.md): [Trận Nanduhirion](../B/Battle_of_Azanulbizar.md) trước [Cổng Đông của Moria](../G/Great_Gates.md).<sup id="cite_ref-AppB2_1-0" class="reference"><a href="#cite_note-AppB2-1">[1]</a></sup> Chiến tranh kết thúc.<sup id="cite_ref-AppA3_2-0" class="reference"><a href="#cite_note-AppA3-2">[2]</a></sup>
 - Cái chết của [Azog](../A/Azog.md), [Frerin](../F/Frerin.md), [Fundin](../F/Fundin.md) và [Náin](../N/Náin_son_of_Grór.md).<sup id="cite_ref-AppA3_2-1" class="reference"><a href="#cite_note-AppA3-2">[2]</a></sup>
 - [Dáin Chân Sắt](../D/Dáin_Ironfoot.md) quay lại [Dãy Đồi Sắt](../I/Iron_Hills.md).<sup id="cite_ref-AppB2_1-1" class="reference"><a href="#cite_note-AppB2-1">[1]</a></sup>
 - [Thráin II](Thráin.md) cùng con trai [Thorin](Thorin.md) cùng [Balin](../B/Balin.md) và [Glóin](../G/Glóin.md) rời đi [Dunland](../D/Dunland.md) và lang thang về phía Tây.<sup id="cite_ref-AppB2_1-2" class="reference"><a href="#cite_note-AppB2-1">[1]</a></sup><sup id="cite_ref-AppA3_2-2" class="reference"><a href="#cite_note-AppA3-2">[2]</a></sup>

@@ -89,7 +89,7 @@ Tên *Galion* được cho là *not* [Sindarin](../S/Sindarin.md), mặc dù có
 
 <dl><dd><a class="new" href="https://tolkiengateway.net/w/index.php?title=Peter_Baldwin&amp;action=edit&amp;redlink=1" title="Peter Baldwin (page does not exist)">Peter Baldwin</a> provided the voice of Galion.</dd></dl>
 
-<b>1977: <a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>The Hobbit</i> (phim 1977)</a>:</b>
+<b>1977: <a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>The Hobbit</i> (phim năm 1977)</a>:</b>
 
 <dl><dd>Galion is not explicitly identified. Instead, he is one of two elves whom Bilbo observes getting drunk.</dd></dl>
 

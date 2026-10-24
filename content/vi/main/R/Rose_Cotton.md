@@ -137,7 +137,7 @@ Trong *[King's Letter](../K/King's_Letter.md)*, không có trong *The Return of 
 		</li>
 </ul>
 
-<b>1980: <a href="../T/The_Return_of_the_King_(1980_film).md" title="The Return of the King (1980 film)"><i>The Return of the King</i> (phim 1980)</a>:</b>
+<b>1980: <a href="../T/The_Return_of_the_King_(1980_film).md" title="The Return of the King (1980 film)"><i>The Return of the King</i> (phim năm 1980)</a>:</b>
 
 <dl><dd>During a ring-induced dream at the <a href="../T/Tower_of_Cirith_Ungol.md" title="Tower of Cirith Ungol">Tower of Cirith Ungol</a>, Sam thinks of going back home. An older man, he sits and watches several children playing about. A blonde woman, obviously his wife, carries a baby to him. She is not identified as Rosie on screen, so the identification is conjectural.</dd></dl>
 

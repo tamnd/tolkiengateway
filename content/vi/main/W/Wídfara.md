@@ -48,7 +48,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Nhà của ông ở [the Wold](../T/The_Wold.md), vùng đồng cỏ hoang dã ở biên giới phía bắc của [Rohan](../R/Rohan.md), và ở vùng đất phía bắc này, ông đã có được khả năng cảm nhận thời tiết đặc biệt. Ông đã đi theo [Théoden](../T/Théoden.md) đến [Minas Tirith](../M/Minas_Tirith.md) và chính ông là người đầu tiên báo cáo về sự thay đổi của gió trong suốt chuyến đi dài, một sự thay đổi báo trước sự kết thúc của bóng tối lờ mờ của [Sauron](../S/Sauron.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Ông đã chiến đấu trong [Trận chiến trên Cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md) tiếp theo.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Nhà của ông ở [Wold](../T/The_Wold.md), vùng đồng cỏ hoang dã ở biên giới phía bắc của [Rohan](../R/Rohan.md), và ở vùng đất phía bắc này, ông đã có được khả năng cảm nhận thời tiết đặc biệt. Ông đã đi theo [Théoden](../T/Théoden.md) đến [Minas Tirith](../M/Minas_Tirith.md) và chính ông là người đầu tiên báo cáo về sự thay đổi của gió trong suốt chuyến đi dài, một sự thay đổi báo trước sự kết thúc của bóng tối lờ mờ của [Sauron](../S/Sauron.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Ông đã chiến đấu trong [Trận chiến trên Cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md) tiếp theo.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

@@ -165,24 +165,24 @@ Bản nhạc dựa trên một số lượng lớn các chủ đề liên tưở
 </td>
 <td><b>Nature</b>
 </td>
-<td>This theme begins with a major-mode transformation of the impediment figure (over A minor: i-VI-i) and continues into chromatically rising chords. This second part is sometimes used on its own and, in the most extroverted statements, is embellished with unison brass triplets. Both parts are varied for other themes of the natural world. This theme first appears under the letter Gandalf sends to Hera, then appears through the bulk of the cycle to depict nature. In the end of <i>The Two Towers</i>, it parallels the charge out of Helm&#39;s Deep with the concurrent Ent attack, and from this point on the theme becomes  temporarily associated with the Rohirrim.
+<td>This theme begins with a major-mode transformation of the impediment figure (over A minor: i-VI-i) and continues into chromatically rising chords. This second part is sometimes used on its own and, in the most extroverted statements, is embellished with unison brass triplets. Both parts are varied for other themes of the natural world. This theme first appears under the letter Gandalf sends to Hera, then appears through the bulk of the cycle to depict nature. In the end of <i>The Two Towers</i>, it parallels the charge out of Helm&#39;s Deep with the concurrent Ent attack, and from this point on the theme becomes temporarily associated with the Rohirrim.
 </td></tr>
 <tr>
 <td>13
 </td>
 <td><b>Saruman and the Orcs</b>
 </td>
-<td>This theme first appears retrograded, as a lyrical triple-time woodwind idea for Saruman&#39;s appearance in <i>The War of the Rohirrim</i>. It later assumes its definitive 5/4 setting in trombones. Notice that it reorganizes the pitches of the Ring  [4, 8], but now the seasawing minor seconds fall and rise. Later, the  theme appears for Saruman&#39;s Uruks - the company of Uruks that chase the Fellowship are scored with a harmonized form of the theme&#39;s second phrase - but also for Orcs in general.
+<td>This theme first appears retrograded, as a lyrical triple-time woodwind idea for Saruman&#39;s appearance in <i>The War of the Rohirrim</i>. It later assumes its definitive 5/4 setting in trombones. Notice that it reorganizes the pitches of the Ring  [4, 8], but now the seasawing minor seconds fall and rise. Later, the theme appears for Saruman&#39;s Uruks - the company of Uruks that chase the Fellowship are scored with a harmonized form of the theme&#39;s second phrase - but also for Orcs in general.
 </td></tr>
 <tr>
 <td>14
 </td>
 <td><b>The Hobbits (main theme)</b>
 </td>
-<td>This theme, along  with the Ring [4] is the nearest the series has to a main theme. It is  almost always set in D pentatonic or C pentatonic, usually in strings, solo clarinet or tin whistle: this latter instrument is replaced by flute in <i>The Return of the King</i>. It is again in detachable parts:
+<td>This theme, along with the Ring [4] is the nearest the series has to a main theme. It is almost always set in D pentatonic or C pentatonic, usually in strings, solo clarinet or tin whistle: this latter instrument is replaced by flute in <i>The Return of the King</i>. It is again in detachable parts:
 <ul><li><b>First phrase</b>: This rises through four scale degrees, then falls back down. It is typically harmonized in D: I-IV-I-V.</li>
-<li><b>Second phrase</b>: By sequencing the initial  stepwise motif upwards and harmonizing it with D: vii-IV-V-I, this part  of the theme depicts the Shire as &#34;the place that makes your heart swell when you think about it.&#34;<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></li>
-<li><b>Accompaniment</b>: the first part is often accompanied by this bumptious outline in fifths and fourths. Howard omits  this when a more sobering effect is called for, but he also uses it on  its own.</li></ul>
+<li><b>Second phrase</b>: By sequencing the initial stepwise motif upwards and harmonizing it with D: vii-IV-V-I, this part of the theme depicts the Shire as &#34;the place that makes your heart swell when you think about it.&#34;<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></li>
+<li><b>Accompaniment</b>: the first part is often accompanied by this bumptious outline in fifths and fourths. Howard omits this when a more sobering effect is called for, but he also uses it on its own.</li></ul>
 </td></tr>
 <tr>
 <td>15
@@ -191,35 +191,35 @@ Bản nhạc dựa trên một số lượng lớn các chủ đề liên tưở
 </td>
 <td>Howard derives several fragments from the Ring that appear on their own:
 <ul><li>Ascending second: Both in <i>An Unexpected Journey</i> and <i>The Fellowship of the Ring</i>, Bilbo blows smoke rings to the sound of a tritone gliding into the fifth. This recreates the rising minor second that opens the ring [4] but over a major chord: it returns after the Ring&#39;s destruction when characters recall it, reaffirming that the Ring is indeed gone. The figure does also appear in the minor as a more pointed allusion to the Ring throughout the quest.</li>
-<li>Chords: Howard also harmonizes this motion as minor triads a minor second apart, or as a  minor triad resolving to a major triad: this latter gesture concludes the prologue of <i>Fellowship of the Ring</i> (E♭: i-I) and both Weathertop (on album) and the walls of Moria are revealed  to the sound of fanfares derived from this gesture.</li></ul>
+<li>Chords: Howard also harmonizes this motion as minor triads a minor second apart, or as a minor triad resolving to a major triad: this latter gesture concludes the prologue of <i>Fellowship of the Ring</i> (E♭: i-I) and both Weathertop (on album) and the walls of Moria are revealed to the sound of fanfares derived from this gesture.</li></ul>
 </td></tr>
 <tr>
 <td>16
 </td>
 <td><b>Bilbo Baggins, first theme</b>
 </td>
-<td>This theme reshapes the Hobbits&#39; theme to depict Bilbo Baggins. In the announcement trailer, only its first phrase is heard, but in <i>An Unexpected Journey</i> it is  sometimes extended into a second phrase which, with its melodic leaps and horn scoring hints at Bilbo&#39;s more outgoing, &#34;Tookish&#34; side. This phrase is later used on its own.
+<td>This theme reshapes the Hobbits&#39; theme to depict Bilbo Baggins. In the announcement trailer, only its first phrase is heard, but in <i>An Unexpected Journey</i> it is sometimes extended into a second phrase which, with its melodic leaps and horn scoring hints at Bilbo&#39;s more outgoing, &#34;Tookish&#34; side. This phrase is later used on its own.
 </td></tr>
 <tr>
 <td>17
 </td>
 <td><b>The Company</b>
 </td>
-<td>This theme is first sung by Thorin and company (over string clusters [2] in the trailer, <i>a-cappella</i> in the film), but then appears orchestrally. The most extrovert statements are preceded by a heroic variant of Bilbo&#39;s second theme [20] and use [18] as a countermelody. At the end of <i>An Unexpected Journey,</i> it is transformed into the Song of the Lonely Mountain. After this, as the quest loses its swashbuckling sheen, the     theme is no longer heard. Its harmony (triads a major second apart) is shared between all the <i>melodic</i> Dwarven themes.
+<td>This theme is first sung by Thorin and company (over string clusters [2] in the trailer, <i>a-cappella</i> in the film), but then appears orchestrally. The most extrovert statements are preceded by a heroic variant of Bilbo&#39;s second theme [20] and use [18] as a countermelody. At the end of <i>An Unexpected Journey,</i> it is transformed into the Song of the Lonely Mountain. After this, as the quest loses its swashbuckling sheen, the theme is no longer heard. Its harmony (triads a major second apart) is shared between all the <i>melodic</i> Dwarven themes.
 </td></tr>
 <tr>
 <td>18
 </td>
 <td><b>First Dwarven theme (Thorin):</b>
 </td>
-<td>The stepwise nature of this theme depicts the influence Bilbo will play in Thorin&#39;s life. As in the announcement trailer, it is often (but not consistently) heard as a countermelody for [17]. The theme is not, however, Thorin&#39;s theme in <i>strictu sensu</i>: it scores most of the establishing montage of Erebor, and several scenes  of the company at large. Again, notice the &#34;Dwarven&#34; Am-G harmony.
+<td>The stepwise nature of this theme depicts the influence Bilbo will play in Thorin&#39;s life. As in the announcement trailer, it is often (but not consistently) heard as a countermelody for [17]. The theme is not, however, Thorin&#39;s theme in <i>strictu sensu</i>: it scores most of the establishing montage of Erebor, and several scenes of the company at large. Again, notice the &#34;Dwarven&#34; Am-G harmony.
 </td></tr>
 <tr>
 <td>19
 </td>
 <td><b>Second Dwarven theme, first form</b>
 </td>
-<td>This theme is used more generally for the Dwarves (it&#39;s called &#34;The House of  Durin&#34; in Howard&#39;s sketches). This first form, heard over the opening  titles of <i>An Unexpected Journey</i>, combines the contour of the  definitive theme with the pitches of the Ring fragment [15]. It also appears during the eagle rescue (only on album) and when the Dwarves reunite in Erebor after Smaug&#39;s attack.
+<td>This theme is used more generally for the Dwarves (it&#39;s called &#34;The House of Durin&#34; in Howard&#39;s sketches). This first form, heard over the opening titles of <i>An Unexpected Journey</i>, combines the contour of the definitive theme with the pitches of the Ring fragment [15]. It also appears during the eagle rescue (only on album) and when the Dwarves reunite in Erebor after Smaug&#39;s attack.
 </td></tr>
 <tr>
 <td>20
@@ -233,7 +233,7 @@ Bản nhạc dựa trên một số lượng lớn các chủ đề liên tưở
 </td>
 <td><b>First tragic theme (transcendant)</b>
 </td>
-<td>This theme first appears during the opening shots of <i>An Unexpected Journey</i>: this creates a sense of bookends with an identical statement in the Grey Havens, when Gandalf says farewel to the Hobbits. It also laments Gandalf&#39;s death (Doug Adams calls it &#34;Gandalf&#39;s farewells&#34;) and is embedded into the farewell from Lorien. But it also appears during the  final scenes on the slopes of Mount Doom. It is a chord progression atypical of the rest of the score: A♭: vi-IV-I-V. This results in the top voices rising and falling a minor second (cf. [4]) but then falling another major second. Combinations of rising and falling major and minor seconds, as well as minor scales, unite all the themes that depict Sauron&#39;s influence on Middle-earth (also [1]).
+<td>This theme first appears during the opening shots of <i>An Unexpected Journey</i>: this creates a sense of bookends with an identical statement in the Grey Havens, when Gandalf says farewel to the Hobbits. It also laments Gandalf&#39;s death (Doug Adams calls it &#34;Gandalf&#39;s farewells&#34;) and is embedded into the farewell from Lorien. But it also appears during the final scenes on the slopes of Mount Doom. It is a chord progression atypical of the rest of the score: A♭: vi-IV-I-V. This results in the top voices rising and falling a minor second (cf. [4]) but then falling another major second. Combinations of rising and falling major and minor seconds, as well as minor scales, unite all the themes that depict Sauron&#39;s influence on Middle-earth (also [1]).
 </td></tr>
 <tr>
 <td>22
@@ -247,7 +247,7 @@ Bản nhạc dựa trên một số lượng lớn các chủ đề liên tưở
 </td>
 <td><b>Third Dwarven theme (Erebor)</b>
 </td>
-<td>This theme is  three rising horncalls outlining an A Aeolian scale: 1-3, 1-4, 1-5. It subsides in a descending, syncopated pattern that is later also used on its own. Again, it is not Erebor&#39;s theme in <i>stricto sensu</i>: statements of it appear for the company, and for Thorin (it is played diegetically for his obsequies), as well as for the Iron Hill Dwarves. Henceforth, non-melodic Dwarven music will be characterized by its intervallic nature, often parallel fifths.
+<td>This theme is three rising horncalls outlining an A Aeolian scale: 1-3, 1-4, 1-5. It subsides in a descending, syncopated pattern that is later also used on its own. Again, it is not Erebor&#39;s theme in <i>stricto sensu</i>: statements of it appear for the company, and for Thorin (it is played diegetically for his obsequies), as well as for the Iron Hill Dwarves. Henceforth, non-melodic Dwarven music will be characterized by its intervallic nature, often parallel fifths.
 </td></tr>
 <tr>
 <td>24
@@ -268,7 +268,7 @@ Bản nhạc dựa trên một số lượng lớn các chủ đề liên tưở
 </td>
 <td><b>Woodland Elves</b>
 </td>
-<td>This D Phrygian theme depicts the Woodland Elves as closer to Men, but the emphasis on the third degree in the harmony gives it an Elven sheen. Henceforth, Elven themes will be characterized by more &#34;advanced&#34; harmony than the rest of Middle-earth: mediant and chromatic mediant harmony, whole tone scales, chromatic lines, seventh  chords and so forth.
+<td>This D Phrygian theme depicts the Woodland Elves as closer to Men, but the emphasis on the third degree in the harmony gives it an Elven sheen. Henceforth, Elven themes will be characterized by more &#34;advanced&#34; harmony than the rest of Middle-earth: mediant and chromatic mediant harmony, whole tone scales, chromatic lines, seventh chords and so forth.
 </td></tr>
 <tr>
 <td>27
@@ -378,7 +378,7 @@ Bản nhạc dựa trên một số lượng lớn các chủ đề liên tưở
 </td>
 <td><b>Hobbits, kinetic version</b>
 </td>
-<td>This sequences the initial 1-2-3 rise of the Hobbits [14.1] over canonical imitation of the     accompaniment [14.3] in quavers and semiquavers. It depicts Bilbo rushing out of his door, and Merry and Pippin rushing through the cornfield.
+<td>This sequences the initial 1-2-3 rise of the Hobbits [14.1] over canonical imitation of the accompaniment [14.3] in quavers and semiquavers. It depicts Bilbo rushing out of his door, and Merry and Pippin rushing through the cornfield.
 </td></tr>
 <tr>
 <td>42
@@ -392,7 +392,7 @@ Bản nhạc dựa trên một số lượng lớn các chủ đề liên tưở
 </td>
 <td><b>Battle with Azog</b>
 </td>
-<td>A similar figure in parallel fourths depicts the battle of Azanulbizar. It returns for the     confrontation with Azog in the <i>Battle of the Five Armies</i>.
+<td>A similar figure in parallel fourths depicts the battle of Azanulbizar. It returns for the confrontation with Azog in the <i>Battle of the Five Armies</i>.
 </td></tr>
 <tr>
 <td>44
@@ -456,7 +456,7 @@ Bản nhạc dựa trên một số lượng lớn các chủ đề liên tưở
 <td><b>Hobbits (developed)</b>
 </td>
 <td>Two developments of the Hobbits theme depict the Hobbits&#39; personal growth, loss of innoncence, discovery of compassion and so forth:
-<ul><li>A fuller version of the original theme, the harmony filled in to  D: I-iii-IV-I-IV-V.</li>
+<ul><li>A fuller version of the original theme, the harmony filled in to D: I-iii-IV-I-IV-V.</li>
 <li>A melodic development of [14.2] with a gruppeto figure similar to [4]. It depicts Bilbo&#39;s act of compassion towards Gollum, but also scenes that depict the growing maturity and worldliness of the Hobbits in <i>Fellowship of the Ring</i> and <i>The Two Towers.</i></li></ul>
 </td></tr>
 <tr>
@@ -464,14 +464,14 @@ Bản nhạc dựa trên một số lượng lớn các chủ đề liên tưở
 </td>
 <td><b>Second danger motif (first form)</b>
 </td>
-<td>This is another rhythmic figure that skips the first beat, but here outlining a  minor scale. It has a more dynamic effect than [49].
+<td>This is another rhythmic figure that skips the first beat, but here outlining a minor scale. It has a more dynamic effect than [49].
 </td></tr>
 <tr>
 <td>54
 </td>
 <td><b>Main evil theme</b>
 </td>
-<td>This adapts the Ring [4] to the Phrygian Dominant setting of the dragon. Its definitive form is set in  muted trumpets and rhaita. Here, <i>cor anglais</i> imitates the rhaita. In <i>The Battle of the Five Armies</i>, a pipe organ produces a similarly reedy sound.
+<td>This adapts the Ring [4] to the Phrygian Dominant setting of the dragon. Its definitive form is set in muted trumpets and rhaita. Here, <i>cor anglais</i> imitates the rhaita. In <i>The Battle of the Five Armies</i>, a pipe organ produces a similarly reedy sound.
 </td></tr>
 <tr>
 <td>55
@@ -485,7 +485,7 @@ Bản nhạc dựa trên một số lượng lớn các chủ đề liên tưở
 </td>
 <td><b>Lothlorien or Galadriel</b>
 </td>
-<td>This theme is also characterized by the F Phrygian Dominant mode. It&#39;s brassy appearance for Elrond&#39;s company attacking Yazneg&#39;s Orcs creates a parallel with the arrival of Haldir&#39;s Elves to Helm&#39;s Deep (heralded by the same rendition of [9]). The theme also appears in guises that emphasize the pitches of [45], inherent in the theme, or changed to double harmonic minor. When     Frodo is struck by a vision of Galadriel in Shelob&#39;s lair, the theme is shifted into standard Phrygian mode.
+<td>This theme is also characterized by the F Phrygian Dominant mode. It&#39;s brassy appearance for Elrond&#39;s company attacking Yazneg&#39;s Orcs creates a parallel with the arrival of Haldir&#39;s Elves to Helm&#39;s Deep (heralded by the same rendition of [9]). The theme also appears in guises that emphasize the pitches of [45], inherent in the theme, or changed to double harmonic minor. When Frodo is struck by a vision of Galadriel in Shelob&#39;s lair, the theme is shifted into standard Phrygian mode.
 </td></tr>
 <tr>
 <td>57
@@ -527,7 +527,7 @@ Bản nhạc dựa trên một số lượng lớn các chủ đề liên tưở
 </td>
 <td><b>Gollum</b>
 </td>
-<td>This theme is in major and minor seconds played tremolando on cimbalom. This compares the spindly quality of Gollum, in his more menacing persona, with the hammered dulcimer that often plays [34]. In the early scenes of <i>The Two Towers</i>, this figure is sequenced up so that it spans two chromatically interlocking  fifths: this is similar to the music of Loge, the god of deception, in Wagner&#39;s Ring, a similarity that will become important later in the score.
+<td>This theme is in major and minor seconds played tremolando on cimbalom. This compares the spindly quality of Gollum, in his more menacing persona, with the hammered dulcimer that often plays [34]. In the early scenes of <i>The Two Towers</i>, this figure is sequenced up so that it spans two chromatically interlocking fifths: this is similar to the music of Loge, the god of deception, in Wagner&#39;s Ring, a similarity that will become important later in the score.
 </td></tr>
 <tr>
 <td>63
@@ -613,7 +613,7 @@ Bản nhạc dựa trên một số lượng lớn các chủ đề liên tưở
 </td>
 <td><b>Woodland Guards</b>
 </td>
-<td>Since Tauriel is the head of  the guard, slow, lyrical versions of this theme acts as her secondary theme. Again, the Woodland Elves are set in &#34;human&#34; scales, in this case natural minor.
+<td>Since Tauriel is the head of the guard, slow, lyrical versions of this theme acts as her secondary theme. Again, the Woodland Elves are set in &#34;human&#34; scales, in this case natural minor.
 </td></tr>
 <tr>
 <td>75
@@ -627,7 +627,7 @@ Bản nhạc dựa trên một số lượng lớn các chủ đề liên tưở
 </td>
 <td><b>Tauriel and Kili</b>
 </td>
-<td>This theme begins with a duet for flute (a variant on Tauriel&#39;s theme) and oboe (answering with a  variant of Thorin&#39;s theme). This is followed by a choral theme which incorporates the tragic theme [45], harmonized in &#34;Elven&#34; mediant chords and elaborated with a Dwarven open fifth.
+<td>This theme begins with a duet for flute (a variant on Tauriel&#39;s theme) and oboe (answering with a variant of Thorin&#39;s theme). This is followed by a choral theme which incorporates the tragic theme [45], harmonized in &#34;Elven&#34; mediant chords and elaborated with a Dwarven open fifth.
 </td></tr>
 <tr>
 <td>77
@@ -641,7 +641,7 @@ Bản nhạc dựa trên một số lượng lớn các chủ đề liên tưở
 </td>
 <td><b>Bard</b>
 </td>
-<td>starting on a minor third and perfect fourth, this theme plays on a similarity to Erebor. The     Dwarves hope Bard will bring them nearer to the mountain. It is usually accompanied by a strummed pattern B♭ minor: i-#vi.
+<td>starting on a minor third and perfect fourth, this theme plays on a similarity to Erebor. The Dwarves hope Bard will bring them nearer to the mountain. It is usually accompanied by a strummed pattern B♭ minor: i-#vi.
 </td></tr>
 <tr>
 <td>79
@@ -655,14 +655,14 @@ Bản nhạc dựa trên một số lượng lớn các chủ đề liên tưở
 </td>
 <td><b>Politicians of Laketown</b>
 </td>
-<td>This clavichord theme, constantly modulating, relates the Master of Laketown and his aide Alfrid  to the forces of corruption that represent Sauron&#39;s influence on Middle earth. Alfrid tends to be accompanied with just a fragment of the unabridged theme. The theme also appears retrograded when Thorin and Company are brought before the Master.
+<td>This clavichord theme, constantly modulating, relates the Master of Laketown and his aide Alfrid to the forces of corruption that represent Sauron&#39;s influence on Middle earth. Alfrid tends to be accompanied with just a fragment of the unabridged theme. The theme also appears retrograded when Thorin and Company are brought before the Master.
 </td></tr>
 <tr>
 <td>81
 </td>
 <td><b>Bard&#39;s family</b>
 </td>
-<td>First appearing briefly when Bard arrives home, this is a diatonic transformation of the Master&#39;s     music, similar to Bilbo&#39;s music.
+<td>First appearing briefly when Bard arrives home, this is a diatonic transformation of the Master&#39;s music, similar to Bilbo&#39;s music.
 </td></tr>
 <tr>
 <td>82
@@ -744,14 +744,14 @@ Bản nhạc dựa trên một số lượng lớn các chủ đề liên tưở
 </td>
 <td><b>Dwarf warriors</b>
 </td>
-<td>The minor sixth of this idea makes this a Dwarven counterpart of the Elvish warrior theme. It is  accompanied by unpitched &#34;grunts&#34; from the Dwarven chorus, a texture that already appeared in the Rings of Power opening titles, and will appear again in Moria.
+<td>The minor sixth of this idea makes this a Dwarven counterpart of the Elvish warrior theme. It is accompanied by unpitched &#34;grunts&#34; from the Dwarven chorus, a texture that already appeared in the Rings of Power opening titles, and will appear again in Moria.
 </td></tr>
 <tr>
 <td>93
 </td>
 <td><b>Mithril shirt</b>
 </td>
-<td>This quartal melody depicts the  shirt (which was fashioned for an Elven prince). It appears when Thorin gives it Bilbo, and when Bilbo gives it to Frodo.
+<td>This quartal melody depicts the shirt (which was fashioned for an Elven prince). It appears when Thorin gives it Bilbo, and when Bilbo gives it to Frodo.
 </td></tr>
 <tr>
 <td>94
@@ -765,7 +765,7 @@ Bản nhạc dựa trên một số lượng lớn các chủ đề liên tưở
 </td>
 <td><b>Tragic theme (transformed)</b>
 </td>
-<td>This reharmonizes  the original theme [45] to depict valour and death on the battlefield. It ushers the conflict between Dwarves and Elves, then the offensive against  the Orcs, and returns during the sequence where Gandalf and Pippin save Denethor, and the following skirmish in Pelennor.
+<td>This reharmonizes the original theme [45] to depict valour and death on the battlefield. It ushers the conflict between Dwarves and Elves, then the offensive against the Orcs, and returns during the sequence where Gandalf and Pippin save Denethor, and the following skirmish in Pelennor.
 </td></tr>
 <tr>
 <td>96
@@ -793,7 +793,7 @@ Bản nhạc dựa trên một số lượng lớn các chủ đề liên tưở
 </td>
 <td><b>Seduction of the Ring</b>
 </td>
-<td>This is another variant of the Ring, in a standard minor mode and usually sung by boy choir. In The Return  of the King, it is doubled by female choir to depict Smeagol&#39;s seduction.
+<td>This is another variant of the Ring, in a standard minor mode and usually sung by boy choir. In The Return of the King, it is doubled by female choir to depict Smeagol&#39;s seduction.
 </td></tr>
 <tr>
 <td>100
@@ -807,7 +807,7 @@ Bản nhạc dựa trên một số lượng lớn các chủ đề liên tưở
 </td>
 <td><b>Third danger motif</b>
 </td>
-<td>This percussion quaver figure is the most overtly martial of the danger motifs. It depicts the  turncoat Saruman overpowering Gandalf, then the forces Sauron fields in Osgiliath and during the Haradrim attack. It returns for the Mount Doom scene.
+<td>This percussion quaver figure is the most overtly martial of the danger motifs. It depicts the turncoat Saruman overpowering Gandalf, then the forces Sauron fields in Osgiliath and during the Haradrim attack. It returns for the Mount Doom scene.
 </td></tr>
 <tr>
 <td>102
@@ -919,14 +919,14 @@ Bản nhạc dựa trên một số lượng lớn các chủ đề liên tưở
 </td>
 <td><b>Gandalf the White</b>
 </td>
-<td>This is another  transformation of the original nature. It introduces the reborn Gandalf in     Fangorn, at Helm&#39;s Deep and reprised in the credits.
+<td>This is another transformation of the original nature. It introduces the reborn Gandalf in Fangorn, at Helm&#39;s Deep and reprised in the credits.
 </td></tr>
 <tr>
 <td>118
 </td>
 <td><b>&#34;Small stones&#34;</b>
 </td>
-<td>These chords  (initially F# minor – G major – F# minor – A minor) depict Merry and Pippins effect on Treebeard. Later it assumes a  form redolent of Treebeard&#39;s tritone progression. It is last recalled in  The Return of the King when Gandalf and Pippin have a quiet moment, but     this  can only be heard on album.
+<td>These chords  (initially F# minor – G major – F# minor – A minor) depict Merry and Pippins effect on Treebeard. Later it assumes a form redolent of Treebeard&#39;s tritone progression. It is last recalled in The Return of the King when Gandalf and Pippin have a quiet moment, but this can only be heard on album.
 </td></tr>
 <tr>
 <td>119
@@ -984,14 +984,14 @@ Bản nhạc dựa trên một số lượng lớn các chủ đề liên tưở
 </td>
 <td><b>Shire (transformed)</b>
 </td>
-<td>throughout The Return of the King, the Shire music and the Fellowship&#39;s become mingled. This initiates a process that culminates in the final Shire scenes: the melody is still the same, but the accompaniment had been reduced to thirds. When  Sam returns home, this returns with a transformed melodic line, still in D major. A second transformation occurs at the very end of the fan credits: the perfect cadence on A major complements the A minor-A5 resolution of the Rings of Power titles.
+<td>throughout The Return of the King, the Shire music and the Fellowship&#39;s become mingled. This initiates a process that culminates in the final Shire scenes: the melody is still the same, but the accompaniment had been reduced to thirds. When Sam returns home, this returns with a transformed melodic line, still in D major. A second transformation occurs at the very end of the fan credits: the perfect cadence on A major complements the A minor-A5 resolution of the Rings of Power titles.
 </td></tr>
 <tr>
 <td>127
 </td>
 <td><b>Dead Men of Dunharrow</b>
 </td>
-<td>This bitonal idea  features a bassline similar to Gondor, while the top voices cluster. When the ghosts lend aid on the Pelennor fields, the clusters resolve diatonically.
+<td>This bitonal idea features a bassline similar to Gondor, while the top voices cluster. When the ghosts lend aid on the Pelennor fields, the clusters resolve diatonically.
 </td></tr>
 <tr>
 <td>128
@@ -1012,7 +1012,7 @@ Bản nhạc dựa trên một số lượng lớn các chủ đề liên tưở
 </td>
 <td><b>Valinor</b>
 </td>
-<td>The theme of the song &#34;Into the West&#34; appears when Gandalf describes Valinor to Pippin, when Sam hoists Frodo on his shoulders and at the conclusion of the Grey Havens  scene.
+<td>The theme of the song &#34;Into the West&#34; appears when Gandalf describes Valinor to Pippin, when Sam hoists Frodo on his shoulders and at the conclusion of the Grey Havens scene.
 </td></tr></tbody></table>
 
 <div class="mw-references-wrap"><ol class="references">

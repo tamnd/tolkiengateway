@@ -56,7 +56,7 @@ Thành Isengard được người Númenórian xây dựng trong một thung lũ
 
 *ISENGARD and Northern Gondor* bao gồm:
 
-- 8 TRANG ĐẦY MÀU: bản đồ khu vực 2 trang, bản đồ Calmirië (Aldburg) và Dunlostir , cùng với 4 trang trên Tháp Orthanc
+- 8 TRANG ĐẦY MÀU: bản đồ khu vực 2 trang, bản đồ Calmirië (Aldburg) và Dunlostir, cùng với 4 trang trên Tháp Orthanc
 - BỐ CỤC CHÍNH: Tầng ngầm của Orthanc, Lối vào và Hornburg
 - THE FORTRES OF ISENGARD: một trong những công trình kiến trúc vĩ đại nhất ở Trung Địa
 - Cư dân KHÁC CỦA KHU VỰC: Calenardhrons, Dunlendings và Drúedain

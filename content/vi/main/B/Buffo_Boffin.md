@@ -44,7 +44,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Buffo Boffin của [the Yale](../T/The_Yale.md) kết hôn với [Ivy Goodenough](../I/Ivy_Goodenough.md) và có bốn người con: [Bosco](Bosco_Boffin.md), [Basso](Basso_Boffin.md), [Briffo](Briffo_Boffin.md) và [Berylla](Berylla_Baggins.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Buffo Boffin của [Yale](../T/The_Yale.md) kết hôn với [Ivy Goodenough](../I/Ivy_Goodenough.md) và có bốn người con: [Bosco](Bosco_Boffin.md), [Basso](Basso_Boffin.md), [Briffo](Briffo_Boffin.md) và [Berylla](Berylla_Baggins.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

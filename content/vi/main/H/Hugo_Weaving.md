@@ -40,7 +40,7 @@ infobox:
 ## Trích dẫn {#Quotes}
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Elrond is a fount of knowledge and wisdom: he knows a great deal about the history of the Ring and understands not just what has happened but what might  happen.
+<p>Elrond is a fount of knowledge and wisdom: he knows a great deal about the history of the Ring and understands not just what has happened but what might happen.
 </p>
 <p class="tg-quote-footer"><cite>Hugo Weaving, <i><a href="../T/The_Lord_of_the_Rings%253A_Official_Movie_Guide.md" title="The Lord of the Rings: Official Movie Guide">The Lord of the Rings: Official Movie Guide</a></i></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

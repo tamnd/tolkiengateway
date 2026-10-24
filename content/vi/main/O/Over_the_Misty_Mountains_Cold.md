@@ -39,11 +39,11 @@ infobox:
 
 ## Văn bản bìa sau {#Back_Cover_Text}
 
-Giống như Frodo và phần còn lại của Hiệp hội, giờ đây bạn cũng có thể dấn thân vào những tàn tích Người lùn cổ kính như bị bỏ hoang Moria. Nhưng hãy chuẩn bị sẵn sàng thanh kiếm và tấm khiên của bạn - bóng tối bao trùm vùng núi đầy rẫy nguy hiểm.
+Giống như Frodo và phần còn lại của Hiệp hội, giờ đây bạn cũng có thể dấn thân vào những tàn tích Người Lùn cổ kính như bị bỏ hoang Moria. Nhưng hãy chuẩn bị sẵn sàng thanh kiếm và tấm khiên của bạn - bóng tối bao trùm vùng núi đầy rẫy nguy hiểm.
 
 **Cuộc phiêu lưu đang chờ đợi phía trước!**
 
-*"Over the Misty Mountains Cold"* là phần tiếp theo thứ hai của *Lord of the Rings Adventure Game*™. Ở trên những đỉnh núi Hithaeglir phủ đầy sương mù, bạn sẽ khám phá những bức tường đổ nát của một thành trì Người lùn cũ. Ở đó còn hơn cả những viên đá rơi đang chờ bạn – một bí mật từ quá khứ, một đồng minh từ Phương Tây và những kẻ thù ghét mặt trời sẽ ảnh hưởng đến vận mệnh của bạn.
+*"Over the Misty Mountains Cold"* là phần tiếp theo thứ hai của *Lord of the Rings Adventure Game*™. Ở trên những đỉnh núi Hithaeglir phủ đầy sương mù, bạn sẽ khám phá những bức tường đổ nát của một thành trì Người Lùn cũ. Ở đó còn hơn cả những viên đá rơi đang chờ bạn – một bí mật từ quá khứ, một đồng minh từ Phương Tây và những kẻ thù ghét mặt trời sẽ ảnh hưởng đến vận mệnh của bạn.
 
 **Thật thú vị!**
 

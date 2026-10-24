@@ -4571,7 +4571,7 @@ Andy Butcher, viết cho *Arcane*, cũng đã đánh giá *The Wizards*, nói r�
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><i>Người lùn Axe</i>, khuyến mãi độc quyền của Đức</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><i>Người Lùn Axe</i>, khuyến mãi độc quyền của Đức</span>
 </li>
 <li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><i>Swordmaster</i>, khuyến mãi độc quyền của Đức</span>
 </li>

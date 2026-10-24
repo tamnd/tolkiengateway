@@ -42,7 +42,7 @@ infobox:
 - Mảnh Bakken của Helge Fauskanger (một văn bản quan trọng trong Quenya mà Tolkien dường như chưa bao giờ nhìn thấy)
 - Cuộc chiến Châu báu Báo cáo của Lisa Star (đánh giá sách)
 - Danh sách từ về người lùn của Lisa Star
-- Người lùn (bài tập về Trang Bas du của bạn, bao gồm cả việc thực hành viết rune Người lùn)
+- Người Lùn (bài tập về Trang Bas du của bạn, bao gồm cả việc thực hành viết rune Người Lùn)
 - Runes của Erebor, biểu đồ của Lisa Star
 
 <center><a href="Tyalië_Tyelelliéva_3.md" title="Tyalië Tyelelliéva 3">Previous Issue</a> <b>||</b> <a href="Tyalië_Tyelelliéva_5.md" title="Tyalië Tyelelliéva 5">Next Issue</a></center>

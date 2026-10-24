@@ -101,7 +101,7 @@ Sau [Cuộc chiến của những chiếc Nhẫn](../W/War_of_the_Ring.md), vào
 
 ## Đặc điểm {#Characteristics}
 
-Vẻ ngoài của Drúedain bị các Tiên và Người coi là “không đẹp”. Họ thấp, chiều cao trung bình là bốn bộ,<sup id="cite_ref-atani_1-2" class="reference"><a href="#cite_note-atani-1">[1]</a></sup> thân hình rất bè rộng, với mông nặng và đôi chân ngắn, to.<sup id="cite_ref-Druedain_4-3" class="reference"><a href="#cite_note-Druedain-4">[4]</a></sup> Xét về hình thể, tầm vóc và sức chịu đựng, họ giống [Người lùn](Dwarves.md).<sup id="cite_ref-atani_1-3" class="reference"><a href="#cite_note-atani-1">[1]</a></sup>
+Vẻ ngoài của Drúedain bị các Tiên và Người coi là “không đẹp”. Họ thấp, chiều cao trung bình là bốn bộ,<sup id="cite_ref-atani_1-2" class="reference"><a href="#cite_note-atani-1">[1]</a></sup> thân hình rất bè rộng, với mông nặng và đôi chân ngắn, to.<sup id="cite_ref-Druedain_4-3" class="reference"><a href="#cite_note-Druedain-4">[4]</a></sup> Xét về hình thể, tầm vóc và sức chịu đựng, họ giống [Người Lùn](Dwarves.md).<sup id="cite_ref-atani_1-3" class="reference"><a href="#cite_note-atani-1">[1]</a></sup>
 
 Họ có khuôn mặt rộng, đôi mắt sâu dưới những hàng lông mày rậm và chiếc mũi tẹt. Những cái miệng rộng là nét biểu cảm nhất trên những đường nét thường vô cảm của họ. Họ có đôi mắt nhỏ, trũng sâu, đen đến mức không thể phân biệt được con ngươi, dù mắt họ phát sáng đỏ khi tức giận hoặc nghi ngờ. Tóc họ thưa và rũ, không bao giờ dài xuống dưới lông mày, ngoại trừ một số người đàn ông mọc những túm lông đen trên cằm.<sup id="cite_ref-Druedain_4-4" class="reference"><a href="#cite_note-Druedain-4">[4]</a></sup>
 

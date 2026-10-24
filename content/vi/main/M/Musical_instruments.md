@@ -48,7 +48,7 @@ Khi người dân [Minas Tirith](Minas_Tirith.md) chuẩn bị cho sự xuất h
 
 Tại [Tiệc chia tay của Bilbo](../B/Bilbo's_Farewell_Party.md), người ta nghe thấy [hobbit](../H/Hobbits.md) chơi "'kèn và <b><a class="extiw" href="http://en.wikipedia.org/wiki/Horn_(instrument)" title="wikipedia:Horn (instrument)">sừng</a></b>, <b><a class="extiw" href="http://en.wikipedia.org/wiki/Pipe_(instrument)" title="wikipedia:Pipe (instrument)">ống</a></b> và sáo cũng như các nhạc cụ khác". Trong số các nhạc cụ khác có "tiếng nhạc cracker" ("chứa các nhạc cụ nhỏ nhưng có kiểu dáng hoàn hảo và âm sắc mê hoặc") và <b><a class="extiw" href="http://en.wikipedia.org/wiki/Bell#Usage_as_musical_instruments" title="wikipedia:Bell">chuông</a></b>.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[18]</a></sup>
 
-### Người lùn {#Dwarven}
+### Người Lùn {#Dwarven}
 
 Trong số [Người Lùn](../D/Dwarves.md), một số loại nhạc cụ được ghi lại trong các câu chuyện từ [Trung Địa](Middle-earth.md). [Thorin và Đoàn tùy tùng](../T/Thorin_and_Company.md) đã chơi những nhạc cụ sau tại [bữa tiệc bất ngờ](../A/An_Unexpected_Party.md) lúc [Bag End](../B/Bag_End.md):
 
@@ -59,7 +59,7 @@ Trong số [Người Lùn](../D/Dwarves.md), một số loại nhạc cụ đư�
 - <b><a class="extiw" href="http://en.wikipedia.org/wiki/viol" title="wikipedia:viol">viol</a></b> (do [Dwalin](../D/Dwalin.md) và [Balin](../B/Balin.md) chơi)
 - cây đàn hạc <b><a class="extiw" href="http://en.wikipedia.org/wiki/harp" title="wikipedia:harp">đàn hạc vàng</a></b> (được chơi bởi [Thorin](../T/Thorin.md))<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[19]</a></sup>
 
-Rõ ràng, các thành viên khác trong Công ty của Thorin cũng chơi đàn hạc, vì người ta viết rằng những người lùn đã tạo ra "âm nhạc của đàn hạc và vĩ cầm" khi đến thăm [Thị trấn Hồ](../L/Lake-town.md).<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[20]</a></sup> Trong kho báu của [Smaug](../S/Smaug.md), Fíli và Kíli đã tìm thấy "nhiều đàn hạc vàng được xâu chuỗi bằng bạc": chúng [ma thuật](Magic.md) (và dường như được làm bởi Người Lùn<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[21]</a></sup>), luôn <a class="extiw" href="http://en.wikipedia.org/wiki/Musical_tuning" title="wikipedia:Musical tuning">đúng nhịp</a>.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[22]</a></sup> Các [Người lùn Khazad-dûm](../D/Dwarves_of_Khazad-dûm.md) còn được biết đến là người chơi đàn hạc và có kèn.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[23]</a></sup>
+Rõ ràng, các thành viên khác trong Công ty của Thorin cũng chơi đàn hạc, vì người ta viết rằng những người lùn đã tạo ra "âm nhạc của đàn hạc và vĩ cầm" khi đến thăm [Thị trấn Hồ](../L/Lake-town.md).<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[20]</a></sup> Trong kho báu của [Smaug](../S/Smaug.md), Fíli và Kíli đã tìm thấy "nhiều đàn hạc vàng được xâu chuỗi bằng bạc": chúng [ma thuật](Magic.md) (và dường như được làm bởi Người Lùn<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[21]</a></sup>), luôn <a class="extiw" href="http://en.wikipedia.org/wiki/Musical_tuning" title="wikipedia:Musical tuning">đúng nhịp</a>.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[22]</a></sup> Các [Người Lùn Khazad-dûm](../D/Dwarves_of_Khazad-dûm.md) còn được biết đến là người chơi đàn hạc và có kèn.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[23]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 

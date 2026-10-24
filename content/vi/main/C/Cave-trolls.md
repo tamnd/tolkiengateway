@@ -27,7 +27,7 @@ images:
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/John_Howe_-_Cave_Troll_02.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/68/John_Howe_-_Cave_Troll_02.jpg/300px-John_Howe_-_Cave_Troll_02.jpg" decoding="async" loading="lazy" width="300" height="300" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/6/68/John_Howe_-_Cave_Troll_02.jpg 1.5x" data-file-width="444" data-file-height="444"/></a><figcaption><a href="../J/John_Howe.md" title="John Howe">John Howe</a> - <i>Cave Troll</i></figcaption></figure>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>. . . For the moment they are hanging back, but there is something else there.  A great cave-troll, I think, or more than one. There is no hope of escape that way.
+<p>. . . For the moment they are hanging back, but there is something else there. A great cave-troll, I think, or more than one. There is no hope of escape that way.
 </p>
 <p class="tg-quote-footer"><cite><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a>, <i><a href="../T/The_Bridge_of_Khazad-dûm.md" title="The Bridge of Khazad-dûm">The Bridge of Khazad-dûm</a></i></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

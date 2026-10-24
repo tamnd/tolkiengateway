@@ -251,7 +251,7 @@ Tuy nhiên, *a* cuộc săn lùng [Gollum](../G/Gollum.md) được bắt đầu
 </li>
 <li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text">Brian Sibley, Peter Jackson: A Filmmaker&#39;s Journey (London: HarperCollins, 2006), pp. 312 ff.</span>
 </li>
-<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text">J. W Braun, <i>The lord of the films : the unofficial guide to Tolkien&#39;s Middle-Earth on the big screen</i> (Toronto:  ECW Press, 2009), pp. 20, 63, 68-69, 195.</span>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text">J. W Braun, <i>The lord of the films : the unofficial guide to Tolkien&#39;s Middle-Earth on the big screen</i> (Toronto: ECW Press, 2009), pp. 20, 63, 68-69, 195.</span>
 </li>
 <li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text">Michael Pellerin, &#34;Completing Middle-earth,&#34; Peter Jackson, <i>The Hobbit</i> (Warner Brothers: 2015).</span>
 </li>

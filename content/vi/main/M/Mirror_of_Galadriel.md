@@ -109,7 +109,7 @@ Tấm Gương Galadriel gợi nhớ lại tục lệ cổ xưa về bói nước
 		</li>
 </ul>
 
-<b><a href="../_/1978.md" title="1978">1978</a>: <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim 1978)</a>:</b>
+<b><a href="../_/1978.md" title="1978">1978</a>: <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim năm 1978)</a>:</b>
 
 <dl><dd>In <a href="../R/Ralph_Bakshi.md" title="Ralph Bakshi">Ralph Bakshi</a>&#39;s animated film adaptation, both Frodo and Sam look into the Mirror. The Mirror shows swirls of color, and a mesmerized Frodo bends forward toward it, though Galadriel stops him before he can touch its water.</dd></dl>
 

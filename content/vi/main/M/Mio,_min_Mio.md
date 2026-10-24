@@ -62,6 +62,6 @@ Vì cả *Mio, min Mio* và hai tập đầu tiên của *[The Lord of the Rings
 <div class="mw-references-wrap"><ol class="references">
 <li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">John-Henri Holmber, &#34;Lindgren, Astrid (Anna Emilia)&#34;, in <i>The Encyclopedia of Fantasy</i> (New York: St. Martin&#39;s Griffin, 1997/1999), p.582.</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Petter Karlsson , &#34;<a class="external text" href="http://www.expressen.se/1.537513" rel="noreferrer noopener" target="_blank">Sagornas likhet är ingen slump</a>&#34; (&#34;The Similarity of the Fairy-tales is no Coincidence&#34;) , in <i>Expressen</i>, January 30, 2007. Retrieved July 28, 2010.</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Petter Karlsson, &#34;<a class="external text" href="http://www.expressen.se/1.537513" rel="noreferrer noopener" target="_blank">Sagornas likhet är ingen slump</a>&#34; (&#34;The Similarity of the Fairy-tales is no Coincidence&#34;), in <i>Expressen</i>, January 30, 2007. Retrieved July 28, 2010.</span>
 </li>
 </ol></div>

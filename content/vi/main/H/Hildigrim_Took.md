@@ -53,7 +53,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Hildigrim là con trai thứ ba của [the Old Took](../G/Gerontius_Took.md). Ông kết hôn với [Rosa Baggins](../R/Rosa_Baggins.md) và có một con trai, [Adalgrim](../A/Adalgrim_Took.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Hildigrim là con trai thứ ba của [Old Took](../G/Gerontius_Took.md). Ông kết hôn với [Rosa Baggins](../R/Rosa_Baggins.md) và có một con trai, [Adalgrim](../A/Adalgrim_Took.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

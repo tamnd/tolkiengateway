@@ -291,7 +291,7 @@ Những sai lệch khác so với tài liệu nguồn liên quan đến Númenor
 
 #### Những người, địa điểm và sự vật khác {#Other_People,_Places_and_Things}
 
-Không có dấu hiệu nào trong tài liệu nguồn cho thấy một người lạ , có thể là một trong số Istari, đã hạ cánh xuống một thiên thạch và được Hobbit tìm thấy trong Kỷ Đệ Nhị. Khi có tham chiếu đến bất kỳ người nào được gọi là Pháp sư xuất hiện trên Trung Địa vào thời điểm này, chúng luôn nằm trong số Tiên tộc hoặc trong số Con Người và cho một mục đích cụ thể. (Xem Lịch sử Trung Địa, Tập XII, "Những bài viết muộn".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Không có dấu hiệu nào trong tài liệu nguồn cho thấy một người lạ, có thể là một trong số Istari, đã hạ cánh xuống một thiên thạch và được Hobbit tìm thấy trong Kỷ Đệ Nhị. Khi có tham chiếu đến bất kỳ người nào được gọi là Pháp sư xuất hiện trên Trung Địa vào thời điểm này, chúng luôn nằm trong số Tiên tộc hoặc trong số Con Người và cho một mục đích cụ thể. (Xem Lịch sử Trung Địa, Tập XII, "Những bài viết muộn".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 Không chắc rằng Durin III và Durin IV thực sự là cha con như trong phim vì họ sống cách nhau hàng trăm năm. Durin III đã nhận được một trong những Những Chiếc Nhẫn Quyền Năng ban đầu được trao cho Người Lùn và Durin IV còn sống vào thời điểm Cuộc chiến của Liên minh Cuối cùng, xảy ra hơn 1700 năm sau. Cho rằng tuổi thọ trung bình của Người Lùn chỉ hơn 200 năm, cái trước là tổ tiên xa của cái sau.
 

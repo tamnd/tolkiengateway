@@ -39,7 +39,7 @@ Phim được quay ở [1984](../_/1984.md) dưới dạng phim truyền hình v
 
 ## Xem thêm {#See_also}
 
-- [Hình ảnh trong *The Hobbit* (phim truyền hình 1985)](<../../category/I/Images_from_The_Hobbit_(1985_television_film).md>)
+- [Hình ảnh trong *The Hobbit* (phim truyền hình năm 1985)](<../../category/I/Images_from_The_Hobbit_(1985_television_film).md>)
 
 ## Liên kết ngoài {#External_links}
 

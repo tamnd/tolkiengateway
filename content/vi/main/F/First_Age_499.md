@@ -36,7 +36,7 @@ Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 ## Sau {#Later}
 
-- [Người lùn nhỏ](../P/Petty-dwarves.md) [Mîm](../M/Mîm.md) đi đến [Nargothrond](../N/Nargothrond.md) và lấy kho báu của nó cho riêng mình.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+- [Người Lùn nhỏ](../P/Petty-dwarves.md) [Mîm](../M/Mîm.md) đi đến [Nargothrond](../N/Nargothrond.md) và lấy kho báu của nó cho riêng mình.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 <span></span>
 

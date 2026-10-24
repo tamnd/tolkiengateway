@@ -39,7 +39,7 @@ Stybba quá chậm chạp trong việc hộ tống đội quân Rohan tập trun
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1980: <a href="../T/The_Return_of_the_King_(1980_film).md" title="The Return of the King (1980 film)"><i>The Return of the King</i> (phim 1980)</a>:</b>
+<b>1980: <a href="../T/The_Return_of_the_King_(1980_film).md" title="The Return of the King (1980 film)"><i>The Return of the King</i> (phim năm 1980)</a>:</b>
 
 <dl><dd>Merry rides a small pony undoubtedly intended to be Stybba, though not named as such. This version is evidently able to keep pace with the horses of Rohan, as no objection is raised against Merry riding with them to Gondor.</dd></dl>
 

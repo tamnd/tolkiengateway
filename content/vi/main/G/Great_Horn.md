@@ -53,7 +53,7 @@ infobox:
 <p class="tg-quote-footer"><cite><a href="../B/Boromir.md" title="Boromir">Boromir</a> in <i><a href="../T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="../T/The_Ring_Goes_South.md" title="The Ring Goes South">The Ring Goes South</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Tù vàm Lớn** là báu vật gia truyền của [Dòng họ Húrin](../H/House_of_Húrin.md) cho đến khi bị phá hủy vào ngày [26 tháng Hai](../_/26_February.md) năm [3019](../T/Third_Age_3019.md) [Thời Đại thứ Ba](../T/Third_Age.md).
+**Tù vàm Lớn** là báu vật gia truyền của [Dòng họ Húrin](../H/House_of_Húrin.md) cho đến khi bị phá hủy vào ngày [26 tháng Hai](../_/26_February.md) năm [3019](../T/Third_Age_3019.md) [Kỷ Đệ Tam](../T/Third_Age.md).
 
 Chiếc tù và được chế tác từ sừng của loài [Kine of Araw](../K/Kine_of_Araw.md) trắng hoang dã ở [Rhûn](../R/Rhûn.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> vốn được ví với loài <i><a class="extiw" href="http://en.wikipedia.org/wiki/Aurochs" title="wikipedia:Aurochs">bò rừng aurochs</a></i>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Bản thân chiếc tù và có màu trắng, chóp bịt bạc và được khắc những ký tự cổ xưa.<sup id="cite_ref-Window_3-0" class="reference"><a href="#cite_note-Window-3">[3]</a></sup> Tương truyền rằng nếu chiếc tù và được thổi ở bất cứ nơi nào trong ranh giới Gondor cổ đại, tiếng tù và sẽ không thể vang lên mà chẳng được ai để tâm.<sup id="cite_ref-Window_3-1" class="reference"><a href="#cite_note-Window-3">[3]</a></sup>
 

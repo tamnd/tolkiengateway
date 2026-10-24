@@ -38,7 +38,7 @@ Ca sĩ hát rong kéo dài gần như cả ngày hôm đó và kết thúc ngay 
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1980: <i><a href="../T/The_Return_of_the_King_(1980_film).md" title="The Return of the King (1980 film)">The Return of the King (phim 1980)</a></i>:</b>
+<b>1980: <i><a href="../T/The_Return_of_the_King_(1980_film).md" title="The Return of the King (1980 film)">The Return of the King (phim năm 1980)</a></i>:</b>
 
 <dl><dd>The unnamed lay in the original text was turned into a song referred to in the soundtrack as <b>Frodo of the Nine Fingers</b>.<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup> It was put to music by <a href="../M/Maury_Laws.md" title="Maury Laws">Maury Laws</a> and given lyrics by <a href="../J/Jules_Bass.md" title="Jules Bass">Jules Bass</a>. While the <a href="../M/Minstrel_of_Gondor.md" title="Minstrel of Gondor">Minstrel of Gondor</a> (voiced by <a href="../G/Glenn_Yarbrough.md" title="Glenn Yarbrough">Glenn Yarbrough</a>) still sang it, the lay appeared as the film&#39;s framing device and became a song used as entertainment at <a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo Baggins</a>&#39; 129th birthday party in <a href="../R/Rivendell.md" title="Rivendell">Rivendell</a>. The lyrics created for the film are given as follows:</dd></dl>
 

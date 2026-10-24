@@ -60,7 +60,7 @@ Rose là con gái thứ hai và con thứ ba của [Samwise Gamgee](../S/Samwise
 
 ## Từ nguyên {#Etymology}
 
-[Hoa hồng](Roses.md) là loài hoa phổ biến ở [Trung Địa](../M/Middle-earth.md) và tên hoa cũng phổ biến ở [the Shire](../T/The_Shire.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Ở [Sindarin](../S/Sindarin.md), tên *Rose* là *Meril*.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+[Hoa hồng](Roses.md) là loài hoa phổ biến ở [Trung Địa](../M/Middle-earth.md) và tên hoa cũng phổ biến ở [Shire](../T/The_Shire.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Ở [Sindarin](../S/Sindarin.md), tên *Rose* là *Meril*.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 <span></span>
 

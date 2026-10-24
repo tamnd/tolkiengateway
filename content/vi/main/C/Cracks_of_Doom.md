@@ -46,7 +46,7 @@ infobox:
 <p class="tg-quote-footer"><cite><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> in <i><a href="../T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="../T/The_Shadow_of_the_Past.md" title="The Shadow of the Past">The Shadow of the Past</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Khe Nứt Diệt Vong** hay **Khe Nứt Diệt Vong** là một khe nứt lớn, một vực sâu đầy lửa,<sup id="cite_ref-Doom_1-0" class="reference"><a href="#cite_note-Doom-1">[1]</a></sup> nơi [the One Ring](../T/The_One_Ring.md) được [Sauron](../S/Sauron.md) rèn nên và bị hủy diệt khi [Gollum](../G/Gollum.md) rơi cùng the One Ring vào đó.
+**Khe Nứt Diệt Vong** hay **Khe Nứt Diệt Vong** là một khe nứt lớn, một vực sâu đầy lửa,<sup id="cite_ref-Doom_1-0" class="reference"><a href="#cite_note-Doom-1">[1]</a></sup> nơi [One Ring](../T/The_One_Ring.md) được [Sauron](../S/Sauron.md) rèn nên và bị hủy diệt khi [Gollum](../G/Gollum.md) rơi cùng One Ring vào đó.
 
 ## Địa lý {#Geography}
 

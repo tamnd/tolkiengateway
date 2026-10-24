@@ -192,7 +192,7 @@ Phim hoạt hình *Return of the King* đã được phát hành dưới dạng 
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="extiw" href="http://en.wikipedia.org/wiki/The_Return_of_the_King_(1980_film)" title="wikipedia:The Return of the King (1980 film)">The Return of the King (phim 1980)</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
+- <a class="extiw" href="http://en.wikipedia.org/wiki/The_Return_of_the_King_(1980_film)" title="wikipedia:The Return of the King (1980 film)">The Return of the King (phim năm 1980)</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
 - <a class="external text" href="http://www.imdb.com/title/tt0079802/" rel="noreferrer noopener" target="_blank">The Return of the King</a> tại <a class="external text" href="http://imdb.com/" rel="noreferrer noopener" target="_blank">IMDb</a>
 - <a class="external text" href="https://www.youtube.com/watch?v=AZe6OhmPnx8&amp;t=793s" rel="noreferrer noopener" target="_blank">Arthur Rankin Jr. giải thích lý do tại sao ông không làm một bộ phim Chúa tể những chiếc nhẫn hoàn chỉnh</a>
 

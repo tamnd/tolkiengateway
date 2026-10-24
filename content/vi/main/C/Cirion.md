@@ -64,7 +64,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Cirion sinh vào năm [2449](../T/Third_Age_2449.md) của [Kỷ nguyên thứ Ba](../T/Third_Age.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Mặc dù cha ông vừa giành được những chiến thắng gần đây, Cirion đã kế thừa một vương quốc thu hẹp khi đảm nhận chức vụ Nhiếp chính vào năm [Kỷ nguyên thứ Ba](../T/Third_Age.md) [2489](../T/Third_Age_2489.md);<sup id="cite_ref-South_2-0" class="reference"><a href="#cite_note-South-2">[2]</a></sup> [Ithilien](../I/Ithilien.md) bị bỏ hoang, [Corsairs of Umbar](Corsairs_of_Umbar.md) lại một lần nữa cướp phá [các vùng duyên hải](../O/Outlands.md), trong khi dân số [Calenardhon](Calenardhon.md) ngày càng suy giảm. Tất cả những gì ông có thể làm là dốc toàn lực để bảo vệ biên giới.<sup id="cite_ref-gondor_3-0" class="reference"><a href="#cite_note-gondor-3">[3]</a></sup>
+Cirion sinh vào năm [2449](../T/Third_Age_2449.md) của [Kỷ Đệ Tam](../T/Third_Age.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Mặc dù cha ông vừa giành được những chiến thắng gần đây, Cirion đã kế thừa một vương quốc thu hẹp khi đảm nhận chức vụ Nhiếp chính vào năm [Kỷ Đệ Tam](../T/Third_Age.md) [2489](../T/Third_Age_2489.md);<sup id="cite_ref-South_2-0" class="reference"><a href="#cite_note-South-2">[2]</a></sup> [Ithilien](../I/Ithilien.md) bị bỏ hoang, [Corsairs of Umbar](Corsairs_of_Umbar.md) lại một lần nữa cướp phá [các vùng duyên hải](../O/Outlands.md), trong khi dân số [Calenardhon](Calenardhon.md) ngày càng suy giảm. Tất cả những gì ông có thể làm là dốc toàn lực để bảo vệ biên giới.<sup id="cite_ref-gondor_3-0" class="reference"><a href="#cite_note-gondor-3">[3]</a></sup>
 
 ### Mối đe dọa từ phương Bắc {#Threat_from_the_North}
 

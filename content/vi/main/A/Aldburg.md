@@ -61,7 +61,7 @@ Aldburg was built by [Eorl](../E/Eorl.md) after Rohan had been granted to the [R
 
 <b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i></b>
 
-<dl><dd>Aldburg is the capital town of the <a href="../E/Eastfold.md" title="Eastfold">Eastfold</a>, ruled by Éomer in times of peace. After Éomer departed for war, the defence of Aldburg fell to his steward Arcil, who often  disagreed with Éomer&#39;s cousin, <a href="../_/Éothain.md" title="Éothain">Éothain</a>.</dd></dl>
+<dl><dd>Aldburg is the capital town of the <a href="../E/Eastfold.md" title="Eastfold">Eastfold</a>, ruled by Éomer in times of peace. After Éomer departed for war, the defence of Aldburg fell to his steward Arcil, who often disagreed with Éomer&#39;s cousin, <a href="../_/Éothain.md" title="Éothain">Éothain</a>.</dd></dl>
 
 Aldburg đóng vai trò là "thủ phủ" trong trò chơi của vùng Phương Tây Rohan, hoạt động như trung tâm di chuyển nhanh chóng và các hoạt động của người chơi sau khi [Edoras](../E/Edoras.md) được sơ tán sớm trong trò chơi và cư dân của nó chuyển đến [Dunharrow](../D/Dunharrow.md).
 

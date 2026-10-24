@@ -76,7 +76,7 @@ Cái tên *Otho* là vô nghĩa trong [Hobbitish](../H/Hobbitish.md) [Westron](.
 
 <b>1981: <a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>The Lord of the Rings</i> (loạt phim phát thanh 1981)</a>:</b>
 
-<dl><dd>Although he is not named as such until the programme credits, <a href="../J/John_Livesey.md" title="John Livesey">John Livesey</a> plays Otho at Bilbo&#39;s 111th Birthday party.  He and Lobelia are given a brief exchange complaining about being part of one gross, and questioning what Frodo coming into his inheritance means.</dd></dl>
+<dl><dd>Although he is not named as such until the programme credits, <a href="../J/John_Livesey.md" title="John Livesey">John Livesey</a> plays Otho at Bilbo&#39;s 111th Birthday party. He and Lobelia are given a brief exchange complaining about being part of one gross, and questioning what Frodo coming into his inheritance means.</dd></dl>
 
 <b>2001: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i> (<a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(extended_edition).md" title="The Lord of the Rings: The Fellowship of the Ring (extended edition)">Phiên bản mở rộng</a>)</b>
 

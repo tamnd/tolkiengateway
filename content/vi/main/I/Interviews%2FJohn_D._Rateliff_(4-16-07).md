@@ -291,7 +291,7 @@ categories:
 &lt;Beren&gt;	indeed<br/>
 &lt;Forfirith&gt;	interesting, i never heard of it<br/>
 <b>&lt;JohnDRateliff&gt;</b>	There&#39;s a vast archive of letters between Tolkien and <a class="mw-redirect" href="../A/Allen_and_Unwin.md" title="Allen and Unwin">ALLEN AND UNWIN</a>; someday years from now they&#39;ll make the basis of an excellent book.<br/>
-&lt;Rowns&gt;	Rayner Unwin:  A Remembrancer<br/>
+&lt;Rowns&gt;	Rayner Unwin: A Remembrancer<br/>
 &lt;Mithrennaith&gt;	Hi there Marcel!<br/>
 &lt;Forfirith&gt;	thanks :)<br/>
 <b>&lt;JohnDRateliff&gt;</b>	GEORGE ALLEN AND UNWIN: A REMEMBRANCER, by Rayner Unwin, 1999. Privately Printed by Merlin Unwin Books.<br/>

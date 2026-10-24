@@ -46,7 +46,7 @@ images:
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=William_Senior&amp;action=edit&amp;redlink=1" title="William Senior (page does not exist)">William Senior</a>, tác giả.
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=William_Smith&amp;action=edit&amp;redlink=1" title="William Smith (page does not exist)">William Smith</a>, tác giả.
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Bill_Snyder&amp;action=edit&amp;redlink=1" title="Bill Snyder (page does not exist)">Bill Snyder</a>, nhà sản xuất.
-- [William Squire](../W/William_Squire.md), diễn viên lồng tiếng [Gandalf](../G/Gandalf.md) trong [*The Lord of the Rings* (phim 1978)](<../T/The_Lord_of_the_Rings_(1978_film).md>).
+- [William Squire](../W/William_Squire.md), diễn viên lồng tiếng [Gandalf](../G/Gandalf.md) trong [*The Lord of the Rings* (phim năm 1978)](<../T/The_Lord_of_the_Rings_(1978_film).md>).
 - [Bill Welden](Bill_Welden.md), nhà ngôn ngữ học và là thành viên của [Elvish Hiệp hội Ngôn ngữ học](../E/Elvish_Linguistic_Fellowship.md).
 
 ## Tài liệu tham khảo {#References}

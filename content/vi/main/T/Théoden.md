@@ -250,7 +250,7 @@ Trong một trong những bản nháp đầu tiên của Tolkien, Théoden cũng
 
 <dl><dd><a href="../V/Valentine_Dyall.md" title="Valentine Dyall">Valentine Dyall</a> voiced the part of Théoden.</dd></dl>
 
-<b>1978: <a href="The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim 1978)</a>:</b>
+<b>1978: <a href="The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim năm 1978)</a>:</b>
 
 <dl><dd>The voice of Théoden was provided by <a href="../P/Philip_Stone.md" title="Philip Stone">Philip Stone</a>.</dd></dl>
 
@@ -258,7 +258,7 @@ Trong một trong những bản nháp đầu tiên của Tolkien, Théoden cũng
 
 <dl><dd><a href="../E/Erik_Bauersfeld.md" title="Erik Bauersfeld">Erik Bauersfeld</a> provided the voice of Théoden.</dd></dl>
 
-<b>1980: <a href="The_Return_of_the_King_(1980_film).md" title="The Return of the King (1980 film)"><i>The Return of the King</i> (phim 1980)</a>:</b>
+<b>1980: <a href="The_Return_of_the_King_(1980_film).md" title="The Return of the King (1980 film)"><i>The Return of the King</i> (phim năm 1980)</a>:</b>
 
 <dl><dd>Théoden is voiced by <a href="../D/Don_Messick.md" title="Don Messick">Don Messick</a>, though he speaks very little. His death is narrated by <a href="../J/John_Huston.md" title="John Huston">John Huston</a> as Gandalf.</dd></dl>
 

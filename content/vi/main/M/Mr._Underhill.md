@@ -23,7 +23,7 @@ images:
 
 Cái tên này có lẽ được chọn từ [khu phố Underhill](<../U/Underhill_(Hobbiton).md>) nơi [Bag End](../B/Bag_End.md), nhà của Frodo.
 
-Đây có lẽ không phải là lựa chọn tốt nhất, vì khi "Mr. Underhill" đến Bree, có một số [Underhills](../U/Underhill_Family.md) trong phòng sinh hoạt chung tại [the Prancing Pony](../T/The_Prancing_Pony.md) và họ nghĩ rằng có khả năng Frodo là anh em họ thất lạc từ lâu của họ. Một trong những [người đổ bộ Bree](../B/Bree-landers.md), người có vẻ quen thuộc với Shire, đã hỏi Underhills sống ở đâu và họ hàng của họ là ai.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
+Đây có lẽ không phải là lựa chọn tốt nhất, vì khi "Mr. Underhill" đến Bree, có một số [Underhills](../U/Underhill_Family.md) trong phòng sinh hoạt chung tại [Prancing Pony](../T/The_Prancing_Pony.md) và họ nghĩ rằng có khả năng Frodo là anh em họ thất lạc từ lâu của họ. Một trong những [người đổ bộ Bree](../B/Bree-landers.md), người có vẻ quen thuộc với Shire, đã hỏi Underhills sống ở đâu và họ hàng của họ là ai.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

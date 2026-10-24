@@ -31,7 +31,7 @@ images:
 
 ### Phim {#Films}
 
-- [*The Lord of the Rings* (phim 1978)](<The_Lord_of_the_Rings_(1978_film).md>), một bộ phim hoạt hình của [Ralph Bakshi](../R/Ralph_Bakshi.md).
+- [*The Lord of the Rings* (phim năm 1978)](<The_Lord_of_the_Rings_(1978_film).md>), một bộ phim hoạt hình của [Ralph Bakshi](../R/Ralph_Bakshi.md).
     - [*The Lord Of The Rings* (Nhạc phim gốc)](<The_Lord_Of_The_Rings_(Original_Motion_Picture_Soundtrack).md>), nhạc phim.
 - <b><a href="The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings</i> (loạt phim)</a>, do <a href="../P/Peter_Jackson.md" title="Peter Jackson">Peter Jackson</a></b>đạo diễn:
     - *[The Lord of the Rings: The Fellowship of the Ring](The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)*, phim [2001](../_/2001.md).

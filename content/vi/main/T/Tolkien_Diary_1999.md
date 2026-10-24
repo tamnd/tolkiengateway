@@ -38,7 +38,7 @@ infobox:
 ## Từ nhà xuất bản {#From_the_publisher}
 
 <blockquote class="tg-quote noexcerpt">
-<p>A desk diary for 1999 containing paintings and drawings from the anniversary edition of The Hobbit.<br/><br/>This sumptuous week-to-view desk diary is illustrated with full colour paintings and black and white drawings from the bestselling 60th anniversary edition of The Hobbit . Designed to complement the annual Tolkien calendar, this is a diary which will appeal to Tolkien enthusiasts and art lovers of all ages.
+<p>A desk diary for 1999 containing paintings and drawings from the anniversary edition of The Hobbit.<br/><br/>This sumptuous week-to-view desk diary is illustrated with full colour paintings and black and white drawings from the bestselling 60th anniversary edition of The Hobbit. Designed to complement the annual Tolkien calendar, this is a diary which will appeal to Tolkien enthusiasts and art lovers of all ages.
 </p>
 </blockquote>
 

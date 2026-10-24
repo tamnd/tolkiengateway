@@ -44,7 +44,7 @@ infobox:
 
 Dựa trên THE HOBBIT của J.R.R. Tolkien
 
-Bạn điều khiển một nhóm nhà thám hiểm khi họ lẻn vào hang ổ của Smaug và cố gắng thu thập càng nhiều Người lùn kho báu càng tốt. Trong trò chơi nhiều người chơi này, bạn phải tránh hoặc vượt qua mối đe dọa từ các nhóm người chơi khác, sau đó trốn thoát cùng với chiến lợi phẩm của mình trước khi Smaug thức tỉnh và phát hiện ra những kẻ xâm nhập...
+Bạn điều khiển một nhóm nhà thám hiểm khi họ lẻn vào hang ổ của Smaug và cố gắng thu thập càng nhiều Người Lùn kho báu càng tốt. Trong trò chơi nhiều người chơi này, bạn phải tránh hoặc vượt qua mối đe dọa từ các nhóm người chơi khác, sau đó trốn thoát cùng với chiến lợi phẩm của mình trước khi Smaug thức tỉnh và phát hiện ra những kẻ xâm nhập...
 
 ## Liên kết ngoài {#External_links}
 
