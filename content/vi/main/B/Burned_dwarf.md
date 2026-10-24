@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Burned Dwarves"
 ---
 
-Chuyển hướng tới [Người lùn bị thiêu rụi](Burned_Dwarves.md).
+Chuyển hướng tới [Đã đốt Người Lùn](Burned_Dwarves.md).

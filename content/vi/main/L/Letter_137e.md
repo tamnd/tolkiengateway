@@ -29,9 +29,9 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Trong thư này, Tolkien đang trả lời <a class="extiw" href="http://en.wikipedia.org/wiki/P._H._Newby" title="wikipedia:P. H. Newby">P. H. Newby</a> của [BBC](../B/BBC.md) sau lời mời gửi bản dịch *[Sir Gawain and the Green Knight](<../S/Sir_Gawain_and_the_Green_Knight_(edition).md>)* của mình để xem xét. Tolkien gửi kèm theo bản đánh máy hoàn chỉnh của bản dịch, trải dài hơn hai nghìn rưỡi dòng. Ông mô tả tác phẩm của mình như một bản dịch gần gũi, duy trì nhịp điệu, ám chỉ và vần điệu gốc.
+Trong thư này Tolkien đang phản hồi <a class="extiw" href="http://en.wikipedia.org/wiki/P._H._Newby" title="wikipedia:P. H. Newby">P. H. Newby</a> của [BBC](../B/BBC.md) sau lời mời gửi bản dịch *[Sir Gawain and the Green Knight](<../S/Sir_Gawain_and_the_Green_Knight_(edition).md>)* của mình để xem xét. Tolkien chứa bản đánh máy hoàn chỉnh của bản dịch, dài hơn hai nghìn rưỡi dòng. Ông mô tả tác phẩm của mình như một bản dịch gần gũi, duy trì nhịp điệu, ám chỉ và vần điệu gốc.
 
-Tolkien nhấn mạnh rằng, giống như hầu hết các bài thơ điệp âm, khi đọc to sẽ hiệu quả hơn so với khi đọc thầm. Ông bày tỏ ý định thảo luận thêm về bản dịch với Newby, hy vọng có cơ hội để trình bày chi tiết hơn về công việc của mình. <br>
+Tolkien nhấn mạnh rằng, giống như hầu hết thơ điệp âm, đọc to sẽ hiệu quả hơn đọc thầm. Ông bày tỏ ý định thảo luận thêm về bản dịch với Newby, hy vọng có cơ hội để trình bày chi tiết hơn về công việc của mình. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

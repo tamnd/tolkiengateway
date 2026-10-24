@@ -31,9 +31,9 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Vào ngày này Tolkien nhìn thấy một người đàn ông cầm một chiếc hộp đi tới cửa sau và ông ta nói với vợ rằng ông ta sẽ giải quyết việc đó. Người giao hàng vui vẻ tặng ông ta 4 Ports và 3 Sherries, gọi đó là "một món quà tuyệt vời từ ai đó". Tolkien nói rằng đó là một món quà tuyệt vời và không chỉ từ Ai đó mà còn từ chính bạn (ông gọi đây là một số ít hay ho mà chắc hẳn người Hobbit đã sử dụng, với số nhiều "youbodies"). Rất thú vị và đến từ cô Ronald, đúng lúc. Gia đình Tolkien sống thoải mái trong ngôi nhà mới của họ, đã làm chủ được hệ thống sưởi trung tâm xa lạ, nhưng đêm và ngày trở nên lạnh giá. Port và sherry là những chất làm ấm tuyệt vời.
+Hôm nay Tolkien thấy một người đàn ông cầm một chiếc hộp đi tới cửa sau và nói với vợ rằng sẽ xử lý. Người giao hàng vui vẻ tặng ông ta 4 Ports và 3 Sherries, gọi đó là "một món quà tuyệt vời từ ai đó". Tolkien nói rằng đó là một món quà tuyệt vời và không chỉ từ Ai đó mà còn từ chính bạn (ông gọi đây là một từ số ít hay ho mà chắc hẳn người Hobbit đã sử dụng, với số nhiều "youbodies"). Rất thú vị và đến từ cô Ronald, đúng lúc. Gia đình Tolkien sống thoải mái trong ngôi nhà mới của họ, đã làm chủ được hệ thống sưởi trung tâm xa lạ, nhưng đêm và ngày trở nên lạnh giá. Port và sherry là những chất làm ấm tuyệt vời.
 
-"*Elde is me istolen on...ich am eldre than i was a winter and ek a lore*" quoth Tolkien.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> Anh hy vọng nhưng nghi ngờ rằng mình khôn ngoan hơn.
+"*Elde is me istolen on…ich am eldre than i was a winter and ek a lore*" quoth Tolkien.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> Anh hy vọng nhưng nghi ngờ rằng mình đã khôn ngoan hơn.
 
 ## Ghi chú {#Notes}
 

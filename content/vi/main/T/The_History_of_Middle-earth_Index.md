@@ -61,11 +61,11 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/H/History_of_Middle-Earth_Index_(HC2002).png.md"><img src="https://tolkiengateway.net/w/images/thumb/a/a7/History_of_Middle-Earth_Index_%28HC2002%29.png/315px-History_of_Middle-Earth_Index_%28HC2002%29.png" decoding="async" loading="lazy" width="315" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/a7/History_of_Middle-Earth_Index_%28HC2002%29.png/472px-History_of_Middle-Earth_Index_%28HC2002%29.png 1.5x, https://tolkiengateway.net/w/images/a/a7/History_of_Middle-Earth_Index_%28HC2002%29.png 2x" data-file-width="500" data-file-height="762"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The History of Middle-earth Index</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a>, <a href="../H/Helen_Armstrong.md" title="Helen Armstrong">Helen Armstrong</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../H/HarperCollins.md" title="HarperCollins">HarperCollins</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/5_August.md" title="5 August">5 August</a> <a href="../_/2002.md" title="2002">2002</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Hardcover; paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">400</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0007137435" title="Special:BookSources/0007137435">0007137435</a></td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="The_Peoples_of_Middle-earth.md" title="The Peoples of Middle-earth">The Peoples of Middle-earth</a> (1996)</td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Tolkien_and_the_Great_War.md" title="Tolkien and the Great War">Tolkien and the Great War</a> (2003)</td></tr></tbody></table>
 
-<i><b>Lịch sử của Chỉ số Trung địa</b></i> là một chỉ mục đầy đủ về các chỉ mục từ tất cả 12 tập của *[The History of Middle-earth](The_History_of_Middle-earth.md)*. Cuốn sách được biên soạn bởi [Helen Armstrong](../H/Helen_Armstrong.md).
+<i><b>The History of Middle-earth Chỉ mục</b></i> là chỉ mục đầy đủ của các chỉ mục từ tất cả 12 tập của *[The History of Middle-earth](The_History_of_Middle-earth.md)*. Cuốn sách được biên soạn bởi [Helen Armstrong](../H/Helen_Armstrong.md).
 
 Để dễ tham khảo, có một danh sách riêng cho bất kỳ mục nào xuất hiện trong nhiều hơn một trong mười hai tập.
 
-Ngoài các chỉ mục, các ghi chú mở đầu kèm theo của Christopher Tolkien cũng được đưa vào, cung cấp thêm thông tin về bản chất và nội dung của danh sách các mục.
+Ngoài các chỉ mục, các ghi chú mở đầu kèm theo Christopher Tolkien cũng được đưa vào để cung cấp thêm thông tin về bản chất và nội dung của danh sách các mục.
 
 ## Từ nhà xuất bản {#From_the_publisher}
 
@@ -115,11 +115,11 @@ This stunning work of reference complements the fascinating History of Middle-ea
     - Ấn bản bìa mềm năm 2002, đặt lại ở [2015](../_/2015.md)
 - [HarperCollins](../H/HarperCollins.md) bìa cứng ([2010](../_/2010.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007365373">ISBN 0007365373</a>
     - Ấn bản bìa mềm năm 2015, in lần thứ 19 ([2024](../_/2024.md))
-- [HarperCollins](../H/HarperCollins.md) bìa cứng với áo khoác chống bụi có thể đảo ngược ([2024](../_/2024.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/9780063390843">ISBN 978-0063390843</a> (bộ) - ([Bộ đóng hộp Centenary](../C/Centenary_Boxed_Sets.md) #4)
+- [HarperCollins](../H/HarperCollins.md) bìa cứng có áo chống bụi có thể đảo ngược ([2024](../_/2024.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/9780063390843">ISBN 978-0063390843</a> (bộ) - ([Bộ đóng hộp thế kỷ](../C/Centenary_Boxed_Sets.md) #4)
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://mythoi.tolkienindex.net/2012/03/26/the-history-of-middle-earth-index-corrigenda-3/" rel="noreferrer noopener" target="_blank"><i>Lịch sử của chỉ số Trung địa</i> sửa chữa</a>
+- <a class="external text" href="http://mythoi.tolkienindex.net/2012/03/26/the-history-of-middle-earth-index-corrigenda-3/" rel="noreferrer noopener" target="_blank"><i>The History of Middle-earth Chỉ mục</i> sửa lỗi</a>
 
 <table style="margin:0 auto;" class="toccolours" align="center">
 <tbody><tr>

@@ -25,7 +25,7 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/P/Przemyslaw_Mroczkowski_17_November_1957.png.md"><img src="https://tolkiengateway.net/w/images/thumb/e/ee/Przemyslaw_Mroczkowski_17_November_1957.png/300px-Przemyslaw_Mroczkowski_17_November_1957.png" decoding="async" loading="lazy" width="300" height="375" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/e/ee/Przemyslaw_Mroczkowski_17_November_1957.png 1.5x" data-file-width="370" data-file-height="463"/></a><figcaption></figcaption></figure>
 
-Vào [17 tháng 11](../_/17_November.md) [1957](../_/1957.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) gửi [Przemyslaw Mroczkowski](../P/Przemyslaw_Mroczkowski.md)**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-TG_2-0" class="reference"><a href="#cite_note-TG-2">[2]</a></sup>
+Vào [17 tháng 11](../_/17_November.md) [1957](../_/1957.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho [Przemyslaw Mroczkowski](../P/Przemyslaw_Mroczkowski.md)**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-TG_2-0" class="reference"><a href="#cite_note-TG-2">[2]</a></sup>
 
 ## Phiên âm {#Transcription}
 

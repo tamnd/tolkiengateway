@@ -18,9 +18,9 @@ sort_keys:
 
 Vào [25 tháng 4](../_/25_April.md) [1966](../_/1966.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) gửi [Rayner Unwin](../R/Rayner_Unwin.md)**.
 
-- **Chủ đề:** Trả lời thư của Rayner Unwin từ [19 tháng 4](../_/19_April.md) [1966](../_/1966.md), liên quan đến thiết kế áo chống bụi mới cho *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* và vật liệu để đưa vào *[The Tolkien Reader](../T/The_Tolkien_Reader.md)*.
+- **Chủ đề:** Trả lời thư của Rayner Unwin từ [ngày 19 tháng 4](../_/19_April.md) [1966](../_/1966.md), liên quan đến thiết kế áo chống bụi mới cho *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* và vật liệu để đưa vào *[The Tolkien Reader](../T/The_Tolkien_Reader.md)*.
 - **Xuất bản:** Các đoạn trích từ bức thư đã được xuất bản trên *[The J.R.R. Tolkien Companion and Guide](../T/The_J.R.R._Tolkien_Companion_and_Guide.md)*.
-- **Lưu trữ:** Tolkien-[George Allen & Unwin](../A/Allen_and_Unwin.md) lưu trữ, [HarperCollins](../H/HarperCollins.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- **Lưu trữ:** Tolkien-[George Allen &amp; Unwin](../A/Allen_and_Unwin.md) lưu trữ, [HarperCollins](../H/HarperCollins.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Xem thêm {#See_also}
 

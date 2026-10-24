@@ -58,7 +58,7 @@ langlinks:
 </div><div class="template-month__footer"><div class="tg-button"><a href="../J/January.md" title="January">Jan</a></div><div class="tg-button"><a href="../F/February.md" title="February">Feb</a></div><div class="tg-button"><a href="../M/March.md" title="March">Mar</a></div><div class="tg-button"><a href="../A/April.md" title="April">Apr</a></div><div class="tg-button"><a href="../M/May.md" title="May">May</a></div><div class="tg-button"><a href="../J/June.md" title="June">Jun</a></div><div class="tg-button"><a href="../J/July.md" title="July">Jul</a></div><div class="tg-button"><a href="../A/August.md" title="August">Aug</a></div><div class="tg-button"><a href="../S/September.md" title="September">Sep</a></div><div class="tg-button"><a href="../O/October.md" title="October">Oct</a></div><div class="tg-button"><a href="../N/November.md" title="November">Nov</a></div><div class="tg-button"><a href="../D/December.md" title="December">Dec</a></div></div>
 </div>
 
-Sự kiện xảy ra vào ngày 6 tháng 9.
+Sự kiện xảy ra vào ngày 6 tháng Chín.
 
 ## Trên Trái đất {#On_Earth}
 
@@ -66,17 +66,17 @@ Sự kiện xảy ra vào ngày 6 tháng 9.
 - **[1949](1949.md)** - Tác giả [Robert Foster](../R/Robert_Foster.md) ra đời.
 - **[1970](1970.md)** – [Mythcon đầu tiên](../M/Mythcon_1.md) được tổ chức tại <a class="extiw" href="http://en.wikipedia.org/wiki/Harvey_Mudd_College" title="wikipedia:Harvey Mudd College">Harvey Mudd College</a> ở <a class="extiw" href="http://en.wikipedia.org/wiki/Claremont,_California" title="wikipedia:Claremont, California">Claremont</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/California" title="wikipedia:California">California</a>.
 - **[1971](1971.md)** - [Mythcon 2](../M/Mythcon_2.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Santa_Barbara,_California" title="wikipedia:Santa Barbara, California">Santa Barbara</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/California" title="wikipedia:California">California</a>.
-- **[1973](1973.md)** - Thánh lễ cầu nguyện cho [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được tổ chức tại Nhà thờ St Anthony of Padua ở Headington, [Oxford](../O/Oxford.md). Cha [Robert Murray](../R/Robert_Murray.md) hỗ trợ.
-- **[1975](1975.md)** - [Oxonmoot 1975](../O/Oxonmoot_1975.md) tại Welsh Poney, <a class="extiw" href="http://en.wikipedia.org/wiki/Oxford" title="wikipedia:Oxford">Oxford</a>.
+- **[1973](1973.md)** - Thánh lễ cầu siêu cho [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được tổ chức tại Nhà thờ St Anthony of Padua ở Headington, [Oxford](../O/Oxford.md). Cha [Robert Murray](../R/Robert_Murray.md) hỗ trợ.
+- **[1975](1975.md)** - [Oxonmoot 1975](../O/Oxonmoot_1975.md) tại tiếng Wales Poney, <a class="extiw" href="http://en.wikipedia.org/wiki/Oxford" title="wikipedia:Oxford">Oxford</a>.
 - **[1992](1992.md)** - Phần đầu tiên của [loạt phim phát thanh năm 1992](<../T/Tales_from_the_Perilous_Realm_(1992_radio_series).md>) của *[The Adventures of Tom Bombadil](../T/The_Adventures_of_Tom_Bombadil.md)* được phát sóng trên [BBC Radio 5](../B/BBC.md).
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Gandalf](../G/Gandalf.md) bị [Saruman](../S/Saruman.md) giam giữ trên đỉnh [Orthanc](../O/Orthanc.md).
+    - [Gandalf](../G/Gandalf.md) bị giam giữ bởi [Saruman](../S/Saruman.md) trên đỉnh của [Orthanc](../O/Orthanc.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - Dưới [Núi Moria](../M/Mountains_of_Moria.md), [Celeborn](../C/Celeborn.md) và [Galadriel](../G/Galadriel.md), [Gandalf](../G/Gandalf.md) và [bốn người Hobbit](../T/Travellers.md) dừng lại và nán lại trong vài ngày.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+    - Theo [Dãy núi Moria](../M/Mountains_of_Moria.md), [Celeborn](../C/Celeborn.md) và [Galadriel](../G/Galadriel.md), [Gandalf](../G/Gandalf.md) và [bốn Hobbit](../T/Travellers.md) tạm dừng và trì hoãn trong vài ngày.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

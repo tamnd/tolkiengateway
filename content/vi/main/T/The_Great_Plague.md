@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Great Plague"
 ---
 
-Chuyển hướng đến [Đại dịch](../G/Great_Plague.md).
+Chuyển hướng đến [Đại Dịch](../G/Great_Plague.md).

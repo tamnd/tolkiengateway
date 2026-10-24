@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Kingdom under the Mountain"
 ---
 
-Chuyển hướng đến [Vương quốc dưới núi](Kingdom_under_the_Mountain.md).
+Chuyển hướng đến [Vương quốc dưới Núi](Kingdom_under_the_Mountain.md).

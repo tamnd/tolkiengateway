@@ -43,7 +43,7 @@ infobox:
     - Bởi: Barbara Reynolds
 - "C.S. Lewis'Cơ đốc giáo đơn thuần' (Cuốn sách và lý tưởng) vào đầu thế kỷ XXI"
     - Bởi: Đánh dấu A. Noll
-- "J.R.R. Tolkien Giảng dạy và giảng dạy chính thức tại Đại học Oxford, 1929-1959"
+- "J.R.R. Tolkien Giảng dạy chính thức tại Đại học Oxford, 1929-1959"
     - Bởi: [J.S. Ryan](../J/John_Ryan.md)
 - "Duyệt thư viện Glome"
     - Bởi: Doris T. Myers

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Melian"
 ---
 
-Chuyển hướng tới [Melian](Melian.md).
+Chuyển hướng đến [Melian](Melian.md).

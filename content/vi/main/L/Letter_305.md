@@ -29,7 +29,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Khi chuẩn bị chuyển nhà, Tolkien bị ngã cầu thang vào [ngày 17 tháng 6](../_/17_June.md). Ông ta đã báo cáo với [Rayner Unwin](../R/Rayner_Unwin.md) rằng việc ông ta bị vô hiệu ở bệnh viện [Oxford](../O/Oxford.md) sẽ là một thảm họa đối với công việc và sự sắp xếp của ông ta. Ông đã không thể mất đi đôi nạng cho đến cuối tháng Tám. <br>
+Trong lúc chuẩn bị chuyển nhà, Tolkien bị ngã cầu thang vào [ngày 17/6](../_/17_June.md). Ông ta đã báo cáo với [Rayner Unwin](../R/Rayner_Unwin.md) rằng việc ông ta bị tàn tật trong bệnh viện [Oxford](../O/Oxford.md) sẽ gây ra hậu quả nghiêm trọng cho công việc và sự sắp xếp của ông ta. Ông đã không thể mất đi đôi nạng cho đến cuối tháng Tám. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

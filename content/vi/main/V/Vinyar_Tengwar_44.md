@@ -42,7 +42,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/V/Vinyar_Tengwar_44.png.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b7/Vinyar_Tengwar_44.png/290px-Vinyar_Tengwar_44.png" decoding="async" loading="lazy" width="290" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/b/b7/Vinyar_Tengwar_44.png 1.5x" data-file-width="302" data-file-height="500"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Vinyar Tengwar 44</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../C/Carl_F._Hostetter.md" title="Carl F. Hostetter">Carl F. Hostetter</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../E/Elvish_Linguistic_Fellowship.md" title="Elvish Linguistic Fellowship">Elvish Linguistic Fellowship</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">June <a href="../_/2002.md" title="2002">2002</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback journal</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">40</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">1054-7606</td></tr></tbody></table>
 
-<i><b>Vinyar Tengwar 44</b></i> là số thứ 44 của *[Vinyar Tengwar](Vinyar_Tengwar.md)*, một tạp chí chuyên nghiên cứu học thuật về các ngôn ngữ được phát minh của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
+<i><b>Vinyar Tengwar 44</b></i> là số thứ 44 của *[Vinyar Tengwar](Vinyar_Tengwar.md)*, một tạp chí chuyên nghiên cứu học thuật về các ngôn ngữ được phát minh ra của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
 <div class="template-prevnext"><div class="template-prevnext__prev template-prevnext__link"><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/8/81/WikimediaUI-ArrowPrevious-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__content"><div class="template-prevnext__title">Vinyar Tengwar 43</div></div><div class="template-prevnext__linkoverlay"><a href="Vinyar_Tengwar_43.md" title="Vinyar Tengwar 43">Vinyar Tengwar 43</a></div></div><div class="template-prevnext__current"><div class="template-prevnext__content"><div class="template-prevnext__title">Vinyar Tengwar 44</div></div></div><div class="template-prevnext__next template-prevnext__link"><div class="template-prevnext__content"><div class="template-prevnext__title">Vinyar Tengwar 45</div></div><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/7b/WikimediaUI-ArrowNext-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__linkoverlay"><a href="Vinyar_Tengwar_45.md" title="Vinyar Tengwar 45">Vinyar Tengwar 45</a></div></div></div>
 
@@ -51,11 +51,11 @@ infobox:
 - E.L.F. News
 - Thư gửi *VT*
 
-- "'Lời vui': Năm lời cầu nguyện Công giáo ở Quenya, Phần hai"✫ — J.R.R. Tolkien, eds. Patrick H. Wynne, Arden R. Smith và Carl F. Hostetter
+- "'Lời vui': Năm lời cầu nguyện Công giáo trong Quenya, Phần hai"✫ — J.R.R. Tolkien, eds. Patrick H. Wynne, Arden R. Smith và Carl F. Hostetter
     - 4\. *[Ortírielyanna](../O/Ortírielyanna.md) (Sub Tuum Praesidium)*
     - 5\. [Kinh cầu Loreto](../T/The_Litany_of_Loreto.md)
-- "*[Ae Adar Nín](../A/Ae_Adar_Nín.md)*: Kinh Lạy Cha bằng tiếng Sindarin"✫ — J.R.R. Tolkien, ed. Bill Welden
-- "*[Alcar mi Tarmenel na Erun](../A/Alcar_mi_Tarmenel_na_Erun.md)*: *Gloria in Exclesis Deo* ở Quenya"✫ — J.R.R. Tolkien, ed. Arden R. Smith
+- "*[Ae Adar Nín](../A/Ae_Adar_Nín.md)*: Kinh Lạy Cha trong Sindarin"✫ — J.R.R. Tolkien, ed. Bill Welden
+- "*[Alcar mi Tarmenel na Erun](../A/Alcar_mi_Tarmenel_na_Erun.md)*: *Gloria in Exclesis Deo* trong Quenya"✫ — J.R.R. Tolkien, ed. Arden R. Smith
 
 <small>✫ chứa tài liệu chưa được xuất bản trước đây</small>
 

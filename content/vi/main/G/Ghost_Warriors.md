@@ -37,7 +37,7 @@ infobox:
 
 ## Văn bản bìa/áo khoác {#Cover/Jacket_Text}
 
-Dunland, hay Dunfearan, như cách người dân gọi khu vực này, nằm giữa những chân đồi gồ ghề phía tây của Dãy núi Sương mù phía nam. Đại dịch hạch đã quét qua những vùng cao nguyên này trong [T.A.](../T/Third_Age.md) [1636](../T/Third_Age_1636.md), nhưng giờ đây một tai họa tồi tệ hơn đang giáng xuống người Dunmen. Chiến binh ma lang thang vào ban đêm, bắt giữ những người bị giam giữ để nâng cấp hàng ngũ Undead của họ. Chìa khóa dẫn đến thất bại của họ nằm ngoài Riddle Caves, lối vào bí ẩn dẫn đến một mê cung tối tăm ngoằn ngoèo xuyên qua rễ núi.
+Dunland, hay Dunfearan, như cách người dân gọi khu vực này, nằm giữa các chân đồi gồ ghề phía tây của miền nam Dãy Núi Sương Mù. Đại Dịch đã quét sạch những vùng cao nguyên này trong [T.A.](../T/Third_Age.md) [1636](../T/Third_Age_1636.md), nhưng giờ đây một tai họa tà ác còn tồi tệ hơn đang giáng xuống người Dunmen. Chiến binh ma lang thang vào ban đêm, bắt giữ những người bị giam giữ để nâng cấp hàng ngũ Undead của họ. Chìa khóa dẫn đến thất bại của họ nằm ngoài Riddle Caves, lối vào bí ẩn dẫn đến một mê cung tối tăm ngoằn ngoèo xuyên qua rễ núi.
 
 CHIẾN BINH GHOST bao gồm:
 
@@ -45,4 +45,4 @@ CHIẾN BINH GHOST bao gồm:
 - 3 CUỘC PHIÊU LƯU THÚ VỊ liên quan đến cuộc đụng độ với Dunnish Wights, trận chiến chống lại một pháp sư mạnh mẽ và cuộc phiêu lưu mạo hiểm vào [Vực sâu](../U/Under-deeps.md) trải dài bên dưới những ngọn núi.
 - BỐ CỤC CHI TIẾT của các địa điểm phiêu lưu bao gồm Hang Bí ẩn, Con đường Bí ẩn và Hang Ma.
 - THỐNG KÊ TRÒ CHƠI về Quái thú, Xác sống và NPC sống trên các ngọn đồi của Dunfearan.
-- HỆ THỐNG TẠO HANG NGẪU NHIÊN được cung cấp để du hành qua Vùng nước sâu, mạng lưới hang động rộng lớn uốn lượn bên dưới bề mặt Endor.
+- HỆ THỐNG TẠO HANG NGẪU NHIÊN được cung cấp để du hành qua Vùng nước sâu, mạng lưới hang động rộng lớn xoắn bên dưới bề mặt của Endor.

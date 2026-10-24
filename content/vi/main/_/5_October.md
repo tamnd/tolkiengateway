@@ -68,9 +68,9 @@ Sự kiện xảy ra vào ngày 5 tháng 10
 
 - **[1963](1963.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 248](../L/Letter_248.md).
 - **[1979](1979.md)** - Tập *[Jackanory](../J/Jackanory.md)* "Ruồi và Nhện" được phát sóng trên kênh [BBC](../B/BBC.md).
-- **[1984](1984.md)** - [Oxonmoot 1984](../O/Oxonmoot_1984.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Oxford_Town_Hall" title="wikipedia:Oxford Town Hall">Tòa thị chính Oxford</a>.
+- **[1984](1984.md)** - [Oxonmoot 1984](../O/Oxonmoot_1984.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Oxford_Town_Hall" title="wikipedia:Oxford Town Hall">Oxford Tòa thị chính</a>.
 - **[1998](1998.md)** - *[Tolkien: Man and Myth](../T/Tolkien%253A_Man_and_Myth.md)* được xuất bản.
-- **[2002](2002.md)** - [Xã hội Tolkien](../T/Tolkien_Societies~67099.md) [Ellinikós Sýllogos Philon Tólkin](../E/Ellinikós_Sýllogos_Philon_Tólkin.md) của Hy Lạp được thành lập.
+- **[2002](2002.md)** - Xã hội [Tolkien](../T/Tolkien_Societies~67099.md) [Ellinikós Sýllogos Philon Tólkin](../E/Ellinikós_Sýllogos_Philon_Tólkin.md) của Hy Lạp được thành lập.
 - **[2007](2007.md)** - *Cair Andros*, bữa tiệc của [Ellinikós Sýllogos Philon Tólkin](../E/Ellinikós_Sýllogos_Philon_Tólkin.md).
 - **[2009](2009.md)** - <a class="extiw" href="http://en.wikipedia.org/wiki/History_(TV_channel)" title="wikipedia:History (TV channel)">Kênh Lịch Sử</a> phát sóng *[Tolkien's Monsters](../T/Tolkien's_Monsters.md)*.
 - **[2010](2010.md)** - *[The Music of the Lord of the Rings Films](../T/The_Music_of_the_Lord_of_the_Rings_Films.md)* được xuất bản ở Mỹ.
@@ -78,14 +78,14 @@ Sự kiện xảy ra vào ngày 5 tháng 10
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [2](../T/Third_Age_2.md):
-    - [Thảm họa trên cánh đồng hoang](../D/Disaster_of_the_Gladden_Fields.md)
+    - Cái [Thảm họa Cánh đồng Gladden](../D/Disaster_of_the_Gladden_Fields.md)
         - Cái chết của [Isildur](../I/Isildur.md) và các con trai [Elendur](<../E/Elendur_(son_of_Isildur).md>), [Aratan](../A/Aratan.md) và [Ciryon](../C/Ciryon.md).
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - Cùng với [Strider](../A/Aragorn.md) [bốn hobbit](../T/Travellers.md) đi tới [Weathertop](../W/Weathertop.md).
-    - [Gandalf](../G/Gandalf.md) vội vã tiến về [Rivendell](../R/Rivendell.md) sau khi [Kỵ sĩ áo đen](../N/Nazgûl.md) tấn công ông ta trên [Weathertop](../W/Weathertop.md).
+    - Cùng với [Strider](../A/Aragorn.md) [bốn hobbit](../T/Travellers.md) đi về phía [Weathertop](../W/Weathertop.md).
+    - [Gandalf](../G/Gandalf.md) lao về phía [Rivendell](../R/Rivendell.md) sau khi [Kỵ sĩ Đen](../N/Nazgûl.md) tấn công ông ta vào [Weathertop](../W/Weathertop.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - [Gandalf](../G/Gandalf.md) và [bốn người Hobbit](../T/Travellers.md) rời [Rivendell](../R/Rivendell.md) để đến [Bree](../B/Bree.md) và [Shire](../T/The_Shire.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+    - [Gandalf](../G/Gandalf.md) và [bốn Hobbit](../T/Travellers.md) để lại [Rivendell](../R/Rivendell.md) cho [Bree](../B/Bree.md) và [ Shire](../T/The_Shire.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

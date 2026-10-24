@@ -15,5 +15,5 @@ sort_keys:
 ---
 
 - DaleComte đã vui lòng cho phép ông sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_DaleComte.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
-- Ngày: 16 tháng 9 năm 2012
+- Ngày: 16 tháng Chín năm 2012
 - Người dùng đã xin phép qua DeviantArt: [Người dùng:Amroth](https://tolkiengateway.net/wiki/User:Amroth)

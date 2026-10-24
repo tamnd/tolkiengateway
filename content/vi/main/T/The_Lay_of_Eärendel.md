@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fragment of an alliterative Lay of Eärendel"
 ---
 
-Chuyển hướng tới [Đoạn điệp âm Lay of Eärendel](../F/Fragment_of_an_alliterative_Lay_of_Eärendel.md).
+Chuyển hướng đến [Đoạn của một điệp âm của Eärendel](../F/Fragment_of_an_alliterative_Lay_of_Eärendel.md).

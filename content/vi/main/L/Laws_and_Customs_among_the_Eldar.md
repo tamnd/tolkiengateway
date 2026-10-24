@@ -56,9 +56,9 @@ images:
 <p class="tg-quote-footer"><cite><a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a>, <a href="../M/Morgoth&#39;s_Ring.md" title="Morgoth&#39;s Ring">Morgoth&#39;s Ring</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Luật pháp và Phong tục giữa các Eldar** (thường được gọi là "LaCE") là chương thứ ba của Giai đoạn thứ hai của [Sau *Quenta Silmarillion*](../T/The_Later_Quenta_Silmarillion.md), được bao gồm trong *[Morgoth's Ring](../M/Morgoth's_Ring.md)*. Chương này bao gồm một bài tiểu luận trình bày quan điểm của [Ælfwine](../_/Ælfwine.md) về truyền thống của [Eldar](../E/Eldar.md). Bài luận khám phá [vòng đời của yêu tinh](../E/Elven_life_cycle.md) và phác thảo các phong tục liên quan đến hôn nhân, sinh con, đặt tên và tâm linh.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Luật và Hải quan trong Eldar** (thường được gọi là "LaCE") là chương thứ ba của Giai đoạn thứ hai của [Sau *Quenta Silmarillion*](../T/The_Later_Quenta_Silmarillion.md), được bao gồm trong *[Morgoth's Ring](../M/Morgoth's_Ring.md)*. Chương này bao gồm một bài tiểu luận trình bày quan điểm của [Ælfwine](../_/Ælfwine.md) về truyền thống của [Eldar](../E/Eldar.md). Bài luận tìm hiểu [Tiên vòng đời](../E/Elven_life_cycle.md) và nêu ra những phong tục liên quan đến hôn nhân, sinh con, đặt tên và tâm linh.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Bài tiểu luận đã gây tranh cãi trong độc giả vì nó chứa đựng nhiều mâu thuẫn với những ý tưởng mà sau này sẽ xuất hiện trong [huyền thoại](Legendarium.md). Nó bao gồm năm phần và theo sau là những ghi chú của Christopher Tolkien.
+Bài tiểu luận đã gây tranh cãi trong độc giả vì nó chứa đựng nhiều mâu thuẫn với những ý tưởng mà sau này sẽ xuất hiện trong [huyền thoại](Legendarium.md). Nó bao gồm năm phần và theo sau là các ghi chú của Christopher Tolkien.
 
 <h2><span id=".C3.86lfwine.27s_Preamble"></span><span class="mw-headline" id="Ælfwine&#39;s_Preamble">Ælfwine&#39;s Preamble</span></h2>
 
@@ -66,91 +66,91 @@ Bài tiểu luận đã gây tranh cãi trong độc giả vì nó chứa đựn
 
 ### Phát triển thể chất và tinh thần {#Physical_and_mental_development}
 
-Phần này bắt đầu bằng việc nêu ra những khác biệt giữa [Đàn ông](../M/Men.md) và Yêu tinh về mặt phát triển thể chất và tinh thần. Văn bản chỉ ra rằng cơ thể của Yêu tinh phát triển chậm hơn so với Đàn ông. Yêu tinh chỉ xuất hiện bảy tuổi khi đàn ông đạt đến tầm vóc đầy đủ, đến tuổi năm mươi và trưởng thành hoàn toàn vào khoảng một trăm tuổi. Tuy nhiên, tốc độ phát triển tinh thần của Yêu tinh vượt xa Nam giới, trẻ em chỉ có thể nói, đi và nhảy khi mới một tuổi.
+Phần này bắt đầu bằng việc nêu ra những khác biệt giữa [Con Người](../M/Men.md) và Tiên tộc về mặt phát triển thể chất và tinh thần. Văn bản chỉ ra rằng cơ thể Tiên phát triển chậm hơn so với cơ thể Con Người. Tiên tộc chỉ xuất hiện bảy tuổi khi đàn ông đạt đến tầm vóc đầy đủ, bước vào tuổi năm mươi và trưởng thành hoàn toàn ở tuổi xấp xỉ một trăm tuổi. Tuy nhiên, tốc độ phát triển trí tuệ của Tiên tộc lại vượt xa Con Người, trẻ có thể nói, đi và nhảy khi mới một tuổi.
 
 ### Truyền thống hôn nhân {#Marital_tradition}
 
-Yêu tinh thường kết hôn ngay sau khi trưởng thành. Họ chỉ kết hôn một lần và có ít con, hiếm khi có quá bốn người, không có ai vượt qua [Fëanor](../F/Fëanor.md) với tư cách là cha mẹ của bảy đứa con. Hôn nhân và nuôi dạy con cái, trừ những hoàn cảnh không may, được mô tả là lẽ sống tự nhiên của Yêu tinh.
+Tiên tộc thường kết hôn ngay sau khi đến tuổi trưởng thành. Họ chỉ kết hôn một lần và có ít con, hiếm khi vượt quá bốn, không có ai vượt quá [Fëanor](../F/Fëanor.md) là cha mẹ của bảy người con. Việc kết hôn và nuôi dạy con cái, trừ những hoàn cảnh không may mắn, được coi là lẽ tự nhiên trong cuộc sống của Tiên tộc.
 
 ### Sự tham gia {#Engagement}
 
-Lễ hứa hôn được thông báo cho gia đình cả hai yêu tinh bằng việc trao đổi nhẫn bạc giữa những người đã hứa hôn. Việc đính hôn kéo dài từ một năm trở lên và có thể bị thu hồi bất cứ lúc nào.
+Lễ đính hôn được thông báo cho cả hai gia đình Tiên tộc' bằng việc trao đổi nhẫn bạc giữa hai người đã hứa hôn. Việc đính hôn kéo dài từ một năm trở lên và có thể bị thu hồi bất cứ lúc nào.
 
-Sau khi đính hôn, hai nhà sẽ tổ chức tiệc chiêu đãi để mừng lễ thành hôn. Người đã hứa hôn thốt ra lời thề gọi tên [Eru](../I/Ilúvatar.md) và trả lại những chiếc nhẫn bạc của nhau để đổi lấy những chiếc nhẫn vàng được đeo ở ngón trỏ của bàn tay phải.
+Sau khi đính hôn, hai nhà sẽ tổ chức tiệc chiêu đãi để mừng lễ thành hôn. Đôi tân hôn thề thốt gọi tên [Eru](../I/Ilúvatar.md) và trả lại nhẫn bạc cho nhau để đổi lấy chiếc nhẫn vàng đeo ở ngón trỏ bàn tay phải.
 
 ### Hôn nhân thông qua sự kết hợp thể xác {#Marriage_via_bodily_union}
 
-Các nghi thức nghi lễ không cần thiết để tạo nên một cuộc hôn nhân. Hôn nhân đạt được thông qua sự kết hợp thể xác (quan hệ tình dục), sau đó mối quan hệ hôn nhân là “không thể chia cắt và trọn vẹn”. Trong thời kỳ xung đột, yêu tinh có thể kết hôn thông qua sự kết hợp này và bỏ qua các nghi lễ, để dành cho việc trao đổi phước lành và đặt tên cho Eru. Tuy nhiên, việc bỏ qua nghi lễ đính hôn trong thời bình được coi là thiếu tôn trọng đối với họ hàng.
+Các nghi thức nghi lễ không cần thiết để tạo nên một cuộc hôn nhân. Hôn nhân đạt được thông qua sự kết hợp thể xác (quan hệ tình dục), sau đó mối quan hệ hôn nhân là “không thể chia cắt và trọn vẹn”. Trong thời kỳ xung đột, Tiên tộc có thể kết hôn thông qua sự kết hợp này và bỏ qua các nghi lễ, ngoại trừ việc trao đổi lời chúc phúc và đặt tên cho Eru. Tuy nhiên, việc bỏ qua nghi lễ đính hôn trong thời bình được coi là thiếu tôn trọng đối với họ hàng.
 
 ### Sinh con và sinh con {#Begetting_and_bearing_of_children}
 
-Việc mang thai của yêu tinh kéo dài một năm nên ngày thụ thai và ngày sinh "giống nhau hoặc gần như vậy". Ngày sinh ra là ngày được ghi nhớ chứ không phải ngày sinh. Người ta nói rằng việc sinh ra và hơn thế nữa việc sinh ra những đứa trẻ Yêu tinh đòi hỏi một phần sức mạnh sinh tồn lớn hơn so với việc sinh ra những đứa trẻ phàm trần. Do đó, mặc dù cơ thể Eldar không già đi nhưng họ thường chỉ sinh sản trong một khoảng thời gian ngắn vài năm sau khi kết hôn và sinh ít con hơn người phàm.
+Tiên việc mang thai kéo dài một năm nên ngày thụ thai và ngày sinh “giống nhau hoặc gần giống nhau”. Ngày sinh ra là ngày được ghi nhớ chứ không phải ngày sinh. Người ta nói rằng việc sinh ra và hơn thế nữa việc sinh ra Tiên con cái đòi hỏi một phần sức mạnh sinh tồn lớn hơn so với việc sinh ra những đứa con phàm trần. Do đó, mặc dù cơ thể Eldar không già đi nhưng chúng thường chỉ sinh sản trong một khoảng thời gian ngắn vài năm sau khi kết hôn và sinh ít con hơn người phàm.
 
 Sau thời gian sinh nở này, mong muốn hợp nhất trong cơ thể của họ giảm bớt và sự thôi thúc của họ dẫn họ đến các hoạt động khác. Như vậy, các cặp vợ chồng không phải lúc nào cũng ở chung một nhà và thường theo đuổi những sở thích riêng mà tách biệt nhau. Tuy nhiên, trừ khi những hoàn cảnh không may chia cắt họ, họ vẫn hiện diện cùng nhau trong những năm đầu đời của con cái.
 
 ### Vai trò giới {#Gender_roles}
 
-Trong mọi vấn đề không liên quan đến việc sinh con, nam và nữ Elf đều được coi là bình đẳng. Có một số khác biệt về khuynh hướng tự nhiên giữa hai giới, mặc dù điều đó không ngăn cản một giới tiếp thu một bộ kỹ năng thường được giới kia áp dụng. Ví dụ, yêu tinh nữ có thể cầm vũ khí và chiến đấu dũng cảm mặc dù vai trò đó thường do yêu tinh nam đảm nhận. Ngược lại, nam giới có thể có khả năng chữa bệnh mặc dù vai trò đó thường do nữ giới đảm nhận.
+Trong mọi vấn đề không liên quan đến việc sinh con, Tiên nam và nữ đều được coi là bình đẳng. Có một số khác biệt về khuynh hướng tự nhiên giữa hai giới, mặc dù điều đó không ngăn cản một giới tiếp thu một bộ kỹ năng thường được giới kia áp dụng. Ví dụ, Tiên tộc nữ có thể cầm vũ khí và chiến đấu dũng cảm mặc dù vai trò đó thường do nam Tiên tộc đảm nhận. Ngược lại, nam giới có thể có khả năng chữa bệnh mặc dù vai trò đó thường do nữ giới đảm nhận.
 
 ## Về cách đặt tên {#Of_Naming}
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/E/Elena_Kukanova_-_Galadriel.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/56/Elena_Kukanova_-_Galadriel.jpg/220px-Elena_Kukanova_-_Galadriel.jpg" decoding="async" loading="lazy" width="220" height="323" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/56/Elena_Kukanova_-_Galadriel.jpg/330px-Elena_Kukanova_-_Galadriel.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/5/56/Elena_Kukanova_-_Galadriel.jpg/440px-Elena_Kukanova_-_Galadriel.jpg 2x" data-file-width="586" data-file-height="860"/></a><figcaption>Known commonly as <i>Galadriel</i>, the Lady of Lórien&#39;s first Father-name was &#34;<i>Artanis</i>,&#34; and her Mother-name was <i>Nerwen</i>. Art by <a href="../E/Elena_Kukanova.md" title="Elena Kukanova">Elena Kukanova</a></figcaption></figure>
 
-Trong số [Noldor](../N/Noldor.md), yêu tinh được cha đặt tên trong một buổi lễ gọi là *Essecarme* hoặc *Namemaking*. Tuy nhiên, yêu tinh có thể chọn một cái tên cho riêng mình, được đánh dấu bằng một buổi lễ gọi là *Essecilme* hoặc *Name-choosing*, thường diễn ra vào khoảng cuối năm thứ mười của họ.
+Trong số [Noldor](../N/Noldor.md), Tiên tộc được cha đặt tên trong một buổi lễ gọi là *Essecarme* hoặc *Namemaking*. Tuy nhiên, Tiên có thể chọn tên riêng, được đánh dấu bằng một buổi lễ gọi là *Essecilme* hoặc *Name-choosing*, thường diễn ra vào khoảng cuối năm thứ mười của họ.
 
-Cả tên cha và tên được chọn đều là "tên thật", mặc dù [tên cha](../F/Father-name.md) được sử dụng rộng rãi. Tên được chọn của một yêu tinh chỉ được sử dụng giữa những người gần gũi với họ và việc một yêu tinh khác sử dụng nó mà không được phép được coi là tự phụ.
+Cả tên cha và tên được chọn đều là "tên thật", mặc dù [tên cha](../F/Father-name.md) được sử dụng rộng rãi. Tên được chọn của một Tiên chỉ được sử dụng giữa những người thân thiết với họ và việc một Tiên khác sử dụng nó mà không được phép được coi là tự phụ.
 
-Yêu tinh cũng có "tên riêng" hoặc "[Anessi](../E/Essë.md)". Điều quan trọng nhất trong số này là [tên mẹ](../M/Mother-name.md) của chúng, bao gồm "tên hiểu biết sâu sắc", *Essi Tercenyë* và "tên [tầm nhìn xa](../F/Foresight.md)", *Apacenyë*, được đặt cho một đứa trẻ như một điềm báo về số phận của chúng hoặc một đặc điểm nổi trội mà chúng có thể sở hữu. Những cái tên này cũng được coi là tên thật và được công khai nếu đặt ngay sau tên cha. Những "tên riêng" khác không phải là tên thật và việc chấp nhận và sử dụng chúng bởi yêu tinh mà chúng được áp dụng không được đảm bảo.
+Tiên tộc cũng có "tên riêng" hoặc "[Anessi](../E/Essë.md)". Điều quan trọng nhất trong số này là [tên mẹ](../M/Mother-name.md) của chúng, bao gồm "tên hiểu biết sâu sắc", *Essi Tercenyë* và "tên [tầm nhìn xa](../F/Foresight.md)", *Apacenyë*, được đặt cho một đứa trẻ như một điềm báo về số phận của chúng hoặc một đặc điểm nổi trội mà chúng có thể sở hữu. Những cái tên này cũng được coi là tên thật và được công khai nếu đặt ngay sau tên cha. Các "tên riêng" khác không phải là tên thật và việc Tiên người được áp dụng chúng chấp nhận và sử dụng chúng không được đảm bảo.
 
 ## Cái chết và sự chia cắt của Fëa và Hrondo (Hröa) {#Of_Death_and_The_Severance_of_Fëa_And_Hrondo_(Hröa)}
 
-Mặc dù yêu tinh có chức năng bất tử nhưng họ vẫn có thể trải qua cái chết. Nếu cơ thể của một yêu tinh ([hröa](../H/Hröa.md)) bị tổn thương đến mức không thể hoạt động được nữa, linh hồn của họ ([fëa](../F/Fëa.md)) sẽ rời khỏi cơ thể của họ và trở thành người vô gia cư và vô hình đối với mắt thường, mặc dù vẫn có thể nhìn thấy được những nỗi sợ hãi không có nhà khác.
+Mặc dù Tiên tộc có chức năng bất tử nhưng họ vẫn có thể trải qua cái chết. Nếu cơ thể của một Tiên([hröa](../H/Hröa.md)) bị tổn thương đến mức không thể hoạt động được nữa, linh hồn của họ ([fëa](../F/Fëa.md)) sẽ rời khỏi cơ thể và trở thành người vô gia cư và vô hình đối với mắt thường, mặc dù những nỗi sợ hãi không thể che giấu khác vẫn nhìn thấy được.
 
-Số phận của Yêu tinh fëar khác với Con người ở chỗ họ được định cư ở [Arda](../A/Arda.md) trong suốt thời gian tồn tại, và kết quả là nỗi sợ hãi của họ bảo vệ cơ thể họ khỏi bệnh tật và những vết thương có thể gây tử vong cho con người. Khi đến được [Aman](../A/Aman.md) sau [Sự chia cắt của Yêu tinh](../S/Sundering_of_the_Elves.md), yêu tinh biết được rằng những linh hồn vô gia cư của họ sẽ đến [Halls of Mandos](../H/Halls_of_Mandos.md) để giải quyết những nỗi đau trong cuộc sống và chờ đợi sự tái sinh.
+Số phận của Tiên fëar khác với Con Người ở chỗ họ được định cư ở [Arda](../A/Arda.md) trong suốt thời gian tồn tại, và kết quả là nỗi sợ hãi của họ bảo vệ cơ thể họ khỏi bệnh tật và những vết thương có thể gây tử vong cho con người. Khi đến [Aman](../A/Aman.md) sau [Sự chia cắt của Tiên tộc](../S/Sundering_of_the_Elves.md), Tiên tộc biết được rằng những linh hồn vô gia cư của họ sẽ đến [Halls of Mandos](../H/Halls_of_Mandos.md) để khắc phục những đau buồn trong cuộc đời và chờ đợi sự tái sinh.
 
-## Về sự tái sinh và những kết cục khác của những người đến Mandos {#Of_Rebirth_and_Other_Doom_of_Those_That_Go_to_Mandos}
+## Về sự tái sinh và số phận khác của những người đi đến Mandos {#Of_Rebirth_and_Other_Doom_of_Those_That_Go_to_Mandos}
 
 <figure class="mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/R/Ralph_Damiani_-_The_Halls_of_Mandos.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/ba/Ralph_Damiani_-_The_Halls_of_Mandos.jpg/326px-Ralph_Damiani_-_The_Halls_of_Mandos.jpg" decoding="async" loading="lazy" width="326" height="183" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/ba/Ralph_Damiani_-_The_Halls_of_Mandos.jpg/489px-Ralph_Damiani_-_The_Halls_of_Mandos.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/b/ba/Ralph_Damiani_-_The_Halls_of_Mandos.jpg/652px-Ralph_Damiani_-_The_Halls_of_Mandos.jpg 2x" data-file-width="1800" data-file-height="1012"/></a><figcaption><i>The Halls of Mandos</i> by <a href="../R/Ralph_Damiani.md" title="Ralph Damiani">Ralph Damiani</a></figcaption></figure>
 
 ### Tái sinh {#Rebirth}
 
-Eldar cho rằng mỗi đứa trẻ yêu tinh đều có một fëa mới độc đáo của riêng mình, khác với nỗi sợ hãi của tất cả các Yêu tinh khác. Những nỗi sợ hãi mới này được cho là do Eru gửi trực tiếp từ bên ngoài [Eä](../E/Eä.md). Một số Yêu tinh suy đoán rằng những nỗi sợ hãi này không chỉ giới hạn ở số phận của Arda, mặc dù không ai thực sự biết liệu điều này có đúng hay không.
+Eldar cho rằng mỗi đứa trẻ Tiên được cấp fëa mới độc đáo của riêng mình, khác biệt với nỗi sợ hãi của tất cả Tiên tộc khác. Những fëar mới này được cho là được gửi trực tiếp bởi Eru từ bên ngoài [Eä](../E/Eä.md). Một số Tiên tộc suy đoán rằng những nỗi sợ hãi này không chỉ giới hạn ở số phận của Arda, mặc dù không ai thực sự biết liệu điều này có đúng hay không.
 
-Người ta cho rằng nỗi sợ hãi của những đứa trẻ Yêu tinh đã được nuôi dưỡng từ nỗi sợ hãi của cha mẹ chúng trong thời thơ ấu của chúng. Vì lý do này, cha mẹ đã chọn sống cùng nhau trong năm sinh con và việc chia ly trong thời gian này được coi là điều đáng tiếc. Như người Elves sẽ nói:
+Người ta cho rằng nỗi sợ hãi của Tiên trẻ em được nuôi dưỡng từ nỗi sợ hãi của cha mẹ chúng trong thời thơ ấu. Vì lý do này, cha mẹ đã chọn sống cùng nhau trong năm sinh con và việc chia ly trong thời gian này được coi là điều đáng tiếc. Như Tiên tộc sẽ nói:
 
 > ...dù sự kết hợp nỗi sợ hãi của những người đã kết hôn không bị chia cắt bởi khoảng cách địa điểm, nhưng ở những sinh vật sống như những linh hồn hiện thân cho fëa, những xã hội với fëa chỉ trọn vẹn khi cơ thể chung sống với nhau.
 
 Một fëa vô gia cư đã lựa chọn hoặc được phép quay trở lại cuộc sống thường chỉ có thể được tái hiện thông qua việc sinh con. Fëa tái sinh sẽ trải qua thời thơ ấu một lần nữa, nhưng sẽ chỉ nhớ về kiếp trước khi đạt được khả năng làm chủ cơ thể của mình. Thông qua niềm vui của tuổi thơ thứ hai này, những nỗi buồn ở kiếp trước của fëa có thể được bù đắp.
 
-Tuy nhiên, nếu fëa sẵn sàng rời khỏi cơ thể đầu tiên của mình, nó không thể quay trở lại cho đến khi cơ thể tan rã. Điều này xảy ra nhanh chóng ở [Trung địa](../M/Middle-earth.md), nhưng ở Aman không có sự suy tàn. Vì vậy, trong trường hợp của [Miriel](../M/Míriel.md), linh hồn của bà có thể được đưa vào cơ thể của chính mình.
+Tuy nhiên, nếu fëa sẵn sàng rời khỏi cơ thể đầu tiên của mình, nó không thể quay trở lại cho đến khi cơ thể tan rã. Điều này xảy ra nhanh chóng trong [Trung Địa](../M/Middle-earth.md), nhưng trong Aman không có sự phân rã. Vì vậy, trong trường hợp của [Miriel](../M/Míriel.md), linh hồn của bà có thể được đưa vào cơ thể của chính mình.
 
 Những người tái sinh được cho là mạnh mẽ hơn và có khả năng làm chủ cơ thể tốt hơn cũng như sức mạnh tinh thần cao hơn. Tuy nhiên, rất ít trường hợp có nhiều hơn một lần tái sinh được ghi lại, vì nhiều người chết hai lần không muốn quay trở lại.
 
 ### Những số phận khác của nỗi sợ hãi vô gia cư {#Other_fates_of_houseless_fëar}
 
-[Bóng tối](../S/Shadow.md) gây tổn thương và làm hư hỏng linh hồn, và những người bị hư hỏng do đó có thể từ bỏ cơ hội được tái sinh. Nỗi sợ hãi người chết có thể được hướng dẫn theo cách để họ có thể chữa lành khỏi những tệ nạn này và tái sinh nếu họ mong muốn. Tuy nhiên, các linh hồn có thể bướng bỉnh và chống lại sự thay đổi, đặc biệt nếu họ đã từng làm những việc ác trong đời.
+[Bóng Tối](../S/Shadow.md) gây tổn thương và làm hư hỏng tinh thần, và những người bị hư hỏng do đó có thể mất đi cơ hội được tái sinh. Nỗi sợ hãi người chết có thể được hướng dẫn theo cách để họ có thể chữa lành khỏi những tệ nạn này và tái sinh nếu họ mong muốn. Tuy nhiên, các linh hồn có thể bướng bỉnh và chống lại sự thay đổi, đặc biệt nếu họ đã từng làm những việc ác trong đời.
 
-Đó là [Sự diệt vong của Mandos](../D/Doom_of_Mandos.md) để xác định những linh hồn nào sẽ được tái hiện. Fëar, người đã chọn hoặc được lệnh ở trạng thái không xác định sẽ theo dõi các sự kiện ở Arda mà không tham gia vào chúng.
+Đó là [Lời nguyền của Mandos](../D/Doom_of_Mandos.md) để xác định những linh hồn nào sẽ được tái hiện. Fëar, người đã chọn hoặc được lệnh không xác định sẽ xem các sự kiện trong Arda mà không tham gia.
 
-Người ta biết rất ít về nỗi sợ hãi của [yêu tinh bóng tối](../M/Moriquendi.md). Một số người được cho là sống trong Sảnh của Mandos, mặc dù có rất ít sự hòa nhập giữa các linh hồn, vì bản chất những người vô gia cư sợ hãi là cô độc.
+Người ta biết rất ít về nỗi sợ hãi của [bóng tối Tiên tộc](../M/Moriquendi.md). Một số người được cho là sống trong Sảnh của Mandos, mặc dù có rất ít sự hòa nhập giữa các linh hồn, vì bản chất nỗi sợ hãi không nhà là cô độc.
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/E/Elena_Kukanova_-_Namo_Mandos.jpeg.md"><img src="https://tolkiengateway.net/w/images/thumb/1/18/Elena_Kukanova_-_Namo_Mandos.jpeg/272px-Elena_Kukanova_-_Namo_Mandos.jpeg" decoding="async" loading="lazy" width="272" height="364" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/18/Elena_Kukanova_-_Namo_Mandos.jpeg/408px-Elena_Kukanova_-_Namo_Mandos.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/1/18/Elena_Kukanova_-_Namo_Mandos.jpeg/544px-Elena_Kukanova_-_Namo_Mandos.jpeg 2x" data-file-width="553" data-file-height="740"/></a><figcaption><a href="../M/Mandos.md" title="Mandos">Mandos</a>; the Doomsman of the Valar. as depicted by <a href="../E/Elena_Kukanova.md" title="Elena Kukanova">Elena Kukanova</a></figcaption></figure>
 
-### Lời triệu tập của Mandos {#The_summons_of_Mandos}
+### Triệu tập của Mandos {#The_summons_of_Mandos}
 
-Fëar được triệu hồi đến Sảnh Mandos và không thể đến Sảnh nếu không có lệnh triệu hồi này, tuy nhiên việc triệu hồi có thể bị từ chối. Trong số những Yêu tinh đã từ chối lời triệu tập ban đầu của [Valar](../V/Valar.md) tới Aman, việc từ chối này là phổ biến. Sự từ chối này ít phổ biến hơn khi [Morgoth](../M/Morgoth.md) và [Sauron](../S/Sauron.md) cư trú ở Arda, vì các linh hồn sẽ chạy trốn trong nỗi kinh hoàng và tìm nơi ẩn náu ở Mandos. Những linh hồn rơi vào Bóng tối sẽ không chịu nổi sự phản triệu hồi của Morgoth và nằm dưới sự thống trị của hắn.
+Fëar được triệu tập đến Sảnh của Mandos và không thể đến Sảnh nếu không có lệnh triệu hồi này, tuy nhiên việc triệu hồi có thể bị từ chối. Trong số Tiên tộc đã từ chối lệnh triệu tập ban đầu của [Valar](../V/Valar.md) đến Aman, việc từ chối này là phổ biến. Sự từ chối này ít phổ biến hơn khi [Morgoth](../M/Morgoth.md) và [Sauron](../S/Sauron.md) cư trú trong Arda, vì các linh hồn sẽ chạy trốn trong nỗi kinh hoàng và tìm nơi ẩn náu trong Mandos. Những linh hồn rơi vào Bóng Tối sẽ không chịu nổi lệnh phản triệu hồi của Morgoth và nằm dưới sự thống trị của hắn.
 
-Nhiều linh hồn trong những ngày sau này sẽ từ chối lời triệu tập và cư trú ở Trung Địa mà không thể sinh sống hoàn toàn ở đó. Những linh hồn này hiếm khi tử tế, vì việc từ chối lệnh triệu tập là dấu hiệu của sự hư hỏng. Do đó, Eldar bị cấm giao tiếp với những linh hồn vô gia cư trừ khi được cấp có thẩm quyền cao hơn chỉ định làm như vậy. Cố gắng làm chủ những linh hồn vô gia cư được coi là thuật chiêu hồn, được coi là một tội ác lớn và là mục đích của Morgoth và Sauron.
+Nhiều linh hồn trong những ngày sau đó sẽ từ chối lời triệu hồi và trú ngụ trong Trung Địa mà không thể cư ngụ hoàn toàn ở đó. Những linh hồn này hiếm khi tử tế, vì việc từ chối lệnh triệu tập là dấu hiệu của sự hư hỏng. Do đó, Eldar bị cấm giao tiếp với các linh hồn vô gia cư trừ khi được cấp có thẩm quyền cấp cao hơn chỉ định làm như vậy. Cố gắng làm chủ những linh hồn vô gia cư được coi là thuật chiêu hồn, được coi là một tội ác lớn trong phạm vi mục đích của Morgoth và Sauron.
 
 Những linh hồn vô gia cư có thể khao khát thể xác và cố gắng xâm nhập vào một cơ thể sống và làm nô lệ cho vật chủ của nó. Sauron được cho là đã đạt được thành tích này và đã dạy những người theo mình cách làm điều đó.
 
 ## Về việc ly hôn {#Of_the_Severance_of_Marriage}
 
-[Manwë](../M/Manwë.md) phán quyết rằng, vì cuộc sống của Yêu tinh ở Arda là vĩnh viễn nên cuộc hôn nhân của họ cũng vậy. Vì vậy, khi một bên qua đời, cuộc hôn nhân vẫn chưa kết thúc mà vẫn ở trạng thái đình chỉ. Tuy nhiên, có một điều khoản trong đó, nếu người chết bị Manwë và Mandos đánh giá là không sẵn lòng tái sinh trong thời gian Arda, thì việc tái hôn có thể xảy ra. Điều này chỉ xảy ra một lần trong hồ sơ và được gọi là [Sự diệt vong của Finwë và Míriel](../S/Statute_of_Finwë_and_Míriel.md).
+[Manwë](../M/Manwë.md) phán quyết rằng, vì cuộc sống của Tiên tộc ở Arda là vĩnh viễn nên cuộc hôn nhân của họ cũng vậy. Vì vậy, khi một bên qua đời, cuộc hôn nhân vẫn chưa kết thúc mà vẫn ở trạng thái đình chỉ. Tuy nhiên, có một điều khoản trong đó, nếu người chết được Manwë và Mandos đánh giá là không sẵn lòng tái sinh trong thời gian Arda thì việc tái hôn có thể xảy ra. Điều này chỉ xảy ra một lần trong hồ sơ và được gọi là [Sự diệt vong của Finwë và Míriel](../S/Statute_of_Finwë_and_Míriel.md).
 
-Mặc dù hôn nhân đạt được bằng sự kết hợp thể xác, nhưng nó vẫn xuất phát từ ý chí của fëa, và do đó được duy trì bởi ý chí. Như vậy, cái chết không thể giải tán một cuộc hôn nhân vì nỗi sợ hãi của Yêu tinh vẫn tồn tại sau cái chết của thể xác. Nếu một Yêu tinh được tái hiện, cuộc hôn nhân của họ vẫn còn nguyên vẹn ngay cả khi có sự giới thiệu của một người phối ngẫu mới, vì cốt lõi của ý chí tạo nên cuộc hôn nhân nằm ở fëa của người phối ngẫu đó.
+Mặc dù hôn nhân đạt được bằng sự kết hợp thể xác, nhưng nó vẫn xuất phát từ ý chí của fëa, và do đó được duy trì bởi ý chí. Như vậy, cái chết không thể giải tán một cuộc hôn nhân vì nỗi sợ hãi về Tiên tộc vẫn tồn tại sau cái chết của thể xác. Nếu một Tiên được tái hiện, cuộc hôn nhân của họ vẫn còn nguyên vẹn ngay cả khi có sự xuất hiện của một người phối ngẫu mới, vì cốt lõi của ý chí tạo nên cuộc hôn nhân nằm ở fëa của người phối ngẫu đó.
 
-Lưu ý: Sau phần này, Tolkien bỏ bài luận.
+Lưu ý: Sau phần này Tolkien bỏ viết bài.
 
 <span></span>
 

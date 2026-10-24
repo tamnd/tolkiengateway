@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Eregion"
 ---
 
-Chuyển hướng đến [Vùng sinh thái](../E/Eregion.md).
+Chuyển hướng đến [Eregion](../E/Eregion.md).

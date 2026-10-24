@@ -38,7 +38,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Trong bức thư này, Tolkien hỏi Furth liệu con trai nhỏ của [Stanley Unwin](../S/Stanley_Unwin.md) [Rayner](../R/Rayner_Unwin.md) có muốn đọc phiên bản đánh máy của *[A Long Expected Party](../A/A_Long_Expected_Party.md)*, chương đầu tiên của nội dung sẽ trở thành *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* hay không. Ông nhận xét Rayner là một "nhà phê bình rất đáng tin cậy".
+Trong bức thư này Tolkien hỏi Furth liệu con trai nhỏ của [Stanley Unwin](../S/Stanley_Unwin.md) [Rayner](../R/Rayner_Unwin.md) có muốn đọc phiên bản đánh máy của *[A Long Expected Party](../A/A_Long_Expected_Party.md)*, chương đầu tiên của nội dung sẽ trở thành *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* hay không. Ông nhận xét Rayner là một "nhà phê bình rất đáng tin cậy".
 
 <dl><dt>In the expanded edition</dt></dl>
 

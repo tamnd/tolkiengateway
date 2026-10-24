@@ -67,12 +67,12 @@ Sự kiện xảy ra vào ngày 27 tháng 8
 ## Trên Trái đất {#On_Earth}
 
 - **[1977](1977.md)** - [Mythcon 8](../M/Mythcon_8.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_San_Diego" title="wikipedia:University of San Diego">Đại học San Diego</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/California" title="wikipedia:California">California</a>.
-- <b><a href="1987.md" title="1987">1987</a> - <i><a href="../T/The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">Con đường đã mất và những bài viết khác</a></i> được xuất bản ở Anh.</b>
+- <b><a href="1987.md" title="1987">1987</a> - <i><a href="../T/The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i> được xuất bản ở Anh.</b>
 - **[2007](2007.md)** - *[The Frodo Franchise](../T/The_Frodo_Franchise.md)* được xuất bản.
 - **[2015](2015.md)** - <b><i><a href="../T/The_Story_of_Kullervo.md" title="The Story of Kullervo">Câu chuyện về Kullervo</a></i> được xuất bản.</b>
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Gandalf](../G/Gandalf.md) bị [Saruman](../S/Saruman.md) giam giữ trên đỉnh [Orthanc](../O/Orthanc.md).
+    - [Gandalf](../G/Gandalf.md) bị giam giữ bởi [Saruman](../S/Saruman.md) trên đỉnh của [Orthanc](../O/Orthanc.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.

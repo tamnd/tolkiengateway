@@ -15,9 +15,9 @@ sort_keys:
   "Letters": "Sterling E. Lanier, John (1965-09-29)"
 ---
 
-Vào [29 tháng 9](../_/29_September.md) [1965](../_/1965.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_%2522The_Letters_of_J.R.R._Tolkien%2522.md) cho Sterling E. Lanier**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Vào ngày [29 tháng Chín](../_/29_September.md) [1965](../_/1965.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_%2522The_Letters_of_J.R.R._Tolkien%2522.md) cho Sterling E. Lanier**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-- **Nội dung:** Tolkien cảm ơn Lanier vì đã gửi cho ông bản sao cuốn tiểu thuyết <a class="extiw" href="http://en.wikipedia.org/wiki/Frank_Herbert" title="wikipedia:Frank Herbert">Frank Herbert</a> <a class="extiw" href="http://en.wikipedia.org/wiki/Dune_(novel)" title="wikipedia:Dune (novel)"><i>Dune</i></a>của Frank. Tolkien viết rằng ông sẽ không có thời gian để đọc cuốn tiểu thuyết cho đến lần đi nghỉ tiếp theo.
+- **Nội dung:** Tolkien cảm ơn Lanier đã gửi cho ông bản sao <a class="extiw" href="http://en.wikipedia.org/wiki/Frank_Herbert" title="wikipedia:Frank Herbert">cuốn tiểu thuyết <a class="extiw" href="http://en.wikipedia.org/wiki/Dune_(novel)" title="wikipedia:Dune (novel)"><i>Dune</i></a>của Frank Herbert</a>. Tolkien viết rằng ông sẽ không có thời gian để đọc cuốn tiểu thuyết cho đến lần nghỉ lễ tiếp theo.
 - **Xuất bản:** Một đoạn trích từ bức thư đã được xuất bản trên *Tolkien's Library: An Annotated Checklist*.
 
 ## Xem thêm {#See_also}

@@ -69,8 +69,8 @@ Sự kiện xảy ra vào ngày 23 tháng 3.
 - **[1952](1952.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 132a](../L/Letter_132a.md).
 - **[1954](1954.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 143b](../L/Letter_143b.md).
 - **[1963](1963.md)** - Ông bà Kloos viết [thư gửi J.R.R. Tolkien](../L/Letter_to_Mr_and_Mrs_Kloos.md).
-- **[1994](1994.md)** - [Donald Swann](../D/Donald_Swann.md), nhà soạn nhạc *[The Road Goes Ever On](<../T/The_Road_Goes_Ever_On_(book).md>)*, qua đời.
-- **[2003](2003.md)** - *[The Lord of the Rings: The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)* giành được hai giải Oscar, trong số sáu đề cử, tại <a class="extiw" href="http://en.wikipedia.org/wiki/75th_Academy_Awards" title="wikipedia:75th Academy Awards">Giải thưởng Viện hàn lâm lần thứ 75</a>.
+- **[1994](1994.md)** - [Donald Swann](../D/Donald_Swann.md), nhà soạn nhạc của *[The Road Goes Ever On](<../T/The_Road_Goes_Ever_On_(book).md>)*, qua đời.
+- **[2003](2003.md)** - *[The Lord of the Rings: The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)* giành được hai giải Oscar, trên tổng số sáu đề cử, tại <a class="extiw" href="http://en.wikipedia.org/wiki/75th_Academy_Awards" title="wikipedia:75th Academy Awards">Giải thưởng Viện hàn lâm lần thứ 75</a>.
 - **[2006](2006.md)** - *[The Lord of the Rings (musical)](<../T/The_Lord_of_the_Rings_(musical).md>)* khai mạc tại Toronto.
 
 ## Trong Arda {#In_Arda}
@@ -80,5 +80,5 @@ Sự kiện xảy ra vào ngày 23 tháng 3.
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
     - [Gandalf](../G/Gandalf.md) đến [Mirkwood](../M/Mirkwood.md) và bắt đầu thẩm vấn [Gollum](../G/Gollum.md).
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - [Chủ nhà của phương Tây](../A/Army_of_the_West.md) tiến về [Cổng đen](../B/Black_Gate.md). Họ bất tỉnh khỏi [Ithilien](../I/Ithilien.md). [Aragorn](../A/Aragorn.md) xua đuổi những người yếu tim.
-    - [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md) bỏ lại cánh tay và thiết bị của họ.
+    - Đội [Đạo quân Phương Tây](../A/Army_of_the_West.md) tiến về phía [Cổng Đen](../B/Black_Gate.md). Họ bất tỉnh [Ithilien](../I/Ithilien.md). [Aragorn](../A/Aragorn.md) xua đuổi những người yếu tim.
+    - [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md) bỏ lại vũ khí và trang bị của mình.

@@ -40,11 +40,11 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/LOTRO_-_War_of_Three_Peaks.png.md"><img src="https://tolkiengateway.net/w/images/thumb/2/22/LOTRO_-_War_of_Three_Peaks.png/320px-LOTRO_-_War_of_Three_Peaks.png" decoding="async" loading="lazy" width="320" height="210" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/22/LOTRO_-_War_of_Three_Peaks.png/480px-LOTRO_-_War_of_Three_Peaks.png 1.5x, https://tolkiengateway.net/w/images/thumb/2/22/LOTRO_-_War_of_Three_Peaks.png/640px-LOTRO_-_War_of_Three_Peaks.png 2x" data-file-width="700" data-file-height="460"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Video game</td></tr><tr><th colspan="2" class="tg-infobox-title"><span><i>The Lord of the Rings Online: War of Three Peaks</i></span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Details</span></th></tr><tr><th scope="row" class="tg-infobox-label">Developer</th><td class="tg-infobox-data"><a href="../S/Standing_Stone_Games.md" title="Standing Stone Games">Standing Stone Games</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../D/Daybreak_Game_Company.md" title="Daybreak Game Company">Daybreak Game Company</a></td></tr><tr><th scope="row" class="tg-infobox-label">Platform</th><td class="tg-infobox-data">Microsoft Windows</td></tr><tr><th scope="row" class="tg-infobox-label">Release Date</th><td class="tg-infobox-data"><a href="../_/20_October.md" title="20 October">20 October</a> <a href="../_/2020.md" title="2020">2020</a></td></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data">MMORPG</td></tr></tbody></table>
 
-<i><b>Chúa tể của những chiếc nhẫn trực tuyến: War of Three Peaks</b></i> là bản mở rộng thứ tám của *[The Lord of the Rings Online](The_Lord_of_the_Rings_Online.md)*.
+<i><b>The Lord of the Rings Trực tuyến: War of Three Peaks</b></i> là bản mở rộng thứ tám của *[The Lord of the Rings Online](The_Lord_of_the_Rings_Online.md)*.
 
-- Một khu vực mới, Elderslade, được giới thiệu và bao gồm các vùng đất ở phía bắc Giếng nước Langflood và phía tây [Ered Mithrin](../E/Ered_Mithrin.md), nằm ngay trước cổng [Núi Gundabad](../M/Mount_Gundabad.md).
+- Một khu vực mới, Elderslade, được giới thiệu và bao gồm các vùng đất phía bắc Giếng Langflood và phía tây [Ered Mithrin](../E/Ered_Mithrin.md), nằm ngay trước cổng [Mount Gundabad](../M/Mount_Gundabad.md).
 - Cơ chế Nhiệm vụ đã được giới thiệu, cho phép người chơi ở mọi cấp độ trên 20 hỗ trợ nỗ lực chiến tranh của Durin và nhận phần thưởng thông qua một trong hai phe danh tiếng mới: Gabil'akka.
-- "Di sản của Durin và những thử thách của người lùn" tiếp tục với hai chương mới, kể về Trận chiến của Elderslade và thử thách của Gorgar Tàn nhẫn, Lãnh chúa Gundabad và con trai của [Bolg](../B/Bolg.md).
+- "Di sản của Durin và những thử thách của Người Lùn" tiếp tục với hai chương mới, kể về Trận chiến của Elderslade và thử thách của Gorgar Tàn nhẫn, Chúa tể của Gundabad và con trai của [Bolg](../B/Bolg.md).
 
 ## Cập nhật {#Updates}
 
@@ -52,17 +52,17 @@ infobox:
 
 *The Wildwood* được phát hành vào [27 tháng 3](../_/27_March.md), [2021](../_/2021.md).
 
-- Wildwood, một khu vực mới, được phát hành như một phần của Bree-land bắt đầu từ cấp 45. Bao gồm các nhiệm vụ mới cùng với hai phe phái danh tiếng.
+- Wildwood, một khu vực mới, được phát hành như một phần của Bree-land bắt đầu từ cấp 45. Bao gồm các nhiệm vụ mới cùng với hai phe danh tiếng.
 - Nhiệm vụ mới đã được thêm vào The Wildwood.
 - Bản đồ Bree-land đã được cập nhật tương ứng.
 
-### Cập nhật 30: Dòng máu Azog {#Update_30:_Blood_of_Azog}
+### Cập nhật 30: Máu của Azog {#Update_30:_Blood_of_Azog}
 
 *Blood of Azog* được phát hành vào [8 tháng 6](../_/8_June.md), [2021](../_/2021.md).
 
 - Nhiệm vụ mới cho các phe phái người lùn mới đã được phát hành.
-- Cốt truyện "The Legacy of Durin" tiếp tục với cảnh hồi tưởng về [Trận chiến Azanulbizar](../B/Battle_of_Azanulbizar.md). Đoạn hồi tưởng được kể lại bởi Hersegg, cháu gái của một trong những anh hùng trong trận chiến đó.
-- Cuộc đột kích Khazad-dûm sụp đổ cũng được phát hành với những trang bị mới để kiếm được. Trong trường hợp này, người chơi giúp đỡ những người lùn Moria trong TA 1981 trong trận chiến cuối cùng của họ chống lại Durin's Bane.
+- Cốt truyện "Di sản của Durin" tiếp tục với cảnh hồi tưởng về [Trận Azanulbizar](../B/Battle_of_Azanulbizar.md). Đoạn hồi tưởng được kể lại bởi Hersegg, cháu gái của một trong những anh hùng trong trận chiến đó.
+- Cuộc đột kích mùa thu Khazad-dûm cũng được phát hành với trang bị mới để kiếm được. Trong trường hợp này, người chơi giúp đỡ những người lùn Moria trong TA 1981 trong trận chiến cuối cùng của họ chống lại Tai họa của Durin.
 - Đây là bản cập nhật nội dung cuối cùng trước bản mở rộng lớn tiếp theo, *Fate of Gundabad*, được phát hành vào ngày 10 tháng 11 năm 2021.
 
 #### Cập nhật 30.3 {#Update_30.3}
@@ -71,7 +71,7 @@ infobox:
 
 - Bản cập nhật này không chứa bất kỳ nội dung nhiệm vụ mới nào cho trò chơi nhưng đã phát hành một số tính năng quan trọng dẫn đến bản mở rộng The Fate of Gundabad, cùng với những thay đổi nhỏ hơn về chất lượng cuộc sống.
 - Lớp Brawler đã được giới thiệu trong trò chơi.
-- Hệ thống Vật phẩm Huyền thoại được tân trang lại hoàn toàn được phát hành công khai sau nhiều tháng thử nghiệm beta
+- Hệ thống Vật phẩm Huyền thoại được cải tiến hoàn toàn được phát hành công khai sau nhiều tháng thử nghiệm beta
 - Hệ thống vỏ máy đã có bản cập nhật loại bỏ các ký hiệu kích thước cho các vật dụng vỏ máy, giúp việc tùy chỉnh vỏ máy nghe nhạc dễ dàng hơn
 
 <table style="margin:0 auto; width: 100%" class="mw-collapsible mw-collapsed toccolours" align="center">

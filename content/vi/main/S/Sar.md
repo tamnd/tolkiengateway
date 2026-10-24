@@ -19,7 +19,7 @@ categories:
 
 Từ [PQ](../P/PQ.md) \**sarno*, [root](../R/Root.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=SAR&amp;action=edit&amp;redlink=1" title="SAR (page does not exist)">SAR</a>.
 
-*Sar* không bình thường ở Quenya vì là danh từ một âm tiết riêng mà nguyên âm không được kéo dài bù lại trong trường hợp chỉ định. Người ta sẽ mong đợi \**sarno* > \*\**sár*
+*Sar* không bình thường trong Quenya vì là danh từ một âm tiết riêng mà nguyên âm không được kéo dài bù trong trường hợp chỉ định. Người ta sẽ mong đợi \**sarno* > \*\**sár*
 
 ## Ví dụ {#Example}
 
@@ -27,11 +27,11 @@ Từ [PQ](../P/PQ.md) \**sarno*, [root](../R/Root.md) <a class="new" href="https
 
 ## Có cùng nguồn gốc {#Cognates}
 
-- [Tiếng Sindarin](Sindarin.md): *[sarn](Sarn.md)*
+- [Sindarin](Sindarin.md): *[sarn](Sarn.md)*
 
 ## Phiên bản khác {#Other_versions}
 
-*[The Etymologies](../T/The_Etymologies.md)* give the stem of the word as *sard-* (eg. plural *sardi*) however in another source, the stem of the name <a class="mw-redirect mw-disambig" href="../E/Elessar.md" title="Elessar">Elessar</a> is given as *Elesarno*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> This, and the Sindarin word *sarn*, point out that the stem was corrected by Tolkien to *sarn-*. <span></span>
+*[The Etymologies](../T/The_Etymologies.md)* đặt gốc của từ là *sard-* (ví dụ: số nhiều *sardi*), tuy nhiên trong một nguồn khác, gốc của tên <a class="mw-redirect mw-disambig" href="../E/Elessar.md" title="Elessar">Elessar</a> được ghi là *Elesarno*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Từ này và từ Sindarin *sarn*, chỉ ra rằng gốc của tên Tolkien được sửa thành *sarn-*. <span></span>
 
 ## Tài liệu tham khảo {#References}
 

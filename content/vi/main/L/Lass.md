@@ -13,7 +13,7 @@ categories:
   - "Sindarin nouns"
 ---
 
-<i><b>lass</b></i> là từ [Sindarin](../S/Sindarin.md) có nghĩa là "lá".<sup id="cite_ref-PE_1-0" class="reference"><a href="#cite_note-PE-1">[1]</a></sup>
+<i><b>lass</b></i> là một từ [Sindarin](../S/Sindarin.md) có nghĩa là "lá".<sup id="cite_ref-PE_1-0" class="reference"><a href="#cite_note-PE-1">[1]</a></sup>
 
 ## Ví dụ {#Examples}
 

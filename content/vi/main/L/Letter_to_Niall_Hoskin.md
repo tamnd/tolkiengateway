@@ -20,21 +20,21 @@ images:
 
 Vào [16 tháng 10](../_/16_October.md) [1968](../_/1968.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho Niall Hoskin**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-- **Chủ đề:** [Ngôn ngữ học](../../category/L/Languages.md) ([Ngôn ngữ phương Tây](../W/Westron.md) và [Ngôn ngữ Elvis](../E/Elvish.md))
-- **Mô tả:** Thư viết tay (2 trang) có chữ ký của J.R.R. Tolkien, Allen & Unwin 40 Museum Street, London W.C. 1.<sup id="cite_ref-TL_2-0" class="reference"><a href="#cite_note-TL-2">[2]</a></sup>
+- **Chủ đề:** [Ngôn ngữ học](../../category/L/Languages.md) ([Westron](../W/Westron.md) và [Elvish ngôn ngữ](../E/Elvish.md))
+- **Mô tả:** Thư viết tay (2 trang) có chữ ký của J.R.R. Tolkien, Allen &amp; Unwin 40 Museum Street, London W.C. 1.<sup id="cite_ref-TL_2-0" class="reference"><a href="#cite_note-TL-2">[2]</a></sup>
 - **Xuất bản:** Không có.
 
 Theo [Pieter Collier](../P/Pieter_Collier.md), Niall Hoskin "*khi đó 14 tuổi và quan tâm đến ngôn ngữ, từ đó trở thành và vẫn là giáo viên ngôn ngữ, và những câu hỏi của ông tập trung vào các vấn đề ngôn ngữ, như câu trả lời ngụ ý.*"<sup id="cite_ref-TL_2-1" class="reference"><a href="#cite_note-TL-2">[2]</a></sup> Collier trích dẫn thêm Hoskin:
 
-"*Về nội dung của bức thư: Tôi đã viết cho ông một thời gian dài trước khi tìm ra nơi ông sống: do đó ông đề cập đến sự chênh lệch về ngày tháng. Bạn thấy đấy, ông đã chuyển đến từ địa chỉ Oxford được trích dẫn trong chính bức thư, lui về bờ biển ở Bournemouth để viết - như ông hy vọng - trong yên bình. Trong sự kiện đó, tôi là thám tử học sinh, tôi đã tra cứu ông trong danh bạ điện thoại South Dorset và biết rằng ông đã chuyển đến đó.*
+"*Về nội dung của bức thư: Tôi đã viết cho ông một thời gian dài trước khi tìm ra nơi ông sống: do đó ông đề cập đến sự chênh lệch về ngày tháng. Bạn thấy đấy, ông đã chuyển từ địa chỉ Oxford trích dẫn trong chính bức thư, lui về bờ biển ở Bournemouth để viết - như ông hy vọng - trong yên bình. Trong sự kiện đó, tôi là thám tử học sinh, tôi đã tra cứu ông trong danh bạ điện thoại South Dorset và biết rằng ông đã chuyển đến đó.*
 
-*Sau đó, tôi cũng nhận được một lá thư được sao chép tiêu chuẩn từ Allen & Unwin cho tôi biết rằng Giáo sư Tolkien không trả lời thư và có một chữ ký được sao chép. Tôi không giữ cái đó! Trong trường hợp đó, mặc dù có rất nhiều dấu hiệu trong bức thư cho thấy ông không đánh giá cao sự gián đoạn, nhưng ông vẫn đủ duyên dáng để đi vào chi tiết: ông cũng khá nhanh chóng trả lời.*
+*Sau đó tôi cũng nhận được lá thư được sao chép tiêu chuẩn từ Allen &amp; Unwin nói với tôi rằng Giáo sư Tolkien không trả lời thư và có chữ ký được sao chép. Tôi không giữ cái đó! Trong trường hợp này, mặc dù có rất nhiều dấu hiệu trong bức thư cho thấy ông không đánh giá cao sự gián đoạn, nhưng ông vẫn đủ duyên dáng để đi vào chi tiết: ông cũng khá nhanh chóng trả lời.*
 
 *Những câu hỏi của tôi bây giờ đã quá xa để tôi có thể nhớ chính xác những gì tôi đã hỏi. Ngay cả khi đó - tôi mới 14 tuổi - tôi đã quan tâm đến ngôn ngữ, và từ đó đã trở thành và vẫn là một giáo viên ngôn ngữ, và những câu hỏi của tôi tập trung vào các vấn đề ngôn ngữ, như câu trả lời ngụ ý. Có lẽ rất lập dị, nhưng như bạn nói nó đã thu hút sự chú ý của ông! Nhân tiện, mặc dù tôi sống ở SW England nhưng địa chỉ trên phong bì giờ lại là của bố mẹ tôi.*"
 
 ## Trích {#Excerpt}
 
-"*Tôi e rằng tôi không có thời gian để cung cấp thêm thông tin ngôn ngữ. Việc sắp xếp và sắp xếp thông tin chi tiết liên quan đến các ngôn ngữ Tiên sẽ là một công việc cần nhiều công sức và thời gian. Bản thân tôi rất thích nó, nhưng tôi không thể đảm nhận việc đó cho từng người tìm hiểu. Một cuốn sách như vậy, nếu nó xuất hiện, phải đợi cho đến khi tôi xuất bản, nếu được phép, những truyền thuyết của những thời đại trước đó...*"
+"*Tôi e rằng tôi không có thời gian để cung cấp thêm thông tin ngôn ngữ. Việc sắp xếp và sắp xếp thông tin chi tiết liên quan đến các ngôn ngữ Elvish sẽ là một công việc cần nhiều công sức và thời gian. Bản thân tôi rất thích nó, nhưng tôi không thể đảm nhận việc đó cho từng người tìm hiểu. Một cuốn sách như vậy, nếu nó xuất hiện, phải đợi cho đến khi tôi xuất bản, nếu được phép, những truyền thuyết của thời xa xưa...*"
 
 ## Thư viện {#Gallery}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Journal"
 ---
 
-Chuyển hướng đến [Tạp chí Tolkien](Tolkien_Journal.md).
+Chuyển hướng đến [Tolkien Journal](Tolkien_Journal.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Theft of Melko and the Darkening of Valinor"
 ---
 
-Chuyển hướng tới [Vụ trộm Melko và sự đen tối của Valinor](The_Theft_of_Melko_and_the_Darkening_of_Valinor.md).
+Chuyển hướng tới [Vụ trộm Melko và Làm đen tối Valinor](The_Theft_of_Melko_and_the_Darkening_of_Valinor.md).

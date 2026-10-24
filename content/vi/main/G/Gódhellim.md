@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Noldor"
 ---
 
-Chuyển hướng tới [Noldor](../N/Noldor.md).
+Chuyển hướng đến [Noldor](../N/Noldor.md).

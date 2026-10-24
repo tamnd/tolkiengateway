@@ -86,23 +86,23 @@ images:
 
 **Các thiết bị huy hiệu**, **biểu tượng** và **cờ** là một phần tử nhỏ xuyên suốt [huyền thoại](../L/Legendarium.md).
 
-Trong giai đoạn đầu tiên của [thần thoại](../L/Legendarium.md) trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*, [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã mô tả các thiết bị huy hiệu bằng hình ảnh sống động và tượng hình, như có thể thấy cụ thể trong phần mô tả [mười hai ngôi nhà của người Gondothlim](#twelve_houses_of_the_Gondothlim); nhưng trong những câu chuyện sau này, các thiết bị trở nên ít và đơn giản hơn. Tuy nhiên, khoảng [1960](../_/1960.md)-[61](../_/1961.md), Tolkien cũng đã vẽ một số thiết bị dành cho các nhân vật của [Thời kỳ đầu tiên](../F/First_Age.md), phức tạp hơn nhưng cũng có tính trang trí và trừu tượng.<sup id="cite_ref-Illustrator_1-0" class="reference"><a href="#cite_note-Illustrator-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:191</sup> Bài viết này đề cập đến các hình ảnh minh họa và mô tả bằng văn bản trong các phần riêng biệt.
+Trong giai đoạn đầu tiên của [thần thoại](../L/Legendarium.md) trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*, [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã mô tả các thiết bị huy hiệu bằng hình ảnh sống động và tượng hình, như có thể thấy cụ thể trong phần mô tả [mười hai ngôi nhà của người Gondothlim](#twelve_houses_of_the_Gondothlim); nhưng trong những câu chuyện sau này, các thiết bị trở nên ít và đơn giản hơn. Tuy nhiên, xung quanh [1960](../_/1960.md)-[61](../_/1961.md), Tolkien cũng đã vẽ một số thiết bị cho các ký tự của [Kỷ Đệ Nhất](../F/First_Age.md) phức tạp hơn nhưng cũng có tính trang trí và trừu tượng.<sup id="cite_ref-Illustrator_1-0" class="reference"><a href="#cite_note-Illustrator-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:191</sup> Bài viết này đề cập đến các minh họa và mô tả văn bản trong các phần riêng biệt.
 
 ## Bản vẽ {#Drawings}
 
-Sau khi hoàn thành các bức vẽ của mình vào những năm 1960, Tolkien đã xác định một số quy tắc cho huy hiệu [Elvish](../E/Elves.md):<sup id="cite_ref-Illustrator_1-1" class="reference"><a href="#cite_note-Illustrator-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:191</sup>
+Sau khi hoàn thành các bức vẽ của mình vào những năm 1960, Tolkien đã xác định một số quy tắc cho [Elvish](../E/Elves.md) huy hiệu:<sup id="cite_ref-Illustrator_1-1" class="reference"><a href="#cite_note-Illustrator-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:191</sup>
 
 - Các thiết kế cá nhân của phụ nữ được đặt trong một vòng tròn.
-- Các thiết kế cá nhân của nam giới được đặt trong một hình thoi.
+Các thiết kế cá nhân của - Con Người được đặt trong một hình thoi.
 - Các thiết kế hoặc biểu tượng chung (không mang tính cá nhân) của [gia đình](../../category/E/Elven_noble_houses.md) được đặt trong một hình vuông.
 - Thứ hạng thường được thể hiện bằng số điểm chạm tới vành ngoài:
     - Bốn điểm dành cho các hoàng tử.
     - Sáu đến tám điểm cho vua.
-    - Tổ tiên vĩ đại đôi khi có tới 16 người, như ở [Nhà Finwë](#Elves).
+    - Tổ tiên vĩ đại có khi có tới 16 người, như ở [Nhà Finwë](#Elves).
 
-### Yêu tinh {#Elves}
+### Tiên tộc {#Elves}
 
-Vì các biểu tượng cá nhân được đặt trong một hình thoi và các biểu tượng của ngôi nhà được đặt trong một hình vuông, nên có khả năng một số thiết kế của Yêu tinh dưới đây (ví dụ: [Fëanor](../F/Fëanor.md) và [House of Fëanor](House_of_Fëanor.md)) có thể được một gia đình quý tộc sử dụng, khiến chúng nghiêng bốn mươi lăm độ. Tolkien chỉ tạo ra biến thể này với biểu tượng của [House of Finwë](House_of_Finwë.md). Các thiết kế của Yêu tinh đối xứng ở mọi phía, không giống như thiết kế của [Đàn ông](../M/Men.md), vì vậy chúng có thể được sử dụng ở bất kỳ vị trí nào theo chuyển động tròn có thể phản ánh [sự bất tử](../I/Immortality.md) của Yêu tinh.<sup id="cite_ref-Illustrator_1-2" class="reference"><a href="#cite_note-Illustrator-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:192, 194-5</sup>
+Vì biểu tượng cá nhân được đặt trong hình thoi và biểu tượng ngôi nhà được đặt trong hình vuông nên có khả năng một số thiết kế Elvish bên dưới (ví dụ: [Fëanor](../F/Fëanor.md) và [Nhà Fëanor](House_of_Fëanor.md)) có thể được sử dụng bởi một gia đình quý tộc, để chúng nghiêng bốn mươi lăm độ. Tolkien chỉ thực hiện biến thể này với biểu tượng của [House of Finwë](House_of_Finwë.md). Thiết kế của Elvish đối xứng ở tất cả các phía, không giống như của [Con Người](../M/Men.md), vì vậy chúng có thể được sử dụng ở bất kỳ vị trí nào trong chuyển động tròn có thể phản ánh Elvish [sự bất tử](../I/Immortality.md).<sup id="cite_ref-Illustrator_1-2" class="reference"><a href="#cite_note-Illustrator-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:192, 194-5</sup>
 
 <table class="wikitable sortable">
 <tbody><tr style="background:var(--tg-color-surface-3)">
@@ -350,7 +350,7 @@ Vì các biểu tượng cá nhân được đặt trong một hình thoi và c�
 
 ### Eärendil {#Eärendil}
 
-Tolkien dường như đã đầu tư khá nhiều vào thiết bị của [Eärendil](../E/Eärendil.md), tạo ra nhiều biến thể hơn bất kỳ thiết bị nào khác. Xem thiết bị thứ hai của Finarfin ở trên, thiết bị này rõ ràng đã bị bỏ rơi và thay vào đó được sử dụng làm cơ sở cho thiết bị của Eärendil. Hammond và Scull cũng mô tả một thiết bị dành cho Eärendil có một ngôi sao gồm sáu điểm, hai trong số đó dài hơn và chạm vào các góc trên và dưới.<sup id="cite_ref-Illustrator_1-13" class="reference"><a href="#cite_note-Illustrator-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:194</sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[note 2]</a></sup>
+Tolkien có vẻ đã được đầu tư khá nhiều vào thiết bị của [Eärendil](../E/Eärendil.md), tạo ra nhiều biến thể hơn bất kỳ thiết bị nào khác. Xem thiết bị thứ hai của Finarfin ở trên, thiết bị này rõ ràng đã bị bỏ đi và được sử dụng làm cơ sở cho thiết bị của Eärendil thay thế. Hammond và Scull cũng mô tả một thiết bị dành cho Eärendil có một ngôi sao gồm sáu điểm, hai trong số đó dài hơn và chạm vào các góc trên và dưới.<sup id="cite_ref-Illustrator_1-13" class="reference"><a href="#cite_note-Illustrator-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:194</sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[note 2]</a></sup>
 
 <table class="wikitable sortable">
 <tbody><tr style="background:var(--tg-color-surface-3)">
@@ -392,9 +392,9 @@ Tolkien dường như đã đầu tư khá nhiều vào thiết bị của [Eär
 <li><i><a href="../J/J.R.R._Tolkien%253A_Artist_and_Illustrator.md" title="J.R.R. Tolkien: Artist and Illustrator">J.R.R. Tolkien: Artist and Illustrator</a></i> (<a href="../_/1995.md" title="1995">1995</a>), p. 193, #190</li></ul>
 </td></tr></tbody></table>
 
-### Đàn ông {#Men}
+### Con Người {#Men}
 
-Kiểu dáng của nam giới có tính đối xứng, nhưng không giống kiểu dáng của Yêu tinh, chỉ có chiều ngang, có lực đẩy hướng lên trên. Điều này có lẽ phản ánh [bản chất siêu việt](../D/Death.md) của Nam giới, không giống như sự bất tử kèm theo của Yêu tinh.<sup id="cite_ref-Illustrator_1-15" class="reference"><a href="#cite_note-Illustrator-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:195</sup>
+Thiết kế của Con Người có tính đối xứng, nhưng không giống như của Tiên tộc, chỉ nằm ngang, có lực đẩy lên trên. Điều này có lẽ phản ánh [bản chất siêu việt](../D/Death.md) của Con Người, không giống như sự bất tử kèm theo của Tiên.<sup id="cite_ref-Illustrator_1-15" class="reference"><a href="#cite_note-Illustrator-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:195</sup>
 
 <table class="wikitable sortable">
 <tbody><tr style="background:var(--tg-color-surface-3)">
@@ -467,7 +467,7 @@ Kiểu dáng của nam giới có tính đối xứng, nhưng không giống ki�
 <ul><li><i><a href="../T/The_Silmarillion_Desk_Calendar_1979.md" title="The Silmarillion Desk Calendar 1979">The Silmarillion Desk Calendar 1979</a></i> (<a href="../_/1978.md" title="1978">1978</a>), June</li></ul>
 </td></tr></tbody></table>
 
-### Người lùn {#Dwarves}
+### Người Lùn {#Dwarves}
 
 <table class="wikitable sortable">
 <tbody><tr style="background:var(--tg-color-surface-3)">
@@ -535,7 +535,7 @@ The anvil and hammer is clearly a reference to <a href="../D/Dwarves.md" title="
 
 ### Địa điểm sớm {#Early_locations}
 
-Trong giai đoạn đầu của [huyền thoại](../L/Legendarium.md) của *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)* ([1916](../_/1916.md)-[20](../_/1920.md)), Tolkien đã làm ba thiết bị huy hiệu cho các thị trấn ở Anh (khi đó là cốt lõi trong thần thoại của ông), mà ông đặt tên là "<i><b>i·glin grandin a·Dol Erethin Airi</b></i>" ("những thị trấn công bằng của Holy [Tol Eressëa](../T/Tol_Eressëa.md)"). Theo ghi nhận của các biên tập viên, những thị trấn này rất đặc biệt đối với Tolkien và vợ ông [Edith](../E/Edith_Tolkien.md) trong những năm đó.<sup id="cite_ref-Erethrin_19-0" class="reference"><a href="#cite_note-Erethrin-19">[17]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:93</sup>
+Trong giai đoạn đầu của [huyền thoại](../L/Legendarium.md) của *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)* ([1916](../_/1916.md)-[20](../_/1920.md)), Tolkien đã làm ba thiết bị huy hiệu cho các thị trấn từ Anh (khi đó là cốt lõi trong thần thoại của ông), được ông đặt tên là "<i><b>i·glin grandin a·Dol Erethin Airi</b></i>" ("những thị trấn công bằng của Holy [Tol Eressëa](../T/Tol_Eressëa.md)"). Theo ghi nhận của các biên tập viên, những thị trấn này rất đặc biệt đối với Tolkien và vợ ông [Edith](../E/Edith_Tolkien.md) trong những năm đó.<sup id="cite_ref-Erethrin_19-0" class="reference"><a href="#cite_note-Erethrin-19">[17]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:93</sup>
 
 <table class="wikitable sortable">
 <tbody><tr style="background:var(--tg-color-surface-3)">
@@ -762,9 +762,9 @@ Dưới đây là những trích dẫn mô tả các biểu tượng được c�
 <td>&#34;<i>The sign of this people was the Stricken Anvil, and a hammer that smiteth sparks about it was set on their shields, and red gold and black iron was their delight</i>&#34;.<sup id="cite_ref-Gondolin_49-9" class="reference"><a href="#cite_note-Gondolin-49">[47]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:174</sup>
 </td></tr></tbody></table>
 
-### Biểu ngữ Gnomish {#Gnomish_banners}
+### Gnomish biểu ngữ {#Gnomish_banners}
 
-Trong một số "[Những đoạn văn xuôi theo sau những câu chuyện đã mất](../P/Prose_Fragments_Following_the_Lost_Tales.md)", Tolkien đã viết một câu chuyện ngắn về chuyến đi của [Gnomes](../G/Gnomes.md) đến [Great Lands](../G/Great_Lands.md) (sau này là [Sự trở lại của Noldor](../R/Return_of_the_Noldor.md)), trong đó thủ lĩnh của họ và các con trai của họ cầm một số biểu ngữ:<sup id="cite_ref-Prose_51-0" class="reference"><a href="#cite_note-Prose-51">[49]</a></sup>
+Trong một số "[Những đoạn văn xuôi theo sau Lost Tales](../P/Prose_Fragments_Following_the_Lost_Tales.md)", Tolkien đã viết một câu chuyện ngắn về việc [Gnomes](../G/Gnomes.md) tiến vào [Great Lands](../G/Great_Lands.md) ( [Sự trở lại của Noldor](../R/Return_of_the_Noldor.md) sau này), trong đó thủ lĩnh của họ và các con trai của họ cầm một số biểu ngữ:<sup id="cite_ref-Prose_51-0" class="reference"><a href="#cite_note-Prose-51">[49]</a></sup>
 
 <figure class="mw-halign-left" typeof="mw:File"><a class="mw-file-description" href="../../file/Q/Quentandil_-_Gnome_Banners.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/8/87/Quentandil_-_Gnome_Banners.jpg/250px-Quentandil_-_Gnome_Banners.jpg" decoding="async" loading="lazy" width="250" height="121" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/87/Quentandil_-_Gnome_Banners.jpg/375px-Quentandil_-_Gnome_Banners.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/8/87/Quentandil_-_Gnome_Banners.jpg/500px-Quentandil_-_Gnome_Banners.jpg 2x" data-file-width="1533" data-file-height="744"/></a><figcaption></figcaption></figure>
 
@@ -773,7 +773,7 @@ Trong một số "[Những đoạn văn xuôi theo sau những câu chuyện đ�
 </p>
 </blockquote>
 
-Những [các con trai của Fëanor](../S/Sons_of_Fëanor.md) (ở đây không liên quan đến hoàng gia) được cho là những người đã tạo ra cờ hiệu và cờ hiệu, giúp chúng đứng vững dưới ánh mặt trời, mặt trăng, bóng tối hoặc sương mù, nhờ những viên đá quý [ma thuật](../M/Magic.md) được đính trên chúng.<sup id="cite_ref-Prose_51-1" class="reference"><a href="#cite_note-Prose-51">[49]</a></sup>
+Những [con trai của Fëanor](../S/Sons_of_Fëanor.md) (ở đây không liên quan đến hoàng gia) được cho là những người đã tạo ra cờ hiệu và cờ hiệu, giúp chúng đứng dưới ánh mặt trời, mặt trăng, bóng tối hoặc sương mù, nhờ những viên đá quý [ma thuật](../M/Magic.md) được đính trên đó.<sup id="cite_ref-Prose_51-1" class="reference"><a href="#cite_note-Prose-51">[49]</a></sup>
 
 Trong các phiên bản tiếp theo của câu chuyện ở cả *[Sketch of the Mythology](../S/Sketch_of_the_Mythology.md)* ([1926](../_/1926.md))<sup id="cite_ref-52" class="reference"><a href="#cite_note-52">[50]</a></sup> và *[Qenta Noldorinwa](../Q/Qenta_Noldorinwa.md)* ([1930](../_/1930.md)),<sup id="cite_ref-53" class="reference"><a href="#cite_note-53">[51]</a></sup> các biểu ngữ chỉ được đề cập là "xanh và bạc".
 
@@ -808,18 +808,18 @@ Trong các phiên bản tiếp theo của câu chuyện ở cả *[Sketch of the
 ## Liên kết ngoài {#External_links}
 
 - <a class="external text" href="https://www.forodrim.org/gobennas/heraldry/heraldry.htm" rel="noreferrer noopener" target="_blank">Biểu tượng và huy hiệu</a> của [Måns Björkman](../M/Måns_Björkman.md)
-- <a class="extiw" href="http://en.wikipedia.org/wiki/Heraldry_of_Middle-earth" title="wikipedia:Heraldry of Middle-earth">Huy hiệu của Trung địa</a> trên Wikipedia
-- "<a class="external text" href="https://www.academia.edu/4334565" rel="noreferrer noopener" target="_blank">Con mắt và cái cây. Ngữ nghĩa của huy hiệu Trung Địa</a>", bởi Catalin Hriban. Được xuất bản trong <a class="new" href="https://tolkiengateway.net/w/index.php?title=Hither_Shore_8&amp;action=edit&amp;redlink=1" title="Hither Shore 8 (page does not exist)"><i>Hither Shore</i> 8</a> (2011), trang 198–211.
-- "<a class="external text" href="https://dc.swosu.edu/mythlore/vol32/iss1/7/" rel="noreferrer noopener" target="_blank">Thiết bị của Tolkien: Huy hiệu của Trung Địa</a>", của Jamie McGregor. Được xuất bản trong [*Mythlore* 123](../M/Mythlore_123.md) (2013), trang 95–112.
-- "<a class="external text" href="https://dc.swosu.edu/mythlore/vol9/iss1/5/" rel="noreferrer noopener" target="_blank">Biểu tượng của sự bất tử: So sánh huy hiệu của người châu Âu và thần tiên</a>", của Margaret R. Purdy. Đăng trong [*Mythlore* 31](../M/Mythlore_31.md) ([1982](../_/1982.md)), trang 19–22, 36.
-- <a class="external text" href="https://www.deviantart.com/aglargon/gallery/53078221/heraldry-in-tolkien" rel="noreferrer noopener" target="_blank">Huy hiệu của Tolkien được tái tạo</a> bởi Aglargon
+- <a class="extiw" href="http://en.wikipedia.org/wiki/Heraldry_of_Middle-earth" title="wikipedia:Heraldry of Middle-earth">Huy hiệu của Trung Địa</a> trên Wikipedia
+- "<a class="external text" href="https://www.academia.edu/4334565" rel="noreferrer noopener" target="_blank">Con mắt và cái cây. Ngữ nghĩa của Trung Địa Huy hiệu</a>", bởi Catalin Hriban. Được xuất bản trong <a class="new" href="https://tolkiengateway.net/w/index.php?title=Hither_Shore_8&amp;action=edit&amp;redlink=1" title="Hither Shore 8 (page does not exist)"><i>Hither Shore</i> 8</a> (2011), trang 198–211.
+Thiết bị của - "<a class="external text" href="https://dc.swosu.edu/mythlore/vol32/iss1/7/" rel="noreferrer noopener" target="_blank">Tolkien: Huy hiệu của Trung Địa</a>", của Jamie McGregor. Được xuất bản trong [*Mythlore* 123](../M/Mythlore_123.md) (2013), trang 95–112.
+- "<a class="external text" href="https://dc.swosu.edu/mythlore/vol9/iss1/5/" rel="noreferrer noopener" target="_blank">Biểu tượng của sự bất tử: So sánh giữa huy hiệu châu Âu và Elvish</a>", của Margaret R. Purdy. Đăng trong [*Mythlore* 31](../M/Mythlore_31.md) ([1982](../_/1982.md)), trang 19–22, 36.
+Huy hiệu của - <a class="external text" href="https://www.deviantart.com/aglargon/gallery/53078221/heraldry-in-tolkien" rel="noreferrer noopener" target="_blank">Tolkien được tái tạo</a> bởi Aglargon
 
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><i><a class="external text" href="https://tai.tolkienists.org/" rel="noreferrer noopener" target="_blank">Chỉ mục Nghệ thuật Tolkien</a></i> là tài liệu tham khảo rất chi tiết về chủ đề của phần này. Những ghi chú từ bản thảo gốc được trích dẫn trong bài viết này có thể được tìm thấy trong mỗi mục của TAI. Tuy nhiên, trang web chưa được cập nhật kể từ <a href="../_/2018.md" title="2018">2018</a>.</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><i><a class="external text" href="https://tai.tolkienists.org/" rel="noreferrer noopener" target="_blank">Mục lục Tolkien Nghệ thuật</a></i> là tài liệu tham khảo rất chi tiết về chủ đề của phần này. Những ghi chú từ bản thảo gốc được trích dẫn trong bài viết này có thể được tìm thấy trong mỗi mục của TAI. Tuy nhiên, trang web chưa được cập nhật kể từ <a href="../_/2018.md" title="2018">2018</a>.</span>
 </li>
-<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text">Trừ khi Hammond và Scull đưa ra mô tả sai về <a href="../../file/J/J.R.R._Tolkien_-_Finarphin_heraldic_device_(II).jpg.md" title="File:J.R.R. Tolkien - Finarphin heraldic device (II).jpg">thiết bị bị bỏ rơi của Finarfin</a>, biểu tượng này vẫn chưa được xuất bản.</span>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text">Trừ khi Hammond và Scull đưa ra mô tả sai về thiết bị bị bỏ rơi của <a href="../../file/J/J.R.R._Tolkien_-_Finarphin_heraldic_device_(II).jpg.md" title="File:J.R.R. Tolkien - Finarphin heraldic device (II).jpg">Finarfin</a>, biểu tượng này vẫn chưa được xuất bản.</span>
 </li>
 </ol></div></span>
 

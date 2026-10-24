@@ -14,7 +14,7 @@ sort_keys:
   "Rohanese words": "Lograd"
 ---
 
-<i><b>Lōgrad</b></i> là một từ [Rohanese](../R/Rohanese.md), là từ bản địa của *Éo-marc* ("Dấu ngựa" hoặc "Vùng biên giới của kỵ sĩ"; được gọi là [Riddermark](../R/Riddermark.md) trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*). Cái tên *[Rohan](../R/Rohan.md)* được cho là bản dịch của *Lōgrad*.<sup id="cite_ref-PMII_1-0" class="reference"><a href="#cite_note-PMII-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 1]</a></sup>
+<i><b>Lōgrad</b></i> là một từ [Rohanese](../R/Rohanese.md), là từ gốc của *Éo-marc* ("Dấu ngựa" hoặc "Vùng biên giới của kỵ sĩ"; được gọi là [Riddermark](../R/Riddermark.md) trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*). Cái tên *[Rohan](../R/Rohan.md)* được cho là bản dịch của *Lōgrad*.<sup id="cite_ref-PMII_1-0" class="reference"><a href="#cite_note-PMII-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -23,7 +23,7 @@ Từ này có thể bắt nguồn từ <i><a class="new" href="https://tolkienga
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Quan điểm này chỉ xuất hiện trong bản thảo của <i>Các Phụ lục</i>; trong một bài luận nằm trong <i><a href="../U/Unfinished_Tales.md" title="Unfinished Tales">Những câu chuyện dang dở</a></i>, Tolkien đã viết rằng <a href="../H/Hallas.md" title="Hallas">Hallas</a> đã nghĩ ra cái tên <i>Rohan</i>. Cf. <a href="../R/Rohan.md#Etymology" title="Rohan">Rohan: Từ nguyên</a>.</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Quan điểm này chỉ xuất hiện trong bản thảo của <i>Các Phụ lục</i>; trong một bài luận có trong <i><a href="../U/Unfinished_Tales.md" title="Unfinished Tales">Unfinished Tales</a></i>, Tolkien đã viết rằng <a href="../H/Hallas.md" title="Hallas">Hallas</a> đã nghĩ ra cái tên <i>Rohan</i>. Cf. <a href="../R/Rohan.md#Etymology" title="Rohan">Rohan: Từ nguyên</a>.</span>
 </li>
 </ol></div></span>
 

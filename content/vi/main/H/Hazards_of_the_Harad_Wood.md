@@ -33,7 +33,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/H/Hazards_of_the_Harad_Wood.png.md"><img src="https://tolkiengateway.net/w/images/1/16/Hazards_of_the_Harad_Wood.png" decoding="async" loading="lazy" width="283" height="368" class="mw-file-element" data-file-width="283" data-file-height="368"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Hazards of the Harad Wood</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data">John Crowdis</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../I/Iron_Crown_Enterprises.md" title="Iron Crown Enterprises">Iron Crown Enterprises</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/1990.md" title="1990">1990</a></td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">32</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/1-55806-096-0" title="Special:BookSources/1-55806-096-0">1-55806-096-0</a></td></tr><tr><th scope="row" class="tg-infobox-label">ICE stock no.</th><td class="tg-infobox-data">8112</td></tr></tbody></table>
 
-<i><b>Hazars of the Harad Wood</b></i> là mô-đun phiêu lưu dành cho *[Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)*, Phiên bản đầu tiên.
+<i><b>Mối nguy hiểm của Harad Gỗ</b></i> là mô-đun phiêu lưu dành cho *[Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)*, Phiên bản đầu tiên.
 
 ## Văn bản bìa/áo khoác {#Cover/Jacket_Text}
 
@@ -47,9 +47,9 @@ Barthanan, một người chăn cừu sống ở vùng đất bụi rậm, đang
 
 Janir, một thợ đánh bẫy thường xuyên lui tới Suza Sumar, trở thành nạn nhân của những cơn ác mộng sau khi tình cờ gặp một pháo đài đổ nát. Bạn có liều lĩnh dùng sự điên rồ để ngăn chặn chiến thắng của Ác quỷ trong *The Terror in the Jungle* không?
 
-Manari Akajhi, một học giả trẻ, đang truy tìm dòng dõi của gia đình mình để tìm kiếm nơi an nghỉ thích hợp cho người cha đã khuất của mình. Thật không may, di sản mới được phát hiện của anh đã thu hút sự chú ý của Storm King quyền năng. Bạn có phản đối Nazgûl để ngăn chặn việc bắt giữ hắn ở *The Eyes of the Dragon* không?
+Manari Akajhi, một học giả trẻ, đang truy tìm dòng dõi của gia đình mình để tìm kiếm nơi an nghỉ thích hợp cho người cha đã khuất của mình. Thật không may, di sản mới được phát hiện của anh đã thu hút sự chú ý của Storm Vua mạnh mẽ. Bạn có phản đối việc Nazgûl ngăn chặn việc bắt giữ ông ta ở *The Eyes of the Dragon* không?
 
-Đối đầu với Wild Men, Baricha, Demons và Desert Screamers khi bạn đối mặt với *Hazards of the Harad Wood* trong bốn cuộc phiêu lưu thú vị này.
+Đối đầu với Con Người Hoang dã, Baricha, Ác quỷ và Những kẻ hét lên trên sa mạc khi bạn đối mặt với *Hazards of the Harad Wood* trong bốn cuộc phiêu lưu thú vị này.
 
 ## Xem thêm {#See_also}
 

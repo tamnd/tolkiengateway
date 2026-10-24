@@ -29,10 +29,10 @@ images:
 
 <i><b>Onya</b></i> là một từ [Quenya](../Q/Quenya.md) có hai nghĩa:
 
-1. Một từ xưng hô có nghĩa đơn giản là "con trai tôi". Việc sử dụng duy nhất được ghi nhận là giữa [Meneldur](../M/Meneldur.md) và con trai ông [Aldarion](../T/Tar-Aldarion.md). Tuy nhiên, có lý do để tin rằng nó được sử dụng rộng rãi hơn, ít nhất là trong số [Đàn ông](../M/Men.md) quý tộc. Từ đối lập của nó là [Atarinya](../A/Atarinya.md), "cha tôi", và chúng ta biết rằng từ này đã được [Những người lưu vong Númenor](../E/Exiles_of_Númenor.md) sử dụng rất lâu sau thời Meneldur. Do đó, thật hợp lý khi cho rằng từ onya vẫn được sử dụng ít nhất là cho đến [Thời đại thứ ba](../T/Third_Age.md).
+1. Một từ xưng hô có nghĩa đơn giản là "con trai tôi". Việc sử dụng duy nhất được ghi nhận là giữa [Meneldur](../M/Meneldur.md) và con trai ông [Aldarion](../T/Tar-Aldarion.md). Tuy nhiên, có lý do để tin rằng nó được sử dụng rộng rãi hơn, ít nhất là trong giới quý tộc [Con Người](../M/Men.md). Từ đối lập của nó là [Atarinya](../A/Atarinya.md), "cha tôi", và chúng ta biết rằng từ này đã được [Những người lưu vong của Númenor](../E/Exiles_of_Númenor.md) sử dụng rất lâu sau thời Meneldur. Do đó, thật hợp lý khi cho rằng từ onya vẫn được sử dụng ít nhất trong [Kỷ Đệ Tam](../T/Third_Age.md).
 2. Một từ dành cho [Ent](../E/Ent.md).
 
-Tolkien đã viết rằng từ thông thường cho "con" là *onna* hoặc *onwe*, và *onya* (có thể dùng để xưng hô con trai hoặc con gái) được hình thành với hậu tố sở hữu ngôi thứ nhất, *on-nya* ("con của tôi"), có thể so sánh với *atya* ("bố tôi") và *amya* ("mẹ tôi<i>").<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></i>
+Tolkien đã viết rằng từ thông thường cho "con" là *onna* hoặc *onwe*, và *onya* (có thể dùng để xưng hô con trai hoặc con gái) được hình thành với hậu tố sở hữu ngôi thứ nhất, *on-nya* ("con tôi"), có thể so sánh với *atya* ("bố tôi") và *amya* ("mẹ tôi<i>").<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></i>
 
 <br>
 

@@ -41,4 +41,4 @@ Năm 2009, Murray đã vẽ minh họa cho tác phẩm *[Black &amp; White Ogre 
 
 ## Liên kết ngoài {#External_links}
 
-- "<a class="external text" href="http://www.tolkienlibrary.com/press/1169-interview-with-the-wizard-jef-murray.php" rel="noreferrer noopener" target="_blank">Phỏng vấn phù thủy Jef Murray</a>" tại [Thư viện Tolkien](../T/Tolkien_Library.md)
+- "<a class="external text" href="http://www.tolkienlibrary.com/press/1169-interview-with-the-wizard-jef-murray.php" rel="noreferrer noopener" target="_blank">Phỏng vấn Pháp sư Jef Murray</a>" tại [Tolkien Thư viện](../T/Tolkien_Library.md)

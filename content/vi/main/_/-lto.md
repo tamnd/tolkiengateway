@@ -16,7 +16,7 @@ sort_keys:
   "Quenya suffixes": "lto"
 ---
 
-<i><b>-lto</b></i> là hậu tố [Quenya](../Q/Quenya.md) đại từ có nghĩa là "họ", xuất hiện trong *Fíriel's Song* (**meldielto** "họ được yêu quý" và **cárielto** "họ đã tạo ra").<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup> Ngoài ra, **tulielto** "họ có đến đây".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>-lto</b></i> là hậu tố [Quenya](../Q/Quenya.md) đại từ có nghĩa là "họ", xuất hiện trong *Fíriel's Song* (**meldielto** "họ được yêu quý" và **cárielto** "họ đã tạo ra").<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup> Ngoài ra, **tulielto** "họ đã đến".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

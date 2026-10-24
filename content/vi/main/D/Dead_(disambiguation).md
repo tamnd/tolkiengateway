@@ -18,14 +18,14 @@ images:
 
 Nhìn chung, thuật ngữ “**Chết**” được dùng để chỉ các đối tượng sau:
 
-- [Những xác chết của Dunharg](../O/Oathbreakers.md)
-- [Vua của người chết](../K/King_of_the_Dead.md)
+- [Chết Con Người trong số Dunharrow](../O/Oathbreakers.md)
+- [Vua của Người Chết](../K/King_of_the_Dead.md)
 - [Khuôn mặt chết](Dead_faces.md)
 - [Cây chết](Dead_Tree.md)
 - [Thành phố chết](../M/Minas_Morgul.md)
-- [Đầm lầy chết](Dead_Marshes.md)
+- [Đầm lầy Chết](Dead_Marshes.md)
 - [Nhà của người chết](../H/Houses_of_the_dead~66264.md)
-- [Cánh cổng của người chết](Dark_Door.md)
+- [Cổng tử thần Con Người](Dark_Door.md)
 - [Con đường của người chết](../P/Paths_of_the_Dead.md)
 
 Thuật ngữ này cũng có thể đề cập đến các sinh vật [Undead](../U/Undead.md) như [Wights](../W/Wights.md) và [Wraiths](../W/Wraiths.md).

@@ -16,7 +16,7 @@ sort_keys:
   "People by name": "Wright, Elizabeth Mary"
 ---
 
-**Elizabeth Mary Wright** (1863-1958) là vợ của giáo viên Tolkien [Joseph Wright](../J/Joseph_Wright.md), đồng thời là một nhà ngữ văn và giáo viên. Tolkien và nhà Wright là bạn thân.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> [Thư 6](../L/Letter_6.md) của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md); [Humphrey Carpenter](../H/Humphrey_Carpenter.md), [Christopher Tolkien](../C/Christopher_Tolkien.md) (eds.), *[The Letters of J.R.R. Tolkien](../T/The_Letters_of_J.R.R._Tolkien.md)* đã được gửi tới bà. <span></span>
+**Elizabeth Mary Wright** (1863-1958) là vợ của giáo viên Tolkien [Joseph Wright](../J/Joseph_Wright.md), đồng thời là một nhà ngữ văn và giáo viên. Tolkien và nhà Wright là bạn thân.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> [Thư 6](../L/Letter_6.md) của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md); [Humphrey Carpenter](../H/Humphrey_Carpenter.md), [Christopher Tolkien](../C/Christopher_Tolkien.md) (eds.), *[The Letters of J.R.R. Tolkien](../T/The_Letters_of_J.R.R._Tolkien.md)* được gửi cho bà. <span></span>
 
 ## Tài liệu tham khảo {#References}
 

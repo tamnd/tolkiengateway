@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Southern Fiefs"
 ---
 
-Chuyển hướng đến [Các thái ấp phía Nam](../S/Southern_Fiefs.md).
+Chuyển hướng đến [các lãnh địa phía Nam](../S/Southern_Fiefs.md).

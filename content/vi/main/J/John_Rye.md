@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Rye, John"
 ---
 
-**John Rye** lồng tiếng cho phần [Miệng Sauron](../M/Mouth_of_Sauron.md) trong [The Lord of the Rings 1981 radio series](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) được phát sóng trên BBC 4.
+**John Rye** lồng tiếng cho phần [Miệng của Sauron](../M/Mouth_of_Sauron.md) trong [The Lord of the Rings 1981 radio series](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) được phát sóng trên BBC 4.
 
 ## Liên kết ngoài {#External_links}
 

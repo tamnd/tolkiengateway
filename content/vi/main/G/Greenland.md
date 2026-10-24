@@ -12,7 +12,7 @@ categories:
   - "Aman"
 ---
 
-**Greenland** có thể là tên của [Valinor](../V/Valinor.md) được sử dụng bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Nó chỉ xuất hiện một lần, trong một ghi chú nhanh được viết c. cuối năm 1939, trong khi Tolkien vẫn đang suy nghĩ về âm mưu của mình trong <a class="new" href="https://tolkiengateway.net/w/index.php?title=Fourth_Phase&amp;action=edit&amp;redlink=1" title="Fourth Phase (page does not exist)">Giai đoạn thứ tư</a>. Nó nêu rõ ràng, khi nói về [Frodo Baggins](../F/Frodo_Baggins.md) và [Samwise Gamgee](../S/Samwise_Gamgee.md) ở cuối câu chuyện, "*Họ đi về phía tây và giương buồm đến Greenland*". Tuy nhiên, trong một bộ ghi chú đầy đủ hơn có cùng thời gian gần đúng, cũng có dòng chữ "*a green land by the Sea*" được viết tương tự.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Greenland** có thể là tên của [Valinor](../V/Valinor.md) được sử dụng bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Nó chỉ xuất hiện một lần, trong một ghi chú nhanh được viết c. cuối năm 1939, trong khi Tolkien vẫn đang lên ý tưởng cho âm mưu của mình trong Giai đoạn <a class="new" href="https://tolkiengateway.net/w/index.php?title=Fourth_Phase&amp;action=edit&amp;redlink=1" title="Fourth Phase (page does not exist)">Kỷ Đệ Tứ</a>. Nó nêu rõ ràng, khi nói về [Frodo Baggins](../F/Frodo_Baggins.md) và [Samwise Gamgee](../S/Samwise_Gamgee.md) ở cuối câu chuyện, "*Họ ​​đi về phía Tây và giương buồm đến Greenland*". Tuy nhiên, trong một bộ ghi chú đầy đủ hơn có cùng thời gian gần đúng, cũng có dòng chữ "*a green land by the Sea*" được viết tương tự.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

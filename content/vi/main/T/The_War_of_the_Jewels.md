@@ -69,40 +69,40 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_War_of_the_Jewels_(UK).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/7e/The_War_of_the_Jewels_%28UK%29.jpg/309px-The_War_of_the_Jewels_%28UK%29.jpg" decoding="async" loading="lazy" width="309" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/7/7e/The_War_of_the_Jewels_%28UK%29.jpg 1.5x" data-file-width="450" data-file-height="698"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The War of the Jewels</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../H/HarperCollins.md" title="HarperCollins">HarperCollins</a> (UK)<br/><a class="mw-redirect" href="../H/Houghton_Mifflin.md" title="Houghton Mifflin">Houghton Mifflin</a> (US)</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/20_October.md" title="20 October">20 October</a> <a href="../_/1994.md" title="1994">1994</a> (UK)<br/><a href="../_/6_December.md" title="6 December">6 December</a> 1994 (US)</td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Hardback; paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">470</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0261103148" title="Special:BookSources/0261103148">0261103148</a></td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="../M/Morgoth&#39;s_Ring.md" title="Morgoth&#39;s Ring">Morgoth&#39;s Ring</a> (1993)</td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="../J/J.R.R._Tolkien%253A_Artist_and_Illustrator.md" title="J.R.R. Tolkien: Artist and Illustrator">J.R.R. Tolkien: Artist and Illustrator</a> (1995)</td></tr></tbody></table>
 
-<i><b>Cuộc chiến của những viên ngọc</b></i>, xuất bản năm [1994](../_/1994.md), là tập thứ 11 trong bộ sách 12 tập của [Christopher Tolkien](../C/Christopher_Tolkien.md), *[The History of Middle-earth](The_History_of_Middle-earth.md)*, trong đó ông phân tích các bản thảo chưa xuất bản của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
+<i><b>The War of the Jewels</b></i>, xuất bản trong [1994](../_/1994.md), là tập thứ 11 trong bộ sách 12 tập của [Christopher Tolkien](../C/Christopher_Tolkien.md), *[The History of Middle-earth](The_History_of_Middle-earth.md)*, trong đó ông phân tích các bản thảo chưa xuất bản của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
-Tiếp tục từ *[Morgoth's Ring](../M/Morgoth's_Ring.md)* trước, tập này cung cấp các bài viết chi tiết và bình luận xã luận liên quan đến vũ trụ học của Tolkien mà cuối cùng sẽ trở thành ấn phẩm *[The Silmarillion](The_Silmarillion.md)*.
+Tiếp tục từ *[Morgoth's Ring](../M/Morgoth's_Ring.md)* trước, tập này cung cấp các bài viết chi tiết và bình luận xã luận liên quan đến vũ trụ học của Tolkien mà cuối cùng sẽ trở thành *[The Silmarillion](The_Silmarillion.md)* được xuất bản.
 
 ## Nội dung {#Contents}
 
 - Lời nói đầu
 
-- **Phần thứ nhất: [Biên niên sử xám](The_Grey_Annals.md)**
+- **Phần thứ nhất: [The Grey Annals](The_Grey_Annals.md)**
 
 - <b>Phần thứ hai: Phần sau <i>Quenta Silmarillion</i></b> (tiếp theo *Morgoth's Ring*)
-    - IX. "Của Đàn Ông"
-    - X. "Về cuộc vây hãm Angband"
-    - XI. "Của Beleriand và vương quốc của nó"
-    - XII. "Về Turgon và tòa nhà Gondolin"
-    - XIII. "Liên quan đến người lùn"
-    - XIV. "Về sự xuất hiện của con người ở phương Tây"
-    - XV. "Về sự tàn phá của Beleriand và sự sụp đổ của Fingolfin"
+    - IX. "Của Con Người"
+    - X. "Của Cuộc vây hãm Angband"
+    - XI. "Của Beleriand và Vương quốc của nó"
+    - XII. "Của Turgon và Tòa nhà Gondolin"
+    - XIII. "Liên quan đến Người Lùn"
+    - XIV. "Sự xuất hiện của Con Người vào Phương Tây"
+    - XV. "Về sự sụp đổ của Beleriand và sự sụp đổ của Fingolfin"
     - "Những chương cuối cùng"
 
-- **Phần thứ ba: Cuộc lang thang của Húrin và những tác phẩm khác**
+- **Phần thứ ba: Cuộc lang thang của Húrin và những bài viết khác**
     - Tôi. "[Chuyến lang thang của Húrin](The_Wanderings_of_Húrin.md)"
-    - II. "[Ælfwine và Dírhaval](../_/Ælfwine_and_Dírhaval.md)"
+    - II. "[Ælfwine và Dirhaval](../_/Ælfwine_and_Dírhaval.md)"
     - III. "[Maeglin](<../M/Maeglin_(chapter).md>)"
-    - IV. "Của Ent và đại bàng"
-    - V. "[Câu chuyện của năm](<The_Tale_of_Years_(The_War_of_the_Jewels).md>)"
+    - IV. "Của Ent và Đại Bàng"
+    - V. "[The Tale of Years](<The_Tale_of_Years_(The_War_of_the_Jewels).md>)"
 
-- **Phần thứ tư: [Quendi và Eldar](../Q/Quendi_and_Eldar.md)**
+- **Phần thứ tư: [Quendi and Eldar](../Q/Quendi_and_Eldar.md)**
 
 - Chỉ mục
 
 ## Chữ khắc {#Inscriptions}
 
-Có một dòng chữ bằng ký tự [Tengwar](Tengwar.md) ở trang đầu tiên của mỗi tập *History of Middle-earth*, do Christopher Tolkien viết và mô tả nội dung cuốn sách. Dòng chữ trong Quyển XI có nội dung:
+Có một dòng chữ bằng ký tự [Tengwar](Tengwar.md) ở những trang đầu tiên của mỗi tập *History of Middle-earth*, do Christopher Tolkien viết và mô tả nội dung của cuốn sách. Dòng chữ trong Quyển XI có nội dung:
 
 <dl><dd>&#34;<i>In this book are recorded the last writings of John Ronald Reuel Tolkien concerning the <a href="../B/Battles_of_Beleriand.md" title="Battles of Beleriand">wars of Beleriand</a>, here also is told the story of how Húrin Thali[o]n brought ruin to the Men of Brethil, with much else concerning the Edain and Dwarves and the names of many peoples in the <a href="../E/Elvish.md" title="Elvish">speech of the Elves</a>.</i>&#34;</dd></dl>
 
@@ -164,12 +164,12 @@ This book contains the full text of <a href="The_Grey_Annals.md" title="The Grey
 		</li>
 </ul>
 
-- [HarperCollins](../H/HarperCollins.md) bìa cứng ([1994](../_/1994.md)), trang 470. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0261103148">ISBN 0261103148</a>
+- [HarperCollins](../H/HarperCollins.md) bìa cứng ([1994](../_/1994.md)), trang 470. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0261103148">ISBN 0261103148</a>
 - [HarperCollins](../H/HarperCollins.md) bìa mềm ([1995](../_/1995.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0261103245">ISBN 0261103245</a> - (ảnh bìa của [John Howe](../J/John_Howe.md))
     - Ấn bản bìa mềm năm 1995, đặt lại ở [2002](../_/2002.md), sau đó ở [2015](../_/2015.md)
 - [HarperCollins](../H/HarperCollins.md) bìa cứng ([2010](../_/2010.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007365357">ISBN 0007365357</a>
     - Ấn bản bìa mềm năm 2015, in lần thứ 24 ([2024](../_/2024.md))
-- [HarperCollins](../H/HarperCollins.md) bìa cứng với áo khoác chống bụi có thể đảo ngược ([2024](../_/2024.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/9780063390843">ISBN 978-0063390843</a> (bộ) - ([Bộ đóng hộp Centenary](../C/Centenary_Boxed_Sets.md) #4)
+- [HarperCollins](../H/HarperCollins.md) bìa cứng có áo chống bụi có thể đảo ngược ([2024](../_/2024.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/9780063390843">ISBN 978-0063390843</a> (bộ) - ([Bộ đóng hộp thế kỷ](../C/Centenary_Boxed_Sets.md) #4)
 
 ## Liên kết ngoài {#External_links}
 

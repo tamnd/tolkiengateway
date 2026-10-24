@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gelmir (son of Golfinweg)"
 ---
 
-Chuyển hướng tới [Gelmir (con trai của Golfinweg)](<../G/Gelmir_(son_of_Golfinweg).md>).
+Chuyển hướng đến [Gelmir (con trai của Golfinweg)](<../G/Gelmir_(son_of_Golfinweg).md>).

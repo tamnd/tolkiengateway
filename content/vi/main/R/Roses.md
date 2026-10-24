@@ -27,11 +27,11 @@ infobox:
 
 **Hoa hồng** là loài thực vật có hoa với hoa to, sặc sỡ và (thường) có thân gai được tìm thấy ở nhiều nơi trên khắp [Trung Địa](../M/Middle-earth.md).
 
-Ở [Gondolin](../G/Gondolin.md) có một con đường tên là [Ngõ Hoa Hồng](../A/Alley_of_Roses.md), một trong những nơi đẹp nhất thành phố.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Ở [Gondolin](../G/Gondolin.md) có một con đường tên là [Hẻm Hoa Hồng](../A/Alley_of_Roses.md), một trong những nơi đẹp nhất thành phố.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Ở [Quận](../T/The_Shire.md) người ta thường đặt tên hoa cho các cô gái<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và nhiều thiếu nữ mang tên "Rose" – [Rosa Baggins](Rosa_Baggins.md),<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> [Rose](<Rose_(daughter_of_Holman).md>) (con gái của [Holman tay xanh](../H/Holman_the_greenhanded.md)), [Rose Cotton](Rose_Cotton.md), [Rose Gardner](Rose_Gardner.md), và [Primrose Gardner](../P/Primrose_Gardner.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Với bản chất ở nhà của [Người Hobbit](../H/Hobbits.md)<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> sự quen thuộc của họ với hoa hồng chắc chắn cho thấy việc trồng những loài hoa này ở quê hương của họ.
+Ở [ Shire](../T/The_Shire.md) người ta thường đặt tên hoa cho các cô gái<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và nhiều thiếu nữ mang tên "Rose" – [Rosa Baggins](Rosa_Baggins.md),<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> [Rose](<Rose_(daughter_of_Holman).md>) (con gái của [Holman người xanh](../H/Holman_the_greenhanded.md)), [Rose Cotton](Rose_Cotton.md), [Rose Gardner](Rose_Gardner.md) và [Primrose Gardner](../P/Primrose_Gardner.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Với tính chất ở nhà [Hobbit](../H/Hobbits.md)<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>, sự quen thuộc của họ với hoa hồng chắc chắn cho thấy việc trồng những loại hoa này ở quê hương của họ.
 
-Hoa hồng có thể được tìm thấy ở xa về phía nam Quận. Trong [Ithilien](../I/Ithilien.md), [Frodo Baggins](../F/Frodo_Baggins.md) và [Samwise Gamgee](../S/Samwise_Gamgee.md) gặp phải [Eglantine](../E/Eglantine.md), một loại hoa hồng<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> (một người Hobbit, [Eglantine Banks](../E/Eglantine_Banks.md),<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> được đặt theo tên loài hoa này, cho thấy rằng giống hoa hồng này cũng mọc ở Quận). Khi [Aragorn](../A/Aragorn.md) ngâm *[athelas](../A/Athelas.md)* trong nước nóng trong [Houses of Healing](../H/Houses_of_Healing.md), [Ioreth](../I/Ioreth.md) khẳng định rằng hương thơm khiến cô nhớ đến những bông hồng ở [Imloth Melui](../I/Imloth_Melui.md), một thung lũng ở [Gondor](../G/Gondor.md).<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
+Hoa hồng có thể được tìm thấy ở xa về phía nam của Shire. Trong [Ithilien](../I/Ithilien.md), [Frodo Baggins](../F/Frodo_Baggins.md) và [Samwise Gamgee](../S/Samwise_Gamgee.md) gặp phải [Eglantine](../E/Eglantine.md), một loại hoa hồng<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> (một Hobbit, [Eglantine Banks](../E/Eglantine_Banks.md),<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> được đặt theo tên của loài hoa này, cho thấy rằng giống hoa hồng này cũng mọc ở Shire). Khi [Aragorn](../A/Aragorn.md) ngâm *[athelas](../A/Athelas.md)* trong nước nóng ở [Houses of Healing](../H/Houses_of_Healing.md), [Ioreth](../I/Ioreth.md) khẳng định rằng hương thơm khiến cô nhớ đến những bông hồng ở [Imloth Melui](../I/Imloth_Melui.md), một thung lũng ở [Gondor](../G/Gondor.md).<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
 
 ## Tên khác {#Other_names}
 
@@ -39,7 +39,7 @@ Tên [Sindarin](../S/Sindarin.md) của hoa hồng là <i><a class="mw-redirect 
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1997: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Nhập vai Trung Địa</a>—<a href="../H/Hands_of_the_Healer.md" title="Hands of the Healer">Bàn tay của Người chữa lành</a></i></b>
+<b>1997: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a>—<a href="../H/Hands_of_the_Healer.md" title="Hands of the Healer">Hands of the Healer</a></i></b>
 
 <dl><dd>Two specific types of roses are described in the book:</dd></dl>
 

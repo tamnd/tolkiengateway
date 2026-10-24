@@ -42,7 +42,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/AmonHen64.png.md"><img src="https://tolkiengateway.net/w/images/thumb/3/38/AmonHen64.png/320px-AmonHen64.png" decoding="async" loading="lazy" width="320" height="459" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/38/AmonHen64.png/480px-AmonHen64.png 1.5x, https://tolkiengateway.net/w/images/thumb/3/38/AmonHen64.png/640px-AmonHen64.png 2x" data-file-width="697" data-file-height="1000"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Amon Hen 64</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Colin Davey</td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data">Matthew Leys</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Printer</th><td class="tg-infobox-data">Hanway Print Centre, London</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">August <a href="../_/1983.md" title="1983">1983</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">A5 stapled paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">28</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0306-8781</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Amon_Hen_63.md" title="Amon Hen 63">Amon Hen 63</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Amon_Hen_65.md" title="Amon Hen 65">Amon Hen 65</a></td></tr></tbody></table>
 
-<b><i>Amon Hen</i> 64</b> là số thứ sáu mươi tư của tạp chí hai tháng một lần của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, xuất bản vào tháng 10 [1983](../_/1983.md).
+<b><i>Amon Hen</i> 64</b> là số thứ sáu mươi tư của tạp chí hai tháng một lần của [Hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, xuất bản vào tháng 10 [1983](../_/1983.md).
 
 ## Nội dung {#Contents}
 
@@ -58,7 +58,7 @@ infobox:
     - Bởi: [Brin Dunsire](../B/Brin_Dunsire.md)
 - Tác phẩm nghệ thuật: *Elf*
     - Bởi: John Claridge
-- Frodo sống! Frodo muôn năm!
+- Frodo Sống! Sống lâu Frodo!
     - Bởi: Kathleen Jones
 - Báo cáo Oxonmoot
     - Bởi: Nigel Golightly
@@ -77,7 +77,7 @@ infobox:
     - Bởi: Anne Haward
 - Ô chữ
     - Bởi: Ravi Shankar
-- Máy ép nhỏ
+- Báo chí nhỏ
     - Bởi: [Helen Armstrong](../H/Helen_Armstrong.md)
 - Các loại của Anne
     - Bởi: Anne Haward

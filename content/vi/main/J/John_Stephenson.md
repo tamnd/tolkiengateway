@@ -27,7 +27,7 @@ Diễn viên lồng tiếng kỳ cựu người Mỹ **John Stephenson** ([9 th�
 ## Phim ảnh {#Filmography}
 
 - [1977](../_/1977.md): [*The Hobbit* (phim 1977)](<../T/The_Hobbit_(1977_film).md>): [Dori](../D/Dori.md), [The Great Goblin](../G/Great_Goblin.md), [Bard](../B/Bard.md)
-- [1980](../_/1980.md): [*The Return of the King* (phim 1980)](<../T/The_Return_of_the_King_(1980_film).md>): [Vua phù thủy xứ Angmar](../W/Witch-king.md), Đội cận vệ Gondorian
+- [1980](../_/1980.md): [*The Return of the King* (phim 1980)](<../T/The_Return_of_the_King_(1980_film).md>): [Vua Phù thủy của Angmar](../W/Witch-king.md), Gondor Cảnh vệ
 
 ## Liên kết ngoài {#External_links}
 

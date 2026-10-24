@@ -29,9 +29,9 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Trong bức thư gửi [Donald Swann](../D/Donald_Swann.md) này, Tolkien đã thảo luận chi tiết về cách trình bày của *[The Road Goes Ever On](<../T/The_Road_Goes_Ever_On_(book).md>)*, đặc biệt liên quan đến việc đưa vào các thiết kế trang trí của Samuel Hanks Bryant. Mặc dù [Unwin](../R/Rayner_Unwin.md) và Swann đã thương lượng nhiều nhượng bộ khác nhau từ [Houghton Mifflin](../H/Houghton_Mifflin.md), họ đồng ý không phản đối những thiết kế này trừ khi Tolkien cảm thấy phản đối mạnh mẽ.
+Trong thư gửi [Donald Swann](../D/Donald_Swann.md) Tolkien này đã thảo luận về chi tiết trình bày của *[The Road Goes Ever On](<../T/The_Road_Goes_Ever_On_(book).md>)*, đặc biệt liên quan đến việc đưa vào các thiết kế trang trí của Samuel Hanks Bryant. Mặc dù [Không thắng](../R/Rayner_Unwin.md) và Swann đã thương lượng nhiều nhượng bộ khác nhau từ [Houghton Mifflin](../H/Houghton_Mifflin.md), họ đồng ý không phản đối những thiết kế này trừ khi Tolkien cảm thấy phản đối mạnh mẽ.
 
-Tolkien bày tỏ sự miễn cưỡng khi đưa các yếu tố trang trí của Bryant vào, mô tả chúng là "những nét ngoằn ngoèo vô vị" và không phù hợp với nội dung cuốn sách. Ông chỉ trích sự khởi sắc về thư pháp của Bryant là không phù hợp và không phù hợp với các văn bản Tiên mộc mạc hoặc cổ xưa của cuốn sách. Tolkien kết luận rằng mặc dù các mẫu mà ông nhìn thấy chỉ là những đề xuất chứ không phải phiên bản cuối cùng nhưng những trang trí vô nghĩa "Elvish" sẽ làm suy yếu cách xử lý nghiêm túc ngôn ngữ Elvish trong cuốn sách, khiến nó trở nên lố bịch. <br>
+Tolkien bày tỏ sự miễn cưỡng khi đưa các yếu tố trang trí của Bryant vào, mô tả chúng là "những nét ngoằn ngoèo vô vị" và không phù hợp với nội dung cuốn sách. Ông chỉ trích lối viết thư pháp hoa mỹ của Bryant là không phù hợp và không phù hợp với những văn bản Elvish mộc mạc hoặc cổ xưa của cuốn sách. Tolkien kết luận rằng mặc dù các mẫu anh thấy chỉ là đề xuất chứ không phải phiên bản cuối cùng nhưng những trang trí "Elvish" vô nghĩa sẽ làm suy yếu cách xử lý nghiêm túc ngôn ngữ Elvish trong cuốn sách, khiến nó trở nên lố bịch. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

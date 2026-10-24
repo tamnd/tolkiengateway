@@ -36,7 +36,7 @@ sort_keys:
 
 ## Xem thêm {#See_also}
 
-- [tiếng Sindarin](../S/Sindarin.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Cam&amp;action=edit&amp;redlink=1" title="Cam (page does not exist)">cam</a></i>
+- [Sindarin](../S/Sindarin.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Cam&amp;action=edit&amp;redlink=1" title="Cam (page does not exist)">cam</a></i>
 
 <span></span>
 

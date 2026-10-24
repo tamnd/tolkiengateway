@@ -61,11 +61,11 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Morgoth&#39;s_Ring_1993.png.md"><img src="https://tolkiengateway.net/w/images/thumb/7/70/Morgoth%27s_Ring_1993.png/307px-Morgoth%27s_Ring_1993.png" decoding="async" loading="lazy" width="307" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/7/70/Morgoth%27s_Ring_1993.png 1.5x" data-file-width="320" data-file-height="500"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Morgoth&#39;s Ring</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../H/HarperCollins.md" title="HarperCollins">HarperCollins</a> (UK)<br/><a class="mw-redirect" href="../H/Houghton_Mifflin.md" title="Houghton Mifflin">Houghton Mifflin</a> (US)</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/23_September.md" title="23 September">23 September</a> <a href="../_/1993.md" title="1993">1993</a> (UK)<br/><a href="../_/14_December.md" title="14 December">14 December</a> 1993 (US)</td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Hardcover; paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">480</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0261103040" title="Special:BookSources/0261103040">0261103040</a></td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="../S/Sauron_Defeated.md" title="Sauron Defeated">Sauron Defeated</a> (1992)</td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="../T/The_War_of_the_Jewels.md" title="The War of the Jewels">The War of the Jewels</a> (1994)</td></tr></tbody></table>
 
-<i><b>Chiếc nhẫn của Morgoth</b></i>, xuất bản năm [1993](../_/1993.md), là tập thứ mười trong bộ sách 12 tập của [Christopher Tolkien](../C/Christopher_Tolkien.md), *[The History of Middle-earth](../T/The_History_of_Middle-earth.md)*, trong đó ông phân tích các bản thảo chưa xuất bản của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
+<i><b>Morgoth's Ring</b></i>, xuất bản năm [1993](../_/1993.md), là tập thứ 10 trong bộ sách 12 tập của [Christopher Tolkien](../C/Christopher_Tolkien.md), *[The History of Middle-earth](../T/The_History_of_Middle-earth.md)*, trong đó ông phân tích các bản thảo chưa xuất bản của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
-Tập này, cùng với tập *[The War of the Jewels](../T/The_War_of_the_Jewels.md)* tiếp theo, cung cấp các bài viết chi tiết và bình luận xã luận liên quan đến vũ trụ học của Tolkien mà cuối cùng sẽ trở thành tập *[The Silmarillion](../T/The_Silmarillion.md)* được xuất bản. Tập này đề cập đến một số nhân vật bị loại trừ ở những nơi khác, bao gồm [Findis](../F/Findis.md) và [Irimë](../I/Irimë.md), con gái của [Finwë](../F/Finwë.md).
+Tập này, cùng với tập *[The War of the Jewels](../T/The_War_of_the_Jewels.md)* tiếp theo, cung cấp các bài viết chi tiết và bình luận biên tập liên quan đến vũ trụ học của Tolkien mà cuối cùng sẽ trở thành tập *[The Silmarillion](../T/The_Silmarillion.md)* được xuất bản. Tập này đề cập đến một số nhân vật bị loại trừ ở nơi khác, bao gồm [Findis](../F/Findis.md) và [Irimë](../I/Irimë.md), con gái của [Finwë](../F/Finwë.md).
 
-Tiêu đề của tập này xuất phát từ một tuyên bố trong một trong những bài tiểu luận của Tolkien:
+Tiêu đề của tập sách này xuất phát từ một tuyên bố trong một trong những bài tiểu luận của Tolkien:
 
 <dl><dd>&#34;<i>Just as Sauron concentrated his power in the <a class="mw-redirect" href="../O/One_Ring.md" title="One Ring">One Ring</a>, Morgoth dispersed his power into the very matter of <a href="../A/Arda.md" title="Arda">Arda</a>, thus the whole of Middle-earth was Morgoth&#39;s Ring.</i>&#34;</dd></dl>
 
@@ -75,30 +75,30 @@ Tiêu đề của tập này xuất phát từ một tuyên bố trong một tro
 
 - **Phần thứ nhất: [Ainulindalë](<../A/Ainulindalë_(Morgoth's_Ring).md>)**
 
-- **Phần thứ hai: [Biên niên sử của Aman](../T/The_Annals_of_Aman.md)**
+- **Phần thứ hai: [The Annals of Aman](../T/The_Annals_of_Aman.md)**
 
 - <b>Phần ba: <a href="../T/The_Later_Quenta_Silmarillion.md" title="The Later Quenta Silmarillion">Phần sau <i>Quenta Silmarillion</i></a></b>
     - Giai đoạn đầu tiên
         - Tôi. "[Của Valar](../O/Of_the_Valar.md)"
-        - II. "Của Valinor và hai cái cây"
-        - III. "Sự xuất hiện của yêu tinh"
+        - II. "Của Valinor và Hai Cây"
+        - III. "Về sự xuất hiện của Tiên tộc"
         - IV. "Của Thingol và Melian"
         - V. "Của Eldanor và các hoàng tử của Eldalië"
-        - VI. "Của những viên Silmarils và bóng tối của Valinor"
-        - VII. "Chuyến bay của Noldor"
-        - VIII. "Về mặt trời và mặt trăng và nơi ẩn náu của Valinor"
+        - VI. "Của Silmaril và Bóng tối của Valinor"
+        - VII. "Về chuyến bay của Noldor"
+        - VIII. "Về Mặt Trời và Mặt Trăng và Sự ẩn giấu của Valinor"
     - Giai đoạn thứ hai
         - "Vaquenta"
-        - "Phiên bản đầu tiên của câu chuyện Finwë và Míriel"
-        - "[Luật lệ và phong tục của người Eldar](../L/Laws_and_Customs_among_the_Eldar.md)"
+        - "Phiên bản đầu tiên của câu chuyện về Finwë và Míriel"
+        - "[Luật pháp và phong tục giữa Eldar](../L/Laws_and_Customs_among_the_Eldar.md)"
         - "Phiên bản sau của câu chuyện Finwë và Míriel"
-        - "Của Fëanor và sự giải phóng Melkor"
-        - "Về những viên Silmarils và sự bất ổn của Noldor"
+        - "Của Fëanor và Giải mã Melkor"
+        - "Về Silmaril và Sự bất ổn của Noldor"
         - "Về bóng tối của Valinor"
-        - "Về vụ cưỡng hiếp những viên Silmarils"
+        - "Về vụ hiếp dâm Silmaril"
         - "Cuộc cãi vã của bọn trộm"
 
-- **Phần thứ tư: [Athrabeth Finrod à Andreth](../A/Athrabeth_Finrod_ah_Andreth.md)**
+- **Phần thứ tư: [Athrabeth Finrod ah Andreth](../A/Athrabeth_Finrod_ah_Andreth.md)**
 
 - **Phần thứ năm: [Những huyền thoại đã được biến đổi](Myths_Transformed.md)**
 
@@ -108,7 +108,7 @@ Tiêu đề của tập này xuất phát từ một tuyên bố trong một tro
 
 ## Chữ khắc {#Inscriptions}
 
-Có một dòng chữ bằng ký tự [Tengwar](../T/Tengwar.md) ở trang đầu tiên của mỗi tập *History of Middle-earth*, do Christopher Tolkien viết và mô tả nội dung cuốn sách. Dòng chữ trong Quyển X có nội dung:
+Có một dòng chữ bằng ký tự [Tengwar](../T/Tengwar.md) ở những trang đầu tiên của mỗi tập *History of Middle-earth*, do Christopher Tolkien viết và mô tả nội dung của cuốn sách. Dòng chữ trong Quyển X có nội dung:
 
 <dl><dd>&#34;<i>In this book are given many of the later writings of John Ronald Reuel Tolkien concerning the history of the <a href="../E/Elder_Days.md" title="Elder Days">Elder Days</a> from the <a href="Music_of_the_Ainur.md" title="Music of the Ainur">Music of the Ainur</a> to the <a href="../N/Nurtalë_Valinóreva.md" title="Nurtalë Valinóreva">Hiding of Valinor</a>; here much is told of the <a href="../S/Sun.md" title="Sun">Sun</a> and <a href="Moon.md" title="Moon">Moon</a>; of the immortal <a href="../E/Eldar.md" title="Eldar">Eldar</a> and the death of the <a href="../A/Atani.md" title="Atani">Atani</a>; of the beginning of the Orcs and of the evil power of Melkor, the Morgoth, the Black Foe of the World.</i>&#34;</dd></dl>
 
@@ -170,12 +170,12 @@ The second part of this history of the later <i>Silmarillion</i> is concerned wi
 		</li>
 </ul>
 
-- [HarperCollins](../H/HarperCollins.md) bìa cứng ([1993](../_/1993.md)), trang 480. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0261103040">ISBN 0261103040</a>
+- [HarperCollins](../H/HarperCollins.md) bìa cứng ([1993](../_/1993.md)), trang 480. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0261103040">ISBN 0261103040</a>
 - [HarperCollins](../H/HarperCollins.md) bìa mềm ([1994](../_/1994.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0261103008">ISBN 0261103008</a> - (ảnh bìa của [John Howe](../J/John_Howe.md))
     - Ấn bản bìa mềm năm 1994, đặt lại ở [2002](../_/2002.md), sau đó ở [2015](../_/2015.md)
 - [HarperCollins](../H/HarperCollins.md) bìa cứng ([2010](../_/2010.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007365349">ISBN 0007365349</a>
     - Ấn bản bìa mềm năm 2015, in lần thứ 31 ([2024](../_/2024.md))
-- [HarperCollins](../H/HarperCollins.md) bìa cứng với áo khoác chống bụi có thể đảo ngược ([2024](../_/2024.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/9780063390843">ISBN 978-0063390843</a> (bộ) - ([Bộ đóng hộp Centenary](../C/Centenary_Boxed_Sets.md) #4)
+- [HarperCollins](../H/HarperCollins.md) bìa cứng có áo chống bụi có thể đảo ngược ([2024](../_/2024.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/9780063390843">ISBN 978-0063390843</a> (bộ) - ([Bộ đóng hộp thế kỷ](../C/Centenary_Boxed_Sets.md) #4)
 
 ## Liên kết ngoài {#External_links}
 

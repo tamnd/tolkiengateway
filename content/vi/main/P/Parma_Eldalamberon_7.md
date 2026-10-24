@@ -42,25 +42,25 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/P/Parma_Eldalamberon_7.png.md"><img src="https://tolkiengateway.net/w/images/thumb/3/33/Parma_Eldalamberon_7.png/320px-Parma_Eldalamberon_7.png" decoding="async" loading="lazy" width="320" height="419" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/33/Parma_Eldalamberon_7.png/480px-Parma_Eldalamberon_7.png 1.5x, https://tolkiengateway.net/w/images/3/33/Parma_Eldalamberon_7.png 2x" data-file-width="505" data-file-height="662"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Parma Eldalamberon 7</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../C/Christopher_Gilson.md" title="Christopher Gilson">Christopher Gilson</a></td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="../T/Tom_Loback.md" title="Tom Loback">Tom Loback</a> (front cover)</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../E/Elvish_Linguistic_Fellowship.md" title="Elvish Linguistic Fellowship">Elvish Linguistic Fellowship</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/1988.md" title="1988">1988</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback journal</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">40</td></tr></tbody></table>
 
-<i><b>Parma Eldalamberon 7</b></i> là số thứ bảy của *[Parma Eldalamberon](Parma_Eldalamberon.md)*, một tạp chí nghiên cứu ngôn ngữ học về các ngôn ngữ và tên gọi của người Tiên trong các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
+<i><b>Parma Eldalamberon 7</b></i> là số thứ bảy của *[Parma Eldalamberon](Parma_Eldalamberon.md)*, tạp chí nghiên cứu ngôn ngữ học về các ngôn ngữ Elvish và tên gọi trong các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
 <div class="template-prevnext"><div class="template-prevnext__prev template-prevnext__link"><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/8/81/WikimediaUI-ArrowPrevious-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__content"><div class="template-prevnext__title">Parma Eldalamberon 6</div></div><div class="template-prevnext__linkoverlay"><a href="Parma_Eldalamberon_6.md" title="Parma Eldalamberon 6">Parma Eldalamberon 6</a></div></div><div class="template-prevnext__current"><div class="template-prevnext__content"><div class="template-prevnext__title">Parma Eldalamberon 7</div></div></div><div class="template-prevnext__next template-prevnext__link"><div class="template-prevnext__content"><div class="template-prevnext__title">Parma Eldalamberon 8</div></div><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/7b/WikimediaUI-ArrowNext-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__linkoverlay"><a href="Parma_Eldalamberon_8.md" title="Parma Eldalamberon 8">Parma Eldalamberon 8</a></div></div></div>
 
 ## Nội dung {#Contents}
 
-- Bìa: "Lung Ulu" — bài thơ của Christopher Gilson, nghệ thuật của Tom Loback
+- Bìa: "Lung Ulu" — thơ của Christopher Gilson, nghệ thuật của Tom Loback
 
 - Bài viết
     - "Lung Ulu" — [Christopher Gilson](../C/Christopher_Gilson.md)
     - "*Im Naitho*, một bài thơ có ghi chú"
-    - "Người sở hữu thứ nhất trong High-Elven" — Christopher Gilson
+    - "Người thứ nhất sở hữu mức độ cao-Tiên" — Christopher Gilson
     - "Biểu đồ các bộ phận cơ thể bằng nhiều ngôn ngữ khác nhau" — [Tom Loback](../T/Tom_Loback.md)
-    - "*Corma Laire Quenyasse*: Bài thơ về chiếc nhẫn ở Quenya" — [Jorge Quiñónez](../J/Jorge_Quiñónez.md)
+    - "*Corma Laire Quenyasse*: Bài thơ về chiếc nhẫn trong Quenya" — [Jorge Quiñónez](../J/Jorge_Quiñónez.md)
     - "*A Working English Lexicon*, bởi [Paul Nolan Hyde](Paul_Nolan_Hyde.md)" — được đánh giá bởi Jorge Quiñónez
-    - "*Quettar Quentava Eldalamberon*: Ghi chú về lịch sử ngôn ngữ của loài Tiên" — Stanley Friesen
+    - "*Quettar Quentava Eldalamberon*: Ghi chú về lịch sử của các ngôn ngữ Tiên" — Stanley Friesen
 
 - Nghệ thuật: "[Biểu đồ các bộ phận cơ thể](../../file/P/Parma_Eldalamberon_7_page_21.png.md)" — Tom Loback
-- Nghệ thuật: "[Bản đồ Bắc Beleriand](../../file/P/Parma_Eldalamberon_7_page_28.png.md)" — Tom Loback
+- Nghệ thuật: "[Bản đồ phương Bắc Beleriand](../../file/P/Parma_Eldalamberon_7_page_28.png.md)" — Tom Loback
 - Nghệ thuật: "[Trận tháng Ba phía Bắc](../../file/P/Parma_Eldalamberon_7_page_29.png.md)" — Tom Loback
 - Chữ rune: Thư gửi *Parma*
 - Bìa sau: "[Im Naitho](<../../file/P/Parma_Eldalamberon_7_(back_cover).png.md>)" — nghệ thuật của Tom Loback

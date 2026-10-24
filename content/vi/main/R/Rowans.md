@@ -28,13 +28,13 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Miriam_Ellis_-_Quickbeam_Sings_to_a_Rowan_During_Entmoot.png.md"><img src="https://tolkiengateway.net/w/images/thumb/1/1d/Miriam_Ellis_-_Quickbeam_Sings_to_a_Rowan_During_Entmoot.png/300px-Miriam_Ellis_-_Quickbeam_Sings_to_a_Rowan_During_Entmoot.png" decoding="async" loading="lazy" width="300" height="250" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/1d/Miriam_Ellis_-_Quickbeam_Sings_to_a_Rowan_During_Entmoot.png/450px-Miriam_Ellis_-_Quickbeam_Sings_to_a_Rowan_During_Entmoot.png 1.5x, https://tolkiengateway.net/w/images/thumb/1/1d/Miriam_Ellis_-_Quickbeam_Sings_to_a_Rowan_During_Entmoot.png/600px-Miriam_Ellis_-_Quickbeam_Sings_to_a_Rowan_During_Entmoot.png 2x" data-file-width="1295" data-file-height="1081"/></a><figcaption><i><a href="../Q/Quickbeam.md" title="Quickbeam">Quickbeam</a> Sings to a Rowan During <a href="../E/Entmoot.md" title="Entmoot">Entmoot</a></i> by <a href="../M/Miriam_Ellis.md" title="Miriam Ellis">Miriam Ellis</a></figcaption></figure>
 
-**Rowans** là [cây](../T/Trees.md) thuộc chi Sorbus, còn được gọi là 'tro núi'. Đặc biệt được tìm thấy trên sườn [Núi](../M/Mountains.md), những cây này với quả mọng màu đỏ không thể nhầm lẫn, từng mọc ở [Rừng Fangorn](../F/Fangorn_Forest.md) phía tây ở các vùng gần [Isengard](../I/Isengard.md).
+**Rowans** là [cây](../T/Trees.md) thuộc chi Sorbus, còn được gọi là 'tro núi'. Đặc biệt được tìm thấy trên sườn [Dãy Núi](../M/Mountains.md) và đồi, những cây này, với quả mọng màu đỏ không thể nhầm lẫn, từng mọc ở phía tây [Rừng Fangorn](../F/Fangorn_Forest.md) ở các khu vực gần [Isengard](../I/Isengard.md).
 
 [Carnimírië](../C/Carnimírië.md), [Orofarnë](../O/Orofarnë.md) và [Lassemista](../L/Lassemista.md) là những cây thanh lương riêng lẻ của Fangorn.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Wood of this tree can be foraged by apprentice foresters in <a href="../S/Swanfleet.md" title="Swanfleet">Swanfleet</a>, <a class="mw-redirect" href="../E/Ered_Luin.md" title="Ered Luin">Ered Luin</a>, <a href="../T/The_Shire.md" title="The Shire">The Shire</a> and <a href="../B/Bree-land.md" title="Bree-land">Bree-land</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></dd></dl>
 

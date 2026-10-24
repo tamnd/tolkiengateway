@@ -11,4 +11,4 @@ redirect_target: "The Fellowship of the Ring"
 redirect_fragment: "Book II"
 ---
 
-Chuyển hướng đến [Hiệp hội nhẫn](../T/The_Fellowship_of_the_Ring.md#Book_II).
+Chuyển hướng đến [The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md#Book_II).

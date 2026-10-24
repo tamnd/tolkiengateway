@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gilfanon (elf of Alqaluntë)"
 ---
 
-Chuyển hướng đến [Gifanon (yêu tinh của Alqaluntë)](<Gilfanon_(elf_of_Alqaluntë).md>).
+Chuyển hướng đến [Gifanon (Tiên của Alqaluntë)](<Gilfanon_(elf_of_Alqaluntë).md>).

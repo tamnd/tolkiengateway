@@ -16,12 +16,12 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><a href="../F/First_Age.md" title="First Age">I</a><a href="../S/Second_Age.md" title="Second Age">II</a><b>III</b><a href="../F/Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="Third_Age_280.md" title="Third Age 280">280</a><a href="Third_Age_310.md" title="Third Age 310">310</a><a href="Third_Age_324.md" title="Third Age 324">324</a><a class="mw-selflink selflink">339</a><a href="Third_Age_372.md" title="Third Age 372">372</a><a href="Third_Age_397.md" title="Third Age 397">397</a><a href="Third_Age_411.md" title="Third Age 411">411</a></div></div></div></div></div></div>
 
-**Thời đại thứ ba 339** (viết tắt là **T.A. 339**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 339 của [Thời đại thứ ba](Third_Age.md) của [Trung Địa](../M/Middle-earth.md).
+**Kỷ Đệ Tam 339** (viết tắt là **T.A. 339**) là năm [thứ 339 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Tam](Third_Age.md) của [Trung Địa](../M/Middle-earth.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 - Cái chết của [Vua](../K/Kings_of_Arnor.md) [Eldacar](<../E/Eldacar_(King_of_Arnor).md>) của [Arnor](../A/Arnor.md).<sup id="cite_ref-AppNorth_1-0" class="reference"><a href="#cite_note-AppNorth-1">[1]</a></sup>
-- [Con trai của Eldacar](<../E/Eldacar_(King_of_Arnor).md>), [Arantar](../A/Arantar.md), trở thành [Vua](../K/Kings_of_Arnor.md) thứ năm của [Arnor](../A/Arnor.md).<sup id="cite_ref-AppNorth_1-1" class="reference"><a href="#cite_note-AppNorth-1">[1]</a></sup>
+Con trai của - [Eldacar](<../E/Eldacar_(King_of_Arnor).md>), [Arantar](../A/Arantar.md), trở thành [Vua](../K/Kings_of_Arnor.md) thứ năm của [Arnor](../A/Arnor.md).<sup id="cite_ref-AppNorth_1-1" class="reference"><a href="#cite_note-AppNorth-1">[1]</a></sup>
 
 <span></span>
 

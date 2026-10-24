@@ -14,7 +14,7 @@ categories:
   - "Sindarin nouns"
 ---
 
-## Tiếng Sindarin {#Sindarin}
+## Sindarin {#Sindarin}
 
 <i><b>oron</b></i> là một từ cổ/thơ (†) [Sindarin](../S/Sindarin.md) được đánh bóng là "[cây](../T/Trees.md)".<sup id="cite_ref-PE1_1-0" class="reference"><a href="#cite_note-PE1-1">[1]</a></sup> [Tolkien](../J/J.R.R._Tolkien.md) cũng đã thử nghiệm dạng *oronī* ("cây?").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
@@ -28,13 +28,13 @@ Mặc dù không phải là một từ phái sinh đã được chứng thực n
 
 ### Xem thêm {#See_also}
 
-- Tiếng Sindarin *[eryn](../E/Eryn.md)*
-- Tiếng Sindarin *[orn](Orn.md)*
+- Sindarin *[eryn](../E/Eryn.md)*
+- Sindarin *[orn](Orn.md)*
 - [Orophin#Từ nguyên](Orophin.md#Etymology)
 
 ## Quenya {#Quenya}
 
-<i><b>oron</b></i> (pl. *oronti*) là một từ [Quenya](../Q/Quenya.md) có nghĩa là "ngọn núi".<sup id="cite_ref-LR_4-0" class="reference"><a href="#cite_note-LR-4">[4]</a></sup>
+<i><b>oron</b></i> (pl. *oronti*) là một từ [Quenya](../Q/Quenya.md) có nghĩa là "núi".<sup id="cite_ref-LR_4-0" class="reference"><a href="#cite_note-LR-4">[4]</a></sup>
 
 ### Từ nguyên {#Etymology_2}
 

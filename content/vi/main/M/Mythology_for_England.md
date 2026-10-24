@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Legendarium"
 ---
 
-Chuyển hướng tới [Huyền thoại](../L/Legendarium.md).
+Chuyển hướng đến [Legendarium](../L/Legendarium.md).

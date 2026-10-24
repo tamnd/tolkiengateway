@@ -35,8 +35,8 @@ infobox:
 
 ## Tóm tắt {#Synopsis}
 
-Cả nhóm đến Midgewater, nơi khó đi qua do điều kiện đầm lầy và sự hiện diện của côn trùng. Cuối cùng họ cũng vượt qua được đầm lầy đúng lúc mặt trời lặn. Frodo tình cờ nghe được Aragorn hát bài hát [Lay of Lúthien](../S/Song_of_Beren_and_Lúthien.md), mô tả tình yêu giữa Người [Beren](../B/Beren.md) và Yêu tinh [Lúthien](../L/Lúthien.md) và cái kết bi thảm của họ.
+Cả nhóm đến Midgewater, nơi khó đi qua do điều kiện đầm lầy và sự hiện diện của côn trùng. Cuối cùng họ cũng vượt qua được đầm lầy đúng lúc mặt trời lặn. Frodo tình cờ nghe được Aragorn hát [Lay of Lúthien](../S/Song_of_Beren_and_Lúthien.md), mô tả tình yêu giữa Người [Beren](../B/Beren.md) và Tiên [Lúthien](../L/Lúthien.md) và cái kết bi thảm của họ.
 
 ## Sự khác biệt {#Differences}
 
-- Bài hát "Lay of Lúthien" mà Aragorn nhắc đến thực chất là "[Bài hát của Beren và Lúthien](../S/Song_of_Beren_and_Lúthien.md)" trong sách, và được hát tại Weathertop không gần Midgewater.
+- Bài hát "Lay of Lúthien" được Aragorn đề cập thực chất là "[Bài hát của Beren and Lúthien](../S/Song_of_Beren_and_Lúthien.md)" trong sách và được hát ở Weathertop không gần Midgewater.

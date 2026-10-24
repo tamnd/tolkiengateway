@@ -22,7 +22,7 @@ categories:
 ## Ví dụ {#Examples}
 
 - *[Dimbar](../D/Dimbar.md)*: "ngôi nhà buồn"
-- *[Brithombar](Brithombar.md)*: "nơi ở của [Brithon](Brithon.md)"
+- *[Brithombar](Brithombar.md)*: "nhà ở của [Brithon](Brithon.md)"
 
 ## Có cùng nguồn gốc {#Cognates}
 

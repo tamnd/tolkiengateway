@@ -40,7 +40,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mallorn18.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/8/8b/Mallorn18.jpg/320px-Mallorn18.jpg" decoding="async" loading="lazy" width="320" height="465" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/8b/Mallorn18.jpg/480px-Mallorn18.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/8/8b/Mallorn18.jpg/640px-Mallorn18.jpg 2x" data-file-width="2359" data-file-height="3425"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mallorn 18</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Jenny Curtis</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Printer</th><td class="tg-infobox-data"><a class="external text" href="http://hanwayprint.com/" rel="noreferrer noopener" target="_blank">Hanway Print Centre</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../J/June.md" title="June">June</a> <a href="../_/1982.md" title="1982">1982</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">A4 stapled paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">36</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0308-6674</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mallorn_17.md" title="Mallorn 17">Mallorn 17</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mallorn_19.md" title="Mallorn 19">Mallorn 19</a></td></tr></tbody></table>
 
-<b><i>Mallorn</i> 18</b> là số thứ mười tám của tạp chí thường niên [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) *[Mallorn](<Mallorn_(journal).md>)*, xuất bản vào tháng 6 [1982](../_/1982.md).
+<b><i>Mallorn</i> 18</b> là số thứ mười tám của tạp chí thường niên [Hội Tolkien](../T/The_Tolkien_Society.md) của *[Mallorn](<Mallorn_(journal).md>)*, xuất bản vào tháng 6 [1982](../_/1982.md).
 
 ## Nội dung {#Contents}
 
@@ -66,21 +66,21 @@ infobox:
     - Bởi: Ley Holloway
 - Tích trữ từ ngữ
     - Bởi: Janet Gibbs
-- Orthanc và Onodrim trong truyền thống Mannish muộn: một số di tích Tây Saxon
+- Orthanc và Onodrim trong truyền thống Mannish muộn: một số Phương Tây dấu tích của người Saxon
     - Bởi: [David Doughan](../D/David_Doughan.md)
 - Niên đại sự nghiệp của Túrin và Tuor
     - Bởi: Donald O'Brien
-- Arnor: Người thừa kế Númenórean
+- Arnor: Sự kế thừa Númenórean
     - Bởi: Marjorie R. Willets
-- Nghệ thuật: 'Aragorn và Arwen ở Rivendell'
+- Nghệ thuật: 'Aragorn và Arwen tại Rivendell'
     - Bởi: Elizabeth Tomkins
-- Ảnh hưởng của Tolkien tới Biên niên sử Narnia
+Ảnh hưởng của - Tolkien đối với Biên niên sử Narnia
     - Bởi: Jessica Yates
 - Bài thơ: 'Ar-Feiniel'
     - Bởi: Sara Fletcher
 - Hướng dẫn dành cho người đóng góp *Mallorn*
 - Viết ở đâu
-- [Hiệp hội Tolkien](../T/The_Tolkien_Society.md)
+- [Hội Tolkien](../T/The_Tolkien_Society.md)
 
 - Nghệ thuật bên trong
     - Bởi: Stephen Lines, Sara Fletcher, Margaret Thompsons, Lucy Matthews, Geraint Rees, [Kay Woollard](../K/Kay_Woollard.md), Anthony Curtis
@@ -89,4 +89,4 @@ infobox:
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://journals.tolkiensociety.org/mallorn/issue/view/19/" rel="noreferrer noopener" target="_blank">Số này tại trang web của The Tolkien Society</a>
+- <a class="external text" href="http://journals.tolkiensociety.org/mallorn/issue/view/19/" rel="noreferrer noopener" target="_blank">Vấn đề này tại trang web Hội Tolkien</a>

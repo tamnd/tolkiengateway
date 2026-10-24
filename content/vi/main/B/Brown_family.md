@@ -24,7 +24,7 @@ langlinks:
     url: "https://kontu.wiki/Ruska"
 ---
 
-**Gia đình Brown** là một gia đình Hobbit đến từ [Shire](../T/The_Shire.md). Chỉ có một thành viên được biết đến là [Lily Brown](../L/Lily_Cotton.md), người đã kết hôn với [Nông dân Bông](../T/Tolman_Cotton_Senior.md). Một trong những người con của họ là [Rose Cotton](../R/Rose_Cotton.md), vợ của thị trưởng [Samwise Gamgee](../S/Samwise_Gamgee.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Gia đình Brown** là một gia đình Hobbit từ [the Shire](../T/The_Shire.md). Chỉ có một thành viên được biết đến là [Lily Brown](../L/Lily_Cotton.md), người đã kết hôn với [Nông dân Bông](../T/Tolman_Cotton_Senior.md). Một trong những người con của họ là [Rose Cotton](../R/Rose_Cotton.md), vợ của thị trưởng [Samwise Gamgee](../S/Samwise_Gamgee.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

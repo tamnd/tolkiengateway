@@ -50,7 +50,7 @@ images:
 
 ## Từ nguyên {#Etymology}
 
-[Tiếng Anh cổ](../O/Old_English.md) <i><a class="extiw" href="http://en.wiktionary.org/wiki/li%C3%BEa" title="wiktionary:liþa">líða</a></i>, là tên cũ của tháng Sáu và tháng Bảy.<sup id="cite_ref-Nomen_2-0" class="reference"><a href="#cite_note-Nomen-2">[2]</a></sup> Nó có thể ám chỉ ngày trăng non đầu tiên vào khoảng ngày hạ chí.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> <span></span>
+[tiếng Anh cổ](../O/Old_English.md) <i><a class="extiw" href="http://en.wiktionary.org/wiki/li%C3%BEa" title="wiktionary:liþa">líða</a></i>, là tên cũ của tháng Sáu và tháng Bảy.<sup id="cite_ref-Nomen_2-0" class="reference"><a href="#cite_note-Nomen-2">[2]</a></sup> Có lẽ nó ám chỉ đến lần trăng non đầu tiên vào khoảng ngày hạ chí.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

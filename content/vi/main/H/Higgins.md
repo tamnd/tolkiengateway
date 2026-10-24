@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Andrew Higgins"
 ---
 
-Chuyển hướng tới [Andrew Higgins](../A/Andrew_Higgins.md).
+Chuyển hướng đến [Andrew Higgins](../A/Andrew_Higgins.md).

@@ -23,7 +23,7 @@ images:
 
 **Những con đom đóm khổng lồ** thường ẩn nấp ở biên giới của [Olórë Mallë](../O/Olórë_Mallë.md), Con đường của những giấc mơ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Vì những sinh vật này chỉ được đề cập thoáng qua nên không thể nói liệu chúng có liên quan đến [Sâu](../W/Worms.md) vĩ đại ( [Rồng](../D/Dragons.md) không cánh) hay chúng là phiên bản khổng lồ của *[glowworms](Glow-worms.md)* thông thường. Người ta có thể cho rằng chúng phát sáng trong bóng tối (và do đó có lẽ có liên quan đến hoặc là tên gọi khác của [những con rồng tia lửa](../S/Spark-dragons.md)).
+Vì những sinh vật này chỉ được đề cập thoáng qua nên không thể nói liệu chúng có liên quan đến [Giun](../W/Worms.md) vĩ đại (không cánh [Rồng](../D/Dragons.md)) hay chúng là phiên bản khổng lồ của *[glowworms](Glow-worms.md)* thông thường. Người ta có thể cho rằng chúng phát sáng trong bóng tối (và do đó có lẽ có liên quan đến hoặc là tên gọi khác của [những con rồng tia lửa](../S/Spark-dragons.md)).
 
 <span></span>
 

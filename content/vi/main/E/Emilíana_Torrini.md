@@ -22,7 +22,7 @@ sort_keys:
 
 ## Giải thưởng {#Awards}
 
-- [2003](../_/2003.md) - <b><a class="external text" href="http://cinemaclips.com/PFCS" rel="noreferrer noopener" target="_blank">Giải thưởng PFCS</a></b>, Bài hát gốc hay nhất, "Bài hát của Gollum"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup>
+- [2003](../_/2003.md) - <b><a class="external text" href="http://cinemaclips.com/PFCS" rel="noreferrer noopener" target="_blank">Giải thưởng PFCS</a></b>, Bài hát gốc hay nhất, "Bài hát củaGollum"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup>
 
 ## Ghi chú {#Notes}
 

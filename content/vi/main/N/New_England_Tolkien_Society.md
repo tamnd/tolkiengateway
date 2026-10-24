@@ -21,7 +21,7 @@ images:
 <p class="tg-quote-footer"><cite><a href="../G/Glóin.md" title="Glóin">Glóin</a></cite></p>
 </blockquote></div></div>
 
-**Hiệp hội Tolkien New England** là một hiệp hội Tolkien không còn tồn tại ở vùng đông bắc Hoa Kỳ. Tính đến tháng 12 năm 2011, nó hiện không có trang web cũng như không có bất kỳ thông tin nào khác được biết về các sự kiện hoặc ấn phẩm của nó ngoài những ấn phẩm do người sáng lập Sumner Gary Hunnewell xuất bản. Sumner Gary Hunnewell đã cư trú ở Missouri chứ không phải Maine ở New England trong nhiều năm.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Hiệp hội Tolkien New England** là một hiệp hội Tolkien không còn tồn tại ở khu vực đông bắc Hoa Kỳ. Tính đến tháng 12 năm 2011, nó hiện không có trang web cũng như không có bất kỳ thông tin nào khác được biết về các sự kiện hoặc ấn phẩm của nó ngoài những ấn phẩm do người sáng lập Sumner Gary Hunnewell xuất bản. Sumner Gary Hunnewell đã cư trú ở Missouri chứ không phải Maine ở New England trong nhiều năm.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Tạp chí {#Magazine}
 
@@ -29,7 +29,7 @@ Hiệp hội Tolkien New England đã xuất bản một tạp chí *Ravenhill* 
 
 ## Thành viên lưu ý {#Members_of_Note}
 
-[Sumner Gary Hunnewell](../S/Sumner_Gary_Hunnewell.md), học giả của [fandom Tolkien](../T/Tolkien_fandom.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+[Sumner Gary Hunnewell](../S/Sumner_Gary_Hunnewell.md), học giả của [Tolkien fandom](../T/Tolkien_fandom.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

@@ -13,7 +13,7 @@ categories:
   - "Sindarin nouns"
 ---
 
-<i><b>er</b></i> là từ [Sindarin](../S/Sindarin.md), có nghĩa là "một, một mình".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>er</b></i> là từ [Sindarin](../S/Sindarin.md), có nghĩa là "một mình".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Ví dụ {#Examples}
 

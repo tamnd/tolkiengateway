@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Awakening of the Elves"
 ---
 
-Chuyển hướng đến [Sự thức tỉnh của Yêu tinh](../A/Awakening_of_the_Elves.md).
+Chuyển hướng tới [Sự thức tỉnh của Tiên tộc](../A/Awakening_of_the_Elves.md).

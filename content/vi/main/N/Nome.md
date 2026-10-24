@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Nature of Middle-earth"
 ---
 
-Chuyển hướng đến [Bản chất của Trung Địa](../T/The_Nature_of_Middle-earth.md).
+Chuyển hướng đến [The Nature of Middle-earth](../T/The_Nature_of_Middle-earth.md).

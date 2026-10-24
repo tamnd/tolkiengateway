@@ -17,7 +17,7 @@ langlinks:
     url: "https://kontu.wiki/K%C3%A4tketty_puolisko"
 ---
 
-**Nửa ẩn giấu** là ghi chú được đặt bên dưới rìa thế giới trên Sơ đồ I của [bản đồ Ambarkanta](../A/Ambarkanta_maps.md), để phản ánh quan niệm về "thế giới tròn". [Núi phía Tây](../M/Mountains_of_the_West.md) và [Đông](../W/Walls_of_the_Sun.md) đã ngăn cản bất cứ ai tìm thấy Một nửa ẩn giấu của thế giới.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Nửa ẩn giấu** là ghi chú được đặt bên dưới rìa thế giới trên Sơ đồ I của [Ambarkanta bản đồ](../A/Ambarkanta_maps.md), nhằm phản ánh quan niệm về "thế giới tròn". [Dãy Núi của Phương Tây](../M/Mountains_of_the_West.md) và [phương Đông](../W/Walls_of_the_Sun.md) đã ngăn cản bất kỳ ai tìm thấy Nửa ẩn của thế giới.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

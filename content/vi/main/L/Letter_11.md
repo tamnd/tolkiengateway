@@ -42,7 +42,7 @@ Bức thư này liên quan đến việc xuất bản *[The Hobbit](../T/The_Hob
 
 <dl><dt>In the expanded edition</dt></dl>
 
-Khi bắt đầu bức thư, Tolkien bày tỏ lòng biết ơn đối với Bộ phận Sản xuất vì công việc của họ và chấp thuận việc lựa chọn các hình minh họa của họ. Và cuối cùng, ông mong được gặp cô Dagnall và lẽ ra ông sẽ trả lời thư sớm hơn nếu có thời gian.
+Mở đầu thư Tolkien thể hiện lòng biết ơn đối với Phòng Sản xuất vì công việc của họ và chấp thuận việc họ lựa chọn các hình ảnh minh họa. Và cuối cùng, ông mong được gặp cô Dagnall và lẽ ra ông sẽ trả lời thư sớm hơn nếu có thời gian.
 
 <br>
 

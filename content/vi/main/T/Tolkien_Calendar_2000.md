@@ -42,7 +42,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tolkien_Calendar_2000.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b6/Tolkien_Calendar_2000.jpg/320px-Tolkien_Calendar_2000.jpg" decoding="async" loading="lazy" width="320" height="321" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/b/b6/Tolkien_Calendar_2000.jpg 1.5x" data-file-width="349" data-file-height="350"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Tolkien Calendar 2000</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="Ted_Nasmith.md" title="Ted Nasmith">Ted Nasmith</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../H/HarperCollins.md" title="HarperCollins">HarperCollins</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/1999.md" title="1999">1999</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Calendar</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">32</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0-261-10384-9" title="Special:BookSources/0-261-10384-9">0-261-10384-9</a> (UK)<br/><a href="https://tolkiengateway.net/wiki/Special:BookSources/0-06-107579-5" title="Special:BookSources/0-06-107579-5">0-06-107579-5</a> (US)</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Tolkien_Calendar_1999.md" title="Tolkien Calendar 1999">Tolkien Calendar 1999</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Tolkien_Calendar_2001.md" title="Tolkien Calendar 2001">Tolkien Calendar 2001</a></td></tr></tbody></table>
 
-<i><b>Lịch Tolkien 2000</b></i> là lịch Tolkien chính thức được xuất bản bởi [HarperCollins](../H/HarperCollins.md) trong [1999](../_/1999.md). Nó có tác phẩm nghệ thuật của [Ted Nasmith](Ted_Nasmith.md) dựa trên *[The Silmarillion](The_Silmarillion.md)*.
+Lịch <i><b>Tolkien 2000</b></i> là lịch Tolkien chính thức được xuất bản bởi [HarperCollins](../H/HarperCollins.md) trong [1999](../_/1999.md). Nó có tác phẩm nghệ thuật của [Ted Nasmith](Ted_Nasmith.md) dựa trên *[The Silmarillion](The_Silmarillion.md)*.
 
 ## Từ nhà xuất bản {#From_the_publishers}
 
@@ -54,17 +54,17 @@ infobox:
 ## Minh họa {#Illustrations}
 
 - Tháng 1 - "[Beleg bị giết](../../file/T/Ted_Nasmith_-_Beleg_is_Slain.jpg.md)"
-- Tháng 2 - "[Finduilas bị dẫn trước Túrin trong vụ bao vây Nargothrond](../../file/T/Ted_Nasmith_-_Finduilas_is_Led_Past_Túrin_at_the_Sack_of_Nargothrond.jpg.md)"
+- Tháng 2 - "[Finduilas được dẫn trước Túrin tại Cuộc cướp phá Nargothrond](../../file/T/Ted_Nasmith_-_Finduilas_is_Led_Past_Túrin_at_the_Sack_of_Nargothrond.jpg.md)"
 - Tháng 3 - "[Tuor, Gelmir và Arminas](../../file/T/Ted_Nasmith_-_Tuor,_Gelmir,_and_Arminas.jpg.md)"
-- Tháng 4 - "[Beren và Lúthien đã được đưa đến nơi an toàn](../../file/T/Ted_Nasmith_-_Beren_and_Lúthien_are_Flown_to_Safety.jpg.md)"
-- Tháng 5 - "[Maglor đúc một viên Silmaril](../../file/T/Ted_Nasmith_-_Maglor_Casts_a_Silmaril_into_the_Sea.jpg.md)"
+- Tháng 4 - "[Beren and Lúthien được đưa đến nơi an toàn](../../file/T/Ted_Nasmith_-_Beren_and_Lúthien_are_Flown_to_Safety.jpg.md)"
+- Tháng 5 - "[Maglor Truyền Silmaril](../../file/T/Ted_Nasmith_-_Maglor_Casts_a_Silmaril_into_the_Sea.jpg.md)"
 - Tháng 6 - "[Fingon và Gothmog](../../file/T/Ted_Nasmith_-_Fingon_and_Gothmog.jpg.md)"
-- Centrefold - "[Eärendil Tìm kiếm Tirion](../../file/T/Ted_Nasmith_-_Eärendil_Searches_Tirion.jpg.md)"
-- Tháng 7 - "[Ulmo xuất hiện trước Tuor](../../file/T/Ted_Nasmith_-_Ulmo_Appears_before_Tuor.jpg.md)"
-- Tháng 8 - "[Tại hồ Cuiviénen](../../file/T/Ted_Nasmith_-_At_Lake_Cuiviénen.jpg.md)"
-- Tháng 9 - "[Illuin, Ngọn đèn của các Valar](../../file/T/Ted_Nasmith_-_Illuin,_Lamp_of_the_Valar.jpg.md)"
-- Tháng 10 - "[Biển Incomimg ở Khe Cầu Vồng](../../file/T/Ted_Nasmith_-_The_Incoming_Sea_at_the_Rainbow_Cleft.jpg.md)"
-- Tháng 11 - "[Lúthien Trốn Thoát khỏi Nhà Cây](../../file/T/Ted_Nasmith_-_Lúthien_Escapes_the_Treehouse.jpg.md)"
+- Giữa - "[Eärendil Tìm kiếm Tirion](../../file/T/Ted_Nasmith_-_Eärendil_Searches_Tirion.jpg.md)"
+- Tháng 7 - "[Ulmo Xuất hiện trước Tuor](../../file/T/Ted_Nasmith_-_Ulmo_Appears_before_Tuor.jpg.md)"
+- Tháng 8 - "[Tại Hồ Cuiviénen](../../file/T/Ted_Nasmith_-_At_Lake_Cuiviénen.jpg.md)"
+- tháng Chín - "[Illuin, Đèn của Valar](../../file/T/Ted_Nasmith_-_Illuin,_Lamp_of_the_Valar.jpg.md)"
+- Tháng 10 - "[Incomimg Biển ở Khe Cầu Vồng](../../file/T/Ted_Nasmith_-_The_Incoming_Sea_at_the_Rainbow_Cleft.jpg.md)"
+- Tháng 11 - "[Lúthien Thoát khỏi Nhà trên cây](../../file/T/Ted_Nasmith_-_Lúthien_Escapes_the_Treehouse.jpg.md)"
 - Tháng 12 - "[Sự tàn sát Glaurung](../../file/T/Ted_Nasmith_-_The_Slaying_of_Glaurung.jpg.md)"
 
 ## Biến thể {#Variants}
@@ -99,8 +99,8 @@ infobox:
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://www.tolkienbooks.net/php/caldetails.php?reference=94320" rel="noreferrer noopener" target="_blank">Lịch Tolkien 2000</a> tại <a class="external text" href="http://www.tolkienbooks.net" rel="noreferrer noopener" target="_blank">TolkienBooks.net</a>
-- <a class="external text" href="http://tolkiencalendars.com/1999_2001.html" rel="noreferrer noopener" target="_blank">Lịch Tolkien 1999 - 2001</a> tại <a class="external text" href="http://tolkiencalendars.com/" rel="noreferrer noopener" target="_blank">The Compleat Gyde to Tolkien Calendars</a>
+- <a class="external text" href="http://www.tolkienbooks.net/php/caldetails.php?reference=94320" rel="noreferrer noopener" target="_blank">Tolkien Lịch 2000</a> tại <a class="external text" href="http://www.tolkienbooks.net" rel="noreferrer noopener" target="_blank">TolkienBooks.net</a>
+- <a class="external text" href="http://tolkiencalendars.com/1999_2001.html" rel="noreferrer noopener" target="_blank">Tolkien Lịch 1999 - 2001</a> tại <a class="external text" href="http://tolkiencalendars.com/" rel="noreferrer noopener" target="_blank">The Compleat Gyde tới Tolkien Lịch</a>
 
 <table style="margin:0 auto;" class="collapsible toccolours" width="100%" align="center">
 <tbody><tr>

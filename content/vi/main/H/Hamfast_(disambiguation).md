@@ -14,7 +14,7 @@ images:
   - "Disambig.png"
 ---
 
-**Hamfast** là tên của một số [Người Hobbit](Hobbits.md):
+**Hamfast** là tên của một số [Hobbit](Hobbits.md):
 
 - [Hamfast xứ Gamwich](Hamfast_of_Gamwich.md), tổ tiên của [Gia đình Gamgee](../G/Gamgee_Family~66365.md)
 - [Gaffer Gamgee](../G/Gaffer_Gamgee.md), cha của [Samwise Gamgee](../S/Samwise_Gamgee.md)

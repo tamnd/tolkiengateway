@@ -14,15 +14,15 @@ images:
   - "Disambig.png"
 ---
 
-**Nam giới** có thể tham khảo:
+**Con Người** có thể tham khảo:
 
-- **[Đàn ông](Men.md), một trong những chủng tộc phàm trần**
+- **[Con Người](Men.md), một trong những chủng tộc phàm trần**
 - *[men](<Men_(Elvish).md>)*, một từ [Elvish](../E/Elvish.md) có nhiều nghĩa
 - [MEN](MEN~35108.md), một [Elvish](../E/Elvish.md) [gốc](../S/Sundocarme.md)
 
 ## Xem thêm {#See_also}
 
-- *[man](<Man_(word).md>)*, một từ Tiên khác
+- *[man](<Man_(word).md>)*, Elvish từ khác
 
 <hr style="margin-top:15px;"/>
 

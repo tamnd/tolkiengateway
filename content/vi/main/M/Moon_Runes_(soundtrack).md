@@ -55,7 +55,7 @@ images:
 <li><a href="../D/Dreaming_of_Bag_End.md" title="Dreaming of Bag End">Dreaming of Bag End</a></li></ol>
 </td></tr></tbody></table>
 
-**Moon Runes** là ca khúc thứ hai trong đĩa hai của *[The Hobbit: An Unexpected Journey - Original Motion Picture Soundtrack](../T/The_Hobbit%253A_An_Unexpected_Journey_-_Original_Motion_Picture_Soundtrack.md)* và [nhạc phim phiên bản đặc biệt](../T/The_Hobbit%253A_An_Unexpected_Journey_-_Original_Motion_Picture_Soundtrack_-_Special_Edition.md) (ở dạng mở rộng), của [Howard Shore](../H/Howard_Shore.md).
+**Mặt Trăng Runes** là bài hát thứ hai trong đĩa hai của *[The Hobbit: An Unexpected Journey - Original Motion Picture Soundtrack](../T/The_Hobbit%253A_An_Unexpected_Journey_-_Original_Motion_Picture_Soundtrack.md)* và [nhạc phim phiên bản đặc biệt](../T/The_Hobbit%253A_An_Unexpected_Journey_-_Original_Motion_Picture_Soundtrack_-_Special_Edition.md) (ở dạng mở rộng), của [Howard Shore](../H/Howard_Shore.md).
 
 ## Xem thêm {#See_also}
 

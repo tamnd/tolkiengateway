@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "MacLachlan, Christopher"
 ---
 
-**Christopher John Morriss MacLachlan** là tác giả đã khám phá những ảnh hưởng của [Richard Wagner](../R/Richard_Wagner.md)'s [Ring Cycle](../D/Der_Ring_des_Nibelungen.md) đối với tác phẩm của [Tolkien](../T/Tolkien.md). Ông là giảng viên khoa tiếng Anh của Đại học St. Andrews.
+**Christopher John Morriss MacLachlan** là tác giả đã khám phá những ảnh hưởng của [Richard Wagner](../R/Richard_Wagner.md)'s [Ring Cycle](../D/Der_Ring_des_Nibelungen.md) đối với lối viết của [Tolkien](../T/Tolkien.md). Ông là giảng viên khoa tiếng Anh của Đại học St. Andrews.
 
 ## Thư mục {#Bibliography}
 

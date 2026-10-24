@@ -12,4 +12,4 @@ categories:
   - "Tolkien Gateway"
 ---
 
-**Người gác cổng** là biên tập viên của [Tolkien Gateway](../../main/T/Tolkien_Gateway.md), người được giao nhiệm vụ tạo, duy trì và cải thiện wiki.
+**Người gác cổng** là những biên tập viên của [Tolkien Gateway](../../main/T/Tolkien_Gateway.md) có nhiệm vụ tạo, duy trì và cải thiện wiki.

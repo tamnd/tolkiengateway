@@ -14,11 +14,11 @@ images:
   - "Disambig.png"
 ---
 
-**Bree** có thể đề cập đến:
+**Bree** có thể tham khảo:
 
-## Trung địa {#Middle-earth}
+## Trung Địa {#Middle-earth}
 
-- **[Bree](Bree.md)**, khu định cư ở [Bree-land](Bree-land.md)
+- **[Bree](Bree.md)**, quyết toán tại [Bree-land](Bree-land.md)
 
 ## Các bản chuyển thể {#Adaptations}
 

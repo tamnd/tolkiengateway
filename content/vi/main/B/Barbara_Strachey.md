@@ -31,7 +31,7 @@ langlinks:
 
 **Barbara Strachey** ([17 tháng 7](../_/17_July.md), [1912](../_/1912.md) - [15 tháng 10](../_/15_October.md), [1999](../_/1999.md)) là một nhà văn, phát thanh viên và nhiếp ảnh gia.
 
-Strachey [học tại trường Oxford](../U/University_of_Oxford.md) đã làm việc cho [BBC](BBC.md) và sau đó viết cùng với các tác phẩm khác *[Journeys of Frodo](../J/Journeys_of_Frodo.md)*. Bộ sưu tập bản đồ này không có danh tiếng rộng rãi như *[The Atlas of Middle-earth](../T/The_Atlas_of_Middle-earth.md)* của [Karen Wynn Fonstad](../K/Karen_Wynn_Fonstad.md) nhưng có chất lượng tương tự.
+Strachey được đào tạo ở [Oxford](../U/University_of_Oxford.md) đã làm việc cho [BBC](BBC.md) và sau đó viết cùng với các tác phẩm khác *[Journeys of Frodo](../J/Journeys_of_Frodo.md)*. Bộ sưu tập bản đồ này không có chung danh tiếng rộng rãi như *[The Atlas of Middle-earth](../T/The_Atlas_of_Middle-earth.md)* của [Karen Wynn Fonstad](../K/Karen_Wynn_Fonstad.md) nhưng có chất lượng tương tự.
 
 ## Thư mục {#Bibliography}
 

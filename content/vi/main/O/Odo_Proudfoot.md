@@ -55,17 +55,17 @@ infobox:
 <p class="tg-quote-footer"><cite><a href="../A/A_Long-expected_Party.md" title="A Long-expected Party">A Long-expected Party</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Odo Proudfoot** ([S.R.](../S/Shire_Reckoning.md) [1304](../T/Third_Age_2904.md) - [S.R.](../S/Shire_Reckoning.md) [1405](../T/Third_Age_3005.md)<sup id="cite_ref-Baggins_1-0" class="reference"><a href="#cite_note-Baggins-1">[1]</a></sup>) là một Người Hobbit của Quận.
+**Odo Proudfoot** ([S.R.](../S/Shire_Reckoning.md) [1304](../T/Third_Age_2904.md) - [S.R.](../S/Shire_Reckoning.md) [1405](../T/Third_Age_3005.md)<sup id="cite_ref-Baggins_1-0" class="reference"><a href="#cite_note-Baggins-1">[1]</a></sup>) là Hobbit của Shire.
 
 ## Lịch sử {#History}
 
-Odo là con trai của [Bodo](../B/Bodo_Proudfoot.md) và dì của [Bilbo Baggins](../B/Bilbo_Baggins.md), [Linda](../L/Linda_Proudfoot.md)<sup id="cite_ref-Baggins_1-1" class="reference"><a href="#cite_note-Baggins-1">[1]</a></sup> và đã tạo ra dòng [Proudfoots](../P/Proudfoot_Family.md) (hoặc, như chính Odo ưa thích, "Proudfeet").<sup id="cite_ref-Party_2-0" class="reference"><a href="#cite_note-Party-2">[2]</a></sup>
+Odo là con trai của [Bodo](../B/Bodo_Proudfoot.md) và dì của [Bilbo Baggins](../B/Bilbo_Baggins.md), [Linda](../L/Linda_Proudfoot.md)<sup id="cite_ref-Baggins_1-1" class="reference"><a href="#cite_note-Baggins-1">[1]</a></sup> và đã hình thành nên dòng [Proudfoots](../P/Proudfoot_Family.md) (hoặc, như chính Odo ưa thích, "Proudfeet").<sup id="cite_ref-Party_2-0" class="reference"><a href="#cite_note-Party-2">[2]</a></sup>
 
-Odo là một trong những khách mời của [Bữa tiệc chia tay của Bilbo](../B/Bilbo's_Farewell_Party.md) nổi tiếng, trong đó ông đặt đôi chân to lớn nổi bật của mình lên bàn, cho đến khi Bilbo Baggins đột ngột biến mất một cách khó hiểu, và trong sự ngạc nhiên, ông đã đặt chân lên bàn.<sup id="cite_ref-Party_2-1" class="reference"><a href="#cite_note-Party-2">[2]</a></sup> Vào thời điểm đó, ông thực sự là một người hobbit già, đã chín mươi bảy tuổi. Ông chỉ sống thêm vài năm sau Đảng,<sup id="cite_ref-Baggins_1-2" class="reference"><a href="#cite_note-Baggins-1">[1]</a></sup> nhưng từ ông đã sinh ra ít nhất hai thế hệ con cháu, trong đó có đứa cháu trai tinh nghịch [Sancho](../S/Sancho_Proudfoot.md), người đã cố gắng khai quật kho báu ở [Bag End](../B/Bag_End.md).<sup id="cite_ref-Party_2-2" class="reference"><a href="#cite_note-Party-2">[2]</a></sup>
+Odo là một trong những vị khách tại [Tiệc chia tay của Bilbo](../B/Bilbo's_Farewell_Party.md) nổi tiếng, trong đó ông đặt đôi chân to lớn của mình lên bàn, cho đến khi Bilbo Baggins đột ngột biến mất một cách khó hiểu, và trong sự ngạc nhiên, ông đã đặt chân lên bàn.<sup id="cite_ref-Party_2-1" class="reference"><a href="#cite_note-Party-2">[2]</a></sup> Vào thời điểm đó, ông thực sự là một người hobbit lớn tuổi, đã chín mươi bảy tuổi. Ông chỉ sống thêm vài năm sau Đảng,<sup id="cite_ref-Baggins_1-2" class="reference"><a href="#cite_note-Baggins-1">[1]</a></sup> nhưng từ ông đã sinh ra ít nhất hai thế hệ hậu duệ, trong đó có đứa cháu tinh nghịch [Sancho](../S/Sancho_Proudfoot.md), người đã cố gắng khai quật kho báu ở [Bag End](../B/Bag_End.md).<sup id="cite_ref-Party_2-2" class="reference"><a href="#cite_note-Party-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Cái tên *Odo* là vô nghĩa trong [Hobbitish](../H/Hobbitish.md) [Westron](../W/Westron.md) đương đại. Nó đại diện cho một tên ban đầu *Oda*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Cái tên *Odo* là vô nghĩa trong [Hobbitish](../H/Hobbitish.md) [Westron](../W/Westron.md) đương thời. Nó đại diện cho một tên ban đầu *Oda*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
@@ -95,15 +95,15 @@ Cái tên *Odo* là vô nghĩa trong [Hobbitish](../H/Hobbitish.md) [Westron](..
 		</li>
 </ul>
 
-<b>1978: <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>Chúa tể của những chiếc nhẫn</i> (phim 1978)</a>:</b>
+<b>1978: <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim 1978)</a>:</b>
 
 <dl><dd>Odo angrily wiggles his toes as he corrects Bilbo.</dd></dl>
 
-<b>1981: <a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>Chúa tể của những chiếc nhẫn</i> (loạt phim phát thanh năm 1981)</a>:</b>
+<b>1981: <a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>The Lord of the Rings</i> (loạt phim phát thanh 1981)</a>:</b>
 
 <dl><dd>Odo is portrayed by <a href="../S/Sean_Arnold.md" title="Sean Arnold">Sean Arnold</a>.</dd></dl>
 
-<b>2001: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">Chúa tể của những chiếc nhẫn: Hiệp hội những chiếc nhẫn</a></i>:</b>
+<b>2001: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i>:</b>
 
 <dl><dd>The character <a href="../E/Everard_Proudfoot.md" title="Everard Proudfoot">Everard Proudfoot</a>, played by <a href="../N/Noel_Appleby.md" title="Noel Appleby">Noel Appleby</a>, filled Odo&#39;s role.</dd></dl>
 

@@ -18,7 +18,7 @@ langlinks:
     url: "https://www.ardapedia.org/wiki/Distelwolle"
 ---
 
-**Thistlewool** là một gia đình của [Người Bree](../M/Men_of_Bree.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Thistlewool** là một họ của [Người Bree](../M/Men_of_Bree.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 

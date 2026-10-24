@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Minas Tirith Evening-Star"
 ---
 
-Chuyển hướng tới [Minas Tirith Evening-Star](Minas_Tirith_Evening-Star.md).
+Chuyển hướng đến [Minas Tirith Evening-Star](Minas_Tirith_Evening-Star.md).

@@ -15,6 +15,6 @@ sort_keys:
 ---
 
 - Người giữ bản quyền Elizabeth Solopova cấp quyền sử dụng [Elizabeth Solopova.jpg](../../file/E/Elizabeth_Solopova.jpg.md) trên Tolkien Gateway.
-- Tuyên bố từ chủ bản quyền: "*Bạn có thể sử dụng bức ảnh này.*" (email)
-- Ngày: 26 tháng 9 năm 2011
+- Tuyên bố từ chủ bản quyền: "*Bạn có thể sử dụng bức ảnh.*" (email)
+- Ngày: 26 tháng Chín năm 2011
 - Người dùng đã xin phép: [Người dùng:Morgan](https://tolkiengateway.net/wiki/User:Morgan)

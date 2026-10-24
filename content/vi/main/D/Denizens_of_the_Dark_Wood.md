@@ -45,12 +45,12 @@ infobox:
 
 Ba cuộc phiêu lưu ở cấp độ thấp đến trung bình, mỗi cuộc phiêu lưu có thể tự đứng vững và có thể được thiết lập trong vài phút.
 
-Sự hiện diện của Necromancer ở Mirkwood đã kéo dài bóng tối của mái hiên khu rừng. Lũ Orc từ Dãy núi Xám di chuyển về phía nam qua những tán cây, Nhện khổng lồ tụ tập với số lượng lớn hơn và lũ Troll xuất hiện từ hang động của chúng thường xuyên hơn.
+Sự hiện diện của Necromancer ở Mirkwood đã kéo dài bóng tối của mái hiên khu rừng. Orc từ Dãy Núi Xám di chuyển về phía nam qua những tán cây, Nhện khổng lồ tụ tập với số lượng lớn hơn và Troll xuất hiện từ hang động của chúng thường xuyên hơn.
 
-Một số chàng trai và cô gái ở Ulgarstat, một ngôi làng ở bìa rừng và phía tây Thị trấn Hồ, đã biến mất không dấu vết. Bạn sẽ mạo hiểm với những nguy hiểm chưa biết để tìm và giải cứu những thanh niên mất tích trong Attercop Attack?
+Một số chàng trai và cô gái ở Ulgarstat, một ngôi làng ở bìa rừng và phía tây Thị trấn Hồ, đã biến mất không một dấu vết. Bạn sẽ mạo hiểm với những nguy hiểm chưa biết để tìm và giải cứu những thanh niên mất tích trong Attercop Attack?
 
-Một thương gia có trụ sở tại thị trấn Lake đã bị mất một đoàn lữ hành vào tay lũ Troll dọc theo Men-i-Naugrim. Bạn sẽ đối mặt với Tereg đáng sợ để lấy lại hàng hóa của Master Eolsen và khám phá số phận của những người làm thuê của ông ta trong Trouble With Trolls chứ?
+Một thương gia ở thị trấn Lake đã bị mất một đoàn lữ hành Troll dọc theo Con Người-i-Naugrim. Bạn sẽ đối mặt với Tereg đáng sợ để lấy lại hàng hóa của Master Eolsen và khám phá số phận của những người làm thuê của hắn trong Trouble With Troll chứ?
 
-Một chiến binh Beorning đã biết được về việc dâng phần mười cho Necromancer từ tên Orc cuối cùng mà ông ta đã giết khi du hành qua Mirkwood. Bạn sẽ đi cùng Grimbold vào rừng để đánh cắp kho báu trước khi nó đi vào thành trì của Necromancer trong Chuyến tàu thập phân chứ?
+Một chiến binh Beorning đã biết về việc dâng phần mười cho Necromancer từ Orc cuối cùng mà ông ta đã giết khi đang du hành Mirkwood. Bạn sẽ đi cùng Grimbold vào rừng để đánh cắp kho báu trước khi nó đi vào thành trì của Necromancer trong Chuyến tàu thập phân chứ?
 
-Chiến đấu với Nhện khổng lồ, Quỷ khổng lồ, Orc của Fhahoz-Blogrum khi bạn tấn công Cư dân của Rừng Đen trong ba cuộc phiêu lưu thú vị này.
+Chiến đấu với lũ Nhện khổng lồ, Troll, Orc của Fhahoz-Blogrum khi bạn tấn công Cư dân của Rừng Đen trong ba cuộc phiêu lưu sắp kết thúc này.

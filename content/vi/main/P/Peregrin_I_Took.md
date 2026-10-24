@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Peregrin Took"
 ---
 
-Chuyển hướng tới [Peregrin Taken](Peregrin_Took.md).
+Chuyển hướng đến [Peregrin Took](Peregrin_Took.md).

@@ -17,25 +17,25 @@ langlinks:
     url: "https://kontu.wiki/Sis%C3%A4meret"
 ---
 
-**Biển Nội** là một khái niệm đề cập đến các vùng nước khác nhau ở các Thời đại khác nhau của [Arda](../A/Arda.md).
+**Biển Nội** là một khái niệm đề cập đến các vùng nước khác nhau ở Kỷ nguyên khác nhau của [Arda](../A/Arda.md).
 
-## Biển Nội vào thời kỳ sớm nhất của Arda {#Inner_Seas_in_the_earliest_times_of_Arda}
+## Biển Nội vào thời kỳ sớm nhất Arda {#Inner_Seas_in_the_earliest_times_of_Arda}
 
-Vào thời kỳ đầu của Arda, Biển Nội đề cập đến [Belegaer](../B/Belegaer.md) và [Biển Đông](../E/East_Sea.md), các đại dương nằm giữa hai lục địa bên ngoài ([Aman](../A/Aman.md) ở phía Tây và [Vùng đất của Mặt trời](../L/Land_of_the_Sun.md) ở phía Đông) và [Trung Địa](../M/Middle-earth.md), trái ngược với [Biển Ngoài](../O/Outer_Sea.md) kéo dài từ rìa tới tận cùng phía bên kia của Arda.
+Ngay từ đầu Arda, Biển Nội đã đề cập đến [Belegaer](../B/Belegaer.md) và [phương Đông Biển](../E/East_Sea.md), các đại dương giữa hai lục địa bên ngoài ([Aman](../A/Aman.md) ở Phương Tây và [Vùng đất của Mặt Trời](../L/Land_of_the_Sun.md) ở phương Đông) và [Trung Địa](../M/Middle-earth.md) riêng biệt, trái ngược với [Bên ngoài Biển](../O/Outer_Sea.md) mở rộng từ các cạnh tới cạnh dưới của Arda.
 
-Khi [Ulmo](../U/Ulmo.md) đến Arda cùng với [Maiar](../M/Maiar.md) của mình, ông ta đã trao cho [Ossë](../O/Ossë.md) và [Uinen](../U/Uinen.md) "quyền cai trị sóng biển và sự chuyển động của Biển Nội", trong khi cá nhân ông ta cư trú ở Biển Ngoài.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Khi [Ulmo](../U/Ulmo.md) đến Arda cùng với [Maiar](../M/Maiar.md) của mình, ông ta đã trao cho [Ossë](../O/Ossë.md) và [Uinen](../U/Uinen.md) "sự cai trị của sóng và sự chuyển động của Biển Nội", trong khi cá nhân ông ta cư trú ở Ngoại Biển.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Ở [Ambarkanta](../A/Ambarkanta.md), Biển Nội, hay "biển cổ", được mô tả là nằm "trong vùng trũng" giữa lục địa trung tâm với vùng đất phía tây và phía đông, và nước của chúng chỉ tràn vào vực sâu ở phía bắc và phía nam, nơi chúng không có bờ.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-## Biển nội ở Kỷ thứ hai {#Inner_seas_in_the_Second_Age}
+## Các vùng biển nội địa ở Kỷ Đệ Nhị {#Inner_seas_in_the_Second_Age}
 
-Khi [Dúnedain](../D/Dúnedain.md) không thể đi quá xa về phía Tây từ [Númenor](../N/Númenor.md) do [Lệnh cấm của các Valar](../B/Ban_of_the_Valar.md), họ đi thuyền về phía đông từ bóng tối của miền Bắc đến cái nóng của miền Nam, vượt qua miền Nam đến Bóng tối Nether và cuối cùng họ "thậm chí đã đi vào vùng biển bên trong, đi thuyền quanh Trung Địa và nhìn thoáng qua [Cổng của Buổi sáng](../G/Gates_of_Morning.md) ở miền Đông".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Khi [Dúnedain](../D/Dúnedain.md) không thể đi quá xa đến Phương Tây từ [Númenor](../N/Númenor.md) vì [Lệnh cấm của Valar](../B/Ban_of_the_Valar.md), họ đi thuyền về phía đông từ bóng tối của miền Bắc đến cái nóng của miền Nam, vượt qua miền Nam đến Nether Bóng Tối và cuối cùng họ "đi vào vùng biển bên trong, đi thuyền khoảng Trung Địa và nhìn thoáng qua [Cổng bình minh](../G/Gates_of_Morning.md) từ mũi tàu cao của mình phương Đông".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Những "vùng biển bên trong" này đã được *from* Belegaer tiếp cận và do đó chắc chắn phải ám chỉ đến một thứ gì đó khác ngoài Biển Nội vĩ đại vào thời kỳ đầu của những ngày đầu.
+Những "biển nội địa" này đã đạt tới *from* Belegaer và do đó chắc chắn phải ám chỉ một thứ gì đó khác ngoài Biển Nội vĩ đại vào thời kỳ đầu của những ngày đầu.
 
-Câu trả lời có thể được tìm thấy từ [Bản đồ Ambarkanta V](../A/Ambarkanta_maps.md) mô tả địa lý của Arda sau sự tàn phá của [Những ngọn đèn của Valar](../L/Lamps_of_the_Valar.md):<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> ở những nơi mà những Ngọn đèn đứng, hai vùng nước lớn đã hình thành, "Biển nội địa" hay [Biển Helcar](../S/Sea_of_Helcar.md) ở phía Bắc và "Biển Đông" ở phía Nam. Biển Đông, ở phía nam là [Vùng đất tối](../D/Dark_Land.md), cung cấp một tuyến đường từ Belegaer đến đại dương phía đông – còn được đặt tên là [Biển Đông](../E/East_Sea.md), trong Bản đồ Ambarkanta IV.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Câu trả lời có thể được tìm thấy từ [Ambarkanta Bản đồ V](../A/Ambarkanta_maps.md) mô tả địa lý của Arda sau khi [Những ngọn đèn của Valar](../L/Lamps_of_the_Valar.md) bị phá hủy:<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> ở những nơi mà những Ngọn đèn đứng, hai khối nước lớn đã hình thành, "Inland Biển" hay [Biển Helcar](../S/Sea_of_Helcar.md) ở phía Bắc và "phương Đông Biển" ở miền Nam. phương Đông Biển, ở phía nam là [Vùng đất tối](../D/Dark_Land.md), cung cấp một tuyến đường từ Belegaer đến đại dương phía đông – còn được đặt tên là [phương Đông Biển](../E/East_Sea.md), trong Ambarkanta Bản đồ IV.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
-Lưu ý rằng "Biển Đông" trong Bản đồ Ambarkanta V được [Karen Wynn Fonstad](../K/Karen_Wynn_Fonstad.md) đặt tên là "Biển Nội" trong bản đồ mô tả các chuyến đi của người Dúnedain vào Thời đại thứ hai, rõ ràng là dựa trên việc đề cập đến trong *[Akallabêth](../A/Akallabêth.md)* và bỏ qua cái tên mà chính Tolkien đặt cho biển.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Lưu ý rằng "phương Đông Biển" của Ambarkanta Bản đồ V được [Karen Wynn Fonstad](../K/Karen_Wynn_Fonstad.md) đặt tên là "Biển Nội" trong bản đồ mô tả các chuyến đi của Dúnedain trong Kỷ Đệ Nhị, rõ ràng là dựa trên việc đề cập đến trong *[Akallabêth](../A/Akallabêth.md)* và bỏ qua cái tên Tolkien mà chính ông ta đặt cho biển.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 <span></span>
 

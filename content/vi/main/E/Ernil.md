@@ -19,7 +19,7 @@ categories:
 
 Có lẽ bao gồm <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Arn&amp;action=edit&amp;redlink=1" title="Arn (page does not exist)">arn</a></i> "cao quý" và phần kết thúc *[-il](../_/-il.md)*.
 
-Dạng [Sindarin cổ](../O/Old_Sindarin.md) có thể có có thể là \**arnillo*.
+Biểu mẫu [Old Sindarin](../O/Old_Sindarin.md) có thể có thể là \**arnillo*.
 
 ## Ví dụ {#Examples}
 

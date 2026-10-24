@@ -27,11 +27,11 @@ langlinks:
 
 Trong khi *heather* là một yếu tố xuất hiện trong họ ngoài đời thực ở Anh, Heathertoes không có từ tương đương trong tiếng Anh.
 
-Tolkien gợi ý rằng cái tên này ám chỉ một trò đùa của [Dân gian lớn](../B/Big_Folk.md) dành cho [Dân gian nhỏ](../L/Little_Folk.md), những người đi bộ không mang ủng và nhặt cây thạch nam, cành cây và lá giữa các ngón chân của mình.<sup id="cite_ref-Nomen_1-0" class="reference"><a href="#cite_note-Nomen-1">[1]</a></sup> Cái tên <a class="new" href="https://tolkiengateway.net/w/index.php?title=%22Pickthorn%22&amp;action=edit&amp;redlink=1" title="&#34;Pickthorn&#34; (page does not exist)">"Pickthorn"</a> có thể được giải thích là một trò đùa tương tự, có nghĩa là những người Hobbit chân trần sẽ liên tục nhặt gai ra khỏi chân họ. Nhưng "Tom Pickthorn bé nhỏ đến từ bên kia ngọn đồi" cũng được mô tả trong "Homeward Bound" là một Người đàn ông bị giết khi chiến đấu với bọn côn đồ.
+Tolkien gợi ý rằng cái tên này ám chỉ một trò đùa của [Dân gian lớn](../B/Big_Folk.md) dành cho [Dân gian nhỏ](../L/Little_Folk.md), những người đi bộ không mang giày và nhặt cây thạch thảo, cành cây và lá giữa các ngón chân của mình.<sup id="cite_ref-Nomen_1-0" class="reference"><a href="#cite_note-Nomen-1">[1]</a></sup> Cái tên <a class="new" href="https://tolkiengateway.net/w/index.php?title=%22Pickthorn%22&amp;action=edit&amp;redlink=1" title="&#34;Pickthorn&#34; (page does not exist)">"Pickthorn"</a> có thể được giải thích như một trò đùa tương tự, nghĩa là chân trần Hobbit sẽ liên tục nhặt gai ra khỏi chân họ. Nhưng "Tom Pickthorn bé nhỏ đến từ bên kia ngọn đồi" cũng được mô tả trong "Homeward Bound" là một Người đàn ông bị giết khi chiến đấu với bọn côn đồ.
 
-## Đàn ông hay người Hobbit? {#Men_or_Hobbits?}
+## Con Người hay Hobbit? {#Men_or_Hobbits?}
 
-Từ nguyên trên ngụ ý rằng "Heathertoes" là tên được Con người đặt cho người Hobbit. Tuy nhiên, trong câu chuyện, cái tên này được liệt kê trong số những cái tên được sử dụng bởi [Đàn ông](../M/Men.md),<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và [Mat Heathertoes](../M/Mat_Heathertoes.md), những người được coi là một trong những nạn nhân của Bree trong cuộc chiến ở đó, được liệt kê trong số Đàn ông chứ không phải Người Hobbit.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Từ nguyên trên ngụ ý rằng "Heathertoes" là tên được đặt cho Hobbit bởi Con Người. Tuy nhiên, trong câu chuyện, cái tên được liệt kê trong số những cái tên được sử dụng bởi [Con Người](../M/Men.md),<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và [Mat Heathertoes](../M/Mat_Heathertoes.md), những người được coi là một trong những nạn nhân của Bree khi giao tranh ở đó, được liệt kê trong số Con Người chứ không phải Hobbit.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

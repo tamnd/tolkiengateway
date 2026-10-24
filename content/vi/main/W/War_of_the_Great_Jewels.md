@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Battles of Beleriand"
 ---
 
-Chuyển hướng tới [Trận chiến Beleriand](../B/Battles_of_Beleriand.md).
+Chuyển hướng đến [Trận chiến Beleriand](../B/Battles_of_Beleriand.md).

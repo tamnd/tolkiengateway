@@ -35,7 +35,7 @@ infobox:
   <tr><th scope="row" class="tg-infobox-label">Subject(s)</th><td class="tg-infobox-data"><a href="../N/Narsil.md" title="Narsil">Narsil</a>, <a href="../R/Rivendell.md" title="Rivendell">Rivendell</a>, <a href="../C/Council_of_Elrond.md" title="Council of Elrond">Council of Elrond</a>, <a class="mw-redirect" href="../M/Morgul-spells.md" title="Morgul-spells">Morgul-spells</a>, <a class="new" href="https://tolkiengateway.net/w/index.php?title=Doom&amp;action=edit&amp;redlink=1" title="Doom (page does not exist)">Doom</a>, <a class="mw-redirect" href="../O/One_Ring.md" title="One Ring">One Ring</a>, <a href="../H/Hobbits.md" title="Hobbits">Hobbits</a></td></tr>
 </tbody></table>
 
-"**Tìm kiếm thanh kiếm bị gãy:**" là [vần điệu](../P/Poems_in_The_Lord_of_the_Rings.md) xuất hiện trong giấc mơ của [Faramir](../F/Faramir.md) và sau đó là anh trai [Boromir](../B/Boromir.md).<sup id="cite_ref-poem_1-0" class="reference"><a href="#cite_note-poem-1">[1]</a></sup>
+"**Tìm kiếm đã gãy:**" là một [vần điệu](../P/Poems_in_The_Lord_of_the_Rings.md) xuất hiện trong giấc mơ của [Faramir](../F/Faramir.md) và sau này là anh trai của anh [Boromir](../B/Boromir.md).<sup id="cite_ref-poem_1-0" class="reference"><a href="#cite_note-poem-1">[1]</a></sup>
 
 ## Trích đoạn thơ {#Poem_excerpt}
 
@@ -51,11 +51,11 @@ infobox:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Anke_Eißmann_-_After_the_dream.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/d9/Anke_Ei%C3%9Fmann_-_After_the_dream.jpg/300px-Anke_Ei%C3%9Fmann_-_After_the_dream.jpg" decoding="async" loading="lazy" width="300" height="172" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/d9/Anke_Ei%C3%9Fmann_-_After_the_dream.jpg/450px-Anke_Ei%C3%9Fmann_-_After_the_dream.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/d/d9/Anke_Ei%C3%9Fmann_-_After_the_dream.jpg/600px-Anke_Ei%C3%9Fmann_-_After_the_dream.jpg 2x" data-file-width="838" data-file-height="480"/></a><figcaption><i>After the dream</i> by <a href="../A/Anke_Eißmann.md" title="Anke Eißmann">Anke Eißmann</a></figcaption></figure>
 
-Khi Faramir có giấc mơ, anh đã không nói về nó. Ông lại mơ thấy hai lần, và anh trai ông đã mơ một lần. Không biết chính xác "Doom" và "Isildur's Tai ương" ám chỉ điều gì, cũng như "Imladris" ở đâu. [cha](../D/Denethor.md) của họ nói với Boromir rằng Imladris là nơi Chúa [Elrond](../E/Elrond.md) cư ngụ, và con đường quá nguy hiểm, Boromir đã tự mình đi theo chỉ dẫn này.<sup id="cite_ref-poem_1-2" class="reference"><a href="#cite_note-poem-1">[1]</a></sup>
+Khi Faramir có giấc mơ, ông không nói về nó. Ông lại mơ thấy hai lần, và anh trai ông đã mơ một lần. Không biết chính xác "Doom" và "Isildur's Tai ương" ám chỉ điều gì, cũng như "Imladris" ở đâu. [Cha](../D/Denethor.md) của họ nói với Boromir rằng Imladris là nơi Chúa [Elrond](../E/Elrond.md) cư ngụ, và con đường quá nguy hiểm nên Boromir đã tự mình đi theo chỉ dẫn này.<sup id="cite_ref-poem_1-2" class="reference"><a href="#cite_note-poem-1">[1]</a></sup>
 
 ## Nền {#Background}
 
-Trong bản phác thảo sơ bộ về Hội đồng Elrond được viết vào [tháng 8](../A/August.md) năm [1940](../_/1940.md), những từ sau đây ám chỉ bài thơ:<sup id="cite_ref-treason_2-0" class="reference"><a href="#cite_note-treason-2">[2]</a></sup>
+Trong dàn ý thô của Hội đồng Elrond viết vào tháng [tháng 8](../A/August.md) của [1940](../_/1940.md), những từ sau đây ám chỉ bài thơ:<sup id="cite_ref-treason_2-0" class="reference"><a href="#cite_note-treason-2">[2]</a></sup>
 
 <blockquote class="tg-quote noexcerpt">
 <p>Prophecies had been spoken. The Broken Sword should be reforged. Our wise men said the Broken Sword was in Rivendell.
@@ -63,13 +63,13 @@ Trong bản phác thảo sơ bộ về Hội đồng Elrond được viết vào
 <p class="tg-quote-footer"><cite>Boromir at the <a href="../C/Council_of_Elrond.md" title="Council of Elrond">Council of Elrond</a><sup id="cite_ref-treason_2-1" class="reference"><a href="#cite_note-treason-2">[2]</a></sup></cite></p>
 </blockquote>
 
-Hình thức sớm nhất của "câu thơ trong mơ" đã bị mất cùng với trang chứa nó. Vì vậy, không thể biết bài thơ [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết lần đầu tiên vào lúc nào.<sup id="cite_ref-treason_2-2" class="reference"><a href="#cite_note-treason-2">[2]</a></sup>
+Hình thức sớm nhất của "câu thơ trong mơ" đã bị mất cùng với trang chứa nó. Vì thế không thể biết bài thơ [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết lần đầu tiên vào lúc nào.<sup id="cite_ref-treason_2-2" class="reference"><a href="#cite_note-treason-2">[2]</a></sup>
 
-Vào [tháng 9](September.md) năm [2024](../_/2024.md), bài thơ được tái bản ở gần cuối [mục 156](../R/Riddle_of_Strider.md) ở *[The Collected Poems of J.R.R. Tolkien](../T/The_Collected_Poems_of_J.R.R._Tolkien.md)*.<sup id="cite_ref-collectedpoems_3-0" class="reference"><a href="#cite_note-collectedpoems-3">[3]</a></sup>
+Trong [tháng Chín](September.md) của [2024](../_/2024.md), bài thơ được in lại ở gần cuối [mục 156](../R/Riddle_of_Strider.md) trong *[The Collected Poems of J.R.R. Tolkien](../T/The_Collected_Poems_of_J.R.R._Tolkien.md)*.<sup id="cite_ref-collectedpoems_3-0" class="reference"><a href="#cite_note-collectedpoems-3">[3]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1981: <i><a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)">Chúa tể của những chiếc nhẫn</a></i>:</b>
+<b>1981: <i><a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)">The Lord of the Rings</a></i>:</b>
 
 <dl><dd>The song is sung by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Matthew_Vine&amp;action=edit&amp;redlink=1" title="Matthew Vine (page does not exist)">Matthew Vine</a> in a high-pitched voice at the Council of Elrond. It is the reason for Boromir&#39;s coming to Rivendell, and it is explained by <a href="../A/Aragorn.md" title="Aragorn">Aragorn</a>, <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> and <a href="../E/Elrond.md" title="Elrond">Elrond</a>.</dd></dl>
 

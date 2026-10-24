@@ -31,7 +31,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien đã đóng góp một bài thơ bằng tiếng Anglo-Saxon cho tạp chí *Shenandoah* như một phần của <a class="extiw" href="http://en.wikipedia.org/wiki/festschrift" title="wikipedia:festschrift">festschrift</a> nhân dịp sinh nhật lần thứ sáu mươi của [Auden](../W/W.H._Auden.md). Auden ca ngợi bài thơ này và bài "[The Sea-Bell](../T/The_Sea-Bell.md)" ("[Frodo's](../F/Frodo_Baggins.md) Dreme" của Tolkien). Tolkien rất vui trước bức thư của Auden và vô cùng vui mừng trước sự vui mừng và khen ngợi của Auden dành cho hai bài thơ. Ông cũng cảm ơn Auden vì nỗ lực của ông trong *The Song of the Sibyl*<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> và hy vọng gửi cho Auden nỗ lực của ông nhằm thống nhất các quan điểm về Völsungs mà ông đã làm nhiều năm trước.
+Tolkien đã đóng góp một bài thơ trên Anglo-Saxon cho tạp chí *Shenandoah* như một phần của <a class="extiw" href="http://en.wikipedia.org/wiki/festschrift" title="wikipedia:festschrift">festschrift</a> nhân dịp sinh nhật lần thứ sáu mươi của [Auden](../W/W.H._Auden.md). Auden khen ngợi bài thơ này và bài "[The Biển-Bell](../T/The_Sea-Bell.md)" ("[Frodo's](../F/Frodo_Baggins.md) Dreme" của Tolkien. Tolkien rất vui mừng trước lá thư của Auden và vô cùng vui mừng trước sự vui mừng và khen ngợi của Auden dành cho hai bài thơ. Ông cũng cảm ơn Auden vì nỗ lực của ông trong *The Song of the Sibyl*<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> và hy vọng gửi cho Auden nỗ lực của ông nhằm thống nhất các quan điểm về Völsungs mà ông đã làm nhiều năm trước.
 
 ## Lưu ý {#Note}
 

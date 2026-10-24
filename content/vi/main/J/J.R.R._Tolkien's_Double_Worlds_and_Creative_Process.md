@@ -41,8 +41,8 @@ Thế giới kép và quá trình sáng tạo của <i><b>J.R.R. Tolkien</b></i>
 - Cuộc gặp gỡ đầu tiên của chúng ta
 - Ngôn ngữ
 - Như tia chớp từ bầu trời trong xanh
-- Thế giới kép của Tolkien
-- Trung địa
+Thế giới kép của - Tolkien
+- Trung Địa
 - Từ Bloemfontein đến Birmingham
 - Từ Sarehole đến Shire
 - Một đứa trẻ mồ côi thích đọc sách
@@ -64,7 +64,7 @@ Thế giới kép và quá trình sáng tạo của <i><b>J.R.R. Tolkien</b></i>
 
 ## Từ nhà xuất bản {#From_the_publisher}
 
-Là đồng nghiệp thân thiết của J.R.R. Tolkein \[sic\] trong nhiều năm, Arne Zettersten đưa ra ở đây một phân tích mang tính cá nhân về tiểu thuyết giả tưởng có hình ảnh mạnh mẽ của Tolkien. Dựa trên kinh nghiệm sống khác thường và sự nhiệt tình nghiên cứu ngôn ngữ của Tolkein, Zettersten nhận thấy trong tiểu thuyết của Tolkein có cùng niềm đam mê sống động đã thúc đẩy tác giả vĩ đại đó khi còn trẻ, một người lính, một nhà ngôn ngữ học và một Oxford Don.
+Là đồng nghiệp thân thiết của J.R.R. Tolkein \[sic\] trong nhiều năm, Arne Zettersten đưa ra ở đây một phân tích mang tính cá nhân về tiểu thuyết giả tưởng trực quan mạnh mẽ của Tolkien. Dựa trên kinh nghiệm sống khác thường và sự nhiệt tình nghiên cứu ngôn ngữ của Tolkein, Zettersten tìm thấy trong tiểu thuyết của Tolkein những niềm đam mê sống động giống như đã thúc đẩy tác giả vĩ đại đó khi còn là một thanh niên, một người lính, một nhà ngôn ngữ học và một Oxford Don.
 
 ## Liên kết ngoài {#External_links}
 

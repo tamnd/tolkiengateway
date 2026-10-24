@@ -43,13 +43,13 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../G/Guest-elves.md" title="Guest-elves">Guest-elf</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Ithilbor</span></th></tr><tr><th colspan="2" class="tg-infobox-subtitle"><span><span class="tg-tengwar tg-tengwar--tengwar_telcontar"></span></span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Position</th><td class="tg-infobox-data">Chief of the <a href="../G/Guest-elves.md" title="Guest-elves">Guest-elves</a></td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../D/Doriath.md" title="Doriath">Doriath</a></td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data"><a href="../S/Sindarin.md" title="Sindarin">Sindarin</a></td></tr><tr><th scope="row" class="tg-infobox-label">Birth</th><td class="tg-infobox-data"><a href="../F/First_Age.md" title="First Age">First Age</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">Children</th><td class="tg-infobox-data"><a href="../S/Saeros.md" title="Saeros">Saeros</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr></tbody></table>
 
-**Ithilbor** là thủ lĩnh của [Yêu tinh khách](../G/Guest-elves.md) và là thành viên trong hội đồng của [Thingol](../T/Thingol.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Ithilbor** là trưởng nhóm [Guest-Tiên tộc](../G/Guest-elves.md) và là thành viên hội đồng của [Thingol](../T/Thingol.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Không có thông tin nào khác về ông ta, ngoại trừ việc ông ta là cha của [Saeros](../S/Saeros.md), một Yêu tinh xanh của [Arthórien](../A/Arthórien.md) người đã cư trú lâu dài tại triều đình của Thingol ở [Menegroth](../M/Menegroth.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Không có thông tin nào khác về ông ta, ngoại trừ việc ông ta là cha của [Saeros](../S/Saeros.md), Green-Tiên của [Arthórien](../A/Arthórien.md), người đã cư trú lâu dài tại tòa án của Thingol ở [Menegroth](../M/Menegroth.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Tên của ông ta không được giải thích nhưng dường như được tạo thành từ các từ [Sindarin](../S/Sindarin.md) *[Ithil](Ithil.md)* + *-[paur](../P/Paur.md)*, dịch là "Nắm đấm mặt trăng".
+Tên của ông ta không được giải thích nhưng dường như được tạo thành từ các từ [Sindarin](../S/Sindarin.md) *[Ithil](Ithil.md)* + *-[paur](../P/Paur.md)*, dịch là "Mặt Trăng-nắm tay".
 
 ## Phả hệ {#Genealogy}
 

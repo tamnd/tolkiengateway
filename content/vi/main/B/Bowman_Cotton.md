@@ -54,7 +54,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-With his father and his brothers, Nick fought in the [Battle of Bywater](Battle_of_Bywater.md) against [Sharkey](../S/Saruman.md)'s [ruffians](../R/Ruffians.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Cùng với cha và các anh trai của mình, Nick đã chiến đấu trong [Trận Bywater](Battle_of_Bywater.md) chống lại [bọn côn đồ](../R/Ruffians.md) của [Sharkey](../S/Saruman.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
@@ -70,7 +70,7 @@ With his father and his brothers, Nick fought in the [Battle of Bywater](Battle_
 		</li>
 </ul>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Nick Cotton can be found on his family farm, working the soil alongside his brother Jolly. He plays no role in the storyline.</dd></dl>
 

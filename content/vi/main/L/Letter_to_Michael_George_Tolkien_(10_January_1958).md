@@ -22,8 +22,8 @@ images:
 
 Vào [10 tháng 1](../_/10_January.md) [1958](../_/1958.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) gửi [Michael George Tolkien](../M/Michael_George_Tolkien.md)**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-- **Tiêu đề:** Thư gửi nhân dịp sinh nhật 15 tuổi của Michael.
-- **Mô tả:** Chữ ký, thuôn dài 8vo. 1 trang. Văn phòng phẩm dạng thiệp của Tolkien có in tiêu đề của Merton.
+- **Tiêu đề:** Thư gửi nhân dịp sinh nhật lần thứ 15 của Michael.
+- **Mô tả:** Thư xin chữ ký, thuôn dài 8vo. 1 trang. Văn phòng phẩm đựng thư của Tolkien có in tiêu đề thư Merton.
 
 ## Phiên âm {#Transcription}
 

@@ -38,7 +38,7 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Ted_Nasmith_-_Lúthien.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/8/8d/Ted_Nasmith_-_L%C3%BAthien.jpg/200px-Ted_Nasmith_-_L%C3%BAthien.jpg" decoding="async" loading="lazy" width="200" height="315" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/8/8d/Ted_Nasmith_-_L%C3%BAthien.jpg 1.5x" data-file-width="286" data-file-height="450"/></a><figcaption><i><a href="Lúthien.md" title="Lúthien">Lúthien</a></i> by <a href="../T/Ted_Nasmith.md" title="Ted Nasmith">Ted Nasmith</a></figcaption></figure>
 
-[Canto](../C/Cantos_of_the_Lay_of_Leithian.md) này bắt đầu bằng câu chuyện về [Thingol](../T/Thingol.md) và [Melian](../M/Melian.md). Sau đó, nó mô tả về [Lúthien](Lúthien.md) con gái của họ và kể [Beren](../B/Beren.md) đã kinh ngạc nhìn như thế nào. [Dairon](../D/Dairon.md) cảnh báo Lúthien, cô trốn tránh nhưng Beren vô tình chạm vào cánh tay cô. Beren lại tìm kiếm, và nhiều tháng sau lại bắt được bà, đặt tên bà là Tinúviel. Dưới đây kể lại cuộc gặp gỡ thứ hai.
+[Canto](../C/Cantos_of_the_Lay_of_Leithian.md) này bắt đầu bằng câu chuyện của [Thingol](../T/Thingol.md) và [Melian](../M/Melian.md). Sau đó, nó đưa ra mô tả về [Lúthien](Lúthien.md) con gái của họ và cho biết [Beren](../B/Beren.md) đã theo dõi một cách kinh ngạc như thế nào. [Dairon](../D/Dairon.md) cảnh báo Lúthien, và bà trốn, nhưng Beren vô tình chạm vào cánh tay của bà. Beren lại tìm kiếm và nhiều tháng sau lại bắt gặp bà, đặt tên bà là Tinúviel. Dưới đây kể lại cuộc gặp gỡ thứ hai.
 
 ## Về Canto {#Concerning_the_Canto}
 
@@ -51,7 +51,7 @@ the birds of Melian were singing
 <p class="tg-quote-footer"><cite>vv. 409-410</cite></p>
 </blockquote>
 
-Nó kể về cuộc gặp gỡ và tình yêu của Thingol và Melian, phản ánh một cách nào đó cuộc gặp gỡ và tình yêu trong tương lai của Beren và Lúthien; một yêu tinh thành [maia](../M/Maia.md), người còn lại thành yêu tinh.
+Nó kể về cuộc gặp gỡ và tình yêu của Thingol và Melian, phản ánh một cách nào đó cuộc gặp gỡ và tình yêu của Beren and Lúthien trong tương lai; một người Tiên tới [maia](../M/Maia.md), người còn lại đến Tiên.
 
 <blockquote class="tg-quote noexcerpt">
 <p>There after but an hour, him seems,<br/>
@@ -66,7 +66,7 @@ and dark the years rolled o&#39;er his sleep.
 <p class="tg-quote-footer"><cite>vv. 445-452</cite></p>
 </blockquote>
 
-Canto này cũng bao gồm đoạn văn ngắn về các nghệ sĩ hát rong: Tinfang Gelion, Maglor và Dairon, đoạn đầu tiên chỉ dành vị trí này cho ông ta trong tất cả các tác phẩm đã biết của [Tolkien](../J/J.R.R._Tolkien.md).
+Canto này cũng bao gồm đoạn văn ngắn về các nghệ sĩ hát rong: Tinfang Gelion, Maglor, và Dairon, đoạn đầu tiên chỉ dành vị trí này cho ông trong tất cả các tác phẩm đã biết của [Tolkien](../J/J.R.R._Tolkien.md).
 
 <blockquote class="tg-quote noexcerpt">
 <p><a class="mw-redirect" href="../T/Tinfang.md" title="Tinfang">Tinfang Gelion</a> who still the moon<br/>
@@ -81,7 +81,7 @@ and Dairon, mightiest of the three.
 <p class="tg-quote-footer"><cite>vv. 503-510</cite></p>
 </blockquote>
 
-Sự kết hợp giữa nỗi buồn và hạnh phúc của Beren và cuộc chạy trốn của Lúthien được thể hiện, và cuối cùng khi anh bắt gặp cô trong mô tả sống động về điệu nhảy của cô, nó đã lên đến đỉnh điểm.
+Sự kết hợp giữa nỗi buồn và hạnh phúc của Beren và cuộc chạy trốn của Lúthien được thể hiện, và cuối cùng khi anh bắt gặp bà trong mô tả sống động về điệu nhảy của bà, nó đã lên đến đỉnh điểm.
 
 <blockquote class="tg-quote noexcerpt">
 <p>&#39;Tinúviel! Tinúviel!&#39;<br/>
@@ -94,7 +94,7 @@ and caught and kissed that elfin maid.
 <p class="tg-quote-footer"><cite>vv. 740-745</cite></p>
 </blockquote>
 
-Sau đó là một đoạn không giống với phần còn lại của Lay, trừ khi đó là những suy nghĩ thương hại của Thingol đối với Lúthien; một kiểu tiếng kêu của nhà thơ gửi đến người mà ông ta viết về, hỏi bà tại sao lại nhận lấy sự diệt vong của mình và để lại sự bất tử cho loài yêu tinh.
+Sau đó là một đoạn không giống với phần còn lại của Lay, trừ khi đó là suy nghĩ thương hại Lúthien của Thingol; một kiểu tiếng kêu của nhà thơ gửi đến người mà ông ta viết về, hỏi bà tại sao lại nhận lấy sự diệt vong của mình và để lại sự bất tử cho loài yêu tinh.
 
 <blockquote class="tg-quote noexcerpt">
 <p>A! Lúthien! A! Lúthien!<br/>

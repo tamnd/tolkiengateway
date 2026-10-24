@@ -29,7 +29,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-[Ace Books](../A/Ace_Books.md) đã viết thư cho Unwin với đề xuất về Giải thưởng Tolkien hàng năm được tài trợ bởi tiền bản quyền nếu Tolkien không thể nhận tiền bản quyền từ nhà xuất bản khác. Tolkien cho biết ông không quan tâm đến việc thành lập giải thưởng. Ông cũng nhận xét rằng Ace Books có vẻ rất quan tâm đến việc thay đổi danh tiếng của họ trong cộng đồng khoa học viễn tưởng. Ông ta châm biếm về việc một tên cướp biển yêu cầu thuyền trưởng cho những thủy thủ nghèo chứa chiến lợi phẩm của tên cướp biển.
+[Ace Books](../A/Ace_Books.md) đã viết thư cho Unwin với đề xuất về Giải thưởng Tolkien hàng năm được tài trợ bởi tiền bản quyền nếu Tolkien không thể chấp nhận tiền bản quyền từ nhà xuất bản khác. Tolkien cho biết ông ta không quan tâm đến việc thành lập giải thưởng. Ông cũng nhận xét rằng Ace Books có vẻ rất quan tâm đến việc thay đổi danh tiếng của họ trong cộng đồng khoa học viễn tưởng. Ông ta châm biếm về việc một tên cướp biển yêu cầu thuyền trưởng cho những thủy thủ nghèo chứa chiến lợi phẩm của tên cướp biển.
 
 <br>
 

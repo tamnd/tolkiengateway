@@ -21,7 +21,7 @@ langlinks:
     url: "https://kontu.wiki/Torhir_Ifant"
 ---
 
-**Torhir Ifant** đã viết *[Dorgannas Iaur](../D/Dorgannas_Iaur.md)*, một cuốn sách truyền thuyết về các vương quốc của [Beleriand](../B/Beleriand.md). Không có thông tin nào khác về nhân vật này.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Torhir Ifant** đã viết *[Dorgannas Iaur](../D/Dorgannas_Iaur.md)*, một cuốn sách truyền thuyết về các vương quốc [Beleriand](../B/Beleriand.md). Không có thông tin nào khác về nhân vật này.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

@@ -52,19 +52,19 @@ infobox:
 <p class="tg-quote-footer"><cite><a href="../T/Treebeard.md" title="Treebeard">Treebeard</a> in <i><a href="../T/The_Two_Towers.md" title="The Two Towers">The Two Towers</a></i>, &#34;<a href="../T/Treebeard_(chapter).md" title="Treebeard (chapter)">Treebeard</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Nửa Orc** nằm trong số những người hầu của [Saruman](../S/Saruman.md) vào cuối [Thời đại thứ ba](../T/Third_Age.md).<sup id="cite_ref-TTIII9_3-0" class="reference"><a href="#cite_note-TTIII9-3">[3]</a></sup>
+**Nửa Orc** nằm trong số những người hầu của [Saruman](../S/Saruman.md) vào cuối [Kỷ Đệ Tam](../T/Third_Age.md).<sup id="cite_ref-TTIII9_3-0" class="reference"><a href="#cite_note-TTIII9-3">[3]</a></sup>
 
-Những người hầu của Saruman cũng bao gồm những sinh vật được gọi là [Yêu tinh](../G/Goblin-men.md) có vẻ như pha trộn các đặc điểm của [Đàn ông](../M/Men.md) và [Orc](../O/Orcs.md), nhưng chúng là một giống khác.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Những người hầu của Saruman cũng bao gồm những sinh vật được gọi là [Người yêu tinh](../G/Goblin-men.md) có vẻ như pha trộn các đặc điểm của [Con Người](../M/Men.md) và [Orc](../O/Orcs.md), nhưng chúng là một giống khác.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Lịch sử {#History}
 
-Nguồn gốc và bản chất của nửa orc vẫn chưa được biết. Vào [Thời đại thứ ba](../T/Third_Age.md), rõ ràng Saruman đã học được rằng có thể giao phối [Con người](../M/Men.md) với Orc. Vì vậy, ông đã tạo ra những nửa Orc và yêu tinh phục vụ ông. Không giống như loài Orc thông thường, loài nửa Orc hoàn toàn không bị ảnh hưởng bởi ánh sáng mặt trời.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Nguồn gốc và bản chất của nửa orc vẫn chưa được biết. Trong [Kỷ Đệ Tam](../T/Third_Age.md), rõ ràng Saruman đã biết rằng có thể kết hợp [Con Người](../M/Men.md) với Orc. Vì vậy, ông đã tạo ra những nửa Orc và yêu tinh phục vụ ông. Không giống như Orc bình thường, nửa orc hoàn toàn không bị ảnh hưởng bởi ánh sáng mặt trời.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 [Người miền Nam mắt lác](../S/Squint-eyed_southerner.md), một kẻ sống ngoài vòng pháp luật bị đuổi từ [Dunland](../D/Dunland.md) đến [Bree](../B/Bree.md) và phục tùng Saruman, có thể là một nửa orc.<sup id="cite_ref-Knife_2-1" class="reference"><a href="#cite_note-Knife-2">[2]</a></sup><sup id="cite_ref-UT10_6-0" class="reference"><a href="#cite_note-UT10-6">[6]</a></sup>
 
-Một nửa orc nằm trong số [Dunlending](../D/Dunlendings.md) đến dưới ngọn cờ [Bàn tay trắng](../W/White_Hand.md) của Saruman ở [Isengard](../I/Isengard.md).<sup id="cite_ref-TTIII9_3-1" class="reference"><a href="#cite_note-TTIII9-3">[3]</a></sup> Nhiều người được coi là những người hầu mạnh nhất của Saruman. Hầu hết các bán orc đều bỏ mạng trong [Trận chiến Hornburg](../B/Battle_of_the_Hornburg.md), trước các bức tường pháo đài hoặc bởi [Huorns](Huorns.md).
+Một nửa orc nằm trong số [Dunlending](../D/Dunlendings.md) đến với biểu ngữ [Bàn tay trắng](../W/White_Hand.md) của Saruman ở [Isengard](../I/Isengard.md).<sup id="cite_ref-TTIII9_3-1" class="reference"><a href="#cite_note-TTIII9-3">[3]</a></sup> Nhiều người được coi là những người hầu mạnh nhất của Saruman. Hầu hết các nửa orc đều bỏ mạng tại [Trận Hornburg](../B/Battle_of_the_Hornburg.md), trước các bức tường pháo đài hoặc trước [Huorn](Huorns.md).
 
-Sau đó, nhiều Half-orc khác theo [Saruman](../S/Saruman.md) đi lưu vong, và nằm trong số [Những tên côn đồ](../R/Ruffians.md) của hắn đã chiếm đóng [Shire](../T/The_Shire.md).<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+Sau đó, nhiều Half-orc khác cũng theo [Saruman](../S/Saruman.md) đi lưu vong, và nằm trong số [Ruffians](../R/Ruffians.md) của hắn đã chiếm đóng [ Shire](../T/The_Shire.md).<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
@@ -103,15 +103,15 @@ Về nguồn gốc của nửa orc, [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đ�
 		</li>
 </ul>
 
-<b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Nhập vai ở Trung Địa</a></i>:</b>
+<b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>:</b>
 
 <dl><dd>Half-orcs (Sindarin <i>Piryrch</i>, sing. <i>Perorch</i>) are a crossbeed between Men and Orcs, being a distinct race in their own. Game statistics are given for players choosing to be a Half-orc.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></dd></dl>
 
-<b>1995-8: <i><a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Trò chơi thẻ bài sưu tầm ở Trung Địa</a></i>:</b>
+<b>1995-8: <i><a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Trung Địa Trò chơi bài sưu tầm</a></i>:</b>
 
 <dl><dd>Half-orcs and Greater Half-orcs are Orc Factions, playable by Fallen Wizards.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></dd></dl>
 
-<b>2007-: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
+<b>2007-: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Half-orcs were categorized as one of the varieties of Orc-kind, along with Orcs, Goblins, <a href="Hobgoblins.md" title="Hobgoblins">Hobgoblins</a> and Uruks. Half-orc Bandits were found in the <a href="../L/Lone-lands.md" title="Lone-lands">Lone-lands</a>.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> They were affiliated with <a href="../S/Saruman.md" title="Saruman">Saruman</a> and could be found in almost every region he had influence in. His half-orcs in <a href="../E/Eriador.md" title="Eriador">Eriador</a> included many in <a href="../D/Dunland.md" title="Dunland">Dunland</a>, <a href="../E/Enedwaith.md" title="Enedwaith">Enedwaith</a>, <a href="../E/Eregion.md" title="Eregion">Eregion</a>, the Lone-lands, and <a href="../A/Andrath.md" title="Andrath">Andrath</a> in Bree-land. A small number of half-orcs could be found as far as Nan Gurth in <a href="../A/Angmar.md" title="Angmar">Angmar</a>. His half-orcs also could be found in <a href="../R/Rohan.md" title="Rohan">Rohan</a> as far east as the Sutcrofts in the <a href="../E/Eastemnet.md" title="Eastemnet">Eastemnet</a>.</dd></dl>
 

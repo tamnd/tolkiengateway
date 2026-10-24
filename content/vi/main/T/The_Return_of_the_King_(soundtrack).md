@@ -36,7 +36,7 @@ infobox:
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
-**The Return of the King** là ca khúc thứ mười bảy trong *[The Lord of the Rings: The Return of the King - Original Motion Picture Soundtrack](The_Lord_of_the_Rings%253A_The_Return_of_the_King_-_Original_Motion_Picture_Soundtrack.md)* của [Howard Shore](../H/Howard_Shore.md). Tác phẩm dài 10 phút 14 giây bao gồm phần lớn "nhiều kết thúc" của bộ phim ngoại trừ Grey Havens. Nổi bật là tài năng của Sir James Galway và Renée Flemming. Đối với phần Lễ đăng quang của Aragorn, [Viggo Mortensen](../V/Viggo_Mortensen.md) đã cung cấp giai điệu cho [lời](../E/Elendil's_Oath.md) của J.R.R. Tolkien:
+**The Return of the King** là ca khúc thứ mười bảy trong *[The Lord of the Rings: The Return of the King - Original Motion Picture Soundtrack](The_Lord_of_the_Rings%253A_The_Return_of_the_King_-_Original_Motion_Picture_Soundtrack.md)* của [Howard Shore](../H/Howard_Shore.md). Tác phẩm dài 10 phút 14 giây bao gồm phần lớn "nhiều kết thúc" của bộ phim ngoại trừ Cảng Xám. Nổi bật là tài năng của Sir James Galway và Renée Flemming. Đối với phần Đăng quang của Aragorn, [Viggo Mortensen](../V/Viggo_Mortensen.md) đã cung cấp giai điệu cho [lời](../E/Elendil's_Oath.md) của J.R.R. Tolkien:
 
 ## Lời bài hát {#Lyrics}
 

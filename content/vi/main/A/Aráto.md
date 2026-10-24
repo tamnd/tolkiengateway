@@ -15,7 +15,7 @@ sort_keys:
   "Quenya nouns": "Arato"
 ---
 
-<i><b>aráto</b></i> là danh từ [Quenya](../Q/Quenya.md) có nghĩa là "nhà vô địch, người đàn ông lỗi lạc"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> hoặc "một quý tộc, chúa tể, vua".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> So sánh với tiền tố *[ara](Ara.md)-*.
+<i><b>aráto</b></i> là danh từ [Quenya](../Q/Quenya.md) có nghĩa là "nhà vô địch, người đàn ông lỗi lạc"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> hoặc "quý tộc, chúa tể, vua".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> So sánh với tiền tố *[ara](Ara.md)-*.
 
 ## Ví dụ {#Examples}
 

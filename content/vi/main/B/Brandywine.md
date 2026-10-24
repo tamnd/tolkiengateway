@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Baranduin"
 ---
 
-Chuyển hướng tới [Baranduin](Baranduin.md).
+Chuyển hướng đến [Baranduin](Baranduin.md).

@@ -61,14 +61,14 @@ images:
 </div><div class="template-month__footer"><div class="tg-button"><a href="../J/January.md" title="January">Jan</a></div><div class="tg-button"><a href="../F/February.md" title="February">Feb</a></div><div class="tg-button"><a href="../M/March.md" title="March">Mar</a></div><div class="tg-button"><a href="../A/April.md" title="April">Apr</a></div><div class="tg-button"><a href="../M/May.md" title="May">May</a></div><div class="tg-button"><a href="../J/June.md" title="June">Jun</a></div><div class="tg-button"><a href="../J/July.md" title="July">Jul</a></div><div class="tg-button"><a href="../A/August.md" title="August">Aug</a></div><div class="tg-button"><a href="../S/September.md" title="September">Sep</a></div><div class="tg-button"><a href="../O/October.md" title="October">Oct</a></div><div class="tg-button"><a href="../N/November.md" title="November">Nov</a></div><div class="tg-button"><a href="../D/December.md" title="December">Dec</a></div></div>
 </div>
 
-Sự kiện xảy ra vào ngày 9 tháng 9.
+Sự kiện xảy ra vào ngày 9 tháng Chín.
 
 ## Trên Trái đất {#On_Earth}
 
-- **[1922](1922.md)** - Nghệ sĩ yêu thích của [Tolkien](../J/J.R.R._Tolkien.md), [Pauline Baynes](../P/Pauline_Baynes.md), đã ra đời.
-- **[1943](1943.md)** - Học giả nổi tiếng [Tom Shippey](../T/Tom_Shippey.md) ra đời.
+- **[1922](1922.md)** - Nghệ sĩ được [Tolkien](../J/J.R.R._Tolkien.md) yêu thích [Pauline Baynes](../P/Pauline_Baynes.md) ra đời.
+- **[1943](1943.md)** - Học giả danh tiếng [Tom Shippey](../T/Tom_Shippey.md) ra đời.
 - **[1954](1954.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 149](../L/Letter_149.md).
-- **[1954](1954.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư gửi Hiệu trưởng Đại học Liège](<../L/Letter_to_Liège_University_(9_September_1954).md>).
+- **[1954](1954.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư gửi Hiệu trưởng Trường Đại học Liège](<../L/Letter_to_Liège_University_(9_September_1954).md>).
 - **[2016](2016.md)** - [Oxonmoot 2016](../O/Oxonmoot_2016.md) tại <a class="external text" href="http://www.sant.ox.ac.uk" rel="noreferrer noopener" target="_blank">Đại học St Antony</a>.
 - **[2022](2022.md)** - Tập [Adar](<../A/Adar_(episode).md>) của *[The Lord of the Rings: The Rings of Power](../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)* được phát hành trực tuyến.
 - **[2023](2023.md)** - Diễn viên [Peter McKenzie](../P/Peter_McKenzie.md) qua đời.
@@ -76,5 +76,5 @@ Sự kiện xảy ra vào ngày 9 tháng 9.
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Gandalf](../G/Gandalf.md) bị [Saruman](../S/Saruman.md) giam giữ trên đỉnh [Orthanc](../O/Orthanc.md).
+    - [Gandalf](../G/Gandalf.md) bị giam giữ bởi [Saruman](../S/Saruman.md) trên đỉnh của [Orthanc](../O/Orthanc.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.

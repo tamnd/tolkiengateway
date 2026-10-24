@@ -42,7 +42,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/John_D._Rateliff.png.md"><img src="https://tolkiengateway.net/w/images/thumb/a/af/John_D._Rateliff.png/320px-John_D._Rateliff.png" decoding="async" loading="lazy" width="320" height="344" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/af/John_D._Rateliff.png/480px-John_D._Rateliff.png 1.5x, https://tolkiengateway.net/w/images/thumb/a/af/John_D._Rateliff.png/640px-John_D._Rateliff.png 2x" data-file-width="745" data-file-height="800"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>John D. Rateliff</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Born</th><td class="tg-infobox-data"><a href="../_/1958.md" title="1958">1958</a></td></tr><tr><th scope="row" class="tg-infobox-label">Education</th><td class="tg-infobox-data">Ph.D. at <a href="../M/Marquette_University.md" title="Marquette University">Marquette University</a></td></tr><tr><th scope="row" class="tg-infobox-label">Occupation</th><td class="tg-infobox-data">Author, editor</td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a class="extiw" href="http://en.wikipedia.org/wiki/Seattle_metropolitan_area" title="wikipedia:Seattle metropolitan area">Seattle area</a></td></tr><tr><th scope="row" class="tg-infobox-label">Website</th><td class="tg-infobox-data"><a class="external text" href="http://sacnoths.blogspot.com" rel="noreferrer noopener" target="_blank">Sacnoth&#39;s Scriptorium</a></td></tr></tbody></table>
 
-**John D. Rateliff** (b. [1958](../_/1958.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>) là một học giả [J.R.R. Tolkien](J.R.R._Tolkien.md), người trở nên nổi tiếng khi xuất bản *[The History of The Hobbit](../T/The_History_of_The_Hobbit.md)* trên [2007](../_/2007.md). Ông đã nhận bằng Tiến sĩ tại [Đại học Marquette](../M/Marquette_University.md) với luận án về <a class="extiw" href="http://en.wikipedia.org/wiki/Edward_Plunkett,_18th_Baron_of_Dunsany" title="wikipedia:Edward Plunkett, 18th Baron of Dunsany">Lord Dunsany</a>. Ông sống ở <a class="extiw" href="http://en.wikipedia.org/wiki/Seattle_metropolitan_area" title="wikipedia:Seattle metropolitan area">khu vực Seattle</a> và làm biên tập viên chuyên nghiệp.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**John D. Rateliff** (b. [1958](../_/1958.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>) là một học giả [J.R.R. Tolkien](J.R.R._Tolkien.md), người được nhiều người biết đến khi xuất bản *[The History of The Hobbit](../T/The_History_of_The_Hobbit.md)* trên [2007](../_/2007.md). Ông đã nhận bằng Tiến sĩ tại [Đại học Marquette](../M/Marquette_University.md) với luận văn về <a class="extiw" href="http://en.wikipedia.org/wiki/Edward_Plunkett,_18th_Baron_of_Dunsany" title="wikipedia:Edward Plunkett, 18th Baron of Dunsany">Lord Dunsany</a>. Ông sống ở <a class="extiw" href="http://en.wikipedia.org/wiki/Seattle_metropolitan_area" title="wikipedia:Seattle metropolitan area">khu vực Seattle</a> và làm biên tập viên chuyên nghiệp.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Thư mục {#Bibliography}
 
@@ -108,7 +108,7 @@ infobox:
 ## Giải thưởng {#Awards}
 
 - [2009](../_/2009.md) - **[Giải thưởng Thần thoại](../M/Mythopoeic_Society.md)**, Giải thưởng Học bổng Thần thoại cho Nghiên cứu về Huyền thoại, *[The History of The Hobbit Part I: Mr. Baggins](../M/Mr._Baggins.md)*
-- [2023](../_/2023.md): **[Giải thưởng của Hiệp hội Tolkien](../T/Tolkien_Society_Awards.md): Đóng góp xuất sắc**
+- [2023](../_/2023.md): **[Giải thưởng của Hội Tolkien](../T/Tolkien_Society_Awards.md): Đóng góp nổi bật**
 
 ## Xem thêm {#See_also}
 
@@ -117,12 +117,12 @@ infobox:
 ## Liên kết ngoài {#External_links}
 
 - <b><a class="external text" href="http://sacnoths.blogspot.com/" rel="noreferrer noopener" target="_blank">Sacnoth's Scriptorium (trang web chính thức)</a></b>
-- <a class="external text" href="https://www.youtube.com/watch?v=vFY534kSm90&amp;ab_channel=MarquetteU" rel="noreferrer noopener" target="_blank">"Làm thế nào <i>Người Hobbit</i> đến Milwaukee"</a>, bài nói chuyện tại [Đại học Marquette](../M/Marquette_University.md) năm 2012
+- <a class="external text" href="https://www.youtube.com/watch?v=vFY534kSm90&amp;ab_channel=MarquetteU" rel="noreferrer noopener" target="_blank">"Làm thế nào <i>The Hobbit</i> đến Milwaukee"</a>, buổi nói chuyện tại [Đại học Marquette](../M/Marquette_University.md) năm 2012
 
 ### Phỏng vấn {#Interviews}
 
 - <a class="external text" href="https://www.longwinded.one/episode-140-john-d-rateliff-doctor-of-fantasy/" rel="noreferrer noopener" target="_blank">John D. Rateliff, Tiến sĩ giả tưởng</a> tại Lognwinded.One
-- <a class="external text" href="http://middle-earth.xenite.org/2011/10/21/an-interview-with-john-rateliff/" rel="noreferrer noopener" target="_blank">Cuộc phỏng vấn với John Rateliff</a> tại <a class="external text" href="http://middle-earth.xenite.org/" rel="noreferrer noopener" target="_blank">Middle-earth.Xenite.Org</a>
+- <a class="external text" href="http://middle-earth.xenite.org/2011/10/21/an-interview-with-john-rateliff/" rel="noreferrer noopener" target="_blank">Phỏng vấn John Rateliff</a> tại <a class="external text" href="http://middle-earth.xenite.org/" rel="noreferrer noopener" target="_blank">Trung Địa.Xenite.Org</a>
 
 <span></span>
 

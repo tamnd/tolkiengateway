@@ -29,7 +29,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Trong <a class="extiw" href="http://en.wikipedia.org/wiki/V-mail#airgraph" title="wikipedia:V-mail">chụp ảnh máy bay</a> gửi cho con trai [Christopher](../C/Christopher_Tolkien.md), Tolkien đề cập rằng [C.S. Lewis](../C/C.S._Lewis.md) đã trải qua cuộc phẫu thuật để giải quyết vấn đề về cổ họng và loại bỏ một mảnh đạn khỏi cánh tay mà ông đã mang theo từ năm 1917. Tolkien cũng kể lại việc thưởng thức một cốc bia với [Charles Williams](../C/Charles_Williams.md), người đã trả lại hai chương *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* mà ông đã đánh máy lên. <br>
+Trong <a class="extiw" href="http://en.wikipedia.org/wiki/V-mail#airgraph" title="wikipedia:V-mail">chụp ảnh máy bay</a> gửi cho con trai ông [Christopher](../C/Christopher_Tolkien.md), Tolkien đề cập rằng [C.S. Lewis](../C/C.S._Lewis.md) đã trải qua cuộc phẫu thuật để giải quyết vấn đề về cổ họng và lấy một mảnh đạn ra khỏi cánh tay mà ông đã mang theo từ năm 1917. Tolkien cũng kể lại việc thưởng thức một panh với [Charles Williams](../C/Charles_Williams.md), người đã trả lại hai chương của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* mà ông đã đánh máy. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

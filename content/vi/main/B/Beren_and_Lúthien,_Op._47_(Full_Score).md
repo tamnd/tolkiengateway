@@ -20,6 +20,6 @@ images:
 
 Đây là cuốn sách khổ A4 dày 422 trang có bìa bóng.
 
-Đây là một bản hòa âm hoàn chỉnh có phần giới thiệu của nhà soạn nhạc, bản tóm tắt và bản dịch của Elvish.
+Đây là bản hòa tấu hoàn chỉnh có phần giới thiệu của nhà soạn nhạc, phần tóm tắt và bản dịch của Elvish.
 
 Minh họa bìa: TED NASMITH ©2019 “Lúthien"

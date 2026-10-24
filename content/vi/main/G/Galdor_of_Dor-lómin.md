@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Galdor (Lord of Dor-lómin)"
 ---
 
-Chuyển hướng tới [Galdor (Chúa tể Dor-lómin)](<Galdor_(Lord_of_Dor-lómin).md>).
+Chuyển hướng đến [Galdor (Chúa tể của Dor-lómin)](<Galdor_(Lord_of_Dor-lómin).md>).

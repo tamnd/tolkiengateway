@@ -39,7 +39,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mythlore_105_106.gif.md"><img src="https://tolkiengateway.net/w/images/9/95/Mythlore_105_106.gif" decoding="async" loading="lazy" width="225" height="313" class="mw-file-element" data-file-width="225" data-file-height="313"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mythlore 105/106</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../J/Janet_Brennan_Croft.md" title="Janet Brennan Croft">Janet Brennan Croft</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Spring/Summer <a href="../_/2009.md" title="2009">2009</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">204</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mythlore_103%252F104.md" title="Mythlore 103/104">Mythlore 103/104</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mythlore_107%252F108.md" title="Mythlore 107/108">Mythlore 107/108</a></td></tr></tbody></table>
 
-<b><i>Thần thoại</i> 105/106</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol27/iss3/" rel="noreferrer noopener" target="_blank">Tập 27, Số 3/4</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
+<b><i>Mythlore</i> 105/106</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol27/iss3/" rel="noreferrer noopener" target="_blank">Tập 27, Số 3/4</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
 
 ## Nội dung {#Contents}
 
@@ -60,14 +60,14 @@ infobox:
 #### Đánh giá {#Reviews}
 
 - *Lilith dưới ánh sáng mới: Các tiểu luận về Tiểu thuyết giả tưởng của George Macdonald.* Ed. Lucas H. Harriman. Được đánh giá bởi William Gray.
-- *Đất nước yêu tinh đen trắng: Những câu chuyện đã mất của Hilary Tolkien.* Biên tập bởi Angela Gardner. Minh họa bởi Jef Murray. Được đánh giá bởi Glen GoodKnight.
+- *Đất nước yêu tinh đen trắng: Lost Tales của Hilary Tolkien.* Biên tập bởi Angela Gardner. Minh họa bởi Jef Murray. Được đánh giá bởi Glen GoodKnight.
 - *C.S. Lewis và Tìm kiếm Tôn giáo Hợp lý.* John Beversluis. Được đánh giá bởi Donald T. Williams.
-- *Niềm tin và sự lựa chọn trong tác phẩm của Joss Whedon.* K.. Dale Koontz. Được đánh giá bởi Amy H. Sturgis.
+- *Niềm tin và sự lựa chọn trong các tác phẩm của Joss Whedon.* K.. Dale Koontz. Được đánh giá bởi Amy H. Sturgis.
 - *Fritz Leiber, Critical Essays.* Biên tập. Benjamin Szumskyj. Được đánh giá bởi Darrell Schweitzer.
 - *Thần thoại và phép thuật: Nghệ thuật theo Inklings.* Eduardo Segura và Thomas Honegger. Được đánh giá bởi Jason Fisher.
 - *Từ Narnia đến cuộc phiêu lưu ngoài không gian: Cuộc chiến ý tưởng giữa Arthur C. Clarke và C. S. Lewis.* Ed., và kèm theo lời giới thiệu, của Ryder W. Miller. Được đánh giá bởi Joe R. Christopher.
 - *The Mirror Crack'd: Nỗi sợ hãi và nỗi kinh hoàng trong các tác phẩm chính của JRR Tolkien.* Ed. Lynn Forest-Hill. Được đánh giá bởi Edith L. Crowe.
-- *Arda được tái thiết: Sự tạo ra đồng Silmarillion được xuất bản.* Douglas Charles Kane. Được đánh giá bởi Jason Fisher.
+- *Arda Được xây dựng lại: Sự sáng tạo của Silmarillion đã xuất bản.* Douglas Charles Kane. Được đánh giá bởi Jason Fisher.
 - *Night Operation.* Owen Barfield. Được đánh giá bởi David Bratman.
 - *Eager Spring.* Owen Barfield. Được đánh giá bởi David Bratman.
 

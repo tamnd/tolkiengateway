@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Lesniewski, Michal"
 ---
 
-**Michał Leśniewski** 'M.L.' là một biên tập viên và là một trong những người sáng lập Almanac của Tolkienists Ba Lan *[Aiglos](<../A/Aiglos_(journal).md>).* Ông đã giữ chức biên tập viên từ[tháng 11](../N/November.md) [2004](../_/2004.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Ông cũng là thành viên của *Parmadili*, [Bộ phận Tolkien của Câu lạc bộ giả tưởng Silesian](../S/Sekcja_Tolkienowska_ŚKF.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Michał Leśniewski** 'M.L.' là một biên tập viên và là một trong những người sáng lập Almanac Tolkienists Ba Lan *[Aiglos](<../A/Aiglos_(journal).md>).* Ông đã giữ chức biên tập viên từ[tháng 11](../N/November.md) [2004](../_/2004.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Ông cũng là thành viên của *Parmadili*, [Phần Tolkien của Silesian Fantasy Câu lạc bộ](../S/Sekcja_Tolkienowska_ŚKF.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <br>
 
@@ -27,7 +27,7 @@ sort_keys:
 ### Bài viết {#Articles}
 
 - [2005](../_/2005.md): *[Aiglos Special Issue](../A/Aiglos_Special_Issue_I.md)*
-    - "Câu hỏi của Arda "Round Arda" : Một ý tưởng bị bỏ rơi, hay một góc nhìn khác về Legendarium của Tolkien"
+    - "Câu hỏi của "Vòng Arda" Arda : Một ý tưởng bị bỏ rơi, hay một góc nhìn khác về Tolkien's Legendarium"
     - *A Glimmer of Pearly Light* (fanfic)
 - [2011](../_/2011.md): *[Aiglos 15](../A/Aiglos_15.md)*
     - "J.R.R. Tolkien và Huyền thoại Atlantis, hay Sự hữu ích của những giấc mơ và việc tạo ra huyền thoại"
@@ -35,22 +35,22 @@ sort_keys:
     - "Tolkien và người Viking. Mối liên hệ của J.R.R. Tolkien với văn học Victoria liên quan đến miền Bắc"
     - "Nerdanel. Đôi lời về một tập phim không nhất thiết chỉ là một tập phim"
 - [2015](../_/2015.md): *[Aiglos 20](../A/Aiglos_20.md)*
-    - "Thêm vài lời về quan hệ cha con của Gil-galad" – một cuộc bút chiến chống lại bài báo "Gil-galad – một trường hợp quan hệ cha con" của Barbara Cecylia Liwo
+    - "Thêm vài lời về quan hệ cha con của Gil-galad" – một cuộc bút chiến chống lại bài viết của Barbara Cecylia Liwo "Gil-galad – một trường hợp quan hệ cha con"
 - [2016](../_/2016.md) *[Aiglos 21](../A/Aiglos_21.md)*
-    - "Cuộc chiến của Sauron với Yêu tinh 1693–1701. Một bản thảo chuyên khảo."
+    - "Sauron cuộc chiến của Tiên tộc 1693–1701. Một bản thảo chuyên khảo."
 
 ### Đánh giá {#Reviews}
 
 - [2005](../_/2005.md): *[Aiglos Special Issue](../A/Aiglos_Special_Issue_I.md)*
-    - "Trong số những câu chuyện lấy cảm hứng từ niềm đam mê sâu sắc - một số nhận xét về John *Những câu chuyện của Ronald Reuel Tolkien về... rìa của các kỷ nguyên và thời đại*" của: J.Z. Lichański
+    - "Trong số những câu chuyện lấy cảm hứng từ niềm đam mê sâu sắc - một số nhận xét về những câu chuyện của John *Ronald Reuel Tolkien về... rìa của các kỷ nguyên và thời đại*" của: J.Z. Lichański
     - "Tìm kiếm tâm linh trong tác phẩm phụ của Tolkien"
     - "Giới thiệu về tiểu sử hay điều gì đó hơn thế? Michał Błażejewski, *J.R.R Tolkien, The Laybearer*
 - [2011](../_/2011.md): *[Aiglos 15](../A/Aiglos_15.md)*
-    - Cuộc phỏng vấn với [Alex Lewis](../A/Alex_Lewis.md), chủ tịch lâu năm của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md)
+    - Bài phỏng vấn [Alex Lewis](../A/Alex_Lewis.md), chủ tịch lâu năm của [Hội Tolkien](../T/The_Tolkien_Society.md)
     - Báo cáo về Tricon ([Polcon](../P/Polcon.md), [Eurocon](../E/Eurocon.md) và Parcon in one, 26-29 [tháng 8](../A/August.md) [2010](../_/2010.md), Cieszyn, Ba Lan)
 - [2012](../_/2012.md): *[Aiglos Special Issue II](../A/Aiglos_Special_Issue_II.md)*
-    - "Phá hủy tòa tháp được xây dựng ở Beleriand. *Arda Reconstructed*, tức là một số nhận xét về cuốn sách của Douglas Kane, về các nhà nghiên cứu Tolkienologists và về ấn bản của Christopher Tolkien"
-    - "Một tác phẩm thực sự hoành tráng. Một số nhận xét về *J. R. R. Tolkien Người bạn đồng hành và Người hướng dẫn* của Christina Scull và Wayne G. Hammond"
+    - "Phá hủy tòa tháp được xây dựng ở Beleriand. *Arda Reconstructed*, tức là một số nhận xét về cuốn sách của Douglas Kane, về Tolkienologists và về ấn bản của Christopher Tolkien"
+    - "Một tác phẩm thực sự hoành tráng. Một số nhận xét về *J. R. R. Tolkien Người đồng hành và Hướng dẫn* của Christina Scull và Wayne G. Hammond"
 - [2015](../_/2015.md): *[Aiglos 20](../A/Aiglos_20.md)*
     - *[The Hobbit: The Battle of the Five Armies](../T/The_Hobbit%253A_The_Battle_of_the_Five_Armies.md)* xem xét
 - [2016](../_/2016.md) *[Aiglos 21](../A/Aiglos_21.md)*

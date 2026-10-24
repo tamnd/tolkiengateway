@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Shaping of Middle-earth"
 ---
 
-Chuyển hướng tới [Sự hình thành của Trung Địa](../T/The_Shaping_of_Middle-earth.md).
+Chuyển hướng đến [The Shaping of Middle-earth](../T/The_Shaping_of_Middle-earth.md).

@@ -25,15 +25,15 @@ langlinks:
     url: "https://kontu.wiki/Dol_Amrothin_suuriruhtinaat"
 ---
 
-**Hoàng tử của [Dol Amroth](../D/Dol_Amroth.md)** là tước hiệu được sử dụng bởi một gia tộc quý tộc ở [Gondor](../G/Gondor.md).
+**Thân vương của [Dol Amroth](../D/Dol_Amroth.md)** là tước vị được sử dụng bởi một gia đình quý tộc [Gondor](../G/Gondor.md).
 
 ## Lịch sử {#History}
 
-Các Hoàng tử là nam giới thừa kế [Gia tộc Dol Amroth](../H/House_of_Dol_Amroth.md). Ngôi nhà đó có nguồn gốc [Númenórean](../N/Númenóreans.md) cao quý từ [Thời thứ hai](../S/Second_Age.md); họ [Trung thành](../F/Faithful.md) giống như [Lãnh chúa Andúnië](../L/Lords_of_Andúnië.md) ở [Númenor](../N/Númenor.md), và sau đó [Elendil](../E/Elendil.md) phong cho người cai trị của họ danh hiệu [Hoàng tử](Prince.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Các Hoàng tử là nam thừa kế của [Nhà Dol Amroth](../H/House_of_Dol_Amroth.md). Ngôi nhà đó có nguồn gốc cao quý [Númenórean](../N/Númenóreans.md) từ [Kỷ Đệ Nhị](../S/Second_Age.md); họ [Trung thành](../F/Faithful.md) giống như [các Lãnh chúa Andúnië](../L/Lords_of_Andúnië.md) trong [Númenor](../N/Númenor.md), và sau đó [Elendil](../E/Elendil.md) phong cho người cai trị của họ danh hiệu [Thân vương](Prince.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Hoàng tử đầu tiên của Dol Amroth là [Galador](../G/Galador.md), theo truyền thuyết, là con trai của [Mithrellas](../M/Mithrellas.md), một hầu gái Yêu tinh.<sup id="cite_ref-GalCel_2-0" class="reference"><a href="#cite_note-GalCel-2">[2]</a></sup> Chủng tộc được cho là yêu tinh này đã được [Imrahil](../I/Imrahil.md) chú ý đến nhiều năm sau đó bởi [Legolas](../L/Legolas.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Thân vương Dol Amroth đầu tiên là [Galador](../G/Galador.md), theo truyền thuyết, là con trai của [Mithrellas](../M/Mithrellas.md), một hầu gái Tiên.<sup id="cite_ref-GalCel_2-0" class="reference"><a href="#cite_note-GalCel-2">[2]</a></sup> Chủng tộc được cho là yêu tinh này đã được [Imrahil](../I/Imrahil.md) chú ý nhiều năm sau đó bởi [Legolas](../L/Legolas.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-### Các hoàng tử của Dol Amroth {#Princes_of_Dol_Amroth}
+### Thân vương Dol Amroth {#Princes_of_Dol_Amroth}
 
 <table class="TGtable" border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; margin: 0 auto;"><tbody><tr><th style="background: #F2E6CE;">No.</th><th style="background: #F2E6CE;">Name</th><th style="background: #F2E6CE;">Birth</th><th style="background: #F2E6CE;">Rule</th><th style="background: #F2E6CE;">Death</th></tr>
 <tr><td>1</td><td><b><a href="../G/Galador.md" title="Galador">Galador</a></b></td><td><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2004.md" title="Third Age 2004">2004</a></td><td align="center"><a href="../T/Third_Age_2076.md" title="Third Age 2076">2076</a> - <a href="../T/Third_Age_2129.md" title="Third Age 2129">2129</a> (53 years)</td><td><a href="../T/Third_Age_2129.md" title="Third Age 2129">2129</a> (aged 125)</td></tr>
@@ -64,7 +64,7 @@ Hoàng tử đầu tiên của Dol Amroth là [Galador](../G/Galador.md), theo t
 
 ## Xem thêm {#See_also}
 
-Xem [Nhà của Dol Amroth](../H/House_of_Dol_Amroth.md) để biết cây phả hệ của các hoàng tử.
+Xem [Nhà Dol Amroth](../H/House_of_Dol_Amroth.md) để biết cây phả hệ của các hoàng tử.
 
 ## Ghi chú {#Notes}
 

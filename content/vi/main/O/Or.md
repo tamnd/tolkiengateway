@@ -21,8 +21,8 @@ Trong cả hai ngôn ngữ, nó được sử dụng phổ biến nhất làm ti
 
 ## Ví dụ {#Examples}
 
-- (Quenya) "...<i><a href="../I/I.md" title="I">i</a> <a href="../I/Ilúvatar.md" title="Ilúvatar">Eru</a> i <b>or</b> <a href="../I/Ilya.md" title="Ilya">ilyë</a> mahalmar eä <a href="../T/Tennoio.md" title="Tennoio">tennoio</a></i>" = "Đấng **trên** tất cả ngai vàng cho bao giờ hết"<sup id="cite_ref-C_1-1" class="reference"><a href="#cite_note-C-1">[1]</a></sup>
-- (Quenya) ''orta-'' = "đứng lên"
+- (Quenya) "...<i><a href="../I/I.md" title="I">i</a> <a href="../I/Ilúvatar.md" title="Ilúvatar">Eru</a> i <b>or</b> <a href="../I/Ilya.md" title="Ilya">ilyë</a> mahalmar eä <a href="../T/Tennoio.md" title="Tennoio">tennoio</a></i>" = "Người **trên** tất cả ngai vàng mãi mãi"<sup id="cite_ref-C_1-1" class="reference"><a href="#cite_note-C-1">[1]</a></sup>
+- (Quenya) ''orta-'' = “đứng lên”
 - (Quenya) ‘’olla‘’ = “kết thúc”<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 - (Noldorian) ''orchal'' = "cấp trên / cao cả"
 - (Noldorian) ‘’ortha-’’ = “nâng cao-”<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>

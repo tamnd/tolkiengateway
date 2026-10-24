@@ -18,7 +18,7 @@ langlinks:
     url: "https://kontu.wiki/Lithir"
 ---
 
-Sông **Lithir**<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> là một nhánh của [Sirion](../S/Sirion.md) ở [Beleriand](../B/Beleriand.md) trong [Thời đại thứ nhất](../F/First_Age.md). Nguồn của nó là ở [Ered Wethrin](../E/Ered_Wethrin.md) phía nam [Mithrim](../M/Mithrim.md). Nó chảy về phía đông nam cho đến khi lao qua thác nước và nhập vào [Sirion](../S/Sirion.md) ở khoảng giữa [Tol Sirion](../T/Tol_Sirion.md) và [Sông khô](../D/Dry_River.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Sông **Lithir**<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> là một nhánh của [Sirion](../S/Sirion.md) ở [Beleriand](../B/Beleriand.md) ở [Kỷ Đệ Nhất](../F/First_Age.md). Nguồn của nó nằm ở [Ered Wethrin](../E/Ered_Wethrin.md) phía nam của [Mithrim](../M/Mithrim.md). Nó chảy về phía đông nam cho đến khi vượt qua các thác nước và nhập vào [Sirion](../S/Sirion.md) ở khoảng giữa [Tol Sirion](../T/Tol_Sirion.md) và [Sông khô](../D/Dry_River.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 Khi [Húrin](../H/Húrin.md) rời [Hithlum](../H/Hithlum.md), [Asgon](../A/Asgon.md) đã hướng dẫn ông ta băng qua những ngọn núi và xuôi theo dòng sông Lithir để đến thung lũng Sirion.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 

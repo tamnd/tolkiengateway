@@ -38,9 +38,9 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/Lost_Chaucer.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/c/cb/Lost_Chaucer.jpg/318px-Lost_Chaucer.jpg" decoding="async" loading="lazy" width="318" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/c/cb/Lost_Chaucer.jpg 1.5x" data-file-width="330" data-file-height="498"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Tolkien&#39;s Lost Chaucer</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data">John M. Bowers</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Oxford University Press</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/10_October.md" title="10 October">10 October</a> <a href="../_/2019.md" title="2019">2019</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Hardcover</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">336</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/978-0198842675" title="Special:BookSources/978-0198842675">978-0198842675</a></td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="The_Fall_of_Gondolin.md" title="The Fall of Gondolin">The Fall of Gondolin</a> (2018)</td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="The_Worlds_of_J.R.R._Tolkien.md" title="The Worlds of J.R.R. Tolkien">The Worlds of J.R.R. Tolkien</a> (2020)</td></tr></tbody></table>
 
-<i><b>Người đi lạc của Tolkien</b></i> là một cuốn sách học thuật của <a class="new" href="https://tolkiengateway.net/w/index.php?title=John_M._Bowers&amp;action=edit&amp;redlink=1" title="John M. Bowers (page does not exist)">John M. Bowers</a>, được xuất bản trên [2019](../_/2019.md) bởi Nhà xuất bản [Đại học Oxford](../O/Oxford_University.md). Nó khám phá tác phẩm chưa hoàn thành và chưa được biết đến trước đây của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), được gọi là "[Clarendon Chaucer](../C/Clarendon_Chaucer.md)" — một ấn bản thơ của <a class="extiw" href="http://en.wikipedia.org/wiki/Geoffrey_Chaucer" title="wikipedia:Geoffrey Chaucer">Geoffrey Chaucer</a>.
+<i><b>Tolkien's Lost Chaucer</b></i> là một cuốn sách học thuật của <a class="new" href="https://tolkiengateway.net/w/index.php?title=John_M._Bowers&amp;action=edit&amp;redlink=1" title="John M. Bowers (page does not exist)">John M. Bowers</a>, được xuất bản trên [2019](../_/2019.md) bởi Nhà xuất bản Đại học [Oxford](../O/Oxford_University.md). Nó khám phá tác phẩm chưa hoàn thành và chưa được biết đến trước đây của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), được gọi là "[Clarendon Chaucer](../C/Clarendon_Chaucer.md)" — một ấn bản thơ của <a class="extiw" href="http://en.wikipedia.org/wiki/Geoffrey_Chaucer" title="wikipedia:Geoffrey Chaucer">Geoffrey Chaucer</a>.
 
-Cuốn sách không xuất bản những đoạn văn dài từ tác phẩm này mà chỉ trích dẫn từ tài liệu của nó để thảo luận về suy nghĩ của Tolkien về ngôn ngữ và cách kể chuyện của Chaucer. Và cũng bằng cách dựa trên một số tác phẩm chưa được xuất bản khác, nó cho thấy Chaucer có ảnh hưởng lớn đến các tác phẩm của chính Tolkien như thế nào.
+Cuốn sách không xuất bản những đoạn văn dài từ tác phẩm này mà chỉ trích dẫn từ các tài liệu của nó để thảo luận về suy nghĩ của Tolkien về ngôn ngữ và cách kể chuyện của Chaucer. Và cũng bằng cách dựa trên một số tác phẩm chưa được xuất bản khác, nó cho thấy Chaucer có ảnh hưởng lớn đến các tác phẩm của chính Tolkien như thế nào.
 
 Phần lớn tài liệu từ tác phẩm này đã được xuất bản trong cuốn sách mới của Bowers, *[Tolkien on Chaucer, 1913-1959](Tolkien_on_Chaucer,_1913-1959.md)*.
 
@@ -53,10 +53,10 @@ Phần lớn tài liệu từ tác phẩm này đã được xuất bản trong 
 1. Mở đầu: Về Chaucer
 2. Những chuyến đi bất ngờ
 3. Bốn người lái xe: Walter W. Skeat, Kenneth Sisam,<br>George S. Gordon, C. S. Lewis
-4. Tolkien là Biên tập viên: Văn bản và Bảng thuật ngữ
+4. Tolkien làm Biên tập viên: Văn bản và Bảng thuật ngữ
 5. The Chaucerian Incubus: Những ghi chú
-6. Tolkien trong vai Chaucerian: *The Reeve's Tale*
-7. Chaucer ở Trung Địa
+6. Tolkien với tư cách là Chaucerian: *The Reeve's Tale*
+7. Người lái xe ở Trung Địa
 8. Coda: Cha và Con
 
 - Phụ lục I

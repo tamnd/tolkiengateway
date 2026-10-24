@@ -28,11 +28,11 @@ infobox:
 
 **Windfola** là con ngựa xám của [Rohirrim](../R/Rohirrim.md).
 
-Windfola là con ngựa đã chở [Éowyn](../_/Éowyn.md) (trong lốt [Dernhelm](../D/Dernhelm.md)) những dặm đường dài từ [Dunharrow](../D/Dunharrow.md) đến [Pelennor Fields](../P/Pelennor_Fields.md), bí mật đi cùng với [Meriadoc Brandybuck](../M/Meriadoc_Brandybuck.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Windfola phụ trách [Rohirrim](../R/Rohirrim.md) trong trận chiến [Trận chiến trên cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md), nhưng khi [Chúa tể Nazgûl](Witch-king.md) bắt đầu, con ngựa phát điên vì sợ hãi, ném người cưỡi ngựa của mình và bỏ chạy trong hoảng loạn. Bị chiến mã bỏ lại phía sau, Éowyn và Merry hạ gục [Vua phù thủy](Witch-king.md) của [Angmar](../A/Angmar.md), nhưng lúc đó Windfola đã bỏ xa họ trên chiến trường.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Windfola là con ngựa đã chở [Éowyn](../_/Éowyn.md) (trong lốt [Dernhelm](../D/Dernhelm.md)) những dặm đường dài từ [Dunharrow](../D/Dunharrow.md) đến [cánh đồng Pelennor](../P/Pelennor_Fields.md), bí mật đi cùng với [Meriadoc Brandybuck](../M/Meriadoc_Brandybuck.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Windfola phụ trách [Rohirrim](../R/Rohirrim.md) trong [Trận chiến trên Cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md), nhưng khi [Chúa tể của Nazgûl](Witch-king.md) bắt đầu, con ngựa phát điên lên vì sợ hãi, ném các kỵ sĩ của mình và bỏ chạy trong hoảng loạn. Bị chiến mã của họ bỏ lại phía sau, Éowyn và Merry đã hạ gục [Vua Phù thủy](Witch-king.md) của [Angmar](../A/Angmar.md), nhưng lúc đó Windfola đã bỏ xa họ trên chiến trường.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Windfola có nghĩa là "ngựa con gió" trong [ngôn ngữ](../R/Rohan_language.md) của người Rohirrim.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Windfola có nghĩa là "chú ngựa con gió" trong [ngôn ngữ](../R/Rohan_language.md) của Rohirrim.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
@@ -46,7 +46,7 @@ Windfola có nghĩa là "ngựa con gió" trong [ngôn ngữ](../R/Rohan_languag
 		</li>
 </ul>
 
-<b>2003: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">Chúa tể của những chiếc nhẫn: Sự trở lại của nhà vua</a></i>:</b>
+<b>2003: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">The Lord of the Rings: The Return of the King</a></i>:</b>
 
 <dl><dd>Éowyn rides a brown-coated horse, which is presumably killed when it is crushed by the falling <a href="../O/Oliphaunts.md" title="Oliphaunts">Oliphaunt</a>. <a href="../T/The_Lord_of_the_Rings_Trading_Card_Game.md" title="The Lord of the Rings Trading Card Game">The Lord of the Rings Trading Card Game</a> expansion <i>The Return of the King</i> identifies it as Windfola.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> The horse used was named Dublin.</dd></dl>
 

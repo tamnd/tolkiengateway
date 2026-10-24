@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Caragdûr"
 ---
 
-Chuyển hướng tới [Caragdûr](Caragdûr.md).
+Chuyển hướng đến [Caragdûr](Caragdûr.md).

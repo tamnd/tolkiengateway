@@ -16,9 +16,9 @@ images:
 
 **Ngôi nhà chữa lành** có thể tham khảo:
 
-## Trung địa {#Middle-earth}
+## Trung Địa {#Middle-earth}
 
-- **[Houses of Healing](Houses_of_Healing.md)**, địa điểm ở [Minas Tirith](../M/Minas_Tirith.md)
+- **[Nhà chữa bệnh](Houses_of_Healing.md)**, địa điểm ở [Minas Tirith](../M/Minas_Tirith.md)
 
 ## Thế giới thực {#Real_world}
 

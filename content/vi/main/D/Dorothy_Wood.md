@@ -20,7 +20,7 @@ sort_keys:
   "Tolkien Family": "Wood, Dorothy"
 ---
 
-**Dorothy Grace Wood** (nhũ danh Mountain), được họ hàng thân thiết gọi là "**Ding**", là em họ của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) (mẹ cô là <a class="new" href="https://tolkiengateway.net/w/index.php?title=Grace_Mountain&amp;action=edit&amp;redlink=1" title="Grace Mountain (page does not exist)">Grace Mountain</a>). Khi còn nhỏ, J.R.R. Tolkien đã trải qua một số kỳ nghỉ với dì nội của mình ở <a class="extiw" href="http://en.wikipedia.org/wiki/Northumberland" title="wikipedia:Northumberland">Northumberland</a>, và về sau, anh đã nối lại tình bạn với Dorothy.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Dorothy Grace Wood** (nhũ danh Mountain), được họ hàng thân thiết gọi là "**Ding**", là anh họ của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) (mẹ cô là <a class="new" href="https://tolkiengateway.net/w/index.php?title=Grace_Mountain&amp;action=edit&amp;redlink=1" title="Grace Mountain (page does not exist)">Grace Mountain</a>). Khi còn nhỏ, J.R.R. Tolkien đã trải qua một số kỳ nghỉ với dì nội của mình ở <a class="extiw" href="http://en.wikipedia.org/wiki/Northumberland" title="wikipedia:Northumberland">Northumberland</a>, và về sau, anh đã nối lại tình bạn với Dorothy.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Xem thêm {#See_also}
 

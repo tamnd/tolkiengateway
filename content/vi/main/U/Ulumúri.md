@@ -33,9 +33,9 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/Janka_Latečková_-_Ulmo.jpeg.md"><img src="https://tolkiengateway.net/w/images/thumb/1/1f/Janka_Late%C4%8Dkov%C3%A1_-_Ulmo.jpeg/300px-Janka_Late%C4%8Dkov%C3%A1_-_Ulmo.jpeg" decoding="async" loading="lazy" width="300" height="424" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/1f/Janka_Late%C4%8Dkov%C3%A1_-_Ulmo.jpeg/450px-Janka_Late%C4%8Dkov%C3%A1_-_Ulmo.jpeg 1.5x, https://tolkiengateway.net/w/images/1/1f/Janka_Late%C4%8Dkov%C3%A1_-_Ulmo.jpeg 2x" data-file-width="600" data-file-height="847"/></a><figcaption><i>Ulmo</i> by <a href="../../category/I/Images_by_Janka_Latečková.md" title="Category:Images by Janka Latečková">Janka Latečková</a></figcaption></figure>
 
-**Ulumúri** là những chiếc ốc xà cừ trắng tuyệt vời của [Ulmo](Ulmo.md) do [Salmar](../S/Salmar.md) tạo ra.<sup id="cite_ref-s_1-0" class="reference"><a href="#cite_note-s-1">[1]</a></sup> Chúng tạo ra âm nhạc của biển mà sau này [không thể quên](../S/Sea-longing.md).<sup id="cite_ref-s_1-1" class="reference"><a href="#cite_note-s-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Ulumúri** là những chiếc ốc xà cừ trắng tuyệt vời [Ulmo](Ulmo.md) do [Salmar](../S/Salmar.md) tạo ra.<sup id="cite_ref-s_1-0" class="reference"><a href="#cite_note-s-1">[1]</a></sup> Chúng tạo ra âm nhạc của biển mà sau này [không thể quên](../S/Sea-longing.md).<sup id="cite_ref-s_1-1" class="reference"><a href="#cite_note-s-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-[Tuor](../T/Tuor.md) đích thân nhìn thấy Ulmo thổi tù và khiến ông ta nhìn thấy tất cả các vùng nước trên thế giới trong một tầm nhìn:
+[Tuor](../T/Tuor.md) đích thân nhìn thấy Ulmo thổi tù và khiến anh nhìn thấy tất cả các vùng nước trên thế giới trong một linh ảnh:
 
 <blockquote class="tg-quote noexcerpt">
 <p>And thereupon Ulmo lifted up a mighty horn, and blew upon it a single great note, to which the roaring of the storm was but a windflaw upon a lake.

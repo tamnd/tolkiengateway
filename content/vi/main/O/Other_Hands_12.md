@@ -38,20 +38,20 @@ infobox:
 - Tiền tuyến - [Chris Seeman](../C/Chris_Seeman.md)
 - Truyền thông - Nancy Martsch, Sarah Storch, Jesse Dallin, Sam Daish
 - Bàn tay kỹ thuật số - Fredrik Ekman
-- Hương vị của những điều sắp đến (Gần Harad) - Wesley Frank
-- Balchoth - Luke Potter
+- Hương vị của những điều sắp đến (Near Harad) - Wesley Frank
+- Người Balchoth - Luke Potter
 - Bozishnarod: Sử dụng nền văn hóa của Far Harad trong MERP - Mark Thorne, Jason Mulligan
 - Sự hung hãn và tinh thần của các nhân vật không phải người chơi - Bernie Roessler
-- Lập bản đồ Trung địa: Cuộc phỏng vấn với Pete Fenlon - [Chris Seeman](../C/Chris_Seeman.md)
-- Arda Lore:
+- Lập bản đồ Trung Địa: Cuộc phỏng vấn với Pete Fenlon - [Chris Seeman](../C/Chris_Seeman.md)
+- Arda Truyền thuyết:
     - "Carn Dûm" nghĩa là gì? - [Chris Seeman](../C/Chris_Seeman.md), Patrick Wynne
     - Harondor có rừng không? - Wesley Frank
-    - Chuyện gì đã xảy ra với Blue Wizards vậy? - Tommy Martin
-    - Ai là pháp sư chiêu hồn? - [Chris Seeman](../C/Chris_Seeman.md), [Anders Blixt](../A/Anders_Blixt.md)
-    - Còn Vua Phù Thủy thì sao? - Steffen Solomon, Wesley Frank, [Chris Seeman](../C/Chris_Seeman.md)
-    - Bản chất của phép thuật ở Trung Địa là gì? - Chris Pheby
+    - Chuyện gì đã xảy ra với Blue Pháp sư? - Tommy Martin
+    - Ai là Necromancer? - [Chris Seeman](../C/Chris_Seeman.md), [Anders Blixt](../A/Anders_Blixt.md)
+    - Còn Phù thủy-Vua thì sao? - Steffen Solomon, Wesley Frank, [Chris Seeman](../C/Chris_Seeman.md)
+    - Bản chất của phép thuật trong Trung Địa là gì? - Chris Pheby
 - Đánh giá sản phẩm: Dol Guldur - [Chris Seeman](../C/Chris_Seeman.md)
 - Đánh giá sản phẩm: Angmar - Jason Vester
-- Đánh giá sản phẩm: Angmar (Đánh giá thứ hai) - [Chris Seeman](../C/Chris_Seeman.md)
+- Đánh giá sản phẩm: Angmar (Đánh giá lần thứ hai) - [Chris Seeman](../C/Chris_Seeman.md)
 - Đánh giá sản phẩm: Mirkwood - [Chris Seeman](../C/Chris_Seeman.md)
-- Danh mục thẻ dành cho Trung địa: Phù thủy - John W. Curtis III
+- Danh mục thẻ Trung Địa: The Pháp sư - John W. Curtis III

@@ -50,9 +50,9 @@ infobox:
 
 ## Lịch sử {#History}
 
-Náli là một phần của [Thuộc địa của Balin](../B/Balin's_Colony~64118.md) để giành lại [Moria](../M/Moria.md). Nhiệm vụ của họ lúc đầu có vẻ thành công, và [Balin](../B/Balin.md) đã tiến xa đến mức giành được danh hiệu [Lãnh chúa của Moria](../L/Lord_of_Moria.md). Tất cả đã thay đổi vào năm thứ năm họ ở đó. Vào [ngày 10 tháng 11](../_/10_November.md), lũ [Orc](../O/Orcs.md) tiến đến [Silverlode](../S/Silverlode.md) và giết Balin khi ông ta ở một mình, không hề hay biết và đang nhìn vào [Mirrormere](../M/Mirrormere.md). Người lùn chống trả nhưng cuối cùng bị mất [Cổng phía đông](../E/East-gate.md) và [Sảnh đầu tiên](../F/First_Hall.md).
+Náli là một phần Thuộc địa của [Balin](../B/Balin's_Colony~64118.md) để đòi lại [Moria](../M/Moria.md). Nhiệm vụ của họ lúc đầu có vẻ thành công và [Balin](../B/Balin.md) đã tiến xa đến mức giành được danh hiệu [Chúa tể Moria](../L/Lord_of_Moria.md). Tất cả đã thay đổi vào năm thứ năm họ ở đó. Vào [ngày 10 tháng 11](../_/10_November.md), [Orc](../O/Orcs.md) đã đến [Silverlode](../S/Silverlode.md) và giết Balin khi ông ta ở một mình, không hề hay biết và đang nhìn vào [Mirrormere](../M/Mirrormere.md). Người Lùn chống trả nhưng cuối cùng thua [Cổng Đông](../E/East-gate.md) và [Sảnh đầu tiên](../F/First_Hall.md).
 
-Quân Orc đã vượt qua [Cầu Khazad-dûm](../B/Bridge_of_Khazad-dûm.md) và xảy ra [trận chiến ở Sảnh thứ hai](../B/Battle_of_the_Second_Hall.md), Náli cùng những người bạn đồng hành của mình [Frár](../F/Frár.md) và [Lóni](../L/Lóni.md) đã dũng cảm hy sinh trong khi những người thuộc địa còn lại rút lui.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Orc đã vượt qua [Cầu Khazad-dûm](../B/Bridge_of_Khazad-dûm.md) và xảy ra [trận chiến ở Sảnh thứ hai](../B/Battle_of_the_Second_Hall.md), Náli cùng những người bạn đồng hành của mình [Frár](../F/Frár.md) và [Lóni](../L/Lóni.md) đã hy sinh anh dũng trong khi những người thuộc địa còn lại rút lui.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

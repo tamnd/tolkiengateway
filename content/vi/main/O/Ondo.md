@@ -27,11 +27,11 @@ Từ [OS](OS.md) \**gondo*, [PQ](../P/PQ.md) <i><a class="new" href="https://tol
 
 ## Có cùng nguồn gốc {#Cognates}
 
-- [Tiếng Sindarin](../S/Sindarin.md) *[gond](../G/Gond.md)*
+- [Sindarin](../S/Sindarin.md) *[gond](../G/Gond.md)*
 
 ## Cảm hứng từ thế giới thực {#Real-world_inspiration}
 
-[J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được lấy cảm hứng từ từ đầu tiên của người Celtic *ond*, cũng có nghĩa là "đá".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> <span></span>
+[J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được lấy cảm hứng từ từ Celtic ban đầu *ond*, cũng có nghĩa là "đá".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

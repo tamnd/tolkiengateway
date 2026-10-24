@@ -36,4 +36,4 @@ infobox:
 
 ## Tóm tắt {#Synopsis}
 
-Khi [Éowyn](Éowyn.md) đứng ngắm bình minh, [Théoden](../T/Théoden.md) tiến về phía cô và nói với cô rằng cô sẽ chiếm chỗ của anh trong [Golden Hall](../G/Golden_Hall.md) nếu trận chiến sắp tới không thuộc về [Đàn ông](../M/Men.md). “Ngài còn yêu cầu tôi phải làm nhiệm vụ gì khác nữa?” bà hỏi ông. Anh ôm đầu cô trong tay và trấn an cô rằng đó không phải là nghĩa vụ. Anh ước cô sẽ mỉm cười và nói với cô rằng cô sẽ sống để chứng kiến ​​​​sự đổi mới của những ngày "không còn tuyệt vọng".
+Khi [Éowyn](Éowyn.md) đứng ngắm mặt trời mọc, [Théoden](../T/Théoden.md) tiến về phía cô và nói với cô rằng cô sẽ chiếm chỗ của ông ta trong [Sảnh Vàng](../G/Golden_Hall.md) nếu [Con Người](../M/Men.md) không thắng trận chiến sắp tới. “Ngài còn yêu cầu tôi phải làm nhiệm vụ gì khác nữa?” bà hỏi ông. Anh ôm đầu cô trong tay và trấn an cô rằng đó không phải là nghĩa vụ. Anh ước cô sẽ mỉm cười và nói với cô rằng cô sẽ sống để chứng kiến ​​​​sự đổi mới của những ngày "không còn tuyệt vọng".

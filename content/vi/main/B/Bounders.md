@@ -19,11 +19,11 @@ images:
 
 <figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mithril_Miniatures_-_Bounders.png.md"><img src="https://tolkiengateway.net/w/images/thumb/a/a3/Mithril_Miniatures_-_Bounders.png/250px-Mithril_Miniatures_-_Bounders.png" decoding="async" loading="lazy" width="250" height="260" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/a3/Mithril_Miniatures_-_Bounders.png/375px-Mithril_Miniatures_-_Bounders.png 1.5x, https://tolkiengateway.net/w/images/thumb/a/a3/Mithril_Miniatures_-_Bounders.png/500px-Mithril_Miniatures_-_Bounders.png 2x" data-file-width="1280" data-file-height="1331"/></a><figcaption>&#34;Bounders&#34; - <i><a href="../M/Mithril_Miniatures.md" title="Mithril Miniatures">Mithril Miniature</a></i></figcaption></figure>
 
-**Người bảo vệ** chịu trách nhiệm kiểm soát biên giới của [Quận](../T/The_Shire.md) và đảm bảo rằng người ngoài sẽ tự xử lý. Điều này được gọi là 'đánh bại giới hạn'. Bounders là nhánh lớn hơn trong số hai nhánh của [Watch](../W/Watch.md) (nhánh còn lại là mười hai [Shirriffs](../S/Shirriffs.md)).<sup id="cite_ref-shire_1-0" class="reference"><a href="#cite_note-shire-1">[1]</a></sup>
+**Biên giới** chịu trách nhiệm kiểm soát biên giới của [ Shire](../T/The_Shire.md) và đảm bảo rằng người ngoài sẽ tự xử lý. Điều này được gọi là 'đánh bại giới hạn'. Bounders là nhánh lớn hơn trong số hai nhánh của [Watch](../W/Watch.md) (nhánh còn lại là mười hai [Shirriffs](../S/Shirriffs.md)).<sup id="cite_ref-shire_1-0" class="reference"><a href="#cite_note-shire-1">[1]</a></sup>
 
-Số lượng Bounders tại bất kỳ thời điểm nào cũng thay đổi tùy theo nhu cầu. Trước [Cuộc chiến trên chiếc nhẫn](../W/War_of_the_Ring.md), số lượng người đã tăng lên rất nhiều<sup id="cite_ref-shire_1-1" class="reference"><a href="#cite_note-shire-1">[1]</a></sup> và họ bận rộn khi có những người và sinh vật lạ tiếp cận biên giới.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Số lượng Bounders tại bất kỳ thời điểm nào cũng thay đổi tùy theo nhu cầu. Trong thời gian tới [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), số lượng họ đã tăng lên rất nhiều<sup id="cite_ref-shire_1-1" class="reference"><a href="#cite_note-shire-1">[1]</a></sup> và họ bận rộn khi có những người và sinh vật lạ tiếp cận biên giới.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Những người Hobbit ở Quận không hề biết rằng đây là dấu hiệu đầu tiên cho thấy những rắc rối ở phía nam sẽ sớm lan đến tận biên giới của họ. [Bọn lưu manh](../R/Ruffians.md) và gián điệp của [Isengard](../I/Isengard.md) và [Mordor](../M/Mordor.md) bắt đầu tiến vào [Eriador](../E/Eriador.md).
+Hobbit của Shire không hề biết rằng đây là dấu hiệu đầu tiên cho thấy những rắc rối ở phía nam sẽ sớm lan đến biên giới của họ. [Ruffians](../R/Ruffians.md) và các điệp viên của [Isengard](../I/Isengard.md) và [Mordor](../M/Mordor.md) bắt đầu xâm nhập [Eriador](../E/Eriador.md).
 
 ## Từ nguyên {#Etymology}
 
@@ -33,7 +33,7 @@ Từ này có nghĩa là "những người canh giữ ranh giới".
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2001: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">Chúa tể của những chiếc nhẫn: Hiệp hội những chiếc nhẫn</a></i>:</b>
+<b>2001: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i>:</b>
 
 <dl><dd>A Bounder holding a lantern, played by <a href="../I/Ian_Mune.md" title="Ian Mune">Ian Mune</a>, confronts a <a href="../N/Nazgûl.md" title="Nazgûl">Black Rider</a> in the night. He calls out &#34;Who goes there?&#34;. The Nazgûl does not slow down and decapitates the Bounder with his blade.</dd></dl>
 

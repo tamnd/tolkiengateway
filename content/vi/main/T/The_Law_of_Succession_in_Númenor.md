@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Law of Succession in Númenor"
 ---
 
-Chuyển hướng đến [Luật kế vị ở Númenor](../L/Law_of_Succession_in_Númenor.md).
+Chuyển hướng đến [Luật kế vị trong Númenor](../L/Law_of_Succession_in_Númenor.md).

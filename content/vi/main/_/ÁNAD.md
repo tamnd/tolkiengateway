@@ -14,9 +14,9 @@ sort_keys:
   "Roots": "ANAD"
 ---
 
-**ÁNAD** và **ANDA** là [gốc Elvish](../E/Elvish.md) [gốc](../S/Sundocarme.md) liên quan đến độ dài.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**ÁNAD** và **ANDA** là [Elvish](../E/Elvish.md) [gốc](../S/Sundocarme.md) liên quan đến độ dài.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-- [Quendian nguyên thủy](../P/Primitive_Quendian.md): *andā* ("dài")
+- [Primitive Quendian](../P/Primitive_Quendian.md): *andā* ("dài")
     - [Quenya](../Q/Quenya.md): *[anda](../A/Anda.md)*; *[andave](../A/Andave.md)*
     - [Noldorin](../N/Noldorin.md) ([Sindarin](../S/Sindarin.md)): *[and](../A/And.md)*
 

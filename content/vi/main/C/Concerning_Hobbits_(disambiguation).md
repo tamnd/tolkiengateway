@@ -14,11 +14,11 @@ images:
   - "Disambig.png"
 ---
 
-**Liên quan đến người Hobbit** có thể đề cập đến:
+**Về Hobbit** có thể tham khảo:
 
-- "**[Liên quan đến người Hobbit](Concerning_Hobbits.md)**", phần đầu tiên của [Lời mở đầu](<../P/Prologue_(The_Lord_of_the_Rings).md>) tới *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*;
-- "[Về người Hobbit (cảnh)](<Concerning_Hobbits_(scene).md>)", cảnh thứ hai của [*The Lord of the Rings: The Fellowship of the Ring* (extended edition)](<../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(extended_edition).md>);
-    - "[Liên quan đến người Hobbit (nhạc phim)](<Concerning_Hobbits_(soundtrack).md>)", ca khúc thứ hai của *[The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture Soundtrack](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack.md)*.
+- "**[Liên quan đến Hobbit](Concerning_Hobbits.md)**", phần đầu tiên của [Lời mở đầu](<../P/Prologue_(The_Lord_of_the_Rings).md>) tới *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*;
+- "[Về Hobbit (cảnh)](<Concerning_Hobbits_(scene).md>)", cảnh thứ hai của [*The Lord of the Rings: The Fellowship of the Ring* (extended edition)](<../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(extended_edition).md>);
+    - "[Về Hobbit (nhạc phim)](<Concerning_Hobbits_(soundtrack).md>)", ca khúc thứ hai của *[The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture Soundtrack](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack.md)*.
 
 <hr style="margin-top:15px;"/>
 

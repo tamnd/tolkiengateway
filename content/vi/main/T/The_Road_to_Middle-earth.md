@@ -53,11 +53,11 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/R/Road_to_Middle-earth_1982.png.md"><img src="https://tolkiengateway.net/w/images/thumb/8/80/Road_to_Middle-earth_1982.png/298px-Road_to_Middle-earth_1982.png" decoding="async" loading="lazy" width="298" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/8/80/Road_to_Middle-earth_1982.png 1.5x" data-file-width="311" data-file-height="500"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Road to Middle-earth:<br/><small>How J.R.R. Tolkien Created a New Mythology</small></span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a href="Tom_Shippey.md" title="Tom Shippey">Tom Shippey</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a class="mw-redirect" href="../G/George_Allen_and_Unwin.md" title="George Allen and Unwin">George Allen and Unwin</a> (UK)<br/><a class="mw-redirect" href="../H/Houghton_Mifflin.md" title="Houghton Mifflin">Houghton Mifflin</a> (US)</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/1982.md" title="1982">1982</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Hardcover; paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">264</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0048090182" title="Special:BookSources/0048090182">0048090182</a></td></tr></tbody></table>
 
-<i><b>Con đường đến Trung địa: Cách J.R.R. Tolkien tạo ra một thần thoại mới</b></i> là một nghiên cứu mang tính học thuật về [Trung địa](../M/Middle-earth.md) được tạo bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Cuốn sách được viết bởi giáo sư [Tom Shippey](Tom_Shippey.md), xuất bản lần đầu vào năm [1982](../_/1982.md). Đây là một trong những cuốn sách được đánh giá cao nhất trong học bổng Tolkien.
+<i><b>Con đường tới Trung Địa: Cách J.R.R. Tolkien tạo ra một thần thoại mới</b></i> là một nghiên cứu mang tính học thuật về [Trung Địa](../M/Middle-earth.md) được tạo bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Cuốn sách được viết bởi giáo sư [Tom Shippey](Tom_Shippey.md), xuất bản lần đầu vào năm [1982](../_/1982.md). Đây là một trong những cuốn sách được đánh giá cao nhất trong học bổng Tolkien.
 
 Cuốn sách khám phá sự sáng tạo của Tolkien và nguồn cảm hứng của ông, thảo luận về nguồn gốc của *[The Hobbit](The_Hobbit.md)*, *[The Lord of the Rings](The_Lord_of_the_Rings.md)*, *[The Silmarillion](The_Silmarillion.md)*, cho thấy chúng đóng góp như thế nào cho thần thoại của Tolkien và cách chúng có thể được đánh giá cao.
 
-Ấn bản thứ hai đã được xuất bản trong [1992](../_/1992.md), để kết hợp các cuộc thảo luận về loạt bài *[History of Middle-earth](../H/History_of_Middle-earth.md)*. Và ấn bản thứ ba trong [2003](../_/2003.md), để phản ánh những ấn phẩm mới và những quan điểm mới về nghiên cứu của Tolkien.
+Ấn bản thứ hai đã được xuất bản trong [1992](../_/1992.md), để kết hợp các cuộc thảo luận về loạt bài *[History of Middle-earth](../H/History_of_Middle-earth.md)*. Và ấn bản thứ ba trong [2003](../_/2003.md), để phản ánh những ấn phẩm mới và những quan điểm mới về nghiên cứu Tolkien.
 
 Trước khi xuất bản *[Collected Poems](../C/Collected_Poems.md)*, cuốn sách gây chú ý vì có 4 bài thơ hiếm có nguồn gốc từ *[Songs for the Philologists](../S/Songs_for_the_Philologists.md)*, đó là "[Bagme Bloma](../B/Bagme_Bloma.md)", "[Éadig Béo Þu!](../_/Éadig_Béo_Þu!.md)", "[Ides Ælfscýne](../I/Ides_Ælfscýne.md)" và "[Ofer Wídne Gársecg](../O/Ofer_Wídne_Gársecg.md)".
 
@@ -197,11 +197,11 @@ Trước khi xuất bản *[Collected Poems](../C/Collected_Poems.md)*, cuốn s
     - [George Allen và Unwin](../G/George_Allen_and_Unwin.md), bìa cứng ([1982](../_/1982.md)), trang 264. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0048090182">ISBN 0048090182</a>
 
 - Ấn bản thứ hai
-    - [HarperCollins](../H/HarperCollins.md) bìa mềm ([1992](../_/1992.md)), trang 352. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0261102753">ISBN 0261102753</a>
+    - [HarperCollins](../H/HarperCollins.md) bìa mềm ([1992](../_/1992.md)), trang 352. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0261102753">ISBN 0261102753</a>
         - Ấn bản bìa mềm năm 1992, ấn bản thứ 2
 
 - Ấn bản thứ ba
-    - [Houghton Mifflin](../H/Houghton_Mifflin.md), bìa mềm ([2003](../_/2003.md)), trang 416. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0618257608">ISBN 0618257608</a>
+    - [Houghton Mifflin](../H/Houghton_Mifflin.md), bìa mềm ([2003](../_/2003.md)), trang 416. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0618257608">ISBN 0618257608</a>
     - [HarperCollins](../H/HarperCollins.md) bìa mềm ([2005](../_/2005.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0261102753">ISBN 0261102753</a>
         - Ấn bản bìa mềm năm 2005, in lần thứ 30 ([2025](../_/2025.md))
 
@@ -211,7 +211,7 @@ Trước khi xuất bản *[Collected Poems](../C/Collected_Poems.md)*, cuốn s
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="https://muse.jhu.edu/article/182567" rel="noreferrer noopener" target="_blank">Đánh giá sách</a> của Gergely Nagy, từ [Tolkien Studies. 2](Tolkien_Studies%253A_Volume_2.md)
+- <a class="external text" href="https://muse.jhu.edu/article/182567" rel="noreferrer noopener" target="_blank">Đánh giá sách</a> của Gergely Nagy, từ [Tolkien Nghiên cứu. 2](Tolkien_Studies%253A_Volume_2.md)
 
 <br>
 

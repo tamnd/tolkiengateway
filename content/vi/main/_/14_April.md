@@ -64,7 +64,7 @@ Sự kiện xảy ra vào ngày 14 tháng 4.
 
 - **[1879](1879.md)** - Tác giả [James Branch Cabell](../J/James_Branch_Cabell.md) ra đời.
 - **[1924](1924.md)** - Diễn viên lồng tiếng [Philip Stone](../P/Philip_Stone.md) ra đời.
-- **[1946](1946.md)** - Bài phê bình "[Nghiên cứu v. Văn học](<../S/Sunday_Times_(14_April_1946).md>)" của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được xuất bản.
+- **[1946](1946.md)** - Bài phê bình "[Nghiên cứu v. Văn học](<../S/Sunday_Times_(14_April_1946).md>)" của tác giả [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được xuất bản.
 - **[1950](1950.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 127](../L/Letter_127.md).
 - **[1954](1954.md)** - Nhà văn truyện tranh [Charles Dixon](../C/Charles_Dixon.md) ra đời.
 - **[1955](1955.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 161](../L/Letter_161.md).
@@ -73,9 +73,9 @@ Sự kiện xảy ra vào ngày 14 tháng 4.
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [2510](../T/Third_Age_2510.md):
-    - [Eorl the Young](../E/Eorl.md) và [Éothéod](Éothéod.md) đi tới [Field of Celebrant](../F/Field_of_Celebrant.md).
+    - [Eorl the Young](../E/Eorl.md) và [Éothéod](Éothéod.md) di chuyển về phía [Trường Celebrant](../F/Field_of_Celebrant.md).
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - Vầng trăng cuối cùng<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+    - Quý cuối cùng của Mặt Trăng<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

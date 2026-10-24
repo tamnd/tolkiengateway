@@ -18,13 +18,13 @@ categories:
 <p class="tg-quote-footer"><cite><a href="../U/Uglúk.md" title="Uglúk">Uglúk</a><sup id="cite_ref-UH_1-0" class="reference"><a href="#cite_note-UH-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Khỉ** là động vật sống ở [xa về phía Nam](../F/Far_Harad.md) của [Trung Địa](../M/Middle-earth.md).
+**Khỉ** là động vật sống ở [viễn Nam](../F/Far_Harad.md) của [Trung Địa](../M/Middle-earth.md).
 
-Được cho là sống trong những khu rừng tối tăm ở miền Nam,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>chúng dường như chỉ được biết đến trong những câu chuyện ở miền Bắc. Có lẽ do trí thông minh kém hơn nên từ "ape", cùng với "maggot" và <i><a class="mw-redirect mw-disambig" href="../S/Snaga.md" title="Snaga">snaga</a></i>, đã trở thành một từ xúc phạm được sử dụng bởi [Orc](../O/Orcs.md).<sup id="cite_ref-UH_1-1" class="reference"><a href="#cite_note-UH-1">[1]</a></sup>
+Được cho là sống trong những khu rừng tối tăm ở miền Nam,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>chúng dường như chỉ được biết đến trong những câu chuyện ở miền Bắc. Có lẽ do chúng kém thông minh hơn nên từ "khỉ" cùng với "giòi" và <i><a class="mw-redirect mw-disambig" href="../S/Snaga.md" title="Snaga">snaga</a></i>đã trở thành một từ xúc phạm được [Orc](../O/Orcs.md) sử dụng.<sup id="cite_ref-UH_1-1" class="reference"><a href="#cite_note-UH-1">[1]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1995: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Nhập vai ở Trung Địa</a>—<a href="../C/Creatures_of_Middle-earth_(2nd_edition).md" title="Creatures of Middle-earth (2nd edition)">Các sinh vật ở Trung Địa</a></i></b>
+<b>1995: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a>—<a href="../C/Creatures_of_Middle-earth_(2nd_edition).md" title="Creatures of Middle-earth (2nd edition)">Sinh vật của Trung Địa</a></i></b>
 
 <dl><dd>Grey Apes are described as living in the forests of Pel in the far south. They&#39;re called <i>Cijuvu Niavi</i> in the tongue of Pel and <i>Peredrûgwath</i> in <a href="../S/Sindarin.md" title="Sindarin">Sindarin</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></dd></dl>
 

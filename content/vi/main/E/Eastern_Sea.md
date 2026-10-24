@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "East Sea"
 ---
 
-Chuyển hướng đến [Biển Đông](East_Sea.md).
+Chuyển hướng đến [phương Đông Biển](East_Sea.md).

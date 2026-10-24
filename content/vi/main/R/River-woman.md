@@ -23,13 +23,13 @@ langlinks:
     url: "https://kontu.wiki/Jokinainen"
 ---
 
-**Người phụ nữ bên sông**, được cho là mẹ của [Goldberry](../G/Goldberry.md), có thể là một nhân vật hư cấu chỉ được đề cập trong một câu thơ vì có liên quan đến [Withywindle](../W/Withywindle.md) của [Old Forest](../O/Old_Forest.md).
+**Người phụ nữ bên sông**, được cho là mẹ của [Goldberry](../G/Goldberry.md), có thể là một nhân vật hư cấu chỉ được đề cập trong một câu thơ vì có liên quan đến [Withywindle](../W/Withywindle.md) của [Khu Rừng Cổ](../O/Old_Forest.md).
 
-Trong một bài thơ, [Tom Bombadil](../T/Tom_Bombadil.md) bị Goldberry đang bơi kéo xuống sông. Cô bơi “về nhà mẹ ở chỗ trũng sâu nhất”. Sau đó, Tom quay lại sông và nhờ người phụ nữ sông cho bàn tay của Goldberry; bà vâng lời không chút nghi ngờ nên hai người kết hôn.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Trong một bài thơ, [Tom Bombadil](../T/Tom_Bombadil.md) bị kéo xuống sông khi đang bơi Goldberry. Cô bơi “về nhà mẹ ở chỗ trũng sâu nhất”. Sau đó, Tom quay lại sông và xin bàn tay của Goldberry người phụ nữ sông; bà vâng lời không chút nghi ngờ nên hai người kết hôn.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ### Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007-: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
+<b>2007-: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>The <b>River-maidens</b> are spirits that watch over the waters of <a href="../M/Middle-earth.md" title="Middle-earth">Middle-earth</a>, one is said to be present whenever a river is flowing. <a href="../G/Goldberry.md" title="Goldberry">Goldberry</a> is the River-maiden of <a href="../W/Withywindle.md" title="Withywindle">Withywindle</a>, and others can be found watching over <a class="mw-redirect" href="../M/Midgewater.md" title="Midgewater">Midgewater</a>, <a class="mw-redirect" href="../M/Mitheithel.md" title="Mitheithel">Mitheithel</a>, <a href="../G/Gladden_River.md" title="Gladden River">Gladden</a>, <a href="../G/Gilrain.md" title="Gilrain">Gilrain</a>, <a href="../S/Serni.md" title="Serni">Serni</a>, <a href="../C/Celos.md" title="Celos">Celos</a>, <a href="../S/Sirith.md" title="Sirith">Sirith</a> and <a href="../E/Erui.md" title="Erui">Erui</a>. Some show themselves openly, others are secretive and only reveal themselves to the Wise and the descendants of the <a href="../N/Númenóreans.md" title="Númenóreans">Númenóreans</a> who had known of River-maidens in the years of old. But some were driven mad by the bloodshed spilled over their waters, or even slain by the servants of the Enemy who then take on their fair appearance.</dd></dl>
 

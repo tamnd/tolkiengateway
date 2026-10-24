@@ -16,11 +16,11 @@ sort_keys:
   "Quenya suffixes": "We"
 ---
 
-<i><b>-wë</b></i> (hoặc *-we*) là hậu tố [Quenya](../Q/Quenya.md) được sử dụng chủ yếu trong các tên nam tính thông thường hơn ở [Thời kỳ thứ nhất](../F/First_Age.md). Nó được dịch là "người đàn ông" hoặc đơn giản là "người".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-WJAD1_2-0" class="reference"><a href="#cite_note-WJAD1-2">[2]</a></sup><sup id="cite_ref-LR_3-0" class="reference"><a href="#cite_note-LR-3">[3]</a></sup>
+<i><b>-wë</b></i> (hoặc *-we*) là hậu tố [Quenya](../Q/Quenya.md) được sử dụng chủ yếu trong các tên nam tính thông thường hơn trong [Kỷ Đệ Nhất](../F/First_Age.md). Nó được dịch là "người đàn ông" hoặc đơn giản là "người".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-WJAD1_2-0" class="reference"><a href="#cite_note-WJAD1-2">[2]</a></sup><sup id="cite_ref-LR_3-0" class="reference"><a href="#cite_note-LR-3">[3]</a></sup>
 
-Nó được nhìn thấy dưới tên của Yêu tinh [Cuiviénen](../C/Cuiviénen.md) và [Great March](../G/Great_March.md): [Morwë](../M/Morwë.md), [Nurwë](../N/Nurwë.md), [Ingwë](../I/Ingwë.md), [Finwë](../F/Finwë.md), [Elwë](../E/Elwë.md), [Olwë](../O/Olwë.md), [Nowë](../N/Nowë.md) và [Lenwë](../L/Lenwë.md).
+Nó được thấy dưới tên của Tiên tộc của [Cuiviénen](../C/Cuiviénen.md) và [Great March](../G/Great_March.md): [Morwë](../M/Morwë.md), [Nurwë](../N/Nurwë.md), [Ingwë](../I/Ingwë.md), [Finwë](../F/Finwë.md), [Elwë](../E/Elwë.md), [Olwë](../O/Olwë.md), [Nowë](../N/Nowë.md) và [Lenwë](../L/Lenwë.md).
 
-Hậu tố này xuất hiện thường xuyên trong các tên Quenya khác của Thời đại thứ nhất, chẳng hạn như [Voronwë](../V/Voronwë.md), nói chung nhưng không chỉ dành riêng cho nam tính.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Hậu tố này xuất hiện thường xuyên trong các tên Quenya khác của Kỷ Đệ Nhất, chẳng hạn như [Voronwë](../V/Voronwë.md), nói chung nhưng không chỉ dành riêng cho nam tính.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 Đoạn kết cũng được thấy trong [Manwë](../M/Manwë.md),<sup id="cite_ref-WJAD1_2-1" class="reference"><a href="#cite_note-WJAD1-2">[2]</a></sup> và có lẽ cả trong [Eönwë](../E/Eönwë.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
@@ -28,15 +28,15 @@ Yếu tố này có nghĩa cổ xưa là "người",<sup id="cite_ref-finwe_6-0"
 
 ## Từ nguyên {#Etymology}
 
-Trong [*Etymologies*](../T/The_Etymologies.md), *-we* bắt nguồn từ phần cuối [Quendian nguyên thủy](../P/Primitive_Quendian.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=-wego&amp;action=edit&amp;redlink=1" title="-wego (page does not exist)">-wego</a></i> (từ [root](../S/Sundocarme.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=WEG&amp;action=edit&amp;redlink=1" title="WEG (page does not exist)">WEG</a>).<sup id="cite_ref-LR_3-1" class="reference"><a href="#cite_note-LR-3">[3]</a></sup>
+Trong [*Etymologies*](../T/The_Etymologies.md), *-we* xuất phát từ đuôi [Primitive Quendian](../P/Primitive_Quendian.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=-wego&amp;action=edit&amp;redlink=1" title="-wego (page does not exist)">-wego</a></i> (từ [root](../S/Sundocarme.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=WEG&amp;action=edit&amp;redlink=1" title="WEG (page does not exist)">WEG</a>).<sup id="cite_ref-LR_3-1" class="reference"><a href="#cite_note-LR-3">[3]</a></sup>
 
-Trong văn bản sau "[The Shibboleth of Fëanor](../T/The_Shibboleth_of_Fëanor.md)", phần kết bắt nguồn từ gốc <a class="new" href="https://tolkiengateway.net/w/index.php?title=EWE&amp;action=edit&amp;redlink=1" title="EWE (page does not exist)">EWE</a>, cũng là một từ cổ chỉ "người".<sup id="cite_ref-finwe_6-1" class="reference"><a href="#cite_note-finwe-6">[6]</a></sup>
+Trong văn bản sau "[The Shibboleth of Fëanor](../T/The_Shibboleth_of_Fëanor.md)", phần kết thúc bắt nguồn từ gốc <a class="new" href="https://tolkiengateway.net/w/index.php?title=EWE&amp;action=edit&amp;redlink=1" title="EWE (page does not exist)">EWE</a>, cũng là một từ cổ chỉ "người".<sup id="cite_ref-finwe_6-1" class="reference"><a href="#cite_note-finwe-6">[6]</a></sup>
 
 ## Có cùng nguồn gốc {#Cognates}
 
-Phần tử này được nhìn thấy dưới dạng tên [Quenya](../Q/Quenya.md), có lẽ đại diện cho [Common Eldarin](../C/Common_Eldarin.md). Phần cuối của tên dường như không còn tồn tại ở các thế hệ sau hoặc trong các ngôn ngữ khác; một ngoại lệ là thành phần *-u* chỉ thấy trong tên *[Elu](../E/Elu.md)* (từ \**Elwego*), được biết đến nhiều hơn với cái tên [Thingol](../T/Thingol.md) trong [Sindarin](../S/Sindarin.md). Yêu tinh *Nowë* được biết đến nhiều hơn với cái tên [Círdan](../C/Círdan.md).<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup>
+Phần tử này được nhìn thấy dưới dạng tên [Quenya](../Q/Quenya.md) và có lẽ đại diện cho [Common Eldarin](../C/Common_Eldarin.md). Phần cuối của tên dường như không còn tồn tại ở các thế hệ sau hoặc trong các ngôn ngữ khác; một ngoại lệ là phần tử *-u* chỉ thấy trong tên *[Elu](../E/Elu.md)* (từ \**Elwego*), được biết đến nhiều hơn với cái tên [Thingol](../T/Thingol.md) trong [Sindarin](../S/Sindarin.md). Tiên *Nowë* được biết đến nhiều hơn với tên [Círdan](../C/Círdan.md).<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup>
 
-Olwë trở thành [Olue](../O/Olue.md) ở [Telerin](../T/Telerin.md). Lenwë được biết đến với cái tên [Denweg](../D/Denweg.md).<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup>
+Olwë đã trở thành [Olue](../O/Olue.md) vào [Telerin](../T/Telerin.md). Lenwë được biết đến với cái tên [Denweg](../D/Denweg.md).<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup>
 
 ## Xem thêm {#See_also}
 

@@ -12,11 +12,11 @@ categories:
   - "Roots"
 ---
 
-**KELU** là một [Eldarin thông thường](../C/Common_Eldarin.md) [gốc](../S/Sundocarme.md) biểu thị "chảy ra nhanh chóng".<sup id="cite_ref-UT_1-0" class="reference"><a href="#cite_note-UT-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**KELU** là một [Common Eldarin](../C/Common_Eldarin.md) [gốc](../S/Sundocarme.md) biểu thị "chảy ra nhanh chóng".<sup id="cite_ref-UT_1-0" class="reference"><a href="#cite_note-UT-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Công cụ phái sinh {#Derivatives}
 
-- [Tiếng Sindarin](../S/Sindarin.md): *[Celos](../C/Celos.md)*<sup id="cite_ref-UT_1-1" class="reference"><a href="#cite_note-UT-1">[1]</a></sup>
+- [Sindarin](../S/Sindarin.md): *[Celos](../C/Celos.md)*<sup id="cite_ref-UT_1-1" class="reference"><a href="#cite_note-UT-1">[1]</a></sup>
 - [Quenya](../Q/Quenya.md): *kelussë* ("nước trong lành, nước chảy ào ào từ suối đá")<sup id="cite_ref-UT_1-2" class="reference"><a href="#cite_note-UT-1">[1]</a></sup>
 
 <span></span>

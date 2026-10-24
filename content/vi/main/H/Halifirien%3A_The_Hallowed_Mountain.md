@@ -12,7 +12,7 @@ categories:
   - "Fan films"
 ---
 
-**Halifirien: The Hallowed Mountain** là một bộ phim dành cho người hâm mộ, được phát hành trực tuyến vào [ngày 8 tháng 9](../_/8_September.md), [2009](../_/2009.md).
+**Halifirien: The Hallowed Mountain** là một bộ phim dành cho người hâm mộ, được phát hành trực tuyến vào [tháng Chín 8](../_/8_September.md), [2009](../_/2009.md).
 
 ## Sản xuất {#Production}
 
@@ -22,11 +22,11 @@ Việc sản xuất bắt đầu vào năm 2007. Đầu năm 2009, kịch bản 
 
 Từ trang web chính thức:
 
-> Trong thời gian diễn ra [War of the Ring](../W/War_of_the_Ring.md) một cậu bé sẽ phải đối mặt với nhiệm vụ của riêng mình, thắp sáng [đèn hiệu](../W/Warning_beacons_of_Gondor.md) cuối cùng và ra hiệu cho [Rohan](../R/Rohan.md) rằng [Gondor](../G/Gondor.md) kêu gọi viện trợ.
+> Trong thời gian [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), một cậu bé sẽ phải đối mặt với nhiệm vụ của riêng mình, thắp sáng [đèn hiệu](../W/Warning_beacons_of_Gondor.md) cuối cùng và ra hiệu cho [Rohan](../R/Rohan.md) rằng [Gondor](../G/Gondor.md) kêu gọi viện trợ.
 >
-> Trên ngọn núi [Halifirien](Halifirien.md), nhìn ra biên giới giữa hai vương quốc, những người cai ngục canh gác tín hiệu cổ xưa sẽ kêu gọi những người phương Tây đoàn kết chống lại mối đe dọa của [Mordor](../M/Mordor.md).
+> Trên đỉnh núi [Halifirien](Halifirien.md), nhìn ra biên giới giữa hai vương quốc, những người cai ngục canh giữ tín hiệu cổ xưa sẽ kêu gọi những người phương Tây đoàn kết chống lại mối đe dọa của [Mordor](../M/Mordor.md).
 >
-> Khi cái bóng của [Sauron](../S/Sauron.md) phủ lên [Trung Địa](../M/Middle-earth.md) *(sic)*, [orc](../O/Orcs.md) nhóm chiến binh tiến sâu hơn vào vùng đất tự do và một đêm nọ xâm chiếm ngọn núi linh thiêng nơi những người cai ngục canh gác. Khi Eradur (James Robinson) và anh trai (Dominic Downes) đang canh gác, họ nghe thấy tiếng ồn ào của trận chiến từ phía dưới núi. Họ có đi giúp đỡ bạn bè của họ không? Hay ở lại và giữ đúng nghĩa vụ đã tuyên thệ?
+> Khi cái bóng của [Sauron](../S/Sauron.md) phủ lên [Trung Địa](../M/Middle-earth.md) *(sic)*, [orc](../O/Orcs.md) các nhóm chiến tranh tiến sâu hơn vào vùng đất tự do và một đêm nọ xâm chiếm ngọn núi linh thiêng nơi những người cai ngục canh gác. Khi Eradur (James Robinson) và anh trai (Dominic Downes) đang canh gác, họ nghe thấy tiếng ồn ào của trận chiến từ phía dưới núi. Họ có đi giúp đỡ bạn bè của họ không? Hay ở lại và giữ đúng nghĩa vụ đã tuyên thệ?
 >
 > Eradur sẽ phải đối mặt với sự mất mát những người thân yêu nhất của mình khi anh bị săn lùng bởi lũ Orc khát máu và buộc phải một mình đối mặt với nỗi sợ hãi.
 

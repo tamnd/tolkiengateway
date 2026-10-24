@@ -11,4 +11,4 @@ redirect_target: "Thorondor"
 redirect_fragment: "Etymology"
 ---
 
-Chuyển hướng tới [Thorondor](../T/Thorondor.md#Etymology).
+Chuyển hướng đến [Thorondor](../T/Thorondor.md#Etymology).

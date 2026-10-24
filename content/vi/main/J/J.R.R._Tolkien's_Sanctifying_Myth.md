@@ -38,7 +38,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien&#39;s_Sanctifying_Myth.png.md"><img src="https://tolkiengateway.net/w/images/b/b2/J.R.R._Tolkien%27s_Sanctifying_Myth.png" decoding="async" loading="lazy" width="312" height="470" class="mw-file-element" data-file-width="312" data-file-height="470"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>J.R.R. Tolkien&#39;s Sanctifying Myth:<br/><small>Understanding Middle-earth</small></span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a href="../B/Bradley_J._Birzer.md" title="Bradley J. Birzer">Bradley J. Birzer</a></td></tr><tr><th scope="row" class="tg-infobox-label">Foreword by</th><td class="tg-infobox-data"><a href="Joseph_Pearce.md" title="Joseph Pearce">Joseph Pearce</a></td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data">Sam Torode (cover artwork)</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">ISI Books</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">November <a href="../_/2002.md" title="2002">2002</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Hardcover/Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">219</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/978-1882926848" title="Special:BookSources/978-1882926848">978-1882926848</a></td></tr></tbody></table>
 
-Huyền thoại thánh hóa của <i><b>J.R.R. Tolkien: Tìm hiểu về Trung Địa</b></i> là một nghiên cứu [2002](../_/2002.md) về [J.R.R. Tolkien](J.R.R._Tolkien.md).
+Huyền thoại thánh hóa của <i><b>J.R.R. Tolkien: Hiểu Trung Địa</b></i> là một nghiên cứu [2002](../_/2002.md) về [J.R.R. Tolkien](J.R.R._Tolkien.md).
 
 ## Từ nhà xuất bản {#From_the_publisher}
 
@@ -58,7 +58,7 @@ Huyền thoại thánh hóa của <i><b>J.R.R. Tolkien: Tìm hiểu về Trung �
 - Chương 3: Trật tự được tạo ra
 - Chương 4: Chủ nghĩa anh hùng
 - Chương 5: Bản chất của cái ác
-- Chương 6: Trung Địa và Hiện đại
+- Chương 6: Trung Địa và Tính Hiện đại
 - Chương 7: Bản chất của ân sủng được công bố
 
 - Ghi chú

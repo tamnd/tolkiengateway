@@ -18,7 +18,7 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/B/Brian_Durfee_-_Hey!_Come_merry_dol!.jpg.md"><img src="https://tolkiengateway.net/w/images/2/24/Brian_Durfee_-_Hey%21_Come_merry_dol%21.jpg" decoding="async" loading="lazy" width="300" height="254" class="mw-file-element" data-file-width="300" data-file-height="254"/></a><figcaption><i>Hey! Come merry dol!</i> in <a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">MECCG</a>; artwork by Brian Durfee.</figcaption></figure>
 
-**Này đồ ngốc! vui vẻ nhé con cá heo! ring a dong dillo!** là một trong những bài hát được hát bởi [Tom Bombadil](../T/Tom_Bombadil.md) trong [Old Forest](../O/Old_Forest.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Này đồ ngốc! vui vẻ nhé con cá heo! ring a dong dillo!** là một trong những bài hát được hát bởi [Tom Bombadil](../T/Tom_Bombadil.md) trong [Khu Rừng Cổ](../O/Old_Forest.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Bài thơ {#The_poem}
 
@@ -47,7 +47,7 @@ images:
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1995-8: <i><a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Trò chơi thẻ bài sưu tầm ở Trung Địa</a></i>:</b>
+<b>1995-8: <i><a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Trung Địa Trò chơi bài sưu tầm</a></i>:</b>
 
 <dl><dd>&#34;Hey! come merry dol!&#34; is a Short-event card, providing a player with easier passage through Wilderness.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></dd></dl>
 

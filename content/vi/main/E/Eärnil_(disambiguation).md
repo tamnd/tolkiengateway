@@ -31,8 +31,8 @@ images:
 
 **Eärnil** ([Q](../Q/Quenya.md), dạng rút gọn của [Eärendil](Eärendil.md), phát âm <span title="Pronunciation in IPA" class="IPA">[eˈarnil]</span>) có thể đề cập đến:
 
-- [Eärnil I](Eärnil_I.md), [Vua](../K/Kings_of_Gondor.md) thứ mười ba của [Gondor](../G/Gondor.md) và là [Vua tàu](../S/Ship-king.md) thứ hai của nước này.
-- [Eärnil II](Eärnil_II.md), Vua thứ ba mươi hai của Gondor, người đã thắng [Trận chiến trại](../B/Battle_of_the_Camp.md).
+- [Eärnil Tôi](Eärnil_I.md), [Vua](../K/Kings_of_Gondor.md) thứ mười ba của [Gondor](../G/Gondor.md) và là người thứ hai trong số [Vua tàu](../S/Ship-king.md).
+- [Eärnil II](Eärnil_II.md), Vua Gondor thứ ba mươi giây, người đã thắng [Trận chiến trong trại](../B/Battle_of_the_Camp.md).
 
 <hr style="margin-top:15px;"/>
 

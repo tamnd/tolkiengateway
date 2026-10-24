@@ -63,7 +63,7 @@ Sự kiện xảy ra vào ngày 14 tháng 2.
 
 ## Trên Trái đất {#On_Earth}
 
-- **[1896](1896.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một bức thư gửi bố](../L/Letter_to_Arthur_Tolkien.md).
+- **[1896](1896.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một lá thư gửi cho bố](../L/Letter_to_Arthur_Tolkien.md).
 - **[1896](1896.md)** - [E.V. Gordon](../E/E.V._Gordon.md), đồng nghiệp sau này của Tolkien, ra đời.
 - **[1914](1914.md)** - Dịch giả [Britt G. Hallqvist](../B/Britt_G._Hallqvist.md) ra đời.
 - **[1918](1918.md)** - Nhà sản xuất [William Lawrence Snyder](../W/William_Lawrence_Snyder.md) ra đời.
@@ -75,7 +75,7 @@ Sự kiện xảy ra vào ngày 14 tháng 2.
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - [Hiệp hội của chiếc nhẫn](../F/Fellowship_of_the_Ring.md) nằm ở [Lothlórien](../L/Lothlórien.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup>
+    - [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) nằm ở [Lothlórien](../L/Lothlórien.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup>
 
 ## Ghi chú {#Notes}
 

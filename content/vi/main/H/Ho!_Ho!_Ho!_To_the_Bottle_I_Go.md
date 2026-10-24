@@ -22,7 +22,7 @@ images:
 
 <figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/R/Romana_Kendelic_-_Drinking_Song.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/a/a8/Romana_Kendelic_-_Drinking_Song.jpg/300px-Romana_Kendelic_-_Drinking_Song.jpg" decoding="async" loading="lazy" width="300" height="286" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/a8/Romana_Kendelic_-_Drinking_Song.jpg/450px-Romana_Kendelic_-_Drinking_Song.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/a/a8/Romana_Kendelic_-_Drinking_Song.jpg/600px-Romana_Kendelic_-_Drinking_Song.jpg 2x" data-file-width="1268" data-file-height="1210"/></a><figcaption>&#34;Drinking Song&#34; by <a href="../../category/I/Images_by_Romana_Kendelic.md" title="Category:Images by Romana Kendelic">Romana Kendelic</a></figcaption></figure>
 
-"**Ho! Ho! Ho! to the Bottle I go**" là dòng đầu tiên của bài thơ được hát bởi [Samwise Gamgee](../S/Samwise_Gamgee.md) và [Peregrin Took](../P/Peregrin_Took.md). [Các lữ khách](../T/Travellers.md) gần đây đã rời khỏi sự đồng hành của các Yêu tinh cao cấp và, trước sự vui mừng của họ, họ phát hiện ra rằng họ "đã đổ đầy chai của mình một loại đồ uống trong suốt, có màu vàng nhạt". Rượu làm tinh thần họ nhẹ nhõm hơn và gợi lên một bài hát của Sam và Pippin.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+"**Ho! Ho! Ho! Tôi đi vào chai**" là dòng đầu tiên của bài thơ được hát bởi [Samwise Gamgee](../S/Samwise_Gamgee.md) và [Peregrin Took](../P/Peregrin_Took.md). [ Lữ khách](../T/Travellers.md) gần đây đã rời khỏi phần đệm của High Elves và, trước sự vui mừng của họ, họ phát hiện ra rằng họ "đã đổ đầy đồ uống trong suốt, có màu vàng nhạt vào chai của mình". Rượu làm tinh thần họ nhẹ nhõm hơn và gợi lên một bài hát của Sam và Pippin.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Bài thơ {#Poem}
 
@@ -48,7 +48,7 @@ And let the clouds go sailing by!
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2001: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">Chúa tể của những chiếc nhẫn: Hiệp hội những chiếc nhẫn</a></i> (<a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(extended_edition).md" title="The Lord of the Rings: The Fellowship of the Ring (extended edition)">Phiên bản mở rộng</a>)</b>
+<b>2001: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i> (<a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(extended_edition).md" title="The Lord of the Rings: The Fellowship of the Ring (extended edition)">Phiên bản mở rộng</a>)</b>
 
 <dl><dd><b></b></dd>
 <dd><a href="../M/Meriadoc_Brandybuck.md" title="Meriadoc Brandybuck">Merry</a>, <a href="../P/Peregrin_Took.md" title="Peregrin Took">Pippin</a>, and <a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo</a> sing the song at the <a class="mw-redirect" href="../G/Green_Dragon~72852.md" title="Green Dragon">Green Dragon</a>, with slightly altered lyrics that incorporate a small part of the <a href="../B/Bath-songs.md" title="Bath-songs">bath-song</a>:</dd></dl>

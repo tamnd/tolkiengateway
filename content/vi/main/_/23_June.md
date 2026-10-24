@@ -64,7 +64,7 @@ Sự kiện xảy ra vào ngày 23 tháng 6
 
 - **[1929](1929.md)** - [Barbara Remington](../B/Barbara_Remington.md), nghệ sĩ trang bìa trên một số ấn bản ở Mỹ, đã ra đời.
 - **[1945](1945.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được bầu làm Giáo sư Ngôn ngữ và Văn học Anh Merton.
-- **[2009](2009.md)** - *[The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md): [Mỏ Moria](../T/The_Lord_of_the_Rings_Online%253A_Mines_of_Moria.md#Synopsis)*, "Tai họa Khazad-dûm" được phát hành.
+- **[2009](2009.md)** - *[The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md): [Mìn Moria](../T/The_Lord_of_the_Rings_Online%253A_Mines_of_Moria.md#Synopsis)*, "Tai họa Khazad-dûm" được giải phóng.
 
 ## Trong Arda {#In_Arda}
 

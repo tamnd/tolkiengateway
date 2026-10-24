@@ -22,7 +22,7 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/C/Christopher_Tolkien_-_Nevrast.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/56/Christopher_Tolkien_-_Nevrast.jpg/250px-Christopher_Tolkien_-_Nevrast.jpg" decoding="async" loading="lazy" width="250" height="140" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/56/Christopher_Tolkien_-_Nevrast.jpg/375px-Christopher_Tolkien_-_Nevrast.jpg 1.5x, https://tolkiengateway.net/w/images/5/56/Christopher_Tolkien_-_Nevrast.jpg 2x" data-file-width="382" data-file-height="214"/></a><figcaption>Datail of the <a href="../../file/C/Christopher_Tolkien_-_Map_of_Beleriand_(colored_by_H.E._Riddett).jpg.md" title="File:Christopher Tolkien - Map of Beleriand (colored by H.E. Riddett).jpg">Map of Beleriand</a> by <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a></figcaption></figure>
 
-**Đầm lầy Nevrast** là những đầm lầy rộng lớn ở giữa [Nevrast](../N/Nevrast.md), bao quanh chỉ [Linaewen](../L/Linaewen.md) không có bờ biển nhất định.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Đầm lầy Nevrast** là đầm lầy rộng ở giữa [Nevrast](../N/Nevrast.md), bao quanh chỉ [Linaewen](../L/Linaewen.md) không có bờ biển nhất định.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

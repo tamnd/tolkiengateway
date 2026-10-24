@@ -31,11 +31,11 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien đã viết thư cho [Norman Davis](../N/Norman_Davis.md) của [Đại học Oxford](../O/Oxford_University.md) liên quan đến [bức tượng bán thân](../../file/J/J.R.R._Tolkien's_bust_at_Exeter.jpg.md) của Tolkien, sắp được tặng cho Khoa Thư viện Anh. Nó được làm bởi [Faith](../F/Faith_Faulconbridge.md), vợ (đầu tiên) của [Christopher Tolkien](../C/Christopher_Tolkien.md). Vì bản thân Tolkien cũng nghi ngờ về độ bền của thạch cao nên ông đã đề nghị để nó được đúc bằng đồng bằng chi phí của mình.
+Tolkien đã viết thư cho [Norman Davis](../N/Norman_Davis.md) của Đại học [Oxford](../O/Oxford_University.md) liên quan đến [bức tượng bán thân](../../file/J/J.R.R._Tolkien's_bust_at_Exeter.jpg.md) của Tolkien, sắp được tặng cho Khoa Thư viện Tiếng Anh. Nó được làm bởi [Faith](../F/Faith_Faulconbridge.md), vợ (đầu tiên) của [Christopher Tolkien](../C/Christopher_Tolkien.md). Vì bản thân Tolkien nghi ngờ về độ bền của thạch cao nên ông đã đề nghị để nó được đúc bằng đồng và tự bỏ chi phí.
 
 ## Ghi chú {#Notes}
 
-- Bức tượng bán thân được đúc bằng đồng và tặng cho Khoa Tiếng Anh [Oxford](../U/University_of_Oxford.md) ở [1966](../_/1966.md). Nó vẫn được trưng bày trong Thư viện Khoa tiếng Anh.
+- Bức tượng bán thân được đúc bằng đồng và trao tặng cho Khoa Tiếng Anh [Oxford](../U/University_of_Oxford.md) vào [1966](../_/1966.md). Nó vẫn được trưng bày trong Thư viện Khoa tiếng Anh.
 
 <br>
 

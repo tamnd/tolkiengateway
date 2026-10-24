@@ -15,7 +15,7 @@ hidden_categories:
   - "Pages with short description"
 ---
 
-**Kỳ lân biển** là động vật có vú ở biển cũng được phân loại là cá voi có răng [cá voi](../W/Whale.md). Cùng với [hải cẩu](../S/Sealions.md) họ đã kéo xe của [Ulmo](../U/Ulmo.md) vượt biển.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Kỳ lân biển** là loài động vật có vú ở biển cũng được phân loại là cá voi có răng [cá voi](../W/Whale.md). Cùng với [hải cẩu](../S/Sealions.md) họ đã kéo ô tô của [Ulmo](../U/Ulmo.md) vượt biển.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

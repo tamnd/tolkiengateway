@@ -59,9 +59,9 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/P/Perilous_Realm_1997.jpeg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/32/Perilous_Realm_1997.jpeg/298px-Perilous_Realm_1997.jpeg" decoding="async" loading="lazy" width="298" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/3/32/Perilous_Realm_1997.jpeg 1.5x" data-file-width="311" data-file-height="500"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Tales from the Perilous Realm</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="../A/Alan_Lee.md" title="Alan Lee">Alan Lee</a> (since 2008 edition)</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../H/HarperCollins.md" title="HarperCollins">HarperCollins</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">January <a href="../_/1997.md" title="1997">1997</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Hardcover; paperback; deluxe edition</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">178</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0261103423" title="Special:BookSources/0261103423">0261103423</a></td></tr></tbody></table>
 
-<i><b>Những câu chuyện từ vương quốc nguy hiểm</b></i> là một tuyển tập, xuất bản lần đầu trong [1997](../_/1997.md), gồm một số câu chuyện và bài thơ của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), trước đây đã được xuất bản riêng.
+<i><b>Tales from the Perilous Realm</b></i> là tuyển tập được xuất bản lần đầu trong [1997](../_/1997.md), gồm một số truyện và thơ của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), trước đây đã được xuất bản riêng.
 
-Mối quan hệ chính duy nhất của nó với [Trung địa](../M/Middle-earth.md) là *[The Adventures of Tom Bombadil](The_Adventures_of_Tom_Bombadil.md)*, có nhân vật [Tom Bombadil](Tom_Bombadil.md).
+Mối quan hệ chính duy nhất của nó với [Trung Địa](../M/Middle-earth.md) là *[The Adventures of Tom Bombadil](The_Adventures_of_Tom_Bombadil.md)*, có đặc điểm là ký tự [Tom Bombadil](Tom_Bombadil.md).
 
 ## Ấn bản đầu tiên {#First_edition}
 
@@ -74,9 +74,9 @@ Mối quan hệ chính duy nhất của nó với [Trung địa](../M/Middle-ear
 
 ## Phiên bản mở rộng {#Expanded_edition}
 
-Một ấn bản mở rộng đã được xuất bản vào tháng 9 [2008](../_/2008.md), tiếp theo là [diễn kịch toàn bộ](<Tales_from_the_Perilous_Realm_(1992_radio_series).md>) vào tháng 10. Trong ấn bản này có câu chuyện *[Roverandom](../R/Roverandom.md)*, tiểu luận *[On Fairy-Stories](../O/On_Fairy-Stories.md)*, cũng như phần giới thiệu và lời bạt. Nó được minh họa bởi [Alan Lee](../A/Alan_Lee.md).
+Một ấn bản mở rộng đã được xuất bản trong tháng Chín [2008](../_/2008.md), tiếp theo là [diễn kịch toàn bộ](<Tales_from_the_Perilous_Realm_(1992_radio_series).md>) vào tháng 10. Trong ấn bản này có câu chuyện *[Roverandom](../R/Roverandom.md)*, tiểu luận *[On Fairy-Stories](../O/On_Fairy-Stories.md)*, cũng như phần giới thiệu và lời bạt. Nó được minh họa bởi [Alan Lee](../A/Alan_Lee.md).
 
-- Lời giới thiệu của [Tom Shippey](Tom_Shippey.md)
+- Giới thiệu bởi [Tom Shippey](Tom_Shippey.md)
 - *[Roverandom](../R/Roverandom.md)*
 - [*Farmer Giles of Ham*](../F/Farmer_Giles_of_Ham.md)
 - *[The Adventures of Tom Bombadil](The_Adventures_of_Tom_Bombadil.md)*
@@ -168,10 +168,10 @@ Một ấn bản mở rộng đã được xuất bản vào tháng 9 [2008](../
 </ul>
 
 - [HarperCollins](../H/HarperCollins.md) bìa cứng ([1997](../_/1997.md)), trang 178. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0261103423">ISBN 0261103423</a> - (ấn bản đầu tiên, ảnh bìa của [Roger Garland](../R/Roger_Garland.md))
-- [HarperCollins](../H/HarperCollins.md) bìa mềm ([1998](../_/1998.md)), trang 192. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0261103431">ISBN 0261103431</a>
+- [HarperCollins](../H/HarperCollins.md) bìa mềm ([1998](../_/1998.md)), trang 192. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0261103431">ISBN 0261103431</a>
 - [HarperCollins](../H/HarperCollins.md) bìa mềm ([2002](../_/2002.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007149123">ISBN 0007149123</a> - (bìa dựa trên tác phẩm nghệ thuật của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md))
     - Ấn bản bìa mềm năm 2002, ấn bản thứ 5
-- [HarperCollins](../H/HarperCollins.md) bìa cứng ([2008](../_/2008.md)), trang 432. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007257546">ISBN 0007257546</a> - (ấn bản mở rộng, minh họa bởi [Alan Lee](../A/Alan_Lee.md))
+- [HarperCollins](../H/HarperCollins.md) bìa cứng ([2008](../_/2008.md)), trang 432. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007257546">ISBN 0007257546</a> - (ấn bản mở rộng, minh họa bởi [Alan Lee](../A/Alan_Lee.md))
 - [HarperCollins](../H/HarperCollins.md) bìa cứng có nắp trượt ([2008](../_/2008.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/000728618X">ISBN 000728618X</a>
 - [HarperCollins](../H/HarperCollins.md) bìa mềm ([2009](../_/2009.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007280599">ISBN 0007280599</a>
 - [HarperCollins](../H/HarperCollins.md) bìa cứng ([2021](../_/2021.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0008453349">ISBN 0008453349</a>

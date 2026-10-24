@@ -29,13 +29,13 @@ infobox:
 
 ## Nền {#Background}
 
-Vào mùa hè năm 1943, [Christopher](../C/Christopher_Tolkien.md), lúc đó mới 18 tuổi, được gọi vào Lực lượng Không quân Hoàng gia. Khi bức thư này được viết, ông đang ở Trung tâm tiếp nhận phi hành đoàn ở St John's Wood, London.
+Mùa hè năm 1943, [Christopher](../C/Christopher_Tolkien.md), lúc đó mới 18 tuổi, được gọi vào Lực lượng Không quân Hoàng gia. Khi bức thư này được viết, ông đang ở Trung tâm tiếp nhận phi hành đoàn ở St John's Wood, London.
 
 ## Tóm tắt {#Summary}
 
-Trong bức thư chân thành gửi con trai Christopher, J.R.R. Tolkien bày tỏ tình cảm và sự cảm thông sâu sắc đối với hoàn cảnh của Christopher, so sánh chúng với những trải nghiệm của chính ông trong [Chiến tranh thế giới thứ nhất](../W/World_War_I.md). Ông trấn an con trai rằng gia đình không ngừng nghĩ đến cậu và nhấn mạnh rằng sự phục vụ của Christopher là vì lợi ích của gia đình, nêu bật sức mạnh bền bỉ của tình yêu gia đình trước những lý tưởng trừu tượng. Tolkien cập nhật cho Christopher về cuộc sống gia đình, đề cập đến một buổi lễ nhà thờ gần đây, vụ thu hoạch bội thu quả mâm xôi và mận cũng như bài luận của ông tại trường Cao đẳng Magdalen.
+Trong bức thư chân thành gửi con Christopher, J.R.R. Tolkien bày tỏ tình cảm và sự cảm thông sâu sắc đối với hoàn cảnh của Christopher, so sánh với những trải nghiệm của chính ông trong [Chiến tranh thế giới thứ nhất](../W/World_War_I.md). Ông trấn an con trai rằng gia đình không ngừng nghĩ đến con và nhấn mạnh rằng sự phục vụ của Christopher là vì lợi ích của gia đình, nêu bật sức mạnh bền bỉ của tình yêu gia đình trước những lý tưởng trừu tượng. Tolkien cập nhật Christopher về cuộc sống gia đình, đề cập đến buổi lễ nhà thờ gần đây, vụ thu hoạch bội thu quả mâm xôi và mận, cũng như bài đọc tiểu luận của ông tại trường Cao đẳng Magdalen.
 
-Tolkien cũng chia sẻ những lời khuyên thiết thực, đặc biệt liên quan đến việc tiêm chủng, phản ánh phản ứng bất lợi của chính ông đối với việc tiêm chủng trong thời gian thực hiện nghĩa vụ quân sự. Anh kể lại một sự cố nhỏ liên quan đến cảnh báo vào ban đêm và bày tỏ sự lo lắng cho sức khỏe của Christopher giữa cái nóng mùa hè và những thử thách thời chiến. Bức thư kết thúc bằng lời chúc phúc ấm áp và lời khẳng định về những lời cầu nguyện và tình yêu thương liên tục của ông dành cho con trai mình. <br>
+Tolkien cũng chia sẻ những lời khuyên thiết thực, đặc biệt liên quan đến việc tiêm chủng, phản ánh phản ứng bất lợi của chính ông đối với việc tiêm chủng trong thời gian thực hiện nghĩa vụ quân sự. Anh kể lại một sự cố nhỏ liên quan đến cảnh báo vào ban đêm và bày tỏ mối lo ngại cho sức khỏe của Christopher giữa cái nóng mùa hè và những thách thức của thời chiến. Bức thư kết thúc bằng lời chúc phúc ấm áp và lời khẳng định về những lời cầu nguyện và tình yêu thương liên tục của ông dành cho con trai mình. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

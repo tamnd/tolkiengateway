@@ -44,7 +44,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tolkien_and_the_Classical_World.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/97/Tolkien_and_the_Classical_World.jpg/320px-Tolkien_and_the_Classical_World.jpg" decoding="async" loading="lazy" width="320" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/97/Tolkien_and_the_Classical_World.jpg/480px-Tolkien_and_the_Classical_World.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/9/97/Tolkien_and_the_Classical_World.jpg/640px-Tolkien_and_the_Classical_World.jpg 2x" data-file-width="907" data-file-height="1360"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Tolkien and the Classical World</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Hamish Williams</td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="../J/Jay_Johnstone.md" title="Jay Johnstone">Jay Johnstone</a> (art cover)</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../W/Walking_Tree_Publishers.md" title="Walking Tree Publishers">Walking Tree Publishers</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/23_January.md" title="23 January">23 January</a> <a href="../_/2021.md" title="2021">2021</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">414</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/978-3-905703-45-0" title="Special:BookSources/978-3-905703-45-0">978-3-905703-45-0</a></td></tr><tr><th scope="row" class="tg-infobox-label">Series</th><td class="tg-infobox-data"><a href="../C/Cormarë_Series.md" title="Cormarë Series">Cormarë Series</a></td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="../M/Middle-earth,_or_There_and_Back_Again.md" title="Middle-earth, or There and Back Again">Middle-earth, or There and Back Again</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="The_Gallant_Edith_Bratt.md" title="The Gallant Edith Bratt">The Gallant Edith Bratt</a></td></tr></tbody></table>
 
-<i><b>Tolkien và thế giới cổ điển</b></i> là tập hợp các bài tiểu luận do Hamish Williams biên tập nhằm tìm hiểu những nguồn cảm hứng cổ điển đằng sau các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Nó được xuất bản ở vị trí thứ 45 trong *[Cormarë Series](../C/Cormarë_Series.md)*.
+<i><b>Tolkien và Thế giới Cổ điển</b></i> là tập hợp các bài tiểu luận do Hamish Williams biên tập nhằm tìm hiểu những nguồn cảm hứng cổ điển đằng sau các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Nó được xuất bản ở vị trí thứ 45 trong *[Cormarë Series](../C/Cormarë_Series.md)*.
 
 ## Nội dung {#Contents}
 
@@ -54,32 +54,32 @@ infobox:
 
 <dl><dt>Section 1 - Classical Lives and Histories</dt></dl>
 
-- "Tolkien Nhà cổ điển: Học giả và nhà tư tưởng" của Hamish Williams
-- "Lịch sử Hy Lạp và La Mã ở Númenor của Tolkien" của Ross Clare
+- "Tolkien Người theo chủ nghĩa cổ điển: Học giả và nhà tư tưởng" của Hamish Williams
+- "Lịch sử Hy Lạp và La Mã trong Tolkien's Númenor" của Ross Clare
 
 <dl><dt>Section 2 - Ancient Epic and Myth</dt></dl>
 
-- "Các vị thần trong sử thi (của Tolkien): Những mô hình cổ điển về sự tương tác thần thánh" của Giuseppe Pezzini
-- "Trung địa như thế giới ngầm: Từ Katabasis đến Eucatastrophe" của Benjamin Eldon Stevens
-- "Pietas và sự sụp đổ của thành phố: Ảnh hưởng của người Virgilian bị lãng quên đối với đức hạnh chính của Trung Địa" của Austin M. Freeman
-- "Câu chuyện tình yêu của Orpheus và Eurydice ở Trung địa Orphic của Tolkien" của Peter Astrup Sundt
+- "Các vị thần trong sử thi (Tolkien's): Những mô hình cổ điển về sự tương tác thần thánh" của Giuseppe Pezzini
+- "Trung Địa trong vai Thế giới ngầm: Từ Katabasis đến Eucatastrophe" của Benjamin Eldon Stevens
+- "Pietas và sự sụp đổ của thành phố: Ảnh hưởng của Virgilian bị lãng quên đối với đức tính chính của Trung Địa" của Austin M. Freeman
+- "Câu chuyện tình yêu của Orpheus và Eurydice trong Tolkien's Orphic Trung Địa" của Peter Astrup Sundt
 
 <dl><dt>Section 3 - In Dialogue with the Greek Philosophers</dt></dl>
 
-- "Atlantis của Plato và truyền thống hậu Platon trong sự sụp đổ Númenor của Tolkien" của Michael Kleu
+- "Atlantis của Plato và truyền thống hậu Platon trong Sự sụp đổ của Númenor của Tolkien" của Michael Kleu
 - Lúc đầu ít ý thức hơn nhưng có ý thức hơn trong bản sửa đổi: Chiếc nhẫn Gyges của Plato như một nguồn cảm hứng giả định cho Chiếc nhẫn quyền lực của Tolkien" của [Łukasz Neubauer](../_/Łukasz_Neubauer.md)
-- "Kinh dị và cuồng nộ: Những đứa con của Húrin và Lý thuyết bi kịch của Aristotle" của J.R.R. Tolkien của Julian Eilmann
+- "Kinh dị và cuồng nộ: The Children of Húrin của J.R.R. Tolkien và Lý thuyết bi kịch của Aristoteles" của Julian Eilmann
 
 <dl><dt>Section 4 - Around the Borders of the Classical World</dt></dl>
 
-- "'Hướng Đông và Hướng Nam': Quan điểm ngữ văn và lịch sử về Tolkien và Chủ nghĩa Cổ điển" của Philip Burton
-- "Sự Noldorization của Edain: Mô hình La Mã-Đức dành cho Noldor và Edain trong Kỷ nguyên Di cư của Tolkien" của Richard Z. Gallant
-- "'Thoát khỏi và An ủi': Gondor trong vai Địa Trung Hải cổ đại và Rohan trong vai Thế giới Đức trong Chúa tể của những chiếc nhẫn" của Juliette Harrisson
+- "'Hướng Đông và Hướng Nam': Các quan điểm ngữ văn và lịch sử về Tolkien và Chủ nghĩa Cổ điển" của Philip Burton
+- "Sự Noldorization của Edain: Mô hình La Mã-Đức cho Noldor và Edain trong Kỷ nguyên Di cư của Tolkien" của Richard Z. Gallant
+- "'Thoát khỏi và An ủi': Gondor với tư cách là Địa Trung Hải Cổ đại và Rohan với tư cách là Thế giới Đức trong The Lord of the Rings" của Juliette Harrisson
 
 <dl><dt>Section 5 - Shorter Remarks and Observations</dt></dl>
 
-- "Những người chăn cừu và người Shire: Chủ nghĩa mục vụ cổ điển ở Trung địa" của Alley Marie Jordan
-- "Những ảnh hưởng cổ điển đến vai trò của âm nhạc trong truyền thuyết của Tolkien" của Oleksandra Filonenko và Vitalii Shchepanskyi
+- "Những người chăn cừu và Shire: Chủ nghĩa mục vụ cổ điển ở Trung Địa" của Alley Marie Jordan
+- "Những ảnh hưởng cổ điển đến vai trò của âm nhạc trong Tolkien's Legendarium" của Oleksandra Filonenko và Vitalii Shchepanskyi
 
 <dl><dt>Afterword</dt></dl>
 

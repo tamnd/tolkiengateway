@@ -28,23 +28,23 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Other Minds 23</span></th></tr><tr><th scope="row" class="tg-infobox-label">Latest editor</th><td class="tg-infobox-data"><a href="../T/Thomas_Morwinsky.md" title="Thomas Morwinsky">Thomas Morwinsky</a>, Hawke Robinson</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Other Minds Volunteers</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">October <a href="../_/2020.md" title="2020">2020</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">PDF</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">101</td></tr></tbody></table>
 
-<b><i>Other Minds</i> 23</b> là số thứ 23 của *[Other Minds](Other_Minds.md)*, một tạp chí dành riêng cho *[Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)* và các trò chơi nhập vai khác lấy bối cảnh ở Trung Địa, được xuất bản vào tháng 10 năm 2020.
+<b><i>Other Minds</i> 23</b> là số thứ 23 của *[Other Minds](Other_Minds.md)*, một tạp chí dành riêng cho *[Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)* và các trò chơi nhập vai khác lấy bối cảnh Trung Địa, được xuất bản vào tháng 10 năm 2020.
 
 ## Nội dung {#Contents}
 
 - "Biên tập"
     - Bởi [Thomas Morwinsky](../T/Thomas_Morwinsky.md)
-- "Con Đường Mãi Mãi Đi"
+- "The Road Goes Ever On"
     - Bởi Thomas Morwinsky
 - "Thông tin nội bộ"
     - Bởi Thomas Morwinsky
 - "Quạ phương Bắc"
     - Bởi Andreas Erdmann
-- "Kẻ thua cuộc"
+- "Cái Lossoth"
     - Bởi David Cole
 - "Dưới bề mặt"
     - Bởi Alexander Walker
-- "Bí mật của vùng đất hoang dã"
+- "Bí mật của Wilderland"
     - Tác giả José Enrique Vacas de la Rosa
 - "Gặp Rồng"
     - Bởi Thomas Morwinsky

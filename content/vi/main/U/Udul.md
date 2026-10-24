@@ -34,11 +34,11 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Village</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Udul</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>General Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">Far inland from <a href="../A/Agar.md" title="Agar">Agar</a></td></tr><tr><th scope="row" class="tg-infobox-label">Type</th><td class="tg-infobox-data">Village</td></tr><tr><th scope="row" class="tg-infobox-label">Description</th><td class="tg-infobox-data">Small settlement populated with sick folk</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>People and History</span></th></tr><tr><th scope="row" class="tg-infobox-label">Inhabitants</th><td class="tg-infobox-data"><a href="../P/Pre-Númenóreans.md" title="Pre-Númenóreans">Udul-folk</a></td></tr></tbody></table>
 
-**Udul** là tên của một ngôi làng đã đe dọa thị trấn [Agar](../A/Agar.md) bởi những kẻ cướp bóc trong [Thời đại thứ hai](../S/Second_Age.md).
+**Udul** là tên của một ngôi làng đã đe dọa thị trấn [Agar](../A/Agar.md) bởi những kẻ cướp bóc trong [Kỷ Đệ Nhị](../S/Second_Age.md).
 
 ## Lịch sử {#History}
 
-Tất cả những gì được biết về vị trí của Udul là nó nằm "xa trong đất liền" so với [Agar](../A/Agar.md), cách bờ biển của [Biển Lớn](../B/Belegaer.md) "ba dặm".
+Tất cả những gì được biết về vị trí của Udul là nó nằm "xa trong đất liền" so với [Agar](../A/Agar.md), cách bờ biển của [Đại Hải](../B/Belegaer.md)"ba giải đấu".
 
 Khi [Tal-Elmar](<../T/Tal-Elmar_(character).md>) mười bảy tuổi, anh được chọn đến Udul để do thám vùng đất. Chàng trai trẻ đã thành công trong việc tìm ra ngôi làng và bò đến gần một trong những túp lều của những người canh gác ở đó đến mức ông ta có thể nghe thấy cuộc trò chuyện của họ. Tuy nhiên, anh không thể hiểu được lời nói của họ mặc dù giọng điệu của họ gợi lên sự sợ hãi và đau buồn.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 

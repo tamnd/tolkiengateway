@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Eryn Lasgalen"
 ---
 
-Chuyển hướng tới [Eryn Lasgalen](../E/Eryn_Lasgalen.md).
+Chuyển hướng đến [Eryn Lasgalen](../E/Eryn_Lasgalen.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Henneth Annûn"
 ---
 
-Chuyển hướng tới [Henneth Annûn](../H/Henneth_Annûn.md).
+Chuyển hướng đến [Henneth Annûn](../H/Henneth_Annûn.md).

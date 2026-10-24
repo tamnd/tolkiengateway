@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "\"Hobbit Dinner\" in Rotterdam"
 ---
 
-Chuyển hướng đến ["Bữa tối Hobbit" ở Rotterdam](../_/%2522Hobbit_Dinner%2522_in_Rotterdam.md).
+Chuyển hướng tới ["Hobbit Bữa tối" ở Rotterdam](../_/%2522Hobbit_Dinner%2522_in_Rotterdam.md).

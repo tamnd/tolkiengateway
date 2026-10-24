@@ -28,7 +28,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Other Minds 7</span></th></tr><tr><th scope="row" class="tg-infobox-label">Latest editor</th><td class="tg-infobox-data"><a href="../T/Thomas_Morwinsky.md" title="Thomas Morwinsky">Thomas Morwinsky</a>, Hawke Robinson, Chris Seeman, Chris Wade</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Other Minds Volunteers</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">July <a href="../_/2009.md" title="2009">2009</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">PDF</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">42</td></tr></tbody></table>
 
-<b><i>Other Minds</i> 7</b> là số thứ bảy của *[Other Minds](Other_Minds.md)*, một tạp chí dành cho *[Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)* và các trò chơi nhập vai khác lấy bối cảnh ở Trung Địa, được xuất bản vào tháng 7 năm 2009.
+<b><i>Other Minds</i> 7</b> là số thứ bảy của *[Other Minds](Other_Minds.md)*, một tạp chí dành cho *[Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)* và các trò chơi nhập vai khác lấy bối cảnh Trung Địa, xuất bản vào tháng 7 năm 2009.
 
 ## Nội dung {#Contents}
 
@@ -42,12 +42,12 @@ infobox:
     - Bởi José Enrique Vacas de la Rosa
 - "Quy tắc bổ sung MERP"
     - Bởi Thomas Morwinsky
-- "Sự thăng trầm của công nghệ Númenórean"
+- "Sự thăng trầm của Númenórean Công nghệ"
     - Bởi António Simões
 - "Bản in đẹp và tuyên bố miễn trừ trách nhiệm"
 - "Giấy phép Creative Commons"
-- "Phụ lục A: Danh sách chính tả cho 'Quy tắc bổ sung MERP'"
-- "Phụ lục B: Niên đại về 'Sự thăng trầm của Công nghệ Númenórean'"
+- "Appendix A: Danh sách chính tả cho 'Quy tắc bổ sung MERP'"
+- "Phụ lục B: Niên đại của 'Sự thăng trầm của Númenórean Công nghệ'"
 
 - **Tác phẩm nghệ thuật / Bản đồ:**
     - Bởi: Catherine Karina Chmiel

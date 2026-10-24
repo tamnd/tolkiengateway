@@ -35,7 +35,7 @@ infobox:
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
-**The Passing of the Elves** là bài hát thứ mười trong đĩa một trong *[The Lord of the Rings: The Fellowship of the Ring - The Complete Recordings](The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_-_The_Complete_Recordings.md)* của [Howard Shore](../H/Howard_Shore.md). Bài hát được viết và thể hiện bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=Plan_9&amp;action=edit&amp;redlink=1" title="Plan 9 (page does not exist)">Plan 9</a> và <a class="new" href="https://tolkiengateway.net/w/index.php?title=David_Long&amp;action=edit&amp;redlink=1" title="David Long (page does not exist)">David Long</a> cho bộ phim và do Howard Shore sản xuất. Đó là bản trình diễn của bài thơ [Sindarin](../S/Sindarin.md) *[A Elbereth Gilthoniel](../A/A_Elbereth_Gilthoniel.md)*.
+**The Passing of the Tiên tộc** là bài hát thứ mười của đĩa một trong *[The Lord of the Rings: The Fellowship of the Ring - The Complete Recordings](The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_-_The_Complete_Recordings.md)* của [Howard Shore](../H/Howard_Shore.md). Bài hát được viết và thể hiện bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=Plan_9&amp;action=edit&amp;redlink=1" title="Plan 9 (page does not exist)">Plan 9</a> và <a class="new" href="https://tolkiengateway.net/w/index.php?title=David_Long&amp;action=edit&amp;redlink=1" title="David Long (page does not exist)">David Long</a> cho bộ phim và do Howard Shore sản xuất. Đó là bản trình diễn của bài thơ [Sindarin](../S/Sindarin.md) *[A Elbereth Gilthoniel](../A/A_Elbereth_Gilthoniel.md)*.
 
 ## Lời bài hát {#Lyrics}
 

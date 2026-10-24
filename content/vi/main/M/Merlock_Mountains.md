@@ -17,9 +17,9 @@ langlinks:
     url: "https://kontu.wiki/Merhovuoret"
 ---
 
-**Dãy núi Merlock** được nhắc đến trong [Shire](../T/The_Shire.md)-bài thơ *[The Mewlips](../T/The_Mewlips.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Merlock Dãy Núi** được nhắc đến trong [Shire](../T/The_Shire.md)-bài thơ *[The Mewlips](../T/The_Mewlips.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Không rõ Dãy núi Merlock ám chỉ một dãy núi có thật ở [Trung Địa](Middle-earth.md) hay chúng chỉ là một phát minh của nhà thơ. Vì bài thơ mô tả một địa điểm tương tự như [Mirkwood](Mirkwood.md) nên<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> có thể chúng là phiên bản hư cấu của [Dãy núi Sương mù](Misty_Mountains.md) hoặc những gì [Người Hobbit](../H/Hobbits.md) biết về chúng.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Không biết Merlock Dãy Núi ám chỉ một dãy núi có thật ở [Trung Địa](Middle-earth.md) hay chúng chỉ là một phát minh của nhà thơ. Vì bài thơ mô tả một địa điểm tương tự như [Mirkwood](Mirkwood.md) nên<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> có thể chúng là phiên bản hư cấu của [Dãy Núi Sương Mù](Misty_Mountains.md) hoặc những gì [Hobbit](../H/Hobbits.md) biết về chúng.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

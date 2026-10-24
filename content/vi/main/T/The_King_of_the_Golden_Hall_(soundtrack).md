@@ -36,4 +36,4 @@ infobox:
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
-**The King of the Golden Hall** là ca khúc thứ sáu trong *[The Lord of the Rings: The Two Towers - Original Motion Picture Soundtrack](The_Lord_of_the_Rings%253A_The_Two_Towers_-_Original_Motion_Picture_Soundtrack.md)* của [Howard Shore](../H/Howard_Shore.md).
+**Bài Vua of the Golden Hall** là ca khúc thứ sáu trong *[The Lord of the Rings: The Two Towers - Original Motion Picture Soundtrack](The_Lord_of_the_Rings%253A_The_Two_Towers_-_Original_Motion_Picture_Soundtrack.md)* của [Howard Shore](../H/Howard_Shore.md).

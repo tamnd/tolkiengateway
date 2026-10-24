@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mountains of Mithrim"
 ---
 
-Chuyển hướng đến [Núi Mithrim](../M/Mountains_of_Mithrim.md).
+Chuyển hướng tới [Dãy Núi của Mithrim](../M/Mountains_of_Mithrim.md).

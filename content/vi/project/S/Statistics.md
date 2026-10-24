@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Gateway:Analytics"
 ---
 
-Chuyển hướng tới [Cổng Tolkien:Analytics](../A/Analytics.md).
+Chuyển hướng tới [Tolkien Gateway:Analytics](../A/Analytics.md).

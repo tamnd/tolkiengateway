@@ -67,7 +67,7 @@ Sự kiện xảy ra vào ngày 6 tháng 7.
 ## Trên Trái đất {#On_Earth}
 
 - **[2009](2009.md)** - *[The Epic Realm of Tolkien](../T/The_Epic_Realm_of_Tolkien.md)* được xuất bản.
-- **[2012](2012.md)** - Phần chụp ảnh chính của phim <i><a href="../T/The_Hobbit_(film_series).md" title="The Hobbit (film series)">The Hobbit<i></i></a> kết thúc.</i>
+- **[2012](2012.md)** - Phần chụp ảnh chính của <i><a href="../T/The_Hobbit_(film_series).md" title="The Hobbit (film series)">The Hobbit<i> phim</i></a> kết thúc.</i>
 
 ## Trong Arda {#In_Arda}
 

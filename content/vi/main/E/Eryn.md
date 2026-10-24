@@ -22,5 +22,5 @@ categories:
 
 ## Xem thêm {#See_also}
 
-- Tiếng Sindarin *[orn](../O/Orn.md)*
-- Tiếng Sindarin *[oron](../O/Oron.md)*
+- Sindarin *[orn](../O/Orn.md)*
+- Sindarin *[oron](../O/Oron.md)*

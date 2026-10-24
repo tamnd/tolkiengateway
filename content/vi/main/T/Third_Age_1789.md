@@ -21,11 +21,11 @@ langlinks:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><a href="../F/First_Age.md" title="First Age">I</a><a href="../S/Second_Age.md" title="Second Age">II</a><b>III</b><a href="../F/Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="Third_Age_1736.md" title="Third Age 1736">1736</a><a href="Third_Age_1743.md" title="Third Age 1743">1743</a><a href="Third_Age_1787.md" title="Third Age 1787">1787</a><a class="mw-selflink selflink">1789</a><a href="Third_Age_1798.md" title="Third Age 1798">1798</a><a href="Third_Age_1810.md" title="Third Age 1810">1810</a><a href="Third_Age_1813.md" title="Third Age 1813">1813</a></div></div></div></div></div></div>
 
-**Thời đại thứ ba 1789** (viết tắt là **T.A. 1789**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 1789 của [Thời đại thứ ba](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Thời đại thứ ba 1789 còn được gọi là **S.R. 189** trong [Tính toán quận](../S/Shire-reckoning.md).
+**Kỷ Đệ Tam 1789** (viết tắt là **T.A. 1789**) là năm [thứ 1789 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Tam](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Kỷ Đệ Tam 1789 còn được gọi là **S.R. 189** trong [lịch Shire](../S/Shire-reckoning.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- Sự ra đời của [Araphant](../A/Araphant.md), con trai của [Araval](../A/Araval.md) của [Arthedain](../A/Arthedain.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+- Sinh [Araphant](../A/Araphant.md), con trai [Araval](../A/Araval.md) của [Arthedain](../A/Arthedain.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

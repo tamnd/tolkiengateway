@@ -22,19 +22,19 @@ images:
 <p class="tg-quote-footer"><cite>From <a href="../T/To_the_Sea,_to_the_Sea!_The_white_gulls_are_crying.md" title="To the Sea, to the Sea! The white gulls are crying">the poem</a> sung by <a href="../L/Legolas.md" title="Legolas">Legolas</a> in <i><a href="../T/The_Return_of_the_King.md" title="The Return of the King">The Return of the King</a></i>, &#34;<a href="../T/The_Field_of_Cormallen.md" title="The Field of Cormallen">The Field of Cormallen</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div></center>
 
-**Mòng biển** hay **mews** là những loài chim được tìm thấy trên khắp các bờ biển ở [Arda](../A/Arda.md).
+**Mòng biển** hoặc **mews** là những loài chim được tìm thấy trên tất cả các bờ biển ở [Arda](../A/Arda.md).
 
 ## Lịch sử {#History}
 
-Hải âu phổ biến ở tất cả các vùng đất giáp biển (có lẽ đặc biệt nhiều ở mũi [Bar-in-Mŷl](../R/Ras_Mewrim.md), "Quê hương của hải âu", ở vùng đất của [Falas](../F/Falas.md)<sup id="cite_ref-QaE_1-0" class="reference"><a href="#cite_note-QaE-1">[1]</a></sup>), và vì thế, chúng thường được cho là của [Ossë](../O/Ossë.md).<sup id="cite_ref-Fall_2-0" class="reference"><a href="#cite_note-Fall-2">[2]</a></sup> [Teleri](../T/Teleri.md) sống ở vùng biển <a class="new" href="https://tolkiengateway.net/w/index.php?title=Havens&amp;action=edit&amp;redlink=1" title="Havens (page does not exist)">Havens</a> rất thích chúng và tiếng kêu của chúng đã chào đón [Tuor](../T/Tuor.md) đến vùng đất của chúng.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Chúng cũng được biết đến ở [Númenor](../N/Númenor.md)<sup id="cite_ref-AaE_4-0" class="reference"><a href="#cite_note-AaE-4">[4]</a></sup> và [Gondor](Gondor.md).<sup id="cite_ref-tLD_5-0" class="reference"><a href="#cite_note-tLD-5">[5]</a></sup>
+Chim mòng biển phổ biến ở tất cả các vùng đất giáp biển (có lẽ đặc biệt nhiều ở mũi [Bar-in-Mŷl](../R/Ras_Mewrim.md), "Ngôi nhà của những con mòng biển", ở vùng đất [Falas](../F/Falas.md)<sup id="cite_ref-QaE_1-0" class="reference"><a href="#cite_note-QaE-1">[1]</a></sup>), và vì thế, chúng thường được cho là của [Ossë](../O/Ossë.md).<sup id="cite_ref-Fall_2-0" class="reference"><a href="#cite_note-Fall-2">[2]</a></sup> Những [Teleri](../T/Teleri.md) sống ở <a class="new" href="https://tolkiengateway.net/w/index.php?title=Havens&amp;action=edit&amp;redlink=1" title="Havens (page does not exist)">Havens</a> rất thích chúng, và Tiếng kêu của họ chào đón [Tuor](../T/Tuor.md) đến vùng đất của họ.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Họ cũng được biết đến ở [Númenor](../N/Númenor.md)<sup id="cite_ref-AaE_4-0" class="reference"><a href="#cite_note-AaE-4">[4]</a></sup> và [Gondor](Gondor.md).<sup id="cite_ref-tLD_5-0" class="reference"><a href="#cite_note-tLD-5">[5]</a></sup>
 
-Sự gắn kết của họ với biển đã gây ra cảm giác khao khát mãnh liệt về chuyến hành trình đến [Valinor](../V/Valinor.md) giữa những [Yêu tinh](../E/Elves.md) chưa quen với âm thanh của chúng. Một trong số đó là [Legolas](../L/Legolas.md).<sup id="cite_ref-tLD_5-1" class="reference"><a href="#cite_note-tLD-5">[5]</a></sup>
+Sự gắn kết của họ với biển khơi dậy niềm khao khát mãnh liệt về chuyến hành trình tới [Valinor](../V/Valinor.md) giữa những [Tiên tộc](../E/Elves.md) vốn chưa quen với âm thanh của chúng. Một trong số đó là [Legolas](../L/Legolas.md).<sup id="cite_ref-tLD_5-1" class="reference"><a href="#cite_note-tLD-5">[5]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
 Trong *[Etymologies](../T/The_Etymologies.md)*, một từ [Noldorin](../N/Noldorin.md) và một từ [Quenya](../Q/Quenya.md) cho "gull" xuất hiện, cả hai đều có cùng một gốc: *[maew](../M/Maew.md)* và *[maiwë](../M/Maiwë.md)*.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Một từ [Sindarin](../S/Sindarin.md) được ghi sau đó là *[mŷl](../M/Mŷl.md)*,<sup id="cite_ref-QaE_1-1" class="reference"><a href="#cite_note-QaE-1">[1]</a></sup> thay thế *gwael*.<sup id="cite_ref-QaE_1-2" class="reference"><a href="#cite_note-QaE-1">[1]</a></sup>
 
-Trong các bản thảo liên quan đến *Etymologies* Tolkien cũng đã thử nghiệm dạng Noldorin *cuen*, được gọi là "mòng biển nhỏ, chim hải âu".<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+Trong các bản viết tay liên quan đến *Etymologies* Tolkien cũng đã thử nghiệm dạng Noldorin *cuen*, được dịch là "mòng biển nhỏ, chim hải âu".<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 

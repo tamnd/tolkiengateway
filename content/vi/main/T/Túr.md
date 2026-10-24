@@ -17,7 +17,7 @@ sort_keys:
 
 <i><b>túr</b></i> là danh từ [Noldorin](../N/Noldorin.md) có nghĩa là "làm chủ, chiến thắng".<sup id="cite_ref-LR395_1-0" class="reference"><a href="#cite_note-LR395-1">[1]</a></sup><sup id="cite_ref-VT46_2-0" class="reference"><a href="#cite_note-VT46-2">[2]</a></sup>
 
-[David Salo](../D/David_Salo.md) đã gợi ý rằng dạng *tûr* (giữ nguyên nghĩa) có thể hợp lệ [Neo-Sindarin](../N/Neo-Elvish.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+[David Salo](../D/David_Salo.md) đã gợi ý rằng dạng *tûr* (giữ nguyên ý nghĩa) có thể hợp lệ [Neo-Sindarin](../N/Neo-Elvish.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

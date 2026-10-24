@@ -37,7 +37,7 @@ images:
 
 ## Từ nguyên {#Etymology}
 
-*Ringil* là tên [Quenya](../Q/Quenya.md), được phát triển từ *ringë* ("lạnh lùng").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
+*Ringil* là tên [Quenya](../Q/Quenya.md), được phát triển từ *ringë* ("lạnh").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

@@ -11,4 +11,4 @@ redirect_target: "Gondolindrim"
 redirect_fragment: "Other versions of the legendarium"
 ---
 
-Chuyển hướng tới [Gondolindrim](Gondolindrim.md#Other_versions_of_the_legendarium).
+Chuyển hướng đến [Gondolindrim](Gondolindrim.md#Other_versions_of_the_legendarium).

@@ -31,7 +31,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien cảm ơn [Rayner Unwin](../R/Rayner_Unwin.md) vì tin <a class="extiw" href="http://en.wikipedia.org/wiki/Puffin_Books" title="wikipedia:Puffin Books">Puffin Books</a> đã đề nghị xuất bản ấn bản bìa mềm của *[The Hobbit](../T/The_Hobbit.md)* và để ông tự quyết định. Tolkien có nhiều cảm xúc lẫn lộn: Ông không thể bỏ qua lợi nhuận tiền mặt, thậm chí là 100 bảng Anh lẻ, nhưng chia sẻ sự miễn cưỡng của Unwin trong việc hạ giá *Hobbit* cũ. Trừ khi có lợi thế rõ ràng, nếu không ông ta thà để ông ta đi theo. Tolkien cho biết ông không thích Puffins hay Penguins vì chúng ăn trứng của các loài chim khác.
+Tolkien cảm ơn [Rayner Unwin](../R/Rayner_Unwin.md) vì tin <a class="extiw" href="http://en.wikipedia.org/wiki/Puffin_Books" title="wikipedia:Puffin Books">Puffin Books</a> đã đề nghị xuất bản ấn bản bìa mềm của *[The Hobbit](../T/The_Hobbit.md)* và để ông tự quyết định. Tolkien có nhiều cảm xúc lẫn lộn: Ông không thể bỏ qua lợi nhuận tiền mặt, thậm chí là 100 bảng lẻ, nhưng chia sẻ sự miễn cưỡng của Unwin trong việc hạ giá *Hobbit* cũ. Trừ khi có lợi thế rõ ràng, nếu không ông ta thà để ông ta đi theo. Tolkien cho biết anh không thích Puffins hay Penguins vì chúng ăn trứng của các loài chim khác.
 
 <br>
 

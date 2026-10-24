@@ -13,7 +13,7 @@ categories:
   - "Sindarin nouns"
 ---
 
-**Aras** là từ [Sindarin](../S/Sindarin.md) có nghĩa là "con nai".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Aras** là từ [Sindarin](../S/Sindarin.md) chỉ "con nai".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

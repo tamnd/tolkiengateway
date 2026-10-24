@@ -44,11 +44,11 @@ images:
 ### Bài viết {#Articles}
 
 - [1966](../_/1966.md): [*Orcrist* 1](../O/Orcrist_1.md)
-    - "Âm nhạc để đọc Tolkien theo: Giai điệu cho hai bài thơ"
+    - "Âm nhạc để đọc Tolkien Bởi: Giai điệu cho hai bài thơ"
 - [1970](../_/1970.md): [*Orcrist* 4](../O/Orcrist_4.md)
     - "Đề xuất làm luận án tiến sĩ tại Khoa Văn học so sánh, Đại học Wisconsin-Madison"
 - [1975](../_/1975.md): *[A Tolkien Compass](../A/A_Tolkien_Compass.md)*
-    - "Everyclod và Everyhero: Hình ảnh con người ở Tolkien"
+    - "Everyclod và Everyhero: Hình ảnh con người trong Tolkien"
 - [1987](../_/1987.md): [*Mythlore* 52](../M/Mythlore_52.md)
     - "Nỗi đau khổ yêu... Gốc rễ của tội ác"
 

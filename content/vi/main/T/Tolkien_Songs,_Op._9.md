@@ -19,7 +19,7 @@ Sau đó tất cả đều được dàn dựng. *In Western Lands* cũng đư�
 
 ## Bài hát {#Songs}
 
-người đi bộ
+Strider
 
 Bài hát của đại bàng
 

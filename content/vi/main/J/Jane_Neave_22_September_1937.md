@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Jane Neave (22 September 1937)"
 ---
 
-Chuyển hướng tới [Thư gửi Jane Neave (22 tháng 9 năm 1937)](<../L/Letter_to_Jane_Neave_(22_September_1937).md>).
+Chuyển hướng đến [Thư gửi Jane Neave (22 tháng Chín 1937)](<../L/Letter_to_Jane_Neave_(22_September_1937).md>).

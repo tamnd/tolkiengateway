@@ -13,13 +13,13 @@ categories:
   - "Quenya nouns"
 ---
 
-<i><b>kundo</b></i> là từ [Quenya](../Q/Quenya.md) có nghĩa là "người giám hộ".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>kundo</b></i> là [Quenya](../Q/Quenya.md) từ dành cho "người giám hộ".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-[Helge Fauskanger](../H/Helge_Fauskanger.md) đã gợi ý rằng ghi chú trong bản thảo của Tolkien "*cundo* 'lord'"<sup id="cite_ref-PE17_2-0" class="reference"><a href="#cite_note-PE17-2">[2]</a></sup> là một chú giải có liên quan, cũng trong [Quenya](../Q/Quenya.md). Dạng thứ hai tuân theo cách chính tả được sử dụng trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* (trong đó Tolkien thể hiện âm \[k\] bằng chữ cái "c").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+[Helge Fauskanger](../H/Helge_Fauskanger.md) đã gợi ý rằng ghi chú bản thảo của Tolkien"*cundo* 'lord'"<sup id="cite_ref-PE17_2-0" class="reference"><a href="#cite_note-PE17-2">[2]</a></sup> là một chú giải có liên quan, cũng trong [Quenya](../Q/Quenya.md). Dạng sau tuân theo cách chính tả được sử dụng trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* (trong đó Tolkien biểu thị âm \[k\] bằng chữ cái "c").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Ví dụ {#Examples}
 
-- *[Karma-kundo](Karma-kundo.md)* "Người bảo vệ mũ bảo hiểm"
+- *[Karma-kundo](Karma-kundo.md)* "Helm-người giám hộ"
 
 <span></span>
 

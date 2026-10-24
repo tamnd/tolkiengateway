@@ -33,11 +33,11 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien tin rằng cô Farrer đã rất lo lắng về những rắc rối<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 2]</a></sup> của Jack Lewis. Tolkien biết rất ít về những gợi ý thận trọng về [Havard](../R/Robert_Havard.md) cực kỳ kín đáo. Khi Tolkien ở cùng Jack, họ đã trò chuyện về "văn học", không bị lu mờ bởi những đau buồn và lo lắng trong gia đình.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 3]</a></sup>
+Tolkien tin rằng cô Farrer đã rất quan tâm đến những rắc rối<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 2]</a></sup> của Jack Lewis. Tolkien biết rất ít về những gợi ý thận trọng của [Havard](../R/Robert_Havard.md) cực kỳ kín đáo. Khi Tolkien ở với Jack, họ đã trò chuyện về "văn chương", không bị ảnh hưởng bởi những đau buồn và lo lắng trong gia đình.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 3]</a></sup>
 
 <dl><dt>In the expanded edition</dt></dl>
 
-Mở đầu bức thư, Tolkien gửi lời an ủi và những lời chúc tốt đẹp tới Farrer.
+Mở đầu thư Tolkien gửi lời an ủi và những lời chúc tốt đẹp tới Farrer.
 
 ## Ghi chú {#Notes}
 

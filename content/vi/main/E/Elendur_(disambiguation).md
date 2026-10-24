@@ -27,10 +27,10 @@ images:
   - "Disambig.png"
 ---
 
-**Elendur** có nghĩa là "Người hầu của [Yêu tinh](Elves.md)" trong [Quenya](../Q/Quenya.md) (từ *[elen](Elen.md)*, "ngôi sao, Yêu tinh" và *[-ndur](../_/-ndur.md)*, "người hầu của") và có thể đề cập đến:
+**Elendur** có nghĩa là "Người hầu của [Tiên tộc](Elves.md)" trong [Quenya](../Q/Quenya.md) (từ *[elen](Elen.md)*, "ngôi sao, Tiên" và *[-ndur](../_/-ndur.md)*, "người hầu của") và có thể đề cập đến:
 
-- [Elendur (con trai của Isildur)](<Elendur_(son_of_Isildur).md>) ([S.A.](../S/Second_Age.md) [3299](../S/Second_Age_3299.md) - [T.A.](../T/Third_Age.md) [2](../T/Third_Age_2.md)), người đã chết cùng [cha mình](../I/Isildur.md) trong [Thảm họa ở Cánh đồng Gladden](../D/Disaster_of_the_Gladden_Fields.md).
-- [Elendur (Vua của Arnor)](<Elendur_(King_of_Arnor).md>) ([T.A.](../T/Third_Age.md) [552](../T/Third_Age_552.md) - [777](../T/Third_Age_777.md)), [Vua](../K/Kings_of_Arnor.md) thứ chín và áp chót của [Arnor](../A/Arnor.md).
+- [Elendur (con trai của Isildur)](<Elendur_(son_of_Isildur).md>) ([S.A.](../S/Second_Age.md) [3299](../S/Second_Age_3299.md) - [T.A.](../T/Third_Age.md) [2](../T/Third_Age_2.md)), người đã chết cùng [cha mình](../I/Isildur.md) trong [Thảm họa Cánh đồng Gladden](../D/Disaster_of_the_Gladden_Fields.md).
+- [Elendur (Vua của Arnor)](<Elendur_(King_of_Arnor).md>) ([T.A.](../T/Third_Age.md) [552](../T/Third_Age_552.md) - [777](../T/Third_Age_777.md)), thứ chín và áp chót [Vua](../K/Kings_of_Arnor.md) của [Arnor](../A/Arnor.md).
 
 <hr style="margin-top:15px;"/>
 

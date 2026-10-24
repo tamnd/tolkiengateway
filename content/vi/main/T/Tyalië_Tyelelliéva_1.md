@@ -39,10 +39,10 @@ Bao gồm cụm từ '[Chúa tể những chiếc nhẫn Heru i Million](../L/Lo
 - Biên tập, Sự kiện thiên thể, Tin tức và Ghi chú, Thông báo cuộc thi thơ
 - Have Some Madeira, My Dear của Rafael Gracioso (sự tương tự của Adunaic với các từ tiếng Bồ Đào Nha mượn từ tiếng Ả Rập)
 - Số nhiều trong Quenya của Lisa Star (phát triển âm vị học của số nhiều)
-- Sách khắc trên chuông của Andy Mariani (văn bản bằng tiếng Quenya mà Tolkien không biết)
-- Danian Charm của Lisa Star (văn bản bằng tiếng Danian mà Tolkien không biết)
+- Sách khắc trên chuông của Andy Mariani (văn bản trong Quenya không rõ Tolkien)
+- Danian Charm của Lisa Star (văn bản bằng tiếng Danian không rõ Tolkien)
 - Khảo sát ngôn ngữ và khai quật khảo cổ học (thảo luận về các dự án đã lên kế hoạch)
-- Chữ viết tắt của bút Tengwar hai dòng của Lisa Star (thư pháp, cổ điển)
+- Dòng đôi Tengwar Bút viết tắt của Lisa Star (thư pháp, cổ điển)
 
 <center><b>First Issue</b> <b>||</b> <a href="Tyalië_Tyelelliéva_2.md" title="Tyalië Tyelelliéva 2">Next Issue</a></center>
 

@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Skinner, Cortney"
 ---
 
-- <a class="external text" href="http://www.cortneyskinner.com/" rel="noreferrer noopener" target="_blank">Cortney Skinner</a> đã vui lòng cho phép ông sử dụng [tác phẩm nghệ thuật](../../category/I/Images_by_Cortney_Skinner.md) của ông được sản xuất cho [MECCG](../../main/M/Middle-earth_Collectible_Card_Game.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
+- <a class="external text" href="http://www.cortneyskinner.com/" rel="noreferrer noopener" target="_blank">Cortney Skinner</a> đã vui lòng cho phép ông sử dụng [tác phẩm nghệ thuật của ông](../../category/I/Images_by_Cortney_Skinner.md) được sản xuất cho [MECCG](../../main/M/Middle-earth_Collectible_Card_Game.md) vào ngày [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Ngày: 27 tháng 3 năm 2014.
 - Người dùng đã xin phép qua email: [Người dùng:Morgan](https://tolkiengateway.net/wiki/User:Morgan).

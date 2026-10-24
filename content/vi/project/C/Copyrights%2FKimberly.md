@@ -14,7 +14,7 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Kimberly"
 ---
 
-- Kimberly đã vui lòng cho phép cô sử dụng tác phẩm nghệ thuật được chọn trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
+- Kimberly đã vui lòng cho phép cô sử dụng tác phẩm nghệ thuật được chọn trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Ngày: 18 tháng 7 năm 2014
 - Người dùng đã xin phép qua tin nhắn riêng tư: [Người dùng:Sandy](https://tolkiengateway.net/wiki/User:Sandy)
 

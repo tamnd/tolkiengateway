@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Tale of Tinúviel"
 ---
 
-Chuyển hướng tới [Câu chuyện về Tinúviel](The_Tale_of_Tinúviel.md).
+Chuyển hướng đến [The Tale of Tinúviel](The_Tale_of_Tinúviel.md).

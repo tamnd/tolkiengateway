@@ -34,9 +34,9 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien đã có lợi thế khi có một tuần lạnh giá để viết, nhưng lại gặp khó khăn. Mọi thứ được phác thảo hoặc viết trước đó đều ít có giá trị sử dụng, nhưng với sự nỗ lực hết mình, ông đã viết ra tất cả những vấn đề cho đến khi [Frodo](../F/Frodo_Baggins.md) bị bắt trên đường cao tốc tới [Mordor](../M/Mordor.md). Bây giờ ông nói rằng ông phải đưa những người khác đến vụ va chạm cuối cùng. Ông ta hỏi liệu *[Shelob](../S/Shelob.md)* có phải là một cái tên hay cho một con nhện khổng lồ không. Nó chỉ là "she+lob" (= nhện) nhưng được viết thành một rất ồn ào.
+Tolkien đã có lợi thế để viết trong một tuần lạnh giá nhưng lại gặp khó khăn. Mọi thứ được phác thảo hoặc viết trước đó đều ít có tác dụng, nhưng với sự nỗ lực hết mình, ông đã viết ra tất cả những vấn đề cho đến [Frodo](../F/Frodo_Baggins.md) nắm bắt được ở mức cao tới [Mordor](../M/Mordor.md). Bây giờ ông nói rằng ông phải đưa những người khác đến vụ va chạm cuối cùng. Ông ta hỏi liệu *[Shelob](../S/Shelob.md)* có phải là một cái tên hay cho một con nhện khổng lồ không. Nó chỉ là "she+lob" (= nhện) nhưng được viết thành một rất ồn ào.
 
-Tiếp tục bức thư ngày 22 tháng 5, Tolkien kể lại một ngày lạnh giá tồi tệ nữa. Ông đã làm việc rất chăm chỉ cho chương của mình, điều này thật mệt mỏi khi cao trào đến gần. Với nhiều vấn đề nhỏ về cốt truyện và cơ chế, ông đã viết đi viết lại nhiều lần. Phần thưởng của anh là được nghe cả [C.S. Lewis](../C/C.S._Lewis.md) và [Charles Williams](../C/Charles_Williams.md) nói rằng những chương mới nhất là hay nhất cho đến nay. [Gollum](../G/Gollum.md) tiếp tục phát triển hấp dẫn nhất.
+Tiếp tục lá thư ngày 22/5, Tolkien báo thêm một ngày lạnh giá tồi tệ nữa. Ông đã làm việc rất chăm chỉ cho chương của mình, điều này thật mệt mỏi khi cao trào đến gần. Với nhiều vấn đề nhỏ về cốt truyện và cơ chế, ông đã viết đi viết lại nhiều lần. Phần thưởng của anh là được nghe cả [C.S. Lewis](../C/C.S._Lewis.md) và [Charles Williams](../C/Charles_Williams.md) nói rằng các chương mới nhất là hay nhất cho đến nay. [Gollum](../G/Gollum.md) tiếp tục diễn biến hấp dẫn nhất.
 
 <br>
 

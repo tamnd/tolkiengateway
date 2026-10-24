@@ -25,17 +25,17 @@ images:
 
 <br> **Smials** là những [hố hobbit](../H/Hobbit-holes.md) được đào vào trong các gò đất và đồi.
 
-Qua nhiều thế hệ, [Người Hobbit](../H/Hobbits.md) đã đào đất để sinh sống. Vào [Thời đại thứ ba](../T/Third_Age.md) sau này, những người Hobbit nghèo nhất vẫn tiếp tục sống trong những hang ổ thuộc loại nguyên thủy nhất chỉ có một cửa sổ hoặc không có cửa sổ.
+Qua nhiều thế hệ [Hobbit](../H/Hobbits.md) đào xuống lòng đất để sinh sống. Về sau [Kỷ Đệ Tam](../T/Third_Age.md) những người Hobbit nghèo nhất vẫn tiếp tục sống trong những hang động thô sơ nhất chỉ có một cửa sổ hoặc không có cửa sổ.
 
-Đối với những người hobbit khá giả nhất, smials là phiên bản sang trọng của những cuộc đào bới nguyên thủy ngày xưa. Đường hầm của họ có những bức tường tròn và phân nhánh sang các phòng khác.<sup id="cite_ref-conc_1-0" class="reference"><a href="#cite_note-conc-1">[1]</a></sup> Những nụ cười bao gồm [Bag End](../B/Bag_End.md) và những nụ cười dọc theo [Bagshot Row](../B/Bagshot_Row.md) của [Hobbiton](../H/Hobbiton.md), [Những nụ cười vĩ đại](../G/Great_Smials.md) của [Tuckborough](../T/Tuckborough.md)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và [Brandy Hall](../B/Brandy_Hall.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Hai cái sau rộng lớn đủ để có đủ chỗ cho một trăm người Hobbit.
+Đối với những người hobbit khá giả nhất, smials là phiên bản sang trọng của những cuộc đào bới nguyên thủy ngày xưa. Đường hầm của họ có những bức tường tròn và phân nhánh sang các phòng khác.<sup id="cite_ref-conc_1-0" class="reference"><a href="#cite_note-conc-1">[1]</a></sup> Những nụ cười bao gồm [Bag End](../B/Bag_End.md) và những nụ cười dọc theo [Bagshot Row](../B/Bagshot_Row.md) của [Hobbiton](../H/Hobbiton.md), [Great Smials](../G/Great_Smials.md) của [Tuckborough](../T/Tuckborough.md)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và [Brandy Hall](../B/Brandy_Hall.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Hai nụ cười sau đủ lớn để có đủ chỗ cho một trăm Hobbit.
 
-Khi không tìm thấy địa điểm thích hợp cho những đường hầm lớn và phân nhánh này ở khắp mọi nơi, nhiều người Hobbit sống trong những ngôi nhà bằng gỗ, gạch hoặc đá.<sup id="cite_ref-conc_1-1" class="reference"><a href="#cite_note-conc-1">[1]</a></sup> Điều này xảy ra với một số vùng lầy lội ở [Eastfarthing](../E/Eastfarthing.md), chẳng hạn như [Marish](../M/Marish.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Khi không tìm được địa điểm thích hợp cho những đường hầm lớn và phân nhánh này ở khắp mọi nơi, nhiều người Hobbit sống trong những ngôi nhà bằng gỗ, gạch hoặc đá.<sup id="cite_ref-conc_1-1" class="reference"><a href="#cite_note-conc-1">[1]</a></sup> Đây là trường hợp xảy ra với một số vùng lầy lội của [Eastfarthing](../E/Eastfarthing.md), chẳng hạn như [Marish](../M/Marish.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Từ *smial* là một phát minh của Tolkien dựa trên từ [tiếng Anh cổ](../O/Old_English.md) *smygel*. Smial là bản dịch của từ [Hobbitish](../H/Hobbitish.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Tr%C3%A2n&amp;action=edit&amp;redlink=1" title="Trân (page does not exist)">trân</a></i> ([Rohanese](../R/Rohanese.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Trahan&amp;action=edit&amp;redlink=1" title="Trahan (page does not exist)">trahan</a></i> "hang").<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Từ *smial* là một phát minh của Tolkien dựa trên từ [tiếng Anh cổ](../O/Old_English.md) *smygel*. Smial là dịch từ [Hobbitish](../H/Hobbitish.md) từ <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Tr%C3%A2n&amp;action=edit&amp;redlink=1" title="Trân (page does not exist)">trân</a></i> ([Rohanese](../R/Rohanese.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Trahan&amp;action=edit&amp;redlink=1" title="Trahan (page does not exist)">trahan</a></i> "hang").<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
-[Tolkien](../J/J.R.R._Tolkien.md) đã giải thích trong [Hướng dẫn về những cái tên trong Chúa tể của những chiếc nhẫn](../G/Guide_to_the_Names_in_The_Lord_of_the_Rings.md) nguồn gốc của cái tên *Sméagol* trong bổ đề về nụ cười:
+[Tolkien](../J/J.R.R._Tolkien.md) đã giải thích trong [Hướng dẫn về tên trong The Lord of the Rings](../G/Guide_to_the_Names_in_The_Lord_of_the_Rings.md) nguồn gốc của tên *Sméagol* trong bổ đề về nụ cười:
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
 <p><b>Smials</b>. A word peculiar to hobbits (not Common Speech), meaning &#39;burrow&#39;; leave unchanged. It is a form that the Old English word <b>smygel</b> &#39;burrow&#39; might have had, if it had survived. The same element appears in Gollum&#39;s real name, <b>Sméagol</b>.
@@ -47,11 +47,11 @@ Tên [Smaug](Smaug.md) và [Sméagol](../G/Gollum.md) có liên quan về mặt 
 
 ## Trong thế giới thực {#In_real_world}
 
-"Smial" là thuật ngữ được [người hâm mộ Tolkien](../T/Tolkien_fan.md) sử dụng để chỉ sự phân chia của Hiệp hội Tolkien.
+"Smial" là thuật ngữ được [Tolkien người hâm mộ](../T/Tolkien_fan.md) sử dụng để chỉ sự phân chia của các Hiệp hội Tolkien.
 
 ## Xem thêm {#See_also}
 
-- [Những nụ cười gắn liền với Hiệp hội Tolkien](../T/The_Tolkien_Society.md#Smials)
+- [Nụ cười liên quan đến Hội Tolkien](../T/The_Tolkien_Society.md#Smials)
 
 <span></span>
 

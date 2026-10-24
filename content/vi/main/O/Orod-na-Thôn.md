@@ -35,7 +35,7 @@ infobox:
 
 <dl><dd><i>Ah! the wind and the whiteness and the black branches of Winter upon Orod-na-Thôn!</i><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></dd></dl>
 
-Người ta cũng cho rằng *Orod-na-Thôn* là từ đồng nghĩa với *Dorthonion* 'Vùng đất thông',<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> nhưng Tolkien nêu rõ trong mục lục chưa hoàn chỉnh của ông về các địa danh xuất hiện trong *The Lord of the Rings* rằng đó là một ngọn núi riêng biệt trong vùng này.
+Người ta cũng cho rằng *Orod-na-Thôn* là từ đồng nghĩa với *Dorthonion* 'Xứ Thông',<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> nhưng Tolkien nêu rõ trong mục lục chưa hoàn chỉnh về các địa danh xuất hiện trong *The Lord of the Rings* rằng đó là một ngọn núi riêng biệt trong vùng này.
 
 ## Từ nguyên {#Etymology}
 

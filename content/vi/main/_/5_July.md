@@ -67,7 +67,7 @@ Sự kiện xảy ra vào ngày 5 tháng 7
 - **[1947](1947.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 108](../L/Letter_108.md).
 - **[1955](1955.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 165a](../L/Letter_165a.md).
 - **[1981](1981.md)** - Tập thứ mười tám của [loạt phim phát thanh năm 1981](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* được phát sóng trên [BBC Radio 4](../B/BBC.md).
-- **[2001](2001.md)** - [Tolkien Thing III](../T/Tolkien_Thing.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Cologne" title="wikipedia:Cologne">Cologne</a>.
+- **[2001](2001.md)** - [Tolkien Điều III](../T/Tolkien_Thing.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Cologne" title="wikipedia:Cologne">Cologne</a>.
 - **[2011](2011.md)** - Bản in sửa đổi của [*Parma Eldalamberon* 12](../P/Parma_Eldalamberon_12.md) được phát hành.
 
 ## Trong Arda {#In_Arda}

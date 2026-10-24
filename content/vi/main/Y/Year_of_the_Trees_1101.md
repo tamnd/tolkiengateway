@@ -15,11 +15,11 @@ categories:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="../T/Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><b>I</b><a href="../S/Second_Age.md" title="Second Age">II</a><a href="../T/Third_Age.md" title="Third Age">III</a><a href="../F/Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Trees</div><div class="tg-timelinenav-links"><a class="new" href="https://tolkiengateway.net/w/index.php?title=Year_of_the_Trees_1094&amp;action=edit&amp;redlink=1" title="Year of the Trees 1094 (page does not exist)">1094</a><a href="Year_of_the_Trees_1099.md" title="Year of the Trees 1099">1099</a><a href="Year_of_the_Trees_1100.md" title="Year of the Trees 1100">1100</a><a class="mw-selflink selflink">1101</a><a href="Year_of_the_Trees_1102.md" title="Year of the Trees 1102">1102</a><a href="Year_of_the_Trees_1104.md" title="Year of the Trees 1104">1104</a><a href="Year_of_the_Trees_1105.md" title="Year of the Trees 1105">1105</a></div></div></div></div></div></div>
 
-**Năm Cây 1101** (viết tắt là **Y.T. 1101**) là [năm Cây](Years_of_the_Trees.md) thứ 1101 trong [Kỷ nguyên thứ nhất](../F/First_Age.md) của [Arda](../A/Arda.md). Năm Cây 1101 cũng là **V.Y. 4601** trong [Năm Valian](../V/Valian_Years.md).
+**Năm Cây 1101** (viết tắt là **Y.T. 1101**) là [năm Cây](Years_of_the_Trees.md) thứ 1101 trong [Kỷ Đệ Nhất](../F/First_Age.md) của [Arda](../A/Arda.md). Năm Cây 1101 cũng là **V.Y. 4601** trong [Năm Valian](../V/Valian_Years.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- Sau một hội đồng lớn, [Valar](../V/Valar.md) quyết định mời [Yêu tinh](../E/Elves.md) đến sống cùng họ tại [Valinor](../V/Valinor.md). [Oromë](../O/Oromë.md) tới [Cuiviénen](../C/Cuiviénen.md) để chuyển thông điệp này đến Yêu tinh.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+- Sau một hội đồng lớn, [Valar](../V/Valar.md) quyết định mời [Tiên tộc](../E/Elves.md) đến sống cùng họ tại [Valinor](../V/Valinor.md). [Oromë](../O/Oromë.md) truy cập [Cuiviénen](../C/Cuiviénen.md) để gửi tin nhắn này tới Tiên tộc.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

@@ -12,7 +12,7 @@ categories:
   - "Interviews"
 ---
 
-Bài viết này chứa danh sách các **Bài phỏng vấn** liên quan đến [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và các tác phẩm của ông.
+Bài viết này chứa danh sách **Các cuộc phỏng vấn** liên quan đến [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và các tác phẩm của ông.
 
 ## [Nils Ivar Agøy](../N/Nils_Ivar_Agøy.md) {#Nils_Ivar_Agøy}
 
@@ -54,7 +54,7 @@ Bài viết này chứa danh sách các **Bài phỏng vấn** liên quan đến
 ## [Alan Lee](../A/Alan_Lee.md) {#Alan_Lee}
 
 - <a class="external text" href="http://www.bordersstores.com/features/feature.jsp?file=leealan2" rel="noreferrer noopener" target="_blank">Năm câu hỏi với Alan Lee</a>
-- <a class="external text" href="http://www.bordersstores.com/features/feature.jsp?file=leealan" rel="noreferrer noopener" target="_blank">Tầm nhìn của Tolkien: Nghệ sĩ Alan Lee về việc đưa Chúa tể của những chiếc nhẫn vào phim</a>
+Tầm nhìn của - <a class="external text" href="http://www.bordersstores.com/features/feature.jsp?file=leealan" rel="noreferrer noopener" target="_blank">Tolkien: Nghệ sĩ Alan Lee mang The Lord of the Rings vào phim</a>
 - <a class="external text" href="http://www.bbc.co.uk/devon/content/articles/2006/01/23/alan_lee_feature.shtml" rel="noreferrer noopener" target="_blank">Chúa tể của những bức vẽ</a>
 - <a class="external text" href="http://www.herenistarion.org/index.php?option=com_content&amp;task=view&amp;id=37&amp;Itemid=33" rel="noreferrer noopener" target="_blank">Cuộc phỏng vấn với Alan Lee (Heren Istarion)</a>
 - <a class="external text" href="http://www.theonering.net/perl/newsview/8/1102896338" rel="noreferrer noopener" target="_blank">Phỏng vấn tại TheOneRing.net</a>

@@ -14,10 +14,10 @@ sort_keys:
   "Letters": "Archer, Jerome W."
 ---
 
-Vào [5 tháng 8](../_/5_August.md) [1957](../_/1957.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[hai bức thư](Letters_not_published_in_%2522The_Letters_of_J.R.R._Tolkien%2522.md) gửi Jerome W. Archer**, Giám đốc Thư viện tại [Đại học Marquette](../M/Marquette_University.md).<sup id="cite_ref-CG_1-0" class="reference"><a href="#cite_note-CG-1">[1]</a></sup><sup id="cite_ref-Marq_2-0" class="reference"><a href="#cite_note-Marq-2">[2]</a></sup>
+Vào [5 tháng 8](../_/5_August.md) [1957](../_/1957.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[hai lá thư](Letters_not_published_in_%2522The_Letters_of_J.R.R._Tolkien%2522.md) cho Jerome W. Archer**, Giám đốc Thư viện tại [Đại học Marquette](../M/Marquette_University.md).<sup id="cite_ref-CG_1-0" class="reference"><a href="#cite_note-CG-1">[1]</a></sup><sup id="cite_ref-Marq_2-0" class="reference"><a href="#cite_note-Marq-2">[2]</a></sup>
 
-- **Chủ đề:** Thảo luận về lời mời đến thăm Đại học Marquette vào mùa xuân năm sau.<sup id="cite_ref-CG_1-1" class="reference"><a href="#cite_note-CG-1">[1]</a></sup><sup id="cite_ref-Marq_2-1" class="reference"><a href="#cite_note-Marq-2">[2]</a></sup>
-- **Ấn bản:** Mô tả các bức thư và trích dẫn từ bức thư thứ hai, xuất hiện trong *[The J.R.R. Tolkien Companion and Guide: Chronology](../T/The_J.R.R._Tolkien_Companion_and_Guide.md)*.
+- **Chủ đề:** Thảo luận về lời mời đến thăm Đại học Marquette mùa xuân năm sau.<sup id="cite_ref-CG_1-1" class="reference"><a href="#cite_note-CG-1">[1]</a></sup><sup id="cite_ref-Marq_2-1" class="reference"><a href="#cite_note-Marq-2">[2]</a></sup>
+- **Xuất bản:** Mô tả các bức thư và trích dẫn từ bức thư thứ hai, xuất hiện trong *[The J.R.R. Tolkien Companion and Guide: Chronology](../T/The_J.R.R._Tolkien_Companion_and_Guide.md)*.
 - **Lưu trữ:** Đại học Marquette.<sup id="cite_ref-CG_1-2" class="reference"><a href="#cite_note-CG-1">[1]</a></sup><sup id="cite_ref-Marq_2-2" class="reference"><a href="#cite_note-Marq-2">[2]</a></sup>
 
 ## Trích {#Excerpt}

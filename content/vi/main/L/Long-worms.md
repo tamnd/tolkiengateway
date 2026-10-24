@@ -17,13 +17,13 @@ langlinks:
     url: "https://kontu.wiki/Hirmuk%C3%A4%C3%A4rmeet_(Pohjola)"
 ---
 
-**Sâu dài** là một loại [rồng](../D/Dragon.md) ở [Trung địa](../M/Middle-earth.md)<sup id="cite_ref-EoA_1-0" class="reference"><a href="#cite_note-EoA-1">[1]</a></sup> hoặc một tên khác [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được sử dụng cho ít nhất một số loài trong số chúng.<sup id="cite_ref-appendix_2-0" class="reference"><a href="#cite_note-appendix-2">[2]</a></sup>
+**Sâu dài** là một loại [rồng](../D/Dragon.md) trong [Trung Địa](../M/Middle-earth.md)<sup id="cite_ref-EoA_1-0" class="reference"><a href="#cite_note-EoA-1">[1]</a></sup> hoặc một tên khác mà [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) sử dụng cho ít nhất một số loài trong số chúng.<sup id="cite_ref-appendix_2-0" class="reference"><a href="#cite_note-appendix-2">[2]</a></sup>
 
-Con sâu dài duy nhất được nhắc tên là [Scatha](../S/Scatha.md), con rồng vĩ đại của [Ered Mithrin](../E/Ered_Mithrin.md). Ông ta<sup id="cite_ref-collectedpoems_3-0" class="reference"><a href="#cite_note-collectedpoems-3">[3]</a></sup> đã bị giết bởi [Fram](../F/Fram.md) của [Éothéod](../_/Éothéod.md) vào [Thời đại thứ ba](../T/Third_Age.md). Một thời gian dài sau đó, giun dài không còn gây ra mối đe dọa nào cho đất đai.<sup id="cite_ref-appendix_2-1" class="reference"><a href="#cite_note-appendix-2">[2]</a></sup>
+Con sâu dài duy nhất được nhắc đến tên là [Scatha](../S/Scatha.md), con rồng lớn của [Ered Mithrin](../E/Ered_Mithrin.md). Ông ta<sup id="cite_ref-collectedpoems_3-0" class="reference"><a href="#cite_note-collectedpoems-3">[3]</a></sup> đã bị giết bởi [Fram](../F/Fram.md) của [Éothéod](../_/Éothéod.md) trong [Kỷ Đệ Tam](../T/Third_Age.md). Một thời gian dài sau đó, giun dài không còn gây ra mối đe dọa nào cho đất đai.<sup id="cite_ref-appendix_2-1" class="reference"><a href="#cite_note-appendix-2">[2]</a></sup>
 
-Có thể thuật ngữ này ám chỉ những con rồng không cánh vì Scatha là một [con rồng lạnh](../C/Cold-drakes.md) không cánh.<sup id="cite_ref-collectedpoems_3-1" class="reference"><a href="#cite_note-collectedpoems-3">[3]</a></sup> Không rõ liệu Scatha có phải là loài giun dài cuối cùng hay một số loài vẫn còn tồn tại.
+Có thể thuật ngữ này dùng để chỉ những con rồng không cánh vì Scatha là một loài [cold-drake](../C/Cold-drakes.md) không cánh.<sup id="cite_ref-collectedpoems_3-1" class="reference"><a href="#cite_note-collectedpoems-3">[3]</a></sup> Không rõ liệu Scatha có phải là loài giun dài cuối cùng hay một số loài vẫn còn tồn tại.
 
-Tolkien thường xuyên sử dụng "[worm](../W/Worms.md)" làm biệt danh cho rồng - ví dụ bao gồm [Glaurung](../G/Glaurung.md),<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Scatha,<sup id="cite_ref-appendix_2-2" class="reference"><a href="#cite_note-appendix-2">[2]</a></sup> và [Smaug](../S/Smaug.md)<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> - nhưng không chắc liệu điều này có đề cập đến loài giun dài hay không.
+Tolkien thường xuyên sử dụng "[worm](../W/Worms.md)" làm biệt danh cho rồng - ví dụ bao gồm [Glaurung](../G/Glaurung.md),<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Scatha,<sup id="cite_ref-appendix_2-2" class="reference"><a href="#cite_note-appendix-2">[2]</a></sup> và [Smaug](../S/Smaug.md)<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> - nhưng không chắc liệu điều này có ám chỉ đến giun dài hay không.
 
 <span></span>
 

@@ -31,9 +31,9 @@ infobox:
 
 Sau khi [Gandalf](../G/Gandalf.md) thất bại cùng với [Balrog](../D/Durin's_Bane.md), [Aragorn](../A/Aragorn.md) ra lệnh cho [Công ty](../F/Fellowship_of_the_Ring.md) rời khỏi [Moria](../M/Moria.md). Khi chăm sóc vết thương cho [Sam](../S/Samwise_Gamgee.md) và [Frodo](../F/Frodo_Baggins.md), anh phát hiện ra chiếc áo vest *[mithril](../M/Mithril.md)* của sau này. Frodo đề cập đến việc nghe thấy [tiếng vỗ chân](../G/Gollum.md) và Hiệp hội nhanh chóng kết luận rằng đó không thể là [orc](../O/Orcs.md). Aragorn đảm bảo với anh rằng dù đó là gì đi nữa, nó sẽ không theo họ đến nơi họ sẽ đến: Lothlórien. Khi nghe thấy cái tên đó, [Boromir](../B/Boromir.md) phản đối, kể lại những câu chuyện về những nơi diễn ra ở [Gondor](../G/Gondor.md).
 
-[Galadriel](../G/Galadriel.md) và [Celeborn](../C/Celeborn.md) chào mừng Hiệp hội và thông báo với họ rằng họ đã biết về sự sụp đổ của Gandalf và nhiệm vụ của Frodo. Yêu tinh hát một bài hát buồn cho *Mithrandir*, còn Aragorn và Frodo thảo luận ngắn gọn về những kỷ niệm của họ về ông. Frodo hơi ngạc nhiên khi nghe nhiều về Mithrandir và nhiều cái tên của ông ta: ở Quận, ông ta chỉ là Gandalf. Aragorn nói với anh rằng đó có lẽ là cái tên mà Wizard yêu thích nhất.
+[Galadriel](../G/Galadriel.md) và [Celeborn](../C/Celeborn.md) chào mừng Hiệp hội và thông báo cho họ rằng họ đã biết về sự sụp đổ của Gandalf và nhiệm vụ của Frodo. Tiên tộc hát một bài hát buồn cho *Mithrandir*, đồng thời Aragorn và Frodo thảo luận ngắn gọn về những kỷ niệm của họ về ông. Frodo hơi ngạc nhiên khi nghe nhiều về Mithrandir và nhiều cái tên của ông ta: trong Shire, ông ta chỉ là Gandalf. Aragorn nói với ông rằng đó có lẽ là cái tên mà Pháp sư yêu thích nhất.
 
-Hiệp hội nghỉ ở Lothlórien, luyện tập chiến đấu, ngủ và hái hoa. [Legolas](../L/Legolas.md) và [Gimli](../G/Gimli.md) bắt đầu gắn kết với nhau.
+Hiệp hội nghỉ ngơi tại Lothlórien, luyện tập chiến đấu, ngủ và hái hoa. [Legolas](../L/Legolas.md) và [Gimli](../G/Gimli.md) bắt đầu liên kết.
 
 ## Truyền {#Cast}
 
@@ -85,7 +85,7 @@ Hiệp hội nghỉ ở Lothlórien, luyện tập chiến đấu, ngủ và há
 
 ## Sự khác biệt so với nguồn tài liệu {#Differences_from_the_source_material}
 
-- Galadriel và Celeborn đã biết về sự sụp đổ của Gandalf, bởi vì "những khu rừng đã kể cho \[họ\]".
+- Galadriel và Celeborn đã biết về sự sụp đổ của Gandalf, bởi vì "những khu rừng đã mách bảo \[họ\]".
 
 ## Lỗi {#Errors}
 

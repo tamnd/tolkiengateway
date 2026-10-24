@@ -38,7 +38,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="Hobbits.md" title="Hobbits">Hobbit</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Hending</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="Hobbiton.md" title="Hobbiton">Hobbiton</a></td></tr><tr><th scope="row" class="tg-infobox-label">Birth</th><td class="tg-infobox-data"><a class="mw-redirect" href="../S/Shire_Reckoning.md" title="Shire Reckoning">S.R.</a> <a href="../T/Third_Age_2859.md" title="Third Age 2859">1259</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">Family</th><td class="tg-infobox-data"><a class="mw-redirect" href="../G/Greenhand_Family~66392.md" title="Greenhand Family">Greenhand</a></td></tr><tr><th scope="row" class="tg-infobox-label">Parentage</th><td class="tg-infobox-data"><a href="Holman_the_greenhanded.md" title="Holman the greenhanded">Holman the greenhanded</a></td></tr><tr><th scope="row" class="tg-infobox-label">Siblings</th><td class="tg-infobox-data"><a href="../R/Rowan.md" title="Rowan">Rowan</a>, <a href="Halfred_Greenhand.md" title="Halfred Greenhand">Halfred</a>, <a href="../E/Erling.md" title="Erling">Erling</a> and <a href="../R/Rose_(daughter_of_Holman).md" title="Rose (daughter of Holman)">Rose</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr></tbody></table>
 
-**Hending** là một [Hobbit](Hobbits.md) của [Shire](../T/The_Shire.md).
+**Hending** là một [Hobbit](Hobbits.md) của [ Shire](../T/The_Shire.md).
 
 ## Lịch sử {#History}
 
@@ -46,7 +46,7 @@ Heending là con thứ tư của [Holman tay xanh](Holman_the_greenhanded.md).<s
 
 ## Từ nguyên {#Etymology}
 
-Tên trong tiếng Anh trung cổ có nghĩa là "người lịch sự, khéo léo".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Trong *[Gerald of Wales on the Survival of Welsh](../G/Gerald_of_Wales_on_the_Survival_of_Welsh.md)*, Tolkien đánh đồng cái tên "Hending" - trên danh nghĩa là tác giả của một tuyển tập các câu tục ngữ truyền thống kết thúc bằng "quoth Hending" — với "henddyn" người xứ Wales, ông già thông thái điển hình.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> <span></span>
+Tên trong tiếng Anh trung cổ có nghĩa là "người lịch sự, khéo léo".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Trong *[Gerald of Wales on the Survival of Welsh](../G/Gerald_of_Wales_on_the_Survival_of_Welsh.md)*, Tolkien tương đương với cái tên "Hending" — trên danh nghĩa là tác giả của một tuyển tập các câu tục ngữ truyền thống kết thúc bằng "quoth Hending" — với tiếng Wales "henddyn", ông già thông thái điển hình.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

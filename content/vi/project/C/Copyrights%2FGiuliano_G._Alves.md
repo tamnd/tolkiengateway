@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Alves, Giuliano G."
 ---
 
-- Giuliano G. Alves đã vui lòng cho phép ông sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Giuliano_G._Alves.md) trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
+- Giuliano G. Alves đã vui lòng cho phép ông sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Giuliano_G._Alves.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Ngày: 28 tháng 7 năm 2015
 - Người dùng đã xin phép qua email: [Người dùng: Mith](https://tolkiengateway.net/wiki/User:Mith)

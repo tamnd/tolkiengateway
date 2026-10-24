@@ -43,25 +43,25 @@ LƯU Ý: Phim được chia thành 2 đĩa cho cả phiên bản DVD và Blu-ray
 - 6\. "Làm cùn con dao"
 - 17\. Rivendell
 - 18\. Nghỉ ngơi ngắn
-- 22\. Hội đồng trắng
+- 22\. Bạch Hội Đồng
 - 26\. Yêu tinh vĩ đại
 
 ## Các Phụ lục: Phần 7 - Hành trình đáng mong đợi: Biên niên sử *[The Hobbit](The_Hobbit.md)* - Phần 1 (đĩa 2)\*\* {#The_Appendices:_Part_Seven_-_A_Long-Expected_Journey:_The_Chronicles_of_The_Hobbit_-_Part_1_(disc_2)**}
 
-- Lời giới thiệu của Peter Jackson\*
-- Phim tài liệu "Hành trình trở lại Trung Địa"\*
+- Giới thiệu từ Peter Jackson\*
+- Phim tài liệu"Hành trình trở về Trung Địa"\*
 - Phim tài liệu "Câu đố trong bóng tối"\*
 - Phim tài liệu về "Bữa tiệc bất ngờ"\*
 - Phim tài liệu "Thịt nướng"\*
-- Phim tài liệu "Pháo đài của [Greenwood](../M/Mirkwood.md)"\*
+- Phim tài liệu "Pháo đài của [Rừng Xanh](../M/Mirkwood.md)"\*
 - Phim tài liệu "Nghỉ ngơi ngắn ngủi"\*
 - Phim tài liệu"Over Hill..."^
 - Phim tài liệu"... Dưới Đồi"^
 - Phim tài liệu"Ra khỏi chảo rán..."^
-- Phim tài liệu "Trở về [Hobbiton](../H/Hobbiton.md)"^
+- Quay lại [Hobbiton](../H/Hobbiton.md)" Phim tài liệu^
 - Phim tài liệu "Sử thi cảnh 88"^
 - Phim tài liệu "Trận chiến [Moria](../M/Moria.md)"^
-- Phim tài liệu "Bên bờ [Vùng hoang dã](../R/Rhovanion.md)"^
+- Phim tài liệu "Bên lề của [Wilderland](../R/Rhovanion.md)"^
 - Phim tài liệu "Nhà ở phía sau, thế giới phía trước"^
 - Tín dụng^
 
@@ -70,24 +70,24 @@ LƯU Ý: Phim được chia thành 2 đĩa cho cả phiên bản DVD và Blu-ray
 ## Các Phụ lục: Phần 8 - Trở về [Trung Địa](../M/Middle-earth.md) (đĩa 3)^ {#The_Appendices:_Part_Eight_-_Return_to_Middle-earth_(disc_3)^^}
 
 - Phim tài liệu "Công ty của [Thorin](Thorin.md)"
-    - Tập hợp người lùn
+    - Lắp ráp Người Lùn
     - Thorin, [Fíli](../F/Fíli.md) & [Kíli](../K/Kíli.md)
     - [Balin](../B/Balin.md) & [Dwalin](../D/Dwalin.md)
     - [Óin](../_/Óin.md) & [Glóin](../G/Glóin.md)
     - [Dori](../D/Dori.md), [Nori](../N/Nori.md) & [Ori](../O/Ori.md)
     - [Bifur](../B/Bifur.md), [Bofur](../B/Bofur.md) & [Bombur](../B/Bombur.md)
 - Phim tài liệu "Mr. Baggins: Thành viên thứ 14"
-- "[Dân gian Durin](../D/Durin's_Folk~15256.md): Phim tài liệu về việc tạo ra những người lùn"
-- Phim tài liệu "Các dân tộc và cư dân Trung Địa"
-    - Hòn đá [Quỷ lùn](Trolls.md)
+- "[Dân gian Durin](../D/Durin's_Folk~15256.md): Tạo phim tài liệu Người Lùn"
+- Phim tài liệu"Người dân và cư dân Trung Địa"
+    - Hòn đá [Troll](Trolls.md)
     - [Radagast](../R/Radagast.md) màu nâu
-    - [Yêu tinh](../O/Orcs.md#Orcs_and_Goblins)
-    - [Azog](../A/Azog.md) Kẻ phá hoại
-- "Các vương quốc của [Thời đại thứ ba](Third_Age.md): Từ [Bag End](../B/Bag_End.md) đến [Thị trấn yêu tinh](../G/Goblin-town.md)" Phim tài liệu^
+    - [Goblin](../O/Orcs.md#Orcs_and_Goblins)
+    - [Azog](../A/Azog.md) Trình lọc
+- "Vương quốc của [Kỷ Đệ Tam](Third_Age.md): Từ [Bag End](../B/Bag_End.md) đến [Thị trấn yêu tinh](../G/Goblin-town.md)" Phim tài liệu^
     - Hobbiton
     - [Rhosgobel](../R/Rhosgobel.md)
     - [Rivendell](../R/Rivendell.md)
-    - [Dãy núi mù sương](../M/Misty_Mountains.md)
+    - Cái [Dãy Núi Sương Mù](../M/Misty_Mountains.md)
     - Thị trấn yêu tinh
 - Phim tài liệu "Những bài hát của *The Hobbit*"\*
 - Tín dụngº

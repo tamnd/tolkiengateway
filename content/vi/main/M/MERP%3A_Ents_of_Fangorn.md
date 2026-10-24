@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ents of Fangorn"
 ---
 
-Chuyển hướng đến [Ents của Fangorn](../E/Ents_of_Fangorn.md).
+Chuyển hướng tới [Ent của Fangorn](../E/Ents_of_Fangorn.md).

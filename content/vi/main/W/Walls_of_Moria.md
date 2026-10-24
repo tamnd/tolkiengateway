@@ -18,21 +18,21 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/D/Donato_Giancola_-_Walls_of_Moria.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b4/Donato_Giancola_-_Walls_of_Moria.jpg/250px-Donato_Giancola_-_Walls_of_Moria.jpg" decoding="async" loading="lazy" width="250" height="244" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b4/Donato_Giancola_-_Walls_of_Moria.jpg/375px-Donato_Giancola_-_Walls_of_Moria.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/b/b4/Donato_Giancola_-_Walls_of_Moria.jpg/500px-Donato_Giancola_-_Walls_of_Moria.jpg 2x" data-file-width="1540" data-file-height="1500"/></a><figcaption><i>Walls of Moria</i> by <a href="../D/Donato_Giancola.md" title="Donato Giancola">Donato Giancola</a></figcaption></figure>
 
-**Tường thành Moria** là những vách đá phía tây dưới chân [Dãy núi sương mù](../M/Misty_Mountains.md).
+**Tường thành Moria** là vách đá phía tây ở chân [Dãy Núi Sương Mù](../M/Misty_Mountains.md).
 
 [Những cánh cửa của Durin](../D/Doors_of_Durin.md) được xây dựng trên bề mặt đó và bằng sự khéo léo của những người tạo ra nó, cánh cửa hòa vào đó khi đóng lại.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Trước Bức tường, có một thung lũng nông leo về phía tây tới một vách đá nhỏ rồi đến con đường giữa [Thác Stair](../S/Stair_Falls.md) và [Vùng sinh thái](../E/Eregion.md) cổ kính.
+Trước Bức tường, có một thung lũng nông leo về phía tây tới một vách đá nhỏ rồi đến con đường giữa [Thác Cầu thang](../S/Stair_Falls.md) và [Eregion](../E/Eregion.md) cổ kính.
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_The_Walls_of_Moria_map.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/8/82/The_Lord_of_the_Rings_Online_-_The_Walls_of_Moria_map.jpg/300px-The_Lord_of_the_Rings_Online_-_The_Walls_of_Moria_map.jpg" decoding="async" loading="lazy" width="300" height="240" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/82/The_Lord_of_the_Rings_Online_-_The_Walls_of_Moria_map.jpg/450px-The_Lord_of_the_Rings_Online_-_The_Walls_of_Moria_map.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/8/82/The_Lord_of_the_Rings_Online_-_The_Walls_of_Moria_map.jpg/600px-The_Lord_of_the_Rings_Online_-_The_Walls_of_Moria_map.jpg 2x" data-file-width="1280" data-file-height="1024"/></a><figcaption>Map of the Walls of Moria from <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>.</figcaption></figure>
 
-<b>2001: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">Hiệp hội nhẫn thần của Peter Jackson</a></i>:</b>
+<b>2001: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">Peter Jackson của The Fellowship of the Ring</a></i>:</b>
 
 <dl><dd>Fellowship passes the Walls of Moria before reaching the Durin&#39;s Gate.</dd></dl>
 
-<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online%253A_Mines_of_Moria.md" title="The Lord of the Rings Online: Mines of Moria">Chúa tể của những chiếc nhẫn trực tuyến: Mỏ Moria</a></i>:</b>
+<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online%253A_Mines_of_Moria.md" title="The Lord of the Rings Online: Mines of Moria">The Lord of the Rings Trực tuyến: Mỏ Moria</a></i>:</b>
 
 <dl><dd>The Walls of Moria are a small sub-area of Eregion, where the &#34;Iron Garrison&#34;, an expedition of Dwarves from <a class="mw-redirect" href="../E/Erebor.md" title="Erebor">Erebor</a> and the <a href="../I/Iron_Hills.md" title="Iron Hills">Iron Hills</a>, seek to gain entry into <a href="../M/Moria.md" title="Moria">Moria</a>. Players must pass through this place before entering the Mines themselves. This may not be so easy considering the <a href="Watcher_in_the_Water.md" title="Watcher in the Water">Watcher in the Water</a> still lurking in the deep waters.</dd></dl>
 

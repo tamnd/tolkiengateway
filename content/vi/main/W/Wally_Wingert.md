@@ -24,7 +24,7 @@ sort_keys:
 
 ## Vai trò {#Roles}
 
-- [2006](../_/2006.md): *[The Lord of the Rings: The Battle for Middle-earth II](../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md)*: Người kể chuyện người lùn, Chiến binh Rohan, Yêu tinh, Người xây dựng yêu tinh
+- [2006](../_/2006.md): *[The Lord of the Rings: The Battle for Middle-earth II](../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md)*: Người lùn Người kể chuyện, Rohan Chiến binh, Yêu tinh, Tiên Người xây dựng
 - [2003](../_/2003.md): [*The Hobbit* (trò chơi điện tử năm 2003)](<../T/The_Hobbit_(2003_video_game).md>): [Balfor](../B/Balfor.md), Giọng nói bổ sung
 
 ## Liên kết ngoài {#External_links}

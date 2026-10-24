@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dunland and the Southern Misty Mountains"
 ---
 
-Chuyển hướng tới [Dunland và Dãy núi sương mù phía Nam](../D/Dunland_and_the_Southern_Misty_Mountains.md).
+Chuyển hướng tới [Dunland và Miền Nam Dãy Núi Sương Mù](../D/Dunland_and_the_Southern_Misty_Mountains.md).

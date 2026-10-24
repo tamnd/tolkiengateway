@@ -15,26 +15,26 @@ categories:
   - "Quenya"
 ---
 
-**Quenya lưu vong** là phương ngữ của [Quenya](../Q/Quenya.md) được sử dụng bởi [Noldorin](../N/Noldor.md) [những người lưu vong đã rời khỏi](Exile_of_the_Noldor.md) [Aman](../A/Aman.md) để đến [Trung Địa](../M/Middle-earth.md) vào [Thời đại thứ nhất](../F/First_Age.md). Sau đó nó trở thành phương ngữ chung của Quenya ở [Trung Địa](../M/Middle-earth.md).
+**Người lưu vong Quenya** là phương ngữ của [Quenya](../Q/Quenya.md) được nói bởi [Noldorin](../N/Noldor.md) [những người lưu vong đã rời đi](Exile_of_the_Noldor.md) [Aman](../A/Aman.md) để đến [Trung Địa](../M/Middle-earth.md) ở [Kỷ Đệ Nhất](../F/First_Age.md). Sau đó nó trở thành phương ngữ chung của Quenya trong [Trung Địa](../M/Middle-earth.md).
 
-Mặc dù thường được gọi là *Noldorin Quenya*, nhưng có bằng chứng cho thấy nó có thể không phản ánh sự tiến hóa của những Noldor còn tồn tại ở [Tirion](../T/Tirion.md) dưới sự cai trị của [Finarfin](../F/Finarfin.md). Ví dụ:
+Mặc dù thường được gọi là *Noldorin Quenya*, nhưng có bằng chứng cho thấy nó có thể không phản ánh sự tiến hóa của những Noldor vẫn còn trong [Tirion](../T/Tirion.md) dưới sự cai trị của [Finarfin](../F/Finarfin.md). Ví dụ:
 
-- Trong Thời đại thứ nhất ở Beleriand, Quenya lưu vong đã mất trường hợp buộc tội riêng biệt, hợp nhất nó với trường hợp chỉ định.
-- Sau khi kết thúc Thời đại thứ nhất, phương ngữ Exilic đã thay đổi từ viết tắt *w* thành *v*.
-- Sau khi kết thúc [Thời thứ hai](../S/Second_Age.md), phương ngữ đã thay đổi từ viết tắt *ñ* thành *n*.
-- Cũng trong [Thời đại thứ ba](../T/Third_Age.md), nhiều từ khác nhau đã thay đổi, theo đó các chuỗi *-iV-* (trong đó *V* đại diện cho bất kỳ nguyên âm tùy ý nào) được đổi thành *-iyV-*.
+- Trong Kỷ Đệ Nhất ở Beleriand, Exilic Quenya đã mất trường hợp buộc tội riêng biệt, hợp nhất nó với trường hợp chỉ định.
+- Sau khi kết thúc Kỷ Đệ Nhất, phương ngữ Exilic đã thay đổi từ đầu *w* thành *v*.
+- Sau khi kết thúc [Kỷ Đệ Nhị](../S/Second_Age.md), phương ngữ đã thay đổi từ đầu *ñ* thành *n*.
+- Cũng trong [Kỷ Đệ Tam](../T/Third_Age.md), nhiều từ khác nhau đã thay đổi, theo đó các chuỗi *-iV-* (trong đó *V* đại diện cho bất kỳ nguyên âm tùy ý nào) được thay đổi thành *-iyV-*.
 
-Rất có thể ít nhất một số thay đổi này cũng đã được áp dụng ở Aman khi Noldor trở về bằng đường biển qua nhiều thời đại, hoặc chết và tái hiện trong [Halls of Mandos](../H/Halls_of_Mandos.md) và gia nhập lại xã hội Amanya Noldorin. Tuy nhiên, tiếng Quenya của Aman (bao gồm cả ngôn ngữ được nói bởi [Vanyar](../V/Vanyar.md) và Noldor còn ở lại) được ghi lại rất ít trong các nguồn chính thức sau khi Noldor rời bỏ Aman ngay từ đầu, vì vậy mọi xu hướng ngôn ngữ của Amanya Quenya sau thời điểm này chỉ là suy đoán thuần túy. Thật vậy, rất khó để giả định các điều kiện sống chung của người Noldor sau khi hầu hết họ đã quay trở lại, bao gồm cả việc liệu họ có quay lại sống cùng nhau ở Tirion hay không.
+Rất có khả năng là ít nhất một số thay đổi này đã được áp dụng trong Aman khi Noldor được đưa trở lại bằng đường biển qua nhiều thời đại, hoặc đã chết và tái hiện trong [Halls của Mandos](../H/Halls_of_Mandos.md) và tái gia nhập xã hội Amanya Noldorin. Tuy nhiên, Quenya của Aman (bao gồm cả những gì được nói bởi [Vanyar](../V/Vanyar.md) và Noldor còn lại) được ghi lại rất ít trong các nguồn chính thức sau khi Noldor rời khỏi Aman ngay từ đầu, vì vậy mọi xu hướng ngôn ngữ của Amanya Quenya sau thời điểm này chỉ là suy đoán thuần túy. Quả thực, rất khó để giả định điều kiện sống tập thể của Noldor sau khi hầu hết họ đã trở về, bao gồm cả việc liệu họ có quay lại sống cùng nhau ở Tirion hay không.
 
-Nhưng *is* chắc chắn rằng biến thể Quenya lưu vong là nền tảng của Quenya tiếp tục được sử dụng, theo nghi lễ hay cách khác, bởi [Edain](Edain.md) và [Dúnedain](../D/Dúnedain.md), những người không bao giờ được định cư ở Aman.
+Nhưng *is* chắc chắn rằng giống Exilic của Quenya là cơ sở của Quenya tiếp tục được sử dụng, theo nghi lễ hay cách khác, bởi [Edain](Edain.md) và [Dúnedain](../D/Dúnedain.md), những người không bao giờ được định cư ở Aman.
 
 ## Ví dụ {#Example}
 
-[Helge Fauskanger](../H/Helge_Fauskanger.md) đã soạn một cụm từ [Neo-Quenya](../N/Neo-Quenya.md) ngắn trong danh sách gửi thư [Elfling](Elfling.md), để hình dung tổng thể những thay đổi đã xảy ra ở Noldorin, cả về âm vị học và cú pháp.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+[Helge Fauskanger](../H/Helge_Fauskanger.md) đã soạn một cụm từ [Neo-Quenya](../N/Neo-Quenya.md) ngắn trong danh sách gửi thư [Elfling](Elfling.md) để hình dung tổng thể các thay đổi đã xảy ra trong Noldorin, cả về âm vị và cú pháp.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-"Feanor trong cơn thịnh nộ đã dẫn dắt Noldor vượt biển từ Valinor đến Trung địa. Noldor đi vào vùng đất rừng của Sindar và phân tán ở đó."
+"Feanor trong cơn thịnh nộ đã dẫn Noldor vượt qua Biển từ Valinor đến Trung Địa. Noldor đi vào vùng đất rừng của Sindar và nằm rải rác ở đó."
 
-Trong "Old Quenya" của Aman, cụm từ này được xây dựng lại thành:
+Trong "Cũ Quenya" của Aman cụm từ này được xây dựng lại thành:
 
 <dl><dd><i>Tulyane Fayanáro achazyasse Ñoldoi olla Aiar Valinórello Endórenna. Awanter Ñoldor miz taureai nórí Thindaron az náner wintainai tasse.</i></dd></dl>
 
@@ -55,7 +55,7 @@ Sau này, Quenya cổ điển sẽ là:
 </li>
 </ol></div>
 
-<small><dl><dd><dl><dd><ul><li><a class="external text" href="http://www.uib.no/people/hnohf/qevolution.pdf" rel="noreferrer noopener" target="_blank">Sự tiến hóa từ Tiên nguyên thủy đến Quenya</a></li></ul></dd></dl></dd></dl></small>
+<small><dl><dd><dl><dd><ul><li><a class="external text" href="http://www.uib.no/people/hnohf/qevolution.pdf" rel="noreferrer noopener" target="_blank">Sự tiến hóa từ nguyên thủy Elvish đến Quenya</a></li></ul></dd></dl></dd></dl></small>
 
 <small></small>
 

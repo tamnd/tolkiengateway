@@ -35,7 +35,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Middle-earth_and_Beyond.png.md"><img src="https://tolkiengateway.net/w/images/thumb/8/88/Middle-earth_and_Beyond.png/320px-Middle-earth_and_Beyond.png" decoding="async" loading="lazy" width="320" height="354" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/88/Middle-earth_and_Beyond.png/480px-Middle-earth_and_Beyond.png 1.5x, https://tolkiengateway.net/w/images/8/88/Middle-earth_and_Beyond.png 2x" data-file-width="522" data-file-height="578"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Middle-earth and Beyond: Essays on the World of J.R.R. Tolkien</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../K/Kathleen_E._Dubs.md" title="Kathleen E. Dubs">Kathleen Dubs</a> and Janka Kaščáková</td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="../T/Ted_Nasmith.md" title="Ted Nasmith">Ted Nasmith</a> (cover)</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Cambridge Scholars Publishing</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/1_December.md" title="1 December">1 December</a> <a href="../_/2010.md" title="2010">2010</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Hardcover</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">160</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/978-1443825580" title="Special:BookSources/978-1443825580">978-1443825580</a></td></tr></tbody></table>
 
-<i><b>Middle-earth and Beyond: Essays on the World of J.R.R. Tolkien</b></i> là tập hợp các bài tiểu luận về [Tolkien](../J/J.R.R._Tolkien.md)'s [huyền thoại](../L/Legendarium.md).
+<i><b>Trung Địa và xa hơn: Các bài tiểu luận về thế giới J.R.R. Tolkien</b></i> là tập hợp các bài tiểu luận về [huyền thoại](../L/Legendarium.md) của [Tolkien](../J/J.R.R._Tolkien.md).
 
 ## Từ nhà xuất bản {#From_the_publisher}
 
@@ -47,11 +47,11 @@ infobox:
 ## Nội dung {#Contents}
 
 - Giới thiệu (của Kathleen Dubs)
-- "Tìm nguồn 'Vòng tròn thế giới' của Tolkien: Những suy đoán về Heimskringla, Kinh thánh Vulgate tiếng Latinh và Hereford Mappa Mundi" (của [Jason Fisher](../J/Jason_Fisher.md))
+- "Tìm nguồn cung ứng 'Vòng tròn thế giới' của Tolkien: Những suy đoán về Heimskringla, Kinh thánh Vulgate tiếng Latinh và Hereford Mappa Mundi" (bởi [Jason Fisher](../J/Jason_Fisher.md))
 - "Ở nhà và đi du lịch: Sự ứ đọng và chuyển động trong thần thoại của Tolkien" (của Sue Bridgwater)
-- "Ông Bombadil bí ẩn: Vai trò của Tom Bombadil như một đại diện của thiên nhiên trong *The Lord of the Rings*" (của [Liam Campbell](../L/Liam_Campbell.md))
-- "Tom Bombadil – Người đàn ông bí ẩn" (của Kinga Jenike)
+- "Ông Bombadil bí ẩn: Vai trò của Tom Bombadil là sự đại diện cho thiên nhiên trong *The Lord of the Rings*" (bởi [Liam Campbell](../L/Liam_Campbell.md))
+- "Tom Bombadil – Người đàn ông bí ẩn" (bởi Kinga Jenike)
 - "Các nhân vật kỳ cục trong tiểu thuyết của Tolkien *The Hobbit* và *The Lord of the Rings*" (của Silvia Pokrivcakova và Anton Pokrivcak)
 - "'Đồ ăn có tuyết và đồ uống có mưa' trong *The Lord of the Rings* (bởi Janka Kascakova)
 - "'No Laughing Matter' (bởi Kathleen Dubs)
-- "'Lit.', 'Lang.', 'Ling.', và công ty họ nắm giữ: Vụ án về những đứa trẻ của Húrin nhìn từ góc nhìn của Gricean" (bởi Roberto Di Scala)
+- "'Lit.', 'Lang.', 'Ling.', và công ty họ nắm giữ: Trường hợp của The Lay of the Children of Húrin nhìn từ góc nhìn Gricean" (bởi Roberto Di Scala)

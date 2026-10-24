@@ -46,17 +46,17 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/Liz_Danforth_-_Bucca.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/8/88/Liz_Danforth_-_Bucca.jpg/320px-Liz_Danforth_-_Bucca.jpg" decoding="async" loading="lazy" width="320" height="435" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/8/88/Liz_Danforth_-_Bucca.jpg 1.5x" data-file-width="408" data-file-height="554"/></a><figcaption>&#34;Bucca&#34; by <a href="../L/Liz_Danforth.md" title="Liz Danforth">Liz Danforth</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../H/Hobbits.md" title="Hobbits">Hobbit</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Bucca of the Marish</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Titles</th><td class="tg-infobox-data"><a href="../T/Thain.md" title="Thain">Thain</a></td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">The <a href="../M/Marish.md" title="Marish">Marish</a></td></tr><tr><th scope="row" class="tg-infobox-label">Rule</th><td class="tg-infobox-data">from <a class="mw-redirect" href="../S/Shire_Reckoning.md" title="Shire Reckoning">S.R.</a> <a href="../T/Third_Age_1979.md" title="Third Age 1979">379</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Bucca_of_the_Marish.md" title="Category:Images of Bucca of the Marish">Images of Bucca of the Marish</a></td></tr></tbody></table>
 
-**Bucca của Marish** là [Thain](../T/Thain.md) đầu tiên của [Người Hobbit](../H/Hobbits.md) ở [Eriador](../E/Eriador.md).
+**Bucca của Marish** là [Thain](../T/Thain.md) đầu tiên của [Hobbit](../H/Hobbits.md) ở [Eriador](../E/Eriador.md).
 
 ## Lịch sử {#History}
 
-Khoảng [S.R.](../S/Shire_Reckoning.md) [379](../T/Third_Age_1979.md), khoảng bốn năm sau khi [vương quốc phương Bắc](../A/Arnor.md) sụp đổ, người Hobbit ở [Shire](../T/The_Shire.md) đã bầu từ giữa họ một Bucca của [Marish](../M/Marish.md) làm Thain đầu tiên. Ông ta sẽ cai trị vùng đất thay cho [Vua](../K/King_of_Arthedain.md). Người ta biết rất ít về ông ta, ngoài việc ông ta mang lại hòa bình và thịnh vượng cho người Hobbit.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Khoảng [S.R.](../S/Shire_Reckoning.md) [379](../T/Third_Age_1979.md), khoảng bốn năm sau khi [Vương quốc phương Bắc](../A/Arnor.md) sụp đổ, Hobbit của [ Shire](../T/The_Shire.md) đã bầu từ giữa họ một Bucca của [Marish](../M/Marish.md) làm Thain đầu tiên. Ông ta sẽ cai trị vùng đất thay cho [Vua](../K/King_of_Arthedain.md). Người ta biết rất ít về ông, ngoài việc ông đã mang lại hòa bình và thịnh vượng cho Hobbit.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Gia đình anh trở thành [Oldbucks](../O/Oldbucks.md) và cuối cùng là [Brandybucks](Brandybuck_Family~66350.md).
 
 ## Từ nguyên {#Etymology}
 
-Từ **Bucca** là [tiếng Anh cổ](../O/Old_English.md) có nghĩa là "buck", "hươu đực" hoặc "he-dê" là bản dịch của tên [Westron](../W/Westron.md) ban đầu <b><a class="new" href="https://tolkiengateway.net/w/index.php?title=Gamba&amp;action=edit&amp;redlink=1" title="Gamba (page does not exist)">Gamba</a></b>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Từ **Bucca** là [tiếng Anh cổ](../O/Old_English.md) cho "buck", "hươu đực" hoặc "he-dê" là bản dịch của tên [Westron](../W/Westron.md) gốc <b><a class="new" href="https://tolkiengateway.net/w/index.php?title=Gamba&amp;action=edit&amp;redlink=1" title="Gamba (page does not exist)">Gamba</a></b>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

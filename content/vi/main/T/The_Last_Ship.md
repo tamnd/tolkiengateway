@@ -39,9 +39,9 @@ infobox:
   <tr><th scope="row" class="tg-infobox-label">Subject(s)</th><td class="tg-infobox-data"><a href="../F/Fíriel_(The_Last_Ship).md" title="Fíriel (The Last Ship)">Fíriel</a>, <a href="../L/Last_Ship.md" title="Last Ship">Last Ship</a></td></tr>
 </tbody></table>
 
-<i><b>Con tàu cuối cùng</b></i> là một bài thơ về truyền thuyết về [Quận](The_Shire.md) bắt nguồn từ [Kỷ nguyên thứ tư](../F/Fourth_Age.md), và có lẽ bắt nguồn từ [Gondor](../G/Gondor.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>Bài Con Tàu Cuối Cùng</b></i> là một bài thơ truyền thuyết về [the Shire](The_Shire.md) bắt nguồn từ [Kỷ Đệ Tứ](../F/Fourth_Age.md) và có lẽ bắt nguồn từ [Gondor](../G/Gondor.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Nó kể về một người phụ nữ, [Fíriel](<../F/Fíriel_(The_Last_Ship).md>), xinh đẹp đến nỗi các [Yêu tinh](../E/Elves.md) đề nghị chở cô qua [Con đường thẳng](../S/Straight_Road.md) đến [Valinor](../V/Valinor.md), nhưng cô không thể đi cùng họ.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Nó kể về một người phụ nữ, [Fíriel](<../F/Fíriel_(The_Last_Ship).md>), xinh đẹp đến mức [Tiên tộc](../E/Elves.md) đề nghị chở cô qua [Con Đường Thẳng](../S/Straight_Road.md) đến [Valinor](../V/Valinor.md), nhưng cô không thể đi cùng họ.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 

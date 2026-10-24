@@ -69,9 +69,9 @@ Sự kiện xảy ra vào ngày 21 tháng 4
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [2841](../T/Third_Age_2841.md):
-    - [Thráin](../T/Thráin.md) lên đường tới [Ngọn núi Cô đơn](../L/Lonely_Mountain.md).
+    - [Thráin](../T/Thráin.md) khởi hành đến [Ngọn Núi Cô Đơn](../L/Lonely_Mountain.md).
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - Trăng non<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+    - Mới Mặt Trăng<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

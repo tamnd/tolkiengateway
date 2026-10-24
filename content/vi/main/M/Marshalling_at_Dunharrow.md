@@ -36,4 +36,4 @@ infobox:
 <p class="tg-quote-footer"><cite><a href="../G/Glóin.md" title="Glóin">Glóin</a></cite></p>
 </blockquote></div></div>
 
-**Sắp xếp ở Dunharrow** là cảnh thứ 22 của *[The Lord of the Rings: The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)* và cảnh thứ 29 của [*The Lord of the Rings: The Return of the King* (extended edition)](<../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_(extended_edition).md>). Nó đã được mở rộng trong phiên bản sau.
+**Sắp xếp tại Dunharrow** là cảnh thứ 22 của *[The Lord of the Rings: The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)* và cảnh thứ 29 của [*The Lord of the Rings: The Return of the King* (extended edition)](<../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_(extended_edition).md>). Nó đã được mở rộng trong phiên bản sau.

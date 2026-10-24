@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "User:King Argonath Elessar"
 ---
 
-Chuyển hướng tới [Người dùng:King Argonath Elessar](https://tolkiengateway.net/wiki/User:King_Argonath_Elessar).
+Chuyển hướng đến [Người dùng:Vua Argonath Elessar](https://tolkiengateway.net/wiki/User:King_Argonath_Elessar).

@@ -21,7 +21,7 @@ langlinks:
     url: "https://kontu.wiki/Gonnhirrim"
 ---
 
-**Gonnhirrim** [Sindarin](../S/Sindarin.md) "Bậc thầy đá" là tên dành cho [Người lùn](../D/Dwarves.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Gonnhirrim** [Sindarin](../S/Sindarin.md) "Bậc thầy đá" là tên của [Người Lùn](../D/Dwarves.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

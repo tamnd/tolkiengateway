@@ -29,7 +29,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Trong thư gửi [Rayner Unwin](../R/Rayner_Unwin.md) của [Allen & Unwin](../A/Allen_&_Unwin.md), Tolkien bày tỏ lòng biết ơn về quyết định xuất bản *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* của nhà xuất bản theo chương trình chia sẻ lợi nhuận. Ông thừa nhận kế hoạch này không liên quan đến tiền bản quyền cho đến khi tất cả các chi phí được trang trải và sau đó lợi nhuận được chia sẻ. Tolkien mong chờ quyết định cuối cùng về việc tác phẩm sẽ được xuất bản thành một tập hay ba tập và đảm bảo với Unwin rằng ông sẽ hoàn thành phần việc của mình kịp thời bất chấp những cam kết khác. <br>
+Trong thư gửi [Rayner Unwin](../R/Rayner_Unwin.md) của [Allen &amp; Unwin](../A/Allen_&_Unwin.md), Tolkien bày tỏ lòng biết ơn về quyết định xuất bản *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* của nhà xuất bản theo chương trình chia sẻ lợi nhuận. Ông thừa nhận kế hoạch này không liên quan đến tiền bản quyền cho đến khi tất cả các chi phí được trang trải và sau đó lợi nhuận được chia sẻ. Tolkien mong chờ quyết định cuối cùng về việc tác phẩm sẽ được xuất bản thành một hay ba tập và đảm bảo với Unwin rằng anh sẽ hoàn thành phần việc của mình kịp thời bất chấp những cam kết khác của anh. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

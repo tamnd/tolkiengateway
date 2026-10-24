@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "White Wolves"
 ---
 
-Chuyển hướng đến [Sói trắng](White_Wolves.md).
+Chuyển hướng tới [Trắng Sói](White_Wolves.md).

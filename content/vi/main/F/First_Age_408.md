@@ -16,7 +16,7 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="../T/Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><b>I</b><a href="../S/Second_Age.md" title="Second Age">II</a><a href="../T/Third_Age.md" title="Third Age">III</a><a href="Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="First_Age_402.md" title="First Age 402">402</a><a href="First_Age_405.md" title="First Age 405">405</a><a href="First_Age_406.md" title="First Age 406">406</a><a class="mw-selflink selflink">408</a><a href="First_Age_409.md" title="First Age 409">409</a><a href="First_Age_410.md" title="First Age 410">410</a><a href="First_Age_411.md" title="First Age 411">411</a></div></div></div></div></div></div>
 
-**Kỷ nguyên thứ nhất 408** (viết tắt là **F.A. 408**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 408 của [Kỷ nguyên thứ nhất](First_Age.md) của [Trung Địa](../M/Middle-earth.md).
+**Kỷ Đệ Nhất 408** (viết tắt là **F.A. 408**) là năm [thứ 408 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Nhất](First_Age.md) của [Trung Địa](../M/Middle-earth.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
@@ -25,7 +25,7 @@ Các sự kiện đáng chú ý trong năm nay bao gồm:
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Mặc dù bảng ở trang 231 ghi ngày mất của Boron là 403, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Ghi chú của Christopher Tolkien</a>nói rằng ngày này đã được đổi thành 408 vào một thời điểm nào đó trong tương lai.</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Mặc dù bảng ở trang 231 ghi ngày mất của Boron là 403, nhưng ghi chú của <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a>nói rằng ngày này đã được đổi thành 408 vào một thời điểm nào đó trong tương lai.</span>
 </li>
 </ol></div></span>
 

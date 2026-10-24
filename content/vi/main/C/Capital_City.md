@@ -17,11 +17,11 @@ images:
 
 **Thủ đô** có thể tham khảo:
 
-- [Thông báo](../A/Annúminas.md)
+- [Annúminas](../A/Annúminas.md)
 - [Armenelos](../A/Armenelos.md)
 - [Dale](../D/Dale.md)
 - [Edoras](../E/Edoras.md)
-- [Kỷ nguyên Fornost](../F/Fornost_Erain.md)
+- [Fornost Erain](../F/Fornost_Erain.md)
 - [Menegroth](../M/Menegroth.md)
 - [Michel Delving](../M/Michel_Delving.md)
 - [Minas Tirith](../M/Minas_Tirith.md)

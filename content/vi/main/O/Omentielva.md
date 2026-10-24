@@ -17,7 +17,7 @@ langlinks:
     url: "https://kontu.wiki/Omentielva"
 ---
 
-**Omentielva** (cũng là Hội nghị quốc tế về các ngôn ngữ được phát minh của J.R.R. Tolkien) là hội nghị học thuật hai năm một lần về các ngôn ngữ được phát minh của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Tên của hội nghị bắt nguồn từ từ [Quenya](../Q/Quenya.md) có nghĩa là "cuộc họp", *[omentie](Omentie.md)*. Tất cả các cuộc họp đều được đánh số theo thứ tự Quenya thích hợp. Vì vậy, cuộc gặp gỡ đầu tiên được gọi là Omentieva Minya (nghĩa đen là “cuộc gặp gỡ đầu tiên”).
+**Omentielva** (cũng là Hội nghị quốc tế về các ngôn ngữ được phát minh của J.R.R. Tolkien) là hội nghị học thuật hai năm một lần về các ngôn ngữ được phát minh của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Tên của hội nghị xuất phát từ từ [Quenya](../Q/Quenya.md) có nghĩa là "cuộc họp", *[omentie](Omentie.md)*. Tất cả các cuộc họp đều được đánh số theo thứ tự Quenya thích hợp. Vì vậy, cuộc gặp gỡ đầu tiên được gọi là Omentieva Minya (nghĩa đen là “cuộc gặp gỡ đầu tiên”).
 
 Kỷ yếu Hội nghị được xuất bản dưới dạng *[Arda Philology](../A/Arda_Philology.md)*.
 
@@ -35,7 +35,7 @@ Hội nghị quốc tế lần thứ ba về các ngôn ngữ được phát min
 
 ## Trà Omentielva {#Omentielva_Cantea}
 
-Hội nghị quốc tế lần thứ tư về các ngôn ngữ được phát minh của J.R.R. Tolkien được tổ chức từ ngày 11 tháng 8 đến ngày 14 tháng 8 năm 2011 tại Đại học Politécnica de Valencia, Tây Ban Nha.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Hội nghị quốc tế Kỷ Đệ Tứ về các ngôn ngữ được phát minh của J.R.R. Tolkien được tổ chức từ ngày 11 tháng 8 đến ngày 14 tháng 8 năm 2011 tại Đại học Politécnica de Valencia, Tây Ban Nha.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Omentielva Lempea {#Omentielva_Lempea}
 

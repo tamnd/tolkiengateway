@@ -34,7 +34,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien nói với Christopher về nỗ lực dạy [Priscilla](../P/Priscilla_Tolkien.md) ý nghĩa của <a class="extiw" href="http://en.wikipedia.org/wiki/G.K._Chesterton" title="wikipedia:G.K. Chesterton">G.K. Chesterton</a>'s <i><a class="extiw" href="http://en.wikipedia.org/wiki/The_Ballad_of_the_White_Horse" title="wikipedia:The Ballad of the White Horse">Bản ballad của con ngựa trắng</a></i>. Khi giải thích, ông nhận ra bài thơ không hay như mình nghĩ, còn Chesterton hoàn toàn không biết gì về văn hóa phương Bắc, cả Cơ đốc giáo và Ngoại đạo.
+Tolkien kể cho Christopher về nỗ lực dạy [Priscilla](../P/Priscilla_Tolkien.md) ý nghĩa <a class="extiw" href="http://en.wikipedia.org/wiki/G.K._Chesterton" title="wikipedia:G.K. Chesterton">G.K. Chesterton</a>'s <i><a class="extiw" href="http://en.wikipedia.org/wiki/The_Ballad_of_the_White_Horse" title="wikipedia:The Ballad of the White Horse">Bản ballad của con ngựa trắng</a></i>. Khi giải thích, ông nhận ra bài thơ không hay như mình nghĩ, còn Chesterton hoàn toàn không biết gì về văn hóa phương Bắc, cả Cơ đốc giáo và Ngoại đạo.
 
 <br>
 

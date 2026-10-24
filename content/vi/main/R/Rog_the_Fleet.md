@@ -17,7 +17,7 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Rog</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="Rog_(disambiguation).md" title="Rog (disambiguation)">Rog (disambiguation)</a></b>.</div></div>
 
-**Hạm đội Rog** là tên được sử dụng cho [Egnor](../B/Barahir.md) bởi [Orc](../O/Orcs.md) của [Melko](../M/Morgoth.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Rog Hạm đội** là tên được sử dụng cho [Egnor](../B/Barahir.md) bởi [Orc](../O/Orcs.md) của [Melko](../M/Morgoth.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

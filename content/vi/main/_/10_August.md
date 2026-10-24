@@ -69,27 +69,27 @@ Sự kiện xảy ra vào ngày 10 tháng 8
 - **[1936](1936.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 8b](../L/Letter_8b.md).
 - **[1943](1943.md)** - Diễn viên [Peter McKenzie](../P/Peter_McKenzie.md) ra đời.
 - **[1952](1952.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một bức thư cho Moira Sayer](<../L/Letter_to_Moira_Sayer_(10_August_1952).md>).
-- **[1964](1964.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một bức thư cho Carole Ward](../L/Letter_to_Carole_Ward.md).
+- **[1964](1964.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một lá thư cho Carole Ward](../L/Letter_to_Carole_Ward.md).
 - **[1966](1966.md)** - Diễn viên lồng tiếng [André Sogliuzzo](../A/André_Sogliuzzo.md) ra đời.
 - **[1981](1981.md)** - [Mythcon 12](../M/Mythcon_12.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Mills_College" title="wikipedia:Mills College">Mills College</a> ở <a class="extiw" href="http://en.wikipedia.org/wiki/Oakland,_California" title="wikipedia:Oakland, California">Oakland</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/California" title="wikipedia:California">California</a>.
 - **[1984](1984.md)** - [Mythcon 15](../M/Mythcon_15.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Mills_College" title="wikipedia:Mills College">Mills College</a> ở <a class="extiw" href="http://en.wikipedia.org/wiki/Oakland,_California" title="wikipedia:Oakland, California">Oakland</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/California" title="wikipedia:California">California</a>.
-- **[1986](1986.md)** - [Mythcon 17](../M/Mythcon_17.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/California_State_University" title="wikipedia:California State University">Đại học Bang California</a> ở <a class="extiw" href="http://en.wikipedia.org/wiki/Long_Beach,_California" title="wikipedia:Long Beach, California">Long Beach</a>.
+- **[1986](1986.md)** - [Mythcon 17](../M/Mythcon_17.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/California_State_University" title="wikipedia:California State University">Đại học bang California</a> ở <a class="extiw" href="http://en.wikipedia.org/wiki/Long_Beach,_California" title="wikipedia:Long Beach, California">Long Beach</a>.
 - **[1997](1997.md)** - [Mythcon 28](../M/Mythcon_28.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Pepperdine_University" title="wikipedia:Pepperdine University">Đại học Pepperdine</a> ở <a class="extiw" href="http://en.wikipedia.org/wiki/Malibu,_California" title="wikipedia:Malibu, California">Malibu</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/California" title="wikipedia:California">California</a>.
 - **[2005](2005.md)** - *[The Tolkien Society Guide to Oxford](../T/The_Tolkien_Society_Guide_to_Oxford.md)* được xuất bản.
-- **[2005](2005.md)** - *[The Lord of the Rings Symphony](../T/The_Lord_of_the_Rings_Symphony.md)* biểu diễn ở Herodion, <a class="extiw" href="http://en.wikipedia.org/wiki/Greece" title="wikipedia:Greece">Hy Lạp</a>.
-- **[2007](2007.md)** - <a class="external text" href="http://omentielva.com/" rel="noreferrer noopener" target="_blank">Omentielva Tatya</a> - Hội nghị quốc tế lần thứ 2 về các ngôn ngữ được phát minh của [Tolkien](../J/J.R.R._Tolkien.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Antwerp" title="wikipedia:Antwerp">Antwerp</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Belgium" title="wikipedia:Belgium">Bỉ</a>.
+- **[2005](2005.md)** - *[The Lord of the Rings Symphony](../T/The_Lord_of_the_Rings_Symphony.md)* chơi ở Herodion, <a class="extiw" href="http://en.wikipedia.org/wiki/Greece" title="wikipedia:Greece">Hy Lạp</a>.
+- **[2007](2007.md)** - <a class="external text" href="http://omentielva.com/" rel="noreferrer noopener" target="_blank">Omentielva Tatya</a> - Hội nghị quốc tế lần thứ 2 về các ngôn ngữ được phát minh của [Tolkien](../J/J.R.R._Tolkien.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Antwerp" title="wikipedia:Antwerp">Antwerp</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Belgium" title="wikipedia:Belgium">Bỉ</a>.
 - **[2013](2013.md)** - [Omentielva Lempea](../O/Omentielva.md) - Hội nghị quốc tế lần thứ 5 về các ngôn ngữ được phát minh của [Tolkien](../J/J.R.R._Tolkien.md) tại Helsinki, Phần Lan.
 - **[2014](2014.md)** - [Mythcon 45](../M/Mythcon_45.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Wheaton_College_(Massachusetts)" title="wikipedia:Wheaton College (Massachusetts)">Wheaton College</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Massachusetts" title="wikipedia:Massachusetts">Massachusetts</a>.
-- **[2017](2017.md)** - [Omentielva Otsea](../O/Omentielva.md) - Hội nghị quốc tế lần thứ bảy về [Ngôn ngữ được phát minh của Tolkien](../J/J.R.R._Tolkien.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/California_State_University,_East_Bay" title="wikipedia:California State University, East Bay">Đại học bang California, East Bay</a>.
+- **[2017](2017.md)** - [Omentielva Otsea](../O/Omentielva.md) - Hội nghị quốc tế lần thứ bảy về các ngôn ngữ được phát minh của [Tolkien](../J/J.R.R._Tolkien.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/California_State_University,_East_Bay" title="wikipedia:California State University, East Bay">Đại học bang California, phương Đông Bay</a>.
 - **[2021](2021.md)** - *[Tolkien Calendar 2022](../T/Tolkien_Calendar_2022.md)* được xuất bản.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Gandalf](../G/Gandalf.md) bị [Saruman](../S/Saruman.md) giam giữ trên đỉnh [Orthanc](../O/Orthanc.md).
+    - [Gandalf](../G/Gandalf.md) bị giam giữ bởi [Saruman](../S/Saruman.md) trên đỉnh của [Orthanc](../O/Orthanc.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - Tang lễ của [Vua](../K/Kings_of_Rohan.md) [Théoden](../T/Théoden.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> được tổ chức bên ngoài bức tường của [Edoras](../E/Edoras.md). [Faramir](../F/Faramir.md) và [Éowyn](Éowyn.md) đã đính hôn.
+    - Tang tang của [Vua](../K/Kings_of_Rohan.md) [Théoden](../T/Théoden.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> được tổ chức bên ngoài bức tường của [Edoras](../E/Edoras.md). [Faramir](../F/Faramir.md) và [Éowyn](Éowyn.md) đã đính hôn.
 
 <span></span>
 

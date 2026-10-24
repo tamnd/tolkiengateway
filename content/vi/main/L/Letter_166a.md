@@ -25,11 +25,11 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><i><a href="../T/The_Letters_of_J.R.R._Tolkien.md" title="The Letters of J.R.R. Tolkien">The Letters of J.R.R. Tolkien</a></i></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Letter 166a</span></th></tr><tr><th scope="row" class="tg-infobox-label">Recipient</th><td class="tg-infobox-data"><a href="../R/Rayner_Unwin.md" title="Rayner Unwin">Rayner Unwin</a></td></tr><tr><th scope="row" class="tg-infobox-label">Date</th><td class="tg-infobox-data"><a href="../_/27_July.md" title="27 July">27 July</a> <a href="../_/1955.md" title="1955">1955</a></td></tr><tr><th scope="row" class="tg-infobox-label">Subject(s)</th><td class="tg-infobox-data">Private holiday</td></tr></tbody></table>
 
-**Thư 166a** là lá thư được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và đăng trên *[The Letters of J.R.R. Tolkien: Revised and Expanded edition](../T/The_Letters_of_J.R.R._Tolkien.md#Revised_and_Expanded_edition)*.
+**Thư 166a** là bức thư được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và đăng trên *[The Letters of J.R.R. Tolkien: Revised and Expanded edition](../T/The_Letters_of_J.R.R._Tolkien.md#Revised_and_Expanded_edition)*.
 
 ## Tóm tắt {#Summary}
 
-Trong bức thư ngắn gọn này, Tolkien thông báo cho [Rayner Unwin](../R/Rayner_Unwin.md) về kế hoạch du lịch sắp tới của ông. Ông đề cập rằng ông sẽ lên đường thực hiện một chuyến đi, ám chỉ một cách ẩn dụ rằng đó là chuyến hành trình từ "[Vương quốc phía Bắc](../N/North_Kingdom.md)" đến "[Gondor](../G/Gondor.md)" ám chỉ một chuyến du ngoạn nhanh chóng. Tolkien chỉ rõ rằng ông sẽ vắng mặt từ ngày 7 tháng 8 đến ngày 14 tháng 8, dành khoảng thời gian đó ở <a class="extiw" href="http://en.wikipedia.org/wiki/Assisi" title="wikipedia:Assisi">Assisi</a>.
+Trong bức thư ngắn gọn này, Tolkien thông báo cho [Rayner Unwin](../R/Rayner_Unwin.md) về kế hoạch du lịch sắp tới của mình. Ông đề cập rằng ông sẽ lên đường thực hiện một chuyến du lịch, ám chỉ nó một cách ẩn dụ là một cuộc hành trình từ "[Vương quốc phía Bắc](../N/North_Kingdom.md)" đến "[Gondor](../G/Gondor.md)" ám chỉ một chuyến du ngoạn nhanh chóng. Tolkien nêu rõ rằng ông sẽ đi vắng từ ngày 7 tháng 8 đến ngày 14 tháng 8, dành thời gian đó ở <a class="extiw" href="http://en.wikipedia.org/wiki/Assisi" title="wikipedia:Assisi">Assisi</a>.
 
 Ông trấn an Unwin rằng ông hy vọng sẽ trở về nhà trước ngày 16 tháng 8 và không lường trước được bất kỳ vấn đề khẩn cấp nào phát sinh trong thời gian ông vắng mặt cần phải liên lạc ngay lập tức. <br>
 

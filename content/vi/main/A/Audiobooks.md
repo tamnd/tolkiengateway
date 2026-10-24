@@ -30,7 +30,7 @@ images:
 
 <h2><span id="The_Homecoming_of_Beorhtnoth_Beorhrthelm.27s_Son.29"></span><span class="mw-headline" id="The_Homecoming_of_Beorhtnoth_Beorhrthelm&#39;s_Son)"><i><a href="../T/The_Homecoming_of_Beorhtnoth,_Beorhthelm&#39;s_Son_(radio_play).md" title="The Homecoming of Beorhtnoth, Beorhthelm&#39;s Son (radio play)">The Homecoming of Beorhtnoth Beorhrthelm&#39;s Son)</a></i></span></h2>
 
-- [1992](../_/1992.md) - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và [Christopher Tolkien](../C/Christopher_Tolkien.md), tóm tắt. (được xuất bản bởi [HarperCollins](../H/HarperCollins.md))
+- [1992](../_/1992.md) - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và [Christopher Tolkien](../C/Christopher_Tolkien.md), rút ​​gọn. (được xuất bản bởi [HarperCollins](../H/HarperCollins.md))
 
 ## *[The Hobbit](../T/The_Hobbit.md)* {#The_Hobbit}
 
@@ -60,14 +60,14 @@ images:
 ## *[The Silmarillion](../T/The_Silmarillion.md)* {#The_Silmarillion}
 
 - [1977](../_/1977.md) - *[Of Beren and Lúthien](../O/Of_Beren_and_Lúthien.md)*, được đọc bởi [Christopher Tolkien](../C/Christopher_Tolkien.md). (được xuất bản bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=Caedmon&amp;action=edit&amp;redlink=1" title="Caedmon (page does not exist)">Caedmon</a>)
-- [1978](../_/1978.md) - *[Về bóng tối của Valinor](../O/Of_the_Darkening_of_Valinor.md) và [Chuyến bay của Noldor](../O/Of_the_Flight_of_the_Noldor.md)*, được đọc bởi [Christopher Tolkien](../C/Christopher_Tolkien.md). (được xuất bản bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=Caedmon&amp;action=edit&amp;redlink=1" title="Caedmon (page does not exist)">Caedmon</a>)
+- [1978](../_/1978.md) - *[Về bóng tối của Valinor](../O/Of_the_Darkening_of_Valinor.md) và [Về chuyến bay của Noldor](../O/Of_the_Flight_of_the_Noldor.md)*, đọc bởi [Christopher Tolkien](../C/Christopher_Tolkien.md). (được xuất bản bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=Caedmon&amp;action=edit&amp;redlink=1" title="Caedmon (page does not exist)">Caedmon</a>)
 - [2002](../_/2002.md) - [Martin Shaw](../M/Martin_Shaw.md), không tóm tắt. (được xuất bản bởi [HarperCollins](../H/HarperCollins.md))
 - [2023](../_/2023.md) - [Andy Serkis](Andy_Serkis.md), không tóm tắt. (được xuất bản bởi [HarperCollins](../H/HarperCollins.md)
 
 ## *[Unfinished Tales](../U/Unfinished_Tales.md)* {#Unfinished_Tales}
 
 - [2000](../_/2000.md) - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Erin_Jones&amp;action=edit&amp;redlink=1" title="Erin Jones (page does not exist)">Erin Jones</a>, không tóm tắt. Ghi chép của Thư viện Quốc hội.<sup id="cite_ref-Bartch_1-0" class="reference"><a href="#cite_note-Bartch-1">[1]</a></sup>
-- [2021](../_/2021.md) - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Timothy_West&amp;action=edit&amp;redlink=1" title="Timothy West (page does not exist)">Timothy West</a> và <a class="new" href="https://tolkiengateway.net/w/index.php?title=Samuel_West&amp;action=edit&amp;redlink=1" title="Samuel West (page does not exist)">Samuel West</a>, không rút gọn. (được xuất bản bởi HarperCollins)
+- [2021](../_/2021.md) - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Timothy_West&amp;action=edit&amp;redlink=1" title="Timothy West (page does not exist)">Timothy Phương Tây</a> và <a class="new" href="https://tolkiengateway.net/w/index.php?title=Samuel_West&amp;action=edit&amp;redlink=1" title="Samuel West (page does not exist)">Samuel Phương Tây</a>, không rút gọn. (được xuất bản bởi HarperCollins)
 
 ## *[The History of Middle-earth](../T/The_History_of_Middle-earth.md)* {#The_History_of_Middle-earth}
 
@@ -79,15 +79,15 @@ images:
 
 ## *[Beren and Lúthien](../B/Beren_and_Lúthien.md)* {#Beren_and_Lúthien}
 
-- [2020](../_/2020.md): <a class="new" href="https://tolkiengateway.net/w/index.php?title=Beren_and_L%C3%BAthien_(audiobook)&amp;action=edit&amp;redlink=1" title="Beren and Lúthien (audiobook) (page does not exist)"><i>Beren và Lúthien</i> (sách nói)</a>, đọc bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=Timothy_West&amp;action=edit&amp;redlink=1" title="Timothy West (page does not exist)">Timothy West</a> và <a class="new" href="https://tolkiengateway.net/w/index.php?title=Samuel_West&amp;action=edit&amp;redlink=1" title="Samuel West (page does not exist)">Samuel West</a>, không tóm tắt. (được xuất bản bởi [HarperCollins](../H/HarperCollins.md))
+- [2020](../_/2020.md): <a class="new" href="https://tolkiengateway.net/w/index.php?title=Beren_and_L%C3%BAthien_(audiobook)&amp;action=edit&amp;redlink=1" title="Beren and Lúthien (audiobook) (page does not exist)"><i>Beren and Lúthien</i> (sách nói)</a>, đọc bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=Timothy_West&amp;action=edit&amp;redlink=1" title="Timothy West (page does not exist)">Timothy Phương Tây</a> và <a class="new" href="https://tolkiengateway.net/w/index.php?title=Samuel_West&amp;action=edit&amp;redlink=1" title="Samuel West (page does not exist)">Samuel Phương Tây</a>, không tóm tắt. (được xuất bản bởi [HarperCollins](../H/HarperCollins.md))
 
 ## *[The Fall of Gondolin](../T/The_Fall_of_Gondolin.md)* {#The_Fall_of_Gondolin}
 
-- [2019](../_/2019.md): <a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Fall_of_Gondolin_(audiobook)&amp;action=edit&amp;redlink=1" title="The Fall of Gondolin (audiobook) (page does not exist)"><i>Sự sụp đổ của Gondolin</i> (sách nói)</a>, được đọc bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=Timothy_West&amp;action=edit&amp;redlink=1" title="Timothy West (page does not exist)">Timothy West</a> và <a class="new" href="https://tolkiengateway.net/w/index.php?title=Samuel_West&amp;action=edit&amp;redlink=1" title="Samuel West (page does not exist)">Samuel West</a>, không tóm tắt. (được xuất bản bởi [HarperCollins](../H/HarperCollins.md))
+- [2019](../_/2019.md): <a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Fall_of_Gondolin_(audiobook)&amp;action=edit&amp;redlink=1" title="The Fall of Gondolin (audiobook) (page does not exist)"><i>The Fall of Gondolin</i> (sách nói)</a>, đọc bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=Timothy_West&amp;action=edit&amp;redlink=1" title="Timothy West (page does not exist)">Timothy Phương Tây</a> và <a class="new" href="https://tolkiengateway.net/w/index.php?title=Samuel_West&amp;action=edit&amp;redlink=1" title="Samuel West (page does not exist)">Samuel Phương Tây</a>, không tóm tắt. (được xuất bản bởi [HarperCollins](../H/HarperCollins.md))
 
 ## *[The Fall of Númenor](../T/The_Fall_of_Númenor.md)* {#The_Fall_of_Númenor}
 
-- [2022](../_/2022.md): <a class="new" href="https://tolkiengateway.net/w/index.php?title=Samuel_West&amp;action=edit&amp;redlink=1" title="Samuel West (page does not exist)">Samuel West</a> và [Brian Sibley](../B/Brian_Sibley.md), không tóm tắt. (được xuất bản bởi [HarperCollins](../H/HarperCollins.md))
+- [2022](../_/2022.md): <a class="new" href="https://tolkiengateway.net/w/index.php?title=Samuel_West&amp;action=edit&amp;redlink=1" title="Samuel West (page does not exist)">Samuel Phương Tây</a> và [Brian Sibley](../B/Brian_Sibley.md), không tóm tắt. (được xuất bản bởi [HarperCollins](../H/HarperCollins.md))
 
 ## *[The Legend of Sigurd and Gudrún](../T/The_Legend_of_Sigurd_and_Gudrún.md)* {#The_Legend_of_Sigurd_and_Gudrún}
 
@@ -95,7 +95,7 @@ images:
 
 ## *[The Letters of J.R.R. Tolkien](../T/The_Letters_of_J.R.R._Tolkien.md)* {#The_Letters_of_J.R.R._Tolkien}
 
-- [2024](../_/2024.md): <a class="new" href="https://tolkiengateway.net/w/index.php?title=Samuel_West&amp;action=edit&amp;redlink=1" title="Samuel West (page does not exist)">Samuel West</a>, <a class="new" href="https://tolkiengateway.net/w/index.php?title=Mike_Grady&amp;action=edit&amp;redlink=1" title="Mike Grady (page does not exist)">Mike Grady</a> và [Chris Smith](../C/Chris_Smith.md), không tóm tắt. (được xuất bản bởi [HarperCollins](../H/HarperCollins.md))
+- [2024](../_/2024.md): <a class="new" href="https://tolkiengateway.net/w/index.php?title=Samuel_West&amp;action=edit&amp;redlink=1" title="Samuel West (page does not exist)">Samuel Phương Tây</a>, <a class="new" href="https://tolkiengateway.net/w/index.php?title=Mike_Grady&amp;action=edit&amp;redlink=1" title="Mike Grady (page does not exist)">Mike Austin Grady</a> và [Chris Smith](../C/Chris_Smith.md), không tóm tắt. (được xuất bản bởi [HarperCollins](../H/HarperCollins.md))
 
 ## *[The Adventures of Tom Bombadil](../T/The_Adventures_of_Tom_Bombadil.md)* {#The_Adventures_of_Tom_Bombadil}
 
@@ -132,7 +132,7 @@ images:
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://www.tolkienlibrary.com/press/tolkienaudiobooks.htm" rel="noreferrer noopener" target="_blank">Sách nói Tolkien</a> tại TolkienLibrary.com
+- <a class="external text" href="http://www.tolkienlibrary.com/press/tolkienaudiobooks.htm" rel="noreferrer noopener" target="_blank">Tolkien Sách nói</a> tại TolkienLibrary.com
 
 <span></span>
 

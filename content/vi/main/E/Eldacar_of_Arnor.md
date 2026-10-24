@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Eldacar (King of Arnor)"
 ---
 
-Chuyển hướng đến [Eldacar (Vua xứ Arnor)](<Eldacar_(King_of_Arnor).md>).
+Chuyển hướng đến [Eldacar (Vua của Arnor)](<Eldacar_(King_of_Arnor).md>).

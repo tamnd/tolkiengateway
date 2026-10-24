@@ -35,7 +35,7 @@ infobox:
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
-<i><b>Nơi hy vọng và ánh sáng ban ngày chết</b></i> là ca khúc thứ năm trong album [Stronghold](../S/Stronghold.md) của ban nhạc [Summoning](../S/Summoning.md). Lời bài hát bị ảnh hưởng bởi phiên bản trước của bài thơ [Tolkien](../J/J.R.R._Tolkien.md) [Ở vùng đất phương Tây bên dưới mặt trời](../I/In_Western_Lands_beneath_the_Sun.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>Nơi hy vọng và ánh sáng ban ngày chết</b></i> là ca khúc thứ năm trong album [Stronghold](../S/Stronghold.md) của ban nhạc [Summoning](../S/Summoning.md). Lời bài hát bị ảnh hưởng bởi phiên bản trước đó của bài thơ [Tolkien](../J/J.R.R._Tolkien.md) [Ở Miền Tây bên dưới Mặt Trời](../I/In_Western_Lands_beneath_the_Sun.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Lời bài hát {#Lyrics}
 

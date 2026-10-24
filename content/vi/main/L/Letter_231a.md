@@ -25,15 +25,15 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><i><a href="../T/The_Letters_of_J.R.R._Tolkien.md" title="The Letters of J.R.R. Tolkien">The Letters of J.R.R. Tolkien</a></i></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Letter 231a</span></th></tr><tr><th scope="row" class="tg-infobox-label">Recipient</th><td class="tg-infobox-data"><a class="new" href="https://tolkiengateway.net/w/index.php?title=Joan_Anne_Tolkien&amp;action=edit&amp;redlink=1" title="Joan Anne Tolkien (page does not exist)">Joan Anne Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Date</th><td class="tg-infobox-data">Not dated; November <a href="../_/1961.md" title="1961">1961</a></td></tr><tr><th scope="row" class="tg-infobox-label">Subject(s)</th><td class="tg-infobox-data">The expansion and population boom of Oxford</td></tr></tbody></table>
 
-**Thư 231a** là lá thư được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và đăng trên *[The Letters of J.R.R. Tolkien: Revised and Expanded edition](../T/The_Letters_of_J.R.R._Tolkien.md#Revised_and_Expanded_edition)*.
+**Thư 231a** là bức thư được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và đăng trên *[The Letters of J.R.R. Tolkien: Revised and Expanded edition](../T/The_Letters_of_J.R.R._Tolkien.md#Revised_and_Expanded_edition)*.
 
 <br>
 
 ## Tóm tắt {#Summary}
 
-Tolkien phản ánh những thay đổi đáng kể ở Oxford trong những năm qua. Anh hồi tưởng về Oxford là một thị trấn đại học nhỏ, cổ kính được bao quanh bởi vùng nông thôn, với dân số khoảng 55.000 người. Giờ đây, dân số của nó đã tăng gần gấp ba, mở rộng về mọi hướng và trở nên đầy tiếng ồn, ô nhiễm và những tòa nhà mới kém hấp dẫn.
+Tolkien phản ánh những thay đổi đáng kể của Oxford qua các năm. Anh hồi tưởng về Oxford là một thị trấn đại học nhỏ, cổ kính được bao quanh bởi vùng nông thôn, với dân số khoảng 55.000 người. Giờ đây, dân số của nó đã tăng gần gấp ba, mở rộng về mọi hướng và trở nên đầy tiếng ồn, ô nhiễm và những tòa nhà mới kém hấp dẫn.
 
-Bất chấp những thay đổi tiêu cực này, Tolkien thừa nhận một số phát triển tích cực, đặc biệt là việc giảm bớt các khu ổ chuột nơi người nghèo từng sống trong cảnh khốn cùng.
+Bất chấp những thay đổi tiêu cực này, Tolkien ghi nhận một số phát triển tích cực, đặc biệt là việc giảm bớt các khu ổ chuột nơi người nghèo từng sống trong cảnh khốn cùng.
 
 ## Xem thêm {#See_also}
 

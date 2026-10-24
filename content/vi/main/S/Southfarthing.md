@@ -38,7 +38,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/K/Kay_Woollard_-_Valerie_Sutton&#39;s_It_Always_Rains_on_Washing_Day.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b2/Kay_Woollard_-_Valerie_Sutton%27s_It_Always_Rains_on_Washing_Day.jpg/320px-Kay_Woollard_-_Valerie_Sutton%27s_It_Always_Rains_on_Washing_Day.jpg" decoding="async" loading="lazy" width="320" height="214" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b2/Kay_Woollard_-_Valerie_Sutton%27s_It_Always_Rains_on_Washing_Day.jpg/480px-Kay_Woollard_-_Valerie_Sutton%27s_It_Always_Rains_on_Washing_Day.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/b/b2/Kay_Woollard_-_Valerie_Sutton%27s_It_Always_Rains_on_Washing_Day.jpg/640px-Kay_Woollard_-_Valerie_Sutton%27s_It_Always_Rains_on_Washing_Day.jpg 2x" data-file-width="1142" data-file-height="762"/></a><figcaption>&#34;It always rains on washing day - Smials in South Farthing&#34; by <a href="../K/Kay_Woollard.md" title="Kay Woollard">Kay Woollard</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Region</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Southfarthing</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>General Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../T/The_Shire.md" title="The Shire">The Shire</a></td></tr><tr><th scope="row" class="tg-infobox-label">Type</th><td class="tg-infobox-data">Region</td></tr><tr><th scope="row" class="tg-infobox-label">Regions</th><td class="tg-infobox-data"><a href="../G/Green_Hill_Country.md" title="Green Hill Country">Green Hill Country</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>People and History</span></th></tr><tr><th scope="row" class="tg-infobox-label">Inhabitants</th><td class="tg-infobox-data"><a href="../H/Hobbits.md" title="Hobbits">Hobbits</a></td></tr></tbody></table>
 
-**Southfarthing** là [farthing](../F/Farthings.md) cực nam và ấm nhất của [Shire](../T/The_Shire.md).
+**Southfarthing** là [farthing](../F/Farthings.md) cực nam và ấm nhất của [ Shire](../T/The_Shire.md).
 
 ## Địa lý {#Geography}
 
@@ -48,26 +48,26 @@ Các tính năng khác bao gồm:
 
 - Những ngọn đồi: Một phần của [Quốc gia Green Hill](../G/Green_Hill_Country.md)
 - Đầm lầy: [Đầm lầy ở phía nam](../M/Marshes_in_the_south.md)
-- Đường: Một con đường không tên băng qua Southfarthing tới [Sarn Ford](Sarn_Ford.md).
+- Đường: Một con đường không tên băng qua Southfarthing đến [Sarn Ford](Sarn_Ford.md).
 - Thị trấn: Longbottom, [Pincup](../P/Pincup.md).
 
 ## Lịch sử {#History}
 
-Khoảng [T.A.](../T/Third_Age.md) [1630](../T/Third_Age_1630.md) nhiều [Stoor](Stoors.md) từ [Dunland](../D/Dunland.md) đã đến và định cư ở Southfarthing,<sup id="cite_ref-third_2-0" class="reference"><a href="#cite_note-third-2">[2]</a></sup> và sau đó các đặc điểm và ngoại hình [Stoorish](Stoors.md) là phổ biến đối với người Hobbit ở khu vực đó.
+Khoảng [T.A.](../T/Third_Age.md) [1630](../T/Third_Age_1630.md) nhiều [Stoors](Stoors.md) từ [Dunland](../D/Dunland.md) đã đến và định cư ở Southfarthing,<sup id="cite_ref-third_2-0" class="reference"><a href="#cite_note-third-2">[2]</a></sup> và sau đó [Stoorish](Stoors.md) đặc điểm và ngoại hình là phổ biến giữa những Hobbit ở khu vực đó.
 
 [Tobold Hornbutter](../T/Tobold_Hornblower.md) của Longbottom lần đầu tiên trồng cỏ tẩu ở Southfarthing vào khoảng năm [T.A.](../T/Third_Age.md) [2670](../T/Third_Age_2670.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-[Saruman](Saruman.md), sau khi nhận được báo cáo về hoạt động của [Gandalf](../G/Gandalf.md) và nhận thấy sự quan tâm của ông ta đối với Quận, bắt đầu giữ [đặc vụ](../R/Ruffians.md) ở Southfarthing ở [T.A.](../T/Third_Age.md) [2953](../T/Third_Age_2953.md).<sup id="cite_ref-third_2-1" class="reference"><a href="#cite_note-third-2">[2]</a></sup> Đến [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md) đã có tin đồn về rắc rối với "[Những Người Lớn](../B/Big_People.md)".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+[Saruman](Saruman.md), sau khi nhận được báo cáo về hoạt động của [Gandalf](../G/Gandalf.md) và nhận thấy sự quan tâm của ông ta đối với Shire, bắt đầu giữ [đặc vụ](../R/Ruffians.md) ở Southfarthing ở [T.A.](../T/Third_Age.md) [2953](../T/Third_Age_2953.md).<sup id="cite_ref-third_2-1" class="reference"><a href="#cite_note-third-2">[2]</a></sup> Đến [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md) đã có tin đồn về rắc rối với "[Những Người Lớn](../B/Big_People.md)".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
-Southfarthing là nơi [Lotho Sackville-Baggins](../L/Lotho_Sackville-Baggins.md) bắt đầu lên nắm quyền trong [War of the Ring](../W/War_of_the_Ring.md), dựa trên tài sản đáng kể trong vùng mà ông được thừa kế từ cha mình.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Có lẽ chính ông là người bắt đầu xuất khẩu cần sa cho Saruman.
+Southfarthing là nơi [Lotho Sackville-Baggins](../L/Lotho_Sackville-Baggins.md) bắt đầu lên nắm quyền trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), dựa trên tài sản đáng kể trong vùng mà ông được thừa kế từ cha mình.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Có lẽ chính ông là người bắt đầu xuất khẩu cần sa sang Saruman.
 
 ## Văn hóa {#Culture}
 
-Đây là khu vực tập trung phần lớn hoạt động sản xuất [cỏ tẩu](../P/Pipe-weed.md) của Quận, ở những nơi có mái che ấm áp như [Longbottom](../L/Longbottom.md).<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Một sản phẩm đáng chú ý khác của Southfarthing là loại rượu vang đỏ đậm có tên là [Old Winyards](../O/Old_Winyards.md).<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+Đây là khu vực tập trung hầu hết hoạt động sản xuất [cỏ ống](../P/Pipe-weed.md) của Shire, ở những nơi có mái che ấm áp như [Longbottom](../L/Longbottom.md).<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Một sản phẩm đáng chú ý khác của Southfarthing là loại rượu vang đỏ mạnh có tên [Old Winyards](../O/Old_Winyards.md).<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-Trong *[The Atlas of Middle-earth](../T/The_Atlas_of_Middle-earth.md)* (trang 71), [Hardbottle](../H/Hardbottle.md) được chiếu ở Southfarthing thay vì [Northfarthing](../N/Northfarthing.md)<sup id="cite_ref-Nomen_8-0" class="reference"><a href="#cite_note-Nomen-8">[8]</a></sup> và Sackville, được chiếu ở Southfarthing, hoàn toàn được phát minh ra (so sánh [Gia đình Sackville](Sackville_Family.md)).
+Trong *[The Atlas of Middle-earth](../T/The_Atlas_of_Middle-earth.md)* (trang 71), [Hardbottle](../H/Hardbottle.md) được chiếu ở Southfarthing chứ không phải ở [Northfarthing](../N/Northfarthing.md)<sup id="cite_ref-Nomen_8-0" class="reference"><a href="#cite_note-Nomen-8">[8]</a></sup> và Sackville, được chiếu ở Southfarthing, hoàn toàn được phát minh ra (so sánh [Gia đình Sackville](Sackville_Family.md)).
 
 <span></span>
 

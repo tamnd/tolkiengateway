@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Varda"
 ---
 
-Chuyển hướng tới [Varda](../V/Varda.md).
+Chuyển hướng đến [Varda](../V/Varda.md).

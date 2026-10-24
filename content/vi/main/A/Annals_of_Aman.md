@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Annals of Aman"
 ---
 
-Chuyển hướng đến [Biên niên sử của Aman](../T/The_Annals_of_Aman.md).
+Chuyển hướng đến [The Annals of Aman](../T/The_Annals_of_Aman.md).

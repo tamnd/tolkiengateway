@@ -30,27 +30,27 @@ images:
 <p class="tg-quote-footer"><cite><i><a href="../T/The_Hobbit.md" title="The Hobbit">The Hobbit</a></i>, &#34;<a href="../F/Flies_and_Spiders.md" title="Flies and Spiders">Flies and Spiders</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Bướm đêm** là loài côn trùng sống về đêm thuộc loại có liên quan chặt chẽ với [bướm](../B/Butterflies.md). [Thorin và đồng đội](../T/Thorin_and_Company.md) nhìn thấy chúng bay lượn khi màn đêm buông xuống khi họ đang cố gắng tìm đường đến [Rivendell](../R/Rivendell.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Thật kỳ lạ, chúng cũng được đề cập là cư trú tại [Mirkwood](Mirkwood.md), nơi những con bướm này có màu đen hoặc xám đen và lớn đến kích thước khổng lồ.<sup id="cite_ref-H8_2-0" class="reference"><a href="#cite_note-H8-2">[2]</a></sup>
+**Bướm đêm** là loài côn trùng sống về đêm thuộc loại có liên quan chặt chẽ với [bướm](../B/Butterflies.md). [Thorin và Đoàn tùy tùng](../T/Thorin_and_Company.md) nhìn thấy chúng bay lượn khi màn đêm buông xuống khi đang cố gắng tìm đường đến [Rivendell](../R/Rivendell.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Thật kỳ lạ, chúng cũng được đề cập là cư trú tại [Mirkwood](Mirkwood.md), nơi những con bướm đêm có màu đen hoặc xám đen và phát triển với kích thước khổng lồ.<sup id="cite_ref-H8_2-0" class="reference"><a href="#cite_note-H8-2">[2]</a></sup>
 
 ## Tên khác {#Other_names}
 
-Trong quan niệm ban đầu của [Tolkien](../J/J.R.R._Tolkien.md) về các ngôn ngữ [Elvish](../E/Elvish.md), các từ chỉ "bướm đêm" là <i><b>malo</b></i> (pl. *malwi*) trong [Qenya](../Q/Qenya.md),<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> và <i><b>fufril</b></i> trong [Gnomish](../G/Gnomish.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Trong quan niệm ban đầu của [Tolkien](../J/J.R.R._Tolkien.md) về các ngôn ngữ [Elvish](../E/Elvish.md), các từ dành cho "bướm đêm" là <i><b>malo</b></i> (pl. *malwi*) trong [Qenya](../Q/Qenya.md),<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> và <i><b>fufril</b></i> trong [Gnomish](../G/Gnomish.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong *[The Tale of Tinúviel](../T/The_Tale_of_Tinúviel.md)*, bướm trắng bay lượn trên đầu [Tinúviel](../L/Lúthien.md#Other_versions_of_the_legendarium) đang nhảy múa khi màn đêm buông xuống. Người ta kể rằng Tinúviel "*là một [tiên](../F/Fairies.md) khiến họ không quan tâm đến họ như nhiều đứa trẻ của [Đàn ông](Men.md) nghĩ, mặc dù bà không thích bọ cánh cứng, và [nhện](../S/Spiders.md) sẽ không [Eldar](../E/Eldar.md) chạm vào vì [Ungweliantë](../U/Ungoliant.md)*".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Trong *[The Tale of Tinúviel](../T/The_Tale_of_Tinúviel.md)*, bướm trắng bay lượn trên đầu [Tinúviel](../L/Lúthien.md#Other_versions_of_the_legendarium) đang nhảy múa khi màn đêm buông xuống. Người ta kể rằng Tinúviel "*là một [tiên](../F/Fairies.md) khiến họ không quan tâm đến chúng như nhiều đứa trẻ của [Con Người](Men.md) nghĩ, mặc dù bà không thích bọ cánh cứng, và [nhện](../S/Spiders.md) sẽ không chạm vào [Eldar](../E/Eldar.md) vì [Ungweliantë](../U/Ungoliant.md)*".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2001: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">Chúa tể của những chiếc nhẫn: Hiệp hội những chiếc nhẫn</a></i>:</b>
+<b>2001: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i>:</b>
 
 <dl><dd>In <a href="../P/Peter_Jackson.md" title="Peter Jackson">Peter Jackson</a>&#39;s movies, moths are somehow associated with the <a class="mw-redirect" href="../E/Eagles.md" title="Eagles">Eagles</a>; while <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> is trapped on the summit of <a href="../O/Orthanc.md" title="Orthanc">Orthanc</a>, he catches a moth and whispers to it. Later, when confronted by <a href="../S/Saruman.md" title="Saruman">Saruman</a>, the moth reappears; an Eagle (supposedly <a href="../G/Gwaihir.md" title="Gwaihir">Gwaihir</a>) arrives and Gandalf escapes on its back.</dd></dl>
 
-<b>2003: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">Chúa tể của những chiếc nhẫn: Sự trở lại của nhà vua</a></i>:</b>
+<b>2003: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">The Lord of the Rings: The Return of the King</a></i>:</b>
 
 <dl><dd>Right before the <a href="../B/Battle_of_the_Morannon.md" title="Battle of the Morannon">Battle of the Morannon</a>, Gandalf notices a moth flies near him. Then the Eagles appear and help the <a class="mw-redirect" href="../F/Free_Peoples.md" title="Free Peoples">Free Peoples</a>.</dd></dl>
 
-<b>2012: <i><a href="../T/The_Hobbit%253A_An_Unexpected_Journey.md" title="The Hobbit: An Unexpected Journey">Người Hobbit: Hành trình bất ngờ</a></i>:</b>
+<b>2012: <i><a href="../T/The_Hobbit%253A_An_Unexpected_Journey.md" title="The Hobbit: An Unexpected Journey">The Hobbit: An Unexpected Journey</a></i>:</b>
 
 <dl><dd>As <a href="../T/Thorin_and_Company.md" title="Thorin and Company">Thorin and Company</a> are trapped in a falling tree by the band of <a href="../A/Azog.md" title="Azog">Azog</a> and their <a href="../W/Wargs.md" title="Wargs">Wargs</a>, Gandalf uses a moth to summon the Eagles to their aid.</dd></dl>
 

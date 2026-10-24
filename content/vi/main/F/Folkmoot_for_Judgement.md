@@ -13,15 +13,15 @@ categories:
   - "First Age"
 ---
 
-**Cuộc tranh luận dân gian về phán xét**, còn được gọi là **Cuộc tranh luận của anh em**, là một thông lệ trong [Haladin](../H/House_of_Haleth.md) nơi các vấn đề có tầm quan trọng cao sẽ được đánh giá tại <a class="new" href="https://tolkiengateway.net/w/index.php?title=Moot-ring&amp;action=edit&amp;redlink=1" title="Moot-ring (page does not exist)">Moot-ring</a> trong một cuộc họp có ít nhất năm trăm người đứng đầu tham dự.<sup id="cite_ref-Moot_1-0" class="reference"><a href="#cite_note-Moot-1">[1]</a></sup>
+**Cuộc tranh luận dân gian về phán quyết**, còn được gọi là **Cuộc tranh luận Brethil**, là một thông lệ trong [Haladin](../H/House_of_Haleth.md) nơi các vấn đề có tầm quan trọng cao sẽ được đánh giá tại <a class="new" href="https://tolkiengateway.net/w/index.php?title=Moot-ring&amp;action=edit&amp;redlink=1" title="Moot-ring (page does not exist)">Moot-ring</a> trong một cuộc họp có ít nhất năm trăm người đứng đầu tham dự.<sup id="cite_ref-Moot_1-0" class="reference"><a href="#cite_note-Moot-1">[1]</a></sup>
 
 ## Mô tả {#Description}
 
 ## Lịch sử {#History}
 
-Trong Cuộc họp lần thứ ba trăm linh đầu tiên của Brethil, [Húrin](../H/Húrin.md) đã bị xét xử bởi một tập hợp gần một nghìn Haladin với tội danh làm bị thương [Hardang](../H/Hardang.md) và cáo buộc sai lầm là được [Angband](../A/Angband.md) cử đi làm hại [Người](../M/Men.md) của [Forest of Brethil](Forest_of_Brethil.md). [Manthor](../M/Manthor.md), đóng vai trò là "bạn" của Húrin trong cuộc tranh luận.<sup id="cite_ref-Moot_1-1" class="reference"><a href="#cite_note-Moot-1">[1]</a></sup>
+Chính trong Cuộc họp lần thứ ba trăm lẻ đầu tiên của Brethil, [Húrin](../H/Húrin.md) đã bị xét xử bởi một cuộc tụ tập gần một nghìn Haladin với tội danh làm bị thương [Hardang](../H/Hardang.md) và cáo buộc sai trái là được [Angband](../A/Angband.md) phái đến để làm hại [Con Người](../M/Men.md) của [Khu rừng Brethil](Forest_of_Brethil.md). [Manthor](../M/Manthor.md), đóng vai trò là "bạn" của Húrin trong cuộc tranh luận.<sup id="cite_ref-Moot_1-1" class="reference"><a href="#cite_note-Moot-1">[1]</a></sup>
 
-Gần cuối, Húrin cáo buộc [Haladin](../H/Haladin.md) ngược đãi [Túrin](../T/Túrin.md) và [Niënor](../N/Niënor.md); đồng thời cáo buộc Hardang gây ra cái chết cho [Morwen](../M/Morwen.md). Trước khi Hardang có thể trình bày quan điểm của mình về vấn đề, một cuộc nổi dậy đã nổ ra trong Moot-ring, trước khi chuyển đến [thị trấn](../O/Obel_Halad.md) rộng lớn hơn. Trong trận chiến sau đó, <a class="new" href="https://tolkiengateway.net/w/index.php?title=Hall_of_the_Chieftains&amp;action=edit&amp;redlink=1" title="Hall of the Chieftains (page does not exist)">Sảnh của các Thủ lĩnh</a> bị thiêu rụi, Hardang bị giết, Manthor bị bắn, và Avranc giành được quyền lực đối với tàn dư của Haladin.<sup id="cite_ref-Moot_1-2" class="reference"><a href="#cite_note-Moot-1">[1]</a></sup>
+Gần cuối, Húrin tố cáo [Haladin](../H/Haladin.md) ngược đãi [Túrin](../T/Túrin.md) và [Niënor](../N/Niënor.md); đồng thời cáo buộc Hardang gây ra cái chết của [Morwen](../M/Morwen.md). Trước khi Hardang có thể trình bày quan điểm của mình về vấn đề, một cuộc nổi dậy đã nổ ra trong Moot-ring, trước khi chuyển đến [thị trấn](../O/Obel_Halad.md) rộng lớn hơn. Trong trận chiến sau đó, <a class="new" href="https://tolkiengateway.net/w/index.php?title=Hall_of_the_Chieftains&amp;action=edit&amp;redlink=1" title="Hall of the Chieftains (page does not exist)">Sảnh của các Thủ lĩnh</a> bị thiêu rụi, Hardang bị giết, Manthor bị bắn, và Avranc giành được quyền lực đối với tàn dư của Haladin.<sup id="cite_ref-Moot_1-2" class="reference"><a href="#cite_note-Moot-1">[1]</a></sup>
 
 <span></span>
 

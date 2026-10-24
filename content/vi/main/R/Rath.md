@@ -14,15 +14,15 @@ categories:
   - "Sindarin nouns"
 ---
 
-## Tiếng Sindarin {#Sindarin}
+## Sindarin {#Sindarin}
 
-<i><b>rath</b></i> là từ [tiếng Sindarin](../S/Sindarin.md) có nghĩa là "đường phố (trong thành phố)".<sup id="cite_ref-UI_1-0" class="reference"><a href="#cite_note-UI-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-UT_3-0" class="reference"><a href="#cite_note-UT-3">[3]</a></sup>
+<i><b>rath</b></i> là một từ [Sindarin](../S/Sindarin.md) có nghĩa là "đường phố (trong thành phố)".<sup id="cite_ref-UI_1-0" class="reference"><a href="#cite_note-UI-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-UT_3-0" class="reference"><a href="#cite_note-UT-3">[3]</a></sup>
 
-Apparently *rath* can also mean "climb" (noun), as seen in *[Andrath](../A/Andrath.md)* ("Long Climb").<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> This definition also appears in [David Salo](../D/David_Salo.md)'s [Neo-Sindarin](../N/Neo-Elvish.md) wordlist.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Rõ ràng *rath* cũng có thể có nghĩa là "leo lên" (danh từ), như đã thấy trong *[Andrath](../A/Andrath.md)* ("Long Climb").<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Định nghĩa này cũng xuất hiện trong danh sách từ [Neo-Sindarin](../N/Neo-Elvish.md) của [David Salo](../D/David_Salo.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ### Từ nguyên {#Etymology}
 
-[Christopher Tolkien](../C/Christopher_Tolkien.md) đã lưu ý rằng danh từ *rath* bắt nguồn từ [thân](../S/Sundocarme.md) *rath-* ("leo lên").<sup id="cite_ref-UT_3-1" class="reference"><a href="#cite_note-UT-3">[3]</a></sup>
+[Christopher Tolkien](../C/Christopher_Tolkien.md) đã lưu ý rằng danh từ *rath* có nguồn gốc từ [thân](../S/Sundocarme.md) *rath-* ("leo").<sup id="cite_ref-UT_3-1" class="reference"><a href="#cite_note-UT-3">[3]</a></sup>
 
 ### Ví dụ {#Examples}
 
@@ -32,7 +32,7 @@ Apparently *rath* can also mean "climb" (noun), as seen in *[Andrath](../A/Andra
 
 ## Noldorin {#Noldorin}
 
-<i><b>rath</b></i> là từ [Noldorin](../N/Noldorin.md) có nghĩa là "dòng sông, lòng sông".<sup id="cite_ref-LR_6-0" class="reference"><a href="#cite_note-LR-6">[6]</a></sup>
+<i><b>rath</b></i> là từ [Noldorin](../N/Noldorin.md) có nghĩa là "dòng, lòng sông".<sup id="cite_ref-LR_6-0" class="reference"><a href="#cite_note-LR-6">[6]</a></sup>
 
 ### Từ nguyên {#Etymology_2}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Livery of the heirs of Elendil"
 ---
 
-Chuyển hướng tới [Trang phục của những người thừa kế Elendil](Livery_of_the_heirs_of_Elendil.md).
+Chuyển hướng tới [Bộ đồ của những người thừa kế Elendil](Livery_of_the_heirs_of_Elendil.md).

@@ -51,7 +51,7 @@ Cây cầu rất vĩ đại và được làm bằng đá,<sup id="cite_ref-1" c
 
 ## Lịch sử {#History}
 
-**Cầu Esgalduin** đã được xây dựng từ rất lâu trước khi [Morgoth](../M/Morgoth.md) đến [Beleriand](../B/Beleriand.md), có lẽ bởi [Người lùn](../D/Dwarves.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+**Cầu Esgalduin** đã được xây dựng từ rất lâu trước khi [Morgoth](../M/Morgoth.md) đến [Beleriand](../B/Beleriand.md), có lẽ bởi [Người Lùn](../D/Dwarves.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 Sau khi nỗi kinh hoàng tràn vào [Ered Gorgoroth](../E/Ered_Gorgoroth.md) và vùng đất phía nam trở nên hoang vắng, con đường và cây cầu rơi vào tình trạng mục nát, và nó được gọi là Iant Iaur, Cây cầu Cũ.<sup id="cite_ref-Beleriand_4-0" class="reference"><a href="#cite_note-Beleriand-4">[4]</a></sup>
 

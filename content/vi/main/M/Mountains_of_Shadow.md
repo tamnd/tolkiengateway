@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mountains of Shadow (disambiguation)"
 ---
 
-Chuyển hướng đến [Mountains of Shadow (định hướng)](<Mountains_of_Shadow_(disambiguation).md>).
+Chuyển hướng đến [Dãy Núi Bóng Tối (định hướng)](<Mountains_of_Shadow_(disambiguation).md>).

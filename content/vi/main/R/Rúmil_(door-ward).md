@@ -11,4 +11,4 @@ redirect_target: "Rúmil (elf of Tirion)"
 redirect_fragment: "Other versions of the legendarium"
 ---
 
-Chuyển hướng đến [Rúmil (yêu tinh của Tirion)](<Rúmil_(elf_of_Tirion).md#Other_versions_of_the_legendarium>).
+Chuyển hướng đến [Rúmil (Tiên của Tirion)](<Rúmil_(elf_of_Tirion).md#Other_versions_of_the_legendarium>).

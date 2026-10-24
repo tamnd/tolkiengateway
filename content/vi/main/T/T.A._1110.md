@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Third Age 1110"
 ---
 
-Chuyển hướng tới [Thời đại thứ ba 1110](Third_Age_1110.md).
+Chuyển hướng đến [Kỷ Đệ Tam 1110](Third_Age_1110.md).

@@ -20,11 +20,11 @@ images:
 
 <i><b>Hội chợ</b></i> có thể tham khảo:
 
-- [Celegorm the Fair](../C/Celegorm.md) ([Y.T.](../Y/Years_of_the_Trees.md) - [F.A.](../F/First_Age.md) [506](../F/First_Age_506.md)), hoàng tử [Noldorin](../N/Noldor.md) và con trai thứ ba của [Fëanor](../F/Fëanor.md);
-- [Dior the Fair](../D/Dior.md) ([F.A.](../F/First_Age.md) [470](../F/First_Age_470.md) - [506](../F/First_Age_506.md)), [nửa yêu tinh](../H/Half-elven.md) con trai của [Beren](../B/Beren.md) và [Lúthien](../L/Lúthien.md);
+- [Celegorm Hội chợ](../C/Celegorm.md) ([Y.T.](../Y/Years_of_the_Trees.md) - [F.A.](../F/First_Age.md) [506](../F/First_Age_506.md)), [Noldorin](../N/Noldor.md) hoàng tử và con trai thứ ba của [Fëanor](../F/Fëanor.md);
+- [Dior Hội chợ](../D/Dior.md) ([F.A.](../F/First_Age.md) [470](../F/First_Age_470.md) - [506](../F/First_Age_506.md)), [nửa yêu tinh](../H/Half-elven.md) con trai của [Beren](../B/Beren.md) và [Lúthien](../L/Lúthien.md);
 - [Elanor the Fair](../E/Elanor_Gardner.md) (b. [T.A.](Third_Age.md) [3021](Third_Age_3021.md)), con cả của [Samwise Gamgee](../S/Samwise_Gamgee.md) và [Rose Cotton](../R/Rose_Cotton.md);
-- [Elfwine the Fair](../E/Elfwine.md) ([Tuổi thứ tư](../F/Fourth_Age.md)), [Vua](../K/Kings_of_Rohan.md) thứ mười chín của [Rohan](../R/Rohan.md);
-- [Hirluin the Fair](../H/Hirluin.md) (mất. [T.A.](Third_Age.md) [3019](Third_Age_3019.md)), đội trưởng của [Pinnath Gelin](../P/Pinnath_Gelin.md) trong [Trận chiến trên cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md).
+- [Elfwine the Fair](../E/Elfwine.md) ([Kỷ Đệ Tứ](../F/Fourth_Age.md)), [Vua](../K/Kings_of_Rohan.md) thứ mười chín của [Rohan](../R/Rohan.md);
+- [Hirluin the Fair](../H/Hirluin.md) (mất [T.A.](Third_Age.md) [3019](Third_Age_3019.md)), đội trưởng của [Pinnath Gelin](../P/Pinnath_Gelin.md) trong [Trận chiến trên Cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md).
 
 <hr style="margin-top:15px;"/>
 

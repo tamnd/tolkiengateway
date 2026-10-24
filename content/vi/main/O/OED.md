@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Oxford English Dictionary"
 ---
 
-Chuyển hướng đến [Từ điển tiếng Anh Oxford](Oxford_English_Dictionary.md).
+Chuyển hướng tới [Oxford Từ điển tiếng Anh](Oxford_English_Dictionary.md).

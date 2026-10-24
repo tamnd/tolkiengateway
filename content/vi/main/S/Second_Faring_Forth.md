@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Faring Forth"
 ---
 
-Chuyển hướng tới [Tiến về phía trước](../F/Faring_Forth.md).
+Chuyển hướng đến [Faring Forth](../F/Faring_Forth.md).

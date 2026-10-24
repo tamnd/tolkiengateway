@@ -14,7 +14,7 @@ categories:
   - "Quenya nouns"
 ---
 
-**oiale** là một [Quenya](../Q/Quenya.md) trạng từ có nghĩa là "mãi mãi, vĩnh viễn, trong vĩnh hằng,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> vĩnh viễn".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Nó cũng có thể được dùng như một danh từ cho "mãi mãi \[?age\]"<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+**oiale** là trạng từ [Quenya](../Q/Quenya.md) có nghĩa là "mãi mãi, vĩnh viễn, trong vĩnh hằng,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> vĩnh viễn".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Nó cũng có thể được dùng như một danh từ cho "mãi mãi \[?age\]"<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

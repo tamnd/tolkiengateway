@@ -17,11 +17,11 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_-_Owlamoo.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/a/a0/J.R.R._Tolkien_-_Owlamoo.jpg/300px-J.R.R._Tolkien_-_Owlamoo.jpg" decoding="async" loading="lazy" width="300" height="232" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/a0/J.R.R._Tolkien_-_Owlamoo.jpg/450px-J.R.R._Tolkien_-_Owlamoo.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/a/a0/J.R.R._Tolkien_-_Owlamoo.jpg/600px-J.R.R._Tolkien_-_Owlamoo.jpg 2x" data-file-width="2000" data-file-height="1548"/></a><figcaption><i>Owlamoo</i> by <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></figcaption></figure>
 
-**Cú** là loài chim săn mồi sống đơn độc về đêm. Chúng hẳn là khá phổ biến ở các khu vực phía bắc của [Trung Địa](../M/Middle-earth.md) vào [Thời đại thứ ba](../T/Third_Age.md), vì khi [Người lùn](../T/Thorin_and_Company.md) cử [Bilbo Baggins](../B/Bilbo_Baggins.md) đi do thám lũ Troll, ông ta được thông báo rằng nếu không thể quay lại thì ông ta sẽ "kêu hai lần như một con cú trong chuồng và một lần như một con cú rít". Vì vậy, Người lùn cho rằng Bilbo đã quen với tiếng kêu chính xác mà hai loại cú này tạo ra.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Mãi về sau, vào đêm đầu tiên với [Beorn](../B/Beorn.md), Bilbo nghĩ rằng ông có thể nghe thấy tiếng cú kêu trên xà nhà của hội trường.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Cú** là loài chim săn mồi sống đơn độc về đêm. Chúng hẳn là khá phổ biến ở các khu vực phía bắc của [Trung Địa](../M/Middle-earth.md) trong [Kỷ Đệ Tam](../T/Third_Age.md), vì khi [Người Lùn](../T/Thorin_and_Company.md) cử [Bilbo Baggins](../B/Bilbo_Baggins.md) đi theo dõi Troll, ông ta được thông báo rằng nếu không thể quay lại, ông ta sẽ "kêu hai lần như một con cú trong chuồng và một lần như một con cú rít". Vì vậy Người Lùn cho rằng Bilbo đã quen với tiếng kêu chính xác mà hai loại cú này tạo ra.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Mãi về sau, vào đêm đầu tiên với [Beorn](../B/Beorn.md), Bilbo nghĩ rằng mình có thể nghe thấy tiếng cú kêu trên xà nhà của hội trường.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <h2><span id="Tolkien.27s_life"></span><span class="mw-headline" id="Tolkien&#39;s_life">Tolkien&#39;s life</span></h2>
 
-Trong [1928](../_/1928.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã vẽ minh họa về "Owlamoo", một con cú độc ác xuất hiện trong cơn ác mộng của con mình [Michael](../M/Michael_Tolkien.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Trong [1928](../_/1928.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã vẽ minh họa về "Owlamoo", một con cú độc ác xuất hiện trong cơn ác mộng của đứa con [Michael](../M/Michael_Tolkien.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
@@ -37,7 +37,7 @@ Trong [1928](../_/1928.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã vẽ m
 		</li>
 </ul>
 
-<b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Nhập vai ở Trung Địa</a></i>:</b>
+<b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>:</b>
 
 <dl><dd>Two types of owls are described in a supplement: the barrow owls (a small species, found in Eriador) and the short-eared owls (taught by the Elves to speak and having their own language).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></dd></dl>
 

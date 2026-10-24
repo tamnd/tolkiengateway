@@ -36,8 +36,8 @@ infobox:
 ## Nội dung {#Contents}
 
 - "Ra đi trong hòa bình" của George Heap
-- "Nghiên cứu về Hithlain của Yêu tinh rừng Lorien" của <a class="new" href="https://tolkiengateway.net/w/index.php?title=Arthur_R._Weir&amp;action=edit&amp;redlink=1" title="Arthur R. Weir (page does not exist)">Arthur R. Weir</a>
-- "A Faithful Servant Named Sam" của Richard H. Eney - so sánh Sam với Sam Weller trong The Pickwick Papers (thực ra là của Hal Lynch, bị ghi sai trong số đầu tiên)
+- "Nghiên cứu về Hithlain của Rừng-Tiên tộc của Lorien" của <a class="new" href="https://tolkiengateway.net/w/index.php?title=Arthur_R._Weir&amp;action=edit&amp;redlink=1" title="Arthur R. Weir (page does not exist)">Arthur R. Weir</a>
+- "A Faithful Servant Named Sam" của Richard H. Eney - so sánh Sam với Sam Weller từ The Pickwick Papers (thực ra là của Hal Lynch, bị ghi sai trong ấn bản gốc)
 
 <span></span>
 

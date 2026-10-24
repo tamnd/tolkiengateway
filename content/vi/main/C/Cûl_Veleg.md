@@ -27,7 +27,7 @@ langlinks:
     url: "https://kontu.wiki/C%C3%BBl_Veleg"
 ---
 
-**Cûl Veleg** là đỉnh giữa của ba đỉnh (hai đỉnh còn lại là [Dol Tarlang](../D/Dol_Tarlang.md) và [Cûl Bîn](Cûl_Bîn.md)) nằm ở đèo [Tarlang's Neck](../T/Tarlang's_Neck.md). Ba ngọn núi tạo thành một mũi nhọn ở phía nam của [Dãy núi Trắng](../W/White_Mountains.md).
+**Cûl Veleg** là đỉnh giữa của ba đỉnh (hai đỉnh còn lại là [Dol Tarlang](../D/Dol_Tarlang.md) và [Cûl Bîn](Cûl_Bîn.md)) nằm ở đèo [Tarlang's Neck](../T/Tarlang's_Neck.md). Ba ngọn núi tạo thành một mũi nhọn ở phía nam của [Dãy Núi Trắng](../W/White_Mountains.md).
 
 Theo truyền thuyết, Cûl Veleg ban đầu là một phần của khối đá được mang bởi [người khổng lồ](../G/Giants.md) [Tarlang](../T/Tarlang.md).<sup id="cite_ref-N_1-0" class="reference"><a href="#cite_note-N-1">[1]</a></sup>
 

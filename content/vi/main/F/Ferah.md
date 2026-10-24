@@ -26,7 +26,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Band</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Ferah</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Background Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Origin</th><td class="tg-infobox-data">Schwaigern, Germany</td></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data">black/thrash metal</td></tr><tr><th scope="row" class="tg-infobox-label">Years active</th><td class="tg-infobox-data">2011-present</td></tr><tr><th scope="row" class="tg-infobox-label">website</th><td class="tg-infobox-data"><a class="external text" href="http://ferah.de/" rel="noreferrer noopener" target="_blank">Official website</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Members</span></th></tr><tr><th scope="row" class="tg-infobox-label">Current Members</th><td class="tg-infobox-data">Ûrfang<br/>Morgond<br/>Pethron</td></tr></tbody></table>
 
-**Ferah** là một ban nhạc black/thrash metal đến từ Schwaigern, Đức, được thành lập vào năm 2011.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Album năm 2017 của nhóm *Yalme* bao gồm các bài hát được đặt theo tên [Erech](../E/Erech.md) và Iron Crown ("Eisenkrone").
+**Ferah** là một ban nhạc black/thrash metal đến từ Schwaigern, Đức, được thành lập vào năm 2011.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Album năm 2017 của nhóm *Yalme* bao gồm các bài hát được đặt theo tên [Erech](../E/Erech.md) và Vương miện Sắt ("Eisenkrone").
 
 ## Thành viên {#Members}
 

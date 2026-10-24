@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Gateway:Naming policy"
 ---
 
-Chuyển hướng tới [Cổng Tolkien:Chính sách đặt tên](Naming_policy.md).
+Chuyển hướng tới [Tolkien Gateway:Chính sách đặt tên](Naming_policy.md).

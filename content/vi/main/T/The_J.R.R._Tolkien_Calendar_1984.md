@@ -43,18 +43,18 @@ infobox:
 ## Minh họa {#Illustrations}
 
 - Bìa - "[Ulmo, Chúa tể vùng nước](../../file/R/Roger_Garland_-_Ulmo.jpg.md)"
-- Tháng Giêng - "[Câu chuyện về Mặt trời và Mặt trăng](../../file/R/Roger_Garland_-_The_Gate_of_Morn.jpg.md)"
-- Tháng 2 - "[Cầu Khazad-dûm](../../file/R/Roger_Garland_-_The_Bridge_of_Khazad-dum.JPG.md)"
+- Tháng 1 - "[Câu chuyện về Mặt Trời và Mặt Trăng](../../file/R/Roger_Garland_-_The_Gate_of_Morn.jpg.md)"
+- Tháng 2 - "[Ngày Cầu Khazad-dûm](../../file/R/Roger_Garland_-_The_Bridge_of_Khazad-dum.JPG.md)"
 - Tháng 3 - "[Nơi trú ẩn của những con thiên nga](../../file/R/Roger_Garland_-_The_Haven_of_the_Swans.jpg.md)"
-- Tháng 4 - "[Hai cây Valinor](../../file/R/Roger_Garland_-_Two_Trees_of_Valinor.jpg.md)"
-- Tháng 5 - "[Glaurung. Con rồng đầu tiên của Morgoth](../../file/R/Roger_Garland_-_Glaurung,_the_First_of_the_Dragons_of_Morgoth.jpg.md)"
+- Tháng 4 - "[Ngày Hai Cây của Valinor](../../file/R/Roger_Garland_-_Two_Trees_of_Valinor.jpg.md)"
+- Tháng 5 - "[Glaurung. Ngày đầu tiên của Rồng của Morgoth](../../file/R/Roger_Garland_-_Glaurung,_the_First_of_the_Dragons_of_Morgoth.jpg.md)"
 - Tháng 6 - "[Barad-dûr](../../file/R/Roger_Garland_-_Barad-dur.JPG.md)"
-- Tháng 7 - "[Ulmo, Chúa tể vùng nước](../../file/R/Roger_Garland_-_Ulmo.jpg.md)"
+- Tháng 7 - "[Ulmo, Chúa tể của Nước](../../file/R/Roger_Garland_-_Ulmo.jpg.md)"
 - Tháng 8 - "[Shelob](../../file/R/Roger_Garland_-_Shelob.JPG.md)"
-- Tháng 9 - "[Gollum](../../file/R/Roger_Garland_-_Gollum.JPG.md)"
+- tháng Chín - "[Gollum](../../file/R/Roger_Garland_-_Gollum.JPG.md)"
 - Tháng 10 - "[Chúa tể của Nazgûl](../../file/R/Roger_Garland_-_The_Lord_of_the_Nazgul.JPG.md)"
 - Tháng 11 - "[Gandalf](../../file/R/Roger_Garland_-_Gandalf.jpg.md)"
-- Tháng 12 - "[Sự xiềng xích của Melko](../../file/R/Roger_Garland_-_Melkor_chained.jpg.md)"
+- Tháng 12 - "[Xâu chuỗi Melko](../../file/R/Roger_Garland_-_Melkor_chained.jpg.md)"
 
 ## Biến thể {#Variants}
 
@@ -75,7 +75,7 @@ infobox:
 ## Liên kết ngoài {#External_links}
 
 - <a class="external text" href="http://www.tolkienbooks.net/php/caldetails.php?reference=94160" rel="noreferrer noopener" target="_blank">Lịch J.R.R. Tolkien 1984</a> tại <a class="external text" href="http://www.tolkienbooks.net" rel="noreferrer noopener" target="_blank">TolkienBooks.net</a>
-- <a class="external text" href="http://tolkiencalendars.com/1981_1984.html" rel="noreferrer noopener" target="_blank">Lịch Tolkien 1981 - 1984</a> tại <a class="external text" href="http://tolkiencalendars.com/" rel="noreferrer noopener" target="_blank">The Compleat Gyde to Tolkien Calendars</a>
+- <a class="external text" href="http://tolkiencalendars.com/1981_1984.html" rel="noreferrer noopener" target="_blank">Tolkien Lịch 1981 - 1984</a> tại <a class="external text" href="http://tolkiencalendars.com/" rel="noreferrer noopener" target="_blank">The Compleat Gyde đến Tolkien Lịch</a>
 
 <table style="margin:0 auto;" class="collapsible toccolours" width="100%" align="center">
 <tbody><tr>

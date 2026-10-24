@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Oath of Elendil"
 ---
 
-Chuyển hướng đến [Lời thề của Elendil](../O/Oath_of_Elendil.md).
+Chuyển hướng tới [Lời Thề của Elendil](../O/Oath_of_Elendil.md).

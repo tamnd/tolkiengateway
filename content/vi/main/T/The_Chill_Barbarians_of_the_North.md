@@ -16,7 +16,7 @@ sort_keys:
   "Unpublished material": "Chill Barbarians of the North"
 ---
 
-**Những kẻ man rợ miền Bắc lạnh giá** là tựa đề một bài báo của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), được đọc tại một cuộc họp của <a class="extiw" href="http://en.wikipedia.org/wiki/Oxford_University_Newman_Society" title="wikipedia:Oxford University Newman Society">Hiệp hội Newman</a> ở Oxford trong Học kỳ Hilary 1928.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Tạp chí Công giáo *The Tablet* đã đưa tin vào [ngày 7 tháng 4](../_/7_April.md) [1928](../_/1928.md) rằng:
+**Những kẻ man rợ miền Bắc lạnh giá** là tựa đề một bài báo của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), được đọc tại một cuộc họp của <a class="extiw" href="http://en.wikipedia.org/wiki/Oxford_University_Newman_Society" title="wikipedia:Oxford University Newman Society">Hiệp hội Newman</a> vào Oxford trong Hilary Học kỳ 1928.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Tạp chí Công giáo *The Tablet* đã đưa tin vào [ngày 7 tháng 4](../_/7_April.md) [1928](../_/1928.md) rằng:
 
 <blockquote class="tg-quote noexcerpt">
 <p>Mr. Tolkien, the newly appointed Professor of Anglo-Saxon, criticized the views associated with Mr. Belloc and maintained that the Northern culture was quite as real as the Latin, and that so far as observation of foreign lands was concerned the Romans were stupid and devoid of imagination. No doubt, the fact is that North and South have combined to form our civilization; but it has ever seemed to the writer that our literary inspiration has been Greek, apart from our own Northern sentiment and delight in wild nature which is the antithesis of either the Greek or Latin spirit.

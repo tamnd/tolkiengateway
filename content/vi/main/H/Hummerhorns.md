@@ -21,7 +21,7 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/Liz_Danforth_-_Hummerhorns.jpg.md"><img src="https://tolkiengateway.net/w/images/c/cf/Liz_Danforth_-_Hummerhorns.jpg" decoding="async" loading="lazy" width="294" height="400" class="mw-file-element" data-file-width="294" data-file-height="400"/></a><figcaption><a href="../L/Liz_Danforth.md" title="Liz Danforth">Liz Danforth</a> - <i>Hummerhorns</i></figcaption></figure>
 
-**Hummerhorns** là một chủng tộc côn trùng có cánh huyền thoại chỉ được đề cập trong câu thơ [Hobbit](Hobbits.md). *hummerhorns* được cho là đã chiến đấu với một hiệp sĩ trong một nhiệm vụ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Hummerhorns** là một chủng tộc côn trùng có cánh huyền thoại chỉ được đề cập trong câu [Hobbit](Hobbits.md). *hummerhorns* được cho là đã chiến đấu với một hiệp sĩ trong một nhiệm vụ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 

@@ -57,11 +57,11 @@ images:
 <p class="tg-quote-footer"><cite><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../L/Letters_from_Father_Christmas.md" title="Letters from Father Christmas">Letters from Father Christmas</a></i></cite></p>
 </blockquote><div class="tg-section-divider"></div></div></center>
 
-**Priscilla Mary Anne Reuel Tolkien** ([18 tháng 6](../_/18_June.md), [1929](../_/1929.md) – [28 tháng 2](../_/28_February.md), [2022](../_/2022.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>) là con gái duy nhất của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), em gái của [Christopher Tolkien](../C/Christopher_Tolkien.md), [Michael Tolkien](../M/Michael_Tolkien.md), và [John Tolkien](../J/John_Tolkien.md). Cô là con út trong gia đình J.R.R. Tolkien. Bà từng là nhân viên xã hội trước khi nghỉ hưu.
+**Priscilla Mary Anne Reuel Tolkien** ([18 tháng 6](../_/18_June.md), [1929](../_/1929.md) – [28 tháng 2](../_/28_February.md), [2022](../_/2022.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>) là con gái duy nhất của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), em gái của [Christopher Tolkien](../C/Christopher_Tolkien.md), [Michael Tolkien](../M/Michael_Tolkien.md) và [John Tolkien](../J/John_Tolkien.md). Cô là con út trong gia đình J.R.R. Tolkien. Bà từng là nhân viên xã hội trước khi nghỉ hưu.
 
-Priscilla Tolkien là Phó chủ tịch danh dự của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) từ [1986](../_/1986.md) cho đến khi bà qua đời và trong nhiều năm, bà là người chủ trì các cuộc tiếp đón các thành viên của Hiệp hội tại [Oxonmoot](../O/Oxonmoot.md).
+Priscilla Tolkien là Phó chủ tịch danh dự của [Hội Tolkien](../T/The_Tolkien_Society.md) từ [1986](../_/1986.md) cho đến khi qua đời và trong nhiều năm, cô là người chủ trì các thành viên của Hiệp hội tại [Oxonmoot](../O/Oxonmoot.md).
 
-Trong bộ phim chính kịch tiểu sử có tên [Tolkien](<../T/Tolkien_(film).md>), cô xuất hiện chớp nhoáng và được các nữ diễn viên Mia Woods và Sienna Woods thể hiện.
+Trong bộ phim tiểu sử có tên [Tolkien](<../T/Tolkien_(film).md>), cô xuất hiện chớp nhoáng và được các nữ diễn viên Mia Woods và Sienna Woods thể hiện.
 
 ## Thư mục {#Bibliography}
 
@@ -74,20 +74,20 @@ Trong bộ phim chính kịch tiểu sử có tên [Tolkien](<../T/Tolkien_(film
 - [1976](../_/1976.md): [*Amon Hen* 23](../A/Amon_Hen_23.md) (Tháng 12)
     - "Cha tôi là nghệ sĩ" (trang 6–7)
 - [1976](../_/1976.md): *Over 21*, tháng 12
-    - "Priscilla Tolkien nói chuyện với Shirley Lowe" (tr. 32)
+    - "Priscilla Tolkien Nói chuyện với Shirley Lowe" (tr. 32)
 - [1977](../_/1977.md): [*Amon Hen* 29](../A/Amon_Hen_29.md) (\[?\]Tháng 11)
     - "Bài nói chuyện tại Nhà thờ Westminster vào ngày 16.9.77 của Priscilla Tolkien" (trang 4–6)
 - [1978](../_/1978.md): [*Mallorn* 12](../M/Mallorn_12.md)
     - "Tiểu sử"
-- [1992](../_/1992.md): *Tưởng nhớ J.R.R. Tolkien, 3 tháng 1 năm 1892-2 tháng 9 năm 1973: Kỷ niệm 100 năm*. Ed. Màu xám hương thảo. Pretoria: Hiệp hội thời trung cổ Unisa.
+- [1992](../_/1992.md): *Tưởng nhớ J.R.R. Tolkien, ngày 3 tháng 1 năm 1892-2 tháng Chín 1973: Kỷ niệm 100 năm*. Ed. Màu xám hương thảo. Pretoria: Hiệp hội thời trung cổ Unisa.
     - Lời nói đầu (trang vii-x)
 - [1992](../_/1992.md): *The Brown Book* (Tháng 12)
-    - "Ký ức J.R.R. Tolkien trong Kỷ niệm 100 năm của Ngài" (trang 12–14)
+    - "Ký ức J.R.R. Tolkien trong 100 năm của Ngài" (trang 12–14)
 - [1992](../_/1992.md): *Oxford Today* 5, số 1 (Michaelmas)
     - "Tin tức từ Bắc Cực" (trang 8–9)
 - [1993](../_/1993.md): *Angerthas* 34 (Tháng 7)
-    - "J.R.R. Tolkien và Chuyến lưu trú của Edith Tolkien ở Staffordshire 1916, 1917 và 1918" (trang 4–5)
-- [2004](../_/2004.md): *PN Review* 31, số 1 (Tháng 9–Tháng 10)
+    - "J.R.R. Tolkien và Thời gian ở Staffordshire của Edith Tolkien 1916, 1917 và 1918" (trang 4–5)
+- [2004](../_/2004.md): *PN Review* 31, số 1 (tháng Chín–Tháng 10)
     - "Khởi đầu và kết thúc" (trang 9–10)
 - [2012](../_/2012.md): *[The Saga of Hrolf Kraki](../T/The_Saga_of_Hrolf_Kraki.md)*
     - Lời nói đầu
@@ -98,7 +98,7 @@ Trong bộ phim chính kịch tiểu sử có tên [Tolkien](<../T/Tolkien_(film
 
 ## Giải thưởng {#Awards}
 
-- [2018](../_/2018.md): **[Giải thưởng của Hiệp hội Tolkien](../T/Tolkien_Society_Awards.md): Đóng góp xuất sắc**
+- [2018](../_/2018.md): **[Giải thưởng của Hội Tolkien](../T/Tolkien_Society_Awards.md): Đóng góp nổi bật**
 
 ## Phim ảnh {#Filmography}
 
@@ -137,7 +137,7 @@ Trong bộ phim chính kịch tiểu sử có tên [Tolkien](<../T/Tolkien_(film
 ## Liên kết ngoài {#External_links}
 
 - <a class="external text" href="http://www.tolkiensociety.org/blog/2015/01/a-message-from-priscilla-tolkien-to-brazilian-fans/" rel="noreferrer noopener" target="_blank">Lời nhắn của Priscilla Tolkien gửi người hâm mộ Brazil</a>
-- <a class="external text" href="http://www.patheos.com/blogs/standingonmyhead/2013/10/my-conversation-with-tolkiens-daughter.html" rel="noreferrer noopener" target="_blank">Cuộc trò chuyện của tôi với con gái Tolkien</a>
+- <a class="external text" href="http://www.patheos.com/blogs/standingonmyhead/2013/10/my-conversation-with-tolkiens-daughter.html" rel="noreferrer noopener" target="_blank">Cuộc trò chuyện của tôi với con gái của Tolkien</a>
 - <a class="external text" href="http://www.telegraph.co.uk/news/worldnews/northamerica/usa/9691966/JRR-Tolkiens-daughter-sues-producers-of-The-Hobbit.html" rel="noreferrer noopener" target="_blank">Con gái của JRR Tolkien kiện nhà sản xuất The Hobbit</a>
 - <a class="external text" href="http://www.imdb.com/name/nm0866059/?ref_=fn_al_nm_1" rel="noreferrer noopener" target="_blank">Hồ sơ IMDB</a>
 

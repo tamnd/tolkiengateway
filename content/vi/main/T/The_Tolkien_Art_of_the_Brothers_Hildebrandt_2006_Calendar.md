@@ -18,7 +18,7 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Tolkien_art_of_the_Brothers_Hildebrandt_2006_Calendar.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/c/cf/The_Tolkien_art_of_the_Brothers_Hildebrandt_2006_Calendar.jpg/300px-The_Tolkien_art_of_the_Brothers_Hildebrandt_2006_Calendar.jpg" decoding="async" loading="lazy" width="300" height="292" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/c/cf/The_Tolkien_art_of_the_Brothers_Hildebrandt_2006_Calendar.jpg 1.5x" data-file-width="359" data-file-height="350"/></a><figcaption></figcaption></figure>
 
-**Nghệ thuật Tolkien về Lịch năm 2006 của Anh em Hildebrandt** được xuất bản bởi Ronnie Sellers và là cuốn thứ tư trong bộ bốn cuốn lịch có tác phẩm nghệ thuật Tolkien nguyên bản của [Brothers Hildebrandt](../B/Brothers_Hildebrandt.md). Các bản phác thảo và hình ảnh được giới thiệu được tạo ra từ các buổi tạo dáng trong những năm 1970.
+**Bức tranh Tolkien Lịch năm 2006 của Anh em Hildebrandt** được xuất bản bởi Ronnie Sellers và là cuốn thứ tư trong bộ bốn cuốn lịch có tác phẩm nghệ thuật Tolkien nguyên bản của [Anh em Hildebrandt](../B/Brothers_Hildebrandt.md). Các bản phác thảo và hình ảnh được giới thiệu được tạo ra từ các buổi tạo dáng trong những năm 1970.
 
 <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/1416210717">ISBN 1-4162-1071-7</a>
 

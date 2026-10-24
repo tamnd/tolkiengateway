@@ -23,23 +23,23 @@ images:
 <p class="tg-quote-footer"><cite><a href="../N/Namárië.md" title="Namárië">Namárië</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Miruvor** và **miruvórë** là những loại thuốc bổ được sử dụng bởi [Valar](../V/Valar.md) và [Yêu tinh](../E/Elves.md).
+**Miruvor** và **miruvórë** là các loại nước tăng lực được sử dụng bởi [Valar](../V/Valar.md) và [Tiên tộc](../E/Elves.md).
 
 ## Lịch sử {#History}
 
-*Miruvórë* là mật ong hoặc mật hoa của [Valar](../V/Valar.md) mà Yêu tinh không biết thành phần hoặc cách chế tạo, mặc dù họ nghĩ rằng nó được làm từ mật ong/mật hoa của một số loài hoa ở Valinor.<sup id="cite_ref-pe17_1-0" class="reference"><a href="#cite_note-pe17-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:64</sup> Nó được đổ trong các lễ hội của họ ở [Valinor](../V/Valinor.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+*Miruvórë* là mật ong hoặc mật hoa của [Valar](../V/Valar.md) mà Tiên tộc không biết thành phần hoặc cách chế tạo, mặc dù họ nghĩ rằng nó được làm từ mật ong/mật hoa của một số loài hoa nhất định ở Valinor.<sup id="cite_ref-pe17_1-0" class="reference"><a href="#cite_note-pe17-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:64</sup> Nó được đổ trong các lễ hội của họ ở [Valinor](../V/Valinor.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-*Miruvor* (cùng một từ, ở dạng rút gọn) dùng để chỉ một loại nước ép hồi sinh được sản xuất ở [Rivendell](../R/Rivendell.md), có thể được làm chủ yếu từ mật ong và hoa thơm.<sup id="cite_ref-pe17_1-1" class="reference"><a href="#cite_note-pe17-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:64</sup> [Elrond](../E/Elrond.md) đã tặng một bình "Cordial of Imladris" cho [Gandalf](../G/Gandalf.md) trước khi [Company of the Ring](../F/Fellowship_of_the_Ring.md) khởi hành trên hành trình về phía nam của họ. Gandalf đã sử dụng thức uống này để hồi sinh bản thân trên [Caradhras](../C/Caradhras.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+*Miruvor* (cùng một từ, ở dạng rút gọn) dùng để chỉ một loại nước ép hồi sinh được làm bằng [Rivendell](../R/Rivendell.md), có thể được làm cơ bản từ mật ong có hương hoa.<sup id="cite_ref-pe17_1-1" class="reference"><a href="#cite_note-pe17-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:64</sup> [Elrond](../E/Elrond.md) đã tặng một bình đựng "Cordial of Imladris" cho [Gandalf](../G/Gandalf.md) trước khi [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) khởi hành trên hành trình về phía nam của họ. Gandalf đã sử dụng thức uống này để hồi sinh bản thân trên [Caradhras](../C/Caradhras.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Các [chủng tộc](../R/Races.md) khác, chẳng hạn như [Dúnedain](../D/Dúnedain.md) và thậm chí cả [Orc](../O/Orcs.md) sở hữu đồ uống có đặc tính tương tự, nhưng [ent-daught](../E/Ent-draught.md) là loại rượu mạnh nhất trong số các loại rượu thân nhiệt này.
+Các [chủng tộc](../R/Races.md) khác, chẳng hạn như [Dúnedain](../D/Dúnedain.md) và thậm chí [Orc](../O/Orcs.md) sở hữu đồ uống có đặc tính tương tự, nhưng [ent-daught](../E/Ent-draught.md) là loại đồ uống mạnh nhất trong số các loại rượu mạnh này.
 
 ## Từ nguyên {#Etymology}
 
 *miruvor* là [Sindarin](../S/Sindarin.md), được lấy từ [Quenya](../Q/Quenya.md) từ mượn *miruvórë*. Từ này được coi là "nước ép quý giá", với từ nguyên sai từ [MIR](MIR~30959.md) ("quý") + [WOR](../W/WOR.md) ("exude"); Tuy nhiên, gốc "WOR" không tồn tại trong Quenya hoặc Sindarin.<sup id="cite_ref-pe17_1-2" class="reference"><a href="#cite_note-pe17-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:37–38</sup>
 
-Nguồn gốc thực sự là [Valarin](../V/Valarin.md), bắt nguồn từ chữ *[mirubhōze](Mirubhōze.md)*, một loại rượu mật ong.<sup id="cite_ref-pe17_1-3" class="reference"><a href="#cite_note-pe17-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:38</sup>
+Nguồn gốc thực sự là [Valarin](../V/Valarin.md), từ chữ *[mirubhōze](Mirubhōze.md)*, một loại rượu mật ong.<sup id="cite_ref-pe17_1-3" class="reference"><a href="#cite_note-pe17-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:38</sup>
 
-Dạng Quenya cũng xuất hiện dưới dạng *miruvórë*, được giải thích là "một loại rượu đặc biệt hoặc rượu mạnh".<sup id="cite_ref-WJ_4-0" class="reference"><a href="#cite_note-WJ-4">[4]</a></sup>
+Biểu mẫu Quenya cũng xuất hiện dưới dạng *miruvórë*, được giải thích là "rượu đặc biệt hoặc rượu mạnh".<sup id="cite_ref-WJ_4-0" class="reference"><a href="#cite_note-WJ-4">[4]</a></sup>
 
 Từ Quenya *lisse-miruvóreva* xuất hiện trong bài "Than thở" do [Galadriel](../G/Galadriel.md) hát trong "Vĩnh biệt Lórien"; được dịch là "của đồng cỏ ngọt<i>".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></i>
 

@@ -37,11 +37,11 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/G/Gail_McIntosh_-_Leaflock.jpg.md"><img src="https://tolkiengateway.net/w/images/7/7e/Gail_McIntosh_-_Leaflock.jpg" decoding="async" loading="lazy" width="258" height="218" class="mw-file-element" data-file-width="258" data-file-height="218"/></a><figcaption>&#34;Leaflock&#34; by <a href="../../category/I/Images_by_Gail_McIntosh.md" title="Category:Images by Gail McIntosh">Gail McIntosh</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../E/Ents.md" title="Ents">Ent</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Leaflock</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Other names</th><td class="tg-infobox-data">Finglas</td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../F/Fangorn_Forest.md" title="Fangorn Forest">Fangorn Forest</a></td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data"><a href="../E/Entish.md" title="Entish">Entish</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr><tr><th scope="row" class="tg-infobox-label">Hair colour</th><td class="tg-infobox-data">Leafy</td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Leaflock.md" title="Category:Images of Leaflock">Images of Leaflock</a></td></tr></tbody></table>
 
-**Leaflock**, được gọi là **Finglas** trong [Sindarin](../S/Sindarin.md), cùng với [Treebeard](../T/Treebeard.md) và [Skinbark](../S/Skinbark.md), một trong ba [Ent](../E/Ents.md) lâu đời nhất của [Rừng Fangorn](../F/Fangorn_Forest.md).
+**Leaflock**, được gọi là **Finglas** ở [Sindarin](../S/Sindarin.md), cùng với [Treebeard](../T/Treebeard.md) và [Skinbark](../S/Skinbark.md), một trong ba [Ent](../E/Ents.md) lâu đời nhất của [Rừng Fangorn](../F/Fangorn_Forest.md).
 
 ## Lịch sử {#History}
 
-Finglas, [Fladrif](../S/Skinbark.md) và [Fangorn](../T/Treebeard.md) là những [Ent](../E/Ents.md) lâu đời nhất của Rừng Fangorn vẫn còn sống ở [Thời đại thứ ba](../T/Third_Age.md) sau này.
+Finglas, [Fladrif](../S/Skinbark.md) và [Fangorn](../T/Treebeard.md) là những người già nhất trong số [Ent](../E/Ents.md) của Rừng Fangorn vẫn còn sống ở [Kỷ Đệ Tam](../T/Third_Age.md) sau này.
 
 Theo [Treebeard](../T/Treebeard.md), Leaflock đã trở nên mệt mỏi, đôi khi ngủ suốt cả mùa (mặc dù trước đây ông thường thức dậy vào mùa đông) và trông giống như một cái cây với mái tóc lá bao phủ.<sup id="cite_ref-iii4_1-0" class="reference"><a href="#cite_note-iii4-1">[1]</a></sup>
 
@@ -72,11 +72,11 @@ Cái tên rõ ràng ám chỉ việc ông ta "Bao phủ bởi mái tóc lá".<su
 		</li>
 </ul>
 
-<b>2002: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">Chúa tể của những chiếc nhẫn: Hai tòa tháp</a></i>:</b>
+<b>2002: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Lord of the Rings: The Two Towers</a></i>:</b>
 
 <dl><dd><a class="external text" href="http://lotrtcgwiki.com/wiki/lotr15030" rel="noreferrer noopener" target="_blank">A card</a> in <a href="../D/Decipher.md" title="Decipher">Decipher</a>&#39;s <a href="../T/The_Lord_of_the_Rings_Trading_Card_Game.md" title="The Lord of the Rings Trading Card Game">The Lord of the Rings Trading Card Game</a> identifies one of the Ents at <a href="../I/Isengard.md" title="Isengard">Isengard</a> as Leaflock.</dd></dl>
 
-<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online%253A_Riders_of_Rohan.md" title="The Lord of the Rings Online: Riders of Rohan">Chúa tể của những chiếc nhẫn trực tuyến: Kỵ sĩ Rohan</a></i>:</b>
+<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online%253A_Riders_of_Rohan.md" title="The Lord of the Rings Online: Riders of Rohan">The Lord of the Rings Trực tuyến: Các tay đua của Rohan</a></i>:</b>
 
 <dl><dd>Leaflock is found in the North-Western part of the Fangorn Forest, near the borders of Rohan.</dd></dl>
 

@@ -74,5 +74,5 @@ Sự kiện xảy ra vào ngày 23 tháng 1.
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - Nhóm [Hiệp hội chiếc nhẫn](../F/Fellowship_of_the_Ring.md) nằm ở [Lothlórien](../L/Lothlórien.md).
-    - [Gandalf](../G/Gandalf.md) truy đuổi [Balrog](../D/Durin's_Bane.md) đến đỉnh cao [Celebdil](../C/Celebdil.md).
+    - [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) nằm trong [Lothlórien](../L/Lothlórien.md).
+    - [Gandalf](../G/Gandalf.md) theo đuổi [ Balrog](../D/Durin's_Bane.md) đến đỉnh cao [Celebdil](../C/Celebdil.md).

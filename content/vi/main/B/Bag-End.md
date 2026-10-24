@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Bag End"
 ---
 
-Chuyển hướng tới [Kết thúc túi](Bag_End.md).
+Chuyển hướng đến [Bag End](Bag_End.md).

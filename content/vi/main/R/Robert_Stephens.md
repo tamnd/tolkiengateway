@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Stephens, Robert"
 ---
 
-**Sir Robert Stephens** ([14 tháng 7](../_/14_July.md) [1931](../_/1931.md) - [12 tháng 11](../_/12_November.md) [1995](../_/1995.md)) lồng tiếng cho phần [Aragorn](../A/Aragorn.md) trong [The Lord of the Rings 1981 radio series](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) được phát sóng trên BBC 4.
+**Sir Robert Stephens** ([14 tháng 7](../_/14_July.md) [1931](../_/1931.md) - [12 tháng 11](../_/12_November.md) [1995](../_/1995.md)) đã lồng tiếng cho phần [Aragorn](../A/Aragorn.md) trong [The Lord of the Rings 1981 radio series](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) được phát sóng trên BBC 4.
 
 ## Trích dẫn {#Quotes}
 

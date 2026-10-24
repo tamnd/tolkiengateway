@@ -16,17 +16,17 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="../T/Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><a href="First_Age.md" title="First Age">I</a><a href="../S/Second_Age.md" title="Second Age">II</a><a href="../T/Third_Age.md" title="Third Age">III</a><b>IV</b><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="Fourth_Age_55.md" title="Fourth Age 55">55</a><a href="Fourth_Age_61.md" title="Fourth Age 61">61</a><a href="Fourth_Age_63.md" title="Fourth Age 63">63</a><a class="mw-selflink selflink">67</a><a href="Fourth_Age_80.md" title="Fourth Age 80">80</a><a href="Fourth_Age_82.md" title="Fourth Age 82">82</a><a href="Fourth_Age_91.md" title="Fourth Age 91">91</a></div></div></div></div></div></div>
 
-**Thời đại thứ tư 67** (viết tắt là **Fo.A. 67** hoặc **F.O.**) là [năm Mặt trời](../Y/Years_of_the_Sun.md) thứ 67 của [Thời đại thứ tư](Fourth_Age.md) của [Trung Địa](../M/Middle-earth.md). Trừ khi có quy định khác, [Tolkien Gateway](../T/Tolkien_Gateway.md) tuân theo cách sử dụng [Shire](../T/The_Shire.md) trong [Phụ lục B](../A/Appendix_B.md) để tính những năm thuộc Kỷ Đệ Tứ: Kỷ thứ 67 còn được gọi là **S.R. 1488** trong [Tính toán Quận](../S/Shire-reckoning.md).
+**Kỷ Đệ Tứ 67** (viết tắt là **Kỷ Đệ Tứ 67** hoặc **F.O.**) là [năm thứ 67 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Tứ](Fourth_Age.md) của [Trung Địa](../M/Middle-earth.md). Trừ khi có quy định khác, [Tolkien Gateway](../T/Tolkien_Gateway.md) tuân theo cách sử dụng [Shire](../T/The_Shire.md) trong [Phụ lục B](../A/Appendix_B.md) để tính Kỷ Đệ Tứ năm: Kỷ Đệ Tứ 67 còn được gọi là **S.R. 1488** trong [lịch Shire](../S/Shire-reckoning.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- Cái chết của [Elphir](../E/Elphir.md), [Hoàng tử](../P/Princes_of_Dol_Amroth.md) của [Dol Amroth](../D/Dol_Amroth.md).<sup id="cite_ref-Dol_1-0" class="reference"><a href="#cite_note-Dol-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 1]</a></sup>
-- [Alphros](../A/Alphros.md), con trai của Elphir, trở thành [Hoàng tử](../P/Princes_of_Dol_Amroth.md) thứ hai mươi bốn của [Dol Amroth](../D/Dol_Amroth.md).<sup id="cite_ref-Dol_1-1" class="reference"><a href="#cite_note-Dol-1">[1]</a></sup>
+- Cái chết của [Elphir](../E/Elphir.md), [Thân vương](../P/Princes_of_Dol_Amroth.md) của [Dol Amroth](../D/Dol_Amroth.md).<sup id="cite_ref-Dol_1-0" class="reference"><a href="#cite_note-Dol-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 1]</a></sup>
+- [Alphros](../A/Alphros.md), con trai của Elphir, trở thành [Thân vương](../P/Princes_of_Dol_Amroth.md) thứ 24 của [Dol Amroth](../D/Dol_Amroth.md).<sup id="cite_ref-Dol_1-1" class="reference"><a href="#cite_note-Dol-1">[1]</a></sup>
 
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Trong danh sách các Hoàng tử của Dol Amroth trong <i><a href="../T/The_Peoples_of_Middle-earth.md" title="The Peoples of Middle-earth">Các dân tộc ở Trung địa</a></i> cái chết của Elphir lần đầu tiên được hiển thị là "(3087=) F.A. 57".  Điều này không chính xác vì 3087 phải tương ứng với F.A. <b>67</b>. Sau này trên cùng trang đó, 3087 được đánh đồng với F.A. 67 nên ngày 57 là lỗi đánh máy.</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Trong danh sách Thân vương Dol Amroth ở <i><a href="../T/The_Peoples_of_Middle-earth.md" title="The Peoples of Middle-earth">The Peoples of Middle-earth</a></i> cái chết của Elphir lần đầu tiên được hiển thị là "(3087=) F.A. 57".  Điều này không chính xác vì 3087 phải tương ứng với F.A. <b>67</b>. Sau này trên cùng trang đó, 3087 được đánh đồng với F.A. 67 nên ngày 57 là lỗi đánh máy.</span>
 </li>
 </ol></div></span>
 

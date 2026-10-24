@@ -41,9 +41,9 @@ infobox:
 
 ## Văn bản bìa/áo khoác {#Cover/Jacket_Text}
 
-Phần bổ sung này lấy bối cảnh tại cảng biển chính của Far Harad, một thành phố đầy ắp du khách nước ngoài từ các tuyến đường lữ hành. Trên những con phố nhộn nhịp của Bozisha-Dar, người nước ngoài phải chịu đựng bàn tay của những kẻ móc túi, lừa đảo và đầy tớ của Chúa tể bóng tối. Mô-đun này có 3 cuộc phiêu lưu hoàn chỉnh. Tất cả đều khép kín và có thể dễ dàng sử dụng ở các ngôn ngữ khác.
+Phần bổ sung này lấy bối cảnh tại cảng biển chính của Far Harad, một thành phố đầy ắp những du khách nước ngoài từ các tuyến lữ hành. Trên những con phố nhộn nhịp của Bozisha-Dar, người nước ngoài phải chịu đựng bàn tay của những kẻ móc túi, lừa đảo và người hầu của Chúa tể Bóng tối. Mô-đun này có 3 cuộc phiêu lưu hoàn chỉnh. Tất cả đều khép kín và có thể dễ dàng sử dụng ở các ngôn ngữ khác.
 
-Ghé thăm cảng quốc tế vĩ đại có tên Dar, viên ngọc quý của Far Harad. Tại Sevet Kovina, Khu Lễ hội, các thương nhân và người đánh phấn từ hàng chục vùng đất chen lấn nhau giữa cuộc vui. Tại Tòa án của Người bán, các loại gia vị và vải lụa có ngà voi và da động vật từ [Mûmakan](../M/Mûmakan.md) để thu hút sự chú ý của người mặc cả. Bất cứ thứ gì có thể được mua - với một mức giá! Và trên Katedrala, ngọn đồi nơi có dinh thự của những người giàu có nằm dưới những tán cọ tươi tốt, những âm mưu đen tối và âm mưu chính trị sôi sục trong giới quý tộc. Bên trong một cung điện trang trí công phu ẩn giấu bằng chứng về kế hoạch chiếm thành phố của Nazgûl.
+Ghé thăm cảng quốc tế vĩ đại có tên Dar, viên ngọc quý của Far Harad. Tại Sevet Kovina, Khu Lễ hội, các thương nhân và người đánh phấn từ hàng chục vùng đất chen lấn nhau giữa cuộc vui. Tại Tòa án của Người bán, các loại gia vị và vải lụa có ngà voi và da động vật từ [Mûmakan](../M/Mûmakan.md) để thu hút sự chú ý của người mặc cả. Bất cứ thứ gì có thể được mua - với một mức giá! Và trên Katedrala, ngọn đồi nơi có dinh thự của những người giàu có nằm dưới những tán cọ tươi tốt, những âm mưu đen tối và âm mưu chính trị sôi sục trong giới quý tộc. Bên trong một cung điện trang trí công phu ẩn chứa bằng chứng về kế hoạch chiếm thành phố của Nazgûl.
 
 Tính năng WARLORS OF THE DESERT
 

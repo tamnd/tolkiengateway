@@ -21,7 +21,7 @@ sort_keys:
   "Tolkien Society members": "McDonald, Hannah"
 ---
 
-**Hannah McDonald** là Chủ tịch thứ mười hai và hiện tại của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>, trước khi được bổ nhiệm, cô đã là thư ký ủy thác kể từ [ngày 2 tháng 4](../_/2_April.md) [2023](../_/2023.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Hannah McDonald** là Chủ tịch thứ mười hai và hiện tại của [Hội Tolkien](../T/The_Tolkien_Society.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>, trước khi được bổ nhiệm, cô đã là thư ký ủy thác kể từ [ngày 2 tháng 4](../_/2_April.md) [2023](../_/2023.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <div class="tg-seq"><table class="tg-seq-table wikitable wikitable--border">
 <tbody><tr class="tg-seq-head"><td></td><td><div class="tg-seq-title">Hannah McDonald</div></td><td></td></tr>

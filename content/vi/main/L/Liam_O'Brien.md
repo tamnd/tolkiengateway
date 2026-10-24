@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "O'Brien, Liam"
 ---
 
-**Liam Christopher O'Brien** (sinh ngày [28 tháng 5](../M/May_28.md), [1976](../_/1976.md)) là một diễn viên lồng tiếng người Mỹ với nhiều vai trò trong trò chơi điện tử và truyền hình.
+**Liam Christopher O'Brien** (sinh [28 tháng 5](../M/May_28.md), [1976](../_/1976.md)) là một diễn viên lồng tiếng người Mỹ với nhiều vai trò trong trò chơi điện tử và truyền hình.
 
 ## Vai trò {#Roles}
 

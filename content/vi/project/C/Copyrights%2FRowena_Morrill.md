@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Morrill, Rowena"
 ---
 
-- Rowena Morrill đã vui lòng cho phép cô sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Rowena_Morrill.md) trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
+- Rowena Morrill đã vui lòng cho phép cô sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Rowena_Morrill.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Ngày: 28 tháng 7 năm 2012
 - Người dùng đã xin phép qua email: [Người dùng:KingAragorn](https://tolkiengateway.net/wiki/User:KingAragorn)

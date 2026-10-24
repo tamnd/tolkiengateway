@@ -17,11 +17,11 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">&#34;Gurthrant&#34; is a concept which has only appeared in an  adaptation of the works of <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>.</div></div>
 
-**Gurthrant** là con sông ở [Nurn](../N/Nurn.md) ở [Mordor](../M/Mordor.md) chảy từ góc tây nam của dãy núi [Ephel Dúath](../E/Ephel_Dúath.md) về phía đông bắc vào [Biển Nurnen](../S/Sea_of_Nurnen.md) trên bờ phía tây của nó. Con sông không được đặt tên trong [bản đồ](General_Map_of_Middle-earth.md) do [Christopher Tolkien](../C/Christopher_Tolkien.md) vẽ dựa trên các bản đồ do [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) vẽ để xuất bản với *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.
+**Gurthrant** là con sông ở [Nurn](../N/Nurn.md) ở [Mordor](../M/Mordor.md) chảy từ góc tây nam của dãy núi [Ephel Dúath](../E/Ephel_Dúath.md) theo hướng đông bắc vào [Biển Nurnen](../S/Sea_of_Nurnen.md) trên bờ phía tây của nó. Con sông không có tên trong [bản đồ](General_Map_of_Middle-earth.md) được [Christopher Tolkien](../C/Christopher_Tolkien.md) vẽ dựa trên bản đồ do [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) vẽ để xuất bản với *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.
 
 ## Niên đại và sáng tạo {#Chronology_and_Creation}
 
-Nó xuất hiện lần đầu trên bản đồ hàng hóa của Mordor cho *[The Lord of the Rings: The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)* do [Daniel Reeve](../D/Daniel_Reeve.md)<sup id="cite_ref-reeve-site_1-0" class="reference"><a href="#cite_note-reeve-site-1">[1]</a></sup> vẽ vào năm 2003<sup id="cite_ref-reeve-mail_2-0" class="reference"><a href="#cite_note-reeve-mail-2">[2]</a></sup>.
+Nó xuất hiện lần đầu trên bản đồ hàng hóa Mordor dành cho *[The Lord of the Rings: The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)* do [Daniel Reeve](../D/Daniel_Reeve.md)<sup id="cite_ref-reeve-site_1-0" class="reference"><a href="#cite_note-reeve-site-1">[1]</a></sup> vẽ vào năm 2003<sup id="cite_ref-reeve-mail_2-0" class="reference"><a href="#cite_note-reeve-mail-2">[2]</a></sup>.
 
 ## Quạt hoạt động {#Fan_works}
 
@@ -32,7 +32,7 @@ Trang fansite [Thelandofshadow.com](../T/Thelandofshadow.com.md) đã lấy mộ
 </p>
 </blockquote>
 
-Thông tin từ Vùng đất bóng tối đã được đưa vào dưới dạng sửa đổi đôi chút vào quạt *Mordor Gazetteer* của nhóm mô-đun quạt Nhập vai Trung Địa (MERP).
+Thông tin từ The Land of Bóng Tối đã được đưa vào dưới dạng sửa đổi một chút vào quạt *Mordor Gazetteer* của nhóm mô-đun quạt Middle-earth Role Playing (MERP).
 
 ## Từ nguyên {#Etymology}
 

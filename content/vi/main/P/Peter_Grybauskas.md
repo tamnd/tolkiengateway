@@ -25,7 +25,7 @@ langlinks:
     url: "https://kontu.wiki/Peter_Grybauskas"
 ---
 
-**Peter Grybauskas** là giáo viên tiếng Anh tại Đại học Maryland. Học bổng của ông tập trung vào [nghiên cứu về Tolkien](../T/Tolkien_studies.md), giả tưởng và chủ nghĩa thời trung cổ.
+**Peter Grybauskas** là giáo viên tiếng Anh tại Đại học Maryland. Học bổng của ông tập trung vào [Tolkien nghiên cứu](../T/Tolkien_studies.md), giả tưởng và chủ nghĩa thời trung cổ.
 
 ## Sách {#Books}
 
@@ -37,8 +37,8 @@ langlinks:
 - [2012](../_/2012.md): [*Tolkien Studies*: Tập 9](../T/Tolkien_Studies%253A_Volume_9.md)
     - "Chuyện chưa kể: Giải quyết vấn đề văn học"
 - [2015](../_/2015.md): *Lễ rửa tội bằng lửa: Sự ra đời của siêu phẩm Anh hiện đại trong Thế chiến thứ nhất*
-    - "'Bây giờ thường bị lãng quên': Gollum, cuộc đại chiến và liên minh cuối cùng"
-- [2018](../_/2018.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=A_Wilderness_of_Dragons:_Essays_in_Honor_of_Verlyn_Flieger&amp;action=edit&amp;redlink=1" title="A Wilderness of Dragons: Essays in Honor of Verlyn Flieger (page does not exist)">Vùng hoang dã của rồng: Các bài tiểu luận tôn vinh Verlyn Flieger</a></i>
+    - "'Bây giờ thường bị lãng quên': Gollum, Đại chiến và Liên minh Cuối cùng"
+- [2018](../_/2018.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=A_Wilderness_of_Dragons:_Essays_in_Honor_of_Verlyn_Flieger&amp;action=edit&amp;redlink=1" title="A Wilderness of Dragons: Essays in Honor of Verlyn Flieger (page does not exist)">Vùng hoang dã Rồng: Các bài tiểu luận tôn vinh Verlyn Flieger</a></i>
     - "'Xứ Đồi Xanh': Truyện Học Giả"
 - [2020](../_/2020.md): [*Tolkien Studies*: Tập 17](../T/Tolkien_Studies%253A_Volume_17.md)
     - "Chân dung nhà thơ khi còn trẻ: Thiếu sót đáng chú ý trong *The Homecoming of Beorhtnoth Beorhthelm's Son*"

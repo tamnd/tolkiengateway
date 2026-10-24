@@ -13,7 +13,7 @@ categories:
   - "Quenya nouns"
 ---
 
-**Sunda** (pl. **sundar**) là danh từ [Quenya](../Q/Quenya.md) cho "gốc".
+**Sunda** (pl. **sundar**) là [Quenya](../Q/Quenya.md) danh từ chỉ "gốc".
 
 ## Từ nguyên {#Etymology}
 

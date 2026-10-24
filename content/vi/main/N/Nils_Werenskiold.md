@@ -26,8 +26,8 @@ images:
 
 ## Bản dịch, đã chọn {#Translations,_selected}
 
-- *Krigen om ringen* (*The Lord of the Rings*; nghĩa đen là "Cuộc chiến trên chiếc nhẫn")
-    - [1973](../_/1973.md): *De sorte rytterne* (*[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)*; nghĩa đen là "Kỵ sĩ áo đen")
+- *Krigen om ringen* (*The Lord of the Rings*; nghĩa đen là "The Cuộc chiến Nhẫn")
+    - [1973](../_/1973.md): *De sorte rytterne* (*[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)*; nghĩa đen là "The Kỵ sĩ Đen")
     - [1974](../_/1974.md): *De to tårnene* (*[The Two Towers](../T/The_Two_Towers.md)*)
     - [1975](../_/1975.md): *Kongen kommer tilbake* (*[The Return of the King](../T/The_Return_of_the_King.md)*)
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Of the Ruin of Beleriand and the Fall of Fingolfin"
 ---
 
-Chuyển hướng đến [Về sự tàn phá của Beleriand và sự sụp đổ của Fingolfin](Of_the_Ruin_of_Beleriand_and_the_Fall_of_Fingolfin.md).
+Chuyển hướng tới [Về sự tàn phá của Beleriand và Sự sụp đổ của Fingolfin](Of_the_Ruin_of_Beleriand_and_the_Fall_of_Fingolfin.md).

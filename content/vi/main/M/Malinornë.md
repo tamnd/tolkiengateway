@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mallorn"
 ---
 
-Chuyển hướng tới [Mallorn](Mallorn.md).
+Chuyển hướng đến [Mallorn](Mallorn.md).

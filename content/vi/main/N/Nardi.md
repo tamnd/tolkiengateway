@@ -14,11 +14,11 @@ categories:
   - "Qenya names"
 ---
 
-**Nardi** là tên của một "bông hoa-[tiên](../F/Fays.md)" hoặc "bông hoa-[Vala](../V/Valar.md#Other_versions_of_the_legendarium)", theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) liên quan đến *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.<sup id="cite_ref-Nar_1-0" class="reference"><a href="#cite_note-Nar-1">[1]</a></sup> Không có thông tin nào khác về bà và bà không xuất hiện trong bất kỳ câu chuyện nào.
+**Nardi** là tên của một "bông hoa-[tiên](../F/Fays.md)" hoặc "bông hoa-[Vala](../V/Valar.md#Other_versions_of_the_legendarium)", theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) liên quan đến *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.<sup id="cite_ref-Nar_1-0" class="reference"><a href="#cite_note-Nar-1">[1]</a></sup> Không có thông tin gì khác về bà và bà không xuất hiện trong bất kỳ câu chuyện nào.
 
 ## Từ nguyên {#Etymology}
 
-Tên *Nardi* có trong [Qenya](../Q/Qenya.md), bắt nguồn từ gốc <a class="new" href="https://tolkiengateway.net/w/index.php?title=N%E1%B9%9A%C5%98%E1%B9%9A&amp;action=edit&amp;redlink=1" title="NṚŘṚ (page does not exist)">NṚŘṚ</a> ("có mùi ngọt ngào").<sup id="cite_ref-Nar_1-1" class="reference"><a href="#cite_note-Nar-1">[1]</a></sup>
+Tên *Nardi* có trong [Qenya](../Q/Qenya.md), bắt nguồn từ gốc <a class="new" href="https://tolkiengateway.net/w/index.php?title=N%E1%B9%9A%C5%98%E1%B9%9A&amp;action=edit&amp;redlink=1" title="NṚŘṚ (page does not exist)">NṚŘṚ</a> ("có mùi ngọt").<sup id="cite_ref-Nar_1-1" class="reference"><a href="#cite_note-Nar-1">[1]</a></sup>
 
 <span></span>
 

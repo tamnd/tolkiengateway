@@ -25,7 +25,7 @@ sort_keys:
 ### Bài viết {#Articles}
 
 - [1994](../_/1994.md): [*Tyalië Tyelelliéva* 3](../T/Tyalië_Tyelelliéva_3.md)
-    - "Hậu tố động từ Quenya -ta và -ya"
+    - "Quenya Hậu tố động từ -ta và -ya"
 - [1995](../_/1995.md): [*Tyalië Tyelelliéva* 4](../T/Tyalië_Tyelelliéva_4.md)
     - "-eva là một sở hữu cách bộ phận"
 - [1995](../_/1995.md): [*Tyalië Tyelelliéva* 5](../T/Tyalië_Tyelelliéva_5.md)
@@ -37,15 +37,15 @@ sort_keys:
 - [1996](../_/1996.md): [*Tyalië Tyelelliéva* 8](../T/Tyalië_Tyelelliéva_8.md)
     - "Thơ chuông bằng tiếng Ai Cập"
 - [1997](../_/1997.md): [*Vinyar Tengwar* 38](../V/Vinyar_Tengwar_38.md), trang 9–18
-    - "*Peth i dirathar aen*: Một số lưu ý về cách xây dựng tương đối của Eldarin"
+    - "*Peth i dirathar aen*: Một số lưu ý về Eldarin Công trình tương đối"
 - [1997](../_/1997.md): [*Vinyar Tengwar* 38](../V/Vinyar_Tengwar_38.md), trang 14–18
     - "*E man i yulma oi enquanta men*?"
 - [1997](../_/1997.md): [*Vinyar Tengwar* 38](../V/Vinyar_Tengwar_38.md)
-    - "*Lá ilqua i maltie kalta*: Bản dịch Quenya"
+    - "*Lá ilqua i maltie kalta*: Quenya dịch"
 - [1998](../_/1998.md): [*Tyalië Tyelelliéva* 13](../T/Tyalië_Tyelelliéva_13.md)
     - \[Thư gửi biên tập viên\]
 - [2000](../_/2000.md): [*Vinyar Tengwar* 41](../V/Vinyar_Tengwar_41.md), trang 20–23
-    - "Tengwar Fëanorian và kiểu chữ của hệ thống chữ viết ngữ âm"
+    - "Tiếng Fëanorian Tengwar và Kiểu chữ của Hệ thống Chữ viết Phiên âm"
 - [2006](../_/2006.md): *[J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment](../J/J.R.R._Tolkien_Encyclopedia%253A_Scholarship_and_Critical_Assessment.md)*
     - "Tiếng Nga"
 

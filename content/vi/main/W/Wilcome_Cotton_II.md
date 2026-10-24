@@ -45,15 +45,15 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Miriam_Ellis_-_Nick_and_Jolly.png.md"><img src="https://tolkiengateway.net/w/images/thumb/0/0d/Miriam_Ellis_-_Nick_and_Jolly.png/320px-Miriam_Ellis_-_Nick_and_Jolly.png" decoding="async" loading="lazy" width="320" height="304" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/0d/Miriam_Ellis_-_Nick_and_Jolly.png/480px-Miriam_Ellis_-_Nick_and_Jolly.png 1.5x, https://tolkiengateway.net/w/images/thumb/0/0d/Miriam_Ellis_-_Nick_and_Jolly.png/640px-Miriam_Ellis_-_Nick_and_Jolly.png 2x" data-file-width="1188" data-file-height="1127"/></a><figcaption><a href="../B/Bowman_Cotton.md" title="Bowman Cotton">Nick</a> and Jolly - Illustration by <a href="../M/Miriam_Ellis.md" title="Miriam Ellis">Miriam Ellis</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../H/Hobbits.md" title="Hobbits">Hobbit</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Wilcome Cotton</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Other names</th><td class="tg-infobox-data">&#34;Jolly&#34;</td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../B/Bywater.md" title="Bywater">Bywater</a></td></tr><tr><th scope="row" class="tg-infobox-label">Birth</th><td class="tg-infobox-data"><a class="mw-redirect" href="../S/Shire_Reckoning.md" title="Shire Reckoning">S.R.</a> <a href="../T/Third_Age_2984.md" title="Third Age 2984">1384</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">Family</th><td class="tg-infobox-data"><a class="mw-redirect" href="../C/Cotton_Family~66362.md" title="Cotton Family">Cotton</a></td></tr><tr><th scope="row" class="tg-infobox-label">Parentage</th><td class="tg-infobox-data"><a href="../F/Farmer_Cotton.md" title="Farmer Cotton">Farmer Cotton</a> and <a href="../L/Lily_Brown.md" title="Lily Brown">Lily Brown</a></td></tr><tr><th scope="row" class="tg-infobox-label">Siblings</th><td class="tg-infobox-data"><a href="../T/Tolman_Cotton_Junior.md" title="Tolman Cotton Junior">Tom</a>, <a href="../R/Rose_Cotton.md" title="Rose Cotton">Rose</a>, <a href="../B/Bowman_Cotton.md" title="Bowman Cotton">Nick</a> and <a href="../C/Carl_Cotton.md" title="Carl Cotton">Nibs</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Wilcome_Cotton_II.md" title="Category:Images of Wilcome Cotton II">Images of Wilcome Cotton</a></td></tr></tbody></table>
 
-**Chào mừng "Jolly" Cotton** là một [Hobbit](../H/Hobbits.md) của [Bywater](../B/Bywater.md).
+**Chào mừng "Jolly" Cotton** là [Hobbit](../H/Hobbits.md) trong số [Bywater](../B/Bywater.md).
 
 ## Lịch sử {#History}
 
-Wilcome was born in [S.R.](../S/Shire_Reckoning.md) [1384](../T/Third_Age_2984.md), named after his uncle [Will](Wilcome_Cotton_I.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Jolly and his brother helped their father fend off [Sharkey](../S/Saruman.md)'s [ruffians](../R/Ruffians.md), and actively participated in the revolt and [Battle of Bywater](../B/Battle_of_Bywater.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Wilcome sinh năm [S.R.](../S/Shire_Reckoning.md) [1384](../T/Third_Age_2984.md), được đặt theo tên của chú [Will](Wilcome_Cotton_I.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Jolly và anh trai đã giúp cha họ chống lại [những kẻ lưu manh](../R/Ruffians.md) của [Sharkey](../S/Saruman.md), và tích cực tham gia cuộc nổi dậy và [Trận Bywater](../B/Battle_of_Bywater.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Từ [Tiếng Anh cổ](../O/Old_English.md) *willa* "niềm vui" + *cuma* "khách"; *Wilcuma* là một vị khách được chào đón. *Jolly* xuất phát từ tiếng Pháp cổ *jolif* "vui vẻ, hạnh phúc", cùng nguồn gốc với từ *[yule](../Y/Yule.md)*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Từ [tiếng Anh cổ](../O/Old_English.md) *willa* "niềm vui" + *cuma* "khách"; *Wilcuma* là một vị khách được chào đón. *Jolly* xuất phát từ tiếng Pháp cổ *jolif* "vui vẻ, hạnh phúc", cùng nguồn gốc với từ *[yule](../Y/Yule.md)*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
@@ -69,11 +69,11 @@ Từ [Tiếng Anh cổ](../O/Old_English.md) *willa* "niềm vui" + *cuma* "khá
 		</li>
 </ul>
 
-<b>2003: <a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md" title="The Lord of the Rings: The Fellowship of the Ring (video game)"><i>Chúa tể của những chiếc nhẫn: Hiệp hội những chiếc nhẫn</i> (trò chơi điện tử)</a>:</b>
+<b>2003: <a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md" title="The Lord of the Rings: The Fellowship of the Ring (video game)"><i>The Lord of the Rings: The Fellowship of the Ring</i> (trò chơi điện tử)</a>:</b>
 
 <dl><dd>Wilcome lives at number 5, South Lane, in <a href="../B/Bywater.md" title="Bywater">Bywater</a>.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Jolly Cotton can be found on his family farm, working the soil alongside his brother Nick. He plays no role in the storyline.</dd></dl>
 

@@ -19,11 +19,11 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tolkien&#39;s_Favorite_Tree,_Oxford_Botanical_Garden.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/ba/Tolkien%27s_Favorite_Tree%2C_Oxford_Botanical_Garden.jpg/180px-Tolkien%27s_Favorite_Tree%2C_Oxford_Botanical_Garden.jpg" decoding="async" loading="lazy" width="180" height="240" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/ba/Tolkien%27s_Favorite_Tree%2C_Oxford_Botanical_Garden.jpg/270px-Tolkien%27s_Favorite_Tree%2C_Oxford_Botanical_Garden.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/b/ba/Tolkien%27s_Favorite_Tree%2C_Oxford_Botanical_Garden.jpg/360px-Tolkien%27s_Favorite_Tree%2C_Oxford_Botanical_Garden.jpg 2x" data-file-width="461" data-file-height="614"/></a><figcaption>Laocoon, the favourite Tolkien tree</figcaption></figure>
 
-**Laocoon** là tên Tolkien đặt cho một trong những cái cây yêu thích của ông tại <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Oxford_Botanic_Garden" title="wikipedia:University of Oxford Botanic Garden">Vườn bách thảo Oxford</a>. Laocoon là một cây thông đen <a class="extiw" href="http://en.wikipedia.org/wiki/European_Black_Pine" title="wikipedia:European Black Pine">, lat. <i>Pinus nigra</i></a>
+**Laocoon** là tên Tolkien đặt cho một trong những cây anh yêu thích tại <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Oxford_Botanic_Garden" title="wikipedia:University of Oxford Botanic Garden">Vườn bách thảo Oxford</a>. Laocoon là một cây thông đen <a class="extiw" href="http://en.wikipedia.org/wiki/European_Black_Pine" title="wikipedia:European Black Pine">, lat. <i>Pinus nigra</i></a>
 
 Trong bức ảnh cuối cùng được biết đến của Tolkien (chụp [ngày 9 tháng 8](../_/9_August.md) [1973](../_/1973.md)), ông xuất hiện đứng cạnh cái cây.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Theo Tiến sĩ Stephen Harris thuộc Khoa Khoa học Thực vật của Đại học Oxford:
+Theo Tiến sĩ Stephen Harris thuộc Khoa Khoa học Thực vật của trường Oxford:
 
 <blockquote class="tg-quote noexcerpt">
 <p>The received wisdom regarding the black pine is that it was planted in 1799 from seed that was collected by the Third Sherardian Professor of Botany, John Sibthorp, in Austria. We know that Sibthorp sent considerable amounts of plant material to Oxford from the eastern Mediterranean in 1786/87 and that he was in Austria in 1785. He was also in regions of Black Pine growth in 1795 but he died in 1796.
@@ -53,8 +53,8 @@ Một cây non được trồng từ cây này đã được Hoàng tử Charles
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://www.oxfordtoday.ox.ac.uk/culture/videos-podcasts-galleries/giant-falls-tolkien%E2%80%99s-tree" rel="noreferrer noopener" target="_blank">Một thác nước khổng lồ:Cây Tolkien</a>
-- <a class="external text" href="https://vimeo.com/108059963" rel="noreferrer noopener" target="_blank">Cây Tolkien - sự đổ ngã của cây thông đen tại Vườn Bách thảo Oxford</a> tại <a class="external text" href="https://vimeo.com/" rel="noreferrer noopener" target="_blank">Vimeo</a>
+- <a class="external text" href="http://www.oxfordtoday.ox.ac.uk/culture/videos-podcasts-galleries/giant-falls-tolkien%E2%80%99s-tree" rel="noreferrer noopener" target="_blank">Một người khổng lồ ngã:Tolkien cây</a>
+Cây - <a class="external text" href="https://vimeo.com/108059963" rel="noreferrer noopener" target="_blank">Tolkien- sự đổ ngã của cây thông đen tại Oxford Vườn Bách Thảo</a> tại <a class="external text" href="https://vimeo.com/" rel="noreferrer noopener" target="_blank">Vimeo</a>
 
 <span></span>
 

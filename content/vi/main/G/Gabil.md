@@ -13,7 +13,7 @@ categories:
   - "Khuzdul words"
 ---
 
-<i><b>gabil</b></i> là phần tử [Khuzdul](../K/Khuzdul.md) chỉ xuất hiện tên ghép *[Gabilgathol](Gabilgathol.md)* và *[Gabilān](Gabilān.md)*. Vì *Gabilān* được gọi là "con sông lớn",<sup id="cite_ref-WJ_1-0" class="reference"><a href="#cite_note-WJ-1">[1]</a></sup> và *Gabilgathol* được cho là đã được dịch thành *[Belegost](../B/Belegost.md)* ("Pháo đài vĩ đại"),<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> người ta có thể, như [Helge Fauskanger](../H/Helge_Fauskanger.md) đã gợi ý, suy ra rằng *Gabil* có thể có nghĩa là "tuyệt vời".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+<i><b>gabil</b></i> là phần tử [Khuzdul](../K/Khuzdul.md) chỉ xuất hiện tên ghép *[Gabilgathol](Gabilgathol.md)* và *[Gabilān](Gabilān.md)*. Vì *Gabilān* được gọi là "con sông lớn",<sup id="cite_ref-WJ_1-0" class="reference"><a href="#cite_note-WJ-1">[1]</a></sup> và *Gabilgathol* được cho là đã được dịch thành *[Belegost](../B/Belegost.md)* ("Pháo đài vĩ đại"),<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> người ta có thể, như [Helge Fauskanger](../H/Helge_Fauskanger.md) đã gợi ý, suy ra rằng *Gabil* có thể có nghĩa là "vĩ đại".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

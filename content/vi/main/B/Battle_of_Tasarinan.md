@@ -12,15 +12,15 @@ categories:
   - "Conflicts in The Book of Lost Tales"
 ---
 
-**Trận chiến Tasarinan** diễn ra tại [Vùng đất của những cây liễu](../N/Nan-tathren.md) trong cuộc thám hiểm vĩ đại từ [Valinor](../V/Valinor.md) để giải phóng những [Gnomes](../G/Gnomes.md) bị bắt làm nô lệ ở [Great Lands](../G/Great_Lands.md), theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Không có tài liệu đầy đủ, chi tiết về trận chiến được đưa ra, vì nó chỉ được đề cập thoáng qua trong Những câu chuyện đã mất, và trong nhiều bản phác thảo khác nhau về phần tiếp theo của chúng.
+**Trận chiến Tasarinan** diễn ra tại [Vùng đất của những cây liễu](../N/Nan-tathren.md) trong cuộc thám hiểm vĩ đại từ [Valinor](../V/Valinor.md) để giải phóng [Gnomes](../G/Gnomes.md) bị bắt làm nô lệ ở [Great Lands](../G/Great_Lands.md), theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Không có tài liệu chi tiết, đầy đủ nào về trận chiến được đưa ra vì nó chỉ được đề cập thoáng qua trong Lost Tales và trong các phác thảo khác nhau để tiếp tục.
 
 Điều ít được biết về nó là:
 
-- Chủ nhà đầu tiên từ <a class="mw-redirect mw-disambig" href="../W/West.md" title="West">Tây</a>, bao gồm [Vala](../V/Valar.md) [Noldorin](../S/Salmar.md), cũng như [Eldar](../E/Eldar.md), bao gồm [Valwë](../V/Valwë.md), cha của [Lindo](../L/Lindo.md) người canh giữ [Cottage of Lost Play](../C/Cottage_of_Lost_Play.md), đã cắm trại ở Land of Cây liễu.<sup id="cite_ref-Tulk_2-0" class="reference"><a href="#cite_note-Tulk-2">[2]</a></sup>
+- Người dẫn chương trình đầu tiên từ <a class="mw-redirect mw-disambig" href="../W/West.md" title="West">Phương Tây</a>, bao gồm [Vala](../V/Valar.md) [Noldorin](../S/Salmar.md), cũng như [Eldar](../E/Eldar.md), bao gồm [Valwë](../V/Valwë.md), cha của [Lindo](../L/Lindo.md) người canh giữ [Cottage of Lost Play](../C/Cottage_of_Lost_Play.md), đã cắm trại ở Land of Willows.<sup id="cite_ref-Tulk_2-0" class="reference"><a href="#cite_note-Tulk-2">[2]</a></sup>
 - Ở đó, "ngủ và nhảy", họ trở nên tự mãn.<sup id="cite_ref-Tas_3-0" class="reference"><a href="#cite_note-Tas-3">[3]</a></sup>
 - Sau đó họ bị phục kích và đánh bại bởi [yêu tinh](../O/Orcs.md) do [Melko](../M/Melko.md) gửi đến.<sup id="cite_ref-Tas_3-1" class="reference"><a href="#cite_note-Tas-3">[3]</a></sup>
 
-Tuy nhiên, sau trận chiến (theo một số phác thảo của câu chuyện), Noldorin đã trốn thoát được (cũng như Valwë<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[note 1]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup>), và một thời gian sau Melko bị [Tulkas](../T/Tulkas.md) đánh bại trong [Trận chiến ở hồ bơi im lặng](Battle_of_the_Silent_Pools.md).<sup id="cite_ref-Tulk_2-1" class="reference"><a href="#cite_note-Tulk-2">[2]</a></sup>
+Tuy nhiên, sau trận chiến (theo một số tình tiết của câu chuyện), Noldorin đã trốn thoát được (cũng như Valwë<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[note 1]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup>), và một thời gian sau Melko bị [Tulkas](../T/Tulkas.md) đánh bại trong [Trận chiến ở hồ bơi im lặng](Battle_of_the_Silent_Pools.md).<sup id="cite_ref-Tulk_2-1" class="reference"><a href="#cite_note-Tulk-2">[2]</a></sup>
 
 ## Xem thêm {#See_also}
 
@@ -29,7 +29,7 @@ Tuy nhiên, sau trận chiến (theo một số phác thảo của câu chuyện
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">Chúng tôi biết rằng Valwë đã sống sót sau trận chiến, vì sau đó ông quay trở lại <a href="../T/Tol_Eressëa.md" title="Tol Eressëa">Tol Eressëa</a> và định cư ở đó.</span>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">Chúng tôi biết rằng Valwë sống sót sau trận chiến, vì sau đó ông quay trở lại <a href="../T/Tol_Eressëa.md" title="Tol Eressëa">Tol Eressëa</a> và định cư ở đó.</span>
 </li>
 </ol></div></span>
 

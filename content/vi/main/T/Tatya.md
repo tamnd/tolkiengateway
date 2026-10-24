@@ -16,7 +16,7 @@ categories:
   - "Telerin adjectives"
 ---
 
-**tatya** là một từ [Telerin](Telerin.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và [Quenya](../Q/Quenya.md) cổ xưa có nghĩa là "thứ hai".
+**tatya** là một từ [Telerin](Telerin.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và cổ xưa [Quenya](../Q/Quenya.md) có nghĩa là "thứ hai".
 
 ## Từ nguyên {#Etymology}
 
@@ -24,7 +24,7 @@ Từ này xuất phát từ số đếm *[tata](<Tata_(Elvish).md>)* [Gốc](../
 
 ## Có cùng nguồn gốc {#Cognates}
 
-- [Quenya](../Q/Quenya.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Attea&amp;action=edit&amp;redlink=1" title="Attea (page does not exist)">attea</a></i> (một hình thức mới hơn)
+- [Quenya](../Q/Quenya.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Attea&amp;action=edit&amp;redlink=1" title="Attea (page does not exist)">attea</a></i> (một dạng mới hơn)
 
 ## Xem thêm {#See_also}
 

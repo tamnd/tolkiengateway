@@ -29,15 +29,15 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../H/Hobbits.md" title="Hobbits">Hobbit</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Marmadas Brandybuck</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../B/Buckland.md" title="Buckland">Buckland</a></td></tr><tr><th scope="row" class="tg-infobox-label">Birth</th><td class="tg-infobox-data"><a class="mw-redirect" href="../S/Shire_Reckoning.md" title="Shire Reckoning">S.R.</a> <a href="../T/Third_Age_2943.md" title="Third Age 2943">1343</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">Family</th><td class="tg-infobox-data"><a class="mw-redirect" href="../B/Brandybuck_Family~66350.md" title="Brandybuck Family">Brandybuck</a></td></tr><tr><th scope="row" class="tg-infobox-label">Parentage</th><td class="tg-infobox-data"><a href="../G/Gorbulas_Brandybuck.md" title="Gorbulas Brandybuck">Gorbulas Brandybuck</a></td></tr><tr><th scope="row" class="tg-infobox-label">Children</th><td class="tg-infobox-data"><a href="Merimas_Brandybuck.md" title="Merimas Brandybuck">Merimas</a>, <a href="Mentha_Brandybuck.md" title="Mentha Brandybuck">Mentha</a> and <a href="Melilot_Brandybuck.md" title="Melilot Brandybuck">Melilot</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr></tbody></table>
 
-**Marmadas Brandybuck** là một [Hobbit](../H/Hobbits.md) của [Quận](../T/The_Shire.md).
+**Marmadas Brandybuck** là [Hobbit](../H/Hobbits.md) của [the Shire](../T/The_Shire.md).
 
 ## Lịch sử {#History}
 
-Marmadas là con trai của [Gorbulas Brandybuck](../G/Gorbulas_Brandybuck.md). Ba người con của ông là [Merimas](Merimas_Brandybuck.md), [Mentha](Mentha_Brandybuck.md) và [Melilot](Melilot_Brandybuck.md). Ông và các con đã tham dự [Bữa tiệc chia tay của Bilbo](../B/Bilbo's_Farewell_Party.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Marmadas là con trai của [Gorbulas Brandybuck](../G/Gorbulas_Brandybuck.md). Ba người con của ông là [Merimas](Merimas_Brandybuck.md), [Mentha](Mentha_Brandybuck.md) và [Melilot](Melilot_Brandybuck.md). Ông và các con đã theo học [Tiệc chia tay của Bilbo](../B/Bilbo's_Farewell_Party.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Ý nghĩa của tên *Marmadas* vẫn chưa được biết. [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) lưu ý rằng tên của Bucklanders mang phong cách [Celtic](../C/Celtic.md) mơ hồ.<sup id="cite_ref-Translation_2-0" class="reference"><a href="#cite_note-Translation-2">[2]</a></sup>
+Ý nghĩa của tên *Marmadas* vẫn chưa được biết. [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) lưu ý rằng tên của Bucklanders có phong cách [Celtic](../C/Celtic.md) mơ hồ.<sup id="cite_ref-Translation_2-0" class="reference"><a href="#cite_note-Translation-2">[2]</a></sup>
 
 [Jim Allan](../J/Jim_Allan.md) gợi ý rằng tên *Marmadas* là một biến thể của tên *[Marmadoc](Marmadoc_Brandybuck.md)* với phần cuối *-as* giống như trong các tên *[Merimas](Merimas_Brandybuck.md)* và *[Saradas](../S/Saradas_Brandybuck.md)*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 

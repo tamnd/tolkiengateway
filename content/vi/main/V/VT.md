@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Vinyar Tengwar"
 ---
 
-Chuyển hướng tới [Vinyar Tengwar](Vinyar_Tengwar.md).
+Chuyển hướng đến [Vinyar Tengwar](Vinyar_Tengwar.md).

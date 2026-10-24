@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Bridge of Khazad-dûm"
 ---
 
-Chuyển hướng tới [Cầu Khazad-dûm](Bridge_of_Khazad-dûm.md).
+Chuyển hướng đến [Cầu Khazad-dûm](Bridge_of_Khazad-dûm.md).

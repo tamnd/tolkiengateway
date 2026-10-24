@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ravines of Taeglin"
 ---
 
-Chuyển hướng tới [Ravines of Taeglin](Ravines_of_Taeglin.md).
+Chuyển hướng đến [Khe núi Taeglin](Ravines_of_Taeglin.md).

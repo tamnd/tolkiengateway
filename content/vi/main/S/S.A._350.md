@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Second Age 350"
 ---
 
-Chuyển hướng tới [Kỷ nguyên thứ hai 350](Second_Age_350.md).
+Chuyển hướng tới [Kỷ Đệ Nhị 350](Second_Age_350.md).

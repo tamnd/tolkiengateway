@@ -32,7 +32,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../H/Hobbits.md" title="Hobbits">Hobbit</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Tanta Hornblower</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Other names</th><td class="tg-infobox-data">Tanta Baggins</td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="The_Shire.md" title="The Shire">the Shire</a></td></tr><tr><th scope="row" class="tg-infobox-label">Birth</th><td class="tg-infobox-data">c. <a class="mw-redirect" href="../S/Shire_Reckoning.md" title="Shire Reckoning">S.R.</a> <a href="Third_Age_2820.md" title="Third Age 2820">1220</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">Family</th><td class="tg-infobox-data"><a href="../H/Hornblower_Family.md" title="Hornblower Family">Hornblower</a></td></tr><tr><th scope="row" class="tg-infobox-label">Spouse</th><td class="tg-infobox-data"><a href="../L/Largo_Baggins.md" title="Largo Baggins">Largo Baggins</a></td></tr><tr><th scope="row" class="tg-infobox-label">Children</th><td class="tg-infobox-data"><a href="../F/Fosco_Baggins.md" title="Fosco Baggins">Fosco</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Female</td></tr></tbody></table>
 
-**Tanta Hornbutter** là một [Hobbit](../H/Hobbits.md) của [Shire](The_Shire.md).
+**Tanta Hornbutter** là [Hobbit](../H/Hobbits.md) của [người Shire](The_Shire.md).
 
 ## Lịch sử {#History}
 
@@ -40,7 +40,7 @@ Tanta kết hôn với [Largo Baggins](../L/Largo_Baggins.md) và là mẹ của
 
 ## Từ nguyên {#Etymology}
 
-Cái tên *Tanta* là vô nghĩa trong [Hobbitish](../H/Hobbitish.md) [Westron](../W/Westron.md) đương thời. Nó đại diện cho tên gốc *Tante* hoặc *Tanto*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
+Cái tên *Tanta* không có ý nghĩa gì trong [Hobbitish](../H/Hobbitish.md) [Westron](../W/Westron.md) đương thời. Nó đại diện cho tên gốc *Tante* hoặc *Tanto*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

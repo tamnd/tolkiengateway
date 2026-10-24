@@ -42,7 +42,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/AmonHen53.JPG.md"><img src="https://tolkiengateway.net/w/images/thumb/f/f8/AmonHen53.JPG/320px-AmonHen53.JPG" decoding="async" loading="lazy" width="320" height="452" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f8/AmonHen53.JPG/480px-AmonHen53.JPG 1.5x, https://tolkiengateway.net/w/images/thumb/f/f8/AmonHen53.JPG/640px-AmonHen53.JPG 2x" data-file-width="1769" data-file-height="2496"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Amon Hen 53</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Jenny Smith</td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data">Mark Bardsley</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Printer</th><td class="tg-infobox-data">Hanway Print Centre, London</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">December <a href="../_/1981.md" title="1981">1981</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">A5 stapled paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">28</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0306-8781</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Amon_Hen_52.md" title="Amon Hen 52">Amon Hen 52</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Amon_Hen_54.md" title="Amon Hen 54">Amon Hen 54</a></td></tr></tbody></table>
 
-<b><i>Amon Hen</i> 53</b> là số thứ 53 của tạp chí hai tháng một lần của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, xuất bản vào tháng 12 [1981](../_/1981.md).
+<b><i>Amon Hen</i> 53</b> là số thứ 53 của tạp chí hai tháng một lần của [Hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, xuất bản vào tháng 12 [1981](../_/1981.md).
 
 ## Nội dung {#Contents}
 
@@ -52,7 +52,7 @@ infobox:
 - Biên tập
     - Bởi: Jenny Smith
 - Thông báo
-- Ngục tối và rồng
+- Ngục tối và Rồng
     - Bởi: Susan Rule
 - Trẻ mồ côi và Gia đình đơn thân ở LOTR
     - Bởi: Meg Hamilton
@@ -60,22 +60,22 @@ infobox:
     - Bởi: Chris Seppälä
 - Ash Nazg Durbatulûk
     - Bởi: [Julian Bradfield](../J/Julian_Bradfield.md)
-- Bùa chống lại người lùn
+- Bùa chống lại Người Lùn
     - Bởi: J.M.C. Didden
-- Cirth và sau đó?
+- Cái Cirth, & Sau đó?
     - Bởi: Anthony Crossland
 - Đánh giá
     - Bởi: Ian D. Smith
 - Về sự tương đồng giữa các nhà văn sáng tạo
     - Bởi: Jessica Yates
-- Trung tâm của Quận?
+- Trái tim của Shire?
     - Bởi: Christine Davidson
 - Đánh giá
     - Bởi: Nils Ivar Agøy
 - Tác phẩm nghệ thuật: "Azog<i></i>
     - Bởi: Vince Price
 - Hãy mỉm cười
-- Truyện dân gian
+- Truyện dân ca
 - Thư
 - Góc của Jessica
     - Bởi: Jessica Yates

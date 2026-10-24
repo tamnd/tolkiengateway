@@ -17,7 +17,7 @@ sort_keys:
 **GALÁS** là một [Elvish](../E/Elvish.md) [Gốc](../S/Sundocarmë.md) có thể bắt nguồn từ [GALA](GALA.md). Nó liên quan đến niềm vui.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 - [Quenya](../Q/Quenya.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Alass%C3%AB&amp;action=edit&amp;redlink=1" title="Alassë (page does not exist)">alassë</a></i>
-- [Sindarin](../S/Sindarin.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Glas&amp;action=edit&amp;redlink=1" title="Glas (page does not exist)">glas</a>, <a href="../B/Borlas.md" title="Borlas">Borlas</a></i>
+- [Sindarin](../S/Sindarin.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Glas&amp;action=edit&amp;redlink=1" title="Glas (page does not exist)">kính</a>, <a href="../B/Borlas.md" title="Borlas">Borlas</a></i>
 
 <span></span>
 

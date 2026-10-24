@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Elven brooches"
 ---
 
-Chuyển hướng tới [Trâm cài áo của tộc Elf](Elven_brooches.md).
+Chuyển hướng đến [Tiên trâm cài](Elven_brooches.md).

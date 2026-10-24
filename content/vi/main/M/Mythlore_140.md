@@ -39,7 +39,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mythlore_140.gif.md"><img src="https://tolkiengateway.net/w/images/9/98/Mythlore_140.gif" decoding="async" loading="lazy" width="225" height="317" class="mw-file-element" data-file-width="225" data-file-height="317"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mythlore 140</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../J/Janet_Brennan_Croft.md" title="Janet Brennan Croft">Janet Brennan Croft</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Spring/Summer <a href="../_/2022.md" title="2022">2022</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">292</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mythlore_139.md" title="Mythlore 139">Mythlore 139</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mythlore_141.md" title="Mythlore 141">Mythlore 141</a></td></tr></tbody></table>
 
-<b><i>Thần thoại</i> 140</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol40/iss2/" rel="noreferrer noopener" target="_blank">Tập 40, Số 2</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
+<b><i>Mythlore</i> 140</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol40/iss2/" rel="noreferrer noopener" target="_blank">Tập 40, Số 2</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
 
 ## Nội dung {#Contents}
 
@@ -51,7 +51,7 @@ infobox:
 - Shaham, Inbar. "The Wheel of Power in HBO's *Game of Thrones*."
 - Young, Joseph R. "Sterner Stuff; Sansa Stark and the System of Gothic Fantasy."
 - Flieger, Verlyn. "A Lost Tale, A Found Influence: Earendel and Tinúviel."
-- Dugan, Owen và James Krasner. "Súp, Xương và Shakespeare: Quyền tác giả văn học và sự ám chỉ ở Trung Địa."
+- Dugan, Owen và James Krasner. "Súp, Xương và Shakespeare: Quyền tác giả văn học và sự ám chỉ trong Trung Địa."
 - Ostaltsev, Alex (Oleksiy). "Tolkien và Bakhtin: Bản giao hưởng thời gian trong *The Lord of the Rings*."
 - Larsen, Kristine. "Seeing Double: Tolkien and the Indo-European Divine Twins."
 - Kane, Douglas Charles. "Círdan the Shipwright: Tolkien’s Bodhisattva Who Brings Us to the Other Shore."
@@ -67,17 +67,17 @@ infobox:
 
 - *Xóa bỏ con người ở các thế giới khác: Phá vỡ và khôi phục chuỗi tồn tại trong Bộ ba tiền chuộc của C.S. Lewis* của Courtney Petrucci, *Thiên đường sâu hơn: Hướng dẫn dành cho độc giả về C.S. Lewis Bộ ba tiền chuộc* của Christiana Hale và *La bàn cho thiên đường sâu: Điều hướng C.S. Lewis Bộ ba tiền chuộc*, do Diana biên tập Pavlac Glyer và Julianne Johnson. Được đánh giá bởi Josiah Peterson.
 - *Không Người Thường: 21 Tình Bạn C.S. Lewis* của Joel D. Heck. Được đánh giá bởi James Stockton.
-- *Những điều chưa được khám phá C.S. Lewis: Những bài luận tưởng nhớ Christopher W. Mitchell*, do Bruce biên tập R. Johnson. Được đánh giá bởi Melody Green.
+- *Những điều chưa được khám phá C.S. Lewis: Những bài tiểu luận về Ký ức Christopher W. Mitchell*, do Bruce R. Johnson biên tập. Được đánh giá bởi Melody Green.
 - *Correspondence: 1927-1987* của Joseph Campbell. Được đánh giá bởi Phillip Fitzsimmons.
 - *Pamela Colman Smith: Tarot Artist: The Pious Pixie* của Dawn C. Robinson và *Pamela Colman Smith: Artist, Feminist, and Mystic* của Elizabeth Foley O'Connor. Được đánh giá bởi Emily E. Auger.
 - *Dorothy L. Sayers, Tiểu sử: Cái chết, Dante và Chúa Peter Wimsey* của Colin Duriez và *Dorothy và Jack: Tình bạn biến đổi của Dorothy L. Sayers và C.S. Lewis* của Gina Dalfonzo. Được đánh giá bởi Gabriel Salter.
-- *Đạo đức và hình thức trong văn học giả tưởng: Tolkien, Rowling và Meyer* của Lykke Guanio-Uluru. Được đánh giá bởi Phillip Fitzsimmons.
-- *Tolkien và biển cả: Kỷ yếu của Hội thảo Hiệp hội Tolkien 1996,* do Richard Cranshaw và Shaun Gunner biên tập. Được đánh giá bởi Kris Swank.
+- *Đạo đức và hình thức trong văn học giả tưởng: Tolkien, Rowling, và Meyer* của Lykke Guanio-Uluru. Được đánh giá bởi Phillip Fitzsimmons.
+- *Tolkien và Biển: Kỷ yếu của Hội thảo Hội Tolkien 1996,* do Richard Cranshaw và Shaun Gunner biên tập. Được đánh giá bởi Kris Swank.
 - *Pagan Saints in Middle-earth* của Claudio A. Testi. Được đánh giá bởi Toni Thibodeaux.
 - *Middle-earth, or There and Back Again* của Łukasz Neubauer. Được đánh giá bởi Giovanni Carmine Costabile.
-- *Cảm giác về những câu chuyện chưa được kể: Khám phá các góc cạnh của bức vẽ văn học của Tolkien* của Peter Grybauskas. Được đánh giá bởi Robert T. Tally.
+- *Cảm giác về những câu chuyện chưa được kể: Khám phá các khía cạnh của bức tranh văn học của Tolkien* của Peter Grybauskas. Được đánh giá bởi Robert T. Tally.
 - *Tolkien and the Classical World*, do Hamish Williams biên tập. Được đánh giá bởi Larry J. Swain.
-- *Bản nhạc và hiện tại vĩnh cửu: Thần học, thời gian và Tolkien* của Chiara Bertoglio. Được đánh giá bởi John Wm. Houghton.
+- *Bản nhạc và Hiện tại vĩnh cửu: Thần học, Thời gian và Tolkien* của Chiara Bertoglio. Được đánh giá bởi John Wm. Houghton.
 - *Lãnh đạo ở Trung Địa: Lý thuyết và ứng dụng cho các tổ chức - Khám phá thực tiễn lãnh đạo hiệu quả thông qua văn hóa đại chúng* của Michael J. Urick. Được đánh giá bởi Alana White.
 
 <div class="template-prevnext"><div class="template-prevnext__prev template-prevnext__link"><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/8/81/WikimediaUI-ArrowPrevious-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__content"><div class="template-prevnext__title">Mythlore 139</div></div><div class="template-prevnext__linkoverlay"><a href="Mythlore_139.md" title="Mythlore 139">Mythlore 139</a></div></div><div class="template-prevnext__current"><div class="template-prevnext__content"><div class="template-prevnext__title">Mythlore 140</div></div></div><div class="template-prevnext__next template-prevnext__link"><div class="template-prevnext__content"><div class="template-prevnext__title">Mythlore 141</div></div><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/7b/WikimediaUI-ArrowNext-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__linkoverlay"><a href="Mythlore_141.md" title="Mythlore 141">Mythlore 141</a></div></div></div>

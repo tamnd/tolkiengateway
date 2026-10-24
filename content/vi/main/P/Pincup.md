@@ -34,13 +34,13 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Village</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Pincup</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>General Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../S/Southfarthing.md" title="Southfarthing">Southfarthing</a>, <a href="../T/The_Shire.md" title="The Shire">the Shire</a></td></tr><tr><th scope="row" class="tg-infobox-label">Type</th><td class="tg-infobox-data">Village</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>People and History</span></th></tr><tr><th scope="row" class="tg-infobox-label">Inhabitants</th><td class="tg-infobox-data"><a href="../H/Hobbits.md" title="Hobbits">Hobbits</a></td></tr></tbody></table>
 
-**Pincup** là một ngôi làng nhỏ ở [Shire](../T/The_Shire.md). Nó nằm ở góc phía bắc của [Southfarthing](../S/Southfarthing.md), cách [Three-Farthing Stone](../T/Three-Farthing_Stone.md) vài dặm về phía nam, trong vùng đồi núi của Quận được gọi là [Green Hill Country](../G/Green_Hill_Country.md). Có vẻ như nó đã được xây dựng ở sườn phía nam của [Green Hills](../G/Green_Hills.md) và chỉ có thể đến được bằng một con đường duy nhất, dường như dẫn từ khu định cư lớn hơn [Longbottom](../L/Longbottom.md) về phía nam.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Pincup** là một ngôi làng nhỏ của [ Shire](../T/The_Shire.md). Nó nằm ở góc phía bắc của [Southfarthing](../S/Southfarthing.md), cách [Three-Farthing Stone](../T/Three-Farthing_Stone.md) vài dặm về phía nam, trong vùng đồi núi của Shire được gọi là [Green Hill Country](../G/Green_Hill_Country.md). Có vẻ như nó đã được xây dựng ở sườn phía nam của [Green Hills](../G/Green_Hills.md) và chỉ có thể đến được bằng một con đường duy nhất, dường như dẫn từ khu định cư lớn hơn [Longbottom](../L/Longbottom.md) về phía nam.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Về nguồn gốc tên của Pincup, yếu tố đầu tiên là *pinnuc* hoặc *pink*, chim sẻ hoặc chim sẻ, và yếu tố thứ hai là *hop*, lõm, rút ​​lui. Tolkien đã nói rằng nó mô phỏng "một mẫu nổi tiếng" về tên địa danh tiếng Anh, "chứa tên chim/động vật và *hop*\|.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Về nguồn gốc tên của Pincup, yếu tố đầu tiên là *pinnuc* hoặc *pink*, chim sẻ hoặc chim sẻ, và yếu tố thứ hai là *hop*, lõm, rút ​​lui. Tolkien đã nói rằng nó mô phỏng "một mẫu nổi tiếng" của các địa danh tiếng Anh, "chứa tên chim/động vật và *hop*\|.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Trước khi xuất bản nội dung trên, [David Salo](../D/David_Salo.md) đã đề xuất một nguồn gốc từ [tiếng Anh cổ](../O/Old_English.md) suy đoán \**Pincopp* "pine-hill", cùng với các khả năng khác.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Trước khi xuất bản ở trên, [David Salo](../D/David_Salo.md) đã đề xuất một nguồn gốc từ [tiếng Anh cổ](../O/Old_English.md) \**Pincopp* "đồi thông" suy đoán, trong số các khả năng khác.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

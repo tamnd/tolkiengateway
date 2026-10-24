@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Roots of Tolkien's Middle Earth"
 ---
 
-Chuyển hướng tới [Nguồn gốc Trung Địa của Tolkien](The_Roots_of_Tolkien's_Middle_Earth.md).
+Chuyển hướng tới [Gốc rễ của Trung Địa Tolkien](The_Roots_of_Tolkien's_Middle_Earth.md).

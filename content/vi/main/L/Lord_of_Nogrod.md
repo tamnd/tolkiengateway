@@ -17,13 +17,13 @@ langlinks:
     url: "https://kontu.wiki/Nogrodin_valtias"
 ---
 
-**Chúa tể của Nogrod** là danh hiệu được trao cho người cai trị thành phố [Người lùn](../D/Dwarf.md) của [Nogrod](../D/Dwarf.md).
+**Chúa tể Nogrod** là danh hiệu được trao cho người cai trị thành phố [Người lùn](../D/Dwarf.md) [Nogrod](../D/Dwarf.md).
 
-Mặc dù có lẽ đã có nhiều Lãnh chúa trong lịch sử của [Thời đại](../F/First_Age.md) đó, nhưng chỉ có một vị xuất hiện trong hồ sơ, và thậm chí cả Chúa đó cũng không được nêu tên. Ông ta đã dẫn đầu một [cuộc tấn công](../B/Battle_in_the_Thousand_Caves.md) chống lại [Menegroth](../M/Menegroth.md) để chiếm giữ [Nauglamir](../N/Nauglamir.md). Sau đó ông ta chiến đấu với [Beren](../B/Beren.md) trong [Trận chiến Sarn Athrad](../B/Battle_of_Sarn_Athrad.md) và lẽ ra đã giết ông ta, nhưng lại vấp ngã và Beren đã giết ông ta để đòi lại Nauglamir. Bằng những lời hấp hối, ông ta nguyền rủa kho báu mà ông ta mang về Nogrod mà Beren đã ném xuống sông.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Mặc dù có lẽ đã có nhiều Lãnh chúa trong lịch sử của [Thời đại](../F/First_Age.md) đó, nhưng chỉ có một vị xuất hiện trong hồ sơ, và thậm chí cả Chúa đó cũng không được nêu tên. Ông ta đã dẫn đầu một [cuộc tấn công](../B/Battle_in_the_Thousand_Caves.md) chống lại [Menegroth](../M/Menegroth.md) để chiếm được [Nauglamir](../N/Nauglamir.md). Sau đó ông ta chiến đấu với [Beren](../B/Beren.md) trong [Trận Sarn Athrad](../B/Battle_of_Sarn_Athrad.md) và lẽ ra đã giết ông ta, nhưng lại vấp ngã và Beren giết chết ông ta để đòi lại Nauglamir. Bằng những lời hấp hối, ông ta nguyền rủa kho báu mà ông ta mang về Nogrod bị Beren ném xuống sông.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*, [Naugladur](../N/Naugladur.md) là vua của [Người lùn Nogrod](../D/Dwarves_of_Nogrod.md)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>, người đã chiến đấu [trận chiến trong Thousand Caves](../B/Battle_in_the_Thousand_Caves.md) chống lại [Doriath](../D/Doriath.md) và chiến đấu với [Beren](../B/Beren.md) trong [Trận chiến Sarn Athrad](../B/Battle_of_Sarn_Athrad.md).
+Trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*, [Naugladur](../N/Naugladur.md) là vua của [Người lùn Nogrod](../D/Dwarves_of_Nogrod.md)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>, người đã chiến đấu [trong trận Ngàn Hang Động](../B/Battle_in_the_Thousand_Caves.md) chống lại [Doriath](../D/Doriath.md) và chiến đấu với [Beren](../B/Beren.md) trong [Trận Sarn Athrad](../B/Battle_of_Sarn_Athrad.md).
 
 <span></span>
 

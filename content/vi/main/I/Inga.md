@@ -14,11 +14,11 @@ categories:
   - "Quenya nouns"
 ---
 
-## Người Tiên {#Elvish}
+## Elvish {#Elvish}
 
-<i><b>inga</b></i> là một từ [Elvish](../E/Elvish.md) có nghĩa là "đầu tiên", được cho là (hoặc có lẽ bắt nguồn từ) một thành phần trong "tên Elfin và đặc biệt là tên Sindarin". Từ này xuất hiện mà không có bất kỳ ngôn ngữ được chỉ định cụ thể nào.<sup id="cite_ref-LR361_1-0" class="reference"><a href="#cite_note-LR361-1">[1]</a></sup>
+<i><b>inga</b></i> là một từ [Elvish](../E/Elvish.md) có nghĩa là "đầu tiên", được cho là (hoặc có lẽ bắt nguồn từ) một phần tử trong "tên Elfin và đặc biệt là Sindarin". Từ này xuất hiện mà không có bất kỳ ngôn ngữ được chỉ định cụ thể nào.<sup id="cite_ref-LR361_1-0" class="reference"><a href="#cite_note-LR361-1">[1]</a></sup>
 
-[Helge Fauskanger](../H/Helge_Fauskanger.md) đã gợi ý rằng từ này (và ý nghĩa của nó) có thể hợp lệ [Neo-Quenya](../N/Neo-Quenya.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+[Helge Fauskanger](../H/Helge_Fauskanger.md) đã gợi ý rằng từ này (và nghĩa của nó) có thể hợp lệ [Neo-Quenya](../N/Neo-Quenya.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ### Từ nguyên {#Etymology}
 
@@ -30,7 +30,7 @@ categories:
 
 ## Quenya {#Quenya}
 
-<i><b>inga</b></i> là một từ [Quenya](../Q/Quenya.md) có nghĩa là "đỉnh", "chỉ được áp dụng cho các hình dạng hướng lên trên" và "chủ yếu chỉ vị trí và có thể được sử dụng cho phần ngọn tương đối rộng".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+<i><b>inga</b></i> là một từ [Quenya](../Q/Quenya.md) có nghĩa là "đỉnh", "chỉ áp dụng cho các hình dạng hướng lên trên" và "chủ yếu chỉ vị trí và có thể được sử dụng cho các phần ngọn tương đối rộng".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ### Xem thêm {#See_also}
 

@@ -31,9 +31,9 @@ infobox:
 
 ## Lịch sử {#History}
 
-Ulbar ban đầu là người chăn cừu tại một trang trại ở [Emerië](../E/Emerië.md), thuộc sở hữu của [Hallatan](../H/Hallatan.md) của [Hyarastorni](../H/Hyarastorni.md). Tuy nhiên, khi Ulbar nghe nói về [Guild of Venturers](../G/Guild_of_Venturers.md) của Aldarion, ông đã tham gia cùng họ và trở thành thủy thủ đoàn trên *[Hirilondë](../H/Hirilondë.md)*. Ulbar đã biến mất trong nhiều năm cho đến khi Aldarion đưa con tàu về nhà từ [Trung Địa](../M/Middle-earth.md). Ông và [Henderch](../H/Henderch.md) của Westlands đi cùng hoàng tử khi Aldarion cưỡi ngựa tới nhà của [Erendis](../E/Erendis.md).
+Ulbar ban đầu là người chăn cừu tại một trang trại ở [Emerië](../E/Emerië.md), thuộc sở hữu của [Hallatan](../H/Hallatan.md) của [Hyarastorni](../H/Hyarastorni.md). Tuy nhiên, khi Ulbar nghe nói về [Guild of Venturers](../G/Guild_of_Venturers.md) của Aldarion, ông đã tham gia cùng họ và trở thành thủy thủ đoàn trên *[Hirilondë](../H/Hirilondë.md)*. Ulbar đã ra đi nhiều năm cho đến khi Aldarion đưa con tàu về nhà từ [Trung Địa](../M/Middle-earth.md). Ông và [Henderch](../H/Henderch.md) của Westlands đi cùng hoàng tử khi Aldarion cưỡi ngựa đến nhà của [Erendis](../E/Erendis.md).
 
-Sau khi Aldarion trải qua một đêm cô đơn trong phòng ngủ tách biệt với vợ, anh dậy sớm và rời khỏi nhà. Đi đến nhà của anh họ Hallatan, anh chứng kiến ​​​​bữa tiệc trở về quê hương vui vẻ mà vợ Ulbar tổ chức cho anh, khiêu vũ cùng anh trong niềm hạnh phúc của cô. Khi con trai của Ulbar [Îbal](../_/Îbal.md) hỏi người ta phải bao nhiêu tuổi mới có thể đi biển, Aldarion trả lời cay đắng nhưng lại đưa cho vợ Ulbar một chiếc nhẫn có viên ngọc đỏ rực mà Vua [Gil-galad](../G/Gil-galad.md) đã tặng cho ông ta.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Sau Aldarion một đêm cô đơn trong phòng ngủ tách biệt với vợ, anh dậy sớm và rời khỏi nhà. Đi đến nhà của anh họ Hallatan, anh chứng kiến ​​​​bữa tiệc trở về quê hương vui vẻ mà vợ Ulbar tổ chức cho anh, khiêu vũ cùng anh trong niềm hạnh phúc của cô. Khi con trai của Ulbar [Îbal](../_/Îbal.md) hỏi bao nhiêu tuổi mới được đi biển Aldarion đã trả lời cay đắng nhưng lại đưa cho vợ Ulbar một chiếc nhẫn có viên ngọc đỏ rực mà Vua [Gil-galad](../G/Gil-galad.md) đã tặng anh.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

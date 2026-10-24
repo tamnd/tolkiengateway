@@ -13,7 +13,7 @@ categories:
   - "Quenya nouns"
 ---
 
-<i><b>kemen</b></i> (<i><b>cemen</b></i>) là một từ [Quenya](../Q/Quenya.md), có nghĩa là "trái đất", có nghĩa là một tầng bên dưới bầu trời.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>kemen</b></i> (<i><b>cemen</b></i>) là một từ [Quenya](../Q/Quenya.md), có nghĩa là "trái đất", theo nghĩa là một tầng bên dưới bầu trời.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

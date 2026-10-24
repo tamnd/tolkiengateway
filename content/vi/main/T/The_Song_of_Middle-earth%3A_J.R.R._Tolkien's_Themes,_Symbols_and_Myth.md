@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Song of Middle-earth"
 ---
 
-Chuyển hướng tới [Bài hát của Trung Địa](The_Song_of_Middle-earth.md).
+Chuyển hướng đến [Bài hát của Trung Địa](The_Song_of_Middle-earth.md).

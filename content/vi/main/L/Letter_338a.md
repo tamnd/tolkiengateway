@@ -27,7 +27,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Trong bức thư gửi <a class="extiw" href="http://en.wikipedia.org/wiki/Alan_Bullock" title="wikipedia:Alan Bullock">Ngài Alan Bullock</a>, Phó hiệu trưởng của [Đại học Oxford](../O/Oxford_University.md), Tolkien bày tỏ lòng biết ơn sâu sắc vì đã được trao tặng danh hiệu <a class="extiw" href="http://en.wikipedia.org/wiki/Doctor_of_Letters" title="wikipedia:Doctor of Letters">Tiến sĩ Văn học</a> danh dự vào [ngày 3 tháng 6](../_/3_June.md). Tolkien bày tỏ sự ngạc nhiên và không tin tưởng khi nhận được vinh dự như vậy từ trường Đại học. Ngoài ra, anh còn gửi lời cảm ơn cá nhân tới Ngài Alan vì sự tiếp đón nồng nhiệt và tử tế mà anh nhận được trong buổi lễ, điều mà anh thấy vô cùng cảm động. <br>
+Trong thư gửi <a class="extiw" href="http://en.wikipedia.org/wiki/Alan_Bullock" title="wikipedia:Alan Bullock">Ngài Alan Bullock</a>, Phó hiệu trưởng trường đại học [Oxford](../O/Oxford_University.md), Tolkien bày tỏ lòng biết ơn sâu sắc vì đã được trao tặng danh hiệu <a class="extiw" href="http://en.wikipedia.org/wiki/Doctor_of_Letters" title="wikipedia:Doctor of Letters">Tiến sĩ văn học</a> danh dự vào [ngày 3 tháng 6](../_/3_June.md). Tolkien bày tỏ sự ngạc nhiên và không tin nổi khi nhận được vinh dự như vậy từ Trường. Ngoài ra, anh còn gửi lời cảm ơn cá nhân tới Ngài Alan vì sự tiếp đón nồng nhiệt và tử tế mà anh nhận được trong buổi lễ, điều mà anh thấy vô cùng cảm động. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

@@ -25,7 +25,7 @@ images:
 <p class="tg-quote-footer"><cite><i><a class="mw-redirect" href="The_Book_of_Lost_Tales_Part_One.md" title="The Book of Lost Tales Part One">The Book of Lost Tales Part One</a></i>, &#34;<a href="The_Chaining_of_Melko.md" title="The Chaining of Melko">The Chaining of Melko</a>&#34;</cite></p>
 </blockquote>
 
-Tên *tilkal* là từ viết tắt từ tên [Qenya](../Q/Qenya.md) của các kim loại được đề cập ở trên:<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Tên *tilkal* là từ viết tắt của [Qenya](../Q/Qenya.md) tên của các kim loại nêu trên:<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 - <i><b>t</b>ambe</i> = "đồng, đồng thau"
 - <i><b>i</b>lsa</i> = "bạc"

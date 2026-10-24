@@ -14,16 +14,16 @@ images:
   - "Disambig.png"
 ---
 
-**Caras Galadhon** có thể đề cập đến:
+**Caras Galadhon** có thể tham khảo:
 
-## Trung địa {#Middle-earth}
+## Trung Địa {#Middle-earth}
 
 - **[Caras Galadhon](Caras_Galadhon.md)**, thành phố và pháo đài của [Galadhrim](../G/Galadhrim.md) của [Lothlórien](../L/Lothlórien.md).
 
 ## Các bản chuyển thể {#Adaptations}
 
-- "[Caras Galadhon](<Caras_Galadhon_(scene).md>)", một cảnh trong bộ phim [2001](../_/2001.md) *[The Lord of the Rings: The Fellowship of the Ring](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)*.
-- "[Caras Galadhon](<Caras_Galadhon_(soundtrack).md>)", một bài hát trong [nhạc phim](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_-_The_Complete_Recordings.md) của bộ phim *Chúa tể của những chiếc nhẫn: Hiệp hội nhẫn thần*.
+- "[Caras Galadhon](<Caras_Galadhon_(scene).md>)", một cảnh trong phim [2001](../_/2001.md) *[The Lord of the Rings: The Fellowship of the Ring](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)*.
+- "[Caras Galadhon](<Caras_Galadhon_(soundtrack).md>)", một bản nhạc trong [nhạc phim](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_-_The_Complete_Recordings.md) của bộ phim *The Lord of the Rings: The Fellowship of the Ring*.
 
 <hr style="margin-top:15px;"/>
 

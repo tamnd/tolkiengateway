@@ -20,7 +20,7 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="Timeline.md" title="Timeline">Timeline</a></b></div></div>
 
-## [Tuổi thứ tư](../F/Fourth_Age.md) {#Fourth_Age}
+## [Kỷ Đệ Tứ](../F/Fourth_Age.md) {#Fourth_Age}
 
 <table class="wikitable">
 <tbody><tr>
@@ -239,7 +239,7 @@ images:
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Ngày chính xác này vẫn chưa chắc chắn, vì văn bản bắt nguồn từ đó ghi ngày mất của Eldarion vào <a href="../F/Fourth_Age.md" title="Fourth Age">Fo.A.</a> <a href="../F/Fourth_Age_125.md" title="Fourth Age 125">125</a> và được viết bởi Tolkien vào năm <a href="../_/1959.md" title="1959">1959</a> do đó có trước thời kỳ ấn bản thứ hai của <i><a href="The_Lord_of_the_Rings.md" title="The Lord of the Rings">Chúa tể của những chiếc nhẫn</a></i>, trong đó Tolkien cuối cùng đã thay đổi ngày <a href="../A/Aragorn.md" title="Aragorn">Aragorn</a> qua đời từ <a href="../F/Fourth_Age.md" title="Fourth Age">Fo.A.</a> <a class="mw-redirect" href="../F/Fourth_Age_100.md" title="Fourth Age 100">100</a> thành <a href="../F/Fourth_Age.md" title="Fourth Age">Fo.A.</a> <a href="../F/Fourth_Age_120.md" title="Fourth Age 120">120</a>.</span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Ngày chính xác này vẫn chưa chắc chắn, vì văn bản bắt nguồn từ đó ghi ngày mất của Eldarion là vào <a href="../F/Fourth_Age.md" title="Fourth Age">Kỷ Đệ Tứ</a> <a href="../F/Fourth_Age_125.md" title="Fourth Age 125">125</a> và được viết bởi Tolkien vào <a href="../_/1959.md" title="1959">1959</a> do đó có trước phiên bản thứ hai của <i><a href="The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, trong đó Tolkien cuối cùng đã thay đổi ngày <a href="../A/Aragorn.md" title="Aragorn">Aragorn cái chết của</a> do <a href="../F/Fourth_Age.md" title="Fourth Age">Kỷ Đệ Tứ</a> <a class="mw-redirect" href="../F/Fourth_Age_100.md" title="Fourth Age 100">100</a> thành <a href="../F/Fourth_Age.md" title="Fourth Age">Kỷ Đệ Tứ</a> <a href="../F/Fourth_Age_120.md" title="Fourth Age 120">120</a>.</span>
 </li>
 </ol></div></span>
 

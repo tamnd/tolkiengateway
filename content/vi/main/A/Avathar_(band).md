@@ -37,7 +37,7 @@ infobox:
 
 ### Lịch sử {#History}
 
-Lấy cảm hứng từ các tác phẩm của Tolkien, Avathar được thành lập vào năm [2000](../_/2000.md) như một dự án gồm hai người của Vua phù thủy và Scatha.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Lấy cảm hứng từ các tác phẩm của Tolkien, Avathar được thành lập vào [2000](../_/2000.md) như một dự án gồm hai người của Vua phù thủy và Scatha.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Tác phẩm của họ được lấy cảm hứng từ ban nhạc kim loại đen [Triệu hồi](../S/Summoning.md) của Áo, tuy nhiên tác phẩm của họ sử dụng bàn phím và giọng hát nhiều hơn và cách tiếp cận của họ là tạo nhạc phim.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
@@ -194,7 +194,7 @@ Tác phẩm của họ được lấy cảm hứng từ ban nhạc kim loại đ
 
 - Vua phù thủy (Harri Hyytiäinen) - bass <small>(2000-2007)</small>, vocal <small>(2000–nay)</small>
 - Scatha - tổng hợp <small>(2000–nay)</small>
-- Thợ săn rồng - guitar <small>(2007–nay)</small>
+- Rồng Thợ săn - guitar <small>(2007–nay)</small>
 - Anfauglir - âm trầm <small>(2011–nay)</small>
 - Khamûl - trống <small>(2013–nay)</small>
 - Ar-Pharazôn - tổng hợp <small>(2014–nay)</small>
@@ -202,7 +202,7 @@ Tác phẩm của họ được lấy cảm hứng từ ban nhạc kim loại đ
 <dl><dt>Former members<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></dt></dl>
 
 - Jonna Piittala - giọng hát <small>(2003)</small>
-- Daeron - guitar <small>(2005-2007)</small>, trống <small>(2007-2011)</small>
+- Daeron - ghi-ta <small>(2005-2007)</small>, trống <small>(2007-2011)</small>
 - Thalion - trống <small>(2005-2007)</small>
 - Emerwen - bàn phím <small>(2005-2009)</small>
 - Iina - giọng hát <small>(2006)</small>

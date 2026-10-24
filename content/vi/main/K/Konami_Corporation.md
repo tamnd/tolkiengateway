@@ -13,7 +13,7 @@ categories:
   - "Businesses"
 ---
 
-**Konami Corporation** là một công ty nổi tiếng của Nhật Bản đã sản xuất ra loạt trò chơi điện tử nổi tiếng như <a class="extiw" href="http://en.wikipedia.org/wiki/Castlevania" title="wikipedia:Castlevania">Castlevania</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Silent_Hill" title="wikipedia:Silent Hill">Silent Hill</a> và <a class="extiw" href="http://en.wikipedia.org/wiki/Metal_Gear_(series)" title="wikipedia:Metal Gear (series)">Metal Gear Solid</a>. Họ là công ty đã phát triển [Riders of Rohan](<../R/Riders_of_Rohan_(video_game).md>).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Tập đoàn Konami** là một công ty nổi tiếng của Nhật Bản đã tạo ra loạt trò chơi điện tử nổi tiếng như <a class="extiw" href="http://en.wikipedia.org/wiki/Castlevania" title="wikipedia:Castlevania">Castlevania</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Silent_Hill" title="wikipedia:Silent Hill">Silent Hill</a> và <a class="extiw" href="http://en.wikipedia.org/wiki/Metal_Gear_(series)" title="wikipedia:Metal Gear (series)">Metal Gear Solid</a>. Họ là công ty đã phát triển [Riders của Rohan](<../R/Riders_of_Rohan_(video_game).md>).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

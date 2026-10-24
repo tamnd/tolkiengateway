@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "George Allen & Unwin Spring Announcements 1937"
 ---
 
-Chuyển hướng đến [Thông báo mùa xuân của George Allen & Unwin 1937](George_Allen_&_Unwin_Spring_Announcements_1937.md).
+Chuyển hướng đến [George Allen &amp; Unwin Thông báo mùa xuân 1937](George_Allen_&_Unwin_Spring_Announcements_1937.md).

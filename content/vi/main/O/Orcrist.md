@@ -62,25 +62,25 @@ infobox:
 <p class="tg-quote-footer"><cite>Elrond, &#34;<a href="../A/A_Short_Rest.md" title="A Short Rest">A Short Rest</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Orcrist** là một thanh kiếm Elf, bạn đời của [Glamdring](../G/Glamdring.md). Nó có một bao kiếm được trang trí và một chuôi nạm ngọc. Giống như [Glamdring](../G/Glamdring.md) và [Sting](../S/Sting.md), lưỡi kiếm có thể phát hiện sự hiện diện của lũ Orc và cảnh báo người mang nó bằng cách phát sáng màu xanh lam.
+**Orcrist** là một thanh kiếm Tiên, bạn đời của [Glamdring](../G/Glamdring.md). Nó có một bao kiếm được trang trí và một chuôi nạm ngọc. Giống như [Glamdring](../G/Glamdring.md) và [Sting](../S/Sting.md), lưỡi kiếm có thể phát hiện sự hiện diện của Orc và cảnh báo người mang nó bằng cách phát sáng màu xanh lam.
 
-Loài Orc gọi thanh kiếm này là **Biter**.<sup id="cite_ref-hill_1-0" class="reference"><a href="#cite_note-hill-1">[1]</a></sup> Nó được chế tạo bởi [Yêu tinh](../E/Elves.md). Những người này không chỉ biến nó thành một vũ khí có giá trị mà còn là nỗi sợ hãi đối với kẻ thù của họ, đặc biệt là giữa [Orc](Orcs.md) và các sinh vật tà ác khác.<sup id="cite_ref-rest_2-0" class="reference"><a href="#cite_note-rest-2">[2]</a></sup>
+Orc gọi là thanh kiếm **Biter**.<sup id="cite_ref-hill_1-0" class="reference"><a href="#cite_note-hill-1">[1]</a></sup> Nó được chế tạo bởi [Tiên tộc](../E/Elves.md), những người không chỉ biến nó thành một vũ khí có giá trị mà còn là một thứ đáng sợ đối với kẻ thù của họ, đặc biệt là giữa [Orc](Orcs.md) và các sinh vật xấu xa khác.<sup id="cite_ref-rest_2-0" class="reference"><a href="#cite_note-rest-2">[2]</a></sup>
 
 ## Lịch sử {#History}
 
-Là "bạn đồng hành" với thanh kiếm Glamdring của Vua [Turgon](../T/Turgon.md), Orcrist có thể được nuôi dưỡng bởi ông ta, hoặc một lãnh chúa cấp cao của [Gondolindrim](../G/Gondolindrim.md) trong đoàn tùy tùng của Nhà vua.
+Với tư cách là "bạn đời" của thanh kiếm Glamdring của Vua [Turgon](../T/Turgon.md), Orcrist có thể do ông ta hoặc một lãnh chúa cấp cao của [Gondolindrim](../G/Gondolindrim.md) trong đoàn tùy tùng của Vua sinh ra.
 
 Orcrist "đã giết hàng trăm yêu tinh vào thời đó, khi các yêu tinh công bằng của Gondolin săn lùng chúng trên những ngọn đồi hoặc chiến đấu trước bức tường của chúng".<sup id="cite_ref-hill_1-1" class="reference"><a href="#cite_note-hill-1">[1]</a></sup> Trong [Sự sụp đổ của Gondolin](../F/Fall_of_Gondolin.md), [Rog](../R/Rog.md), [Duilin](../D/Duilin_of_Gondolin.md), [Egalmoth](../E/Egalmoth.md), [Tuor](../T/Tuor.md) và Những ngôi nhà của [Ecthelion](../E/Ecthelion.md) phòng thủ ở cổng trước bức tường. [Ecthelion](../E/Ecthelion.md) dẫn đầu một cuộc tấn công dẫn đến cái chết của hàng nghìn [orc](Orcs.md), khiến tên tuổi của anh trở thành nỗi kinh hoàng đối với chủng tộc của họ, trước khi chiến đấu với [Gothmog](<../G/Gothmog_(balrog).md>).<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup>
 
-Đến [Kỷ thứ ba](../T/Third_Age.md) Orcrist và bạn đời của nó được tìm thấy và giữ trong [hang động của Quỷ lùn](../T/Trolls'_cave~67749.md) ở [Eriador](../E/Eriador.md). [Thorin và đồng đội](../T/Thorin_and_Company.md), đã tìm thấy và lục soát hang động sớm trong [Quest of Erebor](../Q/Quest_of_Erebor.md), và [Thorin](../T/Thorin.md) [Oakenshield](Oakenshield.md) đã lấy được vũ khí.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> [Elrond](../E/Elrond.md) đã xác định được thanh kiếm và Thorin hứa sẽ tôn trọng thanh kiếm và hy vọng có thể chém đôi Goblin một lần nữa<sup id="cite_ref-rest_2-1" class="reference"><a href="#cite_note-rest-2">[2]</a></sup> điều mà ông đã làm khi bị bắt vào [Thị trấn yêu tinh](../G/Goblin-town.md).<sup id="cite_ref-hill_1-2" class="reference"><a href="#cite_note-hill-1">[1]</a></sup>
+Bởi [Kỷ Đệ Tam](../T/Third_Age.md) Orcrist và bạn đời của nó đã được tìm thấy và lưu giữ trong một [Troll' hang động](../T/Trolls'_cave~67749.md) ở [Eriador](../E/Eriador.md). [Thorin và Đoàn tùy tùng](../T/Thorin_and_Company.md), đã tìm thấy và tìm kiếm hang động sớm trong [Nhiệm vụ Erebor](../Q/Quest_of_Erebor.md), và [Thorin](../T/Thorin.md) [Oakenshield](Oakenshield.md) đã lấy được vũ khí.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> [Elrond](../E/Elrond.md) đã xác định được thanh kiếm và Thorin hứa sẽ tôn vinh thanh kiếm và hy vọng có thể chẻ đôi Goblin một lần nữa<sup id="cite_ref-rest_2-1" class="reference"><a href="#cite_note-rest-2">[2]</a></sup> điều mà ông đã làm khi bị bắt vào [Thị trấn yêu tinh](../G/Goblin-town.md).<sup id="cite_ref-hill_1-2" class="reference"><a href="#cite_note-hill-1">[1]</a></sup>
 
-Thorin đã bị tước vũ khí khi bị [Yêu tinh vùng Mirkwood](../E/Elves_of_Mirkwood.md) bắt giữ và Orcrist bị giữ ở đó.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Tuy nhiên sau khi chết, [Thranduil](../T/Thranduil.md) đã trả lại Orcrist và đặt nó trên lăng mộ của Thorin bên dưới [Erebor](../L/Lonely_Mountain.md), và nó "lấp lánh mãi trong bóng tối nếu kẻ thù đến gần".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Thorin đã bị tước vũ khí khi bị [Tiên tộc của Mirkwood](../E/Elves_of_Mirkwood.md) bắt giữ và Orcrist bị giữ ở đó.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Tuy nhiên, sau khi chết, [Thranduil](../T/Thranduil.md) đã trả lại Orcrist và đặt nó lên ngôi mộ của Thorin bên dưới [Erebor](../L/Lonely_Mountain.md), và nó "lấp lánh luôn trong bóng tối nếu kẻ thù đến gần".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Orcrist* là [Sindarin](../S/Sindarin.md) cho "goblin-cleaver".<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+*Orcrist* là [Sindarin](../S/Sindarin.md) dành cho "goblin-cleaver".<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
-Trong *[Etymologies](../T/The_Etymologies.md)*, tên *Orchrist* được cho là "tên thanh kiếm", liên quan đến [Noldorin](../N/Noldorin.md) *risto* ("rend, rip"), bắt nguồn từ [root](../S/Sundocarme.md) RIS ("slash, rip").<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+Trong *[Etymologies](../T/The_Etymologies.md)*, tên *Orchrist* được cho là "tên kiếm", liên quan đến [Noldorin](../N/Noldorin.md) *risto* ("rend, rip"), bắt nguồn từ [root](../S/Sundocarme.md) RIS ("slash, rip").<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
@@ -122,15 +122,15 @@ Trong *[Etymologies](../T/The_Etymologies.md)*, tên *Orchrist* được cho là
 		</li>
 </ul>
 
-<b>1977: <a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>Người Hobbit</i> (phim 1977)</a>:</b>
+<b>1977: <a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>The Hobbit</i> (phim 1977)</a>:</b>
 
 <dl><dd>Thorin acquires Glamdring in the trolls&#39; cave. Elrond recognises the sword at first glance, and afterwards identifies Glamdring. The Goblins found Orcrist on Thorin after they captured the Dwarves and Bilbo and it was recognised by the guard who removes it from his person. Thorin&#39;s recovery of it is not depicted.</dd></dl>
 
-<b>2001: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">Chúa tể của những chiếc nhẫn: Hiệp hội những chiếc nhẫn</a></i>:</b>
+<b>2001: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i>:</b>
 
 <dl><dd>The tale of the finding Orcrist and <a href="../G/Glamdring.md" title="Glamdring">Glamdring</a> is included by <a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo</a> in <a href="../R/Red_Book_of_Westmarch.md" title="Red Book of Westmarch">the Red Book of Westmarch</a> and both swords are illustrated by him.</dd></dl>
 
-<b>2012-14: <a href="../T/The_Hobbit_(film_series).md" title="The Hobbit (film series)"><i>Người Hobbit</i> (loạt phim)</a>:</b>
+<b>2012-14: <a href="../T/The_Hobbit_(film_series).md" title="The Hobbit (film series)"><i>The Hobbit</i> (loạt phim)</a>:</b>
 
 <dl><dd>As in the book, the sword is found in the trolls&#39; cave and is identified as Orcrist by <a href="../E/Elrond.md" title="Elrond">Elrond</a> in <a href="../R/Rivendell.md" title="Rivendell">Rivendell</a>. It&#39;s designed as a straight, single-edged sword with a prominent recurve at the cutting edge. Its pommel consists of two prongs, and it possesses a half-guard (whereas most Elven swords in Jackson&#39;s films are shown without guards). The grip of the sword is fashioned from a dragon&#39;s tooth and the base of the blade contains the <a href="../S/Sindarin.md" title="Sindarin">Sindarin</a> inscription &#34;NAGOL E-LYG&#34; meaning &#34;Tooth of-Snake [or dragon]&#34;.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></dd></dl>
 

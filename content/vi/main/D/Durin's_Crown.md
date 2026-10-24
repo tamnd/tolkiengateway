@@ -34,9 +34,9 @@ images:
 <p class="tg-quote-footer"><cite><a href="../G/Gimli.md" title="Gimli">Gimli</a> singing the Song of Durin in <a href="../M/Moria.md" title="Moria">Moria</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div></center>
 
-**Vương miện Durin** một chòm sao gồm [Bảy ngôi sao](../S/Seven_Stars.md) được đề cập trong truyền thuyết về [Người lùn](Dwarves.md). Theo truyền thuyết, nó xuất hiện dưới dạng một chiếc vương miện phía trên hình ảnh phản chiếu của <a class="mw-redirect mw-disambig" href="Durin.md" title="Durin">Durin</a>trong [Mirrormere](../M/Mirrormere.md) mặc dù thực tế lúc đó đang là ban ngày; ông coi đó là một điềm tốt và đã xây dựng [Khazad-dûm](../M/Moria.md) ở thung lũng [Azanulbizar](../A/Azanulbizar.md). [Hòn đá Durin](Durin's_Stone.md) được thiết lập để kỷ niệm địa điểm và sự kiện.
+**Vương miện của Durin** một chòm sao gồm [Bảy ngôi sao](../S/Seven_Stars.md) được đề cập trong truyền thuyết về [Người Lùn](Dwarves.md). Theo truyền thuyết, nó xuất hiện dưới dạng một chiếc vương miện phía trên hình ảnh phản chiếu của <a class="mw-redirect mw-disambig" href="Durin.md" title="Durin">Durin</a>trong [Mirrormere](../M/Mirrormere.md) mặc dù thực tế lúc đó đang là ban ngày; ông coi đó là một điềm lành và đã xây dựng [Khazad-dûm](../M/Moria.md) ở thung lũng [Azanulbizar](../A/Azanulbizar.md). [Hòn đá Durin](Durin's_Stone.md) được thiết lập để kỷ niệm địa điểm và sự kiện.
 
-Nhiều năm sau, trong [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md), [Gimli](../G/Gimli.md), [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md) đã nhìn xuống hồ, nhưng liệu họ có nhìn thấy chiếc vương miện hay không thì vẫn chưa rõ.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Kỷ nguyên sau đó, trong [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md), [Gimli](../G/Gimli.md), [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md) nhìn xuống hồ nhưng không rõ có nhìn thấy vương miện hay không.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Danh tính {#Identity}
 

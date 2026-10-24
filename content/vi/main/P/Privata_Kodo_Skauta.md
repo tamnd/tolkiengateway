@@ -24,7 +24,7 @@ images:
 
 ## Mô tả {#Description}
 
-Các từ được viết bằng các ký hiệu tượng hình, "chuyên khảo" đại diện cho các từ hoặc đánh vần bằng bảng chữ cái mã ngữ âm. Tolkien lưu ý rằng Privata Kodo Skauta về mặt ngữ âm giống với [Esperanto](../E/Esperanto.md) (ngoại trừ sáu quy ước chính tả), điều mà ông cũng đang học vào thời điểm đó và cũng được đưa vào Book of the Foxrook.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-Seven_2-0" class="reference"><a href="#cite_note-Seven-2">[2]</a></sup>
+Các từ được viết bằng các ký hiệu tượng hình, "chuyên khảo" đại diện cho các từ hoặc đánh vần bằng bảng chữ cái mã ngữ âm. Tolkien lưu ý rằng Privata Kodo Skauta về mặt ngữ âm giống với [Esperanto](../E/Esperanto.md) (ngoại trừ sáu quy ước chính tả), điều mà cậu ấy cũng đang học vào thời điểm đó và cũng được đưa vào Sách của Foxrook.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-Seven_2-0" class="reference"><a href="#cite_note-Seven-2">[2]</a></sup>
 
 <span></span>
 

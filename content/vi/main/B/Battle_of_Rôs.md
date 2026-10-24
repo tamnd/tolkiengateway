@@ -14,19 +14,19 @@ sort_keys:
   "Conflicts in The Book of Lost Tales": "Battle of Ros"
 ---
 
-**Trận chiến Rôs** là một trận chiến vĩ đại giữa [Yêu tinh](../E/Elves.md) và [Orc](../O/Orcs.md), [Người lùn](../D/Dwarves.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> [Cồng](../G/Gongs.md) và một vài [Người](../M/Men.md) độc ác, theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) trong một số phác thảo dành cho sự tiếp tục của *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.<sup id="cite_ref-Ros_2-0" class="reference"><a href="#cite_note-Ros-2">[1]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup> Không có tường thuật chi tiết, đầy đủ về trận chiến vì nó chỉ được đề cập thoáng qua trong *Lost Tales*.
+**Trận Rôs** là một trận chiến lớn giữa [Tiên tộc](../E/Elves.md) và [Orc](../O/Orcs.md), [Người Lùn](../D/Dwarves.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> [Cồng chiêng](../G/Gongs.md) và một vài [Con Người](../M/Men.md) tà ác, theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) trong một số phác thảo về phần tiếp theo của *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.<sup id="cite_ref-Ros_2-0" class="reference"><a href="#cite_note-Ros-2">[1]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup> Không có tài liệu đầy đủ, chi tiết của trận chiến được đưa ra, vì nó chỉ được đề cập thoáng qua trong *Lost Tales*.
 
-Nó diễn ra gần mũi đất [Rôs](../R/Rôs.md) ở [Vùng đất vĩ đại](../G/Great_Lands.md) trong [Faring Forth](../F/Faring_Forth.md), và kết thúc trong thảm họa đối với Yêu tinh (cả đối với những người đã sống ở Vùng đất vĩ đại và Yêu tinh của [Tol Eressëa](../T/Tol_Eressëa.md) đã đến giải cứu họ), những người sau đó đã lẩn trốn và cuối cùng không còn xuất hiện trước hầu hết Con người.<sup id="cite_ref-Ros_2-1" class="reference"><a href="#cite_note-Ros-2">[1]</a></sup>
+Nó diễn ra gần mũi đất [Rôs](../R/Rôs.md) ở [Great Lands](../G/Great_Lands.md) trong [Faring Forth](../F/Faring_Forth.md), và kết thúc trong thảm họa đối với Tiên tộc (cả đối với những người đã sống ở Great Lands và Tiên tộc của [Tol Eressëa](../T/Tol_Eressëa.md) đã đến giải cứu họ), những người sau đó đã lẩn trốn và cuối cùng không còn bị hầu hết Con Người nhìn thấy.<sup id="cite_ref-Ros_2-1" class="reference"><a href="#cite_note-Ros-2">[1]</a></sup>
 
 ## Xem thêm {#See_also}
 
-- [Tiến lên](../F/Faring_Forth.md)
+- [Faring Forth](../F/Faring_Forth.md)
 - [Trận chiến trên mái nhà bầu trời](Battle_of_the_Heath_of_the_Sky-roof.md)
 
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Ở giai đoạn đầu của huyền thoại này, Người lùn được miêu tả một cách áp đảo dưới góc nhìn tiêu cực.</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Ở giai đoạn đầu của huyền thoại này, Người Lùn được miêu tả một cách áp đảo dưới ánh sáng tiêu cực.</span>
 </li>
 </ol></div></span>
 

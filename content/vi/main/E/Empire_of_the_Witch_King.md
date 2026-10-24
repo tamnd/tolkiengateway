@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Empire of the Witch-king"
 ---
 
-Chuyển hướng đến [Đế chế của Vua phù thủy](Empire_of_the_Witch-king.md).
+Chuyển hướng đến [Đế chế Vua Phù thủy](Empire_of_the_Witch-king.md).

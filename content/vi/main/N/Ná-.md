@@ -15,7 +15,7 @@ sort_keys:
   "Quenya verbs": "Na"
 ---
 
-**na** là động từ [Quenya](../Q/Quenya.md) có nghĩa là "trở thành".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**na** là động từ [Quenya](../Q/Quenya.md) của "to be".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Ngoài ra, *ná* có nghĩa là "đúng vậy"<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
@@ -90,4 +90,4 @@ Nhiều hình thức chứng thực khác nhau của "to be"<sup id="cite_ref-4"
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://www.phy.duke.edu/~trenk/elvish/to_be.html" rel="noreferrer noopener" target="_blank">Động từ tiếng Elf "to be"</a>
+- <a class="external text" href="http://www.phy.duke.edu/~trenk/elvish/to_be.html" rel="noreferrer noopener" target="_blank">Elvish động từ "to be"</a>

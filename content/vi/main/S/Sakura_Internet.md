@@ -14,7 +14,7 @@ categories:
   - "Video Game publishers"
 ---
 
-**Sakura Internet** (tiếng Nhật: さくらインターネット株式会社) là một công ty Nhật Bản, đã phát hành và vận hành [The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md) tại Nhật Bản.<sup id="cite_ref-LOTRO_Japan_1-0" class="reference"><a href="#cite_note-LOTRO_Japan-1">[1]</a></sup> Mặc dù phiên bản beta của trò chơi rất phổ biến nhưng<sup id="cite_ref-LOTRO_Japan_1-1" class="reference"><a href="#cite_note-LOTRO_Japan-1">[1]</a></sup> Sakura Internet cuối cùng đã đóng cửa các máy chủ Nhật Bản vào [30 tháng 9](../_/30_September.md) [2009](../_/2009.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Sakura Internet** (tiếng Nhật: さくらインターネット株式会社) là một công ty Nhật Bản, đã xuất bản và vận hành [The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md) tại Nhật Bản.<sup id="cite_ref-LOTRO_Japan_1-0" class="reference"><a href="#cite_note-LOTRO_Japan-1">[1]</a></sup> Mặc dù phiên bản beta của trò chơi rất phổ biến,<sup id="cite_ref-LOTRO_Japan_1-1" class="reference"><a href="#cite_note-LOTRO_Japan-1">[1]</a></sup> Sakura Internet cuối cùng đã đóng cửa các máy chủ Nhật Bản vào [30 tháng Chín](../_/30_September.md) [2009](../_/2009.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Xem thêm {#See_also}
 

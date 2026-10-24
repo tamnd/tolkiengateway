@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "John D. Rateliff"
 ---
 
-Chuyển hướng tới [John D. Rateliff](John_D._Rateliff.md).
+Chuyển hướng đến [John D. Rateliff](John_D._Rateliff.md).

@@ -16,7 +16,7 @@ images:
 
 **Một chiếc nhẫn** có thể đề cập đến:
 
-## Trung địa {#Middle-earth}
+## Trung Địa {#Middle-earth}
 
 - **[Một chiếc nhẫn](../O/One_Ring.md)**, Chiếc nhẫn thống trị được tạo bởi [Sauron](../S/Sauron.md)
 
@@ -33,7 +33,7 @@ images:
 
 ### Khác {#Other}
 
-- [TheOneRing.net](TheOneRing.net.md), một trang web chuyên về tin tức từ *[Peter Jackson](../P/Peter_Jackson.md)*s [*The Lord of the Rings* (loạt phim)](<The_Lord_of_the_Rings_(film_series).md>) và [*The Hobbit* (loạt phim)](<The_Hobbit_(film_series).md>)
+- [TheOneRing.net](TheOneRing.net.md), một trang web chuyên về tin tức từ *[Peter Jackson](../P/Peter_Jackson.md)'*s [*The Lord of the Rings* (loạt phim)](<The_Lord_of_the_Rings_(film_series).md>) và [*The Hobbit* (loạt phim)](<The_Hobbit_(film_series).md>)
 
 <hr style="margin-top:15px;"/>
 

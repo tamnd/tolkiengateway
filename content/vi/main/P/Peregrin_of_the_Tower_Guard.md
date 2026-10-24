@@ -35,7 +35,7 @@ infobox:
 
 ## Tóm tắt {#Synopsis}
 
-[Pippin](Pippin.md) ngồi trên băng ghế trong bộ đồng phục của [Đội bảo vệ Thành cổ](../G/Guards_of_the_Citadel.md) suy ngẫm về quyết định trung thành với [Denethor](../D/Denethor.md) và tự hỏi ông ta, một [hobbit](../H/Hobbit.md), có thể cống hiến cho [Quản gia](../D/Denethor.md) những gì. [Faramir](../F/Faramir.md) đi về phía ông ta và nói với ông ta rằng *"một hành động hào phóng không nên bị kiểm tra bằng lời khuyên lạnh lùng"*. Mỉm cười với Pippin, Faramir nói với anh rằng bộ đồ anh đang mặc từng là của anh khi anh còn nhỏ. Ông nói với người hobbit rằng [Boromir](../B/Boromir.md) luôn là một người lính và anh trai và cha ông rất giống nhau.
+[Pippin](Pippin.md) ngồi trên một chiếc ghế dài trong bộ đồng phục của [Đội Cận vệ Thành Trì](../G/Guards_of_the_Citadel.md) suy nghĩ về quyết định trung thành với [Denethor](../D/Denethor.md) của ông ta và tự hỏi ông ta, một [hobbit](../H/Hobbit.md), có thể phục vụ [Quản lý](../D/Denethor.md) như thế nào. [Faramir](../F/Faramir.md) đi về phía ông ta và nói với ông ta rằng *"một hành động hào phóng không nên bị kiểm tra bằng lời khuyên lạnh lùng"*. Mỉm cười với Pippin, Faramir nói với anh rằng bộ đồ anh đang mặc từng là của anh khi anh còn nhỏ. Ông ta nói với người hobbit rằng [Boromir](../B/Boromir.md) luôn là một người lính và anh trai và cha ông ta rất giống nhau.
 
 <blockquote class="tg-quote noexcerpt">
 <p>I think you have strength of a different kind. And one day, your father will see it.
@@ -45,7 +45,7 @@ infobox:
 
 ## Sự khác biệt {#Differences}
 
-Trong cuốn sách, chính Gandalf đã nói với Pippin rằng *"hành động hào phóng không nên bị kiểm tra bởi lời khuyên lạnh lùng"*, để đáp lại việc Pippin hỏi thầy phù thủy liệu ông ta có giận ông ta vì đã thề phục vụ Denethor hay không.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Trong sách, chính Gandalf đã nói với Pippin rằng *"hành động rộng lượng không nên bị kiểm tra bởi lời khuyên lạnh lùng"*, để đáp lại Pippin hỏi phù thủy liệu ông ta có giận ông ta vì đã thề phục vụ Denethor hay không.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

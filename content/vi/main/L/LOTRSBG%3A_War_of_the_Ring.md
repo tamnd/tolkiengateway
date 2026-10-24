@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "War of the Ring (2009 book)"
 ---
 
-Redirect to [War of the Ring (2009 book)](<../W/War_of_the_Ring_(2009_book).md>).
+Chuyển hướng tới [Cuộc chiến Nhẫn (sách 2009)](<../W/War_of_the_Ring_(2009_book).md>).

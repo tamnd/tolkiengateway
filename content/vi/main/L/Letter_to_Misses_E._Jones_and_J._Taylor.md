@@ -18,7 +18,7 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Misses_E._Jones_and_J._Taylor_20_October_1958.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/0/0c/Misses_E._Jones_and_J._Taylor_20_October_1958.jpg/300px-Misses_E._Jones_and_J._Taylor_20_October_1958.jpg" decoding="async" loading="lazy" width="300" height="204" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/0c/Misses_E._Jones_and_J._Taylor_20_October_1958.jpg/450px-Misses_E._Jones_and_J._Taylor_20_October_1958.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/0/0c/Misses_E._Jones_and_J._Taylor_20_October_1958.jpg/600px-Misses_E._Jones_and_J._Taylor_20_October_1958.jpg 2x" data-file-width="725" data-file-height="493"/></a><figcaption></figcaption></figure>
 
-Vào [20 tháng 10](../_/20_October.md) [1958](../_/1958.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) gửi các Cô E. Jones và J. Taylor**.<sup id="cite_ref-Sothebys_1-0" class="reference"><a href="#cite_note-Sothebys-1">[1]</a></sup>
+Vào [20 tháng 10](../_/20_October.md) [1958](../_/1958.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) gửi các cô E. Jones và J. Taylor**.<sup id="cite_ref-Sothebys_1-0" class="reference"><a href="#cite_note-Sothebys-1">[1]</a></sup>
 
 - **Mô tả:** 4 trang, 4to nhỏ, chữ ký.<sup id="cite_ref-Sothebys_1-1" class="reference"><a href="#cite_note-Sothebys-1">[1]</a></sup>
 

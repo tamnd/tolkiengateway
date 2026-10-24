@@ -12,7 +12,7 @@ categories:
   - "Noldorin locations"
 ---
 
-**Fangros** là một địa điểm không xác định, nơi [Gnomes](../G/Gnomes.md) đốt những con tàu bị đánh cắp của họ để ăn năn, trong [chuyến bay](../E/Exile_of_the_Noldor.md) của họ khỏi [Valinor](../V/Valinor.md), theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) trong một đoạn văn xuôi sau *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)* và trong *[The Lay of the Children of Húrin](../T/The_Lay_of_the_Children_of_Húrin.md)*.<sup id="cite_ref-Fan_1-0" class="reference"><a href="#cite_note-Fan-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Fangros** là một địa điểm không xác định, nơi [Gnomes](../G/Gnomes.md) đốt những con tàu bị đánh cắp của họ để ăn năn, trong [chuyến bay](../E/Exile_of_the_Noldor.md) của họ từ [Valinor](../V/Valinor.md), theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) trong một đoạn văn xuôi sau *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)* và trong *[The Lay of the Children of Húrin](../T/The_Lay_of_the_Children_of_Húrin.md)*.<sup id="cite_ref-Fan_1-0" class="reference"><a href="#cite_note-Fan-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 Tên trước đây của địa điểm này là *Fangair*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 

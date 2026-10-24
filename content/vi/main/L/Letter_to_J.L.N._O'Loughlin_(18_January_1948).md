@@ -17,12 +17,12 @@ sort_keys:
 
 Vào [18 tháng 1](../_/18_January.md) [1948](../_/1948.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) gửi J.L.N. O'Loughlin**.<sup id="cite_ref-CG_1-0" class="reference"><a href="#cite_note-CG-1">[1]</a></sup><sup id="cite_ref-Marq_2-0" class="reference"><a href="#cite_note-Marq-2">[2]</a></sup>
 
-- **Chủ đề:** Tolkien gửi lời cảm ơn tới O'Loughlin về bưu kiện của ông và viết về Trường Anh ngữ Oxford.<sup id="cite_ref-CG_1-1" class="reference"><a href="#cite_note-CG-1">[1]</a></sup>
+- **Chủ đề:** Tolkien gửi lời cảm ơn tới O'Loughlin về gói hàng của ông và viết về Oxford Trường Anh ngữ.<sup id="cite_ref-CG_1-1" class="reference"><a href="#cite_note-CG-1">[1]</a></sup>
 - **Xuất bản:** Mô tả và trích dẫn bức thư xuất hiện trong *[Paul C. Richards Autographs Catalogue 228](../P/Paul_C._Richards_Autographs_Catalogue_228.md)* và trong *[The J.R.R. Tolkien Companion and Guide: Chronology](../T/The_J.R.R._Tolkien_Companion_and_Guide.md)*.
 
 ## Trích {#Excerpt}
 
-\[Trường Anh ngữ Oxford có ít nhiều ba giáo sư tích cực và nên tiếp tục;\] "*nhưng tôi cảm thấy mệt mỏi hoặc bất bình và nghĩ rằng Oxford sẽ là một nơi tuyệt vời để rời xa!*"<sup id="cite_ref-CG_1-2" class="reference"><a href="#cite_note-CG-1">[1]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+\[Trường Anh ngữ Oxford có ít nhiều ba giáo sư tích cực và nên tiếp tục;\] "*nhưng tôi cảm thấy mệt mỏi hoặc bất mãn và nghĩ rằng Oxford sẽ là một nơi tuyệt vời để rời xa!*"<sup id="cite_ref-CG_1-2" class="reference"><a href="#cite_note-CG-1">[1]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Xem thêm {#See_also}
 

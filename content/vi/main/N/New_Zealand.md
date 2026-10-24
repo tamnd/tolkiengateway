@@ -26,17 +26,17 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Real-life country</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>New Zealand</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>General Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Other names</th><td class="tg-infobox-data">Aotearoa (Māori)</td></tr><tr><th scope="row" class="tg-infobox-label">Type</th><td class="tg-infobox-data">Real-life country</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Map</span></th></tr><tr><td colspan="2" class="tg-infobox-data"><div id="map_leaflet_1" style="width: 300px; height: 250px; background-color: #eeeeee; overflow: hidden;" class="maps-map maps-leaflet"><div class="maps-loading-message">Loading map...</div><div style="display:none" class="mapdata">{&#34;minzoom&#34;:false,&#34;maxzoom&#34;:false,&#34;mappingservice&#34;:&#34;leaflet&#34;,&#34;width&#34;:&#34;300px&#34;,&#34;height&#34;:&#34;250px&#34;,&#34;centre&#34;:{&#34;text&#34;:&#34;&#34;,&#34;title&#34;:&#34;&#34;,&#34;link&#34;:&#34;&#34;,&#34;lat&#34;:-41.5000831,&#34;lon&#34;:172.8344077,&#34;icon&#34;:&#34;&#34;},&#34;title&#34;:&#34;&#34;,&#34;label&#34;:&#34;&#34;,&#34;icon&#34;:&#34;&#34;,&#34;lines&#34;:[],&#34;polygons&#34;:[],&#34;circles&#34;:[],&#34;rectangles&#34;:[],&#34;copycoords&#34;:false,&#34;static&#34;:false,&#34;zoom&#34;:4,&#34;defzoom&#34;:14,&#34;layers&#34;:[&#34;OpenStreetMap&#34;],&#34;image layers&#34;:[],&#34;overlays&#34;:[],&#34;resizable&#34;:false,&#34;fullscreen&#34;:false,&#34;scrollwheelzoom&#34;:true,&#34;cluster&#34;:false,&#34;clustermaxzoom&#34;:20,&#34;clusterzoomonclick&#34;:true,&#34;clustermaxradius&#34;:80,&#34;clusterspiderfy&#34;:true,&#34;geojson&#34;:&#34;&#34;,&#34;clicktarget&#34;:&#34;&#34;,&#34;imageLayers&#34;:[],&#34;locations&#34;:[],&#34;imageoverlays&#34;:null}</div></div></td></tr></tbody></table>
 
-**New Zealand** là một quốc đảo ở phía tây nam Thái Bình Dương. Biển Tasman, một vùng biển cận biên của Nam Thái Bình Dương, nằm ở phía tây, ngăn cách nước này với Australia. Đây là địa điểm quay phim chính cho [*The Lord of the Rings* (loạt phim)](<../T/The_Lord_of_the_Rings_(film_series).md>), [*The Hobbit* (loạt phim)](<../T/The_Hobbit_(film_series).md>) và mùa đầu tiên của *[The Lord of the Rings: The Rings of Power](../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)*.
+**New Zealand** là một quốc đảo ở phía tây nam Thái Bình Dương. Tasman Biển, một vùng biển cận biên của Nam Thái Bình Dương, nằm ở phía tây, ngăn cách với Australia. Đây là địa điểm quay phim chính cho [*The Lord of the Rings* (loạt phim)](<../T/The_Lord_of_the_Rings_(film_series).md>), [*The Hobbit* (loạt phim)](<../T/The_Hobbit_(film_series).md>) và mùa đầu tiên của *[The Lord of the Rings: The Rings of Power](../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)*.
 
-Giám đốc [Peter Jackson](../P/Peter_Jackson.md) sống ở [Wellington](../W/Wellington.md), thủ đô của New Zealand và [Wētā Workshop](../W/Wētā_Workshop.md) cũng đặt tại đó.
+Giám đốc [Peter Jackson](../P/Peter_Jackson.md) sống ở [Wellington](../W/Wellington.md), thủ đô của New Zealand và [Wētā Workshop](../W/Wētā_Workshop.md) cũng nằm ở đó.
 
-## Sự phù hợp với Trung Địa {#Suitability_as_Middle-earth}
+## Sự phù hợp như Trung Địa {#Suitability_as_Middle-earth}
 
-Bất chấp thành công vang dội của các bộ phim, việc lựa chọn New Zealand không phải là không gây tranh cãi. Nhà báo Ed Power cho rằng “New Zealand đẹp như bưu thiếp” thiếu “dấu hiệu suy tàn” đặc trưng của Trung Địa.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Bất chấp thành công vang dội của các bộ phim, việc lựa chọn New Zealand không phải là không gây tranh cãi. Nhà báo Ed Power cho rằng “thiệp đẹp New Zealand” thiếu “dấu hiệu suy tàn” mang dấu ấn Trung Địa.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Du lịch {#Tourism}
 
-Ngoài việc trợ cấp khoảng 150 triệu USD cho bộ ba phim về Peter Jackson, chính phủ New Zealand còn nhiều lần đầu tư vào các chiến dịch du lịch để lôi kéo khách du lịch đến thăm các địa điểm quay phim. <sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Ngoài việc trợ cấp cho bộ ba phim Peter Jackson khoảng 150 triệu USD, chính phủ New Zealand đã nhiều lần đầu tư vào các chiến dịch du lịch để lôi kéo khách du lịch đến thăm các địa điểm quay phim. <sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Địa điểm quay phim {#Filming_locations}
 
@@ -47,7 +47,7 @@ Ngoài việc trợ cấp khoảng 150 triệu USD cho bộ ba phim về Peter J
 ## Xem thêm {#See_also}
 
 - [Thể loại:New Zealand](../../category/N/New_Zealand.md), bài viết về New Zealand.
-- [New Zealand là Trung địa](New_Zealand_as_Middle-earth.md)
+- [New Zealand là Trung Địa](New_Zealand_as_Middle-earth.md)
 
 ## Liên kết ngoài {#External_links}
 

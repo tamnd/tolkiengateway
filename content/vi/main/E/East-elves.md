@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Avari"
 ---
 
-Chuyển hướng tới [Avari](../A/Avari.md).
+Chuyển hướng đến [Avari](../A/Avari.md).

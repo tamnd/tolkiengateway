@@ -45,17 +45,17 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Simon_Tolkien.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b2/Simon_Tolkien.jpg/320px-Simon_Tolkien.jpg" decoding="async" loading="lazy" width="320" height="184" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b2/Simon_Tolkien.jpg/480px-Simon_Tolkien.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/b/b2/Simon_Tolkien.jpg/640px-Simon_Tolkien.jpg 2x" data-file-width="950" data-file-height="547"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Simon Tolkien</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Born</th><td class="tg-infobox-data"><a href="../_/12_January.md" title="12 January">12 January</a> <a href="../_/1959.md" title="1959">1959</a></td></tr><tr><th scope="row" class="tg-infobox-label">Education</th><td class="tg-infobox-data"><a class="extiw" href="http://en.wikipedia.org/wiki/Trinity_College,_Oxford" title="wikipedia:Trinity College, Oxford">Trinity College</a>, <a href="../U/University_of_Oxford.md" title="University of Oxford">Oxford</a></td></tr><tr><th scope="row" class="tg-infobox-label">Occupation</th><td class="tg-infobox-data">Author, barrister</td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">Southern California</td></tr><tr><th scope="row" class="tg-infobox-label">Website</th><td class="tg-infobox-data"><a class="external text" href="http://www.simontolkien.com/" rel="noreferrer noopener" target="_blank">SimonTolkien.com</a></td></tr></tbody></table>
 
-**Simon Mario Reuel Tolkien** (sinh [12 tháng 1](../_/12_January.md) [1959](../_/1959.md)) là con trai cả của [Christopher Tolkien](../C/Christopher_Tolkien.md) và cháu trai của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Anh là đứa con duy nhất trong cuộc hôn nhân đầu tiên của Christopher với [Faith Faulconbridge](../F/Faith_Tolkien.md). Kể từ [2011](../_/2011.md), ông đã giữ vai trò giám đốc của [Tolkien Estate](../T/Tolkien_Estate.md) cùng với [Baillie Tolkien](../B/Baillie_Tolkien.md), [Michael George Tolkien](../M/Michael_George_Tolkien.md) và <a class="new" href="https://tolkiengateway.net/w/index.php?title=Steven_Maier&amp;action=edit&amp;redlink=1" title="Steven Maier (page does not exist)">Steven Maier</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Simon Mario Reuel Tolkien** (sinh [12 tháng 1](../_/12_January.md) [1959](../_/1959.md)) là con trai cả của [Christopher Tolkien](../C/Christopher_Tolkien.md) và cháu trai của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Ông là con duy nhất trong cuộc hôn nhân đầu tiên của Christopher với [Faith Faulconbridge](../F/Faith_Tolkien.md). Kể từ [2011](../_/2011.md), ông đã giữ vai trò giám đốc của [Tolkien Estate](../T/Tolkien_Estate.md) cùng với [Baillie Tolkien](../B/Baillie_Tolkien.md), [Michael George Tolkien](../M/Michael_George_Tolkien.md) và <a class="new" href="https://tolkiengateway.net/w/index.php?title=Steven_Maier&amp;action=edit&amp;redlink=1" title="Steven Maier (page does not exist)">Steven Maier</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Tiểu sử {#Biography}
 
-Simon Tolkien học lịch sử hiện đại tại <a class="extiw" href="http://en.wikipedia.org/wiki/Trinity_College,_Oxford" title="wikipedia:Trinity College, Oxford">Trinity College</a> thuộc [Đại học Oxford](../U/University_of_Oxford.md). Sau đó, anh bắt đầu sự nghiệp kéo dài 15 năm với tư cách là luật sư hình sự và trở thành <a class="extiw" href="http://en.wikipedia.org/wiki/Barrister" title="wikipedia:Barrister">luật sư</a> ở [1994](../_/1994.md).
+Simon Tolkien học lịch sử hiện đại tại <a class="extiw" href="http://en.wikipedia.org/wiki/Trinity_College,_Oxford" title="wikipedia:Trinity College, Oxford">Trinity College</a> ở [Đại học Oxford](../U/University_of_Oxford.md). Sau đó, anh bắt đầu sự nghiệp kéo dài 15 năm với tư cách là luật sư hình sự và trở thành <a class="extiw" href="http://en.wikipedia.org/wiki/Barrister" title="wikipedia:Barrister">luật sư</a> ở [1994](../_/1994.md).
 
-Năm [1984](../_/1984.md), anh kết hôn với Tracy Steinberg, một người Do Thái.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Steinberg sở hữu và điều hành một cửa hàng quần áo cổ điển ở Chelsea, London, tên là *Steinberg &amp; Tolkien*, đã đóng cửa vào [tháng 9](September.md) năm [2007](../_/2007.md). Sau đó, Tolkien chuyển đến Nam California cùng vợ và hai con.<sup id="cite_ref-life_3-0" class="reference"><a href="#cite_note-life-3">[3]</a></sup>
+Năm [1984](../_/1984.md), anh kết hôn với Tracy Steinberg, một người Do Thái.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Steinberg sở hữu và điều hành một cửa hàng quần áo cổ điển ở Chelsea, London, có tên là *Steinberg &amp; Tolkien*, đã đóng cửa vào [tháng Chín](September.md) trong số [2007](../_/2007.md). Sau đó, Tolkien chuyển đến Nam California cùng vợ và hai con.<sup id="cite_ref-life_3-0" class="reference"><a href="#cite_note-life-3">[3]</a></sup>
 
-Vào [tháng 1](../J/January.md) của [2000](../_/2000.md), Simon Tolkien bắt đầu viết tiểu thuyết.<sup id="cite_ref-life_3-1" class="reference"><a href="#cite_note-life-3">[3]</a></sup> Cuốn tiểu thuyết đầu tiên của Tolkien, *The Stepmother* (xuất bản ở Hoa Kỳ với tên *Final Witness: A Novel*), được xuất bản năm 2003. *The Inheritance: A Novel*, cuốn sách thứ hai của ông, được xuất bản vào ngày 13 tháng 4 năm 2010 bởi Minotaur Books.
+Vào [tháng 1](../J/January.md) của [2000](../_/2000.md), Simon Tolkien bắt đầu viết tiểu thuyết.<sup id="cite_ref-life_3-1" class="reference"><a href="#cite_note-life-3">[3]</a></sup> Tolkien cuốn tiểu thuyết đầu tiên của ông, *The Stepmother* (xuất bản ở Hoa Kỳ với tên *Final Witness: A Novel*), được xuất bản năm 2003. *The Inheritance: A Novel*, cuốn sách thứ hai của ông, được xuất bản vào ngày 13 tháng 4 năm 2010 bởi Minotaur Books.
 
-Simon Tolkien không đồng ý với chính sách [tài sản của ông nội](../T/Tolkien_Estate.md) khi đó về việc chuyển thể các tác phẩm của ông nội mình. Kết quả là ông có mối quan hệ căng thẳng với cha mình về điểm đó,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> tuy nhiên sau đó họ đã hòa giải.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Simon Tolkien không đồng ý với chính sách lúc bấy giờ về [tài sản của ông nội](../T/Tolkien_Estate.md) về việc chuyển thể các tác phẩm của ông nội mình. Kết quả là ông có mối quan hệ căng thẳng với cha mình về điểm đó,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> tuy nhiên sau đó họ đã hòa giải.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 Ông đã được tư vấn về việc phát triển loạt phim truyền hình [The Lord of the Rings: The Rings of Power](../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md) và ông đã giúp phát triển câu chuyện cũng như các tuyến nhân vật. Kết quả là ông được ghi nhận là "nhà tư vấn hàng loạt".<sup id="cite_ref-SimonTolkien_6-0" class="reference"><a href="#cite_note-SimonTolkien-6">[6]</a></sup>
 
@@ -80,7 +80,7 @@ Simon Tolkien không đồng ý với chính sách [tài sản của ông nội]
 - [2011](../_/2011.md): *The King of Diamonds*
 - [2012](../_/2012.md): *Orders from Berlin: A Thriller*
 - [2017](../_/2017.md): *No Man's Land: A Novel*
-- [2025](../_/2025.md): *Cung điện cuối biển: Tiểu thuyết*
+- [2025](../_/2025.md): *Cung điện ở cuối Biển: Tiểu thuyết*
 - [2025](../_/2025.md): *Căn phòng lạc bước: Tiểu thuyết*
 
 ### Bài viết {#Articles}
@@ -94,28 +94,28 @@ Simon Tolkien không đồng ý với chính sách [tài sản của ông nội]
 - [2022](../_/2022.md): *[J.R.R. Tolkien: The Art of the Manuscript](../J/J.R.R._Tolkien%253A_The_Art_of_the_Manuscript.md) (ấn bản thứ hai)*
     - "Nghệ thuật viết chữ"
 - [2025](../_/2025.md): *The Catholic Herald*, ngày 9 tháng 10 năm 2025
-    - <a class="external text" href="https://thecatholicherald.com/article/a-world-without-god-or-state" rel="noreferrer noopener" target="_blank">"Cuộc sống không có Chúa: cháu trai của JRR Tolkien về việc mất đức tin của chính mình đã định hình tiểu thuyết về Công giáo của ông như thế nào"</a>
+    - <a class="external text" href="https://thecatholicherald.com/article/a-world-without-god-or-state" rel="noreferrer noopener" target="_blank">"Cuộc sống không có Chúa: cháu trai của JRR Tolkien về việc đánh mất đức tin của chính mình đã định hình các tiểu thuyết về Công giáo của ông như thế nào"</a>
 
 ### Phỏng vấn {#Interviews}
 
 - [2003](../_/2003.md): *The Telegraph*, ngày 23 tháng 2 năm 2003
-    - "<a class="external text" href="http://www.telegraph.co.uk/news/uknews/1422943/J-R-R-Tolkiens-grandson-cut-off-from-literary-inheritance.html" rel="noreferrer noopener" target="_blank">Cháu trai của J R R Tolkien 'bị cắt quyền thừa kế văn học'</a>" (bởi Chris Hastings)
+    - "<a class="external text" href="http://www.telegraph.co.uk/news/uknews/1422943/J-R-R-Tolkiens-grandson-cut-off-from-literary-inheritance.html" rel="noreferrer noopener" target="_blank">cháu trai của J R R Tolkien'bị cắt quyền thừa kế văn học'</a>" (bởi Chris Hastings)
 - [2010](../_/2010.md): Tạp chí Festival Mỹ thuật và Sách, số 5 (tháng 5/2010)
-    - "<a class="external text" href="https://www.festivalartandbooks.com/journal5hts/5intstolkein.html" rel="noreferrer noopener" target="_blank">Phỏng vấn Simon Tolkien</a> " (bởi [Alex Lewis](../A/Alex_Lewis.md))
+    - "<a class="external text" href="https://www.festivalartandbooks.com/journal5hts/5intstolkein.html" rel="noreferrer noopener" target="_blank">Phỏng vấn Simon Tolkien</a> " (của [Alex Lewis](../A/Alex_Lewis.md))
 - [2010](../_/2010.md): Đài phát thanh công cộng Đông Bắc WAMC, ngày 18 tháng 5 năm 2010
-    - "*Âm thanh Buổi triển lãm sách #1139 - Simon Tolkien*<sup class="noprint" style="line-height: 0.4em;">[<a href="../../project/M/Manual_of_Style.md#Redlinks" title="Tolkien Gateway:Manual of Style"><i>former link</i></a>]</sup>
+    - "*Âm thanh Buổi trình diễn sách #1139 - Simon Tolkien*<sup class="noprint" style="line-height: 0.4em;">[<a href="../../project/M/Manual_of_Style.md#Redlinks" title="Tolkien Gateway:Manual of Style"><i>former link</i></a>]</sup>
 - [2010](../_/2010.md): *[Mythprint](../M/Mythprint.md)* tập. 47, không. 6
-    - "<a class="external text" href="https://www.mythsoc.org/reviews/interview-simon-tolkien.htm" rel="noreferrer noopener" target="_blank">Phỏng vấn Simon Tolkien</a>" (bởi [Jason Fisher](../J/Jason_Fisher.md))
+    - "<a class="external text" href="https://www.mythsoc.org/reviews/interview-simon-tolkien.htm" rel="noreferrer noopener" target="_blank">Phỏng vấn Simon Tolkien</a>" (của [Jason Fisher](../J/Jason_Fisher.md))
 - [2010](../_/2010.md): [*Mallorn* 50](../M/Mallorn_50.md)
-    - "Người đàn ông bí ẩn" (của [Mike Foster](../M/Mike_Foster.md))
+    - "Người đàn ông bí ẩn" (bởi [Mike Austin Foster](../M/Mike_Foster.md))
 - [2012](../_/2012.md): *The Telegraph* ngày 18 tháng 11 năm 2012
-    - "<a class="external text" href="http://www.telegraph.co.uk/culture/books/booknews/9686451/Simon-Tolkien-JRR-Tolkiens-grandson-admits-Lord-of-the-Rings-trauma.html" rel="noreferrer noopener" target="_blank">Cháu trai của Simon Tolkien JRR Tolkien thừa nhận chấn thương trong Chúa tể những chiếc nhẫn</a>" (của Andrew Hough)
+    - "<a class="external text" href="http://www.telegraph.co.uk/culture/books/booknews/9686451/Simon-Tolkien-JRR-Tolkiens-grandson-admits-Lord-of-the-Rings-trauma.html" rel="noreferrer noopener" target="_blank">Simon Tolkien Cháu trai của JRR Tolkien thừa nhận chấn thương trong Chúa tể những chiếc nhẫn</a>" (của Andrew Hough)
 - [2012](../_/2012.md): *The Guardian*, ngày 24 tháng 11 năm 2012
-    - "<a class="external text" href="http://www.theguardian.com/lifeandstyle/2012/nov/24/simon-tolkien-jrr-tolkien-hobbit" rel="noreferrer noopener" target="_blank">'Là cháu trai của Tolkien đã cản trở việc viết của tôi ..."</a> (bởi Joanna Moorhead)
+    - "<a class="external text" href="http://www.theguardian.com/lifeandstyle/2012/nov/24/simon-tolkien-jrr-tolkien-hobbit" rel="noreferrer noopener" target="_blank">'Là cháu trai của Tolkien đã chặn bài viết của tôi ..."</a> (bởi Joanna Moorhead)
 - [2017](../_/2017.md): *[The Prancing Pony Podcast](../T/The_Prancing_Pony_Podcast.md)*
-    - <a class="external text" href="https://theprancingponypodcast.com/2017/04/02/037-no-mans-land-an-interview-with-simon-tolkien/" rel="noreferrer noopener" target="_blank">No Man's Land: Cuộc phỏng vấn với Simon Tolkien</a> (âm thanh)
+    - <a class="external text" href="https://theprancingponypodcast.com/2017/04/02/037-no-mans-land-an-interview-with-simon-tolkien/" rel="noreferrer noopener" target="_blank">No Man's Land: Phỏng vấn Simon Tolkien</a> (âm thanh)
 - [2025](../_/2025.md): *Rock, Paper, Swords!* Podcast
-    - <a class="external text" href="https://www.youtube.com/watch?v=6waZocokC5s" rel="noreferrer noopener" target="_blank">Simon Tolkien: Tiểu thuyết Nội chiến Tây Ban Nha, Những chiếc nhẫn quyền lực & Di sản của J.R.R. Tolkien</a>
+    - <a class="external text" href="https://www.youtube.com/watch?v=6waZocokC5s" rel="noreferrer noopener" target="_blank">Simon Tolkien: Tiểu thuyết Nội chiến Tây Ban Nha, Những Chiếc Nhẫn Quyền Năng & Di sản của J.R.R. Tolkien</a>
 
 ## Liên kết ngoài {#External_links}
 

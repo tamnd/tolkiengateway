@@ -18,11 +18,11 @@ sort_keys:
   "People by name": "Singleton, Mike"
 ---
 
-**Mike Singleton** (tên khai sinh [1951](../_/1951.md)) là nhà phát triển trò chơi điện tử *[Shadowfax](<../S/Shadowfax_(video_game).md>)*<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-World_of_Spectrum_2-0" class="reference"><a href="#cite_note-World_of_Spectrum-2">[2]</a></sup> và *[War in Middle Earth](../W/War_in_Middle_Earth.md)*.<sup id="cite_ref-World_of_Spectrum_2-1" class="reference"><a href="#cite_note-World_of_Spectrum-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Mike Singleton ban đầu là giáo viên tiếng Anh<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> nhưng quyết định trở thành nhà thiết kế trò chơi.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Đầu tiên anh làm việc cho [Postern](../P/Postern.md) nhưng sau đó chuyển sang [Nhà Melbourne](Melbourne_House.md).
+**Mike Austin Singleton** (tên khai sinh [1951](../_/1951.md)) là nhà phát triển trò chơi điện tử *[Shadowfax](<../S/Shadowfax_(video_game).md>)*<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-World_of_Spectrum_2-0" class="reference"><a href="#cite_note-World_of_Spectrum-2">[2]</a></sup> và *[War in Middle Earth](../W/War_in_Middle_Earth.md)*.<sup id="cite_ref-World_of_Spectrum_2-1" class="reference"><a href="#cite_note-World_of_Spectrum-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Mike Austin Singleton ban đầu là giáo viên tiếng Anh<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> nhưng quyết định trở thành nhà thiết kế trò chơi.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Lần đầu tiên anh làm việc cho [Postern](../P/Postern.md) nhưng sau đó đã chuyển đổi tới [Nhà Melbourne](Melbourne_House.md).
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="extiw" href="http://en.wikipedia.org/wiki/Mike_Singleton" title="wikipedia:Mike Singleton">Mike Singleton</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
+- <a class="extiw" href="http://en.wikipedia.org/wiki/Mike_Singleton" title="wikipedia:Mike Singleton">Mike Austin Singleton</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
 
 <span></span>
 

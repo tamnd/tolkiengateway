@@ -58,11 +58,11 @@ Nó đến từ [PQ](../P/PQ.md) [root](../R/Root.md) <a class="new" href="https
 ## Có cùng nguồn gốc {#Cognates}
 
 - [Telerin](../T/Telerin.md) *[otos](Otos.md)(o)*
-- [Tiếng Sindarin](../S/Sindarin.md) *[odog](Odog.md)*
+- [Sindarin](../S/Sindarin.md) *[odog](Odog.md)*
 
 ## Cảm hứng {#Inspiration}
 
-Otso là một trong nhiều từ dành cho *karhu* ("gấu") trong tiếng Phần Lan. Karhu cũng là tên của nhân vật [Gấu Bắc Cực](../N/North_Polar_Bear.md) thường xuyên xuất hiện trong *[Letters from Father Christmas](../L/Letters_from_Father_Christmas.md)* mà Tolkien đã viết cho các con của mình trong những năm 1920-1943.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
+Otso là một trong nhiều từ dành cho *karhu* ("gấu") trong tiếng Phần Lan. Karhu cũng là tên của nhân vật [North Polar Bear](../N/North_Polar_Bear.md) thường xuyên xuất hiện trong *[Letters from Father Christmas](../L/Letters_from_Father_Christmas.md)* mà Tolkien viết cho các con của ông trong những năm 1920-1943.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

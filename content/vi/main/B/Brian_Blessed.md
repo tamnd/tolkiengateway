@@ -22,13 +22,13 @@ images:
 
 <figure class="mw-halign-right" typeof="mw:File"><a class="mw-file-description" href="../../file/B/Brian_Blessed.png.md"><img src="https://tolkiengateway.net/w/images/thumb/f/f4/Brian_Blessed.png/200px-Brian_Blessed.png" decoding="async" loading="lazy" width="200" height="277" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f4/Brian_Blessed.png/300px-Brian_Blessed.png 1.5x, https://tolkiengateway.net/w/images/thumb/f/f4/Brian_Blessed.png/400px-Brian_Blessed.png 2x" data-file-width="435" data-file-height="602"/></a><figcaption></figcaption></figure>
 
-**Brian Bless** ([9 tháng 10](../_/9_October.md), [1937](../_/1937.md)) là một diễn viên người Anh. May mắn, nổi tiếng với bộ râu đỏ lớn, đã đóng vai [Nông dân Giles](../F/Farmer_Giles.md) có bộ râu đỏ tương tự trong [*Tales from the Perilous Realm* loạt phim phát thanh](<../T/Tales_from_the_Perilous_Realm_(1992_radio_series).md>).
+**Brian Bless** ([9 tháng 10](../_/9_October.md), [1937](../_/1937.md)) là một diễn viên người Anh. May mắn, nổi tiếng với bộ râu đỏ lớn, đóng vai [Farmer Giles](../F/Farmer_Giles.md) râu đỏ tương tự trong [*Tales from the Perilous Realm* loạt phim phát thanh](<../T/Tales_from_the_Perilous_Realm_(1992_radio_series).md>).
 
 May mắn đã đột phá với vai Cảnh sát Constable Smith trong loạt phim dài tập về cảnh sát <i><a class="extiw" href="http://en.wikipedia.org/wiki/Z-Cars" title="wikipedia:Z-Cars">Z-Cars</a></i>, và sau đó, hầu hết các vai diễn của anh đều bị ảnh hưởng bởi ngoại hình và giọng nói oai nghiêm của anh. Anh xuất hiện trong <i><a class="extiw" href="http://en.wikipedia.org/wiki/I,_Claudius_(TV_series)" title="wikipedia:I, Claudius (TV series)">I, Claudius</a></i>, đóng vai người kể chuyện tại *[Jackanory](../J/Jackanory.md)*, đóng vai <a class="extiw" href="http://en.wikipedia.org/wiki/Richard_IV_of_England_(Blackadder)" title="wikipedia:Richard IV of England (Blackadder)">Vua Richard IV</a> trong <a class="extiw" href="http://en.wikipedia.org/wiki/blackadder" title="wikipedia:blackadder">Blackadder</a>và nhiều màn trình diễn mang tính biểu tượng khác. Ban đầu có tin đồn rằng Phước sẽ được mời đóng một vai trong [*The Hobbit* loạt phim](<../T/The_Hobbit_(film_series).md>),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> nhưng điều này sau đó được chứng minh là vô căn cứ.
 
 ## Vai trò {#Roles}
 
-- [1992](../_/1992.md): [*Tales from the Perilous Realm* (loạt phim phát thanh năm 1992)](<../T/Tales_from_the_Perilous_Realm_(1992_radio_series).md>): [Nông dân Giles](../F/Farmer_Giles.md)
+- [1992](../_/1992.md): [*Tales from the Perilous Realm* (loạt phim phát thanh năm 1992)](<../T/Tales_from_the_Perilous_Realm_(1992_radio_series).md>): [Farmer Giles](../F/Farmer_Giles.md)
 
 ## Liên kết ngoài {#External_links}
 

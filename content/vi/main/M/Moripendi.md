@@ -12,7 +12,7 @@ categories:
   - "Telerin nouns"
 ---
 
-**Moripendi** là một thuật ngữ [Telerin](../T/Telerin.md) dành cho [Yêu tinh bóng tối](../D/Dark_Elves.md), cụ thể là [Avari](../A/Avari.md), do nó không được Teleri áp dụng cho họ hàng Eldarin của họ ở [Trung địa](Middle-earth.md) ([Sindar](../S/Sindar.md) và [Nandor](../N/Nandor.md)).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Moripendi** là một thuật ngữ [Telerin](../T/Telerin.md) dành cho [Tiên Hắc Ám](../D/Dark_Elves.md), cụ thể là [Avari](../A/Avari.md), vì nó không được Teleri áp dụng cho Eldarin họ hàng của chúng trong [Trung Địa](Middle-earth.md) ([Sindar](../S/Sindar.md) và [Nandor](../N/Nandor.md)).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -21,7 +21,7 @@ categories:
 ## Có cùng nguồn gốc {#Cognates}
 
 - [Quenya](../Q/Quenya.md) *[Moriquendi](Moriquendi.md)*
-- [Tiếng Sindarin](../S/Sindarin.md) *[Morben](Morben.md)*
+- [Sindarin](../S/Sindarin.md) *[Morben](Morben.md)*
 
 <span></span>
 

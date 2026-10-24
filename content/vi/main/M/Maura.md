@@ -12,21 +12,21 @@ categories:
   - "Hobbitish names"
 ---
 
-**Maura** là một cái tên [Hobbitish](../H/Hobbitish.md) có lẽ có nghĩa là "kinh nghiệm, khôn ngoan".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Maura** là cái tên [Hobbitish](../H/Hobbitish.md) có lẽ có nghĩa là "kinh nghiệm, khôn ngoan".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Đó là tên đầu tiên của [Maura Labingi](../F/Frodo_Baggins.md).
 
 ## Từ nguyên {#Etymology}
 
-Từ này có nét tương đồng với [Rohanese](../R/Rohanese.md) *maur* cổ xưa có nghĩa là "có kinh nghiệm". Nó có thể đến từ gốc [Mannish](Mannish.md) \*MUR
+Từ này có nét tương đồng với từ cổ xưa [Rohanese](../R/Rohanese.md) *maur* có nghĩa là "có kinh nghiệm". Nó có thể đến từ gốc [Mannish](Mannish.md) \*MUR
 
 ## Bản dịch {#Translations}
 
-- [Tiếng Sindarin](../S/Sindarin.md) *[Iorhael](../I/Iorhael.md)*
+- [Sindarin](../S/Sindarin.md) *[Iorhael](../I/Iorhael.md)*
 
 ## Cảm hứng {#Inspiration}
 
-Bản dịch tiếng Anh "[Frodo](../F/Frodo_Baggins.md)" bắt nguồn từ [tiếng Anh cổ](../O/Old_English.md) *fród* có nghĩa là "khôn ngoan theo kinh nghiệm" <span></span>
+Bản dịch tiếng Anh “[Frodo](../F/Frodo_Baggins.md)” bắt nguồn từ [tiếng Anh cổ](../O/Old_English.md) *fród* có nghĩa là “khôn ngoan bằng kinh nghiệm” <span></span>
 
 ## Tài liệu tham khảo {#References}
 

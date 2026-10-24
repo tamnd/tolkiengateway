@@ -16,9 +16,9 @@ images:
 
 **Rog** có thể đề cập đến:
 
-- [Rog Hạm đội](Rog_the_Fleet.md), tên Orc đặt cho [Egnor](../B/Barahir.md)
-- **[Rog](Rog.md), tên của một vị thần tiên của [Gondolin](../G/Gondolin.md)**
-- [Róg](Rógin.md), từ [Rohanese](Rohanese.md) để chỉ [Wose](../W/Woses.md)
+- [Rog Hạm đội](Rog_the_Fleet.md), tên Orc' của [Egnor](../B/Barahir.md)
+- **[Rog](Rog.md), tên của một Tiên-lãnh chúa của [Gondolin](../G/Gondolin.md)**
+- [Róg](Rógin.md), từ [Rohanese](Rohanese.md) chỉ [Wose](../W/Woses.md)
 - *rog* hoặc *[raug](Raug.md)*, một từ [Sindarin](../S/Sindarin.md) có nghĩa là '[quỷ](../D/Demons.md)'
 
 <hr style="margin-top:15px;"/>

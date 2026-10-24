@@ -13,7 +13,7 @@ categories:
   - "British businesses"
 ---
 
-**Gad Games** là nhà phát hành và quản lý trò chơi của [Middle-earth Play-By-Mail](../M/Middle-earth_Play-By-Mail.md) ở Vương quốc Anh cho đến [1995](../_/1995.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Gad Games** là nhà phát hành và quản lý trò chơi của [Trung Địa Play-By-Mail](../M/Middle-earth_Play-By-Mail.md) ở Vương quốc Anh cho đến [1995](../_/1995.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

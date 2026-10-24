@@ -13,11 +13,11 @@ categories:
   - "Sindarin demonyms"
 ---
 
-<i><b>Peredhil</b></i> (IPA: \['pɛrɛðilʲ\])(sing. <i><b>Peredhel</b></i> (IPA: \['pɛrɛðɛlʲ\])) là tên của "[Half-elven](../H/Half-elven.md)" ở [Sindarin](../S/Sindarin.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-App_2-0" class="reference"><a href="#cite_note-App-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> [Elrond Half-elven](../E/Elrond.md) và [Elros Tar-Minyatur](../E/Elros.md) được đặt tên là Peredhil.
+<i><b>Peredhil</b></i> (IPA: \['pɛrɛðilʲ\])(sing. <i><b>Peredhel</b></i> (IPA: \['pɛrɛðɛlʲ\])) là tên của "[Half-elven](../H/Half-elven.md)" trong [Sindarin](../S/Sindarin.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-App_2-0" class="reference"><a href="#cite_note-App-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> [Elrond Half-elven](../E/Elrond.md) và [Elros Tar-Minyatur](../E/Elros.md) được đặt tên là Peredhil.
 
 ## Từ nguyên {#Etymology}
 
-Từ bao gồm các phần tử <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Per-&amp;action=edit&amp;redlink=1" title="Per- (page does not exist)">per-</a></i>, "half"<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> và *[edhel](../E/Edhel.md)* "[elf](../E/Elves.md)".<sup id="cite_ref-App_2-1" class="reference"><a href="#cite_note-App-2">[2]</a></sup> <span></span>
+Từ bao gồm các phần tử <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Per-&amp;action=edit&amp;redlink=1" title="Per- (page does not exist)">per-</a></i>, "half"<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> và *[edhel](../E/Edhel.md)* "[Tiên](../E/Elves.md)".<sup id="cite_ref-App_2-1" class="reference"><a href="#cite_note-App-2">[2]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

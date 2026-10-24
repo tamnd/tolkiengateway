@@ -13,7 +13,7 @@ categories:
   - "Quenya nouns"
 ---
 
-<i><b>heru</b></i> hoặc <i><b>hér</b></i> có nghĩa là "chúa tể" trong [Quenya](../Q/Quenya.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Các từ có nghĩa tương tự là *[aran](../A/Aran.md)* "vua" và *[tar](../T/Tar.md)* "cao, chúa".
+<i><b>heru</b></i> hoặc <i><b>hér</b></i> có nghĩa là "chúa" trong [Quenya](../Q/Quenya.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Các từ có nghĩa tương tự là *[aran](../A/Aran.md)* "vua" và *[tar](../T/Tar.md)* "cao, chúa".
 
 ## Từ nguyên {#Etymology}
 
@@ -23,14 +23,14 @@ categories:
 
 - *[Ciryaher](../C/Ciryaher.md)* - "Chúa Tàu"
 - *[Herumor](Herumor.md)* - "Chúa tể đen"
-- *[Herunúmen](../T/Tar-Herunúmen.md)* - "Chúa tể phương Tây"
+- *[Herunúmen](../T/Tar-Herunúmen.md)* - "Chúa tể của Phương Tây"
 - *[Ondoher](../O/Ondoher.md)* - "Chúa Đá"
 - *[Ostoher](../O/Ostoher.md)* - "Chúa tể pháo đài"
 
 ## Có cùng nguồn gốc {#Cognates}
 
-- [Tiếng Sindarin](../S/Sindarin.md) *[hîr](Hîr.md)*
-- [Sindarin](../S/Sindarin.md) *híril* - "Quý cô"
+- [Sindarin](../S/Sindarin.md) *[hîr](Hîr.md)*
+- [Sindarin](../S/Sindarin.md) *híril* - "Bà"
 
 ## Cảm hứng {#Inspiration}
 
@@ -50,4 +50,4 @@ Tiếng Latin *herus* có nghĩa là “chúa, chủ”; Tiếng Đức *herr* l
 </ol></div>
 
 - *[The Languages of Tolkien's Middle-earth](../T/The_Languages_of_Tolkien's_Middle-earth.md)* bởi [Ruth S. Noel](../R/Ruth_S._Noel.md)
-- <a class="external text" href="http://www.uib.no/People/hnohf/qlist.htm" rel="noreferrer noopener" target="_blank">Danh sách từ Quenya Corpus</a> được chỉnh sửa bởi [Helge Fauskanger](Helge_Fauskanger.md)
+- <a class="external text" href="http://www.uib.no/People/hnohf/qlist.htm" rel="noreferrer noopener" target="_blank">Quenya Danh sách từ ngữ liệu</a> được chỉnh sửa bởi [Helge Fauskanger](Helge_Fauskanger.md)

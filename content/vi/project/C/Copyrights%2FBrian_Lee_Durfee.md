@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Durfee, Brian Lee"
 ---
 
-- <a class="external text" href="http://brianleedurfee.weebly.com/" rel="noreferrer noopener" target="_blank">Brian Lee Durfee</a> đã vui lòng cho phép ông sử dụng [tác phẩm nghệ thuật](../../category/I/Images_by_Brian_Durfee.md) liên quan đến Trung Địa trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
+- <a class="external text" href="http://brianleedurfee.weebly.com/" rel="noreferrer noopener" target="_blank">Brian Lee Durfee</a> đã vui lòng cho phép ông sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Brian_Durfee.md) liên quan đến Trung Địa trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Ngày: 14 tháng 7 năm 2013
 - Người dùng đã xin phép qua email: [Người dùng:Morgan](https://tolkiengateway.net/wiki/User:Morgan)

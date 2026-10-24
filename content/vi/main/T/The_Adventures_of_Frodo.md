@@ -12,10 +12,10 @@ categories:
   - "Radio adaptations"
 ---
 
-**Những cuộc phiêu lưu của Frodo** là một bài đọc chọn lọc của [Michael Hordern](../M/Michael_Hordern.md) từ [The Lord of the Rings](The_Lord_of_the_Rings.md) thành hai phần được sản xuất cho [Đài phát thanh trường học của BBC](../B/BBC.md) và phát hành trên băng cassette ở [1987](../_/1987.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Không có nhiều thông tin cụ thể về chi tiết cụ thể của bản ghi âm này ngoài tiêu đề của hai phần.
+**Những cuộc phiêu lưu của Frodo** là bài đọc chọn lọc của [Michael Hordern](../M/Michael_Hordern.md) từ [The Lord of the Rings](The_Lord_of_the_Rings.md) thành hai phần được sản xuất cho [Đài phát thanh trường học của BBC](../B/BBC.md) và phát hành trên băng cassette trong [1987](../_/1987.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Không có nhiều thông tin cụ thể về chi tiết cụ thể của bản ghi âm này ngoài tiêu đề của hai phần.
 
 1. Một chiếc nhẫn thống trị tất cả
-2. Kẻ thù giữa những người bạn
+2. Một Kẻ Thù trong số những người bạn
 
 <span></span>
 

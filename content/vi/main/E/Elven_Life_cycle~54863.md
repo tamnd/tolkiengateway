@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Elven life cycle"
 ---
 
-Chuyển hướng đến [Vòng đời của Yêu tinh](Elven_life_cycle.md).
+Chuyển hướng tới [Tiên vòng đời](Elven_life_cycle.md).

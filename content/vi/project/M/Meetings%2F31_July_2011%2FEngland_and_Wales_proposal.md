@@ -45,7 +45,7 @@ source: Tolkien Gateway
 
 <h2><span id="Mith.27s_View"></span><span class="mw-headline" id="Mith&#39;s_View">Mith&#39;s View</span></h2>
 
-Tôi có thể nói rằng việc trở thành một tổ chức từ thiện *small* theo luật của Anh và xứ Wales rất đơn giản. Vị trí máy chủ ở Hoa Kỳ không phải là vấn đề miễn là có chỉ đạo hành chính rõ ràng từ Vương quốc Anh (như đã nêu trong Hiến pháp). Tôi cũng không nghĩ rằng việc tổ chức hai cuộc gặp mặt trực tiếp mỗi năm là một vấn đề vì chúng tôi có thể tổ chức một vài cuộc họp trong điều kiện của Skype hoặc điều động các cuộc họp trực tiếp trùng với các sự kiện như Oxonmoot.
+Tôi có thể nói rằng việc trở thành một tổ chức từ thiện *small* theo luật tiếng Anh và tiếng Wales rất đơn giản. Vị trí máy chủ ở Hoa Kỳ không phải là vấn đề miễn là có chỉ đạo hành chính rõ ràng từ Vương quốc Anh (như đã nêu trong Hiến pháp). Tôi cũng không nghĩ rằng việc tổ chức hai cuộc gặp mặt trực tiếp mỗi năm là một vấn đề vì chúng tôi có thể tổ chức một vài cuộc họp trong điều kiện của Skype hoặc điều động các cuộc họp trực tiếp trùng với các sự kiện như Oxonmoot.
 
 Quả thực, vấn đề lớn nhất là tạo tài khoản, nhưng với mức thu nhập và chi tiêu nhỏ như vậy, tôi không thể tưởng tượng rằng đó sẽ là một công việc tốn nhiều công sức. Bản quyền có thể là một vấn đề.
 

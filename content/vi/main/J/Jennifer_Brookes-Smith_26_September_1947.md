@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Jennifer Brookes-Smith (26 September 1947)"
 ---
 
-Chuyển hướng tới [Thư gửi Jennifer Brookes-Smith (26 tháng 9 năm 1947)](<../L/Letter_to_Jennifer_Brookes-Smith_(26_September_1947).md>).
+Chuyển hướng đến [Thư gửi Jennifer Brookes-Smith (26 tháng Chín 1947)](<../L/Letter_to_Jennifer_Brookes-Smith_(26_September_1947).md>).

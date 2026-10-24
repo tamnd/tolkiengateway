@@ -39,7 +39,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Middle-earth_The_Wizards_logo.png.md"><img src="https://tolkiengateway.net/w/images/thumb/1/17/Middle-earth_The_Wizards_logo.png/320px-Middle-earth_The_Wizards_logo.png" decoding="async" loading="lazy" width="320" height="127" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/17/Middle-earth_The_Wizards_logo.png/480px-Middle-earth_The_Wizards_logo.png 1.5x, https://tolkiengateway.net/w/images/1/17/Middle-earth_The_Wizards_logo.png 2x" data-file-width="595" data-file-height="237"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Collectible card game</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Designer</th><td class="tg-infobox-data"><a href="../C/Coleman_Charlton.md" title="Coleman Charlton">Coleman Charlton</a>, <a class="new" href="https://tolkiengateway.net/w/index.php?title=John_W._Curtis_III&amp;action=edit&amp;redlink=1" title="John W. Curtis III (page does not exist)">John W. Curtis III</a>, <a href="../P/Pete_Fenlon.md" title="Pete Fenlon">Pete Fenlon</a>, <a class="new" href="https://tolkiengateway.net/w/index.php?title=Jason_Hawkins&amp;action=edit&amp;redlink=1" title="Jason Hawkins (page does not exist)">Jason Hawkins</a>, <a href="Mike_Reynolds.md" title="Mike Reynolds">Mike Reynolds</a><sup id="cite_ref-companion_1-0" class="reference"><a href="#cite_note-companion-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Development</th><td class="tg-infobox-data">Coleman Charlton, Mike Reynolds<sup id="cite_ref-companion_1-1" class="reference"><a href="#cite_note-companion-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../I/Iron_Crown_Enterprises.md" title="Iron Crown Enterprises">Iron Crown Enterprises</a></td></tr><tr><th scope="row" class="tg-infobox-label">Release date</th><td class="tg-infobox-data"><a href="../_/1995.md" title="1995">1995</a></td></tr><tr><th scope="row" class="tg-infobox-label">Cards</th><td class="tg-infobox-data">484</td></tr><tr><th scope="row" class="tg-infobox-label">Abbreviation</th><td class="tg-infobox-data">METW</td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Middle-earth%253A_The_Dragons.md" title="Middle-earth: The Dragons">Middle-earth: The Dragons</a></td></tr></tbody></table>
 
-**Middle-earth: The Wizards**, được phát hành vào [1995](../_/1995.md), là bộ cơ bản đầu tiên dành cho *[Middle-earth Collectible Card Game](Middle-earth_Collectible_Card_Game.md)*.
+**Trung Địa: Pháp sư**, được phát hành vào [1995](../_/1995.md), là bộ cơ bản đầu tiên dành cho *[Middle-earth Collectible Card Game](Middle-earth_Collectible_Card_Game.md)*.
 
 *The Wizards* đề cập đến phe *good* và bao gồm hầu hết các nhân vật chính trong sách, như [Gandalf](../G/Gandalf.md), [Frodo](../F/Frodo_Baggins.md) và [Aragorn](../A/Aragorn.md). Bộ này có lối chơi khá đơn giản với các thẻ *marshalling point* và *hazard creatures* tương đối đơn giản.
 
@@ -4492,13 +4492,13 @@ infobox:
 
 *Middle-earth: The Wizards* là bộ duy nhất được in bằng tiếng Hà Lan mà nhà xuất bản [999 Games](../_/999_Games.md) đã sử dụng tựa tiếng Hà Lan là [The Lord of the Rings](../T/The_Lord_of_the_Rings.md)<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[note 4]</a></sup>mà không tham chiếu đến *The Wizards*.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[2]</a></sup>
 
-Ngoài một cái tên khác, nó còn có bao bì khác có tác phẩm nghệ thuật của [John Howe](../J/John_Howe.md), mà nhà xuất bản chưa bao giờ cấp phép hợp lệ từ ông. Tác phẩm nghệ thuật này cũng được sử dụng làm thẻ khuyến mại và ba bìa để đựng thẻ mà không được phép hoặc trả thù lao.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[3]</a></sup>
+Ngoài một cái tên khác, nó còn có bao bì khác có hình tác phẩm nghệ thuật của [John Howe](../J/John_Howe.md), mà nhà xuất bản chưa bao giờ cấp phép hợp lệ từ ông ta. Tác phẩm nghệ thuật này cũng được sử dụng làm thẻ khuyến mại và ba bìa để đựng thẻ mà không được phép hoặc trả thù lao.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[3]</a></sup>
 
 ## Lễ tân {#Reception}
 
 *The Wizards* đã giành được Giải thưởng Nguồn gốc cho *Best Card Game of 1995*.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[4]</a></sup>
 
-Trong một bài đánh giá dành cho *The Duelist*, Rick Swan nhận thấy trò chơi có "đủ sự đổi mới kỳ quặc để phân biệt với vô số trò chơi bắt chước chơi rồi quên'em" của *[Magic: The Gathering](Magic%253A_The_Gathering.md)*. Ông khen ngợi cả tính nghệ thuật và tính trung thực trong các tác phẩm của Tolkien, nhưng nhận thấy cuốn sách quy tắc được tổ chức kém.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[5]</a></sup>
+Trong một bài đánh giá dành cho *The Duelist*, Rick Swan nhận thấy trò chơi có "đủ sự đổi mới kỳ quặc để phân biệt với vô số trò chơi bắt chước chơi rồi quên'em" của *[Magic: The Gathering](Magic%253A_The_Gathering.md)*. Ông ca ngợi cả tính nghệ thuật lẫn tính trung thực trong các tác phẩm của Tolkien, nhưng nhận thấy nội quy được tổ chức kém.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[5]</a></sup>
 
 Andy Butcher, viết cho *Arcane*, cũng đã đánh giá *The Wizards*, nói rằng nhóm "chưa bao giờ dành nhiều thời gian chơi một trò chơi để đánh giá", coi trò chơi này là "sự kết hợp độc đáo giữa những yếu tố hay nhất của trò chơi cờ bàn và trò chơi bài", mặc dù cũng "phức tạp, khó chịu và được thực hiện kém". Tuy nhiên, phán quyết cuối cùng là tích cực, nói rằng “có rất nhiều điều ở đây để khiến tất cả trở nên đáng giá”.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[6]</a></sup>
 
@@ -4571,11 +4571,11 @@ Andy Butcher, viết cho *Arcane*, cũng đã đánh giá *The Wizards*, nói r�
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><i>Rìu lùn</i>, khuyến mãi độc quyền của Đức</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><i>Người lùn Axe</i>, khuyến mãi độc quyền của Đức</span>
 </li>
 <li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><i>Swordmaster</i>, khuyến mãi độc quyền của Đức</span>
 </li>
-<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><i>Gói giao tận cửa</i>, khuyến mãi độc quyền tại Đức</span>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><i>Gói giao tận cửa</i>, khuyến mãi độc quyền của Đức</span>
 </li>
 <li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><i>Trong de Ban van de Ring</i>, "Dưới sự phù phép của Chiếc nhẫn"</span>
 </li>

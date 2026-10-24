@@ -39,13 +39,13 @@ infobox:
 - Truyền thông - Mark Thorne, Bernie Roessler,
 - Bàn tay kỹ thuật số - Fredrik Ekman
 - Tiền tuyến - [Chris Seeman](../C/Chris_Seeman.md)
-- Hương vị của những điều sắp đến: Miền Nam Rhûn - Mike Campbell
-- Sơ lược lịch sử Vương quốc Hithlum - [Michael Martinez](../M/Michael_Martinez.md)
+- Hương vị của những điều sắp đến: Miền Nam Rhûn - Mike Austin Campbell
+- Sơ Lược Lịch Sử Vương Quốc Hithlum - [Michael Martinez](../M/Michael_Martinez.md)
 - Cuộc phỏng vấn với Jessica Ney-Grimm - [Chris Seeman](../C/Chris_Seeman.md)
 - Arda Lore: Bản chất của phép thuật ở Trung Địa là gì? - Dirk Brandherm
-- Trung địa mới: Khám phá bên kia dãy núi - Martin Baker
+- Mới Trung Địa: Khám phá vượt xa Dãy Núi - Martin Baker
 - Đánh giá sản phẩm: Sinh vật Trung Địa - Bjorn Asle Taranger
-- Đánh giá sản phẩm: Nhập vai Trung địa: Phiên bản thứ hai - Anarsil Istaratan
+- Đánh giá sản phẩm: Middle-earth Role Playing: Ấn bản thứ hai - Anarsil Istaratan
 - Nghề MERP mới: Thủy thủ - Anarsil Istaratan
-- Đánh giá sản phẩm: Nam Gondor: Con người - Mark Thorne
-- Đánh giá sản phẩm: Southern Gondor: The People ... Đánh giá thứ hai - Luke Potter
+- Đánh giá sản phẩm: Miền Nam Gondor: Con Người - Mark Thorne
+- Đánh giá sản phẩm: Miền Nam Gondor: Người ... Đánh giá thứ hai - Luke Potter

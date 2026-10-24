@@ -16,7 +16,7 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/R/Rondador_-_House_of_the_King.png.md"><img src="https://tolkiengateway.net/w/images/thumb/0/00/Rondador_-_House_of_the_King.png/200px-Rondador_-_House_of_the_King.png" decoding="async" loading="lazy" width="200" height="220" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/00/Rondador_-_House_of_the_King.png/300px-Rondador_-_House_of_the_King.png 1.5x, https://tolkiengateway.net/w/images/thumb/0/00/Rondador_-_House_of_the_King.png/400px-Rondador_-_House_of_the_King.png 2x" data-file-width="612" data-file-height="672"/></a><figcaption>Emblem of Turgon including the scarlet heart. Art by <a class="external text" href="http://commons.wikimedia.org/wiki/User:Rondador" rel="noreferrer noopener" target="_blank">Rondador</a></figcaption></figure>
 
-**trái tim đỏ tươi** là biểu tượng của [Turgon](../T/Turgon.md) theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.
+**trái tim đỏ tươi** là biểu tượng của [Turgon](../T/Turgon.md) theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) ở *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.
 
 ## Lịch sử {#History}
 
@@ -24,7 +24,7 @@ Nólemë (sau này là [Finwë](../F/Finwë.md) và sau đó là cha của Turgo
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Cái chết và sự mạo phạm của Nólemë sẽ phát triển thành cái chết của [Fingon](../F/Fingon.md), hiện là anh trai của Turgon, trong Trận chiến của những giọt nước mắt không đếm được.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Tuy nhiên, cũng có một điểm tương đồng lớn với cái chết của Fingolfin: Morgoth đã bẻ gãy cơ thể của ông ta, nhưng cơ thể này đã được [Thorondor](../T/Thorondor.md) giải cứu và đưa đến Turgon, người đã tạo ra một [Cairn](../F/Fingolfin's_Cairn.md) cho ông ta bố.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Cái chết và sự mạo phạm của Nólemë sẽ phát triển thành cái chết của [Fingon](../F/Fingon.md), hiện là anh trai của Turgon, trong Trận chiến của những giọt nước mắt không đếm được.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Tuy nhiên, cũng có một điểm tương đồng lớn với cái chết của Fingolfin: Morgoth thi thể của ông ta bị gãy, nhưng cơ thể này đã được [Thorondor](../T/Thorondor.md) cứu và đưa đến Turgon, người đã tạo ra một [Cairn](../F/Fingolfin's_Cairn.md) cho cha mình.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 <span></span>
 

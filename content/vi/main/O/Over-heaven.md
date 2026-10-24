@@ -17,7 +17,7 @@ langlinks:
     url: "https://kontu.wiki/Ylinen_taivas"
 ---
 
-**Over-heaven** là tên được sử dụng bởi [Peregrin Took](../P/Peregrin_Took.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Nó có nghĩa tương tự như [Quenya](../Q/Quenya.md) [Menel](../M/Menel.md) 'Thiên đường' hoặc [Tarmenel](../T/Tarmenel.md) 'Thiên đường cao'. Over-heaven là một từ được dịch từ [Westron](../W/Westron.md) sang tiếng Anh, dựa trên [Old Norse](Old_Norse.md) *uphiminn*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Over-heaven** là tên được sử dụng bởi [Peregrin Took](../P/Peregrin_Took.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Nó có nghĩa giống như [Quenya](../Q/Quenya.md) [Menel](../M/Menel.md) 'Thiên đường' hoặc [Tarmenel](../T/Tarmenel.md) 'Thiên đường cao'. Over-heaven là từ được dịch từ [Westron](../W/Westron.md) sang tiếng Anh, dựa trên [tiếng Bắc Âu cổ](Old_Norse.md) *uphiminn*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

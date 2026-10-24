@@ -37,9 +37,9 @@ infobox:
 
 ## Phiên bản {#Editions}
 
-### Người Hobbit (1976) {#The_Hobbit_(1976)}
+### The Hobbit (1976) {#The_Hobbit_(1976)}
 
-Đây là bản phát hành đầu tiên từ các tác phẩm của The Folio Society [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Một số bản sao tham chiếu nhầm [George Allen & Unwin](../G/George_Allen_&_Unwin.md) trên trang tiêu đề thay vì The Folio Society. Theo [Wayne G. Hammond](../W/Wayne_G._Hammond.md), điều này xảy ra do dấu ấn giống hệt với bản phát hành của George Allen & Unwin và một số trang đầu tiên đáng lẽ phải được thay thế bằng tham chiếu đến hội The Folio.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Đây là bản phát hành đầu tiên từ các tác phẩm của The Folio Society [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Một số bản sao tham chiếu nhầm [George Allen &amp; Unwin](../G/George_Allen_&_Unwin.md) trên trang tiêu đề thay vì The Folio Society. Theo [Wayne G. Hammond](../W/Wayne_G._Hammond.md), điều này xảy ra do nhà xuất bản giống hệt với bản phát hành George Allen &amp; Unwin và một số trang đầu tiên đáng lẽ phải được thay thế bằng tham chiếu đến hội The Folio.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <br> **Chi tiết**
 
@@ -48,7 +48,7 @@ infobox:
 - Da quý
 - 7 3/4" x 9 3/4"
 
-### Chúa tể của những chiếc nhẫn (1977-1979) {#The_Lord_of_the_Rings_(1977-1979)}
+### The Lord of the Rings (1977-1979) {#The_Lord_of_the_Rings_(1977-1979)}
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_(1977,_The_Folio_Society).webp.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b2/The_Lord_of_the_Rings_%281977%2C_The_Folio_Society%29.webp/300px-The_Lord_of_the_Rings_%281977%2C_The_Folio_Society%29.webp.png" decoding="async" loading="lazy" width="300" height="375" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b2/The_Lord_of_the_Rings_%281977%2C_The_Folio_Society%29.webp/450px-The_Lord_of_the_Rings_%281977%2C_The_Folio_Society%29.webp.png 1.5x, https://tolkiengateway.net/w/images/thumb/b/b2/The_Lord_of_the_Rings_%281977%2C_The_Folio_Society%29.webp/600px-The_Lord_of_the_Rings_%281977%2C_The_Folio_Society%29.webp.png 2x" data-file-width="1600" data-file-height="2000"/></a><figcaption>1977</figcaption></figure>
 
@@ -80,13 +80,13 @@ infobox:
 <td>
 </td></tr></tbody></table>
 
-### Người Hobbit (1979-1983) {#The_Hobbit_(1979-1983)}
+### The Hobbit (1979-1983) {#The_Hobbit_(1979-1983)}
 
-### Chúa tể của những chiếc nhẫn (1990-1995) {#The_Lord_of_the_Rings_(1990-1995)}
+### The Lord of the Rings (1990-1995) {#The_Lord_of_the_Rings_(1990-1995)}
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_(1990,_The_Folio_Society).webp.md"><img src="https://tolkiengateway.net/w/images/thumb/4/46/The_Lord_of_the_Rings_%281990%2C_The_Folio_Society%29.webp/300px-The_Lord_of_the_Rings_%281990%2C_The_Folio_Society%29.webp.png" decoding="async" loading="lazy" width="300" height="375" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/46/The_Lord_of_the_Rings_%281990%2C_The_Folio_Society%29.webp/450px-The_Lord_of_the_Rings_%281990%2C_The_Folio_Society%29.webp.png 1.5x, https://tolkiengateway.net/w/images/thumb/4/46/The_Lord_of_the_Rings_%281990%2C_The_Folio_Society%29.webp/600px-The_Lord_of_the_Rings_%281990%2C_The_Folio_Society%29.webp.png 2x" data-file-width="768" data-file-height="960"/></a><figcaption>1990-1993</figcaption></figure>
 
-### Người Hobbit (1997-nay) {#The_Hobbit_(1997-Present)}
+### The Hobbit (1997-nay) {#The_Hobbit_(1997-Present)}
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Folio_Society_-_The_Hobbit_(1997).webp.md"><img src="https://tolkiengateway.net/w/images/thumb/5/5f/The_Folio_Society_-_The_Hobbit_%281997%29.webp/300px-The_Folio_Society_-_The_Hobbit_%281997%29.webp.png" decoding="async" loading="lazy" width="300" height="300" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/5f/The_Folio_Society_-_The_Hobbit_%281997%29.webp/450px-The_Folio_Society_-_The_Hobbit_%281997%29.webp.png 1.5x, https://tolkiengateway.net/w/images/thumb/5/5f/The_Folio_Society_-_The_Hobbit_%281997%29.webp/600px-The_Folio_Society_-_The_Hobbit_%281997%29.webp.png 2x" data-file-width="700" data-file-height="700"/></a><figcaption>The Hobbit, 1997-Present</figcaption></figure>
 
@@ -352,7 +352,7 @@ infobox:
 
 <sup id="cite_ref-adam_4-0" class="reference"><a href="#cite_note-adam-4">[4]</a></sup>
 
-### Chúa tể của những chiếc nhẫn (1997-nay) {#The_Lord_of_the_Rings_(1997-Present)}
+### The Lord of the Rings (1997-nay) {#The_Lord_of_the_Rings_(1997-Present)}
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Folio_Society_-_The_Lord_of_the_Rings_(1997).webp.md"><img src="https://tolkiengateway.net/w/images/thumb/3/38/The_Folio_Society_-_The_Lord_of_the_Rings_%281997%29.webp/300px-The_Folio_Society_-_The_Lord_of_the_Rings_%281997%29.webp.png" decoding="async" loading="lazy" width="300" height="300" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/38/The_Folio_Society_-_The_Lord_of_the_Rings_%281997%29.webp/450px-The_Folio_Society_-_The_Lord_of_the_Rings_%281997%29.webp.png 1.5x, https://tolkiengateway.net/w/images/thumb/3/38/The_Folio_Society_-_The_Lord_of_the_Rings_%281997%29.webp/600px-The_Folio_Society_-_The_Lord_of_the_Rings_%281997%29.webp.png 2x" data-file-width="700" data-file-height="700"/></a><figcaption>The Lord of the Rings, 1997-Present</figcaption></figure>
 
@@ -778,13 +778,13 @@ infobox:
 
 <br>
 
-### Chúa tể của những chiếc nhẫn (Phiên bản cao cấp, 2002) {#The_Lord_of_the_Rings_(Deluxe_Edition,_2002)}
+### The Lord of the Rings (Phiên bản cao cấp, 2002) {#The_Lord_of_the_Rings_(Deluxe_Edition,_2002)}
 
-### Người Hobbit (Phiên bản cao cấp, 2003) {#The_Hobbit_(Deluxe_Edition,_2003)}
+### The Hobbit (Phiên bản cao cấp, 2003) {#The_Hobbit_(Deluxe_Edition,_2003)}
 
 ### The Silmarillion (Phiên bản cao cấp, 2004) {#The_Silmarillion_(Deluxe_Edition,_2004)}
 
-### Chúa tể của những chiếc nhẫn (Phiên bản giới hạn, 2022) {#The_Lord_of_the_Rings_(Limited_Edition,_2022)}
+### The Lord of the Rings (Phiên bản giới hạn, 2022) {#The_Lord_of_the_Rings_(Limited_Edition,_2022)}
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Folio_Society_-_The_Lord_of_the_Rings_(Limited_Edition).webp.md"><img src="https://tolkiengateway.net/w/images/thumb/f/f2/The_Folio_Society_-_The_Lord_of_the_Rings_%28Limited_Edition%29.webp/300px-The_Folio_Society_-_The_Lord_of_the_Rings_%28Limited_Edition%29.webp.png" decoding="async" loading="lazy" width="300" height="300" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f2/The_Folio_Society_-_The_Lord_of_the_Rings_%28Limited_Edition%29.webp/450px-The_Folio_Society_-_The_Lord_of_the_Rings_%28Limited_Edition%29.webp.png 1.5x, https://tolkiengateway.net/w/images/thumb/f/f2/The_Folio_Society_-_The_Lord_of_the_Rings_%28Limited_Edition%29.webp/600px-The_Folio_Society_-_The_Lord_of_the_Rings_%28Limited_Edition%29.webp.png 2x" data-file-width="700" data-file-height="700"/></a><figcaption>The Lord of the Rings, 2022</figcaption></figure>
 
@@ -813,7 +813,7 @@ infobox:
 - Bản in riêng biệt được trình bày trong một thư mục giấy Pergamenata
 - <a class="external text" href="https://www.youtube.com/watch?v=tjtnDLt7ZSo" rel="noreferrer noopener" target="_blank">Video tổng quan</a>
 
-### Người Hobbit (Phiên bản giới hạn, 2024) {#The_Hobbit_(Limited_Edition,_2024)}
+### The Hobbit (Phiên bản giới hạn, 2024) {#The_Hobbit_(Limited_Edition,_2024)}
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Hobbit_(2024,_The_Folio_Society).webp.md"><img src="https://tolkiengateway.net/w/images/thumb/a/a1/The_Hobbit_%282024%2C_The_Folio_Society%29.webp/300px-The_Hobbit_%282024%2C_The_Folio_Society%29.webp.png" decoding="async" loading="lazy" width="300" height="300" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/a1/The_Hobbit_%282024%2C_The_Folio_Society%29.webp/450px-The_Hobbit_%282024%2C_The_Folio_Society%29.webp.png 1.5x, https://tolkiengateway.net/w/images/thumb/a/a1/The_Hobbit_%282024%2C_The_Folio_Society%29.webp/600px-The_Hobbit_%282024%2C_The_Folio_Society%29.webp.png 2x" data-file-width="700" data-file-height="700"/></a><figcaption>Limited Edition, 2024</figcaption></figure>
 
@@ -831,7 +831,7 @@ Vào [ngày 19 tháng 11](../N/November_19.md), [2024](../_/2024.md) The Folio S
 - Các đầu trang màu bạc
 - Dấu ruy băng
 - Túi đựng có lớp lót in hình
-- Bản đồ riêng biệt bao gồm bản đồ của Thror và bản đồ Wilderland
+- Bản đồ riêng biệt bao gồm bản đồ của Thror và bản đồ của Wilderland
 - Bản in riêng biệt được trình bày trong một thư mục
 - Kích thước đã cắt 297mm x 194mm
 

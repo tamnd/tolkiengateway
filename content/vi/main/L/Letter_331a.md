@@ -27,9 +27,9 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien trả lời thư của người hâm mộ từ một bệnh nhân giấu tên tại <a class="extiw" href="http://en.wikipedia.org/wiki/Broadmoor_Hospital" title="wikipedia:Broadmoor Hospital">Bệnh viện Broadmoor</a>; ông bày tỏ sự vui mừng khi bệnh nhân đã đọc *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* và đặc biệt yêu thích những bài thơ. Tolkien giải thích bản chất của [hobbit](../H/Hobbits.md) trong các câu chuyện của mình, mô tả họ là đại diện cho những con người bình thường, tốt bụng, thích đồ ăn và niềm vui. Ông nhấn mạnh lòng dũng cảm và khả năng xua đuổi những sinh vật khó chịu của họ.
+Tolkien trả lời thư của người hâm mộ từ một bệnh nhân giấu tên tại <a class="extiw" href="http://en.wikipedia.org/wiki/Broadmoor_Hospital" title="wikipedia:Broadmoor Hospital">Bệnh viện Broadmoor</a>; ông bày tỏ sự vui mừng khi bệnh nhân đã đọc *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* và đặc biệt yêu thích những bài thơ. Tolkien giải thích bản chất của [hobbit](../H/Hobbits.md) trong các câu chuyện của mình, mô tả họ là đại diện cho những con người bình thường, tốt bụng, thích ăn uống và vui vẻ. Ông nhấn mạnh lòng dũng cảm và khả năng xua đuổi những sinh vật khó chịu của họ.
 
-Tolkien bày tỏ lòng biết ơn khi nhận được lá thư thứ hai từ bệnh nhân và khuyến khích họ viết lại nếu có thắc mắc hoặc cần giải thích. <br>
+Tolkien bày tỏ lòng biết ơn khi nhận được lá thư thứ hai của bệnh nhân và khuyến khích họ viết lại nếu có thắc mắc hoặc cần giải thích. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

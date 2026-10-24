@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Beren"
 ---
 
-Chuyển hướng tới [Beren](../B/Beren.md).
+Chuyển hướng đến [Beren](../B/Beren.md).

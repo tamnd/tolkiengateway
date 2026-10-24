@@ -43,7 +43,7 @@ infobox:
 
 **Zamîn**, được cậu bé [Îbal](../_/Îbal.md) gọi là "mẹ Zamîn", là người hầu trong [Nhà Trắng](../W/White_House.md) của [Erendis](../E/Erendis.md). Vì vậy, cô là bạn đồng hành của con gái Erendis, [Ancalimë](../T/Tar-Ancalimë.md), người lần đầu tiên biết đến tên cha cô ([Aldarion](../A/Aldarion.md)) từ một bà già quê mùa.
 
-Khi Ancalimë trưởng thành và trở thành người thừa kế của nhà vua (sau khi Tar-Aldarion sửa đổi [Luật kế vị ở Númenor](../L/Law_of_Succession_in_Númenor.md)), cô bị bao vây bởi những người cầu hôn đến [Emerië](../E/Emerië.md). Zamîn đã hỗ trợ [Emerwen Aranel](../T/Tar-Ancalimë.md) hay "Công chúa chăn cừu" ẩn náu trong một trang trại giáp với vùng đất [Hallatan](../H/Hallatan.md) của [Hyarastorni](../H/Hyarastorni.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Khi Ancalimë trưởng thành và trở thành người thừa kế của nhà vua (sau khi Tar-Aldarion sửa đổi [Luật kế vị trong Númenor](../L/Law_of_Succession_in_Númenor.md)), cô đã bị bao vây bởi những kẻ cầu hôn đến [Emerië](../E/Emerië.md). Zamîn đã hỗ trợ [Emerwen Aranel](../T/Tar-Ancalimë.md) hay "Công chúa chăn cừu" ẩn náu trong một trang trại giáp với vùng đất [Hallatan](../H/Hallatan.md) của [Hyarastorni](../H/Hyarastorni.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

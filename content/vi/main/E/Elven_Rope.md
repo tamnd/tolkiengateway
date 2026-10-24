@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Elven Rope (disambiguation)"
 ---
 
-Chuyển hướng đến [Dây Elven (định hướng)](<Elven_Rope_(disambiguation).md>).
+Chuyển hướng tới [Tiên Rope (định hướng)](<Elven_Rope_(disambiguation).md>).

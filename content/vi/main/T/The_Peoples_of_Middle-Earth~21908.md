@@ -20,17 +20,17 @@ images:
 
 ## [The Fellowship of the Ring Extended Edition](<The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(extended_edition).md>) galleries {#The_Fellowship_of_the_Ring_Extended_Edition_galleries}
 
-### Kẻ thù {#The_Enemy}
+### Cái Kẻ Thù {#The_Enemy}
 
 - Sauron
-- Bọn ma nhẫn
+- Cái Nazgûl
 - Orc
-- Tộc Orc Moria
+- Moria Orc
 - Quỷ hang động
 - Người theo dõi
-- Balrog
+- Cái Balrog
 
-### Liên minh cuối cùng {#The_Last_Alliance}
+### Cái Liên minh Cuối cùng {#The_Last_Alliance}
 
 - Elendil
 - Gil-Galad
@@ -40,20 +40,20 @@ images:
 
 ### Isengard {#Isengard}
 
-- Saruman Trắng
-- Trận chiến Uruk-hai
+- Saruman quân Trắng
+- Cuộc chiến Uruk-hai
 
 ### Bilbo Baggins {#Bilbo_Baggins}
 
 ### Học bổng {#The_Fellowship}
 
-- Gandalf Xám
+- Gandalf màu xám
 - Frodo
 - Sam
-- Chúc mừng
+- Merry
 - Pippin
 - Aragorn
-- Lego
+- Legolas
 - Gimli
 - Boromir
 
@@ -69,14 +69,14 @@ images:
 
 ## [The Two Towers Extended Edition](<The_Lord_of_the_Rings%253A_The_Two_Towers_(extended_edition).md>) galleries {#The_Two_Towers_Extended_Edition_galleries}
 
-### Kẻ thù {#The_Enemy_2}
+### Cái Kẻ Thù {#The_Enemy_2}
 
 - Uruk-hai
-- Người Phục sinh
-- Wargs và Kỵ sĩ
+- Người Phục Sinh
+- Warg và các tay đua
 - Grishnakh
 - Haradrim
-- Người hoang dã
+- Hoang dã Con Người
 - Quái vật sa ngã
 - Mumakil
 
@@ -86,34 +86,34 @@ images:
 - Eowyn
 - Eomer
 - Theodred
-- Đội cận vệ của nhà vua
-- Kỵ sĩ Rohan
-- Grima (Lưỡi Giun)
+Đội cận vệ hoàng gia của - Vua
+- Những tay đua của Rohan
+- Grima (Wormtongue)
 
-- Gandalf Trắng
+- Gandalf the White
 
-- Chiến binh Yêu tinh thời đại thứ ba
+- Kỷ Đệ Tam Tiên Chiến binh
 
-- Cây râu
+- Treebeard
 
 - Ent
 
 - Faramir
 
-- Biệt đội Ithilien
+- Ithilien Biệt đội
 
 ## [The Return of the King Extended Edition](<The_Lord_of_the_Rings%253A_The_Return_of_the_King_(extended_edition).md>) galleries {#The_Return_of_the_King_Extended_Edition_galleries}
 
-### Kẻ thù {#The_Enemy_3}
+### Cái Kẻ Thù {#The_Enemy_3}
 
-- Vua phù thủy
+- Bà phù thủy Vua
 - Thú vật sa ngã
 - Miệng của Sauron
-- Tộc Orc
-- Quỷ lùn
+- Orc
+- Troll
 - Haradrim
 - Mumakil
-- Những Quái Thú Khổng Lồ
+- Đại Thú
 - Shelob
 - Corsair
 
@@ -123,7 +123,7 @@ images:
 
 - Faramir
 - Denethor
-- Quân đội Gondoria
+- Gondor quân đội
 
 Bảo vệ Thành cổ
 

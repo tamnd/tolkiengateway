@@ -34,15 +34,15 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><i><a href="../T/The_Letters_of_J.R.R._Tolkien.md" title="The Letters of J.R.R. Tolkien">The Letters of J.R.R. Tolkien</a></i></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Letter 60</span></th></tr><tr><th scope="row" class="tg-infobox-label">Recipient</th><td class="tg-infobox-data"><a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Date</th><td class="tg-infobox-data"><a href="../_/13_April.md" title="13 April">13 April</a> <a href="../_/1944.md" title="1944">1944</a></td></tr><tr><th scope="row" class="tg-infobox-label">Subject(s)</th><td class="tg-infobox-data">News during wartime, progress report on <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i></td></tr></tbody></table>
 
-**Thư 60** là bức thư được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và đăng trên *[The Letters of J.R.R. Tolkien](../T/The_Letters_of_J.R.R._Tolkien.md)*.
+**Thư 60** là một bức thư được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và đăng trên *[The Letters of J.R.R. Tolkien](../T/The_Letters_of_J.R.R._Tolkien.md)*.
 
 ## Tóm tắt {#Summary}
 
-Christopher đã đến trại huấn luyện của ông ở Nam Phi và những lá thư lại bắt đầu được gửi đi giữa ông và cha ông. Tolkien nhớ con trai mình nhưng báo cáo rằng mọi thứ đã bắt đầu dễ dàng hơn với ông. Ông đã giúp nhận thêm học viên nhưng nhiệm vụ đó đã hoàn thành. Ông đã gặp [C.S. Lewis](../C/C.S._Lewis.md) và [Charles Williams](../C/Charles_Williams.md) trong hai giờ. Ông đọc chương gần đây của mình từ *The Lord of the Rings* để tán thành và bắt đầu một chương khác.
+Christopher đã đến trại huấn luyện của anh ở Nam Phi và những lá thư lại bắt đầu được gửi đi giữa anh và cha anh. Tolkien nhớ con trai nhưng báo cáo rằng mọi việc đã bắt đầu dễ dàng hơn với cậu bé. Ông đã giúp nhận thêm học viên nhưng nhiệm vụ đó đã hoàn thành. Ông đã xem [C.S. Lewis](../C/C.S._Lewis.md) và [Charles Williams](../C/Charles_Williams.md) được hai giờ. Ông đọc chương gần đây của mình từ *The Lord of the Rings* để tán thành và bắt đầu một chương khác.
 
-Vì bức thư không được gửi nên Tolkien đã bổ sung thêm vào ngày 15 tháng 4. Tại cuộc gặp ở Magdalen với Lewis, Williams, Warren H. Lewis,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> và gã Quack vô dụng,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 2]</a></sup> họ đã nghe thấy W.H. Lewis đọc từ cuốn sách dự kiến ​​của ông về Louis XIV. Chủ đề này không khiến Tolkien quan tâm nhưng nó được viết một cách hóm hỉnh. Anh cũng ít nghĩ đến kết luận của câu chuyện ngụ ngôn mới nhất của C.S. Lewis.
+Vì lá thư không được gửi nên Tolkien đã được bổ sung thêm vào ngày 15 tháng 4. Tại cuộc gặp ở Magdalen với Lewis, Williams, Warren H. Lewis,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> và gã Quack vô dụng,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 2]</a></sup> họ đã nghe thấy W.H. Lewis đọc từ cuốn sách dự kiến ​​của ông về Louis XIV. Chủ đề không được quan tâm Tolkien nhưng lại được viết một cách hóm hỉnh. Anh cũng ít nghĩ đến kết luận của câu chuyện ngụ ngôn mới nhất của C.S. Lewis.
 
-Tolkien đã đưa được [Frodo](../F/Frodo_Baggins.md) đến gần cổng [Mordor](../M/Mordor.md). Anh kể về những sự cố khác trong cuộc đời mình và nói rằng anh sẽ tiếp tục "Chiếc nhẫn" trong mọi thời điểm có thể cứu vãn được.
+Tolkien đã tiến được [Frodo](../F/Frodo_Baggins.md) đến gần cổng [Mordor](../M/Mordor.md). Anh kể về những sự cố khác trong cuộc đời mình và nói rằng anh sẽ tiếp tục "Chiếc nhẫn" trong mọi thời điểm có thể cứu vãn được.
 
 ## Ghi chú {#Notes}
 

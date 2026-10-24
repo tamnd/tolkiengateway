@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Elendur (son of Isildur)"
 ---
 
-Chuyển hướng tới [Elendur (con trai của Isildur)](<Elendur_(son_of_Isildur).md>).
+Chuyển hướng đến [Elendur (con trai của Isildur)](<Elendur_(son_of_Isildur).md>).

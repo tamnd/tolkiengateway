@@ -12,7 +12,7 @@ categories:
   - "Quenya nouns"
 ---
 
-<b>*mēnie</b> là một từ [Quenya](../Q/Quenya.md) được dịch theo nhiều cách khác nhau là "quyết tâm"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:94</sup>, "sự thúc đẩy"<sup id="cite_ref-impulse_2-0" class="reference"><a href="#cite_note-impulse-2">[2]</a></sup>hoặc "thiết bị" (theo nghĩa là "thứ gì đó được nghĩ ra hoặc tạo ra để mang lại kết quả hoặc mục đích nào đó", hoặc "mục đích, ý định")<sup id="cite_ref-impulse_2-1" class="reference"><a href="#cite_note-impulse-2">[2]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:note 9</sup>
+<b>*mēnie</b> là một từ [Quenya](../Q/Quenya.md) được dịch theo nhiều cách khác nhau là "quyết tâm"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:94</sup>, "sự thúc đẩy"<sup id="cite_ref-impulse_2-0" class="reference"><a href="#cite_note-impulse-2">[2]</a></sup>hoặc "thiết bị" (theo nghĩa là "thứ gì đó được nghĩ ra hoặc được tạo ra để mang lại kết quả hoặc mục đích nào đó", hoặc "mục đích, ý định")<sup id="cite_ref-impulse_2-1" class="reference"><a href="#cite_note-impulse-2">[2]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:note 9</sup>
 
 ## Ví dụ {#Examples}
 

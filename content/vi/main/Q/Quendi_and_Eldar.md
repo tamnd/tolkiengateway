@@ -40,21 +40,21 @@ sort_keys:
 <dl><dd>Appendix: <a href="../C/Cuivienyarna.md" title="Cuivienyarna">The legend of the Awaking of the Quendi</a></dd></dl></dd></dl>
 </td></tr></tbody></table>
 
-**Quendi và Eldar** là một bài tiểu luận dài của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) có niên đại từ c. [1959](../_/1959.md)-[60](../_/1960.md), được xuất bản trong *[The War of the Jewels](../T/The_War_of_the_Jewels.md)*. *Quendi and Eldar* cung cấp sự phát triển từ nguyên của một số từ nhất định mà [Yêu tinh](../E/Elves.md) dùng để đặt tên cho mình và các dân tộc khác hoặc để chỉ các cá nhân theo một cách nào đó.
+**Quendi and Eldar** là một bài luận dài của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) có niên đại từ c. [1959](../_/1959.md)-[60](../_/1960.md), được xuất bản trong *[The War of the Jewels](../T/The_War_of_the_Jewels.md)*. *Quendi and Eldar* cung cấp sự phát triển từ nguyên của một số từ nhất định mà [Tiên tộc](../E/Elves.md) dùng để đặt tên cho chính họ và các dân tộc khác, hoặc để chỉ các cá nhân theo một cách nào đó.
 
-Một phần của "Phụ lục D" đã được Christopher lược bỏ trong *The War of the Jewels* để tiết kiệm chỗ trống. Tài liệu này đã được xuất bản cùng với một số tài liệu bổ sung trong *[Vinyar Tengwar 39](../V/Vinyar_Tengwar_39.md)* ở [1998](../_/1998.md), do [Carl F. Hostetter](../C/Carl_F._Hostetter.md) biên tập.
+Một phần của "Phụ lục D" đã bị *The War of the Jewels* lược bỏ khỏi Christopher để tiết kiệm chỗ trống. Tài liệu này đã được xuất bản, cùng với một số tài liệu bổ sung, trong *[Vinyar Tengwar 39](../V/Vinyar_Tengwar_39.md)* trong [1998](../_/1998.md), được biên tập bởi [Carl F. Hostetter](../C/Carl_F._Hostetter.md).
 
 ## Nội dung {#Content}
 
 - A. The các yếu tố ngôn ngữ chính có liên quan
-- B. Meanings và việc sử dụng các thuật ngữ khác nhau áp dụng cho Yêu tinh và các giống của họ trong Quenya, Telerin và Sindarin
-- C. The Tên tộc, kèm theo ghi chú về các tên khác dành cho các bộ phận của Eldar
-    - Phụ lục A. Elvish tên cho Nam
-    - Phụ lục B. Elvish tên cho Người lùn
-    - Phụ lục C. Elvish tên của loài Orc
-    - Phụ lục D. \**Kwen*, *Quenya*, và các từ tiếng Tiên (đặc biệt là Ñoldorin) cho 'Ngôn ngữ' (chưa đầy đủ)
+- B. Meanings và việc sử dụng các thuật ngữ khác nhau áp dụng cho Tiên tộc và các biến thể của chúng trong Quenya, Telerin và Sindarin
+- C. The Tên bang hội, kèm theo ghi chú về các tên khác cho các bộ phận của Eldar
+    - Phụ lục A. Elvish tên cho Con Người
+    - Phụ lục B. Elvish tên cho Người Lùn
+    - Phụ lục C. Elvish tên cho Orc
+    - Phụ lục D. \**Kwen*, *Quenya*, và các từ Elvish (đặc biệt là Ñoldorin) cho 'Ngôn ngữ' (chưa đầy đủ)
     - Lưu ý về 'Ngôn ngữ của Valar'
-- Ghi chú của tác giả gửi Quendi và Eldar
+- Ghi chú của tác giả tới Quendi and Eldar
 - Ghi chú biên tập
 - Phụ lục: [Truyền thuyết về sự thức tỉnh của Quendi (Cuivienyarna)](../C/Cuivienyarna.md)
 
@@ -64,7 +64,7 @@ Một phần của "Phụ lục D" đã được Christopher lược bỏ trong 
 - Ghi chú của tác giả đối với phần trích từ *Quendi and Eldar*, App. D
 - Bảng thuật ngữ biên tập được trích từ *Quendi and Eldar*, App. D
 
-- *Appendix*: Từ Noldorin cho Ngôn ngữ
-- Ghi chú của tác giả về "Từ Noldorin cho ngôn ngữ"
-- Bảng thuật ngữ biên tập về "Từ Noldorin cho ngôn ngữ"
+- *Appendix*: Noldorin từ dành cho Ngôn ngữ
+- Ghi chú của tác giả cho "Noldorin từ dành cho ngôn ngữ"
+- Bảng chú giải thuật ngữ biên tập cho "Noldorin từ dành cho Ngôn ngữ"
 - Ghi chú biên tập

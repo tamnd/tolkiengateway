@@ -28,7 +28,7 @@ sort_keys:
     - "Mục vụ và sự hoàn hảo trong William Morris và J.R.R. Tolkien"
 - [2006](../_/2006.md): *[J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment](../J/J.R.R._Tolkien_Encyclopedia%253A_Scholarship_and_Critical_Assessment.md)*, mục
     - "Bất động sản"
-    - "Hobbit, Người"
+    - "Hobbit, Cái"
     - "Leeds"
     - "Con đường vẫn tiếp tục, The"
     - "Whitby"

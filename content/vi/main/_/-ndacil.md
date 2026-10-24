@@ -17,12 +17,12 @@ categories:
 ## Ví dụ {#Examples}
 
 - <i><a class="mw-redirect mw-disambig" href="../H/Hyarmendacil.md" title="Hyarmendacil">Hyarmen<b>dacil</b></a></i> = "[Miền Nam](../H/Hyarmen.md)-victor"
-- <i><a class="mw-redirect mw-disambig" href="../R/Rómendacil.md" title="Rómendacil">Rómen<b>dacil</b></a></i> = "[Đông](../R/Rómen.md)-victor"
+- <i><a class="mw-redirect mw-disambig" href="../R/Rómendacil.md" title="Rómendacil">Rómen<b>dacil</b></a></i> = "[phương Đông](../R/Rómen.md)-người chiến thắng"
 - <i><a class="mw-redirect" href="../U/Umbardacil.md" title="Umbardacil">Umbar<b>dacil</b></a></i> = "Kẻ chinh phục [Umbar](../U/Umbar.md)"
 
 ## Cùng nguồn gốc {#Cognate}
 
-- [Tiếng Sindarin](../S/Sindarin.md) *[dagnir](../D/Dagnir.md)*
+- [Sindarin](../S/Sindarin.md) *[dagnir](../D/Dagnir.md)*
 
 <span></span>
 

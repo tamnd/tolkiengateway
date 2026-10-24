@@ -42,7 +42,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_-_Tactics.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b3/The_Lord_of_the_Rings_-_Tactics.jpg/279px-The_Lord_of_the_Rings_-_Tactics.jpg" decoding="async" loading="lazy" width="279" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/b/b3/The_Lord_of_the_Rings_-_Tactics.jpg 1.5x" data-file-width="300" data-file-height="516"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Video game</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Lord of the Rings: Tactics</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Details</span></th></tr><tr><th scope="row" class="tg-infobox-label">Developer</th><td class="tg-infobox-data"><a href="../E/Electronic_Arts.md" title="Electronic Arts">Electronic Arts</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../E/Electronic_Arts.md" title="Electronic Arts">Electronic Arts</a></td></tr><tr><th scope="row" class="tg-infobox-label">Platform</th><td class="tg-infobox-data">PlayStation Portable</td></tr><tr><th scope="row" class="tg-infobox-label">Release Date</th><td class="tg-infobox-data">NA: November 8, 2005</td></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data">Tactical role-playing game</td></tr><tr><th scope="row" class="tg-infobox-label">Modes</th><td class="tg-infobox-data">Single-player, Multiplayer</td></tr></tbody></table>
 
-**Chúa tể của những chiếc nhẫn: Tactics** là trò chơi chiến thuật dành cho Sony PlayStation Portable dựa trên [*The Lord of the Rings* (loạt phim)](<The_Lord_of_the_Rings_(film_series).md>), phát hành vào [ngày 8 tháng 11](../_/8_November.md), [2005](../_/2005.md).
+**The Lord of the Rings: Tactics** là trò chơi chiến thuật dành cho Sony PlayStation Portable dựa trên [*The Lord of the Rings* (loạt phim)](<The_Lord_of_the_Rings_(film_series).md>), phát hành vào [ngày 8 tháng 11](../_/8_November.md), [2005](../_/2005.md).
 
 ## Cách chơi {#Gameplay}
 
@@ -54,11 +54,11 @@ Người chơi cuối cùng sẽ điều khiển được một số anh hùng n
 
 ## Tóm tắt chính thức {#Official_synopsis}
 
-Một cái bóng đang tụ tập trên [Trung địa](../M/Middle-earth.md). [Thời đại thứ ba](Third_Age.md) sắp kết thúc, nhưng chương kịch tính và khủng khiếp nhất của nó vẫn chưa diễn ra. Bàn cờ đã sẵn sàng, các quân cờ đang chuyển động. Tuy nhiên, câu hỏi lần này là ai sẽ nắm giữ [Chiếc nhẫn](The_One_Ring.md)?
+Một cái bóng đang tụ lại phía trên [Trung Địa](../M/Middle-earth.md). [Kỷ Đệ Tam](Third_Age.md) sắp kết thúc nhưng chương kịch tính và khủng khiếp nhất của nó vẫn chưa diễn ra. Bàn cờ đã sẵn sàng, các quân cờ đang chuyển động. Tuy nhiên, câu hỏi lần này là ai sẽ nắm giữ [Chiếc nhẫn](The_One_Ring.md)?
 
-Trong *The Lord of the Rings: Tactics*, dành riêng cho hệ thống PSP™, hãy chọn tham gia [Fellowship](../F/Fellowship_of_the_Ring.md) trong nhiệm vụ tiêu diệt The One Ring ... hoặc lực lượng của [Mordor](../M/Mordor.md) trong nỗ lực cuối cùng của họ nhằm đưa toàn bộ Trung địa dưới sự thống trị tàn nhẫn của [Sauron](../S/Sauron.md). Hành động được lấy từ toàn bộ bộ ba phim, bắt đầu từ [Weathertop](../W/Weathertop.md) với vai [hobbit](../H/Hobbits.md), [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md), cùng với [Aragorn](../A/Aragorn.md), chạm trán với [Nazgul](../N/Nazgûl.md) (sic) do [Vua phù thủy](../W/Witch-king.md) lãnh đạo. Từ đó, chiến đấu trên các bối cảnh điện ảnh trên khắp Trung Địa, từ Mỏ [Moria](../M/Moria.md) băng qua Đồng bằng [Rohan](../R/Rohan.md), qua [West Fold](../W/Westfold.md) (sic), dọc theo Đường đến [Isengard](../I/Isengard.md), cho đến [Cổng đen](../M/Morannon.md) và tiến vào trung tâm rực lửa của [Mount Chính sự diệt vong](../M/Mount_Doom.md).
+Trong *The Lord of the Rings: Tactics*, dành riêng cho hệ thống PSP™, hãy chọn tham gia [Fellowship](../F/Fellowship_of_the_Ring.md) trong nhiệm vụ tiêu diệt The One Ring ... hoặc lực lượng của [Mordor](../M/Mordor.md) trong nỗ lực cuối cùng của họ nhằm đưa tất cả Trung Địa dưới sự cai trị tàn nhẫn của [Sauron](../S/Sauron.md). Hành động lấy từ toàn bộ bộ ba phim, bắt đầu từ [Weathertop](../W/Weathertop.md) với tư cách là [hobbit](../H/Hobbits.md), [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md), cùng với [Aragorn](../A/Aragorn.md), chạm trán với [Nazgul](../N/Nazgûl.md) (sic) do [Vua Phù thủy](../W/Witch-king.md) lãnh đạo. Từ đó, chiến đấu trên các bối cảnh điện ảnh trên khắp Trung Địa, từ Mỏ [Moria](../M/Moria.md) băng qua Đồng bằng [Rohan](../R/Rohan.md), qua [Phương Tây Fold](../W/Westfold.md) (sic), dọc theo Con đường đến [Isengard](../I/Isengard.md), lên tới [Cổng Đen](../M/Morannon.md) và tiến vào chính trái tim rực lửa của [Núi Diệt Vong](../M/Mount_Doom.md).
 
-Khi chiến đấu trên những cánh đồng rộng lớn, xuyên rừng và vượt núi, bạn sẽ gặp phải nhiều thử thách. Cho dù bạn đang chiến đấu với tư cách là [Legolas](../L/Legolas.md) để truy đuổi một nhóm [Uruk-hai](../U/Uruk-hai.md) hay cưỡi [Warg](../W/Wargs.md) tham gia trận chiến chống lại binh lính của Rohan, bạn đều phải tìm hiểu điểm mạnh và điểm yếu của đội mình cũng như nắm được vị trí của vùng đất. Học cách điều hướng các địa hình khác nhau và sử dụng chúng để làm lợi thế cho bạn. Hãy chiếm giữ vùng đất cao, tránh vùng nước sâu, tìm nơi trú ẩn sau đống đổ nát và đống đổ nát, phục kích kẻ thù của bạn, v.v. Không thiếu những bộ óc chiến lược xuất sắc trong Fellowship hay Mordor, vì vậy bạn phải sử dụng những chiến thuật tốt nhất của mình nếu muốn giành được The One Ring vì mục đích tốt ... hay xấu xa ...
+Khi chiến đấu trên những cánh đồng rộng lớn, xuyên rừng và vượt núi, bạn sẽ gặp phải nhiều thử thách. Cho dù bạn đang chiến đấu với tư cách là [Legolas](../L/Legolas.md) để truy đuổi một nhóm [Uruk-hai](../U/Uruk-hai.md) hay cưỡi [Warg](../W/Wargs.md) tham gia trận chiến chống lại những người lính của Rohan, bạn đều phải tìm hiểu điểm mạnh và điểm yếu của đội mình cũng như nắm được thế trận. Học cách điều hướng các địa hình khác nhau và sử dụng chúng để làm lợi thế cho bạn. Hãy chiếm giữ vùng đất cao, tránh vùng nước sâu, tìm nơi trú ẩn sau đống đổ nát và đống đổ nát, phục kích kẻ thù của bạn, v.v. Không thiếu những bộ óc chiến lược xuất sắc trong Fellowship hoặc Mordor, vì vậy bạn phải sử dụng những chiến thuật tốt nhất của mình nếu muốn đòi The One Ring vì mục đích tốt ... hay xấu xa ...
 
 ## Lễ tân {#Reception}
 
@@ -68,43 +68,43 @@ Khi chiến đấu trên những cánh đồng rộng lớn, xuyên rừng và v
 
 ### Nhân vật chính {#Protagonists}
 
-- [Aragor](../A/Aragorn.md)
+- [Aragorn](../A/Aragorn.md)
 - [Samwise Gamgee](../S/Samwise_Gamgee.md)
 - [Frodo Baggins](../F/Frodo_Baggins.md)
 - [Gimli](../G/Gimli.md)
-- [Gandalf](../G/Gandalf.md) Xám
-- Gandalf Trắng
+- [Gandalf](../G/Gandalf.md) màu xám
+- Gandalf the White
 - [Legolas](../L/Legolas.md)
-- [Người Gondor](../G/Gondor.md)
-- [Người đàn ông Ithil](../I/Ithilien.md)
+- [Gondor Con Người](../G/Gondor.md)
+- [Ithil Con Người](../I/Ithilien.md)
 - [Boromir](../B/Boromir.md)
-- [Người Rohan](../R/Rohirrim.md)
+- [Rohan Con Người](../R/Rohirrim.md)
 - [Éomer](../_/Éomer.md)
-- [Yêu tinh Silva](../S/Silvan_Elves.md)
+- [Silvan Tiên tộc](../S/Silvan_Elves.md)
 - [Ent](../E/Ent.md)
-- [Yêu tinh rừng tối](../E/Elves_of_Mirkwood.md)
+- [Mirkwood Tiên tộc](../E/Elves_of_Mirkwood.md)
 - [Faramir](../F/Faramir.md)
-- [Những xác chết của Dunharg](../D/Dead_Men_of_Dunharrow.md)
+- [Chết Con Người trong số Dunharrow](../D/Dead_Men_of_Dunharrow.md)
 - [Théoden](Théoden.md)
 
 ### Đối kháng {#Antagonists}
 
-- [Vua phù thủy](../W/Witch-king.md) của [Angmar](../A/Angmar.md)
+- [Vua Phù thủy](../W/Witch-king.md) trong số [Angmar](../A/Angmar.md)
 - [Miệng của Sauron](../M/Mouth_of_Sauron.md)
 - [Lurtz](../L/Lurtz.md)
-- [Yêu tinh](../O/Orcs.md)
+- [Goblin](../O/Orcs.md)
 - [Balrog](../B/Balrogs.md)
 - [Isengard](../I/Isengard.md) [Uruk-hai](../U/Uruk-hai.md)
 - [Mordor](../M/Mordor.md) [Uruk-hai](../U/Uruk-hai.md)
-- [Wargs](../W/Wargs.md)
+- [Warg](../W/Wargs.md)
 - [Saruman](../S/Saruman.md)
-- [Lưỡi giun Grima](../G/Gríma.md)
-- [Quỷ nhẫn](../N/Nazgûl.md)
+- [Gríma Wormtongue](../G/Gríma.md)
+- [Nazgûl](../N/Nazgûl.md)
 - [Sauron](../S/Sauron.md)
 - [Orc](../O/Orcs.md)
 - [Những người phương Đông](../E/Easterlings.md)
 - [Uruk Troll](../O/Olog-hai.md)
-- [Quỷ đồi](../H/Hill_Trolls.md)
+- [Đồi Troll](../H/Hill_Trolls.md)
 - [Haradrim](../H/Haradrim.md)
 - [Mûmakil](../M/Mûmakil.md)
 - [Muzgash](../M/Muzgash.md)

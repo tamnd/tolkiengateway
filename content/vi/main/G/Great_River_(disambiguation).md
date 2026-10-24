@@ -16,7 +16,7 @@ images:
 
 **Sông lớn** có thể đề cập đến:
 
-- **[Anduin](../A/Anduin.md)**, con sông còn được gọi là Sông Lớn hay Sông Lớn của Vùng đất hoang dã.
+- **[Anduin](../A/Anduin.md)**, sông còn được gọi là Sông Lớn hay Sông Lớn Wilderland.
 - **[Sông Lớn](../T/The_Great_River.md)**, chương thứ chín của cuốn thứ hai trong *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)*.
 
 - [Sông Lớn (cảnh)](<../T/The_Great_River_(scene).md>), cảnh trong phim *[The Lord of the Rings: The Fellowship of the Ring](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)*.

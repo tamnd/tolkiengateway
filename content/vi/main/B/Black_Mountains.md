@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "White Mountains"
 ---
 
-Chuyển hướng đến [Núi Trắng](../W/White_Mountains.md).
+Chuyển hướng đến [Dãy Núi Trắng](../W/White_Mountains.md).

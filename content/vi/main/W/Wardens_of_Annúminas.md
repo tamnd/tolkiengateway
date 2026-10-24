@@ -24,9 +24,9 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">&#34;Wardens of Annúminas&#34; is a concept which has only appeared in an  adaptation of the works of <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>.</div></div>
 
-**Người bảo vệ Annúminas** là một nhóm [Dúnedain](../D/Dúnedain.md) ở *[The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md)* bảo vệ thành phố cổ [Annúminas](../A/Annúminas.md) khỏi Angmarim, Gertheryg, Kergrim và những kẻ cướp mộ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Vào cuối Thời đại thứ ba, họ hoạt động từ một đồn điền bên ngoài pháo đài cũ của [Tinnudir](../T/Tinnudir.md) trên một hòn đảo ở [Hồ Evendim](../L/Lake_Evendim.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Người bảo vệ của Annúminas** là một nhóm [Dúnedain](../D/Dúnedain.md) ở *[The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md)* bảo vệ thành phố cổ [Annúminas](../A/Annúminas.md) khỏi Angmarim, Gertheryg, Kergrim và những kẻ cướp mộ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Đến cuối Kỷ Đệ Tam, họ hoạt động từ một khu trại bên ngoài pháo đài cũ của [Tinnudir](../T/Tinnudir.md) trên một hòn đảo ở [Hồ Evendim](../L/Lake_Evendim.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-*[The Lord of the Rings: The Card Game](../T/The_Lord_of_the_Rings%253A_The_Card_Game.md)* có thẻ “Người giám hộ Annúminas”.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> <span></span>
+*[The Lord of the Rings: The Card Game](../T/The_Lord_of_the_Rings%253A_The_Card_Game.md)* có thẻ “Người quản lý Annúminas”.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

@@ -15,7 +15,7 @@ categories:
 
 <i><b>melme</b></i> là danh từ [Quenya](../Q/Quenya.md) có nghĩa là "tình yêu".<sup id="cite_ref-Ety_1-0" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup>
 
-[Helge Fauskanger](../H/Helge_Fauskanger.md) đã đề xuất dạng *melmë*, để phù hợp với cách viết Quenya được sử dụng trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+[Helge Fauskanger](../H/Helge_Fauskanger.md) đã đề xuất dạng *melmë*, phù hợp với cách viết Quenya được sử dụng trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

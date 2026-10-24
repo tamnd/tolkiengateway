@@ -31,17 +31,17 @@ infobox:
 
 ## Lời nói đầu {#Preface}
 
-[Christopher Tolkien](../C/Christopher_Tolkien.md), giảng viên đại học tại Oxford, trình bày một bài viết về "Người man rợ và công dân", về những anh hùng trong truyền thuyết phương Bắc được các nhà thơ Đức và nhà văn La Mã nhìn nhận khác nhau. Cha anh đã có mặt tại buổi đọc sách.
+[Christopher Tolkien](../C/Christopher_Tolkien.md), giảng viên đại học tại Oxford, trình bày bài viết về "Người man rợ và công dân", về những anh hùng trong truyền thuyết phương Bắc được các nhà thơ Đức và nhà văn La Mã nhìn khác nhau. Cha anh đã có mặt tại buổi đọc sách.
 
 ## Tóm tắt {#Summary}
 
-Một màn trình diễn xuất sắc, Tolkien tuyên bố. Nó đủ thú vị để giữ cho đôi mắt của ông luôn mở và tập trung chú ý trong suốt thời gian làm việc, bất chấp việc lao động và di chuyển không ngừng nghỉ vào đầu ngày. Anh cũng cảm thấy niềm tự hào của cha mẹ; sự hài lòng vì mình đã không hoàn toàn thất bại trong phần việc được chỉ định của mình, trả được một phần nợ mà mình mắc phải.
+Một màn trình diễn xuất sắc, được tuyên bố là Tolkien. Nó đủ thú vị để giữ cho đôi mắt của ông luôn mở và tập trung chú ý trong suốt thời gian làm việc, bất chấp việc lao động và di chuyển không ngừng nghỉ vào đầu ngày. Anh cũng cảm thấy niềm tự hào của cha mẹ; sự hài lòng vì mình đã không hoàn toàn thất bại trong phần việc được chỉ định của mình, trả được một phần nợ mà mình mắc phải.
 
-Tolkien cho biết ông đã hiểu tại sao Christopher lại thu hút được khán giả. Cụm từ của ông có sức sống và sự sống động, ông rõ ràng, không nhấn mạnh và để tài liệu của mình tự nói lên điều đó bằng cách sắp xếp và tạo hình các tờ giấy. Tolkien thích lịch sử của buổi nói chuyện, nhưng cảm giác hồi hộp nhất của ông là việc nhắc đến *atta, attila*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[notes 1]</a></sup> Nó khiến ông nhận ra mình là một nhà ngữ văn *pure* thế nào - những âm tiết đó đã tạo nên toàn bộ vở kịch lịch sử vĩ đại đầy hương vị đối với ông.
+Tolkien cho biết anh đã hiểu tại sao Christopher lại thu hút được khán giả. Cụm từ của ông có sức sống và sự sống động, ông rõ ràng, không nhấn mạnh và để tài liệu của mình tự nói lên điều đó bằng cách sắp xếp và tạo hình các tờ giấy. Tolkien thích lịch sử của buổi nói chuyện, nhưng điều khiến anh thích thú nhất là khi nhắc đến *atta, attila*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[notes 1]</a></sup> Nó khiến anh nhận ra mình là một nhà ngữ văn *pure* thế nào - những âm tiết đó đã tạo nên toàn bộ vở kịch lịch sử vĩ đại đầy hương vị đối với anh.
 
-Tolkien nói, không ai tin ông khi ông nói rằng cuốn sách dài của ông là nỗ lực tạo ra một thế giới cho những ngôn ngữ phù hợp với thẩm mỹ cá nhân của ông, nhưng đó là sự thật. Một người hỏi *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* nói về điều gì đã được trả lời rằng Tolkien muốn tạo ra một tình huống trong đó *[Elen síla lúmenn' omentielvo](../E/Elen_síla_lúmenn'_omentielvo.md)*<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[notes 2]</a></sup> sẽ là một lời chào thông thường.
+Không ai tin ông, Tolkien nói, khi ông nói rằng cuốn sách dài của ông là nỗ lực tạo ra một thế giới cho những ngôn ngữ phù hợp với thẩm mỹ cá nhân của ông, nhưng đó là sự thật. Người hỏi *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* nói về điều gì đã được trả lời rằng Tolkien muốn tạo ra một tình huống trong đó *[Elen síla lúmenn' omentielvo](../E/Elen_síla_lúmenn'_omentielvo.md)*<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[notes 2]</a></sup> sẽ là một lời chào thông thường.
 
-Đối với phạm vi tổng thể của thế giới học thuật, Tolkien cảm thấy quả bóng đang ở ngay chân Christopher.
+Đối với phạm vi toàn diện của thế giới học thuật, Tolkien cảm thấy quả bóng đang ở ngay chân Christopher.
 
 ## Ghi chú {#Notes}
 

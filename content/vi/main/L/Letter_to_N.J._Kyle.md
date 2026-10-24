@@ -18,7 +18,7 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/N/N.J._Kyle_17_January_1973.png.md"><img src="https://tolkiengateway.net/w/images/thumb/8/8a/N.J._Kyle_17_January_1973.png/300px-N.J._Kyle_17_January_1973.png" decoding="async" loading="lazy" width="300" height="431" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/8/8a/N.J._Kyle_17_January_1973.png 1.5x" data-file-width="356" data-file-height="512"/></a><figcaption></figcaption></figure>
 
-Vào [17 tháng 1](../_/17_January.md) [1973](../_/1973.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã gửi <i><a class="extiw" href="http://en.wikipedia.org/wiki/Procuration" title="wikipedia:Procuration">mỗi bên mua sắm</a></i> **[thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) tới N.J. Kyle**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Vào [17 tháng 1](../_/17_January.md) [1973](../_/1973.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã gửi <i><a class="extiw" href="http://en.wikipedia.org/wiki/Procuration" title="wikipedia:Procuration">mỗi lần mua sắm</a></i> **[thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) tới N.J. Kyle**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 - **Chủ đề:** Trả lời thư của Kyle từ [ngày 14 tháng 1](../_/14_January.md). Xin lỗi vì không thể đưa ra câu trả lời dài hơn.
 - **Mô tả:** Thư đánh máy (1 trang).
@@ -26,7 +26,7 @@ Vào [17 tháng 1](../_/17_January.md) [1973](../_/1973.md), [J.R.R. Tolkien](..
 
 ## Trích {#Excerpt}
 
-Tolkien viết rằng ông ấy "*trên thực tế đã không xem xét [The Silmarillion](../T/The_Silmarillion.md) trong hơn một năm và cần phải làm rất nhiều việc về nó ... Theo như tôi thấy, không thể có thêm cuốn sách nào về [hobbit](../H/Hobbits.md) nhưng tất nhiên người hobbit sẽ xuất hiện trong cuốn sách mới này The Silmarillion, tuy nhiên, như bạn biết đấy, câu chuyện sẽ đề cập đến thời đại trước đó trong [The Lord of the Rings](../T/The_Lord_of_the_Rings.md).*"
+Tolkien viết rằng ông đã không "*trên thực tế đã xem xét [The Silmarillion](../T/The_Silmarillion.md) trong hơn một năm và cần phải làm rất nhiều việc về nó ... Theo như tôi thấy, không thể có thêm cuốn sách nào về [hobbit](../H/Hobbits.md) nhưng tất nhiên người hobbit sẽ xuất hiện trong cuốn sách mới này The Silmarillion, tuy nhiên, như bạn biết, câu chuyện sẽ đề cập đến thời đại trước đó trong [The Lord of the Rings](../T/The_Lord_of_the_Rings.md).*"
 
 <span></span>
 

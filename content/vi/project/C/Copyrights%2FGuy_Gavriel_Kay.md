@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Kay, Guy Gavriell"
 ---
 
-- Chủ sở hữu bản quyền [Guy Gavriel Kay](../../main/G/Guy_Gavriel_Kay.md) (thông qua Deborah Meghnagi) vui lòng cấp phép để sử dụng [Guy Gavriel Kay.jpg](../../file/G/Guy_Gavriel_Kay.jpg.md) trên Tolkien Gateway.
+- Người giữ bản quyền vui lòng cấp phép [Guy Gavriel Kay](../../main/G/Guy_Gavriel_Kay.md) (thông qua Deborah Meghnagi) để sử dụng [Guy Gavriel Kay.jpg](../../file/G/Guy_Gavriel_Kay.jpg.md) trên Tolkien Gateway.
 - Ngày: 19 tháng 4 năm 2013
 - Người dùng đã xin phép qua email: [Người dùng:Morgan](https://tolkiengateway.net/wiki/User:Morgan)

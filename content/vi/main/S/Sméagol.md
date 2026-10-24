@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gollum"
 ---
 
-Chuyển hướng tới [Gollum](../G/Gollum.md).
+Chuyển hướng đến [Gollum](../G/Gollum.md).

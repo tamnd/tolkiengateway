@@ -29,7 +29,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien gửi lời chào riêng tới Selby. Ông lưu ý rằng con gái [Priscilla](../P/Priscilla_Tolkien.md) của ông đang đánh máy những chương đầu của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* và ông nghĩ rằng "[A & Unwin](../A/Allen_and_Unwin.md) sẽ đảm nhận công việc này nếu họ có thể tìm đủ giấy!".<sup id="cite_ref-TB_1-0" class="reference"><a href="#cite_note-TB-1">[1]</a></sup>
+Tolkien gửi lời chào cá nhân tới Selby. Ông lưu ý rằng con gái [Priscilla](../P/Priscilla_Tolkien.md) của ông đang đánh máy những chương đầu của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* và ông nghĩ rằng "[A & Unwin](../A/Allen_and_Unwin.md) sẽ đảm nhận công việc này nếu họ có thể tìm đủ giấy!".<sup id="cite_ref-TB_1-0" class="reference"><a href="#cite_note-TB-1">[1]</a></sup>
 
 Các đoạn trích từ bức thư ban đầu xuất hiện trong <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Sotheby%27s_Nineteenth_Century_and_Modern_First_Editions,_Presentation_Copies,_Autograph_Letters_and_Literary_Manuscripts_28-29_July_1977&amp;action=edit&amp;redlink=1" title="Sotheby&#39;s Nineteenth Century and Modern First Editions, Presentation Copies, Autograph Letters and Literary Manuscripts 28-29 July 1977 (page does not exist)">Sotheby's Thế kỷ 19 và các Ấn bản đầu tiên hiện đại, Bản sao thuyết trình, Thư ký tặng và Bản thảo văn học ngày 28-29 tháng 7 năm 1977</a></i><sup id="cite_ref-TB_1-1" class="reference"><a href="#cite_note-TB-1">[1]</a></sup> trước khi được xuất bản trong Phiên bản mở rộng của [The Letters of J.R.R. Tolkien](../T/The_Letters_of_J.R.R._Tolkien.md#Revised_and_Expanded_edition).
 

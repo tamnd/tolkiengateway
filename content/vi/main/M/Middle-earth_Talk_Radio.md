@@ -15,8 +15,8 @@ sort_keys:
   "Podcasts": "Middle-earth Talk Radio"
 ---
 
-<i><b>Middle-earth Talk Radio</b></i> là một [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)-podcast do [Michael Martinez](Michael_Martinez.md) và [Hawke Robinson](../H/Hawke_Robinson.md) tổ chức.
+<i><b>Trung Địa Talk Radio</b></i> là một [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)-podcast do [Michael Martinez](Michael_Martinez.md) và [Hawke Robinson](../H/Hawke_Robinson.md) tổ chức.
 
 ## Liên kết ngoài {#External_links}
 
-- <i><a class="external text" href="http://www.middle-earthtalk.com" rel="noreferrer noopener" target="_blank">Đài nói chuyện ở Trung Địa</a></i>
+- <i><a class="external text" href="http://www.middle-earthtalk.com" rel="noreferrer noopener" target="_blank">Trung Địa Đài đàm thoại</a></i>

@@ -34,9 +34,9 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J._R._R._Tolkien_Routledge.jpeg.md"><img src="https://tolkiengateway.net/w/images/thumb/2/2a/J._R._R._Tolkien_Routledge.jpeg/320px-J._R._R._Tolkien_Routledge.jpeg" decoding="async" loading="lazy" width="320" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/2/2a/J._R._R._Tolkien_Routledge.jpeg 1.5x" data-file-width="350" data-file-height="525"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>J. R. R. Tolkien</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../S/Stuart_D._Lee.md" title="Stuart D. Lee">Stuart D. Lee</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Routledge</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/27_March.md" title="27 March">27 March</a> <a href="../_/2017.md" title="2017">2017</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Hardcover</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">1480</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/978-1138889774" title="Special:BookSources/978-1138889774">978-1138889774</a></td></tr></tbody></table>
 
-<i><b>J. R. R. Tolkien</b></i> là một bộ sưu tập lớn các công trình học thuật về nghiên cứu của Tolkien, được biên tập bởi [Stuart D. Lee](../S/Stuart_D._Lee.md), xuất bản trên [2017](../_/2017.md). Nó là một phần của dòng sản phẩm *Critical Assessments of Major Writers* của Routledge.
+<i><b>J. R. R. Tolkien</b></i> là một bộ sưu tập lớn các công trình học thuật về Tolkien nghiên cứu, được biên tập bởi [Stuart D. Lee](../S/Stuart_D._Lee.md), xuất bản trên [2017](../_/2017.md). Nó là một phần của dòng sản phẩm *Critical Assessments of Major Writers* của Routledge.
 
-Tác phẩm tập hợp một số nghiên cứu quan trọng về Tolkien từ 60 năm trước thành bốn tập, cung cấp một thư viện rộng lớn để các học giả và sinh viên dễ dàng truy cập.
+Công trình tập hợp một số nghiên cứu quan trọng về Tolkien từ 60 năm trước thành bốn tập, cung cấp một thư viện rộng lớn để các học giả và sinh viên dễ dàng truy cập.
 
 ## Từ nhà xuất bản {#From_the_publisher}
 
@@ -48,20 +48,20 @@ Tác phẩm tập hợp một số nghiên cứu quan trọng về Tolkien từ 
 
 ## Tập và phần {#Volumes_and_sections}
 
-- **Tập I: Cuộc đời Tolkien – Nhà văn và nhà thời Trung cổ**
+- **Tập I: Cuộc đời của Tolkien– Nhà văn và nhà thời Trung cổ**
     - Nghiên cứu tiểu sử
     - Người theo chủ nghĩa thời Trung cổ
     - Lít. và Lăng.
 
-- **Tập II: Cội rễ của Trung địa**
+- **Tập II: Cội rễ của Trung Địa**
     - Một phó bí mật – Phát minh ra ngôn ngữ
     - Nguồn, Tương tự và Cảm hứng
-    - Thần thoại và tạo ra huyền thoại
+    - Thần thoại và tạo ra thần thoại
 
 - **Tập III: Tác phẩm và chủ đề chính**
-    - Tỷ phú Silmarillion
-    - Người Hobbit
-    - Chúa tể của những chiếc nhẫn
+    - The Silmarillion
+    - The Hobbit
+    - The Lord of the Rings
     - Tác phẩm khác
     - Thơ
 

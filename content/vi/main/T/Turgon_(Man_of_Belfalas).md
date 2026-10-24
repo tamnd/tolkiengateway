@@ -52,9 +52,9 @@ Turgon là tác phẩm nguyên bản dành cho phim *[The Lord of the Rings: The
 
 ## Lịch sử {#History}
 
-Turgon sinh ra ở [Belfalas](../B/Belfalas.md) trong [Kỷ thứ ba](Third_Age.md). Turgon trở thành Hiệp sĩ của [Gondor](../G/Gondor.md). Ông hy vọng rằng cuối cùng mình sẽ trở thành <a class="new" href="https://tolkiengateway.net/w/index.php?title=Swan-knights&amp;action=edit&amp;redlink=1" title="Swan-knights (page does not exist)">hiệp sĩ của Dol Amroth</a>.
+Turgon được sinh ra vào năm [Belfalas](../B/Belfalas.md) trong [năm Kỷ Đệ Tam](Third_Age.md). Turgon trở thành Hiệp sĩ của [Gondor](../G/Gondor.md). Ông hy vọng rằng cuối cùng mình sẽ trở thành một <a class="new" href="https://tolkiengateway.net/w/index.php?title=Swan-knights&amp;action=edit&amp;redlink=1" title="Swan-knights (page does not exist)">hiệp sĩ của Dol Amroth</a>.
 
-[Boromir](../B/Boromir.md), con trai của [Quản gia Gondor](../S/Steward_of_Gondor.md) [Denethor II](../D/Denethor.md), đã chiếm lại [Osgiliath](../O/Osgiliath.md) từ lực lượng của [Mordor](../M/Mordor.md). Sau chiến thắng, anh đứng trên sân thượng và cắm lá cờ Gondor. Turgon và các Hiệp sĩ reo hò "Boromir! Boromir!" và, cầm lá cờ và thanh kiếm của mình, Boromir có bài phát biểu trước các chiến binh Gondorian. Khi Boromir tuyên bố “Hãy để quân đội Mordor biết điều này: Đất nước của dân tộc ta sẽ không bao giờ rơi vào tay kẻ thù nữa!”, Turgon giơ nắm tay phải lên và reo hò cùng đồng đội. Boromir hét lên "Thành phố Osgiliath đã được giành lại cho Gondor!" và những người lính, bao gồm cả Turgon. giơ nắm tay phải lên và cổ vũ "Vì Gondor!"
+[Boromir](../B/Boromir.md), con trai của [Quản lý Gondor](../S/Steward_of_Gondor.md) [Denethor II](../D/Denethor.md), đã giành lại [Osgiliath](../O/Osgiliath.md) từ lực lượng của [Mordor](../M/Mordor.md). Sau chiến thắng, anh đứng trên sân thượng và cắm lá cờ Gondor. Turgon và các Hiệp sĩ reo hò "Boromir! Boromir!" và cầm cờ và kiếm, Boromir có bài phát biểu trước các chiến binh Gondor. Khi Boromir tuyên bố “Hãy cho quân đội Mordor biết điều này: Đất nước của dân ta sẽ không bao giờ rơi vào tay kẻ thù nữa!”, Turgon giơ nắm tay phải lên và cổ vũ cùng đồng đội. Boromir hét lên "Thành phố Osgiliath đã được thu hồi trong Gondor!" và các chiến sĩ, trong đó có Turgon. giơ nắm tay phải lên và cổ vũ "Vì Gondor!"
 
 <span></span>
 

@@ -41,18 +41,18 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_-_Weapons_and_Warfare.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/46/The_Lord_of_the_Rings_-_Weapons_and_Warfare.jpg/320px-The_Lord_of_the_Rings_-_Weapons_and_Warfare.jpg" decoding="async" loading="lazy" width="320" height="444" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/4/46/The_Lord_of_the_Rings_-_Weapons_and_Warfare.jpg 1.5x" data-file-width="432" data-file-height="600"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Lord of the Rings: Weapons and Warfare</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a href="../C/Chris_Smith.md" title="Chris Smith">Chris Smith</a></td></tr><tr><th scope="row" class="tg-infobox-label">Foreword by</th><td class="tg-infobox-data"><a href="../C/Christopher_Lee.md" title="Christopher Lee">Christopher Lee</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a class="mw-redirect" href="../H/Houghton_Mifflin.md" title="Houghton Mifflin">Houghton Mifflin</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/5_November.md" title="5 November">November 5</a>, <a href="../_/2003.md" title="2003">2003</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Hardcover, Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">224</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0618390995" title="Special:BookSources/0618390995">0618390995</a></td></tr></tbody></table>
 
-<i><b>Chúa tể của những chiếc nhẫn: Vũ khí và Chiến tranh</b></i> là cuốn sách của [HarperCollins](../H/HarperCollins.md)' [Tolkien](../J/J.R.R._Tolkien.md)-biên tập viên chi nhánh, [Chris Smith](../C/Chris_Smith.md). Hướng dẫn này chứa thông tin từ cả sách và [phim của Peter Jackson](<The_Lord_of_the_Rings_(film_series).md>). Nó có lời tựa của [Christopher Lee](../C/Christopher_Lee.md) và phần giới thiệu của [Weta Workshop](../W/Weta_Workshop.md)'s [Richard Taylor](../R/Richard_Taylor.md).
+<i><b>The Lord of the Rings: Vũ khí và Chiến tranh</b></i> là cuốn sách của [HarperCollins](../H/HarperCollins.md)' [Tolkien](../J/J.R.R._Tolkien.md) biên tập viên chi nhánh, [Chris Smith](../C/Chris_Smith.md). Hướng dẫn này chứa thông tin từ cả sách và [Peter Jackson phim](<The_Lord_of_the_Rings_(film_series).md>). Nó có lời nói đầu của [Christopher Lee](../C/Christopher_Lee.md) và phần giới thiệu của [Weta Workshop](../W/Weta_Workshop.md) [Richard Taylor](../R/Richard_Taylor.md).
 
 ## Từ nhà xuất bản {#From_the_publisher}
 
-Được minh họa lộng lẫy với 1.000 bức ảnh, tranh vẽ, bản đồ, tác phẩm điêu khắc và bản phác thảo, hầu hết đều xuất hiện ở đây lần đầu tiên, Vũ khí và Chiến tranh là biên niên sử không thể thiếu về nhiều sinh vật, chiến binh, quân đội và chiến trường của Chúa tể những chiếc nhẫn. Từ những Yêu tinh duyên dáng và thành thạo cho đến những cỗ máy chiến tranh khủng khiếp của Chúa tể bóng tối, cách tiếp cận chiến tranh của mỗi nền văn hóa đều được giải thích -- cách họ chiến đấu, lý do họ chiến đấu, loại áo giáp họ mặc và loại vũ khí họ sử dụng để chống lại kẻ thù. Bây giờ bạn có thể đến gần một con Orc đang cướp bóc như bạn mong muốn mà không phải gánh chịu hậu quả! Coi các ghi chú, thiết kế và đạo cụ của các nhà làm phim như một kho lưu trữ thực sự, Vũ khí và Chiến tranh mô tả chi tiết mọi xung đột lớn được mô tả trong bộ ba phim -- từ Liên minh cuối cùng của Yêu tinh và Con người đến Trận chiến đỉnh cao trên Cánh đồng Pelennor -- mỗi phim đều kèm theo sơ đồ chiến đấu từ các nhà thiết kế chính của phim. Được trang bị vô số sự kiện hấp dẫn và hình ảnh độc đáo, cùng với lời tựa độc quyền của Christopher Lee và lời giới thiệu của người đoạt giải Oscar Richard Taylor, Weapons and Warfare hứa hẹn sẽ là người bạn đồng hành ấn tượng nhất với bộ ba phim Chúa tể của những chiếc nhẫn được xuất bản cho đến nay.
+Được minh họa lộng lẫy với 1.000 bức ảnh, tranh vẽ, bản đồ, tác phẩm điêu khắc và bản phác thảo, hầu hết đều xuất hiện ở đây lần đầu tiên, Vũ khí và Chiến tranh là một biên niên sử không thể thiếu về The Lord of the Rings' nhiều sinh vật, chiến binh, quân đội và chiến trường. Từ Tiên tộc duyên dáng và thành thạo đến những cỗ máy chiến tranh khủng khiếp của Chúa tể Bóng tối, cách tiếp cận chiến tranh của mỗi nền văn hóa đều được giải thích -- cách họ chiến đấu, lý do họ chiến đấu, loại áo giáp họ mặc và loại vũ khí họ sử dụng để chống lại kẻ thù. Giờ đây bạn có thể tiến gần đến Orc một cuộc cướp bóc như bạn mong muốn mà không phải gánh chịu hậu quả! Coi các ghi chú, thiết kế và đạo cụ của nhà làm phim như một kho lưu trữ thực sự, Weapons and Warfare mô tả chi tiết mọi xung đột lớn được mô tả trong bộ ba phim -- từ Liên minh Cuối cùng của Tiên tộc và Con Người đến cao trào Trận chiến trên Cánh đồng Pelennor -- mỗi phim đều kèm theo sơ đồ chiến đấu của các nhà thiết kế chính của phim. Được trang bị vô số sự kiện hấp dẫn và hình ảnh độc đáo, cùng với lời tựa độc quyền của Christopher Lee và lời giới thiệu của người đoạt giải Oscar Richard Taylor, Weapons and Warfare hứa hẹn sẽ là người bạn đồng hành ấn tượng nhất với bộ ba phim The Lord of the Rings được xuất bản cho đến nay.
 
 ## Nội dung {#Contents}
 
-*Chúa tể của những chiếc nhẫn: Vũ khí và Chiến tranh* bao gồm các chương sau:
+*The Lord of the Rings: Vũ khí và Chiến tranh* bao gồm các chương sau:
 
-1. *Lịch sử cuộc chiến trên nhẫn*
-2. *Liên minh cuối cùng của Yêu tinh và Con người*
+1. *Lịch sử của Cuộc chiến Nhẫn*
+2. * Liên minh Cuối cùng của Tiên tộc và Con Người*
 3. *The Dead Marshes*
 4. *The Elves of Second Age*
 5. *Gil-galad*
@@ -65,7 +65,7 @@ infobox:
 12. *The Last Alliance - battle plan*
 13. *Weathertop*
 14. *Hobbits*
-15. *Moria - Cuộc chiến giữa người lùn và tộc Orc*
+15. *Moria - Cuộc chiến của Người Lùn và Orc*
 16. *Dwarves*
 17. *Gimli*
 18. *Cave-troll*
@@ -108,7 +108,7 @@ infobox:
 55. *Mûmakil*
 56. *The Corsairs of Umbar*
 57. *The Dead Men of Dunharrow*
-58. *Cuộc vây hãm Gondor/Trận chiến trên cánh đồng Pelennor - kế hoạch chiến đấu*
+58. * Cuộc vây hãm Gondor/Trận chiến trên Cánh đồng Pelennor - kế hoạch tác chiến*
 59. *The Black Gate of Mordor*
 60. *The Mouth of Sauron*
 61. *Aragorn*

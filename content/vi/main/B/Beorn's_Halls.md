@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Beorn's Hall"
 ---
 
-Chuyển hướng đến [Sảnh của Beorn](Beorn's_Hall.md).
+Chuyển hướng tới Sảnh của [Beorn](Beorn's_Hall.md).

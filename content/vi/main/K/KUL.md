@@ -12,18 +12,18 @@ categories:
   - "Roots"
 ---
 
-**KUL** là [Quendian nguyên thủy](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) biểu thị "màu đỏ vàng".<sup id="cite_ref-LR_1-0" class="reference"><a href="#cite_note-LR-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**KUL** là [Primitive Quendian](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) biểu thị "màu đỏ vàng".<sup id="cite_ref-LR_1-0" class="reference"><a href="#cite_note-LR-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Công cụ phái sinh {#Derivatives}
 
 - [Quenya](../Q/Quenya.md): *kullo* ("vàng đỏ"); *kulda*, *kulina* ("màu lửa, đỏ vàng"); *kuluina* ("cam"); *[kuluma](Kuluma.md)*<sup id="cite_ref-LR_1-1" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
 
-- [Quendian nguyên thủy](../P/Primitive_Quendian.md): *kuldā*<sup id="cite_ref-LR_1-2" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
+- [Primitive Quendian](../P/Primitive_Quendian.md): *kuldā*<sup id="cite_ref-LR_1-2" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
     - [Noldorin](../N/Noldorin.md): *coll* ("đỏ")<sup id="cite_ref-LR_1-3" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
 
 ## Phiên bản khác {#Other_versions}
 
-Trong *[Etymologies](../T/The_Etymologies.md)* cũng xuất hiện từ gốc **GUL**, biểu thị "tỏa sáng, tỏa sáng vàng hoặc đỏ", với các dạng hậu duệ [Quendian nguyên thủy](../P/Primitive_Quendian.md) *guldā* và [Noldorin](../N/Noldorin.md) *goll* ("đỏ đỏ"). [Christopher Tolkien](../C/Christopher_Tolkien.md) lưu ý rằng "mục gốc này đã bị gạch bỏ" và được thay thế bằng KUL.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Trong *[Etymologies](../T/The_Etymologies.md)* cũng xuất hiện từ gốc **GUL**, biểu thị "tỏa sáng, tỏa sáng vàng hoặc đỏ", với các dạng hậu duệ [Primitive Quendian](../P/Primitive_Quendian.md) *guldā* và [Noldorin](../N/Noldorin.md) *goll* ("đỏ đỏ"). Tuy nhiên, [Christopher Tolkien](../C/Christopher_Tolkien.md) lưu ý rằng "mục nhập ban đầu này đã bị gạch bỏ" và được thay thế bằng KUL.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Xem thêm {#See_also}
 

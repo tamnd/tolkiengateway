@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Drúwaith Iaur"
 ---
 
-Chuyển hướng tới [Drúwaith Iaur](../D/Drúwaith_Iaur.md).
+Chuyển hướng đến [Drúwaith Iaur](../D/Drúwaith_Iaur.md).

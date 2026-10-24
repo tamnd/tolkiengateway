@@ -53,7 +53,7 @@ sort_keys:
 <li><a href="../B/Beyond_The_Forest.md" title="Beyond The Forest">Beyond The Forest</a></li></ol>
 </td></tr></tbody></table>
 
-**Smaug** là ca khúc thứ mười hai trong đĩa hai của *[The Hobbit: The Desolation of Smaug - Original Motion Picture Soundtrack](../T/The_Hobbit%253A_The_Desolation_of_Smaug_-_Original_Motion_Picture_Soundtrack.md)* và [nhạc phim phiên bản đặc biệt](../T/The_Hobbit%253A_The_Desolation_of_Smaug_-_Original_Motion_Picture_Soundtrack_-_Special_Edition.md), của [Howard Shore](../H/Howard_Shore.md).
+**Smaug** là ca khúc thứ mười hai của đĩa hai trong *[The Hobbit: The Desolation of Smaug - Original Motion Picture Soundtrack](../T/The_Hobbit%253A_The_Desolation_of_Smaug_-_Original_Motion_Picture_Soundtrack.md)* và [nhạc phim phiên bản đặc biệt](../T/The_Hobbit%253A_The_Desolation_of_Smaug_-_Original_Motion_Picture_Soundtrack_-_Special_Edition.md), của [Howard Shore](../H/Howard_Shore.md).
 
 ## Xem thêm {#See_also}
 

@@ -39,7 +39,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mythlore_123.gif.md"><img src="https://tolkiengateway.net/w/images/f/fa/Mythlore_123.gif" decoding="async" loading="lazy" width="225" height="295" class="mw-file-element" data-file-width="225" data-file-height="295"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mythlore 123</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../J/Janet_Brennan_Croft.md" title="Janet Brennan Croft">Janet Brennan Croft</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Fall/Winter <a href="../_/2013.md" title="2013">2013</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">184</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mythlore_121%252F122.md" title="Mythlore 121/122">Mythlore 121/122</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mythlore_124.md" title="Mythlore 124">Mythlore 124</a></td></tr></tbody></table>
 
-<b><i>Thần thoại</i> 123</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol32/iss1/" rel="noreferrer noopener" target="_blank">Tập 32, Số 1</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
+<b><i>Mythlore</i> 123</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol32/iss1/" rel="noreferrer noopener" target="_blank">Tập 32, Số 1</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
 
 ## Nội dung {#Contents}
 
@@ -60,10 +60,10 @@ infobox:
 
 #### Đánh giá {#Reviews}
 
-- *Mối quan hệ quốc tế ở Trung Địa: Học hỏi từ Chúa tể những chiếc nhẫn.* Abigail E. Ruane và Patrick James. Được đánh giá bởi Robert T. Tally Jr.
-- *Những khoảnh khắc ân sủng và cuộc chiến tâm linh trong Chúa tể của những chiếc nhẫn.* Anne Marie Gazzolo. Được đánh giá bởi Damien Bador.
-- *Pháp sư xứ Oz như huyền thoại Mỹ: Nghiên cứu phê bình về sáu phiên bản của câu chuyện, 1900-2007.* Alissa Burger. Được đánh giá bởi Hugh H. Davis.
-- *Dễ hiểu với con mắt hướng nội: Các bài tiểu luận chọn lọc về C.S. Lewis.* Don W. King. Được đánh giá bởi Holly Ordway.
+- *Quan hệ quốc tế của Trung Địa: Học hỏi từ The Lord of the Rings.* Abigail E. Ruane và Patrick James. Được đánh giá bởi Robert T. Tally Jr.
+- *Những khoảnh khắc ân sủng và cuộc chiến tâm linh trong The Lord of the Rings.* Anne Marie Gazzolo. Được đánh giá bởi Damien Bador.
+- * Pháp sư xứ Oz như huyền thoại Mỹ: Nghiên cứu phê bình về sáu phiên bản của câu chuyện, 1900-2007.* Alissa Burger. Được đánh giá bởi Hugh H. Davis.
+- *Dễ hiểu: Những bài tiểu luận chọn lọc về C.S. Lewis.* Don W. King. Được đánh giá bởi Holly Ordway.
 - *Tolkien's Poetry.* Biên tập. Julian Eilmann và Allan Turner. Được đánh giá bởi Joe R. Christopher.
 - *Thế giới của sư tử: Hành trình vào trái tim Narnia.* Rowan Williams. Được đánh giá bởi Melody Green.
 - *C. S. Lewis - Một cuộc đời: Thiên tài lập dị, Nhà tiên tri bất đắc dĩ.* Alister McGrath. Được đánh giá bởi Gregory Bassham.

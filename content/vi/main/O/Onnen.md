@@ -13,7 +13,7 @@ categories:
   - "Sindarin adjectives"
 ---
 
-<i><b>onnen</b></i> (*pl. ennin*) là một từ [tiếng Sindarin](../S/Sindarin.md) có nghĩa là **sinh ra**, phân từ của *[onna-](Onna-.md)*, *to beget*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
+<i><b>onnen</b></i> (*pl. ennin*) là một từ [Sindarin](../S/Sindarin.md) có nghĩa là **sinh ra**, là phân từ của *[onna-](Onna-.md)*, *to beget*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

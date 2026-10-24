@@ -66,7 +66,7 @@ Sự kiện xảy ra vào ngày 3 tháng 7.
 - **[1924](1924.md)** - Nghệ sĩ [Kay Woollard](../K/Kay_Woollard.md) ra đời.
 - **[1956](1956.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 190](../L/Letter_190.md).
 - **[1972](1972.md)** - [Mythcon 3](../M/Mythcon_3.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Long_Beach,_California" title="wikipedia:Long Beach, California">Long Beach, California</a>.
-- **[2002](2002.md)** - Gói tăng cường của "Realms of the Elf-lords", bộ thứ ba trong [The Lord of the Rings Trading Card Game](../T/The_Lord_of_the_Rings_Trading_Card_Game.md), được phát hành.
+- **[2002](2002.md)** - Gói tăng cường của "Realms of the Tiên-lords", bộ thứ ba trong [The Lord of the Rings Trading Card Game](../T/The_Lord_of_the_Rings_Trading_Card_Game.md), được phát hành.
 - **[2006](2006.md)** - [Hội nghị tập hợp các học bổng](../T/The_Gathering_of_the_Fellowship.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Toronto" title="wikipedia:Toronto">Toronto</a>.
 - **[2017](2017.md)** - Một [vụ kiện](../L/Lawsuits.md) đã được giải quyết giữa [Warner Bros.](../W/Warner_Bros..md) và [Tolkien Estate](../T/Tolkien_Estate.md).
 

@@ -33,16 +33,16 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../T/Two_Lamps.md" title="Two Lamps">Two Lamps</a></b></div></div>
 
-**Ormal** là một trong [Hai ngọn đèn](../T/Two_Lamps.md) của [Valar](../V/Valar.md), được tạo ra bởi [Aulë](../A/Aulë.md), được lấp đầy bởi [Varda](../V/Varda.md) và được [Manwë](../M/Manwë.md) thần thánh ở phía nam thế giới trong khi Valar vẫn cư trú trên [Almaren](../A/Almaren.md). Nó đã bị [Melkor](../M/Morgoth.md) phá hủy ít nhất 5 tuổi trước khi bắt đầu [Thời đại thứ nhất](../F/First_Age.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Sự hủy diệt đã tạo ra [Biển Ringil](../S/Sea_of_Ringil.md), phía nam [Biển Helcar](../S/Sea_of_Helcar.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 1]</a></sup>
+**Ormal** là một trong những [Hai Ngọn Đèn](../T/Two_Lamps.md) của [Valar](../V/Valar.md), được tạo ra bởi [Aulë](../A/Aulë.md), được lấp đầy bởi [Varda](../V/Varda.md) và được [Manwë](../M/Manwë.md) tôn vinh ở phía nam thế giới trong khi Valar vẫn cư trú trên [Almaren](../A/Almaren.md). Nó đã bị [Melkor](../M/Morgoth.md) phá hủy ít nhất 5 năm trước khi bắt đầu [Kỷ Đệ Nhất](../F/First_Age.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Sự phá hủy đã tạo ra [Biển Ringil](../S/Sea_of_Ringil.md), phía nam [Biển Helcar](../S/Sea_of_Helcar.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Cái tên này rõ ràng có nghĩa là "Vàng cao cả"<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup> hoặc "Vàng cao cấp".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup> Rõ ràng nó bao gồm [Elvish](../E/Elvish.md) [rễ](../R/Root.md) [OR](OR~34968.md) và <a class="new" href="https://tolkiengateway.net/w/index.php?title=MAL&amp;action=edit&amp;redlink=1" title="MAL (page does not exist)">MAL</a>.
+Cái tên này dường như có nghĩa là "Vàng cao cả"<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup> hoặc "Vàng cao cấp".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup> Rõ ràng nó bao gồm [Elvish](../E/Elvish.md) [gốc](../R/Root.md) [OR](OR~34968.md) và <a class="new" href="https://tolkiengateway.net/w/index.php?title=MAL&amp;action=edit&amp;redlink=1" title="MAL (page does not exist)">MAL</a>.
 
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Biển này không được đề cập trong <i><a class="mw-redirect" href="../S/Silmarillion.md" title="Silmarillion">Silmarillion</a></i>đã xuất bản.</span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Điều này Biển không được đề cập trong <i><a class="mw-redirect" href="../S/Silmarillion.md" title="Silmarillion">Silmarillion</a></i>đã xuất bản.</span>
 </li>
 </ol></div></span>
 

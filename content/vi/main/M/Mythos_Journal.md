@@ -14,11 +14,11 @@ categories:
   - "Publications by title"
 ---
 
-<i><b>Tạp chí Mythos</b></i> có bài viết “Những cạm bẫy ở Thần tiên” của [Verlyn Flieger](../V/Verlyn_Flieger.md). Phần này trích dẫn rất nhiều từ một bài tiểu luận chưa được xuất bản của [Tolkien](../J/J.R.R._Tolkien.md) liên quan đến [Smith of Wootton Major](../S/Smith_of_Wootton_Major.md). (trang 3–10)
+<i><b>Tạp chí Mythos</b></i> có bài viết “Những cạm bẫy ở thần tiên” của [Verlyn Flieger](../V/Verlyn_Flieger.md). Phần này trích dẫn nhiều phần từ một bài tiểu luận chưa được xuất bản của [Tolkien](../J/J.R.R._Tolkien.md) liên quan đến [Smith của Wootton Major](../S/Smith_of_Wootton_Major.md). (trang 3–10)
 
 <br>
 
-- In lại dưới hình thức có sửa đổi đôi chút trong cuốn A question of Time (1997) của Verlyn Flieger.
+- In lại dưới hình thức có sửa đổi đôi chút trong cuốn Câu hỏi về thời gian (1997) của Verlyn Flieger.
 - In lại ở Saga: Những tác phẩm mới hay nhất về thần thoại, ed. Jonathan Young 157-171?
 
 <br>

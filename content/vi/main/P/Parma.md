@@ -20,18 +20,18 @@ images:
 
 <figure class="mw-default-size mw-halign-left" typeof="mw:File"><a class="mw-file-description" href="../../file/P/Parma.gif.md"><img src="https://tolkiengateway.net/w/images/d/d2/Parma.gif" decoding="async" loading="lazy" width="53" height="65" class="mw-file-element" data-file-width="53" data-file-height="65"/></a><figcaption></figcaption></figure>
 
-*Parma* cũng là tên bằng tiếng Quenya của chữ cái thứ hai trong bảng chữ cái [Tengwar](../T/Tengwar.md).<sup id="cite_ref-Names_1-1" class="reference"><a href="#cite_note-Names-1">[1]</a></sup> Đây là chữ cái thứ hai của lớp một hay [Tyellë](../T/Tyellë.md), chứa "các điểm dừng vô thanh" và là chữ cái đầu tiên trong chuỗi phụ âm môi hay *p*, *[Parmatéma](Parmatéma.md)*. Trong tất cả các chế độ, *Parma* đại diện cho **P**.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Tên [Westron](../W/Westron.md) cho chữ cái này là <i><b>Pí</b></i>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+*Parma* cũng là tên trong Quenya của chữ cái thứ hai trong bảng chữ cái [Tengwar](../T/Tengwar.md).<sup id="cite_ref-Names_1-1" class="reference"><a href="#cite_note-Names-1">[1]</a></sup> Đây là chữ cái thứ hai của lớp một hay [Tyellë](../T/Tyellë.md), chứa "các điểm dừng vô thanh" và nó là chữ cái đầu tiên trong chuỗi phụ âm môi hoặc *p*, *[Parmatéma](Parmatéma.md)*. Trong tất cả các chế độ, *Parma* đại diện cho **P**.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Tên [Westron](../W/Westron.md) cho chữ cái này là <i><b>Pí</b></i>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <br>
 
 ## Từ nguyên {#Etymology}
 
-Từ này bắt nguồn từ [Quendian nguyên thủy](Primitive_Quendian.md) [gốc](../S/Sundocarme.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=PAR&amp;action=edit&amp;redlink=1" title="PAR (page does not exist)">PAR</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Từ này bắt nguồn từ [Primitive Quendian](Primitive_Quendian.md) [gốc](../S/Sundocarme.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=PAR&amp;action=edit&amp;redlink=1" title="PAR (page does not exist)">PAR</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Xem thêm {#See_also}
 
-- <a class="external text" href="http://www.uib.no/People/hnohf/qlist.htm" rel="noreferrer noopener" target="_blank">Danh sách từ Quenya Corpus</a> do [Helge Fauskanger biên tập](../H/Helge_Fauskanger.md).
-- [Parma Eldalamberon](Parma_Eldalamberon.md) - Một tạp chí chuyên nghiên cứu học thuật về các ngôn ngữ do Tolkien phát minh ra.
+- <a class="external text" href="http://www.uib.no/People/hnohf/qlist.htm" rel="noreferrer noopener" target="_blank">Quenya Danh sách từ ngữ liệu</a> được chỉnh sửa bởi [Helge Fauskanger](../H/Helge_Fauskanger.md).
+- [Parma Eldalamberon](Parma_Eldalamberon.md) - Một tạp chí chuyên nghiên cứu học thuật về các ngôn ngữ được phát minh bởi Tolkien.
 
 <span></span>
 

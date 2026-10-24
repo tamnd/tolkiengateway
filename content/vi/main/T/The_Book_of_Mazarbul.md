@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Book of Mazarbul"
 ---
 
-Chuyển hướng tới [Sách Mazarbul](../B/Book_of_Mazarbul.md).
+Chuyển hướng đến [Sách Mazarbul](../B/Book_of_Mazarbul.md).

@@ -41,7 +41,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tolkien_Calendar_2013_(Howe).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/e/ee/Tolkien_Calendar_2013_%28Howe%29.jpg/320px-Tolkien_Calendar_2013_%28Howe%29.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/ee/Tolkien_Calendar_2013_%28Howe%29.jpg/480px-Tolkien_Calendar_2013_%28Howe%29.jpg 1.5x, https://tolkiengateway.net/w/images/e/ee/Tolkien_Calendar_2013_%28Howe%29.jpg 2x" data-file-width="500" data-file-height="500"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Tolkien Calendar 2013</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="../J/John_Howe.md" title="John Howe">John Howe</a>, <a href="../A/Alan_Lee.md" title="Alan Lee">Alan Lee</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../H/HarperCollins.md" title="HarperCollins">HarperCollins</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/30_August.md" title="30 August">30 August</a> <a href="../_/2012.md" title="2012">2012</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Calendar</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">32</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/978-0-00-748593-2" title="Special:BookSources/978-0-00-748593-2">978-0-00-748593-2</a> (UK)<br/><a href="https://tolkiengateway.net/wiki/Special:BookSources/978-0-06-220801-9" title="Special:BookSources/978-0-06-220801-9">978-0-06-220801-9</a> (US)</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Tolkien_Calendar_2012.md" title="Tolkien Calendar 2012">Tolkien Calendar 2012</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Tolkien_Calendar_2014.md" title="Tolkien Calendar 2014">Tolkien Calendar 2014</a></td></tr></tbody></table>
 
-<i><b>Lịch Tolkien 2013</b></i> là lịch Tolkien chính thức được xuất bản bởi [HarperCollins](../H/HarperCollins.md) vào [30 tháng 8](../_/30_August.md) [2012](../_/2012.md). Nó có tác phẩm nghệ thuật của [John Howe](../J/John_Howe.md) và [Alan Lee](../A/Alan_Lee.md) dựa trên *[The Hobbit](The_Hobbit.md)*.
+Lịch <i><b>Tolkien 2013</b></i> là lịch Tolkien chính thức được xuất bản bởi [HarperCollins](../H/HarperCollins.md) vào [30 tháng 8](../_/30_August.md) [2012](../_/2012.md). Nó có tác phẩm nghệ thuật của [John Howe](../J/John_Howe.md) và [Alan Lee](../A/Alan_Lee.md) dựa trên *[The Hobbit](The_Hobbit.md)*.
 
 ## Từ nhà xuất bản {#From_the_publisher}
 
@@ -54,22 +54,22 @@ infobox:
 
 **Alan Lee**
 
-- Bìa - "[Nhà trọ Rồng Xanh](../../file/A/Alan_Lee_-_The_Green_Dragon_Inn.jpg.md)"
+- Bìa - "[Nhà trọ Rồng xanh](../../file/A/Alan_Lee_-_The_Green_Dragon_Inn.jpg.md)"
 - Tháng 2 - "[Ông Bilbo Baggins](../../file/A/Alan_Lee_-_Bilbo_at_Bag_End.jpg.md)"
-- Tháng 4 - "[Người lùn đến](../../file/A/Alan_Lee_-_An_Unexpected_Party.jpg.md)"
-- Tháng 6 - "[Tiếng hát của thần tiên](../../file/A/Alan_Lee_-_Bridge_to_Rivendell.jpg.md)"
+- Tháng 4 - "[Người Lùn’ Đến](../../file/A/Alan_Lee_-_An_Unexpected_Party.jpg.md)"
+- Tháng 6 - "[Elvish Hát](../../file/A/Alan_Lee_-_Bridge_to_Rivendell.jpg.md)"
 - Tháng 8 - "[Câu đố trong bóng tối](../../file/A/Alan_Lee_-_Riddles_in_the_Dark.jpg.md)"
 - Tháng 10 - "[Từ chảo rán vào lửa](../../file/A/Alan_Lee_-_The_Wargs.jpg.md)"
-- Tháng 12 - "[Vua Dưới Núi](../../file/A/Alan_Lee_-_The_King_under_the_Mountain.jpg.md)"
+- Tháng 12 - "[Ngày Vua Dưới Núi](../../file/A/Alan_Lee_-_The_King_under_the_Mountain.jpg.md)"
 
 **John Howe**
 
-- Tháng 1 - "[Gandalf trở lại Hobbiton](../../file/J/John_Howe_-_Gandalf_Returns_to_Hobbiton.jpg.md)"
-- Tháng 3 - "[Sảnh trước Bilbo](../../file/J/John_Howe_-_Bilbo's_Front_Hall.jpg.md)"
+- Tháng 1 - "[Gandalf Quay lại Hobbiton](../../file/J/John_Howe_-_Gandalf_Returns_to_Hobbiton.jpg.md)"
+- Tháng 3 - "Sảnh trước [Bilbo](../../file/J/John_Howe_-_Bilbo's_Front_Hall.jpg.md)"
 - Tháng 5 - "[Một bữa tiệc bất ngờ](../../file/J/John_Howe_-_An_Unexpected_Party.jpg.md)"
 - Tháng 7 - "[Yêu tinh vĩ đại](../../file/J/John_Howe_-_The_Great_Goblin.jpg.md)"
-- Tháng 9 - "[Eyrie của Eagles](../../file/J/John_Howe_-_Gwaihir's_Eyrie.jpg.md)"
-- Tháng 11 - "[Smaug Phá hủy thị trấn bên hồ](../../file/J/John_Howe_-_Smaug_Destroys_Lake-town.jpg.md)"
+- tháng Chín - "[Đại Bàng’ Eyrie](../../file/J/John_Howe_-_Gwaihir's_Eyrie.jpg.md)"
+- Tháng 11 - "[Smaug Phá hủy Thị trấn Hồ](../../file/J/John_Howe_-_Smaug_Destroys_Lake-town.jpg.md)"
 
 ## Biến thể {#Variants}
 
@@ -92,7 +92,7 @@ infobox:
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://tolkiencalendars.com/2013.html" rel="noreferrer noopener" target="_blank">Lịch Tolkien 2013</a> tại <a class="external text" href="http://tolkiencalendars.com/" rel="noreferrer noopener" target="_blank">The Compleat Gyde to Tolkien Calendars</a>
+- <a class="external text" href="http://tolkiencalendars.com/2013.html" rel="noreferrer noopener" target="_blank">Tolkien Lịch 2013</a> tại <a class="external text" href="http://tolkiencalendars.com/" rel="noreferrer noopener" target="_blank">The Complete Gyde to Tolkien Lịch</a>
 
 <table style="margin:0 auto;" class="collapsible toccolours" width="100%" align="center">
 <tbody><tr>

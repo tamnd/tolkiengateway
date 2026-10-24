@@ -14,16 +14,16 @@ images:
   - "Disambig.png"
 ---
 
-**Turgon** có thể đề cập đến:
+**Turgon** có thể tham khảo:
 
-## Trung địa {#Middle-earth}
+## Trung Địa {#Middle-earth}
 
-- **[Turgon](Turgon.md), [Vua tối cao của Noldor](../H/High_King_of_the_Noldor.md) thứ ba và Vua của [Gondolin](../G/Gondolin.md).**
-- [Turgon (Quản gia Gondor)](<Turgon_(Steward_of_Gondor).md>), [Quản lý Gondor thứ 24](../S/Steward_of_Gondor.md).
+- **[Turgon](Turgon.md), [Đại Vương thứ ba của Noldor](../H/High_King_of_the_Noldor.md) và Vua của [Gondolin](../G/Gondolin.md).**
+- [Turgon (Quản lý của Gondor)](<Turgon_(Steward_of_Gondor).md>), [Quản lý thứ hai mươi bốn của Gondor](../S/Steward_of_Gondor.md).
 
 ## Các bản chuyển thể {#Adaptations}
 
-- [Turgon (Người đàn ông của Belfalas)](<Turgon_(Man_of_Belfalas).md>), Hiệp sĩ của [Gondor](../G/Gondor.md) ở *[The Lord of the Rings: The Two Towers](The_Lord_of_the_Rings%253A_The_Two_Towers.md)*
+- [Turgon (Người đàn ông của Belfalas)](<Turgon_(Man_of_Belfalas).md>), Hiệp sĩ [Gondor](../G/Gondor.md) ở *[The Lord of the Rings: The Two Towers](The_Lord_of_the_Rings%253A_The_Two_Towers.md)*
 
 <hr style="margin-top:15px;"/>
 

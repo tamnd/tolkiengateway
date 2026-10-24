@@ -13,7 +13,7 @@ categories:
   - "Unpublished material"
 ---
 
-**Nữ Vương Thiên Đường** (có thể là tựa đề tạm thời) là một lời cầu nguyện bằng ba thứ tiếng gửi đến [Varda](../V/Varda.md) được sáng tác bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), hiện [chưa được xuất bản](../../index/U/Unpublished_material.md). Nó được [Christopher Gilson](../C/Christopher_Gilson.md) trình bày tại [Omentielva Nertea](../O/Omentielva.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Nó bao gồm một lời cầu nguyện tới Elbereth được dịch sang [Quenya](Quenya.md), [Sindarin](../S/Sindarin.md) và [Latin](../L/Latin.md), giống với [những lời cầu nguyện truyền thống](../C/Christianity.md) dành cho [Virgin Mary](../V/Virgin_Mary.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
+**Nữ Vương Thiên Đường** (có lẽ là tựa đề tạm thời) là một lời cầu nguyện bằng ba thứ tiếng dành cho [Varda](../V/Varda.md) được sáng tác bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), hiện [chưa được xuất bản](../../index/U/Unpublished_material.md). Nó được trình bày bởi [Christopher Gilson](../C/Christopher_Gilson.md) tại [Omentielva Nertea](../O/Omentielva.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Nó bao gồm một lời cầu nguyện tới Elbereth được dịch sang [Quenya](Quenya.md), [Sindarin](../S/Sindarin.md) và [tiếng Latin](../L/Latin.md), giống với [những lời cầu nguyện truyền thống](../C/Christianity.md) gửi tới [Đức Trinh Nữ Maria](../V/Virgin_Mary.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

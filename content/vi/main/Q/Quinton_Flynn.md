@@ -22,7 +22,7 @@ sort_keys:
 
 ## Vai trò {#Roles}
 
-- [2002](../_/2002.md): [*The Lord of the Rings: The Fellowship of the Ring* (video game)](<../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md>): [Gollum](../G/Gollum.md), [Chúc vui vẻ](../M/Meriadoc_Brandybuck.md)
+- [2002](../_/2002.md): [*The Lord of the Rings: The Fellowship of the Ring* (video game)](<../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md>): [Gollum](../G/Gollum.md), [Merry](../M/Meriadoc_Brandybuck.md)
 
 ## Liên kết ngoài {#External_links}
 

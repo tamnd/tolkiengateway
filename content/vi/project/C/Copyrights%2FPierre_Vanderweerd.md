@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Vanderweerd, Pierre"
 ---
 
-- [Pierre Vanderweerd](../../main/P/Pierre_Vanderweerd.md) đã vui lòng cho phép anh sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Pierre_Vanderweerd.md) trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
+- [Pierre Vanderweerd](../../main/P/Pierre_Vanderweerd.md) đã vui lòng cho phép ông sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Pierre_Vanderweerd.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Ngày: 8 tháng 1 năm 2022
 - Người dùng đã xin phép qua email: [Người dùng:Hyarion](https://tolkiengateway.net/wiki/User:Hyarion)

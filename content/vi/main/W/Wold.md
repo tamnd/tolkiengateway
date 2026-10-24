@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Wold"
 ---
 
-Chuyển hướng đến [Thế giới](../T/The_Wold.md).
+Chuyển hướng đến [The Wold](../T/The_Wold.md).

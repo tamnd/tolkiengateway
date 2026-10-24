@@ -47,19 +47,19 @@ infobox:
 ## Mục lục {#Table_of_Contents}
 
 - C.W. Sullivan III, "Tolkien the Bard: Câu chuyện của ông được kể lại"
-- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Jonathan_Evans&amp;action=edit&amp;redlink=1" title="Jonathan Evans (page does not exist)">Jonathan Evans</a>, "Truyền thuyết về rồng ở Trung địa: Tolkien và truyền thống tiếng Anh cổ và tiếng Bắc Âu cổ"
-- George Clark, "Tolkien và người anh hùng đích thực"
-- Geoffrey Russom, "Sự khéo léo của Tolkien trong *The Hobbit* và *The Lord of the Rings*"
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Jonathan_Evans&amp;action=edit&amp;redlink=1" title="Jonathan Evans (page does not exist)">Jonathan Evans</a>, "Truyền thuyết Rồng về Trung Địa: Tolkien và tiếng Anh cổ và tiếng Bắc Âu cổ truyền thống"
+- George Clark, "Tolkien và Người hùng đích thực"
+- Geoffrey Russom, "sự sáng tạo củaTolkien trong *The Hobbit* và *The Lord of the Rings*"
 - Roger C. Schlobin, "Quái vật là bùa hộ mệnh và sự vi phạm: Tolkien và *Sir Gawain and the Green Knight*
-- Charles W. Nelson, "Tội lỗi của Trung địa: Việc Tolkien sử dụng câu chuyện ngụ ngôn thời Trung cổ"
-- Tanya Caroline Wood, "Tolkien có phải là Người thời Phục hưng không? "Về những câu chuyện cổ tích" của Ngài Philip Sidney *Defense of Poesy* và J.R.R. Tolkien
-- Debbie Sly, "Dệt những tấm lưới u ám: 'Bóng tối sâu thẳm' ở Tolkien và Milton"
-- William N. Rogers II và Michael R. Underwood, "Gagool và Gollum: Ví dụ về thoái hóa ở *King solomon's Mines* và *The Hobbit*"
+- Charles W. Nelson, "Tội lỗi của Trung Địa: Việc Tolkien sử dụng câu chuyện ngụ ngôn thời Trung cổ"
+- Tanya Caroline Wood, " Tolkien có phải là Người thời Phục hưng không? *Defense of Poesy* và "Về những câu chuyện cổ tích" của Ngài Philip Sidney J.R.R. Tolkien
+- Debbie Sly, "Dệt những tấm lưới u ám: 'Bóng Tối Sâu sắc' ở Tolkien và Milton"
+- William N. Rogers II và Michael R. Underwood, "Gagool và Gollum: Ví dụ về thoái hóa trong *King solomon's Mines* và *The Hobbit*"
 - David Sandner, "'Niềm vui vượt qua những bức tường của thế giới này': Việc tạo ra thế giới thứ cấp của J.R.R. Tolkien và C.S. Lewis"
-- [Verlyn Flieger](../V/Verlyn_Flieger.md), "Tham gia vai trò của cây cối: Xung đột sinh thái ở Trung Địa"
-- Faye Ringel, "Những người phụ nữ tưởng tượng: Trong bóng tối của chiếc nhẫn"
-- W.A. Senior, "Sự mất mát vĩnh viễn ở Trung Địa của J.R.R. Tolkien"
-- [Tom Shippey](../T/Tom_Shippey.md), "Orcs, Wraiths, Wights: Tolkien's Images of Evil"
+- [Verlyn Flieger](../V/Verlyn_Flieger.md), "Tham gia vai trò của cây xanh: Xung đột sinh thái ở Trung Địa"
+- Faye Ringel, "Những người phụ nữ tưởng tượng: Trong Bóng Tối của chiếc nhẫn"
+- W.A. Senior, "Mất mát vĩnh viễn trong Trung Địa của J.R.R. Tolkien"
+- [Tom Shippey](../T/Tom_Shippey.md), "Orc, Wraiths, Wights: Hình ảnh Ác ma của Tolkien"
 
 ## Liên kết ngoài {#External_links}
 

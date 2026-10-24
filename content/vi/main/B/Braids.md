@@ -27,11 +27,11 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Floodplain</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Braids</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>General Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../R/Rhovanion.md" title="Rhovanion">Rhovanion</a></td></tr><tr><th scope="row" class="tg-infobox-label">Type</th><td class="tg-infobox-data">Floodplain</td></tr><tr><th scope="row" class="tg-infobox-label">Description</th><td class="tg-infobox-data">Floodplain region within the north east of the <a href="../T/Thistledell.md" title="Thistledell">Thistledell</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>People and History</span></th></tr><tr><th scope="row" class="tg-infobox-label">Events</th><td class="tg-infobox-data">Harfoot migration</td></tr></tbody></table>
 
-**Bệnh** là một vùng ngập lũ rộng ở [Thistledell](../T/Thistledell.md) đã hợp nhất hai con sông chảy ra từ [Rhovanion Hills](../R/Rhovanion_Hills.md) thành một con sông duy nhất chảy về phía đông vào [Rhûn](../R/Rhûn.md) và hướng về phía nam tới [Southlands](../M/Mordor.md). Braids được phát minh cho *[The Lord of the Rings: The Rings of Power](../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)* bởi [Amazon Studios](../A/Amazon_Studios.md).
+**Bệnh** là một vùng ngập lũ rộng ở [Thistledell](../T/Thistledell.md) đã hợp nhất hai con sông chảy ra khỏi [Rhovanion Hills](../R/Rhovanion_Hills.md) thành một con sông duy nhất chảy về phía đông vào [Rhûn](../R/Rhûn.md) và về phía nam về phía [Southlands](../M/Mordor.md). Braids được phát minh cho *[The Lord of the Rings: The Rings of Power](../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)* bởi [Amazon Studios](../A/Amazon_Studios.md).
 
 ## Lịch sử {#History}
 
-Vào cuối [Kỷ nguyên thứ hai](../S/Second_Age.md), Braids là vùng đồng bằng ngập nước mà một [cộng đồng Harfoot](../H/Harfoots.md) nào đó đã đi qua khi di cư từ nơi trú ẩn theo mùa này sang nơi trú ẩn theo mùa khác, đặc biệt là từ [Norfield Glen](../N/Norfield_Glen.md) đến [Grove](../G/Grove.md).
+Vào cuối [Kỷ Đệ Nhị](../S/Second_Age.md), Braids là vùng đồng bằng ngập nước mà một [cộng đồng Harfoot](../H/Harfoots.md) nào đó đã đi qua khi di cư từ nơi trú ẩn theo mùa này sang nơi trú ẩn theo mùa khác, đặc biệt là từ [Norfield Glen](../N/Norfield_Glen.md) đến [Grove](../G/Grove.md).
 
 Trong một lần di cư như vậy, gia đình Brandyfoot, [Poppy Proudfellow](../P/Poppy_Proudfellow.md) và [The Stranger](../T/The_Stranger.md) đã vượt qua Braids trong khi vội vã đuổi theo đoàn lữ hành chính của cộng đồng Harfoot đã vượt xa họ.
 

@@ -14,11 +14,11 @@ categories:
   - "Sindarin nouns"
 ---
 
-## Tiếng Sindarin {#Sindarin}
+## Sindarin {#Sindarin}
 
-<i><b>malt</b></i> là từ [Sindarin](../S/Sindarin.md) có nghĩa là "[vàng](../G/Gold.md)".<sup id="cite_ref-VT42_1-0" class="reference"><a href="#cite_note-VT42-1">[1]</a></sup>
+<i><b>mạch nha</b></i> là từ [Sindarin](../S/Sindarin.md) có nghĩa là "[vàng](../G/Gold.md)".<sup id="cite_ref-VT42_1-0" class="reference"><a href="#cite_note-VT42-1">[1]</a></sup>
 
-[David Salo](../D/David_Salo.md) đã đề xuất từ ​​ [Tân Sindarin](../N/Neo-Elvish.md) *malad* hoặc *malt*, có nghĩa là "vàng (kim loại)".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+[David Salo](../D/David_Salo.md) đã gợi ý từ [Neo-Sindarin](../N/Neo-Elvish.md) *malad* hoặc *malt*, nghĩa là "vàng (kim loại)".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ### Ví dụ {#Examples}
 
@@ -31,7 +31,7 @@ categories:
 
 ## Noldorin {#Noldorin}
 
-<i><b>malt</b></i> là từ [Noldorin](../N/Noldorin.md) có nghĩa là "[vàng](../G/Gold.md) (như kim loại)".<sup id="cite_ref-LR386_4-0" class="reference"><a href="#cite_note-LR386-4">[4]</a></sup>
+<i><b>mạch nha</b></i> là từ [Noldorin](../N/Noldorin.md) có nghĩa là "[vàng](../G/Gold.md) (như kim loại)".<sup id="cite_ref-LR386_4-0" class="reference"><a href="#cite_note-LR386-4">[4]</a></sup>
 
 ### Từ nguyên {#Etymoloy}
 

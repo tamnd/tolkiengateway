@@ -42,9 +42,9 @@ infobox:
 
 **Tol Sirion** là hòn đảo ở thượng nguồn sông [Sirion](../S/Sirion.md) ở giữa [Đèo Sirion](../P/Pass_of_Sirion.md), giữa [Ered Wethrin](../E/Ered_Wethrin.md) và [Dorthonion](../D/Dorthonion.md).
 
-Tại đó [Finrod Felagund](../F/Finrod.md) đã xây dựng tháp [Minas Tirith](<../M/Minas_Tirith_(Beleriand).md>) trên vị trí chiến lược này, khi Con đèo được bảo vệ nối liền [Ard-galen](../A/Ard-galen.md) và [Tây Beleriand](../W/West_Beleriand.md). Nó được đổi tên thành [Tol-in-Gaurhoth](Tol-in-Gaurhoth.md) (Đảo của Người sói) sau khi bị [Sauron](../S/Sauron.md) chiếm giữ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Nó được gọi là Đảo Phù thủy trong [Lay of Leithian](../L/Lay_of_Leithian.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Ở đó [Finrod Felagund](../F/Finrod.md) đã xây dựng tòa tháp [Minas Tirith](<../M/Minas_Tirith_(Beleriand).md>) trên vị trí chiến lược này, khi đèo canh gác nối liền [Ard-galen](../A/Ard-galen.md) và [Tây Beleriand](../W/West_Beleriand.md). Nó được đổi tên thành [Tol-in-Gaurhoth](Tol-in-Gaurhoth.md) (Đảo của Người sói) sau khi bị [Sauron](../S/Sauron.md) chiếm giữ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Nó được gọi là Đảo của Pháp sư trong [Lay of Leithian](../L/Lay_of_Leithian.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Việc mất Tol Sirion đã cho phép [Orc](../O/Orcs.md) xâm lược Tây Beleriand và quấy rối [Talath Dirnen](Talath_Dirnen.md) và [Nargothrond](../N/Nargothrond.md).
+Việc mất Tol Sirion đã tạo điều kiện cho [Orc](../O/Orcs.md) xâm chiếm Tây Beleriand và quấy rối [Talath Dirnen](Talath_Dirnen.md) và [Nargothrond](../N/Nargothrond.md).
 
 ## Thư viện {#Gallery}
 

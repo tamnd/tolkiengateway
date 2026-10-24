@@ -17,7 +17,7 @@ sort_keys:
 
 Vào [29 tháng 1](../_/29_January.md) [1954](../_/1954.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết <b><a href="Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md" title="Letters not published in The Letters of J.R.R. Tolkien">một lá thư</a> gửi Hiệu trưởng <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Li%C3%A8ge" title="wikipedia:University of Liège">Đại học Liège</a></b>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-- **Chủ đề:**Bức thư liên quan đến lễ kỷ niệm Tolkien nhận bằng tiến sĩ danh dự tại Đại học Liège vào [ngày 2 tháng 10](../_/2_October.md), [1954](../_/1954.md) (ông được [Simonne d'Ardenne](../S/Simonne_d'Ardenne.md) đề xuất làm ứng cử viên).
+- **Chủ đề:**Bức thư liên quan đến lễ kỷ niệm Tolkien nhận bằng tiến sĩ danh dự tại Đại học Liège vào [ngày 2 tháng 10](../_/2_October.md), [1954](../_/1954.md) (anh được [Simonne d'Ardenne](../S/Simonne_d'Ardenne.md) đề cử làm ứng cử viên).
 - **Xuất bản:** Bức thư được in lại đầy đủ trong bài "Tolkien và Bỉ" của [Johan Vanhecke](../J/Johan_Vanhecke.md), đăng trên *[Lembas Extra: Proceedings of the 5th Unquendor Lustrum](Lembas_Extra%253A_Proceedings_of_the_5th_Unquendor_Lustrum.md)*.
 - **Lưu trữ**: Bức thư được lưu giữ tại Cơ quan Lưu trữ Đại học ở Liège.
 
@@ -31,7 +31,7 @@ Vào [29 tháng 1](../_/29_January.md) [1954](../_/1954.md), [J.R.R. Tolkien](..
 
 ## Xem thêm {#See_also}
 
-- [Thư gửi Đại học Liège (9 tháng 9 năm 1954)](<Letter_to_Liège_University_(9_September_1954).md>)
+- [Thư gửi Đại học Liège (9 tháng Chín 1954)](<Letter_to_Liège_University_(9_September_1954).md>)
 - [Thư gửi Đại học Liège (18 tháng 10 năm 1954)](<Letter_to_Liège_University_(18_October_1954).md>)
 
 <span></span>

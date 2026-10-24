@@ -19,59 +19,59 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/W/White_Dwarf_365.png.md"><img src="https://tolkiengateway.net/w/images/thumb/4/4f/White_Dwarf_365.png/300px-White_Dwarf_365.png" decoding="async" loading="lazy" width="300" height="414" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/4f/White_Dwarf_365.png/450px-White_Dwarf_365.png 1.5x, https://tolkiengateway.net/w/images/4/4f/White_Dwarf_365.png 2x" data-file-width="454" data-file-height="627"/></a><figcaption>Cover of <i>White Dwarf</i> #365, 2010</figcaption></figure>
 
-<i><b>White Dwarf</b></i> (thành lập [1977](../_/1977.md)) là một tạp chí trò chơi được xuất bản bởi [Games Workshop](../G/Games_Workshop.md).
+<i><b>White Người lùn</b></i> (thành lập [1977](../_/1977.md)) là tạp chí trò chơi được xuất bản bởi [Games Workshop](../G/Games_Workshop.md).
 
 ## Lịch sử {#History}
 
-Nhiều số của *White Dwarf* có tài liệu liên quan đến chuyển thể trò chơi từ [Trung Địa](../M/Middle-earth.md) của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md): trong những năm 1980, nhiều số bao gồm các bài viết về cả bối cảnh trò chơi nhập vai và trò chơi chiến tranh thu nhỏ.<sup id="cite_ref-Citadel_1-0" class="reference"><a href="#cite_note-Citadel-1">[1]</a></sup> Sau khi phát hành *Trò chơi chiến đấu chiến lược Chúa tể của những chiếc nhẫn* trong [2001](../_/2001.md), mỗi số của *White Dwarf* đều có một phần đặc biệt về dòng thu nhỏ này trò chơi chiến tranh (dường như đã bỏ phần thông thường này trong nửa sau của [2010](../_/2010.md)).<sup id="cite_ref-GW_2-0" class="reference"><a href="#cite_note-GW-2">[2]</a></sup> Tương tự, *White Dwarf* đã giới thiệu một tính năng thông thường mới với việc giới thiệu *[The Hobbit Strategy Battle Game](../T/The_Hobbit_Strategy_Battle_Game.md)* trong [2012](../_/2012.md).
+Nhiều số của *White Dwarf* có tài liệu liên quan đến chuyển thể trò chơi của [Trung Địa](../M/Middle-earth.md) của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md): trong những năm 1980, nhiều số bao gồm các bài viết về cả bối cảnh trò chơi nhập vai và trò chơi chiến tranh thu nhỏ.<sup id="cite_ref-Citadel_1-0" class="reference"><a href="#cite_note-Citadel-1">[1]</a></sup> Sau khi phát hành *The Lord of the Rings Trò chơi chiến đấu chiến lược* trong [2001](../_/2001.md), mỗi số của *White Dwarf* đều có một phần đặc biệt về dòng trò chơi chiến tranh thu nhỏ này (dường như đã bỏ phần thông thường này trong nửa sau của [2010](../_/2010.md)).<sup id="cite_ref-GW_2-0" class="reference"><a href="#cite_note-GW-2">[2]</a></sup> Tương tự, *White Dwarf* đã giới thiệu một tính năng thông thường mới với việc giới thiệu *[The Hobbit Strategy Battle Game](../T/The_Hobbit_Strategy_Battle_Game.md)* trong [2012](../_/2012.md).
 
 ## Vấn đề, đã chọn {#Issues,_selected}
 
 <figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/W/Where_and_back.png.md"><img src="https://tolkiengateway.net/w/images/thumb/2/2c/Where_and_back.png/300px-Where_and_back.png" decoding="async" loading="lazy" width="300" height="421" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/2c/Where_and_back.png/450px-Where_and_back.png 1.5x, https://tolkiengateway.net/w/images/thumb/2/2c/Where_and_back.png/600px-Where_and_back.png 2x" data-file-width="616" data-file-height="864"/></a><figcaption>Article from <i>White Dwarf</i> #79, 1986</figcaption></figure>
 
 - [1983](../_/1983.md): *White Dwarf* #38
-    - "Khazad Dûm" của Lewis Pulsipher (cuộc phiêu lưu ở Moria cho [AD&D](../D/Dungeons_and_Dragons.md))<sup id="cite_ref-Other_3-0" class="reference"><a href="#cite_note-Other-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
-    - \[Minh họa Moria của John Blanche\]<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+    - "Khazad Dûm" của Lewis Pulsipher (cuộc phiêu lưu trong Moria cho [AD&D](../D/Dungeons_and_Dragons.md))<sup id="cite_ref-Other_3-0" class="reference"><a href="#cite_note-Other-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+    - \[Moria minh họa của John Blanche\]<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 - [1984](../_/1984.md): *White Dwarf* #50
-    - Đánh giá về [Tài liệu bổ sung về Trung Địa](../M/Middle-earth_Role_Playing.md)
+    - Đánh giá về [Phần bổ sung về Trung Địa](../M/Middle-earth_Role_Playing.md)
 - [1985](../_/1985.md): *White Dwarf* #64 (Tháng 4)
     - Vẽ phác thảo (Quảng cáo)<sup id="cite_ref-Citadel_1-1" class="reference"><a href="#cite_note-Citadel-1">[1]</a></sup>
     - "Bình minh của ánh sáng" của Graham Staplehurst (kịch bản cho [MERP](../M/Middle-earth_Role_Playing.md))<sup id="cite_ref-Other_3-1" class="reference"><a href="#cite_note-Other-3">[3]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 - [1985](../_/1985.md): *White Dwarf* #65 (Tháng 5)
     - "Noegyth Nibin" của Steven Prizeman<sup id="cite_ref-Other_3-2" class="reference"><a href="#cite_note-Other-3">[3]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 - [1985](../_/1985.md): *White Dwarf* #66 (Tháng 6)
-    - "Con đường vẫn tiếp tục: Nhập vai vào Trung địa"<sup id="cite_ref-Other_3-3" class="reference"><a href="#cite_note-Other-3">[3]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
+    - "The Road Goes Ever On: Bên trong Middle-earth Role Playing"<sup id="cite_ref-Other_3-3" class="reference"><a href="#cite_note-Other-3">[3]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
     - Gandalf trên Shadowfax (P. Benson)<sup id="cite_ref-Citadel_1-2" class="reference"><a href="#cite_note-Citadel-1">[1]</a></sup>
-    - Rohirrim trên núi (Peter Prowl)<sup id="cite_ref-Citadel_1-3" class="reference"><a href="#cite_note-Citadel-1">[1]</a></sup>
+    - Rohirrim trên Núi (Peter Prowl)<sup id="cite_ref-Citadel_1-3" class="reference"><a href="#cite_note-Citadel-1">[1]</a></sup>
     - Barrow Wights (Bill Sprint)<sup id="cite_ref-Citadel_1-4" class="reference"><a href="#cite_note-Citadel-1">[1]</a></sup>
 - [1985](../_/1985.md): *White Dwarf* #67 (Tháng 7)
     - Ảnh đen trắng về các tiểu cảnh trong phạm vi Chúa tể của những chiếc nhẫn của [Citadel](../C/Citadel_Miniatures.md)<sup id="cite_ref-Citadel_1-5" class="reference"><a href="#cite_note-Citadel-1">[1]</a></sup>
     - Sauron trên ngai vàng, sơn thu nhỏ (ME61)<sup id="cite_ref-Citadel_1-6" class="reference"><a href="#cite_note-Citadel-1">[1]</a></sup>
 - [1985](../_/1985.md): *White Dwarf* #68 (Tháng 8)
-    - Frodo trên ngựa (Lindsey le Doux Paton)<sup id="cite_ref-Citadel_1-7" class="reference"><a href="#cite_note-Citadel-1">[1]</a></sup>
-- [1985](../_/1985.md): *White Dwarf* #69 (Tháng 9)
+    - Frodo cưỡi ngựa (Lindsey le Doux Paton)<sup id="cite_ref-Citadel_1-7" class="reference"><a href="#cite_note-Citadel-1">[1]</a></sup>
+- [1985](../_/1985.md): *White Dwarf* #69 (tháng Chín)
     - Gandalf (Stuart Parkinson)<sup id="cite_ref-Citadel_1-8" class="reference"><a href="#cite_note-Citadel-1">[1]</a></sup>
 - [1985](../_/1985.md): *White Dwarf* #70 (Tháng 10)
     - Orc (John Blanche)<sup id="cite_ref-Citadel_1-9" class="reference"><a href="#cite_note-Citadel-1">[1]</a></sup>
 - [1985](../_/1985.md): *White Dwarf* #72 (Tháng 12)
-    - Quảng cáo học bổng bộ hộp nhẫn<sup id="cite_ref-Citadel_1-10" class="reference"><a href="#cite_note-Citadel-1">[1]</a></sup><sup id="cite_ref-FR_9-0" class="reference"><a href="#cite_note-FR-9">[9]</a></sup>
+    - Đoàn Hộ Nhẫn Quảng cáo bộ hộp<sup id="cite_ref-Citadel_1-10" class="reference"><a href="#cite_note-Citadel-1">[1]</a></sup><sup id="cite_ref-FR_9-0" class="reference"><a href="#cite_note-FR-9">[9]</a></sup>
 - [1986](../_/1986.md): *White Dwarf* #73 (Tháng 1)
-    - Noldor Deep Elf (Pete Prow)<sup id="cite_ref-Citadel_1-11" class="reference"><a href="#cite_note-Citadel-1">[1]</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
+    - Noldor Sâu Tiên (Pete Prow)<sup id="cite_ref-Citadel_1-11" class="reference"><a href="#cite_note-Citadel-1">[1]</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
     - "Star Spray" của Graham Staplehurst (cuộc phiêu lưu cho [MERP](../M/Middle-earth_Role_Playing.md))<sup id="cite_ref-Other_3-4" class="reference"><a href="#cite_note-Other-3">[3]</a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>
 - [1986](../_/1986.md): *White Dwarf* #77 (Tháng 5)
     - "Điều ước bí mật" của Graham Staplehurst (cuộc phiêu lưu cho [MERP](../M/Middle-earth_Role_Playing.md))<sup id="cite_ref-Other_3-5" class="reference"><a href="#cite_note-Other-3">[3]</a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>
 - [1986](../_/1986.md): *White Dwarf* #79 (Tháng 7)
-    - "Ở đâu và quay lại?" \[bởi Graham Staplehurst; bài viết về nhập vai Trung Địa\]<sup id="cite_ref-FR_9-1" class="reference"><a href="#cite_note-FR-9">[9]</a></sup>
+    - "Ở đâu và quay lại?" \[bởi Graham Staplehurst; bài viết về Trung Địa nhập vai\]<sup id="cite_ref-FR_9-1" class="reference"><a href="#cite_note-FR-9">[9]</a></sup>
     - Uruk-Hai (do Kevin Adams chuyển đổi)<sup id="cite_ref-Citadel_1-12" class="reference"><a href="#cite_note-Citadel-1">[1]</a></sup>
 - [1986](../_/1986.md): *White Dwarf* #80 (Tháng 8)
     - "Up & Coming: A Look at Levels in MERP" của Martin Veart (về hệ thống cấp độ trong MERP)<sup id="cite_ref-Other_3-6" class="reference"><a href="#cite_note-Other-3">[3]</a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup>
-- [1986](../_/1986.md): *White Dwarf* #81 (Tháng 9)
+- [1986](../_/1986.md): *White Dwarf* #81 (tháng Chín)
     - Gandalf và Sauron (Colin Dixon)<sup id="cite_ref-Citadel_1-13" class="reference"><a href="#cite_note-Citadel-1">[1]</a></sup>
 - [1987](../_/1987.md): *White Dwarf* #87 (Tháng 3)
     - "Taurëfantô" của Graham Staplehurst (cuộc phiêu lưu cho [MERP](../M/Middle-earth_Role_Playing.md))<sup id="cite_ref-Other_3-7" class="reference"><a href="#cite_note-Other-3">[3]</a></sup><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup>
 - [1987](../_/1987.md): *White Dwarf* #88 (Tháng 4)
-    - Quảng cáo bộ hộp Balrog<sup id="cite_ref-Citadel_1-14" class="reference"><a href="#cite_note-Citadel-1">[1]</a></sup>
-- [1987](../_/1987.md): *White Dwarf* #93 (Tháng 9)
+    - Balrog Quảng cáo bộ hộp<sup id="cite_ref-Citadel_1-14" class="reference"><a href="#cite_note-Citadel-1">[1]</a></sup>
+- [1987](../_/1987.md): *White Dwarf* #93 (tháng Chín)
     - "Những lá thư từ đất lạ" của Graham Staplehurst (bối cảnh: Calenardhon; quy tắc cho [MERP](../M/Middle-earth_Role_Playing.md))<sup id="cite_ref-Other_3-8" class="reference"><a href="#cite_note-Other-3">[3]</a></sup><sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup>
 - [1988](../_/1988.md): *White Dwarf* #100 (Tháng 4)
     - Uruk Hai (Quảng cáo)<sup id="cite_ref-Citadel_1-15" class="reference"><a href="#cite_note-Citadel-1">[1]</a></sup>
@@ -82,8 +82,8 @@ Nhiều số của *White Dwarf* có tài liệu liên quan đến chuyển th�
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="extiw" href="http://en.wikipedia.org/wiki/White_Dwarf_(magazine)" title="wikipedia:White Dwarf (magazine)">Người lùn trắng (tạp chí)</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
-- **Bài viết về người lùn trắng** tại <a class="external text" href="https://lexicanum.com/" rel="noreferrer noopener" target="_blank">Lexicanum</a>:
+- <a class="extiw" href="http://en.wikipedia.org/wiki/White_Dwarf_(magazine)" title="wikipedia:White Dwarf (magazine)">Trắng Người lùn (tạp chí)</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
+- **Bài viết Người lùn trắng** trắng tại <a class="external text" href="https://lexicanum.com/" rel="noreferrer noopener" target="_blank">Lexicanum</a>:
     - (<a class="external text" href="https://wh40k.lexicanum.com/wiki/White_Dwarf" rel="noreferrer noopener" target="_blank">Warhammer 40.000</a>);
     - (<a class="external text" href="https://whfb.lexicanum.com/wiki/White_Dwarf" rel="noreferrer noopener" target="_blank">Trận chiến giả tưởng Warhammer</a>)
 

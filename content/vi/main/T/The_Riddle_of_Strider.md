@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Riddle of Strider"
 ---
 
-Chuyển hướng tới [Câu đố về Strider](../R/Riddle_of_Strider.md).
+Chuyển hướng đến [Câu đố Strider](../R/Riddle_of_Strider.md).

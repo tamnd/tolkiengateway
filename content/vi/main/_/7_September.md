@@ -61,25 +61,25 @@ images:
 </div><div class="template-month__footer"><div class="tg-button"><a href="../J/January.md" title="January">Jan</a></div><div class="tg-button"><a href="../F/February.md" title="February">Feb</a></div><div class="tg-button"><a href="../M/March.md" title="March">Mar</a></div><div class="tg-button"><a href="../A/April.md" title="April">Apr</a></div><div class="tg-button"><a href="../M/May.md" title="May">May</a></div><div class="tg-button"><a href="../J/June.md" title="June">Jun</a></div><div class="tg-button"><a href="../J/July.md" title="July">Jul</a></div><div class="tg-button"><a href="../A/August.md" title="August">Aug</a></div><div class="tg-button"><a href="../S/September.md" title="September">Sep</a></div><div class="tg-button"><a href="../O/October.md" title="October">Oct</a></div><div class="tg-button"><a href="../N/November.md" title="November">Nov</a></div><div class="tg-button"><a href="../D/December.md" title="December">Dec</a></div></div>
 </div>
 
-Sự kiện xảy ra vào ngày 7 tháng 9.
+Sự kiện xảy ra vào ngày 7 tháng Chín.
 
 ## Trên Trái đất {#On_Earth}
 
 - **[1924](1924.md)** - Nhà soạn nhạc [Leonard Rosenman](../L/Leonard_Rosenman.md) ra đời.
 - **[1926](1926.md)** - Diễn viên lồng tiếng [Don Messick](../D/Don_Messick.md) ra đời.
-- **[1937](1937.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một lá thư cho George Allen & Unwin](../L/Letter_to_George_Allen_and_Unwin.md) liên quan đến việc quảng bá *[The Hobbit](../T/The_Hobbit.md)*.
+- **[1937](1937.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư gửi George Allen &amp; Unwin](../L/Letter_to_George_Allen_and_Unwin.md) về việc quảng bá *[The Hobbit](../T/The_Hobbit.md)*.
 - **[1955](1955.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 168](../L/Letter_168.md).
 - **[1957](1957.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 201](../L/Letter_201.md).
 - **[1964](1964.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 262](../L/Letter_262.md).
 - **[1970](1970.md)** – [Mythcon đầu tiên](../M/Mythcon_1.md) được tổ chức tại <a class="extiw" href="http://en.wikipedia.org/wiki/Harvey_Mudd_College" title="wikipedia:Harvey Mudd College">Harvey Mudd Collegein</a> <a class="extiw" href="http://en.wikipedia.org/wiki/Claremont,_California" title="wikipedia:Claremont, California">Claremont</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/California" title="wikipedia:California">California</a>.
-- **[1975](1975.md)** - [Oxonmoot 1975](../O/Oxonmoot_1975.md) tại Welsh Poney, <a class="extiw" href="http://en.wikipedia.org/wiki/Oxford" title="wikipedia:Oxford">Oxford</a>.
-- <b><a href="1989.md" title="1989">1989</a> - <i><a href="../T/The_Treason_of_Isengard.md" title="The Treason of Isengard">The Reason of Isengard</a></i> được xuất bản ở Anh.</b>
-- **[1998](1998.md)** – [Yêu tinh](../E/Elfling.md) lên mạng.
+- **[1975](1975.md)** - [Oxonmoot 1975](../O/Oxonmoot_1975.md) tại tiếng Wales Poney, <a class="extiw" href="http://en.wikipedia.org/wiki/Oxford" title="wikipedia:Oxford">Oxford</a>.
+- <b><a href="1989.md" title="1989">1989</a> - <i><a href="../T/The_Treason_of_Isengard.md" title="The Treason of Isengard">The Treason of Isengard</a></i> được xuất bản ở Vương quốc Anh.</b>
+- **[1998](1998.md)** – [Elfling](../E/Elfling.md) lên mạng.
 - **[2000](2000.md)** - Hiệp hội Tolkien Brazil [Conselho Branco, Sociedade Tolkien](../C/Conselho_Branco,_Sociedade_Tolkien.md) được thành lập.
 - **[2017](2017.md)** - Phiên bản thứ hai của *[The J.R.R. Tolkien Companion and Guide](../T/The_J.R.R._Tolkien_Companion_and_Guide.md)* được xuất bản.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Gandalf](../G/Gandalf.md) bị [Saruman](../S/Saruman.md) giam giữ trên đỉnh [Orthanc](../O/Orthanc.md).
+    - [Gandalf](../G/Gandalf.md) bị giam giữ bởi [Saruman](../S/Saruman.md) trên đỉnh của [Orthanc](../O/Orthanc.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.

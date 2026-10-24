@@ -30,13 +30,13 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien rất vinh dự khi biết rằng <a class="extiw" href="http://en.wikipedia.org/wiki/Carey_Blyton" title="wikipedia:Carey Blyton">Blyton</a> đã được truyền cảm hứng từ *[The Hobbit](../T/The_Hobbit.md)* và sẵn lòng cho phép ông sáng tác bất kỳ tác phẩm nào dựa trên nó. Từ lâu, anh đã hy vọng rằng điều này sẽ xảy ra và kết quả sẽ khiến anh dễ hiểu hoặc giống với nguồn cảm hứng của chính anh - giống như một số hình minh họa của [Pauline Baynes](../P/Pauline_Baynes.md).
+Tolkien rất vinh dự khi biết rằng <a class="extiw" href="http://en.wikipedia.org/wiki/Carey_Blyton" title="wikipedia:Carey Blyton">Blyton</a> đã lấy cảm hứng từ *[The Hobbit](../T/The_Hobbit.md)* và sẵn lòng cho phép anh sáng tác bất kỳ tác phẩm nào dựa trên nó. Ông từ lâu đã hy vọng rằng điều này sẽ xảy ra và kết quả sẽ khiến ông hiểu được, hoặc giống như nguồn cảm hứng của chính ông - giống như một số hình minh họa của [Pauline Baynes](../P/Pauline_Baynes.md).
 
-Mặc dù xuất thân từ một gia đình âm nhạc nhưng Tolkien cho biết anh có rất ít kiến ​​​​thức về âm nhạc do khiếm khuyết về trình độ học vấn và cơ hội. Thứ âm nhạc trong anh đã được chuyển hóa thành những thuật ngữ ngôn ngữ. Âm nhạc mang lại cho anh niềm vui lớn, nhưng anh lại ngược lại với một người thích thơ mà không hiểu biết nhiều về kỹ thuật, truyền thống hoặc cấu trúc ngôn ngữ của nó.
+Dù xuất thân từ một gia đình âm nhạc nhưng Tolkien cho biết anh có rất ít kiến ​​thức về âm nhạc do thiếu cơ hội và trình độ học vấn. Thứ âm nhạc trong anh đã được chuyển hóa thành những thuật ngữ ngôn ngữ. Âm nhạc mang lại cho anh niềm vui lớn, nhưng anh lại ngược lại với một người thích thơ mà không hiểu biết nhiều về kỹ thuật, truyền thống hoặc cấu trúc ngôn ngữ của nó.
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://www.bromleytimes.co.uk/news/beckenham_composer_carey_blyton_put_music_to_the_tale_of_tolkien_s_hobbit_1_1753599" rel="noreferrer noopener" target="_blank">Nhà soạn nhạc Carey Blyton của Beckenham đã đưa âm nhạc vào câu chuyện Người Hobbit của Tolkien</a>
+- <a class="external text" href="http://www.bromleytimes.co.uk/news/beckenham_composer_carey_blyton_put_music_to_the_tale_of_tolkien_s_hobbit_1_1753599" rel="noreferrer noopener" target="_blank">Nhà soạn nhạc Carey Blyton của Beckenham đã đưa âm nhạc vào câu chuyện Hobbit</a> của Tolkien
 
 <br>
 

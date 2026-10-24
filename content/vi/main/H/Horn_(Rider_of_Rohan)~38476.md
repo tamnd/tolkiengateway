@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Horn (rider of Rohan)"
 ---
 
-Chuyển hướng tới [Sừng (kỵ sĩ Rohan)](<Horn_(rider_of_Rohan).md>).
+Chuyển hướng đến [Sừng (người lái Rohan)](<Horn_(rider_of_Rohan).md>).

@@ -13,7 +13,7 @@ categories:
   - "Poems in The Return of the King"
 ---
 
-"**Hãy hát lên, hỡi những người dân của Tháp Anor**" là lời tuyên bố được thốt ra bởi một [Đại bàng](../E/Eagle.md) vĩ đại gửi tới người dân [Minas Tirith](../M/Minas_Tirith.md), thông báo về sự thất bại của [Sauron](Sauron.md) và chiến thắng của [Vua](../K/King_Elessar.md). Đại bàng đến từ [Các lãnh chúa phương Tây](../L/Lords_of_the_West.md) ngay sau khi một cơn gió quét sạch [Bóng tối](../D/Dawnless_Day.md) trên bầu trời. Người dân ở Minas Tirith đã tràn ngập niềm vui vì điều này và đáp lại lời Đại bàng bằng những bài hát trên đường phố.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+"**Hãy hát lên, hỡi những người dân của Tháp Anor**" là lời tuyên bố được thốt ra bởi một [Đại bàng](../E/Eagle.md) vĩ đại với người dân [Minas Tirith](../M/Minas_Tirith.md), thông báo về sự thất bại của [Sauron](Sauron.md) và chiến thắng của [Vua](../K/King_Elessar.md). Đại bàng đến từ [Các lãnh chúa của Phương Tây](../L/Lords_of_the_West.md) ngay sau khi một cơn gió xé toạc [Bóng Tối](../D/Dawnless_Day.md) trên bầu trời. Người dân ở Minas Tirith đã tràn ngập niềm vui vì điều này và đáp lại lời Đại bàng bằng những bài hát trên đường phố.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Bài thơ {#Poem}
 
@@ -43,7 +43,7 @@ Sing all ye people!
 
 ## Cảm hứng {#Inspiration}
 
-[Tom Shippey](../T/Tom_Shippey.md) giải thích nguồn cảm hứng rõ ràng của bài thơ từ phong cách và ngôn ngữ Kinh thánh, đặc biệt là <a class="extiw" href="http://en.wikipedia.org/wiki/Psalms" title="wikipedia:Psalms">Thi thiên</a>. "*Sing and rejoice*" giống với "*Rejoice in the Lord*" trong <a class="extiw" href="http://en.wikipedia.org/wiki/Psalm_33" title="wikipedia:Psalm 33">Thi thiên 33</a>, trong khi toàn bộ bài thơ giống <a class="extiw" href="http://en.wikipedia.org/wiki/Psalm_24" title="wikipedia:Psalm 24">Thi thiên 24</a>: "*Hỡi các cổng, hãy ngẩng đầu lên; hỡi các cánh cửa vĩnh cửu, hãy nâng cao đầu lên; và Vua vinh hiển sẽ bước vào.*" Hình ảnh cũng gợi nhớ đến hình ảnh [Kitô giáo](../C/Christianity.md) đánh bại trước cổng địa ngục và [Chúa Kitô](../C/Christ.md) sắp đến.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+[Tom Shippey](../T/Tom_Shippey.md) giải thích nguồn cảm hứng rõ ràng của bài thơ từ phong cách và ngôn ngữ Kinh thánh, đặc biệt là <a class="extiw" href="http://en.wikipedia.org/wiki/Psalms" title="wikipedia:Psalms">Thánh vịnh</a>. "*Sing and rejoice*" giống với "*Rejoice in the Lord*" trong <a class="extiw" href="http://en.wikipedia.org/wiki/Psalm_33" title="wikipedia:Psalm 33">Thi thiên 33</a>, trong khi toàn bộ bài thơ giống <a class="extiw" href="http://en.wikipedia.org/wiki/Psalm_24" title="wikipedia:Psalm 24">Thi thiên 24</a>: "*Hỡi các cổng, hãy ngẩng đầu lên; hỡi các cánh cửa vĩnh cửu, hãy nâng cao đầu lên; và Vua vinh quang sẽ bước vào.*" Hình ảnh cũng gợi nhớ đến hình ảnh [Kitô giáo](../C/Christianity.md) đánh bại trước cổng địa ngục và [Chúa Kitô](../C/Christ.md) sắp đến.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Xem thêm {#See_also}
 

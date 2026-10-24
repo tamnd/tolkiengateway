@@ -66,20 +66,20 @@ Sự kiện xảy ra vào ngày 17 tháng 2.
 
 ## Trên Trái đất {#On_Earth}
 
-- **[1894](1894.md)** - [Hilary Tolkien](../H/Hilary_Tolkien.md), anh trai của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), ra đời.
+- **[1894](1894.md)** - [Hilary Tolkien](../H/Hilary_Tolkien.md), em trai của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), ra đời.
 - **[1919](1919.md)** - Hilary Tolkien trở về nhà sau [Chiến tranh](../W/World_War_I.md).
 - **[1934](1934.md)** - Diễn viên [Barry Humphries](../B/Barry_Humphries.md) ra đời.
 - **[1938](1938.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 23](../L/Letter_23.md).
 - **[1945](1945.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 97a](../L/Letter_97a.md).
-- **[1958](1958.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết vào [Wordsworth](<../L/Letter_to_Wordsworth_(17_February_1958).md>).
-- **[1963](1963.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một bức thư gửi Julie Cape](../L/Letter_to_Julie_Cape.md).
+- **[1958](1958.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) ghi vào [Wordsworth](<../L/Letter_to_Wordsworth_(17_February_1958).md>).
+- **[1963](1963.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư gửi Julie Cape](../L/Letter_to_Julie_Cape.md).
 - **[1978](1978.md)** - Diễn viên [Rory Michael Kinnear](../R/Rory_Michael_Kinnear.md) ra đời.
 - **[1979](1979.md)** - Nhà soạn nhạc [Bear McCreary](../B/Bear_McCreary.md) ra đời.
-- **[1991](1991.md)** – Ngày thứ ba của "Hội thảo về các ngôn ngữ của Trung Địa" đầu tiên tại nhà của [E.L.F.](../E/Elvish_Linguistic_Fellowship.md) thành viên [Bill Welden](../B/Bill_Welden.md).
+- **[1991](1991.md)** – Ngày thứ ba của buổi “Hội thảo về các ngôn ngữ của Trung Địa” đầu tiên tại nhà của [E.L.F.](../E/Elvish_Linguistic_Fellowship.md)thành viên [Bill Welden](../B/Bill_Welden.md).
 - **[1991](1991.md)** – Ca sĩ [Ed Sheeran](../E/Ed_Sheeran.md) ra đời.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - Nhóm [Hiệp hội Nhẫn](../F/Fellowship_of_the_Ring.md) đi về phía nam dọc theo [Anduin](../A/Anduin.md).
-    - [Gwaihir](../G/Gwaihir.md) mang [Gandalf](../G/Gandalf.md) đến [Lothlórien](../L/Lothlórien.md).
+    - Con [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) di chuyển về phía nam xuống [Anduin](../A/Anduin.md).
+    - [Gwaihir](../G/Gwaihir.md) giảm [Gandalf](../G/Gandalf.md) đến [Lothlórien](../L/Lothlórien.md).

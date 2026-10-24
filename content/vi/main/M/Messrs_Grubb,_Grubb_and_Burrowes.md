@@ -20,19 +20,19 @@ langlinks:
     url: "https://www.ardapedia.org/wiki/Die_Herren_W%C3%BChler,_W%C3%BChler_und_Graber"
 ---
 
-**Messrs Grubb, Grubb và Burrowes** là một công ty công chứng ở [the Shire](../T/The_Shire.md) do hai [Grubbs](../G/Grubb.md) và một [Burrowes](../B/Burrowes.md) đứng đầu. Họ có thể là luật sư hoặc người bán đấu giá.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Messrs Grubb, Grubb và Burrowes** là một công ty công chứng ở [ Shire](../T/The_Shire.md) do hai [Grubbs](../G/Grubb.md) và một [Burrowes](../B/Burrowes.md) lãnh đạo. Họ có thể là luật sư hoặc người bán đấu giá.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Lịch sử {#History}
 
-Grubb, Grubb và Burrowes giám sát cuộc bán đấu giá tài sản của [Bilbo Baggins](../B/Bilbo_Baggins.md) sau khi người hobbit mất tích ở [S.R.](../S/Shire_Reckoning.md) [1341](../T/Third_Age_2941.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Grubb, Grubb và Burrowes giám sát cuộc bán đấu giá tài sản của [Bilbo Baggins](../B/Bilbo_Baggins.md) sau khi người hobbit mất tích vào [S.R.](../S/Shire_Reckoning.md) [1341](../T/Third_Age_2941.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong bản thảo đầu tiên của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, Messrs. [Iago Grubb](../I/Iago_Grubb.md) và [Folco Burrowes](../F/Folco_Burrowes.md) là luật sư của [Frodo](../F/Frodo_Baggins.md) (lúc đó gọi là Bingo) và đuổi [Sancho Proudfoot](../S/Sancho_Proudfoot.md) kẻ đang cố gắng ăn trộm từ phòng đựng thức ăn trong sự hỗn loạn của những người hobbit đang cố gắng lấy quà chia tay của họ từ Bilbo.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Trong bản thảo đầu tiên của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, Messrs. [Iago Grubb](../I/Iago_Grubb.md) và [Folco Burrowes](../F/Folco_Burrowes.md) là luật sư của [Frodo](../F/Frodo_Baggins.md)(lúc đó gọi là Bingo) và đuổi [Sancho Proudfoot](../S/Sancho_Proudfoot.md) kẻ đang cố gắng ăn trộm từ phòng đựng thức ăn trong sự hỗn loạn của những người hobbit đang cố gắng lấy quà chia tay của họ từ Bilbo.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2014: <i><a href="../T/The_Hobbit%253A_The_Battle_of_the_Five_Armies.md" title="The Hobbit: The Battle of the Five Armies">Người Hobbit: Trận chiến của năm đội quân</a></i>:</b>
+<b>2014: <i><a href="../T/The_Hobbit%253A_The_Battle_of_the_Five_Armies.md" title="The Hobbit: The Battle of the Five Armies">The Hobbit: The Battle of the Five Armies</a></i>:</b>
 
 <dl><dd><a href="../T/Tosser_Grubb.md" title="Tosser Grubb">Tosser Grubb</a> leads the auction on behalf of the firm.</dd></dl>
 

@@ -30,7 +30,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Pantheon Books asked Tolkien to write a preface for a new edition of [George MacDonald](../G/George_MacDonald.md)'s *[The Golden Key](../T/The_Golden_Key.md)*. Tolkien replied that he would like to do as they asked, stating that while not as warm an admirer of MacDonald as [C.S. Lewis](../C/C.S._Lewis.md) was, he did think well of this story and had mentioned it in *[On Fairy-stories](../O/On_Fairy-stories~23735.md)*. Tolkien was not confident of producing something worthy of the honorarium offered, not being attracted to anything allegorical, mystical or moral. He said he would do his best if there was time, and thanked them for their consideration.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup>
+Pantheon Books đã yêu cầu Tolkien viết lời tựa cho ấn bản mới của [George MacDonald](../G/George_MacDonald.md) *[The Golden Key](../T/The_Golden_Key.md)*. Tolkien trả lời rằng ông muốn làm theo yêu cầu của họ, nói rằng mặc dù không phải là một người ngưỡng mộ MacDonald nồng nhiệt như [C.S. Lewis](../C/C.S._Lewis.md) nhưng ông đã nghĩ rất tốt về câu chuyện này và đã đề cập đến nó trong *[On Fairy-stories](../O/On_Fairy-stories~23735.md)*. Tolkien không tự tin tạo ra thứ gì đó xứng đáng với số tiền thù lao được đưa ra, không bị thu hút bởi bất cứ điều gì mang tính ngụ ngôn, thần bí hay đạo đức. Ông nói rằng ông sẽ cố gắng hết sức nếu có thời gian và cảm ơn họ đã quan tâm.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup>
 
 ## Lưu ý {#Note}
 

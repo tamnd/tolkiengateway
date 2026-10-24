@@ -65,10 +65,10 @@ Sự kiện xảy ra vào ngày 24 tháng 4.
 - **[1944](1944.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 63](../L/Letter_63.md).
 - **[1957](1957.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 196a](../L/Letter_196a.md).
 - **[1962](1962.md)** - Tác giả và biên tập viên [Henry Gee](../H/Henry_Gee.md) ra đời.
-- **[2007](2007.md)** - *[The Lord of the Rings Online: Shadows of Angmar](../T/The_Lord_of_the_Rings_Online%253A_Shadows_of_Angmar.md)* is released.
+- **[2007](2007.md)** - *[The Lord of the Rings Online: Shadows of Angmar](../T/The_Lord_of_the_Rings_Online%253A_Shadows_of_Angmar.md)* được phát hành.
 - **[2008](2008.md)** - [Guillermo del Toro](../G/Guillermo_del_Toro.md) chính thức được công bố là đạo diễn của bộ phim chuyển thể *[The Hobbit](<../T/The_Hobbit_(film_series).md>)* và phần tiếp theo được đề xuất của nó.
-- **[2008](2008.md)** - *[The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md): [Shadows of Angmar](../T/The_Lord_of_the_Rings_Online%253A_Shadows_of_Angmar.md)*, "Doom of the Last-King" được phát hành tại Bắc Mỹ.
-- **[2014](2014.md)** - [Peter Jackson](../P/Peter_Jackson.md) thông báo rằng *[Hobbit film](<../T/The_Hobbit_(film_series).md>)* thứ ba sẽ được đổi tên từ *There and Back Again* thành *[The Battle of the Five Armies](../T/The_Hobbit%253A_The_Battle_of_the_Five_Armies.md)*.
+- **[2008](2008.md)** - *[The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md): [Shadows of Angmar](../T/The_Lord_of_the_Rings_Online%253A_Shadows_of_Angmar.md)*, "Doom of the Last-Vua" được phát hành tại Bắc Mỹ.
+- **[2014](2014.md)** - [Peter Jackson](../P/Peter_Jackson.md) thông báo *[Hobbit film](<../T/The_Hobbit_(film_series).md>)* thứ ba sẽ được đổi tên từ *There and Back Again* thành *[The Battle of the Five Armies](../T/The_Hobbit%253A_The_Battle_of_the_Five_Armies.md)*.
 - **[2018](2018.md)** - [Robert Murray](../R/Robert_Murray.md) qua đời.
 
 ## Trong Arda {#In_Arda}

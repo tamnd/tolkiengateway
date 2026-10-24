@@ -70,14 +70,14 @@ Sự kiện xảy ra vào ngày 18 tháng 1.
 - **[1934](1934.md)** - Bài thơ "[Looney](../L/Looney.md)" của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được đăng trên *The Oxford Magazine*.
 - **[1944](1944.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 55](../L/Letter_55.md).
 - **[1945](1945.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 95](../L/Letter_95.md).
-- **[1948](1948.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư gửi J.L.N.O'Loughlin](<../L/Letter_to_J.L.N._O'Loughlin_(18_January_1948).md>).
+- **[1948](1948.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư cho J.L.N. O'Loughlin](<../L/Letter_to_J.L.N._O'Loughlin_(18_January_1948).md>).
 - **[1948](1948.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [gửi Rosemary](<../L/Letter_to_Rosemary_(18_January_1948).md>)
-- **[1964](1964.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một bức thư cho Justin Arundale](../L/Letter_to_Justin_Arundale.md).
+- **[1964](1964.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một lá thư cho Justin Arundale](../L/Letter_to_Justin_Arundale.md).
 - **[1971](1971.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư 319a](../L/Letter_319a.md).
 - **[2010](2010.md)** - *[Mirkwood: A Novel About JRR Tolkien](../M/Mirkwood%253A_A_Novel_About_JRR_Tolkien.md)* được xuất bản.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - Nhóm [Hiệp hội chiếc nhẫn](../F/Fellowship_of_the_Ring.md) nằm ở [Lothlórien](../L/Lothlórien.md).
-    - [Saruman](../S/Saruman.md) nghe nói về [Fellowship of the Ring](../F/Fellowship_of_the_Ring.md) và cử một đại đội do [Uglúk](../U/Uglúk.md) chỉ huy để ngăn chặn họ.
+    - [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) nằm trong [Lothlórien](../L/Lothlórien.md).
+    - [Saruman](../S/Saruman.md) nghe được [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) và cử một đại đội do [Uglúk](../U/Uglúk.md) chỉ huy để chặn chúng.

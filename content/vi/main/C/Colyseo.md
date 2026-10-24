@@ -13,7 +13,7 @@ categories:
   - "Video Game publishers"
 ---
 
-**Colyseo** là một công ty của Pháp chuyên phát triển các trò chơi chiến lược. Nó đã xuất bản [Middle-earth Play-By-Mail](../M/Middle-earth_Play-By-Mail.md) ở Pháp.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Colyseo** là một công ty của Pháp chuyên phát triển các trò chơi chiến lược. Nó đã xuất bản [Trung Địa Play-By-Mail](../M/Middle-earth_Play-By-Mail.md) ở Pháp.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

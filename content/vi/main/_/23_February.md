@@ -76,5 +76,5 @@ Sự kiện xảy ra vào ngày 23 tháng 2.
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - Nhóm [Hiệp hội Nhẫn](../F/Fellowship_of_the_Ring.md) đi về phía nam dọc theo [Anduin](../A/Anduin.md).
-    - Họ bị phục kích gần [Sarn Gebir](../S/Sarn_Gebir.md) vào ban đêm. [Gollum](../G/Gollum.md) sợ hãi chạy trốn đến bờ phía đông và ẩn náu trong [Emyn Muil](../E/Emyn_Muil.md). Một cái bóng bay đến gần nhưng Legolas bắn nó bằng cây cung của Galadriel.
+    - Con [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) di chuyển về phía nam xuống [Anduin](../A/Anduin.md).
+    - Chúng bị phục kích gần [Sarn Gebir](../S/Sarn_Gebir.md) vào ban đêm. [Gollum](../G/Gollum.md) sợ hãi bỏ chạy sang bờ phía đông và trốn trong [Emyn Muil](../E/Emyn_Muil.md). Một bóng bay tiến đến nhưng Legolas bắn nó bằng cung Galadriel.

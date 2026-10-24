@@ -40,7 +40,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mallorn17.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/42/Mallorn17.jpg/320px-Mallorn17.jpg" decoding="async" loading="lazy" width="320" height="465" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/42/Mallorn17.jpg/480px-Mallorn17.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/42/Mallorn17.jpg/640px-Mallorn17.jpg 2x" data-file-width="2359" data-file-height="3425"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mallorn 17</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../S/Susan_Rule.md" title="Susan Rule">Susan Rule</a> (editor)<br/>Steve Pillinger (assistant editor)</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Printer</th><td class="tg-infobox-data"><a class="external text" href="http://hanwayprint.com/" rel="noreferrer noopener" target="_blank">Hanway Print Centre</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../O/October.md" title="October">October</a> <a href="../_/1981.md" title="1981">1981</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">A4 stapled paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">36</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0308-6674</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mallorn_16.md" title="Mallorn 16">Mallorn 16</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mallorn_18.md" title="Mallorn 18">Mallorn 18</a></td></tr></tbody></table>
 
-<b><i>Mallorn</i> 17</b> là số thứ mười bảy của tạp chí thường niên [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) *[Mallorn](<Mallorn_(journal).md>)*, xuất bản vào tháng 10 [1981](../_/1981.md).
+<b><i>Mallorn</i> 17</b> là số thứ mười bảy của tạp chí thường niên [Hội Tolkien](../T/The_Tolkien_Society.md) của *[Mallorn](<Mallorn_(journal).md>)*, xuất bản vào tháng 10 [1981](../_/1981.md).
 
 ## Nội dung {#Contents}
 
@@ -61,16 +61,16 @@ infobox:
     - Bởi: Sara Pickering
 - Mithril
     - Bởi: William Maddox
-- Ảnh hưởng của Tolkien đối với Lewis
+Ảnh hưởng của - Tolkien đối với Lewis
     - Bởi: Pilar San José và Gregory Starkey
 - Nghệ thuật: 'Faramir và Eowyn'
     - Bởi: Ley Holloway
 - Đánh giá về *[The Letters of J.R.R. Tolkien](../T/The_Letters_of_J.R.R._Tolkien.md)*
     - Bởi: [Charles Noad](../C/Charles_Noad.md)
-- Nghệ thuật: 'Rồng hung hãn'
+- Nghệ thuật: 'Rồng Hung hăng'
     - Bởi: Neil Loughran
 - "[Thư từ J.R.R.T.](../L/Letter_to_Justin_Arundale.md)"
-    - Bởi: Michael Lightowlers
+    - Bởi: Michael Người thắp sáng
 - "*The Dream*"
     - Bởi: Margaret Thomson
 - "*The Unicorn*"
@@ -83,4 +83,4 @@ infobox:
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://journals.tolkiensociety.org/mallorn/issue/view/18/" rel="noreferrer noopener" target="_blank">Số này tại trang web của The Tolkien Society</a>
+- <a class="external text" href="http://journals.tolkiensociety.org/mallorn/issue/view/18/" rel="noreferrer noopener" target="_blank">Vấn đề này tại trang web Hội Tolkien</a>

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Undying Lands"
 ---
 
-Chuyển hướng tới [Vùng đất bất diệt](../U/Undying_Lands.md).
+Chuyển hướng đến [Vùng Đất Bất Tử](../U/Undying_Lands.md).

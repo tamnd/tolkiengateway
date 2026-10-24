@@ -23,7 +23,7 @@ images:
 
 ## Hoa {#Flowers}
 
-- [Hoa huệ](Lilies.md), loài hoa lớn màu trắng được thấy khắp [Trung địa](../M/Middle-earth.md)
+- [Hoa huệ](Lilies.md), những bông hoa lớn màu trắng được nhìn thấy khắp nơi [Trung Địa](../M/Middle-earth.md)
 - [Hoa súng](../W/Water-lilies.md), loài hoa lớn nổi trên mặt nước.
 
 ## Mọi người {#People}

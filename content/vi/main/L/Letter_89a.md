@@ -29,7 +29,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien đề cập đến cuộc gặp với [C.S. Lewis](../C/C.S._Lewis.md), trong đó họ thảo luận về đạo đức và thần học, đặc biệt là "câu hỏi thiên thần" mà Tolkien gần đây đã chia sẻ với Christopher ([Thư 89](Letter_89.md)). Ông đảm bảo với con trai mình rằng dù thời gian trôi qua, Christopher vẫn luôn ở trong suy nghĩ của con. <br>
+Tolkien đề cập đến cuộc gặp với [C.S. Lewis](../C/C.S._Lewis.md), trong đó họ đã thảo luận về đạo đức và thần học, đặc biệt là một "câu hỏi thiên thần" Tolkien gần đây đã được chia sẻ với Christopher ([Thư 89](Letter_89.md)). Ông đảm bảo với con trai rằng dù thời gian có trôi qua, Christopher vẫn luôn ở trong suy nghĩ của con. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

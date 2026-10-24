@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Balrogs"
 ---
 
-Chuyển hướng tới [Balrogs](../B/Balrogs.md).
+Chuyển hướng đến [Balrog](../B/Balrogs.md).

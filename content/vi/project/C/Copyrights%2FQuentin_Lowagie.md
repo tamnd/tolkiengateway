@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Lowagie, Quentin"
 ---
 
-- [Quentin Lowagie](https://tolkiengateway.net/wiki/User:Klow) đã vui lòng cho phép anh sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Quentin_Lowagie.md) trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
+- [Quentin Lowagie](https://tolkiengateway.net/wiki/User:Klow) đã vui lòng cho phép ông sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Quentin_Lowagie.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Ngày: 15 tháng 5 năm 2012
 - Người dùng đã xin phép qua email: [Người dùng:Morgan](https://tolkiengateway.net/wiki/User:Morgan)

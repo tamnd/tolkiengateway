@@ -20,7 +20,7 @@ sort_keys:
   "Lawyer": "Kane, Douglas C."
 ---
 
-**Douglas Charles Kane** (sinh ra [1963](../_/1963.md)) là luật sư dân quyền người California và là một [người hâm mộ Tolkien](../T/Tolkien_fandom.md) cuồng nhiệt. Ông là người đồng sáng lập của <a class="external text" href="http://www.thehalloffire.net/" rel="noreferrer noopener" target="_blank">TheHallofFire.net</a>và đăng bài trực tuyến dưới tên **Voronwe\_the\_Faithful**. Với tư cách là luật sư, ông cũng thường xuyên đưa tin về các cuộc chiến pháp lý giữa [Gia đình Tolkien](../T/Tolkien_Family.md) và [New Line Cinema](../N/New_Line_Cinema.md).
+**Douglas Charles Kane** (tên khai sinh [1963](../_/1963.md)) là luật sư dân quyền người California và là một [Tolkien người hâm mộ cuồng nhiệt](../T/Tolkien_fandom.md). Ông là người đồng sáng lập của <a class="external text" href="http://www.thehalloffire.net/" rel="noreferrer noopener" target="_blank">TheHallofFire.net</a>và đăng bài trực tuyến dưới tên **Voronwe\_the\_Faithful**. Với tư cách là một luật sư, ông cũng thường xuyên đưa tin về các cuộc chiến pháp lý giữa [Tolkien Gia đình](../T/Tolkien_Family.md) và [New Line Cinema](../N/New_Line_Cinema.md).
 
 ## Thư mục {#Bibliography}
 
@@ -31,11 +31,11 @@ sort_keys:
 ### Bài viết {#Articles}
 
 - [2008](../_/2008.md): *[Mythlore](../M/Mythlore.md)* 103/104:
-    - "Tái tạo Arda: của Feanor và sự giải phóng Melkor"
+    - "Tái tạo Arda: của Feanor và giải mã Melkor"
 - [2012](../_/2012.md): [*Tolkien Studies*: Tập 9](../T/Tolkien_Studies%253A_Volume_9.md)
-    - "Luật pháp và Arda"
+    - "Pháp luật và Arda"
 - [2021](../_/2021.md): *[Tolkien Studies: Volume 18](../T/Tolkien_Studies%253A_Volume_18.md)*
-    - "Túrin the Hapless: Tolkien và sự thánh hóa đau khổ"
+    - "Túrin điều không may mắn: Tolkien và sự thánh hóa đau khổ"
 
 ## Liên kết ngoài {#External_links}
 

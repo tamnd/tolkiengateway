@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Smith, A."
 ---
 
-- A. Smith đã vui lòng cho phép [Tolkien Gateway](../../main/T/Tolkien_Gateway.md) sử dụng ảnh ([1](<../../file/J/J.R.R._Tolkien_-_New_Lodge,_Stonyhurst_(photo_1).jpg.md>), [2](<../../file/J/J.R.R._Tolkien_-_New_Lodge,_Stonyhurst_(photo_2).jpg.md>)) của *[New Lodge, Stonyhurst](../../main/N/New_Lodge,_Stonyhurst.md)*.
+- A. Smith đã vui lòng cho phép [Tolkien Gateway](../../main/T/Tolkien_Gateway.md) sử dụng các bức ảnh của mình ([1](<../../file/J/J.R.R._Tolkien_-_New_Lodge,_Stonyhurst_(photo_1).jpg.md>), [2](<../../file/J/J.R.R._Tolkien_-_New_Lodge,_Stonyhurst_(photo_2).jpg.md>)) của *[New Lodge, Stonyhurst](../../main/N/New_Lodge,_Stonyhurst.md)*.
 - Ngày: 22 tháng 4 năm 2019
 - Người dùng đã nhận được sự cho phép qua email: [Người dùng:Morgan](https://tolkiengateway.net/wiki/User:Morgan)

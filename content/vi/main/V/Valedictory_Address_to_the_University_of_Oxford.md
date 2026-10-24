@@ -14,11 +14,11 @@ categories:
   - "Chapters"
 ---
 
-**Bài phát biểu tại trường Đại học Oxford** đề cập đến bài phát biểu nghỉ hưu của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) tại [Đại học Oxford](../U/University_of_Oxford.md), phát biểu vào [5 tháng 6](../_/5_June.md) [1959](../_/1959.md) tại Hội trường Đại học Merton.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Bài diễn văn dự lễ cho Đại học Oxford** đề cập đến bài phát biểu nghỉ hưu của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) từ [Đại học Oxford](../U/University_of_Oxford.md), được phát vào [5 tháng 6](../_/5_June.md) [1959](../_/1959.md) tại Hội trường Đại học Merton.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Bài thủ khoa vẫn chưa được xuất bản cho đến [1979](../_/1979.md), khi bài phát biểu được đưa vào *[J.R.R. Tolkien, Scholar and Storyteller: Essays in Memoriam](../J/J.R.R._Tolkien%253A_Scholar_and_Storyteller.md)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Một phiên bản sửa đổi đã được xuất bản trong *[The Monsters and the Critics and Other Essays](../T/The_Monsters_and_the_Critics.md)* (1983).
 
-Trong bài phát biểu của mình, Tolkien nhận xét rằng vì ông chưa bao giờ đọc bài diễn văn nhậm chức như mong đợi khi đảm nhận [Chủ tịch Rawlinson và Bosworth](../R/Rawlinson_and_Bosworth_Professor_of_Anglo-Saxon.md) 34 năm trước, nên ông đã ở vào tình thế khó xử khi đọc bài diễn văn nhậm chức khi nghỉ hưu.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Trong bài phát biểu của ông Tolkien nhận xét rằng vì ông chưa bao giờ đọc diễn văn nhậm chức như mong đợi khi đảm nhận [Chủ tịch Rawlinson và Bosworth](../R/Rawlinson_and_Bosworth_Professor_of_Anglo-Saxon.md) 34 năm trước đó, nên ông đã ở vào tình thế khó xử khi đọc diễn văn nhậm chức khi nghỉ hưu.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Trích {#Excerpt}
 

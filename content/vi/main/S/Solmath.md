@@ -45,11 +45,11 @@ langlinks:
 <li><a href="../F/Foreyule.md" title="Foreyule">Foreyule</a> (December)</li></ol>
 </td></tr></tbody></table>
 
-**Solmath** là tháng thứ hai trong [Lịch Quận](Shire_Calendar.md), với ba mươi ngày tương ứng với [ngày 22 tháng 1](../_/22_January.md) đến [ngày 20 tháng 2](../_/20_February.md) hiện đại.<sup id="cite_ref-cal_1-0" class="reference"><a href="#cite_note-cal-1">[1]</a></sup>
+**Solmath** là tháng thứ hai trong [Lịch Shire](Shire_Calendar.md), có ba mươi ngày tương ứng với [ngày 22 tháng 1](../_/22_January.md) đến [ngày 20 tháng 2](../_/20_February.md) hiện đại.<sup id="cite_ref-cal_1-0" class="reference"><a href="#cite_note-cal-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Cái tên thể hiện sự [hiện đại hóa](../H/Hobbitish.md) của tên [tiếng Anh cổ](../O/Old_English.md) cho tháng Hai, <i><a class="extiw" href="http://en.wiktionary.org/wiki/solmona%C3%BE" title="wiktionary:solmonaþ">Solmónaþ</a></i>, có nghĩa là "tháng bùn" (xem <i><a class="extiw" href="http://en.wiktionary.org/wiki/soil#Etymology" title="wiktionary:soil">đất</a></i>).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Cái tên thể hiện sự [hiện đại hóa](../H/Hobbitish.md) của tên [tiếng Anh cổ](../O/Old_English.md) cho tháng Hai, <i><a class="extiw" href="http://en.wiktionary.org/wiki/solmona%C3%BE" title="wiktionary:solmonaþ">Solmónaþ</a></i>, nghĩa là "tháng bùn" (cf. <i><a class="extiw" href="http://en.wiktionary.org/wiki/soil#Etymology" title="wiktionary:soil">đất</a></i>).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 Trong tiếng Hobbit thông tục, tháng được phát âm và đôi khi được đánh vần là *Somath*.<sup id="cite_ref-cal_1-1" class="reference"><a href="#cite_note-cal-1">[1]</a></sup> <span></span>
 

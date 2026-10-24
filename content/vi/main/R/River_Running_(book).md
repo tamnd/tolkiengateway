@@ -42,11 +42,11 @@ infobox:
 
 ## Văn bản bìa/áo khoác {#Cover/Jacket_Text}
 
-Dorwinion, Vùng đất của các Trinh nữ, nằm ở cuối phía đông của Sông Chạy, nơi nó chảy vào Biển Rhûn. Là nơi sinh sống của các thương nhân và nhà ngoại giao, vương quốc này nổi tiếng với các loại rượu vang hảo hạng. Những thùng rượu trắng lấp lánh, màu đỏ huyền ảo và rượu hoa hồng ngọt ngào du hành đến mọi nơi trên Trung Địa. Mặc dù nằm ở biên giới Gondor, Dorwinion không bị bỏ qua bởi Necromancer đáng sợ đang ẩn nấp trong Mirkwood. Những con thú quái dị, những cuộc tấn công ma thuật và những căn bệnh siêu nhiên đều tấn công người dân Dorwinadan theo ý muốn của Chúa tể Hắc ám.
+Dorwinion, Vùng đất của những trinh nữ, nằm ở đầu phía đông của River Running nơi nó chảy vào Biển Rhûn. Là nơi sinh sống của các thương nhân và nhà ngoại giao, vương quốc này nổi tiếng với các loại rượu vang hảo hạng. Những thùng rượu trắng lấp lánh, màu đỏ huyền ảo và rượu hoa hồng ngọt ngào du hành đến mọi đầu Trung Địa. Bất chấp vị trí của nó ở biên giới Gondor, Dorwinion không bị bỏ qua bởi Necromancer đáng sợ đang ẩn nấp trong Mirkwood. Những con thú quái dị, những cuộc tấn công ma thuật và những căn bệnh siêu nhiên đều tấn công người dân Dorwinadan theo ý muốn của Chúa tể Bóng tối.
 
 Tính năng CHẠY SÔNG:
 
-- 6 CUỘC PHIÊU LƯU TUYỆT VỜI, trong đó tay sai của Chúa tể bóng tối cố gắng mang đến sự hủy diệt cho Dorwinion và tất cả những ai du hành trên River Running.
+- 6 CUỘC PHIÊU LƯU TUYỆT VỜI, trong đó tay sai của Chúa tể Bóng tối cố gắng mang đến sự hủy diệt cho Dorwinion và tất cả những ai du hành River Running.
 - HOÀN THÀNH BỐ CỤC & BẢN ĐỒ cho mỗi cuộc phiêu lưu - tổng cộng hơn 12 trang.
 - THỐNG KÊ cho tất cả quái thú, quái vật và NPC đối đầu với các nhà thám hiểm.
 - BẢNG kết quả và phản ứng của NPC cho tất cả các cuộc phiêu lưu.

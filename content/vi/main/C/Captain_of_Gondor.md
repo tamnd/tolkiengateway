@@ -18,16 +18,16 @@ langlinks:
     url: "https://kontu.wiki/Gondorin_p%C3%A4%C3%A4llikk%C3%B6"
 ---
 
-**Thuyền trưởng Gondor** là một tước hiệu quân sự và chức vụ của [Gondor](../G/Gondor.md).
+**Thuyền trưởng Gondor** là quân hàm và chức vụ [Gondor](../G/Gondor.md).
 
-Hoàng tử [Eärnur](../E/Eärnur.md) giữ danh hiệu Thuyền trưởng Gondor lãnh đạo [Chủ nhà phương Tây](<../H/Host_of_the_West_(Arnor).md>) chống lại [Angmar](../A/Angmar.md) trong [Trận chiến Fornost](../B/Battle_of_Fornost.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Thân vương [Eärnur](../E/Eärnur.md) giữ chức Đội trưởng Gondor dẫn đầu [Đạo quân Phương Tây](<../H/Host_of_the_West_(Arnor).md>) đấu với [Angmar](../A/Angmar.md) trong [Trận Fornost](../B/Battle_of_Fornost.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Một thiên niên kỷ sau, [Faramir](../F/Faramir.md) cũng giữ danh hiệu này với tư cách là thủ lĩnh của [Rangers of Ithilien](../R/Rangers_of_Ithilien.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Một thiên niên kỷ sau, [Faramir](../F/Faramir.md) cũng giữ danh hiệu này với tư cách là thủ lĩnh của [Rangers của Ithilien](../R/Rangers_of_Ithilien.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Xem thêm {#See_also}
 
 - [Đội trưởng của đội chủ nhà](Captain_of_the_Hosts.md)
-- [Các thuyền trưởng của phương Tây](Captains_of_the_West.md)
+- [Thuyền trưởng của Phương Tây](Captains_of_the_West.md)
 
 <span></span>
 

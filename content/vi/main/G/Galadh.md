@@ -14,17 +14,17 @@ categories:
   - "Trees"
 ---
 
-<i><b>galadh</b></i> (hoặc *galað*) là một [Sindarin](../S/Sindarin.md) danh từ cho "cây".<sup id="cite_ref-MR_1-0" class="reference"><a href="#cite_note-MR-1">[1]</a></sup><sup id="cite_ref-SApp_2-0" class="reference"><a href="#cite_note-SApp-2">[2]</a></sup><sup id="cite_ref-PE_3-0" class="reference"><a href="#cite_note-PE-3">[3]</a></sup> A *galadh* biểu thị một loại cây "dày, rậm rạp và phân nhánh", như [sồi](../O/Oaks.md) và [sồi](../B/Beeches.md) (so sánh *[orn](../O/Orn.md)* "cây cao", ví dụ: [bạch dương](../B/Birches.md) và [tro](../A/Ashes.md)).<sup id="cite_ref-PE_3-1" class="reference"><a href="#cite_note-PE-3">[3]</a></sup>
+<i><b>galadh</b></i> (hoặc *galað*) là một [Sindarin](../S/Sindarin.md) danh từ của "cây".<sup id="cite_ref-MR_1-0" class="reference"><a href="#cite_note-MR-1">[1]</a></sup><sup id="cite_ref-SApp_2-0" class="reference"><a href="#cite_note-SApp-2">[2]</a></sup><sup id="cite_ref-PE_3-0" class="reference"><a href="#cite_note-PE-3">[3]</a></sup> A *galadh* biểu thị một loại cây "dày, rậm rạp và phân nhánh", như [sồi](../O/Oaks.md) và [sồi](../B/Beeches.md) (so sánh *[orn](../O/Orn.md)* "cây cao", ví dụ: [bạch dương](../B/Birches.md) và [tro](../A/Ashes.md)).<sup id="cite_ref-PE_3-1" class="reference"><a href="#cite_note-PE-3">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Từ [Quendian nguyên thủy](../P/Primitive_Quendian.md) *galadā*, bắt nguồn từ gốc [GALA](GALA.md).<sup id="cite_ref-PE_3-2" class="reference"><a href="#cite_note-PE-3">[3]</a></sup>
+Từ [Primitive Quendian](../P/Primitive_Quendian.md) *galadā*, xuất phát từ gốc [GALA](GALA.md).<sup id="cite_ref-PE_3-2" class="reference"><a href="#cite_note-PE-3">[3]</a></sup>
 
-Mặc dù dạng *galadh* tương tự như [Silvan](../S/Silvan_Elvish.md) *[galad](Galad.md#Silvan)* ("cây"), nhưng không nên nhầm lẫn với Sindarin *[galad](Galad.md#Sindarin)* ("rạng rỡ").<sup id="cite_ref-MR_1-1" class="reference"><a href="#cite_note-MR-1">[1]</a></sup><sup id="cite_ref-SApp_2-1" class="reference"><a href="#cite_note-SApp-2">[2]</a></sup>
+Mặc dù dạng *galadh* tương tự như [Silvan](../S/Silvan_Elvish.md) *[galad](Galad.md#Silvan)* ("cây") nhưng không nên nhầm lẫn với Sindarin *[galad](Galad.md#Sindarin)* ("radiance").<sup id="cite_ref-MR_1-1" class="reference"><a href="#cite_note-MR-1">[1]</a></sup><sup id="cite_ref-SApp_2-1" class="reference"><a href="#cite_note-SApp-2">[2]</a></sup>
 
 ## Ví dụ {#Examples}
 
-- [Cara Galadhon](../C/Caras_Galadhon.md)
+- [Caras Galadhon](../C/Caras_Galadhon.md)
 - [Galadhrim](Galadhrim.md)
 
 ## Xem thêm {#See_also}

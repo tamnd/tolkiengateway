@@ -15,5 +15,5 @@ sort_keys:
 ---
 
 - Ian L. Collier đã vui lòng cho phép ông sử dụng bức ảnh "[Mộ của Charles Williams, Holywell, Oxford](../../file/T/The_grave_of_charles_williams,_Holywell,_Oxford_by_Ian_Collier.jpg.md)" trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
-- Ngày: 15 tháng 9 năm 2014
+- Ngày: 15 tháng Chín năm 2014
 - Người dùng đã xin phép qua Facebook: [Người dùng:Sigurd](https://tolkiengateway.net/wiki/User:Sigurd)

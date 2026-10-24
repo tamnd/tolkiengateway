@@ -30,35 +30,35 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Alarie_-_Gandalf_Crosses_the_Sarn_Ford.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/2/21/Alarie_-_Gandalf_Crosses_the_Sarn_Ford.jpg/250px-Alarie_-_Gandalf_Crosses_the_Sarn_Ford.jpg" decoding="async" loading="lazy" width="250" height="139" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/21/Alarie_-_Gandalf_Crosses_the_Sarn_Ford.jpg/375px-Alarie_-_Gandalf_Crosses_the_Sarn_Ford.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/2/21/Alarie_-_Gandalf_Crosses_the_Sarn_Ford.jpg/500px-Alarie_-_Gandalf_Crosses_the_Sarn_Ford.jpg 2x" data-file-width="1600" data-file-height="892"/></a><figcaption><i>Gandalf Crosses the Sarn Ford</i> by <a href="../../category/I/Images_by_Alarie.md" title="Category:Images by Alarie">Alarie</a></figcaption></figure>
 
-**Sarn Ford** là pháo đài đá trên Sông [Baranduin](../B/Baranduin.md), ở biên giới xa về phía nam của [Quận](../T/The_Shire.md). Nó được bảo vệ bởi [Biệt đội miền Bắc](../R/Rangers_of_the_North.md). Tuy nhiên, vào [22 tháng 9](../_/22_September.md) [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md), Biệt đội đã bị đánh lui khi [Bọn Ma Nhẫn](../N/Nazgûl.md) xuất hiện vào buổi tối.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Sarn Ford** là pháo đài đá trên Sông [Baranduin](../B/Baranduin.md), ở biên giới xa về phía nam của [ Shire](../T/The_Shire.md). Nó được bảo vệ bởi [Biệt đội miền Bắc](../R/Rangers_of_the_North.md). Tuy nhiên, vào ngày [22 tháng Chín](../_/22_September.md) [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md), Biệt đội đã bị đánh đuổi khi đến vào buổi tối ngày [Nazgûl](../N/Nazgûl.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Con đường bắt đầu tại [Waymeet](../W/Waymeet.md) băng qua pháo đài và gặp [Greenway](../G/Greenway.md) ở xa hơn về phía nam. Bằng con đường này [Khamûl](../K/Khamûl.md) Ma Nhẫn đã tiến vào Quận trong [Chiến tranh Nhẫn](../W/War_of_the_Ring.md).
+Con đường bắt đầu tại [Waymeet](../W/Waymeet.md) băng qua pháo đài, gặp [Greenway](../G/Greenway.md) xa hơn về phía nam. Bằng con đường này [Khamûl](../K/Khamûl.md), Ma Nhẫn đã tiến vào Shire trong thời gian [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md).
 
-Trong [Fo.A.](../F/Fourth_Age.md) [63](../F/Fourth_Age_63.md), [Peregrin Took](../P/Peregrin_Took.md) và [Meriadoc Brandybuck](../M/Meriadoc_Brandybuck.md) đã vượt qua Sarn Ford trên đường đến [Rohan](../R/Rohan.md), lần cuối cùng họ được nhìn thấy ở Shire.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Trong [Kỷ Đệ Tứ](../F/Fourth_Age.md) [63](../F/Fourth_Age_63.md), [Peregrin Took](../P/Peregrin_Took.md) và [Meriadoc Brandybuck](../M/Meriadoc_Brandybuck.md) đã vượt qua Sarn Ford trên đường đến [Rohan](../R/Rohan.md), lần cuối cùng họ được nhìn thấy trong Shire.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Sarn Ford* được đặt tên như vậy bởi [Númenóreans](../N/Númenóreans.md), theo tên [Sarn Athrad](Sarn_Athrad.md) ở [Beleriand](../B/Beleriand.md).<sup id="cite_ref-RC_3-0" class="reference"><a href="#cite_note-RC-3">[3]</a></sup>
+*Sarn Ford* được đặt tên như vậy bởi [người Númenor](../N/Númenóreans.md), theo tên [Sarn Athrad](Sarn_Athrad.md) trong [Beleriand](../B/Beleriand.md).<sup id="cite_ref-RC_3-0" class="reference"><a href="#cite_note-RC-3">[3]</a></sup>
 
 Tên này là bản dịch một nửa của tên [Elvish](../E/Elvish.md) ([Sindarin](Sindarin.md)) *[Sarn-athrad](Sarn_Athrad.md)*, có nghĩa là "stony-ford" (*[sarn](Sarn.md)* + *[athrad](../A/Athrad.md)*).<sup id="cite_ref-RC_3-1" class="reference"><a href="#cite_note-RC-3">[3]</a></sup><sup id="cite_ref-Nomen_4-0" class="reference"><a href="#cite_note-Nomen-4">[4]</a></sup>
 
 ## Cảm hứng {#Inspirations}
 
-Có lẽ [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được lấy cảm hứng từ phong cảnh thời thơ ấu của anh: "<i>Làng Hall Green chỉ cách [Sarehole] một đoạn ngắn, xuôi theo một con đường và <b>băng qua một khúc cạn.</b></i>".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Có lẽ [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được lấy cảm hứng từ phong cảnh thời thơ ấu của anh: "<i>Ngôi làng Hall Green chỉ cách [Sarehole] một đoạn ngắn, xuôi theo một con ngõ và <b>băng qua một khúc cạn.</b></i>".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Nhập vai ở Trung Địa</a></i>:</b>
+<b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>:</b>
 
 <dl><dd>Sarn Ford (colloquial name for <i>Iach Sarn</i> or <i>Athrad Sarn</i>) is a ford maintained by an Arthedain garrison. The site is given a detailed description and history.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></dd></dl>
 
-<b>2011: <i><a href="../T/The_Lord_of_the_Rings%253A_War_in_the_North.md" title="The Lord of the Rings: War in the North">Chúa tể của những chiếc nhẫn: Cuộc chiến ở phương Bắc</a></i>:</b>
+<b>2011: <i><a href="../T/The_Lord_of_the_Rings%253A_War_in_the_North.md" title="The Lord of the Rings: War in the North">The Lord of the Rings: War in the North</a></i>:</b>
 
 <dl><dd>Sarn Ford is the starting location of the game, shortly after the Nazgûl attacked the Rangers who guarded the Shire. <a href="../E/Eradan_(video_game_character).md" title="Eradan (video game character)">Eradan</a>, <a href="../A/Andriel.md" title="Andriel">Andriel</a> and <a href="../F/Farin_(video_game_character).md" title="Farin (video game character)">Farin</a> meet <a href="../H/Halbarad.md" title="Halbarad">Halbarad</a>, who sends them to <a href="../B/Bree.md" title="Bree">Bree</a> to warn <a href="../A/Aragorn.md" title="Aragorn">Aragorn</a>.<sup id="cite_ref-Oxmonline_9-0" class="reference"><a href="#cite_note-Oxmonline-9">[9]</a></sup></dd></dl>
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Sarn_Ford.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/54/The_Lord_of_the_Rings_Online_-_Sarn_Ford.jpg/300px-The_Lord_of_the_Rings_Online_-_Sarn_Ford.jpg" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/54/The_Lord_of_the_Rings_Online_-_Sarn_Ford.jpg/450px-The_Lord_of_the_Rings_Online_-_Sarn_Ford.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/5/54/The_Lord_of_the_Rings_Online_-_Sarn_Ford.jpg/600px-The_Lord_of_the_Rings_Online_-_Sarn_Ford.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>Sarn Ford in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-<b>2022: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
+<b>2022: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Sarn Ford is on the western edge of in-game <a href="../C/Cardolan.md" title="Cardolan">Cardolan</a> region. It is visited on <a href="../_/26_September.md" title="26 September">26 September</a> as the Rangers led by Halbarad are still recovering from the attack.</dd></dl>
 

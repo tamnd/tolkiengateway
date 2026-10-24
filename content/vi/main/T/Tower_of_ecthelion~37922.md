@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tower of Ecthelion"
 ---
 
-Chuyển hướng đến [Tháp Ecthelion](Tower_of_Ecthelion.md).
+Chuyển hướng tới [Tháp Ecthelion](Tower_of_Ecthelion.md).

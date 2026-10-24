@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The King of the Ring"
 ---
 
-Chuyển hướng đến [Vua nhẫn](../T/The_King_of_the_Ring.md).
+Chuyển hướng đến [ Vua của Chiếc nhẫn](../T/The_King_of_the_Ring.md).

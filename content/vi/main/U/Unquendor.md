@@ -22,15 +22,15 @@ images:
 
 <figure class="mw-halign-right" typeof="mw:File"><a class="mw-file-description" href="../../file/U/Unquendor_logo.png.md"><img src="https://tolkiengateway.net/w/images/thumb/2/23/Unquendor_logo.png/180px-Unquendor_logo.png" decoding="async" loading="lazy" width="180" height="180" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/23/Unquendor_logo.png/270px-Unquendor_logo.png 1.5x, https://tolkiengateway.net/w/images/thumb/2/23/Unquendor_logo.png/360px-Unquendor_logo.png 2x" data-file-width="814" data-file-height="815"/></a><figcaption></figcaption></figure>
 
-**Tolkien Genootschap Unquendor** (*Tolkien Society [Unquendor](#Etymology)*) là [hội Tolkien](../T/Tolkien_Societies~67099.md) ở Hà Lan.
+**Tolkien Genootschap Unquendor** (*Tolkien Society [Unquendor](#Etymology)*) là [Tolkien hội](../T/Tolkien_Societies~67099.md) ở Hà Lan.
 
 ## Lịch sử {#History}
 
-Cùng ngày sinh nhật với [Bilbo](../B/Bilbo_Baggins.md) và [Frodo Baggins](../F/Frodo_Baggins.md), *Unquendor* được thành lập vào [22 tháng 9](../_/22_September.md), [1981](../_/1981.md). Theo gương [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) của Anh, hiệp hội này đã tăng trưởng đều đặn với số lượng thành viên hiện tại là khoảng 225 người<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> từ khắp nơi trên thế giới nói tiếng Hà Lan, mặc dù Flanders có Hiệp hội riêng, *[Elanor](<../E/Elanor_(Tolkien_Society).md>)*và [Nam Phi](../../category/S/South_Africa.md) từng có [*Haradrim*](<../H/Haradrim_(Tolkien_Society).md>) hiện không còn tồn tại. Trong những năm gần đây Unquendor và Elanor đã hợp tác chặt chẽ trong các sự kiện. [Hiệp hội Tolkien Đức](../D/Deutsche_Tolkien_Gesellschaft_e.V..md) (DTG) thỉnh thoảng cũng đã tham gia.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Cùng ngày sinh nhật với [Bilbo](../B/Bilbo_Baggins.md) và [Frodo Baggins](../F/Frodo_Baggins.md), *Unquendor* được thành lập vào ngày [22 tháng Chín](../_/22_September.md), [1981](../_/1981.md). Theo gương [Tolkien Hiệp hội](../T/The_Tolkien_Society.md) của Anh, Hiệp hội này đã tăng trưởng đều đặn với số lượng thành viên hiện tại là khoảng 225 người<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> từ khắp nơi trên thế giới nói tiếng Hà Lan, mặc dù Flanders có Hiệp hội riêng, *[Elanor](<../E/Elanor_(Tolkien_Society).md>)*và [Nam Phi](../../category/S/South_Africa.md) từng có [*Haradrim*](<../H/Haradrim_(Tolkien_Society).md>) hiện không còn tồn tại. Trong những năm gần đây Unquendor và Elanor đã hợp tác chặt chẽ trong các sự kiện. [Hiệp hội Tolkien Đức](../D/Deutsche_Tolkien_Gesellschaft_e.V..md) (DTG) thỉnh thoảng cũng đã tham gia.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Thành viên lưu ý {#Members_of_Note}
 
-- [Jan Boom (còn gọi là Fangorn)](../J/Jan_Boom.md)
+- [Jan Boom (hay còn gọi là Fangorn)](../J/Jan_Boom.md)
 - [René van Rossenberg (còn gọi là Parmahosta)](../R/René_van_Rossenberg.md)
 - [Renee Vink](../R/Renée_Vink.md)
 
@@ -39,20 +39,20 @@ Cùng ngày sinh nhật với [Bilbo](../B/Bilbo_Baggins.md) và [Frodo Baggins]
 Unquendor tổ chức một số sự kiện trên khắp Hà Lan với sự tham dự của khắp đất nước (và trong lịch sử cũng có một số thành viên từ Flanders):
 
 - Bữa tiệc "*Joelfeest*" ([Yule](../Y/Yule.md), tháng 12)
-- Ngày Hobbit và Đại hội thường niên (theo lịch sử/theo luật định là tháng 9, bây giờ là tháng 12)
+- Hobbit Ngày và Đại hội thường niên (theo lịch sử/theo luật định tháng Chín, hiện tại là vào tháng 12)
 - "*Slotfeest*" (Lâu đài/Lễ kết thúc, tháng 6),
-- "*3-januari-diner*" (Bữa tối sinh nhật Tolkien, [ngày 3 tháng 1](../_/3_January.md))
-- Hội thảo Tolkien (không thường xuyên, phối hợp với Đại học Leiden)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+- "*3-januari-diner*" (Tolkien Bữa tối sinh nhật, [3 tháng 1](../_/3_January.md))
+- Tolkien Hội thảo (không thường xuyên, phối hợp với Đại học Leiden)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 Những sự kiện này đã bị ngừng:
 
-- "*Tolkien Leesdag*" (Ngày đọc sách Tolkien, gần [25 tháng 3](../_/25_March.md), sự kiện cuối cùng diễn ra vào [2017](../_/2017.md))<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+- "*Tolkien Leesdag*" (Tolkien Ngày đọc sách, gần [25 tháng 3](../_/25_March.md), sự kiện cuối cùng diễn ra vào [2017](../_/2017.md))<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
-Unquendor cũng cung cấp nhiều cuộc họp thường xuyên hơn do các thành viên tổ chức trên khắp Hà Lan, được gọi là *Herbergen* ("Nhà trọ") tương tự như *smials* của Hiệp hội Tolkien. Unquendor's Lay of Leithian là quán trọ duy nhất cũng là Hiệp hội Tolkien *smial*.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> Quán trọ này cũng hợp tác chặt chẽ với một bàn chính quy ("*stammtisch"*) của Hiệp hội Tolkien Đức ngay bên kia biên giới.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Cả hai nhóm đều có chung một khu vực (Low Franconian).<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
+Unquendor cũng cung cấp nhiều cuộc họp thường xuyên hơn do các thành viên tổ chức trên khắp Hà Lan, được gọi là *Herbergen* ("Nhà trọ") tương tự như *smials* của Hiệp hội Tolkien. Lay of Leithian của Unquendor là nhà trọ duy nhất cũng là một Tolkien Hiệp hội *smial*.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> Nhà trọ này cũng hợp tác chặt chẽ với một bảng chính quy ("*stammtisch"*) của Hiệp hội Tolkien Đức ngay bên kia biên giới.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Cả hai nhóm đều có chung một khu vực (Low Franconian).<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
 
 ### Sáng bóng {#Lustrum}
 
-Cứ 5 năm một lần, Unquendor tổ chức một sự kiện cuối tuần để kỷ niệm thêm 5 năm tồn tại của hội, gần đây nhất là [2021](../_/2021.md). Những sự kiện này mang tính chất quốc tế hơn và thường bao gồm các bài giảng của các học giả và nghệ sĩ Tolkien nổi tiếng: [Dimitra Fimi (2021),](../D/Dimitra_Fimi.md) [Thomas Honegger](../T/Thomas_Honegger.md) / <a class="new" href="https://tolkiengateway.net/w/index.php?title=Paul_Smith&amp;action=edit&amp;redlink=1" title="Paul Smith (page does not exist)">Paul Smith</a> (2016), [Cor Blok](../C/Cor_Blok.md) (2006), [Tom Shippey](../T/Tom_Shippey.md) (2011), [Rayner Bỏ qua](../R/Rayner_Unwin.md) (1997), [Arne Zettersten](../A/Arne_Zettersten.md) (2006).
+Cứ 5 năm một lần, Unquendor tổ chức một sự kiện cuối tuần để kỷ niệm thêm 5 năm tồn tại của hội, gần đây nhất là [2021](../_/2021.md). Những sự kiện này mang tính chất quốc tế hơn và thường bao gồm các bài giảng của Tolkien học giả và nghệ sĩ nổi tiếng: [Dimitra Fimi (2021),](../D/Dimitra_Fimi.md) [Thomas Honegger](../T/Thomas_Honegger.md) / <a class="new" href="https://tolkiengateway.net/w/index.php?title=Paul_Smith&amp;action=edit&amp;redlink=1" title="Paul Smith (page does not exist)">Paul Smith</a> (2016), [Cor Blok](../C/Cor_Blok.md) (2006), [Tom Shippey](../T/Tom_Shippey.md) (2011), [Rayner Unwin](../R/Rayner_Unwin.md) (1997), [Arne Zettersten](../A/Arne_Zettersten.md) (2006).
 
 ## Ấn phẩm {#Publications}
 

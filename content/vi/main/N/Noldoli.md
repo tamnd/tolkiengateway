@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gnomes"
 ---
 
-Chuyển hướng tới [Gnomes](../G/Gnomes.md).
+Chuyển hướng đến [Gnomes](../G/Gnomes.md).

@@ -19,7 +19,7 @@ categories:
 
 ## Từ nguyên {#Etymology}
 
-Tên *Estirin* ở [Qenya](../Q/Qenya.md). Nó được *[Eldamo](Eldamo.md)* gọi là "Tháp ngoài", có khả năng là sự kết hợp của <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Es-&amp;action=edit&amp;redlink=1" title="Es- (page does not exist)">es-</a></i> ("out") + *[tirin](../T/Tirin.md)* ("tháp").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Tên *Estirin* nằm trong [Qenya](../Q/Qenya.md). Nó được *[Eldamo](Eldamo.md)* gọi là "Tháp ngoài", có khả năng là sự kết hợp của <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Es-&amp;action=edit&amp;redlink=1" title="Es- (page does not exist)">es-</a></i> ("out") + *[tirin](../T/Tirin.md)* ("tháp").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <i><b>Estirios</b></i>, một dạng thay thế của tên, được đưa ra trong *[Qenya Lexicon](../Q/Qenya_Lexicon.md)*.<sup id="cite_ref-Qen_1-2" class="reference"><a href="#cite_note-Qen-1">[1]</a></sup>
 

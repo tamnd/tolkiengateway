@@ -24,9 +24,9 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span><small>Tolkien in aller Welt: Eine Ausstellung der Inklings-Gesellschaft anläßlich des 100. Geburtstags von J. R. R. Tolkien und des Internationalen Tolkien-Symposions in Aachen.</small></span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Gisbert Kranz</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Öffentliche Bibliothek der Stadt Aachen</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/1992.md" title="1992">1992</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Exhibition catalogue</td></tr></tbody></table>
 
-<i><b>Tolkien in aller Welt: Eine Ausstellung der Inklings-Gesellschaft anläßlich des 100</b></i> (tiếng Đức: **Tolkien vòng quanh thế giới: Một cuộc triển lãm của Inklings Society nhân dịp kỷ niệm 100 năm**) là một danh mục triển lãm của Öffentliche Bibliothek der Stadt <a class="extiw" href="http://en.wikipedia.org/wiki/Aachen" title="wikipedia:Aachen">Aachen</a>.
+<i><b>Tolkien in aller Welt: Eine Ausstellung der Inklings-Gesellschaft anläßlich des 100</b></i> (tiếng Đức: **Tolkien vòng quanh thế giới: Một cuộc triển lãm của Hiệp hội Inklings nhân dịp kỷ niệm 100 năm**) là một danh mục triển lãm của Öffentliche Thư viện Stadt <a class="extiw" href="http://en.wikipedia.org/wiki/Aachen" title="wikipedia:Aachen">Aachen</a>.
 
-Danh mục này bao gồm bản sao lại (tr. 12) bức thư của [Tolkien](../J/J.R.R._Tolkien.md) gửi [Hiệp hội Tolkien Hoa Kỳ](Tolkien_Society_of_America.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Danh mục này bao gồm bản sao (tr. 12) của một bức thư từ [Tolkien](../J/J.R.R._Tolkien.md) gửi [Tolkien Society of America](Tolkien_Society_of_America.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

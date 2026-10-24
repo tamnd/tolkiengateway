@@ -37,7 +37,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Grim định cư tại một thung lũng mà sau này mang tên anh, [Grimslade](Grimslade.md). Nó sẽ là nơi sinh sống của ông và con cháu ông cho đến thời [Grimbold](Grimbold.md) trong [Cuộc chiến trên chiếc nhẫn](../W/War_of_the_Ring.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Grim định cư tại một thung lũng mà sau này mang tên anh, [Grimslade](Grimslade.md). Nó sẽ là nơi sinh sống của ông và con cháu ông cho đến những ngày [Grimbold](Grimbold.md) ở [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

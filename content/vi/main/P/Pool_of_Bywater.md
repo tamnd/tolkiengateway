@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Bywater Pool"
 ---
 
-Chuyển hướng đến [Bể bơi ven nước](../B/Bywater_Pool.md).
+Chuyển hướng đến [Bywater Nhóm](../B/Bywater_Pool.md).

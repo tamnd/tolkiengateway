@@ -45,9 +45,9 @@ infobox:
     - Bởi: Adrian Gunther
 - "Các kích thước cao hơn: C.S. Lewis và Toán học"
     - Bởi: David L. Neuhouser
-- "Phim giả tưởng được đưa vào âm nhạc: Donald Swann, C.S. Lewis và J.R.R. Tolkien"
+- " Fantasy được đặt thành nhạc: Donald Swann, C.S. Lewis và J.R.R. Tolkien"
     - Bởi: William Phemister
-- "'Việc thờ phượng trong Giáo hội Anh giáo' của Dorothy L. Sayer: Phản hồi của Trưởng lão"
+- "'Sự thờ phượng trong Giáo hội Anh giáo' của Dorothy L. Sayer: Phản hồi của Trưởng lão"
     - Bởi: Đánh dấu A. Noll
 - "Phản hồi của Anh giáo"
     - Bởi: Colin Buchanan

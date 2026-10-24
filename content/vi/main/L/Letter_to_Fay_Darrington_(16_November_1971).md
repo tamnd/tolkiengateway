@@ -31,7 +31,7 @@ Vào [16 tháng 11](../_/16_November.md) [1971](../_/1971.md), [J.R.R. Tolkien](
 
 ## Từ cuộc đấu giá {#From_the_auction}
 
-Thư ký tặng đã ký cho Fay Darrington,1p., 8vo, n.p, ngày 16 tháng 11 năm 1971, cảm ơn lá thư của bà, trả lại hai cuốn sách đã ký và gửi cho bà một bản sao của áp phích bản đồ Hobbit mới.
+Thư ký tặng được ký cho Fay Darrington,1p., 8vo, n.p, ngày 16 tháng 11 năm 1971, cảm ơn lá thư của bà, trả lại hai cuốn sách đã ký và gửi cho bà một bản sao của áp phích bản đồ Hobbit mới.
 
 ## Xem thêm {#See_also}
 

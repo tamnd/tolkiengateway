@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dale"
 ---
 
-Chuyển hướng tới [Dale](Dale.md).
+Chuyển hướng đến [Dale](Dale.md).

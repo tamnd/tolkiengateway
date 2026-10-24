@@ -16,9 +16,9 @@ images:
 
 **Mithrandir** có thể đề cập đến:
 
-## Trung địa {#Middle-earth}
+## Trung Địa {#Middle-earth}
 
-- **Mithrandir, một trong những [tên của Gandalf](../G/Gandalf.md#Other_names)**
+- **Mithrandir, một trong những tên của [Gandalf](../G/Gandalf.md#Other_names)**
 
 ## Thế giới thực {#Real-world}
 

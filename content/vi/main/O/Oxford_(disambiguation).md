@@ -14,13 +14,13 @@ images:
   - "Disambig.png"
 ---
 
-**Oxford** có thể đề cập đến:
+**Oxford** có thể tham khảo:
 
 ## Địa điểm {#Locations}
 
 - **[Oxford](Oxford.md), một thành phố ở Thung lũng Thames ở Anh.**
-    - [Đại học Oxford](../U/University_of_Oxford.md), *alma mater* của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và nơi sau này ông làm giáo sư.
-    - [Từ điển tiếng Anh Oxford](Oxford_English_Dictionary.md), một ấn phẩm mà J.R.R. Tolkien hoạt động.
+    - Nhà [Đại học Oxford](../U/University_of_Oxford.md), *alma mater* của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và nơi ông làm giáo sư sau này.
+    - Từ điển tiếng Anh [Oxford](Oxford_English_Dictionary.md), một ấn phẩm mà J.R.R. Tolkien hoạt động.
 
 <h2><span id="In_Tolkien.27s_Works"></span><span class="mw-headline" id="In_Tolkien&#39;s_Works">In Tolkien&#39;s Works</span></h2>
 
@@ -31,7 +31,7 @@ images:
 
 - *[Oxford Poetry](Oxford_Poetry.md)*, cuốn sách hàng năm xuất bản nhiều bài thơ của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)
 - *[Tolkien's Oxford](../T/Tolkien's_Oxford.md)*, một cuốn sách [2008](../_/2008.md) của [Bob Blackham](../R/Robert_S._Blackham.md).
-- "[Tolkien ở Oxford](../T/Tolkien_in_Oxford.md)", một bộ phim tài liệu.
+- "[Tolkien trong Oxford](../T/Tolkien_in_Oxford.md)", một bộ phim tài liệu.
 
 <hr style="margin-top:15px;"/>
 

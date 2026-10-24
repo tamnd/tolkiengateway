@@ -29,7 +29,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien gần đây nhận thấy công việc hàng ngày thật mệt mỏi và tốn nhiều công sức, khi mô tả một loạt bài giảng tẻ nhạt và các công việc thường ngày khác, mặc dù được phấn chấn hơn nhờ cuộc gặp thứ Ba với [C.S. Lewis](../C/C.S._Lewis.md) và những người bạn khác cũng như buổi đọc [Sellic Spell](../S/Sellic_Spell.md) vào thứ Năm. Tại bữa tối hàng năm của <a class="extiw" href="http://en.wikipedia.org/wiki/Catenian_Association" title="wikipedia:Catenian Association">Hiệp hội Catenian</a> vào tối thứ Năm, Tolkien được yêu cầu nâng cốc chúc mừng. Ông cảm thấy rằng mình đã làm rất thành công, vượt qua sự lo lắng của mình với sự hỗ trợ của đồ uống được phục vụ trong bữa tối và cầu chúc sức khỏe cho vị khách danh dự ở [Anglo-Saxon](../A/Anglo-Saxon.md). <br>
+Tolkien gần đây nhận thấy công việc hàng ngày thật mệt mỏi và tốn nhiều công sức, phải mô tả một loạt bài giảng tẻ nhạt và các công việc thường ngày khác, mặc dù được phấn chấn hơn nhờ cuộc gặp thứ Ba với [C.S. Lewis](../C/C.S._Lewis.md) và những người bạn khác cũng như buổi đọc sách [Sellic Spell](../S/Sellic_Spell.md) vào thứ Năm. Tại bữa tối hàng năm của <a class="extiw" href="http://en.wikipedia.org/wiki/Catenian_Association" title="wikipedia:Catenian Association">Hiệp hội Catenian</a> vào tối thứ Năm, Tolkien được yêu cầu nâng cốc chúc mừng. Anh cảm thấy mình đã làm rất thành công, vượt qua sự lo lắng với sự hỗ trợ của đồ uống được phục vụ trong bữa tối và cầu chúc sức khỏe cho vị khách danh dự trong [Anglo-Saxon](../A/Anglo-Saxon.md). <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

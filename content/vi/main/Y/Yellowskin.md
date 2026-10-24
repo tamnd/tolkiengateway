@@ -25,21 +25,21 @@ langlinks:
     url: "https://kontu.wiki/Keltanahkainen"
 ---
 
-<i><b>Yellowskin</b></i> hoặc <i><b>Niên giám của <a href="../T/Tuckborough.md" title="Tuckborough">Tuckborough</a></b></i> là cuốn biên niên sử lâu đời nhất về [Hobbit](../H/Hobbits.md), được cho là chứa các mục có niên đại khoảng 900 năm trước [Chiến tranh Chiếc nhẫn](../W/War_of_the_Ring.md) (kể từ khoảng [T.A.](../T/Third_Age.md) [2000](../T/Third_Age_2000.md)).<sup id="cite_ref-Calendar_1-0" class="reference"><a href="#cite_note-Calendar-1">[1]</a></sup>
+<i><b>Yellowskin</b></i> hoặc <i><b>Sách niên giám của <a href="../T/Tuckborough.md" title="Tuckborough">Tuckborough</a></b></i> là cuốn sách biên niên sử lâu đời nhất [Hobbit](../H/Hobbits.md), được cho là chứa các mục có niên đại khoảng 900 năm trước [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md) (kể từ khoảng [T.A.](../T/Third_Age.md) [2000](../T/Third_Age_2000.md)).<sup id="cite_ref-Calendar_1-0" class="reference"><a href="#cite_note-Calendar-1">[1]</a></sup>
 
-Nó chứa các biên niên sử của [gia đình Takek](../T/Took_Family.md), bao gồm các cuộc hôn nhân, sinh tử, cũng như các chi tiết pháp lý và tài liệu tham khảo về các sự kiện quan trọng ở [Took](../T/The_Shire.md) nói chung.<sup id="cite_ref-Calendar_1-1" class="reference"><a href="#cite_note-Calendar-1">[1]</a></sup>
+Nó chứa các biên niên sử về [gia đình Takek](../T/Took_Family.md), bao gồm các cuộc hôn nhân, sinh tử, cũng như các chi tiết pháp lý và tài liệu tham khảo về các sự kiện quan trọng trong [tổng thể Shire](../T/The_Shire.md).<sup id="cite_ref-Calendar_1-1" class="reference"><a href="#cite_note-Calendar-1">[1]</a></sup>
 
-*Yellowskin* đã trở thành nguồn cung cấp nhiều thông tin lịch sử, đặc biệt là về Took, tìm đường vào *[Red Book of Westmarch](../R/Red_Book_of_Westmarch.md)*.<sup id="cite_ref-Calendar_1-2" class="reference"><a href="#cite_note-Calendar-1">[1]</a></sup>
+*Yellowskin* đã trở thành nguồn cung cấp nhiều thông tin lịch sử, đặc biệt là về Tooks, để tìm đường vào *[Red Book of Westmarch](../R/Red_Book_of_Westmarch.md)*.<sup id="cite_ref-Calendar_1-2" class="reference"><a href="#cite_note-Calendar-1">[1]</a></sup>
 
 Cuốn sách đã ghi lại dạng cổ xưa của ngôn ngữ [Hobbitish](../H/Hobbitish.md) và từ đó tên cổ xưa của các ngày trong tuần (Sterrendei, Sunnendei, v.v.) được lưu giữ trong *Red Book*.<sup id="cite_ref-Calendar_1-3" class="reference"><a href="#cite_note-Calendar-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Cái tên 'Yellowskin' có lẽ bắt nguồn từ tình trạng cũ kỹ và mục nát của cuốn sách, cho thấy rằng các ghi chép của Tooks đã được ghi lại trên giấy da, hoặc một số dạng giấy da khác làm từ da. Cái tên này có thể được lấy cảm hứng từ tên của một bản thảo thế kỷ thứ mười ba có tên *Fagrskinna*, có nghĩa là "giấy da mịn" trong tiếng Bắc Âu cổ. (*Fagrskinna* đã bị lửa thiêu rụi vào thế kỷ 18, nhưng không phải trước khi có bản sao.)
+Cái tên 'Yellowskin' có lẽ bắt nguồn từ tình trạng cũ kỹ và mục nát của cuốn sách, cho thấy rằng các ghi chép của Tooks được ghi lại trên giấy da, hoặc một số dạng giấy da khác làm từ da. Cái tên này có thể được lấy cảm hứng từ tên của một bản thảo thế kỷ thứ mười ba có tên là *Fagrskinna*, có nghĩa là "giấy da mịn" trong tiếng Bắc Âu cổ. (*Fagrskinna* đã bị lửa thiêu rụi vào thế kỷ 18, nhưng không phải trước khi có bản sao.)
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong phiên bản thứ hai của [Phụ lục F](../A/Appendix_F.md), tên chính thức của cuốn sách được mọi người gọi là *Yellowskin* là *The Great Writ of Tuckborough* và được cho là đã gần một nghìn năm tuổi.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
+Ở phiên bản thứ hai của [Phụ lục F](../A/Appendix_F.md), tên chính thức của cuốn sách được mọi người gọi là *Yellowskin* là *The Great Writ of Tuckborough* và được cho là đã gần một nghìn năm tuổi.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

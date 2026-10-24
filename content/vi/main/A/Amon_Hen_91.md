@@ -42,7 +42,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/AmonHen91.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/54/AmonHen91.jpg/320px-AmonHen91.jpg" decoding="async" loading="lazy" width="320" height="449" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/54/AmonHen91.jpg/480px-AmonHen91.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/5/54/AmonHen91.jpg/640px-AmonHen91.jpg 2x" data-file-width="713" data-file-height="1000"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Amon Hen 91</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Mike Percival</td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data">Maggie Percival</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Printer</th><td class="tg-infobox-data">Hanway Print Centre, London</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">May <a href="../_/1988.md" title="1988">1988</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">A5 stapled paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">28</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0306-8781</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Amon_Hen_90.md" title="Amon Hen 90">Amon Hen 90</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Amon_Hen_92.md" title="Amon Hen 92">Amon Hen 92</a></td></tr></tbody></table>
 
-<b><i>Amon Hen</i> 91</b> là số thứ 91 của tạp chí hai tháng một lần của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, xuất bản vào tháng 5 [1988](../_/1988.md).
+<b><i>Amon Hen</i> 91</b> là số thứ 91 của tạp chí hai tháng một lần của [Hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, xuất bản vào tháng 5 [1988](../_/1988.md).
 
 ## Nội dung {#Contents}
 
@@ -50,19 +50,19 @@ infobox:
     - Bởi: Maggie Percival
 - Nội dung
 - Biên tập
-    - Bởi: Mike Percival
+    - Bởi: Mike Austin Percival
 - Phía sau cánh cửa kính
     - Bởi: Anne Haward
 - Thông báo
 - Đánh giá
-    - Bởi: Mike Percival, [Alex Lewis](Alex_Lewis.md), [David Doughan](../D/David_Doughan.md), Gwyneth Morgan
+    - Bởi: Mike Austin Percival, [Alex Lewis](Alex_Lewis.md), [David Doughan](../D/David_Doughan.md), Gwyneth Morgan
 - Tolkien Xem xét lại, bài nói chuyện của [Humphrey Carpenter](../H/Humphrey_Carpenter.md)
     - Bởi: [Charles Noad](../C/Charles_Noad.md)
 - Tác phẩm nghệ thuật: *Dragon*
     - Bởi: Lynda Channon
 - Tác phẩm nghệ thuật: *[Smaug](../S/Smaug.md) Descends on [Dale](../D/Dale.md)*
     - Bởi: Tom Sherry
-- Tháp ở Beleriad, bài nói chuyện của [Guy Gavriel Kay](../G/Guy_Gavriel_Kay.md)
+- Một tòa tháp ở Beleriad, bài nói chuyện của [Guy Gavriel Kay](../G/Guy_Gavriel_Kay.md)
     - Bởi: [Charles Noad](../C/Charles_Noad.md)
 - Tác phẩm nghệ thuật: *Battles of the Pelennor Fields*
     - Bởi: Philip Robson

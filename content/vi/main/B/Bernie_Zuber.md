@@ -24,7 +24,7 @@ sort_keys:
 
 ## Thư mục {#Bibliography}
 
-- [1973](../_/1973.md): "Bên kia rượu Brandywine", trong [*Mythlore* 9](../M/Mythlore_9.md)
+- [1973](../_/1973.md): "Bên kia Brandywine", trong [*Mythlore* 9](../M/Mythlore_9.md)
 - [1979](../_/1979.md): *[The Tolkien Quiz Book](<../T/The_Tolkien_Quiz_Book_(by_Bart_Andrews).md>)* (với Bart Andrews)
 
 ## Liên kết ngoài {#External_links}

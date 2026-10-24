@@ -25,19 +25,19 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Tookland.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/0/0e/The_Lord_of_the_Rings_Online_-_Tookland.jpg/300px-The_Lord_of_the_Rings_Online_-_Tookland.jpg" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/0e/The_Lord_of_the_Rings_Online_-_Tookland.jpg/450px-The_Lord_of_the_Rings_Online_-_Tookland.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/0/0e/The_Lord_of_the_Rings_Online_-_Tookland.jpg/600px-The_Lord_of_the_Rings_Online_-_Tookland.jpg 2x" data-file-width="2560" data-file-height="1440"/></a><figcaption>Tookland in <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-**Tookland** là một vùng rộng lớn thuộc [Quận](The_Shire.md) [Westfarthing](../W/Westfarthing.md). Nó nằm ở phía nam của [Đường Đông](../E/East_Road.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> với thị trấn chính và trung tâm tại [Tuckborough](Tuckborough.md) ở [Green Hills](../G/Green_Hills.md), nơi ẩn sâu trong sườn đồi là ngôi nhà lịch sử và nổi tiếng của Tooks, [Great Smials](../G/Great_Smials.md). Ở một nơi nào đó về phía tây của Tuckborough là khu định cư chính nhỏ hơn của Tookland, [Tookbank](Tookbank.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Tookland** là một vùng rộng lớn của [ Shire](The_Shire.md)'s [Westfarthing](../W/Westfarthing.md). Nó nằm ở phía nam của [phương Đông Đường](../E/East_Road.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> với thị trấn chính và trung tâm tại [Tuckborough](Tuckborough.md) ở [Green Hills](../G/Green_Hills.md), nơi ẩn sâu trong sườn đồi là ngôi nhà lịch sử và nổi tiếng của Tooks, [Great Smials](../G/Great_Smials.md). Ở một nơi nào đó về phía tây của Tuckborough là khu định cư chính nhỏ hơn của Tookland, [Tookbank](Tookbank.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Lịch sử {#History}
 
-Tookland là tỉnh lịch sử của [gia tộc Took](Took_Family.md) và của [Thains](Thain.md) cha truyền con nối của Quận. Vào cuối [Thời đại thứ ba](Third_Age.md), đây là một trong những vùng đất dân gian vẫn còn là quê hương của tổ tiên họ, vì hầu hết Took vẫn được tìm thấy ở đó.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Tookland là tỉnh lịch sử của [gia tộc Took](Took_Family.md) và [Thains](Thain.md) cha truyền con nối của Shire. Vào cuối [Kỷ Đệ Tam](Third_Age.md) nó là một trong những vùng đất dân gian vẫn còn là quê hương của dòng tộc tổ tiên của họ, vì hầu hết Tooks vẫn còn được tìm thấy ở đó.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Các [Du khách](Travellers.md) đã đi qua Tookland trên đường đến [Green Hill Country](../G/Green_Hill_Country.md).
+[Lữ khách](Travellers.md) đã đi qua Tookland trên đường đến [Green Hill Country](../G/Green_Hill_Country.md).
 
-Trong thời gian chiếm đóng của [Sharkey](../S/Sharkey.md), người Took đã được củng cố bằng các cuộc tấn công của họ và không cho phép bất kỳ [kẻ lưu manh](../R/Ruffians.md) nào bước vào, họ đã bắn ba phát vì tội rình mò và cướp. Họ trở nên khó chịu hơn và luôn theo dõi chặt chẽ. Vào khoảng thời gian diễn ra [Trận Bywater](../B/Battle_of_Bywater.md), [Thain](Thain.md) [Paladin Took II](../P/Paladin_Took_II.md) đã huy động toàn bộ đất nước và chỉ huy một số quân đánh đuổi chúng về phía nam, đồng thời cử sứ giả đến [Bywater](../B/Bywater.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Trong thời gian [Sharkey](../S/Sharkey.md) chiếm đóng, Tooks đã được củng cố bằng các cuộc tấn công và không cho phép bất kỳ [kẻ lưu manh](../R/Ruffians.md) nào bước vào, đã bắn ba phát vì tội rình mò và cướp. Họ trở nên khó chịu hơn và luôn theo dõi chặt chẽ. Vào khoảng thời [Trận Bywater](../B/Battle_of_Bywater.md), [Thain](Thain.md) [Paladin Took II](../P/Paladin_Took_II.md) đã huy động toàn bộ đất nước và chỉ huy một số quân đánh đuổi chúng về phía nam, đồng thời cử sứ giả tới [Bywater](../B/Bywater.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
+<b>2007: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Tookland is a region in the southern part of the in-game region of the Shire, the <a href="../S/Southfarthing.md" title="Southfarthing">Southfarthing</a> being not present in the game.</dd></dl>
 

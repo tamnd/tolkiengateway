@@ -38,15 +38,15 @@ infobox:
 
 ## Tóm tắt {#Synopsis}
 
-Gandalf bước vào [Shire](../S/Shire.md), hát lời bài hát "[The Road Goes Ever On](<The_Road_Goes_Ever_On_(song).md>)". Ông ta bị phục kích bởi [Frodo](../F/Frodo.md), người đang háo hức chờ đợi Gandalf đến. Gandalf tiến sâu hơn vào Shire, tới [Hobbiton](../H/Hobbiton.md). Frodo thông báo cho Gandalf về những sự kiện gần đây, chẳng hạn như những hành vi rắc rối của Bilbo.
+Gandalf vào [Shire](../S/Shire.md), hát lời bài hát "[The Road Goes Ever On](<The_Road_Goes_Ever_On_(song).md>)". Ông ta bị phục kích bởi [Frodo](../F/Frodo.md), kẻ đang háo hức chờ đợi Gandalf đến. Gandalf tiến sâu hơn vào Shire, đi tới [Hobbiton](../H/Hobbiton.md). Frodo thông báo cho Gandalf về các sự kiện gần đây, chẳng hạn như hành vi gây rắc rối của Bilbo.
 
-Trong phiên bản mở rộng, Bilbo đã có một cơn hoảng loạn ngắn ngủi khi nghĩ rằng mình đã đánh mất <a class="mw-redirect mw-disambig" href="../R/Ring.md" title="Ring">Chiếc nhẫn</a>, rồi phát hiện ra nó nằm trong túi của mình. Lời tường thuật của Bilbo từ cảnh trước cũng hoàn tất.
+Trong phiên bản mở rộng, Bilbo có một cơn hoảng loạn ngắn ngủi khi nghĩ rằng mình đã đánh mất <a class="mw-redirect mw-disambig" href="../R/Ring.md" title="Ring">Chiếc nhẫn</a>, chỉ để phát hiện ra nó nằm trong túi của mình. Lời tường thuật của Bilbo từ cảnh trước cũng hoàn tất.
 
 ## Sự khác biệt {#Differences}
 
 Cảnh này phần lớn được sáng tạo ra cho bộ phim nhưng lại thể hiện một số cảm hứng từ văn bản.
 
-- Bài hát "The road going ever on and on" trên thực tế là một sáng tác của Bilbo, mặc dù Gandalf có thể đã nghe thấy nó.
-- Frodo không xuất hiện để gặp Gandalf. Lần xuất hiện đầu tiên của ông trong sách là tại [Bữa tiệc chia tay](../F/Farewell_Party.md).
-- Bilbo không được cho là đã đánh mất chiếc nhẫn, nhưng cảnh này phù hợp với đoạn độc thoại của ông trong Chương 1 về cảm nhận của ông về chiếc Nhẫn.
+- Bài hát "Con đường đi mãi mãi" thực chất là sáng tác của Bilbo, mặc dù Gandalf có thể đã nghe thấy nó.
+- Frodo không được hiển thị để đáp ứng Gandalf. Lần xuất hiện đầu tiên của ông trong sách là tại [Bữa tiệc chia tay](../F/Farewell_Party.md).
+- Bilbo không được cho là đã đánh mất chiếc nhẫn, nhưng cảnh này phù hợp với đoạn độc thoại của ông trong Chương 1 về cảm nhận của ông về Chiếc nhẫn.
 - Gandalf không bắn pháo hoa trước bữa tiệc.

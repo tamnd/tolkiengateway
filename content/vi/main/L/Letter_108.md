@@ -31,7 +31,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien đã trả lại bản thảo *[Farmer Giles of Ham](../F/Farmer_Giles_of_Ham.md)* đã sửa lại của mình, sau khi thực hiện nhiều thay đổi mà ông hy vọng và cho rằng sẽ tốt hơn. Ông chỉ ra rằng câu chuyện không được viết cho trẻ em. Ông nhấn mạnh rằng nó được sáng tác đặc biệt để đọc to và được viết để đọc cho Hiệp hội Lovelace tại <a class="extiw" href="http://en.wikipedia.org/wiki/Worcester_College,_Oxford" title="wikipedia:Worcester College, Oxford">Đại học Worcester</a>. Tolkien muốn đưa vào một dòng chữ C.H. Wilkinson<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> vì chính ông là người đã khuyến khích ông viết và xuất bản nó.
+Tolkien đã trả lại bản thảo đã sửa lại của *[Farmer Giles of Ham](../F/Farmer_Giles_of_Ham.md)*, sau khi đã thực hiện nhiều thay đổi mà ông hy vọng và cho rằng sẽ tốt hơn. Ông chỉ ra rằng câu chuyện không được viết cho trẻ em. Ông nhấn mạnh rằng nó được sáng tác đặc biệt để đọc to và được viết để đọc cho Hiệp hội Lovelace tại <a class="extiw" href="http://en.wikipedia.org/wiki/Worcester_College,_Oxford" title="wikipedia:Worcester College, Oxford">Đại học Worcester</a>. Tolkien muốn đưa vào một dòng chữ cho C.H. Wilkinson<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> vì chính ông ta là người đã khuyến khích ông ta viết nó và xuất bản nó.
 
 ## Lưu ý {#Note}
 

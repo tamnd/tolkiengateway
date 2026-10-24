@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Durin's Bane"
 ---
 
-Chuyển hướng tới [Tai ương của Durin](../D/Durin's_Bane.md).
+Chuyển hướng đến [Tai họa của Durin](../D/Durin's_Bane.md).

@@ -14,19 +14,19 @@ categories:
   - "Sindarin verbs"
 ---
 
-<i><b>nor-</b></i> là động từ có nghĩa là "chạy" hoặc "nhảy" (chỉ người và động vật sử dụng chân: *not* chất lỏng, v.v.) trong cả [Quenya](../Q/Quenya.md) và [Sindarin](../S/Sindarin.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>nor-</b></i> là động từ có nghĩa là "chạy" hoặc "nhảy" (chỉ con người và động vật sử dụng chân: *not* chất lỏng, v.v.) ở cả [Quenya](../Q/Quenya.md) và [Sindarin](../S/Sindarin.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-## Các hình thức khác ở Quenya {#Other_forms_in_Quenya}
+## Các biểu mẫu khác trong Quenya {#Other_forms_in_Quenya}
 
 - *norne* = vỗ nhẹ "chạy"
 - *norta-* = "chạy, chuyên dùng để cưỡi ngựa hoặc các động vật khác" với dạng *nortanen* "Tôi đã cưỡi"
 - *norie, norme* = "đua, chạy"
 
-## Các dạng khác bằng tiếng Sindarin {#Other_forms_in_Sindarin}
+## Các biểu mẫu khác trong Sindarin {#Other_forms_in_Sindarin}
 
 - *noro* = mệnh lệnh
 - *onur* = vỗ nhẹ "chạy"
-- *northa-* = giống Quenya *norta-*
+- *northa-* = giống như Quenya *norta-*
 - *north* = "một cuộc cưỡi ngựa, một cuộc đua (của những người đang chạy), một cuộc lao tới hoặc phi nước đại"
 
 <span></span>

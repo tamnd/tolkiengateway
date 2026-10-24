@@ -14,9 +14,9 @@ sort_keys:
   "Letters": "Jaworksi, Miss"
 ---
 
-Vào [9 tháng 12](../_/9_December.md) [1965](../_/1965.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho cô Jaworski**.<sup id="cite_ref-CG_1-0" class="reference"><a href="#cite_note-CG-1">[1]</a></sup>
+Vào [ngày 9 tháng 12](../_/9_December.md) [1965](../_/1965.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho cô Jaworski**.<sup id="cite_ref-CG_1-0" class="reference"><a href="#cite_note-CG-1">[1]</a></sup>
 
-- **Chủ đề:** Theo lời của [Hammond](../W/Wayne_G._Hammond.md) và [Scull](../C/Christina_Scull.md), Tolkien viết rằng "*\[h\]e không quan tâm đến kịch và không muốn tác phẩm của mình bị kịch tính hóa*".<sup id="cite_ref-CG_1-1" class="reference"><a href="#cite_note-CG-1">[1]</a></sup>
+- **Chủ đề:** Theo lời của [Hammond](../W/Wayne_G._Hammond.md) và [Scull](../C/Christina_Scull.md), Tolkien viết rằng "*\[h\]e không quan tâm đến kịch và không muốn tác phẩm của mình bị kịch tính*".<sup id="cite_ref-CG_1-1" class="reference"><a href="#cite_note-CG-1">[1]</a></sup>
 - **Xuất bản:** Mô tả về bức thư xuất hiện trong *[The J.R.R. Tolkien Companion and Guide: Chronology](../T/The_J.R.R._Tolkien_Companion_and_Guide.md)*.
 
 <span></span>

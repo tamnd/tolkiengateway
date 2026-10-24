@@ -42,18 +42,18 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/AmonHen208.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/f6/AmonHen208.jpg/320px-AmonHen208.jpg" decoding="async" loading="lazy" width="320" height="453" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f6/AmonHen208.jpg/480px-AmonHen208.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/f/f6/AmonHen208.jpg/640px-AmonHen208.jpg 2x" data-file-width="707" data-file-height="1000"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Amon Hen 208</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="Andrew_Butler.md" title="Andrew Butler">Andrew Butler</a></td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data">Nick Basi</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Printer</th><td class="tg-infobox-data"><a class="external text" href="http://www.horshampress.co.uk/" rel="noreferrer noopener" target="_blank">Horsham Press</a>, Horsham, UK</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../N/November.md" title="November">November</a> <a href="../_/2007.md" title="2007">2007</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">A5 stapled paperback, glossy</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">36</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0306-8781</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Amon_Hen_207.md" title="Amon Hen 207">Amon Hen 207</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Amon_Hen_209.md" title="Amon Hen 209">Amon Hen 209</a></td></tr></tbody></table>
 
-<b><i>Amon Hen</i> 208</b> là số thứ hai trăm tám của tạp chí hai tháng một lần của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, xuất bản vào [tháng 11](../N/November.md) [2007](../_/2007.md).
+<b><i>Amon Hen</i> 208</b> là số thứ hai trăm tám của tạp chí hai tháng một lần của [Hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, xuất bản vào [tháng 11](../N/November.md) [2007](../_/2007.md).
 
 ## Nội dung {#Contents}
 
-- Bìa: *[Thorin](../T/Thorin.md) trục xuất [Bilbo Baggins](../B/Bilbo_Baggins.md) khỏi [Ngọn núi cô đơn](../L/Lonely_Mountain.md)*
+- Vỏ bọc: *[Thorin](../T/Thorin.md) phóng ra [Bilbo Baggins](../B/Bilbo_Baggins.md) từ [Ngọn Núi Cô Đơn](../L/Lonely_Mountain.md)*
     - Bởi: Nick Basi
 - Biên tập
     - Bởi: [Andrew Butler](Andrew_Butler.md)
 - Nội dung
 - Tác phẩm: Đường viền
     - Bởi: Susanne Stopfel
-Thông báo - [Bywater](../B/Bywater.md)
+- [Bywater](../B/Bywater.md) Thông báo
     - Bởi: Malcolm Lindley
 - Tác phẩm nghệ thuật: *[Túrin](../T/Túrin.md) and [Glaurung](../G/Glaurung.md)*
     - Bởi: [Jef Murray](../J/Jef_Murray.md)
@@ -84,12 +84,12 @@ Thông báo - [Bywater](../B/Bywater.md)
     - Bởi: Michael Cunningham
 - Tác phẩm: Đường viền
     - Bởi: Ian Collier
-- Tác phẩm nghệ thuật: *[Henneth Annûn](../H/Henneth_Annûn.md) - Nơi trú ẩn bí mật của thuyền trưởng [Faramir](../F/Faramir.md) và [Rangers](../R/Rangers_of_Ithilien.md)*
+- Ảnh minh họa: *[Henneth Annûn](../H/Henneth_Annûn.md) - Nơi ẩn náu bí mật của Thuyền trưởng [Faramir](../F/Faramir.md) và [Biệt đội](../R/Rangers_of_Ithilien.md)*
     - Bởi: [Jill Thwaites](../J/Jill_Thwaites.md)
 - Lời mời: Năm Thánh [Forodrim](../F/Forodrim.md) 36 năm
 - [Toán học](../M/Mathoms.md)
     - Bởi: Anne Forbes
-- Một nơi hoàn toàn đáng chú ý
+- Tổng cộng là một nơi rất đáng chú ý
     - Bởi: Valerie Sleith
 - Thư
 - Đoạn trích của Sally
@@ -97,7 +97,7 @@ Thông báo - [Bywater](../B/Bywater.md)
 - Thành viên mới
 - Hồ sơ thành viên
     - Ngày tháng Tư
-- Truyện dân gian
+- Truyện dân ca
 - Ủy ban
 
 <div class="template-prevnext"><div class="template-prevnext__prev template-prevnext__link"><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/8/81/WikimediaUI-ArrowPrevious-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__content"><div class="template-prevnext__title">Amon Hen 207</div></div><div class="template-prevnext__linkoverlay"><a href="Amon_Hen_207.md" title="Amon Hen 207">Amon Hen 207</a></div></div><div class="template-prevnext__current"><div class="template-prevnext__content"><div class="template-prevnext__title">Amon Hen 208</div></div></div><div class="template-prevnext__next template-prevnext__link"><div class="template-prevnext__content"><div class="template-prevnext__title">Amon Hen 209</div></div><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/7b/WikimediaUI-ArrowNext-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__linkoverlay"><a href="Amon_Hen_209.md" title="Amon Hen 209">Amon Hen 209</a></div></div></div>

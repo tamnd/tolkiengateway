@@ -38,7 +38,7 @@ infobox:
 
 Tên *Peleg* có trong [Gnomish](../G/Gnomish.md), có nghĩa là "rìu",<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và [Qenya](../Q/Qenya.md) cùng nguồn gốc của nó là <i><b>Pelek</b></i>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Trong *[The Lay of the Fall of Gondolin](../T/The_Lay_of_the_Fall_of_Gondolin.md)*, từ c. [1920](../_/1920.md), tên của ông đã được đổi thành <i><b>Fengel</b></i>, tên này sau này được dùng cho [mười lăm vị vua của Rohan](../F/Fengel.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Trong *[The Lay of the Fall of Gondolin](../T/The_Lay_of_the_Fall_of_Gondolin.md)*, từ c. [1920](../_/1920.md), tên của ông đã được đổi thành <i><b>Fengel</b></i>, tên này sau này được sử dụng cho [mười lăm Vua Rohan](../F/Fengel.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Phả hệ {#Genealogy}
 

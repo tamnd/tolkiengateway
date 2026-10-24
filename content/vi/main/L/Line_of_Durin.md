@@ -13,7 +13,7 @@ categories:
   - "Black metal"
 ---
 
-**Line of Durin** là một ban nhạc black metal có trụ sở tại Oregon, chuyên tạo ra âm nhạc dựa trên các tác phẩm của [Tolkien](../J/J.R.R._Tolkien.md). Họ đã phát hành EP <a class="new" href="https://tolkiengateway.net/w/index.php?title=Line_of_Durin_(album)&amp;action=edit&amp;redlink=1" title="Line of Durin (album) (page does not exist)">Line of Durin</a> vào năm 2019 và một album dài đầy đủ <a class="new" href="https://tolkiengateway.net/w/index.php?title=Ever_Homeward&amp;action=edit&amp;redlink=1" title="Ever Homeward (page does not exist)">Ever Homeward</a> vào năm 2022.
+**Line of Durin** là một ban nhạc black metal có trụ sở tại Oregon, họ sáng tạo âm nhạc dựa trên các tác phẩm của [Tolkien](../J/J.R.R._Tolkien.md). Họ đã phát hành EP <a class="new" href="https://tolkiengateway.net/w/index.php?title=Line_of_Durin_(album)&amp;action=edit&amp;redlink=1" title="Line of Durin (album) (page does not exist)">Line of Durin</a> vào năm 2019 và một album dài đầy đủ <a class="new" href="https://tolkiengateway.net/w/index.php?title=Ever_Homeward&amp;action=edit&amp;redlink=1" title="Ever Homeward (page does not exist)">Ever Homeward</a> vào năm 2022.
 
 ## Liên kết ngoài {#External_links}
 

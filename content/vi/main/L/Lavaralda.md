@@ -18,7 +18,7 @@ langlinks:
     url: "https://www.tolkiendil.com/encyclo/biologie/flore/lavaralda"
 ---
 
-**Lavaralda** là một cái cây từ [Tol Eressëa](../T/Tol_Eressëa.md) được [Númenor](../N/Númenor.md) mang đến [Eldar](../E/Eldar.md).<sup id="cite_ref-LR_1-0" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
+**Lavaralda** là một cây từ [Tol Eressëa](../T/Tol_Eressëa.md) được [Númenor](../N/Númenor.md) mang đến [Eldar](../E/Eldar.md).<sup id="cite_ref-LR_1-0" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
 
 Nó có những chiếc lá dài màu xanh, mặt dưới có màu vàng. Những bông hoa của nó có màu nhạt với cọ màu vàng và một mùi nhẹ nhưng trong trẻo mang lại cảm giác thư thái và mãn nguyện. Lavaralda ra hoa ở những cành dày và nó chỉ ngừng ra hoa vào những thời điểm hiếm hoi và hiếm hoi.<sup id="cite_ref-LR_1-1" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
 

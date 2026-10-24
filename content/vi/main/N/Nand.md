@@ -11,4 +11,4 @@ redirect_target: "Nan (Sindarin noun)"
 redirect_fragment: "Noldorin/Doriathrin"
 ---
 
-Chuyển hướng tới [Nan (danh từ tiếng Sindarin)](<Nan_(Sindarin_noun).md#Noldorin/Doriathrin>).
+Chuyển hướng đến [Nan (Sindarin danh từ)](<Nan_(Sindarin_noun).md#Noldorin/Doriathrin>).

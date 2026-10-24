@@ -38,11 +38,11 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../H/Hobbits.md" title="Hobbits">Hobbit</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Camellia Sackville</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Other names</th><td class="tg-infobox-data">Camellia Baggins</td></tr><tr><th scope="row" class="tg-infobox-label">Birth</th><td class="tg-infobox-data">circa <a class="mw-redirect" href="../S/Shire_Reckoning.md" title="Shire Reckoning">S.R.</a> <a href="../T/Third_Age_2860.md" title="Third Age 2860">1260</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">Family</th><td class="tg-infobox-data"><a href="../S/Sackville_Family.md" title="Sackville Family">Sackville</a></td></tr><tr><th scope="row" class="tg-infobox-label">Spouse</th><td class="tg-infobox-data"><a href="../L/Longo_Baggins.md" title="Longo Baggins">Longo Baggins</a></td></tr><tr><th scope="row" class="tg-infobox-label">Children</th><td class="tg-infobox-data"><a href="../O/Otho_Sackville-Baggins.md" title="Otho Sackville-Baggins">Otho</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Female</td></tr></tbody></table>
 
-**Camellia Sackville** là một [Hobbit](../H/Hobbits.md) của [Shire](../T/The_Shire.md).
+**Camellia Sackville** là [Hobbit](../H/Hobbits.md) của [ Shire](../T/The_Shire.md).
 
 ## Lịch sử {#History}
 
-Camellia là con gái của người đứng đầu [Gia đình Sackville](../S/Sackville_Family.md). Bà kết hôn với [Longo Baggins](../L/Longo_Baggins.md) và có một con trai, [Otho](../O/Otho_Sackville-Baggins.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Họ kép [Sackville-Baggins](../S/Sackville-Baggins.md) được ban cho con trai bà sau cái chết của cha của Camellia, vì ông là cháu trai cả, và trở thành người đứng đầu mới.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Camellia là con gái của người đứng đầu [Gia đình Sackville](../S/Sackville_Family.md). Bà kết hôn với [Longo Baggins](../L/Longo_Baggins.md) và có một con trai, [Otho](../O/Otho_Sackville-Baggins.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Họ kép [Sackville-Baggins](../S/Sackville-Baggins.md) được ban cho con trai bà, sau cái chết của cha của Camellia, vì ông là cháu trai cả và trở thành người đứng đầu mới.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

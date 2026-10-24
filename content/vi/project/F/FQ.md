@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Gateway:Featured quotes"
 ---
 
-Chuyển hướng đến [Cổng Tolkien:Trích dẫn nổi bật](Featured_quotes.md).
+Chuyển hướng tới [Tolkien Gateway:Trích dẫn nổi bật](Featured_quotes.md).

@@ -17,7 +17,7 @@ langlinks:
     url: "https://kontu.wiki/Paksu_ja_Valkotukka"
 ---
 
-**Valkotukka** là một nhân vật phụ trong [Những lá thư Giáng sinh của Cha](../T/The_Father_Christmas_Letters.md). Ông là một chú gấu Bắc Cực. Valkotukka có một người anh trai tên là [Paksu](../P/Paksu.md) và ông là cháu trai của [Gấu Bắc Cực](../N/North_Polar_Bear.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Valkotukka** là một nhân vật phụ trong [Những lá thư Giáng sinh của Cha](../T/The_Father_Christmas_Letters.md). Ông là một chú gấu Bắc Cực. Valkotukka có một người anh trai tên là [Paksu](../P/Paksu.md) và ông là cháu trai của [North Polar Bear](../N/North_Polar_Bear.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Lịch sử {#History}
 

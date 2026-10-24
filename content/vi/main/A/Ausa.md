@@ -17,12 +17,12 @@ categories:
 
 ## Từ nguyên {#Etymology}
 
-- [Elvish](../E/Elvish.md) ([Quendian nguyên thủy](../P/Primitive_Quendian.md) hoặc [Eldarin thông thường](../C/Common_Eldarin.md)) *aw'tha* (từ [root](../S/Sundocarme.md) [WATH](../W/WATH.md))<sup id="cite_ref-VT42_1-1" class="reference"><a href="#cite_note-VT42-1">[1]</a></sup>
+- [Elvish](../E/Elvish.md) ([Primitive Quendian](../P/Primitive_Quendian.md) hoặc [Common Eldarin](../C/Common_Eldarin.md)) *aw'tha* (từ [root](../S/Sundocarme.md) [WATH](../W/WATH.md))<sup id="cite_ref-VT42_1-1" class="reference"><a href="#cite_note-VT42-1">[1]</a></sup>
 
 ## Có cùng nguồn gốc {#Cognates}
 
-- [Tiếng Sindarin](../S/Sindarin.md) *[auth](Auth.md)*
-- [Tiếng Sindarin](../S/Sindarin.md) *[gwath](../G/Gwath.md)*
+- [Sindarin](../S/Sindarin.md) *[auth](Auth.md)*
+- [Sindarin](../S/Sindarin.md) *[gwath](../G/Gwath.md)*
 
 ## Xem thêm {#See_also}
 

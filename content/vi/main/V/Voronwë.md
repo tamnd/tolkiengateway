@@ -92,23 +92,23 @@ infobox:
 
 ## Lịch sử {#History}
 
-Voronwë được liên kết với [Gia tộc Fingolfin](../H/House_of_Fingolfin.md) thông qua cha anh, [Aranwë](../A/Aranwë.md), và với [Círdan](../C/Círdan.md) thông qua mẹ anh, một trong những [Sindar](../S/Sindar.md) Yêu tinh của [Falas](../F/Falas.md).
+Voronwë được liên kết với [Gia tộc Fingolfin](../H/House_of_Fingolfin.md) thông qua cha anh, [Aranwë](../A/Aranwë.md), và với [Círdan](../C/Círdan.md) thông qua mẹ anh, một trong những [Sindar](../S/Sindar.md) Tiên tộc của [Falas](../F/Falas.md).
 
-Trong [F.A.](../F/First_Age.md) [455](../F/First_Age_455.md), sau khi [phá vỡ Cuộc vây hãm Angband](../D/Dagor_Bragollach.md), [Turgon](../T/Turgon.md), Vua của Gondolin, đã phái một số người của mình đi làm một công việc bí mật; họ đi xuống [Miệng Sirion](../M/Mouths_of_Sirion.md) nơi họ đóng tàu. Tuy nhiên, nó không đạt được nhiều thành tựu vì người Noldor thiếu nghệ thuật đóng tàu và họ chỉ có thể đi xa đến [Đảo Balar](../I/Isle_of_Balar.md) nơi họ thiết lập những ngôi nhà biệt lập.<sup id="cite_ref-tcg_4-0" class="reference"><a href="#cite_note-tcg-4">[3]</a></sup>
+Trong [F.A.](../F/First_Age.md) [455](../F/First_Age_455.md), sau khi [phá Cuộc vây hãm Angband](../D/Dagor_Bragollach.md), [Turgon](../T/Turgon.md), Vua của Gondolin, đã phái một số người của mình đi làm một công việc bí mật; họ đi xuống [Cửa sông Sirion](../M/Mouths_of_Sirion.md) nơi họ đóng tàu. Tuy nhiên, nó không đạt được nhiều thành tựu vì Noldor thiếu nghệ thuật đóng tàu và họ chỉ có thể đi xa đến [Đảo Balar](../I/Isle_of_Balar.md) nơi họ thiết lập những ngôi nhà biệt lập.<sup id="cite_ref-tcg_4-0" class="reference"><a href="#cite_note-tcg-4">[3]</a></sup>
 
-Sau khi Turgon biết được [sự tàn phá của Falas](../F/Fall_of_the_Falas.md) cũng như việc Círdan di dời phần còn lại của dân tộc mình đến [Đảo Balar](../I/Isle_of_Balar.md), ông đã gửi thêm sứ giả, bao gồm cả Voronwě.<sup id="cite_ref-tcg_4-1" class="reference"><a href="#cite_note-tcg-4">[3]</a></sup>
+Sau khi Turgon biết được [sự tàn phá của Falas](../F/Fall_of_the_Falas.md) và việc Círdan di dời phần còn lại của người dân của mình đến [Đảo Balar](../I/Isle_of_Balar.md), ông ta đã gửi thêm sứ giả, bao gồm cả Voronwě.<sup id="cite_ref-tcg_4-1" class="reference"><a href="#cite_note-tcg-4">[3]</a></sup>
 
-Voronwë trì hoãn hành trình, nán lại ở [Nan-tathren](../N/Nan-tathren.md) và vì điều này, anh là người cuối cùng lên con tàu cuối cùng mà Círdan, theo yêu cầu của Turgon, đã đóng cho họ. Sau bảy năm chèo thuyền mà không đến được vùng đất phía Tây, con tàu của anh đã cố gắng quay trở lại Trung Địa nhưng bị đánh bại. Trong một cơn bão gần bờ biển, con tàu bị đắm và tất cả những người cứu được ông ta đều bị chết đuối. Nhờ ân sủng của Ulmo, Voronwë đã được cứu khỏi xác tàu và dạt vào bờ biển [Nevrast](../N/Nevrast.md), gần [Vinyamar](Vinyamar.md). Ông ta đang ngồi ở bức tường của nó thì gặp [Tuor](../T/Tuor.md) và nghe câu chuyện của ông ta với tư cách là sứ giả của Ulmo và dẫn ông ta trở lại Gondolin.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup>
+Voronwë bị trì hoãn trên đường, nán lại ở [Nan-tathren](../N/Nan-tathren.md) và vì điều này mà anh là người cuối cùng lên con tàu cuối cùng mà Círdan, theo yêu cầu của Turgon, đã đóng cho họ. Sau bảy năm ra khơi mà không đến được vùng đất Phương Tây, con tàu của ông đã cố gắng quay trở lại Trung Địa nhưng bị đánh bại. Trong một cơn bão gần bờ biển, con tàu bị đắm và tất cả những người cứu được ông ta đều bị chết đuối. Nhờ ơn Ulmo, Voronwë đã được cứu khỏi xác tàu và dạt vào bờ biển ở [Nevrast](../N/Nevrast.md), gần [Vinyamar](Vinyamar.md). Ông ta đang ngồi ở bức tường của nó thì gặp [Tuor](../T/Tuor.md) và nghe câu chuyện của ông ta với tư cách là sứ giả của Ulmo và dẫn ông ta quay trở lại Gondolin.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup>
 
-Trong [Sự sụp đổ của Gondolin](../F/Fall_of_Gondolin.md) anh được Tuor ra lệnh bảo vệ [Idril](../I/Idril.md). Ông ta đã thoát khỏi bao tải.
+Trong thời gian [Sự sụp đổ của Gondolin](../F/Fall_of_Gondolin.md) anh được Tuor ra lệnh canh gác [Idril](../I/Idril.md). Ông ta đã thoát khỏi bao tải.
 
-Người ta nói rằng ông ta có thể đã rời Trung Địa cùng với Tuor và Idril.<sup id="cite_ref-Tuor_2-1" class="reference"><a href="#cite_note-Tuor-2">[1]</a></sup>
+Người ta nói rằng ông có thể đã rời đi Trung Địa cùng với Tuor và Idril.<sup id="cite_ref-Tuor_2-1" class="reference"><a href="#cite_note-Tuor-2">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Voronwë* là [Quenya](../Q/Quenya.md) có nghĩa là "Kiên định"<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[5]</a></sup> hoặc "kiên định".<sup id="cite_ref-Eldarin_7-0" class="reference"><a href="#cite_note-Eldarin-7">[6]</a></sup>
+*Voronwë* là [Quenya](../Q/Quenya.md) cho "Vững vàng"<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[5]</a></sup> hoặc "kiên định".<sup id="cite_ref-Eldarin_7-0" class="reference"><a href="#cite_note-Eldarin-7">[6]</a></sup>
 
-Từ [Sindarin](../S/Sindarin.md) cùng nguồn gốc của *Voronwë* là <i><b>Bronwë</b></i>.<sup id="cite_ref-Eldarin_7-1" class="reference"><a href="#cite_note-Eldarin-7">[6]</a></sup>
+[Sindarin](../S/Sindarin.md) cùng nguồn gốc của *Voronwë* là <i><b>Bronwë</b></i>.<sup id="cite_ref-Eldarin_7-1" class="reference"><a href="#cite_note-Eldarin-7">[6]</a></sup>
 
 Tên hiệu <i><b>Aranwion</b></i> là tên viết tắt của ông, có nghĩa đơn giản là "Con trai của [Aranwë](../A/Aranwë.md)".<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[7]</a></sup>
 
@@ -123,14 +123,14 @@ Tên hiệu <i><b>Aranwion</b></i> là tên viết tắt của ông, có nghĩa 
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*, tên [Qenya](../Q/Qenya.md) của ông *Voronwë* có nghĩa là "Người trung thành", nhưng ông hầu hết được biết đến trong [Gnomish](../G/Gnomish.md) <i><b>Bronweg</b></i> ("Người không đổi").<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[8]</a></sup> Như trong các tác phẩm sau này, ông là người hướng dẫn của Tuor, nhưng cũng là cha của [Littleheart](../L/Littleheart.md) – một nhân vật không làm như vậy tái diễn ở nơi khác.<sup id="cite_ref-LT2Gondolin_10-0" class="reference"><a href="#cite_note-LT2Gondolin-10">[9]</a></sup>
+Trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*, tên [Qenya](../Q/Qenya.md) của ông *Voronwë* có nghĩa là "Người trung thành", nhưng ông hầu hết được biết đến trong [Gnomish](../G/Gnomish.md) <i><b>Bronweg</b></i> ("Người không đổi").<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[8]</a></sup> Như trong các tác phẩm sau này, ông là người hướng dẫn của Tuor, đồng thời cũng là cha của [Littleheart](../L/Littleheart.md) – một nhân vật không tái diễn ở nơi nào khác.<sup id="cite_ref-LT2Gondolin_10-0" class="reference"><a href="#cite_note-LT2Gondolin-10">[9]</a></sup>
 
-Theo những lời kể trước đó và hầu hết, ông đã đi thuyền cùng [Eärendel](../E/Eärendel.md) trong chuyến hành trình của mình chứ không phải Tuor.<sup id="cite_ref-SM_11-0" class="reference"><a href="#cite_note-SM-11">[10]</a></sup>
+Theo các tài liệu trước đây và hầu hết các tài liệu, ông đã đi thuyền với [Eärendel](../E/Eärendel.md) trong các chuyến hành trình của mình chứ không phải Tuor.<sup id="cite_ref-SM_11-0" class="reference"><a href="#cite_note-SM-11">[10]</a></sup>
 
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"> <i><a href="../T/The_Tale_of_Years_(The_War_of_the_Jewels).md" title="The Tale of Years (The War of the Jewels)">Câu chuyện về những năm</a></i> của <a href="../F/First_Age.md" title="First Age">Thời thứ nhất</a> có một mục trong năm <b>525</b> có nội dung: "<i> <a href="../S/Sea-longing.md" title="Sea-longing">Sự bất ổn của Ulmo</a> đến gặp Tuor và ông ta đóng một con tàu <a href="../E/Eärrámë.md" title="Eärrámë">Ëarámë</a>, rồi khởi hành đến <a class="mw-redirect mw-disambig" href="../W/West.md" title="West">Tây</a> cùng với Idril <b>(và Voronwë?)</b> và không được biết đến trong bất kỳ câu chuyện nào kể từ</i>".</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"> <i><a href="../T/The_Tale_of_Years_(The_War_of_the_Jewels).md" title="The Tale of Years (The War of the Jewels)">Tale of Years</a></i> của <a href="../F/First_Age.md" title="First Age">Kỷ Đệ Nhất</a> có một mục trong năm <b>525</b> có nội dung: "<i> <a href="../S/Sea-longing.md" title="Sea-longing">Không yên tĩnh Ulmo</a> đến gặp Tuor và ông đã đóng một con tàu <a href="../E/Eärrámë.md" title="Eärrámë">Ëarámë</a>, rồi khởi hành vào <a class="mw-redirect mw-disambig" href="../W/West.md" title="West">Phương Tây</a> cùng với Idril <b>(và Voronwë?)</b> và không được biết đến trong bất kỳ câu chuyện nào kể từ</i>".</span>
 </li>
 </ol></div></span>
 

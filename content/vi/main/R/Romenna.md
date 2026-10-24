@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Rómenna"
 ---
 
-Chuyển hướng tới [Rómenna](Rómenna.md).
+Chuyển hướng đến [Rómenna](Rómenna.md).

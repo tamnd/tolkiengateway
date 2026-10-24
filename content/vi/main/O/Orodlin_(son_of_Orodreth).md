@@ -32,11 +32,11 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../G/Gnomes.md" title="Gnomes">Gnome</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Orodlin</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">Parentage</th><td class="tg-infobox-data"><a href="Orodreth.md" title="Orodreth">Orodreth</a></td></tr><tr><th scope="row" class="tg-infobox-label">Siblings</th><td class="tg-infobox-data"><a href="../H/Haldir_(son_of_Orodreth).md" title="Haldir (son of Orodreth)">Haldir</a><br/><a href="../F/Finduilas.md" title="Finduilas">Finduilas</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr></tbody></table>
 
-**Orodlin**, trong giai đoạn đầu của [huyền thoại](../L/Legendarium.md), là con trai nhỏ của [Orodreth](Orodreth.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Orodlin**, trong giai đoạn đầu của [huyền thoại](../L/Legendarium.md), là con trai út của [Orodreth](Orodreth.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Tên *Orodlin* có trong [Noldorin](../N/Noldorin.md), có thể là sự kết hợp của *[orod](Orod.md)* ("núi") và <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Lh%C3%AEn&amp;action=edit&amp;redlink=1" title="Lhîn (page does not exist)">lhîn</a></i> ("hồ bơi").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Tên *Orodlin* nằm trong [Noldorin](../N/Noldorin.md), có thể là sự kết hợp của *[orod](Orod.md)* ("núi") và <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Lh%C3%AEn&amp;action=edit&amp;redlink=1" title="Lhîn (page does not exist)">lhîn</a></i> ("hồ bơi").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Phả hệ {#Genealogy}
 

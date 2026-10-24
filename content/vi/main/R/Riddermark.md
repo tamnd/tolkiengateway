@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Rohan"
 ---
 
-Chuyển hướng tới [Rohan](Rohan.md).
+Chuyển hướng đến [Rohan](Rohan.md).

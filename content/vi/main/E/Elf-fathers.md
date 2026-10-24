@@ -12,7 +12,7 @@ categories:
   - "Elves"
 ---
 
-**Cha Yêu tinh** là ba nam [Eru sinh ra](Eru-begotten.md) [Yêu tinh](Elves.md) [tỉnh dậy](../A/Awakening_of_the_Elves.md) tại [Cuiviénen](../C/Cuiviénen.md) và sau đó thành lập [Ba Gia tộc](../T/Three_Kindreds.md). [Imin](../I/Imin.md), [Tata](../T/Tata.md) và [Enel](Enel.md) lần lượt là tên của họ được dịch thành "Một", "Hai" và "Ba". Do đó, những người theo dõi họ được đặt tên là [Minyar](../M/Minyar.md) (Đầu tiên), [Tatyar](../T/Tatyar.md) (Giây) và [Nelyar](../N/Nelyar.md) (Thứ ba). Vợ của họ (lần lượt) là [Iminyë](../I/Iminyë.md), [Tatië](../T/Tatië.md) và [Enelyë](Enelyë.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Những **Tiên người cha** là ba người đàn ông [Eru được sinh ra](Eru-begotten.md) [Tiên tộc](Elves.md) đã [tỉnh dậy](../A/Awakening_of_the_Elves.md) lúc [Cuiviénen](../C/Cuiviénen.md) và sau đó thành lập [Ba Gia tộc](../T/Three_Kindreds.md). [Imin](../I/Imin.md), [Tata](../T/Tata.md) và [Enel](Enel.md) lần lượt là tên của họ được dịch thành "Một", "Hai" và "Ba". Do đó, những người theo dõi của họ được đặt tên là [Minyar](../M/Minyar.md) (Thứ nhất), [Tatyar](../T/Tatyar.md) (Giây) và [Nelyar](../N/Nelyar.md) (Thứ ba). Vợ của họ (lần lượt) là [Iminyë](../I/Iminyë.md), [Tatië](../T/Tatië.md) và [Enelyë](Enelyë.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

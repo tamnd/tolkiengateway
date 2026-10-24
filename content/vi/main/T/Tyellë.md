@@ -16,11 +16,11 @@ sort_keys:
   "Quenya nouns": "Tyelle"
 ---
 
-**Tyeller** (số ít **tyellë**) là từ [Quenya](../Q/Quenya.md) để chỉ "cấp bậc, thứ tự; bậc thang, bậc thang".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Tyeller** (số ít **tyellë**) là từ [Quenya](../Q/Quenya.md) chỉ "lớp, trật tự; bậc thang, bậc thang".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Trong hệ thống chữ viết [Tengwar](Tengwar.md), Tyeller là sáu "cấp" được sử dụng để biểu thị những sửa đổi đối với âm thanh cơ bản trong Tengwar và đại diện cho sáu phương thức phát âm trong miệng.
+Trong hệ thống chữ viết [Tengwar](Tengwar.md), Tyeller là sáu "cấp" được sử dụng để biểu thị những sửa đổi đối với âm thanh cơ bản trong Tengwar và thể hiện sáu phương thức phát âm trong miệng.
 
-Tyeller được biểu thị bằng độ dài của [telco](Telco.md) và số lượng [lúvar](../L/Lúva.md) (một hoặc hai). Một số chế độ Tengwar chuyên biệt có tám tyeller thay vì sáu, chứa một công ty viễn thông mở rộng cả trên và dưới đường dây.
+Tyeller được biểu thị bằng độ dài của [telco](Telco.md) và số lượng [lúvar](../L/Lúva.md) (một hoặc hai). Một số chế độ Tengwar chuyên dụng có tám bộ truyền tín hiệu thay vì sáu, chứa một mạng viễn thông mở rộng cả trên và dưới đường dây.
 
 Ví dụ: trong đó tyellë đầu tiên đề cập đến [patakar](../P/Patakar.md) cơ bản, tengwar được gọi là [Tinco](Tinco.md), [Parma](../P/Parma.md), [Calma](../C/Calma.md) và [Quesse](../Q/Quesse.md), thì tyeller sau đây thường thể hiện các biến thể của âm cơ bản.
 

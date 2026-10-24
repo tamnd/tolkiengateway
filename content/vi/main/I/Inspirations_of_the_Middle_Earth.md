@@ -23,15 +23,15 @@ categories:
 4. Bilbo
 5. Vòng khói gần đám cháy
 6. Từ cửa
-7. Cơn thịnh nộ của Gollum
-8. Cây rừng tối
+Cơn thịnh nộ của 7. Gollum
+8. Mirkwood
 9. Về cái chết của Thorin Oak-Shield
 10. Tại quán trọ Butterbur
 11. Hơi thở của Nazgul
-12. Sự giam cầm của Gandalf
+Sự giam cầm của 12. Gandalf
 13. Con ruồi của Gwahir
-14. Rivendell/Hội đồng Elrond
+14. Rivendell/Elrond của Hội đồng
 15. Cổng Moria / Kahazad Dum
 16. Fangorn
 17. Minas Tirith và Minas Morgul
-18. Những thiên đường xám
+18. Cảng Xám

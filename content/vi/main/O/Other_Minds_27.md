@@ -28,13 +28,13 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Other Minds 27</span></th></tr><tr><th scope="row" class="tg-infobox-label">Latest editor</th><td class="tg-infobox-data"><a href="../T/Thomas_Morwinsky.md" title="Thomas Morwinsky">Thomas Morwinsky</a>, Hawke Robinson</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Other Minds Volunteers</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">February <a href="../_/2024.md" title="2024">2024</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">PDF</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">94</td></tr></tbody></table>
 
-<b><i>Other Minds</i> 27</b> là số thứ 27 của *[Other Minds](Other_Minds.md)*, một tạp chí dành cho *[Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)* và các trò chơi nhập vai khác lấy bối cảnh ở Trung Địa, được xuất bản vào tháng 2 năm 2024.
+<b><i>Other Minds</i> 27</b> là số thứ 27 của *[Other Minds](Other_Minds.md)*, một tạp chí dành cho *[Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)* và các trò chơi nhập vai khác lấy bối cảnh Trung Địa, xuất bản vào tháng 2 năm 2024.
 
 ## Nội dung {#Contents}
 
 - "Biên tập: Một năm mới!"
     - Bởi [Thomas Morwinsky](../T/Thomas_Morwinsky.md)
-- "Con Đường Mãi Mãi Đi"
+- "The Road Goes Ever On"
     - Bởi Thomas Morwinsky
 - "Biên niên sử của Curandir"
     - Bởi Dale Davis

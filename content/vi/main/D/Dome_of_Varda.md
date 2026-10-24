@@ -14,11 +14,11 @@ categories:
   - "Creations of the Valar"
 ---
 
-**Mái vòm Varda**, trong [phiên bản sau](../R/Round_World_version_of_the_Silmarillion.md) của [huyền thoại](../L/Legendarium.md), là một bầu trời giả phía trên [Valinor](../V/Valinor.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Nó được [Varda](../V/Varda.md) tạo ra để bảo vệ bầu không khí của Valinor khỏi [Melkor](../M/Morgoth.md), ngăn chặn linh hồn và gián điệp của hắn. Nó được trang trí bằng [các ngôi sao](../S/Stars.md) thực tế là những tia lửa rất rực rỡ. Do đó, [ngày mặt trời](../S/Sun.md) không được [Eldar](../E/Eldar.md) sống ở [Aman](../A/Aman.md) tính đến khi tính toán thời gian.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Mái vòm này đã truyền cảm hứng cho Vua [Thingol](../T/Thingol.md) xây dựng phòng ngai vàng của mình, được gọi là *[Menelrond](../M/Menelrond.md)*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+**Mái vòm của Varda**, trong [phiên bản sau](../R/Round_World_version_of_the_Silmarillion.md) của [huyền thoại](../L/Legendarium.md), là một bầu trời giả phía trên [Valinor](../V/Valinor.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Nó được tạo ra bởi [Varda](../V/Varda.md) để bảo vệ không khí của Valinor khỏi [Melkor](../M/Morgoth.md), ngăn cản linh hồn và gián điệp của ông ta. Nó được trang trí bằng [các ngôi sao](../S/Stars.md) thực tế là những tia lửa rất rực rỡ. Do đó, [ngày mặt trời](../S/Sun.md) không được [Eldar](../E/Eldar.md) cư trú tại [Aman](../A/Aman.md) tính đến trong việc tính toán thời gian.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Mái vòm này đã truyền cảm hứng cho Vua [Thingol](../T/Thingol.md) xây dựng phòng ngai vàng của mình, được gọi là *[Menelrond](../M/Menelrond.md)*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Tên khác {#Other_names}
 
-Mái vòm Varda còn được gọi là "Mái vòm vĩ đại của Valmar" ; hoặc *Nur-menel*, bầu trời nhỏ hơn, đối lập với *[Tar-menel](../T/Tarmenel.md)*, bầu trời thực sự.
+Mái vòm Varda còn được gọi là "Mái vòm vĩ đại Valmar" ; hoặc *Nur-menel*, bầu trời nhỏ hơn, đối lập với *[Tar-menel](../T/Tarmenel.md)*, bầu trời thực sự.
 
 Cụm từ này cũng có thể được tìm thấy ở dạng số nhiều, như "Mái vòm của Varda",<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> nhưng không rõ những "mái vòm" này nghĩa là gì<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> (có thể là sự nhầm lẫn với "mái vòm bạc của Valmar"<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>).
 

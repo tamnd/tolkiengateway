@@ -44,7 +44,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/MERP_The_Northern_Waste.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/d8/MERP_The_Northern_Waste.jpg/320px-MERP_The_Northern_Waste.jpg" decoding="async" loading="lazy" width="320" height="413" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/d/d8/MERP_The_Northern_Waste.jpg 1.5x" data-file-width="354" data-file-height="457"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Northern Waste</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data">Randy Maxwell</td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="../A/Angelo_Montanini.md" title="Angelo Montanini">Angelo Montanini</a> <small>(cover)</small><br/>Kalman Andrasofszky, <a href="../S/Storn_Cook.md" title="Storn Cook">Storn Cook</a>, <a href="../L/Liz_Danforth.md" title="Liz Danforth">Liz Danforth</a>, <a href="../F/Fritz_Haas.md" title="Fritz Haas">Friedrich A. Haas</a>, <a href="../M/Michael_Kucharski.md" title="Michael Kucharski">Michael Kucharski</a>, K.C Lancaster, Ellym Sirac, Arnie Swekel <small>(interior)</small></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../I/Iron_Crown_Enterprises.md" title="Iron Crown Enterprises">Iron Crown Enterprises</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/1997.md" title="1997">1997</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Softcover</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">189</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/1-55806-226-3" title="Special:BookSources/1-55806-226-3">1-55806-226-3</a></td></tr><tr><th scope="row" class="tg-infobox-label">ICE stock no.</th><td class="tg-infobox-data">2025</td></tr></tbody></table>
 
-<i><b>The Northern Waste</b></i> là phần bổ sung (trong loạt *Realm*) cho *[Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)*, Phiên bản thứ 2. Nó cũng bao gồm tài liệu mới cho [Trò chơi thẻ bài sưu tầm ở Trung Địa](../M/Middle-earth_Collectible_Card_Game.md).
+<i><b> Northern Waste</b></i> là phần bổ sung (trong dòng *Realm*) cho *[Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)*, Phiên bản thứ 2. Nó cũng bao gồm tài liệu mới cho [Trung Địa Trò chơi thẻ sưu tập](../M/Middle-earth_Collectible_Card_Game.md).
 
 ## Văn bản bìa/áo khoác {#Cover/Jacket_Text}
 
@@ -64,7 +64,7 @@ infobox:
 
 ## Các địa điểm chính {#Major_locations}
 
-Iron Crown nghĩ ra nhiều địa điểm mới để người chơi khám phá.
+Vương miện Sắt nghĩ ra nhiều địa điểm mới để người chơi khám phá.
 
 ### Achrond {#Achrond}
 
@@ -72,19 +72,19 @@ Iron Crown nghĩ ra nhiều địa điểm mới để người chơi khám phá
 
 ### Emyn Nimbrith {#Emyn_Nimbrith}
 
-**Emyn Nimbrith** ([Q.](../Q/Quenya.md) “White Rubble Hills”) là tàn tích còn sót lại của Dãy núi Sắt, chia cắt Forodwaith với Eriador. Bên dưới chúng là xương của con rồng khổng lồ Thaurung đã chết trong Cuộc chiến Phẫn nộ. Hốc mắt phải của Thaurung tạo thành một lối vào hang tròn dẫn vào Sinikäden Kuoleman Reikä (“Hole of the Blue-Hand Death”), bởi vì hang động này tràn ngập chuột chù mang mầm bệnh chết người.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Emyn Nimbrith** ([Q.](../Q/Quenya.md) “White Rubble Hills”) là tàn tích tan vỡ của Dãy Núi Sắt, đã chia cắt Forodwaith khỏi Eriador. Bên dưới chúng là xương của con rồng khổng lồ Thaurung đã chết trong Cuộc chiến Phẫn nộ. Hốc mắt phải của Thaurung tạo thành một lối vào hang tròn dẫn vào Sinikäden Kuoleman Reikä (“Hole of the Blue-Hand Death”), bởi vì hang động này tràn ngập chuột chù mang mầm bệnh chết người.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ### Everdalf {#Everdalf}
 
-**Everdalf** ([S.](../S/Sindarin.md) “Herd Tundra”, La. *Hyvämetsästyksen Maa*), là một đồng bằng rộng lớn, rộng mở ở Vùng hoang mạc phía Bắc, được biết đến với những cuộc di cư rộng lớn vào mùa hè của nai sừng tấm, tuần lộc và các động vật ăn cỏ khác. Sự phong phú này đã thu hút nhiều loài săn mồi, bao gồm [sói](../W/Wolves.md) và [wargs](../W/Wargs.md), mặc dù loài sau này rình rập vùng lãnh nguyên quanh năm.
+**Everdalf** ([S.](../S/Sindarin.md) “Herd Tundra”, La. *Hyvämetsästyksen Maa*), là một đồng bằng rộng mở ở Northern Waste, được biết đến với những cuộc di cư rộng lớn vào mùa hè của nai sừng tấm, tuần lộc và các động vật chăn thả khác. Sự phong phú này đã thu hút nhiều loài săn mồi, bao gồm [sói](../W/Wolves.md) và [wargs](../W/Wargs.md), mặc dù loài sau này rình rập vùng lãnh nguyên quanh năm.
 
-Theo mùa khắc nghiệt, Everdalf trở nên khô cằn và dễ cháy vào mùa thu và ảm đạm và hoang vắng vào mùa đông. Nó được các thợ săn Lossoth thường xuyên lui tới và thường được gọi là “Caru”, một từ Rhudaunan để chỉ Nai sừng tấm.
+Theo mùa khắc nghiệt, Everdalf trở nên khô cằn và dễ cháy vào mùa thu và ảm đạm và hoang vắng vào mùa đông. Nó được Lossoth thợ săn thường xuyên lui tới và thường được gọi là “Caru,” một từ Rhudaunan để chỉ Nai sừng tấm.
 
 Ranh giới phía nam của nó được đánh dấu bởi sông Everhir.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ### Järmivaa {#Järmivaa}
 
-**Järmivaa** (La. “Lakeland”) là một vùng xanh tươi và màu mỡ nằm ở phía đông nam của [Dãy núi Bleak](../B/Bleak_Mountains.md), giữa Lindalf và Everdalf. <sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+**Järmivaa** (La. “Lakeland”) là một vùng xanh tươi và màu mỡ nằm ở phía đông nam của [Bleak Dãy Núi](../B/Bleak_Mountains.md), giữa Lindalf và Everdalf. <sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ### Karhu Järvi {#Karhu_Järvi}
 
@@ -92,33 +92,33 @@ Ranh giới phía nam của nó được đánh dấu bởi sông Everhir.<sup i
 
 ### Lhuchir {#Lhúchir}
 
-Lhúchir (S. "Dragon River;" La. *Hopeavesi*) là con sông dài nhất của Forodwaith, bắt đầu tại [Núi Gundabad](../M/Mount_Gundabad.md) và kết thúc tại Vịnh Sheltered. Nó có tên như vậy vì nó chạy qua Dîn Lhûg, một khoảng trống đầy rẫy rồng giữa [Grey](../G/Grey_Mountains.md) và [Dãy núi Sương mù](../M/Misty_Mountains.md).<sup id="cite_ref-p93_5-1" class="reference"><a href="#cite_note-p93-5">[5]</a></sup>
+Lhúchir (S. "Rồng River;" La. *Hopeavesi*) là con sông dài nhất của Forodwaith, bắt đầu tại [Mount Gundabad](../M/Mount_Gundabad.md) và kết thúc tại Vịnh Sheltered. Nó có tên như vậy vì nó chạy qua Dîn Lhûg, một khoảng trống đầy rồng giữa [Grey](../G/Grey_Mountains.md) và [Dãy Núi Sương Mù](../M/Misty_Mountains.md).<sup id="cite_ref-p93_5-1" class="reference"><a href="#cite_note-p93-5">[5]</a></sup>
 
 ### Lindalf {#Lindalf}
 
-**Lindalf** (S. “Fen Tundra”) nằm ở phía bắc Järmivaa và phía đông của Dãy núi Bleak. Gần những ngọn núi đó, vùng lãnh nguyên là hang ổ của loài rồng đầm lầy.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+**Lindalf** (S. “Fen Tundra”) nằm ở phía bắc Järmivaa và phía đông của Bleak Dãy Núi. Gần những ngọn núi đó, vùng lãnh nguyên là hang ổ của loài rồng đầm lầy.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 ### Lódalf {#Lódalf}
 
-**Lódalf** (S. “Wash Tundra”) nằm giữa [Blue Mountains](../B/Blue_Mountains.md) và Emyn Nimbrith, phía nam Vịnh Icy.<sup id="cite_ref-p95_7-0" class="reference"><a href="#cite_note-p95-7">[7]</a></sup>
+**Lódalf** (S. “Wash Tundra”) nằm giữa [Dãy Núi Xanh](../B/Blue_Mountains.md) và Emyn Nimbrith, phía nam Vịnh Icy.<sup id="cite_ref-p95_7-0" class="reference"><a href="#cite_note-p95-7">[7]</a></sup>
 
 Ở phía tây của vùng lãnh nguyên có ba dòng suối Kolme Siskoa (La. "Ba chị em") chảy và ở trung tâm là Lääkevesi (La. "Nước thuốc"). Huutava Joki (La. "Shouting River"), người anh em có tốc độ nhanh hơn của nó là Kivivesi (La. "Stonewater") và Luiden Joki (La. "Sông Xương") là những dòng suối phía đông của vùng lãnh nguyên.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup><sup id="cite_ref-p93_5-2" class="reference"><a href="#cite_note-p93-5">[5]</a></sup>
 
 ### Narthalf {#Narthalf}
 
-**Lódalf** (S. “Lãnh Nguyên Lửa”) nằm ở phía tây Torogmar và Dãy núi Bleak, và ở phía đông nam của Ered Rhívamar. Nó được đặt tên theo [Giếng Morgoth](../D/Durlach.md), nằm trong vùng lãnh nguyên.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
+**Lódalf** (S. “Lãnh Nguyên Lửa”) nằm ở phía tây Torogmar và Bleak Dãy Núi, và ở phía đông nam Ered Rhívamar. Nó được đặt theo tên của [Morgoth Giếng](../D/Durlach.md), nằm trong vùng lãnh nguyên.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
 
 ### Rast Losnaeth {#Rast_Losnaeth}
 
-**Rast Losnaeth** (S. “Mũi Tuyết Cắn”) là một bán đảo ở phía nam Dãy núi Bleak, bao quanh Vịnh Sheltered ở phía đông và giáp Vịnh Berg Cradle ở phía tây.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
+**Rast Losnaeth** (S. “Mũi Tuyết Cắn”) là một bán đảo ở phía nam của Bleak Dãy Núi, bao quanh Vịnh Sheltered ở phía đông và giáp Vịnh Berg Cradle ở phía tây.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
 
 ### Talath Muil {#Talath_Muil}
 
-**Talath Muil** (S. “Drear Plain”) đã tách Wash Tundra khỏi Vale of the Lhûn. Đó là một vùng đất đá, nơi thường ẩn náu của bọn cướp, lũ Orc và Troll.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>
+**Talath Muil** (S. “Drear Plain”) đã tách Wash Tundra khỏi Vale of Lhûn. Đó là một vùng đất đá, nơi bọn cướp Orc và Troll thường ẩn náu.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>
 
 ### Talath Uichel {#Talath_Uichel}
 
-**Talath Muil** (S. “Đồng bằng lạnh vĩnh cửu”) nằm giữa Everdalf và Angmar. Trong thời kỳ trị vì của Vua phù thủy, những cư dân lạc lõng của nó sống dưới lòng trung thành đáng sợ với Angmar và sức mạnh ma thuật của Vua phù thủy.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>
+**Talath Muil** (S. “Đồng bằng lạnh vĩnh cửu”) nằm giữa Everdalf và Angmar. Trong thời kỳ trị vì của Vua Phù thủy, những cư dân lạc lõng của nó phải sống dưới sự trung thành đáng sợ với Angmar và sức mạnh ma thuật của Vua phù thủy.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>
 
 ### Vịnh {#Bays}
 
@@ -130,21 +130,21 @@ Homela (La. “Nơi địa y”) là một ngôi làng lớn của người Lumi
 
 #### Vịnh hoang tàn {#Bay_of_Desolation}
 
-**Vịnh Hoang tàn** (S. *Hûb Lostas*) là một vịnh ở phía bắc Torogmar và Dãy núi Bleak.<sup id="cite_ref-p89_13-1" class="reference"><a href="#cite_note-p89-13">[13]</a></sup>
+**Vịnh hoang tàn** (S. *Hûb Lostas*) là một vịnh ở phía bắc Torogmar và Bleak Dãy Núi.<sup id="cite_ref-p89_13-1" class="reference"><a href="#cite_note-p89-13">[13]</a></sup>
 
 #### Vịnh Forochel {#Bay_of_Forochel}
 
-**Vịnh Forochel** (S. *Hûb Forochel*) được hình thành sau [War of Wrath](../W/War_of_Wrath.md), khi vương quốc của Morgoth bị phá hủy đã khiến nước của [Belegaer](../B/Belegaer.md) tràn vào khu vực. Được che chở bởi Mũi Forochel, nó trải dài từ [Lindon](../L/Lindon.md) ở phía nam đến các hòn đảo xa xôi phía bắc và bờ biển gồ ghề của nó có nhiều vịnh nhỏ hơn.<sup id="cite_ref-p89_13-2" class="reference"><a href="#cite_note-p89-13">[13]</a></sup>
+**Vịnh Forochel** (S. *Hûb Forochel*) được hình thành sau [War of Wrath](../W/War_of_Wrath.md), khi vương quốc của Morgoth bị phá hủy đã khiến nước [Belegaer](../B/Belegaer.md) tràn vào khu vực. Được che chở bởi Mũi Forochel, nó trải dài từ [Lindon](../L/Lindon.md) ở phía nam đến các hòn đảo xa xôi phía bắc và bờ biển gồ ghề của nó có nhiều vịnh nhỏ hơn.<sup id="cite_ref-p89_13-2" class="reference"><a href="#cite_note-p89-13">[13]</a></sup>
 
 #### Giá đỡ Berg {#Berg_Cradle}
 
-**Cái nôi Berg** ([S.](../S/Sindarin.md) “Caew-i-Cheldolath”) là vịnh lớn nhất của Mũi Forochel. Nhiều tảng băng trôi ở đây đã được đào bới bởi những người đàn ông địa phương được gọi là Merimetsästäjät. Nhánh trung tâm của nó là Longwater, được người dân địa phương gọi là Pitkävesi. Khu bảo tồn Elven của Evermist nằm ở cuối phía bắc của con sông, trong một khu vực có nhiều rừng rậm. Nhánh cực đông của vịnh được Người yêu tinh gọi là Hûb Rochdol (“Vịnh Đầu ngựa”) và Đàn ông địa phương gọi là Venemiehen Satama (Bến thuyền của người chèo thuyền).<sup id="cite_ref-p81_15-0" class="reference"><a href="#cite_note-p81-15">[15]</a></sup>
+**Cái nôi Berg** ([S.](../S/Sindarin.md) “Caew-i-Cheldolath”) là vịnh lớn nhất của Mũi Forochel. Nhiều tảng băng trôi ở đây đã được Con Người người dân địa phương gọi là Merimetsästäjät khai thác. Nhánh trung tâm của nó là Longwater, được người dân địa phương gọi là Pitkävesi. Khu bảo tồn Tiên của Evermist nằm ở đầu phía bắc của con sông, trong một khu vực có rừng rậm. Nhánh cực đông của vịnh được Tiên tộc gọi là Hûb Rochdol (“Vịnh Đầu Ngựa”) và Venemiehen Satama (Bến thuyền của người chèo thuyền) theo Con Người địa phương.<sup id="cite_ref-p81_15-0" class="reference"><a href="#cite_note-p81-15">[15]</a></sup>
 
 #### Vịnh băng giá {#Icy_Bay}
 
 **Vịnh băng giá** (S. *Hûb Helchui*) thường bị Dunédain nhầm lẫn với Vịnh Forochel lớn hơn, mặc dù trên thực tế nó chỉ là một vịnh nhỏ ở phía bắc Lódalf.
 
-Sau [Sự sụp đổ của Angmar](../B/Battle_of_Fornost.md), rồng băng Gondring từng sống ở Angmar đã chuyển đến sống ở Vịnh Icy.<sup id="cite_ref-p89_13-3" class="reference"><a href="#cite_note-p89-13">[13]</a></sup>
+Sau [Sự sụp đổ của Angmar](../B/Battle_of_Fornost.md), rồng băng Gondring từng sống ở Angmar đã chuyển nhà đến Vịnh Icy.<sup id="cite_ref-p89_13-3" class="reference"><a href="#cite_note-p89-13">[13]</a></sup>
 
 #### Vịnh Cô Đơn {#Lonely_Bay}
 
@@ -152,11 +152,11 @@ Sau [Sự sụp đổ của Angmar](../B/Battle_of_Fornost.md), rồng băng Gon
 
 #### Vịnh được che chở {#Sheltered_Bay}
 
-**Vịnh được che chở** (S. *Hûb Beriannen*, La. *Turvallinen Satama*) là vịnh cực đông của Northern Waste, nằm giữa Rast Losnaeth và Everdalf. Bởi vì Dãy núi Bleak đã che chắn nó khỏi những cơn gió mùa đông nên nó đóng băng sớm hơn và dày hơn các vịnh khác.<sup id="cite_ref-p88_14-1" class="reference"><a href="#cite_note-p88-14">[14]</a></sup>
+**Vịnh được che chở** (S. *Hûb Beriannen*, La. *Turvallinen Satama*) là vịnh cực đông của Northern Waste, nằm giữa Rast Losnaeth và Everdalf. Bởi vì Bleak Dãy Núi đã che chắn nó khỏi những cơn gió mùa đông nên nó đóng băng sớm hơn và dày hơn các vịnh khác.<sup id="cite_ref-p88_14-1" class="reference"><a href="#cite_note-p88-14">[14]</a></sup>
 
 #### Vịnh phun {#Spouting_Bay}
 
-**Vịnh Spouting** (S. *Hûb Falthol*, La. *Merihenkien Satama*), còn được gọi là Vịnh Cá voi, là vịnh cực tây của [Forochel](../F/Forochel.md). Nó được đặt theo tên của những con cá voi tụ tập ở đó..<sup id="cite_ref-p89_13-5" class="reference"><a href="#cite_note-p89-13">[13]</a></sup> <span></span>
+**Vịnh phun nước** (S. *Hûb Falthol*, La. *Merihenkien Satama*), còn được gọi là Vịnh Cá voi, là vịnh cực tây của [Forochel](../F/Forochel.md). Nó được đặt theo tên của những con cá voi tụ tập ở đó..<sup id="cite_ref-p89_13-5" class="reference"><a href="#cite_note-p89-13">[13]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

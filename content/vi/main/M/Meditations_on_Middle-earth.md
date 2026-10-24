@@ -33,11 +33,11 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Meditations_on_Middle-earth.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/0/0d/Meditations_on_Middle-earth.jpg/318px-Meditations_on_Middle-earth.jpg" decoding="async" loading="lazy" width="318" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/0/0d/Meditations_on_Middle-earth.jpg 1.5x" data-file-width="429" data-file-height="648"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Meditations on Middle-earth: New Writing on the Worlds of J.R.R. Tolkien</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data">Karen Haber (ed.)</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">New York: St. Martin&#39;s Press</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/19_November.md" title="19 November">November 19</a>, <a href="../_/2001.md" title="2001">2001</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Hardcover</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">235 pages</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0743468740" title="Special:BookSources/0743468740">0743468740</a></td></tr></tbody></table>
 
-<i><b>Suy ngẫm về Trung địa: Bài viết mới về thế giới J.R.R. Tolkien</b></i> là tập hợp các bài tiểu luận của một số tác giả khoa học viễn tưởng và giả tưởng mang tính bước ngoặt. Cuốn sách có hình ảnh minh họa của [John Howe](../J/John_Howe.md).
+<i><b>Suy ngẫm về Trung Địa: Bài viết mới về thế giới của J.R.R. Tolkien</b></i> là tập hợp các bài tiểu luận của một số tác giả khoa học viễn tưởng và giả tưởng mang tính bước ngoặt. Sách có hình ảnh minh họa của [John Howe](../J/John_Howe.md).
 
 *Meditations on Middle-earth* được đề cử vào năm 2002 cho <a class="extiw" href="http://en.wikipedia.org/wiki/Hugo_Award" title="wikipedia:Hugo Award">Giải thưởng Hugo</a> ở hạng mục Sách liên quan hay nhất.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Một bài tiểu luận được gửi tới bộ sưu tập, tuy nhiên chưa được xuất bản, là "Lời giới thiệu hay nhất về những ngọn núi" của Gene Wolfe (bao gồm [một bức thư từ J.R.R. Tolkien](../L/Letter_290a.md)).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Một bài tiểu luận được gửi tới bộ sưu tập, tuy nhiên chưa được xuất bản, là "Lời giới thiệu hay nhất về Dãy Núi" của Gene Wolfe (bao gồm [một bức thư từ J.R.R. Tolkien](../L/Letter_290a.md)).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nhà xuất bản {#From_the_publisher}
 
@@ -55,8 +55,8 @@ Một bài tiểu luận được gửi tới bộ sưu tập, tuy nhiên chưa 
 - [Karen Haber](../K/Karen_Haber.md): "Lời nói đầu: Nhịp điệu vẫn tiếp tục"
 - [George R. R. Martin](../G/George_R._R._Martin.md): "Giới thiệu"
 - [Raymond Feist](../R/Raymond_E._Feist.md): "Ông nội của chúng ta: Suy ngẫm về J.R.R. Tolkien"
-- [Poul Anderson](../P/Poul_Anderson.md): "Đánh thức các yêu tinh"
-- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Michael_Swanwick&amp;action=edit&amp;redlink=1" title="Michael Swanwick (page does not exist)">Michael Swanwick</a>: "Một kẻ thay đổi trở lại"
+- [Poul Anderson](../P/Poul_Anderson.md): "Đánh thức Tiên tộc"
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Michael_Swanwick&amp;action=edit&amp;redlink=1" title="Michael Swanwick (page does not exist)">Michael Swanwick</a>: "A Changeling Returns"
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Esther_M._Friesner&amp;action=edit&amp;redlink=1" title="Esther M. Friesner (page does not exist)">Esther M. Friesner</a>: "Nếu bạn cho một cô gái một Hobbit"
 - [Harry Turtledove](../H/Harry_Turtledove.md): "Chiếc nhẫn và tôi"
 - [Terry Pratchett](../T/Terry_Pratchett.md): "Cult Classic"
@@ -64,11 +64,11 @@ Một bài tiểu luận được gửi tới bộ sưu tập, tuy nhiên chưa 
 - [Ursula K. Le Guin](../U/Ursula_K._Le_Guin.md): "Mẫu nhịp điệu trong *The Lord of the Rings*"
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Diane_Duane&amp;action=edit&amp;redlink=1" title="Diane Duane (page does not exist)">Diane Duane</a>: "Ngày chủ nhật dài nhất"
 - [Douglas A. Anderson](../D/Douglas_A._Anderson.md): "Tolkien Sau ngần ấy năm"
-- [Thẻ Orson Scott](../O/Orson_Scott_Card.md): "Ý nghĩa của Tolkien"
+- [Thẻ Orson Scott](../O/Orson_Scott_Card.md): " Tolkien nghĩa là gì"
 - [Charles de Lint](../C/Charles_de_Lint.md): "Câu chuyện vẫn tiếp diễn"
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Lisa_Goldstein&amp;action=edit&amp;redlink=1" title="Lisa Goldstein (page does not exist)">Lisa Goldstein</a>: "Người tạo ra huyền thoại"
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Glenn_Hurdling&amp;action=edit&amp;redlink=1" title="Glenn Hurdling (page does not exist)">Glenn Hurdling</a>: "'Sự khác biệt căn bản...' Cuộc trò chuyện với Tim và Greg Hildebrandt"
-- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Terri_Windling&amp;action=edit&amp;redlink=1" title="Terri Windling (page does not exist)">Terri Windling</a>: "Về Tolkien và truyện cổ tích"
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Terri_Windling&amp;action=edit&amp;redlink=1" title="Terri Windling (page does not exist)">Terri Windling</a>: "Về Tolkien và những câu chuyện cổ tích"
 - Tiểu sử tác giả
 
 <span></span>

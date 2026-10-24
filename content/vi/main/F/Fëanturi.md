@@ -46,13 +46,13 @@ images:
 
 Danh hiệu này được tạo ra do phạm vi ảnh hưởng của hai anh em đối với tinh thần. Mặc dù thường được gọi bằng tên nơi ở nhưng tên thật của hai anh em là Námo, anh cả và Irmo, em.
 
-Irmo, cư trú tại Lórien, là bậc thầy về những khải tượng và ước mơ. Khu vườn của ông đẹp nhất thế giới và tràn ngập nhiều linh hồn. Thường thì các Valar sẽ đến khu vườn của mình để nghỉ ngơi và tìm thấy sự thoải mái trước những gánh nặng của Arda.
+Irmo, cư trú tại Lórien, là bậc thầy của những ảo ảnh và ước mơ. Khu vườn của ông đẹp nhất thế giới và tràn ngập nhiều linh hồn. Thường thì Valar sẽ đến khu vườn của anh để nghỉ ngơi và cảm thấy nhẹ nhõm trước những gánh nặng của Arda.
 
-Námo, cư trú tại Mandos, có quyền lực đối với *[fëar](Fëar.md)* Yêu tinh và Đàn ông tập trung tại hội trường của ông ta sau khi chết, nơi *fëar* của Yêu tinh cư trú trong khi những người của Nam giới sớm rời khỏi Vòng tròn Thế giới. Námo đưa ra phán quyết về mệnh lệnh của [Manwë](../M/Manwë.md) trong những vấn đề nghiêm trọng (chẳng hạn như [Sự diệt vong của Noldor](../D/Doom_of_the_Noldor~13942.md)) nhưng cũng phán xét về số phận của yêu tinh *fëar*.
+Námo, người cư trú tại Mandos, có quyền lực đối với *[fëar](Fëar.md)* của Tiên tộc và Con Người, những người tập trung tại hội trường của mình sau khi chết, nơi *fëar* của Tiên tộc cư trú trong khi những người của Con Người sớm rời khỏi Vòng tròn Thế giới. Námo đưa ra phán quyết về mệnh lệnh của [Manwë](../M/Manwë.md) trong các vấn đề nghiêm trọng (chẳng hạn như [Sự diệt vong của Noldor](../D/Doom_of_the_Noldor~13942.md)) nhưng cũng phán xét về số phận của yêu tinh *fëar*.
 
-[Nienna](../N/Nienna.md) là em gái của Fëanturi, người đã thương tiếc [Melkor](../M/Melkor.md) kết hôn với [Arda](../A/Arda.md). Cô cư trú ở phía Tây phía Tây, gần các đại sảnh của Mandos, nơi cô thường bước vào để mang lại sức mạnh và trí tuệ cho *fëar* ở đó.<sup id="cite_ref-Vala_1-1" class="reference"><a href="#cite_note-Vala-1">[1]</a></sup> Tuy nhiên, cô chưa bao giờ được nhắc đến một cách rõ ràng với tư cách là thành viên của Fëanturi.
+[Nienna](../N/Nienna.md) là em gái của Fëanturi, người đã thương tiếc [Melkor](../M/Melkor.md) kết hôn với [Arda](../A/Arda.md). Cô cư trú ở phía tây Phương Tây, gần các sảnh của Mandos, nơi cô thường bước vào để mang lại sức mạnh và trí tuệ cho *fëar* ở đó.<sup id="cite_ref-Vala_1-1" class="reference"><a href="#cite_note-Vala-1">[1]</a></sup> Tuy nhiên, cô chưa bao giờ được nhắc đến một cách rõ ràng với tư cách là thành viên của Fëanturi.
 
-Nienna và Mandos được tính trong số [Aratar](../A/Aratar.md) - tám người vĩ đại nhất của Valar - trong khi anh trai Irmo của họ thì không.
+Nienna và Mandos được tính trong số [Aratar](../A/Aratar.md) - tám người vĩ đại nhất trong số Valar - trong khi anh trai Irmo của họ thì không.
 
 ## Từ nguyên {#Etymology}
 
@@ -64,7 +64,7 @@ Trong *[The Etymologies](../T/The_Etymologies.md)* xuất hiện [Noldorin](../N
 
 Trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)* từ xuất hiện dưới dạng [Qenya](../Q/Qenya.md) *Fantur*, pl. *Fanturi*, với các biểu mẫu [Gnomish](../G/Gnomish.md) *Fanthor*, pl. *i-Fanthaurin*, tất cả đều bắt nguồn từ [gốc](../R/Root.md) FANA.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
-Từ này tạo ra tên Qenya *Vefantur* (Fantur của cái chết, Mandos) và *Olofantur* (Fantur của những giấc mơ, Lórien).<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> <span></span>
+Từ này tạo ra các tên Qenya *Vefantur* (Fantur của cái chết, Mandos) và *Olofantur* (Fantur của những giấc mơ, Lórien).<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

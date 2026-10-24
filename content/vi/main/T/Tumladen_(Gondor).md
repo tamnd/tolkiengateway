@@ -21,9 +21,9 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Tumladen_(Gondor).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/8/8f/The_Lord_of_the_Rings_Online_-_Tumladen_%28Gondor%29.jpg/300px-The_Lord_of_the_Rings_Online_-_Tumladen_%28Gondor%29.jpg" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/8f/The_Lord_of_the_Rings_Online_-_Tumladen_%28Gondor%29.jpg/450px-The_Lord_of_the_Rings_Online_-_Tumladen_%28Gondor%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/8/8f/The_Lord_of_the_Rings_Online_-_Tumladen_%28Gondor%29.jpg/600px-The_Lord_of_the_Rings_Online_-_Tumladen_%28Gondor%29.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>Tumladen in <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-**Tumladen** là một thung lũng ở phía nam [Gondor](../G/Gondor.md) giữa sông [Celos](../C/Celos.md) và [Sirith](../S/Sirith.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> ở phía đông thái ấp [Lebennin](../L/Lebennin.md).<sup id="cite_ref-UI_3-0" class="reference"><a href="#cite_note-UI-3">[3]</a></sup>
+**Tumladen** là một thung lũng ở phía nam [Gondor](../G/Gondor.md) giữa sông [Celos](../C/Celos.md) và [Sirith](../S/Sirith.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> ở phía đông của thái ấp [Lebennin](../L/Lebennin.md).<sup id="cite_ref-UI_3-0" class="reference"><a href="#cite_note-UI-3">[3]</a></sup>
 
-Một con đường đi từ [Pelennor](../P/Pelennor.md) đến thung lũng Tumladen và [Lossarnach](../L/Lossarnach.md), những ngôi làng trên núi, rồi đến [Lebennin](../L/Lebennin.md). Trong [Chiến tranh Chiếc nhẫn](../W/War_of_the_Ring.md), Tumladen là nơi trú ẩn cho một số phụ nữ, trẻ em và người già đã được sơ tán khỏi [Minas Tirith](../M/Minas_Tirith.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Một con đường đi từ [Pelennor](../P/Pelennor.md) đến thung lũng Tumladen và [Lossarnach](../L/Lossarnach.md), những ngôi làng trên núi, rồi đến [Lebennin](../L/Lebennin.md). Trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), Tumladen đã trở thành nơi trú ẩn cho một số phụ nữ, trẻ em và người già được sơ tán khỏi [Minas Tirith](../M/Minas_Tirith.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -31,7 +31,7 @@ Tumladen là tên [Sindarin](../S/Sindarin.md).<sup id="cite_ref-UI_3-1" class="
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2015: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
+<b>2015: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Tumladen was located in Upper <a href="../L/Lebennin.md" title="Lebennin">Lebennin</a> in Eastern <a href="../G/Gondor.md" title="Gondor">Gondor</a>. The river <a href="../S/Sirith.md" title="Sirith">Sirith</a> flowed through it. &#34;Imladir&#34; was the Captain of the Guard of Tumladen, but in the days before the <a href="../B/Battle_of_the_Pelennor_Fields.md" title="Battle of the Pelennor Fields">Battle of the Pelennor Fields</a> the &#34;Lady Terenis&#34;, sister of Steward <a href="../D/Denethor.md" title="Denethor">Denethor</a>, dwelt in Tumladen and held the true power in the valley.</dd></dl>
 

@@ -24,12 +24,12 @@ langlinks:
     url: "https://kontu.wiki/Ykk%C3%B6sjule"
 ---
 
-**1 Yule** là ngày cuối cùng trong [Lịch Quận](../S/Shire_Calendar.md), sau [ngày 30 tháng 12](30_December.md), đánh dấu sự kết thúc của một năm.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 1]</a></sup> Do [cải cách Quận](../S/Shire-reform.md) các ngày Yule luôn rơi vào những ngày giống nhau trong tuần. Ngày 1 Yule luôn là [Ngày cao điểm](../H/Highday.md) (Thứ Sáu).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup>
+**1 Yule** là ngày cuối cùng trong [Lịch Shire](../S/Shire_Calendar.md), sau [30 tháng 12](30_December.md), đánh dấu sự kết thúc của một năm.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 1]</a></sup> Do [Shire cải cách](../S/Shire-reform.md) các ngày Yule luôn rơi vào những ngày giống nhau trong tuần. Ngày 1 Yule luôn là [Ngày cao điểm](../H/Highday.md) (Thứ Sáu).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup>
 
 Sự kiện vào ngày 1 Yule:
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Hiệp hội Nhẫn thần](../F/Fellowship_of_the_Ring.md) đi về phía nam dọc theo [Dãy núi Sương mù](../M/Misty_Mountains.md).
+    - Con [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) di chuyển về phía nam dọc theo [Dãy Núi Sương Mù](../M/Misty_Mountains.md).
 
 ## Ghi chú {#Notes}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "White Council"
 ---
 
-Chuyển hướng tới [Hội đồng Trắng](../W/White_Council.md).
+Chuyển hướng đến [Bạch Hội Đồng](../W/White_Council.md).

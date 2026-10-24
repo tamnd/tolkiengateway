@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Diary 1999"
 ---
 
-Chuyển hướng tới [Nhật ký Tolkien 1999](Tolkien_Diary_1999.md).
+Chuyển hướng tới [Tolkien Nhật ký 1999](Tolkien_Diary_1999.md).

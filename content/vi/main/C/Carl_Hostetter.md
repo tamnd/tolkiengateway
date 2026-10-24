@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Carl F. Hostetter"
 ---
 
-Chuyển hướng tới [Carl F. Hostetter](Carl_F._Hostetter.md).
+Chuyển hướng đến [Carl F. Hostetter](Carl_F._Hostetter.md).

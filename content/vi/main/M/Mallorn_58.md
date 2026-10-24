@@ -40,32 +40,32 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mallorn58.png.md"><img src="https://tolkiengateway.net/w/images/thumb/3/3a/Mallorn58.png/320px-Mallorn58.png" decoding="async" loading="lazy" width="320" height="453" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/3a/Mallorn58.png/480px-Mallorn58.png 1.5x, https://tolkiengateway.net/w/images/thumb/3/3a/Mallorn58.png/640px-Mallorn58.png 2x" data-file-width="1238" data-file-height="1752"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mallorn 58</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Rosalinda Haddon</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Printer</th><td class="tg-infobox-data"><a class="external text" href="http://www.printedword.co.uk/" rel="noreferrer noopener" target="_blank">The Printed Word</a>, Horsham, UK</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Winter 2017</td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">A4 stapled paperback, glossy</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">48</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0308-6674</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mallorn_57.md" title="Mallorn 57">Mallorn 57</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mallorn_59.md" title="Mallorn 59">Mallorn 59</a></td></tr></tbody></table>
 
-<b><i>Mallorn</i> 58</b> là số thứ 58 của tạp chí thường niên của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) *[Mallorn](<Mallorn_(journal).md>)*, xuất bản vào Mùa đông [2017](../_/2017.md).
+<b><i>Mallorn</i> 58</b> là số thứ 58 của tạp chí thường niên [Hội Tolkien](../T/The_Tolkien_Society.md) của *[Mallorn](<Mallorn_(journal).md>)*, xuất bản vào Mùa đông [2017](../_/2017.md).
 
 ## Nội dung {#Contents}
 
 - **Ảnh bìa**
-    - "Rừng già"
+    - "Cái Khu Rừng Cổ"
         - Bởi: [Soni Alcorn-Hender](../S/Soni_Alcorn-Hender.md)
 - **Biên tập**
     - ​
         - Bởi: Rosalinda Haddon
 - **Bài viết**
-    - "Motif địa ngục trong truyền thuyết của Tolkien"
+    - "Motif Sự thống khổ của địa ngục trong Tolkien Legendarium"
         - Bởi: Robert Steed
     - "Mọi câu chuyện đều có thể trở thành sự thật: Chủ nghĩa thần bí sáng tạo của Tolkien"
         - Bởi: John Carswell
-    - "'Quả thực là đầy tớ!': Bilbo Baggins, nhà thầu độc lập"
+    - "'Đúng là đầy tớ!': Bilbo Baggins, nhà thầu độc lập"
         - Bởi: Murray Smith
-    - "Tolkien, Eucatastrophe và việc viết lại truyền thuyết thời Trung Cổ"
+    - "Tolkien, Thảm họa và việc viết lại truyền thuyết thời Trung cổ"
         - Bởi: Jane Beal
     - "Tiếng nói của Beorn: Ngôn ngữ đạo đức hóa sự quái dị như thế nào"
         - Bởi: Garrett Senney
-    - "Về bài trình bày của Tolkien về Chủ nghĩa phân phối thông qua Quận"
+    - "Về phần trình bày của Tolkien về Chủ nghĩa phân phối thông qua Shire"
         - Bởi: Jay Atkins
     - "Còn Zanzibar thì sao? Hay một câu chuyện cổ tích dành cho người lớn liên quan đến truyền thuyết tiểu sử của Tolkien"
         - Bởi: Nancy Bunting
-    - "Tiểu thuyết Gothic thế kỷ 18 và nỗi kinh hoàng ở Trung Địa"
+    - "Tiểu thuyết Gothic thế kỷ 18 và nỗi kinh hoàng Trung Địa"
         - Bởi: Terranova
 - **Bài gửi**
     - Thư gửi Biên tập viên
@@ -73,7 +73,7 @@ infobox:
 - **Thơ**
     - "Hành trình"
         - Bởi: Julia Baranova
-    - "Lời chia tay của Frodo
+Lời chia tay của     - "Frodo
         - Bởi: Angela Woolsey
 - **Đánh giá**
     - *[The Fellowship: The Literary Lives of the Inklings](../T/The_Fellowship%253A_The_Literary_Lives_of_the_Inklings.md)*
@@ -85,4 +85,4 @@ infobox:
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://journals.tolkiensociety.org/mallorn/issue/view/59/" rel="noreferrer noopener" target="_blank">Số này tại trang web của The Tolkien Society</a>
+- <a class="external text" href="http://journals.tolkiensociety.org/mallorn/issue/view/59/" rel="noreferrer noopener" target="_blank">Vấn đề này tại trang web Hội Tolkien</a>

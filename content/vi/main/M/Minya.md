@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Minyar"
 ---
 
-Chuyển hướng tới [Minyar](Minyar.md).
+Chuyển hướng đến [Minyar](Minyar.md).

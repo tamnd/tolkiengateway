@@ -16,12 +16,12 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="../T/Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><a href="../F/First_Age.md" title="First Age">I</a><b>II</b><a href="../T/Third_Age.md" title="Third Age">III</a><a href="../F/Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="Second_Age_816.md" title="Second Age 816">816</a><a href="Second_Age_820.md" title="Second Age 820">820</a><a href="Second_Age_824.md" title="Second Age 824">824</a><a class="mw-selflink selflink">829</a><a href="Second_Age_840.md" title="Second Age 840">840</a><a href="Second_Age_843.md" title="Second Age 843">843</a><a href="Second_Age_850.md" title="Second Age 850">850</a></div></div></div></div></div></div>
 
-**Kỷ thứ hai 829** (viết tắt là **S.A. 829**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 829 của [Kỷ thứ hai](Second_Age.md) của [Trung Địa](../M/Middle-earth.md).
+**Kỷ Đệ Nhị 829** (viết tắt là **S.A. 829**) là năm [thứ 829 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Nhị](Second_Age.md) của [Trung Địa](../M/Middle-earth.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- [Aldarion](../T/Tar-Aldarion.md) trở về từ [Trung địa](../M/Middle-earth.md) với chín con tàu chở đầy gỗ quý từ các khu rừng trên bờ biển Trung Địa, sau khi đóng thêm hai con tàu tại bến cảng [Vinyalondë](../V/Vinyalondë.md).<sup id="cite_ref-Wife_1-0" class="reference"><a href="#cite_note-Wife-1">[1]</a></sup>
-- Aldarion lại khởi hành đến Trung Địa với một hạm đội gồm ba con tàu trong chuyến hành trình dài mười bốn năm. Vì [Tar-Meneldur](../T/Tar-Meneldur.md) đã ra lệnh đóng cửa các xưởng đóng tàu ở [Rómenna](../R/Rómenna.md) và cấm chặt cây để đóng tàu nên các tàu của Aldarion cần được tân trang lại vì chúng đã bị hư hại do gió mạnh.<sup id="cite_ref-Wife_1-1" class="reference"><a href="#cite_note-Wife-1">[1]</a></sup>
+- [Aldarion](../T/Tar-Aldarion.md) trở về từ [Trung Địa](../M/Middle-earth.md) với chín con tàu chở đầy gỗ quý từ rừng của bờ biển Trung Địa, sau khi đóng thêm hai con tàu tại bến cảng [Vinyalondë](../V/Vinyalondë.md).<sup id="cite_ref-Wife_1-0" class="reference"><a href="#cite_note-Wife-1">[1]</a></sup>
+- Aldarion lại khởi hành về hướng Trung Địa với đội ba tàu cho chuyến hành trình dài mười bốn năm. Vì [Tar-Meneldur](../T/Tar-Meneldur.md) đã ra lệnh đóng cửa các xưởng đóng tàu [Rómenna](../R/Rómenna.md) và cấm chặt cây để đóng tàu, các tàu của Aldarion cần được tân trang lại vì chúng đã bị hư hại do gió mạnh.<sup id="cite_ref-Wife_1-1" class="reference"><a href="#cite_note-Wife-1">[1]</a></sup>
 
 <span></span>
 

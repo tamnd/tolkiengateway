@@ -16,7 +16,7 @@ categories:
   - "Metaphysics"
 ---
 
-<i><b>axan</b></i> (pl. <i><b>axani</b></i>) là một danh từ [Quenya](../Q/Quenya.md) có nghĩa là "luật lệ, quy tắc, điều răn, chủ yếu bắt nguồn từ [Eru](../I/Ilúvatar.md)". Thuật ngữ này đề cập đến luật do Ilúvatar thiết lập mà những sinh vật nhỏ hơn được hướng dẫn tuân theo nhưng có thể chọn không tuân theo. *axani* tương phản với *[únati](../_/Únat.md)*, là những định luật vật lý không thể phá vỡ. [Melkor](../M/Melkor.md) từ chối chấp nhận bất kỳ *axani* nào làm ràng buộc đối với ông ta, nhưng ông ta rất thất vọng khi không thể vi phạm *únati*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>axan</b></i> (pl. <i><b>axani</b></i>) là một danh từ [Quenya](../Q/Quenya.md) có nghĩa là "luật lệ, quy tắc, điều răn, chủ yếu xuất phát từ [Eru](../I/Ilúvatar.md)". Thuật ngữ này đề cập đến luật do Ilúvatar thiết lập mà những sinh vật thấp kém hơn được hướng dẫn tuân theo nhưng có thể chọn không tuân theo. *axani* tương phản với *[únati](../_/Únat.md)*, là những định luật vật lý không thể phá vỡ. [Melkor](../M/Melkor.md) từ chối chấp nhận bất kỳ *axani* nào ràng buộc ông ta, nhưng ông ta rất thất vọng khi không thể vi phạm *únati*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -24,7 +24,7 @@ Nó được cho là bắt nguồn từ [Valarin](../V/Valarin.md) <i><a class="
 
 ## Cảm hứng {#Inspiration}
 
-*axan* tương tự như từ Hy Lạp cổ <i><a class="extiw" href="http://en.wikipedia.org/wiki/Anax_(Greek)" title="wikipedia:Anax (Greek)">ἄναξ</a></i> (*anax*) có nghĩa là "người cai trị, chúa tể, vua". Trong khi đó, dạng Valarin *akašân* giống với từ <a class="extiw" href="http://en.wikipedia.org/wiki/akasha" title="wikipedia:akasha">akasha</a>, aether trong vũ trụ học và thần bí của Ấn Độ giáo. Người ta không biết liệu Tolkien có quen thuộc với một trong hai thuật ngữ hay không.
+*axan* tương tự như từ Hy Lạp cổ <i><a class="extiw" href="http://en.wikipedia.org/wiki/Anax_(Greek)" title="wikipedia:Anax (Greek)">ἄναξ</a></i> (*anax*) có nghĩa là "người cai trị, chúa tể, vua". Trong khi đó, dạng Valarin *akašân* giống với từ <a class="extiw" href="http://en.wikipedia.org/wiki/akasha" title="wikipedia:akasha">akasha</a>, aether trong vũ trụ học và thần bí của Ấn Độ giáo. Không biết liệu Tolkien có quen thuộc với cả hai thuật ngữ này hay không.
 
 ## Xem thêm {#See_also}
 

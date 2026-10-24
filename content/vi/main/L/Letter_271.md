@@ -31,9 +31,9 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien không thích việc biên tập lại *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*. Thật khó nếu không muốn nói là không thể tìm thấy nhiều hơn một số lượng nhỏ những thay đổi cần thiết hoặc mong muốn. Sự ngưỡng mộ của anh ngày càng tăng đối với tác giả tội nghiệp (người giờ đây dường như là một người bạn xa cách) và sự chặt chẽ trong cách xây dựng của ông ta. Ông hy vọng rằng việc thay đổi phần giới thiệu, sửa đổi đáng kể các phụ lục và thêm phần mục lục là đủ cho mục đích này.
+Tolkien không thích việc chỉnh sửa lại *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*. Thật khó nếu không muốn nói là không thể tìm thấy nhiều hơn một số lượng nhỏ những thay đổi cần thiết hoặc mong muốn. Sự ngưỡng mộ của anh ngày càng tăng đối với tác giả tội nghiệp (người giờ đây dường như là một người bạn xa cách) và sự chặt chẽ trong cách xây dựng của ông ta. Ông hy vọng rằng việc thay đổi phần giới thiệu, sửa đổi đáng kể các phụ lục và thêm phần mục lục là đủ cho mục đích này.
 
-Tolkien đã đề cập<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> rằng trong mọi phản hồi thư của "người hâm mộ" từ U.S., ông đều thông báo với các nhà văn rằng [Ace Books](../A/Ace_Books.md) đã xuất bản mà không có sự đồng ý và không trả thù lao cho ông hoặc nhà xuất bản hợp pháp của ông. Ông hỏi Unwin liệu việc này được thực hiện trên quy mô lớn hơn có hữu ích không.
+Tolkien đã đề cập<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> rằng trong mọi phản hồi thư của "người hâm mộ" từ U.S. ông đều thông báo với các nhà văn rằng [Ace Books](../A/Ace_Books.md) đã xuất bản mà không có sự đồng ý và không trả thù lao cho ông hoặc nhà xuất bản hợp pháp của ông. Ông hỏi Unwin liệu việc này được thực hiện trên quy mô lớn hơn có hữu ích không.
 
 ## Lưu ý {#Note}
 

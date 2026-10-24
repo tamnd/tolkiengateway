@@ -15,17 +15,17 @@ categories:
   - "Tol Eressëa"
 ---
 
-**Taruithorn** là một thị trấn ở [Tol Eressëa](Tol_Eressëa.md), theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) ở *[The Book of Lost Tales](The_Book_of_Lost_Tales.md)*. Sau này nó được biết đến với cái tên **[Oxford](../O/Oxford.md)**.<sup id="cite_ref-Oxf_1-0" class="reference"><a href="#cite_note-Oxf-1">[1]</a></sup>
+**Taruithorn** là một thị trấn ở [Tol Eressëa](Tol_Eressëa.md), theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) ở *[The Book of Lost Tales](The_Book_of_Lost_Tales.md)*. Sau này nó được gọi là **[Oxford](../O/Oxford.md)**.<sup id="cite_ref-Oxf_1-0" class="reference"><a href="#cite_note-Oxf-1">[1]</a></sup>
 
-Sau [Faring Forth](../F/Faring_Forth.md) và việc Tol Eressëa bị đưa đến [Great Lands](../G/Great_Lands.md), nó đã bị chinh phục bởi [Horsa](../H/Horsa.md), một trong những con trai của [Eriol](../E/Eriol.md), thủy thủ [Mannish](../M/Men.md) đã đến thăm Đảo Cô Đơn nhiều năm trước.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Sau [Faring Forth](../F/Faring_Forth.md) và việc di chuyển Tol Eressëa đến [Great Lands](../G/Great_Lands.md), nó đã bị chinh phục bởi [Horsa](../H/Horsa.md), một trong những con trai của [Eriol](../E/Eriol.md), thủy thủ [Mannish](../M/Men.md) đã đến thăm Đảo Cô đơn nhiều năm trước.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Tên *Taruithorn* có trong [Gnomish](../G/Gnomish.md). Nó bao gồm các phần tử <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Tarog&amp;action=edit&amp;redlink=1" title="Tarog (page does not exist)">tarog</a></i> ("ox") + *[tarn](Tarn.md)* ("gate"). [Qenya](../Q/Qenya.md) cùng nguồn gốc của nó là <i><b>Taruktarna</b></i>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Tên *Taruithorn* nằm trong [Gnomish](../G/Gnomish.md). Nó bao gồm các phần tử <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Tarog&amp;action=edit&amp;redlink=1" title="Tarog (page does not exist)">tarog</a></i> ("ox") + *[tarn](Tarn.md)* ("gate"). [Qenya](../Q/Qenya.md) cùng nguồn gốc của nó là <i><b>Taruktarna</b></i>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 Một số tên bị từ chối trước đó của nó là *Taruitharn* và *Taruithron*.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
-Thị trấn được gọi là <i><b>Oxenaford</b></i> trong [tiếng Anh cổ](../O/Old_English.md).<sup id="cite_ref-Oxf_1-1" class="reference"><a href="#cite_note-Oxf-1">[1]</a></sup>
+Thị trấn được gọi là <i><b>Oxenaford</b></i> ở [tiếng Anh cổ](../O/Old_English.md).<sup id="cite_ref-Oxf_1-1" class="reference"><a href="#cite_note-Oxf-1">[1]</a></sup>
 
 <span></span>
 

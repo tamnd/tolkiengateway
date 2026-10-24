@@ -13,7 +13,7 @@ categories:
   - "Noldorin adjectives"
 ---
 
-<i><b>bregol</b></i> là một từ [Noldorin lưu vong](../N/Noldorin.md) có nghĩa là "bạo lực, đột ngột, khốc liệt".<sup id="cite_ref-LR_1-0" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
+<i><b>bregol</b></i> là một từ [Exilic Noldorin](../N/Noldorin.md) có nghĩa là "bạo lực, đột ngột, khốc liệt".<sup id="cite_ref-LR_1-0" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -21,7 +21,7 @@ categories:
 
 ## Xem thêm {#See_also}
 
-- Tiếng Sindarin *[bragol](Bragol.md)*
+- Sindarin *[bragol](Bragol.md)*
 
 <span></span>
 

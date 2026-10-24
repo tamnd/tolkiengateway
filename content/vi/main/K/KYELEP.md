@@ -12,7 +12,7 @@ categories:
   - "Roots"
 ---
 
-**KYELEP** là [Quendian nguyên thủy](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) biểu thị "[bạc](../S/Silver.md)".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-UT6e_2-0" class="reference"><a href="#cite_note-UT6e-2">[2]</a></sup><sup id="cite_ref-LR_3-0" class="reference"><a href="#cite_note-LR-3">[3]</a></sup>
+**KYELEP** là một [Primitive Quendian](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) biểu thị "[bạc](../S/Silver.md)".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-UT6e_2-0" class="reference"><a href="#cite_note-UT6e-2">[2]</a></sup><sup id="cite_ref-LR_3-0" class="reference"><a href="#cite_note-LR-3">[3]</a></sup>
 
 ## Công cụ phái sinh {#Derivatives}
 
@@ -20,17 +20,17 @@ categories:
 
 - [Quenya](../Q/Quenya.md): *[telpe, tyelpe, tyelep-](../T/Telpe.md)* ("bạc")<sup id="cite_ref-UT6e_2-2" class="reference"><a href="#cite_note-UT6e-2">[2]</a></sup><sup id="cite_ref-LR_3-1" class="reference"><a href="#cite_note-LR-3">[3]</a></sup>
 
-- [Tiếng Sindarin](../S/Sindarin.md): *celeb*<sup id="cite_ref-UT6e_2-3" class="reference"><a href="#cite_note-UT6e-2">[2]</a></sup>
+- [Sindarin](../S/Sindarin.md): *celeb*<sup id="cite_ref-UT6e_2-3" class="reference"><a href="#cite_note-UT6e-2">[2]</a></sup>
 
 - [Noldorin](../N/Noldorin.md): *[celeb](../C/Celeb.md)* ("bạc"); *[celebren](../C/Celebren.md)* ("bằng bạc")<sup id="cite_ref-LR_3-2" class="reference"><a href="#cite_note-LR-3">[3]</a></sup>
 
 ## Phiên bản khác {#Other_versions}
 
-Mục ban đầu trong *[Etymologies](../T/The_Etymologies.md)* có "**KYELEP-** và **TELEP-** bạc". [Tolkien](../J/J.R.R._Tolkien.md) đã viết lại phần này, đổi thành "**KYÉLEP-** (và **TÉLEP-?**) bạc".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Mục ban đầu trong *[Etymologies](../T/The_Etymologies.md)* có "**KYELEP-** và **TELEP-** bạc". [Tolkien](../J/J.R.R._Tolkien.md) viết lại phần này, đổi thành "**KYÉLEP-** (và **TÉLEP-?**) bạc".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Xem thêm {#See_also}
 
-- [Telerin](../T/Telerin.md) *[telepi](../T/Telepi.md)* (bắt nguồn từ [Tiên nguyên thủy](../P/Primitive_Elvish.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Kyelep%C4%93&amp;action=edit&amp;redlink=1" title="Kyelepē (page does not exist)">kyelepē</a></i>)<sup id="cite_ref-L347_5-0" class="reference"><a href="#cite_note-L347-5">[5]</a></sup>
+- [Telerin](../T/Telerin.md) *[telepi](../T/Telepi.md)* (bắt nguồn từ [Nguyên thủy Elvish](../P/Primitive_Elvish.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Kyelep%C4%93&amp;action=edit&amp;redlink=1" title="Kyelepē (page does not exist)">kyelepē</a></i>)<sup id="cite_ref-L347_5-0" class="reference"><a href="#cite_note-L347-5">[5]</a></sup>
 
 <span></span>
 

@@ -71,31 +71,31 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/Lost_Tales_I_1983.png.md"><img src="https://tolkiengateway.net/w/images/thumb/d/d2/Lost_Tales_I_1983.png/306px-Lost_Tales_I_1983.png" decoding="async" loading="lazy" width="306" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/d/d2/Lost_Tales_I_1983.png 1.5x" data-file-width="319" data-file-height="500"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Book of Lost Tales: Part One</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a class="mw-redirect" href="../G/George_Allen_and_Unwin.md" title="George Allen and Unwin">George Allen and Unwin</a> (UK)<br/><a class="mw-redirect" href="../H/Houghton_Mifflin.md" title="Houghton Mifflin">Houghton Mifflin</a> (US)</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/27_October.md" title="27 October">27 October</a> <a href="../_/1983.md" title="1983">1983</a> (UK)<br/><a href="../_/22_February.md" title="22 February">22 February</a> <a href="../_/1984.md" title="1984">1984</a> (US)</td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Hardcover; paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">304</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0048232386" title="Special:BookSources/0048232386">0048232386</a></td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="The_Old_English_Exodus.md" title="The Old English Exodus">The Old English Exodus</a> (1982)</td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="The_Book_of_Lost_Tales%253A_Part_Two.md" title="The Book of Lost Tales: Part Two">The Book of Lost Tales: Part Two</a> (1984)</td></tr></tbody></table>
 
-<i><b>Cuốn sách về những câu chuyện đã mất: Phần thứ nhất</b></i>, xuất bản năm [1983](../_/1983.md), là tập đầu tiên trong bộ sách 12 tập của [Christopher Tolkien](../C/Christopher_Tolkien.md), *[The History of Middle-earth](The_History_of_Middle-earth.md)*, trong đó ông phân tích các bản thảo chưa xuất bản của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
+<i><b>The Book of Lost Tales: Phần thứ nhất</b></i>, xuất bản trong [1983](../_/1983.md), là tập đầu tiên trong bộ sách 12 tập của [Christopher Tolkien](../C/Christopher_Tolkien.md), *[The History of Middle-earth](The_History_of_Middle-earth.md)*, trong đó ông phân tích các bản thảo chưa xuất bản của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
 Cuốn sách này là tập hợp các câu chuyện đầu tiên, là dạng sớm nhất (bắt đầu từ [1917](../_/1917.md)) của [huyền thoại](../L/Legendarium.md) mà cuối cùng sẽ bao gồm *[The Silmarillion](The_Silmarillion.md)*. Sau mỗi câu chuyện đều có ghi chú và bình luận chi tiết của Christopher.
 
-Trong những Câu chuyện này, người ta tìm thấy những câu chuyện và ý tưởng ban đầu sớm nhất về [Các vị thần](../V/Valar.md) và [sự sáng tạo thế giới](../M/Music_of_the_Ainur.md), [Yêu tinh](../E/Elves.md) và việc họ đến [Valinor](../V/Valinor.md), [Hai Cây](Two_Trees.md) và [Silmarils](../S/Silmarils.md), vụ trộm Melko và [Cuộc lưu đày của các Noldoli](../E/Exile_of_the_Noldor.md). Những điều này sẽ được tiếp tục trong *[The Book of Lost Tales: Part Two](The_Book_of_Lost_Tales%253A_Part_Two.md)*.
+Trong những Câu chuyện này, người ta tìm thấy những câu chuyện và ý tưởng ban đầu sớm nhất về [Các vị thần](../V/Valar.md) và [sự sáng tạo ra thế giới](../M/Music_of_the_Ainur.md), [Tiên tộc](../E/Elves.md) và việc họ đến [Valinor](../V/Valinor.md), [Hai Cây](Two_Trees.md) và [Silmaril](../S/Silmarils.md), vụ trộm Melko và [Sự lưu đày của Noldoli](../E/Exile_of_the_Noldor.md). Những điều này sẽ được tiếp tục trong *[The Book of Lost Tales: Part Two](The_Book_of_Lost_Tales%253A_Part_Two.md)*.
 
 ## Tổng quan {#Overview}
 
-Mặc dù chúng có lịch sử tương tự nhau nhưng *Tales* rất khác với *The Silmarillion*. Thứ nhất, *Tales* phức tạp và chi tiết hơn *The Silmarillion*: chúng được viết theo phong cách ít trang trọng hơn nhưng cổ xưa hơn và bao gồm nhiều từ và cụm từ lỗi thời. Thứ hai, sự tương tác giữa các chủng tộc yêu tinh khác nhau rất khác nhau: Noldoli bị lưu đày (hay "Gnomes", Noldor trong lịch sử sau này) phải chịu thất bại quyết định sớm hơn nhiều và trở thành nô lệ của kẻ thù mà họ đã tìm cách trừng phạt.
+Mặc dù chúng có lịch sử tương tự nhau nhưng *Tales* rất khác với *The Silmarillion*. Thứ nhất, *Tales* phức tạp và chi tiết hơn *The Silmarillion*: chúng được viết theo phong cách ít trang trọng hơn nhưng cổ xưa hơn và bao gồm nhiều từ và cụm từ lỗi thời. Thứ hai, sự tương tác giữa các chủng tộc Tiên khác nhau rất khác nhau: những Noldoli bị lưu đày (hoặc "Gnomes", Noldor trong lịch sử sau này) phải chịu thất bại quyết định sớm hơn nhiều và trở thành nô lệ của kẻ thù mà họ tìm cách trừng phạt.
 
-Trong câu chuyện khung của cuốn sách, một Người đàn ông phàm trần đến thăm Đảo Tiên của [Tol Eressëa](Tol_Eressëa.md), nơi ông ta tìm hiểu lịch sử của những cư dân ở đó. Trong các phiên bản trước, người đàn ông này tên là [Eriol](../E/Eriol.md) và có nguồn gốc Bắc Âu mơ hồ. Trong các phiên bản sau, ông trở thành [Ælfwine](../_/Ælfwine.md), một người Anh thời Trung cổ.
+Trong câu chuyện khung của cuốn sách, một Người phàm đến thăm Elvish Đảo [Tol Eressëa](Tol_Eressëa.md), nơi ông ta tìm hiểu lịch sử của cư dân ở đó. Trong các phiên bản trước, người đàn ông này có tên là [Eriol](../E/Eriol.md) và có nguồn gốc Bắc Âu mơ hồ. Trong các phiên bản sau, ông trở thành [Ælfwine](../_/Ælfwine.md), một người Anh thời Trung cổ.
 
 ## Nội dung {#Contents}
 
 - Lời nói đầu
 
 - Tôi. "[Ngôi nhà của trò chơi lạc lối](The_Cottage_of_Lost_Play.md)" — câu chuyện "khuôn khổ"
-- II."[Âm nhạc của người Ainur](The_Music_of_the_Ainur.md)" — phiên bản đầu tiên của thứ sẽ trở thành *[Ainulindalë](../A/Ainulindalë.md)*
-- III. "[Sự xuất hiện của các Valar và sự xây dựng của Valinor](The_Coming_of_the_Valar_and_the_Building_of_Valinor.md)" — *[Valaquenta](../V/Valaquenta.md)* sau và các chương đầu tiên của *[Quenta Silmarillion](../Q/Quenta_Silmarillion.md)*
-- IV. "[The Chaining of Melko](The_Chaining_of_Melko.md)" — *Melko* là tên trước đây của [Melkor](../M/Morgoth.md)
-- V. "[Sự xuất hiện của Yêu tinh và sự hình thành Kôr](The_Coming_of_the_Elves_and_the_Making_of_Kôr.md)" — [Kôr](../K/Kôr.md) là [Tirion](Tirion.md) sau này và ngọn đồi [Túna](Túna.md) của nó
-- VI. "[Vụ trộm Melko và bóng tối của Valinor](The_Theft_of_Melko_and_the_Darkening_of_Valinor.md)"
-- VII. "[Chuyến bay của Noldoli](The_Flight_of_the_Noldoli.md)" — *Noldoli* là những Yêu tinh sau này được gọi là [Noldor](../N/Noldor.md)
-- VIII. "[Câu chuyện về mặt trời và mặt trăng](The_Tale_of_the_Sun_and_Moon.md)"
-- IX. "[Nơi ẩn náu của Valinor](The_Hiding_of_Valinor.md)"
+- II."[ Âm nhạc của các Ainur](The_Music_of_the_Ainur.md)" — phiên bản đầu tiên của thứ sẽ trở thành *[Ainulindalë](../A/Ainulindalë.md)*
+- III. "[Sự xuất hiện của Valar và sự xây dựng của Valinor](The_Coming_of_the_Valar_and_the_Building_of_Valinor.md)" — *[Valaquenta](../V/Valaquenta.md)* sau và các chương đầu tiên của *[Quenta Silmarillion](../Q/Quenta_Silmarillion.md)*
+- IV. "[Xâu chuỗi Melko](The_Chaining_of_Melko.md)" — *Melko* là tên trước đó của [Melkor](../M/Morgoth.md)
+- V. "[Sự xuất hiện của Tiên tộc và sự hình thành của Kôr](The_Coming_of_the_Elves_and_the_Making_of_Kôr.md)" — [Kôr](../K/Kôr.md) là [Tirion](Tirion.md) sau và ngọn đồi của nó [Túna](Túna.md)
+- VI. "[Vụ trộm Melko và Bóng tối Valinor](The_Theft_of_Melko_and_the_Darkening_of_Valinor.md)"
+- VIII. "[Chuyến bay của Noldoli](The_Flight_of_the_Noldoli.md)" — *Noldoli* là những Tiên tộc sau này được gọi là [Noldor](../N/Noldor.md)
+- VIII. "[Câu chuyện về Mặt Trời và Mặt Trăng](The_Tale_of_the_Sun_and_Moon.md)"
+- IX. "[Sự ẩn náu của Valinor](The_Hiding_of_Valinor.md)"
 - X. "[Gilfanon's Tale: The Travail of the Noldoli and the Coming of Mankind](../G/Gilfanon's_Tale%253A_The_Travail_of_the_Noldoli_and_the_Coming_of_Mankind.md)"
 
 - Phụ lục: Các tên trong phần *Lost Tales* - Phần I
@@ -104,7 +104,7 @@ Trong câu chuyện khung của cuốn sách, một Người đàn ông phàm tr
 
 ## Chữ khắc {#Inscriptions}
 
-Có một dòng chữ bằng ký tự [Tengwar](Tengwar.md) ở trang đầu tiên của mỗi tập *History of Middle-earth*, do Christopher Tolkien viết và mô tả nội dung cuốn sách. Dòng chữ trong cuốn sách tôi đọc:
+Có một dòng chữ bằng ký tự [Tengwar](Tengwar.md) ở những trang đầu tiên của mỗi tập *History of Middle-earth*, do Christopher Tolkien viết và mô tả nội dung của cuốn sách. Dòng chữ trong cuốn sách tôi đọc:
 
 <dl><dd>&#34;<i>This is the first part of the Book of the Lost Tales of Elfinesse which Eriol the Mariner learned from the Elves of Tol Eressëa, the Lonely Isle in the western ocean, and afterwards wrote in the <a href="../G/Golden_Book.md" title="Golden Book">Golden Book</a> of <a href="Tavrobel.md" title="Tavrobel">Tavrobel</a>. Herein are told the Tales of Valinor, from the Music of the Ainur to the Exile of the Noldoli and the Hiding of Valinor.</i>&#34;</dd></dl>
 
@@ -186,14 +186,14 @@ Có một dòng chữ bằng ký tự [Tengwar](Tengwar.md) ở trang đầu ti�
 		</li>
 </ul>
 
-- [George Allen & Unwin](../G/George_Allen_&_Unwin.md), bìa cứng ([1983](../_/1983.md)), trang 304. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0048232386">ISBN 0048232386</a>
+- [George Allen &amp; Unwin](../G/George_Allen_&_Unwin.md), bìa cứng ([1983](../_/1983.md)), trang 304. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0048232386">ISBN 0048232386</a>
 - Unicorn / Unwin Bìa mềm, bìa mềm ([1985](../_/1985.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0048232815">ISBN 0048232815</a> - (ảnh bìa của [Roger Garland](../R/Roger_Garland.md))
     - Ấn bản bìa mềm năm 1985, lần in thứ 4 ([1987](../_/1987.md))
 - [HarperCollins](../H/HarperCollins.md) bìa cứng ([1991](../_/1991.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0261102028">ISBN 0261102028</a>
 - [HarperCollins](../H/HarperCollins.md) bìa mềm ([1994](../_/1994.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0261102222">ISBN 0261102222</a> - (ảnh bìa của [John Howe](../J/John_Howe.md))
     - Ấn bản bìa mềm năm 1994, đặt lại ở [2002](../_/2002.md), sau đó ở [2015](../_/2015.md)
 - [HarperCollins](../H/HarperCollins.md) bìa cứng ([2010](../_/2010.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/000736525X">ISBN 000736525X</a>
-- [HarperCollins](../H/HarperCollins.md) bìa cứng với áo khoác chống bụi có thể đảo ngược ([2023](../_/2023.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/9780008663148">ISBN 978-0008663148</a> - ([Bộ đóng hộp thế kỷ](../C/Centenary_Boxed_Sets.md) #1)
+- [HarperCollins](../H/HarperCollins.md) bìa cứng có áo chống bụi có thể đảo ngược ([2023](../_/2023.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/9780008663148">ISBN 978-0008663148</a> - ([Bộ đóng hộp thế kỷ](../C/Centenary_Boxed_Sets.md) #1)
     - Ấn bản bìa mềm năm 2015, lần in thứ 41 ([2024](../_/2024.md))
 
 ## Liên kết ngoài {#External_links}

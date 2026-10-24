@@ -40,7 +40,7 @@ infobox:
 <p class="tg-quote-footer"><cite>Billy Connolly<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Ngài William Connolly** [CBE](../O/Order_of_the_British_Empire.md), hay được biết đến nhiều hơn với tên **Billy Connolly**, đóng vai [Dáin Ironfoot](../D/Dáin_Ironfoot.md) trong *[The Hobbit: The Battle of the Five Armies](../T/The_Hobbit%253A_The_Battle_of_the_Five_Armies.md)*.<sup id="cite_ref-BBCCasting1_2-0" class="reference"><a href="#cite_note-BBCCasting1-2">[2]</a></sup>
+**Ngài William Connolly** [CBE](../O/Order_of_the_British_Empire.md), hay được biết đến với tên **Billy Connolly**, đóng vai [Dáin Chân Sắt](../D/Dáin_Ironfoot.md) trong *[The Hobbit: The Battle of the Five Armies](../T/The_Hobbit%253A_The_Battle_of_the_Five_Armies.md)*.<sup id="cite_ref-BBCCasting1_2-0" class="reference"><a href="#cite_note-BBCCasting1-2">[2]</a></sup>
 
 ## Liên kết ngoài {#External_links}
 

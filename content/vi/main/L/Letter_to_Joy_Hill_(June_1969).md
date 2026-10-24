@@ -15,7 +15,7 @@ sort_keys:
   "Letters": "Hill, Joy (1969-06)"
 ---
 
-Vào tháng 6 [1969](../_/1969.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) gửi [Joy Hill](../J/Joy_Hill.md)**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Vào tháng 6 [1969](../_/1969.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho [Joy Hill](../J/Joy_Hill.md)**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 - **Chủ đề:** Nhận xét về việc chuyển thể *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.
 - **Xuất bản:** Đoạn trích từ bức thư xuất hiện lần đầu trong [*Carandaith* Tập 2, số 1](../C/Carandaith_Vol.2,_No.1.md).

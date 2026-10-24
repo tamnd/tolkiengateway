@@ -12,7 +12,7 @@ categories:
   - "Roots"
 ---
 
-**THON** là [Quendian nguyên thủy](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) không có bất kỳ ý nghĩa nào, ngoại trừ những gì có thể được xác định từ các dẫn xuất của nó.<sup id="cite_ref-LR_1-0" class="reference"><a href="#cite_note-LR-1">[1]</a></sup><sup id="cite_ref-VT_2-0" class="reference"><a href="#cite_note-VT-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 1]</a></sup>
+**THON** là một [Primitive Quendian](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) không có bất kỳ ý nghĩa nào, ngoại trừ những gì có thể được xác định từ các dẫn xuất của nó.<sup id="cite_ref-LR_1-0" class="reference"><a href="#cite_note-LR-1">[1]</a></sup><sup id="cite_ref-VT_2-0" class="reference"><a href="#cite_note-VT-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 1]</a></sup>
 
 ## Công cụ phái sinh {#Derivatives}
 
@@ -22,7 +22,7 @@ categories:
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Gốc được dịch là "THŌN-" bởi <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> trong <a href="The_Etymologies.md" title="The Etymologies"><i>Từ nguyên</i></a>đã xuất bản; biểu mẫu này đã được sửa thành "THON-" trong "<a href="../V/Vinyar_Tengwar_46.md" title="Vinyar Tengwar 46">Phụ lục và Sửa đổi cho <i>Từ nguyên</i></a>".</span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Gốc được hiển thị là "THŌN-" bởi <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> trong <a href="The_Etymologies.md" title="The Etymologies"><i>Etymologies</i></a>đã xuất bản; biểu mẫu này đã được sửa thành "THON-" trong "<a href="../V/Vinyar_Tengwar_46.md" title="Vinyar Tengwar 46">Phụ lục và Corrigenda của <i>Etymologies</i></a>".</span>
 </li>
 </ol></div></span>
 

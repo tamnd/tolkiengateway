@@ -25,35 +25,35 @@ sort_keys:
 ### Sách {#Books}
 
 - [2003](../_/2003.md): *[The Gospel According to Tolkien](../T/The_Gospel_According_to_Tolkien.md)*
-- [2015](../_/2015.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Tolkien_among_the_Moderns&amp;action=edit&amp;redlink=1" title="Tolkien among the Moderns (page does not exist)">Tolkien giữa những người hiện đại</a></i>
+- [2015](../_/2015.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Tolkien_among_the_Moderns&amp;action=edit&amp;redlink=1" title="Tolkien among the Moderns (page does not exist)">Tolkien giữa những người Hiện đại</a></i>
 
 ### Bài viết {#Articles}
 
 - [2002](../_/2002.md): *Christianity and Literature* #51
     - "Dạy và sống và chết 'Như chưa hề có chuyện gì xảy ra': Ví dụ về J.R.R. Tolkien"
 - [2003](../_/2003.md): [*Christian History*, Số 78](../C/Christian_History_78.md)
-    - "Thiện và Ác ở Trung Địa"
+    - "Thiện và Ác trong Trung Địa"
 - [2003](../_/2003.md): *Christian Century* #120
-    - "Niềm tin của Frodo: Sự thật ở Trung Địa"
+    - "Niềm tin củaFrodo: Trung Địa sự thật"
 - [2003](../_/2003.md): *Pages* Số tháng 9/tháng 10
-    - "Những gì Tolkien đã biết - và tin tưởng"
+    - "Điều Tolkien Đã Biết — và Đã Tin"
 - [2004](../_/2004.md): *Christian Reflection*
-    - "Sự tha thứ của Frodo"
+    - "Frodo Sự tha thứ"
 - [2004](../_/2004.md): *Reformed Quarterly*
-    - "Theo dấu vết người Hobbit: Ralph Wood, Chuyên gia về J.R.R. Tolkien" (phỏng vấn)
+    - "Đi theo con đường Hobbit: Ralph Wood, Chuyên gia về J.R.R. Tolkien" (phỏng vấn)
 - [2006](../_/2006.md): *Món quà của câu chuyện: Kể lại niềm hy vọng trong một thế giới hậu hiện đại* (eds. Emily Griesinger và Mark Eaton)
     - "J.R.R. Tolkien: Người có tầm nhìn hậu hiện đại về niềm hy vọng"
 - [2007](../_/2007.md): *[Tree of Tales: Tolkien, Literature, and Theology](../T/Tree_of_Tales%253A_Tolkien,_Literature,_and_Theology.md)* (eds. <a class="new" href="https://tolkiengateway.net/w/index.php?title=Trevor_Hart&amp;action=edit&amp;redlink=1" title="Trevor Hart (page does not exist)">Trevor Hart</a> và <a class="new" href="https://tolkiengateway.net/w/index.php?title=Ivan_Khovacs&amp;action=edit&amp;redlink=1" title="Ivan Khovacs (page does not exist)">Ivan Khovacs</a>)
-    - "Sự hiểu biết theo kiểu Augustinô của Tolkien về Thiện và Ác: Tại sao *The Lord of the Rings* không phải là Manichean"
+    - "Tolkien Sự hiểu biết theo kiểu Augustinô về Thiện và Ác: Tại sao *The Lord of the Rings* không phải là Manichean"
 - [2008](../_/2008.md): *[The Ring Goes Ever On: Proceedings of the Tolkien 2005 Conference](../T/The_Ring_Goes_Ever_On%253A_Proceedings_of_the_Tolkien_2005_Conference.md)*
     - "J.R.R.Tolkien: Đương đại hậu hiện đại của chúng ta"
 
 ### Đánh giá {#Reviews}
 
 - [1979](../_/1979.md): *Christian Century* #96
-    - Đánh giá về [Humphrey Carpenter](../H/Humphrey_Carpenter.md)'s *[The Inklings](<../T/The_Inklings_(book).md>)*
+    - Đánh giá về *[The Inklings](<../T/The_Inklings_(book).md>)* của [Humphrey Carpenter](../H/Humphrey_Carpenter.md)
 - [1999](../_/1999.md): *VII: An Anglo-American Literary Review* #16
-    - Đánh giá về [Verlyn Flieger](../V/Verlyn_Flieger.md) của *[A Question of Time: J.R.R. Tolkien's Road to Faërie](../A/A_Question_of_Time%253A_J.R.R._Tolkien's_Road_to_Faërie.md)*
+    - Đánh giá về *[A Question of Time: J.R.R. Tolkien's Road to Faërie](../A/A_Question_of_Time%253A_J.R.R._Tolkien's_Road_to_Faërie.md)* của [Verlyn Flieger](../V/Verlyn_Flieger.md)
 - [2001](../_/2001.md): *Christian Century* #118
     - "Frodo Lives" (đánh giá của [Tom Shippey](../T/Tom_Shippey.md) *[J.R.R. Tolkien: Author of the Century](../J/J.R.R._Tolkien%253A_Author_of_the_Century.md)*)
 

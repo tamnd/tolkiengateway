@@ -11,4 +11,4 @@ redirect_target: "Avari"
 redirect_fragment: "Names"
 ---
 
-Chuyển hướng tới [Avari](../A/Avari.md#Names).
+Chuyển hướng đến [Avari](../A/Avari.md#Names).

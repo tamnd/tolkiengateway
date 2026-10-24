@@ -18,15 +18,15 @@ sort_keys:
   "The Tolkien Society": "Enyalie"
 ---
 
-**Enyalië** (phát âm là \[<span title="Pronunciation in IPA" class="IPA">enˈjalie</span>\] /*en-<b><span style="font-variant:small-caps;">yar</span></b>-ly-eh*/) là một hoạt động thường niên được tổ chức như là phần kết thúc lễ kỷ niệm [Oxonmoot](../O/Oxonmoot.md) của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Enyalië** (phát âm là \[<span title="Pronunciation in IPA" class="IPA">enˈjalie</span>\] /*en-<b><span style="font-variant:small-caps;">yar</span></b>-ly-eh*/) là một hoạt động thường niên được tổ chức như là phần kết thúc lễ kỷ niệm [Oxonmoot](../O/Oxonmoot.md) của [Hội Tolkien](../T/The_Tolkien_Society.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Vào sáng Chủ nhật của hội nghị [Oxonmoot](../O/Oxonmoot.md), những người tham dự sự kiện sẽ đi xe khách đến [Nghĩa trang Wolvercote](../W/Wolvercote_Cemetery.md) nơi chôn cất [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và vợ ông [Edith](Edith_Tolkien.md). Enyalië là một buổi lễ đặt vòng hoa "sầm uất" bao gồm một "hành động tưởng nhớ ngắn ngủi" bên mộ Tolkien.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Chủ tịch Hội đọc một đoạn trong tác phẩm của Tolkien trong khi bài hát [Namárië](../N/Namárië.md) được hát bởi một trong những thành viên lâu năm của Hội.<sup id="cite_ref-TS_3-0" class="reference"><a href="#cite_note-TS-3">[3]</a></sup>
+Vào sáng Chủ nhật của hội nghị [Oxonmoot](../O/Oxonmoot.md), những người tham dự sự kiện sẽ đi xe khách đến [Nghĩa trang Wolvercote](../W/Wolvercote_Cemetery.md) nơi chôn cất [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và vợ ông [Edith](Edith_Tolkien.md). Enyalië là một nghi lễ đặt vòng hoa "sầm uất" bao gồm một "hành động tưởng nhớ ngắn gọn" bên mộ Tolkien.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Chủ tịch Hội đọc một đoạn trong tác phẩm của Tolkien trong khi bài hát [Namárië](../N/Namárië.md) được hát bởi một trong những thành viên lâu năm của Hội.<sup id="cite_ref-TS_3-0" class="reference"><a href="#cite_note-TS-3">[3]</a></sup>
 
-Cựu Chủ tịch [Hiệp hội Tolkien](../T/The_Tolkien_Society.md), [Shaun Gunner](../S/Shaun_Gunner.md), đã mô tả sự kiện này là "sâu sắc và cảm động" đồng thời lưu ý rằng "nhiều người coi đây là hoạt động quan trọng nhất của Oxonmoot".<sup id="cite_ref-TS_3-1" class="reference"><a href="#cite_note-TS-3">[3]</a></sup>
+Cựu Chủ tịch [Hội Tolkien](../T/The_Tolkien_Society.md), [Shaun Gunner](../S/Shaun_Gunner.md), mô tả sự kiện này là "sâu sắc và cảm động" đồng thời lưu ý rằng "nhiều người coi đây là hoạt động quan trọng nhất của Oxonmoot".<sup id="cite_ref-TS_3-1" class="reference"><a href="#cite_note-TS-3">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Enyalië* là danh từ [Quenya](../Q/Quenya.md) có nghĩa là "ký ức"<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> hoặc "tưởng nhớ".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Nó xuất hiện trong [Lời thề của Eorl](../O/Oath_of_Eorl.md) - ở dạng *enyalien* - được xuất bản trong *[Unfinished Tales](../U/Unfinished_Tales.md)*.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+*Enyalië* là một danh từ [Quenya](../Q/Quenya.md) có nghĩa là "ký ức"<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> hoặc "tưởng nhớ".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Nó có trong [Lời thề của Eorl](../O/Oath_of_Eorl.md) - ở dạng *enyalien* - được xuất bản trong *[Unfinished Tales](../U/Unfinished_Tales.md)*.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 <span></span>
 

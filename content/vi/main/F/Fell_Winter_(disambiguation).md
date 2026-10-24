@@ -14,14 +14,14 @@ images:
   - "Disambig.png"
 ---
 
-Có hai mùa đông đặc biệt khắc nghiệt ở [Trung Địa](../M/Middle-earth.md) được gọi là **Mùa đông mùa thu**:
+Có hai mùa đông đặc biệt khắc nghiệt ở [Trung Địa](../M/Middle-earth.md) được gọi là **Mùa Đông Khắc Nghiệt**:
 
-- [Mùa đông](<Fell_Winter_(First_Age).md>), [F.A.](First_Age.md) [495](First_Age_495.md)/[496](First_Age_496.md).
-- [Mùa đông](<Fell_Winter_(Third_Age).md>), [T.A.](../T/Third_Age.md) [2911](../T/Third_Age_2911.md)/[2912](../T/Third_Age_2912.md).
+- Các [Mùa Đông Khắc Nghiệt](<Fell_Winter_(First_Age).md>), [F.A.](First_Age.md) [495](First_Age_495.md)/[496](First_Age_496.md).
+- Các [Mùa Đông Khắc Nghiệt](<Fell_Winter_(Third_Age).md>), [T.A.](../T/Third_Age.md) [2911](../T/Third_Age_2911.md)/[2912](../T/Third_Age_2912.md).
 
 ## Xem thêm {#See_also}
 
-- [Mùa đông dài](../L/Long_Winter.md)
+- [Mùa Đông Dài](../L/Long_Winter.md)
 
 <hr style="margin-top:15px;"/>
 

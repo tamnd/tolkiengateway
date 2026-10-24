@@ -33,9 +33,9 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tolkien,_Race_and_Cultural_History.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/31/Tolkien%2C_Race_and_Cultural_History.jpg/302px-Tolkien%2C_Race_and_Cultural_History.jpg" decoding="async" loading="lazy" width="302" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/31/Tolkien%2C_Race_and_Cultural_History.jpg/453px-Tolkien%2C_Race_and_Cultural_History.jpg 1.5x, https://tolkiengateway.net/w/images/3/31/Tolkien%2C_Race_and_Cultural_History.jpg 2x" data-file-width="583" data-file-height="927"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Tolkien, Race and Cultural History: <br/><small>From Fairies to Hobbits</small></span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a href="../D/Dimitra_Fimi.md" title="Dimitra Fimi">Dimitra Fimi</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Basingstoke, UK: Palgrave Macmillan</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/20_November.md" title="20 November">20 November</a> <a href="../_/2008.md" title="2008">2008</a> (28 July 2010)</td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Hardcover (Paperback)</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">252 (256)</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/9780230219519" title="Special:BookSources/9780230219519">9780230219519</a></td></tr></tbody></table>
 
-<i><b>Tolkien, Lịch sử chủng tộc và văn hóa: Từ các nàng tiên đến người Hobbit</b></i> là một cuốn sách [2008](../_/2008.md) của [Dimitra Fimi](../D/Dimitra_Fimi.md).
+<i><b>Tolkien, Lịch sử chủng tộc và văn hóa: Từ nàng tiên đến Hobbit</b></i> là cuốn sách [2008](../_/2008.md) của [Dimitra Fimi](../D/Dimitra_Fimi.md).
 
-Cuốn sách đã giành được Giải thưởng Học bổng Thần thoại dành cho Nghiên cứu về Inklings năm 2010 ([Hiệp hội Thần thoại](../M/Mythopoeic_Society.md), Hoa Kỳ) và lọt vào danh sách rút gọn cho Giải thưởng Văn hóa Dân gian Katharine Briggs năm 2009 (Hiệp hội Văn hóa Dân gian, London).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Cuốn sách đã đoạt giải Giải thưởng Học thuật Mythopoeic cho Nghiên cứu về nhóm Inklings năm 2010 ([Hiệp hội thần thoại](../M/Mythopoeic_Society.md), Hoa Kỳ) và lọt vào danh sách rút gọn cho Giải thưởng văn hóa dân gian Katharine Briggs năm 2009 (Hiệp hội văn hóa dân gian, London).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nhà xuất bản {#From_the_publisher}
 
@@ -51,7 +51,7 @@ Cuốn sách đã giành được Giải thưởng Học bổng Thần thoại d
 - Các quy ước và chữ viết tắt
 
 1. Giới thiệu
-    - 'Cái vớ vẩn riêng tư và đáng yêu' của ông: *The Silmarillion* và 'Silmarillion'
+    - 'Chuyện vớ vẩn riêng tư và đáng yêu' của ông: *The Silmarillion* và 'Silmarillion'
     - Sự khởi đầu thời Victoria và sự kết thúc hiện đại
     - 'Tôi nắm giữ chìa khóa': xây dựng 'huyền thoại tiểu sử'
 
@@ -61,7 +61,7 @@ Cuốn sách đã giành được Giải thưởng Học bổng Thần thoại d
 
 - Những điều cổ tích và xứ sở thần tiên
 - Việc tạo ra một câu chuyện
-- Các nàng tiên và yêu tinh trong văn học thiếu nhi Tolkien
+- Tiên và Tiên tộc trong văn học thiếu nhi Tolkien
 
 1. 'Những sinh vật rung rinh với râu': Những tưởng tượng thời Victoria và Edward
     - 'Sự tinh tế của hoa và bướm': hình ảnh bức tranh cổ tích
@@ -98,20 +98,20 @@ Cuốn sách đã giành được Giải thưởng Học bổng Thần thoại d
 
 1. Một thế giới có thứ bậc
     - 'Chủng tộc' và nhân học chủng tộc
-    - Quan điểm của Tolkien về Đức Quốc xã, chủng tộc và ngôn ngữ
-    - Tập trung vào Trung địa: xây dựng hệ thống phân cấp mới
-    - Hỗn hợp chủng tộc: vấn đề của Half-Elven
-    - Bộ mặt của ác quỷ: nguồn gốc và sự xuất hiện của loài Orc
+Quan điểm của     - Tolkien về Đức Quốc xã, chủng tộc và ngôn ngữ
+    - Tập trung vào Trung Địa: xây dựng hệ thống phân cấp mới
+    - Hỗn hợp chủng tộc: vấn đề của một nửa-Tiên
+    - Bộ mặt của cái ác: nguồn gốc và hình dáng của Orc
     - Tolkien và cáo buộc phân biệt chủng tộc
-2. Hình dung Trung Địa: Văn hóa vật chất thực và tưởng tượng
+2. Trực quan hóa Trung Địa: Văn hóa vật chất thực và tưởng tượng
     - Ý tưởng về các 'văn hóa' lịch sử và tiền sử châu Âu
-    - Văn hóa Gondor: chôn cất tàu và mũ sắt có cánh
+    - Văn hóa Gondor: mai táng tàu và mũ có cánh
     - 'Chambers', 'Windows' và người Anglo-Saxon
-    - Nông thôn thời Victoria và di tích của cuộc cách mạng công nghiệp: văn hóa vật chất của Quận
+    - Nông thôn thời Victoria và di tích của cuộc cách mạng công nghiệp: văn hóa vật chất của Shire
     - Khảo cổ học lãng mạn
-3. Phần kết: Từ nàng tiên đến người Hobbit
+3. Phần kết: Từ nàng tiên đến Hobbit
     - Sai lầm và mâu thuẫn
-    - Sự trỗi dậy của người Hobbit và số phận của các nàng tiên
+    - Sự trỗi dậy của người hobbit và số phận của các nàng tiên
 
 - Phụ lục: 'Sau đó là sự héo mòn?': Bước Vào Đường
 - Ghi chú

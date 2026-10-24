@@ -12,9 +12,9 @@ categories:
   - "Westron words"
 ---
 
-**Zaragamba** là tên thật của họ cũ [Hobbitish](../H/Hobbitish.md) "[Oldbuck](../O/Oldbuck_Family.md)".
+**Zaragamba** là tên thật của [Hobbitish](../H/Hobbitish.md) họ cũ "[Oldbuck](../O/Oldbuck_Family.md)".
 
-Khi [Gorhendad](../G/Gorhendad_Oldbuck.md) du hành về phía đông và thành lập [Buckland](../B/Buckland.md) ở biên giới Quận, họ đổi thành *[Brandagamba](../B/Brandagamba.md)*.
+Khi [Gorhendad](../G/Gorhendad_Oldbuck.md) du hành về phía đông và thành lập [Buckland](../B/Buckland.md) trên biên giới của Shire, họ đổi thành *[Brandagamba](../B/Brandagamba.md)*.
 
 ## Từ nguyên {#Etymology}
 

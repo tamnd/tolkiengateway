@@ -19,11 +19,11 @@ images:
 
 <b>Lời nói đầu cho <i>Bảng thuật ngữ mới về phương ngữ của Quận Huddersfield</i></b> đề cập đến Lời nói đầu của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) cho *[A New Glossary of the Dialect of the Huddersfield District](../A/A_New_Glossary_of_the_Dialect_of_the_Huddersfield_District.md)* ([1928](../_/1928.md)) của Walter E. Haigh.
 
-Trong Lời nói đầu của mình, Tolkien thảo luận về việc biên soạn các bảng thuật ngữ và sự phát triển của ngôn ngữ tiếng Anh ở <a class="extiw" href="http://en.wikipedia.org/wiki/Northern_England" title="wikipedia:Northern England">Miền Bắc nước Anh</a>.<sup id="cite_ref-TB_1-0" class="reference"><a href="#cite_note-TB-1">[1]</a></sup>
+Trong Lời nói đầu, Tolkien thảo luận về việc biên soạn các bảng chú giải thuật ngữ và sự phát triển của ngôn ngữ tiếng Anh ở <a class="extiw" href="http://en.wikipedia.org/wiki/Northern_England" title="wikipedia:Northern England">Miền Bắc nước Anh</a>.<sup id="cite_ref-TB_1-0" class="reference"><a href="#cite_note-TB-1">[1]</a></sup>
 
 ## Đọc thêm {#Further_reading}
 
-- <small><a href="../J/Janet_Brennan_Croft.md" title="Janet Brennan Croft">Janet Brennan Croft</a>: "Walter E. Haigh, Tác giả của <i>Bảng thuật ngữ mới về phương ngữ Huddersfield</i>", trong <a href="../T/Tolkien_Studies%253A_Volume_4.md" title="Tolkien Studies: Volume 4"><i>Nghiên cứu Tolkien</i>: Tập 4</a></small>
+- <small><a href="../J/Janet_Brennan_Croft.md" title="Janet Brennan Croft">Janet Brennan Croft</a>: "Walter E. Haigh, Tác giả của <i>Bảng thuật ngữ mới về phương ngữ Huddersfield</i>", trong <a href="../T/Tolkien_Studies%253A_Volume_4.md" title="Tolkien Studies: Volume 4"><i>Tolkien Nghiên cứu</i>: Tập 4</a></small>
 
 <span></span>
 

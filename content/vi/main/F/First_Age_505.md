@@ -16,12 +16,12 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="../T/Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><b>I</b><a href="../S/Second_Age.md" title="Second Age">II</a><a href="../T/Third_Age.md" title="Third Age">III</a><a href="Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="First_Age_502.md" title="First Age 502">502</a><a href="First_Age_503.md" title="First Age 503">503</a><a href="First_Age_504.md" title="First Age 504">504</a><a class="mw-selflink selflink">505</a><a href="First_Age_506.md" title="First Age 506">506</a><a href="First_Age_507.md" title="First Age 507">507</a><a href="First_Age_509.md" title="First Age 509">509</a></div></div></div></div></div></div>
 
-**Kỷ nguyên thứ nhất 505** (viết tắt là **F.A. 505**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 505 của [Kỷ nguyên thứ nhất](First_Age.md) của [Trung Địa](../M/Middle-earth.md).
+**Kỷ Đệ Nhất 505** (viết tắt là **F.A. 505**) là năm [thứ 505 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Nhất](First_Age.md) của [Trung Địa](../M/Middle-earth.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- Biết rằng [Silmaril](../S/Silmaril.md) nằm ở [Doriath](../D/Doriath.md), [Sons of Fëanor](../S/Sons_of_Fëanor.md) tổ chức hội đồng; [Maedhros](../M/Maedhros.md) kiềm chế những người anh em của mình.<sup id="cite_ref-WJ_1-0" class="reference"><a href="#cite_note-WJ-1">[1]</a></sup>
-- [Vua](../K/King_of_Doriath.md) [Dior](../D/Dior.md) nhận được một tin nhắn, trong đó yêu cầu trả lại Viên ngọc về quyền sở hữu của [House of Fëanor](../H/House_of_Fëanor.md) nhưng ông không đưa ra câu trả lời.<sup id="cite_ref-WJ_1-1" class="reference"><a href="#cite_note-WJ-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- Biết [Silmaril](../S/Silmaril.md) nằm trong [Doriath](../D/Doriath.md), [các Con trai của Fëanor](../S/Sons_of_Fëanor.md) tổ chức hội đồng; [Maedhros](../M/Maedhros.md) kiềm chế anh em của mình.<sup id="cite_ref-WJ_1-0" class="reference"><a href="#cite_note-WJ-1">[1]</a></sup>
+- [Vua](../K/King_of_Doriath.md) [Dior](../D/Dior.md) nhận được một tin nhắn, trong đó yêu cầu trả lại Viên ngọc để sở hữu [Nhà Fëanor](../H/House_of_Fëanor.md), nhưng ông ta không đưa ra câu trả lời.<sup id="cite_ref-WJ_1-1" class="reference"><a href="#cite_note-WJ-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

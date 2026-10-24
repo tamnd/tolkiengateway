@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Brigands of Mirkwood"
 ---
 
-Chuyển hướng tới [Brigands of Mirkwood](../B/Brigands_of_Mirkwood.md).
+Chuyển hướng đến [Brigands của Mirkwood](../B/Brigands_of_Mirkwood.md).

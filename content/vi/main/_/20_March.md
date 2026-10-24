@@ -78,6 +78,6 @@ Sự kiện xảy ra vào ngày 20 tháng 3
 - [T.A.](../T/Third_Age.md) [2510](../T/Third_Age_2510.md):
     - [Borondir](../B/Borondir.md) đang trên đường tìm kiếm [Éothéod](Éothéod.md).
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - [Chủ nhà của phương Tây](../A/Army_of_the_West.md) tiến về [Cổng đen](../B/Black_Gate.md).
+    - Đội [Đạo quân Phương Tây](../A/Army_of_the_West.md) tiến về phía [Cổng Đen](../B/Black_Gate.md).
     - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) tiếp tục cuộc hành trình dọc theo con đường đến [Barad-dûr](../B/Barad-dûr.md).
-    - [Faramir](../F/Faramir.md) gặp [Éowyn](Éowyn.md) tại [Ngôi nhà chữa bệnh](../H/Houses_of_Healing.md).
+    - [Faramir](../F/Faramir.md) gặp [Éowyn](Éowyn.md) tại [Nhà chữa bệnh](../H/Houses_of_Healing.md).

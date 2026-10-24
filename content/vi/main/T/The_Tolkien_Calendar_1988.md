@@ -43,15 +43,15 @@ infobox:
 - Bìa - "[Cái chết của Smaug](../../file/J/John_Howe_-_Smaug_Destroys_Lake-town.jpg.md)" của [John Howe](../J/John_Howe.md)
 - Tháng 1 - "[Rivendell](../../file/J/J.R.R._Tolkien_-_Rivendell.jpg.md)" của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)
 - Tháng 2 - "[The Great Goblin](../../file/J/John_Howe_-_The_Great_Goblin.jpg.md)" của John Howe
-- Tháng 3 - "[Gollum bị đánh bại](../../file/T/Ted_Nasmith_-_Gollum_is_Defeated.jpg.md)" của [Ted Nasmith](Ted_Nasmith.md)
-- Tháng 4 - "[Những chú đại bàng đến giải cứu](../../file/T/Ted_Nasmith_-_Eagles_to_the_Rescue.jpg.md)" của Ted Nasmith
+- Tháng 3 - "[Gollum bị đánh bại](../../file/T/Ted_Nasmith_-_Gollum_is_Defeated.jpg.md)" bởi [Ted Nasmith](Ted_Nasmith.md)
+- Tháng 4 - "[Đại Bàng đến giải cứu](../../file/T/Ted_Nasmith_-_Eagles_to_the_Rescue.jpg.md)" của Ted Nasmith
 - Tháng 5 - "[Công ty không được mời](../../file/T/Ted_Nasmith_-_At_Beorns_Hall.jpg.md)" của Ted Nasmith
-- Tháng 6 - "[Bilbo đến túp lều của Yêu tinh bè](<../../file/J/J.R.R._Tolkien_-_Bilbo_comes_to_the_Huts_of_the_Raft-elves_(II).jpg.md>)" của J.R.R. Tolkien
+- Tháng 6 - "[Bilbo đến Lều Bè-Tiên tộc](<../../file/J/J.R.R._Tolkien_-_Bilbo_comes_to_the_Huts_of_the_Raft-elves_(II).jpg.md>)" của J.R.R. Tolkien
 - Tháng 7 - "[Cuộc trò chuyện với Smaug](<../../file/J/J.R.R._Tolkien_-_Conversation_with_Smaug_(large).jpg.md>)" của J.R.R. Tolkien
-- Tháng 8 - "[Smaug the Magnificent](../../file/R/Roger_Garland_-_Smaug_the_Magnificent.JPG.md)" của [Roger Garland](../R/Roger_Garland.md)
-- Tháng 9 - "[Cái chết của Smaug](../../file/J/John_Howe_-_Smaug_Destroys_Lake-town.jpg.md)" của John Howe
+- Tháng 8 - "[Smaug Người tráng lệ](../../file/R/Roger_Garland_-_Smaug_the_Magnificent.JPG.md)" của [Roger Garland](../R/Roger_Garland.md)
+- tháng Chín - "[Cái chết của Smaug](../../file/J/John_Howe_-_Smaug_Destroys_Lake-town.jpg.md)" của John Howe
 - Tháng 10 - "[The Ravens](../../file/J/John_Howe_-_Roac,_Son_of_Carc.jpg.md)" của John Howe
-- Tháng 11 - "[Arkenstone được tiết lộ](../../file/T/Ted_Nasmith_-_The_Arkenstone.jpg.md)" của Ted Nasmith
+- Tháng 11 - "[ Arkenstone được tiết lộ](../../file/T/Ted_Nasmith_-_The_Arkenstone.jpg.md)" của Ted Nasmith
 - Tháng 12 - "[The Hill: Hobbiton-across-the-Water](<../../file/J/J.R.R._Tolkien_-_The_Hill_-_Hobbiton-across-the-Water_(Colored).jpg.md>)" của J.R.R. Tolkien
 
 ## Xem thêm {#See_also}
@@ -61,7 +61,7 @@ infobox:
 ## Liên kết ngoài {#External_links}
 
 - <a class="external text" href="http://www.tolkienbooks.net/php/caldetails.php?reference=94200" rel="noreferrer noopener" target="_blank">Lịch Tolkien 1988</a> tại <a class="external text" href="http://www.tolkienbooks.net" rel="noreferrer noopener" target="_blank">TolkienBooks.net</a>
-- <a class="external text" href="http://tolkiencalendars.com/1985_1988.html" rel="noreferrer noopener" target="_blank">Lịch Tolkien 1985 - 1988</a> tại <a class="external text" href="http://tolkiencalendars.com/" rel="noreferrer noopener" target="_blank">The Compleat Gyde to Tolkien Calendars</a>
+- <a class="external text" href="http://tolkiencalendars.com/1985_1988.html" rel="noreferrer noopener" target="_blank">Tolkien Lịch 1985 - 1988</a> tại <a class="external text" href="http://tolkiencalendars.com/" rel="noreferrer noopener" target="_blank">The Compleat Gyde đến Tolkien Lịch</a>
 
 <table style="margin:0 auto;" class="collapsible toccolours" width="100%" align="center">
 <tbody><tr>

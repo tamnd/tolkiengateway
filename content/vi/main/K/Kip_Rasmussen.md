@@ -21,7 +21,7 @@ sort_keys:
 
 **Kip Rasmussen** là họa sĩ minh họa cho các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
-Một trong những mục tiêu của anh với tư cách là một nghệ sĩ là quảng bá *[The Silmarillion](../T/The_Silmarillion.md)* tới những người hâm mộ những tác phẩm quen thuộc hơn của Tolkien.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Tác phẩm của anh được giới thiệu trong *[Tolkien Calendar 2023](../T/Tolkien_Calendar_2023.md)*.
+Một trong những mục tiêu của anh với tư cách là một nghệ sĩ là quảng bá *[The Silmarillion](../T/The_Silmarillion.md)* tới những người hâm mộ các tác phẩm quen thuộc hơn của Tolkien.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Tác phẩm của anh được giới thiệu trong *[Tolkien Calendar 2023](../T/Tolkien_Calendar_2023.md)*.
 
 ## Xem thêm {#See_also}
 

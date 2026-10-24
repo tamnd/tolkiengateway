@@ -12,7 +12,7 @@ categories:
   - "Roots"
 ---
 
-KHOP là [Quendian nguyên thủy](../P/Primitive_Quendian.md) [Root](../R/Root.md) biểu thị bến cảng. <sup id="cite_ref-:0_1-0" class="reference"><a href="#cite_note-:0-1">[1]</a></sup>
+KHOP là [Primitive Quendian](../P/Primitive_Quendian.md) [Gốc](../R/Root.md) biểu thị bến cảng. <sup id="cite_ref-:0_1-0" class="reference"><a href="#cite_note-:0-1">[1]</a></sup>
 
 ## Công cụ phái sinh {#Derivatives}
 

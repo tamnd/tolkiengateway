@@ -29,7 +29,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Wollheim đã lặp lại lời đề nghị<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[notes 1]</a></sup> của mình về việc thành lập Giải thưởng Tolkien bằng cách sử dụng tất cả tiền bản quyền kiếm được từ ấn bản trái phép của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* và một nửa số tiền bản quyền sẽ thuộc về Tolkien. Tolkien cũng từ chối lời đề nghị này và hỏi tại sao giải thưởng Tolkien lại được coi là xứng đáng gấp đôi giải thưởng tác giả còn sống.
+Wollheim đã lặp lại lời đề nghị<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[notes 1]</a></sup> của mình về việc thành lập Giải thưởng Tolkien bằng cách sử dụng tất cả tiền bản quyền kiếm được từ phiên bản trái phép của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* và một nửa số tiền bản quyền sẽ được chuyển đến Tolkien. Tolkien cũng từ chối lời đề nghị này và hỏi tại sao giải thưởng Tolkien lại được coi là xứng đáng gấp đôi giải thưởng tác giả còn sống.
 
 ## Ghi chú {#Notes}
 

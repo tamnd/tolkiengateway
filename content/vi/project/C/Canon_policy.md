@@ -18,7 +18,7 @@ images:
 
 <table class="noprint" style="float: right; border:var(--tg-border-base); background:var(--tg-color-surface-2); margin: .3em .3em .3em 1em; padding: 10px; text-align: center;border-radius:var(--tg-border-radius-large);"><tbody><tr><th style="border: none; background: transparent;" class="plainlist"><small>Shortcut:<br/><a class="mw-redirect" href="CANON.md" title="Tolkien Gateway:CANON">TG:CANON</a></small></th></tr></tbody></table>
 
-**Chính sách của Canon** là chính sách của [Tolkien Gateway](../../main/T/Tolkien_Gateway.md) về cách xử lý [canon](../../main/C/Canon.md) xung đột. Chính sách hiện tại được tóm tắt bởi [User:Mith](https://tolkiengateway.net/wiki/User:Mith):
+**Chính sách của Canon** là chính sách của [Tolkien Gateway](../../main/T/Tolkien_Gateway.md) về cách giải quyết [canon](../../main/C/Canon.md) xung đột. Chính sách hiện tại được tóm tắt bởi [User:Mith](https://tolkiengateway.net/wiki/User:Mith):
 
 <blockquote class="tg-quote noexcerpt">
 <p><b>It is not - and can not - be our place to decide what is canon and what is not</b>. This incurs too many value judgements on our part and opens us up to too much criticism. Certain things are canonical, certain things are not, and there is a lot of grey. The best we can do is admit the situation is grey. For articles in the grey we can have a &#34;Canonicity&#34; section. And that could list, dispassionately, arguments for and against.
@@ -36,17 +36,17 @@ Canon là một khái niệm không thể áp dụng thống nhất cho [huyền
 <p class="tg-quote-footer"><cite><a href="../../main/W/Wayne_G._Hammond.md" title="Wayne G. Hammond">Wayne G. Hammond</a> paraphrasing Jeremy Marshal in <i><a href="../../main/T/Tolkien&#39;s_Legendarium.md" title="Tolkien&#39;s Legendarium">Tolkien&#39;s Legendarium: Essays on The History of Middle-earth</a></i><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></cite></p>
 </blockquote>
 
-Một "[quy điển](../../main/C/Canon.md)" nhất quán của Tolkien chỉ có thể tồn tại nếu một nhóm hoặc một cá nhân quyết định điều gì nên được coi là "quy chuẩn" và điều gì không nên. Việc các biên tập viên của [Tolkien Gateway](../../main/T/Tolkien_Gateway.md) đưa ra những đánh giá như vậy có nghĩa là họ đưa ra quan điểm của riêng mình về những vấn đề như vậy, do đó vi phạm các nguyên tắc của một bộ bách khoa toàn thư. Việc tìm kiếm tính khách quan chỉ có thể tiết lộ rằng suy nghĩ của Tolkien về các khái niệm cụ thể đã thay đổi theo thời gian vì nhiều lý do.
+Một Tolkien "[canon](../../main/C/Canon.md)" nhất quán chỉ có thể tồn tại nếu một nhóm hoặc một cá nhân quyết định điều gì nên được coi là "chuẩn" và điều gì không. Việc các biên tập viên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md) đưa ra những đánh giá như vậy có nghĩa là họ đưa ra quan điểm riêng của mình về những vấn đề đó, do đó vi phạm các nguyên tắc của một bộ bách khoa toàn thư. Việc tìm kiếm tính khách quan chỉ có thể tiết lộ rằng suy nghĩ của Tolkien về các khái niệm cụ thể đã thay đổi theo thời gian của khóa học vì nhiều lý do.
 
-Có rất nhiều điểm mâu thuẫn nổi tiếng trong các bài viết cá nhân của Tolkien. Ví dụ, khi làm việc trên di tích huyền thoại của mình, Tolkien đã xem xét hai câu chuyện rất khác nhau về nguồn gốc của [Celeborn](../../main/C/Celeborn.md): trong một phiên bản, ông là [họ hàng](../../main/S/Sindar.md) của [Thingol](../../main/T/Thingol.md) sống ở [Doriath](../../main/D/Doriath.md), nơi ông gặp [Galadriel](../../main/G/Galadriel.md);<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> trong một bài viết khác, Celeborn là [Teler](../../main/F/Falmari.md) của [Alqualondë](../../main/A/Alqualondë.md) nơi ông gặp Galadriel.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Vì cả hai phiên bản đó đều không được thiết lập trong các tác phẩm đã xuất bản của ông trong suốt cuộc đời của Tolkien, nên Tolkien Gateway không nên ưu tiên phiên bản nào của các sự kiện và cả hai đều phải được trình bày và giải thích cho người đọc.
+Có rất nhiều điểm mâu thuẫn nổi tiếng trong các bài viết cá nhân của Tolkien. Ví dụ: khi làm việc trên di tích huyền thoại Tolkien của ông, đã xem xét hai câu chuyện rất khác nhau về nguồn gốc của [Celeborn](../../main/C/Celeborn.md): trong một phiên bản, ông là [họ hàng](../../main/S/Sindar.md) của [Thingol](../../main/T/Thingol.md) sống ở [Doriath](../../main/D/Doriath.md), nơi ông gặp [Galadriel](../../main/G/Galadriel.md);<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> trong một bài viết khác, Celeborn là [Teler](../../main/F/Falmari.md) của [Alqualondë](../../main/A/Alqualondë.md) nơi ông gặp Galadriel.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Vì cả hai phiên bản đó đều không được thiết lập trong các tác phẩm đã xuất bản của ông trong suốt cuộc đời của Tolkien, nên Tolkien Gateway không nên ưu tiên phiên bản nào của các sự kiện và cả hai phiên bản đó đều phải được trình bày và giải thích cho người đọc.
 
 ## Chính sách {#Policy}
 
-Chính sách kinh điển hiện tại của [Tolkien Gateway](../../main/T/Tolkien_Gateway.md) đã được quyết định tại [cuộc họp cộng đồng vào tháng 7 năm 2012](../M/Meetings%252F1_July_2012.md):
+Chính sách giáo luật hiện tại của [Tolkien Gateway](../../main/T/Tolkien_Gateway.md) đã được quyết định tại [cuộc họp cộng đồng vào tháng 7 năm 2012](../M/Meetings%252F1_July_2012.md):
 
-- **Biên tập viên của Tolkien Gateway không nên phán xét điều gì là chuẩn và điều gì không.**
+- **Tolkien Gateway người biên tập không nên phán xét cái gì là chuẩn và cái gì không.**
 - Trong khi phần "Lịch sử" của bài viết kết hợp một câu chuyện mạch lạc hơn, thì các phiên bản ban đầu hoặc mâu thuẫn của chủ đề sẽ được thảo luận trong phần "Các phiên bản khác của truyền thuyết".
-- Chỉ những khái niệm không phải do Tolkien tạo ra (tức là những khái niệm được tạo ra để chuyển thể) mới được coi là "không chuẩn". [Mẫu:Thích ứng](https://tolkiengateway.net/wiki/Template:Adaptation) nên được áp dụng cho các bài viết này.
+- Chỉ những khái niệm không được tạo bởi Tolkien (tức là những khái niệm được tạo ra để chuyển thể) mới được coi là "không chuẩn". [Mẫu:Thích ứng](https://tolkiengateway.net/wiki/Template:Adaptation) nên được áp dụng cho các bài viết này.
 
 ## Chính sách cũ {#Former_policy}
 

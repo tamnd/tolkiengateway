@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "House of Fëanor"
 ---
 
-Chuyển hướng tới [House of Fëanor](House_of_Fëanor.md).
+Chuyển hướng đến [Nhà Fëanor](House_of_Fëanor.md).

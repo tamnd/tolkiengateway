@@ -16,12 +16,12 @@ images:
 
 **Hobit** có thể đề cập đến:
 
-- [Hobit (ấn bản tiếng Do Thái năm 1977)](<Hobit_(1977_Hebrew_edition).md>), bản dịch tiếng Do Thái của *[The Hobbit](../T/The_Hobbit.md)*.
+- [Hobit (ấn bản 1977 tiếng Hebrew)](<Hobit_(1977_Hebrew_edition).md>), tiếng Hebrew bản dịch của *[The Hobbit](../T/The_Hobbit.md)*.
 - [Hobit (sê-ri đài phát thanh Slovakia năm 1989)](<Hobit_(1989_Slovak_radio_series).md>), phóng tác radio của *The Hobbit*.
 
 ## Xem thêm {#See_also}
 
-- <a class="mw-disambig" href="../T/The_Hobbit_(disambiguation).md" title="The Hobbit (disambiguation)">Người Hobbit (định hướng)</a>
+- <a class="mw-disambig" href="../T/The_Hobbit_(disambiguation).md" title="The Hobbit (disambiguation)">The Hobbit (định hướng)</a>
 
 <hr style="margin-top:15px;"/>
 

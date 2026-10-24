@@ -17,12 +17,12 @@ sort_keys:
   "Sindarin nouns": "Dor"
 ---
 
-<i><b>dôr</b></i> hoặc <i><b>dor</b></i> là danh từ [Sindarin](../S/Sindarin.md) có nghĩa là "đất, nơi ở". So sánh với *[nórë](../N/Nórë.md)* trong [Quenya](../Q/Quenya.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>dôr</b></i> hoặc <i><b>dor</b></i> là một danh từ [Sindarin](../S/Sindarin.md) có nghĩa là "đất, nơi ở". So sánh với *[nórë](../N/Nórë.md)* trong [Quenya](../Q/Quenya.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Ví dụ {#Examples}
 
-- <i><a class="mw-redirect" href="Dor_Caranthir.md" title="Dor Caranthir"><b>Dor</b> Caranthir</a></i> = "Vùng đất Caranthir"
-- <i><a href="Dor-Cúarthol.md" title="Dor-Cúarthol"><b>Dor</b>-Cúarthol</a></i> = "Vùng đất của Cung và Mũ"
+- <i><a class="mw-redirect" href="Dor_Caranthir.md" title="Dor Caranthir"><b>Dor</b> Caranthir</a></i> = "Vùng đất của Caranthir"
+- <i><a href="Dor-Cúarthol.md" title="Dor-Cúarthol"><b>Dor</b>-Cúarthol</a></i> = "Vùng đất cung và Helm"
 - <i><a href="Doriath.md" title="Doriath"><b>Dor</b>iath</a></i> = "Đất có rào chắn"
 - <i><a href="Dorthonion.md" title="Dorthonion"><b>Dor</b>thonion</a></i> = "Xứ Thông"
 - <i><a href="Dorwinion.md" title="Dorwinion"><b>Dor</b>winion</a></i> = "Đất nước non trẻ"

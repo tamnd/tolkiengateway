@@ -19,7 +19,7 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>a <a href="../N/Noldorin.md" title="Noldorin">Noldorin</a> noun</b>. For the Elvish <a href="../S/Sundocarme.md" title="Sundocarme">root</a>, see <b><a href="BAD.md" title="BAD">BAD</a></b>.</div></div>
 
-<i><b>bâd</b></i> là danh từ [Noldorin](../N/Noldorin.md) có nghĩa là "con đường bị đánh đập" hoặc "lối đi".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>bâd</b></i> là một danh từ [Noldorin](../N/Noldorin.md) có nghĩa là "đường mòn" hoặc "lối đi".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 [Didier Willis](../D/Didier_Willis.md) đã gợi ý rằng *bâd* (giữ nguyên ý nghĩa) có thể hợp lệ [Neo-Sindarin](../N/Neo-Elvish.md).<sup id="cite_ref-DW_2-0" class="reference"><a href="#cite_note-DW-2">[2]</a></sup>
 

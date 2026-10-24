@@ -22,7 +22,7 @@ images:
 
 ## Từ nguyên {#Etymology}
 
-*angren*, liên quan đến tiếng Sindarin *[ang](Ang.md)* ("sắt"), bắt nguồn từ [Elvish](../E/Elvish.md) [gốc](../S/Sundocarme.md) [ANGĀ](ANGA~30450.md).<sup id="cite_ref-Ety_1-1" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup> Có thể từ [tiếng Sindarin cổ](../O/Old_Sindarin.md) đầy đủ là *angrina* (chưa được chứng thực).
+*angren*, liên quan đến Sindarin *[ang](Ang.md)* ("sắt"), bắt nguồn từ [Elvish](../E/Elvish.md) [gốc](../S/Sundocarme.md) [ANGĀ](ANGA~30450.md).<sup id="cite_ref-Ety_1-1" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup> Có thể từ [Old Sindarin](../O/Old_Sindarin.md) đầy đủ là *angrina* (chưa được chứng thực).
 
 Dạng số nhiều lỗi thời, biến thể hoặc sai chính tả *engren* xuất hiện trong bản đánh máy.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 

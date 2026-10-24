@@ -12,7 +12,7 @@ categories:
   - "Classical music"
 ---
 
-Chuyện tình lãng mạn dành cho sáo và piano *Daeron,* của nhà soạn nhạc [Paul Corfield Godfrey](../P/Paul_Corfield_Godfrey.md), được viết vào cuối những năm 1980 như một ‘đoạn phụ’ từ tác phẩm trong chuỗi các tác phẩm opera của ông *Những cảnh sử thi trong The Silmarillion sau thần thoại J. R. R. Tolkien*, lúc đó đang được tiến hành nhanh chóng.
+Chuyện tình lãng mạn dành cho sáo và piano *Daeron,* của nhà soạn nhạc [Paul Corfield Godfrey](../P/Paul_Corfield_Godfrey.md), được viết vào cuối những năm 1980 như một ‘đoạn phụ’ từ tác phẩm trong chuỗi tác phẩm opera của ông *Những cảnh sử thi từ The Silmarillion sau thần thoại J. R. R. Tolkien*, lúc đó đang được tiến hành nhanh chóng.
 
 Các phần của tác phẩm này sau này sẽ được sử dụng dưới dạng hòa tấu làm khúc dạo đầu cho Cảnh Bốn và Khúc dạo đầu trước Cảnh Năm của *[Beren and Lúthien, Op. 47 (Opera)](<../B/Beren_and_Lúthien,_Op._47_(Opera).md>).*
 

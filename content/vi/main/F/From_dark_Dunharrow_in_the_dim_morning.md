@@ -43,7 +43,7 @@ infobox:
   <tr><th scope="row" class="tg-infobox-label">Subject(s)</th><td class="tg-infobox-data"><a href="../D/Dunharrow.md" title="Dunharrow">Dunharrow</a>, <a href="../G/Gondor.md" title="Gondor">Gondor</a>, <a href="../R/Rohan.md" title="Rohan">Rohan</a></td></tr>
 </tbody></table>
 
-"**From dark Dunharrow in the dim morning**" is a song written in [Rohan](../R/Rohan.md) of the ride of [Théoden](../T/Théoden.md) and his riders eastward to the aid of [Gondor](../G/Gondor.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> It is written in alliterative verse, meaning that, instead of rhyming, each verse has several words starting with the same sounds. Thể loại thơ này phổ biến ở các dân tộc gốc Đức, chẳng hạn như người Anglo-Saxons mà [Rohirrim](../R/Rohirrim.md) dựa vào.
+"**Từ bóng tối Dunharrow trong buổi sáng mờ mờ**" là một bài hát được viết bằng [Rohan](../R/Rohan.md) chuyến đi của [Théoden](../T/Théoden.md) và những người cưỡi ngựa của ông về phía đông với sự hỗ trợ của [Gondor](../G/Gondor.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Nó được viết bằng câu điệp âm, nghĩa là, thay vì có vần điệu, mỗi câu thơ có một số từ bắt đầu bằng những âm giống nhau. Thể loại thơ này phổ biến ở các dân tộc gốc Đức, chẳng hạn như người Anglo-Saxons mà [Rohirrim](../R/Rohirrim.md) dựa vào.
 
 ## Trích đoạn thơ {#Poem_excerpt}
 

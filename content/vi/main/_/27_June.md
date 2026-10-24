@@ -62,11 +62,11 @@ Sự kiện xảy ra vào ngày 27 tháng 6
 
 ## Trên Trái đất {#On_Earth}
 
-- **[1916](1916.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) rời khỏi <a class="extiw" href="http://en.wikipedia.org/wiki/%C3%89taples" title="wikipedia:Étaples">Étaples</a>và đi đến [mặt trận Somme](../B/Battle_of_the_Somme.md).
+- **[1916](1916.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) rời <a class="extiw" href="http://en.wikipedia.org/wiki/%C3%89taples" title="wikipedia:Étaples">Étaples</a>và đi đến [mặt trận Somme](../B/Battle_of_the_Somme.md).
 - **[1925](1925.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 7](../L/Letter_7.md).
 - **[1944](1944.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 73a](../L/Letter_73a.md).
 - **[1953](1953.md)** - Nữ diễn viên [Lorri Holt](../L/Lorri_Holt.md) ra đời.
-- **[1972](1972.md)** - [Vera Chapman](../V/Vera_Chapman.md) gặp [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Ông đồng ý trở thành Chủ tịch danh dự của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md).
+- **[1972](1972.md)** - [Vera Chapman](../V/Vera_Chapman.md) gặp [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Anh đồng ý trở thành Chủ tịch danh dự của [Hội Tolkien](../T/The_Tolkien_Society.md).
 - **[2001](2001.md)** - Nghệ sĩ [Tove Jansson](../T/Tove_Jansson.md) qua đời.
 
 ## Trong Arda {#In_Arda}

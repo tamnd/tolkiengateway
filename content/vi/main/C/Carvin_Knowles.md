@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Knowles, Carvin"
 ---
 
-**Carvin Knowles** (sinh [30 tháng 9](../_/30_September.md) [1963](../_/1963.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>) là nhà soạn nhạc, nhà sản xuất và nghệ sĩ người Mỹ, sống ở New Zealand. Anh lấy bằng BMA về Sáng tác Âm nhạc tại <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Oklahoma" title="wikipedia:University of Oklahoma">Đại học Oklahoma</a> năm 1988. Năm 2006, anh sản xuất và viết các bài hát cho album lấy cảm hứng từ [Tolkien](../J/J.R.R._Tolkien.md) *[In Elven Lands](../I/In_Elven_Lands.md)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Carvin Knowles** (sinh [30 tháng Chín](../_/30_September.md) [1963](../_/1963.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>) là nhà soạn nhạc, nhà sản xuất và nghệ sĩ người Mỹ, sống ở New Zealand. Anh lấy bằng BMA về Sáng tác Âm nhạc tại <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Oklahoma" title="wikipedia:University of Oklahoma">Đại học Oklahoma</a> năm 1988. Năm 2006, anh sản xuất và viết các bài hát cho album lấy cảm hứng từ [Tolkien](../J/J.R.R._Tolkien.md) *[In Elven Lands](../I/In_Elven_Lands.md)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Danh sách đĩa, đã chọn {#Discography,_selected}
 

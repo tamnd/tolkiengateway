@@ -70,19 +70,19 @@ Sự kiện xảy ra vào ngày 1 tháng 8
 - **[1959](1959.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) phục vụ Thánh lễ đầu tiên của [Robert Murray](../R/Robert_Murray.md).
 - **[1962](1962.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 240](../L/Letter_240.md).
 - **[1967](1967.md)** - Diễn viên [Cameron Rhodes](../C/Cameron_Rhodes.md) ra đời.
-- **[1969](1969.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một bức thư cho ông Burrows](../L/Letter_to_Mr_Burrows.md).
+- **[1969](1969.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một lá thư cho ông Burrows](../L/Letter_to_Mr_Burrows.md).
 - **[1988](1988.md)** - [Mythcon 19](../M/Mythcon_19.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Berkeley,_California" title="wikipedia:Berkeley, California">Berkeley</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/California" title="wikipedia:California">California</a>.
 - **[1993](1993.md)** - [Mythcon 24](../M/Mythcon_24.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Minnesota" title="wikipedia:University of Minnesota">Đại học Minnesota</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Minneapolis" title="wikipedia:Minneapolis">Minneapolis</a>.
 - **[1997](1997.md)** - Hiệp hội Tolkien Đức [Deutsche Tolkien Gesellschaft e.V.](../D/Deutsche_Tolkien_Gesellschaft_e.V..md) được thành lập.
 - **[1999](1999.md)** - [Mythcon 30](../M/Mythcon_30.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Milwaukee" title="wikipedia:Milwaukee">Milwaukee</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Wisconsin" title="wikipedia:Wisconsin">Wisconsin</a>.
 - **[2004](2004.md)** - [Mythcon 35](../M/Mythcon_35.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Michigan" title="wikipedia:University of Michigan">Đại học Michigan</a> ở <a class="extiw" href="http://en.wikipedia.org/wiki/Ann_Arbor,_Michigan" title="wikipedia:Ann Arbor, Michigan">Ann Arbor</a>.
-- **[2008](2008.md)** - [Pauline Baynes](../P/Pauline_Baynes.md), [nghệ sĩ yêu thích của Tolkien](../J/J.R.R._Tolkien.md), qua đời.
+- **[2008](2008.md)** - [Pauline Baynes](../P/Pauline_Baynes.md), nghệ sĩ yêu thích của [Tolkien](../J/J.R.R._Tolkien.md) qua đời.
 - **[2015](2015.md)** - [Mythcon 46](../M/Mythcon_46.md) tại Khách sạn Elegante, <a class="extiw" href="http://en.wikipedia.org/wiki/Colorado_Springs,_Colorado" title="wikipedia:Colorado Springs, Colorado">Colorado Springs</a>.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Gandalf](../G/Gandalf.md) bị [Saruman](../S/Saruman.md) giam giữ trên đỉnh [Orthanc](../O/Orthanc.md).
+    - [Gandalf](../G/Gandalf.md) bị giam giữ bởi [Saruman](../S/Saruman.md) trên đỉnh của [Orthanc](../O/Orthanc.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - Đoàn tang lễ của vua [Théoden](../T/Théoden.md) đi về hướng [Edoras](../E/Edoras.md).
+    - Đoàn rước tang lễ của vua [Théoden](../T/Théoden.md) đi về hướng [Edoras](../E/Edoras.md).

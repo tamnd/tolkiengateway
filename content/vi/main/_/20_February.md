@@ -63,7 +63,7 @@ Sự kiện xảy ra vào ngày 20 tháng 2.
 
 ## Trên Trái đất {#On_Earth}
 
-- **[1938](1938.md)** - Đáp lại [một bài viết](16_January.md) trong *Observer*, một [bức thư](../L/Letter_25.md) của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được xuất bản, giải thích về tên và sự ra đời của nhân vật anh hùng hấp dẫn, mà theo *Observer*, "*sẽ giúp nhiều sinh viên nghiên cứu tránh được rất nhiều rắc rối ở các thế hệ sau.*"
+- **[1938](1938.md)** - Đáp lại [một bài viết](16_January.md) trong *Observer*, một [bức thư](../L/Letter_25.md) của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được xuất bản, giải thích về tên và sự ra đời của người anh hùng hấp dẫn, mà theo *Observer*, "*sẽ cứu được nhiều sinh viên nghiên cứu rất nhiều rắc rối trong các thế hệ sau.*"
 - **[1963](1963.md)** - Tác giả [Rainer Nagel](../R/Rainer_Nagel.md) ra đời.
 - **[1967](1967.md)** - Nữ diễn viên lồng tiếng [Katherine Soucie](../K/Kath_Soucie.md) ra đời.
 - **[1968](1968.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 300](../L/Letter_300.md).
@@ -72,6 +72,6 @@ Sự kiện xảy ra vào ngày 20 tháng 2.
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - Nhóm [Hiệp hội Nhẫn](../F/Fellowship_of_the_Ring.md) đi về phía nam dọc theo [Anduin](../A/Anduin.md).
-    - Trong đêm, [Gollum](../G/Gollum.md) cố gắng xâm nhập vào trại của họ, nhưng bị hoảng sợ trước sự cảnh giác của [Aragorn](../A/Aragorn.md) và [Boromir](../B/Boromir.md).
-    - [Gandalf](../G/Gandalf.md) rời [Lothlórien](../L/Lothlórien.md) và đi về phía nam do [Gwaihir](../G/Gwaihir.md) chở.
+    - Con [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) di chuyển về phía nam xuống [Anduin](../A/Anduin.md).
+    - Trong đêm, [Gollum](../G/Gollum.md) cố gắng xâm nhập vào trại của họ, nhưng lại sợ hãi trước sự cảnh giác của [Aragorn](../A/Aragorn.md) và [Boromir](../B/Boromir.md).
+    - [Gandalf](../G/Gandalf.md) rời [Lothlórien](../L/Lothlórien.md) và đi về hướng nam do [Gwaihir](../G/Gwaihir.md) mang theo.

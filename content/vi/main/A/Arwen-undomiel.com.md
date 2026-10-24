@@ -12,7 +12,7 @@ categories:
   - "Websites"
 ---
 
-**Arwen-Undomiel.com** là trang web dành cho người hâm mộ Tolkien được thành lập vào năm 2003. Trang này bao gồm hơn 15.000 ảnh, ảnh chụp màn hình hoàn chỉnh từ cả ba bộ phim, biểu ngữ, sự hài hước, tiểu sử diễn viên và nhân vật, [Grelvish](../G/Grelvish.md), hình nền, biểu tượng bạn bè, hình đại diện, nút, diễn đàn thảo luận, phần Tolkien, v.v.
+**Arwen-Undomiel.com** là một trang web dành cho người hâm mộ Tolkien được thành lập vào năm 2003. Nó bao gồm hơn 15.000 ảnh, ảnh chụp màn hình hoàn chỉnh từ cả ba bộ phim, biểu ngữ, hài hước, tiểu sử diễn viên và nhân vật, [Grelvish](../G/Grelvish.md), hình nền, biểu tượng bạn bè, hình đại diện, nút, diễn đàn thảo luận, phần Tolkien, v.v.
 
 ## Lịch sử {#History}
 

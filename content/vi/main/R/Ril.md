@@ -13,12 +13,12 @@ categories:
   - "Sindarin verbs"
 ---
 
-**Ril** là một từ [Elvish](../E/Eldarin.md), có nghĩa là "lấp lánh".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Nó xuất hiện cả trong [Sindarin](../S/Sindarin.md) và [Quenya](../Q/Quenya.md), trong đó nó là dạng rút gọn của *rillë*.
+**Ril** là một từ [Elvish](../E/Eldarin.md), có nghĩa là "long lanh".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Nó xuất hiện cả trong [Sindarin](../S/Sindarin.md) và [Quenya](../Q/Quenya.md), trong đó nó là dạng rút gọn của *rillë*.
 
 ## Ví dụ {#Examples}
 
 - Quenya: <i><a class="mw-redirect" href="../S/Silmaril.md" title="Silmaril">Silma<b>ril</b></a></i>, <i><a href="../A/Andúril.md" title="Andúril">Andú<b>ril</b></a></i>
-- Tiếng Sindarin: <i><a href="../M/Mithril.md" title="Mithril">Mith<b>ril</b></a>, <a href="../I/Idril.md" title="Idril">Id<b>ril</b></a></i>
+- Sindarin: <i><a href="../M/Mithril.md" title="Mithril">Mith<b>ril</b></a>, <a href="../I/Idril.md" title="Idril">Id<b>ril</b></a></i>
 
 <span></span>
 

@@ -31,11 +31,11 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Vào tháng 7, Tolkien đã được gửi bản in thử cho ấn bản mới của *[The Hobbit](../T/The_Hobbit.md)*. Cùng với những chỉnh sửa nhỏ, phiên bản mới của Chương 5, "[Những câu đố trong bóng tối](../R/Riddles_in_the_Dark.md)" đã được đưa vào, điều này khiến Tolkien rất ngạc nhiên. Tolkien nói đã lâu lắm rồi kể từ khi ông đề xuất thay đổi. Làm việc trên [phần tiếp theo](../T/The_Lord_of_the_Rings.md) lẽ ra sẽ là một nhiệm vụ đơn giản hơn với phiên bản mới nhưng vì ông chưa nghe thêm bất kỳ thông tin nào về nó nên ông đã cho rằng nó đã bị loại trừ. Phần tiếp theo bây giờ phụ thuộc vào phiên bản trước đó; bản sửa đổi, nếu được xuất bản, sẽ đòi hỏi phải viết lại nhiều phần tiếp theo. Anh ước gì người ta đã đưa ra một gợi ý nào đó trước khi nhìn thấy sự thay đổi trong bản kiểm tra trang. Tuy nhiên, anh đã quyết định chấp nhận sự thay đổi và hậu quả của nó. Phiên bản sửa đổi tốt hơn về động cơ và cách kể chuyện, đồng thời sẽ làm cho phần tiếp theo tự nhiên hơn.
+Vào tháng 7, Tolkien đã được gửi bản thử nghiệm cho phiên bản mới của *[The Hobbit](../T/The_Hobbit.md)*. Cùng với những chỉnh sửa nhỏ, phiên bản mới của Chương 5, "[Những câu đố trong bóng tối](../R/Riddles_in_the_Dark.md)" đã được đưa vào, điều này khiến Tolkien ngạc nhiên. Tolkien cho biết đã lâu lắm rồi kể từ khi anh đề xuất thay đổi. Làm việc trên [phần tiếp theo](../T/The_Lord_of_the_Rings.md) lẽ ra sẽ là một nhiệm vụ đơn giản hơn với phiên bản mới nhưng vì ông chưa nghe thêm bất kỳ thông tin nào về nó nên ông đã cho rằng nó đã bị loại trừ. Phần tiếp theo bây giờ phụ thuộc vào phiên bản trước đó; bản sửa đổi, nếu được xuất bản, sẽ đòi hỏi phải viết lại nhiều phần tiếp theo. Anh ước gì người ta đã đưa ra một gợi ý nào đó trước khi nhìn thấy sự thay đổi trong bản kiểm tra trang. Tuy nhiên, anh đã quyết định chấp nhận sự thay đổi và hậu quả của nó. Phiên bản sửa đổi tốt hơn về động cơ và cách kể chuyện, đồng thời sẽ làm cho phần tiếp theo tự nhiên hơn.
 
 ## Lưu ý {#Note}
 
-Sau tối hậu thư của Tolkien (xem [Thư 127](Letter_127.md)), Ngài [Stanley Unwin](../S/Stanley_Unwin.md) đã trả lời "không" cho câu trả lời ngay lập tức nhưng nói rằng điều đó có thể là đồng ý nếu có thời gian và khi có bản ghi hoàn chỉnh. Ở đó, vấn đề đã dừng lại trong nhiều tháng, khi vấn đề về bức thư này nảy sinh. <br>
+Sau tối hậu thư của Tolkien(xem [Thư 127](Letter_127.md)), Ngài [Stanley Unwin](../S/Stanley_Unwin.md) đã trả lời "không" với câu trả lời ngay lập tức nhưng nói rằng điều đó có thể là đồng ý nếu có thời gian và khi có bản ghi hoàn chỉnh. Ở đó, vấn đề đã dừng lại trong nhiều tháng, khi vấn đề về bức thư này nảy sinh. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

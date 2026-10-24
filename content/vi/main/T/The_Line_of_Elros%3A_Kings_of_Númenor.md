@@ -47,17 +47,17 @@ sort_keys:
 <li><a href="The_Palantíri.md" title="The Palantíri">The Palantíri</a></li></ul>
 </td></tr></tbody></table>
 
-**Dòng dõi của Elros: Các vị vua của Númenor** là một chương trong cuốn sách *[Unfinished Tales](../U/Unfinished_Tales.md)*, được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và được con trai ông, [Christopher Tolkien](../C/Christopher_Tolkien.md) xuất bản sau khi qua đời. Ít phải là một câu chuyện thực tế hơn, nó giống một biên niên sử hơn, bao gồm danh sách đầy đủ [Các vị vua của Númenor](../K/King_of_Númenor.md) từ khi thành lập vương quốc, vào năm [S.A.](../S/Second_Age.md) [32](../S/Second_Age_32.md) đến khi bị hủy diệt, năm [3319](../S/Second_Age_3319.md).
+**Dòng Elros: Các vị vua của Númenor** là một chương trong cuốn sách *[Unfinished Tales](../U/Unfinished_Tales.md)*, được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và được con trai ông, [Christopher Tolkien](../C/Christopher_Tolkien.md) xuất bản sau khi di cảo. Ít phải là một câu chuyện thực tế hơn, nó giống một biên niên sử hơn, bao gồm danh sách đầy đủ các [Các vị vua của Númenor](../K/King_of_Númenor.md) từ khi thành lập vương quốc, vào năm [S.A.](../S/Second_Age.md) [32](../S/Second_Age_32.md) cho đến khi vương quốc bị hủy diệt, năm [3319](../S/Second_Age_3319.md).
 
 ## Tóm tắt {#Synopsis}
 
-Trước khi liệt kê chi tiết, tác giả và nhà xuất bản viết về tuổi thọ của dòng dõi [Elros Tar-Minyatur](../E/Elros.md), khoảng 400 năm và tạo nên sự khác biệt với các dòng khác của [Númenóreans](../N/Númenóreans.md), tuổi thọ của họ ngắn hơn đáng kể, 200 năm hoặc ít hơn. Nhưng trong bài viết mới nhất về chủ đề này, sự khác biệt về tuổi thọ đã giảm đi rất nhiều. Đối với toàn bộ người dân Númenórean, họ cho rằng tuổi thọ của họ dài gấp năm lần tuổi thọ của những Người đàn ông khác. Sau đây là danh sách các vị vua Númenórean, tổng cộng là 25. Mỗi vị vua đều có một mô tả ngắn, trong đó đề cập đến năm sinh, năm mất và thời gian cai trị của họ, cùng với các sự kiện đáng chú ý khác, nếu có.
+Trước khi liệt kê chi tiết, tác giả và nhà xuất bản viết về tuổi thọ của dòng [Elros Tar-Minyatur](../E/Elros.md), khoảng 400 năm và tạo nên sự khác biệt với các dòng [người Númenor](../N/Númenóreans.md) khác, tuổi thọ của dòng này ngắn hơn đáng kể, 200 năm hoặc ít hơn. Nhưng trong bài viết mới nhất về chủ đề này, sự khác biệt về tuổi thọ đã giảm đi rất nhiều. Đối với Númenórean con người nói chung được cho là có tuổi thọ gấp khoảng năm lần tuổi thọ của những Con Người khác. Sau đây là danh sách các vị vua Númenórean, tổng cộng là 25. Mỗi người trong số họ sẽ có một mô tả ngắn, trong đó đề cập đến năm sinh, năm mất và thời gian cai trị của họ, cùng với các sự kiện đáng chú ý khác, nếu có.
 
 Các vị vua và hoàng hậu được miêu tả là:
 
 1\. [Elros Tar-Minyatur](../E/Elros.md)<br> 2. [Tar-Vardamir](../V/Vardamir.md)<br> 3. [Tar-Amandil](Tar-Amandil.md) <br> 4. [Tar-Elendil](Tar-Elendil.md) <br> 5. [Tar-Meneldur](Tar-Meneldur.md) <br> 6. [Tar-Aldarion](Tar-Aldarion.md) <br> 7. [Tar-Ancalimë](Tar-Ancalimë.md) <br> 8. [Tar-Anárion](Tar-Anárion.md) <br> 9. [Tar-Súrion](Tar-Súrion.md) <br> 10. [Tar-Telperiën](Tar-Telperiën.md) <br> 11. [Tar-Minastir](Tar-Minastir.md) <br> 12. [Tar-Ciryatan](Tar-Ciryatan.md) <br> 13. [Tar-Atanamir](Tar-Atanamir.md) <br> 14. [Tar-Ancalimon](Tar-Ancalimon.md) <br> 15. [Tar-Telemmaitë](Tar-Telemmaitë.md) <br> 16. [Tar-Vanimeldë](Tar-Vanimeldë.md) ¹ <br> 17. [Tar-Alcarin](Tar-Alcarin.md) <br> 18. [Ar-Belzagar](../A/Ar-Belzagar.md) <br> 19. [Ar-Abattârik](../A/Ar-Abattârik.md) <br> 20. [Ar-Adûnakhôr](../A/Ar-Adûnakhôr.md) <br> 21. [Ar-Zimrathôn](../A/Ar-Zimrathôn.md) <br> 22. [Ar-Sakalthôr](../A/Ar-Sakalthôr.md) <br> 23. [Ar-Gimilzôr](../A/Ar-Gimilzôr.md) <br> 24. [Tar-Palantir](Tar-Palantir.md) <br> 25. [Ar-Pharazôn](../A/Ar-Pharazôn.md) <br>
 
-¹Sau Tar-Vanimeldë, chồng bà [Tar-Anducal](Tar-Anducal.md) đi theo, nhưng ông ta tuyên bố bất hợp pháp Vương quyền Númenor nên không được tính.
+¹Sau Tar-Vanimeldë, chồng cô [Tar-Anducal](Tar-Anducal.md) đi theo, nhưng ông ta đã tuyên bố bất hợp pháp Vương quyền của Númenor nên không được tính.
 
 ## Xem thêm {#See_also}
 

@@ -22,7 +22,7 @@ images:
 
 Vào [28 tháng 12](../_/28_December.md) [1953](../_/1953.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) gửi [Rayner Unwin](../R/Rayner_Unwin.md)**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-TB_2-0" class="reference"><a href="#cite_note-TB-2">[2]</a></sup>
 
-- **Chủ đề:** Sắp xếp chuyến tham quan [Allen & Unwin](../A/Allen_and_Unwin.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Museum_Street" title="wikipedia:Museum Street">Phố Bảo tàng</a> [ngày hôm sau](../_/29_December.md).
+- **Chủ đề:** Sắp xếp chuyến tham quan [Allen &amp; Unwin](../A/Allen_and_Unwin.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Museum_Street" title="wikipedia:Museum Street">Phố Bảo tàng</a> vào [ngày hôm sau](../_/29_December.md).
 - **Xuất bản:** Bản sao của bưu thiếp xuất hiện trong *[Treasures from the Misty Mountains: A Collector's Guide to Tolkien](../T/Treasures_from_the_Misty_Mountains.md)* (tr. 126). Các trích dẫn đã chọn sẽ xuất hiện trong *[The J.R.R. Tolkien Companion and Guide: I. Chronology](../T/The_J.R.R._Tolkien_Companion_and_Guide.md)* (tr. 420).
 
 ## Xem thêm {#See_also}

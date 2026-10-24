@@ -21,9 +21,9 @@ images:
 <p class="tg-quote-footer"><cite><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a></cite></p>
 </blockquote></div></div>
 
-Trong phiên bản cũ hơn của quan niệm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) về [Ngôn ngữ](../L/Languages.md) của [Trung địa](Middle-earth.md) như được trình bày trong *[Lhammas](../L/Lhammas.md)*, **Melkian** (còn được gọi là Orquin hoặc Orquian) là ngôn ngữ được đặt theo tên của [Vala](../V/Vala.md) [Melkor](Melkor.md) đã sa ngã ([Morgoth](Morgoth.md)). Nó có nguồn gốc từ [Valarin](../V/Valarin.md) bị hỏng. Nó được nói bởi ông ta và những người hầu của ông ta và là tiền thân của [nhiều phương ngữ](../O/Orkish.md) của [Orc](../O/Orcs.md) và những sinh vật tà ác khác.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Trong phiên bản cũ hơn của quan niệm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) về [Ngôn ngữ](../L/Languages.md) của [Trung Địa](Middle-earth.md) như được trình bày trong *[Lhammas](../L/Lhammas.md)*, **Melkian** (còn được gọi là Orquin hoặc Orquian) là ngôn ngữ được đặt theo tên của [Vala](../V/Vala.md) [Melkor](Melkor.md) ([Morgoth](Morgoth.md)) đã thất thủ. Nó có nguồn gốc từ [Valarin](../V/Valarin.md) bị hỏng. Nó được nói bởi ông ta và những người hầu của ông ta và là tiền thân của [nhiều phương ngữ](../O/Orkish.md) của [Orc](../O/Orcs.md) và những sinh vật tà ác khác.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Mặc dù có vẻ như khái niệm này sau đó đã bị Tolkien loại bỏ, nhưng trong văn bản muộn có nhãn *[Ósanwe-kenta](../_/Ósanwe-kenta.md)* đã đề cập rằng Melkor thực sự đã phát triển một ngôn ngữ cho những người phục vụ ông ta vào thời điểm [Chiến tranh quyền lực](../W/War_of_the_Powers.md), như chính [Manwë](Manwë.md) đã nói với [Eldar](../E/Eldar.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Mặc dù có vẻ như khái niệm này sau đó đã bị Tolkien loại bỏ, nhưng trong văn bản muộn có nhãn *[Ósanwe-kenta](../_/Ósanwe-kenta.md)* đã đề cập rằng Melkor thực sự đã phát triển một ngôn ngữ cho những người phục vụ ông ta vào thời điểm [Chiến tranh Quyền lực](../W/War_of_the_Powers.md), như chính [Manwë](Manwë.md) đã nói với [Eldar](../E/Eldar.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

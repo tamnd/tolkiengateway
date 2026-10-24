@@ -18,13 +18,13 @@ sort_keys:
   "People by name": "Star, Lisa"
 ---
 
-**Lisa Star** đã biên tập tạp chí *[Tyalië Tyelelliéva](../T/Tyalië_Tyelelliéva.md)* cho đến [2001](../_/2001.md). Bà cũng từng kiểm duyệt danh sách gửi thư của Ngôn ngữ học Tiên.
+**Lisa Star** đã biên tập tạp chí *[Tyalië Tyelelliéva](../T/Tyalië_Tyelelliéva.md)* cho đến [2001](../_/2001.md). Cô cũng từng kiểm duyệt danh sách gửi thư Elvish Ngôn ngữ học.
 
 Star đã chỉ trích "Elfconners" ([Arden Smith](../A/Arden_Smith.md), [Carl Hostetter](../C/Carl_Hostetter.md), [Patrick Wynne](../P/Patrick_Wynne.md), [Christopher Gilson](../C/Christopher_Gilson.md)) về phương pháp xuất bản của họ. Vào [28 tháng 10](../_/28_October.md) [1996](../_/1996.md) bà đã đăng trên [Tolklang](../T/Tolklang.md) sự phản đối của mình và yêu cầu xuất bản nhanh tài liệu gốc.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Sau đó, bà đã đề cập trên trang web của mình, "Không có tình yêu nào bị mất giữa Carl Hostetter và tôi".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 The information she provided has sometimes been criticised as inaccurate or imprecise,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> such as the reference to the supposed language "Mørk" by [Tolkien](../T/Tolkien.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
-Kể từ [2008](../_/2008.md) Star dường như đã rút khỏi [cảnh Tolkien](../T/Tolkien_fandom.md) và dường như không ai có thể liên lạc với bà.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Trang web chính thức của bà đã nhận được bản cập nhật cuối cùng vào tháng 3 [2009](../_/2009.md) trước khi cuối cùng biến mất vì <a class="extiw" href="http://en.wikipedia.org/wiki/Geocities" title="wikipedia:Geocities">Geocities</a> ngừng hoạt động.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Kể từ [2008](../_/2008.md) Star dường như đã rút khỏi [Tolkien hiện trường](../T/Tolkien_fandom.md) và dường như không ai có thể liên lạc với bà.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Trang web chính thức của bà đã nhận được bản cập nhật cuối cùng vào tháng 3 [2009](../_/2009.md) trước khi cuối cùng biến mất vì <a class="extiw" href="http://en.wikipedia.org/wiki/Geocities" title="wikipedia:Geocities">Geocities</a> ngừng hoạt động.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 ## Thư mục {#Bibliography}
 
@@ -33,20 +33,20 @@ Kể từ [2008](../_/2008.md) Star dường như đã rút khỏi [cảnh Tolki
 - [1992](../_/1992.md): [*Vinyar Tengwar* 21](../V/Vinyar_Tengwar_21.md)
     - "Quettare Kalyaina Eldalamberon: Danh sách từ Quenya được chiếu sáng"
 - [1994](../_/1994.md): [*Tyalië Tyelelliéva* 1](../T/Tyalië_Tyelelliéva_1.md)
-    - "Số nhiều ở Quenya"
+    - "Số nhiều trong Quenya"
     - "Sự quyến rũ của Danian"
-    - "Chữ viết tắt của bút Tengwar hai dòng"
+    - "Dòng đôi Tengwar Chữ viết tắt của bút"
 - [1994](../_/1994.md): [*Tyalië Tyelelliéva* 2](../T/Tyalië_Tyelelliéva_2.md)
-    - "Hậu tố động từ Quenya: Ngoại động từ và nguyên nhân"
+    - "Quenya Hậu tố động từ: Ngoại động từ và Nguyên nhân"
     - "Ubi Quent?"
     - "Sự quyến rũ của Danian"
 - [1994](../_/1994.md): [*Tyalië Tyelelliéva* 3](../T/Tyalië_Tyelelliéva_3.md)
-    - "Danh từ đại chúng Quenya và sở hữu cách bộ phận"
+    - "Quenya Danh từ đại chúng và sở hữu cách bộ phận"
     - "Dự án thơ Gnomic" (với Andy Mariani)
 - [1995](../_/1995.md): [*Tyalië Tyelelliéva* 4](../T/Tyalië_Tyelelliéva_4.md)
     - "Bản đồ cốc và nhẫn"
     - "Danh sách từ người lùn"
-    - "Cổ ngữ của Erebor"
+    - "Các cổ ngữ của Erebor"
 - [1995](../_/1995.md): [*Tyalië Tyelelliéva* 5](../T/Tyalië_Tyelelliéva_5.md)
     - "Tin nóng từ kỷ băng hà"
     - "Glamarye: Chìa khóa"
@@ -55,7 +55,7 @@ Kể từ [2008](../_/2008.md) Star dường như đã rút khỏi [cảnh Tolki
 - [1995](../_/1995.md): [*Tyalië Tyelelliéva* 6](../T/Tyalië_Tyelelliéva_6.md)
     - "Ngôn ngữ Ent"
     - "Ở đây, kia và Yon"
-    - "Glamarye: Tolkien và những vị vua cây"
+    - "Glamarye: Tolkien và các Vua Cây"
     - "Lege Artis"
     - "Giữa những cái cây"
 - [1995](../_/1995.md): [*Tyalië Tyelelliéva* 7](../T/Tyalië_Tyelelliéva_7.md)
@@ -67,16 +67,16 @@ Kể từ [2008](../_/2008.md) Star dường như đã rút khỏi [cảnh Tolki
     - "Danh sách các phiên bản của Namaria"
     - "Giông tố trong chiếc đê"
 - [1998](../_/1998.md): [*Tyalië Tyelelliéva* 13](../T/Tyalië_Tyelelliéva_13.md)
-    - "Phân tích các cánh cửa của Moria Tengwar"
+    - "Phân tích cửa Moria Tengwar"
 - [2000](../_/2000.md): [*Tyalië Tyelelliéva* 14](../T/Tyalië_Tyelelliéva_14.md)
-    - "Phương pháp canh tác ở Hobbiton"
+    - "Phương pháp nông nghiệp trong Hobbiton"
     - "'Bà' và tàn tích Kor"
 - [2000](../_/2000.md): [*Tyalië Tyelelliéva* 15](../T/Tyalië_Tyelelliéva_15.md)
-    - "Bộ sưu tập Tolkien tại Marquette (Phần 1)"
+    - "Tolkien Bộ sưu tập tại Marquette (Phần 1)"
 - [2001](../_/2001.md): [*Tyalië Tyelelliéva* 16](../T/Tyalië_Tyelelliéva_16.md)
-    - "Bộ sưu tập Tolkien tại Marquette (Phần 2)"
+    - "Tolkien Bộ sưu tập tại Marquette (Phần 2)"
 - [2001](../_/2001.md): [*Tyalië Tyelelliéva* 17](../T/Tyalië_Tyelelliéva_17.md)
-    - "Giới thiệu, ngữ pháp và Tengwar của Sôval Phâre"
+    - "Sôval Phâre Giới thiệu, Ngữ pháp và Tengwar"
     - "Ngôn ngữ của Rohan và Dale"
     - "Bộ sưu tập Tolkien tại Marquette, Phần 4"
 

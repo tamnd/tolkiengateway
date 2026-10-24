@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Argonath"
 ---
 
-Chuyển hướng tới [Argonath](../A/Argonath.md).
+Chuyển hướng đến [Argonath](../A/Argonath.md).

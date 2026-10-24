@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Maglor's Gap"
 ---
 
-Chuyển hướng tới [Maglor's Gap](Maglor's_Gap.md).
+Chuyển hướng đến [Khe Maglor](Maglor's_Gap.md).

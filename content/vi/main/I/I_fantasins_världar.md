@@ -43,7 +43,7 @@ infobox:
 
 Cuốn sách mới của Jan Broberg xoay quanh một khái niệm rộng rãi được gọi là "tiểu thuyết giả tưởng" - một thể loại có ranh giới không rõ ràng. Một số người coi nguồn gốc của thể loại này là trong những câu chuyện về các thủy thủ thời cổ đại, ví dụ như cuộc gặp gỡ của Ulysses với những người đi xe đạp và còi báo động, cũng như trong những câu chuyện kinh dị của thế kỷ 18 và 19. Đó là tựa đề phù hợp mà Jan Broberg đã chọn cho tuyển tập tiểu luận của mình: Trong thế giới giả tưởng.
 
-Một số tiêu đề tiết lộ chiều dài của cuốn sách: "Người sói và Kỳ lân", "Trong thời đại phù thủy", "Hoàng tử Valiant, Vua Arthur và Chén thánh", "Thợ săn ma", "Tarzan ở vùng đất cổ tích", "Những cuộc phiêu lưu của Flash Gordon". Cuốn sách cũng bao gồm các cuộc phỏng vấn với J.R.R. Tolkien và Richard Adams.
+Một số tiêu đề tiết lộ chiều dài của cuốn sách: "Người sói và Unicorn", "In the Age of Witches", "Thân vương Valiant, Vua Arthur, and the Holy Grail", "The Ghost-hunters", "Tarzan in the Land of Fairy-tales", "The Adventures of Flash Gordon". Cuốn sách cũng bao gồm các cuộc phỏng vấn với J.R.R. Tolkien và Richard Adams.
 
 Cuốn sách được minh họa phong phú.
 

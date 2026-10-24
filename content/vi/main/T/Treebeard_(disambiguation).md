@@ -18,15 +18,15 @@ images:
 
 ## Trung Địa {#Middle-Earth}
 
-- [Cây râu](Treebeard.md), còn được gọi là *Fangorn.*
+- [Treebeard](Treebeard.md), ent còn được gọi là *Fangorn.*
 
 ## Chương {#Chapters}
 
-- [Treebeard (chương)](<Treebeard_(chapter).md>), chương thứ tư của cuốn sách đầu tiên trong *[The Two Towers](The_Two_Towers.md)*.
+- [Treebeard (chương)](<Treebeard_(chapter).md>), chương thứ tư của cuốn đầu tiên trong *[The Two Towers](The_Two_Towers.md)*.
 
 ## Các bản chuyển thể {#Adaptations}
 
-- [Cây râu (cảnh)](<Treebeard_(scene).md>), cảnh trong *[The Lord of the Rings: The Two Towers](The_Lord_of_the_Rings%253A_The_Two_Towers.md)*
+- [Treebeard (cảnh)](<Treebeard_(scene).md>), cảnh trong *[The Lord of the Rings: The Two Towers](The_Lord_of_the_Rings%253A_The_Two_Towers.md)*
     - [Treebeard (nhạc phim)](<Treebeard_(soundtrack).md>), bài thứ mười của *[The Lord of the Rings: The Two Towers - Original Motion Picture Soundtrack](The_Lord_of_the_Rings%253A_The_Two_Towers_-_Original_Motion_Picture_Soundtrack.md)*
 
 ## Xem thêm {#See_also}

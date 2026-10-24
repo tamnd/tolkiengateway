@@ -35,7 +35,7 @@ infobox:
 
 **Hugo Victor Dyson Dyson** là bạn [Inkling](../I/Inklings.md) với [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Ông đã giúp Tolkien thuyết phục [C.S. Lewis](../C/C.S._Lewis.md) theo (tích cực) [Kitô giáo](../C/Christianity.md).
 
-Ông thích trò chuyện hơn là đọc sách tại các cuộc họp của Inklings và được [Christopher Tolkien](../C/Christopher_Tolkien.md) nhớ đến là "nằm trên ghế, nằm dài và la hét và nói: 'Ôi Chúa ơi, không còn Yêu tinh nữa'" trong khi đọc *The Lord of the Rings*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Ông thích nói chuyện hơn là đọc bài đọc tại các cuộc họp Inklings và được [Christopher Tolkien](../C/Christopher_Tolkien.md) nhớ đến là người "nằm trên ghế, nằm dài trên ghế và la hét và nói 'Ôi Chúa ơi, không còn nữa Tiên tộc'" trong khi đọc *The Lord of the Rings*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Đọc thêm {#Further_reading}
 

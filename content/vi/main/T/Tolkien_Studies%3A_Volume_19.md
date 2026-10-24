@@ -38,7 +38,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tolkien_Studies_19.jpeg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/f7/Tolkien_Studies_19.jpeg/311px-Tolkien_Studies_19.jpeg" decoding="async" loading="lazy" width="311" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f7/Tolkien_Studies_19.jpeg/466px-Tolkien_Studies_19.jpeg 1.5x, https://tolkiengateway.net/w/images/f/f7/Tolkien_Studies_19.jpeg 2x" data-file-width="486" data-file-height="750"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Tolkien Studies: Volume 19</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../D/David_Bratman.md" title="David Bratman">David Bratman</a>, <a href="../M/Michael_D.C._Drout.md" title="Michael D.C. Drout">Michael D.C. Drout</a>, <a href="../V/Verlyn_Flieger.md" title="Verlyn Flieger">Verlyn Flieger</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">West Virginia University Press</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">April, <a href="../_/2023.md" title="2023">2023</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback; electronic</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">318</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">1547-3155</td></tr></tbody></table>
 
-<b><i>Nghiên cứu Tolkien</i>: Tập 19</b>, xuất bản trong [2023](../_/2023.md), là tập thứ mười chín của tạp chí tổng kết hàng năm *[Tolkien Studies](<Tolkien_Studies_(journal).md>)*.
+<b><i>Tolkien Nghiên cứu</i>: Tập 19</b>, xuất bản trong [2023](../_/2023.md), là tập thứ mười chín của tạp chí tổng kết hàng năm *[Tolkien Studies](<Tolkien_Studies_(journal).md>)*.
 
 Đây là vấn đề [2022](../_/2022.md), việc xuất bản nó bị trì hoãn đến năm 2023 do chuẩn bị cho [*Issue 19 Supplement*](Tolkien_Studies%253A_Volume_19_Supplement.md).
 
@@ -48,31 +48,31 @@ infobox:
 
 - Bài viết
     - Verlyn Flieger, "Tưởng nhớ: [Priscilla Tolkien](../P/Priscilla_Tolkien.md), 1929-2022"
-    - Paul Acker, "Một đám người lùn không được mời"
-    - Riley McGuire, "Vị trí của ngụ ngôn trong cách hiểu của Tolkien về [tiếng Anh cổ *Exodus*](The_Old_English_Exodus.md)"
+    - Paul Acker, "Một đám đông không được mời Người Lùn"
+    - Riley McGuire, "Vị trí của ngụ ngôn trong sự hiểu biết của Tolkien về [tiếng Anh cổ *Exodus*](The_Old_English_Exodus.md)"
     - Nathan Kowalsky, "*The Hobbit* và Thông diễn học của Barnyard"
-    - Perry Neil Harrison, "Tolkien, Robin Hood thời Trung cổ và Vấn đề của Greenwood"
-    - J.M. Silk, "Chiếc nhẫn thần tiên: Thơ ca và phép ẩn dụ của âm nhạc như những công cụ mê hoặc trong tiểu thuyết của Tolkien"
+    - Perry Neil Harrison, "Tolkien, Robin Hood thời Trung cổ và Vật chất của Rừng Xanh"
+    - J.M. Silk, "Chiếc nhẫn thần tiên: Thơ ca và phép ẩn dụ của âm nhạc như những phương tiện mê hoặc trong tiểu thuyết của Tolkien"
     - Vincent E. Rone, "Sự liên tục về âm nhạc giữa Howard Shore và J.R.R. Tolkien"
     - Christopher Crane, "Bản thảo ban đầu và bản sao: Soạn thảo và chỉnh sửa *[Smith of Wootton Major](../S/Smith_of_Wootton_Major.md)*"
     - Ewan Cameron, "Tolkien, Thompson, Tính hiện đại của nước Anh và cánh tả"
-    - John Rosegrant, "Khi cuộc tìm kiếm bùa mê bị bẻ cong: 'Cuộc thanh trừng vùng Shire'"
+    - John Rosegrant, "Khi cuộc tìm kiếm bùa mê bị bẻ cong: 'Sự trừng phạt của Shire'"
 
 - Đánh giá sách
-    - *[The Nature of Middle-earth](The_Nature_of_Middle-earth.md)*, bởi J.R.R. Tolkien, được chỉnh sửa bởi Carl F. Hostetter, được John Garth đánh giá
-    - *[Tolkien and the Classical World](Tolkien_and_the_Classical_World.md)*, do Hamish Williams biên tập và *[Tolkien and the Classics](Tolkien_and_the_Classics.md)*, do Roberto Arduini, Giampaolo Canzonieri biên tập và Claudio A. Testi, do Victor Parker đánh giá
+    - *[The Nature of Middle-earth](The_Nature_of_Middle-earth.md)*, bởi J.R.R. Tolkien, được chỉnh sửa bởi Carl F. Hostetter, được đánh giá bởi John Garth
+    - *[Tolkien and the Classical World](Tolkien_and_the_Classical_World.md)*, do Hamish Williams biên tập và *[Tolkien and the Classics](Tolkien_and_the_Classics.md)* do Roberto Arduini, Giampaolo Canzonieri biên tập và Claudio A. Testi, do Victor Parker đánh giá
     - <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Musical_Scores_and_the_Eternal_Present&amp;action=edit&amp;redlink=1" title="Musical Scores and the Eternal Present (page does not exist)">Bản nhạc và Hiện tại vĩnh cửu</a>: Thần học, Thời gian và Tolkien</i>, của Chiara Bertoglio, được đánh giá bởi Eileen Marie Moore
-    - <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=A_Sense_of_Tales_Untold&amp;action=edit&amp;redlink=1" title="A Sense of Tales Untold (page does not exist)">Cảm giác về những câu chuyện chưa kể</a>: Khám phá các góc cạnh của bức vẽ văn học của Tolkien</i>, bởi Peter Grybauskas, được đánh giá bởi Maria K. Alberto
+    - <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=A_Sense_of_Tales_Untold&amp;action=edit&amp;redlink=1" title="A Sense of Tales Untold (page does not exist)">Cảm giác về những câu chuyện chưa kể</a>: Khám phá các khía cạnh của bức vẽ văn học của Tolkien</i>, của Peter Grybauskas, được đánh giá bởi Maria K. Alberto
     - *[Middle-earth, or There and Back Again](../M/Middle-earth,_or_There_and_Back_Again.md)*, do Łukasz Neubauer biên tập, Merlin DeTardo đánh giá
     - Ghi chú sách, của David Bratman
 
-- David Bratman, Kate Neville, Jennifer Rogers, Jonathan Evans, Robin Anne Reid, John Wm. Houghton và John Magoun, "Công việc của năm trong nghiên cứu Tolkien 2019"
+- David Bratman, Kate Neville, Jennifer Rogers, Jonathan Evans, Robin Anne Reid, John Wm. Houghton và John Magoun, "Công trình nghiên cứu Tolkien của năm 2019"
 - David Bratman, "Thư mục (bằng tiếng Anh) cho năm 2020"
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="https://muse.jhu.edu/issue/50799" rel="noreferrer noopener" target="_blank"><i>Nghiên cứu về Tolkien</i>: Tập 19</a> tại Project Muse
-- <a class="external text" href="http://kalimac.blogspot.com/2023/01/tolkien-studies-19-announcement.html" rel="noreferrer noopener" target="_blank"><i>Tolkien Studies 19</i>: thông báo</a> trên blog của David
+- <a class="external text" href="https://muse.jhu.edu/issue/50799" rel="noreferrer noopener" target="_blank"><i>Tolkien Nghiên cứu</i>: Tập 19</a> tại Project Muse
+- <a class="external text" href="http://kalimac.blogspot.com/2023/01/tolkien-studies-19-announcement.html" rel="noreferrer noopener" target="_blank"><i>Tolkien Nghiên cứu 19</i>: thông báo</a> trên blog của David
 
 <br clear="all"/>
 

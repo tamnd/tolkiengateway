@@ -36,13 +36,13 @@ infobox:
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
-**Into the West** là bài hát được viết bởi [Fran Walsh](../F/Fran_Walsh.md), [Howard Shore](../H/Howard_Shore.md) và [Annie Lennox](../A/Annie_Lennox.md) và được Lennox trình diễn cho [Peter Jackson's](../P/Peter_Jackson.md) *[The Lord of the Rings: The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*.
+**Into the West** là bài hát được viết bởi [Fran Walsh](../F/Fran_Walsh.md), [Howard Shore](../H/Howard_Shore.md) và [Annie Lennox](../A/Annie_Lennox.md) và được Lennox trình bày cho [Peter Jackson's](../P/Peter_Jackson.md) *[The Lord of the Rings: The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*.
 
 Đây là bài hát thứ 19 và cũng là bài hát cuối cùng của *[The Lord of the Rings: The Return of the King - Original Motion Picture Soundtrack](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_-_Original_Motion_Picture_Soundtrack.md)* và là một phần của [Days of the Ring](../D/Days_of_the_Ring.md), bài hát thứ bảy của đĩa bốn của *[The Lord of the Rings: The Return of the King - The Complete Recordings](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_-_The_Complete_Recordings.md)*.
 
-Bài hát được hình thành như một lời than thở buồn vui lẫn lộn của [Elven](../E/Elves.md) dành cho những người đã vượt qua [Biển phân chia](../B/Belegaer.md).
+Bài hát được hình thành như một [Tiên](../E/Elves.md) lời than thở buồn vui lẫn lộn dành cho những người đã vượt qua [Biển phân chia](../B/Belegaer.md).
 
-Trong phần bình luận và phim tài liệu đi kèm [ấn bản DVD mở rộng](<../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_(extended_edition).md>) của bộ phim, đạo diễn [Peter Jackson](../P/Peter_Jackson.md) giải thích rằng bài hát được lấy cảm hứng một phần từ cái chết sớm vì bệnh ung thư của nhà làm phim 17 tuổi [New Zealand](../N/New_Zealand.md) <a class="extiw" href="http://en.wikipedia.org/wiki/Cameron_Duncan" title="wikipedia:Cameron Duncan">Cameron Duncan</a>, tác phẩm của anh đã gây ấn tượng với Jackson và nhóm của ông. Buổi biểu diễn đầu tiên trước công chúng của bài hát là tại đám tang của Duncan.
+Trong phần bình luận và phim tài liệu đi kèm [ấn bản DVD mở rộng](<../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_(extended_edition).md>) của bộ phim, đạo diễn [Peter Jackson](../P/Peter_Jackson.md) giải thích rằng bài hát được lấy cảm hứng một phần từ cái chết sớm vì bệnh ung thư của nhà làm phim [New Zealand](../N/New_Zealand.md) 17 tuổi <a class="extiw" href="http://en.wikipedia.org/wiki/Cameron_Duncan" title="wikipedia:Cameron Duncan">Cameron Duncan</a>, tác phẩm của anh đã gây ấn tượng với Jackson và nhóm của ông. Buổi biểu diễn đầu tiên trước công chúng của bài hát là tại đám tang của Duncan.
 
 Bài hát đã giành được Giải Oscar cho *Thành tựu âm nhạc viết cho phim ảnh (Bài hát gốc)* tại Lễ trao giải Oscar lần thứ 76, một trong 11 giải Oscar của bộ phim.
 

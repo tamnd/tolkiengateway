@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "King's Men"
 ---
 
-Chuyển hướng đến [King's Men](King's_Men.md).
+Chuyển hướng đến [Người của Nhà Vua](King's_Men.md).

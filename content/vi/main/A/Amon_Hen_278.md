@@ -42,7 +42,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/AmonHen278.png.md"><img src="https://tolkiengateway.net/w/images/thumb/8/8d/AmonHen278.png/320px-AmonHen278.png" decoding="async" loading="lazy" width="320" height="453" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/8d/AmonHen278.png/480px-AmonHen278.png 1.5x, https://tolkiengateway.net/w/images/thumb/8/8d/AmonHen278.png/640px-AmonHen278.png 2x" data-file-width="1447" data-file-height="2047"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Amon Hen 278</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="Andrew_Butler.md" title="Andrew Butler">Andrew Butler</a></td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="../J/Jef_Murray.md" title="Jef Murray">Jef Murray</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Printer</th><td class="tg-infobox-data"><a class="external text" href="http://www.horshampress.co.uk/" rel="noreferrer noopener" target="_blank">Horsham Press</a>, Horsham, UK</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">July <a href="../_/2019.md" title="2019">2019</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">A5 stapled paperback, glossy</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">32</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0306-8781</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Amon_Hen_277.md" title="Amon Hen 277">Amon Hen 277</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Amon_Hen_279.md" title="Amon Hen 279">Amon Hen 279</a></td></tr></tbody></table>
 
-<b><i>Amon Hen</i> 278</b> is the two-hundred-and-seventy-eighth issue of the [The Tolkien Society](../T/The_Tolkien_Society.md)'s bimonthly journal *[Amon Hen](<Amon_Hen_(journal).md>)*, published in July [2019](../_/2019.md).
+<b><i>Amon Hen</i> 278</b> là số thứ 278 của tạp chí hai tháng một lần của [Hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, xuất bản vào tháng 7 [2019](../_/2019.md).
 
 ## Nội dung {#Contents}
 
@@ -64,9 +64,9 @@ infobox:
 - Quảng cáo: *Prancing Pony Podcast*
 - Tất cả Bran
     - Bởi: Ian Spittlehouse
-- Gián điệp và xâm nhập trong các tác phẩm của Tolkien Phần 1
+- Gián điệp và xâm nhập trong các bài viết của Tolkien Phần 1
     - Bởi: Chris Macarthur
-- Bó hoa và Brickbats của Tolkien (Bộ phim)
+- Tolkien (Bộ phim) Bó hoa và Brickbats
     - Bởi: Jessica Yates
 - Phía sau cánh cửa kính
     - Bởi: Ian Collier
@@ -83,8 +83,8 @@ infobox:
     - Bởi: Steve Lines
 - Báo cáo: Nụ cười ba viên đá đánh rắm
     - Bởi: Maggie Bailey
-- Sự việc linh tinh của Michael
-    - Bởi: Michael Flowers
+Linh tinh của - Michael
+    - Bởi: Michael Hoa
 - Tác phẩm nghệ thuật: *Bag End*
     - Bởi: Chris Bell
 - Ủy ban

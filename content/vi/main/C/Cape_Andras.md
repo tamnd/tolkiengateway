@@ -26,7 +26,7 @@ Mũi Andras đánh dấu giới hạn phía tây bắc của vùng [Eglamar](<..
 
 ## Từ nguyên {#Etymology}
 
-Tên *Andras* có trong [Sindarin](../S/Sindarin.md), có nghĩa là "Mũi dài". Nó bao gồm các phần tử *[and](../A/And.md)* ("dài") + <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Ras(t)&amp;action=edit&amp;redlink=1" title="Ras(t) (page does not exist)">ras(t)</a></i> ("cape").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Tên *Andras* có trong [Sindarin](../S/Sindarin.md), có nghĩa là "Mũi Dài". Nó bao gồm các phần tử *[and](../A/And.md)* ("dài") + <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Ras(t)&amp;action=edit&amp;redlink=1" title="Ras(t) (page does not exist)">ras(t)</a></i> ("cape").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Xem thêm {#See_also}
 

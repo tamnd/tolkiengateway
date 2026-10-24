@@ -18,12 +18,12 @@ sort_keys:
 
 Vào [21 tháng 3](../_/21_March.md) [1966](../_/1966.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho [George Sayer](../G/George_Sayer.md)**.
 
-- **Mô tả:** Một lá thư viết tay có chữ ký và ghi ngày tháng. 175 x 135 cm, được viết trên cả hai mặt của một tờ văn phòng phẩm Oxford màu kem của Tolkien có in tiêu đề 'Giáo sư J.R.R. Tolkien' và có địa chỉ gửi lại Oxford.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+- **Mô tả:** Một lá thư viết tay có chữ ký và ghi ngày tháng. 175 x 135 cm, được viết trên cả hai mặt của một tờ văn phòng phẩm Oxford màu kem của Tolkien có in tiêu đề 'Giáo sư J.R.R. Tolkien' và có địa chỉ trả lại Oxford.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 - **Xuất bản:** Không có
 
 ## Nội dung (từ người bán sách) {#Contents_(from_the_bookseller)}
 
-Bức thư phần lớn mang tính chất cá nhân nhưng cũng thảo luận về việc xuất bản ấn bản thứ hai của *Lord of the Rings* và các tài liệu tham khảo *The Silmarillion*, tác phẩm mà Tolkien bắt đầu trước *The Hobbit* và mặc dù không được xuất bản cho đến sau cái chết của Tolkien, nhưng đây là nền tảng mà từ đó cả bốn cuốn sách về Trung Địa đều được rút ra. Đây là một lá thư có tầm quan trọng, Tolkien đề cập đến những sửa đổi được thực hiện trong ấn bản thứ hai của LOTR và đảm bảo với Sayer rằng những sửa đổi đó là cần thiết và liệt kê các lý do.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Bức thư phần lớn mang tính chất cá nhân nhưng cũng thảo luận về việc xuất bản ấn bản thứ hai của *Lord of the Rings* và các tài liệu tham khảo *The Silmarillion*, tác phẩm Tolkien bắt đầu trước *The Hobbit* và, mặc dù không được xuất bản cho đến sau cái chết của Tolkien, nhưng đó là nền tảng mà từ đó tất cả bốn cuốn sách về Trung Địa được rút ra. Đây là một lá thư quan trọng, Tolkien đề cập đến những sửa đổi được thực hiện trong ấn bản thứ hai của LOTR và đảm bảo với Sayer rằng những sửa đổi đó là cần thiết và liệt kê các lý do.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

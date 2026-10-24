@@ -22,7 +22,7 @@ sort_keys:
   "People by name": "Robinson, Hawke"
 ---
 
-**Hawke Robinson** là một người hâm mộ cuồng nhiệt của Tolkien từ cuối những năm 1970. Robinson đã viết một số bài báo về [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và về việc chơi game ở [Arda](../A/Arda.md), đồng thời là nhân vật trung tâm của [Hiệp hội Tolkien Tây Bắc Nội địa](../I/Inland_Northwest_Tolkien_Society.md). Ông tổ chức, tài trợ và thành lập hội nghị [TolkienMoot](../M/MerpCon.md), thành lập Đài phát thanh Trung Địa, sáng lập và đồng biên tập *[Other Minds](../O/Other_Minds.md)* với [Thomas Morwinsky](../T/Thomas_Morwinsky.md), đồng thời là quản trị viên trang web của các trang web của các dự án nêu trên. Ông cũng đã tạo ra một hệ thống trò chơi dựa trên người hâm mộ để nhập vai trong vũ trụ của Tolkien, được gọi là Eä RPG. Robinson thành lập Merp.com vào những năm 1990 trước khi giao lại cho một cộng đồng tình nguyện viên quốc tế điều hành, đồng thời duy trì danh sách email merp@merp.com từ cuối những năm 1990 (tiếp quản từ Mario M. Butter).
+**Hawke Robinson** là một Tolkien người hâm mộ cuồng nhiệt từ cuối những năm 1970. Robinson đã viết một số bài báo về [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và về việc chơi game trong [Arda](../A/Arda.md), đồng thời là nhân vật trung tâm của [Hiệp hội Tolkien Inland Northwest](../I/Inland_Northwest_Tolkien_Society.md). Ông tổ chức, tài trợ và thành lập hội nghị [TolkienMoot](../M/MerpCon.md), thành lập The Trung Địa Radio, thành lập và đồng biên tập *[Other Minds](../O/Other_Minds.md)* với [Thomas Morwinsky](../T/Thomas_Morwinsky.md), đồng thời là quản trị viên trang web của các trang web của các dự án nói trên. Ông cũng đã tạo ra một hệ thống trò chơi dựa trên người hâm mộ để nhập vai trong vũ trụ của Tolkien, được gọi là Eä RPG. Robinson thành lập Merp.com vào những năm 1990 trước khi giao lại cho một cộng đồng tình nguyện viên quốc tế điều hành, đồng thời duy trì danh sách email merp@merp.com từ cuối những năm 1990 (tiếp quản từ Mario M. Butter).
 
 Robinson là người sáng lập Dự án Nghiên cứu Trò chơi Nhập vai, liên kết với Khoa Giải trí Trị liệu tại <a class="extiw" href="http://en.wikipedia.org/wiki/Eastern_Washington_University" title="wikipedia:Eastern Washington University">Đại học Đông Washington</a>. Ông sống ở <a class="extiw" href="http://en.wikipedia.org/wiki/Spokane,_Washington" title="wikipedia:Spokane, Washington">Spokane, Washington</a>, nuôi ba cậu con trai.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
@@ -35,13 +35,13 @@ Robinson là người sáng lập Dự án Nghiên cứu Trò chơi Nhập vai, 
     - "Cuộc chiến về trò chơi nhập vai"
 - [2008](../_/2008.md): *[Other Minds 2](../O/Other_Minds_2.md)*
     - "J.R.R. Tolkien Tình yêu cây cối và môi trường"
-    - "Uswe Numenorello - Thoát Khỏi Númenor" \[bổ sung\]
+    - "Uswe Numenorello - Thoát khỏi Númenor" \[bổ sung\]
 - [2008](../_/2008.md): *[Other Minds 3](../O/Other_Minds_3.md)*
     - "Umbar-dalad ("Dưới Umbar")" \[bổ sung\]
 - [2008](../_/2008.md): *[Other Minds 4](../O/Other_Minds_4.md)*
     - "MerpCon ở đâu"
 - 2009: *[Other Minds 5](../O/Other_Minds_5.md)*
-    - "Tác động của Tolkien tới Beowulf"
+Tác động của     - "Tolkien tới Beowulf"
 
 ## Liên kết ngoài {#External_links}
 

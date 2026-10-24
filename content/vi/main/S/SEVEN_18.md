@@ -42,10 +42,10 @@ infobox:
 - "Sự cống hiến của Trung tâm Marion mới E. Wade Nhận xét"
     - Bởi: Giám đốc Chris Mitchell, Hiệu trưởng Stanton Jones của Đại học Wheaton, Robert Culshaw đáng kính, Barbara Reynolds, và một bài thơ của Jill Baumgaertner
 - "*Quorum Porum*: Những chú mèo văn học của T.S. Eliot, Ruth Pitter và Dorothy L. Sayers"
-    - Bởi: Don King
+    - Bởi: Don Vua
 - "Tiếp tục nghiên cứu về Thiếu úy Lewis"
     - Bởi: K.J. Gilchrist
-- "Charles Williams và truyền thống thuật giả kim"
+- "Charles Williams và Truyền thống Giả kim thuật"
     - Bởi: Gavin Ashenden
 - "Người đa năng C.S. Lewis: Học giả Latinh"
     - Bởi: Arthur Rupprecht<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>

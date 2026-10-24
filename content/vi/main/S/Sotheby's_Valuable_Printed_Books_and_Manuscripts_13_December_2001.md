@@ -32,15 +32,15 @@ infobox:
 
 <i><b>Sách in và bản thảo có giá trị của Sotheby's Ngày 13 tháng 12 năm 2001</b></i> là một danh mục đấu giá từ [Sotheby's](Sotheby's.md) (London). Danh mục này bao gồm một số lô liên quan đến Tolkien, trong đó đáng chú ý nhất là:<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-- Lô 546 (tr. 256) - Bản sao cá nhân có chú thích của Tolkien về hai tập *Shorter Oxford English Dictionary*. Hai ghi chú được sao chép trong các bức ảnh - một ghi chú được liên kết với mục nhập 'Tiên', trong khi ghi chú kia là định nghĩa cho 'Cuối túi'.
+- Lô 546 (tr. 256) - Bản sao cá nhân có chú thích của Tolkien của hai tập *Shorter Oxford English Dictionary*. Hai ghi chú được sao chép trong các bức ảnh - một ghi chú được liên kết với mục nhập 'Tiên', trong khi ghi chú kia là định nghĩa cho 'Cuối túi'.
 
-- Lô 549 (tr. 259) - Bộ ấn bản đầu tiên được đóng bìa đặc biệt của *The Lord of the Rings*. Phần mô tả lô hàng trích dẫn từ một bức thư và [ghi chú của Tolkien gửi Peter Alford](<../L/Letter_to_Peter_Alford_(1956-58).md>) về tiêu đề của mỗi cuốn trong số sáu cuốn sách.
+- Lô 549 (tr. 259) - Bộ ấn bản đầu tiên được đóng bìa đặc biệt của *The Lord of the Rings*. Phần mô tả lô hàng trích dẫn từ một lá thư và [ghi chú của Tolkien gửi Peter Alford](<../L/Letter_to_Peter_Alford_(1956-58).md>) về tiêu đề của mỗi cuốn trong số sáu cuốn sách.
 
-- Lô 550 (trang 260–1) - Nhóm bốn bức thư gửi Peter Alford ([14 tháng 1 năm 1956](<../L/Letter_to_Peter_Alford_(14_January_1956).md>), [?Giữa tháng 2 năm 1956](<../L/Letter_to_Peter_Alford_(February_1956).md>), [1956-58](<../L/Letter_to_Peter_Alford_(1956-58).md>), [2 tháng 4 năm 1958](<../L/Letter_to_Peter_Alford_(2_April_1958).md>)). Phần mô tả lô hàng bao gồm các trích dẫn thảo luận về *The Lord of the Rings* và chuyến thăm Hà Lan để dự 'Bữa tối Hobbit'. Sáu trang của các bức thư được sao chép trong một bức ảnh.
+- Lô 550 (trang 260–1) - Nhóm bốn bức thư gửi Peter Alford ([14 tháng 1 năm 1956](<../L/Letter_to_Peter_Alford_(14_January_1956).md>), [?Giữa tháng 2 năm 1956](<../L/Letter_to_Peter_Alford_(February_1956).md>), [1956-58](<../L/Letter_to_Peter_Alford_(1956-58).md>), [2 tháng 4 năm 1958](<../L/Letter_to_Peter_Alford_(2_April_1958).md>)). Phần mô tả lô đất bao gồm các trích dẫn thảo luận về *The Lord of the Rings* và chuyến thăm Hà Lan để 'Hobbit Bữa tối'. Sáu trang của các bức thư được sao chép trong một bức ảnh.
 
 - Lô 552 (trang 262–3) - Thư gửi [Pauline Baynes ngày 4 tháng 6 năm 1949](../L/Letter_to_Pauline_Baynes.md) - Mô tả lô bao gồm các đoạn trích đề cập đến *Farmer Giles of Ham* và *The Lord of the Rings*. Trang đầu tiên của bức thư được sao chép trong một bức ảnh.
 
-- Lô 554 (trang 264–5) - Bốn bức thư gửi Pauline Baynes đề ngày từ ngày 23 tháng 11 năm 1961 đến ngày 3 tháng 8 năm 1962 - mô tả lô bao gồm các trích dẫn thảo luận về *The Adventures of Tom Bombadil*. Năm trang của các bức thư được sao chép trong một bức ảnh. (Lô này lại được chào bán trong danh mục Sotheby's sau này, xem Lô 789, *[Sotheby's Literature and Illustration 11-12 July 2002](Sotheby's_Literature_and_Illustration_11-12_July_2002.md)*)
+- Lô 554 (trang 264–5) - Bốn lá thư gửi Pauline Baynes đề ngày từ ngày 23 tháng 11 năm 1961 đến ngày 3 tháng 8 năm 1962 - mô tả lô bao gồm các trích dẫn thảo luận về *The Adventures of Tom Bombadil*. Năm trang của các bức thư được sao chép trong một bức ảnh. (Lô này lại được chào bán trong danh mục Sotheby's sau này, xem Lô 789, *[Sotheby's Literature and Illustration 11-12 July 2002](Sotheby's_Literature_and_Illustration_11-12_July_2002.md)*)
 
 - Lô 557 (tr. 266) - Thư gửi [Anthony D. Howlett ngày 28 tháng 5 năm 1969](../L/Letter_to_Anthony_D._Howlett.md) - Mô tả lô bao gồm các đoạn trích thảo luận về tên 'Rivendell'. Trang đầu tiên của bức thư được sao chép trong một bức ảnh.
 

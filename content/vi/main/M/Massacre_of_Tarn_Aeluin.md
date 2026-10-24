@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Massacre at Tarn Aeluin"
 ---
 
-Chuyển hướng tới [Vụ thảm sát ở Tarn Aeluin](Massacre_at_Tarn_Aeluin.md).
+Chuyển hướng đến [Vụ thảm sát ở Tarn Aeluin](Massacre_at_Tarn_Aeluin.md).

@@ -16,12 +16,12 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><a href="../F/First_Age.md" title="First Age">I</a><a href="../S/Second_Age.md" title="Second Age">II</a><b>III</b><a href="../F/Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="Third_Age_2984.md" title="Third Age 2984">2984</a><a href="Third_Age_2985.md" title="Third Age 2985">2985</a><a href="Third_Age_2986.md" title="Third Age 2986">2986</a><a class="mw-selflink selflink">2987</a><a href="Third_Age_2988.md" title="Third Age 2988">2988</a><a href="Third_Age_2989.md" title="Third Age 2989">2989</a><a href="Third_Age_2990.md" title="Third Age 2990">2990</a></div></div></div></div></div></div>
 
-**Tuổi thứ ba 2987** (viết tắt là **T.A. 2987**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 2987 của [Tuổi thứ ba](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Kỷ Đệ Tam 2987 còn được gọi là **S.R. 1387** trong [Tính toán quận](../S/Shire-reckoning.md).
+**Kỷ Đệ Tam 2987** (viết tắt là **T.A. 2987**) là năm [thứ 2987 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Tam](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Kỷ Đệ Tam 2987 còn được gọi là **S.R. 1387** trong [lịch Shire](../S/Shire-reckoning.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- Sự ra đời của [Elphir](../E/Elphir.md), đứa con đầu lòng và con trai của [Imrahil](../I/Imrahil.md), [Hoàng tử của Dol Amroth](../P/Prince_of_Dol_Amroth.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
-- Sự ra đời của [Mosco Burrows](../M/Mosco_Burrows.md), đứa con đầu lòng và con trai của [Milo Burrows](../M/Milo_Burrows.md) và [Peony Baggins](../P/Peony_Baggins.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- Sự ra đời của [Elphir](../E/Elphir.md), con đầu lòng và con trai của [Imrahil](../I/Imrahil.md), [Thân vương Dol Amroth](../P/Prince_of_Dol_Amroth.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+- Sự ra đời của [Mosco Burrows](../M/Mosco_Burrows.md), đứa con đầu lòng và con trai của [Milo Burrows](../M/Milo_Burrows.md) và [Hoa mẫu đơn Baggins](../P/Peony_Baggins.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

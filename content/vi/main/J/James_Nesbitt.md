@@ -39,7 +39,7 @@ Con gái của ông là [Mary](../M/Mary_Nesbitt.md) và [Peggy](../P/Peggy_Nesb
 
 - [2012](../_/2012.md) *[The Hobbit: An Unexpected Journey](../T/The_Hobbit%253A_An_Unexpected_Journey.md)*: [Bofur](../B/Bofur.md)
 - [2013](../_/2013.md) *[The Hobbit: The Desolation of Smaug](../T/The_Hobbit%253A_The_Desolation_of_Smaug.md)*: Bofur
-- [2013](../_/2013.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=New_Zealand:_Home_of_Middle-earth&amp;action=edit&amp;redlink=1" title="New Zealand: Home of Middle-earth (page does not exist)">New Zealand: Quê hương của Trung Địa</a></i>: Chính Ngài
+- [2013](../_/2013.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=New_Zealand:_Home_of_Middle-earth&amp;action=edit&amp;redlink=1" title="New Zealand: Home of Middle-earth (page does not exist)">New Zealand: Nhà của Trung Địa</a></i>: Chính mình
 - [2014](../_/2014.md) *[Lego The Hobbit: The Video Game](../L/Lego_The_Hobbit%253A_The_Video_Game.md)*: Bofur (đoạn phim lưu trữ)
 - [2014](../_/2014.md): *[The Hobbit: The Battle of the Five Armies](../T/The_Hobbit%253A_The_Battle_of_the_Five_Armies.md)*: Bofur
 

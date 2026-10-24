@@ -28,21 +28,21 @@ infobox:
 <article class="tabber__panel" id="tabber-tabpanel-LOTRO-0" role="tabpanel" tabindex="0" aria-labelledby="tabber-tab-LOTRO-0"><table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Gwindeth</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Other names</th><td class="tg-infobox-data">Blue Lady of Evendim</td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">Gwindethrond, <a href="../L/Lake_Evendim.md" title="Lake Evendim">Lake Evendim</a></td></tr><tr><th scope="row" class="tg-infobox-label">Affiliation</th><td class="tg-infobox-data"><a href="../A/Arnor.md" title="Arnor">Arnor</a></td></tr></tbody></table></article>
 </section></div></div>
 
-**Tinh thần [Hồ Evendim](../L/Lake_Evendim.md)** xuất hiện trong [Nhập vai ở Trung Địa](../M/Middle-earth_Role_Playing.md) và [The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md)
+Một **tinh thần [Hồ Evendim](../L/Lake_Evendim.md)** xuất hiện trong [Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md) và [The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md)
 
 ## Trong *Middle-earth Role Playing* {#In_Middle-earth_Role_Playing}
 
 **Linyuilë**, còn được gọi là "Quý bà của hồ" và "Ma lạnh", là linh hồn nước của Hồ Evendim.
 
-Về hình thức và cách ăn mặc, bà giống những Yêu tinh đã di cư đến [Valinor](../V/Valinor.md), nhưng bà tiếp thu ngôn ngữ và cách cư xử của những cư dân sau này ở hồ. Điều này cho phép cô đi lại giữa họ nếu cô muốn, thường là trong các đám cưới. Tương tự, cô cũng tham dự mọi lễ đăng quang và sinh nở tại cung điện [Annúminas](../A/Annúminas.md) cho đến khi cung điện bị phá hủy.
+Về hình thức và cách ăn mặc, bà giống với Tiên tộc người đã di cư đến [Valinor](../V/Valinor.md), nhưng bà tiếp thu ngôn ngữ và cách cư xử của những cư dân sau này ở hồ. Điều này cho phép cô đi lại giữa họ nếu cô muốn, thường là trong các đám cưới. Tương tự, cô cũng tham dự mọi lễ đăng quang và sinh nở tại cung điện [Annúminas](../A/Annúminas.md) cho đến khi nó bị phá hủy.
 
 Mặc dù thường xuyên giúp đỡ những người gặp khó khăn nhưng bà lại hay thay đổi và có mối hận thù lâu dài với những người đã đối xử tệ với bà (hoặc giống họ).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Trong *The Lord of the Rings Online* {#In_The_Lord_of_the_Rings_Online}
 
-**Gwindeth**, “Quý bà màu xanh của Evendim”, là một linh hồn có thể là Thiếu nữ sông Swiftbrook, con sông đổ vào Hồ Evendim.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Cô sống trong hang động Gwindetrond ([S.](Sindarin.md) “Hang Gwindeth”) và từng là cố vấn cho các vị vua của [Arnor](../A/Arnor.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+**Gwindeth**, “Quý cô xanh của Evendim”, là một linh hồn có thể là Thiếu nữ dòng sông Swiftbrook, con sông chảy vào Hồ Evendim.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Cô sống trong hang động Gwindetrond ([S.](Sindarin.md) “Hang Gwindeth”) và từng là cố vấn cho các vị Vua của [Arnor](../A/Arnor.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
-Viên Silithair cuối cùng, những viên kim cương sáng ngời từ [Gia tộc Fëanor](../H/House_of_Fëanor.md), được [Amlaith](../A/Amlaith.md) giao cho cô chăm sóc. Nó được lấy lại theo lệnh của [Aragorn](../A/Aragorn.md) để rèn lại [Narsil](../N/Narsil.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> <span></span>
+Viên Silithair cuối cùng, những viên kim cương sáng ngời từ [Nhà Fëanor](../H/House_of_Fëanor.md), được [Amlaith](../A/Amlaith.md) giao cho cô chăm sóc. Nó được lấy ra theo lệnh của [Aragorn](../A/Aragorn.md) để rèn lại [Narsil](../N/Narsil.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

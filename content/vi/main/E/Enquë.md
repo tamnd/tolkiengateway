@@ -44,7 +44,7 @@ sort_keys:
 
 ## Xem thêm {#See_also}
 
-- [enquië](Enquië.md) (tuần sáu ngày của người Elf)
+- [enquië](Enquië.md) (Elvish tuần sáu ngày)
 - [yunque](../Y/Yunque.md) (mười hai, sáu đôi)
 
 <span></span>

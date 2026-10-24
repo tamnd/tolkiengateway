@@ -17,12 +17,12 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the Sindarin word</b>. For the dog, see <b><a href="Fang_(dog).md" title="Fang (dog)">Fang (dog)</a></b>.</div></div>
 
-<i><b>fang</b></i> là danh từ có nghĩa là "râu" trong [tiếng Sindarin](../S/Sindarin.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+<i><b>fang</b></i> là danh từ có nghĩa là "râu" trong [Sindarin](../S/Sindarin.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Ví dụ {#Examples}
 
-- <i><b>Fang</b>orn</i> = "[Râu cây](../T/Treebeard.md#Etymology)"
-- <i><a class="mw-redirect" href="../A/Anfangrim.md#Etymology" title="Anfangrim">An<b>fang</b>rim</a></i> = "Râu dài"
+- <i><b>Fang</b>orn</i> = "[Treebeard](../T/Treebeard.md#Etymology)"
+- <i><a class="mw-redirect" href="../A/Anfangrim.md#Etymology" title="Anfangrim">Một<b>fang</b>rim</a></i> = "Longbeards"
 - <i><a href="../U/Ulfang.md" title="Ulfang">Ul<b>fang</b></a> = "Râu Xấu xí"</i>
 
 ## Có cùng nguồn gốc {#Cognates}

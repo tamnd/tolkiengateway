@@ -25,11 +25,11 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><i><a href="../T/The_Letters_of_J.R.R._Tolkien.md" title="The Letters of J.R.R. Tolkien">The Letters of J.R.R. Tolkien</a></i></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Letter 195a</span></th></tr><tr><th scope="row" class="tg-infobox-label">Recipient</th><td class="tg-infobox-data"><a href="../R/Rayner_Unwin.md" title="Rayner Unwin">Rayner Unwin</a></td></tr><tr><th scope="row" class="tg-infobox-label">Date</th><td class="tg-infobox-data"><a href="../_/3_February.md" title="3 February">3 February</a> <a href="../_/1957.md" title="1957">1957</a></td></tr><tr><th scope="row" class="tg-infobox-label">Subject(s)</th><td class="tg-infobox-data"><a href="../N/Nevill_Coghill.md" title="Nevill Coghill">Nevill Coghill</a>&#39;s election to Merton Fellowship</td></tr></tbody></table>
 
-**Thư 195a** là bức thư được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và đăng trên *[The Letters of J.R.R. Tolkien: Revised and Expanded edition](../T/The_Letters_of_J.R.R._Tolkien.md#Revised_and_Expanded_edition)*.
+**Thư 195a** là lá thư được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và đăng trên *[The Letters of J.R.R. Tolkien: Revised and Expanded edition](../T/The_Letters_of_J.R.R._Tolkien.md#Revised_and_Expanded_edition)*.
 
 ## Tóm tắt {#Summary}
 
-Tolkien cho biết ông đang gặp khó khăn với một giáo sư người Mỹ không xác định và cũng phải đối mặt với việc nghỉ hưu cũng như cuộc bầu cử sau đó của người bạn [Inkling](../I/Inklings.md), [Nevill Coghill](../N/Nevill_Coghill.md) vào [Chức giáo sư văn học Anh Merton](../M/Merton_College.md). Những tình huống này đã khiến anh không thể làm việc trên *[The Silmarillion](../T/The_Silmarillion.md)*. Tolkien khuyến khích Rayner đến gặp ông vì ông sẽ không thể đến thăm London trong thời gian học.
+Tolkien cho biết ông đang gặp khó khăn với một giáo sư người Mỹ không xác định và cũng phải đối mặt với việc nghỉ hưu cũng như việc bầu chọn người bạn [Inkling](../I/Inklings.md), [Nevill Coghill](../N/Nevill_Coghill.md) của ông vào [Chức giáo sư Văn học Anh tại Merton](../M/Merton_College.md). Những tình huống này đã khiến anh không thể làm việc trên *[The Silmarillion](../T/The_Silmarillion.md)*. Tolkien đã khuyến khích Rayner đến gặp ông vì ông sẽ không thể đến thăm London trong thời gian học.
 
 <br>
 

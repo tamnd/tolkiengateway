@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Gateway:Collaborations"
 ---
 
-Chuyển hướng tới [Cổng Tolkien:Cộng tác](Collaborations.md).
+Chuyển hướng tới [Tolkien Gateway:Cộng tác](Collaborations.md).

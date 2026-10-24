@@ -59,9 +59,9 @@ Dự án chuyển thể nó thành phim bắt đầu vào tháng 3 năm 2006, b�
 
 ## Lô đồ {#Plot}
 
-Câu chuyện diễn ra khoảng bốn tháng sau khi [Frodo](../F/Frodo_Baggins.md) rời [Shire](The_Shire.md) (Tháng 12 [T.A.](Third_Age.md) [3018](Third_Age_3018.md)); người chơi chính là [Rose Cotton](../R/Rose_Cotton.md) và người anh họ Hamfoot (ban đầu) của bà. Trên đường đến [Budgeford](../B/Budgeford.md), họ tình cờ gặp một cô hầu gái Yêu tinh bị thương với một thông điệp tàn khốc.
+Câu chuyện diễn ra khoảng bốn tháng sau khi [Frodo](../F/Frodo_Baggins.md) rời [ Shire](The_Shire.md) (Tháng 12 [T.A.](Third_Age.md) [3018](Third_Age_3018.md)); người chơi chính là [Rose Cotton](../R/Rose_Cotton.md) và người anh họ Hamfoot (ban đầu) của bà. Trên đường tới [Budgeford](../B/Budgeford.md), họ gặp một cô hầu gái Tiên bị thương với một tin nhắn tàn khốc.
 
-Rosie và anh họ của bà cùng với một số người bạn lên đường cứu Quận khỏi sự hủy diệt sắp xảy ra. Mối nguy hiểm lớn hơn nhiều so với những gì họ có thể tưởng tượng
+Rosie và anh họ của bà cùng với một số người bạn lên đường cứu Shire khỏi sự hủy diệt sắp xảy ra. Mối nguy hiểm lớn hơn nhiều so với những gì họ có thể tưởng tượng
 
 ## Nhân vật {#Characters}
 
@@ -95,7 +95,7 @@ Rosie và anh họ của bà cùng với một số người bạn lên đườn
     - Evan Stroud
     - Douglas Dunklin
 
-- Người dịch tiếng Sindarin:
+- Sindarin người dịch:
     - J. Michele Swartz
     - Lauren rò rỉ
 

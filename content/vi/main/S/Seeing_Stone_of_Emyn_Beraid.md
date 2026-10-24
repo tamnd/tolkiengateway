@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Elendil's Stone"
 ---
 
-Chuyển hướng tới [Hòn đá Elendil](../E/Elendil's_Stone.md).
+Chuyển hướng tới [Elendil Hòn đá](../E/Elendil's_Stone.md).

@@ -38,9 +38,9 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien cảm ơn con trai của Unwin [Rayner](../R/Rayner_Unwin.md) vì đã phê bình tích cực về [Một bữa tiệc được mong đợi từ lâu](../A/A_Long-expected_Party.md), nhưng tiếc rằng ông vẫn chưa vượt qua được chương đầu tiên này của phần tiếp theo của *[The Hobbit](../T/The_Hobbit.md)*.
+Tolkien cảm ơn con trai của Unwin [Rayner](../R/Rayner_Unwin.md) vì đã phê bình tích cực về [Một bữa tiệc được mong đợi từ lâu](../A/A_Long-expected_Party.md), nhưng rất tiếc rằng ông vẫn chưa vượt qua được chương đầu tiên này của phần tiếp theo của *[The Hobbit](../T/The_Hobbit.md)*.
 
-Tolkien đã đề cập đến [C.S. Lewis'](../C/C.S._Lewis.md) *[Out of the Silent Planet](../O/Out_of_the_Silent_Planet.md)* mà [Allen & Unwin](../A/Allen_and_Unwin.md) đang cân nhắc xuất bản và đã chấp thuận. Ông đề cập ngắn gọn về nguồn gốc chung mà tác phẩm của Lewis chia sẻ với câu chuyện còn dang dở *[The Lost Road](../T/The_Lost_Road.md)* của chính ông, và việc nhân vật chính của *Out of the Silent Planet* có cùng tên với Unwin và cũng là một nhà ngữ văn như Tolkien.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 2]</a></sup>
+Tolkien đã đề cập đến [C.S. Lewis'](../C/C.S._Lewis.md) *[Out of the Silent Planet](../O/Out_of_the_Silent_Planet.md)* mà [Allen &amp; Unwin](../A/Allen_and_Unwin.md) đang xem xét xuất bản và đã được ông chấp thuận. Ông đề cập ngắn gọn về nguồn gốc chung mà tác phẩm của Lewis chia sẻ với câu chuyện còn dang dở *[The Lost Road](../T/The_Lost_Road.md)* của chính ông, và việc nhân vật chính của *Out of the Silent Planet* có cùng tên với Unwin và là một nhà ngữ văn như Tolkien.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 2]</a></sup>
 
 ## Ghi chú {#Notes}
 

@@ -79,9 +79,9 @@ images:
 <td align="center" style="background:var(--tg-color-surface-3);border-bottom-left-radius:var(--tg-border-radius-large);border-bottom-right-radius:var(--tg-border-radius-large);" colspan="3">See also: <b><a href="../R/Round_World_version_of_the_legendarium.md" title="Round World version of the legendarium">Round World version of the legendarium</a></b>
 </td></tr></tbody></table>
 
-**Âm nhạc thứ hai của Ainur** là âm nhạc tuyệt vời mà [Ainur](../A/Ainur.md) sẽ tạo ra cùng với [Những đứa trẻ của Ilúvatar](../C/Children_of_Ilúvatar.md) trước [Ilúvatar](../I/Ilúvatar.md) sau [Sự kết thúc](../T/The_End.md), trong đó [Arda](../A/Arda.md) sẽ được [xây dựng lại](../A/Arda_Healed.md). [lịch sử](../T/Time.md) của Arda chỉ là một quá trình học hỏi để hướng tới nó.
+** Âm nhạc của các Ainur** thứ hai là bản nhạc tuyệt vời mà [Ainur](../A/Ainur.md) sẽ tạo ra cùng với [Những Người Con của Ilúvatar](../C/Children_of_Ilúvatar.md) trước [Ilúvatar](../I/Ilúvatar.md) sau [Kết thúc](../T/The_End.md), trong thời gian đó [Arda](../A/Arda.md) sẽ được [xây dựng lại](../A/Arda_Healed.md). [lịch sử](../T/Time.md) của Arda chỉ là một quá trình học tập hướng tới nó.
 
-Nó sẽ lộng lẫy hơn [Âm nhạc của người Ainur](../M/Music_of_the_Ainur.md) đầu tiên khi Trẻ em tham gia và mọi người tham gia sẽ hiểu đầy đủ ý định của mình và hòa hợp với những người khác. Ilúvatar sẽ trao cho họ [Ngọn lửa bí mật](Secret_Fire.md) và các chủ đề của ông sẽ lấy Hiện thể cùng lúc chúng được thốt ra.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
+Nó sẽ lộng lẫy hơn [Âm nhạc của các Ainur](../M/Music_of_the_Ainur.md) đầu tiên khi Trẻ em sẽ tham gia và mọi người tham gia sẽ hiểu đầy đủ ý định của mình và hòa hợp với những người khác. Ilúvatar sẽ trao cho họ [Ngọn lửa bí mật](Secret_Fire.md) và các chủ đề của ông sẽ lấy Hiện thể cùng lúc chúng được thốt ra.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

@@ -27,15 +27,15 @@ images:
   - "Disambig.png"
 ---
 
-**Eärendur** (phát âm là <span title="Pronunciation in IPA" class="IPA">[ˌe.aˈrendur]</span>) là [Quenya](../Q/Quenya.md) có nghĩa là "Mariner" (nghĩa đen là "người hầu biển") và có thể tham khảo:
+**Eärendur** (phát âm là <span title="Pronunciation in IPA" class="IPA">[ˌe.aˈrendur]</span>) là [Quenya](../Q/Quenya.md) dành cho "Mariner" (nghĩa đen là "người hầu biển") và có thể tham khảo:
 
 - [Eärendur](<Eärendur_(son_of_Tar-Amandil).md>) (sinh [S.A.](../S/Second_Age.md) [361](../S/Second_Age_361.md)), con trai thứ hai của [Vua](../K/Kings_of_Númenor.md) thứ ba của [Númenor](../N/Númenor.md), [Tar-Amandil](../T/Tar-Amandil.md).
-- [Eärendur](<Eärendur_(Lord_of_Andúnië).md>) (cuối [Tuổi thứ hai](../S/Second_Age.md)), [Chúa tể của Andúnië](../L/Lords_of_Andúnië.md) thứ mười lăm.
-- [Eärendur](<Eärendur_(King_of_Arnor).md>) ([T.A.](../T/Third_Age.md) [640](../T/Third_Age_640.md) - [861](../T/Third_Age_861.md)), người thứ mười và cuối cùng, [Vua](../K/Kings_of_Arnor.md) của [Arnor](../A/Arnor.md).
+- [Eärendur](<Eärendur_(Lord_of_Andúnië).md>) (cuối [Kỷ Đệ Nhị](../S/Second_Age.md)), thứ mười lăm [Lãnh chúa Andúnië](../L/Lords_of_Andúnië.md).
+- [Eärendur](<Eärendur_(King_of_Arnor).md>) ([T.A.](../T/Third_Age.md) [640](../T/Third_Age_640.md) - [861](../T/Third_Age_861.md)), phần mười và cuối cùng, [Vua](../K/Kings_of_Arnor.md) của [Arnor](../A/Arnor.md).
 
 ## Xem thêm {#See_also}
 
-- [Eärnur](Eärnur.md), là viết tắt của Eärendur.
+- [Eärnur](Eärnur.md), là rút gọn của Eärendur.
 
 <hr style="margin-top:15px;"/>
 

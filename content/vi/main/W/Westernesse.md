@@ -17,17 +17,17 @@ langlinks:
     url: "https://www.tolkiendil.com/encyclo/geographie/eaux/iles/anadune"
 ---
 
-**Westernesse** là tên trong [Ngôn Ngữ Chung](Westron.md) của [Đảo Númenor](../N/Númenor.md).
+**Westernesse** là tên trong [Ngôn ngữ Chung](Westron.md) của [Đảo Númenor](../N/Númenor.md).
 
 ## Từ nguyên {#Etymology}
 
 Đoạn kết *-ess* (cũng trong [Elvenesse](../E/Elvenesse.md)) được sử dụng trong văn học lãng mạn dành cho những vùng đất hư cấu có tên được Pháp hóa một phần (như trong <a class="extiw" href="http://en.wikipedia.org/wiki/Lyonesse" title="wikipedia:Lyonesse">Lyonesse</a> trong <a class="extiw" href="http://en.wikipedia.org/wiki/Matter_of_Britain" title="wikipedia:Matter of Britain">truyền thuyết Arthurian</a>).<sup id="cite_ref-Nomen_1-0" class="reference"><a href="#cite_note-Nomen-1">[1]</a></sup>
 
-[Tolkien](../J/J.R.R._Tolkien.md) lưu ý rằng tên này là tiếng Anh trung cổ, hiếm và có nghĩa mơ hồ, được hiểu là "vùng đất phương Tây" (ngược lại với [phương Đông](../E/East.md)).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+[Tolkien](../J/J.R.R._Tolkien.md) lưu ý rằng tên này là tiếng Anh trung cổ, hiếm và có nghĩa mơ hồ, được hiểu là "vùng đất phía Tây" (ngược lại với [phương Đông](../E/East.md)).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Cảm hứng {#Inspiration}
 
-Trong câu chuyện tình lãng mạn hiệp sĩ thế kỷ 13 <i><a class="extiw" href="http://en.wikipedia.org/wiki/King_Horn" title="wikipedia:King Horn">King Horn</a></i>, <a class="extiw" href="http://en.wikipedia.org/wiki/Westernesse" title="wikipedia:Westernesse">Westernesse</a> là một vương quốc được cai trị bởi "Vua Ailmar" và được Horn đến bằng tàu.<sup id="cite_ref-Nomen_1-1" class="reference"><a href="#cite_note-Nomen-1">[1]</a></sup> <span></span>
+Trong câu chuyện tình lãng mạn hiệp sĩ thế kỷ 13 <i><a class="extiw" href="http://en.wikipedia.org/wiki/King_Horn" title="wikipedia:King Horn">Vua Horn</a></i>, <a class="extiw" href="http://en.wikipedia.org/wiki/Westernesse" title="wikipedia:Westernesse">Westernesse</a> là một vương quốc được cai trị bởi "Vua Ailmar" và có thể đến được bằng tàu bởi Horn.<sup id="cite_ref-Nomen_1-1" class="reference"><a href="#cite_note-Nomen-1">[1]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

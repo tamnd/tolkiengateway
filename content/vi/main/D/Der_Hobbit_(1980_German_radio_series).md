@@ -21,7 +21,7 @@ langlinks:
     url: "https://www.ardapedia.org/wiki/Der_Hobbit_(H%C3%B6rspiel)"
 ---
 
-<i><b>Der kleine Hobbit</b></i> (<a class="extiw" href="http://en.wikipedia.org/wiki/German_language" title="wikipedia:German language">tiếng Đức.</a> **The Little Hobbit**), sau này được rút ngắn thành <i><b>Der Hobbit</b></i>, là một bản phóng tác radio <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">tiếng Đức</a> dựa trên *[The Hobbit](../T/The_Hobbit.md)*. Phim được phát sóng lần đầu tiên vào cuối tháng 12 [1980](../_/1980.md) dưới dạng một loạt phim ngắn phát thanh gồm bốn phần trên đài phát thanh công cộng của Đức <a class="extiw" href="http://en.wikipedia.org/wiki/Westdeutscher_Rundfunk" title="wikipedia:Westdeutscher Rundfunk">WDR</a> (Westdeutscher Rundfunk).
+<i><b>Der kleine Hobbit</b></i> (<a class="extiw" href="http://en.wikipedia.org/wiki/German_language" title="wikipedia:German language">tiếng Đức.</a> **The Little Hobbit**), sau này được rút ngắn thành <i><b>Der Hobbit</b></i>, là một phiên bản radio <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">tiếng Đức</a> dựa trên *[The Hobbit](../T/The_Hobbit.md)*. Phim được phát sóng lần đầu tiên vào cuối tháng 12 [1980](../_/1980.md) dưới dạng một loạt phim ngắn phát thanh gồm bốn phần trên đài phát thanh công cộng của Đức <a class="extiw" href="http://en.wikipedia.org/wiki/Westdeutscher_Rundfunk" title="wikipedia:Westdeutscher Rundfunk">WDR</a> (Westdeutscher Rundfunk).
 
 Loạt phim phát thanh có dàn diễn viên tương đối nhỏ và sử dụng nhiều hiệu ứng âm thanh và âm nhạc ngẫu nhiên đi kèm để tạo ra một câu chuyện kể lại đầy không khí của cuốn tiểu thuyết. Mỗi tập trong số bốn tập của loạt phim nhỏ trên đài *Der Hobbit* có thời lượng khoảng 55–60 phút. Bộ truyện đã được Ingeborg Oehme-Tröndle và Heinz Dieter Köhler chuyển thể cho đài phát thanh, và do Heinz Dieter Köhler đạo diễn. Nhạc của bộ phim được sáng tác bởi Enno Dugend.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
@@ -170,7 +170,7 @@ Gollum được lồng tiếng bởi diễn viên hài nổi tiếng người Đ
 
 Tổng thể dàn diễn viên lồng tiếng trong bản chuyển thể radio này khá nhỏ, tổng cộng chỉ bao gồm 13 diễn viên.
 
-[Bolg](../B/Bolg.md) và [Dáin Ironfoot](Dáin_Ironfoot.md) không có bất kỳ lời thoại nào trong bản chuyển thể radio này.
+[Bolg](../B/Bolg.md) và [Dáin Chân Sắt](Dáin_Ironfoot.md) không có bất kỳ dòng nào trong phiên bản radio này.
 
 ## Tín dụng {#Credits}
 
@@ -189,11 +189,11 @@ Tổng thể dàn diễn viên lồng tiếng trong bản chuyển thể radio n
 
 ### Bài hát được chuyển thể {#Adapted_songs}
 
-Vở kịch phỏng theo [Vượt qua dãy núi mù sương lạnh giá](../F/Far_over_the_misty_mountains_cold.md). Tiếng hát trang trọng của người lùn và nhạc cụ gợi lại âm nhạc thế tục thời Trung cổ và đầu thời kỳ hiện đại.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Vở kịch phỏng theo [Vượt qua dãy núi mù sương lạnh giá](../F/Far_over_the_misty_mountains_cold.md). Tiếng hát trang trọng của những người lùn và nhạc cụ gợi lại âm nhạc thế tục của thời Trung cổ Kỷ nguyên và thời kỳ đầu hiện đại.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Bản dịch {#Translation}
 
-Đến nay, đã có hai bản dịch cuốn sách *The Hobbit* sang tiếng Đức được xuất bản. Bản dịch đầu tiên năm 1957 của [Walter Scherf](../W/Walter_Scherf.md), *Kleiner Hobbit und der grosse Zauberer* ("The Little Hobbit and the Great Wizard"), viết tắt là *Der kleine Hobbit* ("The Little Hobbit") kể từ lần xuất bản thứ hai vào năm 1967, và bản dịch thứ hai, năm 1997 của [Wolfgang Krege](../W/Wolfgang_Krege.md), *Der Hobbit oder Hin und zurück* ("The Hobbit or There and Back").
+Đến nay, đã có hai bản dịch cuốn sách *The Hobbit* sang tiếng Đức được xuất bản. Bản dịch đầu tiên năm 1957 của [Walter Scherf](../W/Walter_Scherf.md), *Kleiner Hobbit und der grosse Zauberer* ("The Little Hobbit and the Great Pháp sư"), viết tắt là *Der kleine Hobbit* ("The Little Hobbit") kể từ lần xuất bản thứ hai vào năm 1967, và bản dịch thứ hai, năm 1997 của [Wolfgang Krege](../W/Wolfgang_Krege.md), *Der Hobbit oder Hin und zurück* ("The Hobbit hoặc Ở đó và Quay lại").
 
 Do thời kỳ sản xuất bộ radio *Der Hobbit* nên nó sử dụng thuật ngữ và một số đoạn trích từ bản dịch trước đó của Scherf. Tiêu đề của loạt phim phát thanh ban đầu cũng là *Der kleine Hobbit*, nhằm mục đích thống nhất với tiêu đề đang được sử dụng của bản dịch đầu tiên. Các phiên bản đã xuất bản của bản chuyển thể này từ những thập kỷ gần đây đã đơn giản hóa tiêu đề thành *Der Hobbit*. Đây là tiêu đề mà loạt phim radio ngày nay có thể được tìm thấy cho bất kỳ ai muốn mua bản sao vật lý hoặc kỹ thuật số của nó.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
@@ -230,5 +230,5 @@ Cho đến nay, loạt đài này đã được phát hành thương mại trên
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="extiw" href="http://en.wikipedia.org/wiki/Adaptations_of_The_Hobbit#Radio" title="wikipedia:Adaptations of The Hobbit"><i>Loạt phim phát thanh Đức The Hobbit</i> 1980</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia tiếng Anh</a>
-- <a class="external text" href="https://www.audible.de/pd/Der-Hobbit-Hoerbuch/B004UVJ3VC" rel="noreferrer noopener" target="_blank"><i>Loạt đài phát thanh Đức The Hobbit</i> 1980 có sẵn để mua tại Audible.de</a>
+- <a class="extiw" href="http://en.wikipedia.org/wiki/Adaptations_of_The_Hobbit#Radio" title="wikipedia:Adaptations of The Hobbit"><i>The Hobbit</i> Loạt đài phát thanh Đức năm 1980</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia tiếng Anh</a>
+- <a class="external text" href="https://www.audible.de/pd/Der-Hobbit-Hoerbuch/B004UVJ3VC" rel="noreferrer noopener" target="_blank"><i>The Hobbit</i> Dòng đài Đức 1980 có sẵn để mua tại Audible.de</a>

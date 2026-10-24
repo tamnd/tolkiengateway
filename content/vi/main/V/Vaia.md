@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Vaiya"
 ---
 
-Chuyển hướng tới [Vaiya](Vaiya.md).
+Chuyển hướng đến [Vaiya](Vaiya.md).

@@ -45,11 +45,11 @@ langlinks:
 <li><a href="Foreyule.md" title="Foreyule">Foreyule</a> (December)</li></ol>
 </td></tr></tbody></table>
 
-**Forelithe** hay **[Lithe](../L/Lithe.md)** ở [Bree](../B/Bree.md), là tháng thứ sáu của [Lịch Quận](../S/Shire_Calendar.md), nằm giữa [Thrimidge](../T/Thrimidge.md) và giữa mùa hè [Ngày Lithe](../L/Lithedays.md), và gần tương ứng với [ngày 22 tháng 5](../_/22_May.md) đến [20 hiện đại Tháng Sáu](../_/20_June.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Forelithe**, hay **[Lithe](../L/Lithe.md)** trong [Bree](../B/Bree.md), là tháng thứ sáu của [Lịch Shire](../S/Shire_Calendar.md), nằm giữa [Thrimidge](../T/Thrimidge.md) và giữa mùa hè [Lithedays](../L/Lithedays.md), và gần tương ứng với [ngày 22 tháng 5](../_/22_May.md) đến [ngày 20 tháng 6](../_/20_June.md) hiện đại.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Cái tên này thể hiện sự [hiện đại hóa](../H/Hobbitish.md) của tên [tiếng Anh cổ](../O/Old_English.md) cho tháng Sáu, <i><a class="extiw" href="http://en.wiktionary.org/wiki/%C3%A6rra_li%C3%BEa" title="wiktionary:ærra liþa">Æ'rra Líþa</a></i> có nghĩa là "trước uyển chuyển".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Cái tên thể hiện sự [hiện đại hóa](../H/Hobbitish.md) của tên [tiếng Anh cổ](../O/Old_English.md) cho tháng Sáu, <i><a class="extiw" href="http://en.wiktionary.org/wiki/%C3%A6rra_li%C3%BEa" title="wiktionary:ærra liþa">Æ'rra Líþa</a></i> có nghĩa là "trước uyển chuyển".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

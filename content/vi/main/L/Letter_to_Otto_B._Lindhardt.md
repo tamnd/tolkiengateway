@@ -14,11 +14,11 @@ sort_keys:
   "Letters": "Lindhart, Otto B."
 ---
 
-Vào [ngày 2 tháng 1](../_/2_January.md) [1967](../_/1967.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) gửi Otto B. Lindhardt** (của Gylendals Bibliotek, nhà xuất bản tương lai của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* ở Đan Mạch).<sup id="cite_ref-CG_1-0" class="reference"><a href="#cite_note-CG-1">[1]</a></sup><sup id="cite_ref-RC_2-0" class="reference"><a href="#cite_note-RC-2">[2]</a></sup>
+Vào [2 tháng 1](../_/2_January.md) [1967](../_/1967.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho Otto B. Lindhardt** (của Gyldendals Bibliotek, nhà xuất bản tương lai của Đan Mạch của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*).<sup id="cite_ref-CG_1-0" class="reference"><a href="#cite_note-CG-1">[1]</a></sup><sup id="cite_ref-RC_2-0" class="reference"><a href="#cite_note-RC-2">[2]</a></sup>
 
 - **Chủ đề:** Hướng dẫn dịch sang tiếng Đan Mạch *The Lord of the Rings*.
 - **Xuất bản:** Các trích dẫn trong bức thư đã được xuất bản trên *[The Lord of the Rings: A Reader's Companion](../T/The_Lord_of_the_Rings%253A_A_Reader's_Companion.md)* và trong *[The J.R.R. Tolkien Companion and Guide: I. Chronology](../T/The_J.R.R._Tolkien_Companion_and_Guide.md)*.
-- **Lưu trữ:** Tolkien-[George Allen & Unwin](../A/Allen_and_Unwin.md) lưu trữ, [HarperCollins](../H/HarperCollins.md).
+- **Lưu trữ:** Tolkien-[George Allen &amp; Unwin](../A/Allen_and_Unwin.md) lưu trữ, [HarperCollins](../H/HarperCollins.md).
 
 <span></span>
 

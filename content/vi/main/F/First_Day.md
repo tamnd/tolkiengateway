@@ -13,7 +13,7 @@ categories:
   - "Years of the Trees"
 ---
 
-**Ngày đầu tiên** là thời kỳ nở hoa và tàn lụi đầu tiên của [Hai Cây Valinor](../T/Two_Trees_of_Valinor.md) trong [Năm Cây](../Y/Years_of_the_Trees.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Ngày đầu tiên** là thời kỳ nở hoa và tàn lụi đầu tiên của [Hai Cây của Valinor](../T/Two_Trees_of_Valinor.md) trong [Năm Cây](../Y/Years_of_the_Trees.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

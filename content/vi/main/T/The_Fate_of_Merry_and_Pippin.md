@@ -44,7 +44,7 @@ infobox:
 
 ## Tóm tắt {#Synopsis}
 
-Ba thợ săn tiến về phía giàn thiêu [Uruk-hai](../U/Uruk-hai.md). Họ tìm kiếm giữa các thi thể và tìm thấy một chiếc thắt lưng của một trong những người Hobbit. [Legolas](../L/Legolas.md) thì thầm lời than thở cho họ, và trong cơn thất vọng, [Aragorn](../A/Aragorn.md) đá bay chiếc mũ bảo hiểm và quỳ xuống. Từ đó anh bắt đầu đọc dấu vết của những người hobbit trên mặt đất. Lần theo dấu vết của họ, anh phát hiện ra mối ràng buộc của họ đã bị cắt và họ trốn thoát vào [Rừng Fangorn](../F/Fangorn_Forest.md).
+Ba thợ săn tiến về phía giàn thiêu [Uruk-hai](../U/Uruk-hai.md). Họ tìm kiếm giữa các thi thể và tìm thấy một chiếc thắt lưng của một trong những người Hobbit. [Legolas](../L/Legolas.md) thì thầm than thở với họ, và [Aragorn](../A/Aragorn.md) bực bội đá chiếc mũ bảo hiểm và quỳ xuống. Từ đó anh bắt đầu đọc dấu vết của những người hobbit trên mặt đất. Lần theo dấu vết của họ, anh phát hiện ra mối ràng buộc của họ đã bị cắt và họ trốn thoát vào [Rừng Fangorn](../F/Fangorn_Forest.md).
 
 <blockquote class="tg-quote noexcerpt">
 <p>Fangorn? What madness drove them in there?

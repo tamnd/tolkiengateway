@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Gateway:To-do"
 ---
 
-Chuyển hướng tới [Cổng Tolkien: Việc cần làm](To-do.md).
+Chuyển hướng tới [Tolkien Gateway:Việc cần làm](To-do.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Havens of Gondor"
 ---
 
-Chuyển hướng tới [Nơi ẩn náu của Gondor](../H/Havens_of_Gondor.md).
+Chuyển hướng tới [Nơi trú ẩn của Gondor](../H/Havens_of_Gondor.md).

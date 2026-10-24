@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Frodo Lives!"
 ---
 
-Chuyển hướng tới [Frodo Lives!](Frodo_Lives!.md).
+Chuyển hướng đến [Frodo Cuộc sống!](Frodo_Lives!.md).

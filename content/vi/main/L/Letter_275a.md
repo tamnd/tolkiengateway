@@ -29,7 +29,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien nói với Unwin rằng ông chắc chắn sẽ đến muộn nhưng nói rằng ông đã đính kèm các bản sửa đổi vào *[The Hobbit](../T/The_Hobbit.md)*. Ông nói rằng ông đã cố gắng không cải thiện *The Hobbit* ngoài việc loại bỏ những phần bổ sung của tác giả cho người đọc. Ông cũng thảo luận rằng các bản sửa đổi cho *The Hobbit* sẽ cải thiện tính nhất quán của nó với *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* và mặc dù không phải tất cả các lỗi đều được loại bỏ nhưng ông đã làm những gì có thể.
+Tolkien nói với Unwin rằng ông chắc chắn sẽ đến muộn nhưng nói rằng ông đã đính kèm các bản sửa đổi vào *[The Hobbit](../T/The_Hobbit.md)* Ông nói rằng ông đã cố gắng không cải thiện *The Hobbit* ngoài việc loại bỏ những phần bổ sung của tác giả cho người đọc. Ông cũng thảo luận rằng các bản sửa đổi cho *The Hobbit* sẽ cải thiện tính nhất quán của nó với *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* và mặc dù không phải tất cả các lỗi đều được loại bỏ nhưng ông đã làm những gì có thể.
 
 <br>
 

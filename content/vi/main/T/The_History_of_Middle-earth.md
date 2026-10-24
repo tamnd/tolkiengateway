@@ -30,9 +30,9 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_History_of_Middle-earth_12.jpeg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/65/The_History_of_Middle-earth_12.jpeg/275px-The_History_of_Middle-earth_12.jpeg" decoding="async" loading="lazy" width="275" height="162" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/65/The_History_of_Middle-earth_12.jpeg/413px-The_History_of_Middle-earth_12.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/6/65/The_History_of_Middle-earth_12.jpeg/550px-The_History_of_Middle-earth_12.jpeg 2x" data-file-width="1693" data-file-height="1000"/></a><figcaption>Hardcover first editions of <i>The History of Middle-earth</i></figcaption></figure>
 
-<i><b>Lịch sử Trung Địa</b></i> là bộ sách gồm 12 tập được xuất bản giữa [1983](../_/1983.md) và [1996](../_/1996.md), sưu tầm và phân tích phần lớn [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) [huyền thoại](../L/Legendarium.md) của ông, do con trai ông, [Christopher Tolkien](../C/Christopher_Tolkien.md) biên soạn và biên tập.
+<i><b>The History of Middle-earth</b></i> là bộ sách gồm 12 tập được xuất bản giữa [1983](../_/1983.md) và [1996](../_/1996.md), sưu tầm và phân tích phần lớn [huyền thoại](../L/Legendarium.md) của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), do con trai ông, [Christopher Tolkien](../C/Christopher_Tolkien.md) biên soạn và biên tập.
 
-Bộ truyện cho thấy sự phát triển theo thời gian trong quan niệm của Tolkien về [Trung Địa](../M/Middle-earth.md) như một địa điểm hư cấu với các dân tộc, ngôn ngữ và lịch sử riêng, từ những quan niệm ban đầu của ông về "thần thoại cho nước Anh" cho đến sự phát triển của những câu chuyện tạo nên *[The Silmarillion](The_Silmarillion.md)* và *[The Lord of the Rings](The_Lord_of_the_Rings.md)*.
+Bộ truyện cho thấy sự phát triển theo thời gian trong quan niệm của Tolkien về [Trung Địa](../M/Middle-earth.md) như một địa điểm hư cấu với các dân tộc, ngôn ngữ và lịch sử riêng, từ những quan niệm đầu tiên của ông về "thần thoại cho nước Anh" cho đến sự phát triển của các câu chuyện tạo nên *[The Silmarillion](The_Silmarillion.md)* và *[The Lord of the Rings](The_Lord_of_the_Rings.md)*.
 
 Các tập 6-9 đã được xuất bản độc lập dưới dạng bộ đóng hộp, bởi HarperCollins trong [1998](../_/1998.md) và [2002](../_/2002.md), dưới dạng *[The History of The Lord of the Rings](The_History_of_The_Lord_of_the_Rings.md)*. Trong bộ này, *[Sauron Defeated](../S/Sauron_Defeated.md)* chỉ giữ lại nội dung liên quan đến *The Lord of the Rings* và được xuất bản dưới tựa đề *[The End of the Third Age](The_End_of_the_Third_Age.md)*.
 
@@ -64,13 +64,13 @@ Các tập 6-9 đã được xuất bản độc lập dưới dạng bộ đón
 
 - *[Index](The_History_of_Middle-earth_Index.md)* - (2002)
 
-Hai cuốn sách đầu tiên giới thiệu cho chúng ta *[The Book of Lost Tales](The_Book_of_Lost_Tales.md)*, quan niệm đầu tiên về [huyền thoại](../L/Legendarium.md) của Tolkien. Tập thứ ba đề cập đến những bài thơ dài liên quan đến một số câu chuyện chính. Hai cuốn sách sau đây theo dõi sự phát triển từ *The Book of Lost Tales* đến cuốn đầu tiên được gọi là *Quenta Silmarillion*. Tập 6 đến tập 9 thảo luận về sự phát triển của *The Lord of the Rings*, trong khi nửa sau của cuốn 9 thảo luận về câu chuyện Númenor. Quyển 10 và 11 thảo luận về những phát triển sau này của *The Silmarillion*, được dùng làm tài liệu nguồn cho *[the published edition](The_Silmarillion.md)*. Cuốn sách cuối cùng bao gồm việc xây dựng [*The Lord of the Rings* Phụ lục](The_Lord_of_the_Rings_Appendices.md), tiếp theo là một số tiểu luận J.R.R. Tolkien được viết trong những năm cuối đời của ông.
+Hai cuốn sách đầu tiên giới thiệu cho chúng ta về *[The Book of Lost Tales](The_Book_of_Lost_Tales.md)*, quan niệm đầu tiên về [huyền thoại](../L/Legendarium.md) của Tolkien. Tập thứ ba đề cập đến những bài thơ dài liên quan đến một số câu chuyện chính. Hai cuốn sách sau đây theo dõi sự phát triển từ *The Book of Lost Tales* đến cuốn đầu tiên được gọi là *Quenta Silmarillion*. Tập 6 đến tập 9 thảo luận về sự phát triển của *The Lord of the Rings*, trong khi nửa sau của cuốn 9 thảo luận về câu chuyện về Númenor. Quyển 10 và 11 thảo luận về những phát triển sau này của *The Silmarillion*, được dùng làm tài liệu nguồn cho *[the published edition](The_Silmarillion.md)*. Cuốn sách cuối cùng bao gồm việc xây dựng [*The Lord of the Rings* Phụ lục](The_Lord_of_the_Rings_Appendices.md), tiếp theo là một số tiểu luận J.R.R. Tolkien được viết trong những năm cuối đời của ông.
 
 Tập thứ mười ba được xuất bản năm 2002, *[The History of Middle-earth Index](The_History_of_Middle-earth_Index.md)*. Cuốn sách này đã tích hợp hoàn toàn tất cả các chỉ mục từ bộ này vào một chỉ mục lớn.
 
 ## Sự thụ thai {#Conception}
 
-Sau khi xuất bản ấn bản *[The Silmarillion](The_Silmarillion.md)* ở [1977](../_/1977.md), Christopher Tolkien tiếp tục nghiên cứu các bản thảo trước đó của cha mình, chuẩn bị một cuốn sách mà ông gọi là *The History of The Silmarillion*. Trong [1981](../_/1981.md), ông đã viết thư cho [Rayner Unwin](../R/Rayner_Unwin.md) (khi đó là chủ tịch của [Allen và Unwin](../A/Allen_and_Unwin.md)), thông báo về công việc đã hoàn thành cho đến thời điểm đó: một cuốn sách dày 1.968 trang cho đến nay, dày 16,5 inch.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Sau khi xuất bản ấn bản *[The Silmarillion](The_Silmarillion.md)* ở [1977](../_/1977.md), Christopher Tolkien tiếp tục nghiên cứu các bản thảo trước đó của cha mình, chuẩn bị một cuốn sách mà ông gọi là *The History of The Silmarillion*. Trong [1981](../_/1981.md), ông đã viết thư cho [Rayner Unwin](../R/Rayner_Unwin.md) (lúc đó là chủ tịch của [Allen và Unwin](../A/Allen_and_Unwin.md)), thông báo về công việc đã hoàn thành cho đến thời điểm đó: một cuốn sách tính đến nay đã dày 1.968 trang, dày 16,5 inch.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <blockquote class="tg-quote noexcerpt">
 <p>If and/or when you see this book, you will perceive immediately why I have said that it is in no conceivable way publishable. The textual and other discussions are far too detailed and minute; the size of it is (and will become progressively more so) prohibitive. It is done partly for my own satisfaction in getting things right, and because I wanted to know how the whole conception did in reality evolve from the earliest origins...
@@ -147,8 +147,8 @@ Trong [2002](../_/2002.md) bộ đóng hộp một ngăn tiêu chuẩn đã đư
 - ấn bản 2002
     - [HarperCollins](../H/HarperCollins.md), bộ đóng hộp ([2002](../_/2002.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007105088">ISBN 0007105088</a>
     - HarperCollins, bìa cứng (2002), trang 1920. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007149158">ISBN 0007149158</a>
-    - HarperCollins, bìa cứng (2002), trang 2032. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007149166">ISBN 0007149166</a>
-    - HarperCollins, bìa cứng (2002), trang 1488. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007149174">ISBN 0007149174</a>
+    - HarperCollins, bìa cứng (2002), trang 2032. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007149166">ISBN 0007149166</a>
+    - HarperCollins, bìa cứng (2002), trang 1488. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007149174">ISBN 0007149174</a>
 
 - Phiên bản cao cấp 2017
     - [HarperCollins](../H/HarperCollins.md), bộ đóng hộp ([2017](../_/2017.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0008259844">ISBN 0008259844</a>
@@ -158,13 +158,13 @@ Trong [2002](../_/2002.md) bộ đóng hộp một ngăn tiêu chuẩn đã đư
 - *[Unfinished Tales](../U/Unfinished_Tales.md)*
 - *[The Nature of Middle-earth](The_Nature_of_Middle-earth.md)*
 
-- [Bộ đóng hộp kỷ niệm 100 năm của Christopher Tolkien](../C/Christopher_Tolkien_Centenary_Boxed_Sets.md)
-- [Loạt sách bìa mềm có chữ ký của Tolkien](Tolkien_Signature_Paperback_Series.md)
+- [Christopher Tolkien Bộ hộp kỷ niệm 100 năm](../C/Christopher_Tolkien_Centenary_Boxed_Sets.md)
+- [Tolkien Series bìa mềm có chữ ký](Tolkien_Signature_Paperback_Series.md)
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://www.forodrim.org/daeron/md_hm.html" rel="noreferrer noopener" target="_blank">Lịch sử Trung Địa có gì?</a> trên Forodrim.org, bởi Ninni M. Petterssons
-- <a class="external text" href="http://www.forodrim.org/daeron/md_hmch.html" rel="noreferrer noopener" target="_blank">Các văn bản HoMe theo thứ tự thời gian</a>, danh sách các thành phần HoMe theo thứ tự được viết bởi Tolkien, bởi Ninni M. Pettersson
+- <a class="external text" href="http://www.forodrim.org/daeron/md_hm.html" rel="noreferrer noopener" target="_blank">Có gì trong Lịch sử của Trung Địa?</a> trên Forodrim.org, bởi Ninni M. Petterssons
+- <a class="external text" href="http://www.forodrim.org/daeron/md_hmch.html" rel="noreferrer noopener" target="_blank">Các văn bản HoMe theo trình tự thời gian</a>, danh sách các thành phần HoMe theo thứ tự được viết bởi Tolkien, bởi Ninni M. Pettersson
 
 <span></span>
 

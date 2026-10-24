@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Magyar Tolkien Társaság"
 ---
 
-Chuyển hướng tới [Magyar Tolkien Társaság](../M/Magyar_Tolkien_Társaság.md).
+Chuyển hướng đến [Magyar Tolkien Társaság](../M/Magyar_Tolkien_Társaság.md).

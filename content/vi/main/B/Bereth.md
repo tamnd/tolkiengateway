@@ -14,13 +14,13 @@ categories:
   - "Sindarin nouns"
 ---
 
-<i><b>bereth</b></i> là [Sindarin](../S/Sindarin.md) có nghĩa là "nữ hoàng, người phối ngẫu" hoặc "tối cao, cao siêu".<sup id="cite_ref-Eldarin_1-0" class="reference"><a href="#cite_note-Eldarin-1">[1]</a></sup>
+<i><b>bereth</b></i> là [Sindarin](../S/Sindarin.md) dành cho "nữ hoàng, phối ngẫu" hoặc "tối cao, cao siêu".<sup id="cite_ref-Eldarin_1-0" class="reference"><a href="#cite_note-Eldarin-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Từ [Quendian nguyên thủy](../P/Primitive_Quendian.md) *barathî*.<sup id="cite_ref-Eldarin_1-1" class="reference"><a href="#cite_note-Eldarin-1">[1]</a></sup>
+Từ [Primitive Quendian](../P/Primitive_Quendian.md) *barathî*.<sup id="cite_ref-Eldarin_1-1" class="reference"><a href="#cite_note-Eldarin-1">[1]</a></sup>
 
-[Noldorin](../N/Noldorin.md) ban đầu giải thích rằng nó xuất phát từ [root](../R/Root.md) [BARATH](BARAT.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+[Noldorin](../N/Noldorin.md) ban đầu giải thích rằng nó xuất phát từ [gốc](../R/Root.md) [BARATH](BARAT.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Ví dụ {#Examples}
 

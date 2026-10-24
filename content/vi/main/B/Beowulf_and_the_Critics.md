@@ -43,11 +43,11 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/B/Beowulf_and_the_Critics_2002.gif.md"><img src="https://tolkiengateway.net/w/images/thumb/2/28/Beowulf_and_the_Critics_2002.gif/315px-Beowulf_and_the_Critics_2002.gif" decoding="async" loading="lazy" width="315" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/2/28/Beowulf_and_the_Critics_2002.gif 1.5x" data-file-width="328" data-file-height="500"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Beowulf and the Critics</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../M/Michael_D.C._Drout.md" title="Michael D.C. Drout">Michael D.C. Drout</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">ACMRS Press (Arizona Center for Medieval and Renaissance Studies)</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/2002.md" title="2002">2002</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Hardcover</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">488</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0866982906" title="Special:BookSources/0866982906">0866982906</a></td></tr><tr><th scope="row" class="tg-infobox-label">Series</th><td class="tg-infobox-data">Medieval and Renaissance Texts and Studies, vol. 248</td></tr></tbody></table>
 
-<i><b>Beowulf và các nhà phê bình</b></i> là cuốn sách học thuật được xuất bản lần đầu vào năm [2002](../_/2002.md), do giáo sư [Michael D.C. Drout](../M/Michael_D.C._Drout.md) biên tập. Nó đã giành được <a class="extiw" href="http://en.wikipedia.org/wiki/Mythopoeic_Awards" title="wikipedia:Mythopoeic Awards">Giải thưởng Học bổng Huyền thoại</a> năm 2003 trong Nghiên cứu về Inklings.
+<i><b>Beowulf và Nhà phê bình</b></i> là cuốn sách học thuật được xuất bản lần đầu vào năm [2002](../_/2002.md), do giáo sư [Michael D.C. Drout](../M/Michael_D.C._Drout.md) biên tập. Nó đã giành được <a class="extiw" href="http://en.wikipedia.org/wiki/Mythopoeic_Awards" title="wikipedia:Mythopoeic Awards">Giải thưởng Học bổng Thần thoại</a> năm 2003 trong Inklings Nghiên cứu.
 
-Cuốn sách xuất bản văn bản hoàn chỉnh của hai phiên bản của loạt bài giảng "Beowulf và các nhà phê bình" của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) (trong đó [1936](../_/1936.md) bài giảng "[Beowulf: The Monsters and the Critics](Beowulf%253A_The_Monsters_and_the_Critics.md)" chỉ là bản cô đọng) với rất nhiều ghi chú giải thích. Ngoài ra, tất cả những sửa đổi biên tập trong bản thảo gốc đều được chép lại tỉ mỉ và trình bày trong một chương riêng. Toàn bộ cuốn sách thể hiện sự tận tâm sâu sắc đối với văn bản của Tolkien cũng như tính chuyên môn cao về học bổng *Beowulf*.
+Cuốn sách xuất bản văn bản hoàn chỉnh của hai phiên bản loạt bài giảng của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)"Beowulf và các nhà phê bình", (trong đó [1936](../_/1936.md) bài giảng "[Beowulf: The Monsters and the Critics](Beowulf%253A_The_Monsters_and_the_Critics.md)" chỉ là bản cô đọng) với rất nhiều ghi chú giải thích. Ngoài ra, tất cả những sửa đổi biên tập trong bản thảo gốc đều được chép lại tỉ mỉ và trình bày trong một chương riêng. Toàn bộ cuốn sách thể hiện sự tận tâm sâu sắc đối với văn bản của Tolkien cũng như tính chuyên môn cao về học bổng *Beowulf*.
 
-Ấn bản thứ hai được xuất bản vào năm [2011](../_/2011.md), với những sửa đổi, thêm thông tin về văn bản và những ghi chú chuẩn bị mới được Tolkien tìm thấy.
+Ấn bản thứ hai đã được xuất bản trong [2011](../_/2011.md), với các bản sửa đổi, thêm thông tin về các văn bản và các ghi chú chuẩn bị mới được tìm thấy bởi Tolkien.
 
 ## Nội dung {#Contents}
 
@@ -59,8 +59,8 @@ Cuốn sách xuất bản văn bản hoàn chỉnh của hai phiên bản của 
 - Giới thiệu: Hạt giống, Đất và Bầu trời phương Bắc
 - "Babel of Voices" và sự phát triển cấu trúc của "*Beowulf*: Quái vật và những nhà phê bình"
 
-- 'Beowulf' & Những Nhà Phê Bình (A)
-- 'Beowulf' & Những Nhà Phê Bình (B)
+- 'Beowulf' & Những nhà phê bình (A)
+- 'Beowulf' & Nhà phê bình (B)
 - Chú thích giải thích
 - Ghi chú bằng văn bản
 - Phụ lục

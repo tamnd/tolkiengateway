@@ -45,7 +45,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/AmonHen196.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/5a/AmonHen196.jpg/320px-AmonHen196.jpg" decoding="async" loading="lazy" width="320" height="458" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/5a/AmonHen196.jpg/480px-AmonHen196.jpg 1.5x, https://tolkiengateway.net/w/images/5/5a/AmonHen196.jpg 2x" data-file-width="572" data-file-height="818"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Amon Hen 196</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="Andrew_Butler.md" title="Andrew Butler">Andrew Butler</a></td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="../J/Jef_Murray.md" title="Jef Murray">Jef Murray</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Printer</th><td class="tg-infobox-data"><a class="external text" href="http://www.horshampress.co.uk/" rel="noreferrer noopener" target="_blank">Horsham Press</a>, Horsham, UK</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../N/November.md" title="November">November</a> <a href="../_/2005.md" title="2005">2005</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">A5 stapled paperback, glossy</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">40</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0306-8781</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Amon_Hen_195.md" title="Amon Hen 195">Amon Hen 195</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Amon_Hen_197.md" title="Amon Hen 197">Amon Hen 197</a></td></tr></tbody></table>
 
-<b><i>Amon Hen</i> 196</b> là số một trăm chín mươi sáu của tạp chí hai tháng một lần của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, xuất bản vào [tháng 11](../N/November.md) [2005](../_/2005.md).
+<b><i>Amon Hen</i> 196</b> là số một trăm chín mươi sáu của tạp chí hai tháng một lần của [Hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, xuất bản vào [tháng 11](../N/November.md) [2005](../_/2005.md).
 
 ## Nội dung {#Contents}
 
@@ -54,11 +54,11 @@ infobox:
 - Biên tập
     - Bởi: [Andrew Butler](Andrew_Butler.md)
 - Quảng cáo: [Mithril Armory](../M/Mithril_Armoury.md)
-Thông báo - [Bywater](../B/Bywater.md)
+- [Bywater](../B/Bywater.md) Thông báo
     - Bởi: Malcolm Lindley
 - Ấn phẩm Quảng cáo/Thông báo
 - Thông báo
-- Quảng cáo: Cuối tuần ở Trung Địa của Gower
+- Quảng cáo: Gower Trung Địa Cuối tuần
 - Thị trường toán học của người hobbit hiện đại...
     - Bởi: *[Beruthiel](../B/Berúthiel.md)'s Pet*
 - Ngày ghi nhật ký của bạn
@@ -72,8 +72,8 @@ Thông báo - [Bywater](../B/Bywater.md)
 - Báo cáo: Một người Anh ở Thụy Sĩ
     - Bởi: Mark Sapey
 - Báo cáo: Người chiến thắng cuộc thi Clerihew
-    - Bởi: [Mike Foster](../M/Mike_Foster.md)
-- Báo cáo: Tolkien Coach Tour tháng 8 năm 2005
+    - Bởi: [Mike Austin Foster](../M/Mike_Foster.md)
+- Báo cáo: Tolkien Chuyến đi huấn luyện viên tháng 8 năm 2005
     - Bởi: [Bob Blackham](../R/Robert_S._Blackham.md)
 - Báo cáo: [Aston 2005](../T/Tolkien_2005.md) hoặc Một ngày cuối tuần dài ở Mor-door
     - Bởi: Lyn Wilshire

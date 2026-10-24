@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Images of Éowyn and the Witch-king"
 ---
 
-Chuyển hướng đến [Danh mục:Hình ảnh của Éowyn và Vua phù thủy](../../category/I/Images_of_Éowyn_and_the_Witch-king.md).
+Chuyển hướng đến [Danh mục:Hình ảnh của Éowyn và Vua Phù thủy](../../category/I/Images_of_Éowyn_and_the_Witch-king.md).

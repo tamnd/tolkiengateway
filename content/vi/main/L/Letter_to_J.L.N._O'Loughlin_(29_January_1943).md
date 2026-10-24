@@ -17,7 +17,7 @@ sort_keys:
 
 Vào [29 tháng 1](../_/29_January.md) [1943](../_/1943.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) gửi J.L.N. O'Loughlin**.<sup id="cite_ref-CG_1-0" class="reference"><a href="#cite_note-CG-1">[1]</a></sup><sup id="cite_ref-Marq_2-0" class="reference"><a href="#cite_note-Marq-2">[2]</a></sup>
 
-- **Chủ đề:** Tolkien có thể sẽ không có kỳ nghỉ nào trong tương lai gần vì ông đang tổ chức các khóa học cho học viên Hải quân và Không quân.<sup id="cite_ref-CG_1-1" class="reference"><a href="#cite_note-CG-1">[1]</a></sup>
+- **Chủ đề:** Tolkien có thể sẽ không có kỳ nghỉ nào trong thời gian tới vì ông đang tổ chức các khóa học cho học viên Hải quân và Không quân.<sup id="cite_ref-CG_1-1" class="reference"><a href="#cite_note-CG-1">[1]</a></sup>
 - **Xuất bản:** Mô tả về bức thư xuất hiện trong *[The J.R.R. Tolkien Companion and Guide: Chronology](../T/The_J.R.R._Tolkien_Companion_and_Guide.md)*.
 
 ## Xem thêm {#See_also}

@@ -18,17 +18,17 @@ sort_keys:
   "Valinor": "Cu nan Eilch"
 ---
 
-**Cú nan Eilch** là một địa điểm không xác định, có lẽ là ở [Valinor](../V/Valinor.md), theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) trong một đoạn văn xuôi sau *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.<sup id="cite_ref-Eil_1-0" class="reference"><a href="#cite_note-Eil-1">[1]</a></sup>
+**Cú nan Eilch** là một địa điểm không xác định, có lẽ ở [Valinor](../V/Valinor.md), theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) trong một đoạn văn xuôi sau *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.<sup id="cite_ref-Eil_1-0" class="reference"><a href="#cite_note-Eil-1">[1]</a></sup>
 
 ## Lịch sử {#History}
 
-Sau [sự tối tăm của Valinor](../D/Darkening_of_Valinor.md) và tình trạng bất ổn của [Gnomes](../G/Gnomes.md), [Solosimpi](../S/Solosimpi.md) đã từ chối đi cùng Gnomes để truy đuổi [Melko](../M/Melko.md). Đáp lại, [Fëanor](../F/Fëanor.md) đe dọa "tiến quân đến Cú nan Eilch", sau đó người Gnomes đã dùng vũ lực chiếm giữ các tàu của Solosimpi.<sup id="cite_ref-Eil_1-1" class="reference"><a href="#cite_note-Eil-1">[1]</a></sup>
+Sau [sự tối tăm của Valinor](../D/Darkening_of_Valinor.md) và tình trạng bất ổn của [Gnomes](../G/Gnomes.md), [Solosimpi](../S/Solosimpi.md) đã từ chối đi cùng Gnomes để theo đuổi [Melko](../M/Melko.md). Đáp lại, [Fëanor](../F/Fëanor.md) đe dọa "tiến tới Cú nan Eilch", sau đó Gnomes dùng vũ lực chiếm giữ các tàu của Solosimpi.<sup id="cite_ref-Eil_1-1" class="reference"><a href="#cite_note-Eil-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
 Tên *Cú nan Eilch* có trong [Noldorin](../N/Noldorin.md), nhưng ý nghĩa của nó chưa bao giờ được chỉ định.
 
-Tuy nhiên, trong văn bản có tên <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Noldorin_Word-lists&amp;action=edit&amp;redlink=1" title="Noldorin Word-lists (page does not exist)">Danh sách từ Noldorin</a></i>, xuất hiện từ *[cú](Côf.md#Other_versions_of_the_legendarium)* ("bay, cove");<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và trong <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Gnomish_Lexicon_Slips&amp;action=edit&amp;redlink=1" title="Gnomish Lexicon Slips (page does not exist)">Gnomish Lexicon Slips</a></i>trước đó, từ <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Iaun&amp;action=edit&amp;redlink=1" title="Iaun (page does not exist)">alch</a></i> ("đền thờ") được đưa ra, với *eilch* (hoặc *elcin*) là dạng số nhiều.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Tuy nhiên, trong văn bản có tên <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Noldorin_Word-lists&amp;action=edit&amp;redlink=1" title="Noldorin Word-lists (page does not exist)">Noldorin Danh sách từ</a></i>, xuất hiện từ *[cú](Côf.md#Other_versions_of_the_legendarium)* ("bay, cove");<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và trong <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Gnomish_Lexicon_Slips&amp;action=edit&amp;redlink=1" title="Gnomish Lexicon Slips (page does not exist)">Gnomish Lexicon Slips</a></i>trước đó, từ <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Iaun&amp;action=edit&amp;redlink=1" title="Iaun (page does not exist)">alch</a></i> ("đền thờ") được đưa ra, với *eilch* (hoặc *elcin*) là dạng số nhiều.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

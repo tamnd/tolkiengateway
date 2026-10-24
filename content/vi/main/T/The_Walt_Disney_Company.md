@@ -40,7 +40,7 @@ Trong [1946](../_/1946.md), ông đã từ chối đề xuất minh họa của 
 <p class="tg-quote-footer"><cite><a href="../L/Letter_107.md" title="Letter 107">Letter 107</a></cite></p>
 </blockquote>
 
-Hơn nữa, trong suốt cuộc đời của mình, Tolkien có mối quan tâm sâu sắc và quan điểm mạnh mẽ về việc chuyển thể [huyền thoại](../L/Legendarium.md) của mình. khi một số nhà sản xuất bắt đầu quan tâm đến việc chuyển thể phim từ các tác phẩm của Tolkien, (ông đã bán bản quyền phim, sân khấu và hàng hóa của *[The Hobbit](The_Hobbit.md)* và *[The Lord of the Rings](The_Lord_of_the_Rings.md)* cho United Artists vào năm 1968), ông đã cấm Disney tham gia:
+Hơn nữa, trong suốt cuộc đời Tolkien ông luôn có mối quan tâm sâu sắc và quan điểm mạnh mẽ về việc chuyển thể [huyền thoại](../L/Legendarium.md) của mình. khi một số nhà sản xuất bắt đầu quan tâm đến việc chuyển thể phim từ các tác phẩm của Tolkien(ông đã bán bản quyền phim, sân khấu và hàng hóa của *[The Hobbit](The_Hobbit.md)* và *[The Lord of the Rings](The_Lord_of_the_Rings.md)* cho United Artists vào năm 1968), ông đã cấm Disney tham gia:
 
 <blockquote class="tg-quote noexcerpt">
 <p>It might be advisable [...] to let the Americans do what seems good to them — as long as it was possible [...] to veto anything from or influenced by the Disney studios (for all whose works I have a heartfelt loathing).
@@ -50,24 +50,24 @@ Hơn nữa, trong suốt cuộc đời của mình, Tolkien có mối quan tâm 
 
 Trong [một lá thư khác](../L/Letter_to_Jane_Dixon.md), Tolkien viết trong [1965](../_/1965.md) rằng cả ông và các nhà xuất bản của ông ([George Allen và Unwin](../A/Allen_and_Unwin.md)) đều không có ý định cấp phép cho Walt Disney làm phim dựa trên sách của ông.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-## Các sản phẩm của Disney liên quan đến Tolkien {#Tolkien-related_Disney_products}
+## Tolkien sản phẩm liên quan đến Disney {#Tolkien-related_Disney_products}
 
 <figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Hobbit_Disney.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/8/84/The_Hobbit_Disney.jpg/300px-The_Hobbit_Disney.jpg" decoding="async" loading="lazy" width="300" height="296" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/8/84/The_Hobbit_Disney.jpg 1.5x" data-file-width="304" data-file-height="300"/></a><figcaption>Cover of the <i>The Hobbit Read-Along</i></figcaption></figure>
 
 Tuy nhiên, các hãng thu âm Disneyland và Buena Vista của Disney đã phát hành sáu sản phẩm âm thanh dựa trên [Rankin/Bass *The Hobbit*](<The_Hobbit_(1977_film).md>) và hai sản phẩm dựa trên [Rankin/Bass *The Return of the King*](<The_Return_of_the_King_(1980_film).md>) trong những năm 1970 và 1980.
 
 - [1977](../_/1977.md): *[The Hobbit: The Complete Original Soundtrack](The_Hobbit%253A_The_Complete_Original_Soundtrack.md)*
-- [1977](../_/1977.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Hobbit_(Disneyland_Read-Along)&amp;action=edit&amp;redlink=1" title="The Hobbit (Disneyland Read-Along) (page does not exist)">Người Hobbit (Đọc theo ở Disneyland)</a></i>
-- [1977](../_/1977.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Hobbit_(Disneyland_Storyteller)&amp;action=edit&amp;redlink=1" title="The Hobbit (Disneyland Storyteller) (page does not exist)">Người Hobbit (Người kể chuyện ở Disneyland)</a></i>
+- [1977](../_/1977.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Hobbit_(Disneyland_Read-Along)&amp;action=edit&amp;redlink=1" title="The Hobbit (Disneyland Read-Along) (page does not exist)">The Hobbit (Đọc theo ở Disneyland)</a></i>
+- [1977](../_/1977.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Hobbit_(Disneyland_Storyteller)&amp;action=edit&amp;redlink=1" title="The Hobbit (Disneyland Storyteller) (page does not exist)">The Hobbit (Người kể chuyện Disneyland)</a></i>
 - [1980](../_/1980.md): *[The Return of the King: A Story of the Hobbits](The_Return_of_the_King%253A_A_Story_of_the_Hobbits.md)*
 
 Disney cũng sở hữu mạng truyền hình *ABC*, mạng truyền hình đầu tiên của Rankin/Bass *The Return of the King*, đã mua lại nó vào [1996](../_/1996.md).
 
-Hơn nữa, Disney đã phát hành thông qua Fox Searchlight Pictures bộ phim tiểu sử *[Tolkien](<Tolkien_(film).md>)* ([2019](../_/2019.md)), kể về những năm đầu [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) cho đến [Chiến tranh thế giới thứ nhất](../W/World_War_I.md).
+Hơn nữa, Disney đã phát hành thông qua Fox Searchlight Pictures bộ phim tiểu sử *[Tolkien](<Tolkien_(film).md>)* ([2019](../_/2019.md)), kể về những năm đầu của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) cho đến [Chiến tranh thế giới thứ nhất](../W/World_War_I.md).
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://2719hyperion.blogspot.com/2009/02/myth-of-walt-disneys-lord-of-rings.html" rel="noreferrer noopener" target="_blank">Thần thoại về <i>Chúa tể của những chiếc nhẫn của Walt Disney</i></a>
+- <a class="external text" href="http://2719hyperion.blogspot.com/2009/02/myth-of-walt-disneys-lord-of-rings.html" rel="noreferrer noopener" target="_blank">Huyền thoại về Walt Disney <i>The Lord of the Rings</i></a>
 - <a class="extiw" href="http://en.wikipedia.org/wiki/The_Walt_Disney_Company" title="wikipedia:The Walt Disney Company">Công ty Walt Disney</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
 
 <span></span>

@@ -37,8 +37,8 @@ infobox:
 - Biên tập: Vòng hai - [Chris Seeman](../C/Chris_Seeman.md)
 - Truyền thông - Eduardo Martinez Santamariá
 - Tiền tuyến - [Chris Seeman](../C/Chris_Seeman.md)
-- *Semper Fidelis*: Một số ý tưởng cho Chiến dịch Thời đại thứ hai - [Anders Blixt](../A/Anders_Blixt.md)
-- Trước phiên tòa: Giới thiệu về Chiến dịch Thời đại thứ hai - Pete Clark
+- *Semper Fidelis*: Một số ý tưởng cho chiến dịch Kỷ Đệ Nhị - [Anders Blixt](../A/Anders_Blixt.md)
+- Trước phiên tòa: Giới thiệu về chiến dịch Kỷ Đệ Nhị - Pete Clark
 - Tạp chí Eponian Círdanea - Scott Stanek
 - Tarma Tar-Calion: Ghi chú lịch sử về bến cảng Umbar - [Chris Seeman](../C/Chris_Seeman.md)
-- Nữ hoàng bóng tối: Chiến dịch thời đại thứ tư - [Anders Blixt](../A/Anders_Blixt.md)
+- Nữ hoàng của Bóng Tối: Chiến dịch Kỷ Đệ Tứ - [Anders Blixt](../A/Anders_Blixt.md)

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Anach"
 ---
 
-Chuyển hướng tới [Anach](../A/Anach.md).
+Chuyển hướng đến [Anach](../A/Anach.md).

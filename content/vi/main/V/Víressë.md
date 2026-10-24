@@ -25,13 +25,13 @@ langlinks:
     url: "https://kontu.wiki/V%C3%ADress%C3%AB"
 ---
 
-**Víressë** là tên của tháng trong năm (*[asta](../A/Asta.md)*) theo sau tháng [Súlimë](../S/Súlimë.md) và trước tháng [Lótessë](../L/Lótessë.md). Đó là tháng thứ tư trong [Sự tính toán của Nhà vua](../K/King's_Reckoning.md) và [Sự tính toán của Quản gia](../S/Stewards'_Reckoning.md); trong lịch sau, trước ngày lễ [Tuilérë](../T/Tuilérë.md). Sau khi giới thiệu [Tính toán mới](../N/New_Reckoning.md), Víressë đã trở thành tháng đầu tiên.<sup id="cite_ref-app_1-0" class="reference"><a href="#cite_note-app-1">[1]</a></sup>
+**Víressë** là tên của tháng trong năm (*[asta](../A/Asta.md)*) theo sau tháng [Súlimë](../S/Súlimë.md) và trước tháng [Lótessë](../L/Lótessë.md). Đó là tháng thứ tư trong [Vua Tính toán](../K/King's_Reckoning.md) và [Tính toán của Quản lý](../S/Stewards'_Reckoning.md); trong lịch sau, trước ngày lễ [Tuilérë](../T/Tuilérë.md). Sau khi giới thiệu [Tính toán mới](../N/New_Reckoning.md), Víressë đã trở thành tháng đầu tiên.<sup id="cite_ref-app_1-0" class="reference"><a href="#cite_note-app-1">[1]</a></sup>
 
-*Víressë* trong Sự tính toán của các vị vua (và phần lớn trong Sự tính toán của người quản lý) tương ứng với [Atron](../A/Astron.md) trong [Lịch quận](../S/Shire_Calendar.md) (khoảng [23 tháng 3](../_/23_March.md) đến [21 tháng 4](../_/21_April.md) hiện đại).
+*Víressë* trong Sự tính toán của các vị vua (và phần lớn trong Sự tính toán của người quản gia) tương ứng với [Astron](../A/Astron.md) trong [Lịch Shire](../S/Shire_Calendar.md) (khoảng [23 tháng 3](../_/23_March.md) đến [21 tháng 4](../_/21_April.md) hiện đại).
 
 ## Từ nguyên {#Etymology}
 
-Tên [Quenya](../Q/Quenya.md) này có liên quan đến các từ như <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Virya&amp;action=edit&amp;redlink=1" title="Virya (page does not exist)">virya</a></i> "tươi" và có lẽ bắt nguồn từ gốc [Elvish](../E/Elvish.md) liên quan đến sự tươi mới hoặc trẻ trung.<sup id="cite_ref-arda_2-0" class="reference"><a href="#cite_note-arda-2">[2]</a></sup> Víressë là tên [Quenya](../Q/Quenya.md) được kế thừa từ [Númenor](../N/Númenor.md) và được sử dụng theo truyền thống bởi [các dân tộc nói tiếng Tây](../W/Westron.md). Tuy nhiên, chính [Dúnedain](../D/Dúnedain.md) đã sử dụng tên [Sindarin](../S/Sindarin.md) của tháng, [Gwirith](../G/Gwirith.md).<sup id="cite_ref-app_1-1" class="reference"><a href="#cite_note-app-1">[1]</a></sup>
+Tên [Quenya](../Q/Quenya.md) này có liên quan đến các từ như <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Virya&amp;action=edit&amp;redlink=1" title="Virya (page does not exist)">virya</a></i> "tươi" và có lẽ bắt nguồn từ gốc [Elvish](../E/Elvish.md) liên quan đến sự tươi mới hoặc trẻ trung.<sup id="cite_ref-arda_2-0" class="reference"><a href="#cite_note-arda-2">[2]</a></sup> Víressë là tên [Quenya](../Q/Quenya.md) kế thừa từ [Númenor](../N/Númenor.md) và được sử dụng theo truyền thống bởi các dân tộc nói [Westron](../W/Westron.md). Tuy nhiên, chính [Dúnedain](../D/Dúnedain.md) đã sử dụng tên [Sindarin](../S/Sindarin.md) của tháng, [Gwirith](../G/Gwirith.md).<sup id="cite_ref-app_1-1" class="reference"><a href="#cite_note-app-1">[1]</a></sup>
 
 ## Cảm hứng {#Inspiration}
 

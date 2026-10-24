@@ -24,11 +24,11 @@ images:
 <p class="tg-quote-footer"><cite><i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i>, <a href="../O/Of_the_Rings_of_Power_and_the_Third_Age.md" title="Of the Rings of Power and the Third Age">Of the Rings of Power and the Third Age</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-The **White Ship** was the ship that sailed from the [Grey Havens](../G/Grey_Havens.md) into the [Uttermost West](../A/Aman.md), carrying the [Ring-bearers](../R/Ring-bearers.md) to Aman. Its departure on [29 September](../_/29_September.md) [T.A.](../T/Third_Age.md) [3021](../T/Third_Age_3021.md) marked the end of the [Third Age](../T/Third_Age.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Along with [Frodo Baggins](../F/Frodo_Baggins.md) the [Ring-bearer](../R/Ring-bearers.md) and [Bilbo Baggins](../B/Bilbo_Baggins.md) the [Ring-finder](../R/Ring-finder.md) the ship also carried [Elrond](../E/Elrond.md), [Galadriel](../G/Galadriel.md), and [Gandalf](../G/Gandalf.md), who had been the [Keepers of the Three Rings](../K/Keepers_of_the_Three_Rings.md). They were accompanied to the Grey Havens by [Gildor Inglorion](../G/Gildor.md) and many other Elves besides, but whether any of these others went aboard the ship with them is not told.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> It does seem, though, that Gandalf's horse [Shadowfax](../S/Shadowfax.md) did make the journey for he was waiting at the quayside.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> The White Ship was one of the last ships to have set sail from the Grey Havens.
+Chiếc **Con Tàu Trắng** là con tàu đi từ [Cảng Xám](../G/Grey_Havens.md) đến [Tối cùng Phương Tây](../A/Aman.md), chở [Những người mang nhẫn](../R/Ring-bearers.md) đến Aman. Chuyến khởi hành của nó vào [29 tháng Chín](../_/29_September.md) [T.A.](../T/Third_Age.md) [3021](../T/Third_Age_3021.md) đánh dấu sự kết thúc của [Kỷ Đệ Tam](../T/Third_Age.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Cùng với [Frodo Baggins](../F/Frodo_Baggins.md) [Người Mang Nhẫn](../R/Ring-bearers.md) và [Bilbo Baggins](../B/Bilbo_Baggins.md) [Máy tìm vòng](../R/Ring-finder.md), con tàu còn chở [Elrond](../E/Elrond.md), [Galadriel](../G/Galadriel.md) và [Gandalf](../G/Gandalf.md), những người từng là người [Người giữ Ba Chiếc Nhẫn](../K/Keepers_of_the_Three_Rings.md). Ngoài ra, họ còn được [Gildor Inglorion](../G/Gildor.md) và nhiều Tiên tộc khác hộ tống đến Cảng Xám, nhưng liệu có ai trong số những người này lên tàu cùng họ hay không thì không được thông báo.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Tuy nhiên, có vẻ như con ngựa của Gandalf [Shadowfax](../S/Shadowfax.md) đã thực hiện cuộc hành trình vì ông ta đang đợi ở bến cảng.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Con Tàu Trắng là một trong những con tàu cuối cùng đã ra khơi từ Cảng Xám.
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-### Con tàu trắng trong bản chuyển thể {#The_White_Ship_in_adaptations}
+### Con Tàu Trắng trong các bản chuyển thể {#The_White_Ship_in_adaptations}
 
 <ul class="gallery mw-gallery-traditional">
 		<li class="gallerybox" style="width: 285px">
@@ -47,17 +47,17 @@ The **White Ship** was the ship that sailed from the [Grey Havens](../G/Grey_Hav
 		</li>
 </ul>
 
-<b>1980: <a href="../T/The_Return_of_the_King_(1980_film).md" title="The Return of the King (1980 film)"><i>Sự trở lại của nhà vua</i> (phim 1980)</a>:</b>
+<b>1980: <a href="../T/The_Return_of_the_King_(1980_film).md" title="The Return of the King (1980 film)"><i>The Return of the King</i> (phim 1980)</a>:</b>
 
 <dl><dd>In the <a href="../T/Tower_of_Cirith_Ungol.md" title="Tower of Cirith Ungol">Tower of Cirith Ungol</a>, <a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo</a> remarks &#34;We can&#39;t escape, for evil is everywhere&#34;. He explains that only <a href="../E/Elves.md" title="Elves">Elves</a> can escape <a href="../M/Middle-earth.md" title="Middle-earth">Middle-earth</a> by boarding the &#34;White Ships&#34; at the <a href="../G/Grey_Havens.md" title="Grey Havens">Grey Havens</a> and sailing to &#34;<a href="../V/Valinor.md" title="Valinor">the lands beyond</a>&#34;. Frodo has a vision of himself, <a href="../E/Elrond.md" title="Elrond">Elrond</a> and <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> setting sail. At Bilbo&#39;s 129th birthday, he tells Frodo that he will depart from the Grey Havens on the White Ship tomorrow. Gandalf explains that they are old and have completed their job; The <a href="../T/Third_Age.md" title="Third Age">Third Age</a> is over and the Age of <a href="../M/Men.md" title="Men">Man</a> has begun. Bilbo asks why Bilbo can join him, believing only Elves can board the ships. Elrond explains he has served them well and there is &#34;always room for a friend&#34;. Frodo asks whether he can join and Gandalf obliges. The next day, <a href="../P/Peregrin_Took.md" title="Peregrin Took">Pippin</a>, <a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Sam</a> and <a href="../M/Meriadoc_Brandybuck.md" title="Meriadoc Brandybuck">Merry</a>  watch as the ship departs from the Havens.</dd></dl>
 
-<b>2003: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">Chúa tể của những chiếc nhẫn: Sự trở lại của nhà vua</a></i>:</b>
+<b>2003: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">The Lord of the Rings: The Return of the King</a></i>:</b>
 
 <dl><dd>In the film, Frodo&#39;s narration claims that the White Ship is &#34;the last ship to leave Middle-earth,&#34; despite it being separate from the later <a href="../L/Last_Ship.md" title="Last Ship">Last Ship</a> in the book.</dd></dl>
 
 ## Xem thêm {#See_also}
 
-- [Chuyến tàu cuối cùng](../L/Last_Ship.md)
+- [Con Tàu Cuối Cùng](../L/Last_Ship.md)
 
 <span></span>
 

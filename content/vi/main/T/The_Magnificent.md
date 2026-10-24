@@ -14,9 +14,9 @@ sort_keys:
   "Epithets": "Magnificent, The"
 ---
 
-**Người vĩ đại** là danh hiệu được sử dụng bởi [Meriadoc Brandybuck](../M/Meriadoc_Brandybuck.md) sau khi anh trở về từ [Cuộc chiến trên chiếc nhẫn](../W/War_of_the_Ring.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Người vĩ đại** là danh hiệu được sử dụng cho [Meriadoc Brandybuck](../M/Meriadoc_Brandybuck.md) sau khi anh trở về từ [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-[Elvenking](Thranduil.md) gọi [Bilbo Baggins](../B/Bilbo_Baggins.md) là "Bilbo Vĩ đại" khi Bilbo trước khi khởi hành đã tặng anh một món quà để đáp lại "lòng hiếu khách" của anh.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Người [Vua Tiên](Thranduil.md) đã gọi [Bilbo Baggins](../B/Bilbo_Baggins.md) là "Bilbo Người tuyệt vời" khi Bilbo trước khi khởi hành đã tặng anh một món quà để đáp lại "lòng hiếu khách" của anh.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

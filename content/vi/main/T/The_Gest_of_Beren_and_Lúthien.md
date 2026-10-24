@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lay of Leithian"
 ---
 
-Chuyển hướng tới [The Lay of Leithian](The_Lay_of_Leithian.md).
+Chuyển hướng đến [The Lay of Leithian](The_Lay_of_Leithian.md).

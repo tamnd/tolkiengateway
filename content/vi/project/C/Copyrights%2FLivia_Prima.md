@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Prima, Livia"
 ---
 
-- Livia Prima đã vui lòng cho phép họ sử dụng [tác phẩm nghệ thuật của họ](../../category/I/Images_by_Livia_Prima.md) trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
+- Livia Prima đã vui lòng cho phép họ sử dụng [tác phẩm nghệ thuật của họ](../../category/I/Images_by_Livia_Prima.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Ngày: [Ngày 2 tháng 6](../../main/J/June_2.md), [2023](../../main/_/2023.md)
 - Người dùng đã xin phép qua email: [Người dùng:Hyarion](https://tolkiengateway.net/wiki/User:Hyarion)

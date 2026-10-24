@@ -31,7 +31,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien đã viết thư cho nhà xuất bản của mình nói rằng ông đã nhận được năm bản dịch miễn phí của bản dịch tiếng Thụy Điển của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* (*Sagan om Ringen*). Ông nói rằng ông không phản đối điều này và ông có thể gửi lại một ít nếu có sai sót.
+Tolkien đã viết thư cho nhà xuất bản của mình để thông báo rằng ông đã nhận được năm bản dịch miễn phí của bản dịch tiếng Thụy Điển của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* (*Sagan om Ringen*). Ông nói rằng ông không phản đối điều này và ông có thể gửi lại một ít nếu có sai sót.
 
 <br>
 

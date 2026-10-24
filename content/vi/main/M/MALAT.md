@@ -12,7 +12,7 @@ categories:
   - "Roots"
 ---
 
-**MALAT** là [tiếng Quendian nguyên thủy](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) biểu thị "[vàng](../G/Gold.md)".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**MALAT** là một [Primitive Quendian](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) biểu thị "[vàng](../G/Gold.md)".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Công cụ phái sinh {#Derivatives}
 

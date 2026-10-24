@@ -11,4 +11,4 @@ redirect_target: "Christopher Tolkien"
 redirect_fragment: "Articles"
 ---
 
-Chuyển hướng tới [Christopher Tolkien](../C/Christopher_Tolkien.md#Articles).
+Chuyển hướng đến [Christopher Tolkien](../C/Christopher_Tolkien.md#Articles).

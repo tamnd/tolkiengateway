@@ -38,7 +38,7 @@ infobox:
 
 ## Sự nghiệp {#Career}
 
-Mặc dù trước đây ông từng là một nghệ sĩ nhưng Montanini cho rằng [Angus McBride](Angus_McBride.md) tập trung vào nghệ thuật giả tưởng. Anh bắt đầu làm việc cho Stratelibri, một nhà xuất bản trò chơi của Ý ở [1993](../_/1993.md), thậm chí còn giữ chức giám đốc nghệ thuật cho đến [1999](../_/1999.md). Người sáng lập công ty, Giovanni Ingellis, đã giới thiệu Montanini cho [Iron Crown Enterprises](../I/Iron_Crown_Enterprises.md). Điều này dẫn đến việc ông đã tạo ra hơn một trăm hình minh họa cho trò chơi của họ. Ông cũng tạo ra các hình minh họa lịch cho [Hiệp hội Tolkien Ý](../I/Italian_Tolkien_Society.md).<sup id="cite_ref-CCGA_1-1" class="reference"><a href="#cite_note-CCGA-1">[1]</a></sup>
+Mặc dù trước đây ông từng là một nghệ sĩ nhưng Montanini cho rằng [Angus McBride](Angus_McBride.md) tập trung vào nghệ thuật giả tưởng. Anh bắt đầu làm việc cho Stratelibri, một nhà xuất bản trò chơi của Ý ở [1993](../_/1993.md), thậm chí còn giữ chức giám đốc nghệ thuật cho đến [1999](../_/1999.md). Người sáng lập công ty, Giovanni Ingellis, đã giới thiệu Montanini cho [Vương miện Sắt Doanh nghiệp](../I/Iron_Crown_Enterprises.md). Điều này dẫn đến việc ông đã tạo ra hơn một trăm hình minh họa cho trò chơi của họ. Ông cũng tạo ra các hình minh họa lịch cho [Hiệp hội Tolkien Ý](../I/Italian_Tolkien_Society.md).<sup id="cite_ref-CCGA_1-1" class="reference"><a href="#cite_note-CCGA-1">[1]</a></sup>
 
 Montanini dạy vẽ và minh họa tại Trường Thời trang Châu Âu ở Milan.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 

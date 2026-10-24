@@ -40,9 +40,9 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Keys_of_Middle-earth_2005.jpg.md"><img src="https://tolkiengateway.net/w/images/a/a4/The_Keys_of_Middle-earth_2005.jpg" decoding="async" loading="lazy" width="300" height="473" class="mw-file-element" data-file-width="300" data-file-height="473"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Keys of Middle-earth:<br/><small>Discovering Medieval Literature through the Fiction of J.R.R. Tolkien</small></span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a href="../S/Stuart_D._Lee.md" title="Stuart D. Lee">Stuart D. Lee</a> &amp; <a href="../E/Elizabeth_Solopova.md" title="Elizabeth Solopova">Elizabeth Solopova</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Palgrave Macmillan</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/16_December.md" title="16 December">16 December</a> <a href="../_/2005.md" title="2005">2005</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Hardcover; Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">284</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/978-1403946720" title="Special:BookSources/978-1403946720">978-1403946720</a></td></tr></tbody></table>
 
-<i><b>Chìa khóa của Trung Địa: Khám phá văn học thời Trung cổ thông qua tiểu thuyết J.R.R. Tolkien</b></i> là một cuốn sách mang tính học thuật của [Stuart D. Lee](../S/Stuart_D._Lee.md) và [Elizabeth Solopova](../E/Elizabeth_Solopova.md), được xuất bản trên [2005](../_/2005.md). Nó nhằm mục đích cung cấp sự hiểu biết về các tác phẩm giả tưởng của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) trong bối cảnh văn học thời trung cổ, bao gồm [Tiếng Anh cổ](../O/Old_English.md), [Tiếng Anh trung cổ](../M/Middle_English.md) và [Tiếng Bắc Âu cổ](../O/Old_Norse.md).
+<i><b>Chìa khóa của Trung Địa: Khám phá văn học thời trung cổ thông qua tiểu thuyết J.R.R. Tolkien</b></i> là cuốn sách mang tính học thuật của [Stuart D. Lee](../S/Stuart_D._Lee.md) và [Elizabeth Solopova](../E/Elizabeth_Solopova.md), được xuất bản trên [2005](../_/2005.md). Nó nhằm mục đích cung cấp sự hiểu biết về các tác phẩm giả tưởng của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) trong bối cảnh văn học thời trung cổ, bao gồm [tiếng Anh cổ](../O/Old_English.md), [Tiếng Anh trung cổ](../M/Middle_English.md) và [tiếng Bắc Âu cổ](../O/Old_Norse.md).
 
-Phần chính của cuốn sách cung cấp các đoạn trích ngắn từ mười bốn tác phẩm văn học thời Trung cổ bằng các ngôn ngữ này. Mỗi phần bao gồm một bản tóm tắt cốt truyện về phần có liên quan trong câu chuyện của Tolkien; phần giới thiệu về văn bản thời trung cổ; thảo luận về cách sử dụng văn bản của Tolkien; và cuối cùng là một văn bản. Các văn bản nằm trên trang đối diện (song song) với bản dịch từng dòng mới nếu đó là tiếng Anh cổ hoặc tiếng Bắc Âu cổ, hoặc không có bản dịch nhưng có nhiều ghi chú cho tiếng Anh trung cổ.
+Phần chính của cuốn sách cung cấp các đoạn trích ngắn từ mười bốn tác phẩm văn học thời Trung cổ bằng các ngôn ngữ này. Mỗi phần bao gồm một bản tóm tắt cốt truyện của phần có liên quan trong câu chuyện của Tolkien; phần giới thiệu về văn bản thời trung cổ; thảo luận về cách sử dụng văn bản của Tolkien; và cuối cùng là một văn bản. Các văn bản ở trang đối diện (song song) với bản dịch từng dòng mới nếu là tiếng Anh cổ hoặc tiếng Bắc Âu cổ, hoặc không có bản dịch nhưng có nhiều ghi chú cho tiếng Anh Trung.
 
 Ấn bản thứ hai được xuất bản trên [2015](../_/2015.md), bổ sung thêm một số văn bản và bài tiểu luận mới, với các thảo luận được cập nhật dựa trên các ấn phẩm gần đây hơn.
 
@@ -63,17 +63,17 @@ Xuyên suốt cuốn sách là một số trích dẫn từ các bài báo học
 - Các văn bản
     1. Túrin Turambar – *Kalevala*
     2. Eärendil – *Christ I*
-    3. Gandalf và những người lùn – *Völuspá*
-    4. Trò chơi đố vui của Bilbo và Gollum – *Solomon and Saturn II*; *Vafþrúðnismál*; và hai câu đố tiếng Anh cổ
+    3. Gandalf và Người Lùn – *Völuspá*
+Trò chơi đố vui của     4. Bilbo và Gollum– *Solomon and Saturn II*; *Vafþrúðnismál*; và hai câu đố tiếng Anh cổ
     5. Bilbo gặp Smaug – *Beowulf*
-    6. Yêu tinh ở Rivendell – *Sir Orfeo*
-    7. 'Lời than thở của những hòn đá' của Legolas – *The Ruin*
-    8. Cuộc chiến ở lăng mộ Balin – *The Fight at Finnsburg* và 'Cynewulf và Cyneheard'
+    6. Số Tiên tộc tại Rivendell – *Sir Orfeo*
+'Lời than thở của những hòn đá' của     7. Legolas– *The Ruin*
+    8. Cuộc chiến tại lăng mộ của Balin– *The Fight at Finnsburg* và 'Cynewulf và Cyneheard'
     9. Vượt qua Nimrodel – *Pearl*
-    10. Cái chết của Boromir – *Beowulf*
-    11. Danh sách Cây Râu – *Maxims II*
-    12. Người Rohirrim – *The Wanderer* và *Beowulf*
-    13. Trận chiến trên cánh đồng Pelennor, Cái chết của Théoden và Sự xuất hiện của Mûmakil – *The Battle of Maldon*, *Homily on the Maccabees* của Ælfric và *Getica* của Jordanes
+    10. Boromir Cái chết – *Beowulf*
+Danh sách của     11. Treebeard– *Maxims II*
+    12. Các Rohirrim – *The Wanderer* và *Beowulf*
+    13. Trận chiến cánh đồng Pelennor, Cái chết của Théoden và Sự xuất hiện của Mûmakil – *The Battle of Maldon*, *Homily on the Maccabees* của Ælfric và *Getica* của Jordanes
     14. Phong cảnh Mordor – *Beowulf* và *Sir Gawain and the Green Knight*
     15. Hành trình cuối cùng – *The Seafarer*
 
@@ -113,7 +113,7 @@ Xuyên suốt cuốn sách là một số trích dẫn từ các bài báo học
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="https://muse.jhu.edu/pub/20/article/215130" rel="noreferrer noopener" target="_blank">Đánh giá sách</a> của John R. Holmes, từ [Tolkien Studies vol. 4](Tolkien_Studies%253A_Volume_4.md)
+- <a class="external text" href="https://muse.jhu.edu/pub/20/article/215130" rel="noreferrer noopener" target="_blank">Đánh giá sách</a> của John R. Holmes, từ [Tolkien Nghiên cứu tập. 4](Tolkien_Studies%253A_Volume_4.md)
 
 <br>
 

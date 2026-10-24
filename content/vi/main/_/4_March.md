@@ -66,7 +66,7 @@ Sự kiện xảy ra vào ngày 4 tháng 3.
 
 ## Trên Trái đất {#On_Earth}
 
-- **[1914](1914.md)** - [Tolkien](../J/J.R.R._Tolkien.md) gửi một bài luận về nhà thơ yêu thích của mình, <a class="extiw" href="http://en.wikipedia.org/wiki/Francis_Thompson" title="wikipedia:Francis Thompson">Francis Thompson</a>, tới Câu lạc bộ Tiểu luận [Oxford](../O/Oxford_University.md).
+- **[1914](1914.md)** - [Tolkien](../J/J.R.R._Tolkien.md) gửi bài luận về nhà thơ yêu thích của mình, <a class="extiw" href="http://en.wikipedia.org/wiki/Francis_Thompson" title="wikipedia:Francis Thompson">Francis Thompson</a>, tới Câu lạc bộ Tiểu luận [Oxford](../O/Oxford_University.md).
 - **[1937](1937.md)** - Bài thơ "[Iúmonna Gold Galdre Bewunden](../I/Iúmonna_Gold_Galdre_Bewunden.md)" của Tolkien được tái bản tại *The Oxford Magazine*.
 - **[1938](1938.md)** - Tolkien viết [Thư 26](../L/Letter_26.md).
 - **[1959](1959.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư 214b](../L/Letter_214b.md).
@@ -78,7 +78,7 @@ Sự kiện xảy ra vào ngày 4 tháng 3.
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - [Gandalf](../G/Gandalf.md) và [Erkenbrand](../E/Erkenbrand.md) xuất hiện và kết thúc [Trận Hornburg](../B/Battle_of_the_Hornburg.md).
-    - [Théoden](../T/Théoden.md) và [Gandalf](../G/Gandalf.md) lên đường đến [Isengard](../I/Isengard.md) với đội quân bảo vệ gồm 20 người Rohirrim. Họ đi qua những ngôi mộ của [Cạnh cạn Isen](../F/Fords_of_Isen.md).
+    - [Gandalf](../G/Gandalf.md) và [Erkenbrand](../E/Erkenbrand.md) xuất hiện và hoàn thành [Trận Hornburg](../B/Battle_of_the_Hornburg.md).
+    - [Théoden](../T/Théoden.md) và [Gandalf](../G/Gandalf.md) lên đường đến [Isengard](../I/Isengard.md) với đội bảo vệ gồm 20 Rohirrim. Họ đi qua những ngôi mộ của [Ford of Isen](../F/Fords_of_Isen.md).
     - Sông [Isen](../I/Isen.md) được khôi phục lại dòng chảy ban đầu.
-    - [Frodo](../F/Frodo_Baggins.md), [Sam](../S/Samwise_Gamgee.md) và [Gollum](../G/Gollum.md) đến được các ụ xỉ ở rìa [Sự tàn phá của Morannon](../D/Desolation_of_the_Morannon.md).
+    - [Frodo](../F/Frodo_Baggins.md), [Sam](../S/Samwise_Gamgee.md) và [Gollum](../G/Gollum.md) chạm tới các ụ xỉ ở rìa [Sự hoang tàn của Morannon](../D/Desolation_of_the_Morannon.md).

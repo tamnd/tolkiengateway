@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Elves of Eressëa"
 ---
 
-Chuyển hướng tới [Yêu tinh của Eressëa](Elves_of_Eressëa.md).
+Chuyển hướng tới [Tiên tộc của Eressëa](Elves_of_Eressëa.md).

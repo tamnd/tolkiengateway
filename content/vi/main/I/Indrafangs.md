@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dwarves of Belegost"
 ---
 
-Chuyển hướng đến [Người lùn Belegost](../D/Dwarves_of_Belegost.md).
+Chuyển hướng đến [Người Lùn Belegost](../D/Dwarves_of_Belegost.md).

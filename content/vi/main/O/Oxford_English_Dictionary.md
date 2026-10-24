@@ -25,13 +25,13 @@ images:
 <p class="tg-quote-footer"><cite>Oxford English Dictionary<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-<i><b>Từ điển tiếng Anh Oxford</b> (<b>OED</b>)</i>hoặc <i><b>Từ điển tiếng Anh mới</b></i> như tên gọi ban đầu của nó, là từ điển tiếng Anh tiêu chuẩn. [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã dành vài năm làm trợ lý và một số lời nói và tác phẩm của chính ông đã được trích dẫn trong đó.
+Từ điển <i><b>Oxford tiếng Anh</b> (<b>OED</b>)</i>hoặc <i><b>Từ điển tiếng Anh mới</b></i> như tên gọi ban đầu của nó, là từ điển tiếng Anh tiêu chuẩn. [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã dành vài năm làm trợ lý và một số lời nói và tác phẩm của chính ông đã được trích dẫn trong đó.
 
 ## Lịch sử ban đầu {#Early_History}
 
 Dự án từ điển bắt đầu vào năm 1878. Mặc dù ban đầu nó không phải là một phần của [Đại học Oxford](../U/University_of_Oxford.md) nhưng sau đó viện đã tiếp quản dự án. Các phần bao gồm A-H được xuất bản bởi [1900](../_/1900.md), nhưng cả [chiến tranh](../W/World_War_I.md) và cái chết của Ngài <a class="extiw" href="http://en.wikipedia.org/wiki/James_Murray_(lexicographer)" title="wikipedia:James Murray (lexicographer)">James Murray</a>, người biên tập ban đầu, trong [1915](../_/1915.md) đều có nghĩa là phần U-Z vẫn chưa hoàn thành.<sup id="cite_ref-BioOxI_2-0" class="reference"><a href="#cite_note-BioOxI-2">[2]</a></sup> Sau cái chết của Murray, ba biên tập viên vẫn còn lại: [Henry Bradley](../H/Henry_Bradley.md), William Craigie và C.T. Onions. Hầu hết những người trợ lý của họ đều đã ra trận và không trở về (hoặc không có trong Từ điển hoặc không hề quay lại) nên cần có những người trợ lý mới.<sup id="cite_ref-RoWTaL_3-0" class="reference"><a href="#cite_note-RoWTaL-3">[3]</a></sup>
 
-## Tolkien trong OED (ấn bản năm 1928) {#Tolkien_in_the_OED_(1928_edition)}
+## Tolkien trong OED (ấn bản 1928) {#Tolkien_in_the_OED_(1928_edition)}
 
 <div style="-moz-column-width: 400px; -webkit-column-width: 400px; column-width: 400px; -moz-column-gap: 15px; -webkit-column-gap: 15px; column-gap: 15px; -webkit-column-rule: 1px solid #cccccc; -moz-column-rule: 1px solid #cccccc; column-rule: 1px solid #cccccc;">
 <p>According to <a class="new" href="https://tolkiengateway.net/w/index.php?title=Peter_Gilliver&amp;action=edit&amp;redlink=1" title="Peter Gilliver (page does not exist)">Gilliver</a> et al., Tolkien worked on the following words:<sup id="cite_ref-RoWTaL_3-1" class="reference"><a href="#cite_note-RoWTaL-3">[3]</a></sup>
@@ -102,7 +102,7 @@ Dự án từ điển bắt đầu vào năm 1878. Mặc dù ban đầu nó khô
 <li>Winter</li></ul>
 </div>
 
-## OED ở Tolkien {#The_OED_in_Tolkien}
+## OED trong Tolkien {#The_OED_in_Tolkien}
 
 OED xuất hiện hai lần trong tác phẩm của Tolkien. Bốn biên tập viên ban đầu - Murray, Bradley, Craigie và Onions - đã được tham chiếu trong *[Farmer Giles of Ham](../F/Farmer_Giles_of_Ham.md)*:
 
@@ -129,7 +129,7 @@ Sau đó, trong *[The Notion Club Papers](../T/The_Notion_Club_Papers.md)*, N.E.
 ## Liên kết ngoài {#External_links}
 
 - <a class="external text" href="https://www.oed.com/information/using-the-oed/learning-and-teaching-resources/resources-for-key-stage-3-us-grades-6-8/notes-from-childrens-authors/j-r-r-tolkien-and-the-oed/" rel="noreferrer noopener" target="_blank">J.R.R. Tolkien và OED</a>
-- <a class="external text" href="https://web.archive.org/web/20130308161251/http://blog.oxforddictionaries.com/2013/03/walrus-in-the-oed/" rel="noreferrer noopener" target="_blank">Ngựa cá voi và ngựa vằn: Tolkien và hải mã trong OED</a>
+- <a class="external text" href="https://web.archive.org/web/20130308161251/http://blog.oxforddictionaries.com/2013/03/walrus-in-the-oed/" rel="noreferrer noopener" target="_blank">Cá voi và ngựa vằn: Tolkien và hải mã trong OED</a>
 
 <span></span>
 

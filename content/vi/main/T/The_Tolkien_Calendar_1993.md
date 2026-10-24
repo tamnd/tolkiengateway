@@ -44,19 +44,19 @@ infobox:
 
 ## Minh họa {#Illustrations}
 
-- Bìa - "[Orc trên đường](../../file/A/Alan_Lee_-_Orcs_on_the_Road.jpg.md)"
+- Bìa - "[Orc trên Đường](../../file/A/Alan_Lee_-_Orcs_on_the_Road.jpg.md)"
 - Tháng 1 - "[Frodo và Gandalf](../../file/A/Alan_Lee_-_The_Shadow_of_the_Past.jpg.md)"
 - Tháng 2 - "[Kỵ sĩ bóng tối](../../file/A/Alan_Lee_-_Black_Riders.jpg.md)"
 - Tháng 3 - "[Rivendell](../../file/A/Alan_Lee_-_Rivendell.jpg.md)"
-- Tháng 4 - "[Gương của Galadriel](../../file/A/Alan_Lee_-_The_Mirror_of_Galadriel.jpg.md)"
+- Tháng 4 - "[Galadriel Tấm gương của](../../file/A/Alan_Lee_-_The_Mirror_of_Galadriel.jpg.md)"
 - Tháng 5 - "[Tol Brandir](../../file/A/Alan_Lee_-_Tol_Brandir.jpg.md)"
-- Tháng 6 - "[Râu cây](../../file/A/Alan_Lee_-_Treebeard.jpg.md)"
+- Tháng 6 - "[Treebeard](../../file/A/Alan_Lee_-_Treebeard.jpg.md)"
 - Tháng 7 - "[Sảnh Vàng](../../file/A/Alan_Lee_-_Edoras.jpg.md)"
-- Tháng 8 - "[Trận Hornburg](../../file/A/Alan_Lee_-_The_Battle_of_the_Hornburg.jpg.md)"
-- Tháng 9 - "[Oliphaunt](../../file/A/Alan_Lee_-_Oliphaunt.jpg.md)"
+- Tháng 8 - "[ Trận Hornburg](../../file/A/Alan_Lee_-_The_Battle_of_the_Hornburg.jpg.md)"
+- tháng Chín - "[Oliphaunt](../../file/A/Alan_Lee_-_Oliphaunt.jpg.md)"
 - Tháng 10 - "[Shelob](../../file/A/Alan_Lee_-_Shelob.jpg.md)"
-- Tháng 11 - "[Cuộc vây hãm Gondor](../../file/A/Alan_Lee_-_The_Siege_of_Gondor.jpg.md)"
-- Tháng 12 - "[Orc trên đường](../../file/A/Alan_Lee_-_Orcs_on_the_Road.jpg.md)"
+- Tháng 11 - "[Ngày Cuộc vây hãm Gondor](../../file/A/Alan_Lee_-_The_Siege_of_Gondor.jpg.md)"
+- Tháng 12 - "[Orc Trên Đường](../../file/A/Alan_Lee_-_Orcs_on_the_Road.jpg.md)"
 
 ## Biến thể {#Variants}
 
@@ -84,7 +84,7 @@ infobox:
 ## Liên kết ngoài {#External_links}
 
 - <a class="external text" href="http://www.tolkienbooks.net/php/caldetails.php?reference=94250" rel="noreferrer noopener" target="_blank">Lịch Tolkien 1993</a> tại <a class="external text" href="http://www.tolkienbooks.net" rel="noreferrer noopener" target="_blank">TolkienBooks.net</a>
-- <a class="external text" href="http://tolkiencalendars.com/1993_1995.html" rel="noreferrer noopener" target="_blank">Lịch Tolkien 1993 - 1995</a> tại <a class="external text" href="http://tolkiencalendars.com/" rel="noreferrer noopener" target="_blank">The Compleat Gyde to Tolkien Calendars</a>
+- <a class="external text" href="http://tolkiencalendars.com/1993_1995.html" rel="noreferrer noopener" target="_blank">Tolkien Lịch 1993 - 1995</a> tại <a class="external text" href="http://tolkiencalendars.com/" rel="noreferrer noopener" target="_blank">The Compleat Gyde tới Tolkien Lịch</a>
 
 <table style="margin:0 auto;" class="collapsible toccolours" width="100%" align="center">
 <tbody><tr>

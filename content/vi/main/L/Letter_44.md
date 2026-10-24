@@ -34,7 +34,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien kể cho [Michael](<../M/Michael_Tolkien_(b._1920).md>) về gia đình [mẹ](../M/Mabel_Suffield.md) của anh, họ đến từ Worcestershire. Mabel - người mà Michael mang ơn rất nhiều - xinh đẹp và thông minh nhưng lại chết quá sớm so với tuổi (38 tuổi) vì bệnh tật và bị đàn áp tôn giáo.
+Tolkien kể cho [Michael](<../M/Michael_Tolkien_(b._1920).md>) về gia đình [mẹ](../M/Mabel_Suffield.md) của anh, họ đến từ Worcestershire. Mabel - người mà Michael mang ơn rất nhiều - xinh đẹp và thông minh nhưng lại chết quá sớm so với tuổi của mình (38 tuổi) vì bệnh tật và bị đàn áp tôn giáo.
 
 <dl><dt>In the expanded edition</dt></dl>
 

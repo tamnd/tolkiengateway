@@ -70,7 +70,7 @@ Sự kiện xảy ra vào ngày 11 tháng 11
 - **[1918](1918.md)** - [Chiến tranh](../W/World_War_I.md) kết thúc bằng lệnh ngừng bắn.
 - **[1919](1919.md)** - Bộ Lương hưu gửi thư cho [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), trên đó ông viết dự thảo *[The Ruined Enchanter: A Fairy Ballad](../T/The_Ruined_Enchanter.md)*.
 - **[1944](1944.md)** - Diễn viên [Martyn Read](../M/Martyn_Read.md) ra đời.
-- <b><a href="1954.md" title="1954">1954</a> - <i><a href="../T/The_Two_Towers.md" title="The Two Towers">Hai tòa tháp</a></i> được xuất bản.</b>
+- <b><a href="1954.md" title="1954">1954</a> - <i><a href="../T/The_Two_Towers.md" title="The Two Towers">The Two Towers</a></i> được xuất bản.</b>
 - **[1956](1956.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một bức thư cho ông Britten](<../L/Letter_to_Mr_Britten_(11_November_1956).md>).
 - **[1964](1964.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 265](../L/Letter_265.md).
 - **[1964](1964.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư cho Clyde S. Kilby](<../L/Letter_to_Clyde_S._Kilby_(11_November_1964).md>).
@@ -84,11 +84,11 @@ Sự kiện xảy ra vào ngày 11 tháng 11
 ## Trong Arda {#In_Arda}
 
 - [F.A.](../F/First_Age.md) [495](../F/First_Age_495.md):
-    - [Tuor](../T/Tuor.md), được hướng dẫn bởi [Voronwë](../V/Voronwë.md), đi đến [Gondolin](../G/Gondolin.md) để chuyển thông điệp của [Ulmo](../U/Ulmo.md) tới [Turgon](../T/Turgon.md).
+    - [Tuor](../T/Tuor.md), được hướng dẫn bởi [Voronwë](../V/Voronwë.md), di chuyển đến [Gondolin](../G/Gondolin.md) để chuyển thông điệp của [Ulmo](../U/Ulmo.md) tới [Turgon](../T/Turgon.md).
 - [T.A.](../T/Third_Age.md) [2994](../T/Third_Age_2994.md):
-    - Một người lùn (có lẽ là [Ori](../O/Ori.md)) viết trong [Sách của Mazarbul](../B/Book_of_Mazarbul.md) về cái chết của [Balin](../B/Balin.md) vào ngày hôm trước.
+    - A Người lùn (có lẽ [Ori](../O/Ori.md)) viết trong [Sách Mazarbul](../B/Book_of_Mazarbul.md) về cái chết của [Balin](../B/Balin.md) vào ngày hôm trước.
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi tại [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).
+    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi ở [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).
     - Trăng tròn<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>

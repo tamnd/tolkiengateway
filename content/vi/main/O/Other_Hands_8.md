@@ -35,9 +35,9 @@ infobox:
 - Biên tập: tầm nhìn hay ảo ảnh? - [Chris Seeman](../C/Chris_Seeman.md)
 - Truyền thông - Pablo Ginés Rodriguez, Bernie Roessler, Dirk Brandherm
 - Tiền tuyến - [Chris Seeman](../C/Chris_Seeman.md)
-- Nghi lễ tôn giáo của người Dúnedain xứ Gondor - Michael R. Hickman
+- Nghi lễ tôn giáo của Dúnedain Gondor - Michael R. Hickman
 - Vương quốc thất lạc của Myr - Deena McKinney
 - Con dao phản bội - Jeff A. Hatch
 - Di sản của Calimendil - Torquil Gault
-- Đánh giá sản phẩm: Nhiệm vụ Palantír - Gerrit Nuckton
+- Đánh giá sản phẩm: Palantír Nhiệm vụ - Gerrit Nuckton
 - Đánh giá sản phẩm: Moria - Greg Bailey

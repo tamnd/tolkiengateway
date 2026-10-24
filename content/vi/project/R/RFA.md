@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Gateway:Requests for adminship"
 ---
 
-Chuyển hướng tới [Cổng Tolkien:Yêu cầu quyền quản trị](Requests_for_adminship.md).
+Chuyển hướng tới [Tolkien Gateway:Yêu cầu quyền quản trị](Requests_for_adminship.md).

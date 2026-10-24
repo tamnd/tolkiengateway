@@ -30,7 +30,7 @@ images:
 **Harlond** có thể đề cập đến hai bến cảng:
 
 - [Harlond](<Harlond_(Gondor).md>), các cảng của [Minas Tirith](../M/Minas_Tirith.md).
-- [Harlond](<Harlond_(Lindon).md>), nơi trú ẩn của Yêu tinh ở [Lindon](../L/Lindon.md) trên [Vịnh Lune](../G/Gulf_of_Lune.md).
+- [Harlond](<Harlond_(Lindon).md>), một Tiên thiên đường ở [Lindon](../L/Lindon.md) trên [Vịnh Lune](../G/Gulf_of_Lune.md).
 
 <hr style="margin-top:15px;"/>
 

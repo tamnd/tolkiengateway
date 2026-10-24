@@ -26,7 +26,7 @@ Có lẽ những bóng ma có liên quan đến khái niệm [Sindarin](Sindarin
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Nhập vai ở Trung Địa</a></i>:</b>
+<b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>:</b>
 
 <dl><dd><i>Specters</i> are rare, incorporeal Undead monsters. They are included among the minions of the Balrog of Moria.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></dd></dl>
 

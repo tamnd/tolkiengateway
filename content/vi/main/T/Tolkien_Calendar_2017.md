@@ -36,7 +36,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tolkien_Calendar_2017.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/0/01/Tolkien_Calendar_2017.jpg/320px-Tolkien_Calendar_2017.jpg" decoding="async" loading="lazy" width="320" height="321" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/01/Tolkien_Calendar_2017.jpg/480px-Tolkien_Calendar_2017.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/0/01/Tolkien_Calendar_2017.jpg/640px-Tolkien_Calendar_2017.jpg 2x" data-file-width="997" data-file-height="1001"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Tolkien Calendar 2017</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../H/HarperCollins.md" title="HarperCollins">HarperCollins</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/1_September.md" title="1 September">1 September</a> <a href="../_/2016.md" title="2016">2016</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Calendar</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">32</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/978-0008163396" title="Special:BookSources/978-0008163396">978-0008163396</a> (UK)<br/><a href="https://tolkiengateway.net/wiki/Special:BookSources/978-0-06-256693-5" title="Special:BookSources/978-0-06-256693-5">978-0-06-256693-5</a> (US)</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Tolkien_Calendar_2016.md" title="Tolkien Calendar 2016">Tolkien Calendar 2016</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Tolkien_Calendar_2018.md" title="Tolkien Calendar 2018">Tolkien Calendar 2018</a></td></tr></tbody></table>
 
-<i><b>Lịch Tolkien 2017</b></i> là lịch Tolkien chính thức được xuất bản bởi [HarperCollins](../H/HarperCollins.md) vào [ngày 1 tháng 9](../_/1_September.md) [2016](../_/2016.md). Để kỷ niệm 80 năm thành lập, bộ lịch có tác phẩm nghệ thuật của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được sử dụng trong *[The Hobbit](The_Hobbit.md)*.
+Lịch <i><b>Tolkien 2017</b></i> là lịch Tolkien chính thức được xuất bản bởi [HarperCollins](../H/HarperCollins.md) vào [1 tháng Chín](../_/1_September.md) [2016](../_/2016.md). Để kỷ niệm 80 năm thành lập, lịch có tác phẩm nghệ thuật của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được sử dụng trong *[The Hobbit](The_Hobbit.md)*.
 
 ## Từ nhà xuất bản {#From_the_publisher}
 
@@ -49,14 +49,14 @@ infobox:
 
 - Tấm che - [*The Hobbit* hình minh họa tấm che bụi](../../file/J/J.R.R._Tolkien_-_The_Hobbit_Dustcover.png.md)
 - Tháng Giêng -
-- Tháng 2 - "[Quỷ khổng lồ](../../file/J/J.R.R._Tolkien_-_The_Trolls.png.md)"
+- Tháng 2 - "[Ngày Troll](../../file/J/J.R.R._Tolkien_-_The_Trolls.png.md)"
 - Tháng 3 - "[Rivendell](../../file/J/J.R.R._Tolkien_-_Rivendell.jpg.md)"<sup id="cite_ref-Caven_1-0" class="reference"><a href="#cite_note-Caven-1">[note 1]</a></sup>
 - Tháng 4 -
 - Tháng 5 -
 - Tháng sáu -
 - Tháng 7 -
 - Tháng 8 -
-- Tháng 9 -
+- tháng Chín -
 - Tháng 10 -
 - Tháng 11 -
 - Tháng 12 -

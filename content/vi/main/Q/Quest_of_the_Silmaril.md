@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Quest for the Silmaril"
 ---
 
-Chuyển hướng đến [Truy tìm Silmaril](Quest_for_the_Silmaril.md).
+Chuyển hướng đến [Cuộc truy tìm Silmaril](Quest_for_the_Silmaril.md).

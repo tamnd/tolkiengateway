@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Fauskanger, Helge"
 ---
 
-- [Helge Fauskanger](../../main/H/Helge_Fauskanger.md) đã vui lòng cho phép ông sử dụng hai bức ảnh của chính ông ([1](../../file/H/Helge_Kåre_Fauskanger.gif.md) và [2](../../file/H/Helge_Fauskanger.jpg.md)) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
+- [Helge Fauskanger](../../main/H/Helge_Fauskanger.md) đã vui lòng cho phép ông sử dụng hai bức ảnh của chính mình ([1](../../file/H/Helge_Kåre_Fauskanger.gif.md) và [2](../../file/H/Helge_Fauskanger.jpg.md)) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Ngày: 20 tháng 8 năm 2012
 - Người dùng đã xin phép qua email: [Người dùng:Morgan](https://tolkiengateway.net/wiki/User:Morgan)

@@ -15,10 +15,10 @@ sort_keys:
   "Letters": "Ready, William (1959-03-05)"
 ---
 
-Vào [5 tháng 3](../_/5_March.md) [1959](../_/1959.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_%2522The_Letters_of_J.R.R._Tolkien%2522.md) gửi [William Ready](../W/William_Ready.md)**.<sup id="cite_ref-CG_1-0" class="reference"><a href="#cite_note-CG-1">[1]</a></sup><sup id="cite_ref-Marq_2-0" class="reference"><a href="#cite_note-Marq-2">[2]</a></sup>
+Vào [5 tháng 3](../_/5_March.md) [1959](../_/1959.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_%2522The_Letters_of_J.R.R._Tolkien%2522.md) cho [William Ready](../W/William_Ready.md)**.<sup id="cite_ref-CG_1-0" class="reference"><a href="#cite_note-CG-1">[1]</a></sup><sup id="cite_ref-Marq_2-0" class="reference"><a href="#cite_note-Marq-2">[2]</a></sup>
 
-- **Chủ đề:** Lòng biết ơn vì Ready đã sắp xếp việc [Đại học Marquette](../M/Marquette_University.md) mua các bản thảo của Tolkien cho *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.<sup id="cite_ref-CG_1-1" class="reference"><a href="#cite_note-CG-1">[1]</a></sup><sup id="cite_ref-Marq_2-1" class="reference"><a href="#cite_note-Marq-2">[2]</a></sup>
-- **Ấn bản:** Mô tả và trích dẫn từ bức thư xuất hiện trong *[The J.R.R. Tolkien Companion and Guide: Chronology](../T/The_J.R.R._Tolkien_Companion_and_Guide.md)*.
+- **Chủ đề:** Tri ân sự sắp xếp mua [Đại học Marquette](../M/Marquette_University.md) Tolkien bản thảo của Ready cho *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.<sup id="cite_ref-CG_1-1" class="reference"><a href="#cite_note-CG-1">[1]</a></sup><sup id="cite_ref-Marq_2-1" class="reference"><a href="#cite_note-Marq-2">[2]</a></sup>
+- **Xuất bản:** Mô tả và trích dẫn từ bức thư xuất hiện trong *[The J.R.R. Tolkien Companion and Guide: Chronology](../T/The_J.R.R._Tolkien_Companion_and_Guide.md)*.
 
 ## Trích {#Excerpt}
 

@@ -34,7 +34,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Andrew Higgins</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Occupation</th><td class="tg-infobox-data">Director of Development for Glyndebourne Opera</td></tr><tr><th scope="row" class="tg-infobox-label">Website</th><td class="tg-infobox-data"><a class="external text" href="http://wotanselvishmusings.blogspot.co.uk" rel="noreferrer noopener" target="_blank">Wotan&#39;s Elvish Musings</a></td></tr></tbody></table>
 
-**Andrew Higgins** là học giả [Tolkien](../J/J.R.R._Tolkien.md). Luận án tiến sĩ của ông có tựa đề 'Nguồn gốc thần thoại Tolkien', được hướng dẫn bởi Tiến sĩ [Dimitra Fimi](../D/Dimitra_Fimi.md). Ông cũng giảng dạy các khóa học về Phát minh ngôn ngữ và Tolkien, thông qua Đại học Signum/[Học viện Mythgard](../M/Mythgard_Institute.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Andrew Higgins** là học giả [Tolkien](../J/J.R.R._Tolkien.md). Luận án tiến sĩ của ông có tựa đề 'Nguồn gốc thần thoại của Tolkien', được hướng dẫn bởi Tiến sĩ [Dimitra Fimi](../D/Dimitra_Fimi.md). Ông cũng giảng dạy các khóa học về Phát minh ngôn ngữ và Tolkien, thông qua Đại học Signum/[Học viện Mythgard](../M/Mythgard_Institute.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Thư mục {#Bibliography}
 
@@ -45,11 +45,11 @@ infobox:
 ### Bài viết {#Articles}
 
 - [2017](../_/2017.md): *[Death and Immortality in Middle-earth](../D/Death_and_Immortality_in_Middle-earth.md)*
-    - "'Quà tặng hài hòa?': khám phá ngữ văn về những từ do Tolkien sáng tạo ra cho 'sự sống' và 'cái chết'"
+    - "'Quà tặng hài hòa?': khám phá ngữ văn về những từ được phát minh của Tolkien cho 'sự sống' và 'cái chết'"
 - [2019](../_/2019.md): *[Sub-creating Arda](../S/Sub-creating_Arda.md)*
     - "Hơn cả câu chuyện: Vai trò của các đoạn văn trong việc xây dựng thế giới của Austin Tappan Wright, J.R.R. Tolkien và Ursula K. Le Guin"
 - [2020](../_/2020.md): [*Mallorn* 60](../M/Mallorn_60.md):
-    - "Tolkien vào kỳ nghỉ"
+    - "Tolkien vào ngày lễ"
 
 ### Đánh giá {#Reviews}
 
@@ -66,12 +66,12 @@ infobox:
 
 - Tháng 4 [2016](../_/2016.md): [Tolkiendil](<../T/Tolkiendil_(Tolkien_society).md>)
     - <a class="external text" href="http://www.tolkiendil.com/tolkien/interview/fimi_et_higgins_en" rel="noreferrer noopener" target="_blank">Phỏng vấn Dimitra Fimi và Andrew Higgins</a>
-- Tháng 1 [2020](../_/2020.md): [Podcast Trải nghiệm Tolkien](../T/The_Tolkien_Experience.md)
+- Tháng 1 [2020](../_/2020.md): [The Tolkien Experience Podcast](../T/The_Tolkien_Experience.md)
     - <a class="external text" href="https://luke-shelton.com/2020/01/31/tep-3-andrew-higgins/" rel="noreferrer noopener" target="_blank">Tập 3</a>
 
 ## Giải thưởng {#Awards}
 
-- [2017](../_/2017.md):**[Giải thưởng của Hiệp hội Tolkien](../T/The_Tolkien_Society_Awards.md): Sách hay nhất**, *[A Secret Vice: Tolkien on Invented Languages](A_Secret_Vice%253A_Tolkien_on_Invented_Languages.md)* (đồng biên tập với [Dimitra Fimi](../D/Dimitra_Fimi.md))
+- [2017](../_/2017.md):**[Giải thưởng của Hội Tolkien](../T/The_Tolkien_Society_Awards.md): Sách hay nhất**, *[A Secret Vice: Tolkien on Invented Languages](A_Secret_Vice%253A_Tolkien_on_Invented_Languages.md)* (đồng biên tập với [Dimitra Fimi](../D/Dimitra_Fimi.md))
 
 ## Liên kết ngoài {#External_links}
 

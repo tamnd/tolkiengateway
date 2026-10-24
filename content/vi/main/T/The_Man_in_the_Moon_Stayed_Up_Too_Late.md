@@ -29,13 +29,13 @@ images:
 
 <figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/Lída_Holubová_-_The_Man_in_the_Moon_stayed_up_too_late.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/5b/L%C3%ADda_Holubov%C3%A1_-_The_Man_in_the_Moon_stayed_up_too_late.jpg/250px-L%C3%ADda_Holubov%C3%A1_-_The_Man_in_the_Moon_stayed_up_too_late.jpg" decoding="async" loading="lazy" width="250" height="353" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/5b/L%C3%ADda_Holubov%C3%A1_-_The_Man_in_the_Moon_stayed_up_too_late.jpg/375px-L%C3%ADda_Holubov%C3%A1_-_The_Man_in_the_Moon_stayed_up_too_late.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/5/5b/L%C3%ADda_Holubov%C3%A1_-_The_Man_in_the_Moon_stayed_up_too_late.jpg/500px-L%C3%ADda_Holubov%C3%A1_-_The_Man_in_the_Moon_stayed_up_too_late.jpg 2x" data-file-width="1280" data-file-height="1809"/></a><figcaption>&#34;The Man in the Moon stayed up too late&#34; by <a href="../L/Lída_Holubová.md" title="Lída Holubová">Lída Holubová</a></figcaption></figure>
 
-**Người đàn ông trên mặt trăng thức quá muộn** là một bài thơ [Hobbit](../H/Hobbits.md) do [Bilbo Baggins](../B/Bilbo_Baggins.md) sáng tác.
+**Người đàn ông trong Mặt Trăng Thức quá khuya** là một bài thơ [Hobbit](../H/Hobbits.md) sáng tác bởi [Bilbo Baggins](../B/Bilbo_Baggins.md).
 
 ## Lịch sử {#History}
 
-Bài thơ được sáng tác bởi [Bilbo Baggins](../B/Bilbo_Baggins.md) khoảng trước [T.A.](Third_Age.md) [3001](Third_Age_3001.md). Trong [T.A.](Third_Age.md) [3018](Third_Age_3018.md), trong *[The Prancing Pony](The_Prancing_Pony.md)* tại [Bree](../B/Bree.md), [Frodo](../F/Frodo_Baggins.md) đã nhảy lên bàn và đọc "một bài hát lố bịch" do Bilbo sáng tác.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Bài thơ được sáng tác bởi [Bilbo Baggins](../B/Bilbo_Baggins.md) khoảng trước [T.A.](Third_Age.md) [3001](Third_Age_3001.md). Trong [T.A.](Third_Age.md) [3018](Third_Age_3018.md), trong *[The Prancing Pony](The_Prancing_Pony.md)* lúc [Bree](../B/Bree.md), [Frodo](../F/Frodo_Baggins.md) đã nhảy lên bàn và đọc "một bài hát lố bịch" do Bilbo sáng chế.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Vào [Thời đại thứ tư](../F/Fourth_Age.md) một bài thơ có tựa đề tương tự đã được viết trong [Sách đỏ](../R/Red_Book.md), *[The Man in the Moon Came Down Too Soon](The_Man_in_the_Moon_Came_Down_Too_Soon.md)*, tuy nhiên bài thơ này được lấy cảm hứng từ truyền thuyết [Gondorian](../G/Gondor.md).
+Trong [Kỷ Đệ Tứ](../F/Fourth_Age.md) một bài thơ có tựa đề tương tự được viết trong [Sách Đỏ](../R/Red_Book.md), *[The Man in the Moon Came Down Too Soon](The_Man_in_the_Moon_Came_Down_Too_Soon.md)*, tuy nhiên được lấy cảm hứng từ truyền thuyết [Gondor](../G/Gondor.md).
 
 ## Mẫu {#Form}
 
@@ -70,37 +70,37 @@ they all went back to bed!
 
 Bài thơ là sự làm lại của một bài thơ trước đó có tên <i><b>The Cat and the Fiddle: A Nursery Rhyme Undone and its Scandalous Secret Undone</b></i>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Bài thơ gốc mở rộng dựa trên vần điệu truyền thống dành cho trẻ mẫu giáo <i><a class="extiw" href="http://en.wikipedia.org/wiki/Hey_Diddle_Diddle" title="wikipedia:Hey Diddle Diddle">The Cat and the Fiddle</a></i> và được xuất bản năm [Tháng 10](../O/October.md)/[Tháng 11](../N/November.md) [1923](../_/1923.md) trong *[Yorkshire Poetry](../Y/Yorkshire_Poetry.md)* Tập. 2 số 19. Tái bản trong *[The Return of the Shadow](The_Return_of_the_Shadow.md)*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Tolkien cuối cùng đã sử dụng nó làm nền cho một bài thơ được [Frodo Baggins](../F/Frodo_Baggins.md) đọc trong *[The Lord of the Rings](The_Lord_of_the_Rings.md)* và xuất bản nó dưới tên *Người đàn ông trên mặt trăng ở lại quá muộn* trong *[The Adventures of Tom Bombadil](The_Adventures_of_Tom_Bombadil.md)*.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Tolkien cuối cùng đã sử dụng nó làm nền cho một bài thơ được [Frodo Baggins](../F/Frodo_Baggins.md) đọc trong *[The Lord of the Rings](The_Lord_of_the_Rings.md)* và xuất bản nó với tên *Người đàn ông trong Mặt Trăng Thức khuya* trong *[The Adventures of Tom Bombadil](The_Adventures_of_Tom_Bombadil.md)*.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Cảm hứng {#Inspiration}
 
-[Tom Shippey](Tom_Shippey.md) đã lưu ý một số yếu tố trong huyền thoại Ấn-Âu về <a class="extiw" href="http://en.wikipedia.org/wiki/Phaethon" title="wikipedia:Phaethon">Phaethon</a> trong những chú ngựa của [Người đàn ông trên mặt trăng](../M/Man_in_the_Moon.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+[Tom Shippey](Tom_Shippey.md) đã lưu ý một số yếu tố trong huyền thoại Ấn-Âu về <a class="extiw" href="http://en.wikipedia.org/wiki/Phaethon" title="wikipedia:Phaethon">Phaethon</a> trong [Người đàn ông cưỡi ngựa Mặt Trăng](../M/Man_in_the_Moon.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
-Theo [Tom Shippey](Tom_Shippey.md) và Thomas Honneger, bài thơ cố gắng tăng thêm chiều sâu cho bài đồng dao vô nghĩa dành cho trẻ mẫu giáo; vần "sống sót" có thể được hình dung như một tạo tác của vần lớn hơn còn sót lại từ [Thời đại thứ ba](Third_Age.md).<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+Theo [Tom Shippey](Tom_Shippey.md) và Thomas Honneger, bài thơ cố gắng tăng thêm chiều sâu cho bài đồng dao vô nghĩa dành cho trẻ mẫu giáo; vần "sống sót" có thể được hình dung như một tạo tác của vần còn sót lại lớn hơn từ [Kỷ Đệ Tam](Third_Age.md).<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
-[George MacDonald](../G/George_MacDonald.md) đã sáng tác *Lịch sử đích thực của con mèo và cây vĩ cầm* (xuất bản trong <i><a class="extiw" href="http://en.wikipedia.org/wiki/At_the_Back_of_the_North_Wind" title="wikipedia:At the Back of the North Wind">Ở phía sau cơn gió Bắc</a></i>), trong đó ông kết hợp các bài đồng dao *Hey Diddle Diddle* và *Người đàn ông trên mặt trăng đã xuống quá sớm*. George Burke Johnston cho rằng Tolkien lấy cảm hứng từ bài thơ đó.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
+[George MacDonald](../G/George_MacDonald.md) đã sáng tác *Lịch sử đích thực của con mèo và cây vĩ cầm* (xuất bản trong <i><a class="extiw" href="http://en.wikipedia.org/wiki/At_the_Back_of_the_North_Wind" title="wikipedia:At the Back of the North Wind">Ở phía sau cơn gió Bắc</a></i>), trong đó ông kết hợp các bài đồng dao *Hey Diddle Diddle* và *Người đàn ông trong Mặt Trăng Came Down Too Soon*. George Burke Johnston cho rằng Tolkien lấy cảm hứng từ bài thơ đó.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
 
 Steven M. Deyo nói bài thơ dựa trên "Bài thơ viết tay của Harley 2253".<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
 
 ## Miêu tả trong chuyển thể {#Portrayals_in_adaptations}
 
-<b>1978: <a href="The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>Chúa tể của những chiếc nhẫn</i> (phim 1978)</a>:</b>
+<b>1978: <a href="The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim 1978)</a>:</b>
 
 <dl><dd>Frodo sings an abridged version of the song at the Prancing Pony before falling off the table and accidentally slipping on the <a class="mw-redirect" href="../O/One_Ring.md" title="One Ring">Ring</a> for the first time, causing him to disappear and startle the patrons.</dd></dl>
 
-<b>1981: <a href="The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>Chúa tể của những chiếc nhẫn</i> (loạt phim phát thanh năm 1981)</a>:</b>
+<b>1981: <a href="The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>The Lord of the Rings</i> (loạt phim phát thanh 1981)</a>:</b>
 
 <dl><dd>Frodo sings the song in Bree. Speeding up at every line, he becomes nigh unintelligible near the end.</dd></dl>
 
-<b>2002: <a href="The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md" title="The Lord of the Rings: The Fellowship of the Ring (video game)"><i>Chúa tể của những chiếc nhẫn: Hiệp hội những chiếc nhẫn</i> (trò chơi điện tử)</a>:</b>
+<b>2002: <a href="The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md" title="The Lord of the Rings: The Fellowship of the Ring (video game)"><i>The Lord of the Rings: The Fellowship of the Ring</i> (trò chơi điện tử)</a>:</b>
 
 <dl><dd>Frodo sings an abridged version at the Prancing Pony. The line fragment <i>&#34;And there they brew a beer so brown&#34;</i> was changed to <i>&#34;And there they <b>make</b> a <b>stew</b> so brown&#34;</i>, presumably to censor references to alcohol. The <a href="../M/Man_in_the_Moon.md" title="Man in the Moon">Man in the Moon</a> is said to have &#34;flew down&#34; rather than &#34;c[o]me down&#34; and he &#34;eat&#34;s his fill, rather than &#34;drink&#34;s his fill.</dd></dl>
 
-<b>2006: <a class="mw-redirect" href="The_Lord_of_the_Rings_Musical.md" title="The Lord of the Rings Musical"><i>Chúa tể của những chiếc nhẫn</i> (nhạc kịch)</a>:</b>
+<b>2006: <a class="mw-redirect" href="The_Lord_of_the_Rings_Musical.md" title="The Lord of the Rings Musical"><i>The Lord of the Rings</i> (âm nhạc)</a>:</b>
 
 <dl><dd>The hobbits sing a version at the Prancing Pony.  The lyrics are quite different.</dd></dl>
 
-<b>2012: <i><a href="The_Hobbit%253A_An_Unexpected_Journey.md" title="The Hobbit: An Unexpected Journey">Người Hobbit: Hành trình bất ngờ</a></i>:</b>
+<b>2012: <i><a href="The_Hobbit%253A_An_Unexpected_Journey.md" title="The Hobbit: An Unexpected Journey">The Hobbit: An Unexpected Journey</a></i>:</b>
 
 <dl><dd>In the Extended Edition of the film, <a href="../B/Bofur.md" title="Bofur">Bofur</a> sings an abridged version in <a href="../R/Rivendell.md" title="Rivendell">Rivendell</a> while the <a href="Thorin_and_Company.md" title="Thorin and Company">Company</a> dines with the <a href="../E/Elves.md" title="Elves">Elves</a>, and the other <a href="../D/Dwarves.md" title="Dwarves">Dwarves</a> join in.</dd></dl>
 

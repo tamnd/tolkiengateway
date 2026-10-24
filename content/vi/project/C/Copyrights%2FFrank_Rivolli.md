@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Rivolli, Frank"
 ---
 
-- Frank Rivolli đã vui lòng cho phép ông sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Frank_Rivolli.md) trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
+- Frank Rivolli đã vui lòng cho phép ông sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Frank_Rivolli.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Ngày: 12 tháng 11 năm 2014
 - Người dùng đã xin phép qua DeviantArt: [Người dùng:Amroth](https://tolkiengateway.net/wiki/User:Amroth)

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ascar"
 ---
 
-Chuyển hướng tới [Ascar](../A/Ascar.md).
+Chuyển hướng đến [Ascar](../A/Ascar.md).

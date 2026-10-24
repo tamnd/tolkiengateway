@@ -14,7 +14,7 @@ sort_keys:
   "Roots": "AS-AT"
 ---
 
-**ÁS-AT** là [Quendian nguyên thủy](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md). Nó không có ý nghĩa gì.<sup id="cite_ref-LR348_1-0" class="reference"><a href="#cite_note-LR348-1">[1]</a></sup>
+**ÁS-AT** là một [Primitive Quendian](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md). Nó không có ý nghĩa gì.<sup id="cite_ref-LR348_1-0" class="reference"><a href="#cite_note-LR348-1">[1]</a></sup>
 
 ## Công cụ phái sinh {#Derivatives}
 

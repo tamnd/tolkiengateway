@@ -16,17 +16,17 @@ images:
   - "Hwesta.gif"
 ---
 
-<i><b>hwesta</b></i> là danh từ có nghĩa là "làn gió" trong [Quenya](../Q/Quenya.md).<sup id="cite_ref-Names_1-0" class="reference"><a href="#cite_note-Names-1">[1]</a></sup>
+<i><b>hwesta</b></i> là danh từ có nghĩa là "gió" trong [Quenya](../Q/Quenya.md).<sup id="cite_ref-Names_1-0" class="reference"><a href="#cite_note-Names-1">[1]</a></sup>
 
 <figure class="mw-default-size mw-halign-left" typeof="mw:File"><a class="mw-file-description" href="../../file/H/Hwesta.gif.md"><img src="https://tolkiengateway.net/w/images/e/e1/Hwesta.gif" decoding="async" loading="lazy" width="53" height="65" class="mw-file-element" data-file-width="53" data-file-height="65"/></a><figcaption></figcaption></figure>
 
-*Hwesta* cũng là tên bằng tiếng Quenya của chữ cái thứ mười hai trong bảng chữ cái [Tengwar](../T/Tengwar.md).<sup id="cite_ref-Names_1-1" class="reference"><a href="#cite_note-Names-1">[1]</a></sup> Đây là chữ cái thứ tư của lớp ba hay [Tyellë](../T/Tyellë.md), chứa "các âm vô thanh" và là chữ cái thứ ba trong chuỗi phụ âm thứ tư. Đối với chữ viết Quenya hoặc [Sindarin](../S/Sindarin.md), bộ thứ tư được sử dụng cho bộ labialized hoặc *kw*-series, *[Quessetéma](../Q/Quessetéma.md)*.<sup id="cite_ref-Letters_2-0" class="reference"><a href="#cite_note-Letters-2">[2]</a></sup>
+*Hwesta* cũng là tên trong Quenya của chữ cái thứ mười hai trong bảng chữ cái [Tengwar](../T/Tengwar.md).<sup id="cite_ref-Names_1-1" class="reference"><a href="#cite_note-Names-1">[1]</a></sup> Nó là chữ cái thứ tư của lớp ba hay [Tyellë](../T/Tyellë.md), chứa "các âm thanh vô thanh" và là chữ cái thứ ba trong chuỗi phụ âm thứ tư. Đối với Quenya hoặc [Sindarin](../S/Sindarin.md) được viết, sê-ri thứ tư được sử dụng cho sê-ri labialized hoặc *kw*, *[Quessetéma](../Q/Quessetéma.md)*.<sup id="cite_ref-Letters_2-0" class="reference"><a href="#cite_note-Letters-2">[2]</a></sup>
 
 Ở Quenya, nơi không cần dấu hiệu phân biệt cho *chw*, chữ cái này đại diện cho **HW**. Trong Sindarin, phân biệt giữa *chw* và *hw*, *Hwesta* đại diện cho **CHW** trong khi *[Hwesta Sindarinwa](Hwesta_Sindarinwa.md)* (chữ cái thứ ba mươi tư) đại diện cho **HW**.<sup id="cite_ref-Names_1-2" class="reference"><a href="#cite_note-Names-1">[1]</a></sup> Trong [Westron](../W/Westron.md) chuỗi thứ tư được sử dụng cho dòng *k*, *[Calmatéma](../C/Calmatéma.md)* và chữ cái này đại diện cho âm thanh **CH** như trong "loch" của Scotland.<sup id="cite_ref-Letters_2-1" class="reference"><a href="#cite_note-Letters-2">[2]</a></sup> Tên phương Tây của chữ cái này là <i><b>Aha</b></i><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> (đừng nhầm với tên trong Quenya của [chữ cái 11](../A/Aha.md)).
 
 ## Xem thêm {#See_also}
 
-- <a class="external text" href="http://www.uib.no/People/hnohf/qlist.htm" rel="noreferrer noopener" target="_blank">Danh sách từ Quenya Corpus</a> được chỉnh sửa bởi [Helge Fauskanger](Helge_Fauskanger.md)
+- <a class="external text" href="http://www.uib.no/People/hnohf/qlist.htm" rel="noreferrer noopener" target="_blank">Quenya Danh sách từ ngữ liệu</a> được chỉnh sửa bởi [Helge Fauskanger](Helge_Fauskanger.md)
 
 <span></span>
 

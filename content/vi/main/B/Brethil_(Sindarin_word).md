@@ -13,14 +13,14 @@ categories:
   - "Sindarin nouns"
 ---
 
-**brethil** là từ [tiếng Sindarin](../S/Sindarin.md) có nghĩa là "cây sồi",<sup id="cite_ref-Ety_1-0" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup> "bạch dương bạc".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-PE17_3-0" class="reference"><a href="#cite_note-PE17-3">[3]</a></sup>
+**anh em** là từ [Sindarin](../S/Sindarin.md) có nghĩa là "cây sồi",<sup id="cite_ref-Ety_1-0" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup> "bạch dương bạc".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-PE17_3-0" class="reference"><a href="#cite_note-PE17-3">[3]</a></sup>
 
 - **Ví dụ:**
     - *[Brethil](Brethil.md)*
     - *[Nimbrethil](../N/Nimbrethil.md)*
     - *[Fimbrethil](../F/Fimbrethil.md)*
 
-Từ Sindarin 'thông thường' cho bạch dương là [chwind](../C/Chwind.md) hoặc [whinn](../C/Chwind.md).<sup id="cite_ref-PE17_3-1" class="reference"><a href="#cite_note-PE17-3">[3]</a></sup>
+Từ 'thông thường' Sindarin chỉ bạch dương là [chwind](../C/Chwind.md) hoặc [whinn](../C/Chwind.md).<sup id="cite_ref-PE17_3-1" class="reference"><a href="#cite_note-PE17-3">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

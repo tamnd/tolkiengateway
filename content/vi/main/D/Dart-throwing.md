@@ -12,7 +12,7 @@ categories:
   - "Activities"
 ---
 
-**Ném phi tiêu** là một trò chơi bao gồm việc ném phi tiêu vào một mục tiêu, thường là ném vòng tròn và thưởng điểm tùy thuộc vào vị trí phi tiêu rơi trúng mục tiêu. [Bilbo Baggins](../B/Bilbo_Baggins.md) rất thích trò chơi này, điều này cho thấy rằng nó rất phổ biến đối với [Người Hobbit](../H/Hobbits.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
+**Ném phi tiêu** là một trò chơi bao gồm việc ném phi tiêu vào một mục tiêu, thường là ném vòng tròn và thưởng điểm tùy thuộc vào vị trí phi tiêu rơi trúng mục tiêu. [Bilbo Baggins](../B/Bilbo_Baggins.md) rất thích trò chơi này, điều này cho thấy nó rất phổ biến trong [Hobbit](../H/Hobbits.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

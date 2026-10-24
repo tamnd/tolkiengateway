@@ -11,4 +11,4 @@ redirect_target: "Elven characteristics"
 redirect_fragment: "Pointed ears"
 ---
 
-Chuyển hướng đến [Đặc điểm của Yêu tinh](Elven_characteristics.md#Pointed_ears).
+Chuyển hướng đến [Tiên đặc điểm](Elven_characteristics.md#Pointed_ears).

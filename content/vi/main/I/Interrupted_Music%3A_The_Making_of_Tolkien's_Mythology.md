@@ -36,7 +36,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/I/Interrupted_Music_-_The_Making_of_Tolkien&#39;s_Mythology.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/47/Interrupted_Music_-_The_Making_of_Tolkien%27s_Mythology.jpg/320px-Interrupted_Music_-_The_Making_of_Tolkien%27s_Mythology.jpg" decoding="async" loading="lazy" width="320" height="470" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/47/Interrupted_Music_-_The_Making_of_Tolkien%27s_Mythology.jpg/480px-Interrupted_Music_-_The_Making_of_Tolkien%27s_Mythology.jpg 1.5x, https://tolkiengateway.net/w/images/4/47/Interrupted_Music_-_The_Making_of_Tolkien%27s_Mythology.jpg 2x" data-file-width="545" data-file-height="800"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Interrupted Music:<br/><small>The Making of Tolkien&#39;s Mythology</small></span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a href="../V/Verlyn_Flieger.md" title="Verlyn Flieger">Verlyn Flieger</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Kent State University Press</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/30_April.md" title="30 April">30 April</a>, <a href="../_/2005.md" title="2005">2005</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">172</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0873388240" title="Special:BookSources/0873388240">0873388240</a></td></tr></tbody></table>
 
-<i><b>Âm nhạc bị gián đoạn: Việc tạo nên thần thoại của Tolkien</b></i> là một cuốn sách học thuật về các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), được viết bởi [Verlyn Flieger](../V/Verlyn_Flieger.md).
+<i><b>Âm nhạc ngắt quãng: Việc tạo nên thần thoại của Tolkien</b></i> là một cuốn sách học thuật về các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), được viết bởi [Verlyn Flieger](../V/Verlyn_Flieger.md).
 
 ## Từ nhà xuất bản {#From_the_publisher}
 
@@ -62,9 +62,9 @@ infobox:
     - "Thúc đẩy cuộc sống trọn vẹn nhờ chiến tranh"
     - "Nguồn gốc của ngôn ngữ và tâm trí"
 - 2\. Người mẫu
-    - Mẫu cá nhân: Tolkien và Lönnrot
+    - Mô hình cá nhân: Tolkien và Lönnrot
     - Mô hình văn học: Tolkien và Arthur
-    - "'Nhưng' Sam nói"
+    - "'Nhưng' đã nói Sam"
 - 3\. Quan điểm: Huyền thoại đó là của ai?
 - 4\. Truyền thống
     - Cuộc phiêu lưu của một văn bản
@@ -77,7 +77,7 @@ infobox:
 <dl><dd><dl><dt>Part 2. The Artificer and the Foreconceit</dt></dl></dd></dl>
 
 - 5\. đồ tạo tác
-    - Eriol Thủy thủ
+    - Eriol thủy thủ
     - "Tôi nên thử 'du hành thời gian'"
     - Câu chuyện về Atlantis và Eriol-Saga
     - "Nơi vẫn còn có thể đọc được như tháng năm"

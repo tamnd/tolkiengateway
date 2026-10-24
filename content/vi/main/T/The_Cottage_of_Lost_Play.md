@@ -40,23 +40,23 @@ images:
 
 ## Tóm tắt {#Synopsis}
 
-Chúng ta được giới thiệu với [Eriol](../E/Eriol.md) thủy thủ, được mô tả là một *"man of great curiosity"* đã hành trình đến Đảo Cô đơn, [Tol Eressëa](Tol_Eressëa.md) từ [Great Lands](../M/Middle-earth.md#Other_versions_of_the_legendarium).
+Chúng tôi được giới thiệu với [Eriol](../E/Eriol.md) người thủy thủ, được mô tả là một *"man of great curiosity"* người đã hành trình đến Đảo Cô đơn, [Tol Eressëa](Tol_Eressëa.md) từ [Great Lands](../M/Middle-earth.md#Other_versions_of_the_legendarium).
 
 Trong khi đi qua trung tâm hòn đảo, anh đến được khu vực sau này được đặt tên là [Alalminórë](../A/Alalminórë.md). Eriol quyết định đã đến lúc tìm chỗ ở ngay khi mặt trời bắt đầu lặn và những ngôi sao đầu tiên xuất hiện trên bầu trời. Lên đến đỉnh đồi, anh rẽ vào một con đường ngoằn ngoèo và ở sườn phía tây, anh nhìn thấy một ngôi nhà nhỏ, đây là [Ngôi nhà của Lost Play](../C/Cottage_of_Lost_Play.md).
 
-Ở đó, anh gặp [Lindo](../L/Lindo.md) và [Vairë](../V/Vairë.md), những người đã xây dựng ngôi nhà cách đây nhiều năm và hiện đang chăm sóc cho nhiều đứa con thất lạc của những người đàn ông vẫn ở lại [Kôr](../K/Kôr.md) cùng với [Eldar](../E/Eldar.md) mãi mãi. Từ họ, Eriol biết được về nền tảng của [Kortirion](../K/Kortirion.md) và một số phần nhỏ về lịch sử của Eldar.
+Ở đó, anh gặp [Lindo](../L/Lindo.md) và [Vairë](../V/Vairë.md), những người đã xây dựng ngôi nhà cách đây nhiều năm và hiện đang chăm sóc cho nhiều đứa con thất lạc của những người đàn ông vẫn ở lại [Kôr](../K/Kôr.md) với [Eldar](../E/Eldar.md) mãi mãi. Từ họ Eriol biết được nền tảng của [Kortirion](../K/Kortirion.md) và một số phần nhỏ về lịch sử của Eldar.
 
-Nhiều sự kiện trọng đại được nhắc đến ở đây nhưng không giải thích chi tiết; [Tiến quân](../F/Faring_Forth.md), Cuộc lưu đày của Kôr, [Valar](../V/Valar.md) và [Valinor](../V/Valinor.md). Câu chuyện kết thúc với việc Vairë gợi ý rằng Eriol có thể là hậu duệ của một người đã *"tìm thấy những tảng đá của Eldamar ngày xưa"*.
+Nhiều sự kiện trọng đại được nhắc đến ở đây nhưng không giải thích chi tiết; [Faring Forth](../F/Faring_Forth.md), Người lưu vong của Kôr, [Valar](../V/Valar.md) và [Valinor](../V/Valinor.md). Câu chuyện kết thúc với việc Vairë gợi ý rằng Eriol có thể là hậu duệ của một người đã *"tìm thấy những tảng đá Eldamar ngày xưa"*.
 
 ## Bình luận {#Commentary}
 
-Câu chuyện được ghi lại trong Sách bài tập cấp trung học có nhãn *The Cottage of Lost Play, tạo thành \[the\] Book of Lost Tales* và được viết bởi [Edith Tolkien](../E/Edith_Tolkien.md), là một bản sao khá đẹp của bản thảo gốc bằng bút chì có thể được viết vào mùa đông năm [1916](../_/1916.md)-[17](../_/1917.md).
+Câu chuyện được ghi lại trong Sách bài tập cấp trung học có nhãn *The Cottage of Lost Play, trong đó có \[the\] Book of Lost Tales* và được viết bởi [Edith Tolkien](../E/Edith_Tolkien.md), là một bản sao khá đẹp của bản thảo gốc bằng bút chì có thể được viết vào mùa đông năm [1916](../_/1916.md)-[17](../_/1917.md).
 
-Eriol được mô tả là một *"Son of Eärendel"* nhưng điều này không có nghĩa là ông ta là hậu duệ của [Eärendel](../E/Eärendel.md); nếu một tia sáng từ ngôi sao Eärendel chiếu vào một đứa trẻ mới sinh thì cậu bé được coi là “đứa con của Eärendel” và trở thành một kẻ lang thang không ngừng nghỉ.
+Eriol được mô tả là *"Son of Eärendel"* nhưng điều này không có nghĩa là ông ta là hậu duệ của [Eärendel](../E/Eärendel.md); nếu một chùm tia từ ngôi sao Eärendel rơi vào một đứa trẻ mới sinh, đứa trẻ đó sẽ bị coi là “đứa con của Eärendel” và trở thành kẻ lang thang không ngừng nghỉ.
 
-Bên cạnh cuốn sổ này là một cuốn sổ tay nhỏ có nhãn *Story of Eriol’s life*, trong số đó có những thứ giải thích về gia phả của ông. Ông ta có nguồn gốc từ thần Woden. Vào thời điểm Tol Eressëa đến thăm, Tol Eressëa có hai người con trai tên là [Hengest và Horsa](../H/Hengest_and_Horsa.md), họ là con của người vợ đầu tiên Cwén, người đã chết không rõ nguyên nhân không lâu trước chuyến hành trình tìm Đảo Cô đơn của Eriol.
+Bên cạnh cuốn sổ này là một cuốn sổ tay nhỏ có nhãn *Story of Eriol’s life*, trong số đó có những thứ giải thích về gia phả của ông. Ông ta có nguồn gốc từ thần Woden. Vào thời điểm đến thăm Tol Eressëa có hai con trai tên là [Hengest và Horsa](../H/Hengest_and_Horsa.md), họ là con của người vợ đầu tiên Cwén, người đã chết không rõ nguyên nhân không lâu trước chuyến hành trình tìm Đảo Cô đơn của Eriol.
 
-Eriol được cho là đến từ *"vùng đất phía Đông Biển Bắc"*, nơi chắc chắn đề cập đến một khu vực thuộc bán đảo Đan Mạch theo [Christopher Tolkien](../C/Christopher_Tolkien.md). Nó cũng chỉ ra rằng Eriol dường như thuộc về thời kỳ trước cuộc xâm lược của người Anglo-Saxon vào nước Anh.
+Eriol được cho là đến từ *"vùng đất phương Đông phía Bắc Biển"* mà chắc chắn đề cập đến một khu vực của bán đảo Đan Mạch theo [Christopher Tolkien](../C/Christopher_Tolkien.md). Nó cũng chỉ ra rằng Eriol dường như thuộc về thời kỳ trước cuộc xâm lược Anglo-Saxon của Anh.
 
 ## Thơ {#Poems}
 

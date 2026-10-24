@@ -21,11 +21,11 @@ langlinks:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><a href="../F/First_Age.md" title="First Age">I</a><a href="../S/Second_Age.md" title="Second Age">II</a><b>III</b><a href="../F/Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="Third_Age_1553.md" title="Third Age 1553">1553</a><a href="Third_Age_1577.md" title="Third Age 1577">1577</a><a href="Third_Age_1589.md" title="Third Age 1589">1589</a><a class="mw-selflink selflink">1601</a><a href="Third_Age_1621.md" title="Third Age 1621">1621</a><a href="Third_Age_1630.md" title="Third Age 1630">1630</a><a href="Third_Age_1632.md" title="Third Age 1632">1632</a></div></div></div></div></div></div>
 
-**Kỷ thứ ba 1601** (viết tắt là **T.A. 1601**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 1601 của [Kỷ thứ ba](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Thời đại thứ ba 1601 còn được gọi là **S.R. 1** trong [Tính toán quận](../S/Shire-reckoning.md).
+**Kỷ Đệ Tam 1601** (viết tắt là **T.A. 1601**) là năm [thứ 1601 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Tam](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Kỷ Đệ Tam 1601 còn được gọi là **S.R. 1** trong [lịch Shire](../S/Shire-reckoning.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- Được dẫn dắt bởi anh em [Fallohide](../F/Fallohides.md) [Marcho](../M/Marcho.md) và [Blanco](../B/Blanco.md),<sup id="cite_ref-Prologue_1-0" class="reference"><a href="#cite_note-Prologue-1">[1]</a></sup> nhiều [Periannath](../H/Hobbits.md) di cư từ [Bree](../B/Bree.md) và được [Baranduin](../B/Baranduin.md) cấp đất ngoài [Argeleb II](../A/Argeleb_II.md).<sup id="cite_ref-AppB2_2-0" class="reference"><a href="#cite_note-AppB2-2">[2]</a></sup>
+- Được dẫn dắt bởi anh em [Fallohide](../F/Fallohides.md) [Marcho](../M/Marcho.md) và [Blanco](../B/Blanco.md),<sup id="cite_ref-Prologue_1-0" class="reference"><a href="#cite_note-Prologue-1">[1]</a></sup> nhiều [Periannath](../H/Hobbits.md) di cư từ [Bree](../B/Bree.md) và được cấp đất ngoài [Baranduin](../B/Baranduin.md) bởi [Argeleb II](../A/Argeleb_II.md).<sup id="cite_ref-AppB2_2-0" class="reference"><a href="#cite_note-AppB2-2">[2]</a></sup>
 
 <span></span>
 

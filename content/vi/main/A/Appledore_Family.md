@@ -22,11 +22,11 @@ langlinks:
     url: "https://www.tolkiendil.com/encyclo/personnages/hommes/3a/hommes_de_bree/aballon"
 ---
 
-**Gia đình Appledore** là một gia đình [Big Folk](../B/Big_Folk.md) sống ở [Bree](../B/Bree.md). Chỉ có một thành viên trong gia đình được biết đến, [Rowlie Appledore](../R/Rowlie_Appledore.md), người đã thiệt mạng trong trận chiến tại [Bree](../B/Bree.md) trong [War of the Ring](../W/War_of_the_Ring.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Gia đình Appledore** là một gia đình [Big Folk](../B/Big_Folk.md) sống ở [Bree](../B/Bree.md). Chỉ có một thành viên trong gia đình được biết đến, [Rowlie Appledore](../R/Rowlie_Appledore.md), người đã thiệt mạng trong trận chiến tại [Bree](../B/Bree.md) trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Appledore là một từ cổ có nghĩa là "[cây táo](Apples.md)" và tồn tại trong các địa danh bằng tiếng Anh. Nó đại diện cho một từ phương ngữ hoặc từ cổ có cùng nghĩa ở [Westron](../W/Westron.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
+Appledore là một từ cổ có nghĩa là "[cây táo](Apples.md)" và tồn tại trong các địa danh bằng tiếng Anh. Nó đại diện cho một từ phương ngữ hoặc từ cổ có cùng nghĩa trong [Westron](../W/Westron.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

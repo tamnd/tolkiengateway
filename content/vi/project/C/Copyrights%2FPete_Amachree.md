@@ -14,7 +14,7 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Amachree, Pete"
 ---
 
-- Pete Amachree đã vui lòng cho phép ông sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Pete_Amachree.md) trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
+- Pete Amachree đã vui lòng cho phép ông sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Pete_Amachree.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Ngày: 5 tháng 1 năm 2012
 - Người dùng đã xin phép qua email: [Người dùng: Mith](https://tolkiengateway.net/wiki/User:Mith)
 - Được xác nhận lại vào ngày 11 tháng 8 năm 2022 bởi [Người dùng:Hyarion](https://tolkiengateway.net/wiki/User:Hyarion)

@@ -25,21 +25,21 @@ images:
   - "Disambig.png"
 ---
 
-**Gelmir** có thể đề cập đến:
+**Gelmir** có thể tham khảo:
 
-## Yêu tinh của thời đại đầu tiên {#Elves_of_the_First_Age}
+## Tiên tộc của Kỷ Đệ Nhất {#Elves_of_the_First_Age}
 
-Hai [Yêu tinh](../E/Elves.md) sống ở [Kỷ nguyên thứ nhất](../F/First_Age.md):
+Hai [Tiên tộc](../E/Elves.md), sống trong thời [Kỷ Đệ Nhất](../F/First_Age.md):
 
-- [Gelmir (con trai của Quế Lâm)](<Gelmir_(son_of_Guilin).md>), con trai của [Quế Lâm](Guilin.md) người đã bị bắt bởi những người hầu của [Morgoth](../M/Morgoth.md) trong [Dagor Bragollach](../D/Dagor_Bragollach.md).
-- [Gelmir (sứ giả của Círdan)](<Gelmir_(messenger_of_Círdan).md>), một [Noldorin](../N/Noldor.md) [Yêu tinh](../E/Elves.md) được [Círdan](../C/Círdan.md) cử đến làm sứ giả cho [Nargothrond](../N/Nargothrond.md).
+- [Gelmir (con trai Quế Lâm)](<Gelmir_(son_of_Guilin).md>), con trai [Quế Lâm](Guilin.md) bị người hầu của [Morgoth](../M/Morgoth.md) bắt tại [Dagor Bragollach](../D/Dagor_Bragollach.md).
+- [Gelmir (người đưa tin của Círdan)](<Gelmir_(messenger_of_Círdan).md>), một [Noldorin](../N/Noldor.md) [Tiên](../E/Elves.md) được gửi bởi [Círdan](../C/Círdan.md) với tư cách là người đưa tin tới [Nargothrond](../N/Nargothrond.md).
 
 ## Các bài viết trước đó {#Earlier_writings}
 
 Các nhân vật khác được đặt tên *Gelmir* trong các bài viết trước đó:
 
-- [Finwë](../F/Finwë.md), cha của [Fingolfin](../F/Fingolfin.md), người được đặt tên là *Gelmir* trong *[The Lay of the Fall of Gondolin](../T/The_Lay_of_the_Fall_of_Gondolin.md)* và trong một trong những [Những đoạn văn xuôi tiếp nối những câu chuyện đã mất](../P/Prose_Fragments_Following_the_Lost_Tales.md).
-- [Gelmir (con trai của Golfinweg)](<Gelmir_(son_of_Golfinweg).md>), vua của [Gnomes](Gnomes.md) trong <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Index_of_Names_for_The_Lay_of_the_Children_of_H%C3%BArin&amp;action=edit&amp;redlink=1" title="Index of Names for The Lay of the Children of Húrin (page does not exist)">Danh mục tên dành cho những đứa trẻ của Húrin</a></i>.
+- [Finwë](../F/Finwë.md), cha của [Fingolfin](../F/Fingolfin.md), người được đặt tên là *Gelmir* trong *[The Lay of the Fall of Gondolin](../T/The_Lay_of_the_Fall_of_Gondolin.md)* và trong một trong những [Đoạn văn xuôi nối tiếp Lost Tales](../P/Prose_Fragments_Following_the_Lost_Tales.md).
+- [Gelmir (con trai của Golfinweg)](<Gelmir_(son_of_Golfinweg).md>), vị vua của [Gnomes](Gnomes.md) trong <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Index_of_Names_for_The_Lay_of_the_Children_of_H%C3%BArin&amp;action=edit&amp;redlink=1" title="Index of Names for The Lay of the Children of Húrin (page does not exist)">Danh mục tên cho The Lay of the Children of Húrin</a></i>.
 
 <hr style="margin-top:15px;"/>
 

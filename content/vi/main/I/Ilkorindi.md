@@ -25,7 +25,7 @@ images:
 <p class="tg-quote-footer"><cite><a href="../G/Glóin.md" title="Glóin">Glóin</a></cite></p>
 </blockquote></div></div>
 
-**Ilkorindi** (cũng là **Ilkorins**) là một chủng tộc Yêu tinh theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*. Nó được áp dụng cho những [Yêu tinh](../E/Elves.md) "không phải của [Kôr](../K/Kôr.md)" (cf. *[Úmanyar](../_/Úmanyar.md)* "không phải của [Aman](../A/Aman.md)") và nó dùng để chỉ những [Yêu tinh](../E/Elves.md) ở lại [Great Lands](../G/Great_Lands.md). Ngôn ngữ của họ là [Ilkorin](Ilkorin.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Trong các phiên bản sau của truyền thuyết, Ilkorindi dường như đã trở thành [Umanyar](../U/Umanyar.md), cụ thể là [Avari](../A/Avari.md), [Nandor](../N/Nandor.md) và [Sindar](../S/Sindar.md) Yêu tinh được mô tả trong Silmarillion sau này.
+**Ilkorindi** (cũng là **Ilkorins**) là một chủng tộc Tiên theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) ở *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*. Nó được áp dụng cho những [Tiên tộc](../E/Elves.md) những người "không thuộc [Kôr](../K/Kôr.md)" (cf. *[Úmanyar](../_/Úmanyar.md)* "không thuộc [Aman](../A/Aman.md)") và nó ám chỉ những [Tiên tộc](../E/Elves.md) đã ở lại [Great Lands](../G/Great_Lands.md). Ngôn ngữ của họ là [Ilkorin](Ilkorin.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Trong các phiên bản sau của truyền thuyết, Ilkorindi dường như đã trở thành [Umanyar](../U/Umanyar.md), cụ thể là [Avari](../A/Avari.md), [Nandor](../N/Nandor.md) và [Sindar](../S/Sindar.md) Tiên tộc được mô tả trong Silmarillion sau.
 
 <span></span>
 

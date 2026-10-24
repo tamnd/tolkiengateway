@@ -37,7 +37,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tolkien_Studies_-_Volume_10.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/1/12/Tolkien_Studies_-_Volume_10.jpg/320px-Tolkien_Studies_-_Volume_10.jpg" decoding="async" loading="lazy" width="320" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/12/Tolkien_Studies_-_Volume_10.jpg/480px-Tolkien_Studies_-_Volume_10.jpg 1.5x, https://tolkiengateway.net/w/images/1/12/Tolkien_Studies_-_Volume_10.jpg 2x" data-file-width="500" data-file-height="750"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Tolkien Studies: Volume 10</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../D/David_Bratman.md" title="David Bratman">David Bratman</a>, <a href="../M/Michael_D.C._Drout.md" title="Michael D.C. Drout">Michael D.C. Drout</a>, <a href="../V/Verlyn_Flieger.md" title="Verlyn Flieger">Verlyn Flieger</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">West Virginia University Press</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">July, <a href="../_/2013.md" title="2013">2013</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Hardcover; electronic</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">311</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">1547-3155</td></tr></tbody></table>
 
-<b><i>Nghiên cứu Tolkien</i>: Tập 10</b>, xuất bản trong [2013](../_/2013.md), là tập thứ mười của tạp chí đánh giá hàng năm *[Tolkien Studies](<Tolkien_Studies_(journal).md>)*.
+<b><i>Tolkien Nghiên cứu</i>: Tập 10</b>, xuất bản trong [2013](../_/2013.md), là tập thứ mười của tổng kết hàng năm *[Tolkien Studies](<Tolkien_Studies_(journal).md>)*.
 
 Số này in lại bài thơ "[Ngày xửa ngày xưa](../O/Once_upon_a_Time.md) của J.R.R. Tolkien, đăng lần đầu trên tạp chí [1969](../_/1969.md). Sau đó nó được đưa vào phiên bản *[The Adventures of Tom Bombadil](The_Adventures_of_Tom_Bombadil.md)* [2014](../_/2014.md).
 
@@ -46,33 +46,33 @@ Số này in lại bài thơ "[Ngày xửa ngày xưa](../O/Once_upon_a_Time.md)
 ## Nội dung {#Contents}
 
 - Bài viết
-    - Claudio A. Testi, "Tác phẩm của Tolkien: Thiên chúa giáo hay ngoại giáo?: Đề xuất về một cách tiếp cận 'tổng hợp'"
+    - Claudio A. Testi, "Tác phẩm củaTolkien: Thiên chúa giáo hay ngoại giáo?: Đề xuất về một cách tiếp cận 'tổng hợp'"
     - [Nils Ivar Agøy](../N/Nils_Ivar_Agøy.md), "Mơ hồ hay sống động?: Mô tả bằng *The Lord of the Rings*"
     - Hope Rogers, "Không có chiến thắng mà không mất mát: Các vấn đề về hôn nhân liên văn hóa trong tác phẩm của Tolkien"
     - [Thomas Honegger](Thomas_M._Honegger.md), "Câu đố quý giá nhất của tôi: Xem lại những quả trứng và những chiếc nhẫn"
-    - Michael Organ, " *Japonisme* của Tolkien: Tranh in, Rồng và làn sóng lớn"
-    - [Renée Vink](../R/Renée_Vink.md), "Người lùn 'Do Thái': Tolkien và khuôn mẫu bài Do Thái"
+    - Michael Organ, " *Japonisme* củaTolkien: Bản in, Rồng và một làn sóng lớn"
+    - [Renée Vink](../R/Renée_Vink.md), "'Do Thái' Người Lùn: Tolkien và định kiến bài Do Thái"
     - Derek Shank, "'Mạng lưới truyện': Chủ nghĩa cấu trúc trong '[Về truyện cổ tích](../O/On_Fairy-stories~23735.md)' của Tolkien"
     - Benjamin Saxton, "Tolkien và Bakhtin về quyền tác giả, tự do văn học và sự thay đổi"
 
 - Ghi chú và tài liệu
-    - Kris Swank, "Bài hát cuối cùng của Tom Bombadil: '[Ngày xửa ngày xưa](../O/Once_upon_a_Time.md)' của Tolkien"
+    - Kris Swank, "Bài hát cuối cùng củaTom Bombadil: '[Ngày xửa ngày xưa](../O/Once_upon_a_Time.md)' của Tolkien"
 
 - Đánh giá sách
     - *An Hobad*, do Nicholas Williams dịch và *Hobbitus Ille*, do Mark Walker dịch, được Harley J. Sims đánh giá
-    - *The Quenya Alphabet* (*[Parma Eldalamberon 20](../P/Parma_Eldalamberon_20.md)*), bởi J.R.R. Tolkien, được chỉnh sửa bởi [Arden R. Smith](../A/Arden_R._Smith.md), được xem xét bởi Edith L. Crowe
-    - *[The Art of The Hobbit](The_Art_of_The_Hobbit.md) của J.R.R. Tolkien*, của [Wayne G. Hammond](../W/Wayne_G._Hammond.md) và [Christina Scull](../C/Christina_Scull.md), được đánh giá bởi Sarah Beach
+    - *The Quenya Alphabet* (*[Parma Eldalamberon 20](../P/Parma_Eldalamberon_20.md)*), bởi J.R.R. Tolkien, chỉnh sửa bởi [Arden R. Smith](../A/Arden_R._Smith.md), được xem xét bởi Edith L. Crowe
+    - *[Nghệ thuật The Hobbit](The_Art_of_The_Hobbit.md) của J.R.R. Tolkien*, của [Wayne G. Hammond](../W/Wayne_G._Hammond.md) và [Christina Scull](../C/Christina_Scull.md), được đánh giá bởi Sarah Beach
     - *[Exploring J.R.R. Tolkien's The Hobbit](../E/Exploring_J.R.R._Tolkien's_The_Hobbit.md)*, bởi [Corey Olsen](../C/Corey_Olsen.md) và *[There and Back Again](There_and_Back_Again%253A_J.R.R._Tolkien_and_the_Origins_of_The_Hobbit.md)*, bởi [Mark Atherton](../M/Mark_Atherton.md), được đánh giá bởi [Jason Fisher](../J/Jason_Fisher.md)
     - *[Green Suns and Faërie](../G/Green_Suns_and_Faërie.md)*, bởi [Verlyn Flieger](../V/Verlyn_Flieger.md), được đánh giá bởi [John D. Rateliff](../J/John_D._Rateliff.md)
-    - *[The Broken Scythe](The_Broken_Scythe.md)*, do Roberto Arduini và Claudio biên tập A. Testi, được xem xét bởi [John Garth](../J/John_Garth.md)
-    - *A Hobbit Journey*, của [Matthew Dickerson](../M/Matthew_Dickerson.md) và *A Hobbit Devotional* của Ed Strauss, được đánh giá bởi Donald T. Williams
+    - *[The Broken Scythe](The_Broken_Scythe.md)*, được chỉnh sửa bởi Roberto Arduini và Claudio A. Testi, được đánh giá bởi [John Garth](../J/John_Garth.md)
+    - *A Hobbit Journey*, bởi [Matthew Dickerson](../M/Matthew_Dickerson.md) và *A Hobbit Devotional*, bởi Ed Strauss, được đánh giá bởi Donald T. Williams
 
-- Merlin DeTardo, "Công trình của năm về nghiên cứu Tolkien 2010"
+- Merlin DeTardo, "Công việc của năm trong nghiên cứu Tolkien năm 2010"
 - Rebecca Epstein, David Bratman, và Merlin DeTardo, "Thư mục (bằng tiếng Anh) năm 2011"
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="https://muse.jhu.edu/issue/28016" rel="noreferrer noopener" target="_blank"><i>Nghiên cứu về Tolkien</i>: Tập 10</a> tại Project Muse
+- <a class="external text" href="https://muse.jhu.edu/issue/28016" rel="noreferrer noopener" target="_blank"><i>Tolkien Nghiên cứu</i>: Tập 10</a> tại Project Muse
 
 <br clear="all"/>
 

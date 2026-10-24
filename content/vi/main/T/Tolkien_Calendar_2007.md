@@ -40,7 +40,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tolkien_Calendar_2007.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/8/86/Tolkien_Calendar_2007.jpg/320px-Tolkien_Calendar_2007.jpg" decoding="async" loading="lazy" width="320" height="321" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/86/Tolkien_Calendar_2007.jpg/480px-Tolkien_Calendar_2007.jpg 1.5x, https://tolkiengateway.net/w/images/8/86/Tolkien_Calendar_2007.jpg 2x" data-file-width="499" data-file-height="500"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Tolkien Calendar 2007</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="../A/Alan_Lee.md" title="Alan Lee">Alan Lee</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../H/HarperCollins.md" title="HarperCollins">HarperCollins</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/19_June.md" title="19 June">19 June</a> <a href="../_/2006.md" title="2006">2006</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Calendar</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">32</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0007225636" title="Special:BookSources/0007225636">0007225636</a> (UK)<br/><a href="https://tolkiengateway.net/wiki/Special:BookSources/0-06-112598-0" title="Special:BookSources/0-06-112598-0">0-06-112598-0</a> (US)</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Tolkien_Calendar_2006.md" title="Tolkien Calendar 2006">Tolkien Calendar 2006</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Tolkien_Calendar_2008.md" title="Tolkien Calendar 2008">Tolkien Calendar 2008</a></td></tr></tbody></table>
 
-<i><b>Lịch Tolkien 2007</b></i> là lịch Tolkien chính thức được xuất bản bởi [HarperCollins](../H/HarperCollins.md) vào [19 tháng 6](../_/19_June.md) [2006](../_/2006.md). Nó có tác phẩm nghệ thuật của [Alan Lee](../A/Alan_Lee.md) dựa trên *[The Lord of the Rings](The_Lord_of_the_Rings.md)*.
+Lịch <i><b>Tolkien 2007</b></i> là lịch Tolkien chính thức được xuất bản bởi [HarperCollins](../H/HarperCollins.md) vào [19 tháng 6](../_/19_June.md) [2006](../_/2006.md). Nó có tác phẩm nghệ thuật của [Alan Lee](../A/Alan_Lee.md) dựa trên *[The Lord of the Rings](The_Lord_of_the_Rings.md)*.
 
 ## Từ nhà xuất bản {#From_the_publisher}
 
@@ -51,19 +51,19 @@ infobox:
 
 ## Minh họa {#Illustrations}
 
-- Bìa - "[Mũ bảo hiểm sâu](../../file/A/Alan_Lee_-_Gandalf_escapes_on_Gwaihir.jpg.md)"
+- Bìa - "[Helm's Deep](../../file/A/Alan_Lee_-_Gandalf_escapes_on_Gwaihir.jpg.md)"
 - Tháng 1 - "[Frodo và Gandalf](../../file/A/Alan_Lee_-_The_Shadow_of_the_Past.jpg.md)"
 - Tháng 2 - "[The Withywidle](../../file/A/Alan_Lee_-_Old_Man_Willow.jpg.md)"
-- Tháng 3 - "[Thời tiết](../../file/A/Alan_Lee_-_Weathertop.jpg.md)"
+- Tháng 3 - "[Weathertop](../../file/A/Alan_Lee_-_Weathertop.jpg.md)"
 - Tháng 4 - "[Rivendell](../../file/A/Alan_Lee_-_Rivendell_2.jpg.md)"
 - Tháng 5 - "[Cánh cửa Durin](../../file/A/Alan_Lee_-_The_West-gate_of_Moria.jpg.md)"
 - Tháng 6 - "[Orthanc](../../file/A/Alan_Lee_-_The_Voice_of_Saruman.jpg.md)"
-- Tháng 7 - "[Râu cây](../../file/A/Alan_Lee_-_Treebeard_2.jpg.md)"
+- Tháng 7 - "[Treebeard](../../file/A/Alan_Lee_-_Treebeard_2.jpg.md)"
 - Tháng 8 - "[Edoras](../../file/A/Alan_Lee_-_Edoras_2.jpg.md)"
-- Tháng 9 - "[Chúa tể của Nazgûl](../../file/A/Alan_Lee_-_Nazgûl.jpg.md)"
-- Tháng 10 - "[Trận chiến trên cánh đồng Pelennor](../../file/A/Alan_Lee_-_The_Battle_of_the_Pelennor_Fields.jpg.md)"
-- Tháng 11 - "[Núi Doom](../../file/A/Alan_Lee_-_Mount_Doom_2.jpg.md)"
-- Tháng 12 - "[Những thiên đường xám](../../file/A/Alan_Lee_-_Grey_Havens.jpg.md)"
+- tháng Chín - "[Chúa tể của Nazgûl](../../file/A/Alan_Lee_-_Nazgûl.jpg.md)"
+- Tháng 10 - "[Ngày Trận chiến trên Cánh đồng Pelennor](../../file/A/Alan_Lee_-_The_Battle_of_the_Pelennor_Fields.jpg.md)"
+- Tháng 11 - "[Núi Diệt Vong](../../file/A/Alan_Lee_-_Mount_Doom_2.jpg.md)"
+- Tháng 12 - "[Ngày Cảng Xám](../../file/A/Alan_Lee_-_Grey_Havens.jpg.md)"
 
 ## Biến thể {#Variants}
 
@@ -83,8 +83,8 @@ infobox:
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://www.tolkienbooks.net/php/caldetails.php?reference=94390" rel="noreferrer noopener" target="_blank">Tolkien - Chúa tể của những chiếc nhẫn 2007</a> tại <a class="external text" href="http://www.tolkienbooks.net" rel="noreferrer noopener" target="_blank">TolkienBooks.net</a>
-- <a class="external text" href="http://tolkiencalendars.com/2007.html" rel="noreferrer noopener" target="_blank">Lịch Tolkien 2007</a> tại <a class="external text" href="http://tolkiencalendars.com/" rel="noreferrer noopener" target="_blank">The Compleat Gyde to Tolkien Calendars</a>
+- <a class="external text" href="http://www.tolkienbooks.net/php/caldetails.php?reference=94390" rel="noreferrer noopener" target="_blank">Tolkien - The Lord of the Rings 2007</a> tại <a class="external text" href="http://www.tolkienbooks.net" rel="noreferrer noopener" target="_blank">TolkienBooks.net</a>
+- <a class="external text" href="http://tolkiencalendars.com/2007.html" rel="noreferrer noopener" target="_blank">Tolkien Lịch 2007</a> tại <a class="external text" href="http://tolkiencalendars.com/" rel="noreferrer noopener" target="_blank">The Compleat Gyde tới Tolkien Lịch</a>
 
 <table style="margin:0 auto;" class="collapsible toccolours" width="100%" align="center">
 <tbody><tr>

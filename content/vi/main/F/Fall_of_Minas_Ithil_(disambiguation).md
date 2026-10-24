@@ -14,7 +14,7 @@ images:
   - "Disambig.png"
 ---
 
-**Sự sụp đổ của Minas Ithil** có thể đề cập đến:
+**Sự sụp đổ của Minas Ithil** có thể ám chỉ đến:
 
 - [Sự sụp đổ đầu tiên của Minas Ithil](First_Fall_of_Minas_Ithil.md), xảy ra vào [S.A.](../S/Second_Age.md) [3429](../S/Second_Age_3429.md).
 - [Sự sụp đổ thứ hai của Minas Ithil](../S/Second_Fall_of_Minas_Ithil.md), xảy ra vào [T.A.](../T/Third_Age.md) [2002](../T/Third_Age_2002.md).

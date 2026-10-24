@@ -21,17 +21,17 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_White_Company.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/9a/The_Lord_of_the_Rings_Online_-_White_Company.jpg/300px-The_Lord_of_the_Rings_Online_-_White_Company.jpg" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/9a/The_Lord_of_the_Rings_Online_-_White_Company.jpg/450px-The_Lord_of_the_Rings_Online_-_White_Company.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/9/9a/The_Lord_of_the_Rings_Online_-_White_Company.jpg/600px-The_Lord_of_the_Rings_Online_-_White_Company.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>White Company Rangers in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-**Đại đội Trắng** là người bảo vệ [Các hoàng tử của Ithilien](../P/Prince_of_Ithilien.md) trong [Thời đại thứ tư](../F/Fourth_Age.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Đại đội Trắng** là người bảo vệ [Các hoàng tử của Ithilien](../P/Prince_of_Ithilien.md) trong [Kỷ Đệ Tứ](../F/Fourth_Age.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Lịch sử {#History}
 
-Công ty được thành lập bởi Vua [Elessar](../A/Aragorn.md) vào [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md) để giải quyết vụ án phức tạp của [Beregond](../B/Beregond.md), vì ông đã từ bỏ chức vụ của mình và đổ máu nhưng vẫn cứu được [Faramir](../F/Faramir.md) khỏi [cái chết sớm](../T/The_Pyre_of_Denethor.md) khi làm như vậy. Elessar trục xuất Beregond khỏi [Minas Tirith](../M/Minas_Tirith.md), nhưng bổ nhiệm ông làm **Đội trưởng Đội cận vệ** đầu tiên của Hoàng tử Faramir<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> cư trú trong những ngọn đồi của [Emyn Arnen](../E/Emyn_Arnen.md) trước mặt Minas Tirith.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Công ty được thành lập bởi Vua [Elessar](../A/Aragorn.md) vào [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md) để giải quyết vụ án phức tạp của [Beregond](../B/Beregond.md), vì ông ta đã bỏ chức vụ và đổ máu nhưng đã cứu [Faramir](../F/Faramir.md) khỏi [cái chết sớm](../T/The_Pyre_of_Denethor.md) khi làm như vậy. Elessar đày Beregond khỏi [Minas Tirith](../M/Minas_Tirith.md), nhưng bổ nhiệm ông ta làm **Đội trưởng đội cận vệ** đầu tiên của Thân vương Faramir<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> cư trú trong những ngọn đồi của [Emyn Arnen](../E/Emyn_Arnen.md) trước mắt Minas Tirith.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Vào đầu [Kỷ nguyên thứ tư](../F/Fourth_Age.md), [Borlas](../B/Borlas.md) và hai người hầu cũ lui về [Pen-arduin](../P/Pen-arduin.md) từ **người bảo vệ của Hoàng tử**.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Vào thời kỳ đầu [Kỷ Đệ Tứ](../F/Fourth_Age.md), [Borlas](../B/Borlas.md) và hai người hầu cũ đã nghỉ hưu ở [Pen-arduin](../P/Pen-arduin.md) từ đội bảo vệ của **Thân vương**.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2019: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến: Minas Morgul</a></i>:</b>
+<b>2019: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến: Minas Morgul</a></i>:</b>
 
 <dl><dd>After King Elessar charges Steward <a href="../F/Faramir.md" title="Faramir">Faramir</a> with cleansing the evil of <a href="../M/Minas_Morgul.md" title="Minas Morgul">Minas Morgul</a>, Faramir leads the White Company into the <a href="../M/Morgul_Vale.md" title="Morgul Vale">Morgul Vale</a>, where they and the <a href="../R/Rangers_of_Ithilien.md" title="Rangers of Ithilien">Rangers of Ithilien</a> establish several camps outside the Dead City.</dd></dl>
 

@@ -39,21 +39,21 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Hobbit_Calendar_1976.jpg.md"><img src="https://tolkiengateway.net/w/images/a/a6/The_Hobbit_Calendar_1976.jpg" decoding="async" loading="lazy" width="271" height="350" class="mw-file-element" data-file-width="271" data-file-height="350"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Hobbit Calendar 1976</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a class="mw-redirect" href="../G/George_Allen_and_Unwin.md" title="George Allen and Unwin">George Allen &amp; Unwin</a> (UK)</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/1975.md" title="1975">1975</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Wire-bound calendar with mailer (13<sup>7</sup>⁄<sub>8</sub> x 15<sup>1</sup>⁄<sub>2</sub> inches)</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0-04-549002-4" title="Special:BookSources/0-04-549002-4">0-04-549002-4</a></td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data">None. Last calendar:<br/><a href="The_J.R.R._Tolkien_Calendar_1974_(UK).md" title="The J.R.R. Tolkien Calendar 1974 (UK)">The J.R.R. Tolkien Calendar 1974</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="The_Lord_of_the_Rings_1977_Calendar.md" title="The Lord of the Rings 1977 Calendar">The Lord of the Rings 1977 Calendar</a></td></tr></tbody></table>
 
-<i><b>Lịch Hobbit 1976</b></i> là lịch Tolkien chính thức được xuất bản bởi [George Allen & Unwin](../G/George_Allen_and_Unwin.md) vào [1975](../_/1975.md). Nó có tác phẩm nghệ thuật của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) dựa trên *[The Hobbit](The_Hobbit.md)*.
+<i><b>The Hobbit Lịch 1976</b></i> là lịch Tolkien chính thức được xuất bản bởi [George Allen &amp; Unwin](../G/George_Allen_and_Unwin.md) vào [1975](../_/1975.md). Nó có tác phẩm nghệ thuật của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) dựa trên *[The Hobbit](The_Hobbit.md)*.
 
 ## Nội dung {#Contents}
 
 - Bìa - [Từ bìa của ấn bản gốc](../../file/J/J.R.R._Tolkien_-_The_Hobbit_Dustcover.png.md) \[của *[The Hobbit](The_Hobbit.md)*\]
-- Tháng 1 - "[Sảnh của Beorn](<../../file/J/J.R.R._Tolkien_-_Beorn's_Hall_(Colored_by_H._E._Riddett).jpg.md>)" <sup id="cite_ref-Rid_1-0" class="reference"><a href="#cite_note-Rid-1">[note 1]</a></sup>
-- Tháng 2 - "[Quỷ khổng lồ](<../../file/J/J.R.R._Tolkien_-_The_Trolls_(Colored_by_H.E._Riddett).jpg.md>)" <sup id="cite_ref-Rid_1-1" class="reference"><a href="#cite_note-Rid-1">[note 1]</a></sup>
-- Tháng 3 - "[Dãy núi mù sương](<../../file/J/J.R.R._Tolkien_-_The_Misty_Mountains_looking_West_from_the_Eyrie_towards_Goblin_Gate_(Colored_by_H.E._Riddett).jpg.md>)" <sup id="cite_ref-Rid_1-2" class="reference"><a href="#cite_note-Rid-1">[note 1]</a></sup>
+- Tháng 1 - "[Beorn Hội trường](<../../file/J/J.R.R._Tolkien_-_Beorn's_Hall_(Colored_by_H._E._Riddett).jpg.md>)" <sup id="cite_ref-Rid_1-0" class="reference"><a href="#cite_note-Rid-1">[note 1]</a></sup>
+- Tháng 2 - "[Ngày Troll](<../../file/J/J.R.R._Tolkien_-_The_Trolls_(Colored_by_H.E._Riddett).jpg.md>)" <sup id="cite_ref-Rid_1-1" class="reference"><a href="#cite_note-Rid-1">[note 1]</a></sup>
+- Tháng 3 - "[ Dãy Núi Sương Mù](<../../file/J/J.R.R._Tolkien_-_The_Misty_Mountains_looking_West_from_the_Eyrie_towards_Goblin_Gate_(Colored_by_H.E._Riddett).jpg.md>)" <sup id="cite_ref-Rid_1-2" class="reference"><a href="#cite_note-Rid-1">[note 1]</a></sup>
 - Tháng 4 - "[The Hill: Hobbiton-across-the Water](<../../file/J/J.R.R._Tolkien_-_The_Hill_-_Hobbiton-across-the-Water_(Colored).jpg.md>)"
 - Tháng 5 - "[Rivendell](../../file/J/J.R.R._Tolkien_-_Rivendell.jpg.md)"
-- Tháng 6 - "[Bilbo đến Túp lều của Yêu tinh bè](<../../file/J/J.R.R._Tolkien_-_Bilbo_comes_to_the_Huts_of_the_Raft-elves_(II).jpg.md>)"
-- Tháng 7 - "[Cổng của Vua Yêu Tinh](<../../file/J/J.R.R._Tolkien_-_The_Elvenking's_Gate_(II)_(Colored_by_H._E._Riddett).jpg.md>)" <sup id="cite_ref-Rid_1-3" class="reference"><a href="#cite_note-Rid-1">[note 1]</a></sup>
+- Tháng 6 - "[Bilbo đến Lều Bè-Tiên tộc](<../../file/J/J.R.R._Tolkien_-_Bilbo_comes_to_the_Huts_of_the_Raft-elves_(II).jpg.md>)"
+- Tháng 7 - "[Cổng Vua Tiên](<../../file/J/J.R.R._Tolkien_-_The_Elvenking's_Gate_(II)_(Colored_by_H._E._Riddett).jpg.md>)" <sup id="cite_ref-Rid_1-3" class="reference"><a href="#cite_note-Rid-1">[note 1]</a></sup>
 - Tháng 8 - "[Thị trấn hồ](<../../file/J/J.R.R._Tolkien_-_Lake_Town_(Colored_by_H._E._Riddett).jpg.md>)" <sup id="cite_ref-Rid_1-4" class="reference"><a href="#cite_note-Rid-1">[note 1]</a></sup>
-- Tháng 9 - "[Bilbo thức dậy với ánh nắng sớm chiếu vào mắt](../../file/J/J.R.R._Tolkien_-_Bilbo_woke_with_the_early_sun_in_his_eyes.jpg.md)"
-- Tháng 10 - "[Cổng trước](<../../file/J/J.R.R._Tolkien_-_The_Front_Gate_(Colored_by_H.E._Riddett).png.md>)" <sup id="cite_ref-Rid_1-5" class="reference"><a href="#cite_note-Rid-1">[note 1]</a></sup>
+- tháng Chín - "[Bilbo thức dậy với ánh nắng sớm chiếu vào mắt](../../file/J/J.R.R._Tolkien_-_Bilbo_woke_with_the_early_sun_in_his_eyes.jpg.md)"
+- Tháng 10 - "[Ngày Cổng Trước](<../../file/J/J.R.R._Tolkien_-_The_Front_Gate_(Colored_by_H.E._Riddett).png.md>)" <sup id="cite_ref-Rid_1-5" class="reference"><a href="#cite_note-Rid-1">[note 1]</a></sup>
 - Tháng 11 - "[Con đường lên núi](<../../file/J/J.R.R._Tolkien_-_The_Mountain-path_(Colored_by_H.E._Riddett).png.md>)" <sup id="cite_ref-Rid_1-6" class="reference"><a href="#cite_note-Rid-1">[note 1]</a></sup>
 - Tháng 12 - "[Cuộc trò chuyện với Smaug](<../../file/J/J.R.R._Tolkien_-_Conversation_with_Smaug_(large).jpg.md>)"
 
@@ -90,8 +90,8 @@ infobox:
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://www.tolkienbooks.net/php/caldetails.php?reference=94110" rel="noreferrer noopener" target="_blank">Lịch Hobbit 1976</a> tại <a class="external text" href="http://www.tolkienbooks.net" rel="noreferrer noopener" target="_blank">TolkienBooks.net</a>
-- <a class="external text" href="http://tolkiencalendars.com/1969_1977.html" rel="noreferrer noopener" target="_blank">Lịch Tolkien 1969 - 1977</a> tại <a class="external text" href="http://tolkiencalendars.com/" rel="noreferrer noopener" target="_blank">The Compleat Gyde to Tolkien Calendars</a>
+- <a class="external text" href="http://www.tolkienbooks.net/php/caldetails.php?reference=94110" rel="noreferrer noopener" target="_blank">The Hobbit Lịch 1976</a> tại <a class="external text" href="http://www.tolkienbooks.net" rel="noreferrer noopener" target="_blank">TolkienBooks.net</a>
+- <a class="external text" href="http://tolkiencalendars.com/1969_1977.html" rel="noreferrer noopener" target="_blank">Tolkien Lịch 1969 - 1977</a> tại <a class="external text" href="http://tolkiencalendars.com/" rel="noreferrer noopener" target="_blank">The Compleat Gyde đến Tolkien Lịch</a>
 
 <table style="margin:0 auto;" class="collapsible toccolours" width="100%" align="center">
 <tbody><tr>

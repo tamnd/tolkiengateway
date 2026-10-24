@@ -14,13 +14,13 @@ categories:
   - "Quenya locations"
 ---
 
-**Sorontil** là ngọn núi [Númenor](../N/Númenor.md) (thực ra là ngọn núi duy nhất được biết đến bên cạnh [Meneltarma](../M/Meneltarma.md)) nằm gần [Mũi Bắc](../N/North_Cape.md) [Forostar](../F/Forostar.md) của hòn đảo, với sườn phía đông tạo thành những vách đá dựng đứng trên biển.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Sorontil** là một ngọn núi gồm [Númenor](../N/Númenor.md) (thực ra là ngọn núi duy nhất được biết đến bên cạnh [Meneltarma](../M/Meneltarma.md)) đứng gần [Mũi Bắc](../N/North_Cape.md) [Forostar](../F/Forostar.md) của hòn đảo, với sườn phía đông của nó tạo thành những vách đá dựng đứng trên biển.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 [Tar-Meneldur](../T/Tar-Meneldur.md) đã xây dựng một tòa tháp cao ở vùng lân cận ngọn núi này.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Sorontil không được dịch trong các nguồn, nhưng phân tích rõ ràng sẽ là *[soron](Soron.md)* + *-[til](../T/Til.md)*, do đó có nghĩa là "Đỉnh đại bàng". Bản dịch gợi ý rằng những đỉnh núi hiểm trở của nó có thể là nơi sinh sống của [Đại bàng](../E/Eagles.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Sorontil không được dịch trong các nguồn, nhưng phân tích rõ ràng sẽ là *[soron](Soron.md)* + *-[til](../T/Til.md)*, do đó có nghĩa là "Đỉnh đại bàng". Bản dịch gợi ý rằng các đỉnh núi hiểm trở của nó có thể có [Đại Bàng](../E/Eagles.md) cư trú.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

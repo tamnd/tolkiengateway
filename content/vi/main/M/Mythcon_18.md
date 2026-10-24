@@ -32,8 +32,8 @@ infobox:
 
 **Mythcon 18** là hội nghị [Hiệp hội thần thoại](Mythopoeic_Society.md) thường niên lần thứ mười tám.
 
-- **Chủ đề:** "Nhìn lại từ đỉnh thời tiết: Hồi tưởng 50 năm về [The Hobbit](../T/The_Hobbit.md)"
-- **Khách mời danh dự:** [Christopher Tolkien](../C/Christopher_Tolkien.md) (học giả và người thực thi Tolkien) và John Bellairs (tác giả truyện giả tưởng)
+- **Chủ đề:** "Nhìn lại Weathertop: Hồi tưởng 50 năm về [The Hobbit](../T/The_Hobbit.md)"
+- **Khách mời danh dự:** [Christopher Tolkien](../C/Christopher_Tolkien.md) (Tolkien học giả và người thực thi) và John Bellairs (tác giả truyện giả tưởng)
 - **Chủ tịch:** Gregory G.H. Rihn
 
 ## Liên kết ngoài {#External_links}

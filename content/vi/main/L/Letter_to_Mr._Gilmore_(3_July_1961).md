@@ -14,7 +14,7 @@ sort_keys:
   "Letters": "Gilmore"
 ---
 
-Vào [3 tháng 7](../_/3_July.md) [1961](../_/1961.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) gửi ông Gilmore**. Bức thư dài một trang được đánh máy và ký tên, trong đó Tolkien giải thích lý do tại sao không thể có [phần tiếp theo](../T/The_New_Shadow.md) cho *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, đã được đưa ra bán đấu giá vào đầu năm 2019 tại Bonhams.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
+Vào [3 tháng 7](../_/3_July.md) [1961](../_/1961.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho ông Gilmore**. Bức thư dài một trang được đánh máy và ký tên, trong đó Tolkien giải thích lý do tại sao không thể [phần tiếp theo](../T/The_New_Shadow.md) của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, đã được đưa ra bán đấu giá vào đầu năm 2019 tại Bonhams.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

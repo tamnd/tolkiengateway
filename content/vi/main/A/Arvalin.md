@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Avathar"
 ---
 
-Chuyển hướng tới [Avathar](Avathar.md).
+Chuyển hướng đến [Avathar](Avathar.md).

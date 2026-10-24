@@ -38,13 +38,13 @@ infobox:
 
 ## Từ tác giả {#From_the_author}
 
-Trong nghiên cứu này, nhân vật thú vị nhất của Tolkien (Gollum/Sméagol) được so sánh với thần thoại golem của người Do Thái và Frankenstein của Mary Shelley. Được xuất bản dưới dạng một cuốn sách thu nhỏ phiên bản giới hạn. Kích thước chỉ 62 x 43,5 mm/2x1,5", đóng bìa vải đỏ, có mặt trước (chân dung Gollum) của nghệ sĩ người Mỹ Gonzai. Số lượng giới hạn 200 bản.
+Trong nghiên cứu này, nhân vật thú vị nhất của Tolkien(Gollum/Sméagol) được so sánh với huyền thoại golem của người Do Thái và Frankenstein của Mary Shelley. Được xuất bản dưới dạng một cuốn sách thu nhỏ phiên bản giới hạn. Kích thước chỉ 62 x 43,5 mm/2x1,5", đóng bìa vải đỏ, có mặt trước (chân dung Gollum) của nghệ sĩ người Mỹ Gonzai. Số lượng giới hạn 200 bản.
 
 ## Từ nhà xuất bản {#From_the_publisher}
 
-Gollum của Tolkien có dựa trên Golem của người Do Thái không? Đó là câu hỏi mà chuyên gia Tolkien René van Rossenberg cố gắng trả lời. \[...\]
+Gollum của Tolkien có dựa trên Golem của người Do Thái không? Đó là câu hỏi Tolkien-chuyên gia René van Rossenberg cố gắng trả lời. \[...\]
 
-Mặt trước - bức tranh của Gollum - là của nghệ sĩ người Mỹ Gonzai (Meredith Martini).
+Mặt trước - hình ảnh Gollum - là của nghệ sĩ người Mỹ Gonzai (Meredith Martini).
 
 Tấm vải đỏ có tấm chắn bằng giấy. Được in bởi Jan de Jong. Bị ràng buộc bởi Trijnie Duut. văn bản tiếng Anh.
 

@@ -41,17 +41,17 @@ infobox:
 
 ## Lịch sử {#History}
 
-Sau nhiều chuyến hành trình và tìm kiếm [Đảo của Yêu tinh](../T/Tol_Eressëa.md), Ælfheah là người đã khuyên Ælfwine nên chấm dứt hành trình tìm kiếm và trở về nhà của mình; tuy nhiên, ngay sau khi họ phát hiện ra ánh sáng đến từ phía Tây ở [Tol Eressëa](../T/Tol_Eressëa.md) - nhưng một cơn gió tây mạnh đã đẩy họ lùi về phía đông, ngoại trừ Ælfwine đã nhảy ra khỏi tàu và bơi về phía hòn đảo.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Sau nhiều chuyến hành trình và tìm kiếm [Đảo Tiên tộc](../T/Tol_Eressëa.md), Ælfheah là người đã khuyên Ælfwine chấm dứt hành trình tìm kiếm và trở về nhà; tuy nhiên, ngay sau khi họ phát hiện ra ánh sáng phát ra từ Phương Tây ở [Tol Eressëa](../T/Tol_Eressëa.md) - nhưng một cơn gió tây mạnh đã đẩy họ lùi về phía đông, ngoại trừ Ælfwine họ nhảy ra khỏi tàu và bơi về phía hòn đảo.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Số phận cuối cùng của Ælfheah là không chắc chắn, nhưng rất có thể ông ta đã chết trên biển, vì người ta nói rằng tất cả bảy người bạn đồng hành của Ælfwine rằng cuối cùng "[Ulmo](../U/Ulmo.md) Chúa tể Biển cả sau đó đã đưa họ về tay mình".<sup id="cite_ref-Elf_1-2" class="reference"><a href="#cite_note-Elf-1">[1]</a></sup>
+Số phận cuối cùng của Ælfheah là không chắc chắn, nhưng rất có thể ông ta đã chết trên biển, vì người ta nói rằng tất cả bảy người bạn đồng hành của Ælfwine rằng cuối cùng "[Ulmo](../U/Ulmo.md) Chúa tể của Biển sau đó đã đưa họ về cho chính mình".<sup id="cite_ref-Elf_1-2" class="reference"><a href="#cite_note-Elf-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Tên *Ælfheah* bằng [tiếng Anh cổ](../O/Old_English.md) và bao gồm các phần tử *ælf* ("elf") + *heah* ("high").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Tên *Ælfheah* nằm trong [tiếng Anh cổ](../O/Old_English.md) và bao gồm các phần tử *ælf* ("Tiên") + *heah* ("cao").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Tên khác {#Other_names}
 
-Tên trước đó của nhân vật là *Gelimer*, có thể là sự Latin hóa của một tên <a class="extiw" href="http://en.wikipedia.org/wiki/Vandalic_language" title="wikipedia:Vandalic language">Vandalic</a> (được minh họa bởi Vua của những kẻ phá hoại và Alans <a class="extiw" href="http://en.wikipedia.org/wiki/Gelimer" title="wikipedia:Gelimer">Gelimer</a>),<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> bắt nguồn từ <a class="extiw" href="http://en.wikipedia.org/wiki/Proto-Germanic_language" title="wikipedia:Proto-Germanic language">Proto-Germain</a> *gailaz* ("vui vẻ") + *mērijaz* ("nổi tiếng, nổi tiếng").<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Tên trước đó của nhân vật là *Gelimer*, có thể là sự Latin hóa của tên <a class="extiw" href="http://en.wikipedia.org/wiki/Vandalic_language" title="wikipedia:Vandalic language">Vandalic</a> (được minh họa bằng Vua của Kẻ phá hoại và Alans <a class="extiw" href="http://en.wikipedia.org/wiki/Gelimer" title="wikipedia:Gelimer">Gelimer</a>),<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> bắt nguồn từ <a class="extiw" href="http://en.wikipedia.org/wiki/Proto-Germanic_language" title="wikipedia:Proto-Germanic language">Proto-Germain</a> *gailaz* ("vui vẻ") + *mērijaz* ("nổi tiếng, nổi tiếng").<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 Bản thân tên *Gelimer* là một sự thay đổi so với dạng *Helgor* trước đó.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 

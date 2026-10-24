@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Farmer Giles of Ham"
 ---
 
-Chuyển hướng đến [Nông dân Giles xứ Ham](../F/Farmer_Giles_of_Ham.md).
+Chuyển hướng đến [Farmer Giles of Ham](../F/Farmer_Giles_of_Ham.md).

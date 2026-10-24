@@ -32,7 +32,7 @@ infobox:
 
 **Mythcon 5** là hội nghị [Hiệp hội thần thoại](Mythopoeic_Society.md) thường niên lần thứ năm.
 
-- **Chủ đề:** "The MabinogiCon": Ảnh hưởng của người Celtic và xứ Wales trong văn học thần thoại
+- **Chủ đề:** "MabinogiCon": Celtic và tiếng Wales Ảnh hưởng trong văn học thần thoại
 - **Khách mời danh dự:** Evangeline Walton (tác giả truyện giả tưởng) và Kathryn Lindskoog (học giả Lewis)
 - **Chủ tịch:** [Glen GoodKnight](../G/Glen_GoodKnight.md)
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gaurwaith"
 ---
 
-Chuyển hướng tới [Gaurwaith](../G/Gaurwaith.md).
+Chuyển hướng đến [Gaurwaith](../G/Gaurwaith.md).

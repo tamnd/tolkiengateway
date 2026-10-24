@@ -17,7 +17,7 @@ categories:
 
 ## Từ nguyên {#Etymology}
 
-Từ *haudh* bắt nguồn từ [Common Eldarin](../C/Common_Eldarin.md) *khabdā* ("đống, gò (nhân tạo)"), bản thân nó cũng bắt nguồn từ [gốc](../S/Sundocarme.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=KHAB&amp;action=edit&amp;redlink=1" title="KHAB (page does not exist)">KHAB</a> ("đống lên, chồng lên"). Vì *haudh* cũng mang hàm ý về một ụ tang lễ "nơi cũng chôn vũ khí và các vật có giá trị khác", nên từ này cho thấy ảnh hưởng rõ ràng từ gốc <a class="new" href="https://tolkiengateway.net/w/index.php?title=KHAW&amp;action=edit&amp;redlink=1" title="KHAW (page does not exist)">KHAW</a> ("che đậy, giấu đi, cất giữ").<sup id="cite_ref-PE19_1-1" class="reference"><a href="#cite_note-PE19-1">[1]</a></sup>
+Từ *haudh* bắt nguồn từ [Common Eldarin](../C/Common_Eldarin.md) *khabdā* ("đống, gò (nhân tạo)"), chính nó bắt nguồn từ [gốc](../S/Sundocarme.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=KHAB&amp;action=edit&amp;redlink=1" title="KHAB (page does not exist)">KHAB</a> ("đống lên, chồng lên"). Vì *haudh* cũng mang hàm ý về một ụ tang lễ "nơi cũng chôn vũ khí và các vật có giá trị khác", nên từ này cho thấy ảnh hưởng rõ ràng từ gốc <a class="new" href="https://tolkiengateway.net/w/index.php?title=KHAW&amp;action=edit&amp;redlink=1" title="KHAW (page does not exist)">KHAW</a> ("che đậy, giấu đi, cất giữ").<sup id="cite_ref-PE19_1-1" class="reference"><a href="#cite_note-PE19-1">[1]</a></sup>
 
 ## Ví dụ {#Examples}
 
@@ -29,7 +29,7 @@ Từ *haudh* bắt nguồn từ [Common Eldarin](../C/Common_Eldarin.md) *khabd�
 ## Xem thêm {#See_also}
 
 - Sindarin *[cerin](../C/Cerin.md)* ("gò nhân tạo")
-- [Quenya lưu vong](../E/Exilic_Quenya.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Haura&amp;action=edit&amp;redlink=1" title="Haura (page does not exist)">haura</a></i> ("gò tang lễ")
+- [Người đày ải Quenya](../E/Exilic_Quenya.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Haura&amp;action=edit&amp;redlink=1" title="Haura (page does not exist)">haura</a></i> ("gò tang lễ")
 - [Quenya](../Q/Quenya.md)/[Telerin](../T/Telerin.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Hamna&amp;action=edit&amp;redlink=1" title="Hamna (page does not exist)">hamna</a></i> ("gò tang lễ")
 
 <span></span>

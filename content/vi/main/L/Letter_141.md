@@ -31,7 +31,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Ông đã bối rối. Ông đã hoảng sợ. Những bản đồ này rất cần thiết và cấp bách nhưng Tolkien không thể hoàn thành được. Đã dành rất nhiều thời gian mà không thu được lợi nhuận do thiếu kỹ năng và bị quấy rầy. Ông ta không thể ép [Shire](../T/The_Shire.md) như được mô tả trong câu chuyện thành hình dạng của một trang, cũng như không thể làm cho nó có nhiều thông tin ở kích thước đó.
+Ông đã bối rối. Ông đã hoảng sợ. Các bản đồ rất cần thiết và cấp bách nhưng Tolkien không thể thực hiện được. Đã dành rất nhiều thời gian mà không thu được lợi nhuận do thiếu kỹ năng và bị quấy rầy. Ông ta không thể ép [Shire](../T/The_Shire.md) như được mô tả trong câu chuyện thành hình dạng của một trang, cũng như không thể làm cho nó có nhiều thông tin ở kích thước đó.
 
 Tolkien cảm thấy rằng các bản đồ phải được thực hiện một cách hợp lý, đặc biệt là khi "[các bản thảo bị đốt](../B/Book_of_Mazarbul.md)" đã biến mất. Ngay cả với chi phí thấp, những bản đồ đẹp như tranh vẽ vẫn cần thiết để cung cấp nhiều thứ hơn là chỉ mục cho văn bản. Ông có thể làm những bản đồ phù hợp với văn bản. Chính việc cắt tỉa, loại bỏ màu sắc, sử dụng thang đo quá nhỏ đến mức khó có thể xuất hiện tên, đó là điều khiến anh bối rối.
 

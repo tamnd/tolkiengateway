@@ -40,7 +40,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mallorn36.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/0/00/Mallorn36.jpg/320px-Mallorn36.jpg" decoding="async" loading="lazy" width="320" height="455" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/00/Mallorn36.jpg/480px-Mallorn36.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/0/00/Mallorn36.jpg/640px-Mallorn36.jpg 2x" data-file-width="4944" data-file-height="7034"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mallorn 36</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../P/Patricia_Reynolds.md" title="Patricia Reynolds">Pat Reynolds</a> and <a href="../J/John_Ellison.md" title="John Ellison">John Ellison</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">November <a href="../_/1998.md" title="1998">1998</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">A4 stapled paperback, glossy</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">64</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0308-6674</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mallorn_35.md" title="Mallorn 35">Mallorn 35</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mallorn_37.md" title="Mallorn 37">Mallorn 37</a></td></tr></tbody></table>
 
-<b><i>Mallorn</i> 36</b> là số thứ 36 của tạp chí [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) *[Mallorn](<Mallorn_(journal).md>)*, xuất bản vào tháng 11 [1998](../_/1998.md).
+<b><i>Mallorn</i> 36</b> là số thứ 36 của tạp chí [Hội Tolkien](../T/The_Tolkien_Society.md) *[Mallorn](<Mallorn_(journal).md>)*, xuất bản vào tháng 11 [1998](../_/1998.md).
 
 ## Nội dung {#Contents}
 
@@ -51,29 +51,29 @@ infobox:
 - **Bài viết**
     - Có hai người trong cuộc hôn nhân này
         - Bởi: [Helen Armstrong](../H/Helen_Armstrong.md)
-    - *Bộ bài Tarot Chúa tể của những chiếc nhẫn*: Không nhất thiết phải là Trung Địa
+    - *The Lord of the Rings Bộ bài Tarot*: Không nhất thiết phải là Trung Địa
         - Bởi: Charlie Betz
-    - "Những Người Của Đất"
+    - " Con Người của Đất"
         - Bởi: Daniel Timmons
-    - Hiểu được quyết định khởi hành của Frodo
+    - Hiểu được quyết định ra đi của Frodo
         - Bởi: Karyn Milos
-    - "Đau quá"
+    - "Tổn thương quá sâu sắc"
         - Bởi: Karyn Milos
-    - Tiền sử của người Hobbit
+    - Tiền sử của Hobbit
         - Bởi: [Ruth Lacon](../R/Ruth_Lacon.md)
     - Chuyến đi bộ kỷ niệm 50 năm (hoặc There and Back Again, một ngày đi chơi của học giả)
         - Bởi: [Alex Lewis](../A/Alex_Lewis.md)
-    - Hai chữ cái của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)
-    - Thế giới của Tolkien và Wagner: âm nhạc của ngôn ngữ và ngôn ngữ của âm nhạc
+    - Hai chữ cái [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)
+Thế giới của     - Tolkien và Wagner: âm nhạc của ngôn ngữ và ngôn ngữ của âm nhạc
         - Bởi: [John Ellison](../J/John_Ellison.md)
     - Sự phô trương dành cho người bình thường
         - Bởi: Len Sandford
-    - Chúa tể của những chiếc nhẫn: huyền thoại đối với người Anh hiện đại*đàn ông*
+    - The Lord of the Rings: một huyền thoại đối với đàn ông Anh hiện đại*
         - Bởi: Margarita Carretero González
 - **Đánh giá**
     - *Sự hình thành văn học thiếu nhi hiện đại: J.R.R. Tolkien*
         - Bởi: [Michael Tolkien](Michael_George_Tolkien.md)
-    - *Hư cấu giả tưởng và thần thoại xứ Wales: Những câu chuyện thuộc về*
+    - *Hư cấu giả tưởng và tiếng Wales Huyền thoại: Những câu chuyện về sự thuộc về*
         - Bởi: [Patricia Reynolds](../P/Patricia_Reynolds.md)
     - *[A Question of Time: J.R.R. Tolkien's Road to Faërie](../A/A_Question_of_Time.md)*
         - Bởi: [John Ellison](../J/John_Ellison.md)
@@ -85,4 +85,4 @@ infobox:
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://journals.tolkiensociety.org/mallorn/issue/view/37/" rel="noreferrer noopener" target="_blank">Số này tại trang web của The Tolkien Society</a>
+- <a class="external text" href="http://journals.tolkiensociety.org/mallorn/issue/view/37/" rel="noreferrer noopener" target="_blank">Vấn đề này tại trang web Hội Tolkien</a>

@@ -18,11 +18,11 @@ langlinks:
     url: "https://kontu.wiki/Nazg"
 ---
 
-<i><b>nazg</b></i> có nghĩa là "(ngón tay)" hoặc "chiếc nhẫn ma thuật" trong [Bài phát biểu của người da đen](../B/Black_Speech.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-PE19_2-0" class="reference"><a href="#cite_note-PE19-2">[2]</a></sup>
+<i><b>nazg</b></i> có nghĩa là "chiếc nhẫn (ngón tay)" hoặc "chiếc nhẫn ma thuật" trong [Hắc Ngữ](../B/Black_Speech.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-PE19_2-0" class="reference"><a href="#cite_note-PE19-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*nazg* là từ mượn ban đầu từ các từ [Elvish](../E/Elvish.md) có nguồn gốc từ [root](../S/Sundocarme.md) [NASAG](NASAG.md).<sup id="cite_ref-PE19_2-1" class="reference"><a href="#cite_note-PE19-2">[2]</a></sup> [Helge Fauskanger](../H/Helge_Fauskanger.md) cũng đã nhận thấy sự tương đồng với [Valarin](../V/Valarin.md) *naškâd* ("ring"), có thể là từ gốc, bị Sauron sửa đổi.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+*nazg* là từ mượn sớm từ [Elvish](../E/Elvish.md) các từ có nguồn gốc từ [gốc](../S/Sundocarme.md) [NASAG](NASAG.md).<sup id="cite_ref-PE19_2-1" class="reference"><a href="#cite_note-PE19-2">[2]</a></sup> [Helge Fauskanger](../H/Helge_Fauskanger.md) cũng nhận thấy sự tương đồng với [Valarin](../V/Valarin.md) *naškâd* ("ring"), có thể là từ gốc, bị sửa đổi bởi Sauron.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Ví dụ {#Examples}
 

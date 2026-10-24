@@ -34,7 +34,7 @@ Cái tên này có thể có nghĩa là "cỏ trong gió". Có ý kiến ​​�
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Tên xuất hiện trên các bức vẽ chưa được xuất bản liên quan đến một bức tranh minh họa (hình 196) của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">Tolkien</a> miêu tả bãi cỏ; <a href="../W/Wayne_G._Hammond.md" title="Wayne G. Hammond">Hammond</a> và <a href="../C/Christina_Scull.md" title="Christina Scull">Scull</a> mô tả hình dáng bên ngoài của cỏ là "<i>cây giống tre</i>".</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Tên xuất hiện trên các bức vẽ chưa được xuất bản liên quan đến một minh họa (hình 196) của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">Tolkien</a> mô tả bãi cỏ; <a href="../W/Wayne_G._Hammond.md" title="Wayne G. Hammond">Hammond</a> và <a href="../C/Christina_Scull.md" title="Christina Scull">Scull</a> mô tả hình dáng bên ngoài của cỏ là "<i>cây giống tre</i>".</span>
 </li>
 </ol></div></span>
 

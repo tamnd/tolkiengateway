@@ -58,14 +58,14 @@ langlinks:
 </div><div class="template-month__footer"><div class="tg-button"><a href="../J/January.md" title="January">Jan</a></div><div class="tg-button"><a href="../F/February.md" title="February">Feb</a></div><div class="tg-button"><a href="../M/March.md" title="March">Mar</a></div><div class="tg-button"><a href="../A/April.md" title="April">Apr</a></div><div class="tg-button"><a href="../M/May.md" title="May">May</a></div><div class="tg-button"><a href="../J/June.md" title="June">Jun</a></div><div class="tg-button"><a href="../J/July.md" title="July">Jul</a></div><div class="tg-button"><a href="../A/August.md" title="August">Aug</a></div><div class="tg-button"><a href="../S/September.md" title="September">Sep</a></div><div class="tg-button"><a href="../O/October.md" title="October">Oct</a></div><div class="tg-button"><a href="../N/November.md" title="November">Nov</a></div><div class="tg-button"><a href="../D/December.md" title="December">Dec</a></div></div>
 </div>
 
-Sự kiện xảy ra vào ngày 13 tháng 9
+Sự kiện xảy ra vào ngày 13 tháng Chín.
 
 ## Trên Trái đất {#On_Earth}
 
 - **[1943](1943.md)** - J.R.R. Tolkien viết [Thư 49d](../L/Letter_49d.md).
 - **[1951](1951.md)** - Ngày cuối cùng của <a class="external text" href="https://donum.uliege.be/bitstream/2268.1/14083/1/PHL_129_Essais.pdf" rel="noreferrer noopener" target="_blank">Congrès Internationale de Philologie Moderne</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Li%C3%A8ge" title="wikipedia:University of Liège">Đại học Liège</a>, một hội nghị trong đó [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) trình bày bài báo "[Tiếng Anh trung cổ 'Losenger'](../M/Middle_English_'Losenger'.md)".
 - **[1951](1951.md)** - Diễn viên [Bruce Phillips](../B/Bruce_Phillips.md) ra đời.
-- **[1974](1974.md)** - [Oxonmoot](../O/Oxonmoot_1974.md) đầu tiên được tổ chức tại The Welsh Poney, [Oxford](../O/Oxford.md).
+- **[1974](1974.md)** - [Oxonmoot](../O/Oxonmoot_1974.md) đầu tiên được tổ chức tại The tiếng Wales Poney, [Oxford](../O/Oxford.md).
 - **[1992](1992.md)** - Phần thứ hai của [loạt phim phát thanh năm 1992](<../T/Tales_from_the_Perilous_Realm_(1992_radio_series).md>) của *[The Adventures of Tom Bombadil](../T/The_Adventures_of_Tom_Bombadil.md)* được phát sóng trên [BBC Radio 5](../B/BBC.md).
 - **[1996](1996.md)** - Diễn viên [Sadwyn Brophy](../S/Sadwyn_Brophy.md) ra đời.
 - **[2002](2002.md)** - [Oxonmoot 2002](../O/Oxonmoot_2002.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/St_Antony%27s_College,_Oxford" title="wikipedia:St Antony&#39;s College, Oxford">Đại học St Antony</a>.
@@ -76,10 +76,10 @@ Sự kiện xảy ra vào ngày 13 tháng 9
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Gandalf](../G/Gandalf.md) bị [Saruman](../S/Saruman.md) giam giữ trên đỉnh [Orthanc](../O/Orthanc.md).
+    - [Gandalf](../G/Gandalf.md) bị giam giữ bởi [Saruman](../S/Saruman.md) trên đỉnh của [Orthanc](../O/Orthanc.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - [Celeborn](../C/Celeborn.md) và [Galadriel](../G/Galadriel.md) khởi hành đến [Lothlórien](../L/Lothlórien.md) bằng [Đèo Redhorn](../R/Redhorn_Pass.md); phần còn lại của đoàn hộ tống khởi hành tới [Rivendell](../R/Rivendell.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+    - [Celeborn](../C/Celeborn.md) và [Galadriel](../G/Galadriel.md) khởi hành đi [Lothlórien](../L/Lothlórien.md) bằng đường [Đèo Redhorn](../R/Redhorn_Pass.md); phần còn lại của đoàn hộ tống khởi hành đi [Rivendell](../R/Rivendell.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

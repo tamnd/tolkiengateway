@@ -20,9 +20,9 @@ images:
 <p class="tg-quote-footer"><cite><a href="../S/Standing_Silence.md" title="Standing Silence">Standing Silence</a> in <i><a href="../T/The_Two_Towers.md" title="The Two Towers">The Two Towers</a></i>, &#34;<a href="../T/The_Window_on_the_West.md" title="The Window on the West">The Window on the West</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Tây** là một thuật ngữ tương đối ở [Arda](../A/Arda.md), thường gắn liền với cảnh hoàng hôn. Nó được biết đến trong [Sindarin](../S/Sindarin.md) là *[annûn](../A/Annûn.md)* hoặc *[dûn](../D/Dûn.md)*, trong [Quenya](../Q/Quenya.md) là *[andúnë](../A/Andúnë.md)* hoặc *[númen](../N/Númen.md)* và trong [Adûnaic](../A/Adûnaic.md) là *[adûn](../A/Adûn.md)*.
+**Phương Tây** là thuật ngữ tương đối trong [Arda](../A/Arda.md), thường gắn liền với cảnh hoàng hôn. Nó được biết đến trong [Sindarin](../S/Sindarin.md) là *[annûn](../A/Annûn.md)* hoặc *[dûn](../D/Dûn.md)*, trong [Quenya](../Q/Quenya.md) là *[andúnë](../A/Andúnë.md)* hoặc *[númen](../N/Númen.md)* và trong [Adûnaic](../A/Adûnaic.md) là *[adûn](../A/Adûn.md)*.
 
-Theo một nghĩa trừu tượng, "phương Tây" được tôn vinh là quê hương của [Valar](../V/Valar.md) và [Eldar](../E/Eldar.md), đồng thời là di sản của [Númenor](../N/Númenor.md). Về mặt chính trị, nó bao gồm [các vương quốc và dân tộc](../F/Free_peoples~19934.md) của [Westlands](Westlands.md) thuộc phạm vi văn hóa của [Yêu tinh](../E/Elves.md) và [Dúnedain](../D/Dúnedain.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và liên minh với họ để chống lại [Sauron](../S/Sauron.md).
+Theo một nghĩa trừu tượng, "the Phương Tây" được vinh danh là ngôi nhà của [Valar](../V/Valar.md) và [Eldar](../E/Eldar.md) cũng như di sản của [Númenor](../N/Númenor.md). Về mặt chính trị, nó bao gồm [các vương quốc và dân tộc](../F/Free_peoples~19934.md) của [Westlands](Westlands.md) thuộc phạm vi văn hóa của [Tiên tộc](../E/Elves.md) và [Dúnedain](../D/Dúnedain.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và liên minh với họ để chống lại [Sauron](../S/Sauron.md).
 
 *West* có thể đề cập đến:
 
@@ -37,24 +37,24 @@ Theo một nghĩa trừu tượng, "phương Tây" được tôn vinh là quê h
 
 <dl><dd><i>Also:</i></dd></dl>
 
-- [Tây Beleriand](West_Beleriand.md), đổ bộ về phía tây của [Sirion](../S/Sirion.md).
+- [Tây Beleriand](West_Beleriand.md), hạ cánh ở phía tây của [Sirion](../S/Sirion.md).
 - The [Westfarthing](Westfarthing.md), khu phía tây của [The Shire](../T/The_Shire.md) bao gồm [Hobbiton](../H/Hobbiton.md), [Michel Delving](../M/Michel_Delving.md) và [Tuckborough](../T/Tuckborough.md).
-- [Cổng phía Tây của Bree](West-gate_of_Bree.md), một trong những lối vào [Bree-land](../B/Bree-land.md).
-- The [Westmarch](Westmarch.md), một khu vực được thêm vào [Quận](../T/The_Shire.md) ở [S.R.](../S/Shire_Reckoning.md) [1452](../F/Fourth_Age_31.md).
-- [Mốc phía Tây](West-mark.md), nửa phía tây của [Rohan](../R/Rohan.md).
+- Cổng [Phương Tây của Bree](West-gate_of_Bree.md), một trong những lối vào [Bree-land](../B/Bree-land.md).
+- The [Westmarch](Westmarch.md), một khu vực được thêm vào [ Shire](../T/The_Shire.md) trong [S.R.](../S/Shire_Reckoning.md) [1452](../F/Fourth_Age_31.md).
+- The [West-mark](West-mark.md), nửa phía tây của [Rohan](../R/Rohan.md).
 
 ### Tiêu đề {#Titles}
 
-- [Thuyền trưởng của phương Tây](../C/Captains_of_the_West.md), người chỉ huy chính trong [Chiến tranh trên võ đài](War_of_the_Ring.md).
-- Ngọn lửa phương Tây, bản dịch của [Andúril](../A/Andúril.md).
+- [Các thuyền trưởng của Phương Tây](../C/Captains_of_the_West.md), người chỉ huy chính trong [Cuộc chiến Nhẫn](War_of_the_Ring.md).
+- Ngọn lửa của Phương Tây, bản dịch của [Andúril](../A/Andúril.md).
 - [Vua phương Tây](../K/King_of_the_West.md), [Elessar](../A/Aragorn.md)
-- [Lãnh chúa phương Tây](../V/Valar.md), [Valar](../V/Valar.md).
-- [Người hùng phương Tây](../M/Mighty_of_the_West.md), [Tuor](../T/Tuor.md).
+- [Lãnh chúa của Phương Tây](../V/Valar.md), [Valar](../V/Valar.md).
+- [Sức mạnh của Phương Tây](../M/Mighty_of_the_West.md), [Tuor](../T/Tuor.md).
 
 ## Thế giới thực {#Real_World}
 
 - *[Into the West](../I/Into_the_West.md)*, bài hát đoạt giải Oscar của [Annie Lennox](../A/Annie_Lennox.md).
-- [Lockwood West](../L/Lockwood_West.md), diễn viên.
+- [Lockwood Phương Tây](../L/Lockwood_West.md), diễn viên.
 - [Richard C. West](../R/Richard_C._West.md), tác giả và học giả.
 - [John Westbrook](../J/John_Westbrook.md), diễn viên.
 

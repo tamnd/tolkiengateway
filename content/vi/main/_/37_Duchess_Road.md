@@ -23,11 +23,11 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/D/Duchess_Road_old.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/d9/Duchess_Road_old.jpg/300px-Duchess_Road_old.jpg" decoding="async" loading="lazy" width="300" height="183" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/d9/Duchess_Road_old.jpg/450px-Duchess_Road_old.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/d/d9/Duchess_Road_old.jpg/600px-Duchess_Road_old.jpg 2x" data-file-width="1024" data-file-height="625"/></a><figcaption></figcaption></figure>
 
-**37 Đường Duchess** ở [Edgbaston](../B/Birmingham.md), là quê hương của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và anh trai [Hilary](../H/Hilary_Tolkien.md) từ [1908](1908.md) đến [1910](1910.md). Họ được bà Faulkner cho thuê phòng. Đường Duchess nằm phía sau [Nhà nguyện Birmingham](../B/Birmingham_Oratory.md). Đó là thời điểm Tolkien gặp [Edith Bratt](../E/Edith_Tolkien.md) lần đầu.<sup id="cite_ref-CG_1-0" class="reference"><a href="#cite_note-CG-1">[1]</a></sup>
+**37 Đường Duchess** ở [Edgbaston](../B/Birmingham.md), là nhà của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và anh trai [Hilary](../H/Hilary_Tolkien.md) từ [1908](1908.md) đến [1910](1910.md). Họ được bà Faulkner cho thuê phòng. Đường Duchess nằm phía sau [Birmingham Nhà nguyện](../B/Birmingham_Oratory.md). Đó là thời điểm Tolkien lần đầu gặp [Edith Bratt](../E/Edith_Tolkien.md).<sup id="cite_ref-CG_1-0" class="reference"><a href="#cite_note-CG-1">[1]</a></sup>
 
 ## Liên kết ngoài {#External_links}
 
-Tuổi trẻ của - <a class="external text" href="http://web.archive.org/web/20160322145948/http://www.birmingham.gov.uk/cs/Satellite?c=Page&amp;childpagename=Lib-Central-Archives-and-Heritage%2FPageLayout&amp;cid=1223202752160&amp;pagename=BCC%2FCommon%2FWrapper%2FInlineWrapper" rel="noreferrer noopener" target="_blank">J.R.R. Tolkien ở Birmingham</a> (Hội đồng thành phố Birmingham / web.archive.org)
+Tuổi trẻ của - <a class="external text" href="http://web.archive.org/web/20160322145948/http://www.birmingham.gov.uk/cs/Satellite?c=Page&amp;childpagename=Lib-Central-Archives-and-Heritage%2FPageLayout&amp;cid=1223202752160&amp;pagename=BCC%2FCommon%2FWrapper%2FInlineWrapper" rel="noreferrer noopener" target="_blank">J.R.R. Tolkien ở Birmingham</a> (Birmingham Thành phố Hội đồng / web.archive.org)
 
 <span></span>
 

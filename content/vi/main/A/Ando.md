@@ -20,17 +20,17 @@ images:
 
 <figure class="mw-default-size mw-halign-left" typeof="mw:File"><a class="mw-file-description" href="../../file/A/Ando.gif.md"><img src="https://tolkiengateway.net/w/images/6/62/Ando.gif" decoding="async" loading="lazy" width="53" height="65" class="mw-file-element" data-file-width="53" data-file-height="65"/></a><figcaption></figcaption></figure>
 
-*Ando* cũng là tên bằng tiếng Quenya của chữ cái thứ năm trong bảng chữ cái [Tengwar](../T/Tengwar.md).<sup id="cite_ref-Names_1-1" class="reference"><a href="#cite_note-Names-1">[1]</a></sup> Đây là chữ cái đầu tiên của lớp hai hay [Tyellë](../T/Tyellë.md), chứa "dừng giọng" và là chữ cái thứ hai trong chuỗi phụ âm nha khoa hoặc *t*, *[Tincotéma](../T/Tincotéma.md)*.<sup id="cite_ref-Letters_2-0" class="reference"><a href="#cite_note-Letters-2">[2]</a></sup> Trong cách viết chuẩn của Quenya *Ando* đại diện cho **ND**.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Trong tất cả các chế độ khác, chữ cái này đại diện cho **D**.<sup id="cite_ref-Letters_2-1" class="reference"><a href="#cite_note-Letters-2">[2]</a></sup> Tên phương Tây của chữ cái này là <i><b>Dó</b></i>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+*Ando* cũng là tên trong Quenya của chữ cái thứ năm trong bảng chữ cái [Tengwar](../T/Tengwar.md).<sup id="cite_ref-Names_1-1" class="reference"><a href="#cite_note-Names-1">[1]</a></sup> Đây là chữ cái đầu tiên của lớp hai hoặc [Tyellë](../T/Tyellë.md), chứa "dừng giọng" và là chữ cái thứ hai trong chuỗi phụ âm nha khoa hoặc *t*, *[Tincotéma](../T/Tincotéma.md)*.<sup id="cite_ref-Letters_2-0" class="reference"><a href="#cite_note-Letters-2">[2]</a></sup> Trong cách đánh vần chuẩn của Quenya *Ando* đại diện cho **ND**.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Trong tất cả các chế độ khác, chữ cái này đại diện cho **D**.<sup id="cite_ref-Letters_2-1" class="reference"><a href="#cite_note-Letters-2">[2]</a></sup> Tên Westron cho chữ cái này là <i><b>Dó</b></i>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 <br>
 
 ## Từ nguyên {#Etymology}
 
-Từ này bắt nguồn từ [Quendian nguyên thủy](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) [AD](AD.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Từ này bắt nguồn từ [Primitive Quendian](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) [AD](AD.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Xem thêm {#See_also}
 
-- <a class="external text" href="http://www.uib.no/People/hnohf/qlist.htm" rel="noreferrer noopener" target="_blank">Danh sách từ Quenya Corpus</a> được chỉnh sửa bởi [Helge Fauskanger](../H/Helge_Fauskanger.md)
+- <a class="external text" href="http://www.uib.no/People/hnohf/qlist.htm" rel="noreferrer noopener" target="_blank">Quenya Danh sách từ ngữ liệu</a> được chỉnh sửa bởi [Helge Fauskanger](../H/Helge_Fauskanger.md)
 
 <span></span>
 

@@ -27,12 +27,12 @@ langlinks:
     url: "https://kontu.wiki/Anad%C3%BBn%C3%AA"
 ---
 
-**Anadûnê** là [Adûnaic](Adûnaic.md) cho 'Westernnesse *(Númenor)*
+**Anadûnê** là [Adûnaic](Adûnaic.md) của 'Miền Tây *(Númenor)*
 
 ## Từ nguyên {#Etymology}
 
-Từ <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Anad%C3%BBni&amp;action=edit&amp;redlink=1" title="Anadûni (page does not exist)">anadûni</a></i> có nghĩa là "phương Tây" (*[an](An.md)-[Adûn](Adûn.md)* "của phương Tây")
+Từ <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Anad%C3%BBni&amp;action=edit&amp;redlink=1" title="Anadûni (page does not exist)">anadûni</a></i> có nghĩa là "phương Tây" (*[an](An.md)-[Adûn](Adûn.md)* "của Phương Tây")
 
 ## Tài liệu tham khảo {#References}
 
-- [Ngôn ngữ của Trung Địa của Tolkien](../T/The_Languages_of_Tolkien's_Middle-earth.md)
+- [Ngôn ngữ của Tolkien Trung Địa](../T/The_Languages_of_Tolkien's_Middle-earth.md)

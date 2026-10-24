@@ -44,9 +44,9 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tolkien_On_Fairy-stories.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/6c/Tolkien_On_Fairy-stories.jpg/297px-Tolkien_On_Fairy-stories.jpg" decoding="async" loading="lazy" width="297" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/6c/Tolkien_On_Fairy-stories.jpg/446px-Tolkien_On_Fairy-stories.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/6/6c/Tolkien_On_Fairy-stories.jpg/594px-Tolkien_On_Fairy-stories.jpg 2x" data-file-width="1082" data-file-height="1747"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Tolkien On Fairy-stories</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../V/Verlyn_Flieger.md" title="Verlyn Flieger">Verlyn Flieger</a>, <a href="../D/Douglas_A._Anderson.md" title="Douglas A. Anderson">Douglas A. Anderson</a></td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data">J.R.R. Tolkien (cover)</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../H/HarperCollins.md" title="HarperCollins">HarperCollins</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/1_July.md" title="1 July">1 July</a> <a href="../_/2008.md" title="2008">2008</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Hardcover, paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">320</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0007244665" title="Special:BookSources/0007244665">0007244665</a></td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="The_Children_of_Húrin.md" title="The Children of Húrin">The Children of Húrin</a> (2007)</td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="The_Legend_of_Sigurd_and_Gudrún.md" title="The Legend of Sigurd and Gudrún">The Legend of Sigurd and Gudrún</a> (2009)</td></tr></tbody></table>
 
-<i><b>Tolkien Về những câu chuyện cổ tích</b></i> là một cuốn sách mang tính học thuật được biên tập bởi [Verlyn Flieger](../V/Verlyn_Flieger.md) và [Douglas A. Anderson](../D/Douglas_A._Anderson.md), xuất bản năm [2008](../_/2008.md). Cuốn sách này là phiên bản mở rộng của bài tiểu luận nổi tiếng "[Về những câu chuyện cổ tích](../O/On_Fairy-stories~23735.md) của J.R.R. Tolkien", trình bày triết lý của Tolkien về <a class="extiw" href="http://en.wikipedia.org/wiki/Fantasy" title="wikipedia:Fantasy">tưởng tượng</a> và những suy nghĩ về <a class="extiw" href="http://en.wikipedia.org/wiki/Mythopoeia" title="wikipedia:Mythopoeia">huyền thoại</a>.
+<i><b>Tolkien Về truyện cổ tích</b></i> là cuốn sách mang tính học thuật do [Verlyn Flieger](../V/Verlyn_Flieger.md) và [Douglas A. Anderson](../D/Douglas_A._Anderson.md) biên tập, xuất bản năm [2008](../_/2008.md). Cuốn sách này là phiên bản mở rộng của bài luận nổi tiếng "[Về những câu chuyện cổ tích](../O/On_Fairy-stories~23735.md) của J.R.R. Tolkien", trình bày triết lý của Tolkien về <a class="extiw" href="http://en.wikipedia.org/wiki/Fantasy" title="wikipedia:Fantasy">tưởng tượng</a> và những suy nghĩ về <a class="extiw" href="http://en.wikipedia.org/wiki/Mythopoeia" title="wikipedia:Mythopoeia">sự sáng tạo thần thoại</a>.
 
-"Về những câu chuyện cổ tích" ban đầu là một bài giảng trong [1939](../_/1939.md), Tolkien đã mở rộng và biên soạn lại thành một bài tiểu luận được xuất bản lần đầu trong *[Essays Presented to Charles Williams](../E/Essays_Presented_to_Charles_Williams.md)* năm [1947](../_/1947.md). Bài viết đã được chỉnh sửa và xuất bản tại *[Tree and Leaf](Tree_and_Leaf.md)* tại [1964](../_/1964.md).
+"Về truyện cổ tích" ban đầu là một bài giảng được giảng trong [1939](../_/1939.md), Tolkien đã được mở rộng và biên soạn lại thành một bài luận được xuất bản lần đầu trong *[Essays Presented to Charles Williams](../E/Essays_Presented_to_Charles_Williams.md)* năm [1947](../_/1947.md). Bài viết đã được chỉnh sửa và xuất bản tại *[Tree and Leaf](Tree_and_Leaf.md)* tại [1964](../_/1964.md).
 
 ## Nội dung {#Contents}
 
@@ -73,7 +73,7 @@ Phần Một in lại toàn bộ bài luận, phiên bản đăng năm *[Tree an
 
 Không có tài liệu nào từ bài giảng ban đầu năm 1939 còn tồn tại, nhưng Phần thứ hai đưa ra hai bài báo đương thời về bài giảng, trong đó cung cấp một cái nhìn thoáng qua về bài giảng có thể trông như thế nào.
 
-Phần thứ ba là bản chép lại hai bản thảo trước đó của bài luận, với phần lớn bài viết bị loại bỏ được bảo tồn, giúp làm sáng tỏ quá trình suy nghĩ của Tolkien về những chủ đề này.
+Phần thứ ba là bản chép lại hai bản thảo trước đó của bài luận, với phần lớn các bài viết bị loại bỏ được bảo tồn, giúp làm sáng tỏ quá trình suy nghĩ của Tolkien về các chủ đề này.
 
 ## Từ nhà xuất bản {#From_the_publisher}
 
@@ -115,7 +115,7 @@ Phần thứ ba là bản chép lại hai bản thảo trước đó của bài 
 		</li>
 </ul>
 
-- [HarperCollins](../H/HarperCollins.md) bìa cứng ([2008](../_/2008.md)), trang 320. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007244665">ISBN 0007244665</a>
+- [HarperCollins](../H/HarperCollins.md) bìa cứng ([2008](../_/2008.md)), trang 320. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007244665">ISBN 0007244665</a>
 - [HarperCollins](../H/HarperCollins.md) bìa mềm ([2014](../_/2014.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007582919">ISBN 0007582919</a>
     - Ấn bản bìa mềm năm 2014, lần in thứ 26 ([2025](../_/2025.md))
 
@@ -128,9 +128,9 @@ Phần thứ ba là bản chép lại hai bản thảo trước đó của bài 
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="https://www.academia.edu/11430292/Corrections_to_the_printings_of_Tolkien_On_Fairy-stories" rel="noreferrer noopener" target="_blank">Sửa chữa <i>Tolkien về truyện cổ tích</i></a> của [Douglas A. Anderson](../D/Douglas_A._Anderson.md)
-- <a class="external text" href="https://tolkienlibrary.com/press/833-Interview-Douglas-Anderson-Verlyn-Flieger-Tolkien-Fairy-Stories.php" rel="noreferrer noopener" target="_blank">Phỏng vấn Douglas A. Anderson và Verlyn Flieger</a> trên Thư viện Tolkien
-- Colin Manlove, <a class="external text" href="https://muse.jhu.edu/article/266276" rel="noreferrer noopener" target="_blank">Đánh giá cuốn sách</a>, [Nghiên cứu Tolkien. 6](Tolkien_Studies%253A_Volume_6.md)
+- <a class="external text" href="https://www.academia.edu/11430292/Corrections_to_the_printings_of_Tolkien_On_Fairy-stories" rel="noreferrer noopener" target="_blank">Sửa chữa <i>Tolkien Về truyện cổ tích</i></a> của [Douglas A. Anderson](../D/Douglas_A._Anderson.md)
+- <a class="external text" href="https://tolkienlibrary.com/press/833-Interview-Douglas-Anderson-Verlyn-Flieger-Tolkien-Fairy-Stories.php" rel="noreferrer noopener" target="_blank">Phỏng vấn Douglas A. Anderson và Verlyn Flieger</a> về Thư viện Tolkien
+- Colin Manlove, <a class="external text" href="https://muse.jhu.edu/article/266276" rel="noreferrer noopener" target="_blank">Đánh giá sách</a>, [Tolkien Nghiên cứu. 6](Tolkien_Studies%253A_Volume_6.md)
 
 <br>
 

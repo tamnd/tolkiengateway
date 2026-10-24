@@ -36,12 +36,12 @@ infobox:
 
 ## Tóm tắt {#Synopsis}
 
-Tại vùng đất [Mordor](../M/Mordor.md), [Gollum](../G/Gollum.md) bị tra tấn để tiết lộ [Shire](../S/Shire.md) và người mang chiếc Nhẫn. [Ringwraith](../R/Ringwraiths.md) khởi hành từ [Minas Morgul](../M/Minas_Morgul.md) hướng tới Shire.
+Tại vùng đất [Mordor](../M/Mordor.md), [Gollum](../G/Gollum.md) bị tra tấn để tiết lộ [Shire](../S/Shire.md) và người mang chiếc Nhẫn. Tàu [Nazgûl](../R/Ringwraiths.md) khởi hành từ [Minas Morgul](../M/Minas_Morgul.md) về phía Shire.
 
-Gandalf rời [Frodo](../F/Frodo.md) và [Shire](../S/Shire.md), băng qua [Trung Địa](../M/Middle-earth.md) đến vùng đất [Gondor](../G/Gondor.md) với hy vọng được xem kho lưu trữ của [Minas Tirith](../M/Minas_Tirith.md). Gandalf đến và bắt đầu xem xét các cuộn giấy khác nhau trong kho lưu trữ. Không lâu sau, ông tìm thấy một tác phẩm do chính [Isildur](../I/Isildur.md) sáng tác, người cuối cùng nhìn thấy [One Ring](../O/One_Ring.md) trước khi nó biến mất. Isildur mô tả hình dáng của Chiếc nhẫn và cách các chữ cái bốc lửa xuất hiện khi Chiếc nhẫn được nung nóng. Gandalf nhận ra mình phải kiểm tra chiếc nhẫn của Frodo bằng cách dùng lửa.
+Gandalf rời khỏi [Frodo](../F/Frodo.md) và [Shire](../S/Shire.md), băng qua [Trung Địa](../M/Middle-earth.md) đến vùng đất [Gondor](../G/Gondor.md), hy vọng được nhìn thấy kho lưu trữ của [Minas Tirith](../M/Minas_Tirith.md). Gandalf đến và bắt đầu xem xét các cuộn giấy khác nhau trong kho lưu trữ. Không lâu sau, ông tìm thấy một tác phẩm do chính [Isildur](../I/Isildur.md) sáng tác, người cuối cùng nhìn thấy [Chiếc nhẫn duy nhất](../O/One_Ring.md) trước khi nó biến mất. Isildur mô tả hình dáng của Chiếc nhẫn và các chữ cái bốc lửa xuất hiện như thế nào khi Chiếc nhẫn được nung nóng. Gandalf nhận ra mình phải kiểm tra chiếc nhẫn của Frodo bằng cách dùng lửa.
 
-Một Ringwraith xuất hiện đang yêu cầu [Hobbit](../H/Hobbit.md) tìm "Baggins". Anh Hobbit lo lắng nói với anh rằng người Baggins sống ở [Hobbiton](../H/Hobbiton.md).
+Một Ringwraith được hiển thị đang yêu cầu [Hobbit](../H/Hobbit.md) cho "Baggins." The Hobbit lo lắng nói với ông ta rằng Bagginses sống ở [Hobbiton](../H/Hobbiton.md).
 
 ## Sự khác biệt {#Differences}
 
-Do việc nén thời gian đã thảo luận trước đó, việc tìm kiếm thông tin về Chiếc nhẫn của Gandalf được rút ngắn đáng kể so với thời gian trong sách. [Denethor](../D/Denethor.md), người xuất hiện chớp nhoáng khi cảnh này được mô tả tại [Hội đồng Elrond](../C/Council_of_Elrond.md), đã bị lược bỏ. Ngôn ngữ trên cuộn giấy của Isildur hơi khác so với ngôn ngữ trong sách, nhưng không đáng kể.
+Do việc rút ngắn thời gian đã thảo luận trước đó, việc tìm kiếm thông tin về Chiếc Nhẫn Chúa của Gandalf được rút ngắn đáng kể so với thời gian trong sách. [Denethor](../D/Denethor.md), người xuất hiện thoáng qua khi cảnh này được mô tả ở [Hội đồng Elrond](../C/Council_of_Elrond.md), bị lược bỏ. Ngôn ngữ trên cuộn giấy của Isildur hơi khác so với ngôn ngữ trong sách, nhưng không đáng kể.

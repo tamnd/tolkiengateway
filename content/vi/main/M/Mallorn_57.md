@@ -40,38 +40,38 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mallorn57.png.md"><img src="https://tolkiengateway.net/w/images/thumb/8/8a/Mallorn57.png/320px-Mallorn57.png" decoding="async" loading="lazy" width="320" height="453" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/8a/Mallorn57.png/480px-Mallorn57.png 1.5x, https://tolkiengateway.net/w/images/thumb/8/8a/Mallorn57.png/640px-Mallorn57.png 2x" data-file-width="1238" data-file-height="1752"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mallorn 57</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Rosalinda Haddon</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Printer</th><td class="tg-infobox-data"><a class="external text" href="http://www.printedword.co.uk/" rel="noreferrer noopener" target="_blank">The Printed Word</a>, Horsham, UK</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Winter 2016</td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">A4 stapled paperback, glossy</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">44</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0308-6674</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mallorn_56.md" title="Mallorn 56">Mallorn 56</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mallorn_58.md" title="Mallorn 58">Mallorn 58</a></td></tr></tbody></table>
 
-<b><i>Mallorn</i> 57</b> là số thứ 57 của tạp chí thường niên [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) *[Mallorn](<Mallorn_(journal).md>)*, xuất bản vào Mùa đông [2016](../_/2016.md).
+<b><i>Mallorn</i> 57</b> là số thứ 57 của tạp chí thường niên [Hội Tolkien](../T/The_Tolkien_Society.md) của *[Mallorn](<Mallorn_(journal).md>)*, xuất bản vào Mùa đông [2016](../_/2016.md).
 
 ## Nội dung {#Contents}
 
 - **Ảnh bìa**
-    - "Tháng Chín ở Quận"
+    - "tháng Chín trong Shire"
         - Bởi: John Cockshaw
 - **Biên tập**
     - ​
         - Bởi: Rosalinda Haddon
 - **Bài viết**
-    - "Lại một lần nữa, vụ án tò mò của Denetho và Palantír"
+    - "Vụ án tò mò của Denetho và Palantír, Một lần nữa"
         - Bởi: [Tom Shippey](../T/Tom_Shippey.md)
     - "Khả năng sinh sản và ân sủng trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*"
         - Bởi: Celia Devine
-    - "Số phận của [Túrin](../T/Túrin.md). hay cách tiếp cận của Dumézilian với The Narn"
+    - "Số phận của [Túrin](../T/Túrin.md). hay cách tiếp cận Dumézilian của The Narn"
         - Bởi: Jean Chausse
-    - "Quan điểm Jungian của Tolkien về ngôn ngữ"
+    - "Tolkien Quan điểm của Jung về ngôn ngữ"
         - Bởi: Nancy Bunting
     - "Sáng tạo và sáng tạo phụ"
         - Bởi: Martina Juričiková
-    - "Sự trở lại của Bilbo và vụ Tichborne"
+    - "Bilbo Sự trở lại và vụ Tichborne"
         - Bởi: Murray Smith
     - "Thảm họa: Về sự cần thiết của nỗi đau buồn đối với con người"
         - Bởi: Skyler Neberman
     - "Hiệp hội thánh: Sự thánh thiện trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*"
         - Bởi: Nicholas J.S. Polk
 - **Bài gửi**
-    - Thư gửi Ban biên tập
+    - Thư gửi Biên tập viên
     - Hướng dẫn dành cho tác giả
 - **Thơ**
-    - "[Lúthien](../L/Lúthien.md) Bài hát ru cho Dior"
+Bài hát ru của     - "[Lúthien](../L/Lúthien.md) cho Dior"
         - Bởi: Jane Beal
 - **Đánh giá**
     - *[Beowulf: A Translation and Commentary](../B/Beowulf%253A_A_Translation_and_Commentary.md)*
@@ -84,4 +84,4 @@ infobox:
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://journals.tolkiensociety.org/mallorn/issue/view/58/" rel="noreferrer noopener" target="_blank">Số này tại trang web của The Tolkien Society</a>
+- <a class="external text" href="http://journals.tolkiensociety.org/mallorn/issue/view/58/" rel="noreferrer noopener" target="_blank">Vấn đề này tại trang web Hội Tolkien</a>

@@ -40,17 +40,17 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/D/Donato_Giancola_-_J.R.R.Tolkien_Portrait.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/be/Donato_Giancola_-_J.R.R.Tolkien_Portrait.jpg/250px-Donato_Giancola_-_J.R.R.Tolkien_Portrait.jpg" decoding="async" loading="lazy" width="250" height="195" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/be/Donato_Giancola_-_J.R.R.Tolkien_Portrait.jpg/375px-Donato_Giancola_-_J.R.R.Tolkien_Portrait.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/b/be/Donato_Giancola_-_J.R.R.Tolkien_Portrait.jpg/500px-Donato_Giancola_-_J.R.R.Tolkien_Portrait.jpg 2x" data-file-width="1100" data-file-height="859"/></a><figcaption><i>J.R.R.Tolkien</i> by <a href="../D/Donato_Giancola.md" title="Donato Giancola">Donato Giancola</a></figcaption></figure>
 
-<i><b>huyền thoại</b></i> là toàn bộ tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) liên quan đến thế giới tưởng tượng của ông về [Arda](../A/Arda.md).
+<i><b>Huyền thoại</b></i> là toàn bộ tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) liên quan đến thế giới tưởng tượng của ông về [Arda](../A/Arda.md).
 
-Bản thân Tolkien đã sử dụng thuật ngữ này<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và cũng gọi "**thần thoại**" của mình theo nghĩa tương tự.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Mong đợi xuất bản cho *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* và hy vọng rằng "The Silmarillion" sẽ được xuất bản cùng nhau, Tolkien đã hình dung tác phẩm của mình (có thể bao gồm *[The Hobbit](../T/The_Hobbit.md)*) là "**[Saga](../G/Golden_Book.md) của [Ba Đồ trang sức](../S/Silmarils.md) và [Nhẫn quyền lực](../R/Rings_of_Power.md)**".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Chính Tolkien đã sử dụng thuật ngữ này<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và cũng gọi "**thần thoại**" của mình theo nghĩa tương tự.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Mong đợi xuất bản cho *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* và hy vọng rằng "The Silmarillion" sẽ được xuất bản cùng nhau, Tolkien đã hình dung tác phẩm của mình (có thể bao gồm *[The Hobbit](../T/The_Hobbit.md)*) là "**[Saga](../G/Golden_Book.md) của [Tam Bảo](../S/Silmarils.md) và [Những Chiếc Nhẫn Quyền Năng](../R/Rings_of_Power.md)**".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
-Thuật ngữ *legendarium* không giống với "[canon](../C/Canon.md)". Truyền thuyết bao gồm toàn bộ kho văn bản của Tolkien, thậm chí cả những phiên bản mâu thuẫn lẫn nhau, cả giai đoạn trước và sau trong quá trình hình thành nó.
+Thuật ngữ *legendarium* không giống với "[canon](../C/Canon.md)". Truyền thuyết bao gồm toàn bộ kho văn bản của Tolkien, thậm chí cả các phiên bản mâu thuẫn lẫn nhau, cả giai đoạn trước và sau trong quá trình hình thành nó.
 
 ## Tác phẩm đã xuất bản {#Published_works}
 
 ### Bài viết của huyền thoại {#Writings_of_the_legendarium}
 
-Dưới đây là danh sách tất cả các văn bản đã xuất bản của Tolkien liên quan đến [Arda](../A/Arda.md). Để thảo luận về trạng thái "kinh điển" của văn bản, hãy tham khảo trang *[Canon](../C/Canon.md)*.
+Dưới đây là danh sách tất cả các văn bản được xuất bản bởi Tolkien liên quan đến [Arda](../A/Arda.md). Để thảo luận về trạng thái "kinh điển" của văn bản, hãy tham khảo trang *[Canon](../C/Canon.md)*.
 
 - Sách
     - *[The Hobbit](../T/The_Hobbit.md)*
@@ -77,7 +77,7 @@ Dưới đây là danh sách tất cả các văn bản đã xuất bản của 
     - *[J.R.R. Tolkien: Artist and Illustrator](../J/J.R.R._Tolkien%253A_Artist_and_Illustrator.md)*
     - *[The Collected Poems of J.R.R. Tolkien](../T/The_Collected_Poems_of_J.R.R._Tolkien.md)*
 
-- Tạp chí (chủ yếu liên quan đến ngôn ngữ học của Tolkien)
+- Các tạp chí (chủ yếu liên quan đến ngôn ngữ học của Tolkien)
     - *[Vinyar Tengwar](../V/Vinyar_Tengwar.md)* (50 số phát hành tính đến năm 2013)
     - *[Parma Eldalamberon](../P/Parma_Eldalamberon.md)* (23 số phát hành tính đến năm 2024)
 
@@ -97,15 +97,15 @@ Bạn có thể tìm hiểu thêm về tầm nhìn của Tolkien về di tích h
 
 - *[Master of Middle-earth](../M/Master_of_Middle-earth.md)* ([1972](../_/1972.md)) của [Paul H. Kocher](../P/Paul_H._Kocher.md)
 - *[Tolkien and The Silmarillion](../T/Tolkien_and_The_Silmarillion.md)* ([1976](../_/1976.md)) của [Clyde S. Kilby](../C/Clyde_S._Kilby.md)
-- *[The Road to Middle-earth](../T/The_Road_to_Middle-earth.md)* ([1982](../_/1982.md)) của [Tom Shippey](../T/Tom_Shippey.md)
+- *[The Road to Middle-earth](../T/The_Road_to_Middle-earth.md)* ([1982](../_/1982.md)) bởi [Tom Shippey](../T/Tom_Shippey.md)
 - *[Tolkien's Legendarium: Essays on The History of Middle-earth](../T/Tolkien's_Legendarium%253A_Essays_on_The_History_of_Middle-earth.md)* ([2000](../_/2000.md)) được chỉnh sửa bởi [Verlyn Flieger](../V/Verlyn_Flieger.md) và [Carl F. Hostetter](../C/Carl_F._Hostetter.md)
-- *[Tolkien and the Great War: The Threshold of Middle-earth](../T/Tolkien_and_the_Great_War.md)* ([2003](../_/2003.md)) của [John Garth](../J/John_Garth.md)
-- *[Interrupted Music: The Making of Tolkien's Mythology](../I/Interrupted_Music%253A_The_Making_of_Tolkien's_Mythology.md)* ([2005](../_/2005.md)) của Verlyn Flieger
+- *[Tolkien and the Great War: The Threshold of Middle-earth](../T/Tolkien_and_the_Great_War.md)* ([2003](../_/2003.md)) bởi [John Garth](../J/John_Garth.md)
+- *[Interrupted Music: The Making of Tolkien's Mythology](../I/Interrupted_Music%253A_The_Making_of_Tolkien's_Mythology.md)* ([2005](../_/2005.md)) bởi Verlyn Flieger
 - *[The Evolution of Tolkien's Mythology](../T/The_Evolution_of_Tolkien's_Mythology.md)* ([2017](../_/2017.md)) của Elizabeth A. Whittingham
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="extiw" href="http://en.wikipedia.org/wiki/Tolkien%27s_legendarium" title="wikipedia:Tolkien&#39;s legendarium">Truyền thuyết của Tolkien</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
+Bảo tàng huyền thoại của - <a class="extiw" href="http://en.wikipedia.org/wiki/Tolkien%27s_legendarium" title="wikipedia:Tolkien&#39;s legendarium">Tolkien</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
 
 <span></span>
 

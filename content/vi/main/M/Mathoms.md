@@ -24,17 +24,17 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/R/Robin_Wood_-_Mathom_lore.jpg.md"><img src="https://tolkiengateway.net/w/images/e/e6/Robin_Wood_-_Mathom_lore.jpg" decoding="async" loading="lazy" width="298" height="253" class="mw-file-element" data-file-width="298" data-file-height="253"/></a><figcaption><i>Mathom Lore</i> by Robin Wood</figcaption></figure>
 
-**Mathoms** là một từ cũ của [phương ngữ hobbit](../H/Hobbitish.md), không được ghi nhận là được sử dụng bên ngoài [Shire](../T/The_Shire.md). Nó được dùng để chỉ "đồ lặt vặt" hoặc bất kỳ vật dụng nào mà người Hobbit không có công dụng cụ thể ngay lập tức nhưng không muốn vứt bỏ.
+**Mathoms** là một từ cũ của [phương ngữ hobbit](../H/Hobbitish.md), không được ghi nhận là được sử dụng bên ngoài [ Shire](../T/The_Shire.md). Nó được dùng để chỉ "đồ lặt vặt" hoặc bất kỳ đồ vật nào Hobbit không có công dụng cụ thể ngay lập tức nhưng không muốn vứt đi.
 
-Mathoms là nhiều món quà được [Người Hobbit ở Quận](../S/Shire-hobbits.md) truyền tay nhau - một phần quan trọng trong văn hóa của họ - và chủ nhân của chúng không muốn vứt chúng đi. Những ngôi nhà của người Hobbit thường có nhiều toán học.
+Mathoms là nhiều món quà được [Shire-hobbit](../S/Shire-hobbits.md) truyền tay nhau - một phần quan trọng trong văn hóa của họ - và chủ nhân của chúng không muốn vứt chúng đi. Hobbit những ngôi nhà thường có xu hướng đông đúc các toán học.
 
-Nhiều toán học là vũ khí, vô dụng vì chưa có bất kỳ xung đột nào kể từ [Trận chiến Greenfields](../B/Battle_of_Greenfields.md) ([S.R.](../S/Shire_Reckoning.md) [1147](../T/Third_Age_2747.md)); vũ khí chủ yếu được coi là chiến lợi phẩm, trang trí tường hoặc lò sưởi hoặc được cất giữ trong [Ngôi nhà toán học](Mathom-house.md), một "bảo tàng" ở [Michel Delving](Michel_Delving.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Nhiều toán học là vũ khí, vô dụng vì chưa có bất kỳ xung đột nào kể từ [Trận chiến Greenfields](../B/Battle_of_Greenfields.md) ([S.R.](../S/Shire_Reckoning.md) [1147](../T/Third_Age_2747.md)); vũ khí chủ yếu được coi là chiến lợi phẩm, trang trí tường hoặc lò sưởi hoặc được cất giữ trong [Nhà toán học](Mathom-house.md), một "bảo tàng" ở [Michel Delving](Michel_Delving.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
 *Mathom* là một từ được phát minh bởi [Tolkien](../J/J.R.R._Tolkien.md), được xây dựng từ một từ [tiếng Anh cổ](../O/Old_English.md) lỗi thời *máðm* "kho báu, vật quý giá".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Nó được sử dụng như một bản dịch của từ [Hobbitish](../H/Hobbitish.md) ban đầu <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Kast&amp;action=edit&amp;redlink=1" title="Kast (page does not exist)">kast</a></i>.<sup id="cite_ref-AppF_3-0" class="reference"><a href="#cite_note-AppF-3">[3]</a></sup> <span></span>
+Nó được sử dụng dưới dạng kết xuất của từ [Hobbitish](../H/Hobbitish.md) gốc <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Kast&amp;action=edit&amp;redlink=1" title="Kast (page does not exist)">kast</a></i>.<sup id="cite_ref-AppF_3-0" class="reference"><a href="#cite_note-AppF-3">[3]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

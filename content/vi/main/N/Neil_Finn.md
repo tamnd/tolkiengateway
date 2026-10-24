@@ -22,7 +22,7 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/N/Neil_Finn.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/f5/Neil_Finn.jpg/250px-Neil_Finn.jpg" decoding="async" loading="lazy" width="250" height="148" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f5/Neil_Finn.jpg/375px-Neil_Finn.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/f/f5/Neil_Finn.jpg/500px-Neil_Finn.jpg 2x" data-file-width="600" data-file-height="356"/></a><figcaption></figcaption></figure>
 
-**Neil Finn** là ca sĩ và nhạc sĩ người New Zealand, vừa là nghệ sĩ solo vừa là thành viên của ban nhạc Split Enz và <a class="external text" href="https://en.wikipedia.org/wiki/Crowded_House" rel="noreferrer noopener" target="_blank">Crowded House</a>. Ông đã biểu diễn "[Bài hát của ngọn núi cô đơn](../S/Song_of_the_Lonely_Mountain.md)", bài hát chính của *[The Hobbit: An Unexpected Journey](../T/The_Hobbit%253A_An_Unexpected_Journey.md)*.
+**Neil Finn** là ca sĩ và nhạc sĩ New Zealand, vừa là nghệ sĩ solo vừa là thành viên của ban nhạc Split Enz và <a class="external text" href="https://en.wikipedia.org/wiki/Crowded_House" rel="noreferrer noopener" target="_blank">Crowded House</a>. Ông biểu diễn "[Bài hát của Ngọn Núi Cô Đơn](../S/Song_of_the_Lonely_Mountain.md)", ca khúc credit của *[The Hobbit: An Unexpected Journey](../T/The_Hobbit%253A_An_Unexpected_Journey.md)*.
 
 ## Liên kết ngoài {#External_links}
 

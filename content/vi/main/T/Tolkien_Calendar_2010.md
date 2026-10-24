@@ -39,7 +39,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tolkien_Calendar_2010.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/65/Tolkien_Calendar_2010.jpg/320px-Tolkien_Calendar_2010.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/65/Tolkien_Calendar_2010.jpg/480px-Tolkien_Calendar_2010.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/6/65/Tolkien_Calendar_2010.jpg/640px-Tolkien_Calendar_2010.jpg 2x" data-file-width="648" data-file-height="648"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Tolkien Calendar 2010</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="Ted_Nasmith.md" title="Ted Nasmith">Ted Nasmith</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../H/HarperCollins.md" title="HarperCollins">HarperCollins</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/1_July.md" title="1 July">1 July</a> <a href="../_/2009.md" title="2009">2009</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Calendar</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">32</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/978-0-00-731268-9" title="Special:BookSources/978-0-00-731268-9">978-0-00-731268-9</a> (UK)<br/><a href="https://tolkiengateway.net/wiki/Special:BookSources/0061782734" title="Special:BookSources/0061782734">0061782734</a> (US)</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Tolkien_Calendar_2009.md" title="Tolkien Calendar 2009">Tolkien Calendar 2009</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Tolkien_Calendar_2011.md" title="Tolkien Calendar 2011">Tolkien Calendar 2011</a></td></tr></tbody></table>
 
-<i><b>Lịch Tolkien 2010</b></i> là lịch Tolkien chính thức được xuất bản bởi [HarperCollins](../H/HarperCollins.md) vào [ngày 1 tháng 7](../_/1_July.md) [2009](../_/2009.md). Nó có tác phẩm nghệ thuật của [Ted Nasmith](Ted_Nasmith.md) dựa trên *[The Hobbit](The_Hobbit.md)*, *[The Lord of the Rings](The_Lord_of_the_Rings.md)* và *[Unfinished Tales](../U/Unfinished_Tales.md)*.
+Lịch <i><b>Tolkien 2010</b></i> là lịch Tolkien chính thức được xuất bản bởi [HarperCollins](../H/HarperCollins.md) vào [1 tháng 7](../_/1_July.md) [2009](../_/2009.md). Nó có tính năng nghệ thuật của [Ted Nasmith](Ted_Nasmith.md) dựa trên *[The Hobbit](The_Hobbit.md)*, *[The Lord of the Rings](The_Lord_of_the_Rings.md)* và *[Unfinished Tales](../U/Unfinished_Tales.md)*.
 
 ## Từ nhà xuất bản {#From_the_publisher}
 
@@ -51,15 +51,15 @@ infobox:
 ## Minh họa {#Illustrations}
 
 - Bìa - "[Thung lũng Hội chợ Rivendell](../../file/T/Ted_Nasmith_-_Fair_Valley_of_Rivendell.jpg.md)"
-- Tháng Giêng - "[Buổi sáng Đồi Xanh](../../file/T/Ted_Nasmith_-_Green_Hill_Morning.jpg.md)"
+- Tháng 1 - "[Buổi sáng đồi xanh](../../file/T/Ted_Nasmith_-_Green_Hill_Morning.jpg.md)"
 - Tháng 2 - "[Cái nhìn cuối cùng về Hobbiton](../../file/T/Ted_Nasmith_-_Last_Sight_of_Hobbiton.jpg.md)"
-- Tháng 3 - "[Những phù thủy xanh hành trình về phương Đông](../../file/T/Ted_Nasmith_-_The_Blue_Wizards_Journeying_East.jpg.md)"
+- Tháng 3 - "[Màu xanh Pháp sư Hành trình phương Đông](../../file/T/Ted_Nasmith_-_The_Blue_Wizards_Journeying_East.jpg.md)"
 - Tháng 4 - "[Rừng Fangorn](../../file/T/Ted_Nasmith_-_Fangorn_Forest.jpg.md)"
 - Tháng 5 - "[Tại Thác](../../file/T/Ted_Nasmith_-_At_the_Falls.jpg.md)"
-- Tháng 6 - "[Đại bàng đến Carrock](../../file/T/Ted_Nasmith_-_Eagles_to_the_Carrock.jpg.md)"
-- Tháng 7 - "[Kỵ sĩ Rohan](../../file/T/Ted_Nasmith_-_The_Riders_of_Rohan.jpg.md)"
+- Tháng 6 - "[Đại Bàng tới Carrock](../../file/T/Ted_Nasmith_-_Eagles_to_the_Carrock.jpg.md)"
+- Tháng 7 - "[Những tay đua của Rohan](../../file/T/Ted_Nasmith_-_The_Riders_of_Rohan.jpg.md)"
 - Tháng 8 - "[Cái nhìn đầu tiên về Ithilien](../../file/T/Ted_Nasmith_-_First_Sight_of_Ithilien.jpg.md)"
-- Tháng 9 - "[Frodo và Haldir ở Lothlórien](../../file/T/Ted_Nasmith_-_Frodo_and_Haldir_in_Lothlorien.jpg.md)"
+- tháng Chín - "[Frodo và Haldir trong Lothlórien](../../file/T/Ted_Nasmith_-_Frodo_and_Haldir_in_Lothlorien.jpg.md)"
 - Tháng 10 - "[Băng qua Gorgoroth](../../file/T/Ted_Nasmith_-_Across_Gorgoroth.jpg.md)"
 - Tháng 11 - "[Không còn đường xuống](../../file/T/Ted_Nasmith_-_No_Way_Down.jpg.md)"
 - Tháng 12 - "[Sự kết thúc của thời đại](../../file/T/Ted_Nasmith_-_The_End_of_the_Age.jpg.md)"
@@ -89,7 +89,7 @@ infobox:
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://tolkiencalendars.com/2010.html" rel="noreferrer noopener" target="_blank">Lịch Tolkien 2010</a> tại <a class="external text" href="http://tolkiencalendars.com/" rel="noreferrer noopener" target="_blank">The Compleat Gyde to Tolkien Calendars</a>
+- <a class="external text" href="http://tolkiencalendars.com/2010.html" rel="noreferrer noopener" target="_blank">Tolkien Lịch 2010</a> tại <a class="external text" href="http://tolkiencalendars.com/" rel="noreferrer noopener" target="_blank">The Complete Gyde to Tolkien Lịch</a>
 
 <table style="margin:0 auto;" class="collapsible toccolours" width="100%" align="center">
 <tbody><tr>

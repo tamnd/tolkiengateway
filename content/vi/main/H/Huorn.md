@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Huorns"
 ---
 
-Chuyển hướng tới [Huorns](Huorns.md).
+Chuyển hướng đến [Huorn](Huorns.md).

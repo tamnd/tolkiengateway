@@ -29,34 +29,34 @@ langlinks:
     url: "https://kontu.wiki/Menelmacar"
 ---
 
-**Menelmacar** ([Sindarin](../S/Sindarin.md). "Menelvagor"), có nghĩa là **Kiếm sĩ của bầu trời**,<sup id="cite_ref-FR|I3_1-0" class="reference"><a href="#cite_note-FR|I3-1">[1]</a></sup> là một trong những [chòm sao](../C/Constellations.md) được [Varda](../V/Varda.md) thiết lập trên thiên đường để soi sáng sự thức tỉnh của [Yêu tinh](../E/Elves.md). Nó được Varda tập hợp từ những ngôi sao cổ xưa, coi như điềm báo về [Trận chiến cuối cùng](../L/Last_Battle.md).<sup id="cite_ref-silm_2-0" class="reference"><a href="#cite_note-silm-2">[2]</a></sup>
+**Menelmacar** ([Sindarin](../S/Sindarin.md). "Menelvagor"), nghĩa là **Kiếm sĩ của bầu trời**,<sup id="cite_ref-FR|I3_1-0" class="reference"><a href="#cite_note-FR|I3-1">[1]</a></sup> là một trong những [chòm sao](../C/Constellations.md) được [Varda](../V/Varda.md) thiết lập trên thiên đường để soi sáng sự thức tỉnh của [Tiên tộc](../E/Elves.md). Nó được Varda tập hợp từ các ngôi sao cổ xưa, được coi là điềm báo về [Trận chiến cuối cùng](../L/Last_Battle.md).<sup id="cite_ref-silm_2-0" class="reference"><a href="#cite_note-silm-2">[2]</a></sup>
 
 ## Lịch sử {#History}
 
-[Frodo](../F/Frodo_Baggins.md) và những người bạn đồng hành của ông đang qua đêm với Yêu tinh trong khu rừng của [Quận](../T/The_Shire.md); Yêu tinh bùng nổ ca hát khi Menelvagor, [Kiếm sĩ của bầu trời](../S/Swordsman_of_the_Sky.md), bay lên bầu trời và bắt đầu thời gian cho bữa tối, bài phát biểu và niềm vui.<sup id="cite_ref-FR|I3_1-1" class="reference"><a href="#cite_note-FR|I3-1">[1]</a></sup>
+[Frodo](../F/Frodo_Baggins.md) và những người bạn đồng hành của ông ta đã qua đêm với Tiên tộc trong khu rừng của [the Shire](../T/The_Shire.md); Tiên tộc vang lên bài hát khi Menelvagor, [Kiếm sĩ của bầu trời](../S/Swordsman_of_the_Sky.md), bay lên bầu trời và bắt đầu thời gian cho bữa tối, bài phát biểu và niềm vui.<sup id="cite_ref-FR|I3_1-1" class="reference"><a href="#cite_note-FR|I3-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Các thành phần của tên [Quenya](../Q/Quenya.md) là: *[menel](Menel.md)*, "thiên đường" và *macar* "kiếm sĩ", do đó là "Thiên kiếm sĩ".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Các thành phần của tên [Quenya](../Q/Quenya.md) là: *[menel](Menel.md)*, "thiên đường" và *macar* "kiếm sĩ", do đó là "Thiên-Kiếm sĩ".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 Cái tên Menelvagor là tên trực tiếp của tên [Quenya](../Q/Quenya.md) Menelmacar của chòm sao, "Kiếm sĩ của bầu trời".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Tên khác {#Other_names}
 
-Menelmacar được gọi là **Menelmakil** trong phần ghi chú cho bài luận của Tolkien [Quendi và Eldar](../Q/Quendi_and_Eldar.md)<sup id="cite_ref-qu_6-0" class="reference"><a href="#cite_note-qu-6">[6]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:359–424</sup> về nguồn gốc tên Tiên dành cho Yêu tinh: ' *Telumehtar* 'chiến binh của bầu trời', tên cũ hơn của *Menelmakil*, Orion'<sup id="cite_ref-qu_6-1" class="reference"><a href="#cite_note-qu-6">[6]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:411, n.15</sup>
+Menelmacar được gọi là **Menelmakil** trong ghi chú cho bài luận của Tolkien [Quendi and Eldar](../Q/Quendi_and_Eldar.md)<sup id="cite_ref-qu_6-0" class="reference"><a href="#cite_note-qu-6">[6]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:359–424</sup> về nguồn gốc của Elvish tên cho Tiên tộc: ' *Telumehtar* 'chiến binh của bầu trời', tên cũ hơn của *Menelmakil*, Orion'<sup id="cite_ref-qu_6-1" class="reference"><a href="#cite_note-qu-6">[6]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:411, n.15</sup>
 
-Trong [Từ nguyên](../T/The_Etymologies.md)<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> từ *makil* được dịch là 'thanh kiếm', trong khi *mahtar* được dịch là 'chiến binh' ( > -*mehtar* trong *Telumehtar*; -*makar* trong *Menelmacar* ). Vì vậy, từ đầy đủ có nghĩa là "Thiên kiếm". Có thể lỗi chính tả *Menelmakil* chỉ là lỗi.
+Trong [The Etymologies](../T/The_Etymologies.md)<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> từ *makil* được dịch là 'thanh kiếm', trong khi *mahtar* được dịch là 'chiến binh' ( > -*mehtar* trong *Telumehtar*; -*makar* trong *Menelmacar* ). Vì vậy, từ đầy đủ có nghĩa là "Thiên kiếm". Có thể lỗi chính tả *Menelmakil* chỉ là lỗi.
 
 **Telumehtar** ([Quenya](../Q/Quenya.md) "Chiến binh bầu trời") là tên khác của chòm sao Menelmacar. Đằng sau cái tên này là một câu chuyện ban đầu về một [Vala](../V/Valar.md) tên là [Telimektar](../T/Telimektar.md), con trai của [Tulkas](../T/Tulkas.md), người dường như đã được chuyển đổi thành chòm sao Orion.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Ngoài câu chuyện về Telimektar còn có hai đề cập đến Chòm sao Telumehtar:
 
-1. Tên được trích dẫn như một ví dụ về cách phát âm của phụ âm /H/ có liên quan đến Orion, được giải thích trong chú thích cuối trang: "thường được gọi trong [Sindarin](../S/Sindarin.md) Menelvagor, --- Q\[uenya\] Menelmacar".<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
+1. Tên được trích dẫn như một ví dụ về cách phát âm của phụ âm /H/ có liên quan đến Orion, được giải thích trong chú thích cuối trang: "thường được gọi ở [Sindarin](../S/Sindarin.md) Menelvagor, --- Q\[uenya\] Menelmacar".<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
 2. Với bản dịch "*Warrior of the Sky*", là tên cũ của Menelmakil, Orion.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
 
 Cái tên Menelvagor có nghĩa là "Kiếm sĩ của bầu trời" cũng được sử dụng.
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Chòm sao Menelvagor chỉ tham gia vào câu chuyện trong những giai đoạn mới nhất trong quá trình sáng tác của nó. Trong các phiên bản trước của bản thảo *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, Yêu tinh bắt đầu hát là 'bông hồng trăng vàng',<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> và trong bản sửa đổi sau đó 'ở phía Đông, vỏ bạc mỏng của Trăng non xuất hiện'<sup id="cite_ref-HM|RS_12-0" class="reference"><a href="#cite_note-HM|RS-12">[12]</a></sup> do tính toán của Tolkien khi xét đến các giai đoạn của Mặt trăng;<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> vẫn có một lỗi: Mặt trăng lẽ ra đã không mọc từ phía Đông vào thời điểm đó trong năm;<sup id="cite_ref-HM|RS_12-1" class="reference"><a href="#cite_note-HM|RS-12">[12]</a></sup> do đó Mặt trăng cuối cùng đã được thay đổi thành sự xuất hiện của Mặt trăng Menelvagor và [ngôi sao](../S/Stars.md) khác.
+Chòm sao Menelvagor chỉ tham gia vào câu chuyện trong những giai đoạn mới nhất trong quá trình sáng tác của nó. Trong các phiên bản trước của bản thảo *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* Tiên tộc bắt đầu hát là 'bông hồng trăng vàng',<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> và trong bản sửa đổi sau đó 'trong phương Đông vỏ bạc mỏng của Mặt Trăng Mới xuất hiện'<sup id="cite_ref-HM|RS_12-0" class="reference"><a href="#cite_note-HM|RS-12">[12]</a></sup> do tính toán của Tolkien xét đến các giai đoạn của Mặt Trăng;<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> vẫn có một lỗi: Mặt Trăng sẽ không trỗi dậy từ phương Đông vào thời điểm đó trong năm;<sup id="cite_ref-HM|RS_12-1" class="reference"><a href="#cite_note-HM|RS-12">[12]</a></sup> do đó Mặt Trăng cuối cùng đã được đổi thành sự xuất hiện của Menelvagor và các [ngôi sao](../S/Stars.md) khác.
 
 ## Cảm hứng {#Inspiration}
 
@@ -64,7 +64,7 @@ Menelmacar được xác định trong thế giới của chúng ta là chòm sa
 
 ## Xem thêm {#See_also}
 
-- [Danh mục:Tên tiếng Sindarin](../../category/S/Sindarin_names.md)
+- [Danh mục:Sindarin tên](../../category/S/Sindarin_names.md)
 - [Telimektar](../T/Telimektar.md)
 
 <span></span>

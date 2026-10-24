@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Hogg, Ian"
 ---
 
-**Ian Hogg** ([Ngày 1 tháng 8](../_/1_August.md), [1937](../_/1937.md)), trước đây thuộc Công ty Royal Shakespeare, đã lồng tiếng cho [Tom Bombadil](../T/Tom_Bombadil.md) trong tập "Những cuộc phiêu lưu của Tom Bombadil" của [1992](../_/1992.md) [*Tales from the Perilous Realm* loạt phim phát thanh](<../T/Tales_from_the_Perilous_Realm_(1992_radio_series).md>).
+**Ian Hogg** ([ngày 1 tháng 8](../_/1_August.md), [1937](../_/1937.md)), trước đây thuộc Công ty Royal Shakespeare, đã lồng tiếng cho [Tom Bombadil](../T/Tom_Bombadil.md) trong tập "The Adventures of Tom Bombadil" của [1992](../_/1992.md) [*Tales from the Perilous Realm* loạt phim phát thanh](<../T/Tales_from_the_Perilous_Realm_(1992_radio_series).md>).
 
 ## Liên kết ngoài {#External_links}
 

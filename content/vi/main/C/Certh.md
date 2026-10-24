@@ -12,11 +12,11 @@ categories:
   - "Sindarin nouns"
 ---
 
-**Certh** là từ [tiếng Sindarin](../S/Sindarin.md) cho *[rune](../R/Runes.md)*. Số nhiều là *[cirth](Cirth.md)*.
+**Certh** là từ [Sindarin](../S/Sindarin.md) cho *[rune](../R/Runes.md)*. Số nhiều là *[cirth](Cirth.md)*.
 
 ## Từ nguyên {#Etymology}
 
-[Cổ Sindarin](../O/Old_Sindarin.md) \**kirta*, root <a class="new" href="https://tolkiengateway.net/w/index.php?title=KIR&amp;action=edit&amp;redlink=1" title="KIR (page does not exist)">KIR</a> "cut"
+[Old Sindarin](../O/Old_Sindarin.md) \**kirta*, root <a class="new" href="https://tolkiengateway.net/w/index.php?title=KIR&amp;action=edit&amp;redlink=1" title="KIR (page does not exist)">KIR</a> "cắt"
 
 ## Xem thêm {#See_also}
 

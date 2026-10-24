@@ -19,7 +19,7 @@ sort_keys:
 
 ## Ví dụ {#Example}
 
-- <i><a href="../A/Aranrúth.md" title="Aranrúth">Aran<b>rút lui</b></a></i> ("King's Ire")<sup id="cite_ref-SApp_1-1" class="reference"><a href="#cite_note-SApp-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- <i><a href="../A/Aranrúth.md" title="Aranrúth">Aran<b>rút lui</b></a></i> ("Vua's Ire")<sup id="cite_ref-SApp_1-1" class="reference"><a href="#cite_note-SApp-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

@@ -16,12 +16,12 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><a href="../F/First_Age.md" title="First Age">I</a><a href="../S/Second_Age.md" title="Second Age">II</a><b>III</b><a href="../F/Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="Third_Age_2570.md" title="Third Age 2570">2570</a><a href="Third_Age_2576.md" title="Third Age 2576">2576</a><a href="Third_Age_2582.md" title="Third Age 2582">2582</a><a class="mw-selflink selflink">2585</a><a href="Third_Age_2588.md" title="Third Age 2588">2588</a><a href="Third_Age_2589.md" title="Third Age 2589">2589</a><a href="Third_Age_2590.md" title="Third Age 2590">2590</a></div></div></div></div></div></div>
 
-**Kỷ thứ ba 2585** (viết tắt là **T.A. 2585**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 2585 của [Kỷ thứ ba](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Thời đại thứ ba 2585 còn được gọi là **S.R. 985** trong [Tính toán quận](../S/Shire-reckoning.md).
+**Kỷ Đệ Tam 2585** (viết tắt là **T.A. 2585**) là năm [thứ 2585 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Tam](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Kỷ Đệ Tam 2585 còn được gọi là **S.R. 985** trong [lịch Shire](../S/Shire-reckoning.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 - Cái chết của [Vua](../K/Kings_of_Durin's_Folk.md) [Náin II](../N/Náin_II.md).<sup id="cite_ref-Durin_1-0" class="reference"><a href="#cite_note-Durin-1">[1]</a></sup>
-- [Dáin I](../D/Dáin_I.md), con trai của Náin II, trở thành Vua của [Dân tộc Durin](../D/Durin's_Folk~15256.md).<sup id="cite_ref-Durin_1-1" class="reference"><a href="#cite_note-Durin-1">[1]</a></sup>
+- [Dáin I](../D/Dáin_I.md), con trai của Náin II, trở thành Vua của [Dân gian Durin](../D/Durin's_Folk~15256.md).<sup id="cite_ref-Durin_1-1" class="reference"><a href="#cite_note-Durin-1">[1]</a></sup>
 
 <span></span>
 

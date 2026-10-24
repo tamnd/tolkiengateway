@@ -13,11 +13,11 @@ categories:
   - "Quenya verbs"
 ---
 
-**ecces** trong [Quenya](../Q/Quenya.md) có nghĩa là "tìm ra, phát hiện bằng cách kiểm tra hoặc để mắt tới\[?\]"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**ecces** trong [Quenya](../Q/Quenya.md) có nghĩa là "tìm ra, phát hiện bằng cách kiểm tra, hoặc để mắt tới\[?\]"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Quenya lớn tuổi hơn và [Vanyarin](../V/Vanyarin.md) *ecceth*.
+Cũ hơn Quenya và [Vanyarin](../V/Vanyarin.md) *ecceth*.
 
 Có thể nó kết hợp *[et](Et.md)* "ngoài" + *[ces](../C/Ces.md)* "tìm kiếm" <span></span>
 

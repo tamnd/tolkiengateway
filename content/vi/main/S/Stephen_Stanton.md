@@ -24,7 +24,7 @@ sort_keys:
 
 - [2006](../_/2006.md): *[The Lord of the Rings: The Battle for Middle-earth II](../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md)* - [Sauron](Sauron.md), Uruk-hai
 - [2004](../_/2004.md): *[The Lord of the Rings: The Battle for Middle-earth](../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth.md)* - Uruk-hai
-- [2003](../_/2003.md): [*The Lord of the Rings: The Return of the King* (video game)](<../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_(video_game).md>) - Chiến binh Uruk-hai
+- [2003](../_/2003.md): [*The Lord of the Rings: The Return of the King* (video game)](<../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_(video_game).md>) - Uruk-hai chiến binh
 
 ## Liên kết ngoài {#External_links}
 

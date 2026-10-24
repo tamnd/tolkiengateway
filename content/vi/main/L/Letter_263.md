@@ -31,7 +31,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien chỉ trích phần chặn trên trang iii của *Tree and Leaf* là rất khó chịu và yêu cầu xem xét lại hoặc bỏ qua nó. Chữ viết không được thực hiện tốt; và cái cây mập mạp, héo úa, không có rễ, cành yếu ớt không phải là thứ mà Niggle có thể vẽ được. Nếu quan điểm và tình cảm của Tolkien trong câu chuyện được tôn trọng thì ông mong muốn có thể tạo ra một thiết kế đồng cảm hơn. <br>
+Tolkien chỉ trích việc chặn ở trang iii của *Tree and Leaf* là rất khó chịu và yêu cầu xem xét lại hoặc bỏ qua. Chữ viết không được thực hiện tốt; và cái cây mập mạp, héo úa, không có rễ, cành yếu ớt không phải là thứ mà Niggle có thể vẽ được. Nếu quan điểm và tình cảm của Tolkien trong câu chuyện được tôn trọng thì anh mong muốn có thể tạo ra một thiết kế đồng cảm hơn. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

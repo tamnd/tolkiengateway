@@ -21,7 +21,7 @@ images:
 
 Vào [28 tháng 1](../_/28_January.md) [1956](../_/1956.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho Doris Elizabeth Sykes**.<sup id="cite_ref-HS_1-0" class="reference"><a href="#cite_note-HS-1">[1]</a></sup><sup id="cite_ref-Christies_2-0" class="reference"><a href="#cite_note-Christies-2">[2]</a></sup>
 
-- **Chủ đề:** Thảo luận về những bức tranh minh họa của Syke lấy cảm hứng từ *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* mà cô gửi cho Tolkien vào [ngày 5 tháng 1](../_/5_January.md) năm 1956.<sup id="cite_ref-HS_1-1" class="reference"><a href="#cite_note-HS-1">[1]</a></sup>
+- **Chủ đề:** Thảo luận về những bức tranh minh họa của Syke lấy cảm hứng từ *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* mà cô đã gửi tới Tolkien vào ngày [5 tháng 1](../_/5_January.md) năm 1956.<sup id="cite_ref-HS_1-1" class="reference"><a href="#cite_note-HS-1">[1]</a></sup>
 - **Mô tả:** Viết tay.<sup id="cite_ref-Christies_2-1" class="reference"><a href="#cite_note-Christies-2">[2]</a></sup>
 - **Xuất bản:** Các trích dẫn từ bức thư và bản sao chép được đưa vào *[Christie's Fine Printed Books and Manuscripts 18 June 2013](../C/Christie's_Fine_Printed_Books_and_Manuscripts_18_June_2013.md)* (tr. 12).<sup id="cite_ref-HS_1-2" class="reference"><a href="#cite_note-HS-1">[1]</a></sup>
 

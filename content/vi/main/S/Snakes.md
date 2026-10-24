@@ -24,7 +24,7 @@ Trong [Quenya](../Q/Quenya.md), "rắn" là *[ango](../A/Ango.md)* hoặc *[lók
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong [Gnomish](../G/Gnomish.md), *lingos* có nghĩa là "rắn" và *ling* có nghĩa là "con rắn nhỏ".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Trong [Gnomish](../G/Gnomish.md), *lingos* có nghĩa là "con rắn" và *ling* có nghĩa là "con rắn nhỏ".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}
 

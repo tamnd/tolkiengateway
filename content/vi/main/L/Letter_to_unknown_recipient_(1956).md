@@ -15,10 +15,10 @@ sort_keys:
   "Letters": "?"
 ---
 
-Trong [1956](../_/1956.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_%2522The_Letters_of_J.R.R._Tolkien%2522.md) cho một người hâm mộ vô danh** (dì của người tìm thấy bức thư) ở <a class="extiw" href="http://en.wikipedia.org/wiki/North_East_England" title="wikipedia:North East England">Đông Bắc nước Anh</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Trong [1956](../_/1956.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một bức thư](Letters_not_published_in_%2522The_Letters_of_J.R.R._Tolkien%2522.md) cho một người hâm mộ vô danh** (dì của người tìm thấy bức thư) ở <a class="extiw" href="http://en.wikipedia.org/wiki/North_East_England" title="wikipedia:North East England">Bắc phương Đông Anh</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 - **Mô tả:** Bức thư viết tay, giải thích một số suy nghĩ đằng sau *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.
-- **Nội dung:** Bức thư của người phụ nữ lạ mặt có thể được viết là *The Lord of the Rings* đã được xuất bản, hỏi tại sao không thể có một cái kết khác. Tolkien đã viết thư trả lời, nói về cốt lõi câu chuyện của mình, nhưng nói thêm: "*Tôi không thể giải thích làm thế nào mà câu chuyện lại phát triển ngoài một cuốn tự truyện*."
+- **Nội dung:** Bức thư của người phụ nữ lạ mặt có thể được viết là *The Lord of the Rings* đã được xuất bản, hỏi tại sao không thể có một cái kết khác. Tolkien đã viết thư trả lời, nói về cốt lõi câu chuyện của mình, nhưng nói thêm: "*Tôi không thể giải thích câu chuyện đã phát triển như thế nào ngoài một cuốn tự truyện*."
 - **Tính xác thực:** Trung bình.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 1]</a></sup>
 - **Xuất bản:** Không có.
 

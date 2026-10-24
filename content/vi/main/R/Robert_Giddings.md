@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Giddings, Robert"
 ---
 
-**Robert Giddings** ([29 tháng 6](../_/29_June.md) [1935](../_/1935.md) - [8 tháng 3](../_/8_March.md) [2012](../_/2012.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>) là Giáo sư tiếng Anh tại <a class="extiw" href="http://en.wikipedia.org/wiki/Bournemouth_University" title="wikipedia:Bournemouth University">Đại học Bournemouth</a>, Vương quốc Anh. Là tác giả và đồng tác giả của nhiều tác phẩm, Giddings cũng viết về [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+**Robert Giddings** ([29 tháng 6](../_/29_June.md) [1935](../_/1935.md) - [8 tháng 3](../_/8_March.md) [2012](../_/2012.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>) là Giáo sư tiếng Anh tại <a class="extiw" href="http://en.wikipedia.org/wiki/Bournemouth_University" title="wikipedia:Bournemouth University">Đại học Bournemouth</a>, Vương quốc Anh. Tác giả và đồng tác giả của nhiều tác phẩm, Giddings cũng viết về [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Thư mục, đã chọn {#Bibliography,_selected}
 

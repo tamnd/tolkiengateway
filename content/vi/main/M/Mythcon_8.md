@@ -33,7 +33,7 @@ infobox:
 **Mythcon 8** là hội nghị [Hiệp hội thần thoại](Mythopoeic_Society.md) thường niên lần thứ tám.
 
 - **Chủ đề:** Những tác phẩm "Ít hơn" của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)
-- **Khách mời danh dự:** [Richard L. Purtill](../R/Richard_L._Purtill.md) (Học giả Inklings và tác giả truyện giả tưởng)
+- **Khách mời danh dự:** [Richard L. Purtill](../R/Richard_L._Purtill.md) (Inklings học giả và tác giả truyện giả tưởng)
 - **Chủ tịch:** Bruce McMenomy
 - **Điều phối viên:** Andy Howard và Sandi Howard
 

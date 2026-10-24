@@ -23,7 +23,7 @@ categories:
 
 ## Xem thêm {#See_also}
 
-- [Tiếng Sindarin](../S/Sindarin.md) *[athrad](../A/Athrad.md)*
+- [Sindarin](../S/Sindarin.md) *[athrad](../A/Athrad.md)*
 - [Quenya](../Q/Quenya.md) *[yatta](../Y/Yatta.md)*
 
 <span></span>

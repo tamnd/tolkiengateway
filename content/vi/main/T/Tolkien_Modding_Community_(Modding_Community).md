@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Modding Community"
 ---
 
-Chuyển hướng tới [Cộng đồng sửa đổi Tolkien](Tolkien_Modding_Community.md).
+Chuyển hướng đến [Tolkien Cộng đồng sửa đổi](Tolkien_Modding_Community.md).

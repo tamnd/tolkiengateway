@@ -29,7 +29,7 @@ Bức thư được lưu giữ tại bộ sưu tập của [Trung tâm Marion E.
 
 ## Tóm tắt {#Summary}
 
-Tolkien trả lời thư của người hâm mộ, thảo luận về nguồn gốc của những cái tên *[orc](../O/Orcs.md)* và *[warg](../W/Wargs.md)*.
+Tolkien trả lời thư của người hâm mộ, thảo luận về nguồn gốc của tên *[orc](../O/Orcs.md)* và *[warg](../W/Wargs.md)*.
 
 ## Phiên âm {#Transcription}
 
@@ -40,7 +40,7 @@ Tolkien trả lời thư của người hâm mộ, thảo luận về nguồn g�
 
 Nội dung bức thư được đánh máy nhưng phần chú thích cuối trang được viết bằng chữ viết.
 
-Bài luận "Lời giới thiệu hay nhất về những ngọn núi", trong đó có phiên âm của bức thư, đã được ông Wolfe đưa vào tuyển tập *[Meditations on Middle-earth](../M/Meditations_on_Middle-earth.md)*, do [Karen Haber](../K/Karen_Haber.md) biên tập, nhưng đã bị từ chối. Tạp chí *Interzone* đã xuất bản bài luận này vào tháng 12 năm 2001 (trong [số 174](../I/Interzone_174.md)). Bài luận cũng có thể được tìm thấy trên <a class="external text" href="http://home.clara.net/andywrobertson/wolfemountains.html" rel="noreferrer noopener" target="_blank">tại đây (liên kết ngoài)</a>.
+Bài luận "Lời giới thiệu hay nhất về Dãy Núi", trong đó có phiên âm của bức thư, đã được ông Wolfe đề nghị đưa vào tuyển tập *[Meditations on Middle-earth](../M/Meditations_on_Middle-earth.md)*, do [Karen Haber](../K/Karen_Haber.md) biên tập, nhưng đã bị từ chối. Tạp chí *Interzone* đã xuất bản bài luận này vào tháng 12 năm 2001 (trong [số 174](../I/Interzone_174.md)). Bài luận cũng có thể được tìm thấy trên <a class="external text" href="http://home.clara.net/andywrobertson/wolfemountains.html" rel="noreferrer noopener" target="_blank">tại đây (liên kết ngoài)</a>.
 
 <span></span>
 

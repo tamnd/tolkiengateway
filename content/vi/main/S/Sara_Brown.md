@@ -24,14 +24,14 @@ images:
 <p class="tg-quote-footer"><cite><a href="../G/Glóin.md" title="Glóin">Glóin</a></cite></p>
 </blockquote></div></div>
 
-**Sara Brown** là học giả Tolkien và là Trưởng khoa Ngôn ngữ & Văn học tại <a class="new" href="https://tolkiengateway.net/w/index.php?title=Signum_University&amp;action=edit&amp;redlink=1" title="Signum University (page does not exist)">Đại học Signum</a>. Cô có bằng Tiến sĩ tại Đại học Salford với luận án mang tên *Từ sự từ chối đến thuật giả kim trong Truyền thuyết Trung Địa của J.R.R. Tolkien*.
+**Sara Brown** là học giả Tolkien và Trưởng khoa Ngôn ngữ & Văn học tại <a class="new" href="https://tolkiengateway.net/w/index.php?title=Signum_University&amp;action=edit&amp;redlink=1" title="Signum University (page does not exist)">Đại học Signum</a>. Cô có bằng Tiến sĩ tại Đại học Salford với luận án có tựa đề *Từ sự từ chối đến thuật giả kim trong J.R.R. Tolkien's Trung Địa Legendarium*.
 
 Cô cũng đồng tổ chức các podcast [Trải nghiệm Tolkien](../T/The_Tolkien_Experience.md) và <a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Rings_of_Power_Wrap-up&amp;action=edit&amp;redlink=1" title="The Rings of Power Wrap-up (page does not exist)">The Rings of Power Wrap-up</a> và phục vụ trong ban biên tập của [Mallorn (tạp chí)](<../M/Mallorn_(journal).md>).
 
 ## Giải thưởng {#Awards}
 
-- [2023](../_/2023.md): **[Giải thưởng của Hiệp hội Tolkien](../T/Tolkien_Society_Awards.md): Bài viết hay nhất**, "'Tất cả những gì lấp lánh không phải là vàng': Chiếc nhẫn quyền lực và sự lừa dối bằng sự so sánh" trong [Mallorn 63](../M/Mallorn_63.md)
-- [2024](../_/2024.md): **[Giải thưởng của Hiệp hội Tolkien](../T/Tolkien_Society_Awards.md): Bài viết hay nhất**, "'Câu chuyện về 'Aldarion và Erendis': Không chỉ là một câu chuyện tình yêu thời Trung cổ' trong [Tạp chí Nghiên cứu Tolkien](../J/Journal_of_Tolkien_Research.md) tập. 18 không. 1
+- [2023](../_/2023.md): **[Giải thưởng của Hội Tolkien](../T/Tolkien_Society_Awards.md): Bài viết hay nhất**, "'Tất cả những gì lấp lánh không phải là vàng': Chiếc nhẫn quyền lực và sự lừa dối của sự so sánh" trong [Mallorn 63](../M/Mallorn_63.md)
+- [2024](../_/2024.md): **[Giải thưởng của Hội Tolkien](../T/Tolkien_Society_Awards.md): Bài viết hay nhất**, "'Câu chuyện về 'Aldarion và Erendis': Không chỉ là chuyện tình thời trung cổ' trong [Journal of Tolkien Research](../J/Journal_of_Tolkien_Research.md) tập. 18 không. 1
 
 ## Liên kết ngoài {#External_links}
 

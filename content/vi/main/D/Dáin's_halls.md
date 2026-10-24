@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dáin's hall"
 ---
 
-Chuyển hướng đến [sảnh của Dáin](Dáin's_hall.md).
+Chuyển hướng tới sảnh của [Dáin](Dáin's_hall.md).

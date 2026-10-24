@@ -39,7 +39,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/P/Parma_Eldalamberon_10.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/c/cb/Parma_Eldalamberon_10.jpg/320px-Parma_Eldalamberon_10.jpg" decoding="async" loading="lazy" width="320" height="435" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/cb/Parma_Eldalamberon_10.jpg/480px-Parma_Eldalamberon_10.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/c/cb/Parma_Eldalamberon_10.jpg/640px-Parma_Eldalamberon_10.jpg 2x" data-file-width="1176" data-file-height="1600"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Parma Eldalamberon 10</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../C/Christopher_Gilson.md" title="Christopher Gilson">Christopher Gilson</a></td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="Patrick_H._Wynne.md" title="Patrick H. Wynne">Patrick H. Wynne</a> (front cover)</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../E/Elvish_Linguistic_Fellowship.md" title="Elvish Linguistic Fellowship">Elvish Linguistic Fellowship</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/1994.md" title="1994">1994</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback journal</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">52</td></tr></tbody></table>
 
-<i><b>Parma Eldalamberon 10</b></i> là số thứ mười của *[Parma Eldalamberon](Parma_Eldalamberon.md)*, một tạp chí nghiên cứu ngôn ngữ học về các ngôn ngữ và tên gọi của người Tiên trong các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
+<i><b>Parma Eldalamberon 10</b></i> là số thứ 10 của *[Parma Eldalamberon](Parma_Eldalamberon.md)*, tạp chí nghiên cứu ngôn ngữ học về các ngôn ngữ Elvish và tên gọi trong các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
 <div class="template-prevnext"><div class="template-prevnext__prev template-prevnext__link"><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/8/81/WikimediaUI-ArrowPrevious-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__content"><div class="template-prevnext__title">Parma Eldalamberon 9</div></div><div class="template-prevnext__linkoverlay"><a href="Parma_Eldalamberon_9.md" title="Parma Eldalamberon 9">Parma Eldalamberon 9</a></div></div><div class="template-prevnext__current"><div class="template-prevnext__content"><div class="template-prevnext__title">Parma Eldalamberon 10</div></div></div><div class="template-prevnext__next template-prevnext__link"><div class="template-prevnext__content"><div class="template-prevnext__title">Parma Eldalamberon 11</div></div><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/7b/WikimediaUI-ArrowNext-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__linkoverlay"><a href="Parma_Eldalamberon_11.md" title="Parma Eldalamberon 11">Parma Eldalamberon 11</a></div></div></div>
 
@@ -49,11 +49,11 @@ infobox:
 - Từ Biên tập viên
 
 - Bài viết
-    - "Bảng chú giải các ngôn ngữ thứ yếu trong 'Từ nguyên'" — [Taum Santoski](../T/Taum_Santoski.md)
-    - "Giới thiệu về phương ngữ Ilkorin" — Lisa Star
+    - "Bảng chú giải các ngôn ngữ thứ yếu trong 'The Etymologies'" — [Taum Santoski](../T/Taum_Santoski.md)
+    - "Giới thiệu về các phương ngữ Ilkorin" — Lisa Star
     - "Hệ thống vụ án Quenya trong các bài viết sau này của J.R.R. Tolkien" — Patrick H. Wynne
 
-- Nghệ thuật: "[Chiếc nhẫn của Barahir](../../file/P/Parma_Eldalamberon_10_page_8.png.md)" — Leonid Korablev
+- Nghệ thuật: "[Chiếc nhẫn Barahir](../../file/P/Parma_Eldalamberon_10_page_8.png.md)" — Leonid Korablev
 - Chữ rune: Thư gửi *Parma*
 - Bìa sau: "[Nuin, Cha của Ngôn luận](<../../file/P/Parma_Eldalamberon_10_(back_cover).png.md>)" — [Tom Loback](../T/Tom_Loback.md)
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Saruman"
 ---
 
-Chuyển hướng tới [Saruman](Saruman.md).
+Chuyển hướng đến [Saruman](Saruman.md).

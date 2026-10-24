@@ -44,11 +44,11 @@ infobox:
 </p>
 1-86950-530-1 (extended edition)</td></tr></tbody></table>
 
-<i><b>Sách hướng dẫn địa điểm Chúa tể của những chiếc nhẫn</b></i> là cuốn sách của [Ian Brodie](../I/Ian_Brodie.md) cung cấp hướng dẫn di chuyển và mẹo tham quan các địa điểm quay phim của loạt phim *[The Lord of the Rings](<The_Lord_of_the_Rings_(film_series).md>)*. Nó có sẵn ở cả dạng sách bỏ túi và kích thước đầy đủ.
+<i><b>The Lord of the Rings Sách hướng dẫn địa điểm</b></i> là cuốn sách của [Ian Brodie](../I/Ian_Brodie.md) cung cấp chỉ đường di chuyển và mẹo tham quan các địa điểm quay phim của loạt phim *[The Lord of the Rings](<The_Lord_of_the_Rings_(film_series).md>)*. Nó có sẵn ở cả dạng sách bỏ túi và kích thước đầy đủ.
 
 ## Phiên bản {#Editions}
 
-*Sách hướng dẫn địa điểm Chúa tể những chiếc nhẫn* đã được phát hành trong một số phiên bản mở rộng liên tiếp:
+*The Lord of the Rings Sách hướng dẫn vị trí* đã được phát hành trong một số phiên bản mở rộng liên tiếp:
 
 - Ấn bản đầu tiên (2002) - chỉ bao gồm các địa điểm quay phim từ *[The Fellowship of the Ring](The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)* và *[The Two Towers](The_Lord_of_the_Rings%253A_The_Two_Towers.md)*.
 - Phiên bản sửa đổi (2003) - mở rộng với các địa điểm quay phim cho *[The Return of the King](The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*.

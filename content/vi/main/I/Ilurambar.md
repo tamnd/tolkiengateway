@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Walls of the World"
 ---
 
-Chuyển hướng đến [Bức tường thế giới](../W/Walls_of_the_World.md).
+Chuyển hướng đến [Những Bức Tường của Thế giới](../W/Walls_of_the_World.md).

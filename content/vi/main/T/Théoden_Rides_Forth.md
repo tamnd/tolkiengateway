@@ -35,4 +35,4 @@ infobox:
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
-**Théoden Rides Forth** là ca khúc thứ mười hai trong đĩa ba của *[The Lord of the Rings: The Two Towers - The Complete Recordings](The_Lord_of_the_Rings%253A_The_Two_Towers_-_The_Complete_Recordings.md)* của [Howard Shore](../H/Howard_Shore.md).
+**Théoden Rides Forth** là bài hát thứ mười hai trong đĩa ba của *[The Lord of the Rings: The Two Towers - The Complete Recordings](The_Lord_of_the_Rings%253A_The_Two_Towers_-_The_Complete_Recordings.md)* của [Howard Shore](../H/Howard_Shore.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ghân-buri-Ghân"
 ---
 
-Chuyển hướng tới [Ghân-buri-Ghân](Ghân-buri-Ghân.md).
+Chuyển hướng đến [Ghân-buri-Ghân](Ghân-buri-Ghân.md).

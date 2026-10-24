@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Gateway:Featured quotes/Nominations"
 ---
 
-Chuyển hướng đến [Cổng Tolkien:Trích dẫn/Đề cử nổi bật](Featured_quotes%252FNominations.md).
+Chuyển hướng đến [Tolkien Gateway:Trích dẫn/Đề cử nổi bật](Featured_quotes%252FNominations.md).

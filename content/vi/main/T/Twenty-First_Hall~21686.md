@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Twenty-first Hall"
 ---
 
-Chuyển hướng tới [Hội trường 21](Twenty-first_Hall.md).
+Chuyển hướng đến [Đại sảnh thứ Hai mươi mốt](Twenty-first_Hall.md).

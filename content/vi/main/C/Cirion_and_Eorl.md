@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Cirion and Eorl and the Friendship of Gondor and Rohan"
 ---
 
-Chuyển hướng tới [Cirion và Eorl cũng như tình bạn của Gondor và Rohan](Cirion_and_Eorl_and_the_Friendship_of_Gondor_and_Rohan.md).
+Chuyển hướng đến [Cirion và Eorl và Tình bạn của Gondor và Rohan](Cirion_and_Eorl_and_the_Friendship_of_Gondor_and_Rohan.md).

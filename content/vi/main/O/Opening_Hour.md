@@ -13,7 +13,7 @@ categories:
   - "Years of the Trees"
 ---
 
-**Giờ khai mạc** là giờ đầu tiên của [Hai cây Valinor](../T/Two_Trees_of_Valinor.md), trong đó [Telperion](../T/Telperion.md) bắt đầu nở hoa lần đầu tiên trước khi [Laurelin](../L/Laurelin.md) tỏa sáng. Giờ Khai mạc không được tính trong câu chuyện về những giờ của [Valar](../V/Valar.md), nhưng là thời điểm mà sự tính toán của họ, [Năm Cây](../Y/Years_of_the_Trees.md), [bắt đầu](../Y/Year_of_the_Trees_1.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Giờ khai mạc** là giờ đầu tiên của [Hai Cây của Valinor](../T/Two_Trees_of_Valinor.md), trong đó [Telperion](../T/Telperion.md) bắt đầu nở hoa lần đầu tiên trước khi [Laurelin](../L/Laurelin.md) tỏa sáng. Giờ Khai mạc không được tính trong câu chuyện về giờ của [Valar](../V/Valar.md), nhưng là thời điểm mà sự tính toán của họ, [Năm của Cây](../Y/Years_of_the_Trees.md), [bắt đầu](../Y/Year_of_the_Trees_1.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

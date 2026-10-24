@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Caranthir"
 ---
 
-Chuyển hướng tới [Caranthir](Caranthir.md).
+Chuyển hướng đến [Caranthir](Caranthir.md).

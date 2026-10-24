@@ -54,7 +54,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/E/EA&#39;s_The_Lord_of_the_Rings-_The_Return_of_the_King_box.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/dc/EA%27s_The_Lord_of_the_Rings-_The_Return_of_the_King_box.jpg/320px-EA%27s_The_Lord_of_the_Rings-_The_Return_of_the_King_box.jpg" decoding="async" loading="lazy" width="320" height="456" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/d/dc/EA%27s_The_Lord_of_the_Rings-_The_Return_of_the_King_box.jpg 1.5x" data-file-width="351" data-file-height="500"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Video game</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Lord of the Rings: The Return of the King</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Details</span></th></tr><tr><th scope="row" class="tg-infobox-label">Developer</th><td class="tg-infobox-data">EA Redwood Shores (PS2 &amp; PC) <br/>Hypnos Entertainment (GC &amp; Xbox)<br/>Griptonite Games (GBA)<br/>JAMDAT (Mobile)<br/>Beenox (Mac)</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../E/Electronic_Arts.md" title="Electronic Arts">Electronic Arts</a><br/>Aspyr (Mac)</td></tr><tr><th scope="row" class="tg-infobox-label">Platform</th><td class="tg-infobox-data"><a class="extiw" href="http://en.wikipedia.org/wiki/Game_Boy_Advance" title="wikipedia:Game Boy Advance">Game Boy Advance</a><br/><a class="extiw" href="http://en.wikipedia.org/wiki/GameCube" title="wikipedia:GameCube">GameCube</a><br/><a class="extiw" href="http://en.wikipedia.org/wiki/OS_X" title="wikipedia:OS X">Mac OS X</a><br/><a class="extiw" href="http://en.wikipedia.org/wiki/Microsoft_Windows" title="wikipedia:Microsoft Windows">Microsoft Windows</a><br/><a class="extiw" href="http://en.wikipedia.org/wiki/Mobile_games" title="wikipedia:Mobile games">Mobile</a><br/><a class="extiw" href="http://en.wikipedia.org/wiki/PlayStation_2" title="wikipedia:PlayStation 2">PlayStation 2</a><br/><a class="extiw" href="http://en.wikipedia.org/wiki/Xbox" title="wikipedia:Xbox">Xbox</a></td></tr><tr><th scope="row" class="tg-infobox-label">Release Date</th><td class="tg-infobox-data"><b>GameCube, PS2:</b><br/>  NA: 5 November 2003<br/>  EUR: 14 November 2003<br/>  JPN: 8 January 2004<br/><b>Xbox:</b><br/>  NA: 5 November 2003<br/>  EUR: 14 November 2003<br/><b>PC:</b><br/>  NA: 31 October 2003<br/>  EUR: 14 November 2003</td></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data">Action</td></tr></tbody></table>
 
-**Chúa tể của những chiếc nhẫn: Sự trở lại của nhà vua** là một trò chơi điện tử hành động của [Electronic Arts](../E/Electronic_Arts.md) phát hành năm 2003, dựa trên [bộ phim cùng tên](The_Lord_of_the_Rings%253A_The_Return_of_the_King.md).
+**The Lord of the Rings: The Return of the King** là một trò chơi điện tử hành động của [Electronic Arts](../E/Electronic_Arts.md) phát hành năm 2003, dựa trên [bộ phim cùng tên](The_Lord_of_the_Rings%253A_The_Return_of_the_King.md).
 
 ## Cách chơi {#Gameplay}
 
@@ -66,7 +66,7 @@ Ngoài ra còn có yếu tố RPG: mỗi nhân vật tích lũy điểm kinh ngh
 
 ### Nhân vật {#Characters}
 
-Trò chơi có tám nhân vật có thể chơi được chia thành ba nhóm: con đường của [Pháp sư](../W/Wizards.md), con đường của Nhà vua và con đường của [Người Hobbit](../H/Hobbits.md). Khi bắt đầu trò chơi chỉ có [Gandalf](../G/Gandalf.md) (con đường của phù thủy); [Aragorn](../A/Aragorn.md), [Legolas](../L/Legolas.md) và [Gimli](../G/Gimli.md) (con đường của Nhà vua); và [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md) (con đường của Người Hobbit) đều có sẵn. Mỗi nhóm có khả năng đặc biệt và bộ cấp độ riêng, nhưng sau khi hoàn thành cấp độ cuối cùng, người chơi có thể chơi bất kỳ cấp độ nào với bất kỳ nhân vật nào. Hoàn thành cấp độ cuối cùng cũng sẽ mở khóa ba nhân vật cuối cùng: [Merry](../M/Meriadoc_Brandybuck.md), [Pippin](../P/Peregrin_Took.md) và [Faramir](../F/Faramir.md).
+Trò chơi có tám nhân vật có thể chơi được chia thành ba nhóm: đường dẫn của [Pháp sư](../W/Wizards.md), đường dẫn của Vua và đường dẫn của [Hobbit](../H/Hobbits.md). Khi bắt đầu trò chơi chỉ có [Gandalf](../G/Gandalf.md) (đường dẫn của thuật sĩ); [Aragorn](../A/Aragorn.md), [Legolas](../L/Legolas.md) và [Gimli](../G/Gimli.md) (đường dẫn của Vua); và [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md) (đường dẫn của Hobbit) đều có sẵn. Mỗi nhóm có khả năng đặc biệt và bộ cấp độ riêng, nhưng sau khi hoàn thành cấp độ cuối cùng, người chơi có thể chơi bất kỳ cấp độ nào với bất kỳ nhân vật nào. Hoàn thành cấp độ cuối cùng cũng sẽ mở khóa ba ký tự cuối cùng: [Merry](../M/Meriadoc_Brandybuck.md), [Pippin](../P/Peregrin_Took.md) và [Faramir](../F/Faramir.md).
 
 ## Truyền {#Cast}
 
@@ -160,21 +160,21 @@ Dàn diễn viên không được xác định theo vai diễn, ngoại trừ nh
 
 ## Tóm tắt cấp độ {#Level_Summaries}
 
-### Con đường của Pháp sư (chỉ Gandalf) {#Path_of_the_Wizard_(Gandalf_only)}
+### Đường dẫn của Pháp sư (chỉGandalf) {#Path_of_the_Wizard_(Gandalf_only)}
 
 <h4><span id="Helm.27s_Deep"></span><span class="mw-headline" id="Helm&#39;s_Deep">Helm&#39;s Deep</span></h4>
 
-Người chơi phải đánh bại Uruk-hai tại Helm's Deep. Đây là cấp độ hướng dẫn, trong đó người chơi có thể thử nghiệm các động tác khác nhau mà trò chơi cung cấp. Cấp độ kết thúc khi người chơi phá hủy một xe chở thuốc nổ trên đường đắp cao bằng ba máy bắn đá, đẩy quân Uruk ra khỏi Helm's Deep.
+Người chơi phải đánh bại Uruk-hai ở Helm's Deep. Đây là cấp độ hướng dẫn, trong đó người chơi có thể thử nghiệm các động tác khác nhau mà trò chơi cung cấp. Cấp độ kết thúc khi người chơi phá hủy một xe chở thuốc nổ trên đường đắp cao bằng ba máy bắn đá, đẩy quân Uruk ra khỏi Helm's Deep.
 
 **Thất bại như thế nào:** Người chơi chết.
 
-#### Đường tới Isengard {#Road_to_Isengard}
+#### Đường vào Isengard {#Road_to_Isengard}
 
-Người chơi đuổi theo lũ Orc và Uruk-hai xuyên qua rừng Fangorn. Tại một thời điểm, người chơi phải tiêu diệt 75 kẻ thù cùng với Ent để tiếp tục. Sau khi đi theo con đường, họ sẽ đến Đập Isengard. Sau đó, người chơi phải bảo vệ Ent khỏi các cung thủ Orc bằng cách giết chúng và để Ent phá vỡ con đập. Cấp độ kết thúc khi con đập bị phá hủy.
+Người chơi truy đuổi lũ Orc và Uruk-hai xuyên qua khu rừng Fangorn. Tại một thời điểm, người chơi phải tiêu diệt 75 kẻ thù cùng với Ent để tiếp tục. Sau khi đi theo con đường, họ sẽ đến Đập Isengard. Sau đó, người chơi phải bảo vệ Ent khỏi các cung thủ Orc bằng cách giết chúng và để Ent phá vỡ con đập. Cấp độ kết thúc khi con đập bị phá hủy.
 
 **Thất bại như thế nào:** Người chơi chết.
 
-#### Minas Tirith - Đỉnh tường {#Minas_Tirith_-_Top_of_the_Wall}
+#### Minas Tirith - Đỉnh Tường {#Minas_Tirith_-_Top_of_the_Wall}
 
 Người chơi phải di chuyển lên xuống các bức tường của Minas Tirith, đánh sập các thang bao vây (sử dụng nút O) và tiêu diệt bất kỳ kẻ thù nào trên đỉnh bức tường. Ông ta luôn phải đảm bảo rằng đồng hồ vượt mức càng thấp càng tốt, bởi vì người chơi sẽ thất bại nếu có quá nhiều kẻ thù bám trên tường. Thỉnh thoảng, các tháp bao vây sẽ xuất hiện và người chơi phải bắn máy phóng vào (chỉ các tháp bên trái) hoặc bắn trực tiếp. Khi người chơi phá hủy tháp bao vây thứ tư (tháp này sẽ đáp xuống tường bất kể thế nào), một đoạn cắt cảnh sẽ hiển thị những kẻ troll sử dụng Grond. Cấp độ kết thúc khi người chơi đi xuống cầu thang xuống sân.
 
@@ -182,49 +182,49 @@ Người chơi phải di chuyển lên xuống các bức tường của Minas T
 
 #### Minas Tirith - Sân {#Minas_Tirith_-_Courtyard}
 
-Các cánh cổng đã bị phá vỡ và giờ đây người chơi phải đánh bại làn sóng kẻ thù đang tràn qua cánh cổng bị hỏng, chỉ có một số binh lính Gondor giúp đỡ. Mục tiêu chính của anh là cứu người dân Minas Tirith khỏi lũ Orc. Khi 150 người được cứu, những con quỷ khổng lồ sẽ gia nhập hàng ngũ. Cấp độ kết thúc khi 200 người được cứu.
+Các cánh cổng đã bị phá vỡ và giờ đây người chơi phải đánh bại làn sóng kẻ thù đang tràn qua cánh cổng bị phá vỡ, chỉ với một vài binh sĩ Gondor trợ giúp. Mục tiêu chính của anh là cứu người dân Minas Tirith khỏi lũ Orc. Khi 150 người được cứu, những con quỷ khổng lồ sẽ gia nhập hàng ngũ. Cấp độ kết thúc khi 200 người được cứu.
 
 **Thất bại như thế nào:** Người chơi chết.
 
-### Con đường của nhà vua (Aragorn, Legolas hoặc Gimli) {#Path_of_the_King_(Aragorn,_Legolas,_or_Gimli)}
+### Đường dẫn của Vua (Aragorn, Legolas hoặc Gimli) {#Path_of_the_King_(Aragorn,_Legolas,_or_Gimli)}
 
 #### Con đường của người chết {#Paths_of_the_Dead}
 
-Người chơi, trong vai Aragorn, Legolas hoặc Gimli, phải tìm đường đến trung tâm ngọn núi Dwimorberg thông qua [Con đường của người chết](../P/Paths_of_the_Dead.md) để kêu gọi [Những người chết của Dunharrow](../D/Dead_Men_of_Dunharrow.md) chiến đấu vì Gondor. Trên khắp các con đường, họ phải chiến đấu với những bóng ma sẽ tìm cách giết họ. Cũng có lúc cả ba bị mắc kẹt và phải đánh bại 35 bóng ma trước khi chúng có thể đi tiếp. Cấp độ kết thúc khi người chơi đi đến cuối Con đường của người chết.
+Người chơi, với tư cách là Aragorn, Legolas hoặc Gimli, phải tìm đường đến trung tâm ngọn núi Dwimorberg thông qua [Con đường của Người chết](../P/Paths_of_the_Dead.md), để gọi [Người chết Con Người của Dunharrow](../D/Dead_Men_of_Dunharrow.md) để chiến đấu vì Gondor. Trên khắp các con đường, họ phải chiến đấu với những bóng ma sẽ tìm cách giết họ. Cũng có lúc cả ba bị mắc kẹt và phải đánh bại 35 bóng ma trước khi chúng có thể đi tiếp. Cấp độ kết thúc khi người chơi đi đến cuối Con đường của người chết.
 
 **Thất bại như thế nào:** Người chơi chết.
 
-#### Vua Tử Thần {#King_of_the_Dead}
+#### Vua của Người Chết {#King_of_the_Dead}
 
-Người chơi bây giờ phải một mình chiến đấu với Vua của Người chết. Nhà vua tấn công bằng đòn tấn công ba đòn hoặc bằng cách gọi binh lính chết. Sau khi cạn kiệt khoảng một nửa sức khỏe, ông ta bắt đầu thổi một luồng gió cực mạnh vào người chơi (người phải cúi xuống sau những tảng đá) và đòn tấn công ba đòn của ông ta trở thành đòn tấn công năm đòn. Sau khi Nhà vua bị đánh bại, người chơi phải thoát khỏi ngọn núi đang sụp đổ và đánh bại bất kỳ bóng ma nào trên đường đi của mình.
+Bây giờ người chơi phải một mình chiến đấu với Vua của Người chết. Vua tấn công bằng đòn tấn công ba đòn hoặc bằng cách triệu hồi binh lính chết. Sau khi cạn kiệt khoảng một nửa sức khỏe, ông ta bắt đầu thổi một luồng gió cực mạnh vào người chơi (người phải cúi xuống sau những tảng đá) và đòn tấn công ba đòn của ông ta trở thành đòn tấn công năm đòn. Sau khi Vua bị đánh bại, người chơi phải thoát khỏi ngọn núi đang sụp đổ và đánh bại bất kỳ bóng ma nào trên đường đi của mình.
 
 **Thất bại như thế nào:** Người chơi chết hoặc hang động đổ sập vào người chơi.
 
 #### Cổng phía Nam {#The_Southern_Gate}
 
-Người chơi phải vượt qua cổng phía Nam để giúp đỡ người Rohirrim trong [Trận chiến trên cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md). Tuy nhiên, thật không may, ông ta phải chiến đấu chống lại hàng trăm Uruk và Orc đang phục kích. Hai con quỷ lùn cũng đang rình rập. Người chơi phải bắn ba máy phóng, hai máy vào tháp và một máy vào con troll để lên đến đỉnh cổng. Sau khi đánh bại con quỷ khổng lồ ở trên đỉnh, ông ta phải tiêu diệt [Mumak](../M/Mûmak.md) bằng cách bắn vào áo giáp của nó và cho nổ tung nó. Sau đó ông ta phải mở cổng. Cấp độ kết thúc khi người chơi sống sót qua được cổng.
+Người chơi phải vượt qua cổng phía Nam để giúp đỡ Rohirrim tại [Trận chiến trên Cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md). Tuy nhiên, thật không may, ông ta phải chiến đấu chống lại hàng trăm Uruk và Orc đang phục kích. Hai con quỷ lùn cũng đang rình rập. Người chơi phải bắn ba máy phóng, hai máy vào tháp và một máy vào con troll để lên đến đỉnh cổng. Sau khi đánh bại con quỷ khổng lồ ở trên đỉnh, ông ta phải tiêu diệt [Mumak](../M/Mûmak.md) bằng cách bắn vào áo giáp của nó và cho nổ tung nó. Sau đó ông ta phải mở cổng. Cấp độ kết thúc khi người chơi sống sót qua được cổng.
 
 **Thất bại như thế nào:** Người chơi chết.
 
-#### Trường Pelennor {#Pelennor_Fields}
+#### cánh đồng Pelennor {#Pelennor_Fields}
 
-Người chơi ngay lập tức được đưa vào trận chiến toàn diện chiến đấu với nhiều [Easterlings](../E/Easterlings.md) và [Uruks](../U/Uruk.md) cùng với [Rohirrim](../R/Rohirrim.md). Họ phải chiến đấu cho đến khi 60 kẻ thù bị tiêu diệt. Sau đó, [Merry](../M/Meriadoc_Brandybuck.md) và [Éowyn](../_/Éowyn.md) sẽ tham gia cuộc chiến. [Mumakil](../M/Mumakil.md) cũng sẽ tham gia chiến trường. Người chơi phải tiêu diệt Mumakil đang đến tìm Éowyn và Merry (Mumak sẽ tự động giết họ nếu nó đến đó và nhiệm vụ sẽ thất bại) bằng cách phá hủy áo giáp của nó và cho nổ tung nó trước khi quá muộn. Theo định kỳ, [Vua phù thủy](../W/Witch-king.md) sẽ cưỡi [Thú vật ngã](../F/Fell_Beast~21258.md) của mình để tấn công Merry và Éowyn. Người chơi phải bắn Vua phù thủy cho đến khi nó bay đi. Quá trình này sẽ lặp lại cho đến khi Quái vật sa ngã của Vua phù thủy bị giết. Éowyn sẽ giết ông ta, và người chết sẽ đến để tiêu diệt đội quân tà ác.
+Người chơi ngay lập tức được đưa vào trận chiến toàn diện chiến đấu với nhiều [Easterlings](../E/Easterlings.md) và [Uruks](../U/Uruk.md) cùng với [Rohirrim](../R/Rohirrim.md). Họ phải chiến đấu cho đến khi 60 kẻ thù bị tiêu diệt. Sau đó, [Merry](../M/Meriadoc_Brandybuck.md) và [Éowyn](../_/Éowyn.md) sẽ tham gia cuộc chiến. [Mumakil](../M/Mumakil.md) cũng sẽ tham gia chiến trường. Người chơi phải tiêu diệt Mumakil đang đến tìm Éowyn và Merry (Mumak sẽ tự động giết họ nếu nó đến đó và nhiệm vụ sẽ thất bại) bằng cách phá hủy áo giáp của nó và cho nổ tung nó trước khi quá muộn. Theo định kỳ, [Vua Phù thủy](../W/Witch-king.md) sẽ cưỡi [Thú vật ngã](../F/Fell_Beast~21258.md) của mình xuống để tấn công Merry và Éowyn. Người chơi phải bắn Vua Phù thủy cho đến khi nó bay đi. Quá trình này sẽ lặp lại cho đến khi Fell Beast của Vua Phù thủy bị tiêu diệt. Éowyn sẽ giết chết ông ta, và người chết sẽ đến tiêu diệt đội quân tà ác.
 
-**Cách thất bại:** Người chơi chết, Vua phù thủy giết Éowyn và Merry hoặc một Mumak nghiền nát họ.
+**Cách thất bại:** Người chơi chết, Vua Phù thủy giết Éowyn và Merry hoặc Mumak nghiền nát họ.
 
-#### Cổng đen {#The_Black_Gate}
+#### Cái Cổng Đen {#The_Black_Gate}
 
-Cấp độ bắt đầu với việc người chơi đối mặt với [Miệng Sauron](../M/Mouth_of_Sauron.md). Sau khi Người chơi giết Mouth, lũ Orc sẽ tràn ra từ Cổng Đen, với ý định tiêu diệt quân đội của các dân tộc tự do. Người chơi phải tiêu diệt mọi kẻ thù lọt vào đống đổ nát trong khi bảo vệ những người còn lại trong Hội (các thành viên khác sẽ lấy lại sức khỏe khi bạn ở bên cạnh họ). Mục tiêu là tiêu diệt 6 tướng, nhưng kẻ thù sẽ đến từ hai bên cũng như phía trước sau khi 3 tướng đã bị tiêu diệt. Sau khi 6 nhà vô địch bị tiêu diệt, ba [Quỷ Nhẫn](../N/Nazgûl.md) sẽ đến để giết người chơi và các thành viên của Hiệp hội. Cấp độ kết thúc khi ba Ma Nhẫn bị tiêu diệt.
+Cấp độ bắt đầu với việc người chơi đối mặt với [Miệng của Sauron](../M/Mouth_of_Sauron.md). Sau khi Người chơi giết Mouth, lũ Orc sẽ xuất hiện từ Cổng Đen với mục đích tiêu diệt quân đội của các dân tộc tự do. Người chơi phải tiêu diệt mọi kẻ thù lọt vào đống đổ nát trong khi bảo vệ những người còn lại trong Hội (các thành viên khác sẽ lấy lại sức khỏe khi bạn ở bên cạnh họ). Mục tiêu là tiêu diệt 6 tướng, nhưng kẻ thù sẽ đến từ hai bên cũng như phía trước sau khi 3 tướng đã bị tiêu diệt. Sau khi 6 nhà vô địch bị tiêu diệt, ba [Nazgûl](../N/Nazgûl.md) sẽ đến để giết người chơi và các thành viên của Hiệp hội. Cấp độ kết thúc khi ba Nazgûl bị tiêu diệt.
 
 **Cách thất bại:** Người chơi chết hoặc bất kỳ thành viên nào khác của Hiệp hội chết.
 
-### Con đường của người Hobbit (Sam, Frodo) {#The_Path_of_the_Hobbits_(Sam,_Frodo)}
+### Đường dẫn của Hobbit (Sam, Frodo) {#The_Path_of_the_Hobbits_(Sam,_Frodo)}
 
 #### Thoát khỏi Osgiliath {#Escape_from_Osgiliath}
 
-Người chơi phải tìm đường vượt qua thành phố [Osgiliath](../O/Osgiliath.md) bị bao vây và trốn thoát qua hệ thống cống rãnh. Lũ Orc ở khắp mọi nơi và Nazgul không ngừng tìm kiếm chiếc Nhẫn. Người chơi phải chiến đấu để vượt qua Osgiliath và ẩn nấp hoặc rời khỏi mái nhà càng nhanh càng tốt khi các Ma Nhẫn đang tìm kiếm. Cấp độ kết thúc khi người chơi đánh bại nhà vô địch Orc đóng quân gần lối ra cống và thoát khỏi thành phố.
+Người chơi phải vượt qua thành phố [Osgiliath](../O/Osgiliath.md) bị bao vây và trốn thoát qua hệ thống cống rãnh. Orc có mặt ở khắp mọi nơi và Nazgul không ngừng tìm kiếm Chiếc Nhẫn. Người chơi phải chiến đấu để vượt qua Osgiliath và ẩn nấp hoặc rời khỏi mái nhà càng nhanh càng tốt khi Nazgûl đang tìm kiếm. Cấp độ kết thúc khi người chơi đánh bại nhà vô địch Orc đóng quân gần lối ra cống và thoát khỏi thành phố.
 
-**Cách thất bại:** Người chơi chết hoặc Nazgul bắt Frodo.
+**Cách thất bại:** Người chơi chết hoặc bị Nazgul bắt Frodo.
 
 <h4><span id="Shelob.27s_Lair"></span><span class="mw-headline" id="Shelob&#39;s_Lair">Shelob&#39;s Lair</span></h4>
 
@@ -232,7 +232,7 @@ Cấp độ này được chia thành ba cấp độ, mỗi cấp độ được
 
 <dl><dt>The first part</dt></dl>
 
-Phần đầu tiên là một mê cung khổng lồ, có rất ít con đường dẫn đến đúng vị trí. Mặc dù một số con đường sẽ dẫn đến đá thưởng EXP, nhưng chúng cũng chứa các cuộc phục kích của nhện. Một vài con Orc cũng sống trong hang ổ. Mục tiêu cơ bản của người chơi trong màn này là đến được một cây cầu hình vòm khổng lồ, nơi có trạm kiểm soát sẽ báo hiệu sự kết thúc.
+Phần đầu tiên là một mê cung khổng lồ, có rất ít con đường dẫn đến đúng vị trí. Mặc dù một số con đường sẽ dẫn đến đá thưởng EXP, nhưng chúng cũng chứa các cuộc phục kích của nhện. Một vài con Orc cũng trú ngụ trong hang ổ. Mục tiêu cơ bản của người chơi trong màn này là đến được một cây cầu hình vòm khổng lồ, nơi có trạm kiểm soát sẽ báo hiệu sự kết thúc.
 
 <dl><dt>The second part</dt></dl>
 
@@ -252,9 +252,9 @@ Phần thứ hai là trận đấu trùm ngắn với Gorbag. Ban đầu, ngư�
 
 **Cách thất bại:** Người chơi chết hoặc người chơi rơi ở cây cầu dẫn đến phần thứ hai của màn chơi.
 
-#### Vết nứt diệt vong {#Crack_of_Doom}
+#### Crack of Doom {#Crack_of_Doom}
 
-Cấp độ này về cơ bản là một trận đấu trùm: Sam và Frodo chống lại Gollum. Gollum chỉ có các đòn tấn công cận chiến, nhưng đòn tấn công vuốt và nhảy của hắn có thể khá nguy hiểm nếu không kịp phòng thủ. Để gây sát thương cho Gollum, người chơi phải dụ ông ta đến rìa của bục, chém ông ta, hạ gục ông ta bằng đòn tấn công O và kết thúc combo bằng một chiêu thức giết chóc. (Lưu ý: Điều này tương tự như chiêu thức Phán xét cuối cùng.) Người chơi phải sử dụng quy trình này tổng cộng sáu lần; mỗi lần, lại có thêm chướng ngại vật như đá rơi và dung nham chảy ra trên nền tảng. Sau khi hoàn thành combo tiêu diệt Gollum thứ sáu, Gollum rơi xuống dung nham và Chiếc nhẫn bị phá hủy.
+Cấp độ này về cơ bản là một trận đấu trùm: đó là Sam và Frodo chống lại Gollum. Gollum chỉ có các đòn tấn công cận chiến, nhưng các đòn tấn công vuốt và nhảy của ông ta có thể khá nguy hiểm nếu không kịp phòng thủ. Để gây sát thương Gollum, người chơi phải dụ ông ta đến rìa của bục, chém ông ta, hạ gục ông ta bằng đòn tấn công O và kết thúc combo bằng một chiêu thức kết liễu. (Lưu ý: Điều này tương tự như chiêu thức Phán xét cuối cùng.) Người chơi phải sử dụng quy trình này tổng cộng sáu lần; mỗi lần, lại có thêm chướng ngại vật như đá rơi và dung nham chảy ra trên nền tảng. Sau khi hoàn thành combo tiêu diệt Gollum thứ sáu, Gollum rơi xuống dung nham và Chiếc nhẫn bị phá hủy.
 
 **Thất bại như thế nào:** Người chơi chết.
 
@@ -267,7 +267,7 @@ Cấp độ này về cơ bản là một trận đấu trùm: Sam và Frodo ch�
 - [Phỏng vấn Andy Serkis](../A/Andy_Serkis.md) (Phỏng vấn thưởng)
 - [David Wenham](../D/David_Wenham.md) phỏng vấn (Phỏng vấn thưởng)
 - [Faramir](../F/Faramir.md) (Nhân vật thưởng)
-- [Chúc mừng](../M/Meriadoc_Brandybuck.md) (Nhân vật thưởng)
+- [Merry](../M/Meriadoc_Brandybuck.md) (Nhân vật thưởng)
 - [Pippin](../P/Peregrin_Took.md) (Nhân vật thưởng)
 - mã bí mật
 

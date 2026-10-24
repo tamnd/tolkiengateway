@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Middle-earth Role Playing (boxed set)"
 ---
 
-Chuyển hướng tới [Nhập vai ở Trung Địa (bộ đóng hộp)](<Middle-earth_Role_Playing_(boxed_set).md>).
+Chuyển hướng đến [Middle-earth Role Playing (bộ đóng hộp)](<Middle-earth_Role_Playing_(boxed_set).md>).

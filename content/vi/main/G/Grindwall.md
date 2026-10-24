@@ -24,7 +24,7 @@ images:
 
 **Grindwall** là một hythe (hạ cánh) nhỏ ở bờ bắc của [Withywindle](../W/Withywindle.md). Nó được canh gác và bảo vệ cẩn thận bởi *grind* hoặc hàng rào kéo dài xuống nước vì nó nằm ngoài [High Hay](../H/High_Hay.md). Trên vùng đất nhô cao phía sau hythe là ngôi làng [Breredon](../B/Breredon.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Trong một bài thơ hobbit [Tom Bombadil](../T/Tom_Bombadil.md) đã để chiếc thuyền sò của mình ở đó trên đường đến [Marish](../M/Marish.md). Sau khi đến thăm [Nông dân Maggot](../F/Farmer_Maggot.md), ông ta biến mất và con thuyền ở đó trong ba ngày. [Người Hobbit ở Quận](../S/Shire-hobbits.md) nói rằng rái cá đã đến để lấy nó dọc theo Withywindle và cùng với những động vật khác kéo nó lên lạch Tom; tuy nhiên họ đã quên mất mái chèo phía sau và "Họ đã nằm rất lâu ở Grindwall hy vọng Tom đến tìm họ".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
+Trong một bài thơ của người hobbit [Tom Bombadil](../T/Tom_Bombadil.md) đã để chiếc thuyền sò của mình ở đó trên đường đến [Marish](../M/Marish.md). Sau khi thăm [Farmer Maggot](../F/Farmer_Maggot.md), ông ta biến mất và con thuyền ở đó ba ngày. [Shire-hobbit](../S/Shire-hobbits.md) nói rằng rái cá đã đến lấy nó dọc theo Withywindle và cùng với những động vật khác kéo nó lên lạch Tom; tuy nhiên họ đã quên mất mái chèo phía sau và "Họ đã nằm rất lâu ở Grindwall hy vọng Tom đến tìm họ".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

@@ -23,11 +23,11 @@ images:
   - "Disambig.png"
 ---
 
-**Dốc dưới** có thể đề cập đến:
+**Underhill** có thể đề cập đến:
 
-- [Ông. Underhill](../M/Mr._Underhill.md), bí danh [Frodo Baggins](../F/Frodo_Baggins.md) được sử dụng khi du hành tới [Bree](../B/Bree.md).
-- [Gia đình Underhill](Underhill_Family.md), một gia đình [Bree-hobbit](../B/Bree-hobbits.md) sống ở [Staddle](../S/Staddle.md).
-- [Underhill (ngôi nhà)](<Underhill_(house).md>), ngôi nhà của [Tom Bombadil](../T/Tom_Bombadil.md).
+- [Ông. Underhill](../M/Mr._Underhill.md), bí danh [Frodo Baggins](../F/Frodo_Baggins.md) đã được sử dụng khi đi đến [Bree](../B/Bree.md).
+- [Underhill Gia đình](Underhill_Family.md), một gia đình gồm [Bree-hobbit](../B/Bree-hobbits.md) sống ở [Staddle](../S/Staddle.md).
+- [Underhill(ngôi nhà)](<Underhill_(house).md>), ngôi nhà của [Tom Bombadil](../T/Tom_Bombadil.md).
 - [Underhill (Hobbiton)](<Underhill_(Hobbiton).md>), một khu phố ở [Hobbiton](../H/Hobbiton.md).
 
 <hr style="margin-top:15px;"/>

@@ -40,7 +40,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>David Weatherly</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Lifetime</th><td class="tg-infobox-data"><a href="../_/1_March.md" title="1 March">March 1</a>, <a href="../_/1939.md" title="1939">1939</a> - <a href="../_/12_December.md" title="12 December">12 December</a> <a href="../_/2024.md" title="2024">2024</a></td></tr><tr><th scope="row" class="tg-infobox-label">Portrayed</th><td class="tg-infobox-data"><a href="../B/Barliman_Butterbur.md" title="Barliman Butterbur">Barliman Butterbur</a> in:<br/><a href="../T/The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings</i> (film series)</a></td></tr><tr><th scope="row" class="tg-infobox-label">IMDb</th><td class="tg-infobox-data"><a class="external text" href="https://www.imdb.com/name/nm0915750/" rel="noreferrer noopener" target="_blank">Profile</a></td></tr></tbody></table>
 
-**David John Weatherley** (1939-2024) là một diễn viên người New Zealand gốc Anh. Ông đã chơi [Barliman Butterbur](../B/Barliman_Butterbur.md) trong *[The Lord of the Rings: The Fellowship of the Ring](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)*.
+**David John Weatherley** (1939-2024) là một diễn viên New Zealand sinh ra ở Anh. Ông đã chơi [Barliman Butterbur](../B/Barliman_Butterbur.md) trong *[The Lord of the Rings: The Fellowship of the Ring](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)*.
 
 ## Liên kết ngoài {#External_links}
 

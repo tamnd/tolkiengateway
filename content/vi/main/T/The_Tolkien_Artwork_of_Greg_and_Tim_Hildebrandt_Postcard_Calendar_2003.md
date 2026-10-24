@@ -18,7 +18,7 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Tolkien_Artwork_of_Greg_and_Tim_Hildebrandt_Postcard_Calendar_2003.jpg.md"><img src="https://tolkiengateway.net/w/images/f/f1/The_Tolkien_Artwork_of_Greg_and_Tim_Hildebrandt_Postcard_Calendar_2003.jpg" decoding="async" loading="lazy" width="251" height="350" class="mw-file-element" data-file-width="251" data-file-height="350"/></a><figcaption></figcaption></figure>
 
-**Tác phẩm nghệ thuật Tolkien của Lịch bưu thiếp Greg và Tim Hildebrandt 2003** do Ronnie Sellers Productions, Inc. sản xuất và có hình minh họa của [Brothers Hildebrandt](../B/Brothers_Hildebrandt.md).
+**Tác phẩm Tolkien Tác phẩm nghệ thuật của Lịch Bưu thiếp Greg và Tim Hildebrandt 2003** do Ronnie Sellers Productions, Inc. sản xuất và có hình minh họa của [Brothers Hildebrandt](../B/Brothers_Hildebrandt.md).
 
 - <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/1569064717">ISBN 1-56906-471-7</a>.
 - Kích thước: 6 x 8 inch

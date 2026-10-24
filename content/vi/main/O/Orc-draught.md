@@ -20,11 +20,11 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/I/Irvin_Rodriguez_-_Orcish_Medicine.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/65/Irvin_Rodriguez_-_Orcish_Medicine.jpg/250px-Irvin_Rodriguez_-_Orcish_Medicine.jpg" decoding="async" loading="lazy" width="250" height="195" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/65/Irvin_Rodriguez_-_Orcish_Medicine.jpg/375px-Irvin_Rodriguez_-_Orcish_Medicine.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/6/65/Irvin_Rodriguez_-_Orcish_Medicine.jpg/500px-Irvin_Rodriguez_-_Orcish_Medicine.jpg 2x" data-file-width="4000" data-file-height="3126"/></a><figcaption><i>Orcrish Medicine</i> by <a href="../../category/I/Images_by_Irvin_Rodriguez.md" title="Category:Images by Irvin Rodriguez">Irvin Rodriguez</a></figcaption></figure>
 
-**Orc-daught**<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> là một chất lỏng cháy nhưng sảng khoái, được nạp cưỡng bức từ bình vào [Meriadoc Brandybuck](../M/Meriadoc_Brandybuck.md) và [Peregrin Took](../P/Peregrin_Took.md) bởi [Uruk](../U/Uruk-hai.md) [Uglúk](../U/Uglúk.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+**Orc-daught**<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> là một chất lỏng cháy nhưng sảng khoái, được nạp cưỡng bức từ bình đến [Meriadoc Brandybuck](../M/Meriadoc_Brandybuck.md) và [Peregrin Took](../P/Peregrin_Took.md) bởi [Uruk](../U/Uruk-hai.md) [Uglúk](../U/Uglúk.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong bản phác thảo trước đó, [Frodo Baggins](../F/Frodo_Baggins.md) được cho là đã hồi phục trí thông minh của mình ở [Tháp Cirith Ungol](../T/Tower_of_Cirith_Ungol.md) sau vết chích của [Shelob](../S/Shelob.md) do [Orc](Orcs.md) đưa cho ông ta một bản phác thảo để chống lại chất độc.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Trong bản phác thảo trước đó, [Frodo Baggins](../F/Frodo_Baggins.md) được cho là đã lấy lại được trí thông minh của mình trong [ Tháp Cirith Ungol](../T/Tower_of_Cirith_Ungol.md) sau vết chích của [Shelob](../S/Shelob.md) do bị [Orc](Orcs.md) đưa cho ông ta một bản nháp để chống lại chất độc.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
@@ -66,35 +66,35 @@ Trong bản phác thảo trước đó, [Frodo Baggins](../F/Frodo_Baggins.md) �
 		</li>
 </ul>
 
-<b><a href="../_/1978.md" title="1978">1978</a>: <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>Chúa tể của những chiếc nhẫn</i> (phim 1978)</a>:</b>
+<b><a href="../_/1978.md" title="1978">1978</a>: <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim 1978)</a>:</b>
 
 <dl><dd>An Orc steals another&#39;s draught and hits him with his mace, throwing him backward. He feeds the draught first to <a class="mw-redirect" href="../M/Meriadoc.md" title="Meriadoc">Merry</a> and then to <a href="../P/Peregrin_Took.md" title="Peregrin Took">Pippin</a>.</dd></dl>
 
-<b><a href="../_/1997.md" title="1997">1997</a>: <i><a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Trò chơi thẻ bài sưu tầm Trung Địa</a></i>:</b>
+<b><a href="../_/1997.md" title="1997">1997</a>: <i><a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Trung Địa Trò chơi bài sưu tầm</a></i>:</b>
 
 <dl><dd>The orc-draught is depicted in the <a href="../_/1997.md" title="1997">1997</a> expansion <i><a href="../M/Middle-earth%253A_The_Lidless_Eye.md" title="Middle-earth: The Lidless Eye">Middle-earth: The Lidless Eye</a></i> on the card <i>Orc-draughts</i> illustrated by Daniel Frazier. The card has the following effects:</dd></dl>
 
 > Bỏ đi để tăng sức mạnh +1 cho tất cả các nhân vật trong nhóm của người mang cho đến hết lượt.
 
-<b><a href="../_/2002.md" title="2002">2002</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">Chúa tể của những chiếc nhẫn: Hai tòa tháp</a></i>:</b>
+<b><a href="../_/2002.md" title="2002">2002</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Lord of the Rings: The Two Towers</a></i>:</b>
 
 <dl><dd><a href="../P/Peregrin_Took.md" title="Peregrin Took">Pippin</a> sees an <a href="../U/Uruk-hai.md" title="Uruk-hai">Uruk</a> drinking orc-draught and asks him to give some to <a href="../M/Meriadoc_Brandybuck.md" title="Meriadoc Brandybuck">Merry</a>, as he is sick. <a href="../U/Uglúk.md" title="Uglúk">Uglúk</a> yells &#34;Sick is he? Give him some medicine boys!&#34; and the Uruk feeds Merry the orc-draught as he coughs and splutters and Pippin begs him to stop. The Uruks laugh and Uglúk exclaims &#34;Can&#39;t take his draught!&#34;.</dd></dl>
 
-<b><a href="../_/2014.md" title="2014">2014</a>: <i><a href="../M/Middle-earth%253A_Shadow_of_Mordor.md" title="Middle-earth: Shadow of Mordor">Trung địa: Cái bóng của Mordor</a></i>:</b>
+<b><a href="../_/2014.md" title="2014">2014</a>: <i><a href="../M/Middle-earth%253A_Shadow_of_Mordor.md" title="Middle-earth: Shadow of Mordor">Trung Địa: Bóng Tối trong số Mordor</a></i>:</b>
 
 <dl><dd>The green fungus <a class="new" href="https://tolkiengateway.net/w/index.php?title=Orchamarth&amp;action=edit&amp;redlink=1" title="Orchamarth (page does not exist)">Orchamarth</a> is said to be one of the primary ingredients in orc-draught.</dd></dl>
 
-<b><a href="../_/2015.md" title="2015">2015</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Card_Game.md" title="The Lord of the Rings: The Card Game">Chúa tể của những chiếc nhẫn: Trò chơi bài</a></i>:</b>
+<b><a href="../_/2015.md" title="2015">2015</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Card_Game.md" title="The Lord of the Rings: The Card Game">The Lord of the Rings: Trò chơi bài</a></i>:</b>
 
 <dl><dd>The draught is depicted in the <a href="../_/2015.md" title="2015">2015</a> expansion <i>The Uruk-hai Nightmare</i> on the &#34;Orc-draught&#34; card, illustrated by Rafal Hrynkiewicz . The card has the following effects:</dd></dl>
 
-> Nguy hiểm. Tăng đột biến.<br>Khi lộ diện: Loại bỏ một đồng minh mà bạn điều khiển hoặc tăng giá trị truy đuổi lên 1.<br>Bóng tối: Tiêu diệt nhân vật bạn điều khiển.
+> Nguy hiểm. Tăng đột biến.<br>Khi lộ diện: Loại bỏ một đồng minh mà bạn điều khiển hoặc tăng giá trị truy đuổi lên 1.<br>Bóng Tối: Tiêu diệt nhân vật bạn điều khiển.
 
-<b><a href="../_/2023.md" title="2023">2023</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_Tales_of_Middle-earth.md" title="The Lord of the Rings: Tales of Middle-earth">Chúa tể của những chiếc nhẫn: Những câu chuyện về Trung Địa</a></i>:</b>
+<b><a href="../_/2023.md" title="2023">2023</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_Tales_of_Middle-earth.md" title="The Lord of the Rings: Tales of Middle-earth">The Lord of the Rings: Những câu chuyện về Trung Địa</a></i>:</b>
 
 <dl><dd>The orc-draught is depicted on the &#34;Orcish Medicine&#34; card, illustrated by <a href="../../category/I/Images_by_Irvin_Rodriguez.md" title="Category:Images by Irvin Rodriguez">Irvin Rodriguez</a>. The card has the following effects:</dd></dl>
 
-> Sinh vật mục tiêu nhận được sự lựa chọn của bạn về dây cứu sinh hoặc không thể bị tiêu diệt cho đến cuối lượt.<br>Tích lũy Orc 1. (Đặt bộ đếm +1/-1 cho Quân đội mà bạn điều khiển. Đó cũng là Orc. Nếu bạn không điều khiển Quân đội, trước tiên hãy tạo mã thông báo sinh vật Quân đội Orc màu đen 0/0.)
+> Sinh vật mục tiêu nhận được sự lựa chọn của bạn về dây cứu sinh hoặc không thể bị phá hủy cho đến cuối lượt.<br>Tích lũy Orc 1. (Đặt bộ đếm +1/-1 cho Quân đội mà bạn điều khiển. Đó cũng là Orc. Nếu bạn không điều khiển Quân đội, trước tiên hãy tạo mã thông báo sinh vật Quân đội Orc màu đen 0/0.)
 
 <span></span>
 

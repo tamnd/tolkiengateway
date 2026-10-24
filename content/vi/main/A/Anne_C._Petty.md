@@ -33,33 +33,33 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Anne C. Petty</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Died</th><td class="tg-infobox-data"><a href="../_/21_July.md" title="21 July">21 July</a> <a href="../_/2013.md" title="2013">2013</a></td></tr><tr><th scope="row" class="tg-infobox-label">Education</th><td class="tg-infobox-data"><a class="extiw" href="http://en.wikipedia.org/wiki/Florida_State_University" title="wikipedia:Florida State University">Florida State University</a>, Ph.D. in English</td></tr><tr><th scope="row" class="tg-infobox-label">Occupation</th><td class="tg-infobox-data">Scholar, author</td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">Florida Gulf Coast</td></tr><tr><th scope="row" class="tg-infobox-label">Website</th><td class="tg-infobox-data"><a class="external text" href="http://www.annepetty.com/main.html" rel="noreferrer noopener" target="_blank">AnnePetty.com</a></td></tr></tbody></table>
 
-**Anne C. Petty** ([21 tháng 5](../_/21_May.md) [1945](../_/1945.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> — [21 tháng 7](../_/21_July.md) [2013](../_/2013.md)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>), Tiến sĩ, là một học giả [Tolkien](../J/J.R.R._Tolkien.md) chuyên về Thần thoại và văn hóa dân gian Phần Lan. Bà cũng là một tác giả và đã viết một số cuốn sách và bài báo về Tolkien. Petty là diễn giả thường xuyên tại các hội nghị như Dragon\*Con và [The One Ring Celebration](../T/The_One_Ring_Celebration.md).
+**Anne C. Petty** ([21 tháng 5](../_/21_May.md) [1945](../_/1945.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> — [21 tháng 7](../_/21_July.md) [2013](../_/2013.md)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>), Tiến sĩ, là một học giả [Tolkien](../J/J.R.R._Tolkien.md) chuyên về Thần thoại và văn hóa dân gian Phần Lan. Bà cũng là một tác giả và đã viết một số cuốn sách và bài báo về Tolkien. Petty là diễn giả thường xuyên tại các hội nghị như Rồng\*Con và [The One Ring Celebration](../T/The_One_Ring_Celebration.md).
 
 ## Thư mục {#Bibliography}
 
 ### Sách {#Books}
 
 - [1979](../_/1979.md)/[2002](../_/2002.md): *[One Ring to Bind Them All: Tolkien's Mythology](../O/One_Ring_to_Bind_Them_All%253A_Tolkien's_Mythology.md)*
-- [2003](../_/2003.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Tolkien_in_the_Land_of_Heroes&amp;action=edit&amp;redlink=1" title="Tolkien in the Land of Heroes (page does not exist)">Tolkien ở Vùng đất Anh hùng</a></i>
-- 200?: <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Dragons_of_Fantasy&amp;action=edit&amp;redlink=1" title="Dragons of Fantasy (page does not exist)">Rồng thần thoại</a></i>
+- [2003](../_/2003.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Tolkien_in_the_Land_of_Heroes&amp;action=edit&amp;redlink=1" title="Tolkien in the Land of Heroes (page does not exist)">Tolkien ở Vùng Đất Anh Hùng</a></i>
+- 200?: <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Dragons_of_Fantasy&amp;action=edit&amp;redlink=1" title="Dragons of Fantasy (page does not exist)">Rồng của Fantasy</a></i>
 
 ### Bài viết {#Articles}
 
 - [2000](../_/2000.md): *[J.R.R. Tolkien (Modern Critical Views)](<../J/J.R.R._Tolkien_(Modern_Critical_Views).md>)*
-    - "Khúc dạo đầu của Tolkien (Người Hobbit)"
+Khúc dạo đầu của     - "Tolkien(The Hobbit)"
 - [2004](../_/2004.md): *[Tolkien Studies: Volume 1](../T/Tolkien_Studies%253A_Volume_1.md)*
     - "Xác định Lönnrot của nước Anh"
 - [2006](../_/2006.md): *[J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment](../J/J.R.R._Tolkien_Encyclopedia%253A_Scholarship_and_Critical_Assessment.md)*, mục
     - Ngụ ngôn
     - Phần Lan: Nguồn văn học
     - Văn học dân gian
-    - Về việc dịch Beowulf
+    - Về dịch Beowulf
 - [2007](../_/2007.md): *[Tolkien and Shakespeare: Essays on Shared Themes and Language](../T/Tolkien_and_Shakespeare%253A_Essays_on_Shared_Themes_and_Language.md)* (được chỉnh sửa bởi [Janet Brennan Croft](../J/Janet_Brennan_Croft.md))
-    - "Sự phấn chấn của Shakespeare trong tiểu thuyết của J.R.R. Tolkien,"
-- [2009](../_/2009.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Tolkien_and_Religion&amp;action=edit&amp;redlink=1" title="Tolkien and Religion (page does not exist)">Tolkien và Tôn giáo</a></i> (được biên tập bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=Paul_Kerry&amp;action=edit&amp;redlink=1" title="Paul Kerry (page does not exist)">Paul Kerry</a>)
-    - "Biểu tượng thần thoại ở Trung Địa"
-- [2009](../_/2009.md): *Rồng tốt rất hiếm – Một cuộc điều tra về rồng văn học Đông và Tây* (được biên tập bởi [Thomas M. Honegger](../T/Thomas_M._Honegger.md) và Fanfan Chen)
-Những con rồng của     - "J.R.R. Tolkien: Sự tiến hóa của Glaurung và Smaug"
+    - "Sự phấn khích của Shakespeare trong tiểu thuyết của J.R.R. Tolkien,"
+- [2009](../_/2009.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Tolkien_and_Religion&amp;action=edit&amp;redlink=1" title="Tolkien and Religion (page does not exist)">Tolkien và Tôn giáo</a></i> (được chỉnh sửa bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=Paul_Kerry&amp;action=edit&amp;redlink=1" title="Paul Kerry (page does not exist)">Paul Kerry</a>)
+    - "Biểu tượng thần thoại trong Trung Địa"
+- [2009](../_/2009.md): *Tốt Rồng hiếm – Một cuộc điều tra về văn học Rồng phương Đông và Phương Tây* (được biên tập bởi [Thomas M. Honegger](../T/Thomas_M._Honegger.md) và Fanfan Chen)
+    - "J.R.R. Tolkien's Rồng: Sự phát triển của Glaurung và Smaug"
 - [2011](../_/2011.md): *[Light Beyond All Shadow: Religious Experience in Tolkien's Work](../L/Light_Beyond_All_Shadow.md)*
     - "Những phản ánh về Cơ đốc giáo trong Hình tượng thần thoại ở Trung Địa"
 

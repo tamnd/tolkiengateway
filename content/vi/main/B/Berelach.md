@@ -57,11 +57,11 @@ infobox:
 
 Berelach là con út và con trai duy nhất của Borlas. Thời trẻ ông là bạn của [Saelon](../S/Saelon.md).<sup id="cite_ref-New_2-1" class="reference"><a href="#cite_note-New-2">[2]</a></sup>
 
-Berelach phục vụ trong [Con tàu của Nhà vua](../K/King's_Ships.md) và trong vài năm ông đã đóng quân tại [Harlond](<../H/Harlond_(Gondor).md>). Thỉnh thoảng anh đến thăm cha mình tại [Pen-arduin](../P/Pen-arduin.md) để xoa dịu nỗi đau và sự cô đơn của ông, thường đi cùng với [Saelon](../S/Saelon.md).
+Berelach phục vụ trên các con tàu của [Vua](../K/King's_Ships.md) và trong vài năm ông đã đóng quân tại [Harlond](<../H/Harlond_(Gondor).md>). Thỉnh thoảng anh đến thăm cha mình tại [Pen-arduin](../P/Pen-arduin.md) để xoa dịu nỗi đau và sự cô đơn của ông, thường đi cùng với [Saelon](../S/Saelon.md).
 
-Trong năm [Fo.A.](../F/Fourth_Age.md) [100](../F/Fourth_Age_100.md), những chuyến viếng thăm của ông trở nên ngắn ngủi và không thường xuyên, do ông được trao quyền chỉ huy cấp cao nên trải qua nhiều ngày trên biển. Nhưng ngay cả khi ở trên đất liền, nhiệm vụ của ông vẫn thường giữ ông ở trong [Pelargir](../P/Pelargir.md).<sup id="cite_ref-Lach_1-2" class="reference"><a href="#cite_note-Lach-1">[1]</a></sup>
+Trong năm [Kỷ Đệ Tứ](../F/Fourth_Age.md) [100](../F/Fourth_Age_100.md), những chuyến thăm của ông trở nên ngắn ngủi và không thường xuyên, do ông được trao quyền chỉ huy cấp cao và do đó đã trải qua nhiều ngày trên biển. Nhưng ngay cả khi ở trên đất liền, nhiệm vụ của anh vẫn thường giữ anh ở bên trong [Pelargir](../P/Pelargir.md).<sup id="cite_ref-Lach_1-2" class="reference"><a href="#cite_note-Lach-1">[1]</a></sup>
 
-Khi Berelach đến thăm cha mình lần cuối trước khi rời đi lần nữa vào [tháng 4](../A/April.md) của [Fo.A.](../F/Fourth_Age.md) [103](../F/Fourth_Age_103.md), ông đã kể cho ông ấy nghe về một sự cố gần đây trong đó một số Người lái tàu và một tàu nhỏ của Hạm đội đã biến mất. Berelach đưa ra giả định rằng những người lái tàu chắc chắn đã rời đi không phép để thực hiện một số nhiệm vụ riêng của họ và bị chết đuối. Berelach đưa ra lý do rằng những người lái tàu không có tay nghề cao và đáng chịu số phận của họ, là bằng chứng cho thấy Thuyền của Nhà vua có quá ít thủy thủ lành nghề và cá kiếm được nhiều lợi nhuận hơn.<sup id="cite_ref-New_2-2" class="reference"><a href="#cite_note-New-2">[2]</a></sup>
+Khi Berelach đến thăm cha mình lần cuối trước khi rời đi lần nữa vào [tháng 4](../A/April.md) năm [Kỷ Đệ Tứ](../F/Fourth_Age.md) [103](../F/Fourth_Age_103.md), ông đã kể cho ông nghe về một sự cố gần đây trong đó một số Người lái tàu và một tàu nhỏ của Hạm đội đã biến mất. Berelach đưa ra giả định rằng những người lái tàu chắc chắn đã rời đi không phép để thực hiện một số nhiệm vụ riêng của họ và bị chết đuối. Berelach đưa ra lý do rằng những người lái tàu không có tay nghề và đáng chịu số phận của họ, là bằng chứng cho thấy Tàu của Vua có quá ít thủy thủ có tay nghề cao và cá sinh lời nhiều hơn.<sup id="cite_ref-New_2-2" class="reference"><a href="#cite_note-New-2">[2]</a></sup>
 
 Cuối tháng [tháng 6](../J/June.md), Borlas trích dẫn câu chuyện của Berelach cho Saelon, chỉ để Saelon phản bác lại Berelach khi nói rằng những người lái tàu là những người đánh cá lành nghề và đã lâu không có bão dọc bờ biển.<sup id="cite_ref-New_2-3" class="reference"><a href="#cite_note-New-2">[2]</a></sup>
 
@@ -69,7 +69,7 @@ Không biết Berelach hay Saelon là người đã nói ra sự thật của c�
 
 ## Từ nguyên {#Etymology}
 
-Tên *Berelach* có trong [Sindarin](../S/Sindarin.md), tuy nhiên ý nghĩa của nó không rõ ràng. Theo [Paul Strack](../P/Paul_Strack.md), tên có thể chứa phần tử *[lach](../L/Lach.md)* ("ngọn lửa nhảy").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Tên *Berelach* có trong [Sindarin](../S/Sindarin.md), tuy nhiên ý nghĩa của nó không rõ ràng. Theo [Paul Strack](../P/Paul_Strack.md), tên có thể chứa phần tử *[lach](../L/Lach.md)* ("lửa nhảy").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Phả hệ {#Genealogy}
 

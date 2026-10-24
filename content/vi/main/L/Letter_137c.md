@@ -29,7 +29,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Trong thư gửi nhà xuất bản [Allen & Unwin](../A/Allen_&_Unwin.md), Tolkien hỏi về khả năng đảm bảo rằng những người đánh giá cụ thể, đặc biệt là [C.S. Lewis](../C/C.S._Lewis.md), có cơ hội đánh giá *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)*. Ông nhấn mạnh vai trò quan trọng của Lewis trong sự thành công ban đầu của *[The Hobbit](../T/The_Hobbit.md)* thông qua những đánh giá tích cực và nhấn mạnh sự hiểu biết sâu sắc của Lewis về cuốn sách mới.
+Trong thư gửi nhà xuất bản [Allen &amp; Unwin](../A/Allen_&_Unwin.md), Tolkien hỏi về khả năng đảm bảo rằng những người đánh giá cụ thể, đặc biệt là [C.S. Lewis](../C/C.S._Lewis.md), có cơ hội đánh giá *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)*. Ông nhấn mạnh vai trò quan trọng của Lewis trong sự thành công ban đầu của *[The Hobbit](../T/The_Hobbit.md)* thông qua những đánh giá tích cực và nhấn mạnh sự hiểu biết sâu sắc của Lewis về cuốn sách mới.
 
 Tolkien nhấn mạnh tầm quan trọng của ít nhất một đánh giá thông cảm cho tập đầu tiên để ngăn chặn những hiểu lầm tiềm ẩn về tác phẩm. <br>
 

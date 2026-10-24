@@ -70,14 +70,14 @@ Sự kiện xảy ra vào ngày 22 tháng 2.
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - Nhóm [Hiệp hội Nhẫn](../F/Fellowship_of_the_Ring.md) đi về phía nam dọc theo [Anduin](../A/Anduin.md).
-    - [Sam](../S/Samwise_Gamgee.md) gặp [Gollum](../G/Gollum.md) và nói chuyện với [Frodo](../F/Frodo_Baggins.md) về ông ta.
+    - Con [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) di chuyển về phía nam xuống [Anduin](../A/Anduin.md).
+    - [Sam](../S/Samwise_Gamgee.md) gặp [Gollum](../G/Gollum.md) và nói chuyện với [Frodo](../F/Frodo_Baggins.md) về ông.
     - Vào ban đêm, [Shadowfax](../S/Shadowfax.md) đến [Edoras](../E/Edoras.md).
-    - Trăng non<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+    - Mới Mặt Trăng<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Ghi chú {#Notes}
 
-Trong văn bản, chúng ta được biết rằng "*vỏ màu trắng của Mặt trăng non có thể được nhìn thấy lấp lánh ở những hồ nước xa xôi*", điều này cho thấy Mặt trăng mới thực sự xuất hiện sớm hơn so với dự đoán của thiên văn học.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
+Trong văn bản, chúng ta được biết rằng "*vỏ màu trắng của Mặt Trăng mới có thể được nhìn thấy lấp lánh ở những hồ nước xa xôi*", điều này đặt Mặt Trăng mới thực sự sớm hơn so với dự đoán của thiên văn học.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

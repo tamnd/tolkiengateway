@@ -37,9 +37,9 @@ infobox:
 
 <i><b>Kiếm & Ma thuật</b></i> là tập truyện ngắn về thể loại anh hùng giả tưởng.
 
-Người biên tập tuyển tập, [L. Sprague de Camp](../L/L._Sprague_de_Camp.md), đã gửi một bản sao tới [Tolkien](../J/J.R.R._Tolkien.md) ở [1964](../_/1964.md). Tolkien "*thấy \[tuyển tập\] thú vị nhưng không thích những câu chuyện trong đó*".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Tolkien đã gửi [một lá thư vào năm 1964](../L/Letter_to_L._Sprague_de_Camp.md) về tuyển tập cho de Camp,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> và cũng viết [phê bình "Câu chuyện đau khổ về người thợ kim hoàn Thangobrind"](../C/Critique_of_%2522Distressing_Tale_of_Thangobrind_the_Jeweler%2522.md), một trong những đóng góp cho tuyển tập bộ sưu tập.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Người biên tập tuyển tập, [L. Sprague de Camp](../L/L._Sprague_de_Camp.md), đã gửi một bản sao tới [Tolkien](../J/J.R.R._Tolkien.md) ở [1964](../_/1964.md). Tolkien "*thấy \[tuyển tập\] thú vị nhưng không thích những câu chuyện trong đó*".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Tolkien đã gửi [một lá thư vào năm 1964](../L/Letter_to_L._Sprague_de_Camp.md) về tuyển tập cho de Camp,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> và cũng đã viết [phê bình "Câu chuyện đau khổ về người thợ kim hoàn Thangobrind"](../C/Critique_of_%2522Distressing_Tale_of_Thangobrind_the_Jeweler%2522.md), một số tiền đóng góp vào bộ sưu tập.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
-De Camp đề cập đến Tolkien trong phần Giới thiệu của mình: "..chúng ta hãy ghi công cho \[William\] Morris vì đã làm sống lại thể loại này. Tiếng vọng từ cuốn tiểu thuyết \[*The Well at the World's End*\] của ông vẫn còn được nghe thấy trong bộ ba phim *Fellowship of the Ring* của J.R.R. Tolkien và trong *The Well of the Unicorn* của Fletcher Pratt".
+De Camp đề cập đến Tolkien trong phần Giới thiệu của mình: "..chúng ta hãy ghi công \[William\] Morris vì đã làm sống lại thể loại này. Tiếng vọng từ cuốn tiểu thuyết \[*The Well at the World's End*\] của ông vẫn còn được nghe thấy trong bộ ba phim *Fellowship of the Ring* của J.R.R. Tolkien và trong *The Well of the Unicorn* của Fletcher Pratt".
 
 ## Nội dung {#Contents}
 
@@ -47,8 +47,8 @@ De Camp đề cập đến Tolkien trong phần Giới thiệu của mình: "..c
 - [Poul Anderson](../P/Poul_Anderson.md): "Sự dũng cảm của Cappen Varra"
 - Lãnh chúa Dunsany: "Câu chuyện đau buồn về người thợ kim hoàn Thangobrind"
 - Robert E. Howard: "Bóng tối trong ánh trăng"
-- Henry Kuttner: "Thành trì bóng tối"
-- Fritz Leiber: "Khi Vua Biển Đi Xa"
+- Henry Kuttner: "Thành trì Bóng Tối"
+- Fritz Leiber: "Khi Biển Vua đi vắng"
 - H.P. Lovecraft: "Ngày tận thế đã đến với Sarnath"
 - C.L. Moore: "Địa ngục"
 - Clark Ashton Smith: "Bản di chúc của Athammus"

@@ -39,27 +39,27 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Stephen_Raw_-_Middle-earth_map_(4_of_4).png.md"><img src="https://tolkiengateway.net/w/images/thumb/e/ef/Stephen_Raw_-_Middle-earth_map_%284_of_4%29.png/320px-Stephen_Raw_-_Middle-earth_map_%284_of_4%29.png" decoding="async" loading="lazy" width="320" height="199" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/ef/Stephen_Raw_-_Middle-earth_map_%284_of_4%29.png/480px-Stephen_Raw_-_Middle-earth_map_%284_of_4%29.png 1.5x, https://tolkiengateway.net/w/images/thumb/e/ef/Stephen_Raw_-_Middle-earth_map_%284_of_4%29.png/640px-Stephen_Raw_-_Middle-earth_map_%284_of_4%29.png 2x" data-file-width="2000" data-file-height="1243"/></a><figcaption>Map of Khand and neighbouring regions</figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Region</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Khand</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>General Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">South-east of <a href="../M/Mordor.md" title="Mordor">Mordor</a></td></tr><tr><th scope="row" class="tg-infobox-label">Type</th><td class="tg-infobox-data">Region</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>People and History</span></th></tr><tr><th scope="row" class="tg-infobox-label">Inhabitants</th><td class="tg-infobox-data"><a href="../V/Variags.md" title="Variags">Variags</a></td></tr></tbody></table>
 
-**Khand** là tên của một vùng đất nằm ở phía đông nam của [Mordor](../M/Mordor.md)<sup id="cite_ref-UI_1-0" class="reference"><a href="#cite_note-UI-1">[1]</a></sup> và phía đông của [Gần Harad](../N/Near_Harad.md)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> là nơi sinh sống của [Variags](../V/Variags.md).<sup id="cite_ref-UI_1-1" class="reference"><a href="#cite_note-UI-1">[1]</a></sup><sup id="cite_ref-Pelennor_3-0" class="reference"><a href="#cite_note-Pelennor-3">[3]</a></sup>
+**Khand** là tên của vùng đất nằm ở phía đông nam của [Mordor](../M/Mordor.md)<sup id="cite_ref-UI_1-0" class="reference"><a href="#cite_note-UI-1">[1]</a></sup> và phía đông của [Near Harad](../N/Near_Harad.md)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> là nơi sinh sống của [Variags](../V/Variags.md).<sup id="cite_ref-UI_1-1" class="reference"><a href="#cite_note-UI-1">[1]</a></sup><sup id="cite_ref-Pelennor_3-0" class="reference"><a href="#cite_note-Pelennor-3">[3]</a></sup>
 
 ## Lịch sử {#History}
 
 Người ta biết rất ít về Khand hoặc người dân ở đó, ngoài việc họ liên minh với Mordor.
 
-Người dân Khand và [Rhûn](../R/Rhûn.md) dường như đã từng là kẻ thù của nhau qua nhiều thời đại. [Những người Phục sinh](../E/Easterlings.md) được gọi là [Wainriders](../W/Wainriders.md) đã đi qua phía nam Mordor và liên minh với những người ở Khand và [Gần Harad](../N/Near_Harad.md). Trong [T.A.](../T/Third_Age.md) [1944](../T/Third_Age_1944.md) họ đã thực hiện một cuộc tấn công phối hợp chống lại [Gondor](../G/Gondor.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Người dân Khand và [Rhûn](../R/Rhûn.md) dường như đã từng là kẻ thù từ lâu đời. [Những người phương Đông](../E/Easterlings.md) được gọi là [Wainriders](../W/Wainriders.md) đã đi qua phía nam Mordor và liên minh với những người của Khand và [Near Harad](../N/Near_Harad.md). Trong [T.A.](../T/Third_Age.md) [1944](../T/Third_Age_1944.md) họ đã thực hiện một cuộc tấn công phối hợp chống lại [Gondor](../G/Gondor.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
-Nhiều năm sau, Variags từ Khand gia nhập lực lượng của [Sauron](../S/Sauron.md) trong [War of the Ring](../W/War_of_the_Ring.md).<sup id="cite_ref-Pelennor_3-1" class="reference"><a href="#cite_note-Pelennor-3">[3]</a></sup>
+Nhiều năm sau, Variags từ Khand gia nhập lực lượng của [Sauron](../S/Sauron.md) trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md).<sup id="cite_ref-Pelennor_3-1" class="reference"><a href="#cite_note-Pelennor-3">[3]</a></sup>
 
-Không biết liệu Khand có từng bị [Vương quốc Thống nhất](../R/Reunited_Kingdom.md) chinh phục hay nó vẫn độc lập. Người ta cũng không biết Khand có từng gây chiến với người phương Tây sau cái chết của [Sauron](../S/Sauron.md) hay không.
+Không biết liệu Khand có từng bị chinh phục bởi [Vương quốc Thống nhất](../R/Reunited_Kingdom.md) hay nó vẫn độc lập. Người ta cũng không biết liệu Khand có từng gây chiến với người dân Phương Tây sau cái chết của [Sauron](../S/Sauron.md) hay không.
 
 ## Từ nguyên {#Etymology}
 
-Ý nghĩa của *Khand* không được ghi lại. Nó cùng với *[Variag](../V/Variag.md)* là một trong số ít từ được biết đến trong ngôn ngữ của Người phương Đông và các đồng minh của Sauron.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Ý nghĩa của *Khand* không được ghi lại. Nó cùng với *[Variag](../V/Variag.md)* là một trong số ít từ được biết đến trong ngôn ngữ của Con Người của phương Đông và các đồng minh của Sauron.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 *Khand* có nghĩa là "vương quốc" hoặc "đất" trong một số ngôn ngữ liên quan ở Nam Á.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1984-1997: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Nhập vai Trung Địa</a></i></b>
+<b>1984-1997: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i></b>
 
 <dl><dd>Khand is a region on a semi-arid plateau between the southeastern arm of the <a class="mw-redirect" href="../E/Ephel_Duath.md" title="Ephel Duath">Ephel Duath</a> and the northwestern arm of the Ered Harmal. In the north of Khand is the Gap of Khand, a hundred mile wide pass between those two mountain chains. The region of Nûrad is in the hills northeast of the northern end of the Ered Harmal.<sup id="cite_ref-Khand_9-0" class="reference"><a href="#cite_note-Khand-9">[9]</a></sup></dd></dl>
 

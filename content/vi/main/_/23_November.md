@@ -69,11 +69,11 @@ Sự kiện xảy ra vào ngày 23 tháng 11
 - **[1962](1962.md)** – Phần bổ sung văn học của *The Times* đưa ra đánh giá về *[The Adventures of Tom Bombadil](../T/The_Adventures_of_Tom_Bombadil.md)*.
 - **[1972](1972.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư 343a](../L/Letter_343a.md).
 - **[1972](1972.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 344](../L/Letter_344.md).
-- **[2000](2000.md)** – [Rayner Unwin](../R/Rayner_Unwin.md), nếu không có ai *[The Hobbit](../T/The_Hobbit.md)* sẽ không bao giờ được xuất bản, đã chết.
+- **[2000](2000.md)** – [Rayner Unwin](../R/Rayner_Unwin.md), nếu không có ai *[The Hobbit](../T/The_Hobbit.md)* sẽ không bao giờ được xuất bản, sẽ chết.
 - **[2002](2002.md)** - [Ring\*Con 2002](../R/Ring%252ACon_2002.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Bonn" title="wikipedia:Bonn">Bonn</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">Đức</a>.
 - **[2009](2009.md)** - *[Parma Eldalamberon](../P/Parma_Eldalamberon.md)* số [18](../P/Parma_Eldalamberon_18.md) được xuất bản.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi tại [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).
+    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi ở [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).

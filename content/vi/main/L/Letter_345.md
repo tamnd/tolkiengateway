@@ -31,9 +31,9 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Theo quan điểm cá nhân, Tolkien phản đối việc đặt cho động vật những cái tên hoàn toàn giống con người và cao quý. [Elrond](../E/Elrond.md) và [Glorfindel](../G/Glorfindel.md) có vẻ không phù hợp. Ông đã chơi với từ “con bò đực” mà trước đó ông đã đặt cho bà<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> dưới dạng *[–mund](../M/Mundo.md)* và đã nghĩ ra một số tên cho những con bò đực: [Aramund](../A/Aramund.md) ("Vua bò đực"), Tarmund ("Con bò đực cao quý"), Rasmund ("Bò có sừng") và Turcomund ("Thủ lĩnh của những con bò đực").
+Theo quan điểm cá nhân Tolkien phản đối việc đặt cho động vật những cái tên mang tính con người và cao quý. [Elrond](../E/Elrond.md) và [Glorfindel](../G/Glorfindel.md) có vẻ không phù hợp. Ông đã chơi với từ “con bò đực” mà trước đó ông đã đặt cho bà<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> dưới dạng *[–mund](../M/Mundo.md)* và đã nghĩ ra một số tên cho những con bò đực: [Aramund](../A/Aramund.md) ("Vua bò đực"), Tarmund ("Con bò đực cao quý"), Rasmund ("Bò có sừng") và Turcomund ("Thủ lĩnh của những con bò đực").
 
-[Arwen](../A/Arwen.md) không phải là yêu tinh mà là một nửa yêu tinh đã từ bỏ quyền yêu tinh của mình. [Galadriel](../G/Galadriel.md) là nữ thần tiên trưởng được nhắc đến trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*; con gái của bà là [Celebrían](../C/Celebrían.md). Một quý cô yêu tinh khác là [Nimrodel](../N/Nimrodel.md) nhưng Tolkien không muốn đặt những cái tên này cho bò cái tơ hoặc bò cái. Ông gợi ý tên con bò yêu thích của [Nông dân Giles](../F/Farmer_Giles_of_Ham.md) – Galathea.
+[Arwen](../A/Arwen.md) không phải là Tiên mà là một nửa yêu tinh đã từ bỏ quyền yêu tinh của mình. [Galadriel](../G/Galadriel.md) là nữ thần tiên trưởng được nhắc đến trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*; con gái của bà là [Celebrían](../C/Celebrían.md). Một quý cô yêu tinh khác là [Nimrodel](../N/Nimrodel.md) nhưng Tolkien không muốn đặt những cái tên này cho bò cái tơ hoặc bò cái. Anh gợi ý tên con bò yêu thích [Farmer Giles’](../F/Farmer_Giles_of_Ham.md) – Galathea.
 
 ## Lưu ý {#Note}
 

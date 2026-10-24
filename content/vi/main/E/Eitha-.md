@@ -13,7 +13,7 @@ categories:
   - "Sindarin verbs"
 ---
 
-<i><b>eitha-</b></i> là một từ [tiếng Sindarin](../S/Sindarin.md) có ba nghĩa khác nhau:
+<i><b>eitha-</b></i> là một từ [Sindarin](../S/Sindarin.md) có ba nghĩa khác nhau:
 
 1. "làm dịu, hỗ trợ" (gốc [ATH](../A/ATH~33243.md); cùng nguồn gốc: [Quenya](../Q/Quenya.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Asya-&amp;action=edit&amp;redlink=1" title="Asya- (page does not exist)">asya-</a></i>, <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Asi%C3%AB&amp;action=edit&amp;redlink=1" title="Asië (page does not exist)">asië</a></i>)<sup id="cite_ref-PE148_1-0" class="reference"><a href="#cite_note-PE148-1">[1]</a></sup>
 2. "chích bằng mũi nhọn, đâm"<sup id="cite_ref-WJ_2-0" class="reference"><a href="#cite_note-WJ-2">[2]</a></sup>

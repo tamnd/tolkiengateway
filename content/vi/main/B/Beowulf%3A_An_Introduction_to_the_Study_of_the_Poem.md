@@ -33,7 +33,7 @@ infobox:
 
 Đến [28 tháng 7](../_/28_July.md) [1922](../_/1922.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã đồng ý đánh giá cuốn sách này cho G.N. Clark, biên tập viên của *English Historical Review*. Ông đã viết [vài trang ghi chú](../../index/U/Unpublished_material.md) nhưng không hoàn thành bài đánh giá (hoặc có lẽ nó chưa bao giờ được xuất bản).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Vào [24 tháng 5](../_/24_May.md) [1932](../_/1932.md), Chambers đã gửi cho Tolkien một bản sao có khắc chữ của ấn bản thứ hai của *Beowulf: Giới thiệu về nghiên cứu bài thơ* (xuất bản cùng tháng).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Vào [24 tháng 5](../_/24_May.md) [1932](../_/1932.md), Chambers đã gửi Tolkien một bản in chữ của ấn bản thứ hai của *Beowulf: Giới thiệu về nghiên cứu bài thơ* (xuất bản cùng tháng).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Liên kết ngoài {#External_links}
 

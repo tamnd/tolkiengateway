@@ -72,7 +72,7 @@ Sự kiện xảy ra vào ngày 23 tháng 12
 - **[1932](1932.md)** - [Ông già Noel](../F/Father_Christmas.md) viết [thư](../L/Letters_from_Father_Christmas.md) gửi các con của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 - **[1934](1934.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư gửi G.H. Cowling](../L/Letter_to_G.H._Cowling.md).
 - **[1936](1936.md)** - [Ông già Noel](../F/Father_Christmas.md) viết [thư](../L/Letters_from_Father_Christmas.md) gửi các con của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
-- **[1940](1940.md)** - [Ông già Noel](../F/Father_Christmas.md) viết [thư](../L/Letters_from_Father_Christmas.md) cho các con của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
+- **[1940](1940.md)** - [Ông già Noel](../F/Father_Christmas.md) viết [thư](../L/Letters_from_Father_Christmas.md) gửi các con của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 - **[1956](1956.md)** - Tập thứ sáu và cũng là tập cuối cùng của [loạt phim phát thanh năm 1956](<../T/The_Lord_of_the_Rings_(1955_radio_series).md>) của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* phát sóng trên [BBC](../B/BBC.md) Chương trình thứ ba.
 - **[1963](1963.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 253](../L/Letter_253.md).
 - **[2000](2000.md)** - Diễn viên [Billy Barty](../B/Billy_Barty.md) qua đời.
@@ -81,4 +81,4 @@ Sự kiện xảy ra vào ngày 23 tháng 12
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Fellowship of the Ring](../F/Fellowship_of_the_Ring.md) nghỉ ngơi tại [Rivendell](../R/Rivendell.md) và chuẩn bị cho [nhiệm vụ](../Q/Quest_of_the_Ring.md) tiêu diệt [Chiếc nhẫn duy nhất](../T/The_One_Ring.md).
+    - Các [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) nghỉ ngơi ở [Rivendell](../R/Rivendell.md) và chuẩn bị cho [nhiệm vụ](../Q/Quest_of_the_Ring.md) tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).

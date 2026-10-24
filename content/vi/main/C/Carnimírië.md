@@ -21,7 +21,7 @@ langlinks:
     url: "https://kontu.wiki/Carnim%C3%ADri%C3%AB"
 ---
 
-**Carnimírië** là một trong những [rowans](../R/Rowans.md) của [Rừng Fangorn](../F/Fangorn_Forest.md), được [Ent](../E/Ent.md) [Bregalad](../Q/Quickbeam.md) rất yêu quý. Nó đã bị chặt hạ bởi [Orc](../O/Orcs.md) của [Isengard](../I/Isengard.md), làm dấy lên sự tức giận của Ent bốc đồng này.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Carnimírië** là một trong những [rowans](../R/Rowans.md) của [Rừng Fangorn](../F/Fangorn_Forest.md), được [Ent](../E/Ent.md) [Bregalad](../Q/Quickbeam.md) rất yêu quý. Nó đã bị [Orc](../O/Orcs.md) của [Isengard](../I/Isengard.md) cắt giảm, làm dấy lên sự tức giận của Ent bốc đồng này.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

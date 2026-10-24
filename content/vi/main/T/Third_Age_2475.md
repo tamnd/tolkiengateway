@@ -16,12 +16,12 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><a href="../F/First_Age.md" title="First Age">I</a><a href="../S/Second_Age.md" title="Second Age">II</a><b>III</b><a href="../F/Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="Third_Age_2460.md" title="Third Age 2460">2460</a><a href="Third_Age_2463.md" title="Third Age 2463">2463</a><a href="Third_Age_2470.md" title="Third Age 2470">2470</a><a class="mw-selflink selflink">2475</a><a href="Third_Age_2477.md" title="Third Age 2477">2477</a><a href="Third_Age_2480.md" title="Third Age 2480">2480</a><a href="Third_Age_2485.md" title="Third Age 2485">2485</a></div></div></div></div></div></div>
 
-**Thời đại thứ ba 2475** (viết tắt là **T.A. 2475**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 2475 của [Thời đại thứ ba](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Thời đại thứ ba 2475 còn được gọi là **S.R. 875** trong [Tính toán quận](../S/Shire-reckoning.md).
+**Kỷ Đệ Tam 2475** (viết tắt là **T.A. 2475**) là năm [thứ 2475 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Tam](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Kỷ Đệ Tam 2475 còn được gọi là **S.R. 875** trong [lịch Shire](../S/Shire-reckoning.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- Cuộc tấn công vào [Gondor](../G/Gondor.md) được gia hạn.<sup id="cite_ref-TA_1-0" class="reference"><a href="#cite_note-TA-1">[1]</a></sup> [Uruk-hai](../U/Uruk-hai.md) tràn ngập [Ithilien](../I/Ithilien.md).<sup id="cite_ref-stew_2-0" class="reference"><a href="#cite_note-stew-2">[2]</a></sup>
-- [Osgiliath](../O/Osgiliath.md) cuối cùng [bị hủy hoại](../R/Ruin_of_Osgiliath.md) và cây cầu đá của nó bị gãy.<sup id="cite_ref-TA_1-1" class="reference"><a href="#cite_note-TA-1">[1]</a></sup>
+- Tấn công vào [Gondor](../G/Gondor.md) được gia hạn.<sup id="cite_ref-TA_1-0" class="reference"><a href="#cite_note-TA-1">[1]</a></sup> [Uruk-hai](../U/Uruk-hai.md) tràn [Ithilien](../I/Ithilien.md).<sup id="cite_ref-stew_2-0" class="reference"><a href="#cite_note-stew-2">[2]</a></sup>
+- [Osgiliath](../O/Osgiliath.md) cuối cùng [bị phá hủy](../R/Ruin_of_Osgiliath.md), và cây cầu đá của nó bị gãy.<sup id="cite_ref-TA_1-1" class="reference"><a href="#cite_note-TA-1">[1]</a></sup>
 - [Boromir](<../B/Boromir_(Steward_of_Gondor).md>) chiến đấu chống lại quân Uruk và cuối cùng giành lại được Ithilien.<sup id="cite_ref-stew_2-1" class="reference"><a href="#cite_note-stew-2">[2]</a></sup>
 
 <span></span>

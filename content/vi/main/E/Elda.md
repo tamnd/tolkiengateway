@@ -18,19 +18,19 @@ categories:
 
 ## Từ nguyên {#Etymology}
 
-[Common Eldarin](../C/Common_Eldarin.md) *eldâ*, một dạng tính từ có nghĩa là "kết nối hoặc liên quan đến các vì sao" đến từ [Quendian nguyên thủy](../P/Primitive_Quendian.md) *eledâ*<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> từ [root](../S/Sundocarme.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=ELED&amp;action=edit&amp;redlink=1" title="ELED (page does not exist)">ELED</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+[Common Eldarin](../C/Common_Eldarin.md) *eldâ*, một sự hình thành tính từ có nghĩa là "được kết nối hoặc liên quan đến các ngôi sao" đến từ [Primitive Quendian](../P/Primitive_Quendian.md) *eledâ*<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> trước đó từ [gốc](../S/Sundocarme.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=ELED&amp;action=edit&amp;redlink=1" title="ELED (page does not exist)">ELED</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 ## Các hình thức khác {#Other_forms}
 
-- có. sg. *eldava* "Yêu Tinh"<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
-- thế hệ. làm ơn. *eldaron* "của Yêu Tinh"<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
-- dạng tặng cách xin vui lòng. *eldain* "dành cho Yêu tinh"<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
-- có. làm ơn. *Eldaiva, Eldaive* "Yêu tinh"<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
+- có. sg. *eldava* "Tiên"<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+- thế hệ. làm ơn. *eldaron* "của Tiên tộc"<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
+- cách tặng cách xin vui lòng. *eldain* "cho Tiên tộc"<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
+- có. làm ơn. *Eldaiva, Eldaive* "Tiên tộc'"<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
 
 ## Có cùng nguồn gốc {#Cognates}
 
 - [Telerin](../T/Telerin.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Ella&amp;action=edit&amp;redlink=1" title="Ella (page does not exist)">ella</a></i>
-- [tiếng Sindarin](../S/Sindarin.md) *[edhel](Edhel.md)*
+- [Sindarin](../S/Sindarin.md) *[edhel](Edhel.md)*
 
 <span></span>
 

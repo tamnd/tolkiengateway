@@ -24,7 +24,7 @@ images:
 
 **Karen Haber** (tên khai sinh [1955](../_/1955.md)) là một tác giả và biên tập viên người Mỹ, có lẽ được biết đến nhiều nhất với các tác phẩm giả tưởng và khoa học viễn tưởng.
 
-Năm 2001, cô biên tập một tuyển tập tiểu luận được đề cử <a class="extiw" href="http://en.wikipedia.org/wiki/Hugo_Award" title="wikipedia:Hugo Award">Hugo</a>để tôn vinh [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), *[Meditations on Middle-earth](../M/Meditations_on_Middle-earth.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Năm 2001, cô biên tập một tuyển tập tiểu luận được đề cử <a class="extiw" href="http://en.wikipedia.org/wiki/Hugo_Award" title="wikipedia:Hugo Award">Hugo</a>nhằm tôn vinh [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), *[Meditations on Middle-earth](../M/Meditations_on_Middle-earth.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Thư mục, đã chọn {#Bibliography,_selected}
 

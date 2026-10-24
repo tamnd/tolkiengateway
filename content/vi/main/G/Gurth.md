@@ -13,7 +13,7 @@ categories:
   - "Sindarin nouns"
 ---
 
-<i><b>gurth</b></i> hoặc <i><b>guru</b></i> là một danh từ [Sindarin](../S/Sindarin.md) có nghĩa là "cái chết".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+<i><b>gurth</b></i> hoặc <i><b>guru</b></i> là một [Sindarin](../S/Sindarin.md) danh từ có nghĩa là "cái chết".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Ví dụ {#Examples}
 
@@ -23,7 +23,7 @@ categories:
 
 ## Xem thêm {#See_also}
 
-- [Noldorin](../N/Noldorin.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=G%C3%BBr&amp;action=edit&amp;redlink=1" title="Gûr (page does not exist)">gûr, guruth</a></i> ("cái chết")
+- [Noldorin](../N/Noldorin.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=G%C3%BBr&amp;action=edit&amp;redlink=1" title="Gûr (page does not exist)">gûr, guruth</a></i> ("chết")
 - [Sea of Núrnen: Etymology](../S/Sea_of_Núrnen.md#Etymology)
 
 <span></span>

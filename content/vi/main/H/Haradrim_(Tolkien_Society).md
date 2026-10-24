@@ -13,13 +13,13 @@ categories:
   - "Tolkien Societies"
 ---
 
-**Haradrim** là một [Hiệp hội Tolkien](../T/Tolkien_Societies~67099.md) không còn tồn tại dành cho những người nói <a class="extiw" href="http://en.wikipedia.org/wiki/Afrikaans" title="wikipedia:Afrikaans">tiếng Afrikaans</a> ở [Nam Phi](../S/South_Africa.md). Hội được thành lập vào năm 2000 và bị giải thể vào khoảng năm 2010.
+**Haradrim** là một [Tolkien Hiệp hội](../T/Tolkien_Societies~67099.md) không còn tồn tại dành cho những người nói <a class="extiw" href="http://en.wikipedia.org/wiki/Afrikaans" title="wikipedia:Afrikaans">tiếng Nam Phi</a> ở [Nam Phi](../S/South_Africa.md). Hội được thành lập vào năm 2000 và bị giải thể vào khoảng năm 2010.
 
 ## Lịch sử {#History}
 
-[Haradrim](Haradrim.md) có công trong việc xác định vị trí cũ của Ngân hàng Châu Phi ([văn phòng của Arthur Tolkien](../A/Arthur_Tolkien.md)), khu mộ của Arthur Tolkien (nơi một tấm bia mộ mới cũng như một cái cây được trồng/đặt)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> cũng như tìm thấy di chúc cuối cùng của Arthur Tolkien và các tài liệu khác. Haradrim cũng thỉnh thoảng tiếp đón các thành viên của gia đình Tolkien. Trong những năm 1990 và đầu những năm 2000, Haradrim đã tổ chức các chương trình phát thanh và diễn thuyết cũng như triển lãm xung quanh J.R.R. Tolkien.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+[Haradrim](Haradrim.md) là công cụ xác định vị trí cũ của Ngân hàng Châu Phi ([văn phòng của Arthur Tolkien](../A/Arthur_Tolkien.md)), khu mộ của Arthur Tolkien(nơi một bia mộ mới cũng như một cái cây được trồng/đặt)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> cũng như tìm thấy di chúc cuối cùng của Arthur Tolkien và các tài liệu khác. Haradrim thỉnh thoảng cũng tổ chức các thành viên của gia đình Tolkien. Trong những năm 1990 và đầu những năm 2000 Haradrim đã tổ chức các chương trình phát thanh và diễn thuyết cũng như triển lãm xung quanh J.R.R. Tolkien.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Năm 1982, một thành viên sau này của Haradrim đã đặt tòa nhà Ngân hàng Châu Phi ở Bloemfontein, nơi Arthur Tolkien là giám đốc tòa nhà cửa hàng đồ nội thất Bradlow vào thời điểm đó.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Năm 1982, một thành viên sau này của Haradrim đã đặt tòa nhà Ngân hàng Châu Phi ở Bloemfontein nơi Arthur Tolkien là giám đốc tòa nhà cửa hàng đồ nội thất Bradlow vào thời điểm đó.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 Khoảng cách rộng lớn ở Nam Phi giữa các thành phố lớn (Johannesburg/Pretoria - Bloemfontein - Cape Town - Durban), tình trạng di cư do <a class="external text" href="https://en.wikipedia.org/wiki/Afrikaners#Afrikaner_diaspora" rel="noreferrer noopener" target="_blank">tội phạm và hành động chống đối</a> cũng như các rào cản về văn hóa và ngôn ngữ cũng như sự quan tâm hạn chế đối với [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) của công chúng nói chung đều góp phần dẫn đến sự sụp đổ của xã hội này.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 

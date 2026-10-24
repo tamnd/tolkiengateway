@@ -14,13 +14,13 @@ sort_keys:
   "Rohanese words": "Kud-dukan"
 ---
 
-**Kûd-dûkan** là một sinh vật trong văn hóa dân gian [Rohanese](../R/Rohirrim.md) ám chỉ [Người Hobbit](../H/Hobbits.md).
+**Kûd-dûkan** là một sinh vật trong [Rohanese](../R/Rohirrim.md) văn hóa dân gian ám chỉ [Hobbit](../H/Hobbits.md).
 
 ## Từ nguyên {#Etymology}
 
 Tên này có nghĩa là "người sống trong hang" và có thể được phân tích thành <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=K%C3%BBd&amp;action=edit&amp;redlink=1" title="Kûd (page does not exist)">kûd</a></i> "lỗ" và <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=D%C3%BBkan&amp;action=edit&amp;redlink=1" title="Dûkan (page does not exist)">dûkan</a></i> "người ở" (từ gốc động từ \*<i><a class="new" href="https://tolkiengateway.net/w/index.php?title=D%C3%BBk&amp;action=edit&amp;redlink=1" title="Dûk (page does not exist)">dûk</a></i> "ở" và một hậu tố *-an*).<sup id="cite_ref-AppF_1-0" class="reference"><a href="#cite_note-AppF-1">[1]</a></sup>
 
-Nó được dịch sang [Tiếng Anh cổ](../O/Old_English.md) là *[Holbytla](../H/Holbytla.md)*, "người xây lỗ".<sup id="cite_ref-AppF_1-1" class="reference"><a href="#cite_note-AppF-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
+Nó được dịch sang [tiếng Anh cổ](../O/Old_English.md) là *[Holbytla](../H/Holbytla.md)*, "thợ xây lỗ".<sup id="cite_ref-AppF_1-1" class="reference"><a href="#cite_note-AppF-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

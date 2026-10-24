@@ -23,12 +23,12 @@ images:
   - "Disambig.png"
 ---
 
-**Galdor** có thể đề cập đến:
+**Galdor** có thể tham khảo:
 
-- [Galdor (yêu tinh của Gondolin)](<Galdor_(elf_of_Gondolin).md>), lãnh chúa của [Nhà Cây](../H/House_of_the_Tree.md).
-- [Galdor (Lãnh chúa của Dor-lómin)](<Galdor_(Lord_of_Dor-lómin).md>), cha của [Húrin Thalion](../H/Húrin.md) người đã chết trước [Nirnaeth Arnoediad](../N/Nirnaeth_Arnoediad.md).
-- [Galdor (yêu tinh của thiên đường)](<Galdor_(elf_of_the_Havens).md>), [Círdan](../C/Círdan.md) đại diện của [Hội đồng Elrond](../C/Council_of_Elrond.md).
-- [Galdor (người của Rohan)](<Galdor_(man_of_Rohan).md>), quản lý của [Edoras](../E/Edoras.md).
+- [Galdor (Tiên của Gondolin)](<Galdor_(elf_of_Gondolin).md>), lãnh chúa của [Nhà Cây](../H/House_of_the_Tree.md).
+- [Galdor (Chúa tể của Dor-lómin)](<Galdor_(Lord_of_Dor-lómin).md>), cha của [Húrin Thalion](../H/Húrin.md), người đã chết trước [Nirnaeth Arnoediad](../N/Nirnaeth_Arnoediad.md).
+- [Galdor (Tiên của Havens)](<Galdor_(elf_of_the_Havens).md>), đại diện của [Círdan](../C/Círdan.md) tại [Hội đồng Elrond](../C/Council_of_Elrond.md).
+- [Galdor (người đàn ông của Rohan)](<Galdor_(man_of_Rohan).md>), quản lý của [Edoras](../E/Edoras.md).
 
 <hr style="margin-top:15px;"/>
 

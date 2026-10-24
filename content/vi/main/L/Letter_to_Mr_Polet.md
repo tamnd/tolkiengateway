@@ -18,9 +18,9 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mr_Polet_1_January_1956.jpg.md"><img src="https://tolkiengateway.net/w/images/4/42/Mr_Polet_1_January_1956.jpg" decoding="async" loading="lazy" width="297" height="400" class="mw-file-element" data-file-width="297" data-file-height="400"/></a><figcaption></figcaption></figure>
 
-Vào [1 tháng 1](../_/1_January.md) [1956](../_/1956.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho ông Polet**.
+Vào [ngày 1 tháng 1](../_/1_January.md) [1956](../_/1956.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho ông Polet**.
 
-- **Mô tả:** Được Tolkien viết tay và ký tên trên tờ giấy viết thư ở Đường Sandfield. 5x7"/13x17 cm.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+- **Mô tả:** Được viết tay và ký bởi Tolkien trên tờ giấy viết thư ở Đường Sandfield. 5x7"/13x17 cm.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Trích {#Excerpt}
 

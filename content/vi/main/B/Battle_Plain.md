@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dagorlad"
 ---
 
-Chuyển hướng tới [Dagorlad](../D/Dagorlad.md).
+Chuyển hướng đến [Dagorlad](../D/Dagorlad.md).

@@ -16,9 +16,9 @@ categories:
 
 ## Công cụ phái sinh {#Derivatives}
 
-- [tiếng Sindarin](../S/Sindarin.md): *Drû* > *[Drúedain](Drúedain.md)*<sup id="cite_ref-UTnote_1-1" class="reference"><a href="#cite_note-UTnote-1">[1]</a></sup>
+- [Sindarin](../S/Sindarin.md): *Drû* > *[Drúedain](Drúedain.md)*<sup id="cite_ref-UTnote_1-1" class="reference"><a href="#cite_note-UTnote-1">[1]</a></sup>
 - [Quenya](../Q/Quenya.md): *Rú* > *[Rúatan](../R/Rúatani.md)*<sup id="cite_ref-UTnote_1-2" class="reference"><a href="#cite_note-UTnote-1">[1]</a></sup>
-- [Tiền Númenórean](../P/Pre-Númenórean.md): *drûg*<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- [Trước-Númenórean](../P/Pre-Númenórean.md): *drûg*<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

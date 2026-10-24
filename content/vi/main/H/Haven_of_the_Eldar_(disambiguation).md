@@ -14,15 +14,15 @@ images:
   - "Disambig.png"
 ---
 
-**Nơi trú ẩn của Eldar** có thể đề cập đến:
+**Nơi trú ẩn của Eldar** có thể tham khảo:
 
 - [Alqualondë](../A/Alqualondë.md), Swanhaven của [Teleri](../T/Teleri.md) của [Valinor](../V/Valinor.md)
-- [Avallónë](../A/Avallónë.md), thiên đường của Yêu tinh của [Tol Eressëa](../T/Tol_Eressëa.md).
-- [Edhellond](../E/Edhellond.md), thiên đường của [Yêu tinh](../E/Elves.md) ở miền nam [Gondor](../G/Gondor.md).
+- [Avallónë](../A/Avallónë.md), thiên đường Tiên của [Tol Eressëa](../T/Tol_Eressëa.md).
+- [Edhellond](../E/Edhellond.md), thiên đường [Tiên](../E/Elves.md) ở phía nam [Gondor](../G/Gondor.md).
 - [Eldalondë](../E/Eldalondë.md), thiên đường của [Númenor](../N/Númenor.md).
 - [Harlond](<Harlond_(Lindon).md>) hay [Forlond](../F/Forlond.md), thiên đường của [Lindon](../L/Lindon.md).
-- [Nơi trú ẩn của Falas](Havens_of_the_Falas.md) ở [Beleriand](../B/Beleriand.md): [Brithombar](../B/Brithombar.md) và [Eglarest](../E/Eglarest.md)
-- [Mithlond](../G/Grey_Havens.md), [Grey Havens](../G/Grey_Havens.md) của [Eriador](../E/Eriador.md).
+- Các [Nơi trú ẩn của Falas](Havens_of_the_Falas.md) ở [Beleriand](../B/Beleriand.md): [Brithombar](../B/Brithombar.md) và [Eglarest](../E/Eglarest.md)
+- [Mithlond](../G/Grey_Havens.md), [Cảng Xám](../G/Grey_Havens.md) của [Eriador](../E/Eriador.md).
 
 <hr style="margin-top:15px;"/>
 

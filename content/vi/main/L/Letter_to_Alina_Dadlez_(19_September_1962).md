@@ -16,10 +16,10 @@ sort_keys:
   "Letters": "Dadlez, Alina (1962-09-19)"
 ---
 
-Vào [19 tháng 9](../_/19_September.md) [1962](../_/1962.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho [Alina Dadlez](../A/Alina_Dadlez.md)**.<sup id="cite_ref-G_1-0" class="reference"><a href="#cite_note-G-1">[1]</a></sup>
+Vào ngày [19 tháng Chín](../_/19_September.md) [1962](../_/1962.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho [Alina Dadlez](../A/Alina_Dadlez.md)**.<sup id="cite_ref-G_1-0" class="reference"><a href="#cite_note-G-1">[1]</a></sup>
 
-- **Chủ đề:** Trả lời thư của Dadlez (ngày [ngày 17 tháng 9](../_/17_September.md)), liên quan đến bản dịch sang tiếng Tây Ban Nha của *[The Hobbit](../T/The_Hobbit.md)* (xem <i><b><a href="../E/El_hobito.md" title="El hobito">El hobito</a></b></i>). Các nhà xuất bản Argentina (trong một lá thư ngày 14 tháng 9<sup id="cite_ref-RG_2-0" class="reference"><a href="#cite_note-RG-2">[2]</a></sup>), bình luận về đề xuất của Tolkien về dạng *hobitos*, đến lượt họ đề xuất dạng *jobitos* (vì *h* bị tắt tiếng trong tiếng Tây Ban Nha). Các nhà xuất bản cũng viết rằng họ "không thể tìm thấy đoạn trích dẫn được ông trích dẫn trong bản sao *The Hobbit* họ đang sử dụng", liên quan đến *gnomos*/*gnomes* (xem [Thư gửi Alina Dadlez (20 tháng 7 năm 1962)](<Letter_to_Alina_Dadlez_(20_July_1962).md>)).<sup id="cite_ref-G_1-1" class="reference"><a href="#cite_note-G-1">[1]</a></sup>
-- **Lưu trữ:** Lưu trữ Tolkien-George Allen & Unwin, HarperCollins.<sup id="cite_ref-G_1-2" class="reference"><a href="#cite_note-G-1">[1]</a></sup>
+- **Chủ đề:** Trả lời thư của Dadlez (của [17 tháng Chín](../_/17_September.md)), liên quan đến bản dịch sang tiếng Tây Ban Nha của *[The Hobbit](../T/The_Hobbit.md)* (xem <i><b><a href="../E/El_hobito.md" title="El hobito">El hobito</a></b></i>). Các nhà xuất bản Argentina (trong lá thư 14 tháng Chín<sup id="cite_ref-RG_2-0" class="reference"><a href="#cite_note-RG-2">[2]</a></sup>), bình luận về đề xuất của Tolkien về dạng *hobitos*, đến lượt họ đề xuất dạng *jobitos* (vì *h* bị tắt tiếng trong tiếng Tây Ban Nha). Các nhà xuất bản cũng viết rằng họ "không thể tìm thấy đoạn trích dẫn được ông trích dẫn trong bản sao *The Hobbit* họ đang sử dụng", liên quan đến *gnomos*/*gnomes* (xem [Thư gửi Alina Dadlez (20 tháng 7 năm 1962)](<Letter_to_Alina_Dadlez_(20_July_1962).md>)).<sup id="cite_ref-G_1-1" class="reference"><a href="#cite_note-G-1">[1]</a></sup>
+- **Lưu trữ:** Tolkien-George Allen &amp; Unwin lưu trữ, HarperCollins.<sup id="cite_ref-G_1-2" class="reference"><a href="#cite_note-G-1">[1]</a></sup>
 
 ## Trích đoạn {#Excerpts}
 
@@ -29,7 +29,7 @@ Vào [19 tháng 9](../_/19_September.md) [1962](../_/1962.md), [J.R.R. Tolkien](
 <p class="tg-quote-footer"><cite>J.R.R. Tolkien<sup id="cite_ref-RG_2-1" class="reference"><a href="#cite_note-RG-2">[2]</a></sup></cite></p>
 </blockquote>
 
-Theo lời của [Christina Scull](../C/Christina_Scull.md) và [Wayne G. Hammond](../W/Wayne_G._Hammond.md), Tolkien cũng viết rằng ông "đã đưa ra tham chiếu sai trong *The Hobbit* vì ông đã sử dụng phiên bản cũ hơn".<sup id="cite_ref-G_1-3" class="reference"><a href="#cite_note-G-1">[1]</a></sup>
+Theo lời của [Christina Scull](../C/Christina_Scull.md) và [Wayne G. Hammond](../W/Wayne_G._Hammond.md), Tolkien cũng viết rằng ông ta "đã đưa sai tài liệu tham khảo trong *The Hobbit* vì ông ta đã sử dụng phiên bản cũ hơn".<sup id="cite_ref-G_1-3" class="reference"><a href="#cite_note-G-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}
 

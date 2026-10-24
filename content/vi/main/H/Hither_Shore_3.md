@@ -39,19 +39,19 @@ infobox:
 ## Nội dung {#Contents}
 
 - Lời nói đầu/Lời nói đầu
-- Hội thảo Tolkien 2006
-    - Thần thoại nước Anh – Câu hỏi về bản sắc dân tộc trong Truyền thuyết của Tolkien bởi [Thomas Honegger](../T/Thomas_Honegger.md) (Jena)
+- Tolkien Hội thảo 2006
+    - Thần thoại nước Anh – Câu hỏi về bản sắc dân tộc trong Legendarium của Tolkien của [Thomas Honegger](../T/Thomas_Honegger.md) (Jena)
     - The Lays of Beleriand: Sử thi và lãng mạn của Allan Turner (Greifswald)
     - Die steigende Präsenz von Philosophie und Theology của [Thomas Fornet-Ponse](../T/Thomas_Fornet-Ponse.md) (Jerusalem)
     - Von Wilderland nach Trung Địa của Christian Schröder (Stuttgart)
     - Das Erbe der Entwürfe – Ungeplante Qualität(en) im Herrn der Ringe của Michaela Zehetner (Salzburg)
     - » Trotter là ai? « – Anmerkungen zum Schaffensprozess bei J.R.R. Tolkien của Petra Zimmermann (Braunschweig)
-    - Làm việc với HoMe: Công dụng của nó trong việc nghiên cứu tên địa điểm ở Shire của [Rainer Nagel](../R/Rainer_Nagel.md) (Mainz)
+    - Làm việc với HoMe: Công dụng của nó trong nghiên cứu Shire Tên địa điểm của [Rainer Nagel](../R/Rainer_Nagel.md) (Mainz)
     - Langlebigkeit, Unsterblichkeit und Wiedergeburt trong Tolkiens Werk und Welt của Friedhelm Schneidewind (Hemsbach)
-    - Die Athrabeth Finrod ah Andreth oder Das Menschenbild trong Thần thoại Tolkiens của Alexandra Wolf (Braunschweig)
+    - Chết Athrabeth Finrod ah Andreth oder Das Menschenbild trong Thần thoại Tolkiens của Alexandra Wolf (Braunschweig)
     - Ainulindalen của Thomas Gießl (Giengen)
-    - Die Romanfragmente Con đường đã mất và Giấy tờ của Câu lạc bộ Ý niệm: Zu ihrer văn học-konzeptionellen Stellung Innerhalb des văn học-fiktionalen Gesamtwerkes của Heidi Krüger (Hamburg)
-    - 'Thơ mộng hơn, bớt tầm thường hơn': Sự hội tụ giữa huyền thoại và lịch sử trong các tác phẩm của Tolkien bởi Judith Klinger (Potsdam)
+    - Die Romanfragmente The Lost Road và The Notion Club Papers: Zu ihrer Literarisch-konzeptionellen Stellung Innerhalb des Literarisch-fiktionalen Gesamtwerkes của Heidi Krüger (Hamburg)
+    - ‘Thơ mộng hơn, bớt tầm thường hơn’: Sự hội tụ giữa huyền thoại và lịch sử trong tác phẩm Tolkien của Judith Klinger (Potsdam)
     - Raumschiffe und Zeitträume: Wie und warum Tolkien ohne Maschinen reisen wollte của Christian Weichmann (Berlin)
     - Tóm tắt các tài liệu hội thảo
 - Đang tiến hành
@@ -67,14 +67,14 @@ infobox:
 - Rezensionen
     - Peter Gilliver, Jeremy Marshall, Edmund Weiner: Chiếc nhẫn ngôn từ. Tolkien và Từ điển tiếng Anh Oxford
     - Mark T. Hooker: Một toán học Tolkienian
-    - Nghiên cứu của Tolkien: Đánh giá học thuật hàng năm. Tập III, 2006
+    - Tolkien Nghiên cứu: Đánh giá học thuật hàng năm. Tập III, 2006
     - Karen Armstrong: Eine kurze Geschichte des Mythos
-    - Robert Eaglestone (Hg.): Đọc Chúa tể của những chiếc nhẫn. Những bài viết mới về Tolkien's Classic
-    - Wayne G. Hammond và Christina Scull: Chúa tể của những chiếc nhẫn: Người bạn đồng hành của độc giả
-    - Peter J. Kreeft: Triết lý của Tolkien. Thế giới quan đằng sau Chúa tể của những chiếc nhẫn
-    - Stuart D. Lee và Elizabeth Solopova: Chìa khóa của Trung địa. Khám phá văn học trung cổ qua tiểu thuyết J.R.R. Tolkien
+    - Robert Eaglestone (Hg.): Đọc The Lord of the Rings. Bài viết mới trên Tolkien's Classic
+    - Wayne G. Hammond và Christina Scull: The Lord of the Rings: Người bạn đồng hành của độc giả
+    - Peter J. Kreeft: Triết lý của Tolkien. Thế giới quan đằng sau The Lord of the Rings
+    - Stuart D. Lee và Elizabeth Solopova: Chìa khóa của Trung Địa. Khám phá văn học trung cổ qua tiểu thuyết J.R.R. Tolkien
     - Thomas Le Blanc và Bettina Twrsnick (Hg.): Das Dritte Zeitalter. Herr der Ringe của J.R.R. Tolkien
-    - Henry Gee: Khoa học về Trung địa: Giải thích khoa học đằng sau sử thi giả tưởng vĩ đại nhất từng được kể
+    - Henry Gee: Khoa học về Trung Địa: Giải thích khoa học đằng sau sử thi giả tưởng vĩ đại nhất từng được kể
     - Eduardo Segura: El Viaje del Anillo
 - Danh sách Siglen
 - Über die Autorinnen und Autoren

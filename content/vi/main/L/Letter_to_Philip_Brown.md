@@ -18,9 +18,9 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/P/Philip_Brown_30_May_1973.png.md"><img src="https://tolkiengateway.net/w/images/thumb/7/78/Philip_Brown_30_May_1973.png/300px-Philip_Brown_30_May_1973.png" decoding="async" loading="lazy" width="300" height="377" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/78/Philip_Brown_30_May_1973.png/450px-Philip_Brown_30_May_1973.png 1.5x, https://tolkiengateway.net/w/images/thumb/7/78/Philip_Brown_30_May_1973.png/600px-Philip_Brown_30_May_1973.png 2x" data-file-width="668" data-file-height="840"/></a><figcaption></figcaption></figure>
 
-Vào [30 tháng 5](../_/30_May.md) [1973](../_/1973.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) gửi Philip Brown** của <a class="extiw" href="http://en.wikipedia.org/wiki/Merton_College,_Oxford" title="wikipedia:Merton College, Oxford">Merton College</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Vào [30 tháng 5](../_/30_May.md) [1973](../_/1973.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho Philip Brown** của <a class="extiw" href="http://en.wikipedia.org/wiki/Merton_College,_Oxford" title="wikipedia:Merton College, Oxford">Merton College</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-- **Chủ đề:** Sắp xếp một cuộc họp. Tolkien cũng đặt tên [Quenya](../Q/Quenya.md) cho *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*: *i Túrin i Cormaron*.
+- **Chủ đề:** Sắp xếp một cuộc họp. Tolkien cũng cung cấp tên [Quenya](../Q/Quenya.md) của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*: *i Túrin i Cormaron*.
 
 <span></span>
 

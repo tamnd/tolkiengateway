@@ -69,18 +69,18 @@ Sự kiện xảy ra vào ngày 15 tháng 1.
 - **[1945](1945.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 94c](../L/Letter_94c.md).
 - **[1957](1957.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được [phỏng vấn](1957_%2522Carnival_of_Books%2522_Interview.md) bởi Ruth Harshaw cho chương trình phát thanh NBC "Lễ hội sách".
 - **[1965](1965.md)** - Diễn viên [James Nesbitt](../J/James_Nesbitt.md) ra đời.
-- **[1967](1967.md)** - [Cuộc phỏng vấn của Philip Norman](../../index/I/Interviews_with_J.R.R._Tolkien.md) với [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được xuất bản trên *[The Sunday Times Magazine](../T/The_Sunday_Times_Magazine_15_January_1967.md)* và *[The New York Times Magazine](../T/The_New_York_Times_Magazine_15_January_1967.md)*.
+- **[1967](1967.md)** - [Bài phỏng vấn của Philip Norman](../../index/I/Interviews_with_J.R.R._Tolkien.md) với [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được đăng trên *[The Sunday Times Magazine](../T/The_Sunday_Times_Magazine_15_January_1967.md)* và *[The New York Times Magazine](../T/The_New_York_Times_Magazine_15_January_1967.md)*.
 - **[1970](1970.md)** - Nhạc sĩ [Charles Deenen](../C/Charles_Deenen.md) ra đời.
-- **[1972](1972.md)** - [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) tổ chức một cuộc họp chung và chính thức được thành lập.
+- **[1972](1972.md)** - [Hội Tolkien](../T/The_Tolkien_Society.md) tổ chức đại hội và chính thức được thành lập.
 - **[2005](2005.md)** - Ngày thứ hai của "[Lễ kỷ niệm một chiếc nhẫn](../T/The_One_Ring_Celebration.md)" đầu tiên.
 - **[2015](2015.md)** - *[A Brief History of The Hobbit](../A/A_Brief_History_of_The_Hobbit.md)* được xuất bản.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - [Hiệp hội Nhẫn](../F/Fellowship_of_the_Ring.md) tìm thấy [Phòng Mazarbul](../C/Chamber_of_Mazarbul.md) và [Lăng mộ Balin](../B/Balin's_Tomb.md). [Gimli](../G/Gimli.md) lấy [Sách Mazarbul](../B/Book_of_Mazarbul.md).
-    - Cuộc tấn công của lũ Orc và [Balrog](../B/Balrogs.md). [Gandalf](../G/Gandalf.md) phá hủy [Cầu Khazad-dûm](../B/Bridge_of_Khazad-dûm.md) và sụp đổ cùng với [Durin's Bane](../D/Durin's_Bane.md).
-    - Phần còn lại của [Học bổng](../F/Fellowship_of_the_Ring.md) thoát ra [Moria](../M/Moria.md) và đi vào [Dimrill Dale](../D/Dimrill_Dale.md).
+    - Người [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) tìm thấy Lăng mộ của [Phòng Mazarbul](../C/Chamber_of_Mazarbul.md) và [Balin](../B/Balin's_Tomb.md). [Gimli](../G/Gimli.md) lấy [Sách Mazarbul](../B/Book_of_Mazarbul.md).
+    - Cuộc tấn công của Orc và [Balrog](../B/Balrogs.md). [Gandalf](../G/Gandalf.md) phá hủy [Cầu Khazad-dûm](../B/Bridge_of_Khazad-dûm.md) và rơi cùng với [Tai họa của Durin](../D/Durin's_Bane.md).
+    - Phần còn lại của [Học bổng](../F/Fellowship_of_the_Ring.md) thoát ra [Moria](../M/Moria.md) và vào [Thung lũng Dimrill](../D/Dimrill_Dale.md).
     - [Gimli](../G/Gimli.md), [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md) nhìn vào [Mirrormere](../M/Mirrormere.md).
     - [Haldir](../H/Haldir.md), [Rúmil](<../R/Rúmil_(elf_of_Lórien).md>) và [Orophin](../O/Orophin.md) gặp gỡ Hiệp hội. Họ ngủ trên những chiếc tàu bay.
     - [Orc](../O/Orcs.md) đi qua [Lothlórien](../L/Lothlórien.md).

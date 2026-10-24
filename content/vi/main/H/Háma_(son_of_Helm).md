@@ -59,7 +59,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Khi [Dunlendings](../D/Dunlendings.md) xâm lược [Rohan](../R/Rohan.md) ở [T.A.](../T/Third_Age.md) [2758](../T/Third_Age_2758.md), Háma đã ẩn náu tại [Helm's Deep](Helm's_Deep.md) cùng với cha mình. Trong [Mùa Đông Dài](../L/Long_Winter.md) Helm bị bao vây, lương thực của người Rohirrim cạn kiệt và người dân bắt đầu chết đói. Sau [Yule](../Y/Yule.md), Háma dẫn đầu một nhóm ra khỏi pháo đài để xuất kích tìm thức ăn, nhưng họ bị lạc trong một cơn bão tuyết và không bao giờ quay trở lại.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Khi [Dunlendings](../D/Dunlendings.md) xâm chiếm [Rohan](../R/Rohan.md) ở [T.A.](../T/Third_Age.md) [2758](../T/Third_Age_2758.md), Háma đã ẩn náu ở [Helm's Deep](Helm's_Deep.md) cùng với cha mình. Trong thời gian [Mùa Đông Dài](../L/Long_Winter.md) Helm bị bao vây, lương thực của Rohirrim cạn kiệt và người dân bắt đầu chết đói. Sau [Yule](../Y/Yule.md), Háma dẫn đầu một nhóm ra khỏi pháo đài để xuất kích tìm thức ăn, nhưng họ bị lạc trong một cơn bão tuyết và không bao giờ quay trở lại.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -93,7 +93,7 @@ Háma trong [tiếng Anh cổ](../O/Old_English.md) có nghĩa là "nhà".
 		</li>
 </ul>
 
-<b>2024: <i><a class="mw-redirect" href="../W/War_of_the_Rohirrim.md" title="War of the Rohirrim">Chiến tranh của người Rohirrim</a></i>:</b>
+<b>2024: <i><a class="mw-redirect" href="../W/War_of_the_Rohirrim.md" title="War of the Rohirrim">Chiến tranh Rohirrim</a></i>:</b>
 
 <br> <span></span>
 

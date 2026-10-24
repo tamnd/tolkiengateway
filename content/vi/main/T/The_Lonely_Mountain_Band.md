@@ -29,7 +29,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Band</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Lonely Mountain Band</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Background Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data">Folk</td></tr><tr><th scope="row" class="tg-infobox-label">Years active</th><td class="tg-infobox-data">2008-present</td></tr><tr><th scope="row" class="tg-infobox-label">website</th><td class="tg-infobox-data"><a class="external text" href="http://lonelymountainband.com/" rel="noreferrer noopener" target="_blank">Official Website</a></td></tr></tbody></table>
 
-**The Lonely Mountain Band** là một dự án âm nhạc lấy cảm hứng [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và *[The Lord of the Rings Online](The_Lord_of_the_Rings_Online.md)* mối quan hệ họ hàng gồm các thành viên của ban nhạc rock Celtic Fathom.
+**Ban nhạc Ngọn Núi Cô Đơn** là một dự án âm nhạc lấy cảm hứng từ [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và *[The Lord of the Rings Online](The_Lord_of_the_Rings_Online.md)* mối quan hệ họ hàng gồm các thành viên của ban nhạc rock Celtic Fathom.
 
 ## Danh sách đĩa {#Discography}
 
@@ -37,7 +37,7 @@ infobox:
 
 - *[Beyond the Western Seas](../B/Beyond_the_Western_Seas.md)* (2010)
 - <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Second_Breakfast&amp;action=edit&amp;redlink=1" title="Second Breakfast (page does not exist)">Bữa sáng thứ hai</a></i> (2011)
-- <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Song_of_the_Dwarves&amp;action=edit&amp;redlink=1" title="Song of the Dwarves (page does not exist)">Bài hát của người lùn</a></i> (2012)
+- <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Song_of_the_Dwarves&amp;action=edit&amp;redlink=1" title="Song of the Dwarves (page does not exist)">Bài hát của Người Lùn</a></i> (2012)
 
 ### Đơn {#Singles}
 

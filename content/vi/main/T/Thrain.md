@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Thráin"
 ---
 
-Chuyển hướng tới [Thráin](Thráin.md).
+Chuyển hướng đến [Thráin](Thráin.md).

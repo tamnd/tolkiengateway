@@ -51,32 +51,32 @@ infobox:
 
 <i><b>Tolkien: Maker of Middle-earth</b></i> là một cuốn sách nghệ thuật [2018](../_/2018.md) khám phá các tác phẩm nghệ thuật, hình minh họa, bản đồ, thư từ và bản thảo của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Cuốn sách được viết bởi [Catherine McIlwaine](../C/Catherine_McIlwaine.md), nhà lưu trữ Tolkien tại [Thư viện Bodleian](../B/Bodleian_Library.md). Nó được chọn trùng với thời điểm diễn ra cuộc triển lãm cùng tên, cũng do McIlwaine phụ trách.
 
-Cuốn sách ghi lại quá trình sáng tạo của Tolkien đằng sau cuốn sách [Trung Địa](../M/Middle-earth.md) của ông với các bài tiểu luận của các học giả Tolkien và danh mục các tác phẩm nghệ thuật của ông, mỗi hình ảnh kèm theo một văn bản mô tả và lịch sử. Với khoảng 300 hình minh họa, chủ yếu là hình ảnh và văn bản trải dài trên hai trang, nó dựa trên bộ sưu tập tại Thư viện Bodleian, [Đại học Marquette](../M/Marquette_University.md) và các bộ sưu tập tư nhân, một số trong đó trước đây công chúng chưa từng xem được. Cuốn sách và triển lãm đã được nhiều nhà bình luận ngưỡng mộ.
+Cuốn sách ghi lại quá trình sáng tạo của Tolkien đằng sau những cuốn sách [Trung Địa](../M/Middle-earth.md) của ông với các bài tiểu luận của các học giả Tolkien và danh mục các tác phẩm nghệ thuật của ông, mỗi hình ảnh kèm theo một văn bản mô tả và lịch sử. Với khoảng 300 hình minh họa, chủ yếu ở dạng trang đôi gồm hình ảnh và văn bản, nó dựa trên bộ sưu tập tại Thư viện Bodleian, [Đại học Marquette](../M/Marquette_University.md) và các bộ sưu tập cá nhân, một số trong đó trước đây công chúng chưa bao giờ có thể xem được. Cuốn sách và triển lãm đã được nhiều nhà bình luận ngưỡng mộ.
 
 Nó được xuất bản cùng với tập *[Tolkien: Treasures](Tolkien%253A_Treasures.md)* đi kèm.
 
 ## Tổng quan {#Overview}
 
-Cuốn sách được chia thành hai phần. Phần đầu tiên là một loạt bài tiểu luận về các khía cạnh quan trọng trong quá trình sáng tạo Trung Địa của Tolkien. Có một tiểu sử tóm tắt về Tolkien của McIlwaine và một chương của [John Garth](../J/John_Garth.md) về việc [Inklings](The_Inklings.md), một nhóm văn học bao gồm [C. S. Lewis](../C/C._S._Lewis.md), đã ảnh hưởng đến Tolkien như thế nào. [Verlyn Flieger](../V/Verlyn_Flieger.md) mô tả khái niệm *faerie* của Tolkien, tham khảo các tác phẩm như *[On Fairy-Stories](../O/On_Fairy-Stories.md)* và *[Smith of Wootton Major](../S/Smith_of_Wootton_Major.md)* cũng như các cuốn sách về Trung Địa của ông. [Carl F. Hostetter](../C/Carl_F._Hostetter.md) giới thiệu các ngôn ngữ Tiên do Tolkien phát minh ra, [Quenya](../Q/Quenya.md) và [Sindarin](../S/Sindarin.md). [Tom Shippey](Tom_Shippey.md) nhận xét về cách Tolkien sử dụng sáng tạo thần thoại Bắc Âu và đặc tính dũng cảm không hy vọng chiến thắng của người phương Bắc, trích dẫn *[Beowulf](<../B/Beowulf_(poem).md>)* và *Poetic Edda's Lay of Fafnir, để phù hợp với sở thích, đức tin và kiến ​​thức về ngữ văn của ông. Cuối cùng, [Wayne Hammond](../W/Wayne_Hammond.md) và [Christina Scull](../C/Christina_Scull.md) giới thiệu nghệ thuật thị giác của Tolkien, cho rằng tác phẩm nghệ thuật của ông cũng tỉ mỉ như bài viết của ông.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Cuốn sách được chia thành hai phần. Phần đầu tiên là một loạt bài tiểu luận về các khía cạnh chính trong quá trình sáng tạo Trung Địa của Tolkien. Có một tiểu sử tóm tắt về Tolkien của McIlwaine và một chương của [John Garth](../J/John_Garth.md) về [the Inklings](The_Inklings.md), một nhóm văn học bao gồm [C. S. Lewis](../C/C._S._Lewis.md), đã ảnh hưởng đến Tolkien như thế nào. [Verlyn Flieger](../V/Verlyn_Flieger.md) mô tả khái niệm *faerie* của Tolkien, tham khảo các tác phẩm như *[On Fairy-Stories](../O/On_Fairy-Stories.md)* và *[Smith of Wootton Major](../S/Smith_of_Wootton_Major.md)* cũng như các cuốn sách Trung Địa của ông. [Carl F. Hostetter](../C/Carl_F._Hostetter.md) giới thiệu các ngôn ngữ Elvish được phát minh bởi Tolkien, [Quenya](../Q/Quenya.md) và [Sindarin](../S/Sindarin.md). [Tom Shippey](Tom_Shippey.md) nhận xét về cách sử dụng sáng tạo thần thoại Bắc Âu của Tolkien và đặc tính dũng cảm không hy vọng chiến thắng của người miền Bắc, trích dẫn *[Beowulf](<../B/Beowulf_(poem).md>)* và Lay of Fafnir của *Poetic Edda's, để phù hợp với sở thích, đức tin và kiến ​​thức về ngữ văn của ông. Cuối cùng, [Wayne Hammond](../W/Wayne_Hammond.md) và [Christina Scull](../C/Christina_Scull.md) giới thiệu nghệ thuật thị giác của Tolkien, cho rằng tác phẩm nghệ thuật của ông cũng kỹ lưỡng như bài viết của ông.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Phần thứ hai là danh mục triển lãm, được chia thành các chương bao gồm những bức thư của Tolkien, thời thơ ấu, thời sinh viên, khả năng sáng tạo, nỗ lực lâu dài của ông đối với *[The Silmarillion](The_Silmarillion.md)* thần thoại, công việc ở nhà, *[The Hobbit](The_Hobbit.md)*, *[The Lord of the Rings](The_Lord_of_the_Rings.md)* và các bản đồ Trung Địa của ông. Nó cung cấp khoảng 300 hình minh họa, chủ yếu ở dạng hình ảnh và văn bản trải dài hai trang. Một số từ bộ sưu tập tại Thư viện Bodleian; những cái khác lấy từ kho lưu trữ tại [Đại học Marquette](../M/Marquette_University.md) và từ các bộ sưu tập tư nhân.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Phần thứ hai là danh mục triển lãm, được chia thành các chương bao gồm những bức thư của Tolkien, thời thơ ấu, thời sinh viên, khả năng sáng tạo, nỗ lực lâu dài của ông đối với *[The Silmarillion](The_Silmarillion.md)* huyền thoại, công việc ở nhà, *[The Hobbit](The_Hobbit.md)*, *[The Lord of the Rings](The_Lord_of_the_Rings.md)* và bản đồ Trung Địa của ông. Nó cung cấp khoảng 300 hình minh họa, chủ yếu ở dạng hình ảnh và văn bản trải dài hai trang. Một số từ bộ sưu tập tại Thư viện Bodleian; một số khác từ kho lưu trữ tại [Đại học Marquette](../M/Marquette_University.md) và từ các bộ sưu tập tư nhân.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Nội dung {#Contents}
 
 - Lời nói đầu
 - Tiểu luận
     - "J.R.R. Tolkien: Một bản phác thảo tiểu sử", của [Catherine McIlwaine](../C/Catherine_McIlwaine.md)
-    - "Tolkien và Inklings", của [John Garth](../J/John_Garth.md)
-    - "Faërie: Vùng đất nguy hiểm của Tolkien", bởi [Verlyn Flieger](../V/Verlyn_Flieger.md)
-    - "Phát minh ra yêu tinh", của [Carl F. Hostetter](../C/Carl_F._Hostetter.md)
-    - "Tolkien và 'tinh thần phương Bắc cao quý'", của [Tom Shippey](Tom_Shippey.md)
-    - "Nghệ thuật thị giác của Tolkien", của [Wayne G. Hammond](../W/Wayne_G._Hammond.md) và [Christina Scull](../C/Christina_Scull.md)
+    - "Tolkien và Inklings", bởi [John Garth](../J/John_Garth.md)
+    - "Thần tiên: Vùng đất nguy hiểm của Tolkien", bởi [Verlyn Flieger](../V/Verlyn_Flieger.md)
+    - "Phát minh Elvish", bởi [Carl F. Hostetter](../C/Carl_F._Hostetter.md)
+    - "Tolkien và 'tinh thần phương Bắc cao quý'", bởi [Tom Shippey](Tom_Shippey.md)
+    - "Nghệ thuật thị giác củaTolkien", bởi [Wayne G. Hammond](../W/Wayne_G._Hammond.md) và [Christina Scull](../C/Christina_Scull.md)
 
 - Danh mục
     - Đọc Tolkien
     - Tuổi thơ
     - Ngày sinh viên
-    - Sáng chế tuyệt vời
+    - Phát minh tuyệt vời
     - *The Silmarillion*
     - Nghiên cứu của Giáo sư
     - *The Hobbit*
@@ -127,7 +127,7 @@ Phần thứ hai là danh mục triển lãm, được chia thành các chương
 ## Xem thêm {#See_also}
 
 - *[J.R.R. Tolkien: Life and Legend](../J/J.R.R._Tolkien%253A_Life_and_Legend.md)* (Danh mục triển lãm của Bodleian năm 1992)
-- [Triển lãm Tolkien](Tolkien_exhibitions.md)
+- [Tolkien triển lãm](Tolkien_exhibitions.md)
 
 ## Liên kết ngoài {#External_links}
 

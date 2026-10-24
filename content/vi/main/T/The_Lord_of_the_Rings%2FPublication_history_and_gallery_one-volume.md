@@ -51,7 +51,7 @@ images:
   - "The_Lord_of_the_Rings_OV_2022-pb-2.jpg"
 ---
 
-Dưới đây là *major* ấn bản một tập **ấn bản tại Vương quốc Anh** của <i><b><a href="The_Lord_of_the_Rings.md" title="The Lord of the Rings">Chúa tể của những chiếc nhẫn</a></b></i>.
+Dưới đây là *major* ấn bản một tập **tại Vương quốc Anh** của <i><b><a href="The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></b></i>.
 
 ## 1968-1989 {#1968-1989}
 
@@ -128,10 +128,10 @@ Dưới đây là *major* ấn bản một tập **ấn bản tại Vương qu�
 		</li>
 </ul>
 
-- [1968](../_/1968.md): [George Allen & Unwin](../G/George_Allen_&_Unwin.md), bìa mềm, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0048230871">ISBN 0048230871</a> - (ấn bản 1 tập đầu tiên, ảnh bìa của [Pauline Baynes](../P/Pauline_Baynes.md))
+- [1968](../_/1968.md): [George Allen &amp; Unwin](../G/George_Allen_&_Unwin.md), bìa mềm, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0048230871">ISBN 0048230871</a> - (ấn bản 1 tập đầu tiên, ảnh bìa của [Pauline Baynes](../P/Pauline_Baynes.md))
     - Ấn bản bìa mềm năm 1968, ấn bản thứ 11 ([1972](../_/1972.md))
     - Ấn bản bìa mềm năm 1968, ấn bản thứ 12 ([1973](../_/1973.md))
-- [1969](../_/1969.md): [George Allen & Unwin](../G/George_Allen_&_Unwin.md), bìa cứng đựng trong hộp/hộp trượt, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/004823091X">ISBN 004823091X</a> - (ấn bản giấy sang trọng ở Ấn Độ)
+- [1969](../_/1969.md): [George Allen &amp; Unwin](../G/George_Allen_&_Unwin.md), bìa cứng đựng trong hộp/hộp, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/004823091X">ISBN 004823091X</a> - (ấn bản giấy sang trọng ở Ấn Độ)
 - [1978](../_/1978.md): [Bỏ sách bìa mềm](../U/Unwin_Paperbacks.md), bìa mềm, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0048231495">ISBN 0048231495</a> - (ấn bản 1 tập thứ hai)
     - Ấn bản bìa mềm năm 1978, ấn bản đính kèm [phim 1978](<The_Lord_of_the_Rings_(1978_film).md>) - (bìa phim)
 - [1983](../_/1983.md): Unicorn / Unwin Bìa mềm, bìa mềm, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0048232297">ISBN 0048232297</a> - (ấn bản 1 tập thứ ba, ảnh bìa của [Roger Garland](../R/Roger_Garland.md))
@@ -225,7 +225,7 @@ Dưới đây là *major* ấn bản một tập **ấn bản tại Vương qu�
     - Ấn bản bìa mềm năm 1995, ấn bản thứ 11
     - Ấn bản bìa mềm năm 1995, ấn bản thứ 16 - (phiên bản giới hạn đặc biệt, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007118368">ISBN 0007118368</a>)
     - Ấn bản bìa mềm năm 1995, ấn bản thứ 30
-- [1997](../_/1997.md): [HarperCollins](../H/HarperCollins.md) bìa cứng đựng trong hộp đựng, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0261103687">ISBN 0261103687</a> - (ấn bản giấy sang trọng ở Ấn Độ)
+- [1997](../_/1997.md): [HarperCollins](../H/HarperCollins.md) bìa cứng đựng trong hộp, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0261103687">ISBN 0261103687</a> - (ấn bản giấy sang trọng của Ấn Độ)
 
 ## 2000-2009 {#2000-2009}
 
@@ -295,13 +295,13 @@ Dưới đây là *major* ấn bản một tập **ấn bản tại Vương qu�
 		</li>
 </ul>
 
-- [2001](../_/2001.md): [HarperCollins](../H/HarperCollins.md) bìa mềm, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007123817">ISBN 0007123817</a> - ([phim I](The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md) ấn bản đính kèm, bìa của phim)
+- [2001](../_/2001.md): [HarperCollins](../H/HarperCollins.md) bìa mềm, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007123817">ISBN 0007123817</a> - ([phim I](The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md) ấn bản đính kèm, bìa phim)
 - [2002](../_/2002.md): [HarperCollins](../H/HarperCollins.md) bìa cứng, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007149131">ISBN 0007149131</a> - (ấn bản đính kèm phim, bìa phim)
 - [2002](../_/2002.md): [HarperCollins](../H/HarperCollins.md) bìa mềm, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007149247">ISBN 0007149247</a> - ([phim II](The_Lord_of_the_Rings%253A_The_Two_Towers.md) ấn bản đính kèm, bìa của phim)
 - [2003](../_/2003.md): [HarperCollins](../H/HarperCollins.md) bìa mềm, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007172001">ISBN 0007172001</a> - ([phim III](The_Lord_of_the_Rings%253A_The_Return_of_the_King.md) ấn bản đính kèm, bìa của phim)
 - [2003](../_/2003.md): HarperCollins / W.H. Smith, bìa mềm, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007172745">ISBN 0007172745</a> - (ấn bản nhỏ chỉ chứa Chương Một)
 - [2004](../_/2004.md): Ấn bản bìa cứng năm 1994, thiết lập lại năm 2004 - (**Ấn bản kỷ niệm 50 năm**)
-- [2004](../_/2004.md): [HarperCollins](../H/HarperCollins.md) bìa cứng đựng trong hộp đựng, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007182368">ISBN 0007182368</a> - (Phiên bản cao cấp kỷ niệm 50 năm)
+- [2004](../_/2004.md): [HarperCollins](../H/HarperCollins.md) bìa cứng đựng trong hộp, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007182368">ISBN 0007182368</a> - (Phiên bản cao cấp kỷ niệm 50 năm)
     - [2005](../_/2005.md): Ấn bản bìa mềm năm 1995, ?lần xuất bản thứ 2 - (Ấn bản bìa mềm kỷ niệm 50 năm)
     - [2007](../_/2007.md): Ấn bản bìa mềm năm 1995, ấn bản thứ 40
 
@@ -345,9 +345,9 @@ Dưới đây là *major* ấn bản một tập **ấn bản tại Vương qu�
 		</li>
 </ul>
 
-- [2014](../_/2014.md): [HarperCollins](../H/HarperCollins.md) bìa cứng đựng trong hộp đựng, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007525540">ISBN 0007525540</a> - (minh họa bởi [Alan Lee](../A/Alan_Lee.md))
+- [2014](../_/2014.md): [HarperCollins](../H/HarperCollins.md) bìa cứng đựng trong hộp trượt, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007525540">ISBN 0007525540</a> - (minh họa bởi [Alan Lee](../A/Alan_Lee.md))
 - [2021](../_/2021.md): [HarperCollins](../H/HarperCollins.md) bìa cứng, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0008471282">ISBN 0008471282</a> - (minh họa bởi [tác giả](../J/J.R.R._Tolkien.md))
-- [2021](../_/2021.md): [HarperCollins](../H/HarperCollins.md) bìa cứng đựng trong hộp đựng, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0008471290">ISBN 0008471290</a> - (do tác giả minh họa)
+- [2021](../_/2021.md): [HarperCollins](../H/HarperCollins.md) bìa cứng đựng trong hộp, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0008471290">ISBN 0008471290</a> - (do tác giả minh họa)
     - [2022](../_/2022.md): Ấn bản bìa mềm năm 1995, ấn bản thứ 67,<sup id="cite_ref-note_1-0" class="reference"><a href="#cite_note-note-1">[1]</a></sup> <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0008537763">ISBN 0008537763</a> - ([Amazon TV](The_Lord_of_the_Rings%253A_The_Rings_of_Power.md) ấn bản gắn liền, bìa của chương trình)
     - [2022](../_/2022.md): Ấn bản bìa mềm năm 1995, in lần thứ 67<sup id="cite_ref-note_1-1" class="reference"><a href="#cite_note-note-1">[1]</a></sup>
 

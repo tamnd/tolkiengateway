@@ -18,7 +18,7 @@ sort_keys:
 Vào [26 tháng 1](../_/26_January.md) [1925](../_/1925.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho [Joseph Wright](../J/Joseph_Wright.md)**.<sup id="cite_ref-CG_1-0" class="reference"><a href="#cite_note-CG-1">[1]</a></sup>
 
 - **Chủ đề:** Viết nhân dịp Wright nghỉ hưu,<sup id="cite_ref-CG_1-1" class="reference"><a href="#cite_note-CG-1">[1]</a></sup> Tolkien tiết lộ rằng chính các tác phẩm của Wright đã đưa ông đến với môn ngữ văn khi còn là một cậu học sinh.<sup id="cite_ref-TB_2-0" class="reference"><a href="#cite_note-TB-2">[2]</a></sup>
-- **Ấn bản:** Trích đoạn bức thư được xuất bản trong *[The Life of Joseph Wright](../T/The_Life_of_Joseph_Wright.md)*, tập. 2, tr. 651.<sup id="cite_ref-TB_2-1" class="reference"><a href="#cite_note-TB-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+- **Xuất bản:** Trích đoạn bức thư được xuất bản trong *[The Life of Joseph Wright](../T/The_Life_of_Joseph_Wright.md)*, tập. 2, tr. 651.<sup id="cite_ref-TB_2-1" class="reference"><a href="#cite_note-TB-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Trích xuất {#Extract}
 

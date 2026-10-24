@@ -15,7 +15,7 @@ sort_keys:
   "Quenya nouns": "sama"
 ---
 
-<i><b>sáma</b></i> là từ [Quenya](../Q/Quenya.md) có nghĩa là "tâm trí". Quá trình được gọi là *[ósanwë](../_/Ósanwë.md)* ("trao đổi suy nghĩ") xảy ra giữa hai *samat*.<sup id="cite_ref-Eldarin_1-0" class="reference"><a href="#cite_note-Eldarin-1">[1]</a></sup>
+<i><b>sáma</b></i> là một từ [Quenya](../Q/Quenya.md) có nghĩa là "tâm trí". Quá trình được gọi là *[ósanwë](../_/Ósanwë.md)* ("trao đổi suy nghĩ") xảy ra giữa hai *samat*.<sup id="cite_ref-Eldarin_1-0" class="reference"><a href="#cite_note-Eldarin-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

@@ -19,7 +19,7 @@ sort_keys:
 Vào [12 tháng 10](../_/12_October.md) [1972](../_/1972.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) gửi [Rayner Unwin](../R/Rayner_Unwin.md)**.
 
 - **Chủ đề:** Hình thức in màu của một số hình ảnh trong Lịch Ballantine Tolkien, v.v.
-- **Xuất bản:** Các đoạn trích từ bức thư đã được xuất bản trong [*Amon Hen* 70](../A/Amon_Hen_70.md) (tr. 3), trong bài viết "'Cổng Moria'...Một cái nhìn khác của [Christopher Tolkien](../C/Christopher_Tolkien.md). Một phần ngắn hơn của bức thư (mặc dù mục trong bức thư bao gồm nhiều thông tin mô tả nội dung hơn) đã được in lại trong *[The J.R.R. Tolkien Companion and Guide: Chronology](../T/The_J.R.R._Tolkien_Companion_and_Guide.md)* (tr. 767).
+- **Xuất bản:** Các đoạn trích từ bức thư đã được xuất bản trong [*Amon Hen* 70](../A/Amon_Hen_70.md) (p. 3), trong bài viết "'Moria Gate'...Another Look của [Christopher Tolkien](../C/Christopher_Tolkien.md). Một phần ngắn hơn của bức thư (mặc dù mục trong bức thư bao gồm nhiều thông tin mô tả nội dung hơn) đã được in lại trong *[The J.R.R. Tolkien Companion and Guide: Chronology](../T/The_J.R.R._Tolkien_Companion_and_Guide.md)* (tr. 767).
 
 ## Xem thêm {#See_also}
 

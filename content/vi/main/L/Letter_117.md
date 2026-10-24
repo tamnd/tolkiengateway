@@ -33,7 +33,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien nói với Brogan rằng ông đã “rút lui” vào mùa hè và đã kết thúc thành công *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*. Nó đã được đọc và phê duyệt bởi [Rayner Unwin](../R/Rayner_Unwin.md), độc giả đầu tiên của *[The Hobbit](../T/The_Hobbit.md)*. Tolkien cho biết có khả năng nó sẽ được xuất bản, mặc dù ở mức 1200 trang, nó sẽ không mang lại tiền cho nhà xuất bản hoặc tác giả. Học kỳ đã bắt đầu khiến anh không thể sửa lại toàn bộ và gửi cho người đánh máy. Ngay sau khi có một bản sao dự phòng, ông sẽ cho Brogan mượn một bản, với nội dung giải thích, bảng chữ cái, lịch sử, lịch và gia phả dành riêng cho những "người hâm mộ" thực sự. Có lẽ đến Giáng sinh nhưng anh không thể hứa được. Công việc kiếm sống bằng nghề dạy học, giảng bài và tham dự các cuộc họp hàng ngày đã cản trở đáng kể đến công việc nghiêm túc.
+Tolkien nói với Brogan rằng ông đã đi "nghỉ dưỡng" vào mùa hè và đã kết thúc *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* thành công. Nó đã được đọc và phê duyệt bởi [Rayner Unwin](../R/Rayner_Unwin.md), độc giả ban đầu của *[The Hobbit](../T/The_Hobbit.md)*. Tolkien cho biết có khả năng nó sẽ được xuất bản, mặc dù ở mức 1200 trang, nó sẽ không mang lại lợi nhuận cho nhà xuất bản hoặc tác giả. Học kỳ đã bắt đầu khiến anh không thể sửa lại toàn bộ và gửi cho người đánh máy. Ngay sau khi có một bản sao dự phòng, ông sẽ cho Brogan mượn một bản, với nội dung giải thích, bảng chữ cái, lịch sử, lịch và gia phả dành riêng cho những "người hâm mộ" thực sự. Có lẽ đến Giáng sinh nhưng anh không thể hứa được. Công việc kiếm sống bằng nghề dạy học, giảng bài và tham dự các cuộc họp hàng ngày đã cản trở đáng kể đến công việc nghiêm túc.
 
 <br>
 

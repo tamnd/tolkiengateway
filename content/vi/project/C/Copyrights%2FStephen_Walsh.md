@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Walsh, Stephen"
 ---
 
-- Stephen Walsh đã vui lòng cho phép ông sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Stephen_Walsh.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
-- Ngày: 3 tháng 9 năm 2014
+- Stephen Walsh đã vui lòng cho phép sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Stephen_Walsh.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
+- Ngày: 3 tháng Chín năm 2014
 - Người dùng đã xin phép qua email: [Mith](https://tolkiengateway.net/wiki/User:Mith)

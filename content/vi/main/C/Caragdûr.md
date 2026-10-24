@@ -41,7 +41,7 @@ images:
 
 ## Lịch sử {#History}
 
-Sau khi giết vợ mình, [Aredhel](../A/Aredhel.md), [Eöl](../E/Eöl.md) [Dark Elf](../D/Dark_Elf.md) bị kết án tử hình bằng cách ném xuống Caragdûr. Ngay trước khi ngã xuống, Eöl đã kêu gọi [Maeglin](../M/Maeglin.md), con trai ông, nói rằng cậu sẽ chết ở chính nơi đó.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Nhiều năm sau, trong [Sự sụp đổ của Gondolin](../F/Fall_of_Gondolin.md), Maeglin đã ra tay [Idril](../I/Idril.md) nhưng bị [Tuor](../T/Tuor.md) ngăn cản. Tuor đã chiến đấu với Maeglin và ném ông ta ra xa để cơ thể của Maeglin đập ba lần vào sườn dốc của [Amon Gwareth](../A/Amon_Gwareth.md). Mặc dù Maeglin không được cho là đã chết khi rơi xuống từ Caragdûr, nhưng ông cũng chịu chung số phận với Eöl ở một địa điểm gần đó.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Sau khi giết vợ [Aredhel](../A/Aredhel.md), [Eöl](../E/Eöl.md) tên [Dark Tiên](../D/Dark_Elf.md) bị kết án tử hình bằng cách ném xuống Caragdûr. Ngay trước khi ngã xuống, Eöl đã hét lên với [Maeglin](../M/Maeglin.md), con trai ông rằng cậu sẽ chết ở chính nơi đó.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Nhiều năm sau, trong [Sự sụp đổ của Gondolin](../F/Fall_of_Gondolin.md), Maeglin đã ra tay [Idril](../I/Idril.md) nhưng bị [Tuor](../T/Tuor.md) ngăn cản. Tuor đã chiến đấu với Maeglin và ném ông ta ra xa khiến cơ thể của Maeglin đập ba lần vào sườn dốc của [Amon Gwareth](../A/Amon_Gwareth.md). Mặc dù Maeglin không được cho là đã chết khi rơi từ Caragdûr, nhưng ông đã chịu chung số phận với Eöl ở một địa điểm gần đó.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -49,9 +49,9 @@ Tên là [Sindarin](../S/Sindarin.md), sự kết hợp của *carag* ("spike") 
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Ý tưởng về việc cơ thể Maeglin tấn công ba lần đã được [Christopher Tolkien](Christopher_Tolkien.md) đưa vào *[Silmarillion](../S/Silmarillion.md)* của mình để ứng nghiệm lời nói của Eöl, nhưng nó được lấy từ Câu chuyện thất lạc về "[Sự sụp đổ của Gondolin](<../T/The_Fall_of_Gondolin_(chapter).md>)", không có linh cảm cũng như Caragdûr.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Điều đó có thể giải thích tại sao trong *Silmarillion* cái chết của hai cha con xảy ra ở những nơi khác nhau.
+Ý tưởng Maeglin tấn công cơ thể ba lần đã được [Christopher Tolkien](Christopher_Tolkien.md) đưa vào *[Silmarillion](../S/Silmarillion.md)* của mình để thực hiện lời nói của Eöl, nhưng nó được lấy từ Lost Tale của "[The Fall of Gondolin](<../T/The_Fall_of_Gondolin_(chapter).md>)", không có linh cảm cũng như Caragdûr.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Điều đó có thể giải thích tại sao trong *Silmarillion* cái chết của hai cha con xảy ra ở những nơi khác nhau.
 
-Trong các bản sửa đổi sau này của *Silmarillion*, Tolkien đã cân nhắc và từ chối cái tên *Caragdar*.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Trong các phiên bản sau của *Silmarillion*, Tolkien đã xem xét và loại bỏ tên *Caragdar*.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 <span></span>
 

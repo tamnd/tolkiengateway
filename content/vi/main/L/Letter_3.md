@@ -34,7 +34,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Bức thư này được gửi từ Trại Rugeley ở Staffordshire. Tolkien đang huấn luyện quân sự ở đó và viết *[Kortirion among the Trees](../T/The_Trees_of_Kortirion.md)*. Ông kể về thời tiết lạnh giá và về việc gửi [T.C.B.S.](../T/T.C.B.S..md) một bản *Kortirion*. Ông quyết định gửi cho Edith bản sao bằng bút chì gọn gàng của mình và bắt T.C.B.S. đợi cho đến khi ông có thể làm một bản khác. <br>
+Bức thư này được gửi từ Trại Rugeley ở Staffordshire. Tolkien đang huấn luyện quân sự ở đó và đã viết *[Kortirion among the Trees](../T/The_Trees_of_Kortirion.md)*. Ông kể về thời tiết lạnh giá và về việc gửi [T.C.B.S.](../T/T.C.B.S..md) một bản *Kortirion*. Ông quyết định gửi cho Edith bản sao bằng bút chì gọn gàng của mình và bắt T.C.B.S. đợi cho đến khi ông có thể làm một bản khác. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

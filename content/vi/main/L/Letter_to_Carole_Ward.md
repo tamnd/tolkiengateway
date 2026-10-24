@@ -16,12 +16,12 @@ sort_keys:
 
 Vào [10 tháng 8](../_/10_August.md) [1964](../_/1964.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho cô Carole Ward** (một nhà văn tự do).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-- **Chủ đề:** Tolkien trả lời câu hỏi về việc dàn dựng *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* cho [BBC 2](../B/BBC.md).
-- **Ấn phẩm:** Trích dẫn từ bức thư xuất hiện trong *[Christie's 20th-Century Books and Manuscripts 6 December 2002](../C/Christie's_20th-Century_Books_and_Manuscripts_6_December_2002.md)*.<sup id="cite_ref-Christie_3-0" class="reference"><a href="#cite_note-Christie-3">[3]</a></sup>
+- **Chủ đề:** Tolkien trả lời câu hỏi về việc đóng kịch *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* cho [BBC 2](../B/BBC.md).
+- **Ấn bản:** Trích dẫn từ bức thư xuất hiện trong *[Christie's 20th-Century Books and Manuscripts 6 December 2002](../C/Christie's_20th-Century_Books_and_Manuscripts_6_December_2002.md)*.<sup id="cite_ref-Christie_3-0" class="reference"><a href="#cite_note-Christie-3">[3]</a></sup>
 
 # Từ một cuộc đấu giá {#From_an_auction}
 
-TÁC ĐỘNG 'TUYỆT VỜI' CÓ THỂ TUYỆT VỜI CỦA PHIÊN BẢN TRUYỀN HÌNH CỦA CHÚA CỦA NHẪN: 'Tôi rất vui khi biết rằng bạn rất thích cuốn sách của tôi. Tuy nhiên, đối với Truyền hình, cá nhân tôi không thích kịch tính hóa tác phẩm của mình, đặc biệt là Chúa tể của những chiếc nhẫn, quá dài để tái bản mà không cắt và chỉnh sửa nghiêm túc: theo quan điểm của tôi là phá hoại, hoặc cùng lắm là gây tổn hại nghiêm trọng đến một câu chuyện phức tạp nhưng được đan xen chặt chẽ'. Tuy nhiên, ông chủ yếu coi đây là mối quan tâm của các nhà xuất bản và nghi ngờ rằng họ sẽ sẵn sàng xem xét các đề xuất; Do đó, ông chỉ đạo phóng viên của mình liên hệ với Allen & Unwin: 'Tất nhiên nếu có khả năng một kế hoạch truyền hình được đồng ý, tôi rất mong được gặp ông và hỏi ý kiến ​​ông sau'.<sup id="cite_ref-Christie_3-1" class="reference"><a href="#cite_note-Christie-3">[3]</a></sup>
+TÁC ĐỘNG 'TUYỆT VỜI' CÓ THỂ TUYỆT VỜI CỦA PHIÊN BẢN TRUYỀN HÌNH CỦA CHÚA CỦA NHẪN: 'Tôi rất vui khi biết rằng bạn rất thích cuốn sách của tôi. Tuy nhiên, đối với Truyền hình, cá nhân tôi không thích kịch tính hóa tác phẩm của mình, đặc biệt là tác phẩm The Lord of the Rings, quá dài để tái bản mà không cắt và chỉnh sửa nghiêm túc: theo quan điểm của tôi là phá hoại, hoặc cùng lắm là gây tổn hại nghiêm trọng đến một câu chuyện phức tạp nhưng được đan xen chặt chẽ'. Tuy nhiên, ông chủ yếu coi đây là mối quan tâm của các nhà xuất bản và nghi ngờ rằng họ sẽ sẵn sàng xem xét các đề xuất; do đó ông chỉ đạo phóng viên của mình liên hệ với Allen &amp; Unwin: 'Tất nhiên nếu có khả năng một kế hoạch truyền hình được đồng ý, tôi rất mong được gặp ông và hỏi ý kiến ​​ông sau'.<sup id="cite_ref-Christie_3-1" class="reference"><a href="#cite_note-Christie-3">[3]</a></sup>
 
 <span></span>
 

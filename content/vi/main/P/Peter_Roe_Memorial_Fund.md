@@ -38,7 +38,7 @@ images:
   - "Tolkien_and_the_Gothic.jpg"
 ---
 
-**Quỹ tưởng niệm Peter Roe** (còn được gọi là **Sách Peter Roe** hoặc **Tập sách Peter Roe**) tồn tại để sản xuất các ấn phẩm nhỏ về chủ đề mà độc giả Tolkien và các thành viên [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) quan tâm. Quỹ tồn tại để tưởng nhớ [Peter Roe](Peter_Roe.md) của Hiệp hội Tolkien.
+**Quỹ tưởng niệm Peter Roe** (còn được gọi là **Sách Peter Roe** hoặc **Tập sách Peter Roe**) tồn tại để sản xuất các ấn phẩm nhỏ về chủ đề mà Tolkien độc giả và [Tolkien thành viên Hiệp hội](../T/The_Tolkien_Society.md) quan tâm. Quỹ tồn tại để tưởng nhớ [Peter Roe](Peter_Roe.md) của Hiệp hội Tolkien.
 
 ## Sách trong bộ {#Book_in_the_series}
 
@@ -215,7 +215,7 @@ images:
 
 ## Liên kết ngoài {#External_links}
 
-- <b><a class="external text" href="http://www.tolkiensociety.org/society/publications/peter-roe/" rel="noreferrer noopener" target="_blank">Trang web chính thức</a></b> tại [Hiệp hội Tolkien](../T/The_Tolkien_Society.md)
+- <b><a class="external text" href="http://www.tolkiensociety.org/society/publications/peter-roe/" rel="noreferrer noopener" target="_blank">Trang web chính thức</a></b> tại [Hội Tolkien](../T/The_Tolkien_Society.md)
 
 <br clear="all"/>
 

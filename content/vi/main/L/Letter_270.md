@@ -31,13 +31,13 @@ infobox:
 
 ## Lời nói đầu {#Preface}
 
-Tolkien đã gửi *[Smith of Wootton Major](../S/Smith_of_Wootton_Major.md)* mới của mình cho Unwin, người gợi ý rằng cần những câu chuyện khác để tạo thành một cuốn sách đủ lớn. Đề xuất này được đưa ra khi Tolkien đang sửa đổi *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* để có một ấn bản mới có U.S. bảo vệ bản quyền, điều này là cần thiết vì [Ace Books](../A/Ace_Books.md) đã phát hành cuốn sách mà không có bất kỳ sự đồng ý nào và (ban đầu) không trả tiền bản quyền.
+Tolkien đã gửi *[Smith of Wootton Major](../S/Smith_of_Wootton_Major.md)* mới của mình cho Unwin, người gợi ý rằng cần những câu chuyện khác để tạo thành một cuốn sách đủ lớn. Đề xuất này được đưa ra khi Tolkien đang sửa đổi *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* cho một ấn bản mới có U.S. bảo vệ bản quyền, điều này là cần thiết vì [Ace Books](../A/Ace_Books.md) đã phát hành cuốn sách mà không có bất kỳ sự đồng ý nào và (ban đầu) không trả tiền bản quyền.
 
 ## Tóm tắt {#Summary}
 
 Tolkien cảm ơn Unwin vì sự trở lại của *Smith of Wootton Major*. Ông rất vui vì Unwin thích câu chuyện nhưng nói rằng ông không có cuốn sách nào có thể loại hay độ dài tương tự. Tất cả những tài liệu còn dang dở của ông đều thuộc về thế giới *[The Silmarillion](../T/The_Silmarillion.md)*, nơi ông sẽ làm việc nếu không phải vì công việc bản quyền kinh khủng. Ông sẽ sớm gửi phần còn lại của <i><a class="mw-redirect mw-disambig" href="../S/Sir_Gawain_and_the_Green_Knight.md" title="Sir Gawain and the Green Knight">Sir Gawain</a></i> cùng với những nhận xét về các trang mẫu, nhưng lời nói đầu và lời bình luận phải đợi cho đến khi *The Lord of the Rings* sửa đổi được hoàn thành. Ông sẽ làm việc chăm chỉ cho đến ngày 1 tháng 7.
 
-Trong phần tái bút, Tolkien nói rằng trong mỗi lời cảm ơn gửi tới U.S. độc giả, ông đều thêm ghi chú về hành vi vi phạm bản quyền của Ace Books và yêu cầu họ thông báo cho những người khác.
+Trong phần tái bút Tolkien nói rằng trong mỗi lời cảm ơn gửi tới độc giả U.S., ông đều thêm ghi chú về hành vi vi phạm bản quyền của Ace Books và yêu cầu họ thông báo cho những người khác.
 
 <br>
 

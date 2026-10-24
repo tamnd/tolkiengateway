@@ -52,31 +52,31 @@ images:
 <p class="tg-quote-footer"><cite><a href="../M/Master_of_Lake-town.md" title="Master of Lake-town">Master of Lake-town</a></cite></p>
 </blockquote></div></div>
 
-**tiếng Sindarin** là ngôn ngữ [Elvish](../E/Elvish.md) được sử dụng phổ biến nhất ở [Trung địa](../M/Middle-earth.md) vào [Thời đại thứ ba](../T/Third_Age.md).
+**Sindarin** là ngôn ngữ [Elvish](../E/Elvish.md) được sử dụng phổ biến nhất trong [Trung Địa](../M/Middle-earth.md) ở [Kỷ Đệ Tam](../T/Third_Age.md).
 
 ## Lịch sử {#History}
 
-Sindarin là ngôn ngữ của [Sindar](Sindar.md), những [Teleri](../T/Teleri.md) đã bị bỏ lại trong [Hành trình vĩ đại](../G/Great_Journey.md) của [Yêu tinh](../E/Elves.md). Nó được bắt nguồn từ một ngôn ngữ trước đó có tên là [Common Telerin](../C/Common_Telerin.md). Khi [Noldor](../N/Noldor.md) quay trở lại Trung Địa, họ đã sử dụng ngôn ngữ Sindarin, mặc dù họ tin rằng [Quenya](../Q/Quenya.md) bản địa của họ đẹp hơn.
+Sindarin là ngôn ngữ của [Sindar](Sindar.md), những ngôn ngữ [Teleri](../T/Teleri.md) đã bị bỏ lại trên [Đại Hành Trình](../G/Great_Journey.md) của [Tiên tộc](../E/Elves.md). Nó được bắt nguồn từ một ngôn ngữ trước đó có tên là [Common Telerin](../C/Common_Telerin.md). Khi [Noldor](../N/Noldor.md) quay trở lại Trung Địa, họ đã sử dụng ngôn ngữ Sindarin, mặc dù họ tin rằng ngôn ngữ [Quenya](../Q/Quenya.md) bản địa của họ đẹp hơn.
 
-Vua của Teleri ở [Doriath](../D/Doriath.md)[, Elu Thingol](../T/Thingol.md), khi biết về [Vụ tàn sát người thân ở Alqualondë](../K/Kinslaying_at_Alqualondë.md), đã tuyên bố rằng [Quenya](../Q/Quenya.md), ngôn ngữ của người Noldor, nên bị cấm ở vùng đất của ông ta. Vì Noldor đang sinh sống ở vùng đất nói tiếng Sindarin và do lệnh cấm đối với tiếng mẹ đẻ của họ (mặc dù nó không ảnh hưởng trực tiếp đến họ), nên họ dần dần chuyển hoàn toàn sang tiếng Sindarin. Sự thay đổi giữa các ngôn ngữ này cũng ảnh hưởng đến tên của chúng, chẳng hạn như *Finwë-Ñolofinwë* thành [Fingolfin](../F/Fingolfin.md) và *Turukáno* thành [Turgon](../T/Turgon.md).
+Vị vua của Teleri ở [Doriath](../D/Doriath.md)[, Elu Thingol](../T/Thingol.md), khi biết về vụ [Tàn sát người thân ở Alqualondë](../K/Kinslaying_at_Alqualondë.md), đã tuyên bố rằng [Quenya](../Q/Quenya.md), ngôn ngữ của Noldor, nên bị cấm ở vùng đất của ông ta. Vì Noldor đang sinh sống ở vùng đất nói Sindarin và do lệnh cấm sử dụng tiếng mẹ đẻ của họ (mặc dù nó không ảnh hưởng trực tiếp đến họ), nên họ dần dần chuyển hoàn toàn sang Sindarin. Sự thay đổi giữa các ngôn ngữ này cũng ảnh hưởng đến tên của chúng, chẳng hạn như *Finwë-Ñolofinwë* thành [Fingolfin](../F/Fingolfin.md) và *Turukáno* thành [Turgon](../T/Turgon.md).
 
-Khi [Yêu tinh của Beleriand](../E/Elves_of_Beleriand.md) lần đầu tiên chạm trán với người lùn, họ không thể hiểu được một từ [lưỡi của Người lùn](../K/Khuzdul.md). Người lùn học rất nhanh và thực sự sẵn sàng học tiếng Sindarin hơn là dạy tiếng Sindarin của họ cho những người thuộc chủng tộc ngoài hành tinh.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Khi [Tiên tộc của Beleriand](../E/Elves_of_Beleriand.md) lần đầu tiên gặp người lùn, họ không thể hiểu được một từ nào trong [lưỡi của Người Lùn](../K/Khuzdul.md). Người Lùn học rất nhanh và thực sự sẵn sàng học Sindarin hơn là dạy kiến ​​thức của họ cho những người thuộc chủng tộc ngoài hành tinh.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ### Phương ngữ {#Dialects}
 
-Trong [Thời kỳ thứ nhất](../F/First_Age.md) có một số phương ngữ tiếng Sindarin:
+Trong [Kỷ Đệ Nhất](../F/First_Age.md) có một số phương ngữ của Sindarin:
 
 - *[Doriathrin](../D/Doriathrin.md)* hoặc ngôn ngữ của [Doriath](../D/Doriath.md), một dạng ngôn ngữ còn lưu giữ nhiều hình thức cổ xưa;
-- *[Falathrin](../F/Falathrin.md)* hoặc ngôn ngữ của [Falas](../F/Falas.md), sau này cũng được nói ở [Nargothrond](../N/Nargothrond.md);
-- *[North Sindarin](../N/North_Sindarin.md)*, các phương ngữ ban đầu được nói ở [Dorthonion](../D/Dorthonion.md) và [Hithlum](../H/Hithlum.md) bởi người Sindar, những phương ngữ này chứa nhiều từ độc đáo và không hoàn toàn có thể hiểu được bằng tiếng Sindarin của [Beleriand](../B/Beleriand.md).
+- *[Falathrin](../F/Falathrin.md)* hoặc ngôn ngữ của [Falas](../F/Falas.md), sau này cũng được nói bằng [Nargothrond](../N/Nargothrond.md);
+- *[North Sindarin](../N/North_Sindarin.md)*, các phương ngữ ban đầu được nói bằng [Dorthonion](../D/Dorthonion.md) và [Hithlum](../H/Hithlum.md) bởi Sindar, những phương ngữ này chứa nhiều từ duy nhất và không thể hiểu hoàn toàn bằng Sindarin của [Beleriand](../B/Beleriand.md) riêng.
 
-Ngoại trừ Doriathrin, các phương ngữ đã được thay đổi dưới ảnh hưởng của Noldorin và áp dụng nhiều đặc điểm [Quenya](../Q/Quenya.md), cũng như những thay đổi âm thanh độc đáo do Noldor (người yêu thích thay đổi ngôn ngữ) nghĩ ra. Các phương ngữ riêng biệt đã biến mất sau khi người Noldor và Sindar bị phân tán trong [Trận chiến Beleriand](../B/Battles_of_Beleriand.md) sau này. Tại những nơi tị nạn trên [Đảo Balar](../I/Isle_of_Balar.md) và [Miệng Sirion](../M/Mouths_of_Sirion.md), một phương ngữ mới đã nảy sinh dưới thời những người tị nạn, chủ yếu giống như Falathrin.
+Ngoại trừ Doriathrin, các phương ngữ đã được thay đổi dưới ảnh hưởng của Noldorin và áp dụng nhiều tính năng [Quenya](../Q/Quenya.md) cũng như những thay đổi âm thanh độc đáo do Noldor (người yêu thích thay đổi ngôn ngữ) nghĩ ra. Các phương ngữ riêng biệt đã biến mất sau khi Noldor và Sindar bị phân tán trong [Trận chiến Beleriand](../B/Battles_of_Beleriand.md) sau này. Tại những nơi tị nạn trên [Đảo Balar](../I/Isle_of_Balar.md) và [Cửa sông Sirion](../M/Mouths_of_Sirion.md), một phương ngữ mới đã nảy sinh dưới thời những người tị nạn, chủ yếu giống như Falathrin.
 
 ### Lịch sử sau này {#Later_history}
 
-Trong [Thời thứ hai](Second_Age.md) và [Thời thứ ba](../T/Third_Age.md) Sindarin là *lingua franca* dành cho tất cả Yêu tinh và [Những người bạn yêu tinh](../E/Elf-friends.md), cho đến khi nó bị thay thế thành [Tiếng phổ thông](../W/Westron.md) bởi [Westron](../W/Westron.md), hậu duệ của [Adûnaic](../A/Adûnaic.md) chịu ảnh hưởng nặng nề của Sindarin.
+Trong [Kỷ Đệ Nhị](Second_Age.md) và [Kỷ Đệ Tam](../T/Third_Age.md) Sindarin là *lingua franca* dành cho tất cả Tiên tộc và [Những người bạn yêu tinh](../E/Elf-friends.md), cho đến khi nó bị thay thế thành [Tiếng phổ thông](../W/Westron.md) bởi [Westron](../W/Westron.md), hậu duệ của [Adûnaic](../A/Adûnaic.md) chịu ảnh hưởng nặng nề của Sindarin.
 
-Trước khi sụp đổ, hầu hết [Người](../M/Men.md) của [Númenor](../N/Númenor.md) đều biết tiếng Sindarin, cùng với ngôn ngữ chung Adûnaic. Kiến thức về nó được lưu giữ ở các vương quốc [Númenórean](../N/Númenóreans.md) lưu vong [Arnor](../A/Arnor.md) và [Gondor](../G/Gondor.md), đặc biệt là trong số những người có học thức. Trong khi [Westron](../W/Westron.md) (có nguồn gốc từ Adûnaic) trở thành ngôn ngữ phổ biến nhất ở phía tây Trung Địa trong [Thời đại thứ ba](../T/Third_Age.md) thì tiếng Sindarin vẫn là ngôn ngữ hàng ngày của Yêu tinh. Vào cuối Kỷ nguyên thứ ba, có lẽ có nhiều Người nói tiếng Sindarin hoặc biết tiếng Quenya hơn số Yêu tinh nói tiếng Sindarin hoặc biết tiếng Quenya. [Gondor Sindarin](../G/Gondor_Sindarin.md) là một ngôn ngữ lịch sự có được và được sử dụng bởi những người gốc Númenórean thuần khiết hơn nếu họ muốn lịch sự.<sup id="cite_ref-Letter347_2-0" class="reference"><a href="#cite_note-Letter347-2">[2]</a></sup> Tất cả đàn ông thuộc dòng dõi cao quý và tất cả những người học cách đọc và viết của [Tín đồ](../F/Faithful.md) của [Dúnedain](../D/Dúnedain.md) ở Trung Địa đều sử dụng Sindarin, thậm chí như ngôn ngữ hàng ngày. Người ta nói rằng Sindarin thậm chí còn trở thành ngôn ngữ mẹ đẻ ở một số gia đình.<sup id="cite_ref-Atani_3-0" class="reference"><a href="#cite_note-Atani-3">[3]</a></sup> Họ sử dụng tiếng Sindarin để đặt tên cho các địa điểm ở Trung Địa<sup id="cite_ref-Atani_3-1" class="reference"><a href="#cite_note-Atani-3">[3]</a></sup> và thường thay đổi những tên mà họ lấy từ những tên do cư dân lớn tuổi đặt để phù hợp với phong cách Sindarin<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>.
+Trước khi sụp đổ, hầu hết [Con Người](../M/Men.md) của [Númenor](../N/Númenor.md) đều biết Sindarin, cùng với ngôn ngữ chung Adûnaic. Kiến thức về nó được lưu giữ trong [Númenórean](../N/Númenóreans.md) cõi lưu vong [Arnor](../A/Arnor.md) và [Gondor](../G/Gondor.md), đặc biệt là trong số những người có học. Trong khi [Westron](../W/Westron.md) (có nguồn gốc từ Adûnaic) trở thành ngôn ngữ phổ biến nhất ở phía tây Trung Địa trong [Kỷ Đệ Tam](../T/Third_Age.md), Sindarin vẫn là ngôn ngữ hàng ngày của Tiên tộc. Vào cuối Kỷ Đệ Tam có lẽ có nhiều Con Người người nói Sindarin hoặc biết Quenya hơn số Tiên tộc nói cái trước hoặc biết cái sau. [Gondor Sindarin](../G/Gondor_Sindarin.md) là một ngôn ngữ lịch sự có được và được sử dụng bởi những người thuộc dòng dõi Númenórean thuần khiết hơn nếu họ muốn lịch sự.<sup id="cite_ref-Letter347_2-0" class="reference"><a href="#cite_note-Letter347-2">[2]</a></sup> Tất cả Con Người thuộc dòng dõi cao cấp và tất cả những người đã học cách đọc và viết của [Tín đồ](../F/Faithful.md) của [Dúnedain](../D/Dúnedain.md) trong Trung Địa đã sử dụng Sindarin, ngay cả như ngôn ngữ hàng ngày. Người ta nói rằng Sindarin thậm chí đã trở thành ngôn ngữ mẹ đẻ ở một số gia đình.<sup id="cite_ref-Atani_3-0" class="reference"><a href="#cite_note-Atani-3">[3]</a></sup> Họ sử dụng Sindarin để đặt tên cho các địa điểm trong Trung Địa<sup id="cite_ref-Atani_3-1" class="reference"><a href="#cite_note-Atani-3">[3]</a></sup> và thường thay đổi tên mà họ lấy từ tên do cư dân lớn tuổi đặt để phù hợp với phong cách Sindarin<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>.
 
 ## Viết {#Writing}
 
@@ -88,15 +88,15 @@ Trước khi sụp đổ, hầu hết [Người](../M/Men.md) của [Númenor](.
 
 [Daeron](../D/Daeron.md) đã phát minh ra **[Cirth](../C/Cirth.md)** để viết ngôn ngữ của mình.
 
-Với sự xuất hiện của Noldoer, **[Tengwar](../T/Tengwar.md)**, chẳng hạn như [Chế độ Beleriand](../M/Mode_of_Beleriand.md), đã trở thành một cách viết ngôn ngữ phổ biến.
+Với sự xuất hiện của Noldoer, **[Tengwar](../T/Tengwar.md)**, chẳng hạn như [Phương thức Beleriand](../M/Mode_of_Beleriand.md), đã trở thành một cách phổ biến để viết ngôn ngữ.
 
 ## Ngữ pháp {#Grammar}
 
-Sindarin chủ yếu mang tính phân tích, mặc dù vẫn có thể nhìn thấy những đặc điểm của tổ tiên biến tố cao của nó.
+Sindarin chủ yếu mang tính phân tích, mặc dù vẫn có thể nhìn thấy các đặc điểm của tổ tiên có tính biến tố cao.
 
 ### Âm vị học {#Phonology}
 
-Sindarin được thiết kế để có âm vị [tiếng Wales](../W/Welsh.md) giống. Nó có hầu hết các âm thanh giống nhau và âm vị học tương tự.
+Sindarin được thiết kế để có âm vị học giống [tiếng Wales](../W/Welsh.md). Nó có hầu hết các âm thanh giống nhau và âm vị học tương tự.
 
 <table rules="all" style="text-align:center; border:1px solid darkgrey; border-collapse:collapse" cellpadding="3" cellspacing="0">
 <tbody><tr>
@@ -445,7 +445,7 @@ Sindarin được thiết kế để có âm vị [tiếng Wales](../W/Welsh.md)
 
 #### Số nhiều {#Pluralization}
 
-Số nhiều Sindarin được đặc trưng bởi *[i-affection](../I/I-affection.md)* hoặc *umlaut* (xem thêm *[prestanneth](../P/Prestanneth.md)* "tình cảm của nguyên âm").<sup id="cite_ref-Letter347_2-1" class="reference"><a href="#cite_note-Letter347-2">[2]</a></sup> Hầu như tất cả các từ Sindarin đều tạo thành số nhiều như man/men và ngỗng/ngỗng trong tiếng Anh — bằng cách thay đổi các nguyên âm trong từ. Các mẫu số nhiều thông thường nhất là:
+Sindarin số nhiều được đặc trưng bởi *[i-affection](../I/I-affection.md)* hoặc *umlaut* (xem thêm *[prestanneth](../P/Prestanneth.md)* "tình cảm của nguyên âm").<sup id="cite_ref-Letter347_2-1" class="reference"><a href="#cite_note-Letter347-2">[2]</a></sup> Hầu như tất cả các từ Sindarin đều tạo thành số nhiều như man/men và ngỗng/ngỗng trong tiếng Anh — bằng cách thay đổi các nguyên âm trong từ. Các mẫu số nhiều thông thường nhất là:
 
 <table rules="all" style="border:1px solid darkgray; border-collapse:collapse" cellpadding="4" cellspacing="0">
 <tbody><tr>
@@ -541,7 +541,7 @@ Số nhiều Sindarin được đặc trưng bởi *[i-affection](../I/I-affecti
 
 Lưu ý rằng *ai* đôi khi có thể trở thành *î*.
 
-Lý do cho điều này là kết thúc số nhiều nguyên thủy *-ī* (vẫn tồn tại trong tiếng Quenya dưới dạng *-i* sau phụ âm và -e) đã ảnh hưởng đến các nguyên âm trong từ bằng cách làm cho chúng cao hơn và đứng trước. Sau khi sự thay đổi âm thanh này xảy ra, hậu tố *-ī* biến mất khi tất cả các nguyên âm cuối bị mất:
+Lý do cho điều này là do kết thúc số nhiều nguyên thủy *-ī* (vẫn xuất hiện trong Quenya dưới dạng *-i* sau phụ âm và -e) đã ảnh hưởng đến các nguyên âm trong từ bằng cách làm cho chúng cao hơn và đứng trước. Sau khi sự thay đổi âm thanh này xảy ra, hậu tố *-ī* biến mất khi tất cả các nguyên âm cuối bị mất:
 
 <table rules="all" style="border:1px solid darkgray; border-collapse:collapse" cellpadding="4" cellspacing="0">
 <tbody><tr>
@@ -570,7 +570,7 @@ Lý do cho điều này là kết thúc số nhiều nguyên thủy *-ī* (vẫn
 
 #### Lớp số nhiều {#Class_Plural}
 
-Sindarin cũng có một số hậu tố biểu thị cái gọi là số nhiều. Ví dụ: *-ath* biểu thị một nhóm thứ gì đó, ví dụ: *elenath* từ *[elen](../E/Elen.md)* (dạng cổ xưa của *êl*), có nghĩa là "ngôi sao" và *-ath*. Nó có nghĩa là "một nhóm sao" hoặc "tất cả các ngôi sao trên bầu trời". Một kết thúc khác, *-rim*, được sử dụng để chỉ một chủng tộc, ví dụ: *nogothrim* từ *nogoth* — "người lùn" và *-rim*, nghĩa là "chủng tộc người lùn". Đuôi *-hoth* thường được dùng với nghĩa không thân thiện, ví dụ: *gaurhoth* từ *gaur* — "người sói" và *-hoth*, nghĩa là "vật chủ người sói".
+Sindarin cũng có một số hậu tố biểu thị cái gọi là lớp số nhiều. Ví dụ: *-ath* biểu thị một nhóm thứ gì đó, ví dụ: *elenath* từ *[elen](../E/Elen.md)* (dạng cổ xưa của *êl*), có nghĩa là "ngôi sao" và *-ath*. Nó có nghĩa là "một nhóm sao" hoặc "tất cả các ngôi sao trên bầu trời". Một kết thúc khác, *-rim*, được sử dụng để chỉ một chủng tộc, ví dụ: *nogothrim* từ *nogoth* — "người lùn" và *-rim*, nghĩa là "chủng tộc người lùn". Đuôi *-hoth* thường được dùng với nghĩa không thân thiện, ví dụ: *gaurhoth* từ *gaur* — "người sói" và *-hoth*, nghĩa là "vật chủ người sói".
 
 ### Đột biến {#Mutation}
 
@@ -820,7 +820,7 @@ Lấy ví dụ, mạo từ chỉ định *i*, gây ra đột biến mềm. Khi t
 
 ### Đại từ {#Pronouns}
 
-Đại từ Sindarin, giống như đại từ trong tiếng Anh, vẫn duy trì một số cách phân biệt chữ hoa chữ thường, có các hình thức bổ nhiệm, buộc tội, sở hữu và tặng cách. Chúng là một trong những đặc điểm ít được chứng thực của Sindarin. Trong khi các ấn phẩm gần đây đưa ra một bức tranh rõ ràng hơn thì toàn bộ hệ thống vẫn chưa được chứng thực. Do đó, bảng sau đây sẽ chỉ liệt kê các đại từ nhân xưng, đánh dấu các dạng không được chứng thực bằng dấu hoa thị.
+Sindarin đại từ, giống như đại từ trong tiếng Anh, vẫn duy trì một số cách phân biệt chữ hoa chữ thường, có các hình thức chỉ định, buộc tội, sở hữu và tặng cách. Chúng là một trong những tính năng chưa được chứng thực của Sindarin. Trong khi các ấn phẩm gần đây đưa ra một bức tranh rõ ràng hơn thì toàn bộ hệ thống vẫn chưa được chứng thực. Do đó, bảng sau đây sẽ chỉ liệt kê các đại từ nhân xưng, đánh dấu các dạng không được chứng thực bằng dấu hoa thị.
 
 <table rules="all" style="border:1px solid darkgrey; border-collapse:collapse" cellpadding="4" cellspacing="0">
 <tbody><tr>
@@ -936,21 +936,21 @@ Lấy ví dụ, mạo từ chỉ định *i*, gây ra đột biến mềm. Khi t
 
 ### Động từ {#Verbs}
 
-Động từ Sindarin cũng khá phức tạp. Số lượng động từ được chứng thực trong tiếng Sindarin rất ít, mặc dù các ấn phẩm gần đây làm rõ hầu hết các chi tiết về cách chia động từ. Có hai loại động từ chính: *basic* và *derived*. Động từ cơ bản có gốc kết thúc bằng một phụ âm và động từ dẫn xuất có gốc kết hợp một số hình thái phái sinh nào đó (chẳng hạn như đuôi nguyên nhân) kết thúc bằng *-a*.
+Động từ Sindarin cũng khá phức tạp. Số lượng động từ được chứng thực trong Sindarin còn ít, mặc dù các ấn phẩm gần đây đã làm rõ hầu hết các chi tiết về cách chia động từ. Có hai loại động từ chính: *basic* và *derived*. Động từ cơ bản có gốc kết thúc bằng một phụ âm và động từ dẫn xuất có gốc kết hợp một số hình thái phái sinh nào đó (chẳng hạn như đuôi nguyên nhân) kết thúc bằng *-a*.
 
 #### Động từ cơ bản {#Basic_Verbs}
 
 Các động từ cơ bản, mặc dù có số lượng ít hơn so với các động từ dẫn xuất, nhưng có cách chia động từ rất phức tạp phát sinh từ lịch sử âm vị học của Sindarin.
 
-Động từ cơ bản tạo thành động từ nguyên thể bằng cách thêm *-i* vào gốc: *firi* từ *fir-*. Vì lý do này, động từ cơ bản còn được gọi là "I-verbs". Phần kết thúc này làm cho *a* hoặc *o* ở gốc có âm sắc thành *e*: *ceri* từ *car-*. Nhưng Sindarin không được sử dụng nhiều ở dạng nguyên thể, nó sử dụng danh động từ để đạt được ý nghĩa tương tự bằng cách thêm hậu tố *-ed*: *fired*, *cared*.
+Động từ cơ bản tạo thành động từ nguyên thể bằng cách thêm *-i* vào gốc: *firi* từ *fir-*. Vì lý do này, động từ cơ bản còn được gọi là "I-verbs". Phần kết thúc này làm cho *a* hoặc *o* ở gốc có âm sắc thành *e*: *ceri* từ *car-*. Nhưng Sindarin không được sử dụng nhiều cho dạng nguyên thể, nó sử dụng danh động từ để đạt được ý nghĩa tương tự bằng cách thêm hậu tố *-ed*: *fired*, *cared*.
 
 Đối với tất cả các ngôi ngoại trừ ngôi thứ ba số ít, thì động từ/hiện tại được hình thành bằng cách chèn *-i* giữa thân từ và các hậu tố danh từ: *firin*, *firir*. Giống như động từ nguyên thể, *-i* làm cho *a* hoặc *o* ở gốc có âm sắc thành *e*: *cerin*, *cerir*, từ *car-*. Ngôi thứ ba số ít vì có tận cùng bằng 0 nên không cần chèn *-i*. Điều này để lại gốc trần, làm cho nguyên âm gốc trở nên dài giống như hầu hết các từ đơn âm tiết: *fîr*, *câr*.
 
-Sự hình thành thì quá khứ của động từ cơ bản có một số quy tắc phức tạp nhất do lịch sử âm vị học của Sindarin. Có hai phương pháp chia động từ (không thể thay thế cho nhau) đối với một số dạng động từ nhất định. Những người có phụ âm cuối là B, D, G, (P, T, K cổ) sử dụng phương pháp được gọi là Phương pháp cố định mũi, trong khi những người còn lại sử dụng Kéo dài nguyên âm. Cả hai phương pháp cũng bao gồm việc tăng thêm gốc, sao chép nguyên âm gốc bằng cách thêm nó vào đầu động từ.
+Sự hình thành thì quá khứ của các động từ cơ bản có một số quy tắc phức tạp nhất do lịch sử âm vị học của Sindarin. Có hai phương pháp chia động từ (không thể thay thế cho nhau) đối với một số dạng động từ nhất định. Những người có phụ âm cuối là B, D, G, (P, T, K cổ) sử dụng phương pháp được gọi là Phương pháp cố định mũi, trong khi những người còn lại sử dụng Kéo dài nguyên âm. Cả hai phương pháp cũng bao gồm việc tăng thêm gốc, sao chép nguyên âm gốc bằng cách thêm nó vào đầu động từ.
 
-- Ví dụ về Âm mũi: †*mat-* (dạng cổ của *mad-* "ăn") trở thành †*amat-* khi tăng thêm nguyên âm gốc và †*amante* khi thêm *-ne*. Điều này mang lại *avant*, *avanne-* trong tiếng Sindarin hiện đại (lưu ý sự đột biến của *m* thành *v* do độ khoan dung). Ở đây *avant* có nghĩa là "(ông/bà/nó) đã ăn", và *avannen*, *avanner* có nghĩa là "Tôi đã ăn", "họ đã ăn".
+- Ví dụ về Âm mũi: †*mat-* (dạng cổ của *mad-* "ăn") trở thành †*amat-* khi tăng thêm nguyên âm gốc và †*amante* khi thêm *-ne*. Điều này mang lại *avant*, *avanne-* trong Sindarin hiện đại (lưu ý sự đột biến của *m* thành *v* do độ khoan dung). Ở đây *avant* có nghĩa là "(ông/bà/nó) đã ăn", và *avannen*, *avanner* có nghĩa là "Tôi đã ăn", "họ đã ăn".
     - Sau khi được sửa, *b* cuối cùng trở thành **-mp** & **-mme-**; *d* cuối cùng trở thành **-nt** & **-nne-** (như trong ví dụ); *g* cuối cùng trở thành **-nc** & **-nge-**.
-- Ví dụ về Kéo dài Nguyên âm: †*kar-* (trong chính tả hiện đại *car-* "to do, make") trở thành †*akar-* khi tăng thêm và *akāre-* với việc kéo dài. Do lịch sử âm vị học phức tạp của tiếng Sindarin, từ *a* cổ dài trở thành *o* ở dạng đa âm tiết, tạo ra *agor*, *agóre-* trong tiếng Sindarin hiện đại (lưu ý độ biến thiên của *c* thành *g*). Ở đây *agor* có nghĩa là "(ông/bà/nó) đã làm" và *agóren*, *agórer* có nghĩa là "Tôi đã làm", "họ đã làm".
+- Ví dụ về Kéo dài Nguyên âm: †*kar-* (trong chính tả hiện đại *car-* "to do, make") trở thành †*akar-* khi tăng thêm và *akāre-* với việc kéo dài. Do lịch sử âm vị học phức tạp của Sindarin, *a* dài cổ xưa trở thành *o* ở dạng đa âm tiết, tạo ra *agor*, *agóre-* ở dạng Sindarin hiện đại (lưu ý độ biến thiên của *c* thành *g*). Ở đây *agor* có nghĩa là "(ông/bà/nó) đã làm" và *agóren*, *agórer* có nghĩa là "Tôi đã làm", "họ đã làm".
     - Sau khi kéo dài, *a* trở thành **o/ó** (như trong ví dụ); *e* trở thành **i/í**; *i* trở thành **i/í**; *o* trở thành **u/ú**; *y* trở thành **u/ú** (<i>*ýl-</i> > *uiul*, *uiúle-*).
 
 Thì tương lai được hình thành bằng cách thêm *-atha(-)*. Giống như các động từ dẫn xuất, *a* cuối cùng trở thành *o* với việc bổ sung các hậu tố danh từ ngoại trừ bao gồm ngôi thứ nhất số nhiều *-(a)b* và ngôi thứ ba số nhiều *-(a)r*: *carathon*, *carathar*.
@@ -977,19 +977,19 @@ Bản thân từ *Sindarin* thực ra là một từ [Quenya](../Q/Quenya.md) đ
 
 ## Tên khác {#Other_names}
 
-Sindarin là ngôn ngữ được gọi là " **Lưỡi của người Tiên**" trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*. Trong một lá thư, [Tolkien](../J/J.R.R._Tolkien.md) gọi Sindarin là **Grey Elvish**.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[5]</a></sup> Trong một bản thảo khác, ông sử dụng cái tên tương tự **Grey-elven**.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[6]</a></sup>
+Sindarin là ngôn ngữ được gọi là " **Tiên-lưỡi**" trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*. Trong một lá thư, [Tolkien](../J/J.R.R._Tolkien.md) gọi Sindarin là **Grey Elvish**.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[5]</a></sup> Trong một bản thảo khác, ông sử dụng cái tên tương tự **Grey-elven**.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[6]</a></sup>
 
 Không có từ gốc nào cho *Sindarin* được biết đến.
 
 ## Cảm hứng {#Inspiration}
 
-Ban đầu Tolkien tưởng tượng rằng ngôn ngữ sau này trở thành *Sindarin* được sử dụng bởi người Noldor. Tuy nhiên, Tolkien sau đó quyết định rằng đó là ngôn ngữ của người Sindar. Vì lý do này, nó được gọi là "[Noldorin](../N/Noldorin.md)" trong tài liệu cũ hơn, chẳng hạn như *[Etymologies](../T/The_Etymologies.md)*. Khi Noldorin trở thành Sindarin, nó cũng áp dụng một số đặc điểm của ngôn ngữ ban đầu không liên quan *[Ilkorin](../I/Ilkorin.md)*. Tolkien dựa trên âm thanh và một số ngữ pháp của Noldorin/Sindarin dựa trên [tiếng Wales](../W/Welsh.md), và tiếng Sindarin thể hiện các đột biến phụ âm đặc trưng cho các ngôn ngữ Celtic (đặc biệt là Brythonic). Ngôn ngữ này có lẽ cũng bị ảnh hưởng ở một mức độ nào đó bởi các ngôn ngữ Đức, vì Tolkien là học giả về cả [tiếng Anh cổ](../O/Old_English.md) và [tiếng Bắc Âu cổ](../O/Old_Norse.md).
+Tolkien ban đầu tưởng tượng rằng ngôn ngữ sau này trở thành *Sindarin* được nói bởi Noldor. Tuy nhiên, Tolkien sau đó quyết định rằng đó là ngôn ngữ của Sindar. Vì lý do này, nó được gọi là "[Noldorin](../N/Noldorin.md)" trong tài liệu cũ hơn, chẳng hạn như *[Etymologies](../T/The_Etymologies.md)*. Khi Noldorin trở thành Sindarin, nó cũng áp dụng một số tính năng của ngôn ngữ ban đầu không liên quan *[Ilkorin](../I/Ilkorin.md)*. Tolkien dựa trên âm thanh và một số ngữ pháp của Noldorin/Sindarin của ông trên [tiếng Wales](../W/Welsh.md) và Sindarin hiển thị các đột biến phụ âm đặc trưng cho các ngôn ngữ Celtic (đặc biệt là Brythonic). Ngôn ngữ này có lẽ cũng bị ảnh hưởng ở một mức độ nào đó bởi các ngôn ngữ Đức, vì Tolkien là một học giả về cả [tiếng Anh cổ](../O/Old_English.md) và [tiếng Bắc Âu cổ](../O/Old_Norse.md).
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://www.uib.no/People/hnohf/sindarin.htm" rel="noreferrer noopener" target="_blank">Sindarin – <i>Cái lưỡi cao quý</i></a>, của [Helge Kåre Fauskanger](../H/Helge_Kåre_Fauskanger.md) tại [Ardalambion](../A/Ardalambion.md)
-- <a class="external text" href="http://www.jrrvf.com/hisweloke/sindar/" rel="noreferrer noopener" target="_blank">Từ điển tiếng Sindarin của Hiswelókë</a>
-- <a class="external text" href="http://sindarin.weet.us/" rel="noreferrer noopener" target="_blank">I Lam Arth - The Noble Tongue</a>, một nghiên cứu kỹ thuật của tiếng Sindarin
+- <a class="external text" href="http://www.uib.no/People/hnohf/sindarin.htm" rel="noreferrer noopener" target="_blank">Sindarin – <i>Cái lưỡi cao quý</i></a>, bởi [Helge Kåre Fauskanger](../H/Helge_Kåre_Fauskanger.md) tại [Ardalambion](../A/Ardalambion.md)
+- <a class="external text" href="http://www.jrrvf.com/hisweloke/sindar/" rel="noreferrer noopener" target="_blank">Từ điển Sindarin của Hiswelókë</a>
+- <a class="external text" href="http://sindarin.weet.us/" rel="noreferrer noopener" target="_blank">I Lam Arth - The Noble Tongue</a>, một nghiên cứu kỹ thuật về Sindarin
 - <a class="external text" href="http://glaemscrafu.jrrvf.com/english/sindarin.html" rel="noreferrer noopener" target="_blank">Văn bản và mẫu âm thanh</a> tại [Glǽmscrafu](../G/Glǽmscrafu.md)
 
 ## Ghi chú {#Notes}

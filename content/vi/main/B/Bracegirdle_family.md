@@ -24,11 +24,11 @@ langlinks:
     url: "https://kontu.wiki/Piukkapaula"
 ---
 
-**Gia đình Bracegirdle** là một gia đình [Hobbit vùng Shire](../S/Shire-hobbits.md) quan trọng và đông dân, gắn liền với thị trấn hoặc làng [Hardbottle](../H/Hardbottle.md). Người nổi tiếng nhất trong số họ là [Lobelia Bracegirdle](../L/Lobelia_Sackville-Baggins.md), người đã kết hôn với [Otho Sackville-Baggins](../O/Otho_Sackville-Baggins.md).
+**Gia đình Bracegirdle** là một gia đình [Shire-hobbit](../S/Shire-hobbits.md) quan trọng và đông dân, gắn liền với thị trấn hoặc làng [Hardbottle](../H/Hardbottle.md). Người nổi tiếng nhất trong số họ là [Lobelia Bracegirdle](../L/Lobelia_Sackville-Baggins.md), người đã kết hôn với [Otho Sackville-Baggins](../O/Otho_Sackville-Baggins.md).
 
 ## Từ nguyên {#Etymology}
 
-Cái tên Hobbitish ám chỉ xu hướng béo của họ và do đó làm căng thắt lưng của họ, có nghĩa là "Thắt lưng" hoặc "Dây đai / lưới lọc / cáng". Bracegirdle là họ tiếng Anh ngoài đời thực. [Tolkien](../J/J.R.R._Tolkien.md) đã lưu ý rằng nó tuân theo kiểu ghép Lãng mạn với yếu tố động từ trước tiên (thay vì \*"Girdlebracer").<sup id="cite_ref-Nomen_1-0" class="reference"><a href="#cite_note-Nomen-1">[1]</a></sup>
+Cái tên Hobbitish ám chỉ xu hướng béo của họ và do đó làm căng thắt lưng của họ, có nghĩa là "Thắt lưng" hoặc "Dây đai / lưới lọc / cáng". Bracegirdle là họ tiếng Anh ngoài đời thực. [Tolkien](../J/J.R.R._Tolkien.md) đã lưu ý rằng nó tuân theo kiểu ghép từ Lãng mạn với yếu tố động từ trước tiên (thay vì \*"Girdlebracer").<sup id="cite_ref-Nomen_1-0" class="reference"><a href="#cite_note-Nomen-1">[1]</a></sup>
 
 ## Phả hệ<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> {#Genealogy[2]}
 

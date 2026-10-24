@@ -42,19 +42,19 @@ infobox:
 <p class="tg-quote-footer"><cite><i><a href="../U/Unfinished_Tales.md" title="Unfinished Tales">Unfinished Tales</a></i>, <a class="mw-redirect" href="../O/Of_Tuor_and_his_coming_to_Gondolin~17192.md" title="Of Tuor and his coming to Gondolin">Of Tuor and his coming to Gondolin</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Đèn Fëanorian** là loại đèn phát ra ánh sáng xanh từ ngọn lửa bên trong tinh thể màu trắng. Chúng được mô tả là "những tinh thể được treo trong một mạng lưới dây chuyền tinh xảo, những tinh thể luôn tỏa sáng với ánh sáng xanh lam bên trong". Những chiếc đèn được tạo ra ở [Valinor](../V/Valinor.md) và ngọn lửa không thể bị dập tắt bởi gió hoặc nước. [Noldor](../N/Noldor.md) nổi tiếng với những ngọn lửa, nhưng không may chiếc tàu đã bị thất lạc cùng với họ. [Gelmir](<../G/Gelmir_(messenger_of_Círdan).md>) sở hữu một trong những chiếc đèn này khi anh gặp [Tuor](../T/Tuor.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Đèn Fëanorian** là loại đèn phát ra ánh sáng xanh từ ngọn lửa bên trong tinh thể màu trắng. Chúng được mô tả là "những tinh thể được treo trong một mạng lưới dây chuyền tinh xảo, những tinh thể luôn tỏa sáng với ánh sáng xanh lam bên trong". Những chiếc đèn được tạo ra trong [Valinor](../V/Valinor.md) và ngọn lửa không thể bị dập tắt bởi gió hoặc nước. [Noldor](../N/Noldor.md) nổi tiếng với ngọn lửa, nhưng không may chiếc tàu đã bị mất cùng với chúng. [Gelmir](<../G/Gelmir_(messenger_of_Círdan).md>) sở hữu một trong những chiếc đèn này khi gặp [Tuor](../T/Tuor.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Một số người Noldor đã bị [Morgoth](../M/Morgoth.md) bắt và đưa vào làm việc trong hầm mỏ của hắn đều mang theo đèn Fëanorian. [Gwindor](../G/Gwindor.md) là một trong những Yêu tinh bị bắt làm nô lệ, và khi trốn thoát, ông ta đã mang theo một trong những chiếc đèn này.<sup id="cite_ref-CH9_2-0" class="reference"><a href="#cite_note-CH9-2">[2]</a></sup>
+Một số Noldor bị [Morgoth](../M/Morgoth.md) bắt và đưa vào làm việc trong hầm mỏ của hắn mang theo đèn Fëanorian. [Gwindor](../G/Gwindor.md) là một trong những Tiên tộc nô lệ này, và khi trốn thoát ông ta đã mang theo một trong những chiếc đèn này.<sup id="cite_ref-CH9_2-0" class="reference"><a href="#cite_note-CH9-2">[2]</a></sup>
 
 <figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Ted_Nasmith_-_Tuor,_Gelmir,_and_Arminas.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/c/c6/Ted_Nasmith_-_Tuor%2C_Gelmir%2C_and_Arminas.jpg/190px-Ted_Nasmith_-_Tuor%2C_Gelmir%2C_and_Arminas.jpg" decoding="async" loading="lazy" width="190" height="254" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/c6/Ted_Nasmith_-_Tuor%2C_Gelmir%2C_and_Arminas.jpg/285px-Ted_Nasmith_-_Tuor%2C_Gelmir%2C_and_Arminas.jpg 1.5x, https://tolkiengateway.net/w/images/c/c6/Ted_Nasmith_-_Tuor%2C_Gelmir%2C_and_Arminas.jpg 2x" data-file-width="336" data-file-height="450"/></a><figcaption>&#34;Tuor, Gelmir, and Arminas&#34; by <a href="../T/Ted_Nasmith.md" title="Ted Nasmith">Ted Nasmith</a></figcaption></figure>
 
-Vào [Thời đại thứ ba](../T/Third_Age.md), [Yêu tinh ở Lothlórien](../G/Galadhrim.md) đã sử dụng các thiết bị tương tự: những chiếc đèn nhỏ phát ra những chùm tia bạc mảnh.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Trong [Kỷ Đệ Tam](../T/Third_Age.md), [Tiên tộc của Lothlórien](../G/Galadhrim.md) sử dụng thiết bị tương tự: những chiếc đèn nhỏ phát ra chùm tia bạc mảnh.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Những chiếc đèn này đã là một phần của [huyền thoại](../L/Legendarium.md) ngay từ những giai đoạn đầu, nhưng [Christopher Tolkien](../C/Christopher_Tolkien.md) đã không đề cập đến chúng trong *[Silmarillion](../S/Silmarillion.md)* đã xuất bản. Ví dụ, trong một phiên bản của câu chuyện, [Túrin Turambar](../T/Túrin_Turambar.md) đã nhận ra khuôn mặt của [Beleg](../B/Beleg.md) người mà ông ta đã giết chết bằng ánh sáng của ngọn đèn Gwindor;<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> tuy nhiên trong phiên bản có trong *Silmarillion*, chính tia sét đã làm lộ khuôn mặt của Beleg cho Túrin.<sup id="cite_ref-CH9_2-1" class="reference"><a href="#cite_note-CH9-2">[2]</a></sup>
+Những chiếc đèn này đã là một phần của [huyền thoại](../L/Legendarium.md) ngay từ những giai đoạn đầu, nhưng [Christopher Tolkien](../C/Christopher_Tolkien.md) đã không đề cập đến chúng trong *[Silmarillion](../S/Silmarillion.md)* đã xuất bản. Ví dụ, trong một phiên bản của câu chuyện, [Túrin Turambar](../T/Túrin_Turambar.md) đã nhận ra khuôn mặt của [Beleg](../B/Beleg.md) người mà ông ta đã giết chết dưới ánh đèn của Gwindor;<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> tuy nhiên trong phiên bản có trong *Silmarillion*, chính tia sét đã làm lộ ra khuôn mặt của Beleg cho Túrin.<sup id="cite_ref-CH9_2-1" class="reference"><a href="#cite_note-CH9-2">[2]</a></sup>
 
-Mô tả chi tiết về bản chất của những chiếc đèn được mô tả ở phần đầu *[Lay of the Children of Húrin](../L/Lay_of_the_Children_of_Húrin.md)*, khi Beleg tìm thấy Gwindor trong khu rừng [Taur-nu-Fuin](<../T/Taur-nu-Fuin_(Dorthonion).md>) sau khi nhìn thấy chiếc đèn của ông ta tỏa sáng từ xa:
+Mô tả chi tiết về bản chất của những chiếc đèn được mô tả ở phần đầu *[Lay of the Children of Húrin](../L/Lay_of_the_Children_of_Húrin.md)*, khi Beleg tìm thấy Gwindor trong khu rừng [Taur-nu-Fuin](<../T/Taur-nu-Fuin_(Dorthonion).md>) sau khi nhìn thấy chiếc đèn của mình tỏa sáng từ xa:
 
 <blockquote class="tg-quote noexcerpt">
 <p>But little lanterns   of lucent crystal<br/>
@@ -74,7 +74,7 @@ in groundless grot,   or gulfs far under.
 <p class="tg-quote-footer"><cite><i><a href="../T/The_Lay_of_the_Children_of_Húrin.md" title="The Lay of the Children of Húrin">The Lay of the Children of Húrin</a></i>, II. Beleg, vv. 787-799</cite></p>
 </blockquote>
 
-Cảnh Beleg tìm thấy Gwindor bằng một trong những chiếc đèn này được vẽ bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và xuất bản trong *[Pictures by J.R.R. Tolkien](../P/Pictures_by_J.R.R._Tolkien.md)* (1979), [no. 37](../../file/J/J.R.R._Tolkien_-_Fangorn_Forest.jpg.md).
+Cảnh Beleg tìm thấy Gwindor với một trong những chiếc đèn này được vẽ bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và xuất bản trong *[Pictures by J.R.R. Tolkien](../P/Pictures_by_J.R.R._Tolkien.md)* (1979), [no. 37](../../file/J/J.R.R._Tolkien_-_Fangorn_Forest.jpg.md).
 
 <span></span>
 

@@ -30,7 +30,7 @@ infobox:
 
 **Mythcon 1** là hội nghị thường niên đầu tiên của [Hiệp hội thần thoại](Mythopoeic_Society.md).
 
-- **Khách mời danh dự:** [C.S. Kilby](../C/Clyde_S._Kilby.md) (Học giả & người phụ trách Inklings)
+- **Khách mời danh dự:** [C.S. Kilby](../C/Clyde_S._Kilby.md) (Inklings học giả & giám tuyển)
 - **Chủ tịch:** [Glen GoodKnight](../G/Glen_GoodKnight.md)
 
 ## Liên kết ngoài {#External_links}

@@ -19,15 +19,15 @@ langlinks:
     url: "https://kontu.wiki/Mellon"
 ---
 
-<i><b>mellon</b></i> là từ [Sindarin](../S/Sindarin.md) (và [Noldorin](../N/Noldorin.md)) để chỉ "bạn".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-FR_2-0" class="reference"><a href="#cite_note-FR-2">[2]</a></sup><sup id="cite_ref-PE17_3-0" class="reference"><a href="#cite_note-PE17-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+<i><b>mellon</b></i> là từ [Sindarin](../S/Sindarin.md) (và [Noldorin](../N/Noldorin.md)) để chỉ "bạn bè".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-FR_2-0" class="reference"><a href="#cite_note-FR-2">[2]</a></sup><sup id="cite_ref-PE17_3-0" class="reference"><a href="#cite_note-PE17-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 [Didier Willis](../D/Didier_Willis.md) đã gợi ý rằng dạng số nhiều là *mellyn*.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Sindarin *mellon* bắt nguồn từ ?[Sindarin cổ](../O/Old_Sindarin.md) *melnā* ("thân yêu, yêu quý"), từ [gốc](../S/Sundocarme.md) MEL ("tình yêu").<sup id="cite_ref-PE17_3-1" class="reference"><a href="#cite_note-PE17-3">[3]</a></sup>
+Sindarin *mellon* bắt nguồn từ ?[Old Sindarin](../O/Old_Sindarin.md) *melnā* ("thân yêu, người yêu"), từ [gốc](../S/Sundocarme.md) MEL ("tình yêu").<sup id="cite_ref-PE17_3-1" class="reference"><a href="#cite_note-PE17-3">[3]</a></sup>
 
-Trong [*Etymologies*](../T/The_Etymologies.md), [Noldorin](../N/Noldorin.md) *mellon* bắt nguồn từ [gốc](../S/Sundocarme.md) MEL ("tình yêu (như bạn)").<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Trong [*Etymologies*](../T/The_Etymologies.md), [Noldorin](../N/Noldorin.md) *mellon* bắt nguồn từ [gốc](../S/Sundocarme.md) MEL ("tình yêu (với tư cách là bạn)").<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 ## Ví dụ {#Examples}
 

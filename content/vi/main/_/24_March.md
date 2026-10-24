@@ -79,7 +79,7 @@ Sự kiện xảy ra vào ngày 24 tháng 3
 - [T.A.](../T/Third_Age.md) [2510](../T/Third_Age_2510.md):
     - [Borondir](../B/Borondir.md) đang trên đường tìm kiếm [Éothéod](Éothéod.md).
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) thực hiện hành trình cuối cùng đến chân [Mount Doom](../M/Mount_Doom.md).
-    - Chủ nhà phương Tây cắm trại trong sự buồn tẻ của [Morannon](../M/Morannon.md).
+    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) thực hiện hành trình cuối cùng đến chân [Núi Diệt Vong](../M/Mount_Doom.md).
+    - Trại Đạo quân Phương Tây trong sự ảm đạm của [Morannon](../M/Morannon.md).
 - [T.A.](../T/Third_Age.md) [3021](../T/Third_Age_3021.md):
-    - Ngày cuối cùng của [Thời đại thứ ba](../T/Third_Age.md), theo tính toán của [Gondor](../G/Gondor.md).
+    - Ngày cuối cùng của [Kỷ Đệ Tam](../T/Third_Age.md), theo tính toán của [Gondor](../G/Gondor.md).

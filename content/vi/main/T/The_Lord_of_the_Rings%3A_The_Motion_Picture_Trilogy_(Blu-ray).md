@@ -24,7 +24,7 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_(Theatrical_Editions)_(Blu-ray).png.md"><img src="https://tolkiengateway.net/w/images/thumb/4/43/The_Lord_of_the_Rings_%28Theatrical_Editions%29_%28Blu-ray%29.png/250px-The_Lord_of_the_Rings_%28Theatrical_Editions%29_%28Blu-ray%29.png" decoding="async" loading="lazy" width="250" height="293" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/4/43/The_Lord_of_the_Rings_%28Theatrical_Editions%29_%28Blu-ray%29.png 1.5x" data-file-width="333" data-file-height="390"/></a><figcaption></figcaption></figure>
 
-**Chúa tể của những chiếc nhẫn: Bộ ba phim điện ảnh** là gói Blu-ray gồm [*The Lord of the Rings* loạt phim](<The_Lord_of_the_Rings_(film_series).md>) được phát hành vào ngày 6 tháng 4 năm 2010 bởi [New Line Cinema](../N/New_Line_Cinema.md). Nó bao gồm các ấn bản chiếu rạp ở độ phân giải cao và sáu DVD có các tính năng bổ sung, video ca nhạc, chú thích bằng cả tiếng Tây Ban Nha và tiếng Anh, bao gồm hơn một giờ các cảnh đã bị xóa và một bộ phim tài liệu về quá trình làm phim (bao gồm cả đoạn giới thiệu).
+**The Lord of the Rings: Bộ ba phim điện ảnh** là gói Blu-ray gồm [*The Lord of the Rings* loạt phim](<The_Lord_of_the_Rings_(film_series).md>) được phát hành vào ngày 6 tháng 4 năm 2010 bởi [New Line Cinema](../N/New_Line_Cinema.md). Nó bao gồm các ấn bản chiếu rạp ở độ phân giải cao và sáu DVD có các tính năng bổ sung, video ca nhạc, chú thích bằng cả tiếng Tây Ban Nha và tiếng Anh, bao gồm hơn một giờ các cảnh đã bị xóa và một bộ phim tài liệu về quá trình làm phim (bao gồm cả đoạn giới thiệu).
 
 ## Xem thêm {#See_also}
 

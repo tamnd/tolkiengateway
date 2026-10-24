@@ -25,7 +25,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>The Journal of Inklings Studies, vol.4 no.2</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Judith Wolfe</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">The Oxford C.S. Lewis Society &amp; Ash</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">October <a href="../_/2014.md" title="2014">2014</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Magazine</td></tr></tbody></table>
 
-<b><i>Tạp chí Nghiên cứu về Inklings</i>, tập 4 số 2</b> là số *[The Journal of Inklings Studies](../T/The_Journal_of_Inklings_Studies.md)*, xuất bản vào [6 tháng 10](../_/6_October.md) [2014](../_/2014.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Số này đáng chú ý khi xuất bản bản dịch gốc *[The Book of Jonah](../T/The_Book_of_Jonah.md)* của [J.R.R. Tolkien](J.R.R._Tolkien.md) cho *[The Jerusalem Bible](../T/The_Jerusalem_Bible.md)*.
+<b><i>Tạp chí Nghiên cứu Inklings</i>, tập 4 số 2</b> là số *[The Journal of Inklings Studies](../T/The_Journal_of_Inklings_Studies.md)*, xuất bản ngày [6 tháng 10](../_/6_October.md) [2014](../_/2014.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Số này đáng chú ý khi xuất bản bản dịch gốc *[The Book of Jonah](../T/The_Book_of_Jonah.md)* của [J.R.R. Tolkien](J.R.R._Tolkien.md) cho *[The Jerusalem Bible](../T/The_Jerusalem_Bible.md)*.
 
 ## Nội dung {#Contents}
 
@@ -34,12 +34,12 @@ infobox:
 
 - Bài viết
     - [J.R.R. Tolkien](J.R.R._Tolkien.md), "Sách Giô-na"
-    - Brendan N. Wolfe, "Jonah của Tolkien"
+    - Brendan N. Wolfe, "Tolkien's Jonah"
     - Leslie Baynes, "C. S. Lewis Việc sử dụng Kinh thánh trong Lập luận 'Kẻ nói dối, Kẻ mất trí, Chúa'"
-    - Stratford Caldecott, "Ánh sáng mới. Triết lý sáng tạo của Tolkien trong Silmarillion"
+    - Stratford Caldecott, "Ánh sáng mới. Triết lý sáng tạo của Tolkien trong The Silmarillion"
     - Bruce R. Johnson, "Kinh thánh, bối cảnh và khán giả trong các cuộc nói chuyện của RAF C. S. Lewis"
     - Arend Smilde, "C. S. Lewis, St Jerome và Câu chuyện sáng tạo trong Kinh thánh: Bối cảnh của sự phân bổ sai lầm thường xuyên"
-    - [Charles Williams](../C/Charles_Williams.md), "Ôn tập Tân Ước bằng tiếng Anh cơ bản"
+    - [Charles Williams](../C/Charles_Williams.md), "Ôn lại Tân Ước bằng tiếng Anh cơ bản"
 
 - Đánh giá
     - Arend Smilde - Walter Hooper (đã chỉnh sửa), C. S. Lewis, Hình ảnh và Trí tưởng tượng: Tiểu luận và Đánh giá

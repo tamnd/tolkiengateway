@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Tatyafinwe"
 ---
 
-- Tatyafinwe đã vui lòng cho phép cô sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Tatyafinwe.md) trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
+- Tatyafinwe đã vui lòng cho phép cô sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Tatyafinwe.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Ngày: 3 tháng 4 năm 2022
 - Người dùng đã xin phép qua email: [Ar-Zigûr](https://tolkiengateway.net/wiki/User:Ar-Zig%C3%BBr)

@@ -16,7 +16,7 @@ sort_keys:
   "People by name": "Greenwood, Linda"
 ---
 
-**Linda Greenwood** tốt nghiệp hạng ưu tại <a class="extiw" href="http://en.wikipedia.org/wiki/Grove_City_College" title="wikipedia:Grove City College">Grove City College</a>và hiện là Tiến sĩ. sinh viên tại <a class="extiw" href="http://en.wikipedia.org/wiki/St._Andrews_University" title="wikipedia:St. Andrews University">St. Đại học Andrews</a>.
+**Linda Rừng Xanh** tốt nghiệp hạng ưu tại <a class="extiw" href="http://en.wikipedia.org/wiki/Grove_City_College" title="wikipedia:Grove City College">Grove City College</a>và hiện đang là Tiến sĩ. sinh viên tại <a class="extiw" href="http://en.wikipedia.org/wiki/St._Andrews_University" title="wikipedia:St. Andrews University">St. Đại học Andrews</a>.
 
 ## Thư mục {#Bibliography}
 

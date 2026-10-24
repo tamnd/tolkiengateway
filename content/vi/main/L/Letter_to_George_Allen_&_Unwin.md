@@ -14,14 +14,14 @@ sort_keys:
   "Letters": "George Allen and Unwin"
 ---
 
-Vào [7 tháng 9](../_/7_September.md) [1937](../_/1937.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) gửi [George Allen & Unwin](../G/George_Allen_and_Unwin.md)**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Vào ngày [7 tháng Chín](../_/7_September.md) [1937](../_/1937.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) gửi [George Allen &amp; Unwin](../G/George_Allen_and_Unwin.md)**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-- **Nội dung**: Tolkien viết thư cho nhà xuất bản của mình về việc quảng cáo *[The Hobbit](../T/The_Hobbit.md)*. Đáng chú ý là mô tả của Tolkien về người bạn [Wilfred Rowland Childe](../W/Wilfred_Rowland_Childe.md) của mình.
-- **Lưu trữ**: Lưu trữ Tolkien-George Allen & Unwin, HarperCollins.
+- **Nội dung**: Tolkien viết cho nhà xuất bản của mình về việc quảng cáo *[The Hobbit](../T/The_Hobbit.md)*. Đáng chú ý là mô tả của Tolkien về người bạn [Wilfred Rowland Childe](../W/Wilfred_Rowland_Childe.md) của ông.
+- **Lưu trữ**: Tolkien-George Allen &amp; Unwin lưu trữ, HarperCollins.
 
 ## Trích {#Excerpt}
 
-*"\[Wilfred Rowland Childe\] đặc biệt quan tâm đến yêu tinh và các sinh vật liên quan. Ông (dù sao đi nữa) là một nhà thơ khá nổi tiếng và vẫn là một nhà thơ giỏi; đồng thời có quan hệ mật thiết với nhiều nhóm văn học và báo chí cũng như dân gian, đặc biệt là ở miền Bắc. Ông có thể sẽ làm gì đó nếu có được một bản sao. Ông đã xem \[bản thảo\] và rất có thiện chí"* <span></span>
+*"\[Wilfred Rowland Childe\] đặc biệt quan tâm đến Tiên tộc và các sinh vật liên quan. Ông ấy (dù sao đi nữa) là một nhà thơ khá nổi tiếng và vẫn là một nhà thơ giỏi; có quan hệ mật thiết với nhiều nhóm văn học, báo chí và dân gian, đặc biệt ở miền Bắc. Có lẽ ông ấy sẽ làm gì đó nếu có được một bản sao. Ông ấy đã xem \[bản thảo\] và rất có thiện chí"* <span></span>
 
 ## Tài liệu tham khảo {#References}
 

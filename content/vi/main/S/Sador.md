@@ -45,17 +45,17 @@ infobox:
 
 ## Lịch sử {#History}
 
-Sador là một người rừng đã chiến đấu trong [Dagor Bragollach](../D/Dagor_Bragollach.md). Tuy nhiên, ông ta đến chiến trường quá muộn và chỉ có thể mang [Hador](../H/Hador.md) đã ngã xuống trở về. Sau đó ông ta đóng quân tại [Eithel Sirion](../E/Eithel_Sirion.md) và có mặt ở đó khi Húrin nắm quyền chỉ huy. Nhưng ông ta quá mệt mỏi với chiến tranh và quay trở lại khu rừng của mình, lúc đó ông ta vô tình bị đứt lìa bàn chân phải. Ông nhận xét với Túrin rằng, *"một người thoát khỏi nỗi sợ hãi có thể nhận ra rằng mình chỉ đi một con đường tắt để gặp nó"*. Phần chân còn lại của anh đã bị teo lại do không thể sử dụng được.<sup id="cite_ref-Sador_1-0" class="reference"><a href="#cite_note-Sador-1">[1]</a></sup>
+Sador là một người thợ rừng đã chiến đấu trong [Dagor Bragollach](../D/Dagor_Bragollach.md). Tuy nhiên, ông ta đến chiến trường quá muộn và chỉ có thể mang về [Hador](../H/Hador.md) đã ngã xuống. Sau đó ông ta đóng quân tại [Eithel Sirion](../E/Eithel_Sirion.md) và có mặt ở đó khi Húrin nhận quyền chỉ huy. Nhưng ông ta quá mệt mỏi với chiến tranh và quay trở lại khu rừng của mình, lúc đó ông ta vô tình bị đứt lìa bàn chân phải. Ông nhận xét với Túrin rằng, *"một người thoát khỏi nỗi sợ hãi có thể thấy rằng ông ta chỉ đi một con đường tắt để gặp nó"*. Phần chân còn lại của anh đã bị teo lại do không thể sử dụng được.<sup id="cite_ref-Sador_1-0" class="reference"><a href="#cite_note-Sador-1">[1]</a></sup>
 
-Một trong những tài năng của Sador là chế biến gỗ. Sador trở thành "người giúp việc phục vụ Húrin"; Mặc dù chỉ là một người hầu đơn giản, Sador rất khôn ngoan và đã chia sẻ với Túrin trẻ tuổi nhiều hiểu biết sâu sắc về bản chất của [Con người](../M/Men.md), [Yêu tinh](../E/Elves.md) và số phận.<sup id="cite_ref-Sador_1-1" class="reference"><a href="#cite_note-Sador-1">[1]</a></sup>
+Một trong những tài năng của Sador là chế biến gỗ. Sador trở thành "người giúp việc phục vụ Húrin"; Tuy chỉ là một người hầu đơn sơ nhưng Sador rất khôn ngoan và đã chia sẻ với những người trẻ Túrin nhiều hiểu biết sâu sắc về bản chất của [Con Người](../M/Men.md), [Tiên tộc](../E/Elves.md) và số phận.<sup id="cite_ref-Sador_1-1" class="reference"><a href="#cite_note-Sador-1">[1]</a></sup>
 
-Sador làm việc ở khu nhà phụ, sửa chữa những thứ xung quanh nhà mà thường không mấy quan trọng. Ông là bạn thân nhất của Túrin trong thời trẻ, và cậu bé thường giúp đỡ Sador bằng cách lấy vật liệu và dụng cụ để giúp ông không phải đi lại. Khi Túrin mang cho cậu những món quà mà cậu "tìm thấy" nằm xung quanh, Sador sẽ bảo cậu bé trả lại chúng và dạy cậu không nên ăn trộm ngay cả khi đó là để tặng. Sador rất thích bầu bạn với Túrin và thường khắc cho ông những hình người và quái vật, mặc dù Túrin thích những câu chuyện của Sador nhất.
+Sador làm việc ở khu nhà phụ, sửa chữa những thứ xung quanh nhà mà thường không mấy quan trọng. Ông là bạn thân nhất của Túrin thời trẻ và cậu bé thường giúp đỡ Sador bằng cách lấy vật liệu và dụng cụ để giúp ông không phải đi lại. Khi Túrin mang đến cho cậu những món quà mà cậu "tìm thấy" nằm rải rác, Sador sẽ bảo cậu bé trả lại chúng và dạy cậu không được ăn trộm ngay cả khi đó là để tặng. Sador rất thích bầu bạn với Túrin và thường khắc cho ông những hình người và quái vật, mặc dù Túrin thích những câu chuyện của Sador nhất.
 
-Vào ngày sinh nhật của Túrin, cha anh đã tặng anh một con dao [Elven](../E/Elves.md) có giá trị rất lớn. Túrin thương hại Sador và quyết định tặng quà cho anh. Sador nhận món quà vì sẽ là thô lỗ nếu không làm vậy, nhưng anh biết mình sẽ không thể trả ơn Túrin vì món quà như vậy.
+Vào ngày sinh nhật của Túrin, cha anh đã tặng anh một con dao [Tiên](../E/Elves.md) có giá trị rất lớn. Túrin thương hại Sador và quyết định tặng quà cho ông ta. Sador nhận món quà vì sẽ là thô lỗ nếu không nhận, nhưng anh biết mình sẽ không thể trả Túrin món quà như vậy.
 
-Mẹ của Túrin, [Morwen](../M/Morwen.md), không quan tâm đến Sador và gọi anh là "tự ti vì thiếu kỹ năng của bản thân, và anh chậm chạp trong công việc của mình, vì anh dành nhiều thời gian cho những việc vặt vãnh." Nhưng Túrin lưu ý rằng hành động hào phóng của anh đã khiến Sador được đối xử tử tế hơn. Lúc này Sador bắt đầu tạc một chiếc ngai vàng lớn cho đại sảnh Húrin.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Mẹ của Túrin, [Morwen](../M/Morwen.md), không quan tâm đến Sador và gọi anh là "người tự làm mình bị thương vì thiếu kỹ năng, và anh chậm chạp trong công việc vì dành nhiều thời gian cho những việc vặt vãnh." Nhưng Túrin lưu ý rằng hành động hào phóng của anh đã khiến Sador được đối xử tử tế hơn. Lúc này Sador bắt đầu tạc một chiếc ngai vàng lớn cho đại sảnh Húrin.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Sau khi Túrin rời đi, Sador vẫn ở lại nhà của [Morwen](../M/Morwen.md), mặc dù anh ước mình có thể tham gia trận chiến để chết một cách anh dũng. Khi Túrin trở về từ [Nargothrond](../N/Nargothrond.md) nhiều năm sau, Sador tham gia vào cuộc nổi dậy chống lại [Easterlings](../E/Easterlings.md) những kẻ đã chiếm lấy vùng đất. Sau đó ông ta bị thương và thiệt mạng.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Sau khi Túrin ra đi, Sador vẫn ở lại nhà của [Morwen](../M/Morwen.md), dù anh ước mình có thể tham gia trận chiến để chết một cách anh dũng. Khi Túrin trở về từ [Nargothrond](../N/Nargothrond.md) nhiều năm sau, Sador đã tham gia vào cuộc nổi dậy chống lại [Easterlings](../E/Easterlings.md) đã chiếm lấy vùng đất. Sau đó ông ta bị thương và thiệt mạng.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Trích dẫn {#Quotes}
 
@@ -86,18 +86,18 @@ Sau khi Túrin rời đi, Sador vẫn ở lại nhà của [Morwen](../M/Morwen.
 
 ## Từ nguyên {#Etymology}
 
-*sador* là từ [tiếng Sindarin](Sindarin.md) có nghĩa là "vững chắc, đáng tin cậy, trung thành".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+*sador* là từ [Sindarin](Sindarin.md) có nghĩa là "vững vàng, tin cậy, trung thành".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Tên khác {#Other_names}
 
 Sador có một số tên bao gồm:
 
-- <i><b>Labadal</b></i>, Sindarin nghĩa là "hopafoot", Túrin tặng cho Sador.<sup id="cite_ref-Sador_1-4" class="reference"><a href="#cite_note-Sador-1">[1]</a></sup>
+- <i><b>Labadal</b></i>, Sindarin cho "hopafoot", được Túrin tặng cho Sador.<sup id="cite_ref-Sador_1-4" class="reference"><a href="#cite_note-Sador-1">[1]</a></sup>
 - **Một chân**, biệt danh ám chỉ việc anh không có bàn chân phải.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Theo một c. [1969](../_/1969.md) văn bản, [Tolkien](../T/Tolkien.md) có ý định biến nhân vật Sador (tên đã được đổi thành <i><b>Sadog</b></i><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>) thành một trong những [Drúedain](../D/Drúedain.md). Một số Drúedain (còn gọi là Drûg) sống trong gia đình Húrin, vì ông đã sống giữa [Dân tộc Haleth](../H/House_of_Haleth.md) khi còn trẻ (nơi mà hầu hết Drúedain sống ở [Thời đại thứ nhất](../F/First_Age.md)).<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
+Theo một c. [1969](../_/1969.md) văn bản, [Tolkien](../T/Tolkien.md) nhằm mục đích biến nhân vật Sador (tên đã được đổi thành <i><b>Sadog</b></i><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>) thành một trong những [Drúedain](../D/Drúedain.md). Một số Drúedain (còn gọi là Drûg) sống trong gia đình của Húrin, vì ông ta đã sống giữa [Dân tộc Haleth](../H/House_of_Haleth.md) khi còn trẻ (nơi mà hầu hết Drúedain sống trong [Kỷ Đệ Nhất](../F/First_Age.md)).<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
 
 <span></span>
 

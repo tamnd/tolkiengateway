@@ -31,7 +31,7 @@ O the hoot of Tinfang Warble!
 </p>
 </div>
 
-Trong phiên bản đầu tiên, Tinfang được gọi là 'yêu tinh', và trong bài phát biểu của người Gnomish, ông là 'fay'.
+Trong phiên bản đầu tiên, Tinfang được gọi là 'yêu tinh', và trong bài phát biểu Gnomish, ông là 'fay'.
 
 ## Xem thêm {#See_also}
 

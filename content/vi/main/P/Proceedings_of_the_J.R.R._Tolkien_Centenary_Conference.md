@@ -44,8 +44,8 @@ infobox:
 
 #### Phần 1: Hồi ức và tưởng nhớ {#Section_1:_Recollection_and_Remembrance}
 
-- [Vera Chapman](../V/Vera_Chapman.md): "Hồi tưởng: Oxford năm 1920, gặp Tolkien và trở thành tác giả ở tuổi 77"
-- [Glen H. Goodknight](../G/Glen_H._Goodknight.md): "Bài phát biểu về bữa tiệc kỷ niệm 100 năm Tolkien"
+- [Vera Chapman](../V/Vera_Chapman.md): "Hồi tưởng: Oxford năm 1920, Gặp gỡ Tolkien và trở thành tác giả ở tuổi 77"
+- [Glen H. Goodknight](../G/Glen_H._Goodknight.md): "Tolkien Địa chỉ tiệc kỷ niệm 100 năm"
 - [Robert Murray](../R/Robert_Murray.md): "Bài giảng trong Lễ tạ ơn, Nhà nguyện Đại học Keble, ngày 23 tháng 8 năm 1992"
 - [George Sayer](../G/George_Sayer.md): "Hồi ức về J.R.R. Tolkien"
 - [Rayner Unwin](../R/Rayner_Unwin.md): "Xuất bản Tolkien"
@@ -53,27 +53,27 @@ infobox:
 #### Phần 2: Nguồn và Ảnh hưởng {#Section_2:_Sources_and_Influences}
 
 - [Nils Ivar Agøy](../N/Nils_Ivar_Agøy.md): "Quid Hinieldus cum Christo? - Những quan điểm mới về tình thế tiến thoái lưỡng nan thần học của Tolkien và Lý thuyết về sự sáng tạo phụ của ông"
-- [Verlyn Flieger](../V/Verlyn_Flieger.md): "Thử nghiệm của Tolkien với thời gian: Con đường đã mất, Bài báo của Câu lạc bộ Notion và J.W.Dunne"
-- Deirdre Greene: "Lý lẽ cao hơn: Tolkien và truyền thống về Tầm nhìn, Sử thi và Lời tiên tri"
-- Virginia Luling: "Một nhà nhân chủng học ở Trung địa"
-- [Charles E. Noad](../C/Charles_E._Noad.md): "Frodo và bóng ma của ông ta: Cộng hưởng Blakean ở Tolkien"
+- [Verlyn Flieger](../V/Verlyn_Flieger.md): "Thử nghiệm củaTolkien với thời gian: The Lost Road, The Notion Club Papers và J.W.Dunne"
+- Deirdre Greene: "Lý lẽ cao hơn: Tolkien và truyền thống về Tầm nhìn, Sử thi và Tiên tri"
+- Virginia Luling: "Một nhà nhân chủng học ở Trung Địa"
+- [Charles E. Noad](../C/Charles_E._Noad.md): "Frodo và Bóng ma của ông: Cộng hưởng Blakean trong Tolkien"
 - Gloriana St. Clair: "Tổng quan về những ảnh hưởng của phương Bắc đối với các tác phẩm của Tolkien"
 - Gloriana St. Clair: "Volsunga Saga và Narn: Một số điểm tương đồng"
-- [Chris Seeman](../C/Chris_Seeman.md): "Bản sửa lại truyền thống lãng mạn của Tolkien"
-- [Tom Shippey](../T/Tom_Shippey.md): "Tolkien với tư cách là một nhà văn thời hậu chiến"
-- Norman Talbot: "Yêu tinh đi đâu? Tolkien và một truyền thống giả tưởng"
+- [Chris Seeman](../C/Chris_Seeman.md): "Tolkien Sửa đổi truyền thống lãng mạn"
+- [Tom Shippey](../T/Tom_Shippey.md): "Tolkien với tư cách là Nhà văn thời hậu chiến"
+- Norman Talbot: " Tiên tộc đi tới đâu? Tolkien và một Truyền thống Ảo tưởng"
 
 #### Phần 3: Chúa tể của những chiếc nhẫn {#Section_3:_The_Lord_ofthe_Rings}
 
 - [Marjorie Burns](../M/Marjorie_Burns.md): "Ăn uống, ngấu nghiến, hy sinh và món tráng miệng tuyệt đỉnh"
-- [Jane Chance](../J/Jane_Chance.md): "Quyền lực và kiến thức ở Tolkien: Vấn đề về sự khác biệt trong 'Bữa tiệc sinh nhật'"
+- [Jane Chance](../J/Jane_Chance.md): "Sức mạnh và kiến thức trong Tolkien: Vấn đề về sự khác biệt trong 'Bữa tiệc sinh nhật'"
 - Joe R. Christopher: "Sự hiển linh về đạo đức trong *The Lord of the Rings*"
 - [Patrick Curry](Patrick_Curry.md): "'Ít tiếng ồn hơn và xanh hơn': Hệ tư tưởng của Tolkien dành cho nước Anh"
-- Gwenyth Hood: "Thiên đường trần gian trong *The Lord of the Rings* của Tolkien"
-- Gloriana St. Clair: "Tolkien với tư cách là người chỉnh sửa: Một nghiên cứu điển hình"
+- Gwenyth Hood: "Thiên đường trần gian ở Tolkien's *The Lord of the Rings*"
+- Gloriana St. Clair: "Tolkien với tư cách là Người chỉnh sửa: Một nghiên cứu điển hình"
 - [Christina Scull](../C/Christina_Scull.md): "Tư duy mở, tư duy khép kín trong *The Lord of the Rings*"
 
-#### Phần 4: Đồng Silmarillion {#Section_4:_The_Silmarillion}
+#### Mục 4: The Silmarillion {#Section_4:_The_Silmarillion}
 
 - [Alex Lewis](../A/Alex_Lewis.md): "Thành kiến lịch sử trong quá trình hình thành *The Silmarillion*"
 - Eric Schweicher: "Các khía cạnh của sự sụp đổ ở *The Silmarillion*"
@@ -81,54 +81,54 @@ infobox:
 #### Phần 5: Ngôn ngữ học và Từ điển học {#Section_5:_Linguistics_and_Lexicography}
 
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Peter_Gilliver&amp;action=edit&amp;redlink=1" title="Peter Gilliver (page does not exist)">Peter M. Gilliver</a>: "Tại Wordface: Tác phẩm của J.R.R. Tolkien về Từ điển tiếng Anh Oxford"
-- [Christopher Gilson](../C/Christopher_Gilson.md) và [Patrick H. Wynne](Patrick_H._Wynne.md): "Sự phát triển của ngữ pháp trong các ngôn ngữ của thần tiên"
-- Deirdre Greene: "Thơ từ điển của Tolkien: Ảnh hưởng của phong cách xác định của OED đối với tiểu thuyết của Tolkien"
+- [Christopher Gilson](../C/Christopher_Gilson.md) và [Patrick H. Wynne](Patrick_H._Wynne.md): "Sự phát triển của ngữ pháp trong Tiên tiếng"
+- Deirdre Greene: "Từ điển thi ca củaTolkien: Ảnh hưởng của phong cách xác định của OED đối với tiểu thuyết của Tolkien"
 - Natalia Grigorieva: "Các vấn đề khi dịch sang tiếng Nga"
-- Bruce Mitchell: "J.R.R. Tolkien và Nghiên cứu tiếng Anh cổ: Đánh giá cao"
+- Bruce Mitchell: "J.R.R. Tolkien và tiếng Anh cổ Nghiên cứu: Sự đánh giá cao"
 - [Tom Shippey](../T/Tom_Shippey.md): "Tolkien và nhà thơ Gawain"
 
 #### Phần 6: Ứng phó và phản ứng {#Section_6:_Response_and_Reaction}
 
-- Vladimir Grushetskiy: "Người Nga nhìn nhận Tolkien như thế nào"
-- [Wayne G. Hammond](../W/Wayne_G._Hammond.md): "Phản ứng phê bình đối với tiểu thuyết của Tolkien"
+- Vladimir Grushetskiy: "Người Nga nhìn thế nào Tolkien"
+- [Wayne G. Hammond](../W/Wayne_G._Hammond.md): "Phản ứng phê phán đối với tiểu thuyết của Tolkien"
 - Jessica Yates: "Tolkien người chống toàn trị"
 
-#### Phần 7: Nghiên cứu về Tolkien {#Section_7:_Tolkien_Studies}
+#### Mục 7: Tolkien Nghiên cứu {#Section_7:_Tolkien_Studies}
 
 - [Helen Armstrong](../H/Helen_Armstrong.md): "Người tốt, Kẻ xấu, Ảo tưởng và Hiện thực"
 - Christine Barkley: "Vương quốc của thần tiên"
 - Christine Barkley: "Quan điểm ở Tolkien"
 - Joe R. Christopher: "J.R.R. Tolkien và Clerihew"
-- Edith L. Crowe: "Sức mạnh trong Arda: Nguồn, Công dụng và Lạm dụng"
+- Edith L. Crowe: "Sức mạnh trong Arda: Nguồn, Cách sử dụng và Lạm dụng"
 - Chris Hopkins: "Tolkien và tính Anh"
-- [Carl F. Hostetter](../C/Carl_F._Hostetter.md) và [Arden R. Smith](../A/Arden_R._Smith.md): "Một thần thoại cho nước Anh"
-- [Nancy Martsch](../N/Nancy_Martsch.md): "Niên đại của Tolkien"
+- [Carl F. Hostetter](../C/Carl_F._Hostetter.md) và [Arden R. Smith](../A/Arden_R._Smith.md): "Thần thoại cho nước Anh"
+- [Nancy Martsch](../N/Nancy_Martsch.md): "Một trình tự thời gian Tolkien"
 - Tadeusz Andrzej Olszanski: "Cái ác và kẻ ác trong thần học của Tolkien"
-- [René van Rossenberg](../R/René_van_Rossenberg.md): "Chuyến thăm đặc biệt của Tolkien tới Hà Lan: Một cuộc tái thiết"
+- [René van Rossenberg](../R/René_van_Rossenberg.md): "Chuyến thăm đặc biệt củaTolkien tới Hà Lan: Một cuộc tái thiết"
 - [Anders Stenström](../A/Anders_Stenström.md): "Một thần thoại? Dành cho nước Anh?"
-- Dwayne Thorpe: "Nghề thủ công yêu tinh của Tolkien"
+- Dwayne Thorpe: "Thủ công Elvish củaTolkien"
 
-#### Phần 8: Nghiên cứu về Trung Địa {#Section_8:_Middle-earth_Studies}
+#### Mục 8: Trung Địa Nghiên cứu {#Section_8:_Middle-earth_Studies}
 
-- Jenny Coombs và Marc Read: "Vật lý về Trung Địa"
-- David A. Funk: "Khám phá tâm hồn người lùn"
+- Jenny Coombs và Marc Đọc: "Vật lý của Trung Địa"
+- David A. Funk: "Khám phá tâm hồn của Người Lùn"
 - William Antony Swithin Sarjeant: "Địa chất của Trung Địa"
-- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Lester_E._Simons&amp;action=edit&amp;redlink=1" title="Lester E. Simons (page does not exist)">Lester E. Simons</a>: "Chữ viết và các công nghệ liên minh ở Trung Địa"
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Lester_E._Simons&amp;action=edit&amp;redlink=1" title="Lester E. Simons (page does not exist)">Lester E. Simons</a>: "Chữ viết và các công nghệ liên quan trong Trung Địa"
 
-#### Phần 9: Những chú mực {#Section_9:_The_Inklings}
+#### Mục 9: Inklings {#Section_9:_The_Inklings}
 
 - Charles A. Coulombe: "Sự xâm nhập kín đáo: Ảnh hưởng của Bình minh vàng đối với văn học giả tưởng"
 - [David Doughan](../D/David_Doughan.md): "Tolkien, Người nói, Giới tính và Giới tính"
-- [Colin Duriez](../C/Colin_Duriez.md): "Tolkien và những kẻ mơ hồ khác"
-- Lisa Hopkins: "Những nhân vật nữ quyền lực trong tác phẩm của Tolkien, C.S. Lewis và Charles Williams"
+- [Colin Duriez](../C/Colin_Duriez.md): "Tolkien và Inklings Khác"
+- Lisa Hopkins: "Những nhân vật nữ quyền lực trong tác phẩm Tolkien, C.S. Lewis và Charles Williams"
 - [Diana Lynne Pavlac](../D/Diana_Glyer.md): "Hơn cả một Bandersnatch: Tolkien với tư cách là một nhà văn cộng tác"
-- Stephen Yandell: "'Một khuôn mẫu mà bản chất của chúng ta khao khát': Truyền thống thời Trung cổ của Tứ Thánh trong tiểu thuyết J.R.R. Tolkien"
+- Stephen Yandell: "'Một khuôn mẫu mà bản chất của chúng ta khao khát': Truyền thống thời Trung cổ của Tứ quý nhân trong tiểu thuyết J.R.R. Tolkien"
 
 ### Phần 10: Chuyến bay ưa thích {#Section_10:_Flights_of_Fancy}
 
-- [John Ellison](../J/John_Ellison.md): "Tưởng nhớ Baggins"
-- Hubert Sawa: "Lịch sử ngắn gọn về sự phát triển lãnh thổ của các vương quốc của người lùn trong thời đại thứ hai và thứ ba ở Trung Địa"
-- Angela Surtees và Steve Gardner: "Cơ chế của rồng... Giới thiệu về *The Study of their 'Ologies*"
+- [John Ellison](../J/John_Ellison.md): "Baggins Đã nhớ"
+- Hubert Sawa: "Lịch sử ngắn gọn về sự phát triển lãnh thổ của các vương quốc Người Lùn' ở Thế kỷ thứ hai và Kỷ Đệ Tam của Trung Địa"
+- Angela Surtees và Steve Gardner: "Cơ chế của Rồng... Giới thiệu về *The Study of their 'Ologies*"
 
 ### Mục 11: Các nhà văn khác {#Section_11:_Other_Writers}
 
@@ -146,7 +146,7 @@ infobox:
 ## Liên kết ngoài {#External_links}
 
 - <a class="external text" href="https://www.mythsoc.org/mythcon/mythcon-23.htm" rel="noreferrer noopener" target="_blank">Trang web chính thức</a> ([Hiệp hội thần thoại](../M/Mythopoeic_Society.md))
-- <a class="external text" href="https://www.tolkiensociety.org/2018/12/proceedings-of-centenary-conference-now-online/" rel="noreferrer noopener" target="_blank">Trang web chính thức</a> ([Hiệp hội Tolkien](../T/The_Tolkien_Society.md))
+- <a class="external text" href="https://www.tolkiensociety.org/2018/12/proceedings-of-centenary-conference-now-online/" rel="noreferrer noopener" target="_blank">Trang web chính thức</a> ([Hội Tolkien](../T/The_Tolkien_Society.md))
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

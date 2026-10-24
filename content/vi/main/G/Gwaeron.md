@@ -21,7 +21,7 @@ langlinks:
     url: "https://kontu.wiki/Gwaeron"
 ---
 
-Theo truyền thống của tổ tiên [Edain](../E/Edain.md), [Dúnedain](../D/Dúnedain.md) của [Trung Địa](../M/Middle-earth.md) giữ lịch lấy tên tháng từ ngôn ngữ [Sindarin](../S/Sindarin.md). Trong lịch đó, **Gwaeron** là tháng thứ ba trong năm, với tên tương đương với [Quenya](../Q/Quenya.md) [Súlimë](../S/Súlimë.md) được sử dụng rộng rãi hơn. Cả hai cái tên [Elvish](../E/Elvish.md) này đều ám chỉ những cơn gió của mùa này trong năm.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Theo truyền thống của những người tiền nhiệm [Edain](../E/Edain.md), [Dúnedain](../D/Dúnedain.md) của [Trung Địa](../M/Middle-earth.md) giữ một lịch lấy tên tháng từ ngôn ngữ [Sindarin](../S/Sindarin.md). Trong lịch đó, **Gwaeron** là tháng thứ ba trong năm, với tên tương đương với [Quenya](../Q/Quenya.md) [Súlimë](../S/Súlimë.md) được sử dụng rộng rãi hơn. Cả hai cái tên [Elvish](../E/Elvish.md) này đều liên quan đến những cơn gió của mùa này trong năm.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

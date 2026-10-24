@@ -42,7 +42,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/AmonHen237.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/2/2d/AmonHen237.jpg/320px-AmonHen237.jpg" decoding="async" loading="lazy" width="320" height="453" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/2d/AmonHen237.jpg/480px-AmonHen237.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/2/2d/AmonHen237.jpg/640px-AmonHen237.jpg 2x" data-file-width="2273" data-file-height="3216"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Amon Hen 237</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="Andrew_Butler.md" title="Andrew Butler">Andrew Butler</a></td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data">John Whittle</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Printer</th><td class="tg-infobox-data"><a class="external text" href="http://www.horshampress.co.uk/" rel="noreferrer noopener" target="_blank">Horsham Press</a>, Horsham, UK</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../S/September.md" title="September">September</a> <a href="../_/2012.md" title="2012">2012</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">A5 stapled paperback, glossy</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">32</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0306-8781</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Amon_Hen_236.md" title="Amon Hen 236">Amon Hen 236</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Amon_Hen_238.md" title="Amon Hen 238">Amon Hen 238</a></td></tr></tbody></table>
 
-<b><i>Amon Hen</i> 237</b> is the two-hundred-and-thirty-seventh issue of the [The Tolkien Society](../T/The_Tolkien_Society.md)'s bimonthly journal *[Amon Hen](<Amon_Hen_(journal).md>)*, published in [September](../S/September.md) [2012](../_/2012.md).
+<b><i>Amon Hen</i> 237</b> là số thứ hai trăm ba mươi bảy của tạp chí hai tháng một lần của [Hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, xuất bản trên [tháng Chín](../S/September.md) [2012](../_/2012.md).
 
 ## Nội dung {#Contents}
 
@@ -65,7 +65,7 @@ infobox:
     - Bởi: Francesca Barbini
 - Tất cả Bran
     - Bởi: Ian Spittlehouse
-- Quảng cáo: Lịch Beyond Bree 2013
+- Quảng cáo: Beyond Bree Lịch 2013
 - Báo cáo: [Sự trở lại của chiếc nhẫn](../T/The_Return_of_the_Ring.md)
     - Bởi: Julie Sinclair
 - Báo cáo: [Sự trở lại của chiếc nhẫn](../T/The_Return_of_the_Ring.md)
@@ -89,13 +89,13 @@ infobox:
     - Bởi: Gordon Palmer
 - Tin tức từ [Fangorn](../F/Fangorn_Forest.md)
     - Bởi: Carol Brownlow
-- Đoạn cắt của Christopher
+Đoạn cắt của - Christopher
     - Bởi: Christopher Kreuzer
 - Thành viên mới
 - Ngày ghi nhật ký của bạn
 - Tác phẩm nghệ thuật: *Three Rings*
     - Bởi: Jef Murray
-- Truyện dân gian
+- Truyện dân ca
 - Ủy ban
 
 <div class="template-prevnext"><div class="template-prevnext__prev template-prevnext__link"><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/8/81/WikimediaUI-ArrowPrevious-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__content"><div class="template-prevnext__title">Amon Hen 236</div></div><div class="template-prevnext__linkoverlay"><a href="Amon_Hen_236.md" title="Amon Hen 236">Amon Hen 236</a></div></div><div class="template-prevnext__current"><div class="template-prevnext__content"><div class="template-prevnext__title">Amon Hen 237</div></div></div><div class="template-prevnext__next template-prevnext__link"><div class="template-prevnext__content"><div class="template-prevnext__title">Amon Hen 238</div></div><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/7b/WikimediaUI-ArrowNext-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__linkoverlay"><a href="Amon_Hen_238.md" title="Amon Hen 238">Amon Hen 238</a></div></div></div>

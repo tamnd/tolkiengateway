@@ -20,7 +20,7 @@ langlinks:
     url: "https://www.ardapedia.org/wiki/Lehmbuckel"
 ---
 
-**Gia đình Clayhanger** là một gia đình của [Người Hobbit](../H/Hobbits.md). Chỉ có một thành viên được ghi tên, [Lalia](../L/Lalia_Clayhanger.md).<sup id="cite_ref-L214_1-0" class="reference"><a href="#cite_note-L214-1">[1]</a></sup>
+**Gia đình Clayhanger** là một gia đình [Hobbit](../H/Hobbits.md). Chỉ có một thành viên được ghi tên, [Lalia](../L/Lalia_Clayhanger.md).<sup id="cite_ref-L214_1-0" class="reference"><a href="#cite_note-L214-1">[1]</a></sup>
 
 ## Phả hệ {#Genealogy}
 
@@ -32,7 +32,7 @@ langlinks:
 
 ## Từ nguyên {#Etymology}
 
-*Clayhanger* là một địa danh tiếng Anh, tên của ba thôn ở Anh (một ở West Midlands, một ở Cheshire và một ở Devon). Nó xuất phát từ [OE](../O/Old_English.md) *clǣghangra*, "Dốc rừng Clayey".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Là một tên gia đình, nó được biết đến nhiều nhất từ ​​ <a class="extiw" href="http://en.wikipedia.org/wiki/Arnold_Burnett" title="wikipedia:Arnold Burnett">các tiểu thuyết <a class="extiw" href="http://en.wikipedia.org/wiki/The_Clayhanger_Family" title="wikipedia:The Clayhanger Family"><i>Clayhanger</i>Clayhanger</a> của Arnold Burnett</a>xuất bản từ năm 1910 đến năm 1918. Cái tên này có thể sẽ được sử dụng cho một gia đình cư trú trên một sườn dốc rừng đất sét.
+*Clayhanger* là một địa danh tiếng Anh, tên của ba thôn ở Anh (một ở Phương Tây Midlands, một ở Cheshire và một ở Devon). Nó xuất phát từ [OE](../O/Old_English.md) *clǣghangra*, "Dốc rừng Clayey".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Là một tên gia đình, nó được biết đến nhiều nhất từ ​​ <a class="extiw" href="http://en.wikipedia.org/wiki/Arnold_Burnett" title="wikipedia:Arnold Burnett">các tiểu thuyết <a class="extiw" href="http://en.wikipedia.org/wiki/The_Clayhanger_Family" title="wikipedia:The Clayhanger Family"><i>Clayhanger</i>Clayhanger</a> của Arnold Burnett</a>xuất bản từ năm 1910 đến năm 1918. Cái tên này có thể sẽ được sử dụng cho một gia đình cư trú trên một sườn dốc rừng đất sét.
 
 <span></span>
 

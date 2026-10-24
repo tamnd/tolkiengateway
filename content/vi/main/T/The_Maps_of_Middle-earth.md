@@ -40,7 +40,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Maps_of_Middle-earth.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/0/06/The_Maps_of_Middle-earth.jpg/312px-The_Maps_of_Middle-earth.jpg" decoding="async" loading="lazy" width="312" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/06/The_Maps_of_Middle-earth.jpg/467px-The_Maps_of_Middle-earth.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/0/06/The_Maps_of_Middle-earth.jpg/623px-The_Maps_of_Middle-earth.jpg 2x" data-file-width="974" data-file-height="1500"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Maps of Middle-earth:<br/><small>From Númenor and Beleriand to Wilderland and Middle-earth</small></span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a href="../B/Brian_Sibley.md" title="Brian Sibley">Brian Sibley</a></td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="../J/John_Howe.md" title="John Howe">John Howe</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../H/HarperCollins.md" title="HarperCollins">HarperCollins</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/11_April.md" title="11 April">11 April</a> <a href="../_/2024.md" title="2024">2024</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Hardcover</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">160</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0008669465" title="Special:BookSources/0008669465">0008669465</a></td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="The_Fall_of_Númenor.md" title="The Fall of Númenor">The Fall of Númenor</a> (2022)</td></tr></tbody></table>
 
-<i><b>Bản đồ Trung địa: Từ Númenor và Beleriand đến Vùng đất hoang dã và Trung địa</b></i> là cuốn sách [2024](../_/2024.md) trình bày chi tiết về bốn bản đồ nổi bật xuất hiện trong [huyền thoại](../L/Legendarium.md) của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md): bản đồ [Trung địa](../M/Middle-earth.md), [The Hobbit](The_Hobbit.md), [Beleriand](../B/Beleriand.md) và [Númenor](../N/Númenor.md).
+<i><b>Bản đồ Trung Địa: Từ Númenor và Beleriand đến Wilderland và Trung Địa</b></i> là cuốn sách [2024](../_/2024.md) trình bày chi tiết về bốn bản đồ nổi bật xuất hiện trong [huyền thoại](../L/Legendarium.md) của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md): bản đồ [Trung Địa](../M/Middle-earth.md), [The Hobbit](The_Hobbit.md), [Beleriand](../B/Beleriand.md) và [Númenor](../N/Númenor.md).
 
 Cuốn sách có bốn bản đồ gấp có thể tháo rời được [John Howe](../J/John_Howe.md) vẽ lại, trong khi phần văn bản dài 160 trang của [Brian Sibley](../B/Brian_Sibley.md) kể lại câu chuyện đằng sau mỗi bản đồ và cung cấp bảng chú giải thuật ngữ về mọi tên, địa điểm và sự kiện.
 
@@ -51,14 +51,14 @@ Tất cả các văn bản và bản đồ trước đây đã được xuất b
 - Lời nói đầu
 - Giới thiệu
 
-- Con đường không ngừng phát triển: Về bản đồ Trung Địa
-    - Các địa điểm trên bản đồ Trung Địa
-- Ở đó và quay lại: Về bản đồ vùng đất hoang dã
-    - Các địa điểm trên bản đồ vùng đất hoang dã
-- Tây dãy núi, phía đông biển: Về bản đồ Beleriand
+- The Road Goes Ever On và Bật: Giới thiệu về Bản đồ Trung Địa
+    - Các địa điểm trên Bản đồ Trung Địa
+- Ở đó và quay lại: Về bản đồ của Wilderland
+    - Các địa điểm trên bản đồ của Wilderland
+- Phương Tây của Dãy Núi, phương Đông của Biển: Về bản đồ của Beleriand
     - Các địa điểm trên bản đồ Beleriand
-- Vùng Đất Sao: Về Bản Đồ Númenor
-    - Các địa điểm trên bản đồ Númenor
+- Vùng Đất Sao: Về bản đồ Númenor
+    - Các địa điểm trên bản đồ của Númenor
 
 ## Từ nhà xuất bản {#From_the_publisher}
 

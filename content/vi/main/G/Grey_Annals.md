@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Grey Annals"
 ---
 
-Chuyển hướng đến [Biên niên sử xám](../T/The_Grey_Annals.md).
+Chuyển hướng đến [The Grey Annals](../T/The_Grey_Annals.md).

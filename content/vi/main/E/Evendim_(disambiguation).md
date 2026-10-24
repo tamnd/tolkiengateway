@@ -16,9 +16,9 @@ images:
 
 Thuật ngữ <i><b>Evendim </b></i> có thể đề cập đến:
 
-- **[Evendim](Evendim.md)**, tên [Hobbitish](../H/Hobbitish.md) để chỉ buổi tối chạng vạng.
-- [Evendim](../L/Lake_Evendim.md), tên [Westron](../W/Westron.md) của hồ [Nenuial](../N/Nenuial.md) ("Water of Twilight") ở phía bắc [Eriador](Eriador.md).
-- [Đồi Evendim](../H/Hills_of_Evendim.md), một loạt ngọn đồi ở phía bắc Eriador, xung quanh hồ đó.
+- **[Evendim](Evendim.md)**, tên [Hobbitish](../H/Hobbitish.md) chỉ buổi tối chạng vạng.
+- [Evendim](../L/Lake_Evendim.md), [Westron](../W/Westron.md) tên của hồ [Nenuial](../N/Nenuial.md) ("Nước Chạng vạng") ở phía bắc [Eriador](Eriador.md).
+- [Đồi Evendim](../H/Hills_of_Evendim.md), dãy đồi ở phía bắc Eriador, xung quanh hồ đó.
 
 <hr style="margin-top:15px;"/>
 

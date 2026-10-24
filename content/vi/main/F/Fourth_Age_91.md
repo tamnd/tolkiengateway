@@ -16,7 +16,7 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="../T/Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><a href="First_Age.md" title="First Age">I</a><a href="../S/Second_Age.md" title="Second Age">II</a><a href="../T/Third_Age.md" title="Third Age">III</a><b>IV</b><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="Fourth_Age_67.md" title="Fourth Age 67">67</a><a href="Fourth_Age_80.md" title="Fourth Age 80">80</a><a href="Fourth_Age_82.md" title="Fourth Age 82">82</a><a class="mw-selflink selflink">91</a><a href="Fourth_Age_95.md" title="Fourth Age 95">95</a><a href="Fourth_Age_120.md" title="Fourth Age 120">120</a><a href="Fourth_Age_121.md" title="Fourth Age 121">121</a></div></div></div></div></div></div>
 
-**Thời đại thứ tư 91** (viết tắt là **Fo.A. 91** hoặc **F.O.**) là [năm Mặt trời](../Y/Years_of_the_Sun.md) thứ 91 của [Thời đại thứ tư](Fourth_Age.md) của [Trung Địa](../M/Middle-earth.md). Trừ khi có quy định khác, [Tolkien Gateway](../T/Tolkien_Gateway.md) tuân theo cách sử dụng [Shire](../T/The_Shire.md) trong [Phụ lục B](../A/Appendix_B.md) để tính những năm Kỷ nguyên thứ tư: Kỷ nguyên 91 thứ tư còn được gọi là **S.R. 1512** trong [Tính toán quận](../S/Shire-reckoning.md).
+**Kỷ Đệ Tứ 91** (viết tắt là **Kỷ Đệ Tứ 91** hoặc **F.O.**) là [năm thứ 91 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Tứ](Fourth_Age.md) của [Trung Địa](../M/Middle-earth.md). Trừ khi có quy định khác, [Tolkien Gateway](../T/Tolkien_Gateway.md) tuân theo cách sử dụng [Shire](../T/The_Shire.md) trong [Phụ lục B](../A/Appendix_B.md) để tính Kỷ Đệ Tứ năm: Kỷ Đệ Tứ 91 còn được gọi là **S.R. 1512** trong [lịch Shire](../S/Shire-reckoning.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
@@ -24,7 +24,7 @@ Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 ## Lưu ý {#Note}
 
-Cây phả hệ của [Nhà Durin](../H/House_of_Durin.md) trong [Phụ lục A](../A/Appendix_A.md) cũng cho biết năm nay là "[3112](../T/Third_Age_3112.md)" của [Tuổi thứ ba](../T/Third_Age.md). <span></span>
+Cây phả hệ của [Gia tộc Durin](../H/House_of_Durin.md) trong [Appendix A](../A/Appendix_A.md) cũng ghi năm nay là "[3112](../T/Third_Age_3112.md)" của [Kỷ Đệ Tam](../T/Third_Age.md). <span></span>
 
 ## Tài liệu tham khảo {#References}
 

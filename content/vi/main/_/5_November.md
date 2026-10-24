@@ -63,8 +63,8 @@ Sự kiện xảy ra vào ngày 5 tháng 11
 ## Trên Trái đất {#On_Earth}
 
 - **[1918](1918.md)** - Diễn viên [Alan Tilvern](../A/Alan_Tilvern.md) ra đời.
-- **[1956](1956.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một bức thư cho ông Britten](<../L/Letter_to_Mr_Britten_(5_November_1956).md>).
-- **[2003](2003.md)** - "The Return of the King", tập thứ bảy trong *[The Lord of the Rings Trading Card Game](../T/The_Lord_of_the_Rings_Trading_Card_Game.md)*, được phát hành.
+- **[1956](1956.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư cho ông Britten](<../L/Letter_to_Mr_Britten_(5_November_1956).md>).
+- **[2003](2003.md)** - "The Return of the King", bộ thứ bảy trong *[The Lord of the Rings Trading Card Game](../T/The_Lord_of_the_Rings_Trading_Card_Game.md)*, được phát hành.
 - **[2003](2003.md)** - *[The Lord of the Rings: Weapons and Warfare](../T/The_Lord_of_the_Rings%253A_Weapons_and_Warfare.md)* được xuất bản.
 - **[2013](2013.md)** - *[I See Fire](../I/I_See_Fire.md)*, bài hát credit của *[The Hobbit: The Desolation of Smaug](../T/The_Hobbit%253A_The_Desolation_of_Smaug.md)*, được phát hành.
 - **[2015](2015.md)** - *[The Hobbit: The Battle of the Five Armies: Chronicles: The Art of War](../T/The_Hobbit%253A_The_Battle_of_the_Five_Armies%253A_Chronicles%253A_The_Art_of_War.md)* được xuất bản.
@@ -73,6 +73,6 @@ Sự kiện xảy ra vào ngày 5 tháng 11
 ## Trong Arda {#In_Arda}
 
 - [F.A.](../F/First_Age.md) [495](../F/First_Age_495.md):
-    - [Tuor](../T/Tuor.md), được hướng dẫn bởi [Voronwë](../V/Voronwë.md), đi đến [Gondolin](../G/Gondolin.md) để chuyển thông điệp của [Ulmo](../U/Ulmo.md) tới [Turgon](../T/Turgon.md).
+    - [Tuor](../T/Tuor.md), được hướng dẫn bởi [Voronwë](../V/Voronwë.md), di chuyển đến [Gondolin](../G/Gondolin.md) để chuyển thông điệp của [Ulmo](../U/Ulmo.md) tới [Turgon](../T/Turgon.md).
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi tại [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).
+    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi ở [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).

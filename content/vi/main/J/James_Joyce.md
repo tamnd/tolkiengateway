@@ -26,7 +26,7 @@ Trong các tác phẩm của [J.R.R. Tolkien](J.R.R._Tolkien.md), có ít nhất
 2. Một ghi chú ở mặt sau trang bản thảo của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, được lưu giữ tại bộ sưu tập của [Đại học Marquette](../M/Marquette_University.md).<sup id="cite_ref-JDR_1-1" class="reference"><a href="#cite_note-JDR-1">[1]</a></sup>
 3. Dòng "Anna Livia Plurabelle" (từ <i><a class="extiw" href="http://en.wikipedia.org/wiki/Finnegans_Wake" title="wikipedia:Finnegans Wake">Finnegans Wake</a></i>của Joyce) ở đầu bản thảo ngôn ngữ.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Các tác phẩm so sánh văn học của Joyce và Tolkien bao gồm: "Yeats, Joyce và Tolkien, the Artist as Magician" trong [*Mythlore* 36](../M/Mythlore_36.md) (1983), *[Interrupted Music: The Making of Tolkien's Mythology](../I/Interrupted_Music%253A_The_Making_of_Tolkien's_Mythology.md)* (2005), và *[The Loss and the Silence: Aspects of Modernism in the Works of C.S. Lewis, J.R.R. Tolkien &amp; Charles Williams](../T/The_Loss_and_the_Silence.md)* (2011).
+Các tác phẩm so sánh văn học của Joyce và Tolkien bao gồm: "Yeats, Joyce và Tolkien, Nghệ sĩ như nhà ảo thuật" trong [*Mythlore* 36](../M/Mythlore_36.md) (1983), *[Interrupted Music: The Making of Tolkien's Mythology](../I/Interrupted_Music%253A_The_Making_of_Tolkien's_Mythology.md)* (2005), và *[The Loss and the Silence: Aspects of Modernism in the Works of C.S. Lewis, J.R.R. Tolkien &amp; Charles Williams](../T/The_Loss_and_the_Silence.md)* (2011).
 
 ## Liên kết ngoài {#External_links}
 

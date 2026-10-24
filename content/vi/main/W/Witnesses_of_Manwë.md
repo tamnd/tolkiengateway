@@ -23,7 +23,7 @@ langlinks:
     url: "https://kontu.wiki/Manw%C3%ABn_todistajat"
 ---
 
-**Các nhân chứng của [Manwë](../M/Manwë.md)** được [Númenóreans](../N/Númenóreans.md) cho biết là ba [Đại bàng](../E/Eagles.md) bay qua [Meneltarma](../M/Meneltarma.md) trong mỗi [Ba lời cầu nguyện](../T/Three_Prayers.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Các nhân chứng của [Manwë](../M/Manwë.md)** được [người Númenor](../N/Númenóreans.md) cho biết là ba [Đại Bàng](../E/Eagles.md) đã bay qua [Meneltarma](../M/Meneltarma.md) trong mỗi [Ba lời cầu nguyện](../T/Three_Prayers.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

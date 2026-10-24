@@ -34,7 +34,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien báo cáo với con trai mình rằng cây dương khi đó đã trụi lá (ngoại trừ một chùm trên cùng), tuy nhiên nó vẫn xanh tươi và lá vào cuối tháng 10. Thời điểm này là lúc [bạch dương](../B/Birches.md) trông đẹp nhất, với làn da trắng như tuyết và những chiếc lá còn lại óng ánh màu vàng hoang. Ông phải ngủ ở Khu vực H.Q.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[notes 1]</a></sup> vào thứ Sáu tuần đó nhưng rất mong được đến thăm [C.S. Lewis](../C/C.S._Lewis.md) và <a class="extiw" href="http://en.wikipedia.org/wiki/C._E._M._Joad" title="wikipedia:C. E. M. Joad">C.E.M. Joad</a> vào đêm hôm sau.
+Tolkien báo cáo với con trai rằng cây dương khi đó đã trụi lá (trừ một chùm trên cùng), tuy nhiên nó vẫn xanh tươi và lá vào cuối tháng 10. Thời điểm này là lúc [bạch dương](../B/Birches.md) trông đẹp nhất, với làn da trắng như tuyết và những chiếc lá còn lại óng ánh màu vàng hoang. Ông phải ngủ ở Khu vực H.Q.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[notes 1]</a></sup> vào thứ Sáu tuần đó nhưng rất mong được đến thăm [C.S. Lewis](../C/C.S._Lewis.md) và <a class="extiw" href="http://en.wikipedia.org/wiki/C._E._M._Joad" title="wikipedia:C. E. M. Joad">C.E.M. Joad</a> vào đêm hôm sau.
 
 ## Ghi chú {#Notes}
 

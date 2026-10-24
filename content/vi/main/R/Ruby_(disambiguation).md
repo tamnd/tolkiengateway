@@ -17,8 +17,8 @@ images:
 <i><b>Ruby</b></i> có thể tham khảo:
 
 - **[Ruby](Ruby.md)**, một loại đá quý màu đỏ; một cái được đặt ở [Narya](../N/Narya.md).
-- **[Ruby Bolger](Ruby_Bolger.md)**, một [Hobbit](../H/Hobbits.md) của [Shire](../T/The_Shire.md).
-- **[Ruby Gardner](Ruby_Gardner.md)** một người Hobbit xứ Shire.
+- **[Ruby Bolger](Ruby_Bolger.md)**, một [Hobbit](../H/Hobbits.md) của [ Shire](../T/The_Shire.md).
+- **[Ruby Gardner](Ruby_Gardner.md)** một Hobbit của Shire.
 - **[Sam Ruby](../S/Sam_Ruby.md)**, nhà thiết kế trò chơi phiêu lưu văn bản.
 
 <hr style="margin-top:15px;"/>

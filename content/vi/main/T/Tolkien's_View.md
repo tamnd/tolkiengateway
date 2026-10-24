@@ -44,7 +44,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tolkiens_View_Windows_into_his_World.png.md"><img src="https://tolkiengateway.net/w/images/4/48/Tolkiens_View_Windows_into_his_World.png" decoding="async" loading="lazy" width="280" height="420" class="mw-file-element" data-file-width="280" data-file-height="420"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Tolkien&#39;s View: Windows into his World</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a href="../J/John_Ryan.md" title="John Ryan">J.S. Ryan</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../W/Walking_Tree_Publishers.md" title="Walking Tree Publishers">Walking Tree Publishers</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/15_August.md" title="15 August">15 August</a> <a href="../_/2009.md" title="2009">2009</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">286</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/978-3-905703-13-9" title="Special:BookSources/978-3-905703-13-9">978-3-905703-13-9</a></td></tr><tr><th scope="row" class="tg-infobox-label">Series</th><td class="tg-infobox-data"><a href="../C/Cormarë_Series.md" title="Cormarë Series">Cormarë Series</a></td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Tolkien&#39;s_The_Lord_of_the_Rings_–_Sources_of_Inspiration.md" title="Tolkien&#39;s The Lord of the Rings – Sources of Inspiration">Tolkien&#39;s The Lord of the Rings – Sources of Inspiration</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="../M/Music_in_Middle-earth.md" title="Music in Middle-earth">Music in Middle-earth</a></td></tr></tbody></table>
 
-<i><b>Quan điểm của Tolkien: Windows vào thế giới của ông</b></i> là tập hợp các bài tiểu luận về [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và các tác phẩm của ông. Nó được xuất bản ở vị trí thứ 19 trong [Sê-ri Cormarë](../C/Cormarë_Series.md).
+Quan điểm của <i><b>Tolkien: Windows vào thế giới của ông</b></i> là tập hợp các bài tiểu luận về [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và các tác phẩm của ông. Nó được xuất bản ở vị trí thứ 19 trong [Sê-ri Cormarë](../C/Cormarë_Series.md).
 
 Theo [Jason Fisher](../J/Jason_Fisher.md), cuốn sách này là tập đầu tiên trong số hai tập dự kiến ​​tổng hợp các bài tiểu luận của Ryan.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
@@ -62,30 +62,30 @@ Theo [Jason Fisher](../J/Jason_Fisher.md), cuốn sách này là tập đầu ti
 - Danh sách các từ viết tắt và tài liệu tham khảo
 
 - Phần A. Early Tiểu sử và thị hiếu mới nổi
-    - Những người theo chủ nghĩa trầm lặng ở Birmingham: J.R.R. Tolkien và J.H. Shorthouse (1834–1903)
+    - Những người theo chủ nghĩa trầm lặng Birmingham: J.R.R. Tolkien và J.H. Shorthouse (1834–1903)
     - Nghiên cứu đại học Oxford về tiếng Anh sơ khai và các ngôn ngữ liên quan của J.R.R. Tolkien (1913–1915)
     - Người có ảnh hưởng quan trọng: Vợ giáo sư của ông, bà Elizabeth Mary (Lea) Wright
-    - Quỷ lùn và các chủ đề khác – Ảnh hưởng văn học dân gian đáng kể của William Craigie đối với phong cách The Hobbit của J.R.R. Tolkien
-    - Homo Ludens — Sự giải trí, vui chơi và tìm kiếm trong Tư tưởng lãng mạn đầu tiên của Tolkien
+    - Troll và các chủ đề khác – Ảnh hưởng văn hóa dân gian đáng kể của William Craigie đối với phong cách J.R.R. Tolkien The Hobbit
+    - Homo Ludens — Sự giải trí, vui chơi và tìm kiếm trong Tư tưởng lãng mạn sớm nhất của Tolkien
     - Edith, St. Edith of Wilton và các vị thánh người Anh phương Tây khác
 
 - Phần B. The Giáo sư trẻ và lần xuất bản đầu tiên của ông
-    - Tolkien và George Gordon: hoặc, Một người đồng nghiệp thân thiết và quan niệm của ông về 'Người tạo ra thần thoại' và về Nhà sử học Jeux d'Esprit
+    - Tolkien và George Gordon: hoặc, Người đồng nghiệp thân thiết và quan niệm của ông về ‘Người tạo ra thần thoại’ và về Nhà sử học Jeux d’Esprit
     - J.R.R. Tolkien: Từ điển học và các sở thích ngôn ngữ học ban đầu khác
-    - Công việc và sở thích của Giáo sư tiếng Bắc Âu cổ tại Đại học Oxford từ năm 1925 đến năm 1945
-    - Bài thơ ‘Thần thoại’ như lời tuyên bố ban đầu về quan điểm nghệ thuật và tôn giáo của Tolkien
-    - Khái niệm ngữ văn như thần thoại của Tolkien
-    - Bằng cách kết hợp 'đáng kể' “Chúng ta bước vào thế giới sử thi một cách vô cảm”
-    - Barrow-wights, Hog-boys và sự gợi nhớ đến Trận chiến của người Goth và người Hung và của Thánh Guthlac
+    - Công việc và sở thích của Giáo sư tiếng Bắc Âu cổ tại Đại học Oxford từ 1925 đến 1945
+    - Bài thơ 'Thần thoại' như lời tuyên bố ban đầu về quan điểm nghệ thuật và tôn giáo của Tolkien
+Khái niệm Ngữ văn như Thần thoại của     - Tolkien
+    - Bằng cách kết hợp 'đáng kể' “Chúng tôi bước vào thế giới sử thi một cách vô cảm”
+    - Barrow-wight, Hog-boys và sự gợi nhớ đến Trận chiến của người Goth và người Hung và của Thánh Guthlac
     - Siêu lịch sử động và Mô hình của Christopher Dawson
     - Truyện dân gian, truyện cổ tích và việc sáng tạo truyện
     - Cuộc săn lùng hoang dã, Ngài Orfeo và J.R.R. Tolkien
-    - Nhận thức giữa thế kỷ về các dân tộc Celtic cổ đại ở ‘nước Anh’
+    - Nhận thức giữa thế kỷ về Celtic các dân tộc cổ đại ở ‘Anh’
     - Thần thoại Đức được ứng dụng – Sự mở rộng ký ức văn học dân gian
-    - Những con đường nguy hiểm về phía Đông, từ Weathertop và xuyên qua Đèo Borgo
+    - Những con đường nguy hiểm đến phương Đông, từ Weathertop và qua Đèo Borgo
     - Trước Puck – Púkel-men và puca
 
-- Phụ lục. Othin ở Anh – Bằng chứng từ bài thơ tôn sùng người Woden ở \*Anglo-Saxon England
+- Phụ lục. Othin ở Anh – Bằng chứng từ bài thơ tôn sùng người Woden ở \*Anglo-Saxon Anh
 - Thư mục
 - Chỉ mục
 

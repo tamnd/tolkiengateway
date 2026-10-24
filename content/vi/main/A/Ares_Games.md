@@ -26,12 +26,12 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/ARES_Games_Logo.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/40/ARES_Games_Logo.jpg/320px-ARES_Games_Logo.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/40/ARES_Games_Logo.jpg/480px-ARES_Games_Logo.jpg 1.5x, https://tolkiengateway.net/w/images/4/40/ARES_Games_Logo.jpg 2x" data-file-width="600" data-file-height="600"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Ares Games</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Company Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Founded</th><td class="tg-infobox-data">2011</td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">Italy</td></tr><tr><th scope="row" class="tg-infobox-label">Products</th><td class="tg-infobox-data">Tabletop Games</td></tr><tr><th scope="row" class="tg-infobox-label">Website</th><td class="tg-infobox-data"><a class="external free" href="https://www.aresgames.eu/" rel="noreferrer noopener" target="_blank">https://www.aresgames.eu/</a></td></tr></tbody></table>
 
-**ARES Games** là một công ty của Ý được thành lập vào năm 2011. Họ tập trung vào nhiều loại sản phẩm trò chơi cờ và bài, bao gồm dòng trò chơi cờ và trò chơi bài "War of the Ring" được cấp phép của họ, chủ yếu tập trung vào các trò chơi cho phép người chơi tái hiện các sự kiện chính trị và quân sự từ [The Hobbit](../T/The_Hobbit.md) và [The Lord of the Rings](../T/The_Lord_of_the_Rings.md).
+**ARES Games** là một công ty của Ý được thành lập vào năm 2011. Họ tập trung vào nhiều loại sản phẩm trò chơi bài và bàn cờ, bao gồm cả dòng trò chơi cờ bàn và trò chơi bài được cấp phép "Cuộc chiến Nhẫn", chủ yếu tập trung vào các trò chơi cho phép người chơi tái hiện các sự kiện chính trị và quân sự từ [The Hobbit](../T/The_Hobbit.md) và [The Lord of the Rings](../T/The_Lord_of_the_Rings.md).
 
 ## Sản phẩm liên quan đến Tolkien và Trung Địa {#Products_related_to_Tolkien_and_Middle-earth}
 
 - [War of the Ring: Second Edition (2011 board game)](<../W/War_of_the_Ring%253A_Second_Edition_(2011_board_game).md>)
-- [Trận chiến của năm cánh quân (trò chơi board game năm 2014)](<../T/The_Battle_of_Five_Armies_(2014_board_game).md>)
+- [Trò chơi Trận chiến Năm Đạo quân (trò chơi cờ bàn năm 2014)](<../T/The_Battle_of_Five_Armies_(2014_board_game).md>)
 - [Truy tìm chiếc nhẫn (trò chơi board 2017)](<../H/Hunt_for_the_Ring_(2017_board_game).md>)
 - [War of the Ring: The Card Game](../W/War_of_the_Ring%253A_The_Card_Game.md)
 
@@ -40,4 +40,4 @@ infobox:
 ## Liên kết ngoài {#External_links}
 
 - <a class="external text" href="https://www.aresgames.eu/" rel="noreferrer noopener" target="_blank">Trang web chính thức</a>
-- <a class="external text" href="https://www.aresgames.eu/games/war-of-the-ring-line" rel="noreferrer noopener" target="_blank">Cuộc chiến của dòng sản phẩm Ring</a>
+- <a class="external text" href="https://www.aresgames.eu/games/war-of-the-ring-line" rel="noreferrer noopener" target="_blank">Cuộc chiến Nhẫn dòng sản phẩm</a>

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Witch-king"
 ---
 
-Chuyển hướng đến [Vua phù thủy](Witch-king.md).
+Chuyển hướng đến [Vua Phù thủy](Witch-king.md).

@@ -63,7 +63,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Monsters_and_the_Critics_1983.png.md"><img src="https://tolkiengateway.net/w/images/thumb/e/e0/The_Monsters_and_the_Critics_1983.png/303px-The_Monsters_and_the_Critics_1983.png" decoding="async" loading="lazy" width="303" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/e/e0/The_Monsters_and_the_Critics_1983.png 1.5x" data-file-width="316" data-file-height="500"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Monsters and the Critics, and Other Essays</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a class="mw-redirect" href="../G/George_Allen_and_Unwin.md" title="George Allen and Unwin">George Allen and Unwin</a> (UK)<br/><a class="mw-redirect" href="../H/Houghton_Mifflin.md" title="Houghton Mifflin">Houghton Mifflin</a> (US)</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/3_March.md" title="3 March">3 March</a> <a href="../_/1983.md" title="1983">1983</a> (UK)<br/><a href="../_/1_April.md" title="1 April">1 April</a> <a href="../_/1984.md" title="1984">1984</a> (US)</td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Hardcover; paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">240</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0048090190" title="Special:BookSources/0048090190">0048090190</a></td></tr></tbody></table>
 
-<i><b>Quái vật và các nhà phê bình, và các tiểu luận khác</b></i> là tập hợp các bài tiểu luận và bài giảng ngôn ngữ học thuật của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Cuốn sách được biên tập bởi [Christopher Tolkien](../C/Christopher_Tolkien.md) và được xuất bản sau khi di cảo vào [1983](../_/1983.md).
+<i><b>Quái vật và các nhà phê bình, và các tiểu luận khác</b></i> là tập hợp các bài tiểu luận và bài giảng ngôn ngữ học thuật của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Cuốn sách được [Christopher Tolkien](../C/Christopher_Tolkien.md) biên tập và xuất bản sau khi di cảo vào [1983](../_/1983.md).
 
 Tất cả chúng ban đầu được chuyển tải dưới dạng bài giảng cho các học giả, ngoại trừ *On Translating Beowulf*, mà Christopher Tolkien lưu ý trong lời nói đầu của ông không hướng tới khán giả học thuật.
 
@@ -73,12 +73,12 @@ Cuốn sách có bảy bài tiểu luận, một số bài đã được xuất 
 
 - Lời nói đầu
 - "[Beowulf: The Monsters and the Critics](../B/Beowulf%253A_The_Monsters_and_the_Critics.md)" — bài giảng được trình bày trong [1936](../_/1936.md), xem xét sự hiểu biết của các nhà phê bình về *[Beowulf](<../B/Beowulf_(poem).md>)*và đề xuất một cách tiếp cận mới cho bài thơ
-- "[Về dịch Beowulf](../P/Prefatory_Remarks_on_Prose_Translation_of_'Beowulf'.md)" — xuất bản năm [1940](../_/1940.md), xem xét những khó khăn trong việc dịch bài thơ từ tiếng Anh cổ
+- "[Về dịch thuật Beowulf](../P/Prefatory_Remarks_on_Prose_Translation_of_'Beowulf'.md)" — xuất bản năm [1940](../_/1940.md), xem xét những khó khăn trong việc dịch bài thơ từ tiếng Anh cổ
 - "[Về truyện cổ tích](../O/On_Fairy-stories~23735.md)" — bài giảng được giảng trong [1939](../_/1939.md), biện hộ cho thể loại giả tưởng
 - "[A Secret Vice](../A/A_Secret_Vice.md)" — bài giảng trong [1931](../_/1931.md), nói về việc tạo ra các ngôn ngữ tưởng tượng, cung cấp nền tảng cho [Quenya](../Q/Quenya.md) và [Sindarin](../S/Sindarin.md) của Tolkien
 - "<a class="mw-redirect mw-disambig" href="../S/Sir_Gawain_and_the_Green_Knight.md" title="Sir Gawain and the Green Knight">Sir Gawain và Hiệp sĩ xanh</a>" — [bài giảng](../W/W.P._Ker_Lecture.md) được trình bày trong [1953](../_/1953.md), một nghiên cứu về bài thơ cùng tên thời Trung cổ
 - "[Tiếng Anh và tiếng Wales](../E/English_and_Welsh.md)" — bài giảng trong [1955](../_/1955.md), khảo sát về mối quan hệ lịch sử giữa hai ngôn ngữ, bao gồm phân tích từ *Welsh*
-- "[Diễn văn tại Đại học Oxford](../V/Valedictory_Address_to_the_University_of_Oxford.md)" — bài giảng vào [1959](../_/1959.md), được đưa ra sau khi Tolkien nghỉ hưu ở Oxford
+- "[Bài phát biểu tại buổi lễ Đại học Oxford](../V/Valedictory_Address_to_the_University_of_Oxford.md)" — bài giảng được giảng vào [1959](../_/1959.md), được đưa ra sau khi Tolkien nghỉ hưu sau Oxford
 
 ## Từ nhà xuất bản {#From_the_publisher}
 
@@ -91,7 +91,7 @@ The pieces in this collection cover a period of nearly thirty years, beginning s
 
 ## Mối quan hệ với di tích {#Relation_to_the_legendarium}
 
-Vì những bài tiểu luận này mang tính chất học thuật nên hầu như không có bất kỳ tài liệu tham khảo trực tiếp nào đến [huyền thoại](../L/Legendarium.md) của Tolkien. Tuy nhiên, bài tiểu luận "A Secret Vice" có phần cuối cùng trong *Notes* của Christopher Tolkien, trong đó ông chỉ ra các tham chiếu đến *[The Book of Lost Tales](The_Book_of_Lost_Tales_Part_Two.md)* và cũng in lại phiên bản sau của một trong những bài thơ của Elvish, là "một trong những phần chính của [Quenya](../Q/Quenya.md)".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Vì những bài tiểu luận này mang tính chất học thuật nên hầu như không có bất kỳ tài liệu tham khảo trực tiếp nào đến [huyền thoại](../L/Legendarium.md) của Tolkien. Tuy nhiên, bài tiểu luận "A Secret Vice" có phần cuối cùng trong *Notes* của Christopher Tolkien, trong đó ông chỉ ra các tham chiếu đến *[The Book of Lost Tales](The_Book_of_Lost_Tales_Part_Two.md)* và cũng in lại phiên bản sau của một trong những bài thơ Elvish, là "một trong những phần chính của [Quenya](../Q/Quenya.md)".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Lịch sử xuất bản và thư viện {#Publication_history_and_gallery}
 
@@ -135,7 +135,7 @@ Vì những bài tiểu luận này mang tính chất học thuật nên hầu n
 
 ## Xem thêm {#See_also}
 
-- *[Om Beowulfsagan](../O/Om_Beowulfsagan.md)* ("Về câu chuyện của Beowulf", ấn bản Thụy Điển năm 1975)
+- *[Om Beowulfsagan](../O/Om_Beowulfsagan.md)* ("Về câu chuyện Beowulf", ấn bản ở Thụy Điển năm 1975)
 - *[Beowulf: A Translation and Commentary](../B/Beowulf%253A_A_Translation_and_Commentary.md)*
 - *[Beowulf and the Critics](../B/Beowulf_and_the_Critics.md)*
 

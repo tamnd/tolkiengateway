@@ -71,7 +71,7 @@ infobox:
         - Bởi: Olga Lukmanova
     - "Đánh giá về Cơ đốc giáo đơn thuần của C.S. Lewis của George M. Marsden"
         - Bởi: Grayson Carter
-    - "Đánh giá về "Chủ nghĩa bí truyền và câu chuyện: Tiểu thuyết huyền bí của Charles Williams của Aren Roukema"
+    - "Đánh giá về "Chủ nghĩa bí truyền và tự sự: Tiểu thuyết huyền bí Charles Williams của Aren Roukema"
         - Bởi: David Llewellyn Dodds
     - "Đánh giá về Bàn tay duỗi thẳng: Sự phát triển cá nhân trong những tưởng tượng chính dành cho trẻ em của George MacDonald của Lesley Willis Smith"
         - Bởi: Bethany Bear Hebbard
@@ -79,14 +79,14 @@ infobox:
         - Bởi: Michael Tofte
     - "Đánh giá về thần thoại có hệ thống: Hình ảnh người vô hình" của Jennifer Agee"
         - Bởi: Aaron M. Hill
-    - "Đánh giá về các vị thánh ngoại đạo ở Trung Địa của Claudio A. Testi"
+    - "Đánh giá về các Thánh Pagan trong Trung Địa của Claudio A. Testi"
         - Bởi: Laura Schmidt
 - Sách ghi chú
     - Thiên đường bất ngờ: Tuyển tập thơ của Ruth Pitter, một ấn bản phê bình
-        - Bởi: Don W, King, ed.
+        - Bởi: Don W, Vua, ed.
     - Sư tử ở vùng đất hoang: Danh tiếng đáng sợ trong tác phẩm của C.S. Lewis, Dorothy L. Sayers và T.S. Eliot
         - Bởi: Janice Brown
-    - Những bí ẩn siêu hình của G.K. Chesterton: Một nghiên cứu phê bình về những câu chuyện của Father Brown và những tiểu thuyết trinh thám khác
+    - Những bí ẩn siêu hình của G.K. Chesterton: Nghiên cứu phê bình về truyện Father Brown và các tiểu thuyết trinh thám khác
         - Bởi: Laird R. Blackwell<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <div class="template-prevnext"><div class="template-prevnext__prev template-prevnext__link"><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/8/81/WikimediaUI-ArrowPrevious-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__content"><div class="template-prevnext__title">SEVEN 35</div></div><div class="template-prevnext__linkoverlay"><a href="SEVEN_35.md" title="SEVEN 35">SEVEN 35</a></div></div><div class="template-prevnext__current"><div class="template-prevnext__content"><div class="template-prevnext__title">SEVEN 36</div></div></div><div class="template-prevnext__next template-prevnext__link"><div class="template-prevnext__content"><div class="template-prevnext__title">SEVEN 37</div></div><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/7b/WikimediaUI-ArrowNext-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__linkoverlay"><a href="SEVEN_37.md" title="SEVEN 37">SEVEN 37</a></div></div></div>

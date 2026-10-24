@@ -12,17 +12,17 @@ categories:
   - "Role playing games"
 ---
 
-**Wisconsin Ring Game** là một trò chơi nhập vai hành động trực tiếp nửa năm một lần được tổ chức hai lần một năm tại <a class="external text" href="https://en.wikipedia.org/wiki/Governor_Dodge_State_Park" rel="noreferrer noopener" target="_blank">Governor Dodge State Park</a> ở miền nam Wisconsin. Được chơi lần đầu tiên vào [11 tháng 6](../_/11_June.md) [1977](../_/1977.md), trò chơi được hồi sinh vào mùa thu năm 1987 và tái hiện các sự kiện của [War of the Ring](War_of_the_Ring.md). Trò chơi vẫn tiếp tục cho đến ngày hôm nay sau một thời gian ngắn tạm nghỉ do <a class="external text" href="https://en.wikipedia.org/wiki/COVID-19_pandemic" rel="noreferrer noopener" target="_blank">đại dịch toàn cầu</a>.
+**Wisconsin Ring Game** là một trò chơi nhập vai hành động trực tiếp nửa năm một lần được tổ chức hai lần một năm tại <a class="external text" href="https://en.wikipedia.org/wiki/Governor_Dodge_State_Park" rel="noreferrer noopener" target="_blank">Governor Dodge State Park</a> ở miền nam Wisconsin. Được chơi lần đầu vào [11 tháng 6](../_/11_June.md) [1977](../_/1977.md), trò chơi được hồi sinh vào mùa thu năm 1987 và tái hiện các sự kiện của [Cuộc chiến Nhẫn](War_of_the_Ring.md). Trò chơi vẫn tiếp tục cho đến ngày hôm nay sau một thời gian ngắn tạm nghỉ do <a class="external text" href="https://en.wikipedia.org/wiki/COVID-19_pandemic" rel="noreferrer noopener" target="_blank">đại dịch toàn cầu</a>.
 
 ## Chơi trò chơi {#Game_Play}
 
 Người chơi được chia thành ba đội đảm nhận vai trò của các nhân vật trong câu chuyện với mục tiêu giành chiến thắng như sau:
 
-- Lực lượng của Thiện do [Gandalf](../G/Gandalf.md) chỉ huy cần mang [Chiếc nhẫn](../T/The_One_Ring.md) đến [Mount Doom](../M/Mount_Doom.md) ở trung tâm công viên để tiêu diệt nó.
-- Các thế lực Ác ma do [Sauron](../S/Sauron.md) lãnh đạo cần phải chiếm được Chiếc nhẫn và trả lại cho Sauron.
-- Các lực lượng của Bàn tay trắng do [Saruman chỉ huy](../S/Saruman.md) cần phải chiếm được Chiếc nhẫn và đòi nó tại Mount Doom.
+- Lực lượng Tốt do [Gandalf](../G/Gandalf.md) chỉ huy cần đưa [Chiếc nhẫn](../T/The_One_Ring.md) đến [Núi Diệt Vong](../M/Mount_Doom.md) ở trung tâm công viên để tiêu diệt nó.
+- Các thế lực Ác ma do [Sauron](../S/Sauron.md) chỉ huy cần chiếm lấy Chiếc nhẫn và trả lại cho Sauron.
+- Lực lượng của Bàn tay trắng do [Saruman](../S/Saruman.md) chỉ huy cần chiếm được Chiếc nhẫn và đòi lấy nó với giá Núi Diệt Vong.
 
-Ngoài ra, các đội cũng có thể cố gắng chiếm các thành trì như [Lothlórien](../L/Lothlórien.md), [Gondor](../G/Gondor.md), [Isengard](../I/Isengard.md) và [Barad-dûr](../B/Barad-dûr.md) để lấy điểm mặc định lực lượng tà ác sẽ chiến thắng nếu tất cả các thành trì tốt đều bị chiếm trước khi Chiếc nhẫn bị phá hủy. Cái ác cũng chiến thắng nếu Saruman giành được chiếc Nhẫn cho mình tại Mount Doom. Một số thành trì và mục tiêu nhất định được kiểm soát theo thời gian như Gondor và Mount Doom để giúp kiểm soát nhịp độ của trò chơi.
+Ngoài ra, các đội cũng có thể cố gắng chiếm lấy các thành trì như [Lothlórien](../L/Lothlórien.md), [Gondor](../G/Gondor.md), [Isengard](../I/Isengard.md) và [Barad-dûr](../B/Barad-dûr.md) để lấy điểm với lực lượng tà ác sẽ chiến thắng theo mặc định nếu tất cả các thành trì tốt đều bị chiếm trước khi Chiếc nhẫn bị phá hủy. Cái ác cũng thắng nếu Saruman giành được Chiếc nhẫn cho mình với giá Núi Diệt Vong. Một số thành trì và mục tiêu nhất định được giới hạn thời gian như Gondor và Núi Diệt Vong để giúp kiểm soát nhịp độ của trò chơi.
 
 ## Xuất xứ {#Origin}
 

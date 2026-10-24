@@ -14,13 +14,13 @@ categories:
   - "Great Lands"
 ---
 
-**Bablon** là thành phố của [Con người](../M/Men.md) ở [Great Lands](../G/Great_Lands.md), theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*. Nó được xác định là thành phố <a class="extiw" href="http://en.wikipedia.org/wiki/Babylon" title="wikipedia:Babylon">Babylon</a>.<sup id="cite_ref-Bab_1-0" class="reference"><a href="#cite_note-Bab-1">[1]</a></sup>
+**Bablon** là một thành phố của [Con Người](../M/Men.md) ở [Great Lands](../G/Great_Lands.md), theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*. Nó được xác định là thành phố <a class="extiw" href="http://en.wikipedia.org/wiki/Babylon" title="wikipedia:Babylon">Babylon</a>.<sup id="cite_ref-Bab_1-0" class="reference"><a href="#cite_note-Bab-1">[1]</a></sup>
 
 Thành phố này đã được đề cập đến trong câu chuyện *[the Fall of Gondolin](<../T/The_Fall_of_Gondolin_(chapter).md>)* của [Littleheart](../L/Littleheart.md), nơi ông so sánh [sự sụp đổ](../F/Fall_of_Gondolin.md) của nó thậm chí còn tồi tệ hơn cả Bablon.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Tên *Bablon* có trong [Gnomish](../G/Gnomish.md), nhưng ý nghĩa của nó không rõ ràng. Tuy nhiên, có lẽ đó là sự bắt chước âm vị của *Babylon*.<sup id="cite_ref-Bab_1-1" class="reference"><a href="#cite_note-Bab-1">[1]</a></sup>
+Tên *Bablon* có trong [Gnomish](../G/Gnomish.md) nhưng ý nghĩa của nó không rõ ràng. Tuy nhiên, có lẽ đó là sự bắt chước âm vị của *Babylon*.<sup id="cite_ref-Bab_1-1" class="reference"><a href="#cite_note-Bab-1">[1]</a></sup>
 
 <span></span>
 

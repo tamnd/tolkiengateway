@@ -11,4 +11,4 @@ redirect_target: "Fëanor"
 redirect_fragment: "Etymology"
 ---
 
-Chuyển hướng tới [Fëanor](Fëanor.md#Etymology).
+Chuyển hướng đến [Fëanor](Fëanor.md#Etymology).

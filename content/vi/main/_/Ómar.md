@@ -44,15 +44,15 @@ infobox:
 
 ## Lịch sử {#History}
 
-Ông được coi là người trẻ nhất trong số các Valar, và là người cuối cùng trong số họ đến thế giới, hát những bài hát khi ông bước vào.<sup id="cite_ref-III_2-0" class="reference"><a href="#cite_note-III-2">[2]</a></sup> Ómar biết tất cả [ngôn ngữ](../L/Languages.md) và tất cả các bài hát.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Ở [Valmar](../V/Valmar.md) ông sẽ hát theo tiếng đàn hạc của anh trai mình, [Salmar](../S/Salmar.md), và giọng của ông là giọng hay nhất;<sup id="cite_ref-Valmar_4-0" class="reference"><a href="#cite_note-Valmar-4">[4]</a></sup> những lần khác, ông sẽ hát vang trong khu vườn của [Oromë](../O/Oromë.md), nơi [Nielíqui](../N/Nielíqui.md) con gái của Oromë nhảy múa quanh khu rừng ở đó.<sup id="cite_ref-Valmar_4-1" class="reference"><a href="#cite_note-Valmar-4">[4]</a></sup>
+Ông được coi là người trẻ nhất trong số Valar, và là người cuối cùng trong số họ chào đời, hát những bài hát khi ông bước vào.<sup id="cite_ref-III_2-0" class="reference"><a href="#cite_note-III-2">[2]</a></sup> Ómar biết tất cả [ngôn ngữ](../L/Languages.md) và tất cả các bài hát.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Trong [Valmar](../V/Valmar.md) ông sẽ hát theo tiếng đàn hạc của anh trai mình, [Salmar](../S/Salmar.md), và giọng của ông là giọng hay nhất;<sup id="cite_ref-Valmar_4-0" class="reference"><a href="#cite_note-Valmar-4">[4]</a></sup> những lúc khác, ông sẽ như vậy réo rắt trong những khu vườn của [Oromë](../O/Oromë.md), nơi con gái của [Nielíqui](../N/Nielíqui.md) Oromë nhảy múa quanh khu rừng của nó.<sup id="cite_ref-Valmar_4-1" class="reference"><a href="#cite_note-Valmar-4">[4]</a></sup>
 
-Từ Ómar và [Manwë](../M/Manwë.md) [Teleri](../V/Vanyar.md)<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[note 1]</a></sup> đã học được nhiều bài thơ và bài hát.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[5]</a></sup>
+Từ Ómar và [Manwë](../M/Manwë.md) [Teleri](../V/Vanyar.md)<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[note 1]</a></sup> đã học được nhiều thơ ca.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[5]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-<i><b>Ómar</b></i> và <i><b>Amillo</b></i> là tên [Qenya](../Q/Qenya.md). Cái trước có liên quan đến Qenya *ōma* "giọng nói",<sup id="cite_ref-Pei_7-0" class="reference"><a href="#cite_note-Pei-7">[6]</a></sup> trong khi cái sau được gọi là "một trong những Dân gian Hạnh phúc; Hilary", trong đó *Hilary* bắt nguồn từ tiếng Latin *hilaris* "vui vẻ".<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[7]</a></sup>
+<i><b>Ómar</b></i> và <i><b>Amillo</b></i> là những cái tên [Qenya](../Q/Qenya.md). Cái trước có liên quan đến Qenya *ōma* "giọng nói",<sup id="cite_ref-Pei_7-0" class="reference"><a href="#cite_note-Pei-7">[6]</a></sup> trong khi cái sau được gọi là "một trong những Dân gian Hạnh phúc; Hilary", trong đó *Hilary* bắt nguồn từ tiếng Latin *hilaris* "vui vẻ".<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[7]</a></sup>
 
-[Gnomish](../G/Gnomish.md) tương đương với tên của ông là <i><b>Ûmor</b></i> và <i><b>Gamlos</b></i> (có thể có nghĩa là "người hét lên vì vui sướng").<sup id="cite_ref-Pei_7-1" class="reference"><a href="#cite_note-Pei-7">[6]</a></sup>
+[Gnomish](../G/Gnomish.md) tên tương đương của ông là <i><b>Ûmor</b></i> và <i><b>Gamlos</b></i> (có thể có nghĩa là "người hét lên vì vui sướng").<sup id="cite_ref-Pei_7-1" class="reference"><a href="#cite_note-Pei-7">[6]</a></sup>
 
 ## Phả hệ {#Genealogy}
 
@@ -63,12 +63,12 @@ Từ Ómar và [Manwë](../M/Manwë.md) [Teleri](../V/Vanyar.md)<sup id="cite_re
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong một lần đầu bị từ chối nhập cảnh vào *[Qenyaqetsa](../Q/Qenyaqetsa.md)*, người ta nói rằng Amillo, cùng với anh trai [Noldorin](../S/Salmar.md) và Vala [Erinti](../E/Erinti.md) đã rời [Valinor](../V/Valinor.md) để sống ở [Tol Eressëa](../T/Tol_Eressëa.md), là ba Valar duy nhất đã làm như vậy.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[8]</a></sup>
+Trong một mục nhập sớm bị từ chối ở *[Qenyaqetsa](../Q/Qenyaqetsa.md)*, người ta nói rằng Amillo, cùng với anh trai [Noldorin](../S/Salmar.md) và Vala [Erinti](../E/Erinti.md) đã rời [Valinor](../V/Valinor.md) để sống ở [Tol Eressëa](../T/Tol_Eressëa.md), là ba người duy nhất trong số Valar đã làm như vậy.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[8]</a></sup>
 
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text">Trong <i><a href="../T/The_Book_of_Lost_Tales.md" title="The Book of Lost Tales">The Book of Lost Tales</a></i>, cái tên <i><a href="../T/Teleri.md" title="Teleri">Teleri</a></i> đề cập đến nhóm <a href="../E/Elves.md" title="Elves">Yêu tinh</a> mà sau này được gọi là <a href="../V/Vanyar.md" title="Vanyar">Vanyar</a> trong <i><a class="mw-redirect" href="../S/Silmarillion.md" title="Silmarillion">Silmarillion</a></i>đã xuất bản.</span>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text">Trong <i><a href="../T/The_Book_of_Lost_Tales.md" title="The Book of Lost Tales">The Book of Lost Tales</a></i>, tên <i><a href="../T/Teleri.md" title="Teleri">Teleri</a></i> đề cập đến nhóm <a href="../E/Elves.md" title="Elves">Tiên tộc</a> mà sau này được gọi là <a href="../V/Vanyar.md" title="Vanyar">Vanyar</a> trong <i><a class="mw-redirect" href="../S/Silmarillion.md" title="Silmarillion">Silmarillion</a></i>đã xuất bản.</span>
 </li>
 </ol></div></span>
 

@@ -36,7 +36,7 @@ sort_keys:
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong *[Etymologies](../T/The_Etymologies.md)*, [Noldorin](../N/Noldorin.md) *mîr* được cho là có nghĩa là "viên ngọc quý, vật quý giá, kho báu".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Trong *[Etymologies](../T/The_Etymologies.md)*, [Noldorin](../N/Noldorin.md) *mîr* được cho là có nghĩa là "viên ngọc, vật quý, kho báu".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Xem thêm {#See_also}
 

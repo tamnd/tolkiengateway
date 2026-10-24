@@ -20,13 +20,13 @@ images:
 
 <figure class="mw-default-size mw-halign-left" typeof="mw:File"><a class="mw-file-description" href="../../file/A/Anga.gif.md"><img src="https://tolkiengateway.net/w/images/a/af/Anga.gif" decoding="async" loading="lazy" width="53" height="65" class="mw-file-element" data-file-width="53" data-file-height="65"/></a><figcaption></figcaption></figure>
 
-*Anga* cũng là tên bằng tiếng Quenya của chữ cái thứ bảy trong bảng chữ cái [Tengwar](../T/Tengwar.md).<sup id="cite_ref-Names_1-1" class="reference"><a href="#cite_note-Names-1">[1]</a></sup> Đây là chữ cái thứ ba của lớp hai hay [Tyellë](../T/Tyellë.md), chứa "các điểm dừng giọng" và là chữ cái thứ hai trong chuỗi phụ âm thứ ba, trong Quenya và [Sindarin](../S/Sindarin.md) là chuỗi *k*, *[Calmatéma](../C/Calmatéma.md)*.<sup id="cite_ref-Letters_2-0" class="reference"><a href="#cite_note-Letters-2">[2]</a></sup> Trong cách viết chuẩn của Quenya *Anga* đại diện cho **NG**,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> trong khi trong [Sindarin](../S/Sindarin.md) chữ cái này đại diện cho **G**. Ở [Westron](../W/Westron.md), dãy thứ ba được sử dụng cho nhiều phụ âm khác nhau và chữ cái này đại diện cho **J**.<sup id="cite_ref-Letters_2-1" class="reference"><a href="#cite_note-Letters-2">[2]</a></sup> Tên Westron của chữ cái này là <i><b>Jé</b></i>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+*Anga* cũng là tên trong Quenya của chữ cái thứ bảy trong bảng chữ cái [Tengwar](../T/Tengwar.md).<sup id="cite_ref-Names_1-1" class="reference"><a href="#cite_note-Names-1">[1]</a></sup> Đây là chữ cái thứ ba của lớp hai hay [Tyellë](../T/Tyellë.md), chứa "các điểm dừng giọng" và là chữ cái thứ hai trong chuỗi phụ âm thứ ba, trong Quenya và [Sindarin](../S/Sindarin.md) là chuỗi *k*, *[Calmatéma](../C/Calmatéma.md)*.<sup id="cite_ref-Letters_2-0" class="reference"><a href="#cite_note-Letters-2">[2]</a></sup> Trong cách viết chuẩn của Quenya *Anga* đại diện cho **NG**,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> trong khi ở [Sindarin](../S/Sindarin.md) chữ cái này đại diện cho **G**. Trong [Westron](../W/Westron.md), dãy thứ ba được sử dụng cho nhiều phụ âm khác nhau và chữ cái này đại diện cho **J**.<sup id="cite_ref-Letters_2-1" class="reference"><a href="#cite_note-Letters-2">[2]</a></sup> Tên Westron của chữ cái này là <i><b>Jé</b></i>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
-Vào cuối tuần thứ hai của [tháng 9](../S/September.md), [T.A.](../T/Third_Age.md) [3001](../T/Third_Age_3001.md)<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> [Gandalf](../G/Gandalf.md) đi qua [Hobbiton](../H/Hobbiton.md) trên một chiếc xe đẩy. Dừng lại ở [Bag End](../B/Bag_End.md), ông ta dỡ ra những bó súng hỏa mai, tất cả chúng đều có khắc tengwa *Anga*. Đó là tên viết tắt của ông nhưng những đứa trẻ hobbit đi theo chiếc xe của ông nghĩ rằng chữ cái đó có nghĩa là "Grand!"<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Vào cuối tuần thứ hai ở [tháng Chín](../S/September.md), [T.A.](../T/Third_Age.md) [3001](../T/Third_Age_3001.md)<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> [Gandalf](../G/Gandalf.md) đi qua [Hobbiton](../H/Hobbiton.md) trên một chiếc xe đẩy. Dừng lại ở [Bag End](../B/Bag_End.md), ông ta dỡ ra những bó pháo sáng, tất cả chúng đều có khắc tengwa *Anga*. Đó là tên viết tắt của ông nhưng những đứa trẻ hobbit đi theo chiếc xe của ông nghĩ rằng chữ cái đó có nghĩa là "Grand!"<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Từ này bắt nguồn từ [Quendian nguyên thủy](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) [ANGA](ANGA~30450.md).<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+Từ này bắt nguồn từ [Primitive Quendian](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) [ANGA](ANGA~30450.md).<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
 ## Ví dụ {#Examples}
 
@@ -36,7 +36,7 @@ Từ này bắt nguồn từ [Quendian nguyên thủy](../P/Primitive_Quendian.m
 
 ## Xem thêm {#See_also}
 
-- <a class="external text" href="http://www.uib.no/People/hnohf/qlist.htm" rel="noreferrer noopener" target="_blank">Danh sách từ Quenya Corpus</a> được chỉnh sửa bởi [Helge Fauskanger](../H/Helge_Fauskanger.md)
+- <a class="external text" href="http://www.uib.no/People/hnohf/qlist.htm" rel="noreferrer noopener" target="_blank">Quenya Danh sách từ ngữ liệu</a> được chỉnh sửa bởi [Helge Fauskanger](../H/Helge_Fauskanger.md)
 
 <span></span>
 

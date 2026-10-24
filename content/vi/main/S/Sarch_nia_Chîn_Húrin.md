@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Brethil"
 ---
 
-Chuyển hướng tới [Brethil](../B/Brethil.md).
+Chuyển hướng đến [Brethil](../B/Brethil.md).

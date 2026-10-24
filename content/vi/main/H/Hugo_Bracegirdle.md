@@ -29,11 +29,11 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="Hobbits.md" title="Hobbits">Hobbit</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Hugo Bracegirdle</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="Hardbottle.md" title="Hardbottle">Hardbottle</a></td></tr><tr><th scope="row" class="tg-infobox-label">Birth</th><td class="tg-infobox-data"><a class="mw-redirect" href="../S/Shire_Reckoning.md" title="Shire Reckoning">S.R.</a> <a href="../T/Third_Age_2950.md" title="Third Age 2950">1350</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">Family</th><td class="tg-infobox-data"><a class="mw-redirect" href="../B/Bracegirdle_Family~66349.md" title="Bracegirdle Family">Bracegirdle</a></td></tr><tr><th scope="row" class="tg-infobox-label">Parentage</th><td class="tg-infobox-data"><a href="../B/Bruno_Bracegirdle.md" title="Bruno Bracegirdle">Bruno Bracegirdle</a></td></tr><tr><th scope="row" class="tg-infobox-label">Siblings</th><td class="tg-infobox-data"><a href="Hilda_Bracegirdle.md" title="Hilda Bracegirdle">Hilda</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr></tbody></table>
 
-**Hugo Bracegirdle** là một người Hobbit của [Shire](../T/The_Shire.md).
+**Hugo Bracegirdle** là Hobbit của [ Shire](../T/The_Shire.md).
 
 ## Lịch sử {#History}
 
-Hugo là con cả của [Bruno Bracegirdle](../B/Bruno_Bracegirdle.md), sinh năm [S.R.](../S/Shire_Reckoning.md) [1350](../T/Third_Age_2950.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Trong đời, ông nổi tiếng vì mượn sách từ [Bilbo Baggins](../B/Bilbo_Baggins.md), mặc dù ông hiếm khi trả lại chúng. Trong [S.R.](../S/Shire_Reckoning.md) [1401](../T/Third_Age_3001.md) ông là khách mời tại [Bữa tiệc chia tay của Bilbo](../B/Bilbo's_Farewell_Party.md), sau đó Bilbo để lại cho Hugo một tủ sách trống để ông có thể cất tất cả những cuốn sách đó vào đó.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Hugo là con cả của [Bruno Bracegirdle](../B/Bruno_Bracegirdle.md), sinh năm [S.R.](../S/Shire_Reckoning.md) [1350](../T/Third_Age_2950.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Khi còn sống, ông nổi tiếng với việc mượn sách của [Bilbo Baggins](../B/Bilbo_Baggins.md), mặc dù ông hiếm khi trả lại chúng. Ở [S.R.](../S/Shire_Reckoning.md) [1401](../T/Third_Age_3001.md) ông là khách của [Tiệc chia tay của Bilbo](../B/Bilbo's_Farewell_Party.md), sau đó Bilbo để lại cho Hugo một tủ sách trống để ông có thể cất tất cả những cuốn sách đó.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Cảm hứng {#Inspiration}
 
@@ -41,7 +41,7 @@ Hugo là con cả của [Bruno Bracegirdle](../B/Bruno_Bracegirdle.md), sinh nă
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2002: <a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md" title="The Lord of the Rings: The Fellowship of the Ring (video game)"><i>Chúa tể của những chiếc nhẫn: Hiệp hội những chiếc nhẫn</i> (trò chơi điện tử)</a>:</b>
+<b>2002: <a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md" title="The Lord of the Rings: The Fellowship of the Ring (video game)"><i>The Lord of the Rings: The Fellowship of the Ring</i> (trò chơi điện tử)</a>:</b>
 
 <dl><dd>Hugo lives at Number Eight, <a href="../B/Bagshot_Row.md" title="Bagshot Row">Bagshot Row</a>, a large house overlooking Sandyman&#39;s mill.</dd></dl>
 

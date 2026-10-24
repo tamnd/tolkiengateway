@@ -25,13 +25,13 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Egladil.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/8/85/The_Lord_of_the_Rings_Online_-_Egladil.jpg/250px-The_Lord_of_the_Rings_Online_-_Egladil.jpg" decoding="async" loading="lazy" width="250" height="148" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/85/The_Lord_of_the_Rings_Online_-_Egladil.jpg/375px-The_Lord_of_the_Rings_Online_-_Egladil.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/8/85/The_Lord_of_the_Rings_Online_-_Egladil.jpg/500px-The_Lord_of_the_Rings_Online_-_Egladil.jpg 2x" data-file-width="1912" data-file-height="1129"/></a><figcaption>Egladil in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-**Egladil**, hay **Angle** ở [Westron](../W/Westron.md), là tên do [người dân Lórien](../G/Galadhrim.md) đặt cho vùng đất của họ nằm giữa dòng sông [Anduin](../A/Anduin.md) và [Celebrant](../C/Celebrant.md).<sup id="cite_ref-Lorien_1-0" class="reference"><a href="#cite_note-Lorien-1">[1]</a></sup> Một phần của [Naith](../N/Naith.md), Egladil là khu vực đông dân nhất đất nước, nơi có thành phố cây [Caras Galadhon](../C/Caras_Galadhon.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+**Egladil**, hay **Angle** ở [Westron](../W/Westron.md), là tên do [người dân Lórien](../G/Galadhrim.md) đặt cho vùng đất của họ nằm giữa dòng sông [Anduin](../A/Anduin.md) và [Celebrant](../C/Celebrant.md).<sup id="cite_ref-Lorien_1-0" class="reference"><a href="#cite_note-Lorien-1">[1]</a></sup> Là một phần của [Naith](../N/Naith.md), Egladil là khu vực đông dân nhất đất nước, nơi có đã tìm thấy thành phố cây của [Caras Galadhon](../C/Caras_Galadhon.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Vào ngày 16 tháng 2 [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md),<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> một bữa tiệc chia tay được tổ chức ở đó khi [Fellowship of the Ring](../F/Fellowship_of_the_Ring.md) rời [Lothlórien](../L/Lothlórien.md)<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>.
+Vào ngày 16 tháng 2 [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md),<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> một bữa tiệc chia tay được tổ chức ở đó khi [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) khởi hành [Lothlórien](../L/Lothlórien.md)<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>.
 
 ## Từ nguyên {#Etymology}
 
-*Egladil* là tên [Sindarin](../S/Sindarin.md), có nghĩa là "Điểm Elven"<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> hoặc "Góc"<sup id="cite_ref-Lorien_1-1" class="reference"><a href="#cite_note-Lorien-1">[1]</a></sup>. Paul Strack gợi ý rằng đó là sự kết hợp giữa dạng tiền tố *Egla-* của *[Eglan](Eglath.md)* ("Forsaken (Elf)") và dạng mượn của *[til](../T/Til.md)* ("điểm", "spike", "(sắc) sừng", "kết thúc").<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+*Egladil* là tên [Sindarin](../S/Sindarin.md), có nghĩa là "Tiên-điểm"<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> hoặc "Angle"<sup id="cite_ref-Lorien_1-1" class="reference"><a href="#cite_note-Lorien-1">[1]</a></sup>. Paul Strack gợi ý rằng đó là sự kết hợp giữa dạng tiền tố *Egla-* của *[Eglan](Eglath.md)* ("Bị bỏ rơi (Tiên)") và dạng mượn của *[til](../T/Til.md)* ("điểm", "spike", "(sắc) sừng", "kết thúc").<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
@@ -39,11 +39,11 @@ Trong các bản nháp trước đó cho *[The Lord of the Rings](../T/The_Lord_
 
 Các tên ứng cử viên khác và cụ thể hơn là <i><b>Calennel</b></i> và <i><b>Calendil</b></i>, được dịch là "Green-tine" hoặc "Green-spit".<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
 
-[Christopher Tolkien](../C/Christopher_Tolkien.md) lưu ý đến sự trôi chảy khó hiểu trong cách cha ông xen kẽ các tên và ý nghĩa của chúng, liên quan đến vùng "Góc" lớn hơn giữa các con sông và "[Lưỡi](../T/Tongue.md)" cụ thể tại nơi hợp lưu của chúng.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
+[Christopher Tolkien](../C/Christopher_Tolkien.md) ghi nhận sự trôi chảy khó hiểu trong cách cha anh xen kẽ các tên và ý nghĩa của chúng, liên quan đến vùng "Angle" lớn hơn giữa các con sông và "[Lưỡi](../T/Tongue.md)" cụ thể tại nơi hợp lưu của chúng.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
+<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>The name &#34;Egladil&#34; is specifically applied to the eastern area of Lothlorien, directly bordering by the Anduin.</dd></dl>
 

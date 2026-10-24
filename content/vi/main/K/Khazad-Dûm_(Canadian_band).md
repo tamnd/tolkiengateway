@@ -22,9 +22,9 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Band</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Khazad-Dûm</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Background Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Origin</th><td class="tg-infobox-data">Edmonton, Canada</td></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data">death metal/deathcore</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Members</span></th></tr><tr><th scope="row" class="tg-infobox-label">Current Members</th><td class="tg-infobox-data">Levon Vokins<br/>Eric Mackenzie Siemens</td></tr></tbody></table>
 
-*Đừng nhầm lẫn với [Khazad-dûm](<Khazad-dûm_(British_band).md>), một ban nhạc tang lễ doom/death metal của Reading.*
+*Đừng nhầm lẫn với [Khazad-dûm](<Khazad-dûm_(British_band).md>), ban nhạc tang lễ doom/death metal của Reading.*
 
-**Khazad-Dûm** là ban nhạc death metal/deathcore đến từ Edmonton, Canada.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Ban nhạc lấy tên từ [Khazad-dûm](Khazad-dûm.md), vương quốc Người lùn cổ đại còn được gọi là Moria và các đĩa đơn của nhóm được đặt theo tên [Smaug](../S/Smaug.md) và [Shelob](../S/Shelob.md).
+**Khazad-Dûm** là ban nhạc death metal/deathcore đến từ Edmonton, Canada.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Ban nhạc lấy tên từ [Khazad-dûm](Khazad-dûm.md), vương quốc Người lùn cổ xưa còn được gọi là Moria và các đĩa đơn của nhóm được đặt theo tên [Smaug](../S/Smaug.md) và [Shelob](../S/Shelob.md).
 
 ## Thành viên {#Members}
 
@@ -33,8 +33,8 @@ infobox:
 
 ## Danh sách đĩa {#Discography}
 
-- Smaug the Dreadful (Đĩa đơn, 2024)
-- Shelob's Lair (Đĩa đơn, 2024)
+- Smaug Kẻ Đáng Sợ (Đĩa Đơn, 2024)
+- Hang ổ của Shelob (Đĩa đơn, 2024)
 
 ## Tài liệu tham khảo {#References}
 

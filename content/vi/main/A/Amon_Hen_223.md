@@ -42,7 +42,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/AmonHen223.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/d2/AmonHen223.jpg/320px-AmonHen223.jpg" decoding="async" loading="lazy" width="320" height="453" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/d2/AmonHen223.jpg/480px-AmonHen223.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/d/d2/AmonHen223.jpg/640px-AmonHen223.jpg 2x" data-file-width="707" data-file-height="1000"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Amon Hen 223</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="Andrew_Butler.md" title="Andrew Butler">Andrew Butler</a></td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="../R/Ruth_Lacon.md" title="Ruth Lacon">Ruth Lacon</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Printer</th><td class="tg-infobox-data"><a class="external text" href="http://www.horshampress.co.uk/" rel="noreferrer noopener" target="_blank">Horsham Press</a>, Horsham, UK</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../M/May.md" title="May">May</a> <a href="../_/2010.md" title="2010">2010</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">A5 stapled paperback, glossy</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">36</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0306-8781</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Amon_Hen_222.md" title="Amon Hen 222">Amon Hen 222</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Amon_Hen_224.md" title="Amon Hen 224">Amon Hen 224</a></td></tr></tbody></table>
 
-<b><i>Amon Hen</i> 223</b> là số thứ hai trăm hai mươi ba của tạp chí hai tháng một lần của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, xuất bản vào [tháng 5](../M/May.md) [2010](../_/2010.md).
+<b><i>Amon Hen</i> 223</b> là số thứ hai trăm hai mươi ba của tạp chí hai tháng một lần của [Hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, xuất bản vào [tháng 5](../M/May.md) [2010](../_/2010.md).
 
 ## Nội dung {#Contents}
 
@@ -56,13 +56,13 @@ infobox:
 - Thông báo
 Thông báo - [Oxonmoot](../O/Oxonmoot.md)
 - Ngày ghi nhật ký của bạn
-- Lời mời của Mereth Adethad (sự kiện của Hiệp hội Tolkien Slovakia)
+- Lời mời của Mereth Adethad (Sự kiện của Hiệp hội Tolkien tiếng Slovakia)
 - [Sảnh lửa](../H/Hall_of_Fire.md)
     - Bởi: Lynn Forest-Hill
 - Fraser trên Tolkien
     - Bởi: Murray Smith
 - Quảng cáo: Triển lãm tại Bảo tàng Moreton-in-Marsh/Banbury
-- Báo cáo: Triển lãm Ngày Sách Thế giới của Thư viện Bodleian
+- Báo cáo: Thư viện Bodleian Triển lãm Ngày Sách Thế giới
     - Bởi: Martin Smith
 - Bill the Pony
     - Bởi: [Bob Blackham](../R/Robert_S._Blackham.md)
@@ -91,7 +91,7 @@ Thông báo - [Oxonmoot](../O/Oxonmoot.md)
 - [Quốc tế](../I/International_Tolkien_Fellowship.md) Sự kiện sắp tới
     - Bởi: Susan Frances Edwards
 - Thư
-- Tác phẩm: Ngày đọc sách Tolkien
+- Tác phẩm: Tolkien Ngày đọc sách
     - Bởi: [Jef Murray](../J/Jef_Murray.md)
 - Góc của Jessica
     - Bởi: Jessica Yates

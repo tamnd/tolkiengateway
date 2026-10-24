@@ -17,13 +17,13 @@ categories:
 
 ## Công cụ phái sinh {#Derivatives}
 
-- [Tiên nguyên thủy](../P/Primitive_Quendian.md) *rokkō*<sup id="cite_ref-L211_2-0" class="reference"><a href="#cite_note-L211-2">[2]</a></sup><sup id="cite_ref-L297_3-0" class="reference"><a href="#cite_note-L297-3">[3]</a></sup>
+- [Nguyên thủy Elvish](../P/Primitive_Quendian.md) *rokkō*<sup id="cite_ref-L211_2-0" class="reference"><a href="#cite_note-L211-2">[2]</a></sup><sup id="cite_ref-L297_3-0" class="reference"><a href="#cite_note-L297-3">[3]</a></sup>
     - [Quenya](../Q/Quenya.md): *[rocco/rokko](../H/Horses.md#Names)*<sup id="cite_ref-LR_1-1" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
     - [Sindarin](../S/Sindarin.md)/[Noldorin](../N/Noldorin.md): *[roch](../H/Horses.md#Names)*<sup id="cite_ref-LR_1-2" class="reference"><a href="#cite_note-LR-1">[1]</a></sup><sup id="cite_ref-L211_2-1" class="reference"><a href="#cite_note-L211-2">[2]</a></sup><sup id="cite_ref-L297_3-1" class="reference"><a href="#cite_note-L297-3">[3]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Tolkien đã thử nghiệm khái niệm ROK là một từ liên quan đến nỗi sợ hãi và sau đó là Orc. Nguồn gốc của ROK gốc là 'nỗi sợ hãi' là sứ giả kỵ binh của Melkor đã bắt cóc Yêu tinh từ [Cuiviénen](../C/Cuiviénen.md). Tuy nhiên, lũ Orc sau này và nỗi sợ hãi có liên quan đến một căn nguyên khác, [ÓROK](../_/ÓROK.md) và [RUKU](RUKU.md).<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup> <span></span>
+Tolkien đã thử nghiệm khái niệm ROK là một từ liên quan đến nỗi sợ hãi và sau đó là Orc. Nguồn gốc của ROK gốc là 'nỗi sợ hãi' là sứ giả kỵ binh của Melkor đã bắt cóc Tiên tộc từ [Cuiviénen](../C/Cuiviénen.md). Tuy nhiên, sau Orc và nỗi sợ hãi lại có liên quan đến một căn nguyên khác, [ÓROK](../_/ÓROK.md) và [RUKU](RUKU.md).<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

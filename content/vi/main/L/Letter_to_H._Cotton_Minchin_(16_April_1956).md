@@ -24,7 +24,7 @@ images:
 
 Vào [16 tháng 4](../_/16_April.md) [1956](../_/1956.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) gửi H. Cotton Minchin**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-Sothebys_3-0" class="reference"><a href="#cite_note-Sothebys-3">[3]</a></sup>
 
-- **Chủ đề:** Xuất bản ngôn ngữ và chữ viết *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, [Elvish](../E/Elvish.md), hoạt động trên *[The Silmarillion](../T/The_Silmarillion.md)*.
+- **Đề tài:** Xuất bản *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, [Elvish](../E/Elvish.md) ngôn ngữ và chữ viết, tác phẩm trên *[The Silmarillion](../T/The_Silmarillion.md)*.
 - **Mô tả:** Thư có chữ ký ("J.R.R. Tolkien") với hai bài viết viết tắt là "(J.R.R.T."), 5 trang (9 x 7 1/4 in.; 230 x 183 mm).<sup id="cite_ref-Sothebys_3-1" class="reference"><a href="#cite_note-Sothebys-3">[3]</a></sup>
 - **Xuất bản:** Xuất bản một phần dưới dạng **[Thư 187](Letter_187.md)**. Các đoạn trích khác của bức thư xuất hiện trong *[Christie's Valuable Printed Books and Manuscripts 26 November 1997](../C/Christie's_Valuable_Printed_Books_and_Manuscripts_26_November_1997.md)* (trích trong *[The J.R.R. Tolkien Companion and Guide: Chronology](../T/The_J.R.R._Tolkien_Companion_and_Guide.md)*). Bức thư được xuất bản đầy đủ trong ấn bản mở rộng của *Letters*.
 

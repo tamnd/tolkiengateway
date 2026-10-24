@@ -46,13 +46,13 @@ infobox:
 
 ## Văn bản bìa/áo khoác {#Cover/Jacket_Text}
 
-Phần bổ sung về cuộc phiêu lưu này trình bày chi tiết về thung lũng ẩn giấu của Imladris, nơi cư trú của tàn tích của vương quốc Yêu tinh vĩ đại nhất ở Trung Địa. Trải nghiệm những điều kỳ diệu của Ngôi nhà của Elrond, nơi trú ẩn của Eldar và các vị vua cuối cùng của Arnor. Đây là trụ sở chính của Rangers, và đây là nơi bảo vệ những vật gia truyền của Arnor. Rivendell cũng là nơi gặp gỡ của Hội đồng Trắng, tổ chức của những người thông thái tìm cách chống lại Sauron, Chúa tể bóng tối.
+Phần bổ sung về cuộc phiêu lưu này trình bày chi tiết về thung lũng ẩn giấu của Imladris, nơi cư trú của tàn tích của vương quốc Tiên vĩ đại nhất Trung Địa. Trải nghiệm những điều kỳ diệu của Ngôi nhà của Elrond, thiên đường cho Eldar và Các vị vua Arnor cuối cùng. Đây là trụ sở chính của Rangers, và đây là nơi bảo vệ những vật gia truyền của Arnor. Rivendell cũng là nơi gặp gỡ của Bạch Hội Đồng, nhóm người thông thái tìm cách chiến đấu với Sauron, Chúa tể Bóng tối.
 
-Rivendell thực sự là một hòn đảo ẩn náu trong khung cảnh khắc nghiệt của Rhudaur. Tại đây, du khách mệt mỏi có thể tìm thấy nơi trú ẩn an toàn khỏi sự kìm kẹp của Vua phù thủy và tay sai của hắn. Được bảo vệ ở phía bắc và phía đông bởi những ngọn núi cao của Dãy núi Sương mù, còn ở phía tây và phía nam bởi sông Branduin, thung lũng có hệ thống phòng thủ đáng gờm. Tuy nhiên, những điều này chắc chắn là không đủ để giữ cho nó được che chở trong thời gian dài khỏi các điệp viên của Chúa tể bóng tối: chỉ nhờ sức mạnh của Elrond thì Hidden Vale mới được an toàn.
+Rivendell thực sự là một hòn đảo trú ẩn trong khung cảnh khắc nghiệt của Rhudaur. Ở đây du khách mệt mỏi có thể tìm thấy nơi trú ẩn an toàn khỏi sự kìm kẹp của Vua Phù thủy và tay sai của hắn. Được bảo vệ ở phía bắc và phía đông bởi các nhánh cao của Dãy Núi Sương Mù, còn ở phía tây và phía nam bởi sông Branduin, thung lũng có hệ thống phòng thủ đáng gờm. Tuy nhiên, những điều này chắc chắn là không đủ để giữ cho nơi này được che chở lâu dài khỏi các điệp viên của Chúa tể Bóng tối: chỉ nhờ sức mạnh của Elrond, Hidden Vale mới được an toàn.
 
 Tính năng RIVEENDELL:
 
-- 4 TRANG ĐẦY MÀU: hiển thị các vùng Rhudaur phía Bắc và Đông Nam, cũng như 2 bản đồ khu vực của Thung lũng Rivendell.
-- BỐ CỤC CHÍNH: mô tả chi tiết Ngôi nhà của Elrond, bao gồm Sảnh Lửa và các phòng Hội đồng.
-- THỐNG KÊ TRÒ CHƠI: về Elrond, Glorfindel, Vilya trong chiếc nhẫn Yêu tinh mạnh mẽ và nhiều Yêu tinh của Rivendell.
+- 4 TRANG ĐẦY MÀU: hiển thị các khu vực Hollin phía Bắc và Đông Nam Rhudaur, cũng như 2 bản đồ khu vực của Thung lũng Rivendell.
+- BỐ CỤC CHÍNH: chi tiết Ngôi nhà Elrond, bao gồm Sảnh Lửa và các phòng Hội đồng.
+- THỐNG KÊ TRÒ CHƠI: trên Elrond, Glorfindel, vòng Tiên Vilya mạnh mẽ và nhiều Tiên tộc của Rivendell.
 - THÔNG TIN VĂN HÓA: về những cư dân khác của Rhudaur: Hillmen, Dunedain và Dunlendings.

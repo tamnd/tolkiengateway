@@ -17,7 +17,7 @@ categories:
 
 ## Từ nguyên {#Etymology}
 
-Trong một bản thảo, từ này được cho là có nguồn gốc từ [Common Eldarin](../C/Common_Eldarin.md) *gon, gondo* ("đá, đá").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Trong một bản thảo khác, *gond* bắt nguồn từ [Quendian nguyên thủy](../P/Primitive_Quendian.md) *gondō* ("đá, tổng quát như một chất hoặc vật liệu").<sup id="cite_ref-PE17_2-1" class="reference"><a href="#cite_note-PE17-2">[2]</a></sup>
+Trong một bản thảo, từ này được cho là bắt nguồn từ [Common Eldarin](../C/Common_Eldarin.md) *gon, gondo* ("đá, đá").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Trong một bản thảo khác, *gond* bắt nguồn từ [Primitive Quendian](../P/Primitive_Quendian.md) *gondō* ("đá, nói chung là một chất hoặc vật liệu").<sup id="cite_ref-PE17_2-1" class="reference"><a href="#cite_note-PE17-2">[2]</a></sup>
 
 Trong *[Etymologies](../T/The_Etymologies.md)*, [Noldorin](../N/Noldorin.md) *gonn* ("một hòn đá lớn hoặc tảng đá") bắt nguồn từ [gốc](../S/Sundocarme.md) GONOD/GONDO ("đá").<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
@@ -41,7 +41,7 @@ Trong *[Etymologies](../T/The_Etymologies.md)*, [Noldorin](../N/Noldorin.md) *go
 
 ## Cảm hứng từ thế giới thực {#Real-world_inspiration}
 
-[J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được lấy cảm hứng từ từ đầu tiên của người Celtic *ond*, cũng có nghĩa là "đá".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> <span></span>
+[J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được lấy cảm hứng từ từ Celtic ban đầu *ond*, cũng có nghĩa là "đá".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

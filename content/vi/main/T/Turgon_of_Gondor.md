@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Turgon (Steward of Gondor)"
 ---
 
-Chuyển hướng tới [Turgon (Người quản lý Gondor)](<Turgon_(Steward_of_Gondor).md>).
+Chuyển hướng tới [Turgon (Người quản lý của Gondor)](<Turgon_(Steward_of_Gondor).md>).

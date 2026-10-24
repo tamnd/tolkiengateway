@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Nasmith, Ted"
 ---
 
-- [Ted Nasmith](../../main/T/Ted_Nasmith.md) đã vui lòng cho phép anh sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Ted_Nasmith.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
+- [Ted Nasmith](../../main/T/Ted_Nasmith.md) đã vui lòng cho phép ông sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Ted_Nasmith.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Ngày: 19 tháng 12 năm 2011
 - Người dùng đã xin phép qua email: [Người dùng:KingAragorn](https://tolkiengateway.net/wiki/User:KingAragorn)

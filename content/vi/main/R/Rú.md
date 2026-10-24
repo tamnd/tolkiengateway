@@ -14,7 +14,7 @@ sort_keys:
   "Quenya nouns": "Ru"
 ---
 
-**Rú** là tên [Quenya](../Q/Quenya.md) của [Drúedain](../D/Drúedain.md). Người Drúedain gọi đồng loại của họ là [Drughu](../D/Drúedain.md), một cái tên mà [Yêu tinh](../E/Elves.md) đặt theo ngôn ngữ và ngữ điệu của riêng họ. Trong [Sindarin](../S/Sindarin.md) nó trở thành [Drû](../D/Drû.md), từ đó cái tên Drúedain được bắt nguồn. Ở Quenya, Drughu trở thành Rú. Khi họ được Yêu tinh công nhận là thuộc chủng tộc [Đàn ông](../M/Men.md) và trở thành đồng minh của họ trong cuộc chiến chống lại [Morgoth](../M/Morgoth.md), họ đã có được hậu tố [atani](../A/Atani.md), vì vậy Quenya [Rúatani](Rúatani.md) hoàn toàn tương đương với Sindarin Drúedain.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Rú** là tên [Quenya](../Q/Quenya.md) của [Drúedain](../D/Drúedain.md). Drúedain gọi loại [Drughu](../D/Drúedain.md) của riêng họ, một cái tên mà [Tiên tộc](../E/Elves.md) đặt theo ngôn ngữ và ngữ điệu của riêng họ. Trong [Sindarin](../S/Sindarin.md) nó trở thành [Drû](../D/Drû.md), từ đó cái tên Drúedain được bắt nguồn. Năm Quenya, Drughu trở thành Rú. Khi họ được Tiên tộc công nhận thuộc chủng tộc [Con Người](../M/Men.md) và trở thành đồng minh của họ trong cuộc chiến chống lại [Morgoth](../M/Morgoth.md), họ đã có được hậu tố [atani](../A/Atani.md), vì vậy Quenya [Rúatani](Rúatani.md) hoàn toàn tương đương với Sindarin Drúedain.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

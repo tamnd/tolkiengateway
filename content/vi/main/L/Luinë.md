@@ -15,7 +15,7 @@ categories:
 
 <i><b>luinë</b></i> (pl. *luini*) là một từ [Quenya](../Q/Quenya.md) có nghĩa là "màu xanh".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Từ này chủ yếu xuất hiện ở [Noldorin](../E/Exilic_Quenya.md) Quenya; [Vanyar](../V/Vanyar.md) trong [phương ngữ](../V/Vanyarin.md) của họ đã sử dụng <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Ulban&amp;action=edit&amp;redlink=1" title="Ulban (page does not exist)">ulban</a></i> cho màu xanh lam, được tiếp thu và phỏng theo [Valarin](../V/Valarin.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Từ này xuất hiện chủ yếu ở [Noldorin](../E/Exilic_Quenya.md) Quenya; [Vanyar](../V/Vanyar.md) trong [phương ngữ](../V/Vanyarin.md) của họ đã sử dụng <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Ulban&amp;action=edit&amp;redlink=1" title="Ulban (page does not exist)">ulban</a></i> cho màu xanh lam, được tiếp thu và phỏng theo [Valarin](../V/Valarin.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Ví dụ {#Examples}
 
@@ -26,11 +26,11 @@ Từ này chủ yếu xuất hiện ở [Noldorin](../E/Exilic_Quenya.md) Quenya
 
 ## Có cùng nguồn gốc {#Cognates}
 
-- [Tiếng Sindarin](../S/Sindarin.md) *[luin](Luin.md)*
+- [Sindarin](../S/Sindarin.md) *[luin](Luin.md)*
 
 ## Phiên bản khác {#Other_versions}
 
-Trong một số bản thảo ngôn ngữ, [Tolkien](../J/J.R.R._Tolkien.md) đã thử nghiệm việc *luine* là cùng nguồn gốc của [Sindarin](../S/Sindarin.md) *[duin](../D/Duin.md)* ("sông"), nhưng lưu ý rằng *luine* có nghĩa là "sông" không được sử dụng. [Patrick H. Wynne](../P/Patrick_H._Wynne.md) đã gợi ý rằng *luine* nghĩa là "sông" có lẽ chỉ tồn tại ở dạng ghép như <i><b>-duinë</b></i> (cf. *[Nunduinë](../N/Nunduinë.md#Etymology)*).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> <span></span>
+Trong một số bản thảo ngôn ngữ, [Tolkien](../J/J.R.R._Tolkien.md) đã thử nghiệm coi *luine* là cùng nguồn gốc của [Sindarin](../S/Sindarin.md) *[duin](../D/Duin.md)* ("sông"), nhưng lưu ý rằng *luine* có nghĩa là "sông" không được sử dụng. [Patrick H. Wynne](../P/Patrick_H._Wynne.md) đã gợi ý rằng *luine* nghĩa là "sông" có lẽ chỉ tồn tại ở dạng ghép là <i><b>-duinë</b></i> (cf. *[Nunduinë](../N/Nunduinë.md#Etymology)*).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

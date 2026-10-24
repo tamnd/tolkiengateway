@@ -25,11 +25,11 @@ infobox:
 
 ## Từ nguyên {#Etymology}
 
-Từ này là [Quenya](../Q/Quenya.md), *[foa](Foa~46839.md)* ("hơi thở") + *[lókë](../L/Lókë.md)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Từ đó là [Quenya](../Q/Quenya.md), *[foa](Foa~46839.md)* ("hơi thở") + *[lókë](../L/Lókë.md)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Cái tên này ban đầu được hình thành cho "một con rắn bảo vệ kho báu", vì hồi đó từ [Qenya](../Q/Qenya.md) *foa* có nghĩa là "tích trữ".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Dạng [Gnomish](../G/Gnomish.md) là *Fuithlug* ("một con rồng (người bảo vệ kho báu)").<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Tên này chủ yếu được áp dụng cho con rồng [Glórund](../G/Glaurung.md#Other_versions_of_the_Legendarium).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Cái tên này ban đầu được hình thành cho "một con rắn canh giữ kho báu", vì hồi đó từ [Qenya](../Q/Qenya.md) *foa* được gọi là "tích trữ".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Dạng [Gnomish](../G/Gnomish.md) là *Fuithlug* ("một con rồng (người canh giữ kho báu)").<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Tên này chủ yếu được áp dụng cho con rồng [Glórund](../G/Glaurung.md#Other_versions_of_the_Legendarium).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Xem thêm {#See_also}
 

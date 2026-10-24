@@ -39,7 +39,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mythlore_134.gif.md"><img src="https://tolkiengateway.net/w/images/d/d3/Mythlore_134.gif" decoding="async" loading="lazy" width="225" height="314" class="mw-file-element" data-file-width="225" data-file-height="314"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mythlore 134</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../J/Janet_Brennan_Croft.md" title="Janet Brennan Croft">Janet Brennan Croft</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Spring/Summer <a href="../_/2019.md" title="2019">2019</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">240</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mythlore_133.md" title="Mythlore 133">Mythlore 133</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mythlore_135.md" title="Mythlore 135">Mythlore 135</a></td></tr></tbody></table>
 
-<b><i>Thần thoại</i> 134</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol37/iss2/" rel="noreferrer noopener" target="_blank">Tập 37, Số 2</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
+<b><i>Mythlore</i> 134</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol37/iss2/" rel="noreferrer noopener" target="_blank">Tập 37, Số 2</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
 
 ## Nội dung {#Contents}
 
@@ -63,13 +63,13 @@ infobox:
 #### Đánh giá {#Reviews}
 
 - *Fairy Tale: A Very Short Introduction* của Marina Warner. Được đánh giá bởi Barbara L. Prescott.
-- *The Inklings và Vua Arthur: J.R.R. Tolkien, Charles Williams, C.S. Lewis, và Owen Barfield về Vấn đề nước Anh*. Ed. Sorina Higgins. Được đánh giá bởi Jared Lobdell.
-- *Tolkien, Bản thân và Người khác: "Sinh vật kỳ lạ này."* của Jane Chance và Tolkien and Alterity. Biên tập. Christopher Vaccaro và Yvette Kisor. Được đánh giá bởi Jason Fisher.
+- * Inklings và Vua Arthur: J.R.R. Tolkien, Charles Williams, C.S. Lewis và Owen Barfield về Vấn đề nước Anh*. Ed. Sorina Higgins. Được đánh giá bởi Jared Lobdell.
+- *Tolkien, Bản thân và người khác: "Sinh vật kỳ lạ này."* của Jane Chance và Tolkien và Alterity. Biên tập. Christopher Vaccaro và Yvette Kisor. Được đánh giá bởi Jason Fisher.
 - *Sư tử trong ngõ hoang: Sự chuộc lỗi đáng sợ trong tác phẩm của C.S. Lewis, Dorothy L. Sayers và T.S. Eliot* của Janice Brown. Được đánh giá bởi James Stockton.
 - *Goddesses: Mysteries of the Feminine Divine* của Joseph Campbell, Ed. Safron Rossi. Được đánh giá bởi Carl Badgley.
-- *"Ngọt ngào và cay đắng": Cái chết và cái chết trong Chúa tể của những chiếc nhẫn* của J. R. R. Tolkien của Amy Amendt-Raduege. Được đánh giá bởi Laura Lee Smith.
+- *"Ngọt ngào và cay đắng": Cái chết và cái chết trong J. R. R. Tolkien The Lord of the Rings* của Amy Amendt-Raduege. Được đánh giá bởi Laura Lee Smith.
 - *Lửa và Tuyết: Tiểu thuyết về khí hậu từ Inklings đến Game of Thrones* của Marc DiPaolo. Được đánh giá bởi Kristine Larsen.
-- *The Great Tower of Elfland: Thế giới quan thần thoại của J.R.R Tolkien, C.S. Lewis, G.K. Chesterton và George MacDonald* của Zachary A. Rhone, lời tựa của Colin Duriez. Được đánh giá bởi Felicia Jean Steele.
+- *The Great Tower of Elfland: Thế giới quan thần thoại về J.R.R Tolkien, C.S. Lewis, G.K. Chesterton và George MacDonald* của Zachary A. Rhone, lời tựa của Colin Duriez. Được đánh giá bởi Felicia Jean Steele.
 - *C.S. Lewis: A Very Short Introduction* của James Como. Được đánh giá bởi Zachary A. Rhone.
 - *Pamela Colman Smith: The Untold Story* của Stuart R. Kaplan với Mary K. Greer, Elizabeth Foley O'Connor và Melinda Boyd Parsons. Được đánh giá bởi Emily E. Auger.
 - *Phụ nữ bay: Nữ thần, phù thủy, nhà thần bí và những phụ nữ bay trên không khác* của Serinity Young. Được đánh giá bởi Felicity Gilbert.

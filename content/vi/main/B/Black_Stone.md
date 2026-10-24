@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Stone of Erech"
 ---
 
-Chuyển hướng tới [Hòn đá Erech](../S/Stone_of_Erech.md).
+Chuyển hướng đến [Tảng đá Erech](../S/Stone_of_Erech.md).

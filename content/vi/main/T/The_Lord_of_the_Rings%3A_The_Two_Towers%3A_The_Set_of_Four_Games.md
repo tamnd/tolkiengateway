@@ -28,11 +28,11 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Two_Towers_The_Set_of_Four_Games.png.md"><img src="https://tolkiengateway.net/w/images/thumb/9/97/The_Two_Towers_The_Set_of_Four_Games.png/320px-The_Two_Towers_The_Set_of_Four_Games.png" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/9/97/The_Two_Towers_The_Set_of_Four_Games.png 1.5x" data-file-width="340" data-file-height="340"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Board game</td></tr><tr><th colspan="2" class="tg-infobox-title"><span><small><i>The Lord of the Rings: The Two Towers: The Set of Four Games</i></small></span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Designer</th><td class="tg-infobox-data">Jan Dungel</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../N/New_Line_Cinema.md" title="New Line Cinema">New Line Productions</a>/BETEXA</td></tr><tr><th scope="row" class="tg-infobox-label">Release date</th><td class="tg-infobox-data"><a href="../_/2002.md" title="2002">2002</a></td></tr><tr><th scope="row" class="tg-infobox-label">Ages</th><td class="tg-infobox-data">10+</td></tr></tbody></table>
 
-<i><b>Chúa tể của những chiếc nhẫn: Hai tòa tháp: Bộ bốn trò chơi</b></i> là một trò chơi bảng [2002](../_/2002.md) dựa trên bộ phim *[The Lord of the Rings: The Two Towers](The_Lord_of_the_Rings%253A_The_Two_Towers.md)*.
+<i><b>The Lord of the Rings: The Two Towers: Bộ bốn trò chơi</b></i> là một trò chơi [2002](../_/2002.md) dựa trên bộ phim *[The Lord of the Rings: The Two Towers](The_Lord_of_the_Rings%253A_The_Two_Towers.md)*.
 
 ## Từ phía sau {#From_the_back}
 
-Phần thưởng: Áp phích Bản đồ Trung Địa
+Phần thưởng: Bản đồ áp phích của Trung Địa
 
 HÌNH vuông ma thuật: Tạo Hình vuông ma thuật bằng cách đặt chính xác tất cả các thẻ. Giải pháp đúng phải tạo thành một hình vuông.
 
@@ -42,6 +42,6 @@ LỤC GIÁC MAGIC: Tạo Lục giác ma thuật bằng cách đặt chính xác 
 
 TRI-MEMO: Xoay ba thẻ để thu thập bộ ba có hình ảnh hoặc câu thơ giống nhau.
 
-Trò chơi có 70 thẻ. Trên 63 lá bài có 21 nhân vật trong phim The Two Towers, mỗi nhân vật 3 nhân vật! Sáu lá bài tạo thành hai bộ ba, chứa các câu thơ vòng.
+Trò chơi có 70 thẻ. Trên 63 thẻ có 21 nhân vật trong phim The Two Towers, mỗi thẻ 3 nhân vật! Sáu lá bài tạo thành hai bộ ba, chứa các câu thơ vòng.
 
 Chơi phiên bản đơn giản dành cho người mới bắt đầu hoặc chuyển sang phiên bản nâng cao hơn dành cho người có kinh nghiệm (hướng dẫn bên trong).

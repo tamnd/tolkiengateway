@@ -31,11 +31,11 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien đã cảm ơn trước <a class="extiw" href="http://en.wikipedia.org/wiki/John_Giffard,_3rd_Earl_of_Halsbury" title="wikipedia:John Giffard, 3rd Earl of Halsbury">Lord Halsbury</a> về rượu whisky mà Halsbury đã gửi và nghĩ lại thời điểm Halsbury đến thăm, vào [ngày 26 tháng 7](../_/26_July.md). Đoạn văn kết thúc bằng một tuyên bố về [Galadriel](../G/Galadriel.md). Bà "không tì vết", không nằm trong [việc làm](../O/Oath_of_Fëanor.md) của [Fëanor](../F/Fëanor.md). Cô khao khát được sống ở [Trung Địa](../M/Middle-earth.md) và không may mắn là vào thời điểm khởi hành, [Manwë](../M/Manwë.md) đã nói ra [lệnh cấm di cư](../D/Doom_of_Mandos.md).
+Tolkien cảm ơn trước <a class="extiw" href="http://en.wikipedia.org/wiki/John_Giffard,_3rd_Earl_of_Halsbury" title="wikipedia:John Giffard, 3rd Earl of Halsbury">Lãnh chúa Halsbury</a> về rượu whisky mà Halsbury gửi đến, đồng thời nhớ lại lần Halsbury đến thăm, vào [ngày 26 tháng 7](../_/26_July.md). Đoạn này kết thúc bằng một tuyên bố về [Galadriel](../G/Galadriel.md). Bà "không tì vết", không nằm trong [việc làm](../O/Oath_of_Fëanor.md) của [Fëanor](../F/Fëanor.md). Cô khao khát được ở lại [Trung Địa](../M/Middle-earth.md) và không may là lúc ra đi, [Manwë](../M/Manwë.md) đã nói ra [lệnh cấm di cư](../D/Doom_of_Mandos.md).
 
 ## Ghi chú {#Notes}
 
-Khi tuyên bố Galadriel không liên quan đến tội ác của Fëanor, Tolkien đã tự mâu thuẫn với chính mình; trong [Thư 320](Letter_320.md), ông nói bà là "thủ lĩnh trong cuộc nổi dậy chống lại [Valar](../V/Valar.md)". <br>
+Khi khẳng định Galadriel không liên quan đến tội ác của Fëanor, Tolkien đã tự mâu thuẫn với mình; trong [Thư 320](Letter_320.md), anh nói cô là "thủ lĩnh trong cuộc nổi dậy chống lại [Valar](../V/Valar.md)". <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

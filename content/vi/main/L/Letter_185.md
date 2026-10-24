@@ -33,7 +33,7 @@ infobox:
 
 Tolkien đã nhận xét về [Thư 184](Letter_184.md), từ Sam Gamgee của <a class="extiw" href="http://en.wikipedia.org/wiki/Tooting" title="wikipedia:Tooting">Tooting</a>. Sau đó ông nói rằng mặc dù Tooting nghe có vẻ giống [hobbit](../H/Hobbits.md) nhưng nó lại rất không giống Shire.
 
-Đoạn cuối thư bình luận về dự báo về doanh số bán sách của [Allen & Unwin](../A/Allen_and_Unwin.md), một tin cực kỳ tốt.
+Đoạn cuối thư bình luận về dự báo doanh thu bán sách của [Allen &amp; Unwin](../A/Allen_and_Unwin.md), một tin cực kỳ vui.
 
 ## Ghi chú {#Notes}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Cirith Gorgor (band)"
 ---
 
-Chuyển hướng đến [Cirith Gorgor (ban nhạc)](<../C/Cirith_Gorgor_(band).md>).
+Chuyển hướng đến [Cirith Gorgor (băng tần)](<../C/Cirith_Gorgor_(band).md>).

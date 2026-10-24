@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Moria"
 ---
 
-Chuyển hướng tới [Moria](../M/Moria.md).
+Chuyển hướng đến [Moria](../M/Moria.md).

@@ -12,7 +12,7 @@ categories:
   - "Publications by title"
 ---
 
-<i><b>J.R.R. Tolkien: Người đàn ông và huyền thoại của ông</b></i> là một bộ hộp bốn tập được xuất bản trong [1978](../_/1978.md) bao gồm *[A Guide to Middle-earth](../A/A_Guide_to_Middle-earth.md)* (ấn bản đầu tiên) của [Robert Foster](../R/Robert_Foster.md), *[Master of Middle-earth](../M/Master_of_Middle-earth.md)* của [Paul H. Kocher](../P/Paul_H._Kocher.md), *[Tolkien: A Look Behind The Lord of the Rings](../T/Tolkien%253A_A_Look_Behind_The_Lord_of_the_Rings.md)* của [Lin Carter](../L/Lin_Carter.md) và [J.R.R. Tolkien: A Biography](J.R.R._Tolkien%253A_A_Biography.md) của [Thợ mộc Humphrey](../H/Humphrey_Carpenter.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>J.R.R. Tolkien: Người đàn ông và huyền thoại của ông</b></i> là một bộ hộp bốn tập được xuất bản trong [1978](../_/1978.md) bao gồm *[A Guide to Middle-earth](../A/A_Guide_to_Middle-earth.md)* (ấn bản đầu tiên) của [Robert Foster](../R/Robert_Foster.md), *[Master of Middle-earth](../M/Master_of_Middle-earth.md)* của [Paul H. Kocher](../P/Paul_H._Kocher.md), *[Tolkien: A Look Behind The Lord of the Rings](../T/Tolkien%253A_A_Look_Behind_The_Lord_of_the_Rings.md)* của [Lin Carter](../L/Lin_Carter.md) và [J.R.R. Tolkien: A Biography](J.R.R._Tolkien%253A_A_Biography.md) của [Humphrey Carpenter](../H/Humphrey_Carpenter.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

@@ -13,11 +13,11 @@ categories:
   - "Rohan"
 ---
 
-**Eilenaer** là một ngọn đồi hoặc ngọn núi cao với chân được bao phủ bởi rừng cây, Eilenaer về nhiều mặt tương tự như [Eilenach](Eilenach.md), nằm xa về phía đông trong [Rừng Drúadan](../D/Drúadan_Forest.md), và thực sự hai cái tên cổ này dường như có liên quan đến nhau về ý nghĩa. Trong khi Eilenach vẫn giữ tên cũ, Eilenaer đã được đổi tên khi nó trở thành địa điểm có Lăng mộ của [Elendil](Elendil.md). Ở [Gondor](../G/Gondor.md) sau thời điểm đó nó được biết đến với cái tên [Elvish](Elvish.md) [Amon Anwar](../H/Halifirien.md), 'Ngọn đồi kinh hoàng'. Khi [Rohirrim](../R/Rohirrim.md) đến định cư ở [Rohan](../R/Rohan.md), rất lâu sau đó, họ đặt cho nó một cái tên khác bằng tiếng mẹ đẻ của mình - *[Halifirien](../H/Halifirien.md)*, 'Núi Thánh' ở biên giới vương quốc của họ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Eilenaer** là một ngọn đồi hoặc ngọn núi cao với chân được bao phủ bởi rừng cây, Eilenaer về nhiều mặt tương tự như [Eilenach](Eilenach.md), nằm xa về phía đông trong [Rừng Drúadan](../D/Drúadan_Forest.md), và thực sự hai cái tên cổ này dường như có liên quan đến nhau về ý nghĩa. Trong khi Eilenach vẫn giữ tên cũ, Eilenaer đã được đổi tên khi nó trở thành địa điểm Lăng mộ của [Elendil](Elendil.md). Trong [Gondor](../G/Gondor.md) sau thời điểm đó nó được biết đến với cái tên [Elvish](Elvish.md) [Amon Anwar](../H/Halifirien.md), 'Ngọn đồi kinh hoàng'. Khi [Rohirrim](../R/Rohirrim.md) đến định cư ở [Rohan](../R/Rohan.md), rất lâu sau đó, họ đặt cho nó một cái tên khác bằng tiếng mẹ đẻ của mình - *[Halifirien](../H/Halifirien.md)*, 'Núi Thánh' ở biên giới vương quốc của họ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Eilenaer* là tên có nguồn gốc [tiền Númenórean](../P/Pre-Númenórean.md), rõ ràng có liên quan đến [Eilenach](Eilenach.md).
+*Eilenaer* là tên có nguồn gốc từ [trướcNúmenórean](../P/Pre-Númenórean.md), rõ ràng có liên quan đến [Eilenach](Eilenach.md).
 
 <span></span>
 

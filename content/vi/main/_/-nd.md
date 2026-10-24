@@ -16,7 +16,7 @@ sort_keys:
   "Sindarin suffixes": "nd"
 ---
 
-<i><b>-nd</b></i> là đuôi địa danh bằng [Sindarin](../S/Sindarin.md), đuôi "thường được sử dụng trong tên các vùng hoặc quốc gia". Các nguyên âm có thể được gắn vào phần cuối, tạo thành các dạng *-and*, *-end*, *-ond*. Trong các tên như *[Rohan](../R/Rohan.md)*, *-d* đã bị loại bỏ do thiếu cách phát âm trong giọng nói (điều này cũng xảy ra trong *[Anorien](../A/Anorien.md)* và <i><a href="../I/Ithilien.md" title="Ithilien">Ithilien</a>).<sup id="cite_ref-Cirion_1-0" class="reference"><a href="#cite_note-Cirion-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></i>
+<i><b>-nd</b></i> là đuôi địa danh có đuôi [Sindarin](../S/Sindarin.md), đuôi "thường được sử dụng trong tên các vùng hoặc quốc gia". Các nguyên âm có thể được gắn vào phần cuối, tạo thành các dạng *-and*, *-end*, *-ond*. Trong các tên như *[Rohan](../R/Rohan.md)*, *-d* đã bị loại bỏ do thiếu cách phát âm trong giọng nói (điều này cũng xảy ra trong *[Anorien](../A/Anorien.md)* và <i><a href="../I/Ithilien.md" title="Ithilien">Ithilien</a>).<sup id="cite_ref-Cirion_1-0" class="reference"><a href="#cite_note-Cirion-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></i>
 
 Biểu mẫu cũng xuất hiện dưới dạng *-ian(d)*, *-iann*, *-ion*, *-ien*.<sup id="cite_ref-PE_3-0" class="reference"><a href="#cite_note-PE-3">[3]</a></sup>
 
@@ -43,10 +43,10 @@ Biểu mẫu cũng xuất hiện dưới dạng *-ian(d)*, *-iann*, *-ion*, *-ie
 
 - [Dorthonion](../D/Dorthonion.md)
 - [Dorwinion](../D/Dorwinion.md)
-- [Khu vực](../R/Region.md)
+- [Region](../R/Region.md)
 - [Lindon](../L/Lindon.md)
-- [Vùng sinh thái](../E/Eregion.md)
-- [Lịch](../C/Calenardhon.md)
+- [Eregion](../E/Eregion.md)
+- [Calenardhon](../C/Calenardhon.md)
 
 ## Từ nguyên {#Etymology}
 
@@ -56,9 +56,9 @@ Biểu mẫu cũng xuất hiện dưới dạng *-ian(d)*, *-iann*, *-ion*, *-ie
 
 ## Có cùng nguồn gốc {#Cognates}
 
-Những phần cuối liên quan không xuất hiện trong các ngôn ngữ khác như [Quenya](../Q/Quenya.md), có lẽ chỉ có tên [Hildórien](../H/Hildórien.md) và [Calacirian](../C/Calacirian.md) (từ *Kalakiryande*).<sup id="cite_ref-RGEO_5-0" class="reference"><a href="#cite_note-RGEO-5">[5]</a></sup> Tuy nhiên, có tên [Qenya](../Q/Qenya.md) *Valariande*<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> và *Ossiriande*.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> Cuốn sách *[The Road Goes Ever On](<../T/The_Road_Goes_Ever_On_(book).md>)* cung cấp tên Quenya của Lothlórien là <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=L%C3%B3riende&amp;action=edit&amp;redlink=1" title="Lóriende (page does not exist)">Lóriende</a></i>.
+Các đuôi liên quan không xuất hiện trong các ngôn ngữ khác như [Quenya](../Q/Quenya.md) có lẽ chỉ lưu tên [Hildórien](../H/Hildórien.md) và [Calacirian](../C/Calacirian.md) (từ *Kalakiryande*).<sup id="cite_ref-RGEO_5-0" class="reference"><a href="#cite_note-RGEO-5">[5]</a></sup> Tuy nhiên, có [Qenya](../Q/Qenya.md) tên *Valariande*<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> và *Ossiriande*.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> Cuốn sách *[The Road Goes Ever On](<../T/The_Road_Goes_Ever_On_(book).md>)* ghi tên Quenya của Lothlórien là <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=L%C3%B3riende&amp;action=edit&amp;redlink=1" title="Lóriende (page does not exist)">Lóriende</a></i>.
 
-Gợi ý ở trên là trong Quenya các phần cuối được giữ nguyên dưới dạng *-iande* và *-iende* mà không mất *-e* cuối cùng. Mặt khác, *Valariande* có lẽ không chính thống như Qenya thời kỳ đầu (nhưng nhất quán với các quy tắc âm vị học sau này); đối với *Lóriende*, nó dường như được xây dựng theo tên Sindarin và không thể biểu thị từ nguyên Quenya.<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup>
+Gợi ý ở trên rằng trong Quenya phần cuối được giữ nguyên là *-iande* và *-iende* mà không mất *-e* cuối cùng. Mặt khác, *Valariande* có lẽ không chính thức ngay từ đầu Qenya (nhưng nhất quán với các quy tắc âm vị học sau này); đối với *Lóriende*, nó dường như được xây dựng theo tên Sindarin và không thể biểu thị từ nguyên Quenya.<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup>
 
 ## Xem thêm {#See_also}
 

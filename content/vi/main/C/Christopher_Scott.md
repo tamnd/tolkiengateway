@@ -21,7 +21,7 @@ sort_keys:
   "People by name": "Scott, Christopher"
 ---
 
-**Christopher Scott** provided several voices in the [1981 radio series of *The Lord of the Rings*](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>): [Nazgûl](../N/Nazgûl.md), "the Rider", "the Guard", [Beregond](../B/Beregond.md), and several unspecified bit parts.
+**Christopher Scott** đã cung cấp một số giọng nói trong loạt phim phát thanh [1981 của *The Lord of the Rings*](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>): [Nazgûl](../N/Nazgûl.md), "the Rider", "the Guard", [Beregond](../B/Beregond.md) và một số phần bit không xác định.
 
 ## Liên kết ngoài {#External_links}
 

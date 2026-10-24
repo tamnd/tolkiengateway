@@ -27,7 +27,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Minas Tsoulis</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Born</th><td class="tg-infobox-data">1973</td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">Thessaloniki, Greece</td></tr></tbody></table>
 
-**Minas Tsoulis** (tiếng Hy Lạp: Μηνάς Τσούλης) là tác giả của hai cuốn sách liên quan đến nghiên cứu về [Quenya](../Q/Quenya.md). Ông biết một số ngôn ngữ, bao gồm tiếng Anh, tiếng Pháp, tiếng Ý và tiếng Latin. Tình yêu dành cho ngôn ngữ đã đưa ông đến với việc nghiên cứu Quenya và sau đó là viết từ điển và sách ngữ pháp. Ông là thành viên của [Hiệp hội ngôn ngữ học Elvish](../E/Elvish_Linguistic_Fellowship.md) và ông cũng đã tham gia các hội nghị ngôn ngữ khác.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Minas Tsoulis** (tiếng Hy Lạp: Μηνάς Τσούλης) là tác giả của hai cuốn sách liên quan đến việc nghiên cứu [Quenya](../Q/Quenya.md). Ông biết một số ngôn ngữ, bao gồm tiếng Anh, tiếng Pháp, tiếng Ý và tiếng Latin. Tình yêu dành cho ngôn ngữ đã đưa anh đến với việc nghiên cứu Quenya và sau đó là viết từ điển và sách ngữ pháp. Ông là thành viên của [Elvish Hiệp hội Ngôn ngữ học](../E/Elvish_Linguistic_Fellowship.md) và ông cũng đã tham gia các hội nghị ngôn ngữ khác.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Thư mục {#Bibliography}
 

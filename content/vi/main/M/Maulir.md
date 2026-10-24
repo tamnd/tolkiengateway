@@ -11,4 +11,4 @@ redirect_target: "Trolls"
 redirect_fragment: "Other versions of the legendarium"
 ---
 
-Chuyển hướng tới [Quỷ dữ](../T/Trolls.md#Other_versions_of_the_legendarium).
+Chuyển hướng đến [Troll](../T/Trolls.md#Other_versions_of_the_legendarium).

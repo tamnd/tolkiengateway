@@ -36,7 +36,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Return_Of_The_Ring_Volume_1.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/a/aa/The_Return_Of_The_Ring_Volume_1.jpg/318px-The_Return_Of_The_Ring_Volume_1.jpg" decoding="async" loading="lazy" width="318" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/aa/The_Return_Of_The_Ring_Volume_1.jpg/477px-The_Return_Of_The_Ring_Volume_1.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/a/aa/The_Return_Of_The_Ring_Volume_1.jpg/635px-The_Return_Of_The_Ring_Volume_1.jpg 2x" data-file-width="917" data-file-height="1385"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Return Of The Ring: Proceedings of the Tolkien Society Conference 2012</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Introduction by</th><td class="tg-infobox-data"><a href="../S/Shaun_Gunner.md" title="Shaun Gunner">Shaun Gunner</a></td></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Lynn Forest-Hill</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/9_June.md" title="9 June">9 June</a> <a href="../_/2016.md" title="2016">2016</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">276 (Volume 1)<br/>216 (Volume 2)</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/9781911143024" title="Special:BookSources/9781911143024">978-1-911143-02-4</a> (Volume 1)<br/><a href="https://tolkiengateway.net/wiki/Special:BookSources/9781911143031" title="Special:BookSources/9781911143031">978-1-911143-03-1</a> (Volume 2)</td></tr></tbody></table>
 
-<i><b>Sự trở lại của chiếc nhẫn: Kỷ yếu của Hội nghị Hiệp hội Tolkien 2012</b></i> là một cuốn sách hai tập chứa phần lớn tài liệu được trình bày tại hội nghị [Sự trở lại của chiếc nhẫn](The_Return_of_the_Ring.md) được tổ chức vào năm 2012.
+<i><b>Sự trở lại của chiếc nhẫn: Kỷ yếu của Hội nghị Hội Tolkien 2012</b></i> là một cuốn sách hai tập chứa phần lớn tài liệu được trình bày tại hội nghị [Sự trở lại của chiếc nhẫn](The_Return_of_the_Ring.md) được tổ chức vào năm 2012.
 
 ## Từ nhà xuất bản {#From_the_publisher}
 
@@ -54,39 +54,39 @@ infobox:
 
 **Tiểu sử**
 
-- "Tolkien's [Birmingham](../B/Birmingham.md)" của [Robert S. Blackham](../R/Robert_S._Blackham.md)
-- "[J.R.R. Tolkien](../J/J.R.R._Tolkien.md) 'người cha thứ hai' của Cha [Francis Morgan](../F/Francis_Morgan.md) và những người có ảnh hưởng phi kinh điển khác" của [José Manuel Ferrández Bru](../J/José_Manuel_Ferrández_Bru.md)
-- "Tolkien's [Oxford](../O/Oxford.md)" của [Robert S. Blackham](../R/Robert_S._Blackham.md)
-- "J.R.R. Tolkien và nguồn gốc của [Inklings](../I/Inklings.md)" của [Colin Duriez](../C/Colin_Duriez.md)
+- "Tolkien của [Birmingham](../B/Birmingham.md)" của [Robert S. Blackham](../R/Robert_S._Blackham.md)
+- "[J.R.R. Tolkien](../J/J.R.R._Tolkien.md)'người cha thứ hai' của Cha [Francis Morgan](../F/Francis_Morgan.md) và những người có ảnh hưởng phi kinh điển khác" của [José Manuel Ferrández Bru](../J/José_Manuel_Ferrández_Bru.md)
+- "Tolkien [Oxford](../O/Oxford.md)" của [Robert S. Blackham](../R/Robert_S._Blackham.md)
+- "J.R.R. Tolkien và nguồn gốc của [Inklings](../I/Inklings.md)" bởi [Colin Duriez](../C/Colin_Duriez.md)
 
 **Chiến tranh và những ảnh hưởng của nó**
 
 - "Robert Quilter Gilson, [T.C.B.S.](T.C.B.S..md): Cuộc đời ngắn ngủi qua những lá thư" của [John Garth](../J/John_Garth.md)
 - "Tolkien: Những năm chiến tranh" của [Robert S. Blackham](../R/Robert_S._Blackham.md)
-- "[Sauron](../S/Sauron.md) được tiết lộ" bởi LeiLani Hinds
+- "[Sauron](../S/Sauron.md) Tiết lộ" bởi LeiLani Hinds
 - "Làm sạch trái đất cho đến khi: Tầm nhìn chiến tranh của người Tolkien" của Anna E. Thayer (nhũ danh Slack)
-- "Tầm quan trọng của ngôi nhà trong truyền thuyết [Trung địa](../M/Middle-earth.md)" của Sara Brown
+- "Tầm quan trọng của ngôi nhà trong [Trung Địa](../M/Middle-earth.md) Legendarium" của Sara Brown
 
 **Triết học và đạo đức**
 
 - "Tolkien so với lịch sử triết học” – Franco Manni
-- "Boethius của Tolkien, Boethius của Alfred" của Gerard Hynes
+- "Tolkien's Boethius, Alfred's Boethius" của Gerard Hynes
 - "Dạy về khả năng lãnh đạo và đạo đức thông qua Tolkien" của Laura Miller-Purrenhage
 
 **Tôn giáo và những bất mãn của tôn giáo**
 
 - "Tolkien – Pagan hay Christian? Đề xuất một cách tiếp cận tổng hợp 'mới'" của Claudio A. Testi
-- "Một vị thánh ngày sau đọc Tolkien" của James D. Holt
-- "Phép thuật của Tolkien" của Ronald Hutton
+- "Bài đọc của Thánh Hữu Ngày Sau Tolkien" của James D. Holt
+- "Tolkien Phép thuật" của Ronald Hutton
 
 **Không gian thần thoại**
 
-- "Những thảm họa mang tính chu kỳ, những khuôn mẫu Semitic và những cải cách tôn giáo: [Númenor](../N/Númenor.md) của một nhà cổ điển" của Pamina Fernández Camacho
+- "Những thảm họa mang tính chu kỳ, khuôn mẫu Semitic và cải cách tôn giáo: [Númenor](../N/Númenor.md) của một người theo chủ nghĩa cổ điển" của Pamina Fernández Camacho
 - "Từ năm 2012 sau Công nguyên đến Atlantis và quay lại lần nữa – Hành trình vòng quanh thời gian của Tolkien" của Xavier de la Huerga
-- " [Bài viết của Câu lạc bộ Notion](../N/Notion_Club_Papers.md): Tóm tắt" của [David Doughan](../D/David_Doughan.md)
-- "Tạo ra huyền thoại: Cách J.R.R. Tolkien Chuyển thể Huyền thoại từ tiếng Anh cổ" của Zachary A. Rhone
-- "J.R.R. Tolkien Huyền thoại và làm quen với huyền thoại: Người Hobbit là người hòa giải huyền thoại trong *[The Hobbit](The_Hobbit.md)* và *[The Lord of the Rings](The_Lord_of_the_Rings.md)*" của Jyrki Korpua
-- "Kỵ sĩ da trắng và trật tự thế giới mới: Thiên nhiên và công nghệ trong Der Schimmelreiter của Theodor Storm và *The Lord of the Rings* của J.R.R. Tolkien" của Larissa Budde
+- " [Notion Club Các bài báo](../N/Notion_Club_Papers.md): Tóm tắt" của [David Doughan](../D/David_Doughan.md)
+- "Tạo ra huyền thoại: Cách J.R.R. Tolkien phỏng theo Thần thoại từ tiếng Anh cổ" của Zachary A. Rhone
+- "J.R.R. Tolkien Huyền thoại và làm quen với huyền thoại: Hobbit với tư cách là Người hòa giải huyền thoại trong *[The Hobbit](The_Hobbit.md)* và *[The Lord of the Rings](The_Lord_of_the_Rings.md)*" của Jyrki Korpua
+- "Kỵ sĩ da trắng và trật tự thế giới mới: Thiên nhiên và công nghệ trong Der Schimmelreiter của Theodor Storm và J.R.R. Tolkien *The Lord of the Rings*" của Larissa Budde
 
 ### Tập 2 {#Volume_2}
 
@@ -95,25 +95,25 @@ infobox:
 **Chủ nghĩa thời trung cổ**
 
 - "Những chuyển đổi mang phong cách Tolkienesque: Chủ nghĩa hậu Celtic và tính chiếm hữu trong '[The Lay of Aotrou và Itroun](The_Lay_of_Aotrou_and_Itroun.md)'" của Yoko Hemmi
-- "Thiết bị của Tolkien: Huy hiệu của Trung Địa" của Jamie McGregor
-- "Tolkien và Gothic" của Nick Groom
+Thiết bị của - "Tolkien: Huy hiệu của Trung Địa" của Jamie McGregor
+- "Tolkien và phong cách Gothic" của Nick Groom
 - "[Frodo](../F/Frodo_Baggins.md) và [Faramir](../F/Faramir.md): Tấm gương hiệp sĩ" của Constance G.J. Wagner
 
 **Giả tưởng**
 
-- "Một ánh sáng cũ được nhen nhóm: Ảnh hưởng của Tolkien đối với truyện giả tưởng" của Anna E. Thayer (nhũ danh Slack)
-- "'Trong ký ức của những người vợ xưa': Truyện cổ và truyện cổ tích ở Trung Địa" của Troels Forchhammer
+- "An Old Light Rekindled: Tolkien's Influence on Fantasy" của Anna E. Thayer (nhũ danh Slack)
+- "'Trong ký ức vợ xưa': Truyện cổ và truyện cổ tích trong Trung Địa" của Troels Forchhammer
 
 **Đa dạng**
 
-- "Tolkien và những điều vô nghĩa" của Maureen F. Mann
-- "Những ngôi sao phía trên bóng tối: Tolkien và chủ nghĩa lãng mạn" của Anna E. Thayer (nhũ danh Slack)
-- "Cách tiếp cận hiện đại của Ainulindale và Tolkien" của Reuven Naveh
+- "Tolkien và điều vô nghĩa" của Maureen F. Mann
+- "Những ngôi sao trên bóng tối: Tolkien và Chủ nghĩa lãng mạn" của Anna E. Thayer (nhũ danh Slack)
+- "Ainulindale và cách tiếp cận hiện đại của Tolkien" của Reuven Naveh
 - "Tolkien, người Nga và công nghiệp hóa" của Jim Clarke
 - "Rắc rối pháp lý: Luật và các vấn đề liên quan trong *[The Hobbit](The_Hobbit.md)*" của Murray Smith
-- "Vở kịch Faërian của Tolkien: Nguồn gốc và định giá" của [Janet Brennan Croft](../J/Janet_Brennan_Croft.md)
-- "Những người phụ nữ Trung Địa của Tolkien" của Chris Barclay
-- "Sắc màu trong Tolkien" của Christopher Kreuzer
+- "Tolkien Phim truyền hình Faërian: Nguồn gốc và định giá" của [Janet Brennan Croft](../J/Janet_Brennan_Croft.md)
+- "Tolkien những người phụ nữ của Trung Địa" của Chris Barclay
+- "Màu sắc Tolkien" của Christopher Kreuzer
 - "Ba mươi năm fandom Tolkien" của Nancy Martsch
 
 ## Xem thêm {#See_also}

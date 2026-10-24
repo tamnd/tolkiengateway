@@ -14,11 +14,11 @@ categories:
   - "Publications by title"
 ---
 
-**Parma Nölé** là tạp chí của [Hiệp hội Tolkien Đông Bắc](../N/North_East_Tolkien_Society.md). Ấn phẩm được phát hành trong bốn đến sáu số mỗi năm. Tạp chí được bao gồm trong tư cách thành viên của Hiệp hội với chi phí $30,00 USD một năm.
+**Parma Nölé** là tạp chí của [Hiệp hội phương Đông Tolkien phía Bắc](../N/North_East_Tolkien_Society.md). Ấn phẩm được phát hành trong bốn đến sáu số mỗi năm. Tạp chí được bao gồm trong tư cách thành viên của Hiệp hội với chi phí $30,00 USD một năm.
 
 ## Từ nguyên {#Etymology}
 
-Cái tên này dường như được tạo thành từ các từ [Quenya](../Q/Quenya.md) *[parma](Parma.md)* ("sách, văn bản, sáng tác, tài liệu viết có kích thước nào đó") và <i><a class="external text" href="https://eldamo.org/content/words/word-615208449.html" rel="noreferrer noopener" target="_blank">nólë</a></i> ("truyền thuyết, kiến ​​thức, nghiên cứu lâu dài"), mặc dù từ sau có dấu phụ đảo ngược.
+Tên này dường như bao gồm các từ [Quenya](../Q/Quenya.md) *[parma](Parma.md)* ("sách, văn bản, sáng tác, tài liệu viết có kích thước nào đó") và <i><a class="external text" href="https://eldamo.org/content/words/word-615208449.html" rel="noreferrer noopener" target="_blank">nólë</a></i> ("truyền thuyết, kiến ​​thức, nghiên cứu lâu dài"), mặc dù từ sau có dấu phụ bị đảo ngược.
 
 ## Xem thêm {#See_also}
 
@@ -26,4 +26,4 @@ Cái tên này dường như được tạo thành từ các từ [Quenya](../Q/
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://herenistarionnets.blogspot.com/" rel="noreferrer noopener" target="_blank">Trang web chính thức của Hiệp hội Tolkien Đông Bắc</a>
+- <a class="external text" href="http://herenistarionnets.blogspot.com/" rel="noreferrer noopener" target="_blank">Chính thức miền Bắc phương Đông Tolkien Trang web của Hội</a>

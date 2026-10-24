@@ -15,7 +15,7 @@ sort_keys:
   "Sindarin nouns": "Myl"
 ---
 
-<i><b>mŷl</b></i> là một từ [tiếng Sindarin](../S/Sindarin.md) có nghĩa là "[mòng biển](../G/Gulls.md)".<sup id="cite_ref-WJ_1-0" class="reference"><a href="#cite_note-WJ-1">[1]</a></sup>
+<i><b>mŷl</b></i> là một từ [Sindarin](../S/Sindarin.md) có nghĩa là "[mòng biển](../G/Gulls.md)".<sup id="cite_ref-WJ_1-0" class="reference"><a href="#cite_note-WJ-1">[1]</a></sup>
 
 ## Ví dụ {#Examples}
 

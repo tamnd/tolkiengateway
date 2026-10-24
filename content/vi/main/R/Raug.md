@@ -15,7 +15,7 @@ categories:
 
 <i><b>raug</b></i> hoặc <i><b>rog</b></i> là một từ [Sindarin](../S/Sindarin.md) có nghĩa là '[quỷ](../D/Demons.md)'.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-So sánh tên [Rog](Rog.md), một [Gnome](../G/Gnome.md)-lord ở Gondolin theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) ở *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.
+So sánh tên của [Rog](Rog.md), một [Gnome](../G/Gnome.md)-lord trong Gondolin theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.
 
 ## Từ nguyên {#Etymology}
 

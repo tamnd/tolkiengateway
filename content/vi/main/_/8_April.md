@@ -66,17 +66,17 @@ Sự kiện xảy ra ngày 8 tháng 4
 ## Trên Trái đất {#On_Earth}
 
 - **[1893](1893.md)** - [Vincent Trought](../V/Vincent_Trought.md), thành viên của [T.C.B.S.](../T/T.C.B.S..md), ra đời.
-- **[1932](1932.md)** - [C.S. Lewis](../C/C.S._Lewis.md) giới thiệu anh trai [Warren](../W/Warren_Lewis.md) trong thư để đọc bản dịch *[The Owl and the Nightingale](../T/The_Owl_and_the_Nightingale.md)* của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
+- **[1932](1932.md)** - [C.S. Lewis](../C/C.S._Lewis.md) giới thiệu anh trai mình [Warren](../W/Warren_Lewis.md) trong một lá thư để đọc bản dịch *[The Owl and the Nightingale](../T/The_Owl_and_the_Nightingale.md)* của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 - **[1944](1944.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 59a](../L/Letter_59a.md).
 - **[1956](1956.md)** - Diễn viên lồng tiếng [Jim Piddock](../J/Jim_Piddock.md) ra đời.
 - **[1958](1958.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết Thư [206](../L/Letter_206.md) và [207](../L/Letter_207.md).
 - **[1966](1966.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 285](../L/Letter_285.md).
-- **[1966](1966.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một bức thư cho Roger Verhulst](<../L/Letter_to_Roger_Verhulst_(8_April_1966).md>).
+- **[1966](1966.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một lá thư cho Roger Verhulst](<../L/Letter_to_Roger_Verhulst_(8_April_1966).md>).
 - **[1969](1969.md)** - Diễn viên [Ian Hughes](../I/Ian_Hughes.md) ra đời.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [2510](../T/Third_Age_2510.md):
-    - [Eorl the Young](../E/Eorl.md) và [Éothéod](Éothéod.md) đi tới [Field of Celebrant](../F/Field_of_Celebrant.md).
+    - [Eorl the Young](../E/Eorl.md) và [Éothéod](Éothéod.md) di chuyển về phía [Trường Celebrant](../F/Field_of_Celebrant.md).
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - Những [Những người mang nhẫn](../R/Ring-bearers.md) [Samwise](../S/Samwise_Gamgee.md) và [Frodo](../F/Frodo_Baggins.md) được vinh danh trên [Cánh đồng Cormallen](../F/Field_of_Cormallen.md).
+    - Những [Người mang nhẫn](../R/Ring-bearers.md) [Samwise](../S/Samwise_Gamgee.md) và [Frodo](../F/Frodo_Baggins.md) được vinh danh trên [Cánh đồng Cormallen](../F/Field_of_Cormallen.md).

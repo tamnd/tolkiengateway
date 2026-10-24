@@ -43,7 +43,7 @@ infobox:
   <tr><th scope="row" class="tg-infobox-label">Subject(s)</th><td class="tg-infobox-data">Non-legendarium poetry</td></tr>
 </tbody></table>
 
-<i><b>The Dale-lands</b></i><sup id="cite_ref-chronology_1-0" class="reference"><a href="#cite_note-chronology-1">[1]</a></sup> là một bài thơ được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) vào tháng 5 năm 1910 khi ông vẫn còn học tại Trường King Edward ở Birmingham.<sup id="cite_ref-chronology1910_2-0" class="reference"><a href="#cite_note-chronology1910-2">[2]</a></sup>
+<i><b>Vùng đất Dale</b></i><sup id="cite_ref-chronology_1-0" class="reference"><a href="#cite_note-chronology-1">[1]</a></sup> là một bài thơ được [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết vào tháng 5 năm 1910 khi ông còn ở King Edward's School ở Birmingham.<sup id="cite_ref-chronology1910_2-0" class="reference"><a href="#cite_note-chronology1910-2">[2]</a></sup>
 
 ## Trích đoạn thơ {#Poem_excerpt}
 
@@ -57,13 +57,13 @@ infobox:
 
 ## Nền {#Background}
 
-Vào tháng 5 năm 1910,<sup id="cite_ref-chronology1910_2-1" class="reference"><a href="#cite_note-chronology1910-2">[2]</a></sup> Tolkien viết phiên bản đầu tiên của bài thơ.<sup id="cite_ref-chronology1910_2-2" class="reference"><a href="#cite_note-chronology1910-2">[2]</a></sup> Ban đầu ông đặt tên nó là <i><b>Mùa xuân</b></i>, nhưng ngay sau đó đổi thành <i><b>Deep in the Vales</b></i> trước khi dự định đổi nó thành <i><b>The Dales Đất</b></i><sup id="cite_ref-chronology1910_2-3" class="reference"><a href="#cite_note-chronology1910-2">[2]</a></sup> hoặc <i><b>Đất thung lũng</b></i>.<sup id="cite_ref-collectedpoems_3-1" class="reference"><a href="#cite_note-collectedpoems-3">[3]</a></sup>
+Vào tháng 5 năm 1910,<sup id="cite_ref-chronology1910_2-1" class="reference"><a href="#cite_note-chronology1910-2">[2]</a></sup> Tolkien viết phiên bản đầu tiên của bài thơ.<sup id="cite_ref-chronology1910_2-2" class="reference"><a href="#cite_note-chronology1910-2">[2]</a></sup> Ban đầu ông đặt tên là <i><b>Mùa xuân</b></i>, nhưng ngay sau đó đổi thành <i><b>Deep in the Vales</b></i> trước khi dự định đổi thành <i><b>The Dale Đất</b></i><sup id="cite_ref-chronology1910_2-3" class="reference"><a href="#cite_note-chronology1910-2">[2]</a></sup> hoặc <i><b>Đất thung lũng</b></i>.<sup id="cite_ref-collectedpoems_3-1" class="reference"><a href="#cite_note-collectedpoems-3">[3]</a></sup>
 
 Đầu năm 1914, Tolkien viết lại bài thơ *[Wood-sunshine](../W/Wood-sunshine.md)* trên một bản thảo có phiên bản *The Dale Lands*.<sup id="cite_ref-collectedpoems_3-2" class="reference"><a href="#cite_note-collectedpoems-3">[3]</a></sup>
 
-Vào ngày 18 tháng 5 cùng năm,<sup id="cite_ref-chronology1914_4-0" class="reference"><a href="#cite_note-chronology1914-4">[4]</a></sup> Tolkien viết lại *The Dale Lands*,<sup id="cite_ref-chronology1914_4-1" class="reference"><a href="#cite_note-chronology1914-4">[4]</a></sup> đổi tên thành *The Dale-lands*.<sup id="cite_ref-chronology1914_4-2" class="reference"><a href="#cite_note-chronology1914-4">[4]</a></sup> Sau đó, Tolkien đã làm hai bản thảo gần như giống hệt nhau của bài thơ, thêm các từ [tiếng Anh cổ](../O/Old_English.md) <i><b>On néolum dalum'</b></i> ("In deep Dales") làm tiêu đề cho cả hai. Tolkien cuối cùng đã tạo ra một bản đánh máy chuyên nghiệp cho bài thơ, ghi "1907?" Rất lâu sau đó, có thể anh đã nhớ nhầm thời điểm viết bài thơ.<sup id="cite_ref-collectedpoems_3-3" class="reference"><a href="#cite_note-collectedpoems-3">[3]</a></sup>
+Ngày 18 tháng 5 cùng năm,<sup id="cite_ref-chronology1914_4-0" class="reference"><a href="#cite_note-chronology1914-4">[4]</a></sup> Tolkien viết lại *The Dale Lands*,<sup id="cite_ref-chronology1914_4-1" class="reference"><a href="#cite_note-chronology1914-4">[4]</a></sup> đổi tên thành *The Dale-lands*.<sup id="cite_ref-chronology1914_4-2" class="reference"><a href="#cite_note-chronology1914-4">[4]</a></sup> Sau đó, Tolkien làm hai bản thảo gần như giống hệt bài thơ, thêm [tiếng Anh cổ](../O/Old_English.md) chữ <i><b>On néolum dalum’</b></i> ("In deep Dales") làm tiêu đề cho cả hai. Tolkien cuối cùng đã tạo ra một bản đánh máy chuyên nghiệp cho bài thơ, ghi "1907?" Rất lâu sau đó, có thể anh đã nhớ nhầm thời điểm viết bài thơ.<sup id="cite_ref-collectedpoems_3-3" class="reference"><a href="#cite_note-collectedpoems-3">[3]</a></sup>
 
-Tháng 9 năm 2024, bài thơ được xuất bản lần đầu tiên dưới dạng mục 2 trong *[The Collected Poems of J.R.R. Tolkien](The_Collected_Poems_of_J.R.R._Tolkien.md)* cùng với phiên bản sớm nhất.<sup id="cite_ref-collectedpoems_3-4" class="reference"><a href="#cite_note-collectedpoems-3">[3]</a></sup>
+Vào tháng Chín năm 2024, bài thơ được xuất bản lần đầu tiên dưới dạng mục 2 trong *[The Collected Poems of J.R.R. Tolkien](The_Collected_Poems_of_J.R.R._Tolkien.md)* cùng với phiên bản sớm nhất.<sup id="cite_ref-collectedpoems_3-4" class="reference"><a href="#cite_note-collectedpoems-3">[3]</a></sup>
 
 <span></span>
 

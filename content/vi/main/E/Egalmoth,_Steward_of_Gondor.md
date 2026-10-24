@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Egalmoth (Steward of Gondor)"
 ---
 
-Chuyển hướng đến [Egalmoth (Người quản lý Gondor)](<Egalmoth_(Steward_of_Gondor).md>).
+Chuyển hướng tới [Egalmoth (Người quản lý của Gondor)](<Egalmoth_(Steward_of_Gondor).md>).

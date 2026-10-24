@@ -13,7 +13,7 @@ categories:
   - "Quenya adjectives"
 ---
 
-<i><b>sanya</b></i> cũng <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Vorosanya&amp;action=edit&amp;redlink=1" title="Vorosanya (page does not exist)">vorosanya</a></i> trong [Quenya](../Q/Quenya.md) có nghĩa là "thường xuyên, tuân thủ pháp luật, bình thường" .
+<i><b>sanya</b></i> còn <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Vorosanya&amp;action=edit&amp;redlink=1" title="Vorosanya (page does not exist)">vorosanya</a></i> trong [Quenya](../Q/Quenya.md) có nghĩa là "thường xuyên, tuân thủ pháp luật, bình thường" .
 
 ## Từ nguyên {#Etymology}
 

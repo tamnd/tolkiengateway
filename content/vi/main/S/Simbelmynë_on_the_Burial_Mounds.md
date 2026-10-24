@@ -44,7 +44,7 @@ infobox:
 
 ## Tóm tắt {#Synopsis}
 
-Khi ngôi mộ của [Théodred](../T/Théodred.md) bị phong ấn, vô số bông hoa nhỏ màu trắng — [simbelmynë](Simbelmynë.md) — mọc ở đó. [Théoden](../T/Théoden.md) nhận xét rằng những bông hoa phủ trên mộ của tổ tiên ông giờ đây phủ lên mộ của con trai ông. Ông ta than thở rằng mình nên cai trị [Rohan](../R/Rohan.md) trong thời kỳ đen tối. [Gandalf](../G/Gandalf.md) an ủi anh khi anh đang vượt qua nỗi đau buồn.
+Khi ngôi mộ của [Théodred](../T/Théodred.md) bị phong ấn, vô số bông hoa nhỏ màu trắng — [simbelmynë](Simbelmynë.md) — mọc ở đó. [Théoden](../T/Théoden.md) nhận xét rằng những bông hoa phủ trên mộ tổ tiên của ông giờ đây phủ lên mộ của con trai ông. Ông ta than thở rằng mình nên cai trị [Rohan](../R/Rohan.md) trong thời kỳ đen tối. [Gandalf](../G/Gandalf.md) an ủi anh khi anh đang chìm trong đau buồn.
 
 <blockquote class="tg-quote noexcerpt">
 <p>No parent should have to bury their child.
@@ -52,4 +52,4 @@ Khi ngôi mộ của [Théodred](../T/Théodred.md) bị phong ấn, vô số b�
 <p class="tg-quote-footer"><cite>Théoden</cite></p>
 </blockquote>
 
-Khi Gandalf rời Théoden để than khóc trong sự riêng tư, anh nhìn thấy một con ngựa đang tiến đến, chở hai đứa trẻ.
+Khi Gandalf rời đi Théoden để than khóc trong chốn riêng tư, anh nhìn thấy một con ngựa đang tiến đến, chở theo hai đứa trẻ.

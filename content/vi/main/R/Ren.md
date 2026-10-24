@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Eighth of the Nazgûl"
 ---
 
-Chuyển hướng đến [Thứ tám của Nazgûl](../E/Eighth_of_the_Nazgûl.md).
+Chuyển hướng đến [Thứ tám trong số Nazgûl](../E/Eighth_of_the_Nazgûl.md).

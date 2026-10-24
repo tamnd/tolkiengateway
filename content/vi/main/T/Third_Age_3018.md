@@ -16,14 +16,14 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><a href="../F/First_Age.md" title="First Age">I</a><a href="../S/Second_Age.md" title="Second Age">II</a><b>III</b><a href="../F/Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="Third_Age_3015.md" title="Third Age 3015">3015</a><a href="Third_Age_3016.md" title="Third Age 3016">3016</a><a href="Third_Age_3017.md" title="Third Age 3017">3017</a><a class="mw-selflink selflink">3018</a><a href="Third_Age_3019.md" title="Third Age 3019">3019</a><a href="Third_Age_3020.md" title="Third Age 3020">3020</a><a href="Third_Age_3021.md" title="Third Age 3021">3021</a></div></div></div></div></div></div>
 
-**Kỷ thứ ba 3018** (viết tắt là **T.A. 3018**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 3018 của [Kỷ thứ ba](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Kỷ nguyên thứ ba 3018 còn được gọi là **S.R. 1418** trong [Tính toán quận](../S/Shire-reckoning.md).
+**Kỷ Đệ Tam 3018** (viết tắt là **T.A. 3018**) là năm [thứ 3018 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Tam](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Kỷ Đệ Tam 3018 còn được gọi là **S.R. 1418** trong [lịch Shire](../S/Shire-reckoning.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 ## Tháng 4 {#April}
 
-- **12** - [Gandalf](../G/Gandalf.md) đến [Hobbiton](../H/Hobbiton.md).<sup id="cite_ref-AppB3_1-0" class="reference"><a href="#cite_note-AppB3-1">[1]</a></sup>
-- **13** - [Gandalf](../G/Gandalf.md) tiết lộ với [Frodo](../F/Frodo_Baggins.md) rằng chiếc nhẫn của Bilbo là [Chiếc nhẫn duy nhất](The_One_Ring.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- **12** - [Gandalf](../G/Gandalf.md) đạt [Hobbiton](../H/Hobbiton.md).<sup id="cite_ref-AppB3_1-0" class="reference"><a href="#cite_note-AppB3-1">[1]</a></sup>
+- **13** - [Gandalf](../G/Gandalf.md) tiết lộ cho [Frodo](../F/Frodo_Baggins.md) rằng chiếc nhẫn của Bilbo là [Chiếc Nhẫn Một](The_One_Ring.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Tháng 5 {#May}
 
@@ -33,23 +33,23 @@ Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 - **19** - [Boromir](../B/Boromir.md) và [Faramir](../F/Faramir.md) nhận được [câu đố](../S/Seek_for_the_Sword_that_was_broken.md) trong giấc ngủ.
 - **20** - [Sauron](../S/Sauron.md) [tấn công](../S/Sauron's_attack_on_Osgiliath.md) [Osgiliath](../O/Osgiliath.md). Cùng lúc đó [Thranduil](Thranduil.md) bị tấn công và [Gollum](../G/Gollum.md) trốn thoát.<sup id="cite_ref-AppB3_1-1" class="reference"><a href="#cite_note-AppB3-1">[1]</a></sup>
-- Những kẻ chạy trốn từ miền Nam đến được [Eriador](../E/Eriador.md). Tại biên giới phía nam của [Southfarthing](../S/Southfarthing.md) Gandalf nhận được tin tức về chiến tranh và thất bại cũng như [Bóng đen](../B/Black_Shadow.md). Ông ta bắt đầu lang thang không mục đích rồi quay về phía đông và phía bắc.<sup id="cite_ref-council_4-0" class="reference"><a href="#cite_note-council-4">[4]</a></sup>
+- Kẻ trốn chạy từ miền Nam đến [Eriador](../E/Eriador.md). Tại biên giới phía nam của [Southfarthing](../S/Southfarthing.md) Gandalf nhận được tin tức về chiến tranh và thất bại và [Đen Bóng Tối](../B/Black_Shadow.md). Ông ta bắt đầu lang thang không mục đích rồi quay về phía đông và phía bắc.<sup id="cite_ref-council_4-0" class="reference"><a href="#cite_note-council-4">[4]</a></sup>
 
 <h2><span id="Midyear.27s_Day"></span><span class="mw-headline" id="Midyear&#39;s_Day">Midyear&#39;s Day</span></h2>
 
-- Dọc theo [Greenway](../G/Greenway.md) [Gandalf](../G/Gandalf.md) tìm thấy [Radagast](../R/Radagast.md) với tin tức từ [Saruman](../S/Saruman.md) rằng [Nazgûl](../N/Nazgûl.md) đã vượt qua [Anduin](../A/Anduin.md) và tìm kiếm [Shire](The_Shire.md). Gandalf đến [Bree](../B/Bree.md) và để lại [một lá thư](../G/Gandalf's_letter.md) cho [Frodo](../F/Frodo_Baggins.md) cùng với [Barliman Butterbur](../B/Barliman_Butterbur.md).<sup id="cite_ref-Strid_3-1" class="reference"><a href="#cite_note-Strid-3">[3]</a></sup><sup id="cite_ref-council_4-1" class="reference"><a href="#cite_note-council-4">[4]</a></sup>
+- Dọc theo [Greenway](../G/Greenway.md) [Gandalf](../G/Gandalf.md) tìm thấy [Radagast](../R/Radagast.md) với tin tức từ [Saruman](../S/Saruman.md) rằng [Nazgûl](../N/Nazgûl.md) đã vượt qua [Anduin](../A/Anduin.md) và tìm kiếm [ Shire](The_Shire.md). Gandalf đi đến [Bree](../B/Bree.md) và để lại [một lá thư](../G/Gandalf's_letter.md) cho [Frodo](../F/Frodo_Baggins.md) với [Barliman Butterbur](../B/Barliman_Butterbur.md).<sup id="cite_ref-Strid_3-1" class="reference"><a href="#cite_note-Strid-3">[3]</a></sup><sup id="cite_ref-council_4-1" class="reference"><a href="#cite_note-council-4">[4]</a></sup>
 
 ## Tháng 7 {#July}
 
-- **1** - Vào lúc bình minh, Gandalf rời Bree để đến [Isengard](../I/Isengard.md).<sup id="cite_ref-council_4-2" class="reference"><a href="#cite_note-council-4">[4]</a></sup> Các [Kỵ sĩ áo đen](../N/Nazgûl.md) lên đường tìm kiếm [Chiếc nhẫn duy nhất](The_One_Ring.md). Họ đi về phía bắc băng qua [The Wold](The_Wold.md)
-- **4** - [Boromir](../B/Boromir.md) khởi hành từ [Minas Tirith](../M/Minas_Tirith.md).<sup id="cite_ref-AppB3_1-2" class="reference"><a href="#cite_note-AppB3-1">[1]</a></sup>
+- **1** - Vào lúc bình minh Gandalf khởi hành Bree đi [Isengard](../I/Isengard.md).<sup id="cite_ref-council_4-2" class="reference"><a href="#cite_note-council-4">[4]</a></sup> [Kỵ sĩ Đen](../N/Nazgûl.md) lên đường tìm kiếm [Chiếc Nhẫn Chúa](The_One_Ring.md). Chúng đi về hướng bắc qua [ Wold](The_Wold.md)
+- **4** - [Boromir](../B/Boromir.md) xuất phát từ [Minas Tirith](../M/Minas_Tirith.md).<sup id="cite_ref-AppB3_1-2" class="reference"><a href="#cite_note-AppB3-1">[1]</a></sup>
 - **10** - [Gandalf](../G/Gandalf.md) bị giam ở [Orthanc](../O/Orthanc.md).<sup id="cite_ref-AppB3_1-3" class="reference"><a href="#cite_note-AppB3-1">[1]</a></sup>
 
 ## Tháng 8 {#August}
 
-- Tất cả dấu vết của [Gollum](../G/Gollum.md) đều bị mất. Người ta cho rằng vào khoảng thời gian này, khi bị săn đuổi bởi cả những người hầu của [Yêu tinh](../E/Elves.md) và [Sauron](../S/Sauron.md), ông ta đã ẩn náu ở [Moria](../M/Moria.md); nhưng cuối cùng khi tìm ra đường tới [cửa Tây](../W/West-gate.md) thì ông ta không thể ra ngoài được.<sup id="cite_ref-AppB3_1-4" class="reference"><a href="#cite_note-AppB3-1">[1]</a></sup>
+- Tất cả dấu vết của [Gollum](../G/Gollum.md) đều bị mất. Người ta cho rằng vào khoảng thời gian này, bị truy lùng bởi cả người hầu của [Tiên tộc](../E/Elves.md) và [Sauron](../S/Sauron.md), ông ta đã ẩn náu ở [Moria](../M/Moria.md); nhưng cuối cùng khi tìm ra đường tới [Phương Tây cổng](../W/West-gate.md) thì ông ta không thể thoát ra được.<sup id="cite_ref-AppB3_1-4" class="reference"><a href="#cite_note-AppB3-1">[1]</a></sup>
 
-## Tháng 9 {#September}
+## tháng Chín {#September}
 
 - Không tìm thấy Quận, các Kỵ sĩ Đen trở về [Wold](../W/Wold.md) tay trắng; sứ giả từ Sauron gửi họ tới [Isengard](../I/Isengard.md).
 - Frodo lo lắng về việc không nhận được tin tức gì từ Gandalf khi ngày sinh nhật của ông đến gần. Một số người bạn của ông, [Folco Boffin](../F/Folco_Boffin.md), [Fredegar Bolger](../F/Fredegar_Bolger.md), [Merry Brandybuck](../M/Merry_Brandybuck.md) và [Pippin Took](../P/Pippin_Took.md) ở lại [Bag End](../B/Bag_End.md) và giúp ông đóng gói hành lý để di chuyển đến [Crickhollow](../C/Crickhollow.md).<sup id="cite_ref-FR|Three_5-0" class="reference"><a href="#cite_note-FR|Three-5">[5]</a></sup>
@@ -69,26 +69,26 @@ Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 ## Tháng 10 {#October}
 
-- **1** - [Gandalf](../G/Gandalf.md) rời [Bree](../B/Bree.md).<sup id="cite_ref-AppB3_1-17" class="reference"><a href="#cite_note-AppB3-1">[1]</a></sup>
+- **1** - [Gandalf](../G/Gandalf.md) lá [Bree](../B/Bree.md).<sup id="cite_ref-AppB3_1-17" class="reference"><a href="#cite_note-AppB3-1">[1]</a></sup>
 - **3** - Ông ta bị tấn công vào ban đêm trên [Weathertop](../W/Weathertop.md).<sup id="cite_ref-AppB3_1-18" class="reference"><a href="#cite_note-AppB3-1">[1]</a></sup> [Frodo](../F/Frodo_Baggins.md) ở [Đầm lầy Midwater](../M/Midgewater_Marshes.md) nhìn thấy những tia sáng từ trận chiến.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
-- **4** - [Gandalf](../G/Gandalf.md) trốn thoát về phía bắc từ [Weathertop](../W/Weathertop.md), theo sau là bốn [Kỵ sĩ](../N/Nazgûl.md).<sup id="cite_ref-council_4-3" class="reference"><a href="#cite_note-council-4">[4]</a></sup>
-- **6** - Trại dưới [Weathertop](../W/Weathertop.md) tấn công vào ban đêm; [Vua phù thủy](../W/Witch-king.md) đâm [Frodo](../F/Frodo_Baggins.md) bằng [Morgul-blade](../M/Morgul-blade.md) của mình, gây ra [vết thương Morgul](../M/Morgul-wound.md).<sup id="cite_ref-AppB3_1-19" class="reference"><a href="#cite_note-AppB3-1">[1]</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
-- **9** - [Glorfindel](../G/Glorfindel.md) rời [Rivendell](../R/Rivendell.md).<sup id="cite_ref-AppB3_1-20" class="reference"><a href="#cite_note-AppB3-1">[1]</a></sup>
-- **11** - Ông ta lái [Các tay đua](../N/Nazgûl.md) ra khỏi [Cây cầu cuối cùng](../L/Last_Bridge.md) của [Mitheithel](../M/Mitheithel.md)<sup id="cite_ref-AppB3_1-21" class="reference"><a href="#cite_note-AppB3-1">[1]</a></sup> và để lại một viên beryl làm dấu hiệu rằng nó an toàn.<sup id="cite_ref-council_4-4" class="reference"><a href="#cite_note-council-4">[4]</a></sup>
-- **13** - Aragorn và các hobbit tìm thấy nó và băng qua Cầu.<sup id="cite_ref-AppB3_1-22" class="reference"><a href="#cite_note-AppB3-1">[1]</a></sup>
-- **18** - [Glorfindel](../G/Glorfindel.md) tìm thấy [Frodo](../F/Frodo_Baggins.md) vào lúc hoàng hôn. [Gandalf](../G/Gandalf.md) tới [Rivendell](../R/Rivendell.md).<sup id="cite_ref-AppB3_1-23" class="reference"><a href="#cite_note-AppB3-1">[1]</a></sup>
-- **20** - Thoát qua [Ford of Bruinen](../F/Ford_of_Bruinen.md).<sup id="cite_ref-AppB3_1-24" class="reference"><a href="#cite_note-AppB3-1">[1]</a></sup> [Elrond](../E/Elrond.md) và [Gandalf](../G/Gandalf.md) thả một trận lũ nhấn chìm ngựa của các Kỵ sĩ.<sup id="cite_ref-council_4-5" class="reference"><a href="#cite_note-council-4">[4]</a></sup>
+- **4** - [Gandalf](../G/Gandalf.md) trốn về phía bắc từ [Weathertop](../W/Weathertop.md), theo sau là bốn [Kỵ sĩ](../N/Nazgûl.md).<sup id="cite_ref-council_4-3" class="reference"><a href="#cite_note-council-4">[4]</a></sup>
+- **6** - Trại dưới [Weathertop](../W/Weathertop.md) tấn công vào ban đêm; [Vua Phù thủy](../W/Witch-king.md) đâm [Frodo](../F/Frodo_Baggins.md) bằng [Morgul-blade](../M/Morgul-blade.md) của mình, gây ra [vết thương Morgul](../M/Morgul-wound.md).<sup id="cite_ref-AppB3_1-19" class="reference"><a href="#cite_note-AppB3-1">[1]</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
+- **9** - [Glorfindel](../G/Glorfindel.md) lá [Rivendell](../R/Rivendell.md).<sup id="cite_ref-AppB3_1-20" class="reference"><a href="#cite_note-AppB3-1">[1]</a></sup>
+- **11** - Ông ta lái [Các tay đua](../N/Nazgûl.md) ra khỏi [Cây Cầu Cuối Cùng](../L/Last_Bridge.md) của [Mitheithel](../M/Mitheithel.md)<sup id="cite_ref-AppB3_1-21" class="reference"><a href="#cite_note-AppB3-1">[1]</a></sup> và để lại một viên beryl làm dấu hiệu rằng nó an toàn.<sup id="cite_ref-council_4-4" class="reference"><a href="#cite_note-council-4">[4]</a></sup>
+- **13** - Aragorn và những người hobbit tìm thấy nó và băng qua Cầu.<sup id="cite_ref-AppB3_1-22" class="reference"><a href="#cite_note-AppB3-1">[1]</a></sup>
+- **18** - [Glorfindel](../G/Glorfindel.md) tìm thấy [Frodo](../F/Frodo_Baggins.md) vào lúc hoàng hôn. [Gandalf](../G/Gandalf.md) đạt [Rivendell](../R/Rivendell.md).<sup id="cite_ref-AppB3_1-23" class="reference"><a href="#cite_note-AppB3-1">[1]</a></sup>
+- **20** - Thoát qua [Ford of Bruinen](../F/Ford_of_Bruinen.md).<sup id="cite_ref-AppB3_1-24" class="reference"><a href="#cite_note-AppB3-1">[1]</a></sup> [Elrond](../E/Elrond.md) và [Gandalf](../G/Gandalf.md) xả lũ làm chết ngựa của các Kỵ sĩ.<sup id="cite_ref-council_4-5" class="reference"><a href="#cite_note-council-4">[4]</a></sup>
 - **24** - [Frodo](../F/Frodo_Baggins.md) hồi phục và tỉnh dậy. [Boromir](../B/Boromir.md) đến [Rivendell](../R/Rivendell.md) vào ban đêm.<sup id="cite_ref-AppB3_1-25" class="reference"><a href="#cite_note-AppB3-1">[1]</a></sup>
 - **25** - [Hội đồng Elrond](../C/Council_of_Elrond.md).<sup id="cite_ref-AppB3_1-26" class="reference"><a href="#cite_note-AppB3-1">[1]</a></sup>
 
 ## Tháng 12 {#December}
 
-- **18** - Tư cách thành viên của [Công ty Nhẫn](../F/Fellowship_of_the_Ring.md) được chọn.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>
-- **25** - [Công ty của Nhẫn](../F/Fellowship_of_the_Ring.md) rời [Rivendell](../R/Rivendell.md) vào lúc hoàng hôn.<sup id="cite_ref-AppB3_1-27" class="reference"><a href="#cite_note-AppB3-1">[1]</a></sup>
+- **18** - Tư cách thành viên của [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) đã được chọn.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>
+- **25** - Chiếc [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) rời đi [Rivendell](../R/Rivendell.md) lúc chạng vạng.<sup id="cite_ref-AppB3_1-27" class="reference"><a href="#cite_note-AppB3-1">[1]</a></sup>
 
 ## Trong năm {#Within_the_year}
 
-- [Bilbo Baggins](../B/Bilbo_Baggins.md) hoàn thành tác phẩm [Bản dịch từ Tiên](Translations_from_the_Elvish.md) của mình.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>
+- [Bilbo Baggins](../B/Bilbo_Baggins.md) hoàn thành công việc [Bản dịch từ Elvish](Translations_from_the_Elvish.md) của mình.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>
 
 <span></span>
 

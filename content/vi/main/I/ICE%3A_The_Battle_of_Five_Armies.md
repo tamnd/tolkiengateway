@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Battle of Five Armies (1984 board game)"
 ---
 
-Chuyển hướng tới [Trận chiến của năm cánh quân (trò chơi board game năm 1984)](<../T/The_Battle_of_Five_Armies_(1984_board_game).md>).
+Chuyển hướng tới [Trò chơi Trận chiến Năm Đạo quân (trò chơi cờ bàn năm 1984)](<../T/The_Battle_of_Five_Armies_(1984_board_game).md>).

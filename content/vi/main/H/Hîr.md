@@ -17,7 +17,7 @@ sort_keys:
   "Sindarin nouns": "Hir"
 ---
 
-<i><b>hîr</b></i> là từ [tiếng Sindarin](../S/Sindarin.md) có nghĩa là "[chúa](../L/Lord.md), chủ nhân".<sup id="cite_ref-L_1-0" class="reference"><a href="#cite_note-L-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+<i><b>hîr</b></i> là một từ [Sindarin](../S/Sindarin.md) có nghĩa là "[chúa](../L/Lord.md), chủ nhân".<sup id="cite_ref-L_1-0" class="reference"><a href="#cite_note-L-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

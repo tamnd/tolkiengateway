@@ -28,31 +28,31 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Merp_logo.png.md"><img src="https://tolkiengateway.net/w/images/thumb/d/db/Merp_logo.png/320px-Merp_logo.png" decoding="async" loading="lazy" width="320" height="84" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/d/db/Merp_logo.png 1.5x" data-file-width="459" data-file-height="120"/></a><figcaption>2nd edition logotype</figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Roleplaying game</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Middle-earth Role Playing</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Designer</th><td class="tg-infobox-data"><a href="../C/Coleman_Charlton.md" title="Coleman Charlton">Coleman Charlton</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../I/Iron_Crown_Enterprises.md" title="Iron Crown Enterprises">Iron Crown Enterprises</a></td></tr><tr><th scope="row" class="tg-infobox-label">Release date</th><td class="tg-infobox-data">1984</td></tr></tbody></table>
 
-**Nhập vai ở Middle-earth** (MERP) là một tập hợp con của các quy tắc trò chơi nhập vai Rolemaster được đặt trong [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) [Middle-earth](Middle-earth.md) của [Iron Crown Enterprises](../I/Iron_Crown_Enterprises.md).
+**Middle-earth Role Playing** (MERP) là một tập hợp con của các quy tắc trò chơi nhập vai Rolemaster được đặt trong [Trung Địa](Middle-earth.md) của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và được xuất bản bởi [Vương miện Sắt Enterprises](../I/Iron_Crown_Enterprises.md).
 
 ## Mô tả {#Description}
 
 <figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Middle-earth_Role_Playing_(2nd_edition,_hardcover).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/d0/Middle-earth_Role_Playing_%282nd_edition%2C_hardcover%29.jpg/300px-Middle-earth_Role_Playing_%282nd_edition%2C_hardcover%29.jpg" decoding="async" loading="lazy" width="300" height="400" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/d/d0/Middle-earth_Role_Playing_%282nd_edition%2C_hardcover%29.jpg 1.5x" data-file-width="354" data-file-height="472"/></a><figcaption>Cover of <a class="mw-redirect" href="Middle-earth_Role_Playing_(2nd_edition,_hardcover).md" title="Middle-earth Role Playing (2nd edition, hardcover)"><i>MERP</i>, 2nd ed.</a></figcaption></figure>
 
-Hệ thống này hơi giống [Dungeons & Dragons](../D/Dungeons_and_Dragons.md) với các lớp và cấp độ nhân vật. Các lớp có sẵn bao gồm Animist (Cleric), Bard, Mage, Ranger, Scout (Thief) và Warrior (Fighter). Hệ thống bắt đầu có hệ thống ma thuật và chiến đấu rất chi tiết.
+Hệ thống này hơi giống [Dungeon & Rồng](../D/Dungeons_and_Dragons.md) với các lớp và cấp độ nhân vật. Các lớp có sẵn bao gồm Animist (Cleric), Bard, Mage, Ranger, Scout (Thief) và Warrior (Fighter). Hệ thống bắt đầu có hệ thống ma thuật và chiến đấu rất chi tiết.
 
 Trong hệ thống trò chơi MERP, các thuộc tính được xếp hạng từ 0 đến 100 và các kỹ năng có thể vượt qua các giới hạn này (dưới 0 hoặc trên 100). Một cuộn tấn công sẽ bao gồm một cuộn phần trăm + xếp hạng kỹ năng + xếp hạng thuộc tính - xếp hạng né tránh của mục tiêu. Kết quả này được tra cứu trên bàn so với loại áo giáp (da/tấm) của nạn nhân. Hầu hết các đòn đánh trong chiến đấu sẽ gây ra 'nghiêm trọng', điểm này sẽ được cuộn và tra cứu trên các bảng riêng biệt. Đối với một số người, những lời phê bình này khá thú vị do tính đa dạng và sáng tạo của chúng, nhưng đối với những người khác, nhiệm vụ cộng trừ các số cao rồi tra bảng là đỉnh cao của trò chơi cuộn chứ không phải nhập vai.
 
 Người sử dụng phép thuật có lợi thế duy nhất trong MERP là họ học được danh sách 10 phép thuật (1 phép thuật mỗi cấp độ) dưới dạng một đơn vị. Khi một nhân vật học được danh sách Chữa bệnh, ông ta sẽ có thể sử dụng các phép thuật chữa bệnh ngày càng tốt hơn khi cấp độ của ông ta tăng lên.
 
-Bối cảnh của trò chơi này có trước [War of the Ring](../W/War_of_the_Ring.md) khoảng 1400 năm (phần lớn các mô-đun được lấy bối cảnh vào những năm sau [Đại dịch](../G/Great_Plague.md), khoảng [Thời đại thứ ba](../T/Third_Age.md) 1640) và do đó, nó thể hiện một phiên bản của [Trung địa](Middle-earth.md) khác với phiên bản được thấy trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* hoặc *[The Hobbit](../T/The_Hobbit.md)*.
+Cài đặt cho trò chơi này có trước [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md) khoảng 1400 năm (phần lớn các mô-đun được đặt vào những năm sau [Đại Dịch](../G/Great_Plague.md), khoảng [Kỷ Đệ Tam](../T/Third_Age.md) 1640) và do đó, nó thể hiện một phiên bản [Trung Địa](Middle-earth.md) khác với phiên bản được thấy trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* hoặc *[The Hobbit](../T/The_Hobbit.md)*.
 
 ### Tiểu cảnh kim loại {#Metal_miniatures}
 
-Ba công ty khác nhau đã ban hành số liệu được ủy quyền để sử dụng với MERP. Năm 1985, cả [Mô hình Grenadier](../G/Grenadier_Models_Inc..md) và [Thành cổ thu nhỏ](../C/Citadel_Miniatures.md) đều phát hành dòng sản phẩm *Lord of the Rings Middle Earth* tương ứng của mình. Năm 1987, giấy phép được chuyển cho [Mithril Miniatures](Mithril_Miniatures.md), công ty vẫn sản xuất các tác phẩm thu nhỏ bằng kim loại của Trung Địa (mặc dù các số liệu sau[ICE](../I/Iron_Crown_Enterprises.md) không liên quan đến MERP).
+Ba công ty khác nhau đã ban hành số liệu được ủy quyền để sử dụng với MERP. Năm 1985, cả [Mô hình Grenadier](../G/Grenadier_Models_Inc..md) và [Thành cổ thu nhỏ](../C/Citadel_Miniatures.md) đều phát hành dòng sản phẩm *Lord of the Rings Middle Earth* tương ứng của mình. Năm 1987, giấy phép được chuyển cho [Mithril Miniatures](Mithril_Miniatures.md), công ty vẫn sản xuất Trung Địa tác phẩm thu nhỏ bằng kim loại (mặc dù các số liệu sau[ICE](../I/Iron_Crown_Enterprises.md) không liên quan đến MERP).
 
 ## Ấn phẩm {#Publications}
 
 - *(Year) Stock# Title*
 
-### Dòng Trung Địa {#Middle-earth_Series}
+### Trung Địa Loạt {#Middle-earth_Series}
 
-Trước khi trở thành hệ thống của riêng mình, loạt game Middle-earth là các phần bổ sung của Rolemaster thường được tiếp thị dưới dạng bất khả tri về hệ thống.
+Trước khi trở thành hệ thống của riêng mình, dòng Trung Địa là các phần bổ sung của Rolemaster thường được tiếp thị dưới dạng bất khả tri về hệ thống.
 
 - (1982) 2100 *[An Artist's Interpretation of Middle Earth](../A/An_Artist's_Interpretation_of_Middle_Earth.md)*
 - (1982) 2200 *[A Campaign and Adventure Guidebook for Middle-earth](../A/A_Campaign_and_Adventure_Guidebook_for_Middle-earth.md)*
@@ -126,7 +126,7 @@ Với việc phát hành bộ quy tắc thích hợp vào năm 1984, loạt bài
 - (1989) 8111 *[Denizens of the Dark Wood](../D/Denizens_of_the_Dark_Wood.md)*
 - (1990) 3111 *[Greater Harad](../G/Greater_Harad.md)*
 - (1990) 3112 *[Gorgoroth](<../G/Gorgoroth_(book).md>)*
-- (1990) 4000 <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Northwestern_Middle-earth_Campaign_Atlas&amp;action=edit&amp;redlink=1" title="Northwestern Middle-earth Campaign Atlas (page does not exist)">Atlas Chiến dịch Trung Địa Tây Bắc</a></i> (Công báo & Bản đồ kết hợp)
+- (1990) 4000 <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Northwestern_Middle-earth_Campaign_Atlas&amp;action=edit&amp;redlink=1" title="Northwestern Middle-earth Campaign Atlas (page does not exist)">Tây Bắc Trung Địa Atlas Chiến dịch</a></i> (Công báo & Bản đồ kết hợp)
 - (1990) 8007 *[Angus McBride's Characters of Middle-earth](../A/Angus_McBride's_Characters_of_Middle-earth.md)*
 - (1990) 8014 *[Rogues of the Borderlands](../R/Rogues_of_the_Borderlands.md)*
 - (1990) 8016 *[Ghost Warriors](../G/Ghost_Warriors.md)*
@@ -198,7 +198,7 @@ MERP có lượng người theo dõi trung thành và mạnh mẽ, điều này 
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="extiw" href="http://en.wikipedia.org/wiki/Middle-earth_Role_Playing" title="wikipedia:Middle-earth Role Playing">Nhập vai Trung Địa</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
+- <a class="extiw" href="http://en.wikipedia.org/wiki/Middle-earth_Role_Playing" title="wikipedia:Middle-earth Role Playing">Middle-earth Role Playing</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
 - <a class="external text" href="http://www.merp.com" rel="noreferrer noopener" target="_blank">MERP.com (trang web do người hâm mộ điều hành)</a>
 - <a class="external text" href="http://homepage.mac.com/guyf/MERP/PrintingEditionReference.html" rel="noreferrer noopener" target="_blank">Tham khảo về in ấn và ấn bản cho MERP</a>
 

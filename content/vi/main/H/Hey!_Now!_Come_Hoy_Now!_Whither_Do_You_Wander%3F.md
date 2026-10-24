@@ -13,7 +13,7 @@ categories:
   - "Songs"
 ---
 
-**Này! Hiện nay! Hãy đến ngay bây giờ! Bạn lang thang ở đâu?** là một trong những bài hát được hát bởi [Tom Bombadil](../T/Tom_Bombadil.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Này! Hiện nay! Hãy đến ngay bây giờ! Bạn lang thang ở đâu?** là một trong những bài hát được thể hiện bởi [Tom Bombadil](../T/Tom_Bombadil.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Bài thơ {#The_poem}
 

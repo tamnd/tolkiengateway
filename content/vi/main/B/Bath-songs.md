@@ -29,13 +29,13 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Ted_Nasmith_-_Bathing_at_Crickhollow.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/1/14/Ted_Nasmith_-_Bathing_at_Crickhollow.jpg/250px-Ted_Nasmith_-_Bathing_at_Crickhollow.jpg" decoding="async" loading="lazy" width="250" height="230" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/14/Ted_Nasmith_-_Bathing_at_Crickhollow.jpg/375px-Ted_Nasmith_-_Bathing_at_Crickhollow.jpg 1.5x, https://tolkiengateway.net/w/images/1/14/Ted_Nasmith_-_Bathing_at_Crickhollow.jpg 2x" data-file-width="450" data-file-height="414"/></a><figcaption>&#34;Bathing at Crickhollow&#34; by <a href="../T/Ted_Nasmith.md" title="Ted Nasmith">Ted Nasmith</a></figcaption></figure>
 
-**Bài hát tắm** là một loại bài hát ngắn mà [Hobbit](../H/Hobbits.md) hát khi tắm.<sup id="cite_ref-bath_1-0" class="reference"><a href="#cite_note-bath-1">[1]</a></sup>
+**Bài hát tắm** là một loại bài hát ngắn [Hobbit](../H/Hobbits.md) được hát khi tắm.<sup id="cite_ref-bath_1-0" class="reference"><a href="#cite_note-bath-1">[1]</a></sup>
 
 ## Lịch sử {#History}
 
 [Bilbo Baggins](Bilbo_Baggins.md) đã dạy [Frodo Baggins](../F/Frodo_Baggins.md) lời bài hát tắm yêu thích của ông trong một lần họ đi dạo trên các con đường của [Thung lũng nước](../W/Water-valley.md).<sup id="cite_ref-bath_1-1" class="reference"><a href="#cite_note-bath-1">[1]</a></sup>
 
-Bài hát tắm này được hát bởi [Peregrin Took](../P/Peregrin_Took.md) ở [Crickhollow](../C/Crickhollow.md) khi ông, Frodo và [Samwise Gamgee](../S/Samwise_Gamgee.md) đang tắm sau chuyến hành trình dài từ [Hobbiton](../H/Hobbiton.md).<sup id="cite_ref-bath_1-2" class="reference"><a href="#cite_note-bath-1">[1]</a></sup>
+Bài hát tắm này được [Peregrin Took](../P/Peregrin_Took.md) hát trong [Crickhollow](../C/Crickhollow.md) khi ông, Frodo và [Samwise Gamgee](../S/Samwise_Gamgee.md) đang tắm sau chuyến hành trình dài từ [Hobbiton](../H/Hobbiton.md).<sup id="cite_ref-bath_1-2" class="reference"><a href="#cite_note-bath-1">[1]</a></sup>
 
 ## Lời bài hát {#Lyrics}
 
@@ -66,7 +66,7 @@ as splashing Hot Water with my feet!
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2001: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">Chúa tể của những chiếc nhẫn: Hiệp hội những chiếc nhẫn</a></i> (<a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(extended_edition).md" title="The Lord of the Rings: The Fellowship of the Ring (extended edition)">Phiên bản mở rộng</a>)</b>
+<b>2001: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i> (<a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(extended_edition).md" title="The Lord of the Rings: The Fellowship of the Ring (extended edition)">Phiên bản mở rộng</a>)</b>
 
 <dl><dd><b></b></dd>
 <dd>In the scene &#34;<a href="../A/At_the_Green_Dragon.md" title="At the Green Dragon">At the Green Dragon</a>&#34;, <a href="../M/Meriadoc_Brandybuck.md" title="Meriadoc Brandybuck">Merry</a>, <a href="../P/Peregrin_Took.md" title="Peregrin Took">Pippin</a>, and <a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo</a> sing a song closely resembling <i><a href="../H/Ho!_Ho!_Ho!_To_the_Bottle_I_Go.md" title="Ho! Ho! Ho! To the Bottle I Go">Ho! Ho! Ho! To the Bottle I Go</a></i>, with slightly altered lyrics that incorporate a small part of <i>Sing Hey! For the Bath at Close of Day</i>:</dd></dl>

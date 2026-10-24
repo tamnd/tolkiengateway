@@ -15,7 +15,7 @@ categories:
 
 **Eques** (pl.*equessi*) là [Quenyan](../Q/Quenya.md) cho 'nói', 'dictum', 'quotation'.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-<i><a class="new" href="https://tolkiengateway.net/w/index.php?title=I_Equessi_R%C3%BAmilo&amp;action=edit&amp;redlink=1" title="I Equessi Rúmilo (page does not exist)">I Equessi Rúmilo</a></i>, "Những câu nói của Rúmil", là câu chuyện cổ xưa của Tirion được truyền miệng.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+<i><a class="new" href="https://tolkiengateway.net/w/index.php?title=I_Equessi_R%C3%BAmilo&amp;action=edit&amp;redlink=1" title="I Equessi Rúmilo (page does not exist)">I Equessi Rúmilo</a></i>, "Những câu nói của Rúmil", là câu chuyện cổ xưa về Tirion được truyền miệng.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 *Eques* cũng là động từ <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Equ%C3%AB&amp;action=edit&amp;redlink=1" title="Equë (page does not exist)">equë</a></i> (được sử dụng chủ yếu ngay trước một đại từ độc lập hoặc sau liên từ 'that') có thêm một phụ tố vào nó, tạo nên ý nghĩa *said he, said someone*. Cấu trúc này thường được sử dụng khi tường thuật một cuộc đối thoại.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Barahir (grandson of Faramir)"
 ---
 
-Chuyển hướng tới [Barahir (cháu trai của Faramir)](<Barahir_(grandson_of_Faramir).md>).
+Chuyển hướng đến [Barahir (cháu của Faramir)](<Barahir_(grandson_of_Faramir).md>).

@@ -74,17 +74,17 @@ Sự kiện xảy ra vào ngày 6 tháng 8
 - **[1995](1995.md)** - [Mythcon 26](../M/Mythcon_26.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Berkeley,_California" title="wikipedia:Berkeley, California">Berkeley</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/California" title="wikipedia:California">California</a>.
 - **[2001](2001.md)** - [Mythcon 32](../M/Mythcon_32.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Berkeley,_California" title="wikipedia:Berkeley, California">Berkeley</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/California" title="wikipedia:California">California</a>.
 - **[2002](2002.md)** - *[The Lord of the Rings: The Fellowship of the Ring](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)* được phát hành dưới dạng DVD và VHS.
-- **[2005](2005.md)** - <a class="external text" href="http://omentielva.com/" rel="noreferrer noopener" target="_blank">Omentielva Minya</a> - Hội nghị quốc tế lần thứ nhất về các ngôn ngữ được phát minh của [Tolkien](../J/J.R.R._Tolkien.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Stockholm" title="wikipedia:Stockholm">Stockholm</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Sweden" title="wikipedia:Sweden">Thụy Điển</a>.
+- **[2005](2005.md)** - <a class="external text" href="http://omentielva.com/" rel="noreferrer noopener" target="_blank">Omentielva Minya</a> - Hội nghị quốc tế lần thứ 1 về các ngôn ngữ được phát minh của [Tolkien](../J/J.R.R._Tolkien.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Stockholm" title="wikipedia:Stockholm">Stockholm</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Sweden" title="wikipedia:Sweden">Thụy Điển</a>.
 - **[2006](2006.md)** - [Mythcon 37](../M/Mythcon_37.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Oklahoma" title="wikipedia:University of Oklahoma">Đại học Oklahoma</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Norman,_Oklahoma" title="wikipedia:Norman, Oklahoma">Norman</a>.
 - **[2007](2007.md)** - [Mythcon 38](../M/Mythcon_38.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Berkeley,_California" title="wikipedia:Berkeley, California">Berkeley</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/California" title="wikipedia:California">California</a>.
 - **[2009](2009.md)** - <a class="external text" href="http://omentielva.com/" rel="noreferrer noopener" target="_blank">Omentielva Nelya</a> - Hội nghị quốc tế lần thứ 3 về các ngôn ngữ được phát minh của [Tolkien](../J/J.R.R._Tolkien.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Whitehaven" title="wikipedia:Whitehaven">Whitehaven</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/England" title="wikipedia:England">Anh</a>.
 - **[2012](2012.md)** - [Mythcon 43](../M/Mythcon_43.md) tại Đại học California, <a class="extiw" href="http://en.wikipedia.org/wiki/Berkeley,_California" title="wikipedia:Berkeley, California">Berkeley</a>.
-- **[2015](2015.md)** - [Omentielva Enquea](../O/Omentielva.md) - Hội nghị quốc tế lần thứ sáu về [Các ngôn ngữ được phát minh của Tolkien](../J/J.R.R._Tolkien.md) tại [Bảo tàng Greisinger](../G/Greisinger_Museum.md), Thụy Sĩ.
+- **[2015](2015.md)** - [Omentielva Enquea](../O/Omentielva.md) - Hội nghị quốc tế lần thứ sáu về các ngôn ngữ được phát minh của [Tolkien](../J/J.R.R._Tolkien.md) tại [Bảo tàng Greisinger](../G/Greisinger_Museum.md), Thụy Sĩ.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Gandalf](../G/Gandalf.md) bị [Saruman](../S/Saruman.md) giam giữ trên đỉnh [Orthanc](../O/Orthanc.md).
+    - [Gandalf](../G/Gandalf.md) bị giam giữ bởi [Saruman](../S/Saruman.md) trên đỉnh của [Orthanc](../O/Orthanc.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - Đoàn tang lễ của vua [Théoden](../T/Théoden.md) đi về hướng [Edoras](../E/Edoras.md).
+    - Đoàn rước tang lễ của vua [Théoden](../T/Théoden.md) đi về hướng [Edoras](../E/Edoras.md).

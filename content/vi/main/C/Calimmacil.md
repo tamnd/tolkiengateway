@@ -46,15 +46,15 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../G/Gondorians.md" title="Gondorians">Gondorian</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Calimmacil</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Pronunciation</th><td class="tg-infobox-data"><a href="../Q/Quenya.md" title="Quenya">Q</a>, <span title="Pronunciation in IPA" class="IPA">[kaˈlimːakil]</span></td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data"><a href="../W/Westron.md" title="Westron">Westron</a></td></tr><tr><th scope="row" class="tg-infobox-label">Birth</th><td class="tg-infobox-data">Mid-18th C. <a href="../T/Third_Age.md" title="Third Age">Third Age</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">House</th><td class="tg-infobox-data"><a href="../H/House_of_Anárion.md" title="House of Anárion">House of Anárion</a></td></tr><tr><th scope="row" class="tg-infobox-label">Parentage</th><td class="tg-infobox-data"><a href="../A/Arciryas.md" title="Arciryas">Arciryas</a></td></tr><tr><th scope="row" class="tg-infobox-label">Children</th><td class="tg-infobox-data"><a href="../S/Siriondil_(son_of_Calimmacil).md" title="Siriondil (son of Calimmacil)">Siriondil</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr></tbody></table>
 
-**Calimmacil** là một quý tộc [Gondorian](../G/Gondorians.md).
+**Calimmacil** là một nhà quý tộc [Gondor](../G/Gondorians.md).
 
 ## Lịch sử {#History}
 
-Calimmacil là con trai của [Arciryas](../A/Arciryas.md), và do đó là cháu trai của [Narmacil II](../N/Narmacil_II.md) ([T.A.](../T/Third_Age.md) [1684](../T/Third_Age_1684.md)-[1856](../T/Third_Age_1856.md)), [Vua của Gondor](../K/Kings_of_Gondor.md) thứ 29.
+Calimmacil là con trai của [Arciryas](../A/Arciryas.md), và do đó là cháu trai của [Narmacil II](../N/Narmacil_II.md) ([T.A.](../T/Third_Age.md) [1684](../T/Third_Age_1684.md)-[1856](../T/Third_Age_1856.md)), thứ 29 [Vua Gondor](../K/Kings_of_Gondor.md).
 
 Calimmacil có một con trai, [Siriondil](<../S/Siriondil_(son_of_Calimmacil).md>) và một cháu trai, [Eärnil](../E/Eärnil_II.md).
 
-Không có thông tin gì về cuộc đời của Calimmacil, người đã đi vào lịch sử vì sau khi Vua [Ondoher](../O/Ondoher.md) và các con trai của ông bị giết trong trận chiến, cháu trai ông là Eärnil đã được chọn để kế vị ngai vàng của Ondoher.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Không có thông tin gì về cuộc đời của Calimmacil, người đã đi vào lịch sử vì sau khi Vua [Ondoher](../O/Ondoher.md) và các con trai của ông bị giết trong trận chiến, cháu trai của ông Eärnil đã được chọn để kế vị ngai vàng Ondoher.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

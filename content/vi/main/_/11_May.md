@@ -66,10 +66,10 @@ Sự kiện xảy ra vào ngày 11 tháng 5
 
 ## Trên Trái đất {#On_Earth}
 
-- <b><a href="1922.md" title="1922">1922</a> - <i><a href="../A/A_Middle_English_Vocabulary.md" title="A Middle English Vocabulary">Từ vựng tiếng Anh trung cổ</a></i>, <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">Cuốn sách đầu tiên của Tolkien</a>, được xuất bản.</b>
+- <b><a href="1922.md" title="1922">1922</a> - <i><a href="../A/A_Middle_English_Vocabulary.md" title="A Middle English Vocabulary">Từ vựng tiếng Anh trung cổ</a></i>, cuốn sách đầu tiên của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">Tolkien</a>, được xuất bản.</b>
 - **[1931](1931.md)** - Nghệ sĩ [Angus McBride](../A/Angus_McBride.md) ra đời.
 - **[1944](1944.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 67](../L/Letter_67.md).
-- <b><a href="1980.md" title="1980">1980</a> - Bộ phim hoạt hình <i><a href="../T/The_Return_of_the_King_(1980_film).md" title="The Return of the King (1980 film)">Sự Trở Lại Của Nhà Vua</a></i> được công chiếu lần đầu tại Mỹ.</b>
+- <b><a href="1980.md" title="1980">1980</a> - Bộ phim hoạt hình <i><a href="../T/The_Return_of_the_King_(1980_film).md" title="The Return of the King (1980 film)">The Return of the King</a></i> được phát sóng lần đầu tiên tại Mỹ.</b>
 - **[1997](1997.md)** - Ngày cuối cùng của [Bree Moot 3](../B/Bree_Moot_3.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Minneapolis" title="wikipedia:Minneapolis">Minneapolis</a>.
 - **[2001](2001.md)** - *[Kinder Surprise](../K/Kinder_Surprise.md)* bắt đầu chương trình khuyến mãi *Lord of the Rings* tại Đức.
 

@@ -26,9 +26,9 @@ images:
 
 <figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/N/NewZealandinTFOTR.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/7c/NewZealandinTFOTR.jpg/250px-NewZealandinTFOTR.jpg" decoding="async" loading="lazy" width="250" height="186" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/7c/NewZealandinTFOTR.jpg/375px-NewZealandinTFOTR.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/7/7c/NewZealandinTFOTR.jpg/500px-NewZealandinTFOTR.jpg 2x" data-file-width="693" data-file-height="515"/></a><figcaption>New Zealand primary filming locations for the <a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring"><i>Fellowship of the Ring</i></a></figcaption></figure>
 
-**New Zealand là Trung địa** là một loạt phim tài liệu tương tác, xuất hiện trên [phiên bản mở rộng của *The Fellowship of the Ring*](<../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(extended_edition).md>), [*The Two Towers*](<../T/The_Lord_of_the_Rings%253A_The_Two_Towers_(extended_edition).md>) và [*The Return of the King*](<../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_(extended_edition).md>). Nó chiếu cảnh quay của một số địa điểm quay phim.
+**New Zealand as Trung Địa** là một loạt phim tài liệu tương tác, xuất hiện trên [các phiên bản mở rộng của *The Fellowship of the Ring*](<../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(extended_edition).md>), [*The Two Towers*](<../T/The_Lord_of_the_Rings%253A_The_Two_Towers_(extended_edition).md>) và [*The Return of the King*](<../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_(extended_edition).md>). Nó chiếu cảnh quay của một số địa điểm quay phim.
 
-## [Hiệp hội nhẫn](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md) {#The_Fellowship_of_the_Ring}
+## [The Fellowship of the Ring](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md) {#The_Fellowship_of_the_Ring}
 
 ### [Hobbiton](../H/Hobbiton.md) {#Hobbiton}
 
@@ -38,13 +38,13 @@ images:
 - **Rừng Otaki Totara**
 - **Wellington**
 
-### [Thời tiết](../W/Weathertop.md) {#Weathertop}
+### [Weathertop](../W/Weathertop.md) {#Weathertop}
 
-- **Cổng Wikato**. Ở vị trí đồi núi đó không có gì được xây dựng. Đoàn làm phim của Peter Jackson đã giữ nguyên ngọn đồi và sử dụng nó cho các cảnh nền bên ngoài cũng như cho cảnh rỗng, nơi Aragorn và những người Hobbit cắm trại qua đêm.<b></b>
+- **Cổng Wikato**. Ở vị trí đồi núi đó không có gì được xây dựng. Đoàn làm phim của Peter Jackson đã giữ nguyên ngọn đồi và sử dụng nó cho các cảnh nền bên ngoài cũng như cho cảnh rỗng, nơi Aragorn và Hobbit cắm trại qua đêm.<b></b>
 - **Te Anau**
-- **Wellington**. Về cuộc chiến với cảnh [Nazgûl](Nazgûl.md), được quay tại studio.
+- **Wellington**. Về cảnh đánh nhau với cảnh [Nazgûl](Nazgûl.md), được quay tại studio.
 
-### [Ford Bruinen](../F/Ford_of_Bruinen.md) {#Ford_of_Bruinen}
+### [Ford of Bruinen](../F/Ford_of_Bruinen.md) {#Ford_of_Bruinen}
 
 - **Arrowtown**
 - **Tarras, Wanaka**
@@ -56,8 +56,8 @@ images:
 
 ### [Lothlórien](../L/Lothlórien.md) {#Lothlórien}
 
-- **Thiên đường, Glenorchy**. Đã quay cảnh The Fellowship tiến vào Lothlórien.
-- **Fernside, Featherston**. Ở khu vực này, người ta quay cảnh rời khỏi Lothlórien do có cây cối đầy màu sắc và dòng sông tuyệt đẹp.
+- **Thiên đường, Glenorchy**. Đã quay cảnh The Fellowship bước vào Lothlórien.
+- **Fernside, Featherston**. Ở khu vực này được quay cảnh xuất phát Lothlórien do có cây cối đầy màu sắc và dòng sông tuyệt đẹp.
 
 ### Sông [Anduin](../A/Anduin.md) {#River_Anduin}
 
@@ -76,11 +76,11 @@ nơi cảnh Argonath được quay
 
 Nơi diễn ra cuộc chiến chống lại [Uruk-hai](../U/Uruk-hai.md) và cái chết của [Boromir](../B/Boromir.md)
 
-- **Hồ Wakatipu, Queenstown**, nơi tàn tích Amon Hen được xây dựng và sử dụng cho một số cảnh
+- **Hồ Wakatipu, Queenstown**, Nơi tàn tích Amon Hen được xây dựng và sử dụng cho một số cảnh
 
-## Hai tòa tháp {#The_Two_Towers}
+## The Two Towers {#The_Two_Towers}
 
-## Sự trở lại của nhà vua {#The_Return_of_the_King}
+## The Return of the King {#The_Return_of_the_King}
 
 ## Tài liệu tham khảo {#References}
 

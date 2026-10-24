@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Creatures of Middle-earth"
 ---
 
-Chuyển hướng đến [Sinh vật ở Trung địa](../C/Creatures_of_Middle-earth.md).
+Chuyển hướng tới [Sinh vật Trung Địa](../C/Creatures_of_Middle-earth.md).

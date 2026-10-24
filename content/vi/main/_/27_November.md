@@ -70,14 +70,14 @@ Sự kiện xảy ra vào ngày 27 tháng 11
 - **[1914](1914.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đọc *[The Voyage of Eärendel the Evening Star](../T/The_Voyage_of_Eärendel_the_Evening_Star.md)* tại một cuộc họp ít người tham dự của Câu lạc bộ Tiểu luận của [Exeter College](../O/Oxford_University.md).
 - **[1914](1914.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 2](../L/Letter_2.md).
 - **[1954](1954.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 157](../L/Letter_157.md).
-- **[1977](1977.md)** - [Phiên bản hoạt hình năm 1977](<../T/The_Hobbit_(1977_film).md>) của *[The Hobbit](../T/The_Hobbit.md)* được phát sóng tại Hoa Kỳ.
-- **[1993](1993.md)** - Magyar Tolkien Tarsasag, [Hiệp hội Tolkien](../T/Tolkien_Societies~67099.md) của Hungary, được thành lập.
+- **[1977](1977.md)** - Phiên bản hoạt hình [1977](<../T/The_Hobbit_(1977_film).md>) của *[The Hobbit](../T/The_Hobbit.md)* được phát sóng tại Hoa Kỳ.
+- **[1993](1993.md)** - Magyar Tolkien Tarsasag, Hiệp hội [Tolkien Hungary](../T/Tolkien_Societies~67099.md) của Hungary, được thành lập.
 - **[1996](1996.md)** - Nữ diễn viên [Alexandra Astin](../A/Alexandra_Astin.md) ra đời.
-- **[2001](2001.md)** - *[Music Inspired by Middle Earth](../M/Music_Inspired_by_Middle_Earth.md)*, một album nhạc kịch có sự góp mặt của nhiều nghệ sĩ, trong đó có [David Arkenstone](../D/David_Arkenstone.md), được phát hành.
+- **[2001](2001.md)** - *[Music Inspired by Middle Earth](../M/Music_Inspired_by_Middle_Earth.md)*, album nhạc kịch có sự góp mặt của nhiều nghệ sĩ, trong đó có [David Arkenstone](../D/David_Arkenstone.md), được phát hành.
 - **[2006](2006.md)** - Diễn viên [Anthony Jackson](../A/Anthony_Jackson.md) qua đời.
 - **[2012](2012.md)** - *[The Hobbits: The Many Lives of Bilbo, Frodo, Sam, Merry and Pippin](../T/The_Hobbits.md)* được xuất bản.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi tại [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).
+    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi ở [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).

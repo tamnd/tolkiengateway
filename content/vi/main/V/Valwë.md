@@ -33,13 +33,13 @@ infobox:
 
 ## Lịch sử {#History}
 
-Valwë theo chân [Vala](Valar.md) [Noldorin](../S/Salmar.md#Other_versions_of_the_legendarium) quay trở lại [Great Lands](../G/Great_Lands.md) sau [Sự sụp đổ của Gondolin](../F/Fall_of_Gondolin.md) để giải phóng những [Gnomes](../G/Gnomes.md) sống ở đó dưới sự thống trị của [Melko](../M/Melko.md). Tuy nhiên, cả Noldorin và Valwë đều bị áp đảo trong [Trận Tasarinan](../B/Battle_of_Tasarinan.md).<sup id="cite_ref-Valw_1-1" class="reference"><a href="#cite_note-Valw-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Valwë theo chân [Vala](Valar.md) [Noldorin](../S/Salmar.md#Other_versions_of_the_legendarium) quay trở lại [Great Lands](../G/Great_Lands.md) sau [Sự sụp đổ của Gondolin](../F/Fall_of_Gondolin.md) để giải phóng [Gnomes](../G/Gnomes.md) những người sống ở đó dưới sự thống trị của [Melko](../M/Melko.md). Tuy nhiên, cả Noldorin và Valwë đều bị áp đảo trong [Trận Tasarinan](../B/Battle_of_Tasarinan.md).<sup id="cite_ref-Valw_1-1" class="reference"><a href="#cite_note-Valw-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 Rõ ràng là ông đã sống sót sau trận chiến, vì sau đó Lindo con trai ông đã đề cập rằng ông đã định cư ở [Tol Eressëa](../T/Tol_Eressëa.md) cùng với những nhân vật khác như [Tulkastor](../T/Tulkastor.md) (cha của [Vairë](<Vairë_(wife_of_Lindo).md>)) và [Ingil](../I/Ingwion.md#Other_versions_of_the_legendarium) (con trai của [Inwë](../I/Ingwë.md#Other_versions_of_the_legendarium)).<sup id="cite_ref-Valw_1-2" class="reference"><a href="#cite_note-Valw-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Tên *Valwë* ở [Qenya](../Q/Qenya.md). Tương đương [Gnomish](../G/Gnomish.md) của nó là <i><b>Gwalweg</b></i>. [Patrick H. Wynne](../P/Patrick_H._Wynne.md) đã gợi ý rằng cả hai dường như đều có nghĩa là "người hạnh phúc (hoặc may mắn)".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Tên *Valwë* nằm trong [Qenya](../Q/Qenya.md). Tương đương [Gnomish](../G/Gnomish.md) của nó là <i><b>Gwalweg</b></i>. [Patrick H. Wynne](../P/Patrick_H._Wynne.md) đã gợi ý rằng cả hai đều có nghĩa là "người hạnh phúc (hoặc may mắn)".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 Ban đầu tên của nhân vật là *Manwë*, mặc dù theo [Christopher Tolkien](../C/Christopher_Tolkien.md) thì đó có thể chỉ là sự nhầm lẫn của cha ông.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 

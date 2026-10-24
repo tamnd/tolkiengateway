@@ -47,15 +47,15 @@ infobox:
 <p class="tg-quote-footer"><cite><a href="../P/Peregrin_Took.md" title="Peregrin Took">Peregrin Took</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Đầm lầy Midwater**, một vùng đầm lầy có nhiều ruồi ở trung tâm [Eriador](../E/Eriador.md), là một đầm lầy nằm giữa [Chetwood](../C/Chetwood.md) ở phía tây và [Weather Hills](../W/Weather_Hills.md) ở phía đông.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> [Đường Đông](../E/East_Road.md) nằm ở phía nam của đầm lầy.
+**Đầm lầy Midwater**, một vùng đầm lầy có nhiều ruồi ở miền trung [Eriador](../E/Eriador.md), là một đầm lầy nằm giữa [Chetwood](../C/Chetwood.md) về phía tây và [Weather Hills](../W/Weather_Hills.md) ở phía đông.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Đường [phương Đông](../E/East_Road.md) nằm ở phía nam của đầm lầy.
 
-Vào ngày 2 tháng 10 năm 3018 [Strider](<../S/Strider_(Aragorn).md>) dẫn những người bạn đồng hành [hobbit](../H/Hobbits.md) của mình vào đầm lầy vào ngày thứ ba họ rời khỏi Bree. Sau hai ngày đêm trong đầm lầy, rõ ràng là tại sao không có cư dân nào ở đó. Vùng đất lầy lội và nguy hiểm không có con đường cố định. Các vũng nước, lau sậy và cói tràn ngập khu vực là nơi sinh sống của các loài chim, ruồi, muỗi vằn nhỏ bé và côn trùng ồn ào như dế mà [Samwise Gamgee](../S/Samwise_Gamgee.md) gọi là *[Neekerbreekers](../N/Neekerbreekers.md)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Vào ngày 2 tháng 10 năm 3018 [Strider](<../S/Strider_(Aragorn).md>) dẫn những người bạn đồng hành [hobbit](../H/Hobbits.md) của mình vào đầm lầy vào ngày thứ ba họ xuất phát từ Bree. Sau hai ngày đêm trong đầm lầy, rõ ràng là tại sao không có cư dân nào ở đó. Vùng đất lầy lội và nguy hiểm không có con đường cố định. Các vũng nước, lau sậy và cói tràn ngập khu vực vốn là nơi sinh sống của các loài chim, ruồi, muỗi vằn nhỏ bé và côn trùng kêu to như dế mà [Samwise Gamgee](../S/Samwise_Gamgee.md) gọi là *[Neekerbreekers](../N/Neekerbreekers.md)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
 Đầm lầy Midgewater được đặt theo tên của loài côn trùng nhỏ, giống muỗi gọi là muỗi vằn sống ở đó.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-[J.R.R. Tolkien](../J/J.R.R._Tolkien.md) cho biết tên *Midgewater Marshes* là bản dịch từ tiếng Iceland *Mývatn* (xuất hiện trong <i><a class="extiw" href="http://en.wikipedia.org/wiki/Hrafnkels_Saga" title="wikipedia:Hrafnkels Saga">Hrafnkels Saga</a></i>).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> <span></span>
+[J.R.R. Tolkien](../J/J.R.R._Tolkien.md) tuyên bố rằng tên *Midgewater Marshes* là bản dịch từ tiếng Iceland *Mývatn* (xuất hiện trong <i><a class="extiw" href="http://en.wikipedia.org/wiki/Hrafnkels_Saga" title="wikipedia:Hrafnkels Saga">Hrafnkels Saga</a></i>).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

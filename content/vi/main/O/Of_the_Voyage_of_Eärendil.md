@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Of the Voyage of Eärendil and the War of Wrath"
 ---
 
-Chuyển hướng đến [Chuyến du hành của Eärendil và Cuộc chiến thịnh nộ](Of_the_Voyage_of_Eärendil_and_the_War_of_Wrath.md).
+Chuyển hướng đến [Chuyến hành trình Eärendil và Cuộc chiến thịnh nộ](Of_the_Voyage_of_Eärendil_and_the_War_of_Wrath.md).

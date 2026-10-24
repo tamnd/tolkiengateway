@@ -27,37 +27,37 @@ images:
 <p class="tg-quote-footer"><cite><a href="../G/Gollum.md" title="Gollum">Gollum</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Những khuôn mặt chết**, còn được gọi là **Những ngọn nến xác chết**<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> hoặc **những ngọn nến của xác chết**, là hiện thân của những khuôn mặt [ma quái](../G/Ghosts.md) của các chiến binh [Yêu tinh](../E/Elves.md), [Người đàn ông](../M/Men.md) và [Orcish](../O/Orcs.md) đã chết trong [Mere of Những khuôn mặt chết](../M/Mere_of_Dead_Faces.md) ở [Đầm lầy chết](Dead_Marshes.md). Những khuôn mặt thối rữa và vặn vẹo, với cỏ dại vướng vào tóc, xuất hiện trong làn nước tối, được chiếu sáng bởi ánh sáng nhợt nhạt và rơi xuống, như từ những ngọn nến vô hình.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Những khuôn mặt chết**, còn được gọi là **Những ngọn nến xác chết**<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> hoặc **những ngọn nến của xác chết**, là hiện thân của những khuôn mặt [ma quái](../G/Ghosts.md) của các chiến binh [Tiên](../E/Elves.md), [Mannish](../M/Men.md) và [Orcish](../O/Orcs.md) đã chết trong [Mere of Dead Các khuôn mặt](../M/Mere_of_Dead_Faces.md) trong [Đầm lầy Chết](Dead_Marshes.md). Những khuôn mặt thối rữa và vặn vẹo, với cỏ dại vướng vào tóc, xuất hiện trong làn nước tối, được chiếu sáng bởi ánh sáng nhợt nhạt và rơi xuống, như từ những ngọn nến vô hình.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-[Gollum](../G/Gollum.md) nói với [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Sam_Gamgee.md) rằng đã có một [trận chiến lớn](../B/Battle_of_Dagorlad.md) cách đây rất lâu, trong đó Con người, Yêu tinh và Orc đã chiến đấu trong nhiều tháng tại [Cổng Đen](../B/Black_Gate.md) và rằng đầm lầy đã mở rộng kể từ trận chiến và đã nuốt chửng mộ của những chiến binh đã ngã xuống trong trận chiến. Làm thế nào mà những chiến binh đã chết lại biến thành những sinh vật [xác sống](../U/Undead.md) như vậy vẫn chưa được biết. Sam nói rằng Người chết thực sự không thể ở đó, bởi vì trận chiến đã diễn ra cách đây nhiều năm và hỏi liệu sự hiện diện của Người chết, Yêu tinh và Orc trong đầm lầy có phải là "ma quỷ nở ra ở Vùng đất bóng tối" hay không, có thể ám chỉ đến [Sauron](../S/Sauron.md) nghệ thuật hắc ám ở [Mordor](../M/Mordor.md) gần đó.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+[Gollum](../G/Gollum.md) kể cho [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Sam_Gamgee.md) rằng cách đây đã lâu đã có một [trận chiến lớn](../B/Battle_of_Dagorlad.md) trong đó Con Người, Tiên tộc và Orc đã chiến đấu trong nhiều tháng tại [Cổng Đen](../B/Black_Gate.md) và rằng đầm lầy đã mở rộng kể từ trận chiến và đã nuốt chửng mộ của những chiến binh đã ngã xuống trong trận chiến. Làm thế nào mà những chiến binh đã chết lại biến thành những sinh vật [xác sống](../U/Undead.md) như vậy vẫn chưa được biết. Sam nói rằng Người chết thực sự không thể ở đó, bởi vì trận chiến đã diễn ra cách đây nhiều năm và hỏi liệu sự hiện diện của Con Người, Tiên tộc và Orc người chết trong đầm lầy có phải là "ma quỷ nở ra ở Vùng đất bóng tối" hay không, có thể ám chỉ đến nghệ thuật hắc ám của [Sauron](../S/Sauron.md) ở [Mordor](../M/Mordor.md) gần đó.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
 *corpse candle* được định nghĩa là "vẻ ngoài phát sáng, giống như ngọn lửa của ngọn nến, đôi khi được nhìn thấy trong sân nhà thờ và những nơi ẩm ướt khác, bị coi là mê tín là điềm báo cái chết".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
-Đối với một [bài thơ](../T/The_Last_Ark.md), [Tolkien](../J/J.R.R._Tolkien.md) đã tạo cụm từ [Quenya](../Q/Quenya.md) *ve loikolíkuma*, có nghĩa là "một ngọn nến xác chết".<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Đối với [bài thơ](../T/The_Last_Ark.md), [Tolkien](../J/J.R.R._Tolkien.md) đã tạo cụm từ [Quenya](../Q/Quenya.md) *ve loikolíkuma*, nghĩa là "một ngọn nến xác chết".<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 Trong phiên bản trước của cùng bài thơ, cụm từ [Qenya](../Q/Qenya.md) là *ve kaivo-kalma*, có nghĩa là "như một ngọn nến xác chết".<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Nhập vai ở Trung Địa</a></i>:</b>
+<b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>:</b>
 
 <dl><dd>Corpse Candles and Corpse lanterns are seen as two variants of the same basic type of creature. The latter are said to be more powerful and intelligent, capable of a &#34;more alluring web&#34;.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> A related creature are the corpse-lights, which haunt underground areas of the Shire.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></dd></dl>
 
-<b>1995-8: <i><a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Trò chơi thẻ bài sưu tầm ở Trung Địa</a></i>:</b>
+<b>1995-8: <i><a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Trung Địa Trò chơi bài sưu tầm</a></i>:</b>
 
 <dl><dd>Cards depicting these creatures include &#34;Corpse-candle&#34; and &#34;Wisp of Pale Sheen&#34;.</dd></dl>
 
-<b><a href="../_/2002.md" title="2002">2002</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">Chúa tể của những chiếc nhẫn: Hai tòa tháp</a></i>:</b>
+<b><a href="../_/2002.md" title="2002">2002</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Lord of the Rings: The Two Towers</a></i>:</b>
 
 <dl><dd>While Frodo in the book only claims to have <i>seen</i> the dead faces, <a href="../P/Peter_Jackson.md" title="Peter Jackson">Peter Jackson</a>&#39;s film version includes a dramatic twist: Frodo falls into the water as under a spell from the dead.</dd></dl>
 
-<b>2002-5: <i><a href="../T/The_Lord_of_the_Rings_Roleplaying_Game.md" title="The Lord of the Rings Roleplaying Game">Trò chơi nhập vai Chúa tể của những chiếc nhẫn</a></i>:</b>
+<b>2002-5: <i><a href="../T/The_Lord_of_the_Rings_Roleplaying_Game.md" title="The Lord of the Rings Roleplaying Game">The Lord of the Rings Trò chơi nhập vai</a></i>:</b>
 
 <dl><dd>The faces of the dead are classified as phantoms, a subdivision of ghosts.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Corpse-candles are a form of the Dead, floating balls of light that haunt marshes and grave-sites, swarming around the player.</dd></dl>
 

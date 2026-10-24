@@ -34,4 +34,4 @@ infobox:
 ## Liên kết ngoài {#External_links}
 
 - <a class="external text" href="https://www.deviantart.com/sarkaskorpikova" rel="noreferrer noopener" target="_blank">Hồ sơ DeviantArt</a>
-- <a class="external text" href="https://www.deviantart.com/mirachravaia/journal/Talks-with-Tolkien-artists-RobleskaZeppelin-491003693" rel="noreferrer noopener" target="_blank">Trò chuyện với các nghệ sĩ Tolkien: RobleskaZeppelin</a> – phỏng vấn Šárka Škorpíková trên DeviantArt
+- <a class="external text" href="https://www.deviantart.com/mirachravaia/journal/Talks-with-Tolkien-artists-RobleskaZeppelin-491003693" rel="noreferrer noopener" target="_blank">Trò chuyện với Tolkien nghệ sĩ: RobleskaZeppelin</a> – phỏng vấn Šárka Škorpíková trên DeviantArt

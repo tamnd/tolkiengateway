@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Two Trees of Valinor"
 ---
 
-Chuyển hướng tới [Hai cây Valinor](Two_Trees_of_Valinor.md).
+Chuyển hướng đến [Hai Cây của Valinor](Two_Trees_of_Valinor.md).

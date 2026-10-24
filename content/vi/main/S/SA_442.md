@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Second Age 442"
 ---
 
-Chuyển hướng đến [Kỷ nguyên thứ hai 442](Second_Age_442.md).
+Chuyển hướng đến [Kỷ Đệ Nhị 442](Second_Age_442.md).

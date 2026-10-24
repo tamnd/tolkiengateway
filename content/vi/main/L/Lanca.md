@@ -13,7 +13,7 @@ categories:
   - "Telerin nouns"
 ---
 
-<i><b>lanca</b></i> là một từ [Telerin](../T/Telerin.md) có nghĩa là "cạnh sắc (không phải của công cụ), sự kết thúc đột ngột, chẳng hạn như một vách đá hoặc cạnh sạch của những thứ được làm bằng tay hoặc được xây dựng".<sup id="cite_ref-VT_1-0" class="reference"><a href="#cite_note-VT-1">[1]</a></sup>
+<i><b>lanca</b></i> là một từ [Telerin](../T/Telerin.md) có nghĩa là "cạnh sắc (không phải của công cụ), sự kết thúc đột ngột, ví dụ như một vách đá hoặc cạnh sạch của những thứ được làm bằng tay hoặc được xây dựng".<sup id="cite_ref-VT_1-0" class="reference"><a href="#cite_note-VT-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -22,7 +22,7 @@ categories:
 ## Có cùng nguồn gốc {#Cognates}
 
 - [Quenya](../Q/Quenya.md) *[lanka](Lanka.md)*
-- [Tiếng Sindarin](../S/Sindarin.md) *[lanc](Lanc.md)*
+- [Sindarin](../S/Sindarin.md) *[lanc](Lanc.md)*
 
 <span></span>
 

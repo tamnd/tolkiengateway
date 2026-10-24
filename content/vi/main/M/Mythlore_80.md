@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Proceedings of the J.R.R. Tolkien Centenary Conference"
 ---
 
-Chuyển hướng tới [Kỷ yếu của J.R.R. Tolkien Hội nghị kỷ niệm 100 năm](../P/Proceedings_of_the_J.R.R._Tolkien_Centenary_Conference.md).
+Chuyển hướng đến [Proceedings of the J.R.R. Tolkien Centenary Conference](../P/Proceedings_of_the_J.R.R._Tolkien_Centenary_Conference.md).

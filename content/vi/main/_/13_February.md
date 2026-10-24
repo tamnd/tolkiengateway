@@ -70,10 +70,10 @@ Sự kiện xảy ra vào ngày 13 tháng 2.
 - **[1961](1961.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư 228a](../L/Letter_228a.md).
 - **[1971](1971.md)** - [Rachel Tolkien](../R/Rachel_Tolkien.md) ra đời.
 - **[1979](1979.md)** - *[The Tolkien Quiz Book](<../T/The_Tolkien_Quiz_Book_(by_Bart_Andrews).md>)* của Andrews và Zuber được xuất bản.
-- **[2008](2008.md)** - *[The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md): [Shadows of Angmar](../T/The_Lord_of_the_Rings_Online%253A_Shadows_of_Angmar.md)*, "The Ashen Wastes" được phát hành ở Bắc Mỹ.
+- **[2008](2008.md)** - *[The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md): [Shadows of Angmar](../T/The_Lord_of_the_Rings_Online%253A_Shadows_of_Angmar.md)*, "The Ashen Wastes" được phát hành tại Bắc Mỹ.
 - **[2021](2021.md)** - [Hội Tolkien](../T/The_Tolkien_Society.md) Hội thảo được tổ chức trực tuyến do <a class="extiw" href="http://en.wikipedia.org/wiki/COVID-19_pandemic" title="wikipedia:COVID-19 pandemic">đại dịch Covid-19</a>.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - Nhóm [Hiệp hội chiếc nhẫn](../F/Fellowship_of_the_Ring.md) nằm ở [Lothlórien](../L/Lothlórien.md).
+    - [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) nằm trong [Lothlórien](../L/Lothlórien.md).

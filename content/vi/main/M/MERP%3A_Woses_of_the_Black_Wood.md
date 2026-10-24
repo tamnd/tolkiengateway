@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Woses of the Black Wood"
 ---
 
-Chuyển hướng tới [Woses of the Black Wood](../W/Woses_of_the_Black_Wood.md).
+Chuyển hướng đến [Woses của Rừng Đen](../W/Woses_of_the_Black_Wood.md).

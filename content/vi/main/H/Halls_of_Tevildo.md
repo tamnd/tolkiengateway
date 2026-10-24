@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Minas Tirith (Beleriand)"
 ---
 
-Chuyển hướng đến [Minas Tirith (Beleriand)](<../M/Minas_Tirith_(Beleriand).md>).
+Chuyển hướng tới [Minas Tirith (Beleriand)](<../M/Minas_Tirith_(Beleriand).md>).

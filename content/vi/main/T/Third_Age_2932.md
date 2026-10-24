@@ -16,13 +16,13 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><a href="../F/First_Age.md" title="First Age">I</a><a href="../S/Second_Age.md" title="Second Age">II</a><b>III</b><a href="../F/Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="Third_Age_2929.md" title="Third Age 2929">2929</a><a href="Third_Age_2930.md" title="Third Age 2930">2930</a><a href="Third_Age_2931.md" title="Third Age 2931">2931</a><a class="mw-selflink selflink">2932</a><a href="Third_Age_2933.md" title="Third Age 2933">2933</a><a href="Third_Age_2934.md" title="Third Age 2934">2934</a><a href="Third_Age_2935.md" title="Third Age 2935">2935</a></div></div></div></div></div></div>
 
-**Kỷ thứ ba 2932** (viết tắt là **T.A. 2932**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 2932 của [Kỷ thứ ba](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Thời đại thứ ba 2932 còn được gọi là **S.R. 1332** trong [Tính toán quận](../S/Shire-reckoning.md).
+**Kỷ Đệ Tam 2932** (viết tắt là **T.A. 2932**) là năm [thứ 2932 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Tam](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Kỷ Đệ Tam 2932 còn được gọi là **S.R. 1332** trong [lịch Shire](../S/Shire-reckoning.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 - Sự ra đời của [Halfred of Overhill](../H/Halfred_of_Overhill.md), con thứ tư và con trai thứ ba của [Hobson Gamgee](../H/Hobson_Gamgee.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 - Cái chết của [Aglahad](../A/Aglahad.md) của [Dol Amroth](../D/Dol_Amroth.md).<sup id="cite_ref-Dol_2-0" class="reference"><a href="#cite_note-Dol-2">[2]</a></sup>
-- [Angelimir](../A/Angelimir.md), con trai của Aglahad, trở thành [Hoàng tử](../P/Princes_of_Dol_Amroth.md) thứ hai mươi của [Dol Amroth](../D/Dol_Amroth.md).<sup id="cite_ref-Dol_2-1" class="reference"><a href="#cite_note-Dol-2">[2]</a></sup>
+- [Angelimir](../A/Angelimir.md), con trai của Aglahad, trở thành [Thân vương](../P/Princes_of_Dol_Amroth.md) thứ hai mươi của [Dol Amroth](../D/Dol_Amroth.md).<sup id="cite_ref-Dol_2-1" class="reference"><a href="#cite_note-Dol-2">[2]</a></sup>
 
 <span></span>
 

@@ -38,7 +38,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mallorn38.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/d5/Mallorn38.jpg/320px-Mallorn38.jpg" decoding="async" loading="lazy" width="320" height="454" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/d5/Mallorn38.jpg/480px-Mallorn38.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/d/d5/Mallorn38.jpg/640px-Mallorn38.jpg 2x" data-file-width="705" data-file-height="1000"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mallorn 38</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Len Sanford</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">January <a href="../_/2001.md" title="2001">2001</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">A4 stapled paperback, glossy</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">40</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0308-6674</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mallorn_37.md" title="Mallorn 37">Mallorn 37</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mallorn_39.md" title="Mallorn 39">Mallorn 39</a></td></tr></tbody></table>
 
-<b><i>Mallorn</i> 38</b> là số thứ 38 của tạp chí [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) *[Mallorn](<Mallorn_(journal).md>)*, xuất bản vào tháng 1 [2001](../_/2001.md).
+<b><i>Mallorn</i> 38</b> là số thứ 38 của tạp chí [Hội Tolkien](../T/The_Tolkien_Society.md) *[Mallorn](<Mallorn_(journal).md>)*, xuất bản vào tháng 1 [2001](../_/2001.md).
 
 ## Nội dung {#Contents}
 
@@ -67,4 +67,4 @@ infobox:
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://journals.tolkiensociety.org/mallorn/issue/view/39/" rel="noreferrer noopener" target="_blank">Số này tại trang web của The Tolkien Society</a>
+- <a class="external text" href="http://journals.tolkiensociety.org/mallorn/issue/view/39/" rel="noreferrer noopener" target="_blank">Vấn đề này tại trang web Hội Tolkien</a>

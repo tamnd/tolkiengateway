@@ -32,7 +32,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/Lembas_Extra_2022.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/ff/Lembas_Extra_2022.jpg/320px-Lembas_Extra_2022.jpg" decoding="async" loading="lazy" width="320" height="455" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/ff/Lembas_Extra_2022.jpg/480px-Lembas_Extra_2022.jpg 1.5x, https://tolkiengateway.net/w/images/f/ff/Lembas_Extra_2022.jpg 2x" data-file-width="563" data-file-height="800"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Lembas Extra 2022<br/><small>Númenor</small></span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Jan van Breda and <a href="../R/Renée_Vink.md" title="Renée Vink">Renée Vink</a></td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data">Lúthien Dulk (cover art)</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../U/Unquendor.md" title="Unquendor">Unquendor</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/2022.md" title="2022">2022</a></td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">288</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/978-9492469342" title="Special:BookSources/978-9492469342">978-9492469342</a></td></tr></tbody></table>
 
-<i><b>Lembas Extra 2022: Númenor</b></i> là số của tạp chí *[Lembas Extra](<Lembas_(journal).md>)*. Số này bao gồm 13 bài tiểu luận về vấn đề [Númenor](../N/Númenor.md).
+<i><b>Lembas Extra 2022: Númenor</b></i> là số tạp chí *[Lembas Extra](<Lembas_(journal).md>)*. Số này có 13 bài tiểu luận về vấn đề [Númenor](../N/Númenor.md).
 
 ## Nội dung {#Contents}
 
@@ -40,17 +40,17 @@ infobox:
 
 - [David Bratman](../D/David_Bratman.md): "C.S. Lewis, Númenórean"
 - [Lorenzo Carrera Bloise](https://tolkiengateway.net/wiki/User:LorenzoCB): "Thành phần của *The Downfall of Númenor*"
-- [Nils Ivar Agøy](../N/Nils_Ivar_Agøy.md): "Thời kỳ thứ hai của điểm dừng"
-- Hamish Williams: "Năm thời đại thalassocracy Hy Lạp của Tolkien: Một nghiên cứu so sánh về lịch sử tường thuật Númenórean"
-- [Renée Vink](../R/Renée_Vink.md): "Các chúa tể phương Tây: Chủ nghĩa đế quốc và chủ nghĩa thực dân ở Trung Địa thời kỳ thứ hai"
-- José Boto: "Luật ở Númenor"
+- [Nils Ivar Agøy](../N/Nils_Ivar_Agøy.md): "Điểm dừng Kỷ Đệ Nhị"
+- Hamish Williams: "Năm Kỷ nguyên chế độ Thalassocracy Hy Lạp của Tolkien: Một nghiên cứu so sánh về lịch sử tường thuật Númenórean"
+- [Renée Vink](../R/Renée_Vink.md): "Lãnh chúa của Phương Tây: Chủ nghĩa đế quốc và chủ nghĩa thực dân ở Kỷ Đệ Nhị Trung Địa"
+- José Boto: "Luật Númenor"
 - David Dodds: "Tôn giáo trung thành ở Númenor và Númenórean Trung Địa"
 - [Kristine Larsen](../K/Kristine_Larsen.md): "Tar-Meneldur và Đài thiên văn Hoàng gia Sorontil"
-- [Łukasz Neubauer](../_/Łukasz_Neubauer.md): "Những chú đại bàng bay lượn trên đầu mọi người: Lời chú giải trong Kinh thánh dành cho những nhân chứng của Manwë trong 'Mô tả về Númenor'"
-- Renée Vink: "Hõm chảo và vạc: Núi lửa phun trào ở Númenor và Cơn sóng lớn"
-- Henk Looijestein: "Ar-Zimraphel, nữ hoàng bóng tối: Sự đánh giá lại về nữ hoàng cuối cùng của Númenor"
-- Pamina Camacho: "Tolkien, Plato, và cái bẫy của chủ nghĩa hiện thực: Với phần Phụ lục về Fanfiction"
-- [Paul Corfield Godfrey](../P/Paul_Corfield_Godfrey.md): "Thời đại thứ hai: Khởi đầu và kết thúc"
+- [Łukasz Neubauer](../_/Łukasz_Neubauer.md): "Cái Đại Bàng lơ lửng phía trên con người: Một chú giải Kinh thánh dành cho những nhân chứng của Manwë trong 'Mô tả về Númenor'"
+- Renée Vink: "Hõm chảo và vạc: vụ phun trào núi lửa của Númenor và Làn sóng lớn"
+- Henk Looijestein: "Ar-Zimraphel, nữ hoàng bóng tối: Đánh giá lại nữ hoàng cuối cùng của Númenor"
+- Pamina Camacho: "Tolkien, Plato, và cái bẫy của chủ nghĩa hiện thực: Với Phụ lục về Fanfiction"
+- [Paul Corfield Godfrey](../P/Paul_Corfield_Godfrey.md): "The Kỷ Đệ Nhị: Bắt đầu và kết thúc"
 
 - Chữ viết tắt
 - Tiểu sử

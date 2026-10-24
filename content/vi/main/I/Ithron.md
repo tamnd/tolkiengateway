@@ -21,7 +21,7 @@ categories:
 
 ## Ví dụ {#Examples}
 
-- *[Ithryn Luin](../B/Blue_Wizards.md)* ("Pháp sư xanh")<sup id="cite_ref-Istari_1-2" class="reference"><a href="#cite_note-Istari-1">[1]</a></sup>
+- *[Ithryn Luin](../B/Blue_Wizards.md)* ("Xanh lam Pháp sư")<sup id="cite_ref-Istari_1-2" class="reference"><a href="#cite_note-Istari-1">[1]</a></sup>
 
 <span></span>
 

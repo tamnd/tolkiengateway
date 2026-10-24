@@ -45,7 +45,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/AmonHen198.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/0/0b/AmonHen198.jpg/320px-AmonHen198.jpg" decoding="async" loading="lazy" width="320" height="454" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/0b/AmonHen198.jpg/480px-AmonHen198.jpg 1.5x, https://tolkiengateway.net/w/images/0/0b/AmonHen198.jpg 2x" data-file-width="579" data-file-height="821"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Amon Hen 198</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="Andrew_Butler.md" title="Andrew Butler">Andrew Butler</a></td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data">Susanne Stopfel</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Printer</th><td class="tg-infobox-data"><a class="external text" href="http://www.horshampress.co.uk/" rel="noreferrer noopener" target="_blank">Horsham Press</a>, Horsham, UK</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../M/March.md" title="March">March</a> <a href="../_/2006.md" title="2006">2006</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">A5 stapled paperback, glossy</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">36</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0306-8781</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Amon_Hen_197.md" title="Amon Hen 197">Amon Hen 197</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Amon_Hen_199.md" title="Amon Hen 199">Amon Hen 199</a></td></tr></tbody></table>
 
-<b><i>Amon Hen</i> 198</b> là số thứ 198 của tạp chí hai tháng một lần của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, xuất bản vào [tháng 3](../M/March.md) [2006](../_/2006.md).
+<b><i>Amon Hen</i> 198</b> là số thứ một trăm chín mươi tám của tạp chí hai tháng một lần của [Hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, xuất bản vào [tháng 3](../M/March.md) [2006](../_/2006.md).
 
 ## Nội dung {#Contents}
 
@@ -55,15 +55,15 @@ infobox:
     - Bởi: [Andrew Butler](Andrew_Butler.md)
 - Nội dung
 - Quảng cáo: [Mithril Armory](../M/Mithril_Armoury.md)
-Thông báo - [Bywater](../B/Bywater.md)
+- [Bywater](../B/Bywater.md) Thông báo
     - Bởi: Malcolm Lindley
 - Ngày ghi nhật ký của bạn
 - Quảng cáo: *[The Ring of Words](../T/The_Ring_of_Words.md)*
-- Quảng cáo: Gower [Trung địa](../M/Middle-earth.md) Cuối tuần
+- Quảng cáo: Gower [Trung Địa](../M/Middle-earth.md) Cuối tuần
 - Tác phẩm nghệ thuật: *[Arwen](Arwen.md)*
     - Bởi: [Jef Murray](../J/Jef_Murray.md)
 - Thông báo
-- Tác phẩm nghệ thuật: *Khi buổi tối ở [Shire](../T/The_Shire.md) xám xịt*
+- Tác phẩm: *Khi buổi tối ở [ Shire](../T/The_Shire.md) xám xịt*
     - Bởi: Chiara Rizzarda "Shelidon"
 - [Sảnh lửa](../H/Hall_of_Fire.md)
     - Bởi: Lynn Forest-Hill

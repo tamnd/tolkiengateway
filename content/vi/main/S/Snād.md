@@ -17,7 +17,7 @@ sort_keys:
   "Silvan Elvish words": "Snad"
 ---
 
-<i><b>snād</b></i> là từ [Nandorin](../N/Nandorin.md) có nghĩa là "vết thương, vết thương".<sup id="cite_ref-PE19_1-0" class="reference"><a href="#cite_note-PE19-1">[1]</a></sup>
+<i><b>snād</b></i> là một từ [Nandorin](../N/Nandorin.md) có nghĩa là "vết thương, vết thương".<sup id="cite_ref-PE19_1-0" class="reference"><a href="#cite_note-PE19-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

@@ -16,18 +16,18 @@ images:
   - "WikimediaUI-ArrowNext-ltr.svg"
 ---
 
-<b><i>L'Arc et le Heaume</i> n°5</b> (*Au-delà de la Terre du Milieu*) là số thứ năm của fanzine <i><a class="external text" href="https://www.tolkiendil.com/asso/mag" rel="noreferrer noopener" target="_blank">L'Arc et le Heaume</a></i> của hiệp hội [Tolkiendil](<../T/Tolkiendil_(Tolkien_society).md>) Pháp. It was published in April [2017](../_/2017.md) and it is dedicated to the works of [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) outside the [legendarium](Legendarium.md).
+<b><i>L'Arc et le Heaume</i> n°5</b> (*Au-delà de la Terre du Milieu*) là số thứ năm của fanzine <i><a class="external text" href="https://www.tolkiendil.com/asso/mag" rel="noreferrer noopener" target="_blank">L'Arc et le Heaume</a></i> của hiệp hội [Tolkiendil](<../T/Tolkiendil_(Tolkien_society).md>) Pháp. Nó được xuất bản vào tháng 4 [2017](../_/2017.md) và được dành riêng cho các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) bên ngoài [huyền thoại](Legendarium.md).
 
 <div class="template-prevnext"><div class="template-prevnext__prev template-prevnext__link"><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/8/81/WikimediaUI-ArrowPrevious-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__content"><div class="template-prevnext__title">L&#39;Arc et le Heaume  4</div></div><div class="template-prevnext__linkoverlay"><a href="L&#39;Arc_et_le_Heaume_4.md" title="L&#39;Arc et le Heaume 4">L&#39;Arc et le Heaume  4</a></div></div><div class="template-prevnext__current"><div class="template-prevnext__content"><div class="template-prevnext__title">L&#39;Arc et le Heaume 5</div></div></div><div class="template-prevnext__next template-prevnext__link"><div class="template-prevnext__content"><div class="template-prevnext__title">L&#39;Arc et le Heaume  6</div></div><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/7b/WikimediaUI-ArrowNext-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__linkoverlay"><a href="L&#39;Arc_et_le_Heaume_6.md" title="L&#39;Arc et le Heaume 6">L&#39;Arc et le Heaume  6</a></div></div></div>
 
 ## Nội dung {#Contents}
 
-- Éditorial
+- biên luận
     - Au-delà de la Terre du Milieu – Vivien Stocker
-- Actualité
-    - *La Chute d'Arthur* — revue de Yannick Chazareng
-    - *Beowulf : traduction et commentaire* — revue de Bertrand Bellet
-- Synthèse
+- Thực tế
+    - *La Chute d'Arthur* — bản sửa đổi của Yannick Chazareng
+    - *Beowulf : traduction et commentaire* — bản tái hiện của Bertrand Bellet
+- Tổng hợp
     - Travaux sur *Beowulf* — Vivien Stocker
     - *The Story of Kullervo* — Vivien Stocker
     - *La Légende de Sigurd et Gudrún* — Bertrand Bellet
@@ -35,7 +35,7 @@ images:
     - *Sire Gauvain et le Chevalier Vert* — Julien Mansencal
     - *Pearl* — Julien Mansencal
     - *Sire Orfée* — Julien Mansencal
-    - *Chaucer as a Philologist: The Reeve's Tale* — Julien Mansencal
+    - *Chaucer với tư cách là nhà ngữ văn: Câu chuyện của Reeve* — Julien Mansencal
     - *Le Retour de Beorhtnoth, fils de Beorhthelm* — Damien Bador
     - *Ancrene Wisse* — Damien Bador
     - *The Old English Exodus* — Vivien Stocker
@@ -48,18 +48,18 @@ images:
     - *Lettres du Père Noël* — Solveig Boissay
     - *Monsieur Merveille* — Yannick Chazareng
     - *Roverandom* — Laura Martin-Gomez
-- Essais
+- Tiểu luận
     - *Roverandom* — La « soupe » féérique de Tolkien — Laura Martin-Gomez
     - Dans le chaudron du conte : le « fond de réalité » de *Fermier Gilles de Ham* — Éric Flieller
-- Langues
+- Ngôn ngữ
     - L'alphabet gobelin des *Lettres du Père Noël* — Vivien Stocker
 - J.R.R. Tolkien
-    - &lt;&lt; La bataille du Champ Oriental &gt;&gt; — [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), traduction et présentation de Damien Bador
-- Détente
+    - << La bataille du Champ Oriental >> — [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), truyền tải và trình bày của Damien Bador
+- Giảm căng thẳng
     - Sudoku du Fermier Gilles de Ham — Gwenc'hlan Hamon
     - Jeu des 7 erreurs de Monsieur Merveille – Pascal Legrand
-    - Mots mêlés — Gwenc'hlan Hamon, Yvann Guillot &amp; Audrey Morelle
-    - Quiz – Audrey Morelle
+    - Mots mêlés — Gwenc'hlan Hamon, Yvann Guillot & Audrey Morelle
+    - Câu đố – Audrey Morelle
     - *Le Roman du roi Arthur* de Malory et *le Kalevala* de Lönnrot : découverte croisée — Vivien Stocker
 
 ## Bản dịch tiếng Anh {#English_translation}

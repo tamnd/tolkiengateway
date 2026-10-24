@@ -28,17 +28,17 @@ images:
 
 **HarperCollins** (công ty con của **News Corporation**) là một công ty xuất bản. Nó được hình thành bởi sự sáp nhập của American *Harper &amp; Row* (thành lập năm 1817 của *Harper &amp; Brothers* và được News Corp mua lại vào năm 1987) và *William Collins &amp; Sons* (được thành lập năm 1819 và được News Corp mua lại, và sáp nhập với Harper vào năm 1989).
 
-HarperCollins đã nắm giữ quyền xuất bản các tác phẩm của Tolkien ở Châu Âu và Canada kể từ khi mua lại [Unwin Hyman](../U/Unwin_Hyman.md) vào năm 1994 và vào năm 2021, nó mua lại bộ phận sách thương mại của [Houghton Mifflin Harcourt](Houghton_Mifflin_Harcourt.md) (nhà xuất bản chính thức từ lâu ở Hoa Kỳ). Hiện nay nó xuất bản các ấn bản ở Mỹ dưới dấu ấn *William Morrow* của mình (mặc dù một số bản sao của Houghton Mifflin Harcourt vẫn còn trên kệ của các hiệu sách cho đến khi hết) và dấu ấn HarperCollins ở nơi khác.
+HarperCollins đã nắm giữ quyền xuất bản các tác phẩm của Tolkien ở Châu Âu và Canada kể từ khi mua lại [Unwin Hyman](../U/Unwin_Hyman.md) vào năm 1994 và vào năm 2021, nó đã mua lại bộ phận sách thương mại của [Houghton Mifflin Harcourt](Houghton_Mifflin_Harcourt.md) (nhà xuất bản chính thức từ lâu ở Hoa Kỳ). Hiện nay họ xuất bản các ấn bản ở Mỹ dưới nhà xuất bản *William Morrow* của mình (mặc dù một số bản Houghton Mifflin Harcourt vẫn còn trên kệ của các hiệu sách cho đến khi hết) và nhà xuất bản HarperCollins ở nơi khác.
 
-HarperCollins cũng lưu giữ một kho lưu trữ thư từ giữa [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và [Allen & Unwin](../A/Allen_&_Unwin.md), những nhà xuất bản ban đầu của ông.
+HarperCollins cũng lưu giữ một kho lưu trữ thư từ giữa [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và [Allen &amp; Unwin](../A/Allen_&_Unwin.md), các nhà xuất bản ban đầu của ông.
 
 ## Lịch sử {#History}
 
-[Milton Waldman](../M/Milton_Waldman.md) là biên tập viên cấp cao của Collins và đã gặp [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) trong thời gian ông bất đồng quan điểm với George Allen & Unwin. Bất chấp sự quan tâm ban đầu của Waldman đối với *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, Collins vẫn lo ngại về độ dài của nó và có sự chậm trễ. Vào mùa xuân năm [1952](../_/1952.md), Tolkien mất kiên nhẫn và dọa rút bản thảo; Collins quyết định rằng họ phải từ chối cả *The Lord of the Rings* và *[The Silmarillion](../T/The_Silmarillion.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+[Milton Waldman](../M/Milton_Waldman.md) là biên tập viên cấp cao của Collins và đã gặp [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) trong thời gian ông bất đồng quan điểm với George Allen &amp; Unwin. Bất chấp sự quan tâm ban đầu của Waldman đối với *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, Collins vẫn lo ngại về độ dài của nó và có sự chậm trễ. Mùa xuân [1952](../_/1952.md), Tolkien mất kiên nhẫn và dọa rút bản thảo; Collins quyết định rằng họ phải từ chối cả *The Lord of the Rings* và *[The Silmarillion](../T/The_Silmarillion.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Trong [1956](../_/1956.md) Waldman đã cố gắng xuất bản *[The Hobbit](../T/The_Hobbit.md)* trong bộ sách bìa mềm Fontana của Collin không thành công.
 
-Trong [1989](../_/1989.md) [Grafton](../G/Grafton.md) trở thành một phần của HarperCollins.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Trong [1989](../_/1989.md) [Grafton](../G/Grafton.md) đã trở thành một phần của HarperCollins.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 Khoảng [1994](../_/1994.md) HarperCollins đã mua [Unwin Hyman](../U/Unwin_Hyman.md) kế nhiệm công ty với tư cách là nhà xuất bản chính của Tolkien. Năm đó *The Lord of the Rings* được thiết lập lại dưới dạng điện tử để dễ biên tập và sửa chữa, nhưng không phải không xuất hiện một số lỗi mới, những lỗi này không chỉ tồn tại trong các phiên bản tiếp theo mà còn bị rò rỉ sang các phiên bản Mỹ dựa trên cài đặt đó. Một số lỗi đã được sửa trong các ấn bản [2002](../_/2002.md), [2004](../_/2004.md) và [2005](../_/2005.md) tái bản.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 

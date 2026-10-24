@@ -15,14 +15,14 @@ hidden_categories:
   - "Pages with short description"
 ---
 
-<i><b>Narqelion</b></i> ("Mùa thu") là một bài thơ được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), là bài thơ Tiên đầu tiên của ông. Bản thảo gốc có niên đại từ tháng 11 năm 1915 đến tháng 3 năm 1916, rất có thể đề cập đến thời điểm nó được sáng tác.
+<i><b>Narqelion</b></i> ("Mùa thu") là một bài thơ được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), là bài thơ Elvish đầu tiên của ông. Bản thảo gốc có niên đại từ tháng 11 năm 1915 đến tháng 3 năm 1916, rất có thể đề cập đến thời điểm nó được sáng tác.
 
 ## Lịch sử xuất bản {#Publication_history}
 
-- Bốn dòng của bài thơ đã bị [Humphrey Carpenter](../H/Humphrey_Carpenter.md) chép lại kém ở *[J.R.R. Tolkien: A Biography](../J/J.R.R._Tolkien%253A_A_Biography.md)*.
+- Bốn dòng bài thơ đã bị [Humphrey Carpenter](../H/Humphrey_Carpenter.md) chép sai ở *[J.R.R. Tolkien: A Biography](../J/J.R.R._Tolkien%253A_A_Biography.md)*.
 - Bài thơ hoàn chỉnh sau đó được xuất bản với bài phân tích của [Paul Nolan Hyde](../P/Paul_Nolan_Hyde.md) vào năm *[Mythlore 56](../M/Mythlore_56.md)* vào năm 1988.
 - Bài thơ sau đó được tái bản trong [*Vinyar Tengwar*, nr.6](../V/Vinyar_Tengwar_6.md) và sau đó ở [*Vinyar Tengwar*, nr.12](../V/Vinyar_Tengwar_12.md) với bản dịch của Paul Nolan Hyde và bản tóm tắt của [Jorge Quiñonez](../J/Jorge_Quiñonez.md).
-- Một lần nữa, nó được xuất bản trên [1990](../_/1990.md) ở [*Parma Eldalamberon* 9](../P/Parma_Eldalamberon_9.md) (trang 6–32) với phần trình bày của [Patrick H. Wynne](../P/Patrick_H._Wynne.md) và [Christopher Gilson](../C/Christopher_Gilson.md).
+- Một lần nữa nó được xuất bản trên [1990](../_/1990.md) ở [*Parma Eldalamberon* 9](../P/Parma_Eldalamberon_9.md) (trang 6–32) với phần trình bày của [Patrick H. Wynne](../P/Patrick_H._Wynne.md) và [Christopher Gilson](../C/Christopher_Gilson.md).
 - Một ấn phẩm khác được đăng trong [*Vinyar Tengwar*, nr.40](../V/Vinyar_Tengwar_40.md) với bài phân tích của Chris Gilson.
 
 ## Bài thơ {#Poem}

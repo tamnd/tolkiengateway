@@ -68,16 +68,16 @@ Sự kiện xảy ra vào ngày 20 tháng 7
 - **[1962](1962.md)** – [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một bức thư cho Alina Dadlez](<../L/Letter_to_Alina_Dadlez_(20_July_1962).md>).
 - **[1965](1965.md)** – [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 272](../L/Letter_272.md).
 - **[1998](1998.md)** – [Mythcon 29](../M/Mythcon_29.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Wheaton,_Illinois" title="wikipedia:Wheaton, Illinois">Wheaton, Illinois</a>.
-- **[2000](2000.md)** – [Tolkien Thing](../T/Tolkien_Thing.md) thứ hai được tổ chức tại <a class="extiw" href="http://en.wikipedia.org/wiki/Cologne" title="wikipedia:Cologne">Cologne</a>.
+- **[2000](2000.md)** – [Tolkien Sự việc](../T/Tolkien_Thing.md) thứ hai được tổ chức tại <a class="extiw" href="http://en.wikipedia.org/wiki/Cologne" title="wikipedia:Cologne">Cologne</a>.
 - **[2009](2009.md)** – [Mythcon 40](../M/Mythcon_40.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Los_Angeles" title="wikipedia:Los Angeles">Los Angeles</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/California" title="wikipedia:California">California</a>.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Gandalf](../G/Gandalf.md) bị [Saruman](../S/Saruman.md) giam giữ trên đỉnh [Orthanc](../O/Orthanc.md).
+    - [Gandalf](../G/Gandalf.md) bị giam giữ bởi [Saruman](../S/Saruman.md) trên đỉnh của [Orthanc](../O/Orthanc.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - Đoàn tang của vua [Théoden](../T/Théoden.md) đi về hướng [Edoras](../E/Edoras.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+    - Đoàn rước tang lễ của vua [Théoden](../T/Théoden.md) đi về hướng [Edoras](../E/Edoras.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <br>
 

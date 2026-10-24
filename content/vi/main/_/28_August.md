@@ -69,21 +69,21 @@ Sự kiện xảy ra vào ngày 28 tháng 8
 - **[1898](1898.md)** - [R.B. McCallum](../R/R.B._McCallum.md), [Inkling](../I/Inklings.md) ra đời
 - **[1967](1967.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư cho ông Joukes](../L/Letter_to_Mr_Joukes.md).
 - **[1968](1968.md)** - Diễn viên [Billy Boyd](../B/Billy_Boyd.md) ra đời.
-- **[1973](1973.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) nghỉ lễ để thăm bạn bè ở [Bournemouth](../B/Bournemouth.md). Ông sẽ chết ở đó [5 ngày](../S/September_2.md) sau đó.
+- **[1973](1973.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) nghỉ lễ để thăm bạn bè ở [Bournemouth](../B/Bournemouth.md). Ông ta sẽ chết ở đó [5 ngày](../S/September_2.md) sau đó.
 - **[1977](1977.md)** - [Mythcon 8](../M/Mythcon_8.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_San_Diego" title="wikipedia:University of San Diego">Đại học San Diego</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/California" title="wikipedia:California">California</a>.
 - **[1981](1981.md)** - [Tom Shippey](../T/Tom_Shippey.md) đánh giá *[The Letters of J.R.R. Tolkien](../T/The_Letters_of_J.R.R._Tolkien.md)* cho *The Times Literary Supplement*.
-- **[1982](1982.md)** - Tập thứ bảy của phiên bản mới của loạt phim phát thanh [1981](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* được phát sóng trên [BBC Radio 4](../B/BBC.md).
+- **[1982](1982.md)** - Tập thứ 7 phiên bản mới của loạt phim phát thanh [1981](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* được phát sóng trên [BBC Radio 4](../B/BBC.md).
 - **[1987](1987.md)** - Diễn viên lồng tiếng [John Huston](../J/John_Huston.md) qua đời.
-- **[2010](2010.md)** - [Hội thảo Nam bán cầu của Hiệp hội Tolkien](../T/The_Tolkien_Society.md): "Tolkien's Odysseys - Middle-earth and Beyond".
+- **[2010](2010.md)** - Hội thảo Nam bán cầu của [Hội Tolkien](../T/The_Tolkien_Society.md): "Tolkien's Odysseys - Trung Địa và hơn thế nữa".
 - **[2014](2014.md)** - *[Tolkien Calendar 2015](../T/Tolkien_Calendar_2015.md)* được xuất bản.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Gandalf](../G/Gandalf.md) bị [Saruman](../S/Saruman.md) giam giữ trên đỉnh [Orthanc](../O/Orthanc.md).
+    - [Gandalf](../G/Gandalf.md) bị giam giữ bởi [Saruman](../S/Saruman.md) trên đỉnh của [Orthanc](../O/Orthanc.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - [Gandalf](../G/Gandalf.md), [Celeborn](../C/Celeborn.md), [Galadriel](../G/Galadriel.md) và [bốn người Hobbit](../T/Travellers.md) vượt qua [Saruman](../S/Saruman.md) và [Wormtongue](../W/Wormtongue.md). Trong khi Frodo và những người bạn đi đến [Rivendell](../R/Rivendell.md), Saruman tiến thẳng đến [Shire](../T/The_Shire.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+    - [Gandalf](../G/Gandalf.md), [Celeborn](../C/Celeborn.md), [Galadriel](../G/Galadriel.md) và [bốn chiếc Hobbit](../T/Travellers.md) vượt qua [Saruman](../S/Saruman.md) và [Wormtongue](../W/Wormtongue.md). Trong khi Frodo và những người bạn của ông ta đi đến [Rivendell](../R/Rivendell.md), Saruman tiến thẳng đến [ Shire](../T/The_Shire.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

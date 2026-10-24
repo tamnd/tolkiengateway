@@ -24,7 +24,7 @@ categories:
 
 ## Có cùng nguồn gốc {#Cognates}
 
-- [Tiếng Sindarin](Sindarin.md) *[saur](Saur.md)*
+- [Sindarin](Sindarin.md) *[saur](Saur.md)*
 
 <span></span>
 

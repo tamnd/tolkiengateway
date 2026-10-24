@@ -44,23 +44,23 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_-_Conquest_-_boxart.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/df/The_Lord_of_the_Rings_-_Conquest_-_boxart.jpg/320px-The_Lord_of_the_Rings_-_Conquest_-_boxart.jpg" decoding="async" loading="lazy" width="320" height="454" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/df/The_Lord_of_the_Rings_-_Conquest_-_boxart.jpg/480px-The_Lord_of_the_Rings_-_Conquest_-_boxart.jpg 1.5x, https://tolkiengateway.net/w/images/d/df/The_Lord_of_the_Rings_-_Conquest_-_boxart.jpg 2x" data-file-width="520" data-file-height="737"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Video game</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Lord of the Rings: Conquest</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Details</span></th></tr><tr><th scope="row" class="tg-infobox-label">Developer</th><td class="tg-infobox-data">Pandemic Studios</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../E/Electronic_Arts.md" title="Electronic Arts">EA</a> Games</td></tr><tr><th scope="row" class="tg-infobox-label">Platform</th><td class="tg-infobox-data">PC, Xbox 360, PlayStation 3, Nintendo DS</td></tr><tr><th scope="row" class="tg-infobox-label">Release Date</th><td class="tg-infobox-data"><a class="extiw" href="http://en.wikipedia.org/wiki/PAL_region" title="wikipedia:PAL region">PAL</a>: <a href="../_/9_January.md" title="9 January">January 9</a> <a href="../_/2009.md" title="2009">2009</a><br/><a class="extiw" href="http://en.wikipedia.org/wiki/North_America" title="wikipedia:North America">NA</a>: <a href="../_/13_January.md" title="13 January">January 13</a>, <a href="../_/2009.md" title="2009">2009</a></td></tr></tbody></table>
 
-**Chúa tể của những chiếc nhẫn: Cuộc chinh phục** là trò chơi điện tử cuối cùng lấy bối cảnh ở Trung Địa do [Electronic Arts](../E/Electronic_Arts.md) sản xuất. Nó được phát triển bởi Pandemia Studios cho các máy chơi game PC, Xbox 360, PlayStation 3 và Nintendo DS. [Weta Digital](../W/Weta_Digital.md) đã hợp tác cùng với Pandemia và đã cung cấp một số mô hình kỹ thuật số để họ sử dụng, bao gồm cả [thú vật sa ngã](../F/Fell_beasts.md).
+**The Lord of the Rings: Conquest** là trò chơi điện tử cuối cùng lấy bối cảnh Trung Địa được sản xuất bởi [Electronic Arts](../E/Electronic_Arts.md). Nó được phát triển bởi Pandemia Studios cho các máy chơi game PC, Xbox 360, PlayStation 3 và Nintendo DS. [Weta Digital](../W/Weta_Digital.md) đã hợp tác cùng với Pandemia và đã cung cấp một số mô hình kỹ thuật số để họ sử dụng, bao gồm cả [thú vật sa ngã](../F/Fell_beasts.md).
 
 ## Cách chơi {#Gameplay}
 
 ### Chiến dịch tốt {#Good_Campaign}
 
-Chiến dịch Tốt bắt đầu tại [Trận chiến của Liên minh cuối cùng](../L/Last_Alliance_of_Elves_and_Men.md) như một giai đoạn huấn luyện và tiếp tục với bối cảnh dựa trên các bộ phim, chẳng hạn như [Trận chiến Isengard](../B/Battle_of_Isengard.md) với tư cách là một [Ent](../E/Ent.md), [Gandalf](../G/Gandalf.md) chiến đấu với [Saruman](../S/Saruman.md) trong [Orthanc](../O/Orthanc.md), chiến đấu với [Balrog](../B/Balrogs.md) trong [Mỏ Moria](../K/Khazad-dûm.md), chiến đấu với [Nazgûl](../N/Nazgûl.md) với tư cách là [Faramir](../F/Faramir.md) trong khi bảo vệ [Frodo](../F/Frodo_Baggins.md) và chiến đấu bên trong [Minas Morgul](../M/Minas_Morgul.md). Ngoài ra còn có một nhiệm vụ có [Gimli](../G/Gimli.md) và nỗ lực của ông ta để lấy lại Moria.
+Chiến dịch Tốt bắt đầu ở [Trận chiến Liên minh Cuối cùng](../L/Last_Alliance_of_Elves_and_Men.md) như một giai đoạn huấn luyện và tiếp tục với bối cảnh dựa trên các bộ phim, chẳng hạn như [Trận chiến Isengard](../B/Battle_of_Isengard.md) với tư cách là một [Ent](../E/Ent.md), [Gandalf](../G/Gandalf.md) chiến đấu [Saruman](../S/Saruman.md) trong [Orthanc](../O/Orthanc.md), chiến đấu với [Balrog](../B/Balrogs.md) trong [Mỏ Moria](../K/Khazad-dûm.md), chiến đấu [Nazgûl](../N/Nazgûl.md) dưới dạng [Faramir](../F/Faramir.md) đồng thời bảo vệ [Frodo](../F/Frodo_Baggins.md) và chiến đấu bên trong [Minas Morgul](../M/Minas_Morgul.md). Ngoài ra còn có một nhiệm vụ có [Gimli](../G/Gimli.md) và nỗ lực của ông ta để lấy lại Moria.
 
 ### Chiến dịch tà ác {#Evil_Campaign}
 
-Chiến dịch Ác ma bắt đầu ngay lập tức trong một vũ trụ thay thế, nơi Nazgûl vừa giết Frodo và ngăn anh phá hủy [Chiếc Nhẫn Chúa](The_One_Ring.md). Người chơi sẽ có cơ hội chiến đấu với tư cách là [Oliphaunts](../O/Oliphaunts.md) tại [Minas Tirith](../M/Minas_Tirith.md), trong vai [Trolls](Trolls.md) tại [Helm's Deep](../H/Helm's_Deep.md), trong vai Balrog, trong vai Nazgûl chống lại [Aragorn](../A/Aragorn.md) tại [Weathertop](../W/Weathertop.md), chống lại [Shire](The_Shire.md) và cuối cùng, với tư cách là [Sauron](../S/Sauron.md) chống lại [Rivendell](../R/Rivendell.md).
+Chiến dịch Ác ma bắt đầu ngay lập tức trong một vũ trụ thay thế, nơi Nazgûl vừa giết Frodo và ngăn ông ta phá hủy [Chiếc Nhẫn Chúa](The_One_Ring.md). Người chơi sẽ có cơ hội chiến đấu với tư cách là [Oliphaunts](../O/Oliphaunts.md) tại [Minas Tirith](../M/Minas_Tirith.md), với tư cách là [Troll](Trolls.md) tại [Helm's Deep](../H/Helm's_Deep.md), với tư cách là Balrog, với tư cách là Nazgûl chống lại [Aragorn](../A/Aragorn.md) tại [Weathertop](../W/Weathertop.md), chống lại [ Shire](The_Shire.md) và cuối cùng là chính [Sauron](../S/Sauron.md) chống lại [Rivendell](../R/Rivendell.md).
 
 ## Nhân vật có thể chơi được {#Playable_Characters}
 
 ### Những anh hùng {#Heroes}
 
-- [Aragor](../A/Aragorn.md)
+- [Aragorn](../A/Aragorn.md)
 - [Arwen](../A/Arwen.md)
 - [Boromir](../B/Boromir.md)
 - [Elrond](../E/Elrond.md)
@@ -78,7 +78,7 @@ Chiến dịch Ác ma bắt đầu ngay lập tức trong một vũ trụ thay t
 
 - [Balrog](../B/Balrog.md)
 - [Gothmog](<../G/Gothmog_(Lieutenant_of_Morgul).md>)
-- [Lưỡi giun Grima](../G/Gríma.md)
+- [Gríma Wormtongue](../G/Gríma.md)
 - [Lurtz](../L/Lurtz.md)
 - [Miệng của Sauron](../M/Mouth_of_Sauron.md)
 - [Nazgûl](../N/Nazgûl.md)
@@ -86,7 +86,7 @@ Chiến dịch Ác ma bắt đầu ngay lập tức trong một vũ trụ thay t
 - [Saruman](../S/Saruman.md)
 - [Sauron](../S/Sauron.md)
 - [Quỷ dữ](Troll.md)
-- [Vua phù thủy](../W/Witch-king.md)
+- [Vua Phù thủy](../W/Witch-king.md)
 
 ## Bản đồ {#Maps}
 
@@ -250,8 +250,8 @@ Chiến dịch Ác ma bắt đầu ngay lập tức trong một vũ trụ thay t
 
 Các bản nhạc của [Howard Shore](../H/Howard_Shore.md) trong phim cũng được đưa vào trò chơi. Các bản nhạc sau được sử dụng với giấy phép:
 
-- "Cái bóng của quá khứ"
-- "Tại dấu hiệu của chú ngựa chồm lên"
+- " Bóng Tối Của Quá Khứ"
+- "Tại Dấu Hiệu The Prancing Pony"
 - "Chuyến bay tới chiếc Ford"
 - "Con dao trong bóng tối"
 - "Cầu Khazad Dum"
@@ -259,22 +259,22 @@ Các bản nhạc của [Howard Shore](../H/Howard_Shore.md) trong phim cũng đ
 - "Vòng tiến về phía Nam"
 - "Tro Và Khói"
 - "Minas Tirith"
-- "Cây Trắng"
+- "Cái Cây Trắng"
 - "Cánh đồng Pelennor"
 - "Hy vọng và Ký ức"
 - "Minas Morgul"
-- "Chuyến đi của người Rohirrim"
-- "Cổng Đen Mở Ra"
+- "Chuyến Đi Của Rohirrim"
+- " Cổng Đen Mở"
 - "Sự kết thúc của mọi chuyện"
 - "Nền Đá"
 - "Con đường của đầm lầy"
 - "Uruk‑Hai"
-- "Vua của Sảnh Vàng"
+- " Vua Của Sảnh Vàng"
 - "Kỵ Sĩ Trắng"
-- "Mũ nón sâu"
+- "Helm's Deep"
 - "Eorlingas thứ tư"
 - "Việc thuần hóa Smeagol"
-- "Isengard được giải phóng"
+- "Isengard Đã giải phóng"
 
 ## Xem thêm {#See_also}
 
@@ -284,7 +284,7 @@ Các bản nhạc của [Howard Shore](../H/Howard_Shore.md) trong phim cũng đ
 
 - <b><a class="external text" href="http://pandemicstudios.com/conquest" rel="noreferrer noopener" target="_blank">Trang web chính thức</a></b>
 - <a class="external text" href="http://www.theonering.net/torwp/2008/05/08/28812-what-is-the-lord-of-the-rings-conquest-pandemic-studios-eric-%e2%80%9cgiz%e2%80%9d-gewirtz-tells-us-about-it/" rel="noreferrer noopener" target="_blank">Bài phỏng vấn Eric Gewirtz (đạo diễn)</a> tại [TheOneRing.net](TheOneRing.net.md)
-- <a class="extiw" href="http://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_Conquest" title="wikipedia:The Lord of the Rings: Conquest">Chúa tể của những chiếc nhẫn: Cuộc chinh phục</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
+- <a class="extiw" href="http://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_Conquest" title="wikipedia:The Lord of the Rings: Conquest">The Lord of the Rings: Chinh phục</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
 
 <table style="margin: 0 auto; width: 100%;" class="mw-collapsible mw-collapsed toccolours" align="center">
 <tbody><tr>

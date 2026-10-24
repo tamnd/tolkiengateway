@@ -23,7 +23,7 @@ images:
 
 ## Văn học {#Literature}
 
-- <a class="extiw" href="http://en.wikipedia.org/wiki/King_Arthur" title="wikipedia:King Arthur">Vua Arthur</a>, nhà lãnh đạo huyền thoại người Anh, nhân vật trung tâm của “văn học Arthur” trong truyện
+- <a class="extiw" href="http://en.wikipedia.org/wiki/King_Arthur" title="wikipedia:King Arthur">Vua Arthur</a>, nhà lãnh đạo huyền thoại người Anh, nhân vật trung tâm của "văn học Arthur" trong truyện
     - "[Sự sụp đổ của Arthur](../T/The_Fall_of_Arthur.md)", bài thơ xuất bản của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)
     - *[The Book of Kyng Arthur: The Unity of Malory's Morte Darthur](../T/The_Book_of_Kyng_Arthur.md)*, một cuốn sách [1965](../_/1965.md) của [Charles Moorman](../C/Charles_Moorman.md), bao gồm [hồi tưởng về J.R.R. Tolkien](../../index/R/Reminiscences_of_J.R.R._Tolkien.md).
 

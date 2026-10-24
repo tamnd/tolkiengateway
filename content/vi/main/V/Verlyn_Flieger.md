@@ -44,9 +44,9 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/V/Verlyn_Flieger.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/91/Verlyn_Flieger.jpg/320px-Verlyn_Flieger.jpg" decoding="async" loading="lazy" width="320" height="314" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/91/Verlyn_Flieger.jpg/480px-Verlyn_Flieger.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/9/91/Verlyn_Flieger.jpg/640px-Verlyn_Flieger.jpg 2x" data-file-width="1696" data-file-height="1663"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Verlyn Flieger</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Born</th><td class="tg-infobox-data"><a href="../_/24_February.md" title="24 February">24 February</a> <a href="../_/1933.md" title="1933">1933</a><sup id="cite_ref-LT_1-0" class="reference"><a href="#cite_note-LT-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Education</th><td class="tg-infobox-data">Ph.D. from <a class="extiw" href="http://en.wikipedia.org/wiki/The_Catholic_University_of_America" title="wikipedia:The Catholic University of America">The Catholic University of America</a></td></tr><tr><th scope="row" class="tg-infobox-label">Occupation</th><td class="tg-infobox-data">Author, Professor</td></tr></tbody></table>
 
-**Verlyn Flieger** ([24 tháng 2](../_/24_February.md) [1933](../_/1933.md)) là Giáo sư Khoa Tiếng Anh tại <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Maryland" title="wikipedia:University of Maryland">Đại học Maryland</a>. Cô đã viết nhiều cuốn sách liên quan đến [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Cô cũng là người đoạt nhiều [Giải thưởng Thần thoại](../M/Mythopoeic_Society.md).
+**Verlyn Flieger** ([24 tháng 2](../_/24_February.md) [1933](../_/1933.md)) là Giáo sư khoa Tiếng Anh tại <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Maryland" title="wikipedia:University of Maryland">Đại học Maryland</a>. Cô đã viết nhiều cuốn sách liên quan đến [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Cô cũng là người đoạt nhiều [Giải thưởng Thần thoại](../M/Mythopoeic_Society.md).
 
-Cùng với [Michael D.C. Drout](../M/Michael_D.C._Drout.md), Flieger là đồng biên tập của *[Tolkien Studies: An Annual Scholarly Review](<../T/Tolkien_Studies_(journal).md>)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Cô cũng là thành viên Hội đồng Cố vấn Học thuật cho [Nhà xuất bản Cây đi bộ](../W/Walking_Tree_Publishers.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Với [Michael D.C. Drout](../M/Michael_D.C._Drout.md), Flieger là đồng biên tập của *[Tolkien Studies: An Annual Scholarly Review](<../T/Tolkien_Studies_(journal).md>)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Cô cũng là thành viên Ban cố vấn học thuật của [Nhà xuất bản Cây đi bộ](../W/Walking_Tree_Publishers.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Thư mục {#Bibliography}
 
@@ -54,7 +54,7 @@ Cùng với [Michael D.C. Drout](../M/Michael_D.C._Drout.md), Flieger là đồn
 
 - [1983](../_/1983.md): *[Splintered Light](../S/Splintered_Light.md)*
 - [1997](../_/1997.md): *[A Question of Time](../A/A_Question_of_Time.md)*
-- [2000](../_/2000.md): *[Tolkien's Legendarium: Essays on The History of Middle-earth](../T/Tolkien's_Legendarium.md)* (người biên tập, với [Carl F. Hostetter](../C/Carl_F._Hostetter.md))
+- [2000](../_/2000.md): *[Tolkien's Legendarium: Essays on The History of Middle-earth](../T/Tolkien's_Legendarium.md)* (trình soạn thảo, với [Carl F. Hostetter](../C/Carl_F._Hostetter.md))
 - [2002](../_/2002.md): *Splintered Light* (phiên bản mở rộng)
 - [2005](../_/2005.md): *[Smith of Wootton Major](../S/Smith_of_Wootton_Major.md)* (biên tập viên)
 - [2005](../_/2005.md): *[Interrupted Music: The Making of Tolkien's Mythology](../I/Interrupted_Music%253A_The_Making_of_Tolkien's_Mythology.md)*
@@ -165,7 +165,7 @@ Cùng với [Michael D.C. Drout](../M/Michael_D.C._Drout.md), Flieger là đồn
 - [1988](../_/1988.md): **[Giải thưởng học bổng huyền thoại dành cho nghiên cứu mơ hồ](../M/Mythopoeic_Society.md)**, *[A Question of Time: J.R.R. Tolkien’s Road to Faërie](../A/A_Question_of_Time.md)*
 - [2002](../_/2002.md): **[Giải thưởng học bổng huyền thoại dành cho nghiên cứu mơ hồ](../M/Mythopoeic_Society.md)**, *[Tolkien's Legendarium: Essays on the History of Middle-earth](../T/Tolkien's_Legendarium.md)*
 - [2013](../_/2013.md): **[Giải thưởng học bổng huyền thoại dành cho nghiên cứu mơ hồ](../M/Mythopoeic_Society.md)**, *[Green Suns and Faërie: Essays on J.R.R. Tolkien](../G/Green_Suns_and_Faërie.md)*
-- [2021](../_/2021.md): **[Giải thưởng của Hiệp hội Tolkien](../T/The_Tolkien_Society_Awards.md): Bài viết hay nhất**, <i><a class="external text" href="https://journals.tolkiensociety.org/mallorn/issue/view/62/63" rel="noreferrer noopener" target="_blank">Thách thức và xác định bóng tối</a></i> ở [Mallorn 61](../M/Mallorn_61.md)
+- [2021](../_/2021.md): **[Giải thưởng của Hội Tolkien](../T/The_Tolkien_Society_Awards.md): Bài viết hay nhất**, <i><a class="external text" href="https://journals.tolkiensociety.org/mallorn/issue/view/62/63" rel="noreferrer noopener" target="_blank">Chống lại và xác định Bóng Tối</a></i> trong [Mallorn 61](../M/Mallorn_61.md)
 
 ## Liên kết ngoài {#External_links}
 
@@ -175,12 +175,12 @@ Cùng với [Michael D.C. Drout](../M/Michael_D.C._Drout.md), Flieger là đồn
 ### Trò chuyện {#Talks}
 
 - <a class="external text" href="http://www.youtube.com/watch?v=q87vHzNFadU" rel="noreferrer noopener" target="_blank"><i>Sinh vật tưởng tượng - Trải nghiệm thực tế</i></a>, tại TEDxUMD
-- <a class="external text" href="https://www.youtube.com/watch?v=131d2hdD-7s&amp;ab_channel=TheTolkienSociety" rel="noreferrer noopener" target="_blank"><i>Đợi Earendel</i></a>, tại [Hiệp hội Tolkien](../T/The_Tolkien_Society.md)
+- <a class="external text" href="https://www.youtube.com/watch?v=131d2hdD-7s&amp;ab_channel=TheTolkienSociety" rel="noreferrer noopener" target="_blank"><i>Đợi Earendel</i></a>, lúc [Hội Tolkien](../T/The_Tolkien_Society.md)
 
 ### Phỏng vấn {#Interviews}
 
-- <a class="external text" href="https://www.youtube.com/watch?v=LXFsvhYbIOY&amp;list=PL2ebpgGctifGbItNCuGOehOiSHXS-89-V&amp;index=23&amp;ab_channel=TolkienExperience" rel="noreferrer noopener" target="_blank">Tập 31</a> của [Podcast Trải nghiệm Tolkien](../T/The_Tolkien_Experience.md)
-- <a class="external text" href="https://theprancingponypodcast.com/2018/07/08/090-between-light-and-dark-an-interview-with-verlyn-flieger/" rel="noreferrer noopener" target="_blank">Giữa ánh sáng và bóng tối: Cuộc phỏng vấn với Verlyn Flieger</a>, tập 90 của [Podcast The Prancing Pony](../T/The_Prancing_Pony_Podcast.md)
+- <a class="external text" href="https://www.youtube.com/watch?v=LXFsvhYbIOY&amp;list=PL2ebpgGctifGbItNCuGOehOiSHXS-89-V&amp;index=23&amp;ab_channel=TolkienExperience" rel="noreferrer noopener" target="_blank">Tập 31</a> của [The Tolkien Experience Podcast](../T/The_Tolkien_Experience.md)
+- <a class="external text" href="https://theprancingponypodcast.com/2018/07/08/090-between-light-and-dark-an-interview-with-verlyn-flieger/" rel="noreferrer noopener" target="_blank">Giữa ánh sáng và bóng tối: Phỏng vấn Verlyn Flieger</a>, tập 90 của [The Prancing Pony Podcast](../T/The_Prancing_Pony_Podcast.md)
 
 <span></span>
 

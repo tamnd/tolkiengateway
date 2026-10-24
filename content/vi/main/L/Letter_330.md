@@ -31,7 +31,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien xin lỗi vì đã không trả lời bức thư ngày 19 tháng 10 của Cater, mà ông gọi là một trong những lá thư tử tế và khích lệ nhất từng nhận được. Ông ấy nói rằng những lá thư dài bất kỳ gửi cho một người đàn ông bị cô lập cũng giống như bánh mì đối với một tù nhân đang chết đói trong một tòa tháp. <br>
+Tolkien xin lỗi vì đã không trả lời lá thư ngày 19 tháng 10 của Cater, lá thư mà ông gọi là một trong những lá thư tử tế và khích lệ nhất từng nhận được. Ông ấy nói rằng những lá thư dài bất kỳ gửi cho một người đàn ông bị cô lập cũng giống như bánh mì đối với một tù nhân đang chết đói trong một tòa tháp. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

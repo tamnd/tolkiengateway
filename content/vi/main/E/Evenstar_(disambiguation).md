@@ -16,9 +16,9 @@ images:
 
 **Evenstar** có thể đề cập đến:
 
-## Trung địa {#Middle-earth}
+## Trung Địa {#Middle-earth}
 
-- **"Evenstar"**, là bản dịch của "Undómiel", [Arwen](../A/Arwen.md)'s [epessë](Epessë.md).
+- **"Evenstar"**, là bản dịch của "Undómiel", [epessë](Epessë.md) của [Arwen](../A/Arwen.md).
 
 ## Các bản chuyển thể {#Adaptations}
 

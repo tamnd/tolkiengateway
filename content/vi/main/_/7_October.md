@@ -65,15 +65,15 @@ Sự kiện xảy ra vào ngày 7 tháng 10
 
 - **[1945](1945.md)** - Tác giả [Hal Colebatch](../H/Hal_Colebatch.md) ra đời.
 - **[1983](1983.md)** - Nữ diễn viên nghiệp dư [Hannah Wood](../H/Hannah_Wood.md) ra đời.
-- **[1984](1984.md)** - [Oxonmoot 1984](../O/Oxonmoot_1984.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Oxford_Town_Hall" title="wikipedia:Oxford Town Hall">Tòa thị chính Oxford</a>.
+- **[1984](1984.md)** - [Oxonmoot 1984](../O/Oxonmoot_1984.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Oxford_Town_Hall" title="wikipedia:Oxford Town Hall">Oxford Tòa thị chính</a>.
 - **[2007](2007.md)** - *Cair Andros*, bữa tiệc của [Ellinikós Sýllogos Philon Tólkin](../E/Ellinikós_Sýllogos_Philon_Tólkin.md).
 - **[2008](2008.md)** - Bộ [sê-ri radio năm 1992](<../T/Tales_from_the_Perilous_Realm_(1992_radio_series).md>) của *[Tales from the Perilous Realm](../T/Tales_from_the_Perilous_Realm.md)* được phát hành lại tại Mỹ.
 - **[2019](2019.md)** - *[Music in Tolkien's Work and Beyond](../M/Music_in_Tolkien's_Work_and_Beyond.md)* được xuất bản.
-- **[2022](2022.md)** - Tập [The Eye](../T/The_Eye.md) của *[The Lord of the Rings: The Rings of Power](../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)* được phát hành trực tuyến.
+- **[2022](2022.md)** - Tập [Con mắt](../T/The_Eye.md) của *[The Lord of the Rings: The Rings of Power](../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)* được phát hành trực tuyến.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - Với [Frodo](../F/Frodo_Baggins.md) bị thương nặng, [Strider](../A/Aragorn.md) và [bốn hobbit](../T/Travellers.md) di chuyển chậm rãi về phía [Rivendell](../R/Rivendell.md).
-    - [Gandalf](../G/Gandalf.md) vội vã tiến về [Rivendell](../R/Rivendell.md) sau khi [Kỵ sĩ áo đen](../N/Nazgûl.md) tấn công ông ta trên [Weathertop](../W/Weathertop.md).
+    - Với [Frodo](../F/Frodo_Baggins.md) bị thương nặng, [Strider](../A/Aragorn.md) và [bốn hobbit](../T/Travellers.md) di chuyển chậm về phía [Rivendell](../R/Rivendell.md).
+    - [Gandalf](../G/Gandalf.md) lao về phía [Rivendell](../R/Rivendell.md) sau khi [Kỵ sĩ Đen](../N/Nazgûl.md) tấn công ông ta vào [Weathertop](../W/Weathertop.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.

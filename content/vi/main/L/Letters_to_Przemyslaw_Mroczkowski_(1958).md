@@ -22,7 +22,7 @@ Trong [1958](../_/1958.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết
 
 ## Nội dung {#Contents}
 
-\[Mô tả và đoạn trích:\] "Năm 1958 \[Tolkien\] đề cập đến một 'vấn đề khó khăn', đề nghị hỗ trợ tài chính cho bạn mình, dưới hình thức £30, viết vài ngày sau đó để bày tỏ sự vui mừng của mình rằng 'bạn sẽ cho phép tôi chia sẻ một ít số tiền thu được từ *The Lord of the Rings*. Đặc biệt vì tôi đoán đó là câu trả lời cho lời cầu nguyện, vì trên đường từ nhà thờ vào Chủ nhật, tôi đột nhiên có trực giác rõ ràng rằng bạn đang lo lắng và đang ở trong đó'. khó khăn'."<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+\[Mô tả và đoạn trích:\] "Năm 1958 \[Tolkien\] đề cập đến một 'vấn đề khó khăn', đề nghị hỗ trợ tài chính cho bạn mình, dưới hình thức 30 bảng Anh, viết vài ngày sau đó để bày tỏ sự vui mừng của mình rằng 'bạn sẽ cho phép tôi chia sẻ một ít số tiền thu được từ *The Lord of the Rings*. Đặc biệt vì tôi đoán đó là câu trả lời cho lời cầu nguyện, vì trên đường từ nhà thờ vào Chủ nhật, tôi đột nhiên có trực giác rõ ràng rằng bạn đang lo lắng và đang ở trong đó'. khó khăn'."<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Xem thêm {#See_also}
 

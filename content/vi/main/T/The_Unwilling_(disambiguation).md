@@ -16,8 +16,8 @@ images:
 
 **Không muốn** có thể đề cập đến:
 
-- [Avari](../A/Avari.md), một nhánh của [Yêu tinh](../E/Elves.md) đã từ chối tham gia [Hành trình vĩ đại](../G/Great_Journey.md).
-- [Tar-Atanamir](Tar-Atanamir.md), [Vua của Númenor](../K/King_of_Númenor.md) thứ mười ba và là Vua đầu tiên từ chối tự nguyện từ bỏ mạng sống của mình.
+- [Avari](../A/Avari.md), một nhánh của [Tiên tộc](../E/Elves.md) đã từ chối bắt tay vào [Đại Hành Trình](../G/Great_Journey.md).
+- [Tar-Atanamir](Tar-Atanamir.md), [Vua thứ mười ba của Númenor](../K/King_of_Númenor.md) và là Vua đầu tiên từ chối tự nguyện từ bỏ mạng sống của mình.
 
 <hr style="margin-top:15px;"/>
 

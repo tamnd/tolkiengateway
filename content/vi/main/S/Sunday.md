@@ -27,15 +27,15 @@ categories:
 <li><a href="../H/Highday.md" title="Highday">Highday</a></li></ol>
 </td></tr></tbody></table>
 
-**Chủ Nhật** (dạng cổ *Sunnendei*) là ngày thứ hai trong tuần trong [Lịch Quận](Shire_Calendar.md). Nó được dành riêng cho [Mặt trời](Sun.md), tượng trưng cho ngày [Númenórean](../N/Númenórean.md) *[Oranor](../O/Oranor.md)*.<sup id="cite_ref-cal_1-0" class="reference"><a href="#cite_note-cal-1">[1]</a></sup>
+**Chủ Nhật** (dạng cổ xưa *Sunnendei*) là ngày thứ hai trong tuần ở [Lịch Shire](Shire_Calendar.md). Nó được dành riêng cho ngày [Mặt Trời](Sun.md), tượng trưng cho ngày [Númenórean](../N/Númenórean.md) *[Oranor](../O/Oranor.md)*.<sup id="cite_ref-cal_1-0" class="reference"><a href="#cite_note-cal-1">[1]</a></sup>
 
 Sau cuộc cải cách [Isengrim Took II](../I/Isengrim_Took_II.md),<sup id="cite_ref-cal_1-1" class="reference"><a href="#cite_note-cal-1">[1]</a></sup> [1 tháng 1](../_/1_January.md) và [1 tháng 7](../_/1_July.md) luôn rơi vào Chủ nhật.
 
 ## Từ nguyên {#Etymology}
 
-*Sunday* đại diện cho một dạng [Hobbitish](../H/Hobbitish.md) cổ xưa "Sunnendei", một từ được lưu giữ trong [Yellowskin](../Y/Yellowskin.md). Nó được dành riêng cho [Mặt trời](Sun.md).<sup id="cite_ref-cal_1-2" class="reference"><a href="#cite_note-cal-1">[1]</a></sup>
+*Sunday* đại diện cho dạng [Hobbitish](../H/Hobbitish.md) cổ "Sunnendei", một từ được lưu giữ trong [Yellowskin](../Y/Yellowskin.md). Nó được dành riêng cho [Mặt Trời](Sun.md).<sup id="cite_ref-cal_1-2" class="reference"><a href="#cite_note-cal-1">[1]</a></sup>
 
-*Sunday* được dịch là "Chủ nhật" trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* nhưng đó không phải là ngày chính trong tuần của người Hobbit mà là thứ Sáu. Vì lý do này, có một ngoại lệ, và "Chủ Nhật" được nhắc đến trong bài thơ *[The Man in the Moon Stayed Up Too Late](../T/The_Man_in_the_Moon_Stayed_Up_Too_Late.md)*, thực ra là nói đến [Thứ Sáu](../H/Highday.md) của người Hobbit.<sup id="cite_ref-cal_1-3" class="reference"><a href="#cite_note-cal-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+*Sunday* được dịch là "Chủ nhật" trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* nhưng đó không phải là ngày chính của tuần Hobbitish mà là thứ Sáu. Vì lý do này, có một ngoại lệ, và chữ "Chủ nhật" được nhắc đến trong bài thơ *[The Man in the Moon Stayed Up Too Late](../T/The_Man_in_the_Moon_Stayed_Up_Too_Late.md)*, thực ra là nói đến Hobbitish [Thứ Sáu](../H/Highday.md).<sup id="cite_ref-cal_1-3" class="reference"><a href="#cite_note-cal-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

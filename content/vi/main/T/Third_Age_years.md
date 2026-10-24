@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Third Age years"
 ---
 
-Chuyển hướng đến [Danh mục:Tuổi thứ ba](../../category/T/Third_Age_years.md).
+Chuyển hướng đến [Danh mục:Kỷ Đệ Tam năm](../../category/T/Third_Age_years.md).

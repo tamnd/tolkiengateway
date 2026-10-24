@@ -15,15 +15,15 @@ sort_keys:
   "Parma Nölé": "Parma Nole 03"
 ---
 
-<b><i>Parma Nölé</i> 3</b> là số thứ ba của tạp chí [Hiệp hội Tolkien Đông Bắc](../N/North_East_Tolkien_Society.md) *[Parma Nölé](Parma_Nölé.md)*.
+<b><i>Parma Nölé</i> 3</b> là số thứ ba của tạp chí [Miền Bắc phương Đông Tolkien Hiệp hội](../N/North_East_Tolkien_Society.md) *[Parma Nölé](Parma_Nölé.md)*.
 
 ## Nội dung {#Contents}
 
 - [Anthony S. Burdge](../A/Anthony_S._Burdge.md): "Ghi chú của Chủ tịch và Biên tập viên"
 - "Phỏng vấn độc quyền với Clay Harper"
 - [Anthony S. Burdge](../A/Anthony_S._Burdge.md): "Báo cáo hiện trường"
-- "Thế giới hoàn hảo của Tolkien"
-- [W.H. Auden](../W/W.H._Auden.md): "Người Hùng Là Người Hobbit" (tái bản)
+- "Thế giới hoàn hảo củaTolkien"
+- [W.H. Auden](../W/W.H._Auden.md): "Người Anh Hùng Là Một Hobbit" (tái bản)
 - "Danh sách sách mới và sắp xuất bản"
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Roseane_Daniello&amp;action=edit&amp;redlink=1" title="Roseane Daniello (page does not exist)">Roseane Daniello</a>: "Diễn đàn thành viên"
 - "Tượng nhỏ WETA/Sideshow mới"

@@ -32,7 +32,7 @@ infobox:
 
 Ông Eric Rogers đã gửi thư cho “bất kỳ Giáo sư Ngôn ngữ Anh nào”. Anh thắc mắc về cách sử dụng động từ trong câu bị động: “Một số bức tường văn phòng *has* bị hư hại”, hay “*have* bị hư hại”?
 
-Tolkien, hiện đã nghỉ hưu, nói rằng ông Rogers có thể làm theo ý mình; cả hai đều đúng. Vì "number" là số ít nên động từ có thể ở số ít. Nhưng vì "walls" là số nhiều nên động từ có thể ở số nhiều.
+Tolkien, hiện đã nghỉ hưu, khẳng định ông Rogers có thể làm theo ý mình; cả hai đều đúng. Vì "number" là số ít nên động từ có thể ở số ít. Nhưng vì "walls" là số nhiều nên động từ có thể ở số nhiều.
 
 <br>
 

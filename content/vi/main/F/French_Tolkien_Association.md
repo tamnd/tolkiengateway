@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien & Co"
 ---
 
-Chuyển hướng đến [Tolkien & Co](../T/Tolkien_&_Co.md).
+Chuyển hướng tới [Tolkien & Co](../T/Tolkien_&_Co.md).

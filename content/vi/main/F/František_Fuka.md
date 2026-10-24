@@ -33,4 +33,4 @@ sort_keys:
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="extiw" href="http://en.wikipedia.org/wiki/Franti%C5%A1ek_Fuka" title="wikipedia:František Fuka">František Fuka</a> at <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
+- <a class="extiw" href="http://en.wikipedia.org/wiki/Franti%C5%A1ek_Fuka" title="wikipedia:František Fuka">František Fuka</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>

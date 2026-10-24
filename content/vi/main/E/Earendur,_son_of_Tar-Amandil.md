@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Eärendur (son of Tar-Amandil)"
 ---
 
-Chuyển hướng tới [Eärendur (con trai của Tar-Amandil)](<Eärendur_(son_of_Tar-Amandil).md>).
+Chuyển hướng đến [Eärendur (con trai của Tar-Amandil)](<Eärendur_(son_of_Tar-Amandil).md>).

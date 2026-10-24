@@ -15,7 +15,7 @@ sort_keys:
   "Podcasts": "Secrets of Middle-earth, The"
 ---
 
-<i><b>Bí mật của Trung địa</b></i> là một podcast liên quan đến [Tolkien](../J/J.R.R._Tolkien.md) do Fr. Roderick. Trước đây nó được gọi là *Bí mật của Chúa tể những chiếc nhẫn* nhưng tên của podcast đã được đổi thành *The Secrets of Middle-earth* vào [2 tháng 7](../_/2_July.md), [2010](../_/2010.md).
+<i><b>Bí mật của Trung Địa</b></i> là một podcast liên quan đến [Tolkien](../J/J.R.R._Tolkien.md) do Fr. Roderick. Trước đây nó được gọi là *Bí mật của Chúa tể những chiếc nhẫn* nhưng tên của podcast đã được đổi thành *The Secrets of Middle-earth* vào [2 tháng 7](../_/2_July.md), [2010](../_/2010.md).
 
 ## Liên kết ngoài {#External_links}
 

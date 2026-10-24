@@ -34,7 +34,7 @@ categories:
 <li><b><a href="Lay_of_Leithian_Canto_XIV.md" title="Lay of Leithian Canto XIV">Canto XIV</a></b></li></ol>
 </td></tr></tbody></table>
 
-[Canto](../C/Cantos_of_the_Lay_of_the_Leithian.md) đầu tiên này của [Lay of Leithian](Lay_of_Leithian.md) kể về [Elu Thingol](../T/Thingol.md), [Lúthien Tinúviel](Lúthien.md) và [Doriath](../D/Doriath.md). Nó dài tới 98 dòng, đoạn ngắn nhất để lưu dòng cuối cùng, chưa hoàn thành.
+[Canto](../C/Cantos_of_the_Lay_of_the_Leithian.md) đầu tiên của [Lay of Leithian](Lay_of_Leithian.md) kể về [Elu Thingol](../T/Thingol.md), [Lúthien Tinúviel](Lúthien.md) và [Doriath](../D/Doriath.md). Nó dài tới 98 dòng, đoạn ngắn nhất để lưu dòng cuối cùng, chưa hoàn thành.
 
 ## Về Canto {#Concerning_the_Canto}
 

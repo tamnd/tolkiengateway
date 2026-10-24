@@ -12,4 +12,4 @@ categories:
   - "British locations"
 ---
 
-**Warwickshire** là một trong những hạt của nước Anh. [Tolkien](../J/J.R.R._Tolkien.md) đã sống ở đó trong suốt thời thơ ấu của mình, khiến Barrow Downs ở Warwickshire có thể có ảnh hưởng đến [Barrow-downs](../B/Barrow-downs.md) của [Trung địa](../M/Middle-earth.md).
+**Warwickshire** là một trong những hạt của nước Anh. [Tolkien](../J/J.R.R._Tolkien.md) sống ở đó trong suốt thời thơ ấu của mình, khiến Barrow Downs of Warwickshire có thể có ảnh hưởng đối với [Barrow-downs](../B/Barrow-downs.md) của [Trung Địa](../M/Middle-earth.md).

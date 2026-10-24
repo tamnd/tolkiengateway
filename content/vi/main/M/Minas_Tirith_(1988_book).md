@@ -44,11 +44,11 @@ infobox:
 
 ## Văn bản bìa/áo khoác {#Cover/Jacket_Text}
 
-Minas Tirith, Thành phố được bảo vệ, mọc lên từ chân núi Mindolluin. Thủ đô của Gondor, nó là biểu tượng ưu việt của cuộc đấu tranh chống lại Sauron của Mordor. Không có thành phố nào khác ở phía tây Trung Địa mang lại hy vọng lớn hơn cho việc bảo vệ các Dân tộc Tự do.
+Minas Tirith, Thành phố được bảo vệ, mọc lên từ chân Núi Mindolluin. Vốn của Gondor, là biểu tượng ưu việt của cuộc đấu tranh chống Sauron của Mordor. Không có thành phố nào khác ở phía tây Trung Địa mang lại hy vọng lớn hơn cho việc bảo vệ các Dân tộc Tự do.
 
-Minas Tirith chỉ huy khoảng trống rộng lớn giữa Dãy núi Trắng và Dãy núi Bóng tối bao quanh quê hương của Chúa tể Hắc ám. Bảy bức tường và bảy tầng của nó dường như mọc ra từ đá, như thể được chạm khắc bởi Người khổng lồ. Mỗi tầng của Thành phố Hoàng gia bao quanh tảng đá và sừng sững phía trên khu vực xung quanh, thành lũy của nó lấp lánh màu trắng mỗi khi mặt trời mọc.
+Minas Tirith tạo ra khoảng cách rộng lớn giữa Dãy Núi Trắng và Dãy Núi Bóng Tối bao quanh quê hương của Chúa tể Bóng tối. Bảy bức tường và bảy tầng của nó dường như mọc ra từ đá, như thể được chạm khắc bởi Người khổng lồ. Mỗi tầng của Thành phố Hoàng gia bao quanh tảng đá và sừng sững phía trên khu vực xung quanh, thành lũy của nó lấp lánh màu trắng mỗi khi mặt trời mọc.
 
-Ở trên đỉnh thủ đô, ở tầng cao nhất, Tháp Ecthelion vươn lên trời như một ngọn tháp bằng ngọc trai và pha lê. Giữa cơn bão do Chúa tể những chiếc nhẫn gây ra, tòa thành này là nơi trú ẩn cuối cùng ở Minas Tirith, một pháo đài vô song trong thời kỳ đáng ngại.
+Trên đỉnh thủ đô, ở tầng cao nhất, Tháp Ecthelion vươn lên trời như một ngọn tháp bằng ngọc trai và pha lê. Giữa cơn bão do Chúa tể những chiếc nhẫn gây ra, tòa thành này là nơi trú ẩn cuối cùng của Minas Tirith, một pháo đài vô song trong thời kỳ đáng ngại.
 
 Các tính năng của MINAS TIRITH:
 

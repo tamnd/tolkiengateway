@@ -18,7 +18,7 @@ sort_keys:
 
 ## Ví dụ {#Examples}
 
-Không có từ chuẩn nào có hậu tố này, nhưng [Helge Fauskanger](../H/Helge_Fauskanger.md) đã tạo ra một [thuyết mới](../N/Neo-Quenya.md) có thể dùng làm ví dụ: *nostarenca* ("không có cha mẹ, mồ côi").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
+Không có từ chuẩn nào có hậu tố này, nhưng [Helge Fauskanger](../H/Helge_Fauskanger.md) đã tạo ra một [từ mới](../N/Neo-Quenya.md) có thể dùng làm ví dụ: *nostarenca* ("không có cha mẹ, mồ côi").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

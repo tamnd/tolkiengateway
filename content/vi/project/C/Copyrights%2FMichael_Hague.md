@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Hague, Michael"
 ---
 
-- [Michael Hague](../../main/M/Michael_Hague.md) đã vui lòng cho phép anh sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Michael_Hague.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
+- [Michael Hague](../../main/M/Michael_Hague.md) đã vui lòng cho phép ông sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Michael_Hague.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Ngày: 12 tháng 6 năm 2014
 - Người dùng đã xin phép qua email: [KingAragorn](https://tolkiengateway.net/wiki/User:KingAragorn)

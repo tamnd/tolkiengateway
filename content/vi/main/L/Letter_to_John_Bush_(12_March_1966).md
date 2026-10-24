@@ -17,12 +17,12 @@ sort_keys:
 
 Vào [12 tháng 3](../_/12_March.md) [1966](../_/1966.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho John Bush**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-- **Nội dung:** Tolkien cảm ơn một người hâm mộ đã gửi cho ông bản sao cuốn tiểu thuyết <a class="extiw" href="http://en.wikipedia.org/wiki/Frank_Herbert" title="wikipedia:Frank Herbert">Frank Herbert</a> <a class="extiw" href="http://en.wikipedia.org/wiki/Dune_(novel)" title="wikipedia:Dune (novel)"><i>Dune</i></a>của Frank. Tolkien viết rằng ông không thích "*Dune* với một mức độ nào đó, và trong trường hợp không may đó, điều tốt nhất và công bằng nhất là tác giả khác giữ im lặng và từ chối bình luận". Tolkien cũng đề nghị trả lại bản sao *Dune* vì ông đã nhận được một bản sao khác từ một người hâm mộ vào năm 1965.
+- **Nội dung:** Tolkien cảm ơn một người hâm mộ đã gửi cho ông bản sao <a class="extiw" href="http://en.wikipedia.org/wiki/Frank_Herbert" title="wikipedia:Frank Herbert">cuốn tiểu thuyết <a class="extiw" href="http://en.wikipedia.org/wiki/Dune_(novel)" title="wikipedia:Dune (novel)"><i>Dune</i></a>của Frank Herbert</a>. Tolkien viết rằng ông không thích "*Dune* ở mức độ nào đó, và trong trường hợp không may đó, điều tốt nhất và công bằng nhất là tác giả khác giữ im lặng và từ chối bình luận". Tolkien cũng đề nghị trả lại bản sao của *Dune* vì ông đã nhận được một bản sao khác từ một người hâm mộ vào năm 1965.
 - **Xuất bản:** Một đoạn trích từ bức thư đã được xuất bản trên *Tolkien's Library: An Annotated Checklist*.
 
 ## Xem thêm {#See_also}
 
-- [Thư gửi Sterling E. Lanier (29 tháng 9 năm 1965)](<Letter_to_Sterling_E._Lanier_(29_September_1965).md>)
+- [Thư gửi Sterling E. Lanier (29 tháng Chín 1965)](<Letter_to_Sterling_E._Lanier_(29_September_1965).md>)
 
 <span></span>
 

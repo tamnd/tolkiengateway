@@ -69,7 +69,7 @@ Sự kiện xảy ra vào ngày 25 tháng 5
 - **[1939](1939.md)** - Diễn viên [Ian McKellen](../I/Ian_McKellen.md) ra đời.
 - **[1944](1944.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 71](../L/Letter_71.md).
 - **[1965](1965.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 271](../L/Letter_271.md).
-- **[1968](1968.md)** - "Theo bước chân của người Hobbit", [cuộc phỏng vấn với Tolkien](../../index/I/Interviews_with_J.R.R._Tolkien.md), được xuất bản trên *Birmingham Post*.
+- **[1968](1968.md)** - "Theo bước chân của Hobbit", [cuộc phỏng vấn với Tolkien](../../index/I/Interviews_with_J.R.R._Tolkien.md), được đăng trên *Birmingham Post*.
 - **[1972](1972.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 337](../L/Letter_337.md).
 - **[2004](2004.md)** - Phiên bản chiếu rạp của *[The Lord of the Rings: The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)* được phát hành dưới dạng DVD.
 - **[2023](2023.md)** - *[The Lord of the Rings: Gollum](../T/The_Lord_of_the_Rings%253A_Gollum.md)* được phát hành.

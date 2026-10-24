@@ -12,14 +12,14 @@ categories:
   - "Roots"
 ---
 
-**OKO** là [Quendian nguyên thủy](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) biểu thị "xấu xa, xấu xa".<sup id="cite_ref-Eldarin_1-0" class="reference"><a href="#cite_note-Eldarin-1">[1]</a></sup>
+**OKO** là một [Primitive Quendian](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) biểu thị "xấu xa, xấu xa".<sup id="cite_ref-Eldarin_1-0" class="reference"><a href="#cite_note-Eldarin-1">[1]</a></sup>
 
 Căn gốc là một trong những đối lập của [AYA](../A/AYA~31206.md).<sup id="cite_ref-Eldarin_1-1" class="reference"><a href="#cite_note-Eldarin-1">[1]</a></sup>
 
 ## Công cụ phái sinh {#Derivatives}
 
 - [Quenya](../Q/Quenya.md): *olca*<sup id="cite_ref-Eldarin_1-2" class="reference"><a href="#cite_note-Eldarin-1">[1]</a></sup>
-- [Tiếng Sindarin](../S/Sindarin.md): *ogol*
+- [Sindarin](../S/Sindarin.md): *ogol*
 
 ## Xem thêm {#See_also}
 

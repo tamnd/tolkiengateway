@@ -13,7 +13,7 @@ categories:
   - "Quenya nouns"
 ---
 
-**Soron** (cổ xưa **þoron**) có nghĩa là "[đại bàng](../E/Eagles.md)" trong [Quenya](../Q/Quenya.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Dạng *soron* chỉ có thể là dạng của từ này được sử dụng trong từ ghép. Là một từ độc lập, Tolkien đã viết nó dưới dạng **sorno** trong một lá thư từ năm 1972.<sup id="cite_ref-let_2-0" class="reference"><a href="#cite_note-let-2">[2]</a></sup> Trước đó, trong Từ nguyên của những năm 1930, *soron* "đại bàng" xuất hiện bên cạnh một dạng thay thế **sorne**, nhưng dạng số nhiều *sorni* ("đại bàng") chỉ ra rằng *sorne* là dạng phổ biến.<sup id="cite_ref-etym_3-0" class="reference"><a href="#cite_note-etym-3">[3]</a></sup>
+**Soron** (cổ xưa **þoron**) có nghĩa là "[đại bàng](../E/Eagles.md)" trong [Quenya](../Q/Quenya.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Dạng *soron* chỉ có thể là dạng của từ này được sử dụng trong từ ghép. Là một từ độc lập, Tolkien viết nó là **sorno** trong một lá thư từ năm 1972.<sup id="cite_ref-let_2-0" class="reference"><a href="#cite_note-let-2">[2]</a></sup> Trước đó, vào Etymologies của những năm 1930, *soron* "đại bàng" xuất hiện bên cạnh một dạng thay thế **sorne**, nhưng dạng số nhiều của nó *sorni* ("đại bàng") chỉ ra rằng *sorne* là từ phổ biến biểu mẫu.<sup id="cite_ref-etym_3-0" class="reference"><a href="#cite_note-etym-3">[3]</a></sup>
 
 ## Ví dụ {#Examples}
 
@@ -27,7 +27,7 @@ categories:
 
 ## Từ nguyên {#Etymology}
 
-Từ này bắt nguồn từ [nguyên thủy](../P/Primitive_Quendian.md) **þoronō**<sup id="cite_ref-let_2-1" class="reference"><a href="#cite_note-let-2">[2]</a></sup> từ [gốc](Sundocarme.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=THORON&amp;action=edit&amp;redlink=1" title="THORON (page does not exist)">THORON</a> "đại bàng", phần mở rộng của từ gốc <a class="new" href="https://tolkiengateway.net/w/index.php?title=THOR&amp;action=edit&amp;redlink=1" title="THOR (page does not exist)">THOR</a> "sà xuống".<sup id="cite_ref-etym_3-1" class="reference"><a href="#cite_note-etym-3">[3]</a></sup> Trong quá trình phát triển các từ Quenya từ [Common Eldarin](../C/Common_Eldarin.md), một nguyên âm ngắn theo sau một nguyên âm khác có cùng chất lượng đã bị mất,<sup id="cite_ref-let_2-2" class="reference"><a href="#cite_note-let-2">[2]</a></sup> do đó *þoronō* nguyên thủy phát triển thành *þorno* rồi *sorno*.
+Từ này bắt nguồn từ [nguyên thủy](../P/Primitive_Quendian.md) **þoronō**<sup id="cite_ref-let_2-1" class="reference"><a href="#cite_note-let-2">[2]</a></sup> từ [gốc](Sundocarme.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=THORON&amp;action=edit&amp;redlink=1" title="THORON (page does not exist)">THORON</a> "đại bàng", một phần mở rộng của gốc <a class="new" href="https://tolkiengateway.net/w/index.php?title=THOR&amp;action=edit&amp;redlink=1" title="THOR (page does not exist)">THOR</a> "đi sà xuống".<sup id="cite_ref-etym_3-1" class="reference"><a href="#cite_note-etym-3">[3]</a></sup> Trong quá trình phát triển của Quenya từ từ [Common Eldarin](../C/Common_Eldarin.md), một nguyên âm ngắn theo sau một nguyên âm khác có cùng chất lượng đã bị mất,<sup id="cite_ref-let_2-2" class="reference"><a href="#cite_note-let-2">[2]</a></sup> do đó *þoronō* nguyên thủy phát triển thành *þorno* và sau đó là *sorno*.
 
 <span></span>
 

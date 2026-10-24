@@ -23,4 +23,4 @@ sort_keys:
 ## Thư mục {#Bibliography}
 
 - [2006](../_/2006.md): *[J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment](../J/J.R.R._Tolkien_Encyclopedia%253A_Scholarship_and_Critical_Assessment.md)*
-    - "Phần Lan: Tiếp đón Tolkien"
+    - "Phần Lan: Tiếp nhận Tolkien"

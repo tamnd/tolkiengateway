@@ -21,17 +21,17 @@ images:
 
 ## Lịch sử {#History}
 
-Trong quá trình làm lembas, chỉ [Yavannildi](../Y/Yavannildi.md) biết quy trình và được phép xử lý hạt từ bông đến tấm wafer. Vì ngũ cốc đến từ Yavanna, nên chỉ có nữ hoàng hoặc người cao nhất trong số các phụ nữ yêu tinh của bất kỳ dân tộc nào, dù lớn hay nhỏ, mới có thể giữ và phân phát lembas.
+Trong quá trình làm lembas, chỉ [Yavannildi](../Y/Yavannildi.md) biết quy trình và được phép xử lý hạt từ bông đến tấm wafer. Vì ngũ cốc đến từ Yavanna nên chỉ có nữ hoàng hoặc người cao nhất trong số các phụ nữ yêu tinh của bất kỳ dân tộc nào, lớn hay nhỏ, mới có thể giữ và phân phát lembas.
 
-Những nữ hoàng duy nhất được biết là có chung lembas là [Melian](Melian.md) (đến [Beleg](../B/Beleg.md) và [Túrin](../T/Túrin.md)) và [Galadriel](../G/Galadriel.md) (đến [Fellowship of the Ring](../F/Fellowship_of_the_Ring.md)).
+Những nữ hoàng duy nhất được biết là có chung lembas là [Melian](Melian.md) (với [Beleg](../B/Beleg.md) và [Túrin](../T/Túrin.md)) và [Galadriel](../G/Galadriel.md) (với [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md)).
 
 ## Từ nguyên {#Etymology}
 
-*Massánië* là [Quenya](../Q/Quenya.md) có nghĩa là "Quý cô, người cho bánh mì", từ *massa* ("bánh mì") + *[anta](../A/Anta.md)-* (gerund, "cho"). [Sindarin](../S/Sindarin.md) *besain* có nghĩa tương tự.<sup id="cite_ref-Lembas_1-1" class="reference"><a href="#cite_note-Lembas-1">[1]</a></sup>
+*Massánië* là [Quenya](../Q/Quenya.md) dành cho "Quý bà, người cho bánh mì", từ *massa* ("bánh mì") + *[anta](../A/Anta.md)-* (gerund, "cho"). [Sindarin](../S/Sindarin.md) *besain* có nghĩa tương tự.<sup id="cite_ref-Lembas_1-1" class="reference"><a href="#cite_note-Lembas-1">[1]</a></sup>
 
 ## Cảm hứng {#Inspiration}
 
-Theo *[Oxford English Dictionary](../O/Oxford_English_Dictionary.md)*, "quý bà" xuất phát từ [tiếng Anh cổ](../O/Old_English.md) <i><a class="external text" href="https://en.wiktionary.org/wiki/hl%C3%A6fdige" rel="noreferrer noopener" target="_blank">hlæfdige</a></i>, từ các từ có nghĩa là "ổ bánh mì" và "người nhào bột".
+Theo *[Oxford English Dictionary](../O/Oxford_English_Dictionary.md)*, "quý cô" xuất phát từ [tiếng Anh cổ](../O/Old_English.md) <i><a class="external text" href="https://en.wiktionary.org/wiki/hl%C3%A6fdige" rel="noreferrer noopener" target="_blank">hlæfdige</a></i>, từ các từ có nghĩa là "ổ bánh mì" và "người nhào bột".
 
 <span></span>
 

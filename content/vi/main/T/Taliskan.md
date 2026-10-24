@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Taliska"
 ---
 
-Chuyển hướng tới [Taliska](Taliska.md).
+Chuyển hướng đến [Taliska](Taliska.md).

@@ -23,9 +23,9 @@ langlinks:
 
 <dl><dd><i>Not to be confounded with: <b><a href="Sunlands.md" title="Sunlands">Sunlands</a></b>, the name of <a href="../H/Harad.md" title="Harad">Harad</a> in the <a href="../W/Westron.md" title="Westron">Common Speech</a></i></dd></dl>
 
-**Sunlending** là tên được sử dụng bởi [Rohirrim](../R/Rohirrim.md) của vùng đất *[Anórien](../A/Anórien.md)*, 'Sun-land'. Nó được nhắc đến trong bài hát *Từ bóng tối Dunharg trong buổi sáng mờ mờ*, l. 15: "*six thousand spears to Sunlending*".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Sunlending** là tên được sử dụng bởi [Rohirrim](../R/Rohirrim.md) vùng đất *[Anórien](../A/Anórien.md)*, 'Mặt Trời-land'. Nó được nhắc đến trong bài hát *Từ bóng tối Dunharrow trong buổi sáng mờ mờ*, l. 15: "*six thousand spears to Sunlending*".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Cái tên *Sunlending* không đề cập đến khí hậu mà đúng hơn là 'huy hiệu', vì Anórien ngay lập tức được gắn với [Minas Anor](../M/Minas_Anor.md). *Sunlending* do đó được kết nối với tên và biểu tượng của [Anárion](../A/Anárion.md), anh trai của [Isildur](../I/Isildur.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
+Cái tên *Sunlending* không đề cập đến khí hậu mà đúng hơn là mang tính 'huy hiệu', vì Anórien ngay lập tức được gắn liền với [Minas Anor](../M/Minas_Anor.md). *Sunlending* do đó được kết nối với tên và biểu tượng của [Anárion](../A/Anárion.md), anh trai của [Isildur](../I/Isildur.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

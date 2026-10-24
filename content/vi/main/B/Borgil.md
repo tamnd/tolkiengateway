@@ -30,7 +30,7 @@ langlinks:
 
 ## Cảm hứng {#Inspiration}
 
-[Người hâm mộ Tolkien](../T/Tolkien_fandom.md) đã gợi ý rằng Borgil có thể ám chỉ ngôi sao <a class="extiw" href="http://en.wikipedia.org/wiki/Betelgeuse" title="wikipedia:Betelgeuse">Betelgeuse</a> hoặc ngôi sao <a class="extiw" href="http://en.wikipedia.org/wiki/Aldebaran" title="wikipedia:Aldebaran">Aldebaran</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+[Tolkien người hâm mộ](../T/Tolkien_fandom.md) đã gợi ý rằng Borgil có thể ám chỉ ngôi sao <a class="extiw" href="http://en.wikipedia.org/wiki/Betelgeuse" title="wikipedia:Betelgeuse">Betelgeuse</a> hoặc ngôi sao <a class="extiw" href="http://en.wikipedia.org/wiki/Aldebaran" title="wikipedia:Aldebaran">Aldebaran</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 Dựa trên cách tiếp cận của mình dựa trên các giả định văn học và bằng chứng thiên văn, Giáo sư [Kristine Larsen](../K/Kristine_Larsen.md) đã lập luận rằng Borgil có thể được xác định là Aldebaran.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 

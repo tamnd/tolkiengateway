@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tumladen"
 ---
 
-Chuyển hướng tới [Tumladen](../T/Tumladen.md).
+Chuyển hướng đến [Tumladen](../T/Tumladen.md).

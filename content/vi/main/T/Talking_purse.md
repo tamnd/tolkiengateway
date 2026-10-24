@@ -53,28 +53,28 @@ infobox:
 
 ## Lịch sử {#History}
 
-Khi [Bilbo Baggins](../B/Bilbo_Baggins.md) cố gắng lấy ví của lũ quỷ khổng lồ từ túi của William, chiếc ví kêu cót két, báo cho William về âm mưu trộm và bắt giữ Bilbo.<sup id="cite_ref-H2_1-1" class="reference"><a href="#cite_note-H2-1">[1]</a></sup>
+Khi [Bilbo Baggins](../B/Bilbo_Baggins.md) cố gắng lấy ví của bọn troll trong túi của William, chiếc ví kêu cót két, cảnh báo cho William về âm mưu trộm và bị bắt giữ Bilbo.<sup id="cite_ref-H2_1-1" class="reference"><a href="#cite_note-H2-1">[1]</a></sup>
 
 ## Nền {#Background}
 
-[Người hâm mộ](Tolkien_fandom.md) cho rằng chiếc ví có lẽ không phải do quỷ lùn tạo ra mà là nó đã bị đánh cắp và có nguồn gốc từ [người lùn](../D/Dwarves.md) hoặc [yêu tinh](../E/Elves.md) do nó có khả năng nói.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup> [Elrond](../E/Elrond.md) chắc chắn đã đoán rằng lũ quỷ lùn đã cướp được đồ từ [Moria](../M/Moria.md), mặc dù ông ta đặc biệt đoán được rằng đề cập đến [Glamdring](../G/Glamdring.md) và [Orcrist](../O/Orcrist.md).<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[5]</a></sup>
+[Người hâm mộ](Tolkien_fandom.md) cho rằng chiếc ví có lẽ không phải do quỷ lùn tạo ra mà là nó đã bị đánh cắp và có nguồn gốc từ [người lùn](../D/Dwarves.md) hoặc [yêu tinh](../E/Elves.md) do nó có khả năng nói.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup> [Elrond](../E/Elrond.md) chắc chắn đã đoán rằng lũ quỷ lùn đã cướp được một số đồ từ [Moria](../M/Moria.md), mặc dù ông ta đang đề cập cụ thể đến [Glamdring](../G/Glamdring.md) và [Orcrist](../O/Orcrist.md).<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[5]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1989: <a href="The_Hobbit_(comic_book).md" title="The Hobbit (comic book)"><i>Người Hobbit</i> (truyện tranh)</a>:</b>
+<b>1989: <a href="The_Hobbit_(comic_book).md" title="The Hobbit (comic book)"><i>The Hobbit</i> (truyện tranh)</a>:</b>
 
 <dl><dd><a href="../D/David_T._Wenzel.md" title="David T. Wenzel">David T. Wenzel</a> portrays the trolls&#39; purse having holes resembling a shouting mouth.</dd></dl>
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Hobbit_(2003)_Wallet.png.md"><img src="https://tolkiengateway.net/w/images/thumb/a/ab/The_Hobbit_%282003%29_Wallet.png/250px-The_Hobbit_%282003%29_Wallet.png" decoding="async" loading="lazy" width="250" height="154" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/ab/The_Hobbit_%282003%29_Wallet.png/375px-The_Hobbit_%282003%29_Wallet.png 1.5x, https://tolkiengateway.net/w/images/thumb/a/ab/The_Hobbit_%282003%29_Wallet.png/500px-The_Hobbit_%282003%29_Wallet.png 2x" data-file-width="744" data-file-height="459"/></a><figcaption>The &#34;Wallet&#34; - <a href="The_Hobbit_(2003_video_game).md" title="The Hobbit (2003 video game)"><i>The Hobbit</i> (2003 video game)</a></figcaption></figure>
 
-<b>2003: <a href="The_Hobbit_(2003_video_game).md" title="The Hobbit (2003 video game)"><i>Người Hobbit</i> (trò chơi điện tử năm 2003)</a>:</b>
+<b>2003: <a href="The_Hobbit_(2003_video_game).md" title="The Hobbit (2003 video game)"><i>The Hobbit</i> (trò chơi điện tử năm 2003)</a>:</b>
 
 <dl><dd>The trolls&#39; purse is referred to as a <b>wallet</b> and it has eyes that open up when it is touched by Bilbo.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[6]</a></sup></dd></dl>
 
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Trừ khi người ta hiểu những lời trong chiếc ví biết nói là sự sáng tạo kỳ ảo của Bilbo, thì chỉ tồn tại một vật phẩm khác trong <a href="../L/Legendarium.md" title="Legendarium">huyền thoại</a> thể hiện khả năng nói: <a href="../G/Gurthang.md" title="Gurthang">Gurthang</a>, thanh kiếm khát máu của <a href="Túrin.md" title="Túrin">Túrin</a>.</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Trừ khi người ta hiểu những lời của chiếc ví biết nói là sự xây dựng kỳ ảo của Bilbo, thì chỉ tồn tại một vật phẩm khác trong <a href="../L/Legendarium.md" title="Legendarium">huyền thoại</a> thể hiện khả năng nói: <a href="../G/Gurthang.md" title="Gurthang">Gurthang</a>, thanh kiếm khát máu của <a href="Túrin.md" title="Túrin">Túrin</a>.</span>
 </li>
 </ol></div></span>
 

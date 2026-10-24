@@ -36,7 +36,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien thông báo với Tiến sĩ Baillie rằng ông đã được bầu (xem [Thư 7](Letter_7.md)) vào [chức giáo sư Rawlinson và Bosworth](../R/Rawlinson_and_Bosworth_Professor_of_Anglo-Saxon.md) tại [Oxford](../O/Oxford_University.md), và do đó ông đang đệ đơn từ chức. Ông xin lỗi vì cuộc hẹn quá ngắn ngủi tại Leeds, nơi ông chỉ mới làm việc được 5 năm.
+Tolkien thông báo cho Tiến sĩ Baillie rằng ông đã được bầu (xem [Thư 7](Letter_7.md)) vào [chức giáo sư Rawlinson và Bosworth](../R/Rawlinson_and_Bosworth_Professor_of_Anglo-Saxon.md) tại [Oxford](../O/Oxford_University.md), và do đó ông đang nộp đơn từ chức. Ông xin lỗi vì cuộc hẹn quá ngắn ngủi tại Leeds, nơi ông chỉ mới làm việc được 5 năm.
 
 <dl><dt>In the expanded edition</dt></dl>
 

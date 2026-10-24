@@ -21,7 +21,7 @@ sort_keys:
   "Tolkien Society members": "Patterson, Hartley"
 ---
 
-**Hartley Patterson** là Chủ tịch thứ hai của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) phục vụ từ năm 1973 đến năm 1974.
+**Hartley Patterson** là Chủ tịch thứ hai của [Hội Tolkien](../T/The_Tolkien_Society.md) phục vụ từ năm 1973 đến năm 1974.
 
 ## Thư mục {#Bibliography}
 

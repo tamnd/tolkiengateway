@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "West, Lockwood"
 ---
 
-**Harry Lockwood West** ([28 tháng 7](../_/28_July.md), [1905](../_/1905.md) - [28 tháng 3](../_/28_March.md), [1989](../_/1989.md)) là một diễn viên người Anh. Ông là bố vợ của [Prunella Cân](../P/Prunella_Scales.md).
+**Harry Lockwood Phương Tây** ([28 tháng 7](../_/28_July.md), [1905](../_/1905.md) - [28 tháng 3](../_/28_March.md), [1989](../_/1989.md)) là một diễn viên người Anh. Ông là bố vợ của [Prunella Cân](../P/Prunella_Scales.md).
 
 ## Vai trò {#Roles}
 
@@ -26,4 +26,4 @@ sort_keys:
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://www.imdb.com/name/nm0922207/" rel="noreferrer noopener" target="_blank">Lockwood West</a> tại <a class="external text" href="http://www.imdb.com/" rel="noreferrer noopener" target="_blank">IMDb</a>
+- <a class="external text" href="http://www.imdb.com/name/nm0922207/" rel="noreferrer noopener" target="_blank">Lockwood Phương Tây</a> tại <a class="external text" href="http://www.imdb.com/" rel="noreferrer noopener" target="_blank">IMDb</a>

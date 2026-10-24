@@ -74,4 +74,4 @@ Sự kiện xảy ra vào ngày 2 tháng 5
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [2942](../T/Third_Age_2942.md):
-    - [Bilbo](../B/Bilbo_Baggins.md) thức dậy ở [Rivendell](../R/Rivendell.md) trước bình minh. Các Yêu tinh đang hát to và rõ ràng dưới cửa sổ đang mở của ông.
+    - [Bilbo](../B/Bilbo_Baggins.md) thức dậy lúc [Rivendell](../R/Rivendell.md) trước bình minh. Tiên tộc đang hát to và rõ dưới cửa sổ đang mở của anh.

@@ -12,7 +12,7 @@ categories:
   - "The Return of the King (1980 film) soundtrack"
 ---
 
-**Sự kết thúc của chiếc nhẫn, sự trở lại của nhà vua** là bài hát được viết bởi [Maury Laws](../M/Maury_Laws.md) (nhạc) và [Jules Bass](../J/Jules_Bass.md) (lời) cho bộ phim hoạt hình [1980](../_/1980.md) [*The Return of the King*](<The_Return_of_the_King_(1980_film).md>). Nó được hát trong lễ đăng quang của [Aragorn](../A/Aragorn.md).
+**Sự kết thúc của chiếc nhẫn, sự trở lại của Vua** là bài hát được viết bởi [Maury Laws](../M/Maury_Laws.md) (nhạc) và [Jules Bass](../J/Jules_Bass.md) (lời) cho bộ phim hoạt hình [1980](../_/1980.md) [*The Return of the King*](<The_Return_of_the_King_(1980_film).md>). Nó được hát trong lễ đăng quang của [Aragorn](../A/Aragorn.md).
 
 ## Lời bài hát {#Lyrics}
 

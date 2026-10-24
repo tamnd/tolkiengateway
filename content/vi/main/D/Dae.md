@@ -13,7 +13,7 @@ categories:
   - "Sindarin nouns"
 ---
 
-<i><b>dae</b></i> là từ [tiếng Sindarin](../S/Sindarin.md) có nghĩa là *shadow*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>dae</b></i> là một từ [Sindarin](../S/Sindarin.md) có nghĩa là *shadow*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Ví dụ {#Example}
 

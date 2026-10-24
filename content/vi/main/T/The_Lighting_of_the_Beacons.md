@@ -36,14 +36,14 @@ infobox:
 
 ## Tóm tắt {#Synopsis}
 
-[Pippin](../P/Pippin.md) leo lên một đỉnh cao ở [Minas Tirith](../M/Minas_Tirith.md) để thắp đèn hiệu kêu gọi viện trợ từ [Rohan](../R/Rohan.md). Ông ta cố gắng lén lút vì [Denethor](../D/Denethor_II.md) không đồng ý với điều này. [Gandalf](../G/Gandalf.md), người đã cử Pippin đi thực hiện nhiệm vụ này, theo dõi và hy vọng thành công. Pippin làm đổ dầu lên đống củi của ngọn hải đăng; ông ta đốt củi đã bôi dầu, đốt nó, trước sự ngạc nhiên của lính canh. Gandalf nhìn thấy đèn hiệu đã sáng và thốt lên *"Hope is kindled"*. Denethor nhìn thấy điều này qua cửa sổ tòa thành và không mấy ấn tượng.
+[Pippin](../P/Pippin.md) leo lên một đỉnh cao ở [Minas Tirith](../M/Minas_Tirith.md) để thắp đèn hiệu kêu gọi viện trợ từ [Rohan](../R/Rohan.md). Ông ta cố gắng lén lút vì [Denethor](../D/Denethor_II.md) không đồng ý với điều này. [Gandalf](../G/Gandalf.md), đã cử Pippin thực hiện nhiệm vụ này, theo dõi và hy vọng thành công. Pippin làm đổ dầu lên khối gỗ xếp chồng của đèn hiệu; ông ta đốt củi đã bôi dầu, đốt nó, trước sự ngạc nhiên của lính canh. Gandalf thấy đèn hiệu sáng lên và thốt lên *"Hope is kindled"*. Denethor nhìn thấy điều này qua cửa sổ tòa thành và không có ấn tượng gì.
 
-Vô số đèn hiệu tồn tại ở [địa hình miền núi](../W/White_Mountains.md) giữa Minas Tirith và [Edoras](../E/Edoras.md) lần lượt được thắp sáng cho đến khi [Aragorn](../A/Aragorn.md) nhìn thấy tín hiệu. Ông ta lao đến [Golden Hall](../G/Golden_Hall.md), tới [Théoden](Théoden.md), hét lên *"Đèn hiệu đã thắp sáng! [Gondor](../G/Gondor.md) kêu gọi viện trợ"*.
+Vô số đèn hiệu hiện có ở [địa hình miền núi](../W/White_Mountains.md) giữa Minas Tirith và [Edoras](../E/Edoras.md) lần lượt sáng lên cho đến khi [Aragorn](../A/Aragorn.md) nhìn thấy tín hiệu. Ông ta lao tới [Golden Hall](../G/Golden_Hall.md), tới [Théoden](Théoden.md), hét lên *"Đèn hiệu đã thắp sáng! [Gondor](../G/Gondor.md) kêu cứu"*.
 
 ## Sự khác biệt {#Differences}
 
-- Trong sách, không phải Pippin là người thắp đèn hiệu mà là người Gondor, như Denethor đã ra lệnh thắp đèn hiệu để hỗ trợ, mặc dù ông ta nghĩ rằng viện trợ khó có thể xảy ra. Pippin và Gandalf nhìn thấy những ngọn đèn hiệu sáng lên khi họ đang đi tới Minas Tirith.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
-- Denethor cũng cử một kỵ sĩ, [Hirgon](../H/Hirgon.md) giao [Mũi tên đỏ](../R/Red_Arrow.md), người giao nó cho Théoden,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> thuyết phục Nhà vua cưỡi ngựa đến trợ giúp Gondor.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Tuy nhiên, điều này không diễn ra trong phim; chỉ có những ngọn đèn hiệu được thắp sáng mới thuyết phục được Théoden ra ngoài.
+- Trong sách, không phải Pippin thắp sáng các ngọn hải đăng mà là những người của Gondor, như Denethor đã ra lệnh thắp sáng các ngọn hải đăng để hỗ trợ, mặc dù ông ta cho rằng viện trợ là khó xảy ra. Pippin và Gandalf nhìn thấy đèn hiệu sáng khi họ đang đi tới Minas Tirith.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+- Denethor cũng cử một tay đua, [Hirgon](../H/Hirgon.md) giao [Mũi tên đỏ](../R/Red_Arrow.md), người này đã giao nó cho Théoden,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> thuyết phục Vua đi ra ngoài để hỗ trợ Gondor.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Tuy nhiên, điều này không diễn ra trong phim; chỉ có những ngọn đèn hiệu được thắp sáng mới thuyết phục được Théoden ra ngoài.
 
 <span></span>
 

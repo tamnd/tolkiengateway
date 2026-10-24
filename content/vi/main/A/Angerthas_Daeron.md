@@ -17,7 +17,7 @@ images:
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/b/b4/CdxIconBold-f.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article displays one of <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s <a href="../../category/W/Writing_systems.md" title="Category:Writing systems">writing systems</a>. For optimal viewing, install the following font: <b><a class="external text" href="http://www.tolkiendil.com/telechargements/polices/angerthas_et_runes#cirth_erebor" rel="noreferrer noopener" target="_blank">Cirth Erebor</a> by <a href="../D/Dan_Smith.md" title="Dan Smith">Dan Smith</a></b>.
 </div></div>
 
-**Angerthas Daeron** ([S](../S/Sindarin.md). 'Daeron's Runes') là phần mở rộng đầy đủ của [Certhas Daeron](../C/Certhas_Daeron.md) được [Yêu tinh](../E/Elves.md) của [Ezone](../E/Eregion.md) sử dụng để đại diện cho [Sindarin](../S/Sindarin.md) và các ngôn ngữ khác.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup>
+**Angerthas Daeron** ([S](../S/Sindarin.md). 'Daeron's Runes') là phần mở rộng đầy đủ của [Certhas Daeron](../C/Certhas_Daeron.md) được [Tiên tộc](../E/Elves.md) của [Eregion](../E/Eregion.md) sử dụng để đại diện cho [Sindarin](../S/Sindarin.md) và các ngôn ngữ khác.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup>
 
 ## Cấu trúc {#Structure}
 
@@ -25,7 +25,7 @@ Chúng được đổi tên thành Angerthas vì Certhas của Daeron đã đư�
 
 Việc bổ sung những điều này gây ra hiện tượng sau: chứng chỉ mới cho *h* thay thế chứng chỉ <em style="font-family: &#39;Cirth Erebor&#39;; font-style: normal;">#</em> trước đó đã trở thành *ch*. Chứng chỉ này được ưu tiên cho *ch* vì hình dạng của nó dường như nằm giữa hình dạng của vòng tròn T và K (<em style="font-family: &#39;Cirth Erebor&#39;; font-style: normal;">8</em> T + <em style="font-family: &#39;Cirth Erebor&#39;; font-style: normal;">e</em> K > <em style="font-family: &#39;Cirth Erebor&#39;; font-style: normal;">#</em> CH), để thể hiện cách âm thanh *ch* cũng tồn tại (về mặt âm vị) giữa *t* và *c*. Ngoài ra còn có một chứng chỉ mới cho *nd*, như Tolkien lưu ý, hình thức của nó không liên quan nhiều đến chu vi răng.
 
-Một số chữ cái mới được sử dụng cho âm thanh của tiếng Quenya (và các ngôn ngữ khác) không có trong tiếng Sindarin. Trong giai đoạn đó, Angerthas đạt đến mức tối đa, nhưng đối với hầu hết các hình thức viết khác ngoài chạm khắc, Tengwar đều được sử dụng.
+Một số chữ cái mới được sử dụng cho các âm Quenya (và các tiếng khác) không có trong Sindarin. Trong giai đoạn đó, Angerthas đã đạt đến mức tối đa, nhưng đối với hầu hết các hình thức viết khác ngoài chạm khắc, Tengwar đều được sử dụng.
 
 ## Bảng {#Table}
 
@@ -331,16 +331,16 @@ Một số chữ cái mới được sử dụng cho âm thanh của tiếng Que
 
 ## Lịch sử {#History}
 
-Đến [Kỷ thứ hai](../S/Second_Age.md) [Tengwar](../T/Tengwar.md) là chữ viết chiếm ưu thế, nhưng [Gwaith-i-Mírdain](../G/Gwaith-i-Mírdain.md) sử dụng rune trong các tài liệu chính thức, như một "vấn đề truyền thuyết".<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[1]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[note 2]</a></sup> [Noldor](../N/Noldor.md) đã sử dụng [cirth](../C/Cirth.md) và đặt tên cho chúng trong [Quenya](../Q/Quenya.md), <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Certar&amp;action=edit&amp;redlink=1" title="Certar (page does not exist)">Certar</a></i>.
+Vào thời [Kỷ Đệ Nhị](../S/Second_Age.md) [Tengwar](../T/Tengwar.md) là chữ viết chiếm ưu thế, nhưng [Gwaith-i-Mírdain](../G/Gwaith-i-Mírdain.md) sử dụng rune trong các tài liệu chính thức, như một "vấn đề truyền thuyết".<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[1]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[note 2]</a></sup> [Noldor](../N/Noldor.md) đã sử dụng [cirth](../C/Cirth.md) và đặt tên cho chúng trong [Quenya](../Q/Quenya.md), <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Certar&amp;action=edit&amp;redlink=1" title="Certar (page does not exist)">Certar</a></i>.
 
-Những [Người lùn](../D/Dwarves.md) của [Moria](../M/Moria.md) đã điều chỉnh hệ thống này cho phù hợp với [Angerthas Moria](Angerthas_Moria.md), vì chúng lý tưởng cho các dòng chữ khắc mà họ ưa thích.
+[Người Lùn](../D/Dwarves.md) của [Moria](../M/Moria.md) đã điều chỉnh hệ thống này thành [Angerthas Moria](Angerthas_Moria.md), vì chúng lý tưởng cho các dòng chữ khắc mà họ ưa thích.
 
 ## Ghi chú {#Notes_2}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Cf. <a href="../R/Robert_Foster.md" title="Robert Foster">Robert Foster</a>, <i><a href="../T/The_Complete_Guide_to_Middle-earth.md" title="The Complete Guide to Middle-earth">Hướng dẫn đầy đủ về Trung Địa</a></i>, mục "Angerthas Daeron". <a href="../J/Jim_Allan.md" title="Jim Allan">Jim Allan</a> trong <i><a href="An_Introduction_to_Elvish.md" title="An Introduction to Elvish">Giới thiệu về Elvish</a></i> cũng xác định "Angerthas Daeron" với cách viết của Ezone, nhưng sau đó đặt tên "Angerthas Ezone" cho "bản mở rộng đầy đủ" của chúng. Trong bảng thời gian, ông ta chỉ sử dụng tên "Angerthas Ezone" trong khi các phiên bản trước được mệnh danh là "Daeron sớm" và "Daeron muộn".</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Cf. <a href="../R/Robert_Foster.md" title="Robert Foster">Robert Foster</a>, <i><a href="../T/The_Complete_Guide_to_Middle-earth.md" title="The Complete Guide to Middle-earth">Hướng dẫn đầy đủ về Trung Địa</a></i>, mục "Angerthas Daeron". <a href="../J/Jim_Allan.md" title="Jim Allan">Jim Allan</a> trong <i><a href="An_Introduction_to_Elvish.md" title="An Introduction to Elvish">Giới thiệu về Elvish</a></i> cũng xác định "Angerthas Daeron" với cách viết Eregion, nhưng sau đó đặt tên "Angerthas Eregion" cho "bản mở rộng đầy đủ" của chúng. Trong bảng thời gian, anh chỉ sử dụng tên "Angerthas Eregion" trong khi các phiên bản trước được mệnh danh là "Sớm Daeron" và "Muộn Daeron".</span>
 </li>
-<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text">Văn bản giải thích điều này bằng cách nói rằng <a href="../C/Celebrimbor.md" title="Celebrimbor">Celebrimbor</a> là hậu duệ của <a href="../D/Daeron.md" title="Daeron">Daeron</a>; tuy nhiên điều này đã được viết trước khi quyết định rằng ông ta là con trai của <a href="../C/Curufin.md" title="Curufin">Curufin</a>.</span>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text">Văn bản giải thích điều này bằng cách nói rằng <a href="../C/Celebrimbor.md" title="Celebrimbor">Celebrimbor</a> là hậu duệ của <a href="../D/Daeron.md" title="Daeron">Daeron</a>; tuy nhiên điều này đã được viết trước khi quyết định rằng ông là con trai của <a href="../C/Curufin.md" title="Curufin">Curufin</a>.</span>
 </li>
 </ol></div></span>
 
@@ -351,7 +351,7 @@ Những [Người lùn](../D/Dwarves.md) của [Moria](../M/Moria.md) đã đi�
 </li>
 </ol></div>
 
-- [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, [Phụ lục E](Appendix_E.md), "Viết", "The Cirth"
+- [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, [Phụ lục E](Appendix_E.md), "Bài viết", "Bản Cirth"
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

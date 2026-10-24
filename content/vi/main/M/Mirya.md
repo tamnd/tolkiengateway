@@ -13,7 +13,7 @@ categories:
   - "Old Noldorin words"
 ---
 
-<i><b>mirya</b></i> là một từ [Noldorin cổ](../O/Old_Noldorin.md) có nghĩa là "quý giá".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>mirya</b></i> là một từ [Old Noldorin](../O/Old_Noldorin.md) có nghĩa là "quý giá".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

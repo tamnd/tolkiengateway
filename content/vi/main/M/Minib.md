@@ -37,7 +37,7 @@ sort_keys:
 </p>
 </td></tr></tbody></table>
 
-**minib** là số mười một (11, XI) trong [Sindarin](../S/Sindarin.md). Trong khi [Yêu tinh](../E/Elves.md) có hệ thập lục phân, [Đàn ông](Men.md) thì không và không sử dụng thuật ngữ này.
+**minib** là số mười một (11, XI) trong [Sindarin](../S/Sindarin.md). Trong khi [Tiên tộc](../E/Elves.md) có hệ thập nhị phân, [Con Người](Men.md) thì không và không sử dụng thuật ngữ này.
 
 Từ này bắt nguồn từ [gốc](../S/Sundocarme.md) MINIK-W-.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 

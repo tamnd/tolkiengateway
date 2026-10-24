@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Great Tales Never End"
 ---
 
-Chuyển hướng tới [Những câu chuyện vĩ đại không bao giờ kết thúc](../T/The_Great_Tales_Never_End.md).
+Chuyển hướng đến [The Great Tales Never End](../T/The_Great_Tales_Never_End.md).

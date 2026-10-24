@@ -13,7 +13,7 @@ categories:
   - "Sindarin nouns"
 ---
 
-<i><b>faug</b></i> là một từ [tiếng Sindarin](../S/Sindarin.md), có nghĩa là "há miệng".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Trong ngữ cảnh, nó cũng mang các nghĩa "thở hổn hển", "nghẹt thở" và "khát".
+<i><b>faug</b></i> là một từ [Sindarin](../S/Sindarin.md), có nghĩa là "há hốc".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Trong ngữ cảnh, nó cũng mang các nghĩa "thở hổn hển", "nghẹt thở" và "khát".
 
 ## Ví dụ {#Examples}
 

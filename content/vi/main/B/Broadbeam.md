@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Broadbeams"
 ---
 
-Chuyển hướng tới [Broadbeams](Broadbeams.md).
+Chuyển hướng đến [Broadbeams](Broadbeams.md).

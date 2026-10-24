@@ -45,7 +45,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../H/Hobbits.md" title="Hobbits">Hobbit</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Nina Lightfoot</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Other names</th><td class="tg-infobox-data">Nina Bolger</td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../B/Budgeford.md" title="Budgeford">Budgeford</a></td></tr><tr><th scope="row" class="tg-infobox-label">Birth</th><td class="tg-infobox-data">c. <a class="mw-redirect" href="../S/Shire_Reckoning.md" title="Shire Reckoning">S.R.</a> <a href="../T/Third_Age_2861.md" title="Third Age 2861">1261</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">Family</th><td class="tg-infobox-data"><a href="../L/Lightfoot_Family.md" title="Lightfoot Family">Lightfoot</a></td></tr><tr><th scope="row" class="tg-infobox-label">Spouse</th><td class="tg-infobox-data"><a href="../T/Theobald_Bolger.md" title="Theobald Bolger">Theobald Bolger</a></td></tr><tr><th scope="row" class="tg-infobox-label">Children</th><td class="tg-infobox-data"><a href="../W/Wilibald_Bolger.md" title="Wilibald Bolger">Wilibald</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Female</td></tr></tbody></table>
 
-**Nina Lightfoot** là một Hobbit của [Shire](../T/The_Shire.md).
+**Nina Lightfoot** là Hobbit của [ Shire](../T/The_Shire.md).
 
 ## Lịch sử {#History}
 
@@ -53,7 +53,7 @@ Nina là vợ của [Theobald Bolger](../T/Theobald_Bolger.md) và là mẹ củ
 
 ## Từ nguyên {#Etymology}
 
-Cái tên *Nina* là vô nghĩa trong [Hobbitish](../H/Hobbitish.md) [Westron](../W/Westron.md) đương thời. Nó đại diện cho tên gốc *Nino* hoặc *Nine*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
+Cái tên *Nina* không có ý nghĩa gì trong [Hobbitish](../H/Hobbitish.md) [Westron](../W/Westron.md) đương thời. Nó đại diện cho tên gốc *Nino* hoặc *Nine*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

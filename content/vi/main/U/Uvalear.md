@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Shadow Folk"
 ---
 
-Chuyển hướng tới [Shadow Folk](../S/Shadow_Folk.md).
+Chuyển hướng đến [Bóng Tối Dân gian](../S/Shadow_Folk.md).

@@ -22,11 +22,11 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Hern Ennorath</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Company Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">Australia and New Zealand</td></tr><tr><th scope="row" class="tg-infobox-label">Type</th><td class="tg-infobox-data">Smial of <a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Website</th><td class="tg-infobox-data"><a class="external text" href="https://www.tolkienfellowshipaustralia.com" rel="noreferrer noopener" target="_blank">www.tolkienfellowshipaustralia.com</a></td></tr></tbody></table>
 
-**Hern Ennorath** (tiếng Sindarin nghĩa là *Southern Lands of Middle-earth*) là Học bổng Tolkien của Úc và New Zealand. Đó là [nụ cười](../S/Smials.md) của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) và bao gồm các hiệp hội riêng biệt của Canberra, Sydney, Melbourne, Brisbane và Adelaide cùng với các thành viên ở các vùng khác của Úc và những người bạn đến từ New Zealand. Hern Ennorath họp mặt hàng tháng qua Zoom, bao gồm các bài thuyết trình và đêm đố vui. Các học bổng cũng gặp mặt trực tiếp tại khu vực địa phương của họ.
+**Hern Ennorath** (Sindarin cho *Southern Lands of Middle-earth*) là Tolkien Học bổng của Úc và New Zealand. Đó là [nụ cười](../S/Smials.md) của [Hội Tolkien](../T/The_Tolkien_Society.md) và bao gồm các học bổng riêng biệt của Canberra, Sydney, Melbourne, Brisbane và Adelaide cùng với các thành viên ở các vùng khác của Úc và bạn bè từ New Zealand. Hern Ennorath họp mặt hàng tháng qua Zoom, bao gồm các bài thuyết trình và đêm đố vui. Các học bổng cũng gặp mặt trực tiếp tại khu vực địa phương của họ.
 
 ## Ozmoot {#Ozmoot}
 
-Kể từ [2023](../_/2023.md), Hern Ennorath đã tổ chức Ozmoot, hội nghị Tolkien khu vực của Úc với sự cộng tác của Hiệp hội Tolkien và [Đại học Signum](../C/Corey_Olsen.md). Ozmoots được tổ chức trực tiếp và trực tuyến cho những người tham gia trên khắp nước Úc và bất kỳ nơi nào khác.
+Kể từ [2023](../_/2023.md), Hern Ennorath đã tổ chức Ozmoot, hội nghị khu vực Tolkien của Úc với sự cộng tác của Hội Tolkien và [Đại học Signum](../C/Corey_Olsen.md). Ozmoots được tổ chức trực tiếp và trực tuyến cho những người tham gia trên khắp nước Úc và bất kỳ nơi nào khác.
 
 Ozmoot trước đây:
 

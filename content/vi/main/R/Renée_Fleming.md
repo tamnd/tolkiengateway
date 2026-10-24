@@ -20,7 +20,7 @@ sort_keys:
 
 **Renée Fleming** (sinh [14 tháng 2](../F/February_14.md), [1959](../_/1959.md)) là một ca sĩ opera giọng nữ cao người Mỹ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Cô đã tham gia lồng tiếng cho một số bộ phim, đặc biệt là [The Lord of the Rings: The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md). Cô thể hiện giọng hát trong bốn ca khúc của nhạc phim *[The Lord of the Rings: The Return of the King - The Complete Recordings](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_-_The_Complete_Recordings.md)*: "[The Grace of Undómiel](../T/The_Grace_of_Undómiel.md)", "[Mount Doom](<../M/Mount_Doom_(soundtrack).md>)", "[The Eagles](../T/The_Eagles.md)" và "[The Fellowship Reunited](../T/The_Fellowship_Reunited.md)".
+Cô đã tham gia lồng tiếng cho một số bộ phim, đặc biệt là [The Lord of the Rings: The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md). Cô thể hiện giọng hát trong bốn ca khúc của nhạc phim *[The Lord of the Rings: The Return of the King - The Complete Recordings](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_-_The_Complete_Recordings.md)*: "[The Grace of Undómiel](../T/The_Grace_of_Undómiel.md)", "[Núi Diệt Vong](<../M/Mount_Doom_(soundtrack).md>)", "[The Đại Bàng](../T/The_Eagles.md)" và "[The Fellowship Reunited](../T/The_Fellowship_Reunited.md)".
 
 ## Liên kết ngoài {#External_links}
 

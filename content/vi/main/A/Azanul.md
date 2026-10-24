@@ -13,7 +13,7 @@ categories:
   - "Khuzdul words"
 ---
 
-<i><b>azanul</b></i> là một từ [Khuzdul](../K/Khuzdul.md) có thể có nghĩa là tính từ "của bóng tối, mờ ảo" hoặc tên đồng thời "Dim-rill"
+<i><b>azanul</b></i> là một từ [Khuzdul](../K/Khuzdul.md) có thể mang nghĩa là tính từ "của bóng tối, mờ ảo" hoặc tên while "Dim-rill"
 
 ## Từ nguyên {#Etymology}
 
@@ -31,7 +31,7 @@ Cũng có thể từ đầy đủ là *Azanûl* nghĩa là "Dim rill", chứa da
 
 ## Phiên bản khác {#Other_versions}
 
-Tolkien dự định dùng từ *Azanûl* làm tên đầy đủ của thung lũng đó, nhưng lại chọn *Azanulbizar*. Cách giải thích của từ này cũng như của *[bizar](../B/Bizar.md)* đã thay đổi. Tolkien đã thử nghiệm nhiều cách giải thích khác nhau về các yếu tố khác nhau, mặc dù tổng thể là để thể hiện "Dimrill Dale" bằng cách nào đó. <span></span>
+Tolkien dự định từ *Azanûl* là tên đầy đủ của thung lũng đó, nhưng lại được chọn là *Azanulbizar*. Cách giải thích của từ này cũng như của *[bizar](../B/Bizar.md)* đã thay đổi. Tolkien đã thử nghiệm nhiều cách diễn giải khác nhau về các yếu tố khác nhau, mặc dù tổng thể là để thể hiện "Thung lũng Dimrill" bằng cách nào đó. <span></span>
 
 ## Tài liệu tham khảo {#References}
 

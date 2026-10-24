@@ -30,7 +30,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/R/Return_of_the_Ring.png.md"><img src="https://tolkiengateway.net/w/images/thumb/4/47/Return_of_the_Ring.png/320px-Return_of_the_Ring.png" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/47/Return_of_the_Ring.png/480px-Return_of_the_Ring.png 1.5x, https://tolkiengateway.net/w/images/thumb/4/47/Return_of_the_Ring.png/640px-Return_of_the_Ring.png 2x" data-file-width="800" data-file-height="800"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Return of the Ring</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Convention Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a class="extiw" href="http://en.wikipedia.org/wiki/Loughborough_University" title="wikipedia:Loughborough University">Loughborough University</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/England" title="wikipedia:England">England</a></td></tr><tr><th scope="row" class="tg-infobox-label">Organizer</th><td class="tg-infobox-data"><a href="The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Dates</th><td class="tg-infobox-data"><a href="../_/16_August.md" title="16 August">16</a>-<a href="../_/20_August.md" title="20 August">20 August</a>, <a href="../_/2012.md" title="2012">2012</a></td></tr><tr><th scope="row" class="tg-infobox-label">Attendees</th><td class="tg-infobox-data">344</td></tr></tbody></table>
 
-**Sự trở lại của chiếc nhẫn: Kỷ niệm Tolkien vào năm 2012** là một hội nghị được tổ chức bởi [Hiệp hội Tolkien](The_Tolkien_Society.md). Nó được tổ chức tại Đại học Loughborough, Anh, [16](../_/16_August.md)-[20 tháng 8](../_/20_August.md), [2012](../_/2012.md). Hội nghị đánh dấu kỷ niệm 75 năm xuất bản *[The Hobbit](The_Hobbit.md)*.
+**Sự trở lại của chiếc nhẫn: Kỷ niệm Tolkien vào năm 2012** là một hội nghị do [Hội Tolkien](The_Tolkien_Society.md) tổ chức. Nó được tổ chức tại Đại học Loughborough, Anh, [16](../_/16_August.md)-[20 tháng 8](../_/20_August.md), [2012](../_/2012.md). Hội nghị đánh dấu kỷ niệm 75 năm xuất bản *[The Hobbit](The_Hobbit.md)*.
 
 ## Sự kiện {#Events}
 
@@ -53,36 +53,36 @@ infobox:
 - **[Mark Atherton](../M/Mark_Atherton.md)**, Học giả và giảng viên
 - <b><a class="new" href="https://tolkiengateway.net/w/index.php?title=Martin_Barker&amp;action=edit&amp;redlink=1" title="Martin Barker (page does not exist)">Martin Barker</a></b>, Tác giả và nhà nghiên cứu
 - <b><a class="new" href="https://tolkiengateway.net/w/index.php?title=Ben_Barootes&amp;action=edit&amp;redlink=1" title="Ben Barootes (page does not exist)">Ben Barootes</a></b>, Nhà nghiên cứu và giảng viên
-- **[Bob Blackham](../R/Robert_S._Blackham.md)**, Tác giả của <i><b><a class="mw-redirect" href="The_Roots_of_Tolkien&#39;s_Middle-earth.md" title="The Roots of Tolkien&#39;s Middle-earth">The Roots of Tolkien's Middle-earth</a></b></i>
-- **[Cor Blok](../C/Cor_Blok.md)**, họa sĩ Tolkien
-- **[Chris Bouchard](../C/Chris_Bouchard.md)**, Đạo diễn và nhà sản xuất <i><b><a href="The_Hunt_for_Gollum.md" title="The Hunt for Gollum">The Hunt for Gollum</a></b></i>
+- **[Bob Blackham](../R/Robert_S._Blackham.md)**, Tác giả của <i><b><a class="mw-redirect" href="The_Roots_of_Tolkien&#39;s_Middle-earth.md" title="The Roots of Tolkien&#39;s Middle-earth">Nguồn gốc của Tolkien Trung Địa</a></b></i>
+- **[Cor Blok](../C/Cor_Blok.md)**, Tolkien nghệ sĩ
+- **[Chris Bouchard](../C/Chris_Bouchard.md)**, Giám đốc và nhà sản xuất <i><b><a href="The_Hunt_for_Gollum.md" title="The Hunt for Gollum">The Hunt for Gollum</a></b></i>
 - **[Janet Croft](../J/Janet_Croft.md)**, Tác giả và biên tập viên của *[Mythlore](../M/Mythlore.md)*
-- **[Jenny Dolfen](../J/Jenny_Dolfen.md)**, họa sĩ Tolkien
-- <b><a class="new" href="https://tolkiengateway.net/w/index.php?title=Maike_Dulk&amp;action=edit&amp;redlink=1" title="Maike Dulk (page does not exist)">Maike Dulk</a></b>, họa sĩ Tolkien
-- **[Colin Duriez](../C/Colin_Duriez.md)**, Tác giả và học giả **[Inklings](../I/Inklings.md)**
-- **[Anke Eißmann](../A/Anke_Eißmann.md)**, họa sĩ Tolkien
-- <b><a class="new" href="https://tolkiengateway.net/w/index.php?title=Tor_Fauskanger&amp;action=edit&amp;redlink=1" title="Tor Fauskanger (page does not exist)">Tor Fauskanger</a></b>, họa sĩ Tolkien
+- **[Jenny Dolfen](../J/Jenny_Dolfen.md)**, Tolkien nghệ sĩ
+- <b><a class="new" href="https://tolkiengateway.net/w/index.php?title=Maike_Dulk&amp;action=edit&amp;redlink=1" title="Maike Dulk (page does not exist)">Maike Dulk</a></b>, Tolkien nghệ sĩ
+- **[Colin Duriez](../C/Colin_Duriez.md)**, Tác giả và **[Inklings](../I/Inklings.md)** học giả
+- **[Anke Eißmann](../A/Anke_Eißmann.md)**, Tolkien nghệ sĩ
+- <b><a class="new" href="https://tolkiengateway.net/w/index.php?title=Tor_Fauskanger&amp;action=edit&amp;redlink=1" title="Tor Fauskanger (page does not exist)">Tor Fauskanger</a></b>, Tolkien nghệ sĩ
 - **[Dimitra Fimi](../D/Dimitra_Fimi.md)**, Tác giả và giảng viên về thần thoại và văn hóa dân gian
-- **[Verlyn Flieger](../V/Verlyn_Flieger.md)**, Học giả và tác giả
-- **[John Garth](../J/John_Garth.md)**, Tác giả, <i><b><a href="Tolkien_and_the_Great_War.md" title="Tolkien and the Great War">Tolkien và cuộc đại chiến</a></b></i>
+- **[Verlyn Flieger](../V/Verlyn_Flieger.md)**, Học thuật và tác giả
+- **[John Garth](../J/John_Garth.md)**, Tác giả, <i><b><a href="Tolkien_and_the_Great_War.md" title="Tolkien and the Great War">Tolkien và cuộc Đại chiến</a></b></i>
 - <b><a class="new" href="https://tolkiengateway.net/w/index.php?title=Peter_Gilliver&amp;action=edit&amp;redlink=1" title="Peter Gilliver (page does not exist)">Peter Gilliver</a></b>, Nhà từ điển học và tác giả
 - <b><a class="new" href="https://tolkiengateway.net/w/index.php?title=Ronald_Hutton&amp;action=edit&amp;redlink=1" title="Ronald Hutton (page does not exist)">Ronald Hutton</a></b>, Giáo sư và tác giả lịch sử
-- **[Jay Johnstone](../J/Jay_Johnstone.md)**, họa sĩ Tolkien
-- <b><a class="new" href="https://tolkiengateway.net/w/index.php?title=Peter_Kenny&amp;action=edit&amp;redlink=1" title="Peter Kenny (page does not exist)">Peter Kenny</a></b>, Nhà sưu tập và chuyên gia
-- **[Ruth Lacon](../R/Ruth_Lacon.md)**, họa sĩ Tolkien
+- **[Jay Johnstone](../J/Jay_Johnstone.md)**, Tolkien nghệ sĩ
+- <b><a class="new" href="https://tolkiengateway.net/w/index.php?title=Peter_Kenny&amp;action=edit&amp;redlink=1" title="Peter Kenny (page does not exist)">Peter Kenny</a></b>, Nhà sưu tầm và chuyên gia
+- **[Ruth Lacon](../R/Ruth_Lacon.md)**, Tolkien nghệ sĩ
 - <b><a class="new" href="https://tolkiengateway.net/w/index.php?title=Chlo%C3%AB_Lees&amp;action=edit&amp;redlink=1" title="Chloë Lees (page does not exist)">Chloë Lees</a></b>, Người biểu diễn và người kể chuyện
 - **[Kate Madison](../K/Kate_Madison.md)**, Đạo diễn, nhà sản xuất và diễn viên của <i><b><a href="../B/Born_of_Hope.md" title="Born of Hope">Born of Hope</a></b></i>
 - **[Nancy Martsch](../N/Nancy_Martsch.md)**, Biên tập viên của *[Beyond Bree](../B/Beyond_Bree.md)*
 - <b><a class="new" href="https://tolkiengateway.net/w/index.php?title=Cole_Matso&amp;action=edit&amp;redlink=1" title="Cole Matso (page does not exist)">Cole Matso</a></b>, Diễn viên chính trong <i><b><a class="new" href="https://tolkiengateway.net/w/index.php?title=Fellows_Hips:_Rise_of_the_Gamers&amp;action=edit&amp;redlink=1" title="Fellows Hips: Rise of the Gamers (page does not exist)">Fellows Hips: Rise of the Gamers</a></b></i>
-- **[Ted Nasmith](Ted_Nasmith.md)**, họa sĩ Tolkien
+- **[Ted Nasmith](Ted_Nasmith.md)**, Tolkien nghệ sĩ
 - **[Corey Olsen](../C/Corey_Olsen.md)**, Podcaster và giáo sư
-- <b><a class="new" href="https://tolkiengateway.net/w/index.php?title=Charlie_Ross&amp;action=edit&amp;redlink=1" title="Charlie Ross (page does not exist)">Charlie Ross</a></b>, <a class="new" href="https://tolkiengateway.net/w/index.php?title=One_Man_Lord_of_the_Rings&amp;action=edit&amp;redlink=1" title="One Man Lord of the Rings (page does not exist)">Một người đàn ông Chúa tể của những chiếc nhẫn</a> người biểu diễn
-- **[Tom Shippey](Tom_Shippey.md)**, bút chiến Tolkien. Tác giả, <i><b><a href="The_Road_to_Middle-earth.md" title="The Road to Middle-earth">Con đường đến Trung Địa</a></b></i>
+- <b><a class="new" href="https://tolkiengateway.net/w/index.php?title=Charlie_Ross&amp;action=edit&amp;redlink=1" title="Charlie Ross (page does not exist)">Charlie Ross</a></b>, <a class="new" href="https://tolkiengateway.net/w/index.php?title=One_Man_Lord_of_the_Rings&amp;action=edit&amp;redlink=1" title="One Man Lord of the Rings (page does not exist)">Một Người Chúa Tể Những Chiếc Nhẫn</a> người biểu diễn
+- **[Tom Shippey](Tom_Shippey.md)**, Tolkien bút chiến. Tác giả, <i><b><a href="The_Road_to_Middle-earth.md" title="The Road to Middle-earth">Con Đường Đến Trung Địa</a></b></i>
 - **[Brian Sibley](../B/Brian_Sibley.md)**, Tác giả và nhà biên kịch
 - **[Michael Tolkien](../M/Michael_George_Tolkien.md)**, Nhà thơ và tác giả. Cháu trai của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)
 - <b><a class="new" href="https://tolkiengateway.net/w/index.php?title=Constance_Wagner&amp;action=edit&amp;redlink=1" title="Constance Wagner (page does not exist)">Constance Wagner</a></b>, Tác giả
 - <b><a class="new" href="https://tolkiengateway.net/w/index.php?title=Mark_Walker&amp;action=edit&amp;redlink=1" title="Mark Walker (page does not exist)">Mark Walker</a></b>, người dịch tiếng Latinh của *[The Hobbit](The_Hobbit.md)*
-- <b><a class="new" href="https://tolkiengateway.net/w/index.php?title=Sue_Wookey&amp;action=edit&amp;redlink=1" title="Sue Wookey (page does not exist)">Sue Wookey</a></b>, họa sĩ Tolkien
+- <b><a class="new" href="https://tolkiengateway.net/w/index.php?title=Sue_Wookey&amp;action=edit&amp;redlink=1" title="Sue Wookey (page does not exist)">Sue Wookey</a></b>, nghệ sĩ Tolkien
 - <b><a class="new" href="https://tolkiengateway.net/w/index.php?title=Cindy_Zudys&amp;action=edit&amp;redlink=1" title="Cindy Zudys (page does not exist)">Cindy Zudys</a></b>, Người kể chuyện và giáo viên
 
 ## Video của Peter Jackson, Alan Lee và John Howe {#Video_from_Peter_Jackson,_Alan_Lee,_and_John_Howe}

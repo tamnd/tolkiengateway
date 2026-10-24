@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "A Gateway to Sindarin"
 ---
 
-Chuyển hướng đến [Cổng vào Sindarin](../A/A_Gateway_to_Sindarin.md).
+Chuyển hướng tới [Cổng tới Sindarin](../A/A_Gateway_to_Sindarin.md).

@@ -40,7 +40,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mallorn48.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/5a/Mallorn48.jpg/320px-Mallorn48.jpg" decoding="async" loading="lazy" width="320" height="453" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/5a/Mallorn48.jpg/480px-Mallorn48.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/5/5a/Mallorn48.jpg/640px-Mallorn48.jpg 2x" data-file-width="707" data-file-height="1000"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mallorn 48</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../H/Henry_Gee.md" title="Henry Gee">Henry Gee</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Printer</th><td class="tg-infobox-data"><a class="external text" href="http://www.printedword.co.uk/" rel="noreferrer noopener" target="_blank">The Printed Word</a>, Horsham, UK</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Autumn <a href="../_/2009.md" title="2009">2009</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">A4 stapled paperback, glossy</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">52</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0308-6674</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mallorn_47.md" title="Mallorn 47">Mallorn 47</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mallorn_49.md" title="Mallorn 49">Mallorn 49</a></td></tr></tbody></table>
 
-<b><i>Mallorn</i> 48</b> là số thứ 48 của tạp chí hai năm một lần của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) *[Mallorn](<Mallorn_(journal).md>)*, được xuất bản vào Mùa thu [2009](../_/2009.md).
+<b><i>Mallorn</i> 48</b> là số thứ 48 của tạp chí hai năm một lần của [Hội Tolkien](../T/The_Tolkien_Society.md) *[Mallorn](<Mallorn_(journal).md>)*, xuất bản vào Mùa thu [2009](../_/2009.md).
 
 ## Nội dung {#Contents}
 
@@ -59,23 +59,23 @@ infobox:
         - Bởi: Joel Franz
     - "Một hương vị quê hương": *Paths of Exile*
         - Bởi: [David Doughan](../D/David_Doughan.md)
-    - "Săn lùng [Peter Jackson](../P/Peter_Jackson.md)": *[The Hunt for Gollum](../T/The_Hunt_for_Gollum.md)*
+    - "Săn bắn [Peter Jackson](../P/Peter_Jackson.md)": *[The Hunt for Gollum](../T/The_Hunt_for_Gollum.md)*
         - Bởi: Chad Chrisholm
     - "Tên là gì?": *[The Tolkien Name in History](../T/The_Tolkien_Name_in_History.md)*, <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Suffield_Name_in_History&amp;action=edit&amp;redlink=1" title="The Suffield Name in History (page does not exist)">Tên Suffield trong Lịch sử</a></i> và *Nguồn gốc của [JRR Tolkien](../J/J.R.R._Tolkien.md) trong [Bloemfontein](../B/Bloemfontein.md)*
         - Bởi: [Pat Reynolds](../P/Patricia_Reynolds.md)
 - **Bình luận**
-    - "Niềm khao khát của người kể chuyện"
+    - "Niềm khát khao của người kể chuyện"
         - Bởi: [Maggie Burns](Maggie_Burns.md)
-    - "[Frodo](../F/Frodo_Baggins.md) với tư cách là đứa con chịu tội của [Trung địa](Middle-earth.md)"
+    - "[Frodo](../F/Frodo_Baggins.md) là con dê tế thần của [Trung Địa](Middle-earth.md)"
         - Bởi: Lynn Whitaker
-    - " [Hòn đá Erech](../S/Stone_of_Erech.md) và Đá đen Ka'aba: thiên thạch hay 'sao băng sai'?"
+    - " [Tảng đá Erech](../S/Stone_of_Erech.md) và Viên đá đen của Ka'aba: thiên thạch hay 'sao băng sai'?"
         - Bởi: [Kristine Larsen](../K/Kristine_Larsen.md)
-    - "Truy tìm 'Tygers': khám phá cảnh quan khảo cổ lịch sử về Trung Địa thực sự của J.R.R. Tolkien"
+    - "Truy tìm 'Tygers': khám phá cảnh quan khảo cổ lịch sử về J.R.R. Tolkien có thật Trung Địa"
         - Bởi: Paul H. Vigor
 - **Thơ**
     - "Bình minh của [Wolds](../T/The_Wold.md) của [Rohan](../R/Rohan.md)"
         - Bởi: Carol Brownlow
-    - "[Sarehole](../S/Sarehole_Mill.md) Những giấc mơ ([Tom Bombadil](../T/Tom_Bombadil.md) Sống và Khỏe mạnh)"
+    - "[Sarehole](../S/Sarehole_Mill.md) Những giấc mơ ([Tom Bombadil](../T/Tom_Bombadil.md) Sống khỏe mạnh)"
         - Bởi: Jodi Storer
     - "[Cuivienen](../C/Cuiviénen.md)"
         - Bởi: Carol Brownlow
@@ -99,4 +99,4 @@ infobox:
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://journals.tolkiensociety.org/mallorn/issue/view/49/" rel="noreferrer noopener" target="_blank">Số này tại trang web của The Tolkien Society</a>
+- <a class="external text" href="http://journals.tolkiensociety.org/mallorn/issue/view/49/" rel="noreferrer noopener" target="_blank">Vấn đề này tại trang web Hội Tolkien</a>

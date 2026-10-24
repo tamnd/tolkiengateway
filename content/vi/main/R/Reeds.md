@@ -18,7 +18,7 @@ categories:
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1984-1997: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Nhập vai Trung Địa</a></i></b>
+<b>1984-1997: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i></b>
 
 <dl><dd>Several types of reeds are distinguished:</dd></dl>
 
@@ -36,7 +36,7 @@ categories:
 
 <dl><dd><i><b>Sheep’s Plume</b></i> (<a href="../S/Sindarin.md" title="Sindarin">S.</a> <i>Pethlebed</i>, <a href="../Q/Quenya.md" title="Quenya">Q.</a> <i>Quesselepsë</i>), also known as <i>Frillrod</i> or <i>Ache-ease</i>, was a tall reed found along freshwater shores. Boiling and straining the frilly top yielded a restorative tea that also cured the disease jadaras.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup></dd></dl>
 
-<b>2005: <i><a href="../T/The_Lord_of_the_Rings_Roleplaying_Game.md" title="The Lord of the Rings Roleplaying Game">Trò chơi nhập vai Chúa tể của những chiếc nhẫn</a>: <a href="../P/Paths_of_the_Wise%253A_The_Guide_to_Magicians_and_Loremasters.md" title="Paths of the Wise: The Guide to Magicians and Loremasters">Con đường của nhà thông thái</a></i></b>
+<b>2005: <i><a href="../T/The_Lord_of_the_Rings_Roleplaying_Game.md" title="The Lord of the Rings Roleplaying Game">The Lord of the Rings Trò chơi nhập vai</a>: <a href="../P/Paths_of_the_Wise%253A_The_Guide_to_Magicians_and_Loremasters.md" title="Paths of the Wise: The Guide to Magicians and Loremasters">Con đường khôn ngoan</a></i></b>
 
 <dl><dd>Two types of reeds are distinguished:</dd></dl>
 

@@ -16,7 +16,7 @@ sort_keys:
   "Letters": "Sayer, George (1963-11-28)"
 ---
 
-Vào [28 tháng 11](../_/28_November.md) [1963](../_/1963.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) gửi [George Sayer](../G/George_Sayer.md)**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Vào [28 tháng 11](../_/28_November.md) [1963](../_/1963.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho [George Sayer](../G/George_Sayer.md)**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 - **Chủ đề:** Cáo phó cho [C.S. Lewis](../C/C.S._Lewis.md).
 - **Xuất bản:** Một trích dẫn từ bức thư xuất hiện trong *[Christie's 20th Century Books and Manuscripts 16 November 2001](../C/Christie's_20th_Century_Books_and_Manuscripts_16_November_2001.md)*. Mô tả và trích dẫn từ bức thư xuất hiện trong *[The J.R.R. Tolkien Companion and Guide: I. Chronology](../T/The_J.R.R._Tolkien_Companion_and_Guide.md)*.

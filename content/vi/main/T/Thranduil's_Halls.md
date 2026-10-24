@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Elvenking's Halls"
 ---
 
-Chuyển hướng tới [Sảnh của Elvenking](../E/Elvenking's_Halls.md).
+Chuyển hướng tới Sảnh của [Vua Tiên](../E/Elvenking's_Halls.md).

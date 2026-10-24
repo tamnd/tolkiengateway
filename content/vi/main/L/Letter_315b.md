@@ -29,7 +29,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Trong bức thư này, Tolkien bày tỏ sự do dự của mình về việc chia sẻ bản in của bài báo duy nhất mà ông đóng vai trò là một học giả về Lãng mạn. Mặc dù có chuyên môn về ngữ văn, Tolkien thừa nhận khả năng nói tiếng Pháp của ông không đủ cho vai trò như vậy. Bài báo ra đời trong sự cần thiết khi Tolkien, một “tiến sĩ” danh dự của Đại học Liège, được Đại học Oxford cử đến đại diện cho nó tại một hội nghị của các nhà ngữ văn lãng mạn.
+Trong bức thư này Tolkien bày tỏ sự do dự của mình về việc chia sẻ bản in của bài báo duy nhất mà ông đóng vai là một học giả về Lãng mạn. Mặc dù có chuyên môn về ngữ văn, Tolkien thừa nhận rằng khả năng nói tiếng Pháp của anh không phù hợp với vai trò như vậy. Bài viết ra đời trong sự cần thiết khi Tolkien, một “tiến sĩ” danh dự của Đại học Liège, được Đại học Oxford cử đến đại diện cho nó tại một hội nghị của các nhà ngữ văn lãng mạn.
 
 Tolkien kể lại bầu không khí đầy thử thách tại hội nghị năm 1953, ghi nhận thái độ thù địch đáng ngạc nhiên đối với tiếng Anh. Bất chấp những căng thẳng chính trị của <a class="extiw" href="http://en.wikipedia.org/wiki/World_War_II" title="wikipedia:World War II">Chiến tranh thế giới thứ hai</a>, các học giả Pháp và Đức vẫn giả vờ không hiểu tiếng Anh, mặc dù họ dễ tiếp thu ngôn ngữ của kẻ thù cũ hơn. <br>
 

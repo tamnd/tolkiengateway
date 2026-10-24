@@ -14,14 +14,14 @@ images:
   - "Disambig.png"
 ---
 
-**Rivendell** có thể đề cập đến:
+**Rivendell** có thể tham khảo:
 
-## Trung địa {#Middle-earth}
+## Trung Địa {#Middle-earth}
 
-- **[Rivendell](Rivendell.md)**, Yêu tinh sống ở [Dãy núi Sương mù](../M/Misty_Mountains.md)
-- [Lãnh chúa của Rivendell](../L/Lord_of_Rivendell.md), danh hiệu [Elrond](../E/Elrond.md)
-- [Tính toán Rivendell](Reckoning_of_Rivendell.md), Lịch của Imladris
-- [Bài hát Elvish ở Rivendell](../E/Elvish_Song_in_Rivendell.md), một bài thơ của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)
+- **[Rivendell](Rivendell.md)**, Tiên cư trú tại [Dãy Núi Sương Mù](../M/Misty_Mountains.md)
+- [Chúa tể của Rivendell](../L/Lord_of_Rivendell.md), danh hiệu [Elrond](../E/Elrond.md)
+- [Tính Rivendell](Reckoning_of_Rivendell.md), Lịch Imladris
+- [Elvish Bài hát trong Rivendell](../E/Elvish_Song_in_Rivendell.md), một bài thơ của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)
 
 ## Các bản chuyển thể {#Adaptations}
 

@@ -12,7 +12,7 @@ categories:
   - "Songs by Summoning"
 ---
 
-**Mirdautas Vras** là một bài hát của [Summoning](../S/Summoning.md). Nó được viết bằng [Bài phát biểu của người da đen mới](../N/Neo-Black_Speech.md). Nó xuất hiện trong album dài thứ sáu của họ, *[Oath Bound](../O/Oath_Bound.md)*, phát hành vào [2006](../_/2006.md). Mirdautas Vras có nghĩa là *Đây là một ngày tốt để giết người* trong phiên bản Black Speech này.
+**Mirdautas Vras** là một bài hát của [Summoning](../S/Summoning.md). Nó được viết bằng [Neo-Hắc Ngữ](../N/Neo-Black_Speech.md). Nó xuất hiện trong album dài thứ sáu của họ, *[Oath Bound](../O/Oath_Bound.md)*, phát hành vào [2006](../_/2006.md). Mirdautas Vras có nghĩa là *Đây là một ngày tốt lành để giết người* trong phiên bản Hắc Ngữ này.
 
 ## Lời bài hát {#Lyrics}
 

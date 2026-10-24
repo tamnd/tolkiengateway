@@ -17,7 +17,7 @@ sort_keys:
 
 <i><b>kópa</b></i> là một từ [Qenya](../Q/Qenya.md).<sup id="cite_ref-LT1_1-0" class="reference"><a href="#cite_note-LT1-1">[1]</a></sup>
 
-Trong Từ điển Qenya, *kópa* được gọi là "bến cảng" (bắt nguồn từ [gốc](../S/Sundocarme.md) KOPO "giữ, bảo vệ").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Trong Từ điển Gnomish xuất hiện *kôpa*/*kôpas*, Qenya có cùng nguồn gốc với [Gnomish](../G/Gnomish.md) *gobos* "haven".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Trong [the *Etymologies*](../T/The_Etymologies.md) xuất hiện *kópa* ("bến cảng, vịnh"), bắt nguồn từ gốc KOP (tuy nhiên, đã bị gạch bỏ và sửa đổi thành *hópa* "thiên đường, bến cảng, vịnh nhỏ không giáp biển", từ gốc KHOP).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Trong Qenya Lexicon, *kópa* được gọi là "bến cảng" (bắt nguồn từ [gốc](../S/Sundocarme.md) KOPO "giữ, bảo vệ").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Trong Gnomish Lexicon xuất hiện *kôpa*/*kôpas*, Qenya cùng nguồn gốc với [Gnomish](../G/Gnomish.md) *gobos* "haven".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Trong [the *Etymologies*](../T/The_Etymologies.md) xuất hiện *kópa* ("bến cảng, vịnh"), bắt nguồn từ gốc KOP (tuy nhiên, đã bị gạch bỏ và sửa đổi thành *hópa* "thiên đường, bến cảng, vịnh nhỏ không giáp biển", từ gốc KHOP).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Ví dụ {#Examples}
 

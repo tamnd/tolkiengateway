@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Orcs of Mordor"
 ---
 
-Chuyển hướng đến [Orcs of Mordor](../O/Orcs_of_Mordor.md).
+Chuyển hướng tới [Orc của Mordor](../O/Orcs_of_Mordor.md).

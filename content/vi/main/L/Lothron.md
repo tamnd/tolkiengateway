@@ -12,7 +12,7 @@ categories:
   - "Months"
 ---
 
-**Lothron** là tên [Elvish](../E/Elvish.md) cho tháng thứ năm trong năm. Lothron xuất phát từ ngôn ngữ [Sindarin](../S/Sindarin.md) và ở [Thời đại thứ ba](../T/Third_Age.md) tên này chỉ được sử dụng bởi [Dúnedain](../D/Dúnedain.md). Hầu hết các lịch khác ở [Trung địa](../M/Middle-earth.md) vào thời điểm đó đều sử dụng từ tương đương [Quenya](../Q/Quenya.md), đó là [Lótessë](Lótessë.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Cả hai tên này đều bắt nguồn từ từ gốc [Elvish](../E/Elvish.md) rất nhiều(h), 'hoa' và đề cập đến sự nở hoa vào mùa xuân gắn liền với tháng này.
+**Lothron** là tên [Elvish](../E/Elvish.md) cho tháng thứ năm trong năm. Lothron xuất phát từ ngôn ngữ [Sindarin](../S/Sindarin.md) và trong [Kỷ Đệ Tam](../T/Third_Age.md) tên này chỉ được sử dụng bởi [Dúnedain](../D/Dúnedain.md). Hầu hết các lịch khác trong [Trung Địa](../M/Middle-earth.md) vào thời điểm đó đều sử dụng từ tương đương [Quenya](../Q/Quenya.md), đó là [Lótessë](Lótessë.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Cả hai tên này đều xuất phát từ từ gốc [Elvish](../E/Elvish.md) lot(h), 'hoa' và đề cập đến sự nở hoa vào mùa xuân gắn liền với tháng này.
 
 <span></span>
 

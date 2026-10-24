@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "War of the Last Alliance"
 ---
 
-Chuyển hướng tới [Cuộc chiến của liên minh cuối cùng](War_of_the_Last_Alliance.md).
+Chuyển hướng đến [Cuộc chiến của Liên minh Cuối cùng](War_of_the_Last_Alliance.md).

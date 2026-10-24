@@ -40,7 +40,7 @@ infobox:
 <p class="tg-quote-footer"><cite>Rory Michael Kinnear in an interview with Vanity Fair</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Rory Michael Kinnear** là một diễn viên và nhà viết kịch người Anh. Anh sẽ đóng vai [Tom Bombadil](../T/Tom_Bombadil.md) trong phần thứ hai của loạt phim *[The Lord of the Rings: The Rings of Power](../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)* của [Amazon Studios](../A/Amazon_Studios.md).
+**Rory Michael Kinnear** là một diễn viên và nhà viết kịch người Anh. Ông sẽ đóng vai [Tom Bombadil](../T/Tom_Bombadil.md) trong phần thứ hai của loạt phim *[The Lord of the Rings: The Rings of Power](../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)* của [Amazon Studios](../A/Amazon_Studios.md).
 
 Kinnear vẫn chưa đọc *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* trước khi nhận vai, nhưng sau khi chia sẻ tin tức về lời đề nghị với đối tác của ông, bà đã hào hứng thốt lên rằng Bombadil là nhân vật cô yêu thích nhất trong sách.<sup id="cite_ref-VF_1-0" class="reference"><a href="#cite_note-VF-1">[1]</a></sup>
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Rangers of Ithilien"
 ---
 
-Chuyển hướng tới [Rangers of Ithilien](Rangers_of_Ithilien.md).
+Chuyển hướng đến [Ranger của Ithilien](Rangers_of_Ithilien.md).

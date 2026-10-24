@@ -20,7 +20,7 @@ sort_keys:
   "People by name": "Gunn, Marc"
 ---
 
-**Marc Gunn** là một nhạc sĩ sống ở Santa Ana, California và là cựu thành viên của [Brobdingnagian Bards](../B/Brobdingnagian_Bards.md). Gunn đã viết một số bài hát lấy cảm hứng từ [Tolkien](../J/J.R.R._Tolkien.md), bao gồm cả <a class="new" href="https://tolkiengateway.net/w/index.php?title=Don%27t_Go_Drinking_With_Hobbits&amp;action=edit&amp;redlink=1" title="Don&#39;t Go Drinking With Hobbits (page does not exist)">Don't Go Drink With Hobbit</a>năm 2011, một album gồm các bài hát uống rượu của người hobbit. Nhiều bài hát trong album đó được đồng sáng tác với tác giả giả tưởng Rie Sheridan Rose.
+**Marc Gunn** là một nhạc sĩ sống ở Santa Ana, California và là cựu thành viên của [Brobdingnagian Bards](../B/Brobdingnagian_Bards.md). Gunn đã viết một số bài hát lấy cảm hứng từ [Tolkien](../J/J.R.R._Tolkien.md), bao gồm <a class="new" href="https://tolkiengateway.net/w/index.php?title=Don%27t_Go_Drinking_With_Hobbits&amp;action=edit&amp;redlink=1" title="Don&#39;t Go Drinking With Hobbits (page does not exist)">Don't Go Drink With Hobbit</a>năm 2011, một album gồm các bài hát uống rượu của người hobbit. Nhiều bài hát trong album đó được đồng sáng tác với tác giả giả tưởng Rie Sheridan Rose.
 
 ## Liên kết ngoài {#External_links}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "W.H. Auden"
 ---
 
-Chuyển hướng tới [W.H. Auden](W.H._Auden.md).
+Chuyển hướng đến [W.H. Auden](W.H._Auden.md).

@@ -58,24 +58,24 @@ langlinks:
 </div><div class="template-month__footer"><div class="tg-button"><a href="../J/January.md" title="January">Jan</a></div><div class="tg-button"><a href="../F/February.md" title="February">Feb</a></div><div class="tg-button"><a href="../M/March.md" title="March">Mar</a></div><div class="tg-button"><a href="../A/April.md" title="April">Apr</a></div><div class="tg-button"><a href="../M/May.md" title="May">May</a></div><div class="tg-button"><a href="../J/June.md" title="June">Jun</a></div><div class="tg-button"><a href="../J/July.md" title="July">Jul</a></div><div class="tg-button"><a href="../A/August.md" title="August">Aug</a></div><div class="tg-button"><a href="../S/September.md" title="September">Sep</a></div><div class="tg-button"><a href="../O/October.md" title="October">Oct</a></div><div class="tg-button"><a href="../N/November.md" title="November">Nov</a></div><div class="tg-button"><a href="../D/December.md" title="December">Dec</a></div></div>
 </div>
 
-Sự kiện xảy ra vào ngày 10 tháng 9
+Sự kiện xảy ra vào ngày 10 tháng Chín.
 
 ## Trên Trái đất {#On_Earth}
 
 - **[1950](1950.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) trở về sau kỳ nghỉ tại [ngôi nhà của con trai ông](../M/Michael_Tolkien.md), nơi ông đã thực hiện một số sửa đổi cuối cùng đối với *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* (xem [Thư 134](../L/Letter_134.md)).
 - **[1950](1950.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 129](../L/Letter_129.md).
-- **[1951](1951.md)** - Ngày đầu tiên của Congrès Internationale de Philologie Moderne tại <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Li%C3%A8ge" title="wikipedia:University of Liège">Đại học Liège</a>, một hội nghị trong đó [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) trình bày bài báo "[Tiếng Anh trung cổ 'Losenger'](../M/Middle_English_'Losenger'.md)".
+- **[1951](1951.md)** - Ngày đầu tiên của Congrès Internationale de Philologie Moderne tại <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Li%C3%A8ge" title="wikipedia:University of Liège">Đại học Liège</a>, một hội nghị trong đó [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) trình bày bài báo "[tiếng Anh trung cổ 'Losenger'](../M/Middle_English_'Losenger'.md)".
 - **[1957](1957.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) giành được [Giải thưởng giả tưởng quốc tế](../T/The_Bookseller,_14_September_1957.md).
 - **[1959](1959.md)** - Diễn viên [Jim Meskimen](../J/Jim_Meskimen.md) ra đời.
 - **[1964](1964.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 263](../L/Letter_263.md).
 - **[2007](2007.md)** - *["from mind to mind": Robert Browning and J.R.R. Tolkien](../F/From_Mind_to_Mind.md)* được xuất bản.
-- **[2010](2010.md)** - Lễ hội Tolkien lần thứ 6 của Hiệp hội Tolkien Bungari tại <a class="extiw" href="http://en.wikipedia.org/wiki/Sofia" title="wikipedia:Sofia">Sofia</a>.
+- **[2010](2010.md)** - Tiếng Bulgaria Tolkien Lần thứ 6 của Hiệp hội Tolkien-Lễ hội ở <a class="extiw" href="http://en.wikipedia.org/wiki/Sofia" title="wikipedia:Sofia">Sofia</a>.
 - **[2010](2010.md)** - *[The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md)* được chơi miễn phí cho công chúng ở Bắc Mỹ.
 - **[2015](2015.md)** - [Oxonmoot 2015](../O/Oxonmoot_2015.md) tại <a class="external text" href="http://www.sant.ox.ac.uk" rel="noreferrer noopener" target="_blank">Trường Cao đẳng St Antony</a>.
-- **[2016](2016.md)** - [Oxonmoot 2016](../O/Oxonmoot_2016.md) tại <a class="external text" href="http://www.sant.ox.ac.uk" rel="noreferrer noopener" target="_blank">Đại học St Antony</a>.
+- **[2016](2016.md)** - [Oxonmoot 2016](../O/Oxonmoot_2016.md) tại <a class="external text" href="http://www.sant.ox.ac.uk" rel="noreferrer noopener" target="_blank">Trường Cao đẳng St Antony</a>.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Gandalf](../G/Gandalf.md) bị [Saruman](../S/Saruman.md) giam giữ trên đỉnh [Orthanc](../O/Orthanc.md).
+    - [Gandalf](../G/Gandalf.md) bị giam giữ bởi [Saruman](../S/Saruman.md) trên đỉnh của [Orthanc](../O/Orthanc.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.

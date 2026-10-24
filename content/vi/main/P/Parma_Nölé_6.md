@@ -15,17 +15,17 @@ sort_keys:
   "Parma Nölé": "Parma Nole 06"
 ---
 
-<b><i>Parma Nölé</i> 6</b> là số thứ sáu của tạp chí [Hiệp hội Tolkien Đông Bắc](../N/North_East_Tolkien_Society.md) *[Parma Nölé](Parma_Nölé.md)*, cho mùa Xuân/Hè [2003](../_/2003.md).
+<b><i>Parma Nölé</i> 6</b> là số thứ sáu của tạp chí [Miền Bắc phương Đông Tolkien Hiệp hội](../N/North_East_Tolkien_Society.md) *[Parma Nölé](Parma_Nölé.md)*, cho mùa Xuân/Hè [2003](../_/2003.md).
 
 ## Nội dung {#Contents}
 
 - "Thư của Chủ tịch và Đồng Chủ tịch Heren Istarion"
-- Tiền lương của Ginger: "Balrogs và Khỉ bay: Mặt tối của [Tolkien](../J/J.R.R._Tolkien.md)"
+- Tiền lương gừng: "Balrog và Khỉ bay: Mặt tối của [Tolkien](../J/J.R.R._Tolkien.md)"
 - "Cuộc phỏng vấn với [Howard Shore](../H/Howard_Shore.md)"
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Sabrina_Jackson&amp;action=edit&amp;redlink=1" title="Sabrina Jackson (page does not exist)">Sabrina Jackson</a>: "Bảo vệ các cuộc tranh luận"
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Jessica_Burke&amp;action=edit&amp;redlink=1" title="Jessica Burke (page does not exist)">Jessica Burke</a>: "Suy nghĩ về huyền thoại"
 - [C.S. Lewis](../C/C.S._Lewis.md): "Các vị thần trở lại Trái đất" (tái bản)
 - [Anthony S. Burdge](../A/Anthony_S._Burdge.md): "Đánh giá về [Gary Russell](../G/Gary_Russell.md) của *[The Art of The Two Towers](../T/The_Art_of_The_Two_Towers.md)*"
-- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Stephanie_Kushner&amp;action=edit&amp;redlink=1" title="Stephanie Kushner (page does not exist)">Stephanie Kushner</a>: "Tìm kiếm từ Tolkien"
-- Ginger Wags: "Xem hay không xem ...Đó là câu hỏi: [Cổng đen](../B/Black_Gate.md) đang đến gần...Nỗi lo lắng về phim của một người hâm mộ"
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Stephanie_Kushner&amp;action=edit&amp;redlink=1" title="Stephanie Kushner (page does not exist)">Stephanie Kushner</a>: "Tolkien Tìm kiếm từ"
+- Ginger Lương: "Xem hay không xem ...Đó là câu hỏi: [Cổng Đen](../B/Black_Gate.md) Cách tiếp cận...Nỗi lo lắng về phim của một người hâm mộ"
 - Constance Schuchardt: "Ai sẽ là người hobbit"

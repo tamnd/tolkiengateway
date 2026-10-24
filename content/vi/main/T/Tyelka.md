@@ -13,7 +13,7 @@ categories:
   - "Quenya adjectives"
 ---
 
-<i><b>Tyelca</b></i> là tính từ [Quenya](../Q/Quenya.md) có nghĩa là "nhanh nhẹn", "nhanh nhẹn" hoặc "vội vàng".
+<i><b>Tyelca</b></i> là một tính từ [Quenya](../Q/Quenya.md) có nghĩa là "nhanh nhẹn", "nhanh nhẹn" hoặc "vội vàng".
 
 ## Từ nguyên {#Etymology}
 
@@ -25,9 +25,9 @@ Có lẽ là [PQ](../P/PQ.md) \**kyelekâ*, [Root](../S/Sundocarmë.md) <a class
 
 ## Có cùng nguồn gốc {#Cognates}
 
-- [Tiếng Sindarin](../S/Sindarin.md) *[celeg](../C/Celeg.md)*
+- [Sindarin](../S/Sindarin.md) *[celeg](../C/Celeg.md)*
 
 ## Tài liệu tham khảo {#References}
 
 - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), [Christopher Tolkien](../C/Christopher_Tolkien.md) (ed.), *[The Peoples of Middle-earth](The_Peoples_of_Middle-earth.md)*, "[The Shibboleth of Fëanor](The_Shibboleth_of_Fëanor.md)"
-- <a class="external text" href="http://www.uib.no/People/hnohf" rel="noreferrer noopener" target="_blank">Danh sách từ tiếng Anh-Quenya</a> do [Helge Fauskanger biên soạn](../H/Helge_Fauskanger.md)
+- <a class="external text" href="http://www.uib.no/People/hnohf" rel="noreferrer noopener" target="_blank">Quenya-Danh sách từ tiếng Anh</a> được biên soạn bởi [Helge Fauskanger](../H/Helge_Fauskanger.md)

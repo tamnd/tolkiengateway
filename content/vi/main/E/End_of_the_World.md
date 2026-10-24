@@ -23,13 +23,13 @@ images:
 
 ## Mô tả {#Description}
 
-*End of the World* thể hiện một người đàn ông có vẻ vô tư bước ra từ vách đá xuống vực thẳm. Bên kia vách đá là [Mặt trời](../S/Sun.md), [Mặt trăng](../M/Moon.md) và [các ngôi sao](../S/Stars.md) — những yếu tố then chốt trong [huyền thoại](../L/Legendarium.md) của Tolkien. Bức tranh minh họa được thực hiện vào tháng 12 [1912](../_/1912.md) và được Tolkien sưu tầm cùng với những bức tranh minh họa khác cùng thời kỳ trong một phong bì có nhãn "[Những bức tranh đầu tiên](../T/The_Book_of_Ishness.md)".<sup id="cite_ref-AI_1-1" class="reference"><a href="#cite_note-AI-1">[1]</a></sup>
+*End of the World* thể hiện một người đàn ông có vẻ vô tư bước ra từ vách đá xuống vực thẳm. Bên kia vách đá là [Mặt Trời](../S/Sun.md), [Mặt Trăng](../M/Moon.md) và [ngôi sao](../S/Stars.md) — những yếu tố then chốt trong [huyền thoại](../L/Legendarium.md) của Tolkien. Hình minh họa được thực hiện vào tháng 12 [1912](../_/1912.md) và được Tolkien sưu tầm cùng với các hình minh họa khác cùng thời kỳ trong một phong bì có nhãn "[Những hình ảnh đầu tiên](../T/The_Book_of_Ishness.md)".<sup id="cite_ref-AI_1-1" class="reference"><a href="#cite_note-AI-1">[1]</a></sup>
 
 ## Cảm hứng {#Inspiration}
 
-Mặc dù khẳng định rõ ràng rằng không có mối liên hệ trực tiếp nào giữa hai hình minh họa, [Dimitra Fimi](../D/Dimitra_Fimi.md) đã lưu ý sự giống nhau giữa *End of the World* của Tolkien với <a class="extiw" href="http://en.wikipedia.org/wiki/The_Fool_(Tarot_card)" title="wikipedia:The Fool (Tarot card)">The Fool</a> trong <a class="extiw" href="http://en.wikipedia.org/wiki/Rider-Waite_tarot_deck" title="wikipedia:Rider-Waite tarot deck">bộ bài tarot Rider-Waite</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Mặc dù tuyên bố rõ ràng rằng không có mối liên hệ trực tiếp nào giữa hai hình minh họa, [Dimitra Fimi](../D/Dimitra_Fimi.md) đã lưu ý sự giống nhau giữa *End of the World* của Tolkien với <a class="extiw" href="http://en.wikipedia.org/wiki/The_Fool_(Tarot_card)" title="wikipedia:The Fool (Tarot card)">The Fool</a> trong bộ bài tarot <a class="extiw" href="http://en.wikipedia.org/wiki/Rider-Waite_tarot_deck" title="wikipedia:Rider-Waite tarot deck">Rider-Waite</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-[Wayne G. Hammond](../W/Wayne_G._Hammond.md) và [Christina Scull](../C/Christina_Scull.md) đã lưu ý rằng kỹ thuật của Tolkien trong minh họa này đã tạo ra một "bầu trời không ngừng nghỉ được vẽ như thể được vẽ bởi <a class="extiw" href="http://en.wikipedia.org/wiki/Vincent_van_Gogh" title="wikipedia:Vincent van Gogh">Van Gogh</a>".<sup id="cite_ref-AI_1-2" class="reference"><a href="#cite_note-AI-1">[1]</a></sup> <span></span>
+[Wayne G. Hammond](../W/Wayne_G._Hammond.md) và [Christina Scull](../C/Christina_Scull.md) đã lưu ý rằng kỹ thuật của Tolkien trong hình minh họa này đã tạo ra một "bầu trời không ngừng nghỉ được vẽ bởi <a class="extiw" href="http://en.wikipedia.org/wiki/Vincent_van_Gogh" title="wikipedia:Vincent van Gogh">Van Gogh</a>".<sup id="cite_ref-AI_1-2" class="reference"><a href="#cite_note-AI-1">[1]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

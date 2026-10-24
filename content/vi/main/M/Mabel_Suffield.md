@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mabel Tolkien"
 ---
 
-Chuyển hướng tới [Mabel Tolkien](Mabel_Tolkien.md).
+Chuyển hướng đến [Mabel Tolkien](Mabel_Tolkien.md).

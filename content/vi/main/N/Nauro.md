@@ -13,7 +13,7 @@ categories:
   - "Quenya nouns"
 ---
 
-<i><b>nauro</b></i> (hoặc *ñaurō*) là từ [Quenya](../Q/Quenya.md) cho "[người sói](../W/Werewolves.md)".<sup id="cite_ref-PE19_1-0" class="reference"><a href="#cite_note-PE19-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+<i><b>nauro</b></i> (hoặc *ñaurō*) là từ [Quenya](../Q/Quenya.md) chỉ "[người sói](../W/Werewolves.md)".<sup id="cite_ref-PE19_1-0" class="reference"><a href="#cite_note-PE19-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -21,7 +21,7 @@ categories:
 
 ## Có cùng nguồn gốc {#Cognates}
 
-- [Tiếng Sindarin](../S/Sindarin.md) *[gaur](../G/Gaur.md)*
+- [Sindarin](../S/Sindarin.md) *[gaur](../G/Gaur.md)*
 
 <span></span>
 

@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Bass, Jules"
 ---
 
-**Jules Bass** ([16 tháng 9](../_/16_September.md), [1935](../_/1935.md) - [25 tháng 10](../_/25_October.md) [2022](../_/2022.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>) là đạo diễn, nhà sản xuất và nhà soạn nhạc người Mỹ. Cùng với đồng đạo diễn [Arthur Rankin Jr.](../A/Arthur_Rankin_Jr..md), họ đã thành lập công ty sản xuất [Rankin/Bass](../R/Rankin%252FBass.md). Ông và Rankin là đạo diễn và nhà sản xuất bộ phim hoạt hình chuyển thể *[The Hobbit](<../T/The_Hobbit_(1977_film).md>)* năm 1977 và *[The Return of the King](<../T/The_Return_of_the_King_(1980_film).md>)* năm 1980.
+**Jules Bass** ([tháng Chín 16](../_/16_September.md), [1935](../_/1935.md) - [25 tháng 10](../_/25_October.md) [2022](../_/2022.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>) là đạo diễn, nhà sản xuất và nhà soạn nhạc người Mỹ. Cùng với đồng đạo diễn [Arthur Rankin Jr.](../A/Arthur_Rankin_Jr..md), họ đã thành lập công ty sản xuất [Rankin/Bass](../R/Rankin%252FBass.md). Ông và Rankin là đạo diễn và nhà sản xuất bộ phim hoạt hình chuyển thể *[The Hobbit](<../T/The_Hobbit_(1977_film).md>)* năm 1977 và *[The Return of the King](<../T/The_Return_of_the_King_(1980_film).md>)* năm 1980.
 
 ## Giải thưởng {#Awards}
 

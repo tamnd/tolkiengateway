@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "First Age 506"
 ---
 
-Chuyển hướng đến [Kỷ nguyên thứ nhất 506](First_Age_506.md).
+Chuyển hướng tới [Kỷ Đệ Nhất 506](First_Age_506.md).

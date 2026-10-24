@@ -16,7 +16,7 @@ sort_keys:
   "Quenya nouns": "Temar"
 ---
 
-**Témar** là "loạt phim" của [Tengwar](Tengwar.md). Trong cách sử dụng thông thường, mỗi loại này chứa sáu *[tyeller](Tyellë.md)* hoặc "cấp" mang lại chất lượng khác nhau cho âm thanh cơ bản.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Témar** là "loạt" của [Tengwar](Tengwar.md). Trong cách sử dụng thông thường, mỗi loại này chứa sáu *[tyeller](Tyellë.md)* hoặc "cấp" mang lại chất lượng khác nhau cho âm thanh cơ bản.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

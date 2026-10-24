@@ -14,4 +14,4 @@ categories:
   - "Unmade projects"
 ---
 
-**Lịch Hobbit 1986** là một cuốn lịch chưa bao giờ được phát hành do <a class="extiw" href="http://en.wikipedia.org/wiki/Abrams_Books" title="wikipedia:Abrams Books">Abrams Books</a> sản xuất và được thiết lập để bao gồm các bức ảnh từ chương trình truyền hình [Rankin/Bass](../R/Rankin%252FBass.md).
+**The Hobbit Lịch 1986** là một bộ lịch chưa bao giờ được phát hành do <a class="extiw" href="http://en.wikipedia.org/wiki/Abrams_Books" title="wikipedia:Abrams Books">Abrams Books</a> sản xuất và được thiết lập để bao gồm các bức ảnh từ chương trình truyền hình [Rankin/Bass](../R/Rankin%252FBass.md).

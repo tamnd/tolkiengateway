@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Piparo, Andrea"
 ---
 
-- Andrea Piparo đã vui lòng cấp phép cho [tác phẩm nghệ thuật](../../category/I/Images_by_Andrea_Piparo.md) của họ trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
+- Andrea Piparo đã vui lòng cấp phép cho [tác phẩm nghệ thuật](../../category/I/Images_by_Andrea_Piparo.md) của họ trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Ngày: [Ngày 9 tháng 6](../../main/J/June_9.md), [2024](../../main/_/2024.md)
 - Người dùng đã xin phép qua email: [Người dùng:Hyarion](https://tolkiengateway.net/wiki/User:Hyarion)

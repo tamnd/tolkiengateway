@@ -45,19 +45,19 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/H/Heroes_of_Middle-earth.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/8/89/Heroes_of_Middle-earth.jpg/320px-Heroes_of_Middle-earth.jpg" decoding="async" loading="lazy" width="320" height="180" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/89/Heroes_of_Middle-earth.jpg/480px-Heroes_of_Middle-earth.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/8/89/Heroes_of_Middle-earth.jpg/640px-Heroes_of_Middle-earth.jpg 2x" data-file-width="1023" data-file-height="575"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Video game</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Lord of the Rings: Heroes of Middle-earth</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Details</span></th></tr><tr><th scope="row" class="tg-infobox-label">Developer</th><td class="tg-infobox-data">Capital Games</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../E/Electronic_Arts.md" title="Electronic Arts">Electronic Arts</a></td></tr><tr><th scope="row" class="tg-infobox-label">Platform</th><td class="tg-infobox-data">iOS and Android</td></tr><tr><th scope="row" class="tg-infobox-label">Release Date</th><td class="tg-infobox-data"><a href="../_/10_May.md" title="10 May">10 May</a> <a href="../_/2023.md" title="2023">2023</a></td></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data">RPG</td></tr><tr><th scope="row" class="tg-infobox-label">Modes</th><td class="tg-infobox-data">Single-player</td></tr><tr><th scope="row" class="tg-infobox-label">Distribution</th><td class="tg-infobox-data">Digital</td></tr></tbody></table>
 
-<i><b>Chúa tể của những chiếc nhẫn: Heroes of Middle-earth</b></i> là một trò chơi điện tử RPG có thể sưu tầm được phát triển bởi Capital Games và [Electronic Arts](../E/Electronic_Arts.md) sản xuất cho thiết bị iOS và Android. Nó dựa trên [The Hobbit](The_Hobbit.md) và [The Lord of the Rings books](The_Lord_of_the_Rings.md). Trò chơi được phát hành vào [10 tháng 5](../_/10_May.md) ngày [2023](../_/2023.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+<i><b>The Lord of the Rings: Heroes of Trung Địa</b></i> là một trò chơi điện tử RPG có thể sưu tầm được phát triển bởi Capital Games và [Electronic Arts](../E/Electronic_Arts.md) sản xuất cho thiết bị iOS và Android. Nó dựa trên [The Hobbit](The_Hobbit.md) và [The Lord of the Rings books](The_Lord_of_the_Rings.md). Trò chơi được phát hành vào [10 tháng 5](../_/10_May.md) ngày [2023](../_/2023.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 Vào [24 tháng 2](../_/24_February.md) của [2024](../_/2024.md), đã có thông báo rằng trò chơi sẽ không còn có sẵn để sử dụng nói chung vào [24 tháng 5](../_/24_May.md) cùng năm.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Lô đồ {#Plot}
 
-Trò chơi khám phá một câu chuyện nguyên bản, chưa từng được kể trước đây. Phim có lối kể chuyện hấp dẫn, chiến đấu theo lượt, hệ thống thu thập sâu sắc và danh sách nhân vật đa dạng dựa trên cả Chúa tể của những chiếc nhẫn và Người Hobbit, đồng thời lấy bối cảnh trong [Chiến tranh của chiếc nhẫn](../W/War_of_the_Ring.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Trò chơi khám phá một câu chuyện nguyên bản, chưa từng được kể trước đây. Phim có lối kể chuyện hấp dẫn, chiến đấu theo lượt, hệ thống thu thập sâu sắc và danh sách nhân vật đa dạng dựa trên cả Chúa tể của những chiếc nhẫn và The Hobbit, đồng thời lấy bối cảnh trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Nhân vật {#Characters}
 
 ### Có thể chơi được {#Playable}
 
-- [Aragor](../A/Aragorn.md)
+- [Aragorn](../A/Aragorn.md)
 - [Gandalf](../G/Gandalf.md)
 - [Bilbo Baggins](../B/Bilbo_Baggins.md)
 - [Boromir](../B/Boromir.md)
@@ -67,8 +67,8 @@ Trò chơi khám phá một câu chuyện nguyên bản, chưa từng được k
 - [Cờ bạc](../G/Gamling.md)
 - [Gimli](../G/Gimli.md)
 - [Legolas](../L/Legolas.md)
-- [Chúc mừng Brandybuck](../M/Merry_Brandybuck.md)
-- [Pippin đã giành được](../P/Pippin_Took.md)
+- [Merry Rượu Brandybuck](../M/Merry_Brandybuck.md)
+- [Pippin Đã thực hiện](../P/Pippin_Took.md)
 - [Samwise Gamgee](../S/Samwise_Gamgee.md)
 
 ## Liên kết ngoài {#External_links}

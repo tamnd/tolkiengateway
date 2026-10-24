@@ -20,7 +20,7 @@ images:
 
 Vào [9 tháng 5](../_/9_May.md) [1961](../_/1961.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho ông Hart**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-- **Chủ đề:** Tolkien dự định đến thăm [Cambridge](../C/Cambridge.md).
+- **Chủ đề:** Tolkien dự định ghé thăm [Cambridge](../C/Cambridge.md).
 - **Xuất bản:** Không có.
 - **Mô tả:** Thư đánh máy, một trang. Đã ký.
 

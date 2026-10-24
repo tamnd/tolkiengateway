@@ -20,7 +20,7 @@ images:
 
 Vào [11 tháng 5](../_/11_May.md) [1966](../_/1966.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho ông Walker**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-- **Nội dung:** Trong thư Tolkien có đề cập ngắn gọn về cuốn băng do ông Walker thực hiện.
+- **Nội dung:** Trong thư Tolkien có đề cập ngắn gọn về đoạn băng do ông Walker thực hiện.
 - **Mô tả:** Thư đánh máy, có chữ ký. Kích thước: 5,5" x 7".
 - **Xuất bản:** Chưa xuất bản.
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Underhill (Hobbiton)"
 ---
 
-Chuyển hướng đến [Underhill (Hobbiton)](<Underhill_(Hobbiton).md>).
+Chuyển hướng tới [Underhill (Hobbiton)](<Underhill_(Hobbiton).md>).

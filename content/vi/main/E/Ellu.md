@@ -30,9 +30,9 @@ infobox:
 
 ## Lịch sử {#History}
 
-Sau [Tinwë Linto](../T/Tinwë_Linto.md), thủ lĩnh ban đầu của Solosimpi, bị mê hoặc bởi [fay](../F/Fays.md) [Wendelin](../W/Wendelin.md) ở [Hisilómë](../H/Hisilómë.md) trong [Yêu tinh](Elves.md) [cuộc hành quân](../G/Great_Journey.md) từ [Palisor](../P/Palisor.md),<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Solosimpi đã chọn một Ellu làm chúa tể của họ,<sup id="cite_ref-Ell_1-3" class="reference"><a href="#cite_note-Ell-1">[1]</a></sup> người cuối cùng đã dẫn họ đến [Valinor](../V/Valinor.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Sau [Tinwë Linto](../T/Tinwë_Linto.md), thủ lĩnh ban đầu của Solosimpi, bị mê hoặc bởi [fay](../F/Fays.md) [Wendelin](../W/Wendelin.md) ở [Hisilómë](../H/Hisilómë.md) trong [march](../G/Great_Journey.md) của [Tiên tộc](Elves.md) từ [Palisor](../P/Palisor.md),<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Solosimpi đã chọn một Ellu làm của họ chúa tể,<sup id="cite_ref-Ell_1-3" class="reference"><a href="#cite_note-Ell-1">[1]</a></sup> người cuối cùng đã dẫn họ đến [Valinor](../V/Valinor.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Nhiều năm sau, khi [Melko](../M/Melko.md) bắt đầu gieo rắc tình trạng bất ổn giữa các [Gnomes](../G/Gnomes.md) ở Valinor, vua [Nólemë](../N/Nólemë.md) của họ đã tìm đến lời khuyên của Ellu, người cùng với [Inwë](../I/Inwë.md) và [Fëanor](../F/Fëanor.md), đã khuyên anh nên thông báo cho [Manwë](../M/Manwë.md) về chuyện của Melko máy móc.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Nhiều năm sau, khi [Melko](../M/Melko.md) bắt đầu gieo rắc tình trạng bất ổn giữa các [Gnomes](../G/Gnomes.md) ở Valinor, vua [Nólemë](../N/Nólemë.md) của họ đã tìm đến lời khuyên của Ellu, người cùng với [Inwë](../I/Inwë.md) và [Fëanor](../F/Fëanor.md) đã khuyên anh nên thông báo cho [Manwë](../M/Manwë.md) về âm mưu của Melko.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -42,11 +42,11 @@ Nhân vật này ban đầu chỉ được biết đến với cái tên *Melemn
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Theo phiên bản gốc của *[The Tale of Tinúviel](../T/The_Tale_of_Tinúviel.md)*, tên *Ellu* lần đầu tiên được áp dụng cho Tinwë Linto (hoặc Tinwelint trong [Gnomish](../G/Gnomish.md)), như đã thấy trong tên *Tinto Ellu*.
+Theo phiên bản gốc của *[The Tale of Tinúviel](../T/The_Tale_of_Tinúviel.md)*, tên *Ellu* lần đầu tiên được áp dụng cho Tinwë Linto (hoặc Tinwelint trong [Gnomish](../G/Gnomish.md)), như được thấy trong tên *Tinto Ellu*.
 
-Tuy nhiên, trong phần bổ sung sau này cho các câu chuyện về *[The Coming of the Elves](../T/The_Coming_of_the_Elves.md)* và *The Theft of Melko*, cái tên *Ellu* bắt đầu được áp dụng cho lãnh chúa của Solosimpi ở Valinor.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+Tuy nhiên, trong phần bổ sung sau này cho các câu chuyện về *[The Coming of the Elves](../T/The_Coming_of_the_Elves.md)* và *The Theft of Melko*, tên *Ellu* bắt đầu được áp dụng cho chúa tể của Solosimpi trong Valinor.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
-Trong *[Sketch of the Mythology](../S/Sketch_of_the_Mythology.md)* từ c. [1926](../_/1926.md), phiên bản đầu tiên của *Silmarillion*, tên *Ellu* một lần nữa được áp dụng cho thủ lĩnh của Solosimpi (hiện còn được gọi là [Teleri](../T/Teleri.md)) ở Valinor, ở đây đổi thành *Elu* (hoặc *Elwë* trong [Qenya](../Q/Qenya.md)).<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
+Trong *[Sketch of the Mythology](../S/Sketch_of_the_Mythology.md)* từ c. [1926](../_/1926.md), phiên bản đầu tiên của *Silmarillion*, tên *Ellu* một lần nữa được áp dụng cho thủ lĩnh của Solosimpi (hiện còn được gọi là [Teleri](../T/Teleri.md)) trong Valinor, ở đây đổi thành *Elu* (hoặc *Elwë* trong [Qenya](../Q/Qenya.md)).<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
 
 Để biết các ứng dụng sau này của tên *Elu*/*Elwë* trong huyền thoại, hãy xem: [Olwë#Các phiên bản khác của huyền thoại](../O/Olwë.md#Other_versions_of_the_legendarium) và [Thingol#Tên khác](../T/Thingol.md#Other_names).
 

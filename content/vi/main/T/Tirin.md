@@ -14,7 +14,7 @@ categories:
   - "Qenya nouns"
 ---
 
-<i><b>tirin</b></i> vừa là danh từ [Qenya](../Q/Qenya.md) vừa là [Gnomish](../G/Gnomish.md) áp dụng cho các tòa tháp.<sup id="cite_ref-Kortirion_1-0" class="reference"><a href="#cite_note-Kortirion-1">[1]</a></sup>
+<i><b>tirin</b></i> vừa là danh từ [Qenya](../Q/Qenya.md) vừa là [Gnomish](../G/Gnomish.md) áp dụng cho tháp.<sup id="cite_ref-Kortirion_1-0" class="reference"><a href="#cite_note-Kortirion-1">[1]</a></sup>
 
 ## Qenya {#Qenya}
 
@@ -25,9 +25,9 @@ categories:
 - <i><a href="../E/Estirin.md" title="Estirin">Es<b>tirin</b></a></i> = "Tháp bên ngoài"
 - <i><a class="mw-redirect" href="../I/Ingil&#39;s_Tirin.md" title="Ingil&#39;s Tirin">Tirin <b>Tirin</b></a></i> = "Tháp Ingil"
 
-## Người lùn {#Gnomish}
+## Gnomish {#Gnomish}
 
-*tirin* trong tiếng Gnomish có nghĩa là "tháp canh, tháp pháo, tháp".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Tên cùng nguồn gốc Qenya là *[tirion](Tirion.md)*.<sup id="cite_ref-Kortirion_1-1" class="reference"><a href="#cite_note-Kortirion-1">[1]</a></sup>
+*tirin* trong Gnomish có nghĩa là "tháp canh, tháp pháo, tháp".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Từ cùng nguồn gốc Qenya là *[tirion](Tirion.md)*.<sup id="cite_ref-Kortirion_1-1" class="reference"><a href="#cite_note-Kortirion-1">[1]</a></sup>
 
 ### Ví dụ {#Examples_2}
 

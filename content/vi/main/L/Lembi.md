@@ -21,9 +21,9 @@ images:
 <p class="tg-quote-footer"><cite><a href="../G/Glóin.md" title="Glóin">Glóin</a></cite></p>
 </blockquote></div></div>
 
-**Lembi** là từ [Quenya](../Q/Quenya.md) có nghĩa là "Những kẻ nán lại". Trong các tác phẩm đầu tiên của Tolkien, nó được sử dụng như một thuật ngữ chung để chỉ [Avari](../A/Avari.md), Yêu tinh sống ở Trung Địa.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Lembi** là một từ [Quenya](../Q/Quenya.md) có nghĩa là "Người nán lại". Trong các bài viết ban đầu của Tolkien, nó được sử dụng như một thuật ngữ chung để chỉ những [Avari](../A/Avari.md), Tiên tộc ở lại Trung Địa.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Nó có thể bắt nguồn từ tính từ Quenya trước đó <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Lemba&amp;action=edit&amp;redlink=1" title="Lemba (page does not exist)">lemba</a></i>, có nghĩa là "bị bỏ lại phía sau".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
+Nó có thể bắt nguồn từ tính từ Quenya <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Lemba&amp;action=edit&amp;redlink=1" title="Lemba (page does not exist)">lemba</a></i>trước đó, có nghĩa là "bị bỏ lại phía sau".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

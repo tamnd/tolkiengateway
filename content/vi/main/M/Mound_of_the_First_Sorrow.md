@@ -13,11 +13,11 @@ categories:
   - "Locations in The Book of Lost Tales"
 ---
 
-**Mound of the First Sorrow** là lăng mộ của [Bruithwir](../B/Bruithwir.md), cha của [Fëanor](../F/Fëanor.md), ở *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales_Part_One.md)*. Tên [Gnomish](../G/Gnomish.md) của nó là *Cûm a Gumlaith* hoặc *Cûm a Thegranaithos*.<sup id="cite_ref-LT1VI_1-0" class="reference"><a href="#cite_note-LT1VI-1">[1]</a></sup>
+**Gò của nỗi buồn đầu tiên** là lăng mộ của [Bruithwir](../B/Bruithwir.md), cha của [Fëanor](../F/Fëanor.md), ở *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales_Part_One.md)*. Tên [Gnomish](../G/Gnomish.md) của nó là *Cûm a Gumlaith* hoặc *Cûm a Thegranaithos*.<sup id="cite_ref-LT1VI_1-0" class="reference"><a href="#cite_note-LT1VI-1">[1]</a></sup>
 
 ## Lịch sử {#History}
 
-Sau vụ [Silmarils](../S/Silmarils.md) bị [Melko](Morgoth.md) đánh cắp và việc hắn giết Bruithwir, Fëanor suy ngẫm bên mộ cha mình và quyết định rằng [Gnomes](../N/Noldor.md) nên gây chiến chống lại Melko.<sup id="cite_ref-LT1VI_1-1" class="reference"><a href="#cite_note-LT1VI-1">[1]</a></sup>
+Sau vụ [Melko](Morgoth.md) trộm [Silmaril](../S/Silmarils.md) và giết Bruithwir, Fëanor suy ngẫm bên mộ cha mình và quyết định rằng [Gnomes](../N/Noldor.md) nên gây chiến với Melko.<sup id="cite_ref-LT1VI_1-1" class="reference"><a href="#cite_note-LT1VI-1">[1]</a></sup>
 
 <span></span>
 

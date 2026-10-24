@@ -42,7 +42,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Dolfen được giới thiệu với các tác phẩm của Tolkien thông qua mẹ cô, một người hâm mộ cuồng nhiệt.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Tác phẩm nghệ thuật của cô nổi tiếng vào đầu những năm 2000 vì nó mô tả các sự kiện từ [The Silmarillion](../T/The_Silmarillion.md), vốn không phổ biến vào thời điểm đó.<sup id="cite_ref-tor_2-0" class="reference"><a href="#cite_note-tor-2">[2]</a></sup>
+Dolfen được giới thiệu các tác phẩm của Tolkien thông qua mẹ cô, một người hâm mộ cuồng nhiệt.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Tác phẩm nghệ thuật của cô nổi tiếng vào đầu những năm 2000 vì nó mô tả các sự kiện từ [The Silmarillion](../T/The_Silmarillion.md), vốn không phổ biến vào thời điểm đó.<sup id="cite_ref-tor_2-0" class="reference"><a href="#cite_note-tor-2">[2]</a></sup>
 
 Cô là khách mời thường xuyên tại các sự kiện liên quan đến Tolkien, từng phát biểu tại hội thảo nghệ sĩ tại [The Return of the Ring](../T/The_Return_of_the_Ring.md), [Tolkien Thing](../T/Tolkien_Thing.md) 2013 và [Tolkien 2019](../T/Tolkien_2019.md).
 
@@ -50,13 +50,13 @@ Năm 2018, chị được chẩn đoán mắc một bệnh lý không rõ nguyê
 
 ## Giải thưởng {#Awards}
 
-- [2014](../_/2014.md): **[Giải thưởng của Hiệp hội Tolkien](../T/Tolkien_Society_Awards.md): Tác phẩm nghệ thuật xuất sắc nhất**, *[Eärendil the Mariner](../../file/J/Jenny_Dolfen_-_Earendil_the_Mariner.jpg.md)*
-- [2018](../_/2018.md): **[Giải thưởng của Hiệp hội Tolkien](../T/Tolkien_Society_Awards.md): Tác phẩm nghệ thuật xuất sắc nhất**, *[The Hunt](../../file/J/Jenny_Dolfen_-_The_Hunt.jpg.md)*
-- [2020](../_/2020.md): **[Giải thưởng của Hiệp hội Tolkien](../T/Tolkien_Society_Awards.md): Tác phẩm nghệ thuật xuất sắc nhất**, *[The Professor](../../file/J/Jenny_Dolfen_-_The_Professor.jpg.md)*
+- [2014](../_/2014.md): **[Giải thưởng của Hội Tolkien](../T/Tolkien_Society_Awards.md): Tác phẩm nghệ thuật xuất sắc nhất**, *[Eärendil the Mariner](../../file/J/Jenny_Dolfen_-_Earendil_the_Mariner.jpg.md)*
+- [2018](../_/2018.md): **[Giải thưởng của Hội Tolkien](../T/Tolkien_Society_Awards.md): Tác phẩm nghệ thuật xuất sắc nhất**, *[The Hunt](../../file/J/Jenny_Dolfen_-_The_Hunt.jpg.md)*
+- [2020](../_/2020.md): **[Giải thưởng của Hội Tolkien](../T/Tolkien_Society_Awards.md): Tác phẩm nghệ thuật xuất sắc nhất**, *[The Professor](../../file/J/Jenny_Dolfen_-_The_Professor.jpg.md)*
 
 ## Thư mục {#Bibliography}
 
-- [2015](../_/2015.md): *Bóng tối bao trùm Cannae: Hannibal chống lại sức mạnh của La Mã*
+- [2015](../_/2015.md): *Bóng Tối về Cannae: Hannibal chống lại sức mạnh của La Mã*
 - [2016](../_/2016.md): *[Songs of Sorrow and Hope: The Art of Jenny Dolfen](../S/Songs_of_Sorrow_and_Hope.md)*
 - [2020](../_/2020.md): *Journeys: Artbook 2015-2019*
 - [2022](../_/2022.md) *The Secret of the Haunted Forest*
@@ -92,14 +92,14 @@ Năm 2018, chị được chẩn đoán mắc một bệnh lý không rõ nguyê
 - <a class="external text" href="https://goldseven.wordpress.com/" rel="noreferrer noopener" target="_blank">Trang web chính thức</a> (tất cả nội dung ngoài trang tiêu đề đã bị xóa vào tháng 1 năm 2025)
 - <a class="external text" href="https://bsky.app/profile/jennydolfen.bsky.social" rel="noreferrer noopener" target="_blank">Jenny Dolfen</a> tại <a class="external text" href="https://bsky.app/" rel="noreferrer noopener" target="_blank">Bluesky</a>
 - <a class="extiw" href="http://en.wikipedia.org/wiki/Jenny_Dolfen" title="wikipedia:Jenny Dolfen">Jenny Dolfen</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
-- <a class="external text" href="https://www.youtube.com/watch?v=XwczPh9pUM4&amp;ab_channel=TheTolkienSociety" rel="noreferrer noopener" target="_blank">Tolkien 2019: Minh họa bảng điều khiển Tolkien</a> trên YouTube
+- <a class="external text" href="https://www.youtube.com/watch?v=XwczPh9pUM4&amp;ab_channel=TheTolkienSociety" rel="noreferrer noopener" target="_blank">Tolkien 2019: Bảng minh họa Tolkien</a> trên YouTube
 
 ### Phỏng vấn {#Interviews}
 
-- <a class="external text" href="https://www.youtube.com/watch?v=nZQF-iE6TGI&amp;ab_channel=TolkienExperience" rel="noreferrer noopener" target="_blank">Tập 30</a> của [Podcast Trải nghiệm Tolkien](../T/The_Tolkien_Experience.md)
-- <i><a class="external text" href="https://www.tor.com/2022/11/17/the-art-of-middle-earth-the-elves-feanoreans-and-glucksdrachen-of-jenny-dolfen/" rel="noreferrer noopener" target="_blank">Nghệ thuật của Trung địa: Yêu tinh, Fëanorean và Glücksdrachen của Jenny Dolfen</a></i> trên tor.com
+- <a class="external text" href="https://www.youtube.com/watch?v=nZQF-iE6TGI&amp;ab_channel=TolkienExperience" rel="noreferrer noopener" target="_blank">Tập 30</a> của [The Tolkien Experience Podcast](../T/The_Tolkien_Experience.md)
+- <i><a class="external text" href="https://www.tor.com/2022/11/17/the-art-of-middle-earth-the-elves-feanoreans-and-glucksdrachen-of-jenny-dolfen/" rel="noreferrer noopener" target="_blank">Nghệ thuật của Trung Địa: Tiên tộc, Fëanoreans và Glücksdrachen của Jenny Dolfen</a></i> trên tor.com
 - <a class="external text" href="https://www.youtube.com/watch?v=CLXZkSTnUXA&amp;ab_channel=SmallTolk" rel="noreferrer noopener" target="_blank">SmallTolk im Gespräch mit Jenny Dolfen</a> trên YouTube **(tiếng Đức)**
-- <i><a class="external text" href="https://issuu.com/sociedadtolkiencolombiaorodruin/docs/10._marzo_2021" rel="noreferrer noopener" target="_blank">Acuarelas vô số: Entrevista a Jenny Dolfen</a></i> ở *[Dragón Verde 10](../S/Sociedad_Tolkien_Colombia_Orodruin.md)*, trang. 10–2 **(Tiếng Tây Ban Nha)**
+- <i><a class="external text" href="https://issuu.com/sociedadtolkiencolombiaorodruin/docs/10._marzo_2021" rel="noreferrer noopener" target="_blank">Acuarelas vô số: Entrevista a Jenny Dolfen</a></i> in *[Dragón Verde 10](../S/Sociedad_Tolkien_Colombia_Orodruin.md)*, trang. 10–2 **(Tiếng Tây Ban Nha)**
 
 <span></span>
 

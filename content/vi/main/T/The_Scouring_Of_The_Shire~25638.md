@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Scouring of the Shire"
 ---
 
-Chuyển hướng tới [Sự trừng phạt của Quận](The_Scouring_of_the_Shire.md).
+Chuyển hướng tới [Cuộc thanh trừng Shire](The_Scouring_of_the_Shire.md).

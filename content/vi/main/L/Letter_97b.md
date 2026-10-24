@@ -27,7 +27,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien nói rằng <a class="extiw" href="http://en.wikipedia.org/wiki/Geoffrey_Chaucer" title="wikipedia:Geoffrey Chaucer">Geoffrey Chaucer</a> là một nhà thơ kể chuyện tài năng, nhưng trình độ tiếng Latinh hạn chế và không có năng khiếu về văn xuôi, như đã được chứng minh qua bản dịch <a class="extiw" href="http://en.wikipedia.org/wiki/Boethius" title="wikipedia:Boethius">Boethius</a>của ông. Ngay cả sự phù phiếm của Chaucer cũng không đủ để khiến ông nghĩ đến việc dịch Kinh thánh. Chaucer là một trong số nhiều người, bao gồm cả Vua Alfred và Nữ hoàng Elizabeth, những người đã "thử dùng Boece già" nhưng sẽ không thử Kinh thánh. <br>
+Tolkien nói rằng <a class="extiw" href="http://en.wikipedia.org/wiki/Geoffrey_Chaucer" title="wikipedia:Geoffrey Chaucer">Geoffrey Chaucer</a> là một nhà thơ kể chuyện tài năng, nhưng trình độ tiếng Latin còn hạn chế và không có năng khiếu về văn xuôi, như đã được chứng minh qua bản dịch <a class="extiw" href="http://en.wikipedia.org/wiki/Boethius" title="wikipedia:Boethius">Boethius</a>của ông. Ngay cả sự phù phiếm của Chaucer cũng không đủ để khiến ông nghĩ đến việc dịch Kinh thánh. Chaucer là một trong số nhiều người, trong đó có Vua Alfred và Nữ hoàng Elizabeth, những người đã "thử dùng Boece già" nhưng sẽ không thử dùng Kinh thánh. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

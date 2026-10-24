@@ -39,7 +39,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mythlore_8.gif.md"><img src="https://tolkiengateway.net/w/images/7/74/Mythlore_8.gif" decoding="async" loading="lazy" width="225" height="292" class="mw-file-element" data-file-width="225" data-file-height="292"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mythlore 8</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../G/Glen_GoodKnight.md" title="Glen GoodKnight">Glen GoodKnight</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Winter <a href="../_/1972.md" title="1972">1972</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">31</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mythlore_7.md" title="Mythlore 7">Mythlore 7</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mythlore_9.md" title="Mythlore 9">Mythlore 9</a></td></tr></tbody></table>
 
-<b><i>Thần thoại</i> 8</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol2/iss4/" rel="noreferrer noopener" target="_blank">Tập 2, Số 4</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
+<b><i>Mythlore</i> 8</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol2/iss4/" rel="noreferrer noopener" target="_blank">Tập 2, Số 4</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
 
 ## Nội dung {#Contents}
 
@@ -47,8 +47,8 @@ infobox:
 
 - Chúc ngủ ngon, Glen. Biên tập: "Tolkien ở tuổi tám mươi: Một sự đánh giá cao." 3.
 - Chúc ngủ ngon, Glen. Luật sư của Elrond. 9.
-- Zuber, Bernie. Bên kia rượu Brandywine. 10+.
-- Công văn về thần thoại. 27.
+- Zuber, Bernie. Bên kia Brandywine. 10+.
+- Công văn tới Mythlore. 27.
 
 #### Bài viết {#Articles}
 
@@ -60,7 +60,7 @@ infobox:
 #### Tiểu thuyết & Thơ {#Fiction_&_Poetry}
 
 - Williams, Charles. "The Noises That Weren't There. Third and Final Chapter of the Unfinished Manuscript." 21-25.
-- Robin, Doris. Độc thoại của một người Hobbit nào đó. 12.
+- Robin, Doris. Lời độc thoại của một Hobbit nào đó. 12.
 
 #### Nghệ thuật {#Art}
 

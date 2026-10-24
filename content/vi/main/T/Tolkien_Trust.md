@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Tolkien Trust"
 ---
 
-Chuyển hướng tới [The Tolkien Trust](The_Tolkien_Trust.md).
+Chuyển hướng đến [Tín thác Tolkien](The_Tolkien_Trust.md).

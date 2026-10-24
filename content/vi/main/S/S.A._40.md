@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Second Age 40"
 ---
 
-Chuyển hướng tới [40 tuổi thứ hai](Second_Age_40.md).
+Chuyển hướng tới [Kỷ Đệ Nhị 40](Second_Age_40.md).

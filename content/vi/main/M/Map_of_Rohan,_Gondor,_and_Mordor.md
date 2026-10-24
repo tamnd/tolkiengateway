@@ -21,7 +21,7 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/C/Christopher_Tolkien_-_Map_of_Rohan,_Gondor,_and_Mordor.png.md"><img src="https://tolkiengateway.net/w/images/thumb/d/d9/Christopher_Tolkien_-_Map_of_Rohan%2C_Gondor%2C_and_Mordor.png/300px-Christopher_Tolkien_-_Map_of_Rohan%2C_Gondor%2C_and_Mordor.png" decoding="async" loading="lazy" width="300" height="242" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/d9/Christopher_Tolkien_-_Map_of_Rohan%2C_Gondor%2C_and_Mordor.png/450px-Christopher_Tolkien_-_Map_of_Rohan%2C_Gondor%2C_and_Mordor.png 1.5x, https://tolkiengateway.net/w/images/thumb/d/d9/Christopher_Tolkien_-_Map_of_Rohan%2C_Gondor%2C_and_Mordor.png/600px-Christopher_Tolkien_-_Map_of_Rohan%2C_Gondor%2C_and_Mordor.png 2x" data-file-width="1920" data-file-height="1547"/></a><figcaption>The original map by Christopher Tolkien</figcaption></figure>
 
-**Bản đồ Rohan, Gondor và Mordor**<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> là một bản đồ không có tên được sao chép trong *[The Return of the King](../T/The_Return_of_the_King.md)* và trong các ấn bản một tập của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.<sup id="cite_ref-RC_2-0" class="reference"><a href="#cite_note-RC-2">[1]</a></sup>
+**Bản đồ Rohan, Gondor và Mordor**<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> là bản đồ không tên được sao chép trong *[The Return of the King](../T/The_Return_of_the_King.md)* và trong các ấn bản một tập của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.<sup id="cite_ref-RC_2-0" class="reference"><a href="#cite_note-RC-2">[1]</a></sup>
 
 ## Sáng tạo {#Creation}
 
@@ -43,12 +43,12 @@ Bản đồ được phóng to gấp 5 lần so với [Bản đồ chung của T
 
 Không giống như các bản đồ tổng quát hoặc khu vực khác có tính chất bán tranh,<sup id="cite_ref-L161_6-0" class="reference"><a href="#cite_note-L161-6">[5]</a></sup> bản đồ này được vẽ giống như một <a class="extiw" href="http://en.wikipedia.org/wiki/Topographic_map" title="wikipedia:Topographic map">bản đồ địa hình</a>, với những ngọn núi được mô tả bằng <a class="extiw" href="http://en.wikipedia.org/wiki/Contour_line" title="wikipedia:Contour line">đường đồng mức</a>chi tiết, thể hiện độ cao.
 
-Đặc điểm chính của nó là [Dãy núi Trắng](../W/White_Mountains.md), được bao quanh bởi hầu hết [Gondor](../G/Gondor.md) (như vào cuối [Thời đại thứ ba](../T/Third_Age.md)), phía đông nam [Rohan](../R/Rohan.md) và phía tây bắc [Mordor](Mordor.md).
+Đặc điểm chính của nó là [Dãy Núi Trắng](../W/White_Mountains.md), được bao quanh bởi hầu hết [Gondor](../G/Gondor.md) (như vào cuối [Kỷ Đệ Tam](../T/Third_Age.md)), phía đông nam [Rohan](../R/Rohan.md) và phía tây bắc [Mordor](Mordor.md).
 
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Tên "Bản đồ của Rohan, Gondor và Mordor" dường như được đặt bởi <a href="../W/Wayne_G._Hammond.md" title="Wayne G. Hammond">Hammond</a> và <a href="../C/Christina_Scull.md" title="Christina Scull">Scull</a>.</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Tên "Bản đồ Rohan, Gondor và Mordor" dường như được đặt bởi <a href="../W/Wayne_G._Hammond.md" title="Wayne G. Hammond">Hammond</a> và <a href="../C/Christina_Scull.md" title="Christina Scull">Scull</a>.</span>
 </li>
 </ol></div></span>
 

@@ -28,11 +28,11 @@ infobox:
   <tr><th scope="row" class="tg-infobox-label">Subject(s)</th><td class="tg-infobox-data"><a href="../W/W.H._Auden.md" title="W.H. Auden">W.H. Auden</a></td></tr>
 </tbody></table>
 
-<i><b>Vì W.H.A.</b></i> là một bài thơ được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) song song với [Tiếng Anh cổ](../O/Old_English.md) và tiếng Anh hiện đại. Bài thơ là một "lời tri ân và lời cảm ơn muộn màng" dành cho [W.H. Auden](../W/W.H._Auden.md) nhân dịp sinh nhật lần thứ sáu mươi của ông và phản ánh tác phẩm "[A Short Ode to a Philologist](../A/A_Short_Ode_to_a_Philologist.md)" của Auden xuất bản năm *[English and Medieval Studies Presented to J.R.R. Tolkien on the Occasion of his Seventieth Birthday](../E/English_and_Medieval_Studies_Presented_to_J.R.R._Tolkien_on_the_Occasion_of_his_Seventieth_Birthday.md)* (George Allen & Unwin, 1962).
+<i><b>Vì W.H.A.</b></i> là một bài thơ được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) song song với [Tiếng Anh cổ](../O/Old_English.md) và tiếng Anh hiện đại. Bài thơ là một "lời tri ân muộn màng và lời cảm ơn" tới [W.H. Auden](../W/W.H._Auden.md) nhân dịp sinh nhật lần thứ sáu mươi của ông và phản ánh bài "[A Short Ode to a Philologist](../A/A_Short_Ode_to_a_Philologist.md)" của Auden xuất bản năm *[English and Medieval Studies Presented to J.R.R. Tolkien on the Occasion of his Seventieth Birthday](../E/English_and_Medieval_Studies_Presented_to_J.R.R._Tolkien_on_the_Occasion_of_his_Seventieth_Birthday.md)* (George Allen &amp; Unwin, 1962).
 
 "Đối với W.H.A." được xuất bản lần đầu tiên trong [1967](../_/1967.md) trong *[Shenandoah: The Washington and Lee University Review Vol. 18 No. 2](../S/Shenandoah%253A_A_Tribute_to_Wystan_Hugh_Auden_on_his_Sixtieth_Birthday.md)*.
 
-Tolkien ký tên bài thơ bằng cách sử dụng dạng [tiếng Anh cổ](../O/Old_English.md) của tên ông, "Rægnold Hrædmóding".
+Tolkien ký tên bài thơ bằng cách sử dụng dạng [tiếng Anh cổ](../O/Old_English.md) tên của ông, "Rægnold Hrædmóding".
 
 ## Trích {#Excerpt}
 

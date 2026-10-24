@@ -15,9 +15,9 @@ categories:
   - "Sindarin adjectives"
 ---
 
-## Tiếng Sindarin {#Sindarin}
+## Sindarin {#Sindarin}
 
-<i><b>mith</b></i> là từ [tiếng Sindarin](../S/Sindarin.md) có nghĩa là "xám", "xám nhạt" hoặc "xám nhạt".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+<i><b>mith</b></i> là một từ [Sindarin](../S/Sindarin.md) có nghĩa là "xám", "xám nhạt" hoặc "xám nhạt".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ### Ví dụ {#Examples}
 

@@ -68,8 +68,8 @@ Sự kiện xảy ra vào ngày 6 tháng 12
 
 - **[1961](1961.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 235](../L/Letter_235.md).
 - **[1965](1965.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư cho G.S. Rigby Jr.](../L/Letter_to_G.S._Rigby_Jr..md).
-- <b><a href="1994.md" title="1994">1994</a> - <i><a href="../T/The_War_of_the_Jewels.md" title="The War of the Jewels">The War of the Jewels</a></i> được xuất bản tại Mỹ.</b>
-- <b><a href="1996.md" title="1996">1996</a> - <i><a href="../T/The_Peoples_of_Middle-earth.md" title="The Peoples of Middle-earth">The Peoples of Middle-Earth</a></i> được xuất bản tại Hoa Kỳ.</b>
+- <b><a href="1994.md" title="1994">1994</a> - <i><a href="../T/The_War_of_the_Jewels.md" title="The War of the Jewels">The War of the Jewels</a></i> được xuất bản tại Hoa Kỳ.</b>
+- <b><a href="1996.md" title="1996">1996</a> - <i><a href="../T/The_Peoples_of_Middle-earth.md" title="The Peoples of Middle-earth">The Peoples of Middle-earth</a></i> được xuất bản tại Hoa Kỳ.</b>
 - **[2002](2002.md)** - *[The Lord of the Rings: The Two Towers Photo Guide](../T/The_Lord_of_the_Rings%253A_The_Two_Towers_Photo_Guide.md)* được xuất bản.
 - **[2002](2002.md)** - *[The Fellowship of the Ring](<../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md>)* được phát hành tại EU cho PlayStation 2.
 - **[2016](2016.md)** - Diễn viên [Peter Vaughan](../P/Peter_Vaughan.md) qua đời.
@@ -77,4 +77,4 @@ Sự kiện xảy ra vào ngày 6 tháng 12
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi tại [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).
+    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi ở [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).

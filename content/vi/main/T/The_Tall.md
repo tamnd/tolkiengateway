@@ -23,7 +23,7 @@ langlinks:
 
 ## Từ nguyên {#Etymology}
 
-Bản dịch tiếng Sindarin của "the Tall" được dịch là <i><b>Orchal</b></i>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Bản dịch Sindarin của "the Tall" được đưa ra là <i><b>Orchal</b></i>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 <span></span>
 

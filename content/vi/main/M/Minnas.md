@@ -13,7 +13,7 @@ categories:
   - "Noldorin nouns"
 ---
 
-<i><b>minnas</b></i> là từ [Noldorin](../N/Noldorin.md) có nghĩa là "tháp".<sup id="cite_ref-LR_1-0" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
+<i><b>minnas</b></i> là một từ [Noldorin](../N/Noldorin.md) có nghĩa là "tháp".<sup id="cite_ref-LR_1-0" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -22,7 +22,7 @@ categories:
 ## Xem thêm {#See_also}
 
 - *[mindon](Mindon.md)*
-- [tiếng Sindarin](../S/Sindarin.md) *[minas](Minas.md)*
+- [Sindarin](../S/Sindarin.md) *[minas](Minas.md)*
 
 <span></span>
 

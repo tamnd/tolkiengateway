@@ -68,17 +68,17 @@ Sự kiện xảy ra vào ngày 21 tháng 10
 - **[1929](1929.md)** – Tác giả [Ursula K. Le Guin](../U/Ursula_K._Le_Guin.md) ra đời.
 - **[1936](1936.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 8c](../L/Letter_8c.md).
 - **[1952](1952.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 134a](../L/Letter_134a.md).
-- **[1955](1955.md)** – [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) trình bày bài viết của mình [tiếng Anh và tiếng Wales](../E/English_and_Welsh.md).
+- **[1955](1955.md)** – [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) trình bày bài viết của mình [Tiếng Anh và tiếng Wales](../E/English_and_Welsh.md).
 - **[1963](1963.md)** – [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư gửi bà Munby](../L/Letter_to_Mrs_Munby.md).
 - **[1972](1972.md)** – Diễn viên [Felix Felton](../F/Felix_Felton.md) qua đời.
-- <b><a href="2004.md" title="2004">2004</a> – Phiên bản kỷ niệm 50 năm <a href="../T/The_Lord_of_the_Rings_(50th_Anniversary_Edition).md" title="The Lord of the Rings (50th Anniversary Edition)"></a> của <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">Chúa tể của những chiếc nhẫn</a></i> được xuất bản.</b>
+- <b><a href="2004.md" title="2004">2004</a> – Phiên bản kỷ niệm 50 năm <a href="../T/The_Lord_of_the_Rings_(50th_Anniversary_Edition).md" title="The Lord of the Rings (50th Anniversary Edition)"></a> của <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i> được xuất bản.</b>
 - **[2008](2008.md)** – Tiểu thuyết giả tưởng *[The Indigo King](../T/The_Indigo_King.md)*, có [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) là một nhân vật hư cấu, được xuất bản.
-- **[2010](2010.md)** – Trong một thông cáo báo chí đã xác nhận rằng [Martin Freeman](../M/Martin_Freeman.md) sẽ đóng vai [Bilbo Baggins](../B/Bilbo_Baggins.md) trong [*The Hobbit* (loạt phim)](<../T/The_Hobbit_(film_series).md>).
+- **[2010](2010.md)** – Trong một thông cáo báo chí xác nhận rằng [Martin Freeman](../M/Martin_Freeman.md) sẽ đóng [Bilbo Baggins](../B/Bilbo_Baggins.md) trong [*The Hobbit* (loạt phim)](<../T/The_Hobbit_(film_series).md>).
 
 ## Trong Arda {#In_Arda}
 
 - [F.A.](../F/First_Age.md) [495](../F/First_Age_495.md):
-    - [Tuor](../T/Tuor.md), được hướng dẫn bởi [Voronwë](../V/Voronwë.md), đi đến [Gondolin](../G/Gondolin.md) để chuyển thông điệp của [Ulmo](../U/Ulmo.md) tới [Turgon](../T/Turgon.md).
+    - [Tuor](../T/Tuor.md), được hướng dẫn bởi [Voronwë](../V/Voronwë.md), di chuyển đến [Gondolin](../G/Gondolin.md) để chuyển thông điệp của [Ulmo](../U/Ulmo.md) tới [Turgon](../T/Turgon.md).
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Frodo](../F/Frodo_Baggins.md) hồi phục sau vết thương ở [Rivendell](../R/Rivendell.md).
+    - [Frodo](../F/Frodo_Baggins.md) hồi phục sau vết thương trong [Rivendell](../R/Rivendell.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.

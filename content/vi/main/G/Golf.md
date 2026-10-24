@@ -21,7 +21,7 @@ langlinks:
     url: "https://kontu.wiki/Golf"
 ---
 
-**Golf** là trò chơi được chơi bởi [Hobbit](../H/Hobbits.md). Nó được phát minh trong [Trận chiến trên cánh đồng xanh](../B/Battle_of_Greenfields.md) khi [Bandobras tấn công](../B/Bandobras_Took.md) tấn công [yêu tinh](Goblins.md) và đánh rơi đầu của vua [Golfimbul](Golfimbul.md). Cái đầu bay trong không khí khoảng 100 thước và rơi xuống một cái hang thỏ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Golf** là trò chơi được chơi bởi [Hobbit](../H/Hobbits.md). Nó được phát minh trong [Trận chiến trên cánh đồng xanh](../B/Battle_of_Greenfields.md) khi [Bandobras tấn công](../B/Bandobras_Took.md) tấn công [yêu tinh](Goblins.md) và đánh rơi đầu của vị vua [Golfimbul](Golfimbul.md). Cái đầu bay trong không khí khoảng 100 thước và rơi xuống một cái hang thỏ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

@@ -21,7 +21,7 @@ images:
 <p class="tg-quote-footer"><cite><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a></cite></p>
 </blockquote></div></div>
 
-**Cây du** là những cây cao mọc khắp các vùng phía bắc của [Trung địa](../M/Middle-earth.md). [Treebeard](../T/Treebeard.md) đặc biệt chú ý đến rừng du ở [Ossiriand](../O/Ossiriand.md), ở phía đông [Beleriand](../B/Beleriand.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Khi anh họ của [Samwise Gamgee](../S/Samwise_Gamgee.md) [Halfast Gamgee](../H/Halfast_Gamgee.md) nói rằng ông đã nhìn thấy [Người cây](../T/Tree-men.md) hoặc [khổng lồ](../G/Giants.md) ở [North Downs](../N/North_Downs.md) ông ấy nói nó "to như cây du", mặc dù không có cây du nào mọc ở đó.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Cây du** là những cây cao mọc khắp các vùng phía bắc của [Trung Địa](../M/Middle-earth.md). [Treebeard](../T/Treebeard.md) đặc biệt chú ý đến rừng cây du của [Ossiriand](../O/Ossiriand.md), ở phía đông của [Beleriand](../B/Beleriand.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Khi anh họ của [Samwise Gamgee](../S/Samwise_Gamgee.md) [Halfast Gamgee](../H/Halfast_Gamgee.md) nói rằng ông đã nhìn thấy [Người cây](../T/Tree-men.md) hoặc [người khổng lồ](../G/Giants.md) trong [North Downs](../N/North_Downs.md) ông nói rằng nó "lớn như một cây du", mặc dù không có cây du nào mọc lên đó.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Xem thêm {#See_also}
 

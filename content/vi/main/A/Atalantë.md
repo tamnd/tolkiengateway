@@ -49,7 +49,7 @@ images:
 </tbody></table>
 </div>
 
-<i><b>Atalantë</b></i> là một từ [Quenya](../Q/Quenya.md) có nghĩa là "kẻ sa ngã", có gốc động từ *[talat-](../T/Talat-.md)*. Đó là tên được đặt cho [Númenor](../N/Númenor.md) sau [Sự sụp đổ](../D/Downfall_of_Númenor.md) của nó.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> [Tolkien](../J/J.R.R._Tolkien.md) gọi nó là "*a happy accident*", vì nó gọi tên <i><a class="extiw" href="http://en.wikipedia.org/wiki/Atlantis" title="wikipedia:Atlantis">Atlantis</a></i>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+<i><b>Atalantë</b></i> là một từ [Quenya](../Q/Quenya.md) có nghĩa là "sự sa ngã", có gốc động từ *[talat-](../T/Talat-.md)*. Đó là tên được đặt cho [Númenor](../N/Númenor.md) theo sau [Sự sụp đổ](../D/Downfall_of_Númenor.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> [Tolkien](../J/J.R.R._Tolkien.md) gọi nó là "*a happy accident*", vì nó gọi tên <i><a class="extiw" href="http://en.wikipedia.org/wiki/Atlantis" title="wikipedia:Atlantis">Atlantis</a></i>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

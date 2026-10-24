@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Great Eagles"
 ---
 
-Chuyển hướng tới [Great Eagles](../G/Great_Eagles.md).
+Chuyển hướng đến [Tuyệt vời Đại Bàng](../G/Great_Eagles.md).

@@ -14,16 +14,16 @@ sort_keys:
   "Quenya suffixes": "duinë"
 ---
 
-<i><b>-duinë</b></i> là hậu tố [Quenya](../Q/Quenya.md) hiếm được sử dụng cho các con sông (có khối lượng lớn).
+<i><b>-duinë</b></i> là hậu tố [Quenya](../Q/Quenya.md) hiếm được sử dụng cho các con sông (có dung tích lớn).
 
 ## Từ nguyên {#Etymology}
 
-*-duinë* bắt nguồn từ [Quần tiên chung](../C/Common_Elvish.md) *duinē* ("sông lớn, (có thể gây lũ lụt vùng đất xung quanh)"), từ [gốc](../S/Sundocarme.md) DUY (thân *dui-* "dòng chảy (về thể tích)").<sup id="cite_ref-VT48_1-0" class="reference"><a href="#cite_note-VT48-1">[1]</a></sup><sup id="cite_ref-HMN_2-0" class="reference"><a href="#cite_note-HMN-2">[2]</a></sup>
+*-duinë* bắt nguồn từ [Chung Elvish](../C/Common_Elvish.md) *duinē* ("sông lớn, (có thể gây lũ lụt vùng đất xung quanh)"), từ [gốc](../S/Sundocarme.md) DUY (thân *dui-* "dòng chảy (về thể tích)").<sup id="cite_ref-VT48_1-0" class="reference"><a href="#cite_note-VT48-1">[1]</a></sup><sup id="cite_ref-HMN_2-0" class="reference"><a href="#cite_note-HMN-2">[2]</a></sup>
 
 ## Ví dụ {#Examples}
 
 - *[Anduinë](../A/Anduinë.md)* “Sông Dài”<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
-- *[Nunduinë](../N/Nunduinë.md)* “Sông Tây”<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+- *[Nunduinë](../N/Nunduinë.md)* “Phương Tây Sông”<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 <span></span>
 

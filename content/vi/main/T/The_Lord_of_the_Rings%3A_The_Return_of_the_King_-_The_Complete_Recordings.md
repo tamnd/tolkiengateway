@@ -31,22 +31,22 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_-_The_Return_of_the_King_-_The_Complete_Recordings.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/8/8a/The_Lord_of_the_Rings_-_The_Return_of_the_King_-_The_Complete_Recordings.jpg/320px-The_Lord_of_the_Rings_-_The_Return_of_the_King_-_The_Complete_Recordings.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/8a/The_Lord_of_the_Rings_-_The_Return_of_the_King_-_The_Complete_Recordings.jpg/480px-The_Lord_of_the_Rings_-_The_Return_of_the_King_-_The_Complete_Recordings.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/8/8a/The_Lord_of_the_Rings_-_The_Return_of_the_King_-_The_Complete_Recordings.jpg/640px-The_Lord_of_the_Rings_-_The_Return_of_the_King_-_The_Complete_Recordings.jpg 2x" data-file-width="2400" data-file-height="2400"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Lord of the Rings: The Return of the King - The Complete Recordings</span></th></tr><tr><td colspan="2" class="tg-infobox-caption">Soundtrack by <a href="../H/Howard_Shore.md" title="Howard Shore">Howard Shore</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/20_November.md" title="20 November">20 November</a>, <a href="../_/2007.md" title="2007">2007</a></td></tr><tr><th scope="row" class="tg-infobox-label">Length</th><td class="tg-infobox-data">229:17</td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data">English</td></tr><tr><th scope="row" class="tg-infobox-label">Label</th><td class="tg-infobox-data"><a class="extiw" href="http://en.wikipedia.org/wiki/Reprise_Records" title="wikipedia:Reprise Records">Reprise Records</a></td></tr></tbody></table>
 
-<i><b>Chúa tể của những chiếc nhẫn: Sự trở lại của nhà vua - Bản ghi âm hoàn chỉnh</b></i> là một album của [Howard Shore](../H/Howard_Shore.md), bao gồm nhạc nền từ [phiên bản mở rộng](<The_Lord_of_the_Rings%253A_The_Return_of_the_King_(extended_edition).md>) của *[The Lord of the Rings: The Return of the King](The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*.
+<i><b>The Lord of the Rings: The Return of the King - The Complete Recordings</b></i> là một album của [Howard Shore](../H/Howard_Shore.md), bao gồm nhạc nền từ [phiên bản mở rộng](<The_Lord_of_the_Rings%253A_The_Return_of_the_King_(extended_edition).md>) của *[The Lord of the Rings: The Return of the King](The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*.
 
 ## Nội dung {#Contents}
 
 ### Đĩa 1 {#Disc_1}
 
 1. [Nguồn gốc và sự khởi đầu](../R/Roots_and_Beginnings.md) (6:31)
-2. [Hành trình đến ngã tư](../J/Journey_to_the_Crossroads.md) (2:17)
-3. [Đường tới Isengard](<The_Road_to_Isengard_(soundtrack).md>) (2:18)
-4. [Chân Orthanc](The_Foot_of_Orthanc.md) (4:44)
-5. [Trở lại Edoras](<../R/Return_to_Edoras_(soundtrack).md>) (1:51)
+2. [Hành trình tới Ngã Tư](../J/Journey_to_the_Crossroads.md) (2:17)
+3. [Con đường tới Isengard](<The_Road_to_Isengard_(soundtrack).md>) (2:18)
+4. [Bàn chân của Orthanc](The_Foot_of_Orthanc.md) (4:44)
+5. [Quay lại Edoras](<../R/Return_to_Edoras_(soundtrack).md>) (1:51)
 6. [Chiếc cốc đã qua](The_Chalice_Passed.md) (1:50)
-7. [Rồng xanh](<The_Green_Dragon_(soundtrack).md>) (feat. [Billy Boyd](../B/Billy_Boyd.md) & [Dominic Monaghan](../D/Dominic_Monaghan.md)) (0:34)
-8. [Biệt thự của Gollum](../G/Gollum's_Villany.md) (2:10)
-9. [Giấc mơ của Éowyn](../E/Eowyn's_Dream.md) (1:24)
-10. [Palantír](<The_Palantir_(soundtrack).md>) (3:10)
+7. [The Green Rồng](<The_Green_Dragon_(soundtrack).md>) (feat. [Billy Boyd](../B/Billy_Boyd.md) & [Dominic Monaghan](../D/Dominic_Monaghan.md)) (0:34)
+Biệt thự của 8. [Gollum](../G/Gollum's_Villany.md) (2:10)
+Giấc mơ của 9. [Éowyn](../E/Eowyn's_Dream.md) (1:24)
+10. [Cái Palantír](<The_Palantir_(soundtrack).md>) (3:10)
 11. [Chuyến bay từ Edoras](../F/Flight_from_Edoras.md) (2:18)
 12. [The Grace of Undómiel](The_Grace_of_Undómiel.md) (feat. [Renée Fleming](../R/Renée_Fleming.md)) (6:21)
 13. [Đôi mắt của Tháp Trắng](The_Eyes_of_the_White_Tower.md) (4:33)
@@ -55,27 +55,27 @@ infobox:
 
 ### Đĩa 2 {#Disc_2}
 
-1. [Osgiliath Invaded](<../O/Osgiliath_Invaded_(soundtrack).md>) (feat. Ben Del Maestro) (8:47)
+1. [Osgiliath Xâm lược](<../O/Osgiliath_Invaded_(soundtrack).md>) (feat. Ben Del Maestro) (8:47)
 2. [Cầu thang Cirith Ungol](<The_Stairs_of_Cirith_Ungol_(soundtrack).md>) (2:40)
 3. [Trung thành với Denethor](<../A/Allegiance_to_Denethor_(soundtrack).md>) (3:19)
 4. [Sự hy sinh của Faramir](<The_Sacrifice_of_Faramir_(soundtrack).md>) (feat. "The Edge of Night," do Billy Boyd trình diễn) (4:08)
 5. [Sự chia tay của Sam và Frodo](<The_Parting_of_Sam_and_Frodo_(soundtrack).md>) (4:04)
-6. [Chỉ huy tại Dunharg](<../M/Marshalling_at_Dunharrow_(soundtrack).md>) (4:56)
-7. [Andúril - Ngọn lửa phương Tây](../A/Anduril-Flame_of_the_West.md) (3:27)
+6. [Sắp xếp lúc Dunharrow](<../M/Marshalling_at_Dunharrow_(soundtrack).md>) (4:56)
+7. [Andúril - Ngọn lửa của Phương Tây](../A/Anduril-Flame_of_the_West.md) (3:27)
 8. [Sự ra đi của Công ty Xám](<The_Passing_of_the_Grey_Company_(soundtrack).md>) (4:12)
 9. [Dwimorberg- Ngọn núi ma ám](../D/Dwimorberg-_The_Haunted_Mountain.md) (2:26)
 10. [Sư phụ Meriadoc, Swordthain](../M/Master_Meriadoc,_Swordthain.md) (1:39)
 11. [Con đường của người chết](<The_Paths_of_the_Dead_(soundtrack).md>) (6:22)
-12. [Cuộc vây hãm Gondor](<The_Siege_of_Gondor_(soundtrack).md>) (9:01)
+12. [Cái Cuộc vây hãm Gondor](<The_Siege_of_Gondor_(soundtrack).md>) (9:01)
 13. [Hang ổ của Shelob](<../S/Shelob's_Lair_(soundtrack).md#tabber-Complete_Recordings>) (8:53)
-14. [Lòng dũng cảm đơn giản của Merry](<../M/Merry's_Simple_Courage_(soundtrack).md>) (2:08)
+Sự can đảm đơn giản của 14. [Merry](<../M/Merry's_Simple_Courage_(soundtrack).md>) (2:08)
 
 ### Đĩa 3 {#Disc_3}
 
 1. [Grond - Chiếc búa của thế giới ngầm](<../G/Grond_-_The_Hammer_of_the_Underworld_(soundtrack).md>) (1:32)
 2. [Shelob Đại đế](../S/Shelob_the_Great.md) (5:12)
 3. [Mộ quản gia](The_Tomb_of_the_Stewards.md) (3:58)
-4. [Trận chiến trên cánh đồng Pelennor](<The_Battle_of_Pelennor_Fields_(soundtrack).md>) (4:10)
+4. [Cái Trận chiến trên Cánh đồng Pelennor](<The_Battle_of_Pelennor_Fields_(soundtrack).md>) (4:10)
 5. [Lò thiêu Denethor](<The_Pyre_of_Denethor_(soundtrack).md>) (2:59)
 6. [Mûmakil](The_Mumakil.md) (0:57)
 7. [Dernhelm trong trận chiến](../D/Dernhelm_in_Battle.md) (2:06)
@@ -83,22 +83,22 @@ infobox:
 9. [Thiếu nữ khiên của Rohan](<../S/Shieldmaiden_of_Rohan_(soundtrack).md>) (5:07)
 10. [Sự ra đi của Théoden](The_Passing_of_Theoden.md) (2:16)
 11. [Những ngôi nhà chữa lành](<The_Houses_of_Healing_(soundtrack).md>) (feat. [Liv Tyler](../L/Liv_Tyler.md)) (2:58)
-12. [Tháp Cirith Ungol](<The_Tower_of_Cirith_Ungol_(soundtrack).md>) (4:41)
+12. [Cái Tháp Cirith Ungol](<The_Tower_of_Cirith_Ungol_(soundtrack).md>) (4:41)
 13. [The Last Debate](<The_Last_Debate_(soundtrack).md>) (feat. Asëa Aranion," do Sissel biểu diễn) (4:21)
-14. [Vùng đất bóng tối](<The_Land_of_Shadow_(soundtrack).md>) (6:29)
-15. [Miệng của Sauron](<The_Mouth_of_Sauron_(soundtrack).md>) (feat. Sir James Galway) (8:15)
-16. ["Dành cho Frodo"](../_/%2522For_Frodo%2522.md) (feat. Ben Del Maestro) (3:16)
+14. [Vùng đất Bóng Tối](<The_Land_of_Shadow_(soundtrack).md>) (6:29)
+15. [The Miệng của Sauron](<The_Mouth_of_Sauron_(soundtrack).md>) (feat. Sir James Galway) (8:15)
+16. ["Cho Frodo"](../_/%2522For_Frodo%2522.md) (feat. Ben Del Maestro) (3:16)
 
 ### Đĩa 4 {#Disc_4}
 
-1. [Núi Doom](<../M/Mount_Doom_(soundtrack).md>) (feat. Renée Fleming) (4:09)
-2. [Vết nứt diệt vong](<The_Crack_of_Doom_(soundtrack).md>) (4:01)
-3. [The Eagles](The_Eagles.md) (feat. Renée Fleming) (2:23)
+1. [Núi Diệt Vong](<../M/Mount_Doom_(soundtrack).md>) (feat. Renée Fleming) (4:09)
+2. [Cái Crack of Doom](<The_Crack_of_Doom_(soundtrack).md>) (4:01)
+3. [The Đại Bàng](The_Eagles.md) (feat. Renée Fleming) (2:23)
 4. [The Fellowship Reunited](<The_Fellowship_Reunited_(soundtrack).md>) (feat. Sir James Galway, [Viggo Mortensen](../V/Viggo_Mortensen.md) và Renée Fleming) (12:18)
-5. [Hành trình đến những thiên đường xám](The_Journey_to_the_Grey_Havens.md) (feat. Sir James Galway) (7:34)
+5. [Hành trình tới Cảng Xám](The_Journey_to_the_Grey_Havens.md) (feat. Sir James Galway) (7:34)
 6. [Elanor](<../E/Elanor_(soundtrack).md>) (feat. Sir James Galway) (1:27)
-7. [Days of the Ring](../D/Days_of_the_Ring.md) (feat. "[Into the West](../I/Into_the_West.md)," do [Annie Lennox](../A/Annie_Lennox.md) trình diễn) (11:09)
-8. [Bài hát của Bilbo](../B/Bilbo's_Song.md) (2:57)
+7. [Days of the Ring](../D/Days_of_the_Ring.md) (feat. "[Into the West](../I/Into_the_West.md)," do [Annie Lennox](../A/Annie_Lennox.md) trình bày) (11:09)
+Bài hát của 8. [Bilbo](../B/Bilbo's_Song.md) (2:57)
 
 ### Đĩa 5 {#Disc_5}
 
@@ -117,8 +117,8 @@ infobox:
 ## Liên kết ngoài {#External_links}
 
 - <a class="external text" href="http://www.lordoftherings-soundtrack.com/" rel="noreferrer noopener" target="_blank">Trang web nhạc phim chính thức</a>
-    - <a class="external text" href="http://www.lordoftherings-soundtrack.com/" rel="noreferrer noopener" target="_blank"><i>Chúa tể của những chiếc nhẫn: Sự trở lại của nhà vua - Bản ghi âm hoàn chỉnh</i></a>
-- <a class="external text" href="http://www.amagpiesnest.com/cd_editions/ROTK/ROTKcr.htm" rel="noreferrer noopener" target="_blank"><i>Chúa tể của những chiếc nhẫn: Sự trở lại của nhà vua - Bản ghi âm hoàn chỉnh</i></a> về <a class="external text" href="http://www.amagpiesnest.com/" rel="noreferrer noopener" target="_blank">Tổ chim ác là</a>
+    - <a class="external text" href="http://www.lordoftherings-soundtrack.com/" rel="noreferrer noopener" target="_blank"><i>The Lord of the Rings: The Return of the King - Bản ghi hoàn chỉnh</i></a>
+- <a class="external text" href="http://www.amagpiesnest.com/cd_editions/ROTK/ROTKcr.htm" rel="noreferrer noopener" target="_blank"><i>The Lord of the Rings: The Return of the King - Bản ghi hoàn chỉnh</i></a> về <a class="external text" href="http://www.amagpiesnest.com/" rel="noreferrer noopener" target="_blank">Tổ chim ác là</a>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

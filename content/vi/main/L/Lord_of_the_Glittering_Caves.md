@@ -17,9 +17,9 @@ langlinks:
     url: "https://kontu.wiki/Kimaltavien_luolien_valtias"
 ---
 
-**Chúa tể của những hang động lấp lánh** là danh hiệu được tạo ra bởi [người lùn](../D/Dwarves.md) [Gimli](../G/Gimli.md) con trai của [Glóin](../G/Glóin.md) để lãnh đạo [Aglarond](../G/Glittering_Caves.md). Người ta không biết ai đã kế vị ông, nếu có.
+**Chúa tể của những hang động lấp lánh** là danh hiệu do [người lùn](../D/Dwarves.md) [Gimli](../G/Gimli.md) con trai của [Glóin](../G/Glóin.md) tạo ra cho quyền lãnh chúa của [Aglarond](../G/Glittering_Caves.md). Người ta không biết ai đã kế vị ông, nếu có.
 
-Sau sự sụp đổ của [Sauron](../S/Sauron.md), [Gimli](../G/Gimli.md) dẫn đầu một nhóm [Người lùn](../D/Dwarves.md) của [Erebor](Lonely_Mountain.md) đến Aglarond, [Hang động lấp lánh](../G/Glittering_Caves.md) của [Núi Trắng](../W/White_Mountains.md) trong vương quốc [Rohan](../R/Rohan.md), nơi có lối vào [Mũ bảo hiểm sâu](../H/Helm's_Deep.md). Ở đó, họ thành lập một thuộc địa và Gimli được mệnh danh là Chúa tể của những hang động lấp lánh. Người lùn của ông đã phục vụ rất tốt cho [Rohirrim](../R/Rohirrim.md) và [Người](../M/Men.md) của [Gondor](../G/Gondor.md), trong đó nổi tiếng nhất là việc chế tạo những cánh cổng mới cho [Minas Tirith](../M/Minas_Tirith.md), được rèn từ *[mithril](../M/Mithril.md)* và thép.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
+Sau sự sụp đổ của [Sauron](../S/Sauron.md), [Gimli](../G/Gimli.md) đã dẫn đầu một nhóm gồm [Người Lùn](../D/Dwarves.md) của [Erebor](Lonely_Mountain.md) đến Aglarond, [Hang Động Lấp Lánh](../G/Glittering_Caves.md) của [Dãy Núi Trắng](../W/White_Mountains.md) trong vương quốc [Rohan](../R/Rohan.md), trong đó có lối vào trong [Helm's Deep](../H/Helm's_Deep.md). Ở đó, họ thành lập một thuộc địa và Gimli được biết đến với cái tên Chúa tể của những hang động lấp lánh. Người Lùn của ông đã thực hiện các dịch vụ tuyệt vời cho [Rohirrim](../R/Rohirrim.md) và [Con Người](../M/Men.md) của [Gondor](../G/Gondor.md), trong đó nổi tiếng nhất là chế tạo các cổng mới cho [Minas Tirith](../M/Minas_Tirith.md), được rèn từ *[mithril](../M/Mithril.md)* và thép.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

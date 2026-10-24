@@ -36,11 +36,11 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../H/Hobbits.md" title="Hobbits">Hobbit</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Togo Goodbody</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="The_Shire.md" title="The Shire">The Shire</a></td></tr><tr><th scope="row" class="tg-infobox-label">Birth</th><td class="tg-infobox-data">c. <a class="mw-redirect" href="../S/Shire_Reckoning.md" title="Shire Reckoning">S.R.</a> <a href="Third_Age_2822.md" title="Third Age 2822">1222</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">Family</th><td class="tg-infobox-data"><a class="mw-redirect" href="../G/Goodbody_Family~66371.md" title="Goodbody Family">Goodbody</a></td></tr><tr><th scope="row" class="tg-infobox-label">Spouse</th><td class="tg-infobox-data"><a href="../L/Lily_Baggins.md" title="Lily Baggins">Lily Baggins</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr></tbody></table>
 
-**Togo Goodbody** là một [Hobbit](../H/Hobbits.md) của [Shire](The_Shire.md).
+**Togo Goodbody** là [Hobbit](../H/Hobbits.md) của [ Shire](The_Shire.md).
 
 ## Lịch sử {#History}
 
-Togo kết hôn với [Lily Baggins](../L/Lily_Baggins.md). Họ có nhiều con cháu.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Togo đã kết hôn với [Lily Baggins](../L/Lily_Baggins.md). Họ có nhiều con cháu.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

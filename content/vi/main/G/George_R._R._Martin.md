@@ -36,9 +36,9 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/G/George_R._R._Martin.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/fb/George_R._R._Martin.jpg/300px-George_R._R._Martin.jpg" decoding="async" loading="lazy" width="300" height="454" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/fb/George_R._R._Martin.jpg/450px-George_R._R._Martin.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/f/fb/George_R._R._Martin.jpg/600px-George_R._R._Martin.jpg 2x" data-file-width="676" data-file-height="1024"/></a><figcaption></figcaption></figure>
 
-**George R. R. Martin** (sinh [20 tháng 9](../_/20_September.md), [1948](../_/1948.md))<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> là một tác giả người Mỹ chủ yếu viết truyện giả tưởng và khoa học viễn tưởng. Ông được biết đến nhiều nhất với <i><a class="extiw" href="http://en.wikipedia.org/wiki/A_Song_of_Ice_and_Fire" title="wikipedia:A Song of Ice and Fire">A Song of Ice and Fire</a></i>, một loạt tiểu thuyết sử thi giả tưởng chịu ảnh hưởng từ tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**George R. R. Martin** (sinh [20 tháng Chín](../_/20_September.md), [1948](../_/1948.md))<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> là một tác giả người Mỹ chủ yếu viết truyện giả tưởng và khoa học viễn tưởng. Ông được biết đến nhiều nhất với <i><a class="extiw" href="http://en.wikipedia.org/wiki/A_Song_of_Ice_and_Fire" title="wikipedia:A Song of Ice and Fire">A Song of Ice and Fire</a></i>, một loạt tiểu thuyết giả tưởng sử thi chịu ảnh hưởng từ các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-[Adam Roberts](../A/Adam_Roberts.md) nhận ra những ảnh hưởng rõ ràng của Tolkien đối với tác phẩm của Martin nhưng coi ông ta là "kẻ phản Tolkien", với *Song* là một phản ứng <a class="extiw" href="http://en.wikipedia.org/wiki/grimdark" title="wikipedia:grimdark">đen tối</a> đối với chủ nghĩa lý tưởng của Tolkien.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+[Adam Roberts](../A/Adam_Roberts.md) nhận ra những ảnh hưởng rõ ràng của Tolkien đối với công việc của Martin, nhưng coi ông ta là "kẻ phản đốiTolkien", với *Song* là một <a class="extiw" href="http://en.wikipedia.org/wiki/grimdark" title="wikipedia:grimdark">phản ứng đen tối</a> đối với chủ nghĩa lý tưởng của Tolkien.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 Bộ phim *Song* đã được chuyển thể thành phim truyền hình <i><a class="extiw" href="http://en.wikipedia.org/wiki/Game_of_Thrones" title="wikipedia:Game of Thrones">Game of Thrones</a></i>, với một số diễn viên và đoàn làm phim từ [*The Lord of the Rings* bộ ba phim](<../T/The_Lord_of_the_Rings_(film_series).md>) tham gia vào loạt phim, chẳng hạn như diễn viên [Sean Bean](../S/Sean_Bean.md) và [Weta Digital](../W/Weta_Digital.md) cung cấp hiệu ứng hình ảnh.
 
@@ -57,7 +57,7 @@ Bộ phim *Song* đã được chuyển thể thành phim truyền hình <i><a c
 
 - <a class="external text" href="http://www.georgerrmartin.com/" rel="noreferrer noopener" target="_blank">Trang web chính thức của George R. R. Martin</a>
 - <a class="extiw" href="http://en.wikipedia.org/wiki/George_R._R._Martin" title="wikipedia:George R. R. Martin">George R. R. Martin</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
-- <a class="external text" href="http://spectator.org/blog/2013/05/31/is-george-rr-martin-the-americ" rel="noreferrer noopener" target="_blank">Có phải George R.R. Martin là “Tolkien Mỹ”?</a> của Anne Hobson
+- <a class="external text" href="http://spectator.org/blog/2013/05/31/is-george-rr-martin-the-americ" rel="noreferrer noopener" target="_blank">Có phải George R.R. Martin là “Người Mỹ Tolkien”?</a> của Anne Hobson
 
 <span></span>
 

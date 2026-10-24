@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Elf Alone"
 ---
 
-Chuyển hướng đến [Elf Alone](../E/Elf_Alone.md).
+Chuyển hướng đến [Tiên Một mình](../E/Elf_Alone.md).

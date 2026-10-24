@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Chieftain of the Dúnedain"
 ---
 
-Chuyển hướng đến [Thủ lĩnh người Dúnedain](Chieftain_of_the_Dúnedain.md).
+Chuyển hướng đến [Thủ lĩnh của Dúnedain](Chieftain_of_the_Dúnedain.md).

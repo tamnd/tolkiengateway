@@ -29,7 +29,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/John_Howe_-_Old_Man_Willow_01.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/a/ab/John_Howe_-_Old_Man_Willow_01.jpg/320px-John_Howe_-_Old_Man_Willow_01.jpg" decoding="async" loading="lazy" width="320" height="218" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/ab/John_Howe_-_Old_Man_Willow_01.jpg/480px-John_Howe_-_Old_Man_Willow_01.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/a/ab/John_Howe_-_Old_Man_Willow_01.jpg/640px-John_Howe_-_Old_Man_Willow_01.jpg 2x" data-file-width="900" data-file-height="613"/></a><figcaption>&#39;Old Man Willow<i> by <a href="../J/John_Howe.md" title="John Howe">John Howe</a></i></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Plant</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Willows</span></th></tr><tr><th scope="row" class="tg-infobox-label">Pronunciation</th><td class="tg-infobox-data">/ ˈwɪl oʊ /</td></tr><tr><th scope="row" class="tg-infobox-label">Other names</th><td class="tg-infobox-data">(<a href="../S/Sindarin.md" title="Sindarin">S.</a>) tathar</td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../M/Middle-earth.md" title="Middle-earth">Middle-earth</a></td></tr><tr><th scope="row" class="tg-infobox-label">Notable for</th><td class="tg-infobox-data"><a href="../O/Old_Man_Willow.md" title="Old Man Willow">Old Man Willow</a></td></tr><tr><th scope="row" class="tg-infobox-label">Family</th><td class="tg-infobox-data">Trees</td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_willows.md" title="Category:Images of willows">Images of willows</a></td></tr></tbody></table>
 
-**Liễu** là những [cây](../T/Trees.md) ven biển mọc khắp [Trung Địa](../M/Middle-earth.md). Nổi tiếng nhất trong số này là cây cổ thụ có tên là [Liễu Ông Già](../O/Old_Man_Willow.md), bên bờ [Cuồng Gió](Withywindle.md) trong [Rừng Cũ](../O/Old_Forest.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Liễu** là những [cây](../T/Trees.md) ven sông mọc khắp [Trung Địa](../M/Middle-earth.md). Nổi tiếng nhất trong số này là cây cổ thụ có tên [Liễu Ông Già](../O/Old_Man_Willow.md), bên bờ [Withywindle](Withywindle.md) ở [Khu Rừng Cổ](../O/Old_Forest.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Ở [Beleriand](../B/Beleriand.md) là vùng [Nan-tathren](../N/Nan-tathren.md), một thung lũng có nhiều cây cối rậm rạp được đặt tên theo những cây liễu mọc ở đó.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
@@ -39,7 +39,7 @@ Tên [Sindarin](../S/Sindarin.md) của "liễu" là <i><b>tathar</b></i>.<sup i
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1997: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Nhập vai Trung Địa</a>—<a href="../H/Hands_of_the_Healer.md" title="Hands of the Healer">Bàn tay của Người chữa lành</a></i></b>
+<b>1997: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a>—<a href="../H/Hands_of_the_Healer.md" title="Hands of the Healer">Hands of the Healer</a></i></b>
 
 <dl><dd>The book describes two types of willow:</dd></dl>
 

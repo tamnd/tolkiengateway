@@ -14,15 +14,15 @@ images:
   - "Disambig.png"
 ---
 
-**Cuộc vây hãm Gondor** có thể đề cập đến:
+**Cuộc vây hãm Gondor** có thể tham khảo:
 
-## Trung địa {#Middle-earth}
+## Trung Địa {#Middle-earth}
 
-- **[Cuộc vây hãm Gondor](Siege_of_Gondor.md)**, trận chiến trong [Chiến tranh Chiếc nhẫn](../W/War_of_the_Ring.md).
+- **[Cuộc vây hãm Gondor](Siege_of_Gondor.md)**, trận chiến của [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md).
 
 ## Sách {#Books}
 
-- "[Cuộc vây hãm Gondor](../T/The_Siege_of_Gondor.md)", chương thứ tư của cuốn thứ năm của *[The Return of the King](../T/The_Return_of_the_King.md)*.
+- "[The Cuộc vây hãm Gondor](../T/The_Siege_of_Gondor.md)", chương thứ tư của cuốn sách thứ năm của *[The Return of the King](../T/The_Return_of_the_King.md)*.
 
 ## Các bản chuyển thể {#Adaptations}
 

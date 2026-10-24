@@ -28,8 +28,8 @@ sort_keys:
 <li><a href="The_History_of_Eriol_or_Ælfwine_and_the_End_of_the_Tales.md" title="The History of Eriol or Ælfwine and the End of the Tales">The History of Eriol or Ælfwine</a></li></ol>
 </td></tr></tbody></table>
 
-**Nauglafring** là chương thứ tư của *[The Book of Lost Tales Part Two](The_Book_of_Lost_Tales_Part_Two.md)*.
+**The Nauglafring** là chương thứ tư của *[The Book of Lost Tales Part Two](The_Book_of_Lost_Tales_Part_Two.md)*.
 
-Nó kể lại phiên bản đầu tiên của chương [Silmarillion](../S/Silmarillion.md) *[Of the Ruin of Doriath](../O/Of_the_Ruin_of_Doriath.md)*. [Nauglafring](../N/Nauglafring.md) là tên ban đầu ([Gnomish](../G/Gnomish.md)) của vật phẩm sau này được gọi là [Nauglamír](../N/Nauglamír.md).
+Nó thuật lại phiên bản đầu tiên của chương [Silmarillion](../S/Silmarillion.md) *[Of the Ruin of Doriath](../O/Of_the_Ruin_of_Doriath.md)*. [Nauglafring](../N/Nauglafring.md) là tên ban đầu ([Gnomish](../G/Gnomish.md)) của vật phẩm sau này được gọi là [Nauglamír](../N/Nauglamír.md).
 
 <br>

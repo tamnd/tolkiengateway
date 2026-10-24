@@ -32,7 +32,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/F/Fan_Phenomena_-_The_Lord_of_the_Ring.jpeg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/bc/Fan_Phenomena_-_The_Lord_of_the_Ring.jpeg/320px-Fan_Phenomena_-_The_Lord_of_the_Ring.jpeg" decoding="async" loading="lazy" width="320" height="460" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/bc/Fan_Phenomena_-_The_Lord_of_the_Ring.jpeg/480px-Fan_Phenomena_-_The_Lord_of_the_Ring.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/b/bc/Fan_Phenomena_-_The_Lord_of_the_Ring.jpeg/640px-Fan_Phenomena_-_The_Lord_of_the_Ring.jpeg 2x" data-file-width="890" data-file-height="1280"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Fan Phenomena: The Lord of the Rings</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Lorna Piatti-Farnell</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Intellect Books</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">November <a href="../_/2015.md" title="2015">2015</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">156</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/978-1-78320-516-5" title="Special:BookSources/978-1-78320-516-5">978-1-78320-516-5</a></td></tr></tbody></table>
 
-<i><b>Hiện tượng người hâm mộ: Chúa tể của những chiếc nhẫn</b></i> là một cuốn sách [2015](../_/2015.md) do Lorna Piatti-Farnell biên tập xem xét phản hồi của người hâm mộ đối với [*The Lord of the Rings* loạt phim](<../T/The_Lord_of_the_Rings_(film_series).md>).
+<i><b>Hiện tượng người hâm mộ: The Lord of the Rings</b></i> là một cuốn sách [2015](../_/2015.md) do Lorna Piatti-Farnell biên tập xem xét phản hồi của người hâm mộ đối với [*The Lord of the Rings* loạt phim](<../T/The_Lord_of_the_Rings_(film_series).md>).
 
 ## Từ nhà xuất bản {#From_the_publisher}
 
@@ -49,15 +49,15 @@ infobox:
     - Bởi: Trung sĩ Alexander
 - "*The Lord of the Rings*: Một Fandom kỹ thuật số để khởi xướng tất cả"
     - Bởi: Maggie Parke
-- "Tái tạo những chiếc nhẫn: Chỉnh sửa của người hâm mộ và Trung địa điện ảnh"
+- "Tái tạo những chiếc nhẫn: Chỉnh sửa của người hâm mộ và Điện ảnh Trung Địa"
     - Bởi: Joshua Wille
 - "Đi giữa hai vùng đất, hay cách hoạt động của khẩu pháo kép trong phim Chúa Tể Những Chiếc Nhẫn"
     - Bởi: Miguel Ángel Pérez-Gómez
-- "Doanh nghiệp một bên: Lễ kỷ niệm những người hâm mộ chân chính ở Trung Địa của New Zealand"
+- "Doanh nghiệp một bên: Lễ kỷ niệm người hâm mộ chân chính ở New Zealand's Trung Địa"
     - Bởi: Lorna Piatti-Farnell
 - "Sự tri ân của người hâm mộ - [Shaun Gunner](../S/Shaun_Gunner.md)"
     - Bởi: Lorna Piatti-Farnell
-- "Ở đó, ở đây và quay lại: Cuộc tìm kiếm Trung địa ở Birmingham"
+- "Ở đó, ở đây và quay lại: Tìm kiếm Trung Địa trong Birmingham"
     - Bởi: Emily M. Gary
 - "Tìm kiếm Lothiriel: Sự hiện diện của phụ nữ trong Fandom Tolkien"
     - Bởi: Cait Coker và Karen Viars
@@ -65,7 +65,7 @@ infobox:
     - Bởi: Paul Mountfort
 - "Viết ngôi sao: *The Lord of the Rings* và sản xuất những câu chuyện về ngôi sao"
     - Bởi: Anna Martin
-- "Thấu hiểu 'Quý giá' của người hâm mộ: Tác động của phim Chúa tể những chiếc nhẫn đối với phim Hobbit"
+- "Thấu hiểu 'Quý giá' của người hâm mộ: Tác động của phim Chúa tể những chiếc nhẫn đối với các bộ phim Hobbit"
     - Bởi: Abigail G. Scheg
 
 ## Liên kết ngoài {#External_links}

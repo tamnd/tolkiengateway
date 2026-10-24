@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Harschbarger, Eric"
 ---
 
-**Eric C. Harshbarger** là nhà thiết kế trò chơi của [Bilbo Slider Puzzle](../B/Bilbo_Slider_Puzzle.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-Baidu_2-0" class="reference"><a href="#cite_note-Baidu-2">[2]</a></sup> và [Tolkien WordSearch](../T/Tolkien_WordSearch.md).<sup id="cite_ref-Baidu_2-1" class="reference"><a href="#cite_note-Baidu-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+**Eric C. Harshbarger** là nhà thiết kế trò chơi của [Bilbo Câu đố trượt](../B/Bilbo_Slider_Puzzle.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-Baidu_2-0" class="reference"><a href="#cite_note-Baidu-2">[2]</a></sup> và [Tolkien Tìm kiếm từ](../T/Tolkien_WordSearch.md).<sup id="cite_ref-Baidu_2-1" class="reference"><a href="#cite_note-Baidu-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Liên kết ngoài {#External_links}
 

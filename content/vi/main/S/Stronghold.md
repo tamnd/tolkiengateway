@@ -28,7 +28,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Stronghold.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/50/Stronghold.jpg/320px-Stronghold.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/50/Stronghold.jpg/480px-Stronghold.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/5/50/Stronghold.jpg/640px-Stronghold.jpg 2x" data-file-width="1200" data-file-height="1200"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Stronghold</span></th></tr><tr><td colspan="2" class="tg-infobox-caption">Studio album by <a href="Summoning.md" title="Summoning">Summoning</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">11 May <a href="../_/1999.md" title="1999">1999</a></td></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data">Black Metal</td></tr><tr><th scope="row" class="tg-infobox-label">Length</th><td class="tg-infobox-data">01:04:20</td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data">English</td></tr><tr><th scope="row" class="tg-infobox-label">Label</th><td class="tg-infobox-data">Napalm Records</td></tr></tbody></table>
 
-<i><b>Stronghold</b></i> là album phòng thu dài thứ tư của [Summoning](Summoning.md) và được phát hành vào năm [1999](../_/1999.md). Không giống như ba album phòng thu trước, tên album không liên quan đến [Tolkien](../J/J.R.R._Tolkien.md). Chỉ có bài hát [Rhûn](<../R/Rhûn_(song).md>) có tựa đề trực tiếp đề cập đến Tolkien. Mặc dù nhiều lời bài hát vẫn được chuyển thể từ các tác phẩm của Tolkien, nhưng album này là album đầu tiên kết hợp lời bài hát và mẫu âm thanh từ các tác phẩm khác.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>Stronghold</b></i> là album phòng thu dài thứ tư của [Summoning](Summoning.md) và được phát hành vào năm [1999](../_/1999.md). Không giống như ba album phòng thu trước, tên album không liên quan đến [Tolkien](../J/J.R.R._Tolkien.md). Chỉ có bài hát [Rhûn](<../R/Rhûn_(song).md>) có tiêu đề đề cập trực tiếp đến Tolkien. Mặc dù nhiều lời bài hát vẫn được chuyển thể từ các tác phẩm của Tolkien nhưng album này là album đầu tiên kết hợp lời bài hát và mẫu âm thanh từ các tác phẩm khác.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Đội hình {#Lineup}
 
@@ -43,9 +43,9 @@ infobox:
 4. [Giống như đôi mắt cẩm thạch trắng như tuyết](../L/Like_Some_Snow-white_Marble_Eyes.md) - *7:19*
 5. [Nơi hy vọng và ánh sáng ban ngày lụi tàn](../W/Where_Hope_and_Daylight_Die.md) - *6:28*
 6. [Con ngựa thối rữa trên vùng đất chết](../T/The_Rotting_Horse_on_the_Deadly_Ground.md) - *8:25*
-7. [Bóng ma nằm đông cứng trên đồi](../T/The_Shadow_Lies_Frozen_on_the_Hills.md) - *7:01*
+7. [ Bóng Tối Nằm đóng băng trên đồi](../T/The_Shadow_Lies_Frozen_on_the_Hills.md) - *7:01*
 8. Tiếng nhạc vang dội của bầu trời - *6:47*
-9. [Ngọn lửa xa trước mặt trời](../A/A_Distant_Flame_Before_the_Sun.md) - *9:43*
+9. [Ngọn lửa xa xăm trước Mặt Trời](../A/A_Distant_Flame_Before_the_Sun.md) - *9:43*
 
 <span></span>
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Oath of Eorl"
 ---
 
-Chuyển hướng tới [Lời thề của Eorl](Oath_of_Eorl.md).
+Chuyển hướng đến [Lời thề của Eorl](Oath_of_Eorl.md).

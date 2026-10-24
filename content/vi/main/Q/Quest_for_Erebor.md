@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Quest of Erebor"
 ---
 
-Chuyển hướng đến [Nhiệm vụ của Erebor](Quest_of_Erebor.md).
+Chuyển hướng đến [Nhiệm vụ Erebor](Quest_of_Erebor.md).

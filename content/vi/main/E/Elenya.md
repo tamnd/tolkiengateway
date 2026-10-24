@@ -19,7 +19,7 @@ langlinks:
     url: "https://kontu.wiki/Anarya"
 ---
 
-**Elenya** là tên [Quenya](../Q/Quenya.md) của ngày đầu tiên của tuần lễ sáu ngày [Eldarin](Eldar.md) (và tuần bảy ngày [Númenórean](../N/Númenóreans.md)), tên của nó ám chỉ [Các vì sao](../S/Stars.md). Tên [Sindarin](../S/Sindarin.md) của nó là **Orgilion** và tên [Hobbitish](../H/Hobbitish.md) [Sterday](../S/Sterday.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
+**Elenya** là tên [Quenya](../Q/Quenya.md) của ngày đầu tiên của tuần [Eldarin](Eldar.md) sáu ngày (và [Númenórean](../N/Númenóreans.md) tuần bảy ngày), tên của nó đề cập đến [Các vì sao](../S/Stars.md). Tên [Sindarin](../S/Sindarin.md) của nó là **Orgilion** và tên [Hobbitish](../H/Hobbitish.md) [Sterday](../S/Sterday.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

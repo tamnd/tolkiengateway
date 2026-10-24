@@ -35,7 +35,7 @@ images:
 
 ## Từ nguyên {#Etymology}
 
-*Duilwen* có thể được coi là tên [Sindarin](../S/Sindarin.md),<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> nhưng ban đầu được hình thành là [Ilkorin](../I/Ilkorin.md) bởi [Tolkien](../T/Tolkien.md), bao gồm các phần tử Ilkorin *duil* ("sông") và *gwene* ("xanh").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> [Helge Fauskanger](../H/Helge_Fauskanger.md) đã gợi ý rằng phần tử *-wen* là "dạng rút gọn và rút gọn của *gwene*".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+*Duilwen* có thể được coi là tên [Sindarin](../S/Sindarin.md),<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> nhưng ban đầu được hình thành là [Ilkorin](../I/Ilkorin.md) bởi [Tolkien](../T/Tolkien.md), bao gồm các phần tử Ilkorin *duil* ("sông") và *gwene* ("xanh").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> [Helge Fauskanger](../H/Helge_Fauskanger.md) đã gợi ý rằng phần tử *-wen* là một "dạng rút gọn và rút gọn của *gwene*".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 <span></span>
 

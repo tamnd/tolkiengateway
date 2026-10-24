@@ -13,7 +13,7 @@ categories:
   - "Noldorin verbs"
 ---
 
-<i><b>awartha-</b></i> là động từ [Noldorin](../N/Noldorin.md) có nghĩa là *abandon*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>awartha-</b></i> là [Noldorin](../N/Noldorin.md) động từ có nghĩa là *abandon*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

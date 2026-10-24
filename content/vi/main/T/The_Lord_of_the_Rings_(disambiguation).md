@@ -16,15 +16,15 @@ images:
   - "Disambig.png"
 ---
 
-**Chúa tể của những chiếc nhẫn** có thể đề cập đến:
+**The Lord of the Rings** có thể tham khảo:
 
-## Trung địa {#Middle-earth}
+## Trung Địa {#Middle-earth}
 
 - ** [Chúa tể của chiếc nhẫn](../L/Lord_of_the_Ring.md), [Sauron](../S/Sauron.md).**
 
 ## Sách {#Books}
 
-- <b><i><a href="The_Lord_of_the_Rings.md" title="The Lord of the Rings">Chúa tể của những chiếc nhẫn</a></i>, cuốn <a href="../_/1954.md" title="1954">1954</a>-<a href="../_/1955.md" title="1955">5</a> của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>.</b>
+- <b><i><a href="The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, cuốn <a href="../_/1954.md" title="1954">1954</a>-<a href="../_/1955.md" title="1955">5</a> của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>.</b>
     - [*The Lord of the Rings* (Phiên bản kỷ niệm 50 năm)](<The_Lord_of_the_Rings_(50th_Anniversary_Edition).md>), tài liệu tham khảo học thuật chính.
 
 ## Các bản chuyển thể {#Adaptations}
@@ -33,21 +33,21 @@ images:
 
 - [*The Lord of the Rings* (phim 1978)](<The_Lord_of_the_Rings_(1978_film).md>), một bộ phim hoạt hình của [Ralph Bakshi](../R/Ralph_Bakshi.md).
     - [*The Lord Of The Rings* (Nhạc phim gốc)](<The_Lord_Of_The_Rings_(Original_Motion_Picture_Soundtrack).md>), nhạc phim.
-- <b><a href="The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>Chúa tể của những chiếc nhẫn</i> (loạt phim)</a>, do <a href="../P/Peter_Jackson.md" title="Peter Jackson">Peter Jackson</a></b>đạo diễn:
+- <b><a href="The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings</i> (loạt phim)</a>, do <a href="../P/Peter_Jackson.md" title="Peter Jackson">Peter Jackson</a></b>đạo diễn:
     - *[The Lord of the Rings: The Fellowship of the Ring](The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)*, phim [2001](../_/2001.md).
     - *[The Lord of the Rings: The Two Towers](The_Lord_of_the_Rings%253A_The_Two_Towers.md)*, phim [2002](../_/2002.md).
     - *[The Lord of the Rings: The Return of the King](The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*, phim [2003](../_/2003.md).
-- *[The Lord of the Rings: The War of the Rohirrim](The_Lord_of_the_Rings%253A_The_War_of_the_Rohirrim.md)*, một bộ phim anime được phát hành vào năm [2024](../_/2024.md).
+- *[The Lord of the Rings: The War of the Rohirrim](The_Lord_of_the_Rings%253A_The_War_of_the_Rohirrim.md)*, một bộ phim hoạt hình được phát hành vào [2024](../_/2024.md).
 
 ### Phim truyền hình {#Television_series}
 
-- *[The Lord of the Rings: The Rings of Power](The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)*, một bộ phim truyền hình dài tập của [Amazon Studios](../A/Amazon_Studios.md).
+- *[The Lord of the Rings: The Rings of Power](The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)*, phim truyền hình nhiều tập của [Amazon Studios](../A/Amazon_Studios.md).
 
 ### Loạt đài phát thanh {#Radio_series}
 
 - [*The Lord of the Rings* (sê-ri phát thanh năm 1955)](<The_Lord_of_the_Rings_(1955_radio_series).md>), sê-ri sáu phần dành cho [BBC](../B/BBC.md).
 - [*The Lord of the Rings* (loạt phim phát thanh năm 1979)](<The_Lord_of_the_Rings_(1979_radio_series).md>), một vở kịch của Mỹ do The Mind's Eye sản xuất.
-- <b><a href="The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>Chúa tể của những chiếc nhẫn</i> (loạt phim phát thanh năm 1981)</a>, một vở kịch dài 26 phần của <a href="../B/BBC.md" title="BBC">BBC</a>.</b>
+- <b><a href="The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>The Lord of the Rings</i> (loạt phim phát thanh năm 1981)</a>, một vở kịch gồm 26 phần của <a href="../B/BBC.md" title="BBC">BBC</a>.</b>
 
 ### Chuyển thể sân khấu {#Stage_adaptations}
 
@@ -55,9 +55,9 @@ images:
 
 ### Trò chơi điện tử {#Video_games}
 
-Chúa tể của những chiếc nhẫn của - [*J.R.R. Tolkien, Tập. I* (trò chơi điện tử năm 1990)](<../J/J.R.R._Tolkien's_The_Lord_of_the_Rings,_Vol._I_(1990_video_game).md>), một trò chơi điện tử [1990](../_/1990.md) dành cho PC.
-- *[J.R.R. Tolkien's The Lord of the Rings, Vol. II: The Two Towers](../J/J.R.R._Tolkien's_The_Lord_of_the_Rings,_Vol._II%253A_The_Two_Towers.md)*, trò chơi điện tử [1992](../_/1992.md) dành cho PC.
-Chúa tể của những chiếc nhẫn của - [*J.R.R. Tolkien, Tập. Tôi* (SNES)](<../J/J.R.R._Tolkien's_The_Lord_of_the_Rings,_Vol._I_(SNES).md>), một trò chơi điện tử [1994](../_/1994.md) dành cho SNES.
+- [*J.R.R. Tolkien của The Lord of the Rings, Tập. I* (trò chơi điện tử năm 1990)](<../J/J.R.R._Tolkien's_The_Lord_of_the_Rings,_Vol._I_(1990_video_game).md>), một trò chơi điện tử [1990](../_/1990.md) dành cho PC.
+- *[J.R.R. Tolkien's The Lord of the Rings, Vol. II: The Two Towers](../J/J.R.R._Tolkien's_The_Lord_of_the_Rings,_Vol._II%253A_The_Two_Towers.md)*, một trò chơi điện tử [1992](../_/1992.md) dành cho PC.
+- [*J.R.R. Tolkien của The Lord of the Rings, Tập. Tôi* (SNES)](<../J/J.R.R._Tolkien's_The_Lord_of_the_Rings,_Vol._I_(SNES).md>), một trò chơi điện tử [1994](../_/1994.md) dành cho SNES.
 - [*Lord of the Rings: The Duel* (trò chơi điện tử)](<../L/Lord_of_the_Rings%253A_The_Duel_(video_game).md>), trò chơi điện tử [1997](../_/1997.md).
 - *[The Lord of the Rings: The Fellowship of the Ring (video game)](<The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md>)*, trò chơi điện tử [2002](../_/2002.md).
 - [*The Lord of the Rings: The Two Towers* (video game)](<The_Lord_of_the_Rings%253A_The_Two_Towers_(video_game).md>), trò chơi điện tử [2002](../_/2002.md) dựa trên [bộ phim](The_Lord_of_the_Rings%253A_The_Two_Towers.md).
@@ -80,7 +80,7 @@ Chúa tể của những chiếc nhẫn của - [*J.R.R. Tolkien, Tập. Tôi* (
 - *[The Lord of the Rings Tarot](The_Lord_of_the_Rings_Tarot.md)*, bộ bài [1997](../_/1997.md) và trò chơi.
 - *[The Lord of the Rings Roleplaying Game](The_Lord_of_the_Rings_Roleplaying_Game.md)*, một trò chơi [2002](../_/2002.md) của [Decipher](../D/Decipher.md).
 - *[The Lord of the Rings Trading Card Game](The_Lord_of_the_Rings_Trading_Card_Game.md)*, bộ thẻ giao dịch sưu tầm, cũng của [Decipher](../D/Decipher.md).
-- *[Lord of the Rings (board game)](<../L/Lord_of_the_Rings_(board_game).md>)*, một trò chơi board [2000](../_/2000.md) với tác phẩm nghệ thuật của [John Howe](../J/John_Howe.md).
+- *[Lord of the Rings (board game)](<../L/Lord_of_the_Rings_(board_game).md>)*, một trò chơi board game [2000](../_/2000.md) với tác phẩm nghệ thuật của [John Howe](../J/John_Howe.md).
 - *[J.R.R. Tolkien's Lord of the Rings](../J/J.R.R._Tolkien's_Lord_of_the_Rings.md)*, trò chơi board game [2003](../_/2003.md) dành cho trẻ em.
 - *[Lord of the Rings Trivia Game](../L/Lord_of_the_Rings_Trivia_Game.md)*, một trò chơi cờ [2003](../_/2003.md).
 - *[Monopoly: The Lord of the Rings Trilogy Edition](../M/Monopoly%253A_The_Lord_of_the_Rings_Trilogy_Edition.md)*, một phiên bản đặc biệt của <a class="extiw" href="http://en.wikipedia.org/wiki/Monopoly_(game)" title="wikipedia:Monopoly (game)">Monopoly</a>.

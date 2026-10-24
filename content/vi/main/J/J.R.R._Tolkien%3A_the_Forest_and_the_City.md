@@ -38,7 +38,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_the_Forest_and_the_City.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/0/05/J.R.R._Tolkien_the_Forest_and_the_City.jpg/317px-J.R.R._Tolkien_the_Forest_and_the_City.jpg" decoding="async" loading="lazy" width="317" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/05/J.R.R._Tolkien_the_Forest_and_the_City.jpg/475px-J.R.R._Tolkien_the_Forest_and_the_City.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/0/05/J.R.R._Tolkien_the_Forest_and_the_City.jpg/634px-J.R.R._Tolkien_the_Forest_and_the_City.jpg 2x" data-file-width="936" data-file-height="1418"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>J.R.R. Tolkien: the Forest and the City</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Foreword by</th><td class="tg-infobox-data">Darryl Jones</td></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Helen Conrad-O&#39;Briain and Gerard Hynes</td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data">Sheena Power (cover art)</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Four Courts Press</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">December <a href="../_/2013.md" title="2013">2013</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Hardback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">200</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/978-1-84682-429-6" title="Special:BookSources/978-1-84682-429-6">978-1-84682-429-6</a></td></tr></tbody></table>
 
-<i><b>J.R.R. Tolkien: Rừng và Thành phố</b></i> là tập hợp các bài viết từ hội nghị Tolkien: Rừng và Thành phố, được tổ chức tại Trường Anh ngữ, Trinity College Dublin, ngày 21–22 tháng 9 năm 2012.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>J.R.R. Tolkien: Rừng và Thành phố</b></i> là tập hợp các bài viết từ hội nghị Tolkien: Rừng và Thành phố, được tổ chức tại Trường Anh ngữ, Trinity College Dublin, 21–22 tháng Chín năm 2012.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nhà xuất bản {#From_the_publishers}
 
@@ -51,20 +51,20 @@ infobox:
 
 - Lời nói đầu của Darryl Jones
 - "Goths và La Mã trong trí tưởng tượng của Tolkien" của [Tom Shippey](../T/Tom_Shippey.md)
-- "Niềm vui dân sự ở những nơi không ngờ tới: Giới thiệu về nghi thức xã giao của Trung Địa" của Jane Suzanne Carroll
-- "'Wildman of the Woods': Ghi lại bi kịch trên khung cảnh Trung Địa ở *The Children of Húrin*" của [Dimitra Fimi](../D/Dimitra_Fimi.md)
-- "Ngày càng sâu hơn vào rừng: Rừng là nơi biến đổi ở *The Lord of the Rings*" của Rebecca Merkelbach
-- "Khu rừng và thành phố: Sự phân đôi Istari của Tolkien" của Dominika Nycz
-- "'Rừng thô' so với 'Thành phố nấu chín' — Lévi-Strauss ở Trung Địa" của [Thomas Honegger](../T/Thomas_M._Honegger.md)
-- "'Sở thích dành cho Windows tròn': Người Hobbit và Phong trào Thủ công và Nghệ thuật" của Karl Kinsella
-- "Những rạn nứt, tham nhũng và suy tàn: Tìm hiểu các thành phố đầu cơ thông qua hình ảnh của Minas Tirith, Minas Morgul và Metropolis" của Jennifer Harwood-Smith
-- "Khu rừng và những cái cây: Sal và Ian ở Faërie" của [Verlyn Flieger](../V/Verlyn_Flieger.md)
+- "Niềm vui dân sự ở những nơi không ngờ tới: Giới thiệu về nghi thức Trung Địa" của Jane Suzanne Carroll
+- "'Người hoang dã trong rừng': Khắc họa bi kịch trên khung cảnh Trung Địa ở *The Children of Húrin*" của [Dimitra Fimi](../D/Dimitra_Fimi.md)
+- "Ngày càng sâu hơn vào rừng: Rừng là nơi biến đổi trong *The Lord of the Rings*" của Rebecca Merkelbach
+- "Khu rừng và thành phố: Sự phân đôi của Tolkien Istari" của Dominika Nycz
+- "'Rừng thô' so với 'Thành phố nấu chín' — Lévi-Strauss trong Trung Địa" của [Thomas Honegger](../T/Thomas_M._Honegger.md)
+- "'Sở thích dành cho Windows tròn': Hobbit và Phong trào Thủ công và Nghệ thuật" của Karl Kinsella
+- "Những rạn nứt, tham nhũng và suy tàn: Tìm hiểu các thành phố đầu cơ thông qua hình ảnh Minas Tirith, Minas Morgul và đô thị" của Jennifer Harwood-Smith
+- "Những khu rừng và những cái cây: Sal và Ian ở Tiên giới" của [Verlyn Flieger](../V/Verlyn_Flieger.md)
 - "'Cây tuyết tùng đã sụp đổ': Đế chế, nạn phá rừng và sự sụp đổ của Númenor" của Gerard Hynes
-- "'Sự thiêng liêng và vô cùng cổ xưa': Việc Tolkien sử dụng những câu đố trong *The Hobbit*" của Erin Sebo
-- "Ít tiếng ồn hơn, xanh hơn: Chủ nghĩa duy vật văn hóa và diễn ngôn ngược về thế giới hoang dã trong *The Hobbit* của Tolkien" của Ian Kinane
-- "Thiên đường trần gian của Tolkien và Dante: Hòa nhập thiên nhiên" của [Alison Milbank](../A/Alison_Milbank.md)
+- "'Sự thiêng liêng và cổ kính bao la': Việc Tolkien sử dụng các câu đố trong *The Hobbit*" của Erin Sebo
+- "Ít tiếng ồn hơn, xanh hơn: Chủ nghĩa duy vật văn hóa và diễn ngôn ngược của thiên nhiên hoang dã trong *The Hobbit* của Tolkien" của Ian Kinane
+- "Tolkien và Thiên đường trần gian của Dante: Hòa nhập thiên nhiên" của [Alison Milbank](../A/Alison_Milbank.md)
 - "Cây đảng và cội nguồn của nó trong cuộc nội chiến Tây Ban Nha" của Meg Black
-- "Tháp và tàn tích: Quá khứ trong tác phẩm của J.R.R. Tolkien" của [Michael D.C. Drout](../M/Michael_D.C._Drout.md)
+- "Tòa tháp và tàn tích: Quá khứ trong tác phẩm của J.R.R. Tolkien" của [Michael D.C. Drout](../M/Michael_D.C._Drout.md)
 
 <span></span>
 

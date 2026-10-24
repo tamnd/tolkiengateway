@@ -29,9 +29,9 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien thông báo cho [Rayner Unwin](../R/Rayner_Unwin.md) về ý định xuất bản bản dịch *[Sir Gawain and the Green Knight](<../S/Sir_Gawain_and_the_Green_Knight_(edition).md>)*của mình. Ông nói rằng ông sắp ký hợp đồng với <a class="extiw" href="http://en.wikipedia.org/wiki/Heinemann_(publisher)" title="wikipedia:Heinemann (publisher)">Heinemann</a> nhưng nhớ ra rằng [Allen & Unwin](../A/Allen_&_Unwin.md) có điều khoản từ chối đầu tiên cho các tác phẩm tiếp theo của ông.
+Tolkien thông báo cho [Rayner Unwin](../R/Rayner_Unwin.md) ý định xuất bản bản dịch *[Sir Gawain and the Green Knight](<../S/Sir_Gawain_and_the_Green_Knight_(edition).md>)*của mình. Ông nói rằng ông sắp ký hợp đồng với <a class="extiw" href="http://en.wikipedia.org/wiki/Heinemann_(publisher)" title="wikipedia:Heinemann (publisher)">Heinemann</a> nhưng nhớ rằng [Allen &amp; Unwin](../A/Allen_&_Unwin.md) có điều khoản từ chối đầu tiên cho các tác phẩm tiếp theo của ông.
 
-Tolkien nhấn mạnh tính cấp thiết của việc xuất bản nó để tránh sự cạnh tranh và hỏi liệu Allen & Unwin có quan tâm đến việc xuất bản nó sớm hay không. Ông đảm bảo với Unwin rằng dự án này sẽ không trì hoãn bất kỳ công việc nào khác liên quan đến *[The Silmarillion](../T/The_Silmarillion.md)*, nhưng ông cần phải hoàn thành hai nhiệm vụ trước khi cống hiến hết mình cho câu chuyện của riêng mình: hoàn thiện *[Ancrene Wisse](../A/Ancrene_Wisse.md)* sắp được chứng minh và giải quyết việc xuất bản *Sir Gawain*. <br>
+Tolkien nhấn mạnh tính cấp thiết của việc xuất bản nó để tránh sự cạnh tranh và hỏi xem liệu Allen &amp; Unwin có quan tâm đến việc xuất bản nó sớm hay không. Ông đảm bảo với Unwin rằng dự án này sẽ không trì hoãn bất kỳ công việc nào khác liên quan đến *[The Silmarillion](../T/The_Silmarillion.md)*, nhưng ông cần phải hoàn thành hai nhiệm vụ trước khi cống hiến hết mình cho câu chuyện của riêng mình: hoàn thiện *[Ancrene Wisse](../A/Ancrene_Wisse.md)* sắp được chứng minh và giải quyết việc xuất bản *Sir Gawain*. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

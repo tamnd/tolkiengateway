@@ -22,9 +22,9 @@ sort_keys:
 
 ## Vai trò {#Roles}
 
-- [2006](../_/2006.md): *[The Lord of the Rings: The Battle for Middle-earth II: The Rise of the Witch-king](../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II%253A_The_Rise_of_the_Witch-king.md)*: Kỵ sĩ Rohan
-- [2004](../_/2004.md): *[The Lord of the Rings: The Battle for Middle-earth](../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth.md)*: Tướng Rohan, Tiểu đoàn trưởng, dân làng
-- [2004](../_/2004.md): *[The Lord of the Rings: War of the Ring](../T/The_Lord_of_the_Rings%253A_War_of_the_Ring.md)*: [Grishnakh](../G/Grishnakh.md), Thuyền trưởng Rohan, Chiến binh quái vật
+- [2006](../_/2006.md): *[The Lord of the Rings: The Battle for Middle-earth II: The Rise of the Witch-king](../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II%253A_The_Rise_of_the_Witch-king.md)*: Người điều khiển Rohan
+- [2004](../_/2004.md): *[The Lord of the Rings: The Battle for Middle-earth](../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth.md)*: Rohan Đại tướng, Tiểu đoàn trưởng, dân làng
+- [2004](../_/2004.md): *[The Lord of the Rings: War of the Ring](../T/The_Lord_of_the_Rings%253A_War_of_the_Ring.md)*: [Grishnakh](../G/Grishnakh.md), Rohan Đội trưởng, Chiến binh quái vật
 
 ## Liên kết ngoài {#External_links}
 

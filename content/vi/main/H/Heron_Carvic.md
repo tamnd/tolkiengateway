@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Carvic, Heron"
 ---
 
-**Heron Carvic** ([21 tháng 1](../_/21_January.md), [1913](../_/1913.md) - [Ngày 9 tháng 2](../_/9_February.md), [1980](../_/1980.md)) là người lồng tiếng cho [Gandalf](../G/Gandalf.md) trong chương trình chuyển thể radio *[The Hobbit](<../T/The_Hobbit_(1968_radio_series).md>)* trên BBC Radio 4.
+**Heron Carvic** ([21 tháng 1](../_/21_January.md), [1913](../_/1913.md) - [Ngày 9 tháng 2](../_/9_February.md), [1980](../_/1980.md)) là người lồng tiếng cho [Gandalf](../G/Gandalf.md) trong chương trình phát thanh chuyển thể *[The Hobbit](<../T/The_Hobbit_(1968_radio_series).md>)* trên BBC Radio 4.
 
 ## Liên kết ngoài {#External_links}
 

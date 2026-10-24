@@ -25,7 +25,7 @@ langlinks:
     url: "https://kontu.wiki/Tuil%C3%AB"
 ---
 
-**Tuilë** là từ [Quenya](../Q/Quenya.md) chỉ mùa xuân; [Sindar](../S/Sindar.md) gọi nó là [Ethuil](../E/Ethuil.md). Trong [Tính toán của Rivendell](../R/Reckoning_of_Rivendell.md) đây là mùa đầu tiên trong năm và ít nhiều tương ứng với 54 ngày từ [7 tháng 4](../_/7_April.md) đến [30 tháng 5](../_/30_May.md) trong [Lịch Shire](../S/Shire_Calendar.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Tuilë** là từ [Quenya](../Q/Quenya.md) chỉ mùa xuân; [Sindar](../S/Sindar.md) gọi nó là [Ethuil](../E/Ethuil.md). Theo [Tính toán của Rivendell](../R/Reckoning_of_Rivendell.md) thì đây là mùa đầu tiên trong năm và ít nhiều tương ứng với 54 ngày từ [7 tháng 4](../_/7_April.md) đến [30 tháng 5](../_/30_May.md) trong [Lịch Shire](../S/Shire_Calendar.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

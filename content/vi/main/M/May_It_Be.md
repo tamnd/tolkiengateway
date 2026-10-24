@@ -42,7 +42,7 @@ infobox:
 </figure></td></tr></tbody></table></article>
 </section></div></div>
 
-**May It Be** là bài hát do [Enya](../E/Enya.md) sáng tác và hát cho [Peter Jackson](../P/Peter_Jackson.md) *[The Lord of the Rings: The Fellowship of the Ring](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)* với lời bài hát bằng tiếng Anh và [Quenya](../Q/Quenya.md) được viết bởi cộng tác viên lâu năm của Enya <a class="extiw" href="http://en.wikipedia.org/wiki/Roma_Ryan" title="wikipedia:Roma Ryan">Roma Ryan</a>.<sup id="cite_ref-AnnotatedScore_1-0" class="reference"><a href="#cite_note-AnnotatedScore-1">[1]</a></sup> Bài hát đã được đề cử cho Giải Oscar cho Bài hát hay nhất trong [2002](../_/2002.md).
+**May It Be** là bài hát do [Enya](../E/Enya.md) sáng tác và hát cho [Peter Jackson](../P/Peter_Jackson.md) *[The Lord of the Rings: The Fellowship of the Ring](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)* bằng tiếng Anh và [Quenya](../Q/Quenya.md) lời bài hát được viết bởi cộng tác viên lâu năm của Enya <a class="extiw" href="http://en.wikipedia.org/wiki/Roma_Ryan" title="wikipedia:Roma Ryan">Roma Ryan</a>.<sup id="cite_ref-AnnotatedScore_1-0" class="reference"><a href="#cite_note-AnnotatedScore-1">[1]</a></sup> Bài hát đã được đề cử Giải Oscar cho Bài hát hay nhất trong [2002](../_/2002.md).
 
 Đây là bài hát cuối cùng của *[The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture Soundtrack](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack.md)* và là bài hát thứ tám của đĩa thứ ba của *[The Lord of the Rings: The Fellowship of the Ring - The Complete Recordings](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_-_The_Complete_Recordings.md)*.
 

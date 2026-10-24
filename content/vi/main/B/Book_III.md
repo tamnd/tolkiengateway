@@ -11,4 +11,4 @@ redirect_target: "The Two Towers"
 redirect_fragment: "Book III"
 ---
 
-Chuyển hướng đến [Hai tòa tháp](../T/The_Two_Towers.md#Book_III).
+Chuyển hướng đến [The Two Towers](../T/The_Two_Towers.md#Book_III).

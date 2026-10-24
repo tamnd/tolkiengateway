@@ -13,15 +13,15 @@ categories:
   - "Weapons"
 ---
 
-**Xe ngựa** được [Người phương Đông](../E/Easterlings.md) ở [Thời đại thứ ba](../T/Third_Age.md) sử dụng để vận chuyển và chiến tranh.<sup id="cite_ref-Northmen_1-0" class="reference"><a href="#cite_note-Northmen-1">[1]</a></sup>
+**Xe ngựa** được [Những người phục sinh](../E/Easterlings.md) của [Kỷ Đệ Tam](../T/Third_Age.md) sử dụng để vận chuyển và chiến tranh.<sup id="cite_ref-Northmen_1-0" class="reference"><a href="#cite_note-Northmen-1">[1]</a></sup>
 
 ## Lịch sử {#History}
 
-Trong cuộc xâm lược của [Người cưỡi xe](../W/Wainriders.md), các thủ lĩnh của Người cưỡi ngựa đã chiến đấu trên xe ngựa.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Trong cuộc xâm lược của [Wainriders](../W/Wainriders.md) các thủ lĩnh của Wainriders đã chiến đấu trên xe ngựa.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Trong [T.A.](../T/Third_Age.md) [1944](../T/Third_Age_1944.md) trong trận chiến được gọi là [Thảm họa của Morannon](../D/Disaster_of_the_Morannon.md) đội tiên phong của Wainriders và đồng minh của họ từ [Khand](../K/Khand.md), bao gồm các chiến xa của Wainriders và một lực lượng kỵ binh, đã gây bất ngờ cho lực lượng chủ lực của [Gondor](../G/Gondor.md), do [King](../K/King_of_Gondor.md) chỉ huy [Ondoher](../O/Ondoher.md). Đội tiên phong của địch đã xông vào hàng ngũ hỗn loạn của quân chủ lực Gondor, giết chết vua Ondoher và con trai ông ta [Artamir](../A/Artamir.md) cùng gần như toàn bộ cận vệ của nhà vua, đồng thời đẩy lùi [binh lính Gondorian](../G/Gondorians.md) [](../G/Gondorian_Military_Forces.md), phân tán và truy đuổi nhiều người trong số họ về phía tây vào [Đầm lầy Chết](../D/Dead_Marshes.md).<sup id="cite_ref-Northmen_1-1" class="reference"><a href="#cite_note-Northmen-1">[1]</a></sup>
+Trong [T.A.](../T/Third_Age.md) [1944](../T/Third_Age_1944.md) trong trận chiến được gọi là [Thảm họa của Morannon](../D/Disaster_of_the_Morannon.md) đội tiên phong của Wainriders và các đồng minh của họ từ [Khand](../K/Khand.md), bao gồm các chiến xa của Wainriders và lực lượng kỵ binh, đã gây bất ngờ cho lực lượng chủ lực của [Gondor](../G/Gondor.md), do [Vua](../K/King_of_Gondor.md) [Ondoher](../O/Ondoher.md) chỉ huy. Đội tiên phong của địch đã xông vào đội hình hỗn loạn của quân chủ lực Gondor, giết chết Vua Ondoher và con trai [Artamir](../A/Artamir.md) cùng gần như toàn bộ cận vệ của nhà vua, đồng thời đẩy lùi [Gondor](../G/Gondorians.md) [binh lính](../G/Gondorian_Military_Forces.md), phân tán và truy đuổi nhiều người về phía tây vào [Đầm lầy Chết](../D/Dead_Marshes.md).<sup id="cite_ref-Northmen_1-1" class="reference"><a href="#cite_note-Northmen-1">[1]</a></sup>
 
-Sau này trong Kỷ nguyên thứ ba, vào [26 tháng 2](../_/26_February.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md),<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> [Frodo Baggins](../F/Frodo_Baggins.md) đã nhìn thấy xe ngựa của các thủ lĩnh đến từ [Đông](../R/Rhûn.md) khi ông ngồi trên [Ghế nhìn thấy](../S/Seat_of_Seeing.md) trên [Amon Hen](../A/Amon_Hen.md), Đồi Mắt.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Không rõ liệu những điều này có xe ngựa được sử dụng trong chiến đấu hoặc để vận chuyển.
+Sau đó vào Kỷ Đệ Tam, vào [26 tháng 2](../_/26_February.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md),<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> [Frodo Baggins](../F/Frodo_Baggins.md) đã nhìn thấy xe ngựa của các thủ lĩnh xuất phát từ [phương Đông](../R/Rhûn.md) khi ông ta ngồi trên [Ghế nhìn thấy](../S/Seat_of_Seeing.md) trên [Amon Hen](../A/Amon_Hen.md), Đồi Mắt.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Không rõ liệu những cỗ xe này được sử dụng trong chiến đấu hay để vận chuyển.
 
 <span></span>
 

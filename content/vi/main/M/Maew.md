@@ -13,7 +13,7 @@ categories:
   - "Sindarin nouns"
 ---
 
-<i><b>maew</b></i> là một từ [tiếng Sindarin](../S/Sindarin.md) có nghĩa là *[gull](../G/Gull.md)*.<sup id="cite_ref-miw_1-0" class="reference"><a href="#cite_note-miw-1">[1]</a></sup> So sánh với [Quenya](../Q/Quenya.md) *[maiwë](Maiwë.md)*.
+<i><b>maew</b></i> là một từ [Sindarin](../S/Sindarin.md) có nghĩa *[gull](../G/Gull.md)*.<sup id="cite_ref-miw_1-0" class="reference"><a href="#cite_note-miw-1">[1]</a></sup> So sánh với [Quenya](../Q/Quenya.md) *[maiwë](Maiwë.md)*.
 
 ## Từ nguyên {#Etymology}
 

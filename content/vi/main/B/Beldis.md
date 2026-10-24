@@ -54,7 +54,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Beldis sinh năm [F.A.](../F/First_Age.md) [411](../F/First_Age_411.md), con thứ hai của [Arachon](../A/Arachon.md) và [Bregil](Bregil.md) của [Nhà Bëor](../H/House_of_Bëor.md). Cô kết hôn với [Handir](../H/Handir.md), lãnh chúa của [Haladin](../H/Haladin.md) và họ có một con trai tên là [Brandir the Lame](Brandir.md) (được Beldis đặt theo tên anh trai cô [Brandir](<Brandir_(son_of_Arachon).md>)), sinh năm [F.A.](../F/First_Age.md) [465](../F/First_Age_465.md). Con trai của Beldis là Brandir the Lame sau này trở thành thủ lĩnh cuối cùng của Haladin.<sup id="cite_ref-Beor_1-0" class="reference"><a href="#cite_note-Beor-1">[1]</a></sup>
+Beldis sinh năm [F.A.](../F/First_Age.md) [411](../F/First_Age_411.md), con thứ hai của [Arachon](../A/Arachon.md) và [Bregil](Bregil.md) của [Nhà Bëor](../H/House_of_Bëor.md). Cô kết hôn với [Handir](../H/Handir.md), lãnh chúa của [Haladin](../H/Haladin.md) và họ có một người con trai tên là [Brandir the Lame](Brandir.md) (được Beldis đặt theo tên anh trai cô [Brandir](<Brandir_(son_of_Arachon).md>)), sinh năm [F.A.](../F/First_Age.md) [465](../F/First_Age_465.md). Con trai của Beldis là Brandir the Lame sau này trở thành thủ lĩnh cuối cùng của Haladin.<sup id="cite_ref-Beor_1-0" class="reference"><a href="#cite_note-Beor-1">[1]</a></sup>
 
 ## Phả hệ {#Genealogy}
 
@@ -70,7 +70,7 @@ Beldis sinh năm [F.A.](../F/First_Age.md) [411](../F/First_Age_411.md), con th�
 
 ## Bình luận {#Comment}
 
-[Christopher Tolkien](../C/Christopher_Tolkien.md) nhận xét rằng việc đưa Beldis vào gia phả là sự bổ sung sau này của [cha anh](../J/J.R.R._Tolkien.md) để biến [Brandir](Brandir.md) trở thành anh họ thứ hai của [Túrin](../T/Túrin.md) từ cả hai nhà Bëor và [Hador](../H/House_of_Hador.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Tuy nhiên, không có lời giải thích nào được đưa ra về việc Beldis có thể kết hôn với một người đàn ông trẻ hơn ba mươi tuổi như thế nào bà hoặc sinh ra Brandir ở tuổi 54. Mặc dù cả hai trường hợp đều không phải là hoàn toàn không thể thực hiện được, nhưng đây có thể là một tính toán sai lầm của J.R.R. Tolkien trong lần bổ sung sau này. Ngay cả khi lẽ ra ông ta nên thêm một thế hệ khác giữa cô và Brandir, thì rõ ràng ông ta đã có ý định Beldis trở thành mẹ của Brandir, vì ông ta được đặt theo tên của chú mình.<sup id="cite_ref-Beor_1-1" class="reference"><a href="#cite_note-Beor-1">[1]</a></sup>
+[Christopher Tolkien](../C/Christopher_Tolkien.md) nhận xét rằng việc đưa Beldis vào gia phả là sự bổ sung sau này của [cha anh](../J/J.R.R._Tolkien.md) để biến [Brandir](Brandir.md) trở thành anh họ thứ hai của [Túrin](../T/Túrin.md) từ cả hai nhà Bëor và [Hador](../H/House_of_Hador.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Tuy nhiên, không có lời giải thích nào được đưa ra về việc Beldis có thể kết hôn với một người đàn ông trẻ hơn cô ba mươi tuổi hoặc sinh ra Brandir 54 tuổi. Mặc dù cả hai trường hợp đều không phải là hoàn toàn không thể thực hiện được, nhưng đây có thể là một tính toán sai lầm của J.R.R. Tolkien trong lần bổ sung sau này. Ngay cả khi lẽ ra ông ta nên thêm một thế hệ khác giữa cô và Brandir, thì rõ ràng ông ta đã có ý định Beldis trở thành mẹ của Brandir, vì ông ta được đặt theo tên của chú mình.<sup id="cite_ref-Beor_1-1" class="reference"><a href="#cite_note-Beor-1">[1]</a></sup>
 
 <span></span>
 

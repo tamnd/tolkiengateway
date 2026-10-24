@@ -39,7 +39,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Merp_trolls.jpg.md"><img src="https://tolkiengateway.net/w/images/7/7f/Merp_trolls.jpg" decoding="async" loading="lazy" width="283" height="367" class="mw-file-element" data-file-width="283" data-file-height="367"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span><i>Trolls of the Misty Mountains</i></span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data">John Cresswell, Mike Cresswell</td></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a class="mw-redirect" href="T._Kevin_Amthor.md" title="T. Kevin Amthor">T. Kevin Amthor</a>, <a href="../P/Pete_Fenlon.md" title="Pete Fenlon">Pete Fenlon</a></td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="../D/Daniel_Horne.md" title="Daniel Horne">Daniel R. Horne</a> <small>(cover)</small><br/>Denis Loubet <small>(interior)</small></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../I/Iron_Crown_Enterprises.md" title="Iron Crown Enterprises">Iron Crown Enterprises</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/1986.md" title="1986">1986</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Softcover</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">32</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0-915795-49-3" title="Special:BookSources/0-915795-49-3">0-915795-49-3</a></td></tr><tr><th scope="row" class="tg-infobox-label">ICE stock no.</th><td class="tg-infobox-data">8103</td></tr></tbody></table>
 
-<i><b>Quỷ khổng lồ trên dãy núi mù sương</b></i> là một mô-đun (trong dòng *Ready-to-Run Adventure*) dành cho *[Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)*, Phiên bản đầu tiên.
+<i><b>Troll của Dãy Núi Sương Mù</b></i> là một mô-đun (trong dòng *Ready-to-Run Adventure*) dành cho *[Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)*, Phiên bản đầu tiên.
 
 ## Lễ tân {#Reception}
 
@@ -49,11 +49,11 @@ Trong bài đánh giá về *Trolls of the Misty Mountains* trên tạp chí *[W
 
 Ba cuộc phiêu lưu ở cấp độ thấp đến trung bình, mỗi cuộc phiêu lưu có thể tự đứng vững và có thể được thiết lập trong vài phút.
 
-Bờ phía nam của rừng Đông không còn yên bình nữa. Troll cướp bóc đã mang lại nỗi kinh hoàng không ngừng cho khu vực. Một cộng đồng nhỏ Người lùn đã bị xóa sổ… bị ăn thịt. Bạn có đủ dũng cảm để đối mặt với những kẻ xâm nhập trong Cuộc phiêu lưu ở đồi Duildin không?
+Rìa nam rừng phương Đông không còn yên bình nữa. Cướp bóc Troll đã mang lại nỗi kinh hoàng không ngừng cho khu vực. Một cộng đồng nhỏ Người Lùn đã bị xóa sổ... bị ăn thịt. Bạn có đủ dũng cảm để đối mặt với những kẻ xâm nhập trong Cuộc phiêu lưu ở đồi Duildin không?
 
-Hai biên giới nằm biệt lập ở khu vực East-wood này. Con đường được đề xuất giữa các thành trì này đi qua lãnh thổ bị Orc và Troll xâm chiếm. Bạn có thể sống sót trong Cuộc phiêu lưu tại Làng Garkash không?
+Hai biên giới nằm biệt lập ở khu vực này của rừng phương Đông. Con đường được đề xuất giữa các thành trì này đi qua Orc và lãnh thổ bị xâm chiếm bởi Troll. Bạn có thể sống sót trong Cuộc phiêu lưu tại Làng Garkash không?
 
-Được che giấu kỹ lưỡng trong khu rừng Đông có một hẻm núi nguy hiểm. Có tin đồn đã đặt một cổ vật mạnh mẽ và cổ xưa vào trong hố này. Nhiều người đã đi trước bạn để tìm kiếm vật gia truyền. Bạn có dám mạo hiểm với Cuộc phiêu lưu của Maes Fao không?
+Ẩn sâu trong khu rừng phương Đông là một hẻm núi nguy hiểm. Có tin đồn đã đặt một cổ vật mạnh mẽ và cổ xưa vào trong hố này. Nhiều người đã đi trước bạn để tìm kiếm vật gia truyền. Bạn có dám mạo hiểm với Cuộc phiêu lưu của Maes Fao không?
 
 <span></span>
 

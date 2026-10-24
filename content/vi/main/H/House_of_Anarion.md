@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "House of Anárion"
 ---
 
-Chuyển hướng tới [Nhà Anárion](House_of_Anárion.md).
+Chuyển hướng đến [Nhà Anárion](House_of_Anárion.md).

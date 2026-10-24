@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Gateway:Chat"
 ---
 
-Chuyển hướng tới [Cổng Tolkien:Trò chuyện](../../project/C/Chat.md).
+Chuyển hướng đến [Tolkien Gateway:Trò chuyện](../../project/C/Chat.md).

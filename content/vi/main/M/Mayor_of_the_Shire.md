@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mayor of Michel Delving"
 ---
 
-Chuyển hướng tới [Thị trưởng Michel Delving](Mayor_of_Michel_Delving.md).
+Chuyển hướng đến [Thị trưởng Michel Delving](Mayor_of_Michel_Delving.md).

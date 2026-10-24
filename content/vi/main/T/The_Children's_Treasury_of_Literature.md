@@ -41,11 +41,11 @@ infobox:
 
 <i><b>Kho tàng văn học thiếu nhi sắc màu</b></i> là tuyển tập truyện thiếu nhi. Tuyển tập bao gồm chương "[Một bữa tiệc bất ngờ](../A/An_Unexpected_Party.md)" từ *[The Hobbit](The_Hobbit.md)*, được minh họa bởi Robert J. Lee.
 
-Tolkien đã nhận được bản sao cuốn sách từ [Joy Hill](../J/Joy_Hill.md) vào đầu tháng 1 [1967](../_/1967.md), và [đã viết cho bà vào ngày 5 tháng 1](<../L/Letter_to_Joy_Hill_(5_January_1967).md>) rằng mặc dù ông cho rằng "rất nhiều hình minh họa" là "rất hay", nhưng các hình minh họa *Hobbit* của Robert J. Lee đối với ông có vẻ "thô tục, ngu ngốc và hoàn toàn không phù hợp với văn bản".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Ông cũng viết rằng ông sẽ tặng cuốn sách cho ông ấy. cháu trai, [Christopher Tolkien](../C/Christopher_Tolkien.md) con trai [Simon](../S/Simon_Tolkien.md) (8 tuổi).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Tolkien đã nhận được bản sao cuốn sách từ [Joy Hill](../J/Joy_Hill.md) vào đầu tháng 1 [1967](../_/1967.md), và [đã viết cho bà vào ngày 5 tháng 1](<../L/Letter_to_Joy_Hill_(5_January_1967).md>) rằng mặc dù ông coi "rất nhiều hình minh họa" là "rất hay", nhưng các hình minh họa *Hobbit* của Robert J. Lee đối với ông là "thô tục, ngu ngốc và hoàn toàn không phù hợp với nội dung".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Ông cũng viết rằng ông sẽ tặng cuốn sách cho cháu trai của ông, [Christopher Tolkien](../C/Christopher_Tolkien.md) con trai [Simon](../S/Simon_Tolkien.md) (8 tuổi).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Liên kết ngoài {#External_links}
 
-- "<a class="external text" href="http://mythoi.tolkienindex.net/#post7" rel="noreferrer noopener" target="_blank">Tolkien và những minh họa của Robert J. Lee</a>" của [Morgan Thomsen](../M/Morgan_Thomsen.md)
+- "<a class="external text" href="http://mythoi.tolkienindex.net/#post7" rel="noreferrer noopener" target="_blank">Tolkien và Minh họa của Robert J. Lee</a>" của [Morgan Thomsen](../M/Morgan_Thomsen.md)
 
 <span></span>
 

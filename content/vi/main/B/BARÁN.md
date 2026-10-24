@@ -14,13 +14,13 @@ sort_keys:
   "Roots": "BARAN"
 ---
 
-**BARÁN** là [Quendian nguyên thủy](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) không có ý nghĩa gì, ngoại trừ những gì có thể suy ra từ các dẫn xuất của nó.<sup id="cite_ref-Ety_1-0" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup>
+**BARÁN** là một [Primitive Quendian](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) không có ý nghĩa gì, ngoại trừ những gì có thể được suy ra từ các dẫn xuất của nó.<sup id="cite_ref-Ety_1-0" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup>
 
 ## Công cụ phái sinh {#Derivatives}
 
-- [Quenya](../Q/Quenya.md) *varne* ("nâu, ngăm đen, nâu sẫm")<sup id="cite_ref-Ety_1-1" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup>
-- [Noldorin già](../K/Kornoldorin.md): *barane*<sup id="cite_ref-Ety_1-2" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup>
-- [Noldorin lưu vong](../N/Noldorin.md): *[baran](<Baran_(Sindarin).md>)*<sup id="cite_ref-Ety_1-3" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup>
+- [Quenya](../Q/Quenya.md) *varne* ("nâu, đen, nâu sẫm")<sup id="cite_ref-Ety_1-1" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup>
+- [Old Noldorin](../K/Kornoldorin.md): *barane*<sup id="cite_ref-Ety_1-2" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup>
+- [Người lưu đày Noldorin](../N/Noldorin.md): *[baran](<Baran_(Sindarin).md>)*<sup id="cite_ref-Ety_1-3" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}
 

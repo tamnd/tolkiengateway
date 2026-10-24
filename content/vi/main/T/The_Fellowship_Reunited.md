@@ -36,18 +36,18 @@ infobox:
 
 ## Tóm tắt {#Synopsis}
 
-[Frodo](../F/Frodo.md) từ từ tỉnh dậy trên chiếc giường trắng ngập trong ánh sáng. Trong sự kinh ngạc và hoài nghi, anh thấy mình đang nhìn [Gandalf](../G/Gandalf.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> Cả thầy phù thủy và chàng hobbit đều cười vui vẻ, [Merry](../M/Merry.md) và [Pippin](../P/Pippin.md) chạy vào phòng và nhảy lên giường của Frodo để ôm cậu, vui mừng khi thấy cậu tỉnh dậy. [Gimli](../G/Gimli.md), [Legolas](../L/Legolas.md) và [Aragorn](../A/Aragorn.md) tham gia cùng Frodo, đoàn tụ các thành viên còn lại của [Học bổng](../F/Fellowship_of_the_Ring.md).
+[Frodo](../F/Frodo.md) từ từ tỉnh dậy trên chiếc giường trắng, tắm trong ánh sáng. Trong sự kinh ngạc và không thể tin được, anh thấy mình đang nhìn [Gandalf](../G/Gandalf.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> Phù thủy và chàng hobbit đều cười vui vẻ, [Merry](../M/Merry.md) và [Pippin](../P/Pippin.md) lao vào phòng và nhảy lên giường của Frodo để ôm anh, vui mừng khi thấy anh tỉnh dậy. [Gimli](../G/Gimli.md), [Legolas](../L/Legolas.md) và [Aragorn](../A/Aragorn.md) tham gia Frodo, đoàn tụ các thành viên còn lại của [Học bổng](../F/Fellowship_of_the_Ring.md).
 
-Cuối cùng, [Sam](../S/Sam.md) bước vào, đứng ở ngưỡng cửa. Khi Frodo nhìn thấy ông ta, hai hobbit nhìn nhau một lúc lâu đầy ẩn ý và chỉ mỉm cười với nhau.
+Cuối cùng, [Sam](../S/Sam.md) bước vào, đứng ở ngưỡng cửa. Khi Frodo nhìn thấy ông, hai hobbit nhìn nhau một lúc lâu đầy ẩn ý và chỉ mỉm cười với nhau.
 
 ## Sự khác biệt {#Differences}
 
-Các sự kiện trong cảnh này tương ứng với các phần của chương [Cánh đồng Cormallen](The_Field_of_Cormallen.md). Trong sách, các sự kiện được kể dưới góc nhìn của Sam, người thức dậy trên giường ở [Ithilien](../I/Ithilien.md) bên cạnh Frodo, với Gandalf đang trông chừng họ. Theo Gandalf, ông đã ngủ và thức dậy vào " [ngày 8 tháng 4](../_/8_April.md) trong [Shire-reckoning](../S/Shire-reckoning.md)". Hai hobbit được đoàn tụ với những thành viên còn lại của Hội đồng hành trong rừng, nơi Aragorn cúi đầu trước họ và ca ngợi họ<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[1]</a></sup> (giống như ông làm trong cảnh sau, [Sự trở lại của nhà vua](<The_Return_of_the_King_(scene).md>)).
+Các sự kiện trong cảnh này tương ứng với các phần của chương [The Cánh đồng Cormallen](The_Field_of_Cormallen.md). Trong sách, các sự kiện được kể dưới góc nhìn của Sam, người thức dậy trên giường ở [Ithilien](../I/Ithilien.md) bên cạnh Frodo, với Gandalf trông chừng họ. Ông ta đã ngủ và thức dậy vào " [ngày 8 tháng 4](../_/8_April.md) ở [lịch Shire](../S/Shire-reckoning.md)", theo Gandalf. Hai hobbit được đoàn tụ với những thành viên còn lại của Hội đồng hành trong rừng, nơi Aragorn cúi đầu trước họ và ca ngợi họ<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[1]</a></sup> (giống như ông làm trong cảnh sau, [The Return of the King](<The_Return_of_the_King_(scene).md>)).
 
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Đây là lần đầu tiên Frodo nhìn thấy Gandalf kể từ khi phù thủy <a href="The_Bridge_of_Khazad-dûm_(scene).md" title="The Bridge of Khazad-dûm (scene)">ngã xuống</a> tại <a href="../B/Bridge_of_Khazad-dûm.md" title="Bridge of Khazad-dûm">Cầu Khazad-dûm</a>.</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Đây là lần đầu tiên Frodo nhìn thấy Gandalf kể từ khi thuật sĩ <a href="The_Bridge_of_Khazad-dûm_(scene).md" title="The Bridge of Khazad-dûm (scene)">rơi xuống</a> tại <a href="../B/Bridge_of_Khazad-dûm.md" title="Bridge of Khazad-dûm">Cầu Khazad-dûm</a>.</span>
 </li>
 </ol></div></span>
 

@@ -13,13 +13,13 @@ categories:
   - "Sindarin nouns"
 ---
 
-<i><b>minas</b></i> là một danh từ có nghĩa là "tháp" trong [Sindarin](../S/Sindarin.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Danh từ này thường xuất hiện trong các tên ghép, trong đó nó ám chỉ một tòa thành hoặc một thành phố có tháp canh.
+<i><b>minas</b></i> là danh từ có nghĩa là "tháp" trong [Sindarin](../S/Sindarin.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Danh từ này thường xuất hiện trong các tên ghép, trong đó nó ám chỉ một tòa thành hoặc một thành phố có tháp canh.
 
 ## Ví dụ {#Examples}
 
-- <i><a href="../A/Annúminas.md" title="Annúminas">Annú<b>minas</b></a></i> = "Tháp phía Tây"
-- <i><a class="mw-redirect" href="Minas_Ithil.md" title="Minas Ithil"><b>Minas</b> Ithil</a></i> hay còn gọi là *[Minas Morgul](Minas_Morgul.md)* = "Tháp Mặt Trăng", "Tháp ma thuật đen"
-- <i><a class="mw-redirect" href="Minas_Anor.md" title="Minas Anor"><b>Minas</b> Anor</a></i> hay còn gọi là *[Minas Tirith](Minas_Tirith.md)* = "Tháp Mặt Trời", "Tháp Vệ Binh"
+- <i><a href="../A/Annúminas.md" title="Annúminas">Annú<b>minas</b></a></i> = "Phương Tây-tháp"
+- <i><a class="mw-redirect" href="Minas_Ithil.md" title="Minas Ithil"><b>Minas</b> Ithil</a></i> hay còn gọi là *[Minas Morgul](Minas_Morgul.md)* = "Tháp của Mặt Trăng", "Tháp ma thuật đen"
+- <i><a class="mw-redirect" href="Minas_Anor.md" title="Minas Anor"><b>Minas</b> Anor</a></i> hay còn gọi là *[Minas Tirith](Minas_Tirith.md)* = "Tháp của Mặt Trời", "Tháp bảo vệ"
 - <i><a href="Mindolluin.md" title="Mindolluin"><b>Tối thiểu</b>dolluin</a></i> = "Đầu xanh cao chót vót"
 
 ## Có cùng nguồn gốc {#Cognates}

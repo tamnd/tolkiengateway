@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mountains of Mirkwood"
 ---
 
-Chuyển hướng tới [Núi Mirkwood](../M/Mountains_of_Mirkwood.md).
+Chuyển hướng tới [Dãy Núi của Mirkwood](../M/Mountains_of_Mirkwood.md).

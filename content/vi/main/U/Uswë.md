@@ -15,7 +15,7 @@ sort_keys:
   "Qenya nouns": "uswe"
 ---
 
-<i><b>uswë</b></i> là danh từ [Qenya](../Q/Qenya.md) có nghĩa là "vấn đề, trốn thoát".<sup id="cite_ref-LT1_1-0" class="reference"><a href="#cite_note-LT1-1">[1]</a></sup>
+<i><b>uswë</b></i> là danh từ [Qenya](../Q/Qenya.md) có nghĩa là "vấn đề, thoát khỏi".<sup id="cite_ref-LT1_1-0" class="reference"><a href="#cite_note-LT1-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

@@ -21,21 +21,21 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Alan_Lee_-_Tom_Bombadil&#39;s_Cottage.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/75/Alan_Lee_-_Tom_Bombadil%27s_Cottage.jpg/200px-Alan_Lee_-_Tom_Bombadil%27s_Cottage.jpg" decoding="async" loading="lazy" width="200" height="321" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/75/Alan_Lee_-_Tom_Bombadil%27s_Cottage.jpg/300px-Alan_Lee_-_Tom_Bombadil%27s_Cottage.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/7/75/Alan_Lee_-_Tom_Bombadil%27s_Cottage.jpg/400px-Alan_Lee_-_Tom_Bombadil%27s_Cottage.jpg 2x" data-file-width="996" data-file-height="1600"/></a><figcaption><i>Tom Bombadil&#39;s Cottage</i> by <a href="../A/Alan_Lee.md" title="Alan Lee">Alan Lee</a></figcaption></figure>
 
-**Underhill** là nhà của [Tom Bombadil](../T/Tom_Bombadil.md) và vợ anh [Goldberry](../G/Goldberry.md). Đó là một ngôi nhà ở rìa phía đông của [Rừng Cũ](../O/Old_Forest.md), không xa [Barrow-down](../B/Barrow-downs.md).
+**Underhill** là nhà của [Tom Bombadil](../T/Tom_Bombadil.md) và vợ [Goldberry](../G/Goldberry.md). Đó là một ngôi nhà ở rìa phía đông của [Khu Rừng Cổ](../O/Old_Forest.md), không xa [Barrow-downs](../B/Barrow-downs.md).
 
 ## Mô tả {#Description}
 
-Underhill được xây dựng trên đỉnh một gò đất đầy cỏ, dưới một bờ đá trọc dốc ở rìa cực tây của Barrow-down. Vị trí của nó được mô tả là "lên, xuống, dưới đồi."<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Underhill được xây dựng trên đỉnh một gò đất đầy cỏ, dưới một bờ đá trọc dốc ở rìa cực tây của Barrow-downs. Vị trí của nó được mô tả là "lên, xuống, dưới đồi."<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Người ta biết rất ít về bên ngoài của ngôi nhà, ngoại trừ việc nó có cửa sổ và cửa ra vào có ngưỡng đá rộng. Một căn hộ áp mái với những bức tường đá và sàn lát đá nằm ở đầu phía bắc.
 
 Bên trong có nhiều phòng. Căn phòng chính dài và thấp, có một chiếc bàn lớn bằng gỗ bóng tối và những chiếc ghế cói thấp. Nó được thắp sáng bằng những ngọn đèn trên cao cũng như những ngọn nến trên bàn và một lò sưởi rộng bằng đá. Ngôi nhà có một nhà bếp, không được mô tả. Bên ngoài có một khu vườn bếp kéo dài từ bức tường phía đông của ngôi nhà.
 
-Khi [Frodo](../F/Frodo.md) đến thăm ngôi nhà, anh và những người bạn đồng hành của mình ở trong căn hộ áp mái, được nối với sảnh chính bằng một lối đi ngắn có một lối rẽ ngoặt. Các bức tường của căn hộ áp mái được trang trí bằng những tấm thảm treo màu xanh lá cây. Nó có hai cửa sổ, một hướng về phía đông và một hướng về phía tây, được che bằng rèm màu vàng. Cửa sổ phía đông mở thẳng ra vườn bếp. Có bốn tấm nệm trên sàn dựa vào một bức tường và một chiếc ghế dài ở đối diện.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Khi [Frodo](../F/Frodo.md) đến thăm nhà, anh và những người bạn đồng hành ở trong căn penthouse nối với sảnh chính bằng một lối đi ngắn có khúc cua gấp. Các bức tường của căn hộ áp mái được trang trí bằng những tấm thảm treo màu xanh lá cây. Nó có hai cửa sổ, một hướng về phía đông và một hướng về phía tây, được che bằng rèm màu vàng. Cửa sổ phía đông mở thẳng ra vườn bếp. Có bốn tấm nệm trên sàn dựa vào một bức tường và một chiếc ghế dài ở đối diện.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Tên {#Name}
 
-Ngôi nhà của Tom Bombadil không có tên trong *The Lord of the Rings*. Tên "Underhill" chỉ xuất hiện trong *[The Chronology of The Lord of the Rings](../T/The_Chronology_of_The_Lord_of_the_Rings.md)*. Mục nhập ngày 28 tháng 9 có nội dung "Khởi hành từ Underhill. Bị Barrow-wight bắt giữ."<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Ngôi nhà của Tom Bombadil không có tên trong *The Lord of the Rings*. Tên "Underhill" chỉ xuất hiện trong *[The Chronology of The Lord of the Rings](../T/The_Chronology_of_The_Lord_of_the_Rings.md)*. Mục nhập của nó cho tháng Chín 28 có nội dung "Khởi hành từ Underhill. Bị Barrow-wight bắt giữ."<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 

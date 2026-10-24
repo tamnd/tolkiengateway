@@ -35,7 +35,7 @@ infobox:
 
 <i><b>Nhật ký Tolkien 1992</b></i> là một cuốn nhật ký trống có hình minh họa của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) (xuất bản lần đầu trong *[Pictures by J.R.R. Tolkien](../P/Pictures_by_J.R.R._Tolkien.md)*) và nhiều trích dẫn (từ *[The Hobbit](The_Hobbit.md)*, *[The Lord of the Rings](The_Lord_of_the_Rings.md)* và *[The Letters of J.R.R. Tolkien](The_Letters_of_J.R.R._Tolkien.md)*) và chi tiết tiểu sử.
 
-Ngoại trừ phần giới thiệu,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>cuốn nhật ký đã được tái bản dưới dạng *[A Tolkien Book of Days](../A/A_Tolkien_Book_of_Days.md)* (HarperCollins 1996).
+Ngoại trừ phần giới thiệu,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>cuốn nhật ký được tái bản dưới tên *[A Tolkien Book of Days](../A/A_Tolkien_Book_of_Days.md)* (HarperCollins 1996).
 
 <span></span>
 

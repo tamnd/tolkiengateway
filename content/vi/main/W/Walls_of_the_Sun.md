@@ -22,11 +22,11 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/_/Šárka_Škorpíková_-_Walls_of_the_Sun.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/52/%C5%A0%C3%A1rka_%C5%A0korp%C3%ADkov%C3%A1_-_Walls_of_the_Sun.jpg/300px-%C5%A0%C3%A1rka_%C5%A0korp%C3%ADkov%C3%A1_-_Walls_of_the_Sun.jpg" decoding="async" loading="lazy" width="300" height="142" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/52/%C5%A0%C3%A1rka_%C5%A0korp%C3%ADkov%C3%A1_-_Walls_of_the_Sun.jpg/450px-%C5%A0%C3%A1rka_%C5%A0korp%C3%ADkov%C3%A1_-_Walls_of_the_Sun.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/5/52/%C5%A0%C3%A1rka_%C5%A0korp%C3%ADkov%C3%A1_-_Walls_of_the_Sun.jpg/600px-%C5%A0%C3%A1rka_%C5%A0korp%C3%ADkov%C3%A1_-_Walls_of_the_Sun.jpg 2x" data-file-width="1600" data-file-height="757"/></a><figcaption><i>Walls of the Sun</i> by <a href="../../category/I/Images_by_Šárka_Škorpíková.md" title="Category:Images by Šárka Škorpíková">Šárka Škorpíková</a></figcaption></figure>
 
-**Bức tường Mặt trời** hay **Núi Mặt trời** là một dãy núi vĩ đại có hình đường cong ở [Vùng đất Mặt trời](../L/Land_of_the_Sun.md), ở cực Đông của [Arda](../A/Arda.md). Nó tương ứng đối xứng với dãy núi [Pelóri](../P/Pelóri.md) trên đất [Aman](../A/Aman.md), nhưng không cao bằng.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Các bức tường của Mặt Trời** hoặc **Dãy Núi của Mặt Trời** là một dãy núi vĩ đại có hình cong ở [Vùng đất của Mặt Trời](../L/Land_of_the_Sun.md), ở tận phương Đông của [Arda](../A/Arda.md). Nó đối xứng đối xứng với dãy núi [Pelóri](../P/Pelóri.md) trên đất [Aman](../A/Aman.md) nhưng không cao bằng.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong các tài liệu trước đây, một ngọn núi lớn [Kalormë](../K/Kalormë.md) nằm trong Vùng đất, dường như tương ứng với [Oiolossë](../O/Oiolossë.md) ở [Aman](../A/Aman.md)<sup id="cite_ref-LT1_2-0" class="reference"><a href="#cite_note-LT1-2">[2]</a></sup> mặc dù nó không được chỉ định là một dãy núi.
+Trong các tài liệu trước đó, một ngọn núi lớn [Kalormë](../K/Kalormë.md) nằm trong Vùng đất, dường như tương ứng với [Oiolossë](../O/Oiolossë.md) trong [Aman](../A/Aman.md)<sup id="cite_ref-LT1_2-0" class="reference"><a href="#cite_note-LT1-2">[2]</a></sup> mặc dù nó không được chỉ định là một dãy núi.
 
 <span></span>
 

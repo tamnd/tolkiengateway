@@ -18,7 +18,7 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Hobbit_Desk_Calendar_1978.jpg.md"><img src="https://tolkiengateway.net/w/images/0/07/The_Hobbit_Desk_Calendar_1978.jpg" decoding="async" loading="lazy" width="158" height="216" class="mw-file-element" data-file-width="158" data-file-height="216"/></a><figcaption></figcaption></figure>
 
-**Lịch để bàn Hobbit 1978** được sản xuất bởi [Ballantine Books](../B/Ballantine_Books.md) và được minh họa bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
+**The Hobbit Lịch để bàn 1978** được sản xuất bởi [Ballantine Books](../B/Ballantine_Books.md) và minh họa bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
 - <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0345270800">ISBN 0-345-27080-0</a>
 - Kích thước: 6,5 x 9 inch

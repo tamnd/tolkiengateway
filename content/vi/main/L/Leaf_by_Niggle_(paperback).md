@@ -54,4 +54,4 @@ infobox:
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://www.tolkiensociety.org/2016/06/leaf-by-niggle-to-be-published-in-its-own-volume/" rel="noreferrer noopener" target="_blank">"Leaf by Niggle" sẽ được xuất bản thành tập riêng'</a> (thông báo của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md))
+- <a class="external text" href="http://www.tolkiensociety.org/2016/06/leaf-by-niggle-to-be-published-in-its-own-volume/" rel="noreferrer noopener" target="_blank">"Leaf by Niggle" sẽ được xuất bản thành tập riêng'</a> (thông báo bởi [Hội Tolkien](../T/The_Tolkien_Society.md))

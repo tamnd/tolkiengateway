@@ -34,7 +34,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien đã gặp anh em nhà Lewis ngày hôm trước và ăn trưa với C.S. Lewis. Lewis không biết mệt mỏi đã đọc một phần câu chuyện mới và gây áp lực cho ông rằng Tolkien cần phải hoàn thành câu chuyện của mình. Tolkien cho biết ông sẽ trả lời nhưng "kỳ nghỉ" đã trôi qua một nửa và bài kiểm tra chỉ vừa mới được giải quyết. <br>
+Tolkien đã gặp anh em nhà Lewis ngày hôm trước và ăn trưa với C.S. Lewis. Lewis không biết mệt mỏi đã đọc một phần câu chuyện mới và gây áp lực cho ông rằng Tolkien cần phải hoàn thành câu chuyện của ông. Tolkien nói sẽ trả lời nhưng "nghỉ phép" đã trôi qua được một nửa và bài kiểm tra chỉ vừa mới được giải quyết. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

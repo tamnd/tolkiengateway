@@ -13,7 +13,7 @@ categories:
   - "Khuzdul words"
 ---
 
-<i><b>Bund</b></i> có nghĩa là *head* ở [Khuzdul](../K/Khuzdul.md).
+<i><b>Bund</b></i> có nghĩa là *head* trong [Khuzdul](../K/Khuzdul.md).
 
 ## Từ nguyên {#Etymology}
 

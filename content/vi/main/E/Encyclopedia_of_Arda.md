@@ -17,8 +17,8 @@ langlinks:
     url: "https://kontu.wiki/Encyclopedia_of_Arda"
 ---
 
-**Bách khoa toàn thư về Arda**, là một bộ bách khoa toàn thư trực tuyến, do Mark Fisher sở hữu và kiểm duyệt. Nó đã trở thành một trong những trang web [Tolkien](../J/J.R.R._Tolkien.md) phổ biến hơn. Các bài viết của nó bao gồm các mốc thời gian, phả hệ, từ gốc và bố cục cơ bản về lịch sử của chủ đề. Ngoài ra còn có lịch tương tác chuyển đổi ngày hiện đại thành ngày từ nhiều lịch khác nhau.
+**Bách khoa toàn thư Arda**, là một bách khoa toàn thư trực tuyến, do Mark Fisher sở hữu và kiểm duyệt. Nó đã trở thành một trong những trang web [Tolkien](../J/J.R.R._Tolkien.md) phổ biến hơn. Các bài viết của nó bao gồm các mốc thời gian, phả hệ, từ gốc và bố cục cơ bản về lịch sử của chủ đề. Ngoài ra còn có lịch tương tác chuyển đổi ngày hiện đại thành ngày từ nhiều lịch khác nhau.
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://www.glyphweb.com/arda/default.asp" rel="noreferrer noopener" target="_blank">Bách khoa toàn thư về Arda</a>
+- <a class="external text" href="http://www.glyphweb.com/arda/default.asp" rel="noreferrer noopener" target="_blank">Bách khoa toàn thư Arda</a>

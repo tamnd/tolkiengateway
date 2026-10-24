@@ -16,7 +16,7 @@ images:
 
 Thuật ngữ **Bể cấm** có thể đề cập đến:
 
-- **[Bể cấm](Forbidden_Pool.md), bể bơi bên dưới [Henneth Annûn](../H/Henneth_Annûn.md) mà [Gollum](../G/Gollum.md) đã bị mắc kẹt**
+- **[Bể cấm](Forbidden_Pool.md), cái bể bên dưới [Henneth Annûn](../H/Henneth_Annûn.md) mà [Gollum](../G/Gollum.md) bị mắc vào**
 - [Bể Cấm](../T/The_Forbidden_Pool.md), chương thứ mười bảy của *[The Two Towers](../T/The_Two_Towers.md)*
 - [Bể Cấm](<../T/The_Forbidden_Pool_(scene).md>), cảnh thứ 40 của *[The Lord of the Rings: The Two Towers](<../T/The_Lord_of_the_Rings%253A_The_Two_Towers_(extended_edition).md>)*
 - [Bể Cấm](<../T/The_Forbidden_Pool_(soundtrack).md>), ca khúc thứ mười ba của *[The Lord of the Rings: The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers_-_Original_Motion_Picture_Soundtrack.md)*

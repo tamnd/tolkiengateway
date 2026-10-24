@@ -40,11 +40,11 @@ images:
 
 Trang này là **danh sách các sách trong thư viện của Tolkien**, tức là các sách và ấn phẩm khác được biết là thuộc sở hữu của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
-Sau cái chết của Tolkien vào năm 1973, thư viện của ông được chuyển cho con trai ông và người điều hành văn học, [Christopher Tolkien](../C/Christopher_Tolkien.md). Trước khi chuyển đến Pháp vào năm 1975, Christopher đã tặng một số sách cho thư viện Oxford, số khác bị loại bỏ và gia nhập thị trường sách cũ.
+Sau khi Tolkien qua đời vào năm 1973, thư viện của ông được chuyển giao cho con trai ông và người điều hành văn học, [Christopher Tolkien](../C/Christopher_Tolkien.md). Trước khi chuyển đến Pháp vào năm 1975, Christopher đã tặng một số sách cho các thư viện Oxford, số còn lại bị loại bỏ và tham gia vào thị trường sách cũ.
 
 Một người bán sách địa phương đã mua một số lượng lớn sách và dán nhãn ''Từ Thư viện J.R.R. Tolkien.'' lên nhiều tập chưa có chữ ký để bảo toàn nguồn gốc trước khi bán chúng.
 
-Khoảng ba trăm cuốn đã được tặng cho Thư viện Khoa tiếng Anh và bốn mươi lăm cuốn cũng được gửi vào Thư viện Bodleian cùng với các bài báo của Tolkien.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Khoảng ba trăm cuốn đã được tặng cho Thư viện Khoa Tiếng Anh và 45 cuốn cũng được lưu giữ tại Thư viện Bodleian cùng với các bài báo của Tolkien.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Danh sách sách {#List_of_books}
 
@@ -56,7 +56,7 @@ Khoảng ba trăm cuốn đã được tặng cho Thư viện Khoa tiếng Anh v
 ### *Anglo-Catholicism &amp; Re-Union* {#Anglo-Catholicism_&_Re-Union}
 
 - [1923](../_/1923.md): *Anglo-Catholicism &amp; Re-Union*, bởi Rev S.H. Scott.
-- Mô tả: Dòng chữ của Tolkien trên bản sao có nội dung:
+- Mô tả: dòng chữ của Tolkien trên bản sao có nội dung:
 
 "được Linh mục S H Scott<br> tặng cho tôi tại 'Hiệu sách Newman'<br> cũ vào thời điểm đó ở phố Beaumont<br>, Oxford"<sup id="cite_ref-2Books_3-0" class="reference"><a href="#cite_note-2Books-3">[3]</a></sup>
 
@@ -74,7 +74,7 @@ Khoảng ba trăm cuốn đã được tặng cho Thư viện Khoa tiếng Anh v
 
 <h3><span id="Chambers.27s_Etymological_Dictionary"></span><span class="mw-headline" id="Chambers&#39;s_Etymological_Dictionary"><i>Chambers&#39;s Etymological Dictionary</i></span></h3>
 
-- [1903](../_/1903.md): Vào khoảng Giáng sinh năm 1903, Tolkien mua một bản sao của <i><a class="extiw" href="http://en.wikipedia.org/wiki/Chambers_Dictionary" title="wikipedia:Chambers Dictionary">Từ điển Từ nguyên của Chambers</a></i>. Trong [1973](../_/1973.md) ông đã thêm ghi chú sau vào cuốn sách: "sự khởi đầu của mối quan tâm của tôi đối với Ngữ văn Đức (& Philol nói chung)".<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+- [1903](../_/1903.md): Vào khoảng Giáng sinh năm 1903, Tolkien mua một bản <i><a class="extiw" href="http://en.wikipedia.org/wiki/Chambers_Dictionary" title="wikipedia:Chambers Dictionary">Từ điển Từ nguyên của Chambers</a></i>. Trong [1973](../_/1973.md) ông đã thêm ghi chú sau vào cuốn sách: "sự khởi đầu của mối quan tâm của tôi đối với Ngữ văn Đức (& Philol nói chung)".<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
 <h3><span id="The_Children.27s_Treasury_of_Literature"></span><span class="mw-headline" id="The_Children&#39;s_Treasury_of_Literature"><i>The Children&#39;s Treasury of Literature</i></span></h3>
 
@@ -84,12 +84,12 @@ Khoảng ba trăm cuốn đã được tặng cho Thư viện Khoa tiếng Anh v
 ### *Dictionary in Englysshe and Welshe* {#Dictionary_in_Englysshe_and_Welshe}
 
 - 1877: *Dictionary in Englysshe and Welshe*, bởi <a class="extiw" href="http://en.wikipedia.org/wiki/William_Salesbury" title="wikipedia:William Salesbury">Wyllyam Salesbury</a>. Luân Đôn.
-- Mô tả: Phiên bản fax, Phần I-IV. Chứa [một trang ghi chú bản thảo](../M/Manuscript_notes_in_Dictionary_in_Englysshe_and_Welshe.md) của Tolkien.<sup id="cite_ref-TW_9-0" class="reference"><a href="#cite_note-TW-9">[9]</a></sup><sup id="cite_ref-Add_10-0" class="reference"><a href="#cite_note-Add-10">[10]</a></sup> Tolkien ghi chú bên trong cuốn sách rằng nó đến với ông từ T. Shankland vào ngày [9 tháng 5](../_/9_May.md) [1907](../_/1907.md).<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>
+- Mô tả: Phiên bản fax, Phần I-IV. Chứa [một trang ghi chú bản thảo](../M/Manuscript_notes_in_Dictionary_in_Englysshe_and_Welshe.md) của Tolkien.<sup id="cite_ref-TW_9-0" class="reference"><a href="#cite_note-TW-9">[9]</a></sup><sup id="cite_ref-Add_10-0" class="reference"><a href="#cite_note-Add-10">[10]</a></sup> Tolkien ghi chú bên trong cuốn sách rằng nó đến với ông ta từ T. Shankland vào ngày [ngày 9 tháng 5](../_/9_May.md) [1907](../_/1907.md).<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>
 
 ### *Diplomatarium Islandicum* {#Diplomatarium_Islandicum}
 
 - 1857-76: *Diplomatarium Islandicum. Islenzkt Bornbrefasafn...* Tập 1 834 - 1264. Kaupmannohofn.
-- Được đóng bằng nửa bắp chân hiện đại. Với tấm bìa sách của nhà sử học <a class="extiw" href="http://en.wikipedia.org/wiki/Charles_Plummer" title="wikipedia:Charles Plummer">Charles Plummer</a>, ghi chú của Tolkien ghi "bt from..." và "by J.R.R. Tolkien" bằng mực. Được chèn lỏng lẻo là một vài mẩu giấy có ghi chú của Tolkien (xem [Bản thảo của Diplomatarium Islandicum](../D/Diplomatarium_Islandicum_manuscripts.md)).<sup id="cite_ref-Rare_2-1" class="reference"><a href="#cite_note-Rare-2">[2]</a></sup>
+- Được đóng bằng nửa bắp chân hiện đại. Với tấm bìa sách của nhà sử học <a class="extiw" href="http://en.wikipedia.org/wiki/Charles_Plummer" title="wikipedia:Charles Plummer">Charles Plummer</a>, ghi chú của Tolkien ghi "bt from..." và "by J.R.R. Tolkien" bằng mực. Được chèn lỏng lẻo là một vài mảnh giấy có ghi chú của Tolkien (xem [Bản thảo của Diplomatarium Islandicum](../D/Diplomatarium_Islandicum_manuscripts.md)).<sup id="cite_ref-Rare_2-1" class="reference"><a href="#cite_note-Rare-2">[2]</a></sup>
 
 ### *Die Erforschung der indogermanischen Sprachen* {#Die_Erforschung_der_indogermanischen_Sprachen}
 
@@ -120,12 +120,12 @@ Khoảng ba trăm cuốn đã được tặng cho Thư viện Khoa tiếng Anh v
 ### *Germanische Heldensage* {#Germanische_Heldensage}
 
 - Herman Schneider biên tập.
-- Các bản sao có chữ ký của Tolkien hiện được lưu giữ trong Thư viện Taylorian tại [Oxford](../O/Oxford.md).<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup>
+Các bản sao có chữ ký của - Tolkien hiện được lưu giữ tại Thư viện Taylorian tại [Oxford](../O/Oxford.md).<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup>
 
 ### *Germanische Sprachwissenschaft* {#Germanische_Sprachwissenschaft}
 
 - [1911](../_/1911.md): *Germanische Sprachwissenschaft*, của Tiến sĩ Richard Loewe. Dòng: Sammlung Göschen. Leipzig: G.J. Göschen'sche Verlagshandlung.
-- Mô tả: Có chữ ký của Tolkien ở đầu trang trước bên trong (J.R.R. Tolkien Exeter Coll) và có nhãn dán "Từ Thư viện J.R.R. Tolkien" ở phía dưới bên trái của trang bìa bên trong. Một số trang có chú thích bằng bút chì (trong tay Tolkien); trang 80, 88, 101. Một số sửa chữa nhỏ bằng mực đen ở trang 133.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup>
+- Mô tả: Được ký bởi Tolkien ở đầu trang trước bên trong (J.R.R. Tolkien Exeter Coll) và có nhãn dán "Từ Thư viện J.R.R. Tolkien" ở phía dưới bên trái của trang bìa bên trong. Một số trang có chú thích bằng bút chì (bằng tay Tolkien); trang 80, 88, 101. Một số sửa chữa nhỏ bằng mực đen ở trang 133.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup>
 
 ### *Grundzüge der Phonetik zur Einführung in das Studium der Lautlehre der Indogermanischen Sprachen* {#Grundzüge_der_Phonetik_zur_Einführung_in_das_Studium_der_Lautlehre_der_Indogermanischen_Sprachen}
 
@@ -134,12 +134,12 @@ Khoảng ba trăm cuốn đã được tặng cho Thư viện Khoa tiếng Anh v
 ### *Guinevere: A Study of Her Abductions* {#Guinevere:_A_Study_of_Her_Abductions}
 
 - [1951](../_/1951.md): *Guinevere: A Study of Her Abductions*, bởi <a class="extiw" href="http://en.wikipedia.org/wiki/Kenneth_G._T._Webster" title="wikipedia:Kenneth G. T. Webster">Kenneth G. T. Webster</a>. Milton, Massachusetts: Nhà xuất bản Rùa.
-- Mô tả: Được khắc trên trang tiêu đề bằng bút mực: "Giáo sư Tolkien / từ Deborah và Deborah Webster / với sự ngưỡng mộ và kính trọng của chúng tôi".<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup>
+- Mô tả: Trên trang tiêu đề được khắc bằng bút mực: "Giáo sư Tolkien / từ Deborah và Deborah Webster / với sự ngưỡng mộ và kính trọng của chúng tôi".<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup>
 
 ### *Hávarðar saga Ísfirðings* {#Hávarðar_saga_Ísfirðings}
 
 - [1923](../_/1923.md): <i><a class="extiw" href="http://en.wikipedia.org/wiki/H%C3%A1var%C3%B0ar_saga_%C3%8Dsfir%C3%B0ings" title="wikipedia:Hávarðar saga Ísfirðings">Hávarðar saga Ísfirðings</a></i>. Kobenhavn.
-- Mô tả: Được Tolkien ký bằng bút chì ở cuối trang giấy.<sup id="cite_ref-Rare_2-2" class="reference"><a href="#cite_note-Rare-2">[2]</a></sup>
+- Mô tả: Được ký bởi Tolkien bằng bút chì ở cuối trang giấy.<sup id="cite_ref-Rare_2-2" class="reference"><a href="#cite_note-Rare-2">[2]</a></sup>
 
 ### *Heiðreks Saga* {#Heiðreks_Saga}
 
@@ -149,7 +149,7 @@ Khoảng ba trăm cuốn đã được tặng cho Thư viện Khoa tiếng Anh v
 ### *Histoire de la Litterature latine chretienne* {#Histoire_de_la_Litterature_latine_chretienne}
 
 - 19??: *Histoire de la Litterature latine chretienne*, bởi Pierre de Labriolle
-- Mô tả: Được Tolkien ký bằng bút chì ở mặt trước miễn phí.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup>
+- Mô tả: Được ký bởi Tolkien bằng bút chì vào mặt trước của tờ giấy trống.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup>
 
 ### *The House of the Wolfings* {#The_House_of_the_Wolfings}
 
@@ -200,7 +200,7 @@ Khoảng ba trăm cuốn đã được tặng cho Thư viện Khoa tiếng Anh v
 ### *Giới thiệu về Sáng tác văn xuôi Hy Lạp kèm bài tập* {#Introduction_to_Greek_Prose_Composition_with_Exercises}
 
 - [1902](../_/1902.md): *Giới thiệu về Sáng tác văn xuôi Hy Lạp kèm bài tập*, của Arthur Sidgwick.
-- Mô tả: Được Tolkien ghi lại với nhiều biến thể trẻ trung về chữ ký của ông và ngày tháng đi kèm.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup>
+- Mô tả: Được khắc bởi Tolkien với nhiều biến thể trẻ trung về chữ ký của ông và ngày tháng đi kèm.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup>
 
 #### Hình ảnh {#Pictures_3}
 
@@ -261,7 +261,7 @@ Khoảng ba trăm cuốn đã được tặng cho Thư viện Khoa tiếng Anh v
 ### *Những bài thơ Latinh thường được gán cho Walter Mapes* {#The_Latin_Poems_Commonly_Attributed_to_Walter_Mapes}
 
 - 1841-50: <a class="extiw" href="http://en.wikipedia.org/wiki/Thomas_Wright_(antiquarian)" title="wikipedia:Thomas Wright (antiquarian)">Thomas Wright</a> (ed). *Những bài thơ Latinh thường được gán cho Walter Mapes* (2 tập).
-- Mô tả: Mỗi tập được ký tên Tolkien ngày [1923](../_/1923.md) ở trang bìa trước.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup>
+- Mô tả: Mỗi tập được ký tên Tolkien ngày [1923](../_/1923.md) ở trang rời mặt trước.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup>
 
 #### Hình ảnh {#Pictures_6}
 
@@ -289,7 +289,7 @@ Khoảng ba trăm cuốn đã được tặng cho Thư viện Khoa tiếng Anh v
 ### *A Middle English Reader* {#A_Middle_English_Reader}
 
 - 1919: *A Middle English Reader* của Oliver Farrar Emerson.
-- Mô tả: Bên trong cuốn sách là một tấm thiệp của Nhà xuất bản Đại học Oxford có ghi: "Gửi Giáo sư Tolkien [Ngày 27 tháng 5](../_/27_May.md) [1930](../_/1930.md)". Trên trang đầu tiên có chữ ký của Tolkien bằng mực và một số ghi chú khác bằng bút chì.<sup id="cite_ref-2Books_3-1" class="reference"><a href="#cite_note-2Books-3">[3]</a></sup>
+- Mô tả: Bên trong cuốn sách có tấm thiệp của Nhà xuất bản Đại học Oxford có ghi: "Gửi Giáo sư Tolkien [Ngày 27 tháng 5](../_/27_May.md) [1930](../_/1930.md)". Trên trang đầu tiên có chữ ký của Tolkien bằng mực và một số ghi chú khác bằng bút chì.<sup id="cite_ref-2Books_3-1" class="reference"><a href="#cite_note-2Books-3">[3]</a></sup>
 
 ### *Hình thái học Untersuchungen auf dem Gebiete der indogermanischen Sprachen* {#Morphologische_Untersuchungen_auf_dem_Gebiete_der_indogermanischen_Sprachen}
 
@@ -300,7 +300,7 @@ Khoảng ba trăm cuốn đã được tặng cho Thư viện Khoa tiếng Anh v
 ### *Morte Arthure* {#Morte_Arthure}
 
 - 1871: *Morte Arthure*, biên tập. của Edmund Brock, Hiệp hội văn bản tiếng Anh sơ khai.
-- Tolkien đã mua cuốn sách này vào tháng 9 [1919](../_/1919.md).<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup>
+- Tolkien đã mua cuốn sách này vào tháng Chín [1919](../_/1919.md).<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup>
 
 ### *Về lịch sử của những biến tố hiện tại trong tiếng Anh* {#On_the_History_of_the_English_Present_Inflections}
 
@@ -334,7 +334,7 @@ Khoảng ba trăm cuốn đã được tặng cho Thư viện Khoa tiếng Anh v
 
 ### *Pearl* {#Pearl}
 
-- [1910](../_/1910.md): *Pearl*, do Charles Osgood biên tập. Tolkien đã khắc tên mình vào bản sao bằng thư pháp và viết ngày tháng (Lễ Phục sinh 1913) bằng chữ Latinh và vị trí của nó trong thư viện của ông.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup>
+- [1910](../_/1910.md): *Pearl*, do Charles Osgood biên tập. Tolkien đã khắc tên ông bằng thư pháp và ghi ngày tháng (Lễ Phục sinh 1913) bằng chữ Latinh và vị trí của nó trong thư viện của ông.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup>
 
 ### *Phonetische Grundfragen* {#Phonetische_Grundfragen}
 
@@ -342,12 +342,12 @@ Khoảng ba trăm cuốn đã được tặng cho Thư viện Khoa tiếng Anh v
 
 ### *The Poor Hater* {#The_Poor_Hater}
 
-- [1958](../_/1958.md): *The Poor Hater*, bởi [William Sẵn sàng](../W/William_Ready.md). Ready đã gửi một bản sao cuốn tiểu thuyết của mình cho Tolkien; người sau đã gửi cho ông [thư cảm ơn](<Letter_to_William_Ready_(5_March_1959).md>).<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup>
+- [1958](../_/1958.md): *The Poor Hater*, bởi [William Sẵn sàng](../W/William_Ready.md). Ready đã gửi bản sao cuốn tiểu thuyết của mình tới Tolkien; người sau đã gửi cho ông [thư cảm ơn](<Letter_to_William_Ready_(5_March_1959).md>).<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup>
 
 ### *Portugais; phonétique et phonologie, morphologie, textes* {#Portugais;_phonétique_et_phonologie,_morphologie,_textes}
 
 - [1903](../_/1903.md): *Portugais; phonétique et phonologie, morphologie, textes*, bởi Gonçalves Viana, A. R. (Aniceto Reis). Leipzig: B.G. Teubner.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup>
-- "Tolkien đã mua cuốn sách này từ Nhà bán sách Blackwell ở Oxford (nhãn của họ ở bên trong bìa) để nghiên cứu. Là một cựu thư viện, Tolkien đã ký cuốn sách này ở đầu trang đầu tiên. Bên trong cuốn sách có bảy chú thích bằng bút chì ở lề (thường là các bản chỉnh sửa!). Tolkien đã tặng cuốn sách này cho Đại học U.S. Catholic."<sup id="cite_ref-TolkienShop_31-0" class="reference"><a href="#cite_note-TolkienShop-31">[31]</a></sup>
+- "Tolkien đã mua cuốn sách này từ Nhà sách Blackwell ở Oxford (nhãn của họ ở bên trong bìa) để nghiên cứu. Vì một ex libris Tolkien đã ký cuốn sách này ở đầu trang đầu tiên. Bên trong sách có bảy chú thích bằng bút chì ở lề (thường là các bản chỉnh sửa!). Tolkien đã tặng cuốn sách này cho Đại học U.S. Catholic."<sup id="cite_ref-TolkienShop_31-0" class="reference"><a href="#cite_note-TolkienShop-31">[31]</a></sup>
 
 #### Hình ảnh {#Pictures_8}
 
@@ -402,7 +402,7 @@ Khoảng ba trăm cuốn đã được tặng cho Thư viện Khoa tiếng Anh v
 
 ### *Reallexikon der Germanischen Altertumskunde* {#Reallexikon_der_Germanischen_Altertumskunde}
 
-- <i><a class="extiw" href="http://en.wikipedia.org/wiki/Reallexikon_der_Germanischen_Altertumskunde" title="wikipedia:Reallexikon der Germanischen Altertumskunde">Reallexikon der Germanischen Altertumskunde</a></i>, do Johannes Hoops biên tập. Các tài liệu được viết bằng bảng chữ cái [Elvish](../E/Elvish.md) sớm (xuất bản trong [*Parma Eldalamberon* 20](../P/Parma_Eldalamberon_20.md)) đã được tìm thấy trong bản sao này.<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">[33]</a></sup>
+- <i><a class="extiw" href="http://en.wikipedia.org/wiki/Reallexikon_der_Germanischen_Altertumskunde" title="wikipedia:Reallexikon der Germanischen Altertumskunde">Reallexikon der Germanischen Altertumskunde</a></i>, do Johannes Hoops biên tập. Các tài liệu được viết bằng bảng chữ cái [Elvish](../E/Elvish.md) sớm (được xuất bản trong [*Parma Eldalamberon* 20](../P/Parma_Eldalamberon_20.md)) đã được tìm thấy trong bản sao này.<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">[33]</a></sup>
 
 ### *Die reduplizierten Perfekta des Nord- und Westgermanischen* {#Die_reduplizierten_Perfekta_des_Nord-_und_Westgermanischen}
 
@@ -411,7 +411,7 @@ Khoảng ba trăm cuốn đã được tặng cho Thư viện Khoa tiếng Anh v
 ### *Scandinavian Archaeology* {#Scandinavian_Archaeology}
 
 - [1937](../_/1937.md): *Scandinavian Archaeology*, bởi <a class="extiw" href="http://en.wikipedia.org/wiki/Haakon_Shetelig" title="wikipedia:Haakon Shetelig">Haakon Shetelig</a> và <a class="extiw" href="http://en.wikipedia.org/wiki/Hjalmar_Falk" title="wikipedia:Hjalmar Falk">Hjalmar Falk</a>; được dịch bởi [E.V. Gordon](../E/E.V._Gordon.md). Oxford.
-- Với lời nhắn đánh máy "với lời khen ngợi của Giáo sư E.V. Gordon." Ký bằng bút chì trên tờ giấy cuối cùng với ghi chú bổ sung trên tay Tolkien "từ EVG."<sup id="cite_ref-Rare_2-6" class="reference"><a href="#cite_note-Rare-2">[2]</a></sup>
+- Với lời nhắn đánh máy "với lời khen ngợi của Giáo sư E.V. Gordon." Ký bằng bút chì trên tờ giấy cuối cùng với ghi chú bổ sung trong tay Tolkien"từ EVG."<sup id="cite_ref-Rare_2-6" class="reference"><a href="#cite_note-Rare-2">[2]</a></sup>
 
 ### *Das schwache Präteritum und seine Vorgeschichte* {#Das_schwache_Präteritum_und_seine_Vorgeschichte}
 
@@ -420,7 +420,7 @@ Khoảng ba trăm cuốn đã được tặng cho Thư viện Khoa tiếng Anh v
 
 ### *The Shield of Achilles* {#The_Shield_of_Achilles}
 
-- [1955](../_/1955.md): <i><a class="extiw" href="http://en.wikipedia.org/wiki/The_Shield_of_Achilles" title="wikipedia:The Shield of Achilles">Khiên Achilles</a></i>, bởi [W.H. Auden](../W/W.H._Auden.md). Auden đã gửi một bản sao của cuốn sách cho Tolkien.<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[34]</a></sup>
+- [1955](../_/1955.md): <i><a class="extiw" href="http://en.wikipedia.org/wiki/The_Shield_of_Achilles" title="wikipedia:The Shield of Achilles">Khiên Achilles</a></i>, bởi [W.H. Auden](../W/W.H._Auden.md). Auden đã gửi bản sao của cuốn sách tới Tolkien.<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[34]</a></sup>
 
 ### *The Screwtape Letters* {#The_Screwtape_Letters}
 
@@ -428,8 +428,8 @@ Khoảng ba trăm cuốn đã được tặng cho Thư viện Khoa tiếng Anh v
 
 ### *Specimens Of Early English* {#Specimens_Of_Early_English}
 
-- [1935](../_/1935.md): *Specimens Of Early English*, của <a class="extiw" href="http://en.wikipedia.org/wiki/Richard_Morris_(philology)" title="wikipedia:Richard Morris (philology)">Richard Morris</a> và <a class="extiw" href="http://en.wikipedia.org/wiki/Walter_William_Skeat" title="wikipedia:Walter William Skeat">Walter Skeat</a>, phần I, Oxford, 1886, repr. 1935, xcix-554 tr.<sup id="cite_ref-36" class="reference"><a href="#cite_note-36">[36]</a></sup>
-- Có chữ ký của Tolkien, dường như là chủ sở hữu thứ ba của cuốn sách. Nó được bao phủ bởi rất nhiều ghi chú, đặc biệt là chương "The Ancren Riwle", nhưng nói chung là từ bàn tay của học sinh.<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">[37]</a></sup><sup id="cite_ref-38" class="reference"><a href="#cite_note-38">[note 1]</a></sup>
+- [1935](../_/1935.md): *Specimens Of Early English*, bởi <a class="extiw" href="http://en.wikipedia.org/wiki/Richard_Morris_(philology)" title="wikipedia:Richard Morris (philology)">Richard Morris</a> và <a class="extiw" href="http://en.wikipedia.org/wiki/Walter_William_Skeat" title="wikipedia:Walter William Skeat">Walter Skeat</a>, phần I, Oxford, 1886, repr. 1935, xcix-554 tr.<sup id="cite_ref-36" class="reference"><a href="#cite_note-36">[36]</a></sup>
+- Có chữ ký của Tolkien, rõ ràng là chủ sở hữu thứ ba của cuốn sách. Nó được bao phủ bởi rất nhiều ghi chú, đặc biệt là chương "The Ancren Riwle", nhưng nói chung là từ bàn tay của học sinh.<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">[37]</a></sup><sup id="cite_ref-38" class="reference"><a href="#cite_note-38">[note 1]</a></sup>
 
 #### Hình ảnh {#Pictures_10}
 
@@ -484,13 +484,13 @@ Khoảng ba trăm cuốn đã được tặng cho Thư viện Khoa tiếng Anh v
 
 ### *A Welsh Grammar Historical and Comparative* {#A_Welsh_Grammar_Historical_and_Comparative}
 
-- [1913](../_/1913.md): *Lịch sử và so sánh ngữ pháp tiếng Wales: Âm vị học và sự ngẫu nhiên*, của <a class="extiw" href="http://en.wikipedia.org/wiki/John_Morris-Jones" title="wikipedia:John Morris-Jones">J. Morris-Jones</a>. Oxford.
-- Mô tả: Tolkien đã mua cuốn sách này bằng tiền thưởng Skeat Prize của mình vào mùa xuân [1914](../_/1914.md) (sách có dòng chữ "1914" và "Skeat Prize Vol. 3"). Tolkien đã thêm một số ghi chú bên lề và sửa chữa. Ở trang 33, Tolkien lưu ý "Tôi đã nghe nó vào năm 1920", để phản ứng lại nhận xét của Morris-Jones rằng mặc dù cách viết *ychain* của tiếng Wales <i><a class="extiw" href="http://en.wiktionary.org/wiki/ychen" title="wiktionary:ychen">ychen</a></i> ("oxen") có nguồn gốc sai, nhưng dạng *ychain* có thể được nghe thấy trong <a class="extiw" href="http://en.wikipedia.org/wiki/Gwynedd" title="wikipedia:Gwynedd">Gwynedd</a>.<sup id="cite_ref-TW_9-1" class="reference"><a href="#cite_note-TW-9">[9]</a></sup><sup id="cite_ref-C51_18-3" class="reference"><a href="#cite_note-C51-18">[18]</a></sup>
+- [1913](../_/1913.md): *Một tiếng Wales Ngữ pháp Lịch sử và So sánh: Âm vị học và Sự ngẫu nhiên*, bởi <a class="extiw" href="http://en.wikipedia.org/wiki/John_Morris-Jones" title="wikipedia:John Morris-Jones">J. Morris-Jones</a>. Oxford.
+- Mô tả: Tolkien đã mua cuốn sách này bằng tiền Skeat Prize của mình vào mùa xuân [1914](../_/1914.md) (sách có dòng chữ "1914" và "Skeat Prize Vol. 3"). Tolkien đã thêm một số ghi chú bên lề và chỉnh sửa. Ở trang 33, Tolkien ghi chú "Tôi đã nghe nó vào năm 1920", để phản ứng lại nhận xét của Morris-Jones rằng mặc dù cách viết *ychain* của tiếng Wales <i><a class="extiw" href="http://en.wiktionary.org/wiki/ychen" title="wiktionary:ychen">ychen</a></i> ("oxen") có nguồn gốc sai, nhưng dạng *ychain* có thể được nghe trong <a class="extiw" href="http://en.wikipedia.org/wiki/Gwynedd" title="wikipedia:Gwynedd">Gwynedd</a>.<sup id="cite_ref-TW_9-1" class="reference"><a href="#cite_note-TW-9">[9]</a></sup><sup id="cite_ref-C51_18-3" class="reference"><a href="#cite_note-C51-18">[18]</a></sup>
 
 ### *Thet Freske Riim - Tractatus Alvini Martinus Mijhoff* {#Thet_Freske_Riim_-_Tractatus_Alvini_Martinus_Mijhoff}
 
 - [1952](../_/1952.md): *Thet Freske Riim - Tractatus Alvini Martinus Mijhoff*, của Alistair Campbell.
-- Mô tả: Vải gốc của nhà xuất bản, dj có vài vết sứt mẻ ở các góc, mặt trên và mặt dưới gáy. viii + 234 trang. Được biên tập viên ghi bằng mực, trên mặt trước miễn phí: "J.R.R.T. với lời chào trân trọng của biên tập viên." Tolkien sửa chữa bằng bút chì trên ba trang. Biên tập viên, Alistair Campbell, là một trong những người bạn của Tolkien và thường đến thăm ông tại căn hộ trên Phố Merton ở Oxford, nơi Tolkien sống những năm cuối đời sau cái chết của Edith vào năm 1971.<sup id="cite_ref-39" class="reference"><a href="#cite_note-39">[38]</a></sup>
+- Mô tả: Vải gốc của nhà xuất bản, dj có vài vết sứt mẻ ở các góc, mặt trên và mặt dưới gáy. viii + 234 trang. Được biên tập viên ghi bằng mực, trên mặt trước miễn phí: "J.R.R.T. với lời chào trân trọng của biên tập viên." Chỉnh sửa bằng Tolkien bằng bút chì trên ba trang. Biên tập viên, Alistair Campbell, là một trong những người bạn của Tolkien và thường đến thăm anh tại căn hộ trên Phố Merton ở Oxford, nơi Tolkien trải qua những năm cuối đời sau cái chết của Edith vào năm 1971.<sup id="cite_ref-39" class="reference"><a href="#cite_note-39">[38]</a></sup>
 
 ### *Book II of the Faerie Queene* {#Book_II_of_the_Faerie_Queene}
 
@@ -501,11 +501,11 @@ Khoảng ba trăm cuốn đã được tặng cho Thư viện Khoa tiếng Anh v
 
 ## Danh sách các ấn phẩm khác {#List_of_other_publications}
 
-[Christopher Tolkien](../C/Christopher_Tolkien.md) hồi tưởng rằng cha anh có một "bộ sưu tập lớn các cuốn sách về địa danh tiếng Anh bao gồm tên trường, tên gỗ, tên suối và các dạng khác nhau vô tận của chúng)".<sup id="cite_ref-40" class="reference"><a href="#cite_note-40">[39]</a></sup>
+[Christopher Tolkien](../C/Christopher_Tolkien.md) nhớ lại rằng cha anh có một "bộ sưu tập sách lớn về địa danh tiếng Anh bao gồm tên ruộng, tên gỗ, tên suối và các dạng khác nhau vô tận của chúng)".<sup id="cite_ref-40" class="reference"><a href="#cite_note-40">[39]</a></sup>
 
 ### Văn bản địa chỉ giới thiệu {#Text_of_Introductory_Address}
 
-- [1954](../_/1954.md): "Văn bản diễn văn giới thiệu", do Giáo sư Jeremiah J. Hogan trình bày vào [20 tháng 7](../_/20_July.md) [1954](../_/1954.md) nhân dịp trao bằng Tiến sĩ Văn học danh dự cho Tolkien từ Đại học Quốc gia Ireland. Bản sao Địa chỉ của Tolkien được lưu giữ tại [Thư viện Bodleian](../B/Bodleian_Library.md).<sup id="cite_ref-41" class="reference"><a href="#cite_note-41">[40]</a></sup>
+- [1954](../_/1954.md): "Văn bản Diễn văn Giới thiệu", do Giáo sư Jeremiah J. Hogan trình bày vào [20 tháng 7](../_/20_July.md) [1954](../_/1954.md) nhân dịp trao bằng Tiến sĩ Danh dự về Tolkien từ Đại học Quốc gia Ireland. Bản sao Địa chỉ của Tolkien được lưu giữ tại [Thư viện Bodleian](../B/Bodleian_Library.md).<sup id="cite_ref-41" class="reference"><a href="#cite_note-41">[40]</a></sup>
 
 ## Đọc thêm {#Further_reading}
 
@@ -514,13 +514,13 @@ Khoảng ba trăm cuốn đã được tặng cho Thư viện Khoa tiếng Anh v
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://www.tolkienguide.com/modules/newbb/viewtopic.php?viewmode=flat&amp;type=&amp;topic_id=1887&amp;forum=9" rel="noreferrer noopener" target="_blank">Tolkien và người bán thịt ở đường Abingdon</a> tại <a class="external text" href="http://www.tolkienguide.com/" rel="noreferrer noopener" target="_blank">Hướng dẫn sưu tầm Tolkien</a>
-- <a class="external text" href="http://www.tolkienguide.com/modules/newbb/viewtopic.php?viewmode=compact&amp;topic_id=926&amp;forum=9" rel="noreferrer noopener" target="_blank">Sách từ Thư viện cá nhân của Tolkien??</a> tại <a class="external text" href="http://www.tolkienguide.com/" rel="noreferrer noopener" target="_blank">Hướng dẫn dành cho người sưu tập Tolkien</a>
+- <a class="external text" href="http://www.tolkienguide.com/modules/newbb/viewtopic.php?viewmode=flat&amp;type=&amp;topic_id=1887&amp;forum=9" rel="noreferrer noopener" target="_blank">Tolkien và người bán thịt ở đường Abingdon</a> tại <a class="external text" href="http://www.tolkienguide.com/" rel="noreferrer noopener" target="_blank">Tolkien Hướng dẫn sưu tầm</a>
+- <a class="external text" href="http://www.tolkienguide.com/modules/newbb/viewtopic.php?viewmode=compact&amp;topic_id=926&amp;forum=9" rel="noreferrer noopener" target="_blank">Sách từ Thư viện cá nhân của Tolkien??</a> tại <a class="external text" href="http://www.tolkienguide.com/" rel="noreferrer noopener" target="_blank">Tolkien Hướng dẫn sưu tầm</a>
 
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-38"><span class="mw-cite-backlink"><a href="#cite_ref-38">↑</a></span> <span class="reference-text">Mặc dù cuốn sách đã được chứng nhận bởi <a href="../W/Wayne_G._Hammond.md" title="Wayne G. Hammond">Hammond</a> và <a href="../C/Christina_Scull.md" title="Christina Scull">Scull</a> là từ thư viện của Tolkien, nhưng vẫn chưa biết liệu tất cả các ghi chú có phải do chủ sở hữu/học sinh khác viết hay không, hay nó có bao gồm các ghi chú của Tolkien hay không.</span>
+<li id="cite_note-38"><span class="mw-cite-backlink"><a href="#cite_ref-38">↑</a></span> <span class="reference-text">Mặc dù cuốn sách đã được chứng nhận bởi <a href="../W/Wayne_G._Hammond.md" title="Wayne G. Hammond">Hammond</a> và <a href="../C/Christina_Scull.md" title="Christina Scull">Scull</a> là từ thư viện của Tolkien, nhưng vẫn chưa biết liệu tất cả các ghi chú có phải do chủ sở hữu/học sinh khác viết hay không, hay liệu nó có bao gồm các ghi chú của Tolkien hay không.</span>
 </li>
 </ol></div></span>
 

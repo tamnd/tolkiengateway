@@ -14,7 +14,7 @@ sort_keys:
   "Quenya suffixes": "ntë"
 ---
 
-<i><b>-ntë</b></i> là đuôi [Quenya](../Q/Quenya.md) đại từ, biến thể của 3 số nhiều ("they") khi không có chủ ngữ nào được đề cập trước đó. (Xem trong *Círion's Oath*.)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>-ntë</b></i> là đuôi đại từ [Quenya](../Q/Quenya.md), biến thể của 3 số nhiều ("they") khi không có chủ ngữ nào được đề cập trước đó. (Xem trong *Círion's Oath*.)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

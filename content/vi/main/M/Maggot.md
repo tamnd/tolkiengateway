@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Farmer Maggot"
 ---
 
-Chuyển hướng đến [Nông dân Maggot](../F/Farmer_Maggot.md).
+Chuyển hướng đến [Farmer Maggot](../F/Farmer_Maggot.md).

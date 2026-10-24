@@ -34,7 +34,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Ban Giám đốc Khoa Tiếng Anh gửi lời cảm ơn tới “sự phục vụ lâu dài và vô giá” của Tolkien khi ông nghỉ hưu. Tolkien bày tỏ lòng biết ơn tới Hội đồng quản trị vì những điều khoản vô cùng hào phóng của họ. Ông cảm thấy họ miêu tả ông như một giáo sư vượt trội hơn nhiều so với vị giáo sư đã nghỉ hưu. Ông nói rằng thật là một niềm vui đặc biệt khi nhận được những lời khen ngợi và vinh danh không đáng có. Ông thậm chí còn bỏ lỡ các cuộc họp của Hội đồng quản trị - tất nhiên không phải chương trình nghị sự mà là của tất cả những người bạn thân yêu của ông. <span></span>
+Ban lãnh đạo Khoa Tiếng Anh gửi lời cảm ơn tới “sự phục vụ lâu dài và vô giá” của Tolkien khi ông nghỉ hưu. Tolkien bày tỏ lòng biết ơn tới Ban Giám đốc vì những điều khoản hết sức hào phóng. Ông cảm thấy họ miêu tả ông như một giáo sư vượt trội hơn nhiều so với vị giáo sư đã nghỉ hưu. Ông nói rằng thật là một niềm vui đặc biệt khi nhận được những lời khen ngợi và vinh danh không đáng có. Ông thậm chí còn bỏ lỡ các cuộc họp của Hội đồng quản trị - tất nhiên không phải chương trình nghị sự mà là của tất cả những người bạn thân yêu của ông. <span></span>
 
 ## Tài liệu tham khảo {#References}
 

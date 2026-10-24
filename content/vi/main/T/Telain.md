@@ -29,29 +29,29 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Soni_Alcorn-Hender_-_Lórien_Flets.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/4b/Soni_Alcorn-Hender_-_L%C3%B3rien_Flets.jpg/300px-Soni_Alcorn-Hender_-_L%C3%B3rien_Flets.jpg" decoding="async" loading="lazy" width="300" height="420" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/4/4b/Soni_Alcorn-Hender_-_L%C3%B3rien_Flets.jpg 1.5x" data-file-width="393" data-file-height="550"/></a><figcaption><a href="../S/Soni_Alcorn-Hender.md" title="Soni Alcorn-Hender">Soni Alcorn-Hender</a> - <i>Lórien Flets</i></figcaption></figure>
 
-**Telain** ([Sindarin](../S/Sindarin.md), số nhiều của *Talan*<sup id="cite_ref-UT_1-0" class="reference"><a href="#cite_note-UT-1">[1]</a></sup>), được biết đến ở [Westron](../W/Westron.md) với tên **flets**, là những bệ được xây dựng trên cây bởi [Galadhrim](../G/Galadhrim.md) [Yêu tinh](../E/Elves.md) của [Lothlórien](../L/Lothlórien.md).
+**Telain** ([Sindarin](../S/Sindarin.md), số nhiều của *Talan*<sup id="cite_ref-UT_1-0" class="reference"><a href="#cite_note-UT-1">[1]</a></sup>), được gọi trong [Westron](../W/Westron.md) là **flets**, là các nền tảng được xây dựng trên cây bởi [Galadhrim](../G/Galadhrim.md) [Tiên tộc](../E/Elves.md) của [Lothlórien](../L/Lothlórien.md).
 
 ## Lịch sử {#History}
 
-*Telain* được xây dựng trên cao những cây [Mallorn](../M/Mallorn.md), tạo thành trong không gian thân cây chia thành nhiều nhánh; chúng không có tường, thậm chí không có đường ray, nhưng những tấm màn di động được lắp đặt để chắn gió; chúng chỉ có thể tiếp cận được bằng thang dây *[hithlain](../H/Hithlain.md)* được hạ thấp. Chúng chủ yếu được sử dụng làm trạm gác và tháp canh xung quanh rìa [Lothlórien](../L/Lothlórien.md).<sup id="cite_ref-Loth_2-0" class="reference"><a href="#cite_note-Loth-2">[2]</a></sup>
+*Telain* được xây dựng trên những cây [Mallorn](../M/Mallorn.md) cao, tạo ở không gian thân cây chia thành nhiều nhánh; chúng không có tường, thậm chí không có đường ray, nhưng những tấm màn di động được lắp đặt để chắn gió; chúng chỉ có thể tiếp cận được bằng thang dây *[hithlain](../H/Hithlain.md)* được hạ thấp. Chúng chủ yếu được sử dụng làm trạm gác và tháp canh xung quanh rìa [Lothlórien](../L/Lothlórien.md).<sup id="cite_ref-Loth_2-0" class="reference"><a href="#cite_note-Loth-2">[2]</a></sup>
 
-Tuy nhiên, ở [Caras Galadhon](../C/Caras_Galadhon.md), *telain* phổ biến hơn và phục vụ nhiều chức năng nghi lễ hơn: chính trên một ngôi nhà được xây trên *talan* mà [Fellowship](../F/Fellowship_of_the_Ring.md) đã gặp [Galadriel](../G/Galadriel.md) và [Celeborn](../C/Celeborn.md).<sup id="cite_ref-Mirror_3-0" class="reference"><a href="#cite_note-Mirror-3">[3]</a></sup>
+Tuy nhiên, trong [Caras Galadhon](../C/Caras_Galadhon.md), *telain* phổ biến hơn và phục vụ nhiều chức năng nghi lễ hơn: chính trên một ngôi nhà được xây trên *talan* mà [Học bổng](../F/Fellowship_of_the_Ring.md) đã gặp [Galadriel](../G/Galadriel.md) và [Celeborn](../C/Celeborn.md).<sup id="cite_ref-Mirror_3-0" class="reference"><a href="#cite_note-Mirror-3">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
 *Flet* là một từ tiếng Anh cổ dùng để chỉ sàn nhà hoặc căn hộ.
 
-Từ [Sindarin](../S/Sindarin.md) *talan* hoặc *tâl* ("không gian phẳng, nền tảng"; xin vui lòng *telain*) là dạng hậu duệ của [Eldarin thông thường](../C/Common_Eldarin.md) *talam-*. Biểu mẫu [Quenya](../Q/Quenya.md) là *talma* hoặc *talan*, pl. *talami*.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Từ [Sindarin](../S/Sindarin.md) *talan* hoặc *tâl* ("không gian phẳng, nền tảng"; xin vui lòng *telain*) là dạng hậu duệ của [Common Eldarin](../C/Common_Eldarin.md) *talam-*. Biểu mẫu [Quenya](../Q/Quenya.md) là *talma* hoặc *talan*, xin vui lòng. *talami*.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2001: <i><a href="The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">Chúa tể của những chiếc nhẫn: Hiệp hội những chiếc nhẫn</a></i>:</b>
+<b>2001: <i><a href="The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i>:</b>
 
 <dl><dd><i>Telain</i> were retained in the film, although there were no moveable plaited screens or rope-ladders visible. In <i><a href="The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i> the meeting with <a href="../G/Galadriel.md" title="Galadriel">Galadriel</a> and <a href="../C/Celeborn.md" title="Celeborn">Celeborn</a> took place inside a large hall built on a <i>talan</i>,<sup id="cite_ref-Mirror_3-1" class="reference"><a href="#cite_note-Mirror-3">[3]</a></sup> whereas in the film it took place on an open <i>talan</i>.</dd></dl>
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Caras_Galadhon2.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/f7/The_Lord_of_the_Rings_Online_-_Caras_Galadhon2.jpg/250px-The_Lord_of_the_Rings_Online_-_Caras_Galadhon2.jpg" decoding="async" loading="lazy" width="250" height="141" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f7/The_Lord_of_the_Rings_Online_-_Caras_Galadhon2.jpg/375px-The_Lord_of_the_Rings_Online_-_Caras_Galadhon2.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/f/f7/The_Lord_of_the_Rings_Online_-_Caras_Galadhon2.jpg/500px-The_Lord_of_the_Rings_Online_-_Caras_Galadhon2.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>Telain of Caras Galadhon in <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-<b>2008: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
+<b>2008: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>All Telain outside of Caras Galadhon have open sides and perform mostly defensive function, although some are recreational. Within Caras Galadhon itself, the larger telain are enclosed from the outside, while the wooden platforms themselves still provide an open walkable area.</dd></dl>
 

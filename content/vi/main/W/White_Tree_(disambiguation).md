@@ -30,10 +30,10 @@ images:
 **Cây Trắng** có thể đề cập đến bất kỳ cây nào sau đây:
 
 - [Telperion](../T/Telperion.md), Cây Trắng của [Valinor](../V/Valinor.md), một trong [Hai Cây của Valinor](../T/Two_Trees_of_Valinor.md).
-- [Galathilion](../G/Galathilion.md), Cây trắng của [Tirion](../T/Tirion.md).
+- [Galathilion](../G/Galathilion.md), Cây Trắng của [Tirion](../T/Tirion.md).
 - [Celeborn](<../C/Celeborn_(White_Tree).md>), Cây Trắng của [Tol Eressëa](../T/Tol_Eressëa.md).
 - [Nimloth](../N/Nimloth_of_Númenor.md), Cây Trắng của [Númenor](../N/Númenor.md).
-- ** [Cây trắng Gondor](White_Tree_of_Gondor.md), bốn cây con khác nhau.**
+- ** [Cây Trắng của Gondor](White_Tree_of_Gondor.md), bốn cây con khác nhau.**
 
 - Nó cũng có thể đề cập đến [Quỹ Cây Trắng](../T/The_White_Tree_Fund.md), một tổ chức từ thiện.
 

@@ -17,22 +17,22 @@ categories:
 
 ## Lịch sử {#History}
 
-Trên đường đến [Minas Tirith](../M/Minas_Tirith.md) [Gandalf](../G/Gandalf.md) lẩm bẩm vài vần điệu bằng nhiều thứ tiếng. [Pippin](../P/Peregrin_Took.md) đã có thể rút ra được vài dòng về họ:
+Trên đường đi [Minas Tirith](../M/Minas_Tirith.md) [Gandalf](../G/Gandalf.md) lẩm bẩm vài vần điệu bằng nhiều thứ tiếng. [Pippin](../P/Peregrin_Took.md) đã có thể rút ra được vài dòng về họ:
 
 <blockquote class="tg-quote noexcerpt">
 <p>Tall ships and <a class="mw-redirect" href="../H/High_Men.md" title="High Men">tall kings</a><br/>Three times three,<br/>What brought they from the <a href="../N/Númenor.md" title="Númenor">foundered land</a> <br/>Over the <a href="../B/Belegaer.md" title="Belegaer">flowing sea</a>? <br/><a href="../S/Seven_Stars.md" title="Seven Stars">Seven stars</a> and <a href="../P/Palantíri.md" title="Palantíri">seven stones</a> <br/>And one <a class="mw-redirect mw-disambig" href="../W/White_Tree.md" title="White Tree">white tree</a>.
 </p>
 </blockquote>
 
-Khi Pippin hỏi về điều đó, Gandalf cho rằng [Người Hobbit](../H/Hobbits.md) có thể đã quên tất cả. Về vấn đề này, Pippin nói với anh rằng họ có những vần điệu riêng mà Gandalf có lẽ sẽ không muốn nghe,<sup id="cite_ref-gandalf_1-0" class="reference"><a href="#cite_note-gandalf-1">[1]</a></sup> chẳng hạn như [Vần điệu](../S/Samwise_Gamgee.md) của Sam trong <i><a class="mw-redirect mw-disambig" href="../O/Oliphaunt.md" title="Oliphaunt">Oliphaunt</a></i>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Sau đó, Gandalf giải thích rằng vần điệu đặc biệt này đề cập đến [Palantíri](../P/Palantíri.md) đã được tạo ra từ lâu bởi [Noldor](../N/Noldor.md), có thể là bởi chính [Fëanor](../F/Fëanor.md), và "*họ chỉ được nhớ đến trong một vần điệu truyền thuyết giữa [Dúnedain](../D/Dúnedain.md)*" của [Arnor](../A/Arnor.md).<sup id="cite_ref-gandalf_1-1" class="reference"><a href="#cite_note-gandalf-1">[1]</a></sup>
+Khi Pippin hỏi về điều đó, Gandalf cho rằng [Hobbit](../H/Hobbits.md) có thể đã quên hết. Về điều này, Pippin nói với ông rằng họ có những vần điệu riêng mà Gandalf có lẽ sẽ không muốn nghe,<sup id="cite_ref-gandalf_1-0" class="reference"><a href="#cite_note-gandalf-1">[1]</a></sup> chẳng hạn như vần điệu của [Sam](../S/Samwise_Gamgee.md) của <i><a class="mw-redirect mw-disambig" href="../O/Oliphaunt.md" title="Oliphaunt">Oliphaunt</a></i>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Sau đó, Gandalf giải thích rằng vần điệu cụ thể này đề cập đến [Palantíri](../P/Palantíri.md) rằng đã được tạo ra từ lâu bởi [Noldor](../N/Noldor.md), có thể bởi chính [Fëanor](../F/Fëanor.md) và "*chúng chỉ được nhớ đến trong một vần điệu truyền thuyết trong số [Dúnedain](../D/Dúnedain.md)*" của [Arnor](../A/Arnor.md).<sup id="cite_ref-gandalf_1-1" class="reference"><a href="#cite_note-gandalf-1">[1]</a></sup>
 
-[Danh sách dài các Ent](../L/Long_List_of_the_Ents.md) cũng có thể là một ví dụ về Vần truyền thuyết.<sup id="cite_ref-guide_3-0" class="reference"><a href="#cite_note-guide-3">[3]</a></sup>
+[Danh sách dài của Ent](../L/Long_List_of_the_Ents.md) cũng có thể là một ví dụ về Vần điệu truyền thuyết.<sup id="cite_ref-guide_3-0" class="reference"><a href="#cite_note-guide-3">[3]</a></sup>
 
 ## Cảm hứng {#Inspiration}
 
-Vần điệu mà Gandalf lẩm bẩm đã chạy qua tâm trí Tolkien một thời gian, thậm chí trước khi anh nghĩ đến *palantíri* hay "bảy viên đá" là gì. Cuối cùng, khi ông viết về [Lưỡi Giun](../W/Wormtongue.md) ném [Orthanc-stone](../O/Orthanc-stone.md), ông đã tạo ra sự kết nối.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Rhyme mà Gandalf lẩm bẩm đã chạy qua tâm trí Tolkien một thời gian, ngay cả trước khi anh nghĩ đến *palantíri* hay "bảy viên đá" là gì. Cuối cùng, khi ông viết về [Wormtongue](../W/Wormtongue.md) việc ném [Orthanc hòn đá](../O/Orthanc-stone.md), ông đã tạo ra sự kết nối.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
-[Robert Foster](Robert_Foster.md) đưa ra giả thuyết rằng Vần điệu truyền thuyết được thiết kế như một phương tiện giúp lưu giữ nhiều sự kiện cổ xưa khác nhau.<sup id="cite_ref-guide_3-1" class="reference"><a href="#cite_note-guide-3">[3]</a></sup> Chúng có thể so sánh với <a class="extiw" href="http://en.wikipedia.org/wiki/Gnomic_poetry#Medieval_and_early_modern_gnomic_literature" title="wikipedia:Gnomic poetry">Những câu thơ Gnomic</a> bảo tồn những ý tưởng quan trọng của xã hội Anglo-Saxon. Vần điệu của chúng khiến chúng dễ nhớ.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+[Robert Foster](Robert_Foster.md) đưa ra giả thuyết rằng Vần điệu truyền thuyết được thiết kế như một phương tiện hỗ trợ việc lưu giữ các sự kiện cổ xưa khác nhau.<sup id="cite_ref-guide_3-1" class="reference"><a href="#cite_note-guide-3">[3]</a></sup> Chúng có thể so sánh với <a class="extiw" href="http://en.wikipedia.org/wiki/Gnomic_poetry#Medieval_and_early_modern_gnomic_literature" title="wikipedia:Gnomic poetry">Những câu thơ Gnomic</a> bảo tồn những ý tưởng quan trọng của xã hội Anglo-Saxon. Vần điệu của chúng khiến chúng dễ nhớ.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 

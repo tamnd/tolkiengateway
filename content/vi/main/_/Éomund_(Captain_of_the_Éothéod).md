@@ -41,11 +41,11 @@ infobox:
 
 ## Lịch sử {#History}
 
-Trong [T.A.](../T/Third_Age.md) [2510](../T/Third_Age_2510.md), anh cưỡi ngựa cùng lãnh chúa [Eorl the Young](../E/Eorl.md) để trợ giúp [người Gondorian](../G/Gondor.md) trong [Trận chiến trên cánh đồng Celebrant](../B/Battle_of_the_Field_of_Celebrant.md). Sau chiến thắng trước [Balchoth](../B/Balchoth.md), Éomund đã chứng kiến ​​ [Lời thề](../O/Oath_of_Eorl.md) Eorl thề với [Cirion](../C/Cirion.md), [Quản gia Gondor](../S/Steward_of_Gondor.md), và giúp tổ chức [Rohan](../R/Rohan.md) mới thành lập.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Trong [T.A.](../T/Third_Age.md) [2510](../T/Third_Age_2510.md), ông ta cưỡi ngựa cùng lãnh chúa [Eorl the Young](../E/Eorl.md) của mình để trợ giúp [người Gondor](../G/Gondor.md) trong [Trận chiến trên Cánh đồng Celebrant](../B/Battle_of_the_Field_of_Celebrant.md). Sau chiến thắng trước [Balchoth](../B/Balchoth.md), Éomund đã chứng kiến ​​ [Lời Thề](../O/Oath_of_Eorl.md) Eorl thề với [Cirion](../C/Cirion.md), [Quản lý của Gondor](../S/Steward_of_Gondor.md), và giúp tổ chức [Rohan](../R/Rohan.md) mới thành lập.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Thành phần đầu tiên, *eoh*, là bản dịch tiếng Anh cổ được sử dụng thường xuyên của [tiếng Rohan](../R/Rohanese.md) *logo-*chính hãng, "(war)horse". Yếu tố thứ hai có nghĩa là “bảo vệ, bảo vệ”. <span></span>
+Phần tử đầu tiên, *eoh*, là bản dịch tiếng Anh cổ được sử dụng thường xuyên của [Rohanese](../R/Rohanese.md) *logo-*chính hãng, "(war)horse". Yếu tố thứ hai có nghĩa là “bảo vệ, bảo vệ”. <span></span>
 
 ## Tài liệu tham khảo {#References}
 

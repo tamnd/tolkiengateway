@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fell Winter (Third Age)"
 ---
 
-Chuyển hướng đến [Mùa đông (Tuổi thứ ba)](<Fell_Winter_(Third_Age).md>).
+Chuyển hướng tới [Mùa Đông Khắc Nghiệt (Kỷ Đệ Tam)](<Fell_Winter_(Third_Age).md>).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mithrim"
 ---
 
-Chuyển hướng tới [Mithrim](../M/Mithrim.md).
+Chuyển hướng đến [Mithrim](../M/Mithrim.md).

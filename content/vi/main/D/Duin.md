@@ -17,7 +17,7 @@ categories:
 
 ## Từ nguyên {#Etymology}
 
-*duin* bắt nguồn từ [Quần tiên chung](../C/Common_Elvish.md) *duinē* ("sông lớn, (có thể gây lũ lụt vùng đất xung quanh)"), từ [gốc](../S/Sundocarme.md) DUY (thân *dui-* "dòng chảy (về thể tích)").<sup id="cite_ref-HMN_1-1" class="reference"><a href="#cite_note-HMN-1">[1]</a></sup><sup id="cite_ref-VT48_2-0" class="reference"><a href="#cite_note-VT48-2">[2]</a></sup>
+*duin* bắt nguồn từ [Chung Elvish](../C/Common_Elvish.md) *duinē* ("sông lớn, (có thể gây lũ lụt vùng đất xung quanh)"), từ [gốc](../S/Sundocarme.md) DUY (thân *dui-* "dòng chảy (về thể tích)").<sup id="cite_ref-HMN_1-1" class="reference"><a href="#cite_note-HMN-1">[1]</a></sup><sup id="cite_ref-VT48_2-0" class="reference"><a href="#cite_note-VT48-2">[2]</a></sup>
 
 ## Ví dụ {#Examples}
 

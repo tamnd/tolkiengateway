@@ -14,7 +14,7 @@ sort_keys:
   "Tolkien Gateway": "Policy"
 ---
 
-Sau đây là một số hướng dẫn ngắn gọn về **chính sách** của [Tolkien Gateway](../../main/T/Tolkien_Gateway.md). Ý thức chung được coi là đương nhiên. [người dùng](../G/Gatekeepers.md) bỏ qua chính sách này sẽ phải đối mặt với [chặn](../B/Blocking_policy.md) tạm thời hoặc vô thời hạn.
+Dưới đây là một số hướng dẫn ngắn gọn về **chính sách** của [Tolkien Gateway](../../main/T/Tolkien_Gateway.md). Ý thức chung được coi là đương nhiên. [người dùng](../G/Gatekeepers.md) bỏ qua chính sách này sẽ phải đối mặt với [chặn](../B/Blocking_policy.md) tạm thời hoặc vô thời hạn.
 
 ## Hướng dẫn chung {#General_guidelines}
 

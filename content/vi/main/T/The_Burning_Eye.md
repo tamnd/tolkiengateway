@@ -24,23 +24,23 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Video game</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Burning Eye</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Details</span></th></tr><tr><th scope="row" class="tg-infobox-label">Platform</th><td class="tg-infobox-data">On-line (Telnet)</td></tr><tr><th scope="row" class="tg-infobox-label">Release Date</th><td class="tg-infobox-data"><a href="../_/1997.md" title="1997">1997</a></td></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data"><a class="extiw" href="http://en.wikipedia.org/wiki/Multi-User_Dungeon" title="wikipedia:Multi-User Dungeon">MUD</a></td></tr></tbody></table>
 
-**Con mắt cháy** là một [MUD](../M/MUDs.md). Nó mở ra vào [1997](../_/1997.md) và lấy bối cảnh ở [Trung Địa](../M/Middle-earth.md) vào [Thời đại thứ ba](Third_Age.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-official_2-0" class="reference"><a href="#cite_note-official-2">[2]</a></sup> Bùn có hơn 300 kỹ năng, 12 chủng tộc và 10 lớp.<sup id="cite_ref-official_2-1" class="reference"><a href="#cite_note-official-2">[2]</a></sup>
+**Con mắt cháy** là một [MUD](../M/MUDs.md). Nó mở ra vào [1997](../_/1997.md) và lấy bối cảnh ở [Trung Địa](../M/Middle-earth.md) tại [Kỷ Đệ Tam](Third_Age.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-official_2-0" class="reference"><a href="#cite_note-official-2">[2]</a></sup> Bùn có hơn 300 kỹ năng, 12 chủng tộc và 10 lớp.<sup id="cite_ref-official_2-1" class="reference"><a href="#cite_note-official-2">[2]</a></sup>
 
 ## Các cuộc đua {#Races}
 
 Burning Eye có mười hai chủng tộc, trong đó có tám thiện và bốn ác.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-- [Yêu tinh Avari](../A/Avari.md)
-- [Đang chào đời](../B/Beornings.md)
+- [Avari Tiên](../A/Avari.md)
+- [Sáng sớm](../B/Beornings.md)
 - [Dúnedain](../D/Dúnedain.md)
 - [Người lùn](../D/Dwarves.md)
-- [Nửa Orc](../H/Half_Orcs.md)
+- [Một nửa Orc](../H/Half_Orcs.md)
 - [Nửa quỷ lùn](../H/Half-trolls.md)
 - [Hobbit](../H/Hobbits.md)
 - [Con người](../M/Men.md)
-- [Yêu tinh Noldor](../N/Noldor.md)
+- [Noldor Tiên](../N/Noldor.md)
 - [Olog-Hai](../O/Olog-hai.md)
-- [Yêu tinh Teleri](Teleri.md)
+- [Teleri Tiên](Teleri.md)
 - [Uruk-Hai](../U/Uruk-hai.md)
 
 ## Lớp {#Classes}

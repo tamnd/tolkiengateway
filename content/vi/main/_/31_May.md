@@ -67,11 +67,11 @@ Sự kiện xảy ra vào ngày 31 tháng 5.
 - **[1944](1944.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 72](../L/Letter_72.md).
 - **[1981](1981.md)** - Tập thứ mười ba của [bản chuyển thể phát thanh năm 1981](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* được phát sóng trên [BBC Radio 4](../B/BBC.md).
 - **[2018](2018.md)** - *[The Hobbit Facsimile Gift Edition](../T/The_Hobbit_Facsimile_Gift_Edition.md)* được xuất bản ở <a class="extiw" href="http://en.wikipedia.org/wiki/United_Kingdom" title="wikipedia:United Kingdom">Vương quốc Anh</a>.
-- **[2025](2025.md)** - Sau 12 năm đảm nhiệm vai trò này, [Shaun Gunner](../S/Shaun_Gunner.md) từ chức Chủ tịch [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) để trở thành Giám đốc điều hành đầu tiên của tổ chức này. Ông được [Daniel Helen](../D/Daniel_Helen.md) kế nhiệm làm Quyền Chủ tịch.<sup id="cite_ref-CEO_1-0" class="reference"><a href="#cite_note-CEO-1">[1]</a></sup>
+- **[2025](2025.md)** - Sau 12 năm đảm nhiệm chức vụ này, [Shaun Gunner](../S/Shaun_Gunner.md) thôi giữ chức Chủ tịch của [Hội Tolkien](../T/The_Tolkien_Society.md) để trở thành Giám đốc điều hành đầu tiên của công ty. Ông được [Daniel Helen](../D/Daniel_Helen.md) kế nhiệm làm Quyền Chủ tịch.<sup id="cite_ref-CEO_1-0" class="reference"><a href="#cite_note-CEO-1">[1]</a></sup>
 
 ## Trong Arda {#In_Arda}
 
-*Lưu ý: Các tháng trong [Lịch Shire](../S/Shire_Calendar.md) chỉ có 30 ngày nên không có sự kiện nào và sẽ không diễn ra vào ngày 31.*<span></span>
+*Lưu ý: Tháng [Lịch Shire](../S/Shire_Calendar.md) chỉ có 30 ngày nên không có sự kiện nào và sẽ không xảy ra vào ngày 31.*<span></span>
 
 ## Tài liệu tham khảo {#References}
 

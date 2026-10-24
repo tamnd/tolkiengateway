@@ -68,12 +68,12 @@ Sự kiện xảy ra vào ngày 10 tháng 2.
 
 - **[1922](1922.md)** - [Árpád Göncz](Árpád_Göncz.md), dịch giả và cựu Tổng thống Hungary, ra đời.
 - **[1939](1939.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 36](../L/Letter_36.md).
-- **[1946](1946.md)** - [John Tolkien](../J/John_Tolkien.md) được trao chức linh mục.
+- **[1946](1946.md)** - [John Tolkien](../J/John_Tolkien.md) được truyền chức linh mục.
 - **[1952](1952.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 132](../L/Letter_132.md).
 - **[1966](1966.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư cho Donald A. Wollheim](../L/Letter_to_Donald_A._Wollheim.md).
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - Nhóm [Hiệp hội chiếc nhẫn](../F/Fellowship_of_the_Ring.md) nằm ở [Lothlórien](../L/Lothlórien.md).
-    - Phía bắc [Sarn Gebir](../S/Sarn_Gebir.md), [Uglúk](../U/Uglúk.md) chạm trán [Grishnákh](../G/Grishnákh.md) lần đầu tiên.
+    - [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) nằm trong [Lothlórien](../L/Lothlórien.md).
+    - Bắc [Sarn Gebir](../S/Sarn_Gebir.md), [Uglúk](../U/Uglúk.md) chạm trán [Grishnákh](../G/Grishnákh.md) lần đầu tiên.

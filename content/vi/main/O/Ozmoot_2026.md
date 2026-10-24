@@ -21,7 +21,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Ozmoot 2026</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Convention Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">Holt Neighbourhood Hall, Holt, Canberra, ACT, Australia [<a class="external text" href="https://www.westoncccentre.org.au/room-hire/holt-neighbourhood-hall/" rel="noreferrer noopener" target="_blank">Details</a>] and Online</td></tr><tr><th scope="row" class="tg-infobox-label">Organizer</th><td class="tg-infobox-data"><a href="../H/Hern_Ennorath.md" title="Hern Ennorath">Hern Ennorath</a></td></tr><tr><th scope="row" class="tg-infobox-label">Dates</th><td class="tg-infobox-data"><a href="../_/24_January.md" title="24 January">24 January</a> - <a href="../_/26_January.md" title="26 January">26 January</a> <a href="../_/2026.md" title="2026">2026</a></td></tr></tbody></table>
 
-**Ozmoot 2026** là hội nghị thường niên lần thứ tư ở Úc dành cho những người hâm mộ các tác phẩm của J.R.R. Tolkien và mọi thứ ở Trung Địa. Đây là một sự kiện kết hợp có cả sự tham gia trực tiếp và trực tuyến. Hiệp hội Tolkien Úc [Hern Ennorath](../H/Hern_Ennorath.md) là sự tôn vinh của [Hiệp hội Tolkien](../T/Tolkien_Society.md). Sự kiện phi lợi nhuận này được hỗ trợ bởi Đại học Signum và Giáo sư Tolkien [Corey Olsen](../C/Corey_Olsen.md) sẽ trực tiếp tham dự.
+**Ozmoot 2026** là hội nghị thường niên lần thứ tư tại Úc dành cho những người hâm mộ các tác phẩm J.R.R. Tolkien và mọi thứ Trung Địa. Đây là một sự kiện kết hợp có cả sự tham gia trực tiếp và trực tuyến. Hiệp hội Tolkien Úc ​​ [Hern Ennorath](../H/Hern_Ennorath.md) là một lời khen ngợi của Hiệp hội [Tolkien](../T/Tolkien_Society.md). Sự kiện phi lợi nhuận này được hỗ trợ bởi Đại học Signum và Tolkien Giáo sư [Corey Olsen](../C/Corey_Olsen.md) sẽ trực tiếp tham dự.
 
 ### Chủ đề {#Theme}
 
@@ -33,9 +33,9 @@ Hội nghị kéo dài ba ngày là sự hợp tác giữa Đại học Signum v
 
 Chúng tôi có đầy đủ chương trình trò chuyện và thuyết trình âm nhạc.
 
-Đây sẽ là một bữa tiệc hoành tráng đặc biệt với rất nhiều tình bạn, trong đó có Giáo sư về Sự vĩ đại Đặc biệt của Tolkien - Corey Olsen!
+Đây sẽ là một bữa tiệc hoành tráng đặc biệt với rất nhiều tình bạn, trong đó có Tolkien Giáo sư về Sự xuất sắc đặc biệt của chúng tôi - Corey Olsen!
 
-Ngoài ra còn có một câu đố đố, một bữa tiệc thời Trung cổ ở Trung Địa, một cuộc diễu hành hóa trang, một buổi biểu diễn âm nhạc lấy cảm hứng từ Trung Địa của dàn hợp xướng 22 người, Morris Dancing, một chuyến du ngoạn trên Hồ Evendim (Hồ Burley Griffin) của chúng ta, sau đó là một buổi dã ngoại tại lâu đài, một khu chợ bao gồm bán sách, trưng bày sưu tập, trình diễn mặt bàn và trò chơi trực tuyến cũng như những chiếc cốc thời Trung Cổ.
+Ngoài ra còn có một câu đố đố vui, một bữa tiệc thời Trung cổ ở Trung Địa, một cuộc diễu hành hóa trang, buổi biểu diễn âm nhạc lấy cảm hứng từ Trung Địa của dàn hợp xướng 22 người, Morris Dancing, một chuyến du ngoạn trên biển Hồ Evendim của riêng chúng tôi (Hồ Burley Griffin), sau đó là một buổi dã ngoại tại lâu đài, một khu chợ bao gồm bán sách, trưng bày sưu tập, trình diễn mặt bàn và trò chơi trực tuyến cũng như cốc đựng thời Trung cổ.
 
 ## Thông tin và đăng ký {#Information_and_registration}
 
@@ -44,4 +44,4 @@ Ngoài ra còn có một câu đố đố, một bữa tiệc thời Trung cổ 
 ## Liên kết ngoài {#External_links}
 
 - <a class="external text" href="https://www.tolkienfellowshipaustralia.com/" rel="noreferrer noopener" target="_blank">Trang web Hern Ennorath</a>
-- <a class="external text" href="https://www.facebook.com/CanberraTolkienFellowship/" rel="noreferrer noopener" target="_blank">Trang Facebook của Học bổng Canberra Tolkien</a>
+- <a class="external text" href="https://www.facebook.com/CanberraTolkienFellowship/" rel="noreferrer noopener" target="_blank">Canberra Tolkien Trang Facebook học bổng</a>

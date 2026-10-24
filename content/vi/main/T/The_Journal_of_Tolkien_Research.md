@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Journal of Tolkien Research"
 ---
 
-Chuyển hướng tới [Tạp chí Nghiên cứu Tolkien](../J/Journal_of_Tolkien_Research.md).
+Chuyển hướng đến [Journal of Tolkien Research](../J/Journal_of_Tolkien_Research.md).

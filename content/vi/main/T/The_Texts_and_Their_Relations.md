@@ -37,14 +37,14 @@ categories:
 
 ## Tóm tắt {#Synopsis}
 
-[Christopher Tolkien](../C/Christopher_Tolkien.md) ở đây mô tả mối quan hệ giữa các văn bản được xuất bản trong các tập trước của *[The History of Middle-earth](The_History_of_Middle-earth.md)* (đặc biệt là trong *[The Shaping of Middle-earth](The_Shaping_of_Middle-earth.md)*) và những văn bản được trình bày trong phần này, cho thấy trạng thái của [huyền thoại](../L/Legendarium.md) vào thời điểm bản thảo đầu tiên của *[The Lord of the Rings](The_Lord_of_the_Rings.md)* vừa được viết.
+[Christopher Tolkien](../C/Christopher_Tolkien.md) ở đây mô tả mối quan hệ giữa các văn bản được xuất bản trong các tập trước của *[The History of Middle-earth](The_History_of_Middle-earth.md)* (đặc biệt là trong *[The Shaping of Middle-earth](The_Shaping_of_Middle-earth.md)*) và những văn bản được trình bày trong phần này, cho thấy trạng thái [huyền thoại](../L/Legendarium.md) vào thời điểm bản thảo đầu tiên của *[The Lord of the Rings](The_Lord_of_the_Rings.md)* vừa được viết.
 
-1. *[Ainulindalë](<../A/Ainulindalë_(Lost_Road).md>)*, phần kể lại mới về [Câu chuyện đã mất](The_Book_of_Lost_Tales_Part_One.md) của "[Âm nhạc của người Ainur](The_Music_of_the_Ainur.md)" dưới dạng một tác phẩm riêng biệt.
-2. *[The Later Annals of Valinor](The_Later_Annals_of_Valinor.md)*, phiên bản mới của "[Biên niên sử sớm nhất của Valinor](The_Earliest_Annals_of_Valinor.md)".
+1. *[Ainulindalë](<../A/Ainulindalë_(Lost_Road).md>)*, phần kể lại mới về [Lost Tale](The_Book_of_Lost_Tales_Part_One.md) của "[The Âm nhạc của các Ainur](The_Music_of_the_Ainur.md)" dưới dạng một tác phẩm riêng biệt.
+2. *[The Later Annals of Valinor](The_Later_Annals_of_Valinor.md)*, phiên bản mới của "[Biên niên sử sớm nhất về Valinor](The_Earliest_Annals_of_Valinor.md)".
 3. *[The Later Annals of Beleriand](The_Later_Annals_of_Beleriand.md)*, phiên bản mới của "[Biên niên sử sớm nhất của Beleriand](The_Earliest_Annals_of_Beleriand.md)", có hai phiên bản.
-4. *[The Lhammas](The_Lhammas.md)*, có liên quan chặt chẽ đến thành phần của *Quenta Silmarillion* có tên bên dưới.
-5. *[Quenta Silmarillion](<../Q/Quenta_Silmarillion_(Lost_Road).md>)*, phiên bản mới của "[Quenta Noldorinwa](../Q/Quenta_Noldorinwa.md)" đã được gửi chưa hoàn thiện tới [George Allen & Unwin](../G/George_Allen_&_Unwin.md) như một phần của "The Gnomes Material".
+4. *[The Lhammas](The_Lhammas.md)*, có liên quan chặt chẽ đến thành phần của *Quenta Silmarillion* có tên dưới đây.
+5. *[Quenta Silmarillion](<../Q/Quenta_Silmarillion_(Lost_Road).md>)*, phiên bản mới của "[Quenta Noldorinwa](../Q/Quenta_Noldorinwa.md)" đã được gửi chưa hoàn thiện tới [George Allen &amp; Unwin](../G/George_Allen_&_Unwin.md) như một phần của "Tài liệu Gnomes".
 
-Nhóm tác phẩm này dường như là một dấu ấn rõ ràng về sự phát triển của truyền thuyết, và Christopher giải thích rằng giờ đây anh chắc chắn rằng *[Ambarkanta](../A/Ambarkanta.md)* thuộc về giai đoạn này, mặc dù trước đó anh đã nói rằng không có cách nào để biết liệu nó được sáng tác trước hay sau "Biên niên sử sớm nhất của Valinor".
+Nhóm tác phẩm này dường như là một dấu ấn rõ ràng về sự phát triển của truyền thuyết, và Christopher giải thích rằng bây giờ ông chắc chắn rằng *[Ambarkanta](../A/Ambarkanta.md)* thuộc về giai đoạn này, mặc dù trước đó ông đã nói rằng không có cách nào để biết liệu nó được sáng tác trước hay sau "Biên niên sử sớm nhất của Valinor".
 
-Mặc dù Tolkien chưa hoàn thành từng tác phẩm của mình nhưng Christopher đề xuất một thứ tự sáng tác: *Later Annals of Beleriand*, *Later Annals of Valinor*, *Lhammas*, *Quenta Silmarillion*; *Ambarkanta* ở bất kỳ mức độ nào sau *Annals of Beleriand*, *Ainulindalë* trước *Quenta Silmarillion* và *[The Fall of Númenor (chapter)](<The_Fall_of_Númenor_(chapter).md>)* muộn hơn *Ambarkanta*.
+Mặc dù Tolkien chưa hoàn thành từng tác phẩm một nhưng Christopher đề xuất thứ tự sáng tác: *Later Annals of Beleriand*, *Later Annals of Valinor*, *Lhammas*, *Quenta Silmarillion*; *Ambarkanta* ở bất kỳ mức độ nào sau *Annals of Beleriand*, *Ainulindalë* trước *Quenta Silmarillion* và *[The Fall of Númenor (chapter)](<The_Fall_of_Númenor_(chapter).md>)* muộn hơn *Ambarkanta*.

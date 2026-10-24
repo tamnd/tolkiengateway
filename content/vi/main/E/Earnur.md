@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Eärnur"
 ---
 
-Chuyển hướng tới [Eärnur](Eärnur.md).
+Chuyển hướng đến [Eärnur](Eärnur.md).

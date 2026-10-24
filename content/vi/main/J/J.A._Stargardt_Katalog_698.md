@@ -30,11 +30,11 @@ infobox:
 
 <i><b>J.A. Stargardt Katalog 698 5. und 6. Juni 2012</b></i> là một danh mục đấu giá từ nhà buôn chữ ký và bản thảo của Đức J.A. Stargardt.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Danh mục này bao gồm các lô liên quan đến Tolkien sau:
 
-- lô 274 (tr. 153): thư từ Tolkien gửi [Hans-Jörg Modlmayr](../H/Hans-Jörg_Modlmayr.md):
+- lô 274 (tr. 153): các lá thư từ Tolkien đến [Hans-Jörg Modlmayr](../H/Hans-Jörg_Modlmayr.md):
     - [Thư gửi Hans-Jörg Modlmayr (ngày 1 tháng 3 năm 1967)](<../L/Letter_to_Hans-Jörg_Modlmayr_(1_March_1967).md>)
     - [Thư gửi Hans-Jörg Modlmayr (16 tháng 3 năm 1967)](<../L/Letter_to_Hans-Jörg_Modlmayr_(16_March_1967).md>)
     - [Thư gửi Hans-Jörg Modlmayr (ngày 7 tháng 12 năm 1967)](<../L/Letter_to_Hans-Jörg_Modlmayr_(7_December_1967).md>)
-- lô 275 (tr. 154): ký tên và ghi ("J.R.R. Tolkien. / Gửi Hans Jörg & Hildegard Modlmayr: với lòng biết ơn / và / những lời chúc tốt đẹp nhất. Ngày 15 tháng 3 năm 1967") bản sao của *[Tree and Leaf](../T/Tree_and_Leaf.md)* (Allen & Unwin [1964](../_/1964.md)).
+- lô 275 (tr. 154): ký tên và ghi ("J.R.R. Tolkien. / Gửi Hans Jörg & Hildegard Modlmayr: với lòng biết ơn / và / những lời chúc tốt đẹp nhất. Ngày 15 tháng 3 năm 1967") bản sao của *[Tree and Leaf](../T/Tree_and_Leaf.md)* (Allen &amp; Unwin [1964](../_/1964.md)).
 
 ## Liên kết ngoài {#External_links}
 

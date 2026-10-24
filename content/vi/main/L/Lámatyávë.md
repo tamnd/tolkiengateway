@@ -22,9 +22,9 @@ langlinks:
     url: "https://kontu.wiki/L%C3%A1maty%C3%A1v%C3%AB"
 ---
 
-**Lámatyávë** (pl. **lámatyáver**) là một danh từ trong [Quenya](../Q/Quenya.md) dùng để chỉ <a class="extiw" href="http://en.wikipedia.org/wiki/Phonaesthetics" title="wikipedia:Phonaesthetics">phonaesthesia</a> của [Yêu tinh](../E/Elves.md). Nó có nghĩa là "vị âm thanh" và đề cập đến niềm vui của cá nhân đối với âm thanh và hình thức của từ ngữ.
+**Lámatyávë** (pl. **lámatyáver**) là một danh từ trong [Quenya](../Q/Quenya.md) dùng để chỉ <a class="extiw" href="http://en.wikipedia.org/wiki/Phonaesthetics" title="wikipedia:Phonaesthetics">phonaesthesia</a> của [Tiên tộc](../E/Elves.md). Nó có nghĩa là "vị âm thanh" và đề cập đến niềm vui của cá nhân đối với âm thanh và hình thức của từ ngữ.
 
-Lámatyávë được thực hành khi Yêu tinh [đặt tên cho con cái của họ](../E/Essë.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Lámatyávë được thực hành khi Tiên tộc [đặt tên cho con cái](../E/Essë.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -38,9 +38,9 @@ Lámatyávë được thực hành khi Yêu tinh [đặt tên cho con cái của
 <p class="tg-quote-footer"><cite>J.R.R. Tolkien<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-Hương vị âm thanh là một yếu tố quan trọng trong tên và ngôn ngữ do [Tolkien](../T/Tolkien.md) tạo ra và nói cách rộng hơn là [huyền thoại](Legendarium.md) của ông. Lần tiếp xúc đầu tiên với [tiếng Wales](../W/Welsh.md) đã "xuyên thấu trái tim ngôn ngữ của ông"<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> [Tiếng Phần Lan](../F/Finnish.md) đối với ông giống như "những chai rượu vang tuyệt vời thuộc loại có hương vị chưa từng được nếm trước đây" khiến ông "khá say".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Hai ngôn ngữ này là nền tảng cho các ngôn ngữ [Elvish](../E/Elvish.md) chính của ông, [tiếng Sindarin](../S/Sindarin.md) và [Quenya](../Q/Quenya.md).
+Hương vị âm thanh là một yếu tố quan trọng trong tên và ngôn ngữ được tạo ra của [Tolkien](../T/Tolkien.md) và nói rộng ra là [huyền thoại](Legendarium.md) của ông. Lần tiếp xúc đầu tiên với [tiếng Wales](../W/Welsh.md) ngôn ngữ<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> [Phần Lan](../F/Finnish.md) đối với anh giống như "những chai rượu vang tuyệt vời có hương vị chưa từng được nếm trước đây" khiến anh "khá say".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Hai ngôn ngữ này là nền tảng cho các ngôn ngữ [Elvish](../E/Elvish.md) chính của anh, [Sindarin](../S/Sindarin.md) và [Quenya](../Q/Quenya.md).
 
-Xuyên suốt tác phẩm của mình, Tolkien nhấn mạnh vào việc các nhân vật nghe thấy [ngôn ngữ Yêu tinh](../E/Elvish.md) đẹp đẽ như thế nào; ông muốn chúng phải đặc biệt "dễ chịu".<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Xuyên suốt tác phẩm của mình, Tolkien nhấn mạnh vào cách các nhân vật nghe thấy [Tiên ngôn ngữ](../E/Elvish.md) đẹp đẽ như thế nào; ông muốn chúng phải đặc biệt "dễ chịu".<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 ## Xem thêm {#See_also}
 

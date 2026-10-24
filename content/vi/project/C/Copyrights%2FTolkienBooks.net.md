@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "TolkienBooks.net"
 ---
 
-- <a class="external text" href="http://www.tolkienbooks.net/" rel="noreferrer noopener" target="_blank">TolkienBooks.net</a> đã vui lòng cấp phép sử dụng tài liệu từ trang web của mình trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
+- <a class="external text" href="http://www.tolkienbooks.net/" rel="noreferrer noopener" target="_blank">TolkienBooks.net</a> đã vui lòng cấp phép sử dụng tài liệu từ trang web của mình trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Ngày: 8 tháng 7 năm 2012
 - Người dùng đã xin phép qua email: [Người dùng:Morgan](https://tolkiengateway.net/wiki/User:Morgan)

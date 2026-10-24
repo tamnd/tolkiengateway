@@ -34,7 +34,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien cho biết đã cố gắng hoàn thành cuốn sách của mình một cách nghiêm túc, thức khuya, đọc lại và nghiên cứu. Đó là một "công việc khó khăn" khi tập lại thói quen. Ông đã quay lại viết về cuộc phiêu lưu của [Sam](../S/Samwise_Gamgee.md) và [Frodo](../F/Frodo_Baggins.md), và đã đi đến điểm gặp nhau của họ [Gollum](../G/Gollum.md) trên một vách núi. Tolkien khen ngợi [con trai](../C/Christopher_Tolkien.md) của mình về tất cả công việc mà cậu ấy đã bỏ ra để đánh máy và viết các chương, đồng thời ước gì cậu ấy vẫn có được sự phục vụ của mình. <br>
+Tolkien cho biết đang cố gắng hoàn thành cuốn sách của mình một cách nghiêm túc, thức khuya, đọc lại và nghiên cứu. Đó là một "công việc khó khăn" khi tập lại thói quen. Ông đã quay lại viết những cuộc phiêu lưu của [Sam](../S/Samwise_Gamgee.md) và [Frodo](../F/Frodo_Baggins.md), và đã đi đến điểm gặp nhau [Gollum](../G/Gollum.md) trên một vách núi. Tolkien khen ngợi [con trai](../C/Christopher_Tolkien.md) của mình về tất cả công việc mà cậu ấy đã bỏ ra để đánh máy và viết các chương và ước gì cậu ấy vẫn có được sự phục vụ của mình. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

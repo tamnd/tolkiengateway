@@ -15,7 +15,7 @@ sort_keys:
   "Quenya nouns": "Nen"
 ---
 
-<i><b>Nén</b></i> (nen-) là [Quenya](../Q/Quenya.md) có nghĩa là "nước".<sup id="cite_ref-etym_1-0" class="reference"><a href="#cite_note-etym-1">[1]</a></sup>
+<i><b>Nén</b></i> (nen-) là [Quenya](../Q/Quenya.md) cho "nước".<sup id="cite_ref-etym_1-0" class="reference"><a href="#cite_note-etym-1">[1]</a></sup>
 
 Xem thêm [root](../R/Root.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=NENE&amp;action=edit&amp;redlink=1" title="NENE (page does not exist)">NENE</a>, [Sindarin](../S/Sindarin.md) *[nen](Nen.md)*.
 
@@ -27,7 +27,7 @@ Xem thêm [root](../R/Root.md) <a class="new" href="https://tolkiengateway.net/w
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong [Qenya](../Q/Qenya.md) trước đó, từ *[nen](<Nen_(river_in_Valinor).md>)* (với *e* viết tắt) có nghĩa là "sông, nước".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Trong [Qenya](../Q/Qenya.md) trước, từ *[nen](<Nen_(river_in_Valinor).md>)* (với *e* viết tắt) có nghĩa là "sông, nước".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

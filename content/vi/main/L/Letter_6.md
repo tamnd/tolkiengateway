@@ -30,15 +30,15 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><i><a href="../T/The_Letters_of_J.R.R._Tolkien.md" title="The Letters of J.R.R. Tolkien">The Letters of J.R.R. Tolkien</a></i></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Letter 6</span></th></tr><tr><th scope="row" class="tg-infobox-label">Recipient</th><td class="tg-infobox-data"><a href="../E/Elizabeth_Mary_Wright.md" title="Elizabeth Mary Wright">Mrs. E. M. Wright</a></td></tr><tr><th scope="row" class="tg-infobox-label">Date</th><td class="tg-infobox-data"><a href="../_/13_February.md" title="13 February">13 February</a> <a href="../_/1923.md" title="1923">1923</a></td></tr><tr><th scope="row" class="tg-infobox-label">Subject(s)</th><td class="tg-infobox-data">Thanks for an off print, measles in the household</td></tr></tbody></table>
 
-**Thư 6** là bức thư được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và đăng trên *[The Letters of J.R.R. Tolkien](../T/The_Letters_of_J.R.R._Tolkien.md)*.
+**Thư 6** là một bức thư được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và đăng trên *[The Letters of J.R.R. Tolkien](../T/The_Letters_of_J.R.R._Tolkien.md)*.
 
 ## Nền {#Background}
 
-[Joseph Wright](../J/Joseph_Wright.md), cựu Giáo sư ngữ văn của Tolkien, đã viết một bài báo về <i><a class="mw-redirect mw-disambig" href="../S/Sir_Gawain_and_the_Green_Knight.md" title="Sir Gawain and the Green Knight">Sir Gawain và Hiệp sĩ xanh</a></i>. [Vợ ông](../E/Elizabeth_Mary_Wright.md) đã gửi cho Tolkien một bản in của bài báo đó.
+[Joseph Wright](../J/Joseph_Wright.md), cựu Giáo sư ngữ văn của Tolkien, đã viết một bài báo về <i><a class="mw-redirect mw-disambig" href="../S/Sir_Gawain_and_the_Green_Knight.md" title="Sir Gawain and the Green Knight">Ngài Gawain và Hiệp sĩ Xanh</a></i>. [Vợ ông ta](../E/Elizabeth_Mary_Wright.md) đã gửi Tolkien bản in của bài báo đó.
 
 ## Tóm tắt {#Summary}
 
-Tolkien thừa nhận sự xuất hiện của nó với lòng biết ơn và hỏi về chồng cô. Sau đó, anh kể về hoàn cảnh gia đình mình: [John](../J/John_Tolkien.md) và [Michael](../M/Michael_Tolkien.md) đầu tiên, sau đó là vợ anh và người bảo mẫu đã bị bệnh sởi gần hết tháng Giêng.
+Tolkien đón nhận nó với lòng biết ơn và hỏi thăm về chồng mình. Sau đó, ông kể về hoàn cảnh gia đình mình: [John](../J/John_Tolkien.md) và [Michael](../M/Michael_Tolkien.md) đầu tiên, sau đó là vợ và người bảo mẫu của ông đã bị bệnh sởi gần hết tháng Giêng.
 
 Trong phần tái bút, anh thông báo với cô rằng môn ngữ văn đang có tiến bộ ở [Đại học Leeds](../U/University_of_Leeds.md). <br>
 

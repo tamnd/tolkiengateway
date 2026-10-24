@@ -31,7 +31,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Terry Kevin Amthor</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Born</th><td class="tg-infobox-data"><a href="../_/18_October.md" title="18 October">18 October</a> <a href="../_/1958.md" title="1958">1958</a></td></tr><tr><th scope="row" class="tg-infobox-label">Died</th><td class="tg-infobox-data"><a href="../_/25_September.md" title="25 September">25 September</a> <a href="../_/2021.md" title="2021">2021</a></td></tr><tr><th scope="row" class="tg-infobox-label">Education</th><td class="tg-infobox-data">Architecture</td></tr><tr><th scope="row" class="tg-infobox-label">Occupation</th><td class="tg-infobox-data">Fantasy Author/Macintosh IT Manager/Spin Instructor</td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">Virginia, USA</td></tr></tbody></table>
 
-**Terry Kevin Amthor** ([18 tháng 10](../_/18_October.md) [1958](../_/1958.md) – [25 tháng 9](../_/25_September.md) [2021](../_/2021.md)) là một tác giả người Mỹ chuyên viết về trò chơi nhập vai. Vào [1980](../_/1980.md), ông là một trong những người sáng lập [Iron Crown Enterprises](../I/Iron_Crown_Enterprises.md). Mặc dù chủ yếu được biết đến với bối cảnh chiến dịch Thế giới bóng tối, nhưng ông cũng đã làm việc trên nhiều phần bổ sung cho [Nhập vai ở Trung Địa](../M/Middle-earth_Role_Playing.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Terry Kevin Amthor** ([18 tháng 10](../_/18_October.md) [1958](../_/1958.md) – [25 tháng Chín](../_/25_September.md) [2021](../_/2021.md)) là một tác giả chuyên viết game nhập vai người Mỹ. Ở [1980](../_/1980.md), ông là một trong những người sáng lập [Vương miện Sắt Enterprises](../I/Iron_Crown_Enterprises.md). Mặc dù chủ yếu được biết đến với Bóng Tối bối cảnh chiến dịch Thế giới, ông cũng đã làm việc trên nhiều phần bổ sung cho [Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Thư mục {#Bibliography}
 
@@ -48,7 +48,7 @@ Thư mục chọn lọc các tác phẩm liên quan đến di tích [J.R.R. Tolk
 - [1987](../_/1987.md): *[Rivendell: The House of Elrond](../R/Rivendell%253A_The_House_of_Elrond.md)*
 - [1988](../_/1988.md): *[A Spy In Isengard](../A/A_Spy_In_Isengard.md)*
 - [1988](../_/1988.md): *Iron Crown Quarterly*. "Halloween", Tập Một, Số Hai, 1988.
-    - "Cây chữa bệnh: Cuộc phiêu lưu ở Nam Mirkwood" \[trang. 4–6\]
+    - "Cây chữa bệnh: Cuộc phiêu lưu ở miền Nam Mirkwood" \[pp. 4–6\]
 - [1989](../_/1989.md): *[Lords of Middle-earth: Vol. III](../L/Lords_of_Middle-earth%253A_Vol._III.md)*
 - [1994](../_/1994.md): *[Elves (book)](<../E/Elves_(book).md>)*
 

@@ -15,12 +15,12 @@ sort_keys:
   "Sindarin nouns": "Cu"
 ---
 
-<i><b>cú</b></i> là từ [Sindarin](../S/Sindarin.md), có nghĩa là "cúi đầu".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>cú</b></i> là một từ [Sindarin](../S/Sindarin.md), có nghĩa là "cúi đầu".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Ví dụ {#Examples}
 
 - <i><a class="mw-redirect" href="Cúthalion.md" title="Cúthalion"><b>Cú</b>thalion</a></i> = "Strongbow"
-- <i><a href="../D/Dor-Cúarthol.md" title="Dor-Cúarthol">Dor-<b>Cú</b>arthol</a></i> = "Vùng đất của Cung và Mũ"
+- <i><a href="../D/Dor-Cúarthol.md" title="Dor-Cúarthol">Dor-<b>Cú</b>arthol</a></i> = "Vùng đất cung và Helm"
 - <i><a href="../L/Laer_Cú_Beleg.md" title="Laer Cú Beleg">Laer <b>Cú</b> Beleg</a></i> = "Bài hát của cây cung vĩ đại"
 
 <span></span>

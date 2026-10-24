@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ringló Vale"
 ---
 
-Chuyển hướng đến [Ringló Vale](Ringló_Vale.md).
+Chuyển hướng tới [Ringló Vale](Ringló_Vale.md).

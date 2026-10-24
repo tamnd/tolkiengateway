@@ -26,7 +26,7 @@ images:
 
 <figure class="mw-default-size mw-halign-right" typeof="mw:File"><a class="mw-file-description" href="../../file/W/Walking_Tree_Publishers.gif.md"><img src="https://tolkiengateway.net/w/images/e/ed/Walking_Tree_Publishers.gif" decoding="async" loading="lazy" width="111" height="172" class="mw-file-element" data-file-width="111" data-file-height="172"/></a><figcaption></figcaption></figure>
 
-**Nhà xuất bản Cây đi bộ** là công ty xuất bản của *[Eredain](../E/Eredain.md)*, [Hiệp hội Tolkien](../T/Tolkien_Societies~67099.md) của Thụy Sĩ. Nó xuất bản [Bộ truyện Cormarë](../C/Cormarë_Series.md) và Bộ truyện Tales of Yore.
+**Nhà xuất bản Cây đi bộ** là công ty xuất bản của *[Eredain](../E/Eredain.md)*, Hiệp hội [Tolkien Thụy Sĩ](../T/Tolkien_Societies~67099.md). Nó xuất bản [Bộ truyện Cormarë](../C/Cormarë_Series.md) và Bộ truyện Tales of Yore.
 
 ## Dòng Cormarë {#Cormarë_Series}
 
@@ -79,7 +79,7 @@ images:
 
 ## Loạt truyện cổ tích ngày xưa {#Tales_of_Yore_Series}
 
-Bộ truyện này là tập hợp các câu chuyện và câu chuyện lấy cảm hứng từ tác phẩm phụ của Tolkien.
+Bộ truyện này là tập hợp các câu chuyện và câu chuyện được lấy cảm hứng từ tác phẩm phụ của Tolkien.
 
 - [2000](../_/2000.md): *The Terror of Tatty Walk* của [Kay Woollard](../K/Kay_Woollard.md)
 - [2002](../_/2002.md): *Wilmot's Strange Stone* của Kay Woollard

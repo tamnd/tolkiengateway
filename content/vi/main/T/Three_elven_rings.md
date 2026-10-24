@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Three Rings"
 ---
 
-Chuyển hướng tới [Ba chiếc nhẫn](Three_Rings.md).
+Chuyển hướng đến [Ba Chiếc Nhẫn](Three_Rings.md).

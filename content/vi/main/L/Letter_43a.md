@@ -29,7 +29,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Trong bức thư gửi con trai [Michael](../M/Michael_Tolkien.md), J.R.R. Tolkien đưa ra lời khuyên về việc duy trì sự trung thực và chính trực trong các mối quan hệ lãng mạn. Ông nhấn mạnh tầm quan trọng của việc thẳng thắn và giải quyết sớm những xung đột tiềm ẩn thay vì dùng đến sự lừa dối. Tolkien khuyên rằng nên đối đầu công khai về các vấn đề nhỏ, như thói quen cá nhân hoặc tình bạn, hơn là trốn tránh vì nó ngăn ngừa những vấn đề lớn hơn trong tương lai. <br>
+Trong thư gửi con trai [Michael](../M/Michael_Tolkien.md), J.R.R. Tolkien đưa ra lời khuyên về việc giữ gìn sự trung thực và chính trực trong các mối quan hệ tình cảm. Ông nhấn mạnh tầm quan trọng của việc thẳng thắn và giải quyết sớm những xung đột tiềm ẩn thay vì dùng đến sự lừa dối. Tolkien khuyên rằng nên đối đầu công khai trong các vấn đề nhỏ, như thói quen cá nhân hoặc tình bạn, hơn là trốn tránh vì nó ngăn ngừa những vấn đề lớn hơn trong tương lai. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

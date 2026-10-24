@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Fellowship of the Ring"
 ---
 
-Chuyển hướng đến [Hiệp hội nhẫn](../T/The_Fellowship_of_the_Ring.md).
+Chuyển hướng đến [The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md).

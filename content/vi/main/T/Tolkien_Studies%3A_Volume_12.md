@@ -35,7 +35,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tolkien_Studies_12.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/63/Tolkien_Studies_12.jpg/317px-Tolkien_Studies_12.jpg" decoding="async" loading="lazy" width="317" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/63/Tolkien_Studies_12.jpg/475px-Tolkien_Studies_12.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/6/63/Tolkien_Studies_12.jpg/633px-Tolkien_Studies_12.jpg 2x" data-file-width="1820" data-file-height="2758"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Tolkien Studies: Volume 12</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../D/David_Bratman.md" title="David Bratman">David Bratman</a>, <a href="../M/Michael_D.C._Drout.md" title="Michael D.C. Drout">Michael D.C. Drout</a>, <a href="../V/Verlyn_Flieger.md" title="Verlyn Flieger">Verlyn Flieger</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">West Virginia University Press</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">December, <a href="../_/2015.md" title="2015">2015</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback; electronic</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">267</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">1547-3155</td></tr></tbody></table>
 
-<b><i>Nghiên cứu của Tolkien</i>: Tập 12</b>, xuất bản trong [2015](../_/2015.md), là tập thứ mười hai của tạp chí đánh giá hàng năm *[Tolkien Studies](<Tolkien_Studies_(journal).md>)*. Từ thời điểm này tạp chí được in bằng bìa mềm thay vì bìa cứng, cùng với đó là thiết kế bìa nổi bật hơn.
+<b><i>Tolkien Nghiên cứu</i>: Tập 12</b>, xuất bản trong [2015](../_/2015.md), là tập thứ mười hai của tổng kết hàng năm *[Tolkien Studies](<Tolkien_Studies_(journal).md>)*. Từ thời điểm này tạp chí được in bằng bìa mềm thay vì bìa cứng, cùng với đó là thiết kế bìa nổi bật hơn.
 
 Số này in lại cáo phó do J.R.R. Tolkien viết trong [1923](../_/1923.md), một đài tưởng niệm tiền bối Henry Bradley.
 
@@ -44,29 +44,29 @@ Số này in lại cáo phó do J.R.R. Tolkien viết trong [1923](../_/1923.md)
 ## Nội dung {#Contents}
 
 - Bài viết
-    - Kelley M. Wickham-Crowley, "'Tâm trí': Kịch Faërian của Tolkien và tiếng Anh trung cổ *[Sir Orfeo](<../S/Sir_Orfeo_(booklet).md>)"*
-    - Kris Swank, "Chuyến du hành đến thế giới khác của người Ireland tới [Roverandom](../R/Roverandom.md)"
-    - Simon Cook, "Hòa bình của Frodo: Nguồn gốc của thần thoại Anh"
+    - Kelley M. Wickham-Crowley, "'Mind to Mind': Kịch Faërian của Tolkien và tiếng Anh trung cổ *[Sir Orfeo](<../S/Sir_Orfeo_(booklet).md>)"*
+    - Kris Swank, "Chuyến du hành đến thế giới khác của người Ireland [Roverandom](../R/Roverandom.md)"
+    - Simon Cook, "Hòa bình của Frodo: Về nguồn gốc của thần thoại Anh"
     - Carrol Fry, "'Hai bản nhạc về ngai vàng của Ilúvatar': Thuyết nhị nguyên Ngộ đạo và Manichaean trong *[The Silmarillion](The_Silmarillion.md)*"
     - Alban Gautier, "Từ nỗi thất vọng trong mùa đông đến chiến thắng trong mùa xuân: Aragorn và Alfred, những tập phim song song?"
-    - Sherrylyn Branchaw, "Boromir: Kẻ phá vỡ tình bạn?"
+    - Sherrylyn Branchaw, "Boromir: Kẻ phá vỡ tình bằng hữu?"
 
 - Ghi chú và tài liệu
     - J.R.R. Tolkien, "Henry Bradley, 3 tháng 12 năm 1845-23 tháng 5 năm 1923," cáo phó dành cho người giám sát của ông tại *[Oxford English Dictionary](../O/Oxford_English_Dictionary.md)*, với lời bình luận của Tom Shippey và Peter Gilliver
 
 - Đánh giá sách
-    - *[Beowulf: A Translation and Commentary](../B/Beowulf%253A_A_Translation_and_Commentary.md) cùng với Sellic Spell*, bởi J.R.R. Tolkien, do Christopher Tolkien biên tập, Michael D.C. Drout đánh giá
-    - *[Những cuộc phiêu lưu của Tom Bombadil](The_Adventures_of_Tom_Bombadil.md) và những câu thơ khác trong Sách Đỏ*, của J.R.R. Tolkien, do Christina Scull và Wayne biên tập G. Hammond, được đánh giá bởi Richard C. West
+    - *[Beowulf: A Translation and Commentary](../B/Beowulf%253A_A_Translation_and_Commentary.md) cùng với Sellic Spell*, bởi J.R.R. Tolkien, được chỉnh sửa bởi Christopher Tolkien, được xem xét bởi Michael D.C. Drout
+    - *[The Adventures of Tom Bombadil](The_Adventures_of_Tom_Bombadil.md) và các câu khác từ Sách Đỏ*, bởi J.R.R. Tolkien, được chỉnh sửa bởi Christina Scull và Wayne G. Hammond, được đánh giá bởi Richard C. West
     - *[A Companion to J.R.R. Tolkien](../A/A_Companion_to_J.R.R._Tolkien.md)*, được chỉnh sửa bởi Stuart D. Lee, được đánh giá bởi Jorge Luis Bueno-Alonso
     - *[Tolkien: The Forest and the City](../J/J.R.R._Tolkien%253A_the_Forest_and_the_City.md)*, được chỉnh sửa bởi Helen Conrad-O'Briain và Gerard Hynes, được Patrick Curry đánh giá
     - *[Tolkien](<Tolkien_(2014_book).md>)*, của Raymond Edwards, được David Bratman đánh giá
 
-- Merlin DeTardo, Jason Fisher, David Bratman, Marjorie Burns, John Wm. Houghton và John Magoun, "Công trình nghiên cứu về Tolkien của năm 2012"
+- Merlin DeTardo, Jason Fisher, David Bratman, Marjorie Burns, John Wm. Houghton và John Magoun, "Công trình nghiên cứu Tolkien của năm 2012"
 - Rebecca Epstein và David Bratman, "Thư mục (bằng tiếng Anh) năm 2013"
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="https://muse.jhu.edu/issue/32875" rel="noreferrer noopener" target="_blank"><i>Nghiên cứu về Tolkien</i>: Tập 12</a> tại Project Muse
+- <a class="external text" href="https://muse.jhu.edu/issue/32875" rel="noreferrer noopener" target="_blank"><i>Tolkien Nghiên cứu</i>: Tập 12</a> tại Project Muse
 
 <br clear="all"/>
 

@@ -13,11 +13,11 @@ categories:
   - "Sandyman"
 ---
 
-**Gia đình Sandyman** là một gia đình gồm [Người Hobbit](../H/Hobbits.md) đến từ [Hobbiton](../H/Hobbiton.md). Họ vận hành [Nhà máy cũ](../O/Old_Mill.md).
+**Gia đình Sandyman** là một gia đình gồm [Hobbit](../H/Hobbits.md) từ [Hobbiton](../H/Hobbiton.md). Họ vận hành [Nhà máy cũ](../O/Old_Mill.md).
 
 ## Lịch sử {#History}
 
-Gia đình Sandyman không hòa hợp với một số gia đình Hobbiton khác, đặc biệt là [Gamgees](../G/Gamgee_Family~66365.md). [Gaffer](../G/Gaffer_Gamgee.md) không thích [người thợ xay](Sandyman.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> con trai ông [Sam](Samwise_Gamgee.md) cũng không thích con trai của Miller [Ted](../T/Ted_Sandyman.md), người đã cộng tác với [Lotho Sackville-Baggins](../L/Lotho_Sackville-Baggins.md) và [Sharkey](Saruman.md) trong [War of the Ring](../W/War_of_the_Ring.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Gia đình Sandyman không hòa hợp với một số gia đình Hobbiton khác, đặc biệt là [Gamgees](../G/Gamgee_Family~66365.md). [Gaffer](../G/Gaffer_Gamgee.md) không thích [người thợ xay](Sandyman.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> con trai ông ta [Sam](Samwise_Gamgee.md) cũng không thích con trai của Miller [Ted](../T/Ted_Sandyman.md), người đã cộng tác với [Lotho Sackville-Baggins](../L/Lotho_Sackville-Baggins.md) và [Sharkey](Saruman.md) trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Phả hệ {#Genealogy}
 

@@ -29,19 +29,19 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../G/Gnomes.md" title="Gnomes">Gnome</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Haldir</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../N/Nargothrond.md" title="Nargothrond">Nargothrond</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">Parentage</th><td class="tg-infobox-data"><a href="../O/Orodreth.md" title="Orodreth">Orodreth</a></td></tr><tr><th scope="row" class="tg-infobox-label">Siblings</th><td class="tg-infobox-data"><a href="../O/Orodlin_(son_of_Orodreth).md" title="Orodlin (son of Orodreth)">Orodlin</a>, <a href="../F/Finduilas.md" title="Finduilas">Finduilas</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr></tbody></table>
 
-**Haldir**, trong giai đoạn đầu của [huyền thoại](../L/Legendarium.md), là con trai lớn của [Orodreth](../O/Orodreth.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Ông ta đã bị lũ [orc](../O/Orcs.md) bẫy và treo lên cây.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Haldir**, trong giai đoạn đầu của [huyền thoại](../L/Legendarium.md), là con trai lớn của [Orodreth](../O/Orodreth.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Ông ta đã bị [lũ Orc](../O/Orcs.md) bẫy và treo lên cây.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Trong [Biên niên sử xám](../G/Grey_Annals.md) ông được đề cập là đã bị giết vào năm [F.A.](../F/First_Age.md) [488](../F/First_Age_488.md) trong một ghi chú đã bị gạch bỏ.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Trong [Grey Annals](../G/Grey_Annals.md) ông ta được đề cập là đã bị giết vào năm [F.A.](../F/First_Age.md) [488](../F/First_Age_488.md) trong một ghi chú đã bị gạch bỏ.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Haldir* là [Noldorin](../N/Noldorin.md) cho "Người hùng giấu mặt", từ *hall* ("ẩn") + *dîr* ("người đàn ông").<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Ý nghĩa bị từ chối là "thợ săn lông thú".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+*Haldir* là [Noldorin](../N/Noldorin.md) dành cho "Người hùng giấu mặt", từ *hall* ("ẩn") + *dîr* ("người đàn ông").<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Ý nghĩa bị từ chối là "thợ săn lông thú".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Tên khác {#Other_names}
 
 Nhân vật ban đầu có tên là <i>Hal<b>m</b>ir</i>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
-Trong bản dịch Quenta sang tiếng Anh cổ của *Ælfwine; Tên tiếng Anh cổ tương đương với tên Tiên*, tên của con trai đầu lòng của Orodreth được đặt là <i><b>Ordhelm</b></i>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+Trong bản dịch Quenta sang tiếng Anh cổ của *Ælfwine; tiếng Anh cổ tương đương với Elvish tên*, tên con trai đầu lòng của Orodreth được đặt là <i><b>Ordhelm</b></i>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
 ## Phả hệ {#Genealogy}
 

@@ -38,23 +38,23 @@ infobox:
 
 **Beorn** là con trai của một [Người đàn ông](../M/Men.md) tên là [Heden](../H/Heden.md), theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.<sup id="cite_ref-Beo_2-2" class="reference"><a href="#cite_note-Beo-2">[2]</a></sup>
 
-Beorn được chú ý vì tội sát hại anh trai mình [Eoh](../E/Eoh.md), cha của [Eriol](../E/Eriol.md),<sup id="cite_ref-Beo_2-3" class="reference"><a href="#cite_note-Beo-2">[2]</a></sup>, người đã chết "trong cuộc vây hãm" thị trấn của mình hoặc "trong một trận chiến lớn".<sup id="cite_ref-Has_3-0" class="reference"><a href="#cite_note-Has-3">[3]</a></sup>
+Beorn được ghi nhận vì tội sát hại anh trai [Eoh](../E/Eoh.md), cha của [Eriol](../E/Eriol.md),<sup id="cite_ref-Beo_2-3" class="reference"><a href="#cite_note-Beo-2">[2]</a></sup>, người đã chết "trong cuộc vây hãm" thị trấn của mình hoặc "trong một trận chiến lớn".<sup id="cite_ref-Has_3-0" class="reference"><a href="#cite_note-Has-3">[3]</a></sup>
 
 Nhiều năm sau, chính Beorn cũng bị [Hengest](../H/Hengest.md) và [Horsa](../H/Horsa.md), cháu trai của Eoh, giết chết để trả thù.<sup id="cite_ref-Has_3-1" class="reference"><a href="#cite_note-Has-3">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Tên *Beorn* bằng [tiếng Anh cổ](../O/Old_English.md). Nó có nghĩa là "chiến binh", nhưng nghĩa gốc của nó là "gấu".<sup id="cite_ref-Beo_2-4" class="reference"><a href="#cite_note-Beo-2">[2]</a></sup>
+Tên *Beorn* nằm trong [tiếng Anh cổ](../O/Old_English.md). Nó có nghĩa là "chiến binh", nhưng nghĩa gốc của nó là "gấu".<sup id="cite_ref-Beo_2-4" class="reference"><a href="#cite_note-Beo-2">[2]</a></sup>
 
 ## Tên khác {#Other_names}
 
 Một biến thể khác của tên ông là ([Gothic](../G/Gothic.md)) <i><b>Bernus</b></i>, có lẽ được dự định là một dạng của *baírnus*, một kiểu Gothic tương đương với tên này, với [Tolkien](../T/Tolkien.md) thay đổi cách viết từ *aí* thành *e*.
 
-Ở [Qenya](../Q/Qenya.md) ông ta được gọi là <i><b>Veran</b></i> hoặc <i><b>Verain</b></i>, với cái tên <i><b>Beren</b></i> là từ cùng gốc [Gnomish](../G/Gnomish.md) của nó.<sup id="cite_ref-Ber_1-1" class="reference"><a href="#cite_note-Ber-1">[1]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[note 1]</a></sup>
+Trong [Qenya](../Q/Qenya.md) ông ta được gọi là <i><b>Veran</b></i> hoặc <i><b>Verain</b></i>, với tên <i><b>Beren</b></i> là [Gnomish](../G/Gnomish.md) cùng nguồn gốc với nó.<sup id="cite_ref-Ber_1-1" class="reference"><a href="#cite_note-Ber-1">[1]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[note 1]</a></sup>
 
 Bản thân tên *Veran* đã được thay đổi từ *Verus*, một tên cũ hơn.<sup id="cite_ref-Var_5-0" class="reference"><a href="#cite_note-Var-5">[4]</a></sup>
 
-Tên khác (tiếng Anh cổ) của nhân vật là <i><b>Hasen</b></i> của Isenóra ("bờ sắt").<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[5]</a></sup>
+Tên (tiếng Anh cổ) khác cho nhân vật là <i><b>Hasen</b></i> của Isenóra ("bờ sắt").<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[5]</a></sup>
 
 ## Phả hệ {#Genealogy}
 

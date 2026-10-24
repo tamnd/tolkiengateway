@@ -17,39 +17,39 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Andrew_Goldhawk_-_Hill_Trolls.jpg.md"><img src="https://tolkiengateway.net/w/images/f/f6/Andrew_Goldhawk_-_Hill_Trolls.jpg" decoding="async" loading="lazy" width="296" height="253" class="mw-file-element" data-file-width="296" data-file-height="253"/></a><figcaption><a href="../A/Andrew_Goldhawk.md" title="Andrew Goldhawk">Andrew Goldhawk</a> - <i><a href="../H/Hill-trolls.md" title="Hill-trolls">Hill Trolls</a></i></figcaption></figure>
 
-**Etten** là một thuật ngữ khó hiểu ở [Westron](../W/Westron.md) có lẽ ám chỉ những quái vật như [Troll](../T/Trolls.md) hoặc [Ogres](../O/Ogres.md).<sup id="cite_ref-nomen_1-0" class="reference"><a href="#cite_note-nomen-1">[1]</a></sup><sup id="cite_ref-drout_2-0" class="reference"><a href="#cite_note-drout-2">[2]</a></sup>
+**Etten** là một thuật ngữ khó hiểu trong [Westron](../W/Westron.md) có lẽ ám chỉ những quái vật như [Troll](../T/Trolls.md) hoặc [Ogres](../O/Ogres.md).<sup id="cite_ref-nomen_1-0" class="reference"><a href="#cite_note-nomen-1">[1]</a></sup><sup id="cite_ref-drout_2-0" class="reference"><a href="#cite_note-drout-2">[2]</a></sup>
 
-[Ettenmoors](Ettenmoors.md) và [Ettendales](Ettendales.md) là một phần của Ettenmoors,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> có lẽ được đặt theo tên của những sinh vật này. Người Ettenmoor còn được gọi là **troll-fells**,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> có lẽ vì khu vực này là nơi sinh sống của quỷ lùn.<sup id="cite_ref-NM_5-0" class="reference"><a href="#cite_note-NM-5">[5]</a></sup> [Aragorn](../A/Aragorn.md) đã đề cập rằng người Ettendales là vùng đất của quỷ lùn và ít được ông ta biết đến.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Cụ thể [troll đồi](../H/Hill-trolls.md) đã được nhìn thấy ở [vùng đất phía bắc](../C/Coldfells.md) của [Rivendell](../R/Rivendell.md).<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+[Ettenmoors](Ettenmoors.md) và [Ettendales](Ettendales.md) là một phần của Ettenmoors,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> có lẽ được đặt theo tên của những sinh vật này. Ettenmoors còn được gọi là **troll-fells**,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> có lẽ vì khu vực này là nơi sinh sống của troll.<sup id="cite_ref-NM_5-0" class="reference"><a href="#cite_note-NM-5">[5]</a></sup> [Aragorn](../A/Aragorn.md) đã đề cập rằng Ettendales là vùng đất của troll và ít được ông ta biết đến.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Cụ thể [troll đồi](../H/Hill-trolls.md) đã được nhìn thấy ở [vùng đất phía bắc](../C/Coldfells.md) của [Rivendell](../R/Rivendell.md).<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Giải thích về cái tên Ettendales (và Ettenmoors), Tolkien lưu ý "yếu tố lỗi thời <i><a class="extiw" href="http://en.wiktionary.org/wiki/ettin" title="wiktionary:ettin">eten</a></i> ('troll, ogre')".<sup id="cite_ref-nomen_1-1" class="reference"><a href="#cite_note-nomen-1">[1]</a></sup> Đó là một từ có nguồn gốc từ [Tiếng Anh cổ](../O/Old_English.md) <i><a class="extiw" href="http://en.wiktionary.org/wiki/eoten#Old_English" title="wiktionary:eoten">eōten</a></i> ("[giant](../G/Giants.md), [troll](../T/Trolls.md), [ogre](../O/Ogres.md)").<sup id="cite_ref-nomen_1-2" class="reference"><a href="#cite_note-nomen-1">[1]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
+Giải thích về cái tên Ettendales (và Ettenmoors) Tolkien lưu ý "yếu tố lỗi thời <i><a class="extiw" href="http://en.wiktionary.org/wiki/ettin" title="wiktionary:ettin">eten</a></i> ('troll, ogre')".<sup id="cite_ref-nomen_1-1" class="reference"><a href="#cite_note-nomen-1">[1]</a></sup> Đó là một từ bắt nguồn từ [tiếng Anh cổ](../O/Old_English.md) <i><a class="extiw" href="http://en.wiktionary.org/wiki/eoten#Old_English" title="wiktionary:eoten">eōten</a></i> ("[khổng lồ](../G/Giants.md), [troll](../T/Trolls.md), [ogre](../O/Ogres.md)").<sup id="cite_ref-nomen_1-2" class="reference"><a href="#cite_note-nomen-1">[1]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
 
-Những địa điểm này có thể có liên quan tới bọn troll. [Michael D.C. Drout](../M/Michael_D.C._Drout.md) lưu ý rằng Tolkien "có lẽ đã nghĩ 'ettin' là một kẻ troll".<sup id="cite_ref-drout_2-1" class="reference"><a href="#cite_note-drout-2">[2]</a></sup>
+Những địa điểm này có thể có liên quan tới bọn troll. [Michael D.C. Drout](../M/Michael_D.C._Drout.md) lưu ý rằng Tolkien "có thể coi 'ettin' là một kẻ troll".<sup id="cite_ref-drout_2-1" class="reference"><a href="#cite_note-drout-2">[2]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong khi viết *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)*, Tolkien đã coi cái tên "Entish Dales" hay "Entish Lands" dành cho người Ettenmoors, vì tính từ "entish" trực tiếp đề cập đến <i><a class="extiw" href="http://en.wiktionary.org/wiki/ent#Old_English" title="wiktionary:ent">ent</a></i> "khổng lồ" trong tiếng Anh cổ, mặc dù đây là trước khi ông hình thành [Ents](Ents.md) nhân từ của *[The Two Towers](../T/The_Two_Towers.md)*.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
+Trong khi viết *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)*, Tolkien đã coi cái tên "Entish Dales" hay "Entish Lands" cho Ettenmoors, vì tính từ "entish" đề cập trực tiếp đến tiếng Anh cổ <i><a class="extiw" href="http://en.wiktionary.org/wiki/ent#Old_English" title="wiktionary:ent">ent</a></i> "khổng lồ", mặc dù đây là trước khi anh hình thành [Ent](Ents.md) nhân từ của *[The Two Towers](../T/The_Two_Towers.md)*.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
 
 ## Cảm hứng {#Inspiration}
 
-Không có dấu hiệu nào cho thấy Tolkien dự định "ettens" của mình có hai đầu hoặc ông đã kết nối chúng với những người khổng lồ bằng đá.
+Không có dấu hiệu nào cho thấy Tolkien dự định "ettens" của mình có hai đầu hoặc rằng ông ta đã kết nối chúng với những người khổng lồ bằng đá.
 
 [C.S. Lewis](../C/C.S._Lewis.md) đã giới thiệu <a class="external text" href="https://narnia.fandom.com/wiki/Ettin" rel="noreferrer noopener" target="_blank">Ettins</a> của <a class="external text" href="https://narnia.fandom.com/wiki/Ettinsmoor" rel="noreferrer noopener" target="_blank">Ettinsmoor</a> tại *The Silver Chair*. Các ettins là những người khổng lồ, một số có hai đầu; họ chơi trò chơi Cockshies, ném đá vào hẻm núi, giống như [những người khổng lồ bằng đá](../G/Giants.md) trong *[The Hobbit](../T/The_Hobbit.md)*.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
 
-Trong nhiều bối cảnh giả tưởng, bao gồm một số [bản chuyển thể](#Portrayal_in_adaptations) của [Trung địa](../M/Middle-earth.md), có những quái vật được gọi là **Ettins** (hoặc **Ettens**) thường được miêu tả là có hai đầu.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup>
+Trong nhiều bối cảnh giả tưởng, bao gồm một số [bản chuyển thể](#Portrayal_in_adaptations) của [Trung Địa](../M/Middle-earth.md), có những con quái vật được gọi là **Ettins** (hoặc **Ettens**) thường được miêu tả là có hai đầu.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1998-2004: <i><a class="mw-redirect" href="../M/Middle-earth_Online.md" title="Middle-earth Online">Trung địa trực tuyến</a></i>:</b>
+<b>1998-2004: <i><a class="mw-redirect" href="../M/Middle-earth_Online.md" title="Middle-earth Online">Trung Địa Trực tuyến</a></i>:</b>
 
 <dl><dd><i>Ettins</i>, a race of two-headed Trolls, was intended to be included in the game.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup></dd></dl>
 
-<b>2002-5: <i><a href="../T/The_Lord_of_the_Rings_Roleplaying_Game.md" title="The Lord of the Rings Roleplaying Game">Trò chơi nhập vai Chúa tể của những chiếc nhẫn</a></i>:</b>
+<b>2002-5: <i><a href="../T/The_Lord_of_the_Rings_Roleplaying_Game.md" title="The Lord of the Rings Roleplaying Game">The Lord of the Rings Trò chơi nhập vai</a></i>:</b>
 
 <dl><dd><i>Ettens</i> resemble the <a href="../H/Hill-trolls.md" title="Hill-trolls">Hill-trolls</a>, but they possess &#34;not one but two long heads&#34;. The solitary creatures, a result of an ancient experiment by <a href="../M/Morgoth.md" title="Morgoth">Morgoth</a>, live almost exclusively in the Ettenmoors.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup></dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd><i>Ettens</i> are a race of trolls, primarily native to the <a href="../T/Trollshaws.md" title="Trollshaws">Trollshaws</a> region. They wear animal-skin cloaks that create the illusion of them being two-headed.</dd></dl>
 

@@ -23,9 +23,9 @@ images:
 <p class="tg-quote-footer"><cite><a class="mw-redirect" href="../M/Merry_Brandybuck.md" title="Merry Brandybuck">Merry Brandybuck</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Hút thuốc** là một hoạt động hoặc phong tục được bắt đầu bởi [Người Hobbit](../H/Hobbits.md) (người gọi nó là một 'nghệ thuật'). Nó bao gồm việc hít khói từ những chiếc lá đang cháy của một loại thảo mộc tên là *[Pipe-weed](../P/Pipe-weed.md)*.
+**Hút thuốc** là một hoạt động hoặc phong tục được bắt đầu bởi [Hobbit](../H/Hobbits.md) (người gọi nó là một 'nghệ thuật'). Nó bao gồm việc hít khói từ những chiếc lá đang cháy của một loại thảo mộc tên là *[Pipe-weed](../P/Pipe-weed.md)*.
 
-[Người Hobbit ở](../B/Bree-hobbits.md) [Bree](../B/Bree.md) tự nhận là người đầu tiên hút cỏ tẩu, nhưng người đầu tiên trồng nó là [Tobold Hornbutter](../T/Tobold_Hornblower.md) ở [Longbottom](../L/Longbottom.md) ở [the Shire](../T/The_Shire.md), vào khoảng năm [S.R.](Shire_Reckoning.md) [1070](../T/Third_Age_2670.md). Việc hút thuốc đã lan rộng từ người Hobbit đến [Người lùn](../D/Dwarves.md), [Rangers](../R/Rangers_of_the_North.md) và [Pháp sư](../W/Wizards.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+[Hobbit của](../B/Bree-hobbits.md) [Bree](../B/Bree.md) tự nhận là người đầu tiên hút cỏ ống, nhưng người đầu tiên trồng nó là [Tobold Hornbutter](../T/Tobold_Hornblower.md) của [Longbottom](../L/Longbottom.md) của [ Shire](../T/The_Shire.md), vào khoảng năm [S.R.](Shire_Reckoning.md) [1070](../T/Third_Age_2670.md). Hút thuốc đã lan rộng từ Hobbit đến [Người Lùn](../D/Dwarves.md), [Rangers](../R/Rangers_of_the_North.md) và [Pháp sư](../W/Wizards.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Cảm hứng {#Inspiration}
 
@@ -39,13 +39,13 @@ images:
 
 [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) là một người nghiện thuốc tẩu. Anh cho rằng chứng nghiện của mình xuất phát từ thời thơ ấu, khi anh chứng kiến ​​Cha [Francis Xavier Morgan](../F/Francis_Xavier_Morgan.md) hút tẩu ở một địa điểm cụ thể mỗi lần.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Những người từng gặp Tolkien nhận thấy rằng ông hầu như luôn cầm tẩu thuốc trong tay hoặc miệng, thường khiến ông khó hiểu lời nói của mình.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Trong [cuộc phỏng vấn năm 1966](../T/The_Man_Who_Understands_Hobbits.md), Tolkien nói: "Mỗi sáng thức dậy, tôi nghĩ: 'Tốt, thêm 24 giờ hút thuốc nữa'".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Những người từng gặp Tolkien nhận thấy rằng ông hầu như luôn cầm tẩu thuốc trong tay hoặc miệng, thường khiến ông khó hiểu lời nói.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Trong [cuộc phỏng vấn năm 1966](../T/The_Man_Who_Understands_Hobbits.md), Tolkien nói: "Mỗi sáng thức dậy, tôi nghĩ: 'Tốt, thêm 24 giờ hút thuốc nữa'".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
-Một [hóa đơn xì gà được bán đấu giá](<../C/Cigar_bill_(3_March_1972).md>) từ [1972](../_/1972.md) đầu cho thấy Tolkien ưa chuộng *Capstan Medium Navy Cut*.
+Một [hóa đơn xì gà được bán đấu giá](<../C/Cigar_bill_(3_March_1972).md>) từ [1972](../_/1972.md) đầu cho thấy Tolkien được ưa chuộng *Capstan Medium Navy Cut*.
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1995-8: <i><a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Trò chơi thẻ bài sưu tầm ở Trung Địa</a></i>:</b>
+<b>1995-8: <i><a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Trung Địa Trò chơi bài sưu tầm</a></i>:</b>
 
 <dl><dd>The card &#34;Smoke Rings&#34; enables the player to re-use one of his discarded characters.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></dd></dl>
 

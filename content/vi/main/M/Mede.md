@@ -33,7 +33,7 @@ categories:
 <dl><dd><dl><dd><dl><dd>*<small><i>Differ from Shire names.</i></small></dd></dl></dd></dl></dd></dl>
 </td></tr></tbody></table>
 
-**Mede** là tháng thứ bảy trong lịch của [Bree](../B/Bree.md). Trước [Ngày hè](../S/Summerdays.md), nó tương ứng với [Afterlithe](../A/Afterlithe.md) của [Lịch Shire](../S/Shire_Calendar.md), gần tương ứng với [24 tháng 6](../_/24_June.md) đến [23 tháng 7](../_/23_July.md) hiện đại.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Mede** là tháng thứ bảy trong lịch [Bree](../B/Bree.md). Trước [Ngày hè](../S/Summerdays.md), nó tương ứng với [Hậu quả](../A/Afterlithe.md) của [Lịch Shire](../S/Shire_Calendar.md), gần tương ứng với [ngày 24 tháng 6](../_/24_June.md) đến [ngày 23 tháng 7](../_/23_July.md) hiện đại.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

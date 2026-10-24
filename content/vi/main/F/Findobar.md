@@ -32,15 +32,15 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../G/Gnomes.md" title="Gnomes">Gnome</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Findobar</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Other names</th><td class="tg-infobox-data"><i>Findabar</i></td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data"><i>Presumably</i> <a href="../N/Noldorin.md" title="Noldorin">Noldorin</a></td></tr><tr><th scope="row" class="tg-infobox-label">Birth</th><td class="tg-infobox-data"><br/><a href="../V/Valinor.md" title="Valinor">Valinor</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">Parentage</th><td class="tg-infobox-data"><a href="Fingon.md#Other_versions_of_the_legendarium" title="Fingon">Fingon</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr></tbody></table>
 
-**Findobar** là con trai của [Fingon](Fingon.md#Other_versions_of_the_legendarium) theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) từ bảng phả hệ do [Tolkien](../T/Tolkien.md) tạo ra vào đầu những năm 1930.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Findobar** là con trai của [Fingon](Fingon.md#Other_versions_of_the_legendarium) theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) từ bảng phả hệ được tạo bởi [Tolkien](../T/Tolkien.md) vào đầu những năm 1930.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Bảng này chưa được công bố nhưng [Christopher Tolkien](../C/Christopher_Tolkien.md) đã nhắc đến tên trong phần bình luận về phả hệ của thời kỳ *[Quenta Noldorinwa](../Q/Quenta_Noldorinwa.md)* ở Phụ lục của *[The Lost Road and Other Writings](../T/The_Lost_Road_and_Other_Writings.md)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Bảng chưa được công bố nhưng [Christopher Tolkien](../C/Christopher_Tolkien.md) đã nhắc đến tên trong phần bình luận của ông về phả hệ thời kỳ *[Quenta Noldorinwa](../Q/Quenta_Noldorinwa.md)* tại Phụ lục của *[The Lost Road and Other Writings](../T/The_Lost_Road_and_Other_Writings.md)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 Trong các phiên bản sau của *[The Silmarillion](../T/The_Silmarillion.md)*, nhân vật Findobar đã bị loại khỏi huyền thoại.
 
 ## Từ nguyên {#Etymology}
 
-*Findobar* là tên [Noldorin](../N/Noldorin.md) xuất hiện dưới dạng kết hợp của *[phinde](../P/Phinde.md)* ("kỹ năng") và <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=B%C3%A1r&amp;action=edit&amp;redlink=1" title="Bár (page does not exist)">bár</a></i> ("nhà; trái đất").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+*Findobar* là tên [Noldorin](../N/Noldorin.md) xuất hiện dưới dạng từ ghép của *[phinde](../P/Phinde.md)* ("kỹ năng") và <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=B%C3%A1r&amp;action=edit&amp;redlink=1" title="Bár (page does not exist)">bár</a></i> ("nhà; trái đất").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Phả hệ {#Genealogy}
 
@@ -51,7 +51,7 @@ Trong các phiên bản sau của *[The Silmarillion](../T/The_Silmarillion.md)*
 
 ## Xem thêm {#See_also}
 
-- [Erien](../E/Erien.md) và [Finbor](Finbor.md), những đứa trẻ bị bỏ rơi khác của Fingon
+- [Erien](../E/Erien.md) và [Finbor](Finbor.md), những đứa trẻ bị từ chối khác của Fingon
 
 <span></span>
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sword of Manwë"
 ---
 
-Chuyển hướng tới [Thanh kiếm Manwë](Sword_of_Manwë.md).
+Chuyển hướng tới [Thanh kiếm của Manwë](Sword_of_Manwë.md).

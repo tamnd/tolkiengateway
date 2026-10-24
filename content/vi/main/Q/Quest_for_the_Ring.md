@@ -42,7 +42,7 @@ infobox:
 
 ## Tóm tắt {#Synopsis}
 
-Bộ phim tài liệu dài 21 phút ghi lại quá trình sản xuất các bộ phim cũng như giới thiệu cho người xem về [Trung Địa](../M/Middle-earth.md). Phim có các cuộc phỏng vấn với các diễn viên cũng như các cảnh quay từ *The Fellowship of the Ring* và *[The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)*. Một số clip không được đưa vào phim cũng như phiên bản mở rộng, chẳng hạn như [Orc](../O/Orcs.md) tiến vào [Lothlórien](../L/Lothlórien.md), cũng được trình chiếu. Như một phần thưởng ở phần cuối, nó bao gồm một đoạn xem trước cảnh *[Balin's Tomb](<../B/Balin's_Tomb_(scene).md>)*, cho đến khi con troll hang động xuất hiện.
+Bộ phim tài liệu dài 21 phút ghi lại quá trình sản xuất các bộ phim cũng như giới thiệu đến người xem [Trung Địa](../M/Middle-earth.md). Phim có các cuộc phỏng vấn với các diễn viên cũng như các cảnh quay từ *The Fellowship of the Ring* và *[The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)*. Một số clip không được đưa vào phim cũng như phiên bản mở rộng, chẳng hạn như [Orc](../O/Orcs.md) nhập [Lothlórien](../L/Lothlórien.md), cũng được hiển thị. Như một phần thưởng ở phần cuối, nó bao gồm một đoạn xem trước cảnh *[Balin's Tomb](<../B/Balin's_Tomb_(scene).md>)*, cho đến khi con troll hang động xuất hiện.
 
 ### Người được phỏng vấn {#Interviewees}
 

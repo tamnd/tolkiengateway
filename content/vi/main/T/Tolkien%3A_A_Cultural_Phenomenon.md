@@ -34,7 +34,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tolkien_-_A_Cultural_Phenomenon.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/0/00/Tolkien_-_A_Cultural_Phenomenon.jpg/301px-Tolkien_-_A_Cultural_Phenomenon.jpg" decoding="async" loading="lazy" width="301" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/0/00/Tolkien_-_A_Cultural_Phenomenon.jpg 1.5x" data-file-width="407" data-file-height="648"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Tolkien: A Cultural Phenomenon</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a class="new" href="https://tolkiengateway.net/w/index.php?title=Brian_Rosebury&amp;action=edit&amp;redlink=1" title="Brian Rosebury (page does not exist)">Brian Rosebury</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Palgrave Macmillan</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">December 1st, 2003</td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Hardcover</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">260</td></tr><tr><th scope="row" class="tg-infobox-label">ISBNs</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/1403915970" title="Special:BookSources/1403915970">1403915970</a><br/><a href="https://tolkiengateway.net/wiki/Special:BookSources/9781403912633" title="Special:BookSources/9781403912633">9781403912633</a></td></tr></tbody></table>
 
-<i><b>Tolkien: Một hiện tượng văn hóa</b></i> là cuốn sách của Brian Rosebury trong lĩnh vực [Nghiên cứu về Tolkien](Tolkien_Studies~62237.md). Nó được xuất bản vào năm 2003.
+<i><b>Tolkien: Một hiện tượng văn hóa</b></i> là cuốn sách của Brian Rosebury trong lĩnh vực [Tolkien Nghiên cứu](Tolkien_Studies~62237.md). Nó được xuất bản vào năm 2003.
 
 ### Từ nhà xuất bản {#From_the_publisher}
 
@@ -46,8 +46,8 @@ infobox:
 ### Nội dung {#Contents}
 
 - Giới thiệu
-- *The Lord of the Rings*: Tưởng Tượng về Trung Địa
+- *The Lord of the Rings*: Tưởng tượng Trung Địa
 - *The Lord of the Rings*: Đạt được câu chuyện
 - Tiểu thuyết và Thơ, 1914–1973
-- Tolkien trong lịch sử ý tưởng
+- Tolkien trong Lịch sử ý tưởng
 - Hiện tượng văn hóa

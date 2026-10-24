@@ -42,7 +42,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/AmonHen226.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/7a/AmonHen226.jpg/320px-AmonHen226.jpg" decoding="async" loading="lazy" width="320" height="453" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/7a/AmonHen226.jpg/480px-AmonHen226.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/7/7a/AmonHen226.jpg/640px-AmonHen226.jpg 2x" data-file-width="707" data-file-height="1000"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Amon Hen 226</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="Andrew_Butler.md" title="Andrew Butler">Andrew Butler</a></td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="../J/Jef_Murray.md" title="Jef Murray">Jef Murray</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Printer</th><td class="tg-infobox-data"><a class="external text" href="http://www.horshampress.co.uk/" rel="noreferrer noopener" target="_blank">Horsham Press</a>, Horsham, UK</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../N/November.md" title="November">November</a> <a href="../_/2010.md" title="2010">2010</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">A5 stapled paperback, glossy</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">36</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0306-8781</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Amon_Hen_225.md" title="Amon Hen 225">Amon Hen 225</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Amon_Hen_227.md" title="Amon Hen 227">Amon Hen 227</a></td></tr></tbody></table>
 
-<b><i>Amon Hen</i> 226</b> is the two-hundred-and-twenty-sixth issue of the [The Tolkien Society](../T/The_Tolkien_Society.md)'s bimonthly journal *[Amon Hen](<Amon_Hen_(journal).md>)*, published in [November](../N/November.md) [2010](../_/2010.md).
+<b><i>Amon Hen</i> 226</b> là số thứ hai trăm hai mươi sáu của tạp chí hai tháng một lần của [Hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, xuất bản vào [tháng 11](../N/November.md) [2010](../_/2010.md).
 
 ## Nội dung {#Contents}
 
@@ -64,8 +64,8 @@ infobox:
     - Bởi: [Pieter Collier](../P/Pieter_Collier.md)
 - Quảng cáo: *[Parma Eldalamberon 14](../P/Parma_Eldalamberon_14.md)* phát hành lại
 - *[Return of the Ring](../T/The_Return_of_the_Ring.md)* thông báo
-- Quảng cáo: Lịch kỷ niệm 30 năm [Beyond Bree](../B/Beyond_Bree.md)
-- R.G. Collingwood - Một tài liệu tham khảo khác của Tolkien
+- Quảng cáo: [Beyond Bree](../B/Beyond_Bree.md) Lịch kỷ niệm 30 năm
+- R.G. Collingwood - Tham khảo Tolkien khác
     - Bởi: [Charles Noad](../C/Charles_Noad.md)
 - Về bản chất của... [Gandalf](../G/Gandalf.md)
     - Bởi: David Doerr
@@ -79,7 +79,7 @@ infobox:
     - Bởi: Liz Stephen
 - Bài thơ: *The Forging of the "Needful"*
     - Bởi: Julie Sinclair
-- Đánh giá: [Tolkien](../J/J.R.R._Tolkien.md) và Albert Hall
+- Đánh giá: [Tolkien](../J/J.R.R._Tolkien.md) và Hội trường Albert
     - Bởi: Guy Powell
 - Báo cáo: Hội nghị Discworld 2010
     - Bởi: Jessica Yates

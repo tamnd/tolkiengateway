@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Dale-lands"
 ---
 
-Chuyển hướng đến [Vùng đất Dale](The_Dale-lands.md).
+Chuyển hướng tới [Vùng đất Dale](The_Dale-lands.md).

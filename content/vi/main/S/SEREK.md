@@ -12,12 +12,12 @@ categories:
   - "Roots"
 ---
 
-**SEREK** là [Quendian nguyên thủy](../P/Primitive_Quendian.md) [gốc](Sundocarme.md) biểu thị "máu".<sup id="cite_ref-PE_1-0" class="reference"><a href="#cite_note-PE-1">[1]</a></sup>
+**SEREK** là một [Primitive Quendian](../P/Primitive_Quendian.md) [gốc](Sundocarme.md) biểu thị "máu".<sup id="cite_ref-PE_1-0" class="reference"><a href="#cite_note-PE-1">[1]</a></sup>
 
 ## Công cụ phái sinh {#Derivatives}
 
 - [Quenya](../Q/Quenya.md) *[serke](Serke.md)*<sup id="cite_ref-PE_1-1" class="reference"><a href="#cite_note-PE-1">[1]</a></sup>
-- [tiếng Sindarin](Sindarin.md) *[sereg](Sereg.md)*<sup id="cite_ref-PE_1-2" class="reference"><a href="#cite_note-PE-1">[1]</a></sup>
+- [Sindarin](Sindarin.md) *[sereg](Sereg.md)*<sup id="cite_ref-PE_1-2" class="reference"><a href="#cite_note-PE-1">[1]</a></sup>
 
 <span></span>
 

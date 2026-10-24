@@ -25,7 +25,7 @@ langlinks:
     url: "https://kontu.wiki/Etel%C3%A4t%C3%B6rm%C3%A4"
 ---
 
-**Southlinch** là một nhãn hiệu cỏ ống của [Bree](../B/Bree.md). [Barliman Butterbur](../B/Barliman_Butterbur.md) nhận xét rằng chất lượng của nó không sánh được với chất lượng của [Southfarthing](Southfarthing.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Nó được đặt tên theo những cánh đồng đồi ở phía nam của [Bree-hill](../B/Bree-hill.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Southlinch** là một nhãn hiệu cỏ ống từ [Bree](../B/Bree.md). [Barliman Butterbur](../B/Barliman_Butterbur.md) nhận xét rằng chất lượng của nó không sánh được với chất lượng của [Southfarthing](Southfarthing.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Nó được đặt tên theo những cánh đồng đồi ở phía nam của [Bree-hill](../B/Bree-hill.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

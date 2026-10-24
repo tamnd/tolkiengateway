@@ -17,26 +17,26 @@ categories:
 ## Tên đường {#Street_names}
 
 - Arkenstone Tiến sĩ
-- Tiến sĩ nổi tiếng
+- Celebrant Tiến sĩ
 - Đang tìm hiểu
 - Ct Dorwinion
 - Tiến sĩ Dorwinion
-- Elvenking Ln
+- Vua Tiên Ln
 - Fallohide Ln
 - Gandalf Ln
-- Ct Glamdring
-- Ct dâu vàng
+- Glamdring Ct
+- Goldberry Ct
 - Bác sĩ thảo dược
 - Hobbit Ln
-- Ct Hồ Long
-- Long Hồ Dr N
-- Dãy núi mù sương Dr S
-- Dãy núi mù sương Dr W
+- Long Lake Ct
+- Long Lake Bác sĩ N
+- Dãy Núi Sương Mù Bác sĩ S
+- Dãy Núi Sương Mù Tiến sĩ W
 - Quốc vương
-- Vua cai trị
+- Quyết định Vua Ct
 - Tolkien Ln
 - Ct Cây Râu
-- Tiến sĩ vùng hoang dã
+- Wilderland Tiến sĩ
 - Liễu Gió Dr
 - N Windy Willows Dr
 

@@ -28,7 +28,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Person</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Margaret Organ-Kean</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Occupation</th><td class="tg-infobox-data">Artist</td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">West Seattle, USA</td></tr></tbody></table>
 
-**Margaret Organ-Kean** là một nghệ sĩ màu nước người Mỹ nổi tiếng với tác phẩm [Magic: The Gathering](Magic%253A_The_Gathering.md). Cô đã được [Iron Crown Enterprises](../I/Iron_Crown_Enterprises.md) ký hợp đồng để tạo tác phẩm nghệ thuật cho [Trò chơi thẻ bài sưu tầm ở Trung Địa](Middle-earth_Collectible_Card_Game.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Margaret Organ-Kean** là một nghệ sĩ màu nước người Mỹ nổi tiếng với tác phẩm [Magic: The Gathering](Magic%253A_The_Gathering.md). Cô đã được [Vương miện Sắt Enterprises](../I/Iron_Crown_Enterprises.md) ký hợp đồng tạo tác phẩm nghệ thuật cho [Trung Địa Trò chơi thẻ bài sưu tập](Middle-earth_Collectible_Card_Game.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <br>
 

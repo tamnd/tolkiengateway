@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hands of the Healer"
 ---
 
-Chuyển hướng tới [Bàn tay của người chữa lành](../H/Hands_of_the_Healer.md).
+Chuyển hướng đến [Hands of the Healer](../H/Hands_of_the_Healer.md).

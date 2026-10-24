@@ -16,18 +16,18 @@ images:
 
 **Sừng** có thể đề cập đến:
 
-- [Horn](<Horn_(rider_of_Rohan).md>) (đã chết [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md)), một Kỵ sĩ của [Rohan](../R/Rohan.md) đã hy sinh trong [Trận chiến trên cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md).
+- [Sừng](<Horn_(rider_of_Rohan).md>) (đã chết [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md)), một Kỵ sĩ của [Rohan](../R/Rohan.md) bị ngã trong [Trận chiến trên Cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md).
 - <a class="mw-redirect mw-disambig" href="Horn.md" title="Horn">Sừng</a>, nhạc cụ:
-    - [Great Horn](../G/Great_Horn.md), sừng của [Boromir](../B/Boromir.md).
-    - [Tiếng gọi của Buckland](Horn-call_of_Buckland.md), một tín hiệu cho [Người Hobbit](Hobbits.md) rằng đã có kẻ xâm lược.
-    - [Horn of the Mark](Horn_of_the_Mark.md) được trao cho [Meriadoc Brandybuck](../M/Meriadoc_Brandybuck.md).
+    - [Sừng Lớn](../G/Great_Horn.md), sừng của [Boromir](../B/Boromir.md).
+    - [Tiếng còi Buckland](Horn-call_of_Buckland.md), tín hiệu [Hobbit](Hobbits.md) rằng đã có kẻ xâm lược.
+    - [Sừng Dấu ấn](Horn_of_the_Mark.md) được trao cho [Meriadoc Brandybuck](../M/Meriadoc_Brandybuck.md).
     - [Valaróma](../V/Valaróma.md), sừng của [Oromë](../O/Oromë.md).
     - [Windbeam](../W/Windbeam.md), Sừng của [Elendil](../E/Elendil.md) trong bản phác thảo ban đầu.
-- [Oromë](../O/Oromë.md), một trong những [Valar](../V/Valar.md), tên có nghĩa là "thổi sừng".
+- [Oromë](../O/Oromë.md), một trong những [Valar](../V/Valar.md), tên có nghĩa là "thổi kèn".
 - *[ras](../R/Ras.md)*, hay "sừng", một loại núi:
-    - [Starkhorn](../S/Starkhorn.md), ngọn núi ở phía nam [Edoras](../E/Edoras.md).
-    - [Redhorn](../C/Caradhras.md), hay *Caradhras*, ngọn núi lớn nhất trong [Dãy núi Moria](../M/Mountains_of_Moria.md).
-    - [Methedras](../M/Methedras.md), đỉnh cao nhất về phía nam của [Dãy núi Sương mù](../M/Misty_Mountains.md).
+    - [Starkhorn](../S/Starkhorn.md), ngọn núi ở phía nam của [Edoras](../E/Edoras.md).
+    - [Redhorn](../C/Caradhras.md) hoặc *Caradhras*, lớn nhất trong số [Dãy núi Moria](../M/Mountains_of_Moria.md).
+    - [Methedras](../M/Methedras.md), đỉnh cực nam của [Dãy Núi Sương Mù](../M/Misty_Mountains.md).
 
 <hr style="margin-top:15px;"/>
 

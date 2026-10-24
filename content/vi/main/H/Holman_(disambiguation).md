@@ -19,7 +19,7 @@ images:
   - "Disambig.png"
 ---
 
-**Holman** là một cái tên [Hobbitish](Hobbitish.md) đã được ba [hobbit](Hobbits.md) sử dụng:
+**Holman** là tên [Hobbitish](Hobbitish.md) đã được ba [hobbit](Hobbits.md) sử dụng:
 
 - [Holman tay xanh](Holman_the_greenhanded.md) (b. [S.R.](../S/Shire_Reckoning.md) [1210](../T/Third_Age_2810.md)), ông cố của [Samwise Gamgee](../S/Samwise_Gamgee.md).
 - [Holman Greenhand](Holman_Greenhand.md) (b. [S.R.](../S/Shire_Reckoning.md) [1292](../T/Third_Age_2892.md)), cháu trai của Holman tay xanh.

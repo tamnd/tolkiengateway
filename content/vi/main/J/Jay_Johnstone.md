@@ -26,7 +26,7 @@ images:
 <p class="tg-quote-footer"><cite><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a></cite></p>
 </blockquote></div></div>
 
-**Jay Johnstone** is an artist who specializes in illustrations for [J.R.R. Tolkien](J.R.R._Tolkien.md)'s [legendarium](../L/Legendarium.md). His style is inspired from religious and medieval <a class="extiw" href="http://en.wikipedia.org/wiki/icon" title="wikipedia:icon">iconography</a>.
+**Jay Johnstone** là một họa sĩ chuyên minh họa cho [huyền thoại](../L/Legendarium.md) của [J.R.R. Tolkien](J.R.R._Tolkien.md). Phong cách của ông được lấy cảm hứng từ <a class="extiw" href="http://en.wikipedia.org/wiki/icon" title="wikipedia:icon">biểu tượng</a>tôn giáo và thời trung cổ.
 
 ## Tác phẩm đã xuất bản {#Published_artwork}
 
@@ -36,7 +36,7 @@ images:
 - [2019](../_/2019.md): *Tolkienography: Isildur's Bane*
 - [2019](../_/2019.md): *[Sub-creating Arda](../S/Sub-creating_Arda.md)* (Bìa)
 - [2019](../_/2019.md): *[Tolkien's Library: An Annotated Checklist](../T/Tolkien's_Library%253A_An_Annotated_Checklist.md)* (Bìa)
-- [2019](../_/2019.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=On_Eagle%27s_Wings_%E2%80%93_An_Exploration_of_Eucatastrophe_in_Tolkien%27s_Fantasy&amp;action=edit&amp;redlink=1" title="On Eagle&#39;s Wings – An Exploration of Eucatastrophe in Tolkien&#39;s Fantasy (page does not exist)">Trên đôi cánh đại bàng – Cuộc khám phá về thảm họa bạch đàn trong truyện giả tưởng của Tolkien</a></i> (Bìa)
+- [2019](../_/2019.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=On_Eagle%27s_Wings_%E2%80%93_An_Exploration_of_Eucatastrophe_in_Tolkien%27s_Fantasy&amp;action=edit&amp;redlink=1" title="On Eagle&#39;s Wings – An Exploration of Eucatastrophe in Tolkien&#39;s Fantasy (page does not exist)">Trên đôi cánh đại bàng – Cuộc khám phá về thảm họa bạch đàn trong thần thoại của Tolkien</a></i> (Bìa)
 - [2019](../_/2019.md): *The Sub-Genres of British Fantasy Literature* (Bìa)
 - [2020](../_/2020.md): *[Death and Immortality in Middle-earth](../D/Death_and_Immortality_in_Middle-earth.md)* (Bìa)
 - [2021](../_/2021.md): *[Tolkien and the Classical World](../T/Tolkien_and_the_Classical_World.md)* (Bìa)

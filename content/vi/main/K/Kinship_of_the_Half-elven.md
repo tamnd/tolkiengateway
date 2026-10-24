@@ -16,7 +16,7 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_-_Kinship_of_the_Half-elven.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/32/J.R.R._Tolkien_-_Kinship_of_the_Half-elven.jpg/300px-J.R.R._Tolkien_-_Kinship_of_the_Half-elven.jpg" decoding="async" loading="lazy" width="300" height="233" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/32/J.R.R._Tolkien_-_Kinship_of_the_Half-elven.jpg/450px-J.R.R._Tolkien_-_Kinship_of_the_Half-elven.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/3/32/J.R.R._Tolkien_-_Kinship_of_the_Half-elven.jpg/600px-J.R.R._Tolkien_-_Kinship_of_the_Half-elven.jpg 2x" data-file-width="2886" data-file-height="2238"/></a><figcaption>Scan from the <a href="../_/16_July.md" title="16 July">16 July</a>, <a href="../_/2022.md" title="2022">2022</a> auction</figcaption></figure>
 
-**Mối quan hệ họ hàng của Half-elven** đề cập đến một bản thảo của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), được ông đính kèm trong một [bức thư năm 1964 gửi cho Eileen Elgar](<../L/Letter_to_Eileen_Elgar_(5_March_1964).md>) (cùng với [Liên quan đến ... 'The Hoard'](../C/Concerning_..._'The_Hoard'.md)).
+**Mối quan hệ họ hàng của Half-elven** đề cập đến một bản thảo của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), được ông đính kèm trong [1964 lá thư gửi cho Eileen Elgar](<../L/Letter_to_Eileen_Elgar_(5_March_1964).md>) (cùng với [Liên quan đến ... 'The Hoard'](../C/Concerning_..._'The_Hoard'.md)).
 
 Bản thảo bao gồm một cây phả hệ minh họa 'Mối quan hệ họ hàng của [Half-elven](../H/Half-elven.md)' (có tựa đề như vậy), cùng với một ghi chú giải thích.
 
@@ -60,7 +60,7 @@ Sơ đồ phả hệ được sao chép vào *[Sotheby's English Literature and 
 </li>
 <li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text">Bàn chân bạc.</span>
 </li>
-<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text">Người thừa kế của Thingol.</span>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text">Thingol người thừa kế.</span>
 </li>
 <li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text">Elfsheen.</span>
 </li>

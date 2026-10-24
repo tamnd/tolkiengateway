@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Battle of Azanulbizar"
 ---
 
-Chuyển hướng tới [Trận Azanulbizar](Battle_of_Azanulbizar.md).
+Chuyển hướng đến [Trận Azanulbizar](Battle_of_Azanulbizar.md).

@@ -25,7 +25,7 @@ langlinks:
 
 ## Từ nguyên {#Etymology}
 
-Có ý kiến ​​​​cho rằng từ này được phát triển từ một từ cũ hơn, *[kûd-dûkan](Kûd-dûkan.md)*, có nghĩa là '[thợ xây lỗ](../H/Holbytlan.md)'. Mặc dù người Hobbit tự gọi mình là *kuduk* nhưng họ đã quên mất ý nghĩa của từ này.<sup id="cite_ref-App_1-0" class="reference"><a href="#cite_note-App-1">[1]</a></sup>
+Có ý kiến ​​​​cho rằng từ này được phát triển từ một từ cũ hơn, *[kûd-dûkan](Kûd-dûkan.md)*, có nghĩa là '[thợ xây lỗ](../H/Holbytlan.md)'. Mặc dù Hobbit tự gọi mình là *kuduk* nhưng họ đã quên mất ý nghĩa của từ này.<sup id="cite_ref-App_1-0" class="reference"><a href="#cite_note-App-1">[1]</a></sup>
 
 ## Phiên bản khác {#Other_versions}
 

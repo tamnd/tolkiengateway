@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Second Age 806"
 ---
 
-Chuyển hướng đến [Tuổi thứ hai 806](Second_Age_806.md).
+Chuyển hướng tới [Kỷ Đệ Nhị 806](Second_Age_806.md).

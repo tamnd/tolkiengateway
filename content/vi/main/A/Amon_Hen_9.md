@@ -27,7 +27,7 @@ images:
 <p class="tg-quote-footer"><cite><a href="../G/Glóin.md" title="Glóin">Glóin</a></cite></p>
 </blockquote></div></div>
 
-<b><i>Amon Hen</i> 9</b> là số thứ chín của [tạp chí Amon Hen](<Amon_Hen_(journal).md>) của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md).
+<b><i>Amon Hen</i> 9</b> là số thứ chín của [Amon Hen tạp chí](<Amon_Hen_(journal).md>) của [Hội Tolkien](../T/The_Tolkien_Society.md).
 
 <br>
 

@@ -24,17 +24,17 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/Joona_Kujanen_-_Balin,_Lord_of_Moria.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/f9/Joona_Kujanen_-_Balin%2C_Lord_of_Moria.jpg/250px-Joona_Kujanen_-_Balin%2C_Lord_of_Moria.jpg" decoding="async" loading="lazy" width="250" height="328" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f9/Joona_Kujanen_-_Balin%2C_Lord_of_Moria.jpg/375px-Joona_Kujanen_-_Balin%2C_Lord_of_Moria.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/f/f9/Joona_Kujanen_-_Balin%2C_Lord_of_Moria.jpg/500px-Joona_Kujanen_-_Balin%2C_Lord_of_Moria.jpg 2x" data-file-width="800" data-file-height="1051"/></a><figcaption><a href="../../category/I/Images_by_Joona_Kujanen.md" title="Category:Images by Joona Kujanen">Joona Kujanen</a> - <i>Balin, Lord of Moria</i></figcaption></figure>
 
-**Lãnh chúa Moria** ([Sindarin](../S/Sindarin.md): <i><b>Aran Moria</b></i>) là tước hiệu của người cai trị [Moria](../M/Moria.md) chẳng hạn như [Vua của Khazad-dûm](../K/Kings_of_Khazad-dûm.md), người thường là [Vua của Dân tộc Durin](../K/Kings_of_Durin's_Folk.md).
+**Chúa tể Moria** ([Sindarin](../S/Sindarin.md): <i><b>Aran Moria</b></i>) là tước hiệu của người cai trị [Moria](../M/Moria.md) chẳng hạn như [Vua của Khazad-dûm](../K/Kings_of_Khazad-dûm.md), người thường là [Vua của Dân tộc Durin](../K/Kings_of_Durin's_Folk.md).
 
-Danh hiệu *Aran Moria*, được dịch là **Chúa tể của Moria**, đề cập đến [Durin III](../D/Durin_III.md) và xuất hiện trong [Cánh cửa của Durin](../D/Doors_of_Durin.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Tiêu đề *Aran Moria*, được dịch là **Chúa tể Moria**, đề cập đến [Durin III](../D/Durin_III.md) và xuất hiện trong [Cánh cửa Durin](../D/Doors_of_Durin.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Vương quốc đã bị bỏ rơi ở [T.A.](../T/Third_Age.md) [1980](../T/Third_Age_1980.md) nhưng [Balin](../B/Balin.md), một [Người lùn](../D/Dwarves.md) của [Nhà Durin](../H/House_of_Durin.md), đã lãnh đạo [một thuộc địa nhỏ](../B/Balin's_Colony~64118.md) để đòi lại nó. Sự cai trị của ông chỉ tồn tại trong thời gian ngắn ([T.A.](../T/Third_Age.md) [2989](../T/Third_Age_2989.md) - [2995](../T/Third_Age_2995.md)) cho đến khi ông qua đời. Cụm từ [Khuzdul](../K/Khuzdul.md) <i><b>Uzbad Khazaddûmu</b></i> có nghĩa là **Lãnh chúa của Moria** được khắc trên [ngôi mộ của ông](../B/Balin's_Tomb.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Vương quốc đã bị bỏ hoang ở [T.A.](../T/Third_Age.md) [1980](../T/Third_Age_1980.md) nhưng [Balin](../B/Balin.md), một [Người lùn](../D/Dwarves.md) của [Gia tộc Durin](../H/House_of_Durin.md), đã dẫn [một thuộc địa nhỏ](../B/Balin's_Colony~64118.md) đến đòi lại nó. Sự cai trị của ông chỉ tồn tại trong thời gian ngắn ([T.A.](../T/Third_Age.md) [2989](../T/Third_Age_2989.md) - [2995](../T/Third_Age_2995.md)) cho đến khi ông qua đời. Cụm [Khuzdul](../K/Khuzdul.md) <i><b>Uzbad Khazaddûmu</b></i> có nghĩa **Chúa tể Moria** được khắc trên [ngôi mộ của ông](../B/Balin's_Tomb.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <figure class="mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_-_Balin&#39;s_Tomb.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/2/26/J.R.R._Tolkien_-_Balin%27s_Tomb.jpg/250px-J.R.R._Tolkien_-_Balin%27s_Tomb.jpg" decoding="async" loading="lazy" width="250" height="185" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/26/J.R.R._Tolkien_-_Balin%27s_Tomb.jpg/375px-J.R.R._Tolkien_-_Balin%27s_Tomb.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/2/26/J.R.R._Tolkien_-_Balin%27s_Tomb.jpg/500px-J.R.R._Tolkien_-_Balin%27s_Tomb.jpg 2x" data-file-width="650" data-file-height="481"/></a><figcaption><center>BALIN<br/>FUNDINUL<br/><b>UZBADKHAZADDUMU</b><br/>BALINSONOVFUNDINLORDOVMORIA</center></figcaption></figure>
 
 ## Từ nguyên {#Etymology}
 
-Cụm từ được dịch là "Chúa tể của Moria"; *uzbad* dường như được dịch là "Chúa", tuy nhiên vì các từ Khuzdul có ba phụ âm thường không bắt đầu bằng một nguyên âm, [Magnus Åberg](../M/Magnus_Åberg.md) đề xuất rằng từ này có tính chất enclitic và \**u-* thực tế là một tiền tố có nghĩa là "và".<sup id="cite_ref-magnus_3-0" class="reference"><a href="#cite_note-magnus-3">[3]</a></sup>
+Cụm từ được dịch là "Chúa tể Moria"; *uzbad* dường như được dịch là "Chúa", tuy nhiên vì Khuzdul các từ có ba phụ âm thường không bắt đầu bằng một nguyên âm, [Magnus Åberg](../M/Magnus_Åberg.md) đề xuất rằng từ này có tính chất enclitic và \**u-* thực tế là một tiền tố có nghĩa là "và".<sup id="cite_ref-magnus_3-0" class="reference"><a href="#cite_note-magnus-3">[3]</a></sup>
 
 Nếu đúng như vậy, *uzbad* có nghĩa là "...và chúa", cụm từ đầy đủ là "...con trai của [Fundin](../F/Fundin.md) *and* chúa...". Åberg gợi ý rằng dạng cơ bản của "Chúa" sẽ là \**zâbad* và "Chúa tể Moria" sẽ là \**zəbad Khazaddûmu*.<sup id="cite_ref-magnus_3-1" class="reference"><a href="#cite_note-magnus-3">[3]</a></sup>
 
@@ -42,7 +42,7 @@ Nếu đúng như vậy, *uzbad* có nghĩa là "...và chúa", cụm từ đầ
 
 ## Xem thêm {#See_also}
 
-- [Các vị vua của Khazad-dûm](../K/Kings_of_Khazad-dûm.md)
+- [Những vị vua của Khazad-dûm](../K/Kings_of_Khazad-dûm.md)
 
 <span></span>
 

@@ -21,7 +21,7 @@ sort_keys:
   "Tolkien Society members": "Simons, Jonathan"
 ---
 
-**Jonathan Simons** là Chủ tịch thứ ba của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md). Phục vụ trong mười năm từ 1974 đến 1984, Simons là Chủ tịch tại vị lâu thứ ba của Hiệp hội Tolkien.
+**Jonathan Simons** là Chủ tịch thứ ba của [Hội Tolkien](../T/The_Tolkien_Society.md). Phục vụ trong mười năm từ 1974 đến 1984, Simons là Chủ tịch tại nhiệm lâu thứ ba của Hội Tolkien.
 
 ## Thư mục {#Bibliography}
 
@@ -32,7 +32,7 @@ sort_keys:
 - [1979](../_/1979.md): [*Amon Hen* 39](../A/Amon_Hen_39.md)
     - Đánh giá về *[The Lord of the Rings](<../T/The_Lord_of_the_Rings_(1978_film).md>)*
 - [1979](../_/1979.md): [*Mallorn* 13](../M/Mallorn_13.md)
-    - "Rìu của Gimli"
+    - "Rìu củaGimli"
 - [1979](../_/1979.md): [*Amon Hen* 41](../A/Amon_Hen_41.md)
     - "Gondorfeast"
 - [1980](../_/1980.md): [*Amon Hen* 43](../A/Amon_Hen_43.md)
@@ -46,7 +46,7 @@ sort_keys:
     - "Saga Giao ước"
 - [1980](../_/1980.md): [*Amon Hen* 47](../A/Amon_Hen_47.md)
     - "Kinh doanh đen tối"
-    - "Cera-mix" (đánh giá các bức tượng nhỏ của Royal Doulton)
+    - "Cera-mix" (đánh giá về các bức tượng nhỏ của Hoàng gia Doulton)
 - [1981](../_/1981.md): [*Amon Hen* 50](../A/Amon_Hen_50.md)
     - "Trái hè mùa hè"
 - [1981](../_/1981.md): [*Amon Hen* 52](../A/Amon_Hen_52.md)

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Andreth"
 ---
 
-Chuyển hướng tới [Andreth](../A/Andreth.md).
+Chuyển hướng đến [Andreth](../A/Andreth.md).

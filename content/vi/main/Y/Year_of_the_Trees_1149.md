@@ -15,12 +15,12 @@ categories:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="../T/Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><b>I</b><a href="../S/Second_Age.md" title="Second Age">II</a><a href="../T/Third_Age.md" title="Third Age">III</a><a href="../F/Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Trees</div><div class="tg-timelinenav-links"><a href="Year_of_the_Trees_1133.md" title="Year of the Trees 1133">1133</a><a href="Year_of_the_Trees_1140.md" title="Year of the Trees 1140">1140</a><a href="Year_of_the_Trees_1142.md" title="Year of the Trees 1142">1142</a><a class="mw-selflink selflink">1149</a><a href="Year_of_the_Trees_1150.md" title="Year of the Trees 1150">1150</a><a href="Year_of_the_Trees_1151.md" title="Year of the Trees 1151">1151</a><a href="Year_of_the_Trees_1152.md" title="Year of the Trees 1152">1152</a></div></div></div></div></div></div>
 
-**Năm Cây 1149** (viết tắt là **Y.T. 1149**) là [năm Cây](Years_of_the_Trees.md) thứ 1149 trong [Kỷ nguyên thứ nhất](../F/First_Age.md) của [Arda](../A/Arda.md). Năm Cây 1149 cũng là **V.Y. 4649** trong [Năm Valian](../V/Valian_Years.md).
+**Năm Cây 1149** (viết tắt là **Y.T. 1149**) là [năm Cây](Years_of_the_Trees.md) thứ 1149 trong [Kỷ Đệ Nhất](../F/First_Age.md) của [Arda](../A/Arda.md). Năm Cây 1149 cũng là **V.Y. 4649** trong [Năm Valian](../V/Valian_Years.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 - [Finwë](../F/Finwë.md) đấu thầu [Ulmo](../U/Ulmo.md) để đưa [Teleri](../T/Teleri.md) đến [Valinor](../V/Valinor.md); tuy nhiên [Ossë](../O/Ossë.md) rất đau buồn và thuyết phục một số người ở lại.<sup id="cite_ref-Annals_1-0" class="reference"><a href="#cite_note-Annals-1">[1]</a></sup>
-- [Círdan](../C/Círdan.md) thiết lập các thiên đường [Brithombar](../B/Brithombar.md) và [Eglarest](../E/Eglarest.md).<sup id="cite_ref-Annals_1-1" class="reference"><a href="#cite_note-Annals-1">[1]</a></sup>
+- [Círdan](../C/Círdan.md) thiết lập nơi trú ẩn của [Brithombar](../B/Brithombar.md) và [Eglarest](../E/Eglarest.md).<sup id="cite_ref-Annals_1-1" class="reference"><a href="#cite_note-Annals-1">[1]</a></sup>
 
 <span></span>
 

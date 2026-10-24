@@ -13,7 +13,7 @@ categories:
   - "Qenya nouns"
 ---
 
-<i><b>sanga</b></i> là một từ [Qenya](../Q/Qenya.md) có nghĩa là "đám đông".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
+<i><b>sanga</b></i> là từ [Qenya](../Q/Qenya.md) có nghĩa là "đám đông".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

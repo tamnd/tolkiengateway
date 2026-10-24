@@ -21,7 +21,7 @@ Nguồn của nó được gọi là [Kapalinda](Kapalinda.md).<sup id="cite_ref
 
 ## Từ nguyên {#Etymology}
 
-Tên *Kelusindi* có trong [Qenya](../Q/Qenya.md), là sự kết hợp của <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Kelu(m%C3%AB)&amp;action=edit&amp;redlink=1" title="Kelu(më) (page does not exist)">kelu(më)</a></i> ("suối; đài phun nước, mùa xuân") + <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Sindi&amp;action=edit&amp;redlink=1" title="Sindi (page does not exist)">sindi</a></i> ("sông").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Tên *Kelusindi* nằm trong [Qenya](../Q/Qenya.md), là sự kết hợp của <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Kelu(m%C3%AB)&amp;action=edit&amp;redlink=1" title="Kelu(më) (page does not exist)">kelu(më)</a></i> ("suối; đài phun nước, mùa xuân") + <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Sindi&amp;action=edit&amp;redlink=1" title="Sindi (page does not exist)">sindi</a></i> ("sông").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

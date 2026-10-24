@@ -15,7 +15,7 @@ sort_keys:
   "Sindarin nouns": "Du"
 ---
 
-<i><b>dû</b></i> (hoặc <i><b>dú</b></i><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> là một danh từ [Sindarin](../S/Sindarin.md) có nghĩa là "chạng vạng", "tối muộn", "đêm" hoặc "mờ".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+<i><b>dû</b></i> (hoặc <i><b>dú</b></i><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> là một [Sindarin](../S/Sindarin.md) danh từ có nghĩa là "buổi tối", "tối muộn", "đêm" hoặc "mờ".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

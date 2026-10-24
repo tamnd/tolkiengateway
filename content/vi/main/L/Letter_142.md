@@ -31,17 +31,17 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien rất vui mừng khi nhận được một bức thư dài từ Murray và xin lỗi nếu những lời nói bình thường của ông đã khiến Murray phải chỉ trích tác phẩm của ông. Trong khi những biểu hiện vui vẻ thật dễ chịu, Tolkien đặc biệt vui mừng trước những nhận xét sâu sắc hơn bất kỳ ai khác của Murray, thậm chí còn tiết lộ cho ông ta những điều về công việc của chính mình. Murray có cảm giác mạnh mẽ rằng *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* thể hiện sự tương thích với mệnh lệnh của Grace, điều mà Tolkien nói rằng ông nghĩ rằng mình biết chính xác ý ông.
+Tolkien rất vui mừng khi nhận được lá thư dài từ Murray và xin lỗi nếu những lời lẽ bình thường của anh đã khiến Murray phải chỉ trích tác phẩm của anh. Trong khi việc bày tỏ sự vui vẻ là dễ chịu, Tolkien đặc biệt vui mừng trước những nhận xét sâu sắc hơn ai hết của Murray, thậm chí còn tiết lộ cho ông ta những điều về công việc của chính mình. Murray có cảm giác mạnh mẽ rằng *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* thể hiện sự tương thích với mệnh lệnh của Grace, điều mà Tolkien nói rằng ông nghĩ rằng mình biết chính xác ý ông.
 
-Tolkien giải thích: *The Lord of the Rings* về cơ bản là một tác phẩm tôn giáo và [Công giáo](../C/Catholicism.md). Ông đã cố tình loại trừ hầu hết mọi đề cập đến "tôn giáo". Yếu tố tôn giáo đã được đưa vào câu chuyện và tính biểu tượng, điều mà Tolkien nói nghe có vẻ quá tự cao vì ông đã lên kế hoạch rất ít một cách có ý thức. Anh đã được nuôi dưỡng từ năm 8 tuổi trong một Đức tin nuôi dưỡng mà anh mắc nợ [mẹ anh](../M/Mabel_Suffield.md), người đã bám lấy sự hoán cải của bà và chết trẻ vì nghèo đói do điều đó gây ra. Ông ta đã *not* được nuôi dưỡng bằng Văn học Anh mà không có gì để cho trái tim hay đầu óc ông ta tựa vào.
+*The Lord of the Rings* về cơ bản là một tác phẩm tôn giáo và [Công giáo](../C/Catholicism.md), Tolkien giải thích. Ông đã cố tình loại trừ hầu hết mọi đề cập đến "tôn giáo". Yếu tố tôn giáo đã được đưa vào câu chuyện và tính biểu tượng, điều mà Tolkien nói nghe có vẻ quá tự cao vì ông đã cố ý lên kế hoạch rất ít. Anh đã được nuôi dưỡng từ năm 8 tuổi trong một Đức tin nuôi dưỡng mà anh mắc nợ [mẹ anh](../M/Mabel_Suffield.md), người đã bám lấy sự hoán cải của bà và chết trẻ vì nghèo đói do điều đó gây ra. Ông ta đã *not* được nuôi dưỡng bằng Văn học Anh mà không có gì để cho trái tim hay đầu óc ông ta tựa vào.
 
-Murray rằng các nhà phê bình sẽ không biết phải làm gì với cuốn sách vì nó bất chấp việc nhốt chim bồ câu. Tolkien lo sợ mình đúng và sợ xuất bản vì không thể không quan tâm đến những bình luận chỉ trích.
+Murray rằng các nhà phê bình sẽ không biết phải làm gì với cuốn sách vì nó bất chấp việc nhốt chim bồ câu. Tolkien sợ mình đúng và sợ xuất bản vì không thể không quan tâm đến những bình luận phê phán.
 
-Murray hiện không có đàn cello, điều này Tolkien rất tiếc khi biết tin rằng Murray đã có cách nào đó với cây đàn này. Không có năng khiếu về âm nhạc, ông coi bất kỳ ai có khả năng chơi một nhạc cụ có dây đều là một phù thủy đáng được tôn trọng sâu sắc. Tolkien cũng cảm thấy như vậy về ngôn ngữ Slavonic.
+Murray hiện không có đàn cello, điều này Tolkien rất tiếc khi biết tin Murray có cách nào đó với cây đàn này. Không có năng khiếu về âm nhạc, ông coi bất kỳ ai có khả năng chơi một nhạc cụ có dây đều là một phù thủy đáng được tôn trọng sâu sắc. Tolkien cũng cảm thấy như vậy với các ngôn ngữ Slavơ.
 
 <dl><dt>In the expanded edition</dt></dl>
 
-Trong một đoạn Tolkien lưu ý rằng ông đang nhận được sự ủng hộ từ giới Công giáo. Ông nói về kế hoạch gửi một số bản in của *The Lord of the Rings* Vol. Tôi nói với Murray và những người khác, sau đó nói rằng ông sẽ tới London để gặp BBC, Allen và Unwin, và rằng ông sẽ mua một số phòng trưng bày của Vol. II cho Murray, người chưa đọc Quyển 4 mới.
+Trong một đoạn Tolkien lưu ý rằng ông đang nhận được sự hỗ trợ từ giới Công giáo. Ông nói về kế hoạch gửi một số bản in của *The Lord of the Rings* Vol. Tôi nói với Murray và những người khác, sau đó nói rằng ông sẽ tới London để gặp BBC, Allen và Unwin, và rằng ông sẽ mua một số phòng trưng bày của Vol. II cho Murray, người chưa đọc Quyển 4 mới.
 
 <br>
 

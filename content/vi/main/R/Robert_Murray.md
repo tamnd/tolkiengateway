@@ -42,24 +42,24 @@ infobox:
 
 Cha **Robert Patrick Ruthven Murray** (b. [8 tháng 6](../_/8_June.md) [1925](../_/1925.md) - [24 tháng 4](../_/24_April.md) [2018](../_/2018.md)) là một nhà thần học [Công giáo La Mã](../C/Catholicism.md) người Anh và là cháu trai của Ngài <a class="extiw" href="http://en.wikipedia.org/wiki/James_Murray_(lexicographer)" title="wikipedia:James Murray (lexicographer)">James Murray</a> (người sáng lập *[Oxford English Dictionary](../O/Oxford_English_Dictionary.md)*).
 
-Là một người bạn riêng của gia đình Tolkien (một tình bạn đã góp phần khiến ông cải đạo sang Công giáo La Mã) từ năm 1944, Murray được [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) giao phó để hiệu đính các bản thảo và bản thảo của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*. Tolkien và Murray thường xuyên trao đổi thư từ, đặc biệt là về các vấn đề tôn giáo, và một số bức thư gửi cho Murray đã được xuất bản dưới dạng *[The Letters of J.R.R. Tolkien](../T/The_Letters_of_J.R.R._Tolkien.md)* (các bức thư [142](../L/Letter_142.md), [156](../L/Letter_156.md), [209](../L/Letter_209.md)).
+Là một người bạn riêng của gia đình Tolkien (một tình bạn đã góp phần khiến ông cải đạo sang Công giáo La Mã) từ năm 1944, Murray được [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) giao phó việc hiệu đính các bản thảo và bản thảo của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*. Tolkien và Murray thường xuyên trao đổi thư từ, đặc biệt là về các vấn đề tôn giáo, và một số bức thư gửi cho Murray đã được đăng trên *[The Letters of J.R.R. Tolkien](../T/The_Letters_of_J.R.R._Tolkien.md)* (các bức thư [142](../L/Letter_142.md), [156](../L/Letter_156.md), [209](../L/Letter_209.md)).
 
-Ông trở thành tu sĩ Dòng Tên năm 1949 và được thụ phong linh mục năm 1959. Vào [1 tháng 8](../_/1_August.md) [1959](../_/1959.md), Tolkien phục vụ Thánh lễ đầu tiên của Murray, và vào [6 tháng 9](../_/6_September.md) [1973](../_/1973.md), bốn ngày sau cái chết của Tolkien, ông đã phụ giúp trong Thánh lễ cầu siêu cho Tolkien tại Nhà thờ St Anthony of Padua ở Headington, Oxford.
+Ông trở thành tu sĩ Dòng Tên năm 1949 và được thụ phong linh mục năm 1959. Vào [1 tháng 8](../_/1_August.md) [1959](../_/1959.md), Tolkien phục vụ Thánh lễ đầu tiên của Murray, và vào [6 tháng Chín](../_/6_September.md) [1973](../_/1973.md), bốn ngày sau khi Tolkien qua đời, ông đã phụ giúp trong Thánh lễ cầu siêu cho Tolkien tại Nhà thờ St Anthony of Padua ở Headington, Oxford.
 
 Ông làm việc tại Khoa <a class="extiw" href="http://en.wikipedia.org/wiki/Heythrop_College" title="wikipedia:Heythrop College">Đại học Heythrop</a> ở Oxfordshire và London từ năm 1963.
 
-Trong [Hội nghị trăm năm Tolkien](../T/Tolkien_Centenary_Conference.md) ở [Oxford](../O/Oxford.md) ([1992](../_/1992.md)), Cha Murray đã thuyết giảng trong lễ Tạ ơn.
+Trong [Tolkien Hội nghị Kỷ niệm 100 năm](../T/Tolkien_Centenary_Conference.md) ở [Oxford](../O/Oxford.md) ([1992](../_/1992.md)), Cha Murray đã thuyết giảng trong buổi lễ Tạ ơn.
 
 ## Thư mục, đã chọn {#Bibliography,_selected}
 
 ### Bài viết {#Articles}
 
-- [1973](../_/1973.md): *The Tablet*, ngày 15 tháng 9 năm 1973
+- [1973](../_/1973.md): *The Tablet*, 15 tháng Chín 1973
     - "[Tưởng nhớ Tolkien](../A/A_Tribute_to_Tolkien.md)"
 - [1995](../_/1995.md): *[Proceedings of the J.R.R. Tolkien Centenary Conference](../P/Proceedings_of_the_J.R.R._Tolkien_Centenary_Conference.md)*
     - "Bài giảng trong Lễ tạ ơn, Nhà nguyện Đại học Keble, ngày 23 tháng 8 năm 1992"
 - [1999](../_/1999.md): *[Tolkien: A Celebration: Collected Writings on a Literary Legacy](../T/Tolkien%253A_A_Celebration.md)*
-    - "J.R.R. Tolkien và Nghệ thuật Dụ ngôn" \[in lại bài giảng được đưa ra trong Hội nghị trăm năm Tolkien\]
+    - "J.R.R. Tolkien và Nghệ thuật Dụ ngôn" \[in lại bài giảng trong Tolkien Hội nghị Thế kỷ\]
 
 ## Phim ảnh {#Filmography}
 

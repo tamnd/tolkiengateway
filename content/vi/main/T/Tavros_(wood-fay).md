@@ -20,7 +20,7 @@ Nhà của ông tên là [Inthavros](../I/Inthavros.md).<sup id="cite_ref-2" cla
 
 ## Từ nguyên {#Etymology}
 
-Tên *Tavros* có trong [Gnomish](../G/Gnomish.md). Nó dựa trên từ <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Tavros_(Gnomish_word)&amp;action=edit&amp;redlink=1" title="Tavros (Gnomish word) (page does not exist)">tavros</a></i> ("rừng, đất rừng"), được dùng làm tên riêng.<sup id="cite_ref-Tav_1-1" class="reference"><a href="#cite_note-Tav-1">[1]</a></sup>
+Tên *Tavros* nằm trong [Gnomish](../G/Gnomish.md). Nó dựa trên từ <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Tavros_(Gnomish_word)&amp;action=edit&amp;redlink=1" title="Tavros (Gnomish word) (page does not exist)">tavros</a></i> ("rừng, đất rừng"), được dùng làm tên riêng.<sup id="cite_ref-Tav_1-1" class="reference"><a href="#cite_note-Tav-1">[1]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 

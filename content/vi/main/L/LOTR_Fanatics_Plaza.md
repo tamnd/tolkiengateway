@@ -21,7 +21,7 @@ images:
 <p class="tg-quote-footer"><cite><a href="../G/Glóin.md" title="Glóin">Glóin</a></cite></p>
 </blockquote></div></div>
 
-**Chúa tể của những chiếc nhẫn Fanatics Plaza** là một trang web tổ chức các diễn đàn dành riêng cho việc thảo luận về các tác phẩm của [Trung địa](../M/Middle-earth.md) và [Tolkien](../J/J.R.R._Tolkien.md). URL ban đầu *lotrplaza.com* đã bị gỡ xuống vào giữa những năm 2010<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và trang web này vẫn không tồn tại cho đến khi được khôi phục trong <a class="extiw" href="http://en.wikipedia.org/wiki/COVID-19_Pandemic" title="wikipedia:COVID-19 Pandemic">đại dịch COVID-19</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Chúa tể của những chiếc nhẫn Fanatics Plaza** là một trang web tổ chức các diễn đàn dành riêng cho việc thảo luận về các tác phẩm của [Trung Địa](../M/Middle-earth.md) và [Tolkien](../J/J.R.R._Tolkien.md). URL ban đầu *lotrplaza.com* đã bị gỡ xuống vào giữa những năm 2010<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và trang web này vẫn không tồn tại cho đến khi được khôi phục trong <a class="extiw" href="http://en.wikipedia.org/wiki/COVID-19_Pandemic" title="wikipedia:COVID-19 Pandemic">đại dịch COVID-19</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Liên kết ngoài {#External_links}
 

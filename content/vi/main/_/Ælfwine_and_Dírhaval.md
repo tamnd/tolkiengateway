@@ -55,7 +55,7 @@ Văn bản A có tựa đề *Túrin Turumsth* và được viết ở chế đ�
 
 ## Bình luận {#Commentary}
 
-Trong phần giới thiệu văn bản "A", [Christopher Tolkien](../C/Christopher_Tolkien.md) lưu ý rằng nó "được viết mà hầu như không có sự do dự hay thay đổi nào". Trong phần giới thiệu văn bản "B", ông lưu ý rằng nó "ngắn gọn hơn rất nhiều".<sup id="cite_ref-WJII_1-0" class="reference"><a href="#cite_note-WJII-1">[1]</a></sup>
+Trong phần giới thiệu văn bản “A”, [Christopher Tolkien](../C/Christopher_Tolkien.md) lưu ý rằng nó “được viết mà hầu như không có sự do dự hay thay đổi nào”. Trong phần giới thiệu văn bản "B", ông lưu ý rằng nó "ngắn gọn hơn rất nhiều".<sup id="cite_ref-WJII_1-0" class="reference"><a href="#cite_note-WJII-1">[1]</a></sup>
 
 <span></span>
 

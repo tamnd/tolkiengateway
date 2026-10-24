@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Cliffs Notes on Tolkien's The Lord of the Rings and The Hobbit"
 ---
 
-Chuyển hướng tới [Ghi chú của Cliffs về Chúa tể của những chiếc nhẫn và Người Hobbit](Cliffs_Notes_on_Tolkien's_The_Lord_of_the_Rings_and_The_Hobbit.md) của Tolkien.
+Chuyển hướng tới [Ghi chú của Cliffs về The Lord of the Rings và The Hobbit](Cliffs_Notes_on_Tolkien's_The_Lord_of_the_Rings_and_The_Hobbit.md) của Tolkien.

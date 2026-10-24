@@ -11,4 +11,4 @@ redirect_target: "Gondorian Military Forces"
 redirect_fragment: "King's Ships"
 ---
 
-Chuyển hướng tới [Lực lượng quân sự Gondorian](../G/Gondorian_Military_Forces.md#King's_Ships).
+Chuyển hướng đến [Gondor Lực lượng quân sự](../G/Gondorian_Military_Forces.md#King's_Ships).

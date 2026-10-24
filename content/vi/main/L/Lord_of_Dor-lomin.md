@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lord of Dor-lómin"
 ---
 
-Chuyển hướng đến [Chúa tể Dor-lómin](Lord_of_Dor-lómin.md).
+Chuyển hướng tới [Chúa tể của Dor-lómin](Lord_of_Dor-lómin.md).

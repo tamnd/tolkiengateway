@@ -31,7 +31,7 @@ images:
 
 ## Lịch sử {#History}
 
-Chiếc lá được đặt tên theo người Hobbit, người đã giới thiệu cỏ tẩu đến Quận, "Old Toby" ban đầu, [Tobold Hornbutter](../T/Tobold_Hornblower.md), người đã trồng loại cỏ tẩu thực sự đầu tiên trong khu vườn của mình vào thời [Isengrim Took II](../I/Isengrim_Took_II.md) vào khoảng năm [1070](../T/Third_Age_2670.md) [Tính toán quận](../S/Shire-reckoning.md).
+Chiếc lá lấy tên từ Hobbit, người đã giới thiệu cỏ tẩu cho Shire, "Old Toby" ban đầu, [Tobold Hornbutter](../T/Tobold_Hornblower.md), người đã trồng loại cỏ tẩu thực sự đầu tiên trong khu vườn của mình vào thời [Isengrim Took II](../I/Isengrim_Took_II.md) vào khoảng năm [1070](../T/Third_Age_2670.md) năm [lịch Shire](../S/Shire-reckoning.md).
 
 Làm thế nào mà Toby già đến được cái cây này không được ghi lại, vì cho đến ngày hấp hối ông ấy cũng sẽ không kể.<sup id="cite_ref-Pipeweed_1-1" class="reference"><a href="#cite_note-Pipeweed-1">[1]</a></sup>
 
@@ -58,19 +58,19 @@ Tên [Westron](../W/Westron.md) chính hãng là <i><a class="new" href="https:/
 		</li>
 </ul>
 
-<b>2001: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">Chúa tể của những chiếc nhẫn: Hiệp hội những chiếc nhẫn</a></i>:</b>
+<b>2001: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i>:</b>
 
 <dl><dd><a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo Baggins</a> smokes Old Toby next to <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> outside <a href="../B/Bag_End.md" title="Bag End">Bag End</a>. Bilbo blows a smoke ring and Gandalf turns his ring into a ship, which &#39;sails&#39; through Bilbo&#39;s ring.</dd></dl>
 
-<b>2002: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">Chúa tể của những chiếc nhẫn: Hai tòa tháp</a></i>:</b>
+<b>2002: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Lord of the Rings: The Two Towers</a></i>:</b>
 
 <dl><dd><a href="../P/Peregrin_Took.md" title="Peregrin Took">Pippin</a> recounts his dream to <a href="../M/Meriadoc_Brandybuck.md" title="Meriadoc Brandybuck">Merry</a> in <a href="../F/Fangorn_Forest.md" title="Fangorn Forest">Fangorn Forest</a>. In his dream, they smoked a large barrel, full of pipe-weed and Pippin vomited. He says &#39;I&#39;d give anything for a whiff of Old Toby.&#39;</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>The smoke from Old Toby Pipe-weed takes the form of a large heart with a ring inside it.</dd></dl>
 
-<b>2012: <i><a href="../T/The_Hobbit%253A_An_Unexpected_Journey.md" title="The Hobbit: An Unexpected Journey">Người Hobbit: Hành trình bất ngờ</a></i>:</b>
+<b>2012: <i><a href="../T/The_Hobbit%253A_An_Unexpected_Journey.md" title="The Hobbit: An Unexpected Journey">The Hobbit: An Unexpected Journey</a></i>:</b>
 
 <dl><dd>As <a href="../R/Radagast.md" title="Radagast">Radagast</a> narrates terrified to <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> his encounter with the <a class="mw-redirect" href="../N/Necromancer.md" title="Necromancer">Necromancer</a> in <a href="../D/Dol_Guldur.md" title="Dol Guldur">Dol Guldur</a>, Gandalf offers him to pull from his pipe some &#34;Old Toby&#34; to calm down.</dd></dl>
 

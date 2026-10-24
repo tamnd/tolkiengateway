@@ -63,11 +63,11 @@ Sự kiện xảy ra vào ngày 10 tháng 6
 ## Trên Trái đất {#On_Earth}
 
 - **[1909](1909.md)** - Vào khoảng ngày này [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) soạn [Sách của Foxrook](../B/Book_of_the_Foxrook.md).
-- **[1915](1915.md)** - Kỳ thi bắt đầu tại [Đại học Oxford](../U/University_of_Oxford.md). Vì [chiến tranh](../W/World_War_I.md) nên chỉ có [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và 24 người khác còn lại trong toàn trường Đại học. Tolkien sẽ gia nhập Quân đội cùng tháng nhưng muốn hoàn thành kỳ thi của mình trước.
+- **[1915](1915.md)** - Kỳ thi bắt đầu tại [Oxford Đại học](../U/University_of_Oxford.md). Vì [chiến tranh](../W/World_War_I.md) nên chỉ có [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và 24 người khác còn lại trong toàn trường Đại học. Tolkien sẽ nhập ngũ cùng tháng nhưng muốn hoàn thành kỳ thi trước.
 - **[1937](1937.md)** - *[The Battle of Maldon](<../T/The_Battle_of_Maldon_(E.V._Gordon).md>)*, do [E.V. Gordon](../E/E.V._Gordon.md) biên tập và có sự đóng góp của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), được xuất bản.
 - **[1944](1944.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 73](../L/Letter_73.md).
 - **[1954](1954.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 146a](../L/Letter_146a.md).
-- **[1971](1971.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư gửi "Các quý cô thân yêu"](../L/Letter_322a.md).
+- **[1971](1971.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư gửi "Các Bà thân yêu"](../L/Letter_322a.md).
 - **[2008](2008.md)** - Diễn viên [David Brierly](../D/David_Brierly.md) qua đời.
 - **[2021](2021.md)** - [The Lord of the Rings: The War of the Rohirrim](../T/The_Lord_of_the_Rings%253A_The_War_of_the_Rohirrim.md) chính thức được công bố.
 

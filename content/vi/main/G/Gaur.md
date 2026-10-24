@@ -13,7 +13,7 @@ categories:
   - "Sindarin nouns"
 ---
 
-<i><b>bò tót</b></i> (số nhiều *gaurhoth*) là từ [tiếng Sindarin](../S/Sindarin.md) cho *[werewolf](../W/Werewolves.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-PE19_3-0" class="reference"><a href="#cite_note-PE19-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+<i><b>bò tâu</b></i> (số nhiều *gaurhoth*) là từ [Sindarin](../S/Sindarin.md) cho *[werewolf](../W/Werewolves.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-PE19_3-0" class="reference"><a href="#cite_note-PE19-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

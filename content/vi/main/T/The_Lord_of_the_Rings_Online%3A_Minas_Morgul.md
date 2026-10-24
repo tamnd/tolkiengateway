@@ -40,31 +40,31 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/LOTRO_-_Minas_Morgul_logo.png.md"><img src="https://tolkiengateway.net/w/images/thumb/1/17/LOTRO_-_Minas_Morgul_logo.png/320px-LOTRO_-_Minas_Morgul_logo.png" decoding="async" loading="lazy" width="320" height="180" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/17/LOTRO_-_Minas_Morgul_logo.png/480px-LOTRO_-_Minas_Morgul_logo.png 1.5x, https://tolkiengateway.net/w/images/thumb/1/17/LOTRO_-_Minas_Morgul_logo.png/640px-LOTRO_-_Minas_Morgul_logo.png 2x" data-file-width="800" data-file-height="450"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Video game</td></tr><tr><th colspan="2" class="tg-infobox-title"><span><i>The Lord of the Rings Online: Minas Morgul</i></span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Details</span></th></tr><tr><th scope="row" class="tg-infobox-label">Developer</th><td class="tg-infobox-data"><a href="../S/Standing_Stone_Games.md" title="Standing Stone Games">Standing Stone Games</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../D/Daybreak_Game_Company.md" title="Daybreak Game Company">Daybreak Game Company</a></td></tr><tr><th scope="row" class="tg-infobox-label">Platform</th><td class="tg-infobox-data">Microsoft Windows</td></tr><tr><th scope="row" class="tg-infobox-label">Release Date</th><td class="tg-infobox-data"><a href="../_/5_November.md" title="5 November">5 November</a> <a href="../_/2019.md" title="2019">2019</a></td></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data">MMORPG</td></tr></tbody></table>
 
-<i><b>Chúa tể của những chiếc nhẫn trực tuyến: Minas Morgul</b></i> là bản mở rộng thứ bảy của *[The Lord of the Rings Online](The_Lord_of_the_Rings_Online.md)*. Đặc trưng:
+<i><b>The Lord of the Rings Trực tuyến: Minas Morgul</b></i> là bản mở rộng thứ bảy cho *[The Lord of the Rings Online](The_Lord_of_the_Rings_Online.md)*. Đặc trưng:
 
-- Bản mở rộng bao gồm hai khu vực mới, "Mordor Besieged" bao gồm nửa trên của [Gorgoroth](../G/Gorgoroth.md) trong giai đoạn cuối của [Cuộc vây hãm Barad-dûr](../S/Siege_of_Barad-dûr.md) ở Thời đại thứ hai và [Morgul Vale](../M/Morgul_Vale.md), bao gồm các khu vực giữa [Ithilien](../I/Ithilien.md) ở phía tây và Gorgoroth ở phía đông. Thành phố [Minas Morgul](../M/Minas_Morgul.md) cũng có sẵn để khám phá.
+- Bản mở rộng bao gồm hai khu vực mới, "Mordor Bị bao vây" bao gồm nửa trên của [Gorgoroth](../G/Gorgoroth.md) trong giai đoạn cuối của [Cuộc vây hãm Barad-dûr](../S/Siege_of_Barad-dûr.md) ở Kỷ Đệ Nhị và [Thung lũng Morgul](../M/Morgul_Vale.md), bao gồm các khu vực nằm giữa [Ithilien](../I/Ithilien.md) ở phía tây và Gorgoroth ở phía đông. Thành phố [Minas Morgul](../M/Minas_Morgul.md) cũng có sẵn để khám phá.
 - Một chủng tộc mới có thể chơi được, "Những người lùn cầm rìu mập mạp", đã xuất hiện.
-- Cập nhật Chế tạo mới, bao gồm cấp độ mới cho chế tạo bang hội.
-- Một cụm phiên bản mới diễn ra tại Morgul Vale, với bốn phiên bản ba người, ba phiên bản sáu người và một cuộc đột kích, Remmorchant, có trận chiến với [Shelob](../S/Shelob.md) trong [Torech Ungol](Torech_Ungol.md).
+- Cập nhật chế tạo mới, bao gồm cấp độ mới cho chế tạo bang hội.
+- Một cụm phiên bản mới diễn ra trong Thung lũng Morgul, với bốn phiên bản ba người, ba phiên bản sáu người và một cuộc đột kích, Remmorchant, bao gồm trận chiến với [Shelob](../S/Shelob.md) trong [Torech Ungol](Torech_Ungol.md).
 - Giới hạn cấp độ mới là 130 được giới thiệu.
 
 ## Cập nhật {#Updates}
 
-### Cập nhật 26: Sương mù vùng đất hoang {#Update_26:_Mists_of_Wilderland}
+### Cập nhật 26: Sương mù Wilderland {#Update_26:_Mists_of_Wilderland}
 
 *Mists of Wilderland* là bản cập nhật thứ 26, được phát hành vào [23 tháng 4](../_/23_April.md), [2020](../_/2020.md).
 
-- Một khu vực mới, Giếng nước Langflood đã được phát hành, bao gồm vùng thượng nguồn của [Thung lũng Anduin](../V/Vales_of_Anduin.md) và sự sáp nhập của sông [Greylin](../G/Greylin.md) và [Langwell](../L/Langwell.md) vào sông Anduin. Ngoài ra, còn có khu định cư [hiện tại](../B/Beorning.md) ở Limlok, ngôi làng [stoor](../S/Stoor.md) của Lyndelby và tàn tích của [Framsburg](../F/Framsburg.md), từng là thủ đô của [Éothéod](../_/Éothéod.md).
-- Một phe danh tiếng mới, "Những người bảo vệ vùng đất hoang dã", đóng tại Limlok đã được giới thiệu.
-- Một nhiệm vụ hoành tráng hoàn toàn mới, "Di sản của Durin và những thử thách của người lùn" được giới thiệu để tiếp nối Sách đen của Mordor và theo sau những nỗ lực của Hoàng tử Durin trong việc lãnh đạo những người lùn thống nhất chiếm lại [Núi Gundabad](../M/Mount_Gundabad.md) từ tay lũ Orc sống ở đó. Hai chương đầu tiên đã được phát hành.
+- Một khu vực mới, Giếng nước Langflood đã được phát hành, bao gồm vùng thượng nguồn của [Thung lũng Anduin](../V/Vales_of_Anduin.md) và sự hợp nhất của sông [Greylin](../G/Greylin.md) và [Langwell](../L/Langwell.md) vào Anduin. Ngoài ra, còn có khu định cư [hiện tại](../B/Beorning.md) ở Limlok, ngôi làng [stoor](../S/Stoor.md) của Lyndelby và tàn tích của [Framsburg](../F/Framsburg.md), từng là thủ đô của [Éothéod](../_/Éothéod.md).
+- Một phe danh tiếng mới, "Những người bảo vệ Wilderland", đóng tại Limlok đã được giới thiệu.
+- Một nhiệm vụ hoành tráng hoàn toàn mới, "Di sản của Durin và những thử thách của Người Lùn" được giới thiệu để tiếp nối Sách đen Mordor và theo sau những nỗ lực của Thân vương Durin trong việc lãnh đạo những người lùn thống nhất để chiếm lại [Mount Gundabad](../M/Mount_Gundabad.md) từ tay lũ Orc sống ở đó. Hai chương đầu tiên đã được phát hành.
 
 ### Cập nhật 27: Đám cưới hoành tráng {#Update_27:_The_Great_Wedding}
 
 *The Great Wedding* là bản cập nhật thứ 27, được phát hành vào [30 tháng 6](../_/30_June.md), [2020](../_/2020.md).
 
 - Một khu vực mới, [Minas Tirith](../M/Minas_Tirith.md) (Giữa mùa hè), đã được giới thiệu, nằm sau sự phá hủy của [One Ring](../O/One_Ring.md), nằm xung quanh đám cưới của Vua [Aragorn Elessar](../A/Aragorn_Elessar.md) và [Arwen Undomiel](../A/Arwen_Undomiel.md).
-- Lễ hội [Giữa mùa hè](../M/Midsummer.md) đã được giới thiệu, lấy bối cảnh ở Minas Tirith giữa mùa hè, bao gồm tất cả các nhiệm vụ, vật phẩm và hành động mới cho người chơi. Ngoài ra, lễ hội Mùa hè và Hội chợ nông dân được sáp nhập để nhường chỗ cho Lễ hội giữa hè.
-- Nhiệm vụ sử thi tiếp tục với Tập V- Hòa bình của Trung địa, trong cuốn sách đầu tiên.
+- Lễ hội [Giữa hè](../M/Midsummer.md) đã được giới thiệu, lấy bối cảnh giữa mùa hè Minas Tirith, bao gồm tất cả các nhiệm vụ, vật phẩm và hành động mới cho người chơi. Ngoài ra, lễ hội Mùa hè và Hội chợ nông dân được sáp nhập để nhường chỗ cho Lễ hội giữa hè.
+- Nhiệm vụ sử thi tiếp tục với Tập V- Hòa bình của Trung Địa, trong cuốn sách đầu tiên.
 
 <br>
 

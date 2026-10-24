@@ -19,7 +19,7 @@ langlinks:
     url: "https://kontu.wiki/Journal_of_Tolkien_Research"
 ---
 
-The <i><b>Journal of Tolkien Research</b></i> is a peer-reviewed open accesss electronic journal<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> published in the Institutional Repositories of the <a class="extiw" href="http://en.wikipedia.org/wiki/Valparaiso_University" title="wikipedia:Valparaiso University">Valparaiso University</a>, Indiana, USA.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> The journal won the [2016](../_/2016.md) [Tolkien Society Award](../T/Tolkien_Society_Awards.md) for best online content.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Its current editor is [Bradford Lee Eden](../B/Bradford_Lee_Eden.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+<i><b>Journal of Tolkien Research</b></i> là tạp chí điện tử truy cập mở được bình duyệt<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> xuất bản trong Institutional Repositories của <a class="extiw" href="http://en.wikipedia.org/wiki/Valparaiso_University" title="wikipedia:Valparaiso University">Đại học Valparaiso</a>, Indiana, Hoa Kỳ.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Tạp chí đã giành được [2016](../_/2016.md) [Giải thưởng của Hội Tolkien](../T/Tolkien_Society_Awards.md) cho nội dung trực tuyến hay nhất.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Biên tập viên hiện tại của nó là [Bradford Lee Địa đàng](../B/Bradford_Lee_Eden.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Từ nhà xuất bản {#From_the_publisher}
 

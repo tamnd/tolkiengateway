@@ -16,11 +16,11 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><a href="../F/First_Age.md" title="First Age">I</a><a href="../S/Second_Age.md" title="Second Age">II</a><b>III</b><a href="../F/Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="Third_Age_1883.md" title="Third Age 1883">1883</a><a href="Third_Age_1891.md" title="Third Age 1891">1891</a><a href="Third_Age_1896.md" title="Third Age 1896">1896</a><a class="mw-selflink selflink">1899</a><a href="Third_Age_1900.md" title="Third Age 1900">1900</a><a href="Third_Age_1919.md" title="Third Age 1919">1919</a><a href="Third_Age_1928.md" title="Third Age 1928">1928</a></div></div></div></div></div></div>
 
-**Tuổi thứ ba 1899** (viết tắt là **T.A. 1899**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 1899 của [Tuổi thứ ba](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Thời đại thứ ba 1899 còn được gọi là **S.R. 299** trong [Tính toán quận](../S/Shire-reckoning.md).
+**Kỷ Đệ Tam 1899** (viết tắt là **T.A. 1899**) là năm [năm thứ 1899 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Tam](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Kỷ Đệ Tam 1899 còn được gọi là **S.R. 299** trong [lịch Shire](../S/Shire-reckoning.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- [Wainrider/Chiến tranh Balchoth](../W/Wainrider%252FBalchoth_War.md): Vào khoảng thời gian đó [Người phương Bắc](../N/Northmen.md) nổi dậy chống lại [Wainriders](../W/Wainriders.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+- [Wainrider/Balchoth Chiến tranh](../W/Wainrider%252FBalchoth_War.md): Vào khoảng thời gian đó [Người phương Bắc](../N/Northmen.md) cuộc nổi dậy chống lại [Wainriders](../W/Wainriders.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 - Vua [Calimehtar](<../C/Calimehtar_(King_of_Gondor).md>) đánh bại [Wainriders](../W/Wainriders.md) trên [Dagorlad](../D/Dagorlad.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>

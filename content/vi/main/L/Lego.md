@@ -142,7 +142,7 @@ Từ năm 2016 trở về sau không có bản phát hành nào cho đến khi c
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/Lego_-_The_Battle_of_Helm&#39;s_Deep_(board_game).png.md"><img src="https://tolkiengateway.net/w/images/thumb/4/48/Lego_-_The_Battle_of_Helm%27s_Deep_%28board_game%29.png/230px-Lego_-_The_Battle_of_Helm%27s_Deep_%28board_game%29.png" decoding="async" loading="lazy" width="230" height="244" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/48/Lego_-_The_Battle_of_Helm%27s_Deep_%28board_game%29.png/345px-Lego_-_The_Battle_of_Helm%27s_Deep_%28board_game%29.png 1.5x, https://tolkiengateway.net/w/images/thumb/4/48/Lego_-_The_Battle_of_Helm%27s_Deep_%28board_game%29.png/460px-Lego_-_The_Battle_of_Helm%27s_Deep_%28board_game%29.png 2x" data-file-width="1680" data-file-height="1785"/></a><figcaption>&#34;The Battle of Helm&#39;s Deep&#34; box</figcaption></figure>
 
-Vào năm 2012 và 2013, hai trò chơi bảng Lego đã được phát hành như một phần của chủ đề <i><a class="extiw" href="http://en.wikipedia.org/wiki/Lego_Games" title="wikipedia:Lego Games">Lego Games</a></i>. Cách chơi của mỗi trò chơi cờ Lego khác nhau nhưng tất cả đều sử dụng xúc xắc, gạch Lego và *Lego Games* các nhân vật độc quyền được gọi là Microfigures. <br> <br> <a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Hobbit:_An_Unexpected_Journey:_A_Quest_To_Test_Your_Memory_Skills&amp;action=edit&amp;redlink=1" title="The Hobbit: An Unexpected Journey: A Quest To Test Your Memory Skills (page does not exist)">Người Hobbit: Hành trình bất ngờ</a>
+Vào năm 2012 và 2013, hai trò chơi bảng Lego đã được phát hành như một phần của chủ đề <i><a class="extiw" href="http://en.wikipedia.org/wiki/Lego_Games" title="wikipedia:Lego Games">Lego Games</a></i>. Cách chơi của mỗi trò chơi cờ Lego khác nhau nhưng tất cả đều sử dụng xúc xắc, gạch Lego và *Lego Games* các nhân vật độc quyền được gọi là Microfigures. <br> <br> <a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Hobbit:_An_Unexpected_Journey:_A_Quest_To_Test_Your_Memory_Skills&amp;action=edit&amp;redlink=1" title="The Hobbit: An Unexpected Journey: A Quest To Test Your Memory Skills (page does not exist)">The Hobbit: An Unexpected Journey</a>
 
 <blockquote class="tg-quote noexcerpt">
 <p>Defeat the enemy forces at the legendary Battle of Helm&#39;s Deep™ with LEGO® Games The Lord of the Rings™! Play as Aragorn™, Legolas, Gimli™ and the people of Rohan, or side with the evil Uruk-hai™ Army of Isengard as you battle it out for control of the mighty fortress of the Hornburg at Helm&#39;s Deep! For even more variety, change the game using the alternate rules or make up your own to create a truly unique LEGO Games experience.
@@ -1640,9 +1640,9 @@ Dưới đây là các nhân vật, động vật và sinh vật khác xuất hi
 
 #### Số liệu của Brickheadz {#Brickheadz_figures}
 
-- [Aragor](../A/Aragorn.md)
+- [Aragorn](../A/Aragorn.md)
 - [Arwen](../A/Arwen.md)
-- [Tai ương của Durin](../D/Durin's_Bane.md)
+- [Tai họa của Durin](../D/Durin's_Bane.md)
 - [Frodo](../F/Frodo.md)
 - [Gandalf](../G/Gandalf.md)
 - [Gimli](../G/Gimli.md)
@@ -2269,8 +2269,8 @@ Dưới đây là các nhân vật, động vật và sinh vật khác xuất hi
 
 - <a class="extiw" href="http://en.wikipedia.org/wiki/Lego" title="wikipedia:Lego">Lego</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
 - <a class="external text" href="https://www.Lego.com/themes/lord-of-the-rings" rel="noreferrer noopener" target="_blank"><i>Chúa tể của những chiếc nhẫn</i></a> tại <a class="external text" href="https://www.Lego.com/" rel="noreferrer noopener" target="_blank">Lego</a>
-    - <a class="external text" href="https://www.Lego.com/en-us/adults-welcome/article/original-lord-of-the-rings-theme" rel="noreferrer noopener" target="_blank">Quá khứ và Hiện tại: Chủ đề Lego Chúa tể của những chiếc nhẫn</a>
-- Các tác phẩm Lego ở Trung Địa do người hâm mộ tạo ra:
+    - <a class="external text" href="https://www.Lego.com/en-us/adults-welcome/article/original-lord-of-the-rings-theme" rel="noreferrer noopener" target="_blank">Quá khứ và Hiện tại: Chủ đề Lego The Lord of the Rings</a>
+- Các tác phẩm Lego Trung Địa do người hâm mộ tạo ra:
     - <a class="external text" href="https://web.archive.org/web/20190414030344/http://moc-pages.com/group.php/8424/" rel="noreferrer noopener" target="_blank">Các trang MOC lớn nhất Nhóm LOTR</a>
 
 ## Ghi chú {#Notes}
@@ -2278,11 +2278,11 @@ Dưới đây là các nhân vật, động vật và sinh vật khác xuất hi
 <span><div class="mw-references-wrap"><ol class="references">
 <li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text">71200: <b>Gói khởi đầu</b> không được bán riêng lẻ mà thay vào đó được bao gồm trong các Gói khởi đầu dành riêng cho bảng điều khiển cũng bao gồm cả trò chơi. Để biết danh sách đầy đủ các Gói khởi đầu, hãy xem <a class="external text" href="https://www.bricklink.com/catalogItemIn.asp?S=71200-1" rel="noreferrer noopener" target="_blank">Bricklink</a>.</span>
 </li>
-<li id="cite_note-15"><span class="mw-cite-backlink"><a href="#cite_ref-15">↑</a></span> <span class="reference-text">Bộ này là "quà tặng khi mua hàng" độc quyền đi kèm với các giao dịch mua 8278: <b>Minas Tirith</b> cho đến khi hết hàng, trên trang web chính thức của Lego hoặc tại các đại lý được ủy quyền.</span>
+<li id="cite_note-15"><span class="mw-cite-backlink"><a href="#cite_ref-15">↑</a></span> <span class="reference-text">Bộ này là "quà tặng khi mua hàng" độc quyền đi kèm với các giao dịch mua 8278: <b>Minas Tirith</b> cho đến khi hết hàng, trên trang web Lego chính thức hoặc tại các đại lý được ủy quyền.</span>
 </li>
-<li id="cite_note-16"><span class="mw-cite-backlink"><a href="#cite_ref-16">↑</a></span> <span class="reference-text">Bộ này là "quà tặng khi mua hàng" độc quyền đi kèm với các giao dịch mua 10354: <b>The Shire</b> trong khi vẫn còn hàng, trên trang web Lego chính thức hoặc tại các đại lý được ủy quyền.</span>
+<li id="cite_note-16"><span class="mw-cite-backlink"><a href="#cite_ref-16">↑</a></span> <span class="reference-text">Bộ này là "quà tặng khi mua hàng" độc quyền đi kèm với các giao dịch mua 10354: <b>The Shire</b> cho đến khi hết hàng, trên trang web Lego chính thức hoặc tại các đại lý được ủy quyền.</span>
 </li>
-<li id="cite_note-17"><span class="mw-cite-backlink"><a href="#cite_ref-17">↑</a></span> <span class="reference-text">Bộ này là "quà tặng khi mua hàng" độc quyền đi kèm với các giao dịch mua 10333: <b>Barad-dûr</b> trong khi vẫn còn hàng, trên trang web chính thức của Lego hoặc tại các đại lý được ủy quyền.</span>
+<li id="cite_note-17"><span class="mw-cite-backlink"><a href="#cite_ref-17">↑</a></span> <span class="reference-text">Bộ này là "quà tặng khi mua hàng" độc quyền đi kèm với các giao dịch mua 10333: <b>Barad-dûr</b> cho đến khi hết hàng, trên trang web Lego chính thức hoặc tại các đại lý được ủy quyền.</span>
 </li>
 <li id="cite_note-21"><span class="mw-cite-backlink"><a href="#cite_ref-21">↑</a></span> <span class="reference-text">Xem "Sméagol" để biết thêm các biến thể</span>
 </li>
@@ -2290,7 +2290,7 @@ Dưới đây là các nhân vật, động vật và sinh vật khác xuất hi
 </li>
 <li id="cite_note-23"><span class="mw-cite-backlink"><a href="#cite_ref-23">↑</a></span> <span class="reference-text">Xem "Sauron" để biết thêm các biến thể</span>
 </li>
-<li id="cite_note-24"><span class="mw-cite-backlink"><a href="#cite_ref-24">↑</a></span> <span class="reference-text">Xem "Necromancer of Dol Guldur" để biết thêm các biến thể</span>
+<li id="cite_note-24"><span class="mw-cite-backlink"><a href="#cite_ref-24">↑</a></span> <span class="reference-text">Xem "Necromancer của Dol Guldur" để biết thêm các biến thể</span>
 </li>
 <li id="cite_note-25"><span class="mw-cite-backlink"><a href="#cite_ref-25">↑</a></span> <span class="reference-text">Xem "Gollum" để biết thêm các biến thể</span>
 </li>

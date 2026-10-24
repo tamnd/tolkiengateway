@@ -43,11 +43,11 @@ infobox:
 
 ## Lịch sử {#History}
 
-Sandyman sở hữu và điều hành [Old Mill](../O/Old_Mill.md) ở [Hobbiton](../H/Hobbiton.md) khoảng [S.R.](Shire_Reckoning.md) [1401](../T/Third_Age_3001.md) và trước đó rất nhiều.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> [Gaffer](../G/Gaffer_Gamgee.md) không thích Sandyman lắm cũng như thói quen kể những câu chuyện hoang đường và phán đoán nhanh chóng về người khác.
+Sandyman sở hữu và điều hành [Old Mill](../O/Old_Mill.md) ở [Hobbiton](../H/Hobbiton.md) khoảng [S.R.](Shire_Reckoning.md) [1401](../T/Third_Age_3001.md) và trước đó rất lâu.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> [Gaffer](../G/Gaffer_Gamgee.md) không thích Sandyman lắm cũng như thói quen kể những câu chuyện cao siêu và phán đoán nhanh chóng về người khác.
 
-Trước [Bữa tiệc chia tay của Bilbo](../B/Bilbo's_Farewell_Party.md), trong khi bàn tán về [Frodo Baggins](../F/Frodo_Baggins.md) và cái chết của cha mẹ anh, Sandyman kể lại tin đồn rằng [mẹ anh](../P/Primula_Brandybuck.md) đã đẩy [cha anh](../D/Drogo_Baggins.md) khỏi thuyền và ông đã kéo bà xuống; và bị Gaffer mắng vì tin vào những tin đồn như vậy. Ông băn khoăn về việc Bilbo sẽ tăng thêm sự giàu có của mình bằng cách đi du lịch và [Gandalf](../G/Gandalf.md) cùng [Người lùn](../D/Dwarves.md) đến thăm ông.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Trước [Tiệc chia tay của Bilbo](../B/Bilbo's_Farewell_Party.md), trong lúc bàn tán về [Frodo Baggins](../F/Frodo_Baggins.md) và cái chết của cha mẹ mình, Sandyman kể lại tin đồn [mẹ anh](../P/Primula_Brandybuck.md) đã đẩy [cha anh](../D/Drogo_Baggins.md) khỏi thuyền và ông đã kéo bà xuống; và bị Gaffer mắng vì tin vào những tin đồn như vậy. Ông băn khoăn về việc Bilbo tăng cường sự giàu có của mình bằng cách đi du lịch và [Gandalf](../G/Gandalf.md) và [Người Lùn](../D/Dwarves.md) đến thăm ông.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Một thời gian trước [War of the Ring](../W/War_of_the_Ring.md), Sandyman qua đời và truyền lại nhà máy cho con trai [Ted](../T/Ted_Sandyman.md).
+Một thời gian trước [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), Sandyman qua đời và truyền lại nhà máy cho con trai [Ted](../T/Ted_Sandyman.md).
 
 ## Cảm hứng {#Inspiration}
 
@@ -78,11 +78,11 @@ Có thể là người thợ xay ở [Sarehole](Sarehole.md) Mill, Warwickshire,
 		</li>
 </ul>
 
-<b>2003: <a href="../T/The_Hobbit_(2003_video_game).md" title="The Hobbit (2003 video game)"><i>Người Hobbit</i> (trò chơi điện tử năm 2003)</a>:</b>
+<b>2003: <a href="../T/The_Hobbit_(2003_video_game).md" title="The Hobbit (2003 video game)"><i>The Hobbit</i> (trò chơi điện tử năm 2003)</a>:</b>
 
 <dl><dd>He is given the full name Carl Sandyman, and is the mischievous son of the current miller. He hid his father&#39;s hammer and nails. <a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo</a> has to retrieve them before the bridge over the Water can be repaired.</dd></dl>
 
-<b>2025: <i><a href="../T/Tales_of_the_Shire%253A_A_%2522The_Lord_of_the_Rings%2522_Game.md" title="Tales of the Shire: A &#34;The Lord of the Rings&#34; Game">Tales of the Shire: Trò chơi "Chúa tể của những chiếc nhẫn"</a></i>:</b>
+<b>2025: <i><a href="../T/Tales_of_the_Shire%253A_A_%2522The_Lord_of_the_Rings%2522_Game.md" title="Tales of the Shire: A &#34;The Lord of the Rings&#34; Game">Câu chuyện về Shire: Trò chơi "The Lord of the Rings"</a></i>:</b>
 
 <dl><dd>Sandyman is the Miller of Hobbiton. The player can invite him to a meal.</dd></dl>
 

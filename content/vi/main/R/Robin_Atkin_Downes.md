@@ -20,13 +20,13 @@ sort_keys:
 
 **Robin Atkin Downes** là một diễn viên người Anh.
 
-Ông đã thử vai [Aragorn](../A/Aragorn.md) trong [*The Lord of the Rings* (loạt phim)](<../T/The_Lord_of_the_Rings_(film_series).md>). Atkin Downes được cho là đang thử sức cho vai diễn này nhưng không phải là điều mà đoàn casting đang tìm kiếm. Ông đã lồng tiếng cho một số nhân vật trong [trò chơi điện tử](../../category/G/Games.md), nhưng không ai trong số họ là Aragorn.
+Anh đã thử vai [Aragorn](../A/Aragorn.md) trong [*The Lord of the Rings* (loạt phim)](<../T/The_Lord_of_the_Rings_(film_series).md>). Atkin Downes được cho là đang thử sức cho vai diễn này nhưng không phải là điều mà đoàn casting đang tìm kiếm. Ông đã lồng tiếng cho một số nhân vật trong [trò chơi điện tử](../../category/G/Games.md), nhưng không có nhân vật nào trong số đó là Aragorn.
 
 ## Vai trò {#Roles}
 
 - [2006](../_/2006.md) - *[The Lord of the Rings: The Battle for Middle-earth II: The Rise of the Witch-king](../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II%253A_The_Rise_of_the_Witch-king.md)* - Giọng nói bổ sung
 - 2006 - *[The Lord of the Rings: The Battle for Middle-earth II](../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md)* - Giọng nói bổ sung
-- [2003](../_/2003.md) - *[The Lord of the Rings: War of the Ring](../T/The_Lord_of_the_Rings%253A_War_of_the_Ring.md)* - Người mang ánh sáng Elven, Giọng nói bổ sung
+- [2003](../_/2003.md) - *[The Lord of the Rings: War of the Ring](../T/The_Lord_of_the_Rings%253A_War_of_the_Ring.md)* - Tiên Người mang ánh sáng, Giọng nói bổ sung
 - 2003 - *[The Hobbit](<../T/The_Hobbit_(2003_video_game).md>)* - Giọng nói bổ sung
 
 ## Liên kết ngoài {#External_links}

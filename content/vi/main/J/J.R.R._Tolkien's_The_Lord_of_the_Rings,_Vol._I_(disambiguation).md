@@ -14,11 +14,11 @@ images:
   - "Disambig.png"
 ---
 
-Chúa tể của những chiếc nhẫn của **J.R.R. Tolkien, Tập. Tôi** có thể tham khảo:
+**J.R.R. Tolkien của The Lord of the Rings, Tập. Tôi** có thể tham khảo:
 
 - *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)*
-Chúa tể của những chiếc nhẫn của - [J.R.R. Tolkien, Tập. I (trò chơi điện tử năm 1990)](<J.R.R._Tolkien's_The_Lord_of_the_Rings,_Vol._I_(1990_video_game).md>), một trò chơi trên PC của [Interplay Productions](../I/Interplay_Productions.md).
-Chúa tể của những chiếc nhẫn của - [J.R.R. Tolkien, Tập. I (SNES)](<J.R.R._Tolkien's_The_Lord_of_the_Rings,_Vol._I_(SNES).md>), một trò chơi Super Nintendo năm 1994, cũng của Interplay.
+- [J.R.R. Tolkien của The Lord of the Rings, Tập. I (trò chơi điện tử năm 1990)](<J.R.R._Tolkien's_The_Lord_of_the_Rings,_Vol._I_(1990_video_game).md>), một trò chơi trên PC của [Interplay Productions](../I/Interplay_Productions.md).
+- [J.R.R. Tolkien The Lord of the Rings của, Tập. I (SNES)](<J.R.R._Tolkien's_The_Lord_of_the_Rings,_Vol._I_(SNES).md>), một trò chơi Super Nintendo năm 1994, cũng của Interplay.
 
 <hr style="margin-top:15px;"/>
 

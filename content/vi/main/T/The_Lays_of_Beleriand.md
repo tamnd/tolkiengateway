@@ -69,17 +69,17 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/Lays_of_Beleriand_1985.png.md"><img src="https://tolkiengateway.net/w/images/thumb/1/14/Lays_of_Beleriand_1985.png/303px-Lays_of_Beleriand_1985.png" decoding="async" loading="lazy" width="303" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/1/14/Lays_of_Beleriand_1985.png 1.5x" data-file-width="316" data-file-height="500"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Lays of Beleriand</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a class="mw-redirect" href="../G/George_Allen_and_Unwin.md" title="George Allen and Unwin">George Allen and Unwin</a> (UK)<br/><a class="mw-redirect" href="../H/Houghton_Mifflin.md" title="Houghton Mifflin">Houghton Mifflin</a> (US)</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/22_August.md" title="22 August">22 August</a> <a href="../_/1985.md" title="1985">1985</a> (UK)<br/><a href="../_/20_November.md" title="20 November">20 November</a> 1985 (US)</td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Hardcover; paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">393</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0048232777" title="Special:BookSources/0048232777">0048232777</a></td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="The_Book_of_Lost_Tales%253A_Part_Two.md" title="The Book of Lost Tales: Part Two">The Book of Lost Tales: Part Two</a> (1984)</td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="The_Shaping_of_Middle-earth.md" title="The Shaping of Middle-earth">The Shaping of Middle-earth</a> (1986)</td></tr></tbody></table>
 
-<i><b>The Lays of Beleriand</b></i>, xuất bản năm [1985](../_/1985.md), là tập thứ ba trong bộ sách 12 tập của [Christopher Tolkien](../C/Christopher_Tolkien.md), *[The History of Middle-earth](The_History_of_Middle-earth.md)*, trong đó ông phân tích các bản thảo chưa xuất bản của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
+<i><b>The Lays of Beleriand</b></i>, xuất bản trong [1985](../_/1985.md), là tập thứ ba trong bộ sách 12 tập của [Christopher Tolkien](../C/Christopher_Tolkien.md), *[The History of Middle-earth](The_History_of_Middle-earth.md)*, trong đó ông phân tích các bản thảo chưa xuất bản của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
-Cuốn sách này bao gồm năm bài thơ mà Tolkien bắt đầu viết ngay sau giai đoạn *[The Book of Lost Tales](The_Book_of_Lost_Tales.md)*. Chỉ có hai trong số đó được tiếp tục sau phần đầu, *[Lay of the Children of Húrin](../L/Lay_of_the_Children_of_Húrin.md)* và *[Lay of Leithian](../L/Lay_of_Leithian.md)*, bài sau là bài thơ dài nhất mà Tolkien từng sáng tác, mặc dù ông chưa hoàn thành nó.
+Cuốn sách này bao gồm năm bài thơ Tolkien bắt đầu viết ngay sau giai đoạn *[The Book of Lost Tales](The_Book_of_Lost_Tales.md)*. Chỉ có hai trong số đó được tiếp tục sau phần đầu, *[Lay of the Children of Húrin](../L/Lay_of_the_Children_of_Húrin.md)* và *[Lay of Leithian](../L/Lay_of_Leithian.md)*, bài sau là bài thơ Tolkien dài nhất từng được sáng tác, mặc dù ông chưa hoàn thành nó.
 
 ## Tổng quan {#Overview}
 
-Cuốn sách bao gồm những bài thơ anh hùng dài hoặc thơ trữ tình mà Tolkien đã viết: đây là *[The Lay of the Children of Húrin](The_Lay_of_the_Children_of_Húrin.md)* về câu chuyện [Túrin Turambar](Túrin_Turambar.md), và *[The Lay of Leithian](The_Lay_of_Leithian.md)* (còn gọi là *Release from Bondage*) về [Beren](../B/Beren.md) và [Lúthien](../L/Lúthien.md). Mặc dù Tolkien đã bỏ rơi chúng trước khi kết thúc tương ứng, nhưng cả hai đều đủ dài để chiếm nhiều khổ thơ, mỗi khổ có thể kéo dài hơn mười trang. Bài thơ đầu tiên ở thể thơ điệp âm, và bài thơ thứ hai là câu đối có vần điệu. Cả hai đều tồn tại trong hai phiên bản.
+Sách có những bài thơ hùng tráng hoặc thơ trữ tình dài mà Tolkien viết: đó là *[The Lay of the Children of Húrin](The_Lay_of_the_Children_of_Húrin.md)* về câu chuyện [Túrin Turambar](Túrin_Turambar.md), và *[The Lay of Leithian](The_Lay_of_Leithian.md)* (còn gọi là *Release from Bondage*) về [Beren](../B/Beren.md) và [Lúthien](../L/Lúthien.md). Mặc dù Tolkien đã bỏ chúng trước khi kết thúc tương ứng, nhưng cả hai đều đủ dài để chiếm nhiều khổ thơ, mỗi khổ có thể kéo dài hơn mười trang. Bài thơ đầu tiên ở thể thơ điệp âm, và bài thơ thứ hai là câu đối có vần điệu. Cả hai đều tồn tại trong hai phiên bản.
 
-Ngoài hai bài thơ này, cuốn sách còn có ba bài thơ điệp âm ngắn sắp bị bỏ quên, đó là *Chuyến bay của Noldoli từ Valinor*, *The Lay of Eärendel* và *Sự ​​sụp đổ của Gondolin*.
+Ngoài hai bài thơ này, cuốn sách còn có ba bài thơ điệp âm ngắn, sắp bị bỏ đi, đó là *Chuyến bay của Noldoli từ Valinor*, *The Lay of Eärendel* và *Sự nằm của Sự sụp đổ của Gondolin*.
 
-Phiên bản đầu tiên của cuốn sách dài khớp về mặt trình tự thời gian với các tác phẩm đầu tiên của Tolkien, như được kể lại trong *[The Book of Lost Tales](The_Book_of_Lost_Tales.md)*, nhưng phiên bản sau này của *The Lay of Leithian* lại cùng thời với cách viết của *[The Lord of the Rings](The_Lord_of_the_Rings.md)*.
+Phiên bản đầu tiên của cuốn sách dài khớp về mặt thứ tự thời gian với các tác phẩm đầu tiên của Tolkien, như được kể lại trong *[The Book of Lost Tales](The_Book_of_Lost_Tales.md)*, nhưng phiên bản sau này của *The Lay of Leithian* lại cùng thời với tác phẩm của *[The Lord of the Rings](The_Lord_of_the_Rings.md)*.
 
 ## Nội dung {#Contents}
 
@@ -91,7 +91,7 @@ Phiên bản đầu tiên của cuốn sách dài khớp về mặt trình tự 
 
 - II. [Những bài thơ bị bỏ rơi sớm](../P/Poems_Early_Abandoned.md):
     - *"[Chuyến bay của Noldoli từ Valinor](The_Flight_of_the_Noldoli_from_Valinor.md)"*
-    - "[Mảnh của một Lay of Eärendel ám chỉ](../F/Fragment_of_an_alliterative_Lay_of_Eärendel.md)"
+    - "[Đoạn của một điệp âm của Eärendel](../F/Fragment_of_an_alliterative_Lay_of_Eärendel.md)"
     - "*[The Lay of the Fall of Gondolin](The_Lay_of_the_Fall_of_Gondolin.md)*"
 
 - III. "*[The Lay of Leithian](The_Lay_of_Leithian.md)*"
@@ -105,7 +105,7 @@ Phiên bản đầu tiên của cuốn sách dài khớp về mặt trình tự 
 
 ## Chữ khắc {#Inscriptions}
 
-Có một dòng chữ bằng ký tự [Tengwar](Tengwar.md) ở trang đầu tiên của mỗi tập *History of Middle-earth*, do Christopher Tolkien viết và mô tả nội dung cuốn sách. Dòng chữ trong Quyển III có nội dung:
+Có một dòng chữ bằng ký tự [Tengwar](Tengwar.md) ở những trang đầu tiên của mỗi tập *History of Middle-earth*, do Christopher Tolkien viết và mô tả nội dung của cuốn sách. Dòng chữ trong Quyển III có nội dung:
 
 <dl><dd>&#34;<i>In the first part of this Book is given the Lay of the Children of Húrin by John Ronald Reuel Tolkien, in which is set forth in part the Tale of Túrin. In the second part is the Lay of Leithian, which is the Gest of Beren and Lúthien as far as the encounter of Beren with <a href="../C/Carcharoth.md" title="Carcharoth">Carcharoth</a> at the gate of <a href="../A/Angband.md" title="Angband">Angband</a>.</i>&#34;</dd></dl>
 
@@ -181,14 +181,14 @@ Accompanying the poems are commentaries on the evolution of the history of the <
 		</li>
 </ul>
 
-- [George Allen & Unwin](../G/George_Allen_&_Unwin.md), bìa cứng ([1985](../_/1985.md)), trang 393. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0048232777">ISBN 0048232777</a>
+- [George Allen &amp; Unwin](../G/George_Allen_&_Unwin.md), bìa cứng ([1985](../_/1985.md)), trang 393. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0048232777">ISBN 0048232777</a>
 - [Giải phóng sách bìa mềm](../U/Unwin_Paperbacks.md), bìa mềm ([1987](../_/1987.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0044400187">ISBN 0044400187</a> - (ảnh bìa của [Roger Garland](../R/Roger_Garland.md))
 - [HarperCollins](../H/HarperCollins.md) bìa cứng ([1991](../_/1991.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0261102052">ISBN 0261102052</a>
 - [HarperCollins](../H/HarperCollins.md) bìa mềm ([1994](../_/1994.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0261102265">ISBN 0261102265</a> - (ảnh bìa của [John Howe](../J/John_Howe.md))
     - Ấn bản bìa mềm năm 1994, đặt lại ở [2002](../_/2002.md), sau đó ở [2015](../_/2015.md)
 - [HarperCollins](../H/HarperCollins.md) bìa cứng ([2010](../_/2010.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007365276">ISBN 0007365276</a>
     - Ấn bản bìa mềm năm 2015, lần in thứ 37 ([2024](../_/2024.md))
-- [HarperCollins](../H/HarperCollins.md) bìa cứng với áo khoác chống bụi có thể đảo ngược ([2024](../_/2024.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/9780008669201">ISBN 978-0008669201</a> - ([Bộ đóng hộp thế kỷ](../C/Centenary_Boxed_Sets.md) #2)
+- [HarperCollins](../H/HarperCollins.md) bìa cứng có áo chống bụi có thể đảo ngược ([2024](../_/2024.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/9780008669201">ISBN 978-0008669201</a> - ([Bộ đóng hộp thế kỷ](../C/Centenary_Boxed_Sets.md) #2)
 
 ## Liên kết ngoài {#External_links}
 

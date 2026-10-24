@@ -35,7 +35,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Merp_rangers.jpg.md"><img src="https://tolkiengateway.net/w/images/b/b9/Merp_rangers.jpg" decoding="async" loading="lazy" width="283" height="370" class="mw-file-element" data-file-width="283" data-file-height="370"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span><i>Rangers of the North, The Kingdom of Arthedain</i></span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a href="../J/John_David_Ruemmler.md" title="John David Ruemmler">John David Ruemmler</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../I/Iron_Crown_Enterprises.md" title="Iron Crown Enterprises">Iron Crown Enterprises</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/1984.md" title="1984">1984</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Softcover</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">56</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0-915795-22-1" title="Special:BookSources/0-915795-22-1">0-915795-22-1</a></td></tr><tr><th scope="row" class="tg-infobox-label">ICE stock no.</th><td class="tg-infobox-data">3000</td></tr></tbody></table>
 
-<i><b>Rangers of the North: The Kingdom of Arthedain</b></i> là một mô-đun (trong dòng *Campaign*) dành cho *[Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)*, Phiên bản đầu tiên.
+<i><b>Rangers of the North: Vương quốc Arthedain</b></i> là một mô-đun (trong dòng *Campaign*) dành cho *[Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)*, Phiên bản đầu tiên.
 
 Tài liệu từ sản phẩm này đã được đưa vào *[Arnor, The Realm](../A/Arnor%253A_The_Realm.md)*.
 
@@ -44,15 +44,15 @@ Tài liệu từ sản phẩm này đã được đưa vào *[Arnor, The Realm](
 Gói này trình bày chi tiết về toàn bộ Vương quốc phía Bắc của Dunedain và bao gồm:
 
 - 9 bố cục bao gồm các ngôi làng và thành trì của Nhà tiên tri Ác ma
-- 4 bản đồ đầy màu sắc mô tả Fornost, Annuminas, Quận và Biên giới phía Bắc
+- 4 bản đồ đủ màu mô tả Fornost, Annuminas, Shire và Biên giới phía Bắc
 - mô tả đầy đủ về Palantiri
-- hoàn thành các số liệu thống kê về Kiểm lâm Aragorn, Pháp sư Gandalf và nhiều người Hobbit quan trọng
-- cuộc phiêu lưu gần biên giới phía tây của Vua phù thủy
-- tìm kiếm Palantiri bị thất lạc trong vùng hoang tàn băng giá của Forochel
+- hoàn thành các chỉ số cho Aragorn Ranger, Gandalf Pháp sư và nhiều Hobbit quan trọng
+- cuộc phiêu lưu gần biên giới phía tây của Phù thủy-Vua
+- tìm kiếm Palantiri bị thất lạc trong đống rác thải đông lạnh của Forochel
 
-Nằm giữa Dãy núi Sương mù hùng vĩ và Biển Xanh, Arthedain là quê hương của những tín đồ trung thành với Numenor, nơi từng là nơi sinh sống của những người cao nhất. Các nhà tiên tri nổi tiếng tập trung tại Tòa án Hoàng gia ở Fornost để chiêm ngưỡng những viễn cảnh mơ hồ về Palantir. Ở phía đông, Vua phù thủy của Angmar đang sẵn sàng như một con sói đói, nóng lòng muốn nuốt chửng Vương quốc Dunedain cuối cùng còn sót lại.
+Nằm giữa Dãy Núi Sương Mù hùng mạnh và Blue, Arthedain là ngôi nhà của những người trung thành với Numenor sa ngã, nơi từng là nơi sinh sống của những người đàn ông cao nhất. Các nhà tiên tri nổi tiếng tập trung tại Tòa án Hoàng gia ở Fornost để chiêm ngưỡng những hình ảnh mơ hồ về Palantir. Ở phía đông, Phù thủy-Vua của Angmar đang sẵn sàng như một con sói đói, nóng lòng muốn nuốt chửng Vương quốc Dunedain cuối cùng còn sót lại.
 
-Chống lại mối đe dọa này, một số ít người có di sản cao quý bị che khuất bởi trang phục của biên giới. Những người đi lang thang, bí mật là những Rangers này; woodwise như Yêu tinh. Được hướng dẫn bởi Pháp sư Gandalf và sử dụng các loài chim và quái vật làm đặc vụ, họ canh gác và bảo vệ biên giới phía đông chống lại thế lực Bóng tối.
+Chống lại mối đe dọa này, một số ít người có di sản cao quý bị che khuất bởi trang phục của biên giới. Những người đi lang thang, bí mật là những Rangers này; theo chiều gỗ như Tiên tộc. Được dạy dỗ bởi Pháp sư Gandalf và sử dụng chim và thú làm tay sai, họ canh gác và bảo vệ biên giới phía đông chống lại lực lượng của Bóng Tối.
 
 ## Xem thêm {#See_also}
 

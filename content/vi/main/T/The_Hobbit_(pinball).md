@@ -26,5 +26,5 @@ images:
 
 ## Liên kết ngoài {#External_links}
 
-- <i><a class="external text" href="https://pinside.com/pinball/machine/the-hobbit" rel="noreferrer noopener" target="_blank">Người Hobbit</a></i> tại <a class="external text" href="https://pinside.com/" rel="noreferrer noopener" target="_blank">Pinside</a>
-- <i><a class="external text" href="https://www.ipdb.org/machine.cgi?id=6222" rel="noreferrer noopener" target="_blank">Người Hobbit</a></i> tại <a class="external text" href="http://www.ipdb.org/" rel="noreferrer noopener" target="_blank">IPDB.org</a>
+- <i><a class="external text" href="https://pinside.com/pinball/machine/the-hobbit" rel="noreferrer noopener" target="_blank">The Hobbit</a></i> tại <a class="external text" href="https://pinside.com/" rel="noreferrer noopener" target="_blank">Pinside</a>
+- <i><a class="external text" href="https://www.ipdb.org/machine.cgi?id=6222" rel="noreferrer noopener" target="_blank">The Hobbit</a></i> tại <a class="external text" href="http://www.ipdb.org/" rel="noreferrer noopener" target="_blank">IPDB.org</a>

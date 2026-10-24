@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Diamond, Marian"
 ---
 
-**Marian Diamond** (sinh [17 tháng 12](../_/17_December.md) [1936](../_/1936.md)) là một nữ diễn viên người Anh. Được biết đến chủ yếu nhờ giọng hát của mình, bà đã làm việc cho [BBC](../B/BBC.md) trong nhiều năm. Cô thuật lại một số tập của *[Jackanory](../J/Jackanory.md)* (chủ yếu liên quan đến sách của [C.S. Lewis](../C/C.S._Lewis.md)) và cô lồng tiếng cho [Galadriel](../G/Galadriel.md) trong loạt phim phát thanh [*The Lord of the Rings*](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>).
+**Marian Diamond** (sinh [17 tháng 12](../_/17_December.md) [1936](../_/1936.md)) là một nữ diễn viên người Anh. Được biết đến chủ yếu nhờ giọng hát của mình, bà đã làm việc cho [BBC](../B/BBC.md) trong nhiều năm. Cô thuật lại một số tập của *[Jackanory](../J/Jackanory.md)* (chủ yếu liên quan đến sách [C.S. Lewis](../C/C.S._Lewis.md)') và cô lồng tiếng cho [Galadriel](../G/Galadriel.md) trong [*The Lord of the Rings* loạt phim phát thanh](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>).
 
 ## Liên kết ngoài {#External_links}
 

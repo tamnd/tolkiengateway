@@ -13,7 +13,7 @@ categories:
   - "Buildings"
 ---
 
-**Vũ khí** bao gồm những không gian cao nhất của [nơi ở](../T/Timeless_Halls.md) vô tận của [Ilúvatar](../I/Ilúvatar.md) và [Ainur](../A/Ainur.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Vũ khí** bao gồm các không gian cao nhất của [nơi ở](../T/Timeless_Halls.md) vô hạn của [Ilúvatar](../I/Ilúvatar.md) và [Ainur](../A/Ainur.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

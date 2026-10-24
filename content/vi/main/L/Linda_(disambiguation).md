@@ -16,18 +16,18 @@ images:
 
 **Linda** có thể tham khảo:
 
-## Trung địa {#Middle-earth}
+## Trung Địa {#Middle-earth}
 
 - Từ [Quenya](../Q/Quenya.md) *[linda](Linda.md)* có nghĩa là "công bằng".
-- Phần tử *[lind](Lind.md)*, liên quan đến "âm nhạc" cả trong Quenya và [Sindarin](../S/Sindarin.md) (không nên nhầm lẫn với *[lin](Lin.md)*).
-- Một trong những *[Lindar](Lindar.md)*, tên mà [Teleri](../T/Teleri.md) dùng cho chính họ.
+- Phần tử *[lind](Lind.md)*, liên quan đến "âm nhạc" cả trong Quenya và [Sindarin](../S/Sindarin.md) (không được nhầm lẫn với *[lin](Lin.md)*).
+- Một trong những *[Lindar](Lindar.md)*, tên mà [Teleri](../T/Teleri.md) sử dụng cho chính họ.
 - [Linda Proudfoot](Linda_Proudfoot.md) ([S.R.](../S/Shire_Reckoning.md) [1262](../T/Third_Age_2862.md) - [S.R.](../S/Shire_Reckoning.md) [1363](../T/Third_Age_2963.md)), dì của [Bilbo Baggins](../B/Bilbo_Baggins.md).
 - [Lindo](Lindo.md), người canh giữ khôn ngoan [Ngôi nhà của Lost Play](../C/Cottage_of_Lost_Play.md).
 
 ## Thế giới thực {#Real_World}
 
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Linda_Garland&amp;action=edit&amp;redlink=1" title="Linda Garland (page does not exist)">Linda Garland</a>, vợ của nghệ sĩ [Roger Garland](../R/Roger_Garland.md) và bản thân cũng là một nghệ sĩ.
-- [Linda Greenwood](Linda_Greenwood.md), tác giả.
+- [Linda Rừng Xanh](Linda_Greenwood.md), tác giả.
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Linda_Wilson&amp;action=edit&amp;redlink=1" title="Linda Wilson (page does not exist)">Linda Wilson</a>, tác giả.
 
 <hr style="margin-top:15px;"/>

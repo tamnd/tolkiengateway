@@ -15,7 +15,7 @@ sort_keys:
   "Parma Nölé": "Parma Nole 05"
 ---
 
-<b><i>Parma Nölé</i> 5</b> là số thứ năm của tạp chí [Hiệp hội Tolkien Đông Bắc](../N/North_East_Tolkien_Society.md) *[Parma Nölé](Parma_Nölé.md)*, dành cho Mùa đông [2002](../_/2002.md)-[2003](../_/2003.md).
+<b><i>Parma Nölé</i> 5</b> là số thứ năm của tạp chí [Miền Bắc phương Đông Tolkien Hiệp hội](../N/North_East_Tolkien_Society.md) *[Parma Nölé](Parma_Nölé.md)*, dành cho Mùa đông [2002](../_/2002.md)-[2003](../_/2003.md).
 
 ## Nội dung {#Contents}
 
@@ -25,6 +25,6 @@ sort_keys:
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Stephanie_Kushner&amp;action=edit&amp;redlink=1" title="Stephanie Kushner (page does not exist)">Stephanie Kushner</a>: "Buổi chiếu phim tại Thành phố New York:" *[The Lord of the Rings: The Fellowship of the Ring](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)* ([Phiên bản mở rộng](<../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(extended_edition).md>))
 
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Jessica_Burke&amp;action=edit&amp;redlink=1" title="Jessica Burke (page does not exist)">Jessica Burke</a>:"[ *[The Lord of the Rings: The Two Towers Visual Companion](../T/The_Lord_of_the_Rings%253A_The_Two_Towers_Visual_Companion.md)* của Jude Fisher](../J/Jude_Fisher.md) (đánh giá)
-- Donald Barr: "[Ngày 1 tháng 5](../_/1_May.md), [1955](../_/1955.md) Đánh giá sách *[The Two Towers](../T/The_Two_Towers.md)*: Thế giới bóng tối của đàn ông và người Hobbit
+- Donald Barr: "[Ngày 1 tháng 5](../_/1_May.md), [1955](../_/1955.md) Đánh giá sách *[The Two Towers](../T/The_Two_Towers.md)*: Thế giới bóng tối của Con Người và Hobbit
 - Sean Gates: "Bảo vệ các nhà biên kịch"
 - "[ *[The Lord of the Rings: The Making of the Movie Trilogy](../T/The_Lord_of_the_Rings%253A_The_Making_of_the_Movie_Trilogy.md)*" của Brian Sibley](../B/Brian_Sibley.md) (đánh giá)

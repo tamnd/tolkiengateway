@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lindon"
 ---
 
-Chuyển hướng tới [Lindon](Lindon.md).
+Chuyển hướng đến [Lindon](Lindon.md).

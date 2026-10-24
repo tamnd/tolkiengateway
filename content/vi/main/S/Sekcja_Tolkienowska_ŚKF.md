@@ -17,7 +17,7 @@ images:
 
 <figure class="mw-halign-right" typeof="mw:File/Frame"><a class="mw-file-description" href="../../file/P/Parmadili_logo.png.md"><img src="https://tolkiengateway.net/w/images/3/3e/Parmadili_logo.png" decoding="async" loading="lazy" width="191" height="189" class="mw-file-element" data-file-width="191" data-file-height="189"/></a><figcaption></figcaption></figure>
 
-<b><i>Parmadili</i>, Sekcja Tolkienowska Śląskiego Klubu Fantastyki</b> (tiếng Ba Lan có nghĩa là "*Parmadili*, Bộ phận Tolkien của Câu lạc bộ giả tưởng Silesian") là một [hội Tolkien](../T/Tolkien_Societies~67099.md) có trụ sở tại Ba Lan. Nó được thành lập vào năm [1984](../_/1984.md) và xuất bản *[Aiglos](<../A/Aiglos_(journal).md>)* và *Buckland News*. Tính đến năm 2011, xã hội này dường như không hoạt động vì không có hoạt động nào sau năm 2009 được liệt kê. Vào năm 2023, các hoạt động lớn hơn nửa năm một lần và các hoạt động hàng tháng của Silesian sẽ được liệt kê.
+<b><i>Parmadili</i>, Sekcja Tolkienowska Śląskiego Klubu Fantastyki</b> (tiếng Ba Lan có nghĩa là "*Parmadili*, phần Tolkien của Câu lạc bộ tưởng tượng Silesian") là một [Tolkien hội](../T/Tolkien_Societies~67099.md) có trụ sở tại Ba Lan. Nó được thành lập vào năm [1984](../_/1984.md) và xuất bản *[Aiglos](<../A/Aiglos_(journal).md>)* và *Buckland News*. Tính đến năm 2011, xã hội này dường như không hoạt động vì không có hoạt động nào sau năm 2009 được liệt kê. Vào năm 2023, các hoạt động lớn hơn nửa năm một lần và các hoạt động hàng tháng của Silesian sẽ được liệt kê.
 
 ## Tạp chí {#Magazine}
 

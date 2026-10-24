@@ -35,12 +35,12 @@ infobox:
 <h2><span id="Track_listing_of_J.R.R._Tolkien.27s_Songs_from_Middle-earth"></span><span class="mw-headline" id="Track_listing_of_J.R.R._Tolkien&#39;s_Songs_from_Middle-earth">Track listing of <i>J.R.R. Tolkien&#39;s Songs from Middle-earth</i></span></h2>
 
 1. "[Bài hát dạo chơi](../A/A_Walking_Song.md) (Trên lò sưởi)"
-2. "[Bài hát của Bilbo (Bên ngọn lửa)](../I/I_Sit_beside_the_Fire_and_Think.md)"
-3. "[Người đàn ông trên mặt trăng thức quá muộn](The_Man_in_the_Moon_Stayed_Up_Too_Late.md)"
-4. "[Người đàn ông trên mặt trăng xuống quá sớm](The_Man_in_the_Moon_Came_Down_Too_Soon.md)"
+2. "[Bilbo Bài hát (Bên ngọn lửa)](../I/I_Sit_beside_the_Fire_and_Think.md)"
+3. "[Người đàn ông trong Mặt Trăng thức quá muộn](The_Man_in_the_Moon_Stayed_Up_Too_Late.md)"
+4. "[Người đàn ông trong Mặt Trăng Xuống quá sớm](The_Man_in_the_Moon_Came_Down_Too_Soon.md)"
 5. "[Quỷ đá](The_Stone_Troll.md)"
 6. "[Gil Galad](The_Fall_of_Gil-galad.md)"
-7. "[Bài hát đi bộ cũ (Con đường vẫn tiếp tục)](<The_Road_Goes_Ever_On_(song).md>)"
+7. "[Bài hát dạo phố xưa (The Road Goes Ever On)](<The_Road_Goes_Ever_On_(song).md>)"
 8. "[Thị trấn yêu tinh](../C/Clap!_Snap!_the_black_crack!.md)"
 9. "[Mewlips](The_Mewlips.md)"
 10. "[Nướng chúng còn sống!](../F/Fifteen_birds_in_five_fir-trees.md)"
@@ -48,13 +48,13 @@ infobox:
 12. "[Thung lũng](../I/In_the_Valley,_Ha!_Ha!.md)"
 13. "[Perry The Winkle](../P/Perry-the-Winkle.md)"
 14. "[Bài hát tắm](../B/Bath-songs.md)"
-15. "[Bài hát cuối cùng của Bilbo](../B/Bilbo's_Last_Song.md)"
+15. "[Bilbo Bài hát cuối cùng](../B/Bilbo's_Last_Song.md)"
 16. "[Bài hát uống rượu (Ho! Ho! Ho!)](../H/Ho!_Ho!_Ho!_To_the_Bottle_I_Go.md)"
 
 ## Nhân sự {#Personnel}
 
 - **Âm nhạc**: Stephen Oliver <small>("Gil Galad", "Old Walking Song" và "Bilbo's Last Song")</small>, Ron Ploeg và Willem van Wordagen
-- **Phối trộn**: Gilles Tuinman
+- **Hòa âm**: Gilles Tuinman
 - **Chỉnh sửa**: Tony Janssen
 - **Sản xuất**: Ron Ploeg, Gilles Tuinman và Willem van Wordragen
 
@@ -62,7 +62,7 @@ infobox:
 
 - <b><a class="external text" href="http://web.archive.org/web/*/http://home.wxs.nl/~hobbiton/home.html" rel="noreferrer noopener" target="_blank">Trang web chính thức</a></b> (thông qua <a class="external text" href="http://www.archive.org" rel="noreferrer noopener" target="_blank">Lưu trữ Internet</a>)
 - <a class="external text" href="http://www.last.fm/music/The+Hobbitons" rel="noreferrer noopener" target="_blank">Người Hobbiton trên Last.fm</a>
-- <a class="external text" href="http://www.kindamuzik.net/recensie/the-hobbitons/songs-from-middle-earth" rel="noreferrer noopener" target="_blank">Các bài hát từ Trung Địa tại KindaMuzik</a> (Tiếng Hà Lan)
+- <a class="external text" href="http://www.kindamuzik.net/recensie/the-hobbitons/songs-from-middle-earth" rel="noreferrer noopener" target="_blank">Bài hát từ Trung Địa tại KindaMuzik</a> (tiếng Hà Lan)
 - <a class="external text" href="https://www.youtube.com/watch?v=NvpoJwPM4_A" rel="noreferrer noopener" target="_blank">Biểu diễn và phỏng vấn trên truyền hình Hà Lan</a> (có phụ đề tiếng Anh)
 
 <span></span>

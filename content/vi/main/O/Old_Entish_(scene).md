@@ -49,7 +49,7 @@ infobox:
 
 ## Tóm tắt {#Synopsis}
 
-[Treebeard](../T/Treebeard.md) tạm thời rời khỏi [Entmoot](../E/Entmoot.md) để nói với [Merry](../M/Meriadoc_Brandybuck.md) và [Pippin](../P/Peregrin_Took.md) rằng họ đã được quyết định không phải là [Orc](Orcs.md). Merry hỏi liệu họ đã đưa ra quyết định liên quan đến [Saruman](../S/Saruman.md) chưa, Treebeard nói "Đừng vội".
+[Treebeard](../T/Treebeard.md) tạm thời quay lưng lại với [Entmoot](../E/Entmoot.md) để nói với [Merry](../M/Meriadoc_Brandybuck.md) và [Pippin](../P/Peregrin_Took.md) rằng họ đã được quyết định không phải là [Orc](Orcs.md). Merry hỏi liệu họ đã đưa ra quyết định liên quan đến [Saruman](../S/Saruman.md) chưa, Treebeard nói "Đừng vội vàng".
 
 <blockquote class="tg-quote noexcerpt">
 <p>Hasty? Our friends are out there. They need our help.
@@ -57,6 +57,6 @@ infobox:
 <p class="tg-quote-footer"><cite>Merry to Treebeard</cite></p>
 </blockquote>
 
-Treebeard nhẹ nhàng giải thích với Merry rằng phải mất rất nhiều thời gian để nói bất cứ điều gì bằng [Old Entish](../E/Entish.md) và [Ent](../E/Ents.md) có xu hướng không sử dụng ngôn ngữ này trừ khi việc đó đáng giá thời gian và công sức để làm như vậy.
+Treebeard nhẹ nhàng giải thích cho Merry rằng phải mất rất nhiều thời gian để nói bất cứ điều gì bằng tiếng [Old Entish](../E/Entish.md) và [Ent](../E/Ents.md) có xu hướng không sử dụng ngôn ngữ trừ khi việc đó đáng giá thời gian và công sức để làm như vậy.
 
 ## Sự khác biệt {#Differences}

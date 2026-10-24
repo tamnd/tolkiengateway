@@ -63,15 +63,15 @@ Sự kiện xảy ra vào ngày 28 tháng 7
 
 ## Trên Trái đất {#On_Earth}
 
-- **[1905](1905.md)** - Diễn viên [Lockwood West](../L/Lockwood_West.md) ra đời.
+- **[1905](1905.md)** - Diễn viên [Lockwood Phương Tây](../L/Lockwood_West.md) ra đời.
 - **[1922](1922.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đồng ý xem xét *[Beowulf: An Introduction to the Study of the Poem](../B/Beowulf%253A_An_Introduction_to_the_Study_of_the_Poem.md)*.
-- **[1939](1939.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) biểu diễn <a class="extiw" href="http://en.wikipedia.org/wiki/Geoffrey_Chaucer" title="wikipedia:Geoffrey Chaucer">Chaucer</a> <i><a class="extiw" href="http://en.wikipedia.org/wiki/The_Reeve%27s_Tale" title="wikipedia:The Reeve&#39;s Tale">The Reeve's Tale</a></i> tại 'Summer Diversions' - một lễ hội của các buổi độc tấu, kịch và múa ba lê.
+- **[1939](1939.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) biểu diễn <a class="extiw" href="http://en.wikipedia.org/wiki/Geoffrey_Chaucer" title="wikipedia:Geoffrey Chaucer">Chaucer</a>'s <i><a class="extiw" href="http://en.wikipedia.org/wiki/The_Reeve%27s_Tale" title="wikipedia:The Reeve&#39;s Tale">The Reeve's Tale</a></i> tại 'Summer Diversions' - một lễ hội của các buổi độc tấu, kịch và múa ba lê.
 - **[1940](1940.md)** - Diễn viên [Phil Proctor](../P/Phil_Proctor.md) ra đời.
 - **[1943](1943.md)** - J.R.R. Tolkien viết [Thư 49a](../L/Letter_49a.md).
 - **[1944](1944.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 76](../L/Letter_76.md).
 - **[1947](1947.md)** – [Rayner Unwin](../R/Rayner_Unwin.md) báo cáo về phiên bản đầu tiên của *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)*.
-- **[1955](1955.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một bức thư cho bà Dixey](../L/Letter_to_Mrs_Dixey.md).
-- **[1955](1955.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một bức thư cho Jennifer Brookes-Smith](<../L/Letter_to_Jennifer_Brookes-Smith_(28_July_1955).md>).
+- **[1955](1955.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một lá thư cho bà Dixey](../L/Letter_to_Mrs_Dixey.md).
+- **[1955](1955.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một lá thư cho Jennifer Brookes-Smith](<../L/Letter_to_Jennifer_Brookes-Smith_(28_July_1955).md>).
 - **[1965](1965.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 274](../L/Letter_274.md).
 - **[1967](1967.md)** - *[The Ballad of Bilbo Baggins](../T/The_Ballad_of_Bilbo_Baggins.md)* được trình diễn bởi [Leonard Nimoy](../L/Leonard_Nimoy.md) trong chương trình truyền hình <i><a class="extiw" href="http://en.wikipedia.org/wiki/Malibu_U" title="wikipedia:Malibu U">Malibu U</a></i>.
 - **[1973](1973.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư gửi Campbell](../L/Letter_to_Campbell.md).
@@ -90,7 +90,7 @@ Sự kiện xảy ra vào ngày 28 tháng 7
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Gandalf](../G/Gandalf.md) bị [Saruman](../S/Saruman.md) giam giữ trên đỉnh [Orthanc](../O/Orthanc.md).
+    - [Gandalf](../G/Gandalf.md) bị giam giữ bởi [Saruman](../S/Saruman.md) trên đỉnh của [Orthanc](../O/Orthanc.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - Đoàn tang vua [Théoden](../T/Théoden.md) đi về hướng [Edoras](../E/Edoras.md)
+    - Đoàn rước tang lễ của vua [Théoden](../T/Théoden.md) đi về hướng [Edoras](../E/Edoras.md)

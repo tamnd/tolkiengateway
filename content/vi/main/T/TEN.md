@@ -16,7 +16,7 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>ten</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="Ten_(disambiguation).md" title="Ten (disambiguation)">ten (disambiguation)</a></b>.</div></div>
 
-**TEN** là [Quendian nguyên thủy](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) biểu thị "phương hướng".<sup id="cite_ref-PE17_1-0" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup>
+**TEN** là một [Primitive Quendian](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) biểu thị "hướng".<sup id="cite_ref-PE17_1-0" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup>
 
 ## Công cụ phái sinh {#Derivatives}
 
@@ -28,7 +28,7 @@ images:
 
 Trong [*Etymologies*](The_Etymologies.md) xuất hiện gốc TEƷ- ("đường, hướng"). Từ gốc này suy ra:<sup id="cite_ref-LR_3-0" class="reference"><a href="#cite_note-LR-3">[3]</a></sup>
 
-- [Quendian nguyên thủy](../P/Primitive_Quendian.md): *teʒē*
+- [Primitive Quendian](../P/Primitive_Quendian.md): *teʒē*
     - [Quenya](../Q/Quenya.md): *[tie](Tië.md)*
     - [Noldorin](../N/Noldorin.md): *tê* ("đường, lối")
 
@@ -38,15 +38,15 @@ Trong [*Etymologies*](The_Etymologies.md) xuất hiện gốc TEƷ- ("đường,
 
 ### TEÑ<sup>1</sup> và TEÑ<sup>2</sup> {#TEÑ1_and_TEÑ2}
 
-Theo [Christopher Tolkien](../C/Christopher_Tolkien.md), gốc TEƷ- đã được đổi thành TEÑ. Trong mục mới này, Quenya *téra* và Noldorin *tîr* có nguồn gốc từ Quendian nguyên thủy *teñrā*,<sup id="cite_ref-LR_3-1" class="reference"><a href="#cite_note-LR-3">[3]</a></sup> trong đó dạng trung gian dường như là *tēra*.<sup id="cite_ref-VT_2-1" class="reference"><a href="#cite_note-VT-2">[2]</a></sup>
+Theo [Christopher Tolkien](../C/Christopher_Tolkien.md), gốc TEƷ- đã được đổi thành TEÑ. Trong mục nhập mới này, Quenya *téra* và Noldorin *tîr* bắt nguồn từ Primitive Quendian *teñrā*,<sup id="cite_ref-LR_3-1" class="reference"><a href="#cite_note-LR-3">[3]</a></sup> trong đó dạng trung gian xuất hiện là *tēra*.<sup id="cite_ref-VT_2-1" class="reference"><a href="#cite_note-VT-2">[2]</a></sup>
 
 Ngoài ra còn tồn tại một mục bổ sung về TEÑ trong *Etymologies* (để rõ ràng, ở đây gọi là TEÑ<sup>2</sup>), tạo ra các dẫn xuất Noldorin *tî* ("dòng, hàng"), *tiwdi* ("bảng chữ cái"), *tær*, *taer* ("thẳng") và [Quenya](../Q/Quenya.md) *téma* ("hàng, chuỗi, dòng"), *tea* ("đường thẳng, đường").<sup id="cite_ref-VT_2-2" class="reference"><a href="#cite_note-VT-2">[2]</a></sup><sup id="cite_ref-LR_3-2" class="reference"><a href="#cite_note-LR-3">[3]</a></sup>
 
-Lưu ý rằng cũng tồn tại một gốc [TEÑ](TEÑ.md), với ý nghĩa khác, trong bản thảo "[Rễ và thân cây Eldarin](../P/Parma_Eldalamberon_17.md)".<sup id="cite_ref-PE17_1-2" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup>
+Lưu ý rằng cũng tồn tại một gốc [TEÑ](TEÑ.md), với ý nghĩa khác, trong bản thảo "[Eldarin Rễ và Thân](../P/Parma_Eldalamberon_17.md)".<sup id="cite_ref-PE17_1-2" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup>
 
 ### √*ten* {#√ten}
 
-Độ phức tạp của gốc TEN đã được thảo luận chi tiết bởi [Patrick H. Wynne](../P/Patrick_H._Wynne.md). Một bản thảo rất muộn (khoảng năm 1968) của [Tolkien](../J/J.R.R._Tolkien.md) bao gồm một bản dịch gần như giống hệt của √*ten* như được đưa ra trong phiên bản từ "[Rễ và thân cây Eldarin](../P/Parma_Eldalamberon_17.md)" (nghĩa là phiên bản được sử dụng làm định nghĩa đầu tiên trong bài viết này), tuy nhiên, đã được đổi thành √*men* (mang lại các dẫn xuất khác nhau). Một bản thảo trước đó (cuối những năm 1950 hoặc đầu những năm 1960) của Tolkien cũng có đề cập đến một √*ten-*, có mô tả tương tự (nhưng không giống hệt).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Độ phức tạp của gốc TEN đã được thảo luận chi tiết trong [Patrick H. Wynne](../P/Patrick_H._Wynne.md). Một bản thảo rất muộn (khoảng năm 1968) của [Tolkien](../J/J.R.R._Tolkien.md) bao gồm một bản dịch gần như giống hệt của √*ten* như được đưa ra trong phiên bản từ "[Eldarin Rễ và Thân](../P/Parma_Eldalamberon_17.md)" (nghĩa là phiên bản được sử dụng làm định nghĩa đầu tiên trong bài viết này), tuy nhiên, đã được đổi thành √*men* (mang lại các dẫn xuất khác nhau). Một bản thảo trước đó (cuối những năm 1950 hoặc đầu những năm 1960) của Tolkien cũng có đề cập đến một √*ten-*, có mô tả tương tự (nhưng không giống hệt).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 <span></span>
 

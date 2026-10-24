@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Hooker, Mark T."
 ---
 
-**Mark T. Hooker** là học giả thỉnh giảng tại Viện Nga và Đông Âu (REEI) của Đại học Indiana. Ông là thành viên Hội đồng Cố vấn Học thuật cho [Nhà xuất bản Cây đi bộ](../W/Walking_Tree_Publishers.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và năm 2012 đã giành được [Giải thưởng Beyond Bree lần thứ Năm](../B/Beyond_Bree.md#Beyond_Bree_Awards).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Mark T. Hooker** là học giả thỉnh giảng tại Viện tiếng Nga và phương Đông Châu Âu (REEI) của Đại học Indiana. Ông là thành viên Hội đồng Cố vấn Học thuật của [Nhà xuất bản Cây đi bộ](../W/Walking_Tree_Publishers.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và năm 2012 đã giành được [Giải thưởng Beyond Bree lần thứ Năm](../B/Beyond_Bree.md#Beyond_Bree_Awards).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Thư mục {#Bibliography}
 
@@ -35,36 +35,36 @@ sort_keys:
 - [2018](../_/2018.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Tolkiennymicon&amp;action=edit&amp;redlink=1" title="The Tolkiennymicon (page does not exist)">Tolkiennymicon</a></i> (Τόλκιννῠμῐκόν)
 - [2019](../_/2019.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Tokienotheca&amp;action=edit&amp;redlink=1" title="The Tokienotheca (page does not exist)">Tokienotheca</a></i> (Τόλκινοθήκη)
 - [2020](../_/2020.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Tolkienian_Glossology&amp;action=edit&amp;redlink=1" title="Tolkienian Glossology (page does not exist)">Bảng thuật ngữ Tolkienian</a></i> (Τόλκινική Γλωσσολογία)
-- [2023](../_/2023.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Translating_The_Hobbit&amp;action=edit&amp;redlink=1" title="Translating The Hobbit (page does not exist)">Dịch Người Hobbit</a></i>
+- [2023](../_/2023.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Translating_The_Hobbit&amp;action=edit&amp;redlink=1" title="Translating The Hobbit (page does not exist)">Dịch The Hobbit</a></i>
 
 ### Bài viết {#Articles}
 
 - [2001](../_/2001.md): *Mythos*
     - "Những người theo chủ nghĩa Tolkien Nga"
 - [2003](../_/2003.md): *[Tolkien in Translation](../T/Tolkien_in_Translation.md)*
-    - "Chín bản dịch tiếng Nga của Chúa tể những chiếc nhẫn"
+    - "Chín bản dịch tiếng Nga của The Lord of the Rings"
 - [2004](../_/2004.md): *[Translating Tolkien: Text and Film](../T/Translating_Tolkien%253A_Text_and_Film.md)*
-    - "Tiếng Hà Lan Samizdat: Bản dịch của Mensink-van Warmelo về Chúa tể của những chiếc nhẫn"
+    - "Tiếng Samizdat tiếng Hà Lan: Bản dịch Mensink-van Warmelo của The Lord of the Rings"
 - [2004](../_/2004.md): *[Tolkien Studies: Volume 1](../T/Tolkien_Studies%253A_Volume_1.md)*
-    - "Người Dơi của Frodo"
+    - "Người dơi củaFrodo"
 - [2005](../_/2005.md): *[Parma Nölé 13](../P/Parma_Nölé_13.md)*
     - "Frodo Khu phố chính"
-- [2010](../_/2010.md): <a class="external text" href="http://www.lotrplaza.com/" rel="noreferrer noopener" target="_blank">Trung tâm cuồng tín Chúa tể của những chiếc nhẫn</a>
-    - <a class="external text" href="http://www.lotrplaza.com/forum/forum_posts.asp?TID=238202" rel="noreferrer noopener" target="_blank">Smaug Frisian</a>
+- [2010](../_/2010.md): <a class="external text" href="http://www.lotrplaza.com/" rel="noreferrer noopener" target="_blank">Trung tâm cuồng tín Chúa tể những chiếc nhẫn</a>
+    - <a class="external text" href="http://www.lotrplaza.com/forum/forum_posts.asp?TID=238202" rel="noreferrer noopener" target="_blank">Người Frisian Smaug</a>
 - [2011](../_/2011.md): *[Tolkien and the Study of His Sources](../T/Tolkien_and_the_Study_of_His_Sources.md)*
     - "Đọc John Buchan để tìm kiếm J.R.R. Tolkien"
-- [2011](../_/2011.md): [Lembas bổ sung](../L/Lembas_Extra_2011.md)
-    - "Người Hobbit Frisian"
-    - "Người Hobbit Slovenia"
-- [2013](../_/2013.md): [Beyond Bree](../B/Beyond_Bree.md) Có thể phát hành
-    - "Hành trình đến Trung tâm Trung địa" (Ảnh hưởng của Jules Verne đối với [The Hobbit](../T/The_Hobbit.md))
+- [2011](../_/2011.md): [Lembas Bổ sung](../L/Lembas_Extra_2011.md)
+    - "Tiếng Frisian Hobbit"
+    - "Tiếng Slovenia Hobbit"
+- [2013](../_/2013.md): [Beyond Bree](../B/Beyond_Bree.md) Số phát hành tháng 5
+    - "Hành trình đến trung tâm của Trung Địa" (Ảnh hưởng của Jules Verne đối với [The Hobbit](../T/The_Hobbit.md))
 - [2020](../_/2020.md): [Beyond Bree](../B/Beyond_Bree.md) Số tháng 11
-    - "Bản ghi có chú thích của [Thư phản bác gửi Cha Francis năm 1904 của Tolkien](../L/Letter_to_Father_Francis_Morgan.md)"
+    - "Bản ghi có chú thích của Tolkien 1904 [Thư phản bác gửi Cha Phanxicô](../L/Letter_to_Father_Francis_Morgan.md)"
 
 ## Liên kết ngoài {#External_links}
 
 - <a class="external text" href="http://www.tolkienlibrary.com/press/mark-hooker-interview.htm" rel="noreferrer noopener" target="_blank">Phỏng vấn Mark T. Hooker</a>
-- <a class="external text" href="http://americymru.blogspot.com/2013/04/tolkien-and-welsh-interview-with-author.html" rel="noreferrer noopener" target="_blank">Phỏng vấn Mark T. Hooker về <i>Tolkien và Welsh</i> đăng trên AmeriCymru</a>
+- <a class="external text" href="http://americymru.blogspot.com/2013/04/tolkien-and-welsh-interview-with-author.html" rel="noreferrer noopener" target="_blank">Phỏng vấn Mark T. Hooker về <i>Tolkien và tiếng Wales</i> đăng trên AmeriCymru</a>
 
 <span></span>
 

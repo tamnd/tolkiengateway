@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Valar and Maiar"
 ---
 
-Chuyển hướng tới [Valar và Maiar](../V/Valar_and_Maiar.md).
+Chuyển hướng đến [Valar và Maiar](../V/Valar_and_Maiar.md).

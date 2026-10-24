@@ -21,5 +21,5 @@ Một biến thể của bài hát sau này sẽ được sử dụng trong *[Th
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="https://www.youtube.com/watch?v=LbfMDwc4azU" rel="noreferrer noopener" target="_blank">Chúa tể của những chiếc nhẫn: Trailer sân khấu của hai tòa tháp</a>
+- <a class="external text" href="https://www.youtube.com/watch?v=LbfMDwc4azU" rel="noreferrer noopener" target="_blank">Chúa tể của những chiếc nhẫn: The Two Towers Trailer chiếu rạp</a>
 - <a class="external text" href="http://www.imdb.com/title/tt0180093/" rel="noreferrer noopener" target="_blank">Cầu nguyện cho một giấc mơ</a> tại <a class="external text" href="http://www.imdb.com/" rel="noreferrer noopener" target="_blank">IMDb</a>

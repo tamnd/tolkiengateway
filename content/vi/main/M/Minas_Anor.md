@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Minas Tirith"
 ---
 
-Chuyển hướng tới [Minas Tirith](Minas_Tirith.md).
+Chuyển hướng đến [Minas Tirith](Minas_Tirith.md).

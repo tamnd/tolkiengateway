@@ -14,13 +14,13 @@ categories:
   - "Tol Eressëa"
 ---
 
-**Nước Lượn** là tên của một con sông chảy qua [Kortirion](../K/Kortirion.md), theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) gắn liền với *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.<sup id="cite_ref-Kor_1-0" class="reference"><a href="#cite_note-Kor-1">[1]</a></sup> Nó chỉ được nhắc đến trong phiên bản đầu của bài thơ *[The Trees of Kortirion](../T/The_Trees_of_Kortirion.md)*.
+**Nước Lượn** là tên một con sông chảy qua [Kortirion](../K/Kortirion.md), theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) gắn liền với *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.<sup id="cite_ref-Kor_1-0" class="reference"><a href="#cite_note-Kor-1">[1]</a></sup> Nó chỉ được nhắc đến trong phiên bản đầu của bài thơ *[The Trees of Kortirion](../T/The_Trees_of_Kortirion.md)*.
 
 Theo bài thơ, [cây du](../E/Elms.md) mọc xung quanh nó và nó chảy từ Kortirion về phía tây, băng qua những đồng cỏ trước khi ra biển.<sup id="cite_ref-Kor_1-1" class="reference"><a href="#cite_note-Kor-1">[1]</a></sup>
 
 ## Cảm hứng {#Inspiration}
 
-Nước Gliding có thể được lấy cảm hứng từ dòng sông <a class="extiw" href="http://en.wikipedia.org/wiki/River_Avon,_Warwickshire" title="wikipedia:River Avon, Warwickshire">Avon</a>, chảy qua thị trấn <a class="extiw" href="http://en.wikipedia.org/wiki/Warwick" title="wikipedia:Warwick">Warwick</a>, nguồn cảm hứng chính đằng sau thành phố Kortirion.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Gliding Water có thể được lấy cảm hứng từ dòng sông <a class="extiw" href="http://en.wikipedia.org/wiki/River_Avon,_Warwickshire" title="wikipedia:River Avon, Warwickshire">Avon</a>chảy qua thị trấn <a class="extiw" href="http://en.wikipedia.org/wiki/Warwick" title="wikipedia:Warwick">Warwick</a>, nguồn cảm hứng chính đằng sau thành phố Kortirion.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 

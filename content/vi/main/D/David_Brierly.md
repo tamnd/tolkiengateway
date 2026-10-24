@@ -22,7 +22,7 @@ sort_keys:
 
 ## Vai trò {#Roles}
 
-- [1968](../_/1968.md): [*The Hobbit* (loạt phim phát thanh năm 1968)](<../T/The_Hobbit_(1968_radio_series).md>): [Kíli](../K/Kíli.md), Người bảo vệ yêu tinh
+- [1968](../_/1968.md): [*The Hobbit* (loạt đài phát thanh 1968)](<../T/The_Hobbit_(1968_radio_series).md>): [Kíli](../K/Kíli.md), Tiên bảo vệ
 
 ## Liên kết ngoài {#External_links}
 

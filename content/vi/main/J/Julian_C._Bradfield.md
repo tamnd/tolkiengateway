@@ -26,7 +26,7 @@ images:
 
 <figure typeof="mw:File/Frame"><a class="mw-file-description" href="../../file/J/Julian_C._Bradfield.png.md"><img src="https://tolkiengateway.net/w/images/f/f8/Julian_C._Bradfield.png" decoding="async" loading="lazy" width="150" height="222" class="mw-file-element" data-file-width="150" data-file-height="222"/></a><figcaption></figcaption></figure>
 
-**Julian C. Bradfield** là người sáng lập [Tolklang](../T/Tolklang.md) và đồng sáng lập [Hiệp hội Tolkien Cambridge](<../M/Minas_Tirith_(Cambridge_smial).md>). Ông cũng là biên tập viên của *[Quettar](../Q/Quettar.md)*. Anh hiện là Độc giả về Khoa học Máy tính tại <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Edinburgh" title="wikipedia:University of Edinburgh">Đại học Edinburgh</a>.
+**Julian C. Bradfield** là người sáng lập [Tolklang](../T/Tolklang.md) và đồng sáng lập [Hiệp hội Cambridge Tolkien](<../M/Minas_Tirith_(Cambridge_smial).md>). Ông cũng là biên tập viên của *[Quettar](../Q/Quettar.md)*. Anh hiện là Độc giả về Khoa học Máy tính tại <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Edinburgh" title="wikipedia:University of Edinburgh">Đại học Edinburgh</a>.
 
 ## Thư mục {#Bibliography}
 

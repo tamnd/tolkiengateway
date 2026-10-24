@@ -23,11 +23,11 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">People</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Kinn-lai</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>General Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Languages</th><td class="tg-infobox-data">one of the many <a href="../A/Avarin.md" title="Avarin">Avarin</a> languages</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Lifespan</th><td class="tg-infobox-data">Immortal</td></tr></tbody></table>
 
-**Kinn-Lai** là thuật ngữ được một số [Avari](../A/Avari.md) sử dụng để mô tả bản thân họ. Không rõ liệu cái tên "Kinn-Lai" được áp dụng cho một nhóm Avari cụ thể hay cho toàn bộ Avari nói chung.
+**Kinn-Lai** là thuật ngữ được một số [Avari](../A/Avari.md) sử dụng để mô tả chính họ. Không biết tên "Kinn-Lai" được áp dụng cho một nhóm Avari cụ thể hay cho toàn bộ Avari.
 
 ## Từ nguyên {#Etymology}
 
-Đó là từ [Avarin](../A/Avarin.md) có nghĩa là "Nhân dân". Nó bắt nguồn từ [Quendian nguyên thủy](../P/Primitive_Quendian.md) *[kwendī](Kwende.md)*.<sup id="cite_ref-Author_1-0" class="reference"><a href="#cite_note-Author-1">[1]</a></sup> Hậu tố *-lai* có thể liên quan đến [Quenyan](../Q/Quenya.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Li%C3%AB&amp;action=edit&amp;redlink=1" title="Lië (page does not exist)">lië</a></i> "người", đến từ [gốc](../R/Root.md) LI (từ đó cũng là Quenyan *[-li](../_/-li.md)*) bởi chữ A, được chứng thực bằng ngôn ngữ nguyên thủy.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Đó là một từ [Avarin](../A/Avarin.md) có nghĩa là "Nhân dân". Nó bắt nguồn từ [Primitive Quendian](../P/Primitive_Quendian.md) *[kwendī](Kwende.md)*.<sup id="cite_ref-Author_1-0" class="reference"><a href="#cite_note-Author-1">[1]</a></sup> Hậu tố *-lai* có thể liên quan đến [Quenyan](../Q/Quenya.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Li%C3%AB&amp;action=edit&amp;redlink=1" title="Lië (page does not exist)">lië</a></i> "người", đến từ [gốc](../R/Root.md) LI (từ đó cũng là Quenyan *[-li](../_/-li.md)*) bởi chữ A, được chứng thực ở dạng nguyên thủy ngôn ngữ.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Xem thêm {#See_also}
 
@@ -39,11 +39,11 @@ infobox:
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Nhập vai ở Trung Địa</a></i>:</b>
+<b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>:</b>
 
 <dl><dd><i>Kinn-lai</i>, an articulation of &#34;Quendi&#34; (the most ancient name of the Elves), is also the name of a tribe of Avari Elves of the jungles of the <a href="../M/Mûmakan.md" title="Mûmakan">Mûmakan</a> in the Utter South of Middle-earth.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></dd></dl>
 
-<b>2024: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
+<b>2024: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Kintai.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b3/The_Lord_of_the_Rings_Online_-_Kintai.jpg/300px-The_Lord_of_the_Rings_Online_-_Kintai.jpg" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b3/The_Lord_of_the_Rings_Online_-_Kintai.jpg/450px-The_Lord_of_the_Rings_Online_-_Kintai.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/b/b3/The_Lord_of_the_Rings_Online_-_Kintai.jpg/600px-The_Lord_of_the_Rings_Online_-_Kintai.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>The Kintai in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 

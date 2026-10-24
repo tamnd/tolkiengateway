@@ -48,39 +48,39 @@ infobox:
 
 ## Lịch sử {#History}
 
-Nguồn gốc của Huorns vẫn chưa được biết. Không rõ Huorn là Ent đã trở thành giống cây hay cây đã trở thành Ent. Có lẽ cả hai biến thể đều tồn tại, mặc dù [Hobbit](Hobbits.md) [Meriadoc Brandybuck](../M/Meriadoc_Brandybuck.md) tin rằng biến thể đầu tiên là đúng.<sup id="cite_ref-Flotsam_1-0" class="reference"><a href="#cite_note-Flotsam-1">[1]</a></sup> Dù thế nào thì rõ ràng chúng là một phần giữa cây cối và Ent.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Nguồn gốc của Huorn không rõ. Không rõ Huorn là Ent đã trở thành hình cây hay những cây đã trở thành Ent. Có lẽ cả hai biến thể đều tồn tại, mặc dù [Hobbit](Hobbits.md) [Meriadoc Brandybuck](../M/Meriadoc_Brandybuck.md) tin rằng biến thể đầu tiên là đúng.<sup id="cite_ref-Flotsam_1-0" class="reference"><a href="#cite_note-Flotsam-1">[1]</a></sup> Dù sao đi nữa thì rõ ràng là chúng nằm cách nhau giữa cây và Ent.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Vào [Thời đại thứ ba](../T/Third_Age.md), người Huorn sống ở [Rừng Fangorn](../F/Fangorn_Forest.md),<sup id="cite_ref-Flotsam_1-1" class="reference"><a href="#cite_note-Flotsam-1">[1]</a></sup> mặc dù có thể những cái cây trong [Rừng già](../O/Old_Forest.md), đặc biệt là [Liễu ông già](../O/Old_Man_Willow.md), cũng là người Huorn.
+Trong [Kỷ Đệ Tam](../T/Third_Age.md), Huorn sống ở [Rừng Fangorn](../F/Fangorn_Forest.md),<sup id="cite_ref-Flotsam_1-1" class="reference"><a href="#cite_note-Flotsam-1">[1]</a></sup> mặc dù có thể những cây của [Khu Rừng Cổ](../O/Old_Forest.md), đặc biệt là [Liễu Ông Già](../O/Old_Man_Willow.md), cũng có Huorn.
 
-Trong [Chiến tranh Chiếc nhẫn](../W/War_of_the_Ring.md), người Huorn bị [Treebeard](../T/Treebeard.md) kích động để tiêu diệt [Nan Curunír](../N/Nan_Curunír.md).<sup id="cite_ref-Flotsam_1-2" class="reference"><a href="#cite_note-Flotsam-1">[1]</a></sup> Gandalf nhìn thấy bóng của những người Huorn này khi ông đi cùng đội quân từ [Edoras](../E/Edoras.md) đến [Hornburg](Hornburg.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Do Ent chỉ đạo, Người Huorn cũng giúp [Rohirrim](../R/Rohirrim.md) chiến đấu với [Orc](../O/Orcs.md) tại [Trận Hornburg](../B/Battle_of_the_Hornburg.md).<sup id="cite_ref-Flotsam_1-3" class="reference"><a href="#cite_note-Flotsam-1">[1]</a></sup>
+Trong lúc [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), Huorn bị [Treebeard](../T/Treebeard.md) kích động để tiêu diệt [Nan Curunír](../N/Nan_Curunír.md).<sup id="cite_ref-Flotsam_1-2" class="reference"><a href="#cite_note-Flotsam-1">[1]</a></sup> Gandalf nhìn thấy bóng của những Huorn này khi ông ta đi cùng vật chủ từ [Edoras](../E/Edoras.md) đến [Hornburg](Hornburg.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Được chỉ đạo bởi Ent, Huorn cũng đã giúp đỡ [Rohirrim](../R/Rohirrim.md) để chiến đấu với [Orc](../O/Orcs.md) tại [Trận Hornburg](../B/Battle_of_the_Hornburg.md).<sup id="cite_ref-Flotsam_1-3" class="reference"><a href="#cite_note-Flotsam-1">[1]</a></sup>
 
 ## Đặc điểm {#Characteristics}
 
-Huorns có sức mạnh to lớn và có thể ẩn mình trong bóng tối. Khi tức giận, chúng có thể di chuyển với tốc độ rất nhanh. Người Huorn còn có giọng nói vì họ có thể nói chuyện với người Ent. Khi không có Ent nào chăm sóc họ, Huorns là "*queer and wild*", mối đe dọa đối với [Các dân tộc tự do](../F/Free_peoples~19934.md).<sup id="cite_ref-Flotsam_1-4" class="reference"><a href="#cite_note-Flotsam-1">[1]</a></sup>
+Huorn có sức mạnh to lớn và có thể ẩn mình trong bóng tối. Khi tức giận, chúng có thể di chuyển với tốc độ rất nhanh. Huorn còn có giọng nói vì chúng có thể nói chuyện với Ent. Khi không có Ent nào chăm sóc chúng, Huorn chính là "*queer and wild*", một mối đe dọa đối với [các Dân tộc Tự do](../F/Free_peoples~19934.md).<sup id="cite_ref-Flotsam_1-4" class="reference"><a href="#cite_note-Flotsam-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Huorns* là một cái tên trong "ngôn ngữ ngắn gọn" của Ent, được đặt cho những sinh vật đó vì "chúng vẫn có giọng nói và có thể nói chuyện với Ent", theo lời kể của Merry.<sup id="cite_ref-Flotsam_1-5" class="reference"><a href="#cite_note-Flotsam-1">[1]</a></sup>
+*Huorns* là tên trong "ngôn ngữ ngắn" của Ent, được đặt cho những sinh vật đó vì "chúng vẫn có giọng nói và có thể nói bằng Ent", theo tài khoản của Merry.<sup id="cite_ref-Flotsam_1-5" class="reference"><a href="#cite_note-Flotsam-1">[1]</a></sup>
 
 Trong văn bản nháp chúng còn có các tên gọi khác như *Galbedirs*, *Lamorni* và *Ornómar* hoặc *Ornómi*, với ý nghĩa là "Cây biết nói"<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>. Nhưng không rõ liệu cái tên *Huorns* có mang ý nghĩa đó hay không.
 
-Nó có yếu tố [Sindarin](../S/Sindarin.md) *[orn](../O/Orn.md)* "cây cao" và theo từ nguyên Tolkien đã đưa ra yếu tố đầu tiên bắt nguồn từ *hō*, với cách đọc bóng bẩy không chắc chắn: nó có thể là "nói, thể hiện" hoặc "linh hồn, bóng tối" và có thể liên quan đến các từ khác liên quan đến "trái tim".<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Vì vậy, *Huorn* có thể có nghĩa là "cây biết nói" hoặc "cây có linh hồn" hoặc "có trái tim". Phần tử đầu tiên cũng có thể liên quan đến [root](../S/Sundocarme.md) *[KHUG](../K/KHUG.md)* "bark, bay".<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>.
+Nó có phần tử [Sindarin](../S/Sindarin.md) *[orn](../O/Orn.md)* "cây cao" và trong từ nguyên Tolkien đã đưa ra phần tử đầu tiên của nó là bắt nguồn từ *hō*, với cách hiểu không chắc chắn: nó có thể là "nói, thể hiện" hoặc "linh hồn, bóng tối" và có thể liên quan đến các từ khác liên quan đến "trái tim".<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Vì vậy, *Huorn* có thể có nghĩa là "cây biết nói" hoặc "cây có linh hồn" hoặc "có trái tim". Phần tử đầu tiên cũng có thể liên quan đến [root](../S/Sundocarme.md) *[KHUG](../K/KHUG.md)* "bark, bay".<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>.
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/H/Huorns_(MERP).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/c/cc/Huorns_%28MERP%29.jpg/300px-Huorns_%28MERP%29.jpg" decoding="async" loading="lazy" width="300" height="449" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/c/cc/Huorns_%28MERP%29.jpg 1.5x" data-file-width="334" data-file-height="500"/></a><figcaption><i>Huorns</i> in <a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">MERP</a></figcaption></figure>
 
-<b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Nhập vai ở Trung Địa</a></i>:</b>
+<b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>:</b>
 
 <dl><dd>Huorns are classified as Animate Plants (Monsters). The evil, &#34;blackhearted&#34; ones, went away from Fangorn Forest and the protection of the Ents and settled in Mirkwood. Huorns eat living beings, and they come in as many different forms as trees do. Old Man Willow is a Huorn of the Old Forest.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></dd></dl>
 
-<b>1995-8: <i><a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Trò chơi thẻ bài sưu tầm ở Trung Địa</a></i>:</b>
+<b>1995-8: <i><a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Trung Địa Trò chơi bài sưu tầm</a></i>:</b>
 
 <dl><dd>Huorn is an Awakened Plant (Creature), able to inflict one strike on a player.</dd></dl>
 
 ## Liên kết ngoài {#External_links}
 
-- <cite class="citation cite-web"><span class="cite-web-author"><a class="new" href="https://tolkiengateway.net/w/index.php?title=Mark_Fisher&amp;action=edit&amp;redlink=1" title="Mark Fisher (page does not exist)">Mark Fisher</a> (17 tháng 5 năm 2003)</span>. <span class="cite-web-article"><a class="external text" href="https://www.glyphweb.com/arda/h/huorns.html" rel="noreferrer noopener" target="_blank">"Huorn"</a></span>. <span class="cite-web-website"><a href="../E/Encyclopedia_of_Arda.md" title="Encyclopedia of Arda">Bách khoa toàn thư về Arda</a></span>. <span class="cite-web-accessed">Truy cập ngày 10 tháng 9 năm 2025</span></cite>
+- <cite class="citation cite-web"><span class="cite-web-author"><a class="new" href="https://tolkiengateway.net/w/index.php?title=Mark_Fisher&amp;action=edit&amp;redlink=1" title="Mark Fisher (page does not exist)">Mark Fisher</a> (17 tháng 5 năm 2003)</span>. <span class="cite-web-article"><a class="external text" href="https://www.glyphweb.com/arda/h/huorns.html" rel="noreferrer noopener" target="_blank">"Huorn"</a></span>. <span class="cite-web-website"><a href="../E/Encyclopedia_of_Arda.md" title="Encyclopedia of Arda">Bách khoa toàn thư Arda</a></span>. <span class="cite-web-accessed">Truy xuất 10 tháng Chín 2025</span></cite>
 
 <span></span>
 

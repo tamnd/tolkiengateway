@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Meneltarma"
 ---
 
-Chuyển hướng tới [Meneltarma](../M/Meneltarma.md).
+Chuyển hướng đến [Meneltarma](../M/Meneltarma.md).

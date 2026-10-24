@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Náin I"
 ---
 
-Chuyển hướng tới [Náin I](Náin_I.md).
+Chuyển hướng đến [Náin I](Náin_I.md).

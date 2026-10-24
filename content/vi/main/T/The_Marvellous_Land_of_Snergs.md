@@ -46,7 +46,7 @@ Trong [1996](../_/1996.md), [Douglas A. Anderson](../D/Douglas_A._Anderson.md) �
 
 Tất cả những ai yêu mến Peter Pan cũng sẽ yêu thích câu chuyện này dành cho trẻ em ở mọi lứa tuổi và mọi tầng lớp
 
-Cuốn sách mở đầu bằng phần mô tả về Thỏa thuận dàn xếp cho những đứa trẻ thừa thãi. Một chút về phía bắc của Khu định cư Vanderdecken và thủy thủ đoàn của ông ta đang ở trong khu bờ biển; chiếc *Flying Dutchman* neo gần đó. Ở phía nam là những Snergs thân thiện nhưng không thông minh, một số nhánh của pixies. Ngược lại, Joe và Sylvia nghịch ngợm bỏ chạy, và cùng với Gorbo - trong số những người kém thông minh nhất của Snerg - bị trộn lẫn với phép thuật và thấy mình *the wrong side of the river*. Trốn thoát khỏi Golithos, một yêu tinh được cải tạo không hoàn hảo; từ Mẹ Meldrum, mụ phù thủy nham hiểm đó; từ vị vua độc ác Kul; và cuộc giải cứu của Vanderdecken và gia đình Snergs, lấp đầy một tập truyện vui vẻ.<sup id="cite_ref-AH_2-1" class="reference"><a href="#cite_note-AH-2">[2]</a></sup>
+Cuốn sách mở đầu bằng phần mô tả về Thỏa thuận dàn xếp cho những đứa trẻ thừa thãi. Một chút về phía bắc của Khu định cư Vanderdecken và thủy thủ đoàn của ông ta đang ở trong khu bờ biển; chiếc *Flying Dutchman* neo gần đó. Ở phía nam là những Snergs thân thiện nhưng không thông minh, một số nhánh của pixies. Ngược lại, Joe và Sylvia nghịch ngợm bỏ chạy, và cùng với Gorbo - trong số những người kém thông minh nhất của Snerg - bị trộn lẫn với phép thuật và thấy mình *the wrong side of the river*. Trốn thoát khỏi Golithos, một yêu tinh được cải tạo không hoàn hảo; từ Mẹ Meldrum, mụ phù thủy nham hiểm đó; từ kẻ ác Vua Kul; và cuộc giải cứu của Vanderdecken và gia đình Snergs, lấp đầy một tập truyện vui vẻ.<sup id="cite_ref-AH_2-1" class="reference"><a href="#cite_note-AH-2">[2]</a></sup>
 
 ### Ấn bản năm 1996 {#1996_edition}
 
@@ -58,15 +58,15 @@ Cuốn sách mở đầu bằng phần mô tả về Thỏa thuận dàn xếp c
 <p class="tg-quote-footer"><cite><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-Đó là cuốn sách được Tolkien và các con ông yêu thích. Giờ đây, lần đầu tiên sau gần 70 năm, cuốn sách kỳ diệu này được in trở lại với văn bản gốc, những hình minh họa kinh điển của nghệ sĩ Punch nổi tiếng George Morrow và lời giới thiệu của học giả Tolkien Douglas A. Anderson. Cuốn sách này đã nhận được nhiều lời khen ngợi từ: Charles de Lint, Humphrey Carpenter, Alison Lurie và Jack Zipes.<sup id="cite_ref-Old_4-1" class="reference"><a href="#cite_note-Old-4">[4]</a></sup>
+Đó là cuốn sách được Tolkien và các con của ông yêu thích. Giờ đây, lần đầu tiên sau gần 70 năm, cuốn sách kỳ diệu này được in trở lại với văn bản gốc, những hình minh họa kinh điển của nghệ sĩ Punch nổi tiếng George Morrow và lời giới thiệu của học giả Tolkien Douglas A. Anderson. Cuốn sách này đã nhận được nhiều lời khen ngợi từ: Charles de Lint, Humphrey Carpenter, Alison Lurie, và Jack Zipes.<sup id="cite_ref-Old_4-1" class="reference"><a href="#cite_note-Old-4">[4]</a></sup>
 
 <div style="clear:both"></div>
 
 ## Liên kết ngoài {#External_links}
 
 - <a class="extiw" href="http://en.wikipedia.org/wiki/The_Marvellous_Land_of_Snergs" title="wikipedia:The Marvellous Land of Snergs">Vùng đất kỳ diệu của Snergs</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
-- <a class="external text" href="http://www.tolkiencollector.com/snergs.htm" rel="noreferrer noopener" target="_blank">Snergs như người Hobbit</a> tại <a class="external text" href="http://www.tolkiencollector.com/index.html" rel="noreferrer noopener" target="_blank">TolkienCollector.com</a>
-- <a class="external text" href="http://www.tolkien-online.com/tolkien-snergs.html" rel="noreferrer noopener" target="_blank"><i>Người Hobbit</i>/<i>Chúa tể của những chiếc nhẫn</i> và <i>Vùng đất kỳ diệu của Snergs</i></a> tại <a class="external text" href="http://www.tolkien-online.com/index.html" rel="noreferrer noopener" target="_blank">Tolkien-Online.com</a>
+- <a class="external text" href="http://www.tolkiencollector.com/snergs.htm" rel="noreferrer noopener" target="_blank">Tăng cường như Hobbit</a> tại <a class="external text" href="http://www.tolkiencollector.com/index.html" rel="noreferrer noopener" target="_blank">TolkienCollector.com</a>
+- <a class="external text" href="http://www.tolkien-online.com/tolkien-snergs.html" rel="noreferrer noopener" target="_blank"><i>The Hobbit</i>/<i>The Lord of the Rings</i> và <i>Vùng đất kỳ diệu của Snergs</i></a> tại <a class="external text" href="http://www.tolkien-online.com/index.html" rel="noreferrer noopener" target="_blank">Tolkien-Online.com</a>
 
 <span></span>
 

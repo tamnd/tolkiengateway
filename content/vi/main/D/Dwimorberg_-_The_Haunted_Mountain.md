@@ -40,7 +40,7 @@ infobox:
 
 ## Sự khác biệt {#Differences}
 
-- Câu *"Hơi ấm trong máu của tôi dường như đã bị đánh cắp,"* mà Gimli nói trong cảnh này được lấy từ một bối cảnh khác. Trong sách, chính [Beregond](../B/Beregond.md) là người nói điều này trong cuộc trò chuyện với [Pippin](../P/Pippin.md); điều này xảy ra sau khi mỗi người nghe thấy tiếng kêu yếu ớt của [Nazgûl](../N/Nazgûl.md) trong khi thảo luận về mối đe dọa hủy diệt sắp xảy ra của Minas Tirith.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+- Câu *"Hơi ấm trong máu tôi dường như đã bị đánh cắp,"* được nói bởi Gimli trong cảnh này được lấy từ một bối cảnh khác. Trong sách, chính [Beregond](../B/Beregond.md) đã nói điều này trong cuộc trò chuyện với [Pippin](../P/Pippin.md); điều này xảy ra sau khi mỗi người nghe thấy tiếng kêu yếu ớt của [Nazgûl](../N/Nazgûl.md) trong khi thảo luận về mối đe dọa hủy diệt sắp xảy ra của Minas Tirith.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

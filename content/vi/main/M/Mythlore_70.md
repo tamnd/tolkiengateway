@@ -36,9 +36,9 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mythlore_70.png.md"><img src="https://tolkiengateway.net/w/images/thumb/4/43/Mythlore_70.png/320px-Mythlore_70.png" decoding="async" loading="lazy" width="320" height="409" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/43/Mythlore_70.png/480px-Mythlore_70.png 1.5x, https://tolkiengateway.net/w/images/thumb/4/43/Mythlore_70.png/640px-Mythlore_70.png 2x" data-file-width="696" data-file-height="889"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mythlore 70</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../G/Glen_GoodKnight.md" title="Glen GoodKnight">Glen GoodKnight</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Autumn <a href="../_/1992.md" title="1992">1992</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">67</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mythlore_69.md" title="Mythlore 69">Mythlore 69</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mythlore_71.md" title="Mythlore 71">Mythlore 71</a></td></tr></tbody></table>
 
-<b><i>Thần thoại</i> 70</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol18/iss4/" rel="noreferrer noopener" target="_blank">Tập 18, Số 4</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
+<b><i>Mythlore</i> 70</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol18/iss4/" rel="noreferrer noopener" target="_blank">Tập 18, Số 4</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
 
-"Bức thư" của [Carl F. Hostetter](../C/Carl_F._Hostetter.md) là phản hồi cho bài viết "[Gondolinic Runes](../G/Gondolinic_Runes.md)" của [Paul Nolan Hyde](../P/Paul_Nolan_Hyde.md) đăng trên [*Mythlore* 69](Mythlore_69.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Một "Bức thư" từ [Carl F. Hostetter](../C/Carl_F._Hostetter.md) là phản hồi cho bài viết "[Gondolinic Runes](../G/Gondolinic_Runes.md)" của [Paul Nolan Hyde](../P/Paul_Nolan_Hyde.md) đăng trên [*Mythlore* 69](Mythlore_69.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Nội dung {#Contents}
 
@@ -59,7 +59,7 @@ infobox:
 #### Tính năng {#Features}
 
 - GoodKnight, Glen H. Editorial Introduction: In This Issue.
-- Callahan, Bg và Glen GoodKnight. “Hình ảnh từ Hội nghị trăm năm Tolkien.”
+- Callahan, Bg và Glen GoodKnight. “Những hình ảnh từ Hội nghị trăm năm Tolkien.”
 - Christopher, Joe R., and Wayne G. Hammond. An Inklings Bibliography (47).
 - Kondratiev, Alexei. “Tales Newly Told.”
 - Thư.

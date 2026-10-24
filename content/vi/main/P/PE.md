@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Parma Eldalamberon"
 ---
 
-Chuyển hướng tới [Parma Eldalamberon](Parma_Eldalamberon.md).
+Chuyển hướng đến [Parma Eldalamberon](Parma_Eldalamberon.md).

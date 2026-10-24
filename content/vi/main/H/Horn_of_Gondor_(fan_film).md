@@ -50,11 +50,11 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/H/Horn_of_Gondor_Poster.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/7d/Horn_of_Gondor_Poster.jpg/320px-Horn_of_Gondor_Poster.jpg" decoding="async" loading="lazy" width="320" height="451" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/7d/Horn_of_Gondor_Poster.jpg/480px-Horn_of_Gondor_Poster.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/7/7d/Horn_of_Gondor_Poster.jpg/640px-Horn_of_Gondor_Poster.jpg 2x" data-file-width="720" data-file-height="1015"/></a><figcaption>Poster</figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Horn of Gondor</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Director</th><td class="tg-infobox-data">Simon Pesta</td></tr><tr><th scope="row" class="tg-infobox-label">Screenplay</th><td class="tg-infobox-data">Simon Pesta</td></tr><tr><th scope="row" class="tg-infobox-label">Based on</th><td class="tg-infobox-data">&#34;<a href="../C/Cirion_and_Eorl_and_the_Friendship_of_Gondor_and_Rohan.md" title="Cirion and Eorl and the Friendship of Gondor and Rohan">Cirion and Eorl and the Friendship of Gondor and Rohan</a>&#34; by <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Starring</th><td class="tg-infobox-data">Borek Belfin</td></tr><tr><th scope="row" class="tg-infobox-label">Cinematography</th><td class="tg-infobox-data">Ondrej Penicka</td></tr><tr><th scope="row" class="tg-infobox-label">Editing</th><td class="tg-infobox-data">Simon Pesta</td></tr><tr><th scope="row" class="tg-infobox-label">Music</th><td class="tg-infobox-data">Petr Kubelik</td></tr><tr><th scope="row" class="tg-infobox-label">Distributor</th><td class="tg-infobox-data">YouTube</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">18 September 2020</td></tr><tr><th scope="row" class="tg-infobox-label">Runtime</th><td class="tg-infobox-data">19 min</td></tr><tr><th scope="row" class="tg-infobox-label">Country</th><td class="tg-infobox-data">Czech Republic</td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data">English</td></tr><tr><th scope="row" class="tg-infobox-label">Budget</th><td class="tg-infobox-data">€11,142</td></tr><tr><th scope="row" class="tg-infobox-label">Website</th><td class="tg-infobox-data"><a class="external text" href="https://www.kickstarter.com/projects/482524377/horn-of-gondor-tolkien-fan-film" rel="noreferrer noopener" target="_blank">Kickstarter</a></td></tr><tr><th scope="row" class="tg-infobox-label">IMDb</th><td class="tg-infobox-data"><a class="external text" href="https://www.imdb.com/title/tt10852750" rel="noreferrer noopener" target="_blank">Profile</a></td></tr></tbody></table>
 
-**Sừng Gondor** là một [phim dành cho người hâm mộ](../../category/F/Fan_films.md) dựa trên [một truyện ngắn](../C/Cirion_and_Eorl_and_the_Friendship_of_Gondor_and_Rohan.md) trong *[Unfinished Tales](../U/Unfinished_Tales.md)*. Phim đã được phát hành trên YouTube vào [18 tháng 9](../_/18_September.md) [2020](../_/2020.md).
+**Horn of Gondor** là một [phim dành cho người hâm mộ](../../category/F/Fan_films.md) dựa trên [một truyện ngắn](../C/Cirion_and_Eorl_and_the_Friendship_of_Gondor_and_Rohan.md) trong *[Unfinished Tales](../U/Unfinished_Tales.md)*. Phim đã được phát hành trên YouTube vào ngày [18 tháng Chín](../_/18_September.md) [2020](../_/2020.md).
 
 ## Tóm tắt {#Synopsis}
 
-Sau cuộc xâm lược của đám quân hung hãn [Balchoth](../B/Balchoth.md), [Gondor](../G/Gondor.md) đang trên bờ vực diệt vong. [Người quản lý cầm quyền](../R/Ruling_Steward.md) [Cirion](../C/Cirion.md) đặt hy vọng vào quốc gia bị lãng quên một nửa của các Lãnh chúa Kỵ sĩ ở phía bắc. Liệu hiệp sĩ [Borondir](../B/Borondir.md) có thành công và truyền tải được thông điệp của Cirion?
+Sau cuộc xâm lược của bầy [Balchoth](../B/Balchoth.md) hung hãn, [Gondor](../G/Gondor.md) đang trên bờ vực diệt vong. [Người quản lý cầm quyền](../R/Ruling_Steward.md) [Cirion](../C/Cirion.md) đặt hy vọng vào quốc gia bị lãng quên một nửa của các Lãnh chúa Kỵ sĩ ở phía bắc. Liệu hiệp sĩ [Borondir](../B/Borondir.md) có thành công và truyền tải được thông điệp của Cirion?
 
 ## Truyền {#Cast}
 
@@ -117,7 +117,7 @@ Sau cuộc xâm lược của đám quân hung hãn [Balchoth](../B/Balchoth.md)
 - Trợ lý Giám đốc thứ nhất: Irene Maffei
 - Trợ lý sản xuất: Tomas Stehlik
 
-Nhạc của <a class="external text" href="http://www.imdb.com/name/nm7739226/" rel="noreferrer noopener" target="_blank">Petr Kubelik</a>. Xem: <i><a class="external text" href="http://www.youtube.com/playlist?list=PLFB7xQHB6Y9Cdk-6CNxSRgX2NT8f1Ti6M" rel="noreferrer noopener" target="_blank">Nhạc phim gốc của Horn of Gondor</a></i>.
+Nhạc của <a class="external text" href="http://www.imdb.com/name/nm7739226/" rel="noreferrer noopener" target="_blank">Petr Kubelik</a>. Xem: <i><a class="external text" href="http://www.youtube.com/playlist?list=PLFB7xQHB6Y9Cdk-6CNxSRgX2NT8f1Ti6M" rel="noreferrer noopener" target="_blank">Sừng của Gondor Nhạc phim gốc</a></i>.
 
 ## Đoạn giới thiệu {#Trailer}
 
@@ -128,7 +128,7 @@ Nhạc của <a class="external text" href="http://www.imdb.com/name/nm7739226/"
 ## Liên kết ngoài {#External_links}
 
 - <b><a class="external text" href="http://www.facebook.com/hornofgondorfilm" rel="noreferrer noopener" target="_blank">Facebook chính thức</a></b>
-- <a class="external text" href="http://www.imdb.com/title/tt10852750/" rel="noreferrer noopener" target="_blank">Sừng Gondor</a> tại <a class="external text" href="http://www.imdb.com/" rel="noreferrer noopener" target="_blank">IMDb</a>
+- <a class="external text" href="http://www.imdb.com/title/tt10852750/" rel="noreferrer noopener" target="_blank">Sừng của Gondor</a> tại <a class="external text" href="http://www.imdb.com/" rel="noreferrer noopener" target="_blank">IMDb</a>
 
 <br clear="all"/>
 

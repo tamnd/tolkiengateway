@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gríma"
 ---
 
-Chuyển hướng tới [Gríma](Gríma.md).
+Chuyển hướng đến [Gríma](Gríma.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Gateway:Sandbox"
 ---
 
-Chuyển hướng đến [Cổng Tolkien:Hộp cát](../../project/S/Sandbox.md).
+Chuyển hướng tới [Tolkien Gateway:Hộp cát](../../project/S/Sandbox.md).

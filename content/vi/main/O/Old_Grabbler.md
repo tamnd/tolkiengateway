@@ -15,7 +15,7 @@ hidden_categories:
   - "Pages with short description"
 ---
 
-<i><b>Old Grabbler</b></i> là một bài thơ của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) trong bộ truyện [Những câu chuyện và bài hát về Vịnh Bimble](../T/Tales_and_Songs_of_Bimble_Bay.md) viết về [1928](../_/1928.md). Nó được xuất bản lần đầu tiên vào năm *[The Collected Poems of J.R.R. Tolkien](../T/The_Collected_Poems_of_J.R.R._Tolkien.md)*. Bài thơ có hai bản thảo, và bản đầu tiên có tên là <i><b>Kẻ cướp già tội nghiệp</b></i>. Phim kể về hai cư dân lớn tuổi, bà Day và Grabbler, ở Vịnh Bimble, một thị trấn ven biển tưởng tượng ở Anh. Đó là một bài thơ u sầu than thở về sự xuống cấp của môi trường xung quanh khi họ về già so với tuổi trẻ.
+<i><b>Old Grabbler</b></i> là một bài thơ của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) nằm trong bộ truyện [Những câu chuyện và bài hát về Vịnh Bimble](../T/Tales_and_Songs_of_Bimble_Bay.md) viết về [1928](../_/1928.md). Nó được xuất bản lần đầu tiên vào năm *[The Collected Poems of J.R.R. Tolkien](../T/The_Collected_Poems_of_J.R.R._Tolkien.md)*. Bài thơ có hai bản thảo, và bản đầu tiên có tên là <i><b>Kẻ cướp già tội nghiệp</b></i>. Phim kể về hai cư dân lớn tuổi, bà Day và Grabbler, ở Vịnh Bimble, một thị trấn ven biển tưởng tượng ở Anh. Đó là một bài thơ u sầu than thở về sự xuống cấp của môi trường xung quanh khi họ về già so với tuổi trẻ.
 
 <blockquote class="tg-quote noexcerpt">
 <p>And Grabbler was young and followed after<br/>

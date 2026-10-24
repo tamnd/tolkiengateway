@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lay of Beowulf"
 ---
 
-Chuyển hướng tới [The Lay of Beowulf](../T/The_Lay_of_Beowulf.md).
+Chuyển hướng đến [The Lay of Beowulf](../T/The_Lay_of_Beowulf.md).

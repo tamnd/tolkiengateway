@@ -13,7 +13,7 @@ categories:
   - "Noldorin adjectives"
 ---
 
-<i><b>bara</b></i> là một từ [Noldorin lưu vong](../N/Noldorin.md) có nghĩa là "bốc lửa; háo hức". Từ này được cho là "thường gặp trong các tên nam tính".<sup id="cite_ref-Ety_1-0" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup>
+<i><b>bara</b></i> là một từ [Exilic Noldorin](../N/Noldorin.md) có nghĩa là "bốc lửa; háo hức". Từ này được cho là "thường gặp trong các tên nam tính".<sup id="cite_ref-Ety_1-0" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -26,7 +26,7 @@ categories:
 
 ## Có cùng nguồn gốc {#Cognates}
 
-- [Noldorin lưu vong](../N/Noldorin.md) *[brassen](Brassen.md)*
+- [Người lưu đày Noldorin](../N/Noldorin.md) *[brassen](Brassen.md)*
 
 <span></span>
 

@@ -46,7 +46,7 @@ Bắt đầu từ số này, tạp chí bây giờ có phụ đề là "Nhật k
     - David Gresham được Abigail Santamaria nhớ đến
     - David Neuhouser được Jerry Root nhớ đến
     - Bruce L. Edwards được Jerry Root nhớ đến
-- "C.S. Lewis Thư chưa công bố bằng tiếng Anh cổ"
+- "C.S. Lewis Thư chưa công bố trong tiếng Anh cổ"
     - Bởi: George Musacchio
 - "'Nhận thức được vẻ đẹp đáng yêu của tính cách con người thông qua tất cả các sắc thái sai lầm đương thời': George MacDonald, Lady Byron và Annabella Milbanke đáng chú ý"
     - Bởi: William Howard
@@ -54,9 +54,9 @@ Bắt đầu từ số này, tạp chí bây giờ có phụ đề là "Nhật k
     - Bởi: Crystal Hurd
 - "Bánh Pudaita: Một tuyển tập"
     - Bởi: Warren và C.S. Lewis
-- "Bài phê bình của Charles Williams về chủ nghĩa cá nhân lãng mạn trong cuộc đi xuống địa ngục"
+- "Charles Williams Phê phán chủ nghĩa cá nhân lãng mạn khi xuống địa ngục"
     - Bởi: Joshua Avery
-- "Dorothy L. Sayers: Quảng cáo, Nghệ thuật và Cuộc sống tốt đẹp"
+- "Dorothy L. Sayers: Quảng cáo, Nghệ thuật và Cuộc sống Tốt đẹp"
     - Bởi: Christine M. Fletcher
 - "'Không có gì khác biệt': Phê bình, hư cấu và thần học của C.S. Lewis"
     - Bởi: Stephen Prickett
@@ -68,11 +68,11 @@ Bắt đầu từ số này, tạp chí bây giờ có phụ đề là "Nhật k
         - Bởi: Andrew Lazo
     - "Đánh giá về Joy Davidman, A Naked Tree: Love Sonnets cho C.S. Lewis và những bài thơ khác, do Don W. King biên tập"
         - Bởi: Andrew Lazo
-    - "Đánh giá về Phần mềm Kinh Thánh Logos: Logos 6, C.S. Lewis Bộ sưu tập Sách"
+    - "Đánh giá phần mềm Kinh thánh Logos: Logos 6, C.S. Lewis Bộ sưu tập sách"
         - Bởi: Laura Schmidt
-    - "Bài đánh giá về George MacDonald, Công chúa và yêu tinh và những câu chuyện cổ tích khác, do Shelley King và John biên tập B. Pierce"
+    - "Bài đánh giá về George MacDonald, Công chúa và yêu tinh và những câu chuyện cổ tích khác, được biên tập bởi Shelley Vua và John B. Pierce"
         - Bởi: Daniel Gabelman
-    - "Đánh giá về Under the Mercy: Charles Williams và Holy Grail của Robert Peirano"
+    - "Đánh giá về Under the Mercy: Charles Williams và Chén Thánh của Robert Peirano"
         - Bởi: Linh mục Nancy E. Topolewski, Tiến sĩ<sup id="cite_ref-vii_3-1" class="reference"><a href="#cite_note-vii-3">[3]</a></sup>
 
 <div class="template-prevnext"><div class="template-prevnext__prev template-prevnext__link"><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/8/81/WikimediaUI-ArrowPrevious-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__content"><div class="template-prevnext__title">SEVEN 31</div></div><div class="template-prevnext__linkoverlay"><a href="SEVEN_31.md" title="SEVEN 31">SEVEN 31</a></div></div><div class="template-prevnext__current"><div class="template-prevnext__content"><div class="template-prevnext__title">SEVEN 32</div></div></div><div class="template-prevnext__next template-prevnext__link"><div class="template-prevnext__content"><div class="template-prevnext__title">SEVEN 33</div></div><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/7b/WikimediaUI-ArrowNext-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__linkoverlay"><a href="SEVEN_33.md" title="SEVEN 33">SEVEN 33</a></div></div></div>

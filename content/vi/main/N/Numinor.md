@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Númenor"
 ---
 
-Chuyển hướng tới [Số](Númenor.md).
+Chuyển hướng đến [Númenor](Númenor.md).

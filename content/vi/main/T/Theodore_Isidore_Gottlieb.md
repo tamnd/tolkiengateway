@@ -27,7 +27,7 @@ langlinks:
     url: "https://www.ardapedia.org/wiki/Brother_Theodore"
 ---
 
-**Theodore Isidore Gottlieb** ([1906](../_/1906.md)-[2001](../_/2001.md)), thường được biết đến với cái tên **Anh Theodore**, là một diễn viên và diễn viên hài người Mỹ. Anh là người lồng tiếng cho [Gollum](../G/Gollum.md) trong các bộ phim hoạt hình [The Hobbit (1977 film)](<The_Hobbit_(1977_film).md>) và [The Return of the King (phim 1980)](<The_Return_of_the_King_(1980_film).md>).
+**Theodore Isidore Gottlieb** ([1906](../_/1906.md)-[2001](../_/2001.md)), thường được biết đến với cái tên **Anh Theodore**, là một diễn viên và diễn viên hài người Mỹ. Ông là người lồng tiếng cho [Gollum](../G/Gollum.md) trong các bộ phim hoạt hình [The Hobbit (1977 film)](<The_Hobbit_(1977_film).md>) và [The Return of the King (phim 1980)](<The_Return_of_the_King_(1980_film).md>).
 
 ## Liên kết ngoài {#External_links}
 

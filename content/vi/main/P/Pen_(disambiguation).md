@@ -19,7 +19,7 @@ images:
 - *[pen](Pen.md)*, một từ [Telerin](../T/Telerin.md)
 - *[pen-](Pen-.md)*, tiền tố [Sindarin](../S/Sindarin.md)
 - [PEN](PEN~34927.md), một [Elvish](../E/Elvish.md) [gốc](../S/Sundocarme.md) biểu thị "thiếu, không có"
-- [PEN, PÉNED](PED.md#Other_verions), một [gốc Elvish](../E/Elvish.md) [gốc](../S/Sundocarme.md) với các dạng hậu duệ liên quan đến "độ dốc, độ dốc"
+- [PEN, PÉNED](PED.md#Other_verions), một [Elvish](../E/Elvish.md) [gốc](../S/Sundocarme.md) với các dạng con cháu liên quan đến "độ dốc, độ dốc"
 
 <hr style="margin-top:15px;"/>
 

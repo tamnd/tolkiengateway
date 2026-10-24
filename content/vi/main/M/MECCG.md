@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Middle-earth Collectible Card Game"
 ---
 
-Chuyển hướng tới [Trò chơi sưu tập thẻ bài ở Trung Địa](Middle-earth_Collectible_Card_Game.md).
+Chuyển hướng tới [Trung Địa Trò chơi thẻ sưu tập](Middle-earth_Collectible_Card_Game.md).

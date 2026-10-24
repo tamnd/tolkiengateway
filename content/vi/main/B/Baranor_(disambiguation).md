@@ -25,10 +25,10 @@ images:
 
 **Baranor** có thể đề cập đến:
 
-## Trung địa {#Middle-earth}
+## Trung Địa {#Middle-earth}
 
 - [Baranor](<Baranor_(son_of_Baran).md>) (sinh [F.A.](../F/First_Age.md) [317](../F/First_Age_317.md)), con trai của [Baran](Baran.md) và là người của [Nhà Bëor](../H/House_of_Bëor.md).
-- [Baranor](<Baranor_(man_of_Gondor).md>) (cuối [Thời đại thứ ba](../T/Third_Age.md)), một người đàn ông của [Gondor](../G/Gondor.md) và là cha của [Beregond](Beregond.md).
+- [Baranor](<Baranor_(man_of_Gondor).md>) (cuối [Kỷ Đệ Tam](../T/Third_Age.md)), người đàn ông của [Gondor](../G/Gondor.md) và là cha của [Beregond](Beregond.md).
 
 ## Các bản chuyển thể {#Adaptations}
 

@@ -39,7 +39,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mythlore_139.gif.md"><img src="https://tolkiengateway.net/w/images/6/6a/Mythlore_139.gif" decoding="async" loading="lazy" width="225" height="318" class="mw-file-element" data-file-width="225" data-file-height="318"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mythlore 139</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../J/Janet_Brennan_Croft.md" title="Janet Brennan Croft">Janet Brennan Croft</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Fall/Winter <a href="../_/2021.md" title="2021">2021</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">288</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mythlore_138.md" title="Mythlore 138">Mythlore 138</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mythlore_140.md" title="Mythlore 140">Mythlore 140</a></td></tr></tbody></table>
 
-<b><i>Thần thoại</i> 139</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol40/iss1/" rel="noreferrer noopener" target="_blank">Tập 40, Số 1</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
+<b><i>Mythlore</i> 139</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol40/iss1/" rel="noreferrer noopener" target="_blank">Tập 40, Số 1</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
 
 ## Nội dung {#Contents}
 
@@ -61,7 +61,7 @@ infobox:
 
 - Croft, Janet Brennan. Biên tập.
 - Williams, Donald T. Keystone or Cornerstone? A Rejoinder to Verlyn Flieger on the Alleged "Conflicting Sides" of Tolkien’s Singular Self.
-- Xin chào, Reggie. Kỳ nghỉ bên bờ biển: Đi tìm Cair Paravel.
+- Xin chào, Reggie. Một kỳ nghỉ bên Biển: Đi tìm Cair Paravel.
 - Cho, Song. *Lady Susan* của Jane Austen như một nguồn cảm hứng tiềm năng đằng sau *The Screwtape Letters* của C.S. Lewis.
 
 #### Đánh giá {#Reviews}
@@ -71,7 +71,7 @@ infobox:
 - *The Flight of the Wild Gander* của Joseph Campbell. Được đánh giá bởi Phillip Fitzsimmons.
 - *God and the Gothic* của Alison Milbank. Được đánh giá bởi Douglas A. Anderson.
 - *The Saga of the Volsungs: With the Saga of Ragnar Lothbrok*, do Jackson Crawford dịch. Được đánh giá bởi Phillip Fitzsimmons.
-- *Tolkien kẻ ngoại giáo? Đọc Trung Địa qua lăng kính tâm linh*, do Anna Milon biên tập. Được đánh giá bởi Alana White.
+- *Tolkien người ngoại giáo? Đọc Trung Địa qua lăng kính tâm linh*, do Anna Milon biên tập. Được đánh giá bởi Alana White.
 - *Định hướng lại câu chuyện cổ tích: Sự thích ứng đương đại giữa các nền văn hóa,* do Mayako Murai và Luciana Cardi biên tập. Được đánh giá bởi Nada Kujundžić.
 - *Những tưởng tượng trẻ em và trí tưởng tượng thần thánh của George MacDonald* của Colin Manlove. Được đánh giá bởi Tiffany Brooke Martin.
 - *Các lá bài: Sự tiến hóa và sức mạnh của Tarot* của Patrick Maille. Được đánh giá bởi Emily E. Auger.

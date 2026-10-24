@@ -50,9 +50,9 @@ Tên trước đây của nhân vật là *Eär*.<sup id="cite_ref-Fen_2-1" clas
 
 Trong [huyền thoại](../L/Legendarium.md) đầu tiên, tên *Fengel* cũng được sử dụng cho hai nhân vật khác nhau tại một số thời điểm.
 
-Trong *[The Lay of the Fall of Gondolin](../T/The_Lay_of_the_Fall_of_Gondolin.md)*, từ c. [1920](../_/1920.md), *Fengel* thay *[Peleg](../P/Peleg.md)* làm tên cha của Tuor.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup>
+Trong *[The Lay of the Fall of Gondolin](../T/The_Lay_of_the_Fall_of_Gondolin.md)*, từ c. [1920](../_/1920.md), *Fengel* thay *[Peleg](../P/Peleg.md)* làm tên bố của Tuor.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup>
 
-Tên *Fengel* cũng xuất hiện dưới dạng tên của chính Tuor, trong một [đoạn ám chỉ Lay of Eärendel](Fragment_of_an_alliterative_Lay_of_Eärendel.md) từ c. [1925](../_/1925.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup>
+Tên *Fengel* cũng xuất hiện dưới dạng tên của chính Tuor, trong một đoạn [của một điệp âm Lay của Eärendel](Fragment_of_an_alliterative_Lay_of_Eärendel.md) từ c. [1925](../_/1925.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup>
 
 ### Huyền thoại sau này {#Later_legendarium}
 

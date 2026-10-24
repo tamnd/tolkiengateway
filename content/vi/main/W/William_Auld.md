@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Auld, William"
 ---
 
-**William Auld** ([6 tháng 11](../_/6_November.md) [1924](../_/1924.md) – [11 tháng 9](../_/11_September.md) [2006](../_/2006.md)) là một nhà thơ, tác giả, dịch giả và biên tập viên tạp chí người Scotland, người viết chủ yếu bằng [Esperanto](../E/Esperanto.md). Auld đã dịch *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* và đóng góp vào việc dịch *[The Hobbit](../T/The_Hobbit.md)* sang Esperanto.
+**William Auld** ([6 tháng 11](../_/6_November.md) [1924](../_/1924.md) – [11 tháng Chín](../_/11_September.md) [2006](../_/2006.md)) là một nhà thơ, tác giả, dịch giả và biên tập viên tạp chí người Scotland, người viết chủ yếu bằng [Esperanto](../E/Esperanto.md). Auld đã dịch *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* và đóng góp vào việc dịch *[The Hobbit](../T/The_Hobbit.md)* sang Esperanto.
 
 ## Thư mục, đã chọn {#Bibliography,_selected}
 
@@ -27,7 +27,7 @@ sort_keys:
 - *[La mastro de l' ringoj](../L/La_mastro_de_l'_ringoj.md)* (*[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*)
     - [1995](../_/1995.md): *La kunularo de l' ringo* (*[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)*)
     - [1995](../_/1995.md): *La du turegoj* (*[The Two Towers](../T/The_Two_Towers.md)*)
-    - [1997](../_/1997.md): *La reveno de la reĝo* ([Sự trở lại của nhà vua](../T/The_Return_of_the_King.md)*)*
+    - [1997](../_/1997.md): *La reveno de la reĝo* ([The Return of the King](../T/The_Return_of_the_King.md)*)*
 - [2000](../_/2000.md): *[La hobito](../L/La_hobito.md)* (*[The Hobbit](../T/The_Hobbit.md)*; với <a class="new" href="https://tolkiengateway.net/w/index.php?title=Christopher_Gledhill&amp;action=edit&amp;redlink=1" title="Christopher Gledhill (page does not exist)">Christopher Gledhill</a>; Auld đã dịch các bài thơ và bài hát)
 
 ## Liên kết ngoài {#External_links}

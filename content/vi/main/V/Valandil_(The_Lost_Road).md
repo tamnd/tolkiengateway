@@ -33,21 +33,21 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../N/Númenóreans.md" title="Númenóreans">Númenórean</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Valandil</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">Children</th><td class="tg-infobox-data"><a href="../E/Elendil.md" title="Elendil">Elendil</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr></tbody></table>
 
-**Valandil** là cha của [Elendil](../E/Elendil.md) theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) trong *[The Lost Road](../T/The_Lost_Road.md)*.
+**Valandil** là cha đẻ của [Elendil](../E/Elendil.md) theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) ở *[The Lost Road](../T/The_Lost_Road.md)*.
 
 ## Lịch sử {#History}
 
-Khi [Herendil](../H/Herendil.md) thông báo với cha anh rằng mặc dù hai người họ đều mang dòng máu của các vị vua, nhưng đồng nghiệp của anh đã gọi anh bằng những cái tên như "Terendul" vào ngày hôm trước và buộc tội anh là "nửa Noldo",<sup id="cite_ref-P1_1-0" class="reference"><a href="#cite_note-P1-1">[1]</a></sup> [Elendil](../E/Elendil.md) phản ứng bằng cách nói rằng nếu Herendil là con trai ông thì có thể sẽ nguy hiểm vì tên của chính cha anh, Valandil, có nghĩa là *"God-friend"*.<sup id="cite_ref-P1_1-1" class="reference"><a href="#cite_note-P1-1">[1]</a></sup>
+Khi [Herendil](../H/Herendil.md) thông báo với cha anh rằng mặc dù hai người họ đều mang dòng máu của các vị vua, nhưng đồng nghiệp của anh đã gọi anh bằng những cái tên như "Terendul" ngày hôm trước và buộc tội anh là "nửa-Noldo",<sup id="cite_ref-P1_1-0" class="reference"><a href="#cite_note-P1-1">[1]</a></sup> [Elendil](../E/Elendil.md) phản ứng bằng cách nói rằng việc Herendil lấy con trai của ông như tên của chính cha mình, Valandil, nghĩa là *"God-friend"*.<sup id="cite_ref-P1_1-1" class="reference"><a href="#cite_note-P1-1">[1]</a></sup>
 
-Sau đó. Elendil nói với con trai mình rằng ông không thể bị tha hóa bởi những người hầu của [Morgoth](../M/Morgoth.md) vì là Valandil và cha ông là "người đứng đầu các nhà thông thái của [Númenor](../N/Númenor.md).<sup id="cite_ref-P1_1-2" class="reference"><a href="#cite_note-P1-1">[1]</a></sup>
+Sau đó. Elendil nói với con trai mình rằng ông ta không thể bị những người hầu của [Morgoth](../M/Morgoth.md) làm hư hỏng vì Valandil cha ông ta là "người đứng đầu các nhà thông thái của [Númenor](../N/Númenor.md).<sup id="cite_ref-P1_1-2" class="reference"><a href="#cite_note-P1-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Valandil* là [Quenya](../Q/Quenya.md), là từ ghép của *vanan* ("thần") + *(-n)dil* ("bạn"). [Tiếng Anh cổ](../O/Old_English.md) cùng nguồn gốc của nó là *[Oswine](../O/Oswin_Errol.md)*, cũng có nghĩa là "Người bạn của Chúa".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+*Valandil* là [Quenya](../Q/Quenya.md), là từ ghép của *vanan* ("thần") + *(-n)dil* ("bạn"). [tiếng Anh cổ](../O/Old_English.md) cùng nguồn gốc của nó là *[Oswine](../O/Oswin_Errol.md)*, cũng có nghĩa là "Người bạn của Chúa".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Ở một giai đoạn khác của [Huyền thoại](../L/Legendarium.md) tách biệt khỏi *[The Lost Road](../T/The_Lost_Road.md)*, Valandil là anh trai của [Elendil](../E/Elendil.md) the Tall. Trong giai đoạn này, Valandil giữ vai trò [Anarion](../A/Anarion.md) và thành lập [Ondor](../G/Gondor.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Ở một giai đoạn khác của [Legendarium](../L/Legendarium.md) tách biệt với *[The Lost Road](../T/The_Lost_Road.md)*, Valandil là anh trai của [Elendil](../E/Elendil.md) the Tall. Trong giai đoạn này, Valandil giữ vai trò [Anarion](../A/Anarion.md) và thành lập [Ondor](../G/Gondor.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

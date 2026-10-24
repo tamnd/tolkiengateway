@@ -28,19 +28,19 @@ images:
 
 **Cáo** là loài động vật ăn thịt [giống chó](../D/Dogs.md) sống trong rừng và đất nông nghiệp, đặc biệt nhờ bộ lông màu đỏ cam và tiếng kêu ai oán kỳ lạ của chúng.
 
-Vào [Thời thứ hai](../S/Second_Age.md), ở [Númenor](../E/Elenna.md), cáo có số lượng lớn. Their main food were [lopoldi](../L/Lopoldi.md), helping the [Númenóreans](../N/Númenóreans.md) to keep them in order. Vì hiếm khi bị săn bắt hoặc vì có đủ thức ăn với lopoldi nên họ không bao giờ tấn công các loài gà của người Númenóreans.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Ở [Kỷ Đệ Nhị](../S/Second_Age.md), ở [Númenor](../E/Elenna.md), có rất nhiều cáo. Thức ăn chính của họ là [lopoldi](../L/Lopoldi.md), giúp [người Númenor](../N/Númenóreans.md) giữ chúng ngăn nắp. Vì chúng hiếm khi bị săn bắt hoặc vì có đủ thức ăn với lopoldi nên chúng không bao giờ tấn công các loài chim người Númenor.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-In the [Third Age](../T/Third_Age.md), a fox became puzzled at finding [Frodo](Frodo_Baggins.md), [Sam](../S/Samwise_Gamgee.md), and [Pippin](../P/Peregrin_Took.md) asleep in a [fir-wood](Firs.md) on the first night of their journey from [Hobbiton](../H/Hobbiton.md), thinking that there was *“something mighty queer behind this”*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Another fox was encountered by [Strider](../A/Aragorn.md) và những người hobbit khi họ đi bộ qua [Chetwood](../C/Chetwood.md) sau khi rời [Bree](../B/Bree.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Trong [Kỷ Đệ Tam](../T/Third_Age.md), một con cáo đã bối rối khi tìm thấy [Frodo](Frodo_Baggins.md), [Sam](../S/Samwise_Gamgee.md) và [Pippin](../P/Peregrin_Took.md) đang ngủ trong [rừng linh sam](Firs.md) vào đêm đầu tiên trong chuyến hành trình của họ từ [Hobbiton](../H/Hobbiton.md), vì nghĩ rằng có *“something mighty queer behind this”*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Một con cáo khác đã gặp phải [Strider](../A/Aragorn.md) và những người hobbit khi họ đi bộ qua [Chetwood](../C/Chetwood.md) sau khi rời đi [Bree](../B/Bree.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Tên khác {#Other_names}
 
-The [Quenya](../Q/Quenya.md) word for "fox" is <i><b>rusco</b></i>, pl. *rusqui*.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Từ [tiếng Sindarin](../S/Sindarin.md) là <i><b>rusc</b></i>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Từ [Quenya](../Q/Quenya.md) cho "cáo" là <i><b>rusco</b></i>, pl. *rusqui*.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Từ [Sindarin](../S/Sindarin.md) là <i><b>rusc</b></i>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/R/Red_Fox.png.md"><img src="https://tolkiengateway.net/w/images/thumb/2/21/Red_Fox.png/300px-Red_Fox.png" decoding="async" loading="lazy" width="300" height="149" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/2/21/Red_Fox.png 1.5x" data-file-width="400" data-file-height="199"/></a><figcaption>Red Fox of <a href="../C/Calenardhon.md" title="Calenardhon">Calenardhon</a> - <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">MERP</a></i></figcaption></figure>
 
-<b>1987: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Nhập vai ở Trung Địa</a></i></b>
+<b>1987: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i></b>
 
 <dl><dd>The Red Foxes of <a href="../C/Calenardhon.md" title="Calenardhon">Calenardhon</a> are mentioned as a species with truly red fur, which made them a target for fur hunters. They were smarter than other fox species, rarely stumbling into death and cunningly avoiding traps and <a href="../M/Men.md" title="Men">Men</a>. The Red Foxes had colour vision and were canny thieves, stealing hens, <a href="../R/Rabbits.md" title="Rabbits">rabbits</a> and small, brightly coloured objects.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></dd></dl>
 

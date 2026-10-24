@@ -14,7 +14,7 @@ categories:
   - "Noldorin nouns"
 ---
 
-<i><b>glaur</b></i> (đôi khi được áp dụng là <i><b>glor</b></i>) là một từ [Sindarin](../S/Sindarin.md) có nghĩa là "vàng (sáng hoặc màu sắc)".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>glaur</b></i> (đôi khi được áp dụng là <i><b>glor</b></i>) là một từ [Sindarin](../S/Sindarin.md) có nghĩa là "vàng (sáng hoặc màu)".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ### Từ nguyên {#Etymology}
 
@@ -24,7 +24,7 @@ Trong [*Etymologies*](../T/The_Etymologies.md), *glaur* xuất phát từ [gốc
 
 - <i><a href="Glaurung.md" title="Glaurung"><b>Glaur</b>ung</a></i> = "Con sâu vàng"
 - <i><a href="Glorfindel.md" title="Glorfindel"><b>Glor</b>findel</a></i>= "Tóc vàng"
-- <i><a href="Glóredhel.md" title="Glóredhel"><b>Glór</b>edhel</a></i> = "Yêu tinh vàng"
+- <i><a href="Glóredhel.md" title="Glóredhel"><b>Glór</b>edhel</a></i> = "Vàng Tiên"
 - <i><a href="../M/Maglor.md" title="Maglor">Ma<b>glor</b></a></i> = "Rèn vàng"
 - <i><a class="mw-redirect" href="../N/Ninglor.md" title="Ninglor">Nin<b>glor</b></a></i> = "Goldwater"
 

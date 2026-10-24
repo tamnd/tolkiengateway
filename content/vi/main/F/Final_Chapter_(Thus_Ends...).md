@@ -33,7 +33,7 @@ infobox:
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
-**Chương cuối cùng** (Như vậy kết thúc...) là ca khúc thứ 22 trong album chủ đề Tolkien của [Blind Guardian](../B/Blind_Guardian.md), [Nightfall in Middle-Earth](../N/Nightfall_in_Middle-Earth.md).
+**Chương cuối cùng** (Như vậy kết thúc...) là bài hát thứ 22 trong album chủ đề Tolkien của [Blind Guardian](../B/Blind_Guardian.md), [Nightfall in Middle-Earth](../N/Nightfall_in_Middle-Earth.md).
 
 ## Lời bài hát {#Lyrics}
 

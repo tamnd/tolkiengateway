@@ -39,7 +39,7 @@ infobox:
   <tr><th scope="row" class="tg-infobox-label">Subject(s)</th><td class="tg-infobox-data"><a href="../E/Eorl.md" title="Eorl">Eorl</a></td></tr>
 </tbody></table>
 
-“**Con ngựa và người cưỡi ngựa bây giờ ở đâu? Tiếng tù và thổi ở đâu?**” là dòng đầu tiên trong [bài thơ](../P/Poems_in_The_Lord_of_the_Rings.md) được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) về [Eorl](../E/Eorl.md).
+"**Con ngựa và người cưỡi bây giờ ở đâu? Tiếng tù và thổi ở đâu?**" là dòng đầu tiên của một [bài thơ](../P/Poems_in_The_Lord_of_the_Rings.md) được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) về [Eorl](../E/Eorl.md).
 
 ## Trích đoạn thơ {#Poem_excerpt}
 
@@ -53,21 +53,21 @@ Where is the spring and the harvest and the tall corn growing?<sup id="cite_ref-
 
 ## Lịch sử {#History}
 
-Một nhà thơ bị lãng quên của [Rohan](../R/Rohan.md) ban đầu đã viết nó về [Eorl the Young](../E/Eorl_the_Young.md) và con ngựa [Felaróf](../F/Felaróf.md) của ông ta rất lâu trước [War of the Ring](../W/War_of_the_Ring.md).<sup id="cite_ref-lotr_1-1" class="reference"><a href="#cite_note-lotr-1">[1]</a></sup>
+Một nhà thơ bị lãng quên của [Rohan](../R/Rohan.md) ban đầu đã viết nó về [Eorl the Young](../E/Eorl_the_Young.md) và con ngựa [Felaróf](../F/Felaróf.md) của ông ấy rất lâu trước [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md).<sup id="cite_ref-lotr_1-1" class="reference"><a href="#cite_note-lotr-1">[1]</a></sup>
 
-Vào năm [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md), [Aragorn](../A/Aragorn.md) đã hát một bài than thở để mô tả đặc điểm của [Rohirrim](../R/Rohirrim.md) khi ông, [Gandalf](../G/Gandalf.md), [Legolas](Legolas.md) và [Gimli](../G/Gimli.md) tiếp cận [Edoras](../E/Edoras.md). Ban đầu ông đã niệm nó bằng [tiếng Rohan](../R/Rohanese.md). Sau khi Legolas nhận xét rằng âm thanh của từ này giống với vùng đất của Rohan, Aragorn đã đọc lại bản dịch của nó.<sup id="cite_ref-lotr_1-2" class="reference"><a href="#cite_note-lotr-1">[1]</a></sup>
+Vào năm [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md), [Aragorn](../A/Aragorn.md) đã hát một bài than thở để mô tả đặc điểm của [Rohirrim](../R/Rohirrim.md) khi ông, [Gandalf](../G/Gandalf.md), [Legolas](Legolas.md) và [Gimli](../G/Gimli.md) tiếp cận [Edoras](../E/Edoras.md). Ban đầu ông đã niệm nó trong [Rohanese](../R/Rohanese.md). Sau khi Legolas nhận xét rằng âm thanh của từ này giống với vùng đất của Rohan, Aragorn đã đọc lại bản dịch của nó.<sup id="cite_ref-lotr_1-2" class="reference"><a href="#cite_note-lotr-1">[1]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Phiên bản đầu tiên của bài thơ, có thể được viết "từ [tháng 2](../F/February.md) đến giữa mùa hè" của [1942](../_/1942.md), "có vẻ" thiên về "Chuyến đi của Eorl từ phương Bắc" hơn là về thời gian trôi qua.<sup id="cite_ref-collectedpoems_2-0" class="reference"><a href="#cite_note-collectedpoems-2">[2]</a></sup> Sau đó trong bản thảo tiếp theo,<sup id="cite_ref-collectedpoems_2-1" class="reference"><a href="#cite_note-collectedpoems-2">[2]</a></sup> Tolkien đã sử dụng phong cách <i><a class="extiw" href="http://en.wikipedia.org/wiki/The_Wanderer" title="wikipedia:The Wanderer">Kẻ lang thang</a></i>,<sup id="cite_ref-collectedpoems_2-2" class="reference"><a href="#cite_note-collectedpoems-2">[2]</a></sup> đã sử dụng một quy ước có tên là <i><a class="extiw" href="http://en.wikipedia.org/wiki/Ubi_sunt" title="wikipedia:Ubi sunt">Ubi sunt</a></i>.<sup id="cite_ref-companion_3-0" class="reference"><a href="#cite_note-companion-3">[3]</a></sup>
+Phiên bản sớm nhất của bài thơ, có thể được viết "giữa [tháng 2](../F/February.md) và giữa mùa hè" của [1942](../_/1942.md), "có vẻ" thiên về "Eorl chuyến đi từ phương Bắc" hơn là về thời gian trôi qua.<sup id="cite_ref-collectedpoems_2-0" class="reference"><a href="#cite_note-collectedpoems-2">[2]</a></sup> Sau đó, trong bản thảo tiếp theo,<sup id="cite_ref-collectedpoems_2-1" class="reference"><a href="#cite_note-collectedpoems-2">[2]</a></sup> Tolkien đã sử dụng phong cách của <i><a class="extiw" href="http://en.wikipedia.org/wiki/The_Wanderer" title="wikipedia:The Wanderer">The Wanderer</a></i>,<sup id="cite_ref-collectedpoems_2-2" class="reference"><a href="#cite_note-collectedpoems-2">[2]</a></sup> đã sử dụng quy ước có tên <i><a class="extiw" href="http://en.wikipedia.org/wiki/Ubi_sunt" title="wikipedia:Ubi sunt">Ubi sunt</a></i>.<sup id="cite_ref-companion_3-0" class="reference"><a href="#cite_note-companion-3">[3]</a></sup>
 
-Trong bản sửa đổi của phiên bản đầu tiên của chương "[Vua của Sảnh Vàng](../T/The_King_of_the_Golden_Hall.md)", Tolkien đã viết câu thơ mà Aragorn đã thốt ra trong câu chuyện, mặc dù Eorl được gọi là "Người già" chứ không phải "Người trẻ".<sup id="cite_ref-early_4-0" class="reference"><a href="#cite_note-early-4">[4]</a></sup>
+Trong bản sửa đổi của phiên bản đầu tiên của chương "[ Vua của Sảnh Vàng](../T/The_King_of_the_Golden_Hall.md)", Tolkien đã viết câu Aragorn thốt ra trong câu chuyện, mặc dù Eorl được gọi là "Người già" chứ không phải "Người trẻ".<sup id="cite_ref-early_4-0" class="reference"><a href="#cite_note-early-4">[4]</a></sup>
 
 ## Cảm hứng {#Inspiration}
 
-Trong ghi chú cho bản thảo ban đầu, [Christopher Tolkien](../C/Christopher_Tolkien.md) đã viết rằng câu thơ này lặp lại dòng 92 của *The Wanderer*, một bài thơ [Tiếng Anh cổ](../O/Old_English.md).<sup id="cite_ref-note_5-0" class="reference"><a href="#cite_note-note-5">[5]</a></sup>
+Trong ghi chú cho bản thảo đầu tiên, [Christopher Tolkien](../C/Christopher_Tolkien.md) viết rằng câu thơ vang vọng dòng 92 của *The Wanderer*, một bài thơ [tiếng Anh cổ](../O/Old_English.md).<sup id="cite_ref-note_5-0" class="reference"><a href="#cite_note-note-5">[5]</a></sup>
 
-Có thể hai dòng đầu của Aragorn lấy cảm hứng từ bài thơ vì trong đó có hai chữ "[mathom](../M/Mathom.md)-giver" và "[theoden](../T/Theoden.md)".<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Có thể hai dòng đầu tiên của Aragorn được lấy cảm hứng từ bài thơ vì nó có chứa các từ "[mathom](../M/Mathom.md)-giver" và "[theoden](../T/Theoden.md)".<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 <table>
 <tbody><tr>
@@ -103,14 +103,14 @@ as if it never were.
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2002: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">Chúa tể của những chiếc nhẫn: Hai tòa tháp</a></i>:</b>
+<b>2002: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Lord of the Rings: The Two Towers</a></i>:</b>
 
 <dl><dd>Before the beginning of the <a href="../B/Battle_of_the_Hornburg.md" title="Battle of the Hornburg">Battle</a> of <a href="../H/Helm&#39;s_Deep.md" title="Helm&#39;s Deep">Helm&#39;s Deep</a>, <a href="../T/Théoden.md" title="Théoden">Théoden</a> recites some lines of the poem, lamenting how alone the Rohirrim stand. <blockquote><p>Where is the horse and the rider?<br/>Where is the horn that was blowing?<br/>They have passed like rain on the mountains,<br/>like wind in the meadow.<br/>The days have gone down in the West,<br/>behind the hills... into Shadow.</p></blockquote></dd>
 <dd>The remaining lines are sung in Old English on the score in the background in the above and other scenes.</dd></dl>
 
 ## Liên kết ngoài {#External_links}
 
-- <cite class="citation cite-web"><span class="cite-web-author">Clamavi De Profundis (31 tháng 3 năm 2018)</span>. <span class="cite-web-article"><a class="external text" href="https://www.youtube.com/watch?v=2YTBgFmK_bs" rel="noreferrer noopener" target="_blank">"Lời than thở dành cho người Rohirrim - Clamavi De Profundis"</a></span>. <span class="cite-web-website"><a class="external text" href="https://www.youtube.com" rel="noreferrer noopener" target="_blank">YouTube</a></span></cite>
+- <cite class="citation cite-web"><span class="cite-web-author">Clamavi De Profundis (31 tháng 3 năm 2018)</span>. <span class="cite-web-article"><a class="external text" href="https://www.youtube.com/watch?v=2YTBgFmK_bs" rel="noreferrer noopener" target="_blank">"Lời than thở dành cho Rohirrim - Clamavi De Profundis"</a></span>. <span class="cite-web-website"><a class="external text" href="https://www.youtube.com" rel="noreferrer noopener" target="_blank">YouTube</a></span></cite>
 
 <span></span>
 

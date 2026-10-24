@@ -21,7 +21,7 @@ langlinks:
     url: "https://kontu.wiki/Kurjenmiekka_(kasvi)"
 ---
 
-**Iris** là một loài hoa đầy màu sắc và đặc biệt. [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md) nhận thấy nó mọc ở [Ithilien](Ithilien.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và [Sông Gladden](../G/Gladden_River.md) và [Cánh đồng Gladden](../G/Gladden_Fields.md) lấy tên từ nhiều loại hoa này.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Iris** là một loài hoa đầy màu sắc và đặc biệt. [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md) nhận thấy nó mọc ở [Ithilien](Ithilien.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và [Sông Gladden](../G/Gladden_River.md) và [Gladden Fields](../G/Gladden_Fields.md) lấy tên từ nhiều loại hoa này.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Ghi chú {#Notes}
 

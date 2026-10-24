@@ -12,13 +12,13 @@ categories:
   - "Haradrim"
 ---
 
-**Swertings** là tên ám chỉ [Haradrim](../H/Haradrim.md). Từ này là [Hobbitish](../H/Hobbitish.md), được sử dụng giữa những [Hobbit](../H/Hobbits.md) của [Shire](../T/The_Shire.md) hẻo lánh. Chỉ những truyền thuyết về họ mới đến được với người Hobbit: Người Swertings sống ở [Sunlands](Sunlands.md) và tiến hành chiến tranh với [oliphaunts](../O/Oliphaunts.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Swertings** là tên đề cập đến [Haradrim](../H/Haradrim.md). Từ này là [Hobbitish](../H/Hobbitish.md), được sử dụng trong số [Hobbit](../H/Hobbits.md) của [Shire](../T/The_Shire.md) biệt lập. Chỉ có truyền thuyết về họ mới đến được Hobbit: người Swertings sống ở [Sunlands](Sunlands.md) và tiến hành chiến tranh với [oliphaunts](../O/Oliphaunts.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Swerting* là một từ liên quan đến thuật ngữ '[Những người đàn ông da ngăm](Swarthy_Men.md)' được sử dụng trong [Ngôn ngữ chung](../W/Westron.md) (trong đó 'swarthy' là một từ cũ chỉ 'da đen').<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+*Swerting* là từ liên quan đến thuật ngữ '[Swarthy Con Người](Swarthy_Men.md)' được sử dụng trong [Ngôn ngữ Chung](../W/Westron.md) (trong đó 'swarthy' là từ cũ chỉ 'da đen').<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-<a class="extiw" href="http://en.wikipedia.org/wiki/Swerting" title="wikipedia:Swerting">Swerting</a> là tên [tiếng Anh cổ](../O/Old_English.md), ám chỉ một nhân vật huyền thoại, cũng được nhắc đến trong *[Beowulf](<../B/Beowulf_(poem).md>)*.
+<a class="extiw" href="http://en.wikipedia.org/wiki/Swerting" title="wikipedia:Swerting">Swerting</a> là cái tên [tiếng Anh cổ](../O/Old_English.md), ám chỉ một nhân vật huyền thoại, cũng được nhắc đến trong *[Beowulf](<../B/Beowulf_(poem).md>)*.
 
 <span></span>
 

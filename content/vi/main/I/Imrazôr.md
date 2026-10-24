@@ -52,15 +52,15 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../G/Gondorians.md" title="Gondorians">Gondorian</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Imrazôr</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Titles</th><td class="tg-infobox-data">The Númenórean</td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../B/Belfalas.md" title="Belfalas">Belfalas</a></td></tr><tr><th scope="row" class="tg-infobox-label">Birth</th><td class="tg-infobox-data"><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_1950.md" title="Third Age 1950">1950</a></td></tr><tr><th scope="row" class="tg-infobox-label">Death</th><td class="tg-infobox-data"><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2076.md" title="Third Age 2076">2076</a> (aged 126)<br/></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">Parentage</th><td class="tg-infobox-data">Descendant of <a href="../A/Adrahil_(Captain_of_the_Left_Wing).md" title="Adrahil (Captain of the Left Wing)">Adrahil</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup><sup id="cite_ref-Cirion_2-0" class="reference"><a href="#cite_note-Cirion-2">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Spouse</th><td class="tg-infobox-data"><a href="../M/Mithrellas.md" title="Mithrellas">Mithrellas</a></td></tr><tr><th scope="row" class="tg-infobox-label">Children</th><td class="tg-infobox-data"><a href="../G/Galador.md" title="Galador">Galador</a> and <a href="../G/Gilmith.md" title="Gilmith">Gilmith</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Imrazôr.md" title="Category:Images of Imrazôr">Images of Imrazôr</a></td></tr></tbody></table>
 
-**Imrazôr**, được gọi là **Númenórean**, là một quý tộc [Gondorian](../G/Gondorians.md) của [Belfalas](../B/Belfalas.md) vào cuối thiên niên kỷ thứ hai của [Thời đại thứ ba](../T/Third_Age.md). Người ta nói rằng ông ta đã kết hôn với một [Cô hầu gái yêu tinh](../E/Elves.md) tên là [Mithrellas](../M/Mithrellas.md), một người bạn đồng hành lang thang của [Nimrodel](../N/Nimrodel.md). Con trai ông [Galador](../G/Galador.md) là [Hoàng tử Dol Amroth](../P/Prince_of_Dol_Amroth.md) đầu tiên.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup>
+**Imrazôr**, được gọi là **Númenórean**, là một nhà quý tộc [Gondor](../G/Gondorians.md) của [Belfalas](../B/Belfalas.md) vào cuối thiên niên kỷ thứ hai của [Kỷ Đệ Tam](../T/Third_Age.md). Người ta nói rằng ông ta đã kết hôn với một [Tiên-cô hầu](../E/Elves.md) tên là [Mithrellas](../M/Mithrellas.md), bạn đồng hành lang thang của [Nimrodel](../N/Nimrodel.md). Con trai ông [Galador](../G/Galador.md) là [Thân vương Dol Amroth](../P/Prince_of_Dol_Amroth.md) đầu tiên.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Ý nghĩa của cái tên này không được biết rõ, tuy nhiên nó bao gồm [Adûnaic](../A/Adûnaic.md) *zôr* có nghĩa là "ngọn lửa" hoặc "bọt".
+Ý nghĩa của cái tên vẫn chưa được biết, tuy nhiên nó bao gồm [Adûnaic](../A/Adûnaic.md) *zôr* có nghĩa là "ngọn lửa" hoặc "bọt".
 
 Yếu tố đầu tiên *imra* (có lẽ từ \**imar*) không được dịch nhưng nó cũng xuất hiện trong tên của hậu duệ của ông, [Imrahil](Imrahil.md) và có lẽ <a class="new" href="https://tolkiengateway.net/w/index.php?title=Im%C3%A2r&amp;action=edit&amp;redlink=1" title="Imâr (page does not exist)">Imâr</a>.
 
-Imrazôr, người dường như vẫn giữ việc sử dụng Adûnaic trong Gia tộc của mình, còn được gọi là **Númenórean**. Tại sao một quý tộc Gondorian ở Thời đại thứ ba lại được gọi là "Númenórean" vẫn chưa được làm rõ trong bối cảnh.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup>
+Imrazôr, người dường như vẫn giữ quyền sử dụng Adûnaic trong Gia tộc của mình, còn được gọi là **Númenórean**. Tại sao một quý tộc Gondor của Kỷ Đệ Tam lại được gọi là "Númenórean" lại không được làm rõ trong ngữ cảnh.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup>
 
 ## Phả hệ {#Genealogy}
 
@@ -76,7 +76,7 @@ Imrazôr, người dường như vẫn giữ việc sử dụng Adûnaic trong G
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong một bản thảo đầu tiên, Imrazôr chứ không phải con trai ông được coi là Hoàng tử đầu tiên của Dol Amroth.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup>
+Trong một bản thảo đầu tiên, Imrazôr chứ không phải con trai ông được đánh số là Thân vương Dol Amroth đầu tiên.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup>
 
 ## Ghi chú {#Notes}
 

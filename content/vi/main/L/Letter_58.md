@@ -38,15 +38,15 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien giải thích rằng ông đã viết một bức điện ảnh<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> nhưng phải mất nhiều ngày mới gửi được. Sau một vài chi tiết về những khó khăn trong thời chiến, ông cho biết đã tiếp tục những cuộc phiêu lưu của [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md), sau khi đã hoàn thiện chương về Orthanc-stone.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[1]</a></sup>
+Tolkien giải thích rằng ông đã viết một bức ảnh đường bay<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> nhưng phải mất nhiều ngày mới gửi được. Sau một vài chi tiết về những khó khăn trong thời chiến, ông cho biết đã tiếp tục cuộc phiêu lưu của [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md), sau khi đã hoàn thiện chương về Orthanc-stone.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[1]</a></sup>
 
-Tolkien kể một câu chuyện về việc thấy mình ngồi trên xe ngựa cùng với một sĩ quan R.A.F. và một sĩ quan Mỹ trẻ tuổi rất dễ mến. Khi người Yank lảm nhảm về “Chế độ phong kiến” và hậu quả của nó đối với sự phân biệt giai cấp và hành vi xã hội ở Anh, Tolkien đã mở ra một quan điểm rộng rãi. Mối quan hệ của người Anh với những người đàn ông lao động cũng có mối liên hệ với "Chế độ phong kiến" giống như những tòa nhà chọc trời phải thay đổi. Tolkien nói với người Mỹ rằng "giọng Oxford" của ông không phải là "ép buộc" mà là một phát minh của tầng lớp trung lưu. Sau khi nói với người Mỹ rằng "giọng" của ông ta nghe giống như tiếng Anh được lau bằng miếng bọt biển bẩn và thói quen cúi người của người Mỹ cho thấy họ là những người nhếch nhác và vô kỷ luật nên họ khá thân thiện.
+Tolkien kể một câu chuyện về việc thấy mình ngồi trên một chiếc xe ngựa cùng với một sĩ quan R.A.F. và một sĩ quan Mỹ trẻ tuổi rất dễ mến. Khi người Mỹ lải nhải về “Chế độ phong kiến” và hậu quả của nó đối với sự phân biệt giai cấp và hành vi xã hội ở Anh Tolkien đã mở ra một quan điểm rộng rãi. Mối quan hệ của người Anh với những người đàn ông lao động cũng có mối liên hệ với "Chế độ phong kiến" giống như những tòa nhà chọc trời phải thay đổi. Tolkien nói với người Mỹ rằng “giọngOxford” của ông không phải là “ép buộc” mà là một phát minh của tầng lớp trung lưu. Sau khi nói với người Mỹ rằng "giọng" của ông ta nghe giống như tiếng Anh được lau bằng miếng bọt biển bẩn và thói quen cúi người của người Mỹ cho thấy họ là những người nhếch nhác và vô kỷ luật nên họ khá thân thiện.
 
-Đi dạo quanh thành phố quê hương của Tolkien chỉ thấy một mảnh vỡ chiến tranh nhưng bị hư hại nhiều hơn do những tòa nhà hiện đại bằng phẳng rộng lớn không có gì đặc biệt. Nếu Christopher có thể tưởng tượng việc xây dựng một tòa nhà tốt hơn hầu hết các trường đại học Oxford được thay thế bằng các trường hội đồng nữ sinh thì ông sẽ hiểu. Anh đã gặp lại những người bạn học cũ và ngạc nhiên nhận ra rằng anh vẫn còn được nhớ đến.
+Dạo quanh thành phố quê hương của Tolkien, người ta chỉ thấy một mảnh đổ nát của chiến tranh nhưng bị hư hại nhiều hơn do những tòa nhà hiện đại bằng phẳng, không có gì đặc biệt. Nếu Christopher có thể tưởng tượng việc xây dựng một tòa nhà tốt hơn hầu hết Oxford các trường đại học được thay thế bằng các trường hội đồng nữ sinh thì ông sẽ hiểu. Anh đã gặp lại những người bạn học cũ và ngạc nhiên nhận ra rằng anh vẫn còn được nhớ đến.
 
 <dl><dt>In the expanded edition</dt></dl>
 
-Phần cuối của bức thư Tolkien tiếp tục miêu tả ngày về thăm quê hương, ông đi sâu vào chi tiết về những diễn biến khác nhau vào các giờ khác nhau trong ngày, đồng thời kể về một số chuyện linh tinh trong gia đình.
+Phần cuối thư Tolkien tiếp tục kể lại ngày về thăm quê hương, anh đi sâu vào chi tiết những diễn biến xảy ra vào các khung giờ khác nhau trong ngày, đồng thời kể một số chuyện linh tinh trong gia đình.
 
 ## Lưu ý {#Note}
 

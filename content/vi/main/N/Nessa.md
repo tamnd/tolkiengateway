@@ -59,7 +59,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Nessa được chú ý nhờ tốc độ và được cho là "nhanh như một mũi tên" và cô có thể chạy nhanh hơn [con nai](../D/Deer.md) đã theo cô trong tự nhiên. Cô cũng nổi tiếng với khả năng khiêu vũ của mình khi khiêu vũ trên bãi cỏ xanh tươi của [Valimar](../V/Valimar.md).<sup id="cite_ref-SIIb_1-1" class="reference"><a href="#cite_note-SIIb-1">[1]</a></sup> Cô kết hôn với Tulkas trên Đảo [Almaren](../A/Almaren.md)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> vào [Năm của Valar](../D/Days_before_days.md) 3400.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Nessa được chú ý nhờ tốc độ và được cho là "nhanh như một mũi tên" và cô có thể chạy nhanh hơn [con nai](../D/Deer.md) đã theo cô trong tự nhiên. Cô cũng nổi tiếng về khả năng khiêu vũ của mình khi khiêu vũ trên bãi cỏ xanh tươi của [Valimar](../V/Valimar.md).<sup id="cite_ref-SIIb_1-1" class="reference"><a href="#cite_note-SIIb-1">[1]</a></sup> Cô kết hôn với Tulkas trên Đảo [Almaren](../A/Almaren.md)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> vào [Năm Valar](../D/Days_before_days.md) 3400.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Phả hệ {#Genealogy}
 
@@ -70,27 +70,27 @@ Nessa được chú ý nhờ tốc độ và được cho là "nhanh như một 
 
 ## Từ nguyên {#Etymology}
 
-*Nessa* (<span title="Pronunciation in IPA" class="IPA">[ˈnesːa]</span>) là một từ [Quenya](../Q/Quenya.md) có nghĩa là "trẻ"; trong cùng một văn bản, Nessa cũng có tên **[Indis](../I/Indis.md)** "cô dâu".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:14</sup>
+*Nessa* (<span title="Pronunciation in IPA" class="IPA">[ˈnesːa]</span>) là từ [Quenya](../Q/Quenya.md) có nghĩa là "trẻ"; trong cùng một văn bản, Nessa cũng có tên **[Indis](../I/Indis.md)** "cô dâu".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:14</sup>
 
-Tên [Noldorin](Noldorin.md) của Nessa là <i><b>Neth</b></i> (cùng nguồn gốc với từ Quenya/[Qenya](../Q/Qenya.md)) hoặc <i><b>Dineth</b></i>, một từ Noldorin có nghĩa là "cô dâu", liên quan đến từ Quenya *indis*.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Tên [Noldorin](Noldorin.md) của Nessa là <i><b>Neth</b></i> (cùng nguồn gốc của từ Quenya/[Qenya](../Q/Qenya.md)) hoặc <i><b>Dineth</b></i>, một từ Noldorin có nghĩa là "cô dâu", liên quan đến từ Quenya *indis*.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
-Trong một văn bản sau đó, [Pengolodh](../P/Pengolodh.md) lưu ý rằng tên của Nessa "không phải là [elvish](../E/Elvish.md)" và có thể đại diện cho một tước hiệu [Valarin](../V/Valarin.md), giống như tên của vợ/chồng cô, được nhận nuôi ở Quenya, nhưng không có hồ sơ nào.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+Trong văn bản sau, [Pengolodh](../P/Pengolodh.md) lưu ý rằng tên của Nessa là "không phải [elvish](../E/Elvish.md)" và có thể đại diện cho một tước vị [Valarin](../V/Valarin.md), giống như tên của vợ/chồng cô, được nhận nuôi vào năm Quenya, nhưng không có hồ sơ.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-### Cuốn sách những câu chuyện đã thất lạc {#The_Book_of_Lost_Tales}
+### The Book of Lost Tales {#The_Book_of_Lost_Tales}
 
 Trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*, Nessa là một trong những [Valarindi](../V/Valarindi.md), con gái của [Aulë](../A/Aulë.md) và [Yavanna](../Y/Yavanna.md). Con trai của bà với Tulkas là [Telimektar](../T/Telimektar.md).
 
-Nessa được nhìn thấy tại [nhà của Tulkas](../H/House_of_Tulkas.md) mang cốc rượu và đồ uống cho các nhà vô địch của mình.<sup id="cite_ref-Coming_8-0" class="reference"><a href="#cite_note-Coming-8">[8]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:75</sup>
+Nessa được nhìn thấy tại nhà [của Tulkas](../H/House_of_Tulkas.md) mang cốc rượu và đồ uống cho các nhà vô địch của mình.<sup id="cite_ref-Coming_8-0" class="reference"><a href="#cite_note-Coming-8">[8]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:75</sup>
 
-Nessa thích lui về những cánh rừng xanh mà anh trai cô, [Oromë](../O/Oromë.md), đã trồng trọt từ sự trù phú của khu rừng của mình.<sup id="cite_ref-Coming_8-1" class="reference"><a href="#cite_note-Coming-8">[8]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:75</sup> Khi tạo ra những khu rừng ở Oromë, [Yavanna](../Y/Yavanna.md) đã trồng những trảng rừng bằng phép thuật để những trảng rừng luôn xanh và mịn màng. Nessa, cùng với các thiếu nữ của mình, sẽ khiêu vũ ở đó chừng nào [Laurelin](../L/Laurelin.md) nở hoa, và người ta cho rằng bà là một vũ công thậm chí còn giỏi hơn [Vána](../V/Vána.md).<sup id="cite_ref-Coming_8-2" class="reference"><a href="#cite_note-Coming-8">[8]</a></sup>
+Nessa thích lui tới những bãi cỏ xanh mà anh trai cô, [Oromë](../O/Oromë.md), đã trồng trọt từ sự trù phú của khu rừng của ông.<sup id="cite_ref-Coming_8-1" class="reference"><a href="#cite_note-Coming-8">[8]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:75</sup> Khi tạo ra những khu rừng ở Oromë, [Yavanna](../Y/Yavanna.md) đã trồng những trảng rừng bằng phép thuật để những trảng rừng luôn xanh và mịn màng. Nessa, cùng với các thiếu nữ của mình, sẽ khiêu vũ ở đó chừng nào [Laurelin](../L/Laurelin.md) hoa nở rộ, và người ta cho rằng bà là một vũ công thậm chí còn giỏi hơn [Vána](../V/Vána.md).<sup id="cite_ref-Coming_8-2" class="reference"><a href="#cite_note-Coming-8">[8]</a></sup>
 
-### Biên niên sử của Aman {#The_Annals_of_Aman}
+### The Annals of Aman {#The_Annals_of_Aman}
 
-Trong bản sửa đổi của [Biên niên sử của Aman](../T/The_Annals_of_Aman.md) "Nessa the Young" đã bị loại khỏi hàng ngũ Valar và cùng với [Estë](../E/Estë.md), được xếp vào hàng cao nhất của [Maiar](../M/Maiar.md).<sup id="cite_ref-aams1_9-0" class="reference"><a href="#cite_note-aams1-9">[9]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:§3</sup>
+Trong các bản sửa đổi của [The Annals of Aman](../T/The_Annals_of_Aman.md) "Nessa the Young" đã bị loại khỏi cấp bậc của Valar và cùng với [Estë](../E/Estë.md), được xếp vào hàng cao nhất của [Maiar](../M/Maiar.md).<sup id="cite_ref-aams1_9-0" class="reference"><a href="#cite_note-aams1-9">[9]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:§3</sup>
 
-Trong các sửa đổi tiếp theo, Tolkien chia nhân vật thành "Nessa the Evermaid" và "Lëa the Young" ("Lëa-vinya"), cô dâu của Tulkas.<sup id="cite_ref-aams1_9-1" class="reference"><a href="#cite_note-aams1-9">[9]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:§3</sup> Lëa là thiếu nữ xinh đẹp nhất trong số các thiếu nữ của [Yavanna](../Y/Yavanna.md).<sup id="cite_ref-aams1_9-2" class="reference"><a href="#cite_note-aams1-9">[9]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:§18</sup>
+Trong các sửa đổi tiếp theo, Tolkien phân chia nhân vật thành "Nessa the Evermaid" và "Lëa the Young" ("Lëa-vinya") là cô dâu của Tulkas.<sup id="cite_ref-aams1_9-1" class="reference"><a href="#cite_note-aams1-9">[9]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:§3</sup> Lëa là thiếu nữ xinh đẹp nhất trong số các thiếu nữ của [Yavanna](../Y/Yavanna.md).<sup id="cite_ref-aams1_9-2" class="reference"><a href="#cite_note-aams1-9">[9]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:§18</sup>
 
 ### Từ nguyên ban đầu {#Early_etymology}
 

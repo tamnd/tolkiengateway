@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Gray, William"
 ---
 
-**William "Bill" Gray** là Giáo sư Lịch sử Văn học và Thông diễn học tại <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Chichester" title="wikipedia:University of Chichester">Đại học Chichester</a>, Vương quốc Anh. Ông nghiên cứu văn học, triết học và thần học tại các trường Đại học Oxford, Edinburgh và Princeton và đã xuất bản rộng rãi về các lĩnh vực này.
+**William "Bill" Gray** là Giáo sư Lịch sử Văn học và Thông diễn học tại <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Chichester" title="wikipedia:University of Chichester">Đại học Chichester</a>, Vương quốc Anh. Ông nghiên cứu văn học, triết học và thần học tại các trường Đại học Oxford, Edinburgh và Princeton, và đã xuất bản rộng rãi về các lĩnh vực này.
 
 ## Thư mục, đã chọn {#Bibliography,_selected}
 

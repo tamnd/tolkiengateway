@@ -17,7 +17,7 @@ categories:
 
 ## Từ nguyên {#Etymology}
 
-Tên *Ektelarni* có trong [Qenya](../Q/Qenya.md), có thể liên quan đến từ <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Ektele&amp;action=edit&amp;redlink=1" title="Ektele (page does not exist)">ektele</a></i> hoặc <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Kektele&amp;action=edit&amp;redlink=1" title="Kektele (page does not exist)">kektele</a></i> ("đài phun nước"),<sup id="cite_ref-Ekt_1-1" class="reference"><a href="#cite_note-Ekt-1">[1]</a></sup> với *kektele* được bắt nguồn từ gốc <a class="new" href="https://tolkiengateway.net/w/index.php?title=KELE&amp;action=edit&amp;redlink=1" title="KELE (page does not exist)">KELE</a> ("flow, run; rỉ, nhỏ giọt").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Tên *Ektelarni* có trong [Qenya](../Q/Qenya.md), có thể liên quan đến từ <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Ektele&amp;action=edit&amp;redlink=1" title="Ektele (page does not exist)">ektele</a></i> hoặc <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Kektele&amp;action=edit&amp;redlink=1" title="Kektele (page does not exist)">kektele</a></i> ("đài phun nước"),<sup id="cite_ref-Ekt_1-1" class="reference"><a href="#cite_note-Ekt-1">[1]</a></sup> với *kektele* được bắt nguồn từ gốc <a class="new" href="https://tolkiengateway.net/w/index.php?title=KELE&amp;action=edit&amp;redlink=1" title="KELE (page does not exist)">KELE</a> ("flow, run; ooze, nhỏ giọt").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

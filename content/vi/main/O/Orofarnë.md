@@ -16,13 +16,13 @@ sort_keys:
   "Trees": "Orofarne"
 ---
 
-**Orofarnë** là một trong những [rowans](../R/Rowans.md) của [Rừng Fangorn](../F/Fangorn_Forest.md), được [Ent](../E/Ents.md) [Bregalad](../Q/Quickbeam.md) rất yêu quý. Nó đã bị chặt hạ bởi [Orc](Orcs.md) của [Isengard](../I/Isengard.md), làm dấy lên sự tức giận của Ent bốc đồng này.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Orofarnë** là một trong những [rowans](../R/Rowans.md) của [Rừng Fangorn](../F/Fangorn_Forest.md), được [Ent](../E/Ents.md) [Bregalad](../Q/Quickbeam.md) rất yêu quý. Nó đã bị [Orc](Orcs.md) của [Isengard](../I/Isengard.md) cắt giảm, làm dấy lên sự tức giận của Ent bốc đồng này.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Trong một lá thư, [Tolkien](../J/J.R.R._Tolkien.md) giải thích rằng *orofarnë* có nghĩa là "ở trên núi" trong High-elven ([Quenya](../Q/Quenya.md)).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Trong một bản thảo khác, ông gọi *Orofarnë* là "tro núi", bao gồm các yếu tố [Quenya](../Q/Quenya.md) *[oro-](Oron.md#Quenya)* ("đồi") + *farnë?/pharne* ("bất kỳ vật hoặc thực vật đang phát triển nào").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Trong một lá thư, [Tolkien](../J/J.R.R._Tolkien.md) giải thích rằng *orofarnë* có nghĩa là "ở trên núi" trong High-elven ([Quenya](../Q/Quenya.md)).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Trong một bản thảo khác, ông gọi *Orofarnë* là "tro núi", bao gồm các phần tử [Quenya](../Q/Quenya.md) *[oro-](Oron.md#Quenya)* ("đồi") + *farnë?/pharne* ("bất kỳ vật hoặc thực vật đang phát triển nào").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Các biên tập viên [Carl F. Hostetter](../C/Carl_F._Hostetter.md) và [Patrick H. Wynne](../P/Patrick_H._Wynne.md) đã tạo ra mối liên hệ giữa [Qenya](../Q/Qenya.md) từ *farnë* ("tán lá"; một từ phái sinh của [gốc](../S/Sundocarme.md) PHAS-, cũng xuất hiện dưới [gốc](../S/Sundocarme.md) PHARAN- bị từ chối) và tên *Orofarnë*.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Các biên tập viên [Carl F. Hostetter](../C/Carl_F._Hostetter.md) và [Patrick H. Wynne](../P/Patrick_H._Wynne.md) đã tạo mối liên hệ giữa [Qenya](../Q/Qenya.md) từ *farnë* ("tán lá"; một dẫn xuất của [gốc](../S/Sundocarme.md) PHAS-, cũng xuất hiện dưới [gốc](../S/Sundocarme.md) PHARAN- bị từ chối) và tên *Orofarnë*.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Xem thêm {#See_also}
 

@@ -15,7 +15,7 @@ sort_keys:
   "Quenya nouns": "Nis"
 ---
 
-<i><b>nís</b></i> (pl. <i><b>nissi</b></i>) có nghĩa là "phụ nữ" trong [Quenya](../Q/Quenya.md), ám chỉ một phụ nữ trưởng thành – [yêu tinh](../E/Elves.md), [người phàm](../M/Men.md) hoặc thuộc [chủng tộc nói](../R/Races.md) khác.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>nís</b></i> (pl. <i><b>nissi</b></i>) có nghĩa là "phụ nữ" trong [Quenya](../Q/Quenya.md), ám chỉ một phụ nữ trưởng thành – [Tiên](../E/Elves.md), [người phàm](../M/Men.md) hoặc thuộc [chủng tộc nói](../R/Races.md) khác.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

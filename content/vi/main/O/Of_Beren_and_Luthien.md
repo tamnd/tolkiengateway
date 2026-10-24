@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Of Beren and Lúthien"
 ---
 
-Chuyển hướng tới [Của Beren và Lúthien](Of_Beren_and_Lúthien.md).
+Chuyển hướng tới [Của Beren and Lúthien](Of_Beren_and_Lúthien.md).

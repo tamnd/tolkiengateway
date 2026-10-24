@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Travellers"
 ---
 
-Chuyển hướng tới [Khách du lịch](Travellers.md).
+Chuyển hướng đến [Lữ khách](Travellers.md).

@@ -45,18 +45,18 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/AmonHen188.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/fb/AmonHen188.jpg/320px-AmonHen188.jpg" decoding="async" loading="lazy" width="320" height="454" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/fb/AmonHen188.jpg/480px-AmonHen188.jpg 1.5x, https://tolkiengateway.net/w/images/f/fb/AmonHen188.jpg 2x" data-file-width="579" data-file-height="821"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Amon Hen 188</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="Andrew_Butler.md" title="Andrew Butler">Andrew Butler</a></td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data">Susanne Stopfel</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Printer</th><td class="tg-infobox-data"><a class="external text" href="http://www.horshampress.co.uk/" rel="noreferrer noopener" target="_blank">Horsham Press</a>, Horsham, UK</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">July <a href="../_/2004.md" title="2004">2004</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">A5 stapled paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">36</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0306-8781</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Amon_Hen_187.md" title="Amon Hen 187">Amon Hen 187</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Amon_Hen_189.md" title="Amon Hen 189">Amon Hen 189</a></td></tr></tbody></table>
 
-<b><i>Amon Hen</i> 188</b> là số thứ 188 của tạp chí hai tháng một lần của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, xuất bản vào tháng 7 [2004](../_/2004.md).
+<b><i>Amon Hen</i> 188</b> là số thứ 188 của tạp chí hai tháng một lần của [Hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, xuất bản vào tháng 7 [2004](../_/2004.md).
 
 ## Nội dung {#Contents}
 
-- Vỏ bọc: *Untitled* (Ba vòng)
+- Bìa: *Untitled* (Ba Chiếc Nhẫn)
     - Bởi: Susanne Stopfel
 - Biên tập
     - Bởi: [Andrew Butler](Andrew_Butler.md)
 - Nội dung
 - Tác phẩm nghệ thuật: *[Pippin](../P/Peregrin_Took.md) at the Well*
     - Bởi: [Jef Murray](../J/Jef_Murray.md)
-- Thông báo bên bờ nước
+- Bywater Thông báo
     - Bởi: Malcolm Lindley
 - Quảng cáo: Kho vũ khí Mithril
 - Quảng cáo: Tủ quần áo 2004 - Hội nghị trang phục Anh
@@ -72,19 +72,19 @@ infobox:
     - Bởi: Lynn Forest-Hill
 - Báo cáo: Cuộc phiêu lưu ở Sicily
     - Bởi: Trevor Reynolds
-- Khu vườn Trung địa - Phần thứ ba: Cây cối vùng Shire
+- Khu vườn Trung Địa - Phần thứ ba: Những cái cây Shire
     - Bởi: Suzanna Nemeth
 - Phía sau cánh cửa kính
     - Bởi: [Sally Kennett](../S/Sally_Kennett.md)
-- Báo cáo: Cuối tuần Tolkien tại Sarehole Mill
+- Báo cáo: Tolkien Cuối tuần tại Sarehole Mill
     - Bởi: Dave Corby
-- Tác phẩm nghệ thuật: *Untitled* ([Frodo](../F/Frodo_Baggins.md) & [Sam](../S/Samwise_Gamgee.md) đang tiến đến [Mount Doom](../M/Mount_Doom.md))
+- Ảnh minh họa: *Untitled* ([Frodo](../F/Frodo_Baggins.md) & [Sam](../S/Samwise_Gamgee.md) đang đến gần [Núi Diệt Vong](../M/Mount_Doom.md))
     - Bởi: [Katrin Kunde](../K/Katrin_Kunde.md)
 - Đánh giá: *[Tolkien Studies Volume 1](../T/Tolkien_Studies%253A_Volume_1.md)*
     - Bởi: Christopher Kreuzer
 - Tác phẩm nghệ thuật: *Young [Legolas](../L/Legolas.md) in [Mirkwood](../M/Mirkwood.md)*
     - Bởi: Eleanor Hayes
-- Đánh giá: *Beowulf của Tolkien - bản dịch văn xuôi mới*
+- Đánh giá: Beowulf của *Tolkien- bản dịch văn xuôi mới*
     - Bởi: [Pat Reynolds](../P/Patricia_Reynolds.md)
 - Đánh giá: *The Culture of Middle-earth*
     - Bởi: [Helen Armstrong](../H/Helen_Armstrong.md)
@@ -99,7 +99,7 @@ infobox:
 - Thành viên mới
 - Hồ sơ thành viên
     - Bởi: James Taylor
-- Ngày cho Nhật ký của bạn
+- Ngày ghi nhật ký của bạn
 - Ủy ban
 
 <div class="template-prevnext"><div class="template-prevnext__prev template-prevnext__link"><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/8/81/WikimediaUI-ArrowPrevious-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__content"><div class="template-prevnext__title">Amon Hen 187</div></div><div class="template-prevnext__linkoverlay"><a href="Amon_Hen_187.md" title="Amon Hen 187">Amon Hen 187</a></div></div><div class="template-prevnext__current"><div class="template-prevnext__content"><div class="template-prevnext__title">Amon Hen 188</div></div></div><div class="template-prevnext__next template-prevnext__link"><div class="template-prevnext__content"><div class="template-prevnext__title">Amon Hen 189</div></div><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/7b/WikimediaUI-ArrowNext-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__linkoverlay"><a href="Amon_Hen_189.md" title="Amon Hen 189">Amon Hen 189</a></div></div></div>

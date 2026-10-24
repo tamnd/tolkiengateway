@@ -43,7 +43,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mallorn_3.png.md"><img src="https://tolkiengateway.net/w/images/thumb/a/a0/Mallorn_3.png/295px-Mallorn_3.png" decoding="async" loading="lazy" width="295" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/a0/Mallorn_3.png/442px-Mallorn_3.png 1.5x, https://tolkiengateway.net/w/images/thumb/a/a0/Mallorn_3.png/589px-Mallorn_3.png 2x" data-file-width="1919" data-file-height="3125"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mallorn 3</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Steven Thomson</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Printer</th><td class="tg-infobox-data">Hartley Patterson</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">1971</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">24</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0308-6674</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mallorn_2.md" title="Mallorn 2">Mallorn 2</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mallorn_4.md" title="Mallorn 4">Mallorn 4</a></td></tr></tbody></table>
 
-<b><i>Mallorn</i> 3</b> là số thứ ba của tạp chí [Hiệp hội Tolkien](../T/Tolkien_Society.md) *[Mallorn](<Mallorn_(journal).md>)*, xuất bản năm 1971.
+<b><i>Mallorn</i> 3</b> là số thứ ba của tạp chí [Tolkien của Hội](../T/Tolkien_Society.md) *[Mallorn](<Mallorn_(journal).md>)*, xuất bản năm 1971.
 
 ## Nội dung {#Contents}
 
@@ -61,16 +61,16 @@ infobox:
         - Bởi John B. Abbott
     - Bia mật ong (công thức bia)
         - Ian Shaw
-    - Tôn giáo của người Hobbit
+    - Tôn giáo của một Hobbit
         - Bởi Belladonna Took ([Vera Chapman](../V/Vera_Chapman.md))
-    - Hippy vs Hobbit
+    - Hippy so với Hobbit
         - Bởi Belladonna Took ([Vera Chapman](../V/Vera_Chapman.md))
-    - Một số suy nghĩ về người Hippie và người Hobbit
+    - Một số suy nghĩ về Hippies và Hobbit
         - Bởi Bob Borsley
 - **Quảng cáo**
     - Wyngéar (thơ)
         - Bởi James Ead
-    - Những nhà thông thái trên Jersey (đùa)
+    - Khôn ngoan Con Người trên Jersey (đùa)
         - Bởi Graham Anh
 - **Minh họa**
     - Bởi Brian Talbot và John B. Abbott
@@ -79,4 +79,4 @@ infobox:
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://journals.tolkiensociety.org/mallorn/issue/view/4/" rel="noreferrer noopener" target="_blank">Số này tại trang web của The Tolkien Society</a>
+- <a class="external text" href="http://journals.tolkiensociety.org/mallorn/issue/view/4/" rel="noreferrer noopener" target="_blank">Vấn đề này tại trang web Hội Tolkien</a>

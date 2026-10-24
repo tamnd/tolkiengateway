@@ -33,7 +33,7 @@ categories:
 <dl><dd><dl><dd><dl><dd>*<small><i>Differ from Shire names.</i></small></dd></dl></dd></dl></dd></dl>
 </td></tr></tbody></table>
 
-**Đổ máu** là tháng thứ 11 của [Lịch Bree](Bree_Calendar.md), tương ứng với [Blotmath](Blotmath.md) trong [Lịch Shire](../S/Shire_Calendar.md) (tương ứng với [22 tháng 10](../_/22_October.md) đến [20 tháng 11](../_/20_November.md) hiện đại).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Đổ máu** là tháng thứ 11 của [Bree Lịch](Bree_Calendar.md), tương ứng với [Blotmath](Blotmath.md) trong [Lịch Shire](../S/Shire_Calendar.md) (tương ứng với [22 tháng 10](../_/22_October.md) đến [20 tháng 11](../_/20_November.md) hiện đại).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

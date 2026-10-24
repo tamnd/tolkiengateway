@@ -32,13 +32,13 @@ langlinks:
     url: "https://kontu.wiki/Anarr%C3%ADma"
 ---
 
-**Anarríma** là một trong những chòm sao được [Varda](../V/Varda.md) đặt trên thiên đường để soi sáng sự thức tỉnh của các yêu tinh và được Varda tập hợp từ các ngôi sao cổ xưa.<sup id="cite_ref-S_1-0" class="reference"><a href="#cite_note-S-1">[1]</a></sup>
+**Anarríma** là một trong những chòm sao được [Varda](../V/Varda.md) đặt trên bầu trời để soi sáng sự thức tỉnh của Tiên tộc và được Varda tập hợp từ giữa các ngôi sao cổ xưa.<sup id="cite_ref-S_1-0" class="reference"><a href="#cite_note-S-1">[1]</a></sup>
 
 Quá trình hình thành các chòm sao (và một số ngôi sao sáng mới) diễn ra vào khoảng 1000-1050 [Năm Valian](../V/Valian_Years.md) sau lần ra hoa đầu tiên của Cây.<sup id="cite_ref-MR_2-0" class="reference"><a href="#cite_note-MR-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Các thành phần của tên dường như là *[anar](Anar.md)* ("mặt trời") và *ríma* ("cạnh, viền, viền"), do đó: "Sun-border".<sup id="cite_ref-LR_3-0" class="reference"><a href="#cite_note-LR-3">[3]</a></sup>
+Các thành phần của tên dường như là *[anar](Anar.md)* ("mặt trời") và *ríma* ("cạnh, viền, đường viền"), do đó: "Mặt Trời-border".<sup id="cite_ref-LR_3-0" class="reference"><a href="#cite_note-LR-3">[3]</a></sup>
 
 ## Cảm hứng {#Inspiration}
 

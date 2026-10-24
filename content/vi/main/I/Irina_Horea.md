@@ -26,9 +26,9 @@ sort_keys:
 
 - [The Hobbit](../T/The_Hobbit.md) (*Hobbitul*)
 - [The Lord of the Rings](../T/The_Lord_of_the_Rings.md) (*Stapanul Inelelor*)
-    - [Hiệp hội nhẫn](../T/The_Fellowship_of_the_Ring.md) (*Fratia Inelului*)
-    - [Hai tòa tháp](../T/The_Two_Towers.md) (*Cele Doua Turnuri*)
-    - [Sự trở lại của nhà vua](../T/The_Return_of_the_King.md) (*Intoarcerea Regelui*)
+    - [The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md) (*Fratia Inelului*)
+    - [The Two Towers](../T/The_Two_Towers.md) (*Cele Doua Turnuri*)
+    - [The Return of the King](../T/The_Return_of_the_King.md) (*Intoarcerea Regelui*)
 - [The Silmarillion](../T/The_Silmarillion.md) (*Silmarillion*)
 - [Unfinished Tales](../U/Unfinished_Tales.md) (*Povesti Neterminate*)
 - [The Children of Húrin](../T/The_Children_of_Húrin.md) (*Copiii lui Húrin*)

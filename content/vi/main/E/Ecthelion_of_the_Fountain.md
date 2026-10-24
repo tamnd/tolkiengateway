@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ecthelion"
 ---
 
-Chuyển hướng tới [Ecthelion](Ecthelion.md).
+Chuyển hướng đến [Ecthelion](Ecthelion.md).

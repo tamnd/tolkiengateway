@@ -12,4 +12,4 @@ categories:
   - "Seas and oceans"
 ---
 
-**Evernight** was a dark, raging part of the ocean, through which [Eärendil](Eärendil.md) passed on his epic journey to [Valinor](../V/Valinor.md). The name only appears in [Bilbo Baggins](../B/Bilbo_Baggins.md)'s *[Eärendillinwë](Eärendillinwë.md)*, making it hard to identify with certainty. From its context in the poem, though, it seems to be a reference to the [Shadowy Seas](../S/Shadowy_Seas.md) that formed part of the defences of [Aman](../A/Aman.md).
+**Đêm tối** là một phần tối tăm, dữ dội của đại dương, qua đó [Eärendil](Eärendil.md) đã trải qua cuộc hành trình hoành tráng của mình đến [Valinor](../V/Valinor.md). Tên này chỉ xuất hiện trong *[Eärendillinwë](Eärendillinwë.md)* của [Bilbo Baggins](../B/Bilbo_Baggins.md) nên khó có thể xác định một cách chắc chắn. Tuy nhiên, từ bối cảnh của nó trong bài thơ, nó dường như ám chỉ đến [Shadowy Seas](../S/Shadowy_Seas.md) đã hình thành nên một phần phòng thủ của [Aman](../A/Aman.md).

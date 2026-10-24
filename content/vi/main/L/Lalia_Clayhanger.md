@@ -66,7 +66,7 @@ Lalia long outlived her husband and ruled the [Tooks](../T/Took_Family.md) of [G
 
 Trong những năm sau này - và béo nhất - chính sự bất động chứ không phải tuổi tác mới là vấn đề lớn nhất đối với cô nên cô phải ngồi xe lăn đi khắp nơi. Đặc biệt, cô thích được xe lăn đến Cửa Lớn vào buổi sáng để tận hưởng không khí trong lành.
 
-Bà qua đời vào năm [1402](../T/Third_Age_3002.md) ở tuổi 119, sau khi người phục vụ vụng về của bà để xe lăn của Lalia chạy qua ngưỡng cửa khiến Lalia ngã xuống bậc thang trong vườn. Có tin đồn rằng người phục vụ này là em gái của [Pippin](../P/Peregrin_Took.md), [Pearl Took](../P/Pearl_Took.md), vì bà bị loại khỏi lễ kỷ niệm ngày Ferumbras gia nhập Thain, nhưng gia đình đã cố gắng giữ kín thông tin chi tiết. Tuy nhiên, ngay sau cái chết của Lalia, người ta nhìn thấy cô với một chiếc vòng cổ ngọc trai vô giá, được cho là vật gia truyền của Took, ngụ ý rằng cô có thể đã được khen thưởng vì "tai nạn".<sup id="cite_ref-L214_1-1" class="reference"><a href="#cite_note-L214-1">[1]</a></sup>
+Bà qua đời vào năm [1402](../T/Third_Age_3002.md) ở tuổi 119, sau khi người phục vụ vụng về của bà để xe lăn của Lalia chạy qua ngưỡng cửa khiến Lalia ngã xuống bậc thang trong vườn. Có tin đồn rằng người phục vụ này là em gái của [Pippin](../P/Peregrin_Took.md), [Pearl Took](../P/Pearl_Took.md), vì bà đã bị loại khỏi lễ kỷ niệm ngày Ferumbras gia nhập Thain, nhưng gia đình đã cố gắng giữ kín thông tin chi tiết. Tuy nhiên, ngay sau cái chết của Lalia, người ta nhìn thấy cô với một chiếc vòng cổ ngọc trai vô giá, được cho là vật gia truyền của Took, ngụ ý rằng cô có thể đã được khen thưởng vì "tai nạn".<sup id="cite_ref-L214_1-1" class="reference"><a href="#cite_note-L214-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

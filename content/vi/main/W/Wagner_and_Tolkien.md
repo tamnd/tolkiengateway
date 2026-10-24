@@ -50,12 +50,12 @@ infobox:
 
 ## Nội dung {#Contents}
 
-- Giới thiệu: Bậc thầy và giáo sư - Wagner và Tolkien
+- Giới thiệu: Thạc sĩ và Giáo sư - Wagner và Tolkien
 - Phần thứ nhất, Hai chiếc nhẫn tròn
     - Chương 1, Một âm mưu bị vạch trần?
         - 1\.1. Một chiếc nhẫn quyền lực
         - 1\.2. Hai chiếc nhẫn tròn
-        - 1\.3. Tolkien biết Wagner đến mức nào?
+        - 1\.3. Tolkien biết Wagner rõ đến mức nào?
     - Chương 2, Tìm kiếm nguồn
         - 2\.1. Danh sách những điểm tương đồng
         - 2\.2. 'Tiếng vang mờ nhạt và khác nhau'
@@ -69,7 +69,7 @@ infobox:
         - 4\.2. Một trí tưởng tượng bị đầu độc? Chism và những nguồn độc hại / Từ huyền thoại đến lịch sử
     - Chương 5, Kết luận
 - Phần thứ hai, Thần thoại, truyện cổ tích và cái kết
-    - Chương 6, Chủ nghĩa lãng mạn và tạo ra huyền thoại
+    - Chương 6, Chủ nghĩa lãng mạn và tạo ra thần thoại
         - 6\.1. Giới thiệu
         - 6\.2. Huyền thoại dân tộc Tolkien ở Anh / Wagner ở Đức
         - 6\.3. Huyền thoại hiện đại
@@ -89,8 +89,8 @@ infobox:
         - 11\.1. Miền Bắc thuần khiết và pha tạp
         - 11\.2. Sigurd đấu với Siegfried
     - Chương 12, Ngôn ngữ
-        - 12\.1. Từ ngữ, ngữ pháp và cú pháp, những câu nói cổ của Tolkien / Tấn công và phòng thủ / Những câu nói cổ của Wagner / Chơi chữ / Những câu đùa triết học / Kennings
-        - 12\.2. Sự ám chỉ, vần điệu Stave được khám phá lại / Một số kỹ thuật / Câu thơ của Wagner / Sự phát triển của Tolkien / Nhịp điệu và khuôn mẫu
+        - 12\.1. Từ ngữ, ngữ pháp và cú pháp, cổ ngữ của Tolkien/ Tấn công và phòng thủ / Cổ ngữ của Wagner / Chơi chữ / Truyện cười ngữ văn / Kennings
+        - 12\.2. Tái phát hiện điệp âm, vần Stave / Một số kỹ thuật / Câu thơ của Wagner / Sự phát triển của Tolkien/ Nhịp điệu và khuôn mẫu
         - 12\.3. tục ngữ
     - Chương 13, Các yếu tố tự sự
         - 13\.1. Chiếc nhẫn và Truyền thuyết – thư từ, Giới thiệu / Từ đầu đến Ragnarök / Baldr / Người anh hùng mặt trời và Đấng Cứu Thế / Odin và Wotan

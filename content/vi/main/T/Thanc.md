@@ -16,11 +16,11 @@ categories:
 
 <i><b>thanc</b></i> là từ [Noldorin](../N/Noldorin.md) có nghĩa là "phân nhánh".<sup id="cite_ref-Ety_1-0" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup>
 
-Vì *thanc* xuất hiện trong tên *[Orthanc](../O/Orthanc.md#Etymology)*, [Didier Willis](../D/Didier_Willis.md) đã gợi ý rằng *thanc* (giữ nguyên ý nghĩa) sẽ hợp lệ [Sindarin](../S/Sindarin.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Vì *thanc* xuất hiện trong tên *[Orthanc](../O/Orthanc.md#Etymology)* nên [Didier Willis](../D/Didier_Willis.md) đã gợi ý rằng *thanc* (giữ nguyên ý nghĩa) sẽ hợp lệ [Sindarin](../S/Sindarin.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Từ này bắt nguồn từ [Old Noldorin](../K/Kornoldorin.md) *sthanka*, từ [root](../S/Sundocarme.md) [STAK](../S/STAK.md).<sup id="cite_ref-Ety_1-1" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup>
+Từ bắt nguồn từ [Old Noldorin](../K/Kornoldorin.md) *sthanka*, từ [root](../S/Sundocarme.md) [STAK](../S/STAK.md).<sup id="cite_ref-Ety_1-1" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup>
 
 ## Hợp chất {#Compounds}
 

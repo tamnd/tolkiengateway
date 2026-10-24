@@ -50,21 +50,21 @@ infobox:
 
 ## Lịch sử {#History}
 
-Trong [Aragorn](../A/Aragorn.md) lịch [Tính toán mới](../N/New_Reckoning.md) của [Vua Elessar](../K/King_Elessar.md), ngày 30 [Yavannië](../Y/Yavannië.md) được coi là lễ hội tôn vinh [Người mang nhẫn](../R/Ring-bearer.md), vì nó trùng với ngày sinh nhật của Frodo, [22 tháng 9](../_/22_September.md) ở [Shire Lịch](../S/Shire_Calendar.md). Ngoại trừ những năm nhuận, 30 Yavannië tương ứng với ngày 21 tháng 9 trong Lịch Quận (do có [Overlithe](../O/Overlithe.md) ngày nhuận vào giữa mùa hè), nên ngày nhuận của New Reckoning được chèn vào giữa *Yavannië* và [Enderi](../E/Enderi.md) của nó và bữa tiệc sinh nhật của Frodo tăng gấp đôi trong những năm nhuận.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Không rõ liệu ngày cuối cùng của tháng có phải là ngày cuối cùng của tháng hay không của *Yavannië* vẫn được gọi là "30 Yavannië", hoặc nếu ngày này và ngày nhuận được gọi đơn giản là *Cormarë*.
+Trong lịch [Aragorn](../A/Aragorn.md) [Tính toán mới](../N/New_Reckoning.md) của [Vua Elessar](../K/King_Elessar.md), ngày 30 [Yavannië](../Y/Yavannië.md) được coi là một lễ hội để vinh danh [Người Mang Nhẫn](../R/Ring-bearer.md), vì nó tương ứng với ngày sinh nhật của Frodo, [22 tháng Chín](../_/22_September.md) trong [Lịch Shire](../S/Shire_Calendar.md). Ngoại trừ những năm nhuận, 30 Yavannië tương ứng với 21 tháng Chín trong Lịch Shire (do ngày nhuận của [Overlithe](../O/Overlithe.md) vào giữa mùa hè), nên ngày nhuận của New Reckoning được chèn vào giữa *Yavannië* và bữa tiệc sinh nhật của [Enderi](../E/Enderi.md) và Frodo của nó được nhân đôi trong những năm nhuận.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Không rõ liệu ngày cuối cùng của tháng *Yavannië* vẫn được gọi là "30 Yavannië" hay ngày này và ngày nhuận được gọi đơn giản là *Cormarë*.
 
 ## Từ nguyên {#Etymology}
 
-*Cormarë* là một từ [Quenya](../Q/Quenya.md) được đánh bóng là "Ringday", dường như là sự kết hợp của *[corma](Corma.md)* ("ring")<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và dạng hậu tố của <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=R%C3%A9&amp;action=edit&amp;redlink=1" title="Ré (page does not exist)">ré</a></i> ("ngày").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+*Cormarë* là một từ [Quenya](../Q/Quenya.md) được đánh bóng là "Ringday", rõ ràng là một từ ghép của *[corma](Corma.md)* ("ring")<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và dạng hậu tố của <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=R%C3%A9&amp;action=edit&amp;redlink=1" title="Ré (page does not exist)">ré</a></i> ("ngày").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Bên ngoài di tích {#Outside_the_legendarium}
 
-Ngày 22 tháng 9 là ngày "nghi lễ" phổ biến để thành lập [xã hội Tolkien](../../category/T/Tolkien_Societies.md). [Unquendor](../U/Unquendor.md) (Hà Lan), [Eredain](../E/Eredain.md) (Thụy Sĩ), [Imladris](../I/Imladris,_Danmarks_Tolkienforening.md) (Đan Mạch) và một số nơi khác được thành lập vào ngày này. Một ngày lễ khác là [3 tháng Giêng](../_/3_January.md), ngày sinh nhật của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
+Ngày 22 tháng Chín là ngày "nghi lễ" phổ biến dành cho việc thành lập [Tolkien hội](../../category/T/Tolkien_Societies.md). [Unquendor](../U/Unquendor.md) (Hà Lan), [Eredain](../E/Eredain.md) (Thụy Sĩ), [Imladris](../I/Imladris,_Danmarks_Tolkienforening.md) (Đan Mạch) và một số nơi khác được thành lập vào ngày này. Một ngày lễ khác là [3 tháng Giêng](../_/3_January.md), ngày sinh nhật của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
-Đối với [người hâm mộ](../T/Tolkien_fandom.md), ngày 22 tháng 9 cũng thường được coi là <a class="new" href="https://tolkiengateway.net/w/index.php?title=Hobbit_Day&amp;action=edit&amp;redlink=1" title="Hobbit Day (page does not exist)">Ngày Hobbit</a>.
+Trong số [người hâm mộ](../T/Tolkien_fandom.md), 22 tháng Chín cũng thường được coi là Ngày <a class="new" href="https://tolkiengateway.net/w/index.php?title=Hobbit_Day&amp;action=edit&amp;redlink=1" title="Hobbit Day (page does not exist)">Hobbit</a>.
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://www.americantolkiensociety.org/hobbit_day_and_tolkien_week.htm" rel="noreferrer noopener" target="_blank">Ngày Hobbit và Tuần lễ Tolkien</a>
+- <a class="external text" href="http://www.americantolkiensociety.org/hobbit_day_and_tolkien_week.htm" rel="noreferrer noopener" target="_blank">Hobbit Ngày và Tolkien Tuần</a>
 
 <span></span>
 

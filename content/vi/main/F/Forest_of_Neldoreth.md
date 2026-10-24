@@ -55,13 +55,13 @@ infobox:
 <p class="tg-quote-footer"><cite><a href="../I/In_the_Willow-meads_of_Tasarinan.md" title="In the Willow-meads of Tasarinan">Treebeard&#39;s song</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Rừng Neldoreth** là [rừng sồi](../B/Beeches.md) nằm giữa bờ [Sông Esgalduin](../E/Esgalduin.md) và [Sông Mindeb](../M/Mindeb.md) hình thành nên phần phía bắc và phần nhỏ hơn của Vương quốc [Doriath](../D/Doriath.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Rừng **Rừng Neldoreth** là rừng [sồi](../B/Beeches.md) nằm giữa bờ [Sông Esgalduin](../E/Esgalduin.md) và [Mindeb Sông](../M/Mindeb.md) hình thành nên phần phía bắc và phần nhỏ hơn của Vương quốc [Doriath](../D/Doriath.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Lịch sử {#History}
 
-Chính tại Rừng Neldoreth, [Lúthien](../L/Lúthien.md) đã được sinh ra và sau này khu rừng này là một phần của khu rừng bao quanh được gọi là "[Dây đai của Melian](../G/Girdle_of_Melian.md)".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Cũng chính dưới tán cây Neldoreth, [Beren](../B/Beren.md) lần đầu tiên nhìn thấy Lúthien nhảy múa dưới ánh trăng. Sau này, khi [Sauron](../S/Sauron.md) ném Beren xuống hố và Lúthien quyết tâm giải cứu ông ta, [Thingol](../T/Thingol.md) đã giam cô trong một ngôi nhà xây cao trên cành của cây cao nhất trong rừng, tên là [Hírilorn](../H/Hírilorn.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Chính tại Khu rừng Neldoreth mà [Lúthien](../L/Lúthien.md) đã ra đời và sau này khu rừng này là một phần của khu rừng bao quanh được gọi là "[Vành đai Melian](../G/Girdle_of_Melian.md)".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Cũng chính dưới tán cây Neldoreth mà [Beren](../B/Beren.md) lần đầu tiên chứng kiến ​​ Lúthien nhảy múa dưới ánh trăng. Sau đó, khi [Sauron](../S/Sauron.md) ném Beren xuống một cái hố và Lúthien quyết tâm giải cứu ông ta, [Thingol](../T/Thingol.md) đã giam cô trong một ngôi nhà xây cao trên cành của cây cao nhất trong rừng, tên là [Hírilorn](../H/Hírilorn.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Khi [Treebeard](../T/Treebeard.md) mang [Merry](../M/Meriadoc_Brandybuck.md) và [Pippin](../P/Peregrin_Took.md) đến [Wellinghall](../W/Wellinghall.md) ông đã hát cho họ nghe về việc đi bộ trong rừng ở [Thời đại thứ nhất](First_Age.md). Anh nhớ lại việc đến Neldoreth vào mùa thu và tận hưởng những chiếc lá vàng, đỏ và than thở của *Taur-na-neldor* (tên thay thế của khu rừng).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Khi [Treebeard](../T/Treebeard.md) chở [Merry](../M/Meriadoc_Brandybuck.md) và [Pippin](../P/Peregrin_Took.md) đến [Wellinghall](../W/Wellinghall.md), ông đã hô vang với họ về việc đi bộ trong rừng [Kỷ Đệ Nhất](First_Age.md). Anh nhớ mình đã đến Neldoreth vào mùa thu, thưởng thức lá vàng, lá đỏ và tiếng thở dài của *Taur-na-neldor* (tên gọi khác của khu rừng).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -71,9 +71,9 @@ Tên *Neldoreth* không rõ ràng, nhưng dường như là sự kết hợp c�
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trên bản đồ phác thảo ban đầu cho *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, Tolkien đã chỉ ra rằng *[Neldoreth](<../N/Neldoreth_(Rhûn).md>)* là tên của khu rừng giáp với bờ biển phía đông bắc của [Biển Rhûn](../S/Sea_of_Rhûn.md). Khu rừng này không được đặt tên trong các bản đồ sau này.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+Trên bản đồ phác thảo ban đầu cho *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, Tolkien chỉ ra rằng *[Neldoreth](<../N/Neldoreth_(Rhûn).md>)* là tên khu rừng giáp ranh với bờ biển phía đông bắc của [Biển Rhûn](../S/Sea_of_Rhûn.md). Khu rừng này không được đặt tên trong các bản đồ sau này.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
-Nhà của [Treebeard](../T/Treebeard.md) còn được gọi là **Rừng Neldoreth** trong bản dự thảo ban đầu.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
+Nhà của [Treebeard](../T/Treebeard.md) còn được gọi là **Rừng Neldoreth** trong dự thảo ban đầu.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
 
 <span></span>
 

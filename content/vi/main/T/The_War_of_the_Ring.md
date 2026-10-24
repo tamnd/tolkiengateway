@@ -66,13 +66,13 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/W/War_of_the_Ring_1990.png.md"><img src="https://tolkiengateway.net/w/images/thumb/f/fe/War_of_the_Ring_1990.png/301px-War_of_the_Ring_1990.png" decoding="async" loading="lazy" width="301" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/f/fe/War_of_the_Ring_1990.png 1.5x" data-file-width="314" data-file-height="500"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The War of the Ring</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../U/Unwin_Hyman.md" title="Unwin Hyman">Unwin Hyman</a> (UK)<br/><a class="mw-redirect" href="../H/Houghton_Mifflin.md" title="Houghton Mifflin">Houghton Mifflin</a> (US)</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/23_August.md" title="23 August">23 August</a> <a href="../_/1990.md" title="1990">1990</a> (UK)<br/><a href="../_/14_November.md" title="14 November">14 November</a> 1990 (US)</td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Hardcover; paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">496</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0044406851" title="Special:BookSources/0044406851">0044406851</a></td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="The_Treason_of_Isengard.md" title="The Treason of Isengard">The Treason of Isengard</a> (1989)</td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="../S/Sauron_Defeated.md" title="Sauron Defeated">Sauron Defeated</a> (1992)</td></tr></tbody></table>
 
-<i><b>Cuộc chiến trên chiếc nhẫn</b></i>, xuất bản năm [1990](../_/1990.md), là tập thứ tám trong bộ sách 12 tập của [Christopher Tolkien](../C/Christopher_Tolkien.md), *[The History of Middle-earth](The_History_of_Middle-earth.md)*, trong đó ông phân tích các bản thảo chưa xuất bản của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
+<i><b>Bộ Cuộc chiến Nhẫn</b></i>, xuất bản trong [1990](../_/1990.md), là tập thứ tám trong bộ sách 12 tập của [Christopher Tolkien](../C/Christopher_Tolkien.md), *[The History of Middle-earth](The_History_of_Middle-earth.md)*, trong đó ông phân tích các bản thảo chưa xuất bản của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
 Đây cũng là tập thứ ba của *[The History of The Lord of the Rings](The_History_of_The_Lord_of_the_Rings.md)*, ghi lại quá trình viết của *[The Lord of the Rings](The_Lord_of_the_Rings.md)*.
 
-Cuốn sách này bao gồm một phần của *[The Two Towers](The_Two_Towers.md)* và một phần của *[The Return of the King](The_Return_of_the_King.md)*. Tiếp nối diễn biến của các cuốn trước, câu chuyện tiếp tục đến việc mở [Cổng đen](../B/Black_Gate.md).
+Cuốn sách này bao gồm một phần của *[The Two Towers](The_Two_Towers.md)* và một phần của *[The Return of the King](The_Return_of_the_King.md)*. Tiếp nối diễn biến của các cuốn trước, câu chuyện tiếp tục đến phần mở đầu của [Cổng Đen](../B/Black_Gate.md).
 
-Tiêu đề *The War of the Ring* là tiêu đề ban đầu cho Quyển 5 của *TLotR*, sau đó bị Tolkien loại bỏ.
+Tựa đề *The War of the Ring* là tựa ban đầu cho Quyển 5 của *TLotR*, sau đó bị Tolkien loại bỏ.
 
 ## Nội dung {#Contents}
 
@@ -80,43 +80,43 @@ Tiêu đề *The War of the Ring* là tiêu đề ban đầu cho Quyển 5 của
 
 - **Phần thứ nhất: Sự sụp đổ của Saruman**
     - Tôi. "Sự hủy diệt của Isengard"
-    - II. "Mũ bảo hiểm sâu"
-    - III. "Con đường đến Isengard"
+    - II. "Helm's Deep"
+    - III. "Con đường tới Isengard"
     - IV. "Flotsam và Jetsam"
     - V. "Giọng nói của Saruman"
-    - VI. "The Palantír"
+    - VI. "Cái Palantír"
 
-- **Phần thứ hai: Chiếc nhẫn tiến về phía Đông**
-    - Tôi. "Việc thuần hóa Sméagol"
+- **Phần thứ hai: Chiếc nhẫn đi phương Đông**
+    - Tôi. "Sự thuần hóa Sméagol"
     - II. "Con đường của đầm lầy"
-    - III. "Cổng đen đã đóng"
+    - III. " Cổng Đen đã đóng"
     - IV. "Các loại thảo mộc và thỏ hầm"
     - V. "Faramir"
     - VI. "Hồ nước cấm"
-    - VII. "Hành trình đến những ngã tư"
+    - VIII. "Hành trình đến những ngã tư"
     - VIII. "Kirith Ungol"
 
 - **Phần thứ ba: Minas Tirith**
-    - Tôi. "Phụ lục của 'Sự phản bội của Isengard'"
+    - Tôi. "Phụ lục cho 'The Treason of Isengard'"
     - II. "Cuốn sách thứ năm bắt đầu và bị bỏ rơi"
     - III. "Minas Tirith"
     - IV. “Nhiều con đường dẫn về phía đông (1)”
     - V. “Nhiều con đường dẫn về phía đông (2)”
-    - VI. "Cuộc vây hãm Gondor"
-    - VII. "Chuyến đi của người Rohirrim"
+    - VI. "Cái Cuộc vây hãm Gondor"
+    - VIII. "Chuyến đi của Rohirrim"
     - VIII. "Câu chuyện được đoán trước từ Forannest"
-    - IX. "Trận chiến trên cánh đồng Pelennor"
+    - IX. "Cái Trận chiến trên Cánh đồng Pelennor"
     - X. "Lò thiêu của Denethor"
     - XI. "Những ngôi nhà chữa bệnh"
     - XII. "Cuộc tranh luận cuối cùng"
-    - XIII. "Cổng đen mở ra"
+    - XIII. " Cổng Đen mở ra"
     - XIV. "Bản đồ thứ hai"
 
 - Chỉ mục
 
 ## Chữ khắc {#Inscriptions}
 
-Có một dòng chữ bằng ký tự [Tengwar](Tengwar.md) ở trang đầu tiên của mỗi tập *History of Middle-earth*, do Christopher Tolkien viết và mô tả nội dung cuốn sách. Dòng chữ trong Quyển VIII có nội dung:
+Có một dòng chữ bằng ký tự [Tengwar](Tengwar.md) ở những trang đầu tiên của mỗi tập *History of Middle-earth*, do Christopher Tolkien viết và mô tả nội dung của cuốn sách. Dòng chữ trong Quyển VIII có nội dung:
 
 <dl><dd>&#34;<i>In the War of the Ring is traced the story of the history at Helm&#39;s Deep and the drowning of Isengard by the Ents, then is told of the journey of Frodo with Samwise and Gollum to the Morannon, of the meeting with Faramir and the stairs of Cirith Ungol, of the Battle of the <a href="../P/Pelennor_Fields.md" title="Pelennor Fields">Pelennor Fields</a>, and of the coming of Aragorn in the <a href="../C/Corsairs_of_Umbar.md" title="Corsairs of Umbar">fleet of Umbar</a>.</i>&#34;</dd></dl>
 
@@ -195,11 +195,11 @@ The War of the Ring takes up the story of The Lord of the Rings with the <a clas
 - [Giải phóng Hyman](../U/Unwin_Hyman.md), bìa cứng ([1990](../_/1990.md)), trang 496. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0044406851">ISBN 0044406851</a>
 - [HarperCollins](../H/HarperCollins.md) bìa cứng ([1991](../_/1991.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/026110201X">ISBN 026110201X</a>
 - [HarperCollins](../H/HarperCollins.md) bìa mềm ([1993](../_/1993.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0261102230">ISBN 0261102230</a> - (ảnh bìa của [Roger Garland](../R/Roger_Garland.md))
-    - Ấn bản bìa mềm năm 1993, ấn tượng thứ 2 - (ảnh bìa của [John Howe](../J/John_Howe.md))
+    - Ấn bản bìa mềm năm 1993, lần in thứ 2 - (ảnh bìa của [John Howe](../J/John_Howe.md))
     - Ấn bản bìa mềm năm 1993, đặt lại vào [2002](../_/2002.md), sau đó vào [2015](../_/2015.md)
 - [HarperCollins](../H/HarperCollins.md) bìa cứng ([2010](../_/2010.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007365322">ISBN 0007365322</a>
     - Ấn bản bìa mềm năm 2015, in lần thứ 30 ([2024](../_/2024.md))
-- [Bìa cứng HarperCollins](../H/HarperCollins.md) với áo khoác chống bụi có thể đảo ngược ([2024](../_/2024.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/9780063390843">ISBN 978-0063390843</a> (bộ) - ([Bộ đóng hộp thế kỷ](../C/Centenary_Boxed_Sets.md) #3)
+- [HarperCollins](../H/HarperCollins.md) bìa cứng có áo chống bụi có thể đảo ngược ([2024](../_/2024.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/9780063390843">ISBN 978-0063390843</a> (bộ) - ([Bộ đóng hộp thế kỷ](../C/Centenary_Boxed_Sets.md) #3)
 
 ## Liên kết ngoài {#External_links}
 

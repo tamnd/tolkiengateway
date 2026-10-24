@@ -17,9 +17,9 @@ hidden_categories:
   - "Pages with short description"
 ---
 
-**Thimbalt** có lẽ là pháo đài của Morgoth trong phiên bản đầu tiên của Legendarium, nằm gần Angband trên sườn Thangorodrim. Cái tên này chỉ xuất hiện ở phần phía bắc của [Bản đồ 'Silmarillion' đầu tiên](<The_First_'Silmarillion'_Map_(map).md>) và không xuất hiện ở bất kỳ nơi nào khác. Thimbalt được gạch bỏ bằng bút chì trên bản đồ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Thimbalt** có lẽ là pháo đài của Morgoth trong phiên bản đầu tiên của Legendarium, nằm gần Angband trên sườn Thangorodrim. Tên chỉ xuất hiện ở phần phía bắc của [Bản đồ 'Silmarillion' đầu tiên](<The_First_'Silmarillion'_Map_(map).md>) và không xuất hiện ở bất kỳ nơi nào khác. Thimbalt được gạch bỏ bằng bút chì trên bản đồ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Mặc dù ý nghĩa của nó không rõ ràng, [Paul Strack](../P/Paul_Strack.md) gợi ý trên [Eldamo](../E/Eldamo.md) rằng đó là cái tên [Noldorin](../N/Noldorin.md) bị từ chối.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Mặc dù ý nghĩa của nó không rõ ràng, [Paul Strack](../P/Paul_Strack.md) gợi ý trên [Eldamo](../E/Eldamo.md) rằng đó là tên [Noldorin](../N/Noldorin.md) bị từ chối.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

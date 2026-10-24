@@ -21,7 +21,7 @@ Nguyên tố này được nhìn thấy trong các hợp chất. Nó thường �
 
 Từ này dường như đến từ phần tử [Adûnaic](../A/Adûnaic.md), giống như một số gốc \*BAN.
 
-Cf. [Adûnaic](../A/Adûnaic.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Ban%C3%A2th&amp;action=edit&amp;redlink=1" title="Banâth (page does not exist)">banâth</a></i> "vợ" có nghĩa là "một nửa của cặp đôi"
+Cf. [Adûnaic](../A/Adûnaic.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Ban%C3%A2th&amp;action=edit&amp;redlink=1" title="Banâth (page does not exist)">banâth</a></i> "vợ" nghĩa là "một nửa của cặp đôi"
 
 ## Ví dụ {#Examples}
 

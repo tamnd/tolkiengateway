@@ -30,42 +30,42 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mithril_logo.png.md"><img src="https://tolkiengateway.net/w/images/thumb/1/17/Mithril_logo.png/320px-Mithril_logo.png" decoding="async" loading="lazy" width="320" height="92" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/1/17/Mithril_logo.png 1.5x" data-file-width="457" data-file-height="131"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mithril Miniatures</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Company Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Founded</th><td class="tg-infobox-data"><a href="../_/1987.md" title="1987">1987</a></td></tr><tr><th scope="row" class="tg-infobox-label">Products</th><td class="tg-infobox-data">Miniatures</td></tr><tr><th scope="row" class="tg-infobox-label">Parent</th><td class="tg-infobox-data">The Edman Group Ltd</td></tr></tbody></table>
 
-**Mithril Miniatures** là nhà sản xuất các tác phẩm thu nhỏ bằng kim loại có thể sưu tầm được của Ireland dựa trên các tác phẩm của J.R.R. Tolkien. Nó hoạt động dưới dạng thương hiệu và tên giao dịch của The Edman Group Ltd, cùng một công ty mẹ đằng sau công ty Prince August mà Mithril có nguồn gốc từ [1987](../_/1987.md).<sup id="cite_ref-briefhistory_1-0" class="reference"><a href="#cite_note-briefhistory-1">[1]</a></sup><sup id="cite_ref-lostminiswiki_2-0" class="reference"><a href="#cite_note-lostminiswiki-2">[2]</a></sup>
+**Mithril Miniatures** là nhà sản xuất các tác phẩm thu nhỏ bằng kim loại có thể sưu tập của Ireland dựa trên các tác phẩm của J.R.R. Tolkien. Nó hoạt động dưới dạng thương hiệu và tên giao dịch của The Edman Group Ltd, cùng một công ty mẹ đằng sau công ty Thân vương August mà Mithril có nguồn gốc ở [1987](../_/1987.md).<sup id="cite_ref-briefhistory_1-0" class="reference"><a href="#cite_note-briefhistory-1">[1]</a></sup><sup id="cite_ref-lostminiswiki_2-0" class="reference"><a href="#cite_note-lostminiswiki-2">[2]</a></sup>
 
 ## Lịch sử {#History}
 
-Sau thành công với dòng nhân vật đúc sẵn "Quân đội ảo" của riêng họ vào những năm 1980, Prince August đã tìm cách đạt được thỏa thuận cấp phép cao cấp và đàm phán thành công giấy phép toàn cầu với Tolkien Estate. Để tạo sự khác biệt cho dòng sản phẩm mới, công ty đã tự đặt thương hiệu là “[Mithril](Mithril.md)” khi tiếp thị dòng sản phẩm này.<sup id="cite_ref-briefhistory_1-1" class="reference"><a href="#cite_note-briefhistory-1">[1]</a></sup>
+Sau thành công với dòng nhân vật đúc sẵn "Những đội quân ảo" của riêng họ vào những năm 1980, Thân vương August đã tìm cách đạt được thỏa thuận cấp phép cao cấp và đàm phán thành công giấy phép trên toàn thế giới với Tolkien Estate. Để tạo sự khác biệt cho dòng sản phẩm mới, công ty đã tự đặt thương hiệu là “[Mithril](Mithril.md)” khi tiếp thị dòng sản phẩm này.<sup id="cite_ref-briefhistory_1-1" class="reference"><a href="#cite_note-briefhistory-1">[1]</a></sup>
 
-Mithril duy trì mối quan hệ hợp tác chặt chẽ với [Iron Crown Enterprises](../I/Iron_Crown_Enterprises.md), nhà xuất bản của *[Middle-earth Role Playing](Middle-earth_Role_Playing.md)*. Họ cộng tác với chủ tịch ICE [Pete Fenlon](../P/Pete_Fenlon.md) để đảm bảo các thiết kế thu nhỏ của họ phù hợp với tính thẩm mỹ được thiết lập trong sách nguồn của ICE.<sup id="cite_ref-briefhistory_1-2" class="reference"><a href="#cite_note-briefhistory-1">[1]</a></sup> Mối quan hệ hợp tác này kết thúc với việc ICE mất giấy phép và phá sản sau đó.<sup id="cite_ref-lostminiswiki_2-1" class="reference"><a href="#cite_note-lostminiswiki-2">[2]</a></sup>
+Mithril duy trì mối quan hệ hợp tác chặt chẽ với [Vương miện Sắt Enterprises](../I/Iron_Crown_Enterprises.md), nhà xuất bản của *[Middle-earth Role Playing](Middle-earth_Role_Playing.md)*. Họ cộng tác với chủ tịch ICE [Pete Fenlon](../P/Pete_Fenlon.md) để đảm bảo các thiết kế thu nhỏ của họ phù hợp với tính thẩm mỹ được nêu trong sách nguồn của ICE.<sup id="cite_ref-briefhistory_1-2" class="reference"><a href="#cite_note-briefhistory-1">[1]</a></sup> Mối quan hệ hợp tác này kết thúc với việc ICE mất giấy phép và phá sản sau đó.<sup id="cite_ref-lostminiswiki_2-1" class="reference"><a href="#cite_note-lostminiswiki-2">[2]</a></sup>
 
 ## Thiết kế {#Design}
 
-Bản sắc hình ảnh của dòng sản phẩm này được xác định bởi nhà điêu khắc Chris Tubb, người đã gia nhập Prince August vào năm 1979. Các tiêu chuẩn đúc chất lượng cao ban đầu được thiết lập bởi Tom Wilkinson, trong khi người kế nhiệm ông là Dan Kelleher đã đổi mới những tiêu chuẩn đó để sản xuất hàng loạt. Tất cả các hình đều được sơn lót tại nhà máy với lớp sơn nền bền, giúp chúng phù hợp để trưng bày ngay cả khi không sơn.<sup id="cite_ref-design_3-0" class="reference"><a href="#cite_note-design-3">[3]</a></sup>
+Nhận dạng hình ảnh của dòng sản phẩm này được xác định bởi nhà điêu khắc Chris Tubb, người đã gia nhập Thân vương August vào năm 1979. Các tiêu chuẩn đúc chất lượng cao ban đầu do Tom Wilkinson thiết lập, trong khi người kế nhiệm ông là Dan Kelleher đã đổi mới những tiêu chuẩn này để sản xuất hàng loạt. Tất cả các hình đều được sơn lót tại nhà máy với lớp sơn nền bền, giúp chúng phù hợp để trưng bày ngay cả khi không sơn.<sup id="cite_ref-design_3-0" class="reference"><a href="#cite_note-design-3">[3]</a></sup>
 
 ## Sản phẩm {#Products}
 
 Nhà điêu khắc: Chris Tubb.
 
-- M1 - M25 Các Chủng Tộc Trung Địa
-- M26 - M31 Kỵ Sĩ Rohan
-- M32 - M41 Cardolan - Kẻ trộm xứ Tharbad
-- M42 - M51 Vua phù thủy của quân đội Angmar
-- M52 - M61 Người Shire
-- M62 - Smaug Rồng
-- M63 - M72 Sảnh của Vua Tiên
+- M1 - M25 Đường đua của Trung Địa
+- M26 - Kỵ sĩ M31 của Rohan
+- M32 - M41 Cardolan - Kẻ trộm Tharbad
+- M42 - M51 Vua Phù thủy của Angmar quân
+- M52 - M61 The Shire Người
+- M62 - Smaug cái Rồng
+- M63 - M72 Sảnh của Tiên-vua
 - M73 - M82 Xa Harad
-- M83 - M92 Mirkwood I - Thung lũng sông Anduin
-- M93 - M102 Núi Gundabad - Thành phố của yêu tinh
-- M103 - M112 Mirkwood II - Rừng sâu
-- M113 - M129 Tại Dấu Hiệu Ngựa Chồm
-- M130 - M135 Phố Hồ
+- M83 - M92 Mirkwood I - Thung lũng Anduin
+- M93 - M102 Mount Gundabad - Thành Phố Yêu Tinh
+- M103 - M112 Mirkwood II - Độ sâu của rừng
+- M113 - M129 Tại Ký Hiệu Prancing Pony
+- M130 - M135 Thị trấn Hồ
 - M145 - M154 Gorgoroth
-- M155 - M164 Người lùn của Durin (cho *[Moria: The Dwarven City](Moria%253A_The_Dwarven_City.md)*)
-- M165 - M174 Ma Chiến Binh (cho *[Haunted Ruins of the Dunlendings](../H/Haunted_Ruins_of_the_Dunlendings.md)*)
+- M155 - M164 Durin Người Lùn (cho *[Moria: The Dwarven City](Moria%253A_The_Dwarven_City.md)*)
+- M165 - M174 Chiến Binh Ma (cho *[Haunted Ruins of the Dunlendings](../H/Haunted_Ruins_of_the_Dunlendings.md)*)
 - M175 - M184 Isengard
 - M185 - M194 Rừng Fangorn
 - M195 - M204 Minas Tirith
-- M205 - M214 Lórien Yêu Tinh
+- M205 - M214 Lórien Tiên tộc
 
 ## Liên kết ngoài {#External_links}
 

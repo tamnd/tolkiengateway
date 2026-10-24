@@ -22,7 +22,7 @@ sort_keys:
 
 ## Vai trò {#Roles}
 
-- [1968](../_/1968.md) - [*The Hobbit* (loạt phim phát thanh năm 1968)](<../T/The_Hobbit_(1968_radio_series).md>) - [Bifur](Bifur.md), [Bert](Bert.md), [Dáin Ironfoot](../D/Dáin_Ironfoot.md)
+- [1968](../_/1968.md) - [*The Hobbit* (loạt phim phát thanh năm 1968)](<../T/The_Hobbit_(1968_radio_series).md>) - [Bifur](Bifur.md), [Bert](Bert.md), [Dáin Chân Sắt](../D/Dáin_Ironfoot.md)
 - [1981](../_/1981.md) - [*The Lord of the Rings* (loạt phim phát thanh năm 1981)](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) - [Uglúk](../U/Uglúk.md)
 
 ## Liên kết ngoài {#External_links}

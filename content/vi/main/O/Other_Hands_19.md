@@ -38,9 +38,9 @@ infobox:
 - Truyền thông - Nancy Martsch, Jasna Martinovic
 - Tiền tuyến - [Chris Seeman](../C/Chris_Seeman.md)
 - Bàn tay kỹ thuật số - Fredrik Ekman
-- Nhập vai ở Trung Địa và Hârnmaster: Những suy nghĩ về sự giao thoa - Dirk Brandherm
-- Phong tục tang lễ của người Gondoria - Deena McKinney
-- Suy nghĩ về gia phả các vị vua Noldorin - Brian Carlton
+- Middle-earth Role Playing và Hârnmaster: Suy nghĩ về sự kết hợp chéo - Dirk Brandherm
+- Gondor phong tục tang lễ - Deena McKinney
+- Suy nghĩ về phả hệ của các vị vua Noldorin - Brian Carlton
 - Nhật ký của Rastarin - Bridget Buxton
 - Đánh giá sản phẩm: Trò chơi phiêu lưu Chúa tể những chiếc nhẫn - [Chris Seeman](../C/Chris_Seeman.md)
-- Đánh giá sản phẩm: Chất thải phương Bắc - Jeff Erwin
+- Đánh giá sản phẩm: Northern Waste - Jeff Erwin

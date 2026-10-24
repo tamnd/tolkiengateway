@@ -12,7 +12,7 @@ categories:
   - "Chess sets"
 ---
 
-**Bộ sưu tập cờ vua Chúa tể của những chiếc nhẫn** là một bộ cờ vua vẽ tay chất lượng cao với các quân cờ dựa trên các nhân vật trong [*The Lord of the Rings* (loạt phim)](<The_Lord_of_the_Rings_(film_series).md>). Nó là một phần của hàng hóa chính thức. Do sự phổ biến của bộ cờ đầu tiên nên bộ cờ thứ hai hiện đang được thực hiện. Cả hai bộ đều độc quyền ở Anh.
+**The Lord of the Rings Bộ sưu tập cờ vua** là một bộ cờ vua vẽ tay chất lượng cao với các quân cờ dựa trên các nhân vật trong [*The Lord of the Rings* (loạt phim)](<The_Lord_of_the_Rings_(film_series).md>). Nó là một phần của hàng hóa chính thức. Do sự phổ biến của bộ cờ đầu tiên nên bộ cờ thứ hai hiện đang được thực hiện. Cả hai bộ đều độc quyền ở Anh.
 
 ## Mảnh {#Pieces}
 
@@ -24,17 +24,17 @@ categories:
 - Nữ hoàng - [Arwen](../A/Arwen.md)
 - Giám mục - [Gandalf](../G/Gandalf.md), [Legolas](../L/Legolas.md)
 - Hiệp sĩ - [Théoden](Théoden.md), [Éomer](../_/Éomer.md)
-- Rooks - [Minas Tirith](../M/Minas_Tirith.md), [Osgiliath](../O/Osgiliath.md)
-- Tốt - [Faramir](../F/Faramir.md), [Sam](../S/Samwise_Gamgee.md), [Frodo](../F/Frodo_Baggins.md), [Pippin](../P/Peregrin_Took.md), [Merry](../M/Meriadoc_Brandybuck.md), [Éowyn](../_/Éowyn.md), [Gimli](../G/Gimli.md), Cung thủ Gondorian
+- Xe - [Minas Tirith](../M/Minas_Tirith.md), [Osgiliath](../O/Osgiliath.md)
+- Tốt - [Faramir](../F/Faramir.md), [Sam](../S/Samwise_Gamgee.md), [Frodo](../F/Frodo_Baggins.md), [Pippin](../P/Peregrin_Took.md), [Merry](../M/Meriadoc_Brandybuck.md), [Éowyn](../_/Éowyn.md), [Gimli](../G/Gimli.md), Gondor Cung thủ
 
 #### Đen {#Black}
 
 - Vua - [Sauron](../S/Sauron.md)
-- Nữ hoàng - [Vua phù thủy](../W/Witch-king.md) của [Angmar](../A/Angmar.md)
-- Bishops - [Orc](../O/Orcs.md) Trung úy, [Gothmog](<../G/Gothmog_(Lieutenant_of_Morgul).md>)
+- Nữ hoàng - [Vua Phù thủy](../W/Witch-king.md) của [Angmar](../A/Angmar.md)
+- Giám mục - [Orc](../O/Orcs.md) Trung úy, [Gothmog](<../G/Gothmog_(Lieutenant_of_Morgul).md>)
 - Hiệp sĩ - [Shagrat](../S/Shagrat.md), Uruk đen
 - Xe - [Orthanc](../O/Orthanc.md), [Barad-dûr](../B/Barad-dûr.md)
-- Tốt - Orc Drum Beater, Orc Archer, Orc Axeman, [Gollum](../G/Gollum.md), [Gorbag](../G/Gorbag.md), Orc Swordsman, Orc Archer, Orc Drum Beater
+- Tốt - Orc Người đánh trống, Orc Cung thủ, Orc Người cầm rìu, [Gollum](../G/Gollum.md), [Gorbag](../G/Gorbag.md), Orc Kiếm sĩ, Orc Cung thủ, Orc Người đánh trống
 
 ### Bộ hai {#Set_Two}
 
@@ -42,10 +42,10 @@ categories:
 
 - Vua - [Elrond](../E/Elrond.md)
 - Nữ hoàng - [Galadriel](../G/Galadriel.md)
-- Bishops - [Treebeard](Treebeard.md), [Ent](../E/Ents.md)
+- Giám mục - [Treebeard](Treebeard.md), [Ent](../E/Ents.md)
 - Hiệp sĩ - [Shadowfax](../S/Shadowfax.md), [Người tuyết](../S/Snowmane.md)
-- Rooks - [Grey Havens](../G/Grey_Havens.md), [Eagle](../E/Eagles.md) [Ecthelion](Tower_of_Ecthelion.md)
-- Tốt - [Boromir](../B/Boromir.md), [Cờ bạc](../G/Gamling.md), [Haldir](../H/Haldir.md), Cung thủ Elven, [Celeborn](../C/Celeborn.md), [Helm's Deep](../H/Helm's_Deep.md) Cung thủ, [Numenorian *(sic)*](../N/Númenóreans.md) Hiệp sĩ, [Ranger của Ithilien](../R/Rangers_of_Ithilien.md)
+- Xe - [Cảng Xám](../G/Grey_Havens.md), [Đại bàng](../E/Eagles.md) [Ecthelion](Tower_of_Ecthelion.md)
+- Tốt - [Boromir](../B/Boromir.md), [Cờ bạc](../G/Gamling.md), [Haldir](../H/Haldir.md), Tiên cung thủ, [Celeborn](../C/Celeborn.md), [Helm's Deep](../H/Helm's_Deep.md) Cung thủ, [Numorian *(sic)*](../N/Númenóreans.md) Hiệp sĩ, [Ranger của Ithilien](../R/Rangers_of_Ithilien.md)
 
 #### Đen {#Black_2}
 
@@ -53,8 +53,8 @@ categories:
 - Nữ hoàng - [Shelob](../S/Shelob.md)
 - Bishops - [Lurtz](../L/Lurtz.md), Berserker [Uruk-hai](../U/Uruk-hai.md)
 - Hiệp sĩ - ngựa [Warg](../W/Wargs.md), [Ringwraith](../N/Nazgûl.md)
-- Rooks - [Balrog](../D/Durin's_Bane.md), [Thú vật ngã](../F/Fell_Beasts~17925.md)
-- Tốt - Cuộc vây hãm [Troll](Trolls.md), [Easterling *(sic)*](../E/Easterlings.md), [Cave Troll](../C/Cave-trolls.md), [Haradrim](../H/Haradrim.md) Cung thủ, [Wormtongue](../G/Gríma.md), Troll bọc thép, Troll chiến đấu, Nỏ Uruk-hai
+- Xe - [Balrog](../D/Durin's_Bane.md), [Quái vật sa ngã](../F/Fell_Beasts~17925.md)
+- Tốt - Cuộc vây hãm [Quỷ lùn](Trolls.md), [Easterling *(sic)*](../E/Easterlings.md), [Quỷ hang động](../C/Cave-trolls.md), [Haradrim](../H/Haradrim.md) Cung thủ, [Wormtongue](../G/Gríma.md), Quỷ bọc thép, Troll chiến đấu, Nỏ Uruk-hai
 
 ## Liên kết ngoài {#External_links}
 

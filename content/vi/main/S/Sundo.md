@@ -13,7 +13,7 @@ categories:
   - "Quenya nouns"
 ---
 
-**sundo** là tên [Quenya](../Q/Quenya.md) có nghĩa là "cơ sở, gốc, từ gốc"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và đề cập đến một phụ âm "cơ sở" [Elvish](../E/Elvish.md).
+**sundo** là tên [Quenya](../Q/Quenya.md) có nghĩa là "cơ sở, gốc, từ gốc"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và đề cập đến một "cơ sở" phụ âm [Elvish](../E/Elvish.md).
 
 ## Từ nguyên {#Etymology}
 

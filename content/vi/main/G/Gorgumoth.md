@@ -19,7 +19,7 @@ langlinks:
     url: "https://www.ardapedia.org/wiki/Gorgumoth"
 ---
 
-**Gorgumoth** là [chó săn](../H/Hounds.md) của [Vala](../V/Valar.md) [Mandos](../M/Mandos.md), theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*. Gorgumoth bảo vệ [Melko](../M/Melkor.md) trong lâu đài [Lumbi](../L/Lumbi.md) sau khi ông ta bị [Tulkas](../T/Tulkas.md) lật đổ trong [trận chiến](../B/Battle_of_the_Silent_Pools.md) tại [Các hồ im lặng](../A/Aelin-uial.md) trong [First Faring Forth](../W/War_of_Wrath.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Gorgumoth** là [chó săn](../H/Hounds.md) của [Vala](../V/Valar.md) [Mandos](../M/Mandos.md), theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*. Gorgumoth bảo vệ [Melko](../M/Melkor.md) trong lâu đài [Lumbi](../L/Lumbi.md) sau khi ông bị [Tulkas](../T/Tulkas.md) lật đổ trong [trận chiến](../B/Battle_of_the_Silent_Pools.md) ở [Bể Im Lặng](../A/Aelin-uial.md) trong [ Faring Forth](../W/War_of_Wrath.md) đầu tiên.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

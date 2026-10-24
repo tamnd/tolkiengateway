@@ -20,13 +20,13 @@ images:
 
 Vào [ngày 6 tháng 6](../_/6_June.md) [1964](../_/1964.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_%2522The_Letters_of_J.R.R._Tolkien%2522.md) cho Sue Parman**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-- **Chủ đề:** Trả lời một người hâm mộ đã gửi cho Tolkien một cuốn băng nhạc lấy cảm hứng từ [thơ của Tolkien](../../index/P/Poems_by_J.R.R._Tolkien.md).
+- **Chủ đề:** Trả lời một người hâm mộ đã gửi Tolkien một cuốn băng nhạc lấy cảm hứng từ thơ của [Tolkien](../../index/P/Poems_by_J.R.R._Tolkien.md).
 - **Mô tả:** thư viết tay, có chữ ký, gửi từ [76 Sandfield Road](../_/76_Sandfield_Road.md), Headington, [Oxford](../O/Oxford.md).
 - **Xuất bản:** Các đoạn trích được xuất bản trong [*The Antioch Review* (Mùa đông 2015, Tập 73, Số 1)](../T/The_Antioch_Review_Winter_2015.md).
 
 ## Nội dung {#Contents}
 
-*Dear Miss Parman,*<br> *Tôi đã nhận được 'Băng dính Scotch' của bạn cách đây vài ngày (6/2/64), và cũng đã cứu được lá thư của bạn trong tình trạng bị rách khỏi băng dính. Tôi phải cảm ơn nồng nhiệt vì sự quan tâm và chú ý của bạn. Hiện tại băng nhạc im bặt, tôi sợ: mình không có máy để bật. Ngoài ra, sau một thời gian gặp khó khăn trầm trọng và bệnh tật, tôi ngày càng thiếu thời gian và phải thực hiện nhiều hợp đồng khác nhau. Tôi cũng thêm vào những khó khăn hiện tại của mình khi không có thư ký. Vì sức khỏe của vợ tôi yếu nên tôi buộc phải rời nhà một thời gian để tìm nơi bớt ẩm ướt và ấm áp hơn. Tôi sẽ không ở đây (như trên) sau ngày 22 tháng 6 một thời gian, nhưng địa chỉ trên cuối cùng sẽ tìm thấy tôi. Trân trọng, JRR Tolkien.*<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+*Dear Miss Parman,*<br> *Tôi đã nhận được 'Băng dính Scotch' của bạn vài ngày trước (6/2/64), và cũng đã cứu được bức thư của bạn trong tình trạng bị rách khỏi băng dính. Tôi phải cảm ơn nồng nhiệt vì sự quan tâm và chú ý của bạn. Hiện tại băng nhạc im bặt, tôi sợ: mình không có máy để bật. Ngoài ra, sau một thời gian gặp khó khăn trầm trọng và bệnh tật, tôi ngày càng thiếu thời gian và phải thực hiện nhiều hợp đồng khác nhau. Tôi cũng thêm vào những khó khăn hiện tại của mình khi không có thư ký. Vì sức khỏe của vợ tôi yếu nên tôi buộc phải rời nhà một thời gian để tìm nơi bớt ẩm ướt và ấm áp hơn. Tôi sẽ không ở đây (như trên) sau ngày 22 tháng 6 một thời gian, nhưng địa chỉ trên cuối cùng sẽ tìm thấy tôi. Trân trọng, JRR Tolkien.*<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Xem thêm {#See_also}
 
@@ -34,7 +34,7 @@ Vào [ngày 6 tháng 6](../_/6_June.md) [1964](../_/1964.md), [J.R.R. Tolkien](.
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://www.sueparman.com/blog/posts/39600" rel="noreferrer noopener" target="_blank">Tháp Montaigne: Gửi Beregond, người đã hỏi</a> (Sue Parman trình bày bức thư)
+- <a class="external text" href="http://www.sueparman.com/blog/posts/39600" rel="noreferrer noopener" target="_blank">Tháp Montaigne: Dành cho Beregond, người đã hỏi</a> (Sue Parman trình thư)
 
 <span></span>
 

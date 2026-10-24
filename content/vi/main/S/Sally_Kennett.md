@@ -21,7 +21,7 @@ sort_keys:
   "Tolkien Society members": "Kennett, Sally"
 ---
 
-**Sally Kennett** là Chủ tịch thứ chín của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md). Bà được bổ nhiệm vào [8 tháng 1](../_/8_January.md) [2009](../_/2009.md), trước khi được bầu vào [26 tháng 4](../_/26_April.md) vào cuối năm đó. Phục vụ được hơn bốn năm, Kennett từ chức tại Đại hội đồng cổ đông của Hiệp hội Tolkien vào [20 tháng 4](../_/20_April.md) [2013](../_/2013.md) và được thay thế bởi [Shaun Gunner](Shaun_Gunner.md). Từ năm 1998 đến năm 2009 Kennett giữ chức vụ thư ký của Hiệp hội Tolkien và đóng góp cho *[Amon Hen](<../A/Amon_Hen_(journal).md>)* thông qua các chuyên mục thường kỳ "Đoạn trích của Sally" và "Đằng sau những cánh cửa kính". Trong thời gian làm Chủ tịch và Thư ký, bà cũng từng là Thủ thư của Hiệp hội Tolkien.
+**Sally Kennett** là Chủ tịch thứ chín của [Hội Tolkien](../T/The_Tolkien_Society.md). Bà được bổ nhiệm vào [8 tháng 1](../_/8_January.md) [2009](../_/2009.md), trước khi được bầu vào [26 tháng 4](../_/26_April.md) vào cuối năm đó. Phục vụ được hơn bốn năm, Kennett từ chức tại Đại hội đồng cổ đông của Hội Tolkien vào [20 tháng 4](../_/20_April.md) [2013](../_/2013.md) và được thay thế bởi [Shaun Gunner](Shaun_Gunner.md). Từ năm 1998 đến năm 2009 Kennett giữ chức vụ thư ký của Hiệp hội Tolkien và đóng góp cho *[Amon Hen](<../A/Amon_Hen_(journal).md>)* thông qua các chuyên mục thường xuyên "Đoạn trích của Sally" và "Phía sau những cánh cửa kính". Trong thời gian làm Chủ tịch và Thư ký, bà cũng từng giữ chức vụ Thủ thư của Hội Tolkien.
 
 ## Thư mục {#Bibliography}
 

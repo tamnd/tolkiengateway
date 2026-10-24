@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Elves"
 ---
 
-Chuyển hướng tới [Danh mục:Yêu tinh](../../category/E/Elves.md).
+Chuyển hướng đến [Danh mục:Tiên tộc](../../category/E/Elves.md).

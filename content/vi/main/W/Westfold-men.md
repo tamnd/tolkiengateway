@@ -12,27 +12,27 @@ categories:
   - "Rohirrim"
 ---
 
-**Westfold-men**,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> còn được gọi là **Westfolders**,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> hay đàn ông của Westfold<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> là [Đàn ông](../M/Men.md) sống ở [Westfold](Westfold.md) của [Rohan](../R/Rohan.md).
+**Westfold-men**,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> còn được gọi là **Westfolders**,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> hoặc nam giới của Westfold<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> là [Con Người](../M/Men.md) sống ở [Westfold](Westfold.md) của [Rohan](../R/Rohan.md).
 
 ## Lịch sử {#History}
 
-Một số người Westfold ban đầu có thể là [người Gondorian](../G/Gondorians.md) của [Calenardhon](../C/Calenardhon.md) cho đến khi nó được trao cho người Rohirrim ở [T.A.](../T/Third_Age.md) [2510](../T/Third_Age_2510.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Những người đó có thể đã xây dựng hoặc giúp xây dựng Helm's Deep nằm ở Westfold.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Một số Westfold-men ban đầu có thể là [người Gondor](../G/Gondorians.md) của [Calenardhon](../C/Calenardhon.md) cho đến khi nó được trao cho Rohirrim ở [T.A.](../T/Third_Age.md) [2510](../T/Third_Age_2510.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Những người đó có thể đã xây dựng hoặc giúp xây dựng Helm's Deep được đặt tại Westfold.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
-Vào thời điểm diễn ra [War of the Ring](War_of_the_Ring.md) chỉ huy của họ là [Erkenbrand](../E/Erkenbrand.md).<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> Họ tham gia [Trận chiến của Fords of Isen](../B/Battles_of_the_Fords_of_Isen.md) và chịu nhiều tổn thất.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Erkenbrand sau đó dẫn người của mình đến [Helm's Deep](../H/Helm's_Deep.md).<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> Một số người Westfold đã có mặt tại Helm's Sâu,<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> nhưng Erkenbrand và những người dưới quyền của ông ta vẫn chưa đến vào thời điểm trận chiến bắt đầu và người ta sợ rằng họ đã bị vượt qua và sẽ không đến.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> Erkenbrand và người của ông ta (tổng cộng 1000 người) đã đến trong một giờ phút vô cùng cần thiết trong trận chiến do [Gandalf](../G/Gandalf.md) chỉ huy.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>
+Vào thời điểm [Cuộc chiến Nhẫn](War_of_the_Ring.md) người chỉ huy của họ là [Erkenbrand](../E/Erkenbrand.md).<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> Họ tham gia [Trận chiến của Fords Isen](../B/Battles_of_the_Fords_of_Isen.md) và chịu nhiều tổn thất.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Erkenbrand sau đó dẫn người của mình đến [Helm's Deep](../H/Helm's_Deep.md).<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> Một số Westfold-người đã ở Helm's Deep,<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> nhưng Erkenbrand và những người ở dưới lệnh của ông ta vẫn chưa đến vào thời điểm trận chiến bắt đầu và người ta sợ rằng họ đã bị vượt qua và sẽ không đến.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> Erkenbrand và người của ông ta (tổng cộng 1000 người) đã đến trong một giờ phút vô cùng cần thiết trong trận chiến do [Gandalf](../G/Gandalf.md) chỉ huy.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Westfold là sự kết hợp giữa "West" và gấp từ [tiếng Anh cổ](../O/Old_English.md) Folde ("trái đất", "đất", "đất nước").<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup>
+Westfold là sự kết hợp của "Phương Tây" và gấp từ [tiếng Anh cổ](../O/Old_English.md) Folde ("trái đất", "đất", "quốc gia").<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trên [Bản đồ đầu tiên của Chúa tể những chiếc nhẫn](../F/First_Map_of_The_Lord_of_the_Rings.md) một nhãn có tên *Westfold* được đặt ở một thung lũng phía tây ở phía nam của [Dãy núi sương mù](../M/Misty_Mountains.md), nơi Dunland hiện tọa lạc trên các bản đồ được xuất bản cuối cùng, nhưng sau đó nó đã bị xóa bỏ.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> Trong bản thảo đầu tiên của chương [Helm's Deep](<../H/Helm's_Deep_(chapter).md>) những người phục vụ [Saruman](../S/Saruman.md) đến từ Westfold và nói tiếng "Cái lưỡi của Westfold".<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup>
+Trên [Bản đồ đầu tiên của The Lord of the Rings](../F/First_Map_of_The_Lord_of_the_Rings.md), nhãn có tên *Westfold* được đặt ở một thung lũng phía tây ở phía nam [Dãy Núi Sương Mù](../M/Misty_Mountains.md) nơi Dunland hiện nằm trên các bản đồ được xuất bản cuối cùng, nhưng nó đã bị xóa sau đó.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> Trong bản thảo đầu tiên của chương [Helm's Deep](<../H/Helm's_Deep_(chapter).md>) những người phục vụ [Saruman](../S/Saruman.md) đến từ Westfold và nói "Cái lưỡi của Westfold".<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup>
 
 ## Xem thêm {#See_also}
 
 - [Helmingas](../H/Helmingas.md)
 
-Danh mục ấn bản kỷ niệm 50 năm của Chúa tể những chiếc nhẫn (được biên tập bởi Wayne G. Hammond và Christina Scull) dường như giải thích Helmingas và Westfold-men theo cách nào đó là đồng nghĩa và kết nối cả hai.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup>
+Danh mục Phiên bản Kỷ niệm 50 năm của The Lord of the Rings (được biên tập bởi Wayne G. Hammond và Christina Scull) dường như hiểu Helmingas và Westfold-men là đồng nghĩa nào đó và kết nối cả hai.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup>
 
 <span></span>
 

@@ -37,7 +37,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tolkien_Studies_-_Volume_8.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/e/e9/Tolkien_Studies_-_Volume_8.jpg/320px-Tolkien_Studies_-_Volume_8.jpg" decoding="async" loading="lazy" width="320" height="470" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e9/Tolkien_Studies_-_Volume_8.jpg/480px-Tolkien_Studies_-_Volume_8.jpg 1.5x, https://tolkiengateway.net/w/images/e/e9/Tolkien_Studies_-_Volume_8.jpg 2x" data-file-width="607" data-file-height="891"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Tolkien Studies: Volume 8</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../D/Douglas_A._Anderson.md" title="Douglas A. Anderson">Douglas A. Anderson</a>, <a href="../M/Michael_D.C._Drout.md" title="Michael D.C. Drout">Michael D.C. Drout</a>, <a href="../V/Verlyn_Flieger.md" title="Verlyn Flieger">Verlyn Flieger</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">West Virginia University</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">May, <a href="../_/2011.md" title="2011">2011</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Hardcover; electronic</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">311</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">1547-3155</td></tr></tbody></table>
 
-<b><i>Nghiên cứu của Tolkien</i>: Tập 8</b>, xuất bản trong [2011](../_/2011.md), là tập thứ tám của tạp chí đánh giá hàng năm *[Tolkien Studies](<Tolkien_Studies_(journal).md>)*.
+<b><i>Tolkien Nghiên cứu</i>: Tập 8</b>, xuất bản trong [2011](../_/2011.md), là tập thứ tám của tạp chí tổng kết hàng năm *[Tolkien Studies](<Tolkien_Studies_(journal).md>)*.
 
 <div class="template-prevnext"><div class="template-prevnext__prev template-prevnext__link"><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/8/81/WikimediaUI-ArrowPrevious-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__content"><div class="template-prevnext__title">Tolkien Studies: Volume 7</div></div><div class="template-prevnext__linkoverlay"><a href="Tolkien_Studies%253A_Volume_7.md" title="Tolkien Studies: Volume 7">Tolkien Studies: Volume 7</a></div></div><div class="template-prevnext__current"><div class="template-prevnext__content"><div class="template-prevnext__title">Tolkien Studies: Volume 8</div></div></div><div class="template-prevnext__next template-prevnext__link"><div class="template-prevnext__content"><div class="template-prevnext__title">Tolkien Studies: Volume 9</div></div><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/7b/WikimediaUI-ArrowNext-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__linkoverlay"><a href="Tolkien_Studies%253A_Volume_9.md" title="Tolkien Studies: Volume 9">Tolkien Studies: Volume 9</a></div></div></div>
 
@@ -45,32 +45,32 @@ infobox:
 
 - Bài viết
     - Philip Irving Mitchell, "'Truyền thuyết và lịch sử đã gặp nhau và hợp nhất': Sự đan xen giữa nhân chủng học, lịch sử và hóa thân trong '[Về truyện cổ tích](../O/On_Fairy-stories~23735.md)' của J.R.R. Tolkien"
-    - John M. Bowers, "Quả mọng vàng của Tolkien và *The Maid of the Moor*"
+    - John M. Bowers, Goldberry của "Tolkien và *The Maid of the Moor*"
     - Lucas Annear, "Ngôn ngữ trong '[Bagme Bloma](../B/Bagme_Bloma.md)' của Tolkien"
-    - [José Manuel Ferrández Bru](../J/José_Manuel_Ferrández_Bru.md), "'Sự rung động không cánh': Một số mối liên hệ cá nhân trong những năm hình thành của Tolkien"
+    - [José Manuel Ferrández Bru](../J/José_Manuel_Ferrández_Bru.md), "'Chung cánh không cánh': Một số kết nối cá nhân trong những năm hình thành của Tolkien"
 
 - Ghi chú và tài liệu
     - [John Garth](../J/John_Garth.md), "Robert Quilter Gilson, T.C.B.S.: Cuộc đời ngắn ngủi qua những lá thư"
-    - [Janet Brennan Croft](../J/Janet_Brennan_Croft.md), "Con gà đẻ trứng: Tolkien và Quân đoàn huấn luyện sĩ quan"
+    - [Janet Brennan Croft](../J/Janet_Brennan_Croft.md), "Con gà mái đẻ trứng: Tolkien và Quân đoàn huấn luyện sĩ quan"
 
 - Đánh giá sách
-    - *Âm vị học Quenya: Bảng so sánh, Sơ lược về phát triển ngữ âm, Sơ lược về Âm vị học* (*[Parma Eldalamberon 19](../P/Parma_Eldalamberon_19.md)*), bởi J.R.R. Tolkien, do [Christopher Gilson](../C/Christopher_Gilson.md) biên tập, được John Garth đánh giá
-    - *[Hither Shore](<../H/Hither_Shore_(journal).md>): Tạp chí liên ngành về văn học giả tưởng hiện đại, Jahrbuch der Deutschen Tolkien Gesellschaft e.V.*, được biên tập bởi Thomas Fornet-Ponse (tổng biên tập), [Marcel Bülles](../M/Marcel_Bülles.md), [Thomas Honegger](Thomas_Honegger.md), Rainer Nagel, Alexandra Velten và Frank Weinreich, và *Tập 4, 2007 (2008): "Tolkiens Kleinere Werke" \[Tolkien's Lesser Works\]*, và *Tập 5, 2008 (2009): "Der Hobbit" \[The Hobbit\]*, được đánh giá bởi Mark T. Hooker
+    - *Quenya Âm vị học: Bảng so sánh, Sơ lược phát triển ngữ âm, Sơ lược Âm vị học* (*[Parma Eldalamberon 19](../P/Parma_Eldalamberon_19.md)*), bởi J.R.R. Tolkien, được chỉnh sửa bởi [Christopher Gilson](../C/Christopher_Gilson.md), được xem xét bởi John Garth
+    - *[Hither Shore](<../H/Hither_Shore_(journal).md>): Tạp chí liên ngành về văn học giả tưởng hiện đại, Jahrbuch der Deutschen Tolkien Gesellschaft e.V.*, do Thomas Fornet-Ponse (tổng biên tập), [Marcel Bülles](../M/Marcel_Bülles.md) biên tập, [Thomas Honegger](Thomas_Honegger.md), Rainer Nagel, Alexandra Velten, và Frank Weinreich, và *Tập bốn, 2007 (2008): "Tolkiens Kleinere Werke" \[Tolkien's Lesser Works\]*, và *Tập năm, 2008 (2009): "Der Hobbit" \[The Hobbit\]*, được đánh giá bởi Mark T. Hooker
     - *[Music in Middle-earth](../M/Music_in_Middle-earth.md)*, do Heidi Steimel và Friedhelm Schneidewind biên tập, Gerald Seaman xem xét
-    - *[Middle-earth Minstrel](../M/Middle-earth_Minstrel.md): Các bài tiểu luận về âm nhạc ở Tolkien*, do Bradford Lee Eden biên tập, Gerald Seaman đánh giá
-    - *Sức mạnh của văn xuôi Tolkien: Phong cách huyền diệu của Trung Địa*, của Steve Walker, Được đánh giá bởi Richard C. West
-    - *The Saga of King Heidrek the Wise*, do [Christopher Tolkien](../C/Christopher_Tolkien.md) biên tập, được [Tom Shippey](Tom_Shippey.md) xem xét
+    - *[Trung Địa Minstrel](../M/Middle-earth_Minstrel.md): Các bài luận về Âm nhạc trong Tolkien*, do Bradford Lee Eden biên tập, Gerald Seaman phê bình
+    - *Sức mạnh của văn xuôi của Tolkien: Phong cách huyền diệu của Trung Địa*, bởi Steve Walker, Được đánh giá bởi Richard C. West
+    - *The Saga of Vua Heidrek the Wise*, được chỉnh sửa bởi [Christopher Tolkien](../C/Christopher_Tolkien.md), được đánh giá bởi [Tom Shippey](Tom_Shippey.md)
     - Ghi chú sách, của [Douglas A. Anderson](../D/Douglas_A._Anderson.md)
 
 - Ôn tập-Tiểu luận
     - *[The Ring Goes Ever On](The_Ring_Goes_Ever_On%253A_Proceedings_of_the_Tolkien_2005_Conference.md)*, do Sarah Wells biên tập, Deidre xem xét A. Dawson
 
-- [David Bratman](../D/David_Bratman.md) và Merlin DeTardo, "Công việc của năm về nghiên cứu Tolkien 2008"
+- [David Bratman](../D/David_Bratman.md) và Merlin DeTardo, "Công việc của năm trong nghiên cứu Tolkien năm 2008"
 - Rebecca Epstein, David Bratman, [Michael D.C. Drout](../M/Michael_D.C._Drout.md), Merlin DeTardo, và Douglas A. Anderson, "Thư mục (bằng tiếng Anh) năm 2009"
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="https://muse.jhu.edu/issue/23163" rel="noreferrer noopener" target="_blank"><i>Nghiên cứu về Tolkien</i>: Tập 8</a> tại Project Muse
+- <a class="external text" href="https://muse.jhu.edu/issue/23163" rel="noreferrer noopener" target="_blank"><i>Tolkien Nghiên cứu</i>: Tập 8</a> tại Project Muse
 - Đánh giá: Troels Forchhammer, "Năm trong viễn cảnh", *[Mallorn](../M/Mallorn.md)*, [tập. 53](../M/Mallorn_53.md) (Mùa xuân [2012](../_/2012.md))
 
 <br clear="all"/>

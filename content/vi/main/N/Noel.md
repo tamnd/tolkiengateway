@@ -31,7 +31,7 @@ infobox:
   <tr><th scope="row" class="tg-infobox-label">Subject(s)</th><td class="tg-infobox-data"><a href="../C/Christianity.md" title="Christianity">Christianity</a>, <a class="mw-redirect" href="../C/Christ.md" title="Christ">Christ</a></td></tr>
 </tbody></table>
 
-<i><b>Noel</b></i> là tựa một bài thơ được sáng tác bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).<sup id="cite_ref-name_1-0" class="reference"><a href="#cite_note-name-1">[1]</a></sup>
+<i><b>Noel</b></i> là tựa đề một bài thơ được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).<sup id="cite_ref-name_1-0" class="reference"><a href="#cite_note-name-1">[1]</a></sup>
 
 ## Khổ đầu tiên {#First_stanza}
 
@@ -51,9 +51,9 @@ infobox:
 
 <figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Annual_of_Our_Lady&#39;s_School_(Vol.12).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/f2/Annual_of_Our_Lady%27s_School_%28Vol.12%29.jpg/300px-Annual_of_Our_Lady%27s_School_%28Vol.12%29.jpg" decoding="async" loading="lazy" width="300" height="199" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f2/Annual_of_Our_Lady%27s_School_%28Vol.12%29.jpg/450px-Annual_of_Our_Lady%27s_School_%28Vol.12%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/f/f2/Annual_of_Our_Lady%27s_School_%28Vol.12%29.jpg/600px-Annual_of_Our_Lady%27s_School_%28Vol.12%29.jpg 2x" data-file-width="629" data-file-height="418"/></a><figcaption>Contents page from Vol.12 of the <a href="../A/Annual_of_Our_Lady&#39;s_School_(1936).md" title="Annual of Our Lady&#39;s School (1936)">Annual of Our Lady&#39;s School (1936)</a></figcaption></figure>
 
-*Noel* được xuất bản cùng với bài thơ *[The Shadow Man](../S/Shadow-Bride.md)* trong [*Annual* Trường Đức Mẹ](<../A/Annual_of_Our_Lady's_School_(1936).md>) ở [1936](../_/1936.md). Theo [Wayne G. Hammond](../W/Wayne_G._Hammond.md) và [Christina Scull](../C/Christina_Scull.md), người đã phát hiện ra bài thơ ở [2013](../_/2013.md), đó là một bài thơ "trực tiếp [Kitô giáo](../C/Christianity.md), kỷ niệm sự ra đời của [Chúa Kitô](../C/Christ.md)".<sup id="cite_ref-name_1-1" class="reference"><a href="#cite_note-name-1">[1]</a></sup>
+*Noel* được xuất bản cùng với bài thơ *[The Shadow Man](../S/Shadow-Bride.md)* trong [*Annual* Trường Đức Mẹ](<../A/Annual_of_Our_Lady's_School_(1936).md>) ở [1936](../_/1936.md). Theo [Wayne G. Hammond](../W/Wayne_G._Hammond.md) và [Christina Scull](../C/Christina_Scull.md), người đã phát hiện ra bài thơ ở [2013](../_/2013.md), đó là một bài thơ "trực tiếp [Cơ đốc giáo](../C/Christianity.md), kỷ niệm sự ra đời của [Chúa Kitô](../C/Christ.md)".<sup id="cite_ref-name_1-1" class="reference"><a href="#cite_note-name-1">[1]</a></sup>
 
-Trong [2024](../_/2024.md), bài thơ được tái bản vào tháng 9 dưới dạng mục 148 của *[The Collected Poems of J.R.R. Tolkien](../T/The_Collected_Poems_of_J.R.R._Tolkien.md)*, trong đó Hammond và Scull ví tâm trạng của bài thơ với "một mùa đông nước Anh" và so sánh nó với 'A Christmas Carol' của Christina Rossetti từ năm 1872.<sup id="cite_ref-collectedpoems_2-1" class="reference"><a href="#cite_note-collectedpoems-2">[2]</a></sup>
+Trong [2024](../_/2024.md), bài thơ được tái bản trong tháng Chín dưới dạng mục 148 của *[The Collected Poems of J.R.R. Tolkien](../T/The_Collected_Poems_of_J.R.R._Tolkien.md)*, trong đó Hammond và Scull ví tâm trạng của bài thơ với "một mùa đông nước Anh" và so sánh nó với 'A Christmas Carol' của Christina Rossetti từ năm 1872.<sup id="cite_ref-collectedpoems_2-1" class="reference"><a href="#cite_note-collectedpoems-2">[2]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 

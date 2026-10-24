@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Thain"
 ---
 
-Chuyển hướng đến [Thin](../T/Thain.md).
+Chuyển hướng đến [Thain](../T/Thain.md).

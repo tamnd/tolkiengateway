@@ -27,7 +27,7 @@ sort_keys:
 
 ## Có cùng nguồn gốc {#Cognates}
 
-- [Tiếng Sindarin](../S/Sindarin.md) *[mîr](Mîr.md)*
+- [Sindarin](../S/Sindarin.md) *[mîr](Mîr.md)*
 
 ## Công cụ phái sinh {#Derivatives}
 
@@ -36,7 +36,7 @@ sort_keys:
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong [*Etymologies*](../T/The_Etymologies.md) xuất hiện Quenya *míre* ("ngọc quý, vật quý giá, kho báu").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Trong [*Etymologies*](../T/The_Etymologies.md) xuất hiện Quenya *míre* ("ngọc quý, vật quý, kho báu").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

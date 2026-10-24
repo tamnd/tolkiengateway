@@ -18,15 +18,15 @@ sort_keys:
   "People by name": "Hunnewell, Gary Sumner"
 ---
 
-**Sumner Gary Hunnewell (còn gọi là Hildifons Took)** là một học giả về fandom Tolkien người Mỹ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Sumner Gary Hunnewell (hay còn gọi là Hildifons Took)** là một học giả về fandom Tolkien người Mỹ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Tiểu sử {#Biography}
 
-Sumner Gary Hunnewell, sống ở Missouri, Hoa Kỳ, là một học giả về fandom Tolkien người Mỹ. Ông đã sưu tầm và xuất bản trên fandom Tolkien trong những thập kỷ gần đây. Ông cũng đã làm việc với [Đại học Marquette](../M/Marquette_University.md) để mở rộng kho lưu trữ J.R.R. Tolkien của họ.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Sumner Gary Hunnewell cũng đang làm việc với Đại học Marquette để lưu trữ bộ sưu tập của ông trên vi phim.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Sumner Gary Hunnewell, sống ở Missouri, Hoa Kỳ, là một học giả về fandom Tolkien người Mỹ. Ông đã sưu tầm và xuất bản trên Tolkien fandom trong những thập kỷ gần đây. Ông cũng đã làm việc với [Đại học Marquette](../M/Marquette_University.md) để mở rộng kho lưu trữ J.R.R. Tolkien của họ.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Sumner Gary Hunnewell cũng đang làm việc với Đại học Marquette để lưu trữ bộ sưu tập của ông trên vi phim.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
-## Hiệp hội Tolkien New England / Beyond Bree {#New_England_Tolkien_Society_/_Beyond_Bree}
+## Xã hội Tolkien New England / Beyond Bree {#New_England_Tolkien_Society_/_Beyond_Bree}
 
-Sumner Gary Hunnewell là/là động lực thúc đẩy [Hiệp hội Tolkien New England](../N/New_England_Tolkien_Society.md). Năm 2002, Sumner Gary Hunnewell nhận được giải thưởng [Beyond Bree](../B/Beyond_Bree.md). Sumner Gary Hunnewell cũng đồng tổ chức Beyond [Bree Moots](../B/Bree_Moot.md) vào những năm 1990.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Sumner Gary Hunnewell là/là động lực thúc đẩy [Hiệp hội Tolkien New England](../N/New_England_Tolkien_Society.md). Năm 2002 Sumner Gary Hunnewell nhận được giải thưởng [Beyond Bree](../B/Beyond_Bree.md). Sumner Gary Hunnewell cũng đồng tổ chức Beyond [Bree Moots](../B/Bree_Moot.md) vào những năm 1990.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 ## Thư mục {#Bibliography}
 
@@ -49,12 +49,12 @@ Sumner Gary Hunnewell đã xuất bản nhiều bài báo và ấn phẩm trong 
 - *Tolkien Fandom Review 1964*<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 - *Tolkien Fandom Review 1965*<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
 - *Tolkien Fandom Review 1966*<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
-- Từ kho lưu trữ của Hildifons Took, trước đây của Tuckborough: Bộ sưu tập các vật phẩm được tìm thấy trong các fanzines không phải của Tolkien, được viết và vẽ bởi những người hâm mộ và sinh viên của tác phẩm của J.R.R. Tolkien
-- *Hoạt động và ấn phẩm học thuật và hoạt động của người hâm mộ Tolkien 1992*<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
+- Từ Kho lưu trữ của Hildifons Took, Trước đây của Tuckborough: Bộ sưu tập các vật phẩm được tìm thấy trong các tạp chí không phảiTolkien dành cho người hâm mộ, được viết và vẽ bởi Người hâm mộ và Sinh viên của Tác phẩm J.R.R. Tolkien
+- *Tolkien Hoạt động và ấn phẩm mang tính học thuật và hâm mộ 1992*<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
 
 ### Đố vui {#Trivia}
 
-Sumner Gary Hunnewell là nam tước Vương quốc thống nhất Gondor và Arnor (một mạng lưới Tolkien từ cuối những năm 1990 đến năm 2001) và đã đàm phán Hiệp ước Đại học Keble với [Tolkien Society Forodrim](../F/Forodrim.md) vào năm 1992.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> Đại học Marquette duy trì một bộ sưu tập các ấn phẩm của cộng đồng người hâm mộ Tolkien để vinh danh ông.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>
+Sumner Gary Hunnewell là nam tước Vương quốc Thống nhất của Gondor và Arnor (một mạng lưới Tolkien từ cuối những năm 1990 đến năm 2001) và đã đàm phán Hiệp ước Đại học Keble với [Tolkien Hiệp hội Forodrim](../F/Forodrim.md) vào năm 1992.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> Đại học Marquette duy trì một bộ sưu tập Tolkien ấn phẩm của fandom để vinh danh ông.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>
 
 <span></span>
 

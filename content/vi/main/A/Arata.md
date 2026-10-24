@@ -19,7 +19,7 @@ categories:
 
 - <i><a class="mw-redirect" href="Artaher.md" title="Artaher"><b>Arta</b>bà</a></i> = "Chúa tể cao quý"
 - <i><a class="mw-redirect" href="Artanis.md" title="Artanis"><b>Arta</b>nis</a></i> = "Người phụ nữ cao quý"
-- <i><a href="../V/Varda.md" title="Varda">Varda <b>Arata</b>rya</a></i> = "Varda trong sự thăng hoa của bà"
+- <i><a href="../V/Varda.md" title="Varda">Varda <b>Arata</b>rya</a></i> = "Varda ở sự thăng hoa của bà"
 
 ## Xem thêm {#See_also}
 

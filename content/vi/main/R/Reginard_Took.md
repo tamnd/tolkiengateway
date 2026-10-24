@@ -43,11 +43,11 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../H/Hobbits.md" title="Hobbits">Hobbit</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Reginard Took</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../T/The_Shire.md" title="The Shire">The Shire</a></td></tr><tr><th scope="row" class="tg-infobox-label">Birth</th><td class="tg-infobox-data"><a class="mw-redirect" href="../S/Shire_Reckoning.md" title="Shire Reckoning">S.R.</a> <a href="../T/Third_Age_2969.md" title="Third Age 2969">1369</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">Family</th><td class="tg-infobox-data"><a href="../T/Took_Family.md" title="Took Family">Took</a></td></tr><tr><th scope="row" class="tg-infobox-label">Parentage</th><td class="tg-infobox-data"><a href="../A/Adelard_Took.md" title="Adelard Took">Adelard Took</a></td></tr><tr><th scope="row" class="tg-infobox-label">Siblings</th><td class="tg-infobox-data"><a href="../E/Everard_Took.md" title="Everard Took">Everard</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr></tbody></table>
 
-**Reginard Took** là một [Hobbit](../H/Hobbits.md) của [Quận](../T/The_Shire.md).
+**Reginard Took** là [Hobbit](../H/Hobbits.md) của [ Shire](../T/The_Shire.md).
 
 ## Lịch sử {#History}
 
-Reginard là con trai của [Adelard Took](../A/Adelard_Took.md). Ông đã có mặt tại [Bilbo's](../B/Bilbo_Baggins.md) [Tiệc chia tay](../B/Bilbo's_Farewell_Party.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Reginard là con trai của [Adelard Took](../A/Adelard_Took.md). Ông đã có mặt tại bữa tiệc chia tay của [Bilbo](../B/Bilbo_Baggins.md) [Bữa tiệc chia tay](../B/Bilbo's_Farewell_Party.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

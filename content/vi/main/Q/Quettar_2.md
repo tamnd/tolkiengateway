@@ -26,8 +26,8 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span><i>Quettar</i>: Issue 2</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../S/Susan_Rule.md" title="Susan Rule">Susan Rule</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Tolkien Society</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../M/May.md" title="May">May</a> <a href="../_/1980.md" title="1980">1980</a></td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">2</td></tr></tbody></table>
 
-<b><i>Quettar</i>: Số 2</b> là ấn phẩm của *[Quettar](Quettar.md)*, bản tin của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) nhóm ngôn ngữ và Tengwar, do [Susan Rule](../S/Susan_Rule.md) biên tập.
+<b><i>Quettar</i>: Số 2</b> là ấn phẩm của *[Quettar](Quettar.md)*, bản tin của [nhóm Tolkien xã hội](../T/The_Tolkien_Society.md) ngôn ngữ và Tengwar, được biên tập bởi [Susan Rule](../S/Susan_Rule.md).
 
 ## Nội dung {#Contents}
 
-Đây là bản tin giới thiệu, trình bày các kế hoạch và ý tưởng cho các thành viên của Hiệp hội Tolkien.
+Đây là bản tin giới thiệu, trình bày các kế hoạch và ý tưởng cho các thành viên Hội Tolkien.

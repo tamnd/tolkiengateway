@@ -31,7 +31,7 @@ infobox:
 **Mythcon 47** là hội nghị [Hiệp hội thần thoại](Mythopoeic_Society.md) thường niên lần thứ 47.
 
 - **Chủ đề:** "Những gương mặt thần thoại: Cổ đại, Trung cổ và Hiện đại"
-- **Khách mời danh dự:** Midori Snyder (tác giả truyện giả tưởng) và Andrew Lazo (học giả Inklings)
+- **Khách mời danh dự:** Midori Snyder (tác giả truyện giả tưởng) và Andrew Lazo (học giảInklings)
 
 ## Liên kết ngoài {#External_links}
 

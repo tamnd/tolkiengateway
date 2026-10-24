@@ -35,7 +35,7 @@ Vào [21 tháng 12](../_/21_December.md) [1967](../_/1967.md), [J.R.R. Tolkien](
 
 ## Xem thêm {#See_also}
 
-- [Thư gửi Elsie Honeybourne (18 tháng 9 năm 1967)](<Letter_to_Elsie_Honeybourne_(18_September_1967).md>)
+- [Thư gửi Elsie Honeybourne (18 tháng Chín 1967)](<Letter_to_Elsie_Honeybourne_(18_September_1967).md>)
 
 <span></span>
 

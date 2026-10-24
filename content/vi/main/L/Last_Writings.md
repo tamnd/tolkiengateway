@@ -51,4 +51,4 @@ images:
 <li><a href="../T/Tal-Elmar_(chapter).md" title="Tal-Elmar (chapter)">Tal-Elmar</a></li></ol>
 </td></tr></tbody></table>
 
-**Những bài viết cuối cùng** là chương thứ mười ba của *[The Peoples of Middle-earth](../T/The_Peoples_of_Middle-earth.md)*. Nó chứa ba bản thảo từ năm cuối đời của Tolkien: "Glorfindel" (hai văn bản riêng biệt và hai ghi chú ngắn gọn), "Năm pháp sư" và "Círdan".
+**Những bài viết cuối cùng** là chương thứ mười ba của *[The Peoples of Middle-earth](../T/The_Peoples_of_Middle-earth.md)*. Nó chứa ba bản thảo từ năm cuối đời của Tolkien: "Glorfindel" (hai văn bản riêng biệt và hai ghi chú ngắn gọn), "The Five Pháp sư" và "Círdan".

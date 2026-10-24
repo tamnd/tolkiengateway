@@ -13,30 +13,30 @@ categories:
   - "Albums"
 ---
 
-<i><b>Âm nhạc lấy cảm hứng từ Trung Địa</b></i> là một album có sự góp mặt của [David Arkenstone](../D/David_Arkenstone.md), phát hành vào năm [2001](../_/2001.md). Âm nhạc dựa trên cuốn tiểu thuyết giả tưởng sử thi *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
+<i><b>Âm nhạc lấy cảm hứng từ Trung Địa</b></i> là album có sự góp mặt của [David Arkenstone](../D/David_Arkenstone.md), phát hành vào năm [2001](../_/2001.md). Âm nhạc dựa trên cuốn tiểu thuyết giả tưởng hoành tráng *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
 ## Danh sách bản nhạc {#Track_listing}
 
-1. "Khúc dạo đầu: Người Hobbit đến từ Quận" – 4:08
+1. "Khởi đầu: Hobbit từ Shire" – 4:08
 2. "Đường tới Rivendell" – 3:39
 3. "Nhiệm vụ" – 5:28
 4. "Moria" – 5:02
 5. "Lothlórien" – 4:18
-6. "Gương của Galadriel" – 4:32
-7. "Kỵ sĩ Rohan" – 4:24
-8. "The Palantír" – 4:50
+6. "Gương củaGaladriel" – 4:32
+7. "Những kỵ sĩ của Rohan" – 4:24
+8. "Cái Palantír" – 4:50
 9. "Arwen và Aragorn" – 3:29
 10. "Tới Isengard" – 4:25
-11. "Trong vùng đất bóng tối" – 4:22
-12. "Cánh đồng Cormallen" – 3:33
-13. "Những thiên đường xám" – 3:37
+11. "Ở vùng đất Bóng Tối" – 4:22
+12. "Cái Cánh đồng Cormallen" – 3:33
+13. "Cái Cảng Xám" – 3:37
 
-- Tất cả các bản nhạc do Diane và David Arkenstone sáng tác
+- Tất cả các bản nhạc do Diane và David sáng tác Arkenstone
 
 ## Nhân sự {#Personnel}
 
 - [David Arkenstone](../D/David_Arkenstone.md) - keyboard, guitar, còi, sáo, melodica, mandolin, bouzouki, bộ gõ
-- Diane Arkenstone - keyboard, đàn piano, giọng hát, chuông
+- Diane Arkenstone - đàn phím, đàn dulcimer, giọng hát, chuông
 - Don Markese - bawu, duduk, bansuri, ocarina
 - John Wakefield - bộ gõ
 - Erica Foss, Ian Beyer, Adam Loovis, Jackie Randall, Donna Shubert, Sherie Tate, David Watkins, Dawn Davis, Sue Kendall, Daniel McConnell, Angela Niles, Deborah Powell - violin

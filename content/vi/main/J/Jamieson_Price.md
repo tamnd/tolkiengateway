@@ -22,7 +22,7 @@ sort_keys:
 
 ## Vai trò {#Roles}
 
-- [2004](../_/2004.md): *[The Lord of the Rings: War of the Ring](../T/The_Lord_of_the_Rings%253A_War_of_the_Ring.md)*: [Aragorn](../A/Aragorn.md), Chủ nô lệ yêu tinh (Hướng dẫn)
+- [2004](../_/2004.md): *[The Lord of the Rings: War of the Ring](../T/The_Lord_of_the_Rings%253A_War_of_the_Ring.md)*: [Aragorn](../A/Aragorn.md), Goblin Slavemaster (Hướng dẫn)
 
 ## Liên kết ngoài {#External_links}
 

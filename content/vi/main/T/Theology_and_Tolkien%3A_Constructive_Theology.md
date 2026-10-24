@@ -46,22 +46,22 @@ infobox:
 - **Giới thiệu** của Douglas Estes
 - **Aman**
     - “Tự do và trung thành: Sự ứng biến trong *Ainulindalë*” của Bradley K. Broadhead
-    - “‘Khi mọi thứ gặp nguy hiểm, ai đó phải từ bỏ chúng’: Sự cứu chuộc và hệ sinh thái trong truyền thuyết của Tolkien” của Alison Milbank
-    - “Phê bình thần học của Tolkien” của Austin M. Freeman
-    - “Trong bóng tối rực rỡ của sự im lặng tiềm ẩn: Xu hướng thờ ơ của J.R.R. Tolkien” của Douglas Estes
-    - “Gandalf, Sauron, Melian và Balrog trong vai những thiên thần: Nghiên cứu về Maiar của J.R.R. Tolkien trong bối cảnh Thiên thần học trong Kinh thánh” của Charlie Trimm
+    - “‘Khi mọi thứ gặp nguy hiểm, ai đó phải từ bỏ chúng’: Sự cứu chuộc và hệ sinh thái trong Tolkien Legendarium” của Alison Milbank
+    - “Phê bình thần học Tolkien” của Austin M. Freeman
+    - “Trong Bóng Tối rực rỡ của sự im lặng tiềm ẩn: Xu hướng thờ ơ của J.R.R. Tolkien” của Douglas Estes
+    - “Gandalf, Sauron, Melian và Balrog với tư cách là Thiên thần: Nghiên cứu về Maiar của J.R.R. Tolkien trong bối cảnh Thiên thần học trong Kinh thánh” của Charlie Trimm
 - **Erebor**
     - “Valkyrie Marian: Thần học về nữ tính anh hùng của Tolkien" của Lisa Coutras
-    - “Những bài hát về ánh sáng và bóng tối: Trí tưởng tượng và phép ẩn dụ thần học trong J.R.R. Tolkien” của Beth M. Stovell
+    - “Những bài hát về ánh sáng và Bóng Tối: Trí tưởng tượng và phép ẩn dụ thần học trong J.R.R. Tolkien” của Beth M. Stovell
     - “Cơ đốc giáo và ngoại giáo trong *The Silmarillion* và *The Lord of the Rings*: Một loại hình học dựa trên Chúa Kitô và văn hóa của Niebuhr” bởi Allan M. de Novaes, Milton L. Torres và João Fernando O. Barboza
-    - “Nhận thức vật chất và phi vật chất ở Trung Địa” của Adam B. Shaeffer
+    - “Nhận thức vật chất và phi vật chất trong Trung Địa” của Adam B. Shaeffer
     - “Cơ hội để siêu trần thuật chứng tỏ chất lượng của nó” của Jeremy M. Rios
 - **Ithilien**
-    - “'Một suy nghĩ đáng khích lệ': Sự tương tác giữa Thượng đế và Ý chí Tự do ở Trung Địa" của Devin Brown
-    - “Sức mạnh cứu chuộc của tình yêu: Arwen trong vai Phản đêm giao thừa trong *Lord of the Rings* của Peter Jackson” của Julie Loveland Swanstrom
+    - “'Một suy nghĩ đáng khích lệ': Sự tương tác giữa Thượng đế và Ý chí Tự do trong Trung Địa” của Devin Brown
+    - “Sức mạnh cứu chuộc của tình yêu: Arwen trong vai Phản đêm giao thừa trong Peter Jackson của *Lord of the Rings*” của Julie Loveland Swanstrom
     - “Sự lười biếng về tinh thần và sự siêng năng trong công việc của Tolkien” của Martina Juričková
     - “Cái ác và sự rơi vào bạo lực trong thần thoại của Tolkien” của John C. McDowell
-    - “Một đất nước xanh xa xôi: Ngày tận thế của Trung Địa của Tolkien” của Donald T. Williams
+    - “Một đất nước xanh xa: Mạt thế của Tolkien Trung Địa” của Donald T. Williams
 
 <h2><span id="Publisher.27s_description"></span><span class="mw-headline" id="Publisher&#39;s_description">Publisher&#39;s description</span></h2>
 
@@ -81,7 +81,7 @@ infobox:
  <p>Douglas Estes has done commendable work in assembling this substantial and useful volume, which takes an appropriately nuanced approach to exploring theological ideas in Tolkien’s work. The contributors draw helpfully not just from <i>The Lord of the Rings</i> but also from Tolkien&#39;s larger legendarium, and gain insights from placing his writings in dialogue with various theological approaches.</p>
 </blockquote>
 
-###### <small>— Holly Ordway, Đại học Houston Christian, tác giả cuốn <i>Niềm tin của Tolkien: Tiểu sử tâm linh</i></small> {#—_Holly_Ordway,_Houston_Christian_University,_author_of_Tolkien’s_Faith:_A_Spiritual_Biography}
+###### <small>— Holly Ordway, Đại học Houston Christian, tác giả cuốn sách Niềm tin của <i>Tolkien: Tiểu sử tâm linh</i></small> {#—_Holly_Ordway,_Houston_Christian_University,_author_of_Tolkien’s_Faith:_A_Spiritual_Biography}
 
 <blockquote class="tg-quote noexcerpt">
  <p>Each of the fine essays in this collection both reflects and refracts the divine light so many have encountered through Tolkien&#39;s mythos. A must for any theologically minded Tolkien reader!</p>

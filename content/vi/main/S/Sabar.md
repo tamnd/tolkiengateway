@@ -13,14 +13,14 @@ categories:
   - "Sindarin nouns"
 ---
 
-<i><b>sabar</b></i> (hoặc <i><b>habar</b></i>)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> là một từ [Sindarin](Sindarin.md) chưa được chứng thực có thể có nghĩa là "khai thác mỏ", được xây dựng lại từ một phần tử tìm thấy trong các tên ghép <i><a href="../A/Anghabar.md" title="Anghabar">Ang<b>habar</b></a></i> và <i><a class="mw-redirect" href="../N/Nornhabar.md" title="Nornhabar">Norn<b>habar</b></a></i>.<sup id="cite_ref-DW_2-0" class="reference"><a href="#cite_note-DW-2">[1]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup>
+<i><b>sabar</b></i> (hoặc <i><b>habar</b></i>)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> là một từ [Sindarin](Sindarin.md) chưa được chứng thực có thể có nghĩa là "mỏ đã được khai thác", được xây dựng lại từ một phần tử có trong các tên ghép <i><a href="../A/Anghabar.md" title="Anghabar">Ang<b>habar</b></a></i> và <i><a class="mw-redirect" href="../N/Nornhabar.md" title="Nornhabar">Norn<b>habar</b></a></i>.<sup id="cite_ref-DW_2-0" class="reference"><a href="#cite_note-DW-2">[1]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup>
 
-Lưu ý rằng từ này còn gây tranh cãi vì nó chỉ xuất hiện trong các từ ghép này. [Didier Willis](../D/Didier_Willis.md) đã gợi ý rằng [Tolkien](../J/J.R.R._Tolkien.md) có lẽ đã sử dụng lại từ gốc [Qenya](../Q/Qenya.md) SAPA "đào, khai quật"<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup> làm cơ sở cho từ này.<sup id="cite_ref-DW_2-1" class="reference"><a href="#cite_note-DW-2">[1]</a></sup> Điều này có vẻ có khả năng xảy ra, vì SAP- và một dẫn xuất *sapnā* xuất hiện trở lại vào những năm 1950 *Outline of Phonology* làm nguồn cho *samna* "lỗ đào, hố".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup>
+Lưu ý rằng từ này còn gây tranh cãi vì nó chỉ xuất hiện trong các từ ghép này. [Didier Willis](../D/Didier_Willis.md) đã gợi ý rằng [Tolkien](../J/J.R.R._Tolkien.md) có lẽ đã sử dụng lại [Qenya](../Q/Qenya.md) gốc SAPA "đào, khai quật"<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup> làm cơ sở cho từ này.<sup id="cite_ref-DW_2-1" class="reference"><a href="#cite_note-DW-2">[1]</a></sup> Điều này có vẻ có khả năng xảy ra, vì SAP- và một từ phái sinh *sapnā* xuất hiện trở lại vào những năm 1950 *Outline of Phonology* làm nguồn cho *samna* "hố đào, hố".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup>
 
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><i>S</i> thường biến đổi thành <i>H</i> trong tiếng Sindarin.</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><i>S</i> thường biến đổi thành <i>H</i> trong Sindarin.</span>
 </li>
 </ol></div></span>
 

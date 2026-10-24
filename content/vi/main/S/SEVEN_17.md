@@ -41,7 +41,7 @@ infobox:
 
 <i><b>SEVEN 17</b></i> là số thứ mười bảy của tạp chí hàng năm của [Trung tâm Marion E. Wade](../M/Marion_E._Wade_Center.md) *[SEVEN](SEVEN.md)*, xuất bản trên [2000](../_/2000.md).<sup id="cite_ref-jstor_1-2" class="reference"><a href="#cite_note-jstor-1">[1]</a></sup>
 
-Bài viết "Tolkien và Esperanto" in lại bức thư của [Tolkien](../J/J.R.R._Tolkien.md) "[Một nhà ngữ văn về Esperanto](../A/A_Philologist_on_Esperanto.md)", đồng thời bao gồm các trích dẫn từ [Sách của Foxrook](../B/Book_of_the_Foxrook.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Bài viết "Tolkien và Esperanto" in lại lá thư của [Tolkien](../J/J.R.R._Tolkien.md)"[Một nhà ngữ văn về Esperanto](../A/A_Philologist_on_Esperanto.md)", đồng thời bao gồm các trích dẫn từ [Sách của Foxrook](../B/Book_of_the_Foxrook.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Nội dung {#Contents}
 

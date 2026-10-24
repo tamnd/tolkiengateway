@@ -12,7 +12,7 @@ categories:
   - "Tolkien Societies"
 ---
 
-[Hiệp hội Tolkien](../T/Tolkien_Societies~67099.md) Mexico hoạt động vào năm 2023 vì đây là hoạt động trên trang Facebook.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Trang web của họ cũng không liệt kê hoạt động nào sau năm 2021 nhưng có vẻ như họ hiện đang sử dụng mạng xã hội.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+[Tolkien Hiệp hội](../T/Tolkien_Societies~67099.md) Mexico hoạt động vào năm 2023 vì đây là hoạt động trên trang Facebook.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Trang web của họ cũng không liệt kê hoạt động nào sau năm 2021 nhưng có vẻ như họ hiện đang sử dụng mạng xã hội.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Tài liệu tham khảo {#References}
 

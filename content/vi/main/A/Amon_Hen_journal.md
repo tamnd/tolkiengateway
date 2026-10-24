@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Amon Hen (journal)"
 ---
 
-Chuyển hướng tới [Amon Hen (tạp chí)](<Amon_Hen_(journal).md>).
+Chuyển hướng đến [Amon Hen (tạp chí)](<Amon_Hen_(journal).md>).

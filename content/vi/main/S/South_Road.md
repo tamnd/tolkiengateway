@@ -29,22 +29,22 @@ images:
 
 <figure class="mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_-_Minas-tirith.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/99/J.R.R._Tolkien_-_Minas-tirith.jpg/180px-J.R.R._Tolkien_-_Minas-tirith.jpg" decoding="async" loading="lazy" width="180" height="206" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/99/J.R.R._Tolkien_-_Minas-tirith.jpg/270px-J.R.R._Tolkien_-_Minas-tirith.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/9/99/J.R.R._Tolkien_-_Minas-tirith.jpg/360px-J.R.R._Tolkien_-_Minas-tirith.jpg 2x" data-file-width="2634" data-file-height="3011"/></a><figcaption><i>Map of part of Gondor</i> by <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></figcaption></figure>
 
-Nó đi qua [Rammas Echor](../R/Rammas_Echor.md), chạy song song với sông Anduin và vượt sông [Erui](../E/Erui.md) tại [Giao lộ Erui](../C/Crossings_of_Erui.md) trước khi đến [Pelargir](../P/Pelargir.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[1]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup>
+Nó đi qua [Rammas Echor](../R/Rammas_Echor.md), chạy song song với Anduin và vượt sông [Erui](../E/Erui.md) tại [Giao lộ Erui](../C/Crossings_of_Erui.md) trước khi đến [Pelargir](../P/Pelargir.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[1]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup>
 
-Đó là đường cao tốc chính của Minas Tirith, được trải nhựa tốt và đủ rộng cho ba hàng xe kéo. Một đường đua rộng rãi màu xanh lá cây chạy dọc theo rìa phía đông của nó.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup>
+Đó là đường cao tốc chính của Minas Tirith, được trải nhựa tốt và đủ rộng cho ba hàng xe. Một đường đua rộng rãi màu xanh lá cây chạy dọc theo rìa phía đông của nó.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup>
 
-Trong [Chiến tranh Nhẫn](../W/War_of_the_Ring.md), trước [Cuộc vây hãm Gondor](Siege_of_Gondor.md), các thuyền trưởng của [Outlands](Southern_Fiefs.md) dự kiến ​​sẽ đến Minas Tirith trên Đường Nam.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup>
+Trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), trước [Cuộc vây hãm Gondor](Siege_of_Gondor.md), các thuyền trưởng của [Outlands](Southern_Fiefs.md) dự kiến ​​sẽ đến Minas Tirith trên Đường Nam.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
+<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>From <a href="../M/Minas_Tirith.md" title="Minas Tirith">Minas Tirith</a>, the road passes through <a class="mw-redirect mw-disambig" href="../H/Harlond.md" title="Harlond">Harlond</a> and continues to <a class="mw-redirect" href="../A/Arnach.md" title="Arnach">Arnach</a>, the major town of <a href="../L/Lossarnach.md" title="Lossarnach">Lossarnach</a>. After crossing into <a href="../L/Lebennin.md" title="Lebennin">Lebennin</a>, the road runs past a small farming village of &#34;Glaniath&#34; before arriving to the east gate of <a href="../P/Pelargir.md" title="Pelargir">Pelargir</a>.</dd></dl>
 
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Tên "South Road" chỉ được <a href="../B/Bergil.md" title="Bergil">Bergil</a> sử dụng trong câu chuyện; con đường có thể là "Con đường phía Nam" lại không được đặt tên trên Bản đồ Rohan, Gondor và Mordor, Bản đồ tổng quát về Trung địa và bản đồ Phía tây Trung địa vào cuối Thời đại thứ ba. Tuy nhiên, nó được đặt tên trên Bản đồ của một phần Gondor được vẽ bởi <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> trong quá trình viết Chúa tể của những chiếc nhẫn. Ngoài ra, bối cảnh của câu chuyện làm cho sự nhận dạng này trở nên rõ ràng. Cf. <a href="../R/Robert_Foster.md" title="Robert Foster">Robert Foster</a>, <i><a href="../T/The_Complete_Guide_to_Middle-earth.md" title="The Complete Guide to Middle-earth">Hướng dẫn đầy đủ về Trung Địa</a></i>, tr. 363</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Tên "South Road" chỉ được <a href="../B/Bergil.md" title="Bergil">Bergil</a> sử dụng trong câu chuyện; con đường có thể là "Con đường phía Nam" không có tên trên Bản đồ Rohan, Gondor và Mordor, Bản đồ tổng hợp Trung Địa và Bản đồ Phương Tây của Trung Địa ở Cuối Kỷ Đệ Tam. Tuy nhiên, nó được đặt tên trên Bản đồ của một phần Gondor được vẽ bởi <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> trong quá trình viết The Lord of the Rings. Ngoài ra, bối cảnh của câu chuyện làm cho sự nhận dạng này trở nên rõ ràng. Cf. <a href="../R/Robert_Foster.md" title="Robert Foster">Robert Foster</a>, <i><a href="../T/The_Complete_Guide_to_Middle-earth.md" title="The Complete Guide to Middle-earth">Hướng dẫn đầy đủ về Trung Địa</a></i>, tr. 363</span>
 </li>
 </ol></div></span>
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Haleth"
 ---
 
-Chuyển hướng tới [Haleth](Haleth.md).
+Chuyển hướng đến [Haleth](Haleth.md).

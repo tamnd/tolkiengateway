@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Second Age 799"
 ---
 
-Chuyển hướng đến [Tuổi thứ hai 799](Second_Age_799.md).
+Chuyển hướng tới [Kỷ Đệ Nhị 799](Second_Age_799.md).

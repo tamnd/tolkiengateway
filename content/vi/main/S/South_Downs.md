@@ -40,11 +40,11 @@ infobox:
 
 **South Downs** là một dãy đồi chạy qua khu vực trung tâm của [Eriador](../E/Eriador.md). Đó là một vùng đất hoang vắng, ảm đạm với thảm thực vật khan hiếm.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Đi bộ dọc theo [Đường Đông Tây](../E/East-West_Road.md) từ [Bree](../B/Bree.md) đến [Weather Hills](../W/Weather_Hills.md), người ta có thể nhìn thấy Downs ở phía nam. [Greenway](../G/Greenway.md), chạy qua [Andrath](../A/Andrath.md), đã tách South Downs khỏi [Barrow-down](../B/Barrow-downs.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Đi dọc theo [phương Đông-Phương Tây Đường](../E/East-West_Road.md) từ [Bree](../B/Bree.md) đến [Weather Hills](../W/Weather_Hills.md), người ta có thể nhìn thấy Downs ở phía nam. [Greenway](../G/Greenway.md), chạy qua [Andrath](../A/Andrath.md), đã tách South Downs khỏi [Barrow-downs](../B/Barrow-downs.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2022: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
+<b>2022: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>South Downs is an area in the <a href="../C/Cardolan.md" title="Cardolan">Cardolan</a> region. It is dotted with ruins of grand ancient keeps while the only current inhabitants are scattered farmers.</dd></dl>
 

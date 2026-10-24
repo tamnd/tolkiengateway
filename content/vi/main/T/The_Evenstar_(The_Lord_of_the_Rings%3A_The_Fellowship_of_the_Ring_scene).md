@@ -35,4 +35,4 @@ infobox:
 
 ## Tóm tắt {#Synopsis}
 
-[Arwen](../A/Arwen.md) và [Aragorn](../A/Aragorn.md) cam kết tình yêu của họ với nhau trên một cây cầu ở [Rivendell](../R/Rivendell.md). Arwen trao cho Aragorn chiếc vòng cổ Evenstar như một biểu tượng cho sự lựa chọn của cô để trở thành phàm nhân vì anh. Aragorn nhận thức được món quà này có trọng lượng như thế nào nhưng vẫn chấp nhận nó theo sự nài nỉ của cô. Họ chia sẻ một nụ hôn.
+[Arwen](../A/Arwen.md) và [Aragorn](../A/Aragorn.md) cam kết tình yêu với nhau trên một cây cầu ở [Rivendell](../R/Rivendell.md). Arwen trao Aragorn chiếc vòng cổ Evenstar như một biểu tượng cho sự lựa chọn của cô để trở thành người phàm cho ông ta. Aragorn nhận thức được món quà này có ý nghĩa như thế nào nhưng vẫn chấp nhận nếu bà nhất quyết. Họ chia sẻ một nụ hôn.

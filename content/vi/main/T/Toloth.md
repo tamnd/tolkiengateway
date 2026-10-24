@@ -53,7 +53,7 @@ Trong [Noldorin](../N/Noldorin.md), tiền thân của Sindarin, "tám" là <i><
 
 ## Phiên bản khác {#Other_versions}
 
-Tolkien không chắc chắn về phụ âm cuối của gốc từ.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Tolkien không chắc chắn về phụ âm cuối của gốc.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

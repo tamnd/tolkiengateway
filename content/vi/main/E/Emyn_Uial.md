@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hills of Evendim"
 ---
 
-Chuyển hướng tới [Những ngọn đồi của Evendim](../H/Hills_of_Evendim.md).
+Chuyển hướng đến [Đồi Evendim](../H/Hills_of_Evendim.md).

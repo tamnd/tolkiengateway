@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Kulisz, Anna"
 ---
 
-- Anna Kulisz đã vui lòng cho phép cô sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Anna_Kulisz.md) trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
+- Anna Kulisz đã vui lòng cho phép cô sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Anna_Kulisz.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Ngày: 31 tháng 8 năm 2014
 - Người dùng đã xin phép qua email: [Người dùng: Mith](https://tolkiengateway.net/wiki/User:Mith)

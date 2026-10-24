@@ -27,7 +27,7 @@ Vào [6 tháng 5](../_/6_May.md) [1966](../_/1966.md), [J.R.R. Tolkien](../J/J.R
 
 Kính gửi ông Snapp, Cảm ơn rất nhiều về lá thư của ông. Tôi rất vui khi biết được sự quan tâm của các sinh viên chưa tốt nghiệp tại Yale đối với công việc của tôi.
 
-Về đề xuất của bạn: Bản thân tôi không giải quyết những vấn đề thuộc loại đó. Chúng nằm trong tay các nhà xuất bản của tôi: Messrs. Allen & Unwin, Ltd., 40 Museum Street, London, W.C.1. Tôi đang chuyển tiếp bản sao lá thư của bạn cho họ và tôi hy vọng bạn sẽ nhận được phản hồi từ họ vào thời điểm thích hợp. Với những lời chúc tốt đẹp nhất, Trân trọng, J.R.R. Tolkien
+Về đề xuất của bạn: Bản thân tôi không giải quyết những vấn đề thuộc loại đó. Chúng nằm trong tay các nhà xuất bản của tôi: Messrs. Allen &amp; Unwin, Ltd., 40 Museum Street, London, W.C.1. Tôi đang chuyển tiếp bản sao lá thư của bạn cho họ và tôi hy vọng bạn sẽ nhận được phản hồi từ họ vào thời điểm thích hợp. Với những lời chúc tốt đẹp nhất, Trân trọng, J.R.R. Tolkien
 
 <span></span>
 

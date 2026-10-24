@@ -62,7 +62,7 @@ Sự kiện xảy ra vào ngày 18 tháng 4.
 
 ## Trên Trái đất {#On_Earth}
 
-- **[1917](1917.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và [Christopher Wiseman](../C/Christopher_Wiseman.md), Great Twin Brethren, gặp nhau ở Harrogate và thảo luận về số phận của [Barrovians](../T/T.C.B.S..md) cũng như tương lai của Hội.
+- **[1917](1917.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và [Christopher Wiseman](../C/Christopher_Wiseman.md), Cặp anh em song sinh vĩ đại, gặp nhau ở Harrogate và thảo luận về số phận của [Barrovians](../T/T.C.B.S..md) cũng như tương lai của Hội.
 - **[1930](1930.md)** - Diễn viên lồng tiếng [Clive Revill](../C/Clive_Revill.md) ra đời.
 - **[1944](1944.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 61](../L/Letter_61.md).
 - **[1945](1945.md)** - Người vẽ bản đồ nghiệp dư [Karen Wynn Fonstad](../K/Karen_Wynn_Fonstad.md) ra đời.

@@ -40,7 +40,7 @@ infobox:
   <tr><th scope="row" class="tg-infobox-label">Published</th><td class="tg-infobox-data"><i><a href="../T/The_Collected_Poems_of_J.R.R._Tolkien.md" title="The Collected Poems of J.R.R. Tolkien">The Collected Poems of J.R.R. Tolkien</a></i></td></tr>
 </tbody></table>
 
-<i><b>Bài hát buổi sáng</b></i><sup id="cite_ref-collectedpoems_1-1" class="reference"><a href="#cite_note-collectedpoems-1">[1]</a></sup> là một bài thơ được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) lúc đầu vào [1910](../_/1910.md) cho đến [1915](../_/1915.md).
+<i><b>Bài hát buổi sáng</b></i><sup id="cite_ref-collectedpoems_1-1" class="reference"><a href="#cite_note-collectedpoems-1">[1]</a></sup> là một bài thơ được [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết lúc đầu vào [1910](../_/1910.md) cho đến [1915](../_/1915.md).
 
 ## Trích đoạn thơ {#Poem_excerpt}
 

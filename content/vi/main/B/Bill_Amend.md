@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Amend, Bill"
 ---
 
-**William "Bill" J. C. Amend III** ([20 tháng 9](../_/20_September.md), [1962](../_/1962.md)) là một họa sĩ truyện tranh người Mỹ có chuyên ngành vật lý tại <a class="extiw" href="http://en.wikipedia.org/wiki/Amherst_College" title="wikipedia:Amherst College">Amherst College</a>. Ông nổi tiếng với *FoxTrot*, xuất hiện trên các báo hàng ngày cho đến [2006](../_/2006.md) (và hàng tuần sau đó). Cùng với ảnh hưởng từ *Star Wars* và *Star Trek*, nhiều tham chiếu đến tác phẩm của Tolkien được tạo ra.
+**William "Bill" J. C. Amend III** ([tháng Chín 20](../_/20_September.md), [1962](../_/1962.md)) là một họa sĩ truyện tranh người Mỹ có chuyên ngành vật lý tại <a class="extiw" href="http://en.wikipedia.org/wiki/Amherst_College" title="wikipedia:Amherst College">Amherst College</a>. Ông nổi tiếng với *FoxTrot*, xuất hiện trên các báo hàng ngày cho đến [2006](../_/2006.md) (và hàng tuần sau đó). Cùng với ảnh hưởng từ *Star Wars* và *Star Trek*, nhiều tham chiếu đến các tác phẩm của Tolkien được tạo ra.
 
 ## Liên kết ngoài {#External_links}
 

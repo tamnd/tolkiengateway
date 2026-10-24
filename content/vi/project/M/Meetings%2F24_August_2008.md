@@ -108,7 +108,7 @@ sort_keys:
 
 ## Kết quả {#Outcome}
 
-- Không có sự thống nhất nào về Tiếp thị, tuy nhiên việc liên hệ với các cộng đồng Tolkien khác đã được đưa ra. Cuộc thảo luận này sẽ tiếp tục ở cuộc họp tiếp theo.
+- Không có sự thống nhất nào về Tiếp thị, tuy nhiên việc liên hệ với các cộng đồng Tolkien khác đã được đưa ra tranh luận. Cuộc thảo luận này sẽ tiếp tục ở cuộc họp tiếp theo.
 - Phần hình ảnh cần được phân loại đầy đủ và đều cần thêm mẫu bản quyền phù hợp. Điều này có thể đạt được bằng cách sử dụng [KingAragorn Bot](https://tolkiengateway.net/wiki/User:KingAragorn_Bot). Việc đặt tên cần cụ thể hơn nhưng việc đổi tên chỉ có quản trị viên mới làm được.
 - Một trang dành cho bộ phim thứ hai do Guillermo del Toro thực hiện đã được tạo, nó được tìm thấy ở đây - [*The Hobbit* (loạt phim)](<../../main/T/The_Hobbit_(film_series).md>).
 

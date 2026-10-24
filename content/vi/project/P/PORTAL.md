@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Gateway:Community Portal"
 ---
 
-Chuyển hướng tới [Cổng Tolkien:Cổng cộng đồng](../C/Community_Portal.md).
+Chuyển hướng đến [Tolkien Gateway:Cổng thông tin cộng đồng](../C/Community_Portal.md).

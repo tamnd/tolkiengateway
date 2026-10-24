@@ -13,9 +13,9 @@ categories:
   - "Mannish titles"
 ---
 
-Danh hiệu **Người phụ nữ thông thái** được áp dụng cho những phụ nữ của [Edain](../E/Edain.md) ở [Thời đại thứ nhất](../F/First_Age.md), những người có kiến ​​thức sâu rộng về lịch sử và truyền thống của dân tộc họ. Một số đã kết hôn, trong khi những người khác vẫn chưa lập gia đình, họ được Đàn ông rất quý trọng. Tất cả họ đều truyền lại kiến ​​thức của mình cho người kế nhiệm được chọn, như thường lệ giữa các [Nhà thông thái](Wise.md) của Edain.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Danh hiệu **Người phụ nữ thông thái** được áp dụng cho những người phụ nữ của [Edain](../E/Edain.md) ở [Kỷ Đệ Nhất](../F/First_Age.md), những người có kiến ​​thức sâu rộng về lịch sử và truyền thống của dân tộc họ. Một số đã kết hôn, trong khi những người khác vẫn chưa lập gia đình, họ rất được kính trọng trong Con Người. Tất cả họ đều truyền lại kiến ​​thức của mình cho người kế nhiệm được chọn, như thường lệ giữa các [Nhà thông thái](Wise.md) của Edain.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Hai người phụ nữ thông thái được biết đến với tên: [Adanel](../A/Adanel.md) và [Andreth](../A/Andreth.md). <span></span>
+Hai bà thông thái được biết đến với tên: [Adanel](../A/Adanel.md) và [Andreth](../A/Andreth.md). <span></span>
 
 ## Tài liệu tham khảo {#References}
 

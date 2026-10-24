@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tom Bombadil"
 ---
 
-Chuyển hướng tới [Tom Bombadil](../T/Tom_Bombadil.md).
+Chuyển hướng đến [Tom Bombadil](../T/Tom_Bombadil.md).

@@ -16,7 +16,7 @@ images:
   - "Disambig.png"
 ---
 
-**Con Đường Mãi Mãi** có thể tham khảo:
+**The Road Goes Ever On** có thể tham khảo:
 
 ## Thơ {#Poems}
 
@@ -24,12 +24,12 @@ images:
 
 ## Sách {#Books}
 
-- *[The Road Goes Ever On, A Song Cycle](<The_Road_Goes_Ever_On_(book).md>)*, một cuốn sách gồm tập thơ của [Tolkien](../J/J.R.R._Tolkien.md) được [Donald Swann](../D/Donald_Swann.md) phổ nhạc.
+- *[The Road Goes Ever On, A Song Cycle](<The_Road_Goes_Ever_On_(book).md>)*, một cuốn sách gồm một tập thơ của [Tolkien](../J/J.R.R._Tolkien.md) được phổ nhạc bởi [Donald Swann](../D/Donald_Swann.md).
 - *[The Road Goes Ever On and On: The Map of Tolkien's Middle-earth](The_Road_Goes_Ever_On_and_On%253A_The_Map_of_Tolkien's_Middle-earth.md)*, sách của [Brian Sibley](../B/Brian_Sibley.md) và [John Howe](../J/John_Howe.md).
 
 ## Các bản chuyển thể {#Adaptations}
 
-- "[Con đường vẫn tiếp tục... (cảnh)](<The_Road_Goes_Ever_On..._(scene).md>)", cảnh cuối cùng của cả phiên bản sân khấu và phiên bản mở rộng của *[The Lord of the Rings: The Fellowship of the Ring](The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)*.
+- "[The Road Goes Ever On... (cảnh)](<The_Road_Goes_Ever_On..._(scene).md>)", cảnh cuối cùng của cả phiên bản chiếu rạp và phiên bản mở rộng của *[The Lord of the Rings: The Fellowship of the Ring](The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)*.
 - "[Roads (bài hát)](<../R/Roads_(song).md>)", bản chuyển thể từ bài hát, do [Glenn Yarbrough](../G/Glenn_Yarbrough.md) hát và xuất bản trên *[The Hobbit: The Complete Original Soundtrack](The_Hobbit%253A_The_Complete_Original_Soundtrack.md)*.
 - "[Roads Go Ever, Ever On](../R/Roads_Go_Ever,_Ever_On~44338.md)", chuyển thể từ bài hát từ bộ phim [1980](../_/1980.md) *[The Return of the King](<The_Return_of_the_King_(1980_film).md>)* của [Arthur Rankin, Jr.](../A/Arthur_Rankin,_Jr..md) và [Jules Bass](../J/Jules_Bass.md).
 

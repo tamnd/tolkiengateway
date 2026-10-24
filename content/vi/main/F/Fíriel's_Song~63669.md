@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fíriel's song"
 ---
 
-Chuyển hướng tới [Bài hát của Fíriel](Fíriel's_song.md).
+Chuyển hướng đến bài hát của [Fíriel](Fíriel's_song.md).

@@ -16,15 +16,15 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Matěj_Čadil_-_Brethil.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/75/Mat%C4%9Bj_%C4%8Cadil_-_Brethil.jpg/200px-Mat%C4%9Bj_%C4%8Cadil_-_Brethil.jpg" decoding="async" loading="lazy" width="200" height="271" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/75/Mat%C4%9Bj_%C4%8Cadil_-_Brethil.jpg/300px-Mat%C4%9Bj_%C4%8Cadil_-_Brethil.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/7/75/Mat%C4%9Bj_%C4%8Cadil_-_Brethil.jpg/400px-Mat%C4%9Bj_%C4%8Cadil_-_Brethil.jpg 2x" data-file-width="1772" data-file-height="2400"/></a><figcaption><i>Brethil</i> by <a href="../M/Matěj_Čadil.md" title="Matěj Čadil">Matěj Čadil</a></figcaption></figure>
 
-<b><a class="extiw" href="http://en.wikipedia.org/wiki/Birch" title="wikipedia:Birch">Bạch dương</a></b> là những cây rừng có vỏ nhẵn mọc ở [Shire](../T/The_Shire.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>, [Dimrill Dale](../D/Dimrill_Dale.md)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>, [Rừng Fangorn](../F/Fangorn_Forest.md)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>và [Emyn Muil](../E/Emyn_Muil.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+<b><a class="extiw" href="http://en.wikipedia.org/wiki/Birch" title="wikipedia:Birch">Bạch dương</a></b> là những cây rừng vỏ nhẵn mọc ở [ Shire](../T/The_Shire.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>, [Thung lũng Dimrill](../D/Dimrill_Dale.md)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>, [Rừng Fangorn](../F/Fangorn_Forest.md)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>và [Emyn Muil](../E/Emyn_Muil.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 Từ [Sindarin](../S/Sindarin.md) cho "bạch dương" là <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Hwinn&amp;action=edit&amp;redlink=1" title="Hwinn (page does not exist)">hwinn</a></i>, trong khi ở [Quenya](../Q/Quenya.md) là *[hwindë](../H/Hwindë.md)*.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
-Một "bạch dương bạc" ở Sindarin được gọi là *brethil*.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> Điều này do đó đã đặt tên cho Rừng [Brethil](Brethil.md).
+Một "bạch dương bạc" ở Sindarin được gọi là *brethil*.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> Do đó, điều này đã đặt tên cho Rừng [Brethil](Brethil.md).
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Wood of this tree can be foraged by <i>Westfold</i> foresters in <a href="../E/Enedwaith.md" title="Enedwaith">Enedwaith</a>, <a href="../D/Dunland.md" title="Dunland">Dunland</a>, and near the <a href="../T/The_Great_River.md" title="The Great River">the Great River</a>.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></dd></dl>
 

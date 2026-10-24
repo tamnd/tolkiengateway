@@ -12,11 +12,11 @@ categories:
   - "Trees"
 ---
 
-**Ebonies** were a type of [tree](../T/Trees.md). [Bilbo](../B/Bilbo_Baggins.md)'s [song of Eärendil](../S/Song_of_Eärendil.md) mentioned [Eärendil](Eärendil.md) as having "arrows shorn of ebony".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Ebonies** là một loại [cây](../T/Trees.md). Bài hát [của [Bilbo](../B/Bilbo_Baggins.md) của Eärendil](../S/Song_of_Eärendil.md) đề cập đến [Eärendil](Eärendil.md) là có "mũi tên cắt ngắn bằng gỗ mun".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1994: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Nhập vai ở Trung Địa</a>—<a href="../T/Treasures_of_Middle-earth_(2nd_edition).md" title="Treasures of Middle-earth (2nd edition)">Kho báu của Trung Địa</a></i></b>
+<b>1994: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a>—<a href="../T/Treasures_of_Middle-earth_(2nd_edition).md" title="Treasures of Middle-earth (2nd edition)">Kho báu của Trung Địa</a></i></b>
 
 <dl><dd>It was described as a rare tropical jet black tree known to the people of Pel, who call it <i>Usamity</i>.<sup id="cite_ref-fourthpage_2-0" class="reference"><a href="#cite_note-fourthpage-2">[2]</a></sup></dd></dl>
 

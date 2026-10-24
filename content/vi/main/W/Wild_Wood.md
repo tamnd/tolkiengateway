@@ -14,7 +14,7 @@ categories:
   - "Rhûn"
 ---
 
-**Wild Wood** được nhắc đến trong truyền thuyết như một khu rừng cổ xưa, nơi [những đứa trẻ yêu tinh](../E/Elves.md) thắc mắc về Bình minh đầu tiên của chúng.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Wild Wood** được nhắc đến trong truyền thuyết như một khu rừng cổ xưa, nơi [Tiên trẻ em](../E/Elves.md) thắc mắc về Bình minh đầu tiên của chúng.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Nếu hiểu theo nghĩa đen thì Wild Wood nên ám chỉ một số khu rừng gần [Cuiviénen](../C/Cuiviénen.md) và [Orocarni](../O/Orocarni.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 

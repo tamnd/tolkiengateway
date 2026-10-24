@@ -33,7 +33,7 @@ infobox:
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
-**Bài hát của Gollum** là bài hát được trình bày [Emilíana Torrini](../E/Emilíana_Torrini.md) cho [Peter Jackson's](../P/Peter_Jackson.md) *[The Lord of the Rings: The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)*. Đây là bài hát được viết dưới góc nhìn của [Gollum](Gollum.md). Ban đầu, bài hát được cho là do <a class="extiw" href="http://en.wikipedia.org/wiki/Bj%C3%B6rk" title="wikipedia:Björk">Björk</a>hát nhưng cô đã từ chối do mang thai.
+Bài hát của **Gollum** là bài hát được trình bày [Emilíana Torrini](../E/Emilíana_Torrini.md) cho [Peter Jackson](../P/Peter_Jackson.md) *[The Lord of the Rings: The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)*. Đây là bài hát được viết dưới góc nhìn của [Gollum](Gollum.md). Ban đầu, bài hát được cho là do <a class="extiw" href="http://en.wikipedia.org/wiki/Bj%C3%B6rk" title="wikipedia:Björk">Björk</a>hát nhưng cô đã từ chối do mang thai.
 
 Đây là bài hát thứ mười chín của *[The Lord of the Rings: The Two Towers - Original Motion Picture Soundtrack](../T/The_Lord_of_the_Rings%253A_The_Two_Towers_-_Original_Motion_Picture_Soundtrack.md)* và là một phần của "[Long Ways to Go Yet](../L/Long_Ways_to_Go_Yet.md)", bài hát thứ mười bốn của đĩa ba của *[The Lord of the Rings: The Two Towers - The Complete Recordings](../T/The_Lord_of_the_Rings%253A_The_Two_Towers_-_The_Complete_Recordings.md)*.
 

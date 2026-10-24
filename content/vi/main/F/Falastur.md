@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tarannon Falastur"
 ---
 
-Chuyển hướng tới [Tarannon Falastur](../T/Tarannon_Falastur.md).
+Chuyển hướng đến [Tarannon Falastur](../T/Tarannon_Falastur.md).

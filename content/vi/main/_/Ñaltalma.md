@@ -16,17 +16,17 @@ sort_keys:
   "Quenya nouns": "Naltalma"
 ---
 
-**ñatalma** là một thiết bị liên lạc của [Yêu tinh](../E/Elves.md), được sử dụng để truyền tín hiệu từ xa, phản chiếu ánh sáng của [mặt trời](../S/Sun.md) hoặc [mặt trăng](../M/Moon.md) trong.
+**ñatalma** là một thiết bị [Tiên](../E/Elves.md) liên lạc, được sử dụng để truyền tín hiệu từ xa, phản chiếu ánh sáng của [mặt trời](../S/Sun.md) hoặc [mặt trăng](../M/Moon.md) trong.
 
 ## Lịch sử {#History}
 
 Truyền thuyết kể rằng thiết bị này, cũng như nhiều phát minh khác, do chính [Fëanor](../F/Fëanor.md) phát minh, được [Trung Địa](../M/Middle-earth.md) mang đến [Noldor bị lưu đày](../E/Exiled_Noldor.md) và được [Sindar](../S/Sindar.md) nhận nuôi. Tuy nhiên, nó có lẽ đã lâu đời hơn rất nhiều, vì không có bằng chứng rõ ràng nào cho thấy đó là một trong nhiều điều mà Sindar đã học được từ [Noldor](../N/Noldor.md).<sup id="cite_ref-Ñaltalma_1-0" class="reference"><a href="#cite_note-Ñaltalma-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 1]</a></sup>
 
-Trong [Các thời đại](../A/Ages.md) sau này, lịch sử về nguồn gốc của nó cũng như các chi tiết về hình thức và cách sử dụng của nó đã bị mất khỏi hồ sơ.<sup id="cite_ref-Ñaltalma_1-1" class="reference"><a href="#cite_note-Ñaltalma-1">[1]</a></sup>
+Trong [Kỷ nguyên](../A/Ages.md) sau này, lịch sử nguồn gốc của nó cũng như các chi tiết về hình thức và cách sử dụng của nó đã bị mất khỏi hồ sơ.<sup id="cite_ref-Ñaltalma_1-1" class="reference"><a href="#cite_note-Ñaltalma-1">[1]</a></sup>
 
 ## Đặc điểm {#Characteristics}
 
-Thông tin chi tiết về hình thức và cách sử dụng thiết bị sẽ bị mất trong lịch sử. Ít nhất có thể nhận thấy rằng nó rõ ràng là có thể mang theo được (có thể bỏ trong túi hoặc túi) và có bề mặt sáng để sử dụng ánh sáng của [Mặt trời](../S/Sun.md) hoặc [Mặt trăng](../M/Moon.md) trong suốt và hướng ánh sáng của nó đến người quan sát dự kiến; tuy nhiên [Đàn ông](../M/Men.md) không thể nhìn thấy những tia chớp mà nó tạo ra/phản chiếu (ít nhất là từ khoảng cách xa).<sup id="cite_ref-Ñaltalma_1-2" class="reference"><a href="#cite_note-Ñaltalma-1">[1]</a></sup>
+Thông tin chi tiết về hình thức và cách sử dụng thiết bị sẽ bị mất trong lịch sử. Ít nhất có thể nhận thấy rằng nó rõ ràng là có thể mang theo được (có thể bỏ trong túi hoặc túi) và có bề mặt sáng để sử dụng ánh sáng của [Mặt Trời](../S/Sun.md) hoặc [Mặt Trăng](../M/Moon.md) trong suốt và hướng đèn flash của nó đến người quan sát dự kiến; tuy nhiên [Con Người](../M/Men.md) không nhìn thấy được những tia chớp mà nó tạo ra/phản chiếu (ít nhất là từ khoảng cách xa).<sup id="cite_ref-Ñaltalma_1-2" class="reference"><a href="#cite_note-Ñaltalma-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -36,7 +36,7 @@ Tên [Sindarin](../S/Sindarin.md) của nó là <i><b>glathralvas</b></i> ("th�
 
 ## Cảm hứng {#Inspiration}
 
-[J.R.R. Tolkien](../J/J.R.R._Tolkien.md) mô tả vật thể này là <a class="extiw" href="http://en.wikipedia.org/wiki/Heliograph" title="wikipedia:Heliograph">máy ghi nhật ký</a>, một thiết bị liên lạc phổ biến trong Quân đội Anh. Như [Carl F. Hostetter](../C/Carl_F._Hostetter.md) nhận xét, Tolkien phải làm quen tốt với nhật ký, khi ông được huấn luyện về tín hiệu quân sự và trở thành Sĩ quan báo hiệu của Tiểu đoàn trong [1916](1916.md), mặc dù sổ tay đào tạo của chính ông mô tả nhật ký là không phù hợp với bầu không khí của Vương quốc Anh.<sup id="cite_ref-Ñaltalma_1-4" class="reference"><a href="#cite_note-Ñaltalma-1">[1]</a></sup>
+[J.R.R. Tolkien](../J/J.R.R._Tolkien.md) mô tả vật thể này là <a class="extiw" href="http://en.wikipedia.org/wiki/Heliograph" title="wikipedia:Heliograph">máy ghi nhật ký</a>, một thiết bị liên lạc phổ biến trong Quân đội Anh. Như [Carl F. Hostetter](../C/Carl_F._Hostetter.md) nhận xét, Tolkien phải làm quen tốt với nhật ký, vì anh được huấn luyện về tín hiệu quân sự và trở thành Sĩ quan Tín hiệu Tiểu đoàn trong [1916](1916.md), mặc dù sổ tay đào tạo của anh mô tả nhật ký là không phù hợp với bầu không khí của Vương quốc Anh.<sup id="cite_ref-Ñaltalma_1-4" class="reference"><a href="#cite_note-Ñaltalma-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}
 

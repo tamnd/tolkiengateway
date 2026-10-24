@@ -68,12 +68,12 @@ Sự kiện xảy ra vào ngày 25 tháng 1.
 
 - **[1948](1948.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 113](../L/Letter_113.md).
 - **[1971](1971.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 320](../L/Letter_320.md).
-- **[1973](1973.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một lá thư cho Patrick Hunt, người đang ở trong tù](../L/Letter_to_Patrick_Hunt.md).
+- **[1973](1973.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một lá thư cho Patrick Hunt, người đang ở tù](../L/Letter_to_Patrick_Hunt.md).
 - **[1976](1976.md)** - [Hilary Arthur Reuel](../H/Hilary_Tolkien.md), anh trai của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), qua đời.
 - **[2021](2021.md)** - *[Tolkien's Modern Reading](../T/Tolkien's_Modern_Reading.md)* của [Holly Ordway](../H/Holly_Ordway.md) được xuất bản.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - Nhóm [Hiệp hội chiếc nhẫn](../F/Fellowship_of_the_Ring.md) nằm ở [Lothlórien](../L/Lothlórien.md).
-    - [Gandalf](../G/Gandalf.md) ném [Balrog](../D/Durin's_Bane.md) xuống và chết. Cơ thể anh nằm trên đỉnh. [Cầu thang vô tận](../E/Endless_Stair.md) bị phá hủy.
+    - [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) nằm trong [Lothlórien](../L/Lothlórien.md).
+    - [Gandalf](../G/Gandalf.md) ném [Balrog](../D/Durin's_Bane.md) xuống và biến mất. Cơ thể anh nằm trên đỉnh. [Cầu thang vô tận](../E/Endless_Stair.md) bị phá hủy.

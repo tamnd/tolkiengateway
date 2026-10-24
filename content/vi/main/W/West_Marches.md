@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "West-march"
 ---
 
-Chuyển hướng tới [Tây tiến](West-march.md).
+Chuyển hướng đến [Phương Tây-march](West-march.md).

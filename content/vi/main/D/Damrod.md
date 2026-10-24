@@ -62,7 +62,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Damrod là bạn đồng hành của [Mablung](<../M/Mablung_(ranger_of_Ithilien).md>) và là người bảo vệ đáng tin cậy của [Faramir](../F/Faramir.md). Anh và Mablung cùng nhau theo dõi [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md) trong cuộc phục kích của [Men of Harad](../H/Haradrim.md) ở [Ithilien](../I/Ithilien.md). Trong khi họ chờ đợi trước trận chiến, Damrod kể cho các hobbit nghe về cách đối xử của Kẻ thù với [người miền Nam](../H/Haradrim.md). Damrod có rất ít hy vọng; ông tin rằng "ngày của [Gondor](../G/Gondor.md) đã được đánh số, và những bức tường của [Minas Tirith](../M/Minas_Tirith.md) sẽ bị diệt vong".<sup id="cite_ref-herbs_1-1" class="reference"><a href="#cite_note-herbs-1">[1]</a></sup>
+Damrod là bạn đồng hành của [Mablung](<../M/Mablung_(ranger_of_Ithilien).md>) và là người bảo vệ đáng tin cậy của [Faramir](../F/Faramir.md). Anh cùng Mablung theo dõi [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md) trong cuộc phục kích của [Con Người của Harad](../H/Haradrim.md) ở [Ithilien](../I/Ithilien.md). Trong khi họ chờ đợi trước trận chiến, Damrod kể cho các hobbit nghe về Kẻ Thù các giao dịch của [người miền Nam](../H/Haradrim.md). Damrod có rất ít hy vọng; ông tin rằng "ngày của [Gondor](../G/Gondor.md) đã được đánh số, và những bức tường của [Minas Tirith](../M/Minas_Tirith.md) sẽ diệt vong".<sup id="cite_ref-herbs_1-1" class="reference"><a href="#cite_note-herbs-1">[1]</a></sup>
 
 Sau cuộc phục kích, Damrod và Mablung tiếp tục làm nhiệm vụ canh gác cho người Hobbit khi Biệt động quân hành trình đến [Henneth Annûn](../H/Henneth_Annûn.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
@@ -87,11 +87,11 @@ Sau cuộc phục kích, Damrod và Mablung tiếp tục làm nhiệm vụ canh 
 		</li>
 </ul>
 
-<b>2002: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">Chúa tể của những chiếc nhẫn: Hai tòa tháp</a></i>:</b>
+<b>2002: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Lord of the Rings: The Two Towers</a></i>:</b>
 
 <dl><dd>Damrod is played by <a href="../A/Alistair_Browning.md" title="Alistair Browning">Alistair Browning</a>.</dd></dl>
 
-<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
+<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Mablung and Damrod are first met in <a href="../O/Osgiliath.md" title="Osgiliath">Osgiliath</a> culverts, hiding from the enemy forces above. After the the <a href="../B/Battle_of_the_Pelennor_Fields.md" title="Battle of the Pelennor Fields">Battle of the Pelennor Fields</a> they are finally able to come out and join the Host of the West on the march towards the <a href="../B/Black_Gate.md" title="Black Gate">Black Gate</a>. Upon entering the Wastes of Morannon, Damrod is chosen to lead the faint-hearted soldiers relieved by <a href="../A/Aragorn.md" title="Aragorn">Aragorn</a>, now commanded by <a href="Duinhir.md" title="Duinhir">Duinhir</a>, towards <a href="../C/Cair_Andros.md" title="Cair Andros">Cair Andros</a> through <a href="../I/Ithilien.md" title="Ithilien">Ithilien</a>. After King <a href="../A/Aragorn.md" title="Aragorn">Elessar</a> charges Steward Faramir with cleansing the evil of <a href="../M/Minas_Morgul.md" title="Minas Morgul">Minas Morgul</a> and the <a href="../M/Morgul_Vale.md" title="Morgul Vale">Morgul Vale</a>, Damrod joins other Rangers in a camp outside the dead city. He later leads a group of Rangers inside <a href="../M/Minas_Morgul.md" title="Minas Morgul">Minas Morgul</a> itself, using the confusion among enemy forces to sneak between the guard towers beneath the enemy&#39;s notice.</dd></dl>
 

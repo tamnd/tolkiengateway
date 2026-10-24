@@ -26,7 +26,7 @@ categories:
 
 #### Có cùng nguồn gốc {#Cognates}
 
-- [tiếng Sindarin](../S/Sindarin.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=T%C3%AAw&amp;action=edit&amp;redlink=1" title="Têw (page does not exist)">têw</a></i>
+- [Sindarin](../S/Sindarin.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=T%C3%AAw&amp;action=edit&amp;redlink=1" title="Têw (page does not exist)">têw</a></i>
 
 ### Động từ {#Verb}
 

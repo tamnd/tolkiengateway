@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Trolls of the Misty Mountains"
 ---
 
-Chuyển hướng tới [Quỷ khổng lồ vùng núi sương mù](../T/Trolls_of_the_Misty_Mountains.md).
+Chuyển hướng đến [Troll của Dãy Núi Sương Mù](../T/Trolls_of_the_Misty_Mountains.md).

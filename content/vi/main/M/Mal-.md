@@ -19,7 +19,7 @@ categories:
 ## Xem thêm {#See_also}
 
 - [Quenya](../Q/Quenya.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Malda&amp;action=edit&amp;redlink=1" title="Malda (page does not exist)">malda</a></i>
-- [tiếng Sindarin](../S/Sindarin.md) *[malt](Malt.md)*
+- [Sindarin](../S/Sindarin.md) *[malt](Malt.md)*
 
 <span></span>
 

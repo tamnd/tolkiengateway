@@ -36,9 +36,9 @@ images:
 <p class="tg-quote-footer"><cite><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a></cite></p>
 </blockquote></div></div>
 
-<i><b>Thơ Oxford</b></i> là tập thơ thường niên được xuất bản bởi [Đại học Oxford](../U/University_of_Oxford.md).
+<i><b>Oxford Thơ</b></i> là tập thơ được xuất bản hàng năm bởi [Đại học Oxford](../U/University_of_Oxford.md).
 
-## Thơ Oxford 1915 (Bìa cứng) {#Oxford_Poetry_1915_(Hardback)}
+## Oxford Thơ 1915 (Bìa cứng) {#Oxford_Poetry_1915_(Hardback)}
 
 <figure class="mw-halign-right" typeof="mw:File"><a class="mw-file-description" href="../../file/O/Oxford_Poetry_1915_1st_Edition_HB.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/74/Oxford_Poetry_1915_1st_Edition_HB.jpg/50px-Oxford_Poetry_1915_1st_Edition_HB.jpg" decoding="async" loading="lazy" width="50" height="77" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/74/Oxford_Poetry_1915_1st_Edition_HB.jpg/75px-Oxford_Poetry_1915_1st_Edition_HB.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/7/74/Oxford_Poetry_1915_1st_Edition_HB.jpg/100px-Oxford_Poetry_1915_1st_Edition_HB.jpg 2x" data-file-width="325" data-file-height="499"/></a><figcaption></figcaption></figure>
 
@@ -48,9 +48,9 @@ Cuốn sách này có bài thơ '[Bàn chân yêu tinh](../G/Goblin_Feet.md)' (t
 
 Rất có thể đã có ba lần hiển thị được thực hiện, lần đầu tiên vào năm 1915, lần thứ hai và thứ ba là vào năm 1916, mặc dù bằng chứng về lần thứ ba được tạo ra vẫn còn đáng nghi ngờ.
 
-- Lưu ý: Oxford Poetry 1915 cũng có thơ của [Naomi Mitchison](../N/Naomi_Mitchison.md), người sau này trở thành một tín đồ của các tác phẩm của Tolkien.
+- Lưu ý: Oxford Thơ 1915 còn có thơ của [Naomi Mitchison](../N/Naomi_Mitchison.md), người sau này trở thành một tín đồ của Tolkien tác phẩm.
 
-## Thơ Oxford 1915 (Bìa mềm) {#Oxford_Poetry_1915_(Paperback)}
+## Oxford Thơ 1915 (Bìa mềm) {#Oxford_Poetry_1915_(Paperback)}
 
 <figure class="mw-halign-right" typeof="mw:File"><a class="mw-file-description" href="../../file/O/Oxford_Poetry_1915_1st_Edition_PB.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/2/25/Oxford_Poetry_1915_1st_Edition_PB.jpg/50px-Oxford_Poetry_1915_1st_Edition_PB.jpg" decoding="async" loading="lazy" width="50" height="74" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/25/Oxford_Poetry_1915_1st_Edition_PB.jpg/75px-Oxford_Poetry_1915_1st_Edition_PB.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/2/25/Oxford_Poetry_1915_1st_Edition_PB.jpg/100px-Oxford_Poetry_1915_1st_Edition_PB.jpg 2x" data-file-width="338" data-file-height="498"/></a><figcaption></figcaption></figure>
 
@@ -60,9 +60,9 @@ Cuốn sách này có bài thơ '[Bàn chân yêu tinh](../G/Goblin_Feet.md)'.
 
 Rất có thể đã có ba lần hiển thị được thực hiện, lần đầu tiên vào năm 1915, lần thứ hai và thứ ba là vào năm 1916, mặc dù bằng chứng về lần thứ ba được tạo ra vẫn còn đáng nghi ngờ.
 
-- Lưu ý: Oxford Poetry 1915 cũng có thơ của [Naomi Mitchison](../N/Naomi_Mitchison.md), người sau này trở thành một tín đồ của các tác phẩm của Tolkien.
+- Lưu ý: Oxford Thơ 1915 còn có thơ của [Naomi Mitchison](../N/Naomi_Mitchison.md), người sau này trở thành một tín đồ của Tolkien tác phẩm.
 
-## Thơ Oxford 1914-1916 {#Oxford_Poetry_1914-1916}
+## Oxford Thơ 1914-1916 {#Oxford_Poetry_1914-1916}
 
 <figure class="mw-halign-right" typeof="mw:File"><a class="mw-file-description" href="../../file/O/Oxford_Poetry_1914-1916_1st_Edition_HB.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/c/ce/Oxford_Poetry_1914-1916_1st_Edition_HB.jpg/50px-Oxford_Poetry_1914-1916_1st_Edition_HB.jpg" decoding="async" loading="lazy" width="50" height="75" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/ce/Oxford_Poetry_1914-1916_1st_Edition_HB.jpg/75px-Oxford_Poetry_1914-1916_1st_Edition_HB.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/c/ce/Oxford_Poetry_1914-1916_1st_Edition_HB.jpg/100px-Oxford_Poetry_1914-1916_1st_Edition_HB.jpg 2x" data-file-width="332" data-file-height="500"/></a><figcaption></figcaption></figure>
 
@@ -70,7 +70,7 @@ Rất có thể đã có ba lần hiển thị được thực hiện, lần đ�
 
 Cuốn sách này có bài thơ '[Bàn chân yêu tinh](../G/Goblin_Feet.md)' (tr. 120).
 
-- Lưu ý: Oxford Poetry 1914-1916 cũng có thơ của [Naomi Mitchison](../N/Naomi_Mitchison.md), người sau này trở thành một tín đồ của các tác phẩm của Tolkien.
+- Lưu ý: Oxford Thơ 1914-1916 cũng có thơ của [Naomi Mitchison](../N/Naomi_Mitchison.md), người sau này trở thành một tín đồ của Tolkien tác phẩm.
 
 ## Liên kết ngoài {#External_links}
 

@@ -51,24 +51,24 @@ images:
 <dl><dd><a href="The_Etymologies.md" title="The Etymologies">The Etymologies</a></dd></dl></dd></dl>
 </td></tr></tbody></table>
 
-**Lhammas** là chương thứ năm của phần thứ hai, "Phần thứ hai: [Valinor](../V/Valinor.md) và [Trung địa](../M/Middle-earth.md) trước *[The Lord of the Rings](The_Lord_of_the_Rings.md)"*, của *[The Lost Road and Other Writings](The_Lost_Road_and_Other_Writings.md)*.
+**Lhammas** là chương thứ năm của phần thứ hai, "Phần thứ hai: [Valinor](../V/Valinor.md) và [Trung Địa](../M/Middle-earth.md) trước *[The Lord of the Rings](The_Lord_of_the_Rings.md)"*, của *[The Lost Road and Other Writings](The_Lost_Road_and_Other_Writings.md)*.
 
 ## Tóm tắt {#Synopsis}
 
-*Lhammas* bao gồm một tường thuật ngôn ngữ được cho là của [Pengolod](../P/Pengolod.md) của [Gondolin](../G/Gondolin.md), mà ông là tác giả của [Tol Eressea](Tol_Eressea.md), dựa trên một số tác phẩm trước đó của [Rúmil of Tun](<../R/Rúmil_(elf_of_Tirion).md>). Một ghi chú gợi ý rằng đó là một trong những nguồn của [Aelfwine](../A/Aelfwine.md), người đã xem tác phẩm. *Lhammas* thực sự bao gồm hai phiên bản của cùng một văn bản được sửa đổi. Dạng sau và thứ ba của văn bản, có tiêu đề *Lammasethen*, ngắn hơn và khác với *Lhammas* ở một số điểm.
+*Lhammas* bao gồm một tường thuật ngôn ngữ được cho là của [Pengolod](../P/Pengolod.md) của [Gondolin](../G/Gondolin.md), do ông là tác giả của [Tol Eressea](Tol_Eressea.md), dựa trên một số tác phẩm trước đó của [Rúmil của Tun](<../R/Rúmil_(elf_of_Tirion).md>). Một ghi chú gợi ý rằng đó là một trong những nguồn của [Aelfwine](../A/Aelfwine.md), người đã xem tác phẩm. *Lhammas* thực sự bao gồm hai phiên bản của cùng một văn bản được sửa đổi. Dạng sau và thứ ba của văn bản, có tiêu đề *Lammasethen*, ngắn hơn và khác với *Lhammas* ở một số điểm.
 
-Bài tiểu luận thể hiện một quan điểm ngôn ngữ học cũ về [Các ngôn ngữ](../L/Languages.md) của [Trung địa](../M/Middle-earth.md) (sau này đã bị loại bỏ) trong đó tất cả các ngôn ngữ đều thuộc về các ngành [Valarin](../V/Valarin.md), [Oromëan](../O/Oromëan.md), [Aulëan](../A/Aulëan.md) hoặc [Melkian](../M/Melkian.md):
+Bài tiểu luận thể hiện một quan điểm ngôn ngữ học cũ về [Các ngôn ngữ](../L/Languages.md) của [Trung Địa](../M/Middle-earth.md) (sau này đã bị loại bỏ) trong đó tất cả các ngôn ngữ đều thuộc về các ngành [Valarin](../V/Valarin.md), [Oromëan](../O/Oromëan.md), [Aulëan](../A/Aulëan.md) hoặc [Melkian](../M/Melkian.md):
 
 - Ngành *Valarin* là nguồn gốc của tất cả các ngành khác và dẫn đến [Valarin](../V/Valarin.md) (ngôn ngữ của [Valar](../V/Valar.md).)
-- *[Oromëan](../O/Oromëan.md)* được đặt theo tên của Vala [Oromë](../O/Oromë.md) và được sử dụng cho tất cả các ngôn ngữ của [Yêu tinh](../E/Elves.md), vì Oromë đã dạy ngôn ngữ của Yêu tinh. Hầu hết các ngôn ngữ của [Nam giới](../M/Men.md) cũng thuộc ngành này.
-- *[Aulëan](../A/Aulëan.md)* được đặt theo tên của Vala [Aulë](../A/Aulë.md), cha của [Người lùn](../D/Dwarves.md) và là nguồn gốc của ngôn ngữ [Khuzdul](../K/Khuzdul.md). Nó đã có một số ảnh hưởng đến ngôn ngữ của Con người.
-- *[Melkian](../M/Melkian.md)* được đặt theo tên của Vala [Melkor](../M/Morgoth.md) (hoặc Morgoth) đã sa ngã và là nguồn gốc của [Lời nói đen](../B/Black_Speech.md) của [Orc](../O/Orcs.md) và những sinh vật tà ác khác.
+- *[Oromëan](../O/Oromëan.md)* được đặt tên theo Vala [Oromë](../O/Oromë.md) và được sử dụng cho tất cả các ngôn ngữ của [Tiên tộc](../E/Elves.md), vì Oromë đã dạy ngôn ngữ Tiên tộc. Hầu hết các ngôn ngữ của [Con Người](../M/Men.md) cũng thuộc ngành này.
+- *[Aulëan](../A/Aulëan.md)* được đặt theo tên của Vala [Aulë](../A/Aulë.md), cha đẻ của [Người Lùn](../D/Dwarves.md) và là nguồn gốc của ngôn ngữ [Khuzdul](../K/Khuzdul.md). Nó đã có một số ảnh hưởng đến ngôn ngữ của Con Người.
+- *[Melkian](../M/Melkian.md)* được đặt theo tên của Vala [Melkor](../M/Morgoth.md) (hoặc Morgoth) đã sa ngã, và là nguồn gốc của [Hắc Ngữ](../B/Black_Speech.md) của [Orc](../O/Orcs.md) và những sinh vật tà ác khác.
 
-[Tolkien](../J/J.R.R._Tolkien.md) sau đó đã sửa đổi và đơn giản hóa lịch sử ngôn ngữ của thế giới của ông và một số yếu tố không thể áp dụng cho các ngôn ngữ sau này của Trung Địa. Tuy nhiên, Tolkien trong các tác phẩm sau này vẫn cho rằng [Rúmil](<../R/Rúmil_(elf_of_Tirion).md>) đã viết <i><b>L</b>ammas</i>, nhưng bản thân ông chưa bao giờ viết một dạng "cập nhật" phù hợp với thần thoại sau này của ông.
+[Tolkien](../J/J.R.R._Tolkien.md) sau đó đã sửa đổi và đơn giản hóa lịch sử ngôn ngữ trong thế giới của ông và một số yếu tố không thể áp dụng cho các ngôn ngữ sau này của Trung Địa. Tuy nhiên, Tolkien trong các tác phẩm sau này vẫn cho rằng [Rúmil](<../R/Rúmil_(elf_of_Tirion).md>) đã viết <i><b>L</b>ammas</i>, nhưng bản thân ông chưa bao giờ viết một dạng "cập nhật" phù hợp với thần thoại sau này của ông.
 
 ## Từ nguyên {#Etymology}
 
-Tên *lhammas* là [Noldorin](../N/Noldorin.md) và đại khái có nghĩa là "các loại ngôn ngữ" (xem [Quenya](../Q/Quenya.md) từ *[lambë](../L/Lambë.md)*). Khi Tolkien sửa lại lịch sử các ngôn ngữ và Noldorin trở thành [Sindarin](../S/Sindarin.md), ông đã đổi tên từ này thành *lammas* (ban đầu *lh* đổi thành *l*. Xem thêm: [Noldorin](../N/Noldorin.md)).
+Tên *lhammas* là [Noldorin](../N/Noldorin.md) và đại khái có nghĩa là "các loại ngôn ngữ" (xem [Quenya](../Q/Quenya.md) từ *[lambë](../L/Lambë.md)*). Khi Tolkien sửa lại lịch sử của các ngôn ngữ và Noldorin trở thành [Sindarin](../S/Sindarin.md), anh đổi tên từ này thành *lammas* (ban đầu *lh* đổi thành *l*. Xem thêm: [Noldorin](../N/Noldorin.md)).
 
 ## Xem thêm {#See_also}
 

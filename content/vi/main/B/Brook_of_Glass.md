@@ -14,9 +14,9 @@ categories:
   - "Tol Eressëa"
 ---
 
-**Brook of Glass** là một con suối gần [Tavrobel](../T/Tavrobel.md) ở [Tol Eressëa](../T/Tol_Eressëa.md), theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) trong một trong những phác thảo về phần tiếp theo của *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.<sup id="cite_ref-Brook_1-0" class="reference"><a href="#cite_note-Brook-1">[1]</a></sup>
+**Brook of Glass** là một con suối gần [Tavrobel](../T/Tavrobel.md) ở [Tol Eressëa](../T/Tol_Eressëa.md), theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) ở một trong những phác thảo về phần tiếp theo của *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.<sup id="cite_ref-Brook_1-0" class="reference"><a href="#cite_note-Brook-1">[1]</a></sup>
 
-Nó nằm gần [Heath of the Sky-roof](../H/Heath_of_the_Sky-roof.md), nơi diễn ra [trận chiến vĩ đại](Battle_of_the_Heath_of_the_Sky-roof.md) trong [Faring Forth](../F/Faring_Forth.md), khi [Yêu tinh](../E/Elves.md) của Tol Eressëa cố gắng giải cứu [họ hàng](../I/Ilkorindi.md) của họ sống ở [Great Lands](../G/Great_Lands.md).<sup id="cite_ref-Brook_1-1" class="reference"><a href="#cite_note-Brook-1">[1]</a></sup> Sau hậu quả của trận chiến, [Eriol](../E/Eriol.md) người thủy thủ đã trốn khỏi vùng cây thạch nam bị chiến tranh tàn phá và chạy trốn xuống thung lũng sông - tuy nhiên, nước của con suối "bị ô nhiễm bởi chiến tranh của con người và bụi bẩn của xung đột".<sup id="cite_ref-Brook_1-2" class="reference"><a href="#cite_note-Brook-1">[1]</a></sup>
+Nó nằm gần [Heath of the Sky-roof](../H/Heath_of_the_Sky-roof.md), nơi diễn ra [trận chiến vĩ đại](Battle_of_the_Heath_of_the_Sky-roof.md) trong [Faring Forth](../F/Faring_Forth.md), khi [Tiên tộc](../E/Elves.md) của Tol Eressëa cố gắng giải cứu [người thân](../I/Ilkorindi.md) của họ sống ở [Great Lands](../G/Great_Lands.md).<sup id="cite_ref-Brook_1-1" class="reference"><a href="#cite_note-Brook-1">[1]</a></sup> Sau trận chiến, [Eriol](../E/Eriol.md) người thủy thủ đã trốn thoát khỏi vùng đất thạch nam bị chiến tranh tàn phá, và bỏ chạy xuống thung lũng sông - tuy nhiên, nước của con suối "bị ô nhiễm bởi chiến tranh của con người và bụi bẩn của xung đột".<sup id="cite_ref-Brook_1-2" class="reference"><a href="#cite_note-Brook-1">[1]</a></sup>
 
 ## Cảm hứng {#Inspiration}
 

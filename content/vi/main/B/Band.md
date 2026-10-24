@@ -17,7 +17,7 @@ categories:
 
 ## Từ nguyên {#Etymology}
 
-Từ [Eldarin thông thường](../C/Common_Eldarin.md)/[Quendian nguyên thủy](../P/Primitive_Quendian.md) *banda* ("nhà tù, địa ngục"), từ [root](../S/Sundocarme.md) <a href="BAD.md" title="BAD">BAD<sup>[2]</sup></a>.<sup id="cite_ref-VT45_1-1" class="reference"><a href="#cite_note-VT45-1">[1]</a></sup>
+Từ [Common Eldarin](../C/Common_Eldarin.md)/[Primitive Quendian](../P/Primitive_Quendian.md) *banda* ("nhà tù, Địa ngục"), từ [root](../S/Sundocarme.md) <a href="BAD.md" title="BAD">BAD<sup>[2]</sup></a>.<sup id="cite_ref-VT45_1-1" class="reference"><a href="#cite_note-VT45-1">[1]</a></sup>
 
 ## Có cùng nguồn gốc {#Cognates}
 

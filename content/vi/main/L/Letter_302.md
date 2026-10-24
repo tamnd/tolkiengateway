@@ -30,7 +30,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-<a class="extiw" href="http://en.wikipedia.org/wiki/Time%E2%80%93Life" title="wikipedia:Time–Life">Time-Life International</a> rõ ràng đã yêu cầu chụp ảnh Tolkien tại nơi làm việc, nhưng Tolkien trả lời rằng ông không và không thể làm việc với bất kỳ ai khác trong phòng, và một bức ảnh chụp ông giả vờ đang làm việc sẽ là không có thật. <br>
+<a class="extiw" href="http://en.wikipedia.org/wiki/Time%E2%80%93Life" title="wikipedia:Time–Life">Time-Life International</a> rõ ràng đã yêu cầu chụp ảnh Tolkien tại nơi làm việc, nhưng Tolkien trả lời rằng ông ta không và không thể làm việc với bất kỳ ai khác trong phòng, và bức ảnh ông ta giả vờ đang làm việc sẽ là không có thật. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

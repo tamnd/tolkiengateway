@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "War of the Jewels (disambiguation)"
 ---
 
-Chuyển hướng tới [War of the Jewels (định hướng)](<War_of_the_Jewels_(disambiguation).md>).
+Chuyển hướng đến [Cuộc chiến Châu báu (định hướng)](<War_of_the_Jewels_(disambiguation).md>).

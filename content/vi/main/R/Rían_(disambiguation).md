@@ -27,16 +27,16 @@ images:
   - "Disambig.png"
 ---
 
-**Rían** có nghĩa là "Vương miện quà tặng" trong [Sindarin](../S/Sindarin.md) (từ *[rî](Rî.md)*, "vương miện, vòng hoa" và *[ann](../A/Ann.md)*, "quà tặng"), và có thể tham khảo:
+**Rían** có nghĩa là "Vương miện-quà tặng" trong [Sindarin](../S/Sindarin.md) (từ *[rî](Rî.md)*, "vương miện, vòng hoa" và *[ann](../A/Ann.md)*, "quà tặng"), và có thể tham khảo:
 
-## Trung địa {#Middle-earth}
+## Trung Địa {#Middle-earth}
 
 - **[Rían](Rían.md) ([F.A.](../F/First_Age.md) [450](../F/First_Age_450.md) - [F.A.](../F/First_Age.md) [472](../F/First_Age_472.md)), vợ của [Huor](../H/Huor.md) và mẹ của [Tuor](../T/Tuor.md)**
 - [Rían](<Rían_(daughter_of_Steward_Barahir).md>) (fl. c. [T.A.](../T/Third_Age.md) [2328](../T/Third_Age_2328.md)), con gái của [Quản lý cầm quyền](Ruling_Steward.md) [Barahir](<../B/Barahir_(Steward_of_Gondor).md>) của [Gondor](../G/Gondor.md)
 
 ## Các bản chuyển thể {#Adaptations}
 
-- [Rían](<Rían_(Kip_Chapman).md>), một nhân vật được sáng tạo cho phần một của *[The Lord of the Rings: The Rings of Power](../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)*.
+- [Rían](<Rían_(Kip_Chapman).md>), một nhân vật được phát minh cho phần một của *[The Lord of the Rings: The Rings of Power](../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)*.
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=R%C3%ADan_(Selina_Lo)&amp;action=edit&amp;redlink=1" title="Rían (Selina Lo) (page does not exist)">Rían</a>, một nhân vật được phát minh cho phần hai của *[The Lord of the Rings: The Rings of Power](../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)*.
 
 <hr style="margin-top:15px;"/>

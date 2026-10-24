@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Cair Andros"
 ---
 
-Chuyển hướng tới [Cair Andros](../C/Cair_Andros.md).
+Chuyển hướng đến [Cair Andros](../C/Cair_Andros.md).

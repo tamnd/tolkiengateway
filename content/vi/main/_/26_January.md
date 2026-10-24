@@ -66,7 +66,7 @@ Sự kiện xảy ra vào ngày 26 tháng 1.
 
 ## Trên Trái đất {#On_Earth}
 
-- **[1925](1925.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư gửi Giáo sư Joseph Wright](<../L/Letter_to_Joseph_Wright_(26_January_1925).md>) nhân dịp nghỉ hưu.
+- **[1925](1925.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư gửi Giáo sư Joseph Wright](<../L/Letter_to_Joseph_Wright_(26_January_1925).md>) nhân dịp ông nghỉ hưu.
 - **[1941](1941.md)** - J.R.R. Tolkien viết [Thư 42a](../L/Letter_42a.md).
 - **[1964](1964.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết xong [thư gửi Giáo sư Przemyslaw Mroczkowski](<../L/Letter_to_Przemyslaw_Mroczkowski_(20–26_January_1964).md>).
 - **[2009](2009.md)** - *[Black &amp; White Ogre Country](../B/Black_&_White_Ogre_Country.md)* được xuất bản.
@@ -74,4 +74,4 @@ Sự kiện xảy ra vào ngày 26 tháng 1.
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - Nhóm [Hiệp hội chiếc nhẫn](../F/Fellowship_of_the_Ring.md) nằm ở [Lothlórien](../L/Lothlórien.md).
+    - [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) nằm trong [Lothlórien](../L/Lothlórien.md).

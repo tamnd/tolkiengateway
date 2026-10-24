@@ -36,7 +36,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mythlore_24.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/0/04/Mythlore_24.jpg/320px-Mythlore_24.jpg" decoding="async" loading="lazy" width="320" height="411" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/04/Mythlore_24.jpg/480px-Mythlore_24.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/0/04/Mythlore_24.jpg/640px-Mythlore_24.jpg 2x" data-file-width="2582" data-file-height="3320"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mythlore 24</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Gracia Fay Ellword, <a href="../G/Glen_GoodKnight.md" title="Glen GoodKnight">Glen GoodKnight</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Summer <a href="../_/1980.md" title="1980">1980</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">47</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mythlore_23.md" title="Mythlore 23">Mythlore 23</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mythlore_25.md" title="Mythlore 25">Mythlore 25</a></td></tr></tbody></table>
 
-<b><i>Thần thoại</i> 24</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol7/iss2/" rel="noreferrer noopener" target="_blank">Tập 7, Số 2</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, được xuất bản bởi [Hiệp hội Thần thoại](Mythopoeic_Society.md).
+<b><i>Mythlore</i> 24</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol7/iss2/" rel="noreferrer noopener" target="_blank">Tập 7, Số 2</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
 
 ## Nội dung {#Contents}
 
@@ -75,7 +75,7 @@ infobox:
 - *Đọc bằng trái tim: Đường vào Narnia.* Peter J. Schakel. Được đánh giá bởi Nancy-Lou Patterson.
 - *Arthurian Legends: An Illustrated Anthology.* Biên tập. của Richard Barber. Được đánh giá bởi Robert S. Ellwood, Jr..
 - *Thế giới mê hoặc: Những bức ảnh để lớn lên cùng.* Bryan Holme. Được đánh giá bởi Robert S. Ellwood, Jr..
-- *A Tolkien Bestiary.* Ngày của David. Được đánh giá bởi Thomas M. Egan.
+- *A Tolkien Bestiary.* David Day. Được đánh giá bởi Thomas M. Egan.
 - *A Middle-Earth Album: Paintings.* Joan Wyatt. Được đánh giá bởi Thomas M. Egan.
 - *T.H. White.* John K. Crane. Được đánh giá bởi Joe R. Christopher.
 - *Tiếng nói cho tương lai: Tiểu luận về các nhà văn khoa học viễn tưởng lớn.* Ed. của Thomas Clareson. Được đánh giá bởi Joe R. Christopher.

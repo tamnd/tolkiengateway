@@ -41,7 +41,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_Calendar_1996.jpg.md"><img src="https://tolkiengateway.net/w/images/4/48/J.R.R._Tolkien_Calendar_1996.jpg" decoding="async" loading="lazy" width="311" height="350" class="mw-file-element" data-file-width="311" data-file-height="350"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>J.R.R. Tolkien Calendar 1996</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="../T/Ted_Nasmith.md" title="Ted Nasmith">Ted Nasmith</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../H/HarperCollins.md" title="HarperCollins">HarperCollins</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/10_July.md" title="10 July">10 July</a> <a href="../_/1995.md" title="1995">1995</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Wire-bound calendar with mailer</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">14</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0-261-10321-0" title="Special:BookSources/0-261-10321-0">0-261-10321-0</a></td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="J.R.R._Tolkien_Calendar_1995.md" title="J.R.R. Tolkien Calendar 1995">J.R.R. Tolkien Calendar 1995</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="../T/Tolkien_Calendar_1997.md" title="Tolkien Calendar 1997">Tolkien Calendar 1997</a></td></tr></tbody></table>
 
-<i><b>J.R.R. Tolkien Lịch 1996</b></i> là lịch Tolkien chính thức được xuất bản bởi [HarperCollins](../H/HarperCollins.md) vào [10 tháng 7](../_/10_July.md) [1995](../_/1995.md). Nó có tác phẩm nghệ thuật của [Ted Nasmith](../T/Ted_Nasmith.md) dựa trên *[The Hobbit](../T/The_Hobbit.md)*, *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* và *[The Silmarillion](../T/The_Silmarillion.md)*.
+Lịch <i><b>J.R.R. Tolkien 1996</b></i> là lịch Tolkien chính thức được xuất bản bởi [HarperCollins](../H/HarperCollins.md) vào [10 tháng 7](../_/10_July.md) [1995](../_/1995.md). Nó có tính năng nghệ thuật của [Ted Nasmith](../T/Ted_Nasmith.md) dựa trên *[The Hobbit](../T/The_Hobbit.md)*, *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* và *[The Silmarillion](../T/The_Silmarillion.md)*.
 
 ## Minh họa {#Illustrations}
 
@@ -50,14 +50,14 @@ infobox:
 - Tháng 2 - "[Người Liễu đã được thuần hóa](../../file/T/Ted_Nasmith_-_The_Willow_Man_is_Tamed.jpg.md)"
 - Tháng 3 - "[Gandalf và Shadowfax](../../file/T/Ted_Nasmith_-_Gandalf_and_Shadowfax.jpg.md)"
 - Tháng 4 - "[Quét núi](../../file/T/Ted_Nasmith_-_Scouring_the_Mountain.jpg.md)"
-- Tháng 5 - "[Ngày thứ năm sau đỉnh thời tiết](../../file/T/Ted_Nasmith_-_Fifth_Day_After_Weathertop.jpg.md)"
-- Tháng 6 - "[Tuor đến Thành phố ẩn giấu Gondolin](../../file/T/Ted_Nasmith_-_Tuor_Reaches_the_Hidden_City_of_Gondolin.jpg.md)"
+- Tháng 5 - "[Ngày thứ năm sau Weathertop](../../file/T/Ted_Nasmith_-_Fifth_Day_After_Weathertop.jpg.md)"
+- Tháng 6 - "[Tuor Đạt Thành Phố Ẩn Giấu của Gondolin](../../file/T/Ted_Nasmith_-_Tuor_Reaches_the_Hidden_City_of_Gondolin.jpg.md)"
 - Tháng 7 - "[Mật khẩu vào Moria](../../file/T/Ted_Nasmith_-_Password_Into_Moria.jpg.md)"
 - Tháng 8 - "[Qua đầm lầy](../../file/T/Ted_Nasmith_-_Through_the_Marshes.jpg.md)"
-- Tháng 9 - "[Smith và Nữ hoàng thần tiên](../../file/T/Ted_Nasmith_-_Smith_and_the_Queen_of_Faery.jpg.md)"
+- tháng Chín - "[Smith và Nữ hoàng thần tiên](../../file/T/Ted_Nasmith_-_Smith_and_the_Queen_of_Faery.jpg.md)"
 - Tháng 10 - "[Mûmak của Harad](../../file/T/Ted_Nasmith_-_The_Mûmak_of_Harad.jpg.md)"
 - Tháng 11 - "[Băng qua Gorgoroth](../../file/T/Ted_Nasmith_-_Across_Gorgoroth.jpg.md)"
-- Tháng 12 - "[Khởi hành tại Grey Havens](../../file/T/Ted_Nasmith_-_Departure_at_the_Grey_Havens.jpg.md)"
+- Tháng 12 - "[Khởi hành lúc Cảng Xám](../../file/T/Ted_Nasmith_-_Departure_at_the_Grey_Havens.jpg.md)"
 
 ## Biến thể {#Variants}
 
@@ -81,7 +81,7 @@ infobox:
 ## Liên kết ngoài {#External_links}
 
 - <a class="external text" href="http://www.tolkienbooks.net/php/caldetails.php?reference=94280" rel="noreferrer noopener" target="_blank">J.R.R. Tolkien Lịch 1996</a> tại <a class="external text" href="http://www.tolkienbooks.net" rel="noreferrer noopener" target="_blank">TolkienBooks.net</a>
-- <a class="external text" href="http://tolkiencalendars.com/1996_1998.html" rel="noreferrer noopener" target="_blank">Lịch Tolkien 1996 - 1998</a> tại <a class="external text" href="http://tolkiencalendars.com/" rel="noreferrer noopener" target="_blank">The Compleat Gyde to Tolkien Calendars</a>
+- <a class="external text" href="http://tolkiencalendars.com/1996_1998.html" rel="noreferrer noopener" target="_blank">Tolkien Lịch 1996 - 1998</a> tại <a class="external text" href="http://tolkiencalendars.com/" rel="noreferrer noopener" target="_blank">The Compleat Gyde tới Tolkien Lịch</a>
 
 <table style="margin:0 auto;" class="collapsible toccolours" width="100%" align="center">
 <tbody><tr>

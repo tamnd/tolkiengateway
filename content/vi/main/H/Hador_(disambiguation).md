@@ -25,8 +25,8 @@ images:
 
 <i><b>Hador</b></i> có thể tham khảo:
 
-- **[Hador](Hador.md) Lórindol ([F.A.](../F/First_Age.md) [390](../F/First_Age_390.md) - [455](../F/First_Age_455.md)), [Lãnh chúa của Dor-lómin](../L/Lord_of_Dor-lómin.md) đầu tiên đã chết trong [Dagor Bragollach](../D/Dagor_Bragollach.md).**
-    - [Gia tộc Hador](House_of_Hador.md), Gia tộc thứ ba của [Edain](../E/Edain.md).
+- **[Hador](Hador.md) Lórindol ([F.A.](../F/First_Age.md) [390](../F/First_Age_390.md) - [455](../F/First_Age_455.md)), [Lãnh chúa Dor-lómin](../L/Lord_of_Dor-lómin.md) đầu tiên đã chết trong [Dagor Bragollach](../D/Dagor_Bragollach.md).**
+    - [Nhà Hador](House_of_Hador.md), Nhà thứ ba của [Edain](../E/Edain.md).
 - [Hador](<Hador_(Steward_of_Gondor).md>) ([T.A.](../T/Third_Age.md) [2245](../T/Third_Age_2245.md) - [2395](../T/Third_Age_2395.md)), [Quản lý cầm quyền](../R/Ruling_Steward.md) thứ bảy của [Gondor](../G/Gondor.md).
 - [*hador* (từ)](<Hador_(word).md>), một từ [Noldorin](../N/Noldorin.md) có nghĩa là "người ném".
 

@@ -15,13 +15,13 @@ sort_keys:
   "Sindarin adverbs": "mae"
 ---
 
-<i><b>mae</b></i> là từ [tiếng Sindarin](../S/Sindarin.md) cho trạng từ "tốt".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+<i><b>mae</b></i> là từ [Sindarin](../S/Sindarin.md) thay cho trạng từ "tốt".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
 Từ nguyên của từ này vẫn chưa được biết.
 
-Có một từ [Quenya](../Q/Quenya.md) tương tự *mai* "tốt".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Có từ [Quenya](../Q/Quenya.md) tương tự *mai* "à".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Ví dụ {#Examples}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Bombur"
 ---
 
-Chuyển hướng tới [Bombur](Bombur.md).
+Chuyển hướng đến [Bombur](Bombur.md).

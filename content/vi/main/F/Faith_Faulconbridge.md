@@ -27,7 +27,7 @@ langlinks:
     url: "https://kontu.wiki/Faith_Tolkien"
 ---
 
-**Niềm tin Lucy Tilly Faulconbridge** ([1928](../_/1928.md)- [24 tháng 10](../_/24_October.md), [2017](../_/2017.md))<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> là người vợ đầu tiên của [Christopher Tolkien](../C/Christopher_Tolkien.md). Họ kết hôn vào [ngày 2 tháng 4](../_/2_April.md), [1951](../_/1951.md) và ly thân vào [1964](../_/1964.md); cuộc ly hôn diễn ra sau đó ba năm. Bà là một nhà điêu khắc và đã thực hiện [bức tượng bán thân](../../file/J/J.R.R._Tolkien's_bust_at_Exeter.jpg.md) của Tolkien mà Khoa tiếng Anh tại Oxford đã tặng cho ông khi ông nghỉ hưu.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+**Đức tin Lucy Tilly Faulconbridge** ([1928](../_/1928.md)- [24 tháng 10](../_/24_October.md), [2017](../_/2017.md))<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> là người vợ đầu tiên của [Christopher Tolkien](../C/Christopher_Tolkien.md). Họ kết hôn vào [ngày 2 tháng 4](../_/2_April.md), [1951](../_/1951.md) và ly thân vào [1964](../_/1964.md); cuộc ly hôn diễn ra sau đó ba năm. Bà là một nhà điêu khắc và đã thực hiện [bức tượng bán thân](../../file/J/J.R.R._Tolkien's_bust_at_Exeter.jpg.md) của Tolkien mà Khoa Tiếng Anh tại Oxford đã tặng cho ông khi ông nghỉ hưu.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Liên kết ngoài {#External_links}
 

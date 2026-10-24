@@ -26,10 +26,10 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Beyond Bree August 1981</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../A/American_Mensa_Tolkien_Special_Interest_Group.md" title="American Mensa Tolkien Special Interest Group">American Mensa Tolkien Special Interest Group</a></td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">5</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data">April 1981</td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data">September 1981</td></tr></tbody></table>
 
-<b><i>Beyond Bree</i> Tháng 8 năm 1981</b> là số của tạp chí [Beyond Bree](Beyond_Bree.md) do <a class="new" href="https://tolkiengateway.net/w/index.php?title=Tolkien_Special_Interest_Group_of_American_Mensa&amp;action=edit&amp;redlink=1" title="Tolkien Special Interest Group of American Mensa (page does not exist)">Nhóm lợi ích đặc biệt Tolkien của American Mensa</a> xuất bản
+<b><i>Beyond Bree</i> Tháng 8 năm 1981</b> là số tạp chí [Beyond Bree](Beyond_Bree.md) do <a class="new" href="https://tolkiengateway.net/w/index.php?title=Tolkien_Special_Interest_Group_of_American_Mensa&amp;action=edit&amp;redlink=1" title="Tolkien Special Interest Group of American Mensa (page does not exist)">Tolkien Nhóm lợi ích đặc biệt của American Mensa</a> xuất bản
 
 ## Nội dung {#Contents}
 
-- "Bilbo le hobbil' của N. Martsch
+- "Bilbo le hobbil' bởi N. Martsch
 - Báo cáo về Origins VII (quy ước về trò chơi chiến tranh)
-- Những người theo chủ nghĩa chính thống phản đối Dungeons & Dragons
+- Những người theo chủ nghĩa chính thống phản đối Dungeon & Rồng

@@ -25,11 +25,11 @@ langlinks:
     url: "https://kontu.wiki/Lumbar"
 ---
 
-**Thắt lưng** là một trong những ngôi sao sáng được [Varda](../V/Varda.md) đặt trên bầu trời vào thời điểm [Yêu tinh](../E/Elves.md) thức tỉnh ở [Trung địa](../M/Middle-earth.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Thực ra, "ngôi sao" này chính là hành tinh <a class="extiw" href="http://en.wikipedia.org/wiki/Saturn" title="wikipedia:Saturn">Sao Thổ</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Thắt lưng** là một trong những ngôi sao sáng được [Varda](../V/Varda.md) đặt trên bầu trời vào thời điểm [Tiên tộc](../E/Elves.md) thức tỉnh ở [Trung Địa](../M/Middle-earth.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Thực ra, "ngôi sao" này chính là hành tinh <a class="extiw" href="http://en.wikipedia.org/wiki/Saturn" title="wikipedia:Saturn">Sao Thổ</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Lumbar* là một cái tên ít người biết đến. Nó có thể là [Quenya](../Q/Quenya.md) cho "Shadow Home", như Paul Strack giải thích, là từ ghép của <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Lumb%C3%AB&amp;action=edit&amp;redlink=1" title="Lumbë (page does not exist)">lumbë</a></i> ("u ám, bóng tối") + *[már](../M/Már.md)* ("nhà").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> <span></span>
+*Lumbar* là một cái tên ít người biết đến. Nó có thể là [Quenya](../Q/Quenya.md) cho "Bóng Tối Home", như Paul Strack giải thích, là từ ghép của <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Lumb%C3%AB&amp;action=edit&amp;redlink=1" title="Lumbë (page does not exist)">lumbë</a></i> ("u ám, bóng tối") + *[már](../M/Már.md)* ("nhà").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

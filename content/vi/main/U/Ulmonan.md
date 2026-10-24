@@ -14,11 +14,11 @@ categories:
   - "Qenya locations"
 ---
 
-**Ulmonan** là tên các đại sảnh của [Ulmo](Ulmo.md), nằm ở [đáy](../H/Hidden_Half.md) của [Outer Ocean](../V/Vaiya.md), theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Ulmonan** là tên các đại sảnh của [Ulmo](Ulmo.md), nằm ở [đáy](../H/Hidden_Half.md) của [Bên Ngoài Đại Dương](../V/Vaiya.md), theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) ở *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Ulmonan* rõ ràng là tên [Qenya](../Q/Qenya.md); tất nhiên yếu tố đầu tiên là *[Ulmo](Ulmo.md#Etymology)*, trong khi yếu tố thứ hai, theo [Christopher Tolkien](../C/Christopher_Tolkien.md), chưa bao giờ được giải thích bởi [cha ông](../J/J.R.R._Tolkien.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+*Ulmonan* rõ ràng là tên [Qenya](../Q/Qenya.md); tất nhiên yếu tố đầu tiên là *[Ulmo](Ulmo.md#Etymology)*, trong khi yếu tố thứ hai, theo [Christopher Tolkien](../C/Christopher_Tolkien.md), chưa bao giờ được [cha ông](../J/J.R.R._Tolkien.md) giải thích.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

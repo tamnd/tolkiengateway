@@ -14,15 +14,15 @@ categories:
   - "Westron words"
 ---
 
-## Điện thoại {#Teleri}
+## Teleri {#Teleri}
 
 <i><b>Branda</b></i> là một tính từ [Telerin](../T/Telerin.md) có nghĩa là "cao cả, cao quý" hoặc "tốt đẹp".
 
 ### Từ nguyên {#Etymology}
 
-Hình thức trong [tiếng Elf nguyên thủy](../P/Primitive_Elvish.md) (hoặc có lẽ là [Telerin thông dụng](../C/Common_Telerin.md)) là *b'randâ*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Điều này dường như đại diện cho một tính từ thậm chí còn nguyên thủy hơn \**barándâ* (gốc [BARÁD](BARAT.md)).
+Dạng trong [Nguyên thủy Elvish](../P/Primitive_Elvish.md) (hoặc có lẽ [Common Telerin](../C/Common_Telerin.md)) là *b'randâ*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Điều này rõ ràng thể hiện một tính từ thậm chí còn nguyên thủy hơn \**barándâ* (gốc [BARÁD](BARAT.md)).
 
-## Tây {#Westron}
+## Westron {#Westron}
 
 Trong [Westron](../W/Westron.md)**,** *branda* có nghĩa là "biên giới, hành quân".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
@@ -33,7 +33,7 @@ Nó có thể bắt nguồn từ [Adûnaic](../A/Adûnaic.md) \**barrad*, có g�
 ## Xem thêm {#See_also}
 
 - *[Branda-nîn](Branda-nîn.md)*
-- *[Brandagamba](Brandagamba.md)* (tạm dịch là [Brandybuck](Brandybuck.md)) bắt nguồn từ từ này và đuôi *-gamba*. Mặc dù bản dịch sát nghĩa hơn của cái tên này sẽ là "Marchbuck", nhưng thay vào đó, Tolkien lại dịch nó thành "Brandybuck" để duy trì mối liên hệ rõ ràng với Sông [Brandywine](Brandywine.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+- *[Brandagamba](Brandagamba.md)* (tạm dịch là [Brandybuck](Brandybuck.md)) bắt nguồn từ từ này và đuôi *-gamba*. Mặc dù bản dịch sát nghĩa hơn của tên sẽ là "Marchbuck", Tolkien thay vào đó lại dịch nó là "Brandybuck" để duy trì mối liên hệ hữu hình với Sông [Brandywine](Brandywine.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

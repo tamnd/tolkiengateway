@@ -21,13 +21,13 @@ images:
 
 Vào [4 tháng 11](../_/4_November.md) [1968](../_/1968.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho Mary Fairburn**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-- **Nội dung:** Tolkien trả lời lá thư của cô Fairburn ngày 18 tháng 10, trong đó cô đề nghị trả lại tất cả các hình minh họa của mình cho *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* cho ông ta. Tolkien nói rằng "*khó khăn lớn đối với tôi là thiếu không gian trên tường*", nhưng hỏi liệu bà có thể gửi cho ông "*bức ảnh [Galadriel](../G/Galadriel.md) tại Giếng ở [Lorien](Lothlórien.md)*" mà ông muốn giữ lại, nói rằng nó "*thu hút tôi vì nó gần như tương ứng với hình ảnh tinh thần của tôi về khung cảnh*". Hơn nữa, ông viết rằng bức ảnh này sẽ là một ví dụ điển hình để cho [Rayner Unwin](../R/Rayner_Unwin.md) xem. Số tiền Tolkien gửi kèm trong bức thư trước đó không nên được coi là tiền trả cho bức tranh; ông gợi ý rằng thỏa thuận này nên được coi là "*a free gift on either side!*" (rõ ràng là vì lý do thuế). Cuối cùng, ông đã thêm vào phần tái bút rằng ông "*tất nhiên cho phép đưa bức tranh vào bất kỳ bộ sưu tập hoặc triển lãm nào về tác phẩm của bạn hoặc được sử dụng để tái tạo thành một ấn bản có minh họa, miễn là bản gốc cuối cùng được trả lại cho tôi*".
-- **Xuất bản:** [*The Times Literary Supplement* ngày 14 tháng 9 năm 2012](../T/The_Times_Literary_Supplement_14_September_2012.md).
+- **Nội dung:** Tolkien trả lời thư của cô Fairburn ngày 18 tháng 10, trong đó cô đề nghị trả lại tất cả các hình minh họa của mình cho *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* cho ông. Tolkien nói rằng "*khó khăn lớn đối với tôi là thiếu không gian trên tường*", nhưng hỏi liệu bà có thể gửi cho ông "*bức ảnh [Galadriel](../G/Galadriel.md) tại Giếng ở [Lorien](Lothlórien.md)*" mà ông muốn giữ lại, nói rằng nó "*thu hút tôi vì nó gần như tương ứng với hình ảnh tinh thần của tôi về khung cảnh*". Hơn nữa, ông viết rằng bức ảnh này sẽ là một ví dụ điển hình để cho [Rayner Unwin](../R/Rayner_Unwin.md) xem. Số tiền Tolkien kèm theo trong bức thư trước đó không được coi là tiền thanh toán cho bức tranh; ông gợi ý rằng thỏa thuận này nên được coi là "*a free gift on either side!*" (rõ ràng là vì lý do thuế). Cuối cùng, ông đã thêm vào phần tái bút rằng ông "*tất nhiên cho phép đưa bức tranh vào bất kỳ bộ sưu tập hoặc triển lãm nào về tác phẩm của bạn hoặc được sử dụng để tái tạo thành một ấn bản có minh họa, miễn là bản gốc cuối cùng được trả lại cho tôi*".
+- **Xuất bản:** [*The Times Literary Supplement* 14 tháng Chín 2012](../T/The_Times_Literary_Supplement_14_September_2012.md).
 
 ## Xem thêm {#See_also}
 
 - [Thư gửi Mary Fairburn (tháng 5 năm 1968)](<Letter_to_Mary_Fairburn_(May_1968).md>)
-- [Thư gửi Mary Fairburn (4 tháng 9 năm 1968)](<Letter_to_Mary_Fairburn_(4_September_1968).md>)
+- [Thư gửi Mary Fairburn (4 tháng Chín 1968)](<Letter_to_Mary_Fairburn_(4_September_1968).md>)
 - [Thư gửi Mary Fairburn (10 tháng 10 năm 1968)](<Letter_to_Mary_Fairburn_(10_October_1968).md>)
 
 <span></span>

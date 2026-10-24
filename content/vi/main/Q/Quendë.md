@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Quendi"
 ---
 
-Chuyển hướng tới [Quendi](Quendi.md).
+Chuyển hướng đến [Quendi](Quendi.md).

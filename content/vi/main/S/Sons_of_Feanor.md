@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sons of Fëanor"
 ---
 
-Chuyển hướng tới [Sons of Fëanor](Sons_of_Fëanor.md).
+Chuyển hướng đến [các Con trai của Fëanor](Sons_of_Fëanor.md).

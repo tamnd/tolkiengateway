@@ -20,11 +20,11 @@ langlinks:
     url: "https://www.ardapedia.org/wiki/Gruber"
 ---
 
-**Gia đình Grubb** là một gia đình quan trọng và giàu có của [Hobbit ở Quận](../S/Shire-hobbits.md).
+**Gia đình Grubb** là một gia đình quan trọng và giàu có của [Shire-hobbit](../S/Shire-hobbits.md).
 
 Các thành viên nữ của gia đình đó kết hôn với [Baggins](../B/Baggins_family.md) và [gia đình Boffin](../B/Boffin_family.md). [Laura Grubb](../L/Laura_Grubb.md) kết hôn với [Mungo Baggins](../M/Mungo_Baggins.md) và là bà của [Bilbo](../B/Bilbo_Baggins.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Một số người trong gia đình đã tham gia đấu giá. Công ty [Messrs Grubb, Grubb và Burrowes](../M/Messrs_Grubb,_Grubb_and_Burrowes.md) được thành lập để bán đồ đạc của [Bilbo Baggins](../B/Bilbo_Baggins.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Một số người trong gia đình đã tham gia đấu giá. Công ty [Messrs Grubb, Grubb và Burrowes](../M/Messrs_Grubb,_Grubb_and_Burrowes.md) được thiết lập để bán đồ đạc của [Bilbo Baggins](../B/Bilbo_Baggins.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

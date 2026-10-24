@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sixth of the Nazgûl"
 ---
 
-Chuyển hướng đến [Thứ sáu của Nazgûl](../S/Sixth_of_the_Nazgûl.md).
+Chuyển hướng tới [Phần thứ sáu của Nazgûl](../S/Sixth_of_the_Nazgûl.md).

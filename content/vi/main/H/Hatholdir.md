@@ -41,7 +41,7 @@ infobox:
 
 ## Từ nguyên {#Etymology}
 
-*Hatholdir* là tên [Sindarin](../S/Sindarin.md). Ý nghĩa của nó không được giải thích rõ ràng, nhưng Paul Strack cho rằng nó có nghĩa là "Người dùng rìu" và là từ ghép của *hathol* ("rìu") và *dîr* ("người đàn ông").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+*Hatholdir* là tên [Sindarin](../S/Sindarin.md). Ý nghĩa của nó không được giải thích rõ ràng, nhưng Paul Strack gợi ý nó có nghĩa là "Người dùng rìu" và là từ ghép của *hathol* ("rìu") và *dîr* ("người đàn ông").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Phả hệ {#Genealogy}
 

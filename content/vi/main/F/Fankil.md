@@ -13,9 +13,9 @@ categories:
   - "Servants of Melkor"
 ---
 
-**Fankil**, còn được gọi là **Fangli** và **Fúkil** trong giai đoạn đầu của văn bản, là người hầu của [Melko](../M/Melko.md) và chỉ xuất hiện trong phần đầu của câu chuyện về [Gilfanon](../G/Gilfanon.md). Ông ta đóng vai trò là trung úy của Chúa tể bóng tối,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> một vai trò sẽ do [Sauron](../S/Sauron.md) đảm nhận trong phiên bản cuối cùng của *[The Silmarillion](../T/The_Silmarillion.md)*.
+**Fankil**, còn được gọi là **Fangli** và **Fúkil** trong giai đoạn đầu của văn bản, là người hầu của [Melko](../M/Melko.md) và chỉ xuất hiện trong phần đầu của câu chuyện về [Gifanon](../G/Gilfanon.md). Anh đóng vai trung úy của Chúa tể Bóng tối,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> một vai trò sẽ do [Sauron](../S/Sauron.md) đảm nhận trong phiên bản cuối cùng của *[The Silmarillion](../T/The_Silmarillion.md)*.
 
-Fankil lần đầu tiên được nhắc đến trong một ghi chú liên quan đến [Sự thức tỉnh của Yêu tinh](../A/Awakening_of_the_Elves.md) khi đã trốn thoát vào thế giới cùng với những hình dạng bóng tối khác khi [Valar](../V/Valar.md) phá vỡ [Utumna](../U/Utumno.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Sau đó, ông ta đến để sống giữa những [Người](../M/Men.md) đầu tiên, có lẽ là ở [Palisor](../P/Palisor.md). Ông ta, cùng với [Người lùn](../D/Dwarves.md)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 1]</a></sup> và [yêu tinh](../G/Goblins.md) hòa nhập với Con người để xa lánh họ khỏi [Yêu tinh](../E/Elves.md) và một số gia nhập [Người lùn](../D/Dwarves.md) độc ác. Điều này dẫn đến [Trận chiến Palisor](../B/Battle_of_Palisor.md), cuộc chiến đầu tiên giữa Yêu tinh và yêu tinh. Trong một số bản phác thảo trước đó, Fangli và những Người lùn độc ác của hắn đã chinh phục Palisor. Những người đàn ông bị hắn làm hư hỏng đã trở thành những dân tộc hoang dã và man rợ, tôn thờ Melko.
+Fankil lần đầu tiên được nhắc đến trong một ghi chú liên quan đến [Sự thức tỉnh của Tiên tộc](../A/Awakening_of_the_Elves.md) khi đã trốn thoát vào thế giới cùng với những hình dạng bóng tối khác khi [Valar](../V/Valar.md) phá vỡ [Utumna](../U/Utumno.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Sau đó, ông ta đến để sống giữa [Con Người](../M/Men.md) Đầu tiên, có lẽ là ở [Palisor](../P/Palisor.md). Ông ta, cùng với [Người Lùn](../D/Dwarves.md)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 1]</a></sup> và [yêu tinh](../G/Goblins.md) của mình đã trà trộn vào Con Người để xa lánh họ khỏi [Tiên tộc](../E/Elves.md) và một số gia nhập phe ác [Người Lùn](../D/Dwarves.md). Điều này dẫn đến [Trận Palisor](../B/Battle_of_Palisor.md), cuộc chiến đầu tiên giữa Tiên tộc và yêu tinh. Trong một số bản phác thảo trước đó, Fangli và Người Lùn tà ác của hắn đã chinh phục Palisor. Những Con Người bị hắn tha hóa trở thành những dân tộc hoang dã, man rợ, tôn thờ Melko.
 
 ## Xem thêm {#See_also}
 
@@ -24,7 +24,7 @@ Fankil lần đầu tiên được nhắc đến trong một ghi chú liên quan
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Người lùn ban đầu nằm trong số những sinh vật xấu xa trong <i>Sách Truyện cổ tích</i></span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Người Lùn ban đầu nằm trong số những sinh vật xấu xa trong <i>Book of Lost Tales</i></span>
 </li>
 </ol></div></span>
 

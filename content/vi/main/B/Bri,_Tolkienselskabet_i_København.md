@@ -17,7 +17,7 @@ images:
 
 <figure typeof="mw:File/Frame"><a class="mw-file-description" href="../../file/B/Bri.png.md"><img src="https://tolkiengateway.net/w/images/1/1b/Bri.png" decoding="async" loading="lazy" width="77" height="120" class="mw-file-element" data-file-width="77" data-file-height="120"/></a><figcaption>Heraldic device of Bri</figcaption></figure>
 
-**Bri, Tolkienselskabet i København** ("Bree, Hiệp hội Tolkien Copenhagen") là một Hiệp hội Tolkien của Đan Mạch.
+**Bri, Tolkienselskabet i København** ("Bree, Hiệp hội Copenhagen Tolkien") là một Hiệp hội Tolkien của Đan Mạch.
 
 Bri được thành lập vào [1996](../_/1996.md) với tư cách là thành viên của [Imladris](../I/Imladris,_Danmarks_Tolkienforening.md) và [Tolkiens Følge](../T/Tolkiens_Følge.md) hiện đã tuyệt chủng cảm thấy rằng Đan Mạch thiếu một xã hội nơi các thành viên cùng nhau tham gia nhiều hoạt động liên quan đến Tolkien như tiệc chiêu đãi, thảo luận và hội nhóm.
 
@@ -27,9 +27,9 @@ Bri đã chuyển từ trang web sang trang Facebook của mình để nắm b�
 
 Bri có một số bang hội dành cho các thành viên của mình:
 
-Hiệp hội Arda: Dành cho các cuộc thảo luận văn học về tác phẩm của Tolkien
+Hội Arda: Dành cho các cuộc thảo luận văn học về tác phẩm của Tolkien
 
-The Archery Guild: Dành cho các cung thủ, chủ yếu là để đánh bại Hiệp hội Tolkien Thụy Điển trong một cuộc thi thường niên
+Hiệp hội Bắn cung: Dành cho các cung thủ, chủ yếu là để đánh bại các Hiệp hội Tolkien Thụy Điển trong một cuộc thi thường niên
 
 Bri by Night: Rất bí mật nên không thể tiết lộ gì ở đây.
 
@@ -37,9 +37,9 @@ Hội game thủ: Họ chơi game. Bất kỳ trò chơi nào.
 
 Hiệp hội Uống rượu: Tham quan các lễ hội bia, thử rượu, thử rượu táo, v.v. (giới hạn độ tuổi tối thiểu là 18)
 
-Hội Hobbit: Gặp gỡ ít nhất mỗi quý một lần và ăn ít nhất năm món. Chỉ người Hobbit thôi.
+The Hobbit Bang hội: Gặp mặt ít nhất mỗi quý và ăn ít nhất năm món. Hobbit mà thôi.
 
-Hội ẩm thực của các chủng tộc Elder: Mọi người trừ người Hobbit gặp nhau và ăn uống. Chất lượng chứ không phải số lượng.
+Hội ẩm thực Elder Races: Tất cả mọi người trừ Hobbit gặp nhau và ăn uống. Chất lượng chứ không phải số lượng.
 
 The Craft Guild: Làm trang phục, cờ, biểu ngữ, đồ trang trí, v.v.
 

@@ -12,13 +12,13 @@ categories:
   - "Roots"
 ---
 
-**LINI** is a [Primitive Quendian](../P/Primitive_Quendian.md) [root](../S/Sundocarme.md) signifying "pool, mere, lake".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**LINI** là một [Primitive Quendian](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) biểu thị "hồ, hồ, hồ".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Công cụ phái sinh {#Derivatives}
 
-- [Quenya](../Q/Quenya.md): *[ailin](../A/Ailin.md)* ([AYA(R)](<../A/AYA(R).md>) + LINI) = "a large lake"
-- [Sindarin](../S/Sindarin.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=L%C3%AEn&amp;action=edit&amp;redlink=1" title="Lîn (page does not exist)">lîn</a></i> = "pool, mere"
-- [Noldorin](../N/Noldorin.md): *lhîn* = "pool"
+- [Quenya](../Q/Quenya.md): *[ailin](../A/Ailin.md)* ([AYA(R)](<../A/AYA(R).md>) + LINI) = "một cái hồ lớn"
+- [Sindarin](../S/Sindarin.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=L%C3%AEn&amp;action=edit&amp;redlink=1" title="Lîn (page does not exist)">lîn</a></i> = "pool, đơn thuần"
+- [Noldorin](../N/Noldorin.md): *lhîn* = "nhóm"
 
 ## Các phiên bản khác của Legendarium {#Other_versions_of_the_Legendarium}
 

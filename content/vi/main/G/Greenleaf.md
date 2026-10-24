@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Legolas"
 ---
 
-Chuyển hướng tới [Legolas](../L/Legolas.md).
+Chuyển hướng đến [Legolas](../L/Legolas.md).

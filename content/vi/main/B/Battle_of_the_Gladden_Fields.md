@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Disaster of the Gladden Fields"
 ---
 
-Chuyển hướng tới [Thảm họa trên cánh đồng Gladden](../D/Disaster_of_the_Gladden_Fields.md).
+Chuyển hướng đến [Thảm họa Cánh đồng Gladden](../D/Disaster_of_the_Gladden_Fields.md).

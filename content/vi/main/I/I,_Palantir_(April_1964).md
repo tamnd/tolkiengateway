@@ -30,10 +30,10 @@ infobox:
 ## Nội dung {#Contents}
 
 - "[Sự chia tay của Arwen](../T/The_Parting_of_Arwen.md)" của Elfride Rivers, bút danh của [Marion Zimmer Bradley](../M/Marion_Zimmer_Bradley.md)
-- "Chân dung Haiku" của Don Studebaker, Ted Johnstone và những người khác (chỉ một Haiku, bằng [Tengwar](../T/Tengwar.md) và tiếng Anh)
+- "Chân dung Haiku" của Don Studebaker, Ted Johnstone và những người khác (chỉ một haiku, bằng [Tengwar](../T/Tengwar.md) và tiếng Anh)
 - "Các khuôn mẫu đạo đức trong *The Lord of the Rings*" của Patricia Meyer Spacks (in lại từ *Critique* 3:1)
 - "No Monroe in Lothlorien" của Arthur Weir (in lại từ *Triode* #17, với một số nhận xét được rút ra ở đó, bao gồm [những nhận xét do Tolkien đưa ra trong thư gửi biên tập viên của *Triode*](../L/Letter_to_the_editor_of_Triode.md))
-- "Hobbit và Heroes" của Anthony Curtis (bài viết ngắn có trích từ [cuộc phỏng vấn J.R.R. Tolkien](../../index/I/Interviews_with_J.R.R._Tolkien.md), in lại từ [Tờ Sunday Telegraph, ngày 10 tháng 11 năm 1963](<../T/The_Sunday_Telegraph_(10_November_1963).md>))<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+- "Hobbit và những anh hùng" của Anthony Curtis (bài viết ngắn có trích từ [cuộc phỏng vấn với J.R.R. Tolkien](../../index/I/Interviews_with_J.R.R._Tolkien.md), in lại từ [Tờ Sunday Telegraph, ngày 10 tháng 11 năm 1963](<../T/The_Sunday_Telegraph_(10_November_1963).md>))<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

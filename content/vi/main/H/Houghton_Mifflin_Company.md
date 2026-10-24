@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Houghton Mifflin Harcourt"
 ---
 
-Chuyển hướng tới [Houghton Mifflin Harcourt](Houghton_Mifflin_Harcourt.md).
+Chuyển hướng đến [Houghton Mifflin Harcourt](Houghton_Mifflin_Harcourt.md).

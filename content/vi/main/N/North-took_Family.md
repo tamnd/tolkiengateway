@@ -13,7 +13,7 @@ categories:
   - "North-took"
 ---
 
-Gia đình **North-took** là hậu duệ của [Bandobras Took](../B/Bandobras_Took.md), định cư ở [Long Cleeve](../L/Long_Cleeve.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> có lẽ là ở [Northfarthing](Northfarthing.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Do đó, họ là một nhánh của [Gia đình Took](../T/Took_Family.md).
+Gia đình **North-took** là hậu duệ của [Bandobras Took](../B/Bandobras_Took.md), người định cư ở [Long Cleeve](../L/Long_Cleeve.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> có lẽ là ở [Northfarthing](Northfarthing.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Do đó, họ là một nhánh của [Gia đình Took](../T/Took_Family.md).
 
 ## Phả hệ {#Genealogy}
 

@@ -16,7 +16,7 @@ categories:
 
 ## Quenya {#Quenya}
 
-<i><b>calar</b></i> là từ [Quenya](../Q/Quenya.md) có nghĩa là "đèn".<sup id="cite_ref-VT47_1-0" class="reference"><a href="#cite_note-VT47-1">[1]</a></sup>
+<i><b>calar</b></i> là một từ [Quenya](../Q/Quenya.md) có nghĩa là "đèn".<sup id="cite_ref-VT47_1-0" class="reference"><a href="#cite_note-VT47-1">[1]</a></sup>
 
 ### Từ nguyên {#Etymology}
 
@@ -28,7 +28,7 @@ categories:
 
 ## Telerin {#Telerin}
 
-<i><b>calar</b></i> là từ [Telerin](../T/Telerin.md) có nghĩa là "đèn".<sup id="cite_ref-VT47_1-2" class="reference"><a href="#cite_note-VT47-1">[1]</a></sup>
+<i><b>calar</b></i> là một từ [Telerin](../T/Telerin.md) có nghĩa là "đèn".<sup id="cite_ref-VT47_1-2" class="reference"><a href="#cite_note-VT47-1">[1]</a></sup>
 
 ### Từ nguyên {#Etymology_2}
 

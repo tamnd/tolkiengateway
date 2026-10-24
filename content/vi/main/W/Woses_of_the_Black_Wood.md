@@ -37,7 +37,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Merp_woses.jpg.md"><img src="https://tolkiengateway.net/w/images/a/a0/Merp_woses.jpg" decoding="async" loading="lazy" width="283" height="362" class="mw-file-element" data-file-width="283" data-file-height="362"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span><i>Woses of the Black Wood</i></span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data">Jeff McKeage</td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="../A/Angus_McBride.md" title="Angus McBride">Angus McBride</a> (cover)</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../I/Iron_Crown_Enterprises.md" title="Iron Crown Enterprises">Iron Crown Enterprises</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/1987.md" title="1987">1987</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Softcover</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">32</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0-915795-99-X" title="Special:BookSources/0-915795-99-X">0-915795-99-X</a></td></tr><tr><th scope="row" class="tg-infobox-label">ICE stock no.</th><td class="tg-infobox-data">8107</td></tr></tbody></table>
 
-<i><b>Woses of the Black Wood</b></i> là một mô-đun (trong dòng *Ready-to-Run Adventure*) dành cho *[Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)*, Phiên bản đầu tiên.
+<i><b>Woses của Gỗ Đen</b></i> là một mô-đun (trong dòng *Ready-to-Run Adventure*) dành cho *[Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)*, Phiên bản đầu tiên.
 
 ## Văn bản bìa/áo khoác {#Cover/Jacket_Text}
 
@@ -47,6 +47,6 @@ Trong nhiều năm, người dân Bor Leath đã trải qua những nguy hiểm 
 
 Mười dặm về phía bắc của Bor Leath là quê hương của Coel, bà chủ thảo mộc. Cô đã kết bạn với những động vật địa phương, những người bảo vệ cô khỏi những nguy hiểm của Rừng Đen. Bạn sẽ gặp phải điều gì trong Cuộc phiêu lưu quanh Cabden?
 
-Người Woses tận dụng rất tốt những hang động rộng lớn đi sâu vào Bare Hills. Họ canh gác cẩn thận các đại sảnh và kho báu, nhắc nhở về sự thịnh vượng trong quá khứ. Bạn có sẵn sàng đối mặt với Darkwood Woses không?
+Woses tận dụng tốt những hang động rộng lớn đi sâu vào Đồi Trần. Họ canh gác cẩn thận các đại sảnh và kho báu, nhắc nhở về sự thịnh vượng trong quá khứ. Bạn có sẵn lòng đối đầu với Darkwood Woses không?
 
 Sự giàu có hứa hẹn nhưng nguy hiểm luôn rình rập trong 3 cuộc phiêu lưu thú vị này!

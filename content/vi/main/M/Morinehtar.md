@@ -11,4 +11,4 @@ redirect_target: "Blue Wizards"
 redirect_fragment: "Later writings"
 ---
 
-Chuyển hướng đến [Pháp sư xanh](../B/Blue_Wizards.md#Later_writings).
+Chuyển hướng tới [Xanh lam Pháp sư](../B/Blue_Wizards.md#Later_writings).

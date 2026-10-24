@@ -15,7 +15,7 @@ sort_keys:
   "Sindarin nouns": "Gwanur"
 ---
 
-<i><b>gwanûr</b></i> là một từ [tiếng Sindarin](../S/Sindarin.md) có nghĩa là "cặp sinh đôi".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Từ tiếng Sindarin <i><b>gwanūn</b></i> được hiểu là "cặp sinh đôi".<sup id="cite_ref-WJ_2-0" class="reference"><a href="#cite_note-WJ-2">[2]</a></sup>
+<i><b>gwanûr</b></i> là một từ [Sindarin](../S/Sindarin.md) có nghĩa là "cặp sinh đôi".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Từ Sindarin <i><b>gwanūn</b></i> được hiểu là "cặp sinh đôi".<sup id="cite_ref-WJ_2-0" class="reference"><a href="#cite_note-WJ-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

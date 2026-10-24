@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Athrabeth Finrod ah Andreth"
 ---
 
-Chuyển hướng tới [Athrabeth Finrod ah Andreth](../A/Athrabeth_Finrod_ah_Andreth.md).
+Chuyển hướng đến [Athrabeth Finrod ah Andreth](../A/Athrabeth_Finrod_ah_Andreth.md).

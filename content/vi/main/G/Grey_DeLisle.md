@@ -33,7 +33,7 @@ infobox:
 
 ## Vai trò {#Roles}
 
-- [2003](../_/2003.md) - [*The Hobbit* (trò chơi điện tử năm 2003)](<../T/The_Hobbit_(2003_video_game).md>) - Wrath the Spider (Attercop), quý cô Elf, lính canh Elf, nhiều phụ nữ ở thị trấn Hồ.
+- [2003](../_/2003.md) - [*The Hobbit* (trò chơi điện tử năm 2003)](<../T/The_Hobbit_(2003_video_game).md>) - Wrath the Spider (Attercop), quý cô Tiên, Tiên lính canh, nhiều Thị trấn Hồ phụ nữ khác nhau.
 
 ## Liên kết ngoài {#External_links}
 

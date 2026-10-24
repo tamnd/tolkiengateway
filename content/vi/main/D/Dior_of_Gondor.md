@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dior (Steward of Gondor)"
 ---
 
-Chuyển hướng tới [Dior (Quản gia Gondor)](<Dior_(Steward_of_Gondor).md>).
+Chuyển hướng tới [Dior (Người quản lý của Gondor)](<Dior_(Steward_of_Gondor).md>).

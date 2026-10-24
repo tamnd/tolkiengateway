@@ -46,20 +46,20 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/F/Frank_Rivolli_-_The_Dwarfs.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b6/Frank_Rivolli_-_The_Dwarfs.jpg/300px-Frank_Rivolli_-_The_Dwarfs.jpg" decoding="async" loading="lazy" width="300" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b6/Frank_Rivolli_-_The_Dwarfs.jpg/449px-Frank_Rivolli_-_The_Dwarfs.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/b/b6/Frank_Rivolli_-_The_Dwarfs.jpg/599px-Frank_Rivolli_-_The_Dwarfs.jpg 2x" data-file-width="900" data-file-height="1441"/></a><figcaption>&#34;The Dwarfs&#34; by Frank Rivolli</figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Organization</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Thorin and Company</span></th></tr><tr><th scope="row" class="tg-infobox-label">Founded</th><td class="tg-infobox-data"><a href="Third_Age.md" title="Third Age">T.A.</a> <a href="Third_Age_2941.md" title="Third Age 2941">2941</a></td></tr><tr><th scope="row" class="tg-infobox-label">Founder</th><td class="tg-infobox-data"><a href="Thorin.md" title="Thorin">Thorin</a></td></tr><tr><th scope="row" class="tg-infobox-label">Purpose</th><td class="tg-infobox-data">Reclamation of the <a href="../L/Lonely_Mountain.md" title="Lonely Mountain">Lonely Mountain</a>, and recovery of Dwarven wealth, including the <a href="../A/Arkenstone.md" title="Arkenstone">Arkenstone</a></td></tr><tr><th scope="row" class="tg-infobox-label">Members</th><td class="tg-infobox-data"><a href="Thorin.md" title="Thorin">Thorin</a>, <a href="../B/Balin.md" title="Balin">Balin</a>, <a href="../D/Dwalin.md" title="Dwalin">Dwalin</a>, <a href="../F/Fíli.md" title="Fíli">Fíli</a>, <a href="../K/Kíli.md" title="Kíli">Kíli</a>, <a href="../D/Dori.md" title="Dori">Dori</a>, <a href="../N/Nori.md" title="Nori">Nori</a>, <a href="../O/Ori.md" title="Ori">Ori</a>, <a href="../_/Óin.md" title="Óin">Óin</a>, <a href="../G/Glóin.md" title="Glóin">Glóin</a>, <a href="../B/Bifur.md" title="Bifur">Bifur</a>, <a href="../B/Bofur.md" title="Bofur">Bofur</a>, <a href="../B/Bombur.md" title="Bombur">Bombur</a> and <a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo Baggins</a></td></tr><tr><th scope="row" class="tg-infobox-label">Disbanded</th><td class="tg-infobox-data"><a href="Third_Age.md" title="Third Age">T.A.</a> <a href="Third_Age_2941.md" title="Third Age 2941">2941</a></td></tr><tr><th scope="row" class="tg-infobox-label">Notable for</th><td class="tg-infobox-data">Re-establishment of the <a href="../K/Kingdom_under_the_Mountain.md" title="Kingdom under the Mountain">Kingdom under the Mountain</a>, bringing about the death of <a href="../S/Smaug.md" title="Smaug">Smaug</a></td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Thorin_and_Company.md" title="Category:Images of Thorin and Company">Images of Thorin and Company</a></td></tr></tbody></table>
 
-**Thorin và đồng đội** đề cập đến mười ba [Người lùn](../D/Dwarves.md) bị lưu đày dưới sự lãnh đạo của [Thorin Oakenshield](Thorin_Oakenshield.md) và một [Hobbit](../H/Hobbits.md) [Bilbo Baggins](../B/Bilbo_Baggins.md), người đã thực hiện [Quest of Erebor](../Q/Quest_of_Erebor.md) nổi tiếng, du hành qua [Dãy núi sương mù](../M/Misty_Mountains.md) và [Wilderland](../R/Rhovanion.md) đến [Núi cô đơn](../L/Lonely_Mountain.md), để lấy lại kho báu cổ xưa của họ từ Vương quốc [Erebor](../L/Lonely_Mountain.md), bị đánh cắp bởi [Rồng](../D/Dragons.md) [Smaug](../S/Smaug.md).
+**Thorin và Đoàn tùy tùng** đề cập đến mười ba [Người Lùn](../D/Dwarves.md) bị lưu đày dưới sự lãnh đạo của [Thorin Oakenshield](Thorin_Oakenshield.md) và một [Hobbit](../H/Hobbits.md) [Bilbo Baggins](../B/Bilbo_Baggins.md), người đã thực hiện [Nhiệm vụ Erebor](../Q/Quest_of_Erebor.md) nổi tiếng, du hành qua [Dãy Núi Sương Mù](../M/Misty_Mountains.md) và [Wilderland](../R/Rhovanion.md) đến [Ngọn Núi Cô Đơn](../L/Lonely_Mountain.md), để lấy lại kho báu cổ xưa của họ từ Vương quốc [Erebor](../L/Lonely_Mountain.md), bị [Rồng](../D/Dragons.md) đánh cắp [Smaug](../S/Smaug.md).
 
-Công ty của Thorin là:
+đoàn tùy tùng của Thorin là:
 
 - [Balin](../B/Balin.md) và [Dwalin](../D/Dwalin.md), con trai của [Fundin](../F/Fundin.md) (hậu duệ của [Náin II](../N/Náin_II.md))
 - [Óin](../_/Óin.md) và [Glóin](../G/Glóin.md), con trai của [Gróin](../G/Gróin.md) (anh em họ của Balin và Dwalin)
 - [Fíli](../F/Fíli.md) và [Kíli](../K/Kíli.md), anh em, cháu trai của Thorin
-- [Dori](../D/Dori.md), [Nori](../N/Nori.md) và [Ori](../O/Ori.md) (Người lùn của [Nhà Durin](../H/House_of_Durin.md))
-- [Bifur](../B/Bifur.md) cùng với anh em họ [Bofur](../B/Bofur.md) và [Bombur](../B/Bombur.md) (hậu duệ của [Người lùn ở Khazad-dûm](../D/Dwarves_of_Khazad-dûm.md))<sup id="cite_ref-Durin_1-0" class="reference"><a href="#cite_note-Durin-1">[1]</a></sup>
-- Và Bilbo Baggins, một người Hobbit của [Quận](The_Shire.md)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- [Dori](../D/Dori.md), [Nori](../N/Nori.md) và [Ori](../O/Ori.md) (Người Lùn của [Gia tộc Durin](../H/House_of_Durin.md))
+- [Bifur](../B/Bifur.md) cùng với anh em họ [Bofur](../B/Bofur.md) và [Bombur](../B/Bombur.md) (hậu duệ của [Người lùn Khazad-dûm](../D/Dwarves_of_Khazad-dûm.md))<sup id="cite_ref-Durin_1-0" class="reference"><a href="#cite_note-Durin-1">[1]</a></sup>
+- Và Bilbo Baggins, một Hobbit của [ Shire](The_Shire.md)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 Họ đã tham gia cùng [Gandalf](../G/Gandalf.md) trong một phần của cuộc hành trình.
 
-Thorin tự gọi mình và những người bạn đồng hành Người lùn của mình là "Thorin và Đồng đội" trong dòng mở đầu của tin nhắn để lại trên bệ lò sưởi của Bilbo sau [bữa tiệc bất ngờ](../A/An_Unexpected_Party.md) tại [Bag End](../B/Bag_End.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Thorin tự gọi mình và những người bạn đồng hành Người lùn của mình là "Thorin và Đoàn tùy tùng" trong dòng mở đầu tin nhắn để lại trên bệ lò sưởi của Bilbo sau [bữa tiệc bất ngờ](../A/An_Unexpected_Party.md) tại [Bag End](../B/Bag_End.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
@@ -87,15 +87,15 @@ Thorin tự gọi mình và những người bạn đồng hành Người lùn c
 		</li>
 </ul>
 
-<b>1967: <a href="The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>Người Hobbit</i> (phim 1977)</a>:</b>
+<b>1967: <a href="The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>The Hobbit</i> (phim 1977)</a>:</b>
 
 <dl><dd>The entire company marches out to join the Dwarves of the Iron Hills in facing the men and elves. Seven members of the company are killed or mortally wounded during the Battle of Five Armies. Or these, only Thorin and Bombur are identified by name.</dd></dl>
 
-<b>2007: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i></b>
+<b>2007: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i></b>
 
 <dl><dd>All surviving members of the Company appear in the game. After the <a href="../B/Battle_of_Dale.md" title="Battle of Dale">Battle of Dale</a> the Dwarves and <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> pay homage to the tombs of Thorin, Fíli and Kíli, which are now next to that of King <a href="../D/Dáin_Ironfoot.md" title="Dáin Ironfoot">Dáin Ironfoot</a>.</dd></dl>
 
-<b>2012-14: <a href="The_Hobbit_(film_series).md" title="The Hobbit (film series)"><i>Loạt phim Người Hobbit</i></a>:</b>
+<b>2012-14: <a href="The_Hobbit_(film_series).md" title="The Hobbit (film series)"><i>The Hobbit</i> loạt phim</a>:</b>
 
 <dl><dd>The thirteen Dwarves all feature in the films, although they do not wear coloured hoods, and are given more developed and distinct personalities as opposed to the novel. The Dwarves battle with <a href="../S/Smaug.md" title="Smaug">Smaug</a>, instead of hiding from him, in the &#34;Battle of the Forges&#34;. The Company is broken only once; when four of the Dwarves stay behind in Lake-town prior to the death of Smaug. While Thorin is under the influence of dragon-sickness, Gandalf says that &#34;there is no Company, not anymore&#34;. But all thirteen Dwarves and Bilbo Baggins fight in <a class="mw-redirect" href="The_Battle_of_the_Five_Armies~46073.md" title="The Battle of the Five Armies">the Battle of the Five Armies</a>, where Thorin, Fíli and Kíli are slain.</dd></dl>
 

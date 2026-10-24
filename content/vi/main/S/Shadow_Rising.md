@@ -17,15 +17,15 @@ images:
 
 <figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/ShadowRising.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/a/af/ShadowRising.jpg/250px-ShadowRising.jpg" decoding="async" loading="lazy" width="250" height="250" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/af/ShadowRising.jpg/375px-ShadowRising.jpg 1.5x, https://tolkiengateway.net/w/images/a/af/ShadowRising.jpg 2x" data-file-width="450" data-file-height="450"/></a><figcaption>Shadow Rising cover</figcaption></figure>
 
-<i><b>Shadow Rising</b></i> là một album của [Soundestiny](Soundestiny.md) được phát hành vào năm 2004.
+<i><b>Bóng Tối Rising</b></i> là một album của [Soundestiny](Soundestiny.md) được phát hành vào năm 2004.
 
-Nó được lấy cảm hứng từ *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* và là album đầu tiên của ban nhạc. Nhạc được viết bởi Darryl Grant Potter và Michael Bohl; lời bài hát là của Darryl Grant Potter. Sau hai album nữa – *Journey Through Love* vào năm 2006 và [All that Glitters](../A/All_that_Glitters.md) vào năm 2009, [Soundestiny](Soundestiny.md) đã phát hành album tiếp theo lấy cảm hứng từ LOTR – [Winds of Change](../W/Winds_of_Change.md) vào năm 2010. Sau đó, ban nhạc quay trở lại phòng thu để thu âm một album nhạc folk rock khác mang tên [Dragon Quest](../D/Dragon_Quest.md), lấy cảm hứng từ *[The Hobbit](../T/The_Hobbit.md)*. Các album *Shadow Rising* và [Winds of Change](../W/Winds_of_Change.md) cùng nhau tạo thành một vở opera hoặc nhạc rock gồm 25 bài hát có tựa đề **RingLord**. Nhạc rock này chỉ được lấy cảm hứng từ *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*. Xuyên suốt lời bài hát, không có đề cập đến bất kỳ nhân vật nào từ *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, chẳng hạn như [Gandalf](../G/Gandalf.md) hay [Aragorn](../A/Aragorn.md), cũng như tên địa danh [Trung địa](../M/Middle-earth.md) như [Rivendell](../R/Rivendell.md) hay [Lothlorien](../L/Lothlórien.md).
+Nó được lấy cảm hứng từ *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* và là album đầu tiên của ban nhạc. Nhạc được viết bởi Darryl Grant Potter và Michael Bohl; lời bài hát là của Darryl Grant Potter. Sau hai album nữa – *Journey Through Love* vào năm 2006 và [All that Glitters](../A/All_that_Glitters.md) vào năm 2009, [Soundestiny](Soundestiny.md) đã phát hành album tiếp theo lấy cảm hứng từ LOTR – [Winds of Change](../W/Winds_of_Change.md) vào năm 2010. Sau đó, ban nhạc quay trở lại phòng thu để thu âm một album nhạc folk rock khác mang tên [Rồng Quest](../D/Dragon_Quest.md), lấy cảm hứng từ *[The Hobbit](../T/The_Hobbit.md)*. Các album *Shadow Rising* và [Winds of Change](../W/Winds_of_Change.md) cùng nhau tạo thành một vở opera hoặc nhạc rock gồm 25 bài hát có tựa đề **RingLord**. Nhạc rock này chỉ được lấy cảm hứng từ *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*. Xuyên suốt lời bài hát, không có đề cập đến bất kỳ nhân vật nào trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, chẳng hạn như [Gandalf](../G/Gandalf.md) hoặc [Aragorn](../A/Aragorn.md), cũng như [Trung Địa](../M/Middle-earth.md) tên địa danh như [Rivendell](../R/Rivendell.md) hoặc [Lothlorien](../L/Lothlórien.md).
 
 ## Đội hình {#Lineup}
 
 - Darryl Grant Potter: vocal, guitar, keyboard, sáo
 - Elissa Maclean: giọng hát
-- Michael Bohl: ghi-ta, bass
+- Michael Bohl: guitar, bass
 - Julia Lefik: giọng hát
 
 ## Khách {#Guests}
@@ -67,7 +67,7 @@ Nó được lấy cảm hứng từ *[The Lord of the Rings](../T/The_Lord_of_t
 
 - (Bài hát ẩn). Mãi mãi – 3:30
 
-(Bài hát ẩn cuối cùng, Ever on, bắt đầu một phút rưỡi sau khi kết thúc bài hát thứ mười hai. Bài hát không kết nối này cũng xuất hiện dưới dạng bài hát số 12 trong album [Dragon Quest](../D/Dragon_Quest.md) của [Soundestiny](Soundestiny.md) phát hành năm 2012 - nhưng có thêm bộ gõ và hòa âm.
+(Bài hát ẩn cuối cùng, Ever on, bắt đầu một phút rưỡi sau khi kết thúc bài hát thứ mười hai. Bài hát không kết nối này cũng xuất hiện dưới dạng bài hát số 12 trong album [Rồng Quest](../D/Dragon_Quest.md) của [Soundestiny](Soundestiny.md) phát hành năm 2012 - nhưng có thêm bộ gõ và hòa âm.
 
 ## Mẫu {#Sample}
 

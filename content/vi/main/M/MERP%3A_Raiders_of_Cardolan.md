@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Raiders of Cardolan"
 ---
 
-Chuyển hướng tới [Raiders of Cardolan](../R/Raiders_of_Cardolan.md).
+Chuyển hướng đến [Raiders của Cardolan](../R/Raiders_of_Cardolan.md).

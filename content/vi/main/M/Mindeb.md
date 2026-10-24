@@ -27,9 +27,9 @@ langlinks:
     url: "https://kontu.wiki/Mindeb"
 ---
 
-**Mindeb** là sông của [Beleriand](../B/Beleriand.md), một nhánh phía bắc của sông [Sirion](../S/Sirion.md).
+Sông **Mindeb** là sông [Beleriand](../B/Beleriand.md), phụ lưu phía bắc của sông [Sirion](../S/Sirion.md).
 
-Sông Mindeb bắt đầu ở [Ered Gorgoroth](../E/Ered_Gorgoroth.md) gần [Đèo Anach](../A/Anach.md) và gặp một nhánh đến từ [Crissaegrim](../C/Crissaegrim.md). Bờ phía tây của nó là vùng đất [Dimbar](../D/Dimbar.md) trong khi ở phía đông là thung lũng [Nan Dungortheb](../N/Nan_Dungortheb.md) và [Rừng Neldoreth](../F/Forest_of_Neldoreth.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Ở vùng hạ lưu nó giáp với [Doriath](../D/Doriath.md) và do đó là một phần của [Vòng đai Melian](../G/Girdle_of_Melian.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
+Dòng Mindeb bắt đầu ở [Ered Gorgoroth](../E/Ered_Gorgoroth.md) gần [Đèo Anach](../A/Anach.md) và gặp một nhánh đến từ [Crissaegrim](../C/Crissaegrim.md). Bờ phía tây là vùng đất [Dimbar](../D/Dimbar.md) trong khi ở phía đông là thung lũng [Nan Dungortheb](../N/Nan_Dungortheb.md) và [Rừng Neldoreth](../F/Forest_of_Neldoreth.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Ở vùng hạ lưu, nó giáp với [Doriath](../D/Doriath.md) và do đó là một phần của [Vành đai Melian](../G/Girdle_of_Melian.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

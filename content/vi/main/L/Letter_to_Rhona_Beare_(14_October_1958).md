@@ -16,7 +16,7 @@ sort_keys:
   "Letters": "Beare, Rhona (1958-10-14)"
 ---
 
-Vào [14 tháng 10](../_/14_October.md) [1958](../_/1958.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) gửi [Rhona Beare](../R/Rhona_Beare.md)**.
+Vào [14 tháng 10](../_/14_October.md) [1958](../_/1958.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho [Rhona Beare](../R/Rhona_Beare.md)**.
 
 Đây là một trong hai chữ cái được in trong *[J.R.R. Tolkien's Letters to Rhona Beare](../J/J.R.R._Tolkien's_Letters_to_Rhona_Beare.md)*, là bản gốc của [Thư 211](Letter_211.md).
 

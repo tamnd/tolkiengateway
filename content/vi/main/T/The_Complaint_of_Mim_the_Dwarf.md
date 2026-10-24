@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Complaint of Mîm the Dwarf"
 ---
 
-Chuyển hướng đến [Lời phàn nàn của Mîm người lùn](The_Complaint_of_Mîm_the_Dwarf.md).
+Chuyển hướng đến [Khiếu nại của Mîm Người lùn](The_Complaint_of_Mîm_the_Dwarf.md).

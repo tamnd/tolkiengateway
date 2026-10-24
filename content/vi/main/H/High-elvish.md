@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Eldarin"
 ---
 
-Chuyển hướng tới [Eldarin](../E/Eldarin.md).
+Chuyển hướng đến [Eldarin](../E/Eldarin.md).

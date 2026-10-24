@@ -43,11 +43,11 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../H/Hobbits.md" title="Hobbits">Hobbit</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mentha Brandybuck</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../B/Buckland.md" title="Buckland">Buckland</a></td></tr><tr><th scope="row" class="tg-infobox-label">Birth</th><td class="tg-infobox-data"><a class="mw-redirect" href="../S/Shire_Reckoning.md" title="Shire Reckoning">S.R.</a> <a href="../T/Third_Age_2983.md" title="Third Age 2983">1383</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">Family</th><td class="tg-infobox-data"><a class="mw-redirect" href="../B/Brandybuck_Family~66350.md" title="Brandybuck Family">Brandybuck</a></td></tr><tr><th scope="row" class="tg-infobox-label">Parentage</th><td class="tg-infobox-data"><a href="Marmadas_Brandybuck.md" title="Marmadas Brandybuck">Marmadas Brandybuck</a></td></tr><tr><th scope="row" class="tg-infobox-label">Siblings</th><td class="tg-infobox-data"><a href="Merimas_Brandybuck.md" title="Merimas Brandybuck">Merimas</a> and <a href="Melilot_Brandybuck.md" title="Melilot Brandybuck">Melilot</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Female</td></tr></tbody></table>
 
-**Mentha Brandybuck** là một [Hobbit](../H/Hobbits.md) của [Buckland](../B/Buckland.md).
+**Mentha Brandybuck** là [Hobbit](../H/Hobbits.md) trong số [Buckland](../B/Buckland.md).
 
 ## Lịch sử {#History}
 
-Mentha là con thứ hai của [Marmadas Brandybuck](Marmadas_Brandybuck.md). Bà đã có mặt tại [Bữa tiệc sinh nhật của Bilbo](../B/Bilbo's_Farewell_Party.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Mentha là con thứ hai của [Marmadas Brandybuck](Marmadas_Brandybuck.md). Bà đã có mặt tại bữa tiệc sinh nhật của [Bilbo](../B/Bilbo's_Farewell_Party.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

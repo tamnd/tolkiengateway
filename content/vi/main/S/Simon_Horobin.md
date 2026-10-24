@@ -20,7 +20,7 @@ sort_keys:
   "People by name": "Horobin, Simon"
 ---
 
-Tiến sĩ **Simon C.P. Horobin** là Nghiên cứu viên dạy kèm và đọc ngôn ngữ tiếng Anh thời Trung cổ tại [Magdalen College, Oxford](../U/University_of_Oxford.md). Trước đó, ông là giảng viên môn Ngôn ngữ Anh tại <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Glasgow" title="wikipedia:University of Glasgow">Đại học Glasgow</a>. Lĩnh vực nghiên cứu chính của anh là tiếng Anh trung đại và đặc biệt là <a class="extiw" href="http://en.wikipedia.org/wiki/Geoffrey_Chaucer" title="wikipedia:Geoffrey Chaucer">Chaucer</a>.
+Tiến sĩ **Simon C.P. Horobin** là Nghiên cứu viên dạy kèm và đọc tiếng Anh thời Trung cổ tại [Magdalen College, Oxford](../U/University_of_Oxford.md). Trước đó, ông là giảng viên môn Ngôn ngữ Anh tại <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Glasgow" title="wikipedia:University of Glasgow">Đại học Glasgow</a>. Lĩnh vực nghiên cứu chính của anh là tiếng Anh trung đại và đặc biệt là <a class="extiw" href="http://en.wikipedia.org/wiki/Geoffrey_Chaucer" title="wikipedia:Geoffrey Chaucer">Chaucer</a>.
 
 ## Thư mục {#Bibliography}
 

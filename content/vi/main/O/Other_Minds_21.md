@@ -28,17 +28,17 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Other Minds 21</span></th></tr><tr><th scope="row" class="tg-infobox-label">Latest editor</th><td class="tg-infobox-data"><a href="../T/Thomas_Morwinsky.md" title="Thomas Morwinsky">Thomas Morwinsky</a>, Hawke Robinson</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Other Minds Volunteers</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">August <a href="../_/2019.md" title="2019">2019</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">PDF</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">119</td></tr></tbody></table>
 
-<b><i>Other Minds</i> 21</b> là số thứ 21 của *[Other Minds](Other_Minds.md)*, một tạp chí dành riêng cho *[Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)* và các trò chơi nhập vai khác lấy bối cảnh ở Trung Địa, được xuất bản vào tháng 8 năm 2019.
+<b><i>Other Minds</i> 21</b> là số thứ 21 của *[Other Minds](Other_Minds.md)*, một tạp chí dành riêng cho *[Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)* và các trò chơi nhập vai khác lấy bối cảnh Trung Địa, xuất bản vào tháng 8 năm 2019.
 
 ## Nội dung {#Contents}
 
-- "Biên tập: Mùa hè ở Trung địa"
+- "Biên tập: Mùa hè ở Trung Địa"
     - Bởi [Thomas Morwinsky](../T/Thomas_Morwinsky.md)
-- "Con Đường Mãi Mãi Đi"
+- "The Road Goes Ever On"
     - Bởi Thomas Morwinsky
 - "Thông tin nội bộ"
     - Bởi Thomas Morwinsky
-- "Lịch sử của núi Gundabad"
+- "Lịch sử của Mount Gundabad"
     - Bởi Thomas Morwinsky
 - "Quy tắc chuyển đổi MERP-TOR"
     - Tác giả José Enrique Vacas de la Rosa
@@ -46,7 +46,7 @@ infobox:
     - Bởi Thomas Morwinsky
 - "Trung Địa trong Thu nhỏ V: Lũ Orc"
     - Tác giả José Enrique Vacas de la Rosa
-- "Những đứa trẻ mất tích ở Bree"
+- "Những đứa trẻ mất tích của Bree"
     - Bởi Andreas Erdmann
 - "Sinh vật Trung Địa: Người sói (S. Gaur)"
     - Bởi: Thomas Morwinsky

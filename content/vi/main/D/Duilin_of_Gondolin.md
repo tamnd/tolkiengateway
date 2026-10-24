@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Duilin (elf of Gondolin)"
 ---
 
-Chuyển hướng đến [Duilin (yêu tinh Gondolin)](<Duilin_(elf_of_Gondolin).md>).
+Chuyển hướng đến [Duilin (Tiên của Gondolin)](<Duilin_(elf_of_Gondolin).md>).

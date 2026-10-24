@@ -20,4 +20,4 @@ sort_keys:
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="https://www.imdb.com/name/nm6444995/" rel="noreferrer noopener" target="_blank">Christopher Nightingale</a> tại <a class="external text" href="http://www.imdb.com/" rel="noreferrer noopener" target="_blank">IMDb</a>
+- <a class="external text" href="https://www.imdb.com/name/nm6444995/" rel="noreferrer noopener" target="_blank">Christopher Chim sơn ca</a> tại <a class="external text" href="http://www.imdb.com/" rel="noreferrer noopener" target="_blank">IMDb</a>

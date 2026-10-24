@@ -32,7 +32,7 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/N/Nachrichten_aus_Mittelerde.jpg.md"><img src="https://tolkiengateway.net/w/images/1/11/Nachrichten_aus_Mittelerde.jpg" decoding="async" loading="lazy" width="224" height="350" class="mw-file-element" data-file-width="224" data-file-height="350"/></a><figcaption>Cover of Hans J. Schütz’s German translation of <i>Unfinished Tales of Númenor and Middle-earth</i>.</figcaption></figure>
 
-**Hans Jürgen Schütz** ([4 tháng 9](../_/4_September.md) [1936](../_/1936.md)- [10 tháng 7](../_/10_July.md) [2004](../_/2004.md)) là một tác giả, nhà báo và dịch giả tự do người Đức.
+**Hans Jürgen Schütz** ([4 tháng Chín](../_/4_September.md) [1936](../_/1936.md)- [10 tháng 7](../_/10_July.md) [2004](../_/2004.md)) là một tác giả, nhà báo và dịch giả tự do người Đức.
 
 Hans J. Schütz học ngữ văn tiếng Đức và nghiên cứu tiếng Anh. Từ năm 1968 đến năm 1971, ông học nghề bán sách. Từ năm 1972 đến 1975 Hans J. Schütz làm biên tập viên. Từ năm 1976, ông làm tác giả và dịch giả tự do. Các tác phẩm của ông với tư cách là một tác giả phần lớn là về các chủ đề văn học, chẳng hạn như các nhà thơ Đức vô danh của thế kỷ 20, lịch sử kiểm duyệt văn học và các tác giả Do Thái. Hans J. Schütz là người dịch một số cuốn sách của các tác giả như <a class="extiw" href="http://en.wikipedia.org/wiki/Philip_Kerr" title="wikipedia:Philip Kerr">Philip Kerr</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Tad_Williams" title="wikipedia:Tad Williams">Tad Williams</a> và <a class="extiw" href="http://en.wikipedia.org/wiki/Patricia_A._McKillip" title="wikipedia:Patricia A. McKillip">Patricia A. McKillip</a> sang tiếng Đức. Đối với nhà xuất bản người Đức [Klett-Cotta](../K/Klett-Cotta.md), ông đã dịch các cuốn sách về [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) sang tiếng Đức.
 
@@ -41,10 +41,10 @@ Hans J. Schütz sống ở <a class="extiw" href="http://en.wikipedia.org/wiki/B
 ## Bản dịch {#Translations}
 
 - [1983](../_/1983.md): [Unfinished Tales of Númenor and Middle-earth](../U/Unfinished_Tales.md) (*Nachrichten aus Mittelerde*)
-- [1986](../_/1986.md): [Cuốn sách về những câu chuyện thất lạc Phần một](../T/The_Book_of_Lost_Tales_Part_One.md) (*Das Buch der Verschollenen Geschichten Teil 1*)
-- [1987](../_/1987.md): [Cuốn sách về những câu chuyện thất lạc Phần thứ hai](../T/The_Book_of_Lost_Tales_Part_Two.md) (*Das Buch der Verschollenen Geschichten Teil 2*)
+- [1986](../_/1986.md): [The Book of Lost Tales Part One](../T/The_Book_of_Lost_Tales_Part_One.md) (*Das Buch der Verschollenen Geschichten Teil 1*)
+- [1987](../_/1987.md): [The Book of Lost Tales Part Two](../T/The_Book_of_Lost_Tales_Part_Two.md) (*Das Buch der Verschollenen Geschichten Teil 2*)
 - [1987](../_/1987.md): *[The Complaint of Mîm the Dwarf](../T/The_Complaint_of_Mîm_the_Dwarf.md)*<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> (*Mîms Klage*)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
-- [1994](../_/1994.md): [Atlas Trung Địa](../T/The_Atlas_of_Middle-earth.md) (*Historischer Atlas von Mittelerde*)
+- [1994](../_/1994.md): [The Atlas of Middle-earth](../T/The_Atlas_of_Middle-earth.md) (*Historischer Atlas von Mittelerde*)
 - [1996](../_/1996.md): [J.R.R. Tolkien: Artist and Illustrator](../J/J.R.R._Tolkien%253A_Artist_and_Illustrator.md) (*J.R.R. Tolkien - Der Künstler*)
 - [1999](../_/1999.md): [Roverandom](../R/Roverandom.md)
 - Sách về [*The Lord of the Rings*(loạt phim)](<../T/The_Lord_of_the_Rings_(film_series).md>)

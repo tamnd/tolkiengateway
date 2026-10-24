@@ -25,7 +25,7 @@ images:
   - "Disambig.png"
 ---
 
-**Lórien** có thể đề cập đến:
+**Lórien** có thể tham khảo:
 
 ## Arda {#Arda}
 
@@ -39,7 +39,7 @@ images:
 ## Sách {#Books}
 
 - *[Farewell to Lórien](../F/Farewell_to_Lórien.md)*, chương 8 quyển II của *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)*.
-- <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Farewell_to_L%C3%B3rien_(The_Treason_of_Isengard)&amp;action=edit&amp;redlink=1" title="Farewell to Lórien (The Treason of Isengard) (page does not exist)">Tạm biệt Lórien (Sự phản bội của Isengard)</a></i>, chương thứ mười bốn của *[The Treason of Isengard](../T/The_Treason_of_Isengard.md)*.
+- <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Farewell_to_L%C3%B3rien_(The_Treason_of_Isengard)&amp;action=edit&amp;redlink=1" title="Farewell to Lórien (The Treason of Isengard) (page does not exist)">Tạm biệt Lórien (The Treason of Isengard)</a></i>, chương thứ mười bốn của *[The Treason of Isengard](../T/The_Treason_of_Isengard.md)*.
 - *[The Story Foreseen from Lórien](../T/The_Story_Foreseen_from_Lórien.md)*, chương thứ mười sáu của *The Treason of Isengard*.
 
 ## Các bản chuyển thể {#Adaptations}

@@ -16,14 +16,14 @@ images:
 
 **Lửa** có thể ám chỉ:
 
-## Trung địa {#Middle-earth}
+## Trung Địa {#Middle-earth}
 
 - [Rồng lửa](Fire-drakes.md), [rồng phun lửa](../D/Dragons.md).
-- [Hall of Fire](../H/Hall_of_Fire.md), một nơi gặp gỡ lớn ở [Rivendell](../R/Rivendell.md).
-- Núi lửa, [Orodruin](../M/Mount_Doom.md).
+- [Hall of Fire](../H/Hall_of_Fire.md), một địa điểm hội họp lớn ở [Rivendell](../R/Rivendell.md).
+- Núi Lửa, [Orodruin](../M/Mount_Doom.md).
 - Vòng lửa, [Narya](../N/Narya.md).
 - [Ngọn lửa bí mật](../S/Secret_Fire.md), một khái niệm bí ẩn liên quan đến sức mạnh của tạo hóa.
-    - Còn được gọi là: [Ngọn lửa Ilúvatar](Fire_of_Ilúvatar.md); [Ngọn lửa không thể tắt](Flame_Imperishable.md).
+    - Còn gọi là: [Lửa Ilúvatar](Fire_of_Ilúvatar.md); [Ngọn Lửa Bất Diệt](Flame_Imperishable.md).
 
 ## Các bản chuyển thể {#Adaptations}
 

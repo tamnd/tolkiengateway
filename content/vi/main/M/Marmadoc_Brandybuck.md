@@ -54,7 +54,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../H/Hobbits.md" title="Hobbits">Hobbit</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Marmadoc Brandybuck</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Other names</th><td class="tg-infobox-data">&#34;Masterful&#34;</td></tr><tr><th scope="row" class="tg-infobox-label">Titles</th><td class="tg-infobox-data"><a href="Master_of_Buckland.md" title="Master of Buckland">Master of Buckland</a></td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../B/Brandy_Hall.md" title="Brandy Hall">Brandy Hall</a>, <a href="../B/Buckland.md" title="Buckland">Buckland</a></td></tr><tr><th scope="row" class="tg-infobox-label">Birth</th><td class="tg-infobox-data"><a class="mw-redirect" href="../S/Shire_Reckoning.md" title="Shire Reckoning">S.R.</a> <a href="../T/Third_Age_2817.md" title="Third Age 2817">1217</a></td></tr><tr><th scope="row" class="tg-infobox-label">Rule</th><td class="tg-infobox-data"><a class="mw-redirect" href="../S/Shire_Reckoning.md" title="Shire Reckoning">S.R.</a> <a href="../T/Third_Age_2877.md" title="Third Age 2877">1277</a> - <a href="../T/Third_Age_2910.md" title="Third Age 2910">1310</a></td></tr><tr><th scope="row" class="tg-infobox-label">Death</th><td class="tg-infobox-data"><a class="mw-redirect" href="../S/Shire_Reckoning.md" title="Shire Reckoning">S.R.</a> <a href="../T/Third_Age_2910.md" title="Third Age 2910">1310</a> (aged 93)<br/></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">Family</th><td class="tg-infobox-data"><a class="mw-redirect" href="../B/Brandybuck_Family~66350.md" title="Brandybuck Family">Brandybuck</a></td></tr><tr><th scope="row" class="tg-infobox-label">Parentage</th><td class="tg-infobox-data"><a href="Madoc_Brandybuck.md" title="Madoc Brandybuck">Madoc Brandybuck</a> and <a href="../H/Hanna_Goldworthy.md" title="Hanna Goldworthy">Hanna Goldworthy</a></td></tr><tr><th scope="row" class="tg-infobox-label">Spouse</th><td class="tg-infobox-data"><a href="../A/Adaldrida_Bolger.md" title="Adaldrida Bolger">Adaldrida Bolger</a></td></tr><tr><th scope="row" class="tg-infobox-label">Children</th><td class="tg-infobox-data"><a href="../G/Gorbadoc_Brandybuck.md" title="Gorbadoc Brandybuck">Gorbadoc</a> and <a href="../O/Orgulas_Brandybuck.md" title="Orgulas Brandybuck">Orgulas</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr></tbody></table>
 
-**Marmadoc "Masterful" Brandybuck** là một [Hobbit](../H/Hobbits.md) của [Shire](../T/The_Shire.md).
+**Marmadoc "Masterful" Brandybuck** là [Hobbit](../H/Hobbits.md) của [the Shire](../T/The_Shire.md).
 
 ## Lịch sử {#History}
 
@@ -62,13 +62,13 @@ Marmadoc là con trai của [Madoc Brandybuck](Madoc_Brandybuck.md) và [Hanna G
 
 ## Từ nguyên {#Etymology}
 
-Ý nghĩa của tên *Marmadoc* vẫn chưa được biết. [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) lưu ý rằng tên của Bucklanders mang phong cách [Celtic](../C/Celtic.md) mơ hồ.<sup id="cite_ref-Translation_2-0" class="reference"><a href="#cite_note-Translation-2">[2]</a></sup>
+Ý nghĩa của tên *Marmadoc* vẫn chưa được biết. [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) lưu ý rằng tên của Bucklanders có phong cách [Celtic](../C/Celtic.md) mơ hồ.<sup id="cite_ref-Translation_2-0" class="reference"><a href="#cite_note-Translation-2">[2]</a></sup>
 
 [Jim Allan](../J/Jim_Allan.md) gợi ý rằng cái tên này được lấy cảm hứng từ cái tên *Marmaduke*, được đánh vần là *Marmaduc* vào thời trung cổ, có nguồn gốc từ tiếng Ireland *Maelmadoc* ("Servant-(of)-Maedoc"). Có thể đây là tham chiếu đến tên của cha anh, [Madoc Brandybuck](Madoc_Brandybuck.md), và tên của ông nội anh [Gormadoc Brandybuck](../G/Gormadoc_Brandybuck.md) lần lượt là tham chiếu đến tên của Madoc Brandybuck.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong phiên bản trước đó của cây phả hệ của [Brandybucks](../B/Brandybucks.md), tên của ông là *Marmaduc*.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Trong phiên bản cũ hơn của cây gia phả của [Brandybucks](../B/Brandybucks.md), tên của ông là *Marmaduc*.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 <span></span>
 

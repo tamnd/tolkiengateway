@@ -35,7 +35,7 @@ langlinks:
 
 ## Cảm hứng {#Inspiration}
 
-In [Humphrey Carpenter](../H/Humphrey_Carpenter.md)'s [1977](../_/1977.md) [biography](../J/J.R.R._Tolkien%253A_A_Biography.md) of [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), it is mentioned in a summary of *[The Bovadium Fragments](../T/The_End_of_Bovadium.md)* that the "Daemon of Vaccipratum" is "a reference to <a class="extiw" href="http://en.wikipedia.org/wiki/Lord_Nuffield" title="wikipedia:Lord Nuffield">Lord Nuffield</a> and his motor-works at Cowley".<sup id="cite_ref-Bio_2-2" class="reference"><a href="#cite_note-Bio-2">[2]</a></sup>
+Trong [1977](../_/1977.md) [tiểu sử](../J/J.R.R._Tolkien%253A_A_Biography.md) của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) của [Humphrey Carpenter](../H/Humphrey_Carpenter.md), trong phần tóm tắt của *[The Bovadium Fragments](../T/The_End_of_Bovadium.md)* có đề cập rằng "Daemon of Vaccipratum" là "tham chiếu đến <a class="extiw" href="http://en.wikipedia.org/wiki/Lord_Nuffield" title="wikipedia:Lord Nuffield">Lord Nuffield</a> và công trình động cơ của ông ấy tại Cowley".<sup id="cite_ref-Bio_2-2" class="reference"><a href="#cite_note-Bio-2">[2]</a></sup>
 
 <span></span>
 

@@ -67,12 +67,12 @@ Sự kiện xảy ra vào ngày 18 tháng 2.
 ## Trên Trái đất {#On_Earth}
 
 - **[1857](1857.md)** - [Arthur Tolkien](../A/Arthur_Tolkien.md) sinh ra ở Handsworth, Staffordshire, Anh.
-- **[1937](1937.md)** - Bài thơ "[Gõ Cửa](../T/The_Mewlips.md)" của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được đăng trên tạp chí *The Oxford Magazine*.
+- **[1937](1937.md)** - Bài thơ "[Gõ Cửa](../T/The_Mewlips.md)" của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được đăng trên *The Oxford Magazine*.
 - **[1938](1938.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 24](../L/Letter_24.md).
 - **[1944](1944.md)** - Người kể chuyện [Anthony Jackson](../A/Anthony_Jackson.md) ra đời.
-- **[1991](1991.md)** – Ngày cuối cùng của "Hội thảo về các ngôn ngữ của Trung Địa" đầu tiên tại nhà của [E.L.F.](../E/Elvish_Linguistic_Fellowship.md) thành viên [Bill Welden](../B/Bill_Welden.md).
+- **[1991](1991.md)** – Ngày cuối cùng của “Hội thảo về các ngôn ngữ của Trung Địa” đầu tiên tại nhà của [E.L.F.](../E/Elvish_Linguistic_Fellowship.md)thành viên [Bill Welden](../B/Bill_Welden.md).
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - Nhóm [Hiệp hội Nhẫn](../F/Fellowship_of_the_Ring.md) đi về phía nam dọc theo [Anduin](../A/Anduin.md). [Gollum](../G/Gollum.md) theo dõi họ trong nhật ký.
+    - Con [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) di chuyển về phía nam xuống [Anduin](../A/Anduin.md). [Gollum](../G/Gollum.md) theo dõi họ trên nhật ký.

@@ -41,13 +41,13 @@ infobox:
 
 ## Lịch sử {#History}
 
-Radhruin chiến đấu ở [Dagor Bragollach](../D/Dagor_Bragollach.md) dưới sự chỉ huy của [Barahir](../B/Barahir.md). Ông ta là thành viên của một nhóm nhỏ [mười hai](../B/Barahir's_outlaws.md) [Bëorings](../B/Bëorings.md) trung thành với lãnh chúa của họ đã sống sót.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Những người sống sót đã thành lập một ban nhạc nhỏ và sống ngoài vòng pháp luật ở [Dorthonion](../D/Dorthonion.md), gần [Tarn Aeluin](../T/Tarn_Aeluin.md).
+Radhruin chiến đấu trong [Dagor Bragollach](../D/Dagor_Bragollach.md) dưới sự chỉ huy của [Barahir](../B/Barahir.md). Ông ta là thành viên của một nhóm nhỏ gồm [mười hai](../B/Barahir's_outlaws.md) [Bëorings](../B/Bëorings.md) trung thành với lãnh chúa của họ đã sống sót.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Những người sống sót đã thành lập một ban nhạc nhỏ và sống ngoài vòng pháp luật ở [Dorthonion](../D/Dorthonion.md), gần [Tarn Aeluin](../T/Tarn_Aeluin.md).
 
-Họ sống ẩn náu một thời gian cho đến khi đặc vụ của [Morgoth](../M/Morgoth.md) bắt được [Gorlim](../G/Gorlim.md) và ép ông ta tiết lộ vị trí nơi ẩn náu của họ. [Orc](../O/Orcs.md) được cử đi đột kích và đã thành công. Radhruin và những kẻ ngoài vòng pháp luật khác đã bị giết. Chỉ có [Beren](../B/Beren.md) sống sót vì ông đã đi công tác xa.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Họ sống ẩn náu một thời gian cho đến khi đặc vụ của [Morgoth](../M/Morgoth.md) bắt được [Gorlim](../G/Gorlim.md) và buộc ông ta phải cung cấp địa điểm nơi ẩn náu của họ. [Orc](../O/Orcs.md) được cử đi đột kích nó và đã thành công. Radhruin và những kẻ ngoài vòng pháp luật khác đã bị giết. Chỉ có [Beren](../B/Beren.md) sống sót vì ông ta đã đi công tác xa.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Có thể phần cuối của tên là [Sindarin](../S/Sindarin.md) có nghĩa là "ngọn lửa".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Có thể phần cuối của tên là [Sindarin](../S/Sindarin.md) dành cho "ngọn lửa".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

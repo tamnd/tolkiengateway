@@ -21,7 +21,7 @@ sort_keys:
 
 ## Từ nguyên {#Etymology}
 
-Trong *[Etymologies](../T/The_Etymologies.md)*, Noldorin *lhûg* bắt nguồn từ [gốc](../S/Sundocarme.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=LOK&amp;action=edit&amp;redlink=1" title="LOK (page does not exist)">LOK</a>.<sup id="cite_ref-Ety370_1-1" class="reference"><a href="#cite_note-Ety370-1">[1]</a></sup>
+Trong *[Etymologies](../T/The_Etymologies.md)*, Noldorin *lhûg* xuất phát từ [gốc](../S/Sundocarme.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=LOK&amp;action=edit&amp;redlink=1" title="LOK (page does not exist)">LOK</a>.<sup id="cite_ref-Ety370_1-1" class="reference"><a href="#cite_note-Ety370-1">[1]</a></sup>
 
 ## Ví dụ {#Examples}
 

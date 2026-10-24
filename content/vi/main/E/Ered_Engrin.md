@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Iron Mountains"
 ---
 
-Chuyển hướng tới [Núi Sắt](../I/Iron_Mountains.md).
+Chuyển hướng đến [Dãy Núi Sắt](../I/Iron_Mountains.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Havens of the Falas"
 ---
 
-Chuyển hướng đến [Nơi trú ẩn của Falas](Havens_of_the_Falas.md).
+Chuyển hướng tới [Nơi trú ẩn của Falas](Havens_of_the_Falas.md).

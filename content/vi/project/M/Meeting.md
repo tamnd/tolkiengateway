@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Gateway:Meetings"
 ---
 
-Chuyển hướng tới [Cổng Tolkien:Cuộc họp](Meetings.md).
+Chuyển hướng tới [Tolkien Gateway:Cuộc họp](Meetings.md).

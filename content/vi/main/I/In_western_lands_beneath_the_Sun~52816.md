@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "In Western Lands beneath the Sun"
 ---
 
-Chuyển hướng đến [Ở vùng đất phía Tây bên dưới Mặt trời](In_Western_Lands_beneath_the_Sun.md).
+Chuyển hướng đến [Ở vùng đất phương Tây bên dưới Mặt Trời](In_Western_Lands_beneath_the_Sun.md).

@@ -38,39 +38,39 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tolkien_Studies_15.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/6e/Tolkien_Studies_15.jpg/320px-Tolkien_Studies_15.jpg" decoding="async" loading="lazy" width="320" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/6e/Tolkien_Studies_15.jpg/480px-Tolkien_Studies_15.jpg 1.5x, https://tolkiengateway.net/w/images/6/6e/Tolkien_Studies_15.jpg 2x" data-file-width="500" data-file-height="750"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Tolkien Studies: Volume 15</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../D/David_Bratman.md" title="David Bratman">David Bratman</a>, <a href="../M/Michael_D.C._Drout.md" title="Michael D.C. Drout">Michael D.C. Drout</a>, <a href="../V/Verlyn_Flieger.md" title="Verlyn Flieger">Verlyn Flieger</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">West Virginia University Press</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">October, <a href="../_/2018.md" title="2018">2018</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback; electronic</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">353</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">1547-3155</td></tr></tbody></table>
 
-<b><i>Nghiên cứu Tolkien</i>: Tập 15</b>, xuất bản trong [2018](../_/2018.md), là tập thứ mười lăm của tạp chí đánh giá hàng năm *[Tolkien Studies](<Tolkien_Studies_(journal).md>)*.
+<b><i>Tolkien Nghiên cứu</i>: Tập 15</b>, xuất bản trong [2018](../_/2018.md), là tập thứ mười lăm của tổng kết hàng năm *[Tolkien Studies](<Tolkien_Studies_(journal).md>)*.
 
-[Bài viết của Stuart D. Lee](../S/Stuart_D._Lee.md) "'Tolkien in Oxford' (BBC, 1968): A Reconstruction" bao gồm [cuộc phỏng vấn](../../index/I/Interviews_with_J.R.R._Tolkien.md) đầy đủ chưa được xuất bản trước đó mà J.R.R. Tolkien đưa ra cho ['Tolkien in Oxford' phim tài liệu BBC năm 1968](Tolkien_in_Oxford.md).
+[Bài viết của Stuart D. Lee](../S/Stuart_D._Lee.md) "'Tolkien in Oxford' (BBC, 1968): A Reconstruction" bao gồm [cuộc phỏng vấn](../../index/I/Interviews_with_J.R.R._Tolkien.md) đầy đủ chưa được xuất bản trước đó mà J.R.R. Tolkien đưa ra cho ['Tolkien trong Oxford' phim tài liệu BBC năm 1968](Tolkien_in_Oxford.md).
 
 <div class="template-prevnext"><div class="template-prevnext__prev template-prevnext__link"><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/8/81/WikimediaUI-ArrowPrevious-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__content"><div class="template-prevnext__title">Tolkien Studies: Volume 14</div></div><div class="template-prevnext__linkoverlay"><a href="Tolkien_Studies%253A_Volume_14.md" title="Tolkien Studies: Volume 14">Tolkien Studies: Volume 14</a></div></div><div class="template-prevnext__current"><div class="template-prevnext__content"><div class="template-prevnext__title">Tolkien Studies: Volume 15</div></div></div><div class="template-prevnext__next template-prevnext__link"><div class="template-prevnext__content"><div class="template-prevnext__title">Tolkien Studies: Volume 16</div></div><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/7b/WikimediaUI-ArrowNext-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__linkoverlay"><a href="Tolkien_Studies%253A_Volume_16.md" title="Tolkien Studies: Volume 16">Tolkien Studies: Volume 16</a></div></div></div>
 
 ## Nội dung {#Contents}
 
 - Bài viết
-    - Nicole duPlessis, "'Đã thay đổi, đã thay đổi hoàn toàn': Ý nghĩa của phần kết bị từ chối của Tolkien cho *The Lord of the Rings*"
-    - Tom Hillman, "Đây không phải là những yêu tinh mà bạn đang tìm kiếm: *Sir Orfeo*, *The Hobbit* và sự hình dung lại về yêu tinh"
-    - Jane Chance, "Tác phẩm cổ điển *Beowulf* của Tolkien và Thời đại anh hùng của nước Anh"
+    - Nicole duPlessis, "'Đã thay đổi, đã thay đổi hoàn toàn': Ý nghĩa của Phần kết bị từ chối của Tolkien đối với *The Lord of the Rings*"
+    - Tom Hillman, "Đây không phải là Tiên tộc bạn đang tìm kiếm: *Sir Orfeo*, *The Hobbit* và Sự hình dung lại Tiên tộc"
+    - Jane Chance, "Tolkien Cổ điển *Beowulf* và Thời đại anh hùng của nước Anh"
     - Chiara Bertoglio, "Những hòa âm bất hòa: Thần học âm nhạc của Tolkien"
 
 - Ghi chú và tài liệu
-    - Stuart D. Lee, "'Tolkien ở Oxford' (BBC, 1968): Một cuộc tái thiết"
-    - Janet Brennan Croft, "Cánh cửa dẫn vào gò yêu tinh: Lời giới thiệu, lời nói đầu và lời nói đầu của J.R.R. Tolkien"
+    - Stuart D. Lee, "'Tolkien in Oxford' (BBC, 1968): Một cuộc tái thiết"
+    - Janet Brennan Croft, "Cánh cửa vào Tiên-mounds: Lời giới thiệu, Lời nói đầu và Lời nói đầu của J.R.R. Tolkien"
     - Denham, Robert D., compiler, "References to J.R.R. Tolkien in the Collected Works of Northrop Frye"
 
 - Đánh giá sách
-    - *[The J.R.R. Tolkien Companion and Guide](The_J.R.R._Tolkien_Companion_and_Guide.md)*, ấn bản sửa đổi và mở rộng, của Christina Scull và Wayne G. Hammond, được Jason Fisher đánh giá
-    - *[Beren and Lúthien](../B/Beren_and_Lúthien.md)*, bởi J.R.R. Tolkien, do Christopher Tolkien biên tập, Sherwood Smith đánh giá
-    - *[Sẽ luôn có một câu chuyện cổ tích](There_Would_Always_Be_a_Fairy_Tale.md): Các bài tiểu luận khác về Tolkien*, của Verlyn Flieger, được Alyssa House-Thomas đánh giá
-    - *The Sweet and the Bitter: Death and Dying trong Chúa tể của những chiếc nhẫn* của J.R.R. Tolkien, bởi Amy Amendt-Raduege, được đánh giá bởi Robert Steed
+    - *[The J.R.R. Tolkien Companion and Guide](The_J.R.R._Tolkien_Companion_and_Guide.md)*, ấn bản sửa đổi và mở rộng, bởi Christina Scull và Wayne G. Hammond, được Jason Fisher đánh giá
+    - *[Beren and Lúthien](../B/Beren_and_Lúthien.md)*, bởi J.R.R. Tolkien, được chỉnh sửa bởi Christopher Tolkien, được Sherwood Smith đánh giá
+    - *[Sẽ Luôn Có Một Câu Chuyện Cổ Tích](There_Would_Always_Be_a_Fairy_Tale.md): Các bài tiểu luận khác về Tolkien*, của Verlyn Flieger, được đánh giá bởi Alyssa House-Thomas
+    - *The Sweet and the Bitter: Death and Dying in J.R.R. Tolkien's The Lord of the Rings*, của Amy Amendt-Raduege, được đánh giá bởi Robert Steed
     - *[J.R.R. Tolkien: Romanticist and Poet](../J/J.R.R._Tolkien%253A_Romanticist_and_Poet.md)*, của Julian Eilmann, được Jay Rimmer đánh giá
-    - *[The Inklings và King Arthur](The_Inklings_and_King_Arthur.md): J.R.R. Tolkien, Charles Williams, C. S. Lewis, & Owen Barfield về vấn đề nước Anh*, do Sørina Higgins biên tập, John D. Rateliff đánh giá
+    - *[ Inklings và Vua Arthur](The_Inklings_and_King_Arthur.md): J.R.R. Tolkien, Charles Williams, C. S. Lewis, & Owen Barfield về vấn đề nước Anh*, do Sørina Higgins biên tập, John D. Rateliff xem xét
 
-- David Bratman, Jason Fisher, John Wm. Houghton, John Magoun và Robin Anne Reid, "Công trình nghiên cứu về Tolkien của năm 2015"
+- David Bratman, Jason Fisher, John Wm. Houghton, John Magoun và Robin Anne Reid, "Công trình nghiên cứu Tolkien của năm 2015"
 - David Bratman, "Thư mục (bằng tiếng Anh) năm 2016"
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="https://muse.jhu.edu/issue/39281" rel="noreferrer noopener" target="_blank"><i>Nghiên cứu về Tolkien</i>: Tập 15</a> tại Project Muse
+- <a class="external text" href="https://muse.jhu.edu/issue/39281" rel="noreferrer noopener" target="_blank"><i>Tolkien Nghiên cứu</i>: Tập 15</a> tại Project Muse
 
 <br clear="all"/>
 

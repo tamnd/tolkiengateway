@@ -47,6 +47,6 @@ Năm 1986, de Lint là Khách mời danh dự tại [Mythcon 17](../M/Mythcon_17
 ## Liên kết ngoài {#External_links}
 
 - <b><a class="external text" href="http://www.charlesdelint.com" rel="noreferrer noopener" target="_blank">Trang web chính thức</a></b>
-- <a class="external text" href="http://greenbooks.theonering.net/tributes/files/charles_de_lint.html" rel="noreferrer noopener" target="_blank">Tưởng nhớ Tolkien</a> của Charles de Lint
+- <a class="external text" href="http://greenbooks.theonering.net/tributes/files/charles_de_lint.html" rel="noreferrer noopener" target="_blank">Tribute to Tolkien</a> của Charles de Lint
 - <a class="external text" href="http://www.youtube.com/watch?v=ofSU39_Zu_4" rel="noreferrer noopener" target="_blank">Nhà tù của trọng lực: Tolkien</a>, chương trình năm 1994 - Charles de Lint từ 9.24 trở đi
 - <a class="extiw" href="http://en.wikipedia.org/wiki/Charles_de_Lint" title="wikipedia:Charles de Lint">Charles de Lint</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>

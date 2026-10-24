@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Assassins of Dol Amroth"
 ---
 
-Chuyển hướng đến [Sát thủ Dol Amroth](../A/Assassins_of_Dol_Amroth.md).
+Chuyển hướng đến [Sát thủ của Dol Amroth](../A/Assassins_of_Dol_Amroth.md).

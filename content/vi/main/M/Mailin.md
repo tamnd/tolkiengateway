@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Maeglin"
 ---
 
-Chuyển hướng tới [Maeglin](Maeglin.md).
+Chuyển hướng đến [Maeglin](Maeglin.md).

@@ -37,4 +37,4 @@ infobox:
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
-**Overture (Từ "The Lord Of The Rings: The War Of The Rohirrim")** là bài hát đầu tiên trên [*The Lord of the Rings: The War of the Rohirrim* (Original Motion Picture Soundtrack)](<../T/The_Lord_of_the_Rings%253A_The_War_of_the_Rohirrim_(Original_Motion_Picture_Soundtrack).md>). Nó kết hợp mô típ One Ring và mô típ Rohan từ điểm của [Howard Shore](../H/Howard_Shore.md) cho [*The Lord of the Rings* bộ ba phim](<../T/The_Lord_of_the_Rings_(film_series).md>).
+**Overture (Từ "The Lord Of The Rings: The War Of The Rohirrim")** là bài hát đầu tiên trên [*The Lord of the Rings: The War of the Rohirrim* (Original Motion Picture Soundtrack)](<../T/The_Lord_of_the_Rings%253A_The_War_of_the_Rohirrim_(Original_Motion_Picture_Soundtrack).md>). Nó kết hợp mô típ Một chiếc nhẫn và mô típ Rohan từ điểm của [Howard Shore](../H/Howard_Shore.md) cho [*The Lord of the Rings* bộ ba phim](<../T/The_Lord_of_the_Rings_(film_series).md>).

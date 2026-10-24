@@ -14,9 +14,9 @@ categories:
   - "Quenya body parts"
 ---
 
-<i><b>telco</b></i> là từ [Quenya](../Q/Quenya.md) có nghĩa là "chân".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Do đó <i><a class="mw-redirect" href="Telcontar.md" title="Telcontar"><b>Telco</b>ntar</a></i> ("Strider").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+<i><b>telco</b></i> là từ [Quenya](../Q/Quenya.md) cho "chân".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Do đó <i><a class="mw-redirect" href="Telcontar.md" title="Telcontar"><b>Telco</b>ntar</a></i> ("Strider").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-*Telco* cũng đề cập đến đường thẳng 'gốc' xuất hiện trong chữ viết [Tengwar](Tengwar.md), có thể kéo dài lên trên hoặc xuống dưới dòng viết (mặc dù trong hệ thống ban đầu có tùy chọn thứ ba, một công ty viễn thông mở rộng cả trên và dưới dòng). Kết hợp với nét *[lúva](../L/Lúva.md)* ("cung"), nó tạo thành nền tảng của tất cả các ký tự chuẩn của [bảng chữ cái Fëanorian](../F/Fëanorian_alphabet.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+*Telco* cũng đề cập đến dòng 'gốc' thẳng xuất hiện trong văn bản [Tengwar](Tengwar.md), có thể kéo dài lên trên hoặc bên dưới dòng viết (mặc dù trong hệ thống ban đầu có tùy chọn thứ ba, một telco mở rộng cả trên và dưới dòng). Kết hợp với nét *[lúva](../L/Lúva.md)* ("cung"), nó tạo thành nền tảng của tất cả các ký tự chuẩn của [bảng chữ cái Fëanorian](../F/Fëanorian_alphabet.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

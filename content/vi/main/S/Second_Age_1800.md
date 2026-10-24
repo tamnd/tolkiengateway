@@ -16,14 +16,14 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="../T/Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><a href="../F/First_Age.md" title="First Age">I</a><b>II</b><a href="../T/Third_Age.md" title="Third Age">III</a><a href="../F/Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="Second_Age_1700.md" title="Second Age 1700">1700</a><a href="Second_Age_1701.md" title="Second Age 1701">1701</a><a href="Second_Age_1731.md" title="Second Age 1731">1731</a><a class="mw-selflink selflink">1800</a><a href="Second_Age_1869.md" title="Second Age 1869">1869</a><a href="Second_Age_1873.md" title="Second Age 1873">1873</a><a href="Second_Age_1986.md" title="Second Age 1986">1986</a></div></div></div></div></div></div>
 
-**Kỷ thứ hai 1800** (viết tắt là **S.A. 1800**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 1800 của [Kỷ thứ hai](Second_Age.md) của [Trung Địa](../M/Middle-earth.md).
+**Kỷ Đệ Nhị 1800** (viết tắt là **S.A. 1800**) là năm [thứ 1800 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Nhị](Second_Age.md) của [Trung Địa](../M/Middle-earth.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- Sự ra đời của [Tar-Atanamir](../T/Tar-Atanamir.md), con trai của [Tar-Ciryatan](../T/Tar-Ciryatan.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
-- Kể từ thời điểm này trở đi [Númenóreans](../N/Númenóreans.md) bắt đầu thiết lập quyền thống trị trên các bờ biển của [Trung Địa](../M/Middle-earth.md).<sup id="cite_ref-SA_2-0" class="reference"><a href="#cite_note-SA-2">[2]</a></sup>
-- [Sauron](Sauron.md) bí mật mở rộng quyền lực của mình về phía đông.<sup id="cite_ref-SA_2-1" class="reference"><a href="#cite_note-SA-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
-- Bóng đổ lên [Númenor](../N/Númenor.md).<sup id="cite_ref-SA_2-2" class="reference"><a href="#cite_note-SA-2">[2]</a></sup>
+- Sinh ra [Tar-Atanamir](../T/Tar-Atanamir.md), con trai của [Tar-Ciryatan](../T/Tar-Ciryatan.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+- Khoảng thời gian này trở đi [người Númenor](../N/Númenóreans.md) bắt đầu thiết lập quyền thống trị trên bờ biển của [Trung Địa](../M/Middle-earth.md).<sup id="cite_ref-SA_2-0" class="reference"><a href="#cite_note-SA-2">[2]</a></sup>
+- [Sauron](Sauron.md) bí mật mở rộng quyền lực về phía đông.<sup id="cite_ref-SA_2-1" class="reference"><a href="#cite_note-SA-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+- Bóng đổ trên [Númenor](../N/Númenor.md).<sup id="cite_ref-SA_2-2" class="reference"><a href="#cite_note-SA-2">[2]</a></sup>
 
 <span></span>
 

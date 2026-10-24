@@ -22,7 +22,7 @@ Vào tháng 12 [1959](../_/1959.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đ
 
 ## Nội dung {#Contents}
 
-\[Mô tả và đoạn trích:\] "Vào tháng 12 năm 1959 \[Tolkien\] phàn nàn rằng ông thấy 'nghỉ hưu bắt buộc vừa đau khổ vừa cực kỳ vất vả', phàn nàn về 'lương hưu rất không thỏa đáng'"<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+\[Mô tả và trích đoạn:\] "Vào tháng 12 năm 1959 \[Tolkien\] phàn nàn rằng ông thấy 'nghỉ hưu bắt buộc vừa đau khổ vừa cực kỳ vất vả', phàn nàn về 'lương hưu rất không thỏa đáng'"<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Xem thêm {#See_also}
 

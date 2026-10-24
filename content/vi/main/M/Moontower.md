@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Minas Morgul"
 ---
 
-Chuyển hướng tới [Minas Morgul](Minas_Morgul.md).
+Chuyển hướng đến [Minas Morgul](Minas_Morgul.md).

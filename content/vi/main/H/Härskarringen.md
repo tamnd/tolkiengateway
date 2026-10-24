@@ -79,12 +79,12 @@ Mẫu các phiên bản khác nhau của *Härskarringen*:<sup id="cite_ref-4" c
 
 <dl><dd><i>See: <a href="../_/Åke_Ohlmarks.md#Ohlmarks_and_Tolkien" title="Åke Ohlmarks">Åke Ohlmarks: Ohlmarks and Tolkien</a></i></dd></dl>
 
-Trong [bức thư tháng 7 năm 1960](../L/Letter_to_H.W._Donner.md), Tolkien bày tỏ sự không thích ảnh bìa của *Sagan om ringen*, vì nó mâu thuẫn với nội dung.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Trong một [bức thư tháng 7 năm 1960](../L/Letter_to_H.W._Donner.md), Tolkien bày tỏ sự không thích ảnh bìa của *Sagan om ringen*, vì nó mâu thuẫn với nội dung.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="extiw" href="http://en.wikipedia.org/wiki/Translation_of_The_Lord_of_the_Rings_into_Swedish" title="wikipedia:Translation of The Lord of the Rings into Swedish">Bản dịch Chúa tể của những chiếc nhẫn sang tiếng Thụy Điển</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
-- <a class="external text" href="https://web.archive.org/web/20131210214607/http://mythoi.tolkienindex.net/#post2" rel="noreferrer noopener" target="_blank">Hans Künzel đã khám phá ra <i>Chúa tể của những chiếc nhẫn</i>?</a> của [Morgan Thomsen](../M/Morgan_Thomsen.md)
+- <a class="extiw" href="http://en.wikipedia.org/wiki/Translation_of_The_Lord_of_the_Rings_into_Swedish" title="wikipedia:Translation of The Lord of the Rings into Swedish">Bản dịch The Lord of the Rings sang tiếng Thụy Điển</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
+- <a class="external text" href="https://web.archive.org/web/20131210214607/http://mythoi.tolkienindex.net/#post2" rel="noreferrer noopener" target="_blank">Hans Künzel đã phát hiện ra <i>The Lord of the Rings</i>?</a> của [Morgan Thomsen](../M/Morgan_Thomsen.md)
 
 <span></span>
 

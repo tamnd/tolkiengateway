@@ -33,7 +33,7 @@ Họ cũng đã phát hành bốn album phòng thu khác không liên quan đế
 
 ## Thành viên {#Members}
 
-- Margaret Davis: Giọng hát, Đàn hạc Celtic, Sáo, Máy ghi âm
+- Margaret Davis: Hát, Celtic Đàn hạc, Sáo, Máy ghi âm
 - Kristoph Klover: Hát, Guitar, Mandolin quãng tám, Oboe
 - Kris Yenney: Hát, Cello, Nyckelharpa, Hardanger cello d'Amore, Bộ gõ
 

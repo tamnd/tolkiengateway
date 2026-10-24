@@ -33,13 +33,13 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../T/Two_Lamps.md" title="Two Lamps">Two Lamps</a></b></div></div>
 
-**Illuin** là một trong [Hai ngọn đèn](../T/Two_Lamps.md) của [Valar](../V/Valar.md), được tạo ra bởi [Aulë](../A/Aulë.md), được lấp đầy bởi [Varda](../V/Varda.md) và được [Manwë](../M/Manwë.md) thần thánh vào thời xa xưa để mang lại ánh sáng cho thế giới. Nó được dựng trên ngọn núi [Helcar](../H/Helcar.md) ở phía bắc Trung Địa trong khi chiếc Đèn khác, [Ormal](../O/Ormal.md) được dựng ở phía nam. Nó đã bị [Melkor](../M/Morgoth.md) phá hủy và nơi nó rơi xuống đã tạo ra [Biển Helcar](../S/Sea_of_Helcar.md) trong đất liền.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Illuin** là một trong những [Hai Ngọn Đèn](../T/Two_Lamps.md) của [Valar](../V/Valar.md), được tạo ra bởi [Aulë](../A/Aulë.md), được lấp đầy bởi [Varda](../V/Varda.md) và được [Manwë](../M/Manwë.md) thần thánh vào thời xa xưa để mang lại ánh sáng cho thế giới. Nó được lắp đặt trên ngọn núi [Helcar](../H/Helcar.md) ở phía bắc của Trung Địa trong khi Đèn khác, [Ormal](../O/Ormal.md) được lắp đặt ở phía nam. Nó đã bị [Melkor](../M/Morgoth.md) phá hủy và nơi nó rơi xuống đã tạo ra vùng đất liền [Biển Helcar](../S/Sea_of_Helcar.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
 Ý nghĩa của *Illuin* không rõ ràng,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> nhưng nó có thể là sự kết hợp của *[il-](Ilmen.md)* ("bầu trời") và *[luin](../L/Luin.md)* ("xanh").
 
-Do từ nguyên rõ ràng của nó là "ánh sáng xanh" (trong khi cặp của nó gọi là ánh sáng "vàng"), có thể Illuin là tiền thân của [Telperion](../T/Telperion.md), màu bạc trong [Hai cây Valinor](../T/Two_Trees_of_Valinor.md) và của [Mặt trăng](../M/Moon.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Do từ nguyên rõ ràng của nó là "ánh sáng xanh" (trong khi cặp của nó gọi là ánh sáng "vàng"), có thể Illuin là tiền thân của [Telperion](../T/Telperion.md), màu bạc của [Hai Cây của Valinor](../T/Two_Trees_of_Valinor.md) và của [Mặt Trăng](../M/Moon.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

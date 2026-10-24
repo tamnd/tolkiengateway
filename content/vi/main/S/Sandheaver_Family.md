@@ -30,7 +30,7 @@ langlinks:
 
 ## Từ nguyên {#Etymology}
 
-Từ nguyên của cái tên này không được giải thích, nhưng rõ ràng nó chứa *sand* và <i><a class="extiw" href="http://en.wiktionary.org/wiki/heave#Verb" title="wiktionary:heave">heave</a></i>, ám chỉ người nâng và mang cát. Nếu vậy, nó có thể ám chỉ người nào đó đào [hố Hobbit](../H/Hobbit-hole.md), chẳng hạn như những hố trên sườn [Bree-hill](../B/Bree-hill.md). <span></span>
+Từ nguyên của cái tên này không được giải thích, nhưng rõ ràng nó chứa *sand* và <i><a class="extiw" href="http://en.wiktionary.org/wiki/heave#Verb" title="wiktionary:heave">heave</a></i>, ám chỉ người nâng và mang cát. Nếu vậy, nó có thể ám chỉ người nào đó đào một [Hobbit hố](../H/Hobbit-hole.md), chẳng hạn như những người trên sườn của [Bree-hill](../B/Bree-hill.md). <span></span>
 
 ## Tài liệu tham khảo {#References}
 

@@ -17,7 +17,7 @@ sort_keys:
   "Quenya nouns": "Unat"
 ---
 
-<i><b>únat</b></i> (pl. <i><b>únati</b></i>) là một danh từ [Quenya](../Q/Quenya.md) có nghĩa là "một điều không thể hoặc không thể làm được". Thuật ngữ này đề cập đến các quy luật vật lý không thể bị phá vỡ do [Ilúvatar](../I/Ilúvatar.md) thiết lập. *únati* tương phản với *[axani](../A/Axan.md)*, là những luật do Ilúvatar thiết lập mà những sinh vật thấp kém hơn không nên, nhưng có thể, bất tuân. [Melkor](../M/Melkor.md) từ chối chấp nhận bất kỳ *axani* nào làm ràng buộc đối với ông ta, nhưng ông ta không thể vi phạm *únati* khiến ông ta rất thất vọng. Vì *únati* vẫn còn, chúng là lời nhắc nhở vĩnh viễn về sự tồn tại của Eru và sự bất khả chiến bại của Ngài, điều này đã khơi dậy cơn thịnh nộ không ngừng và không thể nguôi ngoai của Melkor.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>únat</b></i> (pl. <i><b>únati</b></i>) là một danh từ [Quenya](../Q/Quenya.md) có nghĩa là "một điều không thể hoặc không thể làm được". Thuật ngữ này đề cập đến các quy luật vật lý được thiết lập bởi [Ilúvatar](../I/Ilúvatar.md) không thể bị phá vỡ. *únati* tương phản với *[axani](../A/Axan.md)*, là những luật được thiết lập bởi Ilúvatar mà những sinh vật thấp kém hơn không nên, nhưng có thể, bất tuân. [Melkor](../M/Melkor.md) từ chối chấp nhận bất kỳ *axani* nào làm ràng buộc đối với ông ta, nhưng ông ta không thể vi phạm *únati* khiến ông ta rất thất vọng. Vì *únati* vẫn còn tồn tại nên chúng là lời nhắc nhở vĩnh viễn về sự tồn tại của Eru và sự bất khả chiến bại của Ngài, điều này đã khơi dậy cơn thịnh nộ không ngừng và không thể nguôi ngoai của Melkor.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

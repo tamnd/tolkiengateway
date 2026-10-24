@@ -35,7 +35,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien nói với Dadlez rằng ông không thể viết nhiều ghi chú để bà Skibniewska sử dụng cho việc dịch *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*. Sở thích của ông là dịch càng ít tên càng tốt. Tolkien nói, bà nhận ra rằng đây là một cuốn sách tiếng Anh và tiếng Anh của nó không nên bị xóa bỏ. Việc [Người Hobbit](../H/Hobbits.md) nói ngôn ngữ cổ của chính họ là một khẳng định mang tính lịch sử giả và việc đặt tên cho mọi thứ xuất hiện bằng tiếng Anh là vô nghĩa. Tolkien cho biết tất cả tên người và địa điểm nên được giữ nguyên. Những cái tên có nghĩa bằng tiếng Anh có thể được liệt kê ở cuối cùng với lời giải thích bằng tiếng Ba Lan. <span></span>
+Tolkien nói với Dadlez rằng ông không thể viết nhiều ghi chú để bà Skibniewska sử dụng trong việc dịch *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*. Sở thích của ông là dịch càng ít tên càng tốt. Cô nhận ra, nói Tolkien rằng đây là một cuốn sách tiếng Anh và tiếng Anh của nó không nên bỏ đi. Việc [Hobbit](../H/Hobbits.md) nói ngôn ngữ cổ của họ là một khẳng định mang tính lịch sử giả và việc đặt tên cho mọi thứ xuất hiện bằng tiếng Anh là vô nghĩa. Tolkien cho biết tất cả tên người và địa điểm nên được giữ nguyên. Những cái tên có nghĩa bằng tiếng Anh có thể được liệt kê ở cuối cùng với lời giải thích bằng tiếng Ba Lan. <span></span>
 
 ## Tài liệu tham khảo {#References}
 

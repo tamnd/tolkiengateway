@@ -43,7 +43,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mallorn_2.png.md"><img src="https://tolkiengateway.net/w/images/thumb/8/87/Mallorn_2.png/291px-Mallorn_2.png" decoding="async" loading="lazy" width="291" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/87/Mallorn_2.png/437px-Mallorn_2.png 1.5x, https://tolkiengateway.net/w/images/thumb/8/87/Mallorn_2.png/582px-Mallorn_2.png 2x" data-file-width="1265" data-file-height="2085"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mallorn 2</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Steven Thomson</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Printer</th><td class="tg-infobox-data">Hartley Patterson</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">1971</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">19</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0308-6674</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mallorn_1.md" title="Mallorn 1">Mallorn 1</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mallorn_3.md" title="Mallorn 3">Mallorn 3</a></td></tr></tbody></table>
 
-<b><i>Mallorn</i> 2</b> là số thứ hai của tạp chí [Hiệp hội Tolkien](../T/Tolkien_Society.md) *[Mallorn](<Mallorn_(journal).md>)*, xuất bản năm 1971.
+<b><i>Mallorn</i> 2</b> là số thứ hai của tạp chí [Tolkien của Hội](../T/Tolkien_Society.md) *[Mallorn](<Mallorn_(journal).md>)*, xuất bản năm 1971.
 
 ## Nội dung {#Contents}
 
@@ -55,7 +55,7 @@ infobox:
     - Biên tập
         - Bởi Steven Thomson
 - **Ghi chú**
-    - Con rồng
+    - Cái Rồng
         - Bởi Dave Weldrake
     - Llasar Llaes Điều gì đó và Gia đình
         - Bởi Archie Mercer
@@ -69,7 +69,7 @@ infobox:
 - **Quảng cáo**
     - Bạc (thơ)
         - Không rõ tác giả
-    - Bài thơ không tựa ("Boromir ngoan, hãy thổi kèn đi")
+    - Bài thơ không tựa ("Hay Boromir, hãy thổi kèn đi")
         - Bởi Keith Bridges
     - Minh họa
         - Bởi Brian Talbot và A.R. Fallone
@@ -78,4 +78,4 @@ infobox:
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://journals.tolkiensociety.org/mallorn/issue/view/3/" rel="noreferrer noopener" target="_blank">Số này tại trang web của The Tolkien Society</a>
+- <a class="external text" href="http://journals.tolkiensociety.org/mallorn/issue/view/3/" rel="noreferrer noopener" target="_blank">Vấn đề này tại trang web Hội Tolkien</a>

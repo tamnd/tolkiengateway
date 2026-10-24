@@ -77,4 +77,4 @@ Sự kiện xảy ra vào ngày 30 tháng 6
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - Vào khoảng thời gian này, [Gandalf](../G/Gandalf.md) trên đường tới [Bree](../B/Bree.md) gặp [Radagast](../R/Radagast.md), người thông báo cho anh rằng [Nazgûl](../N/Nazgûl.md) đang ở nước ngoài.
+    - Vào khoảng thời gian này, [Gandalf](../G/Gandalf.md) trên đường đến [Bree](../B/Bree.md) gặp [Radagast](../R/Radagast.md), người này thông báo rằng [Nazgûl](../N/Nazgûl.md) đang ở nước ngoài.

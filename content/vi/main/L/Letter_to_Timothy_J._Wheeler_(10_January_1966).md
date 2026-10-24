@@ -17,7 +17,7 @@ images:
   - "Wheeler_1966_letter.jpg"
 ---
 
-Vào [10 tháng 1](../_/10_January.md) [1966](../_/1966.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_%2522The_Letters_of_J.R.R._Tolkien%2522.md) gửi [Timothy J. Wheeler](../T/Timothy_J._Wheeler.md)**.
+Vào [10 tháng 1](../_/10_January.md) [1966](../_/1966.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_%2522The_Letters_of_J.R.R._Tolkien%2522.md) cho [Timothy J. Wheeler](../T/Timothy_J._Wheeler.md)**.
 
 - **Xuất bản:** Không có. Một bức ảnh và bản ghi lại bức thư đã được đăng trên trang web *[Tolkien Library](../T/Tolkien_Library.md)*, do [Pieter Collier](../P/Pieter_Collier.md) quản lý.
 

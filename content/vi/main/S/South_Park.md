@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Return of the Fellowship of the Ring to the Two Towers"
 ---
 
-Chuyển hướng tới [Sự trở lại của Hiệp hội Nhẫn đôi với Hai tòa tháp](../T/The_Return_of_the_Fellowship_of_the_Ring_to_the_Two_Towers.md).
+Chuyển hướng tới [Sự trở lại của Đoàn Hộ Nhẫn với Hai tòa tháp](../T/The_Return_of_the_Fellowship_of_the_Ring_to_the_Two_Towers.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Sea-Bell"
 ---
 
-Chuyển hướng tới [Chuông biển](../T/The_Sea-Bell.md).
+Chuyển hướng đến [ Biển-Bell](../T/The_Sea-Bell.md).

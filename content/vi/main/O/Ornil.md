@@ -37,15 +37,15 @@ infobox:
 <p class="tg-quote-footer"><cite>Ornil in <i><a href="../T/The_Grey_Annals.md" title="The Grey Annals">The Grey Annals</a></i></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Ornil** là một [Yêu tinh của Nargothrond](../E/Elves_of_Nargothrond.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> đã gặp [Túrin](../T/Túrin.md) sau [Trận chiến Tumhalad](../B/Battle_of_Tumhalad.md).
+**Ornil** là một [Tiên trong số Nargothrond](../E/Elves_of_Nargothrond.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> đã gặp [Túrin](../T/Túrin.md) sau [Trận Tumhalad](../B/Battle_of_Tumhalad.md).
 
 ## Lịch sử {#History}
 
-Sau cái chết của [Gwindor](../G/Gwindor.md) trong [Trận chiến Tumhalad](../B/Battle_of_Tumhalad.md), Túrin vội vã quay trở lại [Nargothrond](../N/Nargothrond.md), tập hợp tất cả những người sống sót sau trận chiến trong quá trình này, bao gồm cả Ornil. Khi những chiếc lá rơi khỏi cây trong một cơn gió lớn, Ornil đã so sánh sự thay đổi của các mùa với [Sự sụp đổ của Nargothrond](../F/Fall_of_Nargothrond.md), khiến tốc độ của Túrin tăng nhanh hơn.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Không có thông tin nào khác về Ornil.
+Sau cái chết của [Gwindor](../G/Gwindor.md) trong [Trận Tumhalad](../B/Battle_of_Tumhalad.md), Túrin vội vã quay trở lại [Nargothrond](../N/Nargothrond.md), tập hợp tất cả những người sống sót sau trận chiến trong quá trình này, bao gồm cả Ornil. Khi những chiếc lá rơi khỏi cây trong cơn gió lớn, Ornil đã so sánh sự thay đổi của các mùa với [Sự sụp đổ của Nargothrond](../F/Fall_of_Nargothrond.md), khiến tốc độ của Túrin tăng nhanh hơn.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Không có thông tin nào khác về Ornil.
 
 ## Từ nguyên {#Etymology}
 
-Tên *Ornil* có trong [Sindarin](../S/Sindarin.md). Mặc dù ý nghĩa của nó không hoàn toàn rõ ràng, nhưng theo *[Eldamo](../E/Eldamo.md)* nó có thể chứa phần tử *[orn](Orn.md)* ("cây").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Tên *Ornil* nằm trong [Sindarin](../S/Sindarin.md). Mặc dù ý nghĩa của nó không hoàn toàn rõ ràng, nhưng theo *[Eldamo](../E/Eldamo.md)* nó có thể chứa phần tử *[orn](Orn.md)* ("cây").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Xem thêm {#See_also}
 

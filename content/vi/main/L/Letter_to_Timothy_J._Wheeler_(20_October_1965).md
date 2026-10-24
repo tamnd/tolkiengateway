@@ -19,7 +19,7 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/W/Wheeler_1965_letter.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/4b/Wheeler_1965_letter.jpg/300px-Wheeler_1965_letter.jpg" decoding="async" loading="lazy" width="300" height="231" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/4b/Wheeler_1965_letter.jpg/450px-Wheeler_1965_letter.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/4b/Wheeler_1965_letter.jpg/600px-Wheeler_1965_letter.jpg 2x" data-file-width="800" data-file-height="616"/></a><figcaption></figcaption></figure>
 
-Vào [20 tháng 10](../_/20_October.md) [1965](../_/1965.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_%2522The_Letters_of_J.R.R._Tolkien%2522.md) gửi [Timothy J. Wheeler](../T/Timothy_J._Wheeler.md)**.
+Vào [20 tháng 10](../_/20_October.md) [1965](../_/1965.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_%2522The_Letters_of_J.R.R._Tolkien%2522.md) cho [Timothy J. Wheeler](../T/Timothy_J._Wheeler.md)**.
 
 - **Xuất bản:** Không có. Một bức ảnh và bản ghi lại bức thư đã được đăng trên trang web *[Tolkien Library](../T/Tolkien_Library.md)*, do [Pieter Collier](../P/Pieter_Collier.md) quản lý.
 

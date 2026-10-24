@@ -28,7 +28,7 @@ images:
 <p class="tg-quote-footer"><cite><i><a href="../B/Bombadil_Goes_Boating.md" title="Bombadil Goes Boating">Bombadil Goes Boating</a></i></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Windle-reach** là phần hạ lưu của sông [Withywindle](Withywindle.md) bắt đầu từ [Withy-weir](Withy-weir.md) thẳng tới [Grindwall](../G/Grindwall.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Tầm gió** là phần hạ lưu của sông [Withywindle](Withywindle.md) bắt đầu từ [Withy-weir](Withy-weir.md) thẳng tới [Grindwall](../G/Grindwall.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

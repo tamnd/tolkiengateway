@@ -15,7 +15,7 @@ sort_keys:
   "Quenya nouns": "Sure"
 ---
 
-<i><b>súrë</b></i> là từ [Quenya](../Q/Quenya.md) có nghĩa là "gió".
+<i><b>súrë</b></i> là một từ [Quenya](../Q/Quenya.md) có nghĩa là "gió".
 
 ## Ví dụ {#Examples}
 

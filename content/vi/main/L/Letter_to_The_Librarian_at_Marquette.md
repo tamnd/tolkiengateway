@@ -19,7 +19,7 @@ Vào [3 tháng 8](../_/3_August.md) [1965](../_/1965.md), [J.R.R. Tolkien](../J/
 - **Mô tả:** Thư viết tay.<sup id="cite_ref-Marq_1-1" class="reference"><a href="#cite_note-Marq-1">[1]</a></sup>
 - **Chủ đề:** Tolkien đang tìm kiếm bản sao ảnh của các mục cần thiết cho việc sửa đổi *The Lord of the Rings*.
 - **Xuất bản:** Không có.
-- **Lưu trữ:** Bức thư gốc được lưu giữ tại [Đại học Marquette](../M/Marquette_University.md).<sup id="cite_ref-Marq_1-2" class="reference"><a href="#cite_note-Marq-1">[1]</a></sup>
+- **Lưu trữ:** Thư gốc được lưu giữ tại [Đại học Marquette](../M/Marquette_University.md).<sup id="cite_ref-Marq_1-2" class="reference"><a href="#cite_note-Marq-1">[1]</a></sup>
 
 <span></span>
 

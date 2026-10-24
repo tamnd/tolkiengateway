@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Helm's daughter"
 ---
 
-Chuyển hướng tới [Con gái của Helm](Helm's_daughter.md).
+Chuyển hướng tới con gái của [Helm](Helm's_daughter.md).

@@ -25,7 +25,7 @@ images:
 
 **Tal-Elmar** có thể đề cập đến:
 
-- [Tal-Elmar](<Tal-Elmar_(character).md>), một [người đàn ông](../M/Men.md) sống ở [Agar](../A/Agar.md) trong [Thời đại thứ hai](../S/Second_Age.md).
+- [Tal-Elmar](<Tal-Elmar_(character).md>), một [người đàn ông](../M/Men.md) sống ở [Agar](../A/Agar.md) trong [Kỷ Đệ Nhị](../S/Second_Age.md).
 - [Tal-Elmar](<Tal-Elmar_(chapter).md>), một chương trong *[The Peoples of Middle-earth](The_Peoples_of_Middle-earth.md)* dành cho nhân vật trên.
 
 <hr style="margin-top:15px;"/>

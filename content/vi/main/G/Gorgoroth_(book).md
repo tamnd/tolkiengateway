@@ -46,16 +46,16 @@ infobox:
 
 ## Văn bản bìa/áo khoác {#Cover/Jacket_Text}
 
-Trong hàng ngàn năm, Người phương Tây luôn canh gác Vùng đất đen, luôn cảnh giác để ngăn chặn sự trở lại của sức mạnh của Sauron. Đại dịch hạch đã phá vỡ sự canh gác đó và cái ác khuấy động phía đông Dãy núi Bóng tối. Ánh đuốc lóe lên từ những khe mũi tên của những tòa thành từng bị bỏ hoang và khói tỏa ra từ đỉnh núi dài yên tĩnh của Orodruin. Những con thú hôi hám di chuyển vào ban đêm qua các vết nứt trên bề mặt nứt vỡ của cao nguyên núi lửa Gorgoroth.
+Trong hàng ngàn năm, Con Người của Phương Tây đứng canh gác Vùng Đất Đen, luôn cảnh giác để ngăn chặn sự quay trở lại của Sauron sức mạnh. Đại Dịch đã phá vỡ chiếc canh gác đó và cái ác đang hoành hành ở phía đông Dãy Núi Bóng Tối. Ánh đuốc lóe lên từ những khe mũi tên của những tòa thành từng bị bỏ hoang và khói tỏa ra từ đỉnh núi dài yên tĩnh của Orodruin. Những con thú hôi hám di chuyển vào ban đêm qua các vết nứt trên bề mặt nứt vỡ của cao nguyên núi lửa Gorgoroth.
 
 GORGOROTH bao gồm:
 
 - BẢN ĐỒ ĐẦY MÀU 11" x 17" mô tả cao nguyên Gorgoroth.
-- 2 BẢN ĐỒ THÀNH PHỐ ĐẦY MÀU (ở mặt sau của bản đồ địa hình) hiển thị Ostigurth, Thành phố Tử thần, nơi đào tạo những tân binh cho lực lượng của Chúa tể Hắc ám và Bar Lithyrn, một thị trấn khai thác mỏ ở Gondorian ở sườn phía bắc của Dãy núi Ash.
-- 4 CUỘC PHIÊU LƯU LỚN trên chân đồi của Dãy núi Ash mang đến cho những người táo bạo lời giới thiệu bất ngờ về Mordor.
-- BỐ CỤC CHI TIẾT của Núi Doom, Carach Angren và các pháo đài quan trọng khác dưới Con mắt không mí.
+- 2 BẢN ĐỒ THÀNH PHỐ ĐẦY MÀU (ở mặt sau của bản đồ địa hình) hiển thị Ostigurth, Thành phố Tử thần, nơi đào tạo những tân binh mới cho lực lượng của Chúa tể Bóng tối và Bar Lithyrn, một thị trấn khai thác mỏ Gondor ở sườn phía bắc của Ash Dãy Núi.
+- 4 CUỘC PHIÊU LƯU LỚN trên chân đồi Ash Dãy Núi mang đến cho những người táo bạo lời giới thiệu bất ngờ về Mordor.
+- BỐ CỤC CHI TIẾT của Núi Diệt Vong, Carach Angren và các pháo đài quan trọng khác dưới Con mắt không nắp.
 - THÔNG TIN CHI TIẾT về cấp bậc quân sự của Mordor và các nhà lãnh đạo nổi bật của nó.
-- THỐNG KÊ VÀ THÔNG TIN CƠ BẢN về tất cả Chín Ma Nhẫn, cũng như các Lãnh chúa tàn ác của Mordor, những kẻ thực hiện các âm mưu do Ulairi nghĩ ra.
+- THỐNG KÊ VÀ THÔNG TIN CƠ BẢN cho tất cả Chín Nazgûl, cũng như các Lãnh chúa tàn ác của Mordor, những kẻ thực hiện các âm mưu do Ulairi nghĩ ra.
 
 ## Xem thêm {#See_also}
 

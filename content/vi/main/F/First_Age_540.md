@@ -16,12 +16,12 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="../T/Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><b>I</b><a href="../S/Second_Age.md" title="Second Age">II</a><a href="../T/Third_Age.md" title="Third Age">III</a><a href="Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="First_Age_532.md" title="First Age 532">532</a><a href="First_Age_534.md" title="First Age 534">534</a><a href="First_Age_538.md" title="First Age 538">538</a><a class="mw-selflink selflink">540</a><a href="First_Age_542.md" title="First Age 542">542</a><a href="First_Age_545.md" title="First Age 545">545</a><a href="First_Age_587.md" title="First Age 587">587</a></div></div></div></div></div></div>
 
-**Kỷ nguyên thứ nhất 540** (viết tắt là **F.A. 540**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 540 của [Kỷ nguyên thứ nhất](First_Age.md) của [Trung Địa](../M/Middle-earth.md).
+**Kỷ Đệ Nhất 540** (viết tắt là **F.A. 540**) là năm [thứ 540 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Nhất](First_Age.md) của [Trung Địa](../M/Middle-earth.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- [Morgoth](../M/Morgoth.md) gửi quân chống lại [Maedhros](../M/Maedhros.md) và [Maglor](../M/Maglor.md), những kẻ ẩn náu trên đỉnh [Amon Ereb](../A/Amon_Ereb.md), và những [Những đứa con của Fëanor](../S/Sons_of_Fëanor.md) cuối cùng còn lại chạy trốn đến [Đảo Balar](../I/Isle_of_Balar.md).<sup id="cite_ref-AB_1-0" class="reference"><a href="#cite_note-AB-1">[1]</a></sup>
-- Những [Yêu tinh](../E/Elves.md) và [Đàn ông](../M/Men.md) tự do cuối cùng chạy trốn đến Đảo Balar.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Giờ đây toàn bộ vùng đất của [Beleriand](../B/Beleriand.md) đều nằm trong tay Morgoth.<sup id="cite_ref-AB_1-1" class="reference"><a href="#cite_note-AB-1">[1]</a></sup>
+- [Morgoth](../M/Morgoth.md) tấn công [Maedhros](../M/Maedhros.md) và [Maglor](../M/Maglor.md), những kẻ đang ẩn náu trên đỉnh [Amon Ereb](../A/Amon_Ereb.md), và [các Con trai của Fëanor](../S/Sons_of_Fëanor.md) cuối cùng còn lại chạy trốn đến [Đảo Balar](../I/Isle_of_Balar.md).<sup id="cite_ref-AB_1-0" class="reference"><a href="#cite_note-AB-1">[1]</a></sup>
+- Những [Tiên tộc](../E/Elves.md) và [Con Người](../M/Men.md) tự do cuối cùng chạy trốn đến Đảo Balar.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Bây giờ tất cả đất đai của [Beleriand](../B/Beleriand.md) đều nằm trong tay Morgoth.<sup id="cite_ref-AB_1-1" class="reference"><a href="#cite_note-AB-1">[1]</a></sup>
 
 <span></span>
 

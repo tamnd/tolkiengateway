@@ -17,7 +17,7 @@ categories:
 
 ## Từ nguyên {#Etymology}
 
-Nó bắt nguồn từ gốc <a class="new" href="https://tolkiengateway.net/w/index.php?title=SPAN&amp;action=edit&amp;redlink=1" title="SPAN (page does not exist)">SPAN</a> "trắng"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>). Xem [Tiên nguyên thủy](../P/Primitive_Elvish.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Sp%C3%A2na&amp;action=edit&amp;redlink=1" title="Spâna (page does not exist)">spâna</a></i>
+Nó bắt nguồn từ gốc <a class="new" href="https://tolkiengateway.net/w/index.php?title=SPAN&amp;action=edit&amp;redlink=1" title="SPAN (page does not exist)">SPAN</a> "trắng"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>). Xem [Nguyên thủy Elvish](../P/Primitive_Elvish.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Sp%C3%A2na&amp;action=edit&amp;redlink=1" title="Spâna (page does not exist)">spâna</a></i>
 
 ## Có cùng nguồn gốc {#Cognates}
 

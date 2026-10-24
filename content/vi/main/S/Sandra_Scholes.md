@@ -18,6 +18,6 @@ sort_keys:
   "People by name": "Scholes, Sandra"
 ---
 
-**Sandra Scholes** là một nghệ sĩ tự do người Anh đã minh họa cho một số tạp chí giả tưởng và nhà xuất bản sách từ năm 1994. Lightspeed và Eclipse chỉ là một vài cái tên. Trong quá trình thực hiện, cô đã minh họa một tấm bảng cho bảo tàng địa phương của mình, những bức tranh biếm họa cho một câu lạc bộ người hâm mộ trò chơi và một biểu tượng cho quần áo của những người đam mê nhảy dù, cũng như cung cấp tác phẩm nghệ thuật cho [tạp chí Amon Hen](<../A/Amon_Hen_(journal).md>).
+**Sandra Scholes** là một nghệ sĩ tự do người Anh, người đã minh họa cho một số tạp chí giả tưởng và nhà xuất bản sách từ năm 1994. Lightspeed và Eclipse chỉ là một vài cái tên. Trong quá trình thực hiện, cô đã minh họa một tấm bảng cho bảo tàng địa phương, những bức tranh biếm họa cho một câu lạc bộ người hâm mộ trò chơi và một logo cho quần áo của những người đam mê nhảy dù, cũng như cung cấp tác phẩm nghệ thuật cho [Amon Hen tạp chí](<../A/Amon_Hen_(journal).md>).
 
 Bà cũng đã xuất bản tác phẩm của mình trên internet và hiện đang hoàn thành nhiệm vụ khổng lồ là một bức tranh canvas có tỷ lệ Tolkien-esque.

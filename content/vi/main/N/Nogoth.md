@@ -13,7 +13,7 @@ categories:
   - "Sindarin nouns"
 ---
 
-<i><b>Nogoth</b></i> (số nhiều *Noegyth*) là một từ [Sindarin](../S/Sindarin.md) để chỉ "Người lùn" như một chủng tộc.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Nó là sự kết hợp của tính từ *[naug](Naug.md)* "người lùn" và hậu tố bổ sung *-oth*, nên nghĩa đen là "Người lùn lớn".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+<i><b>Nogoth</b></i> (số nhiều *Noegyth*) là một [Sindarin](../S/Sindarin.md) từ chỉ "Người lùn" như một chủng tộc.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Nó là sự kết hợp của tính từ *[naug](Naug.md)* "lùn" và hậu tố tăng thêm *-oth*, nên nghĩa đen là "Lớn Người lùn".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Ví dụ {#Examples}
 

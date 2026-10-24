@@ -20,7 +20,7 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<i><b>Echuir</b></i> là tên [Sindarin](../S/Sindarin.md) cho **Khuấy động**, mùa [Elvish](Elves.md) diễn ra trước Mùa xuân.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Trong [Tính toán Rivendell](../R/Reckoning_of_Rivendell.md), đây là mùa cuối cùng trong năm và ít nhiều tương ứng với 54 ngày từ [ngày 11 tháng 2](../_/11_February.md) đến [ngày 4 tháng 4](../_/4_April.md) trong [Lịch Quận](../S/Shire_Calendar.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+<i><b>Echuir</b></i> là tên [Sindarin](../S/Sindarin.md) của **Khuấy động**, mùa [Elvish](Elves.md) diễn ra trước Mùa xuân.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Trong [Tính toán của Rivendell](../R/Reckoning_of_Rivendell.md) đây là mùa cuối cùng trong năm và ít nhiều tương ứng với 54 ngày giữa [11 tháng 2](../_/11_February.md) và [4 tháng 4](../_/4_April.md) ở [Lịch Shire](../S/Shire_Calendar.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">See also: <a href="../C/Coirë.md" title="Coirë">Coirë</a></div></div>
 

@@ -35,7 +35,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Amon Hen 5</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">John Martin</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../J/June.md" title="June">June</a> <a href="../_/1973.md" title="1973">1973</a></td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">25</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0306-8781</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Amon_Hen_4.md" title="Amon Hen 4">Amon Hen 4</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Amon_Hen_6.md" title="Amon Hen 6">Amon Hen 6</a></td></tr></tbody></table>
 
-<b><i>Amon Hen</i> 5</b> là số thứ năm của [*Amon Hen* tạp chí](<Amon_Hen_(journal).md>) của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md).
+<b><i>Amon Hen</i> 5</b> là số thứ năm của [*Amon Hen* tạp chí](<Amon_Hen_(journal).md>) của [Hội Tolkien](../T/The_Tolkien_Society.md).
 
 ## Nội dung {#Contents}
 
@@ -47,20 +47,20 @@ infobox:
 - "*[Mallorn](<../M/Mallorn_(journal).md>)*"
 - "Northfarthing mang lại nụ cười cho biên tập viên" của Nan C. Scott (Melilot Brandybuck)
 - "Người đưa thư đến đây" (thư của Andrew Baker, Graham England, Colin Dean, Jim Allan, Gordon Larkin, [Hartley Patterson](../H/Hartley_Patterson.md), Rosemary Pardoe, "Gollum," Kevin Hall, Miss P.E.M. Ward và Pat McIntosh)
-- "Đường hầm Hobbit"
-- "Tin tức về Tolkien" của Jessica Kemball-Cook
+- "Hobbit Kênh"
+- "Tin tức Tolkien" của Jessica Kemball-Cook
 - "1974 A.G.M. \[Đại hội thường niên\] và Bữa tối"
 - "Nhà trọ"
 - Sách
     - "Sách mượn" của Peter Herring
     - "Những chú hải âu mới" của Jessica Kemball-Cook
-    - Đánh giá về *[Tolkien Criticism: An Annotated Checklist](../T/Tolkien_Criticism%253A_An_Annotated_Checklist.md)* của [Richard C. West](../R/Richard_C._West.md)
+    - Đánh giá *[Tolkien Criticism: An Annotated Checklist](../T/Tolkien_Criticism%253A_An_Annotated_Checklist.md)* của [Richard C. West](../R/Richard_C._West.md)
 - "<a class="new" href="https://tolkiengateway.net/w/index.php?title=Ursual_K._Le_Guin&amp;action=edit&amp;redlink=1" title="Ursual K. Le Guin (page does not exist)">Le Guin</a> Giành Giải thưởng Sách Quốc gia Hoa Kỳ" (in lại từ *Locus* 140)
-- "Narnia và Trung Địa: Những điểm so sánh" của Willfoot (Pete Wilde)
-- "The Winds of Gondor" (thơ của Steve Porter, in lại từ *Amon Din* 3: "Bây giờ có nghe tiếng chim hải âu kêu bài hát của nó không?")
+- "Narnia và Trung Địa: Điểm so sánh" của Willfoot (Pete Wilde)
+- "The Winds of Gondor" (thơ của Steve Porter, in lại từ *Amon Din* 3: "Bây giờ có nghe tiếng chim mòng biển kêu bài hát của nó không?")
 - "Các xã hội khác"
     - "Đa Engliscan Gesiðas" của Archie Mercer
-    - "Hiệp hội Frodo Bắc Borneo" của Jim Allan
+    - "Xã hội Bắc Borneo Frodo" của Jim Allan
     - "Hiệp hội tưởng tượng" của Jim Allan
 - "Tạp chí"
 - "Mười bốn hai mươi" của Hartley Patterson

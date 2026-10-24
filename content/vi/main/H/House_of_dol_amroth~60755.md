@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "House of Dol Amroth"
 ---
 
-Chuyển hướng tới [Nhà của Dol Amroth](House_of_Dol_Amroth.md).
+Chuyển hướng đến [Nhà Dol Amroth](House_of_Dol_Amroth.md).

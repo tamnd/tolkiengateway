@@ -15,7 +15,7 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<i><b>Oxford Mail</b></i> là tạp chí có trụ sở tại [Oxford](Oxford.md), <a class="new" href="https://tolkiengateway.net/w/index.php?title=England&amp;action=edit&amp;redlink=1" title="England (page does not exist)">Anh</a>.
+<i><b>Oxford Thư</b></i> là tạp chí có trụ sở tại [Oxford](Oxford.md), <a class="new" href="https://tolkiengateway.net/w/index.php?title=England&amp;action=edit&amp;redlink=1" title="England (page does not exist)">Anh</a>.
 
 ## Các vấn đề đáng chú ý {#Notable_issues}
 
@@ -27,13 +27,13 @@ images:
 
 ### 1957 {#1957}
 
-[Ngày 11 tháng 9](../_/11_September.md) [1957](../_/1957.md) có bài viết "Ảo tưởng của năm" (tr. 4). Bài viết này, đưa tin từ tiệc trưa trao giải Giả tưởng Quốc tế được tổ chức vào [10 tháng 9](../_/10_September.md) [1957](../_/1957.md), bao gồm một đoạn trích ngắn gọn của Tolkien, người đã tham dự và giành được giải thưởng.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+[11 tháng Chín](../_/11_September.md) [1957](../_/1957.md) có bài viết "Ảo tưởng của năm" (tr. 4). Bài viết này tường thuật về buổi tiệc trưa trao giải Giả tưởng Quốc tế được tổ chức vào [10 tháng Chín](../_/10_September.md) [1957](../_/1957.md), bao gồm một đoạn trích ngắn gọn của Tolkien, những người đã tham dự và giành được giải thưởng.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">See also: <a href="../T/The_Bookseller,_14_September_1957.md" title="The Bookseller, 14 September 1957">The Bookseller, 14 September 1957</a></div></div>
 
 ### 1966 {#1966}
 
-Số [ngày 3 tháng 8](../_/3_August.md) [1966](../_/1966.md) có bài phỏng vấn của Tolkien với <a class="new" href="https://tolkiengateway.net/w/index.php?title=John_Ezard&amp;action=edit&amp;redlink=1" title="John Ezard (page does not exist)">John Ezard</a> (tr. 4).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> <span></span>
+Số [3 tháng 8](../_/3_August.md) [1966](../_/1966.md) có bài phỏng vấn của Tolkien với <a class="new" href="https://tolkiengateway.net/w/index.php?title=John_Ezard&amp;action=edit&amp;redlink=1" title="John Ezard (page does not exist)">John Ezard</a> (tr. 4).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

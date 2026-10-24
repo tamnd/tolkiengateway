@@ -13,7 +13,7 @@ categories:
   - "Unpublished material"
 ---
 
-<b>Các ghi chú bản thảo trong <i>Từ điển bằng tiếng Anh và tiếng Wales</i></b> đề cập đến một trang [các ghi chú chưa được xuất bản](../../index/U/Unpublished_material.md) của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được chèn vào bản sao *[Dictionary in Englysshe and Welshe](../L/List_of_books_in_Tolkien's_library.md#Dictionary_in_Englysshe_and_Welshe)* của ông. Bản thảo bao gồm bản dịch phần mở đầu của phần mở đầu [tiếng Wales](../W/Welsh.md).<sup id="cite_ref-TW_1-0" class="reference"><a href="#cite_note-TW-1">[1]</a></sup><sup id="cite_ref-Add_2-0" class="reference"><a href="#cite_note-Add-2">[2]</a></sup>
+<b>Các ghi chú bản thảo trong <i>Từ điển bằng tiếng Anh và tiếng Wales</i></b> đề cập đến một trang có [các ghi chú chưa được xuất bản](../../index/U/Unpublished_material.md) do [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) chèn vào bản sao *[Dictionary in Englysshe and Welshe](../L/List_of_books_in_Tolkien's_library.md#Dictionary_in_Englysshe_and_Welshe)* của mình. Bản thảo bao gồm bản dịch phần mở đầu [tiếng Wales](../W/Welsh.md) lời mở đầu.<sup id="cite_ref-TW_1-0" class="reference"><a href="#cite_note-TW-1">[1]</a></sup><sup id="cite_ref-Add_2-0" class="reference"><a href="#cite_note-Add-2">[2]</a></sup>
 
 <span></span>
 

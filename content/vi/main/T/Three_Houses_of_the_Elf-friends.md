@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Edain"
 ---
 
-Chuyển hướng tới [Edain](../E/Edain.md).
+Chuyển hướng đến [Edain](../E/Edain.md).

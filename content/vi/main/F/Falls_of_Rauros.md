@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Rauros"
 ---
 
-Chuyển hướng tới [Rauros](../R/Rauros.md).
+Chuyển hướng đến [Rauros](../R/Rauros.md).

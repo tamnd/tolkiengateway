@@ -11,4 +11,4 @@ redirect_target: "Fourth Age 217"
 redirect_fragment: "Other versions of the legendarium"
 ---
 
-Chuyển hướng đến [Tuổi thứ tư 217](Fourth_Age_217.md#Other_versions_of_the_legendarium).
+Chuyển hướng tới [Kỷ Đệ Tứ 217](Fourth_Age_217.md#Other_versions_of_the_legendarium).

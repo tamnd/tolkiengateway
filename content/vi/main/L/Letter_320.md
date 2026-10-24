@@ -30,11 +30,11 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien đặc biệt quan tâm đến những nhận xét của Austin về Galadriel. Ông nghĩ đúng là nhân vật của bà có liên quan nhiều đến sự giảng dạy và trí tưởng tượng của Cơ đốc giáo và Công giáo về Mary, nhưng ông chỉ ra rằng Galadriel thực sự là một người sám hối. Cô là một thủ lĩnh nổi dậy chống lại [Valar](../V/Valar.md) (những thiên thần hộ mệnh) và kiêu hãnh từ chối sự tha thứ hoặc cho phép quay trở lại vào cuối [Thời đại thứ nhất](../F/First_Age.md). Cuối cùng bà đã được tha thứ vì đã chống lại sự cám dỗ để lấy [Chiếc nhẫn](../T/The_One_Ring.md) cho riêng mình.
+Tolkien đặc biệt quan tâm đến nhận xét của Austin về Galadriel. Ông nghĩ rằng đúng là nhân vật của bà phụ thuộc nhiều vào sự giảng dạy và trí tưởng tượng của Cơ đốc giáo và Công giáo về Đức Maria, nhưng ông chỉ ra rằng Galadriel thực sự là một người sám hối. Bà là một thủ lĩnh nổi dậy chống lại [Valar](../V/Valar.md) (những thiên thần hộ mệnh) và kiêu hãnh từ chối sự tha thứ hoặc cho phép quay trở lại khi [Kỷ Đệ Nhất](../F/First_Age.md) kết thúc. Cuối cùng bà đã được tha thứ vì đã chống lại sự cám dỗ để lấy [Chiếc nhẫn](../T/The_One_Ring.md) cho riêng mình.
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Như [Christopher Tolkien](../C/Christopher_Tolkien.md) đã giải thích trong *[Unfinished Tales](../U/Unfinished_Tales.md)*, câu chuyện về Galadriel liên tục được đổi mới. Phiên bản trên chỉ là một biến thể.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Như [Christopher Tolkien](../C/Christopher_Tolkien.md) đã giải thích trong phần *[Unfinished Tales](../U/Unfinished_Tales.md)*, câu chuyện về Galadriel đã liên tục được đổi mới. Phiên bản trên chỉ là một biến thể.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

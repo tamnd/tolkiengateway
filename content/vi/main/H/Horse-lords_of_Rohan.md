@@ -33,7 +33,7 @@ infobox:
 <article class="tabber__panel" id="tabber-tabpanel-5E-0" role="tabpanel" tabindex="0" aria-labelledby="tabber-tab-5E-0"><table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/R/Rohan_Region_Guide.jpeg.md"><img src="https://tolkiengateway.net/w/images/thumb/8/82/Rohan_Region_Guide.jpeg/320px-Rohan_Region_Guide.jpeg" decoding="async" loading="lazy" width="320" height="401" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/82/Rohan_Region_Guide.jpeg/480px-Rohan_Region_Guide.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/8/82/Rohan_Region_Guide.jpeg/640px-Rohan_Region_Guide.jpeg 2x" data-file-width="718" data-file-height="900"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Rohan Region Guide</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data">Shane Ivey, Andrew Kenrick, T.S. Luikart, <a href="../F/Francesco_Nepitello.md" title="Francesco Nepitello">Francesco Nepitello</a> and James M. Spahn</td></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Andrew Kenrick and Francesco Nepitello</td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data">Andrew Hepworth, <a href="../J/Jon_Hodgson.md" title="Jon Hodgson">Jon Hodgson</a>, Jason Juta, Sam Manley, Jeremy McHugh, <a href="../J/Jan_Pospíšil.md" title="Jan Pospíšil">Jan Pospíšil</a> and Egil Thompson.</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../C/Cubicle_7_Entertainment.md" title="Cubicle 7 Entertainment">Cubicle 7 Entertainment</a></td></tr></tbody></table></article>
 </section></div></div>
 
-<i><b>Horse-lords of Rohan</b></i> là bản mở rộng cho [*The One Ring* Trò chơi nhập vai](<../T/The_One_Ring_(role-playing_game).md>). Một phiên bản dành cho *[Adventures in Middle-earth](../A/Adventures_in_Middle-earth.md)*, có tiêu đề <i><b>Hướng dẫn khu vực Rohan</b></i>, cũng đã được phát hành.
+<i><b>Horse-lords của Rohan</b></i> là bản mở rộng cho [*The One Ring* Trò chơi nhập vai](<../T/The_One_Ring_(role-playing_game).md>). Một phiên bản dành cho *[Adventures in Middle-earth](../A/Adventures_in_Middle-earth.md)*, có tiêu đề <i><b>Rohan Region Hướng dẫn</b></i>, cũng đã được phát hành.
 
 ## Từ nhà xuất bản {#From_the_publisher}
 
@@ -48,7 +48,7 @@ infobox:
 
 ## Lễ tân {#Reception}
 
-Trong bài đánh giá cho [Other Minds 18](../O/Other_Minds_18.md), Thomas Morwinsky ca ngợi cuốn sách vì tập trung vào Bóng tối tinh vi hơn mối đe dọa từ quái vật, cụ thể là sự lừa dối và sự thất bại của con người, mặc dù cũng nhận thấy nhu cầu xây dựng thế giới ngoài trò chơi thuần túy khá thưa thớt.<sup id="cite_ref-otherminds_1-0" class="reference"><a href="#cite_note-otherminds-1">[1]</a></sup>
+Trong bài đánh giá cho [Other Minds 18](../O/Other_Minds_18.md), Thomas Morwinsky khen ngợi cuốn sách vì tập trung vào Bóng Tối tinh vi hơn mối đe dọa từ quái vật, cụ thể là sự lừa dối và sự thất bại của con người, mặc dù cũng nhận thấy việc xây dựng thế giới ngoài nhu cầu chơi game thuần túy khá thưa thớt.<sup id="cite_ref-otherminds_1-0" class="reference"><a href="#cite_note-otherminds-1">[1]</a></sup>
 
 <span></span>
 

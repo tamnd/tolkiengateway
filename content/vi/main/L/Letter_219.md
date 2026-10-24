@@ -35,7 +35,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Allen & Unwin đã nhận được câu hỏi từ một nhà lai tạo [mèo](../C/Cats.md) muốn đặt tên cho những chú mèo Xiêm của mình theo các ký tự trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*. Tolkien chưa bao giờ là người yêu mèo và coi mèo Xiêm thuộc hệ động vật của [Mordor](../M/Mordor.md).
+Allen &amp; Unwin đã nhận được câu hỏi từ một nhà lai tạo [mèo](../C/Cats.md) muốn đặt tên cho những chú mèo Xiêm của mình theo các ký tự trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*. Tolkien chưa bao giờ là người yêu mèo và coi mèo Xiêm thuộc hệ động vật của [Mordor](../M/Mordor.md).
 
 ## Lưu ý {#Note}
 

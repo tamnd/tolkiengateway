@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Eärwen"
 ---
 
-Chuyển hướng tới [Eärwen](Eärwen.md).
+Chuyển hướng đến [Eärwen](Eärwen.md).

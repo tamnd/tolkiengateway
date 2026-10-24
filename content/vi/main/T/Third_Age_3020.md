@@ -16,7 +16,7 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><a href="../F/First_Age.md" title="First Age">I</a><a href="../S/Second_Age.md" title="Second Age">II</a><b>III</b><a href="../F/Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="Third_Age_3017.md" title="Third Age 3017">3017</a><a href="Third_Age_3018.md" title="Third Age 3018">3018</a><a href="Third_Age_3019.md" title="Third Age 3019">3019</a><a class="mw-selflink selflink">3020</a><a href="Third_Age_3021.md" title="Third Age 3021">3021</a><a href="../F/Fourth_Age_1.md" title="Fourth Age 1">1</a><a href="../F/Fourth_Age_2.md" title="Fourth Age 2">2</a></div></div></div></div></div></div>
 
-**Kỷ thứ ba 3020** (viết tắt là **T.A. 3020**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 3020 của [Kỷ thứ ba](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Thời đại thứ ba 3020 còn được gọi là **S.R. 1420** trong [Tính toán quận](../S/Shire-reckoning.md).
+**Kỷ Đệ Tam 3020** (viết tắt là **T.A.3020**) là năm [thứ 3020 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Tam](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Kỷ Đệ Tam 3020 còn được gọi là **S.R. 1420** trong [lịch Shire](../S/Shire-reckoning.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
@@ -26,7 +26,7 @@ Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 ## Tháng 4 {#April}
 
-- **6** - Những bông hoa [mallorn](../M/Mallorn.md) ở [Sân tiệc](../P/Party_Field.md).<sup id="cite_ref-AppB4_1-1" class="reference"><a href="#cite_note-AppB4-1">[1]</a></sup>
+- **6** - Hoa [hoa cẩm chướng](../M/Mallorn.md) ở [Party Field](../P/Party_Field.md).<sup id="cite_ref-AppB4_1-1" class="reference"><a href="#cite_note-AppB4-1">[1]</a></sup>
 
 ## Vào mùa xuân {#In_Spring}
 
@@ -42,9 +42,9 @@ Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 ## [Sáng tạo](../O/Overlithe.md) {#Overlithe}
 
-- Đây là một năm nhuận trong [Tính quận](../S/Shire-reckoning.md). Lễ hội năm đó được coi là lễ hội hoành tráng nhất trong ký ức hoặc kỷ lục vì mùa hè tuyệt vời năm đó.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+- Đây là năm nhuận trong [lịch Shire](../S/Shire-reckoning.md). Lễ hội năm đó được coi là lễ hội hoành tráng nhất trong ký ức hoặc kỷ lục vì mùa hè tuyệt vời năm đó.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-## Tháng 9 {#September}
+## tháng Chín {#September}
 
 - **22** - Sinh nhật lần thứ một trăm ba mươi của [Bilbo](../B/Bilbo_Baggins.md).<sup id="cite_ref-AppB4_1-4" class="reference"><a href="#cite_note-AppB4-1">[1]</a></sup>
 
@@ -54,9 +54,9 @@ Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 ## Trong năm {#During_the_Year}
 
-- Năm nay được ghi nhớ là "Năm sung túc" ở [Shire](The_Shire.md).<sup id="cite_ref-AppB4_1-6" class="reference"><a href="#cite_note-AppB4-1">[1]</a></sup>
-- [Faramir](../F/Faramir.md) kết hôn với [Éowyn](../_/Éowyn.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
-- Frodo bắt đầu viết *Sự sụp đổ của Chúa tể những chiếc nhẫn và sự trở lại của nhà vua*, câu chuyện của ông về [Cuộc chiến của những chiếc nhẫn](../W/War_of_the_Ring.md), trong [Sách đỏ](../R/Red_Book.md).<sup id="cite_ref-havens_2-1" class="reference"><a href="#cite_note-havens-2">[2]</a></sup>
+- Năm nay được ghi nhớ là "Năm sung túc" trong [năm Shire](The_Shire.md).<sup id="cite_ref-AppB4_1-6" class="reference"><a href="#cite_note-AppB4-1">[1]</a></sup>
+- [Faramir](../F/Faramir.md) đám cưới [Éowyn](../_/Éowyn.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+- Frodo bắt đầu viết *The Sự sụp đổ của Chúa tể những chiếc nhẫn và sự trở lại của Vua*, lời kể của ông về [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), trong [Sách Đỏ](../R/Red_Book.md).<sup id="cite_ref-havens_2-1" class="reference"><a href="#cite_note-havens-2">[2]</a></sup>
 
 <span></span>
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Teeth of Mordor (book)"
 ---
 
-Chuyển hướng tới [Răng Mordor (sách)](<../T/Teeth_of_Mordor_(book).md>).
+Chuyển hướng đến [Răng Mordor (sách)](<../T/Teeth_of_Mordor_(book).md>).

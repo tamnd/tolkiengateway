@@ -16,15 +16,15 @@ sort_keys:
   "Unpublished material": "Goths, The"
 ---
 
-**The Goths** là một [bài giảng chưa được xuất bản](../../index/U/Unpublished_material.md) của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), đề cập đến truyền thống, văn học, lịch sử và ngôn ngữ của <a class="extiw" href="http://en.wikipedia.org/wiki/Goths" title="wikipedia:Goths">Goths</a>.<sup id="cite_ref-Plaza_1-0" class="reference"><a href="#cite_note-Plaza-1">[1]</a></sup> đã biến mất
+**The Goths** là một [bài giảng chưa được xuất bản](../../index/U/Unpublished_material.md) của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), đề cập đến truyền thống, văn học, lịch sử và ngôn ngữ của <a class="extiw" href="http://en.wikipedia.org/wiki/Goths" title="wikipedia:Goths">Goths</a>đã biến mất.<sup id="cite_ref-Plaza_1-0" class="reference"><a href="#cite_note-Plaza-1">[1]</a></sup>
 
-Bản thảo được lưu giữ tại [Thư viện Bodleian](../B/Bodleian_Library.md), Oxford: Khoa Bản thảo phương Tây, Cô Tolkien A15/2, fol. 149.<sup id="cite_ref-Plaza_1-1" class="reference"><a href="#cite_note-Plaza-1">[1]</a></sup>
+Bản thảo được lưu giữ tại [Thư viện Bodleian](../B/Bodleian_Library.md), Oxford: Phòng Bản thảo phương Tây, Bà Tolkien A15/2, fol. 149.<sup id="cite_ref-Plaza_1-1" class="reference"><a href="#cite_note-Plaza-1">[1]</a></sup>
 
 Các phần của bài giảng đã được xuất bản trong *[Tolkien and the Study of His Sources](Tolkien_and_the_Study_of_His_Sources.md)* (2011).
 
 ## Trích xuất {#Extract}
 
-"Chúng ta hối tiếc về quá khứ hoặc suy đoán về những gì có thể đã xảy ra một cách vô ích. Tuy nhiên, điều không thể tránh khỏi là chúng ta phải hối tiếc... Khi đối phó với người Goth - không thể tránh khỏi sự hối tiếc, nếu không hối tiếc về những gì có thể đã xảy ra, thì dù sao đi nữa, hối tiếc vì những ghi chép hoàn toàn ít ỏi của chúng ta về những gì đã... sự biến mất của truyền thống, văn học, lịch sử và hầu hết ngôn ngữ của họ." Tolkien cũng lấy làm tiếc về cuộc chinh phục của người La Mã, dẫn đến "sự tàn phá của Gaul và sự chìm đắm của nghệ thuật và truyền thống (hoặc các ngôn ngữ) bản địa của nó... dẫn đến sự mù mờ và tranh luận về lịch sử có lẽ là đáng chú ý nhất của các dân tộc nói tiếng Cymric."<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
+"Chúng ta hối tiếc về quá khứ hoặc suy đoán về những gì có thể đã xảy ra một cách vô ích. Tuy nhiên, điều không thể tránh khỏi là chúng ta phải hối tiếc... Khi đối phó với người Goth - không thể tránh khỏi sự hối tiếc, nếu không hối tiếc về những gì có thể đã xảy ra, thì dù sao đi nữa, hối tiếc vì những ghi chép hoàn toàn ít ỏi của chúng ta về những gì đã... sự biến mất của truyền thống, văn học, lịch sử và hầu hết ngôn ngữ của họ." Tolkien cũng lấy làm tiếc về cuộc chinh phục của người La Mã, dẫn đến "sự tàn phá của Gaul và sự chìm đắm của ngôn ngữ (hoặc các ngôn ngữ) nghệ thuật và truyền thống bản địa của nó... dẫn tới sự mù mờ và tranh luận về lịch sử của có lẽ là dân tộc nói tiếng Cymric đáng chú ý nhất."<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

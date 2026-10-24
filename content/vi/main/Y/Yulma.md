@@ -13,7 +13,7 @@ categories:
   - "Quenya nouns"
 ---
 
-<i><b>yulma</b></i> là từ [Quenya](../Q/Quenya.md) có nghĩa là "cốc".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>yulma</b></i> là một từ [Quenya](../Q/Quenya.md) có nghĩa là "cốc".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Ví dụ {#Examples}
 

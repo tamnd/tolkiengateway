@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien's Monsters"
 ---
 
-Chuyển hướng đến [Quái vật của Tolkien](../T/Tolkien's_Monsters.md).
+Chuyển hướng tới Quái vật của [Tolkien](../T/Tolkien's_Monsters.md).

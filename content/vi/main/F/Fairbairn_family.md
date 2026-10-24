@@ -24,11 +24,11 @@ langlinks:
     url: "https://kontu.wiki/Mesikersa"
 ---
 
-**Gia đình Fairbairn** là họ của hậu duệ của [Samwise Gamgee](../S/Samwise_Gamgee.md), thông qua con gái lớn [Elanor](../E/Elanor_Gardner.md) và chồng của cô [Fastred of Greenholm](Fastred_of_Greenholm.md), bởi vì vẻ đẹp yêu tinh của cô đã được con cháu kế thừa từ lâu.<sup id="cite_ref-Nomen_1-0" class="reference"><a href="#cite_note-Nomen-1">[1]</a></sup>
+**Gia đình Fairbairn** là họ của con cháu [Samwise Gamgee](../S/Samwise_Gamgee.md), thông qua con gái lớn [Elanor](../E/Elanor_Gardner.md) của ông và chồng [Fastred của Greenholm](Fastred_of_Greenholm.md), bởi vẻ đẹp yêu tinh của bà đã được con cháu kế thừa từ lâu.<sup id="cite_ref-Nomen_1-0" class="reference"><a href="#cite_note-Nomen-1">[1]</a></sup>
 
-Fastred trở thành [Người cai quản Westmarch](../W/Warden_of_Westmarch.md) đầu tiên, tước hiệu được truyền lại cho con trai ông [Elfstan Fairbairn](../E/Elfstan_Fairbairn.md) và con cháu của ông. Chỗ ở của gia đình nằm ở [Undertowers](../U/Undertowers.md) trên [Tower Hills](../T/Tower_Hills.md) (được chuyển đến đó vào [S.R.](../S/Shire_Reckoning.md) [1462](Fourth_Age_41.md)), do đó gia đình thường được gọi là 'Fairbairns of the Towers'.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Fastred trở thành [Người cai ngục đầu tiên của Westmarch](../W/Warden_of_Westmarch.md), tước hiệu được truyền lại cho con trai ông [Elfstan Fairbairn](../E/Elfstan_Fairbairn.md) và con cháu của ông. Chỗ ở của gia đình nằm ở [Undertowers](../U/Undertowers.md) trên [Đồi Tháp](../T/Tower_Hills.md) (được chuyển đến đó vào [S.R.](../S/Shire_Reckoning.md) [1462](Fourth_Age_41.md)), do đó gia đình thường được gọi là 'Fairbairns of the Towers'.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Gia đình Fairbairn cũng là những người thừa kế [Sách đỏ Westmarch](../R/Red_Book_of_Westmarch.md) mà họ đã bổ sung và tạo ra các bản sao.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Nhà Fairbairn cũng là người thừa kế của [Red Book of Westmarch](../R/Red_Book_of_Westmarch.md) mà họ đã bổ sung và tạo ra các bản sao.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Gia phả của Fairbairns of the Towers {#Family_tree_of_the_Fairbairns_of_the_Towers}
 

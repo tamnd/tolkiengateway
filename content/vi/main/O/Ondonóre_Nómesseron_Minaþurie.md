@@ -30,7 +30,7 @@ images:
 <p class="tg-quote-footer"><cite><a href="../G/Glóin.md" title="Glóin">Glóin</a></cite></p>
 </blockquote></div></div>
 
-**Ondonóre Nómesseron Minaþurie** ("Điều tra về tên địa danh của Gondor") là một văn bản của một tác giả ẩn danh, được cho là thuộc thời kỳ trị vì của [Meneldil](../M/Meneldil.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
+**Ondonóre Nómesseron Minaþurie** ("Điều tra về địa danh của Gondor") là một văn bản của một tác giả ẩn danh, được cho là thuộc thời kỳ trị vì của [Meneldil](../M/Meneldil.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

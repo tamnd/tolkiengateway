@@ -23,11 +23,11 @@ langlinks:
 <p class="tg-quote-footer"><cite><i><a href="Valaquenta.md" title="Valaquenta">Valaquenta</a></i><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Màn che của Arda** là một khu vực xung quanh [Arda](../A/Arda.md), có lẽ bao gồm toàn bộ bầu khí quyển và là một trong những lãnh thổ thống trị của [Manwë](../M/Manwë.md).
+**Màn che của Arda** là một khu vực xung quanh [Arda](../A/Arda.md), có lẽ bao gồm toàn bộ bầu khí quyển và một trong những vùng lãnh thổ của [Manwë](../M/Manwë.md).
 
 ## Xem thêm {#See_also}
 
-- [Bức tường thế giới](../W/Walls_of_the_World.md)
+- [Những Bức Tường của Thế giới](../W/Walls_of_the_World.md)
 
 <span></span>
 

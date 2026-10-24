@@ -34,17 +34,17 @@ images:
 <p class="tg-quote-footer"><cite><i><a href="../I/Imram.md" title="Imram">Imram</a></i>, vv. 105-108</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Con đường thẳng** là tuyến đường rời khỏi [Trung địa](../M/Middle-earth.md) độ cong xuyên qua bầu trời và không gian để đến vùng đất thanh tao [Aman](../A/Aman.md).
+**Con Đường Thẳng** là tuyến đường rời khỏi độ cong của [Trung Địa](../M/Middle-earth.md) xuyên qua bầu trời và không gian để đến vùng đất thanh tao của [Aman](../A/Aman.md).
 
 ## Lịch sử {#History}
 
-Con đường Thẳng, được gọi như vậy vì nó đi theo con đường cũ xuyên qua [Belegaer](../B/Belegaer.md) từ trước [Sự sụp đổ của Númenor](../D/Downfall_of_Númenor.md) khi Thế giới phẳng được [làm tròn](../C/Changing_of_the_World.md), chỉ được mở cho [Yêu tinh](../E/Elves.md), những người được phép đi đến đó trên con tàu của họ nhờ ân sủng đặc biệt của [Valar](../V/Valar.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Con Đường Thẳng, được gọi như vậy vì nó đi theo con đường cũ xuyên qua [Belegaer](../B/Belegaer.md) từ trước [Sự sụp đổ của Númenor](../D/Downfall_of_Númenor.md) khi Thế giới phẳng được [làm tròn](../C/Changing_of_the_World.md), chỉ được mở cho [Tiên tộc](../E/Elves.md), những người được phép đi tới đó trên tàu của họ nhờ ân huệ đặc biệt của [Valar](../V/Valar.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Đến [Thời đại thứ ba](../T/Third_Age.md), Yêu tinh sẽ đi tàu đi theo Con đường thẳng và trở về Aman từ [Grey Havens](../G/Grey_Havens.md) hoặc [Edhellond](../E/Edhellond.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Đến [Kỷ Đệ Tam](../T/Third_Age.md), Tiên tộc sẽ đưa các tàu đi theo Con Đường Thẳng và quay trở lại Aman từ [Cảng Xám](../G/Grey_Havens.md) hoặc [Edhellond](../E/Edhellond.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Một số người phàm được phép đi theo Con Đường Thẳng đến Aman. [Bilbo Baggins](../B/Bilbo_Baggins.md) và [Frodo Baggins](../F/Frodo_Baggins.md) đi về phía Tây trên [Con tàu trắng](../W/White_Ship.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Sau đó [Samwise Gamgee](Samwise_Gamgee.md) và [Gimli](../G/Gimli.md) cũng được phép khởi hành đến Aman.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Một số người phàm được phép mang Con Đường Thẳng đến Aman. [Bilbo Baggins](../B/Bilbo_Baggins.md) và [Frodo Baggins](../F/Frodo_Baggins.md) đi vào Phương Tây trên [Con Tàu Trắng](../W/White_Ship.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Sau đó [Samwise Gamgee](Samwise_Gamgee.md) và [Gimli](../G/Gimli.md) cũng được phép khởi hành vào Aman.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
-Trong các phiên bản trước của truyền thuyết, [Ælfwine](../_/Ælfwine.md) của Anh đã tìm ra Con đường thẳng và đến thăm [Tol Eressëa](../T/Tol_Eressëa.md) Nhiều năm sau đó.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Trong các phiên bản trước của truyền thuyết, [Ælfwine](../_/Ælfwine.md) của Anh đã tìm thấy Con Đường Thẳng và truy cập [Tol Eressëa](../T/Tol_Eressëa.md) Kỷ nguyên sau đó.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Các bài viết khác {#Other_writings}
 

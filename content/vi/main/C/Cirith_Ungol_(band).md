@@ -37,7 +37,7 @@ infobox:
 
 Trong [1975](../_/1975.md), họ đã sáng tác bài hát *Shelob's Lair*, trong đó đề cập rõ ràng đến các sự kiện của [chương cùng tên](<../S/Shelob's_Lair_(chapter).md>). Mặc dù bản gốc chưa bao giờ được phát hành nhưng ban nhạc đã phát hành một phiên bản thu âm lại trong album [2021](../_/2021.md) *Half Past Human* của họ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Năm 1981, khi liên hệ với [Tolkien Enterprises](../M/Middle-earth_Enterprises.md) về việc sử dụng hợp pháp [Cirith Ungol](Cirith_Ungol.md), công ty Saul Zeantz đã thông báo với ban nhạc rằng họ *“không phản đối việc bạn sử dụng thuật ngữ CIRITH UNGOL làm tên nhóm nhạc của mình với điều kiện bạn không sử dụng bất kỳ tên, ký tự hoặc địa điểm nào khác từ THE Lord OF THE RINGS hoặc THE HOBBIT trong vật chất”.*<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Năm 1981, khi liên hệ với [Tolkien Enterprises](../M/Middle-earth_Enterprises.md) về việc sử dụng hợp pháp [Cirith Ungol](Cirith_Ungol.md), công ty Saul Zeantz đã thông báo với ban nhạc rằng họ *“không phản đối việc bạn sử dụng thuật ngữ CIRITH UNGOL làm tên nhóm nhạc của bạn với điều kiện bạn không sử dụng bất kỳ tên, ký tự hoặc địa điểm nào khác từ THE Lord OF THE RINGS hoặc THE HOBBIT trong tài liệu của bạn”.*<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

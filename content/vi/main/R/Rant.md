@@ -15,15 +15,15 @@ categories:
   - "Sindarin nouns"
 ---
 
-<i><b>rant</b></i> là một danh từ [Sindarin](../S/Sindarin.md) có nghĩa là "khóa học".<sup id="cite_ref-silm-ap_1-0" class="reference"><a href="#cite_note-silm-ap-1">[1]</a></sup> Từ [Noldorin](../N/Noldorin.md) (một quan niệm trước đây của Sindarin) *rant* có các chú giải bổ sung "lòng sông, mạch nha, tĩnh mạch".<sup id="cite_ref-etym_2-0" class="reference"><a href="#cite_note-etym-2">[2]</a></sup>
+<i><b>rant</b></i> là một danh từ [Sindarin](../S/Sindarin.md) có nghĩa là "khóa học".<sup id="cite_ref-silm-ap_1-0" class="reference"><a href="#cite_note-silm-ap-1">[1]</a></sup> Từ [Noldorin](../N/Noldorin.md) (một quan niệm trước đó của Sindarin) *rant* có các chú giải bổ sung "lòng sông, mạch nước, tĩnh mạch".<sup id="cite_ref-etym_2-0" class="reference"><a href="#cite_note-etym-2">[2]</a></sup>
 
 ### Từ nguyên {#Etymology}
 
-Trong [*Etymologies*](../T/The_Etymologies.md), Noldorin *rant* có nguồn gốc từ [gốc](../S/Sundocarme.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=RAT&amp;action=edit&amp;redlink=1" title="RAT (page does not exist)">RAT</a> ("đi bộ").<sup id="cite_ref-etym_2-1" class="reference"><a href="#cite_note-etym-2">[2]</a></sup>
+Trong [*Etymologies*](../T/The_Etymologies.md), Noldorin *rant* bắt nguồn từ [gốc](../S/Sundocarme.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=RAT&amp;action=edit&amp;redlink=1" title="RAT (page does not exist)">RAT</a> ("đi bộ").<sup id="cite_ref-etym_2-1" class="reference"><a href="#cite_note-etym-2">[2]</a></sup>
 
 ### Ví dụ {#Examples}
 
-- *[Celebrant](../C/Celebrant.md)*, "dòng bạc"<sup id="cite_ref-lotr-index_3-0" class="reference"><a href="#cite_note-lotr-index-3">[3]</a></sup> hoặc thông thường hơn là "Silverlode";<sup id="cite_ref-lotr-loth_4-0" class="reference"><a href="#cite_note-lotr-loth-4">[4]</a></sup> một con sông chảy ra từ [Dimrill Dale](../D/Dimrill_Dale.md) và qua [Lothlórien](../L/Lothlórien.md)
+- *[Celebrant](../C/Celebrant.md)*, "dòng bạc"<sup id="cite_ref-lotr-index_3-0" class="reference"><a href="#cite_note-lotr-index-3">[3]</a></sup> hoặc thông thường hơn là "Silverlode";<sup id="cite_ref-lotr-loth_4-0" class="reference"><a href="#cite_note-lotr-loth-4">[4]</a></sup> một con sông chảy ra từ [Thung lũng Dimrill](../D/Dimrill_Dale.md) và xuyên qua [Lothlórien](../L/Lothlórien.md)
 - *[Adurant](../A/Adurant.md)*, "dòng đôi";<sup id="cite_ref-silm-index_5-0" class="reference"><a href="#cite_note-silm-index-5">[5]</a></sup> một trong bảy con sông của [Ossiriand](../O/Ossiriand.md).
 - <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Gondrant&amp;action=edit&amp;redlink=1" title="Gondrant (page does not exist)">Gondrant</a></i>, "vệt đá"<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
@@ -39,7 +39,7 @@ Trong [*Etymologies*](../T/The_Etymologies.md), Noldorin *rant* có nguồn gố
 
 ## Ilkorin {#Ilkorin}
 
-<i><b>rant</b></i> là từ [Ilkorin](../I/Ilkorin.md) có nghĩa là "dòng chảy, dòng sông".<sup id="cite_ref-etym_2-2" class="reference"><a href="#cite_note-etym-2">[2]</a></sup>
+<i><b>rant</b></i> là một từ [Ilkorin](../I/Ilkorin.md) mang ý nghĩa "dòng chảy, dòng sông".<sup id="cite_ref-etym_2-2" class="reference"><a href="#cite_note-etym-2">[2]</a></sup>
 
 ### Từ nguyên {#Etymology_2}
 

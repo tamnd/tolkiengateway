@@ -23,11 +23,11 @@ images:
 ## Lịch sử {#History}
 
 - **[1936](../_/1936.md)**
-    - [Stanley Unwin](../S/Stanley_Unwin.md) gửi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) một hợp đồng trùng lặp đã ký để *The Hobbit* được xuất bản.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+    - [Stanley Unwin](../S/Stanley_Unwin.md) gửi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) hợp đồng trùng lặp đã ký để *The Hobbit* được xuất bản.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 - **[1958](../_/1958.md)**
     - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và [Rayner Unwin](../R/Rayner_Unwin.md) đồng ý cấp cho các doanh nhân Mỹ, Forrest J. Ackerman và Morton Grady Zimmerman quyền lựa chọn bản quyền phim *The Lord of the Rings* trong sáu tháng để cho phép phát triển một kịch bản phù hợp. Một kịch bản không được thống nhất và lựa chọn này hết hạn vào đầu năm 1959.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 - **[1962](../_/1962.md)**
-    - J.R.R. Tolkien và Allen & Unwin ký hợp đồng với [William Lawrence Snyder](../W/William_Lawrence_Snyder.md) của <a class="new" href="https://tolkiengateway.net/w/index.php?title=Rembrandt_Films&amp;action=edit&amp;redlink=1" title="Rembrandt Films (page does not exist)">Rembrandt Films</a> để thực hiện bộ phim chuyển thể từ *The Hobbit*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+    - J.R.R. Tolkien và Allen &amp; Unwin ký hợp đồng với [William Lawrence Snyder](../W/William_Lawrence_Snyder.md) của <a class="new" href="https://tolkiengateway.net/w/index.php?title=Rembrandt_Films&amp;action=edit&amp;redlink=1" title="Rembrandt Films (page does not exist)">Rembrandt Films</a> để thực hiện bộ phim chuyển thể từ *The Hobbit*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 - **[1967](../_/1967.md)**
     - Trong nỗ lực vào phút cuối nhằm tránh việc quyền cấp phép của Snyder hết hạn, *[The Hobbit](<../T/The_Hobbit_(1967_film).md>)* phim ngắn được phát hành.
 - **[1969](../_/1969.md)**
@@ -35,7 +35,7 @@ images:
 - **[1976](../_/1976.md)**
     - Công ty sản xuất [Saul Zaentz](../S/Saul_Zaentz.md) mua lại phim và các quyền khác cho *The Hobbit* và *The Lord of the Rings* từ United Artists.<sup id="cite_ref-middle-earth-timeline_4-1" class="reference"><a href="#cite_note-middle-earth-timeline-4">[4]</a></sup>
 - **[1977](../_/1977.md)**
-    - Công ty Saul Zaentz thành lập d/b/a [Doanh nghiệp Tolkien](../T/Tolkien_Enterprises.md).<sup id="cite_ref-middle-earth-timeline_4-2" class="reference"><a href="#cite_note-middle-earth-timeline-4">[4]</a></sup>
+    - Công ty Saul Zaentz thành lập một d/b/a [Tolkien Doanh nghiệp](../T/Tolkien_Enterprises.md).<sup id="cite_ref-middle-earth-timeline_4-2" class="reference"><a href="#cite_note-middle-earth-timeline-4">[4]</a></sup>
     - Bộ phim hoạt hình đầu tiên của [Rankin/Bass](../R/Rankin%252FBass.md), *[The Hobbit](<../T/The_Hobbit_(1977_film).md>)* được phát hành.
 - **[1978](../_/1978.md)**
     - Saul Zaentz sản xuất bộ phim hoạt hình *[The Lord of the Rings](<../T/The_Lord_of_the_Rings_(1978_film).md>)*, do [Ralph Bakshi](../R/Ralph_Bakshi.md) đạo diễn.
@@ -46,7 +46,7 @@ images:
 - **[1982](../_/1982.md)**
     - [Melbourne House](../M/Melbourne_House.md) xuất bản trò chơi điện tử đầu tiên dựa trên tác phẩm của Tolkien, *[The Hobbit](<../T/The_Hobbit_(1982_video_game).md>)*.
 - **[1986](../_/1986.md)**
-    - George Allen & Unwin hợp nhất với Bell & Hyman để tạo thành Unwin Hyman.<sup id="cite_ref-fob_7-0" class="reference"><a href="#cite_note-fob-7">[7]</a></sup>
+    - George Allen &amp; Unwin hợp nhất với Bell & Hyman để tạo thành Unwin Hyman.<sup id="cite_ref-fob_7-0" class="reference"><a href="#cite_note-fob-7">[7]</a></sup>
 - **[1987](../_/1987.md)**
     - [Mithril Miniatures](../M/Mithril_Miniatures.md) được thành lập, tạo ra các nhân vật thu nhỏ bằng kim loại được cấp phép lấy cảm hứng từ *The Hobbit* và *The Lord of the Rings* của J.R.R. Tolkien.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
 - **[1990](../_/1990.md)**
@@ -61,35 +61,35 @@ images:
 - **[2001](../_/2001.md)**
     - New Line Cinema phát hành *[The Fellowship of the Ring](<../T/The_Fellowship_of_the_Ring_(2001_film).md>)*, do [Peter Jackson](../P/Peter_Jackson.md) đồng sản xuất và đạo diễn.
 - **[2002](../_/2002.md)**
-    - Ra mắt dòng điện ảnh mới *[The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)*.
+    - Phim dòng mới ra mắt *[The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)*.
 - **[2003](../_/2003.md)**
-    - Ra mắt dòng điện ảnh mới *[The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*.
+    - Phim dòng mới ra mắt *[The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*.
 - **[2004](../_/2004.md)**
     - Electronic Arts phát hành *[The Battle for Middle-earth](../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth.md)*, một trò chơi chiến lược thời gian thực theo giấy phép chung với New Line Cinema và Tolkien Enterprises.
 - **[2005](../_/2005.md)**
-    - Tolkien Enterprises bước vào kỷ nguyên cấp phép mới với sự phổ biến trên toàn thế giới của các bộ phim về Peter Jackson. New Line và công ty mẹ của nó, Warner Brothers, phát hành một loạt hàng hóa dựa trên nội dung phim, theo giấy phép của Tolkien Enterprises, công ty này ký kết các thỏa thuận cấp phép mới cho hàng hóa chỉ dựa trên tài sản văn học của Tolkien, bao gồm trò chơi board game, trò chơi điện tử, đồ trang sức, tượng nhỏ và các đồ sưu tầm khác.<sup id="cite_ref-middle-earth-timeline_4-4" class="reference"><a href="#cite_note-middle-earth-timeline-4">[4]</a></sup>
+    - Tolkien Các doanh nghiệp bước vào kỷ nguyên cấp phép mới với sự phổ biến trên toàn thế giới của các bộ phim Peter Jackson. New Line và công ty mẹ của nó, Warner Brothers, phát hành hàng loạt hàng hóa dựa trên nội dung phim, theo giấy phép của Tolkien Enterprises, ký kết các thỏa thuận cấp phép mới cho hàng hóa chỉ dựa trên tài sản văn học Tolkien, bao gồm trò chơi board game, trò chơi điện tử, đồ trang sức, tượng nhỏ và các đồ sưu tầm khác.<sup id="cite_ref-middle-earth-timeline_4-4" class="reference"><a href="#cite_note-middle-earth-timeline-4">[4]</a></sup>
 - **[2006](../_/2006.md)**
     - Electronic Arts mua lại bản quyền sách và phát hành trò chơi điện tử *[The Battle for Middle-earth II](../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md)*.
-    - *[The Lord of the Rings (musical)](<../T/The_Lord_of_the_Rings_(musical).md>)* vở kịch sân khấu ra mắt tại Toronto, Canada. Sản phẩm của Kevin Wallace Ltd. được sản xuất theo giấy phép của Tolkien Enterprises.<sup id="cite_ref-middle-earth-timeline_4-5" class="reference"><a href="#cite_note-middle-earth-timeline-4">[4]</a></sup>
+    - *[The Lord of the Rings (musical)](<../T/The_Lord_of_the_Rings_(musical).md>)* vở kịch sân khấu ra mắt tại Toronto, Canada. Sản phẩm của Kevin Wallace Ltd. được cấp phép từ Tolkien Enterprises.<sup id="cite_ref-middle-earth-timeline_4-5" class="reference"><a href="#cite_note-middle-earth-timeline-4">[4]</a></sup>
 - **[2007](../_/2007.md)**
-    - 27 tháng 3 - Electronic Arts gia hạn giấy phép xuất bản trò chơi điện tử với New Line và Tolkien Enterprises.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
+    - 27 tháng 3 - Electronic Arts gia hạn giấy phép xuất bản cho trò chơi điện tử với New Line và Tolkien Enterprises.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
     - [Turbine](../T/Turbine.md) phát hành trò chơi điện tử MMO chỉ dựa trên tài sản văn học, *[The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md)* (LOTRO) theo giấy phép của Tolkien Enterprises.<sup id="cite_ref-middle-earth-timeline_4-6" class="reference"><a href="#cite_note-middle-earth-timeline-4">[4]</a></sup>
     - 18 tháng 12 - New Line và MGM công bố phát triển bộ phim chuyển thể gồm hai phim *[The Hobbit](../T/The_Hobbit.md)* của J.R.R. Tolkien.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
 - **[2008](../_/2008.md)**
-    - New Line Cinema hợp nhất với [Warner Bros.](../W/Warner_Bros..md) và thông qua cách này, công ty có được quyền phân phối [*The Lord of the Rings* loạt phim](<../T/The_Lord_of_the_Rings_(film_series).md>) và quyền đồng sản xuất [*The Hobbit* loạt phim](<../T/The_Hobbit_(film_series).md>).<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>
+    - New Line Cinema hợp nhất với [Warner Bros.](../W/Warner_Bros..md) và thông qua cách này họ có được quyền phân phối [*The Lord of the Rings* loạt phim](<../T/The_Lord_of_the_Rings_(film_series).md>) và quyền đồng sản xuất [*The Hobbit* loạt phim](<../T/The_Hobbit_(film_series).md>).<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>
     - 8 tháng 5 - Electronic Arts công bố *[The Lord of the Rings: Conquest](../T/The_Lord_of_the_Rings%253A_Conquest.md)*, được phát triển bởi Pandemia Studios.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>
 - **[2009](../_/2009.md)**
     - Tháng 1 - Giấy phép xuất bản trò chơi điện tử dựa trên *The Lord of the Rings* của Electronic Arts hết hạn, trả lại cho [Warner Bros. Interactive Entertainment](../W/Warner_Bros._Interactive_Entertainment.md).<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup>
     - 13 tháng 1 - *The Lord of the Rings: Conquest* được phát hành.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup>
     - 28 tháng 5 - Warner Bros. Interactive Entertainment công bố mối quan hệ hợp tác lâu dài với The Saul Zaentz Company và New Line Productions, Inc. để có bản quyền văn học và phim để phát triển và xuất bản trò chơi dựa trên bộ ba *The Lord of the Rings*. *[The Lord of the Rings: Aragorn's Quest](../T/The_Lord_of_the_Rings%253A_Aragorn's_Quest.md)* được công bố, phát triển bởi TT Fusion và Headstrong Games.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup>
 - **[2010](../_/2010.md)**
-    - Tolkien Enterprises đổi tên thành [Doanh nghiệp Trung Địa](../M/Middle-earth_Enterprises.md).<sup id="cite_ref-middle-earth-timeline_4-7" class="reference"><a href="#cite_note-middle-earth-timeline-4">[4]</a></sup>
+    - Tolkien Doanh nghiệp đổi tên thành [Trung Địa Doanh nghiệp](../M/Middle-earth_Enterprises.md).<sup id="cite_ref-middle-earth-timeline_4-7" class="reference"><a href="#cite_note-middle-earth-timeline-4">[4]</a></sup>
     - Turbine được [WB Games](../W/Warner_Bros._Interactive_Entertainment.md) mua và do đó WB Games có được quyền truy cập vào các quyền LOTRO.<sup id="cite_ref-middle-earth-timeline_4-8" class="reference"><a href="#cite_note-middle-earth-timeline-4">[4]</a></sup><sup id="cite_ref-warner_17-0" class="reference"><a href="#cite_note-warner-17">[17]</a></sup>
-    - 18 tháng 3 - Warner Bros. Interactive Entertainment công bố *[The Lord of the Rings: War in the North](../T/The_Lord_of_the_Rings%253A_War_in_the_North.md)*, được phát triển bởi Snowblind Studios kết hợp với Middle-earth Enterprises.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup>
-    - 14 tháng 12 - *Chúa tể của những chiếc nhẫn: Nhiệm vụ của Aragorn* được phát hành.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup>
+    - 18 tháng 3 - Warner Bros. Interactive Entertainment công bố *[The Lord of the Rings: War in the North](../T/The_Lord_of_the_Rings%253A_War_in_the_North.md)*, được phát triển bởi Snowblind Studios kết hợp với Trung Địa Enterprises.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup>
+    - 14 tháng 12 - *The Lord of the Rings: Nhiệm vụ của Aragorn* được phát hành.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup>
 - **[2011](../_/2011.md)**
     - 30 tháng 5 - New Line Cinema, Warner Bros. Pictures và MGM công bố tựa phim chuyển thể từ hai bộ phim *The Hobbit* của Peter Jackson. Phim đầu tiên có tựa đề *[The Hobbit: An Unexpected Journey](../T/The_Hobbit%253A_An_Unexpected_Journey.md)* và phim thứ hai có tựa đề *The Hobbit: There and Back Again*.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup>
-    - 1 tháng 11 - *Chúa tể của những chiếc nhẫn: Cuộc chiến ở phương Bắc* được phát hành.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup>
+    - 1 tháng 11 - *The Lord of the Rings: War in the North* được phát hành.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup>
 - **[2012](../_/2012.md)**
     - 30 tháng 7 - New Line, MGM và Warner Bros. Pictures thông báo rằng bộ phim chuyển thể hai phim *The Hobbit* của Peter Jackson giờ đây sẽ trở thành bộ ba phim.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup>
     - 31 tháng 8 - New Line, MGM và Warner Bros. công bố bộ phim thứ hai trong bộ ba phim *The Hobbit* của Peter Jackson sẽ được đổi tên thành *[The Hobbit: The Desolation of Smaug](../T/The_Hobbit%253A_The_Desolation_of_Smaug.md)*. Bộ phim thứ ba có tựa đề *The Hobbit: There and Back Again*.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup><sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup>
@@ -97,58 +97,58 @@ images:
     - 28 tháng 11 - Buổi ra mắt *The Hobbit: An Unexpected Journey*.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup>
 - **[2013](../_/2013.md)**
     - 12 tháng 11 - Warner Bros. Interactive Entertainment công bố *[Middle-earth: Shadow of Mordor](../M/Middle-earth%253A_Shadow_of_Mordor.md)*. Một trò chơi mới lấy bối cảnh giữa *The Hobbit* và *The Lord of the Rings*, được phát triển bởi Monolith Productions.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup>
-    - 25 tháng 11 - Warner Bros. Interactive Entertainment, TT Games và The LEGO Group công bố *[LEGO The Hobbit](Lego_The_Hobbit%253A_The_Video_Game.md)*, dựa trên hai bộ phim đầu tiên trong Bộ ba *The Hobbit* của Peter Jackson, *The Hobbit: An Unexpected Journey* và *The Hobbit: The Desolation of Smaug*.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup>
+    - 25 tháng 11 - Warner Bros. Interactive Entertainment, TT Games và The LEGO Group công bố *[LEGO The Hobbit](Lego_The_Hobbit%253A_The_Video_Game.md)*, dựa trên hai bộ phim đầu tiên trong Bộ ba phim *The Hobbit* của Peter Jackson, *The Hobbit: An Unexpected Journey* và *The Hobbit: The Desolation of Smaug*.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup>
     - 2 tháng 12 - Buổi ra mắt *The Hobbit: The Desolation of Smaug*.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup>
 - **[2014](../_/2014.md)**
     - 8 tháng 4 - *LEGO The Hobbit* được phát hành.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup>
     - 24 tháng 4 - Warner Bros Pictures, MGM và New Line Cinema thông báo rằng tựa phim thứ ba trong bộ ba phim *The Hobbit* của Peter Jackson sẽ được đổi tên thành *[The Hobbit: The Battle of the Five Armies](../T/The_Hobbit%253A_The_Battle_of_the_Five_Armies.md)*.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[31]</a></sup>
-    - 30 tháng 9 - *Middle-earth: Shadow of Mordor* được phát hành<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[32]</a></sup>
-    - 1 tháng 12 - Buổi ra mắt *Người Hobbit: Trận chiến của năm cánh quân*.<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">[33]</a></sup>
+    - 30 tháng Chín - *Middle-earth: Shadow of Mordor* được phát hành<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[32]</a></sup>
+    - 1 tháng 12 - Buổi ra mắt *The Hobbit: The Battle of the Five Armies*.<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">[33]</a></sup>
 - **[2016](../_/2016.md)**
     - Quyền LOTRO được bán cho [Standing Stone Games](../S/Standing_Stone_Games.md).<sup id="cite_ref-middle-earth-timeline_4-9" class="reference"><a href="#cite_note-middle-earth-timeline-4">[4]</a></sup>
 - **[2017](../_/2017.md)**
     - 27 tháng 2 - Warner Bros. Interactive Entertainment và nhà phát triển Monolith Productions công bố *[Middle-earth: Shadow of War](../M/Middle-earth%253A_Shadow_of_War.md)*, phần tiếp theo của *Shadow of Mordor*.<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[34]</a></sup>
     - 10 tháng 10 - *Middle-earth: Shadow of War* được phát hành.<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">[35]</a></sup>
-    - 13 tháng 11 - [Amazon](../A/Amazon.com_Incorporated.md) mua bản quyền truyền hình toàn cầu *The Lord of the Rings* và *The Hobbit* từ [Tolkien Estate](../T/Tolkien_Estate.md) và công bố sản xuất một loạt phim thông qua quan hệ đối tác với Tolkien Estate, [Tolkien Trust](../T/Tolkien_Trust.md), HarperCollins và New Line Cinema. Điều này bao gồm nhiều phần và loạt phim phụ tiềm năng.<sup id="cite_ref-36" class="reference"><a href="#cite_note-36">[36]</a></sup>
+    - ngày 13 tháng 11 - [Amazon](../A/Amazon.com_Incorporated.md) mua bản quyền truyền hình toàn cầu cho *The Lord of the Rings* và *The Hobbit* từ [Tolkien Estate](../T/Tolkien_Estate.md) và thông báo về việc sản xuất một loạt phim thông qua quan hệ đối tác với Tolkien Estate, [Tolkien Trust](../T/Tolkien_Trust.md), HarperCollins và New Line Cinema. Điều này bao gồm nhiều phần và loạt phim phụ tiềm năng.<sup id="cite_ref-36" class="reference"><a href="#cite_note-36">[36]</a></sup>
 - **[2019](../_/2019.md)**
-    - 25 tháng 3 - *[The Lord of the Rings: Gollum](../T/The_Lord_of_the_Rings%253A_Gollum.md)* được công bố bởi Daedalic Entertainment, hợp tác với Middle-earth Enterprises.<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">[37]</a></sup>
+    - 25 tháng 3 - *[The Lord of the Rings: Gollum](../T/The_Lord_of_the_Rings%253A_Gollum.md)* được Daedalic Entertainment công bố, hợp tác với Trung Địa Enterprises.<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">[37]</a></sup>
 - **[2020](../_/2020.md)**
     - 15 tháng 6 - NetEase và Warner Bros. Interactive Entertainment công bố phát triển trò chơi chiến lược di động mới được cấp phép chính thức *[The Lord of the Rings: Rise to War](../T/The_Lord_of_the_Rings%253A_Rise_to_War.md)*.<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">[38]</a></sup>
 - **[2021](../_/2021.md)**
     - 10 tháng 6 - New Line Cinema hợp tác với Warner Bros. Animation về bộ phim hoạt hình chiếu rạp gốc *[The Lord of the Rings: The War of the Rohirrim](../T/The_Lord_of_the_Rings%253A_The_War_of_the_Rohirrim.md)*.<sup id="cite_ref-39" class="reference"><a href="#cite_note-39">[39]</a></sup>
-    - 24 tháng 8 - [Wizards of the Coast](../W/Wizards_of_the_Coast.md) công bố *Chúa tể của những chiếc nhẫn: Những câu chuyện về Trung địa*. Một bộ dành cho dòng *Magic: The Gathering Universes Beyond*.<sup id="cite_ref-40" class="reference"><a href="#cite_note-40">[40]</a></sup><sup id="cite_ref-41" class="reference"><a href="#cite_note-41">[41]</a></sup><sup id="cite_ref-42" class="reference"><a href="#cite_note-42">[42]</a></sup>
-    - 23 tháng 9 - *Chúa tể của những chiếc nhẫn: Rise to War* được phát hành.<sup id="cite_ref-43" class="reference"><a href="#cite_note-43">[43]</a></sup>
+    - 24 tháng 8 - [Pháp sư of the Coast](../W/Wizards_of_the_Coast.md) công bố *The Lord of the Rings: Những câu chuyện về Trung Địa*. Một bộ dành cho dòng *Magic: The Gathering Universes Beyond*.<sup id="cite_ref-40" class="reference"><a href="#cite_note-40">[40]</a></sup><sup id="cite_ref-41" class="reference"><a href="#cite_note-41">[41]</a></sup><sup id="cite_ref-42" class="reference"><a href="#cite_note-42">[42]</a></sup>
+    - 23 tháng Chín - *The Lord of the Rings: Rise to War* được phát hành.<sup id="cite_ref-43" class="reference"><a href="#cite_note-43">[43]</a></sup>
 - **[2022](../_/2022.md)**
-    - 9 tháng 2 - Công ty Saul Zaentz rao bán tài sản Tolkien của họ. Chúng bao gồm các quyền đối với phim điện ảnh, trò chơi điện tử, hoạt động buôn bán, công viên giải trí và sản phẩm sân khấu dựa trên *The Lord of the Rings* và *The Hobbit*.<sup id="cite_ref-44" class="reference"><a href="#cite_note-44">[44]</a></sup>
+    - ngày 9 tháng 2 - Công ty Saul Zaentz rao bán tài sản Tolkien của họ. Chúng bao gồm các quyền đối với phim điện ảnh, trò chơi điện tử, hoạt động buôn bán, công viên giải trí và sản phẩm sân khấu dựa trên *The Lord of the Rings* và *The Hobbit*.<sup id="cite_ref-44" class="reference"><a href="#cite_note-44">[44]</a></sup>
     - 17 tháng 5 - Amazon mua lại MGM với giá 8,5 tỷ USD, bao gồm quyền phân phối *The Hobbit*.<sup id="cite_ref-45" class="reference"><a href="#cite_note-45">[45]</a></sup>
-    - 18 tháng 8 - [Embracer Group](../E/Embracer_Group.md) mua lại các Doanh nghiệp Trung Địa từ Công ty Saul Zaentz.<sup id="cite_ref-46" class="reference"><a href="#cite_note-46">[46]</a></sup>
+    - 18 tháng 8 - [Embracer Group](../E/Embracer_Group.md) mua lại Trung Địa Doanh nghiệp từ Công ty Saul Zaentz.<sup id="cite_ref-46" class="reference"><a href="#cite_note-46">[46]</a></sup>
     - Mùa đầu tiên của loạt phim truyền hình được cấp phép đầu tiên, *[The Rings of Power](../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)*, được phát hành.
 - **[2023](../_/2023.md)**
     - 23 tháng 2 - Embracer Group, New Line Cinema và Warner Bros. Pictures đạt được thỏa thuận kéo dài nhiều năm để cộng tác về các tính năng dựa trên *The Lord of the Rings* và *The Hobbit*.<sup id="cite_ref-47" class="reference"><a href="#cite_note-47">[47]</a></sup>
-    - 2 tháng 3 - Nhà hát Cối xay nước công bố *Chúa tể của những chiếc nhẫn: Một câu chuyện âm nhạc*, một vở nhạc kịch chuyển thể từ *The Lord of the Rings*. Hợp tác với Kevin Wallace cho KWL (Kevin Wallace Limited) và Middle-earth Enterprises.<sup id="cite_ref-48" class="reference"><a href="#cite_note-48">[48]</a></sup><sup id="cite_ref-watermill_49-0" class="reference"><a href="#cite_note-watermill-49">[49]</a></sup>
+    - 2 tháng 3 - Nhà hát Cối xay nước công bố *The Lord of the Rings: A Musical Tale*, một vở nhạc kịch chuyển thể từ *The Lord of the Rings*. Liên kết với Kevin Wallace cho KWL (Kevin Wallace Limited) và Trung Địa Enterprises.<sup id="cite_ref-48" class="reference"><a href="#cite_note-48">[48]</a></sup><sup id="cite_ref-watermill_49-0" class="reference"><a href="#cite_note-watermill-49">[49]</a></sup>
     - 10 tháng 5 - *[The Lord of the Rings: Heroes of Middle-earth](../T/The_Lord_of_the_Rings%253A_Heroes_of_Middle-earth.md)*, một game nhập vai theo lượt do Electronic Arts xuất bản và Capital Games phát triển được phát hành.<sup id="cite_ref-50" class="reference"><a href="#cite_note-50">[50]</a></sup>
     - 15 tháng 5 - Amazon Games đạt được thỏa thuận với Embracer Group để phát triển và xuất bản trò chơi trực tuyến nhiều người chơi (MMO) mới dựa trên *The Lord of the Rings*.<sup id="cite_ref-51" class="reference"><a href="#cite_note-51">[51]</a></sup>
     - 25 tháng 5 - *The Lord of the Rings: Gollum* được phát hành.<sup id="cite_ref-52" class="reference"><a href="#cite_note-52">[52]</a></sup>
-    - 8 tháng 6 - *[The Lord of the Rings: Return to Moria](../T/The_Lord_of_the_Rings%253A_Return_to_Moria.md)*, một trò chơi điện tử chế tạo sinh tồn lấy bối cảnh Thời đại thứ tư của Trung Địa được công bố. Được phát triển bởi Free Range Games và được xuất bản bởi North Beach Games.<sup id="cite_ref-53" class="reference"><a href="#cite_note-53">[53]</a></sup>
-    - 23 tháng 6 - *Chúa tể của những chiếc nhẫn: Tales of Middle-earth* được phát hành.<sup id="cite_ref-54" class="reference"><a href="#cite_note-54">[54]</a></sup>
-    - 25 tháng 7 - Buổi ra mắt *Chúa tể của những chiếc nhẫn: Một câu chuyện âm nhạc*.<sup id="cite_ref-watermill_49-1" class="reference"><a href="#cite_note-watermill-49">[49]</a></sup>
-    - 21 tháng 9 - *[Tales of the Shire](../T/Tales_of_the_Shire.md)* được công bố, phát triển bởi Wētā Workshop và được xuất bản bởi Private Division.<sup id="cite_ref-55" class="reference"><a href="#cite_note-55">[55]</a></sup>
-    - 24 tháng 10 - *Chúa tể của những chiếc nhẫn: Trở lại Moria* được phát hành.<sup id="cite_ref-56" class="reference"><a href="#cite_note-56">[56]</a></sup>
+    - 8 tháng 6 - *[The Lord of the Rings: Return to Moria](../T/The_Lord_of_the_Rings%253A_Return_to_Moria.md)*, một trò chơi điện tử chế tạo sinh tồn lấy bối cảnh Kỷ Đệ Tứ của Trung Địa được công bố. Được phát triển bởi Free Range Games và được xuất bản bởi North Beach Games.<sup id="cite_ref-53" class="reference"><a href="#cite_note-53">[53]</a></sup>
+    - 23 tháng 6 - *The Lord of the Rings: Tales of Trung Địa* được phát hành.<sup id="cite_ref-54" class="reference"><a href="#cite_note-54">[54]</a></sup>
+    - 25 tháng 7 - Buổi ra mắt *The Lord of the Rings: Một câu chuyện âm nhạc*.<sup id="cite_ref-watermill_49-1" class="reference"><a href="#cite_note-watermill-49">[49]</a></sup>
+    - 21 tháng Chín - *[Tales of the Shire](../T/Tales_of_the_Shire.md)* được Wētā Workshop công bố, phát triển và Private Division xuất bản.<sup id="cite_ref-55" class="reference"><a href="#cite_note-55">[55]</a></sup>
+    - 24 tháng 10 - *The Lord of the Rings: Trở về Moria* được phát hành.<sup id="cite_ref-56" class="reference"><a href="#cite_note-56">[56]</a></sup>
 - **[2024](../_/2024.md)**
     - 9 tháng 5 - Warner Bros. Pictures và New Line Cinema công bố hai phim truyện mới từ Trung Địa của Tolkien. Phim đầu tiên là *[The Lord of the Rings: The Hunt for Gollum](../T/The_Lord_of_the_Rings%253A_The_Hunt_for_Gollum.md)* (tên tạm thời).<sup id="cite_ref-57" class="reference"><a href="#cite_note-57">[57]</a></sup>
-    - 24 tháng 5 - *Chúa tể của những chiếc nhẫn: Những anh hùng của Trung địa* ngừng phát triển.<sup id="cite_ref-58" class="reference"><a href="#cite_note-58">[58]</a></sup><sup id="cite_ref-59" class="reference"><a href="#cite_note-59">[59]</a></sup>
-    - 13 tháng 12 - Buổi ra mắt *Chúa tể của những chiếc nhẫn: Cuộc chiến của người Rohirrim*.<sup id="cite_ref-60" class="reference"><a href="#cite_note-60">[60]</a></sup>
+    - 24 tháng 5 - *The Lord of the Rings: Anh hùng Trung Địa* ngừng phát triển.<sup id="cite_ref-58" class="reference"><a href="#cite_note-58">[58]</a></sup><sup id="cite_ref-59" class="reference"><a href="#cite_note-59">[59]</a></sup>
+    - 13 tháng 12 - Buổi ra mắt *The Lord of the Rings: Cuộc chiến của Rohirrim*.<sup id="cite_ref-60" class="reference"><a href="#cite_note-60">[60]</a></sup>
 - **[2025](../_/2025.md)**
-    - 29 tháng 7 - *Tales of the Shire: Trò chơi Chúa tể của những chiếc nhẫn* được phát hành.<sup id="cite_ref-61" class="reference"><a href="#cite_note-61">[61]</a></sup>
+    - 29 tháng 7 - *Câu chuyện về Shire: Một The Lord of the Rings Trò chơi* được phát hành.<sup id="cite_ref-61" class="reference"><a href="#cite_note-61">[61]</a></sup>
 - **[2026](../_/2026.md)**
-    - 24 tháng 3 - Warner Bros. công bố phát triển <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Lord_of_the_Rings:_Shadows_of_the_Past&amp;action=edit&amp;redlink=1" title="The Lord of the Rings: Shadows of the Past (page does not exist)">Chúa tể của những chiếc nhẫn: Bóng tối của quá khứ</a></i>, bộ phim tiếp theo sau *The Hunt for Gollum*.<sup id="cite_ref-62" class="reference"><a href="#cite_note-62">[62]</a></sup>
+    - 24 tháng 3 - Warner Bros. công bố phát triển <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Lord_of_the_Rings:_Shadows_of_the_Past&amp;action=edit&amp;redlink=1" title="The Lord of the Rings: Shadows of the Past (page does not exist)">The Lord of the Rings: Shadows of the Past</a></i>, bộ phim tiếp theo sau *The Hunt for Gollum*.<sup id="cite_ref-62" class="reference"><a href="#cite_note-62">[62]</a></sup>
     - 20 tháng 5 - Warhorse Studios thông báo phát triển một game nhập vai Trung Địa thế giới mở.<sup id="cite_ref-63" class="reference"><a href="#cite_note-63">[63]</a></sup>
     - 14 tháng 8 - *Magic: The Gathering \| The Hobbit* được phát hành.<sup id="cite_ref-64" class="reference"><a href="#cite_note-64">[64]</a></sup>
 
 ## Xem thêm {#See_also}
 
 - [Các vụ kiện](Lawsuits.md)
-- [Doanh nghiệp Trung Địa/Bản quyền](../M/Middle-earth_Enterprises%252FCopyrights.md)
+- [Trung Địa Doanh nghiệp/Bản quyền](../M/Middle-earth_Enterprises%252FCopyrights.md)
 
 <span></span>
 

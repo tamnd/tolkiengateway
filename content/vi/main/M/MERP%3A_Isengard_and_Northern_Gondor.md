@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Isengard and Northern Gondor"
 ---
 
-Chuyển hướng đến [Isengard và Bắc Gondor](../I/Isengard_and_Northern_Gondor.md).
+Chuyển hướng tới [Isengard và miền Bắc Gondor](../I/Isengard_and_Northern_Gondor.md).

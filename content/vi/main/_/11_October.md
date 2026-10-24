@@ -73,19 +73,19 @@ Sự kiện xảy ra vào ngày 11 tháng 10
 - **[1966](1966.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 289b](../L/Letter_289b.md).
 - **[1979](1979.md)** - Tập *[Jackanory](../J/Jackanory.md)* "The Clouds Burst" được phát sóng trên [BBC](../B/BBC.md).
 - **[1996](1996.md)** - *[Tyalië Tyelelliéva](../T/Tyalië_Tyelelliéva.md)* số [9](../T/Tyalië_Tyelelliéva_9.md) được xuất bản.
-- **[1999](1999.md)** - <b>Quay phim chính cho <a href="../T/The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>Chúa tể của những chiếc nhẫn</i> (loạt phim)</a> bắt đầu.</b>
-- **[2010](2010.md)** - Mereth Oronnad của Hiệp hội Tolkien Chile.
+- **[1999](1999.md)** - <b>Quay phim chính cho <a href="../T/The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings</i> (loạt phim)</a> bắt đầu.</b>
+- **[2010](2010.md)** - Người Chile Tolkien Mereth Oronnad của Hiệp hội.
 
 ## Trong Arda {#In_Arda}
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Ted_Nasmith_-_Fifth_Day_After_Weathertop.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/65/Ted_Nasmith_-_Fifth_Day_After_Weathertop.jpg/300px-Ted_Nasmith_-_Fifth_Day_After_Weathertop.jpg" decoding="async" loading="lazy" width="300" height="207" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/65/Ted_Nasmith_-_Fifth_Day_After_Weathertop.jpg/450px-Ted_Nasmith_-_Fifth_Day_After_Weathertop.jpg 1.5x, https://tolkiengateway.net/w/images/6/65/Ted_Nasmith_-_Fifth_Day_After_Weathertop.jpg 2x" data-file-width="530" data-file-height="366"/></a><figcaption><i>Fifth Day After Weathertop</i> by <a href="../T/Ted_Nasmith.md" title="Ted Nasmith">Ted Nasmith</a></figcaption></figure>
 
 - [F.A.](../F/First_Age.md) [495](../F/First_Age_495.md):
-    - Tại [Vinyamar](../V/Vinyamar.md), [Ulmo](../U/Ulmo.md) nói chuyện với [Tuor](../T/Tuor.md) và hướng dẫn ông ta đến [Gondolin](../G/Gondolin.md) để gửi tin nhắn tới [Turgon](../T/Turgon.md).
+    - Tại [Vinyamar](../V/Vinyamar.md), [Ulmo](../U/Ulmo.md) nói chuyện với [Tuor](../T/Tuor.md) và hướng dẫn ông ta đến [Gondolin](../G/Gondolin.md) để gửi tin nhắn cho [Turgon](../T/Turgon.md).
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - Với [Frodo](../F/Frodo_Baggins.md) bị thương nặng, [Strider](../A/Aragorn.md) và [bốn hobbit](../T/Travellers.md) di chuyển chậm rãi về phía [Rivendell](../R/Rivendell.md).
-    - [Glorfindel](../G/Glorfindel.md) xua đuổi ba [Kỵ sĩ](../N/Nazgûl.md) ra khỏi [Cây cầu cuối cùng](../L/Last_Bridge.md) của [Mitheithel](../M/Mitheithel.md) và truy đuổi họ về phía tây. Anh gặp hai người khác đang chạy trốn về phía nam. Ông ta để lại một viên beryl trên Cầu. Ông ta bắt đầu tìm kiếm những du khách.
-    - [Gandalf](../G/Gandalf.md) vội vã tiến về [Rivendell](../R/Rivendell.md) sau khi [Kỵ sĩ áo đen](../N/Nazgûl.md) tấn công ông ta trên [Weathertop](../W/Weathertop.md).
+    - Với [Frodo](../F/Frodo_Baggins.md) bị thương nặng, [Strider](../A/Aragorn.md) và [bốn hobbit](../T/Travellers.md) di chuyển chậm về phía [Rivendell](../R/Rivendell.md).
+    - [Glorfindel](../G/Glorfindel.md) xua đuổi ba [Kỵ sĩ](../N/Nazgûl.md) rời khỏi [Cây Cầu Cuối Cùng](../L/Last_Bridge.md) [Mitheithel](../M/Mitheithel.md) và truy đuổi họ về phía tây. Anh gặp hai người khác đang chạy trốn về phía nam. Ông ta để lại một viên beryl trên Cầu. Ông ta bắt đầu tìm kiếm những du khách.
+    - [Gandalf](../G/Gandalf.md) lao về phía [Rivendell](../R/Rivendell.md) sau khi [Kỵ sĩ Đen](../N/Nazgûl.md) tấn công ông ta vào [Weathertop](../W/Weathertop.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.
     - Trăng tròn<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 

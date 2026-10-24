@@ -40,7 +40,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Collectible card game</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Lord of the Rings Trading Card Game</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Designer</th><td class="tg-infobox-data"><a href="../M/Mike_Reynolds.md" title="Mike Reynolds">Mike Reynolds</a>, Chuck Kallenbach II, Tom Lischke, and Joe Alread</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../D/Decipher.md" title="Decipher">Decipher</a></td></tr><tr><th scope="row" class="tg-infobox-label">Release date</th><td class="tg-infobox-data"><a href="../_/2001.md" title="2001">2001</a></td></tr><tr><th scope="row" class="tg-infobox-label">Players</th><td class="tg-infobox-data">2 or more</td></tr></tbody></table>
 
-**Trò chơi thẻ bài trao đổi Chúa tể của những chiếc nhẫn** (còn được gọi là **LOTR TCG** hoặc đơn giản là **Decipher Cards**) là một trò chơi bài sưu tập được sản xuất bởi [Decipher](../D/Decipher.md). Được phát hành vào tháng 11 năm [2001](../_/2001.md), phim dựa trên cả [cuốn sách](The_Lord_of_the_Rings.md) và [phim](<The_Lord_of_the_Rings_(film_series).md>). Decipher cũng có quyền đối với *[The Hobbit](The_Hobbit.md)* nhưng chưa phát hành bất kỳ thẻ nào dựa trên nó. Ngoài những hình ảnh lấy từ phim, [2004](../_/2004.md) [Weta Workshop](../W/Weta_Workshop.md) còn sản xuất tác phẩm nghệ thuật mô tả các nhân vật và vật phẩm trong tiểu thuyết không có trong phim để sử dụng trên thẻ.
+**The Lord of the Rings Trò chơi bài giao dịch** (còn được gọi là **LOTR TCG** hoặc đơn giản là **Decipher Cards**) là một trò chơi bài sưu tầm được sản xuất bởi [Decipher](../D/Decipher.md). Được phát hành vào tháng 11 năm [2001](../_/2001.md), phim dựa trên cả [cuốn sách](The_Lord_of_the_Rings.md) và [phim](<The_Lord_of_the_Rings_(film_series).md>). Decipher cũng có quyền đối với *[The Hobbit](The_Hobbit.md)* nhưng chưa phát hành bất kỳ thẻ nào dựa trên nó. Ngoài những hình ảnh lấy từ phim, [2004](../_/2004.md) [Weta Workshop](../W/Weta_Workshop.md) còn sản xuất tác phẩm nghệ thuật mô tả các nhân vật và vật phẩm trong tiểu thuyết không có trong phim để sử dụng trên thẻ.
 
 Trò chơi cũng có phiên bản trực tuyến duy trì lối chơi cũng như nền kinh tế thị trường giống hệt nhau. Tuy nhiên, do quá trình in trò chơi kết thúc nên việc bán thẻ trực tuyến đã bị dừng và các máy chủ đóng cửa vào tháng 6 năm 2010.
 
@@ -48,17 +48,17 @@ Trong [2002](../_/2002.md), trò chơi đánh bài đã giành được Giải t
 
 ## Khái niệm trò chơi {#Game_concept}
 
-*Trò chơi trao đổi thẻ bài Chúa tể của những chiếc nhẫn* là trò chơi dành cho hai người chơi trở lên, mỗi người sử dụng bộ bài riêng của mình bao gồm số lượng thẻ *Free Peoples* và *Shadow* bằng nhau, mỗi thẻ tối thiểu 30 thẻ. Trong lượt của một người chơi, họ được coi là người chơi của Dân tự do và các thẻ [Học bổng](../F/Fellowship_of_the_Ring.md) và Dân tự do của họ cả trong Khu vực hỗ trợ và trên nhân vật của họ đều là *active*. Người chơi sử dụng các thẻ Nhân dân Tự do của mình để cố gắng đi qua đường dẫn địa điểm và phá hủy [Chiếc Nhẫn Chúa](The_One_Ring.md) bằng cách đến địa điểm thứ chín. Mỗi đối thủ của họ, Người chơi Bóng tối, sử dụng các lá bài Bóng tối của họ để ngăn chặn điều này bằng cách cố gắng giết hoặc làm hư hỏng người mang nhẫn hoặc bằng cách buộc Hiệp hội chạy chậm lại đủ lâu để Hiệp hội của họ chạy đua đến chiến thắng. Vào cuối mỗi lượt, vị trí của người chơi Free Peoples sẽ lần lượt chuyển sang người chơi tiếp theo. Trò chơi sẽ thuộc về người chơi Những người tự do đầu tiên sống sót đến địa điểm thứ chín và cuối cùng hoặc người chơi cuối cùng có Học bổng còn sống hoặc khi bạn làm hỏng người mang nhẫn của học bổng đối phương.
+*The Lord of the Rings Trò chơi trao đổi thẻ bài* là trò chơi dành cho hai người chơi trở lên, mỗi người sử dụng bộ bài riêng của mình bao gồm số lượng thẻ *Free Peoples* và *Shadow* bằng nhau, mỗi thẻ có tối thiểu 30 thẻ. Trong lượt của một người chơi, họ được coi là người chơi của Dân tự do và các thẻ [Học bổng](../F/Fellowship_of_the_Ring.md) và Dân tự do của họ cả trong Khu vực hỗ trợ và trên nhân vật của họ đều là *active*. Người chơi sử dụng các thẻ Nhân dân Tự do của mình để cố gắng đi qua đường dẫn địa điểm và phá hủy [Chiếc Nhẫn Chúa](The_One_Ring.md) bằng cách đến địa điểm thứ chín. Mỗi đối thủ của họ, Người chơi Bóng Tối, sử dụng các thẻ Bóng Tối của họ để ngăn chặn điều này bằng cách cố gắng giết hoặc làm hư hỏng người mang nhẫn hoặc bằng cách buộc Hiệp hội chạy chậm lại đủ lâu để Hiệp hội của họ chạy đua đến chiến thắng. Vào cuối mỗi lượt, vị trí của người chơi Free Peoples sẽ lần lượt chuyển sang người chơi tiếp theo. Trò chơi sẽ thuộc về người chơi Những người tự do đầu tiên sống sót đến địa điểm thứ chín và cuối cùng hoặc người chơi cuối cùng có Học bổng còn sống hoặc khi bạn làm hỏng người mang nhẫn của học bổng đối phương.
 
-Một cơ chế cải tiến có tên *twilight pool* được sử dụng làm cơ chế tính phí cho thẻ. Mỗi thẻ có một giá trị bằng số (có thể bằng 0). Khi người chơi Nhân dân Tự do chơi một lá bài, các mã thông báo sẽ được thêm vào nhóm chạng vạng bằng giá trị của lá bài đó. Tuy nhiên, những người chơi Shadow sẽ loại bỏ các mã thông báo chạng vạng bằng với giá chạng vạng trên các lá bài của họ để chơi bài của họ. Do đó, người chơi Fellowship the Free Peoples chơi càng nhiều quân bài mạnh thì mối đe dọa từ người chơi Shadow càng lớn.
+Một cơ chế cải tiến có tên *twilight pool* được sử dụng làm cơ chế tính phí cho thẻ. Mỗi thẻ có một giá trị bằng số (có thể bằng 0). Khi người chơi Nhân dân Tự do chơi một lá bài, các mã thông báo sẽ được thêm vào nhóm chạng vạng bằng giá trị của lá bài đó. Tuy nhiên, người chơi Bóng Tối sẽ loại bỏ các mã thông báo chạng vạng bằng với giá trị chạng vạng của lá bài của họ để chơi bài của họ. Do đó, người chơi Fellowship the Free Peoples chơi càng nhiều quân bài mạnh thì mối đe dọa từ những người chơi Bóng Tối càng lớn.
 
-Trong suốt trò chơi, người chơi sẽ đóng vai *companions* (hoặc các nhân vật Người Tự do) để giúp bảo vệ người mang nhẫn. Khi đến lượt ông ta chơi với tư cách là người chơi Bóng tối, ông ta có thể chơi *minions* (hoặc các nhân vật Bóng tối) để tấn công đồng đội của đối thủ. Người chơi của Nhân dân Tự do (người phòng thủ) có cơ hội lựa chọn đồng đội của mình sẽ chiến đấu trong các trận đấu tay đôi một chọi một, được gọi là *skirmishes*, với tay sai của đối thủ. Cái này được gọi là *assignment*. Vì người chơi Nhân dân Tự do muốn bảo vệ người mang nhẫn của mình, cách duy nhất mà người chơi Bóng tối có thể tấn công người chơi Nhân dân Tự do là chơi nhiều tay sai hơn số người chơi Nhân dân Tự do có bạn đồng hành, do đó cho phép người chơi Bóng tối chỉ định thêm tay sai cho bất kỳ người bạn đồng hành nào ông ta chọn, bao gồm cả người mang nhẫn hoặc bằng cách sử dụng tay sai có văn bản trò chơi cho phép người chơi Bóng tối gán chúng cho người mang nhẫn.
+Trong suốt trò chơi, người chơi sẽ đóng vai *companions* (hoặc các nhân vật Người Tự do) để giúp bảo vệ người mang nhẫn. Khi đến lượt chơi với tư cách là người chơi Bóng Tối, ông ta có thể chơi *minions* (hoặc Bóng Tối nhân vật) để tấn công đồng đội của đối thủ. Người chơi của Nhân dân Tự do (người phòng thủ) có cơ hội lựa chọn đồng đội của mình sẽ chiến đấu trong các trận đấu tay đôi một chọi một, được gọi là *skirmishes*, với tay sai của đối thủ. Cái này được gọi là *assignment*. Vì người chơi Nhân dân Tự do muốn bảo vệ người mang nhẫn của mình, cách duy nhất mà người chơi Bóng Tối có thể tấn công người chơi Nhân dân Tự do là chơi nhiều tay sai hơn số người chơi Người chơi Nhân dân Tự do có bạn đồng hành, do đó cho phép người chơi Bóng Tối chỉ định thêm tay sai cho bất kỳ người bạn đồng hành nào ông ta chọn, bao gồm cả người mang nhẫn hoặc bằng cách sử dụng tay sai có văn bản trò chơi cho phép người chơi Bóng Tối gán chúng cho người mang nhẫn.
 
-Tuy nhiên, Người Mang Nhẫn không chỉ phải đối mặt với tay sai trên hành trình tiêu diệt Chiếc Nhẫn. Người Mang Nhẫn phải chống lại sự cám dỗ của Chiếc Nhẫn. Trong trò chơi đánh bài, khi người mang nhẫn không chịu nổi sự cám dỗ của Chiếc nhẫn, *burdens* sẽ được thêm vào. Mỗi người bạn đồng hành có một chỉ số kháng cự nhất định và bất cứ khi nào một gánh nặng được thêm vào, sức đề kháng của mỗi người bạn đồng hành sẽ giảm đi một. Khi sức đề kháng của người mang nhẫn bằng 0, ông ta sẽ bị sức mạnh của chiếc nhẫn làm hỏng và người chơi bị loại khỏi trò chơi.
+Tuy nhiên, Người Mang Nhẫn không chỉ phải đối mặt với tay sai trên hành trình tiêu diệt Chiếc nhẫn. Người Mang Nhẫn phải chống lại sự cám dỗ của Chiếc Nhẫn. Trong trò chơi đánh bài, khi người mang nhẫn không chịu nổi sự cám dỗ của Chiếc nhẫn, *burdens* sẽ được thêm vào. Mỗi người bạn đồng hành có một chỉ số kháng cự nhất định và bất cứ khi nào một gánh nặng được thêm vào, sức đề kháng của mỗi người bạn đồng hành sẽ giảm đi một. Khi sức đề kháng của người mang nhẫn bằng 0, ông ta sẽ bị sức mạnh của chiếc nhẫn làm hỏng và người chơi bị loại khỏi trò chơi.
 
 ## Chiến lược bộ bài {#Deck_strategies}
 
-Khi trò chơi mở rộng, một số chiến lược bộ bài cơ bản đã được xác định và phát triển. Vì các bộ bài được chia thành hai phe Bóng tối và Người tự do, nên ở một mức độ nào đó, hai bên có thể hoán đổi cho nhau, nhưng những bộ bài tốt nhất thường chứa một số sức mạnh tổng hợp giữa cả hai loại thẻ.
+Khi trò chơi mở rộng, một số chiến lược bộ bài cơ bản đã được xác định và phát triển. Vì các bộ bài được chia thành hai phe Bóng Tối và Người Tự do nên hai bên có thể hoán đổi cho nhau ở một mức độ nào đó, nhưng những bộ bài tốt nhất thường chứa một số sức mạnh tổng hợp giữa cả hai loại thẻ.
 
 Đối với phe Dân tộc Tự do, các chiến lược phổ biến nhất là *troll*, *tank*, *choke*, *minion wounding* và *mass healing*.
 
@@ -73,7 +73,7 @@ Khi trò chơi mở rộng, một số chiến lược bộ bài cơ bản đã 
 <dt>Mass Healing</dt>
 <dd>Mass healing decks rely on cards that heal companions, under the theory that if the Free People&#39;s removal of wounds can out-pace the Shadow player&#39;s placement of wounds, the Fellowship will be unkillable. &#39;Refuge&#39;, a card from the set <i>Black Rider</i> is critical to most of these decktypes, as it allows the player to cycle his Free Peoples side while healing his or her companions in order to set up the Shadow side.</dd></dl>
 
-Đối với phe Bóng tối, các chiến lược phổ biến nhất là *cringe*, *beat-down*, *swarm*, *bomb*, *archery/wounding* và *corruption*.
+Về phía Bóng Tối, các chiến lược phổ biến nhất là *cringe*, *beat-down*, *swarm*, *bomb*, *archery/wounding* và *corruption*.
 
 <dl><dt>Cringe</dt>
 <dd>This deck is a combination of the <i>beat-down</i> deck, <i>swarm</i> deck, <i>bomb</i> deck, <i>corruption</i> and <i>archery/wounding</i> deck.</dd>
@@ -98,7 +98,7 @@ Trong ba năm đầu tiên, trò chơi được phát hành theo sau các bộ p
 
 Các thẻ được bán trong 11 gói tăng cường thẻ bao gồm một thẻ hiếm, ba thẻ thông thường và bảy thẻ thông thường. Khoảng một trong sáu gói, một thẻ thông thường được thay thế bằng một phiên bản lá bài ngẫu nhiên từ bộ đó. Mỗi bộ cũng có hai bộ bài khởi đầu gồm sáu mươi ba lá bài chứa hai bản sao của một lá bài có mặt quảng cáo, ba lá bài hiếm ngẫu nhiên và sáu mươi lá bài chung/không phổ biến cố định (bộ 5 và 6 có sáu mươi lá bài bắt đầu với ba hình ảnh hiếm thay thế thay cho các lá hiếm ngẫu nhiên).
 
-Giữa hai phần mở rộng của phần [The Return of the King](The_Return_of_the_King.md), một bộ bổ sung, Reflections, đã được phát hành. Điều này bao gồm 52 thẻ mới, tất cả đều được làm giấy bạc, một nửa trong số đó được coi là hiếm cộng và một nửa hiếm. Các thẻ mới lấy tư liệu từ cả ba bộ phim và tài liệu do Weta sản xuất riêng cho trò chơi và không thuộc bất kỳ khối nào. Bộ tăng cường phản xạ bao gồm hai trong số các thẻ mới (với một R+ cứ sau 2,4 gói) và mười sáu thẻ ngẫu nhiên được đóng gói lại từ sáu bộ đầu tiên. Một trong những tấm thiệp cũ này luôn không phải tiếng Anh.
+Giữa hai bản mở rộng của khối [The Return of the King](The_Return_of_the_King.md), một bộ bổ sung, Reflections, đã được phát hành. Điều này bao gồm 52 thẻ mới, tất cả đều được làm giấy bạc, một nửa trong số đó được coi là hiếm cộng và một nửa hiếm. Các thẻ mới lấy tư liệu từ cả ba bộ phim và tài liệu do Weta sản xuất riêng cho trò chơi và không thuộc bất kỳ khối nào. Bộ tăng cường phản xạ bao gồm hai trong số các thẻ mới (với một R+ cứ sau 2,4 gói) và mười sáu thẻ ngẫu nhiên được đóng gói lại từ sáu bộ đầu tiên. Một trong những tấm thiệp cũ này luôn không phải tiếng Anh.
 
 ### Bóng tối và hơn thế nữa {#Shadows_and_beyond}
 
@@ -112,19 +112,19 @@ Việc phát hành bản mở rộng *The Hunters* bị trì hoãn bảy tháng 
 
 Cho đến nay, mười chín bộ đã được phát hành (hai ngày được liệt kê, ngày đầu tiên đề cập đến bộ bài khởi đầu và ngày thứ hai đề cập đến gói tăng cường):
 
-1. "[Hiệp hội của chiếc nhẫn"](<The_Fellowship_of_the_Ring_(Decipher).md>) ([Ngày 6 tháng 11](../_/6_November.md), [2001](../_/2001.md))
+1. "[The Fellowship of the Ring"](<The_Fellowship_of_the_Ring_(Decipher).md>) ([Ngày 6 tháng 11](../_/6_November.md), [2001](../_/2001.md))
 2. "Mỏ Moria" ([Ngày 6 tháng 3](../_/6_March.md), [2002](../_/2002.md))
-3. "Vương quốc của các chúa tể yêu tinh" ([19 tháng 6](../_/19_June.md) & [3 tháng 7](../_/3_July.md), [2002](../_/2002.md))
-4. "Hai tòa tháp" ([Ngày 6 tháng 11](../_/6_November.md), [2002](../_/2002.md))
-5. "Trận chiến Helm's Deep" ([12 tháng 3](../_/12_March.md), [2003](../_/2003.md))
-6. "Ents of Fangorn" ([Ngày 2 tháng 7](../_/2_July.md), [2003](../_/2003.md))
-7. "Sự trở lại của nhà vua" ([Ngày 5 tháng 11](../_/5_November.md), [2003](../_/2003.md))
-8. "Cuộc vây hãm Gondor" ([10 tháng 3](../_/10_March.md), [2004](../_/2004.md))
+3. "Vương quốc của Tiên-lãnh chúa" ([19 tháng 6](../_/19_June.md) & [3 tháng 7](../_/3_July.md), [2002](../_/2002.md))
+4. "The Two Towers" ([Ngày 6 tháng 11](../_/6_November.md), [2002](../_/2002.md))
+5. "Trận Helm's Deep" ([12 tháng 3](../_/12_March.md), [2003](../_/2003.md))
+6. "Ent của Fangorn" ([Ngày 2 tháng 7](../_/2_July.md), [2003](../_/2003.md))
+7. "The Return of the King" ([Ngày 5 tháng 11](../_/5_November.md), [2003](../_/2003.md))
+8. "Cuộc vây hãm Gondor" ([Ngày 10 tháng 3](../_/10_March.md), [2004](../_/2004.md))
 9. "Suy ngẫm" ([Ngày 12 tháng 5](../_/12_May.md), [2004](../_/2004.md))
-10. "Núi Doom" ([14 tháng 7](../_/14_July.md), [2004](../_/2004.md))
+10. "Núi Diệt Vong" ([14 tháng 7](../_/14_July.md), [2004](../_/2004.md))
 11. "Bóng tối" ([Ngày 3 tháng 11](../_/3_November.md), [2004](../_/2004.md))
-12. "Black Rider" ([18 tháng 3](../_/18_March.md), [2005](../_/2005.md))
-13. "Dòng máu" (Tháng 9 [2005](../_/2005.md))
+12. "Kỵ Sĩ Đen" ([18 tháng 3](../_/18_March.md), [2005](../_/2005.md))
+13. "Dòng máu" (tháng Chín [2005](../_/2005.md))
 14. "Những người thợ săn" (Tháng 11 [2005](../_/2005.md))
 15. "Sự trỗi dậy của Saruman" (Tháng 3 [2006](../_/2006.md))
 16. "Phản bội và lừa dối" (15 tháng 6 [2007](../_/2007.md))
@@ -137,15 +137,15 @@ Decipher Inc., đã loại bỏ hai bản mở rộng sau khỏi lịch phát h�
 
 Ngoài ra một số sản phẩm thời trang đã được ra mắt:
 
-- "Tuyển tập The Fellowship of the Ring" ([23 tháng 7](../_/23_July.md), [2003](../_/2003.md))
+- "The Fellowship of the Ring Tuyển tập" ([23 tháng 7](../_/23_July.md), [2003](../_/2003.md))
 - "Bộ sưu tập đếm ngược" ([25 tháng 8](../_/25_August.md) - [22 tháng 12](../_/22_December.md), [2003](../_/2003.md))
-- "Tuyển tập Hai tòa tháp" ([25 tháng 2](../_/25_February.md), [2004](../_/2004.md))
+- "The Two Towers Tuyển tập" ([25 tháng 2](../_/25_February.md), [2004](../_/2004.md))
 - "Bộ sưu tập Weta" ([23 tháng 7](../_/23_July.md) - [20 tháng 8](../_/20_August.md), [2004](../_/2004.md))
-- "Tuyển tập Sự trở lại của nhà vua" (Tháng 9 [2004](../_/2004.md))
+- "The Return of the King Tuyển tập" (tháng Chín [2004](../_/2004.md))
 
 ## Chúa tể những chiếc nhẫn trực tuyến TCG {#Lord_of_the_Rings_Online_TCG}
 
-Năm 2003, Worlds Apart hợp tác với Decipher để sản xuất phiên bản trực tuyến của Chúa tể những chiếc nhẫn TCG. Các quy tắc của trò chơi trực tuyến phù hợp với các quy tắc của trò chơi vật lý, nhưng sử dụng các thẻ ảo có thể giao dịch có thể được mua thông qua hệ thống thông qua bộ bài khởi đầu, gói tăng cường hoặc bản nháp. Ngoài lối chơi thông thường, hệ thống LOTR TCG trực tuyến còn hỗ trợ chơi theo giải đấu, chơi theo giải đấu và chơi kín bao gồm cả trò chơi nháp. Hệ thống trực tuyến đã giới thiệu một số thẻ và định dạng chỉ dành cho trực tuyến (ví dụ: gói nháp King-block) đồng thời cung cấp cho người chơi thẻ khuyến mại vật lý độc quyền cũng như hình đại diện trực tuyến và mã thông báo chuyển động để tham gia các sự kiện trực tuyến.
+Năm 2003, Worlds Apart hợp tác với Decipher để sản xuất phiên bản trực tuyến của Chúa tể những chiếc nhẫn TCG. Các quy tắc của trò chơi trực tuyến phù hợp với các quy tắc của trò chơi vật lý, nhưng sử dụng các thẻ ảo có thể giao dịch có thể được mua thông qua hệ thống thông qua bộ bài khởi đầu, gói tăng cường hoặc bản nháp. Ngoài lối chơi thông thường, hệ thống LOTR TCG trực tuyến còn hỗ trợ chơi theo giải đấu, chơi theo giải đấu và chơi kín bao gồm cả trò chơi nháp. Hệ thống trực tuyến đã giới thiệu một số thẻ và định dạng chỉ dành cho trực tuyến (ví dụ: gói nháp Vua-block) đồng thời cung cấp cho người chơi thẻ khuyến mại vật lý độc quyền cũng như hình đại diện trực tuyến và mã thông báo chuyển động để tham gia các sự kiện trực tuyến.
 
 Phần mềm bao gồm quản lý bộ sưu tập và các tính năng đóng boong mạnh mẽ. Chỉ vì lý do này mà nhiều người chơi đã sử dụng phần mềm này để xây dựng bộ bài và in danh sách bộ bài.
 

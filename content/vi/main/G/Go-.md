@@ -14,7 +14,7 @@ categories:
   - "Sindarin prefixes"
 ---
 
-## Tiếng Sindarin {#Sindarin}
+## Sindarin {#Sindarin}
 
 <i><b>go-</b></i> (hoặc <i><b>gwa-</b></i>) là tiền tố [Sindarin](../S/Sindarin.md) có nghĩa là "cùng nhau, co-, com-".<sup id="cite_ref-WJ_1-0" class="reference"><a href="#cite_note-WJ-1">[1]</a></sup>
 

@@ -20,9 +20,9 @@ sort_keys:
   "People by name": "Broadway, Cliff"
 ---
 
-**Clifford Broadway** ([27 tháng 1](../_/27_January.md), [1969](../_/1969.md)), cũng có tên trên internet là **"Quickbeam"**, là một nhà văn, diễn viên, [người hâm mộ Tolkien](../T/Tolkien_fandom.md) và là nhân viên của [TheOneRing.net](../T/TheOneRing.net.md) kể từ [1999](../_/1999.md).
+**Clifford Broadway** ([27 tháng 1](../_/27_January.md), [1969](../_/1969.md)), cũng có tên trên internet là **"Quickbeam"**, là một nhà văn, diễn viên, [Tolkien người hâm mộ](../T/Tolkien_fandom.md) và là nhân viên của [TheOneRing.net](../T/TheOneRing.net.md) kể từ [1999](../_/1999.md).
 
-Hoạt động với tư cách là một diễn viên trong phần lớn cuộc đời mình, Broadway đã đóng vai [Samwise Gamgee](../S/Samwise_Gamgee.md) trong phiên bản Xbox của [*The Lord of the Rings: The Fellowship of the Ring* (video game)](<../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md>), tổ chức các bữa tiệc Oscar của TORn cho [*The Lord of the Rings* (loạt phim)](<../T/The_Lord_of_the_Rings_(film_series).md>), [The One Ring Celebrations](../T/The_One_Ring_Celebration.md) và nhiều DragonCons khác nhau. Ông cũng đóng một vai nhỏ là một người lính của Gondor trong *[The Lord of the Rings: The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*.
+Hoạt động với tư cách là một diễn viên trong phần lớn cuộc đời của mình, Broadway đã đóng [Samwise Gamgee](../S/Samwise_Gamgee.md) trong phiên bản Xbox của [*The Lord of the Rings: The Fellowship of the Ring* (video game)](<../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md>), tổ chức các bữa tiệc Oscar của TORn cho [*The Lord of the Rings* (loạt phim)](<../T/The_Lord_of_the_Rings_(film_series).md>), [The One Ring Celebrations](../T/The_One_Ring_Celebration.md) và nhiều DragonCons khác nhau. Ông cũng đóng một vai nhỏ là người lính của Gondor trong *[The Lord of the Rings: The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*.
 
 ## Thư mục {#Bibliography}
 
@@ -34,8 +34,8 @@ Hoạt động với tư cách là một diễn viên trong phần lớn cuộc 
 - [2005](../_/2005.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Rock_and_Ringers&amp;action=edit&amp;redlink=1" title="Rock and Ringers (page does not exist)">Rock and Ringers</a></i> - biên kịch, nhà sản xuất
 - [2005](../_/2005.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Ring_Comes_Full_Circle&amp;action=edit&amp;redlink=1" title="The Ring Comes Full Circle (page does not exist)">The Ring Comes Full Circle</a></i> - nhà văn, nhà sản xuất, người dẫn chương trình
 - [2005](../_/2005.md): *[Ringers: Lord of the Fans](../R/Ringers%253A_Lord_of_the_Fans.md)* - nhà văn, người phỏng vấn, nhà sản xuất
-- [2003](../_/2003.md): *[The Lord of the Rings: The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)* - Người lính Gondoria
-- [2002](../_/2002.md): [*The Lord of the Rings: The Fellowship of the Ring* (video game)](<../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md>) - [Samwise Gamgee](../S/Samwise_Gamgee.md) (phiên bản Xbox)
+- [2003](../_/2003.md): *[The Lord of the Rings: The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)* - Gondor lính
+- [2002](../_/2002.md): [*The Lord of the Rings: The Fellowship of the Ring* (video game)](<../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md>) - [Samwise Gamgee](../S/Samwise_Gamgee.md) (Phiên bản Xbox)
 
 ## Liên kết ngoài {#External_links}
 

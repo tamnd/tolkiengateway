@@ -32,4 +32,4 @@ Bức tranh sau đó đã được bán tại Sotheby's lô 423 vào ngày 12 th
 
 ## Tài liệu tham khảo {#References}
 
-- [Thần thoại](../M/Mythlore.md) 34, "Nguồn gốc của Gandalf và Josef Madlener"
+- [Mythlore](../M/Mythlore.md) 34, "Nguồn gốc của Gandalf và Josef Madlener"

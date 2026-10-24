@@ -22,13 +22,13 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Town</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Delving</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>General Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../W/Westfarthing.md" title="Westfarthing">Westfarthing</a>, <a href="../T/The_Shire.md" title="The Shire">the Shire</a></td></tr><tr><th scope="row" class="tg-infobox-label">Type</th><td class="tg-infobox-data">Town</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>People and History</span></th></tr><tr><th scope="row" class="tg-infobox-label">Inhabitants</th><td class="tg-infobox-data"><a href="../H/Hobbits.md" title="Hobbits">Hobbits</a></td></tr></tbody></table>
 
-**Delving** là một thị trấn ở [Shire](../T/The_Shire.md) xuất hiện trong *[Perry-the-Winkle](../P/Perry-the-Winkle.md)*, một bài đồng dao<sup id="cite_ref-collectedpoems_1-0" class="reference"><a href="#cite_note-collectedpoems-1">[1]</a></sup> của [Samwise Gamgee](../S/Samwise_Gamgee.md)<sup id="cite_ref-preface_2-0" class="reference"><a href="#cite_note-preface-2">[2]</a></sup>.<sup id="cite_ref-Perry_3-0" class="reference"><a href="#cite_note-Perry-3">[3]</a></sup>
+**Delving** là một thị trấn ở [ Shire](../T/The_Shire.md) xuất hiện trong *[Perry-the-Winkle](../P/Perry-the-Winkle.md)*, một bài đồng dao<sup id="cite_ref-collectedpoems_1-0" class="reference"><a href="#cite_note-collectedpoems-1">[1]</a></sup> của [Samwise Gamgee](../S/Samwise_Gamgee.md)<sup id="cite_ref-preface_2-0" class="reference"><a href="#cite_note-preface-2">[2]</a></sup>.<sup id="cite_ref-Perry_3-0" class="reference"><a href="#cite_note-Perry-3">[3]</a></sup>
 
 Có lẽ đó là sự hư cấu của [Michel Delving](../M/Michel_Delving.md).<sup id="cite_ref-commentary_4-0" class="reference"><a href="#cite_note-commentary-4">[4]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Tên có thể đại diện cho một dạng [Hobbit cổ điển](../O/Old_English.md) *Delfing*. Nó có nghĩa là "đào".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Tên có thể đại diện cho một dạng [Cũ Hobbitish](../O/Old_English.md) *Delfing*. Nó có nghĩa là "đào".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 <span></span>
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Host of the West (disambiguation)"
 ---
 
-Chuyển hướng đến [Chủ nhà phương Tây (định hướng)](<Host_of_the_West_(disambiguation).md>).
+Chuyển hướng đến [Đạo quân Phương Tây (định hướng)](<Host_of_the_West_(disambiguation).md>).

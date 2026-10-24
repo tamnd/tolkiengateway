@@ -17,15 +17,15 @@ langlinks:
     url: "https://kontu.wiki/Ilbereth"
 ---
 
-**Ilbereth** là thư ký Elven của [Father Christmas](../F/Father_Christmas.md).<sup id="cite_ref-LFC|1936_1-0" class="reference"><a href="#cite_note-LFC|1936-1">[1]</a></sup>
+**Ilbereth** là Tiên thư ký của [Ông già Noel](../F/Father_Christmas.md).<sup id="cite_ref-LFC|1936_1-0" class="reference"><a href="#cite_note-LFC|1936-1">[1]</a></sup>
 
 ## Đặc điểm {#Characteristics}
 
-Ông già Noel mô tả Ilbereth là "một trong những yêu tinh thông minh nhất". Chữ viết của ông được mô tả là mỏng và nghiêng và nét vẽ của ông bị trầy xước. Ông chỉ viết bằng bút mực và từ chối sử dụng sơn.<sup id="cite_ref-l37_2-0" class="reference"><a href="#cite_note-l37-2">[2]</a></sup>
+Ông già Noel mô tả Ilbereth là "một trong những Tiên tộc thông minh nhất". Chữ viết của ông được mô tả là mỏng và nghiêng và nét vẽ của ông bị trầy xước. Ông chỉ viết bằng bút mực và từ chối sử dụng sơn.<sup id="cite_ref-l37_2-0" class="reference"><a href="#cite_note-l37-2">[2]</a></sup>
 
 ## Lịch sử {#History}
 
-Trong [1936](../_/1936.md), Ilbereth đã viết phần lớn bức thư kể từ khi Ông già Noel buồn bã và run rẩy vì [Gấu Bắc Cực](../N/North_Polar_Bear.md) ngủ quên trong bồn tắm với vòi vẫn mở và nước tràn vào nhà, làm ngập nhà. Ông cũng vẽ hai bức vẽ được gửi cùng với bức thư<sup id="cite_ref-LFC|1936_1-1" class="reference"><a href="#cite_note-LFC|1936-1">[1]</a></sup> Ông đã học viết nhiều bảng chữ cái, đó là [Arktik](../A/Arktik.md), [Latin](../L/Latin.md), tiếng Hy Lạp, tiếng Nga, [Chữ Runes](../R/Runes.md) và Elvish.<sup id="cite_ref-l37_2-1" class="reference"><a href="#cite_note-l37-2">[2]</a></sup> Ông cũng viết một phần của bức thư [1937](../_/1937.md) vì Ông già Noel đã mỏi tay khi di chuyển những chiếc hộp vào tháng 11.<sup id="cite_ref-l37_2-2" class="reference"><a href="#cite_note-l37-2">[2]</a></sup> Năm 1938, Ilbereth báo cáo về lượng thức ăn dồi dào mà Gấu Bắc Cực đã ăn.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> <span></span>
+Trong [1936](../_/1936.md), Ilbereth đã viết phần lớn bức thư kể từ khi Ông già Noel buồn bã và run rẩy vì [North Polar Bear](../N/North_Polar_Bear.md) ngủ quên trong bồn tắm với vòi vẫn mở và nó tràn nước tràn vào nhà. Ông cũng vẽ hai bức vẽ được gửi cùng với bức thư<sup id="cite_ref-LFC|1936_1-1" class="reference"><a href="#cite_note-LFC|1936-1">[1]</a></sup> Ông đã học viết nhiều bảng chữ cái, đó là [Arktik](../A/Arktik.md), [Latin](../L/Latin.md), tiếng Hy Lạp, tiếng Nga, [Chữ Runes](../R/Runes.md) và Elvish.<sup id="cite_ref-l37_2-1" class="reference"><a href="#cite_note-l37-2">[2]</a></sup> Ông cũng viết một phần của bức thư [1937](../_/1937.md) vì Ông già Noel đã mỏi tay khi di chuyển những chiếc hộp vào tháng 11.<sup id="cite_ref-l37_2-2" class="reference"><a href="#cite_note-l37-2">[2]</a></sup> Năm 1938 Ilbereth báo cáo về lượng thức ăn dồi dào mà North Polar Bear đã ăn.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

@@ -20,12 +20,12 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Ted_Nasmith_-_Tuor_and_Voronwë_See_Túrin_at_the_Pool_of_Ivrin.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/f9/Ted_Nasmith_-_Tuor_and_Voronw%C3%AB_See_T%C3%BArin_at_the_Pool_of_Ivrin.jpg/250px-Ted_Nasmith_-_Tuor_and_Voronw%C3%AB_See_T%C3%BArin_at_the_Pool_of_Ivrin.jpg" decoding="async" loading="lazy" width="250" height="168" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f9/Ted_Nasmith_-_Tuor_and_Voronw%C3%AB_See_T%C3%BArin_at_the_Pool_of_Ivrin.jpg/375px-Ted_Nasmith_-_Tuor_and_Voronw%C3%AB_See_T%C3%BArin_at_the_Pool_of_Ivrin.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/f/f9/Ted_Nasmith_-_Tuor_and_Voronw%C3%AB_See_T%C3%BArin_at_the_Pool_of_Ivrin.jpg/500px-Ted_Nasmith_-_Tuor_and_Voronw%C3%AB_See_T%C3%BArin_at_the_Pool_of_Ivrin.jpg 2x" data-file-width="1200" data-file-height="804"/></a><figcaption><i>Tuor and Voronwë see Túrin at the Pool of Ivrin</i> by <a href="../T/Ted_Nasmith.md" title="Ted Nasmith">Ted Nasmith</a></figcaption></figure>
 
-**Mùa đông** của [F.A.](First_Age.md) [495](First_Age_495.md)/[496](First_Age_496.md) đặc biệt kéo dài và khắc nghiệt, có băng và tuyết từ tháng 11 đến tháng 3.<sup id="cite_ref-WJ-WH_1-0" class="reference"><a href="#cite_note-WJ-WH-1">[1]</a></sup> Nó đến ngay sau [Sự sụp đổ của Nargothrond](Fall_of_Nargothrond.md), cản trở hành trình của cả [Túrin](../T/Túrin.md) đến [Dor-lómin](../D/Dor-lómin.md) và [Tuor](../T/Tuor.md) và [Voronwë's](../V/Voronwë.md) tới [Gondolin](../G/Gondolin.md).<sup id="cite_ref-CH-RD_2-0" class="reference"><a href="#cite_note-CH-RD-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-UT-TG_4-0" class="reference"><a href="#cite_note-UT-TG-4">[4]</a></sup>
+**Mùa Đông Khắc Nghiệt** của [F.A.](First_Age.md) [495](First_Age_495.md)/[496](First_Age_496.md) đặc biệt kéo dài và cay đắng, có băng và tuyết từ tháng 11 đến tháng 3.<sup id="cite_ref-WJ-WH_1-0" class="reference"><a href="#cite_note-WJ-WH-1">[1]</a></sup> Nó xảy ra ngay sau [Sự sụp đổ của Nargothrond](Fall_of_Nargothrond.md), cản trở hành trình của cả [Túrin](../T/Túrin.md) đến [Dor-lómin](../D/Dor-lómin.md) và [Tuor](../T/Tuor.md) và [Voronwë](../V/Voronwë.md) tới [Gondolin](../G/Gondolin.md).<sup id="cite_ref-CH-RD_2-0" class="reference"><a href="#cite_note-CH-RD-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-UT-TG_4-0" class="reference"><a href="#cite_note-UT-TG-4">[4]</a></sup>
 
 ## Xem thêm {#See_also}
 
-- [Mùa Đông (Tuổi thứ ba)](<Fell_Winter_(Third_Age).md>)
-- [Mùa đông dài](../L/Long_Winter.md)
+- [Mùa Đông Khắc Nghiệt (Kỷ Đệ Tam)](<Fell_Winter_(Third_Age).md>)
+- [Mùa Đông Dài](../L/Long_Winter.md)
 
 <span></span>
 

@@ -39,7 +39,7 @@ infobox:
   <tr><th scope="row" class="tg-infobox-label">Subject(s)</th><td class="tg-infobox-data"><a href="../S/Saint_Brendan.md" title="Saint Brendan">Saint Brendan</a>, <i><a href="../T/The_Notion_Club_Papers.md" title="The Notion Club Papers">The Notion Club Papers</a></i>, <a href="../N/Notion_Club.md" title="Notion Club">Notion Club</a></td></tr>
 </tbody></table>
 
-<i><b>Imram</b></i> (Cái chết của Thánh Brendan) là một bài thơ được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và xuất bản trên *[Time and Tide](<../T/Time_and_Tide_(3_December_1955).md>)* vào [3 tháng 12](../_/3_December.md) [1955](../_/1955.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Tựa đề trong tiếng Ireland có nghĩa là "chuyến đi"; <i><a class="extiw" href="http://en.wikipedia.org/wiki/Immram" title="wikipedia:Immram">Immrama</a></i> là những câu chuyện [Celtic](../C/Celtic.md) về những nhà thám hiểm người Ireland đã tìm kiếm Miền đất hứa ở Đại Tây Dương.
+<i><b>Imram</b></i> (Cái chết của Thánh Brendan) là một bài thơ được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và xuất bản trên *[Time and Tide](<../T/Time_and_Tide_(3_December_1955).md>)* vào ngày [3 tháng 12](../_/3_December.md) [1955](../_/1955.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Tựa đề tiếng Ireland có nghĩa là "chuyến đi"; <i><a class="extiw" href="http://en.wikipedia.org/wiki/Immram" title="wikipedia:Immram">Immrama</a></i> là [Celtic](../C/Celtic.md) câu chuyện về những nhà thám hiểm người Ireland tìm kiếm Miền đất hứa ở Đại Tây Dương.
 
 ## Tóm tắt {#Synopsis}
 
@@ -47,7 +47,7 @@ Trên giường bệnh, [Thánh Brendan](../S/Saint_Brendan.md) được một �
 
 ## Lịch sử sáng tác {#History_of_composition}
 
-Tolkien lần đầu tiên sáng tác bài thơ để đưa vào *[The Notion Club Papers](../T/The_Notion_Club_Papers.md)* ([1945](../_/1945.md)), trong đó [Philip Frankley](../P/Philip_Frankley.md) là tác giả và đọc cho [Câu lạc bộ](../N/Notion_Club.md). Điều này gây ngạc nhiên cho [Lowdham](../L/Lowdham.md), người nhận xét mối tương quan của bài thơ với việc khám phá tâm trí của ông về thần thoại [Atlantis](../A/Atlantis-haunting.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Như [Christopher Tolkien](../C/Christopher_Tolkien.md) nhận xét, cha ông đã nỗ lực rất nhiều trong việc sáng tác bài thơ trước và sau, vì nó được phản ánh trong một số phiên bản của bài thơ. Văn bản đầu tiên có tiêu đề *The Ballad of St. Brendan's Death*, trong khi các phiên bản sau có tiêu đề *The Death of Saint Brendan*. Một số phiên bản này đã được đưa vào phần tường thuật của các bản thảo khác nhau của *The Notion Club Papers*. Tolkien tiếp tục làm lại bài thơ với tựa đề *Imram* cho đến khi nó được xuất bản trên tạp chí *Time and Tide* vào năm 1955. Christopher đã đưa toàn bộ bài thơ vào *[Sauron Defeated](../S/Sauron_Defeated.md)*, vì rất khó tìm thấy.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Tolkien lần đầu tiên sáng tác bài thơ để đưa vào *[The Notion Club Papers](../T/The_Notion_Club_Papers.md)* ([1945](../_/1945.md)), trong đó [Philip Frankley](../P/Philip_Frankley.md) là tác giả và đọc cho [Câu lạc bộ](../N/Notion_Club.md). Điều này gây ra sự ngạc nhiên cho [Lowdham](../L/Lowdham.md), người nhận xét mối tương quan của bài thơ với việc khám phá tâm trí của ông về thần thoại [Atlantis](../A/Atlantis-haunting.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Như [Christopher Tolkien](../C/Christopher_Tolkien.md) nhận xét, cha ông đã nỗ lực rất nhiều trong việc sáng tác bài thơ trước và sau, vì nó được phản ánh trong một số phiên bản của bài thơ. Văn bản đầu tiên có tiêu đề *The Ballad of St. Brendan's Death*, trong khi các phiên bản sau có tiêu đề *The Death of Saint Brendan*. Một số phiên bản này đã được đưa vào phần tường thuật của các bản thảo khác nhau của *The Notion Club Papers*. Tolkien tiếp tục làm lại bài thơ với tựa đề *Imram* cho đến khi nó được xuất bản trên tạp chí *Time and Tide* năm 1955. Christopher đã đưa toàn bộ bài thơ vào *[Sauron Defeated](../S/Sauron_Defeated.md)*, vì rất khó tìm.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Khổ đầu tiên {#First_stanza}
 
@@ -73,7 +73,7 @@ to await his hour to die.
 
 ## Liên kết ngoài {#External_links}
 
-- "<a class="external text" href="http://dc.swosu.edu/mythlore/vol17/iss4/3/" rel="noreferrer noopener" target="_blank">Đi về hướng Tây: Tolkien, Câu chuyện về Thánh Brendan và Ý tưởng về Thiên đường ở Phương Tây</a>" của Norma Roche
+- "<a class="external text" href="http://dc.swosu.edu/mythlore/vol17/iss4/3/" rel="noreferrer noopener" target="_blank">Chèo thuyền Phương Tây: Tolkien, Câu chuyện về Thánh Brendan và Ý tưởng về Thiên đường trong Phương Tây</a>" của Norma Roche
 - <a class="external text" href="https://englewoodreview.org/poem-the-death-of-st-brendan-j-r-r-tolkien/" rel="noreferrer noopener" target="_blank">Bài thơ: "Cái chết của Thánh Brendan" - J.R.R. Tolkien</a>
 
 <span></span>

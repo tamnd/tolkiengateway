@@ -36,4 +36,4 @@ infobox:
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
-**Hành trình đến những ngã tư** là bài hát thứ hai trong đĩa một trong *[The Lord of the Rings: The Return of the King - The Complete Recordings](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_-_The_Complete_Recordings.md)* của [Howard Shore](../H/Howard_Shore.md).
+**Hành trình đến Ngã Tư** là ca khúc thứ hai trong đĩa một trong *[The Lord of the Rings: The Return of the King - The Complete Recordings](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_-_The_Complete_Recordings.md)* của [Howard Shore](../H/Howard_Shore.md).

@@ -47,28 +47,28 @@ infobox:
 - Giới thiệu: Tolkien và Shakespeare: Ảnh hưởng, Tiếng vọng, Sửa đổi (tr. 1)
 
 - FAËRIE
-    - "Thần thoại xung đột: Yêu tinh của Shakespeare và Tolkien" (tr. 9)
+    - "Thần thoại xung đột: Tiên tộc của Shakespeare và Tolkien" (tr. 9)
     - "'Bây giờ thế nào, Tinh Linh! Bạn lang thang ở đâu?' Suy giảm: Quan niệm sai lầm của Shakespeare và Lý tưởng về thần tiên của Tolkien" (tr. 25)
     - "Chỉ một chút thôi: Điều gì ở dưới cùng của *The Lord of the Rings* và *A Midsummer Night's Dream*?" (trang 42)
-    - "'Công bằng nguy hiểm': Titania, Galadriel và Nữ hoàng thần tiên của sự lãng mạn thời trung cổ " (tr. 60)
+    - "'Công bằng nguy hiểm': Titania, Galadriel, và Nữ hoàng thần tiên của sự lãng mạn thời trung cổ " (tr. 60)
 
 - SỨC MẠNH
     - "'Chúng ta ít, chúng ta hạnh phúc ít': Chiến tranh và vinh quang trong *Henry V* và *The Lord of the Rings*" (tr. 81)
-    - "Con người của một hoàng tử: Tiếng vang của *Hamlet* trong *The Lord of the Rings* của J.R.R. Tolkien" (tr. 91)
+    - "Con người của một Thân vương: Tiếng vang của *Hamlet* trong *The Lord of the Rings* của J.R.R. Tolkien" (tr. 91)
     - "Làm thế nào 'Tất cả những gì lấp lánh không phải là vàng' lại trở thành 'Tất cả những gì là vàng không lấp lánh': Món nợ của Aragorn đối với Shakespeare" (tr. 110)
-    - "'Cái bóng của sự kế vị': Shakespeare, Tolkien và quan niệm về lịch sử" (tr. 128)
+    - "' Bóng Tối của sự kế vị': Shakespeare, Tolkien, và quan niệm về lịch sử" (tr. 128)
     - "'The Rack of This Tough World': Ảnh hưởng của *King Lear* đối với *Lord of the Rings*" (tr. 137)
     - "Sự phấn khích của Shakespeare trong tiểu thuyết J.R.R. Tolkien" (tr. 158; của [Anne C. Petty](../A/Anne_C._Petty.md))
 
 - PHÉP THUẬT
-    - "Sách của Prospero, Nhân viên của Gandalf: Đạo đức phép thuật ở Shakespeare và Tolkien" (tr. 177)
-    - "Merlin, Prospero, Saruman và Gandalf: Cách sử dụng quyền lực mang tính ăn mòn ở Shakespeare và Tolkien" (tr. 196)
+    - "Sách của Prospero, Nhân viên của Gandalf: Đạo đức của phép thuật ở Shakespeare và Tolkien" (tr. 177)
+    - "Merlin, Prospero, Saruman và Gandalf: Cách sử dụng quyền lực mang tính ăn mòn trong Shakespeare và Tolkien" (tr. 196)
     - "'Trả giá cho cái cây nhổ bỏ gốc rễ trên trái đất của ông': Mô típ từ *Macbeth* trong *The Lord of the Rings* của J.R.R. Tolkien" (tr. 215; bởi [Janet Brennan Croft](../J/Janet_Brennan_Croft.md))
 
 - Cái KHÁC
     - "Ẩn dưới dạng nhìn đơn giản: Chiến lược hóa tính độc đáo trong chân dung phụ nữ của Shakespeare và Tolkien" (tr. 229)
-    - "Có điều gì đó đang gây chấn động ở phương Đông: Bản sắc chủng tộc, Đối mặt với 'Người khác' và Sự dị chủng ở *Othello* và *The Lord of the Rings*" (tr. 251)
-    - "Những kẻ tự nguyền rủa, những kẻ sợ đêm và những kẻ tiếm quyền: Atani của Tolkien và những người đàn ông của Shakespeare" (tr. 267)
+    - "Có điều gì đó đang khuấy động trong phương Đông: Bản sắc chủng tộc, Đối đầu với 'Người khác' và Sự dị chủng trong *Othello* và *The Lord of the Rings*" (tr. 251)
+    - "Những kẻ tự nguyền rủa, những kẻ sợ đêm và những kẻ tiếm quyền: Atani của Tolkien và Con Người của Shakespeare" (tr. 267)
     - "Gollum và Caliban: Sự phát triển và thiết kế" (tr. 281)
     - "Hai tâm trí: Gollum và Othello" (tr. 294)
 

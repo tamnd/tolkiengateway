@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Notion Club Papers"
 ---
 
-Chuyển hướng đến [Bài viết của Câu lạc bộ Notion](The_Notion_Club_Papers.md).
+Chuyển hướng đến [The Notion Club Papers](The_Notion_Club_Papers.md).

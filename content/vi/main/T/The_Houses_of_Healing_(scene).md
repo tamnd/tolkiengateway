@@ -41,17 +41,17 @@ infobox:
 
 ## Tóm tắt {#Synopsis}
 
-Sau [Trận chiến trên cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md), những người lính tìm kiếm trên chiến trường những người bị thương và thiệt mạng, trong số đó có [Pippin](../P/Peregrin_Took.md). Ông ta tìm thấy [Merry's](../M/Meriadoc_Brandybuck.md) [Áo choàng yêu tinh](../E/Elven_cloaks.md) và lo sợ ông ta đã chết. [Éomer](../_/Éomer.md) tìm thấy [Éowyn](../_/Éowyn.md) đang bất tỉnh, người mà anh tin rằng đã an toàn ở [Edoras](../E/Edoras.md) và đưa bà đến [Houses of Healing](../H/Houses_of_Healing.md). Ở đó cô được [Aragorn](../A/Aragorn.md) chữa lành. Éowyn nhìn thấy [Faramir](../F/Faramir.md), người cũng bị thương và đang ở trong Nhà chữa bệnh.
+Sau [Trận chiến trên Cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md), bộ đội tìm kiếm thương binh và tử vong trên chiến trường, trong số đó có [Pippin](../P/Peregrin_Took.md). Ông ta tìm thấy chiếc áo choàng](../M/Meriadoc_Brandybuck.md) [Tiên](../E/Elven_cloaks.md) của [Merry và lo sợ rằng ông ta đã chết. [Éomer](../_/Éomer.md) tìm thấy một [Éowyn](../_/Éowyn.md) bất tỉnh, người mà anh tin rằng đã an toàn ở [Edoras](../E/Edoras.md) và đưa bà đến [Nhà chữa bệnh](../H/Houses_of_Healing.md). Ở đó bà được chữa lành bởi [Aragorn](../A/Aragorn.md). Éowyn nhìn thấy [Faramir](../F/Faramir.md) người cũng bị thương và đang ở trong Nhà chữa bệnh.
 
 ## Sự khác biệt {#Differences}
 
 Cảnh này dựa trên [The Houses of Healing](The_Houses_of_Healing.md), một số sự kiện từ [The Pyre of Denethor](The_Pyre_of_Denethor.md) đã được sửa đổi và đưa vào cảnh này.
 
-- Éomer nhìn thấy xác Éowyn trong trận chiến và tin rằng cô đã chết khiến anh và quân đội của mình càng chiến đấu ác liệt hơn.<sup id="cite_ref-Battle_1-0" class="reference"><a href="#cite_note-Battle-1">[1]</a></sup>
-- Thi thể của Éowyn được đưa đến Nhà chữa bệnh, Éomer không phát hiện ra rằng cô vẫn còn sống cho đến khi anh hỏi [Hoàng tử Imrahil](../I/Imrahil.md) thi thể của cô ở đâu và được biết rằng cô vẫn còn sống.<sup id="cite_ref-Houses_2-0" class="reference"><a href="#cite_note-Houses-2">[2]</a></sup>
-- Pippin được Gandalf cử đi tìm Merry.<sup id="cite_ref-Houses_2-1" class="reference"><a href="#cite_note-Houses-2">[2]</a></sup> Ông tìm kiếm trong thành phố và tìm thấy ông ta bên trong [Cổng Minas Tirith](../G/Great_Gate_of_Minas_Tirith.md).<sup id="cite_ref-Battle_1-1" class="reference"><a href="#cite_note-Battle-1">[1]</a></sup> Trong cảnh tiếp theo ([Pippin Trông chừng Merry](../P/Pippin_Looks_After_Merry.md)) Pippin tìm thấy Merry trên Cánh đồng Pelennor.
-- Aragorn không ở trong Nhà chữa bệnh cho đến khi Gandalf triệu tập anh khi nghe lời tiên tri "*Bàn tay của một vị vua là bàn tay của người chữa bệnh*".<sup id="cite_ref-Battle_1-2" class="reference"><a href="#cite_note-Battle-1">[1]</a></sup>
-- Những người bị [Hơi thở đen](../B/Black_Breath.md) không thể được chữa lành bởi bất kỳ người cai trị nào ngoại trừ Aragorn. Điều này không được thể hiện trong phim.
+- Éomer nhìn thấy thi thể của Éowyn trong trận chiến và tin rằng cô đã chết khiến anh và quân đội của mình càng chiến đấu ác liệt hơn.<sup id="cite_ref-Battle_1-0" class="reference"><a href="#cite_note-Battle-1">[1]</a></sup>
+Thi thể của - Éowyn được đưa về Nhà chữa bệnh, Éomer không phát hiện ra cô vẫn còn sống cho đến khi anh hỏi [Thân vương Imrahil](../I/Imrahil.md) thi thể cô ở đâu và được biết cô vẫn còn sống.<sup id="cite_ref-Houses_2-0" class="reference"><a href="#cite_note-Houses-2">[2]</a></sup>
+- Pippin được Gandalf cử đi tìm Merry.<sup id="cite_ref-Houses_2-1" class="reference"><a href="#cite_note-Houses-2">[2]</a></sup> Ông ta tìm kiếm trong thành phố và tìm thấy ông ta bên trong [Cổng Minas Tirith](../G/Great_Gate_of_Minas_Tirith.md).<sup id="cite_ref-Battle_1-1" class="reference"><a href="#cite_note-Battle-1">[1]</a></sup> Trong cảnh tiếp theo ([Pippin Trông coi Merry](../P/Pippin_Looks_After_Merry.md)) Pippin tìm thấy Merry trong cánh đồng Pelennor.
+- Aragorn không ở trong Nhà chữa bệnh cho đến khi Gandalf triệu tập ông ta khi nghe lời tiên tri "*Bàn tay của một vị vua là bàn tay của người chữa bệnh*".<sup id="cite_ref-Battle_1-2" class="reference"><a href="#cite_note-Battle-1">[1]</a></sup>
+- Những người bị [Hơi Thở Đen](../B/Black_Breath.md) không thể được chữa lành bởi bất kỳ người cai trị nào ngoại trừ Aragorn. Điều này không được thể hiện trong phim.
 
 <span></span>
 

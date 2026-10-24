@@ -39,7 +39,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mythlore_5.gif.md"><img src="https://tolkiengateway.net/w/images/3/31/Mythlore_5.gif" decoding="async" loading="lazy" width="225" height="289" class="mw-file-element" data-file-width="225" data-file-height="289"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mythlore 5</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../G/Glen_GoodKnight.md" title="Glen GoodKnight">Glen GoodKnight</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Winter <a href="../_/1970.md" title="1970">1970</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">23</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mythlore_4.md" title="Mythlore 4">Mythlore 4</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mythlore_6.md" title="Mythlore 6">Mythlore 6</a></td></tr></tbody></table>
 
-<b><i>Thần thoại</i> 5</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol2/iss1/" rel="noreferrer noopener" target="_blank">Tập 2, Số 1</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, được xuất bản bởi [Hiệp hội Thần thoại](Mythopoeic_Society.md).
+<b><i>Mythlore</i> 5</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol2/iss1/" rel="noreferrer noopener" target="_blank">Tập 2, Số 1</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
 
 ## Nội dung {#Contents}
 
@@ -50,7 +50,7 @@ infobox:
 - Kuhl, Rand. "Lore of Logres: In Touch with Joy." Review of "On Fairy-stories" by J.R.R. Tolkien. 11.
 - "Tin tức về các sự kiện đặc biệt." 12+.
 - Zuber, Bernie. "World of Fanzines." 16+.
-- "Sứ điệp thần thoại." 21+.
+- "Thư gửi tới Mythlore." 21+.
 - Biên tập: "Học từ Tolkien." 23+.
 
 #### Tiểu thuyết {#Fiction}

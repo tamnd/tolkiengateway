@@ -36,4 +36,4 @@ infobox:
 <p class="tg-quote-footer"><cite><a href="../G/Glóin.md" title="Glóin">Glóin</a></cite></p>
 </blockquote></div></div>
 
-**Sự điên rồ của Denethor** là cảnh thứ 35 của *[The Lord of the Rings: The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)* và cảnh thứ 44 của [*The Lord of the Rings: The Return of the King* (extended edition)](<../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_(extended_edition).md>).
+**Denethor's Madness** là cảnh thứ 35 của *[The Lord of the Rings: The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)* và cảnh thứ 44 của [*The Lord of the Rings: The Return of the King* (extended edition)](<../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_(extended_edition).md>).

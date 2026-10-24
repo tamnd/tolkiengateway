@@ -29,9 +29,9 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien bày tỏ lòng biết ơn tới [Rayner Unwin](../R/Rayner_Unwin.md) vì đã gửi bản sao trước của *[The Adventures of Tom Bombadil](../T/The_Adventures_of_Tom_Bombadil.md)*. Ông chia sẻ về nguồn gốc của tác phẩm, bắt đầu từ người dì lớn tuổi của ông, và yêu cầu một bản sao miễn phí được gửi trực tiếp cho bà ấy từ công ty chứ không phải từ ông.
+Tolkien bày tỏ lòng biết ơn [Rayner Unwin](../R/Rayner_Unwin.md) đã gửi trước bản sao của *[The Adventures of Tom Bombadil](../T/The_Adventures_of_Tom_Bombadil.md)*. Ông chia sẻ về nguồn gốc của tác phẩm, bắt đầu từ người dì lớn tuổi của ông, và yêu cầu một bản sao miễn phí được gửi trực tiếp cho bà ấy từ công ty chứ không phải từ ông.
 
-Tolkien cũng thảo luận về các bản dịch [*Pearl* và *Sir Gawain and the Green Knight*](../S/Sir_Gawain_and_the_Green_Knight,_Pearl,_and_Sir_Orfeo.md) của ông, lưu ý rằng chúng đã hoàn chỉnh nhưng cần có bản sửa đổi cuối cùng. Ông thừa nhận Pearl đã được chuyên gia phê bình và cần được quan tâm kỹ lưỡng. Cuối cùng, Tolkien đề cập đến gánh nặng bất ngờ khi quay lại giảng dạy, điều này đòi hỏi ông phải nỗ lực nhiều hơn dự đoán để ôn lại kiến ​​thức sau một thời gian dài gián đoạn. <br>
+Tolkien cũng thảo luận về các bản dịch [*Pearl* và *Sir Gawain and the Green Knight*](../S/Sir_Gawain_and_the_Green_Knight,_Pearl,_and_Sir_Orfeo.md) của ông, lưu ý rằng chúng đã hoàn chỉnh nhưng cần có bản sửa đổi cuối cùng. Ông thừa nhận Pearl đã được chuyên gia phê bình và cần được quan tâm kỹ lưỡng. Cuối cùng, Tolkien đề cập đến gánh nặng bất ngờ khi quay trở lại giảng dạy, đòi hỏi anh phải nỗ lực nhiều hơn dự kiến ​​để ôn lại kiến ​​thức sau một thời gian dài gián đoạn. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

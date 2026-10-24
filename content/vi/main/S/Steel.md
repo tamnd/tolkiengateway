@@ -12,17 +12,17 @@ categories:
   - "Materials"
 ---
 
-**Thép** là hợp kim của [sắt](../I/Iron.md) thường được sử dụng làm vũ khí. Kim loại có thể được tôi cứng thông qua quá trình tôi luyện, điều mà [Người lùn](../D/Dwarves.md) được ghi nhận là rất xuất sắc.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Thép** là hợp kim của [sắt](../I/Iron.md) thường được sử dụng làm vũ khí. Kim loại có thể được tôi cứng thông qua quá trình tôi luyện, điều mà [Người Lùn](../D/Dwarves.md) được ghi nhận là vượt trội.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-[Mũi tên đỏ](../R/Red_Arrow.md) có gai bằng thép.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> [Vua phù thủy](../W/Witch-king.md) đội vương miện bằng thép tại [Trận chiến trên cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Người lùn của [Hang động lấp lánh](../G/Glittering_Caves.md) đã rèn những cánh cổng mới cho [Minas Tirith](../M/Minas_Tirith.md) từ [mithril](../M/Mithril.md) và thép.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+[Mũi tên đỏ](../R/Red_Arrow.md) được gia cố bằng thép.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> [Vua Phù thủy](../W/Witch-king.md) có vương miện bằng thép ở [Trận chiến trên Cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Người Lùn của [Hang động lấp lánh](../G/Glittering_Caves.md) đã rèn những cánh cổng mới cho [Minas Tirith](../M/Minas_Tirith.md) từ [mithril](../M/Mithril.md) và thép.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1994: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Nhập vai ở Trung Địa</a>—<a href="../T/Treasures_of_Middle-earth_(2nd_edition).md" title="Treasures of Middle-earth (2nd edition)">Kho báu của Trung Địa</a></i></b>
+<b>1994: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a>—<a href="../T/Treasures_of_Middle-earth_(2nd_edition).md" title="Treasures of Middle-earth (2nd edition)">Kho báu của Trung Địa</a></i></b>
 
 <dl><dd>Steel, also called <i>Borang</i> (<a href="Sindarin.md" title="Sindarin">S.</a> “Steadfast-iron”), has its composition explained in this book. It is an alloy with <i>morasarn</i> (carbon) and a small amount of one or more odd metals. The <a href="../M/Mírdain.md" title="Mírdain">mírdain</a> are noted find it an ugly and flawed material, but make much use of it nonetheless.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Expert prospectors can forge steel ingots using iron ingots and lumps of coal.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></dd></dl>
 

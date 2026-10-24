@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Estel (concept)"
 ---
 
-Chuyển hướng tới [Estel (khái niệm)](<Estel_(concept).md>).
+Chuyển hướng đến [Estel (khái niệm)](<Estel_(concept).md>).

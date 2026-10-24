@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Karen Wynn Fonstad"
 ---
 
-Chuyển hướng tới [Karen Wynn Fonstad](Karen_Wynn_Fonstad.md).
+Chuyển hướng đến [Karen Wynn Fonstad](Karen_Wynn_Fonstad.md).

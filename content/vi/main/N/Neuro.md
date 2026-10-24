@@ -13,7 +13,7 @@ categories:
   - "Quenya nouns"
 ---
 
-**neuro** trong [Quenya](../Q/Quenya.md) có nghĩa là "người theo sau, người kế vị"
+**neuro** trong [Quenya](../Q/Quenya.md) có nghĩa là "người theo sau, người kế thừa"
 
 ## Từ nguyên {#Etymology}
 

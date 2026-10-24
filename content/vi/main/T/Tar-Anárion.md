@@ -58,11 +58,11 @@ infobox:
 
 ## Lịch sử {#History}
 
-Người ta nói rất ít về sự cai trị của Tar-Anárion.<sup id="cite_ref-Tar-Anarion_1-4" class="reference"><a href="#cite_note-Tar-Anarion-1">[1]</a></sup> Hai người con lớn của ông là nữ, nhưng cả hai đều từ chối trở thành người thừa kế ngai vàng mà không rõ lý do, đồng thời họ không thích và sợ [Ancalimë](Tar-Ancalimë.md), người sẽ không cho phép họ kết hôn để trả thù. Vì vậy, ông đã được kế vị bởi con trai mình, [Tar-Súrion](Tar-Súrion.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Người ta nói rất ít về sự cai trị của Tar-Anárion.<sup id="cite_ref-Tar-Anarion_1-4" class="reference"><a href="#cite_note-Tar-Anarion-1">[1]</a></sup> Hai đứa con lớn của ông đều là nữ, nhưng cả hai đều từ chối trở thành người thừa kế ngai vàng mà không rõ lý do, đồng thời họ không thích và sợ [Ancalimë](Tar-Ancalimë.md), kẻ sẽ không cho phép họ kết hôn để trả thù. Vì vậy, ông đã được kế vị bởi con trai mình, [Tar-Súrion](Tar-Súrion.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Anárion* là tên [Quenya](../Q/Quenya.md). Ý nghĩa của nó không được giải thích rõ ràng, nhưng Paul Strack gợi ý rằng nó có thể có nghĩa là "Con trai của Mặt trời" là sự kết hợp của *[anar](../A/Anar.md)* ("mặt trời") và hậu tố bảo trợ *[-ion](../_/-ion.md)* ("con trai của").<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Giống như tất cả những người cai trị Númenor lấy tên hoàng gia ở Quenya, Anárion đã thêm tiền tố *tar-* ("cao") vào tên của mình khi nhận được [Quyền trượng](../S/Sceptre_of_Númenor.md).<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+*Anárion* là tên [Quenya](../Q/Quenya.md). Ý nghĩa của nó không được giải thích rõ ràng, nhưng Paul Strack gợi ý rằng nó có thể có nghĩa là "Con trai của Mặt Trời" là sự kết hợp của *[anar](../A/Anar.md)* ("mặt trời") và hậu tố từ viết tắt *[-ion](../_/-ion.md)* ("con trai của").<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Giống như tất cả những người cai trị của Númenor lấy tên hoàng gia của họ vào Quenya, Anárion đã thêm tiền tố *tar-* ("cao") vào tên của ông khi ông nhận được [Quyền trượng](../S/Sceptre_of_Númenor.md).<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 ## Phả hệ {#Genealogy}
 

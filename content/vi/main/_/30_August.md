@@ -72,13 +72,13 @@ Sự kiện xảy ra vào ngày 30 tháng 8
 - **[1968](1968.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư 305a](../L/Letter_305a.md).
 - **[1973](1973.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đi dự tiệc sinh nhật của Jocelyn Tolhurst, vợ của Denis Tolhurst.
 - **[1981](1981.md)** - Tập thứ hai mươi sáu và cũng là tập cuối cùng của [loạt phim phát thanh năm 1981](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* được phát sóng trên [BBC Radio 4](../B/BBC.md).
-- **[1992](1992.md)** - Bộ [Sê-ri phát thanh năm 1992](<../T/Tales_from_the_Perilous_Realm_(1992_radio_series).md>) của *[Smith of Wootton Major](../S/Smith_of_Wootton_Major.md)* được phát sóng trên [BBC Radio 5](../B/BBC.md).
+- **[1992](1992.md)** - Bộ [sê-ri phát thanh năm 1992](<../T/Tales_from_the_Perilous_Realm_(1992_radio_series).md>) của *[Smith of Wootton Major](../S/Smith_of_Wootton_Major.md)* được phát sóng trên [BBC Radio 5](../B/BBC.md).
 - **[2012](2012.md)** - *[Tolkien Calendar 2013](../T/Tolkien_Calendar_2013.md)* được xuất bản.
-- <b><a href="2018.md" title="2018">2018</a> - <i><a href="../T/The_Fall_of_Gondolin.md" title="The Fall of Gondolin">Sự sụp đổ của Gondolin</a></i> được xuất bản.</b>
+- <b><a href="2018.md" title="2018">2018</a> - <i><a href="../T/The_Fall_of_Gondolin.md" title="The Fall of Gondolin">The Fall of Gondolin</a></i> được xuất bản.</b>
 - **[2018](2018.md)** - *[Tolkien Calendar 2019](../T/Tolkien_Calendar_2019.md)* được xuất bản.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Gandalf](../G/Gandalf.md) bị [Saruman](../S/Saruman.md) giam giữ trên đỉnh [Orthanc](../O/Orthanc.md).
+    - [Gandalf](../G/Gandalf.md) bị giam giữ bởi [Saruman](../S/Saruman.md) trên đỉnh của [Orthanc](../O/Orthanc.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.

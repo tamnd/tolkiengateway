@@ -14,7 +14,7 @@ sort_keys:
   "Quenya suffixes": "ndur"
 ---
 
-<i><b>-ndur, -nur</b></i> là hậu tố [Quenya](../Q/Quenya.md) được thêm vào tên để biểu thị sự phục vụ trung thành hoặc sự phục tùng.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>-ndur, -nur</b></i> là hậu tố [Quenya](../Q/Quenya.md) được thêm vào tên để biểu thị sự phục vụ trung thành hoặc nô lệ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -22,11 +22,11 @@ Từ <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=N%C3%B
 
 ## Ví dụ {#Examples}
 
-- <i><a class="mw-redirect" href="../A/Arandur.md" title="Arandur">Ara<b>ndur</b></a></i> = "[Quản gia](../S/Steward.md)" (nghĩa đen là "Vua-tôi tớ")
+- <i><a class="mw-redirect" href="../A/Arandur.md" title="Arandur">Ara<b>ndur</b></a></i> = "[Quản gia](../S/Steward.md)" (nghĩa đen là "Vua-người hầu")
 - <i><a href="../E/Eärendur_(Lord_of_Andúnië).md" title="Eärendur (Lord of Andúnië)">Eäre<b>ndur</b></a>/<a class="mw-redirect" href="../E/Earnur.md" title="Earnur">Ear<b>nur</b></a></i> = "Người hầu của [Biển](../B/Belegaer.md), thủy thủ"
-- <i><a href="../E/Elendur_(son_of_Isildur).md" title="Elendur (son of Isildur)">Ele<b>ndur</b></a></i> = "Người hầu của Yêu tinh"
+- <i><a href="../E/Elendur_(son_of_Isildur).md" title="Elendur (son of Isildur)">Ele<b>ndur</b></a></i> = "Người hầu của Tiên tộc"
 - <i><a href="../C/Cemendur_(son_of_Axantur).md" title="Cemendur (son of Axantur)">Ceme<b>ndur</b></a></i> = "Người hầu của Trái đất" (tức là nông dân?)
-- <i><a href="../I/Isildur.md" title="Isildur">Isil<b>dur</b></a></i> = "Cống hiến cho [Mặt trăng](../M/Moon.md)"
+- <i><a href="../I/Isildur.md" title="Isildur">Isil<b>dur</b></a></i> = "Cống hiến cho [Mặt Trăng](../M/Moon.md)"
 - <i><a class="mw-redirect" href="../M/Meneldur.md" title="Meneldur">Mene<b>ldur</b></a></i> = "Người hầu của [Thiên đường](../H/Heaven.md), nhà thiên văn học"
 - <i><a href="../P/Pelendur.md" title="Pelendur">Pele<b>ndur</b></a></i> = "Người hầu của biên giới"
 - <i><a href="../V/Valandur.md" title="Valandur">Vala<b>ndur</b></a></i> = "Người hầu của [Valar](../V/Valar.md)"
@@ -50,4 +50,4 @@ Từ <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=N%C3%B
 </li>
 </ol></div>
 
-- <a class="external text" href="http://www.uib.no/People/hnohf/qlist.htm" rel="noreferrer noopener" target="_blank">Danh sách từ Quenya Corpus</a> được chỉnh sửa bởi [Helge Fauskanger](../H/Helge_Fauskanger.md)
+- <a class="external text" href="http://www.uib.no/People/hnohf/qlist.htm" rel="noreferrer noopener" target="_blank">Quenya Danh sách từ ngữ liệu</a> được chỉnh sửa bởi [Helge Fauskanger](../H/Helge_Fauskanger.md)

@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "KuraiGeijutsu"
 ---
 
-- KuraiGeijutsu đã vui lòng cho phép cô sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_KuraiGeijutsu.md) trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
+- KuraiGeijutsu đã vui lòng cho phép cô sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_KuraiGeijutsu.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Ngày: 24 tháng 7 năm 2020
 - Người dùng đã xin phép: [IvarTheBoneless](https://tolkiengateway.net/wiki/User:IvarTheBoneless)

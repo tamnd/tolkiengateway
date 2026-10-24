@@ -44,18 +44,18 @@ Mục 509(a)1 mô tả các tổ chức từ thiện công cộng: 'Các tổ ch
 5. Một đơn vị chính phủ, và
 6. Một tổ chức được công chúng ủng hộ.'<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
-Vì vậy Tolkien Gateway sẽ không được coi là một tổ chức từ thiện công cộng; thay vào đó nó sẽ được coi là một quỹ tư nhân.
+Vì vậy Tolkien Gateway sẽ không được coi là tổ chức từ thiện công cộng; thay vào đó nó sẽ được coi là một quỹ tư nhân.
 
-## Cổng Tolkien làm nền tảng riêng: {#Tolkien_Gateway_as_a_private_foundation:}
+## Tolkien Gateway làm quỹ riêng: {#Tolkien_Gateway_as_a_private_foundation:}
 
-Để Tolkien Gateway trở thành một tổ chức tư nhân, họ phải gửi thông tin cho IRS để chứng minh cách họ hỗ trợ giáo dục.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
+Để Tolkien Gateway trở thành một tổ chức tư nhân, tổ chức này sẽ phải gửi thông tin cho IRS để chứng minh tổ chức này hỗ trợ giáo dục như thế nào.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
 
-Để đăng ký trạng thái miễn thuế, Tolkien Gateway trước tiên phải 'được tổ chức như một công ty, quỹ tín thác hoặc hiệp hội chưa hợp nhất. Các tài liệu tổ chức của một tổ chức (các điều khoản thành lập, tài liệu ủy thác, các điều khoản của hiệp hội) phải: giới hạn các mục đích của nó ở những mục đích được mô tả trong mục 501(c)(3) của IRC; không cho phép rõ ràng các hoạt động không tiếp tục (các) mục đích được miễn trừ, tức là các hoạt động không liên quan; và cống hiến vĩnh viễn tài sản của mình cho các mục đích được miễn trừ.'<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
+Để đăng ký trạng thái miễn thuế Tolkien Gateway trước tiên phải 'được tổ chức dưới dạng công ty, quỹ tín thác hoặc hiệp hội chưa có tư cách pháp nhân. Các tài liệu tổ chức của một tổ chức (các điều khoản thành lập, tài liệu ủy thác, các điều khoản của hiệp hội) phải: giới hạn các mục đích của nó ở những mục đích được mô tả trong mục 501(c)(3) của IRC; không cho phép rõ ràng các hoạt động không tiếp tục (các) mục đích được miễn trừ, tức là các hoạt động không liên quan; và cống hiến vĩnh viễn tài sản của mình cho các mục đích được miễn trừ.'<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
 
 Các trách nhiệm đi kèm với trạng thái 501(c)(3) bao gồm:
 
 - Lưu trữ hồ sơ – các tổ chức 501(c)(3) được yêu cầu lưu giữ sổ sách về tất cả hồ sơ tài chính và phi tài chính.
-- Yêu cầu nộp hồ sơ – các tổ chức 501(c)(3) phải nộp tờ khai thông tin hàng năm: Biểu mẫu 90, Biểu mẫu 990-EZ hoặc Biểu mẫu 990-PF. Tuy nhiên, các tổ chức rất nhỏ được miễn nộp Biểu mẫu 990 hoặc Biểu mẫu 990-EZ – điều này có thể xảy ra với Tolkien Gateway, có thêm thông tin trên các biểu mẫu. Các tổ chức có tổng doanh thu dưới 25.000 USD phải gửi Biểu mẫu 990-N (chỉ có thể thực hiện trực tuyến).
+- Yêu cầu nộp hồ sơ – các tổ chức 501(c)(3) phải nộp tờ khai thông tin hàng năm: Biểu mẫu 90, Biểu mẫu 990-EZ hoặc Biểu mẫu 990-PF. Tuy nhiên, các tổ chức rất nhỏ được miễn nộp Biểu mẫu 990 hoặc Biểu mẫu 990-EZ – trường hợp này có thể xảy ra với Tolkien Gateway, có thêm thông tin trên các biểu mẫu. Các tổ chức có tổng doanh thu dưới 25.000 USD phải gửi Biểu mẫu 990-N (chỉ có thể thực hiện trực tuyến).
 - Yêu cầu tiết lộ – Các tổ chức theo Mục 501(c)(3) phải nộp đơn đăng ký (Mẫu 1023) và các tờ khai hàng năm được cung cấp cho công chúng để kiểm tra trong ba năm. <sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
 
 Các mẫu đơn cần nộp bao gồm:
@@ -66,7 +66,7 @@ Các mẫu đơn cần nộp bao gồm:
 
 ## Kết luận: {#Conclusion:}
 
-Tóm lại, luật từ thiện hay miễn thuế của Hoa Kỳ rất tẻ nhạt và chính phủ liên bang không tạo điều kiện dễ dàng cho các tổ chức được miễn thuế hoặc thành lập làm tổ chức từ thiện. Sẽ rất khó để giải thích cách Tolkien Gateway đóng góp vào sự tiến bộ của giáo dục và chúng tôi có thể thấy rằng đơn xin miễn thuế của chúng tôi bị từ chối vì những lý do này. Tuy nhiên, việc trở nên có tổ chức sẽ là một trở ngại. Nói như vậy thì có lẽ chúng ta cũng không cần phải xin miễn thuế; Cổng Tolkien sẽ được tổ chức và không phải là trách nhiệm của một cá nhân mà là của nhiều cá nhân, và không biết liệu chúng ta sẽ tiết kiệm được bao nhiêu từ việc không phải trả thuế liên bang có lớn hơn phí với Biểu mẫu 1023 hay không (và thực tế là tất cả các công việc hành chính và giấy tờ liên quan đến đơn đăng ký và trạng thái miễn thuế!). Nhìn chung, tôi tin rằng Tolkien Gateway chỉ nên trở thành một tổ chức phi lợi nhuận nhưng việc nộp đơn xin miễn thuế sẽ không đáng nỗ lực.
+Tóm lại, luật từ thiện hay miễn thuế của Hoa Kỳ rất tẻ nhạt và chính phủ liên bang không tạo điều kiện dễ dàng cho các tổ chức được miễn thuế hoặc thành lập làm tổ chức từ thiện. Việc giải thích cách Tolkien Gateway đóng góp vào sự tiến bộ của giáo dục sẽ khó khăn và chúng tôi có thể thấy rằng đơn xin miễn thuế của chúng tôi bị từ chối vì những lý do này. Tuy nhiên, việc trở nên có tổ chức sẽ là một trở ngại. Nói như vậy thì có lẽ chúng ta cũng không cần phải xin miễn thuế; Tolkien Gateway sẽ được tổ chức và không phải là trách nhiệm của một cá nhân mà là của nhiều cá nhân, và không biết liệu chúng ta tiết kiệm được bao nhiêu từ việc không phải trả thuế liên bang có lớn hơn phí với Biểu mẫu 1023 hay không (và thực tế là tất cả các công việc hành chính và giấy tờ liên quan đến đơn đăng ký và trạng thái miễn thuế!). Nhìn chung, tôi tin rằng Tolkien Gateway chỉ nên trở thành một tổ chức phi lợi nhuận nhưng việc nộp đơn xin miễn thuế sẽ không đáng công sức bỏ ra.
 
 <span></span>
 

@@ -15,12 +15,12 @@ categories:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="../T/Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><b>I</b><a href="../S/Second_Age.md" title="Second Age">II</a><a href="../T/Third_Age.md" title="Third Age">III</a><a href="../F/Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Trees</div><div class="tg-timelinenav-links"><a href="Year_of_the_Trees_1182.md" title="Year of the Trees 1182">1182</a><a href="Year_of_the_Trees_1185.md" title="Year of the Trees 1185">1185</a><a href="Year_of_the_Trees_1190.md" title="Year of the Trees 1190">1190</a><a class="mw-selflink selflink">1200</a><a href="Year_of_the_Trees_1230.md" title="Year of the Trees 1230">1230</a><a href="Year_of_the_Trees_1250.md" title="Year of the Trees 1250">1250</a><a href="Year_of_the_Trees_1260.md" title="Year of the Trees 1260">1260</a></div></div></div></div></div></div>
 
-**Năm Cây 1200** (viết tắt là **Y.T. 1200**) là [năm Cây](Years_of_the_Trees.md) thứ 1200 trong [Kỷ nguyên thứ nhất](../F/First_Age.md) của [Arda](../A/Arda.md). Năm Cây 1200 cũng là **V.Y. 4700** trong [Năm Valian](../V/Valian_Years.md).
+**Năm Cây 1200** (viết tắt là **Y.T. 1200**) là [năm Cây](Years_of_the_Trees.md) thứ 1200 trong [Kỷ Đệ Nhất](../F/First_Age.md) của [Arda](../A/Arda.md). Năm Cây 1200 cũng là **V.Y. 4700** trong [Năm Valian](../V/Valian_Years.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- Kết thúc thời đại đầu tiên của [Xâu chuỗi](../C/Chaining_of_Melkor.md) của [Melkor](../M/Melkor.md).<sup id="cite_ref-WJ_1-0" class="reference"><a href="#cite_note-WJ-1">[1]</a></sup>
-- Vào khoảng thời gian này, [Lúthien](../L/Lúthien.md) được sinh ra trong Rừng [Neldoreth](../N/Neldoreth.md).<sup id="cite_ref-WJ_1-1" class="reference"><a href="#cite_note-WJ-1">[1]</a></sup>
+- Kết thúc thời kỳ đầu tiên của [Chuỗi](../C/Chaining_of_Melkor.md) của [Melkor](../M/Melkor.md).<sup id="cite_ref-WJ_1-0" class="reference"><a href="#cite_note-WJ-1">[1]</a></sup>
+- Vào khoảng thời gian này, [Lúthien](../L/Lúthien.md) được sinh ra trong Khu rừng [Neldoreth](../N/Neldoreth.md).<sup id="cite_ref-WJ_1-1" class="reference"><a href="#cite_note-WJ-1">[1]</a></sup>
 
 <span></span>
 

@@ -57,7 +57,7 @@ infobox:
 
 ## Từ nguyên {#Etymology}
 
-*Isilmo* là tên [Quenya](../Q/Quenya.md). Ý nghĩa của nó không được giải thích rõ ràng, nhưng Paul Strack cho rằng nó là sự kết hợp của *[Isil](../M/Moon.md#Other_names)* ("mặt trăng") và hậu tố tác nhân *[-mo](../_/-mo.md)* ("một", "bất kỳ ai", "ai đó", "ai đó").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+*Isilmo* là tên [Quenya](../Q/Quenya.md). Ý nghĩa của nó không được giải thích rõ ràng, nhưng Paul Strack cho thấy nó là sự kết hợp của *[Isil](../M/Moon.md#Other_names)* ("mặt trăng") và hậu tố tác nhân *[-mo](../_/-mo.md)* ("một", "bất cứ ai", "ai đó", "ai đó").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Phả hệ {#Genealogy}
 

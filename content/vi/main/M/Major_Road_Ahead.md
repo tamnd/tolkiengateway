@@ -12,7 +12,7 @@ categories:
   - "Other fictional worlds"
 ---
 
-**Major Road Ahead** là một anh hùng — một nhân vật trong "sử thi gia đình lâu đời" được [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) kể cho các con của mình nghe. Các câu chuyện “xoay quanh nỗ lực không mệt mỏi của Major Road Ahead để truy tố kẻ thủ ác”, [Bill Sticker](../B/Bill_Stickers.md).<sup id="cite_ref-Bio_1-0" class="reference"><a href="#cite_note-Bio-1">[1]</a></sup>
+**Major Road Ahead** là một anh hùng — một nhân vật trong "sử thi gia đình dài tập" được [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) kể cho các con của mình nghe. Các câu chuyện “xoay quanh nỗ lực không mệt mỏi của Major Road Ahead để truy tố kẻ thủ ác”, [Bill Sticker](../B/Bill_Stickers.md).<sup id="cite_ref-Bio_1-0" class="reference"><a href="#cite_note-Bio-1">[1]</a></sup>
 
 ## Cảm hứng {#Inspiration}
 

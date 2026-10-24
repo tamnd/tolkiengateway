@@ -28,11 +28,11 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Person</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Olivier Frot</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Born</th><td class="tg-infobox-data"><a href="../_/27_April.md" title="27 April">27 April</a> <a href="../_/1966.md" title="1966">1966</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Occupation</th><td class="tg-infobox-data">Artist</td></tr></tbody></table>
 
-**Olivier Frot** (sinh [27 tháng 4](../_/27_April.md) [1966](../_/1966.md)) là một nghệ sĩ giả tưởng người Pháp được [Iron Crown Enterprises](../I/Iron_Crown_Enterprises.md) ủy quyền để tạo tác phẩm nghệ thuật thẻ cho *[Middle-earth Collectible Card Game](../M/Middle-earth_Collectible_Card_Game.md)*.
+**Olivier Frot** (sinh [27 tháng 4](../_/27_April.md) [1966](../_/1966.md)) là một nghệ sĩ giả tưởng người Pháp được [Vương miện Sắt Enterprises](../I/Iron_Crown_Enterprises.md) ủy quyền để tạo tác phẩm nghệ thuật thẻ cho *[Middle-earth Collectible Card Game](../M/Middle-earth_Collectible_Card_Game.md)*.
 
-Mặc dù ban đầu ông dự định minh họa nhiều thẻ hơn nhưng cuối cùng chỉ có tác phẩm thử nghiệm của ông cho [Gandalf](../G/Gandalf.md) được sử dụng.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Ông cũng minh họa ảnh bìa cho ấn bản tiếng Pháp của Hexagonal về [Nhập vai Trung Địa](../M/Middle-earth_Role_Playing.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Mặc dù ban đầu ông có ý định minh họa nhiều thẻ hơn nhưng cuối cùng chỉ có tác phẩm thử nghiệm của ông cho [Gandalf](../G/Gandalf.md) được sử dụng.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Ông cũng minh họa ảnh bìa cho ấn bản tiếng Pháp của Hexagonal của [Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Trong [1995](../_/1995.md), ông đã vẽ bản đồ về [Thời đại thứ năm](../F/Fifth_Age.md) của [Trung Địa](../M/Middle-earth.md) để minh họa cho một bài viết trên [Tạp chí Rồng](../D/Dragon_Magazine.md) phiên bản tiếng Pháp.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[note 1]</a></sup>
+Trong [1995](../_/1995.md), ông đã vẽ bản đồ về [Thời đại thứ năm](../F/Fifth_Age.md) của [Trung Địa](../M/Middle-earth.md) để minh họa cho một bài viết trên tạp chí [Rồng Magazine](../D/Dragon_Magazine.md) phiên bản tiếng Pháp.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[note 1]</a></sup>
 
 ## Xem thêm {#See_also}
 

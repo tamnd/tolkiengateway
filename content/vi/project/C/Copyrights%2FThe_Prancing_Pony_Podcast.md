@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Prancing Pony Podcast, The"
 ---
 
-- [Podcast Prancing Pony](../../main/T/The_Prancing_Pony_Podcast.md) đã vui lòng cho phép họ sử dụng biểu tượng của họ trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
+- [The Prancing Pony Podcast](../../main/T/The_Prancing_Pony_Podcast.md) đã vui lòng cho phép họ sử dụng biểu tượng của họ trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Ngày: 18 tháng 8 năm 2022
 - Người dùng đã xin phép qua email: [Người dùng:Hyarion](https://tolkiengateway.net/wiki/User:Hyarion)

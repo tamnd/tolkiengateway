@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Barliman Butterbur"
 ---
 
-Chuyển hướng tới [Barliman Butterbur](Barliman_Butterbur.md).
+Chuyển hướng đến [Barliman Butterbur](Barliman_Butterbur.md).

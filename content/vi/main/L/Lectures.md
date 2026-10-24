@@ -25,7 +25,7 @@ Bài viết này bao gồm **Bài giảng** liên quan đến [J.R.R. Tolkien](.
 
 ## Video {#Video}
 
-- <a class="external text" href="http://video.google.com/videoplay?docid=8119893978710705002" rel="noreferrer noopener" target="_blank">J.R.R. Tolkien: Cha đẻ của Văn học Giả tưởng Hiện đại</a> của Giáo sư Christopher Mitchell của Đại học Wheaton
+- <a class="external text" href="http://video.google.com/videoplay?docid=8119893978710705002" rel="noreferrer noopener" target="_blank">J.R.R. Tolkien: Cha đẻ của văn học giả tưởng hiện đại</a> của Giáo sư Christopher Mitchell của trường Cao đẳng Wheaton
 - <a class="external text" href="http://video.google.com/videoplay?docid=-1741612457837127885&amp;q" rel="noreferrer noopener" target="_blank">Lewis & Tolkien: Học giả và bạn bè</a> của Giáo sư Christopher Mitchell của Đại học Wheaton
 
 <br>

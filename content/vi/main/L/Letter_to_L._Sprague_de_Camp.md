@@ -16,7 +16,7 @@ sort_keys:
 
 Vào [30 tháng 8](../_/30_August.md) [1964](../_/1964.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) gửi [L. Sprague de Camp](L._Sprague_de_Camp.md)**.<sup id="cite_ref-CG_1-0" class="reference"><a href="#cite_note-CG-1">[1]</a></sup>
 
-- **Chủ đề:** Tolkien viết về quan điểm của mình về những đóng góp cho tuyển tập *[Swords &amp; Sorcery](../S/Swords_&_Sorcery.md)*.
+- **Chủ đề:** Tolkien viết bày tỏ quan điểm của mình về những đóng góp cho tuyển tập *[Swords &amp; Sorcery](../S/Swords_&_Sorcery.md)*.
 - **Xuất bản:** Các trích dẫn trong bức thư được xuất bản trong [*Mythlore* 50](../M/Mythlore_50.md).
 
 ## Trích {#Excerpt}

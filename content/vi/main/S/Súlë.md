@@ -23,26 +23,26 @@ images:
 
 <figure class="mw-default-size mw-halign-left" typeof="mw:File"><a class="mw-file-description" href="../../file/T/Thule.gif.md"><img src="https://tolkiengateway.net/w/images/0/02/Thule.gif" decoding="async" loading="lazy" width="53" height="65" class="mw-file-element" data-file-width="53" data-file-height="65"/></a><figcaption></figcaption></figure>
 
-*Súlë* cũng là tên bằng tiếng Quenya của chữ cái thứ chín trong bảng chữ cái [Tengwar](../T/Tengwar.md).<sup id="cite_ref-Names_1-1" class="reference"><a href="#cite_note-Names-1">[1]</a></sup> Đây là chữ cái đầu tiên của lớp ba hay [Tyellë](../T/Tyellë.md), chứa "các âm xát vô thanh" và là chữ cái thứ ba trong chuỗi phụ âm nha khoa hoặc *t*, *[Tincotéma](../T/Tincotéma.md)*. Trong tất cả các chế độ ngoại trừ Quenya sau này, *Súlë* đại diện cho **TH**.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Tên phương Tây của chữ cái này là <i><b>Thó</b></i>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+*Súlë* cũng là tên trong Quenya của chữ cái thứ chín trong bảng chữ cái [Tengwar](../T/Tengwar.md).<sup id="cite_ref-Names_1-1" class="reference"><a href="#cite_note-Names-1">[1]</a></sup> Đây là chữ cái đầu tiên của lớp ba hay [Tyellë](../T/Tyellë.md), chứa "các âm xát vô thanh" và nó là chữ cái thứ ba trong chuỗi phụ âm nha khoa hoặc *t*, *[Tincotéma](../T/Tincotéma.md)*. Trong tất cả các chế độ ngoại trừ Quenya sau này, *Súlë* đại diện cho **TH**.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Tên Westron cho chữ cái này là <i><b>Thó</b></i>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <br>
 
 ## Lịch sử {#History}
 
-Tên ban đầu của *Súlë* là *þúlë* và trong Quenya nó có giá trị **TH** hoặc **þ**. Sự thay đổi giá trị của nó xảy ra giữa [Noldor](../N/Noldor.md) khi ở [Valinor](../V/Valinor.md). Sự thay đổi này khiến [Fëanor](../F/Fëanor.md) tức giận vì anh cảm thấy thật là xúc phạm khi thay đổi cách phát âm [tên-mẹ](../M/Mother-name.md) của mẹ anh [Míriel](../M/Míriel.md), đó là *[þerindë](../_/Þerindë.md)*.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[note 1]</a></sup> Tuy nhiên, sự đột biến của **þ** thành **S** vẫn tiếp tục và cuối cùng chữ cái này được đổi tên thành *Súlë* và vào năm Quenya chỉ có giá trị **S** (và chỉ được sử dụng thay cho chữ cái 29 hoặc 30 khi âm gốc trong một từ là "þ").<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup>
+Tên ban đầu của *Súlë* là *þúlë* và trong Quenya nó có giá trị **TH** hoặc **þ**. Sự thay đổi giá trị của nó xảy ra giữa [Noldor](../N/Noldor.md) trong [Valinor](../V/Valinor.md). Sự thay đổi này khiến [Fëanor](../F/Fëanor.md) tức giận vì anh cảm thấy việc thay đổi cách phát âm [tên mẹ](../M/Mother-name.md) của mẹ anh [Míriel](../M/Míriel.md) là *[þerindë](../_/Þerindë.md)*.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[note 1]</a></sup> là một sự xúc phạm. Tuy nhiên, sự đột biến của **þ** thành **S** vẫn tiếp tục và cuối cùng chữ cái này được đổi tên thành *Súlë* và trong Quenya chỉ có giá trị **S** (và chỉ được sử dụng thay cho chữ cái 29 hoặc 30 khi âm gốc trong một từ là "þ").<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Từ này bắt nguồn từ [Quendian nguyên thủy](../P/Primitive_Quendian.md) [gốc](Sundocarme.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=TH%C5%AA&amp;action=edit&amp;redlink=1" title="THŪ (page does not exist)">THŪ</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[5]</a></sup>
+Từ này bắt nguồn từ [Primitive Quendian](../P/Primitive_Quendian.md) [gốc](Sundocarme.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=TH%C5%AA&amp;action=edit&amp;redlink=1" title="THŪ (page does not exist)">THŪ</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[5]</a></sup>
 
 ## Xem thêm {#See_also}
 
-- <a class="external text" href="http://www.uib.no/People/hnohf/qlist.htm" rel="noreferrer noopener" target="_blank">Danh sách từ Quenya Corpus</a> được chỉnh sửa bởi [Helge Fauskanger](../H/Helge_Fauskanger.md)
+- <a class="external text" href="http://www.uib.no/People/hnohf/qlist.htm" rel="noreferrer noopener" target="_blank">Quenya Danh sách từ ngữ liệu</a> được chỉnh sửa bởi [Helge Fauskanger](../H/Helge_Fauskanger.md)
 
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">Để biết thêm về cuộc tranh luận ngôn ngữ chính trị hóa này, hãy xem <a href="../T/The_Shibboleth_of_Fëanor.md#The_case_of_the_Quenya_change_of_þ_&gt;_s" title="The Shibboleth of Fëanor">The Shibboleth of Fëanor</a>.</span>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">Để biết thêm về cuộc tranh luận ngôn ngữ bị chính trị hóa này, hãy xem <a href="../T/The_Shibboleth_of_Fëanor.md#The_case_of_the_Quenya_change_of_þ_&gt;_s" title="The Shibboleth of Fëanor">The Shibboleth of Fëanor</a>.</span>
 </li>
 </ol></div></span>
 

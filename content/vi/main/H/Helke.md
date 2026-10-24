@@ -18,7 +18,7 @@ langlinks:
     url: "https://lotr.su/wiki/Helke"
 ---
 
-<i><b>helke</b></i> là từ [Quenya](../Q/Quenya.md) có nghĩa là "băng".<sup id="cite_ref-LR_1-0" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
+<i><b>helke</b></i> là một từ [Quenya](../Q/Quenya.md) có nghĩa là "băng".<sup id="cite_ref-LR_1-0" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
 
 [Helge Fauskanger](Helge_Fauskanger.md) đã đề xuất cách viết *helcë*, để phù hợp với cách viết Quenya được sử dụng trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 

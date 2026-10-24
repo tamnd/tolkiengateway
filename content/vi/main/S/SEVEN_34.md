@@ -43,13 +43,13 @@ infobox:
     - Bởi: C.S. Lewis
 - "Sự vui tươi trong bài thơ sáng tạo của C.S. Lewis"
     - Bởi: Charles Huttar
-- "Trở về quê hương của Tolkien"
+- "Tolkien về quê hương"
     - Bởi: Nancy Bunting
-- "Bài giảng Giáng sinh cho người ngoại giáo"
+- "Bài giảng Giáng sinh cho người ngoại đạo"
     - Bởi: C.S. Lewis
 - "Khám phá 'Bài giảng Giáng sinh cho người ngoại đạo'"
     - Bởi: Joel Heck và Christopher Marsh
-- "Thần học về xuất bản của Charles Williams"
+- "Charles Williams Thần học về xuất bản"
     - Bởi: Michael J. Paulus, Jr.
 - "Thư gửi Malcolm: Thư XIIa" **(Chỉ có ở dạng in <u>chỉ</u>)**
     - Bởi: C.S. Lewis
@@ -59,20 +59,20 @@ infobox:
     - Bởi: J. Patrick Pazdziora và Joshua C. Richards
 - "Lovejoy, Collinwood, Barfield: Từ 'Lịch sử ý tưởng' đến 'Sự tiến hóa của ý thức'"
     - Bởi: Jeffrey Hipolito
-- Bài luận ôn tập:
+- Bài luận đánh giá:
     - "G.K. Chesterton's Vấn đề Do Thái", bài đánh giá về *Chesterton và người Do Thái: Người bạn, Nhà phê bình, Người bảo vệ* của Ann Farmer
         - Bởi: Adam Schwartz
 - Đánh giá sách:
     - "Đánh giá về *Bandersnatch: C.S. Lewis, J.R.R. Tolkien và sự cộng tác sáng tạo của Inklings* của Diana Pavlac Glyer"
         - Bởi: Jay Moses
-    - "Đánh giá về *Phép thuật sâu sắc hơn: Thần học đằng sau các bài viết C.S. Lewis* của Donald T. Williams"
+    - "Đánh giá về *Phép thuật sâu sắc hơn: Thần học đằng sau các bài viết của C.S. Lewis* của Donald T. Williams"
         - Bởi: Corey Latta
 - Ghi chú sách:
     - *Tháp vĩ đại của xứ Elfland: Thế giới quan thần thoại của J.R.R. Tolkien, C.S. Lewis, G.K. Chesterton và George MacDonald*
         - Bởi: Zachary A. Rhone
     - *Con cá sấu hài lòng: Tiểu luận về G.K. Chesterton*
         - Bởi: James Schall, biên tập viên
-    - *Tiếng cười ở Trung địa: Sự hài hước trong và xung quanh các tác phẩm của JRR Tolkien*
+    - *Tiếng cười trong Trung Địa: Sự hài hước trong và xung quanh các tác phẩm của JRR Tolkien*
         - Bởi: Thomas Honegger và Maureen F. Mann, biên tập viên<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <div class="template-prevnext"><div class="template-prevnext__prev template-prevnext__link"><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/8/81/WikimediaUI-ArrowPrevious-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__content"><div class="template-prevnext__title">SEVEN 33</div></div><div class="template-prevnext__linkoverlay"><a href="SEVEN_33.md" title="SEVEN 33">SEVEN 33</a></div></div><div class="template-prevnext__current"><div class="template-prevnext__content"><div class="template-prevnext__title">SEVEN 34</div></div></div><div class="template-prevnext__next template-prevnext__link"><div class="template-prevnext__content"><div class="template-prevnext__title">SEVEN 35</div></div><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/7b/WikimediaUI-ArrowNext-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__linkoverlay"><a href="SEVEN_35.md" title="SEVEN 35">SEVEN 35</a></div></div></div>

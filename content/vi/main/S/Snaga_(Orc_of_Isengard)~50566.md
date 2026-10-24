@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Snaga (orc of Isengard)"
 ---
 
-Chuyển hướng tới [Snaga (orc của Isengard)](<Snaga_(orc_of_Isengard).md>).
+Chuyển hướng đến [Snaga (orc của Isengard)](<Snaga_(orc_of_Isengard).md>).

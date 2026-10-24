@@ -20,7 +20,7 @@ Một nửa số biểu tượng trong chuỗi này có một chiếc nơ hoặc
 
 ## Giá trị {#Values}
 
-Về nguyên tắc, các ký tự trong loạt bài này có thể thể hiện nhiều loại âm thanh khác nhau, mặc dù trên thực tế, việc sử dụng chúng về cơ bản đã được tiêu chuẩn hóa bởi các phụ âm [Thời đại thứ ba](Third_Age.md) đến <a class="extiw" href="http://en.wikipedia.org/wiki/Alveolar_consonant" title="wikipedia:Alveolar consonant">phế nang</a> và <a class="extiw" href="http://en.wikipedia.org/wiki/Dental_consonant" title="wikipedia:Dental consonant">nha khoa</a>.
+Về nguyên tắc, các ký tự trong loạt bài này có thể biểu thị nhiều loại âm thanh khác nhau, mặc dù trong thực tế việc sử dụng chúng về cơ bản đã được tiêu chuẩn hóa bởi các phụ âm [Kỷ Đệ Tam](Third_Age.md) đến <a class="extiw" href="http://en.wikipedia.org/wiki/Alveolar_consonant" title="wikipedia:Alveolar consonant">phế nang</a> và <a class="extiw" href="http://en.wikipedia.org/wiki/Dental_consonant" title="wikipedia:Dental consonant">nha khoa</a>.
 
 Bốn dấu hiệu đầu tiên trong chuỗi, *[tinco](Tinco.md)*, *[ando](../A/Ando.md)*, <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Th%C3%BAle&amp;action=edit&amp;redlink=1" title="Thúle (page does not exist)">thúle</a></i> và *[anto](../A/Anto.md)*, mỗi dấu hiệu lần lượt thể hiện một biến thể của âm 't' cơ bản: 't', 'd', 'th' và 'dh'. Dấu hiệu thứ năm, *[númen](../N/Númen.md)*, đại diện cho 'n', và cuối cùng *[óre](../_/Óre.md)* biểu thị âm 'r' yếu.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 

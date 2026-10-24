@@ -28,7 +28,7 @@ Trong [*Etymologies*](../T/The_Etymologies.md), Noldorin *uial* được đề c
 ## Ví dụ {#Examples}
 
 - <i><a href="../A/Aelin-uial.md" title="Aelin-uial">Aelin-<b>uial</b></a></i> = "Meres of Twilight"
-- <i><a class="mw-redirect" href="../E/Emyn_Uial.md" title="Emyn Uial">Emyn <b>Uial</b></a></i> = "Những ngọn đồi của Evendim"
+- <i><a class="mw-redirect" href="../E/Emyn_Uial.md" title="Emyn Uial">Emyn <b>Uial</b></a></i> = "Đồi Evendim"
 - <i>Vui<b>uial</b></i> = "Chạng vạng Wood" (tên khác của [Nan Elmoth](../N/Nan_Elmoth.md))
 - <i><a class="mw-redirect" href="../N/Nenuial.md" title="Nenuial">Nen<b>uial</b></a></i> = "Hồ Evendim"
 

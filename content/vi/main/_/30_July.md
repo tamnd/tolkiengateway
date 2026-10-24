@@ -63,7 +63,7 @@ Sự kiện xảy ra vào ngày 30 tháng 7
 
 ## Trên Trái đất {#On_Earth}
 
-- **[1955](1955.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) tới Ý cùng [Priscilla Tolkien](../P/Priscilla_Tolkien.md).
+- **[1955](1955.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đi Ý cùng [Priscilla Tolkien](../P/Priscilla_Tolkien.md).
 - **[1988](1988.md)** - [Mythcon 19](../M/Mythcon_19.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Berkeley,_California" title="wikipedia:Berkeley, California">Berkeley</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/California" title="wikipedia:California">California</a>.
 - **[1989](1989.md)** - [Mythcon 20](../M/Mythcon_20.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_British_Columbia" title="wikipedia:University of British Columbia">Đại học British Columbia</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Vancouver" title="wikipedia:Vancouver">Vancouver</a>.
 - **[1993](1993.md)** - [Mythcon 24](../M/Mythcon_24.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Minnesota" title="wikipedia:University of Minnesota">Đại học Minnesota</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Minneapolis" title="wikipedia:Minneapolis">Minneapolis</a>.
@@ -76,7 +76,7 @@ Sự kiện xảy ra vào ngày 30 tháng 7
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Gandalf](../G/Gandalf.md) bị [Saruman](../S/Saruman.md) giam giữ trên đỉnh [Orthanc](../O/Orthanc.md).
+    - [Gandalf](../G/Gandalf.md) bị giam giữ bởi [Saruman](../S/Saruman.md) trên đỉnh của [Orthanc](../O/Orthanc.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - Đoàn tang lễ của vua [Théoden](../T/Théoden.md) đi về hướng [Edoras](../E/Edoras.md).
+    - Đoàn rước tang lễ của vua [Théoden](../T/Théoden.md) đi về hướng [Edoras](../E/Edoras.md).

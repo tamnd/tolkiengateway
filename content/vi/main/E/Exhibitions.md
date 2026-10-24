@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien exhibitions"
 ---
 
-Chuyển hướng đến [Triển lãm Tolkien](../T/Tolkien_exhibitions.md).
+Chuyển hướng đến [Tolkien triển lãm](../T/Tolkien_exhibitions.md).

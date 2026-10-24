@@ -33,16 +33,16 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Rhona Beare</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Born</th><td class="tg-infobox-data"><a href="../_/1935.md" title="1935">1935</a></td></tr><tr><th scope="row" class="tg-infobox-label">Died</th><td class="tg-infobox-data"><a href="../_/20_February.md" title="20 February">20 February</a> <a href="../_/2018.md" title="2018">2018</a></td></tr><tr><th scope="row" class="tg-infobox-label">Education</th><td class="tg-infobox-data">Exeter University</td></tr><tr><th scope="row" class="tg-infobox-label">Occupation</th><td class="tg-infobox-data">Academic, author</td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">England</td></tr></tbody></table>
 
-Tiến sĩ **Rhona Beare** ([1935](../_/1935.md)-[2018](../_/2018.md)), một tác giả và học giả người Anh, đã có thư từ với [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) trong thời gian học tại Đại học Exeter ([Thư 211](../L/Letter_211.md), [Thư 230](../L/Letter_230.md), [Thư 245](../L/Letter_245.md), hai trong số đó được xuất bản đầy đủ dưới dạng *[J.R.R. Tolkien's Letters to Rhona Beare](../J/J.R.R._Tolkien's_Letters_to_Rhona_Beare.md)*). Cuối cùng, cô chuyển đến Úc và trở thành Giảng viên môn Cổ điển tại Đại học Newcastle, New South Wales, nhưng trở lại Anh vào năm 2000.
+Tiến sĩ **Rhona Beare** ([1935](../_/1935.md)-[2018](../_/2018.md)), một tác giả và học giả người Anh, đã có thư từ với [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) trong thời gian cô theo học tại Đại học Exeter ([Thư 211](../L/Letter_211.md), [Thư 230](../L/Letter_230.md), [Thư 245](../L/Letter_245.md), hai trong số đó được xuất bản đầy đủ dưới dạng *[J.R.R. Tolkien's Letters to Rhona Beare](../J/J.R.R._Tolkien's_Letters_to_Rhona_Beare.md)*). Cuối cùng, cô chuyển đến Úc và trở thành Giảng viên môn Cổ điển tại Đại học Newcastle, New South Wales, nhưng trở lại Anh vào năm 2000.
 
-Khi ở Úc, Beare đã viết một số bài báo về Tolkien và [Charles Williams](../C/Charles_Williams.md) cho *[Mythlore](../M/Mythlore.md)*. Bà cũng đã dịch *[Songs for the Philologists](../S/Songs_for_the_Philologists.md)* của Tolkien.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Khi ở Úc, Beare đã viết một số bài viết về Tolkien và [Charles Williams](../C/Charles_Williams.md) cho *[Mythlore](../M/Mythlore.md)*. Bà cũng đã dịch *[Songs for the Philologists](../S/Songs_for_the_Philologists.md)* của Tolkien.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Thư mục, đã chọn {#Bibliography,_selected}
 
 ### Sách {#Books}
 
 - ([1985](../_/1985.md): *[J.R.R. Tolkien's Letters to Rhona Beare](../J/J.R.R._Tolkien's_Letters_to_Rhona_Beare.md)*)
-- [1999](../_/1999.md): [*J.R.R. Tolkien's* Đồng Silmarillion](../J/J.R.R._Tolkien's_The_Silmarillion.md)
+- [1999](../_/1999.md): [*J.R.R. Tolkien's* The Silmarillion](../J/J.R.R._Tolkien's_The_Silmarillion.md)
 
 ### Bài viết {#Articles}
 

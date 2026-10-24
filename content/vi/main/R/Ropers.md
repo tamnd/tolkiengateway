@@ -12,7 +12,7 @@ categories:
   - "Positions and occupations"
 ---
 
-**Người kéo dây** là những người có nghề nghiệp là tạo ra dây thừng. Mặc dù tất cả các chủng tộc chắc chắn đều có thợ làm dây thừng, nhưng ở [Lothlórien](../L/Lothlórien.md) [Yêu tinh](../E/Elves.md) đã sử dụng *[hithlain](../H/Hithlain.md)* để tạo ra một sợi dây cao cấp có màu xám và mượt khi chạm vào.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Ở [the Shire](../T/The_Shire.md), một số tổ tiên của [Samwise Gamgee](../S/Samwise_Gamgee.md) đã đảm nhận nghề làm dây thừng và thậm chí còn dùng từ "Roper" làm họ:<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Người kéo dây** là những người có nghề nghiệp là tạo ra dây thừng. Mặc dù tất cả các chủng tộc chắc chắn đều có thợ làm dây thừng, nhưng ở [Lothlórien](../L/Lothlórien.md) [Tiên tộc](../E/Elves.md) đã sử dụng *[hithlain](../H/Hithlain.md)* để tạo ra một sợi dây cao cấp có màu xám và mượt khi chạm vào.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Ở [các Shire](../T/The_Shire.md), một số tổ tiên của [Samwise Gamgee](../S/Samwise_Gamgee.md) đã theo nghề làm dây thừng và thậm chí còn sử dụng từ "Roper" làm họ:<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 1. [Hob Gammidge](../H/Hob_Gammidge.md) có biệt danh là "Người Roper".
 2. [Hobson](../H/Hobson.md) được biết đến với biệt danh "Roper Gamgee".

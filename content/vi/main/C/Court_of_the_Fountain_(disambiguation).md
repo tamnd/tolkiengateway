@@ -16,8 +16,8 @@ images:
 
 **Tòa án Đài phun nước** có thể tham khảo:
 
-- **[Tòa đài phun nước](<Court_of_the_Fountain_(Minas_Tirith).md>) ([Minas Tirith](../M/Minas_Tirith.md)), sân trước [Tháp Ecthelion](../T/Tower_of_Ecthelion.md) có [Cây trắng Gondor](../W/White_Tree_of_Gondor.md).**
-- [Tòa đài phun nước](../S/Square_of_the_Palace.md) ([Gondolin](../G/Gondolin.md)), sân phía trước [Tháp Turgon](../T/Tower_of_the_King.md) chứa [Glingal và Belthil](../G/Glingal_and_Belthil.md).
+- **[Sân Đài phun nước](<Court_of_the_Fountain_(Minas_Tirith).md>) ([Minas Tirith](../M/Minas_Tirith.md)), sân trước [Tháp Ecthelion](../T/Tower_of_Ecthelion.md) chứa [Cây Trắng của Gondor](../W/White_Tree_of_Gondor.md).**
+- [Sân Đài phun nước](../S/Square_of_the_Palace.md) ([Gondolin](../G/Gondolin.md)), sân trước [Tháp Turgon](../T/Tower_of_the_King.md) chứa [Glingal và Belthil](../G/Glingal_and_Belthil.md).
 
 <hr style="margin-top:15px;"/>
 

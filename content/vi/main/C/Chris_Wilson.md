@@ -18,7 +18,7 @@ sort_keys:
   "Folk music": "Wilson, Chris"
 ---
 
-**Chris Wilson** là một ca sĩ kiêm nhạc sĩ dân gian từng biểu diễn các buổi biểu diễn âm nhạc ở Thành phố New York vào những năm 1970 trong trang phục phù thủy và gọi tiết mục của mình là Gandalf the Grey. Ông đã phát hành một album trong [1972](../_/1972.md), <a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Grey_Wizard_Am_I&amp;action=edit&amp;redlink=1" title="The Grey Wizard Am I (page does not exist)">The Grey Wizard Am I</a>.
+**Chris Wilson** là một ca sĩ kiêm nhạc sĩ nhạc dân gian, người đã biểu diễn các buổi biểu diễn âm nhạc ở Thành phố New York vào những năm 1970 trong trang phục phù thủy và tự gọi mình là Gandalf the Grey. Ông đã phát hành một album trong [1972](../_/1972.md), <a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Grey_Wizard_Am_I&amp;action=edit&amp;redlink=1" title="The Grey Wizard Am I (page does not exist)">The Grey Pháp sư Am I</a>.
 
 ## Liên kết ngoài {#External_links}
 

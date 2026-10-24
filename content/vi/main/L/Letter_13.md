@@ -38,11 +38,11 @@ infobox:
 
 ## Nền {#Background}
 
-C.A. Furth của [Allen & Unwin](../A/Allen_&_Unwin.md) thông báo với Tolkien rằng "một trong những công ty xuất sắc của các nhà xuất bản Mỹ" ([Houghton Mifflin](../H/Houghton_Mifflin.md)) đã bày tỏ sự quan tâm đến *[The Hobbit](../T/The_Hobbit.md)* và đề nghị thuê "các nghệ sĩ giỏi của Mỹ" để cung cấp thêm các hình minh họa màu, nhưng Allen & Unwin muốn chúng do chính Tolkien thực hiện hơn.
+C.A. Furth của [Allen &amp; Unwin](../A/Allen_&_Unwin.md) thông báo cho Tolkien rằng "một trong những công ty xuất sắc của các nhà xuất bản Mỹ" ([Houghton Mifflin](../H/Houghton_Mifflin.md)) đã bày tỏ sự quan tâm đến *[The Hobbit](../T/The_Hobbit.md)* và đề nghị thuê "các nghệ sĩ giỏi của Mỹ" để cung cấp thêm các hình minh họa màu, nhưng Allen &amp; Unwin muốn chúng được thực hiện bởi chính Tolkien.
 
 ## Tóm tắt {#Summary}
 
-Tolkien hỏi tên các nhà xuất bản Mỹ và hỏi về việc thu xếp tài chính. Về những bức tranh minh họa bổ sung, ông đồng ý rằng mình nên vẽ chúng, cảm thấy những bức tranh chuyên nghiệp sẽ trông lạc lõng bên cạnh những "tác phẩm nghiệp dư" của chính ông. Tuy nhiên, vì đang là giữa nhiệm kỳ nên việc này sẽ mất một thời gian, và ông đã chỉ thị cho Allen & Unwin cho phép công ty Mỹ sản xuất các minh họa của riêng họ thay vì đánh mất sự quan tâm của họ do trì hoãn, với điều kiện là có thể "phủ quyết bất cứ điều gì từ hoặc bị ảnh hưởng bởi [hãng phim Disney](../T/The_Walt_Disney_Company.md) (đối với tất cả những tác phẩm của họ mà tôi thực sự ghê tởm)".
+Tolkien hỏi tên các nhà xuất bản Mỹ và hỏi về việc thu xếp tài chính. Về những bức tranh minh họa bổ sung, ông đồng ý rằng mình nên vẽ chúng, cảm thấy những bức tranh chuyên nghiệp sẽ trông lạc lõng bên cạnh những "tác phẩm nghiệp dư" của chính ông. Tuy nhiên, vì đang là giữa nhiệm kỳ nên việc này sẽ mất một thời gian, và ông đã chỉ thị Allen &amp; Unwin cho phép công ty Mỹ sản xuất các minh họa của riêng họ thay vì đánh mất sự quan tâm của họ do trì hoãn, với điều kiện là phải có thể "phủ quyết bất kỳ điều gì từ hoặc bị ảnh hưởng bởi [hãng phim Disney](../T/The_Walt_Disney_Company.md) (đối với tất cả những tác phẩm của họ mà tôi thực sự ghê tởm)".
 
 <br>
 

@@ -23,7 +23,7 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Aurelius_Pompen_27_September_1936.png.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b2/Aurelius_Pompen_27_September_1936.png/300px-Aurelius_Pompen_27_September_1936.png" decoding="async" loading="lazy" width="300" height="380" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/b/b2/Aurelius_Pompen_27_September_1936.png 1.5x" data-file-width="305" data-file-height="386"/></a><figcaption></figcaption></figure>
 
-Vào [27 tháng 9](../_/27_September.md) [1936](../_/1936.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) gửi Aurelius Pompen** (Giáo sư tiếng Anh tại <a class="extiw" href="http://en.wikipedia.org/wiki/Radboud_University_Nijmegen" title="wikipedia:Radboud University Nijmegen">Đại học Công giáo Nijmegen</a>).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Vào ngày [27 tháng Chín](../_/27_September.md) [1936](../_/1936.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho Aurelius Pompen** (Giáo sư tiếng Anh tại <a class="extiw" href="http://en.wikipedia.org/wiki/Radboud_University_Nijmegen" title="wikipedia:Radboud University Nijmegen">Đại học Công giáo Nijmegen</a>).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 - **Chủ đề:** Cuộc sống cá nhân.
 - **Xuất bản:** Không có.

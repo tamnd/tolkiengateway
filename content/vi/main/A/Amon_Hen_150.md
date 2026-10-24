@@ -45,7 +45,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/AmonHen150.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/a/a2/AmonHen150.jpg/320px-AmonHen150.jpg" decoding="async" loading="lazy" width="320" height="460" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/a2/AmonHen150.jpg/480px-AmonHen150.jpg 1.5x, https://tolkiengateway.net/w/images/a/a2/AmonHen150.jpg 2x" data-file-width="571" data-file-height="821"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Amon Hen 150</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Andrew McMurry</td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data">Howard Bates</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Printer</th><td class="tg-infobox-data">Centurian Press, Rickmansworth, UK</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">March <a href="../_/1998.md" title="1998">1998</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">A5 stapled paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">32</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0306-8781</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Amon_Hen_149.md" title="Amon Hen 149">Amon Hen 149</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Amon_Hen_151.md" title="Amon Hen 151">Amon Hen 151</a></td></tr></tbody></table>
 
-<b><i>Amon Hen</i> 150</b> là số thứ một trăm năm mươi của tạp chí hai tháng một lần của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, xuất bản vào tháng 3 [1998](../_/1998.md).
+<b><i>Amon Hen</i> 150</b> là số thứ một trăm năm mươi của tạp chí hai tháng một lần của [Hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, xuất bản vào tháng 3 [1998](../_/1998.md).
 
 ## Nội dung {#Contents}
 
@@ -57,7 +57,7 @@ infobox:
 - Thông báo
 - [Oxonmoot](../O/Oxonmoot.md) '98
     - Bởi: [Helen Armstrong](../H/Helen_Armstrong.md)
-- Thông báo bên bờ nước
+- Bywater Thông báo
     - Bởi: Malcolm Lindley
 - Bữa ăn tưởng niệm Lester Simons
     - Bởi: [Jonathan Simons](../J/Jonathan_Simons.md)
@@ -69,9 +69,9 @@ infobox:
 - Trang thư
 - Tác phẩm nghệ thuật: *The Faerie Lake*
     - Bởi: Howard J. Bates
-- Thư viện xã hội
+- Thư viện Hội
     - Bởi: [Sally Kennett](../S/Sally_Kennett.md)
-- Một nửa *Amon Hen* của Hildifons
+Một nửa của - Hildifons của *Amon Hen*
     - Bởi: [Gary Hunnewell](../S/Sumner_Gary_Hunnewell.md)
 - Tin từ miền Bắc
     - Bởi: Lucy Ritchie

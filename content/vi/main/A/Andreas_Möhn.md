@@ -22,25 +22,25 @@ sort_keys:
 
 **Andreas Möhn** (sinh [1964](../_/1964.md)) là nhà văn và biên tập viên tự do người Đức. Lần đầu tiên ông sử dụng bút danh "Lalaith"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và bây giờ sử dụng bút danh "Codex Regius" cùng với vợ mình, Metka Klemenčič.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Ông hiện diện trực tuyến liên quan đến việc nghiên cứu [Tolkien](../J/J.R.R._Tolkien.md)'s [Arda](Arda.md) bằng cách tham gia vào [Tolklang](../T/Tolklang.md) và <a class="new" href="https://tolkiengateway.net/w/index.php?title=Tolkien_Mailing_List&amp;action=edit&amp;redlink=1" title="Tolkien Mailing List (page does not exist)">Danh sách gửi thư của Tolkien</a>. Trang web của ông, <i><a class="external text" href="http://lalaithmesp.blogspot.com" rel="noreferrer noopener" target="_blank">Trang khoa học về Trung Địa của Lalaith</a></i>, tập trung vào các khía cạnh khó hiểu hơn của [huyền thoại](../L/Legendarium.md) và lý luận khoa học về một số thông tin mà Tolkien đưa ra. Các bài tiểu luận của ông liên quan đến [tiếng Mannish](../M/Mannish.md), tính toán lịch và các chủ đề địa lý khác nhau của [Arda](Arda.md).
+Ông hiện diện trực tuyến liên quan đến việc nghiên cứu [Arda](Arda.md) của [Tolkien](../J/J.R.R._Tolkien.md) bằng cách tham gia vào [Tolklang](../T/Tolklang.md) và <a class="new" href="https://tolkiengateway.net/w/index.php?title=Tolkien_Mailing_List&amp;action=edit&amp;redlink=1" title="Tolkien Mailing List (page does not exist)">Tolkien Danh sách gửi thư</a>. Trang web của ông, <i><a class="external text" href="http://lalaithmesp.blogspot.com" rel="noreferrer noopener" target="_blank">Trang khoa học Trung Địa của Lalaith</a></i>, tập trung vào các khía cạnh khó hiểu hơn của [huyền thoại](../L/Legendarium.md) và lý luận khoa học về một số thông tin Tolkien đưa ra. Các bài tiểu luận của ông liên quan đến [tiếng Mannish](../M/Mannish.md), tính toán lịch và các chủ đề địa lý khác nhau của [Arda](Arda.md).
 
-Vào tháng 10 [2014](../_/2014.md) một số bài viết đã bị xóa khỏi trang web và được cập nhật và cung cấp dưới dạng sách có thể mua được. Đến [2016](../_/2016.md) các Trang Khoa học đã được chuyển sang một trang khác dưới dạng bài viết blog. Nội dung các sách về Trung Địa phần lớn sao chép các bài viết từ trang Khoa học Trung Địa của Lalaith.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Vào tháng 10 [2014](../_/2014.md) một số bài viết đã bị xóa khỏi trang web và được cập nhật và cung cấp dưới dạng sách có thể mua được. Đến [2016](../_/2016.md) các Trang Khoa học đã được chuyển sang một trang khác dưới dạng bài viết blog. Nội dung các sách về Trung Địa sao chép phần lớn các bài viết từ trang Khoa học Trung Địa của Lalaith.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Thư mục {#Bibliography}
 
 - *Middle-earth seen by the barbarians*
 - *The Moon in ‘The Hobbit’*
-- *Từ ngữ phương Tây: Ngôn ngữ của con người và người Hobbit của Tolkien*
-- *Các triều đại ở Trung Địa: Các vị vua, lãnh chúa và các quý tộc khác từ Thời đại thứ nhất đến Thời đại thứ ba*
+- *Từ ngữ phương Tây: ngôn ngữ của Tolkien Con Người và Hobbit*
+- *Các triều đại Trung Địa: Các vị vua, lãnh chúa và các quý tộc khác từ sơ khai đến Kỷ Đệ Tam*
 
 ## Bài viết {#Articles}
 
-- *Dân bản địa Eriador và Gondor*, trong [Other Hands 16/15](../O/Other_Hands_15%252F16.md), tháng 1 năm 1997, trang 28–32
+- *Dân số bản địa của Eriador và Gondor*, trong [Các bàn tay khác 16/15](../O/Other_Hands_15%252F16.md), tháng 1 năm 1997, trang 28–32
 
 ## Liên kết ngoài {#External_links}
 
-- <b><a class="external text" href="http://lalaithmesp.blogspot.com" rel="noreferrer noopener" target="_blank">Trang khoa học về Trung Địa của Lalaith</a></b>
-- <a class="external text" href="https://www.amazon.fr/dp/B0C8BX25W4?binding=kindle_edition&amp;ref_=ast_author_bsi" rel="noreferrer noopener" target="_blank"><i>Sách của Bộ sưu tập Khoa học Trung Địa</i></a> trên amazon
+- <b><a class="external text" href="http://lalaithmesp.blogspot.com" rel="noreferrer noopener" target="_blank">Trang khoa học Trung Địa của Lalaith</a></b>
+Sách của - <a class="external text" href="https://www.amazon.fr/dp/B0C8BX25W4?binding=kindle_edition&amp;ref_=ast_author_bsi" rel="noreferrer noopener" target="_blank"><i>Trung Địa Bộ sưu tập Khoa học</i></a> trên amazon
 
 <span></span>
 

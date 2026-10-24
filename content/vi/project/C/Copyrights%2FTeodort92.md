@@ -16,9 +16,9 @@ images:
   - "Teodort92_artworks_permission_for_Tolkien_Gateway_September_2021_(AHG).png"
 ---
 
-- Teodort92 đã vui lòng cho phép ông sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Teodort92.md) trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
-- Ngày: 30 tháng 9 năm 2021
-- Người dùng đã xin phép thông qua DeviantArt: [A Hobbit Gentleman](https://tolkiengateway.net/wiki/User:A_Hobbit_Gentleman)
+- Teodort92 đã vui lòng cho phép ông sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Teodort92.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
+- Ngày: 30 tháng Chín năm 2021
+- Người dùng đã xin phép thông qua DeviantArt: [A Hobbit Quý ông](https://tolkiengateway.net/wiki/User:A_Hobbit_Gentleman)
 - Ảnh chụp màn hình bằng chứng về sự cho phép của tác giả:
 
 <ul class="gallery mw-gallery-packed-hover">

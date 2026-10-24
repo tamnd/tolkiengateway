@@ -36,7 +36,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tolkien_Calendar_2025.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/e/e7/Tolkien_Calendar_2025.jpg/320px-Tolkien_Calendar_2025.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e7/Tolkien_Calendar_2025.jpg/480px-Tolkien_Calendar_2025.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/e/e7/Tolkien_Calendar_2025.jpg/640px-Tolkien_Calendar_2025.jpg 2x" data-file-width="1232" data-file-height="1233"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Tolkien Calendar 2025</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="../J/John_Howe.md" title="John Howe">John Howe</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../H/HarperCollins.md" title="HarperCollins">HarperCollins</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/13_August.md" title="13 August">13 August</a> <a href="../_/2024.md" title="2024">2024</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Calendar</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">12</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/978-0063394223" title="Special:BookSources/978-0063394223">978-0063394223</a></td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Tolkien_Calendar_2024.md" title="Tolkien Calendar 2024">Tolkien Calendar 2024</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Tolkien_Calendar_2026.md" title="Tolkien Calendar 2026">Tolkien Calendar 2026</a></td></tr></tbody></table>
 
-<i><b>Lịch Tolkien 2025</b></i> là lịch Tolkien chính thức được xuất bản bởi [HarperCollins](../H/HarperCollins.md) vào [13 tháng 8](../_/13_August.md) [2024](../_/2024.md). Nó có tác phẩm nghệ thuật của [John Howe](../J/John_Howe.md), bao gồm cả hình minh họa mới. HarperCollins bắt đầu vận chuyển lịch mà không cần bọc nhựa.
+Lịch <i><b>Tolkien 2025</b></i> là lịch Tolkien chính thức được xuất bản bởi [HarperCollins](../H/HarperCollins.md) vào [13 tháng 8](../_/13_August.md) [2024](../_/2024.md). Nó có tác phẩm nghệ thuật của [John Howe](../J/John_Howe.md), bao gồm một hình minh họa mới. HarperCollins bắt đầu vận chuyển lịch không có màng bọc nhựa.
 
 ## Từ nhà xuất bản {#From_the_publisher}
 
@@ -47,15 +47,15 @@ infobox:
 
 ## Minh họa {#Illustrations}
 
-- Tháng 1 - "[Cánh cửa bóng đêm](../../file/J/John_Howe_-_The_Door_of_Night.jpg.md)"
+- Tháng 1 - "[Ngày Cánh Cửa Đêm](../../file/J/John_Howe_-_The_Door_of_Night.jpg.md)"
 - Tháng 2 - "[Cây cối bị tàn phá](../../file/J/John_Howe_-_The_Killing_of_the_Trees.jpg.md)"
 - Tháng 3 - "[Thangorodrim](../../file/J/John_Howe_-_Thangorodrim.jpg.md)"
-- Tháng 4 - "[Thử thách của Fingolfin](../../file/J/John_Howe_-_Fingolfin's_Challenge.jpg.md)"
-- Tháng 5 - "[Ulmo, Chúa tể của nước](../../file/J/John_Howe_-_Ulmo,_Lord_of_the_Waters.jpg.md)"
-- Tháng 6 - "[Lực lượng của Morgoth trước Gondolin](../../file/J/John_Howe_-_Morgoth's_Force_before_Gondolin.jpg.md)"
+- Tháng 4 - "Thử thách của [Fingolfin](../../file/J/John_Howe_-_Fingolfin's_Challenge.jpg.md)"
+- May - "[Ulmo, Chúa tể của nước](../../file/J/John_Howe_-_Ulmo,_Lord_of_the_Waters.jpg.md)"
+- Tháng 6 - "Lực lượng của [Morgoth trước Gondolin](../../file/J/John_Howe_-_Morgoth's_Force_before_Gondolin.jpg.md)"
 - Tháng 7 - "[Tháp Trắng Elwing](../../file/J/John_Howe_-_The_White_Tower_of_Elwing.jpg.md)"
 - Tháng 8 - "[Sự chết đuối của Anadûnê](../../file/J/John_Howe_-_The_Drowning_of_Anadûné.jpg.md)"
-- Tháng 9 - "[Gandalf trở lại Hobbiton](../../file/J/John_Howe_-_Gandalf_Returns_to_Hobbiton.jpg.md)"
+- tháng Chín - "[Gandalf Trở về Hobbiton](../../file/J/John_Howe_-_Gandalf_Returns_to_Hobbiton.jpg.md)"
 - Tháng 10 - "[Edoras](../../file/J/John_Howe_-_Edoras_01.jpg.md)"
 - Tháng 11 - "[Mûmak của Harad](../../file/J/John_Howe_-_The_Mumakil_of_Harad.jpg.md)"
 - Tháng 12 - "[Sự kết thúc của mọi thứ](../../file/J/John_Howe_-_The_End_of_All_Things.jpg.md)"
@@ -63,7 +63,7 @@ infobox:
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="https://www.harpercollins.com/products/tolkien-calendar-2025-j-r-r-tolkien?variant=41284444225570" rel="noreferrer noopener" target="_blank">Lịch Tolkien 2025</a> tại HarperCollins
+- <a class="external text" href="https://www.harpercollins.com/products/tolkien-calendar-2025-j-r-r-tolkien?variant=41284444225570" rel="noreferrer noopener" target="_blank">Tolkien Lịch 2025</a> lúc HarperCollins
 
 <table style="margin:0 auto;" class="collapsible toccolours" width="100%" align="center">
 <tbody><tr>

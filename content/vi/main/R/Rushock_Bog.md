@@ -33,11 +33,11 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Rushock_Bog.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/e/e9/The_Lord_of_the_Rings_Online_-_Rushock_Bog.jpg/320px-The_Lord_of_the_Rings_Online_-_Rushock_Bog.jpg" decoding="async" loading="lazy" width="320" height="180" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e9/The_Lord_of_the_Rings_Online_-_Rushock_Bog.jpg/480px-The_Lord_of_the_Rings_Online_-_Rushock_Bog.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/e/e9/The_Lord_of_the_Rings_Online_-_Rushock_Bog.jpg/640px-The_Lord_of_the_Rings_Online_-_Rushock_Bog.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>Rushock Bog in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Swamp</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Rushock Bog</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>General Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../T/The_Water.md" title="The Water">The Water</a>, <a href="../W/Westfarthing.md" title="Westfarthing">Westfarthing</a></td></tr><tr><th scope="row" class="tg-infobox-label">Type</th><td class="tg-infobox-data">Swamp</td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Rushock_Bog.md" title="Category:Images of Rushock Bog">Images of Rushock Bog</a></td></tr></tbody></table>
 
-**Rushock Bog** là một đầm lầy trên [The Water](../T/The_Water.md) ở [Westfarthing](../W/Westfarthing.md), phía nam [Needlehole](../N/Needlehole.md) và ở phía tây bắc [Hobbiton](../H/Hobbiton.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Rushock Bog** là một đầm lầy trên [The Water](../T/The_Water.md) ở [Westfarthing](../W/Westfarthing.md), phía nam [Needlehole](../N/Needlehole.md) và về phía tây bắc của [Hobbiton](../H/Hobbiton.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Theo Tolkien, cái tên này có nguồn gốc từ loài thực vật *rush*.<sup id="cite_ref-rc_2-0" class="reference"><a href="#cite_note-rc-2">[2]</a></sup> [David Salo](../D/David_Salo.md), cũng như Hammond và Scull, đã đề xuất một từ nguyên từ [tiếng Anh cổ](../O/Old_English.md) \**Ryscuc*/*rixuc* có nghĩa là "nơi vội vã, giường gấp".<sup id="cite_ref-rc_2-1" class="reference"><a href="#cite_note-rc-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Tuy nhiên, Tolkien đã đề xuất một cách khác có thể là từ ghép *rush* + *hassock* "cỏ thô".<sup id="cite_ref-rc_2-2" class="reference"><a href="#cite_note-rc-2">[2]</a></sup>
+Theo Tolkien, cái tên này có nguồn gốc từ loài thực vật *rush*.<sup id="cite_ref-rc_2-0" class="reference"><a href="#cite_note-rc-2">[2]</a></sup> [David Salo](../D/David_Salo.md), nhưng cũng có Hammond và Scull, đề xuất từ nguyên từ [tiếng Anh cổ](../O/Old_English.md) \**Ryscuc*/*rixuc* có nghĩa là "nơi vội vã, giường gấp".<sup id="cite_ref-rc_2-1" class="reference"><a href="#cite_note-rc-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Tuy nhiên Tolkien đề xuất một cách khác là một từ ghép có thể *rush* + *hassock* "thô" cỏ".<sup id="cite_ref-rc_2-2" class="reference"><a href="#cite_note-rc-2">[2]</a></sup>
 
 ## Cảm hứng {#Inspiration}
 
@@ -45,7 +45,7 @@ Có một ngôi làng <a class="extiw" href="http://en.wikipedia.org/wiki/Rushoc
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Rushock Bog lies to the south of <a href="../N/Needlehole.md" title="Needlehole">Needlehole</a> and to the east of <a href="../L/Little_Delving.md" title="Little Delving">Little Delving</a>.</dd></dl>
 

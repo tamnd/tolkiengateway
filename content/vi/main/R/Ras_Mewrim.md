@@ -20,9 +20,9 @@ langlinks:
     url: "https://kontu.wiki/Ras_Mewrim"
 ---
 
-**Ras Mewrim** là một mũi đất trên bờ biển phía tây nam của [Eglarest](../E/Eglarest.md), trên vùng đất của [Falas](../F/Falas.md) ở [Beleriand](../B/Beleriand.md).<sup id="cite_ref-WJBeleriand_1-0" class="reference"><a href="#cite_note-WJBeleriand-1">[1]</a></sup> Cái tên này chỉ xuất hiện trong phần bổ sung sau này của [Bản đồ 'Silmarillion' thứ hai](../T/The_Second_'Silmarillion'_Map.md).
+**Ras Mewrim** là một mũi đất trên bờ biển phía tây nam của [Eglarest](../E/Eglarest.md), thuộc vùng đất [Falas](../F/Falas.md) ở [Beleriand](../B/Beleriand.md).<sup id="cite_ref-WJBeleriand_1-0" class="reference"><a href="#cite_note-WJBeleriand-1">[1]</a></sup> Tên này chỉ xuất hiện trong các phần bổ sung sau này của [Bản đồ 'Silmarillion' thứ hai](../T/The_Second_'Silmarillion'_Map.md).
 
-**Bar-in-Mŷl**, "Ngôi nhà của [Gulls](../G/Gulls.md)", là tên gọi khác của mũi đất trong bài tiểu luận "[Quendi và Eldar](../Q/Quendi_and_Eldar.md)".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Tên đầu tiên được gõ là **Bar-in-Gwael**, nhưng sau đó Tolkien đã đổi thành *Bar-in-Mŷl* và thêm bản dịch.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+**Bar-in-Mŷl**, "Ngôi nhà của [Gulls](../G/Gulls.md)", là tên gọi khác của mũi đất trong bài tiểu luận "[Quendi and Eldar](../Q/Quendi_and_Eldar.md)".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Tên này được gõ đầu tiên **Bar-in-Gwael**, nhưng Tolkien sau đó đổi thành *Bar-in-Mŷl* và thêm bản dịch.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Languages of Tolkien's Middle-earth"
 ---
 
-Chuyển hướng đến [Ngôn ngữ của Trung Địa của Tolkien](The_Languages_of_Tolkien's_Middle-earth.md).
+Chuyển hướng đến [Ngôn ngữ của Trung Địa](The_Languages_of_Tolkien's_Middle-earth.md) của Tolkien.

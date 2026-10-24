@@ -14,18 +14,18 @@ images:
   - "Disambig.png"
 ---
 
-**Thời đại thứ ba** có thể đề cập đến:
+**Kỷ Đệ Tam** có thể đề cập đến:
 
-## Trung địa {#Middle-earth}
+## Trung Địa {#Middle-earth}
 
-- **[Thời đại thứ ba](Third_Age.md)**, thời đại giữa sự sụp đổ đầu tiên của [Sauron](../S/Sauron.md) và sự hủy diệt cuối cùng của hắn.
-    - [Bất kỳ năm nào trong Thời đại thứ ba](../../category/T/Third_Age_years.md).
+- **[Kỷ Đệ Tam](Third_Age.md)**, thời đại giữa sự sụp đổ đầu tiên của [Sauron](../S/Sauron.md) và sự hủy diệt cuối cùng của ông ta.
+    - [Bất kỳ năm nào trong Kỷ Đệ Tam](../../category/T/Third_Age_years.md).
 
 ## Sách {#Books}
 
 - *[Of the Rings of Power and the Third Age](../O/Of_the_Rings_of_Power_and_the_Third_Age.md)*, chương cuối cùng của *[The Silmarillion](The_Silmarillion.md)*.
 - *[The End of the Third Age](The_End_of_the_Third_Age.md)*, phiên bản ngắn của *[Sauron Defeated](../S/Sauron_Defeated.md)* tạo thành phần thứ tư và cuối cùng của *[The History of The Lord of the Rings](The_History_of_The_Lord_of_the_Rings.md)*.
-- Sự kết thúc của Thời đại thứ ba, được xuất bản thành Quyển VI trong một số ấn bản của *[The Lord of the Rings](The_Lord_of_the_Rings.md)*.
+- Sự kết thúc của Kỷ Đệ Tam, được xuất bản dưới dạng Quyển VI trong một số ấn bản của *[The Lord of the Rings](The_Lord_of_the_Rings.md)*.
 
 ## Các bản chuyển thể {#Adaptations}
 
@@ -37,7 +37,7 @@ images:
 
 ## Người và nhóm {#People_and_groups}
 
-- [Thời đại thứ ba (Cộng đồng mod)](<The_Third_Age_(Modding_Community).md>), một cộng đồng mod lớn lưu trữ các mod cho *[The Lord of the Rings: The Battle for Middle-earth Anthology](The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_Anthology.md)*
+- [ Kỷ Đệ Tam (Cộng đồng sửa đổi)](<The_Third_Age_(Modding_Community).md>), một cộng đồng sửa đổi lớn lưu trữ các bản sửa đổi cho *[The Lord of the Rings: The Battle for Middle-earth Anthology](The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_Anthology.md)*
 
 <hr style="margin-top:15px;"/>
 

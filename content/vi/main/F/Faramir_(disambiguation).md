@@ -27,14 +27,14 @@ images:
   - "Disambig.png"
 ---
 
-**Faramir** có thể tham khảo những điều sau:
+**Faramir** có thể tham khảo như sau:
 
-## Trung địa {#Middle-earth}
+## Trung Địa {#Middle-earth}
 
-- [Gelmir](<../G/Gelmir_(messenger_of_Círdan).md>), một [Noldorin](../N/Noldor.md) [Yêu tinh](../E/Elves.md) của [Thời đại thứ nhất](First_Age.md), người được đặt tên là *Faramir* trong bản tóm tắt cốt truyện của *[Narn](../N/Narn.md)*.
-- [Faramir](<Faramir_(son_of_Ondoher).md>) (chết [T.A.](../T/Third_Age.md) [1944](../T/Third_Age_1944.md)), con trai thứ hai của [Vua](../K/Kings_of_Gondor.md) [Ondoher](../O/Ondoher.md) của [Gondor](../G/Gondor.md), bị giết trong [Trận chiến trại](../B/Battle_of_the_Camp.md).
-- **[Faramir](Faramir.md) ([T.A.](../T/Third_Age.md) [2983](../T/Third_Age_2983.md) - [Fo.A.](Fourth_Age.md) [82](Fourth_Age_82.md)), con trai của [Denethor](../D/Denethor.md) và em trai của [Boromir](../B/Boromir.md), một anh hùng của [War of the Ring](../W/War_of_the_Ring.md).**
-- [Faramir Took I](Faramir_Took_I.md) (tên khai sinh là [Fo.A.](Fourth_Age.md) [9](Fourth_Age_9.md)), con trai của [Peregrin Took](../P/Peregrin_Took.md), người kế vị cha mình là [Thain](../T/Thain.md) của [Shire](../T/The_Shire.md).
+- [Gelmir](<../G/Gelmir_(messenger_of_Círdan).md>), một [Noldorin](../N/Noldor.md) [Tiên](../E/Elves.md) của [Kỷ Đệ Nhất](First_Age.md), người được đặt tên là *Faramir* trong bản tóm tắt cốt truyện của *[Narn](../N/Narn.md)*.
+- [Faramir](<Faramir_(son_of_Ondoher).md>) (chết [T.A.](../T/Third_Age.md) [1944](../T/Third_Age_1944.md)), con trai thứ hai của [Vua](../K/Kings_of_Gondor.md) [Ondoher](../O/Ondoher.md) của [Gondor](../G/Gondor.md), bị giết trong [Trận chiến trong trại](../B/Battle_of_the_Camp.md).
+- **[Faramir](Faramir.md) ([T.A.](../T/Third_Age.md) [2983](../T/Third_Age_2983.md) - [Kỷ Đệ Tứ](Fourth_Age.md) [82](Fourth_Age_82.md)), con trai của [Denethor](../D/Denethor.md) và em trai của [Boromir](../B/Boromir.md), một anh hùng của [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md).**
+- [Faramir Lấy tôi](Faramir_Took_I.md) (sinh ra [Kỷ Đệ Tứ](Fourth_Age.md) [9](Fourth_Age_9.md)), con trai của [Peregrin Took](../P/Peregrin_Took.md) người kế vị cha mình là [Thain](../T/Thain.md) của [người Shire](../T/The_Shire.md).
 
 ## Sách {#Books}
 
@@ -42,9 +42,9 @@ images:
 
 ## Các bản chuyển thể {#Adaptations}
 
-- [Faramir's Good Council](Faramir's_Good_Council.md), ca khúc thứ 31 của *[The Lord of the Rings: The Two Towers - The Complete Recordings](../T/The_Lord_of_the_Rings%253A_The_Two_Towers_-_The_Complete_Recordings.md)*.
+- [Faramir's Good Hội đồng](Faramir's_Good_Council.md), ca khúc thứ 31 của *[The Lord of the Rings: The Two Towers - The Complete Recordings](../T/The_Lord_of_the_Rings%253A_The_Two_Towers_-_The_Complete_Recordings.md)*.
 - [Sự hy sinh của Faramir](../T/The_Sacrifice_of_Faramir.md), một cảnh trong *[The Lord of the Rings: The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*.
-    - [Sự hy sinh của Faramir (nhạc phim)](<../T/The_Sacrifice_of_Faramir_(soundtrack).md>), bài hát thứ mười chín của *[The Lord of the Rings: The Return of the King - The Complete Recordings](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_-_The_Complete_Recordings.md)*.
+    - [Sự hy sinh của Faramir (nhạc phim)](<../T/The_Sacrifice_of_Faramir_(soundtrack).md>), ca khúc thứ mười chín của *[The Lord of the Rings: The Return of the King - The Complete Recordings](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_-_The_Complete_Recordings.md)*.
 
 <hr style="margin-top:15px;"/>
 

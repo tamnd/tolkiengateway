@@ -11,4 +11,4 @@ redirect_target: "Third Age 3002"
 redirect_fragment: "September"
 ---
 
-Chuyển hướng tới [Thời đại thứ ba 3002](../T/Third_Age_3002.md#September).
+Chuyển hướng tới [Kỷ Đệ Tam 3002](../T/Third_Age_3002.md#September).

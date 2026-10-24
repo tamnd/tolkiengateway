@@ -40,7 +40,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mallorn49.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/c/c1/Mallorn49.jpg/320px-Mallorn49.jpg" decoding="async" loading="lazy" width="320" height="453" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/c1/Mallorn49.jpg/480px-Mallorn49.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/c/c1/Mallorn49.jpg/640px-Mallorn49.jpg 2x" data-file-width="707" data-file-height="1000"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mallorn 49</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../H/Henry_Gee.md" title="Henry Gee">Henry Gee</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Printer</th><td class="tg-infobox-data"><a class="external text" href="http://www.printedword.co.uk/" rel="noreferrer noopener" target="_blank">The Printed Word</a>, Horsham, UK</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Spring <a href="../_/2010.md" title="2010">2010</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">A4 stapled paperback, glossy</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">52</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0308-6674</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mallorn_48.md" title="Mallorn 48">Mallorn 48</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mallorn_50.md" title="Mallorn 50">Mallorn 50</a></td></tr></tbody></table>
 
-<b><i>Mallorn</i> 49</b> là số thứ 49 của tạp chí hai năm một lần của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) *[Mallorn](<Mallorn_(journal).md>)*, xuất bản vào mùa xuân [2010](../_/2010.md).
+<b><i>Mallorn</i> 49</b> là số thứ 49 của tạp chí hai năm một lần của [Hội Tolkien](../T/The_Tolkien_Society.md) *[Mallorn](<Mallorn_(journal).md>)*, xuất bản vào mùa xuân [2010](../_/2010.md).
 
 ## Nội dung {#Contents}
 
@@ -57,7 +57,7 @@ infobox:
     - "Hình dáng của một câu chuyện": *Rhetorics of Fantasy*
         - Bởi: Chad Chisholm
     - "Ông già Noel thân mến": *[Letters from Father Christmas](../L/Letters_from_Father_Christmas.md)*
-        - Bởi: Mike Foster
+        - Bởi: Mike Austin Foster
     - "Hộp Pandora": *Avatar*
         - Bởi: James Bower
     - "Sâu trong rừng...": *[Born Of Hope](../B/Born_of_Hope.md)*
@@ -65,19 +65,19 @@ infobox:
     - "Cỏ cháy"
         - Bởi: John Gilbey
 - **Bình luận**
-    - "'Một cậu bé nông dân mù chữ' của 'nhân vật bẩn thỉu' - Shakespeare, Suffield và Tolkien"
+    - "'Một cậu bé nông dân mù chữ' của 'tính cách bẩn thỉu' - Shakespeare, Suffield và Tolkien"
         - Bởi: [Maggie Burns](Maggie_Burns.md)
     - "[Lewis](../C/C.S._Lewis.md) và [Tolkien](../J/J.R.R._Tolkien.md): cầu nối giữa các thế giới"
-        - Bởi: Mike Pueppke
-    - "Lời nói của [Húrin](../H/Húrin.md) và [Morgoth](Morgoth.md): thế giới vi mô, thế giới vĩ mô và huyền thoại sau này"
+        - Bởi: Mike Austin Pueppke
+    - "Lời của [Húrin](../H/Húrin.md) và [Morgoth](Morgoth.md): thế giới vi mô, vĩ mô và huyền thoại sau này"
         - Bởi: [Kristine Larsen](../K/Kristine_Larsen.md)
-    - "[Balrogs](../B/Balrogs.md): tồn tại và trở thành"
+    - "[Balrog](../B/Balrogs.md): tồn tại và trở thành"
         - Bởi: Alan Tierney
 - **Phỏng vấn**
-    - "Có ai đã xem [Sméagol](../S/Sméagol.md): Chris Bouchard"
+    - "Có ai xem [Sméagol](../S/Sméagol.md): Chris Bouchard"
         - Bởi: Colin Sullivan
 - **Thơ**
-    - "Tiêu diệt rồng"
+    - "Tiêu diệt Rồng"
         - Bởi: Tuilinde
     - "[Arwen](../A/Arwen.md)"
         - Bởi: Ben Gribbin
@@ -87,7 +87,7 @@ infobox:
     - "Kiến trúc sư của sự thờ ơ"
         - Bởi: Shelly Li
 - **Ồ, tôi đã quay lại đây**
-    - "Hai tiếng hoan hô cho khả năng áp dụng"
+    - "Hai lời chúc mừng cho khả năng áp dụng"
         - Bởi: Gareth Owens
 - **Bìa sau**
     - Bởi: Lorenzo Daniele
@@ -98,4 +98,4 @@ infobox:
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://journals.tolkiensociety.org/mallorn/issue/view/50/" rel="noreferrer noopener" target="_blank">Số này tại trang web của The Tolkien Society</a>
+- <a class="external text" href="http://journals.tolkiensociety.org/mallorn/issue/view/50/" rel="noreferrer noopener" target="_blank">Vấn đề này tại trang web Hội Tolkien</a>

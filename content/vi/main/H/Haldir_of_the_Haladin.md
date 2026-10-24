@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Haldir (Chieftain of Brethil)"
 ---
 
-Chuyển hướng đến [Haldir (Thủ lĩnh Brethil)](<Haldir_(Chieftain_of_Brethil).md>).
+Chuyển hướng đến [Haldir (Thủ lĩnh của Brethil)](<Haldir_(Chieftain_of_Brethil).md>).

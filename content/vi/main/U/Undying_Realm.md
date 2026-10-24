@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Valinor"
 ---
 
-Chuyển hướng tới [Valinor](../V/Valinor.md).
+Chuyển hướng đến [Valinor](../V/Valinor.md).

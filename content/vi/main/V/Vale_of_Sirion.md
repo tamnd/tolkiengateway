@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Vales of Sirion"
 ---
 
-Chuyển hướng tới [Vales of Sirion](Vales_of_Sirion.md).
+Chuyển hướng đến [Giá trị của Sirion](Vales_of_Sirion.md).

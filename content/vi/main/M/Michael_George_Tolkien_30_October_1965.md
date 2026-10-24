@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Michael George Tolkien (30 October 1965)"
 ---
 
-Chuyển hướng tới [Thư gửi Michael George Tolkien (30 tháng 10 năm 1965)](<../L/Letter_to_Michael_George_Tolkien_(30_October_1965).md>).
+Chuyển hướng đến [Thư gửi Michael George Tolkien (30 tháng 10 năm 1965)](<../L/Letter_to_Michael_George_Tolkien_(30_October_1965).md>).

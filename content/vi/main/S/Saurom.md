@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sauron"
 ---
 
-Chuyển hướng tới [Sauron](Sauron.md).
+Chuyển hướng đến [Sauron](Sauron.md).

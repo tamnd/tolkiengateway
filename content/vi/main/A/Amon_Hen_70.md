@@ -42,9 +42,9 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Amon_Hen_70.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b3/Amon_Hen_70.jpg/320px-Amon_Hen_70.jpg" decoding="async" loading="lazy" width="320" height="449" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b3/Amon_Hen_70.jpg/480px-Amon_Hen_70.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/b/b3/Amon_Hen_70.jpg/640px-Amon_Hen_70.jpg 2x" data-file-width="2094" data-file-height="2940"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Amon Hen 70</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Colin Davey</td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="../K/Kay_Woollard.md" title="Kay Woollard">Kay Woollard</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Printer</th><td class="tg-infobox-data">Hanway Print Centre, London</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">November <a href="../_/1984.md" title="1984">1984</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">A5 stapled paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">28</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0306-8781</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Amon_Hen_69.md" title="Amon Hen 69">Amon Hen 69</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Amon_Hen_71.md" title="Amon Hen 71">Amon Hen 71</a></td></tr></tbody></table>
 
-<b><i>Amon Hen</i> 70</b> là số thứ bảy mươi của tạp chí hai tháng một lần của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, xuất bản vào tháng 11 [1984](../_/1984.md).
+<b><i>Amon Hen</i> 70</b> là số thứ bảy mươi của tạp chí hai tháng một lần của [Hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, xuất bản vào tháng 11 [1984](../_/1984.md).
 
-[Bài viết "'Moria Gate'...Một cái nhìn khác" của Christopher Tolkien](../C/Christopher_Tolkien.md) có trích dẫn từ [một bức thư năm 1972 gửi Rayner Unwin](<../L/Letter_to_Rayner_Unwin_(12_October_1972).md>) từ [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Bài viết của [Christopher Tolkien](../C/Christopher_Tolkien.md)"'Moria Gate'...Một cái nhìn khác" bao gồm một trích dẫn từ [một bức thư năm 1972 gửi Rayner Unwin](<../L/Letter_to_Rayner_Unwin_(12_October_1972).md>) từ [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Nội dung {#Contents}
 
@@ -53,7 +53,7 @@ infobox:
 - Nội dung
 - Biên tập
     - Bởi: Colin Davey
-- "'Cổng Moria'...Một cái nhìn khác"
+- "'Moria Cổng'...Một cái nhìn khác"
     - Bởi: [Christopher Tolkien](../C/Christopher_Tolkien.md)
 - Cuộc thi trao giải
 - Thông báo
@@ -64,14 +64,14 @@ infobox:
     - Bởi: Clent Entwood
 - Những chiếc nhẫn bị thiếu
     - Bởi: Dylan Pugh
-- Truyện dân gian
+- Truyện dân ca
 - Hãy mỉm cười
 - Thư
 - Góc của Jessica
     - Bởi: Jessica Yates
 - Các loại của Anne
     - Bởi: Anne Haward
-- Máy ép nhỏ
+- Báo chí nhỏ
     - Bởi: Anne Haward
 
 <div class="template-prevnext"><div class="template-prevnext__prev template-prevnext__link"><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/8/81/WikimediaUI-ArrowPrevious-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__content"><div class="template-prevnext__title">Amon Hen 69</div></div><div class="template-prevnext__linkoverlay"><a href="Amon_Hen_69.md" title="Amon Hen 69">Amon Hen 69</a></div></div><div class="template-prevnext__current"><div class="template-prevnext__content"><div class="template-prevnext__title">Amon Hen 70</div></div></div><div class="template-prevnext__next template-prevnext__link"><div class="template-prevnext__content"><div class="template-prevnext__title">Amon Hen 71</div></div><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/7b/WikimediaUI-ArrowNext-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__linkoverlay"><a href="Amon_Hen_71.md" title="Amon Hen 71">Amon Hen 71</a></div></div></div>

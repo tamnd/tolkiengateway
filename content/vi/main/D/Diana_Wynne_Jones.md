@@ -27,7 +27,7 @@ Vào [1953](../_/1953.md), Jones bắt đầu học tiếng Anh tại St Anne's 
 </p>
 </blockquote>
 
-[Tom Shippey](../T/Tom_Shippey.md) đã nhận xét rằng bài viết [1983](../_/1983.md) của Jones "Hình dạng của câu chuyện trong *The Lord of the Rings*" (mà ông mô tả là phân tích về tác phẩm đó là "một chuỗi các chuyển động, mỗi chuyển động có coda riêng") nói nhiều hơn về câu chuyện của *The Lord of the Rings* "so với, tôi nghi ngờ, Tolkien có thể làm được".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+[Tom Shippey](../T/Tom_Shippey.md) đã nhận xét rằng bài viết [1983](../_/1983.md) của Jones "Hình dạng của câu chuyện trong *The Lord of the Rings*" (mà ông mô tả là phân tích tác phẩm đó là "một chuỗi các chuyển động, mỗi chuyển động có coda riêng") nói nhiều hơn về câu chuyện của *The Lord of the Rings* "hơn là, tôi nghi ngờ, Tolkien có thể".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Thư mục, đã chọn {#Bibliography,_selected}
 
@@ -43,7 +43,7 @@ Vào [1953](../_/1953.md), Jones bắt đầu học tiếng Anh tại St Anne's 
 ## Liên kết ngoài {#External_links}
 
 - <a class="extiw" href="http://en.wikipedia.org/wiki/Diana_Wynne_Jones" title="wikipedia:Diana Wynne Jones">Diana Wynne Jones</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
-- <a class="external text" href="http://www.lotrplaza.com/forum/forum_posts.asp?TID=244508" rel="noreferrer noopener" target="_blank">Diana Wynne Jones</a> tại <a class="external text" href="http://www.lotrplaza.com/forum/default.asp" rel="noreferrer noopener" target="_blank"><i>Chúa tể của những chiếc nhẫn</i> Fanatics Plaza</a>
+- <a class="external text" href="http://www.lotrplaza.com/forum/forum_posts.asp?TID=244508" rel="noreferrer noopener" target="_blank">Diana Wynne Jones</a> tại <a class="external text" href="http://www.lotrplaza.com/forum/default.asp" rel="noreferrer noopener" target="_blank"><i>The Lord of the Rings</i> Fanatics Plaza</a>
 
 <span></span>
 

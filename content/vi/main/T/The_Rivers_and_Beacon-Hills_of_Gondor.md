@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Rivers and Beacon-hills of Gondor"
 ---
 
-Chuyển hướng tới [Những dòng sông và ngọn đồi báo hiệu của Gondor](The_Rivers_and_Beacon-hills_of_Gondor~21248.md).
+Chuyển hướng đến [Những dòng sông và ngọn đồi báo hiệu của Gondor](The_Rivers_and_Beacon-hills_of_Gondor~21248.md).

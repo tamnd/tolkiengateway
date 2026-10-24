@@ -37,6 +37,6 @@ infobox:
 
 ## Nội dung thẻ {#Card_text}
 
-<i><b>Duy nhất.</b></i> Ảnh hưởng trực tiếp +7 chỉ có thể sử dụng được đối với [Aragorn II](METW%253A_Aragorn_II.md).
+<i><b>Duy nhất.</b></i> +7 ảnh hưởng trực tiếp chỉ có thể sử dụng được đối với [Aragorn II](METW%253A_Aragorn_II.md).
 
 *"Những bím tóc đen của bà không hề bị sương giá chạm vào; đôi tay trắng và khuôn mặt trong sáng của bà hoàn hảo và mịn màng, và ánh sáng của những vì sao trong mắt bà...bà có vẻ ngoài nữ hoàng, và suy nghĩ và kiến ​​thức hiện hữu trong ánh mắt bà..."* <i><b>-<a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">LotRII</a></b></i>

@@ -15,13 +15,13 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-**Bent World** là cái tên mô tả tình trạng của [Arda](../A/Arda.md) sau sự tàn phá của [Númenor](../N/Númenor.md) và việc loại bỏ [Valinor](../V/Valinor.md) vào cuối [Thời đại thứ hai](../S/Second_Age.md);<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> sau đó, thế giới được tạo thành 'bẻ cong' (hoặc 'tròn') và chỉ [Yêu tinh](../E/Elves.md) vẫn có thể đi theo [Con đường thẳng](../S/Straight_Road.md) tới [Vùng đất bất diệt](../U/Undying_Lands.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Bent World** là tên mô tả tình trạng của [Arda](../A/Arda.md) sau khi [Númenor](../N/Númenor.md) bị phá hủy và [Valinor](../V/Valinor.md) bị loại bỏ vào cuối [Kỷ Đệ Nhị](../S/Second_Age.md);<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> sau đó, thế giới đã bị 'uốn cong' (hoặc 'tròn') và chỉ [Tiên tộc](../E/Elves.md) vẫn có thể theo [Con Đường Thẳng](../S/Straight_Road.md) đến [Vùng Đất Bất Tử](../U/Undying_Lands.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">See also: <a class="mw-redirect" href="../R/Round_World_version_of_the_Silmarillion.md" title="Round World version of the Silmarillion">Round World version of the Silmarillion</a></div></div>
 
-Trong các bài viết của Tolkien được xuất bản trong các tập sau của *[The History of Middle-earth](../T/The_History_of_Middle-earth.md)*, Arda ngay từ đầu đã là một thế giới hình tròn, và ý tưởng về một thế giới phẳng thay vào đó là một phát minh của người Númenóreans. Do đó, trong câu chuyện thay thế này, thế giới sẽ không cần phải bị bẻ cong vào thời điểm Númenor sụp đổ và Aman bị loại khỏi thế giới vật chất.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup> <span></span>
+Trong các bài viết của Tolkien được xuất bản trong các tập sau của *[The History of Middle-earth](../T/The_History_of_Middle-earth.md)*, Arda ngay từ đầu đã là một thế giới tròn, và ý tưởng về một thế giới phẳng thay vào đó là một phát minh của người Númenor. Do đó, trong tài khoản thay thế này, thế giới sẽ không cần phải bị bẻ cong vào thời điểm Númenor sụp đổ và Aman bị loại khỏi thế giới vật chất.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

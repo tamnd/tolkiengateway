@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Black Speech"
 ---
 
-Chuyển hướng đến [Bài phát biểu của người da đen](Black_Speech.md).
+Chuyển hướng đến [Hắc Ngữ](Black_Speech.md).

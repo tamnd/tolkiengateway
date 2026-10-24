@@ -35,13 +35,13 @@ infobox:
 ## Nội dung {#Contents}
 
 - Biên tập: Arnor... Với sự báo thù - [Chris Seeman](../C/Chris_Seeman.md)
-- Truyền thông - Trường Nghiên cứu Yêu tinh, Hiệp hội Bạn bè của Tolkien ở Pháp
+- Truyền thông - Trường Nghiên cứu Tiên, Hội Bạn bè Tolkien tại Pháp
 - Bàn tay kỹ thuật số - Fredrik Ekman
 - Quá trình tạo nên Arnor: Cuộc trò chuyện với Wesley J. Frank - [Chris Seeman](../C/Chris_Seeman.md)
-- Những người hầu của Angmar - Wesley J. Frank
+- Người hầu của Angmar - Wesley J. Frank
 - Vua ăn mày của Tharbad - Sam Daish
-- Cuộc đời của một chú chó - Sam Daish
-- Dân tộc Eriador trong Thời đại thứ hai - [Michael Martinez](../M/Michael_Martinez.md)
+- Đời của một chú chó - Sam Daish
+- Các dân tộc Eriador ở Kỷ Đệ Nhị - [Michael Martinez](../M/Michael_Martinez.md)
 - Dân số bản địa Eriador và Gondor - [Andreas Möhn](../A/Andreas_Möhn.md)
-- Đánh giá sản phẩm: Trung Địa: Những chú rồng - Marco Antonio Blanco Navarrete
-- Đánh giá sản phẩm: Trung địa: Phù thủy - Marco Antonio Blanco Navarrete
+- Đánh giá sản phẩm: Trung Địa: The Rồng - Marco Antonio Blanco Navarrete
+- Đánh giá sản phẩm: Trung Địa: The Pháp sư - Marco Antonio Blanco Navarrete

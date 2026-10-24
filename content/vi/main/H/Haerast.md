@@ -23,7 +23,7 @@ langlinks:
     url: "https://kontu.wiki/Haerast"
 ---
 
-**Haerast**, **Far Shore**, dùng để chỉ bờ biển phía đông bắc của [Aman](../A/Aman.md) (cụ thể là [Araman](../A/Araman.md)) khi nhìn từ [Nevrast](../N/Nevrast.md) băng qua [Belegaer](../B/Belegaer.md). Haerast đối lập với Nevrast, Bờ biển Hither của [Beleriand](../B/Beleriand.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Haerast**, **Bờ biển xa**, đề cập đến bờ biển phía đông bắc của [Aman](../A/Aman.md) (cụ thể là [Araman](../A/Araman.md)) khi nhìn từ [Nevrast](../N/Nevrast.md) qua [Belegaer](../B/Belegaer.md). Haerast đối lập với Nevrast, Bờ biển này của [Beleriand](../B/Beleriand.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -34,7 +34,7 @@ Bản thân những từ này chưa được chứng thực trong [canon](../C/C
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Tên này được đặt theo quan điểm của một người nói tiếng Sindarin, sống ở Beleriand và rõ ràng đó không phải là tên bản địa của người Amanian/Valinorean.</span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Tên được đặt theo quan điểm của một người nói Sindarin, sống ở Beleriand và rõ ràng đó không phải là tên bản địa của người Amanian/Valinorean.</span>
 </li>
 </ol></div></span>
 

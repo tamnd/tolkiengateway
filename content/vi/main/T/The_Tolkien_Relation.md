@@ -36,16 +36,16 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tolkien_relation.jpg.md"><img src="https://tolkiengateway.net/w/images/9/91/Tolkien_relation.jpg" decoding="async" loading="lazy" width="181" height="298" class="mw-file-element" data-file-width="181" data-file-height="298"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Tolkien Relation</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a href="../W/William_Ready.md" title="William Ready">William Ready</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Regnery Co., Copp Clark, Warner Books</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">May <a href="../_/1968.md" title="1968">1968</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Hardcover, also paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">184</td></tr></tbody></table>
 
-<i><b>Mối quan hệ Tolkien: Câu hỏi cá nhân</b></i> là cuốn sách của [William Ready](../W/William_Ready.md), cựu Giám đốc Thư viện tại [Đại học Marquette](../M/Marquette_University.md). Ấn bản bìa mềm của [1969](../_/1969.md) đã được đổi tên thành <b>Tìm hiểu Tolkien và <i>Chúa tể của những chiếc nhẫn</i></b>.<sup id="cite_ref-Ake_1-0" class="reference"><a href="#cite_note-Ake-1">[1]</a></sup>
+<i><b>The Tolkien Mối quan hệ: Một câu hỏi cá nhân</b></i> là cuốn sách của [William Ready](../W/William_Ready.md), cựu Giám đốc Thư viện tại [Đại học Marquette](../M/Marquette_University.md). Ấn bản bìa mềm của [1969](../_/1969.md) được đổi tên thành <b>Hiểu Tolkien và <i>The Lord of the Rings</i></b>.<sup id="cite_ref-Ake_1-0" class="reference"><a href="#cite_note-Ake-1">[1]</a></sup>
 
 Cuốn sách bao gồm các đoạn trích từ những bức thư gửi cho William Ready của cả [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và con trai ông [Christopher](../C/Christopher_Tolkien.md), cũng như một số trích dẫn không được ghi nguồn. Đặc biệt xem trang 55–56 và 57-60 (ấn bản đầu tiên).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Nội dung {#Contents}
 
 1. Chu kỳ đầu
-2. Những điều mơ hồ và huyền thoại
+2. Sự Inklings và huyền thoại
 3. Những ngày của Dons
-4. Người Hobbit ở Tolkien
+4. Những người Hobbit của Tolkien
 5. Câu chuyện về chiếc nhẫn
 6. Thủ công và nghệ thuật
 7. Người đàn ông cho Tolkien
@@ -62,7 +62,7 @@ Cuốn sách bao gồm các đoạn trích từ những bức thư gửi cho Wil
 
 - [Thư gửi Dick Plotz (8 tháng 4 năm 1968)](<../L/Letter_to_Dick_Plotz_(8_April_1968).md>)
 - [Vị trí 1](../L/Locus_1.md)
-- [Thư gửi William Ready (9 tháng 6 năm 1957)](<../L/Letter_to_William_Ready_(9_June_1957).md>)
+- [Thư gửi William Ready (ngày 9 tháng 6 năm 1957)](<../L/Letter_to_William_Ready_(9_June_1957).md>)
 
 ## Liên kết ngoài {#External_links}
 

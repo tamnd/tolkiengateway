@@ -36,16 +36,16 @@ infobox:
 
 ## Tổng quan {#Overview}
 
-Năm 1964, Tolkien được yêu cầu viết lời tựa cho ấn bản Mỹ truyện ngắn *The Golden Key* của MacDonald. Trong khi nhận hoa hồng, vì lý do rằng ông nghĩ "rất hay về câu chuyện này của mình", Tolkien chưa bao giờ đọc xong lời nói đầu, và viết trong một lá thư gửi cho các nhà xuất bản rằng "Tôi không phải là một người ngưỡng mộ George MacDonald nồng nhiệt như C.S. Lewis".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Năm 1964, Tolkien được yêu cầu viết lời tựa cho một ấn bản Mỹ truyện ngắn *The Golden Key* của MacDonald. Khi nhận hoa hồng, với lý do là "rất hay về câu chuyện này của ông", Tolkien chưa bao giờ đọc xong lời tựa, và viết trong một lá thư gửi nhà xuất bản rằng "Tôi không phải là một người ngưỡng mộ George MacDonald nồng nhiệt như C.S. Lewis".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Trong "Cuộc phỏng vấn với Tolkien", Henry Resnick (Niekas Issue 18, 1967) Tolkien đã nói:
+Trong "Phỏng vấn với Tolkien", Henry Resnick (Niekas Số 18, 1967) Tolkien đã nói:
 
 <blockquote class="tg-quote noexcerpt">
 <p>As a matter of fact, insofar as... without harping or preaching on the side of various rather old-fashioned things like humility, valor, and so on... and courage, you can carry [on] those over and I think it has rather an effect on people — young folks are ready in their attitudes to rather be changed. But I didn&#39;t intend these things, because I didn&#39;t write it for children. That&#39;s why I don&#39;t like George MacDonald very much; he&#39;s a horrible old grandmother. That&#39;s a very find woman figure, of course, really — the Queen is rather a mother.
 </p>
 </blockquote>
 
-[Wayne G. Hammond](../W/Wayne_G._Hammond.md) và [Christina Scull](../C/Christina_Scull.md) đã lập luận rằng Tolkien, khi đọc lại *The Golden Key* và các tác phẩm khác của MacDonald để chuẩn bị cho lời nói đầu, dường như đã xem xét lại sự ngưỡng mộ trước đây của mình với lý do rằng các câu chuyện thường có giọng kể của người kể chuyện và quá nhiều bài giảng đạo đức gợi nhớ đến phong cách văn học của *[The Hobbit](The_Hobbit.md)* (một phong cách mà sau này Tolkien đã hối hận) cuộc sống). Hammond và Scull trích dẫn thêm từ một bản thảo, được lưu giữ tại [Thư viện Bodleian](../B/Bodleian_Library.md), nơi Tolkien viết rằng "một ký ức có tính chọn lọc cao chỉ giữ lại một vài ấn tượng về những điều khiến tôi cảm động và việc đọc lại G\[eorge\] M\[acDonald\] khiến tôi rất chán ghét".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+[Wayne G. Hammond](../W/Wayne_G._Hammond.md) và [Christina Scull](../C/Christina_Scull.md) đã lập luận rằng Tolkien, khi đọc lại *The Golden Key* và các tác phẩm khác của MacDonald để chuẩn bị cho lời nói đầu, rõ ràng đã xem xét lại sự ngưỡng mộ trước đây của mình với lý do rằng các câu chuyện thường có giọng kể của người kể chuyện và quá nhiều bài giảng đạo đức gợi nhớ đến phong cách văn học của *[The Hobbit](The_Hobbit.md)* (một phong cách mà Tolkien sau này phải hối hận). Hammond và Scull trích dẫn thêm từ một bản thảo, được lưu giữ tại [Thư viện Bodleian](../B/Bodleian_Library.md), trong đó Tolkien viết rằng "một ký ức có tính chọn lọc cao chỉ giữ lại một vài ấn tượng về những điều khiến tôi cảm động và việc đọc lại G\[eorge\] M\[acDonald\] khiến tôi cảm thấy khó chịu".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Tóm tắt {#Synopsis}
 

@@ -15,7 +15,7 @@ sort_keys:
   "Quenya nouns": "Ehtar"
 ---
 
-<i><b>Ehtar</b></i> là [Quenya](../Q/Quenya.md) có nghĩa là "người cầm giáo".<sup id="cite_ref-EK_1-0" class="reference"><a href="#cite_note-EK-1">[1]</a></sup>
+<i><b>Ehtar</b></i> là [Quenya](../Q/Quenya.md) dành cho "người cầm giáo".<sup id="cite_ref-EK_1-0" class="reference"><a href="#cite_note-EK-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

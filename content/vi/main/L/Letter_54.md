@@ -34,15 +34,15 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Hãy nhớ đến thiên thần hộ mệnh của bạn, Tolkien khuyên nhủ, bà không phải là một quý cô bụ bẫm với đôi cánh thiên nga! Là những sinh vật có ý chí tự do, chúng ta có thể đối mặt với Chúa nhưng Ngài cũng ở phía sau để hỗ trợ và nuôi dưỡng chúng ta, và thiên thần đã ở đó để giúp đỡ.
+Hãy nhớ đến thiên thần hộ mệnh của bạn, đã khuyên nhủ Tolkien, bà không phải là một quý cô bụ bẫm với đôi cánh thiên nga! Là những sinh vật có ý chí tự do, chúng ta có thể đối mặt với Chúa nhưng Ngài cũng ở phía sau để hỗ trợ và nuôi dưỡng chúng ta, và thiên thần đã ở đó để giúp đỡ.
 
-Tolkien khuyên Christopher nên tạo thói quen "khen ngợi", mà ông đã sử dụng bằng [tiếng Latinh](Latin.md), liệt kê những câu ông yêu thích.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup>
+Tolkien đề nghị Christopher tạo thói quen "khen ngợi", mà ông đã sử dụng bằng [tiếng Latinh](Latin.md), liệt kê những câu ông yêu thích.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup>
 
 <dl><dt>In the expanded edition</dt></dl>
 
-Ở đoạn đầu, Tolkien gửi lời chúc tốt lành đến Christopher trước thời điểm khó khăn, đồng thời khuyên anh hãy kiên trì thực hành cầu nguyện.
+Đoạn mở đầu Tolkien gửi lời chúc tốt đẹp đến Christopher trước thời điểm khó khăn và khuyên anh hãy kiên trì thực hành cầu nguyện.
 
-Trong đoạn cuối Tolkien trích dẫn Thi thiên 116 bằng tiếng Latinh:
+Ở đoạn cuối Tolkien trích dẫn Thánh vịnh 116 bằng tiếng Latinh:
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
 <p>Laudate Dominum omnes gentes:<br/>

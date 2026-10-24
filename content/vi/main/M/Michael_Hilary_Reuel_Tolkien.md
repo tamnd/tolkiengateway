@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Michael Tolkien"
 ---
 
-Chuyển hướng tới [Michael Tolkien](Michael_Tolkien.md).
+Chuyển hướng đến [Michael Tolkien](Michael_Tolkien.md).

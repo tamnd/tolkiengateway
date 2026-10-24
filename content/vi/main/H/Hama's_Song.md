@@ -43,7 +43,7 @@ infobox:
 
 **Bài hát của Hama** là bài hát thứ hai trong [*The Lord of the Rings: The War of the Rohirrim* (Original Motion Picture Soundtrack)](<../T/The_Lord_of_the_Rings%253A_The_War_of_the_Rohirrim_(Original_Motion_Picture_Soundtrack).md>) của [Stephen Gallagher](../S/Stephen_Gallagher.md).
 
-Trong phim, đó là bài hát được hát bởi [Háma](<Háma_(son_of_Helm).md>), con trai của [Helm](Helm.md), về em gái [Héra](Helm's_daughter.md) của anh. Bài hát được Háma kết thúc sớm khi Héra bước vào. Nó được hát bởi diễn viên lồng tiếng của Háma, <a class="new" href="https://tolkiengateway.net/w/index.php?title=Yazdan_Qafouri&amp;action=edit&amp;redlink=1" title="Yazdan Qafouri (page does not exist)">Yazdan Qafouri</a>.
+Trong phim, đó là bài hát được hát bởi [Háma](<Háma_(son_of_Helm).md>), con trai của [Helm](Helm.md), về em gái [Héra](Helm's_daughter.md) của mình. Bài hát được Háma kết thúc sớm khi Héra bước vào. Nó được hát bởi diễn viên lồng tiếng của Háma, <a class="new" href="https://tolkiengateway.net/w/index.php?title=Yazdan_Qafouri&amp;action=edit&amp;redlink=1" title="Yazdan Qafouri (page does not exist)">Yazdan Qafouri</a>.
 
 Dòng đầu tiên bắt nguồn từ *[The Two Towers](../T/The_Two_Towers.md)*, *[Where now the horse and the rider? Where is the horn that was blowing?](../L/Lament_for_the_Rohirrim.md)*, cụ thể hơn là chuyển thể từ *[The Lord of the Rings: The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)*, ở đâu nó được hiển thị là "Con ngựa và Người cưỡi ngựa ở đâu?".
 

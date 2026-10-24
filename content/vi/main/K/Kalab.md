@@ -16,13 +16,13 @@ hidden_categories:
   - "Pages with short description"
 ---
 
-**kalab** là một động từ gốc [Adûnaic](../A/Adûnaic.md) có nghĩa là "ngã xuống" hoặc "nghiêng người".
+**kalab** là gốc động từ [Adûnaic](../A/Adûnaic.md) có nghĩa là "ngã xuống" hoặc "nghiêng người".
 
 ## Ví dụ {#Example}
 
-- [Akallabêth](../A/Akallabêth.md), "bà đã sa ngã"
+- [Akallabêth](../A/Akallabêth.md), "bà đã ngã"
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Yakalubim&amp;action=edit&amp;redlink=1" title="Yakalubim (page does not exist)">yakalubim</a> "họ nghiêng người"
 
 ## Tài liệu tham khảo {#References}
 
-- <a class="external text" href="http://lalaith.vpsurf.de/Tolkien/Fr_Atani.html" rel="noreferrer noopener" target="_blank">Từ nguyên của Lalaith đối với các ngôn ngữ Atani</a>
+- <a class="external text" href="http://lalaith.vpsurf.de/Tolkien/Fr_Atani.html" rel="noreferrer noopener" target="_blank">Lalaith's Etymologies sang Atani ngôn ngữ</a>

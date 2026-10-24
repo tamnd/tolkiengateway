@@ -23,11 +23,11 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><i><a href="../T/The_Letters_of_J.R.R._Tolkien.md" title="The Letters of J.R.R. Tolkien">The Letters of J.R.R. Tolkien</a></i></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Letter 188a</span></th></tr><tr><th scope="row" class="tg-infobox-label">Recipient</th><td class="tg-infobox-data"><a class="extiw" href="http://en.wikipedia.org/wiki/Hugh_Brogan" title="wikipedia:Hugh Brogan">Hugh Brogan</a></td></tr><tr><th scope="row" class="tg-infobox-label">Date</th><td class="tg-infobox-data"><a href="../_/3_April.md" title="3 April">3 April</a> <a href="../_/1956.md" title="1956">1956</a></td></tr></tbody></table>
 
-**Thư 188a** là lá thư được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và đăng trên *[The Letters of J.R.R. Tolkien: Revised and Expanded edition](../T/The_Letters_of_J.R.R._Tolkien.md#Revised_and_Expanded_edition)*.
+**Thư 188a** là bức thư được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và đăng trên *[The Letters of J.R.R. Tolkien: Revised and Expanded edition](../T/The_Letters_of_J.R.R._Tolkien.md#Revised_and_Expanded_edition)*.
 
 ## Tóm tắt {#Summary}
 
-Trong bức thư ngắn gọn này, Tolkien gửi lời mời tới <a class="extiw" href="http://en.wikipedia.org/wiki/Hugh_Brogan" title="wikipedia:Hugh Brogan">Hugh Brogan</a>, bày tỏ sự sẵn lòng gặp mặt ông. Tolkien so sánh chuyến thăm của Brogan với việc "trở lại [Shire](../T/The_Shire.md)", cho thấy chuyến thăm này có thể mang lại cảm giác hoài niệm nhưng cũng đầy thất vọng. Ông lưu ý rằng mặc dù một số người bạn vẫn ở Old Marston và Old Headington nhưng có rất ít hy vọng tập hợp được họ. <br>
+Trong bức thư ngắn gọn này Tolkien gửi lời mời tới <a class="extiw" href="http://en.wikipedia.org/wiki/Hugh_Brogan" title="wikipedia:Hugh Brogan">Hugh Brogan</a>, bày tỏ sự sẵn lòng gặp mặt ông. Tolkien so sánh chuyến thăm của Brogan với việc "trở lại [Shire](../T/The_Shire.md)", cho thấy chuyến thăm này có thể mang lại cảm giác hoài niệm nhưng cũng đầy thất vọng. Ông lưu ý rằng mặc dù một số người bạn vẫn ở Old Marston và Old Headington nhưng có rất ít hy vọng tập hợp được họ. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

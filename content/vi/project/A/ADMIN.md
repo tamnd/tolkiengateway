@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Gateway:Administrators"
 ---
 
-Chuyển hướng tới [Cổng Tolkien:Quản trị viên](Administrators.md).
+Chuyển hướng tới [Tolkien Gateway:Quản trị viên](Administrators.md).

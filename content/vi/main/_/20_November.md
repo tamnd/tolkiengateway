@@ -67,7 +67,7 @@ Sự kiện xảy ra vào ngày 20 tháng 11
 
 - **[1934](1934.md)** - [Ông già Noel](../F/Father_Christmas.md) viết thư cho [Christopher Tolkien](../C/Christopher_Tolkien.md).
 - **[1962](1962.md)** – [C. S. Lewis](../C/C._S._Lewis.md) viết thư cho [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
-- <b><a href="1985.md" title="1985">1985</a> – <i><a href="../T/The_Lays_of_Beleriand.md" title="The Lays of Beleriand">The Lays of Beleriand</a></i> được xuất bản ở Mỹ.</b>
+- <b><a href="1985.md" title="1985">1985</a> – <i><a href="../T/The_Lays_of_Beleriand.md" title="The Lays of Beleriand">The Lays of Beleriand</a></i> được xuất bản ở Hoa Kỳ.</b>
 - **[1995](1995.md)** - Dịch giả [Ebba-Margareta von Freymann](../E/Ebba-Margareta_von_Freymann.md) qua đời.
 - **[2001](2001.md)** – *[The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture Soundtrack](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack.md) được phát hành.*
 - **[2007](2007.md)** – *[The Lord of the Rings: The Return of the King - The Complete Recordings](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_-_The_Complete_Recordings.md)* được xuất bản.
@@ -77,4 +77,4 @@ Sự kiện xảy ra vào ngày 20 tháng 11
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi tại [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).
+    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi ở [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).

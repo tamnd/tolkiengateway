@@ -13,7 +13,7 @@ categories:
   - "Songs"
 ---
 
-**Ồ! Những kẻ lang thang trong vùng đất bóng tối** là bài hát được hát bởi [Frodo Baggins](../F/Frodo_Baggins.md) khi đi bộ qua [Old Forest](Old_Forest.md). Mục đích của nó là khuyến khích những người hobbit khác tiếp tục. Cây cối Rừng Cũ hình như không thích bài hát.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Ôi! Kẻ lang thang trong vùng đất bóng tối** là bài hát được hát bởi [Frodo Baggins](../F/Frodo_Baggins.md) khi đi qua [Khu Rừng Cổ](Old_Forest.md). Mục đích của nó là khuyến khích những người hobbit khác tiếp tục. Cây cối Khu Rừng Cổ có vẻ không thích bài hát.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Bài thơ {#The_poem}
 
@@ -28,7 +28,7 @@ categories:
 </p>
 </div>
 
-(Giọng của Frodo nhỏ dần khiến bài hát không hoàn chỉnh)
+(giọngFrodo nhỏ dần khiến bài hát không còn trọn vẹn)
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 

@@ -27,9 +27,9 @@ langlinks:
     url: "https://www.tolkiendil.com/encyclo/geographie/regions/aman/eldamar"
 ---
 
-**Elvenhome** hầu như luôn đề cập đến [Eldamar](Eldamar.md) (là "Elvenhome" trong tiếng mẹ đẻ của Yêu tinh), quê hương của Yêu tinh ở [Aman](../A/Aman.md), đây là bản dịch của nó.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Elvenhome** hầu như luôn đề cập đến [Eldamar](Eldamar.md) (là "Elvenhome" trong tiếng mẹ đẻ của Tiên tộc), quê hương của Tiên tộc trong [Aman](../A/Aman.md), đây là bản dịch của nó.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Từ này cũng là một thuật ngữ chung để chỉ vùng đất có [Yêu tinh](Elves.md) sinh sống. Ví dụ: "Elvenhome" trong bài hát về [Beren](../B/Beren.md) và [Lúthien](../L/Lúthien.md) ám chỉ [Doriath](../D/Doriath.md),<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> và một Elvenhome được nhắc đến trong [Hobbit](../H/Hobbit.md)-bài thơ *[The Hoard](../T/The_Hoard.md)*,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> ám chỉ [Nargothrond](../N/Nargothrond.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Từ này cũng là một thuật ngữ chung để chỉ vùng đất có [Tiên tộc](Elves.md) sinh sống. Ví dụ: "Elvenhome" trong bài hát về [Beren](../B/Beren.md) và [Lúthien](../L/Lúthien.md) đề cập đến [Doriath](../D/Doriath.md),<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> và một Elvenhome được đề cập trong [Hobbit](../H/Hobbit.md)-bài thơ *[The Hoard](../T/The_Hoard.md)*,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> đề cập đến [Nargothrond](../N/Nargothrond.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Xem thêm {#See_also}
 

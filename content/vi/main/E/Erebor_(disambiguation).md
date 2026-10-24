@@ -14,11 +14,11 @@ images:
   - "Disambig.png"
 ---
 
-**Erebor** có thể đề cập đến:
+**Erebor** có thể tham khảo:
 
-## Trung địa {#Middle-earth}
+## Trung Địa {#Middle-earth}
 
-- **[Núi Cô Đơn](../L/Lonely_Mountain.md)**, một ngọn núi ở phía Đông Bắc [Rhovanion](../R/Rhovanion.md), còn gọi là <i><b>Erebor</b></i>
+- **[Ngọn Núi Cô Đơn](../L/Lonely_Mountain.md)**, một ngọn núi ở phía Bắc-phương Đông của [Rhovanion](../R/Rhovanion.md), còn gọi là <i><b>Erebor</b></i>
 
 ## Các bản chuyển thể {#Adaptations}
 

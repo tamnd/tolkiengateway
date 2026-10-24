@@ -11,4 +11,4 @@ redirect_target: "David Day"
 redirect_fragment: "Bibliography"
 ---
 
-Chuyển hướng đến [Ngày David](../D/David_Day.md#Bibliography).
+Chuyển hướng đến [David Day](../D/David_Day.md#Bibliography).

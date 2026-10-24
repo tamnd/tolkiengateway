@@ -37,11 +37,11 @@ infobox:
 - Biên tập: quay lại để biết thêm - [Chris Seeman](../C/Chris_Seeman.md)
 - Truyền thông - Dirk Brandherm, Sarah Sturch
 - Tiền tuyến - [Chris Seeman](../C/Chris_Seeman.md)
-- Phép thuật bẩm sinh ở Trung Địa - Michael Saunders, Chris Pheby
+- Phép thuật bẩm sinh trong Trung Địa - Michael Saunders, Chris Pheby
 - Giáo phái Benish Armon - [Chris Seeman](../C/Chris_Seeman.md), Jason Beresford, Stefan Ardinger
 - Ûvatha Kỵ sĩ - Chris Pheby
 - Tham khảo lại Tarma Tar-Calion - Jason Beresford
 - Hậu cần của Minas Tirith - [Anders Blixt](../A/Anders_Blixt.md)
-- Mua bán Umbare với Eriador - Jason Beresford
+- Thương mại Umbare với Eriador - Jason Beresford
 - Đánh giá sản phẩm: Arnor - [Chris Seeman](../C/Chris_Seeman.md)
 - Đôi mắt của đêm mù - [Chris Seeman](../C/Chris_Seeman.md)

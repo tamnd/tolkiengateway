@@ -23,11 +23,11 @@ images:
   - "Disambig.png"
 ---
 
-**Fastred** ("Luật sư của công ty") có thể đề cập đến các ký tự sau:
+**Fastred** (“Luật sư công ty”) có thể đề cập đến các ký tự sau:
 
-- [Fastred](<Fastred_(son_of_Folcwine).md>) (đã chết [T.A.](../T/Third_Age.md) [2885](../T/Third_Age_2885.md)), con trai của [Vua](../K/Kings_of_Rohan.md) [Folcwine](Folcwine.md) của [Rohan](../R/Rohan.md), người cùng với người anh song sinh [Folcred](Folcred.md), đã ngã xuống tại [Fords of Poros](../C/Crossings_of_Poros.md).
-- [Fastred](<Fastred_(rider_of_Rohan).md>) (đã chết [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md)), một hiệp sĩ của nhà [Théoden](../T/Théoden.md) đã ngã xuống trong [Trận chiến trên cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md).
-- [Fastred of Greenholm](Fastred_of_Greenholm.md) ([Thời đại thứ tư](Fourth_Age.md)), [Người quản lý Westmarch](../W/Warden_of_Westmarch.md) đầu tiên và là chồng của [Elanor Gardner](../E/Elanor_Gardner.md), người cùng ông là tổ tiên của [Fairbairns](Fairbairn_Family~66364.md).
+- [Fastred](<Fastred_(son_of_Folcwine).md>) (đã chết [T.A.](../T/Third_Age.md) [2885](../T/Third_Age_2885.md)), con trai của [Vua](../K/Kings_of_Rohan.md) [Folcwine](Folcwine.md) của [Rohan](../R/Rohan.md), người cùng với người anh song sinh [Folcred](Folcred.md) đã ngã xuống ở [Ford của Poros](../C/Crossings_of_Poros.md).
+- [Fastred](<Fastred_(rider_of_Rohan).md>) (chết [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md)), một hiệp sĩ nhà [Théoden](../T/Théoden.md) đã hy sinh trong [Trận cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md).
+- [Fastred của Greenholm](Fastred_of_Greenholm.md) ([Kỷ Đệ Tứ](Fourth_Age.md)), [Người cai ngục đầu tiên của Westmarch](../W/Warden_of_Westmarch.md) và là chồng của [Elanor Gardner](../E/Elanor_Gardner.md), người mà ông là tổ tiên của [Fairbairns](Fairbairn_Family~66364.md).
 
 <hr style="margin-top:15px;"/>
 

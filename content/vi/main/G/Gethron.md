@@ -40,7 +40,7 @@ infobox:
 
 **Gethron**, giống như [Grithnir](Grithnir.md), còn trẻ vào thời [Hador Lórindol](../H/Hador.md), khi họ đã lang thang khắp nơi [Beleriand](../B/Beleriand.md).
 
-Khi về già, họ vẫn phục vụ [Nhà Hador](../H/House_of_Hador.md), lãnh chúa lúc đó là cháu trai của Hador [Húrin](../H/Húrin.md). Sau khi Húrin không thể trở về từ [Nirnaeth Arnoediad](../N/Nirnaeth_Arnoediad.md), vợ anh [Morwen](../M/Morwen.md) đã chọn Gethron và Grithnir làm người dẫn đường cho [Túrin](../T/Túrin.md) trẻ tuổi, để dẫn anh ra khỏi vùng đất nguy hiểm hiện nay là [Dor-lómin](../D/Dor-lómin.md). Chính Gethron đã đứng trước Thingol trong đại sảnh của [Menegroth](../M/Menegroth.md) và yêu cầu Túrin được Nhà vua nuôi dưỡng, do đó đóng một vai trò nhỏ trong số phận chết chóc của Túrin.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Khi về già, họ vẫn phục vụ [Nhà Hador](../H/House_of_Hador.md), lãnh chúa lúc đó là cháu trai của Hador [Húrin](../H/Húrin.md). Sau khi Húrin không thể trở về từ [Nirnaeth Arnoediad](../N/Nirnaeth_Arnoediad.md), vợ anh [Morwen](../M/Morwen.md) đã chọn Gethron và Grithnir làm người dẫn đường cho chàng trai trẻ [Túrin](../T/Túrin.md), để dẫn anh ra khỏi vùng đất [Dor-lómin](../D/Dor-lómin.md) hiện đang nguy hiểm. Chính Gethron đã đứng trước Thingol trong sảnh của [Menegroth](../M/Menegroth.md) và yêu cầu Túrin được Vua nuôi dưỡng, do đó đóng một vai trò nhỏ trong số phận chết chóc của Túrin.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 

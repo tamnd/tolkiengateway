@@ -13,12 +13,12 @@ categories:
   - "Sindarin nouns"
 ---
 
-<i><b>lond</b></i> hoặc <i><b>lonn</b></i> là một danh từ [Sindarin](../S/Sindarin.md) có nghĩa là "thiên đường nằm trong đất liền".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Dạng [Noldorin](../N/Noldorin.md) là <i><b>lhonn</b></i>, có nghĩa là "hẹp đường đi, eo biển, đường đi".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+<i><b>lond</b></i> hoặc <i><b>lonn</b></i> là một [Sindarin](../S/Sindarin.md) danh từ có nghĩa là "nơi trú ẩn nằm trong đất liền".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Dạng [Noldorin](../N/Noldorin.md) là <i><b>lhonn</b></i>, có nghĩa là "con đường hẹp, eo biển, đèo".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Ví dụ {#Examples}
 
 - <i><a class="mw-redirect" href="../A/Aglon.md" title="Aglon">Ag<b>lon</b></a></i> = "Vượt qua hẹp"
-- <i><a href="../E/Edhellond.md" title="Edhellond">Edhel<b>lond</b></a></i> = "Yêu tinh Haven"
+- <i><a href="../E/Edhellond.md" title="Edhellond">Edhel<b>lond</b></a></i> = "Tiên Haven"
 - <i><a href="../F/Forlond.md" title="Forlond">Dành cho<b>lond</b></a></i> = "Bắc Haven"
 - <i><a href="Lond_Daer.md" title="Lond Daer"><b>Lond</b> Daer</a></i> = "Great Haven"
 - <i><a class="mw-redirect" href="../M/Mithlond.md" title="Mithlond">Mith<b>lond</b></a></i> = "Những thiên đường đầy sương mù (Xám)"

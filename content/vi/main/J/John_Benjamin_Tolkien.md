@@ -62,7 +62,7 @@ Về cái chết của Arthur vào năm [1896](../_/1896.md), John rất đau bu
 ## Liên kết ngoài {#External_links}
 
 - <a class="external text" href="http://www.flickr.com/photos/johnashby/277571229/" rel="noreferrer noopener" target="_blank">Hình ảnh cây đàn piano của J.B. Tolkien</a>
-- <a class="external text" href="http://tolkienbrasil.com/artigos/colunas/eduardostark/a-familia-tolkien-e-o-imperio-brasileiro/" rel="noreferrer noopener" target="_blank">Gia đình Tolkien e o Império Brasileiro</a> - Gia đình Tolkien và Đế quốc Brazil
+- <a class="external text" href="http://tolkienbrasil.com/artigos/colunas/eduardostark/a-familia-tolkien-e-o-imperio-brasileiro/" rel="noreferrer noopener" target="_blank">Một gia đình Tolkien e o Império Brasileiro</a> - Tolkien Gia đình và Đế quốc Brazil
 
 <span></span>
 

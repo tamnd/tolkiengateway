@@ -17,7 +17,7 @@ categories:
 
 Tiêu đề 'Phỏng vấn với J.R.R.T.' xuất phát từ bản ghi lại cuộc phỏng vấn được xuất bản trong [*Minas Tirith Evening-Star* (Tập 8, Số 2)](<../M/Minas_Tirith_Evening-Star_(Volume_8,_Number_2).md>). Bài phỏng vấn đã biên tập được phát sóng lần đầu tiên vào tháng 1 [1971](../_/1971.md) trong khuôn khổ chương trình đánh giá sách [BBC](../B/BBC.md) Radio 4 *Now Read On*.
 
-Các phần của cuộc phỏng vấn đã được chỉnh sửa khỏi buổi phát sóng đã được đăng trong bài báo "Những ảnh hưởng của người Do Thái ở Trung Địa" (*[Mallorn 44](../M/Mallorn_44.md)*) của Zak Cramer.
+Các phần của cuộc phỏng vấn đã được chỉnh sửa khỏi chương trình phát sóng đã được đăng trong bài báo "Ảnh hưởng của người Do Thái ở Trung Địa" (*[Mallorn 44](../M/Mallorn_44.md)*) của Zak Cramer.
 
 ## Liên kết ngoài {#External_links}
 

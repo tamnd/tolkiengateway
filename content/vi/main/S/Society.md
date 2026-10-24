@@ -20,9 +20,9 @@ Luật pháp của Hiệp hội này nhấn mạnh vào công việc hơn là ng
 
 ## Lịch sử {#History}
 
-Thị trấn nơi Niggle sống có Hội đồng Thị trấn và Dịch vụ Khẩn cấp.
+Thị trấn nơi Niggle sống có Thị trấn Hội đồng và Dịch vụ Khẩn cấp.
 
-Trong khi Niggle đi qua Dãy núi, ông chưa bao giờ phát hiện ra rằng tên của mình trong đời là chủ đề tranh luận giữa ba người khác nhau trong Hội.
+Trong khi Niggle đi qua Dãy Núi, ông chưa bao giờ phát hiện ra rằng tên trong đời của mình là chủ đề tranh luận giữa ba người khác nhau trong Hội.
 
 Một trong số họ là Ủy viên Hội đồng Tompkins, người đã tuyên bố rằng Niggle hoàn toàn không có ích gì cho Xã hội. Ông ta đã bị bác bỏ bởi một hiệu trưởng tên là [Atkins](../A/Atkins.md), người nói rằng điều đó phụ thuộc vào ý nghĩa của Tompkins khi nói "sử dụng".
 

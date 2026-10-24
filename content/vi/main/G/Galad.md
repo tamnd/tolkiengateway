@@ -16,17 +16,17 @@ categories:
   - "Silvan Elvish words"
 ---
 
-## Tiếng Sindarin {#Sindarin}
+## Sindarin {#Sindarin}
 
-<i><b>galad</b></i> là một từ [tiếng Sindarin](../S/Sindarin.md) có nghĩa là "sự rạng rỡ", "lấp lánh" hoặc "sự phản chiếu", thường được kết nối với nước, đá quý hoặc bề mặt nhẵn.<sup id="cite_ref-PM_1-0" class="reference"><a href="#cite_note-PM-1">[1]</a></sup>
+<i><b>galad</b></i> là một từ [Sindarin](../S/Sindarin.md) chỉ "sự rạng rỡ", "lấp lánh" hoặc "sự phản chiếu", thường được kết nối với nước, đá quý hoặc bề mặt nhẵn.<sup id="cite_ref-PM_1-0" class="reference"><a href="#cite_note-PM-1">[1]</a></sup>
 
 ### Từ nguyên {#Etymology}
 
 Tolkien đã thử nghiệm một số từ nguyên có thể có của *galad*:
 
-1. *galad* bắt nguồn từ [Tiên nguyên thủy](../P/Primitive_Elvish.md) *galatā* ("tỏa sáng, tỏa sáng"), từ [gốc](../S/Sundocarme.md) [KAL](../K/KAL.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
-2. *galad* bắt nguồn từ [Tiên nguyên thủy](../P/Primitive_Elvish.md) *ñaladā*, từ [gốc](../S/Sundocarme.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=%C3%91AL&amp;action=edit&amp;redlink=1" title="ÑAL (page does not exist)">ÑGAL</a> ("lấp lánh, lấp lánh").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
-3. *galad* bắt nguồn từ [Eldarin thông thường](../C/Common_Eldarin.md) *ñalatā* ("tỏa sáng, phản chiếu lấp lánh"), từ [gốc](../S/Sundocarme.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=%C3%91AL&amp;action=edit&amp;redlink=1" title="ÑAL (page does not exist)">ÑAL</a> ("tỏa sáng nhờ phản chiếu").<sup id="cite_ref-PM_1-1" class="reference"><a href="#cite_note-PM-1">[1]</a></sup>
+1. *galad* bắt nguồn từ [Nguyên thủy Elvish](../P/Primitive_Elvish.md) *galatā* ("rạng rỡ, tỏa sáng"), từ [gốc](../S/Sundocarme.md) [KAL](../K/KAL.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+2. *galad* bắt nguồn từ [Nguyên thủy Elvish](../P/Primitive_Elvish.md) *ñaladā*, từ [gốc](../S/Sundocarme.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=%C3%91AL&amp;action=edit&amp;redlink=1" title="ÑAL (page does not exist)">ÑGAL</a> ("lấp lánh, tỏa sáng").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+3. *galad* bắt nguồn từ [Common Eldarin](../C/Common_Eldarin.md) *ñalatā* ("tỏa sáng, phản chiếu lấp lánh"), từ [gốc](../S/Sundocarme.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=%C3%91AL&amp;action=edit&amp;redlink=1" title="ÑAL (page does not exist)">ÑAL</a> ("tỏa sáng nhờ phản chiếu").<sup id="cite_ref-PM_1-1" class="reference"><a href="#cite_note-PM-1">[1]</a></sup>
 
 ### Ví dụ {#Examples}
 
@@ -40,7 +40,7 @@ Tolkien đã thử nghiệm một số từ nguyên có thể có của *galad*:
 
 ## bSilvan {#bSilvan}
 
-<i><b>galad</b></i> là một từ [Silvan Elvish](../S/Silvan_Elvish.md) có nghĩa là "cây".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+<i><b>galad</b></i> là một [Silvan Elvish](../S/Silvan_Elvish.md) từ để chỉ "cây".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Noldorin {#Noldorin}
 

@@ -49,7 +49,7 @@ Rowlie was killed in early January, [T.A.](../T/Third_Age.md) [3019](../T/Third_
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2011: <i><a href="../T/The_Lord_of_the_Rings%253A_War_in_the_North.md" title="The Lord of the Rings: War in the North">Chúa tể của những chiếc nhẫn: Cuộc chiến ở phương Bắc</a></i> </b>
+<b>2011: <i><a href="../T/The_Lord_of_the_Rings%253A_War_in_the_North.md" title="The Lord of the Rings: War in the North">The Lord of the Rings: War in the North</a></i> </b>
 
 <dl><dd>Rowlie Appledore appears as a local in <a href="../B/Bree.md" title="Bree">Bree</a>, as a non-player character at the <a class="mw-redirect" href="../P/Prancing_Pony_Inn.md" title="Prancing Pony Inn">Prancing Pony Inn</a>. The player character can converse with Rowlie and help him in his efforts to confess his feelings to an old love of his, a local woman named Idona. If the player character revisits Bree during the later parts of the game&#39;s storyline, the player learns that Rowlie and several other townsmen were killed by the ruffians in January (as in the source material). <sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></dd></dl>
 

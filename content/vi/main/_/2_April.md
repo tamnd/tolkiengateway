@@ -69,4 +69,4 @@ Sự kiện xảy ra vào ngày 2 tháng 4.
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md), được cứu ra khỏi đám cháy, nghỉ ngơi ở [Ithilien](../I/Ithilien.md).
+    - [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md), được cứu ra khỏi đám cháy, nghỉ ngơi tại [Ithilien](../I/Ithilien.md).

@@ -21,7 +21,7 @@ images:
 
 <figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Thetwotowersextend-cover.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/9e/Thetwotowersextend-cover.jpg/250px-Thetwotowersextend-cover.jpg" decoding="async" loading="lazy" width="250" height="346" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/9/9e/Thetwotowersextend-cover.jpg 1.5x" data-file-width="343" data-file-height="475"/></a><figcaption>Cover of the Extended edition  <table class="TGtable" border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; margin:0 auto; clear: both;">  <tbody><tr style="text-align: center;"> <td width="30%">Preceded by:<br/><b><a href="The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(extended_edition).md" title="The Lord of the Rings: The Fellowship of the Ring (extended edition)">The Fellowship of the Ring Extended Edition</a></b> </td> <td width="40%"><b>The Lord of the Rings Extended Edition<br/> The Two Towers</b> </td> <td width="30%">Followed by:<br/><b><a href="The_Lord_of_the_Rings%253A_The_Return_of_the_King_(extended_edition).md" title="The Lord of the Rings: The Return of the King (extended edition)">The Return of the King Extended Edition</a></b> </td></tr></tbody></table></figcaption></figure>
 
-<b><i>Chúa tể của những chiếc nhẫn: Hai tòa tháp</i> (phiên bản mở rộng)</b> là phiên bản mở rộng của *[The Lord of the Rings: The Two Towers](The_Lord_of_the_Rings%253A_The_Two_Towers.md)*. Nó có 44 phút cảnh quay bổ sung được thêm lại vào phim (nâng tổng thời lượng chiếu lên 223 phút), cũng như nhiều phim tài liệu về quá trình làm phim dưới dạng phần bổ sung.
+<b><i>The Lord of the Rings: The Two Towers</i> (phiên bản mở rộng)</b> là phiên bản mở rộng của *[The Lord of the Rings: The Two Towers](The_Lord_of_the_Rings%253A_The_Two_Towers.md)*. Nó có 44 phút cảnh quay bổ sung được thêm lại vào phim (nâng tổng thời lượng chiếu lên 223 phút), cũng như nhiều phim tài liệu về quá trình làm phim dưới dạng phần bổ sung.
 
 ## Phiên bản mở rộng đặc biệt: Phần một (đĩa 1) {#Special_Extended_Edition:_Part_One_(disc_1)}
 
@@ -34,21 +34,21 @@ images:
 
 ### Cảnh mới {#New_Scenes}
 
-- 2\. Dây yêu tinh
-- 7\. Vụ thảm sát ở Fords of Isen
-- 16\. Bài hát của Entives
+- 2\. Tiên Dây
+- 7\. Vụ thảm sát tại Fords Isen
+- 16\. Bài hát của Entwives
 - 17\. Người thừa kế của Númenor
 - 19\. En bản nháp
-- 21\. Lễ tang của Theodred
+- 21\. Tang lễ của Théodred
 - 24\. Brego
-- 25\. Chiếc Nhẫn của Barahir
+- 25\. Chiếc Nhẫn Barahir
 
 ### Cảnh mở rộng {#Extended_Scenes}
 
-- 3\. Việc thuần hóa Sméagol
+- 3\. Sự thuần hóa Sméagol
 - 4\. Uruk-hai
 - 6\. Sự đốt cháy của Westfold
-- 8\. Sự trục xuất của Éomer
+- 8\. Sự trục xuất Éomer
 - 10\. Trại đêm ở Fangorn
 - 14\. Con đường của đầm lầy
 - 15\. Kỵ Sĩ Trắng
@@ -62,7 +62,7 @@ images:
 
 ### Cảnh mới {#New_Scenes_2}
 
-- 32\. Một trong những người Dúnedain
+- 32\. Một trong những Dúnedain
 - 41\. Con trai của người quản lý
 - 61\. Fangorn đến Helm's Deep
 - 62\. Cuộc kiểm phiếu cuối cùng
@@ -72,40 +72,40 @@ images:
 
 ### Cảnh mở rộng {#Extended_Scenes_2}
 
-- 31\. phụ nữ lùn
+- 31\. Người lùn Phụ nữ
 - 33\. ngôi sao buổi tối
-- 35\. Mũ Helm sâu
-- 40\. Cửa sổ hướng Tây
+- 35\. Helm's Deep
+- 40\. Cửa sổ trên Phương Tây
 - 42\. Hồ Cấm
 - 45\. Những hang động lấp lánh
-- 49\. Trận chiến Hornburg
+- 49\. Trận Hornburg
 - 53\. Cuộc rút lui về Hornburg
-- 56\. Cuộc hành quân cuối cùng của loài Ent
+- 56\. Tháng Ba cuối cùng của Ent
 
 ## Phụ lục: Phần thứ ba - Hành trình tiếp tục (đĩa 3) {#The_Appendices:_Part_Three_-_The_Journey_Continues_(disc_3)}
 
 - Giới thiệu
-- "J.R.R. Tolkien: Phim tài liệu về nguồn gốc Trung Địa"
+- "J.R.R. Tolkien: Nguồn gốc của phim tài liệu Trung Địa"
 - Phim tài liệu "Từ sách đến kịch bản - Đi tìm câu chuyện"
-- Phim Tài Liệu "Thiết Kế Trung Địa"
+- Phim tài liệu "Thiết kế Trung Địa"
 - Phim tài liệu "Weta Workshop"
 - Phòng trưng bày "Các dân tộc ở Trung Địa" có âm thanh
 - Phòng trưng bày "The Realms Of Middle-Earth" có âm thanh
-- "Việc thuần hóa Sméagol", Phim tài liệu
+- "Sự thuần hóa Sméagol", Phim tài liệu
 - "[Andy Serkis](../A/Andy_Serkis.md) Tham khảo hoạt hình"
-- "Gollum 'thế thân'"
+- "Gollum'người thay thế'"
 - Bản đồ tương tác "Atlas Trung Địa: Truy tìm hành trình của tình bằng hữu"
-- "[New Zealand là Trung địa](../N/New_Zealand_as_Middle-earth.md)" bản đồ tương tác với cảnh quay tại địa điểm
+- "[New Zealand dưới dạng Trung Địa](../N/New_Zealand_as_Middle-earth.md)" bản đồ tương tác với cảnh quay tại địa điểm
 
-## Phụ lục: Phần thứ tư - Trận chiến ở Trung địa bắt đầu (đĩa 4) {#The_Appendices:_Part_Four_-_The_Battle_for_Middle-earth_Begins_(disc_4)}
+## Phụ lục: Phần thứ tư - Trận chiến Trung Địa Bắt đầu (đĩa 4) {#The_Appendices:_Part_Four_-_The_Battle_for_Middle-earth_Begins_(disc_4)}
 
 - Giới thiệu
-- Phim tài liệu "Những chiến binh thời thứ ba"
+- Phim tài liệu "Những chiến binh Kỷ Đệ Tam"
 - Phim tài liệu "Máy ảnh ở Trung Địa"
 - Hình ảnh sản xuất, thư viện
 - Phim tài liệu "Weta Digital"
 - Phim tài liệu "Những nhân vật vĩ đại"
-- Phim ngắn "Hoạt hình lũ lụt của Isengard"
+Phim ngắn - "Hoạt hình tràn ngập Isengard"
 - Phim tài liệu "Biên tập: Tinh chỉnh câu chuyện"
 - Phim Tài Liệu "Âm Nhạc Cho Trung Địa"
 - Phim tài liệu "Âm thanh của Trung Địa"

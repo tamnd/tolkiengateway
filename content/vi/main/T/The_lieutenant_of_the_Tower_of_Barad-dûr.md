@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mouth of Sauron"
 ---
 
-Chuyển hướng tới [Miệng Sauron](../M/Mouth_of_Sauron.md).
+Chuyển hướng đến [Miệng của Sauron](../M/Mouth_of_Sauron.md).

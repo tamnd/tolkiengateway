@@ -16,7 +16,7 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="../T/Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><a href="First_Age.md" title="First Age">I</a><a href="../S/Second_Age.md" title="Second Age">II</a><a href="../T/Third_Age.md" title="Third Age">III</a><b>IV</b><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="Fourth_Age_42.md" title="Fourth Age 42">42</a><a href="Fourth_Age_48.md" title="Fourth Age 48">48</a><a href="Fourth_Age_55.md" title="Fourth Age 55">55</a><a class="mw-selflink selflink">61</a><a href="Fourth_Age_63.md" title="Fourth Age 63">63</a><a href="Fourth_Age_67.md" title="Fourth Age 67">67</a><a href="Fourth_Age_80.md" title="Fourth Age 80">80</a></div></div></div></div></div></div>
 
-**Thời đại thứ tư 61** (viết tắt là **Fo.A. 61** hoặc **F.O.**) là [năm Mặt trời](../Y/Years_of_the_Sun.md) thứ 61 của [Thời đại thứ tư](Fourth_Age.md) của [Trung Địa](../M/Middle-earth.md). Trừ khi có quy định khác, [Tolkien Gateway](../T/Tolkien_Gateway.md) tuân theo cách sử dụng [Shire](../T/The_Shire.md) trong [Phụ lục B](../A/Appendix_B.md) để tính những năm thuộc Kỷ Đệ Tứ: Kỷ thứ 61 còn được gọi là **S.R. 1482** trong [Tính toán Quận](../S/Shire-reckoning.md).
+**Kỷ Đệ Tứ 61** (viết tắt là **Kỷ Đệ Tứ 61** hoặc **F.O.**) là [năm thứ 61 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Tứ](Fourth_Age.md) của [Trung Địa](../M/Middle-earth.md). Trừ khi có quy định khác, [Tolkien Gateway](../T/Tolkien_Gateway.md) tuân theo cách sử dụng [Shire](../T/The_Shire.md) trong [Phụ lục B](../A/Appendix_B.md) để tính Kỷ Đệ Tứ năm: Kỷ Đệ Tứ 61 còn được gọi là **S.R. 1482** trong [lịch Shire](../S/Shire-reckoning.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
@@ -24,13 +24,13 @@ Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 - [Rose Cotton](../R/Rose_Cotton.md), vợ của [Samwise Gamgee](../S/Samwise_Gamgee.md), qua đời.<sup id="cite_ref-Later_1-0" class="reference"><a href="#cite_note-Later-1">[1]</a></sup>
 
-## [Tháng 9](../S/September.md) {#September}
+## [tháng Chín](../S/September.md) {#September}
 
 - **22** - Samwise Gamgee xuất phát từ [Bag End](../B/Bag_End.md).<sup id="cite_ref-Later_1-1" class="reference"><a href="#cite_note-Later-1">[1]</a></sup>
 
 ## Sau {#Later}
 
-- Samwise đến [Tower Hills](../T/Tower_Hills.md) và trao [Sách đỏ Westmarch](../R/Red_Book_of_Westmarch.md) cho [Elanor](../E/Elanor_Gardner.md). Samwise rời đi về hướng Tây. Theo truyền thống của [Fairbairn](Fairbairn_Family~66364.md), ông đã đến [Grey Havens](../G/Grey_Havens.md) để vượt qua [Biển](../B/Belegaer.md) và vào [Cực Tây](../A/Aman.md), nơi cuối cùng trong số [Những người mang nhẫn](../R/Ring-bearers.md).<sup id="cite_ref-Later_1-2" class="reference"><a href="#cite_note-Later-1">[1]</a></sup>
+- Samwise đến [Đồi Tháp](../T/Tower_Hills.md) và đưa [Red Book of Westmarch](../R/Red_Book_of_Westmarch.md) cho [Elanor](../E/Elanor_Gardner.md). Samwise rời đi về hướng Tây. Theo truyền thống của [Fairbairn](Fairbairn_Family~66364.md), ông ta đã đến [Cảng Xám](../G/Grey_Havens.md) để vượt qua [Biển](../B/Belegaer.md) và vào [Tối cùng Phương Tây](../A/Aman.md), cuối cùng trong số [Những người mang nhẫn](../R/Ring-bearers.md).<sup id="cite_ref-Later_1-2" class="reference"><a href="#cite_note-Later-1">[1]</a></sup>
 
 <span></span>
 

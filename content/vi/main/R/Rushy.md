@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Rushey"
 ---
 
-Chuyển hướng tới [Rushey](Rushey.md).
+Chuyển hướng đến [Rushey](Rushey.md).

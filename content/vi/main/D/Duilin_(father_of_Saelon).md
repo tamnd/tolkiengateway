@@ -34,7 +34,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../G/Gondorians.md" title="Gondorians">Gondorian</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Duilin</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../G/Gondor.md" title="Gondor">Gondor</a></td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data"><a href="../W/Westron.md" title="Westron">Westron</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">Children</th><td class="tg-infobox-data"><a href="../S/Saelon.md" title="Saelon">Saelon</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr></tbody></table>
 
-**Duilin** là một [Người](../M/Man.md) của [Gondor](../G/Gondor.md) sống vào đầu [Thời đại thứ tư](../F/Fourth_Age.md). Ông ấy là cha của [Saelon](../S/Saelon.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Duilin** là một [Người đàn ông](../M/Man.md) của [Gondor](../G/Gondor.md) sống vào thời kỳ đầu [Kỷ Đệ Tứ](../F/Fourth_Age.md). Ông ấy là cha của [Saelon](../S/Saelon.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Phả hệ {#Genealogy}
 

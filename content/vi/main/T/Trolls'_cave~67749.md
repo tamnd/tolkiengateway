@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Trolls' lair"
 ---
 
-Chuyển hướng đến [hang ổ của lũ quỷ](Trolls'_lair.md).
+Chuyển hướng đến [Troll'hang ổ](Trolls'_lair.md).

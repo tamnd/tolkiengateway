@@ -24,13 +24,13 @@ images:
 
 Vào [5 tháng 1](../_/5_January.md) [1961](../_/1961.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho bà Ossendrijver**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-- **Chủ đề:** Tolkien viết về [bản dịch tiếng Hà Lan](../M/Max_Schuchart.md) của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* và trả lời câu hỏi về từ nguyên của cái tên *[Númenor](../N/Númenor.md)*, cùng nhiều nội dung khác.
+- **Chủ đề:** Tolkien viết về [bản dịch tiếng Hà Lan](../M/Max_Schuchart.md) của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* và trả lời câu hỏi về từ nguyên của tên *[Númenor](../N/Númenor.md)*, cùng những nội dung khác.
 - **Mô tả**: Thư viết tay.
-- **Xuất bản:** Một đoạn trích lớn từ bức thư đã được xuất bản dưới tên [Thư 227](Letter_227.md) trong *[The Letters of J.R.R. Tolkien](../T/The_Letters_of_J.R.R._Tolkien.md)*.
+- **Xuất bản:** Một đoạn trích lớn từ bức thư đã được xuất bản dưới dạng [Thư 227](Letter_227.md) trong *[The Letters of J.R.R. Tolkien](../T/The_Letters_of_J.R.R._Tolkien.md)*.
 
 ## Trích {#Excerpt}
 
-"Númenor, dạng rút gọn của *Númenórë*, là phát minh của riêng tôi, được ghép từ *nūme-n* "đi xuống" (√ndū, nū), hoàng hôn, hướng Tây và *nōre* "đất, đất nước" = *Westernesse*"<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+"Númenor, dạng rút gọn của *Númenórë*, là phát minh của riêng tôi, được ghép từ *nūme-n* "đi xuống" (√ndū, nū), hoàng hôn, Phương Tây, và *nōre* "đất, đất nước" = *Westernesse*"<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

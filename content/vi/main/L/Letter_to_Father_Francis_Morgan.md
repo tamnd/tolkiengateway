@@ -20,7 +20,7 @@ images:
 
 Vào [8 tháng 8](../_/8_August.md) [1904](../_/1904.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) gửi [Cha Francis Morgan](../F/Francis_Xavier_Morgan.md)**.
 
-- **Mô tả:** Bức thư, một "bức thư mật đáng chú ý" được viết bởi cậu bé Tolkien 12 tuổi, được lưu giữ tại [Thư viện Bodleian](../B/Bodleian_Library.md) ở [Oxford](../O/Oxford.md) và kết thúc bằng [một câu châm ngôn](../T/There_was_an_old_priest_naméd_Francis.md).<sup id="cite_ref-AB_1-0" class="reference"><a href="#cite_note-AB-1">[1]</a></sup>
+- **Mô tả:** Bức thư, một "bức thư mật đáng chú ý" do cậu bé 12 tuổi Tolkien viết, được lưu giữ tại [Thư viện Bodleian](../B/Bodleian_Library.md) ở [Oxford](../O/Oxford.md) và kết thúc bằng [một câu thơ ngắn](../T/There_was_an_old_priest_naméd_Francis.md).<sup id="cite_ref-AB_1-0" class="reference"><a href="#cite_note-AB-1">[1]</a></sup>
 - **Ấn bản:** Một đoạn trích của bức thư đã được xuất bản trên *[The Invented Worlds of J.R.R. Tolkien: Drawings and Original Manuscripts from the Marquette University Collection](../T/The_Invented_Worlds_of_J.R.R._Tolkien.md)*.<sup id="cite_ref-AB_1-1" class="reference"><a href="#cite_note-AB-1">[1]</a></sup> Toàn bộ bức thư màu được xuất bản trên *[Beyond Bree](../B/Beyond_Bree.md)* số tháng 10 năm 2020, cùng với bài bình luận của Denis Bridoux.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>

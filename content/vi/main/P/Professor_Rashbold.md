@@ -31,7 +31,7 @@ Giáo sư **Rashbold** là một [Người đàn ông](../M/Man.md) sống ở <
 
 ## Lịch sử {#History}
 
-Rashbold đã phiên âm và dịch bản thảo của [Edwin Lowdham](../E/Edwin_Lowdham.md) theo yêu cầu của [Michael George Ramer](../M/Michael_George_Ramer.md). Văn bản bằng [tiếng Anh cổ](../O/Old_English.md) được viết bằng [Tengwar](../T/Tengwar.md). Nó mô tả [Sự sụp đổ của Númenor](../D/Downfall_of_Númenor.md).<sup id="cite_ref-Night_1-0" class="reference"><a href="#cite_note-Night-1">[1]</a></sup>
+Rashbold đã phiên âm và dịch bản thảo của [Edwin Lowdham](../E/Edwin_Lowdham.md) theo yêu cầu của [Michael George Ramer](../M/Michael_George_Ramer.md). Văn bản có dạng [tiếng Anh cổ](../O/Old_English.md) được viết bằng [Tengwar](../T/Tengwar.md). Nó mô tả [Sự sụp đổ của Númenor](../D/Downfall_of_Númenor.md).<sup id="cite_ref-Night_1-0" class="reference"><a href="#cite_note-Night-1">[1]</a></sup>
 
 Ông được [Lowdham](../A/Alwin_Arundel_Lowdham.md) mô tả là "một con gấu già gắt gỏng".<sup id="cite_ref-Night_1-1" class="reference"><a href="#cite_note-Night-1">[1]</a></sup>
 

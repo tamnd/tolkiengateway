@@ -15,7 +15,7 @@ hidden_categories:
   - "Pages with short description"
 ---
 
-**Đường mòn Tolkien** là một trang web tương tác dành cho người hâm mộ Chúa tể những chiếc nhẫn được ra mắt vào [2000](../_/2000.md). Nó cung cấp các trò chơi và nhiều hoạt động khác bao gồm diễn đàn [Entmoot](../E/Entmoot.md), được thành lập vào [1999](../_/1999.md). Người dùng có thể di chuyển đến các địa điểm và chọn các hoạt động, phần lớn được hướng dẫn bởi [Gandalf](../G/Gandalf_the_Grey.md).
+**Tolkien Đường mòn** là một trang web tương tác dành cho người hâm mộ Chúa tể những chiếc nhẫn được ra mắt vào [2000](../_/2000.md). Nó cung cấp các trò chơi và nhiều hoạt động khác bao gồm diễn đàn [Entmoot](../E/Entmoot.md), được thành lập vào [1999](../_/1999.md). Người dùng có thể di chuyển đến các địa điểm và lựa chọn hoạt động, phần lớn được hướng dẫn bởi [Gandalf](../G/Gandalf_the_Grey.md).
 
 <br>
 

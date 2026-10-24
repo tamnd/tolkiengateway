@@ -26,11 +26,11 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Video game</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mordor</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Details</span></th></tr><tr><th scope="row" class="tg-infobox-label">Platform</th><td class="tg-infobox-data">On-line (Telnet)</td></tr><tr><th scope="row" class="tg-infobox-label">Release Date</th><td class="tg-infobox-data"><a href="../_/1998.md" title="1998">1998</a></td></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data"><a class="extiw" href="http://en.wikipedia.org/wiki/Multi-User_Dungeons" title="wikipedia:Multi-User Dungeons">MUD</a></td></tr></tbody></table>
 
-**Mordor** là một [MUD](MUDs.md) được mở vào [1998](../_/1998.md), nhưng đã được phát triển kể từ [1988](../_/1988.md).<sup id="cite_ref-Tolkien_Games_1-0" class="reference"><a href="#cite_note-Tolkien_Games-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Như tên cho thấy, trò chơi lấy bối cảnh ở [Mordor](Mordor.md).<sup id="cite_ref-Tolkien_Games_1-1" class="reference"><a href="#cite_note-Tolkien_Games-1">[1]</a></sup>
+**Mordor** là một [MUD](MUDs.md) được mở vào năm [1998](../_/1998.md), nhưng đã được phát triển kể từ [1988](../_/1988.md).<sup id="cite_ref-Tolkien_Games_1-0" class="reference"><a href="#cite_note-Tolkien_Games-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Như tên cho thấy, trò chơi lấy bối cảnh ở [Mordor](Mordor.md).<sup id="cite_ref-Tolkien_Games_1-1" class="reference"><a href="#cite_note-Tolkien_Games-1">[1]</a></sup>
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://mordor.nazgul.com/" rel="noreferrer noopener" target="_blank">Trang web chính thức của Mordor</a>
+Trang web chính thức của - <a class="external text" href="http://mordor.nazgul.com/" rel="noreferrer noopener" target="_blank">Mordor</a>
 
 <span></span>
 

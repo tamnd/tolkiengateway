@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien's Great War"
 ---
 
-Chuyển hướng tới [Cuộc đại chiến của Tolkien](Tolkien's_Great_War.md).
+Chuyển hướng đến Cuộc đại chiến của [Tolkien](Tolkien's_Great_War.md).

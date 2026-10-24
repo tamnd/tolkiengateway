@@ -27,7 +27,7 @@ infobox:
 <i><b>Basil Bunting và J.R.R. Tolkien</b></i> là sách nói có các cuộc phỏng vấn với [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và <a class="extiw" href="http://en.wikipedia.org/wiki/Basil_Bunting" title="wikipedia:Basil Bunting">Basil Bunting</a>. Đã có một số gợi ý về việc nên đưa cuộc phỏng vấn vào:
 
 - **[Bài phỏng vấn BBC năm 1965](../_/1965_BBC_Interview.md)** (người phỏng vấn: [Denys Gueroult](../D/Denys_Gueroult.md))<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
-- **[1964 Phỏng vấn BBC](../_/1964_BBC_Interview.md), Phần đầu tiên** (người phỏng vấn: Irene Slade): "Người phỏng vấn mang đến cảm giác bắt nạt và sợ hãi một Tolkien yêu tinh, nhưng vẫn cung cấp cái nhìn sâu sắc về người đàn ông đằng sau *The Lord of the Rings*"<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+- **[1964 Phỏng vấn BBC](../_/1964_BBC_Interview.md), Phần đầu tiên** (người phỏng vấn: Irene Slade): "Người phỏng vấn tạo cảm giác như đang bắt nạt và dọa nạt một yêu tinh Tolkien, nhưng vẫn đưa ra cái nhìn sâu sắc về người đàn ông đằng sau *The Lord of the Rings*"<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 - **[1964 Phỏng vấn BBC](../_/1964_BBC_Interview.md), Phần thứ hai** (người phỏng vấn: Denys Gueroult)<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Chi tiết {#Details}
@@ -43,7 +43,7 @@ infobox:
 
 ## Mô tả chính thức {#Official_description}
 
-On Side 1 là một cuộc phỏng vấn hiếm hoi, được ghi lại vào năm 1964, với J. R. R. Tolkien và Denis Gueroult về thế giới tưởng tượng của ông về "Trung Địa" và ngôn ngữ ông tạo ra cho các nhân vật của mình trong Người Hobbit và Chúa tể của những chiếc nhẫn. Phát minh ra ngôn ngữ là một trong những trò tiêu khiển thời thơ ấu của ông, trong thời gian học tập tại Oxford, ông là Giáo sư môn Anglo-Saxon và sau đó là Ngôn ngữ và Văn học Anh. Tính cách của Tolkien và quan điểm của ông về con người, xã hội và chính trị được thể hiện rõ ràng trong cuộc trò chuyện đầy soi sáng này.
+On Side 1 là một cuộc phỏng vấn hiếm hoi, được ghi lại vào năm 1964, với J. R. R. Tolkien và Denis Gueroult về thế giới tưởng tượng của ông về "Trung Địa" và ngôn ngữ ông tạo ra cho các nhân vật của mình trong The Hobbit và Chúa tể của những chiếc nhẫn. Phát minh ra ngôn ngữ là một trong những trò tiêu khiển thời thơ ấu của ông, trong thời gian học tập tại Oxford ông là Giáo sư môn Anglo-Saxon và sau đó là Ngôn ngữ và Văn học Anh. Tính cách của Tolkien và quan điểm của ông về con người, xã hội và chính trị được thể hiện rõ ràng trong cuộc trò chuyện đầy soi sáng này.
 
 <span></span>
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Meriadoc Brandybuck"
 ---
 
-Chuyển hướng tới [Meriadoc Brandybuck](Meriadoc_Brandybuck.md).
+Chuyển hướng đến [Meriadoc Brandybuck](Meriadoc_Brandybuck.md).

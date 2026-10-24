@@ -55,7 +55,7 @@ images:
 <li><a href="../D/Dreaming_of_Bag_End.md" title="Dreaming of Bag End">Dreaming of Bag End</a></li></ol>
 </td></tr></tbody></table>
 
-**Misty Mountains** là bài hát thứ năm của đĩa một trong *[The Hobbit: An Unexpected Journey - Original Motion Picture Soundtrack](../T/The_Hobbit%253A_An_Unexpected_Journey_-_Original_Motion_Picture_Soundtrack.md)* và là bài hát thứ sáu của [nhạc phim phiên bản đặc biệt](../T/The_Hobbit%253A_An_Unexpected_Journey_-_Original_Motion_Picture_Soundtrack_-_Special_Edition.md). Nó dựa trên [](../T/The_Hobbit.md) cuốn sách "[Xa qua dãy núi mù sương lạnh](../F/Far_over_the_misty_mountains_cold.md)".
+**Dãy Núi Sương Mù** là bài hát thứ năm của đĩa một trong *[The Hobbit: An Unexpected Journey - Original Motion Picture Soundtrack](../T/The_Hobbit%253A_An_Unexpected_Journey_-_Original_Motion_Picture_Soundtrack.md)* và là bài hát thứ sáu của [nhạc phim phiên bản đặc biệt](../T/The_Hobbit%253A_An_Unexpected_Journey_-_Original_Motion_Picture_Soundtrack_-_Special_Edition.md). Nó dựa trên [](../T/The_Hobbit.md) cuốn sách "[Xa qua dãy núi mù sương lạnh](../F/Far_over_the_misty_mountains_cold.md)".
 
 ## Lời bài hát {#Lyrics}
 

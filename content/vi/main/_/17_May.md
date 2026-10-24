@@ -64,10 +64,10 @@ Sự kiện xảy ra vào ngày 17 tháng 5.
 ## Trên Trái đất {#On_Earth}
 
 - **[1936](1936.md)** - Tác giả và [người phỏng vấn](../../index/I/Interviews_with_J.R.R._Tolkien.md) [Lars Gustafsson](../L/Lars_Gustafsson.md) người Thụy Điển ra đời.
-- **[1954](1954.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một bức thư cho Henry Willink](../L/Letter_to_Henry_Willink.md).
+- **[1954](1954.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư cho Henry Willink](../L/Letter_to_Henry_Willink.md).
 - **[1961](1961.md)** – Ca sĩ [Enya](../E/Enya.md) ra đời.
 - **[1981](1981.md)** - Tập thứ 11 của [bản chuyển thể phát thanh năm 1981](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* được phát sóng trên [BBC Radio 4](../B/BBC.md).
-- **[2007](2007.md)** - Diễn viên người New Zealand [Noel Appleby](../N/Noel_Appleby.md) qua đời.
+- **[2007](2007.md)** - New Zealand diễn viên [Noel Appleby](../N/Noel_Appleby.md) qua đời.
 
 ## Trong Arda {#In_Arda}
 

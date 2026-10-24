@@ -27,7 +27,7 @@ langlinks:
     url: "https://kontu.wiki/John_Leigh"
 ---
 
-Diễn viên người New Zealand **John Leigh** (sinh năm 1965) đóng vai [Háma](../H/Háma.md) trong [The Lord of the Rings: The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md).
+diễn viên New Zealand **John Leigh** (sinh năm 1965) đóng vai [Háma](../H/Háma.md) trong [The Lord of the Rings: The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md).
 
 ## Liên kết ngoài {#External_links}
 

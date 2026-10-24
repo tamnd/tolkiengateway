@@ -26,7 +26,7 @@ langlinks:
     url: "https://kontu.wiki/Helluin"
 ---
 
-**Helluin** là tên ở [Trung địa](../M/Middle-earth.md) của ngôi sao xanh ngày nay được biết đến với cái tên <a class="external text" href="http://en.wikipedia.org/wiki/Sirius" rel="noreferrer noopener" target="_blank">Sirius</a>, "Dog Star".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Helluin** là tên trong [Trung Địa](../M/Middle-earth.md) của ngôi sao xanh ngày nay được gọi là <a class="external text" href="http://en.wikipedia.org/wiki/Sirius" rel="noreferrer noopener" target="_blank">Sirius</a>, "Ngôi sao chó".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -36,7 +36,7 @@ Có thể phần tử đầu tiên đề cập đến "ice" (xem: *[Helcar](Helc
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) ở *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*, ngôi sao được gọi là <i><b>Nielluin</b></i> ("Azure Bee" hoặc "Blue Bee") trong [Qenya](../Q/Qenya.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Một biến thể Qenya khác là *Nierninwa* và *Niellúnë*, và tên [Gnomish](../G/Gnomish.md) của nó là <i><b>Niothluimi</b></i>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Trong phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*, ngôi sao được gọi là <i><b>Nielluin</b></i> ("Azure Bee" hoặc "Blue Bee") trong [Qenya](../Q/Qenya.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Một biến thể Qenya khác là *Nierninwa* và *Niellúnë*, và tên [Gnomish](../G/Gnomish.md) của nó là <i><b>Niothluimi</b></i>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 <span></span>
 

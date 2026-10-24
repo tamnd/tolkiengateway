@@ -13,7 +13,7 @@ categories:
   - "Sindarin nouns"
 ---
 
-<i><b>lin</b></i> là một từ [tiếng Sindarin](../S/Sindarin.md) có nghĩa là "pool, just".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>lin</b></i> là một từ [Sindarin](../S/Sindarin.md) có nghĩa là "pool, just".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

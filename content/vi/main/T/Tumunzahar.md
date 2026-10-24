@@ -16,11 +16,11 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../N/Nogrod.md" title="Nogrod">Nogrod</a></b></div></div>
 
-**Tumunzahar** là tên [Người lùn](../K/Khuzdul.md) của [Nogrod](../N/Nogrod.md), thành trì của [Người lùn](../D/Dwarves.md) nằm ở phần trung tâm của [Dãy núi Blue](../B/Blue_Mountains.md), gần [Núi Dolmed](../M/Mount_Dolmed.md).
+**Tumunzahar** là tên [Người lùn](../K/Khuzdul.md) của [Nogrod](../N/Nogrod.md), thành trì của [Người Lùn](../D/Dwarves.md) nằm ở phần trung tâm của [Dãy Núi Xanh](../B/Blue_Mountains.md), gần [Núi Dolmed](../M/Mount_Dolmed.md).
 
 ## Từ nguyên {#Etymology}
 
-*Tumunzahar* rõ ràng là [Khuzdul](../K/Khuzdul.md) cho "Hollowbold".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> [Magnus Åberg](../M/Magnus_Åberg.md) đã gợi ý rằng tên này bao gồm các phần tử chưa được chứng thực *tûm* (?"bold/delving") và *[zahar](../Z/Zahar.md)* (?"hollow").<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> <span></span>
+*Tumunzahar* rõ ràng là [Khuzdul](../K/Khuzdul.md) dành cho "Hollowbold".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> [Magnus Åberg](../M/Magnus_Åberg.md) đã gợi ý rằng tên này bao gồm các phần tử chưa được chứng thực *tûm* (?"bold/delving") và *[zahar](../Z/Zahar.md)* (?"hollow").<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

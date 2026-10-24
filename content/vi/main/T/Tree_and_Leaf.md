@@ -69,7 +69,7 @@ infobox:
 
 *Tree and Leaf* là nơi hai tác phẩm lần đầu tiên được cung cấp cho công chúng. Cả hai sau này đều được tái bản trong các tuyển tập như *[The Tolkien Reader](The_Tolkien_Reader.md)* (1966), *[Poems and Stories](../P/Poems_and_Stories.md)* (1980), và *[Tales from the Perilous Realm](Tales_from_the_Perilous_Realm.md)* (2008).
 
-Trong [1988](../_/1988.md), [Christopher Tolkien](../C/Christopher_Tolkien.md) đã biên tập cuốn sách, đính kèm vào đó một bài thơ chưa được xuất bản trước đây "[Mythopoeia](../M/Mythopoeia.md)", có liên quan chặt chẽ đến "Về những câu chuyện cổ tích" và cũng cung cấp Lời nói đầu. Trong [2001](../_/2001.md), bài thơ "[Sự trở lại của Beorhtnoth](The_Homecoming_of_Beorhtnoth.md)" đã được thêm vào sách.
+Trong [1988](../_/1988.md), [Christopher Tolkien](../C/Christopher_Tolkien.md) đã biên tập cuốn sách, bổ sung vào đó một bài thơ chưa xuất bản trước đây "[Mythopoeia](../M/Mythopoeia.md)", có liên quan chặt chẽ đến "Về truyện cổ tích", đồng thời cung cấp Lời nói đầu. Trong [2001](../_/2001.md), bài thơ "[Sự trở lại của Beorhtnoth](The_Homecoming_of_Beorhtnoth.md)" đã được thêm vào sách.
 
 ## Từ nhà xuất bản <small>(ấn bản 2001)</small> {#From_the_publisher_(2001_edition)}
 
@@ -181,7 +181,7 @@ Trong [1988](../_/1988.md), [Christopher Tolkien](../C/Christopher_Tolkien.md) �
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://www.tolkienlibrary.com/booksbytolkien/treeandleaf/description.htm" rel="noreferrer noopener" target="_blank">Cây và Lá</a> tại [Thư viện Tolkien](../P/Pieter_Collier.md)
+- <a class="external text" href="http://www.tolkienlibrary.com/booksbytolkien/treeandleaf/description.htm" rel="noreferrer noopener" target="_blank">Cây và Lá</a> tại [Tolkien Thư viện](../P/Pieter_Collier.md)
 
 <br>
 

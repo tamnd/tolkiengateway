@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "When evening in the Shire was grey"
 ---
 
-Chuyển hướng đến [Khi buổi tối ở Quận xám xịt](../W/When_evening_in_the_Shire_was_grey.md).
+Chuyển hướng tới [Khi buổi tối ở Shire xám xịt](../W/When_evening_in_the_Shire_was_grey.md).

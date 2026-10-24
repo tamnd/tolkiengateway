@@ -45,9 +45,9 @@ infobox:
 
 ## Tóm tắt {#Synopsis}
 
-[Treebeard](Treebeard.md) nói với [Merry](../M/Merry.md) và [Pippin](../P/Pippin.md) rằng [Ent](../E/Ents.md) sẽ không tham gia vào cuộc chiến của [Con người](../M/Men.md), nói rằng *"this is not our war"*. Merry tức giận vì điều này và nói *"Nhưng bạn là một phần của thế giới này! Phải không?!"* Các Ent nhìn nhau có phần khó chịu. Treebeard nhẹ nhàng khen ngợi lòng dũng cảm của Merry nhưng nói với anh rằng đã đến lúc anh phải về nhà.
+[Treebeard](Treebeard.md) nói với [Merry](../M/Merry.md) và [Pippin](../P/Pippin.md) rằng [Ent](../E/Ents.md) sẽ không tham gia vào các cuộc chiến của [Con Người](../M/Men.md), nói rằng *"this is not our war"*. Merry tức giận vì điều này và nói *"Nhưng bạn là một phần của thế giới này! Phải không?!"* Các Ent nhìn nhau có phần khó chịu. Treebeard nhẹ nhàng khen ngợi sự dũng cảm của Merry nhưng nói với anh rằng đã đến lúc anh phải về nhà.
 
-Merry và Pippin chuẩn bị quay trở lại [Shire](The_Shire.md). Pippin phần nào chấp nhận điều này, nói rằng có lẽ họ nên về nhà vì dù sao thì họ cũng có Shire.
+Merry và Pippin chuẩn bị quay lại [ Shire](The_Shire.md). Pippin phần nào chấp nhận điều này, nói rằng có lẽ họ nên về nhà vì dù sao thì họ cũng có Shire.
 
 <blockquote class="tg-quote noexcerpt">
 <p>The fires of <a href="../I/Isengard.md" title="Isengard">Isengard</a> will spread And the woods of <a href="Tuckborough.md" title="Tuckborough">Tuckborough</a> and <a href="../B/Buckland.md" title="Buckland">Buckland</a> will burn. And... and all that was once green and good in this world will be gone. There won&#39;t be a Shire, Pippin.
@@ -55,6 +55,6 @@ Merry và Pippin chuẩn bị quay trở lại [Shire](The_Shire.md). Pippin ph�
 <p class="tg-quote-footer"><cite><a class="mw-redirect" href="../M/Merry.md" title="Merry">Merry</a></cite></p>
 </blockquote>
 
-Pippin đứng dậy và tiếp thu lời của Merry.
+Pippin đứng dậy và tiếp nhận lời của Merry.
 
 ## Sự khác biệt {#Differences}

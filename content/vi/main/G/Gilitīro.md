@@ -20,7 +20,7 @@ sort_keys:
   "Telerin names": "Gilitiro"
 ---
 
-**Gilitīro** là một [Telerin](../F/Falmari.md) [Yêu tinh](../E/Elf.md) của [Aman](../A/Aman.md) và là cha của [Celeborn](../C/Celeborn.md) theo một phiên bản muộn của [huyền thoại](../L/Legendarium.md).<sup id="cite_ref-PE23_1-0" class="reference"><a href="#cite_note-PE23-1">[1]</a></sup>
+**Gilitīro** là [Telerin](../F/Falmari.md) [Tiên](../E/Elf.md) của [Aman](../A/Aman.md) và là cha của [Celeborn](../C/Celeborn.md) theo một phiên bản muộn hơn của [huyền thoại](../L/Legendarium.md).<sup id="cite_ref-PE23_1-0" class="reference"><a href="#cite_note-PE23-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

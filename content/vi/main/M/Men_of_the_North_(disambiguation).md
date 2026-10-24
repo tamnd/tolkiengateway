@@ -14,10 +14,10 @@ images:
   - "Disambig.png"
 ---
 
-“**Người phương Bắc**” có thể ám chỉ:
+“**Con Người của miền Bắc**” có thể ám chỉ:
 
-- [Người phương Bắc (Thời đại thứ nhất)](<Men_of_the_North_(First_Age).md>), chủ yếu đề cập đến [Gia tộc Hador](../H/House_of_Hador.md).
-- [Người phương Bắc (Thời đại thứ ba)](<Men_of_the_North_(Third_Age).md>), ám chỉ [Người phương bắc](../N/Northmen.md) hoặc [Biệt đội miền Bắc](../R/Rangers_of_the_North.md).
+- [Con Người của miền Bắc (Kỷ Đệ Nhất)](<Men_of_the_North_(First_Age).md>), chủ yếu đề cập đến [Nhà Hador](../H/House_of_Hador.md).
+- [Con Người của miền Bắc (Kỷ Đệ Tam)](<Men_of_the_North_(Third_Age).md>), đề cập đến [Người phương Bắc](../N/Northmen.md) hoặc [Biệt đội miền Bắc](../R/Rangers_of_the_North.md).
 
 <hr style="margin-top:15px;"/>
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Calendar 2001"
 ---
 
-Chuyển hướng tới [Lịch Tolkien 2001](Tolkien_Calendar_2001.md).
+Chuyển hướng tới [Tolkien Lịch 2001](Tolkien_Calendar_2001.md).

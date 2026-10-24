@@ -13,15 +13,15 @@ categories:
   - "Noldorin nouns"
 ---
 
-<i><b>gwanur</b></i> là từ [Noldorin](../N/Noldorin.md) có nghĩa là "bà con, bà con".<sup id="cite_ref-LR_1-0" class="reference"><a href="#cite_note-LR-1">[1]</a></sup><sup id="cite_ref-VT46_2-0" class="reference"><a href="#cite_note-VT46-2">[2]</a></sup>
+<i><b>gwanur</b></i> là một từ [Noldorin](../N/Noldorin.md) có nghĩa là "bà con, bà con".<sup id="cite_ref-LR_1-0" class="reference"><a href="#cite_note-LR-1">[1]</a></sup><sup id="cite_ref-VT46_2-0" class="reference"><a href="#cite_note-VT46-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-[Noldorin già](../K/Kornoldorin.md) *wanūro*, từ [root](../S/Sundocarme.md) [NŌ](../O/ONO.md#Other_versions).<sup id="cite_ref-LR_1-1" class="reference"><a href="#cite_note-LR-1">[1]</a></sup><sup id="cite_ref-VT46_2-1" class="reference"><a href="#cite_note-VT46-2">[2]</a></sup>
+[Old Noldorin](../K/Kornoldorin.md) *wanūro*, từ [gốc](../S/Sundocarme.md) [NŌ](../O/ONO.md#Other_versions).<sup id="cite_ref-LR_1-1" class="reference"><a href="#cite_note-LR-1">[1]</a></sup><sup id="cite_ref-VT46_2-1" class="reference"><a href="#cite_note-VT46-2">[2]</a></sup>
 
 ## Xem thêm {#See_also}
 
-- [Tiếng Sindarin](../S/Sindarin.md) *[gwanûr](Gwanûr.md)*
+- [Sindarin](../S/Sindarin.md) *[gwanûr](Gwanûr.md)*
 
 <span></span>
 

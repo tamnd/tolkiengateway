@@ -35,11 +35,11 @@ infobox:
 
 ## Lịch sử {#History}
 
-Nali đang đi công tác ở [Eriador](../E/Eriador.md) và nghỉ qua đêm ở [Bree](../B/Bree.md). Ông rất ngạc nhiên khi một [Hobbit](../H/Hobbits.md) tên là [Underhill](../F/Frodo_Baggins.md) biết về [Vương quốc dưới ngọn núi](../K/Kingdom_under_the_Mountain.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Nali đi công tác ở [Eriador](../E/Eriador.md) và nghỉ qua đêm ở [Bree](../B/Bree.md). Ông rất ngạc nhiên khi một [Hobbit](../H/Hobbits.md) tên [Underhill](../F/Frodo_Baggins.md) biết về [Vương quốc dưới Núi](../K/Kingdom_under_the_Mountain.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Nali* có thể được đặt theo tên của [Náli](Náli.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Cái tên này rất có thể có nghĩa là "trục của một chiếc cối xay cầm tay".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+*Nali* có thể được đặt theo tên của [Náli](Náli.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Cái tên này rất có thể có nghĩa là "trục của một chiếc máy xay cầm tay".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

@@ -33,15 +33,15 @@ infobox:
 
 [Stanley Unwin](../S/Stanley_Unwin.md) đã xin lời khuyên từ con trai mình [Rayner](../R/Rayner_Unwin.md) về việc xuất bản *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* và *[The Silmarillion](../T/The_Silmarillion.md)*. Rayner đề xuất xuất bản cái trước và bỏ cái sau.
 
-Tolkien trở nên tức giận trước suy nghĩ của công ty về Unwin và con trai ông, và yêu cầu ngay lập tức "có" hoặc "không" về việc xuất bản cả hai cuốn sách.
+Tolkien trở nên tức giận trước lối suy nghĩ tập thể của Unwin và con trai ông, và yêu cầu ngay lập tức "có" hoặc "không" về việc xuất bản cả hai cuốn sách.
 
 <dl><dt>In the expanded edition</dt></dl>
 
-Cuối cùng, Tolkien lưu ý rằng ông chưa xem bài báo mà Unwin đề cập đến, và một lần nữa nói rằng vấn đề sức khỏe của ông đã khiến ông không thể trả lời sớm hơn.
+Ở cuối Tolkien lưu ý rằng ông chưa xem bài báo mà Unwin đề cập đến, và một lần nữa nói rằng vấn đề sức khỏe của ông đã khiến ông không thể trả lời sớm hơn.
 
 ## Lưu ý {#Note}
 
-Bức thư này đánh dấu sự khởi đầu của mối thù mà Tolkien có với [Allen & Unwin](../A/Allen_and_Unwin.md), và một số bức thư sau đó đã thôi thúc ông viết "[Thư của Milton Waldman](Letter_131.md)". Để biết thêm về tập này, hãy xem *[J.R.R. Tolkien: A Biography](../J/J.R.R._Tolkien%253A_A_Biography.md)* của [Humphrey Carpenter](../H/Humphrey_Carpenter.md), phần *VI 1949-1966: Success*, chương 1, "Đóng sầm cổng".
+Bức thư này đánh dấu sự khởi đầu của mối thù Tolkien với [Allen &amp; Unwin](../A/Allen_and_Unwin.md), và một số lá thư sau đó đã khiến anh viết "[Milton Waldman Bức thư](Letter_131.md)". Để biết thêm về tập này, hãy xem *[J.R.R. Tolkien: A Biography](../J/J.R.R._Tolkien%253A_A_Biography.md)* của [Humphrey Carpenter](../H/Humphrey_Carpenter.md), phần *VI 1949-1966: Success*, chương 1, "Đóng sầm cổng".
 
 <br>
 

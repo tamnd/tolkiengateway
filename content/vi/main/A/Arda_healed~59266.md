@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Arda Healed"
 ---
 
-Chuyển hướng đến [Arda đã chữa lành](Arda_Healed.md).
+Chuyển hướng đến [Arda Đã chữa lành](Arda_Healed.md).

@@ -18,4 +18,4 @@ sort_keys:
   "People by name": "Webb, John"
 ---
 
-**John Webb** lồng tiếng cho phần [Glorfindel](../G/Glorfindel.md) trong [1981](../_/1981.md) [loạt phim phát thanh](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, cùng với một số phần chưa xác định. Ông cũng có một phần không xác định trong tập "Nông dân Giles of Ham" trong [1992](../_/1992.md) [loạt phim phát thanh](<../T/Tales_from_the_Perilous_Realm_(1992_radio_series).md>) của *[Tales from the Perilous Realm](../T/Tales_from_the_Perilous_Realm.md).*
+**John Webb** lồng tiếng cho phần [Glorfindel](../G/Glorfindel.md) trong [1981](../_/1981.md) [loạt phim phát thanh](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, cùng với một số phần chưa xác định. Ông cũng có một phần không xác định trong tập "Farmer Giles of Ham" trong [1992](../_/1992.md) [loạt phim phát thanh](<../T/Tales_from_the_Perilous_Realm_(1992_radio_series).md>) của *[Tales from the Perilous Realm](../T/Tales_from_the_Perilous_Realm.md).*

@@ -14,9 +14,9 @@ categories:
   - "Sindarin nouns"
 ---
 
-<i><b>edhel</b></i> (phát âm <span title="Pronunciation in IPA" class="IPA">[ˈeðel]</span>), số nhiều <i><b>edhil</b></i> (phát âm <span title="Pronunciation in IPA" class="IPA">[ˈeðil]</span>), là từ [tiếng Sindarin](../S/Sindarin.md) để chỉ *[elf](Elves.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Nhưng đó cũng là một <a class="extiw" href="http://en.wikipedia.org/wiki/endonym" title="wikipedia:endonym">tên đồng nghĩa</a>, cái tên mà [Sindar](../S/Sindar.md) dùng để chỉ người dân của họ, là "Yêu tinh",<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> trái ngược với [Yêu tinh cấp cao](../H/High_Elves.md), [Yêu tinh bóng tối](../D/Dark_Elves.md) hoặc [Laiquendi](../L/Laiquendi.md).
+<i><b>edhel</b></i> (phát âm <span title="Pronunciation in IPA" class="IPA">[ˈeðel]</span>), số nhiều <i><b>edhil</b></i> (phát âm <span title="Pronunciation in IPA" class="IPA">[ˈeðil]</span>), là từ [Sindarin](../S/Sindarin.md) chỉ *[elf](Elves.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Nhưng đó cũng là một <a class="extiw" href="http://en.wikipedia.org/wiki/endonym" title="wikipedia:endonym">endonym</a>, cái tên mà [Sindar](../S/Sindar.md) dùng để chỉ người dân của họ, là "the Tiên tộc",<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> trái ngược với [High Elves](../H/High_Elves.md), [Tiên Hắc Ám](../D/Dark_Elves.md) hoặc [Laiquendi](../L/Laiquendi.md).
 
-Đó là một trong những từ phổ biến nhất ở Sindarin.
+Đó là một trong những từ phổ biến nhất trong Sindarin.
 
 ## Từ nguyên {#Etymology}
 
@@ -33,7 +33,7 @@ categories:
 
 ## Xem thêm {#See_also}
 
-- <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Egla&amp;action=edit&amp;redlink=1" title="Egla (page does not exist)">Egla</a></i> (cũng là Sindarin)
+- <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Egla&amp;action=edit&amp;redlink=1" title="Egla (page does not exist)">Egla</a></i> (cũng Sindarin)
 - *[Elda](Elda.md)* ([Quenya](../Q/Quenya.md))
 
 <span></span>
@@ -48,4 +48,4 @@ categories:
 </li>
 </ol></div>
 
-[J.R.R. Tolkien](../J/J.R.R._Tolkien.md), [Christopher Tolkien](../C/Christopher_Tolkien.md) (ed.), *[The War of the Jewels](../T/The_War_of_the_Jewels.md)*, "Phần thứ tư. [Quendi và Eldar](../Q/Quendi_and_Eldar.md)"
+[J.R.R. Tolkien](../J/J.R.R._Tolkien.md), [Christopher Tolkien](../C/Christopher_Tolkien.md) (ed.), *[The War of the Jewels](../T/The_War_of_the_Jewels.md)*, "Phần thứ tư. [Quendi and Eldar](../Q/Quendi_and_Eldar.md)"

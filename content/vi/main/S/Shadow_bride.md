@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Shadow-Bride"
 ---
 
-Chuyển hướng tới [Cô dâu bóng tối](Shadow-Bride.md).
+Chuyển hướng tới [Bóng Tối-Bride](Shadow-Bride.md).

@@ -11,4 +11,4 @@ redirect_target: "Dior"
 redirect_fragment: "Other names and titles"
 ---
 
-Chuyển hướng tới [Dior](../D/Dior.md#Other_names_and_titles).
+Chuyển hướng đến [Dior](../D/Dior.md#Other_names_and_titles).

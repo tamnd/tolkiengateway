@@ -37,19 +37,19 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/Lori_Deitrick_-_Orophin.png.md"><img src="https://tolkiengateway.net/w/images/7/77/Lori_Deitrick_-_Orophin.png" decoding="async" loading="lazy" width="299" height="253" class="mw-file-element" data-file-width="299" data-file-height="253"/></a><figcaption>&#34;Orophin&#34; by <a href="../../category/I/Images_by_Lori_Deitrick.md" title="Category:Images by Lori Deitrick">Lori Deitrick</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../S/Silvan_Elves.md" title="Silvan Elves">Silvan Elf</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Orophin</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Position</th><td class="tg-infobox-data">Marchwarden</td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../L/Lothlórien.md" title="Lothlórien">Lothlórien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Affiliation</th><td class="tg-infobox-data"><a href="../L/Lothlórien.md" title="Lothlórien">Lothlórien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data"><a class="mw-redirect" href="../N/Nandorin.md" title="Nandorin">Nandorin</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">Siblings</th><td class="tg-infobox-data"><a href="../H/Haldir.md" title="Haldir">Haldir</a> and <a href="../R/Rúmil_(elf_of_Lórien).md" title="Rúmil (elf of Lórien)">Rúmil</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Orophin.md" title="Category:Images of Orophin">Images of Orophin</a></td></tr></tbody></table>
 
-**Orophin** là một [Yêu tinh Silva](../S/Silvan_Elves.md) của [Lothlórien](../L/Lothlórien.md).
+**Orophin** là [Silvan Tiên](../S/Silvan_Elves.md) của [Lothlórien](../L/Lothlórien.md).
 
 ## Lịch sử {#History}
 
-Orophin là anh trai của [Haldir](../H/Haldir.md) và [Rúmil](<../R/Rúmil_(elf_of_Lórien).md>). Ông ta là một trong những [Galadhrim](../G/Galadhrim.md) hiếm khi rời khỏi Lothlórien và chỉ nói một chút tiếng [Westron](../W/Westron.md).
+Orophin là anh trai của [Haldir](../H/Haldir.md) và [Rúmil](<../R/Rúmil_(elf_of_Lórien).md>). Ông là một trong những người [Galadhrim](../G/Galadhrim.md) hiếm khi rời khỏi Lothlórien và chỉ nói một chút về [Westron](../W/Westron.md).
 
 Ông ta là một trong ba người cai ngục biên giới phía bắc của Lothlórien được [Học bổng](../F/Fellowship_of_the_Ring.md) gặp khi họ tiến vào [Golden Wood](../L/Lothlórien.md)<sup id="cite_ref-ii6_1-0" class="reference"><a href="#cite_note-ii6-1">[1]</a></sup> vào [15 tháng 1](../_/15_January.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Vài ngày sau, khi người ta nhìn thấy một nhóm gồm hàng trăm [Orc](Orcs.md) đi ngang qua [Nimrodel](<../N/Nimrodel_(river).md>), ba anh em đã đi trước và giả giọng nói, dẫn họ vào rừng. Orophin chạy lại cảnh báo người Galadhrim và chuẩn bị phục kích, củng cố khu rừng.<sup id="cite_ref-ii6_1-1" class="reference"><a href="#cite_note-ii6-1">[1]</a></sup>
+Vài ngày sau, khi người ta nhìn thấy một nhóm trăm người [Orc](Orcs.md) đi ngang qua [Nimrodel](<../N/Nimrodel_(river).md>), ba anh em đã đi trước và giả giọng nói, dẫn họ vào rừng. Orophin chạy lại cảnh báo Galadhrim và chuẩn bị phục kích, củng cố khu rừng.<sup id="cite_ref-ii6_1-1" class="reference"><a href="#cite_note-ii6-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-[Robert Foster](../R/Robert_Foster.md) đã xác định tên này là [Sindarin](../S/Sindarin.md) hoặc [Silvan](../S/Silvan.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Tại một thời điểm khác, nó được mô tả là "*suitable to [Sindarin](../S/Sindarin.md) sounds and patterns*" mặc dù nó là "*not clearly etymologizable as Sindarin*".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+[Robert Foster](../R/Robert_Foster.md) đã xác định tên là [Sindarin](../S/Sindarin.md) hoặc [Silvan](../S/Silvan.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Tại một thời điểm khác, nó được mô tả là "*suitable to [Sindarin](../S/Sindarin.md) sounds and patterns*" mặc dù nó là "*not clearly etymologizable as Sindarin*".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 Một khả năng là *Orophin* có nghĩa là "Đỉnh núi", từ *[orod](Orod.md)* và *[pind](../P/Pind.md)*.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
@@ -79,15 +79,15 @@ Một khả năng là *Orophin* có nghĩa là "Đỉnh núi", từ *[orod](Orod
 		</li>
 </ul>
 
-<b>1995-8: <i><a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Trò chơi thẻ bài sưu tầm ở Trung Địa</a></i>:</b>
+<b>1995-8: <i><a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Trung Địa Trò chơi bài sưu tầm</a></i>:</b>
 
 <dl><dd>Orophin is a Warrior/Ranger Elf.</dd></dl>
 
-<b>2001: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">Chúa tể của những chiếc nhẫn: Hiệp hội những chiếc nhẫn</a></i>:</b>
+<b>2001: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i>:</b>
 
 <dl><dd>Cards from <i><a href="../T/The_Lord_of_the_Rings_Trading_Card_Game.md" title="The Lord of the Rings Trading Card Game">The Lord of the Rings Trading Card Game</a></i> expansions <i>Fellowship of the Ring</i>,<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> <i>Black Rider</i><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> and <i>Rise of Saruman</i><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> identify one of the <a href="../G/Galadhrim.md" title="Galadhrim">Elves</a> of <a href="../L/Lothlórien.md" title="Lothlórien">Lothlórien</a> as Orophin. He is portrayed by <a href="../J/Jason_Secto.md" title="Jason Secto">Jason Secto</a>.</dd></dl>
 
-<b>2009: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
+<b>2009: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Orophin can be found on the western outskirts of <a href="../L/Lothlórien.md" title="Lothlórien">Lothlórien</a>, defending the borders against the <a class="mw-redirect" href="Orc.md" title="Orc">orc</a> attacks.</dd></dl>
 

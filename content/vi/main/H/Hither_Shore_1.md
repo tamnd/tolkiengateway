@@ -37,17 +37,17 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/H/Hither_Shore_1.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/9f/Hither_Shore_1.jpg/320px-Hither_Shore_1.jpg" decoding="async" loading="lazy" width="320" height="461" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/9/9f/Hither_Shore_1.jpg 1.5x" data-file-width="445" data-file-height="641"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Hither Shore Band 1<br/><small>Tolkien und seine Deutungen</small></span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../T/Thomas_Fornet-Ponse.md" title="Thomas Fornet-Ponse">Thomas Fornet-Ponse</a></td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="../A/Anke_Eißmann.md" title="Anke Eißmann">Anke Eißmann</a> (cover art)</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a class="mw-redirect" href="../D/Deutsche_Tolkien_Gesellschaft.md" title="Deutsche Tolkien Gesellschaft">Deutsche Tolkien Gesellschaft</a>/Scriptorium Oxoniae</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/10_April.md" title="10 April">10 April</a> <a href="../_/2004.md" title="2004">2004</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Softcover</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">208</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/3-00-015786-7" title="Special:BookSources/3-00-015786-7">3-00-015786-7</a></td></tr></tbody></table>
 
-<b><i>Hither Shore</i> Band 1: <i>Tolkien und seine Deutungen</i></b> là tập đầu tiên của tạp chí *[Hither Shore](<Hither_Shore_(journal).md>)*.
+<b><i>Ở đây Shore</i> Band 1: <i>Tolkien und seine Deutungen</i></b> là tập đầu tiên của tạp chí *[Hither Shore](<Hither_Shore_(journal).md>)*.
 
 ## Nội dung {#Contents}
 
-- "Lời phê bình Tolkien — được tải lại" của [Marcel Bülles](../M/Marcel_Bülles.md)
+- "Tolkien Phê bình — được tải lại" bởi [Marcel Bülles](../M/Marcel_Bülles.md)
 - "Verbotene Pfade nach Mittelerde?" của Oliver D. Bidlo
 - "Chết *interpretatio mediavelia* von Tolkiens Werk" của [Thomas Honegger](../T/Thomas_Honegger.md)
-- "'Chúa tể của những chiếc nhẫn tất nhiên là một tác phẩm tôn giáo và Công giáo cơ bản': Tolkien zwischen christlicher Instrumentaliserung und thelogischer Rezeption" của [Thomas Fornet-Ponse](../T/Thomas_Fornet-Ponse.md)
+- "'The Lord of the Rings nếu tất nhiên là một tác phẩm tôn giáo và Công giáo cơ bản': Tolkien zwischen christlicher Instrumentaliserung und thelogischer Rezeption" của [Thomas Fornet-Ponse](../T/Thomas_Fornet-Ponse.md)
 - "'Mọi người luôn sẵn sàng từ chối': Zur Möglichkeit triết gia Interpretationen Tolkiens fiktionaler Werke am Beispiel der Willensfreiheit" của Frank Weinreich
 - "Verschiedene Interpretationen eines Textes als Grundlage von Übersetzungsstrategien: Die 'alte' und die 'neue' deutsche HdR-Übersetzung" của [Rainer Nagel](../R/Rainer_Nagel.md)
-- "Die Texte zum Soundtrack der Peter-Jackson-Filme — 'Dị giáo ngôn ngữ của Tolkien' — một cách giải thích hợp pháp" của Alexandra Velten
+- "Die Texte zum Soundtrack der Peter-Jackson-Filme — 'Tolkien's ngôn ngữ dị giáo' — một cách giải thích hợp pháp" của Alexandra Velten
 - "Hin und zurück? — Frodos Reise im Licht dialektischen Denkens und einer Ethik des Anderen" của Gregor Raddatz
 - Đang tiến hành (bởi Stefan Rösch)
 - Rezensionen

@@ -31,7 +31,7 @@ infobox:
 **Mythcon 52** là hội nghị [Hiệp hội thần thoại](Mythopoeic_Society.md) thường niên lần thứ 52.
 
 - **Chủ đề:** "Thần thoại, Kỳ ảo và Người ngoài hành tinh"
-- **Khách mời danh dự:** Rivera Sun (tác giả truyện giả tưởng) và [David Bratman](../D/David_Bratman.md) (học giả [Tolkien](../J/J.R.R._Tolkien.md))
+- **Khách mời danh dự:** Rivera Mặt Trời (tác giả truyện giả tưởng) và [David Bratman](../D/David_Bratman.md) (học giả[Tolkien](../J/J.R.R._Tolkien.md))
 
 ## Liên kết ngoài {#External_links}
 

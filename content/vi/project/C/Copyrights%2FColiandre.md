@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Coliandre"
 ---
 
-- Coliandre đã vui lòng cấp phép sử dụng [tác phẩm nghệ thuật của họ](../../category/I/Images_by_Coliandre.md) trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
+- Coliandre đã vui lòng cấp phép sử dụng [tác phẩm nghệ thuật của họ](../../category/I/Images_by_Coliandre.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Ngày: [17 tháng 5](../../main/M/May_17.md), [2023](../../main/_/2023.md)
 - Người dùng đã nhận được sự cho phép qua email: [Người dùng:Hyarion](https://tolkiengateway.net/wiki/User:Hyarion)

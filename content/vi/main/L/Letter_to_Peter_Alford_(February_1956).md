@@ -20,23 +20,23 @@ images:
 
 Vào [tháng 2](../F/February.md) [1956](../_/1956.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho Peter Alford**. Có thể nó được viết vào giữa tháng 2 [1956](../_/1956.md).<sup id="cite_ref-CG_1-0" class="reference"><a href="#cite_note-CG-1">[1]</a></sup>
 
-- **Chủ đề:** Tolkien cung cấp thông tin chi tiết về tựa đề được xem xét cho sáu cuốn sách của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.<sup id="cite_ref-CG_1-1" class="reference"><a href="#cite_note-CG-1">[1]</a></sup>
+- **Chủ đề:** Tolkien cung cấp thông tin chi tiết về tên sách được xem xét cho sáu cuốn sách của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.<sup id="cite_ref-CG_1-1" class="reference"><a href="#cite_note-CG-1">[1]</a></sup>
 - **Ấn bản:** Các đoạn trích xuất hiện trong *[Sotheby's Valuable Printed Books and Manuscripts 13 December 2001](../S/Sotheby's_Valuable_Printed_Books_and_Manuscripts_13_December_2001.md)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Nội dung {#Contents}
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/P/Peter_Alford_-_The_Lord_of_the_Rings.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/9d/Peter_Alford_-_The_Lord_of_the_Rings.jpg/300px-Peter_Alford_-_The_Lord_of_the_Rings.jpg" decoding="async" loading="lazy" width="300" height="213" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/9d/Peter_Alford_-_The_Lord_of_the_Rings.jpg/450px-Peter_Alford_-_The_Lord_of_the_Rings.jpg 1.5x, https://tolkiengateway.net/w/images/9/9d/Peter_Alford_-_The_Lord_of_the_Rings.jpg 2x" data-file-width="575" data-file-height="409"/></a><figcaption>Peter Alford&#39;s set of <i>The Lord of the Rings</i></figcaption></figure>
 
-[Pieter Collier](../P/Pieter_Collier.md) đã lưu ý rằng Peter Alford là một người đóng sách, người đã viết thư cho Tolkien xin phép đóng bộ *Lord of the Rings* của ông với các tựa đề phụ của chính ông. Tolkien đã chấp thuận nhưng cũng nêu chi tiết các tựa sách ưa thích của mình:
+[Pieter Collier](../P/Pieter_Collier.md) đã lưu ý rằng Peter Alford là một người đóng sách, người đã viết thư cho Tolkien xin phép đóng sách *Lord of the Rings* của mình với các tựa đề phụ của chính mình. Tolkien đã được phê duyệt nhưng cũng nêu chi tiết các chức danh ưa thích của ông:
 
 <blockquote class="tg-quote noexcerpt">
 <p>I think your own choices may stand. The only real divisions are, of course, the &#39;books&#39;. It may interest you to know what the titles were to have been, before the decision to publish in three parts.<i><br/><br/></i>I The First Journey (the Ring sets out.)<i><br/></i>II The Journey of the Nine Companions (the Ring goes South)<i><br/></i>III The Treason of Isengard<i><br/></i>IV The Journey of the Ringbearer (the Ring goes east)<i><br/></i>V The War of the Ring<i><br/></i>VI The End of the Third Age<i><br/><br/></i>The alternative or sub-titles in brackets would have been abandoned, I think.&#34;
 </p>
 </blockquote>
 
-Bộ của Alford (được bán bởi [Sotheby's](../S/Sotheby's.md) với giá 32.450 bảng Anh vào tháng 12 năm 2001) bao gồm ghi chú sau của Tolkien:
+Bộ của Alford (được bán bởi [Sotheby's](../S/Sotheby's.md) với giá 32.450 bảng Anh vào tháng 12 năm 2001) bao gồm tờ ghi chú sau của Tolkien:
 
-"*Tiêu đề của sáu cuốn sách, cách phân chia thích hợp duy nhất của Chúa tể những chiếc nhẫn là những tiêu đề ban đầu được nghĩ ra trước khi xuất bản thành ba phần. Peter Alford được tôi chấp thuận về việc lựa chọn tiêu đề phụ trên bìa sách của riêng ông. J.R.R. Tolkien*".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+"*Tiêu đề của sáu cuốn sách, cách phân chia thích hợp duy nhất của The Lord of the Rings là những tiêu đề ban đầu được nghĩ ra trước khi xuất bản thành ba phần. Peter Alford được tôi chấp thuận về việc lựa chọn tiêu đề phụ trên bìa sách của riêng ông. J.R.R. Tolkien*".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Third Age 830"
 ---
 
-Chuyển hướng đến [Thời đại thứ ba 830](Third_Age_830.md).
+Chuyển hướng tới [Kỷ Đệ Tam 830](Third_Age_830.md).

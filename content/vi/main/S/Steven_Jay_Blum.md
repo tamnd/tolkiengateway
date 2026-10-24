@@ -26,7 +26,7 @@ sort_keys:
 - [2011](../_/2011.md): *[The Lord of the Rings: War in the North](../T/The_Lord_of_the_Rings%253A_War_in_the_North.md)*: Không xác định
 - [2010](../_/2010.md): *[The Lord of the Rings: Aragorn's Quest](../T/The_Lord_of_the_Rings%253A_Aragorn's_Quest.md)*: Không xác định
 - [2006](../_/2006.md): *[The Lord of the Rings: The Battle for Middle-earth II](../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md)*: Không xác định
-- [2003](../_/2003.md): *[The Lord of the Rings: War of the Ring](../T/The_Lord_of_the_Rings%253A_War_of_the_Ring.md)*: [Varin](../V/Varin.md), Kiếm sĩ Gondor, Người phá khiên người lùn
+- [2003](../_/2003.md): *[The Lord of the Rings: War of the Ring](../T/The_Lord_of_the_Rings%253A_War_of_the_Ring.md)*: [Varin](../V/Varin.md), Gondor Kiếm sĩ, Người lùn Người phá khiên
 
 <span></span>
 

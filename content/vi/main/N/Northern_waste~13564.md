@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Northern Waste"
 ---
 
-Chuyển hướng đến [Rác thải phía Bắc](Northern_Waste.md).
+Chuyển hướng đến [Northern Waste](Northern_Waste.md).

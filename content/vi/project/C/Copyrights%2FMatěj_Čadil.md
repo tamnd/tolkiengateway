@@ -15,5 +15,5 @@ sort_keys:
 ---
 
 - Tất cả hình ảnh đều do người giữ bản quyền tải lên.
-- Việc sử dụng các hình ảnh bên ngoài Cổng Tolkien bị cấm nếu không có sự cho phép của [Matěj Čadil](https://tolkiengateway.net/wiki/User:Neral).
+- Việc sử dụng hình ảnh bên ngoài Tolkien Gateway bị cấm nếu không có sự cho phép của [Matěj Čadil](https://tolkiengateway.net/wiki/User:Neral).
 - Xác nhận quyền được cấp qua email tới [Người dùng:KingAragorn](https://tolkiengateway.net/wiki/User:KingAragorn) vào ngày 9 tháng 7 năm 2012.

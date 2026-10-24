@@ -71,7 +71,7 @@ Baranor là con trai thứ hai của [Baran](Baran.md) và cháu trai của [Bë
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong *[The Grey Annals](../T/The_Grey_Annals.md)*, được thành lập vào những năm 1930,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Bëor được nối tiếp bởi các con trai của ông là [Bregolas](Bregolas.md) và [Barahir](Barahir.md). Sau khi *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* xuất bản, một phả hệ mới của Nhà Bëor đã được lập vào những năm 1950 và vào thời điểm đó bốn thế hệ (Baran, Boron, Boromir và Bregor) đã được thêm vào sau Bëor và trước Bregolas và Barahir. **Baranor** cũng được thêm vào làm anh trai của Boron.<sup id="cite_ref-WJBeor_1-1" class="reference"><a href="#cite_note-WJBeor-1">[1]</a></sup>
+Trong *[The Grey Annals](../T/The_Grey_Annals.md)*, được tạo ra vào những năm 1930,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Bëor được theo sau bởi các con trai của ông là [Bregolas](Bregolas.md) và [Barahir](Barahir.md). Sau khi xuất bản *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, một phả hệ mới cho Nhà Bëor đã được tạo ra vào những năm 1950 và vào thời điểm đó bốn thế hệ (Baran, Boron, Boromir và Bregor) đã được chèn vào sau Bëor và trước Bregolas và Barahir. **Baranor** cũng được thêm vào làm anh trai của Boron.<sup id="cite_ref-WJBeor_1-1" class="reference"><a href="#cite_note-WJBeor-1">[1]</a></sup>
 
 <span></span>
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Book of Lost Tales"
 ---
 
-Chuyển hướng tới [Cuốn sách về những câu chuyện đã mất](../T/The_Book_of_Lost_Tales.md).
+Chuyển hướng đến [The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md).

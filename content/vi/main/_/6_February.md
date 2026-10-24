@@ -64,13 +64,13 @@ Sự kiện xảy ra vào ngày 6 tháng 2
 ## Trên Trái đất {#On_Earth}
 
 - **[1968](1968.md)** - Ngày quay thứ hai [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) cho bộ phim tài liệu *[Tolkien in Oxford](../T/Tolkien_in_Oxford.md)*.
-- **[1972](1972.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một bức thư gửi Vera Chapman và Hiệp hội Tolkien](../L/Letter_to_Vera_Chapman_and_the_Tolkien_Society.md).
-- **[1978](1978.md)** - William Sievert đăng bài viết "A Mania for Middle-earth" trên *Chronicle for Higher Education*.
+- **[1972](1972.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một bức thư gửi Vera Chapman và Hội Tolkien](../L/Letter_to_Vera_Chapman_and_the_Tolkien_Society.md).
+- **[1978](1978.md)** - William Sievert đăng bài viết "A Mania for Trung Địa" trên *Chronicle for Higher Education*.
 - **[1995](1995.md)** - Diễn viên lồng tiếng [Frank Duncan](../F/Frank_Duncan.md) qua đời.
 - **[2008](2008.md)** - Nghệ sĩ [John Alvin](../J/John_Alvin.md) qua đời.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - Nhóm [Hiệp hội chiếc nhẫn](../F/Fellowship_of_the_Ring.md) nằm ở [Lothlórien](../L/Lothlórien.md).
+    - [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) nằm trong [Lothlórien](../L/Lothlórien.md).
     - [Uglúk](../U/Uglúk.md) và đội quân của ông ta tìm kiếm Học bổng ở phía bắc [Rohan](../R/Rohan.md).

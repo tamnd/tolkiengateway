@@ -22,7 +22,7 @@ sort_keys:
 
 ## Vai trò {#Roles}
 
-- [1968](../_/1968.md): [*The Hobbit* (loạt phim phát thanh năm 1968)](<../T/The_Hobbit_(1968_radio_series).md>): [Bậc thầy của Esgaroth](../M/Master_of_Lake-town.md)
+- [1968](../_/1968.md): [*The Hobbit* (loạt phim phát thanh năm 1968)](<../T/The_Hobbit_(1968_radio_series).md>): [Bậc thầy Esgaroth](../M/Master_of_Lake-town.md)
 
 ## Liên kết ngoài {#External_links}
 

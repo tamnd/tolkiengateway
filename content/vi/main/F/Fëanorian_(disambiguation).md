@@ -16,10 +16,10 @@ images:
 
 **Fëanorian** có thể đề cập đến:
 
-- **[Gia tộc Fëanor](../H/House_of_Fëanor.md)**, với các thành viên là **[Fëanor](Fëanor.md)**, [Bảy đứa con trai](../S/Sons_of_Fëanor.md) của ông và những người đi theo họ.
+- Nhóm **[Nhà Fëanor](../H/House_of_Fëanor.md)**, có các thành viên là **[Fëanor](Fëanor.md)**, [Bảy đứa con trai](../S/Sons_of_Fëanor.md) của ông và những người đi theo họ.
 - Chữ viết Feanorian, thường được gọi là <i><b><a href="../T/Tengwar.md" title="Tengwar">Tengwar</a></b></i>.
-- **[Phương ngữ Fëanorian](Fëanorian_dialect.md)** của [Noldor](../N/Noldor.md) ở [Đông Beleriand](../E/East_Beleriand.md).
-- **[Đèn Fëanorian](Fëanorian_lamps~17189.md)**, một hiện vật quý hiếm của Noldorin.
+- **[Phương ngữ Fëanorian](Fëanorian_dialect.md)** của [Noldor](../N/Noldor.md) trong [phương Đông-Beleriand](../E/East_Beleriand.md).
+- Những chiếc **[Đèn Fëanorian](Fëanorian_lamps~17189.md)**, một hiện vật Noldorin quý hiếm.
 
 <hr style="margin-top:15px;"/>
 

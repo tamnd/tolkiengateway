@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Angerthas Erebor"
 ---
 
-Chuyển hướng tới [Angerthas Erebor](../A/Angerthas_Erebor.md).
+Chuyển hướng đến [Angerthas Erebor](../A/Angerthas_Erebor.md).

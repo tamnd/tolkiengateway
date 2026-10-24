@@ -16,7 +16,7 @@ images:
   - "Sergio_Artigas_artworks_permission_for_Tolkien_Gateway_July_2021_(AHG).png"
 ---
 
-- Artigas đã vui lòng cho phép ông sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Artigas.md) trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
+- Artigas đã vui lòng cho phép ông sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Artigas.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Ngày: 26 tháng 6 năm 2021, 17 tháng 7 năm 2021
 - Người dùng đã xin phép thông qua DeviantArt: [IvarTheBoneless](https://tolkiengateway.net/wiki/User:IvarTheBoneless) và [A Hobbit Gentleman](https://tolkiengateway.net/wiki/User:A_Hobbit_Gentleman)
 - Ảnh chụp màn hình bằng chứng về sự cho phép của tác giả:

@@ -42,17 +42,17 @@ infobox:
 ### Bài viết {#Articles}
 
 - [2003](../_/2003.md): *[Tolkien, trente ans après](../T/Tolkien,_trente_ans_après.md)*
-    - "La Terre du Milieu et les royaumes voisins: de l'influence de Tolkien sur les Cycles de Fantasy đương thời", tr. 357-379.
+    - "La Terre du Milieu et les royaumes voisins: de l'influence de Tolkien sur les Cycles của Fantasy đương thời", tr. 357-379.
 - [2007](../_/2007.md): *Fantasy, le merveilleux médiéval aujourd’hui*, ed. Anne Besson và Myriam White-Le Goff, Paris, Bragelonne, «Essais», 2007.
     - "<a class="external text" href="https://www.tolkiendil.com/essais/colloques/colloque_crelid/a_besson" rel="noreferrer noopener" target="_blank">Arthur et Tolkien, seigneurs rivaux, fantasy et transfictionnalité</a>", dans le cadre du colloque «Ảo tưởng, le merveilleux médiéval aujourd'hui» (CRELID, Université d'Artois, les 16-17 mars 2006), p. 75-86.
 - [2011](../_/2011.md): *[Tolkien aujourd'hui](../T/Tolkien_aujourd'hui.md)*
     - "Fécondités d'un malentendu: la postérité de Tolkien en fantasy", (actes du colloque de Rambures, 13-15 juin 2008), tr. 197-209.
 - [2011](../_/2011.md): *Contemporary French &amp; Francophone Studies: SITES*, Routledge, n° 15.2, dir. của Anne Berthelot và Alain Lescart, tháng 3 năm 2011.
     - "Comme une ombre lointaine. L'influence de Tolkien sur la fantasy française", tr. 141-151.
-- [2016](../_/2016.md): *Europe*, số đặc biệt dành riêng cho Tolkien và Lovecraft, đạo diễn. Roger Bozzetto và [Vincent Ferré](../V/Vincent_Ferré.md).
-    - "Tolkien et la fantasy, encore et toujours? Légitimations croisées, filiations Contestées", tr. 149-157.
+- [2016](../_/2016.md): *Europe*, số đặc biệt dành riêng cho Tolkien và Lovecraft, dir. Roger Bozzetto và [Vincent Ferré](../V/Vincent_Ferré.md).
+    - "Tolkien et la fantasy, encore et toujours? Légitimations croisées, filiations Contestées", p. 149-157.
 - [2019](../_/2019.md) : *Revue de la Bibliothèque nationale de France*, n°59.
-    - "L'arbre et la forêt: postérité de Tolkien en fantasy", trang. 21-12.
+    - "L'arbre et la forêt: postérité de Tolkien en fantasy", tr. 21-12.
 
 ## Liên kết ngoài {#External_links}
 

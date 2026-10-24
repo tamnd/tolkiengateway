@@ -28,15 +28,15 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Plant</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Funguses</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">Across <a href="../M/Middle-earth.md" title="Middle-earth">Middle-earth</a></td></tr><tr><th scope="row" class="tg-infobox-label">Notable for</th><td class="tg-infobox-data"><a href="../M/Mushrooms.md" title="Mushrooms">Mushrooms</a></td></tr></tbody></table>
 
-**Nấm** là một loại sinh vật bao gồm [nấm](../M/Mushrooms.md).<sup id="cite_ref-Cut_1-0" class="reference"><a href="#cite_note-Cut-1">[1]</a></sup> Có một số loại nấm mọc ở [Mirkwood](../M/Mirkwood.md) cùng với <a class="new" href="https://tolkiengateway.net/w/index.php?title=Herbs&amp;action=edit&amp;redlink=1" title="Herbs (page does not exist)">thảo mộc</a>.<sup id="cite_ref-spiders_2-0" class="reference"><a href="#cite_note-spiders-2">[2]</a></sup> Những loại nấm và thảo mộc này có "lá nhạt và mùi khó chịu".<sup id="cite_ref-spiders_2-1" class="reference"><a href="#cite_note-spiders-2">[2]</a></sup> Trong [cuộc vây hãm Gondor](../S/Siege_of_Gondor.md), lũ Orc hành quân đối với [Minas Tirith](../M/Minas_Tirith.md) được so sánh với "sự phát triển của nấm hôi".<sup id="cite_ref-siege_3-0" class="reference"><a href="#cite_note-siege-3">[3]</a></sup>
+**Nấm** là một loại sinh vật bao gồm [nấm](../M/Mushrooms.md).<sup id="cite_ref-Cut_1-0" class="reference"><a href="#cite_note-Cut-1">[1]</a></sup> Có một số loại nấm phát triển trong [Mirkwood](../M/Mirkwood.md) cùng với <a class="new" href="https://tolkiengateway.net/w/index.php?title=Herbs&amp;action=edit&amp;redlink=1" title="Herbs (page does not exist)">thảo mộc</a>.<sup id="cite_ref-spiders_2-0" class="reference"><a href="#cite_note-spiders-2">[2]</a></sup> Những loại nấm và thảo mộc này có "lá nhạt và mùi khó chịu".<sup id="cite_ref-spiders_2-1" class="reference"><a href="#cite_note-spiders-2">[2]</a></sup> Trong [cuộc vây hãm Gondor](../S/Siege_of_Gondor.md), Orc hành quân về phía [Minas Tirith](../M/Minas_Tirith.md) được so sánh với "một loại nấm phát triển hôi hám".<sup id="cite_ref-siege_3-0" class="reference"><a href="#cite_note-siege-3">[3]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong một ghi chú thảo luận về [Drúedain](../D/Drúedain.md), Tolkien đã đề cập đến các loại nấm ở [Thời đại thứ nhất](First_Age.md): chúng thường bị [Yêu tinh](../E/Elves.md) và hầu hết [Edain](../E/Edain.md) coi là xấu xí và nguy hiểm, và những người ít khôn ngoan hơn gọi chúng là "cây ork-plants", tin rằng chúng bị [Morgoth](../M/Morgoth.md) nguyền rủa và tàn lụi. Các Eldar không ăn chúng và chỉ một số ít Edain biết cách phân biệt những gì ăn được và có thể ăn chúng vì cơn đói khủng khiếp khi lạc vào nơi hoang dã. Người Drúedain có truyền thuyết về thực vật và ăn nấm một cách thích thú (trước sự ngạc nhiên của các dân tộc khác), và họ đã nuôi trồng những loại nấm yêu thích của mình. Họ truyền kiến ​​thức này cho [Haladin](../H/Haladin.md), người ăn chúng khi có khách không lịch sự và giải quyết cho họ khi cần. Tolkien sau đó đã loại bỏ mảnh giấy đó vì tin rằng đặc điểm này khiến Drúedain "quá giống người Hobbit".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Trong một ghi chú thảo luận về [Drúedain](../D/Drúedain.md), Tolkien đã đề cập đến các loại nấm trong [Kỷ Đệ Nhất](First_Age.md): chúng thường bị [Tiên tộc](../E/Elves.md) và hầu hết [Edain](../E/Edain.md) coi là xấu xí và nguy hiểm, và những người ít khôn ngoan hơn gọi chúng là "cây ork", tin rằng chúng bị [Morgoth](../M/Morgoth.md) nguyền rủa và tàn lụi. Những con Eldar không ăn chúng và chỉ một số ít Edain biết cách phân biệt những con ăn được và có thể ăn chúng vì cơn đói khủng khiếp khi bị lạc trong tự nhiên. Người Drúedain có truyền thuyết về thực vật và ăn nấm một cách thích thú (trước sự ngạc nhiên của những dân tộc khác), và họ đã nuôi trồng những loại nấm mà họ yêu thích. Họ truyền đạt kiến ​​thức này cho [Haladin](../H/Haladin.md), những người sẽ ăn chúng khi có khách không lịch sự và giải quyết cho họ khi cần. Tolkien sau đó đã loại bỏ ghi chú vì tin rằng đặc điểm này khiến Drúedain "quá giống Hobbit".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1984-1997: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Nhập vai Trung Địa</a></i></b>
+<b>1984-1997: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i></b>
 
 <dl><dd>The various books released for the game describe many different kinds of funguses:</dd></dl>
 
@@ -76,7 +76,7 @@ Trong một ghi chú thảo luận về [Drúedain](../D/Drúedain.md), Tolkien 
 
 <dl><dd><b>Zur</b> (<a href="../S/Sindarin.md" title="Sindarin">S.</a> <i>Durníd</i>, <a href="../Q/Quenya.md" title="Quenya">Q.</a> <i>Mornenda</i>), also called <i>Strapack</i>, was a pale, slimy fungus growing in cold, lightless caves. Though small, it could be brewed into a foul-smelling tea that heightened the senses of hearing and smell to uncanny levels. Drinkers could overhear conversations from afar or detect poison by scent, but the initial rush often made them vomit, and few dared to repeat the experience.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup></dd></dl>
 
-<b>2005: <i><a href="../T/The_Lord_of_the_Rings_Roleplaying_Game.md" title="The Lord of the Rings Roleplaying Game">Trò chơi nhập vai Chúa tể của những chiếc nhẫn</a>: <a href="../P/Paths_of_the_Wise%253A_The_Guide_to_Magicians_and_Loremasters.md" title="Paths of the Wise: The Guide to Magicians and Loremasters">Con đường của nhà thông thái</a></i></b>
+<b>2005: <i><a href="../T/The_Lord_of_the_Rings_Roleplaying_Game.md" title="The Lord of the Rings Roleplaying Game">The Lord of the Rings Trò chơi nhập vai</a>: <a href="../P/Paths_of_the_Wise%253A_The_Guide_to_Magicians_and_Loremasters.md" title="Paths of the Wise: The Guide to Magicians and Loremasters">Con đường khôn ngoan</a></i></b>
 
 <dl><dd>Two types of funguses are distinguished:</dd></dl>
 
@@ -84,11 +84,11 @@ Trong một ghi chú thảo luận về [Drúedain](../D/Drúedain.md), Tolkien 
 
 <dl><dd><b>Norrog</b> was a puffy, brown cavern fungus with a gritty taste. Even unprepared, a handful could sustain a Man for a day. Properly prepared, it increased vigour and granted resilience. Orcs often used its taste to mask poisons.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup></dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>In the game, many creatures, most commonly <a href="../O/Orcs.md" title="Orcs">Orc-kind</a>, <a href="../S/Spiders.md" title="Spiders">Spiders</a>, and <a href="../T/Trolls.md" title="Trolls">Trolls</a>, possess a fungal infection from the <a class="external text" href="https://lotro-wiki.com/wiki/Foundations_of_Stone" rel="noreferrer noopener" target="_blank">Foundations of Stone</a>. These creatures are referred to as <a class="new" href="https://tolkiengateway.net/w/index.php?title=Globsnaga&amp;action=edit&amp;redlink=1" title="Globsnaga (page does not exist)">Globsnaga</a>.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup></dd></dl>
 
-<b>2014: <i><a href="../M/Middle-earth%253A_Shadow_of_Mordor.md" title="Middle-earth: Shadow of Mordor">Trung địa: Cái bóng của Mordor</a></i></b>
+<b>2014: <i><a href="../M/Middle-earth%253A_Shadow_of_Mordor.md" title="Middle-earth: Shadow of Mordor">Trung Địa: Bóng Tối trong số Mordor</a></i></b>
 
 <dl><dd>Several funguses can be foraged in the game:<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup></dd></dl>
 
@@ -98,7 +98,7 @@ Trong một ghi chú thảo luận về [Drúedain](../D/Drúedain.md), Tolkien 
 
 ## Liên kết ngoài {#External_links}
 
-- <cite class="citation cite-web"><span class="cite-web-author"><a class="new" href="https://tolkiengateway.net/w/index.php?title=Mark_Fisher&amp;action=edit&amp;redlink=1" title="Mark Fisher (page does not exist)">Mark Fisher</a> (28 tháng 6 năm 2023)</span>. <span class="cite-web-article"><a class="external text" href="https://www.glyphweb.com/arda/f/funguses.html" rel="noreferrer noopener" target="_blank">"Nấm"</a></span>. <span class="cite-web-website"><a href="../E/Encyclopedia_of_Arda.md" title="Encyclopedia of Arda">Bách khoa toàn thư về Arda</a></span>. <span class="cite-web-accessed">Truy cập ngày 27 tháng 8 năm 2025</span></cite>
+- <cite class="citation cite-web"><span class="cite-web-author"><a class="new" href="https://tolkiengateway.net/w/index.php?title=Mark_Fisher&amp;action=edit&amp;redlink=1" title="Mark Fisher (page does not exist)">Mark Fisher</a> (28 tháng 6 năm 2023)</span>. <span class="cite-web-article"><a class="external text" href="https://www.glyphweb.com/arda/f/funguses.html" rel="noreferrer noopener" target="_blank">"Nấm"</a></span>. <span class="cite-web-website"><a href="../E/Encyclopedia_of_Arda.md" title="Encyclopedia of Arda">Bách khoa toàn thư Arda</a></span>. <span class="cite-web-accessed">Truy cập ngày 27 tháng 8 năm 2025</span></cite>
 
 <span></span>
 

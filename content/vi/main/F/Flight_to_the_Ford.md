@@ -43,19 +43,19 @@ infobox:
 <p class="tg-quote-footer"><cite><a href="../G/Glorfindel.md" title="Glorfindel">Glorfindel</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Chuyến bay tới chiếc Ford** là chương thứ mười hai và là chương cuối cùng trong cuốn sách đầu tiên của *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)*. Các nhân vật chính là [Frodo Baggins](Frodo_Baggins.md), [Strider](../S/Strider.md) và [Glorfindel](../G/Glorfindel.md), cùng với [Samwise (Sam) Gamgee](../S/Samwise_Gamgee.md), [Peregrin (Pippin) Took](../P/Peregrin_Took.md) và [Meriadoc (Merry) Brandybuck](../M/Meriadoc_Brandybuck.md).
+**Chuyến bay tới chiếc Ford** là chương thứ mười hai và là chương cuối cùng trong cuốn sách đầu tiên của *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)*. Các nhân vật chính là [Frodo Baggins](Frodo_Baggins.md), [Strider](../S/Strider.md) và [Glorfindel](../G/Glorfindel.md), đi kèm với [Samwise (Sam) Gamgee](../S/Samwise_Gamgee.md), [Peregrin (Pippin) Took](../P/Peregrin_Took.md) và [Meriadoc (Merry) Brandybuck](../M/Meriadoc_Brandybuck.md).
 
-Chương này kể về mức độ nghiêm trọng của vết thương của Frodo sau [cuộc chiến](../A/A_Knife_in_the_Dark.md#On_Weathertop) trên [Weathertop](../W/Weathertop.md), chuyến đi khẩn cấp của cả nhóm đến [Rivendell](../R/Rivendell.md) với hy vọng chữa khỏi bệnh cho ông ta, việc họ đi qua [Trollshaws](../T/Trollshaws.md), gặp [Glorfindel](../G/Glorfindel.md) và cuộc chạm trán của họ với [Kỵ sĩ đen](../B/Black_Riders.md) tại [Ford của Bruinen](Ford_of_Bruinen.md).
+Chương này kể về mức độ nghiêm trọng của vết thương của Frodo từ [cuộc chiến](../A/A_Knife_in_the_Dark.md#On_Weathertop) vào [Weathertop](../W/Weathertop.md), hành trình khẩn cấp của nhóm dành cho [Rivendell](../R/Rivendell.md) với hy vọng chữa khỏi bệnh cho ông ta, việc họ đi qua [Trollshaws](../T/Trollshaws.md), gặp gỡ [Glorfindel](../G/Glorfindel.md) và cuộc chạm trán của họ với [Kỵ sĩ Đen](../B/Black_Riders.md) tại [Ford of Bruinen](Ford_of_Bruinen.md).
 
-Sự giới thiệu của Glorfindel, một [yêu tinh](../E/Elves.md) mạnh mẽ từ Rivendell, củng cố tầm quan trọng của sứ mệnh của Frodo và sự hỗ trợ mà [Những người dân tự do](Free_Peoples.md) sẵn sàng cung cấp.
+Sự ra đời của Glorfindel, một [Tiên](../E/Elves.md) mạnh mẽ từ Rivendell, củng cố tầm quan trọng của sứ mệnh của Frodo và sự hỗ trợ mà [Những người dân tự do](Free_Peoples.md) sẵn sàng cung cấp.
 
 ## Tổng quan {#Overview}
 
 Chương này bắt đầu khi [chương trước](../A/A_Knife_in_the_Dark.md) kết thúc.
 
-### Rời khỏi đỉnh thời tiết {#Leaving_Weathertop}
+### Rời đi Weathertop {#Leaving_Weathertop}
 
-Được Sam, Merry và Pippin trông chừng, Frodo tỉnh lại, bị kích động và vẫn ôm chặt [Chiếc nhẫn duy nhất](../T/The_One_Ring.md).
+Được Sam, Merry và Pippin theo dõi, Frodo đã tỉnh lại, kích động và vẫn ôm chặt [Chiếc Nhẫn](../T/The_One_Ring.md).
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
 <p>What has happened? Where is the pale king?
@@ -63,15 +63,15 @@ Chương này bắt đầu khi [chương trước](../A/A_Knife_in_the_Dark.md) 
 <p class="tg-quote-footer"><cite><a href="Frodo_Baggins.md" title="Frodo Baggins">Frodo Baggins</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-Sam nói với Frodo rằng tất cả những gì họ nhìn thấy chỉ là những cái bóng lao qua họ, và rồi Frodo đột ngột biến mất; sau đó họ nghe thấy ông ta hét lên điều gì đó như thể ông ta đang ở rất xa. Khi bóng tối đi qua, [Người Hobbit](../H/Hobbits.md) tình cờ nhìn thấy xác ông ta nằm bất tỉnh trên cỏ và sợ rằng ông ta đã chết.
+Sam nói với Frodo rằng tất cả những gì họ nhìn thấy chỉ là những cái bóng lao qua họ, và sau đó Frodo đột ngột biến mất; sau đó họ nghe thấy ông ta hét lên điều gì đó như thể ông ta đang ở rất xa. Khi bóng tối đi qua, [Hobbit](../H/Hobbits.md) tình cờ phát hiện thi thể ông ta nằm bất tỉnh trên cỏ và sợ rằng mình đã chết.
 
-[Strider](../S/Strider.md) quay lại, báo cáo rằng [Kỵ sĩ đen](../B/Black_Riders.md) đã biến mất, bối rối vì chúng chưa tập hợp lại và tấn công lần nữa. Sau khi nghe Frodo kể lại, ông ta lập tức ra lệnh cho người Hobbit chuẩn bị nước sôi và giữ ấm cho Frodo. Ông ta giải thích rằng Frodo có thể đã phải chịu một vết thương chí mạng khiến ông ta phải khuất phục trước ý chí của các Kỵ sĩ.
+[Strider](../S/Strider.md) quay lại, báo rằng [Kỵ sĩ Đen](../B/Black_Riders.md) đã biến mất, bối rối vì chúng chưa tập hợp lại và tấn công lần nữa. Nghe Frodo kể lại, ông lập tức ra lệnh cho Hobbit chuẩn bị nước sôi và giữ ấm cho Frodo. Ông ta giải thích rằng Frodo có thể đã phải chịu một vết thương chí mạng khiến ông ta phải khuất phục trước ý chí của các Kỵ sĩ.
 
-Vào lúc bình minh, Strider phát hiện trên mặt đất một con dao mỏng, đầu của nó đã bị gãy. Khi cả nhóm nhìn vào con dao, nó biến mất như làn khói. Lúc này, Strider cho rằng thứ vũ khí tà ác này chính là con dao đã đâm vào Frodo. Ông ta hát trên chuôi dao găm bằng một ngôn ngữ mà những người khác không nhận ra, và lấy ra một vài chiếc lá từ trong túi của mình, nói rằng ông ta đã tìm thấy một cây [Athelas](../A/Athelas.md) cách đó không xa. Bất chấp khả năng chữa bệnh của nó, Strider lo ngại loại cây này sẽ khó có tác dụng. Anh đun sôi lá và đắp chúng lên vết thương của Frodo. Frodo cảm thấy nhẹ nhõm đôi chút, nhưng phát hiện ra rằng mình không thể cử động được cánh tay của mình và không thể đi lại.
+Đến rạng sáng, Strider phát hiện trên mặt đất một con dao mỏng, đầu đã bị gãy. Khi cả nhóm nhìn vào con dao, nó biến mất như làn khói. Lúc này, Strider cho rằng hung khí tà ác này chính là con dao đã đâm vào Frodo. Ông ta hát trên chuôi dao găm bằng một ngôn ngữ mà những người khác không nhận ra, và lấy ra một vài chiếc lá từ trong túi của mình, nói rằng ông ta đã tìm thấy một cây [Athelas](../A/Athelas.md) cách đó không xa. Mặc dù có khả năng chữa bệnh nhưng Strider vẫn lo ngại loại cây này sẽ không giúp ích được gì. Ông đun sôi lá và đắp lên vết thương của Frodo. Frodo cảm thấy nhẹ nhõm hơn nhưng lại phát hiện ra mình không thể cử động được cánh tay và không thể đi lại được.
 
-Strider và các Hobbit quyết định rời Weathertop càng sớm càng tốt. Khi mặt trời mọc, họ chất Frodo bất động lên [con ngựa con của họ](../B/Bill_the_Pony.md) (con ngựa này dường như đã được tăng cường sức mạnh) và phân phát số vật dụng còn lại giữa họ. Họ tiến về phía đông xuyên qua vùng hoang dã trong im lặng. Mặc dù không gặp Kỵ Sĩ Đen nào, họ vẫn nghe thấy hai tiếng than khóc xa xa, một tiếng gọi và một tiếng trả lời.
+Strider và Hobbit quyết định rời đi Weathertop càng sớm càng tốt. Khi mặt trời mọc, họ chất Frodo bất động lên [con ngựa của họ](../B/Bill_the_Pony.md) (con ngựa này dường như đã được tăng cường sức mạnh) và phân phát số vật dụng còn lại giữa chúng. Họ tiến về phía đông xuyên qua vùng hoang dã trong im lặng. Dù không gặp Kỵ sĩ Đen nhưng họ vẫn nghe thấy hai tiếng rên rỉ xa xa, một tiếng gọi và một tiếng trả lời.
 
-Sau sáu ngày hành quân, họ đã đến được [Cây cầu cuối cùng](../L/Last_Bridge.md) bắc qua [Hoarwell](../H/Hoarwell.md). Đang dò tìm phía trước, Strider tìm thấy một viên beryl màu xanh lá cây sáng bóng - một viên ngọc [Yêu tinh](../E/Elven.md) - mặc dù anh không thể xác định được ý nghĩa của nó. Không thấy dấu hiệu nào của cuộc phục kích của Kỵ sĩ đen, anh vội vã đưa người Hobbit băng qua cầu. Khi leo lên đồi, họ bắt đầu nhìn thấy tàn tích của những bức tường và tòa tháp. Frodo nhớ lại những lời kể của [Bilbo](../B/Bilbo_Baggins.md) về khu vực và câu chuyện của ông về [Quỷ đá](../S/Stone-trolls.md). Họ đi qua những tòa tháp đổ nát mà Strider mô tả là tàn tích của các khu định cư [Mannish](../M/Men.md) cổ xưa từng thuộc về vương quốc độc ác [Angmar](../A/Angmar.md); bóng của nó vẫn còn bao quanh vùng đất. Pippin hỏi làm sao Strider biết nhiều truyền thuyết đến vậy.
+Sau sáu ngày hành quân, họ đã đến được [Cây Cầu Cuối Cùng](../L/Last_Bridge.md) trên [Hoarwell](../H/Hoarwell.md). Trinh sát phía trước, Strider tìm thấy một viên beryl màu xanh lá cây sáng bóng - một viên ngọc [Tiên](../E/Elven.md) - mặc dù anh không thể xác định được ý nghĩa của nó. Không thấy có dấu hiệu phục kích Kỵ Sĩ Đen, anh vội vã Hobbit qua cầu. Khi leo lên đồi, họ bắt đầu nhìn thấy tàn tích của những bức tường và tòa tháp. Frodo được nhắc về những lời kể của [Bilbo](../B/Bilbo_Baggins.md) về khu vực và câu chuyện của ông về [Quỷ đá](../S/Stone-trolls.md). Họ đi qua những tòa tháp đổ nát, Strider được mô tả là tàn tích của các khu định cư [Mannish](../M/Men.md) cổ xưa từng thuộc về vương quốc tà ác [Angmar](../A/Angmar.md); bóng của nó vẫn còn bao quanh vùng đất. Pippin hỏi làm sao Strider biết nhiều truyền thuyết đến vậy.
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
 <p>The heirs of Elendil do not forget all things past, and many more things than I can tell are remembered in Rivendell.
@@ -79,19 +79,19 @@ Sau sáu ngày hành quân, họ đã đến được [Cây cầu cuối cùng](
 <p class="tg-quote-footer"><cite><a class="mw-redirect" href="../S/Strider.md" title="Strider">Strider</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-Frodo hỏi Strider đã từng tới Rivendell chưa. Strider trả lời rằng ông đã từng sống ở đó và thỉnh thoảng quay lại. Anh nói dù trái tim anh đang ở đó, nhưng số phận của anh không phải là được ngồi yên.
+Frodo hỏi Strider đã từng đến Rivendell chưa. Strider trả lời đã từng sống ở đó, thỉnh thoảng mới về. Anh nói dù trái tim anh đang ở đó, nhưng số phận của anh không phải là được ngồi yên.
 
-Vào đêm thứ mười trong chuyến hành trình từ Weathertop, Frodo mơ thấy mình quay trở lại khu vườn của mình ở [Bag End](../B/Bag_End.md), nhưng mọi thứ đều mờ nhạt và mờ ảo. Điều duy nhất anh nhìn thấy rõ ràng là những cái bóng cao lớn đang nhìn anh qua hàng rào.
+Vào đêm thứ mười của cuộc hành trình từ Weathertop, Frodo mơ thấy mình trở lại khu vườn của mình lúc [Bag End](../B/Bag_End.md), nhưng mọi thứ đều mờ nhạt và mờ ảo. Điều duy nhất anh nhìn thấy rõ ràng là những cái bóng cao lớn đang nhìn anh qua hàng rào.
 
-Sáng hôm sau, Strider phát hiện ra rằng họ đã đi quá xa về phía bắc, gần [Ettenmoors](../E/Ettenmoors.md). Khi họ rẽ về phía nam, mặt đất trở nên khó leo lên, và cuối cùng Frodo ngã gục trong đau đớn. Merry tự hỏi liệu Frodo có thể được chữa khỏi ở Rivendell hay không. Sam không hiểu tại sao Frodo vẫn gặp nguy hiểm khi vết thương của anh gần như đã lành lại. Strider giải thích rằng vũ khí của kẻ thù chứa chất độc độc ác mà anh không thể xua đuổi được.
+Sáng hôm sau, Strider phát hiện họ đã đi quá xa về phía bắc, gần [Ettenmoors](../E/Ettenmoors.md). Khi họ chuyển hướng về phía nam, mặt đất trở nên khó leo lên và cuối cùng Frodo sụp đổ trong đau đớn. Merry thắc mắc liệu Frodo có thể chữa khỏi bệnh trong Rivendell hay không. Sam không hiểu tại sao Frodo vẫn gặp nguy hiểm, khi vết thương của anh gần như đã khép lại. Strider giải thích rằng vũ khí của kẻ thù chứa chất độc độc ác mà hắn không thể xua đuổi được.
 
-Cả nhóm dừng lại nghỉ ngơi gần một mỏ đá nhỏ. Trong giấc ngủ, Frodo mơ thấy những hình thù to lớn, tối tăm, có cánh đang lướt qua phía trên mình, bị cưỡi bởi những kẻ truy đuổi toàn diện. Vào buổi sáng, khi họ bắt đầu xuống dốc, chú ngựa con của họ đã thể hiện kỹ năng vượt trội trong việc tìm ra những con đường dễ dàng xuống những sườn dốc. Frodo có vẻ khá hơn một chút, mặc dù thị lực của cậu bắt đầu mờ dần theo từng đợt.
+Cả nhóm dừng lại nghỉ ngơi gần một mỏ đá nhỏ. Trong giấc ngủ, Frodo mơ thấy những hình thù có cánh to lớn, tối tăm đang lướt qua phía trên mình, bị cưỡi bởi những kẻ truy đuổi toàn diện. Vào buổi sáng, khi họ bắt đầu xuống dốc, chú ngựa con của họ đã thể hiện kỹ năng vượt trội trong việc tìm ra những con đường dễ dàng xuống những sườn dốc. Frodo có vẻ đỡ hơn một chút, mặc dù thị lực của anh bắt đầu mờ dần theo từng đợt.
 
-### Những con troll được ghi nhớ {#Trolls_remembered}
+### Troll đã nhớ {#Trolls_remembered}
 
-Pippin phát hiện ra một con đường dẫn thẳng xuyên qua khu rừng bên dưới. Nó dường như được tạo ra bởi những sinh vật lớn, vì cả cây và đá đều bị đập vỡ để nó đi qua. Cả nhóm đi theo con đường vào rừng, nhanh chóng đi qua trước một cánh cửa trên sườn đồi đá, treo hé trên một bản lề. Strider, Merry và Sam mở cửa và phát hiện ra một hang động đầy xương và đồ đất nung vỡ. Strider kết luận rằng đây "chắc chắn là một [lỗ hổng](../T/Trolls'_lair.md)".
+Pippin phát hiện ra một con đường dẫn thẳng xuyên qua khu rừng bên dưới. Nó dường như được tạo ra bởi những sinh vật lớn, vì cả cây và đá đều bị đập vỡ để nó đi qua. Cả nhóm đi theo con đường vào rừng, nhanh chóng đi qua trước một cánh cửa trên sườn đồi đá, treo hé trên một bản lề. Strider, Merry và Sam đẩy cửa mở ra thì phát hiện một hang động đầy xương và đất nung vỡ. Strider kết luận rằng đây "chắc chắn là [lỗ hổng](../T/Trolls'_lair.md)".
 
-Khi họ tiếp tục đi trên con đường, Pippin cùng Merry dò xét phía trước. Họ nhanh chóng chạy lại và báo cáo rằng họ đã nhìn thấy những con quỷ lùn. Strider nhặt một cây gậy và họ từ từ tiến lên. Trong một bãi đất trống, họ tìm thấy ba con Troll khổng lồ đang đứng hoàn toàn bất động. Strider bước tới và ra lệnh cho họ thức dậy, sau đó bẻ cây gậy của mình vào một trong số họ. Lũ Troll không phản ứng, điều này khiến người Hobbit kinh ngạc. Frodo cười lớn, nhận ra rằng đây chính là lũ Stone-troll trong câu chuyện của Bilbo, điều mà Pippin chưa bao giờ thực sự tin tưởng trước thời điểm này.
+Khi họ tiếp tục đi, Pippin trinh sát phía trước với Merry. Họ nhanh chóng chạy lại và báo cáo rằng họ đã nhìn thấy những con quỷ lùn. Strider nhặt một cây gậy và họ từ từ tiến lên. Trong một bãi đất trống, họ tìm thấy ba chiếc Troll khổng lồ đang đứng hoàn toàn bất động. Strider bước tới ra lệnh cho họ thức dậy, rồi bẻ gậy vào một trong số họ. Troll không phản ứng, điều này khiến Hobbit ngạc nhiên. Frodo bật cười, nhận ra rằng đây chính là lũ Stone-troll trong câu chuyện của Bilbo, điều mà trước thời điểm này Pippin chưa bao giờ thực sự tin tưởng.
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
 <p>You are forgetting not only your family history, but all you ever knew about trolls. It is broad daylight with a bright sun, and yet you come back trying to scare me with a tale of live trolls waiting for us in this glade! In any case you might have noticed that one of them has an old bird&#39;s nest behind his ear.
@@ -99,13 +99,13 @@ Khi họ tiếp tục đi trên con đường, Pippin cùng Merry dò xét phía
 <p class="tg-quote-footer"><cite><a class="mw-redirect" href="../S/Strider.md" title="Strider">Strider</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-Họ dùng bữa gần chân một trong những bức tượng troll, và Merry đề nghị ai đó hát. Cuối cùng Sam cũng mủi lòng và hát cho họ nghe [một bài hát về một tên troll](../T/The_Stone_Troll.md) đã đánh cắp một chiếc xương ống quyển từ một ngôi mộ. Sau khi bài hát hoàn thành, Frodo tiết lộ rằng Sam đã sáng tác ngay tại chỗ.
+Họ dùng bữa gần chân một trong những bức tượng troll và Merry đề nghị ai đó hát. Sam cuối cùng cũng mủi lòng và hát cho họ nghe [một bài hát về một con troll](../T/The_Stone_Troll.md) đã đánh cắp một chiếc xương chày từ một ngôi mộ. Sau khi hát xong, Frodo tiết lộ rằng Sam đã dàn dựng ngay tại chỗ.
 
-Cả nhóm đi theo con đường mà họ suy đoán đã được Bilbo, [Gandalf](../G/Gandalf.md) và [mười ba người lùn](../T/Thorin_and_Company.md) sử dụng. Thật vậy, họ nhanh chóng tìm thấy một hòn đá được bao phủ bởi các chữ rune của [Người lùn](../D/Dwarves.md), đánh dấu nơi Công ty chôn giấu kho báu của lũ Troll. Khi Merry hỏi Frodo liệu phần kho báu đó của Bilbo có còn sót lại gì không, Frodo thầm ước rằng Bilbo không mang về nhà chút kho báu nào, ám chỉ đến Chiếc Nhẫn Chúa. Ông ta nói với Merry rằng Bilbo đã cho đi tất cả kho báu vì nó đến từ tên cướp Troll.
+Cả nhóm đi theo con đường mà họ suy đoán đã được Bilbo, [Gandalf](../G/Gandalf.md) và [mười ba người lùn](../T/Thorin_and_Company.md) sử dụng. Quả thực, họ đã sớm tìm thấy một hòn đá được bao phủ bởi [Người lùn](../D/Dwarves.md) rune, đánh dấu nơi Công ty chôn giấu kho báu Troll. Khi Merry hỏi Frodo liệu phần kho báu đó của Bilbo có còn sót lại gì không, Frodo thầm ước rằng Bilbo đã không mang về nhà chút kho báu nào, ám chỉ The One Ring. Ông ta khai với Merry rằng Bilbo đã cho đi toàn bộ kho báu vì nó đến từ tên cướp Troll.
 
 <h3><span id="Glorfindel.27s_aid"></span><span class="mw-headline" id="Glorfindel&#39;s_aid">Glorfindel&#39;s aid</span></h3>
 
-Khi mặt trời lặn, cả nhóm đột nhiên nghe thấy tiếng vó ngựa từ phía sau, liền ẩn nấp. Một bóng người với mái tóc vàng óng bồng bềnh cưỡi ngựa trắng xuất hiện trên con đường phía sau họ. Người Sải Bước vui mừng nhảy ra và người cưỡi ngựa xuống ngựa.
+Khi mặt trời lặn, cả nhóm đột nhiên nghe thấy tiếng vó ngựa từ phía sau, liền ẩn nấp. Một bóng người với mái tóc vàng óng bồng bềnh cưỡi ngựa trắng xuất hiện trên con đường phía sau họ. Strider nhảy ra ngoài vui sướng và người cưỡi ngựa xuống ngựa.
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
 <p>Ai na vedui Dúnadan! Mae govannen!
@@ -113,11 +113,11 @@ Khi mặt trời lặn, cả nhóm đột nhiên nghe thấy tiếng vó ngựa 
 <p class="tg-quote-footer"><cite><a href="../G/Glorfindel.md" title="Glorfindel">Glorfindel</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-Strider giới thiệu nhân vật này là [Glorfindel](../G/Glorfindel.md), một Yêu tinh sống ở Rivendell. Glorfindel chào Frodo và nói rằng anh được cử đi tìm ông. Ông ta đã khởi hành từ Rivendell chín ngày trước đó, sau khi nhận được tin rằng "Chín" (Kỵ sĩ áo đen) đang ở trong khu vực và Frodo không có sự bảo vệ của Gandalf. Gandalf vẫn chưa đến Rivendell vào thời điểm Glorfindel rời đi. Bảy ngày trước, ông đã đi qua Cây cầu cuối cùng, nơi ông đã để lại viên ngọc xanh. Anh chạm trán với ba Kỵ sĩ đen và đuổi họ ra khỏi cây cầu. Hai ngày trước ông đã tìm ra dấu vết của người Hobbit và lần theo nó đến đây. Ông ta cảnh báo rằng có năm Kỵ sĩ Đen đang ở phía sau họ, nhưng không biết bốn người còn lại ở đâu.
+Strider giới thiệu nhân vật là [Glorfindel](../G/Glorfindel.md), một Tiên sống tại Rivendell. Glorfindel chào Frodo, nói rằng ông ta được phái đi tìm ông ta. Ông ta đã khởi hành từ Rivendell chín ngày trước đó, sau khi nhận được tin rằng "The Nine" ( Kỵ sĩ Đen) đang ở trong khu vực và Frodo không có sự bảo vệ của Gandalf. Gandalf vẫn chưa đến Rivendell vào thời điểm Glorfindel còn lại. Bảy ngày trước, ông đã vượt qua Cây Cầu Cuối Cùng, nơi ông để lại viên beryl xanh. Anh gặp ba chiếc Kỵ sĩ Đen và đuổi chúng ra khỏi cây cầu. Hai ngày trước ông đã tìm thấy dấu vết Hobbit' và lần theo nó tới đây. Ông ta cảnh báo có 5 chiếc Kỵ sĩ Đen đang theo sau họ, nhưng không biết 4 chiếc còn lại ở đâu.
 
-Frodo gục xuống và Strider nói với Glorfindel về vết thương của Frodo, cho ông ta xem chuôi của con dao găm độc ác. Glorfindel đặt tay lên vết thương của Frodo, điều này giúp Frodo cảm thấy dễ chịu hơn một chút, mặc dù Glorfindel có vẻ không mấy hy vọng. Glorfindel nhấc Frodo lên [ngựa của mình](../A/Asfaloth.md), nói rằng trong trường hợp khẩn cấp, nó sẽ đưa anh về phía trước với tốc độ lớn hơn bất kỳ Kỵ sĩ Đen nào có thể sánh kịp. Frodo phản đối vì không muốn bỏ lại những người bạn của mình để đối mặt với nguy hiểm một mình. Glorfindel trấn an anh rằng Kỵ sĩ đen chỉ truy đuổi anh chứ không phải bạn bè anh.
+Frodo gục xuống và Strider kể cho Glorfindel về vết thương của Frodo, cho ông ta xem chuôi dao găm tà ác. Glorfindel đặt tay lên vết thương của Frodo, giúp Frodo cảm thấy dễ chịu hơn một chút, mặc dù Glorfindel có vẻ không có hy vọng. Glorfindel nhấc Frodo lên [ngựa của mình](../A/Asfaloth.md), nói rằng trong trường hợp khẩn cấp, nó sẽ đưa ông ta về phía trước với tốc độ lớn hơn bất kỳ Kỵ Sĩ Đen nào có thể sánh kịp. Frodo phản đối, không muốn bỏ bạn bè lại để một mình đối mặt với nguy hiểm. Glorfindel trấn an anh rằng Kỵ sĩ Đen chỉ theo đuổi anh chứ không phải bạn bè anh.
 
-Cả nhóm phân bổ lại trọng lượng tiếp tế của họ và vội vã tiến lên trong đêm cho đến khi gục ngã vì kiệt sức. Glorfindel đưa cho mỗi người trong số họ một ngụm chất lỏng trong suốt mà ông mang theo để tiếp thêm sinh lực cho họ. Sau đó, con đường rẽ thẳng về phía Bruinen phía trước. Họ không thấy dấu hiệu nào của Kỵ Sĩ Đen. Glorfindel nói chuyện với Strider bằng [Elvish](../E/Elvish.md).
+Cả nhóm phân bổ lại trọng lượng tiếp tế của họ và vội vã tiến lên trong đêm cho đến khi gục ngã vì kiệt sức. Glorfindel đưa cho mỗi người trong số họ một ngụm chất lỏng trong suốt mà ông ta đang mang theo để tiếp thêm sinh lực cho họ. Sau đó, con đường rẽ thẳng về phía Bruinen phía trước. Họ không thấy dấu hiệu của Kỵ sĩ Đen. Glorfindel nói với Strider bằng [Elvish](../E/Elvish.md).
 
 Sáng hôm sau, bữa tiệc tiếp tục với tâm trạng mệt mỏi hơn bao giờ hết. Đi qua một vết cắt, họ bắt đầu nghe thấy tiếng bước chân vang vọng xung quanh, theo sau họ. Ở đầu bên kia, vẫn còn cách chiếc Ford một khoảng, tiếng bước chân ngày càng nhiều và một cơn gió mạnh bất ngờ thổi xung quanh họ.
 
@@ -127,7 +127,7 @@ Sáng hôm sau, bữa tiệc tiếp tục với tâm trạng mệt mỏi hơn ba
 <p class="tg-quote-footer"><cite><a href="../G/Glorfindel.md" title="Glorfindel">Glorfindel</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-Con ngựa của Glorfindel lao về phía trước, những con khác cũng làm như vậy. Bốn Kỵ Sĩ Đen xuất hiện phía sau họ trên đường đi, nhưng không lao tới. Glorfindel ra lệnh cho Frodo tiến về phía trước, nhưng Frodo dừng lại và nhìn lại về phía các Kỵ sĩ đen bất động, nhận ra rằng họ đang ra lệnh cho anh đợi. Đột nhiên cảm thấy sợ hãi và căm ghét mãnh liệt, anh rút thanh kiếm phát sáng màu đỏ của mình. Glorfindel gọi ngựa bằng tiếng Elvish.
+Con ngựa của Glorfindel lao về phía trước, những con khác cũng làm như vậy. Bốn Kỵ sĩ Đen xuất hiện phía sau họ trên đường đi, nhưng không lao tới. Glorfindel ra lệnh cho Frodo tiến về phía trước, nhưng Frodo dừng lại và nhìn về phía Kỵ sĩ Đen bất động, nhận ra họ đang ra lệnh cho anh đợi. Đột nhiên cảm thấy sợ hãi và căm ghét mãnh liệt, anh rút thanh kiếm phát sáng màu đỏ của mình. Glorfindel gọi ngựa vào Elvish.
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
 <p>Noro lim, noro lim, Asfaloth!
@@ -135,12 +135,12 @@ Con ngựa của Glorfindel lao về phía trước, những con khác cũng là
 <p class="tg-quote-footer"><cite><a href="../G/Glorfindel.md" title="Glorfindel">Glorfindel</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-Con ngựa ngay lập tức phi nước đại, tăng tốc về phía trước nhanh hơn mức mà các Kỵ sĩ Đen có thể đuổi theo. Một tiếng kêu kinh hoàng xuyên qua không khí, và cả nhóm thất kinh khi thấy thêm nhiều Kỵ sĩ Đen xuất hiện từ cuộc phục kích, phi nước đại về phía trước để cắt đứt Frodo. Mặc dù anh đã bỏ xa những kẻ truy đuổi phía sau, nhưng hai kẻ chạy bên sườn đã dừng lại phía trước anh, và anh nhìn thấy hình dạng thật của họ, mặc áo choàng trắng và xám. Asfaloth tỏ ra sợ hãi, phi nước đại vượt qua các Kỵ sĩ Đen. Frodo lúc lúc lúc bất tỉnh, nhưng nhanh chóng cảm thấy con ngựa đang lội qua sông Bruinen.
+Con ngựa ngay lập tức phi nước đại, tăng tốc về phía trước nhanh hơn Kỵ sĩ Đen có thể đuổi theo. Một tiếng kêu kinh hoàng xé toạc không khí, và cả nhóm thất kinh khi thấy thêm nhiều Kỵ sĩ Đen xuất hiện từ cuộc phục kích, phi nước đại về phía trước để cắt đứt Frodo. Mặc dù anh đã bỏ xa những kẻ truy đuổi phía sau, nhưng hai kẻ chạy bên sườn đã dừng lại phía trước anh, và anh nhìn thấy hình dạng thật của họ, mặc áo choàng trắng và xám. Asfaloth tỏ ra sợ hãi, lao thẳng qua Kỵ sĩ Đen với tốc độ tối đa. Frodo lịm đi rồi bất tỉnh, nhưng ngay sau đó cảm thấy con ngựa đang lội qua sông Bruinen.
 
-Asfaloth dừng lại ở phía bên kia của Ford khi chín Kỵ sĩ xuất hiện ở mép nước. Frodo giơ kiếm lên, ra lệnh cho họ ngừng truy đuổi và quay trở lại [Mordor](../M/Mordor.md). Các Kỵ sĩ cười nhạo mệnh lệnh của ông ta và gọi ông ta quay trở lại Mordor cùng họ.
+Asfaloth dừng lại ở phía bên kia của Ford khi chín Kỵ sĩ xuất hiện ở mép nước. Frodo giơ kiếm ra lệnh cho họ ngừng truy đuổi và quay trở lại [Mordor](../M/Mordor.md). Các Kỵ sĩ cười nhạo mệnh lệnh của ông ta và gọi ông ta quay lại Mordor cùng họ.
 
-Trong hành động thách thức cuối cùng, Frodo đã gọi tới <a class="mw-redirect mw-disambig" href="../E/Elbereth.md" title="Elbereth">Elbereth</a> và [Lúthien](../L/Lúthien.md). Người dẫn đầu, băng qua nửa chiếc Ford, giơ tay lên, khiến Frodo không thể nói được và thanh kiếm của ông vỡ tan.
+Trong hành động thách thức cuối cùng, Frodo đã gọi tới <a class="mw-redirect mw-disambig" href="../E/Elbereth.md" title="Elbereth">Elbereth</a> và [Lúthien](../L/Lúthien.md). Người dẫn đầu, băng qua nửa chiếc Ford, giơ tay lên khiến Frodo không nói được và thanh kiếm của ông ta vỡ tan.
 
-Ngay trước khi các Kỵ sĩ Đen vượt qua khúc cạn, dòng sông bắt đầu dâng cao và gầm thét. Một dòng nước lớn đổ xuống từ sườn núi, và Frodo gần như có thể nhìn thấy bên trong những con sóng lớn, những người cưỡi ngựa trắng cưỡi ngựa trắng với bờm bồng bềnh. Ba Kỵ Sĩ Đen ở dưới sông đã bị cuốn trôi.
+Ngay trước khi Kỵ sĩ Đen vượt qua khúc cạn, dòng sông bắt đầu dâng cao và gầm thét. Một dòng nước lớn từ sườn núi đổ xuống, Frodo gần như có thể nhìn thấy trong những đợt sóng lớn, những người cưỡi ngựa trắng cưỡi ngựa trắng với bờm bồng bềnh. Ba chiếc Kỵ sĩ Đen ở dưới sông đã bị nước cuốn trôi.
 
-Đằng sau những Kỵ sĩ Đen còn lại ở phía bên kia khúc sông, Frodo nhìn thấy một bóng người màu trắng sáng chói, theo sau là những hình dáng nhỏ bé đang vẫy ngọn lửa đỏ. Những con ngựa đen điên cuồng lao xuống sông, át tiếng kêu của người cưỡi khi bị nước cuốn đi. Lúc này, Frodo bất tỉnh.
+Đằng sau Kỵ sĩ Đen còn lại ở phía bên kia khúc sông, Frodo nhìn thấy một bóng người màu trắng sáng chói, theo sau là những hình thù nhỏ vẫy ngọn lửa đỏ. Những con ngựa đen điên cuồng lao xuống sông, át tiếng kêu của người cưỡi khi bị nước cuốn đi. Lúc này Frodo đã bất tỉnh.

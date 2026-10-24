@@ -30,13 +30,13 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../U/Undead.md" title="Undead">Undead</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Sambrog</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Titles</th><td class="tg-infobox-data">Wight-lord</td></tr><tr><th scope="row" class="tg-infobox-label">Affiliation</th><td class="tg-infobox-data"><a href="../B/Barrow-wights.md" title="Barrow-wights">Barrow-wights</a></td></tr><tr><th scope="row" class="tg-infobox-label">Birth</th><td class="tg-infobox-data">Unknown</td></tr><tr><th scope="row" class="tg-infobox-label">Death</th><td class="tg-infobox-data"><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_3018.md" title="Third Age 3018">3018</a><br/><a class="mw-redirect" href="../O/Othrongroth.md" title="Othrongroth">Othrongroth</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr></tbody></table>
 
-**Sambrog** là [Wight-lord](../B/Barrow-wights.md) của [Othrongroth](../O/Othrongroth.md) trong [Barrow-downs](../B/Barrow-downs.md), người đã bị đánh bại bởi nhân vật người chơi và [Tom Bombadil](../T/Tom_Bombadil.md). Sambrog được phát minh bởi [Trò chơi đá đứng](Standing_Stone_Games.md) cho *[The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md)*.
+**Sambrog** là [Wight-lord](../B/Barrow-wights.md) của [Othrongroth](../O/Othrongroth.md) trong [Barrow-downs](../B/Barrow-downs.md) người đã bị đánh bại bởi nhân vật người chơi và [Tom Bombadil](../T/Tom_Bombadil.md). Sambrog được phát minh bởi [Trò chơi đá đứng](Standing_Stone_Games.md) cho *[The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md)*.
 
 ## Lịch sử {#History}
 
-Trong quá trình nhân vật người chơi truy đuổi [Vua phù thủy](../W/Witch-king.md) trong [Othrongroth](../O/Othrongroth.md), họ đã bước vào một căn phòng ngai vàng rộng lớn với [Wight-lord](../B/Barrow-wights.md) Sambrog ngồi trên một ngai vàng lớn. Sambrog chào đón và ra lệnh cho nhân vật của người chơi đến gần. Khi thông báo rằng Vua phù thủy gửi lời hỏi thăm của mình, Sambrog cho nhân vật của người chơi một khán giả để cung cấp thông tin về ý định của Vua phù thủy, nhưng ông ta cũng tiết lộ rằng ông ta tin rằng người chơi sẽ không để Othrongroth còn sống để làm hỏng bất cứ điều gì.
+Trong quá trình nhân vật người chơi truy đuổi [Vua Phù thủy](../W/Witch-king.md) bên trong [Othrongroth](../O/Othrongroth.md), họ đã bước vào một căn phòng ngai vàng rộng lớn với [Chúa tể chiến binh](../B/Barrow-wights.md) Sambrog đang ngồi trên một ngai vàng vĩ đại. Sambrog chào đón và ra lệnh cho nhân vật của người chơi đến gần. Khi thông báo rằng Vua Phù thủy gửi lời chào của mình, Sambrog cho nhân vật của người chơi một khán giả để cung cấp thông tin về ý định của Vua Phù thủy, nhưng ông ta cũng tiết lộ rằng ông ta tin rằng người chơi sẽ không để Othrongroth còn sống để làm hỏng bất cứ điều gì.
 
-Sambrog tiết lộ nhiều điều cho người chơi một cách khó hiểu, nói rằng trong khi [Chủ nhân](../W/Witch-king.md) của ông ta tìm kiếm sức mạnh cho [Sauron](Sauron.md), các kế hoạch khác cũng đang được thực hiện: [Người lùn nhợt nhạt](Skorgrím_Dourhand.md) sẽ xây dựng một đội quân dưới danh nghĩa [Angmar](../A/Angmar.md) khi người gầy gò được gửi đến Agamaur ở [phía đông](../L/Lone-lands.md) để đánh thức một Sức mạnh đang ngủ yên trong vùng biển.
+Sambrog tiết lộ nhiều điều cho người chơi một cách khó hiểu, nói rằng trong khi [Chủ nhân](../W/Witch-king.md) của ông ta tìm kiếm sức mạnh cho [Sauron](Sauron.md), các kế hoạch khác cũng đang được thực hiện: [Pale Người lùn](Skorgrím_Dourhand.md) sẽ xây dựng một đội quân dưới danh nghĩa [Angmar](../A/Angmar.md) khi người gầy gò được gửi đến Agamaur ở [phía đông](../L/Lone-lands.md) để đánh thức một Sức mạnh đang ngủ yên trong vùng nước.
 
 Như đã nói, Sambrog kết thúc buổi tiếp kiến ​​của mình với nhân vật người chơi, thông báo rằng cái chết đang chờ đợi họ và ông ta không thể bị đánh bại.
 
@@ -50,7 +50,7 @@ Vào *[The One Ring](../T/The_One_Ring.md)*, một Wight-king giấu tên đã t
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="https://lotro-wiki.com/wiki/Sambrog" rel="noreferrer noopener" target="_blank">Sambrog</a> trên <a class="external text" href="https://lotro-wiki.com/wiki" rel="noreferrer noopener" target="_blank">Wiki trực tuyến Chúa tể của những chiếc nhẫn</a>
+- <a class="external text" href="https://lotro-wiki.com/wiki/Sambrog" rel="noreferrer noopener" target="_blank">Sambrog</a> trên <a class="external text" href="https://lotro-wiki.com/wiki" rel="noreferrer noopener" target="_blank">The Lord of the Rings Wiki trực tuyến</a>
 
 <span></span>
 

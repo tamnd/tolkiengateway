@@ -16,7 +16,7 @@ sort_keys:
   "Russian people": "Erebros, Lind"
 ---
 
-**Lind Erebros** là nhà soạn nhạc người Nga tên là Mikhail Anatolyevich Kostylev<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>. Chuyên về nhạc phim trò chơi điện tử, Lind cũng đã phát hành bộ ba album có chủ đề gắn liền với chất liệu từ [Silmarillion](../S/Silmarillion.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Lind Erebros** là nhà soạn nhạc người Nga tên là Mikhail Anatolyevich Kostylev<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>. Chuyên về nhạc phim trò chơi điện tử, Lind cũng đã phát hành bộ ba album theo chủ đề gắn liền với chất liệu từ [Silmarillion](../S/Silmarillion.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Album {#Albums}
 

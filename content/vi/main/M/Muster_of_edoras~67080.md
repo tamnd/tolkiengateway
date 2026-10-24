@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Muster of Edoras"
 ---
 
-Chuyển hướng tới [Muster of Edoras](Muster_of_Edoras.md).
+Chuyển hướng đến [Muster của Edoras](Muster_of_Edoras.md).

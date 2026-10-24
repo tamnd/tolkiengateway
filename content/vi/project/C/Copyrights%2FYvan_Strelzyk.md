@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Strelzyk, Yvan"
 ---
 
-- Yvan Strelzyk đã vui lòng cho phép ông sử dụng [các bức ảnh chụp cuốn sách có chữ ký của ông](../../category/I/Images_by_Yvan_Strelzyk.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
+- Yvan Strelzyk đã vui lòng cho phép ông sử dụng [các bức ảnh chụp cuốn sách có chữ ký](../../category/I/Images_by_Yvan_Strelzyk.md) của ông trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Ngày: 19 tháng 7 năm 2012
 - Người dùng đã xin phép qua email: [Người dùng:Morgan](https://tolkiengateway.net/wiki/User:Morgan)

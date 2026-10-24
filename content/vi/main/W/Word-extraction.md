@@ -17,11 +17,11 @@ images:
 
 <figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_-_Word-extraction.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/39/J.R.R._Tolkien_-_Word-extraction.jpg/250px-J.R.R._Tolkien_-_Word-extraction.jpg" decoding="async" loading="lazy" width="250" height="317" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/39/J.R.R._Tolkien_-_Word-extraction.jpg/375px-J.R.R._Tolkien_-_Word-extraction.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/3/39/J.R.R._Tolkien_-_Word-extraction.jpg/500px-J.R.R._Tolkien_-_Word-extraction.jpg 2x" data-file-width="758" data-file-height="960"/></a><figcaption>Tolkien&#39;s manuscript</figcaption></figure>
 
-**Trích từ** là một trò chơi chữ được sáng tạo bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và được mô tả dưới dạng bản thảo viết tay c. [1968](../_/1968.md).
+**Trích từ** là trò chơi chữ được sáng tạo bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và được mô tả dưới dạng bản thảo viết tay c. [1968](../_/1968.md).
 
 ## Lịch sử {#History}
 
-Là một nhà ngữ văn giỏi, Tolkien thích trò chơi chữ và ông đã chơi nhiều lần với gia đình khi ở lại [Bournemouth](../B/Bournemouth.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Một trong những trò chơi mà ông phát minh ra ở đó được viết trên mặt sau của một danh sách tuần hoàn các cuốn sách không còn xuất bản ngày [3 tháng 5](../_/3_May.md) năm 1968, mà Tolkien đã đưa cho Tiến sĩ Denis Tolhurst (bác sĩ của Tolkien ở Bournemouth) và ông ấy vào một thời điểm nào đó. vợ. Bản thảo đã được bán tại Bonhams vào [2019](../_/2019.md),<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và hiện đang được bán tại Lucius Books.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Là một nhà ngữ văn giỏi, Tolkien thích trò chơi chữ và ông đã chơi nhiều lần với gia đình khi ở [Bournemouth](../B/Bournemouth.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Một trong những trò chơi mà ông phát minh ra ở đó được viết trên mặt sau của một danh sách tuần hoàn các cuốn sách không còn xuất bản ngày [3 tháng 5](../_/3_May.md) năm 1968, mà Tolkien đã đưa cho Tiến sĩ Denis Tolhurst (Tolkien's bác sĩ ở Bournemouth) và vợ. Bản thảo đã được bán tại Bonhams vào [2019](../_/2019.md),<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và hiện đang được bán tại Lucius Books.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Văn bản {#Text}
 

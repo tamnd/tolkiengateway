@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Return of the King"
 ---
 
-Chuyển hướng đến [Sự trở lại của nhà vua](The_Return_of_the_King.md).
+Chuyển hướng đến [The Return of the King](The_Return_of_the_King.md).

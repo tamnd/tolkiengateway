@@ -43,14 +43,14 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mallorn_5.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/5a/Mallorn_5.jpg/320px-Mallorn_5.jpg" decoding="async" loading="lazy" width="320" height="475" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/5/5a/Mallorn_5.jpg 1.5x" data-file-width="335" data-file-height="497"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mallorn 5</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../V/Vera_Chapman.md" title="Vera Chapman">Vera Chapman</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Printer</th><td class="tg-infobox-data">&#34;Fred&#34;</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/1972.md" title="1972">1972</a></td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">30</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0308-6674</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mallorn_4.md" title="Mallorn 4">Mallorn 4</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mallorn_6.md" title="Mallorn 6">Mallorn 6</a></td></tr></tbody></table>
 
-<b><i>Mallorn</i> 5</b> là số thứ 5 của tạp chí [Hiệp hội Tolkien](../T/Tolkien_Society.md) [Mallorn](<Mallorn_(journal).md>), xuất bản năm 1972. Nó bao gồm một [bức thư ngắn từ J.R.R. Tolkien](../L/Letter_to_Vera_Chapman_and_the_Tolkien_Society.md).
+<b><i>Mallorn</i> 5</b> là số thứ 5 của tạp chí [Tolkien của Hội](../T/Tolkien_Society.md) của Hội [Mallorn](<Mallorn_(journal).md>), xuất bản năm 1972. Nó bao gồm một [bức thư ngắn từ J.R.R. Tolkien](../L/Letter_to_Vera_Chapman_and_the_Tolkien_Society.md).
 
 ## Nội dung {#Contents}
 
 - **Biên tập**
     - Biên tập chuyên nghiệp từ Biên tập viên chuyên nghiệp
         - Bởi Belladonna Took ([Vera Chapman](../V/Vera_Chapman.md))
-        - Bao gồm một [bức thư của Tolkien gửi Vera Chapman và Hiệp hội Tolkien](../L/Letter_to_Vera_Chapman_and_the_Tolkien_Society.md) (tr. 2).
+        - Bao gồm một [thư từ Tolkien gửi Vera Chapman và Hội Tolkien](../L/Letter_to_Vera_Chapman_and_the_Tolkien_Society.md) (tr. 2).
     - Thư gửi Ban biên tập
         - Bởi Bob Borsley, Will Haven, Roger Johnson, Tony Fallone, John Abbott, James Ead, Hal Broome, Catherine McEvoy và Dave Weldrake
     - Túi bưu phẩm của Belladonna
@@ -58,14 +58,14 @@ infobox:
 - **Ghi chú**
     - Sai sót trong tấm thảm *The Lord of the Rings*
         - Bởi John Abbott
-    - Những tấm khiên của Trung Địa
+    - Khiên của Trung Địa
         - Bởi Helen Kerley
 - **Quảng cáo**
     - Sê-ri: "Sir John de Creke, Sứ mệnh của ông" (truyện ngắn)
         - Bởi Vera Chapman
     - Tir Na Noge (thơ)
         - Bởi A.R. Fallone
-    - Giáo sư ở Oxford (thơ)
+    - Giáo sư tại Oxford (thơ)
         - Bởi Vera Chapman
     - Nazgul (họa tiết hài hước)
         - Bởi John B. Abbott
@@ -87,4 +87,4 @@ infobox:
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://journals.tolkiensociety.org/mallorn/issue/view/6/" rel="noreferrer noopener" target="_blank">Số này tại trang web của The Tolkien Society</a>
+- <a class="external text" href="http://journals.tolkiensociety.org/mallorn/issue/view/6/" rel="noreferrer noopener" target="_blank">Vấn đề này tại trang web Hội Tolkien</a>

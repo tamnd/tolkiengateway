@@ -26,11 +26,11 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the pillars</b>. For the sea, see <b><a href="../S/Sea_of_Helcar.md" title="Sea of Helcar">Sea of Helcar</a></b>.</div></div>
 
-**Helkar** là một trong hai cây cột giữ một trong [Hai ngọn đèn](../T/Two_Lamps.md) được tạo ra để thắp sáng [Trung địa](../M/Middle-earth.md) trong quan niệm ban đầu về [huyền thoại](../L/Legendarium.md).
+**Helkar** là một trong hai trụ cột giữ một trong những [Hai Ngọn Đèn](../T/Two_Lamps.md) được tạo ra để thắp sáng [Trung Địa](../M/Middle-earth.md) trong quan niệm ban đầu về [huyền thoại](../L/Legendarium.md).
 
 ## Lịch sử {#History}
 
-Helkar là một cây cột vĩ đại, được [Melko](../M/Melko.md) nâng lên để chứa *southern* của [Hai ngọn đèn](../T/Two_Lamps.md) do [Aulë](../A/Aulë.md) tạo ra để chiếu sáng [Trung địa](../M/Middle-earth.md). Cây cột cực kỳ cao lớn, vươn lên tới các vì sao và tỏa sáng như pha lê màu xanh nhạt. Melko tuyên bố rằng Helkar và người anh em sinh đôi phía bắc [Ringil](<../R/Ringil_(tower).md>) của nó được tạo thành từ một chất mạnh mẽ, bất diệt mà ông đã nghĩ ra; trên thực tế, ông đã nói dối vì chúng được làm từ băng (một loại vật liệu mà [Valar](../V/Valar.md) khác không biết). Vì vậy, khi những ngọn đèn của Aulë được đặt lên họ (bạc ở phía bắc và vàng ở phía nam), băng đã tan chảy và gây ra lũ lụt lớn đổ ra biển.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Helkar là một cây cột vĩ đại, được [Melko](../M/Melko.md) nâng lên để chứa *southern* của [Hai Ngọn Đèn](../T/Two_Lamps.md) được tạo hình bởi [Aulë](../A/Aulë.md) để chiếu sáng [Trung Địa](../M/Middle-earth.md). Cây cột cực kỳ cao lớn, vươn lên tới các vì sao và tỏa sáng như pha lê màu xanh nhạt. Melko tuyên bố rằng Helkar và người anh em sinh đôi phía bắc của nó [Ringil](<../R/Ringil_(tower).md>) được tạo thành từ một chất bền vững, bất diệt mà ông đã nghĩ ra; trên thực tế, ông ta đã nói dối vì chúng được làm từ băng (một loại vật liệu mà [Valar](../V/Valar.md) còn lại không biết). Vì vậy, khi người ta đặt đèn của Aulë lên họ (bạc ở phía bắc và vàng ở phía nam), băng đã tan chảy và gây ra lũ lụt lớn đổ ra biển.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -38,7 +38,7 @@ Helkar là một cây cột vĩ đại, được [Melko](../M/Melko.md) nâng l�
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-[Christopher Tolkien](../C/Christopher_Tolkien.md) lưu ý rằng câu chuyện về Những chiếc đèn ở giai đoạn đầu rất khác so với câu chuyện *[Silmarillion](../S/Silmarillion.md)* đã xuất bản. Chính Melko chứ không phải Aulë là người đã xây dựng hai cây cột. Cái tên *Helkar* biến mất như tên của trụ cột phía Nam; cuối cùng [Biển Helcar](../S/Sea_of_Helcar.md) sẽ là vùng nước được hình thành ở gốc rễ của [Illuin](../I/Illuin.md), cột *northern* và ngọn đèn. Ảnh hưởng duy nhất còn sót lại từ phiên bản cũ của câu chuyện là sự sụp đổ của những cây cột đã tạo ra biển nội địa, một vết tích của quan niệm cho rằng những cây cột được làm từ băng đã tan chảy.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+[Christopher Tolkien](../C/Christopher_Tolkien.md) lưu ý rằng câu chuyện về Những chiếc đèn ở giai đoạn đầu rất khác so với *[Silmarillion](../S/Silmarillion.md)* đã xuất bản. Chính Melko chứ không phải Aulë là người đã xây dựng hai cây cột. Cái tên *Helkar* biến mất như tên của trụ cột phía Nam; cuối cùng [Biển Helcar](../S/Sea_of_Helcar.md) sẽ là khối nước được hình thành ở rễ của [Illuin](../I/Illuin.md), cột *northern* và đèn. Ảnh hưởng duy nhất còn sót lại từ phiên bản cũ của câu chuyện là sự sụp đổ của những cây cột đã tạo ra biển nội địa, một vết tích của quan niệm cho rằng những cây cột được làm từ băng đã tan chảy.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

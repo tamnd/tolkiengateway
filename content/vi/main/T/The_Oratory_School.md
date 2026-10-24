@@ -14,7 +14,7 @@ sort_keys:
   "Education": "Oratory School, The"
 ---
 
-**Trường Oratory** là trường nội trú độc lập Công giáo La Mã ở Woodcote, Oxfordshire. [Michael](../M/Michael_Tolkien.md) và [Christopher Tolkien](../C/Christopher_Tolkien.md) là học sinh ở đó vào những năm 1930 khi trường tọa lạc tại Caversham ở Berkshire.<sup id="cite_ref-Letters_1-0" class="reference"><a href="#cite_note-Letters-1">[1]</a></sup> Michael sau này là giáo viên tại trường và khi ở cùng ông [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) thỉnh thoảng dạy các bài học cho giáo viên vắng mặt.
+**Trường Oratory** là trường nội trú độc lập Công giáo La Mã ở Woodcote, Oxfordshire. [Michael](../M/Michael_Tolkien.md) và [Christopher Tolkien](../C/Christopher_Tolkien.md) là học sinh ở đó vào những năm 1930 khi trường nằm ở Caversham ở Berkshire.<sup id="cite_ref-Letters_1-0" class="reference"><a href="#cite_note-Letters-1">[1]</a></sup> Michael sau này là thạc sĩ tại trường và khi ở cùng ông [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) thỉnh thoảng dạy kèm cho các giáo viên vắng mặt.
 
 ## Liên kết ngoài {#External_links}
 

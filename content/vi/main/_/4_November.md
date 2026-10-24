@@ -69,17 +69,17 @@ Sự kiện xảy ra vào ngày 4 tháng 11
 - **[1950](1950.md)** - Diễn viên [John Vickery](../J/John_Vickery.md) ra đời.
 - **[1954](1954.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 156](../L/Letter_156.md).
 - **[1961](1961.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 232](../L/Letter_232.md).
-- **[1968](1968.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một bức thư cho Mary Fairburn](<../L/Letter_to_Mary_Fairburn_(4_November_1968).md>).
+- **[1968](1968.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một lá thư cho Mary Fairburn](<../L/Letter_to_Mary_Fairburn_(4_November_1968).md>).
 - **[1991](1991.md)** - Ca sĩ [Enya](../E/Enya.md) phát hành album phòng thu thứ ba, *Shepherd Moons*, trong đó có ca khúc nhạc cụ [Lothlórien](<../L/Lothlórien_(Enya_song).md>)
-- **[2003](2003.md)** - *[The Lord of the Rings: War of the Ring](../T/The_Lord_of_the_Rings%253A_War_of_the_Ring.md)* được phát hành tại Hoa Kỳ.
+- **[2003](2003.md)** - *[The Lord of the Rings: War of the Ring](../T/The_Lord_of_the_Rings%253A_War_of_the_Ring.md)* được phát hành tại Mỹ.
 - **[2003](2003.md)** - *[The Essential J.R.R. Tolkien Sourcebook](../T/The_Essential_J.R.R._Tolkien_Sourcebook.md)* được xuất bản.
-- **[2011](2011.md)** - *[The Lord of the Rings: War in the North](../T/The_Lord_of_the_Rings%253A_War_in_the_North.md)* được phát hành ở Châu Phi, Trung Đông, Các nước vùng thấp, Nam Âu (trừ Tây Ban Nha), Đông Âu và Nam Mỹ (trừ Brazil).
+- **[2011](2011.md)** - *[The Lord of the Rings: War in the North](../T/The_Lord_of_the_Rings%253A_War_in_the_North.md)* được phát hành ở Châu Phi, Trung phương Đông, Các nước vùng thấp, Nam Âu (trừ Tây Ban Nha), Đông Âu và Nam Mỹ (trừ Brazil).
 
 ## Trong Arda {#In_Arda}
 
 - [F.A.](../F/First_Age.md) [495](../F/First_Age_495.md):
-    - [Tuor](../T/Tuor.md), được hướng dẫn bởi [Voronwë](../V/Voronwë.md), đi đến [Gondolin](../G/Gondolin.md) để chuyển thông điệp của [Ulmo](../U/Ulmo.md) tới [Turgon](../T/Turgon.md).
+    - [Tuor](../T/Tuor.md), được hướng dẫn bởi [Voronwë](../V/Voronwë.md), di chuyển đến [Gondolin](../G/Gondolin.md) để chuyển thông điệp của [Ulmo](../U/Ulmo.md) tới [Turgon](../T/Turgon.md).
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi tại [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).
+    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi ở [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - Sau [Trận chiến Bywater](../B/Battle_of_Bywater.md), quá trình phục hồi [Quận](../T/The_Shire.md) bắt đầu. [Frodo](../F/Frodo_Baggins.md) giải thoát các tù nhân của [Lỗ khóa](../L/Lockholes.md), bao gồm [Lobelia Sackville-Baggins](../L/Lobelia_Sackville-Baggins.md), [Fredegar Bolger](../F/Fredegar_Bolger.md) và [Will Whitfoot](../W/Will_Whitfoot.md).
+    - Sau [Trận Bywater](../B/Battle_of_Bywater.md), quá trình khôi phục [ Shire](../T/The_Shire.md) bắt đầu. [Frodo](../F/Frodo_Baggins.md) giải phóng các tù nhân của [Lỗ khóa](../L/Lockholes.md), bao gồm [Lobelia Sackville-Baggins](../L/Lobelia_Sackville-Baggins.md), [Fredegar Bolger](../F/Fredegar_Bolger.md) và [Will Whitfoot](../W/Will_Whitfoot.md).

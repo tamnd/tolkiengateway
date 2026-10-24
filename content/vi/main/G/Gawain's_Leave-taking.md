@@ -22,7 +22,7 @@ langlinks:
 
 <i><b>Gawain's Leave-Taking</b></i> là bản dịch sang tiếng Anh hiện đại của J.R.R. Tolkien bốn khổ thơ của một bài thơ tiếng Anh thời trung cổ. Bản dịch gồm ba khổ thơ đầu và khổ thơ cuối của một bài thơ dài hơn "Chống lại ý chí của tôi, tôi xin nghỉ phép" trong "Bản thảo Vernon" (Thư viện Bodleian, MS. Eng. nhà thơ. a. 1, f. 407va-b).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-[Christopher Tolkien](../C/Christopher_Tolkien.md) đã thêm bài thơ vào trang cuối cùng của *[Sir Gawain and the Green Knight, Pearl, and Sir Orfeo](../S/Sir_Gawain_and_the_Green_Knight,_Pearl,_and_Sir_Orfeo.md)*, một tuyển tập các bản dịch thơ thời trung cổ khác của cha ông. Tên bản dịch được đặt bởi J.R.R. Tolkien. Theo Christopher Tolkien, "rõ ràng có liên quan đến đoạn văn trong *Sir Gawain* nơi Gawain rời lâu đài của Ngài Bertilak để đến buổi hẹn hò ở Nhà nguyện Xanh"; bài thơ gốc không liên quan gì đến Ngài Gawain.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+[Christopher Tolkien](../C/Christopher_Tolkien.md) đã thêm bài thơ vào trang cuối cùng của *[Sir Gawain and the Green Knight, Pearl, and Sir Orfeo](../S/Sir_Gawain_and_the_Green_Knight,_Pearl,_and_Sir_Orfeo.md)*, một tuyển tập các bản dịch thơ thời trung cổ khác của cha anh. Tên bản dịch được đặt bởi J.R.R. Tolkien. Theo Christopher Tolkien, "rõ ràng có liên quan đến đoạn văn trong *Sir Gawain* nơi Gawain rời lâu đài của Ngài Bertilak để đến buổi hẹn hò ở Nhà nguyện Xanh"; bài thơ gốc không liên quan gì đến Ngài Gawain.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

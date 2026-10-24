@@ -17,9 +17,9 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">&#34;Woods in Middle-earth Role Playing&#34; is a concept which has only appeared in an  adaptation of the works of <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>.</div></div>
 
-Để làm rõ bối cảnh hơn, [Trò chơi nhập vai vùng Trung Địa](../M/Middle-earth_Role_Playing.md) giới thiệu nhiều loại gỗ mới dùng để chế tạo và trồng thảo mộc, ngoài [Gỗ mun](../E/Ebony.md), [Cây bách](../C/Cypresses.md), [Thông](../P/Pines.md), [Sồi](../B/Beeches.md), [Sồi](../O/Oaks.md), [Lebethron](../L/Lebethron.md), [Mellyrn](../M/Mallorn.md) và [Oiolairë](../O/Oiolairë.md) (và các biến thể của chúng được mô tả trên các trang tương ứng).
+Để làm nổi bật khung cảnh, [Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md) giới thiệu nhiều loại gỗ mới được sử dụng để chế tạo và trồng trọt, ngoài [Ebony](../E/Ebony.md), [Cypresses](../C/Cypresses.md), [Pines](../P/Pines.md), [Beeches](../B/Beeches.md), [Oaks](../O/Oaks.md), [Lebethron](../L/Lebethron.md), [Mellyrn](../M/Mallorn.md) và [Oiolairë](../O/Oiolairë.md) (và các biến thể của chúng được mô tả trên các trang tương ứng).
 
-[Teak](../T/Teak.md) là một loại cây dành riêng cho bản chuyển thể được giới thiệu trong trò chơi Nhập vai ở Trung Địa, nhưng sau đó cũng được sử dụng trong một bản chuyển thể khác.
+[Teak](../T/Teak.md) là một loại cây dành riêng cho bản chuyển thể được giới thiệu trong Middle-earth Role Playing, nhưng sau đó cũng được sử dụng trong bản chuyển thể khác.
 
 ## Belan {#Belan}
 
@@ -27,19 +27,19 @@ images:
 
 ## Dírwood {#Dírwood}
 
-<i><b>Dírwood</b></i> là một loài cây lá kim ở cực bắc của Trung Địa. Gỗ của nó có màu sẫm và khi được xử lý đúng cách sẽ cứng như loại thép cứng nhất. Ngoài ra, nó cũng có thể được xử lý để đủ đàn hồi để sử dụng làm cung.<sup id="cite_ref-secondpage_2-0" class="reference"><a href="#cite_note-secondpage-2">[2]</a></sup>
+<i><b>Dírwood</b></i> là một loài hạt trần ở cực bắc của Trung Địa. Gỗ của nó có màu sẫm và khi được xử lý đúng cách sẽ cứng như loại thép cứng nhất. Ngoài ra, nó cũng có thể được xử lý để đủ đàn hồi để sử dụng làm cung.<sup id="cite_ref-secondpage_2-0" class="reference"><a href="#cite_note-secondpage-2">[2]</a></sup>
 
 ## Eredena {#Eredena}
 
-<i><b>Eredena</b></i> ([S](../S/Sindarin.md). *Onodgai*, [Q](../Q/Quenya.md). *Ontocëa*), also called *Erek*, was a small evergreen shrub of Fangorn, cultivated by the Ents around their meeting places. Its dark leaves gave it a spherical shape, and in late winter its buds flowered into white blossoms that yielded light-coloured fruits. The buds, when consumed raw by Men, stimulated strength and thought, but could become overwhelming to the point of death. Ents refined them into their [draughts](../E/Ent-draughts.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+<i><b>Eredena</b></i> ([S](../S/Sindarin.md). *Onodgai*, [Q](../Q/Quenya.md). *Ontocëa*), còn được gọi là *Erek*, là một loại cây bụi nhỏ thường xanh Fangorn, được Ent trồng xung quanh nơi gặp gỡ của họ. Những chiếc lá sẫm màu của nó tạo cho nó một hình dạng hình cầu, và vào cuối mùa đông, nụ của nó nở hoa thành những bông hoa màu trắng và tạo ra những quả màu sáng. Nụ hoa, khi được ăn sống Con Người, sẽ kích thích sức mạnh và suy nghĩ, nhưng có thể trở nên choáng ngợp đến mức chết. Ent đã tinh chỉnh chúng thành [bản nháp](../E/Ent-draughts.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Gỗ vàng {#Goldwood}
 
-<i><b>Goldwood</b></i> là một loại cây cổ thụ quý hiếm mọc xung quanh Vịnh Drêl ở phía Tây Nam. Cao tới 300 ft, với chu vi lên tới 60 ft, các yêu tinh địa phương đã chạm khắc những căn phòng bên trong chúng.<sup id="cite_ref-secondpage_2-1" class="reference"><a href="#cite_note-secondpage-2">[2]</a></sup>
+<i><b>Goldwood</b></i> là một loại cây cổ thụ quý hiếm mọc xung quanh Vịnh Drêl ở phía Tây Nam. Cao tới 300 ft, với chu vi lên tới 60 ft, Tiên tộc các căn phòng được chạm khắc địa phương bên trong chúng.<sup id="cite_ref-secondpage_2-1" class="reference"><a href="#cite_note-secondpage-2">[2]</a></sup>
 
 ## Hoa mộc lan lá nho {#Grape-leaf_Magnolia}
 
-<i><b>Hoa mộc lan lá nho</b></i> là một loại cây thường xanh lá rộng phổ biến ở Mirkwood, có vỏ mềm, lá có nhiều lông và hoa nở với cánh hoa màu đỏ vào mùa hè. Trong thời gian đó, ong nuôi đã tràn vào chúng, tạo ra mật ong có màu đỏ sậm gây say, được dùng làm đồng cỏ.<sup id="cite_ref-secondpage_2-2" class="reference"><a href="#cite_note-secondpage-2">[2]</a></sup>
+<i><b>Mộc lan lá nho</b></i> là một loại cây thường xanh lá rộng phổ biến ở Mirkwood, có vỏ mềm, lá có nhiều lông và hoa nở với cánh hoa màu đỏ vào mùa hè. Trong thời gian đó, ong nuôi đã tràn vào chúng, tạo ra mật ong có màu đỏ sậm gây say, được dùng làm đồng cỏ.<sup id="cite_ref-secondpage_2-2" class="reference"><a href="#cite_note-secondpage-2">[2]</a></sup>
 
 ## Greddon {#Greddon}
 
@@ -51,7 +51,7 @@ images:
 
 ## Hrast {#Hrast}
 
-<i><b>Hrast</b></i> ([S](../S/Sindarin.md). *Bas* e-Lothladen, [Q](../Q/Quenya.md). *Erumeyávë*) là một loại cây của người Gaj ở Far Harad, có nhiều lá màu xanh bạc và quả màu xám to bằng nắm tay. Rất bổ dưỡng, một loại trái cây có thể giúp một người duy trì cuộc hành trình một ngày trên sa mạc. Khi phơi khô, chúng trở thành món ngon khắp Gondor, trong khi bản thân gỗ lại rắn chắc và uốn lượn.<sup id="cite_ref-hrast_6-0" class="reference"><a href="#cite_note-hrast-6">[6]</a></sup>
+<i><b>Hrast</b></i> ([S](../S/Sindarin.md). *Bas* e-Lothladen, [Q](../Q/Quenya.md). *Erumeyávë*) là một loại cây của người Gaj ở Far Harad, có nhiều lá màu xanh bạc và quả màu xám to bằng nắm tay. Rất bổ dưỡng, một loại trái cây có thể giúp một người duy trì cuộc hành trình một ngày trên sa mạc. Khi phơi khô, chúng trở thành món ngon trong suốt Gondor, trong khi bản thân gỗ lại rắn chắc và uốn lượn.<sup id="cite_ref-hrast_6-0" class="reference"><a href="#cite_note-hrast-6">[6]</a></sup>
 
 ## Xác thực {#Iauthalion}
 
@@ -99,7 +99,7 @@ images:
 
 ## Sorglasora {#Sorglasora}
 
-<i><b>Sorglasora</b></i> (<a class="new" href="https://tolkiengateway.net/w/index.php?title=Dursindarin&amp;action=edit&amp;redlink=1" title="Dursindarin (page does not exist)">Du.</a> Cây thông vàng, [S.](../S/Sindarin.md) *Carlorthôn*) là một cây cao được Dunmen đánh giá cao. Việc sử dụng nhiều trong quá trình sản xuất Cranorcran đã khiến nó trở nên hiếm hoi, chỉ mọc ở một vài thung lũng ở [Lebennin](../L/Lebennin.md).<sup id="cite_ref-fourthpage_15-2" class="reference"><a href="#cite_note-fourthpage-15">[14]</a></sup>
+<i><b>Sorglasora</b></i> (<a class="new" href="https://tolkiengateway.net/w/index.php?title=Dursindarin&amp;action=edit&amp;redlink=1" title="Dursindarin (page does not exist)">Du.</a> Cây thông vàng, [S.](../S/Sindarin.md) *Carlorthôn*) là một cây cao được Dunmen đánh giá cao. Việc sử dụng nhiều trong quá trình sản xuất Cranorcran đã khiến nó trở nên hiếm hoi, chỉ mọc ở một số thung lũng ở [Lebennin](../L/Lebennin.md).<sup id="cite_ref-fourthpage_15-2" class="reference"><a href="#cite_note-fourthpage-15">[14]</a></sup>
 
 ## Taynaga {#Taynaga}
 
@@ -119,7 +119,7 @@ images:
 
 ## Cây độc cần màu vàng {#Yellow_Hemlock}
 
-<i><b>Cây độc cần màu vàng</b></i> ([S](../S/Sindarin.md). *Maldui*, [Q](../Q/Quenya.md). *Malintuima*), còn được gọi là *Harfymond*, là một loại cây thường xanh ở Far Harad, có gỗ mềm dùng cho mục đích trang trí. Chất nhựa dính màu vàng của nó, được gọi là harfy, cũng được các thầy lang và nhà thảo dược sử dụng để cầm máu.<sup id="cite_ref-fourthpage_15-4" class="reference"><a href="#cite_note-fourthpage-15">[14]</a></sup><sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[20]</a></sup>
+<i><b>Cây độc cần màu vàng</b></i> ([S](../S/Sindarin.md). *Maldui*, [Q](../Q/Quenya.md). *Malintuima*), còn được gọi là *Harfymond*, là một loại cây thường xanh từ Far Harad, với gỗ mềm dùng cho mục đích trang trí. Chất nhựa dính màu vàng của nó, được gọi là harfy, cũng được các thầy lang và nhà thảo dược sử dụng để cầm máu.<sup id="cite_ref-fourthpage_15-4" class="reference"><a href="#cite_note-fourthpage-15">[14]</a></sup><sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[20]</a></sup>
 
 ## Ghi chú {#Notes}
 

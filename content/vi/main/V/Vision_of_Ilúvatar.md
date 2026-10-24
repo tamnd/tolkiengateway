@@ -27,7 +27,7 @@ images:
 <p class="tg-quote-footer"><cite>Ilúvatar to the Ainur</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Tầm nhìn của Ilúvatar** là tầm nhìn về [Thế giới](../A/Arda.md) được tạo ra bởi [Ilúvatar](../I/Ilúvatar.md) thông qua [Âm nhạc của người Ainur](../M/Music_of_the_Ainur.md), sau này được ông đưa ra.
+**Tầm nhìn của Ilúvatar** là tầm nhìn về [Thế giới](../A/Arda.md) được tạo ra bởi [Ilúvatar](../I/Ilúvatar.md) thông qua [Âm nhạc của các Ainur](../M/Music_of_the_Ainur.md), sau này được ông ta đưa ra.
 
 ## Lịch sử {#History}
 
@@ -37,9 +37,9 @@ images:
 <p class="tg-quote-footer"><cite><i>Ainulindale</i></cite></p>
 </blockquote>
 
-Vision cho thấy kết quả suy nghĩ của mỗi người Ainur, và đặc biệt [Melkor](../M/Melkor.md) có thể nhìn thấy kết quả tốt mà sự bất hòa của ông ta gây ra trái ngược với ý định của ông ta. Tầm nhìn mở ra lịch sử của thế giới mới và có hai điều khiến người Ainur kinh ngạc nhất: nước và [Những đứa trẻ của Ilúvatar](../C/Children_of_Ilúvatar.md). Nhưng Tầm nhìn đã chấm dứt trong [Sự thống trị của loài người](../D/Dominion_of_Men.md); do đó người Ainur biết nhiều điều về lịch sử sắp tới, nhưng về [Kết thúc](../D/Dagor_Dagorath.md) họ không thể đoán trước được như vậy.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Vision cho thấy kết quả trí tuệ của mỗi Ainur, và đặc biệt [Melkor](../M/Melkor.md) có thể nhìn thấy kết quả tốt đẹp mà sự bất hòa của ông ta gây ra trái ngược với ý định của ông ta. Vision mở ra lịch sử của thế giới mới và có hai điều khiến Ainur kinh ngạc nhất: nước và [Những Người Con của Ilúvatar](../C/Children_of_Ilúvatar.md). Nhưng Tầm nhìn đã chấm dứt trong [Sự thống trị của Con Người](../D/Dominion_of_Men.md); do đó Ainur biết nhiều điều về lịch sử sắp tới, nhưng về [Kết thúc](../D/Dagor_Dagorath.md) thì họ không thể đoán trước được như vậy.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Sau Vision, người Ainur thấy mình ở trong bóng tối, điều mà họ chưa từng trải qua. Sau đó, Ilúvatar tạo ra [Eä](../E/Eä.md) bằng lời nói của mình, để người Ainur có thể nhìn thế giới, không chỉ như một ảo ảnh đơn thuần mà là một Tạo hóa sống thực sự.
+Sau Tầm nhìn, Ainur thấy mình ở trong bóng tối mà họ chưa từng trải qua. Sau đó, Ilúvatar đã tạo ra [Eä](../E/Eä.md) bằng lời nói của mình, để Ainur có thể nhìn thế giới, không chỉ như một tầm nhìn đơn thuần mà là một Tạo hóa sống thực sự.
 
 <span></span>
 

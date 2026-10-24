@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fords of Isen"
 ---
 
-Chuyển hướng đến [Fors of Isen](../F/Fords_of_Isen.md).
+Chuyển hướng đến [Ford của Isen](../F/Fords_of_Isen.md).

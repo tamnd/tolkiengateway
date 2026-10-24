@@ -34,13 +34,13 @@ infobox:
 
 - Biên tập, Sự kiện thiên thể, Tin tức và Ghi chú
 - Thư gửi Biên tập viên của Brandon Neff và Leonid Korablev
-- Hậu tố động từ Quenya: Chuyển tiếp và nguyên nhân của Lisa Star, (thảo luận về các dạng động từ đơn, -ta và -ya cũng như cách hình thành thì quá khứ và thì hoàn thành của chúng)
+- Quenya Hậu tố động từ: Ngoại động từ và nguyên nhân của Lisa Star, (thảo luận về các dạng động từ đơn, -ta và -ya cũng như cách hình thành thì quá khứ và thì hoàn thành của chúng)
 - Ubi Quent? của Lisa Star (thơ bằng tiếng Anh)
 - Phân tích bùa Danian của Lisa Star (với biểu đồ rune cho Danian)
 - Thể lệ cuộc thi thơ
 - Bài tập về nhà ở trang Bas du của bạn (dạng câu có dạng động từ và mẫu từ vựng)
 - Danh sách các từ viết tắt thường được sử dụng
-- Bọn quỷ khổng lồ: Tierauta (phim hoạt hình)
-- Thần chú thư rồng, tác phẩm nghệ thuật của Brent Warner
+- The Troll nói chung: Tierauta (phim hoạt hình)
+- Rồng Thư Rune, tác phẩm nghệ thuật của Brent Warner
 
 <center><a href="Tyalië_Tyelelliéva_1.md" title="Tyalië Tyelelliéva 1">Previous Issue</a> <b>||</b> <a href="Tyalië_Tyelelliéva_3.md" title="Tyalië Tyelelliéva 3">Next Issue</a></center>

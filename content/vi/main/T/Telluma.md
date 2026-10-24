@@ -15,11 +15,11 @@ categories:
 
 <i><b>telluma</b></i> là một từ [Quenya](../Q/Quenya.md) có nghĩa là "mái vòm" hoặc "hầm".
 
-Về tên gọi, nó ám chỉ [Ilmarin](../I/Ilmarin.md) hoặc [Mái vòm Varda](../D/Dome_of_Varda.md) phía trên [Valinor](../V/Valinor.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Về cái tên, nó ám chỉ [Ilmarin](../I/Ilmarin.md) hoặc [Mái vòm của Varda](../D/Dome_of_Varda.md) phía trên [Valinor](../V/Valinor.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Nó bắt nguồn từ từ [Quenya](../Q/Quenya.md) *teluma* với ảnh hưởng từ từ [Valarin](../V/Valarin.md) *delgūmā*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Nó được bắt nguồn từ từ [Quenya](../Q/Quenya.md) *teluma* với ảnh hưởng từ từ [Valarin](../V/Valarin.md) *delgūmā*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Ví dụ {#Examples}
 

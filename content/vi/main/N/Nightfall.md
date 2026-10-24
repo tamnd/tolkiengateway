@@ -35,7 +35,7 @@ infobox:
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
-**Nightfall** là ca khúc thứ tư trong album chủ đề Tolkien của [Blind Guardian](../B/Blind_Guardian.md), *[Nightfall in Middle-Earth](Nightfall_in_Middle-Earth.md)*. Đó là lời than thở của [Fëanor](../F/Fëanor.md) và các con trai của ông ta về cái chết của [Finwë](../F/Finwë.md) cũng như vụ trộm [Silmarils](../S/Silmarils.md) và [lời thề](../O/Oath_of_Fëanor.md) của họ cũng như cuộc nổi dậy chống lại [Valar](../V/Valar.md).
+**Nightfall** là ca khúc thứ tư trong album chủ đề Tolkien của [Blind Guardian](../B/Blind_Guardian.md), *[Nightfall in Middle-Earth](Nightfall_in_Middle-Earth.md)*. Đó là lời than thở của [Fëanor](../F/Fëanor.md) và các con trai của ông về cái chết của [Finwë](../F/Finwë.md) và vụ trộm [Silmaril](../S/Silmarils.md), cũng như [lời thề](../O/Oath_of_Fëanor.md) và cuộc nổi loạn chống lại [Valar](../V/Valar.md).
 
 ## Lời bài hát {#Lyrics}
 

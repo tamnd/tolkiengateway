@@ -45,7 +45,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/AmonHen46.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/8/8d/AmonHen46.jpg/320px-AmonHen46.jpg" decoding="async" loading="lazy" width="320" height="452" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/8/8d/AmonHen46.jpg 1.5x" data-file-width="400" data-file-height="565"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Amon Hen 46</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../B/Brin_Dunsire.md" title="Brin Dunsire">Brin Dunsire</a></td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data">Dave Cooper</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Printer</th><td class="tg-infobox-data">Hanway Print Centre, London</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/31_August.md" title="31 August">31 August</a> <a href="../_/1980.md" title="1980">1980</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">A5 stapled paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">24</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0306-8781</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Amon_Hen_45.md" title="Amon Hen 45">Amon Hen 45</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Amon_Hen_47.md" title="Amon Hen 47">Amon Hen 47</a></td></tr></tbody></table>
 
-<b><i>Amon Hen</i> 46</b> là số thứ 46 của tạp chí hai tháng một lần của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, xuất bản vào [31 tháng 8](../_/31_August.md) [1980](../_/1980.md).
+<b><i>Amon Hen</i> 46</b> là số thứ 46 của tạp chí hai tháng một lần của [Hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, xuất bản vào [31 tháng 8](../_/31_August.md) [1980](../_/1980.md).
 
 ## Nội dung {#Contents}
 
@@ -60,15 +60,15 @@ infobox:
     - Bởi: Jonathan Simons
 - Vấn đề về lưng
     - Bởi: Lester Simons
-- Về lũ Orc và những điều kỳ lạ khác
+- Của Orc và những điều kỳ lạ khác
     - Bởi: [Richard Sturch](../R/Richard_Sturch.md)
 - Tiếp theo là gì, ông Bakshi?
     - Bởi: [J. Rateliff](../J/John_D._Rateliff.md)
-- Sonnet: Xem lại Trung Địa
+- Sonnet: Trung Địa xem lại
     - Bởi: Anne Anderson
 - Giải pháp
     - Bởi: S. Pillinger
-- Cây, Quỷ và Kiến
+- Cây, Troll và Ent
     - Bởi: Madawc Williams
 - Lễ hội rồng
     - Bởi: G. MacLellan

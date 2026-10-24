@@ -49,11 +49,11 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/O/Olanda_Fong-Surdenas_-_Grond_Leaves_Mordor.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/e/e0/Olanda_Fong-Surdenas_-_Grond_Leaves_Mordor.jpg/320px-Olanda_Fong-Surdenas_-_Grond_Leaves_Mordor.jpg" decoding="async" loading="lazy" width="320" height="392" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e0/Olanda_Fong-Surdenas_-_Grond_Leaves_Mordor.jpg/480px-Olanda_Fong-Surdenas_-_Grond_Leaves_Mordor.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/e/e0/Olanda_Fong-Surdenas_-_Grond_Leaves_Mordor.jpg/640px-Olanda_Fong-Surdenas_-_Grond_Leaves_Mordor.jpg 2x" data-file-width="750" data-file-height="919"/></a><figcaption>Grond Leaves Mordor&#34; by <a href="../O/Olanda_Fong-Surdenas.md" title="Olanda Fong-Surdenas">Olanda Fong-Surdenas</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Weapon</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Grond</span></th></tr><tr><th scope="row" class="tg-infobox-label">Owner</th><td class="tg-infobox-data"><a href="../S/Sauron.md" title="Sauron">Sauron</a></td></tr><tr><th scope="row" class="tg-infobox-label">Creator</th><td class="tg-infobox-data">Sauron or his servants</td></tr><tr><th scope="row" class="tg-infobox-label">Created at</th><td class="tg-infobox-data"><a href="../M/Mordor.md" title="Mordor">Mordor</a></td></tr><tr><th scope="row" class="tg-infobox-label">Notable for</th><td class="tg-infobox-data">Breaking through the <a href="Great_Gate_of_Minas_Tirith.md" title="Great Gate of Minas Tirith">Great Gate of Minas Tirith</a></td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Grond_(battering_ram).md" title="Category:Images of Grond (battering ram)">Images of Grond (battering ram)</a></td></tr></tbody></table>
 
-**Grond** là một thanh công cụ tấn công, được lực lượng của [Sauron](../S/Sauron.md) sử dụng để phá hủy [Great Gate](Great_Gate_of_Minas_Tirith.md) của [Minas Tirith](../M/Minas_Tirith.md) trong [Trận chiến trên cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md).
+**Grond** là một cỗ máy đập phá, được lực lượng của [Sauron](../S/Sauron.md) sử dụng để phá hủy [Great Gate](Great_Gate_of_Minas_Tirith.md) của [Minas Tirith](../M/Minas_Tirith.md) trong [Trận chiến trên Cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md).
 
 ## Lịch sử {#History}
 
-Grond được tạo ra ở [Mordor](../M/Mordor.md). Nó được sử dụng lần đầu tiên bởi lực lượng của Sauron trong Trận chiến trên cánh đồng Pelennor. Grond bị "[những con thú lớn](Great_beasts.md)" kéo đến Cổng Lớn và bị [quỷ núi](../M/Mountain-trolls.md) sử dụng. Nó được sử dụng để chống lại Cổng Lớn vì đây là điểm yếu nhất trên bức tường của Minas Tirith. Nỗ lực đầu tiên không thành công, cánh cổng xoay và một tiếng nổ xuyên qua thành phố nhưng cánh cổng vẫn đứng vững. Sau đó, [Thủ lĩnh áo đen](../B/Black_Captain.md) hét lên ba lần và với mỗi tiếng kêu, con cừu đực đập vào cánh cổng và cuối cùng ở lần thứ ba Grond đột phá và cánh cổng bật mở cho phép lực lượng của Sauron tiến vào Minas Tirith.
+Grond được tạo vào năm [Mordor](../M/Mordor.md). Nó được sử dụng lần đầu tiên bởi lực lượng Sauron trong Trận chiến trên Cánh đồng Pelennor. Grond bị "[những con thú lớn](Great_beasts.md)" kéo đến Cổng Lớn và bị [quỷ núi](../M/Mountain-trolls.md) sử dụng. Nó được sử dụng để chống lại Cổng Lớn vì đây là điểm yếu nhất trên bức tường của Minas Tirith. Nỗ lực đầu tiên không thành công, cánh cổng xoay và một tiếng nổ xuyên qua thành phố nhưng cánh cổng vẫn đứng vững. Sau đó, [Thủ lĩnh áo đen](../B/Black_Captain.md) hét lên ba lần và với mỗi tiếng kêu, con cừu đực đập vào cổng và cuối cùng ở lần thứ ba Grond đột phá và cánh cổng bật mở cho phép lực lượng Sauron tiến vào Minas Tirith.
 
 ## Mô tả {#Description}
 
@@ -105,11 +105,11 @@ Grond là một con cừu đực có hình dạng đầu sói. Nó được làm
 		</li>
 </ul>
 
-<b>2003: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">Chúa tể của những chiếc nhẫn: Sự trở lại của nhà vua</a></i>:</b>
+<b>2003: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">The Lord of the Rings: The Return of the King</a></i>:</b>
 
 <dl><dd>The ram took the shape of the whole wolf&#39;s body, rather of just its head. <a href="Gothmog_(Lieutenant_of_Morgul).md" title="Gothmog (Lieutenant of Morgul)">Gothmog</a> called it in after a smaller battering ram proved futile against the great gates.</dd></dl>
 
-<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
+<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Grond was encountered in the Epic Quest &#34;The Strength of Sauron Book 3: Chapter 8: Gothmog Appears&#34;. The player managed to slightly damage the great ram, delaying its use in the coming battle. <a class="mw-redirect mw-disambig" href="Gothmog.md" title="Gothmog">Gothmog</a>&#39;s arrival forced the player to withdraw before further damage could be done.</dd></dl>
 

@@ -45,11 +45,11 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_-_The_Return_of_the_King_-_Targon.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/8/87/The_Lord_of_the_Rings_-_The_Return_of_the_King_-_Targon.jpg/320px-The_Lord_of_the_Rings_-_The_Return_of_the_King_-_Targon.jpg" decoding="async" loading="lazy" width="320" height="242" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/87/The_Lord_of_the_Rings_-_The_Return_of_the_King_-_Targon.jpg/480px-The_Lord_of_the_Rings_-_The_Return_of_the_King_-_Targon.jpg 1.5x, https://tolkiengateway.net/w/images/8/87/The_Lord_of_the_Rings_-_The_Return_of_the_King_-_Targon.jpg 2x" data-file-width="588" data-file-height="445"/></a><figcaption>Targon from <i><a href="The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">The Lord of the Rings: The Return of the King</a></i></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../G/Gondorians.md" title="Gondorians">Gondorian</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Targon</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../G/Gondor.md" title="Gondor">Gondor</a></td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data"><a href="../W/Westron.md" title="Westron">Westron</a></td></tr><tr><th scope="row" class="tg-infobox-label">Birth</th><td class="tg-infobox-data">Late <a href="Third_Age.md" title="Third Age">Third Age</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Targon.md" title="Category:Images of Targon">Images of Targon</a></td></tr></tbody></table>
 
-**Targon** là người của [Gondor](../G/Gondor.md) trong [War of the Ring](../W/War_of_the_Ring.md).
+**Targon** là một người đàn ông [Gondor](../G/Gondor.md) trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md).
 
 ## Lịch sử {#History}
 
-Targon làm việc tại nhà kho và xưởng bơ cho [Đội bảo vệ Thành cổ](../G/Guards_of_the_Citadel.md) ở [Minas Tirith](../M/Minas_Tirith.md). Sáng [9 tháng 3](../_/9_March.md), [T.A.](Third_Age.md) [3019](Third_Age_3019.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> ông đã đưa cho [Beregond](../B/Beregond.md) và [Peregrin Mang](../P/Peregrin_Took.md) đồ ăn thức uống đi dã ngoại.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Targon làm việc tại nhà kho và xưởng bơ cho [Đội Cận vệ Thành Trì](../G/Guards_of_the_Citadel.md) ở [Minas Tirith](../M/Minas_Tirith.md). Sáng [9/3](../_/9_March.md), [T.A.](Third_Age.md) [3019](Third_Age_3019.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> anh đưa [Beregond](../B/Beregond.md) và [Peregrin Took](../P/Peregrin_Took.md) đồ ăn thức uống đi dã ngoại.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
@@ -70,11 +70,11 @@ Targon làm việc tại nhà kho và xưởng bơ cho [Đội bảo vệ Thành
 		</li>
 </ul>
 
-<b><a href="../_/2003.md" title="2003">2003</a>: <i><a href="The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">Chúa tể của những chiếc nhẫn: Sự trở lại của nhà vua</a></i>:</b>
+<b><a href="../_/2003.md" title="2003">2003</a>: <i><a href="The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">The Lord of the Rings: The Return of the King</a></i>:</b>
 
 <dl><dd>A card from <i><a href="The_Lord_of_the_Rings_Trading_Card_Game.md" title="The Lord of the Rings Trading Card Game">The Lord of the Rings Trading Card Game</a></i> identifies one of the Gondorian soldiers riding with <a href="../F/Faramir.md" title="Faramir">Faramir</a> as Targon.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></dd></dl>
 
-<b><a href="../_/2015.md" title="2015">2015</a>: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
+<b><a href="../_/2015.md" title="2015">2015</a>: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Targon can be found on the sixth level of the pre-battle <a href="../M/Minas_Tirith.md" title="Minas Tirith">Minas Tirith</a>. He has no lines and plays no role in the storyline.</dd></dl>
 

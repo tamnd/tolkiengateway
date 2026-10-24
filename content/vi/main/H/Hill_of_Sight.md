@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Amon Hen"
 ---
 
-Chuyển hướng tới [Amon Hen](../A/Amon_Hen.md).
+Chuyển hướng đến [Amon Hen](../A/Amon_Hen.md).

@@ -42,7 +42,7 @@ langlinks:
 <dl><dd><dl><dd><dl><dd>*<small><i>Differ from Shire names.</i></small></dd></dl></dd></dl></dd></dl>
 </td></tr></tbody></table>
 
-**Chithing** là tháng thứ tư trong năm theo lịch của [Bree](../B/Bree.md) và [Eastfarthing](../E/Eastfarthing.md), gần tương đương với tháng Tư hiện đại. Nó tương ứng với [Astro](../A/Astron.md) trong [Lịch Shire](../S/Shire_Calendar.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Chithing** là tháng thứ tư trong năm theo lịch [Bree](../B/Bree.md) và [Eastfarthing](../E/Eastfarthing.md), gần tương đương với tháng Tư hiện đại. Nó tương ứng với [Astro](../A/Astron.md) trong [Lịch Shire](../S/Shire_Calendar.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

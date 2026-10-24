@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Middle-earth Role Playing"
 ---
 
-Chuyển hướng tới [Nhập vai ở Trung Địa](Middle-earth_Role_Playing.md).
+Chuyển hướng đến [Middle-earth Role Playing](Middle-earth_Role_Playing.md).

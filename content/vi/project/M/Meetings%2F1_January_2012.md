@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Gateway:Meetings/8 January 2012"
 ---
 
-Chuyển hướng đến [Cổng Tolkien:Cuộc họp/ngày 8 tháng 1 năm 2012](Meetings%252F8_January_2012.md).
+Chuyển hướng tới [Tolkien Gateway:Meetings/8 tháng 1 năm 2012](Meetings%252F8_January_2012.md).

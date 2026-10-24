@@ -12,7 +12,7 @@ categories:
   - "Elves"
 ---
 
-**Elvendom**, còn được gọi là **Elfinesse**, dùng để chỉ lãnh thổ của [Yêu tinh](Elves.md). Trong [The Lord of the Rings](../T/The_Lord_of_the_Rings.md), [Lothlórien](../L/Lothlórien.md) được gọi là "*the heart of Elvendom*".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Trong *[Lay of Leithian](../L/Lay_of_Leithian.md)*, [Lúthien Tinúviel](../L/Lúthien.md) thường được gọi là "*fairest maid in Elfinesse*". <span></span>
+**Elvendom**, còn được gọi là **Elfinesse**, đề cập đến miền của [Tiên tộc](Elves.md). Trong [The Lord of the Rings](../T/The_Lord_of_the_Rings.md), [Lothlórien](../L/Lothlórien.md) được gọi là "*the heart of Elvendom*".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Trong *[Lay of Leithian](../L/Lay_of_Leithian.md)*, [Lúthien Tinúviel](../L/Lúthien.md) thường được gọi là "*fairest maid in Elfinesse*". <span></span>
 
 ## Tài liệu tham khảo {#References}
 

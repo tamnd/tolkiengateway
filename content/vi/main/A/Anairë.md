@@ -62,7 +62,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Người ta biết rất ít về bà ngoại trừ việc bà là Noldo, người đã không rời bỏ [Aman](Aman.md) do tình bạn thân thiết với [Eärwen](../E/Eärwen.md), vợ của [Finarfin](../F/Finarfin.md). Cô có bốn người con với Fingolfin: [Fingon](../F/Fingon.md), [Turgon](../T/Turgon.md), [Aredhel](Aredhel.md) và [Argon](Argon.md).<sup id="cite_ref-PM_1-0" class="reference"><a href="#cite_note-PM-1">[1]</a></sup>
+Người ta biết rất ít về bà ngoại trừ việc bà là một Noldo, người đã không rời [Aman](Aman.md) vì tình bạn thân thiết với [Eärwen](../E/Eärwen.md), vợ của [Finarfin](../F/Finarfin.md). Bà có 4 người con Fingolfin: [Fingon](../F/Fingon.md), [Turgon](../T/Turgon.md), [Aredhel](Aredhel.md) và [Argon](Argon.md).<sup id="cite_ref-PM_1-0" class="reference"><a href="#cite_note-PM-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -84,9 +84,9 @@ Tên *Anairë* có nghĩa là "Thánh thiêng" trong [Quenya](../Q/Quenya.md): *
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong *[The Silmarillion](../T/The_Silmarillion.md)*, [Fingolfin](../F/Fingolfin.md) có ba người con nhưng vợ ông không được nhắc đến trong gia phả.
+Trong *[The Silmarillion](../T/The_Silmarillion.md)*, [Fingolfin](../F/Fingolfin.md) được sinh cho ba người con nhưng vợ ông không được nhắc đến trong gia phả.
 
-Trong những lần sửa đổi tên sau này, vào khoảng năm 1970, tên *Alairë* được đặt cho vợ của [Turgon](../T/Turgon.md) và sau đó được đổi thành *Anairë*. Tuy nhiên, "sự thay thế [Elenwë](../E/Elenwë.md) trong *The Silmarillion* dựa trên phả hệ Tiên năm 1959."<sup id="cite_ref-Maeglin_3-0" class="reference"><a href="#cite_note-Maeglin-3">[3]</a></sup> Trong văn bản đó, Anairë được định nghĩa là một [Vanya](../V/Vanya.md) ở lại thành phố [Tirion](../T/Tirion.md) sau [Túna](../T/Túna.md), nhưng sau đó nó đã được sửa thành phiên bản đã có Elenwë 'người đã chết trong băng'. Anairë, được viết trên cùng một chiếc bàn trong cùng khoảng thời gian với Elenwë, được ghi là vợ của Fingolfin, với ghi chú rằng bà 'ở lại Aman'.<sup id="cite_ref-Maeglin_3-1" class="reference"><a href="#cite_note-Maeglin-3">[3]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:323</sup>
+Trong những lần sửa đổi tên sau này, vào khoảng năm 1970, tên *Alairë* được đặt cho vợ của [Turgon](../T/Turgon.md) và sau đó được đổi thành *Anairë*. Tuy nhiên, "sự thay thế [Elenwë](../E/Elenwë.md) trong *The Silmarillion* dựa trên phả hệ Elvish năm 1959."<sup id="cite_ref-Maeglin_3-0" class="reference"><a href="#cite_note-Maeglin-3">[3]</a></sup> Trong văn bản đó, Anairë được định nghĩa là một [Vanya](../V/Vanya.md) ở lại thành phố [Tirion](../T/Tirion.md) sau [Túna](../T/Túna.md), nhưng sau đó nó đã được sửa thành phiên bản có Elenwë 'đã chết trong trận chiến Băng'. Anairë, được viết trên cùng một bảng trong cùng khoảng thời gian với Elenwë, được ghi là vợ của Fingolfin, với ghi chú rằng bà 'ở lại Aman'.<sup id="cite_ref-Maeglin_3-1" class="reference"><a href="#cite_note-Maeglin-3">[3]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:323</sup>
 
 <span></span>
 

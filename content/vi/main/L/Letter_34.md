@@ -34,9 +34,9 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien nói rằng ông đã làm việc rất chăm chỉ trong một tháng cho phần tiếp theo của *[The Hobbit](../T/The_Hobbit.md)* và đã đến được Chương XI. Anh hoàn toàn mải mê với nó với tất cả những sợi dây trong tay nhưng lại phải gác nó sang một bên vô thời hạn. Bạn của ông [E.V. Gordon](../E/E.V._Gordon.md) đã qua đời giữa kỳ thi Danh dự và Tolkien phải hoàn thành việc sắp xếp giấy tờ. Tolkien vẫn hy vọng gửi phần tiếp theo sớm vào [1939](../_/1939.md).
+Tolkien cho biết anh đã làm việc rất chăm chỉ trong một tháng cho phần tiếp theo của *[The Hobbit](../T/The_Hobbit.md)* và đã đọc đến Chương XI. Anh hoàn toàn mải mê với nó với tất cả những sợi dây trong tay nhưng lại phải gác nó sang một bên vô thời hạn. Người bạn [E.V. Gordon](../E/E.V._Gordon.md) của anh đã qua đời giữa kỳ thi Danh dự và Tolkien phải làm xong giấy tờ. Tolkien vẫn hy vọng gửi phần tiếp theo sớm vào [1939](../_/1939.md).
 
-Tolkien làm rõ rằng khi ông nói rằng phần tiếp theo đã “vượt khỏi tầm kiểm soát”, ông muốn nói rằng nó đang đi đúng hướng và đang trở nên đáng sợ hơn *The Hobbit*, với bóng tối của thời đại ngày nay (tức là cuộc khủng hoảng Tiệp Khắc và nỗi lo sợ về chiến tranh vào cuối tháng 9 năm 1938) đã có một số ảnh hưởng đến nó. Tuy nhiên, đó không phải là một “ngụ ngôn”. <br>
+Tolkien làm rõ rằng khi ông nói rằng phần tiếp theo đã “vượt quá tầm kiểm soát”, ông muốn nói rằng nó đang đi đúng hướng và đang trở nên đáng sợ hơn *The Hobbit*, với bóng tối của thời đại ngày nay (tức là cuộc khủng hoảng Tiệp Khắc và nỗi lo sợ về chiến tranh vào cuối tháng Chín năm 1938) đã có một số ảnh hưởng đến nó. Tuy nhiên, đó không phải là một “ngụ ngôn”. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

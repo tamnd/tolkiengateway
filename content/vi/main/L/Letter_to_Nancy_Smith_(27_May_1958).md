@@ -23,13 +23,13 @@ Vào [27 tháng 5](../_/27_May.md) [1958](../_/1958.md), [J.R.R. Tolkien](../J/J
 
 ## Từ cuộc đấu giá {#From_Auction}
 
-TOLKIEN, John Ronald Reuel (1892-1973). Các ghi chú bản thảo có chữ ký ("J.R.R. Tolkien" ở trang 3 và ký tên tắt ở cuối), bao gồm hướng dẫn chi tiết về mục lục cho Chúa tể của những chiếc nhẫn. Ngày 12 tháng 3 năm 1958. 4 trang, 4t. Với một bảng câu hỏi đánh máy có tiêu đề "Các câu hỏi chỉ mục", của Smith được Tolkien chú thích bằng màu đỏ, 2 trang, 4to. GHI CHÚ BẢN BẢN CỦA TOLKIEN CHO CHỈ SỐ 'CHÚY CỦA NHẪN'
+TOLKIEN, John Ronald Reuel (1892-1973). Các ghi chú bản thảo có chữ ký ("J.R.R. Tolkien" ở trang 3 và ký tên đầu tiên ở cuối), bao gồm hướng dẫn chi tiết về mục lục cho The Lord of the Rings. Ngày 12 tháng 3 năm 1958. 4 trang, 4t. Với một bảng câu hỏi đánh máy có tiêu đề là "Các câu hỏi chỉ mục", của Smith được chú thích bằng Tolkien màu đỏ, 2 trang, 4to. GHI CHÚ BẢN BẢN CỦA TOLKIEN CHO CHỈ SỐ 'CHÚY CỦA NHẪN'
 
-Sau khi xuất bản tập cuối cùng của bộ ba Chúa tể những chiếc nhẫn, nhu cầu về chỉ mục cho tác phẩm hoành tráng này ngày càng tăng trong độc giả và nhà xuất bản, George Allen & Unwin Ltd., cuối cùng chỉ tuân thủ những yêu cầu này sau khi chính Tolkien tìm kiếm chỉ mục cho mục đích sử dụng của riêng mình. Giám đốc điều hành của công ty, Rayner S. Unwin đã giao nhiệm vụ này cho bà Nancy Smith, một biên tập viên và là bạn của gia đình. Chồng bà, Bernard S. Smith, là một quan chức ngoại giao người Anh, ở chung phòng tại Oxford với Christopher Tolkien và Rayner Unwin.
+Sau khi xuất bản tập cuối cùng của bộ ba Chúa tể những chiếc nhẫn, nhu cầu của độc giả về chỉ mục cho tác phẩm đồ sộ này ngày càng tăng và nhà xuất bản George Allen &amp; Unwin Ltd., cuối cùng chỉ tuân thủ những yêu cầu này sau khi chính Tolkien tìm kiếm chỉ mục cho riêng mình. Giám đốc điều hành của công ty, Rayner S. Unwin đã giao nhiệm vụ này cho bà Nancy Smith, một biên tập viên và là bạn của gia đình. Chồng bà, Bernard S. Smith, là một sĩ quan ngoại giao người Anh, ở chung phòng tại Oxford với Christopher Tolkien và Rayner Unwin.
 
-Việc chuẩn bị chỉ mục đã tạo ra một số thư từ trao đổi giữa Smith và Tolkien, người muốn tài liệu được chia thành ba phần: Người, Địa điểm và Sự vật. Smith bắt đầu lập chỉ mục vào tháng 1 năm 1958 và phải mất bốn tháng để hoàn thành. Kết quả hoàn thiện, một bản sao đi kèm với lô hàng này, chứa đầy 84 trang đánh máy cách đều nhau. Bà Smith được trả mức tiêu chuẩn là £ 5 mỗi tập cho tác phẩm của mình.
+Việc chuẩn bị mục lục dẫn đến một số trao đổi thư từ giữa Smith và Tolkien, người muốn tài liệu được chia thành ba phần: Người, Địa điểm và Đồ vật. Smith bắt đầu lập chỉ mục vào tháng 1 năm 1958 và phải mất bốn tháng để hoàn thành. Kết quả hoàn thiện, một bản sao đi kèm với lô hàng này, chứa đầy 84 trang đánh máy cách đều nhau. Bà Smith được trả mức tiêu chuẩn là £ 5 mỗi tập cho tác phẩm của mình.
 
-Smith đã gửi một danh sách "Các câu hỏi về chỉ mục" dài hai trang được đánh máy cho Tolkien ở giai đoạn đầu của dự án. Ông bắt đầu chú thích bên lề để trả lời tám câu hỏi do Smith đặt ra, nhưng cuối cùng lại viết ra một dàn ý dài bốn trang, xác định cẩn thận các yêu cầu cụ thể của ông đối với chỉ mục cùng với nhiều ví dụ.
+Smith đã gửi một danh sách dài hai trang gồm các "câu hỏi về chỉ mục" tới Tolkien ở giai đoạn đầu của dự án. Ông bắt đầu chú thích bên lề để trả lời tám câu hỏi do Smith đặt ra, nhưng cuối cùng lại viết ra một dàn ý dài bốn trang, xác định cẩn thận các yêu cầu cụ thể của ông đối với chỉ mục cùng với nhiều ví dụ.
 
 "Mục lục chủ yếu nhằm mục đích sử dụng cá nhân của tôi. Tôi hy vọng sẽ chuẩn bị từ nó một số loại chú giải/chỉ mục như thư của độc giả gợi ý là điều được mong muốn nhất. Nhưng mục đích sử dụng trước mắt của nó sẽ là: (a) sửa chữa (khi cần có sự mâu thuẫn, về chính tả hoặc cách sử dụng, hoặc lỗi trong văn bản hiện tại; và (b) phối hợp danh pháp của Chúa tể những chiếc nhẫn với tác phẩm khác."
 
@@ -37,7 +37,7 @@ Smith đã gửi một danh sách "Các câu hỏi về chỉ mục" dài hai tr
 
 \[Với:\]
 
-TOLKIEN. Thư xin chữ ký ("J.R.R. Tolkien") gửi Nancy Smith. Oxford, ngày 27 tháng 5 năm 1958. Một trang, 4to. Tolkien bày tỏ lòng biết ơn tới Smith vì công việc của bà về chỉ mục.
+TOLKIEN. Thư xin chữ ký ("J.R.R. Tolkien") gửi Nancy Smith. Oxford, ngày 27 tháng 5 năm 1958. Một trang, 4to. Tolkien bày tỏ lòng biết ơn tới Smith vì công việc của cô về mục lục.
 
 ## Liên kết ngoài {#External_links}
 

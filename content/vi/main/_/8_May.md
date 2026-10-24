@@ -66,9 +66,9 @@ Sự kiện xảy ra vào ngày 8 tháng 5
 
 ## Trên Trái đất {#On_Earth}
 
-- **[1898](1898.md)** - [Vera Chapman](../V/Vera_Chapman.md), người sáng lập [Hiệp hội Tolkien](../T/The_Tolkien_Society.md), ra đời.
+- **[1898](1898.md)** - [Vera Chapman](../V/Vera_Chapman.md), người sáng lập [Hội Tolkien](../T/The_Tolkien_Society.md), ra đời.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - [Éomer](Éomer.md) và [Éowyn](Éowyn.md) khởi hành đến [Rohan](../R/Rohan.md) cùng với [Elladan](../E/Elladan.md) và [Elrohir](../E/Elrohir.md) để sắp xếp lại vùng đất của họ.
+    - [Éomer](Éomer.md) và [Éowyn](Éowyn.md) khởi hành đến [Rohan](../R/Rohan.md) cùng với [Elladan](../E/Elladan.md) và [Elrohir](../E/Elrohir.md) để sắp xếp lại vùng đất của mình.

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lórien and the Halls of the Elven Smiths"
 ---
 
-Chuyển hướng đến [Lórien và Halls of the Elven Smiths](../L/Lórien_and_the_Halls_of_the_Elven_Smiths.md).
+Chuyển hướng tới [Lórien và Halls of the Tiên Smiths](../L/Lórien_and_the_Halls_of_the_Elven_Smiths.md).

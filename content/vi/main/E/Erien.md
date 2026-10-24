@@ -39,7 +39,7 @@ Cô còn có một người anh chị em khác tên là [Finbor](../F/Finbor.md)
 
 ## Từ nguyên {#Etymology}
 
-Tên *Erien* có trong [Sindarin](../S/Sindarin.md) nhưng không có ý nghĩa rõ ràng. Lời giải thích khả thi cho tên của bà có thể là sự kết hợp giữa tính từ Sindarin *[er](Er.md)* ("một, một mình") + hậu tố nữ tính *[-ien](../_/-ien.md)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Tên *Erien* có trong [Sindarin](../S/Sindarin.md) nhưng không có ý nghĩa rõ ràng. Lời giải thích khả thi cho tên của bà có thể là sự kết hợp của tính từ Sindarin *[er](Er.md)* ("một, một mình") + hậu tố nữ tính *[-ien](../_/-ien.md)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 Dạng tên bị từ chối trước đó của bà là *Ernis*.<sup id="cite_ref-Shib_1-2" class="reference"><a href="#cite_note-Shib-1">[1]</a></sup>
 

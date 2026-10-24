@@ -33,17 +33,17 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-[Rhona Beare](../R/Rhona_Beare.md) có một số câu hỏi về hai tập đầu tiên của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* và Tolkien đã trả lời:
+[Rhona Beare](../R/Rhona_Beare.md) đã có một số câu hỏi về hai tập đầu tiên của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* và Tolkien đã trả lời:
 
-- Việc Aragorn khoe khoang rằng anh thuộc dòng dõi [Númenor](../N/Númenor.md) "không hòa nhập" ám chỉ dòng dõi tổ tiên bên nội của anh.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Lời khoe khoang của - Aragorn rằng ông ta là [Númenor](../N/Númenor.md) "không hòa nhập" ám chỉ dòng dõi tổ tiên bên nội của ông ta.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-- [Treebeard](../T/Treebeard.md) đã sử dụng tiếng Elf cổ theo kiểu [Entish](../E/Entish.md) trong các bài hát của mình chứ không phải âm thanh Entish. Tolkien liệt kê các yếu tố trong bài hát của mình cùng với bản dịch.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- [Treebeard](../T/Treebeard.md) đã sử dụng Elvish cổ theo phong cách [Entish](../E/Entish.md) trong các bài hát của mình chứ không phải âm thanh Entish. Tolkien liệt kê các yếu tố trong bài hát của ông kèm theo bản dịch.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 - *[Mae](../M/Mae.md) [govannen](../G/Govannen.md)* có nghĩa là "rất hài lòng."<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-- Lời chào của Treebeard tới [Celeborn](../C/Celeborn.md) và [Galadriel](../G/Galadriel.md) có nghĩa là "Hỡi những người đẹp, cha mẹ của những đứa con xinh đẹp."<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Lời chào của - Treebeard gửi đến [Celeborn](../C/Celeborn.md) và [Galadriel](../G/Galadriel.md) có nghĩa là "Hỡi những người đẹp, cha mẹ của những đứa con xinh đẹp."<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
-- Tolkien đã dịch dòng 2, 4, 6, 7 và 9 của bài ca ngợi trong "[The Field of Cormallen](../T/The_Field_of_Cormallen.md)".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+- Tolkien dịch dòng 2, 4, 6, 7 và 9 của bài ca ngợi trong "[The Cánh đồng Cormallen](../T/The_Field_of_Cormallen.md)".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Xem thêm {#See_also}
 

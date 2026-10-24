@@ -47,7 +47,7 @@ infobox:
     - Bởi: Dabney Park
 - "Trên Cầu thang của Cổng Lớn: Trí tưởng tượng của C.S. Lewis và Cuộc tìm kiếm niềm tin vào *Till We Have Faces*"
     - Bởi: Elaine Tixier
-- "Xen vào tâm trí Melkor: *The Silmarillion* và bản chất của tội lỗi"
+- "Can thiệp vào tâm trí Melkor: *The Silmarillion* và Bản chất của Tội lỗi"
     - Bởi: Taylor Hibbs
 - "Puddleglum, Pascal và Plato: Nhận thức luận trong C.S. Lewis's *The Silver Chair*"
     - Bởi: Joseph Chapa
@@ -56,7 +56,7 @@ infobox:
 - Bài luận ôn tập:
     - "Ánh sáng mới cho cuộc đại chiến"
         - Bởi: Edwin Tait
-    - "Một sự chuyển đổi không mong muốn (*C.S. Lewis: Revelation and the Christ* của Paul H. Brazier)"
+    - "Một sự chuyển đổi không được chào đón (*C.S. Lewis: Revelation and the Christ* của Paul H. Brazier)"
         - Bởi: Travis Buchanan
 - Bổ sung:
     - "Bổ sung cho 'Chữ viết tay phản diện': Nghiên cứu theo trình tự thời gian về kịch bản của C.S. Lewis"
@@ -67,7 +67,7 @@ infobox:
         - Bởi: Bryan McGraw
     - "Đánh giá về *Trí tưởng tượng đáng ngạc nhiên của C.S. Lewis: Lời giới thiệu* của Jerry Root và Mark Neal"
         - Bởi: Daniel Train
-    - "Đánh giá về *Các phương pháp giảng dạy Chúa tể của những chiếc nhẫn và các tác phẩm khác của Tolkien*, do Leslie biên tập A. Donovan"
+    - "Đánh giá về *Các phương pháp tiếp cận giảng dạy The Lord of the Rings của Tolkien và các tác phẩm khác*, được biên tập bởi Leslie A. Donovan"
         - Bởi: James Beitler
     - "Đánh giá về *Charles Williams: The Third Inkling* của Grevel Lindop"
         - Bởi: Linh mục Nancy E. Topolewski, Tiến sĩ
@@ -80,7 +80,7 @@ infobox:
         - Bởi: Michael Ward và Peter S. Williams, biên tập viên
     - *Phụ nữ và C.S. Lewis: Cuộc đời và văn học của ông tiết lộ điều gì cho nền văn hóa ngày nay*
         - Bởi: Curtis và Mary Pomroy Key, biên tập viên
-    - *Trí tuệ thời Trung cổ dành cho Cơ đốc nhân hiện đại: Tìm kiếm đức tin đích thực trong thời đại bị lãng quên với C.S. Lewis*
+    - *Trí tuệ thời Trung cổ dành cho Cơ đốc nhân hiện đại: Tìm kiếm niềm tin đích thực trong một thời đại bị lãng quên với C.S. Lewis*
         - Bởi: Chris R. Armstrong
     - *Chuyến đi bộ triết học với C.S. Lewis: Tại sao nó không bao gồm Rome*
         - Bởi: Stewart Goetz
@@ -104,13 +104,13 @@ infobox:
         - Bởi: Martin Simonson, biên tập viên
     - *The Spiritual World of The Hobbit*
         - Bởi: James Stuart Bell
-    - *Bài học của người Hobbit: Bản đồ cho những chuyến đi bất ngờ trong cuộc đời*
+    - *Hobbit Bài học: Bản đồ cho những hành trình bất ngờ trong cuộc đời*
         - Bởi: Devin Brown
-    - *Những khoảnh khắc ân sủng và cuộc chiến tâm linh trong Chúa tể của những chiếc nhẫn*
+    - *Những khoảnh khắc ân sủng và chiến tranh tâm linh trong The Lord of the Rings*
         - Bởi: Anne Marie Gazzolo
     - *Tolkien và Wagner: Chiếc nhẫn và chiếc nhẫn Der Ring*
         - Bởi: Christopher MacLachlan
-    - *Trung Địa thực sự: Khám phá nguồn gốc của Chúa tể những chiếc nhẫn*
+    - *Trung Địa thực sự: Khám phá nguồn gốc của The Lord of the Rings*
         - Bởi: Michael Muhling
     - *J.R.R. Tolkien, Phó bí mật: Tolkien về các ngôn ngữ được phát minh*
         - Bởi: Dimitra Fimi và Andrew Higgins, biên tập viên

@@ -37,9 +37,9 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tolkien,_Life_and_Legend.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/e/eb/Tolkien%2C_Life_and_Legend.jpg/320px-Tolkien%2C_Life_and_Legend.jpg" decoding="async" loading="lazy" width="320" height="407" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/e/eb/Tolkien%2C_Life_and_Legend.jpg 1.5x" data-file-width="393" data-file-height="500"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>J.R.R. Tolkien: Life and Legend</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data">Judith Priestman</td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../B/Bodleian_Library.md" title="Bodleian Library">Bodleian Library</a>, Oxford</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/1992.md" title="1992">1992</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback exhibition catalogue</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">96</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/1851240276" title="Special:BookSources/1851240276">1851240276</a></td></tr></tbody></table>
 
-<i><b>J.R.R. Tolkien: Cuộc đời và Huyền thoại</b></i> là danh mục của cuộc triển lãm kỷ niệm [1992](../_/1992.md) được tổ chức bởi [Thư viện Bodleian](../B/Bodleian_Library.md), Oxford, để kỷ niệm 100 năm ngày sinh của [J.R.R. Tolkien](J.R.R._Tolkien.md).
+<i><b>J.R.R. Tolkien: Cuộc đời và Huyền thoại</b></i> là danh mục triển lãm kỷ niệm [1992](../_/1992.md) được tổ chức bởi [Thư viện Bodleian](../B/Bodleian_Library.md), Oxford, để kỷ niệm 100 năm ngày sinh của [J.R.R. Tolkien](J.R.R._Tolkien.md).
 
-"J.R.R. Tolkien: Life and Legend" là triển lãm lớn đầu tiên tập trung vào Tolkien. Trong cuộc triển lãm này, 250 hiện vật đã được liệt kê trong danh mục, trong đó hầu hết tất cả đều đến từ kho lưu trữ của Bodleian — một số do nhà xuất bản của Tolkien [HarperCollins](../H/HarperCollins.md) tặng và một số nhỏ từ Corpus Christi College và Exeter College từ thời Tolkien ở đó.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+"J.R.R. Tolkien: Cuộc đời và huyền thoại" là triển lãm lớn đầu tiên tập trung vào Tolkien. Trong cuộc triển lãm này, 250 hiện vật đã được liệt kê trong danh mục, trong đó hầu hết tất cả đều đến từ kho lưu trữ của Bodleian — một số do nhà xuất bản của Tolkien tài trợ [HarperCollins](../H/HarperCollins.md) và một số nhỏ từ Corpus Christi College và Exeter College từ thời Tolkien ở đó.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Danh mục này liệt kê, mô tả và cung cấp thông tin cơ bản về các mặt hàng được trưng bày trong triển lãm. Nó tái tạo nhiều lựa chọn tác phẩm nghệ thuật, ảnh chụp, bản đồ, trang bản thảo, chú thích, chữ cái và các khoảnh khắc khác ở cả màu và đen trắng.
 
@@ -53,7 +53,7 @@ Một vài ví dụ là: bìa *[Ye Chequers Clubbe Binge](../Y/Ye_Chequers_Clubb
 
 - Danh mục
     - Gia đình và cuộc sống tuổi thơ (mục 1-15)
-    - Schooldays và Oxford (mục 16-45)
+    - Ngày đi học và Oxford (mục 16-45)
     - Chiến tranh (mục 46-61)
     - Từ điển học và Leeds (mục 62-86)
     - 'Ông. Baggins' (mục 87-146)
@@ -68,7 +68,7 @@ Một vài ví dụ là: bìa *[Ye Chequers Clubbe Binge](../Y/Ye_Chequers_Clubb
 
 - *[Tolkien: Maker of Middle-earth](../T/Tolkien%253A_Maker_of_Middle-earth.md)* (Danh mục triển lãm năm 2018 của Bodleian)
 - *[J.R.R. Tolkien: Artist and Illustrator](J.R.R._Tolkien%253A_Artist_and_Illustrator.md)*
-- [Triển lãm Tolkien](../T/Tolkien_exhibitions.md)
+- [Tolkien triển lãm](../T/Tolkien_exhibitions.md)
 
 ## Liên kết ngoài {#External_links}
 

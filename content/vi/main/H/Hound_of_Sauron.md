@@ -42,11 +42,11 @@ infobox:
 <p class="tg-quote-footer"><cite><i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, &#34;<a href="../A/A_Journey_in_the_Dark.md" title="A Journey in the Dark">A Journey in the Dark</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**"Chó săn của Sauron"** là tên do [Gandalf](../G/Gandalf.md) đặt cho một trong những thủ lĩnh của [Wargs](../W/Wargs.md) đã tấn công [Fellowship](../F/Fellowship.md) ở [Hollin](Hollin.md).
+**"Chó săn Sauron"** là tên do [Gandalf](../G/Gandalf.md) đặt cho một trong những thủ lĩnh của [Warg](../W/Wargs.md) đã tấn công [Fellowship](../F/Fellowship.md) ở [Hollin](Hollin.md).
 
 ## Lịch sử {#History}
 
-Vào [ngày 13 tháng 1](../_/13_January.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md), sau khi Gandalf đối đầu với ông ta, các chiến binh dưới quyền ông ta đã nhảy vào Hiệp hội cùng với thủ lĩnh của họ. Mặc dù cái gọi là "Chó săn của [Sauron](../S/Sauron.md)" đã bị giết, nhưng vẫn chưa rõ hắn bị giết bởi ai, vì trong cuộc tấn công, [Aragorn](../A/Aragorn.md) đã đâm "một thủ lĩnh to lớn", trong khi [Boromir](../B/Boromir.md) chặt đầu một thủ lĩnh khác và "trái tim của một thủ lĩnh sói vĩ đại" đã bị xuyên thủng bởi mũi tên cuối cùng của [Legolas](../L/Legolas.md), đốt cháy.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Vào [13 tháng 1](../_/13_January.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md), sau khi Gandalf đối đầu với ông ta, các chiến binh dưới quyền ông ta đã nhảy vào Hiệp hội với thủ lĩnh của họ. Mặc dù cái gọi là "Chó săn [Sauron](../S/Sauron.md)" đã bị giết, nhưng không rõ hắn bị giết bởi ai, vì trong cuộc tấn công, [Aragorn](../A/Aragorn.md) đã đâm "một thủ lĩnh to lớn", trong khi [Boromir](../B/Boromir.md) chặt đầu một thủ lĩnh khác và "trái tim của một thủ lĩnh sói vĩ đại" đã bị xuyên thủng bởi mũi tên cuối cùng của [Legolas](../L/Legolas.md), bị lửa đốt cháy.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

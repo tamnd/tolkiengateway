@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Firebeards"
 ---
 
-Chuyển hướng tới [Râu Lửa](Firebeards.md).
+Chuyển hướng đến [Firebeards](Firebeards.md).

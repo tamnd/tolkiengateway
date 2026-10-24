@@ -63,7 +63,7 @@ Sự kiện xảy ra vào ngày 19 tháng 2.
 
 ## Trên Trái đất {#On_Earth}
 
-- **[1918](1918.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) tham dự cuộc kiểm tra của hội đồng y tế khi đóng tại Humber Garrison.
+- **[1918](1918.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) tham gia cuộc kiểm tra của hội đồng y tế khi đóng quân tại Humber Garrison.
 - **[1952](1952.md)** - Diễn viên [Geoff Morrell](../G/Geoff_Morrell.md) ra đời.
 - **[1990](1990.md)** - Diễn viên [Luke Pasqualino](../L/Luke_Pasqualino.md) ra đời.
 - **[2006](2006.md)** - Diễn viên [Wi Kuki Kaa](../W/Wi_Kuki_Kaa.md) qua đời.
@@ -71,4 +71,4 @@ Sự kiện xảy ra vào ngày 19 tháng 2.
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - Nhóm [Hiệp hội Nhẫn](../F/Fellowship_of_the_Ring.md) đi về phía nam dọc theo [Anduin](../A/Anduin.md). [Samwise](../S/Samwise_Gamgee.md) phát hiện [Gollum](../G/Gollum.md) trong nhật ký của mình.
+    - Con [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) di chuyển về phía nam xuống [Anduin](../A/Anduin.md). [Samwise](../S/Samwise_Gamgee.md) ghi [Gollum](../G/Gollum.md) vào nhật ký của ông.

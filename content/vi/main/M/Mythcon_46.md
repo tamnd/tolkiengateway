@@ -33,7 +33,7 @@ infobox:
 **Mythcon 46** là hội nghị [Hiệp hội thần thoại](Mythopoeic_Society.md) thường niên lần thứ 46.
 
 - **Chủ đề:** "Thần thoại Arthurian"
-- **Khách mời danh dự:** Jo Walton (tác giả truyện giả tưởng) và [John D. Rateliff](../J/John_D._Rateliff.md) (học giả Inklings và Tolkien)
+- **Khách mời danh dự:** Jo Walton (tác giả truyện giả tưởng) và [John D. Rateliff](../J/John_D._Rateliff.md) (Inklings và học giả Tolkien)
 
 ## Liên kết ngoài {#External_links}
 

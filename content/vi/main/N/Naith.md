@@ -23,19 +23,19 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Naith.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/e/e5/The_Lord_of_the_Rings_Online_-_Naith.jpg/250px-The_Lord_of_the_Rings_Online_-_Naith.jpg" decoding="async" loading="lazy" width="250" height="148" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e5/The_Lord_of_the_Rings_Online_-_Naith.jpg/375px-The_Lord_of_the_Rings_Online_-_Naith.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/e/e5/The_Lord_of_the_Rings_Online_-_Naith.jpg/500px-The_Lord_of_the_Rings_Online_-_Naith.jpg 2x" data-file-width="1912" data-file-height="1129"/></a><figcaption>The Naith in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-**Naith** của Lórien là một vùng đất hình nêm nằm giữa Sông [Celebrant](../C/Celebrant.md) và [Anduin](../A/Anduin.md), nơi [Egladil](../E/Egladil.md), vùng trung tâm của [Lothlórien](../L/Lothlórien.md) và thủ đô [Caras Galadhon](../C/Caras_Galadhon.md) được thành lập.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Naith** của Lórien là một vùng đất hình nêm giữa Sông [Celebrant](../C/Celebrant.md) và [Anduin](../A/Anduin.md), nơi [Egladil](../E/Egladil.md), vùng trung tâm của [Lothlórien](../L/Lothlórien.md) và thủ đô [Caras Galadhon](../C/Caras_Galadhon.md) của nó được tìm thấy.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-**Gore** là bản dịch của [Haldir](../H/Haldir.md) từ tên [Elvish](../E/Elvish.md) Naith.
+**Gore** là bản dịch của [Haldir](../H/Haldir.md) cho tên [Elvish](../E/Elvish.md) Naith.
 
 ## Từ nguyên {#Etymology}
 
-Từ [Sindarin](../S/Sindarin.md) *naith*, được gọi là "góc", có nguồn gốc từ *nek-tē* (gốc [NEK](NEK.md)). Dạng [Quenya](../Q/Quenya.md) của nó là *nehte*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Trong *[The Etymologies](../T/The_Etymologies.md)* từ này được đánh bóng là "gore" và xuất hiện dưới dạng từ [Noldorin](Noldorin.md) (giám sát của Sindarin), bắt nguồn từ gốc SNAS-/SNAT-. Các từ khác bắt nguồn từ gốc đó có nghĩa là “đầu giáo, điểm, hình tam giác”, trong đó có hình phác họa đầu mũi tên.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Từ [Sindarin](../S/Sindarin.md) *naith*, được gọi là "góc", có nguồn gốc từ *nek-tē* (gốc [NEK](NEK.md)). Dạng [Quenya](../Q/Quenya.md) của nó là *nehte*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Trong *[The Etymologies](../T/The_Etymologies.md)* từ này được đánh bóng là "gore" và xuất hiện dưới dạng một từ [Noldorin](Noldorin.md) (procursor của Sindarin), bắt nguồn từ gốc SNAS-/SNAT-. Các từ khác bắt nguồn từ gốc đó có nghĩa là “đầu giáo, điểm, hình tam giác”, trong đó có hình phác họa đầu mũi tên.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 Thuật ngữ tiếng Anh <i><a class="extiw" href="http://en.wiktionary.org/wiki/gore#Etymology_3" title="wiktionary:gore">gore</a></i> là một từ hiếm dùng để mô tả bất kỳ loại đồ vật hẹp hoặc nhọn nào, ban đầu là một mảnh đất hẹp hình tam giác.
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
+<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Naith forms the core of Lothlorien, as very few Elves reside south of the <a href="../C/Celebrant.md" title="Celebrant">Celebrant</a>.</dd></dl>
 

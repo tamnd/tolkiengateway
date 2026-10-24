@@ -42,7 +42,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/AmonHen41.png.md"><img src="https://tolkiengateway.net/w/images/thumb/2/2f/AmonHen41.png/320px-AmonHen41.png" decoding="async" loading="lazy" width="320" height="461" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/2f/AmonHen41.png/480px-AmonHen41.png 1.5x, https://tolkiengateway.net/w/images/thumb/2/2f/AmonHen41.png/640px-AmonHen41.png 2x" data-file-width="694" data-file-height="1000"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Amon Hen 41</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Jeremy Morgan</td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data">Lucy Matthews</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Printer</th><td class="tg-infobox-data">Hanway Print Centre, London</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">October <a href="../_/1979.md" title="1979">1979</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">A5 stapled paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">24</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0306-8781</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Amon_Hen_40.md" title="Amon Hen 40">Amon Hen 40</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Amon_Hen_42.md" title="Amon Hen 42">Amon Hen 42</a></td></tr></tbody></table>
 
-<b><i>Amon Hen</i> 41</b> là số thứ 41 của tạp chí hai tháng một lần của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, xuất bản vào tháng 10 [1979](../_/1979.md).
+<b><i>Amon Hen</i> 41</b> là số thứ 41 của tạp chí hai tháng một lần của [Hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, xuất bản vào tháng 10 [1979](../_/1979.md).
 
 ## Nội dung {#Contents}
 
@@ -53,17 +53,17 @@ infobox:
     - Bởi: Jeremy Morgan
 - Gondorfeast
     - Bởi: [Jonathan Simons](../J/Jonathan_Simons.md)
-- Về việc công bố Hiệp hội Tolkien
+- Về việc công khai Hội Tolkien
     - Bởi: Jessica Yates
-- Hiệp hội Tolkien ở Thụy Điển
+- Tolkien Các xã hội ở Thụy Điển
     - Bởi: Gabriel Stein
 - Thợ may Tinco
     - Bởi: [Susan Rule](../S/Susan_Rule.md)
-- Vương quốc Orc vào thời đại thứ tư
+- Vương quốc Orc của Kỷ Đệ Tứ
     - Bởi: Alex Woolf
 - Ký ức sống động cuối cùng
     - Bởi: [Richard Sturch](../R/Richard_Sturch.md)
-- Tôn giáo ở Trung địa
+- Tôn giáo ở Trung Địa
     - Bởi: Ted Crawford
 - Đánh giá: *The Chronicles of Thomas the Unbeliever*
     - Bởi: [Brin Dunsire](../B/Brin_Dunsire.md)

@@ -37,26 +37,26 @@ infobox:
 
 **Vùng sâu** là một mạng lưới ngầm rộng lớn do [Iron Crown Enterprises](../I/Iron_Crown_Enterprises.md) phát minh cho *[Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)*, trải dài khắp Trung Địa nhưng đặc biệt có liên quan đến [Moria](../M/Moria.md).<sup id="cite_ref-main_1-0" class="reference"><a href="#cite_note-main-1">[1]</a></sup> Được đánh vần là **Underdeeps**, chúng xuất hiện trở lại trong [Decipher](../D/Decipher.md)'s [Trò chơi nhập vai](../T/The_Lord_of_the_Rings_Roleplaying_Game.md), mặc dù dường như có giới hạn tới Moria.<sup id="cite_ref-decipher_2-0" class="reference"><a href="#cite_note-decipher-2">[2]</a></sup>
 
-Họ đã được giới thiệu về [Trò chơi thẻ bài sưu tầm Trung Địa](../M/Middle-earth_Collectible_Card_Game.md) trong bản mở rộng [Dark Minions](../M/Middle-earth%253A_Dark_Minions.md) và cũng được nhắc đến trong [Decipher](../D/Decipher.md)'s *[card game](../T/The_Lord_of_the_Rings_Trading_Card_Game.md)*. <sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Họ đã được giới thiệu về [Trung Địa Trò chơi thẻ bài sưu tập](../M/Middle-earth_Collectible_Card_Game.md) trong bản mở rộng [Dark Minions](../M/Middle-earth%253A_Dark_Minions.md) và cũng được nhắc đến trong [Decipher](../D/Decipher.md)'s *[card game](../T/The_Lord_of_the_Rings_Trading_Card_Game.md)*. <sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-## Lịch sử nhập vai ở Trung Địa {#History_in_Middle-earth_Role_Playing}
+## Lịch sử trong Middle-earth Role Playing {#History_in_Middle-earth_Role_Playing}
 
-Vực sâu được hình thành bởi [Morgoth](../M/Morgoth.md) trong [Mùa xuân Arda](../S/Spring_of_Arda.md), bằng cách nối nhiều hang động núi lửa khác nhau thành một mạng lưới rộng lớn. Chúng lan rộng từ [Utumno](Utumno.md) đến [Núi Sắt](../I/Iron_Mountains.md) và từ [Núi Sương mù](../M/Misty_Mountains.md) đến [Orocarni](../O/Orocarni.md). Những người hầu của Morgoth đã sử dụng chúng làm lối đi ẩn để tránh [Valar](../V/Valar.md). Phần cốt lõi của Under-deeps đã sống sót sau [War of Wrath](../W/War_of_Wrath.md), cũng như một số người hầu và sinh vật của Morgoth, mặc dù nhiều lối đi đã bị chặn hoặc bị ẩn.<sup id="cite_ref-main_1-1" class="reference"><a href="#cite_note-main-1">[1]</a></sup>
+Vùng nước sâu được hình thành bởi [Morgoth](../M/Morgoth.md) trong [Mùa Xuân của Arda](../S/Spring_of_Arda.md), bằng cách nối nhiều hang động núi lửa khác nhau thành một mạng lưới rộng lớn. Chúng lây lan từ [Utumno](Utumno.md) đến [Dãy Núi Sắt](../I/Iron_Mountains.md) và từ [Dãy Núi Sương Mù](../M/Misty_Mountains.md) đến [Orocarni](../O/Orocarni.md). Những người hầu của Morgoth đã sử dụng chúng làm lối đi ẩn để tránh [Valar](../V/Valar.md). Phần cốt lõi của Under-deep đã sống sót sau [War of Wrath](../W/War_of_Wrath.md), cũng như một số người hầu và sinh vật của Morgoth, mặc dù nhiều lối đi đã bị chặn hoặc ẩn.<sup id="cite_ref-main_1-1" class="reference"><a href="#cite_note-main-1">[1]</a></sup>
 
-- **Con đường sắt** dẫn từ Đông sang Tây, nối [Uax](Urd.md#Uax), Utumno và [Thangorodrim](../T/Thangorodrim.md)
-- **Con đường cổ nhất**, dẫn từ Bắc vào Nam, nối [Carn Dûm](../C/Carn_Dûm.md), [Gundabad](../G/Gundabad.md), Moria và [Hang động lấp lánh](../G/Glittering_Caves.md)
+- **Con đường sắt**, dẫn từ phương Đông đến Phương Tây, được kết nối [Uax](Urd.md#Uax), Utumno và [Thangorodrim](../T/Thangorodrim.md)
+- **Con đường cổ nhất**, dẫn từ Bắc vào Nam, nối [Carn Dûm](../C/Carn_Dûm.md), [Gundabad](../G/Gundabad.md), Moria và [Hang Động Lấp Lánh](../G/Glittering_Caves.md)
 - **Con đường đỏ** dẫn từ Bắc vào Nam nối Uax và Sammath Helcar
-- **Con đường đen**, dẫn từ Đông sang Tây, nối Moria, [Dol Guldur](../D/Dol_Guldur.md) và [Barad-dûr](../B/Barad-dûr.md)
-- **Con đường trắng** dẫn từ Đông sang Tây nối liền Hang Động Lấp Lánh và [Dunharrow](../D/Dunharrow.md)
-- **Con đường Xám**, dẫn từ Đông sang Tây, nối Gundabad và Sammath Maeglom (ở [Grey Mountains](../G/Grey_Mountains.md))
-- **Con đường Vàng** dẫn từ Bắc vào Nam nối Ôlbamarl (tại [Khand](../K/Khand.md)) và Laurafelya
-- **Con đường Vàng**, dẫn từ Đông sang Tây, nối Sammath Fhûl (ở [Núi Vàng](../Y/Yellow_Mountains.md)) và Sambi Mornya
+- **Con đường đen**, dẫn từ phương Đông đến Phương Tây, được kết nối Moria, [Dol Guldur](../D/Dol_Guldur.md) và [Barad-dûr](../B/Barad-dûr.md)
+- **Con đường trắng** dẫn từ phương Đông đến Phương Tây, nối liền Hang Động Lấp Lánh và [Dunharrow](../D/Dunharrow.md)
+- **Con đường xám**, dẫn từ phương Đông đến Phương Tây, được kết nối Gundabad và Sammath Maeglom (trong [Dãy Núi Xám](../G/Grey_Mountains.md))
+- **Con đường Vàng** dẫn từ Bắc vào Nam nối Ôlbamarl (ở [Khand](../K/Khand.md)) và Laurafelya
+- **Con đường Vàng**, dẫn từ phương Đông đến Phương Tây, nối Sammath Fhûl (tại [Dãy núi Vàng](../Y/Yellow_Mountains.md)) và Sambi Mornya
 
-Trong số này, Con đường cổ nhất (được đặt tên như vậy mặc dù trẻ hơn Đường sắt) là con đường còn nguyên vẹn nhất. Moria nằm trên giao lộ của con đường này với Con đường Đen, và Người lùn tin rằng [Mahal](../M/Mahal.md) chọn nơi này nhằm mục đích tranh giành quyền thống trị của Morgoth.<sup id="cite_ref-main_1-2" class="reference"><a href="#cite_note-main-1">[1]</a></sup>
+Trong số này, Con đường cổ nhất (được đặt tên như vậy mặc dù trẻ hơn Đường sắt) là con đường còn nguyên vẹn nhất. Moria nằm trên giao lộ của con đường này với Đường Đen và Người Lùn tin rằng [Mahal](../M/Mahal.md) chọn nơi này nhằm mục đích tranh giành quyền thống trị của Morgoth.<sup id="cite_ref-main_1-2" class="reference"><a href="#cite_note-main-1">[1]</a></sup>
 
-Khi Người lùn ở Khazad-dûm biến Giếng Hwáin thành hầm mỏ với hy vọng tìm thấy [mithril](../M/Mithril.md), họ đã vô tình đột nhập vào vực thẳm. Điều này cho phép [Tai nạn của Durin](../D/Durin's_Bane.md) tiến vào Khazad-dûm. Ngay sau đó Người lùn đã chế tạo được Viên đá phong ấn để phong ấn vĩnh viễn Vùng nước sâu, nhưng nó đã bị Balrog bắt giữ trước khi có thể sử dụng. Việc thu hồi được Viên đá này cuối cùng đã cho phép Người lùn chiếm lại Khazad-dûm vào [Thời đại thứ tư](../F/Fourth_Age.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Khi Người lùn Khazad-dûm biến Giếng Hwáin thành hầm mỏ với hy vọng tìm thấy [mithril](../M/Mithril.md), họ đã vô tình đột nhập vào Vực sâu. Điều này cho phép [Tai họa của Durin](../D/Durin's_Bane.md) nhập Khazad-dûm. Ngay sau đó Người Lùn đã tạo ra được một Viên đá Phong ấn để phong ấn vĩnh viễn Vùng nước sâu, nhưng nó đã bị Balrog bắt giữ trước khi có thể sử dụng. Việc thu hồi Viên đá này cuối cùng đã cho phép Người Lùn chiếm lại Khazad-dûm trong [Kỷ Đệ Tứ](../F/Fourth_Age.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
-### Bố cục trong Trò chơi thẻ bài sưu tầm ở Trung Địa {#Lay-out_in_Middle-earth_Collectible_Card_Game}
+### Bố cục trong Trung Địa Trò chơi thẻ bài sưu tầm {#Lay-out_in_Middle-earth_Collectible_Card_Game}
 
 Mở rộng dựa trên phần bổ sung Moria, trò chơi bài này bổ sung thêm các địa điểm cụ thể và các tuyến đường di chuyển giữa chúng.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
@@ -175,9 +175,9 @@ Mở rộng dựa trên phần bổ sung Moria, trò chơi bài này bổ sung t
 <td><b>Under-Galleries</b><br/><small>(<a href="Udûn_(valley).md" title="Udûn (valley)">Udûn</a>)</small>
 </td></tr></tbody></table>
 
-## Lịch sử trong game nhập vai Chúa Tể Những Chiếc Nhẫn {#History_in_The_Lord_of_the_Rings_Roleplaying_Game}
+## Lịch sử trong The Lord of the Rings Game nhập vai {#History_in_The_Lord_of_the_Rings_Roleplaying_Game}
 
-Trong khi Người lùn tiếp tục khai quật để tìm kiếm mithril, hầu hết các đường hầm và hang động đều có trước Người lùn từ lâu. Họ cũng là nơi cư trú của nhiều sinh vật kỳ lạ được đánh thức bởi sự trỗi dậy của Balrog. Các tiền đồn của Người lùn cũ nhằm bảo vệ Khazad-dûm trước các cuộc tấn công từ Underdeeps đã bị lũ Orc chiếm giữ.<sup id="cite_ref-decipher_2-1" class="reference"><a href="#cite_note-decipher-2">[2]</a></sup>
+Trong khi Người Lùn được khai quật thêm để tìm kiếm mithril, hầu hết các đường hầm và hang động đều có từ trước Người Lùn. Họ cũng là nơi cư trú của nhiều sinh vật kỳ lạ được đánh thức bởi sự trỗi dậy của Balrog. Người lùn tiền đồn cũ nhằm bảo vệ Khazad-dûm trước các cuộc tấn công từ Underdeeps đã bị Orc tiếp quản.<sup id="cite_ref-decipher_2-1" class="reference"><a href="#cite_note-decipher-2">[2]</a></sup>
 
 <span></span>
 

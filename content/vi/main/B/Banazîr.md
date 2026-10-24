@@ -35,7 +35,7 @@ Nó xuất phát từ phần tử [Westron](../W/Westron.md) *[ban(a)](<Ban(a).m
 
 ## Bản dịch {#Translations}
 
-- [Tiếng Sindarin](../S/Sindarin.md) *[Perhael](../P/Perhael.md)*
+- [Sindarin](../S/Sindarin.md) *[Perhael](../P/Perhael.md)*
 
 Tên được dịch là "Samwise" và Ban là Sam. <span></span>
 

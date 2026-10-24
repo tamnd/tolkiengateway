@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Hobbits"
 ---
 
-Chuyển hướng tới [Thể loại:Người Hobbit](../../category/H/Hobbits.md).
+Chuyển hướng đến [Danh mục:Hobbit](../../category/H/Hobbits.md).

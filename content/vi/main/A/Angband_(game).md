@@ -17,7 +17,7 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the roguelike game</b>. For the fortress of <a href="../M/Morgoth.md" title="Morgoth">Morgoth</a>, see <b><a href="Angband.md" title="Angband">Angband</a></b>.</div></div>
 
-<i><b>Angband</b></i> là một trò chơi máy tính giống roguelike khám phá ngục tối có nguồn gốc từ *Umoria* (C cho cổng Unix của một trò chơi có tên *[Moria](<../T/The_Dungeons_of_Moria_(video_game).md>)*). Nó dựa trên các bài viết của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), trong đó [Angband](Angband.md) là pháo đài của [Morgoth](../M/Morgoth.md).
+<i><b>Angband</b></i> là một trò chơi máy tính giống như trò chơi roguelike thu thập dữ liệu trong ngục tối có nguồn gốc từ *Umoria* (C cho cổng Unix của trò chơi có tên *[Moria](<../T/The_Dungeons_of_Moria_(video_game).md>)*). Nó dựa trên các bài viết của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), trong đó [Angband](Angband.md) là pháo đài của [Morgoth](../M/Morgoth.md).
 
 ## Phát triển {#Development}
 
@@ -31,15 +31,15 @@ Hiện có một bộ sưu tập gồm sáu mươi biến thể (trong đó ch�
 
 Nhóm Usenet <code><a class="external text" href="http://groups.google.com/groups?hl=en&amp;group=rec.games.roguelike.angband" rel="noreferrer noopener" target="_blank">rec.games.roguelike.angband</a></code> là nơi để thảo luận về tất cả các khía cạnh của trò chơi. Kênh IRC, <code>#angband</code>, tồn tại trên mạng WorldIRC (<code>irc.worldirc.org</code>).
 
-<i><b>Sil</b></i> là một biến thể của *Angband* nhằm trung thành với các tác phẩm của Tolkien với mục tiêu là phục hồi [Silmarils](../S/Silmarils.md) từ vương miện của Morgoth.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+<i><b>Sil</b></i> là một biến thể của *Angband* nhằm mục đích trung thành với các tác phẩm của Tolkien với mục tiêu là khôi phục [Silmaril](../S/Silmarils.md) từ vương miện của Morgoth.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Cách chơi {#Gameplay}
 
-*Angband* lấy bối cảnh ở [Angband](Angband.md), pháo đài của [Morgoth](../M/Morgoth.md). Nhà thám hiểm được giới thiệu 100 cấp độ của ngục tối tiêu đề, trong đó họ tìm cách tích lũy đủ sức mạnh và trang bị để cuối cùng đánh bại [Morgoth](../M/Morgoth.md). Một cấp độ mới được tạo ngẫu nhiên mỗi khi người chơi thay đổi cấp độ, mang lại giá trị chơi lại *Angband*: không có hai trò chơi nào giống nhau.
+*Angband* lấy bối cảnh ở [Angband](Angband.md), pháo đài của [Morgoth](../M/Morgoth.md). Nhà thám hiểm được giới thiệu 100 cấp độ của ngục tối danh hiệu, trong đó họ tìm cách tích lũy đủ sức mạnh và trang bị để cuối cùng đánh bại [Morgoth](../M/Morgoth.md). Một cấp độ mới được tạo ngẫu nhiên mỗi khi người chơi thay đổi cấp độ, mang lại giá trị chơi lại *Angband*: không có hai trò chơi nào giống nhau.
 
 Lối chơi của phiên bản gốc, Vanilla *Angband*, thường được so sánh với *NetHack*. Tuy nhiên, hai trò chơi này khác nhau về giai điệu - *Angband* có giai điệu nghiêm túc hơn *NetHack* - và lối chơi - *Angband* mất nhiều thời gian hơn để hoàn thành và tập trung nhiều hơn vào chiến thuật chiến đấu, quản lý kho đồ và giảm thiểu rủi ro so với *NetHack*, trò chơi liên quan đến việc giải câu đố và vỏ bọc đặc biệt. Những khác biệt này là nguồn gốc của những xung đột nhẹ giữa hai cộng đồng.
 
-### Thuật ngữ Angband {#Angband_terms}
+### Angband điều khoản {#Angband_terms}
 
 - **Hiện vật**: Một vật phẩm đặc biệt có số liệu thống kê đặt trước không thể bị phá hủy và trong đó chỉ tồn tại một phiên bản. Sau khi được xác định, chúng sẽ không bao giờ được tạo lại.
 - **Dây đeo**: Tên chung cho bất kỳ biến thể *Angband* nào.
@@ -49,15 +49,15 @@ Lối chơi của phiên bản gốc, Vanilla *Angband*, thường được so s
 - **Duy nhất**: Một quái vật chỉ tồn tại một phiên bản. Một khi bị giết, chúng sẽ không bao giờ được tạo ra nữa. Việc tìm và tiêu diệt chúng một cách có hệ thống có thể rất quan trọng để giành chiến thắng trong trò chơi, vì một số ít vật phẩm độc nhất khó nhất có thể triệu hồi những vật thể độc nhất khác một cách kỳ diệu và do đó áp đảo người chơi.
 - **Vanilla**: Phiên bản chưa sửa đổi của *Angband*.
 - **Vault**: Một căn phòng đặc biệt không phải ngẫu nhiên mà được tạo ra từ một kế hoạch.
-- **Trình hướng dẫn**: Chế độ gỡ lỗi/gian lận.
+- **Pháp sư**: Chế độ gỡ lỗi/gian lận.
 
 ## Liên kết ngoài {#External_links}
 
 - <a class="external text" href="http://rephial.org/" rel="noreferrer noopener" target="_blank">Rephial</a> là trang tải xuống chính hiện tại cho *Angband*.
-- <a class="external text" href="http://www.thangorodrim.net/" rel="noreferrer noopener" target="_blank">Thangorodrim</a> là địa điểm *Angband* chính trước đây, mặc dù không còn được duy trì tích cực nữa. Nó có thông tin phát triển và danh sách các biến thể.
+- <a class="external text" href="http://www.thangorodrim.net/" rel="noreferrer noopener" target="_blank">Thangorodrim</a> là trang *Angband* chính trước đó, mặc dù không còn được duy trì tích cực nữa. Nó có thông tin phát triển và danh sách các biến thể.
 - <a class="external text" href="http://www.phial.com/angband/" rel="noreferrer noopener" target="_blank">Phial</a> là trang chủ *Angband* chính thức cũ, được Ben Harrison duy trì cho đến năm 2000.
-- <a class="external text" href="http://angband.oook.cz/" rel="noreferrer noopener" target="_blank">Angband.oook.cz</a> (hoặc *oook*) chứa thang *Angband*, phần tiết lộ thông tin chi tiết và các tài nguyên khác.
-- <a class="external text" href="http://www.damnsw.net/~devink/" rel="noreferrer noopener" target="_blank">Bộ <i>Angband</i> Comic</a> đã không còn tồn tại từ năm 2002. Nó được vẽ theo phong cách giao diện văn bản của trò chơi.
+- <a class="external text" href="http://angband.oook.cz/" rel="noreferrer noopener" target="_blank">Angband.oook.cz</a> (hoặc *oook*) chứa bậc thang *Angband*, phần tiết lộ thông tin chi tiết và các tài nguyên khác.
+- <a class="external text" href="http://www.damnsw.net/~devink/" rel="noreferrer noopener" target="_blank">Bộ <i>Angband</i> Truyện tranh</a> đã không còn tồn tại từ năm 2002. Nó được vẽ theo phong cách giao diện văn bản của trò chơi.
 - <a class="external text" href="http://penancecomic.com/" rel="noreferrer noopener" target="_blank">Penance</a> là một webcomic *Angband* mới nhưng được vẽ theo phong cách truyền thống hơn.
 - <a class="external text" href="https://en.wikipedia.org/wiki/Angband_(video_game)" rel="noreferrer noopener" target="_blank">Trang Wikipedia</a>
 

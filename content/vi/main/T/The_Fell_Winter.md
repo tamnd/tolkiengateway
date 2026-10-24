@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fell Winter (disambiguation)"
 ---
 
-Chuyển hướng đến [Mùa đông mùa thu (định hướng)](<../F/Fell_Winter_(disambiguation).md>).
+Chuyển hướng đến [Mùa Đông Khắc Nghiệt (định hướng)](<../F/Fell_Winter_(disambiguation).md>).

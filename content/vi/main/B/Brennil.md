@@ -13,7 +13,7 @@ categories:
   - "Noldorin nouns"
 ---
 
-<i><b>brennil</b></i> là từ [tiếng Sindarin](../S/Sindarin.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> có nghĩa là "quý bà".<sup id="cite_ref-LR351_2-0" class="reference"><a href="#cite_note-LR351-2">[1]</a></sup>
+<i><b>brennil</b></i> là từ [Sindarin](../S/Sindarin.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> có nghĩa là "quý bà".<sup id="cite_ref-LR351_2-0" class="reference"><a href="#cite_note-LR351-2">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

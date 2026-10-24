@@ -34,7 +34,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien nói với [Michael Tolkien](../M/Michael_Tolkien.md) rằng, bây giờ khi thư từ của ông đã ổn thỏa, cuối cùng ông cũng có thể làm việc lại *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*... trong một thời gian ngắn, vì học kỳ mới sẽ sớm bắt đầu. <br>
+Tolkien nói với [Michael Tolkien](../M/Michael_Tolkien.md) rằng, bây giờ thư từ của ông đã ổn thỏa, cuối cùng ông cũng có thể làm việc lại *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*... trong một thời gian ngắn, vì học kỳ mới sắp bắt đầu. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

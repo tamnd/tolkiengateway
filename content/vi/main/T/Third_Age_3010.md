@@ -16,12 +16,12 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><a href="../F/First_Age.md" title="First Age">I</a><a href="../S/Second_Age.md" title="Second Age">II</a><b>III</b><a href="../F/Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="Third_Age_3007.md" title="Third Age 3007">3007</a><a href="Third_Age_3008.md" title="Third Age 3008">3008</a><a href="Third_Age_3009.md" title="Third Age 3009">3009</a><a class="mw-selflink selflink">3010</a><a href="Third_Age_3012.md" title="Third Age 3012">3012</a><a href="Third_Age_3013.md" title="Third Age 3013">3013</a><a href="Third_Age_3014.md" title="Third Age 3014">3014</a></div></div></div></div></div></div>
 
-**Kỷ thứ ba 3010** (viết tắt là **T.A. 3010**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 3010 của [Kỷ thứ ba](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Thời đại thứ ba 3010 còn được gọi là **S.R. 1410** trong [Tính toán quận](../S/Shire-reckoning.md).
+**Kỷ Đệ Tam 3010** (viết tắt là **T.A. 3010**) là năm [thứ 3010 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Tam](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Kỷ Đệ Tam 3010 còn được gọi là **S.R. 1410** trong [lịch Shire](../S/Shire-reckoning.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 - Cái chết của [Adrahil](../A/Adrahil.md) của [Dol Amroth](../D/Dol_Amroth.md).<sup id="cite_ref-Dol_1-0" class="reference"><a href="#cite_note-Dol-1">[1]</a></sup>
-- [Imrahil](../I/Imrahil.md), con trai của Adrahil, trở thành [Hoàng tử](../P/Princes_of_Dol_Amroth.md) thứ 22 của [Dol Amroth](../D/Dol_Amroth.md).<sup id="cite_ref-Dol_1-1" class="reference"><a href="#cite_note-Dol-1">[1]</a></sup>
+- [Imrahil](../I/Imrahil.md), con trai của Adrahil, trở thành [Thân vương](../P/Princes_of_Dol_Amroth.md) thứ hai mươi hai của [Dol Amroth](../D/Dol_Amroth.md).<sup id="cite_ref-Dol_1-1" class="reference"><a href="#cite_note-Dol-1">[1]</a></sup>
 - Cái chết của [Bruno Bracegirdle](../B/Bruno_Bracegirdle.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>

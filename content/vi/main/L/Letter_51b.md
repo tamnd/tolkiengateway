@@ -29,7 +29,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien đề cập đến việc cảm thấy mệt mỏi nhưng vẫn tiếp tục công việc thường ngày của mình, bao gồm cả việc chuẩn bị các bài thi. Ông lưu ý rằng đã nghe hai chương trong cuốn tiểu thuyết mới của [Charles Williams](../C/Charles_Williams.md), được tác giả đọc và kể lại cuộc gặp ngắn với Williams tại White Horse ngày hôm trước. <br>
+Tolkien đề cập đến việc cảm thấy mệt mỏi nhưng vẫn tiếp tục công việc thường ngày của mình, bao gồm cả việc chuẩn bị bài thi. Ông ta lưu ý rằng đã nghe thấy hai chương trong cuốn tiểu thuyết mới của [Charles Williams](../C/Charles_Williams.md), được tác giả đọc và kể lại cuộc gặp ngắn ngủi với Williams tại White Horse ngày hôm trước. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

@@ -13,7 +13,7 @@ categories:
   - "Sindarin nouns"
 ---
 
-<i><b>annon</b></i> là [Sindarin](../S/Sindarin.md) có nghĩa là 'cánh cửa lớn' hoặc 'cổng'.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>annon</b></i> là [Sindarin](../S/Sindarin.md) dành cho 'cửa lớn' hoặc 'cổng'.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

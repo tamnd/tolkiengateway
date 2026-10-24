@@ -13,4 +13,4 @@ categories:
   - "Mannish titles"
 ---
 
-**Nữ hoàng Gondor** là danh hiệu được trao cho vợ/chồng của [Vua Gondor](../K/King_of_Gondor.md) cầm quyền (không có Nữ hoàng nào cai trị [Gondor](../G/Gondor.md) dưới tên riêng của mình vào bất kỳ thời điểm nào trong lịch sử được ghi lại). Những Nữ hoàng nổi tiếng nhất là [Berúthiel](../B/Berúthiel.md) (Nữ hoàng của Vua [Tarannon Falastur](../T/Tarannon_Falastur.md)) và [Arwen Evenstar](../A/Arwen.md), phối ngẫu của [Aragorn Elessar](../A/Aragorn.md).
+**Nữ hoàng của Gondor** là danh hiệu được trao cho người phối ngẫu của người cai trị [Vua Gondor](../K/King_of_Gondor.md) (không có Nữ hoàng nào cai trị [Gondor](../G/Gondor.md) bằng chính tên mình vào bất kỳ thời điểm nào trong lịch sử được ghi lại). Các Nữ hoàng nổi tiếng nhất là [Berúthiel](../B/Berúthiel.md) (Nữ hoàng của Vua [Tarannon Falastur](../T/Tarannon_Falastur.md)) và [Arwen Evenstar](../A/Arwen.md), phối ngẫu của [Aragorn Elessar](../A/Aragorn.md).

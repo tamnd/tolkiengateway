@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Bofur"
 ---
 
-Chuyển hướng tới [Bofur](../B/Bofur.md).
+Chuyển hướng đến [Bofur](../B/Bofur.md).

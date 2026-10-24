@@ -17,9 +17,9 @@ langlinks:
     url: "https://www.ardapedia.org/wiki/Tolkien_Thing"
 ---
 
-**Tolkien Thing** (tiếng Anh: Tolkien Moot) là sự kiện thường niên chính của [Hiệp hội Tolkien Đức](../D/Deutsche_Tolkien_Gesellschaft_e.V..md) và diễn ra lần đầu tiên vào [1999](../_/1999.md). Tính đến năm nay, khoảng 125 thành viên của GTS và bạn bè tham gia vào các bài giảng, hội thảo và lễ hội cuối tuần về Trung Địa và người sáng tạo ra nó [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
+**Tolkien Thing** (tiếng Anh: Tolkien Moot) là sự kiện thường niên chính của [Hiệp hội Tolkien Đức](../D/Deutsche_Tolkien_Gesellschaft_e.V..md) và diễn ra lần đầu tiên vào [1999](../_/1999.md). Tính đến năm nay, khoảng 125 thành viên của GTS và bạn bè tham gia vào các bài giảng, hội thảo và lễ hội cuối tuần về Trung Địa và người tạo ra nó [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
-Theo truyền thống, Đại hội thường niên của GTS diễn ra vào thứ Sáu, mang đến cho các thành viên khả năng tham gia tích cực vào tương lai của xã hội họ. Kể từ năm 2003, GTS đã mời các nữ chủ tịch và chủ tịch từ các Hiệp hội Tolkien trên toàn thế giới nhằm nỗ lực thúc đẩy các mối quan hệ quốc tế. Kể từ năm 2006, GTS đã bắt đầu bổ sung thêm nhiều khách mời vào danh sách với [Alan Lee](../A/Alan_Lee.md) là khách mời danh dự đầu tiên.
+Theo truyền thống, Đại hội thường niên của GTS diễn ra vào thứ Sáu, mang đến cho các thành viên khả năng tham gia tích cực vào tương lai của xã hội họ. Từ năm 2003, GTS đã mời các nữ chủ tịch và chủ tịch từ các Hiệp hội Tolkien trên toàn thế giới nhằm nỗ lực thúc đẩy các mối quan hệ quốc tế. Kể từ năm 2006, GTS đã bắt đầu bổ sung thêm nhiều khách mời vào danh sách với [Alan Lee](../A/Alan_Lee.md) là khách mời danh dự đầu tiên.
 
 - [1999](../_/1999.md): Nhà trọ St. George, Cologne.
 - [2000](../_/2000.md): Nhà trọ St. George, Cologne.
@@ -36,12 +36,12 @@ Theo truyền thống, Đại hội thường niên của GTS diễn ra vào th�
 - [2011](../_/2011.md) Lâu đài Breuberg. TS: Áo. Khách: -.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
 - [2012](../_/2012.md) Lâu đài Hessenstein. TS: Hungary. Khách mời: Cor Blok.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
 - [2013](../_/2013.md) Lâu đài Breuberg. TS: Litva. Khách mời: Jay Johnstone, Anke Eißmann, Jenny Dolfen.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>
-- [2014](../_/2014.md) Lâu đài Breuberg. TS: Vương quốc Anh. Khách mời: John Garth.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>
+- [2014](../_/2014.md) Lâu đài Breuberg. TS: Vương quốc Anh. Khách: John Garth.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>
 - [2015](../_/2015.md) Lâu đài Breuberg. TS: Arthedain (Na Uy). Khách mời: Emil Johansson.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup>
 - [2016](../_/2016.md) Rittergut Lützensömmern. TS: Inklings-Gesellschaft. Khách mời: Helmut W. Pesch.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup>
 - [2017](../_/2017.md) Rittergut Lützensömmern. TS: Hà Lan. Khách mời: Casper và Carl Reiff.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup>
 - [2018](../_/2018.md) Rittergut Lützensömmern. TS: Hy Lạp. Khách mời: Jemima Catlin.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup>
-- [2019](../_/2019.md) Rittergut Lützensömmern. TS: Polen. Khách mời: Tom Shippey.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup>
+- [2019](../_/2019.md) Rittergut Lützensömmern. TS: Polen. Khách: Tom Shippey.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup>
 - [2020](../_/2020.md) Rittergut Lützensömmern (hủy do đại dịch)
 - [2021](../_/2021.md) Rittergut Lützensömmern (do đại dịch không có khách quốc tế)
 - [2022](../_/2022.md) Rittergut Lützensömmern. TS: Tây Ban Nha.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup>. Khách mời: Brian Sibley.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup>

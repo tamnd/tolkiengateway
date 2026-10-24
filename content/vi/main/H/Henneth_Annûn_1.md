@@ -35,13 +35,13 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Henneth Annûn 1</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">John Martin</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">November <a href="../_/1972.md" title="1972">1972</a></td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">16</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0306-8781</td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="../A/Amon_Hen_2.md" title="Amon Hen 2">Amon Hen 2</a></td></tr></tbody></table>
 
-<b><i>Henneth Annûn</i> 1</b> là số đầu tiên của tạp chí xuất bản hai tháng một lần của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md), tạp chí kế thừa của [*Andúril*](<../A/Andúril_(UK).md>). Nó được xuất bản vào tháng 11 [1972](../_/1972.md). Đây là số duy nhất được xuất bản dưới tựa đề *Henneth Annûn*, vì ấn phẩm đã được đổi tên thành *[Amon Hen](<../A/Amon_Hen_(journal).md>)* bắt đầu từ [Số 2](../A/Amon_Hen_2.md).
+<b><i>Henneth Annûn</i> 1</b> là số đầu tiên của tạp chí hai tháng một lần của [Hội Tolkien](../T/The_Tolkien_Society.md), tiếp theo của [*Andúril*](<../A/Andúril_(UK).md>). Nó được xuất bản vào tháng 11 [1972](../_/1972.md). Đây là số duy nhất được xuất bản dưới tựa đề *Henneth Annûn*, vì ấn phẩm đã được đổi tên thành *[Amon Hen](<../A/Amon_Hen_(journal).md>)* bắt đầu từ [Số 2](../A/Amon_Hen_2.md).
 
 ## Nội dung {#Contents}
 
 <dl><dd><i>Note: All content is presumably written by John Martin unless indicated otherwise</i></dd></dl>
 
-- Bài biên tập (giới thiệu *Henneth Annûn* và thông báo rằng *Andúril* sẽ không còn là ấn phẩm chính thức của Hiệp hội Tolkien nữa)
+- Bài biên tập (giới thiệu *Henneth Annûn* và thông báo rằng *Andúril* sẽ không còn là ấn phẩm chính thức của Hiệp hội Tolkien)
 - Thư của Tony Fallon, Colin (Sauron Findhorn) Dean, [Charles E. Noad](../C/Charles_E._Noad.md), John Jarrold, John B. Abbott và [Hartley Patterson](Hartley_Patterson.md)
 - "Tin tức *[Mallorn](<../M/Mallorn_(journal).md>)*"
 - "SÁCH…SÁCH…SÁCH…SÁCH…SÁCH…và vẫn còn nhiều SÁCH nữa!”
@@ -49,9 +49,9 @@ infobox:
     - *Arthurian Romances* của Chrétien de Troyes, được dịch bởi W.W. Comfort cho Everyman's Library (được đánh giá bởi Hartley Patterson)
     - *The Warlock in Spite of Himself* của Christopher Stasheff (được đánh giá bởi John Jarrold)
     - *John Carter of Mars* của Edgar Rice Burroughs (được đánh giá bởi John Jarrold)
-- "Phòng Phản ứng Trì hoãn." (gợi ý các cuộc họp thường xuyên cho Smials, các chi nhánh địa phương của Hiệp hội Tolkien)
+- "Phòng Phản ứng Trì hoãn." (gợi ý các cuộc họp thường xuyên cho Smials, các chi nhánh địa phương của Hội Tolkien)
 - "Thời gian đặt câu hỏi"
 - Danh sách tên và địa chỉ của các thành viên
-- "Tạp chí hiện tại" (số gần đây của tạp chí fanzin Tolkien)
+- "Tạp chí hiện tại" (các số gần đây của Tolkien fanzines)
 
 <div class="template-prevnext"><div class="template-prevnext__current"><div class="template-prevnext__content"><div class="template-prevnext__title">Henneth Annûn 1</div></div></div><div class="template-prevnext__next template-prevnext__link"><div class="template-prevnext__content"><div class="template-prevnext__title">Amon Hen 2</div></div><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/7b/WikimediaUI-ArrowNext-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__linkoverlay"><a href="../A/Amon_Hen_2.md" title="Amon Hen 2">Amon Hen 2</a></div></div></div>

@@ -12,7 +12,7 @@ categories:
   - "Rhovanion"
 ---
 
-**Vùng hoang dã** là một vùng hoang dã, nguy hiểm của [Trung Địa](../M/Middle-earth.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Ranh giới của nó có phần không xác định, nhưng dường như nó gần tương đương với vùng [Rhovanion](../R/Rhovanion.md), mặc dù trong hồi ký của [Bilbo Baggins](../B/Bilbo_Baggins.md)' có một bản đồ cho thấy [Edge of the Wild](../E/Edge_of_the_Wild.md) ở phía tây của [Rivendell](../R/Rivendell.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Vùng hoang dã** là một vùng hoang dã, nguy hiểm của [Trung Địa](../M/Middle-earth.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Ranh giới của nó có phần không xác định, nhưng có vẻ như nó gần tương đương với vùng [Rhovanion](../R/Rhovanion.md), mặc dù trong hồi ký của [Bilbo Baggins](../B/Bilbo_Baggins.md)' một bản đồ cho thấy [Bìa hoang dã](../E/Edge_of_the_Wild.md) phía tây [Rivendell](../R/Rivendell.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

@@ -32,7 +32,7 @@ langlinks:
     url: "https://kontu.wiki/Soron%C3%BAm%C3%AB"
 ---
 
-**Soronúmë** là một trong những chòm sao [Varda](../V/Varda.md) vẽ trên bầu trời với những giọt sương của [Telperion](../T/Telperion.md), trước [Sự thức tỉnh của Yêu tinh](../A/Awakening_of_the_Elves.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Tên này có nghĩa là "Đại bàng phương Tây" trong [Quenya](../Q/Quenya.md) (từ *[soron](Soron.md)*, "[đại bàng](../E/Eagle.md)" và *[númë](../N/Númen.md)*, "<a class="mw-disambig" href="../W/West_(disambiguation).md" title="West (disambiguation)">Tây</a>").
+**Soronúmë** là một trong những chòm sao [Varda](../V/Varda.md) xuất hiện trên bầu trời với những giọt sương của [Telperion](../T/Telperion.md), trước khi [Sự thức tỉnh của Tiên tộc](../A/Awakening_of_the_Elves.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Tên này có nghĩa là "Đại bàng của Phương Tây" trong [Quenya](../Q/Quenya.md) (từ *[soron](Soron.md)*, "[đại bàng](../E/Eagle.md)" và *[númë](../N/Númen.md)*, "<a class="mw-disambig" href="../W/West_(disambiguation).md" title="West (disambiguation)">Phương Tây</a>").
 
 ## Cảm hứng {#Inspiration}
 

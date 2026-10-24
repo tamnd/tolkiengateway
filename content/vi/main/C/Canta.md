@@ -40,7 +40,7 @@ sort_keys:
 </p>
 </td></tr></tbody></table>
 
-**canta** là từ [Quenya](../Q/Quenya.md) cho số bốn.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Nó là từ đồng âm của *canta* "shape, frame-work" (bắt nguồn từ √KAT).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**canta** là từ [Quenya](../Q/Quenya.md) chỉ số bốn.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Nó là từ đồng âm của *canta* "hình dạng, khung hình" (bắt nguồn từ √KAT).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

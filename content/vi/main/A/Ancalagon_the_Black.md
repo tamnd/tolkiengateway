@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ancalagon"
 ---
 
-Chuyển hướng tới [Ancalagon](Ancalagon.md).
+Chuyển hướng đến [Ancalagon](Ancalagon.md).

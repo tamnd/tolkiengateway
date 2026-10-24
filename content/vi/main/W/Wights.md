@@ -18,27 +18,27 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/Liz_Danforth_-_Wight.png.md"><img src="https://tolkiengateway.net/w/images/thumb/9/91/Liz_Danforth_-_Wight.png/300px-Liz_Danforth_-_Wight.png" decoding="async" loading="lazy" width="300" height="444" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/9/91/Liz_Danforth_-_Wight.png 1.5x" data-file-width="304" data-file-height="450"/></a><figcaption><a href="../L/Liz_Danforth.md" title="Liz Danforth">Liz Danforth</a> - <i>Wight</i></figcaption></figure>
 
-**Wights** là tên dùng cho các sinh vật [xác sống](../U/Undead.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> đặc biệt là dạng viết tắt của [Barrow-wights](../B/Barrow-wights.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Wights** là tên dùng cho các sinh vật [xác sống](../U/Undead.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> đặc biệt là dạng viết tắt của [Barrow-wight](../B/Barrow-wights.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*wight* có nguồn gốc từ [Tiếng Anh cổ](../O/Old_English.md) *wiht*, có nghĩa là "sinh vật, sinh vật". <a class="extiw" href="http://en.wikipedia.org/wiki/Old_Saxon" title="wikipedia:Old Saxon">Old Saxon</a> *wiht* có nghĩa là "thứ, con quỷ".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Có ý kiến ​​​​cho rằng [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) sau này đã nghĩ đến "*mối liên hệ với thế giới ngầm khi ông ta chọn gọi các linh hồn mộ của Barrow-down là 'xác sống'*".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+*wight* có nguồn gốc từ [tiếng Anh cổ](../O/Old_English.md) *wiht*, có nghĩa là "sinh vật, sinh vật". <a class="extiw" href="http://en.wikipedia.org/wiki/Old_Saxon" title="wikipedia:Old Saxon">Old Saxon</a> *wiht* có nghĩa là "thứ, con quỷ".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Có ý kiến ​​cho rằng [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) sau này đã nghĩ đến điều này "*mối liên hệ với thế giới ngầm khi ông ta chọn gọi linh hồn phần mộ của Barrow-downs là 'tác chiến'*".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
-Nhiều tác phẩm viễn tưởng giả tưởng, trò chơi nhập vai, trò chơi máy tính và trò chơi điện tử sử dụng thuật ngữ *wight* làm tên của các sinh vật ma quái rất giống với Barrow-wights của Tolkien: [Dungeons and Dragons](../D/Dungeons_and_Dragons.md) đã tạo ra một con quái vật tên là "<a class="extiw" href="http://en.wikipedia.org/wiki/Wight_(Dungeons_%26_Dragons)" title="wikipedia:Wight (Dungeons &amp; Dragons)">Wight</a>", một loại xác sống và thuật ngữ mới cũng được minh họa trong <i><a class="external text" href="http://awoiaf.westeros.org/index.php/Wights" rel="noreferrer noopener" target="_blank">chiến binh</a></i> của *A Song of Ice and Fire* loạt.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Nhiều tác phẩm viễn tưởng giả tưởng, trò chơi nhập vai, máy tính và trò chơi điện tử sử dụng thuật ngữ *wight* làm tên của các sinh vật ma quái rất giống với Barrow-wight của Tolkien: [Dungeons và Rồng](../D/Dungeons_and_Dragons.md) đã tạo ra một con quái vật tên là "<a class="extiw" href="http://en.wikipedia.org/wiki/Wight_(Dungeons_%26_Dragons)" title="wikipedia:Wight (Dungeons &amp; Dragons)">Wight</a>", một loại xác sống và thuật ngữ mới cũng được minh họa trong <i><a class="external text" href="http://awoiaf.westeros.org/index.php/Wights" rel="noreferrer noopener" target="_blank">chiến binh</a></i> của *A Song of Ice and Fire* loạt.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/W/Wights_(LOTRO).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/51/Wights_%28LOTRO%29.jpg/300px-Wights_%28LOTRO%29.jpg" decoding="async" loading="lazy" width="300" height="251" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/5/51/Wights_%28LOTRO%29.jpg 1.5x" data-file-width="400" data-file-height="334"/></a><figcaption><i>Wights</i> in <a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online"><i>LOTRO</i></a></figcaption></figure>
 
-<b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Nhập vai ở Trung Địa</a></i>:</b>
+<b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>:</b>
 
 <dl><dd>Wights inhabit the graves of Dúnedan nobles, taking their power from a buried lord. Gaming statistics are given for minor, lesser, and major Wights.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></dd></dl>
 
-<b>2002-5: <i><a href="../T/The_Lord_of_the_Rings_Roleplaying_Game.md" title="The Lord of the Rings Roleplaying Game">Trò chơi nhập vai Chúa tể của những chiếc nhẫn</a></i>:</b>
+<b>2002-5: <i><a href="../T/The_Lord_of_the_Rings_Roleplaying_Game.md" title="The Lord of the Rings Roleplaying Game">The Lord of the Rings Trò chơi nhập vai</a></i>:</b>
 
 <dl><dd>Wights (not to be confused with the Barrow-wights appearing in the same game) are one of the three types of <a href="../G/Ghosts.md" title="Ghosts">ghosts</a>. Wights refer to cursed beings, who remain &#34;<i>bound to the will and goals of the one who cursed them</i>&#34; in their after-life. Unlike wraiths and phantoms, wights can possess the remains of other dead people.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></dd></dl>
 
-<b>2007-: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
+<b>2007-: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Wights (crypt-wights) are categorized among the creatures called the Dead, &#34;<i>designed to be reminiscent of the wights of the great Barrow-downs in Eriador</i>&#34;.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></dd></dl>
 

@@ -48,9 +48,9 @@ infobox:
 
 ## Lịch sử {#History}
 
-Beleth lớn hơn anh trai cô [Baragund](Baragund.md) hai tuổi và hơn em trai cô [Belegund](Belegund.md) bốn tuổi. Sau [Dagor Bragollach](../D/Dagor_Bragollach.md), hầu hết phụ nữ và trẻ em của nhà Bëor buộc phải chạy trốn khỏi Dorthonion. Không có câu chuyện nào kể về số phận của Beleth; các anh trai của cô đã theo chú của họ [Barahir](Barahir.md) khi [nhóm tội phạm](Barahir's_outlaws.md) của họ bị phản bội.<sup id="cite_ref-Ruin_1-0" class="reference"><a href="#cite_note-Ruin-1">[1]</a></sup> Thông qua cha cô là Bregolas, Beleth là em họ của *[Beren](Beren.md) the One-handed* nổi tiếng.
+Beleth lớn hơn anh trai cô [Baragund](Baragund.md) hai tuổi và hơn em trai cô [Belegund](Belegund.md) bốn tuổi. Sau [Dagor Bragollach](../D/Dagor_Bragollach.md), hầu hết phụ nữ và trẻ em trong nhà Bëor buộc phải bỏ trốn Dorthonion. Không có câu chuyện nào kể về số phận của Beleth; các anh trai của cô đã theo chú của họ [Barahir](Barahir.md) khi [nhóm tội phạm](Barahir's_outlaws.md) của họ bị phản bội.<sup id="cite_ref-Ruin_1-0" class="reference"><a href="#cite_note-Ruin-1">[1]</a></sup> Thông qua cha cô Bregolas, Beleth là em họ của *[Beren](Beren.md) the One-handed* nổi tiếng.
 
-Hậu duệ xa xôi của Beleth ở [Thời thứ hai](../S/Second_Age.md) là [Beregar](Beregar.md), cha của [Erendis](../E/Erendis.md).<sup id="cite_ref-WJBeor_2-0" class="reference"><a href="#cite_note-WJBeor-2">[2]</a></sup> Do đó, người ta cho rằng Beleth đã kết hôn và có con cháu từ những đứa con chưa rõ danh tính của mình.
+Hậu duệ xa xôi của Beleth trong [Kỷ Đệ Nhị](../S/Second_Age.md) là [Beregar](Beregar.md), cha của [Erendis](../E/Erendis.md).<sup id="cite_ref-WJBeor_2-0" class="reference"><a href="#cite_note-WJBeor-2">[2]</a></sup> Do đó, người ta cho rằng Beleth đã kết hôn và có con cháu từ những đứa con chưa rõ danh tính của mình.
 
 <br>
 
@@ -75,7 +75,7 @@ Hậu duệ xa xôi của Beleth ở [Thời thứ hai](../S/Second_Age.md) là 
 
 Trong phiên bản đầu tiên của Nhà Bëor, Beleth là con gái của [Boron](Boron.md) và do đó là dì của Bregor. Trong bản sửa đổi cuối cùng của phả hệ, Beleth đã được chuyển xuống ba thế hệ.<sup id="cite_ref-WJBeor_2-1" class="reference"><a href="#cite_note-WJBeor-2">[2]</a></sup>
 
-Beleth còn được gọi là "Bereth" trong ghi chú gửi "*Aldarion and Erendis*" trong *Unfinished Tales*,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> tuy nhiên [Christopher Tolkien](../C/Christopher_Tolkien.md) đã lưu ý rằng đây là một sai lầm của ông nhiều năm sau đó.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Beleth còn được gọi là "Bereth" trong ghi chú gửi "*Aldarion and Erendis*" ở *Unfinished Tales*,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> tuy nhiên [Christopher Tolkien](../C/Christopher_Tolkien.md) đã lưu ý rằng đây là một sai sót của ông nhiều năm sau đó.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 <span></span>
 

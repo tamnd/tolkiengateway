@@ -44,10 +44,10 @@ Segura cũng đã tặng [Thư gửi David L. Sands](../L/Letter_to_David_L._San
 - [2006](../_/2006.md): *[J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment](../J/J.R.R._Tolkien_Encyclopedia%253A_Scholarship_and_Critical_Assessment.md)*
     - "Tây Ban Nha: tiếp đón Tolkien"
     - "Tiếng Tây Ban Nha"
-    - "Những câu chuyện dang dở"
+    - "Unfinished Tales"
 - [2007](../_/2007.md): Cormarë 14: *Thần thoại và phép thuật: Nghệ thuật theo Inklings*
     - "Chiếc lá của Niggle và tính thẩm mỹ của món quà: Hướng tới định nghĩa về quan niệm nghệ thuật của J.R.R. Tolkien"
-- [2011](../_/2011.md): <a class="new" href="https://tolkiengateway.net/w/index.php?title=Hither_Shore_8&amp;action=edit&amp;redlink=1" title="Hither Shore 8 (page does not exist)"><i>Bờ kia</i> 8</a>: Tolkien und das Mittelalter
+- [2011](../_/2011.md): <a class="new" href="https://tolkiengateway.net/w/index.php?title=Hither_Shore_8&amp;action=edit&amp;redlink=1" title="Hither Shore 8 (page does not exist)"><i>Bờ kia</i> 8</a>: Tolkien và das Mittelalter
     - "*The Lay of Aotrou and Itroun*: Văn học Anh thời trung cổ và những giai đoạn đầu của sự sáng tạo phụ" (phối hợp với Rafael J. Pascual)
 
 ### Bản dịch {#Translations}
@@ -57,7 +57,7 @@ Segura cũng đã tặng [Thư gửi David L. Sands](../L/Letter_to_David_L._San
 - [2003](../_/2003.md): *Tolkien o la fuerza del mito*, (tổng hợp các bài viết từ *[Proceedings of the J.R.R. Tolkien Centenary Conference](../P/Proceedings_of_the_J.R.R._Tolkien_Centenary_Conference.md)*), đồng biên tập với Guillermo Peris
 - [2013](../_/2013.md): J.R.R. Tolkien, *[La caída de Arturo](../T/The_Fall_of_Arthur.md)*, biên tập bởi Christopher Tolkien, nhà xuất bản: Ediciones Minotauro
 - [2014](../_/2014.md): [John Garth](../J/John_Garth.md), *[Tolkien y la Gran Guerra](../T/Tolkien_and_the_Great_War.md)*, dịch cùng với [Martin Simonson](../M/Martin_Simonson.md) và Daniel Royo, nhà xuất bản: Ediciones Minotauro
-- [2015](../_/2015.md): J.R.R. Tolkien, *[Beowulf: traducción y comentario](../B/Beowulf%253A_A_Translation_and_Commentary.md)*, do Christopher Tolkien biên tập, nhà xuất bản: Ediciones Minotauro.
+- [2015](../_/2015.md): J.R.R. Tolkien, *[Beowulf: traducción y comentario](../B/Beowulf%253A_A_Translation_and_Commentary.md)*, biên tập bởi Christopher Tolkien, nhà xuất bản: Ediciones Minotauro.
 
 ## Giải thưởng {#Awards}
 
@@ -67,8 +67,8 @@ Segura cũng đã tặng [Thư gửi David L. Sands](../L/Letter_to_David_L._San
 
 - <a class="external text" href="https://www.facebook.com/Inklinga/" rel="noreferrer noopener" target="_blank">Trang Facebook công khai</a>
 - <a class="external text" href="http://montanalandscapes.blogspot.com/" rel="noreferrer noopener" target="_blank"><i>Demasiado profundo para las lágrimas</i></a>, blog cá nhân của ông
-- <i><a class="external text" href="http://web.archive.org/web/20100201111905/http://lotrplaza.com/forum/forum_posts.asp?TID=231795" rel="noreferrer noopener" target="_blank">Tolkien, Lewis và Hollywood: Điều mà hình ảnh không thể nói được</a></i>, bài viết tại [Đại học Marquette](../M/Marquette_University.md)
-- <a class="external text" href="https://www.youtube.com/watch?v=jVWzp3Gvy9g&amp;ab_channel=haddadro" rel="noreferrer noopener" target="_blank">Phỏng vấn trên podcast <i>"Tolkien: entre mates y tequilas"</i></a> **(tiếng Tây Ban Nha)**
+- <i><a class="external text" href="http://web.archive.org/web/20100201111905/http://lotrplaza.com/forum/forum_posts.asp?TID=231795" rel="noreferrer noopener" target="_blank">Tolkien, Lewis và Hollywood: Những hình ảnh không thể nói được</a></i>, bài viết được đưa ra tại [Đại học Marquette](../M/Marquette_University.md)
+- <a class="external text" href="https://www.youtube.com/watch?v=jVWzp3Gvy9g&amp;ab_channel=haddadro" rel="noreferrer noopener" target="_blank">Phỏng vấn trên podcast <i>"Tolkien: entre mates y tequilas"</i></a> **(Tiếng Tây Ban Nha)**
 - <i><a class="external text" href="https://www.youtube.com/watch?v=Tsa7Qt8MarM&amp;ab_channel=UPV%2FEHU" rel="noreferrer noopener" target="_blank">Tìm và đánh mất: el tiempo como nhaisito en la obra de Tolkien</a></i>, một bài giảng tại <a class="extiw" href="http://en.wikipedia.org/wiki/Universidad_de_Granada" title="wikipedia:Universidad de Granada">Đại học Granada</a> **(tiếng Tây Ban Nha)**
 
 <span></span>

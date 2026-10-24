@@ -34,7 +34,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_J.R.R._Tolkien_Calendar_1973.jpg.md"><img src="https://tolkiengateway.net/w/images/d/d8/The_J.R.R._Tolkien_Calendar_1973.jpg" decoding="async" loading="lazy" width="233" height="216" class="mw-file-element" data-file-width="233" data-file-height="216"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The J.R.R. Tolkien Calendar 1973</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../P/Pauline_Baynes.md" title="Pauline Baynes">Pauline Baynes</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../B/Ballantine_Books.md" title="Ballantine Books">Ballantine Books</a> (US)</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/1972.md" title="1972">1972</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Stapled calendar with mailer (13 x 12<sup>1</sup>⁄<sub>4</sub> inches)</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/345-02781-395" title="Special:BookSources/345-02781-395">345-02781-395</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="The_J.R.R._Tolkien_Calendar_1974.md" title="The J.R.R. Tolkien Calendar 1974">The J.R.R. Tolkien Calendar 1974</a></td></tr></tbody></table>
 
-<i><b>Lịch J.R.R. Tolkien 1973</b></i> là lịch Tolkien chính thức đầu tiên được xuất bản bởi [Ballantine Books](../B/Ballantine_Books.md) trong [1972](../_/1972.md). Nó có tác phẩm nghệ thuật của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) dựa trên *[The Hobbit](The_Hobbit.md)* và *[The Lord of the Rings](The_Lord_of_the_Rings.md)*, hai bản đồ của [Pauline Baynes](../P/Pauline_Baynes.md) và một bức ảnh về Tolkien của John Wyatt.
+<i><b>Lịch J.R.R. Tolkien 1973</b></i> là lịch Tolkien chính thức đầu tiên được xuất bản bởi [Ballantine Books](../B/Ballantine_Books.md) trong [1972](../_/1972.md). Nó có tác phẩm nghệ thuật của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) dựa trên *[The Hobbit](The_Hobbit.md)* và *[The Lord of the Rings](The_Lord_of_the_Rings.md)*, hai bản đồ của [Pauline Baynes](../P/Pauline_Baynes.md) và một bức ảnh Tolkien của John Wyatt.
 
 ## Minh họa {#Illustrations}
 
@@ -42,19 +42,19 @@ infobox:
 - Tháng 2 - "[The Hill: Hobbiton-across-the-Water](<../../file/J/J.R.R._Tolkien_-_The_Hill_-_Hobbiton-across-the-Water_(Colored).jpg.md>)"
 - Tháng 3 - "[Thung lũng Hội chợ Rivendell](../../file/J/J.R.R._Tolkien_-_Rivendell.jpg.md)"
 - Tháng 4 - "[Bilbo thức dậy với ánh nắng sớm chiếu vào mắt](../../file/J/J.R.R._Tolkien_-_Bilbo_woke_with_the_early_sun_in_his_eyes.jpg.md)"
-- Tháng 5 - "[Bilbo đến Túp lều của Yêu tinh bè](<../../file/J/J.R.R._Tolkien_-_Bilbo_comes_to_the_Huts_of_the_Raft-elves_(II).jpg.md>)"
+- Tháng 5 - "[Bilbo đến Lều Bè-Tiên tộc](<../../file/J/J.R.R._Tolkien_-_Bilbo_comes_to_the_Huts_of_the_Raft-elves_(II).jpg.md>)"
 - Tháng 6 - "[Cuộc trò chuyện với Smaug](<../../file/J/J.R.R._Tolkien_-_Conversation_with_Smaug_(large).jpg.md>)"
-- Centrefold - "[Bản đồ Trung Địa](../A/A_Map_of_Middle-earth.md)" của [Pauline Baynes](../P/Pauline_Baynes.md)
+- Giữa - "[A Map of Middle-earth](../A/A_Map_of_Middle-earth.md)" của [Pauline Baynes](../P/Pauline_Baynes.md)
 - Tháng 7 - "[Cái chết của Smaug](../../file/J/J.R.R._Tolkien_-_Death_of_Smaug.jpg.md)"
 - Tháng 8 - "[Ông già liễu](../../file/J/J.R.R._Tolkien_-_Old_Man_Willow.jpg.md)"
-- Tháng 9 - "[Cổng Moria](<../../file/J/J.R.R._Tolkien_-_Moria_Gate_(II).jpg.md>)"
-- Tháng 10 - "[Cổng Moria](../../file/J/J.R.R._Tolkien_-_West_Gate_of_Moria.jpg.md)"
+- tháng Chín - "[Moria Cổng](<../../file/J/J.R.R._Tolkien_-_Moria_Gate_(II).jpg.md>)"
+- Tháng 10 - "[Moria Cổng](../../file/J/J.R.R._Tolkien_-_West_Gate_of_Moria.jpg.md)"
 - Tháng 11 - "[Barad-dûr](../../file/J/J.R.R._Tolkien_-_Barad-dur.jpg.md)"
 - Tháng 12 - ["J.R.R. Tolkien"](<../../file/J/John_Wyatt_-_J.R.R._Tolkien_(from_The_J.R.R._Tolkien_Calendar_1973).jpg.md>), ảnh của John Wyatt
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://tolkiencalendars.com/1969_1977.html" rel="noreferrer noopener" target="_blank">Lịch Tolkien 1969 - 1977</a> tại <a class="external text" href="http://tolkiencalendars.com/" rel="noreferrer noopener" target="_blank">The Compleat Gyde to Tolkien Calendars</a>
+- <a class="external text" href="http://tolkiencalendars.com/1969_1977.html" rel="noreferrer noopener" target="_blank">Tolkien Lịch 1969 - 1977</a> tại <a class="external text" href="http://tolkiencalendars.com/" rel="noreferrer noopener" target="_blank">The Compleat Gyde tới Tolkien Lịch</a>
 
 <table style="margin:0 auto;" class="collapsible toccolours" width="100%" align="center">
 <tbody><tr>

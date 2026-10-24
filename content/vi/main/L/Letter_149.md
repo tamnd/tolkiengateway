@@ -31,15 +31,15 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien nhận thấy rằng các bài đánh giá<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> tốt hơn rất nhiều so với những gì ông lo sợ. Họ có thể đã tốt hơn nếu tránh trích dẫn <a class="extiw" href="http://en.wikipedia.org/wiki/Ludovico_Ariosto" title="wikipedia:Ludovico Ariosto">Ariosto</a> hoặc không liên quan đến sự thù địch phi thường hướng tới [C.S. Lewis](../C/C.S._Lewis.md). Tolkien thừa nhận rằng nếu không có Lewis, ông sẽ không hoàn thành cuốn sách, nhưng nhiều nhà bình luận dường như thích đả kích những nhận xét hoặc bài phê bình của ông hơn là đọc cuốn sách.
+Tolkien nhận thấy rằng các bài đánh giá<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> tốt hơn rất nhiều so với những gì ông lo ngại. Họ có thể đã tốt hơn nếu tránh trích dẫn <a class="extiw" href="http://en.wikipedia.org/wiki/Ludovico_Ariosto" title="wikipedia:Ludovico Ariosto">Ariosto</a> hoặc không liên quan đến sự thù địch phi thường hướng tới [C.S. Lewis](../C/C.S._Lewis.md). Tolkien thừa nhận rằng nếu không có Lewis thì ông đã không thể hoàn thành cuốn sách, nhưng nhiều nhà bình luận dường như thích đả kích những nhận xét hoặc bài phê bình của ông hơn là đọc cuốn sách.
 
-Sự "vô hình" của các nhà phê bình là do câu chuyện được chia thành ba phần. Sự quá mức "hobbitry" trong [Tập I](../T/The_Fellowship_of_the_Ring.md) là do tự mình thực hiện tác phẩm đó và một số nhà phê bình rõ ràng đã không đi xa hơn Chương 1. Tolkien nói rằng thật không may là *Daily Telegraph* đã sử dụng Peter Green để đánh giá cuốn sách của mình, người đã thô lỗ đến mức nghi ngờ ông ta có ác ý. Tolkien cũng cảm thấy bối rối trước những nhận xét của các nhà phê bình về phong cách của cuốn sách.
+Sự "vô hình" của các nhà phê bình là do câu chuyện được chia thành ba phần. Sự quá mức "hobbitry" trong [Tập I](../T/The_Fellowship_of_the_Ring.md) là do tự mình thực hiện tác phẩm đó và một số nhà phê bình rõ ràng đã không đi xa hơn Chương 1. Tolkien nói rằng thật đáng tiếc khi *Daily Telegraph* đã sử dụng Peter Green để đánh giá cuốn sách của mình, người đã thô lỗ đến mức nghi ngờ ông ta có ác ý. Tolkien cũng cảm thấy bối rối trước nhận xét của các nhà phê bình về phong cách của cuốn sách.
 
 Tolkien đã hiểu rằng Unwin không hoàn toàn không hài lòng. Những người khác ngoài Lewis đã viết những thông báo rất cảm kích. Nhận xét của Cherryman và Howard Spring làm hài lòng sự phù phiếm của một người, và hay nhất là lời tuyên bố của Cherryman rằng ông háo hức chờ đợi tập thứ hai và thứ ba. H. Fawcett ngắn gọn nhưng đáng khen ngợi và người biên tập *Oxford Times* đã đưa ra một thông báo tích cực dài.
 
 <dl><dt>In the expanded edition</dt></dl>
 
-Trong hai đoạn đầu tiên, Tolkien tiếc nuối vì đã ra đi vào thời điểm không may mắn nhất, vì chuyến đi đến Ireland và bệnh tật, đồng thời đã bỏ lỡ những sắp xếp quan trọng.
+Trong hai đoạn đầu Tolkien tiếc nuối vì anh đã ra đi vào thời điểm không may mắn nhất, do chuyến đi đến Ireland và bị bệnh, và đã bỏ lỡ những sắp xếp quan trọng.
 
 Trong hai đoạn cuối, ông lưu ý rằng ông đã đưa vào một tờ ghi chú và truy vấn riêng biệt liên quan đến *The Lord of the Rings*, đồng thời hy vọng rằng những cuốn sách mới của Rayner và anh trai ông sẽ hoạt động tốt.
 

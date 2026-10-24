@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Last Alliance of Elves and Men"
 ---
 
-Chuyển hướng đến [Liên minh cuối cùng của Yêu tinh và Con người](Last_Alliance_of_Elves_and_Men.md).
+Chuyển hướng tới [Liên minh Cuối cùng của Tiên tộc và Con Người](Last_Alliance_of_Elves_and_Men.md).

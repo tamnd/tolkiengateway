@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Narya"
 ---
 
-Chuyển hướng tới [Narya](../N/Narya.md).
+Chuyển hướng đến [Narya](../N/Narya.md).

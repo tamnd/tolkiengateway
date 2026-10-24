@@ -12,15 +12,15 @@ categories:
   - "Birds"
 ---
 
-**Chim sơn ca** là loài chim biết hót du dương được tìm thấy ở [Trung địa](../M/Middle-earth.md). Một "chim sơn ca" ở [Quenya](../Q/Quenya.md) là một *[lirulin](Lirulin.md)*.<sup id="cite_ref-Finwe_1-0" class="reference"><a href="#cite_note-Finwe-1">[1]</a></sup>
+**Chim sơn ca** là loài chim biết hót du dương được tìm thấy ở [Trung Địa](../M/Middle-earth.md). Một "chim sơn ca" trong [Quenya](../Q/Quenya.md) là một *[lirulin](Lirulin.md)*.<sup id="cite_ref-Finwe_1-0" class="reference"><a href="#cite_note-Finwe-1">[1]</a></sup>
 
 ## Lịch sử {#History}
 
-Sau khi người vợ đầu tiên của [Finwë](../F/Finwë.md) [Míriel](../M/Míriel.md) qua đời, ông đã sống trong đau buồn trong nhiều năm. [Ingwë](../I/Ingwë.md), mong muốn khiến trái tim anh nhẹ nhõm hơn, đã mời anh rời [Túna](../T/Túna.md) và đến thăm anh, nơi ánh sáng của [Hai Cây](../T/Two_Trees.md) có thể giúp anh chữa lành. Khi anh đến gần ngôi nhà của Ingwë trên sườn phía tây của [Oiolossë](../O/Oiolossë.md), con gái của Ingwë [Indis](../I/Indis.md) nhìn thấy Finwë và hát một bài hát vui mừng cho anh, "như một bài hát của *lirulin* trên bầu trời." Nhìn thấy Indis vào thời điểm này khiến Finwë phải lòng cô và một năm sau hai người kết hôn.<sup id="cite_ref-Finwe_1-1" class="reference"><a href="#cite_note-Finwe-1">[1]</a></sup>
+Sau khi người vợ đầu [Míriel](../M/Míriel.md) của [Finwë](../F/Finwë.md) qua đời, ông sống trong đau buồn suốt nhiều năm. [Ingwë](../I/Ingwë.md), với mong muốn làm nhẹ lòng anh, đã mời anh rời khỏi [Túna](../T/Túna.md) và đến thăm anh, nơi ánh sáng của [Hai Cây](../T/Two_Trees.md) có thể mang lại cho anh sự chữa lành. Khi ông đến gần ngôi nhà của Ingwë trên sườn phía tây của [Oiolossë](../O/Oiolossë.md), con gái của Ingwë [Indis](../I/Indis.md) nhìn thấy Finwë và hát một bài hát vui mừng cho ông, "như bài hát của *lirulin* trên bầu trời." Nhìn thấy Indis lúc này đã khiến Finwë phải lòng cô và một năm sau hai người kết hôn.<sup id="cite_ref-Finwe_1-1" class="reference"><a href="#cite_note-Finwe-1">[1]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong phiên bản trước của câu chuyện trên [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã sử dụng từ *aimenel* hoặc *aimenal* nhưng đổi thành *lirulin* và viết từ "lark" ở lề.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Trong phiên bản trước của câu chuyện trên, [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã sử dụng từ *aimenel* hoặc *aimenal* nhưng đổi thành *lirulin* và viết từ "lark" ở lề.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Liên kết ngoài {#External_links}
 

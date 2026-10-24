@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "South Gondor"
 ---
 
-Chuyển hướng đến [Nam Gondor](../S/South_Gondor.md).
+Chuyển hướng đến [South Gondor](../S/South_Gondor.md).

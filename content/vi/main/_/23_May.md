@@ -67,11 +67,11 @@ Sự kiện xảy ra vào ngày 23 tháng 5
 ## Trên Trái đất {#On_Earth}
 
 - **[1958](1958.md)** - Diễn viên [William Kircher](../W/William_Kircher.md) ra đời.
-- **[1961](1961.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một lá thư cho Rayner Unwin](<../L/Letter_to_Rayner_Unwin_(23_May_1961).md>).
+- **[1961](1961.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư gửi Rayner Unwin](<../L/Letter_to_Rayner_Unwin_(23_May_1961).md>).
 - **[1972](1972.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 336](../L/Letter_336.md).
 - **[1992](1992.md)** - Ngày thứ hai của [Hiện tượng Tolkien](../T/The_Tolkien_Phenomenon.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Turku" title="wikipedia:Turku">Turku</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Finland" title="wikipedia:Finland">Phần Lan</a>.
 - **[2008](2008.md)** - Bình luận [RiffTrax](../R/RiffTrax.md) của *[The Lord of the Rings: The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)* được phát hành trực tuyến.
-- **[2011](2011.md)** - [Cập nhật 3: Lost Legends of Eriador](../T/The_Lord_of_the_Rings_Online.md#Update_3:_Lost_Legends_of_Eriador), bản cập nhật thứ ba của *[The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md)* được phát hành.
+- **[2011](2011.md)** - [Cập nhật 3: Lost Legends của Eriador](../T/The_Lord_of_the_Rings_Online.md#Update_3:_Lost_Legends_of_Eriador), bản cập nhật thứ ba của *[The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md)* được phát hành.
 
 ## Trong Arda {#In_Arda}
 

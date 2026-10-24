@@ -38,10 +38,10 @@ Freeman là một người hâm mộ Tolkien và trong chuyến tham quan Hội 
 ## Vai trò {#Roles}
 
 - [2011](../_/2011.md): *[The Lord of the Rings: War in the North](../T/The_Lord_of_the_Rings%253A_War_in_the_North.md)* - Không xác định
-- [2009](../_/2009.md): *[The Lord of the Rings: Conquest](../T/The_Lord_of_the_Rings%253A_Conquest.md)* - [Legolas](../L/Legolas.md), Nam thanh niên [Hobbit](../H/Hobbits.md)
+- [2009](../_/2009.md): *[The Lord of the Rings: Conquest](../T/The_Lord_of_the_Rings%253A_Conquest.md)* - [Legolas](../L/Legolas.md), Nam Trẻ [Hobbit](../H/Hobbits.md)
 - [2006](../_/2006.md): *[The Lord of the Rings: The Battle for Middle-earth II](../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md)* - Giọng nói bổ sung
 - [2005](../_/2005.md): *[The Lord of the Rings: The Battle for Middle-earth](../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth.md)* - Giọng nói bổ sung
-- [2003](../_/2003.md): *[The Lord of the Rings: War of the Ring](../T/The_Lord_of_the_Rings%253A_War_of_the_Ring.md)* - [Faramir](../F/Faramir.md), Kẻ chém Orc
+- [2003](../_/2003.md): *[The Lord of the Rings: War of the Ring](../T/The_Lord_of_the_Rings%253A_War_of_the_Ring.md)* - [Faramir](../F/Faramir.md), Orc Bộ chém
 
 ## Trích dẫn {#Quotes}
 

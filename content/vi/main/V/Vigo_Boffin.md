@@ -45,11 +45,11 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../H/Hobbits.md" title="Hobbits">Hobbit</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Vigo Boffin</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../T/The_Shire.md" title="The Shire">The Shire</a></td></tr><tr><th scope="row" class="tg-infobox-label">Birth</th><td class="tg-infobox-data"><a class="mw-redirect" href="../S/Shire_Reckoning.md" title="Shire Reckoning">S.R.</a> <a href="../T/Third_Age_2937.md" title="Third Age 2937">1337</a></td></tr><tr><th scope="row" class="tg-infobox-label">Death</th><td class="tg-infobox-data"><a class="mw-redirect" href="../S/Shire_Reckoning.md" title="Shire Reckoning">S.R.</a> <a href="../F/Fourth_Age_9.md" title="Fourth Age 9">1430</a> (aged 93)<br/></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">Family</th><td class="tg-infobox-data"><a class="mw-redirect" href="../B/Boffin_Family~66342.md" title="Boffin Family">Boffin</a></td></tr><tr><th scope="row" class="tg-infobox-label">Parentage</th><td class="tg-infobox-data"><a href="../J/Jago_Boffin.md" title="Jago Boffin">Jago Boffin</a></td></tr><tr><th scope="row" class="tg-infobox-label">Children</th><td class="tg-infobox-data"><a href="../F/Folco_Boffin.md" title="Folco Boffin">Folco</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr></tbody></table>
 
-**Vigo Boffin** là một [Hobbit](../H/Hobbits.md) của [Shire](../T/The_Shire.md).
+**Vigo Boffin** là [Hobbit](../H/Hobbits.md) của [ Shire](../T/The_Shire.md).
 
 ## Lịch sử {#History}
 
-Vigo là con trai của [Jago Boffin](../J/Jago_Boffin.md) và có một con trai [Folco](../F/Folco_Boffin.md). Cả hai đều có mặt tại [Bữa tiệc chia tay của Bilbo](../B/Bilbo's_Farewell_Party.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Vigo là con trai của [Jago Boffin](../J/Jago_Boffin.md) và có một con trai [Folco](../F/Folco_Boffin.md). Cả hai đều có mặt tại [Tiệc chia tay của Bilbo](../B/Bilbo's_Farewell_Party.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

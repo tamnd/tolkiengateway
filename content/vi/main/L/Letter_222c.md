@@ -25,13 +25,13 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><i><a href="../T/The_Letters_of_J.R.R._Tolkien.md" title="The Letters of J.R.R. Tolkien">The Letters of J.R.R. Tolkien</a></i></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Letter 222c</span></th></tr><tr><th scope="row" class="tg-infobox-label">Recipient</th><td class="tg-infobox-data"><a href="../R/Rayner_Unwin.md" title="Rayner Unwin">Rayner Unwin</a></td></tr><tr><th scope="row" class="tg-infobox-label">Date</th><td class="tg-infobox-data"><a href="../_/29_February.md" title="29 February">29 February</a> <a href="../_/1960.md" title="1960">1960</a></td></tr><tr><th scope="row" class="tg-infobox-label">Subject(s)</th><td class="tg-infobox-data">Permisssion to publish minor items from the <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i></td></tr></tbody></table>
 
-**Thư 222c** là bức thư được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và đăng trên [The Letters of J.R.R. Tolkien: Revised and Expanded edition](../T/The_Letters_of_J.R.R._Tolkien.md#Revised_and_Expanded_edition)*.*
+**Thư 222c** là lá thư được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và đăng trên [The Letters of J.R.R. Tolkien: Revised and Expanded edition](../T/The_Letters_of_J.R.R._Tolkien.md#Revised_and_Expanded_edition)*.*
 
 <br>
 
 ## Tóm tắt {#Summary}
 
-Tolkien hỏi Unwin liệu có bất kỳ sự phản đối nào đối với việc xuất bản các mục nhỏ hoặc nhỏ từ *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* hay không. Ông nói rằng ông thường xuyên được yêu cầu làm những công việc kiểu này và đưa ra những "điều khoản tốt" cho chúng. Ông chỉ ra rằng những điều ông muốn xuất bản không quan trọng đối với *The Silmarillion*.
+Tolkien đã hỏi Unwin liệu có bất kỳ sự phản đối nào đối với việc xuất bản các mục nhỏ hoặc nhỏ từ *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* không. Ông nói rằng ông thường xuyên được yêu cầu làm những công việc kiểu này và đưa ra những "điều khoản tốt" cho chúng. Ông chỉ ra rằng những điều ông muốn xuất bản không quan trọng đối với *The Silmarillion*.
 
 <br>
 

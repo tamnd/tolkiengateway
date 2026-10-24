@@ -13,13 +13,13 @@ categories:
   - "Heavy metal"
 ---
 
-**Sabaton** là ban nhạc kim loại nặng của Thụy Điển. Bài hát "Shadows" của họ dựa trên tác phẩm của [Tolkien](../J/J.R.R._Tolkien.md).
+**Sabaton** là ban nhạc kim loại nặng của Thụy Điển. Bài hát "Shadows" của họ dựa trên sáng tác của [Tolkien](../J/J.R.R._Tolkien.md).
 
 <br>
 
 ## Bóng tối {#Shadows}
 
-"Shadows" là ca khúc thứ tư trong album <a class="new" href="https://tolkiengateway.net/w/index.php?title=Metalizer&amp;action=edit&amp;redlink=1" title="Metalizer (page does not exist)">Metalizer</a> năm 2007 của Sabaton. Nó kể về [Nazgûl](../N/Nazgûl.md), những người hầu hư hỏng của [Sauron](Sauron.md).
+"Shadows" là ca khúc thứ tư trong album <a class="new" href="https://tolkiengateway.net/w/index.php?title=Metalizer&amp;action=edit&amp;redlink=1" title="Metalizer (page does not exist)">Metalizer</a> năm 2007 của Sabaton. Nó kể về [Nazgûl](../N/Nazgûl.md), những đầy tớ hư hỏng của [Sauron](Sauron.md).
 
 ### Trích lời bài hát {#Lyrics_excerpt}
 

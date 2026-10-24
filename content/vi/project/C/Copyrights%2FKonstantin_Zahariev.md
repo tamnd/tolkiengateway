@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Zahariev, Konstantin"
 ---
 
-- Konstantin Zahariev đã vui lòng cho phép anh sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Konstantin_Zahariev.md) trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
+- Konstantin Zahariev đã vui lòng cho phép ông sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Konstantin_Zahariev.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Ngày: 19 tháng 4 năm 2021
 - Ông [đã cung cấp](https://tolkiengateway.net/wiki/Forums:Noldorian_prince_artwork) tác phẩm nghệ thuật của mình với tư cách là <a class="new" href="https://tolkiengateway.net/w/index.php?title=User:KZahariev&amp;action=edit&amp;redlink=1" title="User:KZahariev (page does not exist)">Người dùng:KZahariev</a>.

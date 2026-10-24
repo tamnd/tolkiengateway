@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Arwen"
 ---
 
-Chuyển hướng tới [Arwen](../A/Arwen.md).
+Chuyển hướng đến [Arwen](../A/Arwen.md).

@@ -21,7 +21,7 @@ langlinks:
     url: "https://kontu.wiki/Farthingho"
 ---
 
-**Farthingho** là nơi từng có một tiền đồn được [Tiểu vương quốc](../L/Little_Kingdom.md) của Vua [Ægidius Draconarius](Farmer_Giles.md) duy trì để chống lại [Trung Vương quốc](../M/Middle_Kingdom.md). Thực ra chỉ có những dấu hiệu trong truyền thuyết rời rạc về [Georgius](../G/Georgius.md) (con trai của nhà vua) và trang [Suovetaurilius](../S/Suovetaurilius.md) (còn gọi là Suet) của ông về nơi này.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
+**Farthingho** là nơi từng có một tiền đồn được [Tiểu Vương quốc](../L/Little_Kingdom.md) của Vua [Ægidius Draconarius](Farmer_Giles.md) duy trì để chống lại [Vương quốc Trung tâm](../M/Middle_Kingdom.md). Thực ra chỉ có những dấu hiệu trong truyền thuyết rời rạc về [Georgius](../G/Georgius.md) (con trai của nhà vua) và trang [Suovetaurilius](../S/Suovetaurilius.md) (còn gọi là Suet) của ông về nơi này.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

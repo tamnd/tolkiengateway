@@ -21,16 +21,16 @@ images:
   - "Disambig.png"
 ---
 
-**Người Hobbit** có thể đề cập đến:
+**The Hobbit** có thể tham khảo:
 
-## Trung địa {#Middle-earth}
+## Trung Địa {#Middle-earth}
 
 - [Hobbit](../H/Hobbits.md), cư dân của [The Shire](The_Shire.md) và [Bree](../B/Bree.md).
-- [Bilbo Baggins](../B/Bilbo_Baggins.md), người hobbit được nhắc đến qua tựa đề của cuốn sách *[The Hobbit](The_Hobbit.md)*.
+- [Bilbo Baggins](../B/Bilbo_Baggins.md), người hobbit được gọi bằng tựa đề cuốn sách *[The Hobbit](The_Hobbit.md)*.
 
 ## Sách {#Books}
 
-- <b><i><a href="The_Hobbit.md" title="The Hobbit">Người Hobbit</a></i>, cuốn sách <a href="../_/1937.md" title="1937">1937</a> của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>.</b>
+- <b><i><a href="The_Hobbit.md" title="The Hobbit">The Hobbit</a></i>, cuốn <a href="../_/1937.md" title="1937">1937</a> của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>.</b>
 - *[The Hobbits: The Many Lives of Bilbo, Frodo, Sam, Merry and Pippin](The_Hobbits.md)*, một cuốn sách [2012](../_/2012.md) của [Lynnette Porter](../L/Lynnette_Porter.md).
 - [The Hobbit (booklet)](<The_Hobbit_(booklet).md>), một tập sách kỷ niệm chứa nhiều bài viết linh tinh.
 
@@ -41,7 +41,7 @@ images:
 - [*The Hobbit* (phim 1967)](<The_Hobbit_(1967_film).md>), bản chuyển thể dài 12 phút của [Gene Deitch](../G/Gene_Deitch.md).
 - [*The Hobbit* (phim 1977)](<The_Hobbit_(1977_film).md>), bộ phim hoạt hình chuyển thể [1977](../_/1977.md) của [Rankin/Bass](../R/Rankin%252FBass.md).
 - [*The Hobbit* (phim truyền hình Nga)](<The_Hobbit_(1985_television_film).md>), [1985](../_/1985.md) phim truyền hình Nga.
-- <b><a href="The_Hobbit_(film_series).md" title="The Hobbit (film series)"><i>The Hobbit</i> (loạt phim)</a>, loạt phim dựa trên cuốn sách, do <a href="../P/Peter_Jackson.md" title="Peter Jackson">Peter Jackson</a>đạo diễn:</b>
+- <b><a href="The_Hobbit_(film_series).md" title="The Hobbit (film series)"><i>The Hobbit</i> (loạt phim)</a>, loạt phim dựa trên sách, do <a href="../P/Peter_Jackson.md" title="Peter Jackson">Peter Jackson</a>đạo diễn:</b>
     - *[The Hobbit: An Unexpected Journey](The_Hobbit%253A_An_Unexpected_Journey.md)*, phim [2012](../_/2012.md).
     - *[The Hobbit: The Desolation of Smaug](The_Hobbit%253A_The_Desolation_of_Smaug.md)*, phim [2013](../_/2013.md).
     - *[The Hobbit: The Battle of the Five Armies](The_Hobbit%253A_The_Battle_of_the_Five_Armies.md)*, phim [2014](../_/2014.md).
@@ -57,19 +57,19 @@ images:
 
 ### Chuyển thể sân khấu {#Stage_adaptations}
 
-- [*The Hobbit* (chuyển thể từ sân khấu năm 1967)](<The_Hobbit_(1967_stage_adaptation).md>), một vở nhạc kịch trong cuốn sách của Trường Đại học Mới, được ủy quyền và xem bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
+- [*The Hobbit* (chuyển thể sân khấu năm 1967)](<The_Hobbit_(1967_stage_adaptation).md>), một vở nhạc kịch trong cuốn sách của Trường Đại học Mới, được ủy quyền và xem bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
 ### Trò chơi {#Games}
 
 - [*The Hobbit* (trò chơi điện tử năm 1982)](<The_Hobbit_(1982_video_game).md>), trò chơi điện tử dựa trên cuốn sách.
-- *[The Hobbit Adventure Boardgame](The_Hobbit_Adventure_Boardgame.md)*, một trò chơi board [1994](../_/1994.md) của [Iron Crown Enterprises](../I/Iron_Crown_Enterprises.md).
+- *[The Hobbit Adventure Boardgame](The_Hobbit_Adventure_Boardgame.md)*, một trò chơi bảng [1994](../_/1994.md) của [Vương miện Sắt Enterprises](../I/Iron_Crown_Enterprises.md).
 - *[The Hobbit (action game)](<The_Hobbit_(action_game).md>)*, một trò chơi điện tử chưa được phát hành dựa trên cuốn sách.
 - [*The Hobbit* (trò chơi điện tử năm 2003)](<The_Hobbit_(2003_video_game).md>), trò chơi điện tử dựa trên cuốn sách.
-- *[Lego The Hobbit: The Video Game](../L/Lego_The_Hobbit%253A_The_Video_Game.md)*, một trò chơi điện tử [Lego](../L/Lego.md) dựa trên hai bộ phim đầu tiên của [The Hobbit của Peter Jackson](<The_Hobbit_(film_series).md>).
+- *[Lego The Hobbit: The Video Game](../L/Lego_The_Hobbit%253A_The_Video_Game.md)*, một trò chơi điện tử [Lego](../L/Lego.md) dựa trên hai bộ phim đầu tiên trong The Hobbit](<The_Hobbit_(film_series).md>) của [Peter Jackson.
 
 ## Khác {#Miscellaneous}
 
-- [Hobbit (ban nhạc)](<../H/Hobbit_(band).md>), một trong những ban nhạc theo chủ đề Tolkien lâu đời nhất.
+- [Hobbit (ban nhạc)](<../H/Hobbit_(band).md>), một trong những ban nhạc có chủ đề Tolkien lâu đời nhất.
 - [The Hobbit (public house)](<The_Hobbit_(public_house).md>), một ngôi nhà công cộng ở Southampton, Anh.
 - [*The Hobbit* (truyện tranh)](<The_Hobbit_(comic_book).md>), tiểu thuyết đồ họa chuyển thể từ cuốn sách của [David T. Wenzel](../D/David_T._Wenzel.md).
 - [The Hobbit Tarot](The_Hobbit_Tarot.md), một bộ bài tarot với hình minh họa mới về các nhân vật và cảnh trong *The Hobbit*

@@ -35,7 +35,7 @@ infobox:
 
 <b><i>Những bàn tay khác</i> 33/34</b> là số kép của *[Other Hands](Other_Hands.md)*, một tạp chí dành riêng cho *[Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)*. Chủ đề của số báo là "Chiến tranh!"
 
-Số này còn có sự đóng góp về mặt ngôn ngữ của [David Salo](../D/David_Salo.md).
+Số này cũng có sự đóng góp về mặt ngôn ngữ của [David Salo](../D/David_Salo.md).
 
 ## Nội dung {#Contents}
 
@@ -43,8 +43,8 @@ Số này còn có sự đóng góp về mặt ngôn ngữ của [David Salo](..
 
 - Biên tập - ([Chris Seeman](../C/Chris_Seeman.md)) \[2 pgs\]
 - Tính năng ma thuật: Tại sao Ba Chiếc Nhẫn lại mất đi sức mạnh? - (Charles Bouldin) \[2 trang\]
-- Chiến tranh Gondorian - (Lance R. Blyth) \[3 pgs\]
+- Gondor Warcraft - (Lance R. Blyth) \[3 pgs\]
 - Eldacar phải chết! - (Eric Dubourg) \[cuộc phiêu lưu sẵn sàng để chạy; 20 trang\]
 - Tính năng Mithril: Ngôi nhà của Warcraft - ([Chris Seeman](../C/Chris_Seeman.md))
-- Tuổi thọ của Dúnadan - ([Chris Seeman](../C/Chris_Seeman.md)) \[2 pgs\]
-- Bổ sung: Quân đội Eriador - ([Thomas Morwinsky](../T/Thomas_Morwinsky.md)) \[các tiểu luận về tổ chức quân sự của Arthedain, Cardolan, Rhudaur và Angmar; 32 trang\]
+- Dúnadan Tuổi thọ - ([Chris Seeman](../C/Chris_Seeman.md)) \[2 pgs\]
+- Bổ sung: Quân đội của Eriador - ([Thomas Morwinsky](../T/Thomas_Morwinsky.md)) \[bài luận về tổ chức quân sự của Arthedain, Cardolan, Rhudaur và Angmar; 32 trang\]

@@ -38,9 +38,9 @@ infobox:
 
 ## Lịch sử {#History}
 
-Eilinel là một thiếu nữ xinh đẹp và dịu dàng, được Gorlim rất yêu quý. Khi chồng cô đến [Dagor Bragollach](../D/Dagor_Bragollach.md), ngôi nhà của họ "không mái"<sup id="cite_ref-plundered_3-0" class="reference"><a href="#cite_note-plundered-3">[3]</a></sup> và "ruộng và nhà cửa"<sup id="cite_ref-plundered_3-1" class="reference"><a href="#cite_note-plundered-3">[3]</a></sup> của họ bị cướp bóc. Eilinel bị giết "bởi bọn đồ tể"<sup id="cite_ref-killedby_4-0" class="reference"><a href="#cite_note-killedby-4">[4]</a></sup> ở một số "rừng cháy"<sup id="cite_ref-killedby_4-1" class="reference"><a href="#cite_note-killedby-4">[4]</a></sup>.<sup id="cite_ref-S19_5-0" class="reference"><a href="#cite_note-S19-5">[5]</a></sup>
+Eilinel là một thiếu nữ xinh đẹp và dịu dàng, được Gorlim rất yêu quý. Khi chồng chị về [Dagor Bragollach](../D/Dagor_Bragollach.md), nhà “không nóc”<sup id="cite_ref-plundered_3-0" class="reference"><a href="#cite_note-plundered-3">[3]</a></sup>, “ruộng, nhà cửa”<sup id="cite_ref-plundered_3-1" class="reference"><a href="#cite_note-plundered-3">[3]</a></sup> bị cướp bóc. Eilinel bị giết "bởi bọn đồ tể"<sup id="cite_ref-killedby_4-0" class="reference"><a href="#cite_note-killedby-4">[4]</a></sup> ở một số "rừng cháy"<sup id="cite_ref-killedby_4-1" class="reference"><a href="#cite_note-killedby-4">[4]</a></sup>.<sup id="cite_ref-S19_5-0" class="reference"><a href="#cite_note-S19-5">[5]</a></sup>
 
-Khi trở về nhà, Gorlim không tìm thấy bất kỳ dấu vết nào của Eilinel. Anh tiếp tục quay trở lại nhà của họ để tìm kiếm người vợ đã mất của mình và [Sauron](../S/Sauron.md) đã lừa anh bằng cách tạo ra [bóng ma](../P/Phantoms.md) của Eilinel để khiến anh phản bội vị trí của [Barahir](../B/Barahir.md).<sup id="cite_ref-S19_5-1" class="reference"><a href="#cite_note-S19-5">[5]</a></sup>
+Khi trở về nhà, Gorlim không tìm thấy dấu vết nào của Eilinel. Ông ta liên tục quay trở lại nhà họ để tìm kiếm người vợ đã mất của mình và [Sauron](../S/Sauron.md) đã lừa ông ta bằng cách tạo ra [bóng ma](../P/Phantoms.md) của Eilinel để khiến ông ta phản bội vị trí của [Barahir](../B/Barahir.md).<sup id="cite_ref-S19_5-1" class="reference"><a href="#cite_note-S19-5">[5]</a></sup>
 
 ## Phả hệ {#Genealogy}
 

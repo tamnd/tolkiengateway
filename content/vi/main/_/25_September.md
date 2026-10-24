@@ -61,7 +61,7 @@ images:
 </div><div class="template-month__footer"><div class="tg-button"><a href="../J/January.md" title="January">Jan</a></div><div class="tg-button"><a href="../F/February.md" title="February">Feb</a></div><div class="tg-button"><a href="../M/March.md" title="March">Mar</a></div><div class="tg-button"><a href="../A/April.md" title="April">Apr</a></div><div class="tg-button"><a href="../M/May.md" title="May">May</a></div><div class="tg-button"><a href="../J/June.md" title="June">Jun</a></div><div class="tg-button"><a href="../J/July.md" title="July">Jul</a></div><div class="tg-button"><a href="../A/August.md" title="August">Aug</a></div><div class="tg-button"><a href="../S/September.md" title="September">Sep</a></div><div class="tg-button"><a href="../O/October.md" title="October">Oct</a></div><div class="tg-button"><a href="../N/November.md" title="November">Nov</a></div><div class="tg-button"><a href="../D/December.md" title="December">Dec</a></div></div>
 </div>
 
-Sự kiện xảy ra vào ngày 25 tháng 9
+Sự kiện xảy ra vào ngày 25 tháng Chín.
 
 ## Trên Trái đất {#On_Earth}
 
@@ -70,36 +70,36 @@ Sự kiện xảy ra vào ngày 25 tháng 9
 - **[1931](1931.md)** - Diễn viên lồng tiếng [Peter Woodthorpe](../P/Peter_Woodthorpe.md) ra đời.
 - **[1954](1954.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 154](../L/Letter_154.md).
 - **[1963](1963.md)** - Diễn viên [Mikael Persbrandt](../M/Mikael_Persbrandt.md) ra đời.
-- **[1977](1977.md)** - [Oxonmoot 1977](../O/Oxonmoot_1977.md) tại The Welsh Pony.
-- **[1977](1977.md)** - William Carter xuất bản cuốn "Trách nhiệm hiếu thảo của Christopher Tolkien" trong *Sunday Times Magazine*.
+- **[1977](1977.md)** - [Oxonmoot 1977](../O/Oxonmoot_1977.md) tại The tiếng Wales Pony.
+- **[1977](1977.md)** - William Carter đăng bài "Trọng hiếu của Christopher Tolkien" trong *Sunday Times Magazine*.
 - **[1981](1981.md)** - [Oxonmoot 1981](../O/Oxonmoot_1981.md) tại The Turf Tavern.
 - **[1982](1982.md)** - [Oxonmoot 1982](../O/Oxonmoot_1982.md) tại khách sạn Cotswold Lodge.
 - **[1982](1982.md)** - Tập thứ 11 phiên bản mới của loạt phim phát thanh [1981](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* được phát sóng trên [BBC Radio 4](../B/BBC.md).
-- **[1983](1983.md)** - [Oxonmoot 1983](../O/Oxonmoot_1983.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Oxford_Town_Hall" title="wikipedia:Oxford Town Hall">Tòa thị chính Oxford</a>.
-- **[1987](1987.md)** - [Oxonmoot 1987](../O/Oxonmoot_1987.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Oxford_Town_Hall" title="wikipedia:Oxford Town Hall">Tòa thị chính Oxford</a>.
-- **[1988](1988.md)** - [Oxonmoot 1988](../O/Oxonmoot_1988.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Oxford_Town_Hall" title="wikipedia:Oxford Town Hall">Tòa thị chính Oxford</a>.
+- **[1983](1983.md)** - [Oxonmoot 1983](../O/Oxonmoot_1983.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Oxford_Town_Hall" title="wikipedia:Oxford Town Hall">Oxford Tòa thị chính</a>.
+- **[1987](1987.md)** - [Oxonmoot 1987](../O/Oxonmoot_1987.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Oxford_Town_Hall" title="wikipedia:Oxford Town Hall">Oxford Tòa thị chính</a>.
+- **[1988](1988.md)** - [Oxonmoot 1988](../O/Oxonmoot_1988.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Oxford_Town_Hall" title="wikipedia:Oxford Town Hall">Oxford Tòa thị chính</a>.
 - **[1998](1998.md)** - [Oxonmoot 1998](../O/Oxonmoot_1998.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Exeter_College,_Oxford" title="wikipedia:Exeter College, Oxford">Exeter College</a>.
 - **[1999](1999.md)** - Tác giả [Marion Zimmer Bradley](../M/Marion_Zimmer_Bradley.md) qua đời.
 - **[1999](1999.md)** - [Oxonmoot 1999](../O/Oxonmoot_1999.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Exeter_College,_Oxford" title="wikipedia:Exeter College, Oxford">Exeter College</a>.
 - **[2008](2008.md)** - [Oxonmoot 2008](../O/Oxonmoot_2008.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Christ_Church,_Oxford" title="wikipedia:Christ Church, Oxford">Nhà thờ Chúa Kitô</a>.
 - **[2009](2009.md)** - [Oxonmoot 2009](../O/Oxonmoot_2009.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Lady_Margaret_Hall,_Oxford" title="wikipedia:Lady Margaret Hall, Oxford">Lady Margaret Hall</a>.
 - **[2010](2010.md)** - [Oxonmoot 2010](../O/Oxonmoot_2010.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Lady_Margaret_Hall,_Oxford" title="wikipedia:Lady Margaret Hall, Oxford">Lady Margaret Hall</a>.
-- **[2010](2010.md)** - Cuộc họp mùa thu Lasse Lanta của Hiệp hội Tolkien Áo.
+- **[2010](2010.md)** - Cuộc gặp gỡ mùa thu Lasse Lanta của Hiệp hội Tolkien Áo.
 - **[2011](2011.md)** - [Oxonmoot 2011](../O/Oxonmoot_2011.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Lady_Margaret_Hall,_Oxford" title="wikipedia:Lady Margaret Hall, Oxford">Lady Margaret Hall</a>.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - Sau sự ra đi của [Yêu tinh](../E/Elves.md), [Khamûl](../K/Khamûl.md) tiếp tục cuộc tìm kiếm Chiếc nhẫn.<sup id="cite_ref-RC164_1-0" class="reference"><a href="#cite_note-RC164-1">[1]</a></sup>
-    - Các hobbit ăn sáng với bánh mì, trái cây và đồ uống mà [Yêu tinh cao cấp](../H/High_Elves.md) để lại cho họ. Frodo quyết định tiếp tục đến [Bucklebury](../B/Bucklebury.md) bằng cách đi ngang qua [Green Hill Country](../G/Green_Hill_Country.md) và [Marish](../T/The_Marish.md).<sup id="cite_ref-short_2-0" class="reference"><a href="#cite_note-short-2">[2]</a></sup>
-    - Họ bị chặn bởi [Stock-brook](../S/Stock-brook.md), cho đến khi họ nhìn thấy [Kỵ sĩ đen](../B/Black_Riders.md) lần thứ ba, phía sau họ; họ buộc phải lao vào bụi rậm bên bờ sông và tiếp tục đi dọc theo đó.<sup id="cite_ref-short_2-1" class="reference"><a href="#cite_note-short-2">[2]</a></sup>
+    - Sau khi [Tiên tộc](../E/Elves.md) rời đi, [Khamûl](../K/Khamûl.md) tiếp tục cuộc tìm kiếm Chiếc nhẫn.<sup id="cite_ref-RC164_1-0" class="reference"><a href="#cite_note-RC164-1">[1]</a></sup>
+    - Các hobbit ăn sáng với bánh mì, trái cây và đồ uống [High Elves](../H/High_Elves.md) còn lại cho họ. Frodo quyết định tiếp tục [Bucklebury](../B/Bucklebury.md) bằng cách cắt ngang [Green Hill Country](../G/Green_Hill_Country.md) và [ Marish](../T/The_Marish.md).<sup id="cite_ref-short_2-0" class="reference"><a href="#cite_note-short-2">[2]</a></sup>
+    - Họ bị chặn bởi [Stock-brook](../S/Stock-brook.md), cho đến khi họ nhìn thấy [Kỵ Sĩ Đen](../B/Black_Riders.md) lần thứ ba, phía sau họ; họ buộc phải lao vào bụi rậm bên bờ sông và tiếp tục đi dọc theo đó.<sup id="cite_ref-short_2-1" class="reference"><a href="#cite_note-short-2">[2]</a></sup>
     - Họ lội suối và chạy vào rừng; mưa rơi trên Marish. Vào giữa ngày, họ ăn trưa bên cạnh một [cây du](../E/Elms.md) được che chở.<sup id="cite_ref-short_2-2" class="reference"><a href="#cite_note-short-2">[2]</a></sup>
-    - Không thể tìm thấy Frodo, Khamûl triệu tập một [Nazgûl](../N/Nazgûl.md) khác từ [Dol Guldur](../D/Dol_Guldur.md).<sup id="cite_ref-RC164_1-1" class="reference"><a href="#cite_note-RC164-1">[1]</a></sup> Hai tiếng kêu độc ác làm phiền những người Hobbit đang nghỉ ngơi.<sup id="cite_ref-short_2-3" class="reference"><a href="#cite_note-short-2">[2]</a></sup>
-    - Hai Ma Nhẫn đi về phía đông. Khamûl<sup id="cite_ref-RC164_1-2" class="reference"><a href="#cite_note-RC164-1">[1]</a></sup> thẩm vấn [Farmer Maggot](../F/Farmer_Maggot.md) về "Baggins", nhưng ông ta không hợp tác.<sup id="cite_ref-short_2-4" class="reference"><a href="#cite_note-short-2">[2]</a></sup> Khamûl cử người bạn đồng hành của mình tới [Overbourn Marshes](../O/Overbourn_Marshes.md) trong khi ông ta đi về phía [Cầu Brandywine](../B/Brandywine_Bridge.md).<sup id="cite_ref-RC164_1-3" class="reference"><a href="#cite_note-RC164-1">[1]</a></sup>
-    - Rời khỏi khu rừng, các hobbit thấy mình đã rẽ quá nhiều về phía nam; điều chỉnh hướng đi đến [Phà Bucklebury](../B/Bucklebury_Ferry.md), họ đến cánh đồng củ cải bên ngoài [khu đất](../B/Bamfurlong.md) của Maggot vào buổi chiều.<sup id="cite_ref-short_2-5" class="reference"><a href="#cite_note-short-2">[2]</a></sup>
-    - Sau bữa tối, Maggot đưa xe ngựa của mình chở những người Hobbit tới [Phà](../B/Bucklebury_Ferry.md). Họ gặp [Merry](../M/Meriadoc_Brandybuck.md) đang tìm kiếm họ.<sup id="cite_ref-short_2-6" class="reference"><a href="#cite_note-short-2">[2]</a></sup> Khamûl cũng đến [Phà Bucklebury](../B/Bucklebury_Ferry.md) nhưng đã quá muộn.<sup id="cite_ref-RC164_1-4" class="reference"><a href="#cite_note-RC164-1">[1]</a></sup>
-    - Chúng tới [Crickhollow](../C/Crickhollow.md) trong đêm. Frodo tiết lộ cho họ kế hoạch của mình nhưng chúng đã được biết đến. Trong đêm anh mơ về những cái cây ở [Rừng già](../O/Old_Forest.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
-    - [Gandalf](../G/Gandalf.md) vội vã hướng tới [The Shire](../T/The_Shire.md) trên [Shadowfax](../S/Shadowfax.md).
+    - Không tìm thấy Frodo, Khamûl triệu hồi một [Nazgûl](../N/Nazgûl.md) khác từ [Dol Guldur](../D/Dol_Guldur.md).<sup id="cite_ref-RC164_1-1" class="reference"><a href="#cite_note-RC164-1">[1]</a></sup> Hai tiếng kêu độc ác làm phiền những người Hobbit đang nghỉ ngơi.<sup id="cite_ref-short_2-3" class="reference"><a href="#cite_note-short-2">[2]</a></sup>
+    - Hai người Nazgûl đi về phía đông. Khamûl<sup id="cite_ref-RC164_1-2" class="reference"><a href="#cite_note-RC164-1">[1]</a></sup> thẩm vấn [Farmer Maggot](../F/Farmer_Maggot.md) về "Baggins", nhưng ông ta không hợp tác.<sup id="cite_ref-short_2-4" class="reference"><a href="#cite_note-short-2">[2]</a></sup> Khamûl cử người bạn đồng hành của mình tới [Overbourn Marshes](../O/Overbourn_Marshes.md) trong khi bản thân ông ta đi về phía [Cầu Brandywine](../B/Brandywine_Bridge.md).<sup id="cite_ref-RC164_1-3" class="reference"><a href="#cite_note-RC164-1">[1]</a></sup>
+    - Rời khỏi khu rừng, các hobbit thấy mình đã rẽ quá nhiều về phía nam; điều chỉnh hướng đi của mình theo [Bến phà Bucklebury](../B/Bucklebury_Ferry.md), họ đến cánh đồng củ cải bên ngoài [khu đất](../B/Bamfurlong.md) của Maggot vào buổi chiều.<sup id="cite_ref-short_2-5" class="reference"><a href="#cite_note-short-2">[2]</a></sup>
+    - Sau bữa tối, Maggot đưa xe ngựa của mình chở những người Hobbit tới [Phà](../B/Bucklebury_Ferry.md). Họ gặp [Merry](../M/Meriadoc_Brandybuck.md) đang tìm kiếm.<sup id="cite_ref-short_2-6" class="reference"><a href="#cite_note-short-2">[2]</a></sup> Khamûl cũng đến [Bến phà Bucklebury](../B/Bucklebury_Ferry.md) nhưng đã quá muộn.<sup id="cite_ref-RC164_1-4" class="reference"><a href="#cite_note-RC164-1">[1]</a></sup>
+    - Chúng tới [Crickhollow](../C/Crickhollow.md) trong đêm. Frodo tiết lộ cho họ kế hoạch của mình nhưng họ đã được biết đến. Trong đêm anh mơ về những cái cây ở [Khu Rừng Cổ](../O/Old_Forest.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+    - [Gandalf](../G/Gandalf.md) lao nhanh về phía [The Shire](../T/The_Shire.md) trên [Shadowfax](../S/Shadowfax.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.
 
 <span></span>

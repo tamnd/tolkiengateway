@@ -35,7 +35,7 @@ infobox:
 
 ## Nội dung {#Contents}
 
-- "[Viên ngọc quý của Arwen](../T/The_Jewel_of_Arwen.md)" của [Marion Zimmer Bradley](../M/Marion_Zimmer_Bradley.md)
+- "[Viên ngọc quý Arwen](../T/The_Jewel_of_Arwen.md)" của [Marion Zimmer Bradley](../M/Marion_Zimmer_Bradley.md)
 - "Hiệp hội, Hội nghị thường niên đầu tiên" của Jack Harness
 - "Hãy bay cao lên Nazgul, Ôi!" bài hát đạp xe của [Ted Johnstone](../T/Ted_Johnstone.md) và những người khác
 - "Chân dung Haiku" của Don Studebaker, Ted Johnstone và những người khác (bằng Tengwar và tiếng Anh)

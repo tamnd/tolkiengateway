@@ -13,7 +13,7 @@ categories:
   - "British businesses"
 ---
 
-**Victor Gollancz Limited** là nhà xuất bản truyện giả tưởng, khoa học viễn tưởng và nhại lại chúng ở Anh. Sau khi là một phần của [Houghton Mifflin](../H/Houghton_Mifflin.md) trong hầu hết những năm 1990, hiện nay nó là một phần của Nhóm Xuất bản Orion. *Gollancz list* của họ chứa các cuốn sách giả tưởng của các tác giả như <a class="extiw" href="http://en.wikipedia.org/wiki/Philip_K._Dick" title="wikipedia:Philip K. Dick">Philip K. Dick</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Terry_Pratchet" title="wikipedia:Terry Pratchet">Terry Pratchet</a> và <a class="extiw" href="http://en.wikipedia.org/wiki/Arthur_C._Clarke" title="wikipedia:Arthur C. Clarke">Arthur C. Clarke</a>.
+**Victor Gollancz Limited** là nhà xuất bản truyện giả tưởng, khoa học viễn tưởng và nhại lại chúng ở Anh. Sau khi trở thành một phần của [Houghton Mifflin](../H/Houghton_Mifflin.md) trong hầu hết những năm 1990, giờ đây nó là một phần của Nhóm Xuất bản Orion. *Gollancz list* của họ chứa các cuốn sách giả tưởng của các tác giả như <a class="extiw" href="http://en.wikipedia.org/wiki/Philip_K._Dick" title="wikipedia:Philip K. Dick">Philip K. Dick</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Terry_Pratchet" title="wikipedia:Terry Pratchet">Terry Pratchet</a> và <a class="extiw" href="http://en.wikipedia.org/wiki/Arthur_C._Clarke" title="wikipedia:Arthur C. Clarke">Arthur C. Clarke</a>.
 
 ## Ấn phẩm {#Publications}
 

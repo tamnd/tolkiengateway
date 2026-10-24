@@ -32,11 +32,11 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/B/Battlehosts.png.md"><img src="https://tolkiengateway.net/w/images/thumb/3/36/Battlehosts.png/320px-Battlehosts.png" decoding="async" loading="lazy" width="320" height="443" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/3/36/Battlehosts.png 1.5x" data-file-width="452" data-file-height="626"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>War of the Ring: Battlehosts</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../G/Games_Workshop.md" title="Games Workshop">Games Workshop</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/8_May.md" title="8 May">8 May</a> <a href="../_/2010.md" title="2010">2010</a><sup id="cite_ref-amazon_1-0" class="reference"><a href="#cite_note-amazon-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">80</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/978-1841549651" title="Special:BookSources/978-1841549651">978-1841549651</a></td></tr></tbody></table>
 
-<i><b>War of the Ring: Battlehosts</b></i> là phần bổ sung cho [Games Workshop](../G/Games_Workshop.md) *[The Lord of the Rings Strategy Battle Game](../T/The_Lord_of_the_Rings_Strategy_Battle_Game.md)* của.
+<i><b>Cuộc chiến Nhẫn: Battlehosts</b></i> là phần bổ sung cho [Games Workshop](../G/Games_Workshop.md) *[The Lord of the Rings Strategy Battle Game](../T/The_Lord_of_the_Rings_Strategy_Battle_Game.md)*.
 
 ## Từ nhà xuất bản {#From_the_publisher}
 
-Cuộc chiến nhẫn đã nhấn chìm vùng đất trong bóng tối. Đội quân của Con người, Yêu tinh và Người lùn đụng độ với vô số quân đoàn của Sauron. Đi đầu trong những đội quân này là những anh hùng và chiến binh nổi tiếng đã tập hợp lại để chống lại Chúa tể Hắc ám hoặc tiêu diệt nhân danh hắn. Chính nhờ hành động của những chiến binh này mà Cuộc chiến trên chiếc nhẫn và số phận của Trung Địa sẽ được quyết định.
+Cuộc chiến Nhẫn đã nhấn chìm vùng đất trong bóng tối. Đội quân Con Người, Tiên tộc và Người Lùn đụng độ với vô số quân đoàn Sauron. Đi đầu trong những đội quân này là những anh hùng và chiến binh nổi tiếng đã tập hợp lại để chống lại Chúa tể Bóng tối hoặc tiêu diệt nhân danh hắn. Chính nhờ hành động của những chiến binh này mà Cuộc chiến trên chiếc nhẫn và số phận của Trung Địa sẽ được quyết định.
 
 Cuốn sách mở rộng dài 80 trang này chứa tất cả các quy tắc, thông tin và nguồn cảm hứng mà bạn cần để mang những nhóm chiến binh mang tính biểu tượng nhất từ ​​thần thoại *The Lord of the Rings* lên bàn của bạn. Ngoài ra còn có Vận may và Số phận mới, cũng như lời khuyên về cách sử dụng chiến cơ của bạn trong các tình huống khác, trò chơi được liên kết và các cuộc chạm trán nổi tiếng.
 
@@ -44,7 +44,7 @@ Bạn phải có một bản sao *[War of The Ring](<War_of_the_Ring_(2009_book)
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://boardgamegeek.com/boardgameexpansion/71212/war-of-the-ring-battlehosts" rel="noreferrer noopener" target="_blank">War of the Ring: Battlehosts</a> tại <a class="external text" href="http://boardgamegeek.com/" rel="noreferrer noopener" target="_blank">BoardGameGeek</a>
+- <a class="external text" href="http://boardgamegeek.com/boardgameexpansion/71212/war-of-the-ring-battlehosts" rel="noreferrer noopener" target="_blank">Cuộc chiến Nhẫn: Các chiến binh</a> tại <a class="external text" href="http://boardgamegeek.com/" rel="noreferrer noopener" target="_blank">BoardGameGeek</a>
 
 <span></span>
 

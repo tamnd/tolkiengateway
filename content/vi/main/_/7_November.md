@@ -69,11 +69,11 @@ Sự kiện xảy ra vào ngày 7 tháng 11
 - **[1954](1954.md)** - Tác giả và học giả [Guy Gavriel Kay](../G/Guy_Gavriel_Kay.md) ra đời.
 - **[1964](1964.md)** - Tập thứ năm của [Princess](../P/Princess.md)-serialization của *[The Hobbit](../T/The_Hobbit.md)* được xuất bản.
 - **[1966](1966.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 290a](../L/Letter_290a.md).
-- **[1969](1969.md)** - [Vera Chapman](../V/Vera_Chapman.md) công bố thành lập [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) trong <i><a class="extiw" href="http://en.wikipedia.org/wiki/New_Statesman" title="wikipedia:New Statesman">Chính khách mới</a></i>.
+- **[1969](1969.md)** - [Vera Chapman](../V/Vera_Chapman.md) công bố thành lập [Hội Tolkien](../T/The_Tolkien_Society.md) tại <i><a class="extiw" href="http://en.wikipedia.org/wiki/New_Statesman" title="wikipedia:New Statesman">New Statesman</a></i>.
 
 ## Trong Arda {#In_Arda}
 
 - [F.A.](../F/First_Age.md) [495](../F/First_Age_495.md):
-    - [Tuor](../T/Tuor.md), được hướng dẫn bởi [Voronwë](../V/Voronwë.md), đi đến [Gondolin](../G/Gondolin.md) để chuyển thông điệp của [Ulmo](../U/Ulmo.md) tới [Turgon](../T/Turgon.md).
+    - [Tuor](../T/Tuor.md), được hướng dẫn bởi [Voronwë](../V/Voronwë.md), di chuyển đến [Gondolin](../G/Gondolin.md) để chuyển thông điệp của [Ulmo](../U/Ulmo.md) tới [Turgon](../T/Turgon.md).
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi tại [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).
+    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi ở [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).

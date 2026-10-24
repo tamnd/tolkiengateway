@@ -39,7 +39,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mythlore_126.gif.md"><img src="https://tolkiengateway.net/w/images/a/a9/Mythlore_126.gif" decoding="async" loading="lazy" width="225" height="282" class="mw-file-element" data-file-width="225" data-file-height="282"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mythlore 126</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../J/Janet_Brennan_Croft.md" title="Janet Brennan Croft">Janet Brennan Croft</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Spring/Summer <a href="../_/2015.md" title="2015">2015</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">192</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mythlore_125.md" title="Mythlore 125">Mythlore 125</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mythlore_127.md" title="Mythlore 127">Mythlore 127</a></td></tr></tbody></table>
 
-<b><i>Thần thoại</i> 126</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol33/iss2/" rel="noreferrer noopener" target="_blank">Tập 33, Số 2</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
+<b><i>Mythlore</i> 126</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol33/iss2/" rel="noreferrer noopener" target="_blank">Tập 33, Số 2</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
 
 ## Nội dung {#Contents}
 
@@ -58,17 +58,17 @@ infobox:
 #### Tính năng {#Features}
 
 - Croft, Janet Brennan. Biên tập.
-- Ghi chú: Nancy Martsch, Janet Brennan Croft, Edith Crowe và Richard West.
+- Ghi chú: Nancy Martsch, Janet Brennan Croft, Edith Crowe và Richard Phương Tây.
 
 #### Đánh giá {#Reviews}
 
 - *Christianity and the Detective Story.* Biên tập. Anya Morlan và Walter Raubicheck. Được đánh giá bởi Melody Green.
-- *Cuộc phiêu lưu của pháp sư: Homer, Tolkien và trải nghiệm nhìn xa trông rộng* Robert Tindall với Susana Bustos. Lời nói đầu của John Perkins. Được đánh giá bởi Emily E. Auger.
+- *Cuộc phiêu lưu của pháp sư: Homer, Tolkien và trải nghiệm có tầm nhìn* Robert Tindall với Susana Bustos. Lời nói đầu của John Perkins. Được đánh giá bởi Emily E. Auger.
 - *Có được khuôn mặt: Chủ nghĩa lãng mạn của C.S. Lewis.* James Prothero và Donald T. Williams. Được đánh giá bởi Crystal Hurd.
 - *Từ A-Z của C.S. Lewis: Bách khoa toàn thư về cuộc đời, tư tưởng và bài viết của ông.* Colin Duriez. Được đánh giá bởi Andrew Stout.
 - *Dưới lòng thương xót: Charles Williams & Chén Thánh.* Robert Peirano. Được đánh giá bởi Eric Rauscher.
 - *Tolkien và những người theo chủ nghĩa hiện đại: Phản ứng văn học trước những ngày mới đen tối của thế kỷ 20.* Theresa Freda Nicolay. Được đánh giá bởi Robert T. Tally Jr.
-- *Tolkien tại trường Cao đẳng Exeter: Cách một sinh viên đại học Oxford tạo ra Trung Địa.* John Garth. Được đánh giá bởi Mike Foster
+- *Tolkien tại Exeter College: Cách một sinh viên Oxford tạo ra Trung Địa.* John Garth. Được đánh giá bởi Mike Austin Foster
 - *Fastitocalon: Nghiên cứu về thuyết huyền ảo từ cổ đại đến hiện đại.* Tổng biên tập Thomas Honegger và Fanfan Chen. Được đánh giá bởi Janet Brennan Croft.
 - *TOLKIEN Studies XI* Biên tập viên: Michael D.C. Drout, Verlyn Flieger và David Bratman. Được đánh giá bởi Janet Brennan Croft.
 

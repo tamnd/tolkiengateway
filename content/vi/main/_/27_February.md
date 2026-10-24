@@ -68,7 +68,7 @@ Sự kiện xảy ra vào ngày 27 tháng 2.
 
 - **[1917](1917.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) phải đối mặt với Hội đồng Y khoa thứ ba của mình, và một lần nữa thời gian nghỉ phép của ông lại được gia hạn.
 - **[1930](1930.md)** - [Joseph Wright](../J/Joseph_Wright.md), cựu gia sư của Tolkien, qua đời.
-- **[1984](1984.md)** - Con trai thứ hai của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), [Michael Tolkien](../M/Michael_Tolkien.md), qua đời.
+- **[1984](1984.md)** - Con trai thứ hai của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) là [Michael Tolkien](../M/Michael_Tolkien.md) qua đời.
 - **[2004](2004.md)** - [Lars Gustafsson](../L/Lars_Gustafsson.md) viết "<a class="external text" href="https://www.expressen.se/kultur/professorn-fick-en-ide/" rel="noreferrer noopener" target="_blank">Giáo sư fick en idé</a>".
 - **[2014](2014.md)** - *[The Fall of Arthur](../T/The_Fall_of_Arthur.md)* được xuất bản dưới dạng bìa mềm.
 - **[2014](2014.md)** - *[Farmer Giles of Ham](../F/Farmer_Giles_of_Ham.md)* phiên bản bỏ túi được xuất bản.
@@ -77,7 +77,7 @@ Sự kiện xảy ra vào ngày 27 tháng 2.
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - Cuộc giao tranh của lũ Orc, [Grishnákh](../G/Grishnákh.md) rời đi. [Pippin](../P/Peregrin_Took.md) cắt dây và đánh rơi [trâm cài](../E/Elven_brooches.md).
-    - Nhóm [Ba thợ săn](../T/Three_Hunters.md) đến [Bức tường phía Đông của Rohan](../E/East_Wall_of_Rohan.md) (vách đá phía tây của [Emyn Muil](../E/Emyn_Muil.md)) vào lúc bình minh và tìm thấy chiếc trâm cài.
+    - Orc giao tranh, [Grishnákh](../G/Grishnákh.md) rời đi. [Pippin](../P/Peregrin_Took.md) cắt dây và đánh rơi [trâm cài](../E/Elven_brooches.md).
+    - [Ba Thợ Săn](../T/Three_Hunters.md) đến [phương Đông Bức tường của Rohan](../E/East_Wall_of_Rohan.md) (vách đá phía tây của [Emyn Muil](../E/Emyn_Muil.md)) vào lúc mặt trời mọc và tìm thấy chiếc trâm cài.
     - Frodo và Sam ngủ tại một vách đá ở phía đông Emyn Muil.
-    - [Éomer](Éomer.md) chống lại mệnh lệnh của [Théoden](../T/Théoden.md) khởi hành từ [Eastfold](../E/Eastfold.md) vào khoảng nửa đêm để truy đuổi [Orc](../O/Orcs.md).
+    - [Éomer](Éomer.md) theo lệnh của [Théoden](../T/Théoden.md) khởi hành từ [Eastfold](../E/Eastfold.md) vào khoảng nửa đêm để truy đuổi [Orc](../O/Orcs.md).

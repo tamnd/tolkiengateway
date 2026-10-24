@@ -35,12 +35,12 @@ infobox:
 - Biên tập, Sự kiện thiên thể, Tin tức và Ghi chú
 - Bài đánh giá tạp chí
 Bài đánh giá - I-Lam na-Ngoldathon (hoặc \[complete\] Gnomish Lexicon) của Lisa Star
-- Thư gửi Biên tập viên từ Andreas Bigger (về tên Tiên của Helge), [David Doughan](../D/David_Doughan.md) (về các cuộc tranh cãi ở Nga), [Nancy Martsch](../N/Nancy_Martsch.md) (về biến cách Plotz et alia) và [Rhona Beare](../R/Rhona_Beare.md) (trên những cánh cửa gỗ sồi)
+- Thư gửi Biên tập viên từ Andreas Bigger (theo tên Elvish của Helge), [David Doughan](../D/David_Doughan.md) (về các cuộc tranh cãi ở Nga), [Nancy Martsch](../N/Nancy_Martsch.md) (về biến thể Plotz et alia) và [Rhona Beare](../R/Rhona_Beare.md) (trên cánh cửa gỗ sồi)
 - Nhận xét về đại từ quan hệ (bài viết trong số trước), từ [Ivan Derzhanski](../I/Ivan_Derzhanski.md), Lisa Star và Maciej Garbowski
-- Cuộn giấy về các vị vua của Númenor của Lisa Star (chi tiết về văn bản Quenya bằng tengwar)
-- Bình luận về [Bài hát của Fíriel](../F/Fíriel's_song.md) của [David Salo](../D/David_Salo.md) (phân tích chi tiết văn bản Quenya của Tolkien từ Con đường đã mất)
-- Luật chơi, được dịch bởi Sergey Bratus (trích từ Luật lệ của "Trò chơi Hobbitish" trình chiếu ở Moscow)
-- The Ever-Horned One của Lisa Star (tăng cường và lặp lại bằng tiếng Elvish và ngôn ngữ Ấn-Âu)
-- Chữ khắc Tengwar từ D & D (không thể đọc được)
+- Cuộn giấy của các vị vua Númenor của Lisa Star (chi tiết về văn bản Quenya trong tengwar)
+- Bình luận về bài hát của [Fíriel](../F/Fíriel's_song.md) của [David Salo](../D/David_Salo.md) (phân tích chi tiết về văn bản Quenya của Tolkien từ Lost Road)
+- Luật chơi, được dịch bởi Sergey Bratus (trích từ Luật của "Hobbitish Trò chơi" chơi ở Moscow)
+- The Ever-Horned One của Lisa Star (tăng cường và lặp lại bằng Elvish và các ngôn ngữ Ấn-Âu)
+- Tengwar Chữ khắc từ D & D (không đọc được)
 
 <center><a href="Tyalië_Tyelelliéva_6.md" title="Tyalië Tyelelliéva 6">Previous Issue</a> <b>||</b> <a href="Tyalië_Tyelelliéva_8.md" title="Tyalië Tyelelliéva 8">Next Issue</a></center>

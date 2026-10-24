@@ -44,31 +44,31 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Sub-creating_Arda.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/36/Sub-creating_Arda.jpg/320px-Sub-creating_Arda.jpg" decoding="async" loading="lazy" width="320" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/36/Sub-creating_Arda.jpg/480px-Sub-creating_Arda.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/3/36/Sub-creating_Arda.jpg/640px-Sub-creating_Arda.jpg 2x" data-file-width="907" data-file-height="1360"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Sub-creating Arda<br/><small>World-building in J.R.R. Tolkien&#39;s Works, its Precursors, and Legacies</small></span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../D/Dimitra_Fimi.md" title="Dimitra Fimi">Dimitra Fimi</a> and <a class="mw-redirect" href="../T/Thomas_Honegger.md" title="Thomas Honegger">Thomas Honegger</a></td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="../J/Jay_Johnstone.md" title="Jay Johnstone">Jay Johnstone</a> (cover art)</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../W/Walking_Tree_Publishers.md" title="Walking Tree Publishers">Walking Tree Publishers</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/25_February.md" title="25 February">25 February</a> <a href="../_/2019.md" title="2019">2019</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">464</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/978-3-905703-40-5" title="Special:BookSources/978-3-905703-40-5">978-3-905703-40-5</a></td></tr><tr><th scope="row" class="tg-infobox-label">Series</th><td class="tg-infobox-data"><a href="../C/Cormarë_Series.md" title="Cormarë Series">Cormarë Series</a></td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="../M/Music_in_Tolkien&#39;s_Work_and_Beyond.md" title="Music in Tolkien&#39;s Work and Beyond">Music in Tolkien&#39;s Work and Beyond</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="../_/%2522Something_Has_Gone_Crack%2522.md" title="&#34;Something Has Gone Crack&#34;">&#34;Something Has Gone Crack&#34;</a></td></tr></tbody></table>
 
-<i><b>Tác giả phụ Arda: Xây dựng thế giới trong các tác phẩm của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, các tiền thân và di sản của nó</b></i> là tập hợp các bài tiểu luận do [Dimitra Fimi](../D/Dimitra_Fimi.md) và [Thomas Honegger](../T/Thomas_Honegger.md) biên tập. Nó được xuất bản ở vị trí thứ 40 trong *[Cormarë Series](../C/Cormarë_Series.md)*.
+<i><b>Sáng tạo phụ Arda: Xây dựng thế giới trong các tác phẩm của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, các tiền thân và di sản của nó</b></i> là tập hợp các bài tiểu luận do [Dimitra Fimi](../D/Dimitra_Fimi.md) và [Thomas Honegger](../T/Thomas_Honegger.md) biên tập. Nó được xuất bản ở vị trí thứ 40 trong *[Cormarë Series](../C/Cormarë_Series.md)*.
 
 ## Nội dung {#Contents}
 
 - Lời giới thiệu của [Dimitra Fimi](../D/Dimitra_Fimi.md) và Thomas Honegger
 - "Về 'Phụ' trong 'Sáng tạo phụ': Hành động tạo ra bên dưới" của [Mark J.P. Wolf](../M/Mark_J.P._Wolf.md)
 - "Một đôi mắt: Tập trung và xây dựng thế giới" của Allan Turner
-- "Xây dựng thế giới và thần thoại ở Tolkien và văn học giả tưởng hậu Tolkien" của Massimiliano Izzo
+- "Xây dựng thế giới và thần thoại trong Tolkien và Văn học giả tưởng hậu Tolkien" của Massimiliano Izzo
 - "Vượt quá sự buông thả bản thân tuyệt vời: Giới hạn thẩm mỹ đối với việc xây dựng thế giới" của Péter Kristóf Makai
 - "Các mẫu thiết kế xây dựng thế giới trong công trình của J.R.R. Tolkien" của N. Trevor Brierly
-- "Âm nhạc của Ilu: Sự sáng tạo huyền thoại sáng tạo của Tolkien" của [John Garth](../J/John_Garth.md)
-- "Không có phép thuật ở Tolkien: Chống lại các tiêu chí đại diện của chủ nghĩa hiện thực" của [Gergely Nagy](../G/Gergely_Nagy.md)
+- "Âm nhạc của Ilu: Sự sáng tạo huyền thoại về sự sáng tạo của Tolkien" của [John Garth](../J/John_Garth.md)
+- "Không có phép thuật trong Tolkien: Chống lại các tiêu chí đại diện của chủ nghĩa hiện thực" của [Gergely Nagy](../G/Gergely_Nagy.md)
 - "Tolkien the Tinkerer: Xây dựng thế giới và kể chuyện" của [Renée Vink](../R/Renée_Vink.md)
-- "Sáng tác dưới dạng khám phá: Phát triển hư cấu trong Chúa tể của những chiếc nhẫn của J.R.R. Tolkien" của Jonathan Nauman
+- "Sáng tác dưới dạng khám phá: Phát triển hư cấu trong J.R.R. Tolkien's The Lord of the Rings" của Jonathan Nauman
 - "Địa hình thời gian: Lập bản đồ các tác động địa chất và nhân học của thời gian trong Legendarium của J.R.R. Tolkien" của Anahit Behrooz
-- "Sundering Seas và Watchers in the Water: Nước như một yếu tố lật đổ ở Trung Địa" của Robin Markus Auer
-- "Lời bài hát trên những vùng đất đã mất: Xây dựng những nơi đã mất thông qua thơ ca trong Chúa tể của những chiếc nhẫn của J.R.R. Tolkien" của Michaela Hausmann
-- "Người miền núi ở Trung địa: Sinh thái và nguyên thủy" của Hamish Williams
-- "*Then Smaug Spoke*: Xây dựng điều kỳ diệu thông qua đối thoại trong câu chuyện vũ trụ của Tolkien" của Timo Lothmann, Arndt Heilmann, Sven Hintzen
+- "Sundering Seas và Watchers in the Water: Nước như một yếu tố lật đổ trong Trung Địa" của Robin Markus Auer
+- "Lời bài hát trên những vùng đất đã mất: Xây dựng những nơi đã mất thông qua thơ trong J.R.R. Tolkien's The Lord of the Rings" của Michaela Hausmann
+- "Người miền núi ở Trung Địa: Sinh thái và nguyên thủy" của Hamish Williams
+- "*Then Smaug Spoke*: Về việc xây dựng điều kỳ diệu thông qua đối thoại trong Câu chuyện vũ trụ của Tolkien" của Timo Lothmann, Arndt Heilmann, Sven Hintzen
 - "Các hiện vật và sự đắm chìm trong công trình xây dựng thế giới của Tolkien và Brontës" của Maureen F. Mann
 - "Tác phẩm phụ dưới bất kỳ tên nào khác: Nghệ sĩ và Chúa vào đầu thế kỷ 20" của [Bradford Lee Eden](../B/Bradford_Lee_Eden.md)
-- "Thần thoại cho Ba Lan: Loạt phim giả tưởng về phù thủy của Andrzej Sapkowski như một tác phẩm phụ của người Tolkienian" của [Kristine Larsen](../K/Kristine_Larsen.md)
+- "Thần thoại cho Ba Lan: Loạt truyện giả tưởng về phù thủy của Andrzej Sapkowski như một tác phẩm phụ của người Tolkienian" của [Kristine Larsen](../K/Kristine_Larsen.md)
 - "Hơn cả câu chuyện: Vai trò của các đoạn văn trong việc xây dựng thế giới của Austin Tappan Wright, J.R.R. Tolkien và Ursula K. Le Guin" của [Andrew Higgins](../A/Andrew_Higgins.md)
 - "Thế giới thần tiên của Michael Swanwick" của [Tom Shippey](../T/Tom_Shippey.md)
-- "Sự vắng mặt của các vị thần và sự vắng mặt của Chúa: Khung cảnh tâm linh của Trung Địa của J.R.R. Tolkien và Westeros của George R.R. Martin" của [Łukasz Neubauer](../_/Łukasz_Neubauer.md)
+- "Sự vắng mặt của các vị thần và sự vắng mặt của Chúa: Phong cảnh tâm linh của J.R.R. Tolkien Trung Địa và Westeros của George R.R. Martin" của [Łukasz Neubauer](../_/Łukasz_Neubauer.md)
 
 ## Từ nhà xuất bản {#From_the_publisher}
 

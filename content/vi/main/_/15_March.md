@@ -78,15 +78,15 @@ Sự kiện xảy ra vào ngày 15 tháng 3.
 - [T.A.](../T/Third_Age.md) [2510](../T/Third_Age_2510.md):
     - [Borondir](../B/Borondir.md) đang trên đường tìm kiếm [Éothéod](Éothéod.md).
 - [T.A.](../T/Third_Age.md) [2941](../T/Third_Age_2941.md):
-    - [Gandalf](../G/Gandalf.md) gặp [Thorin](../T/Thorin.md) tại [ngựa chồm](../T/The_Prancing_Pony.md) và họ nghĩ ra kế hoạch loại bỏ [Erebor](../L/Lonely_Mountain.md) của [Smaug](../S/Smaug.md).
+    - [Gandalf](../G/Gandalf.md) gặp [Thorin](../T/Thorin.md) tại [the Prancing Pony](../T/The_Prancing_Pony.md) và họ nghĩ ra kế hoạch loại bỏ [Erebor](../L/Lonely_Mountain.md) [Smaug](../S/Smaug.md).
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - Vào sáng sớm, [Vua phù thủy](../W/Witch-king.md) đã phá vỡ [Cánh cổng](../G/Great_Gate_of_Minas_Tirith.md) của [Minas Tirith](../M/Minas_Tirith.md).
-    - [Denethor](../D/Denethor.md) tự thiêu trên giàn thiêu. [Faramir](../F/Faramir.md) được [Gandalf](../G/Gandalf.md) và [Beregond](../B/Beregond.md) giải cứu và đưa đến [Houses of Healing](../H/Houses_of_Healing.md).
-    - Sừng của [Rohirrim](../R/Rohirrim.md) vang vọng ở hai bên [Mindolluin](../M/Mindolluin.md) lúc gà gáy.
-    - [Trận chiến trên cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md):
+    - Sáng sớm [Vua Phù thủy](../W/Witch-king.md) đã phá [Cổng](../G/Great_Gate_of_Minas_Tirith.md) của [Minas Tirith](../M/Minas_Tirith.md).
+    - [Denethor](../D/Denethor.md) tự thiêu trên giàn thiêu. [Faramir](../F/Faramir.md) được [Gandalf](../G/Gandalf.md) và [Beregond](../B/Beregond.md) giải cứu và đưa đến [Nhà chữa bệnh](../H/Houses_of_Healing.md).
+    - Sừng của [Rohirrim](../R/Rohirrim.md) vang vọng ở hai bên [Mindolluin](../M/Mindolluin.md) khi gà gáy.
+    - [Trận chiến trên Cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md):
         - Cái chết của [Théoden](../T/Théoden.md).
-        - [Éowyn](Éowyn.md) tiêu diệt [Vua phù thủy](../W/Witch-king.md) với sự hỗ trợ của [Meriadoc Brandybuck](../M/Meriadoc_Brandybuck.md).
-        - [Aragorn](../A/Aragorn.md) đến [chiến trường](../P/Pelennor_Fields.md) và nâng cao [tiêu chuẩn của Elendil](../S/Standard_of_Elendil.md) do [Arwen](../A/Arwen.md) dệt nên.
+        - [Éowyn](Éowyn.md) tiêu diệt [Vua Phù thủy](../W/Witch-king.md) với sự hỗ trợ của [Meriadoc Brandybuck](../M/Meriadoc_Brandybuck.md).
+        - [Aragorn](../A/Aragorn.md) đến [chiến trường](../P/Pelennor_Fields.md) và nâng cao [tiêu chuẩn của Elendil](../S/Standard_of_Elendil.md) được dệt bởi [Arwen](../A/Arwen.md).
     - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) thoát khỏi [Tháp Cirith Ungol](../T/Tower_of_Cirith_Ungol.md) và bắt đầu cuộc hành trình về phía bắc dọc theo [Morgai](../M/Morgai.md).
-    - Trận chiến [dưới tán cây](../B/Battle_under_the_trees.md) ở [Mirkwood](../M/Mirkwood.md) diễn ra. [Thranduil](../T/Thranduil.md) đẩy lùi kẻ thù khỏi [Dol Guldur](../D/Dol_Guldur.md).
+    - Trận chiến [dưới tán cây](../B/Battle_under_the_trees.md) ở [Mirkwood](../M/Mirkwood.md) diễn ra. [Thranduil](../T/Thranduil.md) đẩy lùi kẻ địch từ [Dol Guldur](../D/Dol_Guldur.md).
     - [cuộc tấn công](../A/Assaults_on_Lothlórien.md) thứ hai vào [Lothlórien](../L/Lothlórien.md).

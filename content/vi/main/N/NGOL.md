@@ -16,15 +16,15 @@ categories:
 
 ## Công cụ phái sinh {#Derivatives}
 
-- [Quendian Nguyên Thủy](../P/Primitive_Quendian.md): *ñgolodō* ("Người Thông Thái")<sup id="cite_ref-WJC_1-1" class="reference"><a href="#cite_note-WJC-1">[1]</a></sup> hoặc *ngolodō*<sup id="cite_ref-P4k_2-0" class="reference"><a href="#cite_note-P4k-2">[2]</a></sup>
+- [Primitive Quendian](../P/Primitive_Quendian.md): *ñgolodō* ("Người Thông Thái")<sup id="cite_ref-WJC_1-1" class="reference"><a href="#cite_note-WJC-1">[1]</a></sup> hoặc *ngolodō*<sup id="cite_ref-P4k_2-0" class="reference"><a href="#cite_note-P4k-2">[2]</a></sup>
     - [Quenya](../Q/Quenya.md): *[Ñoldo](Noldor.md)*,<sup id="cite_ref-WJC_1-2" class="reference"><a href="#cite_note-WJC-1">[1]</a></sup> *noldo*<sup id="cite_ref-P4k_2-1" class="reference"><a href="#cite_note-P4k-2">[2]</a></sup>
     - [Telerin](../T/Telerin.md): *Goldo*<sup id="cite_ref-WJC_1-3" class="reference"><a href="#cite_note-WJC-1">[1]</a></sup>
-    - [Tiếng Sindarin](../S/Sindarin.md): *[Golodh](../G/Golodh.md) (Ngolodh)*<sup id="cite_ref-WJC_1-4" class="reference"><a href="#cite_note-WJC-1">[1]</a></sup>
+    - [Sindarin](../S/Sindarin.md): *[Golodh](../G/Golodh.md) (Ngolodh)*<sup id="cite_ref-WJC_1-4" class="reference"><a href="#cite_note-WJC-1">[1]</a></sup>
 
-- [Quenya](../Q/Quenya.md): *ñolé* ("nghiên cứu lâu dài (về bất kỳ môn học nào)")<sup id="cite_ref-WJC_1-5" class="reference"><a href="#cite_note-WJC-1">[1]</a></sup> hoặc *ñólë* ("truyền thuyết, kiến thức");<sup id="cite_ref-P4k_2-2" class="reference"><a href="#cite_note-P4k-2">[2]</a></sup> *iñgole* ("truyền thuyết");<sup id="cite_ref-WJC_1-6" class="reference"><a href="#cite_note-WJC-1">[1]</a></sup> *ingolmo* ("loremaster")<sup id="cite_ref-WJC_1-7" class="reference"><a href="#cite_note-WJC-1">[1]</a></sup>
+- [Quenya](../Q/Quenya.md): *ñolé* ("nghiên cứu lâu dài (bất kỳ môn học nào)")<sup id="cite_ref-WJC_1-5" class="reference"><a href="#cite_note-WJC-1">[1]</a></sup> hoặc *ñólë* ("truyền thuyết, kiến thức");<sup id="cite_ref-P4k_2-2" class="reference"><a href="#cite_note-P4k-2">[2]</a></sup> *iñgole* ("truyền thuyết");<sup id="cite_ref-WJC_1-6" class="reference"><a href="#cite_note-WJC-1">[1]</a></sup> *ingolmo* ("loremaster")<sup id="cite_ref-WJC_1-7" class="reference"><a href="#cite_note-WJC-1">[1]</a></sup>
     - [Telerin](../T/Telerin.md): *góle, engole*
-    - [Tiếng Sindarin](../S/Sindarin.md): *[gûl](../G/Gûl.md)*
-    - [Bài phát biểu của người da đen](../B/Black_Speech.md): *[gûl](../G/Gûl.md)*
+    - [Sindarin](../S/Sindarin.md): *[gûl](../G/Gûl.md)*
+    - [Hắc Ngữ](../B/Black_Speech.md): *[gûl](../G/Gûl.md)*
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 

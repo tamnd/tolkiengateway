@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien studies"
 ---
 
-Chuyển hướng đến [nghiên cứu Tolkien](Tolkien_studies.md).
+Chuyển hướng tới [Tolkien nghiên cứu](Tolkien_studies.md).

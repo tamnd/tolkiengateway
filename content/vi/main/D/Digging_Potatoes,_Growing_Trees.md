@@ -36,7 +36,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/D/Digging_Potatoes,_Growing_Trees.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/1/13/Digging_Potatoes%2C_Growing_Trees.jpg/320px-Digging_Potatoes%2C_Growing_Trees.jpg" decoding="async" loading="lazy" width="320" height="462" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/1/13/Digging_Potatoes%2C_Growing_Trees.jpg 1.5x" data-file-width="346" data-file-height="500"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Digging Potatoes, Growing Trees</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../H/Helen_Armstrong.md" title="Helen Armstrong">Helen Armstrong</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/1997.md" title="1997">1997</a> (Volume 1)<br/><a href="../_/1998.md" title="1998">1998</a> (Volume 2)<br/><a href="../_/2001.md" title="2001">2001</a> (Volume 3)</td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback booklet</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">60 (Volume 1)<br/>60 (Volume 2)<br/>52 (Volume 3)</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0-905520-08-4" title="Special:BookSources/0-905520-08-4">0-905520-08-4</a> (Volume 1)<br/><a href="https://tolkiengateway.net/wiki/Special:BookSources/0-905520-12-2" title="Special:BookSources/0-905520-12-2">0-905520-12-2</a> (Volume 2)<br/><a href="https://tolkiengateway.net/wiki/Special:BookSources/0-905520-13-0" title="Special:BookSources/0-905520-13-0">0-905520-13-0</a> (Volume 3)</td></tr><tr><th scope="row" class="tg-infobox-label">Series</th><td class="tg-infobox-data"><a href="../P/Peter_Roe_Memorial_Fund.md" title="Peter Roe Memorial Fund">Peter Roe Memorial Fund</a></td></tr></tbody></table>
 
-<i><b>Đào khoai tây, trồng cây</b></i> là tập hợp các bài phát biểu sau bữa tối được tổ chức tại Bữa tối hàng năm của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md). Đã có ba tập *Digging Potatoes, Growing Trees* bao gồm các bài phát biểu từ năm 1980 đến năm 2000. *Digging Potatoes, Growing Trees* đã được [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) xuất bản dưới dạng tập 5, 6 và 11 trong bộ [Quỹ tưởng niệm Peter Roe](../P/Peter_Roe_Memorial_Fund.md).
+<i><b>Đào khoai, trồng cây</b></i> là tập hợp các bài phát biểu sau bữa tối được tổ chức tại Bữa tối hàng năm của [Hội Tolkien](../T/The_Tolkien_Society.md). Đã có ba tập *Digging Potatoes, Growing Trees* bao gồm các bài phát biểu từ năm 1980 đến năm 2000. *Digging Potatoes, Growing Trees* đã được [Hội Tolkien](../T/The_Tolkien_Society.md) xuất bản thành tập 5, 6 và 11 trong bộ [Quỹ tưởng niệm Peter Roe](../P/Peter_Roe_Memorial_Fund.md).
 
 ## Tóm tắt {#Synopsis}
 
@@ -47,25 +47,25 @@ infobox:
 
 ## Tập 1 {#Volume_1}
 
-- [1980](../_/1980.md): [Tom Shippey](../T/Tom_Shippey.md), "Cảm hứng và phát minh, hay Nơi Tolkien mắc kẹt"
-- [1983](../_/1983.md): [Tom Shippey](../T/Tom_Shippey.md), "...Tôi nghĩ đến sự kiện Zeebrugge mà không ai viết về nó cả..."
+- [1980](../_/1980.md): [Tom Shippey](../T/Tom_Shippey.md), "Cảm hứng và phát minh, hay Nơi Tolkien Bị mắc kẹt"
+- [1983](../_/1983.md): [Tom Shippey](../T/Tom_Shippey.md), "...Tôi nghĩ đến sự việc ở Zeebrugge mà không ai viết về nó cả..."
 - [1986](../_/1986.md): Geraldine Harris, "...'Trồng cây' trong khi lẽ ra tôi phải 'đào khoai'..."
 
 ## Tập 2 {#Volume_2}
 
-- [1990](../_/1990.md): [Rayner Unwin](../R/Rayner_Unwin.md), "'Còn bao nhiêu tập nữa trong [bộ](../T/The_History_of_Middle-earth.md) này?' Tôi không biết, [Christopher](../C/Christopher_Tolkien.md) không biết"
+- [1990](../_/1990.md): [Rayner Unwin](../R/Rayner_Unwin.md), "'Bộ [bộ này](../T/The_History_of_Middle-earth.md) này còn bao nhiêu tập nữa?' Tôi không biết, [Christopher](../C/Christopher_Tolkien.md) không biết"
 - [1991](../_/1991.md): [Tom Shippey](../T/Tom_Shippey.md), "Những người này có điểm gì chung? Có một điều... họ đều đã bị bắn"
 - [1992](../_/1992.md): [Colin Duriez](../C/Colin_Duriez.md), "'Nghệ thuật đã được kiểm chứng...' Tình bạn của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và [C.S. Lewis](../C/C.S._Lewis.md)"
-- [1995](../_/1995.md): [Joan Anne Tolkien](../T/Tolkien_Family.md), "...đã hỏi nhiều lần - và điều đó vẫn làm tôi ngạc nhiên - 'Bạn có biết ông của mình không?'"
+- [1995](../_/1995.md): [Joan Anne Tolkien](../T/Tolkien_Family.md), "...đã hỏi nhiều lần - và điều đó vẫn làm tôi ngạc nhiên - 'Con có biết ông của con không?'"
 - [1996](../_/1996.md): [René van Rossenberg](../R/René_van_Rossenberg.md), "...Khi tôi tưởng tượng ra [The Shire](../T/The_Shire.md), tôi thấy những con đê, cối xay gió, những cánh đồng hoa tulip hình chữ nhật"
-- [1997](../_/1997.md): [Colin Duriez](../C/Colin_Duriez.md), "Tolkien và miền Tây cổ"
+- [1997](../_/1997.md): [Colin Duriez](../C/Colin_Duriez.md), "Tolkien và Cái Cũ Phương Tây"
 
 ## Tập 3 {#Volume_3}
 
 - [1995](../_/1995.md): Charles A. Coulombe, "Đạo đức của việc trốn thoát"
-- [1998](../_/1998.md): [Michael Tolkien](../M/Michael_George_Tolkien.md), "Eden, Fall, Exile and Beyond"
-- [1999](../_/1999.md): Michael Scott Rohan, "Dù là do di truyền hay văn hóa hay tôn giáo, Tolkien đều yêu thích âm nhạc"
-- [2000](../_/2000.md): Patrick Curry, "Về người Hobbit và Yêu tinh: hoặc Lại là Took và Baggins"
+- [1998](../_/1998.md): [Michael Tolkien](../M/Michael_George_Tolkien.md), "Eden, Fall, Exile và Beyond"
+- [1999](../_/1999.md): Michael Scott Rohan, "Dù là di truyền hay văn hóa hay tôn giáo, Tolkien đều yêu thích âm nhạc"
+- [2000](../_/2000.md): Patrick Curry, "Bật Hobbit và Tiên tộc: hoặc Lấy và Baggins Lại"
 
 <br clear="all"/>
 

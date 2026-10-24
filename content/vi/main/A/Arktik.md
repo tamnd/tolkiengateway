@@ -19,19 +19,19 @@ langlinks:
     url: "https://kontu.wiki/Arktin_kieli"
 ---
 
-**Arktik**, còn được gọi là **Arctick** hoặc **Bắc Cực**,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> là ngôn ngữ được sử dụng bởi người dân ở <a class="extiw" href="http://en.wikipedia.org/wiki/North_Pole" title="wikipedia:North Pole">Bắc Cực</a>: [Yêu tinh đỏ](../R/Red_Elves.md), [Gấu Bắc Cực](../N/North_Polar_Bear.md) và những loài khác.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Arktik**, còn được gọi là **Arctick** hoặc **Bắc Cực**,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> là ngôn ngữ được sử dụng bởi người dân ở <a class="extiw" href="http://en.wikipedia.org/wiki/North_Pole" title="wikipedia:North Pole">Bắc Cực</a>: [Red Tiên tộc](../R/Red_Elves.md), [North Polar Bear](../N/North_Polar_Bear.md) và các ngôn ngữ khác.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Mẫu Arktik {#Arktik_samples}
 
 Một mẫu Arktik được thấy ở một trong các chữ cái: <i><b>Mára mesta an ni véla tye ento, ya rato nea</b></i>, mà Gấu Bắc Cực dịch là "Tạm biệt cho đến khi gặp lại bạn lần sau và tôi hy vọng điều đó sẽ sớm xảy ra".
 
-Một mẫu Arktik khác đã được xuất bản vào năm 2019 dưới dạng phiên bản cao cấp của [Những bức thư từ Ông già Noel](../L/Letters_from_Father_Christmas.md), có niên đại từ [1929](../_/1929.md): <i><b>Raiqe! Telkume kiryandon nolo</b></i>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Một mẫu Arktik khác đã được xuất bản vào năm 2019 ở phiên bản cao cấp của [Letters from Father Christmas](../L/Letters_from_Father_Christmas.md), có niên đại từ [1929](../_/1929.md): <i><b>Raiqe! Telkume kiryandon nolo</b></i>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Cảm hứng {#Inspiration}
 
 Mặc dù *[Letters from Father Christmas](../L/Letters_from_Father_Christmas.md)* không phải là một phần của [huyền thoại](../L/Legendarium.md) nhưng mẫu Arktik được biết đến do Tolkien viết thực ra là [Qenya](../Q/Qenya.md) do ông đã phát triển vào thời điểm đó.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
-[Các nhà ngôn ngữ học Tolkien](../../category/L/Linguists.md) đôi khi gọi nó là **Q(u)enya Bắc Cực**.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+[Tolkien các nhà ngôn ngữ học](../../category/L/Linguists.md) đôi khi gọi nó là **Q(u)enya Bắc Cực**.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 ## Liên kết ngoài {#External_links}
 

@@ -324,7 +324,7 @@ images:
 
 ### Y.T. 1330 {#Y.T._1330}
 
-Tolkien cũng đã xem xét YT 1320 cho năm đầu tiên của loài Orc ở Beleriand.<sup id="cite_ref-AAc85p106_78-2" class="reference"><a href="#cite_note-AAc85p106-78">[1.50]</a></sup>
+Tolkien cũng đã xem xét YT 1320 cho năm đầu tiên Orc vào Beleriand.<sup id="cite_ref-AAc85p106_78-2" class="reference"><a href="#cite_note-AAc85p106-78">[1.50]</a></sup>
 
 ### Y.T. 1490 {#Y.T._1490}
 
@@ -335,7 +335,7 @@ Trong *Annals of Aman* và giai đoạn đầu tiên của *Quenta Silmarillion*
 <span><div class="mw-references-wrap"><ol class="references">
 <li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Một <a href="../V/Valian_Years.md" title="Valian Years">Năm Valian</a> bằng 9,582 năm dương lịch.</span>
 </li>
-<li id="cite_note-96"><span class="mw-cite-backlink"><a href="#cite_ref-96">↑</a></span> <span class="reference-text">Tolkien đã tính toán năm sinh này theo giả định sau đó rằng Cuộc vượt băng xảy ra hoàn toàn trong Y.T. 1496, thay vì kết thúc vào Y.T. 1500, và một Năm Valian đó bằng 144 năm dương lịch. (Nếu niên đại trước đó được giữ nguyên thì ông ấy đã tính được năm sinh là Y.T. 1483.)</span>
+<li id="cite_note-96"><span class="mw-cite-backlink"><a href="#cite_ref-96">↑</a></span> <span class="reference-text">Tolkien đã tính năm sinh này theo giả định sau đó rằng Cuộc Vượt Băng xảy ra hoàn toàn trong vòng Y.T. 1496, thay vì kết thúc vào Y.T. 1500 và một Năm Valian đó bằng 144 năm dương lịch. (Nếu niên đại trước đó được giữ nguyên thì ông ấy đã tính được năm sinh là Y.T. 1483.)</span>
 </li>
 </ol></div></span>
 

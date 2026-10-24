@@ -34,21 +34,21 @@ images:
 
 Trong khái niệm ban đầu của [huyền thoại](../L/Legendarium.md), *Ilu* là tên của "Thế giới", biểu thị *both* thế giới có người ở và cả vũ trụ.
 
-Ilu là tất cả mọi thứ tồn tại và bao gồm thế giới có thể ở được ([Ambar](../A/Ambar.md)), với các lớp không khí và bầu trời, [Mặt trời](../S/Sun.md), [Mặt trăng](../M/Moon.md) và [các ngôi sao](../S/Stars.md). Tất cả những thứ này được bao bọc trong lớp không khí bên ngoài, [Vaiya](../V/Vaiya.md).
+Ilu là tất cả mọi thứ tồn tại và bao gồm thế giới có thể ở được ([Ambar](../A/Ambar.md)), với các lớp không khí và bầu trời, [Mặt Trời](../S/Sun.md), [Mặt Trăng](../M/Moon.md) và [các ngôi sao](../S/Stars.md). Tất cả những thứ này được bao bọc trong lớp không khí bên ngoài, [Vaiya](../V/Vaiya.md).
 
 Ranh giới của Ilu là [Ilurambar](Ilurambar.md), "lớp vỏ" bao bọc Ilu, ngăn cách Vaiya với [kúma](../K/Kúma.md) và không tồn tại.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Khái niệm này phát triển theo một vũ trụ học khác ở *[The Later Quenta Silmarillion](../T/The_Later_Quenta_Silmarillion.md)*, nơi các khái niệm mới được đưa ra: Thế giới có thể ở được được đặt tên là *[Arda](../A/Arda.md)*, ít nhiều tương đương với cả [Ambar](../A/Ambar.md) và Ilu; toàn bộ sự tồn tại hoặc vũ trụ được tạo ra được đặt tên là *[Eä](../E/Eä.md)*, không giống như Ilu trước đây, vũ trụ này rộng lớn và có thể bao gồm các thế giới khác ngoài Arda.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Khái niệm này phát triển theo một vũ trụ học khác trong *[The Later Quenta Silmarillion](../T/The_Later_Quenta_Silmarillion.md)*, nơi các khái niệm mới được giới thiệu: Thế giới có thể ở được được đặt tên là *[Arda](../A/Arda.md)*, ít nhiều tương đương với cả [Ambar](../A/Ambar.md) và Ilu; toàn bộ sự tồn tại hoặc vũ trụ được tạo ra, được đặt tên là *[Eä](../E/Eä.md)*, không giống như Ilu trước đây, vũ trụ rộng lớn và có thể bao gồm các thế giới khác ngoài Arda.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Từ *Ilu* là [Quenya](../Q/Quenya.md) và có nghĩa là "vũ trụ", đồng thời là dạng thay thế của *[ilúvë](Ilúvë.md)*. Chúng đến từ [gốc](../R/Root.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=IL&amp;action=edit&amp;redlink=1" title="IL (page does not exist)">IL</a> có nghĩa là "tất cả".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Từ *Ilu* là [Quenya](../Q/Quenya.md) và có nghĩa là "vũ trụ", và là một dạng thay thế của *[ilúvë](Ilúvë.md)*. Chúng đến từ [gốc](../R/Root.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=IL&amp;action=edit&amp;redlink=1" title="IL (page does not exist)">IL</a> có nghĩa là "tất cả".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 Ilu không xuất hiện trong [Silmarillion](../S/Silmarillion.md) đã xuất bản, nhưng dạng thay thế *[ilúvë](Ilúvë.md)* vẫn tồn tại, như trong tên *[Ilúvatar](Ilúvatar.md)*.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 ## Cảm hứng {#Inspiration}
 
-[Christopher Gilson](../C/Christopher_Gilson.md) đã lưu ý rằng cái tên *Ilu* có lẽ được lấy cảm hứng từ <a class="extiw" href="http://en.wikipedia.org/wiki/Akkadian" title="wikipedia:Akkadian">tiếng Akkad</a> từ *ilu* ("thần").<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> <span></span>
+[Christopher Gilson](../C/Christopher_Gilson.md) đã lưu ý rằng cái tên *Ilu* có lẽ được lấy cảm hứng từ <a class="extiw" href="http://en.wikipedia.org/wiki/Akkadian" title="wikipedia:Akkadian">từ Akkadian</a> *ilu* ("thần").<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

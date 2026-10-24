@@ -13,19 +13,19 @@ categories:
   - "Radio adaptations"
 ---
 
-**Những câu chuyện từ vương quốc nguy hiểm** là một loạt chương trình phát thanh [1992](../_/1992.md) *[Tales from the Perilous Realm](Tales_from_the_Perilous_Realm.md)*, do [Brian Sibley](../B/Brian_Sibley.md) chuyển thể, John Taylor sản xuất và phát sóng trên [BBC Radio 5](../B/BBC.md). Nó thường được gọi là [sách nói](../A/Audiobooks.md), mặc dù thực tế không phải vậy.
+**Tales from the Perilous Realm** là loạt chương trình phát thanh [1992](../_/1992.md) của *[Tales from the Perilous Realm](Tales_from_the_Perilous_Realm.md)*, do [Brian Sibley](../B/Brian_Sibley.md) chuyển thể, John Taylor sản xuất và phát sóng trên [BBC Radio 5](../B/BBC.md). Nó thường được gọi là [sách nói](../A/Audiobooks.md), mặc dù thực tế không phải vậy.
 
 ## Tóm tắt {#Synopsis}
 
-Bộ truyện bao gồm bốn câu chuyện trong *Tales from the Perilous Realm*: *[Farmer Giles of Ham](../F/Farmer_Giles_of_Ham.md)*, *[Smith of Wootton Major](../S/Smith_of_Wootton_Major.md)*, *[Leaf by Niggle](../L/Leaf_by_Niggle.md)* và *[The Adventures of Tom Bombadil](The_Adventures_of_Tom_Bombadil.md)*. *The Adventures of Tom Bombadil* là sự kịch tính hóa các cảnh của Tom với bốn người Hobbit trong *[The Fellowship of the Ring](The_Fellowship_of_the_Ring.md)*, thay vì kể lại các sự kiện trong các bài thơ *[The Adventures of Tom Bombadil](<The_Adventures_of_Tom_Bombadil_(poem).md>)* và *[Bombadil Goes Boating](../B/Bombadil_Goes_Boating.md)*. Brian Sibley đã bày tỏ sự tiếc nuối khi không đưa nó vào [bản chuyển thể trên đài phát thanh](<The_Lord_of_the_Rings_(1981_radio_series).md>) của mình và quyết định đưa nó vào đây <a class="external autonumber" href="http://briansibleytheworks.blogspot.com/2008/01/this-page-is-still-under-construction_23.html" rel="noreferrer noopener" target="_blank">[1]</a>.
+Bộ truyện bao gồm bốn câu chuyện trong *Tales from the Perilous Realm*: *[Farmer Giles of Ham](../F/Farmer_Giles_of_Ham.md)*, *[Smith of Wootton Major](../S/Smith_of_Wootton_Major.md)*, *[Leaf by Niggle](../L/Leaf_by_Niggle.md)* và *[The Adventures of Tom Bombadil](The_Adventures_of_Tom_Bombadil.md)*. *The Adventures of Tom Bombadil* là sự kịch tính hóa các cảnh của Tom với bốn Hobbit trong *[The Fellowship of the Ring](The_Fellowship_of_the_Ring.md)*, chứ không phải là kể lại các sự kiện trong các bài thơ *[The Adventures of Tom Bombadil](<The_Adventures_of_Tom_Bombadil_(poem).md>)* và *[Bombadil Goes Boating](../B/Bombadil_Goes_Boating.md)*. Brian Sibley đã bày tỏ sự tiếc nuối khi không đưa nó vào [bản chuyển thể trên đài phát thanh](<The_Lord_of_the_Rings_(1981_radio_series).md>) của mình và quyết định đưa nó vào đây <a class="external autonumber" href="http://briansibleytheworks.blogspot.com/2008/01/this-page-is-still-under-construction_23.html" rel="noreferrer noopener" target="_blank">[1]</a>.
 
 ## Ngày phát sóng {#Air_dates}
 
-*Farmer Giles of Ham* được phát sóng thành hai phần, phần đầu tiên vào [ngày 16 tháng 8](../_/16_August.md), [1992](../_/1992.md) và phần thứ hai vào [ngày 23 tháng 8](../_/23_August.md). *Smith of Wootton Major* được phát sóng một tuần sau đó, vào [ngày 30 tháng 8](../_/30_August.md). *The Adventures of Tom Bombadil* cũng được phát sóng thành hai phần, vào [ngày 6 tháng 9](../_/6_September.md) và [ngày 13 tháng 9](../_/13_September.md) và *Leaf by Niggle* vào [ngày 20 tháng 9](../_/20_September.md).
+*Farmer Giles of Ham* được phát sóng thành hai phần, phần đầu tiên vào [ngày 16 tháng 8](../_/16_August.md), [1992](../_/1992.md) và phần thứ hai vào [ngày 23 tháng 8](../_/23_August.md). *Smith of Wootton Major* được phát sóng một tuần sau đó, vào [ngày 30 tháng 8](../_/30_August.md). *The Adventures of Tom Bombadil* cũng được phát sóng thành hai phần, vào [tháng Chín 6](../_/6_September.md) và [tháng Chín 13](../_/13_September.md) và *Leaf by Niggle* vào [tháng Chín 20](../_/20_September.md).
 
 ## Truyền {#Cast}
 
-### Nông dân Giles của Ham {#Farmer_Giles_of_Ham}
+### Farmer Giles of Ham {#Farmer_Giles_of_Ham}
 
 <table class="wikitable">
 <tbody><tr bgcolor="#CCCCCC">
@@ -133,7 +133,7 @@ Bộ truyện bao gồm bốn câu chuyện trong *Tales from the Perilous Realm
 <td>Ann Windsor
 </td></tr></tbody></table>
 
-### Những cuộc phiêu lưu của Tom Bombadil {#The_Adventures_of_Tom_Bombadil}
+### The Adventures of Tom Bombadil {#The_Adventures_of_Tom_Bombadil}
 
 <table class="wikitable">
 <tbody><tr bgcolor="#CCCCCC">

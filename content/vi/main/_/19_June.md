@@ -67,11 +67,11 @@ Sự kiện xảy ra vào ngày 19 tháng 6
 
 - **[1956](1956.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 198](../L/Letter_198.md).
 - **[1983](1983.md)** - Diễn viên [Aidan Turner](../A/Aidan_Turner.md) ra đời.
-- **[2002](2002.md)** - Bộ bài khởi đầu của "Realms of the Elf-lords", bộ thứ ba trong [The Lord of the Rings Trading Card Game](../T/The_Lord_of_the_Rings_Trading_Card_Game.md), được phát hành.
+- **[2002](2002.md)** - Bộ bài khởi đầu của "Realms of the Tiên-lords", bộ thứ ba trong [The Lord of the Rings Trading Card Game](../T/The_Lord_of_the_Rings_Trading_Card_Game.md), được phát hành.
 - **[2007](2007.md)** - [The Lord of the Rings (musical)](<../T/The_Lord_of_the_Rings_(musical).md>) khai mạc ở <a class="extiw" href="http://en.wikipedia.org/wiki/London" title="wikipedia:London">London</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Theatre_Royal,_Drury_Lane" title="wikipedia:Theatre Royal, Drury Lane">Theater Royal, Drury Lane</a>.
 - **[2020](2020.md)** - Diễn viên [Ian Holm](../I/Ian_Holm.md) qua đời.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Faramir](../F/Faramir.md) [mơ](../S/Seek_for_the_Sword_that_was_broken.md) lần đầu tiên gặp [Tai ương của Isildur](../I/Isildur's_Bane.md).
+    - [Faramir](../F/Faramir.md) [những giấc mơ](../S/Seek_for_the_Sword_that_was_broken.md) lần đầu tiên về Bane của [Isildur](../I/Isildur's_Bane.md).

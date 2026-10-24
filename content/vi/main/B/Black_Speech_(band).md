@@ -22,7 +22,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Band</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Black Speech</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Background Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Origin</th><td class="tg-infobox-data">Adelaide, Australia</td></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data">atmospheric doom/black metal</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Members</span></th></tr><tr><th scope="row" class="tg-infobox-label">Former Members</th><td class="tg-infobox-data">B<br/>G<br/>P<br/>K</td></tr></tbody></table>
 
-**Black Speech** là một ban nhạc kim loại đen/diệt vong trong không khí có liên quan đến Tolkien đến từ Adelaide, Australia. Ban nhạc lấy tên từ [Black Speech](Black_Speech.md), ngôn ngữ do [Sauron](../S/Sauron.md) nghĩ ra dành cho cư dân của [Mordor](../M/Mordor.md). Nhóm đã phát hành một EP duy nhất, *Black Speech*, vào năm 2014 trước khi tan rã.
+**Hắc Ngữ** là một ban nhạc kim loại đen/diệt vong trong khí quyển liên quan đến Tolkien đến từ Adelaide, Úc. Ban nhạc lấy tên từ [Hắc Ngữ](Black_Speech.md), ngôn ngữ do [Sauron](../S/Sauron.md) nghĩ ra dành cho cư dân của [Mordor](../M/Mordor.md). Nhóm đã phát hành một EP duy nhất, *Black Speech*, vào năm 2014 trước khi tan rã.
 
 ## Thành viên {#Members}
 
@@ -33,7 +33,7 @@ infobox:
 
 ## Danh sách đĩa {#Discography}
 
-- Bài phát biểu của người da đen (EP, 2014)
+- Hắc Ngữ (EP, 2014)
 
 ## Liên kết ngoài {#External_links}
 

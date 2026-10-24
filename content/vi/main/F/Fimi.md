@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dimitra Fimi"
 ---
 
-Chuyển hướng tới [Dimitra Fimi](../D/Dimitra_Fimi.md).
+Chuyển hướng đến [Dimitra Fimi](../D/Dimitra_Fimi.md).

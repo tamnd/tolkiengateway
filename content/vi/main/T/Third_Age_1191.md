@@ -16,7 +16,7 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><a href="../F/First_Age.md" title="First Age">I</a><a href="../S/Second_Age.md" title="Second Age">II</a><b>III</b><a href="../F/Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="Third_Age_1144.md" title="Third Age 1144">1144</a><a href="Third_Age_1149.md" title="Third Age 1149">1149</a><a href="Third_Age_1150.md" title="Third Age 1150">1150</a><a class="mw-selflink selflink">1191</a><a href="Third_Age_1194.md" title="Third Age 1194">1194</a><a href="Third_Age_1226.md" title="Third Age 1226">1226</a><a href="Third_Age_1240.md" title="Third Age 1240">1240</a></div></div></div></div></div></div>
 
-**Kỷ thứ ba 1191** (viết tắt là **T.A. 1191**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 1191 của [Kỷ thứ ba](Third_Age.md) của [Trung Địa](../M/Middle-earth.md).
+**Kỷ Đệ Tam 1191** (viết tắt là **T.A. 1191**) là năm [thứ 1191 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Tam](Third_Age.md) của [Trung Địa](../M/Middle-earth.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 

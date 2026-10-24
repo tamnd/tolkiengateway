@@ -16,9 +16,9 @@ categories:
 
 ## Noldorin {#Noldorin}
 
-<i><b>ifant</b></i> là một từ Noldorin có nghĩa là "già, sống lâu, già (không có nghĩa là yếu đuối)".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-DW_3-0" class="reference"><a href="#cite_note-DW-3">[3]</a></sup>
+<i><b>ifant</b></i> là từ Noldorin có nghĩa là "già, sống lâu, già (không có hàm ý yếu đuối)".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-DW_3-0" class="reference"><a href="#cite_note-DW-3">[3]</a></sup>
 
-## Tiếng Sindarin {#Sindarin}
+## Sindarin {#Sindarin}
 
 <i><b>ifant</b></i> dường như vẫn giữ nguyên ý nghĩa và hình thức trong [Sindarin](../S/Sindarin.md), như được thấy trong tên [Torhir **Ifant**](../T/Torhir_Ifant.md).<sup id="cite_ref-DW_3-1" class="reference"><a href="#cite_note-DW-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 

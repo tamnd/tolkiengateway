@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lembas (journal)"
 ---
 
-Chuyển hướng tới [Lembas (tạp chí)](<Lembas_(journal).md>).
+Chuyển hướng đến [Lembas (tạp chí)](<Lembas_(journal).md>).

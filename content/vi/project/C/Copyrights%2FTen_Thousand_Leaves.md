@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Ten Thousand Leaves"
 ---
 
-- Mười Thousand Leaves đã vui lòng cho phép cô sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Ten_Thousand_Leaves.md) trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
+- Mười Ngàn Lá đã vui lòng cho phép cô sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Ten_Thousand_Leaves.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Ngày: 23 tháng 7 năm 2015
 - Người dùng đã xin phép qua email: [Người dùng: Mith](https://tolkiengateway.net/wiki/User:Mith)

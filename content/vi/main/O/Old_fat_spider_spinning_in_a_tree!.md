@@ -59,19 +59,19 @@ Stop your spinning and look for me?<sup id="cite_ref-hobbit_1-1" class="referenc
 
 ## Lịch sử {#History}
 
-[Bilbo Baggins](../B/Bilbo_Baggins.md) đã hát bài thơ này để đánh lạc hướng [những con nhện](../S/Spiders.md) trong khi cố gắng cứu [Thorin](../T/Thorin.md) và [những người bạn đồng hành](../T/Thorin_and_Company.md) của ông ở [Mirkwood](../M/Mirkwood.md).<sup id="cite_ref-hobbit_1-2" class="reference"><a href="#cite_note-hobbit-1">[1]</a></sup>
+[Bilbo Baggins](../B/Bilbo_Baggins.md) đã hát bài thơ này để đánh lạc hướng [những con nhện](../S/Spiders.md) trong khi cố gắng cứu [Thorin](../T/Thorin.md) và [những người bạn đồng hành](../T/Thorin_and_Company.md) của ông ta trong [Mirkwood](../M/Mirkwood.md).<sup id="cite_ref-hobbit_1-2" class="reference"><a href="#cite_note-hobbit-1">[1]</a></sup>
 
 ## Nền {#Background}
 
-Lần đầu tiên Tolkien viết bài thơ theo một số ghi chú trong cốt truyện trước khi thực hiện những thay đổi nhỏ đối với nó.<sup id="cite_ref-history_2-0" class="reference"><a href="#cite_note-history-2">[2]</a></sup>
+Tolkien lần đầu tiên viết bài thơ trên một số ghi chú của cốt truyện trước khi thực hiện những thay đổi nhỏ đối với nó.<sup id="cite_ref-history_2-0" class="reference"><a href="#cite_note-history-2">[2]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1977: <a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>Người Hobbit</i> (phim 1977)</a>:</b>
+<b>1977: <a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>The Hobbit</i> (phim 1977)</a>:</b>
 
 <dl><dd>Though it was omitted from the final film, a version of the song appears on <a href="../T/The_Hobbit%253A_The_Complete_Original_Soundtrack.md" title="The Hobbit: The Complete Original Soundtrack">the soundtrack</a>, titled &#34;<a href="Old_Fat_Spider.md" title="Old Fat Spider">Old Fat Spider</a>&#34;. The vocals were performed by <a href="../G/Glenn_Yarbrough.md" title="Glenn Yarbrough">Glenn Yarbrough</a>.</dd></dl>
 
-<b>1985: <a href="../T/The_Hobbit_(1985_television_film).md" title="The Hobbit (1985 television film)"><i>Người Hobbit</i> (phim truyền hình 1985)</a></b>
+<b>1985: <a href="../T/The_Hobbit_(1985_television_film).md" title="The Hobbit (1985 television film)"><i>The Hobbit</i> (phim truyền hình 1985)</a></b>
 
 <dl><dd>The words are used by Bilbo as in the book, though without singing.</dd></dl>
 

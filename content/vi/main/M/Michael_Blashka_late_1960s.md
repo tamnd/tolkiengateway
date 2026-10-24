@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Michael Blashka"
 ---
 
-Chuyển hướng tới [Thư gửi Michael Blashka](../L/Letter_to_Michael_Blashka.md).
+Chuyển hướng đến [Thư gửi Michael Blashka](../L/Letter_to_Michael_Blashka.md).

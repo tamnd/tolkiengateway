@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Shelley, Norman"
 ---
 
-**Norman Shelley** ([16 tháng 2](../_/16_February.md), [1903](../_/1903.md) – [22 tháng 8](../_/22_August.md), [1980](../_/1980.md)) lồng tiếng cho các phần của [Gandalf](../G/Gandalf.md) và [Tom Bombadil](../T/Tom_Bombadil.md) trong [bản chuyển thể trên đài phát thanh năm 1956](<../T/The_Lord_of_the_Rings_(1956_radio_series).md>) của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*. Trong [Thư 175](../L/Letter_175.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) gọi phần sau là "khủng khiếp".
+**Norman Shelley** ([16 tháng 2](../_/16_February.md), [1903](../_/1903.md) – [22 tháng 8](../_/22_August.md), [1980](../_/1980.md)) lồng tiếng cho các phần [Gandalf](../G/Gandalf.md) và [Tom Bombadil](../T/Tom_Bombadil.md) trong [bản chuyển thể phát thanh năm 1956](<../T/The_Lord_of_the_Rings_(1956_radio_series).md>) của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*. Trong [Thư 175](../L/Letter_175.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) gọi phần sau là "khủng khiếp".
 
 ## Liên kết ngoài {#External_links}
 

@@ -35,7 +35,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/H/Hugo_Weaving.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/7b/Hugo_Weaving.jpg/320px-Hugo_Weaving.jpg" decoding="async" loading="lazy" width="320" height="452" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/7b/Hugo_Weaving.jpg/480px-Hugo_Weaving.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/7/7b/Hugo_Weaving.jpg/640px-Hugo_Weaving.jpg 2x" data-file-width="1587" data-file-height="2244"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Hugo Wallace Weaving</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Lifetime</th><td class="tg-infobox-data"><a href="../_/4_April.md" title="4 April">April 4</a>, <a href="../_/1960.md" title="1960">1960</a></td></tr><tr><th scope="row" class="tg-infobox-label">Portrayed</th><td class="tg-infobox-data"><a href="../E/Elrond.md" title="Elrond">Elrond</a> in:<br/><a href="../T/The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings</i> (film series)</a><br/><a href="../T/The_Hobbit_(film_series).md" title="The Hobbit (film series)"><i>The Hobbit</i> (film series)</a>.</td></tr><tr><th scope="row" class="tg-infobox-label">IMDb</th><td class="tg-infobox-data"><a class="external text" href="https://www.imdb.com/name/nm0915989/" rel="noreferrer noopener" target="_blank">Profile</a></td></tr></tbody></table>
 
-**Hugo Wallace Weaving** (sinh năm 1960) là một diễn viên người Úc đóng vai [Elrond](../E/Elrond.md) trong [*The Lord of the Rings* (loạt phim)](<../T/The_Lord_of_the_Rings_(film_series).md>) và trong [*The Hobbit* (loạt phim)](<../T/The_Hobbit_(film_series).md>).
+**Hugo Wallace Weaving** (sinh năm 1960) là một diễn viên người Úc từng đóng vai [Elrond](../E/Elrond.md) trong [*The Lord of the Rings* (loạt phim)](<../T/The_Lord_of_the_Rings_(film_series).md>) và trong [*The Hobbit* (loạt phim)](<../T/The_Hobbit_(film_series).md>).
 
 ## Trích dẫn {#Quotes}
 
@@ -63,8 +63,8 @@ infobox:
 - [2003](../_/2003.md) - <b><a class="external text" href="http://ofcs.rottentomatoes.com/" rel="noreferrer noopener" target="_blank">Giải OFCS</a></b>, Dàn nhạc xuất sắc nhất, *[The Lord of the Rings: The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)*
 - 2003 - **Giải thưởng PFCS**, Dàn diễn viên xuất sắc nhất, *Peter Jackson's The Two Towers*
 - [2004](../_/2004.md) - <b><a class="external text" href="http://www.bfca.org/" rel="noreferrer noopener" target="_blank">Giải Sự lựa chọn của các nhà phê bình</a></b>, Dàn diễn viên xuất sắc nhất, *[The Lord of the Rings: The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*
-- 2004 - <b><a class="external text" href="http://www.nbrmp.org/" rel="noreferrer noopener" target="_blank">Giải thưởng NBR</a></b>, Diễn xuất xuất sắc nhất của một nhóm, *Sự trở lại của nhà vua của Peter Jackson*
-- 2004 - <b><a class="external text" href="http://www.sagawards.org/" rel="noreferrer noopener" target="_blank">Giải thưởng SAG</a></b>, Diễn xuất xuất sắc của dàn diễn viên trong phim điện ảnh, *Sự trở lại của nhà vua của Peter Jackson*
+- 2004 - <b><a class="external text" href="http://www.nbrmp.org/" rel="noreferrer noopener" target="_blank">Giải thưởng NBR</a></b>, Diễn xuất xuất sắc nhất của một nhóm, *Peter Jackson's The Return of the King*
+- 2004 - <b><a class="external text" href="http://www.sagawards.org/" rel="noreferrer noopener" target="_blank">Giải thưởng SAG</a></b>, Diễn xuất xuất sắc của dàn diễn viên trong phim điện ảnh, The Return of the King* của *Peter Jackson
 
 ## Liên kết ngoài {#External_links}
 

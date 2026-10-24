@@ -16,10 +16,10 @@ categories:
 
 ## KWENE {#KWENE}
 
-KWENE là phần mở rộng của KWE,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>cơ sở cho khái niệm "con người", những sinh vật có khả năng phát âm rõ ràng, do đó "con người" trái ngược với động vật không có bất kỳ hình thức ngôn ngữ nào. và đặc biệt là Yêu tinh, vì [Yêu tinh](../E/Elves.md) là những người phát ngôn đầu tiên tự xác định mình.
+KWENE là phần mở rộng của KWE,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>cơ sở cho khái niệm "con người", những sinh vật có khả năng phát âm rõ ràng, do đó "con người" trái ngược với động vật không có bất kỳ hình thức ngôn ngữ nào. và đặc biệt là Tiên, vì [Tiên tộc](../E/Elves.md) là những diễn giả đầu tiên tự xác định chính mình.
 
-- [Quendian nguyên thủy](../P/Primitive_Quendian.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Kwene&amp;action=edit&amp;redlink=1" title="Kwene (page does not exist)">kwene</a></i> > <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Kw%C3%AAn&amp;action=edit&amp;redlink=1" title="Kwên (page does not exist)">kwên</a></i>, *[kwende](Kwende.md)*
-- [Quenya](../Q/Quenya.md): *[Quendë](../Q/Quendë.md) ([Calaquendi](../C/Calaquendi.md), [Moriquendi](../M/Moriquendi.md), [Quendya](../V/Vanyarin.md) > [Quenya](../Q/Quenya.md)), <a class="new" href="https://tolkiengateway.net/w/index.php?title=Quen&amp;action=edit&amp;redlink=1" title="Quen (page does not exist)">quen</a> (<a class="new" href="https://tolkiengateway.net/w/index.php?title=Aiquen&amp;action=edit&amp;redlink=1" title="Aiquen (page does not exist)">aiquen</a>, <a class="new" href="https://tolkiengateway.net/w/index.php?title=Roquen&amp;action=edit&amp;redlink=1" title="Roquen (page does not exist)">roquen</a>)*
+- [Primitive Quendian](../P/Primitive_Quendian.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Kwene&amp;action=edit&amp;redlink=1" title="Kwene (page does not exist)">kwene</a></i> > <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Kw%C3%AAn&amp;action=edit&amp;redlink=1" title="Kwên (page does not exist)">kwên</a></i>, *[kwende](Kwende.md)*
+- [Quenya](../Q/Quenya.md): *[Quendë](../Q/Quendë.md) ([Calaquendi](../C/Calaquendi.md), [Moriquendi](../M/Moriquendi.md), [Quendya](../V/Vanyarin.md) > [Quenya](../Q/Quenya.md)), <a class="new" href="https://tolkiengateway.net/w/index.php?title=Quen&amp;action=edit&amp;redlink=1" title="Quen (page does not exist)">quen</a> (<a class="new" href="https://tolkiengateway.net/w/index.php?title=Aiquen&amp;action=edit&amp;redlink=1" title="Aiquen (page does not exist)">aiquen</a>, <a class="new" href="https://tolkiengateway.net/w/index.php?title=Roquen&amp;action=edit&amp;redlink=1" title="Roquen (page does not exist)">roque</a>)*
 - [Telerin](../T/Telerin.md): *[Pendi](../P/Pendi.md) (<a class="new" href="https://tolkiengateway.net/w/index.php?title=Calapendi&amp;action=edit&amp;redlink=1" title="Calapendi (page does not exist)">Calapendi</a>, [Moripendi](../M/Moripendi.md)), [pen](../P/Pen.md) ([aipen](../A/Aipen.md), <a class="new" href="https://tolkiengateway.net/w/index.php?title=Arpen&amp;action=edit&amp;redlink=1" title="Arpen (page does not exist)">arpen</a>, [ilpen](../I/Ilpen.md))*
 - [Sindarin](../S/Sindarin.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Ben&amp;action=edit&amp;redlink=1" title="Ben (page does not exist)">ben</a>, <a class="new" href="https://tolkiengateway.net/w/index.php?title=Arben&amp;action=edit&amp;redlink=1" title="Arben (page does not exist)">arben</a>, <a href="../C/Calben.md" title="Calben">calben</a>, <a href="../M/Morben.md" title="Morben">morben</a>, <a class="new" href="https://tolkiengateway.net/w/index.php?title=Orodben&amp;action=edit&amp;redlink=1" title="Orodben (page does not exist)">orodben</a>, <a class="new" href="https://tolkiengateway.net/w/index.php?title=Rochben&amp;action=edit&amp;redlink=1" title="Rochben (page does not exist)">rochben</a></i>
 
@@ -31,7 +31,7 @@ Một dẫn xuất khác của gốc KWE, liên quan trực tiếp đến lời 
 - [Telerin](../T/Telerin.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Pete&amp;action=edit&amp;redlink=1" title="Pete (page does not exist)">pete</a>, <a href="../E/Epe.md" title="Epe">epe</a></i>
 - [Sindarin](../S/Sindarin.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Pennas&amp;action=edit&amp;redlink=1" title="Pennas (page does not exist)">pennas</a>, <a href="../P/Peth.md" title="Peth">peth</a> (<a href="../M/Malbeth.md" title="Malbeth">Malbeth</a>), <a href="../P/Pedo.md" title="Pedo">pedo</a></i>
 
-- [Quảng cáo](../A/Adûnaic.md): *[bêth](../B/Bêth.md)*
+- [Adûnaic](../A/Adûnaic.md): *[bêth](../B/Bêth.md)*
 
 ## Xem thêm {#See_also}
 
@@ -39,7 +39,7 @@ Một dẫn xuất khác của gốc KWE, liên quan trực tiếp đến lời 
 
 ## Phiên bản khác {#Other_versions}
 
-*[Etymologies](../T/The_Etymologies.md)* cũ hơn có gốc là KWEN-ED, có nghĩa đơn giản là "Yêu tinh" mà không có các biến thể ngữ nghĩa khác. <span></span>
+*[Etymologies](../T/The_Etymologies.md)* cũ hơn có gốc là KWEN-ED, có nghĩa đơn giản là "Tiên" mà không có các biến thể ngữ nghĩa khác. <span></span>
 
 ## Tài liệu tham khảo {#References}
 

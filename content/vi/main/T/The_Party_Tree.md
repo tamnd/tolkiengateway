@@ -38,13 +38,13 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/I/Inger_Edelfeldt_-_A_Long_Expected_Party.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/8/81/Inger_Edelfeldt_-_A_Long_Expected_Party.jpg/304px-Inger_Edelfeldt_-_A_Long_Expected_Party.jpg" decoding="async" loading="lazy" width="304" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/81/Inger_Edelfeldt_-_A_Long_Expected_Party.jpg/456px-Inger_Edelfeldt_-_A_Long_Expected_Party.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/8/81/Inger_Edelfeldt_-_A_Long_Expected_Party.jpg/608px-Inger_Edelfeldt_-_A_Long_Expected_Party.jpg 2x" data-file-width="899" data-file-height="1418"/></a><figcaption>&#34;A Long Expected Party&#34; by <a href="../I/Inger_Edelfeldt.md" title="Inger Edelfeldt">Inger Edelfeldt</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Plant</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Party Tree</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../P/Party_Field.md" title="Party Field">Party Field</a> (<a href="The_Shire.md" title="The Shire">The Shire</a>)</td></tr></tbody></table>
 
-**Cây Tiệc tùng** là một cái cây ở trung tâm [Sân chơi Tiệc tùng](../P/Party_Field.md) phía nam [Bag End](../B/Bag_End.md).
+**Cây tiệc tùng** là một cái cây ở trung tâm [Party Field](../P/Party_Field.md) phía nam của [Bag End](../B/Bag_End.md).
 
 ## Lịch sử {#History}
 
-Để chuẩn bị cho [Bữa tiệc chia tay của Bilbo](../B/Bilbo's_Farewell_Party.md), một gian hàng đã được dựng lên đủ rộng để chứa nó và nó đứng ở đầu bàn chính trong lễ kỷ niệm với những chiếc đèn lồng treo trên cành. Bilbo đứng dưới Cây Tiệc tùng khi tuyên bố sẽ rời [Shire](The_Shire.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Khi chuẩn bị [Tiệc chia tay của Bilbo](../B/Bilbo's_Farewell_Party.md), một gian hàng đã được dựng lên đủ rộng để chứa nó và nó đứng ở đầu bàn chính trong lễ kỷ niệm với những chiếc đèn lồng treo trên cành. Bilbo đứng dưới Cây Đảng khi tuyên bố sẽ rời [ Shire](The_Shire.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Đến tháng 11 năm [3019](Third_Age_3019.md) Cây Tiệc tùng đã bị [Sharkey](../S/Sharkey.md) và người của hắn chặt hạ và nằm trên cánh đồng.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Sau [Càn quét Quận](../B/Battle_of_Bywater.md), Sam đã trồng hạt bạc từ [hộp gỗ](../S/Sam's_garden_box.md) do [Galadriel](../G/Galadriel.md) đưa cho anh. Mùa xuân năm [3020](Third_Age_3020.md), cây [cây cẩm chướng](../M/Mallorn.md) nảy mầm; [Cây Vàng](../G/Golden_Tree.md) là cây mallorn duy nhất nằm giữa [núi](../M/Misty_Mountains.md) và [Biển](../B/Belegaer.md), và mọi người từ nhiều dặm xung quanh đã đến để ngắm nhìn nó.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Những [Người Hobbit](../H/Hobbits.md) ở vùng đó tổ chức các ngày lễ và lễ kỷ niệm xung quanh cây Mallorn.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Đến tháng 11 năm [3019](Third_Age_3019.md) Cây Đảng đã bị [Sharkey](../S/Sharkey.md) và người của ông ta chặt hạ và nằm trên sân.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Sau khi [Càn quét Shire](../B/Battle_of_Bywater.md), Sam đã trồng hạt bạc từ [hộp gỗ](../S/Sam's_garden_box.md) được [Galadriel](../G/Galadriel.md) tặng cho ông ta. Mùa xuân năm [3020](Third_Age_3020.md), cây [cây cẩm chướng](../M/Mallorn.md) nảy mầm; [Cây Vàng](../G/Golden_Tree.md) là cây mallorn duy nhất nằm giữa [ngọn núi](../M/Misty_Mountains.md) và [Biển](../B/Belegaer.md), và mọi người từ nhiều dặm xung quanh đã đến để ngắm nhìn nó.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Người [Hobbit](../H/Hobbits.md) vùng đó tổ chức các ngày lễ và lễ kỷ niệm xung quanh cây Mallorn.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Cảm hứng {#Inspiration}
 
@@ -52,7 +52,7 @@ infobox:
 
 <dl><dd><div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt"></blockquote></div></dd></dl>
 
-'Họ đã chặt nó xuống!' Sam kêu lên. 'Họ đã chặt Cây Tiệc tùng!' Ông chỉ vào nơi cái cây từng đứng, nơi Bilbo đã đọc Bài Diễn văn Chia tay. **Nó nằm chết trên cánh đồng**. Như thể đây là cọng rơm cuối cùng Sam bật khóc.
+'Họ đã chặt nó xuống!' đã khóc Sam. 'Họ đã chặt Cây Tiệc tùng!' Anh chỉ vào chỗ cái cây mà Bilbo đã đứng dưới đó đã phát biểu lời từ biệt. **Nó nằm chết trên ruộng**. Như thể đây là cọng rơm cuối cùng Sam bật khóc.
 
 <p class="tg-quote-footer"><cite><a href="The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a>, <a href="The_Scouring_of_the_Shire.md" title="The Scouring of the Shire">The Scouring of the Shire</a></cite></p>
 
@@ -60,7 +60,7 @@ infobox:
 
 <dl><dd><div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt"></blockquote></div></dd></dl>
 
-Một sự việc đặc biệt vẫn còn đọng lại trong ký ức \[Tolkien\] của ông: "Có một cây liễu treo trên hồ cối xay \[at [Sarehole](../S/Sarehole.md)\] và tôi đã học cách trèo lên nó. Tôi nghĩ nó thuộc về một người bán thịt trên đường Stratford. Một ngày nọ, họ đã chặt nó xuống. **Họ không làm gì với nó: khúc gỗ chỉ nằm đó. Tôi không bao giờ quên điều đó."**
+Một sự việc đặc biệt vẫn còn đọng lại trong ký ức \[Tolkien's\] của ông: "Có một cây liễu treo trên vũng cối xay \[at [Sarehole](../S/Sarehole.md)\] và tôi đã học cách trèo lên nó. Tôi nghĩ rằng nó thuộc về một người bán thịt trên đường Stratford. Một ngày nọ, họ đã chặt nó xuống. **Họ không làm gì với nó: khúc gỗ chỉ nằm đó. Tôi không bao giờ quên điều đó."**
 
 <p class="tg-quote-footer"><cite><a href="../J/J.R.R._Tolkien%253A_A_Biography.md" title="J.R.R. Tolkien: A Biography">J.R.R. Tolkien: A Biography</a></cite></p>
 

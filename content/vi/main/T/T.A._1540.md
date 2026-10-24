@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Third Age 1540"
 ---
 
-Chuyển hướng tới [Thời đại thứ ba 1540](Third_Age_1540.md).
+Chuyển hướng tới [Kỷ Đệ Tam 1540](Third_Age_1540.md).

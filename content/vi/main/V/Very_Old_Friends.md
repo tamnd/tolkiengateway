@@ -37,14 +37,14 @@ infobox:
 
 ## Tóm tắt {#Synopsis}
 
-[Gandalf](../G/Gandalf.md) chào [Bilbo](../B/Bilbo.md) và được nhận vào [Bag End](../B/Bag_End.md). Bilbo chạy khắp nơi cố gắng tìm thức ăn và đồ uống cho ông ta, trong khi Gandalf điều tra Bag End. Anh tìm thấy bản đồ và cuốn sách còn dang dở của Bilbo trước khi Bilbo bất ngờ xuất hiện. Họ ngồi ăn và sau khi [Lobelia Sackville-Baggins](../L/Lobelia_Sackville-Baggins.md) cố gắng gặp Bilbo, họ thảo luận về kế hoạch tương lai của Bilbo. Bilbo bày tỏ rằng ông bắt đầu cảm thấy già đi và mong muốn ra đi, mặc dù ông có phần miễn cưỡng khi từ bỏ [Frodo](../F/Frodo.md). Bilbo tuyên bố anh sẽ không quay lại Bag End. Khi mặt trời lặn, Bilbo và Gandalf ra ngoài hút thuốc. Bữa tiệc bắt đầu ngay sau đó.
+[Gandalf](../G/Gandalf.md) chào [Bilbo](../B/Bilbo.md) và được nhận vào [Bag End](../B/Bag_End.md). Bilbo chạy khắp nơi cố gắng tìm đồ ăn thức uống cho ông ta, trong khi Gandalf điều tra Bag End. Ông ta tìm thấy bản đồ và cuốn sách chưa hoàn thành của Bilbo trước khi Bilbo bất ngờ xuất hiện. Họ ngồi ăn và sau khi [Lobelia Sackville-Baggins](../L/Lobelia_Sackville-Baggins.md) cố gắng xem Bilbo, họ thảo luận về kế hoạch tương lai của Bilbo. Bilbo thể hiện rằng ông bắt đầu cảm thấy già và muốn ra đi, mặc dù ông có phần miễn cưỡng khi từ bỏ [Frodo](../F/Frodo.md). Bilbo tuyên bố sẽ không quay lại Bag End. Khi mặt trời lặn, Bilbo và Gandalf ra ngoài hút thuốc. Bữa tiệc bắt đầu ngay sau đó.
 
 ## Sự khác biệt {#Differences}
 
-- Sự xuất hiện của Gandalf được mô tả là bí mật hơn trong sách và một số người lùn có mặt để giúp ông ta dỡ hàng.
-- Bilbo không chào Gandalf ở cửa hay tìm đồ uống giải khát trong sách.
-- Đoạn hội thoại mà Bilbo mô tả về tuổi già của ông xảy ra ở phần sau của cuốn sách, sau khi ông biến mất khỏi nhóm.
-- Bilbo được miêu tả là có vẻ già hơn tuổi thật, mặc dù điều này một phần là do tuổi tác của nam diễn viên. Trong sách, Bilbo được mô tả là rất "được bảo quản tốt" hoặc thậm chí "không thay đổi" theo năm tháng, trong khi trong phim ông rõ ràng là một công dân cao tuổi.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Sự xuất hiện của - Gandalf được miêu tả là bí mật hơn trong sách và một số người lùn có mặt để giúp ông ta dỡ hàng.
+- Bilbo không chào Gandalf ở cửa hoặc tìm đồ uống giải khát trong sách.
+- Đoạn hội thoại Bilbo mô tả tuổi già của ông xảy ra ở phần sau của cuốn sách, sau khi ông biến mất khỏi nhóm.
+- Bilbo được miêu tả là có vẻ già hơn tuổi thật, mặc dù điều này một phần là do tuổi tác của nam diễn viên. Trong sách, Bilbo được miêu tả là rất "được bảo quản tốt" hoặc thậm chí "không thay đổi" theo năm tháng, trong khi trong phim, ông rõ ràng là một công dân cấp cao.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 - Cảnh hút thuốc không có trong sách.
 - Trong sách, Gandalf đến trước bữa tiệc sáu ngày, thay vì ngày diễn ra bữa tiệc.
 

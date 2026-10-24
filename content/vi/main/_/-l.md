@@ -30,7 +30,7 @@ Dùng làm hậu tố có nghĩa là bạn (dạng lịch sự). Dạng dài hơ
 
 ## Xem thêm {#See_also}
 
-- [tiếng Sindarin](../S/Sindarin.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=-g&amp;action=edit&amp;redlink=1" title="-g (page does not exist)">-g</a></i>
+- [Sindarin](../S/Sindarin.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=-g&amp;action=edit&amp;redlink=1" title="-g (page does not exist)">-g</a></i>
 
 <span></span>
 

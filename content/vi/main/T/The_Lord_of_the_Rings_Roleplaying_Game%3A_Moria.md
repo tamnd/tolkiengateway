@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Moria (2003 book)"
 ---
 
-Chuyển hướng đến [Moria (sách năm 2003)](<../M/Moria_(2003_book).md>).
+Chuyển hướng đến [Moria (sách 2003)](<../M/Moria_(2003_book).md>).

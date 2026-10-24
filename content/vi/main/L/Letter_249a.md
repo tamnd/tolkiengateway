@@ -29,7 +29,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien đã viết thư cho Christopher và đề cập rằng [Edith Tolkien](../E/Edith_Tolkien.md) đã đưa cho ông một bức thư trong *Oxford Times* nơi <a class="extiw" href="http://en.wikipedia.org/wiki/Doctor_Lewis_Farnell" title="wikipedia:Doctor Lewis Farnell">Bác sĩ Lewis Farnell</a> đã chúc mừng một thành viên mới được bầu chọn giấu tên tại Đại học Exeter. Tolkien nhận xét rằng Farnell lịch sự một cách có tính mô phạm. Tolkien nói rằng ông tin rằng Christopher cũng đã nhận được một lá thư thú vị thông báo về việc anh được chọn vào học bổng tại New College. <br>
+Tolkien đã viết thư cho Christopher và đề cập rằng [Edith Tolkien](../E/Edith_Tolkien.md) đã đưa cho ông ta một bức thư trong *Oxford Times* trong đó <a class="extiw" href="http://en.wikipedia.org/wiki/Doctor_Lewis_Farnell" title="wikipedia:Doctor Lewis Farnell">Bác sĩ Lewis Farnell</a> đã chúc mừng một thành viên mới được bầu chọn giấu tên tại Đại học Exeter. Tolkien nhận xét rằng Farnell lịch sự một cách có tính mô phạm. Tolkien nói rằng ông tin rằng Christopher cũng đã nhận được một lá thư thú vị xác nhận việc anh được chọn vào học bổng tại New College. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

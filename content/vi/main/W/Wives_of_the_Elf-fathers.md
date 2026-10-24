@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Three Elderwomen of the Elves"
 ---
 
-Chuyển hướng đến [Ba bà già của Yêu tinh](../T/Three_Elderwomen_of_the_Elves.md).
+Chuyển hướng đến [Ba cụ già của Tiên tộc](../T/Three_Elderwomen_of_the_Elves.md).

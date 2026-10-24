@@ -11,4 +11,4 @@ redirect_target: "Orcs"
 redirect_fragment: "Etymology"
 ---
 
-Chuyển hướng tới [Orc](../O/Orcs.md#Etymology).
+Chuyển hướng đến [Orc](../O/Orcs.md#Etymology).

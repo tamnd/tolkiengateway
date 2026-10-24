@@ -39,10 +39,10 @@ infobox:
 - Tiền tuyến - [Chris Seeman](../C/Chris_Seeman.md)
 - Suy nghĩ về dân số Gondor và Arnor - Gunnar Brolin
 - Phản hồi "Suy nghĩ về dân số Gondor và Arnor" - Jason Beresford
-- Phát triển hệ thống phép thuật để nhập vai ở Trung Địa - Andrew McMurry
+- Phát triển hệ thống phép thuật cho Middle-earth Role Playing - Andrew McMurry
 - Hành trình trong bóng tối - [Chris Seeman](../C/Chris_Seeman.md)
 - Chủng tộc bị lãng quên của Drughu - Tim Innes
 - Trả lời "thư ngỏ" của ICE - James Owen
 - Ảnh hưởng của Scandinavia đối với Orkish - [Anders Blixt](../A/Anders_Blixt.md)
 - Đánh giá sản phẩm - [Chris Seeman](../C/Chris_Seeman.md)
-- Thư mục về trò chơi ở Trung Địa 1982-1993 - [Chris Seeman](../C/Chris_Seeman.md)
+- Thư mục chơi game Trung Địa 1982-1993 - [Chris Seeman](../C/Chris_Seeman.md)

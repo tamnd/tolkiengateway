@@ -36,22 +36,22 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tolkien_Calendar_1985.jpg.md"><img src="https://tolkiengateway.net/w/images/a/ac/Tolkien_Calendar_1985.jpg" decoding="async" loading="lazy" width="193" height="216" class="mw-file-element" data-file-width="193" data-file-height="216"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Tolkien Calendar 1985</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="../I/Inger_Edelfeldt.md" title="Inger Edelfeldt">Inger Edelfeldt</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../U/Unwin_Hyman.md" title="Unwin Hyman">Unwin Paperbacks</a> (UK)</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/1984.md" title="1984">1984</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Wire-bound calendar with mailer</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0-04-529008-3" title="Special:BookSources/0-04-529008-3">0-04-529008-3</a></td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="The_J.R.R._Tolkien_Calendar_1984.md" title="The J.R.R. Tolkien Calendar 1984">The J.R.R. Tolkien Calendar 1984</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="The_1986_Tolkien_Calendar.md" title="The 1986 Tolkien Calendar">The 1986 Tolkien Calendar</a></td></tr></tbody></table>
 
-<i><b>Lịch Tolkien 1985</b></i> là lịch Tolkien chính thức được xuất bản bởi [Unwin Paperbacks](../U/Unwin_Hyman.md) trong [1984](../_/1984.md). Nó có tác phẩm nghệ thuật của [Inger Edelfeldt](../I/Inger_Edelfeldt.md) dựa trên *[The Lord of the Rings](The_Lord_of_the_Rings.md)* và *[The Silmarillion](The_Silmarillion.md)*.
+Lịch <i><b>Tolkien 1985</b></i> là lịch Tolkien chính thức được xuất bản bởi [Unwin Paperbacks](../U/Unwin_Hyman.md) trong [1984](../_/1984.md). Nó có tác phẩm nghệ thuật của [Inger Edelfeldt](../I/Inger_Edelfeldt.md) dựa trên *[The Lord of the Rings](The_Lord_of_the_Rings.md)* và *[The Silmarillion](The_Silmarillion.md)*.
 
 ## Minh họa {#Illustrations}
 
 - Bìa - "[Legolas](../../file/I/Inger_Edelfeldt_-_Legolas.jpg.md)"
 - Tháng 1 - "[Bữa tiệc được mong đợi từ lâu](../../file/I/Inger_Edelfeldt_-_A_Long_Expected_Party.jpg.md)"
-- Tháng 2 - "[Kỵ sĩ đen](../../file/I/Inger_Edelfeldt_-_Black_Rider.jpg.md)"
+- Tháng 2 - "[Ngày Kỵ Sĩ Đen](../../file/I/Inger_Edelfeldt_-_Black_Rider.jpg.md)"
 - Tháng 3 - "[Gollum](../../file/I/Inger_Edelfeldt_-_Gollum.jpg.md)"
-- Tháng 4 - "[Pippin và Merry Bị lũ Orc bắt giữ](../../file/I/Inger_Edelfeldt_-_Pippin_and_Merry_Captured_by_Orcs.jpg.md)"
+- Tháng 4 - "[Pippin và Merry Bị bắt bởi Orc](../../file/I/Inger_Edelfeldt_-_Pippin_and_Merry_Captured_by_Orcs.jpg.md)"
 - Tháng 5 - "[Legolas](../../file/I/Inger_Edelfeldt_-_Legolas.jpg.md)"
 - Tháng 6 - "[Cái chết của Boromir](../../file/I/Inger_Edelfeldt_-_Death_of_Boromir.jpg.md)"
-- Tháng 7 - "[Tới hòn đá Erech](../../file/I/Inger_Edelfeldt_-_To_the_Stone_of_Erech.jpg.md)"
+- Tháng 7 - "[Tới Tảng đá Erech](../../file/I/Inger_Edelfeldt_-_To_the_Stone_of_Erech.jpg.md)"
 - Tháng 8 - "[Oliphaunt](../../file/I/Inger_Edelfeldt_-_The_Oliphaunt.jpg.md)"
-- Tháng 9 - "[Đầm lầy chết](../../file/I/Inger_Edelfeldt_-_The_Dead_Marshes.jpg.md)"
+- tháng Chín - "[Cái Đầm lầy Chết](../../file/I/Inger_Edelfeldt_-_The_Dead_Marshes.jpg.md)"
 - Tháng 10 - "[Sự đăng quang của Aragorn](../../file/I/Inger_Edelfeldt_-_The_Crowning_of_Aragorn.jpg.md)"
-- Tháng 11 - "[Sự trừng phạt của Quận](../../file/I/Inger_Edelfeldt_-_The_Scouring_of_the_Shire.jpg.md)"
+- Tháng 11 - "[Cuộc trừng phạt Shire](../../file/I/Inger_Edelfeldt_-_The_Scouring_of_the_Shire.jpg.md)"
 - Tháng 12 - "[Cái chết của Glaurung](../../file/I/Inger_Edelfeldt_-_The_Death_of_Glaurung.jpg.md)"
 
 ## Xem thêm {#See_also}
@@ -60,8 +60,8 @@ infobox:
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://www.tolkienbooks.net/php/caldetails.php?reference=94170" rel="noreferrer noopener" target="_blank">Lịch Tolkien 1985</a> tại <a class="external text" href="http://www.tolkienbooks.net" rel="noreferrer noopener" target="_blank">TolkienBooks.net</a>
-- <a class="external text" href="http://tolkiencalendars.com/1985_1988.html" rel="noreferrer noopener" target="_blank">Lịch Tolkien 1985 - 1988</a> tại <a class="external text" href="http://tolkiencalendars.com/" rel="noreferrer noopener" target="_blank">The Compleat Gyde to Tolkien Calendars</a>
+- <a class="external text" href="http://www.tolkienbooks.net/php/caldetails.php?reference=94170" rel="noreferrer noopener" target="_blank">Tolkien Lịch 1985</a> tại <a class="external text" href="http://www.tolkienbooks.net" rel="noreferrer noopener" target="_blank">TolkienBooks.net</a>
+- <a class="external text" href="http://tolkiencalendars.com/1985_1988.html" rel="noreferrer noopener" target="_blank">Tolkien Lịch 1985 - 1988</a> tại <a class="external text" href="http://tolkiencalendars.com/" rel="noreferrer noopener" target="_blank">The Compleat Gyde đến Tolkien Lịch</a>
 
 <table style="margin:0 auto;" class="collapsible toccolours" width="100%" align="center">
 <tbody><tr>

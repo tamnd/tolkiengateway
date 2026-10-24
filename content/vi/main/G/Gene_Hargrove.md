@@ -22,28 +22,28 @@ sort_keys:
   "People by name": "Hargrove, Gene"
 ---
 
-**Eugene C. Hargrove** (Tháng 10 [1944](../_/1944.md)) là giáo sư triết học tại <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_North_Texas" title="wikipedia:University of North Texas">Đại học Bắc Texas</a>. Ông được giới thiệu với [Tolkien](../J/J.R.R._Tolkien.md) qua [Ace bìa mềm](../A/Ace_Books.md) và bắt đầu quan tâm đến âm nhạc sau khi nghe [Donald Swann](../D/Donald_Swann.md)'s [bài hát](<../T/The_Road_Goes_Ever_On_(book).md>) và không thích nó.
+**Eugene C. Hargrove** (Tháng 10 [1944](../_/1944.md)) là giáo sư triết học tại <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_North_Texas" title="wikipedia:University of North Texas">Đại học Bắc Texas</a>. Ông được giới thiệu với [Tolkien](../J/J.R.R._Tolkien.md) bởi [Ace bìa mềm](../A/Ace_Books.md) và bắt đầu có hứng thú với âm nhạc sau khi nghe [take](<../T/The_Road_Goes_Ever_On_(book).md>) của [Donald Swann](../D/Donald_Swann.md) và không thích nó.
 
 ## Thư mục {#Bibliography}
 
 ### Bài viết {#Articles}
 
 - [1986](../_/1986.md): *[Mythlore](../M/Mythlore.md)* # 47
-    - "Tom Bombadil là ai"
+    - "Ai Tom Bombadil"
 - [1986](../_/1986.md): *Teaching Philosophy*
     - "Moria, Mô phỏng máy tính cho triết học nhập môn"
 - [1988](../_/1988.md): *Thể hiện triết học: Những cách mới để dạy các khái niệm triết học*
     - "Moria, Mô phỏng máy tính cho triết học nhập môn"
 - [1995](../_/1995.md): *[Beyond Bree](../B/Beyond_Bree.md)*
-    - (Tháng 1): "Âm nhạc ở Trung Địa"
+    - (Tháng 1): "Âm nhạc trong Trung Địa"
 - [2003](../_/2003.md): *[Beyond Bree](../B/Beyond_Bree.md)*
     - (Tháng 3): "Tàng hình ở Trung Địa: Một lý thuyết dự kiến"
-    - (Tháng 10): "Sự lựa chọn và thuyết quyết định quan trọng ở Trung Địa"
+    - (Tháng 10): "Sự lựa chọn và Chủ nghĩa quyết định quan trọng ở Trung Địa"
 - [2004](../_/2004.md): *[Beyond Bree](../B/Beyond_Bree.md)*
     - (Tháng 11): "Nói dối, bị nhầm lẫn và không biết ở Trung Địa"
 - [2006](../_/2006.md): *[J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment](../J/J.R.R._Tolkien_Encyclopedia%253A_Scholarship_and_Critical_Assessment.md)*, mục
-    - "Những cuộc phiêu lưu của Tom Bombadil"
-    - "Nông dân Giles"
+    - "Cuộc phiêu lưu của Tom Bombadil"
+    - "Farmer Giles"
     - "Tom Bombadil"
 
 ### Bài giảng {#Lectures}
@@ -60,4 +60,4 @@ sort_keys:
 ## Liên kết ngoài {#External_links}
 
 - <a class="external text" href="http://www.phil.unt.edu/~hargrove/" rel="noreferrer noopener" target="_blank">Gene Hargrove</a> tại <a class="external text" href="http://www.unt.edu/" rel="noreferrer noopener" target="_blank">Đại học Bắc Texas</a>
-- <a class="external text" href="http://www.oldforestsounds.com/composer.html" rel="noreferrer noopener" target="_blank">Gene Hargrove</a> tại <a class="external text" href="http://www.oldforestsounds.com/" rel="noreferrer noopener" target="_blank">Âm thanh rừng già</a>
+- <a class="external text" href="http://www.oldforestsounds.com/composer.html" rel="noreferrer noopener" target="_blank">Gene Hargrove</a> tại <a class="external text" href="http://www.oldforestsounds.com/" rel="noreferrer noopener" target="_blank">Khu Rừng Cổ Âm thanh</a>

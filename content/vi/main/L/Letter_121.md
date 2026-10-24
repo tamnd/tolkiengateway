@@ -31,7 +31,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien đã nhắc đến thêm "những truyền thuyết về [Vương quốc nhỏ](Little_Kingdom.md)" trong Lời nói đầu của *[Farmer Giles of Ham](../F/Farmer_Giles_of_Ham.md)* đề phòng trường hợp ông viết thêm. Nhưng [Georgius](../G/Georgius.md) và <a class="new" href="https://tolkiengateway.net/w/index.php?title=Suet&amp;action=edit&amp;redlink=1" title="Suet (page does not exist)">Suet</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> vẫn chỉ là một bản phác thảo và thật khó để lấy lại tinh thần của ngày xưa. Nhưng có lẽ khi *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* (gần như hoàn thành ở dạng bản sao công bằng) được hoàn thành thì ông có thể làm được điều gì đó.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 2]</a></sup>
+Tolkien đã nhắc đến thêm "truyền thuyết về [Vương quốc nhỏ](Little_Kingdom.md)" trong Lời nói đầu của *[Farmer Giles of Ham](../F/Farmer_Giles_of_Ham.md)* đề phòng trường hợp ông viết thêm. Nhưng [Georgius](../G/Georgius.md) và <a class="new" href="https://tolkiengateway.net/w/index.php?title=Suet&amp;action=edit&amp;redlink=1" title="Suet (page does not exist)">Suet</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> vẫn chỉ là một bản phác thảo và thật khó để lấy lại tinh thần của ngày xưa. Nhưng có lẽ khi *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* (gần như hoàn thành ở dạng bản sao công bằng) được hoàn thành thì ông có thể làm được điều gì đó.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 2]</a></sup>
 
 ## Ghi chú {#Notes}
 

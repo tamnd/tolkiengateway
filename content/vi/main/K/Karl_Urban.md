@@ -40,7 +40,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/K/Karl_Urban.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/60/Karl_Urban.jpg/320px-Karl_Urban.jpg" decoding="async" loading="lazy" width="320" height="427" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/60/Karl_Urban.jpg/480px-Karl_Urban.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/6/60/Karl_Urban.jpg/640px-Karl_Urban.jpg 2x" data-file-width="1978" data-file-height="2637"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Karl Urban</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Lifetime</th><td class="tg-infobox-data"><a href="../_/7_June.md" title="7 June">June 7</a>, <a href="../_/1972.md" title="1972">1972</a></td></tr><tr><th scope="row" class="tg-infobox-label">Portrayed</th><td class="tg-infobox-data"><a href="../_/Éomer.md" title="Éomer">Éomer</a> in:<br/><a href="../T/The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings</i> (film series)</a></td></tr><tr><th scope="row" class="tg-infobox-label">IMDb</th><td class="tg-infobox-data"><a class="external text" href="http://www.imdb.com/name/nm0881631/" rel="noreferrer noopener" target="_blank">Profile</a></td></tr></tbody></table>
 
-**Karl-Heinz Urban** là một diễn viên gốc New Zealand. Anh đóng vai [Éomer](../_/Éomer.md) trong [*The Lord of the Rings* (loạt phim)](<../T/The_Lord_of_the_Rings_(film_series).md>).
+**Karl-Heinz Urban** là một diễn viên sinh ra ở New Zealand. Anh đóng vai [Éomer](../_/Éomer.md) trong [*The Lord of the Rings* (loạt phim)](<../T/The_Lord_of_the_Rings_(film_series).md>).
 
 ## Trích dẫn {#Quotes}
 
@@ -61,8 +61,8 @@ infobox:
 - [2003](../_/2003.md) - <b><a class="external text" href="http://ofcs.rottentomatoes.com/" rel="noreferrer noopener" target="_blank">Giải OFCS</a></b>, Dàn nhạc xuất sắc nhất, *[The Lord of the Rings: The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)*
 - 2003 - <b><a class="external text" href="http://www.cinemaclips.com/PFCS.htm" rel="noreferrer noopener" target="_blank">Giải thưởng PFCS</a></b>, Dàn diễn xuất xuất sắc nhất, *Peter Jackson's The Two Towers*
 - [2004](../_/2004.md) - <b><a class="external text" href="http://www.bfca.org/" rel="noreferrer noopener" target="_blank">Giải Sự lựa chọn của các nhà phê bình</a></b>, Dàn diễn viên xuất sắc nhất, *[The Lord of the Rings: The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*
-- 2004 - <b><a class="external text" href="http://www.nbrmp.org/" rel="noreferrer noopener" target="_blank">Giải thưởng NBR</a></b>, Diễn xuất xuất sắc nhất của một nhóm, *Sự trở lại của nhà vua của Peter Jackson*
-- 2004 - <b><a class="external text" href="http://www.sagawards.org/" rel="noreferrer noopener" target="_blank">Giải thưởng SAG</a></b>, Diễn xuất xuất sắc của dàn diễn viên trong phim điện ảnh, *Sự trở lại của nhà vua của Peter Jackson*
+- 2004 - <b><a class="external text" href="http://www.nbrmp.org/" rel="noreferrer noopener" target="_blank">Giải thưởng NBR</a></b>, Dàn diễn viên xuất sắc nhất, The Return of the King* của *Peter Jackson
+- 2004 - <b><a class="external text" href="http://www.sagawards.org/" rel="noreferrer noopener" target="_blank">Giải thưởng SAG</a></b>, Diễn xuất xuất sắc của dàn diễn viên trong phim điện ảnh, The Return of the King* của *Peter Jackson
 
 ## Liên kết ngoài {#External_links}
 

@@ -20,13 +20,13 @@ images:
 
 **Các bài viết nổi bật** trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md) được coi là những bài viết hay nhất của chúng tôi, theo [được các biên tập viên đánh giá](Featured_articles%252FNominations.md). Chúng là những bài báo mà chúng tôi đặc biệt tự hào và là tấm gương cho thế giới về tác phẩm xuất sắc nhất của chúng tôi, đồng thời là hình mẫu cho các biên tập viên về cách viết các bài báo khác. Do đó, các bài viết nổi bật sẽ được hiển thị trên [Trang chính](../../main/M/Main_Page.md).
 
-Để đạt được trạng thái bài viết nổi bật, các bài viết ứng cử viên phải đáp ứng 10 tiêu chí trước khi được các biên tập viên xem xét về tính chính xác, đầy đủ, tham chiếu, độ dài và văn phong theo tiêu chí bài viết nổi bật của chúng tôi. Kể từ khi giới thiệu hình thức đề cử vào năm 2008, Tolkien Gateway đã có tổng cộng [mười sáu bài viết nổi bật](Featured_articles%252FArchive.md) trong số [13,644](https://tolkiengateway.net/wiki/Special:Statistics) bài viết.
+Để đạt được trạng thái bài viết nổi bật, các bài viết ứng cử viên phải đáp ứng 10 tiêu chí trước khi được các biên tập viên xem xét về tính chính xác, đầy đủ, tham chiếu, độ dài và văn phong theo tiêu chí bài viết nổi bật của chúng tôi. Kể từ khi áp dụng hình thức đề cử vào năm 2008, Tolkien Gateway đã có tổng cộng [mười sáu bài viết nổi bật](Featured_articles%252FArchive.md) trong tổng số [13,644](https://tolkiengateway.net/wiki/Special:Statistics) bài viết.
 
 ## Quy trình đề cử {#Nomination_process}
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="Featured_articles%252FNominations.md" title="Tolkien Gateway:Featured articles/Nominations">Tolkien Gateway:Featured articles/Nominations</a></b></div></div>
 
-Tất cả các đề cử đều diễn ra tại [Cổng Tolkien:Bài viết nổi bật/Đề cử](Featured_articles%252FNominations.md). Quy trình đề cử được chính thức hóa bởi [User:Mith](https://tolkiengateway.net/wiki/User:Mith) trong [2011](../../main/_/2011.md):
+Tất cả các đề cử diễn ra tại [Tolkien Gateway:Bài viết nổi bật/Đề cử](Featured_articles%252FNominations.md). Quy trình đề cử được chính thức hóa bởi [User:Mith](https://tolkiengateway.net/wiki/User:Mith) trong [2011](../../main/_/2011.md):
 
 <blockquote class="tg-quote noexcerpt">
 <p>Any registered user can nominate an article for <b>featured</b> status. It should be well-written, complete, illustrated, and referenced and meet these specific criteria:
@@ -49,7 +49,7 @@ Nếu đề cử thành công, [quản trị viên](../A/Administrators.md) có 
 
 ## Lịch sử {#History}
 
-Các bài viết nổi bật trước đây và quy trình bình chọn của chúng vẫn còn trong [Tolkien Gateway:Bài viết nổi bật/Lưu trữ](Featured_articles%252FArchive.md) sau khi chúng không còn xuất hiện trên [Trang chính](../../main/M/Main_Page.md). Những ngày tháng bên dưới cho biết thời điểm chúng được đưa lên Trang Chính.
+Các bài viết nổi bật trước đây và quy trình bình chọn của chúng vẫn còn trong [Tolkien Gateway:Bài viết nổi bật/Lưu trữ](Featured_articles%252FArchive.md) sau khi chúng không còn được hiển thị trên [Trang chính](../../main/M/Main_Page.md). Những ngày tháng bên dưới cho biết thời điểm chúng được đưa lên Trang Chính.
 
 <table class="TGtable" border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse;"><tbody><tr><th style="background: #F2E6CE;">Article</th><th style="background: #F2E6CE;" colspan="2">Dates featured</th></tr>
 <tr><td><b><a href="../../main/A/Aragorn.md" title="Aragorn">Aragorn</a></b></td><td align="center">1 June 2008</td><td align="center">9 April 2009</td></tr>

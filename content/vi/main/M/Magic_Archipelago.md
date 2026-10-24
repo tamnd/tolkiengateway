@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Enchanted Isles"
 ---
 
-Chuyển hướng tới [Quần đảo bị phù phép](../E/Enchanted_Isles.md).
+Chuyển hướng đến [Quần đảo Phù phép](../E/Enchanted_Isles.md).

@@ -26,26 +26,26 @@ sort_keys:
 ## Giải thưởng {#Awards}
 
 - [2002](../_/2002.md) - <b><a class="external text" href="http://www.oscar.com/" rel="noreferrer noopener" target="_blank">Giải thưởng Học viện</a></b>, Hiệu ứng xuất sắc nhất, Hiệu ứng hình ảnh, *[The Lord of the Rings: The Fellowship of the Ring](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)*
-- 2002 - **Giải Oscar**, Trang điểm đẹp nhất, *The Fellowship of the Ring của Peter Jackson*
-- 2002 - <b><a class="external text" href="http://www.bafta.org/" rel="noreferrer noopener" target="_blank">BAFTA</a></b>, Thành tựu xuất sắc nhất về hiệu ứng hình ảnh đặc biệt, *The Fellowship of the Ring của Peter Jackson*
-- 2002 - **BAFTA**, Trang điểm/làm tóc đẹp nhất, *The Fellowship of the Ring của Peter Jackson*
-- 2002 - <b><a class="external text" href="http://www.lvfcs.org/" rel="noreferrer noopener" target="_blank">Giải thưởng Sierra</a></b>, Hiệu ứng hình ảnh xuất sắc nhất, *The Fellowship of the Ring của Peter Jackson*
-- 2002 - **Giải thưởng Sierra**, Thiết kế trang phục đẹp nhất, *The Fellowship of the Ring của Peter Jackson*
-- 2002 - <b><a class="external text" href="http://www.cinemaclips.com/PFCS.htm" rel="noreferrer noopener" target="_blank">Giải thưởng PFCS</a></b>, Hiệu ứng hình ảnh xuất sắc nhất, *The Fellowship of the Ring của Peter Jackson*
-- 2002 - **Giải thưởng PFCS**, Thiết kế trang phục đẹp nhất, *The Fellowship of the Ring của Peter Jackson*
-- 2002 - <b><a class="external text" href="http://pressacademy.com/" rel="noreferrer noopener" target="_blank">Giải thưởng Vệ tinh Vàng</a></b>, Hiệu ứng hình ảnh xuất sắc nhất, *The Fellowship of the Ring của Peter Jackson*
+- 2002 - **Giải thưởng Học viện**, Trang điểm đẹp nhất, The Fellowship of the Ring* của *Peter Jackson
+- 2002 - <b><a class="external text" href="http://www.bafta.org/" rel="noreferrer noopener" target="_blank">BAFTA</a></b>, Thành tựu xuất sắc nhất về hiệu ứng hình ảnh đặc biệt, The Fellowship of the Ring* của *Peter Jackson
+- 2002 - **BAFTA**, Trang điểm/làm tóc đẹp nhất, The Fellowship of the Ring* của *Peter Jackson
+- 2002 - <b><a class="external text" href="http://www.lvfcs.org/" rel="noreferrer noopener" target="_blank">Giải thưởng Sierra</a></b>, Hiệu ứng hình ảnh xuất sắc nhất, The Fellowship of the Ring* của *Peter Jackson
+- 2002 - **Giải thưởng Sierra**, Thiết kế trang phục đẹp nhất, The Fellowship of the Ring* của *Peter Jackson
+- 2002 - <b><a class="external text" href="http://www.cinemaclips.com/PFCS.htm" rel="noreferrer noopener" target="_blank">Giải thưởng PFCS</a></b>, Hiệu ứng hình ảnh xuất sắc nhất, The Fellowship of the Ring* của *Peter Jackson
+- 2002 - **Giải thưởng PFCS**, Thiết kế trang phục đẹp nhất, The Fellowship of the Ring* của *Peter Jackson
+- 2002 - <b><a class="external text" href="http://pressacademy.com/" rel="noreferrer noopener" target="_blank">Giải thưởng Vệ tinh Vàng</a></b>, Hiệu ứng Hình ảnh Xuất sắc nhất, The Fellowship of the Ring* của *Peter Jackson
 - [2003](../_/2003.md) - **BAFTA**, Thiết kế trang phục đẹp nhất, *[The Lord of the Rings: The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)*
 - 2003 - <b><a class="external text" href="http://www.saturnawards.org/" rel="noreferrer noopener" target="_blank">Giải thưởng Sao Thổ</a></b>, Trang phục đẹp nhất, *Peter Jackson's The Two Towers*
 - 2003 - **Giải thưởng Sierra**, Thiết kế trang phục đẹp nhất, *Peter Jackson's The Two Towers*
 - 2003 - <b><a class="external text" href="http://www.vesawards.com/" rel="noreferrer noopener" target="_blank">Giải thưởng VES</a></b>, Người mẫu và mô hình thu nhỏ đẹp nhất trong phim điện ảnh, *Peter Jackson's The Two Towers*
 - 2003 - <b><a class="external text" href="http://www.imdb.com/Sections/Awards/Hollywood_Makeup_Artist_and_Hair_Stylist_Guild_Awards/" rel="noreferrer noopener" target="_blank">Giải thưởng HMAHSG</a></b>, Hiệu ứng trang điểm đặc biệt xuất sắc nhất - Tính năng, *Peter Jackson's The Two Towers*
 - [2004](../_/2004.md) - **Giải thưởng Học viện**, Trang điểm đẹp nhất, *[The Lord of the Rings: The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*
-- 2004 - **Giải Oscar**, Thiết kế trang phục đẹp nhất, *Sự trở lại của nhà vua của Peter Jackson*
-- 2004 - **Giải thưởng Sao Thổ**, Trang điểm đẹp nhất, *Sự trở lại của nhà vua của Peter Jackson*
-- 2004 - **Giải thưởng Sierra**, Thiết kế trang phục đẹp nhất, *Sự trở lại của nhà vua của Peter Jackson*
-- 2004 - **Giải thưởng PFCS**, Thiết kế trang phục đẹp nhất, *Sự trở lại của nhà vua của Peter Jackson*
-- 2004 - **Giải thưởng VES**, Mô hình và mô hình thu nhỏ xuất sắc trong phim điện ảnh, *Sự trở lại của nhà vua của Peter Jackson*
-- 2004 - **Giải thưởng HMAHSG**, Hiệu ứng trang điểm đặc biệt xuất sắc nhất - Phim truyện, *Sự trở lại của nhà vua của Peter Jackson*
+- 2004 - **Giải thưởng Học viện**, Thiết kế trang phục đẹp nhất, The Return of the King* của *Peter Jackson
+- 2004 - **Giải thưởng Sao Thổ**, Trang điểm đẹp nhất, The Return of the King* của *Peter Jackson
+- 2004 - **Giải thưởng Sierra**, Thiết kế trang phục đẹp nhất, The Return of the King* của *Peter Jackson
+- 2004 - **Giải thưởng PFCS**, Thiết kế trang phục đẹp nhất, *Peter Jackson's The Return of the King*
+- 2004 - **Giải thưởng VES**, Mô hình và mô hình thu nhỏ xuất sắc trong phim điện ảnh, *Peter Jackson's The Return of the King*
+- 2004 - **Giải thưởng HMAHSG**, Hiệu ứng trang điểm đặc biệt xuất sắc nhất - Tính năng, *Peter Jackson's The Return of the King*
 - [2014](../_/2014.md) - <b><a class="external text" href="http://cineuphoria09.blogspot.gr/" rel="noreferrer noopener" target="_blank">Giải thưởng CinEuphoria</a></b>, Thiết kế trang phục đẹp nhất - Cuộc thi quốc tế, *[The Hobbit: The Desolation of Smaug](../T/The_Hobbit%253A_The_Desolation_of_Smaug.md)*
 
 ## Thư mục, đã chọn {#Bibliography,_selected}

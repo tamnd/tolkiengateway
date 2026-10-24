@@ -33,7 +33,7 @@ infobox:
 **Mythcon 6** là hội nghị [Hiệp hội thần thoại](Mythopoeic_Society.md) thường niên lần thứ sáu.
 
 - **Chủ đề:** Thế giới hư cấu của C.S. Lewis
-- **Khách mời danh dự:** Walter Hooper (học giả & người điều hành Lewis) và Ed Meskys (cựu Thain của [Hiệp hội Tolkien Hoa Kỳ](../T/Tolkien_Society_of_America.md))
+- **Khách mời danh dự:** Walter Hooper (học giả & người điều hành Lewis) và Ed Meskys (cựu Thain của [Tolkien Society of America](../T/Tolkien_Society_of_America.md))
 - **Chủ tịch:** Bruce McMenomy
 
 ## Liên kết ngoài {#External_links}

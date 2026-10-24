@@ -39,4 +39,4 @@ infobox:
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
-**An Ill Omen** là ca khúc thứ năm trong [*The Lord of the Rings: The War of the Rohirrim* (Original Motion Picture Soundtrack)](<../T/The_Lord_of_the_Rings%253A_The_War_of_the_Rohirrim_(Original_Motion_Picture_Soundtrack).md>) của [Stephen Gallagher](../S/Stephen_Gallagher.md). Tác phẩm kết hợp mô típ [Rohan](../R/Rohan.md) từ nhạc nền của [Howard Shore](../H/Howard_Shore.md) cho [*The Lord of the Rings* bộ ba phim](<../T/The_Lord_of_the_Rings_(film_series).md>).
+**An Ill Omen** là ca khúc thứ năm trong [*The Lord of the Rings: The War of the Rohirrim* (Original Motion Picture Soundtrack)](<../T/The_Lord_of_the_Rings%253A_The_War_of_the_Rohirrim_(Original_Motion_Picture_Soundtrack).md>) của [Stephen Gallagher](../S/Stephen_Gallagher.md). Tác phẩm kết hợp mô típ [Rohan](../R/Rohan.md) từ bản nhạc của [Howard Shore](../H/Howard_Shore.md) cho [*The Lord of the Rings* bộ ba phim](<../T/The_Lord_of_the_Rings_(film_series).md>).

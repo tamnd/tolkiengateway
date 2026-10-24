@@ -19,7 +19,7 @@ sort_keys:
 
 Dạng ([Qenya](../Q/Qenya.md)) *lóke (-ī)* ("rồng") cũng xuất hiện.<sup id="cite_ref-Ety370_2-0" class="reference"><a href="#cite_note-Ety370-2">[2]</a></sup> Trong các bản thảo trước đó xuất hiện các dạng *lókë* ("drake")<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> và *lōke* ("rồng").<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
-Có ý kiến ​​cho rằng cách viết theo phong cách Quenya của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* sẽ là *lócë*, có nghĩa là "rồng, rắn, rắn, drake".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Có ý kiến ​​cho rằng cách viết theo kiểu Quenya của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* sẽ là *lócë*, nghĩa là "rồng, rắn, rắn, drake".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -37,7 +37,7 @@ Nó có nguồn gốc từ [Elvish](../E/Elvish.md) [gốc](../S/Sundocarme.md) 
 
 ## Có cùng nguồn gốc {#Cognates}
 
-- [Tiếng Sindarin](../S/Sindarin.md) *[lhûg](Lhûg.md)*
+- [Sindarin](../S/Sindarin.md) *[lhûg](Lhûg.md)*
 
 <span></span>
 

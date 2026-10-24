@@ -62,25 +62,25 @@ images:
 <li><a href="../T/The_Palantíri.md" title="The Palantíri">The Palantíri</a></li></ul>
 </td></tr></tbody></table>
 
-**Narn i Hîn Húrin** ([Sindarin](../S/Sindarin.md) nghĩa là "**Truyện về những đứa trẻ của Húrin**"), còn gọi là "**The Narn**", là một chương trong *[Unfinished Tales](../U/Unfinished_Tales.md)*, một tác phẩm được xuất bản sau khi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được biên tập và xuất bản bởi [Christopher Tolkien](../C/Christopher_Tolkien.md). Đó là một câu chuyện dài về tất cả những gì đã xảy ra với [Húrin](../H/Húrin.md) cùng các con của ông ta [Túrin](../T/Túrin.md) và [Nienor](Nienor.md), sau khi Húrin bị [Morgoth](../M/Morgoth.md) nguyền rủa. Năm 2007, Christopher Tolkien xuất bản *[The Children of Húrin](../T/The_Children_of_Húrin.md)*, trong đó Tolkien đã hoàn thành câu chuyện và hoàn thành một phần tường thuật duy nhất về câu chuyện này với sự hiện diện tối thiểu của ban biên tập.
+**Narn i Hîn Húrin** ([Sindarin](../S/Sindarin.md) for "**Truyện kể về những đứa trẻ của Húrin**"), còn gọi là "**The Narn**", là một chương trong *[Unfinished Tales](../U/Unfinished_Tales.md)*, một tác phẩm được xuất bản sau khi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) biên tập và xuất bản bởi [Christopher Tolkien](../C/Christopher_Tolkien.md). Đó là một câu chuyện dài về tất cả những gì đã xảy ra với [Húrin](../H/Húrin.md) cùng các con [Túrin](../T/Túrin.md) và [Nienor](Nienor.md) của ông ta, sau khi Húrin bị [Morgoth](../M/Morgoth.md) nguyền rủa. Năm 2007, Christopher Tolkien xuất bản *[The Children of Húrin](../T/The_Children_of_Húrin.md)*, trong đó Tolkien đã hoàn thành câu chuyện và hoàn thành một câu chuyện kể duy nhất về câu chuyện này với sự hiện diện tối thiểu của ban biên tập.
 
 ## Câu chuyện {#Story}
 
-Câu chuyện xây dựng chi tiết hơn về những gì được kể về những nhân vật này trong *[The Silmarillion](../T/The_Silmarillion.md)* đã xuất bản, bắt đầu từ thời thơ ấu của Túrin, tiếp tục qua thời kỳ bị giam cầm của cha anh ở [Nirnaeth Arnoediad](Nirnaeth_Arnoediad.md), sự lưu đày của Túrin ở [Doriath](../D/Doriath.md), đến thời điểm Túrin ở [Nargothrond](Nargothrond.md) và kết thúc bằng việc anh tự sát sau khi bị giết. [Glaurung](../G/Glaurung.md).
+Câu chuyện xây dựng chi tiết hơn về những gì được kể về những nhân vật này trong *[The Silmarillion](../T/The_Silmarillion.md)* đã xuất bản, bắt đầu từ thời thơ ấu của Túrin, tiếp tục qua việc cha anh bị giam cầm ở [Nirnaeth Arnoediad](Nirnaeth_Arnoediad.md), cuộc lưu đày của Túrin ở [Doriath](../D/Doriath.md), đến thời gian của Túrin ở [Nargothrond](Nargothrond.md) và kết thúc bằng việc anh tự sát sau khi giết chết [Glaurung](../G/Glaurung.md).
 
-Truyện có một số điểm không nhất quán khi so sánh với *The Silmarillion*, có chỗ còn có những khoảng trống và có nhiều phiên bản. Điều này là do [Tolkien](../J/J.R.R._Tolkien.md) chưa bao giờ hoàn thành câu chuyện trong suốt cuộc đời của mình và con trai ông [Christopher Tolkien](../C/Christopher_Tolkien.md) đã phải chọn từ tất cả các tác phẩm để tạo ra một câu chuyện nhất quán cho *The Silmarillion*.
+Truyện có một số điểm không nhất quán khi so sánh với *The Silmarillion*, có chỗ còn có những khoảng trống và có nhiều phiên bản. Điều này là do [Tolkien](../J/J.R.R._Tolkien.md) chưa bao giờ hoàn thành câu chuyện trong suốt cuộc đời của mình và con trai ông [Christopher Tolkien](../C/Christopher_Tolkien.md) đã phải lựa chọn tất cả các tác phẩm để tạo ra một câu chuyện nhất quán cho *The Silmarillion*.
 
-Câu chuyện về *Narn* tiếp tục trong *Later Narn*, được xuất bản trong *[Unfinished Tales](../U/Unfinished_Tales.md)*, và trong "Những chuyến lang thang của Húrin", một văn bản được cho là có phong cách quá khác biệt so với phần còn lại của *The Silmarillion*, nhưng vẫn tiếp tục *Narn* sau cái chết của Túrin. Nó kết thúc với việc Húrin cuối cùng được thả và những hành động xấu theo sau ông ta. Câu chuyện này cuối cùng đã được xuất bản trong *[The War of the Jewels](../T/The_War_of_the_Jewels.md)*.
+Câu chuyện về *Narn* tiếp tục trong *Later Narn*, được xuất bản trên *[Unfinished Tales](../U/Unfinished_Tales.md)*, và trong "Những chuyến lang thang của Húrin", một văn bản được cho là có phong cách quá khác so với phần còn lại của *The Silmarillion*, nhưng vẫn tiếp tục *Narn* sau cái chết của Túrin. Nó kết thúc với việc Húrin được thả ra và những hành động xấu theo sau ông ta. Câu chuyện này cuối cùng đã được xuất bản trong *[The War of the Jewels](../T/The_War_of_the_Jewels.md)*.
 
 ## Ghi chú xuất bản {#Publishing_notes}
 
-Lưu ý rằng tiêu đề của *Narn* bị đặt sai thành **Narn i Hîn Húrin** trong *Silmarillion* và *Unfinished Tales* đã xuất bản. Đây là một quyết định biên tập của [Christopher Tolkien](../C/Christopher_Tolkien.md) mà sau này ông rất hối hận vì quyết định này chỉ nhằm ngăn cản mọi người phát âm *[Chîn](../H/Hîn.md)* giống như "chin" trong tiếng Anh.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Lưu ý rằng tiêu đề của *Narn* bị đặt sai thành **Narn i Hîn Húrin** trong *Silmarillion* và *Unfinished Tales* đã xuất bản. Đây là một quyết định biên tập của [Christopher Tolkien](../C/Christopher_Tolkien.md) mà sau này ông rất hối hận, thực hiện chỉ để ngăn cản mọi người phát âm *[Chîn](../H/Hîn.md)* giống như "chin" trong tiếng Anh.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}
 
 - *[The Children of Húrin](../T/The_Children_of_Húrin.md)*
-- [Của Túrin Turambar](../O/Of_Túrin_Turambar.md)
-- [Nằm của những đứa trẻ Húrin](../T/The_Lay_of_the_Children_of_Húrin.md)
+- [Trong số Túrin Turambar](../O/Of_Túrin_Turambar.md)
+- [The Lay of the Children of Húrin](../T/The_Lay_of_the_Children_of_Húrin.md)
 
 <span></span>
 

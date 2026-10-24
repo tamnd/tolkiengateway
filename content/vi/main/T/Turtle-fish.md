@@ -16,29 +16,29 @@ images:
 
 <figure typeof="mw:File/Frame"><a class="mw-file-description" href="../../file/Q/Quinton_Hoover_-_Fell_turtles.jpg.md"><img src="https://tolkiengateway.net/w/images/2/2c/Quinton_Hoover_-_Fell_turtles.jpg" decoding="async" loading="lazy" width="259" height="217" class="mw-file-element" data-file-width="259" data-file-height="217"/></a><figcaption><a href="../Q/Quinton_Hoover.md" title="Quinton Hoover">Quinton Hoover</a> - <i>Fell turtle</i></figcaption></figure>
 
-**Cá Rùa** là một chủng tộc quái vật biển khổng lồ huyền thoại, chỉ được nhắc đến trong câu thơ [Hobbit](../H/Hobbits.md). Con cá Rùa cuối cùng được đặt tên là *[Fastitocalon](../F/Fastitocalon.md)*.<sup id="cite_ref-Poem_1-0" class="reference"><a href="#cite_note-Poem-1">[1]</a></sup>
+**Rùa cá** là một chủng tộc quái vật biển khổng lồ huyền thoại, chỉ được đề cập trong câu [Hobbit](../H/Hobbits.md). Con cá Rùa cuối cùng được đặt tên là *[Fastitocalon](../F/Fastitocalon.md)*.<sup id="cite_ref-Poem_1-0" class="reference"><a href="#cite_note-Poem-1">[1]</a></sup>
 
 Cá rùa hiện lên như những hòn đảo nguy hiểm, thực chất là quái vật có khả năng nhấn chìm thuyền viên.<sup id="cite_ref-Poem_1-1" class="reference"><a href="#cite_note-Poem-1">[1]</a></sup><sup id="cite_ref-L255_2-0" class="reference"><a href="#cite_note-L255-2">[2]</a></sup>
 
 ## Cảm hứng {#Inspiration}
 
-[J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được lấy cảm hứng từ một người bạn thú [tiếng Anh cổ](../O/Old_English.md), xuất hiện trong <a class="extiw" href="http://en.wikipedia.org/wiki/Exeter_Book" title="wikipedia:Exeter Book">Sách Exeter</a>. Ý tưởng về rùa biển khổng lồ cuối cùng bắt nguồn từ thần thoại phương Đông, và trong các phiên bản châu Âu, quái vật này thường bị nhầm lẫn với cá voi.<sup id="cite_ref-L255_2-1" class="reference"><a href="#cite_note-L255-2">[2]</a></sup>
+[J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được lấy cảm hứng từ một [tiếng Anh cổ](../O/Old_English.md) thú vật xuất hiện trong <a class="extiw" href="http://en.wikipedia.org/wiki/Exeter_Book" title="wikipedia:Exeter Book">Sách Exeter</a>. Ý tưởng về rùa biển khổng lồ cuối cùng bắt nguồn từ thần thoại phương Đông, và trong các phiên bản châu Âu, quái vật này thường bị nhầm lẫn với cá voi.<sup id="cite_ref-L255_2-1" class="reference"><a href="#cite_note-L255-2">[2]</a></sup>
 
 ## Phiên bản khác của truyền thuyết {#Other_version_of_the_legendarium}
 
-Người ta không bao giờ giải thích được liệu cá rùa là một chủng tộc có thật hay chỉ là một nhân vật hư cấu trong bài thơ "[Fastitocalon](<../F/Fastitocalon_(poem).md>)". Trong phiên bản trước của [huyền thoại](../L/Legendarium.md), [Ulmo](../U/Ulmo.md), Chúa tể vùng biển, sử dụng con cá voi khổng lồ của mình, [Uin](../U/Uin.md), để kéo [Tol Eressëa](Tol_Eressëa.md) về phía [Aman](../A/Aman.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Con cá voi này xuất hiện trở lại trong câu chuyện của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) *[Roverandom](../R/Roverandom.md)*. Có thể nghĩ rằng Tolkien, trong giai đoạn đầu của thần thoại, đã tưởng tượng fastitocalon là một trong những sinh vật khác của Ulmo.
+Người ta không bao giờ giải thích được liệu cá rùa là một chủng tộc có thật hay chỉ là một nhân vật hư cấu trong bài thơ "[Fastitocalon](<../F/Fastitocalon_(poem).md>)". Trong phiên bản trước của [huyền thoại](../L/Legendarium.md), [Ulmo](../U/Ulmo.md), Chúa tể vùng biển, sử dụng con cá voi khổng lồ của mình, [Uin](../U/Uin.md), để kéo [Tol Eressëa](Tol_Eressëa.md) về phía [Aman](../A/Aman.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Con cá voi này xuất hiện trở lại trong câu chuyện của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) *[Roverandom](../R/Roverandom.md)*. Có thể nghĩ rằng Tolkien, trong giai đoạn đầu của thần thoại, đã tưởng tượng fastitocalon là một sinh vật khác của Ulmo.
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1982-2007: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Nhập vai Trung Địa</a></i>:</b>
+<b>1982-2007: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>:</b>
 
 <dl><dd>Turtle-fish, also called <i>Fell Turtles</i> and <i>Festitycelyn</i>, are described as monsters that can grow as large as fifty feet in length, and that live both in the seas and in the large rivers and lakes.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></dd></dl>
 
-<b>1995-1997: <i><a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Trò chơi thẻ bài sưu tầm ở Trung Địa</a></i>:</b>
+<b>1995-1997: <i><a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Trung Địa Trò chơi bài sưu tầm</a></i>:</b>
 
 <dl><dd>The card &#34;Fell Turtle&#34;, released in the set <i><a href="../M/Middle-earth%253A_The_Wizards.md" title="Middle-earth: The Wizards">METW</a></i>, is a Hazard Creature.</dd></dl>
 
-<b>2007: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
+<b>2007: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd><i>Dread-turtles</i>, huge reptiles with spiky shells, are possibly inspired by the Turtle-fish. The largest dread-turtle, found in <a href="../R/Rohan.md" title="Rohan">Rohan</a>, is referred to as the Fastitocalon.</dd></dl>
 

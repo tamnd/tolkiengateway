@@ -52,7 +52,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Vào [3 tháng 3](../_/3_March.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> ông ta bị vướng vào một tia lửa cháy do [Saruman](../S/Saruman.md) phóng lên từ bên dưới [Ring of Isengard](../R/Ring_of_Isengard.md), nhưng cái kết rực lửa của ông ta đã đưa các Ent đồng đội của ông ta lên đến đỉnh điểm của cơn giận dữ hủy diệt.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Vào [3 tháng 3](../_/3_March.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> ông ta bị vướng vào một tia lửa bốc lên từ [Saruman](../S/Saruman.md) từ bên dưới [Vòng Isengard](../R/Ring_of_Isengard.md), nhưng cái kết rực lửa của ông ta đã đưa đồng đội của ông ta Ent lên đến đỉnh điểm cơn giận hủy diệt của họ.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
@@ -68,7 +68,7 @@ Vào [3 tháng 3](../_/3_March.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_A
 		</li>
 </ul>
 
-<b>2002: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">Chúa tể của những chiếc nhẫn: Hai tòa tháp</a></i>:</b>
+<b>2002: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Lord of the Rings: The Two Towers</a></i>:</b>
 
 <dl><dd>An unnamed Ent survives being set alight by extinguishing the flames in the floods of the River <a href="../I/Isen.md" title="Isen">Isen</a>.</dd></dl>
 

@@ -37,7 +37,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mythlore_145.gif.md"><img src="https://tolkiengateway.net/w/images/8/8b/Mythlore_145.gif" decoding="async" loading="lazy" width="225" height="319" class="mw-file-element" data-file-width="225" data-file-height="319"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mythlore 145</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../J/Janet_Brennan_Croft.md" title="Janet Brennan Croft">Janet Brennan Croft</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Fall/Winter <a href="../_/2024.md" title="2024">2024</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">324</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mythlore_144.md" title="Mythlore 144">Mythlore 144</a></td></tr></tbody></table>
 
-<b><i>Thần thoại</i> 145</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol43/iss1/" rel="noreferrer noopener" target="_blank">Tập 43, Số 1</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
+<b><i>Mythlore</i> 145</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol43/iss1/" rel="noreferrer noopener" target="_blank">Tập 43, Số 1</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
 
 ## Nội dung {#Contents}
 
@@ -67,19 +67,19 @@ infobox:
 
 - *J.R.R. Tolkien’s Utopianism and the Classics* của Hamish Williams. Được đánh giá bởi Robert T. Tally.
 - *Charles Godfrey Leland và những câu chuyện thần kỳ của ông,* do Jack Zipes biên tập. Được đánh giá bởi Toni Thibodeaux.
-- *Pháp sư Mecosta: Russell Kirk, tiểu thuyết Gothic và trí tưởng tượng đạo đức* của Camilo Peralta. Được đánh giá bởi G. Connor Salter.
+- * Pháp sư của Mecosta: Russell Kirk, Tiểu thuyết Gothic và Trí tưởng tượng đạo đức* của Camilo Peralta. Được đánh giá bởi G. Connor Salter.
 - *Vai trò văn học của lịch sử trong tiểu thuyết J.R.R. Tolkien* của Nicholas Birns. Được đánh giá bởi María Fernández Portaencasa.
 - *Nhiều lần và nhiều nơi: C.S. Lewis và Giá trị của Lịch sử* của K. Alan Snyder và Jamin Metcalf. Được đánh giá bởi Landon Loftin.
 - *Thiếu tá và nhà truyền giáo: Những lá thư của Warren Hamilton Lewis và Blanche Biggs*, do Diana Pavlac Glyer biên tập. Được đánh giá bởi Bruce R. Johnson.
 - *The Phantomwise Tarot and Guidebook* của Erin Morgenstern. Được đánh giá bởi Emily E. Auger.
-- *Sự thương hại, quyền lực và chiếc nhẫn của Tolkien: Thống trị số phận của nhiều người* của Thomas P. Hillman. Được đánh giá bởi Giovanni Carmine Costabile.
-- *Khoa học, Công nghệ và Phép thuật trong The Witcher: Câu chuyện thời Trung cổ về Quái vật Hiện đại* của Kristine Larsen. Được đánh giá bởi Amber Lehning.
+- *Sự thương hại, quyền lực và chiếc nhẫn Tolkien: Thống trị số phận của nhiều người* của Thomas P. Hillman. Được đánh giá bởi Giovanni Carmine Costabile.
+- *Khoa học, Công nghệ và Phép thuật trong The Witcher: Câu chuyện thời Trung cổ xoay quanh Quái vật Hiện đại* của Kristine Larsen. Được đánh giá bởi Amber Lehning.
 - *Representing Middle-Earth: Tolkien, Form, and Ideology* của Robert T. Tally, Jr. Được đánh giá bởi Norbert Schürer.
 - *Tolkien's Faith: A Spiritual Biography* của Holly Ordway và *C.S. Lewis: Spirituality for Mere Christians* của William Griffin. Được đánh giá bởi Martina Juričková.
 - *Barfield nghĩ gì: Giới thiệu về tác phẩm của Owen Barfield* của Landon Loftin và Max Leyf. Được đánh giá bởi Katherine Sas.
-- *Sách hướng dẫn về Quái vật: Triết học, Tôn giáo và Điều huyền bí* của Ryan J. Stark. Được đánh giá bởi Mark A. Brians II.
+- *Sách hướng dẫn về Quái vật: Triết học, Tôn giáo và Hiện tượng huyền bí* của Ryan J. Stark. Được đánh giá bởi Mark A. Brians II.
 - *Thần thoại phương Tây (Mặt nạ của Chúa, Tập 3)* của Joseph Campbell. Được đánh giá bởi Phillip Fitzsimmons.
-- *Đọc Tolkien bằng tiếng Trung: Tôn giáo, Ảo mộng và Dịch thuật* của Eric Reinders. Được đánh giá bởi Cait Coker.
+- *Đọc Tolkien bằng tiếng Trung: Tôn giáo, Ảo tưởng và Dịch thuật* của Eric Reinders. Được đánh giá bởi Cait Coker.
 - Lưu ý ngắn gọn: *Ràng buộc tất cả: Quan điểm liên ngành về J.R.R. Tolkien và các tác phẩm của ông*, do Monika Kirner-Ludwig et al. Được đánh giá bởi Troels Forchhammer.
 
 <div class="template-prevnext"><div class="template-prevnext__prev template-prevnext__link"><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/8/81/WikimediaUI-ArrowPrevious-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__content"><div class="template-prevnext__title">Mythlore 144</div></div><div class="template-prevnext__linkoverlay"><a href="Mythlore_144.md" title="Mythlore 144">Mythlore 144</a></div></div><div class="template-prevnext__current"><div class="template-prevnext__content"><div class="template-prevnext__title">Mythlore 145</div></div></div><div class="template-prevnext__next template-prevnext__link template-prevnext__link--new"><div class="template-prevnext__content"><div class="template-prevnext__title">Mythlore 146</div></div><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/7b/WikimediaUI-ArrowNext-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__linkoverlay"><a class="new" href="https://tolkiengateway.net/w/index.php?title=Mythlore_146&amp;action=edit&amp;redlink=1" title="Mythlore 146 (page does not exist)">Mythlore 146</a></div></div></div>

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Nauglamír"
 ---
 
-Chuyển hướng tới [Nauglamír](Nauglamír.md).
+Chuyển hướng đến [Nauglamír](Nauglamír.md).

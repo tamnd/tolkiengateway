@@ -27,13 +27,13 @@ categories:
 <li><a href="../H/Highday.md" title="Highday">Highday</a></li></ol>
 </td></tr></tbody></table>
 
-**Thứ Tư** là ngày thứ sáu trong tuần theo [Lịch Quận](../S/Shire_Calendar.md). Nó đại diện cho ngày [Númenórean](../N/Númenórean.md) *[Oraearon](../O/Oraearon.md)*, dành riêng cho [Biển](../S/Sea.md).<sup id="cite_ref-cal_1-0" class="reference"><a href="#cite_note-cal-1">[1]</a></sup>
+**Thứ Tư** là ngày thứ sáu trong tuần trong [Lịch Shire](../S/Shire_Calendar.md). Nó đại diện cho [Númenórean](../N/Númenórean.md) ngày *[Oraearon](../O/Oraearon.md)*, dành riêng cho [Biển](../S/Sea.md).<sup id="cite_ref-cal_1-0" class="reference"><a href="#cite_note-cal-1">[1]</a></sup>
 
-Sau cuộc cải cách [Isengrim Took II](../I/Isengrim_Took_II.md),<sup id="cite_ref-cal_1-1" class="reference"><a href="#cite_note-cal-1">[1]</a></sup> những ngày như [ngày 1 tháng 3](../_/1_March.md) và [ngày 1 tháng 9](../_/1_September.md) luôn rơi vào Thứ Năm.
+Sau cuộc cải cách [Isengrim Took II](../I/Isengrim_Took_II.md),<sup id="cite_ref-cal_1-1" class="reference"><a href="#cite_note-cal-1">[1]</a></sup> những ngày như [1 tháng 3](../_/1_March.md) và [1 tháng Chín](../_/1_September.md) luôn rơi vào Thứ Tư.
 
 ## Từ nguyên {#Etymology}
 
-*Mersday* đại diện cho một dạng [Hobbitish](../H/Hobbitish.md) cổ "Meresdei", một từ được lưu giữ trong [Yellowskin](../Y/Yellowskin.md).<sup id="cite_ref-cal_1-2" class="reference"><a href="#cite_note-cal-1">[1]</a></sup> Nó chứa thành phần [Tiếng Anh cổ](../O/Old_English.md) <i><a class="extiw" href="http://en.wiktionary.org/wiki/mere#Old_English" title="wiktionary:mere">mere, mer-</a></i> "hồ, hồ; biển".
+*Mersday* đại diện cho một dạng [Hobbitish](../H/Hobbitish.md) cổ xưa "Meresdei", một từ được bảo tồn trong [Yellowskin](../Y/Yellowskin.md).<sup id="cite_ref-cal_1-2" class="reference"><a href="#cite_note-cal-1">[1]</a></sup> Nó chứa phần tử [tiếng Anh cổ](../O/Old_English.md) <i><a class="extiw" href="http://en.wiktionary.org/wiki/mere#Old_English" title="wiktionary:mere">mere, mer-</a></i> "hồ, hồ; biển".
 
 *Mersday* được dịch là Thứ Năm trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, tuy nhiên vì nó là một ngày trước ngày chính trong tuần nên nó tương ứng với Thứ Bảy của chúng ta. Vì lý do này mà có một ngoại lệ, và trong bài thơ *[The Man in the Moon Stayed Up Too Late](../T/The_Man_in_the_Moon_Stayed_Up_Too_Late.md)*, Mersday được dịch là "Thứ Bảy" thay vì Thứ Năm.<sup id="cite_ref-cal_1-3" class="reference"><a href="#cite_note-cal-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 

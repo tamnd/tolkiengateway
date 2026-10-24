@@ -57,4 +57,4 @@ images:
 <dl><dd>Appendix: <a href="../C/Cuivienyarna.md" title="Cuivienyarna">The legend of the Awaking of the Quendi</a></dd></dl></dd></dl>
 </td></tr></tbody></table>
 
-**Biên niên sử xám**, phần đầu tiên trong cuốn sách *[The War of the Jewels](The_War_of_the_Jewels.md)*, kể lại những sự kiện ban đầu ở [Trung địa](../M/Middle-earth.md), chẳng hạn như: sự thức tỉnh của [Yêu tinh](../E/Elves.md), câu chuyện về [Beren](../B/Beren.md) và câu chuyện về [Túrin Turambar](Túrin.md).
+**The Grey Annals**, phần đầu tiên của cuốn sách *[The War of the Jewels](The_War_of_the_Jewels.md)*, kể lại những sự kiện đầu tiên trong [Trung Địa](../M/Middle-earth.md), chẳng hạn như: sự thức tỉnh của [Tiên tộc](../E/Elves.md), câu chuyện về [Beren](../B/Beren.md) và câu chuyện về [Túrin Turambar](Túrin.md).

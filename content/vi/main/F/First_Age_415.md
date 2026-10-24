@@ -16,11 +16,11 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="../T/Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><b>I</b><a href="../S/Second_Age.md" title="Second Age">II</a><a href="../T/Third_Age.md" title="Third Age">III</a><a href="Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="First_Age_410.md" title="First Age 410">410</a><a href="First_Age_411.md" title="First Age 411">411</a><a href="First_Age_414.md" title="First Age 414">414</a><a class="mw-selflink selflink">415</a><a href="First_Age_416.md" title="First Age 416">416</a><a href="First_Age_417.md" title="First Age 417">417</a><a href="First_Age_418.md" title="First Age 418">418</a></div></div></div></div></div></div>
 
-**Kỷ nguyên thứ nhất 415** (viết tắt là **F.A. 415**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 415 của [Kỷ nguyên thứ nhất](First_Age.md) của [Trung Địa](../M/Middle-earth.md).
+**Kỷ Đệ Nhất 415** (viết tắt là **F.A. 415**) là năm [thứ 415 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Nhất](First_Age.md) của [Trung Địa](../M/Middle-earth.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- [Hador](../H/Hador.md) hoàn thành 10 năm phục vụ với [Fingolfin](Fingolfin.md).<sup id="cite_ref-West_1-0" class="reference"><a href="#cite_note-West-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:228</sup>
+- [Hador](../H/Hador.md) hoàn thành mười năm dịch vụ với [Fingolfin](Fingolfin.md).<sup id="cite_ref-West_1-0" class="reference"><a href="#cite_note-West-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:228</sup>
 - Sự ra đời của [Glóredhel](../G/Glóredhel.md).<sup id="cite_ref-West_1-1" class="reference"><a href="#cite_note-West-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:234</sup>
 
 <span></span>

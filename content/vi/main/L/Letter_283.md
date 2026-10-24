@@ -30,7 +30,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Benjamin P. Indick đã gửi cho Tolkien một bức thư dài kèm theo những bình luận và thắc mắc. Tolkien nói với ông rằng ông xứng đáng nhận được câu trả lời dài hơn nhiều, nhưng ông bị ép về thời gian; trên thực tế, nếu Tolkien muốn tạo ra nhiều câu chuyện hơn, như Indick yêu cầu, điều đó có nghĩa là Tolkien không thể trả lời thư của người hâm mộ. <br>
+Benjamin P. Indick đã gửi Tolkien một lá thư dài kèm theo những bình luận và thắc mắc. Tolkien nói với ông rằng ông xứng đáng nhận được câu trả lời dài hơn nhiều, nhưng ông bị ép về thời gian; trên thực tế, nếu Tolkien muốn tạo ra nhiều câu chuyện hơn, như Indick đã hỏi, điều đó có nghĩa là Tolkien không thể trả lời thư của người hâm mộ chút nào. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

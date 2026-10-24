@@ -11,4 +11,4 @@ redirect_target: "Tolkien Gateway:Naming policy"
 redirect_fragment: "Disambiguation"
 ---
 
-Chuyển hướng tới [Cổng Tolkien:Chính sách đặt tên](../N/Naming_policy.md#Disambiguation).
+Chuyển hướng tới [Tolkien Gateway:Chính sách đặt tên](../N/Naming_policy.md#Disambiguation).

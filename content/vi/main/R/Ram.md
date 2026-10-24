@@ -13,18 +13,18 @@ categories:
   - "Sindarin nouns"
 ---
 
-<i><b>ram</b></i> là danh từ [tiếng Sindarin](../S/Sindarin.md) và có nghĩa là "bức tường".<sup id="cite_ref-silmap_1-0" class="reference"><a href="#cite_note-silmap-1">[1]</a></sup>
+<i><b>ram</b></i> là danh từ [Sindarin](../S/Sindarin.md) và có nghĩa là "bức tường".<sup id="cite_ref-silmap_1-0" class="reference"><a href="#cite_note-silmap-1">[1]</a></sup>
 
 ## Ví dụ {#Examples}
 
 - *[Andram](../A/Andram.md)*, "Bức tường dài"<sup id="cite_ref-silmob_2-0" class="reference"><a href="#cite_note-silmob-2">[2]</a></sup>
 - *[Ramdal](Ramdal.md)*, "Nơi cuối bức tường"<sup id="cite_ref-silmob_2-1" class="reference"><a href="#cite_note-silmob-2">[2]</a></sup>
-- *[Rammas Echor](Rammas_Echor.md)*, "bức tường lớn của vòng ngoài";<sup id="cite_ref-lotrindex_3-0" class="reference"><a href="#cite_note-lotrindex-3">[3]</a></sup> bức tường bao quanh và bao bọc [Cánh đồng Pelennor](../P/Pelennor_Fields.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+- *[Rammas Echor](Rammas_Echor.md)*, "bức tường lớn của vòng ngoài";<sup id="cite_ref-lotrindex_3-0" class="reference"><a href="#cite_note-lotrindex-3">[3]</a></sup> bức tường bao quanh và bao bọc [cánh đồng Pelennor](../P/Pelennor_Fields.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Xem thêm {#See_also}
 
 - *[gobel](../G/Gobel.md)*, "nhà có tường bao quanh hoặc làng, thị trấn"
-- *[ramba](Ramba.md)*, "bức tường" ([Quenya](../Q/Quenya.md))
+- *[ramba](Ramba.md)*, "tường" ([Quenya](../Q/Quenya.md))
 
 <span></span>
 

@@ -19,11 +19,11 @@ sort_keys:
 
 <i><b>lár</b></i> có nghĩa là "dừng hoặc tạm dừng" trong [Quenya](../Q/Quenya.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Từ này cũng đề cập đến thước đo tuyến tính [Númenórean](../N/Númenóreans.md) gần tương đương và được dịch trong văn bản là một giải đấu. Trong khi "giải đấu" của chúng tôi là 5280 thước Anh (4828 mét), *lár* là 5277 thước Anh, 2 feet và 4 inch (4825 mét) hoặc 5000 *[rangar](../R/Ranga.md)*. Gọi là "tạm dừng" vì các đơn vị quân đội Númenórean hành quân thường tạm dừng mỗi 5000 *rangar*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Từ này cũng đề cập đến thước đo tuyến tính [Númenórean](../N/Númenóreans.md) gần tương đương với và được dịch trong văn bản là giải đấu. Trong khi "giải đấu" của chúng tôi là 5280 thước Anh (4828 mét), *lár* là 5277 thước Anh, 2 feet và 4 inch (4825 mét) hoặc 5000 *[rangar](../R/Ranga.md)*. Gọi là "tạm dừng" vì Númenórean các đơn vị quân đội hành quân thường tạm dừng cứ sau 5000 *rangar*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Có cùng nguồn gốc {#Cognates}
 
-- [Tiếng Sindarin](../S/Sindarin.md) *[daur](../D/Daur.md)*
+- [Sindarin](../S/Sindarin.md) *[daur](../D/Daur.md)*
 
 ## Xem thêm {#See_also}
 

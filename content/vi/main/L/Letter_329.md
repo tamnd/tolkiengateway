@@ -31,9 +31,9 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien nói rằng ông không có thời gian để cung cấp tài liệu thư mục nhưng muốn nêu ba điểm:
+Tolkien cho biết ông không có thời gian để cung cấp tài liệu thư mục nhưng muốn nêu ba điểm:
 
-Đầu tiên, một trong những ý kiến ​​​​mạnh mẽ nhất của ông cho rằng việc điều tra tiểu sử của một tác giả là một cách tiếp cận sai lầm và viển vông đối với các tác phẩm của ông ấy, đặc biệt là đối với nghệ thuật kể chuyện. Anh viết để được thưởng thức. Một số độc giả thích phê bình hoặc phân tích tác phẩm, họ có thể tự do làm điều đó miễn là họ thực sự chăm chú *read* tác phẩm trước. Tolkien không thông cảm với thái độ này, trích dẫn [Gandalf](../G/Gandalf.md): "Người đập vỡ một đồ vật để tìm hiểu xem nó là gì thì đã rời khỏi con đường khôn ngoan."<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Đầu tiên, một trong những ý kiến ​​​​mạnh mẽ nhất của ông cho rằng việc điều tra tiểu sử của một tác giả là một cách tiếp cận sai lầm và viển vông đối với các tác phẩm của ông ấy, đặc biệt là đối với nghệ thuật kể chuyện. Anh viết để được thưởng thức. Một số độc giả thích phê bình hoặc phân tích tác phẩm, họ có thể tự do làm điều đó miễn là họ thực sự chăm chú *read* tác phẩm trước. Tolkien không đồng tình với thái độ này, trích dẫn [Gandalf](../G/Gandalf.md): "Người đập đồ để tìm hiểu xem đó là gì thì đã rời khỏi con đường trí tuệ."<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Thứ hai, Tolkien không quan tâm đến lịch sử văn học nối tiếp hay lịch sử của “tiểu thuyết” tiếng Anh. Tác phẩm của ông là một tác phẩm "lãng mạn anh hùng", một thể loại văn học cổ hơn và khá khác biệt.
 

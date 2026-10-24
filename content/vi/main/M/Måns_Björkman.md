@@ -22,24 +22,24 @@ sort_keys:
 
 **Måns Björkman Berg** hay còn gọi là **Elros** là nhà ngôn ngữ học [Tolkien](../J/J.R.R._Tolkien.md) người Thụy Điển và là thành viên của [Tolkiensällskapet Forodrim](../F/Forodrim.md).
 
-Trên trang web của mình, <i><a class="external text" href="http://at.boktypografen.se/index.html" rel="noreferrer noopener" target="_blank">Amanye Tenceli: Hệ thống chữ viết của Aman</a></i>, Berg chuyên trình bày và thảo luận về các hệ thống chữ viết do Tolkien phát minh ([Tengwar](../T/Tengwar.md) và [Sarati](../S/Sarati.md)).
+Trên trang web của mình, <i><a class="external text" href="http://at.boktypografen.se/index.html" rel="noreferrer noopener" target="_blank">Amanye Tenceli: Hệ thống chữ viết của Aman</a></i>, Berg chuyên trình bày và thảo luận về các hệ thống chữ viết được phát minh bởi Tolkien ([Tengwar](../T/Tengwar.md) và [Sarati](../S/Sarati.md)).
 
-Berg cũng làm việc trong lĩnh vực thiết kế đồ họa, chẳng hạn như ông đã tạo ra các phông chữ máy tính dựa trên hệ thống chữ viết của Tolkien và thiết kế cho tập sách nhỏ tiếng Thụy Điển *[Alviska fraser](../A/Alviska_fraser.md)* ("Cụm từ Elvish").<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Berg cũng làm việc trong lĩnh vực thiết kế đồ họa, chẳng hạn như ông đã tạo ra các phông chữ máy tính dựa trên hệ thống chữ viết của Tolkien và thiết kế cho tập sách nhỏ tiếng Thụy Điển *[Alviska fraser](../A/Alviska_fraser.md)* ("Elvish Cụm từ").<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Thư mục {#Bibliography}
 
 ### Bài viết {#Articles}
 
 - [1998](../_/1998.md): \[Đăng trực tuyến tại trang web Forodrim\]
-    - "<a class="external text" href="http://www.forodrim.org/gobennas/chron_en.html" rel="noreferrer noopener" target="_blank">Biên niên sử xứ Arda</a>"
+    - "<a class="external text" href="http://www.forodrim.org/gobennas/chron_en.html" rel="noreferrer noopener" target="_blank">Biên niên sử của Arda</a>"
 - [2005](../_/2005.md): [*Arda Philology* 1](../A/Arda_Philology_1.md)
     - "Kịch bản của Aman"
 - [2009](../_/2009.md): [*Arda Philology* 2](../A/Arda_Philology_2.md)
-    - "Chế độ Feanorian của 'Từ nguyên'"
+    - "Chế độ Feanorian của 'The Etymologies'"
 - [2011](../_/2011.md): [*Arda Philology* 3](../A/Arda_Philology_3.md)
-    - "Lớp động từ Quenya"
+    - "Quenya Các lớp động từ"
 - [2013](../_/2013.md): [*Arda Philology* 4](../A/Arda_Philology_4.md)
-    - "Phần tham gia của Quenya"
+    - "Các phần tử củaQuenya"
 - [2015](../_/2015.md): [*Arda Philology* 5](../A/Arda_Philology_4.md)
     - "“Trên đầu ngón chân của bà”: Một số lưu ý về sự phát triển của “Nieninque”"
 

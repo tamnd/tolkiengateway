@@ -31,17 +31,17 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Village</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Bucklebury</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>General Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="Buckland.md" title="Buckland">Buckland</a></td></tr><tr><th scope="row" class="tg-infobox-label">Type</th><td class="tg-infobox-data">Village</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>People and History</span></th></tr><tr><th scope="row" class="tg-infobox-label">Inhabitants</th><td class="tg-infobox-data"><a href="../H/Hobbits.md" title="Hobbits">Hobbits</a></td></tr></tbody></table>
 
-**Bucklebury** là ngôi làng chính của [Buckland](Buckland.md), nằm dưới bóng [Buck Hill](Buck_Hill.md), trụ sở của [Chủ nhân Buckland](../M/Master_of_Buckland.md). Nó được xây dựng cách bờ sông khoảng một dặm về phía đông [Brandywine](Brandywine.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Bucklebury** là làng trưởng của [Buckland](Buckland.md), nằm dưới bóng của [Buck Hill](Buck_Hill.md), trụ sở của [Chủ nhân của Buckland](../M/Master_of_Buckland.md). Nó được xây dựng cách bờ sông khoảng một dặm về phía đông [Brandywine](Brandywine.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-[Phà Bucklebury](Bucklebury_Ferry.md) là tuyến đi qua [Brandywine](Brandywine.md) giữa Bucklebury và [Marish](../M/Marish.md).
+[Bến phà Bucklebury](Bucklebury_Ferry.md) là một lối đi xuyên qua [Brandywine](Brandywine.md) giữa Bucklebury và [Marish](../M/Marish.md).
 
 ## Từ nguyên {#Etymology}
 
 Tên có nghĩa là Buck-burg, hay Buck-town (*buck* luôn có nghĩa là dê đực hoặc hươu).
 
-[Tolkien](../J/J.R.R._Tolkien.md) lưu ý rằng đó là "Buck*le*bury" chứ không phải "Buckbury" đơn giản vì từ này là một sự thay đổi của *Bucken-bury* trước đó (Bucken là số nhiều cổ) hoặc rút gọn của <i><b>Buckl</b>và</i>.<sup id="cite_ref-nomen_2-0" class="reference"><a href="#cite_note-nomen-2">[2]</a></sup>
+[Tolkien](../J/J.R.R._Tolkien.md) lưu ý rằng đó là "Buck*le*bury" chứ không phải "Buckbury" đơn giản vì từ này là một sự thay đổi của *Bucken-bury* trước đó (Bucken là số nhiều cổ xưa) hoặc rút gọn <i><b>Buckl</b>và</i>.<sup id="cite_ref-nomen_2-0" class="reference"><a href="#cite_note-nomen-2">[2]</a></sup>
 
-Dựa trên điều này, [David Salo](../D/David_Salo.md) đã gợi ý rằng Bucklebury đại diện cho một dạng [Old Hobbitish](../O/Old_English.md) có thể có \**Buccanburh* "[Bucca](Bucca.md)'s burg".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> <span></span>
+Dựa trên điều này, [David Salo](../D/David_Salo.md) đã gợi ý rằng Bucklebury đại diện cho một dạng [Cũ Hobbitish](../O/Old_English.md) có thể có \**Buccanburh* "[Bucca](Bucca.md)'s burg".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

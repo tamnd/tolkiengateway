@@ -17,7 +17,7 @@ categories:
 
 ## Từ nguyên {#Etymology}
 
-Trình chỉnh sửa [Patrick H. Wynne](../P/Patrick_H._Wynne.md) liên kết *mene* ("đi") đến [gốc](../S/Sundocarme.md) [MEN](MEN~35108.md) ("đi").<sup id="cite_ref-VT_1-1" class="reference"><a href="#cite_note-VT-1">[1]</a></sup>
+Trình chỉnh sửa [Patrick H. Wynne](../P/Patrick_H._Wynne.md) liên kết *mene* ("đi") đến [gốc](../S/Sundocarme.md) [MEN](MEN~35108.md) ("go").<sup id="cite_ref-VT_1-1" class="reference"><a href="#cite_note-VT-1">[1]</a></sup>
 
 ## Ví dụ {#Examples}
 

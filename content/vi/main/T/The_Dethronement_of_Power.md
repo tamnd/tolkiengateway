@@ -12,4 +12,4 @@ categories:
   - "Published articles"
 ---
 
-“**Sự lật đổ quyền lực**” là tựa đề bài phê bình văn học của *[The Two Towers](The_Two_Towers.md)* và *[The Return of the King](The_Return_of_the_King.md)*. Nó được viết bởi [C.S. Lewis](../C/C.S._Lewis.md) và được xuất bản lần đầu trên *Time and Tide* vào [22 tháng 10](../_/22_October.md) [1955](../_/1955.md) (tr. 1373). Nó đã được tái bản trong *[Tolkien and the Critics](Tolkien_and_the_Critics.md)*.
+"**Sự lật đổ quyền lực**" là tựa đề bài phê bình văn học của *[The Two Towers](The_Two_Towers.md)* và *[The Return of the King](The_Return_of_the_King.md)*. Nó được viết bởi [C.S. Lewis](../C/C.S._Lewis.md) và được xuất bản lần đầu trên *Time and Tide* vào [22 tháng 10](../_/22_October.md) [1955](../_/1955.md) (tr. 1373). Nó đã được tái bản trong *[Tolkien and the Critics](Tolkien_and_the_Critics.md)*.

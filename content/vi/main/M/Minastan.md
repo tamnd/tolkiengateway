@@ -51,7 +51,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Trong [T.A.](../T/Third_Age.md) [1636](../T/Third_Age_1636.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Anh trai của Minastan [Telemnar](../T/Telemnar.md) chỉ ngồi trên ngai vàng của cha họ được hai năm thì ông qua đời cùng tất cả những người thừa kế trong [Đại dịch](../G/Great_Plague.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Minastan cũng đã chết vào thời điểm này - có lẽ ông cũng đã chết trong Bệnh dịch - nhưng ông đã để lại một người thừa kế còn sống, [Tarondor](<../T/Tarondor_(King_of_Gondor).md>), người đã trở thành vị vua đầu tiên của một dòng mới.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Trong [T.A.](../T/Third_Age.md) [1636](../T/Third_Age_1636.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> anh trai của Minastan [Telemnar](../T/Telemnar.md) chỉ ngồi trên ngai vàng của cha họ được hai năm thì ông qua đời cùng tất cả những người thừa kế ở [Đại Dịch](../G/Great_Plague.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Minastan cũng đã chết vào thời điểm này - có lẽ ông cũng đã chết trong Dịch hạch - nhưng ông đã để lại một người thừa kế còn sống sót, [Tarondor](<../T/Tarondor_(King_of_Gondor).md>), người đã trở thành Vua đầu tiên của một thế hệ mới dòng.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The J.R.R. Tolkien Companion and Guide"
 ---
 
-Chuyển hướng đến [Người đồng hành và Hướng dẫn J.R.R. Tolkien](../T/The_J.R.R._Tolkien_Companion_and_Guide.md).
+Chuyển hướng đến [The J.R.R. Tolkien Companion and Guide](../T/The_J.R.R._Tolkien_Companion_and_Guide.md).

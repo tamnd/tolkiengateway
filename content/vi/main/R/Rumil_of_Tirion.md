@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Rúmil (elf of Tirion)"
 ---
 
-Chuyển hướng đến [Rúmil (yêu tinh của Tirion)](<Rúmil_(elf_of_Tirion).md>).
+Chuyển hướng đến [Rúmil (Tiên của Tirion)](<Rúmil_(elf_of_Tirion).md>).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sarn Athrad"
 ---
 
-Chuyển hướng tới [Sarn Athrad](../S/Sarn_Athrad.md).
+Chuyển hướng đến [Sarn Athrad](../S/Sarn_Athrad.md).

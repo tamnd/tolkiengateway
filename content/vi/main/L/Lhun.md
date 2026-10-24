@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lhûn"
 ---
 
-Chuyển hướng tới [Lhûn](Lhûn.md).
+Chuyển hướng đến [Lhûn](Lhûn.md).

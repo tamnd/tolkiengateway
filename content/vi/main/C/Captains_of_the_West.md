@@ -23,9 +23,9 @@ langlinks:
     url: "https://kontu.wiki/L%C3%A4nnen_P%C3%A4%C3%A4llik%C3%B6t"
 ---
 
-**Thủ lĩnh của phương Tây** là quý tộc của [Gondor](../G/Gondor.md) và các lực lượng đồng minh khác đã tham gia vào giai đoạn sau của [Chiến tranh Nhẫn](../W/War_of_the_Ring.md), cụ thể là lãnh đạo [Quân đội phương Tây](../A/Army_of_the_West.md).
+**Thuyền trưởng của Phương Tây** là quý tộc của [Gondor](../G/Gondor.md) và các lực lượng đồng minh khác đã tham gia vào giai đoạn sau của [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), cụ thể là lãnh đạo [Quân đội của Phương Tây](../A/Army_of_the_West.md).
 
-Đó là [Gandalf](../G/Gandalf.md), [Aragorn](../A/Aragorn.md), [Éomer](../_/Éomer.md), [Imrahil](../I/Imrahil.md) và các lãnh chúa khác,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> có lẽ bao gồm [Elladan](../E/Elladan.md) và [Elrohir](../E/Elrohir.md),<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và họ đã lãnh đạo Quân đội đồng minh chống lại [cổng](../M/Morannon.md) của [Mordor](../M/Mordor.md) và [Trận Morannon](../B/Battle_of_the_Morannon.md) tiếp theo.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Đây là [Gandalf](../G/Gandalf.md), [Aragorn](../A/Aragorn.md), [Éomer](../_/Éomer.md), [Imrahil](../I/Imrahil.md) và các lãnh chúa khác,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> có lẽ bao gồm [Elladan](../E/Elladan.md) và [Elrohir](../E/Elrohir.md),<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và họ đã lãnh đạo Quân đội đồng minh chống lại [cổng](../M/Morannon.md) của [Mordor](../M/Mordor.md) và [Trận Morannon](../B/Battle_of_the_Morannon.md) tiếp theo.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

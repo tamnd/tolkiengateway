@@ -23,7 +23,7 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/K/King_Edward&#39;s_School_Chronicle.jpeg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/ff/King_Edward%27s_School_Chronicle.jpeg/225px-King_Edward%27s_School_Chronicle.jpeg" decoding="async" loading="lazy" width="225" height="341" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/ff/King_Edward%27s_School_Chronicle.jpeg/338px-King_Edward%27s_School_Chronicle.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/f/ff/King_Edward%27s_School_Chronicle.jpeg/450px-King_Edward%27s_School_Chronicle.jpeg 2x" data-file-width="1161" data-file-height="1762"/></a><figcaption>King Edward&#39;s School Chronicle</figcaption></figure>
 
-<i><b>Biên niên sử về trường học của Vua Edward</b></i> là một tạp chí của [Trường học của Vua Edward](King_Edward's_School.md) hoạt động từ những năm 1840.
+<i><b>Vua Biên niên sử trường học của Edward</b></i> là một tạp chí của [King Edward's School](King_Edward's_School.md) hoạt động từ những năm 1840.
 
 Một số số nhất định được xuất bản vào những năm 1910 có các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) khi ông còn là học sinh ở đó. Tất cả các số trước đây đã được Nhà trường số hóa và cung cấp trực tuyến.
 
@@ -31,47 +31,47 @@ Một số số nhất định được xuất bản vào những năm 1910 có 
 
 Số phát hành: tập. 25, không. 183.  <a class="external text" href="https://www.kingedwardvi-kes-archives.org/PDFViewer/web/viewer.html?file=%2fFilename.ashx%3ftableName%3dta_publications%26columnName%3dfilename%26recordId%3d269" rel="noreferrer noopener" target="_blank">Liên kết đến vấn đề</a>
 
-Chứa "Báo cáo về xã hội tranh luận" của Tolkien (trang 68–71).
+Chứa "Báo cáo của Hội tranh luận" của Tolkien(trang 68–71).
 
 ## Tháng 12 năm 1910 {#December_1910}
 
 Số phát hành: tập. 25, không. 184.  <a class="external text" href="https://www.kingedwardvi-kes-archives.org/PDFViewer/web/viewer.html?file=%2fFilename.ashx%3ftableName%3dta_publications%26columnName%3dfilename%26recordId%3d270" rel="noreferrer noopener" target="_blank">Liên kết đến vấn đề</a>
 
-Chứa "Báo cáo về xã hội tranh luận" của Tolkien (trang 94–95).
+Chứa "Báo cáo của Hội tranh luận" của Tolkien(trang 94–95).
 
 ## Tháng 2 năm 1911 {#February_1911}
 
 Số phát hành: tập. 26, không. 185.  <a class="external text" href="https://www.kingedwardvi-kes-archives.org/PDFViewer/web/viewer.html?file=%2fFilename.ashx%3ftableName%3dta_publications%26columnName%3dfilename%26recordId%3d272" rel="noreferrer noopener" target="_blank">Liên kết đến vấn đề</a>
 
-Chứa "Báo cáo về xã hội tranh luận" của Tolkien (trang 5–9).
+Chứa "Báo cáo của Hội tranh luận" của Tolkien(trang 5–9).
 
 ## Tháng 3 năm 1911 {#March_1911}
 
 Số phát hành: tập. 26, không. 186.  <a class="external text" href="https://www.kingedwardvi-kes-archives.org/PDFViewer/web/viewer.html?file=%2fFilename.ashx%3ftableName%3dta_publications%26columnName%3dfilename%26recordId%3d273" rel="noreferrer noopener" target="_blank">Liên kết đến vấn đề</a>
 
-Chứa bài thơ của Tolkien "[Trận chiến trên cánh đồng phía Đông](../T/The_Battle_of_the_Eastern_Field.md)" (trang 22–26) và "[Acta Senatus](../A/Acta_Senatus.md)" (một báo cáo tranh luận bằng tiếng Latinh; trang 26–27).
+Chứa bài thơ của Tolkien"[Trận chiến trên cánh đồng phía Đông](../T/The_Battle_of_the_Eastern_Field.md)" (trang 22–26) và "[Acta Senatus](../A/Acta_Senatus.md)" (một báo cáo tranh luận bằng tiếng Latinh; trang 26–27).
 
 ## Tháng 6 năm 1911 {#June_1911}
 
 Số phát hành: tập. 26, không. 187.  <a class="external text" href="https://www.kingedwardvi-kes-archives.org/PDFViewer/web/viewer.html?file=%2fFilename.ashx%3ftableName%3dta_publications%26columnName%3dfilename%26recordId%3d274" rel="noreferrer noopener" target="_blank">Liên kết đến vấn đề</a>
 
-Chứa "Biên tập" của Tolkien (trang 33–34) và "Báo cáo của Hội tranh luận" (trang 42–45). Số này cũng do chính Tolkien biên tập.
+Chứa "Biên tập" của Tolkien(trang 33–34) và "Báo cáo của Hội tranh luận" (trang 42–45). Số này cũng do chính Tolkien biên tập.
 
 ## Tháng 7 năm 1911 {#July_1911}
 
 Số phát hành: tập. 26, không. 188.  <a class="external text" href="https://www.kingedwardvi-kes-archives.org/PDFViewer/web/viewer.html?file=%2fFilename.ashx%3ftableName%3dta_publications%26columnName%3dfilename%26recordId%3d275" rel="noreferrer noopener" target="_blank">Liên kết đến vấn đề</a>
 
-Chứa "Biên tập" của Tolkien (trang 53–54). Số này cũng do chính Tolkien biên tập.
+Chứa "Biên tập" của Tolkien(trang 53–54). Số này cũng do chính Tolkien biên tập.
 
 ## Tháng 12 năm 1913 {#December_1913}
 
 Số phát hành: tập. 28, không. 202.  <a class="external text" href="https://www.kingedwardvi-kes-archives.org/PDFViewer/web/viewer.html?file=%2fFilename.ashx%3ftableName%3dta_publications%26columnName%3dfilename%26recordId%3d291" rel="noreferrer noopener" target="_blank">Liên kết đến vấn đề</a>
 
-Chứa "Thư Oxford" (trang 80–81), một lá thư của Tolkien báo cáo hoạt động của các học sinh cũ của Trường King Edward hiện tại [Đại học Oxford](../O/Oxford_University.md). Mặc dù được ký tên là "Oxon", quyền tác giả của Tolkien vẫn được tiết lộ trong các giấy tờ của ông.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Chứa "Oxford Thư" (trang 80–81), một lá thư từ Tolkien báo cáo về hoạt động của các học sinh cũ của King Edward's School hiện đang học tại [Oxford Đại học](../O/Oxford_University.md). Mặc dù được ký tên là "Oxon", nhưng quyền tác giả của Tolkien vẫn bị tiết lộ trong các giấy tờ của ông.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="https://www.kingedwardvi-kes-archives.org/authenticated/Browse.aspx?BrowseID=1177&amp;tableName=ta_publications" rel="noreferrer noopener" target="_blank">Lưu trữ trực tuyến</a> của Trường King Edward
+- <a class="external text" href="https://www.kingedwardvi-kes-archives.org/authenticated/Browse.aspx?BrowseID=1177&amp;tableName=ta_publications" rel="noreferrer noopener" target="_blank">Lưu trữ trực tuyến</a> của King Edward's School
 
 <span></span>
 

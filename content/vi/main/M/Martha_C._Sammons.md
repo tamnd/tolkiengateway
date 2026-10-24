@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Sammons, Martha C."
 ---
 
-**Martha C. Sammons**, Tiến sĩ, là giáo sư tiếng Anh tại Đại học Wright State, Dayton, OH, nơi cô đã giảng dạy từ năm 1975. Cô đã viết những cuốn sách liên quan đến [C.S. Lewis](../C/C.S._Lewis.md) và [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
+**Martha C. Sammons**, Tiến sĩ, là giáo sư tiếng Anh tại Đại học Bang Wright, Dayton, OH, nơi bà giảng dạy từ năm 1975. Bà đã viết sách liên quan đến [C.S. Lewis](../C/C.S._Lewis.md) và [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
 ## Thư mục, đã chọn {#Bibliography,_selected}
 
@@ -30,4 +30,4 @@ sort_keys:
 ### Bài viết {#Articles}
 
 - [1985](../_/1985.md): [*Mythlore* 43](Mythlore_43.md)
-    - "Tolkien về Fantasy in Smith of Wootton Major"
+    - "Tolkien về Fantasy trong Smith of Wootton Major"

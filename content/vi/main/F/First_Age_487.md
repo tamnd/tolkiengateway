@@ -16,11 +16,11 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="../T/Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><b>I</b><a href="../S/Second_Age.md" title="Second Age">II</a><a href="../T/Third_Age.md" title="Third Age">III</a><a href="Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="First_Age_484.md" title="First Age 484">484</a><a href="First_Age_485.md" title="First Age 485">485</a><a href="First_Age_486.md" title="First Age 486">486</a><a class="mw-selflink selflink">487</a><a href="First_Age_488.md" title="First Age 488">488</a><a href="First_Age_489.md" title="First Age 489">489</a><a href="First_Age_490.md" title="First Age 490">490</a></div></div></div></div></div></div>
 
-**Kỷ nguyên thứ nhất 487** (viết tắt là **F.A. 487**) là [năm Mặt trời](../Y/Years_of_the_Sun.md) thứ 487 của [Kỷ nguyên thứ nhất](First_Age.md) của [Trung địa](../M/Middle-earth.md).
+**Kỷ Đệ Nhất 487** (viết tắt là **F.A. 487**) là năm [thứ 487 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Nhất](First_Age.md) của [Trung Địa](../M/Middle-earth.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- [Beleg](../B/Beleg.md) quay trở lại [Túrin](../T/Túrin.md) với [Mũ trụ rồng của Dor-lómin](../D/Dragon-helm_of_Dor-lómin.md). Chiến đấu sát cánh xung quanh [Amon Rûdh](../A/Amon_Rûdh.md), khu vực này được gọi là [Dor-Cúarthol](../D/Dor-Cúarthol.md), Vùng đất của Cung và Mũ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+- [Beleg](../B/Beleg.md) quay lại [Túrin](../T/Túrin.md) với [Mũ Rồng của Dor-lómin](../D/Dragon-helm_of_Dor-lómin.md). Chiến đấu sát cánh xung quanh [Amon Rûdh](../A/Amon_Rûdh.md), khu vực này được gọi là [Dor-Cúarthol](../D/Dor-Cúarthol.md), Vùng đất Cung và Helm.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

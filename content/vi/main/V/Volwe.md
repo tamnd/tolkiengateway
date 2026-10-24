@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Olwë"
 ---
 
-Chuyển hướng tới [Olwë](../O/Olwë.md).
+Chuyển hướng đến [Olwë](../O/Olwë.md).

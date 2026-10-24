@@ -12,7 +12,7 @@ categories:
   - "Roots"
 ---
 
-**KHAN** là [Quendian nguyên thủy](../P/Primitive_Quendian.md) [Gốc](../R/Root.md) biểu thị "hiểu, hiểu". <sup id="cite_ref-:0_1-0" class="reference"><a href="#cite_note-:0-1">[1]</a></sup>
+**KHAN** là một [Primitive Quendian](../P/Primitive_Quendian.md) [Gốc](../R/Root.md) biểu thị "hiểu, hiểu". <sup id="cite_ref-:0_1-0" class="reference"><a href="#cite_note-:0-1">[1]</a></sup>
 
 ## Công cụ phái sinh {#Derivatives}
 
@@ -22,7 +22,7 @@ categories:
     - handa *adj.* "hiểu biết, thông minh"
     - tay cầm *n. "*trí tuệ"
     - sự khéo léo *n.* "trí tuệ"
-- [Quenya lưu vong](../E/Exilic_Quenya.md) <sup id="cite_ref-:0_1-2" class="reference"><a href="#cite_note-:0-1">[1]</a></sup>
+- [Người lưu đày Quenya](../E/Exilic_Quenya.md) <sup id="cite_ref-:0_1-2" class="reference"><a href="#cite_note-:0-1">[1]</a></sup>
     - henio *v.* "hiểu được"
     - hann, bàn tay *adj.* "thông minh"
     - hannas *n.* "sự hiểu biết, trí thông minh"

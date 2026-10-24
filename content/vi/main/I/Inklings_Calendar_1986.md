@@ -15,6 +15,6 @@ sort_keys:
   "Calendars (real-world)": "1986, Inklings"
 ---
 
-**Lịch Inklings 1986** được xuất bản bởi Cahill & Co., Three Candle Press. Nó có hình ảnh minh họa của <a class="new" href="https://tolkiengateway.net/w/index.php?title=Joanne_E._Klein&amp;action=edit&amp;redlink=1" title="Joanne E. Klein (page does not exist)">Joanne E. Klein</a>.
+**Inklings Lịch 1986** được xuất bản bởi Cahill & Co., Three Candle Press. Nó có hình ảnh minh họa của <a class="new" href="https://tolkiengateway.net/w/index.php?title=Joanne_E._Klein&amp;action=edit&amp;redlink=1" title="Joanne E. Klein (page does not exist)">Joanne E. Klein</a>.
 
 - Kích thước: 11 x 8,5 inch

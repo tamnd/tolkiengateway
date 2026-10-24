@@ -18,7 +18,7 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Middle-earth_Calendar_2006.jpg.md"><img src="https://tolkiengateway.net/w/images/4/43/Middle-earth_Calendar_2006.jpg" decoding="async" loading="lazy" width="216" height="216" class="mw-file-element" data-file-width="216" data-file-height="216"/></a><figcaption></figcaption></figure>
 
-**Lịch Trung Địa 2006** được xuất bản bởi mlda fronta, Praha, Cộng hòa Séc. Lịch có hình minh họa bằng màu nước hoặc bột màu của <a class="new" href="https://tolkiengateway.net/w/index.php?title=Martin_Zhouf&amp;action=edit&amp;redlink=1" title="Martin Zhouf (page does not exist)">Martin Chuf</a>.
+**Trung Địa Lịch 2006** được xuất bản bởi mlda fronta, Praha, Cộng hòa Séc. Lịch có hình minh họa bằng màu nước hoặc bột màu của <a class="new" href="https://tolkiengateway.net/w/index.php?title=Martin_Zhouf&amp;action=edit&amp;redlink=1" title="Martin Zhouf (page does not exist)">Martin Chuf</a>.
 
 - <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/802040984X">ISBN 80-204-0984-X</a>
 - Kích thước: 11 3/8 x 11 3/8 inch

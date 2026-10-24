@@ -22,7 +22,7 @@ sort_keys:
 
 ## Vai trò {#Roles}
 
-- [1979](../_/1979.md): [ *The Lord of the Rings*](<../T/The_Lord_of_the_Rings_(1979_radio_series).md>) của NPR: [Legolas](../L/Legolas.md), [Wormtongue](../G/Gríma.md), [Faramir](../F/Faramir.md), [Miệng của Sauron](../T/The_Mouth_of_Sauron~36612.md)
+- [1979](../_/1979.md): [ *The Lord of the Rings*](<../T/The_Lord_of_the_Rings_(1979_radio_series).md>) của NPR: [Legolas](../L/Legolas.md), [Wormtongue](../G/Gríma.md), [Faramir](../F/Faramir.md), [ Miệng của Sauron](../T/The_Mouth_of_Sauron~36612.md)
 
 ## Liên kết ngoài {#External_links}
 

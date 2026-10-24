@@ -29,10 +29,10 @@ images:
   - "Disambig.png"
 ---
 
-**Calimehtar** ([Q](../Q/Quenya.md) "Chiến binh ánh sáng", phát âm <span title="Pronunciation in IPA" class="IPA">[ˌkaliˈmeçtar]</span> hoặc trong [Gondor](../G/Gondor.md) <span title="Pronunciation in IPA" class="IPA">[ˌkaliˈmeʃtar]</span>) có thể ám chỉ hai [người Gondorian](../G/Gondorians.md):
+**Calimehtar** ([Q](../Q/Quenya.md) "Chiến binh ánh sáng", phát âm <span title="Pronunciation in IPA" class="IPA">[ˌkaliˈmeçtar]</span> hoặc trong [Gondor](../G/Gondor.md) <span title="Pronunciation in IPA" class="IPA">[ˌkaliˈmeʃtar]</span>) có thể đề cập đến hai [người Gondor](../G/Gondorians.md):
 
 - [Calimehtar](<Calimehtar_(son_of_Calmacil).md>) (sinh sau [T.A.](../T/Third_Age.md) [1126](../T/Third_Age_1126.md)), em trai của [Vua](../K/Kings_of_Gondor.md) [Rómendacil II](../R/Rómendacil_II.md), và ông nội của [Kẻ soán ngôi Castamir](Castamir.md).
-- [Calimehtar](<Calimehtar_(King_of_Gondor).md>) ([T.A.](../T/Third_Age.md) [1736](../T/Third_Age_1736.md) - [1936](../T/Third_Age_1936.md)), [Vua](../K/Kings_of_Gondor.md) thứ ba mươi của [Gondor](../G/Gondor.md), người đã đánh bại [Wainriders](../W/Wainriders.md).
+- [Calimehtar](<Calimehtar_(King_of_Gondor).md>) ([T.A.](../T/Third_Age.md) [1736](../T/Third_Age_1736.md) - [1936](../T/Third_Age_1936.md)), [Vua](../K/Kings_of_Gondor.md) thứ ba mươi trong số [Gondor](../G/Gondor.md) đã đánh bại [Wainriders](../W/Wainriders.md).
 
 <hr style="margin-top:15px;"/>
 

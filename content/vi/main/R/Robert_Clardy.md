@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Clardy, Robert C."
 ---
 
-**Robert C. Clardy** là một trong những nhà thiết kế của *[War in Middle Earth](../W/War_in_Middle_Earth.md)*,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> cùng với [Alan Clark](../A/Alan_Clark.md) và [Mike Singleton](../M/Mike_Singleton.md). Ông và Ann Dickens Clardy đã thành lập [Synergistic Software, inc.](../S/Synergistic_Software,_inc..md).
+**Robert C. Clardy** là một trong những nhà thiết kế của *[War in Middle Earth](../W/War_in_Middle_Earth.md)*,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> cùng với [Alan Clark](../A/Alan_Clark.md) và [Mike Austin Singleton](../M/Mike_Singleton.md). Ông và Ann Dickens Clardy đã thành lập [Synergistic Software, inc.](../S/Synergistic_Software,_inc..md).
 
 ## Liên kết ngoài {#External_links}
 

@@ -36,7 +36,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien đã đính kèm bản thảo che bụi cho *[The Hobbit](../T/The_Hobbit.md)* và thảo luận về việc giảm bớt để xuất bản. Bức vẽ có một dòng chữ [chữ runic](../R/Runes.md) mà ông đã chép lại như sau:
+Tolkien kèm theo bản thảo về tấm che bụi cho *[The Hobbit](../T/The_Hobbit.md)* và thảo luận về việc giảm bớt để xuất bản. Bức vẽ có một dòng chữ [chữ runic](../R/Runes.md) mà ông đã chép lại như sau:
 
 <blockquote class="tg-quote noexcerpt">
 <p>The Hobbit or There and Back Again, being the record of a year&#39;s journey made by Bilbo Baggins; compiled from his memoirs by J.R.R. Tolkien and published by George Allen &amp; Unwin...

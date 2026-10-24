@@ -39,7 +39,7 @@ sort_keys:
 
 <i><b>nêl</b></i>,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> hoặc <i><b>neleð</b></i>,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> là số ba (3, III) trong [Sindarin](../S/Sindarin.md).
 
-Trong [Noldorin](Noldorin.md), tiền thân của Sindarin, ba là <i><b>neledh</b></i>, đã phát triển thành <i><b>neled</b></i> ở Noldorin sau này. Từ này bắt nguồn từ [gốc](../S/Sundocarme.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=NEL&amp;action=edit&amp;redlink=1" title="NEL (page does not exist)">NEL</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-AI_4-0" class="reference"><a href="#cite_note-AI-4">[4]</a></sup>
+Trong [Noldorin](Noldorin.md), tiền thân của Sindarin, ba là <i><b>neledh</b></i>, đã phát triển thành <i><b>neled</b></i> sau này Noldorin. Từ này bắt nguồn từ [gốc](../S/Sundocarme.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=NEL&amp;action=edit&amp;redlink=1" title="NEL (page does not exist)">NEL</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-AI_4-0" class="reference"><a href="#cite_note-AI-4">[4]</a></sup>
 
 <span></span>
 

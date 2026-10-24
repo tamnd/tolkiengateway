@@ -44,7 +44,7 @@ Vào mùa xuân năm 1966, Jellema đã trao đổi thư từ với [J.R.R. Tolk
 ### Bài viết {#Articles}
 
 - [2002](../_/2002.md): *[W.H. Auden: A Legacy](../W/W.H._Auden%253A_A_Legacy.md)*
-    - "Auden on Tolkien: Cuốn sách không có, và Ngôi nhà đã đánh sập nó"
+    - "Auden on Tolkien: Cuốn sách không tồn tại và ngôi nhà đã đánh sập nó"
 - [2006](../_/2006.md): *[J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment](../J/J.R.R._Tolkien_Encyclopedia%253A_Scholarship_and_Critical_Assessment.md)*
     - "Auden, W.H.: Ảnh hưởng của Tolkien"
 

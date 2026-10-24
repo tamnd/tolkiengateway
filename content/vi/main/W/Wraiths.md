@@ -24,23 +24,23 @@ images:
 
 ## Lịch sử {#History}
 
-Trong [Ngày của Người cao tuổi](../E/Elder_Days.md), hồn ma của [Gorlim](../G/Gorlim.md) xuất hiện trong giấc mơ của [Beren](../B/Beren.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Trong [Ngày Người Cao Tuổi](../E/Elder_Days.md), hồn ma [Gorlim](../G/Gorlim.md) xuất hiện trong giấc mơ của [Beren](../B/Beren.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Vào [Kỷ nguyên thứ hai](../S/Second_Age.md), [Đàn ông](../M/Men.md) của [Dãy núi Trắng](White_Mountains.md) đã phá bỏ lời thề với [Isildur](../I/Isildur.md). Tội ác này kết hợp với lời nguyền của Isildur đã biến [Những kẻ vi phạm lời thề](../O/Oathbreakers.md) trở thành những bóng tối ám ảnh những ngọn núi<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> cho đến [Thời đại thứ ba](../T/Third_Age.md). [Aragorn](../A/Aragorn.md) II, với tư cách là [Người thừa kế của Isildur](../H/Heir_of_Isildur.md), đã giải phóng những Kẻ phá lời thề khỏi lời nguyền để đổi lấy sự trợ giúp của họ tại [Pelargir](../P/Pelargir.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Trong [Kỷ Đệ Nhị](../S/Second_Age.md), [Con Người](../M/Men.md) của [Dãy Núi Trắng](White_Mountains.md) đã phá bỏ lời thề với [Isildur](../I/Isildur.md). Tội ác này kết hợp với lời nguyền của Isildur đã biến [Những kẻ vi phạm lời thề](../O/Oathbreakers.md) thành những bóng tối ám ảnh những ngọn núi<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> cho đến [Kỷ Đệ Tam](../T/Third_Age.md). [Aragorn](../A/Aragorn.md) II, với tư cách là [Người thừa kế Isildur](../H/Heir_of_Isildur.md), đã giải phóng những Kẻ phá lời thề khỏi lời nguyền để đáp lại sự trợ giúp của họ tại [Pelargir](../P/Pelargir.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
-Vào Thời đại thứ ba, có tin đồn rằng bóng ma của [Helm Hammerhand](../H/Helm.md) đã ám ảnh kẻ thù của [Rohan](../R/Rohan.md), giết chết những ai cảm thấy sợ hãi.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Trong Kỷ Đệ Tam, có tin đồn rằng hồn ma của [Helm Hammerhand](../H/Helm.md) đã ám ảnh kẻ thù của [Rohan](../R/Rohan.md), giết chết những ai cảm thấy sợ hãi.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
-The most famous of the wraiths were the [Ringwraiths](../N/Nazgûl.md), [Men](../M/Men.md) ensnared by [Sauron](../S/Sauron.md)'s [Nine Rings](../N/Nine_Rings.md).<sup id="cite_ref-LotR_7-0" class="reference"><a href="#cite_note-LotR-7">[7]</a></sup> Some of the victims of the Ringwraiths, too, could be transformed into wraiths, albeit lesser and under their command (although there are no records of such a being).<sup id="cite_ref-FRII1_2-1" class="reference"><a href="#cite_note-FRII1-2">[2]</a></sup> This nearly happened to [Frodo Baggins](../F/Frodo_Baggins.md), after having been stabbed by the [Morgul-knife](../M/Morgul-knife.md) of the [Witch-king](Witch-king.md).<sup id="cite_ref-FRI11_1-1" class="reference"><a href="#cite_note-FRI11-1">[1]</a></sup>
+Bóng ma nổi tiếng nhất là [Nazgûl](../N/Nazgûl.md), [Con Người](../M/Men.md) bị giam giữ bởi [Cửu Nhẫn](../N/Nine_Rings.md) của [Sauron](../S/Sauron.md).<sup id="cite_ref-LotR_7-0" class="reference"><a href="#cite_note-LotR-7">[7]</a></sup> Một số nạn nhân của Nazgûl cũng có thể bị biến thành ma, mặc dù ít hơn và dưới sự chỉ huy của họ (mặc dù không có hồ sơ nào về một sinh vật như vậy).<sup id="cite_ref-FRII1_2-1" class="reference"><a href="#cite_note-FRII1-2">[2]</a></sup> Điều này gần như đã xảy ra với [Frodo Baggins](../F/Frodo_Baggins.md), sau khi bị đâm bởi ma [Con dao Morgul](../M/Morgul-knife.md) của [Vua Phù thủy](Witch-king.md).<sup id="cite_ref-FRI11_1-1" class="reference"><a href="#cite_note-FRI11-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Từ [Bài phát biểu của người da đen](../B/Black_Speech.md)/[Sindarin](../S/Sindarin.md) *[gûl](../G/Gûl.md)* được dịch là "(các) bóng ma" trong [Sách đỏ Westmarch](../R/Red_Book_of_Westmarch.md).<sup id="cite_ref-LotR_7-1" class="reference"><a href="#cite_note-LotR-7">[7]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
+Từ [Hắc Ngữ](../B/Black_Speech.md)/[Sindarin](../S/Sindarin.md) *[gûl](../G/Gûl.md)* được dịch là "ma quỷ" trong [Red Book of Westmarch](../R/Red_Book_of_Westmarch.md).<sup id="cite_ref-LotR_7-1" class="reference"><a href="#cite_note-LotR-7">[7]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
 Trong bản thảo dành cho *[The Lord of the Rings Appendices](../T/The_Lord_of_the_Rings_Appendices.md)*, [Con đường của người chết](../P/Paths_of_the_Dead.md) được cho là đã được bảo vệ bởi "*fell wraiths of the [Forgotten Men](../O/Oathbreakers.md)*".<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
 
-Trong một bản dự thảo khác người ta nói rằng [Những chiếc nhẫn quyền lực](../R/Rings_of_Power.md) đã biến những người mang chúng thành những hồn ma, do đó tạo ra *elf-*, *goblin-*, *men-*hoặc *dwarf-wraiths*.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>
+Trong một bản dự thảo khác, người ta nói rằng [Những Chiếc Nhẫn Quyền Năng](../R/Rings_of_Power.md) đã biến những người mang chúng thành những hồn ma, do đó tạo ra *elf-*, *goblin-*, *men-*hoặc *dwarf-wraiths*.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>
 
 ## Cảm hứng {#Inspiration}
 
@@ -48,19 +48,19 @@ Trong một bản dự thảo khác người ta nói rằng [Những chiếc nh�
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Nhập vai ở Trung Địa</a></i>:</b>
+<b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>:</b>
 
 <dl><dd>The wraith <b>Gaurithoth</b>, an undead Númenórean lieutenant, serves the Witch-king and haunts a burial mound near the Blue Mountains.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup></dd></dl>
 
-<b>2001: <i><a href="../M/Middle-earth_Strategy_Battle_Game.md" title="Middle-earth Strategy Battle Game">Trò chơi chiến đấu chiến lược Trung Địa</a></i>:</b>
+<b>2001: <i><a href="../M/Middle-earth_Strategy_Battle_Game.md" title="Middle-earth Strategy Battle Game">Trung Địa Trò chơi chiến đấu chiến lược</a></i>:</b>
 
 <dl><dd>The <b><a href="../C/Castellans_of_Dol_Guldur.md" title="Castellans of Dol Guldur">Castellans of Dol Guldur</a></b> are wraiths in the service of <a href="../S/Sauron.md" title="Sauron">Sauron</a>. Nameless and with no will of their own, the Castellans are but one facet of that cursed tower’s sleepless malice. Formless, save for the armour that binds them, they stalk the paths about <a href="../D/Dol_Guldur.md" title="Dol Guldur">Dol Guldur</a>, slaying those they find. Each fell to Sauron’s service in a different way; some sought to learn from him as an apprentice does from a master, and others are the eternal remnants of one who has died in agony in Sauron’s dungeons. However they came into the Dark Lord’s service, they are all now bound to his curse and serve him absolutely.</dd></dl>
 
-<b>2002-5: <i><a href="../T/The_Lord_of_the_Rings_Roleplaying_Game.md" title="The Lord of the Rings Roleplaying Game">Trò chơi nhập vai Chúa tể của những chiếc nhẫn</a></i>:</b>
+<b>2002-5: <i><a href="../T/The_Lord_of_the_Rings_Roleplaying_Game.md" title="The Lord of the Rings Roleplaying Game">The Lord of the Rings Trò chơi nhập vai</a></i>:</b>
 
 <dl><dd>Wraiths are the most common of the three type of <a href="../G/Ghosts.md" title="Ghosts">ghosts</a> (the other being <a href="../P/Phantoms.md" title="Phantoms">phantoms</a> and <a href="Wights.md" title="Wights">wights</a>). The wraith is without a physical, tangible form, and consists only of the soul of a person wishing to fulfil an evil goal after his or her death.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup></dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Wraiths refers to the category of Unseen beings that includes the <a href="../N/Nazgûl.md" title="Nazgûl">Nazgûl</a> and victims of <a href="../M/Morgul-knife.md" title="Morgul-knife">Morgul blades</a>. The cursed, lingering spirits of Men such as the <a href="../O/Oathbreakers.md" title="Oathbreakers">Dead Men of Dunharrow</a> are called Shades and categorized as The Dead. Wraiths appeared as leaders of the Enemy and elite forces in many areas. The most commonly encountered wraiths were the red-robed Cargûl. One of the game&#39;s main antagonists, <a class="mw-redirect" href="../M/Mordirith.md" title="Mordirith">Mordirith</a>, was a wraith who is the Steward of <a href="../A/Angmar.md" title="Angmar">Angmar</a>.</dd></dl>
 

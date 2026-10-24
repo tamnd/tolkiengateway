@@ -23,12 +23,12 @@ sort_keys:
 
 ## Xem thêm {#See_also}
 
-- [Tiếng Sindarin](../S/Sindarin.md) *[gil](Gil.md)*
+- [Sindarin](../S/Sindarin.md) *[gil](Gil.md)*
 
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Một trong những dạng lẽ ra phải ở số nhiều, nhưng có vẻ như <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">Tolkien</a> chưa quyết định dạng nào.</span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Một trong các dạng lẽ ra phải ở số nhiều, nhưng có vẻ như <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">Tolkien</a> không quyết định dạng nào.</span>
 </li>
 </ol></div></span>
 

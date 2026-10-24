@@ -18,7 +18,7 @@ sort_keys:
 
 ## -ion<sup>1</sup> {#-ion1}
 
-Được sử dụng làm hậu tố từ viết tắt nam tính trong [Quenya](../Q/Quenya.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Được sử dụng làm hậu tố từ bảo trợ nam tính trong [Quenya](../Q/Quenya.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ### Ví dụ<sup>1</sup> {#Examples1}
 

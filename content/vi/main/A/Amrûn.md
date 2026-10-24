@@ -17,17 +17,17 @@ sort_keys:
   "Sindarin nouns": "Amrun"
 ---
 
-## Tiếng Sindarin {#Sindarin}
+## Sindarin {#Sindarin}
 
-<i><b>amrûn</b></i> là một từ [tiếng Sindarin](../S/Sindarin.md) có nghĩa là "phía đông".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>amrûn</b></i> là một từ [Sindarin](../S/Sindarin.md) có nghĩa là "phía đông".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ### Xem thêm {#See_also}
 
-- Tiếng Sindarin *[rhûn](../R/Rhûn.md)*
+- Sindarin *[rhûn](../R/Rhûn.md)*
 
 ## Noldorin {#Noldorin}
 
-<i><b>amrûn</b></i> là từ [Noldorin](../N/Noldorin.md) có nghĩa là "nổi dậy, mặt trời mọc, Phương Đông".<sup id="cite_ref-LR_2-0" class="reference"><a href="#cite_note-LR-2">[2]</a></sup>
+<i><b>amrûn</b></i> là một từ [Noldorin](../N/Noldorin.md) có nghĩa là "nổi dậy, mặt trời mọc, Phương Đông".<sup id="cite_ref-LR_2-0" class="reference"><a href="#cite_note-LR-2">[2]</a></sup>
 
 ### Từ nguyên {#Etymology}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "North Sindarin"
 ---
 
-Chuyển hướng tới [Bắc Sindarin](../N/North_Sindarin.md).
+Chuyển hướng về [Bắc Sindarin](../N/North_Sindarin.md).

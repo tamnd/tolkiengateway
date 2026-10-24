@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Journey to the Grey Havens"
 ---
 
-Chuyển hướng tới [Hành trình đến những thiên đường xám](../T/The_Journey_to_the_Grey_Havens.md).
+Chuyển hướng đến [Hành trình tới Cảng Xám](../T/The_Journey_to_the_Grey_Havens.md).

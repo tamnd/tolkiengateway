@@ -35,21 +35,21 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tolkien_and_the_Study_of_His_Sources.jpg.md"><img src="https://tolkiengateway.net/w/images/5/55/Tolkien_and_the_Study_of_His_Sources.jpg" decoding="async" loading="lazy" width="280" height="420" class="mw-file-element" data-file-width="280" data-file-height="420"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Tolkien and the Study of His Sources: Critical Essays</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data">Edited by <a href="../J/Jason_Fisher.md" title="Jason Fisher">Jason Fisher</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">McFarland</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">August <a href="../_/2011.md" title="2011">2011</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/978-0-7864-6482-1" title="Special:BookSources/978-0-7864-6482-1">978-0-7864-6482-1</a></td></tr></tbody></table>
 
-<i><b>Tolkien và nghiên cứu về các nguồn của ông: Các bài luận phê bình</b></i>,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> do [Jason Fisher](../J/Jason_Fisher.md) biên tập, là một tập hợp các bài tiểu luận — đề cập đến <a class="extiw" href="http://en.wikipedia.org/wiki/Source_criticism" title="wikipedia:Source criticism">phê bình nguồn</a> — về các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Cuốn sách đã được trao Giải thưởng Học bổng Thần thoại năm 2014 của [Hiệp hội Thần thoại](../M/Mythopoeic_Society.md) dành cho Nghiên cứu về Inklings.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[1]</a></sup>
+<i><b>Tolkien và Nghiên cứu về các nguồn của ông: Các bài tiểu luận phê bình</b></i>,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> do [Jason Fisher](../J/Jason_Fisher.md) biên tập, là một tập hợp các bài tiểu luận — đề cập đến <a class="extiw" href="http://en.wikipedia.org/wiki/Source_criticism" title="wikipedia:Source criticism">phê bình nguồn</a> — về các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Cuốn sách đã được trao giải [Hiệp hội thần thoại](../M/Mythopoeic_Society.md) năm 2014 Giải thưởng Học thuật Mythopoeic cho Nghiên cứu về nhóm Inklings.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[1]</a></sup>
 
-*Tolkien và nghiên cứu về các nguồn của ông* bao gồm "tài liệu chính mới: trích dẫn từ một số bức thư chưa được xuất bản trước đó<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 2]</a></sup> cũng như từ các bài giảng chưa xuất bản của Tolkien về '[Truyền thuyết về người Goth](The_Goths.md)'".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[2]</a></sup>
+*Tolkien và Nghiên cứu về các nguồn của ông* bao gồm "tài liệu cơ bản mới: các trích dẫn từ một số bức thư chưa được xuất bản trước đây<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 2]</a></sup> cũng như từ các ghi chú bài giảng chưa được xuất bản của Tolkien về '[Truyền thuyết về người Goth](The_Goths.md)'".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[2]</a></sup>
 
 ## Nội dung {#Contents}
 
 - "Giới thiệu: Tại sao lại là nguồn phê bình?" ([Tom Shippey](Tom_Shippey.md))
 - "Phê bình nguồn: Bối cảnh và ứng dụng" (E.L. Risden)
-- "Tolkien và phê bình nguồn: Nhận xét và làm lại" (Jason Fisher)
+- "Tolkien và Phê bình Nguồn: Nhận xét và Làm lại" (Jason Fisher)
 - "Những hòn đá và cuốn sách: Tolkien, Lưỡng Hà và Thần thoại Kinh thánh" (Nicholas Birns)
-- "Chim biển và sao mai: Ceyx, Alcyone, và nhiều dạng biến thái của Eärendil và Elwing" ([Kristine Larsen](../K/Kristine_Larsen.md))
+- "Biển Những chú chim và những vì sao mai: Ceyx, Alcyone và nhiều dạng biến thái của Eärendil và Elwing" ([Kristine Larsen](../K/Kristine_Larsen.md))
 - "'Byzantium, Rome Mới!': Người Goth, Langobards và Byzantium ở *The Lord of the Rings*" (Miryam Librán-Moreno)
-- "Người Rohirrim: 'Người Anglo-Saxon trên lưng ngựa'? Cuộc điều tra về việc sử dụng các nguồn của Tolkien" ([Thomas Honegger](Thomas_Honegger.md))
-- " *The Golden Legend* của William Caxton làm Nguồn cho *The Lord of the Rings* của J.R.R. Tolkien" (Judy Ann Ford)
-- "*She* và Tolkien, được xem lại" ([John D. Rateliff](../J/John_D._Rateliff.md))
+- " Rohirrim: 'Người Anglo-Saxon trên lưng ngựa'? Cuộc điều tra về việc sử dụng các nguồn của Tolkien" ([Thomas Honegger](Thomas_Honegger.md))
+- "William Caxton's *The Golden Legend* làm Nguồn cho J.R.R. Tolkien's *The Lord of the Rings*" (Judy Ann Ford)
+- "*She* và Tolkien, Đã truy cập lại" ([John D. Rateliff](../J/John_D._Rateliff.md))
 - "Đọc John Buchan để tìm kiếm J.R.R. Tolkien" ([Mark T. Hooker](../M/Mark_T._Hooker.md))
 - "Tiểu sử là nguồn: Niggles and Notions" (Diana Pavlac Glyer và [Josh B. Long](../J/Josh_B._Long.md))
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Faerie"
 ---
 
-Chuyển hướng tới [Thần tiên](Faerie.md).
+Chuyển hướng đến [Faerie](Faerie.md).

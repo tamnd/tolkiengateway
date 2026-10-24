@@ -62,7 +62,7 @@ Sự kiện xảy ra vào ngày 12 tháng 6
 
 ## Trên Trái đất {#On_Earth}
 
-- **[1925](1925.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một bức thư cho ông Ashton](../L/Letter_to_Mr_Ashton.md).
+- **[1925](1925.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư cho ông Ashton](../L/Letter_to_Mr_Ashton.md).
 - **[1932](1932.md)** - Diễn viên [Michael Elsworth](../M/Michael_Elsworth.md) ra đời.
 - **[1967](1967.md)** - [Donald Swann](../D/Donald_Swann.md) và [William Elvin](../W/William_Elvin.md) thu âm nhạc cho *[The Road Goes Ever On](<../T/The_Road_Goes_Ever_On_(book).md>)*.
 - **[2002](2002.md)** - *[The Art of The Fellowship of the Ring](../T/The_Art_of_The_Fellowship_of_the_Ring.md)* được xuất bản.

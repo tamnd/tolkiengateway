@@ -27,7 +27,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Trong thời gian [Frodo Baggins](../F/Frodo_Baggins.md) lưu trú tại [The Prancing Pony](../T/The_Prancing_Pony.md), ông Mugwort đã chứng kiến ​​Frodo đeo [Chiếc nhẫn duy nhất](../T/The_One_Ring.md) và biến mất, và trong lúc bối rối sau đó, ông đã tranh cãi với chủ quán trọ [Barliman Butterbur](../B/Barliman_Butterbur.md), không hoàn toàn tin vào những gì mình vừa nhìn thấy.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Trong thời gian [Frodo Baggins](../F/Frodo_Baggins.md)' lưu trú tại [The Prancing Pony](../T/The_Prancing_Pony.md), ông Mugwort đã chứng kiến ​​ Frodo đeo [Chiếc nhẫn duy nhất](../T/The_One_Ring.md) và biến mất, và trong lúc bối rối sau đó, ông đã tranh cãi với chủ quán trọ [Barliman Butterbur](../B/Barliman_Butterbur.md), không hoàn toàn tin vào những gì mình vừa nhìn thấy.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

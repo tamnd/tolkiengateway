@@ -34,11 +34,11 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><i><a href="../T/The_Letters_of_J.R.R._Tolkien.md" title="The Letters of J.R.R. Tolkien">The Letters of J.R.R. Tolkien</a></i></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Letter 65</span></th></tr><tr><th scope="row" class="tg-infobox-label">Recipient</th><td class="tg-infobox-data"><a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Date</th><td class="tg-infobox-data"><a href="../_/4_May.md" title="4 May">4 May</a> <a href="../_/1944.md" title="1944">1944</a></td></tr><tr><th scope="row" class="tg-infobox-label">Subject(s)</th><td class="tg-infobox-data"><i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i> progress</td></tr></tbody></table>
 
-**Thư 65** là bức thư được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và đăng trên *[The Letters of J.R.R. Tolkien](../T/The_Letters_of_J.R.R._Tolkien.md)*.
+**Thư 65** là một bức thư được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và đăng trên *[The Letters of J.R.R. Tolkien](../T/The_Letters_of_J.R.R._Tolkien.md)*.
 
 ## Tóm tắt {#Summary}
 
-Tolkien đã xem [C.S. Lewis](../C/C.S._Lewis.md) và đọc một chương khác. Ông đang bận rộn với việc tiếp theo và cuối cùng sẽ ở trong bóng tối của [Mordor](../M/Mordor.md). Ông nói sẽ sớm gửi cho Christopher những bản sao. <br>
+Tolkien đã xem [C.S. Lewis](../C/C.S._Lewis.md) và đọc một chương khác. Ông đang bận rộn với việc tiếp theo và cuối cùng sẽ ở trong bóng tối của [Mordor](../M/Mordor.md). Ông nói sẽ sớm gửi Christopher bản. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

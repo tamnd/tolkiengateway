@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tales from the Perilous Realm (1992 radio series)"
 ---
 
-Chuyển hướng tới [Những câu chuyện từ vương quốc nguy hiểm (loạt phim phát thanh năm 1992)](<Tales_from_the_Perilous_Realm_(1992_radio_series).md>).
+Chuyển hướng đến [Tales from the Perilous Realm (loạt phim phát thanh năm 1992)](<Tales_from_the_Perilous_Realm_(1992_radio_series).md>).

@@ -27,9 +27,9 @@ langlinks:
     url: "https://www.tolkiendil.com/encyclo/geographie/forets/beleriand/nimbrethil"
 ---
 
-**Nimbrethil** là một vùng rừng bạch dương nằm ở vùng đất [Arvernien](../A/Arvernien.md), trên bờ phía bắc của [Vịnh Balar](../B/Bay_of_Balar.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Gỗ từ rừng Nimbrethil đã được [Eärendil](../E/Eärendil.md) sử dụng để đóng con tàu [Vingilot](../V/Vingilot.md) của mình.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Nimbrethil** là một vùng rừng bạch dương nằm ở vùng đất [Arvernien](../A/Arvernien.md), trên bờ phía bắc của [Vịnh Balar](../B/Bay_of_Balar.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Gỗ từ rừng Nimbrethil đã được [Eärendil](../E/Eärendil.md) sử dụng để đóng con tàu của mình [Vingilot](../V/Vingilot.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Khu rừng được [Bilbo](../B/Bilbo_Baggins.md) thu hồi tại [Rivendell](../R/Rivendell.md) trong *[Eärendillinwë](../E/Eärendillinwë.md)*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> của ông
+Khu rừng được [Bilbo](../B/Bilbo_Baggins.md) thu hồi vào lúc [Rivendell](../R/Rivendell.md) trong *[Eärendillinwë](../E/Eärendillinwë.md)*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> của ông
 
 ## Từ nguyên {#Etymology}
 

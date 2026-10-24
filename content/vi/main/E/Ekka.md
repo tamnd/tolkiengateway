@@ -19,7 +19,7 @@ Petri Tikka đã đề xuất cách viết *ecca* để phù hợp với tiêu c
 
 ## Có cùng nguồn gốc {#Cognates}
 
-- [tiếng Sindarin](../S/Sindarin.md) *[torech](../T/Torech.md)*<sup id="cite_ref-PE17_1-1" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup>
+- [Sindarin](../S/Sindarin.md) *[torech](../T/Torech.md)*<sup id="cite_ref-PE17_1-1" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup>
 
 <span></span>
 

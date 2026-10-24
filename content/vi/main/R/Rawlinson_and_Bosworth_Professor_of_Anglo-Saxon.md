@@ -12,6 +12,6 @@ categories:
   - "Education"
 ---
 
-[J.R.R. Tolkien](../J/J.R.R._Tolkien.md) giữ chức **Rawlinson và Bosworth Giáo sư người Anglo-Saxon** tại [Đại học Oxford](../U/University_of_Oxford.md) từ năm 1925 đến năm 1945. Trước ông là [William Craigie](../W/William_Craigie.md) và được kế nhiệm bởi đồng nghiệp [Inkling](../I/Inklings.md) [Charles Leslie Wrenn](../C/Charles_Leslie_Wrenn.md).
+[J.R.R. Tolkien](../J/J.R.R._Tolkien.md) giữ chức **Rawlinson và Bosworth Giáo sư Anglo-Saxon** tại [Đại học Oxford](../U/University_of_Oxford.md) từ năm 1925 đến năm 1945. Trong chức vụ này, trước ông là [William Craigie](../W/William_Craigie.md) và được kế nhiệm bởi đồng nghiệp [Inkling](../I/Inklings.md) [Charles Leslie Wrenn](../C/Charles_Leslie_Wrenn.md).
 
-Thư xin chính thức của Tolkien cho vị trí Chủ tịch đã được xuất bản dưới dạng [Thư 7](../L/Letter_7.md) trong *[The Letters of J.R.R. Tolkien](../T/The_Letters_of_J.R.R._Tolkien.md)*.
+Thư xin chính thức của Tolkien vào vị trí Chủ tịch đã được xuất bản dưới dạng [Thư 7](../L/Letter_7.md) trong *[The Letters of J.R.R. Tolkien](../T/The_Letters_of_J.R.R._Tolkien.md)*.

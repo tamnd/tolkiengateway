@@ -21,11 +21,11 @@ images:
 
 ## Lịch sử {#History}
 
-Aldarion là một thuyền trưởng và nhà thám hiểm vĩ đại, trước sự thất vọng của cha anh, Nhà vua, người mong muốn con trai mình dành cả tuổi thanh xuân trên hòn đảo mà một ngày nào đó anh sẽ cai trị. Tuy nhiên, Aldarion đã cảm nhận được tiếng gọi của biển cả, và ông cùng với [Guild of Venturers](../G/Guild_of_Venturers.md) của Númenor, đã chế tạo một con tàu khổng lồ, lớn hơn bất kỳ con tàu nào từng thấy vào thời điểm đó mà họ gọi là *Palarran*.
+Aldarion là một thuyền trưởng và nhà thám hiểm vĩ đại, trước sự thất vọng của cha anh, Vua, người mong muốn con trai mình dành cả tuổi thanh xuân trên hòn đảo mà một ngày nào đó anh sẽ cai trị. Tuy nhiên, Aldarion đã cảm nhận được tiếng gọi của biển cả, và ông cùng với [Guild of Venturers](../G/Guild_of_Venturers.md) của Númenor, đã đóng một con tàu khổng lồ, lớn hơn bất kỳ con tàu nào từng thấy vào thời điểm đó mà họ gọi là *Palarran*.
 
-Khi Palarran kết thúc, Tar-Meneldur cảm thấy bất an và cấm Nữ hoàng và các chị em của Aldarion mang lên tàu một cành *[oiolairë](../O/Oiolairë.md)*, biểu tượng của tình bạn với [Ossë](../O/Ossë.md) và [Uinen](../U/Uinen.md). [Erendis](../E/Erendis.md), thay vì họ hàng của Aldarion, lại mang một cành cây lên tàu, điều này lần đầu tiên khiến hoàng tử phải lòng cô gái.
+Khi Palarran kết thúc, Tar-Meneldur cảm thấy bất an và cấm Nữ hoàng và các chị em của Aldarion mang lên tàu một cành *[oiolairë](../O/Oiolairë.md)*, biểu tượng của tình bạn với [Ossë](../O/Ossë.md) và [Uinen](../U/Uinen.md). [Erendis](../E/Erendis.md) thay vì họ hàng của Aldarion lại mang một cành cây lên tàu, điều này lần đầu tiên khiến hoàng tử phải lòng cô gái.
 
-Aldarion đã chèo thuyền Palarran trên [Biển Lớn](../B/Belegaer.md) tới [Trung Địa](../M/Middle-earth.md) nhiều lần.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Aldarion đã đi thuyền Palarran trên [Đại Hải](../B/Belegaer.md) đến [Trung Địa](../M/Middle-earth.md) nhiều lần.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

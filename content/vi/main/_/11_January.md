@@ -71,11 +71,11 @@ Sự kiện xảy ra vào ngày 11 tháng 1.
 - **[1966](1966.md)** - Diễn viên lồng tiếng [Robert Farquharson](../R/Robert_Farquharson.md) qua đời.
 - **[1967](1967.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư 293b](../L/Letter_293b.md).
 - **[1969](1969.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư 309a](../L/Letter_309a.md).
-- **[1992](1992.md)** - Nhân dịp kỷ niệm 100 năm ngày sinh của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), "Hội nghị chuyên đề quốc tế về Tolkien" được tổ chức tại <a class="extiw" href="http://en.wikipedia.org/wiki/Aachen" title="wikipedia:Aachen">Aachen</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">Đức</a>.
+- **[1992](1992.md)** - Nhân kỷ niệm 100 năm ngày sinh của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), "Hội nghị chuyên đề quốc tế Tolkien" được tổ chức tại <a class="extiw" href="http://en.wikipedia.org/wiki/Aachen" title="wikipedia:Aachen">Aachen</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">Đức</a>.
 - **[1995](1995.md)** - Diễn viên lồng tiếng [Peter Pratt](../P/Peter_Pratt.md) qua đời.
 - **[1999](1999.md)** - Tiểu thuyết gia và nhà thơ [Naomi Mitchison](../N/Naomi_Mitchison.md), người nhận thư của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), qua đời.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - Nhóm [Fellowship of the Ring](../F/Fellowship_of_the_Ring.md) cắm trại dưới chân [Đèo Redhorn](../C/Caradhras.md#The_Redhorn_Gate), và đêm đó cố gắng vượt qua không thành công.
+    - Các [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) cắm trại dưới chân [Đèo Redhorn](../C/Caradhras.md#The_Redhorn_Gate), và đêm đó cố gắng vượt qua không thành công.
