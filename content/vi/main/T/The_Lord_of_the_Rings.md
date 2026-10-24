@@ -76,9 +76,9 @@ infobox:
 <p class="tg-quote-footer"><cite>Sunday Times</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-<i><b>The Lord of the Rings</b></i> là một cuốn sách sử thi mang tính giả tưởng cao độ của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Lấy bối cảnh ở [Trung Địa](../M/Middle-earth.md), câu chuyện bắt đầu như phần tiếp theo của tác phẩm trước đó của Tolkien, *[The Hobbit](The_Hobbit.md)*, nhưng cuối cùng đã phát triển thành một tác phẩm lớn hơn nhiều. Bài viết bắt đầu vào [1937](../_/1937.md) và được xuất bản thành ba tập trong [1954](../_/1954.md) và [1955](../_/1955.md). *The Lord of the Rings* là một trong những cuốn sách bán chạy nhất từng được viết, với hơn 150 triệu bản được bán ra.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>The Lord of the Rings</b></i> là một tác phẩm sử thi thuộc thể loại kỳ ảo cao cấp của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Lấy bối cảnh ở [Trung Địa](../M/Middle-earth.md), câu chuyện ban đầu được hình thành như phần tiếp theo của tác phẩm trước đó của Tolkien, *[The Hobbit](The_Hobbit.md)*, nhưng cuối cùng đã phát triển thành một tác phẩm lớn hơn nhiều. Việc sáng tác bắt đầu vào [1937](../_/1937.md), và tác phẩm được xuất bản thành ba tập vào các năm [1954](../_/1954.md) và [1955](../_/1955.md). *The Lord of the Rings* là một trong những cuốn sách bán chạy nhất mọi thời đại, với hơn 150 triệu bản đã được tiêu thụ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-[Tiêu đề cuốn sách](<../L/Lord_of_the_Ring_(title).md>) đề cập đến nhân vật phản diện chính của câu chuyện, Chúa tể Bóng tối [Sauron](../S/Sauron.md), kẻ ở thời đại trước đã tạo ra [Một chiếc nhẫn](../O/One_Ring.md) để cai trị [Những Chiếc Nhẫn Quyền Năng](../R/Rings_of_Power.md) khác được trao cho [Con Người](../M/Men.md), [Người Lùn](../D/Dwarves.md) và [Tiên tộc](../E/Elves.md), trong chiến dịch chinh phục tất cả Trung Địa của hắn. Từ khởi đầu giản dị ở [the Shire](The_Shire.md), một vùng đất [hobbit](../H/Hobbit.md) gợi nhớ đến vùng nông thôn nước Anh, câu chuyện trải dài khắp Trung Địa, theo sau nhiệm vụ tiêu diệt Chiếc Nhẫn Chủ yếu qua con mắt của các hobbit [Frodo](../F/Frodo.md), [Sam](../S/Sam.md), [Merry](../M/Merry.md) và [Pippin](../P/Pippin.md).
+[Tiêu đề cuốn sách](<../L/Lord_of_the_Ring_(title).md>) đề cập đến nhân vật phản diện chính của câu chuyện, Chúa tể Bóng tối [Sauron](../S/Sauron.md), kẻ đã tạo ra [Nhẫn Chủ](../O/One_Ring.md) từ một thời đại trước để thống trị những [Chiếc Nhẫn Quyền Năng](../R/Rings_of_Power.md) còn lại được trao cho [Con Người](../M/Men.md), [Người Lùn](../D/Dwarves.md) và [Tiên tộc](../E/Elves.md), trong chiến dịch chinh phục toàn bộ Trung Địa của hắn. Từ khởi đầu bình dị tại [Shire](The_Shire.md), một vùng đất của [Hobbit](../H/Hobbit.md) gợi nhớ đến vùng nông thôn nước Anh, câu chuyện diễn ra khắp Trung Địa, theo chân hành trình tiêu hủy Nhẫn Chủ, chủ yếu qua góc nhìn của các Hobbit [Frodo](../F/Frodo.md), [Sam](../S/Sam.md), [Merry](../M/Merry.md) và [Pippin](../P/Pippin.md).
 
 ## Tóm tắt {#Synopsis}
 
@@ -88,29 +88,29 @@ infobox:
 
 ## Chữ khắc {#Inscriptions}
 
-Tương tự với *The Hobbit*, trong đó Tolkien vẽ [chữ rune](../R/Runes.md) trên áo khoác bụi, có những dòng chữ trên trang tiêu đề của cả ba tập. [Cirth](../C/Cirth.md) được sử dụng ở dòng chữ phía trên của trang tiêu đề, trong đó có nội dung:
+Tương tự như trong *The Hobbit*, nơi Tolkien vẽ [chữ rune](../R/Runes.md) trên áo bìa, trên trang tên sách của cả ba tập đều có những dòng khắc chữ. [Cirth](../C/Cirth.md) được sử dụng trong dòng khắc phía trên của trang tên sách, trên đó ghi:
 
 <dl><dd>&#34;<i>The Lord of the Rings translated from the Red Book</i>&#34;...</dd></dl>
 
-Câu tiếp theo ở dòng chữ phía dưới, được viết bằng [Tengwar](Tengwar.md):
+Câu này tiếp nối ở dòng khắc phía dưới, được viết bằng [Tengwar](Tengwar.md):
 
 <dl><dd>...&#34;<i>of Westmarch by John Ronald Reuel Tolkien. Herein is set forth the history of the War of the Ring and the Return of the King as seen by the hobbits.</i>&#34;</dd></dl>
 
-Dòng chữ Cirth theo kiểu [Angerthas Erebor](../A/Angerthas_Erebor.md) mà Tolkien cũng dùng để viết tiếng Anh (đại diện cho [Westron](../W/Westron.md)) trên Lăng mộ [Balin](../B/Balin's_Tomb.md) và trong [Sách Mazarbul](../B/Book_of_Mazarbul.md).
+Dòng khắc Cirth tuân theo hệ chữ [Angerthas Erebor](../A/Angerthas_Erebor.md), mà Tolkien cũng sử dụng để viết tiếng Anh (đại diện cho [Westron](../W/Westron.md)) trên Lăng mộ của [Balin](../B/Balin's_Tomb.md) và trong [Sách Mazarbul](../B/Book_of_Mazarbul.md).
 
-Trong [Phụ lục E](../A/Appendix_E.md) Tolkien nói rằng "chế độ tiếng Anh" được sử dụng trong dòng chữ tengwar không phải là ngữ âm mà là sự ngẫu hứng giữa các giá trị ngữ âm của các chữ cái trong [Westron](../W/Westron.md) và cách đánh vần truyền thống của tiếng Anh ("những gì [người đàn ông Gondor](../G/Gondorians.md) có thể đã tạo ra").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Trong [Phụ lục E](../A/Appendix_E.md), Tolkien nói rằng "lối viết tiếng Anh" được sử dụng trong dòng khắc Tengwar không phải là lối viết ghi âm, mà là sự pha trộn tùy biến giữa giá trị ngữ âm của các chữ cái trong [Westron](../W/Westron.md) và chính tả truyền thống của tiếng Anh ("điều mà một [người Gondor](../G/Gondorians.md) có thể viết ra").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Tolkien mắc một số lỗi chính tả nhỏ được in trong lần xuất bản đầu tiên của hai tập đầu tiên và không được sửa cho đến lần in đầu tiên của *The Return of the King*.<sup id="cite_ref-rc_3-0" class="reference"><a href="#cite_note-rc-3">[3]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:p. liii</sup>
+Tolkien đã mắc một số lỗi chính tả nhỏ, xuất hiện trong lần phát hành đầu tiên của hai tập đầu và mãi đến lần in đầu tiên của *The Return of the King* mới được sửa.<sup id="cite_ref-rc_3-0" class="reference"><a href="#cite_note-rc-3">[3]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:p. liii</sup>
 
-Các ấn bản gần đây hơn của (các) cuốn sách này có dòng chữ Cirth chạy dọc theo mép trên và mép dưới của bìa hoặc túi chống bụi.
+Các ấn bản sách gần đây hơn có dòng khắc Cirth chạy dọc theo mép trên và mép dưới của bìa hoặc áo bìa.
 
 ## Bản đồ {#Maps}
 
-Tổng cộng có ba bản đồ đã được đưa vào kể từ phiên bản đầu tiên, đó là:
+Kể từ ấn bản đầu tiên, tổng cộng ba bản đồ đã được đưa vào sách, gồm:
 
-- *[A Part of the Shire](../A/A_Part_of_the_Shire.md)* (có trong Tập 1)
-- *[Map of Rohan, Gondor, and Mordor](../M/Map_of_Rohan,_Gondor,_and_Mordor.md)* (có trong Tập 3)
-- *[The West of Middle-earth at the End of the Third Age](The_West_of_Middle-earth_at_the_End_of_the_Third_Age.md)* (có trong cả ba tập; bản đồ này được lập trong [1980](../_/1980.md) thay thế cho [phiên bản 1953](../G/General_Map_of_Middle-earth.md))
+- *[A Part of the Shire](../A/A_Part_of_the_Shire.md)* (có trong tập 1)
+- *[Map of Rohan, Gondor, and Mordor](../M/Map_of_Rohan,_Gondor,_and_Mordor.md)* (có trong tập 3)
+- *[The West of Middle-earth at the End of the Third Age](The_West_of_Middle-earth_at_the_End_of_the_Third_Age.md)* (có trong cả ba tập; bản đồ này được lập vào năm [1980](../_/1980.md) để thay thế [phiên bản năm 1953](../G/General_Map_of_Middle-earth.md))
 
 Kể từ lần xuất bản đầu tiên (và nói chung là trong nhiều ấn bản bìa cứng), bản đồ được in bằng màu đen và đỏ, hai bản sau ở dạng tờ gấp.<sup id="cite_ref-rc_3-1" class="reference"><a href="#cite_note-rc-3">[3]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:p. lv</sup>
 

@@ -116,11 +116,11 @@ images:
 
 <figure class="mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/Q/Quentin_Lowagie_-_Arda_in_the_Third_Age.png.md"><img src="https://tolkiengateway.net/w/images/thumb/6/6e/Quentin_Lowagie_-_Arda_in_the_Third_Age.png/250px-Quentin_Lowagie_-_Arda_in_the_Third_Age.png" decoding="async" loading="lazy" width="250" height="266" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/6e/Quentin_Lowagie_-_Arda_in_the_Third_Age.png/375px-Quentin_Lowagie_-_Arda_in_the_Third_Age.png 1.5x, https://tolkiengateway.net/w/images/thumb/6/6e/Quentin_Lowagie_-_Arda_in_the_Third_Age.png/500px-Quentin_Lowagie_-_Arda_in_the_Third_Age.png 2x" data-file-width="1539" data-file-height="1636"/></a><figcaption><i>Arda in the Third Age</i> by <a href="../../category/I/Images_by_Quentin_Lowagie.md" title="Category:Images by Quentin Lowagie">Quentin Lowagie</a></figcaption></figure>
 
-**Kỷ Đệ Tam**, thường được viết tắt là **T.A.**, bắt đầu sau sự sụp đổ đầu tiên của [Sauron](../S/Sauron.md), khi ông ta bị đánh bại bởi [Liên minh Cuối cùng của Tiên tộc và Con Người](../L/Last_Alliance_of_Elves_and_Men.md) sau sự sụp đổ của [Númenor](../N/Númenor.md).
+**Kỷ Đệ Tam**, thường được viết tắt là **T.A.**, bắt đầu sau lần sụp đổ đầu tiên của [Sauron](../S/Sauron.md), khi hắn bị [Liên minh Cuối cùng của Tiên tộc và Con Người](../L/Last_Alliance_of_Elves_and_Men.md) đánh bại sau khi [Númenor](../N/Númenor.md) sụp đổ.
 
 Thời đại này được đặc trưng bởi sự trỗi dậy và suy tàn của các vương quốc Númenorean lưu vong, trái ngược với sự phục hồi chậm chạp của quyền lực Sauron. Trong khi đó, [Tiên tộc](../E/Elves.md), [Người Lùn](../D/Dwarves.md) và những dân tộc khác không có nhiều điều mới mẻ; còn được gọi là **Những năm tàn lụi**, [Thời đại](../A/Age.md) đánh dấu sự tàn lụi của [Tiên tộc](../E/Elves.md).
 
-Nó tồn tại trong 3021 năm, chỉ kết thúc sau khi Sauron bị đánh bại cuối cùng và hoàn toàn đạt được bằng cách phá hủy [Chiếc nhẫn thống trị](The_One_Ring.md) của hắn. Khi Chiếc Nhẫn Chúa biến mất, sức mạnh của ba chiếc nhẫn suy yếu và các vương quốc được chúng bảo tồn bắt đầu mờ nhạt. Những sự kiện này đã thúc đẩy nhiều [Eldar](../E/Eldar.md) còn lại trong [Trung Địa](../M/Middle-earth.md) lên đường tới [Tận cùng Phương Tây](../U/Uttermost_West.md), và rất nhiều ký ức cũng như vẻ đẹp đã bị mất đi đối với Trung Địa mãi mãi. Sau [Cuộc cưỡi ngựa cuối cùng của những người giữ những chiếc nhẫn](../L/Last_Riding_of_the_Keepers_of_the_Rings.md), [Kỷ Đệ Tứ](../F/Fourth_Age.md) bắt đầu.
+Thời đại này kéo dài 3021 năm và chỉ kết thúc khi Sauron cuối cùng đã bị đánh bại hoàn toàn bằng cách phá hủy [Chiếc Nhẫn Chủ](The_One_Ring.md) của hắn. Khi Chiếc Nhẫn Chủ biến mất, sức mạnh của ba chiếc nhẫn suy yếu và các vương quốc được chúng gìn giữ bắt đầu phai tàn. Những sự kiện này khiến nhiều [Eldar](../E/Eldar.md) còn lại ở [Trung Địa](../M/Middle-earth.md) lên đường đến [Phương Tây xa xôi nhất](../U/Uttermost_West.md), và Trung Địa vĩnh viễn mất đi biết bao ký ức và vẻ đẹp. Sau [Chuyến Cưỡi Ngựa Cuối Cùng của những Người Giữ Nhẫn](../L/Last_Riding_of_the_Keepers_of_the_Rings.md), [Kỷ Đệ Tứ](../F/Fourth_Age.md) bắt đầu.
 
 ## Các sự kiện chính của Kỷ Đệ Tam {#Major_events_of_the_Third_Age}
 
@@ -220,7 +220,7 @@ Nó tồn tại trong 3021 năm, chỉ kết thúc sau khi Sauron bị đánh b�
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Chỉ có chiến tranh và các trận chiến biệt lập mới được đề cập là sự kiện; đối với các trận chiến là một phần của các chiến dịch lớn hơn, hãy xem các bài viết tương ứng của chiến dịch</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Chỉ có chiến tranh và các trận chiến riêng lẻ được liệt kê là sự kiện; để biết thêm về những trận chiến thuộc các chiến dịch lớn hơn, hãy xem các bài viết tương ứng về những chiến dịch đó.</span>
 </li>
 </ol></div></span>
 
