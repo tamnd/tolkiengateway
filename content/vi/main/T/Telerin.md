@@ -37,27 +37,27 @@ images:
 <p class="tg-quote-footer"><cite><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a></cite></p>
 </blockquote></div></div>
 
-**Telerin** là từ dùng để chỉ ngôn ngữ của bất kỳ Tiên-người nào có nguồn gốc [Lindar](../L/Lindar.md) nhưng tốt nhất nên dành riêng cho ngôn ngữ của Teleri đến với [Valinor](../V/Valinor.md), [Falmari](../F/Falmari.md);<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> đó là ngôn ngữ liên quan đến cả [Quenya](../Q/Quenya.md) và [Sindarin](../S/Sindarin.md).
+**Telerin** là tên gọi dùng để chỉ ngôn ngữ của bất kỳ dân tộc Tiên nào có nguồn gốc [Lindar](../L/Lindar.md), nhưng nên dùng riêng để chỉ ngôn ngữ của những người Teleri đến [Valinor](../V/Valinor.md), tức [Falmari](../F/Falmari.md);<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> đây là một ngôn ngữ có quan hệ gần gũi với cả [Quenya](../Q/Quenya.md) lẫn [Sindarin](../S/Sindarin.md).
 
 Nó còn được gọi là <i><b>Lindalambe</b></i> hoặc <i><b>Lindárin</b></i>.
 
 ## Lịch sử {#History}
 
-Ngôn ngữ của Falmari có nguồn gốc từ [Common Telerin](../C/Common_Telerin.md), một phương ngữ cổ của [Common Eldarin](../C/Common_Eldarin.md) được sử dụng trong [Great March](../G/Great_March.md). Từ quan điểm của những người nói ngôn ngữ [Quenya](../Q/Quenya.md) (những người coi ngôn ngữ của họ là hậu duệ trực tiếp chính của Common Eldarin), họ coi Telerin (hậu duệ trực tiếp của Common Telerin) là một "phương ngữ của Quenya". Telerin do đó được coi là ngôn ngữ có liên quan chặt chẽ và phần lớn vẫn dễ hiểu.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Ngôn ngữ của Falmari bắt nguồn từ [Common Telerin](../C/Common_Telerin.md), một phương ngữ cổ của [Common Eldarin](../C/Common_Eldarin.md) được nói trong [Cuộc Đại Hành Trình](../G/Great_March.md). Theo quan điểm của những người nói tiếng [Quenya](../Q/Quenya.md), vốn xem ngôn ngữ của mình là hậu duệ trực tiếp chủ yếu của Common Eldarin, Telerin (hậu duệ trực tiếp của Common Telerin) được xem là một “phương ngữ của Quenya”. Vì vậy, Telerin được coi là một ngôn ngữ có quan hệ gần gũi với Quenya và phần lớn vẫn có thể hiểu được.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Tuy nhiên, âm vị học của hai ngôn ngữ khác nhau nhiều, trong đó Telerin thường bảo thủ hơn [Quenya](../Q/Quenya.md). Trong [Aman](../A/Aman.md) số lượng loa của Telerin nhiều hơn số lượng loa của [Quenya](../Q/Quenya.md), cũng như [Teleri](Teleri.md) nhiều hơn số lượng loa [Vanyar](../V/Vanyar.md) và [Noldor](../N/Noldor.md).
+Tuy nhiên, hệ thống âm vị của hai ngôn ngữ khác biệt đáng kể, trong đó Telerin thường bảo thủ hơn [Quenya](../Q/Quenya.md). Ở [Aman](../A/Aman.md), số người nói tiếng Telerin đông hơn số người nói tiếng [Quenya](../Q/Quenya.md), cũng giống như số người [Teleri](Teleri.md) đông hơn số người [Vanyar](../V/Vanyar.md) và [Noldor](../N/Noldor.md).
 
-Ngoài ra, Teleri bạc được đánh giá cao hơn vàng và kỹ năng thợ bạc của họ thậm chí còn được đánh giá cao bởi Noldor, những người có vẻ thích từ Telerin *[telpe](Telpe.md)* ("bạc") hơn là dạng Quenya *[tyelpë](Tyelpë.md)*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Ngoài ra, người Teleri coi trọng bạc hơn vàng, và tay nghề chế tác bạc của họ được ngay cả người Noldor đánh giá cao. Người Noldor vốn dường như ưa dùng từ \*[telpe](Telpe.md)\* (“bạc”) trong tiếng Telerin thay vì dạng \*[tyelpë](Tyelpë.md)\* trong tiếng Quenya.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-[Finarfin](../F/Finarfin.md) được cho là đã học được Telerin. Ông cũng đặt cho các con trai mình những cái tên Telerin có ảnh hưởng Quenya.
+[Finarfin](../F/Finarfin.md) tương truyền đã học tiếng Telerin. Ông cũng đặt cho các con trai mình những tên Quenya chịu ảnh hưởng của tiếng Telerin.
 
 ## Ngữ pháp {#Grammar}
 
-Một điểm khác biệt đáng chú ý so với Quenya là đuôi sở hữu được thêm vào sau từ chỉ thứ gì đó bị sở hữu, không phải sở hữu. Ví dụ: "[Olwe](../O/Olwe.md)'s house" là <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Cava&amp;action=edit&amp;redlink=1" title="Cava (page does not exist)">cavaria</a> Olue</i> (lit. "house-his Olue").<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Một điểm khác biệt đáng chú ý so với Quenya là hậu tố sở hữu được gắn vào từ chỉ vật được sở hữu, chứ không phải từ chỉ người sở hữu. Ví dụ, “ngôi nhà của [Olwe](../O/Olwe.md)” là <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Cava&amp;action=edit&amp;redlink=1" title="Cava (page does not exist)">cavaria</a> Olue</i> (nghĩa đen: “nhà-của ông ấy Olue”).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Phiên bản khác {#Other_versions}
 
-*Telerin* là tên của một ngôn ngữ xuất hiện trong *[The Etymologies](The_Etymologies.md)*, trong đó có khoảng 25 từ của ngôn ngữ đó.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Phiên bản Telerin này có liên quan nhiều đến [Ilkorin](../I/Ilkorin.md) hơn là [Qenya](../Q/Qenya.md) hoặc [Kornoldorin](../K/Kornoldorin.md).<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup>
+\*Telerin\* là tên một ngôn ngữ xuất hiện trong \*[The Etymologies](The_Etymologies.md)\*, trong đó liệt kê khoảng 25 từ thuộc ngôn ngữ này.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Phiên bản Telerin này có quan hệ gần gũi với [Ilkorin](../I/Ilkorin.md) hơn so với [Qenya](../Q/Qenya.md) hoặc [Kornoldorin](../K/Kornoldorin.md).<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup>
 
 ## Xem thêm {#See_also}
 
@@ -91,7 +91,7 @@ Một điểm khác biệt đáng chú ý so với Quenya là đuôi sở hữu 
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>
-<th align="center" style="background:var(--tg-color-surface-5);" colspan="2"><a href="../L/Languages.md" title="Languages">Ngôn ngữ</a> và chữ viết trong tác phẩm của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">Tolkien</a>
+<th align="center" style="background:var(--tg-color-surface-5);" colspan="2"><a href="../L/Languages.md" title="Languages">Ngôn ngữ</a> và hệ chữ viết trong tác phẩm của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">Tolkien</a>&#39;
 </th></tr>
 <tr>
 <th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;"><a href="../E/Elvish.md" title="Elvish">Elvish</a>
@@ -116,7 +116,7 @@ Một điểm khác biệt đáng chú ý so với Quenya là đuôi sở hữu 
 <tr>
 <th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Huyền sử thời kỳ đầu
 </th>
-<td style="font-size: 90%; padding-left: 4px;"><a href="../G/Gnomish.md" title="Gnomish">Gnomish</a> · <a href="../G/Gnomic_Letters.md" title="Gnomic Letters">Chữ Gnomic</a> · <a href="../G/Gondolinic_Runes.md" title="Gondolinic Runes">Rune Gondolinic</a> · <a href="../I/Ilkorin.md" title="Ilkorin">Ilkorin</a> · <a href="../K/Keladian.md" title="Keladian">Keladian</a> · <a href="../N/Noldorin.md" title="Noldorin">Noldorin</a> (<a href="../F/Fëanorian_dialect.md" title="Fëanorian dialect">Phương ngữ Fëanorian</a> · <a href="../K/Kornoldorin.md" title="Kornoldorin">Kornoldorin</a>) · <a href="../O/Oromëan.md" title="Oromëan">Oromëan</a> · <a href="../Q/Qenya.md" title="Qenya">Qenya</a> · <a href="../V/Valmaric_script.md" title="Valmaric script">Chữ Valmaric</a>
+<td style="font-size: 90%; padding-left: 4px;"><a href="../G/Gnomish.md" title="Gnomish">Gnomish</a> · <a href="../G/Gnomic_Letters.md" title="Gnomic Letters">Gnomic Letters</a> · <a href="../G/Gondolinic_Runes.md" title="Gondolinic Runes">Chữ rune Gondolinic</a> · <a href="../I/Ilkorin.md" title="Ilkorin">Ilkorin</a> · <a href="../K/Keladian.md" title="Keladian">Keladian</a> · <a href="../N/Noldorin.md" title="Noldorin">Noldorin</a> (<a href="../F/Fëanorian_dialect.md" title="Fëanorian dialect">phương ngữ Fëanorian</a> · <a href="../K/Kornoldorin.md" title="Kornoldorin">Kornoldorin</a>) · <a href="../O/Oromëan.md" title="Oromëan">Oromëan</a> · <a href="../Q/Qenya.md" title="Qenya">Qenya</a> · <a href="../V/Valmaric_script.md" title="Valmaric script">Hệ chữ Valmaric</a>
 </td></tr>
 <tr>
 <th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Ngoài huyền sử

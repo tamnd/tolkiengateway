@@ -49,45 +49,45 @@ infobox:
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/R/Raine_Kuusi_-_Dusk.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/c/c6/Raine_Kuusi_-_Dusk.jpg/320px-Raine_Kuusi_-_Dusk.jpg" decoding="async" loading="lazy" width="320" height="133" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/c6/Raine_Kuusi_-_Dusk.jpg/480px-Raine_Kuusi_-_Dusk.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/c/c6/Raine_Kuusi_-_Dusk.jpg/640px-Raine_Kuusi_-_Dusk.jpg 2x" data-file-width="1550" data-file-height="646"/></a><figcaption>&#34;Dusk&#34; by Raine Kuusi</figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Dãy núi</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The White Mountains</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin chung</span></th></tr><tr><th scope="row" class="tg-infobox-label">Tên khác</th><td class="tg-infobox-data">Ered Nimrais</td></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data">Between <a href="../G/Gondor.md" title="Gondor">Gondor</a> and <a href="../R/Rohan.md" title="Rohan">Rohan</a></td></tr><tr><th scope="row" class="tg-infobox-label">Loại</th><td class="tg-infobox-data">Dãy núi</td></tr><tr><th scope="row" class="tg-infobox-label">Mô tả</th><td class="tg-infobox-data">Những ngọn núi cao phủ đầy tuyết</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Nhân vật và lịch sử</span></th></tr><tr><th scope="row" class="tg-infobox-label">Cư dân</th><td class="tg-infobox-data"><a href="../M/Men.md" title="Men">Men</a>, <a href="../D/Dwarves.md" title="Dwarves">Dwarves</a>, <a href="../O/Orcs.md" title="Orcs">Orcs</a></td></tr><tr><th scope="row" class="tg-infobox-label">Bộ sưu tập hình ảnh</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_the_White_Mountains.md" title="Category:Images of the White Mountains">Images of the White Mountains</a></td></tr></tbody></table>
 
 <center><div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Một bóng tối đen lờ mờ phía xa, và trong đó lấp lánh đây đó, lạnh lẽo, sắc bén, xa xôi, trắng như răng ma, những đỉnh Ered Nimrais, Dãy Núi Trắng của vương quốc Gondor, phủ đầy tuyết vĩnh cửu.
+<p>Phía xa, một màn đêm đen đặc bao trùm; trong màn đêm ấy, đây đó lấp lánh những đỉnh Ered Nimrais lạnh lẽo, nhọn sắc, xa xăm, trắng như răng ma. Đó là Dãy Núi Trắng thuộc vương quốc Gondor, phủ tuyết quanh năm.
 </p>
 <p class="tg-quote-footer"><cite><i><a href="../T/The_Two_Towers.md" title="The Two Towers">The Two Towers</a></i>, &#34;<a href="../T/The_Forbidden_Pool.md" title="The Forbidden Pool">The Forbidden Pool</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div></center>
 
-**Dãy Núi Trắng** hay <i><b><a class="mw-selflink-fragment" href="#Etymology">Ered Nimrais</a></b></i> là một dãy núi lớn nằm giữa [Calenardhon](../C/Calenardhon.md)/[Rohan](../R/Rohan.md) ở phía Bắc và [Gondor](../G/Gondor.md) ở phía Nam. Họ chạy 600 dặm (965 km) từ [Thrihyrne](../T/Thrihyrne.md) ở phía tây bắc đến [Mindolluin](../M/Mindolluin.md) và [Amon Tirith](../H/Hill_of_Guard.md) ở phía đông. Một nhánh thấp xuất phát theo hướng tây nam và kết thúc tại [Ras Morthil](../R/Ras_Morthil.md).
+**Dãy Núi Trắng** hay <i><b><a class="mw-selflink-fragment" href="#Etymology">Ered Nimrais</a></b></i> là một dãy núi lớn nằm giữa [Calenardhon](../C/Calenardhon.md)/[Rohan](../R/Rohan.md) ở phía Bắc và [Gondor](../G/Gondor.md) ở phía Nam. Dãy núi kéo dài 600 dặm (965 km) từ [Thrihyrne](../T/Thrihyrne.md) ở phía tây bắc đến [Mindolluin](../M/Mindolluin.md) và [Amon Tirith](../H/Hill_of_Guard.md) ở phía đông. Một nhánh núi thấp tách ra về phía tây nam và kết thúc tại [Ras Morthil](../R/Ras_Morthil.md).
 
 ## Đặc điểm địa lý {#Geographic_features}
 
 ### Các đỉnh quan trọng {#Important_peaks}
 
-Các đỉnh đáng chú ý của dãy núi, từ tây sang đông, [Thrihyrne](../T/Thrihyrne.md), [Starkhorn](../S/Starkhorn.md), [Dwimorberg](../D/Dwimorberg.md), [Írensaga](../_/Írensaga.md), [Halifirien](../H/Halifirien.md), [Calenhad](../C/Calenhad.md), [Min-Rimmon](../M/Min-Rimmon.md), [Erelas](../E/Erelas.md), [Nardol](../N/Nardol.md), [Eilenach](../E/Eilenach.md), [Amon Dîn](../A/Amon_Dîn.md), [Mindolluin](../M/Mindolluin.md) và [Amon Tirith](../A/Amon_Tirith.md).
+Các đỉnh núi đáng chú ý của dãy núi này, theo thứ tự từ tây sang đông, gồm [Thrihyrne](../T/Thrihyrne.md), [Starkhorn](../S/Starkhorn.md), [Dwimorberg](../D/Dwimorberg.md), [Írensaga](../_/Írensaga.md), [Halifirien](../H/Halifirien.md), [Calenhad](../C/Calenhad.md), [Min-Rimmon](../M/Min-Rimmon.md), [Erelas](../E/Erelas.md), [Nardol](../N/Nardol.md), [Eilenach](../E/Eilenach.md), [Amon Dîn](../A/Amon_Dîn.md), [Mindolluin](../M/Mindolluin.md) và [Amon Tirith](../A/Amon_Tirith.md).
 
-Dưới chân Thrihyrne là thung lũng được gọi là [Helm's Deep](../H/Helm's_Deep.md), và [Hang động lấp lánh](../G/Glittering_Caves.md) của Aglarond nằm bên dưới các mũi nhọn của nó.
+Dưới chân Thrihyrne là thung lũng mang tên [Helm's Deep](../H/Helm's_Deep.md), còn [Hang Động Lấp Lánh](../G/Glittering_Caves.md) ở Aglarond nằm bên dưới các sườn núi nhô ra.
 
-Ba ngọn núi Starkhorn, Dwimorberg và Irensaga bao quanh thung lũng [Dunharrow](../D/Dunharrow.md), và Dwimorberg cũng là quê hương của [Con đường của người chết](../P/Paths_of_the_Dead.md).
+Ba ngọn núi Starkhorn, Dwimorberg và Irensaga bao quanh thung lũng [Dunharrow](../D/Dunharrow.md), còn Dwimorberg cũng là nơi có [Đường Mòn Người Chết](../P/Paths_of_the_Dead.md).
 
-Halifirien, Calenhad, Min-Rimmon, Erelas, Nardol, Eilenach và Amon Dîn là những đỉnh đồi được lựa chọn một cách chiến lược ở phía bắc của dãy núi. Chúng là [đèn hiệu cảnh báo của Gondor](Warning_beacons_of_Gondor.md). Có lẽ cũng có một dãy đèn hiệu ở phía nam.
+Halifirien, Calenhad, Min-Rimmon, Erelas, Nardol, Eilenach và Amon Dîn là những đỉnh đồi được chọn vì có vị trí chiến lược trên sườn phía bắc của dãy núi. Đó là các [đài hiệu báo động của Gondor](Warning_beacons_of_Gondor.md). Có lẽ ở sườn phía nam cũng có một dãy đài hiệu.
 
 ### Đạt {#Passes}
 
-Đã có những chuyến đi qua Dãy Núi Trắng và nhiều người thân của [Nimrodel](../N/Nimrodel.md) được cho là đã mất tích ở đó.<sup id="cite_ref-Amroth_1-0" class="reference"><a href="#cite_note-Amroth-1">[1]</a></sup>
+Có những con đèo băng qua Dãy Núi Trắng, và tương truyền, nhiều người trong tộc của [Nimrodel](../N/Nimrodel.md) đã bỏ mạng tại đó.<sup id="cite_ref-Amroth_1-0" class="reference"><a href="#cite_note-Amroth-1">[1]</a></sup>
 
 ### Sông {#Rivers}
 
-Có nhiều con sông có nguồn phát ra từ Dãy Núi Trắng.
+Nhiều con sông bắt nguồn từ Dãy Núi Trắng.
 
-Hướng Tây (từ Bắc vào Nam);
+Ở sườn phía tây (từ bắc xuống nam):
 
 - [Adorn](../A/Adorn.md)
 - [Lefnui](../L/Lefnui.md)
 
-Hướng Bắc (từ Phương Tây đến phương Đông);
+Ở sườn phía bắc (từ phía tây sang phía đông):
 
 - [Dòng sâu](../D/Deeping-stream.md)
 - [Snowbourn](../S/Snowbourn.md)
 - [Mering Stream](../M/Mering_Stream.md)
 
-Hướng Nam (từ Phương Tây đến phương Đông);
+Ở sườn phía nam (từ phía tây sang phía đông):
 
 - [Morthond](../M/Morthond.md)
 - [Ciril](../C/Ciril.md)
@@ -105,39 +105,39 @@ Một truyền thuyết địa phương của [người dân bản địa](../P/
 
 ### Cư dân {#Inhabitants}
 
-Trong suốt lịch sử, Dãy Núi Trắng chủ yếu là nơi sinh sống của Con Người, bao gồm [Drúedain](../D/Drúedain.md), [Dunlendings](../D/Dunlendings.md), [Rohirrim](../R/Rohirrim.md) và [người Gondor](../G/Gondor.md); nhưng đôi khi cũng có [Orc](../O/Orcs.md) và trong Kỷ Đệ Tứ [Người Lùn](../D/Dwarves.md).
+Xuyên suốt lịch sử, Dãy Núi Trắng chủ yếu là nơi sinh sống của Con Người, bao gồm [Drúedain](../D/Drúedain.md), [Dunlendings](../D/Dunlendings.md), [Rohirrim](../R/Rohirrim.md) và [người Gondor](../G/Gondor.md); ngoài ra, đôi khi còn có [Orc](../O/Orcs.md) và, vào Kỷ Đệ Tứ, [Người Lùn](../D/Dwarves.md).
 
-Người Drúedain sống dọc theo rìa phía bắc của nó, để lại [Púkel-men](../P/Púkel-men.md) tại [Starkhorn](../S/Starkhorn.md) và [Drúwaith Iaur](../D/Drúwaith_Iaur.md). Họ tái định cư tại một khu rừng mà sau này được đặt theo tên của họ: [Tawar in-Drúedain](../D/Drúadan_Forest.md).
+Người Drúedain sống dọc theo rìa phía bắc của dãy núi, để lại dấu tích của [Púkel-men](../P/Púkel-men.md) tại [Starkhorn](../S/Starkhorn.md) và [Drúwaith Iaur](../D/Drúwaith_Iaur.md). Sau đó, họ chuyển đến sinh sống trong một khu rừng về sau được đặt tên theo họ: [Tawar in-Drúedain](../D/Drúadan_Forest.md).
 
-Trong [Kỷ Đệ Nhị](../S/Second_Age.md), Dãy Núi Trắng là nơi cư trú của những người có liên quan đến Dunlendings từng là người hầu của [Sauron](../S/Sauron.md). Họ đã thề trung thành với [Isildur](../I/Isildur.md), nhưng lại phản bội ông và bị nguyền rủa: họ được biết đến với cái tên [Những kẻ vi phạm lời thề](../O/Oathbreakers.md).
+Trong [Kỷ Đệ Nhị](../S/Second_Age.md), Dãy Núi Trắng là nơi cư trú của một dân tộc có quan hệ họ hàng với người Dunlending và từng phục vụ [Sauron](../S/Sauron.md). Họ thề trung thành với [Isildur](../I/Isildur.md), nhưng rồi phản bội ông và bị nguyền rủa: họ được biết đến với tên gọi [Oathbreakers](../O/Oathbreakers.md).
 
-Thung lũng ở phía nam nằm dưới sự cai trị của [Vua Gondor](../K/Kings_of_Gondor.md) và các lãnh chúa của [Blackroot Vale](../B/Blackroot_Vale.md), [Ringló Vale](../R/Ringló_Vale.md), [Tumladen](<../T/Tumladen_(Gondor).md>) và [Lossarnach](../L/Lossarnach.md) là những thái ấp trung thành.<sup id="cite_ref-rkmap_3-0" class="reference"><a href="#cite_note-rkmap-3">[3]</a></sup>
+Các thung lũng ở sườn phía nam nằm dưới quyền cai trị của [Vua Gondor](../K/Kings_of_Gondor.md), còn các lãnh địa do các lãnh chúa [Thung lũng Blackroot](../B/Blackroot_Vale.md), [Thung lũng Ringló](../R/Ringló_Vale.md), [Tumladen](<../T/Tumladen_(Gondor).md>) và [Lossarnach](../L/Lossarnach.md) cai quản đều trung thành với nhà vua.<sup id="cite_ref-rkmap_3-0" class="reference"><a href="#cite_note-rkmap-3">[3]</a></sup>
 
-Từ [T.A.](../T/Third_Age.md) [2510](../T/Third_Age_2510.md), các thung lũng và ngọn đồi phía bắc nằm dưới sự cai trị của Rohirrim, những kỵ mã hùng mạnh đến từ phương Bắc. Họ định cư ở [Helm's Deep](../H/Helm's_Deep.md), [Dunharrow](../D/Dunharrow.md) và [Grimslade](../G/Grimslade.md), đồng thời xây dựng thủ đô [Edoras](../E/Edoras.md) trên một ngọn đồi xa xôi.<sup id="cite_ref-rkmap_3-1" class="reference"><a href="#cite_note-rkmap-3">[3]</a></sup>
+Từ [T.A.](../T/Third_Age.md) [2510](../T/Third_Age_2510.md), các thung lũng và đồi núi ở phía bắc chuyển sang dưới quyền cai trị của người Rohirrim, một dân tộc kỵ sĩ hùng mạnh đến từ phương Bắc. Họ định cư tại [Helm's Deep](../H/Helm's_Deep.md), [Dunharrow](../D/Dunharrow.md) và [Grimslade](../G/Grimslade.md), đồng thời xây dựng thủ đô [Edoras](../E/Edoras.md) trên một ngọn đồi ở vùng ngoại vi.<sup id="cite_ref-rkmap_3-1" class="reference"><a href="#cite_note-rkmap-3">[3]</a></sup>
 
-Sau [Trận Azanulbizar](../B/Battle_of_Azanulbizar.md) ở [T.A.](../T/Third_Age.md) [2799](../T/Third_Age_2799.md), hàng ngàn [orc](../O/Orcs.md) chạy trốn về phía nam và gây rắc rối cho Rohan trong hai thế hệ. Mặc dù [Rohirrim](../R/Rohirrim.md) đã chiến đấu chống lại chúng, một số Orc đã tiếp cận được Dãy Núi; Vua [Walda](Walda.md) đã bị giết bởi Orc tại [Dunharrow](../D/Dunharrow.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Sau [Trận Azanulbizar](../B/Battle_of_Azanulbizar.md) vào [T.A.](../T/Third_Age.md) [2799](../T/Third_Age_2799.md), hàng nghìn [Orc](../O/Orcs.md) chạy về phía nam và quấy phá Rohan suốt hai thế hệ. Dù người [Rohirrim](../R/Rohirrim.md) đã đẩy lùi chúng, một số Orc vẫn tìm được đường đến Dãy Núi; Vua [Walda](Walda.md) bị một tên Orc giết tại [Dunharrow](../D/Dunharrow.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
-Vào thời kỳ đầu [Kỷ Đệ Tứ](../F/Fourth_Age.md), [Gimli](../G/Gimli.md), con trai của [Glóin](../G/Glóin.md) đã lãnh đạo một đàn [Người Lùn](../D/Dwarves.md) và định cư tại [Hang Động Lấp Lánh](../G/Glittering_Caves.md), nơi mà anh đã phát hiện ra giá trị trong [Trận Hornburg](../B/Battle_of_the_Hornburg.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Vào đầu [Kỷ Đệ Tứ](../F/Fourth_Age.md), [Gimli](../G/Gimli.md), con trai của [Glóin](../G/Glóin.md), đã dẫn đầu một cộng đồng [Người Lùn](../D/Dwarves.md) đến định cư tại [Hang Động Lấp Lánh](../G/Glittering_Caves.md), nơi ông đã nhận ra giá trị trong [Trận Hornburg](../B/Battle_of_the_Hornburg.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Tên [Sindarin](../S/Sindarin.md) của Dãy Núi Trắng, <i><b>Ered Nimrais</b></i>, bao gồm *[ered](../E/Ered.md)* ("núi") và *nimrais* ("đỉnh trắng; sừng nhạt").<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Tên [Sindarin](../S/Sindarin.md) của Dãy Núi Trắng, <i><b>Ered Nimrais</b></i>, gồm *[ered](../E/Ered.md)* ("núi") và *nimrais* ("những đỉnh núi trắng; những chóp núi nhợt màu").<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
-## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
+## Các dị bản khác của huyền sử {#Other_versions_of_the_legendarium}
 
-Trong dự thảo của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, những ngọn núi này ban đầu được gọi là **Nam Dãy Núi**<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:400</sup> và **Đen Dãy Núi**.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:472</sup>
+Trong các bản thảo của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, dãy núi này ban đầu được gọi là **Dãy Núi Phía Nam**<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:400</sup> và **Dãy Núi Đen**.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:472</sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
 <b>2003: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">The Lord of the Rings: The Return of the King</a></i>:</b>
 
-<dl><dd>Trong cảnh <a href="../T/The_Lighting_of_the_Beacons.md" title="The Lighting of the Beacons">Ánh sáng của đèn hiệu</a> Gondor kêu gọi Rohan trợ giúp, phim sau đó mô tả từng đèn hiệu được thắp sáng dọc theo các đỉnh khác nhau ở phía bắc của Dãy Núi Trắng cho đến khi <a href="../A/Aragorn.md" title="Aragorn">Aragorn</a> nhìn thấy đèn hiệu cuối cùng ở <a href="../E/Edoras.md" title="Edoras">Edoras</a>.</dd></dl>
+<dl><dd>Trong cảnh <a href="../T/The_Lighting_of_the_Beacons.md" title="The Lighting of the Beacons">Thắp sáng các đèn hiệu</a>, Gondor kêu gọi Rohan đến cứu viện. Sau đó, phim cho thấy các đèn hiệu lần lượt được thắp sáng trên những đỉnh núi ở sườn phía bắc Dãy Núi Trắng, cho đến khi <a href="../A/Aragorn.md" title="Aragorn">Aragorn</a> nhìn thấy đèn hiệu cuối cùng từ <a href="../E/Edoras.md" title="Edoras">Edoras</a>.</dd></dl>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations_2}
 
 <b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
-<dl><dd>Dãy Núi Trắng là những đặc điểm nổi bật trên đường chân trời của <a href="../R/Rohan.md" title="Rohan">Rohan</a> và <a href="../G/Gondor.md" title="Gondor">Gondor</a> đồng thời cũng chứa một số thành trì của người lùn. "Furukzahar" của người lùn <a href="../B/Blacklocks.md" title="Blacklocks">Temámir</a> nằm ngay phía bắc của <a href="../P/Pelargir.md" title="Pelargir">Pelargir</a>, trong khi "Zigil-jâbal" và "Kechel" không rõ lòng trung thành nằm ở phía tây của Dãy Núi Trắng và chưa có trong trò chơi.</dd></dl>
+<dl><dd>Dãy Núi Trắng nổi bật trên đường chân trời của <a href="../R/Rohan.md" title="Rohan">Rohan</a> và <a href="../G/Gondor.md" title="Gondor">Gondor</a>, đồng thời còn có một số thành trì của Người Lùn. "Furukzahar" của tộc Người Lùn <a href="../B/Blacklocks.md" title="Blacklocks">Temámir</a> nằm ngay phía bắc <a href="../P/Pelargir.md" title="Pelargir">Pelargir</a>, trong khi "Zigil-jâbal" và "Kechel", chưa rõ thuộc phe nào, nằm ở vùng phía tây Dãy Núi Trắng và chưa xuất hiện trong trò chơi.</dd></dl>
 
 <span></span>
 
