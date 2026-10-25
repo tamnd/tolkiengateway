@@ -77,7 +77,7 @@ Elbereth và chủ nhà của Valar đang ngồi trong Vòng Phán xét chờ ch
 
 <br> **Tầm nhìn (Cảnh một)**
 
-Círdan, một trong những Tiên tộc du hành xuyên Trung Địa để vượt qua Valinor, bị trì hoãn vì đang tìm kiếm người bạn mất tích Thingol của mình. Ông đến bờ quá muộn để lên tàu và thề sẽ đóng con tàu của riêng mình để vượt qua.  Ulmo, Chúa tể của Nước, xuất hiện với ông trong một linh ảnh và bảo ông hãy chờ đợi và chờ đợi thời cơ để lời tiên tri về Eärendil trở thành hiện thực.  Ông cho ông xem hình ảnh một con tàu màu trắng đang lướt trên không và tỏa sáng như một ngôi sao.  Círdan mủi lòng và ở lại.
+Círdan, một trong những Tiên tộc du hành xuyên Trung Địa để vượt qua Valinor, bị trì hoãn vì đang tìm kiếm người bạn mất tích Thingol của mình. Ông đến bờ quá muộn để lên tàu và thề sẽ đóng con tàu của riêng mình để vượt qua.  Ulmo, Chúa tể Nước, xuất hiện với ông trong một linh ảnh và bảo ông hãy chờ đợi và chờ đợi thời cơ để lời tiên tri về Eärendil trở thành hiện thực.  Ông cho ông xem hình ảnh một con tàu màu trắng đang lướt trên không và tỏa sáng như một ngôi sao.  Círdan mủi lòng và ở lại.
 
 <br> *Các sự kiện từ cảnh 4 đến phần kết của Fëanor diễn ra giữa các cảnh này.*
 

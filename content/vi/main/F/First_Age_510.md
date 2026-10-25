@@ -23,11 +23,11 @@ Các sự kiện đáng chú ý trong năm nay bao gồm:
 ## Giữa hè {#Midsummer}
 
 - [Sự sụp đổ của Gondolin](Fall_of_Gondolin.md): [Morgoth](../M/Morgoth.md) tấn công [Gondolin](../G/Gondolin.md) với đội quân [orc](../O/Orcs.md), [rồng](../D/Dragons.md), [sói](../W/Wolves.md) và [balrogs](../B/Balrogs.md).<sup id="cite_ref-Gondolin_1-0" class="reference"><a href="#cite_note-Gondolin-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
-- [Ecthelion](../E/Ecthelion.md) chết khi giết chết [Gothmog](<../G/Gothmog_(balrog).md>), Chúa tể của Balrog.<sup id="cite_ref-Gondolin_1-1" class="reference"><a href="#cite_note-Gondolin-1">[1]</a></sup>
+- [Ecthelion](../E/Ecthelion.md) chết khi giết chết [Gothmog](<../G/Gothmog_(balrog).md>), Chúa tể Balrog.<sup id="cite_ref-Gondolin_1-1" class="reference"><a href="#cite_note-Gondolin-1">[1]</a></sup>
 - Cái chết của Vua [Turgon](../T/Turgon.md) và nhiều thủ lĩnh của [nhà quý tộc](../T/Twelve_houses_of_the_Gondothlim.md) của Gondolin.<sup id="cite_ref-Gondolin_1-2" class="reference"><a href="#cite_note-Gondolin-1">[1]</a></sup>
 - [Maeglin](../M/Maeglin.md) lấy [Idril](../I/Idril.md) và [Eärendil](../E/Eärendil.md). [Tuor](../T/Tuor.md) giết chết Maeglin.<sup id="cite_ref-Gondolin_1-3" class="reference"><a href="#cite_note-Gondolin-1">[1]</a></sup>
 - [Idril](../I/Idril.md) và [Tuor](../T/Tuor.md) dẫn một nhóm [những người sống sót](../E/Exiles_of_Gondolin.md) ra khỏi [đường hầm bí mật](../I/Idril's_secret_way.md) và băng qua [Cirith Thoronath](../C/Cirith_Thoronath.md). [Glorfindel](../G/Glorfindel.md) chết ở đó và giết chết một Balrog. Những người lưu vong lang thang về phía [Cửa sông Sirion](../M/Mouths_of_Sirion.md).<sup id="cite_ref-Gondolin_1-4" class="reference"><a href="#cite_note-Gondolin-1">[1]</a></sup>
-- [Gil-galad](../G/Gil-galad.md) trở thành [Đại Vương của Noldor](../H/High_King_of_the_Noldor.md).<sup id="cite_ref-Gondolin_1-5" class="reference"><a href="#cite_note-Gondolin-1">[1]</a></sup>
+- [Gil-galad](../G/Gil-galad.md) trở thành [Đại Vương Noldor](../H/High_King_of_the_Noldor.md).<sup id="cite_ref-Gondolin_1-5" class="reference"><a href="#cite_note-Gondolin-1">[1]</a></sup>
 
 <span></span>
 

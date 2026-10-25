@@ -86,7 +86,7 @@ Mablung và Beleg sau đó vội vàng đến trợ giúp Vua, nhưng khi chứn
 
 Mablung sau đó đã giúp đưa thi thể của Beren và Huan về Menegroth.<sup id="cite_ref-Beren_1-6" class="reference"><a href="#cite_note-Beren-1">[1]</a></sup>
 
-### Trận chiến của những giọt nước mắt không đếm được {#Battle_of_Unnumbered_Tears}
+### Trận chiến Nước mắt Vô số {#Battle_of_Unnumbered_Tears}
 
 Không muốn tham gia vào trận chiến, Thingol cho phép Mablung tham gia [cuộc tấn công lớn vào Morgoth](../N/Nirnaeth_Arnoediad.md) miễn là ông không phục vụ Nhà của Fëanor; Vì vậy, ông đã gia nhập đội quân của [Fingon](../F/Fingon.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Trong trận chiến này Mablung đã cứu được ba trong số [Haladin](../H/Haladin.md) những người chiến đấu dưới quyền [Haldir](<../H/Haldir_(Chieftain_of_Brethil).md>)và chữa lành vết thương cho họ.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
@@ -108,7 +108,7 @@ Mablung chịu trách nhiệm bảo vệ [Morwen Eledhwen](Morwen.md), người 
 
 Những người phụ nữ bị bỏ lại [Amon Ethir](../A/Amon_Ethir.md) và Mablung lên đường cùng một đại đội nhỏ để trinh sát Nargothrond theo lệnh của ông theo Thingol. Tuy nhiên [Glaurung](../G/Glaurung.md) bên trái Nargothrond và Mablung đã không thể ngăn cả hai rơi vào bẫy của [Rồng](../D/Dragon.md). Ông trốn khỏi Glaurung rồi tìm kiếm Nargothrond bị sa thải, không tìm thấy dấu hiệu của Túrin. Glaurung khi trở về bị chế nhạo Mablung, tha mạng và thông báo rằng hiện tại ông cũng đã mất Morwen và Nienor.
 
-Cuối cùng Mablung đã tìm thấy Nienor, bị mê hoặc bởi Glaurung, chỉ để mất bà một lần nữa trong một cuộc tấn công của [Orc thợ săn](../O/Orc-hunters.md). Bị đánh bại, Mablung quay trở lại Doriath và do thất bại ở Nargothrond nên đã yêu cầu Thingol sa thải ông. Thingol đánh giá rằng thất bại hầu như không phải là lỗi của Mablung và Glaurung là kẻ thù quá mạnh đối với ông và đã giữ Mablung ở vị trí của ông. Tuy nhiên, ông đã dành nhiều năm sau đó để tìm kiếm Morwen và Nienor.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+Cuối cùng Mablung đã tìm thấy Nienor, bị mê hoặc bởi Glaurung, chỉ để mất bà một lần nữa trong một cuộc tấn công của [Thợ săn Orc](../O/Orc-hunters.md). Bị đánh bại, Mablung quay trở lại Doriath và do thất bại ở Nargothrond nên đã yêu cầu Thingol sa thải ông. Thingol đánh giá rằng thất bại hầu như không phải là lỗi của Mablung và Glaurung là kẻ thù quá mạnh đối với ông và đã giữ Mablung ở vị trí của ông. Tuy nhiên, ông đã dành nhiều năm sau đó để tìm kiếm Morwen và Nienor.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
 Biết Glaurung ở trong [Khu rừng Brethil](../F/Forest_of_Brethil.md), Mablung đến đó và gặp Túrin người vừa giết được con rồng. Bằng cách thừa nhận Nienor đã mất tích, ông đã khiến Túrin nhận ra rằng Níniel vợ ông thực chất chính là em gái ông Nienor. Hậu quả là Túrin bỏ chạy và Mablung tìm thấy ông ngay sau khi rơi trúng [thanh kiếm](../G/Gurthang.md) của chính mình.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
 

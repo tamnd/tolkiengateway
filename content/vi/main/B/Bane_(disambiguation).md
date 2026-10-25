@@ -16,7 +16,7 @@ images:
 
 **Bane** là một từ cổ dùng để chỉ điều gì đó gây tổn hại hoặc hủy hoại một người hoặc nhiều người. [Tolkien](../J/J.R.R._Tolkien.md) thường sử dụng thuật ngữ này trong [Trung Địa](../M/Middle-earth.md) của mình. Dưới đây là một số tiêu đề có chứa từ *bane*:
 
-- [Bain](Bain.md), một [Vua của Dale](../K/King_of_Dale.md), tên được một số người dịch là "nguy hiểm".
+- [Bain](Bain.md), một [Vua Dale](../K/King_of_Dale.md), tên được một số người dịch là "nguy hiểm".
 - [Dagnir](../D/Dagnir.md), một người đàn ông [Dorthonion](../D/Dorthonion.md), tên được dịch là "tai họa".
 - **[Tai họa của Durin](../D/Durin's_Bane.md), Balrog của [Moria](../M/Moria.md).**
 Tai ương của - [Glaurung](../G/Glaurung.md), [Túrin Turambar](../T/Túrin.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>

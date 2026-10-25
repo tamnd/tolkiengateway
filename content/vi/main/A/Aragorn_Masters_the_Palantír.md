@@ -35,7 +35,7 @@ infobox:
 
 ## Tóm tắt {#Synopsis}
 
-[Aragorn](Aragorn.md) nhìn vào [Orthanc-đá](../O/Orthanc-stone.md) và thấy [Sauron](../S/Sauron.md). Một giọng nói vang lên *"silivren penna miriel"*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> Aragorn thách thức Sauron bằng cách hiển thị [thanh kiếm được rèn lại của Elendil](Andúril.md). Sau đó Palantír cho thấy [Arwen](Arwen.md) sắp chết và Sauron bắt đầu nói bằng giọng nói của người da đen. Aragorn đánh rơi Palantír và loạng choạng lùi lại. Khi ông thực hiện chiếc vòng cổ Evenstar, chiếc vòng cổ được Arwen tặng cho ông rơi xuống và vỡ tan. Aragorn dẫn đầu [Quân đội Phương Tây](Army_of_the_West.md) ra khỏi [Minas Tirith](../M/Minas_Tirith.md).
+[Aragorn](Aragorn.md) nhìn vào [Orthanc-đá](../O/Orthanc-stone.md) và thấy [Sauron](../S/Sauron.md). Một giọng nói vang lên *"silivren penna miriel"*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> Aragorn thách thức Sauron bằng cách hiển thị [thanh kiếm được rèn lại của Elendil](Andúril.md). Sau đó Palantír cho thấy [Arwen](Arwen.md) sắp chết và Sauron bắt đầu nói bằng giọng nói của người da đen. Aragorn đánh rơi Palantír và loạng choạng lùi lại. Khi ông thực hiện chiếc vòng cổ Evenstar, chiếc vòng cổ được Arwen tặng cho ông rơi xuống và vỡ tan. Aragorn dẫn đầu [Đội quân Phương Tây](Army_of_the_West.md) ra khỏi [Minas Tirith](../M/Minas_Tirith.md).
 
 ## Sự khác biệt {#Differences}
 

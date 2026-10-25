@@ -70,7 +70,7 @@ images:
 - 38\. [Caras Galadhon](<../C/Caras_Galadhon_(scene).md>)
 - 39\. [Tấm gương Galadriel](<The_Mirror_of_Galadriel_(scene).md>)
 - 41\. [Tạm biệt Lórien](<../F/Farewell_to_Lórien_(scene).md>)
-- 42\. [Sông Lớn](<The_Great_River_(scene).md>)
+- 42\. [Đại Hà](<The_Great_River_(scene).md>)
 - 44\. [Sự tan vỡ của tình bạn](<The_Breaking_of_the_Fellowship_(scene).md>)
 - 45\. [Sự khởi hành của Boromir](<The_Departure_of_Boromir_(scene).md>)
 

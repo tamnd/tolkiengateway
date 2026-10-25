@@ -47,7 +47,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Trong [S.R.](../S/Shire_Reckoning.md) [1341](../T/Third_Age_2941.md)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> [Bilbo Baggins](../B/Bilbo_Baggins.md) chạy qua Nhà máy và cách đó một dặm để đến [Green Rồng](../G/Green_Dragon~72852.md) để gặp [Thorin và Đoàn tùy tùng](../T/Thorin_and_Company.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Khi ông và [Gandalf](../G/Gandalf.md) quay lại [Hobbiton](../H/Hobbiton.md), họ băng qua cầu và đi qua Nhà máy.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Bởi [S.R.](../S/Shire_Reckoning.md) [1418](../T/Third_Age_3018.md) [Sandyman](../S/Sandyman.md) đã từng làm thợ xay một thời gian và đã truyền lại nghề cho con trai mình, [Ted](../T/Ted_Sandyman.md). [Lotho Sackville-Baggins](../L/Lotho_Sackville-Baggins.md) mua lại nhà máy và nhiều tòa nhà khác ở [Hobbiton](../H/Hobbiton.md), trước khi chuyển đến [Bag End](../B/Bag_End.md).
+Trong [S.R.](../S/Shire_Reckoning.md) [1341](../T/Third_Age_2941.md)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> [Bilbo Baggins](../B/Bilbo_Baggins.md) chạy qua Nhà máy và cách đó một dặm để đến [Rồng Xanh](../G/Green_Dragon~72852.md) để gặp [Thorin và Đoàn tùy tùng](../T/Thorin_and_Company.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Khi ông và [Gandalf](../G/Gandalf.md) quay lại [Hobbiton](../H/Hobbiton.md), họ băng qua cầu và đi qua Nhà máy.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Bởi [S.R.](../S/Shire_Reckoning.md) [1418](../T/Third_Age_3018.md) [Sandyman](../S/Sandyman.md) đã từng làm thợ xay một thời gian và đã truyền lại nghề cho con trai mình, [Ted](../T/Ted_Sandyman.md). [Lotho Sackville-Baggins](../L/Lotho_Sackville-Baggins.md) mua lại nhà máy và nhiều tòa nhà khác ở [Hobbiton](../H/Hobbiton.md), trước khi chuyển đến [Bag End](../B/Bag_End.md).
 
 <figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Matěj_Čadil_-_Hobbiton_Befouled.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/dd/Mat%C4%9Bj_%C4%8Cadil_-_Hobbiton_Befouled.jpg/300px-Mat%C4%9Bj_%C4%8Cadil_-_Hobbiton_Befouled.jpg" decoding="async" loading="lazy" width="300" height="436" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/dd/Mat%C4%9Bj_%C4%8Cadil_-_Hobbiton_Befouled.jpg/450px-Mat%C4%9Bj_%C4%8Cadil_-_Hobbiton_Befouled.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/d/dd/Mat%C4%9Bj_%C4%8Cadil_-_Hobbiton_Befouled.jpg/600px-Mat%C4%9Bj_%C4%8Cadil_-_Hobbiton_Befouled.jpg 2x" data-file-width="800" data-file-height="1163"/></a><figcaption>Hobbiton with the New Mill</figcaption></figure>
 
@@ -59,7 +59,7 @@ Trong phiên bản gốc của lá thư [Thorin](../T/Thorin.md) gửi cho Bilbo
 
 ## Cảm hứng {#Inspiration}
 
-[Nhà máy Sarehole](../S/Sarehole_Mill.md) và các nhà máy xay của nó đã tạo nên nguồn cảm hứng cho Nhà máy cũ.<sup id="cite_ref-TrollNotes_7-1" class="reference"><a href="#cite_note-TrollNotes-7">[7]</a></sup>
+[Cối xay Sarehole](../S/Sarehole_Mill.md) và các nhà máy xay của nó đã tạo nên nguồn cảm hứng cho Cối xay cũ.<sup id="cite_ref-TrollNotes_7-1" class="reference"><a href="#cite_note-TrollNotes-7">[7]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 

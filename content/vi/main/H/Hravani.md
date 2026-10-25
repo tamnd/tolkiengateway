@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Men of Darkness"
 ---
 
-Chuyển hướng tới [Con Người của Bóng Tối](../M/Men_of_Darkness.md).
+Chuyển hướng tới [Con Người Bóng Tối](../M/Men_of_Darkness.md).

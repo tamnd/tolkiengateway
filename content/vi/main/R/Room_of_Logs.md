@@ -13,7 +13,7 @@ categories:
   - "Tol Eressëa"
 ---
 
-**Phòng Gỗ** là một căn phòng được tìm thấy trong [Ngôi nhà của Lost Play](../C/Cottage_of_Lost_Play.md) trên hòn đảo [Tol Eressëa](../T/Tol_Eressëa.md). Nó được mô tả là có một lò sưởi với ngọn lửa ma thuật gọi là Tale-fire, cháy đỏ và không bao giờ tắt. Người ta cho rằng nó giúp người kể chuyện kể lại câu chuyện của họ.<sup id="cite_ref-:0_1-0" class="reference"><a href="#cite_note-:0-1">[1]</a></sup>
+**Phòng Gỗ** là một căn phòng được tìm thấy trong [Ngôi nhà Trò chơi Thất lạc](../C/Cottage_of_Lost_Play.md) trên hòn đảo [Tol Eressëa](../T/Tol_Eressëa.md). Nó được mô tả là có một lò sưởi với ngọn lửa ma thuật gọi là Tale-fire, cháy đỏ và không bao giờ tắt. Người ta cho rằng nó giúp người kể chuyện kể lại câu chuyện của họ.<sup id="cite_ref-:0_1-0" class="reference"><a href="#cite_note-:0-1">[1]</a></sup>
 
 ## Lịch sử {#History}
 

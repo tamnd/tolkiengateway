@@ -38,7 +38,7 @@ infobox:
     - Bởi Thomas Morwinsky
 - "Biên niên sử của Curandir"
     - Bởi Dale Davis
-- "Biệt đội miền Bắc"
+- "Tuần Du Nhân phương Bắc"
     - Bởi Thomas Morwinsky và [Gabriele Quaglia](../G/Gabriele_Quaglia.md)
 - "Chúa tể của những chiếc nhẫn Nhập vai Quy tắc Nhà 5E: Truyền phép"
     - Bởi Charlie Bell

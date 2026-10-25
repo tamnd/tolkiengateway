@@ -56,7 +56,7 @@ infobox:
 
 - "*Nólë i Meneldilo*: Truyền thuyết về nhà thiên văn học"✫ — Jorge Quiñónez và Ned Raggett
 - "*[Narqelion](../N/Narqelion.md)*: Bản dịch của Paul Nolan Hyde" — Jorge Quiñónez
-- "Chuyển đổi trong bản dịch: Nếu và khi nào sự thống trị của Con Người" (cột) — Arden R. Smith
+- "Chuyển đổi trong bản dịch: Nếu và khi nào Quyền thống trị của Con Người" (cột) — Arden R. Smith
 
 <small>✫ chứa tài liệu chưa được xuất bản trước đây</small>
 

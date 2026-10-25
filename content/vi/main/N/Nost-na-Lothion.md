@@ -24,7 +24,7 @@ infobox:
 
 **Nost-na-Lothion** hay **Sự ra đời của các loài hoa**, là một lễ hội được tổ chức vào [Gondolin](../G/Gondolin.md) theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) ở *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.
 
-Nó được tổ chức vào đầu mùa xuân, với "sự vui chơi của trẻ em". Nó rõ ràng được tổ chức để kỷ niệm mùa đông trôi qua, khi băng của [Vòng vây Dãy Núi](../E/Encircling_Mountains.md) tan chảy và [Tumladin](../T/Tumladin.md) lấy nước và nở hoa.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
+Nó được tổ chức vào đầu mùa xuân, với "sự vui chơi của trẻ em". Nó rõ ràng được tổ chức để kỷ niệm mùa đông trôi qua, khi băng của [Dãy Núi Bao Quanh](../E/Encircling_Mountains.md) tan chảy và [Tumladin](../T/Tumladin.md) lấy nước và nở hoa.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

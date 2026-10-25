@@ -46,7 +46,7 @@ infobox:
 - Arda Truyền thuyết:
     - "Carn Dûm" nghĩa là gì? - [Chris Seeman](../C/Chris_Seeman.md), Patrick Wynne
     - Harondor có rừng không? - Wesley Frank
-    - Chuyện gì đã xảy ra với Blue Pháp sư? - Tommy Martin
+    - Chuyện gì đã xảy ra với Pháp sư Xanh? - Tommy Martin
     - Ai là Necromancer? - [Chris Seeman](../C/Chris_Seeman.md), [Anders Blixt](../A/Anders_Blixt.md)
     - Còn Vua Phù thủy thì sao? - Steffen Solomon, Wesley Frank, [Chris Seeman](../C/Chris_Seeman.md)
     - Bản chất của phép thuật trong Trung Địa là gì? - Chris Pheby

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Second Kinslaying"
 ---
 
-Chuyển hướng đến [Tội giết người thân thứ hai](../S/Second_Kinslaying.md).
+Chuyển hướng đến [Tội Cuộc Tàn sát Đồng tộc lần thứ hai](../S/Second_Kinslaying.md).

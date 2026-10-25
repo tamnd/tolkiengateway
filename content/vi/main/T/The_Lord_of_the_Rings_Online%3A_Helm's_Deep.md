@@ -48,7 +48,7 @@ infobox:
 
 ### Tập III: Đồng minh của Vua {#Volume_III:_Allies_of_the_King}
 
-- **Quyển XI - Sảnh Vàng**
+- **Quyển XI - Đại Sảnh Vàng**
 - **Quyển XII - Chiến tranh ở phương Tây**
 - **Quyển XIII - Bộ Trận Hornburg**
 
@@ -111,11 +111,11 @@ infobox:
 - Cấp chế tạo mới, chuyển đổi vũ khí mỹ phẩm ẩn.
 - Trận chiến sử thi mới: Bảo vệ Minas Tirith, Búa của thế giới ngầm.
 
-### Cập nhật 18: Trận chiến cánh đồng Pelennor {#Update_18:_The_Battle_of_Pelennor_Fields}
+### Cập nhật 18: Trận chiến tại cánh đồng Pelennor {#Update_18:_The_Battle_of_Pelennor_Fields}
 
 *The Battle of Pelennor fields* là bản cập nhật thứ mười tám và được phát hành [ngày 11 tháng 4](../_/11_April.md) [2016](../_/2016.md).
 
-**Quyển V - Chuyến đi của Rohirrim** **Quyển VI - Trận chiến cánh đồng Pelennor**
+**Quyển V - Chuyến đi của Rohirrim** **Quyển VI - Trận chiến tại cánh đồng Pelennor**
 
 - Vùng Viễn Anórien, bao gồm [Taur Drúadan](../D/Drúadan_Forest.md), [Đồi Beacon](../W/Warning_beacons_of_Gondor.md) và cánh đồng Pelennor trong trận chiến.
 - Cụm phiên bản bao gồm hai phiên bản 3 người (The Quays of the Harlond, The Blood of the Black Serpent), một phiên bản 6 người (The Silent Street) và một phiên bản đột kích 12 người (Throne of the Dread Terror).

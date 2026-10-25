@@ -36,7 +36,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Thành trì Methed-en-glad là một trong nhiều trại và pháo đài được canh gác được thành lập xung quanh [Echad i Sedryn](../H/House_of_Ransom.md) trong thời gian tồn tại ngắn ngủi của [Dor-Cúarthol](../D/Dor-Cúarthol.md), vương quốc được cai trị bởi [Hai thuyền trưởng](../T/Two_Captains.md). Người ta nói rằng từ Methed-en-glad, có một tầm nhìn về phía nam, nơi có thể nhìn thấy đỉnh Amon Rûdh và có thể nhận lệnh cũng như tin nhắn đến và đi từ cả hai địa điểm thông qua tín hiệu.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Thành trì Methed-en-glad là một trong nhiều trại và pháo đài được canh gác được thành lập xung quanh [Echad i Sedryn](../H/House_of_Ransom.md) trong thời gian tồn tại ngắn ngủi của [Dor-Cúarthol](../D/Dor-Cúarthol.md), vương quốc được cai trị bởi [Hai vị Thủ lĩnh](../T/Two_Captains.md). Người ta nói rằng từ Methed-en-glad, có một tầm nhìn về phía nam, nơi có thể nhìn thấy đỉnh Amon Rûdh và có thể nhận lệnh cũng như tin nhắn đến và đi từ cả hai địa điểm thông qua tín hiệu.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

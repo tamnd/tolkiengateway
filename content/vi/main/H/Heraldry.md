@@ -764,7 +764,7 @@ Dưới đây là những trích dẫn mô tả các biểu tượng được c�
 
 ### Gnomish biểu ngữ {#Gnomish_banners}
 
-Trong một số "[Những đoạn văn xuôi theo sau Lost Tales](../P/Prose_Fragments_Following_the_Lost_Tales.md)", Tolkien đã viết một câu chuyện ngắn về việc [Gnomes](../G/Gnomes.md) tiến vào [Great Lands](../G/Great_Lands.md) ( [Sự trở lại của Noldor](../R/Return_of_the_Noldor.md) sau này), trong đó thủ lĩnh của họ và các con trai của họ cầm một số biểu ngữ:<sup id="cite_ref-Prose_51-0" class="reference"><a href="#cite_note-Prose-51">[49]</a></sup>
+Trong một số "[Những đoạn văn xuôi theo sau Lost Tales](../P/Prose_Fragments_Following_the_Lost_Tales.md)", Tolkien đã viết một câu chuyện ngắn về việc [Gnomes](../G/Gnomes.md) tiến vào [Great Lands](../G/Great_Lands.md) ( [Cuộc trở về của Noldor](../R/Return_of_the_Noldor.md) sau này), trong đó thủ lĩnh của họ và các con trai của họ cầm một số biểu ngữ:<sup id="cite_ref-Prose_51-0" class="reference"><a href="#cite_note-Prose-51">[49]</a></sup>
 
 <figure class="mw-halign-left" typeof="mw:File"><a class="mw-file-description" href="../../file/Q/Quentandil_-_Gnome_Banners.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/8/87/Quentandil_-_Gnome_Banners.jpg/250px-Quentandil_-_Gnome_Banners.jpg" decoding="async" loading="lazy" width="250" height="121" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/87/Quentandil_-_Gnome_Banners.jpg/375px-Quentandil_-_Gnome_Banners.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/8/87/Quentandil_-_Gnome_Banners.jpg/500px-Quentandil_-_Gnome_Banners.jpg 2x" data-file-width="1533" data-file-height="744"/></a><figcaption></figcaption></figure>
 

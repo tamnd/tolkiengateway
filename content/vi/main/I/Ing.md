@@ -86,7 +86,7 @@ Nguồn cảm hứng chính đằng sau nhân vật này là nhân vật <i><a c
 </li>
 <li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text">Trong một phác thảo khác, chính Tiên tộc sống ở Luthany đã khiến Ing <i>khập khiễng</i>, với Eärendel đến Luthany sau khi cuộc xâm lược của <a class="mw-redirect" href="../R/Rúmhoth.md" title="Rúmhoth">Rúmhoth</a> đã diễn ra đã diễn ra.</span>
 </li>
-<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text">Trong một ghi chú khác, ông đã đi đến và đạt được Tol Eressëa. Ở đó, người ta kể rằng một ngày nào đó ông sẽ <a href="../F/Faring_Forth.md" title="Faring Forth">dẫn dắt Tiên tộc của Tol Eressëa quay trở lại Luthany</a>.</span>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text">Trong một ghi chú khác, ông đã đi đến và đạt được Tol Eressëa. Ở đó, người ta kể rằng một ngày nào đó ông sẽ <a href="../F/Faring_Forth.md" title="Faring Forth">dẫn dắt Tiên tộc Tol Eressëa quay trở lại Luthany</a>.</span>
 </li>
 </ol></div></span>
 

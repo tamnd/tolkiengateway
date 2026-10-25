@@ -74,7 +74,7 @@ Bài hát "Mirror Mirror" có trong *DVD mù: Những tưởng tượng qua gư�
 11. [Noldor (Những triều đại mùa đông chết chóc)](<Noldor_(Dead_Winter_Reigns).md>) - *6:51*
 12. [Trận chiến bất ngờ bùng cháy](<../B/Battle_of_Sudden_Flame_(song).md>) - *0:44*
 13. [Thời gian đứng yên (tại Đồi Sắt)](<../T/Time_Stands_Still_(at_the_Iron_Hill).md>) - *4:53*
-14. [Bóng tối Tiên](../T/The_Dark_Elf.md) - *0:23*
+14. [Tiên Bóng tối](../T/The_Dark_Elf.md) - *0:23*
 15. [Cái gai](<../T/Thorn_(song).md>) - *6:18*
 16. [Cái Eldar](../T/The_Eldar.md) - *3:39*
 17. [Nom the Wise](Nom_the_Wise.md) - *0:33*

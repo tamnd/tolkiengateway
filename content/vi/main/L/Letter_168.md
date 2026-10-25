@@ -38,7 +38,7 @@ Richard Jeffery, một sinh viên Oxford, đã có một số thắc mắc về 
 ## Ghi chú {#Notes}
 
 - Jeffery sau đó đã nhận được [Thư 347](Letter_347.md), cũng chứa một số truy vấn và phỏng đoán về ngôn ngữ và từ nguyên.
-- Tolkien đã đặt một lớp phủ [Trung Địa](../M/Middle-earth.md) lên bản đồ Châu Âu: ông gọi Venice là "[Gondor](../G/Gondor.md)" và Anh là "[Vương quốc phía Bắc](../A/Arnor.md)".
+- Tolkien đã đặt một lớp phủ [Trung Địa](../M/Middle-earth.md) lên bản đồ Châu Âu: ông gọi Venice là "[Gondor](../G/Gondor.md)" và Anh là "[Vương quốc phương Bắc](../A/Arnor.md)".
 - Trong phần tái bút, Tolkien đã viết, trong [Quenya](../Q/Quenya.md) Tengwar, "nmárie". Từ này, được gọi là <a class="external text" href="http://www.forodrim.org/daeron/mdtci.html#DTS_12" rel="noreferrer noopener" target="_blank">DTS 12</a>, rõ ràng là *[namárië](../N/Namárië.md)*, "tạm biệt".
 
 <br>

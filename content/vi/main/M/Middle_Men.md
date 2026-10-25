@@ -24,7 +24,7 @@ Thuật ngữ này đôi khi đề cập đến tất cả các đồng minh c�
 
 ### Nguồn gốc {#Origins}
 
-[Edain](../E/Edain.md) đến từ những người dân [Con Người](Men.md) đã chạy trốn khỏi [Hildorien](../H/Hildorien.md) và đang có chiến tranh với [Con Người của Bóng Tối](Men_of_Darkness.md) và chạy trốn đến <a class="mw-redirect mw-disambig" href="../W/West.md" title="West">Phương Tây</a>. Đâu đó ở phía bắc [Rhûn](../R/Rhûn.md), họ đã gặp [Người Lùn](../D/Dwarves.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+[Edain](../E/Edain.md) đến từ những người dân [Con Người](Men.md) đã chạy trốn khỏi [Hildorien](../H/Hildorien.md) và đang có chiến tranh với [Con Người Bóng Tối](Men_of_Darkness.md) và chạy trốn đến <a class="mw-redirect mw-disambig" href="../W/West.md" title="West">Phương Tây</a>. Đâu đó ở phía bắc [Rhûn](../R/Rhûn.md), họ đã gặp [Người Lùn](../D/Dwarves.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Ở đó, họ bị chia thành hai người, sau này trở thành [Nhà Bëor](../H/House_of_Bëor.md) và [Nhà Marach](../H/House_of_Hador.md), ở phía đông bắc của [Biển Rhûn](../S/Sea_of_Rhûn.md) nơi họ sống trong rừng. Tổ tiên của người Hadorian sống ở phía đông bắc của Biển, trong khu rừng gần bờ biển. Tổ tiên của người Beorian đã đến chân những ngọn đồi cao ở phía tây nam. Vì khoảng cách xa xôi nên cả hai cùng phát triển nghề đóng thuyền nhưng ít khi gặp nhau.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 

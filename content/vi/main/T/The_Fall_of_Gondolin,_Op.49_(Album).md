@@ -20,9 +20,9 @@ Bản ghi demo hoàn chỉnh về tác phẩm opera của nhà soạn nhạc [Pa
 
 <br> **Diễn viên:**
 
-Ulmo, Chúa tể vùng nước (Bass):  Martin Lloyd
+Ulmo, Chúa tể các dòng nước (Bass):  Martin Lloyd
 
-Turgon, Vua của Gondolin (Bass):  George Newton-Fitzgerald
+Turgon, Vua Gondolin (Bass):  George Newton-Fitzgerald
 
 Aredhel, em gái ông (Mezzo-Soprano):  Louise Ratcliffe
 

@@ -27,7 +27,7 @@ Một thiên niên kỷ sau, [Faramir](../F/Faramir.md) cũng giữ danh hiệu 
 ## Xem thêm {#See_also}
 
 - [Đội trưởng của đội chủ nhà](Captain_of_the_Hosts.md)
-- [Thuyền trưởng của Phương Tây](Captains_of_the_West.md)
+- [Các Thống lĩnh Phương Tây](Captains_of_the_West.md)
 
 <span></span>
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Nine Rings"
 ---
 
-Chuyển hướng tới [Cửu Nhẫn](../N/Nine_Rings.md).
+Chuyển hướng tới [Chín chiếc Nhẫn](../N/Nine_Rings.md).

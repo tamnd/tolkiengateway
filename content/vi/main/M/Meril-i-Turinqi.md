@@ -64,7 +64,7 @@ Sau [Tháng ba Giải phóng](March_of_Liberation.md) và cuộc chiến với [
 
 Tại một thời điểm nào đó sau Tháng Ba Giải phóng, khi [Olórë Mallë](../O/Olórë_Mallë.md) bị phong tỏa và những đứa trẻ của [Con Người](Men.md) không thể đến thăm Valinor trong giấc ngủ được nữa, một [người đàn ông](../E/Eärendel.md) vẫn tìm được đường đến Phương Tây và tìm kiếm sự giúp đỡ của Tiên tộc, Meril đã đáp lại bằng cách hỏi [Lindo](../L/Lindo.md), một Tiên của Tol Eressëa, để đưa ra một kế hoạch.
 
-Sau đó, Lindo và vợ [Vairë](<../V/Vairë_(wife_of_Lindo).md>) đã xây dựng [Ngôi nhà của Lost Play](../C/Cottage_of_Lost_Play.md) ở Kortirion, từ đó những đứa trẻ còn lại của Con Người ở cùng với Tiên tộc đã đến [Great Lands](../G/Great_Lands.md) và an ủi những đứa trẻ Mannish sống ở đó.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
+Sau đó, Lindo và vợ [Vairë](<../V/Vairë_(wife_of_Lindo).md>) đã xây dựng [Ngôi nhà Trò chơi Thất lạc](../C/Cottage_of_Lost_Play.md) ở Kortirion, từ đó những đứa trẻ còn lại của Con Người ở cùng với Tiên tộc đã đến [Great Lands](../G/Great_Lands.md) và an ủi những đứa trẻ Mannish sống ở đó.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
 
 ### Sự xuất hiện của Eriol {#Arrival_of_Eriol}
 

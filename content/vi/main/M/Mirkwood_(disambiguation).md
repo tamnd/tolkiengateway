@@ -20,7 +20,7 @@ images:
 
 - **[Mirkwood](Mirkwood.md)**, khu rừng lớn ở [Rhovanion](../R/Rhovanion.md)
 
-- [Tiên tộc của Mirkwood](../E/Elves_of_Mirkwood.md), [Silvan Tiên tộc](../S/Silvan_Elves.md) của [Vương quốc Rừng](../W/Woodland_Realm.md)
+- [Tiên tộc của Mirkwood](../E/Elves_of_Mirkwood.md), [Tiên tộc Silvan](../S/Silvan_Elves.md) của [Vương quốc Rừng](../W/Woodland_Realm.md)
 - [Dãy Núi thuộc Mirkwood](Mountains_of_Mirkwood.md), dãy đồi phía Bắc [Mirkwood](Mirkwood.md)
 
 ## Sách {#Books}

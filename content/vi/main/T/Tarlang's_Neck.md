@@ -36,7 +36,7 @@ images:
 
 Một truyền thuyết địa phương của [người dân bản địa](../P/Pre-Númenóreans.md) của [Gondor](../G/Gondor.md) kể về [người khổng lồ](../G/Giants.md) và một trong số họ tên là [Tarlang](Tarlang.md) đã bị vấp và gãy cổ. Những người khổng lồ khác đã không dọn dẹp cơ thể của ông mà thay vào đó đã hợp nhất vào vùng đất. Cổ của người khổng lồ trở thành Cổ của Tarlang, đầu [Dol Tarlang](../D/Dol_Tarlang.md) của ông và những viên đá ông đang mang [Cûl Veleg](../C/Cûl_Veleg.md) và [Cûl Bîn](../C/Cûl_Bîn.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Tarlang's Neck là một phần của tuyến đường mà qua đó [Aragorn](../A/Aragorn.md) và [Đại đội Xám](../G/Grey_Company.md) dẫn đầu [Đội quân của Người chết](../A/Army_of_the_Dead~6352.md) trong hành trình giải cứu [Minas Tirith](../M/Minas_Tirith.md) ở [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Tarlang's Neck là một phần của tuyến đường mà qua đó [Aragorn](../A/Aragorn.md) và [Đội quân Xám](../G/Grey_Company.md) dẫn đầu [Đội quân Người Chết](../A/Army_of_the_Dead~6352.md) trong hành trình giải cứu [Minas Tirith](../M/Minas_Tirith.md) ở [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

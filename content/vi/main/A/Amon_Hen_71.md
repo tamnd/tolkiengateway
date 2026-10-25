@@ -57,7 +57,7 @@ infobox:
     - Bởi: Jenny Curtis, Colin Davey
 - Báo cáo của Ủy ban
 - Diễn đàn về nụ cười/Câu đố về nụ cười
-- Việc di chuyển Dãy Núi của Mirkwood
+- Việc di chuyển Dãy Núi Mirkwood
     - Bởi: [Alex Lewis](Alex_Lewis.md)
 - Truyện dân ca
 - Hãy mỉm cười

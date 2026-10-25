@@ -20,7 +20,7 @@ images:
 - **[phương Đông Dales](../E/Eastfold.md)**, một vùng [Rohan](../R/Rohan.md).
 - **[Người Dale](../M/Men_of_Dale.md)**, cư dân của Dale.
 - **[Chúa tể của Dale](../L/Lord_of_Dale.md)**, một danh hiệu [Mannish](../M/Mannish.md).
-- **[Vua của Dale](../K/King_of_Dale.md)**, một danh hiệu Mannish.
+- **[Vua Dale](../K/King_of_Dale.md)**, một danh hiệu Mannish.
 - **[Ngôn ngữ Dale](../L/Language_of_Dale.md)**, một ngôn ngữ [tiếng Mannish phía Bắc](../N/Northern_Mannish.md).
 - **[Trận Dale](../B/Battle_of_Dale.md)**, một trận chiến trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md).
 - <i><b><a href="../T/The_Dale-lands.md" title="The Dale-lands">Vùng đất Dale</a></b></i>, một bài thơ của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).

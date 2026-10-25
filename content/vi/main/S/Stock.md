@@ -59,7 +59,7 @@ Cái tên này có thể thể hiện sự hiện đại hóa của [tiếng Anh
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Con đường không tên có lẽ là <a href="Stock_Road.md" title="Stock Road">Stock Đường</a></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Con đường không tên có lẽ là <a href="Stock_Road.md" title="Stock Road">Đường Stock</a></span>
 </li>
 </ol></div></span>
 

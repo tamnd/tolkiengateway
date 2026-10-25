@@ -73,7 +73,7 @@ infobox:
 
 <i><b>The Book of Lost Tales: Phần thứ hai</b></i>, xuất bản trong [1984](../_/1984.md), là tập thứ hai trong bộ sách 12 tập của [Christopher Tolkien](../C/Christopher_Tolkien.md), *[The History of Middle-earth](The_History_of_Middle-earth.md)*, trong đó ông phân tích các bản thảo chưa xuất bản của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
-Cuốn sách là sự tiếp nối của *[The Book of Lost Tales: Part One](The_Book_of_Lost_Tales%253A_Part_One.md)*. Nó bao gồm những hình thức đầu tiên của những câu chuyện về [Beren](../B/Beren.md) và [Lúthien](../L/Lúthien.md), [Túrin](Túrin.md) và [Rồng](../G/Glaurung.md), [Vòng cổ của Người Lùn](../N/Nauglamír.md) và [Sự sụp đổ của Gondolin](../F/Fall_of_Gondolin.md). Sau mỗi câu chuyện là một lời bình luận dưới dạng một bài tiểu luận ngắn, cùng với nội dung của các bài thơ liên quan, đồng thời chứa thông tin phong phú về tên và từ vựng trong các ngôn ngữ [Elvish](../E/Elvish.md) sớm nhất.
+Cuốn sách là sự tiếp nối của *[The Book of Lost Tales: Part One](The_Book_of_Lost_Tales%253A_Part_One.md)*. Nó bao gồm những hình thức đầu tiên của những câu chuyện về [Beren](../B/Beren.md) và [Lúthien](../L/Lúthien.md), [Túrin](Túrin.md) và [Rồng](../G/Glaurung.md), [Vòng cổ Người Lùn](../N/Nauglamír.md) và [Sự sụp đổ của Gondolin](../F/Fall_of_Gondolin.md). Sau mỗi câu chuyện là một lời bình luận dưới dạng một bài tiểu luận ngắn, cùng với nội dung của các bài thơ liên quan, đồng thời chứa thông tin phong phú về tên và từ vựng trong các ngôn ngữ [Elvish](../E/Elvish.md) sớm nhất.
 
 ## Nội dung {#Contents}
 

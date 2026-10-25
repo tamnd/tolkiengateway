@@ -36,4 +36,4 @@ infobox:
 7. Rèn Vương miện Sắt - *05:02*
 8. Số Rồng Helm Của Dor-lómin - *04:45*
 9. Glaurung Vàng - *07:44*
-10. Bóng tối Tiên Của Nan Elmoth - *06:40*
+10. Tiên Bóng tối Của Nan Elmoth - *06:40*

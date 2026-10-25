@@ -42,7 +42,7 @@ images:
 ### Địa điểm {#Locations}
 
 - [Máhanaxar](../M/Máhanaxar.md), *Ring of Doom* nơi [Valar](../V/Valar.md) gặp nhau.
-- Vòng [Vòng Isengard](Ring_of_Isengard.md), các bức tường xung quanh [Orthanc](../O/Orthanc.md).
+- Vòng [Vành đai Isengard](Ring_of_Isengard.md), các bức tường xung quanh [Orthanc](../O/Orthanc.md).
 
 ## [Thế giới thực](../../category/R/Real-world.md) {#Real-world}
 

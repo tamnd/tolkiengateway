@@ -52,4 +52,4 @@ images:
 <dl><dd>Phụ lục: <a href="../C/Cuivienyarna.md" title="Cuivienyarna">Truyền thuyết về sự thức tỉnh của Quendi</a></dd></dl></dd></dl>
 </td></tr></tbody></table>
 
-**The Tale of Years**, phần đầu tiên của cuốn sách *[The War of the Jewels](The_War_of_the_Jewels.md)*, là lời kể về [Ngày của Người Cao Tuổi](../E/Elder_Days.md).
+**The Tale of Years**, phần đầu tiên của cuốn sách *[The War of the Jewels](The_War_of_the_Jewels.md)*, là lời kể về [Thời Cổ xưa](../E/Elder_Days.md).

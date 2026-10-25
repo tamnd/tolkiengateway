@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Hai người canh gác](../../main/T/Two_Watchers.md) - *[The Lord of the Rings: The Card Game](../../main/T/The_Lord_of_the_Rings%253A_The_Card_Game.md)*: *The Tower of Cirith Ungol* minh họa của Sergey Glushakov (vẽ khủng long)
+[Hai Kẻ Canh Gác](../../main/T/Two_Watchers.md) - *[The Lord of the Rings: The Card Game](../../main/T/The_Lord_of_the_Rings%253A_The_Card_Game.md)*: *The Tower of Cirith Ungol* minh họa của Sergey Glushakov (vẽ khủng long)
 
 ## Giấy phép {#Licensing}
 

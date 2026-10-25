@@ -39,7 +39,7 @@ Tuy nhiên, bài thơ “[The Con Tàu Cuối Cùng](../T/The_Last_Ship.md)” t
 4. [Ringló](Ringló.md), một nhánh khác của Morthond đi qua chỗ cạn [Ethring](../E/Ethring.md);
 5. [Gilrain](../G/Gilrain.md), nhập vào sông Serni tại [Linhir](../L/Linhir.md);
 6. [Serni](../S/Serni.md) - ban đầu được đánh vần là "Sernui" - và gia nhập Gilrain tại Linhir;
-7. [Anduin](../A/Anduin.md), Sông Lớn chảy từ [Rhovanion](Rhovanion.md), qua [Rauros](Rauros.md), qua [Osgiliath](../O/Osgiliath.md) và ra biển sau [Pelargir](../P/Pelargir.md).
+7. [Anduin](../A/Anduin.md), Đại Hà chảy từ [Rhovanion](Rhovanion.md), qua [Rauros](Rauros.md), qua [Osgiliath](../O/Osgiliath.md) và ra biển sau [Pelargir](../P/Pelargir.md).
 
 ## Năm con sông Lebennin {#Five_Rivers_of_Lebennin}
 

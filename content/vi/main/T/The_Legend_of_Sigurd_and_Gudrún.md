@@ -134,7 +134,7 @@ Mặc dù *The Legend of Sigurd and Gudrún* đương nhiên không được k�
 
 - *[Wargs](../W/Wargs.md)* (tr. 373, ghi chú 37)
 - *[Ents](../E/Ents.md)* (tr. 376, ghi chú 17)
-- [Túrin](Túrin.md) giết [Morgoth](../M/Morgoth.md) hoặc [Ancalagon quân Đen](../A/Ancalagon.md) trong [Dagor Dagorath](../D/Dagor_Dagorath.md) giống với <a class="extiw" href="http://en.wikipedia.org/wiki/Sigurd" title="wikipedia:Sigurd">Sigurd</a> giết <a class="extiw" href="http://en.wikipedia.org/wiki/Mi%C3%B0gar%C3%B0sormr" title="wikipedia:Miðgarðsormr">Miðgarðsormr</a> (p. ??, "Bình luận về *Völsungskviða en nýja*", "Upphaf")
+- [Túrin](Túrin.md) giết [Morgoth](../M/Morgoth.md) hoặc [Ancalagon Đen](../A/Ancalagon.md) trong [Dagor Dagorath](../D/Dagor_Dagorath.md) giống với <a class="extiw" href="http://en.wikipedia.org/wiki/Sigurd" title="wikipedia:Sigurd">Sigurd</a> giết <a class="extiw" href="http://en.wikipedia.org/wiki/Mi%C3%B0gar%C3%B0sormr" title="wikipedia:Miðgarðsormr">Miðgarðsormr</a> (p. ??, "Bình luận về *Völsungskviða en nýja*", "Upphaf")
 - [Manwë](../M/Manwë.md) được so sánh với <a class="extiw" href="http://en.wikipedia.org/wiki/Odin" title="wikipedia:Odin">Odin</a>, cha của các vị thần. (tr. ??, "Bình luận về *Völsungskviða en nýja*", "Upphaf")
 
 Một số khái niệm khác cũng được tìm thấy trong tác phẩm này, mà từ đó Tolkien có thể là tài liệu được rút ra cho [huyền thoại](../L/Legendarium.md) của ông, đáng được lưu ý:

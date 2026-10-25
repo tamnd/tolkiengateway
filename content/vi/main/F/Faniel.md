@@ -54,7 +54,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Faniel được sinh ra vào [Buổi trưa của Valinor](../N/Noontide_of_Valinor.md), có lẽ là vào [Tirion](../T/Tirion.md). Bà đã không rời đi [Valinor](../V/Valinor.md) trong chuyến [Chuyến bay của Noldor](Flight_of_the_Noldor.md),<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> thay vào đó là ở [Aman](../A/Aman.md).
+Faniel được sinh ra vào [Buổi trưa của Valinor](../N/Noontide_of_Valinor.md), có lẽ là vào [Tirion](../T/Tirion.md). Bà đã không rời đi [Valinor](../V/Valinor.md) trong chuyến [Cuộc Di Tản của người Noldor](Flight_of_the_Noldor.md),<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> thay vào đó là ở [Aman](../A/Aman.md).
 
 ## Từ nguyên {#Etymology}
 

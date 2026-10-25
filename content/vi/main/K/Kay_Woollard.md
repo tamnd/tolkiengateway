@@ -54,7 +54,7 @@ Luôn say mê với trò chơi của ánh sáng, phản xạ, khúc xạ hoặc 
 
 Một sở thích khác của Kay là việc thể hiện vải. Trong suốt cuộc đời của mình, bà đã tạo ra những bức vẽ đáng chú ý về quần áo và trang phục, ban đầu dành cho các tạp chí thời trang và may đo, sau đó là cho các nhân vật của chính bà. Cô dạy mỹ thuật và vẽ minh họa cho một số cuốn sách *A&amp;C Black Publishers*.
 
-Vào cuối Thế chiến thứ hai, bà được chọn làm việc cho Văn phòng Chiến tranh và đóng góp vào nỗ lực chiến tranh, đặc biệt là cho chiến dịch ở Miến Điện (nay là Myanmar), bằng cách sản xuất bản đồ, bản vẽ và kế hoạch cho Quân đội Anh.
+Vào cuối Thế chiến thứ hai, bà được chọn làm việc cho Bộ Chiến tranh và đóng góp vào nỗ lực chiến tranh, đặc biệt là cho chiến dịch ở Miến Điện (nay là Myanmar), bằng cách sản xuất bản đồ, bản vẽ và kế hoạch cho Quân đội Anh.
 
 <h3><span id="A_daughter.27s_duty"></span><span class="mw-headline" id="A_daughter&#39;s_duty">bổn phận của con gái</span></h3>
 

@@ -83,7 +83,7 @@ categories:
 <p class="tg-quote-footer"><cite><a href="../S/Saruman.md" title="Saruman">Saruman</a><sup id="cite_ref-council_1-0" class="reference"><a href="#cite_note-council-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Thời Trung Cổ** là những thời kỳ nối tiếp [Ngày Người Cao Tuổi](../E/Elder_Days.md) ở [Trung Địa](Middle-earth.md). Với Ngày Cũ là những năm của thế giới trước khi kết thúc [Kỷ Đệ Nhất](../F/First_Age.md),<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Ngày Trung vì thế là [Thứ hai](../S/Second_Age.md) và [Thứ ba](../T/Third_Age.md) Kỷ nguyên của thế giới. Tiếp nối Thời Trung Cổ là [Thời Trẻ](../Y/Younger_Days.md), được đánh dấu bằng [Sự thống trị của Con Người](../D/Dominion_of_Men.md).<sup id="cite_ref-council_1-1" class="reference"><a href="#cite_note-council-1">[1]</a></sup>
+**Thời Trung Cổ** là những thời kỳ nối tiếp [Ngày Người Cao Tuổi](../E/Elder_Days.md) ở [Trung Địa](Middle-earth.md). Với Ngày Cũ là những năm của thế giới trước khi kết thúc [Kỷ Đệ Nhất](../F/First_Age.md),<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Ngày Trung vì thế là [Thứ hai](../S/Second_Age.md) và [Thứ ba](../T/Third_Age.md) Kỷ nguyên của thế giới. Tiếp nối Thời Trung Cổ là [Thời Trẻ](../Y/Younger_Days.md), được đánh dấu bằng [Quyền thống trị của Con Người](../D/Dominion_of_Men.md).<sup id="cite_ref-council_1-1" class="reference"><a href="#cite_note-council-1">[1]</a></sup>
 
 <span></span>
 

@@ -23,7 +23,7 @@ langlinks:
 
 ## Lịch sử {#History}
 
-Truyện được viết bằng [Gondor](../G/Gondor.md) bởi [Barahir](<../B/Barahir_(grandson_of_Faramir).md>), cháu trai của [Thân vương](../P/Prince.md) [Faramir](../F/Faramir.md) của [Ithilien](../I/Ithilien.md). Nó đã được [Findegil](../F/Findegil.md) chèn vào bản sao của [Thain Sách](Thain's_Book.md), nhưng ở dạng rút gọn - các đoạn liên quan đến [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md) đã bị xóa để tránh lặp lại câu chuyện chính của Cuốn sách đó.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Truyện được viết bằng [Gondor](../G/Gondor.md) bởi [Barahir](<../B/Barahir_(grandson_of_Faramir).md>), cháu trai của [Thân vương](../P/Prince.md) [Faramir](../F/Faramir.md) của [Ithilien](../I/Ithilien.md). Nó đã được [Findegil](../F/Findegil.md) chèn vào bản sao của [Sách Thain](Thain's_Book.md), nhưng ở dạng rút gọn - các đoạn liên quan đến [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md) đã bị xóa để tránh lặp lại câu chuyện chính của Cuốn sách đó.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

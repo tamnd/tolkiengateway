@@ -93,7 +93,7 @@ Tựa *The Treason of Isengard* là tựa gốc của Quyển III của *The Lor
 - XIV. "Tạm biệt Lórien"
 - XV. "Bản đồ đầu tiên của The Lord of the Rings"
 - XVI. "Câu chuyện được đoán trước từ Lórien"
-- XVII. “Sông lớn”
+- XVII. “Đại Hà”
 - XVIII. "Sự tan vỡ của tình bạn"
 - XIX. "Sự khởi hành của Boromir"
 - XX. "Những kỵ sĩ của Rohan"
@@ -102,7 +102,7 @@ Tựa *The Treason of Isengard* là tựa gốc của Quyển III của *The Lor
 - XXIII. "Ghi chú về các chủ đề khác nhau"
 - XXIV. "Kỵ Sĩ Trắng"
 - XXV. "Câu chuyện được đoán trước từ Fangorn"
-- XXVI. " Vua của Sảnh Vàng"
+- XXVI. " Vua của Đại Sảnh Vàng"
 
 - Phụ lục về ngọc
 

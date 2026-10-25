@@ -63,7 +63,7 @@ infobox:
 
 Trong quãng đời ngắn ngủi của mình, dân tộc của ông sống tại dãy [Grey Mountains](../G/Grey_Mountains.md), nơi họ bị [Dragons](../D/Dragons.md) đe dọa và [chiến tranh](../W/War_of_the_Dwarves_and_Dragons.md) với chúng. Năm 2589, cả Frór và cha ông đều bị một con [Cold-drake](../C/Cold-drakes.md) khổng lồ giết chết bên ngoài [đại sảnh](../D/Dáin's_Halls~64102.md) của họ.
 
-Anh trai của Frór là [Thrór](../T/Thrór.md) sau đó trở thành [Vua của Dân tộc Durin](../K/Kings_of_Durin's_Folk.md) và dẫn một bộ phận gia tộc mình trở về [Lonely Mountain](../L/Lonely_Mountain.md). Những người còn lại rời đi đã tiến về phía Đông đến [Iron Hills](../I/Iron_Hills.md) cùng người em út [Grór](../G/Grór.md), người sáng lập [vương quốc](../D/Dwarves_of_the_Iron_Hills.md) riêng của mình.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Anh trai của Frór là [Thrór](../T/Thrór.md) sau đó trở thành [Vua của dân Durin](../K/Kings_of_Durin's_Folk.md) và dẫn một bộ phận gia tộc mình trở về [Lonely Mountain](../L/Lonely_Mountain.md). Những người còn lại rời đi đã tiến về phía Đông đến [Iron Hills](../I/Iron_Hills.md) cùng người em út [Grór](../G/Grór.md), người sáng lập [vương quốc](../D/Dwarves_of_the_Iron_Hills.md) riêng của mình.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

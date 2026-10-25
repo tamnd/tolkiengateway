@@ -26,7 +26,7 @@ langlinks:
     url: "https://kontu.wiki/Alfirin"
 ---
 
-**Alfirin** là tên [Elvish](../E/Elvish.md) của loài hoa [Con Người](../M/Men.md) có tên là [simbelmynë](../S/Simbelmynë.md) (họ cũng dùng tên [uilos](../U/Uilos.md) cho cùng một loài hoa).<sup id="cite_ref-Note38_1-0" class="reference"><a href="#cite_note-Note38-1">[1]</a></sup> Cái tên này xuất phát từ thói quen mọc dày đặc trên các ngôi mộ của [Con Người](../M/Men.md): nó được tìm thấy giữa các gò đất của các vị Vua ở [Barrowfield](../B/Barrowfield.md) của [Edoras](../E/Edoras.md), và cả trên [Ngôi mộ của Elendil](../T/Tomb_of_Elendil.md). Tolkien đã đưa ra mô tả về "một loại hoa bất tử, nhưng không khô và mỏng như giấy: chỉ đơn giản là một bông hoa hình chuông xinh đẹp, có nhiều màu sắc nhưng mềm mại và dịu dàng."<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Giống màu trắng dường như phổ biến nhất.
+**Alfirin** là tên [Elvish](../E/Elvish.md) của loài hoa [Con Người](../M/Men.md) có tên là [simbelmynë](../S/Simbelmynë.md) (họ cũng dùng tên [uilos](../U/Uilos.md) cho cùng một loài hoa).<sup id="cite_ref-Note38_1-0" class="reference"><a href="#cite_note-Note38-1">[1]</a></sup> Cái tên này xuất phát từ thói quen mọc dày đặc trên các ngôi mộ của [Con Người](../M/Men.md): nó được tìm thấy giữa các gò đất của các vị Vua ở [Barrowfield](../B/Barrowfield.md) của [Edoras](../E/Edoras.md), và cả trên [Mộ Elendil](../T/Tomb_of_Elendil.md). Tolkien đã đưa ra mô tả về "một loại hoa bất tử, nhưng không khô và mỏng như giấy: chỉ đơn giản là một bông hoa hình chuông xinh đẹp, có nhiều màu sắc nhưng mềm mại và dịu dàng."<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Giống màu trắng dường như phổ biến nhất.
 
 ## Từ nguyên {#Etymology}
 

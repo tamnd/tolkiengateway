@@ -66,7 +66,7 @@ Sự kiện xảy ra vào ngày 11 tháng Chín.
 - **[1951](1951.md)** - Ngày thứ hai của Congrès Internationale de Philologie Moderne tại <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Li%C3%A8ge" title="wikipedia:University of Liège">Đại học Liège</a>, một hội nghị trong đó [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) trình bày bài báo "[tiếng Anh trung cổ 'Losenger'](../M/Middle_English_'Losenger'.md)".
 - **[1955](1955.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 169](../L/Letter_169.md).
 - **[1957](1957.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 202](../L/Letter_202.md).
-- **[1957](1957.md)** - Báo cáo [*Oxford Mail*](../O/Oxford_Mail,_11_September_1957.md) từ Giải thưởng Giả tưởng Quốc tế, do Tolkien giành được.
+- **[1957](1957.md)** - Báo cáo [*Oxford Mail*](../O/Oxford_Mail,_11_September_1957.md) từ Giải thưởng Kỳ ảo Quốc tế, do Tolkien giành được.
 - **[1959](1959.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 217](../L/Letter_217.md).
 - **[1964](1964.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 264](../L/Letter_264.md).
 - **[1967](1967.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 298](../L/Letter_298.md).

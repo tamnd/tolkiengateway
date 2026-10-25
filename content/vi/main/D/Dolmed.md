@@ -64,7 +64,7 @@ Núi Dolmed sừng sững bên trên con đèo duy nhất được biết đến
 
 Hai thành phố được lập ở sườn phía đông của ngọn núi. Hơi chếch về phía đông bắc của Dolmed là Belegost, còn hơi chếch về phía đông nam là Nogrod.
 
-Vào [N.C.](../Y/Years_of_the_Trees.md) [1497](../Y/Year_of_the_Trees_1497.md), [Trận chiến Thứ nhất của Beleriand](../F/First_Battle_of_Beleriand.md) diễn ra giữa các [Tiên](../E/Elves.md) và lực lượng của [Morgoth](../M/Morgoth.md). Cuối cùng, các Tiên đã chiến thắng, còn những [Orc](../O/Orcs.md) sống sót chạy trốn về phía đông, hướng tới Ered Luin. Tại đó, chúng bị Người Lùn đón đánh và tiêu diệt hoàn toàn.
+Vào [N.C.](../Y/Years_of_the_Trees.md) [1497](../Y/Year_of_the_Trees_1497.md), [Trận chiến thứ nhất ở Beleriand](../F/First_Battle_of_Beleriand.md) diễn ra giữa các [Tiên](../E/Elves.md) và lực lượng của [Morgoth](../M/Morgoth.md). Cuối cùng, các Tiên đã chiến thắng, còn những [Orc](../O/Orcs.md) sống sót chạy trốn về phía đông, hướng tới Ered Luin. Tại đó, chúng bị Người Lùn đón đánh và tiêu diệt hoàn toàn.
 
 Gần năm trăm năm sau, [trận chiến ở Nghìn Hang động](../B/Battle_in_the_Thousand_Caves.md) diễn ra giữa [các Tiên của Doriath](../E/Elves_of_Doriath.md) và [những Người Lùn của Nogrod](Dwarves_of_Nogrod.md). Vào [K.N.](../F/First_Age.md) [503](../F/First_Age_503.md), sau khi trở về từ chiến thắng tại [Menegroth](../M/Menegroth.md), những Người Lùn bị [phục kích](../B/Battle_of_Sarn_Athrad.md) và tàn sát tại [Sarn Athrad](../S/Sarn_Athrad.md). Sau trận chiến, những Người Lùn sống sót trèo lên các sườn Núi Dolmed, rồi bị [Ent](../E/Ents.md) chặn đánh và giết chết.
 

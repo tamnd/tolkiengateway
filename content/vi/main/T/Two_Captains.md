@@ -21,13 +21,13 @@ images:
 <p class="tg-quote-footer"><cite><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a></cite></p>
 </blockquote></div></div>
 
-**Hai thuyền trưởng** là danh hiệu được áp dụng cho cả [Beleg](../B/Beleg.md) và [Túrin](Túrin.md), trong thời gian họ thành lập vùng đất [Dor-Cúarthol](../D/Dor-Cúarthol.md) để kháng chiến [Morgoth](../M/Morgoth.md) ở [Angband](../A/Angband.md).<sup id="cite_ref-Captains_1-0" class="reference"><a href="#cite_note-Captains-1">[1]</a></sup>
+**Hai vị Thủ lĩnh** là danh hiệu được áp dụng cho cả [Beleg](../B/Beleg.md) và [Túrin](Túrin.md), trong thời gian họ thành lập vùng đất [Dor-Cúarthol](../D/Dor-Cúarthol.md) để kháng chiến [Morgoth](../M/Morgoth.md) ở [Angband](../A/Angband.md).<sup id="cite_ref-Captains_1-0" class="reference"><a href="#cite_note-Captains-1">[1]</a></sup>
 
 ## Lịch sử {#History}
 
 Hai Đội trưởng là hai người bảo vệ [Dor-Cúarthol](../D/Dor-Cúarthol.md) và là thủ lĩnh của [Đại đội Cũ](../G/Gaurwaith.md). Danh hiệu này lần đầu tiên được trao cho cả [Beleg](../B/Beleg.md) và [Túrin](Túrin.md) bởi [Tiên tộc](../E/Elves.md) và [Con Người](../M/Men.md) không có thủ lĩnh, những người sau khi nhận thấy mình bị thất bại trong các trận chiến và thất bại đã đến [Dor-Cúarthol](../D/Dor-Cúarthol.md) tìm kiếm Cung và Helm được cho là đã ngã xuống trong nhiều trận chiến trong [Dimbar](../D/Dimbar.md).<sup id="cite_ref-Captains_1-1" class="reference"><a href="#cite_note-Captains-1">[1]</a></sup>
 
-Sau khi lực lượng đi theo của Hai Đội trưởng đã trở thành một lực lượng lớn, tin đồn đã lan tới [Nargothrond](../N/Nargothrond.md) về sự thành công của họ trong việc cản trở và chống lại lực lượng của Angband. Đến mức chính [Vua của Nargothrond](../K/King_of_Nargothrond.md), [Orodreth](../O/Orodreth.md), đã cử sứ giả đến Hai Thuyền trưởng, đề nghị trợ giúp bất kỳ vấn đề nào mà họ cần ngoài vũ khí. Tuy nhiên, bất chấp điều này, ông không chỉ cấm Hai Thuyền trưởng đặt chân đến Nargothrond mà còn buộc họ không được lái xe [Orc](../O/Orcs.md) để làm như vậy.<sup id="cite_ref-Captains_1-2" class="reference"><a href="#cite_note-Captains-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 1]</a></sup>
+Sau khi lực lượng đi theo của Hai Đội trưởng đã trở thành một lực lượng lớn, tin đồn đã lan tới [Nargothrond](../N/Nargothrond.md) về sự thành công của họ trong việc cản trở và chống lại lực lượng của Angband. Đến mức chính [Vua của Nargothrond](../K/King_of_Nargothrond.md), [Orodreth](../O/Orodreth.md), đã cử sứ giả đến Hai vị Thủ lĩnh, đề nghị trợ giúp bất kỳ vấn đề nào mà họ cần ngoài vũ khí. Tuy nhiên, bất chấp điều này, ông không chỉ cấm Hai vị Thủ lĩnh đặt chân đến Nargothrond mà còn buộc họ không được lái xe [Orc](../O/Orcs.md) để làm như vậy.<sup id="cite_ref-Captains_1-2" class="reference"><a href="#cite_note-Captains-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 1]</a></sup>
 
 ## Ghi chú {#Notes}
 

@@ -42,7 +42,7 @@ infobox:
 
 ## Văn bản bìa/áo khoác {#Cover/Jacket_text}
 
-Tòa thành bao bọc Weathertop (S. Amon Sûl) là pháo đài tháp vĩ đại nhất ở Arnor và là tâm điểm của phần lớn cuộc đấu tranh giữa ba vương quốc kế thừa của Arnor: Arthedain, Cardolan và Rhudaur. Được xây dựng bởi những người lưu vong Númenórean trung thành do Elendil Tall lãnh đạo vào cuối Kỷ Đệ Nhị. nó mọc lên từ trung tâm Vương quốc phía Bắc của Dúnedain. Tháp hoàng gia là nơi ở của Thủ lĩnh Palantîr (Tia nhìn thấy) của phương Bắc và đóng vai trò là ngôi nhà chính của High Seer của Arnor. Rất ít pháo đài có ý nghĩa như vậy; về quy mô và sức mạnh của nó, Amon Sûl vượt trội hơn bất kỳ công trình nào khác của miền bắc Dúnedain. Ngay cả Vua Phù thủy của Angmar cũng coi Tháp Amon Sûl như một giải thưởng lớn, một biểu tượng ưu việt của tinh thần Dúnedain.
+Tòa thành bao bọc Weathertop (S. Amon Sûl) là pháo đài tháp vĩ đại nhất ở Arnor và là tâm điểm của phần lớn cuộc đấu tranh giữa ba vương quốc kế thừa của Arnor: Arthedain, Cardolan và Rhudaur. Được xây dựng bởi những người lưu vong Númenórean trung thành do Elendil Tall lãnh đạo vào cuối Kỷ Đệ Nhị. nó mọc lên từ trung tâm Vương quốc phía Bắc của Dúnedain. Tháp hoàng gia là nơi ở của Thủ lĩnh Palantîr (Tia nhìn thấy) của phương Bắc và đóng vai trò là ngôi nhà chính của High Seer của Arnor. Rất ít pháo đài có ý nghĩa như vậy; về quy mô và sức mạnh của nó, Amon Sûl vượt trội hơn bất kỳ công trình nào khác của miền bắc Dúnedain. Ngay cả Vua Phù thủy Angmar cũng coi Tháp Amon Sûl như một giải thưởng lớn, một biểu tượng ưu việt của tinh thần Dúnedain.
 
 Tính năng THỜI TIẾT:
 

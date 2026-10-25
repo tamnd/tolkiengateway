@@ -58,7 +58,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-[Các vị vua của Gondor](../K/Kings_of_Gondor.md) đã xây dựng [Cầu thang phía Bắc](../N/North_Stair.md), một lối đi vòng qua Thác.
+[Các Vua Gondor](../K/Kings_of_Gondor.md) đã xây dựng [Cầu thang phía Bắc](../N/North_Stair.md), một lối đi vòng qua Thác.
 
 <figure class="mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Ted_Nasmith_-_At_the_Falls.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/90/Ted_Nasmith_-_At_the_Falls.jpg/200px-Ted_Nasmith_-_At_the_Falls.jpg" decoding="async" loading="lazy" width="200" height="155" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/90/Ted_Nasmith_-_At_the_Falls.jpg/300px-Ted_Nasmith_-_At_the_Falls.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/9/90/Ted_Nasmith_-_At_the_Falls.jpg/400px-Ted_Nasmith_-_At_the_Falls.jpg 2x" data-file-width="1600" data-file-height="1242"/></a><figcaption>&#34;At the Falls&#34; by <a href="../T/Ted_Nasmith.md" title="Ted Nasmith">Ted Nasmith</a></figcaption></figure>
 

@@ -24,7 +24,7 @@ Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 ## Lưu ý {#Note}
 
-*[Note on the Shire Records](../N/Note_on_the_Shire_Records.md)* ghi ngày này là "F.A. 17**2**" và "IV 17**2**," nhưng cũng nêu [Shire Tính toán](../S/Shire_Reckoning.md) tương đương với S.R. 1592. Vì S.R. 1592 tương đương với Kỷ Đệ Tứ 171 theo Shire Tính toán, năm số 172 phải tham khảo [Tính toán mới](../N/New_Reckoning.md) của Gondor. Số năm tính toán mới trong Kỷ Đệ Tứ [trước số Shire](Fourth_Age.md#Reckoning_of_years) một cho tất cả các ngày trong năm từ ngày 25 [tháng 3](../M/March.md) đến ngày 1 [Yule](../Y/Yule.md) (những ngày này được đặt tên lần lượt là [Yestarë](../Y/Yestarë.md) và 6 [Narvinyë](../N/Narvinyë.md) trong Tính toán mới). <span></span>
+*[Note on the Shire Records](../N/Note_on_the_Shire_Records.md)* ghi ngày này là "F.A. 17**2**" và "IV 17**2**," nhưng cũng nêu [Lịch Shire](../S/Shire_Reckoning.md) tương đương với S.R. 1592. Vì S.R. 1592 tương đương với Kỷ Đệ Tứ 171 theo Lịch Shire, năm số 172 phải tham khảo [Tính toán mới](../N/New_Reckoning.md) của Gondor. Số năm tính toán mới trong Kỷ Đệ Tứ [trước số Shire](Fourth_Age.md#Reckoning_of_years) một cho tất cả các ngày trong năm từ ngày 25 [tháng 3](../M/March.md) đến ngày 1 [Yule](../Y/Yule.md) (những ngày này được đặt tên lần lượt là [Yestarë](../Y/Yestarë.md) và 6 [Narvinyë](../N/Narvinyë.md) trong Tính toán mới). <span></span>
 
 ## Tài liệu tham khảo {#References}
 

@@ -85,9 +85,9 @@ Khi Ulmo đưa hòn đảo nổi cùng với [Olwë](Olwë.md) và Lindar của 
 
 Cùng với chủ nhân của mình, Ossë thường đến thăm [Nevrast](../N/Nevrast.md) và chân núi [Taras](../T/Taras.md) ở [Trung Địa](../M/Middle-earth.md), và nhiều [Sindar](../S/Sindar.md) đã tập trung đến nơi đó.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
-Sau [Cuộc tàn sát người thân đầu tiên](../F/First_Kinslaying.md), [Olwë](Olwë.md) đã kêu gọi Ossë chống lại [Noldor](../N/Noldor.md), nhưng ông đã không đến, vì Valar không muốn cản trở [Chuyến bay của Noldor](../F/Flight_of_the_Noldor.md) bằng bạo lực.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Sau [Cuộc tàn sát người thân đầu tiên](../F/First_Kinslaying.md), [Olwë](Olwë.md) đã kêu gọi Ossë chống lại [Noldor](../N/Noldor.md), nhưng ông đã không đến, vì Valar không muốn cản trở [Cuộc Di Tản của người Noldor](../F/Flight_of_the_Noldor.md) bằng bạo lực.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
-Sau khi [Valar](../V/Valar.md) tuyên bố [Sự diệt vong của Noldor](../D/Doom_of_the_Noldor~13942.md), Ossë đã giúp bảo vệ bờ biển của [Beleriand](../B/Beleriand.md) để ngăn các tàu của Noldor tiếp cận [Valinor](../V/Valinor.md). Những cơn bão của ông đã góp phần đánh đắm tất cả các con tàu mà họ gửi đến, và chỉ có một chiếc [Tiên](../E/Elves.md) trong số thủy thủ đoàn của họ sống sót, theo ý nguyện của Ulmo: [Voronwë](../V/Voronwë.md).<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Sau khi [Valar](../V/Valar.md) tuyên bố [Tai họa của Noldor](../D/Doom_of_the_Noldor~13942.md), Ossë đã giúp bảo vệ bờ biển của [Beleriand](../B/Beleriand.md) để ngăn các tàu của Noldor tiếp cận [Valinor](../V/Valinor.md). Những cơn bão của ông đã góp phần đánh đắm tất cả các con tàu mà họ gửi đến, và chỉ có một chiếc [Tiên](../E/Elves.md) trong số thủy thủ đoàn của họ sống sót, theo ý nguyện của Ulmo: [Voronwë](../V/Voronwë.md).<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 Trong [Kỷ Đệ Nhị](../S/Second_Age.md) ông đã nâng hòn đảo [Elenna](../E/Elenna.md) ([Númenor](../N/Númenor.md)) từ độ sâu của Biển.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
@@ -114,7 +114,7 @@ Theo quan niệm đó, Ossë là nguồn gốc của tên *Balar* trong các đ�
 
 Ossë có một ngôi nhà lớn ở [Valmar](../V/Valmar.md) được làm bởi [Ónen](../_/Ónen.md) và [Oarni](Oarni.md) từ ngọc trai với bột mì từ nước biển và mái nhà bằng xốp. Ông sống ở đó trong các hội thánh Valar hoặc khi tiếng ồn của biển làm ông mệt mỏi.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> Trong *[The Tale of the Sun and Moon](../T/The_Tale_of_the_Sun_and_Moon.md)*, người ta đề cập rằng Ossë có mái tóc màu xanh lá cây và bộ râu của ông bị rách.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup>
 
-*Ossë* cũng là tên của một [Tengwa](../T/Tengwa.md) tương tự như chữ c trong tiếng La Mã, dường như có giá trị *o*.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> Tuy nhiên, ở những nơi khác, chữ cái này được đặt tên là *[Elwë](../E/Elwë.md)* và có giá trị *e*. Trong [Chế độ của Beleriand](../M/Mode_of_Beleriand.md) thay vào đó, chữ cái này có giá trị *a*.
+*Ossë* cũng là tên của một [Tengwa](../T/Tengwa.md) tương tự như chữ c trong tiếng La Mã, dường như có giá trị *o*.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> Tuy nhiên, ở những nơi khác, chữ cái này được đặt tên là *[Elwë](../E/Elwë.md)* và có giá trị *e*. Trong [Kiểu Beleriand](../M/Mode_of_Beleriand.md) thay vào đó, chữ cái này có giá trị *a*.
 
 Tên của ông *Falman* từ gốc FALA (ví dụ: *falma* "bọt") xuất hiện trong *[The Book of Lost Tales Part One](../T/The_Book_of_Lost_Tales_Part_One.md)*.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup>
 

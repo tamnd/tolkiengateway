@@ -142,7 +142,7 @@ Bài viết này nhằm mục đích liệt kê những sự kiện chính trong
 ## [1972](../_/1972.md) {#1972}
 
 - Tolkien được phong làm Tư lệnh của [Huân chương Đế quốc Anh](../O/Order_of_the_British_Empire.md)
-- Tolkien nhận bằng Tiến sĩ Văn học danh dự của Đại học Oxford.
+- Tolkien nhận Bằng Tiến sĩ Danh dự về Văn chương của Đại học Oxford.
 
 ## [1973](../_/1973.md) {#1973}
 

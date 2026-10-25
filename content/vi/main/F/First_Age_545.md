@@ -20,7 +20,7 @@ sort_keys:
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- [Cuộc chiến phẫn nộ](../W/War_of_Wrath.md) - [Chủ nhà của Valar](../H/Host_of_the_Valar.md), dẫn đầu bởi [Eönwë](../E/Eönwë.md), tiếp cận [Beleriand](../B/Beleriand.md) trên những con tàu do [Teleri](../T/Teleri.md) chế tạo. Trận chiến vĩ đại chống lại [Morgoth](../M/Morgoth.md) bắt đầu.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- [Cuộc chiến phẫn nộ](../W/War_of_Wrath.md) - [Đạo quân Valar](../H/Host_of_the_Valar.md), dẫn đầu bởi [Eönwë](../E/Eönwë.md), tiếp cận [Beleriand](../B/Beleriand.md) trên những con tàu do [Teleri](../T/Teleri.md) chế tạo. Trận chiến vĩ đại chống lại [Morgoth](../M/Morgoth.md) bắt đầu.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 - [Orc](../O/Orcs.md) bị đánh bại và đánh đuổi khỏi [bờ biển](Falas.md) của [Tây Beleriand](../W/West_Beleriand.md) bởi [Vanyar](../V/Vanyar.md), do [Ingwion](../I/Ingwion.md), con trai của Vua [Ingwë](../I/Ingwë.md) chỉ huy, tại [Trận Eglarest](../B/Battle_of_Eglarest.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>

@@ -47,7 +47,7 @@ Phần cực nam của Con đường không rõ ràng,<sup id="cite_ref-General_
 
 ## Từ nguyên {#Etymology}
 
-*Harad* có nghĩa là "phía nam" trong [Sindarin](../S/Sindarin.md),<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[5]</a></sup> nên Harad Đường có nghĩa là "Đường phía Nam".
+*Harad* có nghĩa là "phía nam" trong [Sindarin](../S/Sindarin.md),<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[5]</a></sup> nên Đường Harad có nghĩa là "Đường phía Nam".
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 

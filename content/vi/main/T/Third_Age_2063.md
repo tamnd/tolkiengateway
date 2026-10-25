@@ -22,7 +22,7 @@ Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 - [Gandalf](../G/Gandalf.md) chuyển đến [Dol Guldur](../D/Dol_Guldur.md).<sup id="cite_ref-TA_1-0" class="reference"><a href="#cite_note-TA-1">[1]</a></sup>
 - [Sauron](../S/Sauron.md) rút lui và ẩn náu trong [phương Đông](../E/East.md).<sup id="cite_ref-TA_1-1" class="reference"><a href="#cite_note-TA-1">[1]</a></sup>
-- [Hòa bình thận trọng](../W/Watchful_Peace.md) bắt đầu.<sup id="cite_ref-TA_1-2" class="reference"><a href="#cite_note-TA-1">[1]</a></sup>
+- [Thời kỳ Hòa bình Cảnh giác](../W/Watchful_Peace.md) bắt đầu.<sup id="cite_ref-TA_1-2" class="reference"><a href="#cite_note-TA-1">[1]</a></sup>
 - [Nazgûl](../N/Nazgûl.md) vẫn yên tĩnh trong [Minas Morgul](../M/Minas_Morgul.md).<sup id="cite_ref-TA_1-3" class="reference"><a href="#cite_note-TA-1">[1]</a></sup>
 
 <span></span>

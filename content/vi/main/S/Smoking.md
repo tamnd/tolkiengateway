@@ -25,7 +25,7 @@ images:
 
 **Hút thuốc** là một hoạt động hoặc phong tục được bắt đầu bởi [Hobbit](../H/Hobbits.md) (người gọi nó là một 'nghệ thuật'). Nó bao gồm việc hít khói từ những chiếc lá đang cháy của một loại thảo mộc tên là *[Pipe-weed](../P/Pipe-weed.md)*.
 
-[Hobbit của](../B/Bree-hobbits.md) [Bree](../B/Bree.md) tự nhận là người đầu tiên hút cỏ ống, nhưng người đầu tiên trồng nó là [Tobold Hornbutter](../T/Tobold_Hornblower.md) của [Longbottom](../L/Longbottom.md) của [ Shire](../T/The_Shire.md), vào khoảng năm [S.R.](Shire_Reckoning.md) [1070](../T/Third_Age_2670.md). Hút thuốc đã lan rộng từ Hobbit đến [Người Lùn](../D/Dwarves.md), [Rangers](../R/Rangers_of_the_North.md) và [Pháp sư](../W/Wizards.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+[Hobbit của](../B/Bree-hobbits.md) [Bree](../B/Bree.md) tự nhận là người đầu tiên hút Thuốc lá, nhưng người đầu tiên trồng nó là [Tobold Hornbutter](../T/Tobold_Hornblower.md) của [Longbottom](../L/Longbottom.md) của [ Shire](../T/The_Shire.md), vào khoảng năm [S.R.](Shire_Reckoning.md) [1070](../T/Third_Age_2670.md). Hút thuốc đã lan rộng từ Hobbit đến [Người Lùn](../D/Dwarves.md), [Rangers](../R/Rangers_of_the_North.md) và [Pháp sư](../W/Wizards.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Cảm hứng {#Inspiration}
 

@@ -45,7 +45,7 @@ infobox:
 
 **Elostirion** là tòa tháp cao nhất và ở cực tây trong ba [Tháp Trắng](../W/White_Towers.md) đứng trên [Đồi Tháp](../T/Tower_Hills.md), được xây dựng bởi [Gil-galad](../G/Gil-galad.md) với giá [Elendil](Elendil.md). Nó đứng lẻ loi trên một gò đất xanh.<sup id="cite_ref-concerning_1-0" class="reference"><a href="#cite_note-concerning-1">[1]</a></sup>
 
-Nó nắm giữ [một](Elostirion-stone.md) trong số *[palantíri](../P/Palantíri.md)* của [Arnor](../A/Arnor.md), không liên lạc với phần còn lại mà chỉ nhìn về phía tây qua Biển Sundering tới [Tol Eressëa](../T/Tol_Eressëa.md). Đó là viên đá cuối cùng của Arnor cho đến khi nó bị loại bỏ ở cuối [Kỷ Đệ Tam](../T/Third_Age.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Nó nắm giữ [một](Elostirion-stone.md) trong số *[palantíri](../P/Palantíri.md)* của [Arnor](../A/Arnor.md), không liên lạc với phần còn lại mà chỉ nhìn về phía tây qua Biển Phân Chia tới [Tol Eressëa](../T/Tol_Eressëa.md). Đó là viên đá cuối cùng của Arnor cho đến khi nó bị loại bỏ ở cuối [Kỷ Đệ Tam](../T/Third_Age.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 Mặc dù không có [Hobbit](../H/Hobbit.md) nào được biết là từng leo lên nó, nhưng những người ở [Westfarthing](../W/Westfarthing.md) có truyền thống rằng từ đỉnh của nó người ta có thể nhìn thấy xa tới tận [ Biển](../T/The_Sea.md),<sup id="cite_ref-concerning_1-1" class="reference"><a href="#cite_note-concerning-1">[1]</a></sup> có lẽ giống với kiến ​​thức của palantír ở đó.
 

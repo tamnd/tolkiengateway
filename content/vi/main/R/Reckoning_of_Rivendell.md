@@ -12,7 +12,7 @@ categories:
   - "Calendars"
 ---
 
-**Lịch của Imladris** hoặc **Tính toán của Rivendell** (trong [Sách Đỏ](Red_Book.md)) là lịch [Elvish](../E/Elves.md) và có lẽ là lịch Elvish duy nhất được biết đến bởi [Hobbit](../H/Hobbits.md).
+**Lịch của Imladris** hoặc **Lịch Rivendell** (trong [Sách Đỏ](Red_Book.md)) là lịch [Elvish](../E/Elves.md) và có lẽ là lịch Elvish duy nhất được biết đến bởi [Hobbit](../H/Hobbits.md).
 
 ## Cấu trúc {#Structure}
 
@@ -103,7 +103,7 @@ Tên của sáu mùa và những ngày bổ sung của *coranar* là:
 
 *Quellë* còn được gọi là *[Lasse-lanta](../L/Lasse-lanta.md)* ("lá rơi") hoặc, trong Sindarin, [Narbeleth](../N/Narbeleth.md) ("Mặt Trời-waning").
 
-Một *yén* sẽ quá dài hơn 1 ngày khi so sánh với độ dài 144 <a class="extiw" href="http://en.wikipedia.org/wiki/Tropical_year" title="wikipedia:Tropical year">năm dương lịch</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 3]</a></sup> Có một ghi chú trong [Sách Đỏ](Red_Book.md) về **Tính toán của Rivendell** rằng năm cuối cùng của mỗi phần ba *yén* đã bỏ qua việc nhân đôi *enderi* của nó; nói cách khác, cứ năm thứ 432 chỉ có 3 *enderi* và bỏ đi 3 ngày nhuận trong năm đó (xem: *[haranyë](../H/Haranyë.md)*). Ghi chú cũng đề cập rằng việc bỏ đi 3 ngày nhuận cứ sau 432 năm “không hề xảy ra ở thời đại chúng ta” (thời điểm viết [Sách Đỏ](Red_Book.md)). Bất kỳ phương pháp điều chỉnh nào khác đều chưa được biết.<sup id="cite_ref-D2_4-0" class="reference"><a href="#cite_note-D2-4">[1]</a></sup>
+Một *yén* sẽ quá dài hơn 1 ngày khi so sánh với độ dài 144 <a class="extiw" href="http://en.wikipedia.org/wiki/Tropical_year" title="wikipedia:Tropical year">năm dương lịch</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 3]</a></sup> Có một ghi chú trong [Sách Đỏ](Red_Book.md) về **Lịch Rivendell** rằng năm cuối cùng của mỗi phần ba *yén* đã bỏ qua việc nhân đôi *enderi* của nó; nói cách khác, cứ năm thứ 432 chỉ có 3 *enderi* và bỏ đi 3 ngày nhuận trong năm đó (xem: *[haranyë](../H/Haranyë.md)*). Ghi chú cũng đề cập rằng việc bỏ đi 3 ngày nhuận cứ sau 432 năm “không hề xảy ra ở thời đại chúng ta” (thời điểm viết [Sách Đỏ](Red_Book.md)). Bất kỳ phương pháp điều chỉnh nào khác đều chưa được biết.<sup id="cite_ref-D2_4-0" class="reference"><a href="#cite_note-D2-4">[1]</a></sup>
 
 ## Các ngày trong tuần {#Days_of_the_week}
 
@@ -143,4 +143,4 @@ Mặc dù không nêu rõ lịch Imladris được thành lập khi nào hoặc 
 
 ## Liên kết ngoài {#External_links}
 
-- Dự án <a class="external text" href="http://psarando.github.io/shire-reckoning" rel="noreferrer noopener" target="_blank">Shire Tính toán</a>, dành riêng cho việc mô phỏng và phân tích chi tiết tất cả các lịch của *The Lord of the Rings* [Phụ lục D](../A/Appendix_D.md).
+- Dự án <a class="external text" href="http://psarando.github.io/shire-reckoning" rel="noreferrer noopener" target="_blank">Lịch Shire</a>, dành riêng cho việc mô phỏng và phân tích chi tiết tất cả các lịch của *The Lord of the Rings* [Phụ lục D](../A/Appendix_D.md).

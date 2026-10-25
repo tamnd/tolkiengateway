@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to the War Office"
 ---
 
-Chuyển hướng đến [Thư gửi Văn phòng Chiến tranh](../L/Letter_to_the_War_Office.md).
+Chuyển hướng đến [Thư gửi Bộ Chiến tranh](../L/Letter_to_the_War_Office.md).

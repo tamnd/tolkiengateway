@@ -67,7 +67,7 @@ categories:
 - [Elenor](../E/Elanor_Gardner.md)
 - [Dwalin](../D/Dwalin.md)
 - Trọng Groene ([Greenway](Greenway.md))
-- Haradpad ([Harad Đường](../H/Harad_Road.md))
+- Haradpad ([Đường Harad](../H/Harad_Road.md))
 - [Isildur](../I/Isildur.md)
 - [Lorien](../L/Lothlórien.md)
 - Sam Gewissies ([Sam Gamgee](../S/Samwise_Gamgee.md))

@@ -78,7 +78,7 @@ Unnamed Captain of Morgoth<sup id="cite_ref-UT_3-0" class="reference"><a href="#
 <p class="tg-quote-footer"><cite><i><a href="../Q/Quenta_Silmarillion.md" title="Quenta Silmarillion">Quenta Silmarillion</a></i>, &#34;<a href="../O/Of_the_Fifth_Battle%253A_Nirnaeth_Arnoediad.md" title="Of the Fifth Battle: Nirnaeth Arnoediad">Of the Fifth Battle: Nirnaeth Arnoediad</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Nirnaeth Arnoediad**, còn được gọi là **Trận chiến của những giọt nước mắt không đếm được**, là trận chiến thứ năm trong [Cuộc chiến Beleriand](../W/Wars_of_Beleriand.md) diễn ra giữa lực lượng của [Morgoth](../M/Morgoth.md) và [Liên minh Maedhros](../U/Union_of_Maedhros.md). Tên của nó được lấy từ những từ đầu tiên của [Lời nguyền của Mandos](../D/Doom_of_Mandos.md): *"Tears unnumbered ye shall shed..."*. Trận chiến là một thời điểm then chốt trong cuộc chiến khi cường quốc phía bắc của [Tiên tộc](../E/Elves.md) chịu thương vong nặng nề, cho phép Morgoth thực hiện quyền thống trị của mình đối với [Beleriand](../B/Beleriand.md).
+**Nirnaeth Arnoediad**, còn được gọi là **Trận chiến Nước mắt Vô số**, là trận chiến thứ năm trong [Cuộc chiến Beleriand](../W/Wars_of_Beleriand.md) diễn ra giữa lực lượng của [Morgoth](../M/Morgoth.md) và [Liên minh Maedhros](../U/Union_of_Maedhros.md). Tên của nó được lấy từ những từ đầu tiên của [Lời nguyền của Mandos](../D/Doom_of_Mandos.md): *"Tears unnumbered ye shall shed..."*. Trận chiến là một thời điểm then chốt trong cuộc chiến khi cường quốc phía bắc của [Tiên tộc](../E/Elves.md) chịu thương vong nặng nề, cho phép Morgoth thực hiện quyền thống trị của mình đối với [Beleriand](../B/Beleriand.md).
 
 ## Nền {#Background}
 

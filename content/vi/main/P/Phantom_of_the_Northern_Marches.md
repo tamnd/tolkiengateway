@@ -53,7 +53,7 @@ Một con rồng lửa khổng lồ đã bò ra khỏi bóng tối của phươn
 
 ## Lễ tân {#Reception}
 
-Trong bài đánh giá cho [Rồng Magazine](../D/Dragon_Magazine.md), Ken Rolston đánh giá cao phần bổ sung này vì những cuộc phiêu lưu "thông minh, có động lực tốt, \[và\] được dàn dựng tốt". Ông ca ngợi tác phẩm đã bảo tồn được "phẩm giá và trí thông minh" trong bối cảnh của Tolkien, đồng thời lưu ý rằng các nhân vật phản diện "có sức thuyết phục về mặt tâm lý, chứ không phải là những bức tranh biếm họa về cái ác trong truyện tranh." Mặc dù bài đánh giá chỉ trích bố cục kiểu tham chiếu khô khan và thiếu ghi chú nhập vai cho các nhân vật người chơi được cung cấp, nhưng bài đánh giá kết luận rằng các cuộc phiêu lưu của mô-đun đã tích hợp thành công các yếu tố giả tưởng mà không trở thành "trò chơi ngục tối thông thường".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Trong bài đánh giá cho [Tạp chí Dragon](../D/Dragon_Magazine.md), Ken Rolston đánh giá cao phần bổ sung này vì những cuộc phiêu lưu "thông minh, có động lực tốt, \[và\] được dàn dựng tốt". Ông ca ngợi tác phẩm đã bảo tồn được "phẩm giá và trí thông minh" trong bối cảnh của Tolkien, đồng thời lưu ý rằng các nhân vật phản diện "có sức thuyết phục về mặt tâm lý, chứ không phải là những bức tranh biếm họa về cái ác trong truyện tranh." Mặc dù bài đánh giá chỉ trích bố cục kiểu tham chiếu khô khan và thiếu ghi chú nhập vai cho các nhân vật người chơi được cung cấp, nhưng bài đánh giá kết luận rằng các cuộc phiêu lưu của mô-đun đã tích hợp thành công các yếu tố giả tưởng mà không trở thành "trò chơi ngục tối thông thường".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

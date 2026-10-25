@@ -54,7 +54,7 @@ Vào tháng 5 [2026](../_/2026.md), một hình minh họa về [One Ring](../O/
 
 ### Thẻ cảnh {#Scene_Cards}
 
-Có nhiều phiên bản đặc biệt của nhiều thẻ trong bộ này có hình vẽ từ một khung cảnh lớn hơn nhiều trong đó các nhân vật/vật thể đó xuất hiện, khắc họa những khoảnh khắc cụ thể từ The Hobbit. Ví dụ: cảnh này mô tả lối đi qua [Thị trấn yêu tinh](../G/Goblin-town.md), với tất cả các minh họa của [Ted Nasmith](../T/Ted_Nasmith.md):
+Có nhiều phiên bản đặc biệt của nhiều thẻ trong bộ này có hình vẽ từ một khung cảnh lớn hơn nhiều trong đó các nhân vật/vật thể đó xuất hiện, khắc họa những khoảnh khắc cụ thể từ The Hobbit. Ví dụ: cảnh này mô tả lối đi qua [Thị trấn Goblin](../G/Goblin-town.md), với tất cả các minh họa của [Ted Nasmith](../T/Ted_Nasmith.md):
 
 <ul class="gallery mw-gallery-packed">
 		<li class="gallerybox" style="width: 230.66666666667px">

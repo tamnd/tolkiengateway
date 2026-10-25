@@ -62,7 +62,7 @@ infobox:
 
 Liên minh tiến vào vùng đồng bằng rộng lớn gần [Cổng Đen](Black_Gate.md), nơi họ được gia nhập bởi lực lượng của Anárion từ phía nam, và cuối cùng đối đầu với những quân đoàn đen của Mordor.
 
-Tiên tộc Silvan không mấy thiện cảm với [Sindar](../S/Sindar.md) và [Noldor](../N/Noldor.md), những tộc được Gil-galad lãnh đạo. Vì vậy, họ không sẵn lòng đặt mình dưới quyền chỉ huy tối cao của [Đại Vương của Noldor](../H/High_King_of_the_Noldor.md).
+Tiên tộc Silvan không mấy thiện cảm với [Sindar](../S/Sindar.md) và [Noldor](../N/Noldor.md), những tộc được Gil-galad lãnh đạo. Vì vậy, họ không sẵn lòng đặt mình dưới quyền chỉ huy tối cao của [Đại Vương Noldor](../H/High_King_of_the_Noldor.md).
 
 ### Trận chiến {#Battle}
 

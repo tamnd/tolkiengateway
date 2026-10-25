@@ -25,11 +25,11 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/E/Eric_Fraser_-_Durin&#39;s_Day.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/9d/Eric_Fraser_-_Durin%27s_Day.jpg/300px-Eric_Fraser_-_Durin%27s_Day.jpg" decoding="async" loading="lazy" width="300" height="224" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/9/9d/Eric_Fraser_-_Durin%27s_Day.jpg 1.5x" data-file-width="400" data-file-height="298"/></a><figcaption><a href="../E/Eric_Fraser.md" title="Eric Fraser">Eric Fraser</a> - <i>Durin&#39;s Day</i></figcaption></figure>
 
-**Ngày của Durin** là một hiện tượng hiếm gặp được ghi nhận bởi [Người Lùn](Dwarves.md).
+**Ngày Durin** là một hiện tượng hiếm gặp được ghi nhận bởi [Người Lùn](Dwarves.md).
 
-Năm mới trong lịch của họ là chu kỳ cuối cùng của [Mặt Trăng](../M/Moon.md) bắt đầu vào mùa thu, hay theo lời của [Thorin](../T/Thorin.md), là “ngày đầu tiên của kỳ trăng cuối cùng của mùa Thu, khi mùa Đông đang cận kề”.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Khi vào ngày này, cả [Mặt Trời](../S/Sun.md) và Mặt Trăng đều có thể được nhìn thấy cùng lúc trên bầu trời, ngày đó được gọi là **Ngày của Durin**.
+Năm mới trong lịch của họ là chu kỳ cuối cùng của [Mặt Trăng](../M/Moon.md) bắt đầu vào mùa thu, hay theo lời của [Thorin](../T/Thorin.md), là “ngày đầu tiên của kỳ trăng cuối cùng của mùa Thu, khi mùa Đông đang cận kề”.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Khi vào ngày này, cả [Mặt Trời](../S/Sun.md) và Mặt Trăng đều có thể được nhìn thấy cùng lúc trên bầu trời, ngày đó được gọi là **Ngày Durin**.
 
-Các [chữ Mặt Trăng](../M/Moon-letters.md) được viết trên [Bản đồ của Thrór](../T/Thrór's_Map.md) tiên đoán rằng vào Ngày của Durin, ánh sáng cuối cùng của Mặt Trời khi đêm buông xuống sẽ hé lộ [cánh cửa bí mật](../B/Back_Door.md) dẫn vào [Ngọn Núi Cô Đơn](../L/Lonely_Mountain.md).
+Các [chữ Mặt Trăng](../M/Moon-letters.md) được viết trên [Bản đồ của Thrór](../T/Thrór's_Map.md) tiên đoán rằng vào Ngày Durin, ánh sáng cuối cùng của Mặt Trời khi đêm buông xuống sẽ hé lộ [cánh cửa bí mật](../B/Back_Door.md) dẫn vào [Ngọn Núi Cô Đơn](../L/Lonely_Mountain.md).
 
 ## Tính toán {#Calculation}
 

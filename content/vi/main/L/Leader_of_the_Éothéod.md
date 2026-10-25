@@ -48,7 +48,7 @@ infobox:
 
 Trong trận chiến, anh đã cưỡi ngựa đến giải cứu một nhóm Éothéod khi họ rút lui về phía [Đầm lầy Chết](../D/Dead_Marshes.md). Khi một người lính chết trong vòng tay của mình, ông đã khám xét thi thể và tìm thấy một số vật chứng xác định người lính đã chết là [Faramir](<../F/Faramir_(son_of_Ondoher).md>), Thân vương của Gondor.<sup id="cite_ref-Leader_2-2" class="reference"><a href="#cite_note-Leader-2">[1]</a></sup>
 
-Người đứng đầu gia nhập [Minohtar](../M/Minohtar.md) ở đầu [Đường phía Bắc](../N/North_Road.md) ở [Bắc Ithilien](../N/North_Ithilien.md). Khi Minohtar ra lệnh chuyển một thông điệp đến hoàng tử mà ông tin là ở [Minas Tirith](../M/Minas_Tirith.md), thủ lĩnh của Éothéod đã tiết lộ với ông rằng hoàng tử đã cải trang tham gia trận chiến và bị giết.<sup id="cite_ref-Leader_2-3" class="reference"><a href="#cite_note-Leader-2">[1]</a></sup>
+Người đứng đầu gia nhập [Minohtar](../M/Minohtar.md) ở đầu [Đường Bắc](../N/North_Road.md) ở [Bắc Ithilien](../N/North_Ithilien.md). Khi Minohtar ra lệnh chuyển một thông điệp đến hoàng tử mà ông tin là ở [Minas Tirith](../M/Minas_Tirith.md), thủ lĩnh của Éothéod đã tiết lộ với ông rằng hoàng tử đã cải trang tham gia trận chiến và bị giết.<sup id="cite_ref-Leader_2-3" class="reference"><a href="#cite_note-Leader-2">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

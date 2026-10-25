@@ -34,7 +34,7 @@ infobox:
 <p class="tg-quote-footer"><cite><a href="../P/Phantoms.md" title="Phantoms">Bóng ma</a> của Eilinel trong <i><a href="../T/The_Lay_of_Leithian_Recommenced.md" title="The Lay of Leithian Recommenced">The Lay of Leithian Recommenced</a></i>, dòng 244-8</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Eilinel** là vợ của [Gorlim Kẻ Bất Hạnh](../G/Gorlim.md).
+**Eilinel** là vợ của [Gorlim Bất Hạnh](../G/Gorlim.md).
 
 ## Lịch sử {#History}
 

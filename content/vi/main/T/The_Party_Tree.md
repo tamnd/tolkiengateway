@@ -38,21 +38,21 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/I/Inger_Edelfeldt_-_A_Long_Expected_Party.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/8/81/Inger_Edelfeldt_-_A_Long_Expected_Party.jpg/304px-Inger_Edelfeldt_-_A_Long_Expected_Party.jpg" decoding="async" loading="lazy" width="304" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/81/Inger_Edelfeldt_-_A_Long_Expected_Party.jpg/456px-Inger_Edelfeldt_-_A_Long_Expected_Party.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/8/81/Inger_Edelfeldt_-_A_Long_Expected_Party.jpg/608px-Inger_Edelfeldt_-_A_Long_Expected_Party.jpg 2x" data-file-width="899" data-file-height="1418"/></a><figcaption>&#34;A Long Expected Party&#34; by <a href="../I/Inger_Edelfeldt.md" title="Inger Edelfeldt">Inger Edelfeldt</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Thực vật</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Party Tree</span></th></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data"><a href="../P/Party_Field.md" title="Party Field">Party Field</a> (<a href="The_Shire.md" title="The Shire">The Shire</a>)</td></tr></tbody></table>
 
-**Cây tiệc tùng** là một cái cây ở trung tâm [Party Field](../P/Party_Field.md) phía nam của [Bag End](../B/Bag_End.md).
+**Cây Hội Tiệc** là một cái cây ở trung tâm [Party Field](../P/Party_Field.md) phía nam của [Bag End](../B/Bag_End.md).
 
 ## Lịch sử {#History}
 
-Khi chuẩn bị [Tiệc chia tay của Bilbo](../B/Bilbo's_Farewell_Party.md), một gian hàng đã được dựng lên đủ rộng để chứa nó và nó đứng ở đầu bàn chính trong lễ kỷ niệm với những chiếc đèn lồng treo trên cành. Bilbo đứng dưới Cây Đảng khi tuyên bố sẽ rời [ Shire](The_Shire.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Khi chuẩn bị [Tiệc chia tay của Bilbo](../B/Bilbo's_Farewell_Party.md), một gian hàng đã được dựng lên đủ rộng để chứa nó và nó đứng ở đầu bàn chính trong lễ kỷ niệm với những chiếc đèn lồng treo trên cành. Bilbo đứng dưới Cây Hội Tiệc khi tuyên bố sẽ rời [ Shire](The_Shire.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Đến tháng 11 năm [3019](Third_Age_3019.md) Cây Đảng đã bị [Sharkey](../S/Sharkey.md) và người của ông chặt hạ và nằm trên sân.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Sau khi [Càn quét Shire](../B/Battle_of_Bywater.md), Sam đã trồng hạt bạc từ [hộp gỗ](../S/Sam's_garden_box.md) được [Galadriel](../G/Galadriel.md) tặng cho ông. Mùa xuân năm [3020](Third_Age_3020.md), cây [cây cẩm chướng](../M/Mallorn.md) nảy mầm; [Cây Vàng](../G/Golden_Tree.md) là cây mallorn duy nhất nằm giữa [ngọn núi](../M/Misty_Mountains.md) và [Biển](../B/Belegaer.md), và mọi người từ nhiều dặm xung quanh đã đến để ngắm nhìn nó.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Người [Hobbit](../H/Hobbits.md) vùng đó tổ chức các ngày lễ và lễ kỷ niệm xung quanh cây Mallorn.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Đến tháng 11 năm [3019](Third_Age_3019.md) Cây Hội Tiệc đã bị [Sharkey](../S/Sharkey.md) và người của ông chặt hạ và nằm trên sân.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Sau khi [Càn Cuộc thanh trừng Shire](../B/Battle_of_Bywater.md), Sam đã trồng hạt bạc từ [hộp gỗ](../S/Sam's_garden_box.md) được [Galadriel](../G/Galadriel.md) tặng cho ông. Mùa xuân năm [3020](Third_Age_3020.md), cây [cây cẩm chướng](../M/Mallorn.md) nảy mầm; [Cây Vàng](../G/Golden_Tree.md) là cây mallorn duy nhất nằm giữa [ngọn núi](../M/Misty_Mountains.md) và [Biển](../B/Belegaer.md), và mọi người từ nhiều dặm xung quanh đã đến để ngắm nhìn nó.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Người [Hobbit](../H/Hobbits.md) vùng đó tổ chức các ngày lễ và lễ kỷ niệm xung quanh cây Mallorn.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Cảm hứng {#Inspiration}
 
-- Cây tiệc tùng có thể được lấy cảm hứng từ cây liễu treo trên hồ cối xay ở Sarehole, Warwickshire, Anh
+- Cây Hội Tiệc có thể được lấy cảm hứng từ cây liễu treo trên hồ cối xay ở Sarehole, Warwickshire, Anh
 
 <dl><dd><div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt"></blockquote></div></dd></dl>
 
-'Họ đã chặt nó xuống!' đã khóc Sam. 'Họ đã chặt Cây Tiệc tùng!' Anh chỉ vào chỗ cái cây mà Bilbo đã đứng dưới đó đã phát biểu lời từ biệt. **Nó nằm chết trên ruộng**. Như thể đây là cọng rơm cuối cùng Sam bật khóc.
+'Họ đã chặt nó xuống!' đã khóc Sam. 'Họ đã chặt Cây Hội Tiệc!' Anh chỉ vào chỗ cái cây mà Bilbo đã đứng dưới đó đã phát biểu lời từ biệt. **Nó nằm chết trên ruộng**. Như thể đây là cọng rơm cuối cùng Sam bật khóc.
 
 <p class="tg-quote-footer"><cite><a href="The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a>, <a href="The_Scouring_of_the_Shire.md" title="The Scouring of the Shire">The Scouring of the Shire</a></cite></p>
 

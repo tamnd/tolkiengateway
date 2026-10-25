@@ -40,7 +40,7 @@ infobox:
     - Bởi Thomas Morwinsky
 - "Học 'Phép thuật' trong Trò chơi nhập vai lấy bối cảnh ở Trung Địa"
     - Bởi Thomas Morwinsky
-- "Biệt đội miền Bắc"
+- "Tuần Du Nhân phương Bắc"
     - Bởi [Gabriele Quaglia](../G/Gabriele_Quaglia.md)
 - "Đánh giá: [Tàn tích của Vương quốc đã mất](../R/Ruins_of_the_Lost_Realm.md)"
     - Bởi Thomas Morwinsky

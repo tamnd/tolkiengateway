@@ -95,7 +95,7 @@ Năm [1944](../T/Third_Age_1944.md) [T.A.](../T/Third_Age.md), Những Kỵ Xa l
 
 Sau thất bại này, sức mạnh của Những Kỵ Xa bị phá vỡ, mặc dù họ vẫn chiếm giữ Rhovanion, rồi rút về phía đông. Quan trọng hơn cả, Vua [Ondoher](../O/Ondoher.md) cùng cả hai con trai đều bị giết trong cuộc tấn công đó, một sự kiện dẫn đến sự tuyệt diệt của dòng dõi [các Vua Gondor](../K/Kings_of_Gondor.md).
 
-Năm [2063](../T/Third_Age_2063.md) [T.A.](../T/Third_Age.md), Kẻ gọi hồn (thực chất chính là Sauron) rút khỏi [Dol Guldur](../D/Dol_Guldur.md) trong vài thế kỷ. Giai đoạn này được gọi là [Hòa Bình Cảnh Giác](../W/Watchful_Peace.md) đối với [các vùng đất phía Tây](../W/Westlands.md), nhưng trong thời gian đó, Sauron lui về phương Đông và thành công trong việc thiết lập một liên minh hùng mạnh giữa các bộ lạc Người phương Đông khác nhau.
+Năm [2063](../T/Third_Age_2063.md) [T.A.](../T/Third_Age.md), Kẻ gọi hồn (thực chất chính là Sauron) rút khỏi [Dol Guldur](../D/Dol_Guldur.md) trong vài thế kỷ. Giai đoạn này được gọi là [Thời kỳ Hòa bình Cảnh giác](../W/Watchful_Peace.md) đối với [các vùng đất phía Tây](../W/Westlands.md), nhưng trong thời gian đó, Sauron lui về phương Đông và thành công trong việc thiết lập một liên minh hùng mạnh giữa các bộ lạc Người phương Đông khác nhau.
 
 ### Người Balchoth {#The_Balchoth}
 

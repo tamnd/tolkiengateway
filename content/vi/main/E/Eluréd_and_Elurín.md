@@ -54,7 +54,7 @@ infobox:
 
 Eluréd và Elurín là [anh em sinh đôi](../T/Twins.md) và có một em gái [Elwing](Elwing.md), cả ba đều sinh ra ở [Lanthir Lamath](../L/Lanthir_Lamath.md) trong khi ông bà của họ [Beren](../B/Beren.md) và [Lúthien](../L/Lúthien.md) sống ở đó. Tuy nhiên, sau khi chủ nhà của [Naugrim](../N/Naugrim.md) cướp bóc [Menegroth](../M/Menegroth.md), cha của họ Dior đã đưa cả gia đình của mình đến Ngàn Hang Động để đổi mới vương quốc [Doriath](../D/Doriath.md).
 
-Nhưng chẳng bao lâu sau, chưa được bao năm, một người đưa tin đã mang [Nauglamír](../N/Nauglamír.md) đến Dior, báo với anh rằng Beren and Lúthien đã biến mất khỏi thế giới. Tin tức về Vòng cổ của Người Lùn, mang một trong những [Silmaril](../S/Silmarils.md), đang được Dior cất giữ đã kích động các con trai của [Fëanor](../F/Fëanor.md) tấn công Menegroth.
+Nhưng chẳng bao lâu sau, chưa được bao năm, một người đưa tin đã mang [Nauglamír](../N/Nauglamír.md) đến Dior, báo với anh rằng Beren and Lúthien đã biến mất khỏi thế giới. Tin tức về Vòng cổ Người Lùn, mang một trong những [Silmaril](../S/Silmarils.md), đang được Dior cất giữ đã kích động các con trai của [Fëanor](../F/Fëanor.md) tấn công Menegroth.
 
 Trong cuộc xung đột sau đó, cả Dior và Nimloth đều bị tiêu diệt, Eluréd và Elurín bị bắt, trong khi Elwing trốn thoát cùng với Silmaril. Sau đó, hai cậu bé bị người hầu của [Celegorm](../C/Celegorm.md) đưa vào rừng để trả thù cho cái chết của lãnh chúa và bị bỏ đói.
 

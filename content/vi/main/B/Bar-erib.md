@@ -40,7 +40,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Thành trì Bar-erib là một trong nhiều trại và pháo đài được canh gác được thiết lập xung quanh [Echad i Sedryn](../H/House_of_Ransom.md), trong thời gian tồn tại ngắn ngủi của [Dor-Cúarthol](../D/Dor-Cúarthol.md), vương quốc được cai trị bởi [Hai thuyền trưởng](../T/Two_Captains.md). Bar-erib nằm trong *"vùng đất màu mỡ một thời giữa [Narog](../N/Narog.md) và [Meres của Sirion](../F/Fens_of_Sirion.md)."* Người ta nói rằng từ Bar-erib, có tầm nhìn về phía bắc, nơi có thể nhìn thấy đỉnh Amon Rûdh và có thể nhận lệnh cũng như tin nhắn đến và đi từ cả hai địa điểm thông qua tín hiệu.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup>
+Thành trì Bar-erib là một trong nhiều trại và pháo đài được canh gác được thiết lập xung quanh [Echad i Sedryn](../H/House_of_Ransom.md), trong thời gian tồn tại ngắn ngủi của [Dor-Cúarthol](../D/Dor-Cúarthol.md), vương quốc được cai trị bởi [Hai vị Thủ lĩnh](../T/Two_Captains.md). Bar-erib nằm trong *"vùng đất màu mỡ một thời giữa [Narog](../N/Narog.md) và [Meres của Sirion](../F/Fens_of_Sirion.md)."* Người ta nói rằng từ Bar-erib, có tầm nhìn về phía bắc, nơi có thể nhìn thấy đỉnh Amon Rûdh và có thể nhận lệnh cũng như tin nhắn đến và đi từ cả hai địa điểm thông qua tín hiệu.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

@@ -52,7 +52,7 @@ Trong [1987](../_/1987.md), phiên bản thứ hai của mô-đun này đã đư
 
 Chứa bản đồ khu vực đầy màu sắc của BẮC GONDOR, chế độ xem mặt cắt đầy đủ màu sắc và sơ đồ tầng của ORHANC, 2 sơ đồ thành phố hoàn chỉnh, mô tả đầy đủ về SARUMAN, danh sách thảo dược và âm mưu chính trị, HELM'S DEEP và nhiều hơn thế nữa.
 
-Thành Isengard được người Númenórian xây dựng trong một thung lũng được che chắn ở giới hạn phía nam của Dãy Núi Sương Mù. Mục đích chính của nó là bảo vệ khoảng trống của Calenardhon và Fords của Isen trước các cuộc tấn công của lực lượng Sauron. Tự lập và đầy mê hoặc, sau này nó trở thành pháo đài gần như bất khả xâm phạm của Saruman phe Trắng. Không có ngọn tháp nào ở Trung Địa mạnh hơn, ngoại trừ Tháp Tối của Mordor.
+Thành Isengard được người Númenórian xây dựng trong một thung lũng được che chắn ở giới hạn phía nam của Dãy Núi Sương Mù. Mục đích chính của nó là bảo vệ khoảng trống của Calenardhon và Fords của Isen trước các cuộc tấn công của lực lượng Sauron. Tự lập và đầy mê hoặc, sau này nó trở thành pháo đài gần như bất khả xâm phạm của Saruman phe Trắng. Không có ngọn tháp nào ở Trung Địa mạnh hơn, ngoại trừ Tháp Bóng tối của Mordor.
 
 *ISENGARD and Northern Gondor* bao gồm:
 

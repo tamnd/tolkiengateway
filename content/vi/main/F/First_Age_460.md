@@ -21,7 +21,7 @@ sort_keys:
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 - Vì muốn gặp [vợ](../E/Eilinel.md), [Gorlim](../G/Gorlim.md) bị [Sauron](../S/Sauron.md) lừa phản bội [băng cướp](../B/Barahir's_outlaws.md) của [Barahir](../B/Barahir.md).<sup id="cite_ref-Beren_1-0" class="reference"><a href="#cite_note-Beren-1">[1]</a></sup>
-- [Vụ thảm sát ở Tarn Aeluin](../M/Massacre_at_Tarn_Aeluin.md): cái chết của [Barahir](../B/Barahir.md), [Baragund](../B/Baragund.md), [Belegund](../B/Belegund.md), [Arthad](../A/Arthad.md), [Dagnir](../D/Dagnir.md), [Dairuin](../D/Dairuin.md), [Gildor](<../G/Gildor_(outlaw).md>), [Gorlim Kẻ bất hạnh](../G/Gorlim.md), [Hathaldir](../H/Hathaldir.md), [Radhruin](../R/Radhruin.md), [Ragnor](../R/Ragnor.md) và [Urthel](../U/Urthel.md).<sup id="cite_ref-Beren_1-1" class="reference"><a href="#cite_note-Beren-1">[1]</a></sup>
+- [Vụ thảm sát ở Tarn Aeluin](../M/Massacre_at_Tarn_Aeluin.md): cái chết của [Barahir](../B/Barahir.md), [Baragund](../B/Baragund.md), [Belegund](../B/Belegund.md), [Arthad](../A/Arthad.md), [Dagnir](../D/Dagnir.md), [Dairuin](../D/Dairuin.md), [Gildor](<../G/Gildor_(outlaw).md>), [Gorlim Bất Hạnh](../G/Gorlim.md), [Hathaldir](../H/Hathaldir.md), [Radhruin](../R/Radhruin.md), [Ragnor](../R/Ragnor.md) và [Urthel](../U/Urthel.md).<sup id="cite_ref-Beren_1-1" class="reference"><a href="#cite_note-Beren-1">[1]</a></sup>
 - [Beren](../B/Beren.md), người sống sót duy nhất, săn lùng [lũ Orc](../O/Orcs.md) và lấy lại [chiếc nhẫn của cha mình](../R/Ring_of_Barahir.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>

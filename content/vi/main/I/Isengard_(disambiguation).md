@@ -21,7 +21,7 @@ images:
 - **[Isengard](Isengard.md), pháo đài là nơi sinh sống của [Saruman](../S/Saruman.md) vào cuối [Kỷ Đệ Tam](../T/Third_Age.md).**
 - Trận [Trận Isengard](../B/Battle_of_Isengard.md), một trận chiến diễn ra trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md).
 - [Cổng Isengard](../G/Gate_of_Isengard.md)
-- [Vòng Isengard](../R/Ring_of_Isengard.md)
+- [Vành đai Isengard](../R/Ring_of_Isengard.md)
 
 ## Sách và chương {#Books_and_Chapters}
 

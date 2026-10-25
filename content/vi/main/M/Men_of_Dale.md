@@ -54,7 +54,7 @@ Các **Người Dale**,<sup id="cite_ref-Meetings_1-0" class="reference"><a href
 
 ## Lịch sử {#History}
 
-Đã có một dân tộc [Người phương Bắc](../N/Northmen.md) bên Núi [Erebor](../E/Erebor.md) trước [T.A.](../T/Third_Age.md) [1856](../T/Third_Age_1856.md). Năm đó, dân tộc đó đã cùng với những Người phương Bắc khác chạy trốn khỏi vùng đồng bằng rộng lớn giữa [Mirkwood](Mirkwood.md) và [River Running](../R/River_Running.md) sau thất bại thảm hại trong [Trận chiến vùng đồng bằng](../B/Battle_of_the_Plains.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Đã có một dân tộc [Người phương Bắc](../N/Northmen.md) bên Núi [Erebor](../E/Erebor.md) trước [T.A.](../T/Third_Age.md) [1856](../T/Third_Age_1856.md). Năm đó, dân tộc đó đã cùng với những Người phương Bắc khác chạy trốn khỏi vùng đồng bằng rộng lớn giữa [Mirkwood](Mirkwood.md) và [River Running](../R/River_Running.md) sau thất bại thảm hại trong [Trận chiến Đồng Bằng](../B/Battle_of_the_Plains.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 Nhiều [Người phương Bắc](../N/Northmen.md) dần dần xuất hiện River Running từ phía nam sau khi Vua [Thrór](../T/Thrór.md) tái lập [Vương quốc dưới Núi](../K/Kingdom_under_the_Mountain.md) ở Erebor<sup id="cite_ref-Party_6-0" class="reference"><a href="#cite_note-Party-6">[6]</a></sup> ở [T.A.](../T/Third_Age.md) [2590](../T/Third_Age_2590.md)<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>.
 
@@ -62,7 +62,7 @@ Nhiều [Người phương Bắc](../N/Northmen.md) dần dần xuất hiện Ri
 
 Trong [2770](../T/Third_Age_2770.md), trong thời gian [Girion](../G/Girion.md), [Smaug](../S/Smaug.md) giáng xuống vương quốc Người Lùn.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> Các chiến binh Con Người ra trận chống lại ông nhưng không thể ngăn chặn [Cuộc cướp phá Erebor](../S/Sack_of_Erebor.md). Sau đó, ban đêm rồng sẽ bò ra khỏi [Cổng Trước](../F/Front_Gate.md) Núi và mang theo người dân (đặc biệt là thiếu nữ) đi ăn. Số dân còn lại nhanh chóng bỏ chạy và thành phố hoang vắng trở thành đống đổ nát.<sup id="cite_ref-Party_6-2" class="reference"><a href="#cite_note-Party-6">[6]</a></sup>
 
-Nhiều người đã tập trung vào [Long Lake](../L/Long_Lake.md) với [Người Hồ](../L/Lake-men.md), bao gồm cả hậu duệ cuối cùng của Girion, [Bard](../B/Bard.md). Sau khi thị trấn Dale được Bard xây dựng lại và Bard trở thành [Vua của Dale](../K/King_of_Dale.md) ở [T.A.](../T/Third_Age.md) [2944](../T/Third_Age_2944.md),<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> người dân ở đó được gọi là [Bardings](../B/Bardings.md)<sup id="cite_ref-Meetings_1-2" class="reference"><a href="#cite_note-Meetings-1">[1]</a></sup>.
+Nhiều người đã tập trung vào [Long Lake](../L/Long_Lake.md) với [Người Hồ](../L/Lake-men.md), bao gồm cả hậu duệ cuối cùng của Girion, [Bard](../B/Bard.md). Sau khi thị trấn Dale được Bard xây dựng lại và Bard trở thành [Vua Dale](../K/King_of_Dale.md) ở [T.A.](../T/Third_Age.md) [2944](../T/Third_Age_2944.md),<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> người dân ở đó được gọi là [Bardings](../B/Bardings.md)<sup id="cite_ref-Meetings_1-2" class="reference"><a href="#cite_note-Meetings-1">[1]</a></sup>.
 
 ## Văn hóa {#Culture}
 

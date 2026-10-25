@@ -41,7 +41,7 @@ infobox:
 
 Người của Bardings thuộc về một nhánh rộng lớn của [Con Người](../M/Men.md) được gọi là [Người phương Bắc](../N/Northmen.md), và do đó có họ hàng với cả [Beornings](Beornings.md) và [Rohirrim](../R/Rohirrim.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Sau khi [Bard](Bard.md) trả thù [con rồng](../D/Dragon.md) [Smaug](../S/Smaug.md) trong [T.A.](../T/Third_Age.md) [2941](../T/Third_Age_2941.md), ông đã trở thành [Vua của Dale](../K/King_of_Dale.md) theo đúng nghĩa của mình. Ông được con trai [Bain](Bain.md) kế vị làm người cai trị, và do đó, dòng dõi của ông kéo dài đến thời [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md) và hơn thế nữa.
+Sau khi [Bard](Bard.md) trả thù [con rồng](../D/Dragon.md) [Smaug](../S/Smaug.md) trong [T.A.](../T/Third_Age.md) [2941](../T/Third_Age_2941.md), ông đã trở thành [Vua Dale](../K/King_of_Dale.md) theo đúng nghĩa của mình. Ông được con trai [Bain](Bain.md) kế vị làm người cai trị, và do đó, dòng dõi của ông kéo dài đến thời [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md) và hơn thế nữa.
 
 Bardings chiếm lĩnh khu vực giữa [Long Lake](../L/Long_Lake.md) và [Erebor](../E/Erebor.md),<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> và duy trì tình bạn với [Người Lùn Erebor](../D/Dwarves_of_Erebor.md), giống như tổ tiên của họ. Thời gian trôi qua, những vùng đất dưới quyền lực của Bardings ngày càng phát triển, và vào thời cháu trai của [Bard](Bard.md) [Brand](Brand.md), lãnh thổ của họ được cho là đã mở rộng xa về phía nam và phía đông của [Long Lake](../L/Long_Lake.md).<sup id="cite_ref-meet_1-1" class="reference"><a href="#cite_note-meet-1">[1]</a></sup>
 

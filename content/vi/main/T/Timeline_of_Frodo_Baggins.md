@@ -79,7 +79,7 @@ Dòng thời gian về cuộc đời của [Frodo Baggins](../F/Frodo_Baggins.md
 - [1 tháng 3](../_/1_March.md)-[2 tháng 3](../_/2_March.md): Gollum dẫn Hobbit qua [Đầm lầy Chết](../D/Dead_Marshes.md).
 - [5 tháng 3](../_/5_March.md): Người Hobbit đến [Cổng Đen](../B/Black_Gate.md) và nhận ra rằng nó không thể vượt qua được. Frodo đồng ý đi theo Gollum theo [đường bí mật](../C/Cirith_Ungol.md) vào Mordor.
 - [7 tháng 3](../_/7_March.md): Frodo gặp [Faramir](../F/Faramir.md), anh trai của Boromir.
-- [8 tháng 3](../_/8_March.md): Frodo yêu cầu Faramir tha mạng cho Gollum tại [Bể Cấm](../F/Forbidden_Pool.md). Người Hobbit chia tay Faramir vào buổi sáng.
+- [8 tháng 3](../_/8_March.md): Frodo yêu cầu Faramir tha mạng cho Gollum tại [Hồ Cấm](../F/Forbidden_Pool.md). Người Hobbit chia tay Faramir vào buổi sáng.
 - [9 tháng 3](../_/9_March.md): Người Hobbit đến [Đường Morgul](../M/Morgul-road.md) vào lúc hoàng hôn.
 - [10 tháng 3](../_/10_March.md): Người Hobbit đến [Ngã Tư](../C/Cross-roads.md) và tiếp tục đến [Thung lũng Morgul](../M/Morgul_Vale.md). Frodo nhìn thấy Vua Phù thủy dẫn đầu một đội quân từ [Minas Morgul](../M/Minas_Morgul.md) và chống lại việc đeo Nhẫn.
 - [12 tháng 3](../_/12_March.md): Gollum dẫn Frodo và Sam vào [Hang ổ của Shelob](../S/Shelob's_Lair.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Great Gate of Minas Tirith"
 ---
 
-Chuyển hướng đến [Cổng lớn Minas Tirith](Great_Gate_of_Minas_Tirith.md).
+Chuyển hướng đến [Đại Môn Minas Tirith](Great_Gate_of_Minas_Tirith.md).

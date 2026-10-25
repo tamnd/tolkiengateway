@@ -41,7 +41,7 @@ infobox:
 
 ## Văn bản bìa/áo khoác {#Cover/Jacket_Text}
 
-Phần bổ sung này trình bày những vùng đất hoang dã xinh đẹp ở rìa Dãy Núi Xanh, ranh giới giữa thung lũng sông Lhûn và Vương quốc Tiên Lindon. Numeriador vẫn không bị đe dọa bởi thế lực bóng tối trong nhiều thiên niên kỷ. Tuy nhiên, Vua Phù thủy của Angmar biết rõ khu vực và địa hình rộng mở tiềm ẩn nhiều nguy hiểm hơn vẻ ngoài yên bình của nó.
+Phần bổ sung này trình bày những vùng đất hoang dã xinh đẹp ở rìa Dãy Núi Xanh, ranh giới giữa thung lũng sông Lhûn và Vương quốc Tiên Lindon. Numeriador vẫn không bị đe dọa bởi thế lực bóng tối trong nhiều thiên niên kỷ. Tuy nhiên, Vua Phù thủy Angmar biết rõ khu vực và địa hình rộng mở tiềm ẩn nhiều nguy hiểm hơn vẻ ngoài yên bình của nó.
 
 Gặp gỡ những người sông dũng cảm, Dúnedain bị trục xuất, Tiên tộc ẩn dật và Người Lùn sắc sảo của Nan-i-Naugrim khi dạo chơi trong khung cảnh hoang sơ của Numeriador. Những thác nước ầm ầm, những đỉnh núi phủ tuyết và khu rừng sâu với bóng tối chứa đựng những con thú và quái vật bao quanh những ngôi làng và trang trại biệt lập, nơi chỉ những người dũng cảm và dũng cảm mới dám trú ngụ. Rời xa những tiện nghi của nền văn minh, những người du hành phải đối mặt với những tên cướp cướp bóc, Troll đói khát và những điệp viên của Vua Phù thủy trên khắp biên giới này.
 

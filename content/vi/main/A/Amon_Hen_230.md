@@ -64,7 +64,7 @@ Thông báo - [Oxonmoot](../O/Oxonmoot_2011.md)
     - Bởi: Chris Bell
 - Báo cáo: [Unquendor](../U/Unquendor.md) Lustrum 2011
 - Bởi: Jessica Yates
-- <a class="mw-disambig" href="../O/Oliphaunt_(disambiguation).md" title="Oliphaunt (disambiguation)">Oliphaunt</a> trong [Ngôi nhà giản dị cuối cùng](../R/Rivendell.md)
+- <a class="mw-disambig" href="../O/Oliphaunt_(disambiguation).md" title="Oliphaunt (disambiguation)">Oliphaunt</a> trong [Ngôi nhà Cuối cùng Ấm cúng](../R/Rivendell.md)
     - Bởi: [Alex Lewis](Alex_Lewis.md)
 - Phản hồi đánh giá [Mirkwood: A Novel](../M/Mirkwood%253A_A_Novel_About_JRR_Tolkien.md)
     - Bởi: Steve Hillard

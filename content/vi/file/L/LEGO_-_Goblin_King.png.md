@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Yêu tinh Vua](../../main/G/Great_Goblin.md) - [LEGO](../../main/L/Lego.md) mô hình nhỏ
+[Vua Goblin](../../main/G/Great_Goblin.md) - [LEGO](../../main/L/Lego.md) mô hình nhỏ
 
 ## Giấy phép {#Licensing}
 

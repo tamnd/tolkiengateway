@@ -34,7 +34,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Tổ chức</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Council of the Sceptre</span></th></tr><tr><th scope="row" class="tg-infobox-label">Tên khác</th><td class="tg-infobox-data">King&#39;s Council of <a href="../N/Númenor.md" title="Númenor">Númenor</a></td></tr><tr><th scope="row" class="tg-infobox-label">Người sáng lập</th><td class="tg-infobox-data"><a class="mw-redirect" href="../K/Kings_of_Númenor.md" title="Kings of Númenor">Các vị vua Númenor</a></td></tr><tr><th scope="row" class="tg-infobox-label">Mục đích</th><td class="tg-infobox-data">Tư vấn cho Vua về nhiều vấn đề của nhà nước</td></tr><tr><th scope="row" class="tg-infobox-label">Thành viên</th><td class="tg-infobox-data"><a href="../N/Númenóreans.md" title="Númenóreans">người Númenor</a></td></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data"><a href="../N/Númenor.md" title="Númenor">Númenor</a></td></tr><tr><th scope="row" class="tg-infobox-label">Disbanded</th><td class="tg-infobox-data">Có thể trong <a href="../D/Downfall_of_Númenor.md" title="Downfall of Númenor">Sự sụp đổ của Númenor</a></td></tr></tbody></table>
 
-**Hội đồng của Vương trượng** là Vua của Hội đồng của [Númenor](../N/Númenor.md).
+**Hội đồng Vương trượng** là Vua của Hội đồng của [Númenor](../N/Númenor.md).
 
 ## Lịch sử {#History}
 

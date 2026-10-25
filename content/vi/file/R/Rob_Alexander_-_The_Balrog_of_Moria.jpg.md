@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Rob Alexander - Balrog of Moria.jpg"
 ---
 
-Chuyển hướng đến [Tệp:Rob Alexander - Balrog của Moria.jpg](Rob_Alexander_-_Balrog_of_Moria.jpg.md).
+Chuyển hướng đến [Tệp:Rob Alexander - Balrog Moria.jpg](Rob_Alexander_-_Balrog_of_Moria.jpg.md).

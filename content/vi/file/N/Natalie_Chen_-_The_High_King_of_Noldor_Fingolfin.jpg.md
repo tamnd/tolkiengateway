@@ -28,7 +28,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Hình ảnh [Fingolfin](../../main/F/Fingolfin.md), [Đại Vương của Noldor](../../main/H/High_King_of_the_Noldor.md).
+Hình ảnh [Fingolfin](../../main/F/Fingolfin.md), [Đại Vương Noldor](../../main/H/High_King_of_the_Noldor.md).
 
 ## Giấy phép {#Licensing}
 

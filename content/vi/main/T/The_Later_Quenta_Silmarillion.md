@@ -80,7 +80,7 @@ Phần này bao gồm hai phần nữa, lần lượt được chia thành các 
 4. "Của Thingol và Melian"
 5. "Của Eldanor và các hoàng tử của Eldalië"
 6. "Của Silmaril và Bóng tối của Valinor"
-7. "Chuyến bay của Noldor"
+7. "Cuộc Di Tản của người Noldor"
 8. "Về Mặt Trời và Mặt Trăng và Ẩn Valinor"
 
 <h3><span id=".22The_Second_Phase.22"></span><span class="mw-headline" id="&#34;The_Second_Phase&#34;">&#34;The Second Phase&#34;</span></h3>

@@ -35,7 +35,7 @@ infobox:
 
 Tóm tắt lịch sử của [Hobbit](../H/Hobbits.md) từ nguồn gốc của họ ở [Vales](../V/Vales_of_Anduin.md) của [Anduin](../A/Anduin.md), cho đến việc họ chuyển đến [Eriador](../E/Eriador.md), sự ủy thác của họ ở [The Shire](../T/The_Shire.md) và các sự kiện dẫn đến [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md). *Concerning Hobbits* cũng cung cấp mô tả khái quát về các đặc điểm hình thể của Hobbit, cũng như cách cư xử, phong tục và gia đình quan trọng của họ.
 
-### Về cỏ ống {#Concerning_Pipe-weed}
+### Về Thuốc lá {#Concerning_Pipe-weed}
 
 Giải thích về niềm đam mê của [Hobbit](../H/Hobbits.md) với [cỏ ống](Pipe-weed.md), lịch sử của nó (như được trình bày trong *[Herblore of the Shire](../H/Herblore_of_the_Shire.md)* của [Meriadoc Brandybuck](../M/Meriadoc_Brandybuck.md)) và các giống đáng chú ý của [Old Toby](../O/Old_Toby.md), [Lá đáy dài](../L/Longbottom_Leaf.md) và [Sao phương Nam](../S/Southern_Star.md).
 

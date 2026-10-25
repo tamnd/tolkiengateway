@@ -27,7 +27,7 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này nói về <b>con người</b>. Đối với vùng còn được gọi là "Forodwaith", xem <b><a href="../N/Northern_Waste.md" title="Northern Waste">Northern Waste</a></b>.</div></div>
 
-**Forodwaith** là một dân tộc [Con Người](../M/Men.md) sống ở cực bắc của [Trung Địa](../M/Middle-earth.md), dường như có niên đại từ [Ngày của Người cao tuổi](../E/Elder_Days.md). Không có nhiều thông tin về họ.
+**Forodwaith** là một dân tộc [Con Người](../M/Men.md) sống ở cực bắc của [Trung Địa](../M/Middle-earth.md), dường như có niên đại từ [Thời Cổ xưa](../E/Elder_Days.md). Không có nhiều thông tin về họ.
 
 ## Lịch sử {#History}
 

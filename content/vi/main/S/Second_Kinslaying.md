@@ -61,13 +61,13 @@ Trong trận chiến đó, chính Beren đã giết vua của họ và lấy l�
 
 Khi Dior từ biệt cha mẹ, anh cùng vợ [Nimloth](../N/Nimloth_of_Doriath.md) và các con [Eluréd](../E/Eluréd.md), [Elurín](../E/Elurín.md) và [Elwing](../E/Elwing.md) lên đường về [Menegroth](../M/Menegroth.md). Tiên tộc của Doriath đã vui mừng đón nhận chúng. Dưới sự cai trị của Dior, vinh quang của vương quốc đã phục hồi trong một thời gian.
 
-Vào mùa thu, một Tiên đã đến Menegroth. Ông là chúa tể của Tiên Xanh của Ossiriand. Ông đưa cho Dior một cái rương, trong đó có Nauglamír đựng Silmaril. Dior nhìn là biết đó là dấu hiệu Beren and Lúthien đã chết. Sau đó Dior đứng dậy và đeo chiếc Nauglamír vào cổ và "xuất hiện với tư cách là người công bằng nhất trong số tất cả trẻ em trên thế giới, thuộc ba chủng tộc: của Edain, của Eldar và của Maiar của Vương quốc Phước lành.<sup id="cite_ref-Doriath_1-0" class="reference"><a href="#cite_note-Doriath-1">[1]</a></sup>
+Vào mùa thu, một Tiên đã đến Menegroth. Ông là chúa tể của Tiên Xanh vùng Ossiriand. Ông đưa cho Dior một cái rương, trong đó có Nauglamír đựng Silmaril. Dior nhìn là biết đó là dấu hiệu Beren and Lúthien đã chết. Sau đó Dior đứng dậy và đeo chiếc Nauglamír vào cổ và "xuất hiện với tư cách là người công bằng nhất trong số tất cả trẻ em trên thế giới, thuộc ba chủng tộc: của Edain, của Eldar và của Maiar của Cõi Phúc lành.<sup id="cite_ref-Doriath_1-0" class="reference"><a href="#cite_note-Doriath-1">[1]</a></sup>
 
 ## Lịch sử {#History}
 
 ### Mở đầu {#Prelude}
 
-Tin đồn lan truyền khắp Tiên tộc Beleriand rải rác, và họ nói: "'a Silmaril của Fëanor lại cháy trong rừng Doriath.'" Khi tin tức về những sự kiện này đến tai các Con trai của Fëanor, lời thề của họ đã được đánh thức khỏi giấc ngủ, vì Lúthien đã đeo [Vòng cổ của Người Lùn](../N/Necklace_of_the_Dwarves.md), không Tiên nào dám làm vậy tấn công bà. Nhưng bây giờ, đối với [các Con trai của Fëanor](Sons_of_Fëanor.md), khi họ nghe nói về việc đổi mới Doriath và niềm tự hào của Dior, họ có thể khôi phục được Silmaril. Bảy người con trai tập hợp lại sau chuyến lang thang và gửi tin nhắn tới Dior nêu rõ yêu sách của họ đối với Silmaril. Nhưng Dior không trả lời, và Celegorm "khuyến khích anh em chuẩn bị tấn công Doriath."<sup id="cite_ref-Doriath_1-1" class="reference"><a href="#cite_note-Doriath-1">[1]</a></sup>
+Tin đồn lan truyền khắp Tiên tộc Beleriand rải rác, và họ nói: "'a Silmaril của Fëanor lại cháy trong rừng Doriath.'" Khi tin tức về những sự kiện này đến tai các Con trai của Fëanor, lời thề của họ đã được đánh thức khỏi giấc ngủ, vì Lúthien đã đeo [Vòng cổ Người Lùn](../N/Necklace_of_the_Dwarves.md), không Tiên nào dám làm vậy tấn công bà. Nhưng bây giờ, đối với [các Con trai của Fëanor](Sons_of_Fëanor.md), khi họ nghe nói về việc đổi mới Doriath và niềm tự hào của Dior, họ có thể khôi phục được Silmaril. Bảy người con trai tập hợp lại sau chuyến lang thang và gửi tin nhắn tới Dior nêu rõ yêu sách của họ đối với Silmaril. Nhưng Dior không trả lời, và Celegorm "khuyến khích anh em chuẩn bị tấn công Doriath."<sup id="cite_ref-Doriath_1-1" class="reference"><a href="#cite_note-Doriath-1">[1]</a></sup>
 
 ### Trận chiến {#Battle}
 

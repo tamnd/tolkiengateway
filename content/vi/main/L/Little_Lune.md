@@ -36,7 +36,7 @@ Lune là tên [Westron](../W/Westron.md). Đó là sự thay đổi của tên t
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">The Little Lune không có tên trên <a href="../G/General_Map_of_Middle-earth.md" title="General Map of Middle-earth">Bản đồ chung của Trung Địa</a>, <a href="../T/The_West_of_Middle-earth_at_the_End_of_the_Third_Age.md" title="The West of Middle-earth at the End of the Third Age">The Phương Tây của Trung Địa ở cuối bản đồ Kỷ Đệ Tam</a> và <a href="../T/The_Third_Map_of_The_Lord_of_the_Rings.md" title="The Third Map of The Lord of the Rings">Bản đồ thứ ba của The Lord of the Rings</a>.</span>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">The Little Lune không có tên trên <a href="../G/General_Map_of_Middle-earth.md" title="General Map of Middle-earth">Bản đồ tổng quát về Trung Địa</a>, <a href="../T/The_West_of_Middle-earth_at_the_End_of_the_Third_Age.md" title="The West of Middle-earth at the End of the Third Age">The Phương Tây của Trung Địa ở cuối bản đồ Kỷ Đệ Tam</a> và <a href="../T/The_Third_Map_of_The_Lord_of_the_Rings.md" title="The Third Map of The Lord of the Rings">Bản đồ thứ ba của The Lord of the Rings</a>.</span>
 </li>
 </ol></div></span>
 

@@ -60,7 +60,7 @@ Vương quốc [Rhudaur](../R/Rhudaur.md) nằm giữa Ettenmoors ở phía bắ
 
 ## Lịch sử {#History}
 
-Kể từ [Ngày của Người cao tuổi](Elder_Days.md), [Troll](../T/Trolls.md) tập trung đặc biệt xung quanh Ettenmoors và chúng gia tăng dưới thời cai trị của [Angmar](../A/Angmar.md), được thành lập ở phía bắc.<sup id="cite_ref-NM_4-1" class="reference"><a href="#cite_note-NM-4">[4]</a></sup>
+Kể từ [Thời Cổ xưa](Elder_Days.md), [Troll](../T/Trolls.md) tập trung đặc biệt xung quanh Ettenmoors và chúng gia tăng dưới thời cai trị của [Angmar](../A/Angmar.md), được thành lập ở phía bắc.<sup id="cite_ref-NM_4-1" class="reference"><a href="#cite_note-NM-4">[4]</a></sup>
 
 Vào [S.A.](../S/Second_Age.md) [3320](../S/Second_Age_3320.md) khi vương quốc Arnor được thành lập bởi [Dúnedain](../D/Dúnedain.md),<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Ettenmoors có lẽ đã trở thành một phần của Arnor.
 

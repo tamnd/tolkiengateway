@@ -78,7 +78,7 @@ Sự kiện xảy ra vào ngày 12 tháng 3.
     - [Borondir](../B/Borondir.md) và người bạn đồng hành của ông đang trên đường tìm kiếm [Éothéod](Éothéod.md).
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
     - [Gollum](../G/Gollum.md) dẫn [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md) vào [Hang ổ của Shelob](../S/Shelob's_Lair.md).
-    - [Faramir](../F/Faramir.md) phải rút lui về [Causeway Pháo đài](../C/Causeway_Forts.md).
+    - [Faramir](../F/Faramir.md) phải rút lui về [Pháo đài Causeway](../C/Causeway_Forts.md).
     - Con [Rohirrim](../R/Rohirrim.md) di chuyển về phía [Minas Tirith](../M/Minas_Tirith.md). Họ cắm trại dưới [Min-Rimmon](../M/Min-Rimmon.md).
     - [Aragorn](../A/Aragorn.md) đẩy kẻ địch về phía [Pelargir](../P/Pelargir.md).
     - Các [Ent](../E/Ents.md) đánh bại quân xâm lược [Rohan](../R/Rohan.md).

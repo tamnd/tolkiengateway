@@ -49,7 +49,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Grimbold là một đội trưởng dũng cảm dưới quyền [Thống chế thứ hai](../S/Second_Marshal_of_the_Riddermark.md). Ông đóng vai trò then chốt trong việc [phòng thủ](../F/First_Battle_of_the_Fords_of_Isen.md) tại [các khúc cạn Isen](../F/Fords_of_Isen.md); sau khi vị Thống chế của mình là [Théodred](../T/Théodred.md) tử trận, ông đã xoay xở giữ vững doi đất giữa dòng sông cho đến khi [Elfhelm](../E/Elfhelm.md) đến nơi. Không lâu sau đó, quân đội [Isengard](../I/Isengard.md) rút đi; nhiệm vụ của chúng đã hoàn thành sau cái chết của vị Thống chế.
+Grimbold là một đội trưởng dũng cảm dưới quyền [Thống chế thứ hai](../S/Second_Marshal_of_the_Riddermark.md). Ông đóng vai trò then chốt trong việc [phòng thủ](../F/First_Battle_of_the_Fords_of_Isen.md) tại [các Bến cạn Isen](../F/Fords_of_Isen.md); sau khi vị Thống chế của mình là [Théodred](../T/Théodred.md) tử trận, ông đã xoay xở giữ vững doi đất giữa dòng sông cho đến khi [Elfhelm](../E/Elfhelm.md) đến nơi. Không lâu sau đó, quân đội [Isengard](../I/Isengard.md) rút đi; nhiệm vụ của chúng đã hoàn thành sau cái chết của vị Thống chế.
 
 Grimbold và đội quân của ông bị phân tán sau [Trận chiến thứ hai tại các khúc cạn Isen](../S/Second_Battle_of_the_Fords_of_Isen.md), mặc dù phần lớn binh sĩ của ông vẫn sống sót. Khi [Gandalf](Gandalf.md) đến nơi, ông phái Elfhelm đi bảo vệ [Edoras](../E/Edoras.md) và Grimbold đến hội quân với [Erkenbrand](../E/Erkenbrand.md), người đang trên đường đến [Hornburg](../H/Hornburg.md) nhằm giải vây cho nơi này khỏi cuộc [vây hãm](../B/Battle_of_the_Hornburg.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 

@@ -17,7 +17,7 @@ images:
 **Cuộc chiến Châu báu** có thể đề cập đến:
 
 - [The War of the Jewels](../T/The_War_of_the_Jewels.md), tập thứ mười một của [The History of Middle-earth](../T/The_History_of_Middle-earth.md).
-- [Trận chiến Beleriand](../B/Battles_of_Beleriand.md), hàng loạt xung đột lớn xuyên suốt [Ngày của Người cao tuổi](../E/Elder_Days.md), còn được gọi là "Cuộc chiến Châu báu".
+- [Trận chiến Beleriand](../B/Battles_of_Beleriand.md), hàng loạt xung đột lớn xuyên suốt [Thời Cổ xưa](../E/Elder_Days.md), còn được gọi là "Cuộc chiến Châu báu".
 
 <hr style="margin-top:15px;"/>
 

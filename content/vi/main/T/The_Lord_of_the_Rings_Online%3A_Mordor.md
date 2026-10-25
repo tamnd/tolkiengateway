@@ -45,7 +45,7 @@ infobox:
 <i><b>The Lord of the Rings Online: Mordor</b></i> là bản mở rộng thứ sáu cho *[The Lord of the Rings Online](The_Lord_of_the_Rings_Online.md)*. Các tính năng bao gồm:
 
 - Khu vực Cao nguyên [Gorgoroth](../G/Gorgoroth.md) bao gồm năm khu vực khác nhau, <a class="mw-redirect mw-disambig" href="../U/Udûn.md" title="Udûn">Udûn</a>, Dor Amarth, Lhingris, Talath Urui và Agarnaith.
-- Phần kết của Dòng nhiệm vụ sử thi (và Tập IV), với Quyển IX - Chiếc nhẫn quyền lực.
+- Phần kết của Dòng nhiệm vụ sử thi (và Tập IV), với Quyển IX - Nhẫn Quyền Năng.
 - Một loạt nhiệm vụ mới, "Sách đen Mordor", trở thành cốt truyện chính sau khi kết thúc Nhiệm vụ sử thi. Có bốn chương được giới thiệu trong bản cập nhật này.
 - Hệ thống lòng trung thành được giới thiệu, người chơi có thể cam kết với một trong bốn phe để nhận được phần thưởng lớn hơn trong [Mordor](../M/Mordor.md). Họ là Vương quốc [Gondor](../G/Gondor.md), Tòa án [Lothlórien](../L/Lothlórien.md), [Dân tộc Durin](../D/Durin's_Folk~15256.md) và Hobbit của Công ty.
 - Một cụm phiên bản mới được giới thiệu, bao gồm phiên bản 3 người (The Court of Seregost), phiên bản 6 người (The Dungeons of Naerband) và cuộc đột kích 12 người (The Abyss of Mordath).

@@ -33,13 +33,13 @@ MORGOTH (Âm trầm), Kẻ Thù
 
 <br> **Tiên tộc:**
 
-TURGON (Âm trầm), Vua của Gondolin
+TURGON (Âm trầm), Vua Gondolin
 
 IDRIL (High Soprano), con gái ông
 
 AREDHEL (Mezzo-soprano), em gái anh
 
-EÖL (Baritone), bóng tối Tiên
+EÖL (Baritone), Tiên Bóng tối
 
 MAEGLIN (Baritone), con trai của Aredhel và Eöl
 
@@ -61,7 +61,7 @@ EÄRENDIL (Im lặng), con của Tuor và Idril
 
 **Sự đấu thầu của Minstrel (Lời mở đầu)**
 
-Điệp khúc hát về chiến công của Eärendil người đi biển giờ đã chìm vào sương mù ký ức. Ulmo, Chúa tể của Nước, xuất hiện trước Vua Tiên Turgon và yêu cầu ông hạ vũ khí và chỉ cho ông vị trí để xây dựng Thành Phố Ẩn Giấu của Gondolin.
+Điệp khúc hát về chiến công của Eärendil người đi biển giờ đã chìm vào sương mù ký ức. Ulmo, Chúa tể Nước, xuất hiện trước Vua Tiên Turgon và yêu cầu ông hạ vũ khí và chỉ cho ông vị trí để xây dựng Thành Phố Ẩn Giấu của Gondolin.
 
 <br> *Eöl, họ hàng của Thingol, đã định cư ở khu rừng xa xôi của Nan-Elmoth gần Doriath.  Để trả công cho việc được phép sống ở đó, ông miễn cưỡng tạo ra thanh kiếm đen Anglachel.  Ác ý của anh đổ vào lưỡi dao và Melian cảnh báo chồng cô đừng bao giờ sử dụng nó.*
 
@@ -71,7 +71,7 @@ Thành phố công bằng Gondolin được xây dựng.  Turgon sống ở đ�
 
 <br> **Sự ra đời của Maeglin (Cảnh hai)**
 
-Aredhel bị Bóng tối Tiên Eöl bắt giữ và lấy cô làm vợ.  Cô sinh cho anh một đứa con trai, Maeglin, cậu bé dần dần không có chút tình cảm nào với cha và lối sống của ông. Maeglin nhờ mẹ dẫn đi Gondolin rời xa sự dạy dỗ của cha.  Cô đồng ý và cả hai thoát khỏi sự trói buộc của họ.
+Aredhel bị Tiên Bóng tối Eöl bắt giữ và lấy cô làm vợ.  Cô sinh cho anh một đứa con trai, Maeglin, cậu bé dần dần không có chút tình cảm nào với cha và lối sống của ông. Maeglin nhờ mẹ dẫn đi Gondolin rời xa sự dạy dỗ của cha.  Cô đồng ý và cả hai thoát khỏi sự trói buộc của họ.
 
 <br> **Trở lại Gondolin (Cảnh ba)**
 
@@ -81,7 +81,7 @@ Aredhel và Maeglin di chuyển đến Gondolin, nhưng họ không hề biết,
 
 <br> **Người đưa tin  (Cảnh bốn)**
 
-Chúng ta được giới thiệu với Tuor, con trai của Huor, anh trai của Húrin, người đã hy sinh trong Trận chiến không nước mắt. Tuor hành trình đến bờ đại dương, nơi một làn sóng lớn nổi lên và mang theo Ulmo.  Ulmo gửi địa chỉ cho Tuor và để lại cho ông cánh tay cũ của Turgon cùng một sứ mệnh: trở thành người đưa tin của ông và cảnh báo Turgon rằng sự sụp đổ của Gondolin đang đến gần.  Ulmo cứu một con tàu bị đắm khỏi biển và trên đó có Voronwë, một Tiên của Gondolin, người được Turgon cử đi trong một nhiệm vụ thất bại là tìm kiếm sự trợ giúp từ Vương quốc Phước lành. Voronwë và Tuor thảo luận về công việc mà Ulmo đã đặt ra. Voronwë mô tả cho Tuor công việc của anh trên biển và cuối cùng đồng ý đưa anh đến Thành Phố Ẩn Giấu.
+Chúng ta được giới thiệu với Tuor, con trai của Huor, anh trai của Húrin, người đã hy sinh trong Trận chiến không nước mắt. Tuor hành trình đến bờ đại dương, nơi một làn sóng lớn nổi lên và mang theo Ulmo.  Ulmo gửi địa chỉ cho Tuor và để lại cho ông cánh tay cũ của Turgon cùng một sứ mệnh: trở thành người đưa tin của ông và cảnh báo Turgon rằng sự sụp đổ của Gondolin đang đến gần.  Ulmo cứu một con tàu bị đắm khỏi biển và trên đó có Voronwë, một Tiên của Gondolin, người được Turgon cử đi trong một nhiệm vụ thất bại là tìm kiếm sự trợ giúp từ Cõi Phúc lành. Voronwë và Tuor thảo luận về công việc mà Ulmo đã đặt ra. Voronwë mô tả cho Tuor công việc của anh trên biển và cuối cùng đồng ý đưa anh đến Thành Phố Ẩn Giấu.
 
 <br> **Sừng của Ulmo (Cảnh năm)**
 
@@ -107,7 +107,7 @@ Thành phố Gondolin đang kỷ niệm buổi sáng đầu tiên của mùa hè
 
 <br> **Phần Con Tàu Cuối Cùng (Phần kết)**
 
-Người đàn ông Tuor giờ đã lớn tuổi chào tạm biệt vợ và con trai trưởng thành khi ông lên tàu.  Mục đích của anh một lần nữa là chèo thuyền vượt đại dương và tìm kiếm Vương quốc Phước lành.
+Người đàn ông Tuor giờ đã lớn tuổi chào tạm biệt vợ và con trai trưởng thành khi ông lên tàu.  Mục đích của anh một lần nữa là chèo thuyền vượt đại dương và tìm kiếm Cõi Phúc lành.
 
 ## Bản ghi {#Recordings}
 
@@ -115,9 +115,9 @@ Vào năm 2018, Volante Opera Productions đã sản xuất bản ghi demo tác 
 
 **Diễn viên:**
 
-Ulmo, Chúa tể vùng nước (Bass):  Martin Lloyd
+Ulmo, Chúa tể các dòng nước (Bass):  Martin Lloyd
 
-Turgon, Vua của Gondolin (Bass):  George Newton-Fitzgerald
+Turgon, Vua Gondolin (Bass):  George Newton-Fitzgerald
 
 Aredhel, em gái ông (Mezzo-Soprano):  Louise Ratcliffe
 

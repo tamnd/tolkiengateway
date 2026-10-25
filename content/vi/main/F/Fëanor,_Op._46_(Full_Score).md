@@ -22,4 +22,4 @@ images:
 
 Đây là bản hòa tấu hoàn chỉnh có phần giới thiệu và tóm tắt của nhà soạn nhạc.
 
-Minh họa bìa: TED NASMITH ©2022 “Morgoth và Đại Vương của Noldor"
+Minh họa bìa: TED NASMITH ©2022 “Morgoth và Đại Vương Noldor"

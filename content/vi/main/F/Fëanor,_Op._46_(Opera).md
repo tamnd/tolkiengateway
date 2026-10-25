@@ -73,7 +73,7 @@ Thế giới được tạo ra bởi Ilúvatar, Đấng duy nhất, từ sự h�
 
 <br> **Sự thức tỉnh (Cảnh một)**
 
-Trưởng lão Vua tuyên bố đã đến lúc Con đầu lòng Những Người Con của Ilúvatar, Tiên tộc, sẽ thức dậy sau giấc ngủ.  Elbereth tạo ra những ngôi sao mới để báo trước sự xuất hiện của chúng.  Tiên tộc xuất hiện bên Dòng nước thức tỉnh, ở cực đông của Trung Địa và nhìn lên các vì sao.
+Vị Vua Cổ Xưa tuyên bố đã đến lúc Con đầu lòng Những Người Con của Ilúvatar, Tiên tộc, sẽ thức dậy sau giấc ngủ.  Elbereth tạo ra những ngôi sao mới để báo trước sự xuất hiện của chúng.  Tiên tộc xuất hiện bên Dòng nước thức tỉnh, ở cực đông của Trung Địa và nhìn lên các vì sao.
 
 **Cảnh Kẻ Thù (Cảnh hai)**
 
@@ -81,7 +81,7 @@ Melkor Kẻ Thù đi xuống Tiên tộc và tìm cách làm hỏng chúng.  Va
 
 **Cảnh Silmaril (Cảnh ba)**
 
-Tại Tirion, thành phố chính của Tiên tộc ở Vương quốc Phước lành, Finwë Vua của Tiên tộc và vợ Miriel có một con trai, Fëanor; nhưng linh hồn của Miriel đã bị tiêu hao trong quá trình sinh nở, và bà chuyển đến vương quốc của Mandos Thần Chết.  Finwë tái hôn và có thêm hai người con, Fingolfin và Finarfin, do đó là anh em cùng cha khác mẹ của Fëanor.  Fëanor tạo hình ba viên ngọc vĩ đại, Silmaril, từ ánh sáng hòa quyện của Hai Cây, và chúng được Valar thần thánh.
+Tại Tirion, thành phố chính của Tiên tộc ở Cõi Phúc lành, Finwë Vua của Tiên tộc và vợ Miriel có một con trai, Fëanor; nhưng linh hồn của Miriel đã bị tiêu hao trong quá trình sinh nở, và bà chuyển đến vương quốc của Mandos Thần Chết.  Finwë tái hôn và có thêm hai người con, Fingolfin và Finarfin, do đó là anh em cùng cha khác mẹ của Fëanor.  Fëanor tạo hình ba viên ngọc vĩ đại, Silmaril, từ ánh sáng hòa quyện của Hai Cây, và chúng được Valar thần thánh.
 
 <br> **Sự trục xuất (Cảnh bốn)**
 
@@ -91,7 +91,7 @@ Melkor thèm muốn Silmaril và gieo rắc sự bất hòa giữa Fëanor và n
 
 Melkor tìm kiếm Ungoliant, Con nhện vĩ đại, và đề nghị với bà tất cả những gì bà mong muốn nếu bà giúp đỡ ông.  Fëanor và Fingolfin đã được hòa giải, và Fingolfin hứa sẽ theo Fëanor đến bất cứ nơi nào ông có thể lãnh đạo.  Nhưng Melkor và Ungoliant đã đến Cõi Phúc lành và phá hủy Hai Cây. Elbereth nói rằng với việc sử dụng Silmarils, bà có thể khôi phục ánh sáng cho Vương quốc, nhưng Fëanor phản ánh lời nói của Melkor từ chối giao nộp chúng.  Con trai của Fëanor, Maedhros vội vàng nói với Valar rằng Melkor đã đến thành trì của Fëanor và sau khi giết chết Vua Finwë, đã đánh cắp những viên Silmarils.  Fëanor nguyền rủa Melkor, đặt tên ông là Morgoth, Kẻ thù đen của thế giới, trong khi chính kẻ thù đã giành lấy phần thưởng của mình và vượt qua Băng hẹp đến Trung Địa để củng cố bản thân trong thành trì Angband của mình.
 
-<br> **Chuyến bay của Noldor (Cảnh sáu)**
+<br> **Cuộc Di Tản của người Noldor (Cảnh sáu)**
 
 Fëanor triệu tập Tiên tộc đi theo mình để truy đuổi Morgoth, tìm cách dùng vũ lực để thu hồi Silmaril.  Ông và các con trai của mình thề sẽ báo thù và sẽ tiêu diệt bất cứ ai tìm cách giữ Silmaril khỏi tay họ.  Elder Vua cảnh báo Fëanor rằng việc theo đuổi Morgoth của ông là vô ích, nhưng Fëanor vẫn không hề lay chuyển.
 
@@ -133,7 +133,7 @@ Mandos, Kẻ thống trị cõi chết (Baritone): Julian Boyce
 
 Elbereth, Nữ hoàng ánh sáng (Giọng nữ cao): Emma Mary Llewellyn
 
-Trưởng lão Vua, Chúa tể của Valar (Bass): George Newton-Fitzgerald
+Vị Vua Cổ Xưa, Chúa tể của Valar (Bass): George Newton-Fitzgerald
 
 Maedhros, Con trai của Fëanor (Bass-Baritone): Stephen Wells
 

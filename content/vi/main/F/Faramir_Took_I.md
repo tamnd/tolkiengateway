@@ -61,7 +61,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Faramir là con trai của [Thain Peregrin Took tôi](../P/Peregrin_Took.md) và [Diamond của Long Cleeve](../D/Diamond_of_Long_Cleeve.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Ông được đặt theo tên của [Faramir](Faramir.md), [Thân vương của Ithilien](../P/Prince_of_Ithilien.md) ở [Gondor](../G/Gondor.md) viễn Nam, một người bạn tốt của cha ông. Năm [S.R.](../S/Shire_Reckoning.md) [1463](Fourth_Age_42.md) anh kết hôn với [Goldilocks Gardner](../G/Goldilocks_Gardner.md), con gái thứ ba của [Samwise Gamgee](../S/Samwise_Gamgee.md). Ông kế vị cha mình khi Peregrin chuyển đến [Gondor](../G/Gondor.md) ở [S.R.](../S/Shire_Reckoning.md) [1484](Fourth_Age_63.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Faramir là con trai của [Thain Peregrin Took tôi](../P/Peregrin_Took.md) và [Diamond của Long Cleeve](../D/Diamond_of_Long_Cleeve.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Ông được đặt theo tên của [Faramir](Faramir.md), [Thân vương Ithilien](../P/Prince_of_Ithilien.md) ở [Gondor](../G/Gondor.md) viễn Nam, một người bạn tốt của cha ông. Năm [S.R.](../S/Shire_Reckoning.md) [1463](Fourth_Age_42.md) anh kết hôn với [Goldilocks Gardner](../G/Goldilocks_Gardner.md), con gái thứ ba của [Samwise Gamgee](../S/Samwise_Gamgee.md). Ông kế vị cha mình khi Peregrin chuyển đến [Gondor](../G/Gondor.md) ở [S.R.](../S/Shire_Reckoning.md) [1484](Fourth_Age_63.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

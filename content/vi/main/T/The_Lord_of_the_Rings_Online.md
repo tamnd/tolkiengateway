@@ -265,7 +265,7 @@ Giao diện người chơi còn cung cấp các chức năng khác trong trò ch
 - **Nhóm [Dourhands](../D/Dourhands.md)** là một tộc người lùn liên kết với lực lượng của [Angmar](../A/Angmar.md). Họ là những người lùn ở lại để xây dựng lại các Người Lùn Sảnh trong [Dãy Núi Xanh](../B/Blue_Mountains.md) đã bị phá hủy trong [War of Wrath](../W/War_of_Wrath.md).
 - **Gúrzyul** là những người Númenor da đen quyền lực, phục vụ gần cấp cao nhất trong chuỗi chỉ huy ở Mordor.
 - Các **[Inklings](../I/Inklings.md)** là một nhóm [Hobbit](../H/Hobbits.md)-tác giả thảo luận về văn học. Họ gặp nhau tại [Nhà trọ chim và em bé](The_Eagle_and_Child.md). Các thành viên nổi bật là [Ronald Dwale](../J/J.R.R._Tolkien.md), [Owen Farfield](../O/Owen_Barfield.md), [Carlo Williams](../C/Charles_Williams.md) và [Jack Lewisdown](../C/C.S._Lewis.md). Nhóm và các thành viên dựa trên [Inklings](../I/Inklings.md) thực.
-- **Iron Garrison** là một nhóm Râu dài Người Lùn tìm cách tìm [Balin](../B/Balin.md) và chiếm lại Mỏ của Moria.
+- **Iron Garrison** là một nhóm Người Lùn Râu Dài tìm cách tìm [Balin](../B/Balin.md) và chiếm lại Mỏ của Moria.
 - **Những chiếc rìu mập mạp** là một Gia tộc Người Lùn bị mất làm nô lệ ở Mordor. Cuối cùng họ đã được giải thoát sau sự sụp đổ của Sauron.
 - Nhóm **Ba chiến binh** là bộ ba Rohirrim những người tìm kiếm cuộc phiêu lưu.
 - **Zhelruka** là một Gia tộc phía đông của Người Lùn đã di cư về phía tây sau Cuộc chiến Nhẫn.
@@ -281,7 +281,7 @@ Giao diện người chơi còn cung cấp các chức năng khác trong trò ch
 
 - **Agamaur** là một đầm lầy rộng lớn của [Vùng đất đơn độc](../L/Lone-lands.md). Đó là nơi diễn ra trận chiến lớn giữa [Arthedain](../A/Arthedain.md), [Cardolan](../C/Cardolan.md) và [Rhudaur](../R/Rhudaur.md). Về phía tây là tàn tích của Ost Guruth, một pháo đài [Arnor](../A/Arnor.md) được người du mục Eglain tuyên bố chủ quyền. Ở phía đông là tàn tích của Garth Agarwen, pháo đài Rhudaur được cai trị bởi [Hill-men](../H/Hill-men.md) trung thành với Nữ Thiếu Nữ Đỏ bí ẩn.
 - **[Nhà trọ Bird and Baby](The_Eagle_and_Child.md)** là một quán trọ ở [Michel Delving](../M/Michel_Delving.md).
-- **[Esteldin](../E/Esteldin.md)** là tàn tích của Arnor ở [North Downs](../N/North_Downs.md). Vào thời điểm [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), nó được sử dụng làm căn cứ hoạt động của [Biệt đội miền Bắc](../R/Rangers_of_the_North.md).
+- **[Esteldin](../E/Esteldin.md)** là tàn tích của Arnor ở [North Downs](../N/North_Downs.md). Vào thời điểm [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), nó được sử dụng làm căn cứ hoạt động của [Tuần Du Nhân phương Bắc](../R/Rangers_of_the_North.md).
 - **Falathlorn** là một vùng xanh và xinh đẹp của [Ered Luin](../E/Ered_Luin.md) được Tiên tộc ưa chuộng. Nó chứa Elvish thiên đường của [Duillond](../D/Duillond.md) và [Celondim](../C/Celondim.md). Cách khu vực này không xa là Vùng đất thấp lạnh giá, nơi tọa lạc của các thành phố Người Lùn [Gondamon](../G/Gondamon.md) và [Kheledûl](../K/Kheledûl.md).
 - **Galtrev** là một trong những thị trấn lớn nhất của [Dunland](../D/Dunland.md), thủ đô trên danh nghĩa của đất nước.
 - **Lhanuch** là một ngôi làng chính trong số [Dunlendings](../D/Dunlendings.md) của [Enedwaith](../E/Enedwaith.md).

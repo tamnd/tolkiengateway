@@ -47,7 +47,7 @@ images:
 <li><a href="The_Death_of_Túrin.md" title="The Death of Túrin">Cái chết của Túrin</a></li></ol>
 </td></tr></tbody></table>
 
-**Trận chiến của những giọt nước mắt không đếm được** là chương thứ hai của *[The Children of Húrin](The_Children_of_Húrin.md)*.
+**Trận chiến Nước mắt Vô số** là chương thứ hai của *[The Children of Húrin](The_Children_of_Húrin.md)*.
 
 ## Tóm tắt {#Synopsis}
 

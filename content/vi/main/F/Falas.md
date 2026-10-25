@@ -67,7 +67,7 @@ Falas chỉ thỉnh thoảng xuất hiện trong các sự kiện của [Kỷ Đ
 
 [Nargothrond](../N/Nargothrond.md) có liên minh với Falas. Trong [Cuộc vây hãm Angband](../S/Siege_of_Angband.md) ([K.Đ.N.](First_Age.md) [65](First_Age_65.md)),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> [các Tiên tộc Nargothrond](../E/Elves_of_Nargothrond.md) đã giúp người Falathrim xây dựng lại hai Bến cảng, khiến chúng trở nên mỹ lệ và vững chắc. Họ cũng xây dựng Barad Nimras để canh chừng các cuộc tấn công từ biển của [Morgoth](../M/Morgoth.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Các Bến cảng của Falas cuối cùng đã bị [phá hủy](Fall_of_the_Falas.md) vào năm [K.Đ.N.](First_Age.md) [473](First_Age_473.md), và người của Círdan chạy trốn đến [Cửa sông Sirion](../M/Mouths_of_Sirion.md) và [Đảo Balar](../I/Isle_of_Balar.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Các Bến Cảng Falas cuối cùng đã bị [phá hủy](Fall_of_the_Falas.md) vào năm [K.Đ.N.](First_Age.md) [473](First_Age_473.md), và người của Círdan chạy trốn đến [Cửa sông Sirion](../M/Mouths_of_Sirion.md) và [Đảo Balar](../I/Isle_of_Balar.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

@@ -73,7 +73,7 @@ Trò chơi đố vui của     4. Bilbo và Gollum– *Solomon and Saturn II*; *
     10. Boromir Cái chết – *Beowulf*
 Danh sách của     11. Treebeard– *Maxims II*
     12. Các Rohirrim – *The Wanderer* và *Beowulf*
-    13. Trận chiến cánh đồng Pelennor, Cái chết của Théoden và Sự xuất hiện của Mûmakil – *The Battle of Maldon*, *Homily on the Maccabees* của Ælfric và *Getica* của Jordanes
+    13. Trận chiến tại cánh đồng Pelennor, Cái chết của Théoden và Sự xuất hiện của Mûmakil – *The Battle of Maldon*, *Homily on the Maccabees* của Ælfric và *Getica* của Jordanes
     14. Phong cảnh Mordor – *Beowulf* và *Sir Gawain and the Green Knight*
     15. Hành trình cuối cùng – *The Seafarer*
 

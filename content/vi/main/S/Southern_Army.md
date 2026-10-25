@@ -17,7 +17,7 @@ langlinks:
     url: "https://kontu.wiki/Etel%C3%A4armeija"
 ---
 
-**Quân đội miền Nam** là quân đội nhỏ hơn trong số hai đội quân được thành lập bởi Vua [Ondoher](../O/Ondoher.md) của [Gondor](../G/Gondor.md), để bảo vệ vương quốc của mình trước mối đe dọa kép từ [Wainriders](../W/Wainriders.md) ở phía đông bắc và [Haradrim](../H/Haradrim.md) ở phía nam. Quyền chỉ huy Quân đội miền Nam được trao cho [Eärnil](../E/Eärnil_II.md), hậu duệ của dòng dõi hoàng gia Gondor.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Quân đội phương Nam** là quân đội nhỏ hơn trong số hai đội quân được thành lập bởi Vua [Ondoher](../O/Ondoher.md) của [Gondor](../G/Gondor.md), để bảo vệ vương quốc của mình trước mối đe dọa kép từ [Wainriders](../W/Wainriders.md) ở phía đông bắc và [Haradrim](../H/Haradrim.md) ở phía nam. Quyền chỉ huy Quân đội phương Nam được trao cho [Eärnil](../E/Eärnil_II.md), hậu duệ của dòng dõi hoàng gia Gondor.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

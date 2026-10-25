@@ -36,7 +36,7 @@ infobox:
 
 Chính tại Undertowers, con gái của [Sam](../S/Samwise_Gamgee.md) [Elanor Gardner](../E/Elanor_Gardner.md) đã định cư với [Fastred của Greenholm](../F/Fastred_of_Greenholm.md) vào khoảng [S.R.](../S/Shire_Reckoning.md) [1462](../F/Fourth_Age_41.md). Vì vậy, [Gia đình Fairbairn](../F/Fairbairn_Family~66364.md), [Những người bảo vệ của Westmarch](../W/Warden_of_Westmarch.md) cha truyền con nối đã được thành lập.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Undertowers là một trong ba địa điểm của Shire có thư viện và bộ sưu tập tài liệu lịch sử lớn nhất, những địa điểm còn lại là [Brandy Hall](../B/Brandy_Hall.md) và [Great Smials](../G/Great_Smials.md). Thư viện của nó chứa [Red Book of Westmarch](../R/Red_Book_of_Westmarch.md), ghi lại [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md) và [Ngày của Người cao tuổi](../E/Elder_Days.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Undertowers là một trong ba địa điểm của Shire có thư viện và bộ sưu tập tài liệu lịch sử lớn nhất, những địa điểm còn lại là [Brandy Hall](../B/Brandy_Hall.md) và [Great Smials](../G/Great_Smials.md). Thư viện của nó chứa [Red Book of Westmarch](../R/Red_Book_of_Westmarch.md), ghi lại [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md) và [Thời Cổ xưa](../E/Elder_Days.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

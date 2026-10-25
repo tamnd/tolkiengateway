@@ -140,7 +140,7 @@ infobox:
 - *Three of Wands*: [Bilbo](../B/Bilbo_Baggins.md) nhập [Cửa Sau](../B/Back_Door.md)
 - *Four of Wands*: [Công ty](Thorin_and_Company.md) tại [Long Lake](../L/Long_Lake.md)
 - *Five of Wands*: [Goblin](../O/Orcs.md) phục kích [Đại đội](Thorin_and_Company.md) trong hang động
-- *Six of Wands*: [Gandalf](../G/Gandalf.md) và [nhóm Người Lùn](Thorin_and_Company.md) chiến đấu với lực lượng của [Thị trấn yêu tinh](../G/Goblin-town.md)
+- *Six of Wands*: [Gandalf](../G/Gandalf.md) và [nhóm Người Lùn](Thorin_and_Company.md) chiến đấu với lực lượng của [Thị trấn Goblin](../G/Goblin-town.md)
 - *Seven of Wands*: Một [Warg](../W/Wargs.md) hú lên sau khi bị đốt cháy bởi những quả thông do [Thorin và Đoàn tùy tùng](Thorin_and_Company.md) ném xuống
 - *Eight of Wands*: Các [Đại Bàng](../E/Eagles.md) đến giải cứu [Thorin và Đoàn tùy tùng](Thorin_and_Company.md) khỏi [Warg](../W/Wargs.md) và [Goblin](../O/Orcs.md)
 - *Nine of Wands*: Một [Người khổng lồ bằng đá](../G/Giants.md), chuẩn bị ném một tảng đá
@@ -148,4 +148,4 @@ infobox:
 - *Page of Wands*: [Bilbo](../B/Bilbo_Baggins.md) đọc [Bản đồ của Thrór](Thrór's_Map.md)
 - *Knight of Wands*: [Bilbo](../B/Bilbo_Baggins.md) cầm [cái Arkenstone](../A/Arkenstone.md)
 - *Queen of Wands*: Một [phụ nữ](../L/Lake-men.md) [Thị trấn Hồ](../L/Lake-town.md) bán [táo](../A/Apples.md) cho khách du lịch
-- *King of Wands*: [Chúa tể của Đại Bàng](../G/Great_Eagle.md)
+- *King of Wands*: [Chúa tể Đại Bàng](../G/Great_Eagle.md)

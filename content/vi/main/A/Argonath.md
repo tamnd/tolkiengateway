@@ -92,7 +92,7 @@ Vào ngày [25 tháng 2](../_/25_February.md) năm [T.A.](../T/Third_Age.md) [30
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong những ghi chú viết bằng bút chì cho chương mà sau này trở thành "[Dòng Sông Lớn](../T/The_Great_River.md)", [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đầu tiên sử dụng tên *Sern Erain*, rồi sau đó là tên *Sarn Aran*, được ông dịch là “Những Hòn đá của Vua”.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>
+Trong những ghi chú viết bằng bút chì cho chương mà sau này trở thành "[Dòng Đại Hà](../T/The_Great_River.md)", [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đầu tiên sử dụng tên *Sern Erain*, rồi sau đó là tên *Sarn Aran*, được ông dịch là “Những Hòn đá của Vua”.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>
 
 ## Cảm hứng {#Inspiration}
 

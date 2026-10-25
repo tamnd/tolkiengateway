@@ -46,7 +46,7 @@ infobox:
 
 **Galathilion**, **Cây Trắng**, là một cái cây được [Yavanna](../Y/Yavanna.md) tạo ra cho [Tiên tộc](../E/Elves.md) của thành phố [Tirion](../T/Tirion.md). Nó được làm theo hình ảnh của [Telperion](../T/Telperion.md), vì [Amanyar](../A/Amanyar.md) yêu thích nó nhất trong [Hai Cây](../T/Two_Trees.md), mặc dù Galathilion không phát ra ánh sáng.<sup id="cite_ref-s5_1-0" class="reference"><a href="#cite_note-s5-1">[1]</a></sup>
 
-Nó mọc ở [Quảng trường Lớn](Great_Square.md), một khoảng sân rộng mở bên dưới [Mindon Eldaliéva](../M/Mindon_Eldaliéva.md) và có nhiều cây con ở [Eldamar](../E/Eldamar.md). Từ đó nó ra đời [Celeborn](../C/Celeborn,_White_Tree.md), Cây Trắng của [Tol Eressëa](../T/Tol_Eressëa.md);<sup id="cite_ref-s5_1-1" class="reference"><a href="#cite_note-s5-1">[1]</a></sup> qua đó nó trở thành tổ tiên của [Nimloth của Númenor](../N/Nimloth_of_Númenor.md) và [Cây Trắng của Gondor](../W/White_Tree_of_Gondor.md).<sup id="cite_ref-Ak_2-0" class="reference"><a href="#cite_note-Ak-2">[2]</a></sup>
+Nó mọc ở [Quảng trường Lớn](Great_Square.md), một khoảng sân rộng mở bên dưới [Mindon Eldaliéva](../M/Mindon_Eldaliéva.md) và có nhiều cây con ở [Eldamar](../E/Eldamar.md). Từ đó nó ra đời [Celeborn](../C/Celeborn,_White_Tree.md), Cây Trắng của [Tol Eressëa](../T/Tol_Eressëa.md);<sup id="cite_ref-s5_1-1" class="reference"><a href="#cite_note-s5-1">[1]</a></sup> qua đó nó trở thành tổ tiên của [Nimloth của Númenor](../N/Nimloth_of_Númenor.md) và [Cây Trắng Gondor](../W/White_Tree_of_Gondor.md).<sup id="cite_ref-Ak_2-0" class="reference"><a href="#cite_note-Ak-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

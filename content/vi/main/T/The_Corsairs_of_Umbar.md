@@ -43,7 +43,7 @@ Chiếc [Hải tặc Umbar](../C/Corsairs_of_Umbar.md) đi ngang qua bờ nơi c
 
 Legolas và Gimli kể lại diễn biến của cảnh này trong [Cuộc tranh luận cuối cùng](The_Last_Debate.md)
 
-- Không rõ liệu Đội quân của người chết có thể gây tổn hại về thể chất hay không. Vũ khí duy nhất của họ là khả năng gây ra nỗi sợ hãi mạnh đến mức tất cả đàn ông đều nhảy xuống biển.<sup id="cite_ref-Debate_1-0" class="reference"><a href="#cite_note-Debate-1">[1]</a></sup>
+- Không rõ liệu Đội quân Người Chết có thể gây tổn hại về thể chất hay không. Vũ khí duy nhất của họ là khả năng gây ra nỗi sợ hãi mạnh đến mức tất cả đàn ông đều nhảy xuống biển.<sup id="cite_ref-Debate_1-0" class="reference"><a href="#cite_note-Debate-1">[1]</a></sup>
 - Sau khi đánh bại hạm đội, Aragorn đã thực hiện lời thề và thả họ.<sup id="cite_ref-Debate_1-1" class="reference"><a href="#cite_note-Debate-1">[1]</a></sup>
 - Hạm đội chính của Umbar có năm mươi tàu lớn và các tàu nhỏ hơn không thể đếm được.<sup id="cite_ref-Debate_1-2" class="reference"><a href="#cite_note-Debate-1">[1]</a></sup>
 - Họ giải phóng nô lệ trên tàu, những người sau đó đã hỗ trợ họ.<sup id="cite_ref-Debate_1-3" class="reference"><a href="#cite_note-Debate-1">[1]</a></sup> Điều này không được thể hiện trong phim.

@@ -78,7 +78,7 @@ infobox:
 - [*Amon Hen* 97](../A/Amon_Hen_97.md): "Vài suy nghĩ về ông già liễu" của Dylan Pugh
 - [*Amon Hen* 98](../A/Amon_Hen_98.md): "Về Ham, và điều gì đã xảy ra với nó" của [Brin Dunsire](../B/Brin_Dunsire.md)
 - [*Amon Hen* 99](../A/Amon_Hen_99.md): "Kết nối Einstein" của Marc Read
-- [*Amon Hen* 100](../A/Amon_Hen_100.md): "Lá từ cây tiệc tùng" của [Vera Chapman](../V/Vera_Chapman.md)
+- [*Amon Hen* 100](../A/Amon_Hen_100.md): "Lá từ Cây Hội Tiệc" của [Vera Chapman](../V/Vera_Chapman.md)
 - [*Amon Hen* 100](../A/Amon_Hen_100.md): "Danh tiếng học thuật củaTolkien hiện nay" của [Tom Shippey](Tom_Shippey.md)
 - [*Amon Hen* 102](../A/Amon_Hen_102.md): "The Icing on the Cape" của [Alex Lewis](../A/Alex_Lewis.md)
 - [*Amon Hen* 103](../A/Amon_Hen_103.md): "The Miệng của Sauron" của Lyn Ritchie

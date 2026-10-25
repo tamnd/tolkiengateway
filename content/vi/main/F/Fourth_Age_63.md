@@ -23,14 +23,14 @@ Các sự kiện đáng chú ý trong năm nay bao gồm:
 ## Mùa xuân {#Spring}
 
 - [Meriadoc Brandybuck](../M/Meriadoc_Brandybuck.md) nhận được tin nhắn từ [Vua](../K/Kings_of_Rohan.md) [Éomer](../_/Éomer.md) rằng muốn gặp ông.<sup id="cite_ref-Later_1-0" class="reference"><a href="#cite_note-Later-1">[1]</a></sup>
-- Meriadoc xin ý kiến của [Peregrin Took](../P/Peregrin_Took.md); họ để lại tài sản cho con trai, Pippin mang theo bản sao [Thain Sách](../T/Thain's_Book.md)<sup id="cite_ref-records_2-0" class="reference"><a href="#cite_note-records-2">[2]</a></sup> và họ khởi hành [con Shire](../T/The_Shire.md) từ [Sarn Ford](../S/Sarn_Ford.md) vào miền nam.<sup id="cite_ref-Later_1-1" class="reference"><a href="#cite_note-Later-1">[1]</a></sup>
+- Meriadoc xin ý kiến của [Peregrin Took](../P/Peregrin_Took.md); họ để lại tài sản cho con trai, Pippin mang theo bản sao [Sách Thain](../T/Thain's_Book.md)<sup id="cite_ref-records_2-0" class="reference"><a href="#cite_note-records-2">[2]</a></sup> và họ khởi hành [con Shire](../T/The_Shire.md) từ [Sarn Ford](../S/Sarn_Ford.md) vào miền nam.<sup id="cite_ref-Later_1-1" class="reference"><a href="#cite_note-Later-1">[1]</a></sup>
 - [Faramir Taken I](Faramir_Took_I.md) kế vị cha mình Peregrin Took làm [Thain](../T/Thain.md) của [người Shire](../T/The_Shire.md).<sup id="cite_ref-Later_1-2" class="reference"><a href="#cite_note-Later-1">[1]</a></sup>
 
 ## Mùa thu {#Autumn}
 
 - Cái chết của [Vua](../K/Kings_of_Rohan.md) [Éomer](../_/Éomer.md).<sup id="cite_ref-Later_1-3" class="reference"><a href="#cite_note-Later-1">[1]</a></sup><sup id="cite_ref-mark_3-0" class="reference"><a href="#cite_note-mark-3">[3]</a></sup><sup id="cite_ref-note_4-0" class="reference"><a href="#cite_note-note-4">[note 1]</a></sup>
 - [Elfwine](../E/Elfwine.md), con trai của Éomer, trở thành Vua thứ mười chín của [Rohan](../R/Rohan.md).<sup id="cite_ref-mark_3-1" class="reference"><a href="#cite_note-mark-3">[3]</a></sup>
-- Meriadoc Brandybuck và Peregrin Took sau đó đi tiếp đến [Gondor](../G/Gondor.md).<sup id="cite_ref-Later_1-4" class="reference"><a href="#cite_note-Later-1">[1]</a></sup> Peregrin mang theo bản sao của [Thain Sách](../T/Thain's_Book.md).<sup id="cite_ref-records_2-1" class="reference"><a href="#cite_note-records-2">[2]</a></sup>
+- Meriadoc Brandybuck và Peregrin Took sau đó đi tiếp đến [Gondor](../G/Gondor.md).<sup id="cite_ref-Later_1-4" class="reference"><a href="#cite_note-Later-1">[1]</a></sup> Peregrin mang theo bản sao của [Sách Thain](../T/Thain's_Book.md).<sup id="cite_ref-records_2-1" class="reference"><a href="#cite_note-records-2">[2]</a></sup>
 
 ## Ghi chú {#Notes}
 

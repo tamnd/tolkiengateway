@@ -19,7 +19,7 @@ images:
 - ** [Trận Dagorlad](Battle_of_Dagorlad.md) ([S.A.](../S/Second_Age.md) [3434](../S/Second_Age_3434.md)), trận chiến đầu tiên được ghi chép trong [Cuộc chiến của Liên minh cuối cùng](../W/War_of_the_Last_Alliance.md).**
 - Một [trận chiến](../S/Second_Battle_of_Dagorlad~64113.md) ([T.A.](../T/Third_Age.md) [1899](../T/Third_Age_1899.md)) không tên giữa [Calimehtar](<../C/Calimehtar_(King_of_Gondor).md>) và [Wainriders](../W/Wainriders.md).
 - [Thảm họa của Morannon](../D/Disaster_of_the_Morannon.md) ([T.A.](../T/Third_Age.md) [1944](../T/Third_Age_1944.md)), giữa [Vua](../K/Kings_of_Gondor.md) [Ondoher](../O/Ondoher.md) của [Gondor](../G/Gondor.md) và [Wainriders](../W/Wainriders.md).
-- [Trận chiến trong Trại](Battle_of_the_Camp.md) (cũng là [T.A.](../T/Third_Age.md) [1944](../T/Third_Age_1944.md)), giữa [Vua](../K/Kings_of_Gondor.md) [Eärnil II](../E/Eärnil_II.md) của [Gondor](../G/Gondor.md) và [Wainriders](../W/Wainriders.md).
+- [Trận chiến tại Trại](Battle_of_the_Camp.md) (cũng là [T.A.](../T/Third_Age.md) [1944](../T/Third_Age_1944.md)), giữa [Vua](../K/Kings_of_Gondor.md) [Eärnil II](../E/Eärnil_II.md) của [Gondor](../G/Gondor.md) và [Wainriders](../W/Wainriders.md).
 - [Trận chiến Morannon](Battle_of_the_Morannon.md) ([25 tháng 3](../_/25_March.md), [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md)), giữa <a class="mw-redirect mw-disambig" href="../H/Host_of_the_West.md" title="Host of the West">Chủ nhà phương Tây</a> và lực lượng của [Sauron](../S/Sauron.md).
 
 <hr style="margin-top:15px;"/>

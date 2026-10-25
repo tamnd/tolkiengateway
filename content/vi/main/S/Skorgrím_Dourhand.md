@@ -61,7 +61,7 @@ Sáu trăm năm sau, Ivar Bàn tay máu, một Gaunt-lord và một pháp sư h�
 
 ### Dịch vụ cho Angmar {#Service_to_Angmar}
 
-Trong hai năm tiếp theo, Skorgrím vẫn ở Ered Luin, tái xuất hiện khi ông cố gắng khơi dậy một cuộc chiến bằng cách thuê yêu tinh đột nhập và đánh cắp kho báu của Râu dài từ [Sảnh của Thorin](../T/Thorin's_Halls.md) và bắt cóc hoàng tử Yêu tinh Avorthal, buộc tội mỗi hành vi vi phạm ở phía bên kia. Rất may, sự lừa dối của ông đã bị phát hiện và lực lượng tổng hợp của [Dwalin](../D/Dwalin.md) và Dorongúr Whitethorn đã tấn công và đánh đuổi Skorgrím khỏi thung lũng Rath Teraig.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Trong hai năm tiếp theo, Skorgrím vẫn ở Ered Luin, tái xuất hiện khi ông cố gắng khơi dậy một cuộc chiến bằng cách thuê yêu tinh đột nhập và đánh cắp kho báu của Râu dài từ [Đại Sảnh của Thorin](../T/Thorin's_Halls.md) và bắt cóc hoàng tử Yêu tinh Avorthal, buộc tội mỗi hành vi vi phạm ở phía bên kia. Rất may, sự lừa dối của ông đã bị phát hiện và lực lượng tổng hợp của [Dwalin](../D/Dwalin.md) và Dorongúr Whitethorn đã tấn công và đánh đuổi Skorgrím khỏi thung lũng Rath Teraig.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 Skorgrím trốn đến [vùng đất Bree](../B/Bree-land.md), nơi ông phục vụ cho [Nazgûl](../N/Nazgûl.md) một thời gian, trước khi được [Dãy Núi Sương Mù](../M/Misty_Mountains.md) gửi đến [Vua Phù thủy](../W/Witch-king.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 

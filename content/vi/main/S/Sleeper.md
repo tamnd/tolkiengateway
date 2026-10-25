@@ -23,7 +23,7 @@ images:
 <p class="tg-quote-footer"><cite><a href="../T/Treebeard.md" title="Treebeard">Treebeard</a></cite></p>
 </blockquote></div></div>
 
-**Người ngủ** là một nhân vật bí ẩn sống trong [Tháp Ngọc](../T/Tower_of_Pearl.md) nằm ở mũi cực tây của [Quần đảo Twilit](../T/Twilit_Isles.md) theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Người ngủ** là một nhân vật bí ẩn sống trong [Tháp Ngọc](../T/Tower_of_Pearl.md) nằm ở mũi cực tây của [Quần đảo Chạng vạng](../T/Twilit_Isles.md) theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Trong chuyến du hành đến [Kôr](../K/Kôr.md), [Eärendel](../E/Eärendel.md) đã đánh thức Người Ngủ bằng [chồng](../G/Gong_of_the_Children.md) của [Littleheart](../L/Littleheart.md).<sup id="cite_ref-Earendel_2-0" class="reference"><a href="#cite_note-Earendel-2">[2]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:254</sup>
 

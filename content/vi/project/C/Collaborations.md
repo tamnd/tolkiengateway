@@ -38,7 +38,7 @@ Việc hợp tác được quyết định bởi [quản trị viên](../A/Admin
 - [Thảm họa Morannon](../../main/D/Disaster_of_the_Morannon.md)
 - [Cuộc cướp phá Eregion](../../main/S/Sack_of_Eregion.md)
 - [Sự sụp đổ của Falas](../../main/F/Fall_of_the_Falas.md)
-- [Trận chiến vùng đồng bằng](../../main/B/Battle_of_the_Plains.md)
+- [Trận chiến Đồng Bằng](../../main/B/Battle_of_the_Plains.md)
 - [Cuộc cướp phá Bar-en-Danwedh](../../main/S/Sack_of_Bar-en-Danwedh.md)
 
 ### The Hobbit Bài viết {#The_Hobbit_Articles}

@@ -22,7 +22,7 @@ langlinks:
 
 ## Lịch sử {#History}
 
-Vào [4 tháng 3](../_/4_March.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md) trong [Trận Hornburg](../B/Battle_of_the_Hornburg.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> khi [Orc](../O/Orcs.md) xâm nhập được [Bức tường sâu](../D/Deeping_Wall.md), [Gamling](../G/Gamling.md) đã kêu lên, "Helm! Helm! Forth Helmingas! " để tập hợp Rohirrim người bảo vệ [Hornburg](Hornburg.md) để đẩy lùi quân quân xâm lược.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Vào [4 tháng 3](../_/4_March.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md) trong [Trận Hornburg](../B/Battle_of_the_Hornburg.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> khi [Orc](../O/Orcs.md) xâm nhập được [Tường thành Deeping](../D/Deeping_Wall.md), [Gamling](../G/Gamling.md) đã kêu lên, "Helm! Helm! Forth Helmingas! " để tập hợp Rohirrim người bảo vệ [Hornburg](Hornburg.md) để đẩy lùi quân quân xâm lược.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

@@ -67,7 +67,7 @@ Khi cha và anh trai [Artamir](../A/Artamir.md) của ông tham chiến với [W
 
 Không hài lòng với vai trò đó, Faramir cải trang tiến ra giữa [Éothéod](../_/Éothéod.md). Tuy nhiên, anh đã bị bắt cùng một nhóm trong số họ khi họ rút lui về phía [Đầm lầy Chết](../D/Dead_Marshes.md). Thủ lĩnh [của Éothéod](../L/Leader_of_the_Éothéod.md) đã đến cứu họ nhưng Faramir đã chết trong vòng tay của ông. Sau khi khám xét thi thể ông phát hiện ra người lính chết chính là Thân vương của Gondor.
 
-Thủ lĩnh đã gia nhập [Minohtar](../M/Minohtar.md) ở đầu [Đường phía Bắc](../N/North_Road.md) ở [Ithilien](../I/Ithilien.md). Minohtar đang chuẩn bị nhắn tin gửi hoàng tử thì được tin hoàng tử đã tử trận.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup>
+Thủ lĩnh đã gia nhập [Minohtar](../M/Minohtar.md) ở đầu [Đường Bắc](../N/North_Road.md) ở [Ithilien](../I/Ithilien.md). Minohtar đang chuẩn bị nhắn tin gửi hoàng tử thì được tin hoàng tử đã tử trận.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup>
 
 ## Phả hệ {#Genealogy}
 

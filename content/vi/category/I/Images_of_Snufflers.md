@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Images of Orc-hunters"
 ---
 
-Chuyển hướng đến [Danh mục:Hình ảnh của Orc thợ săn](Images_of_Orc-hunters.md).
+Chuyển hướng đến [Danh mục:Hình ảnh của Thợ săn Orc](Images_of_Orc-hunters.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lord of the Eagles"
 ---
 
-Chuyển hướng đến [Chúa tể của Đại Bàng](Lord_of_the_Eagles.md).
+Chuyển hướng đến [Chúa tể Đại Bàng](Lord_of_the_Eagles.md).

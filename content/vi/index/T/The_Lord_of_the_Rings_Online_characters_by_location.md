@@ -29,7 +29,7 @@ Danh sách này bao gồm tất cả các ký tự từ [The Lord of the Rings O
 - [Amdir](<../../main/A/Amdir_(Shadows_of_Angmar).md>) (trong phần Giới thiệu)
 - [Aren Greyfeather](../../main/L/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_Bree-land.md#Aren_Greyfeather)
 - [Atli Spider-bane](../../main/A/Atli_Spider-bane.md) (sau phần giới thiệu)
-- [Thuyền trưởng Brackenbrook](../../main/C/Captain_Brackenbrook.md) (trong phần giới thiệu)
+- [Đại úy Brackenbrook](../../main/C/Captain_Brackenbrook.md) (trong phần giới thiệu)
 - [Cal Sprigley](../../main/L/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_Bree-land.md#Cal_Sprigley) (sau phần giới thiệu)
 - [Calder Cob](../../main/C/Calder_Cob.md) (trong phần Giới thiệu)
 - [Lông cây kế cảnh sát](../../main/L/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_Bree-land.md#Constable_Thistlewool)

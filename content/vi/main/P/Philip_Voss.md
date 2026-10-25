@@ -18,4 +18,4 @@ sort_keys:
   "People by name": "Voss, Philip"
 ---
 
-**Philip Voss** lồng tiếng cho phần [Chúa tể Nazgûl](../W/Witch-king.md) trong [The Lord of the Rings 1981 radio series](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) được phát sóng trên BBC 4.
+**Philip Voss** lồng tiếng cho phần [Chúa tể Nhẫn Ma](../W/Witch-king.md) trong [The Lord of the Rings 1981 radio series](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) được phát sóng trên BBC 4.

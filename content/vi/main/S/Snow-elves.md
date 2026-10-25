@@ -12,7 +12,7 @@ categories:
   - "Letters from Father Christmas"
 ---
 
-**Snow-Tiên tộc** sống ở Bắc Cực. Không có nhiều thông tin về Snow-Tiên tộc; có vẻ như họ mặc đồ màu trắng (không giống như [Đỏ](../R/Red_Elves.md) và [Xanh Tiên tộc](../G/Green-elves.md#Other_writings)), vì chúng hòa quyện với tuyết.<sup id="cite_ref-1929b_1-0" class="reference"><a href="#cite_note-1929b-1">[1]</a></sup>
+**Tiên tộc Tuyết** sống ở Bắc Cực. Không có nhiều thông tin về Tiên tộc Tuyết; có vẻ như họ mặc đồ màu trắng (không giống như [Đỏ](../R/Red_Elves.md) và [Xanh Tiên tộc](../G/Green-elves.md#Other_writings)), vì chúng hòa quyện với tuyết.<sup id="cite_ref-1929b_1-0" class="reference"><a href="#cite_note-1929b-1">[1]</a></sup>
 
 Tuyết-Tiên tộc chỉ xuất hiện một lần trong các câu chuyện về *[Father Christmas Letters](../L/Letters_from_Father_Christmas.md)*, tại lễ kỷ niệm mùa đông sắp đến. Lễ hội được tổ chức bởi [Ông già Noel](../F/Father_Christmas.md) và bao gồm cả Đốt lửa trại để mang lại niềm vui cho [North Polar Bear](../N/North_Polar_Bear.md). Trước sự ngạc nhiên của Ông già Noel và Gấu Bắc Cực, Tuyết-Tiên tộc đã phóng tất cả tên lửa — hàng trăm tên lửa — cùng nhau.<sup id="cite_ref-1929b_1-1" class="reference"><a href="#cite_note-1929b-1">[1]</a></sup>
 

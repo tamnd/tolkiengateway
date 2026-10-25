@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Queen of Númenor"
 ---
 
-Chuyển hướng tới [Nữ hoàng của Númenor](Queen_of_Númenor.md).
+Chuyển hướng tới [Nữ hoàng Númenor](Queen_of_Númenor.md).

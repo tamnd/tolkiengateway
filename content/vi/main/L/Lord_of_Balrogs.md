@@ -26,4 +26,4 @@ images:
 
 ## Liên kết ngoài {#External_links}
 
-- <cite class="citation cite-web"><span class="cite-web-author">Mark Fisher (5 tháng 7 năm 1998)</span>. <span class="cite-web-article"><a class="external text" href="http://www.glyphweb.com/arda/l/lordofbalrogs.html" rel="noreferrer noopener" target="_blank">"Chúa tể của Balrog"</a></span>. <span class="cite-web-website"><a href="../E/Encyclopedia_of_Arda.md" title="Encyclopedia of Arda">Bách khoa toàn thư về Arda</a></span></cite>
+- <cite class="citation cite-web"><span class="cite-web-author">Mark Fisher (5 tháng 7 năm 1998)</span>. <span class="cite-web-article"><a class="external text" href="http://www.glyphweb.com/arda/l/lordofbalrogs.html" rel="noreferrer noopener" target="_blank">"Chúa tể Balrog"</a></span>. <span class="cite-web-website"><a href="../E/Encyclopedia_of_Arda.md" title="Encyclopedia of Arda">Bách khoa toàn thư về Arda</a></span></cite>

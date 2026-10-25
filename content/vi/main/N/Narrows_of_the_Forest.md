@@ -18,7 +18,7 @@ langlinks:
     url: "https://www.tolkiendil.com/encyclo/geographie/forets/rhovanion/etranglement"
 ---
 
-**Vùng thu hẹp của rừng** là "eo" của [Mirkwood](../M/Mirkwood.md) do vết lõm của [phương Đông Bight](../E/East_Bight.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Ở phía tây của khu rừng có một vết lõm tự nhiên tương ứng ở ranh giới của rừng, nhưng phương Đông Bight được tạo ra do [Người phương Bắc](Northmen.md) chặt cây.<sup id="cite_ref-Narrows_2-0" class="reference"><a href="#cite_note-Narrows-2">[2]</a></sup> Hai vết lõm này cùng nhau thu hẹp Mirkwood đến dưới 100 dặm tại vị trí này và do đó có đủ phương tiện để băng qua rừng.
+**Vùng thu hẹp của rừng** là "eo" của [Mirkwood](../M/Mirkwood.md) do vết lõm của [Vịnh phía Đông](../E/East_Bight.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Ở phía tây của khu rừng có một vết lõm tự nhiên tương ứng ở ranh giới của rừng, nhưng Vịnh phía Đông được tạo ra do [Người phương Bắc](Northmen.md) chặt cây.<sup id="cite_ref-Narrows_2-0" class="reference"><a href="#cite_note-Narrows-2">[2]</a></sup> Hai vết lõm này cùng nhau thu hẹp Mirkwood đến dưới 100 dặm tại vị trí này và do đó có đủ phương tiện để băng qua rừng.
 
 Vào thời [Forthwini](../F/Forthwini.md) của [Éothéod](../_/Éothéod.md) vương quốc của ông gặp rắc rối bởi các cuộc tấn công của [Wainriders](../W/Wainriders.md) những kẻ đã đi qua Narrows cũng như lên Vale of the [Anduin](../A/Anduin.md). Những cuộc xâm nhập này đã khiến Forthwini gửi cảnh báo tới Vua [Ondoher](../O/Ondoher.md) rằng Wainriders đã phục hồi sức mạnh.<sup id="cite_ref-Narrows_2-1" class="reference"><a href="#cite_note-Narrows-2">[2]</a></sup>
 

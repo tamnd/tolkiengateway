@@ -81,4 +81,4 @@ Sự kiện xảy ra vào ngày 4 tháng 3.
     - [Gandalf](../G/Gandalf.md) và [Erkenbrand](../E/Erkenbrand.md) xuất hiện và hoàn thành [Trận Hornburg](../B/Battle_of_the_Hornburg.md).
     - [Théoden](../T/Théoden.md) và [Gandalf](../G/Gandalf.md) lên đường đến [Isengard](../I/Isengard.md) với đội bảo vệ gồm 20 Rohirrim. Họ đi qua những ngôi mộ của [Ford of Isen](../F/Fords_of_Isen.md).
     - Sông [Isen](../I/Isen.md) được khôi phục lại dòng chảy ban đầu.
-    - [Frodo](../F/Frodo_Baggins.md), [Sam](../S/Samwise_Gamgee.md) và [Gollum](../G/Gollum.md) chạm tới các ụ xỉ ở rìa [Sự hoang tàn của Morannon](../D/Desolation_of_the_Morannon.md).
+    - [Frodo](../F/Frodo_Baggins.md), [Sam](../S/Samwise_Gamgee.md) và [Gollum](../G/Gollum.md) chạm tới các ụ xỉ ở rìa [Vùng Hoang Tàn Morannon](../D/Desolation_of_the_Morannon.md).

@@ -26,7 +26,7 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Norbourn.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/0/07/The_Lord_of_the_Rings_Online_-_Norbourn.jpg/250px-The_Lord_of_the_Rings_Online_-_Norbourn.jpg" decoding="async" loading="lazy" width="250" height="141" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/07/The_Lord_of_the_Rings_Online_-_Norbourn.jpg/375px-The_Lord_of_the_Rings_Online_-_Norbourn.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/0/07/The_Lord_of_the_Rings_Online_-_Norbourn.jpg/500px-The_Lord_of_the_Rings_Online_-_Norbourn.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>Norbourn in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-**Norbourn** là một con sông ở [Northfarthing](Northfarthing.md) của [Shire](../T/The_Shire.md). Giữa nó và [Brandywine](../B/Brandywine.md) Sông trải dài [Greenfields](../G/Greenfields.md), nơi diễn ra [Trận chiến Greenfields](../B/Battle_of_Greenfields.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Norbourn** là một con sông ở [Northfarthing](Northfarthing.md) của [Shire](../T/The_Shire.md). Giữa nó và [Brandywine](../B/Brandywine.md) Sông trải dài [Greenfields](../G/Greenfields.md), nơi diễn ra [Trận chiến tại Greenfields](../B/Battle_of_Greenfields.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

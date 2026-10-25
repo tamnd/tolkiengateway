@@ -63,7 +63,7 @@ Một album nhạc phim bao gồm một bộ nhạc của [Stephen Oliver](../S/
 10. "Sự tan vỡ tình bạn", [Ngày 10 tháng 5](../_/10_May.md)
 11. "Những tay đua của Rohan", [17 tháng 5](../_/17_May.md)
 12. "Treebeard Của Fangorn", "[24 tháng 5](../_/24_May.md)
-13. "The Vua Của Sảnh Vàng", [Ngày 31 tháng 5](../_/31_May.md)
+13. "The Vua Của Đại Sảnh Vàng", [Ngày 31 tháng 5](../_/31_May.md)
 14. "Helm's Deep", [Ngày 7 tháng 6](../_/7_June.md)
 15. "The Voice Of Saruman", [Ngày 14 tháng 6](../_/14_June.md)
 16. " Cổng Đen đã đóng cửa", [Ngày 21 tháng 6](../_/21_June.md)
@@ -86,7 +86,7 @@ Một album nhạc phim bao gồm một bộ nhạc của [Stephen Oliver](../S/
 4. "The Ring Goes South", [Ngày 7 tháng 8](../_/7_August.md)
 5. "Tấm gương Galadriel", [14 tháng 8](../_/14_August.md)
 6. "Sự tan vỡ tình bạn", [21 tháng 8](../_/21_August.md)
-7. "The Vua Của Sảnh Vàng", [28 tháng 8](../_/28_August.md)
+7. "The Vua Của Đại Sảnh Vàng", [28 tháng 8](../_/28_August.md)
 8. "Tiếng Nói Của Saruman", [tháng Chín 4](../_/4_September.md)
 9. "The Two Towers", [tháng Chín 11](../_/11_September.md)
 10. "Sự lựa chọn của bậc thầy Samwise", [tháng Chín 18](../_/18_September.md)
@@ -106,7 +106,7 @@ Kịch bản của [Brian Sibley](../B/Brian_Sibley.md) và [Michael Bakewell](.
 Việc - Gandalf bị giam giữ tại [Isengard](../I/Isengard.md), trốn thoát qua [Gwaihir](../G/Gwaihir.md) và chuyến thăm [Edoras](../E/Edoras.md) của ông được đưa vào câu chuyện thay vì liên quan đến [Hội đồng Elrond](../C/Council_of_Elrond.md).
 - Chuyến thăm của [Nazgûl](../N/Nazgûl.md) tới Isengard để tìm kiếm thông tin về Shire và cuộc gặp gỡ của họ với [Gríma](../G/Gríma.md) được phỏng theo [Unfinished Tales](../U/Unfinished_Tales.md).
 - [Gildor Inglorion](../G/Gildor.md) không xuất hiện trong câu chuyện.
-- Sê-ri radio bỏ qua trình tự trong cuốn sách mà người hobbit ghé thăm với [Tom Bombadil](Tom_Bombadil.md). Tuy nhiên, khi làm như vậy, Hobbit không bao giờ được hiển thị để nhận [thanh kiếm](../B/Barrow-blade.md) của họ từ [Barrow-downs](../B/Barrow-downs.md), thanh kiếm này được yểm bùa bằng những phép thuật chống lại [Chúa tể của Nazgûl](../W/Witch-king.md). Điều này để lại những đề cập sau này về việc Frodo có một thanh kiếm trước [Sting](../S/Sting.md) và những thanh kiếm của Hobbit kia đến từ đâu mà không giải thích được. Sibley thừa nhận điều này sau đó, khi Merry đâm ông trong [Trận chiến trên Cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md). Thay vì yếu đi như trong sách, ông chỉ nói Merry đốt như một con muỗi. Tuy nhiên Miệng của Sauron vẫn mô tả lưỡi kiếm của Sam là "Thanh kiếm của sự sụp đổ Phương Tây".
+- Sê-ri radio bỏ qua trình tự trong cuốn sách mà người hobbit ghé thăm với [Tom Bombadil](Tom_Bombadil.md). Tuy nhiên, khi làm như vậy, Hobbit không bao giờ được hiển thị để nhận [thanh kiếm](../B/Barrow-blade.md) của họ từ [Barrow-downs](../B/Barrow-downs.md), thanh kiếm này được yểm bùa bằng những phép thuật chống lại [Chúa tể Nhẫn Ma](../W/Witch-king.md). Điều này để lại những đề cập sau này về việc Frodo có một thanh kiếm trước [Sting](../S/Sting.md) và những thanh kiếm của Hobbit kia đến từ đâu mà không giải thích được. Sibley thừa nhận điều này sau đó, khi Merry đâm ông trong [Trận chiến trên Cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md). Thay vì yếu đi như trong sách, ông chỉ nói Merry đốt như một con muỗi. Tuy nhiên Miệng của Sauron vẫn mô tả lưỡi kiếm của Sam là "Thanh kiếm của sự sụp đổ Phương Tây".
 Ngoại hình của - [Gloin](../G/Glóin.md) tại Rivendell bị cắt.
 - Mọi đề cập đến [Dáin Chân Sắt](../D/Dáin_Ironfoot.md) đều bị bỏ qua và [Gimli](../G/Gimli.md) nói rằng cha anh Gloin là người đã gặp người đưa tin Sauron.
 - [Tai họa của Durin](../D/Durin's_Bane.md) bị ghi nhầm là "người hầu của Sauron"
@@ -117,7 +117,7 @@ Cái chết thể xác của - [Gandalf](../G/Gandalf.md) bị lược bỏ kh�
 - Tại một thời điểm khi Gandalf liệt kê các vị trí của [Palantíri](../P/Palantíri.md), [Minas Anor](../M/Minas_Anor.md) và [Minas Tirith](../M/Minas_Tirith.md) được gọi như thể chúng là các thành phố riêng biệt; đây chỉ là những tên thay thế cho cùng một thành phố. Sau này Gandalf gọi chính xác Palantír của Minas Tirith là "Hòn đá Anor".
 - [Beregond](../B/Beregond.md) vai trò của ông trong cuốn sách bị cắt hoàn toàn và chỉ xuất hiện với tư cách là người đưa tin ẩn danh mang tin tức về trận chiến đến [Denethor](../D/Denethor.md).
 - Thân vương [Imrahil](../I/Imrahil.md) không xuất hiện trong câu chuyện.
-- Một phần của phân cảnh [Trận chiến cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md) được mô tả trong bài hát bởi một ca sĩ theo phong cách opera chứ không phải diễn xuất, điều này có thể khiến một số người nghe xa rời hành động. Những người khác có thể thấy thú vị về mối quan hệ giữa trình tự và phong cách kể chuyện của Eddic.
+- Một phần của phân cảnh [Trận chiến tại cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md) được mô tả trong bài hát bởi một ca sĩ theo phong cách opera chứ không phải diễn xuất, điều này có thể khiến một số người nghe xa rời hành động. Những người khác có thể thấy thú vị về mối quan hệ giữa trình tự và phong cách kể chuyện của Eddic.
 
 - Cuộc hành trình xuyên qua [Rừng Drúadan](../D/Drúadan_Forest.md) và liên minh sau đó với những người đàn ông hoang dã của [Ghân-buri-Ghân](../G/Ghân-buri-Ghân.md), hay còn gọi là "woses" bị loại khỏi bộ phim truyền hình.
 - Hành trình của đoàn quân từ Minas Tirith đến Morannon bị cắt bao gồm việc trùng tu tượng ở ngã tư và sự ra đi của những người yếu tim

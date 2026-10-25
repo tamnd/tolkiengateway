@@ -69,7 +69,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Vào [15 tháng 3](../M/March_15.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md)<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> sau khi Chúa tể của Nazgûl bị giết bởi [Éowyn](../_/Éowyn.md) trong [Trận chiến trên Cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md),<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Gothmog đã ra lệnh cho quân dự bị bao gồm [Easterlings](../E/Easterlings.md) với rìu, [Variags](../V/Variags.md) của [Khand](../K/Khand.md), [Người miền Nam](../H/Haradrim.md) trong trang phục màu đỏ và đen như [nửa quỷ lùn](../H/Half-trolls.md) với mắt trắng và lưỡi đỏ, đã được tích lũy tại thành phố đổ nát [Osgiliath](../O/Osgiliath.md) để tiến vào [cánh đồng Pelennor](../P/Pelennor_Fields.md) tấn công kỵ binh của [Rohirrim](../R/Rohirrim.md) và của [Gondor](Gondor.md).<sup id="cite_ref-Battle_1-1" class="reference"><a href="#cite_note-Battle-1">[1]</a></sup>
+Vào [15 tháng 3](../M/March_15.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md)<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> sau khi Chúa tể Nhẫn Ma bị giết bởi [Éowyn](../_/Éowyn.md) trong [Trận chiến trên Cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md),<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Gothmog đã ra lệnh cho quân dự bị bao gồm [Easterlings](../E/Easterlings.md) với rìu, [Variags](../V/Variags.md) của [Khand](../K/Khand.md), [Người miền Nam](../H/Haradrim.md) trong trang phục màu đỏ và đen như [nửa quỷ lùn](../H/Half-trolls.md) với mắt trắng và lưỡi đỏ, đã được tích lũy tại thành phố đổ nát [Osgiliath](../O/Osgiliath.md) để tiến vào [cánh đồng Pelennor](../P/Pelennor_Fields.md) tấn công kỵ binh của [Rohirrim](../R/Rohirrim.md) và của [Gondor](Gondor.md).<sup id="cite_ref-Battle_1-1" class="reference"><a href="#cite_note-Battle-1">[1]</a></sup>
 
 Số phận của Gothmog không bao giờ được xác định. Rất có thể Gothmog đã bỏ mạng cùng với gần như toàn bộ người hầu của Sauron đã chiến đấu trước cổng [Minas Tirith](../M/Minas_Tirith.md). Cũng có thể Gothmog đã bỏ trốn cùng những người khác ra khỏi [Ramas Echor](../R/Rammas_Echor.md) và băng qua [Anduin](../A/Anduin.md).
 
@@ -96,7 +96,7 @@ Tên *Gothmog* có nguồn gốc từ gốc GOS-/GOTH- ("kinh hãi") và MBAW- (
 
 Hầu như không có thông tin gì về Gothmog. Các học giả Tolkien suy đoán rằng Gothmog có thể là một trong những điều sau đây:
 
-- Một [Người đàn ông](../M/Men.md),<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> trong trường hợp này Gothmog có lẽ là một [Đen Númenórean](../B/Black_Númenóreans.md) giống như [Miệng của Sauron](../M/Mouth_of_Sauron.md)
+- Một [Người đàn ông](../M/Men.md),<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> trong trường hợp này Gothmog có lẽ là một [Người Númenor Đen](../B/Black_Númenóreans.md) giống như [Miệng của Sauron](../M/Mouth_of_Sauron.md)
 - Một trong những [Nazgûl](../N/Nazgûl.md),<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> mặc dù [Tolkien](../J/J.R.R._Tolkien.md) chưa bao giờ đề cập cụ thể đến Gothmog trong số Nazgûl.
 - Gothmog có thể là bất cứ thứ gì từ [Orc](../O/Orcs.md) hoặc [Uruk](../U/Uruk-hai.md), (mặc dù sở hữu tên Sindarin) hoặc [Boldog](../B/Boldog.md), [Maia](../M/Maiar.md) bị ngã ở dạng Orc.
 

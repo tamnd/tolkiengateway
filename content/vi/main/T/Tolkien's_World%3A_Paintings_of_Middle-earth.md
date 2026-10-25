@@ -55,7 +55,7 @@ Thế giới của <i><b>Tolkien: Những bức tranh của Trung Địa</b></i>
 - **[Roger Garland](../R/Roger_Garland.md)**:
     - [Tom Bombadil](../../file/R/Roger_Garland_-_Old_Man_Willow.jpg.md)
     - [Cái Cầu Khazad-dûm](../../file/R/Roger_Garland_-_The_Bridge_of_Khazad-dum.JPG.md)
-    - [Chúa tể của Nazgûl](../../file/R/Roger_Garland_-_The_Lord_of_the_Nazgul.JPG.md)
+    - [Chúa tể Nhẫn Ma](../../file/R/Roger_Garland_-_The_Lord_of_the_Nazgul.JPG.md)
     - [Ulmo, Chúa tể của vùng nước](../../file/R/Roger_Garland_-_Ulmo.jpg.md)
     - [Xâu chuỗi Melkor](../../file/R/Roger_Garland_-_Melkor_chained.jpg.md)
     - [Earendil và Elwing](../../file/R/Roger_Garland_-_Earendil_and_Elwing.jpeg.md)

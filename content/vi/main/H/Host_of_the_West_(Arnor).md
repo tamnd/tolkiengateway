@@ -44,7 +44,7 @@ Chủ nhà bao gồm một đội quân đông đảo từ [Gondor](../G/Gondor.
 
 Những [Người phương Bắc](../N/Northmen.md), những hoàng tử kiêu hãnh của [Rhovanion](../R/Rhovanion.md); những tay đua cao ráo và trắng trẻo đến cùng với những [ngựa](Horses.md) xinh đẹp từ [Thung lũng Anduin](../V/Vales_of_Anduin.md) đã nhận được nhiều lời khen ngợi nhất khi họ đến [Mithlond](../M/Mithlond.md).<sup id="cite_ref-gondor_1-3" class="reference"><a href="#cite_note-gondor-1">[1]</a></sup>
 
-[Círdan](../C/Círdan.md), Chủ nhân của [Cảng Xám](../G/Grey_Havens.md), đã triệu tập tất cả những người sẽ chiến đấu từ [Tiên tộc của Lindon](../E/Elves_of_Lindon.md), cũng như tàn quân của [Con Người của Arnor](../M/Men_of_Arnor.md).<sup id="cite_ref-gondor_1-4" class="reference"><a href="#cite_note-gondor-1">[1]</a></sup> Trong số lực lượng của [Arthedain](../A/Arthedain.md) trước đây, người ta nói rằng có một số [Hobbit](Hobbits.md) từ [ Shire](../T/The_Shire.md).<sup id="cite_ref-gondor_1-5" class="reference"><a href="#cite_note-gondor-1">[1]</a></sup>
+[Círdan](../C/Círdan.md), Chủ nhân của [Cảng Xám](../G/Grey_Havens.md), đã triệu tập tất cả những người sẽ chiến đấu từ [Tiên tộc của Lindon](../E/Elves_of_Lindon.md), cũng như tàn quân của [Người Arnor](../M/Men_of_Arnor.md).<sup id="cite_ref-gondor_1-4" class="reference"><a href="#cite_note-gondor-1">[1]</a></sup> Trong số lực lượng của [Arthedain](../A/Arthedain.md) trước đây, người ta nói rằng có một số [Hobbit](Hobbits.md) từ [ Shire](../T/The_Shire.md).<sup id="cite_ref-gondor_1-5" class="reference"><a href="#cite_note-gondor-1">[1]</a></sup>
 
 ## Lịch sử {#History}
 

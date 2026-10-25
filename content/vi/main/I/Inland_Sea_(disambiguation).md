@@ -14,7 +14,7 @@ images:
   - "Disambig.png"
 ---
 
-**Nội địa Biển** có thể tham khảo:
+**Biển Nội Địa** có thể tham khảo:
 
 - [Biển Helcar](../S/Sea_of_Helcar.md), một vùng biển nội địa ở Bắc Trung Bộ Trung Địa
 - [Biển Ringil](../S/Sea_of_Ringil.md), biển nội địa Nam Trung Bộ Trung Địa

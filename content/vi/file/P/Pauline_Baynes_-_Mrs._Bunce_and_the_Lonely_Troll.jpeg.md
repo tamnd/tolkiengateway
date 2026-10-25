@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Minh họa của [Bà. Bunce](../../main/M/Mrs._Bunce.md) chạy khỏi [Con quỷ cô đơn](../../main/L/Lonely_Troll.md). Tác phẩm của [Pauline Baynes](../../main/P/Pauline_Baynes.md) từ *[The Adventures of Tom Bombadil and Other Verses from the Red Book](../../main/T/The_Adventures_of_Tom_Bombadil.md)*
+Minh họa của [Bà. Bunce](../../main/M/Mrs._Bunce.md) chạy khỏi [Con Troll Cô Độc](../../main/L/Lonely_Troll.md). Tác phẩm của [Pauline Baynes](../../main/P/Pauline_Baynes.md) từ *[The Adventures of Tom Bombadil and Other Verses from the Red Book](../../main/T/The_Adventures_of_Tom_Bombadil.md)*
 
 ## Giấy phép {#Licensing}
 

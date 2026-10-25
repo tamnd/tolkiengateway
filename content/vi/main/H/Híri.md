@@ -27,7 +27,7 @@ langlinks:
 
 **Híri** là một luồng trong [Valinor](../V/Valinor.md), theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.
 
-Nó bắt đầu ở phía bắc ngọn đồi [Kôr](../K/Kôr.md), sau đó chảy qua đồng bằng Valinor cho đến khi lao xuống lòng đất phía bắc gốc rễ của [Silpion](../S/Silpion.md) gần [Sirnúmen](../S/Sirnúmen.md). Có thể cuối cùng nó đã đạt đến [Bên ngoài Biển](../O/Outer_Sea.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Nó bắt đầu ở phía bắc ngọn đồi [Kôr](../K/Kôr.md), sau đó chảy qua đồng bằng Valinor cho đến khi lao xuống lòng đất phía bắc gốc rễ của [Silpion](../S/Silpion.md) gần [Sirnúmen](../S/Sirnúmen.md). Có thể cuối cùng nó đã đạt đến [Biển Ngoài](../O/Outer_Sea.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

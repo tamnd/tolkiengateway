@@ -16,7 +16,7 @@ categories:
 
 ## Từ nguyên {#Etymology}
 
-*Swerting* là từ liên quan đến thuật ngữ '[Swarthy Con Người](Swarthy_Men.md)' được sử dụng trong [Ngôn ngữ Chung](../W/Westron.md) (trong đó 'swarthy' là từ cũ chỉ 'da đen').<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+*Swerting* là từ liên quan đến thuật ngữ '[Con Người Da Sẫm](Swarthy_Men.md)' được sử dụng trong [Ngôn ngữ Chung](../W/Westron.md) (trong đó 'swarthy' là từ cũ chỉ 'da đen').<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <a class="extiw" href="http://en.wikipedia.org/wiki/Swerting" title="wikipedia:Swerting">Swerting</a> là cái tên [tiếng Anh cổ](../O/Old_English.md), ám chỉ một nhân vật huyền thoại, cũng được nhắc đến trong *[Beowulf](<../B/Beowulf_(poem).md>)*.
 

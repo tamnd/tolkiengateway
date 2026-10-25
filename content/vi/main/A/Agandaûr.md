@@ -72,7 +72,7 @@ Cuộc trò chuyện của Agandaûr với những Người Lùn ở Nordinbad �
 ## Xem thêm {#See_also}
 
 - [Mordirith](../M/Mordirith.md)
-- [Miệng của Sauron](../M/Mouth_of_Sauron.md), một [Númenórean Đen](../B/Black_Númenóreans.md) khác từng phục vụ [Sauron](../S/Sauron.md).
+- [Miệng của Sauron](../M/Mouth_of_Sauron.md), một [Người Númenor Đen](../B/Black_Númenóreans.md) khác từng phục vụ [Sauron](../S/Sauron.md).
 
 <span></span>
 

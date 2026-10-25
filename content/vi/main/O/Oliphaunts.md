@@ -69,7 +69,7 @@ Oliphant/olifant/olifaunt là những từ cổ xưa để chỉ voi ​​và n
 
 ## Tên khác {#Other_names}
 
-Tên <i><b>mûmak</b></i> (số nhiều <i><b>mûmakil</b></i>) là tên theo ngôn ngữ Con Người của Harad để chỉ một con voi lớn.<sup id="cite_ref-PE17_2-1" class="reference"><a href="#cite_note-PE17-2">[2]</a></sup> Tên này và số nhiều của nó cũng được sử dụng bởi [Con Người](../M/Men.md) của [Gondor](../G/Gondor.md).<sup id="cite_ref-Herbs_3-4" class="reference"><a href="#cite_note-Herbs-3">[3]</a></sup>
+Tên <i><b>mûmak</b></i> (số nhiều <i><b>mûmakil</b></i>) là tên theo ngôn ngữ Người Harad để chỉ một con voi lớn.<sup id="cite_ref-PE17_2-1" class="reference"><a href="#cite_note-PE17-2">[2]</a></sup> Tên này và số nhiều của nó cũng được sử dụng bởi [Con Người](../M/Men.md) của [Gondor](../G/Gondor.md).<sup id="cite_ref-Herbs_3-4" class="reference"><a href="#cite_note-Herbs-3">[3]</a></sup>
 
 Trong [Sindarin](../S/Sindarin.md), từ chỉ con voi là <i><b>annabon</b></i>và trong [Quenya](../Q/Quenya.md) <i><b>andamunda</b></i>, cả hai thuật ngữ đều có nghĩa là "mõm dài".<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup>
 

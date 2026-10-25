@@ -30,7 +30,7 @@ Mandos, Kẻ thống trị cõi chết (Baritone): Julian Boyce
 
 Elbereth, Nữ hoàng ánh sáng (Giọng nữ cao): Emma Mary Llewellyn
 
-Trưởng lão Vua, Chúa tể của Valar (Bass): George Newton-Fitzgerald
+Vị Vua Cổ Xưa, Chúa tể của Valar (Bass): George Newton-Fitzgerald
 
 Maedhros, Con trai của Fëanor (Bass-Baritone): Stephen Wells
 

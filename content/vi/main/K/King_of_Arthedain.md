@@ -33,7 +33,7 @@ langlinks:
 
 Vị vua đầu tiên của Arthedain là [Amlaith](../A/Amlaith.md), con trai cả của [Eärendur](<../E/Eärendur_(King_of_Arnor).md>) vị vua cuối cùng của [Vua của Arnor](King_of_Arnor.md).<sup id="cite_ref-North_2-0" class="reference"><a href="#cite_note-North-2">[2]</a></sup> Vương quốc Arnor chia thành ba mảnh sau cái chết của Eärendur. Hai vương quốc còn lại được đặt tên là [Cardolan](../C/Cardolan.md) và [Rhudaur](../R/Rhudaur.md).
 
-Không giống như tổ tiên của mình, vị vua đầu tiên của Arthedain, Amlaith, không lấy tên theo [Quenya](../Q/Quenya.md),<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> "Lưỡi Tiên Tiên",<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> mà thay vào đó lấy tên bằng [Sindarin](../S/Sindarin.md), giống như tất cả các vị Vua của Arthedain và [Thủ lĩnh của Dúnedain](../C/Chieftains_of_the_Dúnedain.md) hậu duệ của ông.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Không giống như tổ tiên của mình, vị vua đầu tiên của Arthedain, Amlaith, không lấy tên theo [Quenya](../Q/Quenya.md),<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> "Lưỡi Tiên Tiên",<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> mà thay vào đó lấy tên bằng [Sindarin](../S/Sindarin.md), giống như tất cả Các Vua Arthedain và [Thủ lĩnh của Dúnedain](../C/Chieftains_of_the_Dúnedain.md) hậu duệ của ông.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 Bắt đầu từ [Argeleb I](../A/Argeleb_I.md) trở đi cho đến các Thủ lĩnh của Dúnedain, tên của họ bao gồm tiền tố [Elvish](../E/Elvish.md) *Ar(an)-* biểu thị yêu sách trung thành với toàn bộ Arnor, sau khi các dòng [Cardolan](../C/Cardolan.md) và [Rhudaur](../R/Rhudaur.md) thất bại<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> và các vị vua của Arthedain đã tuyên bố danh hiệu Vua của Arnor.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Tuy nhiên, trên thực tế mà nói, quyền lực của họ chỉ giới hạn ở vùng đất của Arthedain giảm dần trong suốt bảy trăm năm đấu tranh với [Angmar](../A/Angmar.md).
 
@@ -49,7 +49,7 @@ Các vị vua kiểm soát hai trong số ba [Palantíri](../P/Palantíri.md) ph
 
 ## Danh sách các vị vua {#List_of_Kings}
 
-Các vị vua của [Arthedain](../A/Arthedain.md) có cùng dòng dõi với các vị vua của [Arnor](../A/Arnor.md), mặc dù được liệt kê riêng biệt với họ trong biên niên sử hoàng gia. Các vị Vua của Arthedain và thời gian trị vì của họ<sup id="cite_ref-North_2-2" class="reference"><a href="#cite_note-North-2">[2]</a></sup> là:
+Các vị vua của [Arthedain](../A/Arthedain.md) có cùng dòng dõi với các vị vua của [Arnor](../A/Arnor.md), mặc dù được liệt kê riêng biệt với họ trong biên niên sử hoàng gia. Các Vua Arthedain và thời gian trị vì của họ<sup id="cite_ref-North_2-2" class="reference"><a href="#cite_note-North-2">[2]</a></sup> là:
 
 <table class="wikitable mw-collapsible">
 <tbody><tr style="background: var(--tg-color-surface-2);">
@@ -151,7 +151,7 @@ Các vị vua của [Arthedain](../A/Arthedain.md) có cùng dòng dõi với c�
 
 ## Xem thêm {#See_also}
 
-Để biết về cây gia phả của các vị Vua của Arthedain, cũng như của Arnor và các Thủ lĩnh, hãy xem [Nhà Isildur](../H/House_of_Isildur.md). <span></span>
+Để biết về cây gia phả của Các Vua Arthedain, cũng như của Arnor và các Thủ lĩnh, hãy xem [Nhà Isildur](../H/House_of_Isildur.md). <span></span>
 
 ## Tài liệu tham khảo {#References}
 

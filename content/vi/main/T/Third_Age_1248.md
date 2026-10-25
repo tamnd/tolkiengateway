@@ -20,7 +20,7 @@ sort_keys:
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- [Người nhiếp chính](../R/Regent_of_Gondor.md) [Minalcar](../R/Rómendacil_II.md) của [Gondor](../G/Gondor.md) - với sự hỗ trợ của [Vidugavia](../V/Vidugavia.md), Vua của [Rhovanion](../R/Rhovanion.md) - dẫn đầu một lực lượng quân đội lớn và đánh bại quân Easterling ở vùng đất giữa [Rhovanion](../R/Rhovanion.md) và [Inland Biển](../S/Sea_of_Rhûn.md). Tất cả [Easterling](../E/Easterlings.md) trại và khu định cư ở phía đông Nội địa Biển đều bị phá hủy.<sup id="cite_ref-AppA_1-0" class="reference"><a href="#cite_note-AppA-1">[1]</a></sup>
+- [Người nhiếp chính](../R/Regent_of_Gondor.md) [Minalcar](../R/Rómendacil_II.md) của [Gondor](../G/Gondor.md) - với sự hỗ trợ của [Vidugavia](../V/Vidugavia.md), Vua của [Rhovanion](../R/Rhovanion.md) - dẫn đầu một lực lượng quân đội lớn và đánh bại quân Easterling ở vùng đất giữa [Rhovanion](../R/Rhovanion.md) và [Inland Biển](../S/Sea_of_Rhûn.md). Tất cả [Easterling](../E/Easterlings.md) trại và khu định cư ở phía đông Biển Nội Địa đều bị phá hủy.<sup id="cite_ref-AppA_1-0" class="reference"><a href="#cite_note-AppA-1">[1]</a></sup>
 - Minalcar lấy tên [Rómendacil](../R/Rómendacil_II.md) (*East-victor*) để kỷ niệm chiến thắng vĩ đại của ông trước Easterlings.<sup id="cite_ref-AppA_1-1" class="reference"><a href="#cite_note-AppA-1">[1]</a></sup>
 - Vào khoảng thời gian này, bờ biển phía tây của [Anduin](../A/Anduin.md) đã được củng cố và các trụ cột của [Argonath](../A/Argonath.md) được dựng lên ở lối vào [Nen Hithoel](../N/Nen_Hithoel.md).<sup id="cite_ref-AppA_1-2" class="reference"><a href="#cite_note-AppA-1">[1]</a></sup>
 

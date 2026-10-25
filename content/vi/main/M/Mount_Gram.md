@@ -44,7 +44,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Mount Gram là nơi sinh sống của [Orc](../O/Orcs.md) do Vua [Golfimbul](../G/Golfimbul.md) của họ lãnh đạo. Trong [T.A.](../T/Third_Age.md) [2747](../T/Third_Age_2747.md) họ tấn công phần lớn miền bắc [Eriador](../E/Eriador.md), nhưng bị đánh bại trong [Trận chiến Greenfields](../B/Battle_of_Greenfields.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Mount Gram là nơi sinh sống của [Orc](../O/Orcs.md) do Vua [Golfimbul](../G/Golfimbul.md) của họ lãnh đạo. Trong [T.A.](../T/Third_Age.md) [2747](../T/Third_Age_2747.md) họ tấn công phần lớn miền bắc [Eriador](../E/Eriador.md), nhưng bị đánh bại trong [Trận chiến tại Greenfields](../B/Battle_of_Greenfields.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Vị trí {#Location}
 

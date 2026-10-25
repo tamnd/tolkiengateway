@@ -83,7 +83,7 @@ infobox:
 
 Những lời lẽ nghiêm khắc của ông với [Angrod](../A/Angrod.md) tại một [hội đồng của người Noldor](Council_in_Mithrim.md) thời kỳ đầu đã ảnh hưởng đến quyết định của người Noldor trong việc chọn [Fingolfin](../F/Fingolfin.md) làm [Đại Vương của người Noldor](../H/High_King_of_the_Noldor.md).
 
-Ông là người đầu tiên trong số người Noldor tái lập liên lạc với [Người Lùn của Dãy Núi Xanh](../D/Dwarves_of_the_Blue_Mountains.md), và trở nên rất giàu có nhờ hoạt động thương mại đôi bên cùng có lợi với họ. Về sau, ông có mối quan hệ phức tạp với [Con Người](../M/Men.md): ban đầu ông nhìn họ với vẻ hờ hững, nhưng sau khi chứng kiến lòng dũng cảm của [người Haleth](../H/Haladin.md), ông dần dành cho họ một mức độ kính trọng nhất định.
+Ông là người đầu tiên trong số người Noldor tái lập liên lạc với [Người Lùn ở Dãy Núi Xanh](../D/Dwarves_of_the_Blue_Mountains.md), và trở nên rất giàu có nhờ hoạt động thương mại đôi bên cùng có lợi với họ. Về sau, ông có mối quan hệ phức tạp với [Con Người](../M/Men.md): ban đầu ông nhìn họ với vẻ hờ hững, nhưng sau khi chứng kiến lòng dũng cảm của [người Haleth](../H/Haladin.md), ông dần dành cho họ một mức độ kính trọng nhất định.
 
 Khi Morgoth phá vỡ [Cuộc vây hãm Angband](../S/Siege_of_Angband.md), những người con trai của Fëanor bị phân tán, còn Caranthir rút lui về phía nam. Sau vài năm, họ tập hợp lại và liên minh với [Những Người từ phương Đông](<../E/Easterlings_(First_Age).md>) mới đến. Một trong hai thủ lĩnh lớn của họ, [Ulfang](../U/Ulfang.md), đã thề trung thành với Caranthir, nhưng họ là những kẻ bất trung và đã phản bội Eldar, khiến thất bại của họ trong [Trận chiến Nước mắt Vô số](../B/Battle_of_Unnumbered_Tears.md) trở nên chắc chắn.
 

@@ -45,7 +45,7 @@ infobox:
 - Bìa - "[Giải cứu khỏi Goblin](../../file/M/Michael_Hague_-_Rescued_From_Wolves.jpg.md)"
 - Tháng Giêng - "[Rivendell](../../file/M/Michael_Hague_-_The_Last_Homely_House.jpg.md)"
 - Tháng 2 - "[Câu đố trong bóng tối](../../file/M/Michael_Hague_-_Riddles_in_the_Dark.jpg.md)"
-- Tháng 3 - "[Chúa tể của Đại Bàng](../../file/M/Michael_Hague_-_Flying_with_Eagles.jpg.md)"
+- Tháng 3 - "[Chúa tể Đại Bàng](../../file/M/Michael_Hague_-_Flying_with_Eagles.jpg.md)"
 - Tháng 4 - "[Beorn](../../file/M/Michael_Hague_-_Beorn.jpg.md)"
 - May - "[Thorin, Tù nhân của Tiên tộc](../../file/M/Michael_Hague_-_Thorin,_Prisoner_of_the_Elves.jpg.md)"
 - Tháng 6 - "[Smaug](../../file/M/Michael_Hague_-_Smaug_the_Magnificent.jpg.md)"

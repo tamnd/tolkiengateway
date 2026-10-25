@@ -102,7 +102,7 @@ Trong giai đoạn [Noldorin](../N/Noldorin.md) của ngôn ngữ Elvish, thuậ
 
 ## Xem thêm {#See_also}
 
-- [Những người lưu vong của Gondolin](../E/Exiles_of_Gondolin.md)
+- [Những người lưu vong từ Gondolin](../E/Exiles_of_Gondolin.md)
 - [Danh sách Gondolindrim](../../category/G/Gondolindrim.md)
 
 <span></span>

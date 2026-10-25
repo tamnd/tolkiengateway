@@ -25,7 +25,7 @@ langlinks:
 
 **Người phụ nữ bên sông**, được cho là mẹ của [Goldberry](../G/Goldberry.md), có thể là một nhân vật hư cấu chỉ được đề cập trong một câu thơ vì có liên quan đến [Withywindle](../W/Withywindle.md) của [Khu Rừng Cổ](../O/Old_Forest.md).
 
-Trong một bài thơ, [Tom Bombadil](../T/Tom_Bombadil.md) bị kéo xuống sông khi đang bơi Goldberry. Cô bơi “về nhà mẹ ở chỗ trũng sâu nhất”. Sau đó, Tom quay lại sông và xin bàn tay của Goldberry người phụ nữ sông; bà vâng lời không chút nghi ngờ nên hai người kết hôn.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Trong một bài thơ, [Tom Bombadil](../T/Tom_Bombadil.md) bị kéo xuống sông khi đang bơi Goldberry. Cô bơi “về nhà mẹ ở chỗ trũng sâu nhất”. Sau đó, Tom quay lại sông và xin bàn tay của Goldberry Người đàn bà Sông; bà vâng lời không chút nghi ngờ nên hai người kết hôn.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ### Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 

@@ -66,7 +66,7 @@ Sự kiện xảy ra vào ngày 22 tháng 11
 ## Trên Trái đất {#On_Earth}
 
 - **[1914](1914.md)** - Theo yêu cầu của [G.B. Smith](../G/Geoffrey_Bache_Smith.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) gửi tới Hiệp hội Mặt trời của [Corpus Christi College](../O/Oxford_University.md) về *[Kalevala](../K/Kalevala.md)* và việc thiếu thần thoại Anh.
-- **[1916](1916.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) ký [một mẫu đơn cho Văn phòng Chiến tranh](../W/War_Office_form_22_November_1916.md), xác nhận việc ông từ Pháp trở về Anh do sốt chiến hào.
+- **[1916](1916.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) ký [một mẫu đơn cho Bộ Chiến tranh](../W/War_Office_form_22_November_1916.md), xác nhận việc ông từ Pháp trở về Anh do sốt chiến hào.
 - **[1937](1937.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư 18a](../L/Letter_18a.md).
 - **[1950](1950.md)** - Nghệ sĩ [David T. Wenzel](../D/David_T._Wenzel.md) ra đời.
 - **[1954](1954.md)** - Rayner Heppenstall viết [thư gửi J.R.R. Tolkien](<../L/Letter_to_Rayner_Heppenstall_(1-2_December_1954).md>).

@@ -24,7 +24,7 @@ images:
 
 Một phiên bản cắt xén của bản thảo được xuất bản lần đầu tiên trong *[The Lord of the Rings 1977 Calendar](../T/The_Lord_of_the_Rings_1977_Calendar.md)*, cùng với ghi chú sau của [Christopher Tolkien](../C/Christopher_Tolkien.md):
 
-"*Chữ viết đi kèm bức tranh này là một đoạn của bản nháp đầu tiên của đoạn văn trong [The Two Towers](../T/The_Two_Towers.md) (Quyển IV, Chương 8, [Cầu thang Cirith Ungol](../T/The_Stairs_of_Cirith_Ungol.md)), trong đó mô tả [Sam](Samwise_Gamgee.md) và hình ảnh đầu tiên của [Frodo](../F/Frodo_Baggins.md) nhìn thấy [Tháp Cirith Ungol](../T/Tower_of_Cirith_Ungol.md). Trong bản nháp này [Gollum](../G/Gollum.md) đã biến mất vào thời điểm này trong câu chuyện.*"
+"*Chữ viết đi kèm bức tranh này là một đoạn của bản nháp đầu tiên của đoạn văn trong [The Two Towers](../T/The_Two_Towers.md) (Quyển IV, Chương 8, [Bậc thang Cirith Ungol](../T/The_Stairs_of_Cirith_Ungol.md)), trong đó mô tả [Sam](Samwise_Gamgee.md) và hình ảnh đầu tiên của [Frodo](../F/Frodo_Baggins.md) nhìn thấy [Tháp Cirith Ungol](../T/Tower_of_Cirith_Ungol.md). Trong bản nháp này [Gollum](../G/Gollum.md) đã biến mất vào thời điểm này trong câu chuyện.*"
 
 Trong [1995](../_/1995.md), bản sao đầy đủ của bản thảo xuất hiện trong *[J.R.R. Tolkien: Artist &amp; Illustrator](../J/J.R.R._Tolkien%253A_Artist_and_Illustrator.md)* (tr. 175, bản vẽ 171).
 

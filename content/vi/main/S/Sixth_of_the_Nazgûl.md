@@ -76,7 +76,7 @@ Hoarmûrath nhanh chóng mở rộng quyền thống trị của mình, cai tr�
 
 Hoarmûrath xuất hiện trở lại vào khoảng [T.A.](../T/Third_Age.md) [1050](../T/Third_Age_1050.md), và đến [T.A.](../T/Third_Age.md) [1640](../T/Third_Age_1640.md) đã xây dựng lại vương quốc của mình. Ông tham gia cùng Nazgûl khác trong Mordor và làm hang ổ của mình trong lâu đài bỏ hoang [Durthang](../D/Durthang.md). Sau đó ông tham gia đánh chiếm [Minas Ithil](../M/Minas_Morgul.md) ở [T.A.](../T/Third_Age.md) [2002](../T/Third_Age_2002.md).
 
-Trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), ông đã cưỡi Kỵ sĩ Đen để tìm kiếm [Chiếc nhẫn duy nhất](../T/The_One_Ring.md). Ông là một trong những Nazgûl đã chiến đấu trong [Trận cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md), sau đó gia nhập những bóng ma còn lại tại [Trận Morannon](../B/Battle_of_the_Morannon.md), nơi ông bỏ mạng với Sauron thất bại.<sup id="cite_ref-ICE_1-4" class="reference"><a href="#cite_note-ICE-1">[1]</a></sup>
+Trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), ông đã cưỡi Kỵ sĩ Đen để tìm kiếm [Chiếc nhẫn duy nhất](../T/The_One_Ring.md). Ông là một trong những Nazgûl đã chiến đấu trong [Trận chiến tại cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md), sau đó gia nhập những bóng ma còn lại tại [Trận Morannon](../B/Battle_of_the_Morannon.md), nơi ông bỏ mạng với Sauron thất bại.<sup id="cite_ref-ICE_1-4" class="reference"><a href="#cite_note-ICE-1">[1]</a></sup>
 
 ## Vũ khí trong Middle-earth Role Playing {#Weaponry_in_Middle-earth_Role_Playing}
 

@@ -16,7 +16,7 @@ categories:
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Khái niệm về hòn đảo cũng như tòa tháp phía bắc vẫn tồn tại trong các phiên bản sau này, do đó, trong *[The Silmarillion](../T/The_Silmarillion.md)* [Elwing tháp của](../E/Elwing's_tower.md) được mô tả với vai trò tương tự: "*Vì vậy, người ta đã xây dựng cho bà một tòa tháp màu trắng ở phía bắc giáp biên giới của Biển Sundering; và đôi khi tất cả các loài chim biển trên trái đất đều sửa chữa ở đó.*"<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Khái niệm về hòn đảo cũng như tòa tháp phía bắc vẫn tồn tại trong các phiên bản sau này, do đó, trong *[The Silmarillion](../T/The_Silmarillion.md)* [Elwing tháp của](../E/Elwing's_tower.md) được mô tả với vai trò tương tự: "*Vì vậy, người ta đã xây dựng cho bà một tòa tháp màu trắng ở phía bắc giáp biên giới của Biển Phân Chia; và đôi khi tất cả các loài chim biển trên trái đất đều sửa chữa ở đó.*"<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Xem thêm {#See_also}
 

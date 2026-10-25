@@ -37,9 +37,9 @@ FINDUILAS (Soprano), con gái của Orodreth Vua của Nargothrond
 
 GWINDOR (Bass-Baritone), lãnh chúa của Nargothrond, bị giam giữ của Morgoth
 
-BELEG CÚTHALION (Giọng nam trung cao), Đội trưởng của Doriath
+BELEG CÚTHALION (Giọng nam trung cao), Đội trưởng Doriath
 
-MABLUNG (Bass), Đội trưởng của Doriath
+MABLUNG (Bass), Đội trưởng Doriath
 
 SAEROS (Nhân vật nam cao), cố vấn của Vua của Doriath
 
@@ -123,7 +123,7 @@ Saeros, ủy viên hội đồng của Doriath (Tenor): Michael Clifton-Thompson
 
 Mablung của Heavy Hand, Thuyền trưởng của Doriath (Bass): Stephen Wells
 
-Beleg Cúthalion, Đội trưởng của Doriath (Baritone): Philip Lloyd-Evans
+Beleg Cúthalion, Đội trưởng Doriath (Baritone): Philip Lloyd-Evans
 
 Gwindor, Lãnh chúa của Nargothrond (Baritone): Julian Boyce
 

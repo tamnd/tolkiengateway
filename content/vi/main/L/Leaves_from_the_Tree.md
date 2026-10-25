@@ -54,7 +54,7 @@ infobox:
     - Bởi: [David Doughan](../D/David_Doughan.md)
 - "'Tại sao' và 'Như thế nào': Những suy ngẫm về 'Chiếc lá bên Niggle'"
     - Bởi: [John Ellison](../J/John_Ellison.md)
-- "Trái tim thất lạc của Vương quốc nhỏ"
+- "Trái tim thất lạc của Tiểu Vương quốc"
     - Bởi: [Alex Lewis](../A/Alex_Lewis.md)
 - "Phiên bản đầu tiên của *Farmer Giles of Ham*"
     - Bởi: [John Rateliff](../J/John_Rateliff.md)

@@ -56,7 +56,7 @@ Lịch <i><b>Tolkien 1998</b></i> là lịch Tolkien chính thức được xu�
 - Tháng 8 - "Mûmak of Harad" của [Cor Blok](../C/Cor_Blok.md)
 - tháng Chín - "Gandalf's Escape from Orthanc" của Fletcher
 - Tháng 10 - "[Gollum bị Tiên tộc](../../file/I/Inger_Edelfeldt_-_Gollum_Held_Captive_by_the_Elves.jpg.md) giam giữ" bởi [Inger Edelfeldt](../I/Inger_Edelfeldt.md)
-- Tháng 11 - "Chúa tể của Nazgûl bước vào Cổng Gondor" của Fletcher
+- Tháng 11 - "Chúa tể Nhẫn Ma bước vào Cổng Gondor" của Fletcher
 - Tháng 12 - "The Prancing Pony" của Timothy Ide
 
 ## Biến thể {#Variants}

@@ -79,7 +79,7 @@ Sự trở lại của 1. [Aragorn](<../A/Aragorn's_Return_(soundtrack).md>) (2:
 3. "[Con ngựa và Người cưỡi ngựa ở đâu?](../W/Where_is_the_Horse_and_the_Rider%253F.md)" (6:15)
 4. [Chủ nhân của Eldar](<The_Host_of_the_Eldar_(soundtrack).md>) (2:50)
 5. [ Trận Hornburg](<The_Battle_of_the_Hornburg_(soundtrack).md>) (2:52)
-6. [Vụ phá vỡ Bức tường sâu](<The_Breach_of_the_Deeping_Wall_(soundtrack).md>) (3:03)
+6. [Vụ phá vỡ Tường thành Deeping](<The_Breach_of_the_Deeping_Wall_(soundtrack).md>) (3:03)
 7. [Quyết định của Entmoot](<The_Entmoot_Decides_(soundtrack).md>) (2:06)
 8. [Retreat](../R/Retreat.md) (feat. "Haldir's Lament," do Elizabeth Fraser trình diễn) (4:40)
 9. [Kế hoạch của Master Peregrin](<../M/Master_Peregrin's_Plan_(soundtrack).md>) (2:31)

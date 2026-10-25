@@ -84,7 +84,7 @@ Tolkien, vốn là một nhà ngữ văn học chuyên nghiệp, đã khéo léo
 
 Ấn bản kỷ niệm 50 năm được xuất bản vào [1999](../_/1999.md), do [Christina Scull](../C/Christina_Scull.md) và [Wayne G. Hammond](../W/Wayne_G._Hammond.md) biên tập.
 
-Ấn bản này tái hiện nguyên bản dưới dạng bản sao facsimile văn bản và hình minh họa của Ấn bản đầu tiên năm [1949](../_/1949.md), bao gồm cả các tranh minh họa màu. Ấn bản cũng có thêm: phần giới thiệu và chú thích của các biên tập viên, phiên bản đầu tiên của câu chuyện được viết dưới dạng bản thảo, các bản nháp cho phần tiếp theo chưa hoàn thành và một bản đồ về 'Vương quốc Nhỏ' do Pauline Baynes vẽ.
+Ấn bản này tái hiện nguyên bản dưới dạng bản sao facsimile văn bản và hình minh họa của Ấn bản đầu tiên năm [1949](../_/1949.md), bao gồm cả các tranh minh họa màu. Ấn bản cũng có thêm: phần giới thiệu và chú thích của các biên tập viên, phiên bản đầu tiên của câu chuyện được viết dưới dạng bản thảo, các bản nháp cho phần tiếp theo chưa hoàn thành và một bản đồ về 'Tiểu Vương quốc' do Pauline Baynes vẽ.
 
 Năm [2009](../_/2009.md), Ấn bản kỷ niệm 60 năm được xuất bản với số lượng giới hạn chỉ 500 bản. Ấn bản này có nội dung giống với Ấn bản kỷ niệm 50 năm.
 

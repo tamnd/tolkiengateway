@@ -60,7 +60,7 @@ Lịch <i><b>Tolkien 2007</b></i> là lịch Tolkien chính thức được xu�
 - Tháng 6 - "[Orthanc](../../file/A/Alan_Lee_-_The_Voice_of_Saruman.jpg.md)"
 - Tháng 7 - "[Treebeard](../../file/A/Alan_Lee_-_Treebeard_2.jpg.md)"
 - Tháng 8 - "[Edoras](../../file/A/Alan_Lee_-_Edoras_2.jpg.md)"
-- tháng Chín - "[Chúa tể của Nazgûl](../../file/A/Alan_Lee_-_Nazgûl.jpg.md)"
+- tháng Chín - "[Chúa tể Nhẫn Ma](../../file/A/Alan_Lee_-_Nazgûl.jpg.md)"
 - Tháng 10 - "[Ngày Trận chiến trên Cánh đồng Pelennor](../../file/A/Alan_Lee_-_The_Battle_of_the_Pelennor_Fields.jpg.md)"
 - Tháng 11 - "[Núi Diệt Vong](../../file/A/Alan_Lee_-_Mount_Doom_2.jpg.md)"
 - Tháng 12 - "[Ngày Cảng Xám](../../file/A/Alan_Lee_-_Grey_Havens.jpg.md)"

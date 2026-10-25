@@ -19,7 +19,7 @@ categories:
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- Nhiều [Tiên tộc](../E/Elves.md) chú ý đến lời triệu tập của [Oromë](../O/Oromë.md) và vượt qua [Biển Helcar](../S/Sea_of_Helcar.md), bắt đầu [Tháng ba vĩ đại](../G/Great_Journey.md) tới [Aman](../A/Aman.md). Ba gia tộc sẵn sàng từng được biết đến với cái tên [Eldar](../E/Eldar.md) và họ là: [Vanyar](../V/Vanyar.md) do [Ingwë](../I/Ingwë.md) lãnh đạo; [Noldor](../N/Noldor.md) do [Finwë](../F/Finwë.md) lãnh đạo; và [Teleri](../T/Teleri.md) do [Elwë](../T/Thingol.md) và [Olwë](../O/Olwë.md) dẫn đầu.<sup id="cite_ref-Annals_1-0" class="reference"><a href="#cite_note-Annals-1">[1]</a></sup>
+- Nhiều [Tiên tộc](../E/Elves.md) chú ý đến lời triệu tập của [Oromë](../O/Oromë.md) và vượt qua [Biển Helcar](../S/Sea_of_Helcar.md), bắt đầu [Cuộc Đại Hành Trình](../G/Great_Journey.md) tới [Aman](../A/Aman.md). Ba gia tộc sẵn sàng từng được biết đến với cái tên [Eldar](../E/Eldar.md) và họ là: [Vanyar](../V/Vanyar.md) do [Ingwë](../I/Ingwë.md) lãnh đạo; [Noldor](../N/Noldor.md) do [Finwë](../F/Finwë.md) lãnh đạo; và [Teleri](../T/Teleri.md) do [Elwë](../T/Thingol.md) và [Olwë](../O/Olwë.md) dẫn đầu.<sup id="cite_ref-Annals_1-0" class="reference"><a href="#cite_note-Annals-1">[1]</a></sup>
 - Một số Tiên tộc - có thể do [Morwë](../M/Morwë.md) và [Nurwë](../N/Nurwë.md) lãnh đạo - đã chọn ở lại phía sau và được gọi là [Avari](../A/Avari.md), Kẻ không muốn. Đây là [Sự phân chia đầu tiên của Tiên tộc](../S/Sundering_of_the_Elves.md).<sup id="cite_ref-Annals_1-1" class="reference"><a href="#cite_note-Annals-1">[1]</a></sup>
 
 <span></span>

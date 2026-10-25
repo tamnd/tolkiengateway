@@ -80,7 +80,7 @@ infobox:
 - R. Patrick McCabe: 28
 - Robin McCabe: bìa sau
 - Peter Thorpe: 37
-- Bìa: Bonnie GoodKnight, "Mandos đưa ra Sự diệt vong của Noldor từ *The Silmarillion*."
+- Bìa: Bonnie GoodKnight, "Mandos đưa ra Tai họa của Noldor từ *The Silmarillion*."
 - Bìa sau: Robin McCabe, "Earendil trên tàu Vingilot."
 - Trang 17: Michael Logan, "Theoden."
 - Trang 21: Elzabeth Best, "Chuyến bay tới chiếc Ford."

@@ -21,7 +21,7 @@ sort_keys:
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 - [Aldarion](../T/Tar-Aldarion.md) rời [Númenor](../N/Númenor.md) trên con tàu [Númerrámar](../N/Númerrámar.md) trong chuyến hành trình thứ hai tới [Trung Địa](../M/Middle-earth.md).<sup id="cite_ref-Aldarion_1-0" class="reference"><a href="#cite_note-Aldarion-1">[1]</a></sup>
-- Vào khoảng thời gian này, [Amroth](../A/Amroth.md) nắm giữ quy tắc của [Silvan Tiên tộc](Silvan_Elves.md) trong [Edhellond](../E/Edhellond.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- Vào khoảng thời gian này, [Amroth](../A/Amroth.md) nắm giữ quy tắc của [Tiên tộc Silvan](Silvan_Elves.md) trong [Edhellond](../E/Edhellond.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

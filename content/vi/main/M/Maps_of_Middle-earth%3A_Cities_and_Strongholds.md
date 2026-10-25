@@ -46,6 +46,6 @@ Từ những bức tường bất khả xâm phạm của Hornburg đến các b
     - Minas Tirith, di sản của Cây Trắng
     - Umbar, thiên đường của Corsairs
     - Edoras, chỗ ngồi của các vị vua của Rohan
-    - Rivendell, ngôi nhà của Elrond và Ngôi nhà giản dị cuối cùng
+    - Rivendell, ngôi nhà của Elrond và Ngôi nhà Cuối cùng Ấm cúng
     - Isengard, pháo đài của Bàn tay trắng
 - Hướng dẫn dài 32 trang về các cấu trúc, địa điểm, nền văn hóa và con người gắn liền với từng bản đồ được trình bày trong bộ này.

@@ -58,7 +58,7 @@ Sau khi việc [Elanor Brandyfoot](../E/Elanor_Brandyfoot.md) vi phạm quy tắ
 
 Trong quá trình di cư, Stranger chứng tỏ mình đáng tin cậy với Sadoc khi ngăn cản ba con sói làm bữa ăn cho [Malva Meadowgrass](../M/Malva_Meadowgrass.md), Elanor và [Poppy Proudfellow](../P/Poppy_Proudfellow.md). Tuy nhiên, mặc dù đã cố gắng chữa lành [Grove](../G/Grove.md) khỏi những mảnh vụn của vụ phun trào [Orodruin](../M/Mount_Doom.md), hành động này gần như gây hại cho Elanor và [Dilly Brandyfoot](../D/Dilly_Brandyfoot.md).
 
-Sau đó, sau khi xe của đoàn lữ hành bị [Mystics](../M/Mystics.md) đốt cháy, những người đang cố gắng truy đuổi Người lạ, Sadoc tổ chức một công ty gồm có Elanor, Poppy và [Marigold Brandyfoot](../M/Marigold_Brandyfoot.md) để trả thù và cảnh báo Người lạ. Tuy nhiên, mặc dù đã đánh bại Mystics tại [phương Đông Bight](../E/East_Bight.md), Nomad vẫn khiến Sadoc bị trọng thương. Mặc dù ông đã có đủ thời gian để trả thù một chút trước khi The Stranger trục xuất các nhà thần bí. Khi mặt trời mọc vào buổi sáng hôm đó, Sadoc chết khi cảm nhận được điều đó trên da, tin rằng trong lòng mình sẽ sớm gặp lại vợ mình.
+Sau đó, sau khi xe của đoàn lữ hành bị [Mystics](../M/Mystics.md) đốt cháy, những người đang cố gắng truy đuổi Người lạ, Sadoc tổ chức một công ty gồm có Elanor, Poppy và [Marigold Brandyfoot](../M/Marigold_Brandyfoot.md) để trả thù và cảnh báo Người lạ. Tuy nhiên, mặc dù đã đánh bại Mystics tại [Vịnh phía Đông](../E/East_Bight.md), Nomad vẫn khiến Sadoc bị trọng thương. Mặc dù ông đã có đủ thời gian để trả thù một chút trước khi The Stranger trục xuất các nhà thần bí. Khi mặt trời mọc vào buổi sáng hôm đó, Sadoc chết khi cảm nhận được điều đó trên da, tin rằng trong lòng mình sẽ sớm gặp lại vợ mình.
 
 <span></span>
 

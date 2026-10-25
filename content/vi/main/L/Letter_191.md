@@ -37,7 +37,7 @@ Tolkien chỉ vào phần cuối của Kinh Lạy Cha: “Xin chớ để chúng
 
 Tolkien nhấn mạnh: Frodo "thất bại". Sức mạnh của Ác ma cuối cùng không thể bị chống lại bởi những sinh vật nhập thể (và Người viết truyện không phải là một trong số chúng ta).
 
-Tolkien tuyên bố rằng ông đã buộc phải xuất bản ngược lại, với sự kết thúc của Ác ma hiện thân rõ ràng và Sự thống trị của Con Người được thiết lập trước khi tất cả thần thoại và truyền thuyết về yêu tinh được đưa ra. Khi đọc theo đúng thứ tự, cả hai phần đều có thể đạt được lợi ích, nhưng ông vẫn đang cố gắng tìm cách để tài liệu trước đó có thể xuất bản được (và ông cũng còn rất nhiều việc khác phải làm). <br>
+Tolkien tuyên bố rằng ông đã buộc phải xuất bản ngược lại, với sự kết thúc của Ác ma hiện thân rõ ràng và Quyền thống trị của Con Người được thiết lập trước khi tất cả thần thoại và truyền thuyết về yêu tinh được đưa ra. Khi đọc theo đúng thứ tự, cả hai phần đều có thể đạt được lợi ích, nhưng ông vẫn đang cố gắng tìm cách để tài liệu trước đó có thể xuất bản được (và ông cũng còn rất nhiều việc khác phải làm). <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

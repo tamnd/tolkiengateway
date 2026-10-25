@@ -80,7 +80,7 @@ infobox:
 - Ghi chú của biên tập viên
 - Giới thiệu
     - Bởi Harold Bloom
-- *"Tolkien, Truyền thống sử thi và Thần thoại thời đại hoàng kim"*
+- *"Tolkien, Truyền thống sử thi và Thần thoại Thời kỳ Hoàng kim"*
     - Bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=Charles_A._Huttar&amp;action=edit&amp;redlink=1" title="Charles A. Huttar (page does not exist)">Charles A. Huttar</a> (từ *Những nhà tưởng tượng thế kỷ 20: Các tiểu luận về văn hóa, xã hội và niềm tin vào văn học thần thoại thế kỷ 20*)
 - *"The Hobbit"*
     - Bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=David_Stevens&amp;action=edit&amp;redlink=1" title="David Stevens (page does not exist)">David Stevens</a> và <a class="new" href="https://tolkiengateway.net/w/index.php?title=Carol_D._Stevens&amp;action=edit&amp;redlink=1" title="Carol D. Stevens (page does not exist)">Carol D. Stevens</a> (từ <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=J.R.R._Tolkien:_The_Art_of_the_Myth-maker&amp;action=edit&amp;redlink=1" title="J.R.R. Tolkien: The Art of the Myth-maker (page does not exist)">J.R.R. Tolkien: Nghệ thuật của người tạo ra huyền thoại</a></i>)

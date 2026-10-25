@@ -45,7 +45,7 @@ Theo một nghĩa trừu tượng, "the Phương Tây" được vinh danh là ng
 
 ### Tiêu đề {#Titles}
 
-- [Các thuyền trưởng của Phương Tây](../C/Captains_of_the_West.md), người chỉ huy chính trong [Cuộc chiến Nhẫn](War_of_the_Ring.md).
+- [Các Thống lĩnh Phương Tây](../C/Captains_of_the_West.md), người chỉ huy chính trong [Cuộc chiến Nhẫn](War_of_the_Ring.md).
 - Ngọn lửa của Phương Tây, bản dịch của [Andúril](../A/Andúril.md).
 - [Vua phương Tây](../K/King_of_the_West.md), [Elessar](../A/Aragorn.md)
 - [Lãnh chúa của Phương Tây](../V/Valar.md), [Valar](../V/Valar.md).

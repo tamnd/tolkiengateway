@@ -52,7 +52,7 @@ Trong bản mở rộng này đã có thêm hai vùng bắt đầu: [Swanfleet](
 
 - Nhiều trường hợp đã được thêm vào trong [Carn Dûm](../C/Carn_Dûm.md): 2 trường hợp học bổng nhỏ và một trường hợp học bổng toàn phần. Một cuộc đột kích cũng đã được lên kế hoạch.
 - Có một sự cải tiến lớn về sức mạnh và sát thương.
-- [Ngôi nhà giản dị cuối cùng](../L/Last_Homely_House.md) đã được thay đổi hoàn toàn.
+- [Ngôi nhà Cuối cùng Ấm cúng](../L/Last_Homely_House.md) đã được thay đổi hoàn toàn.
 
 ### Cập nhật 36: Gondor Đã gia hạn {#Update_36:_Gondor_Renewed}
 

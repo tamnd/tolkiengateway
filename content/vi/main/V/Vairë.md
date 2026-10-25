@@ -66,7 +66,7 @@ infobox:
 
 **Vairë Thợ dệt** ([Q](../Q/Quenya.md), phát âm <span title="Pronunciation in IPA" class="IPA">[ˈvaɪre]</span>) là một [Valië](Valar.md) và là vợ của [Mandos](../M/Mandos.md).
 
-[Valie](Valie.md) chịu trách nhiệm dệt nên câu chuyện về Thế giới, trong đó [Đại sảnh của Mandos](../H/Halls_of_Mandos.md) được khoác áo và ngày càng mở rộng.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+[Valie](Valie.md) chịu trách nhiệm dệt nên câu chuyện về Thế giới, trong đó [Đại sảnh Mandos](../H/Halls_of_Mandos.md) được khoác áo và ngày càng mở rộng.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Sau cái chết của [Finwë](../F/Finwë.md), [Míriel](../M/Míriel.md) sống lại và phục vụ cho Vairë, ghi lại mọi công việc của [Nhà Finwë](../H/House_of_Finwë.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 

@@ -61,7 +61,7 @@ Các phe phái có nền văn hóa [Dúnedain](../D/Dúnedain.md):
 Các phe phái có nền văn hóa [Elvish](../E/Elves.md):
 
 - [High Elves](../H/High_Elves.md)
-- [Silvan Tiên tộc](../S/Silvan_Elves.md)
+- [Tiên tộc Silvan](../S/Silvan_Elves.md)
 
 ### Người phương Bắc Phe phái {#Northmen_Factions}
 

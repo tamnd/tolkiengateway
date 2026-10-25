@@ -39,7 +39,7 @@ infobox:
 
 [Frodo](../F/Frodo.md) và [Gollum](../G/Gollum.md) nhập [Hang ổ của Shelob](Shelob's_Lair.md). Ngay sau khi bước vào, Gollum biến mất khỏi phía Frodo. Một mình, Frodo ngày càng trở nên lo lắng khi nhìn thấy mạng nhện và bộ xương xung quanh mình, và hối hận vì đã gửi [Sam](Sam.md) đi.
 
-Sam đi xuống [Cầu thang của Cirith Ungol](Stairs_of_Cirith_Ungol.md). Khi chạm đến đáy, ông nhìn thấy phần còn lại cuối cùng của [lembas](../L/Lembas.md) của họ. Nhận thấy Gollum đã ném nó qua mép, ông giận dữ nhìn lên cầu thang.
+Sam đi xuống [Bậc thang Cirith Ungol](Stairs_of_Cirith_Ungol.md). Khi chạm đến đáy, ông nhìn thấy phần còn lại cuối cùng của [lembas](../L/Lembas.md) của họ. Nhận thấy Gollum đã ném nó qua mép, ông giận dữ nhìn lên cầu thang.
 
 Frodo vấp và ngã xuống sàn có đầy mạng lưới. Bình tĩnh lại, anh lấy [Ống thuốc Galadriel](../P/Phial_of_Galadriel.md) ra để chiếu sáng trong bóng tối. Khi làm như vậy, ông quay lại và thấy con nhện khổng lồ [Shelob](Shelob.md) đang hoạt động. Trong nỗi kinh hoàng, anh chạy trốn khỏi [bà](Shelob.md) nhưng bị mắc kẹt trong một trang web. Sự phản bội của Gollum bị vạch trần khi ông quay trở lại và hát “bạn sẽ sớm bị ăn thịt”. Trong cơn giận dữ, Frodo băng qua mạng lưới đang giữ ông bằng cách sử dụng [Sting](Sting.md) khi Shelob tiếp cận ông. Sợ Frodo cắt đường, Gollum bỏ chạy.
 

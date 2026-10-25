@@ -114,7 +114,7 @@ Vì không có ấn bản nào của cuốn sách bao gồm thông tin về tài
 
 - **[Gollum](../G/Gollum.md)**: Foster đề cập rằng [Déagol](../D/Déagol.md) là anh họ của [Sméagol](../S/Sméagol.md) trong khi điều này không được đề cập trong văn bản. Tolkien chỉ đi xa hơn khi cho rằng ông "rõ ràng là một người họ hàng (chắc chắn là tất cả các thành viên của cộng đồng nhỏ)"<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup>
 
-- **[Gwaihir](../G/Gwaihir.md)**: Foster tái tạo lại quan niệm của người hâm mộ về việc kết hợp nhân vật [Đại bàng](../G/Great_Eagle.md) của *The Hobbit* với nhân vật của [Gwaihir](../G/Gwaihir.md), trong khi *The Lord of the Rings* không hề ngụ ý rằng Gwaihir là [Chúa tể của Đại Bàng](../L/Lord_of_the_Eagles.md).
+- **[Gwaihir](../G/Gwaihir.md)**: Foster tái tạo lại quan niệm của người hâm mộ về việc kết hợp nhân vật [Đại bàng](../G/Great_Eagle.md) của *The Hobbit* với nhân vật của [Gwaihir](../G/Gwaihir.md), trong khi *The Lord of the Rings* không hề ngụ ý rằng Gwaihir là [Chúa tể Đại Bàng](../L/Lord_of_the_Eagles.md).
 
 ## Thư viện xuất bản {#Publication_gallery}
 

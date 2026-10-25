@@ -45,7 +45,7 @@ infobox:
 
 ## Nội dung {#Contents}
 
-- Bìa: "*Ondolindeo Otso Andor*" ("Bảy Cánh Cổng của Gondolin") — Ronald Kyrmse
+- Bìa: "*Ondolindeo Otso Andor*" ("Bảy Cánh Cổng Gondolin") — Ronald Kyrmse
 - Thư gửi *VT*
 
 - "*Hrestasse*: Một cuộc đối thoại Quenya mới" — Margaret Dean

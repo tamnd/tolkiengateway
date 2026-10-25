@@ -42,9 +42,9 @@ Biên giới của South Gondor là [Ethir Anduin](../E/Ethir_Anduin.md)<sup id=
 
 ## Lịch sử {#History}
 
-South Gondor đã bị hấp thụ bởi Gondor trong thời kỳ đỉnh cao sức mạnh của nó, có thể là sự mở rộng của [Tarannon Falastur](../T/Tarannon_Falastur.md), kẻ đã mở rộng sự ảnh hưởng của Gondor dọc theo bờ biển phía tây và phía nam của Miệng Anduin<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[5]</a></sup>.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[6]</a></sup>
+South Gondor đã bị hấp thụ bởi Gondor trong thời kỳ đỉnh cao sức mạnh của nó, có thể là sự mở rộng của [Tarannon Falastur](../T/Tarannon_Falastur.md), kẻ đã mở rộng sự ảnh hưởng của Gondor dọc theo bờ biển phía tây và phía nam của Cửa sông Anduin<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[5]</a></sup>.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[6]</a></sup>
 
-South Gondor vẫn là một phần của Gondor cho đến [Xung đột họ hàng](../K/Kin-strife~3650.md) sau đó nó trở thành vùng đất gây tranh cãi giữa [Hải tặc Umbar](../C/Corsairs_of_Umbar.md) và [Các vị vua của Gondor](../K/Kings_of_Gondor.md).<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[7]</a></sup>
+South Gondor vẫn là một phần của Gondor cho đến [Xung đột họ hàng](../K/Kin-strife~3650.md) sau đó nó trở thành vùng đất gây tranh cãi giữa [Hải tặc Umbar](../C/Corsairs_of_Umbar.md) và [Các Vua Gondor](../K/Kings_of_Gondor.md).<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[7]</a></sup>
 
 Trong những ngày [Quản lý](../R/Ruling_Stewards.md) [Túrin II](../T/Túrin_II.md), Haradrim đã chiếm đóng South Gondor và có nhiều giao tranh dọc theo [Poros](../P/Poros.md). Khi chúng bắt đầu xâm lược [Ithilien](../I/Ithilien.md), nhiều [Rohirrim](../R/Rohirrim.md) đã đến hỗ trợ Gondor nên Túrin đã giành chiến thắng trước Haradrim tại [Đi qua Poros](../C/Crossings_of_Poros.md)<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[8]</a></sup> ở ([T.A.](../T/Third_Age.md) [2885](../T/Third_Age_2885.md)).<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[9]</a></sup>
 
@@ -54,7 +54,7 @@ Tên [Sindarin](Sindarin.md)<sup id="cite_ref-Eldamo_12-0" class="reference"><a 
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-J.R.R. Tolkien đã viết trong ghi chú cho người dịch tiếng Hà Lan của The Lord of the Rings rằng nhãn "South Gondor (Harondor)" trên [Bản đồ chung của Trung Địa](../G/General_Map_of_Middle-earth.md) là một lỗi và nhãn đáng lẽ phải là "Harondor (South Gondor)".<sup id="cite_ref-RC_13-1" class="reference"><a href="#cite_note-RC-13">[11]</a></sup>
+J.R.R. Tolkien đã viết trong ghi chú cho người dịch tiếng Hà Lan của The Lord of the Rings rằng nhãn "South Gondor (Harondor)" trên [Bản đồ tổng quát về Trung Địa](../G/General_Map_of_Middle-earth.md) là một lỗi và nhãn đáng lẽ phải là "Harondor (South Gondor)".<sup id="cite_ref-RC_13-1" class="reference"><a href="#cite_note-RC-13">[11]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 

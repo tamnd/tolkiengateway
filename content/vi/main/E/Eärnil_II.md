@@ -97,7 +97,7 @@ Eärnil qua đời vào năm [2043](../T/Third_Age_2043.md) thuộc [Kỷ Đệ 
 
 ## Các tên gọi khác {#Other_names}
 
-Eärnil được phong làm **Chỉ huy trưởng Quân đội Miền Nam**, sau khi được giao chỉ huy lực lượng phía nam trong quân đội Gondor.<sup id="cite_ref-Gondor_4-7" class="reference"><a href="#cite_note-Gondor-4">[4]</a></sup>
+Eärnil được phong làm **Chỉ huy trưởng Quân đội phương Nam**, sau khi được giao chỉ huy lực lượng phía nam trong quân đội Gondor.<sup id="cite_ref-Gondor_4-7" class="reference"><a href="#cite_note-Gondor-4">[4]</a></sup>
 
 ## Gia phả {#Genealogy}
 

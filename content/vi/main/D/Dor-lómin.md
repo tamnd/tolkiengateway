@@ -77,7 +77,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Nơi đây lần đầu tiên được [Noldor](../N/Noldor.md) khai phá không lâu sau khi họ đến Trung Địa, và trong một thời gian dài được cai trị bởi [Fingon](../F/Fingon.md), con trai của [Fingolfin](../F/Fingolfin.md),<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> trước khi ông kế vị cha mình làm Đại Vương của Noldor sau khi cha ông bị sát hại.
+Nơi đây lần đầu tiên được [Noldor](../N/Noldor.md) khai phá không lâu sau khi họ đến Trung Địa, và trong một thời gian dài được cai trị bởi [Fingon](../F/Fingon.md), con trai của [Fingolfin](../F/Fingolfin.md),<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> trước khi ông kế vị cha mình làm Đại Vương Noldor sau khi cha ông bị sát hại.
 
 Vào thời điểm này, [Edain](../E/Edain.md) được gọi là [Nhà Marach](../H/House_of_Hador.md) đã tiến vào [Beleriand](../B/Beleriand.md), và Hador Lórindol đã “gia nhập gia quyến của Fingolfin khi còn trẻ và được Nhà Vua yêu mến.”<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Fingolfin ban cho ông vùng đất Dor-lómin làm thái ấp, và ông tập hợp phần lớn thân tộc của mình vào vùng đất ấy.
 

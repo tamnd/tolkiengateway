@@ -54,7 +54,7 @@ Sau nhiệm vụ giới thiệu, chỉ còn lại Lore-master tên Isdi và Edhe
 
 ## Di sản {#Legacy}
 
-Những người sống sót sau Sự sụp đổ của Edhelion chạy trốn đến vùng hạ Ered Luin, lúc đầu định cư ở [Gondamon](../G/Gondamon.md) ở điểm giữa giữa [Sảnh của Thorin](../T/Thorin's_Hall~22343.md) và [Kheledûl](../K/Kheledûl.md). Thành phố này họ đã tự xây dựng, nhưng khi họ rời đi Duillond, những Người Lùn đến sau họ đã thay đổi nó theo ý thích của họ.<sup id="cite_ref-Gondamon_6-0" class="reference"><a href="#cite_note-Gondamon-6">[6]</a></sup>
+Những người sống sót sau Sự sụp đổ của Edhelion chạy trốn đến vùng hạ Ered Luin, lúc đầu định cư ở [Gondamon](../G/Gondamon.md) ở điểm giữa giữa [Đại Sảnh của Thorin](../T/Thorin's_Hall~22343.md) và [Kheledûl](../K/Kheledûl.md). Thành phố này họ đã tự xây dựng, nhưng khi họ rời đi Duillond, những Người Lùn đến sau họ đã thay đổi nó theo ý thích của họ.<sup id="cite_ref-Gondamon_6-0" class="reference"><a href="#cite_note-Gondamon-6">[6]</a></sup>
 
 Sau khi rời Gondamon, với mong muốn đi gần biển hơn, họ đã xây dựng [Duillond](../D/Duillond.md) ở phía bắc [Celondim](../C/Celondim.md) và giữa những dân tộc này có tình bạn tuyệt vời.<sup id="cite_ref-Gondamon_6-1" class="reference"><a href="#cite_note-Gondamon-6">[6]</a></sup>
 

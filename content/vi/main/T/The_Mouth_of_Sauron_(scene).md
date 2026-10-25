@@ -40,7 +40,7 @@ infobox:
 
 ## Sự khác biệt {#Differences}
 
-Cuộc đối đầu giữa [Thuyền trưởng của Phương Tây](../C/Captains_of_the_West.md) và [Miệng của Sauron](../M/Mouth_of_Sauron.md) trong cảnh này gần giống với cảnh trong chương sách [Màn Cổng Đen Mở](The_Black_Gate_Opens.md), ngoại trừ cảnh chặt đầu ở cuối cảnh và sự vắng mặt của [Imrahil](../I/Imrahil.md), [Elladan](../E/Elladan.md) và [Elrohir](../E/Elrohir.md).
+Cuộc đối đầu giữa [Các Thống lĩnh Phương Tây](../C/Captains_of_the_West.md) và [Miệng của Sauron](../M/Mouth_of_Sauron.md) trong cảnh này gần giống với cảnh trong chương sách [Màn Cổng Đen Mở](The_Black_Gate_Opens.md), ngoại trừ cảnh chặt đầu ở cuối cảnh và sự vắng mặt của [Imrahil](../I/Imrahil.md), [Elladan](../E/Elladan.md) và [Elrohir](../E/Elrohir.md).
 
 Trong sách, cũng như trong cảnh này, Gandalf dẫn đầu trong việc đối đầu với Miệng của Sauron. Tuy nhiên, thay vì chỉ hiển thị chiếc áo khoác mithril, Miệng cho Đội trưởng thấy thanh đoản kiếm mà Sam mang theo, và một chiếc áo choàng màu xám với một chiếc trâm cài hình yêu tinh. Thay vì giết Mouth vào cuối cuộc đàm phán, Gandalf lấy ba mã thông báo từ ông và bảo ông bắt đầu. Ông bỏ chạy vì sợ các Thuyền trưởng quay lại [Cirith Gorgor](../C/Cirith_Gorgor.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 

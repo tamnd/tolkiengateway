@@ -21,7 +21,7 @@ images:
 
 Faery được bao quanh bởi [Biển Bão Lặng Gió](../S/Sea_of_Windless_Storm.md). Vùng đất này có những thung lũng xinh đẹp với đầy rừng cây và đồng cỏ, cùng một ngọn đồi phủ bóng nằm trên một đồng bằng rộng lớn, nơi [Cây của Nhà vua](../K/King's_Tree.md) mọc lên. Faery có hai dãy núi: Dãy Núi Ngoài và Dãy Núi Trong. Tại <a class="new" href="https://tolkiengateway.net/w/index.php?title=Outer_Faery&amp;action=edit&amp;redlink=1" title="Outer Faery (page does not exist)">Outer Faery</a>, thuộc Dãy Núi Ngoài, có [Hồ Nước Mắt](../L/Lake_of_Tears.md)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> chứa đầy những sinh vật rực lửa. Mặt hồ cứng hơn đá và trơn trượt hơn thủy tinh. Trong Dãy Núi Trong có [Thung lũng Bình Minh Vĩnh Cửu](../V/Vale_of_Evermorn.md), nơi các thiếu nữ Tiên nhảy múa.<sup id="cite_ref-History_1-1" class="reference"><a href="#cite_note-History-1">[1]</a></sup>
 
-Nhờ ngôi sao Fay mà Smith đã ăn (được chuyển lên trán cậu vào sinh nhật lần thứ mười), Smith có thể đến thăm Faery và khám phá nhiều vùng khác nhau ở đó. Tại Thung lũng Bình Minh Vĩnh Cửu, cậu được phép khiêu vũ cùng các thiếu nữ trên bãi cỏ, và cuối cùng, tại một nơi cao ráo, cậu đã gặp Nữ hoàng Faery.<sup id="cite_ref-History_1-2" class="reference"><a href="#cite_note-History-1">[1]</a></sup>
+Nhờ Sao Tiên mà Smith đã ăn (được chuyển lên trán cậu vào sinh nhật lần thứ mười), Smith có thể đến thăm Faery và khám phá nhiều vùng khác nhau ở đó. Tại Thung lũng Bình Minh Vĩnh Cửu, cậu được phép khiêu vũ cùng các thiếu nữ trên bãi cỏ, và cuối cùng, tại một nơi cao ráo, cậu đã gặp Nữ hoàng Faery.<sup id="cite_ref-History_1-2" class="reference"><a href="#cite_note-History-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}
 

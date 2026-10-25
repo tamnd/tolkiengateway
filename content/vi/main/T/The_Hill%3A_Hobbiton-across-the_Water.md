@@ -29,7 +29,7 @@ images:
 
 ## Mô tả {#Description}
 
-Hình minh họa đường đi qua [Hobbiton](../H/Hobbiton.md) đến [Bagshot Row](../B/Bagshot_Row.md) và [Hobbiton Hill](../H/Hobbiton_Hill.md). Ngay bên dưới Đồi là [Cây Đảng](../P/Party_Tree.md). Ở phía trước được mô tả [The Water](The_Water.md) và [Nhà máy cũ](../O/Old_Mill.md). Ở trung tâm là [Old Grange](../O/Old_Grange.md). Ở phía xa, bên trái Đồi, người ta có thể thoáng thấy [Bindbale Wood](../B/Bindbale_Wood~18767.md) của [North Farthing](../N/North_Farthing.md).<sup id="cite_ref-AI_1-1" class="reference"><a href="#cite_note-AI-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Hình minh họa đường đi qua [Hobbiton](../H/Hobbiton.md) đến [Bagshot Row](../B/Bagshot_Row.md) và [Hobbiton Hill](../H/Hobbiton_Hill.md). Ngay bên dưới Đồi là [Cây Hội Tiệc](../P/Party_Tree.md). Ở phía trước được mô tả [The Water](The_Water.md) và [Cối xay cũ](../O/Old_Mill.md). Ở trung tâm là [Old Grange](../O/Old_Grange.md). Ở phía xa, bên trái Đồi, người ta có thể thoáng thấy [Bindbale Wood](../B/Bindbale_Wood~18767.md) của [North Farthing](../N/North_Farthing.md).<sup id="cite_ref-AI_1-1" class="reference"><a href="#cite_note-AI-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Lịch sử {#History}
 

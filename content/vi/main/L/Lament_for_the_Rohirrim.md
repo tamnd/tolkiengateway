@@ -61,7 +61,7 @@ Vào năm [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md), [Aragorn](..
 
 Phiên bản sớm nhất của bài thơ, có thể được viết "giữa [tháng 2](../F/February.md) và giữa mùa hè" của [1942](../_/1942.md), "có vẻ" thiên về "Eorl chuyến đi từ phương Bắc" hơn là về thời gian trôi qua.<sup id="cite_ref-collectedpoems_2-0" class="reference"><a href="#cite_note-collectedpoems-2">[2]</a></sup> Sau đó, trong bản thảo tiếp theo,<sup id="cite_ref-collectedpoems_2-1" class="reference"><a href="#cite_note-collectedpoems-2">[2]</a></sup> Tolkien đã sử dụng phong cách của <i><a class="extiw" href="http://en.wikipedia.org/wiki/The_Wanderer" title="wikipedia:The Wanderer">The Wanderer</a></i>,<sup id="cite_ref-collectedpoems_2-2" class="reference"><a href="#cite_note-collectedpoems-2">[2]</a></sup> đã sử dụng quy ước có tên <i><a class="extiw" href="http://en.wikipedia.org/wiki/Ubi_sunt" title="wikipedia:Ubi sunt">Ubi sunt</a></i>.<sup id="cite_ref-companion_3-0" class="reference"><a href="#cite_note-companion-3">[3]</a></sup>
 
-Trong bản sửa đổi của phiên bản đầu tiên của chương "[ Vua của Sảnh Vàng](../T/The_King_of_the_Golden_Hall.md)", Tolkien đã viết câu Aragorn thốt ra trong câu chuyện, mặc dù Eorl được gọi là "Người già" chứ không phải "Người trẻ".<sup id="cite_ref-early_4-0" class="reference"><a href="#cite_note-early-4">[4]</a></sup>
+Trong bản sửa đổi của phiên bản đầu tiên của chương "[ Vua của Đại Sảnh Vàng](../T/The_King_of_the_Golden_Hall.md)", Tolkien đã viết câu Aragorn thốt ra trong câu chuyện, mặc dù Eorl được gọi là "Người già" chứ không phải "Người trẻ".<sup id="cite_ref-early_4-0" class="reference"><a href="#cite_note-early-4">[4]</a></sup>
 
 ## Cảm hứng {#Inspiration}
 

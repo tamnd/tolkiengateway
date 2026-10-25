@@ -22,7 +22,7 @@ langlinks:
     url: "https://kontu.wiki/Ethuil"
 ---
 
-**Ethuil** là tên [Sindarin](../S/Sindarin.md) chỉ mùa xuân; được gọi là [Tuilë](../T/Tuilë.md) ở [Quenya](../Q/Quenya.md). Theo [Tính toán của Rivendell](../R/Reckoning_of_Rivendell.md) thì đây là mùa đầu tiên trong năm và ít nhiều tương ứng với 54 ngày từ [7 tháng 4](../_/7_April.md) đến [30 tháng 5](../_/30_May.md) trong [Lịch Shire](../S/Shire_Calendar.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Ethuil** là tên [Sindarin](../S/Sindarin.md) chỉ mùa xuân; được gọi là [Tuilë](../T/Tuilë.md) ở [Quenya](../Q/Quenya.md). Theo [Lịch Rivendell](../R/Reckoning_of_Rivendell.md) thì đây là mùa đầu tiên trong năm và ít nhiều tương ứng với 54 ngày từ [7 tháng 4](../_/7_April.md) đến [30 tháng 5](../_/30_May.md) trong [Lịch Shire](../S/Shire_Calendar.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

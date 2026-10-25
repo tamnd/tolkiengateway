@@ -72,7 +72,7 @@ infobox:
 <p class="tg-quote-footer"><cite>Náin<sup id="cite_ref-Durin&#39;s_Folk_1-1" class="reference"><a href="#cite_note-Durin&#39;s_Folk-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Náin** ([Kỷ Đệ Tam](../T/Third_Age.md) [2665](../T/Third_Age_2665.md) - [2799](../T/Third_Age_2799.md), sống 134 năm) là con trai của [Grór](../G/Grór.md), [Chúa tể của Dãy Đồi Sắt](../L/Lord_of_the_Iron_Hills.md).
+**Náin** ([Kỷ Đệ Tam](../T/Third_Age.md) [2665](../T/Third_Age_2665.md) - [2799](../T/Third_Age_2799.md), sống 134 năm) là con trai của [Grór](../G/Grór.md), [Chúa tể Dãy Đồi Sắt](../L/Lord_of_the_Iron_Hills.md).
 
 ## Lịch sử {#History}
 

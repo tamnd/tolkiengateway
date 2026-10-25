@@ -44,7 +44,7 @@ Có thể dòng trong Hội đồng Elrond thể hiện ý định trước đó
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-### Cửu Nhẫn trong bản chuyển thể {#The_Nine_Rings_in_adaptations}
+### Chín chiếc Nhẫn trong bản chuyển thể {#The_Nine_Rings_in_adaptations}
 
 <ul class="gallery mw-gallery-traditional">
 		<li class="gallerybox" style="width: 285px">

@@ -39,7 +39,7 @@ Mặc dù ranh giới của nó không được thiết lập rõ ràng, nhưng 
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-[Christopher Tolkien](../C/Christopher_Tolkien.md) lưu ý rằng tên chỉ xuất hiện trong [Bản đồ Rohan, Gondor và Mordor](../M/Map_of_Rohan,_Gondor,_and_Mordor.md), nhãn nằm ở phía bên kia dãy núi từ Dol Amroth.<sup id="cite_ref-Amroth14_8-1" class="reference"><a href="#cite_note-Amroth14-8">[8]</a></sup> Tên không xuất hiện trong [Bản đồ chung của Trung Địa](../G/General_Map_of_Middle-earth.md). Christopher Tolkien đặt nhãn ở cùng một vị trí, nhưng trong bối cảnh rộng hơn ở bản đồ mới hơn mà ông đã vẽ cho cuốn sách *[Unfinished Tales of Númenor and Middle-earth](../U/Unfinished_Tales.md)*.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
+[Christopher Tolkien](../C/Christopher_Tolkien.md) lưu ý rằng tên chỉ xuất hiện trong [Bản đồ Rohan, Gondor và Mordor](../M/Map_of_Rohan,_Gondor,_and_Mordor.md), nhãn nằm ở phía bên kia dãy núi từ Dol Amroth.<sup id="cite_ref-Amroth14_8-1" class="reference"><a href="#cite_note-Amroth14-8">[8]</a></sup> Tên không xuất hiện trong [Bản đồ tổng quát về Trung Địa](../G/General_Map_of_Middle-earth.md). Christopher Tolkien đặt nhãn ở cùng một vị trí, nhưng trong bối cảnh rộng hơn ở bản đồ mới hơn mà ông đã vẽ cho cuốn sách *[Unfinished Tales of Númenor and Middle-earth](../U/Unfinished_Tales.md)*.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 

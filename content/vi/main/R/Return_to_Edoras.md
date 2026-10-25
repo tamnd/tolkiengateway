@@ -34,6 +34,6 @@ infobox:
 
 ## Tóm tắt {#Synopsis}
 
-[Gandalf](../G/Gandalf.md) cùng đại đội [Orthanc](../O/Orthanc.md) quay trở lại [Sảnh Vàng](../G/Golden_Hall.md) để an nghỉ và tưởng nhớ những người đã hy sinh vì chiến thắng trong [Trận Helm's Deep](../B/Battle_of_Helm's_Deep.md).
+[Gandalf](../G/Gandalf.md) cùng đại đội [Orthanc](../O/Orthanc.md) quay trở lại [Đại Sảnh Vàng](../G/Golden_Hall.md) để an nghỉ và tưởng nhớ những người đã hy sinh vì chiến thắng trong [Trận Helm's Deep](../B/Battle_of_Helm's_Deep.md).
 
 Trong bữa tiệc, [Théoden](../T/Théoden.md) nói chuyện với [Éowyn](../_/Éowyn.md), nói với cô rằng anh rất vui vì tình yêu của Éowyn dành cho [Aragorn](../A/Aragorn.md), và rằng Aragorn là nguyên nhân chính dẫn đến chiến thắng ở [Helm's Deep](../H/Helm's_Deep.md). [Legolas](../L/Legolas.md) và [Gimli](../G/Gimli.md) tham gia trò chơi uống rượu với [Éomer](../_/Éomer.md) xem và phục vụ đồ uống. Gimli trở nên say khá rõ ràng rất nhanh và bất tỉnh, trong khi Legolas chỉ cảm thấy *"a slight tingle"* ở ngón tay của mình. [Merry](../M/Meriadoc_Brandybuck.md) và [Pippin](../P/Peregrin_Took.md) nhảy theo nhạc trên bàn trước sự thích thú của đám đông. Aragorn thảo luận về [Frodo](../F/Frodo_Baggins.md) với Gandalf, nói rằng ông đang tiến gần hơn đến [Mordor](../M/Mordor.md) mỗi ngày. Gandalf đặt câu hỏi làm thế nào họ có thể biết chắc chắn điều đó, và Aragorn trả lời rằng Gandalf, *"what does you heart tell you?"*

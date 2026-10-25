@@ -23,7 +23,7 @@ images:
 
 Số lượng Bounders tại bất kỳ thời điểm nào cũng thay đổi tùy theo nhu cầu. Trong thời gian tới [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), số lượng họ đã tăng lên rất nhiều<sup id="cite_ref-shire_1-1" class="reference"><a href="#cite_note-shire-1">[1]</a></sup> và họ bận rộn khi có những người và sinh vật lạ tiếp cận biên giới.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Hobbit của Shire không hề biết rằng đây là dấu hiệu đầu tiên cho thấy những rắc rối ở phía nam sẽ sớm lan đến biên giới của họ. [Ruffians](../R/Ruffians.md) và các điệp viên của [Isengard](../I/Isengard.md) và [Mordor](../M/Mordor.md) bắt đầu xâm nhập [Eriador](../E/Eriador.md).
+Hobbit ở Shire không hề biết rằng đây là dấu hiệu đầu tiên cho thấy những rắc rối ở phía nam sẽ sớm lan đến biên giới của họ. [Ruffians](../R/Ruffians.md) và các điệp viên của [Isengard](../I/Isengard.md) và [Mordor](../M/Mordor.md) bắt đầu xâm nhập [Eriador](../E/Eriador.md).
 
 ## Từ nguyên {#Etymology}
 

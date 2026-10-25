@@ -80,7 +80,7 @@ Khi chiến đấu trên những cánh đồng rộng lớn, xuyên rừng và v
 - [Boromir](../B/Boromir.md)
 - [Rohan Con Người](../R/Rohirrim.md)
 - [Éomer](../_/Éomer.md)
-- [Silvan Tiên tộc](../S/Silvan_Elves.md)
+- [Tiên tộc Silvan](../S/Silvan_Elves.md)
 - [Ent](../E/Ent.md)
 - [Mirkwood Tiên tộc](../E/Elves_of_Mirkwood.md)
 - [Faramir](../F/Faramir.md)

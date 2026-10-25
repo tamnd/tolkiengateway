@@ -39,7 +39,7 @@ images:
 - **"Phần 3: The Treason of Isengard"**
     - "Đồng bằng và rừng" - 33 phút
     - "Những tay đua của Rohan" - 32 phút
-    - "The Vua của Sảnh Vàng" - 31 phút
+    - "The Vua của Đại Sảnh Vàng" - 31 phút
     - "Hành trình tới Isengard" - 34 phút
     - "Tiếng nói của Saruman" - 29 phút
 - **"Phần 4: Chiếc nhẫn đi phương Đông"**

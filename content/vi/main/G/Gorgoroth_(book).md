@@ -46,7 +46,7 @@ infobox:
 
 ## Văn bản bìa/áo khoác {#Cover/Jacket_Text}
 
-Trong hàng ngàn năm, Con Người của Phương Tây đứng canh gác Vùng Đất Đen, luôn cảnh giác để ngăn chặn sự quay trở lại của Sauron sức mạnh. Đại Dịch đã phá vỡ chiếc canh gác đó và cái ác đang hoành hành ở phía đông Dãy Núi Bóng Tối. Ánh đuốc lóe lên từ những khe mũi tên của những tòa thành từng bị bỏ hoang và khói tỏa ra từ đỉnh núi dài yên tĩnh của Orodruin. Những con thú hôi hám di chuyển vào ban đêm qua các vết nứt trên bề mặt nứt vỡ của cao nguyên núi lửa Gorgoroth.
+Trong hàng ngàn năm, Con Người Phương Tây đứng canh gác Vùng Đất Đen, luôn cảnh giác để ngăn chặn sự quay trở lại của Sauron sức mạnh. Đại Dịch đã phá vỡ chiếc canh gác đó và cái ác đang hoành hành ở phía đông Dãy Núi Bóng Tối. Ánh đuốc lóe lên từ những khe mũi tên của những tòa thành từng bị bỏ hoang và khói tỏa ra từ đỉnh núi dài yên tĩnh của Orodruin. Những con thú hôi hám di chuyển vào ban đêm qua các vết nứt trên bề mặt nứt vỡ của cao nguyên núi lửa Gorgoroth.
 
 GORGOROTH bao gồm:
 

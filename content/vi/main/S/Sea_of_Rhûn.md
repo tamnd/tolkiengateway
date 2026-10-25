@@ -53,7 +53,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Ted_Nasmith_-_The_Sea_of_Rhûn.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b8/Ted_Nasmith_-_The_Sea_of_Rh%C3%BBn.jpg/320px-Ted_Nasmith_-_The_Sea_of_Rh%C3%BBn.jpg" decoding="async" loading="lazy" width="320" height="116" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b8/Ted_Nasmith_-_The_Sea_of_Rh%C3%BBn.jpg/480px-Ted_Nasmith_-_The_Sea_of_Rh%C3%BBn.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/b/b8/Ted_Nasmith_-_The_Sea_of_Rh%C3%BBn.jpg/640px-Ted_Nasmith_-_The_Sea_of_Rh%C3%BBn.jpg 2x" data-file-width="1920" data-file-height="695"/></a><figcaption>&#34;The Sea of Rhûn&#34; by <a href="../T/Ted_Nasmith.md" title="Ted Nasmith">Ted Nasmith</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Inland Sea</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Biển Rhûn</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin chung</span></th></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data"><a href="../R/Rhûn.md" title="Rhûn">Rhûn</a></td></tr><tr><th scope="row" class="tg-infobox-label">Loại</th><td class="tg-infobox-data">Inland Sea</td></tr><tr><th scope="row" class="tg-infobox-label">Bộ sưu tập hình ảnh</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_the_Sea_of_Rhûn.md" title="Category:Images of the Sea of Rhûn">Images of the Sea of Rhûn</a></td></tr></tbody></table>
 
-**Biển Rhûn** hoặc **Nội địa Biển**<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> là một hồ hoặc biển lớn ở phía bắc [Trung Địa](../M/Middle-earth.md) nằm ở phía đông [Rhovanion](../R/Rhovanion.md) trên biên giới phía tây của [Rhûn](../R/Rhûn.md). [Kine of Araw](../K/Kine_of_Araw.md) được tìm thấy trên cánh đồng Rhûn gần Nội địa Biển.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+**Biển Rhûn** hoặc **Biển Nội Địa**<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> là một hồ hoặc biển lớn ở phía bắc [Trung Địa](../M/Middle-earth.md) nằm ở phía đông [Rhovanion](../R/Rhovanion.md) trên biên giới phía tây của [Rhûn](../R/Rhûn.md). [Kine of Araw](../K/Kine_of_Araw.md) được tìm thấy trên cánh đồng Rhûn gần Biển Nội Địa.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Địa lý {#Geography}
 
@@ -67,11 +67,11 @@ Trong [Năm Cây](../Y/Years_of_the_Trees.md) trong thời kỳ [Đại Hành Tr
 
 Tại [Kỷ Đệ Nhất](../F/First_Age.md), bờ biển Nội địa Biển là nơi sinh sống của các bộ lạc [Con Người](../M/Men.md) đang di cư đến <a class="mw-redirect mw-disambig" href="../W/West.md" title="West">Phương Tây</a>. [Dân Tộc Nhỏ](../H/House_of_Bëor.md) đến đó trước và cư trú dưới chân những ngọn đồi gần đó. [Greater Folk](../H/House_of_Hador.md) đến sau trong khu rừng phía đông bắc gần bờ biển. Các Con Người chế tạo những chiếc thuyền và có thể đi biển, nhưng họ không gặp nhau thường xuyên và ngôn ngữ của họ sớm khác nhau<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> trước khi họ tiếp tục hành trình đến [Beleriand](../B/Beleriand.md).
 
-Vào thời kỳ đầu [Kỷ Đệ Tam](../T/Third_Age.md), [Các vị vua của Gondor](../K/Kings_of_Gondor.md) như [Rómendacil I](../R/Rómendacil_I.md) đã tiến hành chiến dịch tới những vùng đất đó và [Turambar](<../T/Turambar_(King_of_Gondor).md>) đã mở rộng vương quốc đến phương Đông. Đến thời Vua [Hyarmendacil I](../H/Hyarmendacil_I.md), Nội địa Biển hình thành một trong những ranh giới của [Gondor](../G/Gondor.md).<sup id="cite_ref-gondor_10-0" class="reference"><a href="#cite_note-gondor-10">[10]</a></sup>
+Vào thời kỳ đầu [Kỷ Đệ Tam](../T/Third_Age.md), [Các Vua Gondor](../K/Kings_of_Gondor.md) như [Rómendacil I](../R/Rómendacil_I.md) đã tiến hành chiến dịch tới những vùng đất đó và [Turambar](<../T/Turambar_(King_of_Gondor).md>) đã mở rộng vương quốc đến phương Đông. Đến thời Vua [Hyarmendacil I](../H/Hyarmendacil_I.md), Biển Nội Địa hình thành một trong những ranh giới của [Gondor](../G/Gondor.md).<sup id="cite_ref-gondor_10-0" class="reference"><a href="#cite_note-gondor-10">[10]</a></sup>
 
 [Vorondil](../V/Vorondil.md) đã săn Kine of Araw gần bờ biển Biển.<sup id="cite_ref-gondor_10-1" class="reference"><a href="#cite_note-gondor-10">[10]</a></sup>
 
-Vào thời [Rómendacil II](../R/Rómendacil_II.md), Nội địa Biển dường như nằm trong biên giới quyền lực của [Gondor](../G/Gondor.md).
+Vào thời [Rómendacil II](../R/Rómendacil_II.md), Biển Nội Địa dường như nằm trong biên giới quyền lực của [Gondor](../G/Gondor.md).
 
 ## Từ nguyên {#Etymology}
 
@@ -108,7 +108,7 @@ Christopher Tolkien từng đặt câu hỏi liệu Biển Rhûn có thể "...�
 
 ## Xem thêm {#See_also}
 
-- [phương Đông Biển](../E/East_Sea.md)
+- [Biển Đông](../E/East_Sea.md)
 - [Biển Helcar](Sea_of_Helcar.md)
 - [Biển Ringil](Sea_of_Ringil.md)
 

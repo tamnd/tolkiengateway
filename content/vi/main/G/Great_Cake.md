@@ -12,7 +12,7 @@ categories:
   - "Smith of Wootton Major"
 ---
 
-**Bánh tuyệt vời** là món ăn thượng hạng được phục vụ tại [Lễ hội những đứa trẻ ngoan](../T/The_Feast_of_Good_Children.md) ở làng [Wootton Major](../W/Wootton_Major.md). Vì Lễ hội chỉ được tổ chức hai mươi bốn năm một lần nên Bánh Vĩ Đại là thứ tạo nên danh tiếng của một [Bậc thầy đầu bếp](../M/Master_Cook.md) (vì hiếm có ai tại vị đủ lâu để làm ra Chiếc Bánh Tuyệt vời thứ hai).
+**Bánh tuyệt vời** là món ăn thượng hạng được phục vụ tại [Lễ hội Trẻ ngoan](../T/The_Feast_of_Good_Children.md) ở làng [Wootton Major](../W/Wootton_Major.md). Vì Lễ hội chỉ được tổ chức hai mươi bốn năm một lần nên Bánh Vĩ Đại là thứ tạo nên danh tiếng của một [Bậc thầy đầu bếp](../M/Master_Cook.md) (vì hiếm có ai tại vị đủ lâu để làm ra Chiếc Bánh Tuyệt vời thứ hai).
 
 Những người đánh giá sự xuất sắc của Chiếc Bánh Lớn không chỉ là 24 đứa trẻ được mời đến dự Lễ; người ta mong đợi rằng một chiếc bánh nhỏ hơn với những nguyên liệu tương tự sẽ được làm cho những người đã giúp tổ chức Lễ. Người ta cũng mong đợi rằng mỗi chiếc Bánh Lớn sẽ có điều gì đó đáng ngạc nhiên về nó để nó không chỉ đơn thuần là sự lặp lại của bất kỳ chiếc bánh nào trước đó.
 
@@ -20,7 +20,7 @@ Khi Master Cook [Nokes](../N/Nokes.md) thiết kế Great Cake của mình, ông
 
 Chiếc bánh của Nokes khi được làm có một ngọn núi ở giữa với nữ hoàng nhỏ màu trắng ở trên cùng. Chiếc bánh rất ngon mặc dù ông đầu bếp keo kiệt chỉ làm đủ cho mỗi đứa trẻ một miếng – không có giây cho bất cứ ai. Không thể tìm thấy ngôi sao được nướng trong Bánh. Nó đã bị nuốt chửng bởi một trong những cậu bé cùng bàn, được gọi là "[Smithson](../S/Smith_Smithson.md)" khi còn trẻ và "Smith" khi lớn hơn. Việc ăn ngôi sao đã thay đổi cuộc đời của chàng trai trẻ Smith.
 
-Sau khi Nokes nghỉ hưu, Alf là Đầu bếp chính cho hai Bữa tiệc tiếp theo. Vào bữa tiệc thứ hai, Alf đã lấy được ngôi sao từ Smith và lại nướng nó vào bánh. Lần này nó đã bị ăn bởi [Tim of Townsend](../T/Tim_of_Townsend.md), cháu trai của Smith và được lựa chọn đặc biệt để nhận ngôi sao Fay (và quyền truy cập vào vùng đất của [Faery](../F/Faery.md)).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
+Sau khi Nokes nghỉ hưu, Alf là Đầu bếp chính cho hai Bữa tiệc tiếp theo. Vào bữa tiệc thứ hai, Alf đã lấy được ngôi sao từ Smith và lại nướng nó vào bánh. Lần này nó đã bị ăn bởi [Tim of Townsend](../T/Tim_of_Townsend.md), cháu trai của Smith và được lựa chọn đặc biệt để nhận Sao Tiên (và quyền truy cập vào vùng đất của [Faery](../F/Faery.md)).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

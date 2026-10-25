@@ -95,7 +95,7 @@ infobox:
 </tbody></table>
 </div></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Dòng thời gian</span></th></tr></tbody></table>
 
-**Haleth** là con gái của [Haldad](Haldad.md) và là chị em sinh đôi của [Haldar](Haldar.md). Về sau, bà trở thành thủ lĩnh của [Haladin](Haladin.md), một trong [Ba Nhà của Edain](../E/Edain.md#The_Three_Houses).
+**Haleth** là con gái của [Haldad](Haldad.md) và là chị em sinh đôi của [Haldar](Haldar.md). Về sau, bà trở thành thủ lĩnh của [Haladin](Haladin.md), một trong [Ba Nhà Edain](../E/Edain.md#The_Three_Houses).
 
 ## Lịch sử {#History}
 

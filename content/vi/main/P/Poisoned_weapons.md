@@ -20,7 +20,7 @@ categories:
 
 ## Tiên tộc {#Elves}
 
-Người ta nói rằng [Eldar](../E/Eldar.md) chưa bao giờ sử dụng bất kỳ chất độc nào chống lại kẻ thù của họ.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Tuy nhiên, có một số ví dụ về [Tiên tộc](../E/Elves.md) đã sử dụng vũ khí tẩm độc. [Eöl](../E/Eöl.md) Bóng tối Tiên có một mũi lao tẩm độc, hắn ném vào [Maeglin](../M/Maeglin.md), nhưng trúng [Aredhel](../A/Aredhel.md), kẻ này chết vì vết thương đó ngay sau đó.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> [Các Tiên tộc Nargothrond](../E/Elves_of_Nargothrond.md) cũng sử dụng phi tiêu tẩm độc để bảo vệ vương quốc của họ sau sự ra đi của [Finrod](../F/Finrod.md) và trước khi [Túrin](../T/Túrin.md) xuất hiện.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
+Người ta nói rằng [Eldar](../E/Eldar.md) chưa bao giờ sử dụng bất kỳ chất độc nào chống lại kẻ thù của họ.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Tuy nhiên, có một số ví dụ về [Tiên tộc](../E/Elves.md) đã sử dụng vũ khí tẩm độc. [Eöl](../E/Eöl.md) Tiên Bóng tối có một mũi lao tẩm độc, hắn ném vào [Maeglin](../M/Maeglin.md), nhưng trúng [Aredhel](../A/Aredhel.md), kẻ này chết vì vết thương đó ngay sau đó.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> [Các Tiên tộc Nargothrond](../E/Elves_of_Nargothrond.md) cũng sử dụng phi tiêu tẩm độc để bảo vệ vương quốc của họ sau sự ra đi của [Finrod](../F/Finrod.md) và trước khi [Túrin](../T/Túrin.md) xuất hiện.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
 
 ## Người Lùn {#Dwarves}
 

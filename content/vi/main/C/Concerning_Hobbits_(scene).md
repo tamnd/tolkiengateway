@@ -40,7 +40,7 @@ Bilbo đang hoàn thiện [hồi ký](../R/Red_Book_of_Westmarch.md) của mình
 
 ## Sự khác biệt {#Differences}
 
-Lời tường thuật của cảnh này phần lớn được xây dựng từ đoạn mở đầu của Chúa tể những chiếc nhẫn, cũng như các đoạn chọn lọc khác. Bản thân cảnh này là một phát minh để dùng làm phần mở đầu cho các bộ phim. Điểm mâu thuẫn duy nhất của văn bản là Bilbo đưa ra ngày là 1400 trong Shire Tính toán, trong khi thực tế nó là 1401.
+Lời tường thuật của cảnh này phần lớn được xây dựng từ đoạn mở đầu của Chúa tể những chiếc nhẫn, cũng như các đoạn chọn lọc khác. Bản thân cảnh này là một phát minh để dùng làm phần mở đầu cho các bộ phim. Điểm mâu thuẫn duy nhất của văn bản là Bilbo đưa ra ngày là 1400 trong Lịch Shire, trong khi thực tế nó là 1401.
 
 ## Đố vui {#Trivia}
 

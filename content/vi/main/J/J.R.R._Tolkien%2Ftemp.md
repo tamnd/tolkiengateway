@@ -42,7 +42,7 @@ infobox:
 
 Giáo sư Tiến sĩ **John Ronald Reuel Tolkien** <a class="extiw" href="http://en.wikipedia.org/wiki/CBE" title="wikipedia:CBE">CBE</a> ([1892](../_/1892.md) - [1973](../_/1973.md)) là chủ đề của [Tolkien Gateway](../../project/A/About.md). Cuộc đời, tác phẩm, gia đình của ông: mọi thứ về người đàn ông mà người hâm mộ trìu mến gọi là **Giáo sư** đều có thể tìm thấy ở đây.
 
-Bên cạnh việc tạo ra [Arda](../A/Arda.md), [Vương quốc nhỏ](../L/Little_Kingdom.md) và nhiều thế giới tuyệt vời khác, cách đọc [Beowulf](../B/Beowulf%253A_The_Monsters_and_the_Critics.md) của Tolkien là một bước đột phá và được coi là cách diễn giải *the* của sử thi cho đến ngày nay.<sup id="cite_ref-FaHPre_2-0" class="reference"><a href="#cite_note-FaHPre-2">[2]</a></sup>
+Bên cạnh việc tạo ra [Arda](../A/Arda.md), [Tiểu Vương quốc](../L/Little_Kingdom.md) và nhiều thế giới tuyệt vời khác, cách đọc [Beowulf](../B/Beowulf%253A_The_Monsters_and_the_Critics.md) của Tolkien là một bước đột phá và được coi là cách diễn giải *the* của sử thi cho đến ngày nay.<sup id="cite_ref-FaHPre_2-0" class="reference"><a href="#cite_note-FaHPre-2">[2]</a></sup>
 
 ## Cuộc sống {#Life}
 

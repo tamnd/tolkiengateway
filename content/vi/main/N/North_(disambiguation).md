@@ -39,7 +39,7 @@ images:
 - [Cầu thang phía Bắc](North_Stair.md)
 - [Gia đình miền Bắc](North-took_Family.md)
 - [Lời tiên tri về phương Bắc](../P/Prophecy_of_the_North~56305.md)
-- [Biệt đội miền Bắc](../R/Rangers_of_the_North.md)
+- [Tuần Du Nhân phương Bắc](../R/Rangers_of_the_North.md)
 - [Đại sảnh thứ Hai mươi mốt](../T/Twenty-first_Hall.md) của [Đầu phía Bắc](North_End.md)
 
 ## Các bài viết khác {#Other_writings}

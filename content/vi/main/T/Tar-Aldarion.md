@@ -113,7 +113,7 @@ Chẳng bao lâu, Aldarion đã trở thành một thủy thủ tài ba, dẫn d
 
 Theo lệnh của ông, nhiều con tàu đã được đóng, trong đó có ba con tàu được nhắc đến thường xuyên hơn:
 
-- [Eämbar](../E/Eämbar.md), "Biển-Home", trụ sở của Hiệp hội mạo hiểm
+- [Eämbar](../E/Eämbar.md), "Biển-Home", trụ sở của Hiệp hội Nhà thám hiểm
 - [Palarran](../P/Palarran.md), "Kẻ lang thang xa xôi", người đã phục vụ ông trong nhiều chuyến đi
 - [Hirilondë](../H/Hirilondë.md), "Người tìm kiếm thiên đường", lớn nhất ở Númenor
 

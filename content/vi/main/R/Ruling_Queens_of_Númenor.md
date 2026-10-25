@@ -63,14 +63,14 @@ Sau cái chết của cha cô, [Tar-Palantir](../T/Tar-Palantir.md), vào [S.A.]
 ## Xem thêm {#See_also}
 
 - [Vua trong số Númenor](../K/King_of_Númenor.md)
-- [Nữ hoàng của Númenor](../Q/Queen_of_Númenor.md)
+- [Nữ hoàng Númenor](../Q/Queen_of_Númenor.md)
 
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
 <li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">Điều này thật bất thường vì trước đây người ta thường tuyên bố người thừa kế khi ông đủ 100 tuổi.</span>
 </li>
-<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text">Tar-Súrion có hai chị gái và cả hai đều có thể trở thành Nữ hoàng của Númenor nhưng cả hai đều từ chối (Điều mà những người thừa kế nam không thể làm, mặc dù họ có thể từ chức và truyền Vương trượng cho con trai mình ngay khi lên ngôi), vì vậy Vương quyền đã thuộc về Tar-Súrion.</span>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text">Tar-Súrion có hai chị gái và cả hai đều có thể trở thành Nữ hoàng Númenor nhưng cả hai đều từ chối (Điều mà những người thừa kế nam không thể làm, mặc dù họ có thể từ chức và truyền Vương trượng cho con trai mình ngay khi lên ngôi), vì vậy Vương quyền đã thuộc về Tar-Súrion.</span>
 </li>
 <li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text">Trong các văn bản khác có ghi rằng hạm đội Númenórean được gửi bởi Tar-Minastir, tuy nhiên nó đã đến <a href="../S/Second_Age.md" title="Second Age">S.A.</a> <a href="../S/Second_Age_1700.md" title="Second Age 1700">1700</a> vào thời kỳ trị vì của Tar-Telperiën. <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> không thể giải thích được sự khác biệt.</span>
 </li>

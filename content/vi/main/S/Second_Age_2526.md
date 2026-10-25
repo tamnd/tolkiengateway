@@ -21,7 +21,7 @@ sort_keys:
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 - Cái chết của [Tar-Telemmaitë](../T/Tar-Telemmaitë.md).<sup id="cite_ref-UT5_1-0" class="reference"><a href="#cite_note-UT5-1">[1]</a></sup>
-- [Tar-Vanimeldë](../T/Tar-Vanimeldë.md) trở thành [Nữ hoàng của Númenor](../Q/Queen_of_Númenor.md).<sup id="cite_ref-UT5_1-1" class="reference"><a href="#cite_note-UT5-1">[1]</a></sup>
+- [Tar-Vanimeldë](../T/Tar-Vanimeldë.md) trở thành [Nữ hoàng Númenor](../Q/Queen_of_Númenor.md).<sup id="cite_ref-UT5_1-1" class="reference"><a href="#cite_note-UT5-1">[1]</a></sup>
 
 <span></span>
 

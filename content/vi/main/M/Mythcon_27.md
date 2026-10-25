@@ -57,7 +57,7 @@ infobox:
 - Heidi Peterson, "Khởi đầu: Đọc Lewis vào quy luật viết về bản chất"
 - David Sandner, "Sự thăng hoa tuyệt vời: "Về những câu chuyện cổ tích" của Tolkien và Sự thăng hoa lãng mạn"
 - Tiến sĩ. William Sarjeant, "Địa chất Trung Địa"
-- Tim Schindler, "Những cám dỗ của Nhẫn quyền lực duy nhất tương quan với Ba cơn cám dỗ của Chúa Kitô trong vùng hoang dã"
+- Tim Schindler, "Những cám dỗ của Nhẫn Quyền Năng duy nhất tương quan với Ba cơn cám dỗ của Chúa Kitô trong vùng hoang dã"
 - [Arden R. Smith](../A/Arden_R._Smith.md), "Hội thảo bảng chữ cái Rúmilian"
 
 ## Liên kết ngoài {#External_links}

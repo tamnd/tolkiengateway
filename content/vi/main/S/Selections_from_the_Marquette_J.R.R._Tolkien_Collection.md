@@ -31,7 +31,7 @@ infobox:
 <i><b>Các lựa chọn từ Bộ sưu tập Marquette J.R.R. Tolkien</b></i> là một danh mục triển lãm từ Thư viện [Đại học Marquette](../M/Marquette_University.md). Danh mục bao gồm ba bài tiểu luận về các tác phẩm của [Tolkien](../J/J.R.R._Tolkien.md):
 
 - "Mr Bliss: Ghi chú về Bản thảo và Câu chuyện" (của [Jared C. Lobdell](../J/Jared_Lobdell.md))
-- "Ranh giới của Vương quốc nhỏ" (của [Taum Santoski](../T/Taum_Santoski.md))
+- "Ranh giới của Tiểu Vương quốc" (của [Taum Santoski](../T/Taum_Santoski.md))
 - "Câu chuyện lớn lên trong lời kể" (bởi [Verlyn Flieger](../V/Verlyn_Flieger.md))
 
 Điều đáng chú ý là việc đưa vào một câu của Tolkien đã bị xóa khỏi bản đánh máy của *[Farmer Giles of Ham](../F/Farmer_Giles_of_Ham.md)* trước khi sắp chữ (tr. 15).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>

@@ -26,7 +26,7 @@ Cùng với Bóng Tối, một máy chủ từ [Minas Morgul](../M/Minas_Morgul.
 
 Bóng Tối cũng được quan sát bởi [Rohirrim](../R/Rohirrim.md) đang tập hợp các Kỵ sĩ của họ và cưỡi ngựa từ [Harrowdale](../H/Harrowdale.md).<sup id="cite_ref-Muster_5-1" class="reference"><a href="#cite_note-Muster-5">[5]</a></sup>
 
-Vào ngày này [Faramir](../F/Faramir.md) đã được [Gandalf](../G/Gandalf.md) và [Imrahil](../I/Imrahil.md) giải cứu bên ngoài [Đại Môn Minas Tirith](../G/Great_Gate_of_Minas_Tirith.md) và [Aragorn II](../A/Aragorn.md) dẫn [Người chết Con Người](../O/Oathbreakers.md) và [Đại đội Xám](../G/Grey_Company.md) vượt sông [Ringló](../R/Ringló.md).<sup id="cite_ref-Great_3-2" class="reference"><a href="#cite_note-Great-3">[3]</a></sup>
+Vào ngày này [Faramir](../F/Faramir.md) đã được [Gandalf](../G/Gandalf.md) và [Imrahil](../I/Imrahil.md) giải cứu bên ngoài [Đại Môn Minas Tirith](../G/Great_Gate_of_Minas_Tirith.md) và [Aragorn II](../A/Aragorn.md) dẫn [Người chết Con Người](../O/Oathbreakers.md) và [Đội quân Xám](../G/Grey_Company.md) vượt sông [Ringló](../R/Ringló.md).<sup id="cite_ref-Great_3-2" class="reference"><a href="#cite_note-Great-3">[3]</a></sup>
 
 Chiếc Bóng Tối cuối cùng đã bị gió tây nam<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[note 1]</a></sup> xua đi vào sáng ngày [15 tháng 3](../_/15_March.md),<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[7]</a></sup> khi [Aragorn](../A/Aragorn.md) và những người bạn đồng hành của ông đến [Trận chiến trên Cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md).<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[8]</a></sup>
 

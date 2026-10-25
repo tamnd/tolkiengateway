@@ -35,7 +35,7 @@ Mandos, Kẻ thống trị cõi chết (Baritone): Julian Boyce
 
 Elbereth, Nữ hoàng ánh sáng (Giọng nữ cao): Emma Mary Llewellyn
 
-Trưởng lão Vua, Chúa tể của Valar (Bass): George Newton-Fitzgerald
+Vị Vua Cổ Xưa, Chúa tể của Valar (Bass): George Newton-Fitzgerald
 
 Maedhros, Con trai của Fëanor (Bass-Baritone): Stephen Wells
 
@@ -97,7 +97,7 @@ Saeros, ủy viên hội đồng của Doriath (Tenor): Michael Clifton-Thompson
 
 Mablung của Heavy Hand, Thuyền trưởng của Doriath (Bass): Stephen Wells
 
-Beleg Cúthalion, Đội trưởng của Doriath (Baritone): Philip Lloyd-Evans
+Beleg Cúthalion, Đội trưởng Doriath (Baritone): Philip Lloyd-Evans
 
 Gwindor, Lãnh chúa của Nargothrond (Baritone): Julian Boyce
 
@@ -119,9 +119,9 @@ Michael Clifton-Thompson/Simon Crosby Buttle/Julian Boyce/Jasey Hall
 
 <br> **[Tác phẩm. 49 - The Fall of Gondolin](<../T/The_Fall_of_Gondolin,_Op.49_(Opera).md>)**
 
-Ulmo, Chúa tể vùng nước (Bass):  Martin Lloyd
+Ulmo, Chúa tể các dòng nước (Bass):  Martin Lloyd
 
-Turgon, Vua của Gondolin (Bass):  George Newton-Fitzgerald
+Turgon, Vua Gondolin (Bass):  George Newton-Fitzgerald
 
 Aredhel, em gái ông (Mezzo-Soprano):  Louise Ratcliffe
 

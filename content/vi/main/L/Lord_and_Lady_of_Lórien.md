@@ -21,7 +21,7 @@ images:
 
 ## Lịch sử {#History}
 
-Galadhrim là [Silvan Tiên tộc](../S/Silvan_Elves.md), được cai trị bởi [Sindarin](../S/Sindar.md) [Vua của Lórien](../K/King_of_Lórien.md); sau khi mất Vua [Amroth](../A/Amroth.md) cuối cùng ở [T.A.](../T/Third_Age.md) [1981](../T/Third_Age_1981.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Celeborn và Galadriel đã đến cai trị vương quốc, mặc dù họ đã từ bỏ danh hiệu hoàng gia "Vua" và "Nữ hoàng".
+Galadhrim là [Tiên tộc Silvan](../S/Silvan_Elves.md), được cai trị bởi [Sindarin](../S/Sindar.md) [Vua của Lórien](../K/King_of_Lórien.md); sau khi mất Vua [Amroth](../A/Amroth.md) cuối cùng ở [T.A.](../T/Third_Age.md) [1981](../T/Third_Age_1981.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Celeborn và Galadriel đã đến cai trị vương quốc, mặc dù họ đã từ bỏ danh hiệu hoàng gia "Vua" và "Nữ hoàng".
 
 Dưới thời họ, vương quốc thịnh vượng trong một thiên niên kỷ. Với sức mạnh của [Nenya](../N/Nenya.md), Galadriel đã giữ cho vùng đất này trong sạch và tồn tại, và cái ác không được phép xâm nhập vào. Họ xây [Caras Galadhon](../C/Caras_Galadhon.md) phía tây ngang qua [Anduin](../A/Anduin.md) nơi cô gieo hạt giống của những cây [mallorn](../M/Mallorn.md) được [Gil-galad](../G/Gil-galad.md) tặng cho cô.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 

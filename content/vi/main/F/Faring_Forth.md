@@ -61,7 +61,7 @@ Theo một văn bản khác nữa, sau khi Eriol qua đời, các con trai của
 
 Trong một văn bản, tiếp theo những văn bản được đưa ra ở phần chính của bài viết, Tolkien đã quyết định tăng tầm quan trọng của Eriol bằng cách biến anh ta thành công cụ trong việc khởi xướng Faring Forth.
 
-Ở đó, Eriol, tràn đầy khao khát về tổ ấm của mình, đã quyết định rời đi Tol Eressëa trước khi Faring Forth diễn ra trái với mệnh lệnh của [Meril-i-Turinqi](../M/Meril-i-Turinqi.md), Phu nhân của Tol Eressëa, mang theo con trai Heorrenda của ông. Tuy nhiên, mục đích ra đi của ông cũng là để đẩy nhanh Faring Forth, và khi trở về quê hương, ông đã “rao giảng” về nó.
+Ở đó, Eriol, tràn đầy khao khát về tổ ấm của mình, đã quyết định rời đi Tol Eressëa trước khi Faring Forth diễn ra trái với mệnh lệnh của [Meril-i-Turinqi](../M/Meril-i-Turinqi.md), Phu nhân Tol Eressëa, mang theo con trai Heorrenda của ông. Tuy nhiên, mục đích ra đi của ông cũng là để đẩy nhanh Faring Forth, và khi trở về quê hương, ông đã “rao giảng” về nó.
 
 Cuối cùng, khi Faring Forth diễn ra, các nhóm xâm lược Con Người được gọi là [Guiðlin](../G/Guiðlin.md) và [Brithonin](../B/Brithonin.md),<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[note 4]</a></sup> đã tấn công Tol Eressëa, hiện nằm ở vị trí địa lý của nước Anh. Ở đâu đó vào khoảng thời gian đó Eriol đã chết, tuy nhiên các con trai của ông là Hengest và Horsa đã chinh phục được Guiðlin. Thật không may, vì sự vội vàng và không vâng lời của Eriol đối với Meril, Faring Forth đã bị diệt vong, và Tiên tộc cuối cùng cũng lụi tàn vì điều đó.<sup id="cite_ref-Eri_9-0" class="reference"><a href="#cite_note-Eri-9">[5]</a></sup>
 
@@ -79,7 +79,7 @@ Phần còn lại của Tiên tộc, sau cuộc chiến với Con Người tà �
 
 Tuy nhiên, sau sự biến mất của Ing và các cuộc xâm lược tiếp theo của Con Người không thân thiện, phần lớn Tiên tộc trên đảo đã chuyển đến Tol Eressëa.<sup id="cite_ref-Sec_14-0" class="reference"><a href="#cite_note-Sec-14">[10]</a></sup>
 
-Trong một phác thảo, người ta đã tiên tri rằng một ngày nào đó Ing sẽ dẫn Tiên tộc của Tol Eressëa chinh phục lại Luthany, trong một sự kiện được gọi là <i><b>Thứ hai Faring Forth</b></i>.<sup id="cite_ref-Sec_14-1" class="reference"><a href="#cite_note-Sec-14">[10]</a></sup><sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[11]</a></sup>
+Trong một phác thảo, người ta đã tiên tri rằng một ngày nào đó Ing sẽ dẫn Tiên tộc Tol Eressëa chinh phục lại Luthany, trong một sự kiện được gọi là <i><b>Thứ hai Faring Forth</b></i>.<sup id="cite_ref-Sec_14-1" class="reference"><a href="#cite_note-Sec-14">[10]</a></sup><sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[11]</a></sup>
 
 ## Xem thêm {#See_also}
 

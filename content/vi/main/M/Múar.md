@@ -39,7 +39,7 @@ East-demon, Scourge of Tumunamahal</td></tr><tr><th scope="row" class="tg-infobo
 
 ### Kỷ Đệ Nhất {#First_Age}
 
-Múar ban đầu là người hầu của Vala [Vana](../V/Vána.md) và là bạn đồng hành của Maia [Arien](../A/Arien.md). Ông tham gia cuộc nổi dậy của [Morgoth](Morgoth.md) và gia nhập Trung Địa, phục vụ Chúa tể Bóng tối trong Ngày của Người cao tuổi. Do "sự duyên dáng và khả năng tàng hình đặc biệt" của ông, Morgoth đã bổ nhiệm ông làm Lãnh chúa của [Uax](../U/Urd.md#Uax) sau [Battle Under Stars](../D/Dagor-nuin-Giliath.md). Mặc dù kém mạnh mẽ hơn những Balrog khác, Múar là một chỉ huy nhanh nhẹn và thông minh, người chỉ huy các chiến dịch chống lại các bộ tộc Avari ở phía đông bắc Trung Địa. Ông đã sống sót sau thất bại cuối cùng của Morgoth vào cuối Kỷ Đệ Nhất.
+Múar ban đầu là người hầu của Vala [Vana](../V/Vána.md) và là bạn đồng hành của Maia [Arien](../A/Arien.md). Ông tham gia cuộc nổi dậy của [Morgoth](Morgoth.md) và gia nhập Trung Địa, phục vụ Chúa tể Bóng tối trong Thời Cổ xưa. Do "sự duyên dáng và khả năng tàng hình đặc biệt" của ông, Morgoth đã bổ nhiệm ông làm Lãnh chúa của [Uax](../U/Urd.md#Uax) sau [Battle Under Stars](../D/Dagor-nuin-Giliath.md). Mặc dù kém mạnh mẽ hơn những Balrog khác, Múar là một chỉ huy nhanh nhẹn và thông minh, người chỉ huy các chiến dịch chống lại các bộ tộc Avari ở phía đông bắc Trung Địa. Ông đã sống sót sau thất bại cuối cùng của Morgoth vào cuối Kỷ Đệ Nhất.
 
 ### Kỷ Đệ Nhị {#Second_Age}
 

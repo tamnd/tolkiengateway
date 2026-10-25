@@ -70,7 +70,7 @@ Tiên tộc và những người lùn hoàn thành những công việc cuối c
 
 Quyển 1 đã được phát hành vào [1 tháng 3](../_/1_March.md), [2010](../_/2010.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-[Elrond](../E/Elrond.md) nhận được một tin nhắn bí ẩn từ [Galadriel](../G/Galadriel.md), yêu cầu ông tập hợp [Biệt đội miền Bắc](../R/Rangers_of_the_North.md) và cử họ đến [Rohan](../R/Rohan.md) để giúp đỡ [Aragorn](../A/Aragorn.md). Người chơi được triệu tập đến [Ngôi nhà giản dị cuối cùng](../R/Rivendell.md) và đưa ra danh sách Rangers để chiêu mộ: Radanir, Candaith, Saeradan, Halros, [Halbarad](../H/Halbarad.md), Calenglad, Lothrandir, Corunir và Golodir.
+[Elrond](../E/Elrond.md) nhận được một tin nhắn bí ẩn từ [Galadriel](../G/Galadriel.md), yêu cầu ông tập hợp [Tuần Du Nhân phương Bắc](../R/Rangers_of_the_North.md) và cử họ đến [Rohan](../R/Rohan.md) để giúp đỡ [Aragorn](../A/Aragorn.md). Người chơi được triệu tập đến [Ngôi nhà Cuối cùng Ấm cúng](../R/Rivendell.md) và đưa ra danh sách Rangers để chiêu mộ: Radanir, Candaith, Saeradan, Halros, [Halbarad](../H/Halbarad.md), Calenglad, Lothrandir, Corunir và Golodir.
 
 Các bản cập nhật bao gồm (<a class="external text" href="http://lorebook.lotro.com/wiki/Release_Notes_Volume_3_Allies_of_the_King_Official" rel="noreferrer noopener" target="_blank">ghi chú phát hành đầy đủ</a>):
 

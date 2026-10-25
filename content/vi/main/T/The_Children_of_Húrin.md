@@ -109,7 +109,7 @@ Câu chuyện là một trong ba "[câu chuyện hay](../A/Atanatarion.md)" lấ
 - **Narn I Chîn Húrin: Câu chuyện về những đứa trẻ của Húrin**
 
 1. "[Tuổi thơ của Túrin](The_Childhood_of_Túrin.md)"
-2. "[Trận chiến của những giọt nước mắt không đếm được](The_Battle_of_Unnumbered_Tears.md)"
+2. "[Trận chiến Nước mắt Vô số](The_Battle_of_Unnumbered_Tears.md)"
 3. "[Lời của Húrin và Morgoth](The_Words_of_Húrin_and_Morgoth.md)"
 4. "[Sự khởi hành của Túrin](The_Departure_of_Túrin.md)"
 5. "[Túrin trong Doriath](Túrin_in_Doriath.md)"

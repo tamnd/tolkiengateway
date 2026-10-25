@@ -42,7 +42,7 @@ images:
 
 Chúng tôi được giới thiệu với [Eriol](../E/Eriol.md) người thủy thủ, được mô tả là một *"man of great curiosity"* người đã hành trình đến Đảo Cô đơn, [Tol Eressëa](Tol_Eressëa.md) từ [Great Lands](../M/Middle-earth.md#Other_versions_of_the_legendarium).
 
-Trong khi đi qua trung tâm hòn đảo, anh đến được khu vực sau này được đặt tên là [Alalminórë](../A/Alalminórë.md). Eriol quyết định đã đến lúc tìm chỗ ở ngay khi mặt trời bắt đầu lặn và những ngôi sao đầu tiên xuất hiện trên bầu trời. Lên đến đỉnh đồi, anh rẽ vào một con đường ngoằn ngoèo và ở sườn phía tây, anh nhìn thấy một ngôi nhà nhỏ, đây là [Ngôi nhà của Lost Play](../C/Cottage_of_Lost_Play.md).
+Trong khi đi qua trung tâm hòn đảo, anh đến được khu vực sau này được đặt tên là [Alalminórë](../A/Alalminórë.md). Eriol quyết định đã đến lúc tìm chỗ ở ngay khi mặt trời bắt đầu lặn và những ngôi sao đầu tiên xuất hiện trên bầu trời. Lên đến đỉnh đồi, anh rẽ vào một con đường ngoằn ngoèo và ở sườn phía tây, anh nhìn thấy một ngôi nhà nhỏ, đây là [Ngôi nhà Trò chơi Thất lạc](../C/Cottage_of_Lost_Play.md).
 
 Ở đó, anh gặp [Lindo](../L/Lindo.md) và [Vairë](../V/Vairë.md), những người đã xây dựng ngôi nhà cách đây nhiều năm và hiện đang chăm sóc cho nhiều đứa con thất lạc của những người đàn ông vẫn ở lại [Kôr](../K/Kôr.md) với [Eldar](../E/Eldar.md) mãi mãi. Từ họ Eriol biết được nền tảng của [Kortirion](../K/Kortirion.md) và một số phần nhỏ về lịch sử của Eldar.
 

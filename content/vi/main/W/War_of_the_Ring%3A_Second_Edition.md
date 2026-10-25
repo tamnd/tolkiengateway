@@ -158,7 +158,7 @@ Giống như trong văn bản nguồn, [The Fellowship of the Ring](../T/The_Fel
 Lực lượng Bóng Tối chỉ có một số ít nhân vật nhưng mạnh mẽ không kém. Ngoài Ring-wraith, Minion của Bóng Tối không bắt đầu trò chơi khi đang chơi mà thay vào đó được chiêu mộ khi hoàn cảnh yêu cầu.
 
 - Tám [Nazgûl](../N/Nazgûl.md) có thể nhanh chóng di chuyển khắp bản đồ theo yêu cầu, một số trong số đó được đặt sẵn khi trò chơi bắt đầu
-- Cô [Phù thủy Vua](Witch_King.md)
+- Cô [Vua Phù thủy](Witch_King.md)
 - [Saruman](../S/Saruman.md)
 - [Cái Miệng của Sauron](../T/The_Mouth_of_Sauron~36612.md)
 
@@ -534,8 +534,8 @@ Danh sách các địa điểm được nhóm lại một cách đại khái v�
     - Chúa [Elrond](../E/Elrond.md), Người canh giữ [Vilya](../V/Vilya.md), người nếu Sauron hoặc Tiên tộc đang tham chiến, có thể được chơi ở Rivendell, nơi ông phải ở lại.
     - [Gandalf the Grey](../G/Gandalf_the_Grey.md), Người giữ [Narya](../N/Narya.md). Một phiên bản thay thế của Gandalf the Grey từ trò chơi cốt lõi, khám phá một thực tế thay thế nơi Gandalf sử dụng một cách công khai hơn sức mạnh của Chiếc nhẫn Tiên.
 - Nhân vật mới cho Lực lượng Bóng Tối:
-    - [Balrog của Moria](../B/Balrog_of_Moria.md), có thể không hoạt động trong Moria, nhưng sau khi được giải phóng có thể đi lang thang trên bản đồ. Nó bổ sung một Xúc xắc Hành động Minion Nhỏ hơn đặc biệt vào nhóm Xúc xắc Bóng Tối của Người chơi.
-    - <a class="mw-redirect mw-disambig" href="../G/Gothmog.md" title="Gothmog">Gothmog</a>, Trung úy của [Morgul](../M/Morgul.md), có thể chơi trong Minas Morgul, nhưng chỉ khi Phù thủy Vua chưa xuất hiện. Nó bổ sung một Xúc xắc hành động Minion nhỏ hơn đặc biệt vào nhóm xúc xắc Bóng Tối của Người chơi.
+    - [Balrog Moria](../B/Balrog_of_Moria.md), có thể không hoạt động trong Moria, nhưng sau khi được giải phóng có thể đi lang thang trên bản đồ. Nó bổ sung một Xúc xắc Hành động Minion Nhỏ hơn đặc biệt vào nhóm Xúc xắc Bóng Tối của Người chơi.
+    - <a class="mw-redirect mw-disambig" href="../G/Gothmog.md" title="Gothmog">Gothmog</a>, Trung úy của [Morgul](../M/Morgul.md), có thể chơi trong Minas Morgul, nhưng chỉ khi Vua Phù thủy chưa xuất hiện. Nó bổ sung một Xúc xắc hành động Minion nhỏ hơn đặc biệt vào nhóm xúc xắc Bóng Tối của Người chơi.
     - The Miệng của Sauron, Black Numenorean, một phiên bản thay thế của nhân vật trong trò chơi cơ bản, có thể mở rộng các cuộc vây hãm và tăng tốc độ tập trung quân đội.
     - The Witch-Vua, Chief of Nazgûl, một phiên bản thay thế cho phép rút thẻ nhanh hơn cũng như phản ứng nhanh chóng với các chuyển động đã được tuyên bố của Hiệp hội. Phiên bản này có thể thay thế phiên bản trò chơi cơ bản của nhân vật ở giữa trò chơi khi Bóng Tối Người chơi thấy phù hợp (hoặc ngược lại, một lần mỗi trò chơi).
 - Ngoài ra, [Sméagol](../S/Sméagol.md) đã được thêm làm hướng dẫn hữu ích cho Người Tự do cho Hiệp hội miễn là Gollum chưa xuất hiện. Tuy nhiên, Sméagol đã chờ đợi thời cơ của mình cho đến khi Hiệp hội chỉ còn lại hai người Hobbit...

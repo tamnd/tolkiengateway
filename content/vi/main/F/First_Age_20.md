@@ -22,7 +22,7 @@ Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 ## Mùa xuân {#Spring}
 
-- [Fingolfin](Fingolfin.md), [Đại Vương của Noldor](../H/High_King_of_the_Noldor.md), chủ trì [Mereth Aderthad](../M/Mereth_Aderthad.md) - "Lễ đoàn tụ" - tại [Hồ bơi Ivrin](../P/Pools_of_Ivrin.md). Sự kiện vui vẻ này được thiết kế để tạo ra tình bạn giữa tất cả Tiên tộc [Beleriand](../B/Beleriand.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:34</sup> Nó được tổ chức vào mùa xuân.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:§99</sup>
+- [Fingolfin](Fingolfin.md), [Đại Vương Noldor](../H/High_King_of_the_Noldor.md), chủ trì [Mereth Aderthad](../M/Mereth_Aderthad.md) - "Lễ đoàn tụ" - tại [Hồ bơi Ivrin](../P/Pools_of_Ivrin.md). Sự kiện vui vẻ này được thiết kế để tạo ra tình bạn giữa tất cả Tiên tộc [Beleriand](../B/Beleriand.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:34</sup> Nó được tổ chức vào mùa xuân.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:§99</sup>
 
 <span></span>
 

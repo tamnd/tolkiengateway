@@ -59,7 +59,7 @@ Ingil thuộc về [Inwir](Inwir.md), gia tộc hoàng gia của [Teleri](../V/V
 
 Tại đây, ông thành lập thành phố [Koromas](../K/Koromas.md) ở [giữa](../A/Alalminórë.md) hòn đảo và xây dựng một [tháp vĩ đại](../T/Tirin_na_Gilweth.md), từ đó mà tên khác của thành phố là *Kortirion*.<sup id="cite_ref-Kor_1-2" class="reference"><a href="#cite_note-Kor-1">[1]</a></sup> Đảo Tol Eressëa còn được gọi là *[Ingilnórë](Ingilnórë.md)*,<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[note 1]</a></sup> để vinh danh Ingil.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[6]</a></sup>
 
-Cháu gái của ông, [Meril-i-Turinqi](../M/Meril-i-Turinqi.md), sau này trở thành Phu nhân của Tol Eressëa, có thể là sau khi Ingil cuối cùng trở lại Valinor.<sup id="cite_ref-Mer_3-1" class="reference"><a href="#cite_note-Mer-3">[3]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[note 2]</a></sup>
+Cháu gái của ông, [Meril-i-Turinqi](../M/Meril-i-Turinqi.md), sau này trở thành Phu nhân Tol Eressëa, có thể là sau khi Ingil cuối cùng trở lại Valinor.<sup id="cite_ref-Mer_3-1" class="reference"><a href="#cite_note-Mer-3">[3]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[note 2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

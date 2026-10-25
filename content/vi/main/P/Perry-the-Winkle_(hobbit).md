@@ -32,7 +32,7 @@ images:
 
 **Perry-the-Winkle** là [Hobbit](../H/Hobbit.md) của [Michel Delving](../M/Michel_Delving.md), và là nhân vật chính của bài thơ hobbit *[Perry-the-Winkle](Perry-the-Winkle.md)*.
 
-Trong bài thơ, Perry là người hobbit duy nhất đối xử tử tế với [Quỷ cô đơn](../L/Lonely_Troll.md), và ở anh, Quỷ lùn đã tìm thấy người bạn mà nó hằng mong muốn; Troll thường cho anh ăn và dạy anh nấu ăn giỏi.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Trong bài thơ, Perry là người hobbit duy nhất đối xử tử tế với [Troll Cô Độc](../L/Lonely_Troll.md), và ở anh, Quỷ lùn đã tìm thấy người bạn mà nó hằng mong muốn; Troll thường cho anh ăn và dạy anh nấu ăn giỏi.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 

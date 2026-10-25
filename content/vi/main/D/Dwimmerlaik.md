@@ -20,7 +20,7 @@ langlinks:
     url: "https://kontu.wiki/Noitakuningas#Muita_nimi.C3.A4"
 ---
 
-**Dwimmerlaik** là tên được đặt cho [Chúa tể Nazgûl](../W/Witch-king.md) bởi [Éowyn](../_/Éowyn.md) (với tên [Dernhelm](Dernhelm.md)) khi cô đối đầu với ông trong [Trận chiến trên Cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Dwimmerlaik** là tên được đặt cho [Chúa tể Nhẫn Ma](../W/Witch-king.md) bởi [Éowyn](../_/Éowyn.md) (với tên [Dernhelm](Dernhelm.md)) khi cô đối đầu với ông trong [Trận chiến trên Cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Nói rộng ra, có thể *Dwimmerlaik* là cách [Rohirrim](../R/Rohirrim.md) gọi [Wraith](../W/Wraiths.md) hoặc tin đồn về [Nazgûl](../N/Nazgûl.md) nói chung.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 

@@ -65,7 +65,7 @@ images:
 - 37\. Hải tặc Umbar
 - 39\. Sự dũng cảm đơn giản của Merry
 - 41\. Ngôi mộ của những người quản lý
-- 45\. Giờ của Phù Thủy Vua
+- 45\. Giờ của Vua Phù thủy
 - 56\. Ngôi nhà chữa bệnh
 - 60\. Aragorn Làm chủ Palantír
 - 61\. Thuyền trưởng và Bà Trắng

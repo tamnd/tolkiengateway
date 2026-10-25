@@ -171,7 +171,7 @@ Trong những năm nhuận, [loëndë](../L/Loëndë.md) được thay thế b�
 
 ## Các ngày trong tuần {#Days_of_the_week}
 
-Khi Cuộc tính toán của các vị vua lần đầu tiên được triển khai, người Númenor đã sử dụng tuần [Tiên](../E/Elven.md) sáu ngày. Tại những điểm không xác định của [Kỷ Đệ Nhị](../S/Second_Age.md), hai thay đổi đã được thực hiện; việc đầu tiên là đổi tên ngày thứ tư Aldúya thành Aldëa (Orgaladh trong Sindarin) để thay đổi sự cống hiến cho <a class="mw-redirect mw-disambig" href="../W/White_Tree.md" title="White Tree">Cây Trắng</a>, và việc thứ hai là chèn thêm một ngày, Eärenya (Oraearon), sau ngày thứ năm Menelya.<sup id="cite_ref-D2_1-4" class="reference"><a href="#cite_note-D2-1">[1]</a></sup> Do đó, tuần Númenórean cuối cùng như sau:
+Khi Cuộc Lịch Tính của các Vua lần đầu tiên được triển khai, người Númenor đã sử dụng tuần [Tiên](../E/Elven.md) sáu ngày. Tại những điểm không xác định của [Kỷ Đệ Nhị](../S/Second_Age.md), hai thay đổi đã được thực hiện; việc đầu tiên là đổi tên ngày thứ tư Aldúya thành Aldëa (Orgaladh trong Sindarin) để thay đổi sự cống hiến cho <a class="mw-redirect mw-disambig" href="../W/White_Tree.md" title="White Tree">Cây Trắng</a>, và việc thứ hai là chèn thêm một ngày, Eärenya (Oraearon), sau ngày thứ năm Menelya.<sup id="cite_ref-D2_1-4" class="reference"><a href="#cite_note-D2-1">[1]</a></sup> Do đó, tuần Númenórean cuối cùng như sau:
 
 <table class="TGtable">
 <tbody><tr>
@@ -251,4 +251,4 @@ Theo [Jim Allan](../J/Jim_Allan.md) trong *[An Introduction to Elvish](../A/An_I
 
 ## Liên kết ngoài {#External_links}
 
-- Dự án <a class="external text" href="http://psarando.github.io/shire-reckoning" rel="noreferrer noopener" target="_blank">Shire Tính toán</a>, dành riêng cho việc mô phỏng và phân tích chi tiết tất cả các lịch của *The Lord of the Rings* [Phụ lục D](../A/Appendix_D.md).
+- Dự án <a class="external text" href="http://psarando.github.io/shire-reckoning" rel="noreferrer noopener" target="_blank">Lịch Shire</a>, dành riêng cho việc mô phỏng và phân tích chi tiết tất cả các lịch của *The Lord of the Rings* [Phụ lục D](../A/Appendix_D.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Kings' Reckoning"
 ---
 
-Chuyển hướng đến [Sự tính toán của các vị vua](Kings'_Reckoning.md).
+Chuyển hướng đến [Sự Lịch Tính của các Vua](Kings'_Reckoning.md).

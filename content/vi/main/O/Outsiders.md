@@ -15,7 +15,7 @@ hidden_categories:
   - "Pages with short description"
 ---
 
-**Người ngoài cuộc** là thuật ngữ được [Shire-hobbit](../S/Shire-hobbits.md) sử dụng để mô tả tất cả những [Hobbit](../H/Hobbits.md) sống bên ngoài [người Shire](../T/The_Shire.md), bao gồm cả [Bree-hobbit](../B/Bree-hobbits.md). Shire-dân gian coi tất cả Người ngoài là ngu ngốc và thô lỗ, ít quan tâm đến họ.<sup id="cite_ref-:0_1-0" class="reference"><a href="#cite_note-:0-1">[1]</a></sup>
+**Người ngoài cuộc** là thuật ngữ được [Shire-hobbit](../S/Shire-hobbits.md) sử dụng để mô tả tất cả những [Hobbit](../H/Hobbits.md) sống bên ngoài [người Shire](../T/The_Shire.md), bao gồm cả [Bree-hobbit](../B/Bree-hobbits.md). Dân Shire coi tất cả Người ngoài là ngu ngốc và thô lỗ, ít quan tâm đến họ.<sup id="cite_ref-:0_1-0" class="reference"><a href="#cite_note-:0-1">[1]</a></sup>
 
 Những người bên ngoài sống rải rác khắp [Westlands](../W/Westlands.md) và đông hơn đáng kể so với những gì người dân ở Shire nhận ra. Một số Người ngoài cuộc là những kẻ lang thang, không định cư lâu dài ở bất kỳ địa điểm cụ thể nào, thay vào đó đào hố trong các ngân hàng và chỉ ở đó miễn là nó phù hợp với họ, trong khi những Người ngoài cuộc khác, như cư dân của [Bree-land](../B/Bree-land.md), cũng ổn định, thịnh vượng và văn minh như những người họ hàng xa của họ sống ở Shire.<sup id="cite_ref-:0_1-1" class="reference"><a href="#cite_note-:0-1">[1]</a></sup>.
 

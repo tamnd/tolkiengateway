@@ -50,7 +50,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Khi [Glaurung](../G/Glaurung.md) đến gần [Brethil](../B/Brethil.md), [Túrin](../T/Túrin.md) hỏi ai trong số Con Người của Brethil sẽ đi cùng ông để cố gắng giết con rồng. [Dorlas](../D/Dorlas.md) ngay lập tức bước tới, nhưng khi không có ai tình nguyện, ông đã quở trách rất nhiều người trong số họ, hỏi liệu có ai thay thế Brandir để Nhà Haleth không bị xấu hổ hay không. Hunthor, bà con của Brandir, đã khiển trách Dorlas vì sự khập khiễng của Brandir là do cơ hội xấu. Hunthor sau đó nói rằng ông sẽ thay mặt cho nhà Haleth.
+Khi [Glaurung](../G/Glaurung.md) đến gần [Brethil](../B/Brethil.md), [Túrin](../T/Túrin.md) hỏi ai trong số Con Người vùng Brethil sẽ đi cùng ông để cố gắng giết con rồng. [Dorlas](../D/Dorlas.md) ngay lập tức bước tới, nhưng khi không có ai tình nguyện, ông đã quở trách rất nhiều người trong số họ, hỏi liệu có ai thay thế Brandir để Nhà Haleth không bị xấu hổ hay không. Hunthor, bà con của Brandir, đã khiển trách Dorlas vì sự khập khiễng của Brandir là do cơ hội xấu. Hunthor sau đó nói rằng ông sẽ thay mặt cho nhà Haleth.
 
 Hunthor và Dorlas đi cùng Túrin đến [Nen Girith](../N/Nen_Girith.md), nơi Túrin tiết lộ kế hoạch trèo xuống [Ravines của Taeglin](../R/Ravines_of_Taeglin.md), băng qua sông và leo lên phía bên kia để đánh vào bụng Glaurung khi ông vươn vai vượt qua khoảng trống.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Dorlas, người đã chê bai Con Người còn lại của Brethil vì thiếu can đảm, đã không thể tự mình cố gắng vượt qua khoảng trống. nước đầy đá. Vì vậy, chỉ có Túrin và Hunthor leo lên phía tây của khe núi để tấn công.
 

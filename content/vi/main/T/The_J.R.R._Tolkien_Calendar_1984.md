@@ -42,7 +42,7 @@ infobox:
 
 ## Minh họa {#Illustrations}
 
-- Bìa - "[Ulmo, Chúa tể vùng nước](../../file/R/Roger_Garland_-_Ulmo.jpg.md)"
+- Bìa - "[Ulmo, Chúa tể các dòng nước](../../file/R/Roger_Garland_-_Ulmo.jpg.md)"
 - Tháng 1 - "[Câu chuyện về Mặt Trời và Mặt Trăng](../../file/R/Roger_Garland_-_The_Gate_of_Morn.jpg.md)"
 - Tháng 2 - "[Ngày Cầu Khazad-dûm](../../file/R/Roger_Garland_-_The_Bridge_of_Khazad-dum.JPG.md)"
 - Tháng 3 - "[Nơi trú ẩn của những con thiên nga](../../file/R/Roger_Garland_-_The_Haven_of_the_Swans.jpg.md)"
@@ -52,7 +52,7 @@ infobox:
 - Tháng 7 - "[Ulmo, Chúa tể của Nước](../../file/R/Roger_Garland_-_Ulmo.jpg.md)"
 - Tháng 8 - "[Shelob](../../file/R/Roger_Garland_-_Shelob.JPG.md)"
 - tháng Chín - "[Gollum](../../file/R/Roger_Garland_-_Gollum.JPG.md)"
-- Tháng 10 - "[Chúa tể của Nazgûl](../../file/R/Roger_Garland_-_The_Lord_of_the_Nazgul.JPG.md)"
+- Tháng 10 - "[Chúa tể Nhẫn Ma](../../file/R/Roger_Garland_-_The_Lord_of_the_Nazgul.JPG.md)"
 - Tháng 11 - "[Gandalf](../../file/R/Roger_Garland_-_Gandalf.jpg.md)"
 - Tháng 12 - "[Xâu chuỗi Melko](../../file/R/Roger_Garland_-_Melkor_chained.jpg.md)"
 

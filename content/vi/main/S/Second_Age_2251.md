@@ -21,7 +21,7 @@ sort_keys:
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 - Sau ba mươi năm trị vì của [Tar-Ancalimon](../T/Tar-Ancalimon.md), rạn nứt giữa [Người của Nhà Vua](../K/King's_Men.md) và [Những người trung thành](../F/Faithful.md) trở nên rộng hơn.<sup id="cite_ref-Ancalimon_1-0" class="reference"><a href="#cite_note-Ancalimon-1">[1]</a></sup>
-- Vào khoảng thời gian này [Nazgûl](../N/Nazgûl.md) hay [Nazgûl](../N/Nazgûl.md), nô lệ của [Cửu Nhẫn](../N/Nine_Rings.md), lần đầu tiên xuất hiện.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- Vào khoảng thời gian này [Nazgûl](../N/Nazgûl.md) hay [Nazgûl](../N/Nazgûl.md), nô lệ của [Chín chiếc Nhẫn](../N/Nine_Rings.md), lần đầu tiên xuất hiện.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 

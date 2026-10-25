@@ -60,7 +60,7 @@ Cuốn sách tái tạo danh sách đồ vật hoàn chỉnh bằng màu sắc, 
     - của <a class="new" href="https://tolkiengateway.net/w/index.php?title=Sarah_C._Schaefer&amp;action=edit&amp;redlink=1" title="Sarah C. Schaefer (page does not exist)">Sarah C. Schaefer</a> và [William M. Fliss](../W/William_M._Fliss.md)
 - "Tolkien và Truyền thống bản thảo: Sự đối chiếu lại"
     - bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=Sarah_C._Schaefer&amp;action=edit&amp;redlink=1" title="Sarah C. Schaefer (page does not exist)">Sarah C. Schaefer</a>
-- "Hành trình xuôi dòng sông lớn Wilderland: Lập bản đồ cho *The Lord of the Rings*"
+- "Hành trình xuôi dòng Đại Hà Wilderland: Lập bản đồ cho *The Lord of the Rings*"
     - bởi [William M. Fliss](../W/William_M._Fliss.md)
 
 - Tấm

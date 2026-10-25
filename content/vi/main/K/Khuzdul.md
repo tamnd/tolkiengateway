@@ -73,7 +73,7 @@ Người ta nói rằng Người Lùn có hệ thống chữ viết hoặc chạ
 
 Trong khoảng năm đó [Y.T.](../Y/Years_of_the_Trees.md) [1300](../Y/Year_of_the_Trees_1300.md) [Người Lùn Belegost](../D/Dwarves_of_Belegost.md) đã tham gia phục vụ [Thingol](../T/Thingol.md) để hỗ trợ việc xây dựng [Menegroth](../M/Menegroth.md);<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> khi ở đó họ biết được [Các cổ ngữ của Daeron](../C/Cirth.md) mà họ rất hài lòng và mang về.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
 
-Trong [Kỷ Đệ Nhị](../S/Second_Age.md), [Râu Dài Người Lùn](../D/Durin's_Folk~15256.md) có mối liên hệ và tình bạn thân thiết với Tiên tộc của [Eregion](../E/Eregion.md). Trong lần tiếp xúc này, các Cổ ngữ được Tiên tộc sử dụng đã thu hút sự chú ý của họ và họ đã áp dụng và sửa đổi chúng theo cách sử dụng riêng của mình.<sup id="cite_ref-DM_5-5" class="reference"><a href="#cite_note-DM-5">[5]</a></sup>
+Trong [Kỷ Đệ Nhị](../S/Second_Age.md), [Người Lùn Râu Dài](../D/Durin's_Folk~15256.md) có mối liên hệ và tình bạn thân thiết với Tiên tộc của [Eregion](../E/Eregion.md). Trong lần tiếp xúc này, các Cổ ngữ được Tiên tộc sử dụng đã thu hút sự chú ý của họ và họ đã áp dụng và sửa đổi chúng theo cách sử dụng riêng của mình.<sup id="cite_ref-DM_5-5" class="reference"><a href="#cite_note-DM-5">[5]</a></sup>
 
 Longbeards sẽ tiếp tục sử dụng các chữ rune này, bằng chứng là Gandalf nhận ra các chữ rune của [Daeron](../D/Daeron.md) trên ngôi mộ của Balin.
 

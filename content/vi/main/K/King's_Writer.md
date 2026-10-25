@@ -19,7 +19,7 @@ langlinks:
 
 Nhà văn của **Vua** là một vị trí được nắm giữ bởi những người ghi chép hoàng gia của [Vương quốc Thống nhất](../R/Reunited_Kingdom.md). Điều này đòi hỏi phải lập hồ sơ chính thức của [Gondor](../G/Gondor.md), làm việc trực tiếp với các nguồn gốc.
 
-[Findegil](../F/Findegil.md), một Nhà văn nổi tiếng của Vua có lẽ dưới vương quyền của [Eldarion](../E/Eldarion.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> trong [Kỷ Đệ Tứ](../F/Fourth_Age.md), được biết là đã tạo ra ít nhất một bản sao của [Red Book of Westmarch](../R/Red_Book_of_Westmarch.md) trong [Minas Tirith](../M/Minas_Tirith.md). Quả thực, trong [Kỷ Đệ Tứ](../F/Fourth_Age.md) [171](../F/Fourth_Age_171.md), Findegil đã hoàn thành một bản sao để tạo ra [Thain Sách](../T/Thain's_Book.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+[Findegil](../F/Findegil.md), một Nhà văn nổi tiếng của Vua có lẽ dưới vương quyền của [Eldarion](../E/Eldarion.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> trong [Kỷ Đệ Tứ](../F/Fourth_Age.md), được biết là đã tạo ra ít nhất một bản sao của [Red Book of Westmarch](../R/Red_Book_of_Westmarch.md) trong [Minas Tirith](../M/Minas_Tirith.md). Quả thực, trong [Kỷ Đệ Tứ](../F/Fourth_Age.md) [171](../F/Fourth_Age_171.md), Findegil đã hoàn thành một bản sao để tạo ra [Sách Thain](../T/Thain's_Book.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

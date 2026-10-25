@@ -41,7 +41,7 @@ Lần đầu tiên đề cập đến loại vũ khí như vậy xảy ra trong 
 <p class="tg-quote-footer"><cite><i><a href="../M/Morgoth&#39;s_Ring.md" title="Morgoth&#39;s Ring">Morgoth&#39;s Ring</a></i>, &#34;<a class="mw-redirect" href="../A/Annals_of_Aman.md" title="Annals of Aman">Annals of Aman</a>&#34;<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></cite></p>
 </blockquote>
 
-Sau đó, nhiều thiên niên kỷ sau, người ta kể rằng Manwë đã trao thanh kiếm của mình cho [Eönwë](../E/Eönwë.md) sứ giả của mình,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>, người đã lãnh đạo [Chủ nhà của Valar](../H/Host_of_the_Valar.md) trong [Chiến tranh Phẫn nộ](../W/War_of_Wrath.md), nơi [Morgoth](../M/Morgoth.md) cuối cùng đã bị đánh bại.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Sau đó, nhiều thiên niên kỷ sau, người ta kể rằng Manwë đã trao thanh kiếm của mình cho [Eönwë](../E/Eönwë.md) sứ giả của mình,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>, người đã lãnh đạo [Đạo quân Valar](../H/Host_of_the_Valar.md) trong [Chiến tranh Phẫn nộ](../W/War_of_Wrath.md), nơi [Morgoth](../M/Morgoth.md) cuối cùng đã bị đánh bại.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Xem thêm {#See_also}
 

@@ -74,7 +74,7 @@ Sau khi ông qua đời vào năm [861](../T/Third_Age_861.md), có lẽ do ghen
 
 Con trai cả và là người thừa kế hợp pháp của ông, [Amlaith](../A/Amlaith.md) của [Fornost](../F/Fornost.md), đã trở thành [Vua đầu tiên của Arthedain](../K/King_of_Arthedain.md), và chính nhờ Amlaith và những người thừa kế của ông mà dòng dõi Isildur đã tồn tại trong khi dòng dõi của các vị vua Rhudaur và Cardolan thất bại - [Aragorn II](../A/Aragorn.md) là hậu duệ trực tiếp của Amlaith, và mãi đến [Aragorn](../A/Aragorn.md) trở thành vị vua mà Arnor cuối cùng đã được thống nhất.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Sau Eärendur, [Các vị vua của Arthedain](../K/Kings_of_Arthedain.md)<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> và [Thủ lĩnh của Dúnedain](../C/Chieftains_of_the_Dúnedain.md) không còn lấy tên ở [Quenya](../Q/Quenya.md) (High-elven<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>) mà thay vào đó lấy tên ở [Sindarin](../S/Sindarin.md).<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+Sau Eärendur, [Các Vua Arthedain](../K/Kings_of_Arthedain.md)<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> và [Thủ lĩnh của Dúnedain](../C/Chieftains_of_the_Dúnedain.md) không còn lấy tên ở [Quenya](../Q/Quenya.md) (High-elven<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>) mà thay vào đó lấy tên ở [Sindarin](../S/Sindarin.md).<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

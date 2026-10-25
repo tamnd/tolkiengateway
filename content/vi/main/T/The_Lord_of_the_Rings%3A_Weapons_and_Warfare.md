@@ -108,7 +108,7 @@ infobox:
 55. *Mûmakil*
 56. *The Corsairs of Umbar*
 57. *The Dead Men of Dunharrow*
-58. * Cuộc vây hãm Gondor/Trận chiến trên Cánh đồng Pelennor - kế hoạch tác chiến*
+58. * Cuộc vây hãm Gondor/Trận chiến tại cánh đồng Pelennor - kế hoạch tác chiến*
 59. *The Black Gate of Mordor*
 60. *The Mouth of Sauron*
 61. *Aragorn*

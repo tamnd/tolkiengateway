@@ -25,7 +25,7 @@ images:
 
 ### Brôd {#Brôd}
 
-**Brôd** là một vương quốc nằm giữa các con sông Kirmóas (phía bắc), Runk (phía nam) và Breacna (phía đông). Dãy Núi của Gió đóng vai trò là ranh giới phía tây của nó. Văn hóa Brodim là sự kết hợp giữa truyền thống Braric địa phương với ảnh hưởng của Lochan và Wôlim. Người Brodim nói cùng ngôn ngữ với người Wôlim, có chung một tổ chức xã hội. Tổ chức chính trị của họ giống như tổ chức của Lochaw.
+**Brôd** là một vương quốc nằm giữa các con sông Kirmóas (phía bắc), Runk (phía nam) và Breacna (phía đông). Dãy Núi Gió đóng vai trò là ranh giới phía tây của nó. Văn hóa Brodim là sự kết hợp giữa truyền thống Braric địa phương với ảnh hưởng của Lochan và Wôlim. Người Brodim nói cùng ngôn ngữ với người Wôlim, có chung một tổ chức xã hội. Tổ chức chính trị của họ giống như tổ chức của Lochaw.
 
 Các trung tâm đô thị lớn của nó là Sôgôl, Runk và Brod. Sôgôl, nằm ở bờ nam sông Kirmóas, là một thị trấn trù phú canh giữ Cổng Gió là con đường xuyên qua núi. Brod nằm ở trung tâm hơn và mặc dù có ít dân cư nhất nhưng nó vẫn đóng vai trò là trung tâm chính trị và tôn giáo của vương quốc. Runk được đặt theo tên của con sông và nằm gần thác nước. Nó canh giữ cây cầu duy nhất bắc qua sông.
 

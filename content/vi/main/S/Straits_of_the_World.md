@@ -23,7 +23,7 @@ images:
 <p class="tg-quote-footer"><cite><a href="../G/Glóin.md" title="Glóin">Glóin</a></cite></p>
 </blockquote></div></div>
 
-**Eo biển Thế giới** là một eo biển vùng đất miền núi phía đông nam [Beleriand](../B/Beleriand.md) ngăn cách [Vịnh Lớn](../G/Great_Gulf.md) của [Belegaer](../B/Belegaer.md) với [Nội địa Biển Helcar](Sea_of_Helcar.md) ở [Kỷ Đệ Nhất](../F/First_Age.md).<sup id="cite_ref-Ambar_1-0" class="reference"><a href="#cite_note-Ambar-1">[1]</a></sup> Eo biển Thế giới chỉ xuất hiện trong các bài viết ban đầu<sup id="cite_ref-Ambar_1-1" class="reference"><a href="#cite_note-Ambar-1">[1]</a></sup> trước khi Tolkien hình dung ra những vùng đất rộng lớn của [Eriador](../E/Eriador.md), [Gondor](../G/Gondor.md) và [Mordor](../M/Mordor.md) nằm ở phía đông và phía nam của Beleriand.
+**Eo biển Thế giới** là một eo biển vùng đất miền núi phía đông nam [Beleriand](../B/Beleriand.md) ngăn cách [Vịnh Lớn](../G/Great_Gulf.md) của [Belegaer](../B/Belegaer.md) với [Biển Nội Địa Helcar](Sea_of_Helcar.md) ở [Kỷ Đệ Nhất](../F/First_Age.md).<sup id="cite_ref-Ambar_1-0" class="reference"><a href="#cite_note-Ambar-1">[1]</a></sup> Eo biển Thế giới chỉ xuất hiện trong các bài viết ban đầu<sup id="cite_ref-Ambar_1-1" class="reference"><a href="#cite_note-Ambar-1">[1]</a></sup> trước khi Tolkien hình dung ra những vùng đất rộng lớn của [Eriador](../E/Eriador.md), [Gondor](../G/Gondor.md) và [Mordor](../M/Mordor.md) nằm ở phía đông và phía nam của Beleriand.
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 

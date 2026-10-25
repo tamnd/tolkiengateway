@@ -57,7 +57,7 @@ Minohtar kiểm tra bước tiến của kẻ thù trong một lúc. Lúc này [
 
 Ngay sau đó Wainriders đã đột phá được vị trí của Minohtar. Cuối ngày thứ mười ba của [Cermië](../C/Cermië.md), Minohtar bị áp đảo và bị giết bởi một mũi tên. Thi thể của ông được quân hậu phương mang đi khi họ chạy đi tìm Adrahil.
 
-Cùng năm đó, [Eärnil](../E/Eärnil_II.md), Đội trưởng Quân đội miền Nam, đã trả thù cho Minohtar, Vua và những người khác đã chết trong [thảm họa Morannon](../D/Disaster_of_the_Morannon.md) bằng cách định tuyến Wainriders trong [Trận chiến trong trại](../B/Battle_of_the_Camp.md). Người chiến thắng Eärnil sau đó đã được [được trao](../L/Law_of_Succession_in_Númenor.md#Realms_in_Exile) vương miện Gondor.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Cùng năm đó, [Eärnil](../E/Eärnil_II.md), Đội trưởng Quân đội phương Nam, đã trả thù cho Minohtar, Vua và những người khác đã chết trong [thảm họa Morannon](../D/Disaster_of_the_Morannon.md) bằng cách định tuyến Wainriders trong [Trận chiến tại Trại](../B/Battle_of_the_Camp.md). Người chiến thắng Eärnil sau đó đã được [được trao](../L/Law_of_Succession_in_Númenor.md#Realms_in_Exile) vương miện Gondor.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

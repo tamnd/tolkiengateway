@@ -129,7 +129,7 @@ Chiến dịch “Tốt”: *The Dawn of a New Age*
 - [Vương quốc Dale](../K/Kingdom_of_Dale.md) ([Bardings](../B/Bardings.md) của [Dale](../D/Dale.md) và [Esgaroth](../E/Esgaroth.md))
 - [Beornings](../B/Beornings.md) và [Người Rừng](../W/Woodmen.md)
 
-Gondor đáng chú ý vì có thêm một số phe phái phụ, nhằm đại diện cho các vùng và tỉnh khác nhau của vương quốc cũng như các truyền thống và đặc sản quân sự khác nhau của họ. Chúng có cây phát triển quân đội độc đáo của riêng mình. (Dol Amroth có các hiệp sĩ Thiên nga, giáo thủ và cung thủ Pinnath Gelin, cung thủ Blackroot Vale, lính rìu Lossarnach và Pelargir thủy quân lục chiến.) Biệt đội phương Bắc là một phân nhánh của chủ nhà Rivendell (cũng có cây phát triển quân đội riêng của họ so với cây Imladris Tiên tộc) và Beornings và Người Rừng tạo thành một phe chung (với cả hai nhóm đều có cây phát triển quân đội riêng của họ).
+Gondor đáng chú ý vì có thêm một số phe phái phụ, nhằm đại diện cho các vùng và tỉnh khác nhau của vương quốc cũng như các truyền thống và đặc sản quân sự khác nhau của họ. Chúng có cây phát triển quân đội độc đáo của riêng mình. (Dol Amroth có các hiệp sĩ Thiên nga, giáo thủ và cung thủ Pinnath Gelin, cung thủ Blackroot Vale, lính rìu Lossarnach và Pelargir thủy quân lục chiến.) Tuần Du Nhân phương Bắc là một phân nhánh của chủ nhà Rivendell (cũng có cây phát triển quân đội riêng của họ so với cây Imladris Tiên tộc) và Beornings và Người Rừng tạo thành một phe chung (với cả hai nhóm đều có cây phát triển quân đội riêng của họ).
 
 #### Lực lượng của Sauron {#The_Forces_of_Sauron}
 

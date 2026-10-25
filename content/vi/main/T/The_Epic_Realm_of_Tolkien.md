@@ -45,7 +45,7 @@ Nó được phân tích từ phiên bản đầu tiên của Book of Lost Tales
 
 Mối liên hệ đáng kinh ngạc và mạnh mẽ giữa câu chuyện của Beren and Lúthien và các truyền thuyết về vua Arthur dưới nhiều hình thức khác nhau được xem xét và đưa ra cái nhìn thoáng qua hấp dẫn về thế giới văn học thời trung cổ mà Giáo sư Tolkien biết rất rõ và yêu thích.
 
-Tìm hiểu xem Tevildo Ác ma-Thân vương của Mèo xuất hiện như thế nào trong câu chuyện và sau đó bị loại bỏ để nhường chỗ cho các khái niệm khác, Tolkien đã cân nhắc xem Beren nên là người phàm hay bất tử Tiên như thế nào. Và xuyên suốt những câu chuyện này là nền tảng của Câu chuyện Arthurian một cách hấp dẫn. Những mối liên hệ mà Lewis và Currie theo đuổi dẫn tới cách giải thích tinh tế và độc đáo về mục đích sáng tạo đằng sau Book of Lost Tales dưới dạng một khái niệm, đồng thời cung cấp cái nhìn sâu sắc thuyết phục về cách điều này liên quan đến khái niệm vốn có trong chính Silmarillion và Tolkien's Legendarium.
+Tìm hiểu xem Tevildo Ác ma-Thân vương loài Mèo xuất hiện như thế nào trong câu chuyện và sau đó bị loại bỏ để nhường chỗ cho các khái niệm khác, Tolkien đã cân nhắc xem Beren nên là người phàm hay bất tử Tiên như thế nào. Và xuyên suốt những câu chuyện này là nền tảng của Câu chuyện Arthurian một cách hấp dẫn. Những mối liên hệ mà Lewis và Currie theo đuổi dẫn tới cách giải thích tinh tế và độc đáo về mục đích sáng tạo đằng sau Book of Lost Tales dưới dạng một khái niệm, đồng thời cung cấp cái nhìn sâu sắc thuyết phục về cách điều này liên quan đến khái niệm vốn có trong chính Silmarillion và Tolkien's Legendarium.
 
 Trong Epic Realms of Tolkien, hãy tìm hiểu thêm về ý nghĩa thực sự của nhân vật Eriol / Aelfwine cũng như những cuộc phiêu lưu và hành động của ông.
 

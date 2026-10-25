@@ -27,7 +27,7 @@ Trận **thứ hai của Dagorlad** là trận chiến ở [Kỷ Đệ Tam](../T
 
 ## Mở đầu {#Prelude}
 
-Một Easterling người được gọi là [Wainriders](../W/Wainriders.md) bắt đầu tấn công Gondor. [người Gondor](../G/Gondorians.md) và [Người phương Bắc](../N/Northmen.md) chống lại họ đã bị đánh bại trong [Trận chiến vùng đồng bằng](../B/Battle_of_the_Plains.md) ([T.A.](../T/Third_Age.md) [1856](../T/Third_Age_1856.md)). Hầu hết các vùng đất Người phương Bắc đều bị Wainriders chiếm đóng và làm nô lệ, tuy nhiên một số khác đã trốn thoát và một số theo [Marhwini](../M/Marhwini.md) đến [Thung lũng Anduin](../V/Vales_of_Anduin.md).
+Một Easterling người được gọi là [Wainriders](../W/Wainriders.md) bắt đầu tấn công Gondor. [người Gondor](../G/Gondorians.md) và [Người phương Bắc](../N/Northmen.md) chống lại họ đã bị đánh bại trong [Trận chiến Đồng Bằng](../B/Battle_of_the_Plains.md) ([T.A.](../T/Third_Age.md) [1856](../T/Third_Age_1856.md)). Hầu hết các vùng đất Người phương Bắc đều bị Wainriders chiếm đóng và làm nô lệ, tuy nhiên một số khác đã trốn thoát và một số theo [Marhwini](../M/Marhwini.md) đến [Thung lũng Anduin](../V/Vales_of_Anduin.md).
 
 Nhiều năm sau, Wainriders lên kế hoạch đột kích [Calenardhon](../C/Calenardhon.md) khắp [Undeeps](../U/Undeeps.md). Lãnh chúa Marhwini đã gửi tin nhắn tới Vua Calimehtar cảnh báo ông về điều này, đồng thời thông báo cho ông rằng những người nô lệ Người phương Bắc cũng đang chuẩn bị một cuộc nổi dậy nếu Wainriders tham gia vào chiến tranh.
 

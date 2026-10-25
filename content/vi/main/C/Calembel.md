@@ -39,7 +39,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Vào [9 tháng 3](../_/9_March.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md),<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> [Aragorn](../A/Aragorn.md), [Đại đội Xám](../G/Grey_Company.md) và [Đội quân của Người chết](../O/Oathbreakers.md) khởi hành từ Erech, băng qua pháo đài qua sông [Ciril](Ciril.md) và đến Calembel. Các bến cạn trên sông Ciril và thị trấn Calembel vắng tanh vì nhiều người đã đi chiến đấu ở [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md) và số dân còn lại đã chạy trốn lên đồi sau khi họ nghe tin đồn rằng [Vua của Người chết](../K/King_of_the_Dead.md) đang đến.<sup id="cite_ref-Company_2-1" class="reference"><a href="#cite_note-Company-2">[2]</a></sup>
+Vào [9 tháng 3](../_/9_March.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md),<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> [Aragorn](../A/Aragorn.md), [Đội quân Xám](../G/Grey_Company.md) và [Đội quân Người Chết](../O/Oathbreakers.md) khởi hành từ Erech, băng qua pháo đài qua sông [Ciril](Ciril.md) và đến Calembel. Các bến cạn trên sông Ciril và thị trấn Calembel vắng tanh vì nhiều người đã đi chiến đấu ở [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md) và số dân còn lại đã chạy trốn lên đồi sau khi họ nghe tin đồn rằng [Vua của Người chết](../K/King_of_the_Dead.md) đang đến.<sup id="cite_ref-Company_2-1" class="reference"><a href="#cite_note-Company-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

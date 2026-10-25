@@ -90,7 +90,7 @@ Những thiết kế tinh vi của hắn không thể khiến tất cả đàn �
 
 Do đó, Con Người sẽ tồn tại trong Beleriand bên cạnh Tiên tộc. Con Người sẽ học được nhiều điều từ Tiên tộc và nhiều người thậm chí sẽ học được [Sindarin](../S/Sindarin.md). Đến lượt họ, nhiều Con Người cũng sẽ trở thành người hầu trong gia đình của các vị vua yêu tinh, chẳng hạn như [Hador](../H/Hador.md), người đã phục vụ Fingolfin và được trao quyền lãnh chúa [Dor-lómin](../D/Dor-lómin.md). Nhiều anh hùng vĩ đại sẽ đến từ những người bạn Yêu tinh, chẳng hạn như [Beren](../B/Beren.md) và [Túrin](../T/Túrin.md).
 
-Tuy nhiên, cuối cùng, Tiên tộc là bất tử, còn Con Người thì không. Mặc dù Beleriand dường như kéo dài tuổi thọ của chúng nhưng thế hệ Con Người đầu tiên sẽ qua đời. Bëor Ông già mất lúc chín mươi ba tuổi. Đây là một đòn nặng nề đối với Eldar, những người không hiểu [Món quà của Con Người](../G/Gift_of_Men.md), hay đích đến cuối cùng của họ sau khi chết.
+Tuy nhiên, cuối cùng, Tiên tộc là bất tử, còn Con Người thì không. Mặc dù Beleriand dường như kéo dài tuổi thọ của chúng nhưng thế hệ Con Người đầu tiên sẽ qua đời. Bëor Ông già mất lúc chín mươi ba tuổi. Đây là một đòn nặng nề đối với Eldar, những người không hiểu [Tặng phẩm của Con Người](../G/Gift_of_Men.md), hay đích đến cuối cùng của họ sau khi chết.
 
 ## Liên kết ngoài {#External_links}
 

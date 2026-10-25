@@ -83,7 +83,7 @@ Dòng thời gian về cuộc đời của **[Galadriel](../G/Galadriel.md)** tr
 
 ### [545](../F/First_Age_545.md) {#545}
 
-- [Chủ nhà của Valar](../H/Host_of_the_Valar.md) đến [Beleriand](../B/Beleriand.md),<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> Finarfin dẫn đầu Noldor cho [Cuộc chiến phẫn nộ](../W/War_of_Wrath.md).<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup>
+- [Đạo quân Valar](../H/Host_of_the_Valar.md) đến [Beleriand](../B/Beleriand.md),<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> Finarfin dẫn đầu Noldor cho [Cuộc chiến phẫn nộ](../W/War_of_Wrath.md).<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup>
 
 ## [Kỷ Đệ Nhị](../S/Second_Age.md) {#Second_Age}
 
@@ -152,7 +152,7 @@ Dòng thời gian về cuộc đời của **[Galadriel](../G/Galadriel.md)** tr
 
 ### [1981](Third_Age_1981.md) {#1981}
 
-- Sau khi [Tai họa của Durin](../D/Durin's_Bane.md) xuất hiện, Moria sẽ trống rỗng. Nhiều [Silvan Tiên tộc](../S/Silvan_Elves.md) của Lórien bay về phía nam.<sup id="cite_ref-Third_25-2" class="reference"><a href="#cite_note-Third-25">[25]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:1087</sup>
+- Sau khi [Tai họa của Durin](../D/Durin's_Bane.md) xuất hiện, Moria sẽ trống rỗng. Nhiều [Tiên tộc Silvan](../S/Silvan_Elves.md) của Lórien bay về phía nam.<sup id="cite_ref-Third_25-2" class="reference"><a href="#cite_note-Third-25">[25]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:1087</sup>
 - Vào khoảng thời gian này, Galadriel và Celeborn trở thành [Chúa và Phu nhân của Lórien](../L/Lord_and_Lady_of_Lórien.md).<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup>
 
 ### [2463](Third_Age_2463.md) {#2463}

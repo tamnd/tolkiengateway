@@ -22,7 +22,7 @@ images:
 
 Luật cũ là tục lệ được kế thừa chứ không phải là luật thành văn. Phong tục là Vua sẽ giao lại Vương trượng cho con trai cả của mình khi ông quá già để cai trị. Nếu Vua không có con trai, ông sẽ truyền lại Vương trượng cho người họ hàng nam gần nhất của mình *of male descent* từ [Elros Tar-Minyatur](../E/Elros_Tar-Minyatur.md).<sup id="cite_ref-Further_1-0" class="reference"><a href="#cite_note-Further-1">[1]</a></sup>
 
-Phong tục này tương tự như phong tục của [Noldorin Những người lưu vong](../N/Noldor.md) của Trung Địa, những người mà [Vương quyền tối cao](../H/High_King_of_the_Noldor.md) được kế thừa theo cách tương tự và là những người mà tổ tiên của [Dúnedain](../D/Dúnedain.md) có mối quan hệ thân thiết.
+Phong tục này tương tự như phong tục của [Những Kẻ Lưu Đày Noldorin](../N/Noldor.md) của Trung Địa, những người mà [Vương quyền tối cao](../H/High_King_of_the_Noldor.md) được kế thừa theo cách tương tự và là những người mà tổ tiên của [Dúnedain](../D/Dúnedain.md) có mối quan hệ thân thiết.
 
 Theo luật cũ, theo thông lệ, Vua sẽ tuyên bố người kế vị là "Người thừa kế củaVua" khi người sau tròn một trăm tuổi.<sup id="cite_ref-wife_2-0" class="reference"><a href="#cite_note-wife-2">[2]</a></sup>
 
@@ -38,7 +38,7 @@ Tar-Aldarion, vị vua thứ sáu, có [mối quan hệ rắc rối](../A/Aldari
 - Nếu Vua không có con trai thì con gái lớn của ông sẽ được trao quyền thừa kế nhưng có quyền từ chối.
 - Nếu con gái lớn của Vua từ chối, người họ hàng nam gần nhất của Vua— dù là nam hay nữ — sẽ trở thành Người thừa kế của Vua.
 - Nếu con gái lớn của Vua trở thành Người thừa kế của Vua, bà sẽ phải từ chức nếu không kết hôn quá một thời gian nhất định.
-- Bất kỳ Người thừa kế tiềm năng nào của Vua kết hôn ngoài Dòng Elros sẽ trở thành không đủ điều kiện cho Quyền thừa kế. ("Người ta nói rằng sắc lệnh này nảy sinh trực tiếp từ cuộc hôn nhân thảm khốc của Aldarion."<sup id="cite_ref-Further_1-2" class="reference"><a href="#cite_note-Further-1">[1]</a></sup>)
+- Bất kỳ Người thừa kế tiềm năng nào của Vua kết hôn ngoài Dòng dõi Elros sẽ trở thành không đủ điều kiện cho Quyền thừa kế. ("Người ta nói rằng sắc lệnh này nảy sinh trực tiếp từ cuộc hôn nhân thảm khốc của Aldarion."<sup id="cite_ref-Further_1-2" class="reference"><a href="#cite_note-Further-1">[1]</a></sup>)
 
 Con trai không thể từ chối Quyền thừa kế, nhưng ông có thể từ chức ngay lập tức Vương trượng khi nhận được nó, [Tar-Vardamir](../T/Tar-Vardamir.md), con trai của [Elros Tar-Minyatur](../E/Elros_Tar-Minyatur.md) và là vị vua thứ hai trên danh nghĩa cũng vậy.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 

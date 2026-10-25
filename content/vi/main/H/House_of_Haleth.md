@@ -64,7 +64,7 @@ infobox:
 
 **Nhà Haleth** là Nhà thứ hai của [Edain](../E/Edain.md) vượt qua [Ered Luin](../B/Blue_Mountains.md) để tiến vào [Beleriand](../B/Beleriand.md) và sống sót lâu nhất trong cả ba Nhà, nhờ chiến lược phòng thủ của họ trong [Các cuộc chiến Beleriand](../W/Wars_of_Beleriand.md).
 
-Những người theo [Haldad](Haldad.md) và con cháu của ông sẽ trở thành **Dân tộc Haleth**, **Haladin**, **Halethrim**, **Con Người của Brethil**, **Con Người của Haleth** và **Người của Haleth**.
+Những người theo [Haldad](Haldad.md) và con cháu của ông sẽ trở thành **Dân tộc Haleth**, **Haladin**, **Halethrim**, **Con Người vùng Brethil**, **Con Người của Haleth** và **Người của Haleth**.
 
 ## Lịch sử {#History}
 
@@ -76,7 +76,7 @@ Những người theo [Haldad](Haldad.md) và con cháu của ông sẽ trở th
 
 Khi nòng cốt của đội họ buộc phải đi tiếp, một số Drúedain đi cùng họ về phía bắc<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup>, đi qua [lối mở giữa](../G/Gap_of_Rohan.md) [Dãy Núi Sương Mù](../M/Misty_Mountains.md) và [Dãy Núi Trắng](../W/White_Mountains.md). Nhiều người ở lại vì rừng rậm bao phủ [Minhiriath](../M/Minhiriath.md) và nửa phía tây của [Enedwaith](../E/Enedwaith.md) giữa [Greyflood](../G/Greyflood.md) và [Isen](../I/Isen.md) và trở thành người chăn nuôi đàn. Con cháu của họ là những dân tộc sống trong rừng ở vùng đất ven biển phía nam [Dãy Núi Xanh](../B/Blue_Mountains.md), đặc biệt là ở Minhiriath<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Thân nhân Dãy Núi Trắng của họ sau đó dường như đã bị đuổi đi (phần lớn) bởi [Con Người của Bóng Tối](../M/Men_of_Darkness.md) trong [Những Năm Tháng Đen Tối](../D/Dark_Years.md), bị đưa đến các vùng thung lũng phía nam của [Dãy Núi Sương Mù](../M/Misty_Mountains.md) và từ đó một số đã di chuyển vào vùng đất trống cho đến [Barrow-downs](../B/Barrow-downs.md), nơi [Người Bree](../M/Men_of_Bree.md) xuất hiện.<sup id="cite_ref-F_2-0" class="reference"><a href="#cite_note-F-2">[2]</a></sup>
+Thân nhân Dãy Núi Trắng của họ sau đó dường như đã bị đuổi đi (phần lớn) bởi [Con Người Bóng Tối](../M/Men_of_Darkness.md) trong [Những Năm Tháng Đen Tối](../D/Dark_Years.md), bị đưa đến các vùng thung lũng phía nam của [Dãy Núi Sương Mù](../M/Misty_Mountains.md) và từ đó một số đã di chuyển vào vùng đất trống cho đến [Barrow-downs](../B/Barrow-downs.md), nơi [Người Bree](../M/Men_of_Bree.md) xuất hiện.<sup id="cite_ref-F_2-0" class="reference"><a href="#cite_note-F-2">[2]</a></sup>
 
 ### Trong Beleriand {#In_Beleriand}
 

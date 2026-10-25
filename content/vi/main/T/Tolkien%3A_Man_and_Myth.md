@@ -53,7 +53,7 @@ infobox:
 
 1. Người đàn ông bị hiểu lầm: Tolkien và thế giới hiện đại
 2. Nôi chuyển xuống nấm mộ: Đứa trẻ đằng sau huyền thoại
-3. Cha Phanxicô gửi ông già Noel: người cha đằng sau huyền thoại
+3. Cha Francis gửi ông già Noel: người cha đằng sau huyền thoại
 4. Huyền thoại có thật: Tolkien và sự chuyển đổi của C.S. Lewis
 5. Một vòng tình bạn: Tolkien, Lewis và Inklings
 6. Sự sáng tạo của Trung Địa: Huyền thoại đằng sau con người

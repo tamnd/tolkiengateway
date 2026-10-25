@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Star of Elendil"
 ---
 
-Chuyển hướng đến [Ngôi sao của Elendil](../S/Star_of_Elendil.md).
+Chuyển hướng đến [Ngôi sao Elendil](../S/Star_of_Elendil.md).

@@ -32,7 +32,7 @@ infobox:
 
 ## Mô tả {#Despcription}
 
-Có lẽ nó được xây dựng vào thời hoàng kim của [Arnor](../A/Arnor.md), dọc theo thành phố Annúminas, nhưng hiện tại nó là nơi sinh sống của một số Biệt đội phương Bắc vẫn còn sót lại. Ranger Calengad là người đứng đầu thành phố.
+Có lẽ nó được xây dựng vào thời hoàng kim của [Arnor](../A/Arnor.md), dọc theo thành phố Annúminas, nhưng hiện tại nó là nơi sinh sống của một số Tuần Du Nhân phương Bắc vẫn còn sót lại. Ranger Calengad là người đứng đầu thành phố.
 
 Nó được chia thành hai phần: ở phía trước, khi bạn đi vào qua cây cầu, bạn sẽ thấy khu trại, nơi tập trung hầu hết các Biệt động quân. Đây cũng là cuộc giao tranh và chủ nhân ổn định. Về phía bắc, có tòa nhà được gọi là Tháp Tinnidur. Đây là các thương gia và người dân.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 

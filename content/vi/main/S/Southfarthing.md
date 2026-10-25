@@ -42,7 +42,7 @@ infobox:
 
 ## Địa lý {#Geography}
 
-Điểm cực bắc của nó là [Hòn đá Ba Farthing](../T/Three-Farthing_Stone.md), biên giới phía đông của nó là Sông [Brandywine](../B/Baranduin.md) và phần lớn biên giới của nó với [Eastfarthing](../E/Eastfarthing.md) chạy dọc theo Sông [Shirebourn](Shirebourn.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Điểm cực bắc của nó là [Phiến đá Ba Khu](../T/Three-Farthing_Stone.md), biên giới phía đông của nó là Sông [Brandywine](../B/Baranduin.md) và phần lớn biên giới của nó với [Eastfarthing](../E/Eastfarthing.md) chạy dọc theo Sông [Shirebourn](Shirebourn.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Các tính năng khác bao gồm:
 

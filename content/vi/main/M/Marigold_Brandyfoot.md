@@ -55,7 +55,7 @@ Sau đó, khi [The Stranger](../T/The_Stranger.md) vô tình phá hủy <a class
 
 Khi đến Grove bị tàn phá một cách đáng kinh ngạc, Người lạ cố gắng chữa lành vườn cây ăn quả. Tuy nhiên, mặc dù vậy, một cành cây đã gãy, suýt làm hại Elanor và Dilly, khiến Marigold hoảng sợ.
 
-Sau khi Người lạ rời đi và [Mystics](Mystics.md) đốt xe xuống đất để truy đuổi, Marigold, cùng với [Sadoc Burrows](../S/Sadoc_Burrows.md), Elanor và [Poppy Proudfellow](../P/Poppy_Proudfellow.md), rời Grove để cảnh báo Người lạ và tìm cách trả thù Mystics. Sau trận chiến chống lại Mystics trong [phương Đông Bight](../E/East_Bight.md), Marigold và những <a class="new" href="https://tolkiengateway.net/w/index.php?title=Brandyfoot_family&amp;action=edit&amp;redlink=1" title="Brandyfoot family (page does not exist)">Brandyfoots</a> khác nói lời tạm biệt với Elanor, người quyết định đồng hành cùng Stranger trong hành trình tìm hiểu thêm về [Mũ ẩn sĩ](../H/Hermit's_Hat.md).
+Sau khi Người lạ rời đi và [Mystics](Mystics.md) đốt xe xuống đất để truy đuổi, Marigold, cùng với [Sadoc Burrows](../S/Sadoc_Burrows.md), Elanor và [Poppy Proudfellow](../P/Poppy_Proudfellow.md), rời Grove để cảnh báo Người lạ và tìm cách trả thù Mystics. Sau trận chiến chống lại Mystics trong [Vịnh phía Đông](../E/East_Bight.md), Marigold và những <a class="new" href="https://tolkiengateway.net/w/index.php?title=Brandyfoot_family&amp;action=edit&amp;redlink=1" title="Brandyfoot family (page does not exist)">Brandyfoots</a> khác nói lời tạm biệt với Elanor, người quyết định đồng hành cùng Stranger trong hành trình tìm hiểu thêm về [Mũ ẩn sĩ](../H/Hermit's_Hat.md).
 
 ## Phả hệ {#Genealogy}
 

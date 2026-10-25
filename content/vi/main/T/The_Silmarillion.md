@@ -106,7 +106,7 @@ Nó bao gồm lịch sử của thế giới [Arda](../A/Arda.md) từ khi [Eä]
 10. "[Về Sindar](../O/Of_the_Sindar.md)"
 11. "[Về Mặt Trời, Mặt Trăng và việc che giấu Valinor](../O/Of_the_Sun_and_Moon_and_the_Hiding_of_Valinor.md)"
 12. "[Về Con Người](../O/Of_Men.md)"
-13. "[Về sự trở lại của Noldor](../O/Of_the_Return_of_the_Noldor.md)"
+13. "[Về Cuộc trở về của Noldor](../O/Of_the_Return_of_the_Noldor.md)"
 14. "[Về Beleriand và các vương quốc của nó](../O/Of_Beleriand_and_its_Realms~31103.md)"
 15. "[Về Noldor ở Beleriand](../O/Of_the_Noldor_in_Beleriand.md)"
 16. "[Về Maeglin](../O/Of_Maeglin.md)"

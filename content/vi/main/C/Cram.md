@@ -33,7 +33,7 @@ images:
 
 Cơ bản *cram* là một món ăn có mùi bánh quy, nhạt nhẽo, không có cảm giác ngon miệng.<sup id="cite_ref-Home_1-3" class="reference"><a href="#cite_note-Home-1">[1]</a></sup>. Nó được làm từ bột mì nén, nhưng đôi khi người ta cho thêm sữa và mật ong vào để dễ ăn hơn.<sup id="cite_ref-LR_3-0" class="reference"><a href="#cite_note-LR-3">[3]</a></sup>
 
-Trong bài thơ hư cấu *[Perry-the-Winkle](../P/Perry-the-Winkle.md)*, được viết bởi [Samwise Gamgee](../S/Samwise_Gamgee.md),<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> [Quỷ cô đơn](../L/Lonely_Troll.md) đã cho [Perry](<../P/Perry-the-Winkle_(hobbit).md>) ăn "bánh mì nhồi nhét" và "bánh nhồi nhét".<sup id="cite_ref-Perry_5-0" class="reference"><a href="#cite_note-Perry-5">[5]</a></sup><sup id="cite_ref-RC_6-0" class="reference"><a href="#cite_note-RC-6">[6]</a></sup>
+Trong bài thơ hư cấu *[Perry-the-Winkle](../P/Perry-the-Winkle.md)*, được viết bởi [Samwise Gamgee](../S/Samwise_Gamgee.md),<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> [Troll Cô Độc](../L/Lonely_Troll.md) đã cho [Perry](<../P/Perry-the-Winkle_(hobbit).md>) ăn "bánh mì nhồi nhét" và "bánh nhồi nhét".<sup id="cite_ref-Perry_5-0" class="reference"><a href="#cite_note-Perry-5">[5]</a></sup><sup id="cite_ref-RC_6-0" class="reference"><a href="#cite_note-RC-6">[6]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

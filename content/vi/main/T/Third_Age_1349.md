@@ -21,7 +21,7 @@ sort_keys:
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 - Cái chết của [Vua](../K/Kings_of_Arthedain.md) [Malvegil](../M/Malvegil.md) của [Arthedain](../A/Arthedain.md).<sup id="cite_ref-App_1-0" class="reference"><a href="#cite_note-App-1">[1]</a></sup>
-- Sau [Malvegil](../M/Malvegil.md), [Các vị vua của Arthedain](../K/Kings_of_Arthedain.md) tại [Fornost](../F/Fornost_Erain.md) đã tuyên bố quyền thống trị trên tất cả [Arnor](../A/Arnor.md) và đặt trước tên của họ bằng *[ar(a)](../A/Ara.md)* để biểu thị điều này.<sup id="cite_ref-App_1-1" class="reference"><a href="#cite_note-App-1">[1]</a></sup>
+- Sau [Malvegil](../M/Malvegil.md), [Các Vua Arthedain](../K/Kings_of_Arthedain.md) tại [Fornost](../F/Fornost_Erain.md) đã tuyên bố quyền thống trị trên tất cả [Arnor](../A/Arnor.md) và đặt trước tên của họ bằng *[ar(a)](../A/Ara.md)* để biểu thị điều này.<sup id="cite_ref-App_1-1" class="reference"><a href="#cite_note-App-1">[1]</a></sup>
 - [Argeleb I](../A/Argeleb_I.md) trở thành [Vua](../K/Kings_of_Arthedain.md) thứ bảy của [Arthedain](../A/Arthedain.md).<sup id="cite_ref-App_1-2" class="reference"><a href="#cite_note-App-1">[1]</a></sup>
 
 <span></span>

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hobbitry-in-arms"
 ---
 
-Chuyển hướng đến [Sở thích trong tay](Hobbitry-in-arms.md).
+Chuyển hướng đến [Đội quân Hobbit](Hobbitry-in-arms.md).

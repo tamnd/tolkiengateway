@@ -30,7 +30,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Người</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Robin Wood</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin tiểu sử</span></th></tr><tr><th scope="row" class="tg-infobox-label">Sinh</th><td class="tg-infobox-data"><a href="../_/1953.md" title="1953">1953</a></td></tr><tr><th scope="row" class="tg-infobox-label">Qua đời</th><td class="tg-infobox-data"><a href="../_/19_April.md" title="19 April">19 April</a> <a href="../_/2021.md" title="2021">2021</a></td></tr><tr><th scope="row" class="tg-infobox-label">Nghề nghiệp</th><td class="tg-infobox-data">Nghệ sĩ</td></tr></tbody></table>
 
-**Robin Wood** ([1953](../_/1953.md)-[19 tháng 4](../_/19_April.md) [2021](../_/2021.md)) là một nghệ sĩ người Mỹ nổi tiếng với việc minh họa bìa cho [Dungeons và Rồng](../D/Dungeons_and_Dragons.md) và [Rồng Magazine](../D/Dragon_Magazine.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Robin Wood** ([1953](../_/1953.md)-[19 tháng 4](../_/19_April.md) [2021](../_/2021.md)) là một nghệ sĩ người Mỹ nổi tiếng với việc minh họa bìa cho [Dungeons và Rồng](../D/Dungeons_and_Dragons.md) và [Tạp chí Dragon](../D/Dragon_Magazine.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Vào những năm 1990, cô được [Vương miện Sắt Enterprises](../I/Iron_Crown_Enterprises.md) ủy quyền để tạo tác phẩm nghệ thuật thiệp cho *[Middle-earth Collectible Card Game](../M/Middle-earth_Collectible_Card_Game.md)*.
 

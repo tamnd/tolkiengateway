@@ -35,7 +35,7 @@ images:
 
 Mount Gundabad là thủ đô của Orc ở miền Bắc sau lần bao vây đầu tiên ở [Kỷ Đệ Nhị](../S/Second_Age.md). Các hoạt động chính của Orkish như các trận chiến trong [Cuộc chiến giữa Người Lùn và Orc](../W/War_of_the_Dwarves_and_Orcs.md) và [Trận chiến Năm Đạo quân](../B/Battle_of_Five_Armies.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> đều bắt nguồn từ nó.
 
-Các vùng lãnh thổ [Orkish](Orc.md) bao gồm [Moria](../M/Moria.md) và [Thị trấn yêu tinh](../G/Goblin-town.md) dưới lòng đất do [Great Goblin](../G/Great_Goblin.md) lãnh đạo.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Các vùng lãnh thổ [Orkish](Orc.md) bao gồm [Moria](../M/Moria.md) và [Thị trấn Goblin](../G/Goblin-town.md) dưới lòng đất do [Great Goblin](../G/Great_Goblin.md) lãnh đạo.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

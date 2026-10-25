@@ -18,7 +18,7 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/W/War_Office_2_January_1917.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/2/23/War_Office_2_January_1917.jpg/300px-War_Office_2_January_1917.jpg" decoding="async" loading="lazy" width="300" height="336" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/2/23/War_Office_2_January_1917.jpg 1.5x" data-file-width="414" data-file-height="464"/></a><figcaption></figcaption></figure>
 
-Vào [2 tháng 1](../_/2_January.md) [1917](../_/1917.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết <b><a class="mw-redirect" href="Letters_not_published_in_%2522The_Letters_of_J.R.R._Tolkien%2522.md" title="Letters not published in &#34;The Letters of J.R.R. Tolkien&#34;">một lá thư</a> gửi <a class="extiw" href="http://en.wikipedia.org/wiki/War_Office" title="wikipedia:War Office">Văn phòng Chiến tranh</a></b>.<sup id="cite_ref-C_1-0" class="reference"><a href="#cite_note-C-1">[1]</a></sup>
+Vào [2 tháng 1](../_/2_January.md) [1917](../_/1917.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết <b><a class="mw-redirect" href="Letters_not_published_in_%2522The_Letters_of_J.R.R._Tolkien%2522.md" title="Letters not published in &#34;The Letters of J.R.R. Tolkien&#34;">một lá thư</a> gửi <a class="extiw" href="http://en.wikipedia.org/wiki/War_Office" title="wikipedia:War Office">Bộ Chiến tranh</a></b>.<sup id="cite_ref-C_1-0" class="reference"><a href="#cite_note-C-1">[1]</a></sup>
 
 - **Chủ đề:** Tolkien tuyên bố mình đủ sức khỏe để trình báo nhiệm vụ.
 
@@ -31,7 +31,7 @@ Vào [2 tháng 1](../_/2_January.md) [1917](../_/1917.md), [J.R.R. Tolkien](../J
 
 ## Xem thêm {#See_also}
 
-- [Mẫu đơn của Văn phòng Chiến tranh ngày 22 tháng 11 năm 1916](../W/War_Office_form_22_November_1916.md)
+- [Mẫu đơn của Bộ Chiến tranh ngày 22 tháng 11 năm 1916](../W/War_Office_form_22_November_1916.md)
 
 ## Liên kết ngoài {#External_links}
 

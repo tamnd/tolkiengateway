@@ -46,7 +46,7 @@ infobox:
 
 *Nhà văn và phát thanh viên Brian Sibley là một chuyên gia hàng đầu về The Lord of the Rings (ông đã chuyển thể cuốn tiểu thuyết cho vở kịch kịch trên đài BBC từng đoạt giải thưởng năm 1980), và ở đây, trong cuốn sách bìa cứng bọc vải này, ông sẽ đưa bạn đến tất cả những nơi Bilbo mà Hobbit đã đi qua trong chuyến phiêu lưu vĩ đại của mình, đồng thời bao gồm một công báo về nhiều địa điểm được hiển thị trên bản đồ minh họa đầy màu sắc đi kèm cuốn sách.*
 
-- *Theo dõi hành trình hoành tráng của Bilbo xuyên qua khu rừng Mirkwood đến Dòng sông Phù phép và Sảnh của Vua Tiên;*
+- *Theo dõi hành trình hoành tráng của Bilbo xuyên qua khu rừng Mirkwood đến Dòng sông Phép thuật và Sảnh của Vua Tiên;*
 - *Du hành xuyên qua Sự hoang tàn của Smaug đến trung tâm của Ngọn Núi Cô Đơn, nơi sinh sống của con rồng to lớn và độc ác;*
 - *Hãy ghé thăm Rivendell, ngôi nhà của Tiên tộc, trong một thung lũng ẩn giấu bên ngoài Edge of the Wild.*
 

@@ -32,7 +32,7 @@ Saeros, ủy viên hội đồng của Doriath (Tenor): Michael Clifton-Thompson
 
 Mablung của Heavy Hand, Thuyền trưởng của Doriath (Bass): Stephen Wells
 
-Beleg Cúthalion, Đội trưởng của Doriath (Baritone): Philip Lloyd-Evans
+Beleg Cúthalion, Đội trưởng Doriath (Baritone): Philip Lloyd-Evans
 
 Gwindor, Lãnh chúa của Nargothrond (Baritone): Julian Boyce
 

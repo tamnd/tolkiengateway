@@ -20,7 +20,7 @@ images:
 
 # Mảng {#Plaques}
 
-## Nhà máy Sarehole, Hall Green,Birmingham {#Sarehole_Mill,Hall_Green,Birmingham}
+## Cối xay Sarehole, Hall Green,Birmingham {#Sarehole_Mill,Hall_Green,Birmingham}
 
 Dòng chữ trên tấm bảng ghi:
 

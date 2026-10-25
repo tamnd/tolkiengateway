@@ -53,7 +53,7 @@ infobox:
 
 Meássë nằm trong số [Ainur](../A/Ainur.md) đã liên kết với [Melko](Melko.md) trong [Âm nhạc của các Ainur](Music_of_the_Ainur.md).<sup id="cite_ref-Valar_1-1" class="reference"><a href="#cite_note-Valar-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:67</sup>
 
-Khi đến [Valinor](../V/Valinor.md), cô và anh trai Makar đã định cư ở phía bắc [Aman](../A/Aman.md), gần [Đại sảnh của Mandos](../H/Halls_of_Mandos.md).<sup id="cite_ref-Valar_1-2" class="reference"><a href="#cite_note-Valar-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:79</sup> Cô cùng với anh trai mình thường xuyên đến [Great Lands](Middle-earth.md), nơi họ săn sói và gấu ở vùng núi đen.<sup id="cite_ref-Valar_1-3" class="reference"><a href="#cite_note-Valar-1">[1]</a></sup>
+Khi đến [Valinor](../V/Valinor.md), cô và anh trai Makar đã định cư ở phía bắc [Aman](../A/Aman.md), gần [Đại sảnh Mandos](../H/Halls_of_Mandos.md).<sup id="cite_ref-Valar_1-2" class="reference"><a href="#cite_note-Valar-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:79</sup> Cô cùng với anh trai mình thường xuyên đến [Great Lands](Middle-earth.md), nơi họ săn sói và gấu ở vùng núi đen.<sup id="cite_ref-Valar_1-3" class="reference"><a href="#cite_note-Valar-1">[1]</a></sup>
 
 Khi [Tiên tộc](../E/Elves.md) thức dậy và Valar mời họ đến sống giữa các vị thần, cô đã ủng hộ Makar trong việc phản đối những người còn lại trong số họ, nói rằng Valinor được chế tạo chỉ dành cho Valar.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 

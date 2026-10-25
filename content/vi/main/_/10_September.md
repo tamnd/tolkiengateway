@@ -65,7 +65,7 @@ Sự kiện xảy ra vào ngày 10 tháng Chín.
 - **[1950](1950.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) trở về sau kỳ nghỉ tại [ngôi nhà của con trai ông](../M/Michael_Tolkien.md), nơi ông đã thực hiện một số sửa đổi cuối cùng đối với *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* (xem [Thư 134](../L/Letter_134.md)).
 - **[1950](1950.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 129](../L/Letter_129.md).
 - **[1951](1951.md)** - Ngày đầu tiên của Congrès Internationale de Philologie Moderne tại <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Li%C3%A8ge" title="wikipedia:University of Liège">Đại học Liège</a>, một hội nghị trong đó [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) trình bày bài báo "[tiếng Anh trung cổ 'Losenger'](../M/Middle_English_'Losenger'.md)".
-- **[1957](1957.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) giành được [Giải thưởng giả tưởng quốc tế](../T/The_Bookseller,_14_September_1957.md).
+- **[1957](1957.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) giành được [Giải thưởng Kỳ ảo Quốc tế](../T/The_Bookseller,_14_September_1957.md).
 - **[1959](1959.md)** - Diễn viên [Jim Meskimen](../J/Jim_Meskimen.md) ra đời.
 - **[1964](1964.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 263](../L/Letter_263.md).
 - **[2007](2007.md)** - *["from mind to mind": Robert Browning and J.R.R. Tolkien](../F/From_Mind_to_Mind.md)* được xuất bản.

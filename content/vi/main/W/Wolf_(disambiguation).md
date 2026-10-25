@@ -26,7 +26,7 @@ images:
     - [Người sói](Werewolves.md), trong đó mạnh nhất là [Carcharoth](../C/Carcharoth.md).
     - [White Sói](White_Wolves.md), những động vật từ [Forodwaith](<../F/Forodwaith_(lands).md>) đã tấn công [Shire](../T/The_Shire.md) ở [S.R.](../S/Shire_Reckoning.md) [1311](../T/Third_Age_2911.md).
 - [Tiếng sói](Wolf-language.md), ngôn ngữ của sói và chó
-- [Người cưỡi sói](Wolf-riders.md), "Orc hoặc những sinh vật giống Orclike"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> cưỡi trên những con sói.
+- [Kỵ sĩ Sói](Wolf-riders.md), "Orc hoặc những sinh vật giống Orclike"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> cưỡi trên những con sói.
 - [Wulf](Wulf.md), một Người đàn ông [Rohan](../R/Rohan.md) có tổ tiên [Dunlendish](../D/Dunland.md).
 
 ## Thế giới thực {#Real_World}

@@ -43,7 +43,7 @@ infobox:
 4. [Bàn chân của Orthanc](The_Foot_of_Orthanc.md) (4:44)
 5. [Quay lại Edoras](<../R/Return_to_Edoras_(soundtrack).md>) (1:51)
 6. [Chiếc cốc đã qua](The_Chalice_Passed.md) (1:50)
-7. [The Green Rồng](<The_Green_Dragon_(soundtrack).md>) (feat. [Billy Boyd](../B/Billy_Boyd.md) & [Dominic Monaghan](../D/Dominic_Monaghan.md)) (0:34)
+7. [The Rồng Xanh](<The_Green_Dragon_(soundtrack).md>) (feat. [Billy Boyd](../B/Billy_Boyd.md) & [Dominic Monaghan](../D/Dominic_Monaghan.md)) (0:34)
 Biệt thự của 8. [Gollum](../G/Gollum's_Villany.md) (2:10)
 Giấc mơ của 9. [Éowyn](../E/Eowyn's_Dream.md) (1:24)
 10. [Cái Palantír](<The_Palantir_(soundtrack).md>) (3:10)
@@ -56,7 +56,7 @@ Giấc mơ của 9. [Éowyn](../E/Eowyn's_Dream.md) (1:24)
 ### Đĩa 2 {#Disc_2}
 
 1. [Osgiliath Xâm lược](<../O/Osgiliath_Invaded_(soundtrack).md>) (feat. Ben Del Maestro) (8:47)
-2. [Cầu thang Cirith Ungol](<The_Stairs_of_Cirith_Ungol_(soundtrack).md>) (2:40)
+2. [Bậc thang Cirith Ungol](<The_Stairs_of_Cirith_Ungol_(soundtrack).md>) (2:40)
 3. [Trung thành với Denethor](<../A/Allegiance_to_Denethor_(soundtrack).md>) (3:19)
 4. [Sự hy sinh của Faramir](<The_Sacrifice_of_Faramir_(soundtrack).md>) (feat. "The Edge of Night," do Billy Boyd trình diễn) (4:08)
 5. [Sự chia tay của Sam và Frodo](<The_Parting_of_Sam_and_Frodo_(soundtrack).md>) (4:04)

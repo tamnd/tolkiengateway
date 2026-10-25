@@ -38,7 +38,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Khi đang bán củ gần chợ tại quán trọ [Green Rồng](../G/Green_Dragon~72852.md), Master Worrywort đã gặp phải [Bilbo Baggins](../B/Bilbo_Baggins.md). Bilbo vừa gặp [Gandalf](../G/Gandalf.md) và đã từ chối lời đề nghị tham gia một chuyến phiêu lưu của [Pháp sư](../W/Wizards.md). Bilbo hỏi Worrywort liệu ông có nhìn thấy Pháp sư xung quanh không, và Worrywort trả lời là chưa. Bilbo rồi lập tức bỏ chạy sau khi phát hiện ra thứ mà ông cho là chiếc mũ của Gandalf.
+Khi đang bán củ gần chợ tại quán trọ [Rồng Xanh](../G/Green_Dragon~72852.md), Master Worrywort đã gặp phải [Bilbo Baggins](../B/Bilbo_Baggins.md). Bilbo vừa gặp [Gandalf](../G/Gandalf.md) và đã từ chối lời đề nghị tham gia một chuyến phiêu lưu của [Pháp sư](../W/Wizards.md). Bilbo hỏi Worrywort liệu ông có nhìn thấy Pháp sư xung quanh không, và Worrywort trả lời là chưa. Bilbo rồi lập tức bỏ chạy sau khi phát hiện ra thứ mà ông cho là chiếc mũ của Gandalf.
 
 Sau đó, khi [Bilbo](../B/Bilbo_Baggins.md) đang chuẩn bị đi thực hiện [Nhiệm vụ Erebor](../Q/Quest_of_Erebor.md), Master Worrywort đã hỏi ông rằng ông sẽ đi đâu.
 

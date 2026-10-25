@@ -11,4 +11,4 @@ redirect_target: "Nine Rings"
 redirect_fragment: "Portrayal in adaptations"
 ---
 
-Chuyển hướng tới [Cửu Nhẫn](../N/Nine_Rings.md#Portrayal_in_adaptations).
+Chuyển hướng tới [Chín chiếc Nhẫn](../N/Nine_Rings.md#Portrayal_in_adaptations).

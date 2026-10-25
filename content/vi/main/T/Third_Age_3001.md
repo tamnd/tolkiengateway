@@ -30,7 +30,7 @@ Các sự kiện đáng chú ý trong năm nay bao gồm:
 - **[21](../_/21_September.md)** - Trời nhiều mây [Hobbiton](../H/Hobbiton.md).<sup id="cite_ref-party_1-5" class="reference"><a href="#cite_note-party-1">[1]</a></sup>
 - **[22](../_/22_September.md)** - [Bilbo bữa tiệc chia tay](../B/Bilbo's_Farewell_Party.md). [Gandalf](../G/Gandalf.md) nghi ngờ chiếc nhẫn của Bilbo là [Chiếc nhẫn duy nhất](The_One_Ring.md).<sup id="cite_ref-party_1-6" class="reference"><a href="#cite_note-party-1">[1]</a></sup><sup id="cite_ref-TA_3-0" class="reference"><a href="#cite_note-TA-3">[3]</a></sup>
 - **[23](../_/23_September.md)** - [Frodo Baggins](../F/Frodo_Baggins.md) thừa kế [Bag End](../B/Bag_End.md) và gặp khó khăn trong việc quản lý tài sản thừa kế và phân chia quà tặng của Bilbo. Buổi tối [Gandalf](../G/Gandalf.md) khởi hành tìm kiếm tin tức về [Gollum](../G/Gollum.md).<sup id="cite_ref-party_1-7" class="reference"><a href="#cite_note-party-1">[1]</a></sup><sup id="cite_ref-TA_3-1" class="reference"><a href="#cite_note-TA-3">[3]</a></sup>
-- Gandalf kêu gọi sự trợ giúp của [Aragorn](../A/Aragorn.md). [Biệt đội miền Bắc](../R/Rangers_of_the_North.md) tăng cường cảnh giác [ Shire](The_Shire.md).<sup id="cite_ref-TA_3-2" class="reference"><a href="#cite_note-TA-3">[3]</a></sup>
+- Gandalf kêu gọi sự trợ giúp của [Aragorn](../A/Aragorn.md). [Tuần Du Nhân phương Bắc](../R/Rangers_of_the_North.md) tăng cường cảnh giác [ Shire](The_Shire.md).<sup id="cite_ref-TA_3-2" class="reference"><a href="#cite_note-TA-3">[3]</a></sup>
 
 <span></span>
 

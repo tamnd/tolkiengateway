@@ -32,7 +32,7 @@ images:
 ## Trung Địa {#Middle-earth}
 
 - [Gelmir](<../G/Gelmir_(messenger_of_Círdan).md>), một [Noldorin](../N/Noldor.md) [Tiên](../E/Elves.md) của [Kỷ Đệ Nhất](First_Age.md), người được đặt tên là *Faramir* trong bản tóm tắt cốt truyện của *[Narn](../N/Narn.md)*.
-- [Faramir](<Faramir_(son_of_Ondoher).md>) (chết [T.A.](../T/Third_Age.md) [1944](../T/Third_Age_1944.md)), con trai thứ hai của [Vua](../K/Kings_of_Gondor.md) [Ondoher](../O/Ondoher.md) của [Gondor](../G/Gondor.md), bị giết trong [Trận chiến trong trại](../B/Battle_of_the_Camp.md).
+- [Faramir](<Faramir_(son_of_Ondoher).md>) (chết [T.A.](../T/Third_Age.md) [1944](../T/Third_Age_1944.md)), con trai thứ hai của [Vua](../K/Kings_of_Gondor.md) [Ondoher](../O/Ondoher.md) của [Gondor](../G/Gondor.md), bị giết trong [Trận chiến tại Trại](../B/Battle_of_the_Camp.md).
 - **[Faramir](Faramir.md) ([T.A.](../T/Third_Age.md) [2983](../T/Third_Age_2983.md) - [Kỷ Đệ Tứ](Fourth_Age.md) [82](Fourth_Age_82.md)), con trai của [Denethor](../D/Denethor.md) và em trai của [Boromir](../B/Boromir.md), một anh hùng của [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md).**
 - [Faramir Lấy tôi](Faramir_Took_I.md) (sinh ra [Kỷ Đệ Tứ](Fourth_Age.md) [9](Fourth_Age_9.md)), con trai của [Peregrin Took](../P/Peregrin_Took.md) người kế vị cha mình là [Thain](../T/Thain.md) của [người Shire](../T/The_Shire.md).
 

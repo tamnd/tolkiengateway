@@ -60,7 +60,7 @@ images:
 <li><a href="Of_the_Rings_of_Power_and_the_Third_Age.md" title="Of the Rings of Power and the Third Age">Về Những Chiếc Nhẫn Quyền Năng</a></li></ol>
 </td></tr></tbody></table>
 
-**Sự trở lại của Noldor** là chương thứ mười ba của phần *[Quenta Silmarillion](../Q/Quenta_Silmarillion.md)* trong *[The Silmarillion](../T/The_Silmarillion.md)*.
+**Cuộc trở về của Noldor** là chương thứ mười ba của phần *[Quenta Silmarillion](../Q/Quenta_Silmarillion.md)* trong *[The Silmarillion](../T/The_Silmarillion.md)*.
 
 ## Tóm tắt {#Synopsis}
 
@@ -90,9 +90,9 @@ Nhiều năm đã trôi qua khi Noldor được thành lập ở Beleriand. Họ
 
 Khi ba mươi năm trôi qua, [Turgon](../T/Turgon.md), người con trai còn lại của Fingolfin, rời vương quốc [Nevrast](../N/Nevrast.md) và đi tìm [Finrod](../F/Finrod.md). Họ du hành cùng nhau và đến được [Meres of Twilight](../M/Meres_of_Twilight.md) và nhanh chóng chìm vào giấc ngủ sâu. Khi tỉnh dậy, mỗi người đều tin [Ulmo](../U/Ulmo.md) đã gửi cho mình một thông điệp chuẩn bị một nơi ẩn náu.
 
-Sau này, khi Finrod và em gái [Galadriel](../G/Galadriel.md) làm khách của Thingol, Finrod đã rất ấn tượng với pháo đài hang động [Menegroth](../M/Menegroth.md) của Thingol. Thingol kể cho ông về những hang động ẩn giấu của Sông [Narog](../N/Narog.md), và chỉ cho ông hẻm núi nơi chúng ẩn náu. Finrod nhanh chóng bắt đầu đào hang động và nhận được sự giúp đỡ của [Người Lùn của Dãy Núi Xanh](../D/Dwarves_of_the_Blue_Mountains.md). Cùng nhau, họ đã tạo ra pháo đài [Nargothrond](../N/Nargothrond.md). Người Lùn cũng đã tạo ra một món đồ trang sức tuyệt đẹp cho Finrod, được gọi là [Nauglamír](../N/Nauglamír.md), một chiếc carcanet bằng vàng và nhiều đồ trang sức từ Valinor có giá trị vượt quá giá cả. Finrod sẽ đạt được danh hiệu *Felagund*, Hewer of Caves. Galadriel không về Nargothrond mà ở lại Doriath với [Celeborn](../C/Celeborn.md), người yêu của cô.
+Sau này, khi Finrod và em gái [Galadriel](../G/Galadriel.md) làm khách của Thingol, Finrod đã rất ấn tượng với pháo đài hang động [Menegroth](../M/Menegroth.md) của Thingol. Thingol kể cho ông về những hang động ẩn giấu của Sông [Narog](../N/Narog.md), và chỉ cho ông hẻm núi nơi chúng ẩn náu. Finrod nhanh chóng bắt đầu đào hang động và nhận được sự giúp đỡ của [Người Lùn ở Dãy Núi Xanh](../D/Dwarves_of_the_Blue_Mountains.md). Cùng nhau, họ đã tạo ra pháo đài [Nargothrond](../N/Nargothrond.md). Người Lùn cũng đã tạo ra một món đồ trang sức tuyệt đẹp cho Finrod, được gọi là [Nauglamír](../N/Nauglamír.md), một chiếc carcanet bằng vàng và nhiều đồ trang sức từ Valinor có giá trị vượt quá giá cả. Finrod sẽ đạt được danh hiệu *Felagund*, Hewer of Caves. Galadriel không về Nargothrond mà ở lại Doriath với [Celeborn](../C/Celeborn.md), người yêu của cô.
 
-Còn Turgon thì anh lại quay về Nevrast. Nhưng ngay sau đó, chính Ulmo đã xuất hiện với Turgon và dẫn Turgon khám phá [Tumladen](../T/Tumladen.md), một thung lũng ẩn giấu trong [Vòng vây Dãy Núi](../E/Encircling_Mountains.md). Turgon sớm bắt đầu lên kế hoạch xây dựng một thành phố ẩn trong thung lũng.
+Còn Turgon thì anh lại quay về Nevrast. Nhưng ngay sau đó, chính Ulmo đã xuất hiện với Turgon và dẫn Turgon khám phá [Tumladen](../T/Tumladen.md), một thung lũng ẩn giấu trong [Dãy Núi Bao Quanh](../E/Encircling_Mountains.md). Turgon sớm bắt đầu lên kế hoạch xây dựng một thành phố ẩn trong thung lũng.
 
 Nhưng Morgoth không hề nhàn rỗi, ông đã chiêu mộ một đội quân Orc khác. Khi sáu mươi năm trôi qua, đội quân mới này tiến quân khắp vùng đồng bằng [Ard-galen](../A/Ard-galen.md), đánh tan vùng đất do [Maglor](../M/Maglor.md) nắm giữ. Cuối cùng, mọi chuyện đều vô ích vì Fingolfin và Maedhros đã được chuẩn bị. Họ đã chống trả và nhanh chóng tiêu diệt quân đội trong cái được gọi là [Dagor Aglareb](../D/Dagor_Aglareb.md), hay Trận chiến Vinh quang.
 

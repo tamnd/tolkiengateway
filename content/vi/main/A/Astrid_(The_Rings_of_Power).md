@@ -33,7 +33,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Astrid đến từ [Southlands](../M/Mordor.md) của [Trung Địa](../M/Middle-earth.md), mặc dù nhà của cô bị [Orc](../O/Orcs.md) tấn công và cô phải chạy trốn cùng một nhóm bạn. Cùng với [Halbrand](../H/Halbrand.md), [Eamon](<../E/Eamon_(The_Rings_of_Power).md>), [Abigail](Abigail.md), [Doble](../D/Doble.md) và hai người bị trôi dạt khác, Astrid cuối cùng đã bị mắc kẹt giữa [Biển Sundering](../S/Sundering_Seas.md) sau khi con tàu của họ bị phá hủy bởi một [thứ không tên](../N/Nameless_things.md) chỉ được biết đến với cái tên "con sâu".
+Astrid đến từ [Southlands](../M/Mordor.md) của [Trung Địa](../M/Middle-earth.md), mặc dù nhà của cô bị [Orc](../O/Orcs.md) tấn công và cô phải chạy trốn cùng một nhóm bạn. Cùng với [Halbrand](../H/Halbrand.md), [Eamon](<../E/Eamon_(The_Rings_of_Power).md>), [Abigail](Abigail.md), [Doble](../D/Doble.md) và hai người bị trôi dạt khác, Astrid cuối cùng đã bị mắc kẹt giữa [Biển Phân Chia](../S/Sundering_Seas.md) sau khi con tàu của họ bị phá hủy bởi một [thứ không tên](../N/Nameless_things.md) chỉ được biết đến với cái tên "con sâu".
 
 Sau hai tuần lênh đênh trên biển, Abigail phát hiện [Galadriel](../G/Galadriel.md) bơi gần tàu của họ. Tin cô là đồng loại [Phụ nữ](../M/Men.md), Abigail thương hại Galadriel đỡ cô lên đống đổ nát, cho cô uống nước. Đúng lúc đó, Astrid chỉ ra rằng một con tàu đang đến gần, mặc dù cô nhận ra rằng đó là mảnh vỡ của con tàu của họ đang bị con sâu kéo theo. Trong cuộc tấn công sau đó, tất cả ngoại trừ Galadriel và Halbrand đều bị mất tích trên biển hoặc bị sâu giết chết.
 

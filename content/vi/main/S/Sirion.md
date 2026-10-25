@@ -68,7 +68,7 @@ Sirion chảy về phía nam dọc theo ranh giới của Ered Wethrin, đi qua 
 
 ### Các nhánh {#Tributaries}
 
-Theo thứ tự từ bắc xuống nam, các nhánh chính của Sirion là [Rivil](../R/Rivil.md), chảy từ Dorthonion cho đến khi gặp Sirion ở Đầm lầy Serech; [Sông khô](../D/Dry_River.md) trước đây, [Mindeb](../M/Mindeb.md), có nguồn ở [Nan Dungortheb](../N/Nan_Dungortheb.md) và [Ered Gorgoroth](../E/Ered_Gorgoroth.md), [Teiglin](../T/Teiglin.md), [Esgalduin](../E/Esgalduin.md) của Doriath; dòng [Aros](../A/Aros.md) chảy về phía nam từ Dorthonion và phía tây dọc theo [Rừng Region](../F/Forest_of_Region.md) (và cũng chứa nước của [Celon](../C/Celon.md) từ Đồi [Himring](../H/Himring.md) và [Himlad](../H/Himlad.md)) gặp nhau tại Aelin-uial và [Narog](../N/Narog.md), nối với Sirion tại Nan-Tathren.<sup id="cite_ref-Map_2-2" class="reference"><a href="#cite_note-Map-2">[2]</a></sup>
+Theo thứ tự từ bắc xuống nam, các nhánh chính của Sirion là [Rivil](../R/Rivil.md), chảy từ Dorthonion cho đến khi gặp Sirion ở Đầm lầy Serech; [Sông Cạn](../D/Dry_River.md) trước đây, [Mindeb](../M/Mindeb.md), có nguồn ở [Nan Dungortheb](../N/Nan_Dungortheb.md) và [Ered Gorgoroth](../E/Ered_Gorgoroth.md), [Teiglin](../T/Teiglin.md), [Esgalduin](../E/Esgalduin.md) của Doriath; dòng [Aros](../A/Aros.md) chảy về phía nam từ Dorthonion và phía tây dọc theo [Rừng Region](../F/Forest_of_Region.md) (và cũng chứa nước của [Celon](../C/Celon.md) từ Đồi [Himring](../H/Himring.md) và [Himlad](../H/Himlad.md)) gặp nhau tại Aelin-uial và [Narog](../N/Narog.md), nối với Sirion tại Nan-Tathren.<sup id="cite_ref-Map_2-2" class="reference"><a href="#cite_note-Map-2">[2]</a></sup>
 
 ### Điểm giao nhau {#Crossing_Points}
 

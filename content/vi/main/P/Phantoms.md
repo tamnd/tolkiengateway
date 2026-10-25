@@ -21,7 +21,7 @@ images:
 
 ## Lịch sử và đặc điểm {#History_and_characteristics}
 
-Trong [Ngày của Người cao tuổi](../E/Elder_Days.md), những sinh vật của "*dreadful shapes*", trong số đó được cho là những bóng ma, đã ám ảnh [Tiên tộc](../E/Elves.md), kéo con người vào bóng tối xung quanh biên giới của những ngôi nhà Tiên không bao giờ xuất hiện trở lại.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Trong [Thời Cổ xưa](../E/Elder_Days.md), những sinh vật của "*dreadful shapes*", trong số đó được cho là những bóng ma, đã ám ảnh [Tiên tộc](../E/Elves.md), kéo con người vào bóng tối xung quanh biên giới của những ngôi nhà Tiên không bao giờ xuất hiện trở lại.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 Ở [Beleriand](../B/Beleriand.md), khu rừng <a class="mw-redirect mw-disambig" href="../T/Taur-nu-Fuin.md" title="Taur-nu-Fuin">Taur-nu-Fuin</a> là địa điểm khét tiếng của "*phantoms of terror*" được cho là nơi bóp cổ hoặc truy đuổi những kẻ lang thang bị lạc.<sup id="cite_ref-S18_4-0" class="reference"><a href="#cite_note-S18-4">[4]</a></sup>
 

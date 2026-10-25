@@ -13,7 +13,7 @@ categories:
   - "Tol Eressëa"
 ---
 
-**Arbour of the Thrushes** là một giàn cây xanh trong khu vườn bên ngoài [Ngôi nhà của Lost Play](../C/Cottage_of_Lost_Play.md). Ở đây chim hót vang dội, nhưng bãi cỏ lại trải đầy vàng. Nó có một chỗ ngồi bằng đá chạm khắc phủ đầy rêu.<sup id="cite_ref-link_1-0" class="reference"><a href="#cite_note-link-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:61</sup>
+**Arbour of the Thrushes** là một giàn cây xanh trong khu vườn bên ngoài [Ngôi nhà Trò chơi Thất lạc](../C/Cottage_of_Lost_Play.md). Ở đây chim hót vang dội, nhưng bãi cỏ lại trải đầy vàng. Nó có một chỗ ngồi bằng đá chạm khắc phủ đầy rêu.<sup id="cite_ref-link_1-0" class="reference"><a href="#cite_note-link-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:61</sup>
 
 Chính trong vọng lâu này [Eriol](../E/Eriol.md) đã trò chuyện với [Rúmil](<../R/Rúmil_(door-ward).md>) về [ Âm nhạc của các Ainur](../T/The_Music_of_the_Ainur.md).<sup id="cite_ref-music_2-0" class="reference"><a href="#cite_note-music-2">[2]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:82</sup>
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Great Chamber of Thrór"
 ---
 
-Chuyển hướng tới [Đại sảnh Thrór](Great_Chamber_of_Thrór.md).
+Chuyển hướng tới [Đại Sảnh của Thrór](Great_Chamber_of_Thrór.md).

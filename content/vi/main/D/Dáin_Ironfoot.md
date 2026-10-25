@@ -162,7 +162,7 @@ Vài ngày sau, người Easterling biết tin [Trận chiến trên Cánh đồ
 
 *Dáinn* là một người lùn trong *[Dvergatal](../V/Völuspá.md)*. Tên của ông nhiều khả năng có nghĩa là “giống người chết”.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>
 
-Biệt hiệu *[Ironfoot](../I/Ironfoot.md)* vẫn chưa được giải thích trong các tác phẩm đã xuất bản của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Tuy nhiên, [John D. Rateliff](../J/John_D._Rateliff.md) đã chỉ ra rằng lời giải thích có lẽ nằm trong bản thảo gốc của *[The Hobbit](../T/The_Hobbit.md)*, trong đó có ghi rằng giày của những người lùn ở Iron Hills được làm bằng sắt.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>
+Biệt hiệu *[Ironfoot](../I/Ironfoot.md)* vẫn chưa được giải thích trong các tác phẩm đã xuất bản của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Tuy nhiên, [John D. Rateliff](../J/John_D._Rateliff.md) đã chỉ ra rằng lời giải thích có lẽ nằm trong bản thảo gốc của *[The Hobbit](../T/The_Hobbit.md)*, trong đó có ghi rằng giày của những Người Lùn Dãy Đồi Sắt được làm bằng sắt.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>
 
 ## Gia phả {#Genealogy}
 

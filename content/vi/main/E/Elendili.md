@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Elf-friends"
 ---
 
-Chuyển hướng đến [Những người bạn của Tiên tộc](Elf-friends.md).
+Chuyển hướng đến [Bạn hữu Tiên tộc](Elf-friends.md).

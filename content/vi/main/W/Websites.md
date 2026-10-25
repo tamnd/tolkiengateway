@@ -48,7 +48,7 @@ Trang này đóng vai trò là hướng dẫn cho nhiều **trang web** hữu í
 ### Wiki và tài liệu tham khảo {#Wikis_and_references}
 
 - [Tolkien Gateway](../T/Tolkien_Gateway.md) — <a class="external free" href="https://tolkiengateway.net/" rel="noreferrer noopener" target="_blank">https://tolkiengateway.net/</a>
-- Sách của Thain— <a class="external free" href="https://thainsbook.minastirith.cz/" rel="noreferrer noopener" target="_blank">https://thainsbook.minastirith.cz/</a>
+- Sách Thain— <a class="external free" href="https://thainsbook.minastirith.cz/" rel="noreferrer noopener" target="_blank">https://thainsbook.minastirith.cz/</a>
 - [Bách khoa toàn thư Arda](../E/Encyclopedia_of_Arda.md) — <a class="external free" href="https://www.glyphweb.com/arda/" rel="noreferrer noopener" target="_blank">https://www.glyphweb.com/arda/</a>
 - Trung tâm nghiên cứu Henneth Annun — <a class="external free" href="http://henneth-annun.net/" rel="noreferrer noopener" target="_blank">http://henneth-annun.net/</a>
 - The Lord of the Rings Wiki — <a class="external free" href="https://lotr.fandom.com/" rel="noreferrer noopener" target="_blank">https://lotr.fandom.com/</a>

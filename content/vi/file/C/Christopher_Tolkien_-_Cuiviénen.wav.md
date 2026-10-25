@@ -25,7 +25,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Christopher Tolkien](../../main/C/Christopher_Tolkien.md) đọc trích dẫn từ [Chuyến bay của Noldor](../../main/O/Of_the_Flight_of_the_Noldor.md)
+[Christopher Tolkien](../../main/C/Christopher_Tolkien.md) đọc trích dẫn từ [Cuộc Di Tản của người Noldor](../../main/O/Of_the_Flight_of_the_Noldor.md)
 
 ## Giấy phép {#Licensing}
 

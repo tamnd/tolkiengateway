@@ -68,7 +68,7 @@ Con trai ông [Ecthelion](../E/Ecthelion_II.md) kế vị ngai vàng.
 
 ## Từ nguyên {#Etymology}
 
-Để biết ý nghĩa tên của ông, hãy tham khảo [Turgon - Từ nguyên](Turgon.md#Etymology). Turgon có lẽ được đặt theo tên của [Turgon](Turgon.md), một [Đại Vương của Noldor](../H/High_King_of_the_Noldor.md) của [Kỷ Đệ Nhất](../F/First_Age.md), người đã thành lập thành phố ẩn giấu [Gondolin](../G/Gondolin.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Để biết ý nghĩa tên của ông, hãy tham khảo [Turgon - Từ nguyên](Turgon.md#Etymology). Turgon có lẽ được đặt theo tên của [Turgon](Turgon.md), một [Đại Vương Noldor](../H/High_King_of_the_Noldor.md) của [Kỷ Đệ Nhất](../F/First_Age.md), người đã thành lập thành phố ẩn giấu [Gondolin](../G/Gondolin.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Phả hệ {#Genealogy}
 

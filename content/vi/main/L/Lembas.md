@@ -66,7 +66,7 @@ Truyền thống trồng ngô <a class="new" href="https://tolkiengateway.net/w/
 
 Bánh rất bổ dưỡng, tươi lâu trong nhiều tháng khi được gói trong lá và được dùng làm thực phẩm trong những chuyến hành trình dài. *Lembas* có màu nâu ở bên ngoài và màu kem ở bên trong.
 
-Theo [Gimli](../G/Gimli.md), đó là một loại thực phẩm cùng loại với *[Cram](../C/Cram.md)*, mặc dù một trong những [Tiên tộc của Lothlórien](../G/Galadhrim.md) nhận xét rằng nó dễ chịu hơn và tăng cường sức lực hơn bất kỳ thực phẩm nào do [Con Người](../M/Men.md) làm.<sup id="cite_ref-Farewell_6-1" class="reference"><a href="#cite_note-Farewell-6">[6]</a></sup>
+Theo [Gimli](../G/Gimli.md), đó là một loại thực phẩm cùng loại với *[Cram](../C/Cram.md)*, mặc dù một trong những [Tiên tộc Lothlórien](../G/Galadhrim.md) nhận xét rằng nó dễ chịu hơn và tăng cường sức lực hơn bất kỳ thực phẩm nào do [Con Người](../M/Men.md) làm.<sup id="cite_ref-Farewell_6-1" class="reference"><a href="#cite_note-Farewell-6">[6]</a></sup>
 
 Giống như các sản phẩm khác của Tiên tộc, nó gây khó chịu cho những sinh vật xấu xa; [Gollum](../G/Gollum.md) từ chối thẳng thừng ăn nó.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> Khi Frodo bị [Orc](../O/Orcs.md) bắt vào Mordor, Orc thậm chí còn ghét vẻ ngoài của *lembas* hơn cả Gollum.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
 

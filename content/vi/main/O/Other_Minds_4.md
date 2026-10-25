@@ -36,7 +36,7 @@ infobox:
     - Bởi [Thomas Morwinsky](../T/Thomas_Morwinsky.md)
 - "MERPCon ở đâu"
     - Bởi Hawke Robinson
-- "Vấn đề của Người Lùn-phụ nữ"
+- "Vấn đề của Phụ nữ Người Lùn"
     - Bởi Neville Percy
 - "Tóm tắt lịch sử của các dinh thự Người Lùn"
     - Bởi Thomas Morwinsky

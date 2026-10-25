@@ -49,7 +49,7 @@ Nhà điêu khắc: Chris Tubb.
 - M1 - M25 Đường đua của Trung Địa
 - M26 - Kỵ sĩ M31 của Rohan
 - M32 - M41 Cardolan - Kẻ trộm Tharbad
-- M42 - M51 Vua Phù thủy của Angmar quân
+- M42 - M51 Vua Phù thủy Angmar quân
 - M52 - M61 The Shire Người
 - M62 - Smaug cái Rồng
 - M63 - M72 Sảnh của Tiên-vua

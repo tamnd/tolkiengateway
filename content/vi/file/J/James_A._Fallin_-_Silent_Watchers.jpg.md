@@ -44,7 +44,7 @@ file:
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Miêu tả <a href="../../main/T/Two_Watchers.md" title="Two Watchers">Hai Người theo dõi</a>, không phải <a href="../../main/S/Silent_Watchers.md" title="Silent Watchers">Những Người theo dõi thầm lặng</a></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Miêu tả <a href="../../main/T/Two_Watchers.md" title="Two Watchers">Hai Kẻ Canh Gác</a>, không phải <a href="../../main/S/Silent_Watchers.md" title="Silent Watchers">Những Người theo dõi thầm lặng</a></span>
 </li>
 </ol></div></span>
 

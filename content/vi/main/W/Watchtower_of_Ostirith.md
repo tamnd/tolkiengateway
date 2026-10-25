@@ -45,7 +45,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Trong [Những ngày của Người cao tuổi](../E/Elder_Days.md), Tháp Canh Ostirith ban đầu được xây dựng bởi [Con Người](<../E/Easterlings_(First_Age).md>) những người đi theo [Morgoth](../M/Morgoth.md), trong đó, người ta nói rằng tòa tháp vẫn sở hữu sức mạnh dành cho những người bị nhiễm [Bóng Tối](../S/Shadow.md). Tháp canh còn có tượng được chạm khắc bằng đá của [Sauron](../S/Sauron.md), trung úy của Morgoth. Tác phẩm điêu khắc này ẩn chứa một thiết bị phức tạp có thể giải phóng ngọn lửa của [Orodruin](../M/Mount_Doom.md).
+Trong [Những Thời Cổ xưa](../E/Elder_Days.md), Tháp Canh Ostirith ban đầu được xây dựng bởi [Con Người](<../E/Easterlings_(First_Age).md>) những người đi theo [Morgoth](../M/Morgoth.md), trong đó, người ta nói rằng tòa tháp vẫn sở hữu sức mạnh dành cho những người bị nhiễm [Bóng Tối](../S/Shadow.md). Tháp canh còn có tượng được chạm khắc bằng đá của [Sauron](../S/Sauron.md), trung úy của Morgoth. Tác phẩm điêu khắc này ẩn chứa một thiết bị phức tạp có thể giải phóng ngọn lửa của [Orodruin](../M/Mount_Doom.md).
 
 Một thời gian sau [Chiến tranh Beleriand](Wars_of_Beleriand.md), một đơn vị đồn trú của [Silvan](../S/Silvan.md) [Tiên tộc](../E/Elves.md) dưới sự chỉ huy của [Watchwarden Revion](../R/Revion.md) đã sử dụng tòa tháp này trong 79 năm cảnh giác đối với nhiều ngôi làng ở [Southlands](../M/Mordor.md). Lực lượng đồn trú này bao gồm [Tiên tộc](../E/Elves.md) như [Arondir](../A/Arondir.md) và [Médhor](../M/Médhor.md).
 

@@ -47,7 +47,7 @@ Whitfurrows dường như đã từng là một trung tâm hoặc một vị tr�
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong ấn bản đầu tiên của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, tên của địa điểm mà một trong những vận động viên đặc biệt đến với "thông điệp bí mật" trong chương "[Cuộc truy quét Shire](../T/The_Scouring_of_the_Shire.md)" là [Bamfurlong](../B/Bamfurlong.md). Trong phiên bản thứ hai của *The Lord of the Rings*, tên của địa điểm này đã được đổi thành Whitfurrows<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>và *Bamfurlong* được chèn làm tên vùng đất của Farmer Maggot, vốn không được đặt tên trong phiên bản đầu tiên<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>.
+Trong ấn bản đầu tiên của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, tên của địa điểm mà một trong những vận động viên đặc biệt đến với "thông điệp bí mật" trong chương "[Cuộc truy Cuộc thanh trừng Shire](../T/The_Scouring_of_the_Shire.md)" là [Bamfurlong](../B/Bamfurlong.md). Trong phiên bản thứ hai của *The Lord of the Rings*, tên của địa điểm này đã được đổi thành Whitfurrows<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>và *Bamfurlong* được chèn làm tên vùng đất của Farmer Maggot, vốn không được đặt tên trong phiên bản đầu tiên<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>.
 
 <span></span>
 
