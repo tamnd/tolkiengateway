@@ -50,7 +50,7 @@ Ngày 12 tháng 3, quân [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md
 
 ## Hậu quả {#Aftermath}
 
-Dưới áp lực của Kẻ Thù, Faramir buộc phải rút lui cùng người của mình trở lại [Causeway Pháo đài](../C/Causeway_Forts.md) nơi trận chiến đang diễn ra lại tiếp tục. Vào [13 tháng 3](../_/13_March.md),<sup id="cite_ref-App_2-2" class="reference"><a href="#cite_note-App-2">[2]</a></sup> trận chiến này cũng thất bại, trong khi bản thân Faramir bị thương nặng bởi một mũi tên độc của [Haradrim](../H/Haradrim.md) và bị [Hơi Thở Đen](../B/Black_Breath.md) đánh gục. Chỉ một cuộc xuất kích của [Imrahil](../I/Imrahil.md) và các hiệp sĩ của ông đã cứu ông và những người lính còn lại khỏi cuộc tấn công đó.<sup id="cite_ref-Osgiliath_1-3" class="reference"><a href="#cite_note-Osgiliath-1">[1]</a></sup> Sauron quân đội tiến lên và [Cuộc vây hãm Gondor](../S/Siege_of_Gondor.md) sẽ bắt đầu.
+Dưới áp lực của Kẻ Thù, Faramir buộc phải rút lui cùng người của mình trở lại [Pháo đài Causeway](../C/Causeway_Forts.md) nơi trận chiến đang diễn ra lại tiếp tục. Vào [13 tháng 3](../_/13_March.md),<sup id="cite_ref-App_2-2" class="reference"><a href="#cite_note-App-2">[2]</a></sup> trận chiến này cũng thất bại, trong khi bản thân Faramir bị thương nặng bởi một mũi tên độc của [Haradrim](../H/Haradrim.md) và bị [Hơi Thở Đen](../B/Black_Breath.md) đánh gục. Chỉ một cuộc xuất kích của [Imrahil](../I/Imrahil.md) và các hiệp sĩ của ông đã cứu ông và những người lính còn lại khỏi cuộc tấn công đó.<sup id="cite_ref-Osgiliath_1-3" class="reference"><a href="#cite_note-Osgiliath-1">[1]</a></sup> Sauron quân đội tiến lên và [Cuộc vây hãm Gondor](../S/Siege_of_Gondor.md) sẽ bắt đầu.
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 

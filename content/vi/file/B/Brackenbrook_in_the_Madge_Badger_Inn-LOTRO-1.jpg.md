@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Thuyền trưởng Brackenbrook](../../main/C/Captain_Brackenbrook.md) trong Nhà trọ Mad Badger.
+[Đại úy Brackenbrook](../../main/C/Captain_Brackenbrook.md) trong Nhà trọ Mad Badger.
 
 ## Giấy phép {#Licensing}
 

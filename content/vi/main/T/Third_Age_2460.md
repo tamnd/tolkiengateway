@@ -20,7 +20,7 @@ sort_keys:
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- [Hòa bình thận trọng](../W/Watchful_Peace.md) kết thúc. [Sauron](../S/Sauron.md) trở lại với sức mạnh tăng lên [Dol Guldur](../D/Dol_Guldur.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+- [Thời kỳ Hòa bình Cảnh giác](../W/Watchful_Peace.md) kết thúc. [Sauron](../S/Sauron.md) trở lại với sức mạnh tăng lên [Dol Guldur](../D/Dol_Guldur.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

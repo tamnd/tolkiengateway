@@ -32,9 +32,9 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Nhân vật</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Elves of Mithrim</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin chung</span></th></tr><tr><th scope="row" class="tg-infobox-label">Nguồn gốc</th><td class="tg-infobox-data"><a href="../S/Sindar.md" title="Sindar">Sindar</a> đã định cư tại <a href="../M/Mithrim.md" title="Mithrim">Mithrim</a> trước ngày <a class="mw-redirect" href="../R/Return_of_the_Noldor.md" title="Return of the Noldor">Trả lại Noldor</a></td></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data"><a href="../M/Mithrim.md" title="Mithrim">Mithrim</a></td></tr><tr><th scope="row" class="tg-infobox-label">Ngôn ngữ</th><td class="tg-infobox-data"><a href="../N/North_Sindarin.md" title="North Sindarin">North Sindarin</a></td></tr><tr><th scope="row" class="tg-infobox-label">Thành viên</th><td class="tg-infobox-data"><a href="../A/Annael.md" title="Annael">Annael</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Mô tả hình thức</span></th></tr><tr><th scope="row" class="tg-infobox-label">Tuổi thọ</th><td class="tg-infobox-data">Bất tử</td></tr></tbody></table>
 
-Những **Tiên tộc của Mithrim** là những cư dân [Sindarin](../S/Sindar.md) của vùng đất [Mithrim](../M/Mithrim.md).
+Những **Tiên tộc Mithrim** là những cư dân [Sindarin](../S/Sindar.md) của vùng đất [Mithrim](../M/Mithrim.md).
 
-Tiên tộc của Mithrim đã chuyển vào [Hithlum](../H/Hithlum.md) từ [Beleriand](../B/Beleriand.md) vào một thời điểm nào đó trước khi [Mặt Trời](../S/Sun.md) trỗi dậy, định cư ở các vùng xung quanh [Hồ Mithrim](../L/Lake_Mithrim.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Tiên tộc Mithrim đã chuyển vào [Hithlum](../H/Hithlum.md) từ [Beleriand](../B/Beleriand.md) vào một thời điểm nào đó trước khi [Mặt Trời](../S/Sun.md) trỗi dậy, định cư ở các vùng xung quanh [Hồ Mithrim](../L/Lake_Mithrim.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Những Tiên tộc này hiếm khi ra nước ngoài và hiếm khi vượt qua [Ered Wethrin](Ered_Wethrin.md). Mặc dù họ chắc chắn có nguồn gốc chủ yếu là [Teleri](../T/Teleri.md), nhưng một truyền thống vẫn tồn tại rằng một số người trên thực tế [Noldor](../N/Noldor.md) đã thất bại trong việc dấn thân vì họ đã khám phá quá xa hoặc đã kết bạn với Teleri người đi lên phía sau.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
@@ -50,13 +50,13 @@ Sau [Nirnaeth Arnoediad](../N/Nirnaeth_Arnoediad.md), họ đã che chở cho [R
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../N/North_Sindarin.md" title="North Sindarin">Bắc Sindarin</a></b></div></div>
 
-Tiên tộc của Mithrim nói một phương ngữ rõ ràng của [Sindarin](../S/Sindarin.md).<sup id="cite_ref-Author_8-0" class="reference"><a href="#cite_note-Author-8">[8]</a></sup>
+Tiên tộc Mithrim nói một phương ngữ rõ ràng của [Sindarin](../S/Sindarin.md).<sup id="cite_ref-Author_8-0" class="reference"><a href="#cite_note-Author-8">[8]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
 *Mithrim* có hai từ nguyên thay thế. Ở phiên bản trước, *Mithrim* có nguồn gốc là [Noldorin](../N/Noldorin.md), bao gồm phần gốc *mith-* "sương mù, sương mù, màu xám" và *-rhim(b)* "lạnh" hoặc "hồ lạnh".<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
 
-Một phiên bản sau này là *Mithrim* "dân xám" đã được Sindar của Beleriand áp dụng cho đồng loại của họ đã đi về phía bắc vào Hithlum. Khí hậu phía bắc của [Ered Wethrin](Ered_Wethrin.md) mát mẻ, có sương mù và xám xịt, nhưng Tiên tộc cũng dệt một tấm vải màu xám giúp che giấu chúng. Cũng có ý kiến ​​cho rằng Noldor trước tiên sử dụng thuật ngữ *Sindar* (hoặc *Sindeldi*) để chỉ Tiên tộc của Mithrim, sau đó áp dụng nó cho tất cả [Sindarin](../S/Sindarin.md) nói Tiên tộc của Beleriand.<sup id="cite_ref-Author_8-1" class="reference"><a href="#cite_note-Author-8">[8]</a></sup>
+Một phiên bản sau này là *Mithrim* "dân xám" đã được Sindar của Beleriand áp dụng cho đồng loại của họ đã đi về phía bắc vào Hithlum. Khí hậu phía bắc của [Ered Wethrin](Ered_Wethrin.md) mát mẻ, có sương mù và xám xịt, nhưng Tiên tộc cũng dệt một tấm vải màu xám giúp che giấu chúng. Cũng có ý kiến ​​cho rằng Noldor trước tiên sử dụng thuật ngữ *Sindar* (hoặc *Sindeldi*) để chỉ Tiên tộc Mithrim, sau đó áp dụng nó cho tất cả [Sindarin](../S/Sindarin.md) nói Tiên tộc Beleriand.<sup id="cite_ref-Author_8-1" class="reference"><a href="#cite_note-Author-8">[8]</a></sup>
 
 <span></span>
 

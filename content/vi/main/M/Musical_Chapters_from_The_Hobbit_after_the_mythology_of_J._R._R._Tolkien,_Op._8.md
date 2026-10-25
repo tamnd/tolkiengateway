@@ -39,7 +39,7 @@ Bilbo Baggins (Giọng nam cao)
 
 Gandalf the Grey, một Pháp sư (Baritone)
 
-Gwaihir, Chúa tể của Đại Bàng (Soprano hoặc Tenor)
+Gwaihir, Chúa tể Đại Bàng (Soprano hoặc Tenor)
 
 Landroval, một Eagle khác (Soprano hoặc Tenor)
 
@@ -75,7 +75,7 @@ Bofur, tín đồ của Thorin (Baritone)
 
 Bombur, tín đồ của Thorin (Bass)
 
-Dain, Chúa tể của Dãy Đồi Sắt (Baritone)
+Dain, Chúa tể Dãy Đồi Sắt (Baritone)
 
 **CHỦNG TỘC NGƯỜI ĐÀN ÔNG:**
 
@@ -173,7 +173,7 @@ Cảnh Bảy      Những con đại bàng đồng ý chở cả nhóm rời 
 
 <br> 3             NHÀ CHỜ QUÁI VẤN
 
-Cảnh Một          Những con đại bàng đưa đoàn đến chỗ vượt Sông Lớn, nơi Gandalf tiết lộ rằng ông sẽ phải để họ đi làm 'công việc khẩn cấp' khác khi họ đến khu rừng Mirkwood. Trong lúc chờ đợi, anh sẽ đưa họ đi tìm sự trợ giúp.
+Cảnh Một          Những con đại bàng đưa đoàn đến chỗ vượt Đại Hà, nơi Gandalf tiết lộ rằng ông sẽ phải để họ đi làm 'công việc khẩn cấp' khác khi họ đến khu rừng Mirkwood. Trong lúc chờ đợi, anh sẽ đưa họ đi tìm sự trợ giúp.
 
 Cảnh Hai          Gandalf và Bilbo đến nhà của Béorn, một người thay đổi làn da, người dần dần chấp nhận sự hiện diện của những người lùn khi họ kể cho ông nghe về những cuộc phiêu lưu của họ trên núi và việc giết chết Yêu tinh vĩ đại. Ông cho họ mượn ngựa để đưa họ đến Mirkwood và khuyên họ nên đi con đường nào xuyên rừng.
 

@@ -35,7 +35,7 @@ infobox:
 ## Nội dung {#Contents}
 
 - Biên tập: Công lý thần thoại - [Chris Seeman](../C/Chris_Seeman.md)
-- Người Lùn của Dãy Núi Xanh
+- Người Lùn ở Dãy Núi Xanh
 - Tiên-chúa tể của Lindon - Jeff Erwin
 - Câu chuyện về người lùn và Kúra - Jeff Erwin
 - Nhật ký của Rastarin

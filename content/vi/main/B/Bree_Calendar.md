@@ -39,7 +39,7 @@ langlinks:
 <dl><dd><dl><dd><dl><dd>*<small><i>Differ from Shire names.</i></small></dd></dl></dd></dl></dd></dl>
 </td></tr></tbody></table>
 
-**Bree Lịch** là lịch được [Bree-dân gian](Bree-folk.md) sử dụng trong [Kỷ Đệ Tam](../T/Third_Age.md).
+**Bree Lịch** là lịch được [Dân Bree](Bree-folk.md) sử dụng trong [Kỷ Đệ Tam](../T/Third_Age.md).
 
 Một số tên tháng khác với tên của [Lịch Shire](../S/Shire_Calendar.md), được phát triển độc lập. Tuy nhiên, những tên đó cũng được sử dụng trong [Eastfarthing](../E/Eastfarthing.md) của [ Shire](../T/The_Shire.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
@@ -47,7 +47,7 @@ Một số tên tháng khác với tên của [Lịch Shire](../S/Shire_Calendar
 
 Khi [Hobbit](../H/Hobbits.md) vẫn còn là những dân [lang thang](../W/Wandering_Days.md), đơn vị lịch của họ không phải là 'tuần' mà là 'tháng', ít nhiều bị chi phối bởi [Mặt Trăng](../M/Moon.md). Theo lịch cũ của họ, năm mới bắt đầu sau vụ thu hoạch. Điều này có thể được nhìn thấy trong tên của tháng [Winterfilth](../W/Winterfilth.md) có nghĩa là "lấp đầy (của năm) trước mùa đông". Tuy nhiên, thông qua tiếp xúc với các dân tộc ngoài hành tinh (có lẽ là [Dúnedain của Arnor](../D/Dúnedain_of_Arnor.md)), họ đã áp dụng khái niệm tuần.
 
-Lịch Bree rõ ràng là một [Hobbitish](../H/Hobbit.md) bản địa hóa của [Vua Tính toán](../K/King's_Reckoning.md) bằng cách sử dụng [tên tháng Mannish](../M/Mannish.md) và một số thay đổi nhỏ để phù hợp với phong tục của họ. Không biết Lịch được giới thiệu khi nào, nhưng <a class="new" href="https://tolkiengateway.net/w/index.php?title=Bree_Reckoning&amp;action=edit&amp;redlink=1" title="Bree Reckoning (page does not exist)">Bree Tính toán</a> bắt đầu vào lúc [T.A.](../T/Third_Age.md) [1300](../T/Third_Age_1300.md) (khi Hobbit đến [Bree](Bree.md)).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Lịch Bree rõ ràng là một [Hobbitish](../H/Hobbit.md) bản địa hóa của [Lịch Tính của Nhà Vua](../K/King's_Reckoning.md) bằng cách sử dụng [tên tháng Mannish](../M/Mannish.md) và một số thay đổi nhỏ để phù hợp với phong tục của họ. Không biết Lịch được giới thiệu khi nào, nhưng <a class="new" href="https://tolkiengateway.net/w/index.php?title=Bree_Reckoning&amp;action=edit&amp;redlink=1" title="Bree Reckoning (page does not exist)">Bree Tính toán</a> bắt đầu vào lúc [T.A.](../T/Third_Age.md) [1300](../T/Third_Age_1300.md) (khi Hobbit đến [Bree](Bree.md)).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 Lịch Bree tiếp nối lịch Shire trong một số cải cách, chẳng hạn như rút ngắn hai tháng trung gian và áp dụng [các ngày Lithedays](../L/Lithe.md). Lịch Bree cũng tuân theo cải cách của [Thain](../T/Thain.md) [Isengrim II](../I/Isengrim_Took_II.md), đưa [Ngày Giữa Năm](../M/Mid-year's_Day.md) ra ngoài việc tính các ngày trong tuần, do đó mỗi năm đều bắt đầu và kết thúc vào cùng một ngày trong tuần. <span></span>
 

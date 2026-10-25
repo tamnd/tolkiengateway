@@ -73,7 +73,7 @@ Các phiên bản được tải xuống hợp pháp của <i><b>Trong Tiên Lan
 
 ## Ngôn ngữ {#Languages}
 
-Các bài hát trong Phiên bản đầu tiên của *In Elven Lands* được viết bằng tiếng Anh hiện đại, [Anglo-Saxon](../A/Anglo-Saxon.md), và một loại [Neo-Elvish](../N/Neo-Elvish.md) bao gồm các phiên bản cố tình làm sai lệch của Proto-[Quenya](../Q/Quenya.md) (còn gọi là "Tiên-Latin") và [Noldorin](../N/Noldorin.md)/[Sindarin](../S/Sindarin.md).
+Các bài hát trong Ấn bản đầu tiên của *In Elven Lands* được viết bằng tiếng Anh hiện đại, [Anglo-Saxon](../A/Anglo-Saxon.md), và một loại [Neo-Elvish](../N/Neo-Elvish.md) bao gồm các phiên bản cố tình làm sai lệch của Proto-[Quenya](../Q/Quenya.md) (còn gọi là "Tiên-Latin") và [Noldorin](../N/Noldorin.md)/[Sindarin](../S/Sindarin.md).
 
 Phiên bản thứ hai cũng giới thiệu [Helge Kåre Fauskanger](../H/Helge_Kåre_Fauskanger.md) của [Neo-Quenya](../N/Neo-Elvish.md) trong bài hát *[Silmesse](../S/Silmesse.md)*. Với sự ra đi của nghệ sĩ khách mời Jon Anderson khỏi Phiên bản thứ hai, hai trong số các bài hát bằng tiếng Anh hiện đại đã bị xóa, chỉ còn lại ba bài hát bằng tiếng Anh hiện đại, thay vì tám bài bằng tiếng địa phương [Elvish](../E/Elvish.md).
 

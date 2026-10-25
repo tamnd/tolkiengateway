@@ -59,15 +59,15 @@ infobox:
 
 ## Lịch sử {#History}
 
-Ông là Vua của [Con Người của Dãy Núi](../O/Oathbreakers.md), và khi [Vương quốc lưu vong](../R/Realms_in_Exile.md) được thành lập, ông đã gặp [Isildur](../I/Isildur.md) tại [Erech](../E/Erech.md) và thay mặt cho người dân của mình tuyên thệ trung thành với [Gondor](../G/Gondor.md).
+Ông là Vua của [Con Người vùng Núi](../O/Oathbreakers.md), và khi [Vương quốc lưu vong](../R/Realms_in_Exile.md) được thành lập, ông đã gặp [Isildur](../I/Isildur.md) tại [Erech](../E/Erech.md) và thay mặt cho người dân của mình tuyên thệ trung thành với [Gondor](../G/Gondor.md).
 
-Rồi đến lúc lãnh chúa cũ của họ, [Sauron](../S/Sauron.md) trỗi dậy một lần nữa và Isildur triệu tập họ, nhưng Con Người của Dãy Núi không muốn quay lưng lại với Sauron vì họ tôn thờ ông trong [Những Năm Tháng Đen Tối](../D/Dark_Years.md). Isildur nguyền rủa họ vì đã không thực hiện lời thề, rằng sẽ không có Vua nào khác sau ông, và họ sẽ không bao giờ tìm thấy sự nghỉ ngơi cho đến khi có người khác gọi đến.
+Rồi đến lúc lãnh chúa cũ của họ, [Sauron](../S/Sauron.md) trỗi dậy một lần nữa và Isildur triệu tập họ, nhưng Con Người vùng Núi không muốn quay lưng lại với Sauron vì họ tôn thờ ông trong [Những Năm Tháng Đen Tối](../D/Dark_Years.md). Isildur nguyền rủa họ vì đã không thực hiện lời thề, rằng sẽ không có Vua nào khác sau ông, và họ sẽ không bao giờ tìm thấy sự nghỉ ngơi cho đến khi có người khác gọi đến.
 
-Dân tộc của ông ngày càng suy giảm và trong những thế kỷ tiếp theo, [bóng ma](../W/Wraiths.md) của **Vua Người Chết** là một tin đồn đáng sợ đối với [Con Người của Gondor](../G/Gondorians.md) ở phía nam Dãy Núi.
+Dân tộc của ông ngày càng suy giảm và trong những thế kỷ tiếp theo, [bóng ma](../W/Wraiths.md) của **Vua Người Chết** là một tin đồn đáng sợ đối với [Con Người Gondor](../G/Gondorians.md) ở phía nam Dãy Núi.
 
 Trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), [Aragorn](../A/Aragorn.md) đã đến [Con đường của người chết](../P/Paths_of_the_Dead.md) với tư cách là [Người thừa kế Isildur](../H/Heir_of_Isildur.md) và đề nghị cho họ một cách để chuộc lỗi. Trên đường tới Erech, mọi người vô cùng sợ hãi trước tin Vua của Thần Chết lại xuất hiện, những người phòng thủ cũng như kẻ thù đều bỏ chạy tán loạn.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Những người vi phạm lời thề đã đi theo [Đại đội Xám](../G/Grey_Company.md) đến [Pelargir](../P/Pelargir.md) nơi họ đã đánh đuổi kẻ thù. Hoàn thành lời thề, Vua của Người chết bẻ gãy và ném ngọn giáo của mình xuống, cúi chào [Aragorn](../A/Aragorn.md) rồi quay đi, khi Chủ thể Bóng Tối biến mất.<sup id="cite_ref-Last_Debate_1-1" class="reference"><a href="#cite_note-Last_Debate-1">[1]</a></sup>
+Những người vi phạm lời thề đã đi theo [Đội quân Xám](../G/Grey_Company.md) đến [Pelargir](../P/Pelargir.md) nơi họ đã đánh đuổi kẻ thù. Hoàn thành lời thề, Vua của Người chết bẻ gãy và ném ngọn giáo của mình xuống, cúi chào [Aragorn](../A/Aragorn.md) rồi quay đi, khi Chủ thể Bóng Tối biến mất.<sup id="cite_ref-Last_Debate_1-1" class="reference"><a href="#cite_note-Last_Debate-1">[1]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 

@@ -58,7 +58,7 @@ infobox:
 
 Arahael được nuôi dưỡng bởi [Elrond](../E/Elrond.md) ở [Rivendell](../R/Rivendell.md) (cũng như tất cả con cháu của ông) trong khi cha ông bảo vệ [Eriador](../E/Eriador.md) khỏi những tệ nạn của thế giới hoang dã với sự giúp đỡ của các [Ranger](../R/Rangers_of_the_North.md) khác.
 
-Triều đại của Arahael không có biến cố (theo như chúng tôi biết), do tính chất bí mật (và do đó hiện nay ít được biết đến) của [Dúnedain](../D/Dúnedain.md) và [Hòa bình thận trọng](../W/Watchful_Peace.md) có vào thời điểm đó. Có khả năng là Biệt động quân đã đánh những trận chiến nhỏ và giao tranh với [lũ Orc](../O/Orcs.md) để giữ an toàn cho khu vực.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup>
+Triều đại của Arahael không có biến cố (theo như chúng tôi biết), do tính chất bí mật (và do đó hiện nay ít được biết đến) của [Dúnedain](../D/Dúnedain.md) và [Thời kỳ Hòa bình Cảnh giác](../W/Watchful_Peace.md) có vào thời điểm đó. Có khả năng là Biệt động quân đã đánh những trận chiến nhỏ và giao tranh với [lũ Orc](../O/Orcs.md) để giữ an toàn cho khu vực.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup>
 
 Arahael mất năm 2177, thọ Thủ lĩnh được 65 năm, theo sau là con trai ông, [Aranuir](Aranuir.md).<sup id="cite_ref-North_3-1" class="reference"><a href="#cite_note-North-3">[2]</a></sup>
 

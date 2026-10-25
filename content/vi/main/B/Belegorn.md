@@ -61,7 +61,7 @@ infobox:
 
 Belegorn trở thành Quản gia cầm quyền thứ tư sau cái chết của cha mình, Quản gia [Herion](../H/Herion.md) ở [T.A.](../T/Third_Age.md) [2148](../T/Third_Age_2148.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
-Sự cai trị của Belegorn là khoảng thời gian yên tĩnh cho [Gondor](../G/Gondor.md) trong [Hòa bình thận trọng](../W/Watchful_Peace.md),<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> khi [Sauron](../S/Sauron.md) ở trong [phương Đông](../E/East.md) và [Nazgûl](../N/Nazgûl.md) giữ im lặng trong [Minas Morgul](../M/Minas_Morgul.md)<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>.
+Sự cai trị của Belegorn là khoảng thời gian yên tĩnh cho [Gondor](../G/Gondor.md) trong [Thời kỳ Hòa bình Cảnh giác](../W/Watchful_Peace.md),<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> khi [Sauron](../S/Sauron.md) ở trong [phương Đông](../E/East.md) và [Nazgûl](../N/Nazgûl.md) giữ im lặng trong [Minas Morgul](../M/Minas_Morgul.md)<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>.
 
 Belegorn cai trị với tư cách Quản gia trong 56 năm,<sup id="cite_ref-Belegorn_2-1" class="reference"><a href="#cite_note-Belegorn-2">[2]</a></sup> và được kế vị bởi con trai ông, [Húrin tôi](../H/Húrin_I.md).<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>.
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Army of the West"
 ---
 
-Chuyển hướng đến [Quân đội Phương Tây](Army_of_the_West.md).
+Chuyển hướng đến [Đội quân Phương Tây](Army_of_the_West.md).

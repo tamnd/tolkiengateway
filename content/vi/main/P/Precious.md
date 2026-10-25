@@ -31,7 +31,7 @@ images:
 
 ## Lịch sử {#History}
 
-Người Mang Nhẫn đầu tiên (ngoài [Sauron](../S/Sauron.md)) là người đầu tiên áp dụng thuật ngữ "quý giá" cho Nhẫn Chúa. Trong [T.A.](../T/Third_Age.md) [2](../T/Third_Age_2.md),<sup id="cite_ref-TA_1-0" class="reference"><a href="#cite_note-TA-1">[1]</a></sup> [Isildur](../I/Isildur.md), người đã lấy Chiếc nhẫn từ Sauron, đã viết một [cuộn giấy](../S/Scroll_of_Isildur.md) trong đó ông mô tả thứ mà ông tuyên bố là vật gia truyền của [Vương quốc phía Bắc](../A/Arnor.md). Cuối tài liệu ông viết:
+Người Mang Nhẫn đầu tiên (ngoài [Sauron](../S/Sauron.md)) là người đầu tiên áp dụng thuật ngữ "quý giá" cho Nhẫn Chúa. Trong [T.A.](../T/Third_Age.md) [2](../T/Third_Age_2.md),<sup id="cite_ref-TA_1-0" class="reference"><a href="#cite_note-TA-1">[1]</a></sup> [Isildur](../I/Isildur.md), người đã lấy Chiếc nhẫn từ Sauron, đã viết một [cuộn giấy](../S/Scroll_of_Isildur.md) trong đó ông mô tả thứ mà ông tuyên bố là vật gia truyền của [Vương quốc phương Bắc](../A/Arnor.md). Cuối tài liệu ông viết:
 
 <dl><dd><i>But for my part I will risk no hurt to this thing: of all the works of Sauron the only fair. It is precious to me, though I buy it with great pain.</i><sup id="cite_ref-Council_2-0" class="reference"><a href="#cite_note-Council-2">[2]</a></sup></dd></dl>
 

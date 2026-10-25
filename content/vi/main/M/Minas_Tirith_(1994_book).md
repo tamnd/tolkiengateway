@@ -51,7 +51,7 @@ Minas Tirith ghi lại lịch sử, thiết kế, cách bố trí, nơi đồn t
 Minas Tirith bao gồm:
 
 - CẶP BẢN ĐỒ ĐẦY MÀU - mỗi bản đồ mô tả một nửa Thành phố Vệ binh đáng kinh ngạc. Được nghệ sĩ chịu trách nhiệm về bản đồ địa hình đa dạng của Endor thể hiện một cách đẹp mắt.
-- VỊ TRÍ CHÍNH - Cổng Lớn nơi Gandalf ngăn chặn Chúa tể của Nazgûl, Nhà chữa bệnh nơi Éowyn và Merry phải chịu đựng Hơi Thở Đen, và Nơi của Đài phun nước trong Tòa án Tối cao nơi Nữ hoàng Arwen hát về Valinor.
+- VỊ TRÍ CHÍNH - Cổng Lớn nơi Gandalf ngăn chặn Chúa tể Nhẫn Ma, Nhà chữa bệnh nơi Éowyn và Merry phải chịu đựng Hơi Thở Đen, và Nơi của Đài phun nước trong Tòa án Tối cao nơi Nữ hoàng Arwen hát về Valinor.
 - PHẦN HOÀN TOÀN - Tarondor, gia đình ông và các vị Vua đã định hình nên thiết kế của Minas Tirith.
 - MẶT SÀN - mô tả chi tiết hơn bốn mươi tòa nhà nằm trong các bức tường thành phố: Keylodge, Great Bakery, Waterwrights' Hall, Rynd Permaith Iaur, v.v.
 - DENETHOR & NHỮNG NGƯỜI Thừa kế CỦA NGÀI - Người quản lý cầm quyền cuối cùng của Gondor và các con trai của ông, Boromir và Faramir.

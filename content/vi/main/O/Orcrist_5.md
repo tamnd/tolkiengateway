@@ -40,7 +40,7 @@ Bìa trước có hình minh họa "Mirkwood" của George D. Asdell và bìa sa
 
 ## Nội dung {#Contents}
 
-Cống hiến: Dành cho Duane và Peggy Jo Dobry: Shire-dân gian từ nền văn hóa khoa học
+Cống hiến: Dành cho Duane và Peggy Jo Dobry: Dân Shire từ nền văn hóa khoa học
 
 - "Lỗi ở Orcrist số 4" -- Người biên tập (tr. 2)
 - "Giới thiệu" (biên tập) (tr. 2)

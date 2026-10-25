@@ -80,7 +80,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Dior là Người quản lý cầm quyền cuối cùng trong thời kỳ [Hòa bình thận trọng](../W/Watchful_Peace.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Dior là Người quản lý cầm quyền cuối cùng trong thời kỳ [Thời kỳ Hòa bình Cảnh giác](../W/Watchful_Peace.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 Dior không có con, được kế vị bởi con trai của chị gái [Rían](<../R/Rían_(daughter_of_Steward_Barahir).md>) [Denethor tôi](Denethor_I.md).<sup id="cite_ref-Elendil_1-1" class="reference"><a href="#cite_note-Elendil-1">[1]</a></sup>
 

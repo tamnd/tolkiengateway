@@ -98,7 +98,7 @@ Sau đó, người dân Ulfast và Ulwar đã đàn áp dã man những người
 
 Trong phụ lục *[The Lost Road and Other Writings](../T/The_Lost_Road_and_Other_Writings.md)* trong <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Genealogies&amp;action=edit&amp;redlink=1" title="The Genealogies (page does not exist)">Gia phả</a></i> (có niên đại từ đầu [1930s](../_/1930.md)) có ghi rằng Ulwar sinh năm 130.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[9]</a></sup>
 
-Khi so sánh ngày tháng trên với văn bản liên quan *[The Earliest Annals of Beleriand](../T/The_Earliest_Annals_of_Beleriand.md)*, Ulwar được sinh ra 33 năm trước khi [Swarthy Con Người](../S/Swarthy_Men.md) nhập vào Beleriand vào năm 163.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[10]</a></sup>
+Khi so sánh ngày tháng trên với văn bản liên quan *[The Earliest Annals of Beleriand](../T/The_Earliest_Annals_of_Beleriand.md)*, Ulwar được sinh ra 33 năm trước khi [Con Người Da Sẫm](../S/Swarthy_Men.md) nhập vào Beleriand vào năm 163.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[10]</a></sup>
 
 Ngoài ra, những ngày tháng được tìm thấy trong *The Earliest Annals of Beleriand* nhìn chung đã chuyển về tương lai 300 năm sau vào *[The Grey Annals](../T/The_Grey_Annals.md)* (khoảng đầu [1950](../_/1950.md)), chẳng hạn như một sự kiện xảy ra vào năm 195 ở *The Earliest Annals* hiện đã xảy ra vào năm [495](../F/First_Age_495.md).<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[11]</a></sup>
 

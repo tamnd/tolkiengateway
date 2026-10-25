@@ -105,7 +105,7 @@ Vì *The Two Towers* là phần trung tâm của một tác phẩm dài hơn nê
 - **III · [ Uruk-hai](The_Uruk-hai.md)** — Chương này bắt đầu ngược thời gian xa hơn, kể về câu chuyện Merry và Pippin bị bắt bởi lũ Orc, được lãnh đạo bởi [Uglúk](../U/Uglúk.md) từ quân đội của Saruman và [Grishnákh](../G/Grishnákh.md) từ Mordor. Hai bên tộc Orc không ngừng tranh cãi. Trại của lũ Orc gần Fangorn, và Grishnakh cố gắng đưa những người hobbit đi cùng ông. Những người hobbit trốn thoát khi Grishnákh bị giết bởi một mũi tên. Họ chạy trốn vào Rừng Fangorn khi lũ Orc bị tấn công bởi những người của Rohan.
 - **IV · [Treebeard](<Treebeard_(chapter).md>)** — Merry và Pippin gặp Treebeard Ent, người gọi Entmoot, một cuộc tụ tập Ent ở Derndingle. Các hobbit gặp một ent khác, [Quickbeam](../Q/Quickbeam.md). Những con kiến ​​quyết định tại cuộc họp sau ba ngày, sẽ tấn công Isengard.
 - **V · [Kỵ Sĩ Trắng](The_White_Rider.md)** — Chương quay lại câu chuyện của Aragorn, Legolas và Gimli, những người phát hiện ra dấu hiệu cho thấy người Hobbit đã trốn thoát khỏi lũ Orc vào rừng. Họ gặp một ông già, lúc đầu họ tưởng là Saruman, nhưng hóa ra lại là Gandalf. Họ khởi hành đi Edoras.
-- **VI · [ Vua của Sảnh Vàng](The_King_of_the_Golden_Hall.md)** — Bốn người họ đến Edoras và nói chuyện với Vua Théoden. Wormtongue bị đuổi ra khỏi thành phố. Théoden tặng Gandalf con ngựa [Shadowfax](../S/Shadowfax.md).
+- **VI · [ Vua của Đại Sảnh Vàng](The_King_of_the_Golden_Hall.md)** — Bốn người họ đến Edoras và nói chuyện với Vua Théoden. Wormtongue bị đuổi ra khỏi thành phố. Théoden tặng Gandalf con ngựa [Shadowfax](../S/Shadowfax.md).
 - **VII · [Helm's Deep](<../H/Helm's_Deep_(chapter).md>)** — Aragorn, Legolas và Gimli đang ở Helm's Deep cùng với quân Rohan, bảo vệ người dân Rohan khỏi sự tấn công của quân Saruman.
 - **VIII · [Con đường đến Isengard](The_Road_to_Isengard.md)** — Họ du hành đến Isengard và thấy rằng nó đã bị phá hủy. Tại Isengard họ tìm thấy Merry và Pippin.
 - **IX · [Flotsam và Jetsam](../F/Flotsam_and_Jetsam.md)** — Merry và Pippin kể câu chuyện về cách loài ent tấn công Isengard, giữa đống đổ nát hoặc 'flotsam và jetsam' của thành phố.
@@ -125,7 +125,7 @@ Frodo và Sam phát hiện ra [Gollum](../G/Gollum.md) đang theo dõi họ khi 
 - **V · [Cửa sổ trên Phương Tây](The_Window_on_the_West.md)** — Frodo và Sam bị người của Faramir bắt và họ bị bịt mắt trên đường đến [Henneth Annûn](../H/Henneth_Annûn.md). Frodo kể cho Faramir về việc anh trai Boromir tham gia Hiệp hội.
 - **VI · [Hồ Cấm](The_Forbidden_Pool.md)** — Faramir cho thấy Frodo họ đã tìm thấy Gollum tại Hồ Cấm. Frodo cứu ông khỏi bị người của Faramir bắn.
 - **VII · [Hành trình đến những ngã tư](../J/Journey_to_the_Cross-Roads.md)** — Frodo, Sam và Gollum rời đi Faramir. Họ đi đến ngã tư đường phía Đông giữa [Osgiliath](../O/Osgiliath.md) và [Minas Morgul](../M/Minas_Morgul.md), và đường Bắc Nam từ Cổng Đen đến phía Nam.
-- **VIII · [Cầu thang Cirith Ungol](The_Stairs_of_Cirith_Ungol.md)** — Họ chứng kiến ​​một đội quân rời đi Minas Morgul.
+- **VIII · [Bậc thang Cirith Ungol](The_Stairs_of_Cirith_Ungol.md)** — Họ chứng kiến ​​một đội quân rời đi Minas Morgul.
 - **IX · [Hang ổ của Shelob](<../S/Shelob's_Lair_(chapter).md>)** — chạm trán với nhện Shelob.
 - **X · [Sự lựa chọn của Master Samwise](The_Choices_of_Master_Samwise.md)** — Frodo do lũ Orc thực hiện. Sam lắng nghe lũ Orc nói về mình, đó là cách ông phát hiện ra rằng mình vẫn còn sống, vì nghĩ rằng Frodo đã bị Shelob giết.
 

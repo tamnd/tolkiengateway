@@ -37,7 +37,7 @@ infobox:
 
 ## Khóa học {#Course}
 
-Sông Greylin dâng lên ở phía tây [Dãy Núi Xám](Grey_Mountains.md) và chảy theo hướng tây nam để gặp [Langwell](../L/Langwell.md) và chúng cùng nhau tạo thành nguồn của Sông Lớn, [Anduin](../A/Anduin.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Sông Greylin dâng lên ở phía tây [Dãy Núi Xám](Grey_Mountains.md) và chảy theo hướng tây nam để gặp [Langwell](../L/Langwell.md) và chúng cùng nhau tạo thành nguồn của Đại Hà, [Anduin](../A/Anduin.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Lịch sử {#History}
 

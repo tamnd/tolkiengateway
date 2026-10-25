@@ -33,7 +33,7 @@ images:
 - [Galathilion](../G/Galathilion.md), Cây Trắng của [Tirion](../T/Tirion.md).
 - [Celeborn](<../C/Celeborn_(White_Tree).md>), Cây Trắng của [Tol Eressëa](../T/Tol_Eressëa.md).
 - [Nimloth](../N/Nimloth_of_Númenor.md), Cây Trắng của [Númenor](../N/Númenor.md).
-- ** [Cây Trắng của Gondor](White_Tree_of_Gondor.md), bốn cây con khác nhau.**
+- ** [Cây Trắng Gondor](White_Tree_of_Gondor.md), bốn cây con khác nhau.**
 
 - Nó cũng có thể đề cập đến [Quỹ Cây Trắng](../T/The_White_Tree_Fund.md), một tổ chức từ thiện.
 

@@ -41,7 +41,7 @@ infobox:
 
 ## Văn bản bìa/áo khoác {#Cover/Jacket_Text}
 
-Lẻn qua biên giới của Angmar và khám phá vùng đất lạnh lẽo, ảm đạm, nơi lượng mưa thấm xuống các vết nứt và rãnh bị xói mòn đến các hang động và hang động ngoằn ngoèo bên dưới. Orc rình mò mạng lưới dưới lòng đất này, trong khi nô lệ làm việc cật lực để thu hoạch từ vùng đất cằn cỗi bên trên. Những con crebain đi vòng quanh mang theo lời bất tuân hoặc nổi loạn với chủ nhân của chúng đang đăng quang ở Carn Dûm, Vua Phù thủy của Angmar.
+Lẻn qua biên giới của Angmar và khám phá vùng đất lạnh lẽo, ảm đạm, nơi lượng mưa thấm xuống các vết nứt và rãnh bị xói mòn đến các hang động và hang động ngoằn ngoèo bên dưới. Orc rình mò mạng lưới dưới lòng đất này, trong khi nô lệ làm việc cật lực để thu hoạch từ vùng đất cằn cỗi bên trên. Những con crebain đi vòng quanh mang theo lời bất tuân hoặc nổi loạn với chủ nhân của chúng đang đăng quang ở Carn Dûm, Vua Phù thủy Angmar.
 
 Các Linh mục Chiến binh mặc áo choàng đen đi lang thang trong vương quốc nằm giữa Dãy Núi Sương Mù. Họ tìm kiếm các học trò trong người dân thị trấn, gieo rắc nỗi sợ hãi vào lòng người nông dân và thực thi ý chí của Nazgûl trong binh lính. Những pháo đài ẩn náu là nơi chứa quân đội của Con Người xuất hiện để đe dọa Dúnedain phương Bắc. Rồng, Troll, ad Những con quái vật Fell ẩn nấp trong bóng tối và vực sâu nham hiểm của những vách đá cao chót vót.
 

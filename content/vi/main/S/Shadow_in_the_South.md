@@ -45,11 +45,11 @@ infobox:
 
 Bước vào những vương quốc bí ẩn phía tây nam Trung Địa, vùng đất có những di sản đen tối của Morgoth và Sauron, những sáng tạo duyên dáng của người Avar Tiên tộc và niềm đam mê rực lửa của Con Người của Westernesse. Tại đây, giữa Đại Hải và những ngọn tháp vàng của [Dãy núi Vàng](../Y/Yellow_Mountains.md), những người Númenórian đi biển hùng mạnh và những người kế vị không ngừng nghỉ của họ đã chiến đấu với Haradrim man rợ. Giữa cuộc đấu tranh không ngừng nghỉ này, người Sedari và Drel hoang dã lao động để tồn tại và duy trì nền văn hóa đặc biệt của họ. Những bộ lạc này không thể chạy khỏi Bóng Tối ở phía Nam, vì họ cư trú ngoài Far Harad - ở rìa của Trung Địa.
 
-Là nơi định cư lâu đời nhưng đầy rẫy những bờ biển hoang sơ, rừng cây sẫm màu và những ngọn núi gồ ghề, vùng Tây Nam Trung Địa thường được gọi là [Lãnh thổ thống trị của Bảy](../D/Dominions_of_the_Seven.md). Đó là nơi của sự giàu có và kỳ quan, của các chế độ đầu sỏ độc lập khốc liệt bị thách thức bởi sức mạnh của Cơn bão Vua và nỗi kinh hoàng do Chúa tể những chiếc nhẫn gây ra.
+Là nơi định cư lâu đời nhưng đầy rẫy những bờ biển hoang sơ, rừng cây sẫm màu và những ngọn núi gồ ghề, vùng Tây Nam Trung Địa thường được gọi là [Lãnh thổ thống trị của Bảy](../D/Dominions_of_the_Seven.md). Đó là nơi của sự giàu có và kỳ quan, của các chế độ đầu sỏ độc lập khốc liệt bị thách thức bởi sức mạnh của Cơn Vua Bão tố và nỗi kinh hoàng do Chúa tể những chiếc nhẫn gây ra.
 
 BÓNG Ở PHÍA NAM bao gồm:
 
 - 4 TRANG ĐẦY MÀU bao gồm khu vực và ba thành phố lớn: Ostelor, Arpel và Ró-molló
 - BỐ CỤC CHÍNH: bản đồ và góc nhìn chi tiết về các thị trấn chính và địa điểm phiêu lưu
 - THÔNG TIN CHI TIẾT về con người, địa điểm, sinh vật, kho báu, chính trị và ma thú được tìm thấy ở Tây Nam Trung Địa
-- THỐNG KÊ VÀ THÔNG TIN CƠ BẢN về những nhân vật quan trọng như Bão Vua, Ma Nhẫn xấu xa chỉ huy Sauron Quân đội miền Nam đáng ghét Rồng
+- THỐNG KÊ VÀ THÔNG TIN CƠ BẢN về những nhân vật quan trọng như Vua Bão tố, Ma Nhẫn xấu xa chỉ huy Sauron Quân đội miền Nam đáng ghét Rồng

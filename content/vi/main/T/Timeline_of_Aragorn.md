@@ -114,7 +114,7 @@ Mẹ - Aragorn [Gilraen](../G/Gilraen.md) đưa cậu đến [Rivendell](../R/Ri
 - [10 tháng 3](../_/10_March.md): Aragorn, dẫn đầu Dead Con Người và Grey Company, băng qua sông [Ringló](../R/Ringló.md).<sup id="cite_ref-GY_3-28" class="reference"><a href="#cite_note-GY-3">[3]</a></sup>
 - [11 tháng 3](../_/11_March.md): Aragorn đến [Linhir](../L/Linhir.md) và đi vào [Lebennin](../L/Lebennin.md).<sup id="cite_ref-GY_3-29" class="reference"><a href="#cite_note-GY-3">[3]</a></sup>
 - [12 tháng 3](../_/12_March.md): Aragorn đẩy địch về phía Pelargir.<sup id="cite_ref-GY_3-30" class="reference"><a href="#cite_note-GY-3">[3]</a></sup>
-- [13 tháng 3](../_/13_March.md): Đại đội Xám tiếp cận [Pelargir](../P/Pelargir.md) cùng đội quân của Người chết và họ bắt giữ hạm đội của Corsairs.<sup id="cite_ref-GY_3-31" class="reference"><a href="#cite_note-GY-3">[3]</a></sup>
+- [13 tháng 3](../_/13_March.md): Đội quân Xám tiếp cận [Pelargir](../P/Pelargir.md) cùng đội quân của Người chết và họ bắt giữ hạm đội của Corsairs.<sup id="cite_ref-GY_3-31" class="reference"><a href="#cite_note-GY-3">[3]</a></sup>
 - [14 tháng 3](../_/14_March.md): Aragorn đi về hướng Minas Tirith.<sup id="cite_ref-GY_3-32" class="reference"><a href="#cite_note-GY-3">[3]</a></sup>
 - [15 tháng 3](../_/15_March.md): Aragorn đi về phía bắc và đến [Trận chiến trên Cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md). Sau trận chiến, ông hồi máu cho [Faramir](../F/Faramir.md), Éowyn và Merry.<sup id="cite_ref-GY_3-33" class="reference"><a href="#cite_note-GY-3">[3]</a></sup>
 - [16 tháng 3](../_/16_March.md): Đội trưởng của Phương Tây quyết định hành quân đến Cổng Đen.<sup id="cite_ref-GY_3-34" class="reference"><a href="#cite_note-GY-3">[3]</a></sup>

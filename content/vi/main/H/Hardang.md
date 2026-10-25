@@ -58,7 +58,7 @@ infobox:
 
 Ông là hậu duệ của [Halmir](Halmir.md) của [Nhà Haleth](House_of_Haleth.md), và là con trai của [Hundad](Hundad.md) con trai của [Hundar](Hundar.md).<sup id="cite_ref-Hardang_1-1" class="reference"><a href="#cite_note-Hardang-1">[1]</a></sup> Sau cái chết của Thủ lĩnh của Brethil, [Handir](Handir.md), Hardang đã cố gắng để người anh họ của mình, [Brandir](../B/Brandir.md) tước bỏ ngai vàng để ủng hộ mình. Nhiều người tin rằng Brandir không thích hợp để cai trị và ủng hộ Hardang.
 
-Sau cái chết của Brandir, một Thủ lĩnh mới phải được bầu. Vì Brandir không có con nên [Con Người của Brethil](../M/Men_of_Brethil.md) mong muốn em họ của mình [Manthor](../M/Manthor.md) nối nghiệp, tuy nhiên họ có mối quan hệ bởi một cô con gái, và do đó Hardang đã thắng cử. Hardang thăng chức cho Manthor trở thành Đội trưởng Đội cận vệ tại [Đi qua Taeglin](../C/Crossings_of_Taeglin.md).
+Sau cái chết của Brandir, một Thủ lĩnh mới phải được bầu. Vì Brandir không có con nên [Con Người vùng Brethil](../M/Men_of_Brethil.md) mong muốn em họ của mình [Manthor](../M/Manthor.md) nối nghiệp, tuy nhiên họ có mối quan hệ bởi một cô con gái, và do đó Hardang đã thắng cử. Hardang thăng chức cho Manthor trở thành Đội trưởng Đội cận vệ tại [Đi qua Taeglin](../C/Crossings_of_Taeglin.md).
 
 Trong vòng hai năm kể từ khi Hardang nắm quyền, tin đồn về sự trở lại của [Húrin Thalion](Húrin.md) bắt đầu lan rộng. Hardang không thích [Nhà Hador](House_of_Hador.md) vì ông không có quan hệ huyết thống, và khi Húrin trở về, tại [Triển lãm dân gian](../F/Folkmoot_for_Judgement.md), Manthor đã bảo vệ Húrin chống lại Hardang.
 

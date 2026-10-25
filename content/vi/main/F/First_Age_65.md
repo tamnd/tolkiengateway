@@ -20,7 +20,7 @@ sort_keys:
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- Các [Nơi trú ẩn của Falas](../H/Havens_of_the_Falas.md), [Brithombar](../B/Brithombar.md) và [Eglarest](../E/Eglarest.md), được xây dựng mới với sự hỗ trợ của [Noldor](../N/Noldor.md). [Barad Nimras](../B/Barad_Nimras.md) được thiết kế để canh phòng trên biển.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- Các [Cảng Falas](../H/Havens_of_the_Falas.md), [Brithombar](../B/Brithombar.md) và [Eglarest](../E/Eglarest.md), được xây dựng mới với sự hỗ trợ của [Noldor](../N/Noldor.md). [Barad Nimras](../B/Barad_Nimras.md) được thiết kế để canh phòng trên biển.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

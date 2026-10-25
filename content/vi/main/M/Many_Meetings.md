@@ -64,7 +64,7 @@ Frodo nói rằng họ sẽ không thể làm được điều đó nếu không
 <p class="tg-quote-footer"><cite><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-Gandalf tiếp tục giải thích rằng <a class="mw-redirect mw-disambig" href="../R/Rangers.md" title="Rangers">Rangers</a> là tàn dư cuối cùng của [Con Người của Phương Tây](Men_of_the_West.md) ở phía bắc Trung Địa và đã từng giúp đỡ Gandalf trước đó. Anh hy vọng họ sẽ giúp đỡ lần nữa trong tương lai, vì cuộc hành trình của Chiếc nhẫn vẫn chưa kết thúc. Frodo hy vọng ông sẽ không phải mang nó đi xa hơn nữa.
+Gandalf tiếp tục giải thích rằng <a class="mw-redirect mw-disambig" href="../R/Rangers.md" title="Rangers">Rangers</a> là tàn dư cuối cùng của [Con Người Phương Tây](Men_of_the_West.md) ở phía bắc Trung Địa và đã từng giúp đỡ Gandalf trước đó. Anh hy vọng họ sẽ giúp đỡ lần nữa trong tương lai, vì cuộc hành trình của Chiếc nhẫn vẫn chưa kết thúc. Frodo hy vọng ông sẽ không phải mang nó đi xa hơn nữa.
 
 Frodo phát hiện vết thương ở vai không còn đau nữa, tay đã cử động được một chút. Gandalf giải thích rằng Elrond đã có xu hướng Frodo trong nhiều ngày và chỉ gỡ được mảnh vụn của [Con dao Morgul](Morgul-knife.md) khỏi vai ông vào đêm hôm trước. Ông nói rằng nếu mảnh vỡ không được gỡ bỏ, Frodo sẽ tự mình trở thành một hồn ma, dưới sự chỉ huy của Chúa tể Bóng tối. Anh ngạc nhiên trước khí phách và lòng dũng cảm của [Hobbit](../H/Hobbits.md), người đã mang mảnh vỡ suốt 17 ngày mà không khuất phục.
 

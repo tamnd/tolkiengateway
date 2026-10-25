@@ -94,9 +94,9 @@ The Hobbit phần giới thiệu bắt đầu tại một con đường lúc ch�
 
 Người chơi cùng với hai Hobbit đã trốn thoát khỏi nhà tù brigand với sự trợ giúp của Ranger [Strider](../S/Strider.md) và người bạn [Amdir](<../A/Amdir_(Shadows_of_Angmar).md>) của ông. Trong quá trình trốn thoát, Amdir bị một trong những Kỵ sĩ Đen đâm. Ông trông rất xanh xao và Strider lo lắng cho ông. Strider muốn tìm ông để giúp đỡ và cảnh báo người dân Archet rằng Blackwolds có ý định đột kích thị trấn. Ông cũng đề cập rằng ông cần tìm một Mister Baggins trước khi Kỵ sĩ Đen làm điều đó.
 
-Người chơi tìm kiếm Thuyền trưởng Brackenbrook và cảnh báo ông về mối đe dọa Blackwold. Tuy nhiên, ông không tin tưởng Rangers mà bạn đang ở cùng và không tin người chơi. Người chơi cố gắng cảnh báo những công dân khác, nhưng không ai tin rằng một cuộc tấn công sắp xảy ra. Strider được thông báo rằng người chơi không thể thuyết phục bất cứ ai rằng họ đang gặp nguy hiểm. Strider yêu cầu người chơi trau dồi kỹ năng để chuẩn bị cho trận chiến.
+Người chơi tìm kiếm Đại úy Brackenbrook và cảnh báo ông về mối đe dọa Blackwold. Tuy nhiên, ông không tin tưởng Rangers mà bạn đang ở cùng và không tin người chơi. Người chơi cố gắng cảnh báo những công dân khác, nhưng không ai tin rằng một cuộc tấn công sắp xảy ra. Strider được thông báo rằng người chơi không thể thuyết phục bất cứ ai rằng họ đang gặp nguy hiểm. Strider yêu cầu người chơi trau dồi kỹ năng để chuẩn bị cho trận chiến.
 
-Sau khi người chơi tập luyện xong, Strider yêu cầu người chơi tìm một số [lá vua](../K/Kingsfoil.md) để chữa vết thương cho Amdir. Ông cũng đề nghị hỗ trợ Thuyền trưởng Brackenbrook để giành được sự ưu ái của ông. Đội trưởng sẽ thông báo cho người chơi nơi một số Lá Kings mọc lên. Ông cũng chấp nhận sự giúp đỡ của bạn, bảo bạn hãy giúp đỡ Calder Cob, người đang gặp vấn đề với bầy sói trong trang trại của ông.
+Sau khi người chơi tập luyện xong, Strider yêu cầu người chơi tìm một số [lá vua](../K/Kingsfoil.md) để chữa vết thương cho Amdir. Ông cũng đề nghị hỗ trợ Đại úy Brackenbrook để giành được sự ưu ái của ông. Đội trưởng sẽ thông báo cho người chơi nơi một số Lá Kings mọc lên. Ông cũng chấp nhận sự giúp đỡ của bạn, bảo bạn hãy giúp đỡ Calder Cob, người đang gặp vấn đề với bầy sói trong trang trại của ông.
 
 #### Người Lùn và Tiên {#Dwarf_and_Elf}
 
@@ -112,7 +112,7 @@ Trong phần giới thiệu Cao Tiên, người chơi tham gia [Cuộc chiến c
 
 #### Rìu mập mạp {#Stout-axe}
 
-Khi bắt đầu phần giới thiệu Stout-axe, người chơi là nô lệ [Sauron](../S/Sauron.md). Cuối cùng, người chơi có thể chạy trốn trong một cuộc nổi dậy và tìm nơi ẩn náu giữa Dourhands. Tuy nhiên, sức mạnh của [Skorgrím Dourhand](../S/Skorgrím_Dourhand.md) vừa trỗi dậy và người chơi cùng Dourhand đơn độc tên là Nagli là những người duy nhất từ ​​chối lời kêu gọi của ông. Họ kết thúc tại Sảnh của Thorin để tiếp tục phần mở đầu Người Lùn thông thường.
+Khi bắt đầu phần giới thiệu Stout-axe, người chơi là nô lệ [Sauron](../S/Sauron.md). Cuối cùng, người chơi có thể chạy trốn trong một cuộc nổi dậy và tìm nơi ẩn náu giữa Dourhands. Tuy nhiên, sức mạnh của [Skorgrím Dourhand](../S/Skorgrím_Dourhand.md) vừa trỗi dậy và người chơi cùng Dourhand đơn độc tên là Nagli là những người duy nhất từ ​​chối lời kêu gọi của ông. Họ kết thúc tại Đại Sảnh của Thorin để tiếp tục phần mở đầu Người Lùn thông thường.
 
 #### Sáng sớm {#Beorning}
 

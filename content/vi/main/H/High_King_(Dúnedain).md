@@ -30,13 +30,13 @@ Trong thư của [Gil-galad](../G/Gil-galad's_letter.md), [Tar-Meneldur](../T/Ta
 
 ## Cõi lưu vong {#Realms_in_Exile}
 
-Tuy nhiên, việc sử dụng danh hiệu này phổ biến hơn xuất hiện sau [Kỷ Đệ Nhị](../S/Second_Age.md), với việc thành lập [Các vương quốc lưu vong](../R/Realms_in_Exile.md) ở [Trung Địa](../M/Middle-earth.md). Trong những năm đầu tiên, Hai Vương quốc [Arnor](../A/Arnor.md) và [Gondor](../G/Gondor.md) được hình thành dưới sự cai trị tối thượng của một người, [Elendil](../E/Elendil.md), người cư trú tại [Annúminas](../A/Annúminas.md) với tư cách là Đại Vương. Vương quốc phía Nam Gondor được các con trai của ông cùng cai trị nhưng chỉ dưới quyền bá chủ của ông.
+Tuy nhiên, việc sử dụng danh hiệu này phổ biến hơn xuất hiện sau [Kỷ Đệ Nhị](../S/Second_Age.md), với việc thành lập [Các vương quốc lưu vong](../R/Realms_in_Exile.md) ở [Trung Địa](../M/Middle-earth.md). Trong những năm đầu tiên, Hai Vương quốc [Arnor](../A/Arnor.md) và [Gondor](../G/Gondor.md) được hình thành dưới sự cai trị tối thượng của một người, [Elendil](../E/Elendil.md), người cư trú tại [Annúminas](../A/Annúminas.md) với tư cách là Đại Vương. Vương quốc phương Nam Gondor được các con trai của ông cùng cai trị nhưng chỉ dưới quyền bá chủ của ông.
 
 Với cái chết của Elendil trước Sauron trong [Cuộc vây hãm Barad-dûr](../S/Siege_of_Barad-dûr.md), con trai lớn của ông [Isildur](../I/Isildur.md) đã kế thừa Vương quyền tối cao. Tuy nhiên, Isildur chỉ cai trị được hai năm, trước khi ông bị lạc vào [Thảm họa Cánh đồng Gladden](../D/Disaster_of_the_Gladden_Fields.md) trước khi ông thực sự có thể nắm quyền cai trị vương quốc song sinh của mình.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup>
 
 ### Từ chối {#Decline}
 
-Sau cái chết của Isildur, các sự kiện lịch sử đã âm mưu chia cắt Hai Vương quốc, mỗi vương quốc đều có các vị vua của riêng mình. Về nguyên tắc, Vương quyền tối cao lẽ ra đã rơi vào [Người thừa kế Isildur](Heir_of_Isildur.md) [Valandil](<../V/Valandil_(King_of_Arnor).md>), nhưng trên thực tế Valandil chỉ trở thành Vua của Arnor và không có quyền lực đối với vương quốc phía Nam.
+Sau cái chết của Isildur, các sự kiện lịch sử đã âm mưu chia cắt Hai Vương quốc, mỗi vương quốc đều có các vị vua của riêng mình. Về nguyên tắc, Vương quyền tối cao lẽ ra đã rơi vào [Người thừa kế Isildur](Heir_of_Isildur.md) [Valandil](<../V/Valandil_(King_of_Arnor).md>), nhưng trên thực tế Valandil chỉ trở thành Vua của Arnor và không có quyền lực đối với Vương quốc phương Nam.
 
 Vào giữa[Kỷ Đệ Tam](../T/Third_Age.md), Gondor không có vua; [Arvedui](../A/Arvedui.md), với tư cách là người thừa kế của Isildur, đã cố gắng viện dẫn [Luật kế vị trong Númenor](../L/Law_of_Succession_in_Númenor.md) để giành lấy ngai vàng của Gondor, do đó trở thành Đại Vương; [Hội đồng Gondor](../C/Council_of_Gondor.md) đã bỏ phiếu chống lại yêu sách của ông.<sup id="cite_ref-gondor_4-0" class="reference"><a href="#cite_note-gondor-4">[3]</a></sup> Ngay sau đó, cả hai vương quốc sẽ mất vương quyền.
 

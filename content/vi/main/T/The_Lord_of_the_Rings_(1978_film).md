@@ -459,7 +459,7 @@ Phim có một số sai lệch so với truyện nhưng nhìn chung vẫn bám s
 - Bill the Pony bị giết bởi [Người canh gác dưới nước](../W/Watcher_in_the_Water.md).
 - [thủ lĩnh orc](../O/Orc-chieftain.md) không đi cùng với một nhóm Orc, thay vào đó tấn công một mình.
 - Các [Quà tặng của Galadriel](../G/Gifts_of_Galadriel.md) bị bỏ qua.
-- Thuật ngữ Uruk-hai không được sử dụng, mặc dù sự cạnh tranh giữa Orc của Mordor và Isengard vẫn còn.
+- Thuật ngữ Uruk-hai không được sử dụng, mặc dù sự cạnh tranh giữa Orc Mordor và Isengard vẫn còn.
 - [Éowyn](../_/Éowyn.md) chỉ xuất hiện ngắn gọn và không có lời thoại.
 - Mặc dù [Éomer](../_/Éomer.md) được nhắc đến nhưng ông chưa bao giờ được xác định chính thức (do đó, ông cũng không có lời thoại). Ngoài ra, giống như trong các bộ phim của Jackson, *he* và lực lượng của ông là những người mà Gandalf đến gần cuối Trận chiến Helm's Deep thay vì của [Erkenbrand](../E/Erkenbrand.md).
 - [Faramir](../F/Faramir.md) không xuất hiện và ông cũng không được nhắc đến.

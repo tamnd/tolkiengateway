@@ -37,7 +37,7 @@ images:
 - <i><b><a href="Dark.md" title="Dark">Tối</a></b></i>, một bài thơ của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 - <i><b><a href="Dark_Are_the_Clouds_about_the_North.md" title="Dark Are the Clouds about the North">Miền Bắc đen tối</a></b></i>, một bài thơ của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 - <b><a class="new" href="https://tolkiengateway.net/w/index.php?title=Huorn-dark&amp;action=edit&amp;redlink=1" title="Huorn-dark (page does not exist)">Huorn-dark</a></b>, bóng tối bao trùm của [Huorn](../H/Huorns.md).
-- **[Con Người của Bóng Tối](../M/Men_of_Darkness.md)**, là [Con Người](../M/Men.md) ở phía đông Trung Địa đã rơi vào vòng ác quỷ.
+- **[Con Người Bóng Tối](../M/Men_of_Darkness.md)**, là [Con Người](../M/Men.md) ở phía đông Trung Địa đã rơi vào vòng ác quỷ.
 - **[Nether Bóng Tối](../N/Nether_Darkness.md)**, một địa điểm ở cực nam của [Arda](../A/Arda.md).
 - "**[Từ bóng tối Dunharrow trong ánh sáng mờ mờ](../F/From_dark_Dunharrow_in_the_dim_morning.md)**", dòng đầu tiên trong một bài thơ của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 - **[Tối dần của Valinor](Darkening_of_Valinor.md)**, cái chết của [Hai Cây của Valinor](../T/Two_Trees_of_Valinor.md).

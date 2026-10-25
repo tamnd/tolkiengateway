@@ -68,7 +68,7 @@ Húrin cai trị [Gondor](../G/Gondor.md) với tư cách là Người quản l�
 
 ## Từ nguyên {#Etymology}
 
-Để biết ý nghĩa tên của ông, hãy tham khảo [Húrin của Emyn Arnen - Từ nguyên](Húrin_of_Emyn_Arnen.md#Etymology). Húrin II có lẽ được đặt theo tên người anh hùng của [Kỷ Đệ Nhất](../F/First_Age.md) [Húrin Thalion](Húrin.md), [Chúa tể của Dor-lómin](../L/Lord_of_Dor-lómin.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Để biết ý nghĩa tên của ông, hãy tham khảo [Húrin của Emyn Arnen - Từ nguyên](Húrin_of_Emyn_Arnen.md#Etymology). Húrin II có lẽ được đặt theo tên người anh hùng của [Kỷ Đệ Nhất](../F/First_Age.md) [Húrin Thalion](Húrin.md), [Chúa tể Dor-lómin](../L/Lord_of_Dor-lómin.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Phả hệ {#Genealogy}
 

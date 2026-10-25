@@ -92,7 +92,7 @@ Theo truyền thuyết, gia tộc do [Tata](../T/Tata.md), Tiên thứ hai tỉn
 
 ## Lịch sử {#History}
 
-### Ngày của người cao tuổi {#Elder_Days}
+### Thời Cổ xưa {#Elder_Days}
 
 #### Trong Valinor {#In_Valinor}
 
@@ -130,7 +130,7 @@ Triều đại của Fingolfin gắn liền với cuộc chiến chống Morgoth
 
 ##### Chết đi {#Demise}
 
-Trong [F.A.](../F/First_Age.md) [472](../F/First_Age_472.md),<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup> Maedhros [tổ chức](../U/Union_of_Maedhros.md) một cuộc tấn công vào Morgoth và điều này dẫn đến [Nirnaeth Arnoediad](Nirnaeth_Arnoediad.md), Trận chiến của những giọt nước mắt không đếm được. Bị phản bội bởi những [Easterlings](../E/Easterlings.md) mới đến, lực lượng của Noldor, Sindar và Edain đã bị đánh bại hoàn toàn. Fingon Dũng Sĩ đã bị giết; ông đã được kế vị bởi anh trai mình [Turgon](../T/Turgon.md) với tư cách là [Đại Vương thứ ba của Noldor](../H/High_King_of_the_Noldor.md).<sup id="cite_ref-Nirnaeth_20-0" class="reference"><a href="#cite_note-Nirnaeth-20">[20]</a></sup>
+Trong [F.A.](../F/First_Age.md) [472](../F/First_Age_472.md),<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup> Maedhros [tổ chức](../U/Union_of_Maedhros.md) một cuộc tấn công vào Morgoth và điều này dẫn đến [Nirnaeth Arnoediad](Nirnaeth_Arnoediad.md), Trận chiến Nước mắt Vô số. Bị phản bội bởi những [Easterlings](../E/Easterlings.md) mới đến, lực lượng của Noldor, Sindar và Edain đã bị đánh bại hoàn toàn. Fingon Dũng Sĩ đã bị giết; ông đã được kế vị bởi anh trai mình [Turgon](../T/Turgon.md) với tư cách là [Đại Vương thứ ba của Noldor](../H/High_King_of_the_Noldor.md).<sup id="cite_ref-Nirnaeth_20-0" class="reference"><a href="#cite_note-Nirnaeth-20">[20]</a></sup>
 
 Morgoth đánh tan lực lượng còn lại của [các Con trai của Fëanor](../S/Sons_of_Fëanor.md), và năm [F.A.](../F/First_Age.md) [495](../F/First_Age_495.md), [Nargothrond](Nargothrond.md) cũng thất thủ.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup> Turgon rút về Gondolin, nơi được giữ bí mật để cả Morgoth lẫn các Tiên tộc khác đều không biết đến.<sup id="cite_ref-Nirnaeth_20-1" class="reference"><a href="#cite_note-Nirnaeth-20">[20]</a></sup> Năm [F.A.](../F/First_Age.md) [510](../F/First_Age_510.md), Gondolin bị [Maeglin](../M/Maeglin.md) phản bội và [cướp phá](../F/Fall_of_Gondolin.md).<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup> Trong cuộc tấn công, Turgon tử trận; tuy nhiên, nhiều cư dân của thành phố đã [trốn thoát](../E/Exiles_of_Gondolin.md) và tìm đường đến [Cửa sông Sirion](../M/Mouths_of_Sirion.md). Turgon là hậu duệ nam cuối cùng còn sống của Fingolfin, vì vậy [Gil-galad](../G/Gil-galad.md), chắt trai của Finarfin, trở thành [Đại Vương thứ tư và cuối cùng của Noldor](../H/High_King_of_the_Noldor.md) tại Trung Địa.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup>
 

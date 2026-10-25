@@ -64,7 +64,7 @@ infobox:
 
 Là em gái của [Fëanturi](../F/Fëanturi.md), cô được xếp hạng là một trong tám [Aratar](../A/Aratar.md), người mạnh nhất trong Valar. Yếu tố của bà là đau buồn và bà luôn than khóc cho những vết thương của thế giới bởi cái ác. Ai lắng nghe cô sẽ học được sự khôn ngoan và sức chịu đựng trong đau buồn.<sup id="cite_ref-SIIb_1-0" class="reference"><a href="#cite_note-SIIb-1">[1]</a></sup>
 
-[Sảnh](../H/Halls_of_Nienna.md) của bà ở phía tây xa xôi, gần với [Sảnh của Mandos](../H/Halls_of_Mandos.md), nhưng ở biên giới phía tây của Thế giới và cửa sổ của bà nhìn ra ngoài từ [Những Bức Tường của Thế giới](../W/Walls_of_the_World.md). Cô sống một mình và hiếm khi đến thành phố vui tươi [Valmar](../V/Valmar.md). Cô thường xuyên đến phòng của anh trai mình [Mandos](../M/Mandos.md) để an ủi và khuyên nhủ những người trong [Sảnh chờ](../H/Halls_of_Waiting.md) đang khóc vì cô.<sup id="cite_ref-SIIb_1-1" class="reference"><a href="#cite_note-SIIb-1">[1]</a></sup>
+[Sảnh](../H/Halls_of_Nienna.md) của bà ở phía tây xa xôi, gần với [Đại sảnh Mandos](../H/Halls_of_Mandos.md), nhưng ở biên giới phía tây của Thế giới và cửa sổ của bà nhìn ra ngoài từ [Những Bức Tường của Thế giới](../W/Walls_of_the_World.md). Cô sống một mình và hiếm khi đến thành phố vui tươi [Valmar](../V/Valmar.md). Cô thường xuyên đến phòng của anh trai mình [Mandos](../M/Mandos.md) để an ủi và khuyên nhủ những người trong [Sảnh chờ](../H/Halls_of_Waiting.md) đang khóc vì cô.<sup id="cite_ref-SIIb_1-1" class="reference"><a href="#cite_note-SIIb-1">[1]</a></sup>
 
 Tất cả những gì được biết về ngoại hình của bà là bà đội một chiếc mũ trùm đầu màu xám.<sup id="cite_ref-S9_2-0" class="reference"><a href="#cite_note-S9-2">[2]</a></sup>
 

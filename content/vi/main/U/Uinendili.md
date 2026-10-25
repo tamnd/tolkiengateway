@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Guild of Venturers"
 ---
 
-Chuyển hướng đến [Hiệp hội mạo hiểm](../G/Guild_of_Venturers.md).
+Chuyển hướng đến [Hiệp hội Nhà thám hiểm](../G/Guild_of_Venturers.md).

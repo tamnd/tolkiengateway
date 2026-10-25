@@ -143,7 +143,7 @@ Trước sự thất vọng của ông, họ phát hiện ra Hirgon đã chết 
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Angus_McBride_-_Eowyn_against_Witch-king.gif.md"><img src="https://tolkiengateway.net/w/images/thumb/b/bf/Angus_McBride_-_Eowyn_against_Witch-king.gif/300px-Angus_McBride_-_Eowyn_against_Witch-king.gif" decoding="async" loading="lazy" width="300" height="308" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/bf/Angus_McBride_-_Eowyn_against_Witch-king.gif/450px-Angus_McBride_-_Eowyn_against_Witch-king.gif 1.5x, https://tolkiengateway.net/w/images/b/bf/Angus_McBride_-_Eowyn_against_Witch-king.gif 2x" data-file-width="509" data-file-height="523"/></a><figcaption><a href="../A/Angus_McBride.md" title="Angus McBride">Angus McBride</a> - <i>Eowyn against Witch-king</i></figcaption></figure>
 
-[Chúa tể của Nazgûl](../W/Witch-king.md) đã tấn công ông, và ông bị trọng thương khi con ngựa [Snowmane](../S/Snowmane.md) của ông lao vào ông sau khi bị [quái vật ngã](../F/Fell_beasts.md) của Ringwraith sợ hãi.
+[Chúa tể Nhẫn Ma](../W/Witch-king.md) đã tấn công ông, và ông bị trọng thương khi con ngựa [Snowmane](../S/Snowmane.md) của ông lao vào ông sau khi bị [quái vật ngã](../F/Fell_beasts.md) của Ringwraith sợ hãi.
 
 Éowyn và [Hobbit](../H/Hobbits.md) [Meriadoc Brandybuck](../M/Meriadoc_Brandybuck.md), cả hai đều bí mật ra trận, lập tức báo thù cho ông. Khi hấp hối trên chiến trường, ông nói với Merry rằng mình đã mãn nguyện vì hạ được Con Rắn Đen.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[14]</a></sup>
 

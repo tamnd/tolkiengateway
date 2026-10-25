@@ -46,7 +46,7 @@ Sau thất bại trong [Chiến tranh Phẫn nộ](../W/War_of_Wrath.md), [Morgo
 
 Sau thất bại hoàn toàn rõ ràng trước [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), tinh thần suy yếu của [Sauron](../S/Sauron.md) bị ràng buộc trong giới hạn của thế giới, bước vào con đường dẫn đến bất lực giống như Morgoth khi bị đày đến Hư Không.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
-Cũng có thể linh hồn của [Gandalf](../G/Gandalf.md) đã vượt qua Hư Không và đi vào [Hội trường vượt thời gian](../T/Timeless_Halls.md) sau khi ông chết trong [trận chiến](../B/Battle_of_the_Peak.md) với [Balrog của Moria](../D/Durin's_Bane.md), vì ông "đã hết suy nghĩ và thời gian."<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Cũng có thể linh hồn của [Gandalf](../G/Gandalf.md) đã vượt qua Hư Không và đi vào [Hội trường vượt thời gian](../T/Timeless_Halls.md) sau khi ông chết trong [trận chiến](../B/Battle_of_the_Peak.md) với [Balrog Moria](../D/Durin's_Bane.md), vì ông "đã hết suy nghĩ và thời gian."<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 ## Tên khác {#Other_names}
 

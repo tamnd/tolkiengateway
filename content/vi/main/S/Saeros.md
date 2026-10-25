@@ -64,7 +64,7 @@ Cái chết của Saeros khiến Túrin phải rời đi Doriath, tự mình ph�
 
 ### Nền {#Background}
 
-Saeros là của [Khách-Tiên tộc](../G/Guest-elves.md), những người [Tiên Xanh](../G/Green-elves.md) tìm nơi ẩn náu ở Doriath sau cái chết của lãnh chúa của họ, [Denethor](<../D/Denethor_(son_of_Lenwë).md>), trong [Trận chiến thứ nhất của Beleriand](../F/First_Battle_of_Beleriand.md).<sup id="cite_ref-ga38n_6-0" class="reference"><a href="#cite_note-ga38n-6">[6]</a></sup> Cha của ông, [Ithilbor](../I/Ithilbor.md),<sup id="cite_ref-ut_td_7-0" class="reference"><a href="#cite_note-ut_td-7">[7]</a></sup> là thủ lĩnh của Khách-Tiên tộc, và đã có được giữ một vị trí cố định trong hội đồng của Thingol. Mặc dù Guest-Tiên tộc chủ yếu sống ở vùng đất nhỏ [Arthórien](../A/Arthórien.md) dưới quyền thủ lĩnh của họ, Saeros đã cư trú một thời gian dài ở [Menegroth](../M/Menegroth.md).<sup id="cite_ref-ga38n_6-1" class="reference"><a href="#cite_note-ga38n-6">[6]</a></sup>
+Saeros là của [Tiên tộc Khách](../G/Guest-elves.md), những người [Tiên Xanh](../G/Green-elves.md) tìm nơi ẩn náu ở Doriath sau cái chết của lãnh chúa của họ, [Denethor](<../D/Denethor_(son_of_Lenwë).md>), trong [Trận chiến thứ nhất ở Beleriand](../F/First_Battle_of_Beleriand.md).<sup id="cite_ref-ga38n_6-0" class="reference"><a href="#cite_note-ga38n-6">[6]</a></sup> Cha của ông, [Ithilbor](../I/Ithilbor.md),<sup id="cite_ref-ut_td_7-0" class="reference"><a href="#cite_note-ut_td-7">[7]</a></sup> là thủ lĩnh của Tiên tộc Khách, và đã có được giữ một vị trí cố định trong hội đồng của Thingol. Mặc dù Guest-Tiên tộc chủ yếu sống ở vùng đất nhỏ [Arthórien](../A/Arthórien.md) dưới quyền thủ lĩnh của họ, Saeros đã cư trú một thời gian dài ở [Menegroth](../M/Menegroth.md).<sup id="cite_ref-ga38n_6-1" class="reference"><a href="#cite_note-ga38n-6">[6]</a></sup>
 
 Saeros là một người vĩ đại trong số những người dân Doriath, và đã giành được sự tôn trọng của Vua, được Thingol đánh giá là người trung thành và khôn ngoan, đồng thời từng là một trong những cố vấn của ông. Anh còn có tình bạn với [Daeron](../D/Daeron.md) vì anh cũng có tài ca hát. Saeros không yêu [Con Người](../M/Men.md), nhất là những người có quan hệ họ hàng với [Beren](../B/Beren.md), những người mà ông cho rằng đã gây hại cho Doriath.<sup id="cite_ref-ut_td_7-1" class="reference"><a href="#cite_note-ut_td-7">[7]</a></sup>
 
@@ -148,7 +148,7 @@ Do đó, nó đã trở thành một trong những lời xúc phạm tồi tệ 
 
 ### Các phiên bản khác sau này {#Other_later_versions}
 
-Trong *[The Grey Annals](../T/The_Grey_Annals.md)*, khi mô tả cách một số Tiên Xanh trú ẩn trong Doriath, tên <i><b>Orgol</b></i> và "của Khách-Tiên tộc ở Arthórien" đã được viết ở lề, được đánh dấu bằng dấu mũ cho biết cần phải làm gì đó với họ.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup>
+Trong *[The Grey Annals](../T/The_Grey_Annals.md)*, khi mô tả cách một số Tiên Xanh trú ẩn trong Doriath, tên <i><b>Orgol</b></i> và "của Tiên tộc Khách ở Arthórien" đã được viết ở lề, được đánh dấu bằng dấu mũ cho biết cần phải làm gì đó với họ.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup>
 
 Trong *[Narn i Hîn Húrin](../N/Narn_i_Hîn_Húrin.md)*, các phiên bản trước đó có thể mô tả Saeros là bà con của Daeron và trong một phiên bản khác là anh trai của ông.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup>
 

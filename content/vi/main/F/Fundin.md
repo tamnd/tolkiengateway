@@ -60,7 +60,7 @@ infobox:
 
 Fundin rất có thể sinh ra tại [Núi Cô Đơn](../L/Lonely_Mountain.md) và lưu vong cùng dân tộc mình sau cuộc tấn công của [Rồng](../D/Dragons.md) [Smaug](../S/Smaug.md). Ông có hai người con trai là [Balin](../B/Balin.md) và [Dwalin](../D/Dwalin.md).
 
-Fundin tử trận dưới chân [Cổng Đông của Moria](../E/East-gate_of_Moria.md) trong [Trận Azanulbizar](../B/Battle_of_Azanulbizar.md), cuộc giao tranh cuối cùng của [Cuộc chiến giữa Người Lùn và Orc](../W/War_of_the_Dwarves_and_Orcs.md): Ông tham gia đợt tấn công đầu tiên của đội tiên phong, lực lượng bị đánh bật lui với nhiều tổn thất, rồi bị đẩy vào một khu rừng bên hồ [Mirrormere](../M/Mirrormere.md).
+Fundin tử trận dưới chân [Cổng Đông Moria](../E/East-gate_of_Moria.md) trong [Trận Azanulbizar](../B/Battle_of_Azanulbizar.md), cuộc giao tranh cuối cùng của [Cuộc chiến giữa Người Lùn và Orc](../W/War_of_the_Dwarves_and_Orcs.md): Ông tham gia đợt tấn công đầu tiên của đội tiên phong, lực lượng bị đánh bật lui với nhiều tổn thất, rồi bị đẩy vào một khu rừng bên hồ [Mirrormere](../M/Mirrormere.md).
 
 Ông bị giết tại đó cùng với người bà con [Frerin](Frerin.md) và nhiều người khác. Sau trận chiến, thi thể ông được thiêu trên giàn hỏa táng bằng gỗ cùng với những [người chết](../B/Burned_Dwarves.md) còn lại.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 

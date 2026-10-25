@@ -13,7 +13,7 @@ categories:
   - "Silvan Elvish"
 ---
 
-**Silvan Elvish** là tên cho ngôn ngữ được sử dụng bởi [Silvan Tiên tộc](Silvan_Elves.md).
+**Silvan Elvish** là tên cho ngôn ngữ được sử dụng bởi [Tiên tộc Silvan](Silvan_Elves.md).
 
 ## Lịch sử {#History}
 
@@ -21,7 +21,7 @@ Silvan Elvish có nguồn gốc từ **Nandorin/Danian**<sup id="cite_ref-pe18_1
 
 Một nhánh của Nandor cuối cùng đã hoàn thành Hành trình, ổn định ở [Ossiriand](../O/Ossiriand.md) và được gọi là [Laiquendi](../L/Laiquendi.md); những tiếng nói *West-Danian* (còn được gọi là *Ossiriandrin* hoặc *Ossiriandish*,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và *Laiquenderin*). Những người ở lại [ phương Đông](../R/Rhovanion.md) đã lên tiếng *East-Danian*.<sup id="cite_ref-pe18_1-1" class="reference"><a href="#cite_note-pe18-1">[1]</a></sup>
 
-Sau [Kỷ Đệ Nhất](../F/First_Age.md), những Tiên tộc còn sống sót của [Beleriand](../B/Beleriand.md) đã mang bài phát biểu của họ trở lại phương đông. Trong [Kỷ Đệ Tam](../T/Third_Age.md) Nandor được gọi là [Silvan Tiên tộc](Silvan_Elves.md), với ngôn ngữ của họ được gọi là Silvan Elvish, được nghe cả trong [Lothlórien](../L/Lothlórien.md) và [Vương quốc Rừng](../W/Woodland_Realm.md) của [Mirkwood](../M/Mirkwood.md). Những người nói [Sindarin](Sindarin.md) đã ổn định ở cả hai lĩnh vực Silvan chính và ít nhất là ở Lórien, Sindarin đã nhanh chóng vượt qua Silvan Elvish trong phạm vi sử dụng thông thường. Lịch sử của lưỡi trong Mirkwood khó xác định hơn - một số nguồn cho rằng nó cũng nhanh chóng bị Sindarin vượt qua, nhưng các nguồn khác lại phản đối điều này. Sindarin đã trở thành ngôn ngữ [Elvish](../E/Elvish.md) thống trị của [Westlands](../W/Westlands.md), với Nandorin ít nói; nó được thể hiện chủ yếu bằng các địa danh cũ và các phương ngữ Silvan được phát triển dưới ảnh hưởng của nó.
+Sau [Kỷ Đệ Nhất](../F/First_Age.md), những Tiên tộc còn sống sót của [Beleriand](../B/Beleriand.md) đã mang bài phát biểu của họ trở lại phương đông. Trong [Kỷ Đệ Tam](../T/Third_Age.md) Nandor được gọi là [Tiên tộc Silvan](Silvan_Elves.md), với ngôn ngữ của họ được gọi là Silvan Elvish, được nghe cả trong [Lothlórien](../L/Lothlórien.md) và [Vương quốc Rừng](../W/Woodland_Realm.md) của [Mirkwood](../M/Mirkwood.md). Những người nói [Sindarin](Sindarin.md) đã ổn định ở cả hai lĩnh vực Silvan chính và ít nhất là ở Lórien, Sindarin đã nhanh chóng vượt qua Silvan Elvish trong phạm vi sử dụng thông thường. Lịch sử của lưỡi trong Mirkwood khó xác định hơn - một số nguồn cho rằng nó cũng nhanh chóng bị Sindarin vượt qua, nhưng các nguồn khác lại phản đối điều này. Sindarin đã trở thành ngôn ngữ [Elvish](../E/Elvish.md) thống trị của [Westlands](../W/Westlands.md), với Nandorin ít nói; nó được thể hiện chủ yếu bằng các địa danh cũ và các phương ngữ Silvan được phát triển dưới ảnh hưởng của nó.
 
 Đến cuối [Kỷ Đệ Tam](../T/Third_Age.md), phần còn lại duy nhất của Silvan là một vài cái tên, như **[Caras Galadhon](../C/Caras_Galadhon.md)**,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> **[Amroth](../A/Amroth.md)**<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> hoặc **[Legolas](../L/Legolas.md)**<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> nghe giống Sindarin nhưng thực tế lại phản bội ảnh hưởng của các từ Silvan.
 

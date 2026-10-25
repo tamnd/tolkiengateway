@@ -61,7 +61,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Belecthor là người cuối cùng trong dòng dõi của ông bước qua tuổi 100. Sau khi ông qua đời, [Cây Trắng của Gondor](../W/White_Tree_of_Gondor.md) cũng chết, nhưng vẫn đứng vững "cho đến khi Vua đến".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Belecthor là người cuối cùng trong dòng dõi của ông bước qua tuổi 100. Sau khi ông qua đời, [Cây Trắng Gondor](../W/White_Tree_of_Gondor.md) cũng chết, nhưng vẫn đứng vững "cho đến khi Vua đến".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 Belecthor được nối tiếp bởi con trai ông [Thorondir](../T/Thorondir.md) khi ông qua đời vào năm 2872.<sup id="cite_ref-South_2-1" class="reference"><a href="#cite_note-South-2">[2]</a></sup>
 

@@ -49,7 +49,7 @@ infobox:
 
 ## Nội dung {#Contents}
 
-- Bìa: *[Theoden](../T/Théoden.md) Vua và [Chúa tể của Nazgûl](../W/Witch-king.md)*
+- Bìa: *[Theoden](../T/Théoden.md) Vua và [Chúa tể Nhẫn Ma](../W/Witch-king.md)*
     - Bởi: Davide Cattaneo
 - Biên tập
     - Bởi: [Andrew Butler](Andrew_Butler.md)

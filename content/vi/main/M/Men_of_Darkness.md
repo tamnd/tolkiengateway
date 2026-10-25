@@ -15,7 +15,7 @@ categories:
   - "Servants of Sauron"
 ---
 
-**Con Người của Bóng Tối** là [Con Người](Men.md) của phía đông [Trung Địa](Middle-earth.md) đã nằm dưới sự thống trị của [Morgoth](Morgoth.md) trong [Kỷ Đệ Nhất](../F/First_Age.md) hoặc bị [Sauron](../S/Sauron.md) thống trị và tôn thờ Ngài trong [Kỷ Đệ Nhị](../S/Second_Age.md). Trong [Kỷ Đệ Tam](../T/Third_Age.md) họ đã được ông di chuyển để chống lại [Dúnedain](../D/Dúnedain.md).
+**Con Người Bóng Tối** là [Con Người](Men.md) của phía đông [Trung Địa](Middle-earth.md) đã nằm dưới sự thống trị của [Morgoth](Morgoth.md) trong [Kỷ Đệ Nhất](../F/First_Age.md) hoặc bị [Sauron](../S/Sauron.md) thống trị và tôn thờ Ngài trong [Kỷ Đệ Nhị](../S/Second_Age.md). Trong [Kỷ Đệ Tam](../T/Third_Age.md) họ đã được ông di chuyển để chống lại [Dúnedain](../D/Dúnedain.md).
 
 Dúnedain đã sử dụng thuật ngữ này mà không đề cập đến chủng tộc, văn hóa hay ngôn ngữ; nó là một thuật ngữ chung để chỉ tất cả những dân tộc không chỉ đơn giản là những kẻ cướp bóc hay cướp bóc dã man mà còn chống đối một cách cuồng nhiệt [Các Vương quốc Lưu vong](../R/Realms_in_Exile.md), [Các Dân tộc Tự do](../F/Free_Peoples.md) và các đồng minh của họ, coi đó là kẻ thù của "các vị thần" của họ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 

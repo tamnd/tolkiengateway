@@ -127,7 +127,7 @@ Khẩn khoản thúc giục những người còn lại trong Đoàn Hộ Nhẫn
 
 Đau buồn trước cái chết tưởng chừng như đã xảy ra của Gandalf, Đoàn Hộ Nhẫn tiếp tục cuộc hành trình cho đến khi đến [Lothlórien](../L/Lothlórien.md), một vương quốc rừng do Tiên tộc [Galadriel](../G/Galadriel.md) cai quản. Galadriel gặp riêng Frodo. Cậu nhìn vào [Tấm gương](../M/Mirror_of_Galadriel.md) của bà và chứng kiến một viễn cảnh trong đó Sauron thành công trong việc thống trị Trung Địa. Sau khi nghe Galadriel chỉ dẫn, Frodo hiểu được tầm quan trọng của sứ mệnh và nhận ra rằng chỉ mình cậu mới có thể mang Nhẫn đến Núi Diệt Vong.
 
-Sau khi nghỉ ngơi, Đoàn chuẩn bị khởi hành từ Lothlórien, đồng thời tặng Galadriel những món quà hỗ trợ cho chuyến hành trình của các em. Những món quà này bao gồm Tiên áo choàng cho cả nhóm, nơ [Galadhrim](../G/Galadhrim.md) cho Legolas, dao găm cho Merry và Pippin, dây thừng cho Sam, ba sợi tóc trên đầu của bà cho Gimli và [Phial của Galadriel](../P/Phial_of_Galadriel.md) cho Frodo. Chồng của Galadriel cũng [Celeborn](../C/Celeborn.md) đưa cho Aragorn một con dao.
+Sau khi nghỉ ngơi, Đoàn chuẩn bị khởi hành từ Lothlórien, đồng thời tặng Galadriel những món quà hỗ trợ cho chuyến hành trình của các em. Những món quà này bao gồm Tiên áo choàng cho cả nhóm, nơ [Galadhrim](../G/Galadhrim.md) cho Legolas, dao găm cho Merry và Pippin, dây thừng cho Sam, ba sợi tóc trên đầu của bà cho Gimli và [Lọ thủy tinh của Galadriel](../P/Phial_of_Galadriel.md) cho Frodo. Chồng của Galadriel cũng [Celeborn](../C/Celeborn.md) đưa cho Aragorn một con dao.
 
 Trong khi đó, tại Isengard, Saruman triệu tập một lực lượng [Uruk-hai](../U/Uruk-hai.md) để truy lùng và tiêu diệt Đoàn Hộ Nhẫn.
 

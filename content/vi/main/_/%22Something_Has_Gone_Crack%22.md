@@ -72,7 +72,7 @@ infobox:
 
 - "Những đường đứt gãy bên dưới vết nứt" của John Rosegrant
 - "Tolkien ở phương Đông Yorkshire, 1917-18: A Hemlock Glade, Hai tòa tháp, Ngôi nhà chữa bệnh và một ngọn hải đăng" của Michael Flowers
-- "Hai nhà thơ trong chiến tranh: J.R.R. Tolkien và Ernst Jünger trong trận chiến Somme, một cách tiếp cận ký hiệu học" của Wilhelm Kuehs
+- "Hai nhà thơ trong chiến tranh: J.R.R. Tolkien và Ernst Jünger trong Trận Somme, một cách tiếp cận ký hiệu học" của Wilhelm Kuehs
 
 <dl><dt>Section III</dt>
 <dd>Roots of Major Themes in The Legendarium in the Great War</dd></dl>

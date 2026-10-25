@@ -71,7 +71,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Quyền quản lý của Túrin diễn ra trong thời kỳ [Hòa bình thận trọng](../W/Watchful_Peace.md) ([T.A.](Third_Age.md) [2063](Third_Age_2063.md)-[2460](Third_Age_2460.md)).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Quyền quản lý của Túrin diễn ra trong thời kỳ [Thời kỳ Hòa bình Cảnh giác](../W/Watchful_Peace.md) ([T.A.](Third_Age.md) [2063](Third_Age_2063.md)-[2460](Third_Age_2460.md)).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 Túrin giữ chức Quản lý trong ba mươi bốn năm. Rất bất thường đối với một quý tộc Gondor, ông đã kết hôn hai lần và có nhiều con gái. Chỉ có đứa con cuối cùng của ông sinh ra lúc tuổi già là con trai<sup id="cite_ref-Elendil_1-4" class="reference"><a href="#cite_note-Elendil-1">[1]</a></sup> [Hador](<../H/Hador_(Steward_of_Gondor).md>) là người nối nghiệp ông.<sup id="cite_ref-South_2-1" class="reference"><a href="#cite_note-South-2">[2]</a></sup>
 

@@ -94,7 +94,7 @@ infobox:
 
 Voronwë được liên kết với [Gia tộc Fingolfin](../H/House_of_Fingolfin.md) thông qua cha anh, [Aranwë](../A/Aranwë.md), và với [Círdan](../C/Círdan.md) thông qua mẹ anh, một trong những [Sindar](../S/Sindar.md) Tiên tộc của [Falas](../F/Falas.md).
 
-Trong [F.A.](../F/First_Age.md) [455](../F/First_Age_455.md), sau khi [phá Cuộc vây hãm Angband](../D/Dagor_Bragollach.md), [Turgon](../T/Turgon.md), Vua của Gondolin, đã phái một số người của mình đi làm một công việc bí mật; họ đi xuống [Cửa sông Sirion](../M/Mouths_of_Sirion.md) nơi họ đóng tàu. Tuy nhiên, nó không đạt được nhiều thành tựu vì Noldor thiếu nghệ thuật đóng tàu và họ chỉ có thể đi xa đến [Đảo Balar](../I/Isle_of_Balar.md) nơi họ thiết lập những ngôi nhà biệt lập.<sup id="cite_ref-tcg_4-0" class="reference"><a href="#cite_note-tcg-4">[3]</a></sup>
+Trong [F.A.](../F/First_Age.md) [455](../F/First_Age_455.md), sau khi [phá Cuộc vây hãm Angband](../D/Dagor_Bragollach.md), [Turgon](../T/Turgon.md), Vua Gondolin, đã phái một số người của mình đi làm một công việc bí mật; họ đi xuống [Cửa sông Sirion](../M/Mouths_of_Sirion.md) nơi họ đóng tàu. Tuy nhiên, nó không đạt được nhiều thành tựu vì Noldor thiếu nghệ thuật đóng tàu và họ chỉ có thể đi xa đến [Đảo Balar](../I/Isle_of_Balar.md) nơi họ thiết lập những ngôi nhà biệt lập.<sup id="cite_ref-tcg_4-0" class="reference"><a href="#cite_note-tcg-4">[3]</a></sup>
 
 Sau khi Turgon biết được [sự tàn phá của Falas](../F/Fall_of_the_Falas.md) và việc Círdan di dời phần còn lại của người dân của mình đến [Đảo Balar](../I/Isle_of_Balar.md), ông đã gửi thêm sứ giả, bao gồm cả Voronwě.<sup id="cite_ref-tcg_4-1" class="reference"><a href="#cite_note-tcg-4">[3]</a></sup>
 

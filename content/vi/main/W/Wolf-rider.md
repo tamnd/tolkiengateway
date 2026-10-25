@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Wolf-riders"
 ---
 
-Chuyển hướng đến [Người cưỡi sói](Wolf-riders.md).
+Chuyển hướng đến [Kỵ sĩ Sói](Wolf-riders.md).

@@ -38,7 +38,7 @@ infobox:
 
 **Glirhuin** là [nhà tiên tri](../S/Seers.md) và [người chơi đàn hạc](../M/Minstrels.md) của [Haladin](../H/Haladin.md) sống trong Rừng [Brethil](../B/Brethil.md) trong [Kỷ Đệ Nhất](../F/First_Age.md).
 
-Glirhuin đã sáng tác một bài hát nói rằng [Hòn đá bất hạnh](../S/Stone_of_the_Hapless.md) sẽ không bao giờ bị [Morgoth](../M/Morgoth.md) làm ô uế cũng như không bao giờ chìm xuống đáy biển. Quả thực sau khi [Beleriand](../B/Beleriand.md) chìm dưới sóng, [Tol Morwen](../T/Tol_Morwen.md) vẫn đứng một mình trên mặt nước.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Glirhuin đã sáng tác một bài hát nói rằng [Đá của Kẻ Bất Hạnh](../S/Stone_of_the_Hapless.md) sẽ không bao giờ bị [Morgoth](../M/Morgoth.md) làm ô uế cũng như không bao giờ chìm xuống đáy biển. Quả thực sau khi [Beleriand](../B/Beleriand.md) chìm dưới sóng, [Tol Morwen](../T/Tol_Morwen.md) vẫn đứng một mình trên mặt nước.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

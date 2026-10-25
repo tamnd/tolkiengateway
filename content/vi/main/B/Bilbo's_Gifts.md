@@ -36,7 +36,7 @@ infobox:
 
 ## Tóm tắt {#Synopsis}
 
-Trước khi [Frodo](../F/Frodo_Baggins.md) khởi hành, [Bilbo](Bilbo_Baggins.md) tặng quà cho chuyến hành trình của ông. Bilbo rút thanh kiếm của mình ra, [Sting](../S/Sting.md), và đưa nó cho một Frodo có phần kinh hãi, nói với ông rằng *"lưỡi kiếm phát sáng màu xanh lam khi có [Orc](../O/Orcs.md) ở xung quanh"*. Bilbo tiếp theo là món quà [Áo khoác Mithril](../M/Mithril-coat.md), nói với Frodo nó *"nhẹ như lông vũ và cứng như [vảy rồng](../D/Dragons.md)"*. Khi Frodo cởi nút áo sơ mi để mặc áo khoác [mithril](../M/Mithril.md), Bilbo nhìn thoáng qua [Chiếc nhẫn](../T/The_One_Ring.md): và nói với Frodo ông muốn giữ nó lần cuối. Frodo bắt đầu cài nút áo sơ mi của mình và nhận thấy cơ hội trôi qua, Bilbo tấn công Frodo, khiến ông lùi lại. Nhận ra việc mình vừa làm, anh xấu hổ lùi lại và xin lỗi Frodo, người đã an ủi anh.
+Trước khi [Frodo](../F/Frodo_Baggins.md) khởi hành, [Bilbo](Bilbo_Baggins.md) tặng quà cho chuyến hành trình của ông. Bilbo rút thanh kiếm của mình ra, [Sting](../S/Sting.md), và đưa nó cho một Frodo có phần kinh hãi, nói với ông rằng *"lưỡi kiếm phát sáng màu xanh lam khi có [Orc](../O/Orcs.md) ở xung quanh"*. Bilbo tiếp theo là món quà [Áo giáp mithril](../M/Mithril-coat.md), nói với Frodo nó *"nhẹ như lông vũ và cứng như [vảy rồng](../D/Dragons.md)"*. Khi Frodo cởi nút áo sơ mi để mặc áo khoác [mithril](../M/Mithril.md), Bilbo nhìn thoáng qua [Chiếc nhẫn](../T/The_One_Ring.md): và nói với Frodo ông muốn giữ nó lần cuối. Frodo bắt đầu cài nút áo sơ mi của mình và nhận thấy cơ hội trôi qua, Bilbo tấn công Frodo, khiến ông lùi lại. Nhận ra việc mình vừa làm, anh xấu hổ lùi lại và xin lỗi Frodo, người đã an ủi anh.
 
 ## Sự khác biệt {#Differences}
 

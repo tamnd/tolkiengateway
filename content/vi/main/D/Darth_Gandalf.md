@@ -35,7 +35,7 @@ infobox:
 
 **Darth Gandalf** là kênh Youtube về chủ đề Tolkien. Ông làm các bài luận video dài và ngắn về [Trung Địa](../M/Middle-earth.md).
 
-Ông có một loạt bài tên là *War in Middle-earth*, trong đó ông nói về tất cả những xung đột (lớn) từng xảy ra trong Arda. Một loạt bài khác của ông có tên là *Middle-earth Mysteries*, trong đó ông nói về những điều Tolkien còn bỏ ngỏ, chẳng hạn như [Blue Pháp sư](../B/Blue_Wizards.md).
+Ông có một loạt bài tên là *War in Middle-earth*, trong đó ông nói về tất cả những xung đột (lớn) từng xảy ra trong Arda. Một loạt bài khác của ông có tên là *Middle-earth Mysteries*, trong đó ông nói về những điều Tolkien còn bỏ ngỏ, chẳng hạn như [Pháp sư Xanh](../B/Blue_Wizards.md).
 
 Ông cũng nói rằng ông sử dụng [Tolkien Gateway](../T/Tolkien_Gateway.md) rất nhiều.
 

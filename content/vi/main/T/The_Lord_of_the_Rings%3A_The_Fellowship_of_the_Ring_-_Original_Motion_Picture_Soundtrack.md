@@ -47,7 +47,7 @@ infobox:
 12. [Hành trình trong bóng tối](<../A/A_Journey_In_The_Dark_(soundtrack).md>) (4:20)
 13. [Cầu Khazad-dum](<The_Bridge_of_Khazad-dûm_(soundtrack).md>) (5:57)
 14. [Lothlorien](<../L/Lothlórien_(soundtrack).md>) (4:33)
-15. [Sông Lớn](<The_Great_River_(soundtrack).md>) (2:43)
+15. [Đại Hà](<The_Great_River_(soundtrack).md>) (2:43)
 16. [Amon Hen](<../A/Amon_Hen_(soundtrack).md>) (5:02)
 17. [Sự tan rã của tình bạn](<The_Breaking_Of_The_Fellowship_(soundtrack).md>) (7:20)
 18. [May It Be](../M/May_It_Be.md), sáng tác và biểu diễn bởi [Enya](../E/Enya.md) (4:17)

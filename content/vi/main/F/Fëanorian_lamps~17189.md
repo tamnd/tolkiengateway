@@ -48,7 +48,7 @@ Một số Noldor bị [Morgoth](../M/Morgoth.md) bắt và đưa vào làm vi�
 
 <figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Ted_Nasmith_-_Tuor,_Gelmir,_and_Arminas.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/c/c6/Ted_Nasmith_-_Tuor%2C_Gelmir%2C_and_Arminas.jpg/190px-Ted_Nasmith_-_Tuor%2C_Gelmir%2C_and_Arminas.jpg" decoding="async" loading="lazy" width="190" height="254" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/c6/Ted_Nasmith_-_Tuor%2C_Gelmir%2C_and_Arminas.jpg/285px-Ted_Nasmith_-_Tuor%2C_Gelmir%2C_and_Arminas.jpg 1.5x, https://tolkiengateway.net/w/images/c/c6/Ted_Nasmith_-_Tuor%2C_Gelmir%2C_and_Arminas.jpg 2x" data-file-width="336" data-file-height="450"/></a><figcaption>&#34;Tuor, Gelmir, and Arminas&#34; by <a href="../T/Ted_Nasmith.md" title="Ted Nasmith">Ted Nasmith</a></figcaption></figure>
 
-Trong [Kỷ Đệ Tam](../T/Third_Age.md), [Tiên tộc của Lothlórien](../G/Galadhrim.md) sử dụng thiết bị tương tự: những chiếc đèn nhỏ phát ra chùm tia bạc mảnh.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Trong [Kỷ Đệ Tam](../T/Third_Age.md), [Tiên tộc Lothlórien](../G/Galadhrim.md) sử dụng thiết bị tương tự: những chiếc đèn nhỏ phát ra chùm tia bạc mảnh.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 

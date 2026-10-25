@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Great Hall of Feasts"
 ---
 
-Chuyển hướng đến [Đại lễ đường](../G/Great_Hall_of_Feasts.md).
+Chuyển hướng đến [Đại Sảnh](../G/Great_Hall_of_Feasts.md).

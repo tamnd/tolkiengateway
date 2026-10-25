@@ -35,7 +35,7 @@ Sau Vua <a class="mw-redirect mw-disambig" href="../E/Eärendur.md" title="Eäre
 
 Đến [T.A.](../T/Third_Age.md) [1349](../T/Third_Age_1349.md), Nhà Isildur đã ngừng hoạt động ở Cardolan và Rhudaur. [Argeleb I](../A/Argeleb_I.md) của Arthedain một lần nữa tuyên bố danh hiệu **Vua của Arnor**.<sup id="cite_ref-North_4-1" class="reference"><a href="#cite_note-North-4">[4]</a></sup> Tuy nhiên, phần lớn lãnh thổ từng thuộc về Arnor đã rơi khỏi tay ông, và Argeleb cùng con cháu của ông được coi là vua của Arthedain trong danh sách của [Red Book of Westmarch](../R/Red_Book_of_Westmarch.md).<sup id="cite_ref-North_4-2" class="reference"><a href="#cite_note-North-4">[4]</a></sup>
 
-Sau cái chết của vị vua cuối cùng của Arthedain, [Arvedui](../A/Arvedui.md), Vương quốc phương Bắc không còn nữa. Dòng dõi Vua tiếp tục ở [Thủ lĩnh Dúnedain](../C/Chieftains_of_the_Dúnedain.md), cai trị [Biệt đội miền Bắc](../R/Rangers_of_the_North.md).<sup id="cite_ref-app_1-1" class="reference"><a href="#cite_note-app-1">[1]</a></sup>
+Sau cái chết của vị vua cuối cùng của Arthedain, [Arvedui](../A/Arvedui.md), Vương quốc phương Bắc không còn nữa. Dòng dõi Vua tiếp tục ở [Thủ lĩnh Dúnedain](../C/Chieftains_of_the_Dúnedain.md), cai trị [Tuần Du Nhân phương Bắc](../R/Rangers_of_the_North.md).<sup id="cite_ref-app_1-1" class="reference"><a href="#cite_note-app-1">[1]</a></sup>
 
 Dù các vị vua của Arnor đã lụi tàn nhưng một số người dân vẫn giữ niềm tin mờ nhạt rằng các vị vua sẽ trở lại. Những người này bao gồm [Hobbit](../H/Hobbits.md), những người sẽ giữ lại câu nói "cho đến khi nhà vua quay lại" và cũng gán một số quy tắc và luật lệ của họ cho nhà vua. Ký ức về các vị vua phương bắc cũng sẽ không bị lãng quên ở Gondor, nơi mà dòng dõi các vị vua đã thất bại hoàn toàn.
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Stone of the Hapless"
 ---
 
-Chuyển hướng đến [Hòn đá bất hạnh](Stone_of_the_Hapless.md).
+Chuyển hướng đến [Đá của Kẻ Bất Hạnh](Stone_of_the_Hapless.md).

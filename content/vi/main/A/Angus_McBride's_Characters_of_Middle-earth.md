@@ -53,7 +53,7 @@ Bên trong bạn sẽ tìm thấy:
     - FANGORN cung cấp dinh dưỡng cho Pippin và Merry
     - GALADRIEL đáp lại lời cầu xin của người đưa tin Silvan bị thương
     - SARUMAN bị Sauron bẫy thông qua Orthanc Palantír
-    - Éowyn và Merry đối đầu với Chúa tể Nazgûl
+    - Éowyn và Merry đối đầu với Chúa tể Nhẫn Ma
     - NGƯỜI CELEMBRIMBOR tại lò rèn
 - NHÀ PHIÊU LƯU TÌM KIẾM DANH TIẾNG -
     - ORRIT KELARIN hồi tưởng lại cuộc gặp gỡ với Người chim hung ác của Suza Sumar

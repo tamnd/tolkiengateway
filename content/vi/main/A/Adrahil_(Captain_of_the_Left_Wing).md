@@ -91,7 +91,7 @@ Trong chương “[Cirion và Eorl](../C/Cirion_and_Eorl_and_the_Friendship_of_G
 <span><div class="mw-references-wrap"><ol class="references">
 <li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Các mối quan hệ gia đình và ngày tháng của ông đều ngụ ý rằng ông là cha của <a href="../I/Imrazôr.md" title="Imrazôr">Imrazôr</a>, nhưng Tolkien chưa bao giờ đưa ra mối liên hệ một cách rõ ràng. Niên đại phù hợp với việc Adrahil là cha của Imrazôr, và do đó là ông nội của <a href="../G/Galador.md" title="Galador">Galador</a>, nhưng bằng chứng về điểm này rất mỏng.</span>
 </li>
-<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">Nếu ông sống sót sau cuộc tấn công ban đầu, có vẻ như Adrahil sẽ tham gia cùng <a href="../E/Eärnil_II.md" title="Eärnil II">Eärnil</a> trong cuộc phản công của mình, chứng kiến thất bại cuối cùng của Wainriders tại <a href="../B/Battle_of_the_Camp.md" title="Battle of the Camp">Trận chiến trong trại</a> mặc dù không thể nói gì chắc chắn về vấn đề này.</span>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">Nếu ông sống sót sau cuộc tấn công ban đầu, có vẻ như Adrahil sẽ tham gia cùng <a href="../E/Eärnil_II.md" title="Eärnil II">Eärnil</a> trong cuộc phản công của mình, chứng kiến thất bại cuối cùng của Wainriders tại <a href="../B/Battle_of_the_Camp.md" title="Battle of the Camp">Trận chiến tại Trại</a> mặc dù không thể nói gì chắc chắn về vấn đề này.</span>
 </li>
 </ol></div></span>
 

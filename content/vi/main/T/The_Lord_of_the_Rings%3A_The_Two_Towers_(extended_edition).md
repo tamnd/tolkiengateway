@@ -52,7 +52,7 @@ images:
 - 10\. Trại đêm ở Fangorn
 - 14\. Con đường của đầm lầy
 - 15\. Kỵ Sĩ Trắng
-- 20\. Vua của Sảnh Vàng
+- 20\. Vua của Đại Sảnh Vàng
 - 26\. Con gái của các vị vua
 - 30\. Rau thơm và thỏ hầm
 

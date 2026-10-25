@@ -93,7 +93,7 @@ Vào đêm sớm khi đại đội chạm trán với [quỷ khổng lồ](../T/
 
 Khi đại đội lao lên cây để thoát khỏi [bầy sói](../W/Wargs.md) Kíli và Fíli trườn lên đỉnh một cây thông cao.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Ngày hôm sau, khi đại đội đến hội trường của [Beorn](../B/Beorn.md), Kíli và Fíli lại cùng nhau trở thành cặp Người Lùn thứ tư xuất hiện trong câu chuyện của Gandalf.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
-Khi Bilbo phát hiện chiếc thuyền ở phía xa của [Dòng sông Phù phép](../E/Enchanted_River.md), Fíli đã cố gắng kéo nó bằng một cái móc trên một sợi dây nhưng không thể kéo nó qua. Kíli đến trợ giúp đầu tiên, tiếp theo là [Óin](../_/Óin.md) và [Glóin](../G/Glóin.md), trước khi chiếc thuyền bị lỏng (sau khi sơn của nó bị gãy).<sup id="cite_ref-Flies_7-0" class="reference"><a href="#cite_note-Flies-7">[7]</a></sup>
+Khi Bilbo phát hiện chiếc thuyền ở phía xa của [Dòng sông Phép thuật](../E/Enchanted_River.md), Fíli đã cố gắng kéo nó bằng một cái móc trên một sợi dây nhưng không thể kéo nó qua. Kíli đến trợ giúp đầu tiên, tiếp theo là [Óin](../_/Óin.md) và [Glóin](../G/Glóin.md), trước khi chiếc thuyền bị lỏng (sau khi sơn của nó bị gãy).<sup id="cite_ref-Flies_7-0" class="reference"><a href="#cite_note-Flies-7">[7]</a></sup>
 
 Khi mở thùng sau khi trốn thoát khỏi hành lang của [Vua Tiên](../T/Thranduil.md), Kíli và Fíli bước ra mỉm cười vì họ còn trẻ và chỉ có ít vết bầm tím. Hai anh em đã giúp Thorin và Bilbo xác định vị trí và giải thoát Người Lùn còn lại. Tiếp theo, họ đi cùng Thorin và Bilbo tới cầu vào [Esgaroth](../L/Lake-town.md) trong khi những người khác hồi phục.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
 

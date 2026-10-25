@@ -51,7 +51,7 @@ images:
 
 ## Tóm tắt {#Synopsis}
 
-Không một tin tức nào về những gì đã xảy ra trong [Trận chiến của những giọt nước mắt không đếm được](../N/Nirnaeth_Arnoediad.md) đến được nhà của [Húrin](../H/Húrin.md), [Dor-lómin](../D/Dor-lómin.md).
+Không một tin tức nào về những gì đã xảy ra trong [Trận chiến Nước mắt Vô số](../N/Nirnaeth_Arnoediad.md) đến được nhà của [Húrin](../H/Húrin.md), [Dor-lómin](../D/Dor-lómin.md).
 
 <figure class="mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Alan_Lee_-_The_Words_of_Húrin_and_Morgoth.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/60/Alan_Lee_-_The_Words_of_H%C3%BArin_and_Morgoth.jpg/150px-Alan_Lee_-_The_Words_of_H%C3%BArin_and_Morgoth.jpg" decoding="async" loading="lazy" width="150" height="233" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/60/Alan_Lee_-_The_Words_of_H%C3%BArin_and_Morgoth.jpg/225px-Alan_Lee_-_The_Words_of_H%C3%BArin_and_Morgoth.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/6/60/Alan_Lee_-_The_Words_of_H%C3%BArin_and_Morgoth.jpg/300px-Alan_Lee_-_The_Words_of_H%C3%BArin_and_Morgoth.jpg 2x" data-file-width="993" data-file-height="1541"/></a><figcaption><i>The Words of Húrin and Morgoth</i> by <a href="../A/Alan_Lee.md" title="Alan Lee">Alan Lee</a></figcaption></figure>
 

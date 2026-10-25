@@ -52,7 +52,7 @@ Miền Nam Gondor: The People bao gồm số liệu thống kê trò chơi hoàn
 Miền Nam Gondor: Nhân dân có các tính năng:
 
 - HEROES & KINGS - Isildur và Anárion hiện ra lớn hơn cuộc sống, và những người cai trị theo sau họ cũng không kém phần như vậy. Telumehtar chinh phục bóng tối Umbar. Tarannon, vị Vua Thuyền đầu tiên, bắt đầu Gondor trên con đường hướng tới vinh quang đế quốc. Và Aragorn cai trị vương quốc thông qua Cuộc chiến Nhẫn.
-- DÚNEDAIN - The High Con Người của Phương Tây mang truyền thuyết và văn hóa của quê hương đã mất của họ đến Gondor và kết hợp những đức tính này với tình yêu chân lý và lòng trung thành.
+- DÚNEDAIN - The High Con Người Phương Tây mang truyền thuyết và văn hóa của quê hương đã mất của họ đến Gondor và kết hợp những đức tính này với tình yêu chân lý và lòng trung thành.
 - GONDORIANS - Những người nông dân mạnh mẽ chăm sóc đồng ruộng và trồng trọt này tôn kính Yavanna hầu hết tất cả Valar, vì trái đất của họ định hình nhịp sống của họ.
 - LỄ HỘI - Những ngày huy hoàng cổ xưa của Erukyermë, Erulaitalë và Eruhantalë có được sự đổi mới mang tính kỷ niệm ở Vương quốc Nam.
 - WOSES - Drughu có tổ tiên canh giữ những ngôi nhà của Dân tộc Haleth đi lang thang trên các vùng đất phía nam Gondor nhiều thời đại trước khi Faithful đến bờ biển Endor.

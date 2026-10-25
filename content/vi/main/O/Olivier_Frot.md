@@ -32,7 +32,7 @@ infobox:
 
 Mặc dù ban đầu ông có ý định minh họa nhiều thẻ hơn nhưng cuối cùng chỉ có tác phẩm thử nghiệm của ông cho [Gandalf](../G/Gandalf.md) được sử dụng.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Ông cũng minh họa ảnh bìa cho ấn bản tiếng Pháp của Hexagonal của [Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Trong [1995](../_/1995.md), ông đã vẽ bản đồ về [Thời đại thứ năm](../F/Fifth_Age.md) của [Trung Địa](../M/Middle-earth.md) để minh họa cho một bài viết trên tạp chí [Rồng Magazine](../D/Dragon_Magazine.md) phiên bản tiếng Pháp.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[note 1]</a></sup>
+Trong [1995](../_/1995.md), ông đã vẽ bản đồ về [Thời đại thứ năm](../F/Fifth_Age.md) của [Trung Địa](../M/Middle-earth.md) để minh họa cho một bài viết trên tạp chí [Tạp chí Dragon](../D/Dragon_Magazine.md) phiên bản tiếng Pháp.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[note 1]</a></sup>
 
 ## Xem thêm {#See_also}
 

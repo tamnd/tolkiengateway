@@ -35,7 +35,7 @@ infobox:
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Vào thời kỳ đầu *[Book of Lost Tales](../B/Book_of_Lost_Tales.md)*, nơi đây được biết đến là hang động vĩ đại của **Gió hỗn loạn**, nơi [Những người lưu vong của Gondolin](../E/Exiles_of_Gondolin.md) đi qua trong chuyến lang thang của họ.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Vào thời kỳ đầu *[Book of Lost Tales](../B/Book_of_Lost_Tales.md)*, nơi đây được biết đến là hang động vĩ đại của **Gió hỗn loạn**, nơi [Những người lưu vong từ Gondolin](../E/Exiles_of_Gondolin.md) đi qua trong chuyến lang thang của họ.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 <span></span>
 

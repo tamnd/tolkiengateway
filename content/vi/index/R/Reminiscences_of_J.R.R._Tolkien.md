@@ -151,7 +151,7 @@ sort_keys:
 - [2005](../../main/_/2005.md): www.inf.ed.ac.uk
     - "<a class="external text" href="http://www.inf.ed.ac.uk/events/amcintosh.html" rel="noreferrer noopener" target="_blank">'Angus McIntosh'</a>"
 - [2006](../../main/_/2006.md): www.martingilbert.com/
-    - "<a class="external text" href="http://www.martingilbert.com/tolkein-read-more/" rel="noreferrer noopener" target="_blank">“Điều Tolkien đã dạy tôi về Trận chiến Somme”</a>"
+    - "<a class="external text" href="http://www.martingilbert.com/tolkein-read-more/" rel="noreferrer noopener" target="_blank">“Điều Tolkien đã dạy tôi về Trận Somme”</a>"
 - [2006](../../main/_/2006.md): Andwerve, ngày 08 tháng 1
     - "<a class="external text" href="http://www.tolkienguide.com/modules/wiwimod/index.php?page=Brem+Interview#anchor1" rel="noreferrer noopener" target="_blank">Kết nối với Lịch sử - Phỏng vấn Barbara Remington</a>"
 - [2007](../../main/_/2007.md): Cuốn sách cuối cùng Tolkien được ký trước khi ông qua đời trong cuộc đấu giá của Bonhams
@@ -163,7 +163,7 @@ sort_keys:
 - [2008](../../main/_/2008.md): Trang web Thekindlings
     - "<a class="external text" href="http://www.thekindlings.com/podcasts/dick-staub-interviews-journeys/george-sayer-jack-a-life-of-cs-lewis-podcast-journeys-interview-segment-1-of-1/" rel="noreferrer noopener" target="_blank">Cuộc phỏng vấn podcast Thekindlings với George Sayer</a>"
 - [2008](../../main/_/2008.md): thecuttingedgenews.com
-    - "<a class="external text" href="http://www.thecuttingedgenews.com/index.php?article=716&amp;pageid=23&amp;pagename=Arts" rel="noreferrer noopener" target="_blank">Điều Tolkien đã dạy tôi về Trận chiến Somme</a>"
+    - "<a class="external text" href="http://www.thecuttingedgenews.com/index.php?article=716&amp;pageid=23&amp;pagename=Arts" rel="noreferrer noopener" target="_blank">Điều Tolkien đã dạy tôi về Trận Somme</a>"
 - [2009](../../main/_/2009.md): *Telegraph*, ngày 8 tháng 5
     - "<a class="external text" href="http://www.telegraph.co.uk/culture/books/authorinterviews/5286395/Culture-Clinic-Sister-Wendy-Beckett.html" rel="noreferrer noopener" target="_blank">Phòng khám Văn hóa: Sơ Wendy Beckett</a>" (phỏng vấn Sơ Wendy Beckett)
 - [2009](../../main/_/2009.md): *Examiner*, ngày 26 tháng 10

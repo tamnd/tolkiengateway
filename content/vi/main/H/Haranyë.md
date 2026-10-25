@@ -18,7 +18,7 @@ langlinks:
     url: "https://kontu.wiki/Harany%C3%AB"
 ---
 
-**Haranyë** là thuật ngữ lịch được sử dụng trong bối cảnh [Vua Tính toán](../K/King's_Reckoning.md). Có lẽ là tên của năm cuối cùng của thế kỷ.<sup id="cite_ref-D2_1-0" class="reference"><a href="#cite_note-D2-1">[1]</a></sup>
+**Haranyë** là thuật ngữ lịch được sử dụng trong bối cảnh [Lịch Tính của Nhà Vua](../K/King's_Reckoning.md). Có lẽ là tên của năm cuối cùng của thế kỷ.<sup id="cite_ref-D2_1-0" class="reference"><a href="#cite_note-D2-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

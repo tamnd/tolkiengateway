@@ -27,11 +27,11 @@ images:
 
 Cổng **Helm** là lối vào hẻm núi sâu [Helm's Deep](Helm's_Deep.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> ở phía bắc của [Dãy Núi Trắng](../W/White_Mountains.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Nó được củng cố bởi [Bức tường sâu](../D/Deeping_Wall.md),<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> chạy từ phía nam của bức tường vách đá của hẻm núi đến [Hornburg](Hornburg.md), một pháo đài trên một gót đá được đẩy ra ngoài từ phía bắc của bức tường vách đá, để chặn lối vào Helm's Deep.<sup id="cite_ref-Deep_4-0" class="reference"><a href="#cite_note-Deep-4">[4]</a></sup>
+Nó được củng cố bởi [Tường thành Deeping](../D/Deeping_Wall.md),<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> chạy từ phía nam của bức tường vách đá của hẻm núi đến [Hornburg](Hornburg.md), một pháo đài trên một gót đá được đẩy ra ngoài từ phía bắc của bức tường vách đá, để chặn lối vào Helm's Deep.<sup id="cite_ref-Deep_4-0" class="reference"><a href="#cite_note-Deep-4">[4]</a></sup>
 
 [Dòng nước sâu](../D/Deeping-stream.md) chảy ra khỏi Helm's Deep qua một cống rộng ở cuối Tường sâu vào [Westfold Thung lũng](../W/Westfold_Vale.md).<sup id="cite_ref-Deep_4-1" class="reference"><a href="#cite_note-Deep-4">[4]</a></sup>
 
-Vào ngày [3](../_/3_March.md)-[4 tháng 3](../_/4_March.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md) lực lượng của [Théoden](../T/Théoden.md), [Vua Rohan](../K/King_of_Rohan.md), bảo vệ Bức tường sâu và Hornburg chống lại đội quân [Saruman](../S/Saruman.md) trong [Trận Hornburg](../B/Battle_of_the_Hornburg.md),<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> trong trận chiến này, bức tường bảo vệ cổng đã bị phá hủy một phần.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Vào ngày [3](../_/3_March.md)-[4 tháng 3](../_/4_March.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md) lực lượng của [Théoden](../T/Théoden.md), [Vua Rohan](../K/King_of_Rohan.md), bảo vệ Tường thành Deeping và Hornburg chống lại đội quân [Saruman](../S/Saruman.md) trong [Trận Hornburg](../B/Battle_of_the_Hornburg.md),<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> trong trận chiến này, bức tường bảo vệ cổng đã bị phá hủy một phần.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

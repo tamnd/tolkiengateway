@@ -32,7 +32,7 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/K/Kay_Woollard_-_TS_Greeting_Card_-_Pipe-weed.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/2/24/Kay_Woollard_-_TS_Greeting_Card_-_Pipe-weed.jpg/300px-Kay_Woollard_-_TS_Greeting_Card_-_Pipe-weed.jpg" decoding="async" loading="lazy" width="300" height="438" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/24/Kay_Woollard_-_TS_Greeting_Card_-_Pipe-weed.jpg/450px-Kay_Woollard_-_TS_Greeting_Card_-_Pipe-weed.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/2/24/Kay_Woollard_-_TS_Greeting_Card_-_Pipe-weed.jpg/600px-Kay_Woollard_-_TS_Greeting_Card_-_Pipe-weed.jpg 2x" data-file-width="2102" data-file-height="3069"/></a><figcaption><i>Pipe-weed</i> by <a href="../K/Kay_Woollard.md" title="Kay Woollard">Kay Woollard</a></figcaption></figure>
 
-**Cỏ ống** (còn được gọi là Lá của Halflings hay đơn giản là Lá) là một loại cây được trồng trọt đáng chú ý nhất bởi [Hobbit](../H/Hobbits.md) của [ Shire](../T/The_Shire.md).
+**Thuốc lá** (còn được gọi là Lá của Halflings hay đơn giản là Lá) là một loại cây được trồng trọt đáng chú ý nhất bởi [Hobbit](../H/Hobbits.md) của [ Shire](../T/The_Shire.md).
 
 ## Thuộc tính {#Properties}
 

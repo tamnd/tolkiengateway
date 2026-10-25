@@ -11,4 +11,4 @@ redirect_target: "Enchanted River"
 redirect_fragment: "Portrayal in adaptations"
 ---
 
-Chuyển hướng đến [Dòng sông mê hoặc](../E/Enchanted_River.md#Portrayal_in_adaptations).
+Chuyển hướng đến [Dòng sông Phép thuật](../E/Enchanted_River.md#Portrayal_in_adaptations).

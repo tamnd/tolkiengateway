@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lonely Troll"
 ---
 
-Chuyển hướng đến [Quỷ cô đơn](../L/Lonely_Troll.md).
+Chuyển hướng đến [Troll Cô Độc](../L/Lonely_Troll.md).

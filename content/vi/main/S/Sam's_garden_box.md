@@ -29,7 +29,7 @@ Trước khi [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) trái [Lothló
 
 Nó chứa đất từ ​​vườn cây Galadriel, đất giống như bụi xám, mềm và mịn, ở giữa là một hạt giống, giống như một quả hạch nhỏ có vỏ màu bạc.
 
-Sau [Càn quét Shire](Scouring_of_the_Shire.md), Sam đã trồng cây con ở tất cả những nơi mà những cây đặc biệt xinh đẹp và yêu quý đã bị phá hủy, đồng thời ông rải một hạt bụi quý vào đất dưới gốc của mỗi cây. Hạt bạc nhỏ mà ông trồng ở [Party Field](../P/Party_Field.md) để thay thế [Cây tiệc tùng](../P/Party_Tree.md), và hạt này đã phát triển thành [Cây vàng](../G/Golden_Tree.md): " Mallorn duy nhất ở phía tây của [Dãy Núi](../M/Misty_Mountains.md) và phía đông của [Biển](../B/Belegaer.md), và là một trong những hạt tốt nhất trên thế giới".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Sau [Càn Cuộc thanh trừng Shire](Scouring_of_the_Shire.md), Sam đã trồng cây con ở tất cả những nơi mà những cây đặc biệt xinh đẹp và yêu quý đã bị phá hủy, đồng thời ông rải một hạt bụi quý vào đất dưới gốc của mỗi cây. Hạt bạc nhỏ mà ông trồng ở [Party Field](../P/Party_Field.md) để thay thế [Cây Hội Tiệc](../P/Party_Tree.md), và hạt này đã phát triển thành [Cây vàng](../G/Golden_Tree.md): " Mallorn duy nhất ở phía tây của [Dãy Núi](../M/Misty_Mountains.md) và phía đông của [Biển](../B/Belegaer.md), và là một trong những hạt tốt nhất trên thế giới".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

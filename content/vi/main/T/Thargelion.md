@@ -36,7 +36,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Người [Sindar](../S/Sindar.md) gọi vùng đất này là *Talath Rhúnen*. Sau Cuộc nổi dậy của [Noldor](../N/Noldor.md), đây là vùng đất của [Caranthir](../C/Caranthir.md), một trong những [các Con trai của Fëanor](../S/Sons_of_Fëanor.md), và sau ông, nó thường được gọi là *[Dor](../D/Dor.md) Caranthir*, "Vùng đất của Caranthir". Ở đó Noldor gặp [Người Lùn của Dãy Núi Xanh](../D/Dwarves_of_the_Blue_Mountains.md).<sup id="cite_ref-bel_1-1" class="reference"><a href="#cite_note-bel-1">[1]</a></sup>
+Người [Sindar](../S/Sindar.md) gọi vùng đất này là *Talath Rhúnen*. Sau Cuộc nổi dậy của [Noldor](../N/Noldor.md), đây là vùng đất của [Caranthir](../C/Caranthir.md), một trong những [các Con trai của Fëanor](../S/Sons_of_Fëanor.md), và sau ông, nó thường được gọi là *[Dor](../D/Dor.md) Caranthir*, "Vùng đất của Caranthir". Ở đó Noldor gặp [Người Lùn ở Dãy Núi Xanh](../D/Dwarves_of_the_Blue_Mountains.md).<sup id="cite_ref-bel_1-1" class="reference"><a href="#cite_note-bel-1">[1]</a></sup>
 
 [Haladin](../H/Haladin.md) cư trú độc lập ở đó một thời gian ngắn, gần con sông Ascar, cho đến khi chúng gần như bị tiêu diệt trong một cuộc đột kích [Orc](../O/Orcs.md). Caranthir đã đề nghị một phần đất đai của mình cho thủ lĩnh của họ, [Haleth](../H/Haleth.md), nhưng cô từ chối và thay vào đó dẫn người của mình đến [Brethil](../B/Brethil.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 

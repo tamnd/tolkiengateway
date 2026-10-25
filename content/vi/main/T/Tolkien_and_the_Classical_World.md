@@ -67,7 +67,7 @@ infobox:
 <dl><dt>Section 3 - In Dialogue with the Greek Philosophers</dt></dl>
 
 - "Atlantis của Plato và truyền thống hậu Platon trong Sự sụp đổ của Númenor của Tolkien" của Michael Kleu
-- Lúc đầu ít ý thức hơn nhưng có ý thức hơn trong bản sửa đổi: Chiếc nhẫn Gyges của Plato như một nguồn cảm hứng giả định cho Chiếc nhẫn quyền lực của Tolkien" của [Łukasz Neubauer](../_/Łukasz_Neubauer.md)
+- Lúc đầu ít ý thức hơn nhưng có ý thức hơn trong bản sửa đổi: Chiếc nhẫn Gyges của Plato như một nguồn cảm hứng giả định cho Nhẫn Quyền Năng của Tolkien" của [Łukasz Neubauer](../_/Łukasz_Neubauer.md)
 - "Kinh dị và cuồng nộ: The Children of Húrin của J.R.R. Tolkien và Lý thuyết bi kịch của Aristoteles" của Julian Eilmann
 
 <dl><dt>Section 4 - Around the Borders of the Classical World</dt></dl>

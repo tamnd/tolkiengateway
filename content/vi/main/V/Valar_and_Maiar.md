@@ -57,7 +57,7 @@ Bên trong, bạn sẽ tìm thấy danh sách theo thứ tự bảng chữ cái 
 - Maiar, hay "Đôi tay", những người hầu bất tử của Valar:
     - Tom Bombadil, bậc thầy của Khu Rừng Cổ và là người lớn tuổi nhất trong số Ainur ở Trung Địa.
     - Eönwë, Sứ giả hùng mạnh của Valar và lãnh chúa vĩ đại nhất trong số Maia.
-    - Melian, Maia đã kết hôn với một vị vua Tiên và trở thành Nữ hoàng của Doriath.
+    - Melian, Maia đã kết hôn với một vị vua Tiên và trở thành Nữ hoàng Doriath.
     - Goldberry, vị thần Nước xinh đẹp có âm nhạc quyến rũ dòng chảy bất diệt của Dòng sông Withywindle.
     - Pháp sư - Alatar, Gandalf, Pallando, Radagast, và Saruman - năm Maia sứ giả được cử đến Trung Địa trong Kỷ Đệ Tam.
 - Rơi Ainur, như:

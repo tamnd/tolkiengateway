@@ -41,7 +41,7 @@ infobox:
 - **Vấn đề trước mắt**
     - Biên tập: "Hãy nói chuyện chuyển thể" của Luke Shelton
 - **Bài viết**
-    - "'Tất cả những gì lấp lánh không phải là vàng': Chiếc nhẫn quyền lực và sự lừa dối của sự so sánh" của Sara Brown
+    - "'Tất cả những gì lấp lánh không phải là vàng': Nhẫn Quyền Năng và sự lừa dối của sự so sánh" của Sara Brown
     - "Trung Địa ở South Park: ‘Sự trở lại của Đoàn Hộ Nhẫn với hai tòa tháp’ dưới dạng nhại lại" của Nick Polk
     - "Các vị thánh và phù thủy: Morwen, Morwenna và Morgan le Fay" của Clare Moore
 - **Ghi chú**

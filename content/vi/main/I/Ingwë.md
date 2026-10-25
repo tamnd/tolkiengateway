@@ -121,7 +121,7 @@ Ingwë là một trong những [Minyar](../M/Minyar.md) sinh năm [Cuiviénen](.
 
 Khi Oromë mời họ đến [Aman](../A/Aman.md), Ingwë, cùng với [Finwë](../F/Finwë.md) và [Elwë](../E/Elwë_Singollo.md), là những người háo hức đến thăm nhất nên đã đi theo ông với tư cách là đại sứ và du hành đến Cõi Phước lành. Khi đến đó, Ingwë mong muốn được "sống trong sự hiện diện của Varda" và không muốn quay lại [Trung Địa](../M/Middle-earth.md).<sup id="cite_ref-Ard_10-0" class="reference"><a href="#cite_note-Ard-10">[10]</a></sup>
 
-Khi trở về, họ đã tổ chức một [cuộc tranh luận lớn](../D/Debate_of_the_Quendi.md) và nói với người dân của mình về vẻ đẹp cũng như niềm hạnh phúc của nó và trở thành những người lãnh đạo của họ trong [Tháng ba vĩ đại](../G/Great_March.md). Ingwë là thủ lĩnh của [Vanyar](../V/Vanyar.md), người đi đầu trong các gia tộc đi theo Oromë, những người mong muốn đạt được <a class="mw-redirect mw-disambig" href="../W/West.md" title="West">Phương Tây</a>nhất và họ đã làm được điều đó một cách nhanh chóng.<sup id="cite_ref-journey_11-0" class="reference"><a href="#cite_note-journey-11">[11]</a></sup>
+Khi trở về, họ đã tổ chức một [cuộc tranh luận lớn](../D/Debate_of_the_Quendi.md) và nói với người dân của mình về vẻ đẹp cũng như niềm hạnh phúc của nó và trở thành những người lãnh đạo của họ trong [Cuộc Đại Hành Trình](../G/Great_March.md). Ingwë là thủ lĩnh của [Vanyar](../V/Vanyar.md), người đi đầu trong các gia tộc đi theo Oromë, những người mong muốn đạt được <a class="mw-redirect mw-disambig" href="../W/West.md" title="West">Phương Tây</a>nhất và họ đã làm được điều đó một cách nhanh chóng.<sup id="cite_ref-journey_11-0" class="reference"><a href="#cite_note-journey-11">[11]</a></sup>
 
 Sau [Đại Hành Trình](../G/Great_Journey.md), Ingwë không bao giờ quay lại hay để mắt tới [Trung Địa](../M/Middle-earth.md) nữa.<sup id="cite_ref-journey_11-1" class="reference"><a href="#cite_note-journey-11">[11]</a></sup>
 
@@ -194,7 +194,7 @@ Và mặc dù Tiên tộc đã chiến thắng, Melko bị đánh bại và bị
 
 Sau chiến tranh, với việc Tiên tộc bị cấm quay trở lại Valinor,<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[26]</a></sup> Ingil, con trai ông đã dẫn họ từ Great Lands đến [Tol Eressëa](../T/Tol_Eressëa.md), Lonely Isle, nơi ông trở thành thủ lĩnh của họ.<sup id="cite_ref-Gil_24-1" class="reference"><a href="#cite_note-Gil-24">[23]</a></sup>
 
-Họ hàng và hậu duệ của ông được gọi là [Inwir](Inwir.md), một trong số đó là [Meril-i-Turinqi](../M/Meril-i-Turinqi.md) chắt gái của ông,<sup id="cite_ref-Dea_22-2" class="reference"><a href="#cite_note-Dea-22">[21]</a></sup> Phu nhân của Tol Eressëa vào thời điểm [Eriol](../E/Eriol.md) Mariner xuất hiện, vào năm c. <a class="extiw" href="http://en.wikipedia.org/wiki/5th_century" title="wikipedia:5th century">Thế kỷ thứ 5 sau Công Nguyên</a>.<sup id="cite_ref-Com_19-1" class="reference"><a href="#cite_note-Com-19">[18]</a></sup>
+Họ hàng và hậu duệ của ông được gọi là [Inwir](Inwir.md), một trong số đó là [Meril-i-Turinqi](../M/Meril-i-Turinqi.md) chắt gái của ông,<sup id="cite_ref-Dea_22-2" class="reference"><a href="#cite_note-Dea-22">[21]</a></sup> Phu nhân Tol Eressëa vào thời điểm [Eriol](../E/Eriol.md) Mariner xuất hiện, vào năm c. <a class="extiw" href="http://en.wikipedia.org/wiki/5th_century" title="wikipedia:5th century">Thế kỷ thứ 5 sau Công Nguyên</a>.<sup id="cite_ref-Com_19-1" class="reference"><a href="#cite_note-Com-19">[18]</a></sup>
 
 Trong một phác thảo, hòn đảo Tol Eressëa cũng được gọi là *[Inwinórë](Inwinórë.md)* theo tên Inwë, nhưng sau đó được đổi thành *[Ingilnórë](Ingilnórë.md)*, để vinh danh con trai ông là Ingil.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[27]</a></sup>
 
@@ -246,7 +246,7 @@ Trong *[Quenta Noldorinwa](../Q/Quenta_Noldorinwa.md)* từ c. [1930](../_/1930.
 
 #### Ba vị đại sứ {#The_Three_Ambassadors}
 
-Ingwe đã được đề cập trong một số văn bản và cuối cùng đã được xuất bản trên *[The Nature of Middle-earth](../T/The_Nature_of_Middle-earth.md)*. Như trong *Silmarillion* đã xuất bản, một số người trong số họ mô tả ông là một trong <a class="new" href="https://tolkiengateway.net/w/index.php?title=Three_Ambassadors&amp;action=edit&amp;redlink=1" title="Three Ambassadors (page does not exist)">Ba Đại sứ</a>, đến Aman và chứng kiến ​​sự huy hoàng của nó.
+Ingwe đã được đề cập trong một số văn bản và cuối cùng đã được xuất bản trên *[The Nature of Middle-earth](../T/The_Nature_of_Middle-earth.md)*. Như trong *Silmarillion* đã xuất bản, một số người trong số họ mô tả ông là một trong <a class="new" href="https://tolkiengateway.net/w/index.php?title=Three_Ambassadors&amp;action=edit&amp;redlink=1" title="Three Ambassadors (page does not exist)">Ba Sứ giả</a>, đến Aman và chứng kiến ​​sự huy hoàng của nó.
 
 Theo một văn bản, các đại sứ sau khi trở về Trung Địa đã nói chuyện với Tiên tộc vào lúc Cuiviénen. Ở đó, Ingwë bày tỏ sự kính trọng đối với ba [Tiên người cha](../E/Elf-fathers.md), lấy làm tiếc rằng bản thân họ không sẵn lòng đến thăm Aman, nhưng anh vẫn hỏi Oromë liệu họ có còn đến đó hay không và tự mình đánh giá xem liệu Tiên tộc có nên lên tàu [Đại Hành Trình](../G/Great_Journey.md) hay không - thật không may, ba người cha Tiên không sẵn lòng đi.
 

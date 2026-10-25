@@ -33,7 +33,7 @@ Trong [2022](../_/2022.md), Fliss đồng giám tuyển triển lãm [J.R.R. Tol
 - [2020](../_/2020.md): [Mythlore 136](../M/Mythlore_136.md)
     - "Trong Tưởng nhớ: Ký ức Marquette về Christopher Tolkien"
 - [2022](../_/2022.md): [J.R.R. Tolkien: The Art of the Manuscript](../J/J.R.R._Tolkien%253A_The_Art_of_the_Manuscript.md)
-    - "Hành trình xuôi dòng sông lớn Wilderland: Lập bản đồ cho *The Lord of the Rings*"
+    - "Hành trình xuôi dòng Đại Hà Wilderland: Lập bản đồ cho *The Lord of the Rings*"
 - [2022](../_/2022.md): [Tolkien Studies: Volume 19 Supplement](../T/Tolkien_Studies%253A_Volume_19_Supplement.md)
     - "Lời nói đầu"
 

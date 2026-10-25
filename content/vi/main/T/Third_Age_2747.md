@@ -20,7 +20,7 @@ sort_keys:
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- [Trận chiến trên cánh đồng xanh](../B/Battle_of_Greenfields.md): [Bandobras Took](../B/Bandobras_Took.md) đánh bại cuộc xâm lược của băng [Orc](../O/Orcs_of_the_Misty_Mountains.md) từ [Mount Gram](../M/Mount_Gram.md) trong [Northfarthing](../N/Northfarthing.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và tiêu diệt [Golfimbul](../G/Golfimbul.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+- [Trận chiến tại Greenfields](../B/Battle_of_Greenfields.md): [Bandobras Took](../B/Bandobras_Took.md) đánh bại cuộc xâm lược của băng [Orc](../O/Orcs_of_the_Misty_Mountains.md) từ [Mount Gram](../M/Mount_Gram.md) trong [Northfarthing](../N/Northfarthing.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và tiêu diệt [Golfimbul](../G/Golfimbul.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

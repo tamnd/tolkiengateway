@@ -47,7 +47,7 @@ sort_keys:
 <li><a href="The_Palantíri.md" title="The Palantíri">Palantíri</a></li></ul>
 </td></tr></tbody></table>
 
-**Dòng Elros: Các vị vua của Númenor** là một chương trong cuốn sách *[Unfinished Tales](../U/Unfinished_Tales.md)*, được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và được con trai ông, [Christopher Tolkien](../C/Christopher_Tolkien.md) xuất bản sau khi di cảo. Ít phải là một câu chuyện thực tế hơn, nó giống một biên niên sử hơn, bao gồm danh sách đầy đủ các [Các vị vua của Númenor](../K/King_of_Númenor.md) từ khi thành lập vương quốc, vào năm [S.A.](../S/Second_Age.md) [32](../S/Second_Age_32.md) cho đến khi vương quốc bị hủy diệt, năm [3319](../S/Second_Age_3319.md).
+**Dòng dõi Elros: Các vị vua của Númenor** là một chương trong cuốn sách *[Unfinished Tales](../U/Unfinished_Tales.md)*, được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và được con trai ông, [Christopher Tolkien](../C/Christopher_Tolkien.md) xuất bản sau khi di cảo. Ít phải là một câu chuyện thực tế hơn, nó giống một biên niên sử hơn, bao gồm danh sách đầy đủ các [Các vị vua của Númenor](../K/King_of_Númenor.md) từ khi thành lập vương quốc, vào năm [S.A.](../S/Second_Age.md) [32](../S/Second_Age_32.md) cho đến khi vương quốc bị hủy diệt, năm [3319](../S/Second_Age_3319.md).
 
 ## Tóm tắt {#Synopsis}
 

@@ -21,7 +21,7 @@ categories:
 
 ## Ví dụ {#Examples}
 
-- <i><a href="Barad-dûr.md" title="Barad-dûr"><b>Barad</b>-dûr</a></i> = "Tháp tối"
+- <i><a href="Barad-dûr.md" title="Barad-dûr"><b>Barad</b>-dûr</a></i> = "Tháp Bóng tối"
 - <i><a class="mw-redirect" href="../E/Emyn_Beraid.md" title="Emyn Beraid">Emyn <b>Beraid</b></a></i> = "Đồi Tháp"
 
 ## Xem thêm {#See_also}

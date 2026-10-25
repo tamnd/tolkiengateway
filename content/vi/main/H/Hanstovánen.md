@@ -34,7 +34,7 @@ Tên *Amnos* được sửa đổi từ *Emnon*, là một sửa đổi từ *Mo
 
 Lời tiên tri của [Amnon](../A/Amnon.md) được [Turgon](../T/Turgon.md) tham chiếu trong *[The Tale of the Fall of Gondolin](<../T/The_Fall_of_Gondolin_(chapter).md>)* giống với Lời tiên tri của Amnos, nhưng ở đây Amnon là một nhà tiên tri chứ không phải là một địa điểm. Một vài ghi chú khác cho Lost Tales đề cập đến Lời tiên tri về Amnon, nhưng chúng không nói rõ Amnon là một người hay một địa điểm.<sup id="cite_ref-notes_2-2" class="reference"><a href="#cite_note-notes-2">[2]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:172</sup>
 
-Trong *[The Silmarillion](../T/The_Silmarillion.md)*, [Sự diệt vong của Noldor](../D/Doom_of_the_Noldor~13942.md) được đưa ra ở vùng đất [Araman](../A/Araman.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Trong *[The Silmarillion](../T/The_Silmarillion.md)*, [Tai họa của Noldor](../D/Doom_of_the_Noldor~13942.md) được đưa ra ở vùng đất [Araman](../A/Araman.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Xem thêm {#See_also}
 

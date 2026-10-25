@@ -55,7 +55,7 @@ Lịch <i><b>J.R.R. Tolkien 1995</b></i> là lịch Tolkien chính thức đư�
 - Tháng 6 - "[ Cánh Cửa Đêm](../../file/J/John_Howe_-_The_Door_of_Night.jpg.md)"
 - Tháng 7 - "[Minas Tirith](../../file/J/John_Howe_-_The_Watchful_Peace.jpg.md)"
 - Tháng 8 - "[The Fall of Gondolin](../../file/J/John_Howe_-_The_Fall_of_Gondolin.jpg.md)"
-- tháng Chín - "[Ulmo, Chúa tể của Nước](../../file/J/John_Howe_-_Ulmo,_Lord_of_the_Waters.jpg.md)"
+- tháng Chín - "[Ulmo, Chúa tể Nước](../../file/J/John_Howe_-_Ulmo,_Lord_of_the_Waters.jpg.md)"
 - Tháng 10 - "[Melkor và Ungoliantë trước Hai Cây](../../file/J/John_Howe_-_The_Killing_of_the_Trees.jpg.md)"
 - Tháng 11 - Thử thách của "[Fingolfin đối với Morgoth](../../file/J/John_Howe_-_Fingolfin's_Challenge.jpg.md)"
 - Tháng 12 - "[Ngày Cuộc vây hãm Angband](../../file/J/John_Howe_-_The_Siege_of_Angband.jpg.md)"

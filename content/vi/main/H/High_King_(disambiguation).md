@@ -20,7 +20,7 @@ images:
 - [Đại Vương của Arda](../K/King_of_Arda.md), danh hiệu [Manwë](../M/Manwë.md), vĩ đại nhất trong [Valar](../V/Valar.md).
 - [Đại Vương của Arnor](../K/King_of_Arnor.md), tước hiệu được sử dụng bởi những người cai trị của [Arnor](../A/Arnor.md).
 - [Đại Vương của Tiên tộc](High_King_of_the_Elves.md), danh hiệu [Ingwë](../I/Ingwë.md) là cao quý nhất trong tất cả [Tiên tộc](../E/Elves.md).
-- [Đại Vương của Noldor](High_King_of_the_Noldor.md), danh hiệu được sử dụng bởi bốn thủ lĩnh của [Noldor](../N/Noldor.md) trong [Trung Địa](../M/Middle-earth.md).
+- [Đại Vương Noldor](High_King_of_the_Noldor.md), danh hiệu được sử dụng bởi bốn thủ lĩnh của [Noldor](../N/Noldor.md) trong [Trung Địa](../M/Middle-earth.md).
 
 <hr style="margin-top:15px;"/>
 

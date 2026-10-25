@@ -42,7 +42,7 @@ infobox:
     - Bởi Thomas Morwinsky
 - "Palantiri"
     - Bởi Chris Seeman
-- "Hiệp hội mạo hiểm và Númenórean thuộc địa"
+- "Hiệp hội Nhà thám hiểm và Númenórean thuộc địa"
     - Bởi Eric Dubourg
 - "Bản in đẹp"
 - "Giấy phép Creative Commons"

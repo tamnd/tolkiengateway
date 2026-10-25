@@ -57,7 +57,7 @@ Fereveldir là [Galadhrim](../G/Galadhrim.md) của [Lothlórien](../L/Lothlóri
 
 Khi [Rohirrim](../R/Rohirrim.md), dưới sự chỉ huy của [Théoden](../T/Théoden.md) [Vua](../K/King_of_Rohan.md), rút ​​lui về [ Hornburg](../H/Hornburg.md) ở [Helm's Deep](../H/Helm's_Deep.md), [Saruman phe Trắng](../S/Saruman.md) đã cử một đội quân hơn mười nghìn [Uruk-hai](../U/Uruk-hai.md) đến tấn công họ. Khi Chúa [Elrond](../E/Elrond.md) của [Rivendell](../R/Rivendell.md) và Quý bà [Galadriel](../G/Galadriel.md) và Chúa [Celeborn](../C/Celeborn.md) của Lothlórien biết được điều này, họ đã quyết định tôn vinh lòng trung thành lâu đời giữa [Con Người](../M/Men.md) và [Tiên tộc](../E/Elves.md). Họ cử một lực lượng liên hợp gồm Tiên tộc, do [Haldir](../H/Haldir.md) chỉ huy, để hỗ trợ Rohirrim trong trận chiến chống lại quân Uruk. [Thandronen](../T/Thandronen.md), [Ferevellon](Ferevellon.md) và Fereveldir là một phần của lực lượng này được gửi đến Hornburg.
 
-Fereveldir đóng quân ở tiền tuyến của Bức tường sâu, bên trái [Legolas](../L/Legolas.md) và [Gimli](../G/Gimli.md). Trận chiến bắt đầu và Fereveldir bắn mũi tên vào Uruk-hai.
+Fereveldir đóng quân ở tiền tuyến của Tường thành Deeping, bên trái [Legolas](../L/Legolas.md) và [Gimli](../G/Gimli.md). Trận chiến bắt đầu và Fereveldir bắn mũi tên vào Uruk-hai.
 
 Cuối cùng, Haldir và phần còn lại của quân tiếp viện Tiên đã bị tiêu diệt trong Trận chiến. Tuy nhiên, những nỗ lực của họ không phải là vô ích, vì một số ít Rohirrim còn sống đã có thể cầm cự cho đến khi [Gandalf](../G/Gandalf.md) đến cùng với [Éored](../_/Éored.md) của [Éomer](../_/Éomer.md) và buộc quân Uruk phải rút lui vào rừng, nơi họ bị giết bởi [Huorn](../H/Huorns.md).
 

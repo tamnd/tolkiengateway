@@ -42,7 +42,7 @@ infobox:
 
 ## Văn bản bìa/áo khoác {#Cover/Jacket_Text}
 
-Đi theo Con đường Khu Rừng Cổ vào trung tâm Mirkwood và bạn sẽ thấy mình đang ở trong khu rừng sâu, tối tăm từng đầy cá và thú săn. Khu rừng yên tĩnh lạ lùng kể từ khi Mordor phủ bóng đen chết chóc của nó lên khắp vùng đất. Chỉ có Nhện khổng lồ là có vẻ hài lòng khi chúng nằm trong hang ổ tối tăm của mình.
+Đi theo Con Đường Rừng Cổ vào trung tâm Mirkwood và bạn sẽ thấy mình đang ở trong khu rừng sâu, tối tăm từng đầy cá và thú săn. Khu rừng yên tĩnh lạ lùng kể từ khi Mordor phủ bóng đen chết chóc của nó lên khắp vùng đất. Chỉ có Nhện khổng lồ là có vẻ hài lòng khi chúng nằm trong hang ổ tối tăm của mình.
 
 Giáp với con sông Anduin hùng vĩ ở phía tây và Dãy Núi Xám ở phía bắc, vùng đất hoang dã bao gồm các vùng cao nguyên hiểm trở như Dãy Đồi Sắt và Dãy Núi cổ kính Mirkwood, cũng như các tuyến đường thủy nổi tiếng như River Running và Long Lake. Các vùng đồng bằng Rhovanion ở phía đông khu rừng cung cấp đất nông nghiệp và đồng cỏ màu mỡ nhưng đang bị đe dọa bởi các bộ tộc người phương Đông. Miền Nam Mirkwood đã chìm trong bóng tối. Ở đó, Dol Guldur, pháo đài sương mù bao phủ Necromancer, đóng vai trò là tiền đồn của Chúa tể Bóng tối- từ đó tỏa ra mùi hôi thối của cái ác và bóng tối của cái chết.
 

@@ -49,7 +49,7 @@ infobox:
 
 **Meneldor** là một [Đại bàng vĩ đại](../G/Great_Eagle.md) của vùng núi phía bắc, một trong những tín đồ của [Gwaihir Chúa tể gió](../G/Gwaihir.md).
 
-Anh nằm trong phi đội Đại Bàng đã bay đến hỗ trợ [Thuyền trưởng của Phương Tây](../C/Captains_of_the_West.md) trong trận chiến tuyệt vọng cuối cùng trước [Cổng Đen](../B/Black_Gate.md) của [Mordor](Mordor.md). Cùng với lãnh chúa Gwaihir và anh trai của Gwaihir [Landroval](../L/Landroval.md), ông đã bay vào [Vùng đất đen](Mordor.md) để giải cứu [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md), đồng thời mang theo một trong hai người này (chúng tôi không được biết là ai) thoát khỏi sự tàn phá của [Núi Diệt Vong](Mount_Doom.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Anh nằm trong phi đội Đại Bàng đã bay đến hỗ trợ [Các Thống lĩnh Phương Tây](../C/Captains_of_the_West.md) trong trận chiến tuyệt vọng cuối cùng trước [Cổng Đen](../B/Black_Gate.md) của [Mordor](Mordor.md). Cùng với lãnh chúa Gwaihir và anh trai của Gwaihir [Landroval](../L/Landroval.md), ông đã bay vào [Vùng đất đen](Mordor.md) để giải cứu [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md), đồng thời mang theo một trong hai người này (chúng tôi không được biết là ai) thoát khỏi sự tàn phá của [Núi Diệt Vong](Mount_Doom.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

@@ -33,7 +33,7 @@ images:
 - Sam người làm vườn – Tolkien yêu thích cây cối (và có thể cả việc làm vườn)
 - Năm ngoái, khu bảo tồn thiên nhiên Birmingham được cho là đã truyền cảm hứng cho các phần trong tiểu thuyết của Tolkien đã được đổi tên thành Công viên Quốc gia The Shire, theo tên nơi người Hobbit sinh sống ở Trung Địa.
 
-Nó bao gồm Moseley Bog, có niên đại từ Thời đại đồ đồng và được cho là đã truyền cảm hứng cho chữ "Khu Rừng Cổ" trong sách. Nhà máy Sarehole, gần ngôi nhà của gia đình và hiện là bảo tàng, được coi là "nhà máy lớn" của The Shire.
+Nó bao gồm Moseley Bog, có niên đại từ Thời đại đồ đồng và được cho là đã truyền cảm hứng cho chữ "Khu Rừng Cổ" trong sách. Cối xay Sarehole, gần ngôi nhà của gia đình và hiện là bảo tàng, được coi là "nhà máy lớn" của The Shire.
 
 - tháp đồng hồ của trường đại học Birmingham - mắt của sauron, orthanc ?
 
@@ -309,7 +309,7 @@ Cô bắt đầu vuốt ve mái tóc dày của mình một cách chậm rãi, s
 - Hobbit – RC trang. 3, 5, 8
 - Hobbit – người lùn
 - Bullroarer (tên) – danh pháp
-- Sử dụng Beowulf trong "The Vua của Sảnh Vàng"
+- Sử dụng Beowulf trong "The Vua của Đại Sảnh Vàng"
 - Tolkien tại Vùng đất Arthur: Tập Khu Rừng Cổ
 - <a class="external free" href="http://www.travellady.com/Issues/Issue64/64E-hobbits.htm" rel="noreferrer noopener" target="_blank">http://www.travellady.com/Issues/Issue64/64E-hobbits.htm</a>
 - <a class="external free" href="http://pourtolkien.free.fr/jardillierArthur.html" rel="noreferrer noopener" target="_blank">http://pourtolkien.free.fr/jardillierArthur.html</a>
@@ -806,7 +806,7 @@ Bài thơ Người tình của tầm nhìn của Thompson. Như đã lưu ý tr�
 
 Thư j R. R. Tolkien, trang 383 – 4)
 
-- một tham chiếu văn học tinh tế đến Vua Lear kết nối tam giác Chúa tể của Nazgûl, Denethor và kẻ điên Vua của Shakespeare. , còn có cả Eric Brighteyes của Haggard
+- một tham chiếu văn học tinh tế đến Vua Lear kết nối tam giác Chúa tể Nhẫn Ma, Denethor và kẻ điên Vua của Shakespeare. , còn có cả Eric Brighteyes của Haggard
 
 - Ông. Howard Green, Snorri-cum-Lönnrot tưởng tượng của Tolkien, là một kiểu người quen thuộc trong tiểu thuyết phiêu lưu thế kỷ 19, một biên tập viên giả tưởng xa xôi nhưng thực tế, người tạo cơ hội cho câu chuyện và xen vào những ghi chú và bình luận giải thích. H. Rider Haggard rất thích thiết bị này nên đã sử dụng nó trong She và Vua Solomon's Mines, và Tolkien đã theo bước ông.
 

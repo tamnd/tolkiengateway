@@ -70,13 +70,13 @@ infobox:
 - Tuổi thơ của Túrin, phần chín (3:45)
 - Tuổi thơ Túrin, phần mười (3:45)
 
-**Chương II: [Trận chiến của những giọt nước mắt không đếm được](The_Battle_of_Unnumbered_Tears.md)**
+**Chương II: [Trận chiến Nước mắt Vô số](The_Battle_of_Unnumbered_Tears.md)**
 
-- Trận chiến của những giọt nước mắt không đếm được, phần một (3:33)
-- Trận chiến của những giọt nước mắt không đếm được, phần hai (3:04)
-- Trận chiến của những giọt nước mắt không đếm được, phần ba (3:09)
-- Trận chiến của những giọt nước mắt không đếm được, phần bốn (4:24)
-- Trận chiến của những giọt nước mắt không đếm được, phần năm (4:02)
+- Trận chiến Nước mắt Vô số, phần một (3:33)
+- Trận chiến Nước mắt Vô số, phần hai (3:04)
+- Trận chiến Nước mắt Vô số, phần ba (3:09)
+- Trận chiến Nước mắt Vô số, phần bốn (4:24)
+- Trận chiến Nước mắt Vô số, phần năm (4:02)
 
 **Chương III: [Lời của Húrin và Morgoth](The_Words_of_Húrin_and_Morgoth.md)**
 

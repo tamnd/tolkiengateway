@@ -55,7 +55,7 @@ images:
 
 ### Mở đầu {#Prelude}
 
-Tình trạng bất ổn tạo ra xung đột Kin bắt đầu khi hoàng tử [Valacar](../V/Valacar.md), con trai của [Vua](King_of_Gondor.md) <a class="mw-redirect mw-disambig" href="../R/Rómendacil.md" title="Rómendacil">Rómendacil</a>, kết hôn với một người phụ nữ [Người phương Bắc của Rhovanion](../N/Northmen_of_Rhovanion.md), [Vidumavi](../V/Vidumavi.md). Cô sinh cho ông một đứa con trai [Eldacar](<../E/Eldacar_(King_of_Gondor).md>), nhưng nhiều [người Gondor](../G/Gondorians.md) dòng máu [Númenórean](../N/Númenóreans.md) tức giận vì sự pha trộn dòng máu của những người đàn ông thấp kém hơn và người Númenor.<sup id="cite_ref-Gondor_1-0" class="reference"><a href="#cite_note-Gondor-1">[1]</a></sup>
+Tình trạng bất ổn tạo ra xung đột Kin bắt đầu khi hoàng tử [Valacar](../V/Valacar.md), con trai của [Vua](King_of_Gondor.md) <a class="mw-redirect mw-disambig" href="../R/Rómendacil.md" title="Rómendacil">Rómendacil</a>, kết hôn với một người phụ nữ [Người phương Bắc Rhovanion](../N/Northmen_of_Rhovanion.md), [Vidumavi](../V/Vidumavi.md). Cô sinh cho ông một đứa con trai [Eldacar](<../E/Eldacar_(King_of_Gondor).md>), nhưng nhiều [người Gondor](../G/Gondorians.md) dòng máu [Númenórean](../N/Númenóreans.md) tức giận vì sự pha trộn dòng máu của những người đàn ông thấp kém hơn và người Númenor.<sup id="cite_ref-Gondor_1-0" class="reference"><a href="#cite_note-Gondor-1">[1]</a></sup>
 
 ### Xung đột {#Conflicts}
 

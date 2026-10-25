@@ -40,7 +40,7 @@ infobox:
 
 Không có nhiều thông tin về Daffodil Burrows. Vào một thời điểm cuối [Kỷ Đệ Nhị](../S/Second_Age.md), cô bị lạc [Sói](../W/Wolves.md) trong một chuyến di cư theo mùa, để lại chồng mình, [Sadoc Burrows](../S/Sadoc_Burrows.md), đau buồn về tinh thần cho cô trong buổi lễ tưởng nhớ <a class="new" href="https://tolkiengateway.net/w/index.php?title=Harvest_Festival&amp;action=edit&amp;redlink=1" title="Harvest Festival (page does not exist)">Lễ hội thu hoạch</a>.
 
-Sau đó, khi mặt trời mọc sau khi Sadoc bị [Nomad](../M/Mystics.md) trọng thương tại [phương Đông Bight](../E/East_Bight.md), ông chết với niềm tin trong thâm tâm rằng ông sẽ sớm gặp lại vợ mình, Daffodil Burrows.
+Sau đó, khi mặt trời mọc sau khi Sadoc bị [Nomad](../M/Mystics.md) trọng thương tại [Vịnh phía Đông](../E/East_Bight.md), ông chết với niềm tin trong thâm tâm rằng ông sẽ sớm gặp lại vợ mình, Daffodil Burrows.
 
 <span></span>
 

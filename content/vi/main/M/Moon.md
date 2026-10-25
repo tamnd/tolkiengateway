@@ -80,7 +80,7 @@ Quan niệm này được truyền đến [Gondor](../G/Gondor.md), nơi hai ng�
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/G/Gail_McIntosh_-_New_Moon.jpg.md"><img src="https://tolkiengateway.net/w/images/9/93/Gail_McIntosh_-_New_Moon.jpg" decoding="async" loading="lazy" width="294" height="250" class="mw-file-element" data-file-width="294" data-file-height="250"/></a><figcaption><i>New Moon</i> by <a href="../../category/I/Images_by_Gail_McIntosh.md" title="Category:Images by Gail McIntosh">Gail McIntosh</a></figcaption></figure>
 
-Khi [Hobbit](../H/Hobbits.md) vẫn còn là những dân [lang thang](../W/Wandering_Days.md), đơn vị lịch của họ không phải là "tuần", mà là "tháng", ít nhiều bị chi phối bởi Mặt Trăng. Tuy nhiên, thông qua tiếp xúc với các dân tộc ngoài hành tinh (có lẽ là [Dúnedain của Arnor](../D/Dúnedain_of_Arnor.md)), họ đã áp dụng khái niệm tuần và hình thành nên [Shire Tính toán](../S/Shire_Reckoning.md).<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Khi [Hobbit](../H/Hobbits.md) vẫn còn là những dân [lang thang](../W/Wandering_Days.md), đơn vị lịch của họ không phải là "tuần", mà là "tháng", ít nhiều bị chi phối bởi Mặt Trăng. Tuy nhiên, thông qua tiếp xúc với các dân tộc ngoài hành tinh (có lẽ là [Dúnedain của Arnor](../D/Dúnedain_of_Arnor.md)), họ đã áp dụng khái niệm tuần và hình thành nên [Lịch Shire](../S/Shire_Reckoning.md).<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 Trong văn hóa dân gian của người Hobbit, Mặt Trăng được cho là nơi cư ngụ của [Người đàn ông trên Mặt Trăng](Man_in_the_Moon.md).<sup id="cite_ref-Man_7-0" class="reference"><a href="#cite_note-Man-7">[7]</a></sup>
 

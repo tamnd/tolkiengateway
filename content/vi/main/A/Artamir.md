@@ -61,7 +61,7 @@ Trong [T.A.](../T/Third_Age.md) [1944](../T/Third_Age_1944.md) Artamir và cha O
 
 Artamir là con trai cả và là người thừa kế của Ondoher, khi ông qua đời, đường kế vị sẽ chuyển sang những người họ hàng nam thân thiết của [Nhà Anárion](../H/House_of_Anárion.md). Tuy nhiên, em trai Faramir của ông cũng bị giết (ông bí mật cải trang để tham gia trận chiến) cũng như em gái của Vua, [Minohtar](../M/Minohtar.md) và ngai vàng của Gondor vẫn bị bỏ trống.
 
-Em gái ông Fíriel đã kết hôn với [Arvedui](Arvedui.md), con trai và là người thừa kế miền bắc Vua xứ [Arthedain](Arthedain.md), và một phần vì cuộc hôn nhân của ông, ông đã xin được lên ngôi. Tuy nhiên, Quản gia [Pelendur](../P/Pelendur.md) và [Hội đồng Gondor](../C/Council_of_Gondor.md) vị tướng được chọn [Eärnil](../E/Eärnil_II.md), người đã tiêu diệt kẻ thù trong [Trận chiến trong trại](../B/Battle_of_the_Camp.md) và cứu vương quốc, trở thành vị vua tiếp theo.<sup id="cite_ref-Gondor_2-1" class="reference"><a href="#cite_note-Gondor-2">[1]</a></sup>
+Em gái ông Fíriel đã kết hôn với [Arvedui](Arvedui.md), con trai và là người thừa kế miền bắc Vua xứ [Arthedain](Arthedain.md), và một phần vì cuộc hôn nhân của ông, ông đã xin được lên ngôi. Tuy nhiên, Quản gia [Pelendur](../P/Pelendur.md) và [Hội đồng Gondor](../C/Council_of_Gondor.md) vị tướng được chọn [Eärnil](../E/Eärnil_II.md), người đã tiêu diệt kẻ thù trong [Trận chiến tại Trại](../B/Battle_of_the_Camp.md) và cứu vương quốc, trở thành vị vua tiếp theo.<sup id="cite_ref-Gondor_2-1" class="reference"><a href="#cite_note-Gondor-2">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

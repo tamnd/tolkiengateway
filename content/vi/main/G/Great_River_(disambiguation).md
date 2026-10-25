@@ -14,12 +14,12 @@ images:
   - "Disambig.png"
 ---
 
-**Sông lớn** có thể đề cập đến:
+**Đại Hà** có thể đề cập đến:
 
-- **[Anduin](../A/Anduin.md)**, sông còn được gọi là Sông Lớn hay Sông Lớn Wilderland.
-- **[Sông Lớn](../T/The_Great_River.md)**, chương thứ chín của cuốn thứ hai trong *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)*.
+- **[Anduin](../A/Anduin.md)**, sông còn được gọi là Đại Hà hay Đại Hà Wilderland.
+- **[Đại Hà](../T/The_Great_River.md)**, chương thứ chín của cuốn thứ hai trong *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)*.
 
-- [Sông Lớn (cảnh)](<../T/The_Great_River_(scene).md>), cảnh trong phim *[The Lord of the Rings: The Fellowship of the Ring](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)*.
+- [Đại Hà (cảnh)](<../T/The_Great_River_(scene).md>), cảnh trong phim *[The Lord of the Rings: The Fellowship of the Ring](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)*.
 - [The Great River (nhạc phim)](<../T/The_Great_River_(soundtrack).md>), bài thứ mười lăm của *[The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture Soundtrack](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack.md)*.
 
 <hr style="margin-top:15px;"/>

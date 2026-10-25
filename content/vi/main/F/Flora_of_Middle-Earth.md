@@ -168,7 +168,7 @@ infobox:
     - Hoa súng (*Nymphaea alba* và các loài liên quan)
     - Lúa mì (*Triticum aestivum* và họ hàng gần)
     - Hoa trắng của Thung lũng Morgul (dựa trên *Arum* spp.)
-    - Cây Trắng của Gondor (một loài duy nhất trong huyền thoại của J.R.R. Tolkien.)
+    - Cây Trắng Gondor (một loài duy nhất trong huyền thoại của J.R.R. Tolkien.)
     - Liễu (*Salix* spp.)
     - Rau mùi tây (*Anthricus sylvestris*)
     - Yews (*Taxus* spp.)

@@ -41,7 +41,7 @@ infobox:
 
 Gói này trình bày chi tiết về các thung lũng trung tâm phía nam của Dãy Núi Trắng nơi bóng ma của những kẻ phá hoại Lời Thề ám ảnh vùng đất. Khám phá bí mật của Tảng đá Erech Đen huyền bí và khám phá những con đường ngầm của Người chết.
 
-Một ngọn đồi cỏ lớn mọc lên từ những cánh đồng trống trải cách Erech ba dặm. Trên đỉnh ngọn đồi này là Tảng đá Erech bị chôn vùi một nửa. Bằng Viên đá này, Daen Coentis đã thề trung thành với Gondor, và chính tại đây, Đội quân của Người chết sẽ tập hợp lại khi được triệu tập để giải quyết việc phá vỡ Lời Thề của họ. Tuy nhiên, hiện tại, các Bóng ma vẫn đến ngọn đồi mỗi đêm, canh giữ con đường xoắn ốc của nó và bí mật về Viên đá Erech.
+Một ngọn đồi cỏ lớn mọc lên từ những cánh đồng trống trải cách Erech ba dặm. Trên đỉnh ngọn đồi này là Tảng đá Erech bị chôn vùi một nửa. Bằng Viên đá này, Daen Coentis đã thề trung thành với Gondor, và chính tại đây, Đội quân Người Chết sẽ tập hợp lại khi được triệu tập để giải quyết việc phá vỡ Lời Thề của họ. Tuy nhiên, hiện tại, các Bóng ma vẫn đến ngọn đồi mỗi đêm, canh giữ con đường xoắn ốc của nó và bí mật về Viên đá Erech.
 
 GIỚI THIỆU
 

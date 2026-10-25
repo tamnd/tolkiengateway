@@ -21,7 +21,7 @@ images:
 - [Edhellond](../E/Edhellond.md), thiên đường [Tiên](../E/Elves.md) ở phía nam [Gondor](../G/Gondor.md).
 - [Eldalondë](../E/Eldalondë.md), thiên đường của [Númenor](../N/Númenor.md).
 - [Harlond](<Harlond_(Lindon).md>) hay [Forlond](../F/Forlond.md), thiên đường của [Lindon](../L/Lindon.md).
-- Các [Nơi trú ẩn của Falas](Havens_of_the_Falas.md) ở [Beleriand](../B/Beleriand.md): [Brithombar](../B/Brithombar.md) và [Eglarest](../E/Eglarest.md)
+- Các [Cảng Falas](Havens_of_the_Falas.md) ở [Beleriand](../B/Beleriand.md): [Brithombar](../B/Brithombar.md) và [Eglarest](../E/Eglarest.md)
 - [Mithlond](../G/Grey_Havens.md), [Cảng Xám](../G/Grey_Havens.md) của [Eriador](../E/Eriador.md).
 
 <hr style="margin-top:15px;"/>

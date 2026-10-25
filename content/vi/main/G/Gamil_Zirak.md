@@ -57,7 +57,7 @@ infobox:
 
 Gamil Zirak là một thợ rèn Người Lùn, bậc thầy của Telchar Nogrod, người tạo ra nhiều tác phẩm nổi tiếng. Bản thân Gamil Zirak là một thợ thủ công vĩ đại và các kho bạc của [Thingol](../T/Thingol.md) được biết đến là nơi lưu giữ các ví dụ về công việc của ông.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Mặc dù điều này không được nêu rõ ràng trong văn bản, nhưng việc Gamil Zirak là chủ nhân của Telchar của Nogrod khiến có khả năng ông cũng sống ở thành phố đó.
+Mặc dù điều này không được nêu rõ ràng trong văn bản, nhưng việc Gamil Zirak là chủ nhân của Telchar xứ Nogrod khiến có khả năng ông cũng sống ở thành phố đó.
 
 Cho dù ông sống ở Nogrod hay thành phố lân cận [Belegost](../B/Belegost.md), thì có khả năng Gamil Zirak là một trong những [Firebeards](../F/Firebeards.md) hoặc [Broadbeams](../B/Broadbeams.md), hai ngôi nhà người lùn định cư ở [Dãy Núi Xanh](../B/Blue_Mountains.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Cũng có khả năng là, ngoài [Khuzdul](../K/Khuzdul.md), ông còn nói [Sindarin](../S/Sindarin.md), vì đó là phong tục của Người Lùn.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 

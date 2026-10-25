@@ -28,7 +28,7 @@ Cuộc nổi loạn của - <a class="new" href="https://tolkiengateway.net/w/in
 ## Mùa đông năm 2758-2759 {#Winter_of_2758-2759}
 
 - Tiếp theo là [Mùa Đông Dài](../L/Long_Winter.md), bắt đầu vào [Tháng 11](../N/November.md). Đau khổ và mất mát lớn lao ở [Eriador](../E/Eriador.md) và [Rohan](../R/Rohan.md).<sup id="cite_ref-TA_1-4" class="reference"><a href="#cite_note-TA-1">[1]</a></sup>
-- [Gandalf](../G/Gandalf.md) đến trợ giúp [Shire-dân gian](../S/Shire-folk.md).<sup id="cite_ref-TA_1-5" class="reference"><a href="#cite_note-TA-1">[1]</a></sup>
+- [Gandalf](../G/Gandalf.md) đến trợ giúp [Dân Shire](../S/Shire-folk.md).<sup id="cite_ref-TA_1-5" class="reference"><a href="#cite_note-TA-1">[1]</a></sup>
 
 <span></span>
 

@@ -60,7 +60,7 @@ infobox:
 
 Ông nối nghiệp cha mình trong chức vụ Thủ lĩnh khi Araglas qua đời vào năm 2455.
 
-Sự cai trị của ông trùng hợp với sự kết thúc của [Hòa bình thận trọng](../W/Watchful_Peace.md), khi [Sauron](../S/Sauron.md) quay trở lại [Dol Guldur](../D/Dol_Guldur.md) với sức mạnh ngày càng tăng.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Cũng trong thời gian cai trị của ông, [orc](../O/Orcs.md) bắt đầu gia tăng và nhân lên trong [Dãy Núi Sương Mù](../M/Misty_Mountains.md); đó là lúc họ lộ diện, rình rập [Celebrían](../C/Celebrían.md) và người hộ tống cô.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Sự cai trị của ông trùng hợp với sự kết thúc của [Thời kỳ Hòa bình Cảnh giác](../W/Watchful_Peace.md), khi [Sauron](../S/Sauron.md) quay trở lại [Dol Guldur](../D/Dol_Guldur.md) với sức mạnh ngày càng tăng.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Cũng trong thời gian cai trị của ông, [orc](../O/Orcs.md) bắt đầu gia tăng và nhân lên trong [Dãy Núi Sương Mù](../M/Misty_Mountains.md); đó là lúc họ lộ diện, rình rập [Celebrían](../C/Celebrían.md) và người hộ tống cô.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 Arahad qua đời vào năm [2523](../T/Third_Age_2523.md), sau khi cai trị được 68 năm, và kế vị là con trai ông, [Aragost](Aragost.md).<sup id="cite_ref-North_2-1" class="reference"><a href="#cite_note-North-2">[2]</a></sup>
 

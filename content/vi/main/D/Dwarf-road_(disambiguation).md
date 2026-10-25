@@ -21,8 +21,8 @@ images:
 
 **Người Lùn-road** dùng để chỉ hai con đường khác nhau rõ rệt:
 
-- [Người Lùn-đường Beleriand](Dwarf-road_of_Beleriand.md), được xây dựng bởi [Người Lùn](Dwarves.md) của [Dãy Núi Xanh](../B/Blue_Mountains.md) để thông thương với [Tiên tộc](../E/Elves.md) của [Beleriand](../B/Beleriand.md).
-- Người Lùn-con đường Mirkwood, còn được gọi là [Khu Rừng Cổ Đường](../O/Old_Forest_Road.md), được xây dựng bởi [Durin's Folk](Durin's_Folk~15256.md) để đi lại giữa các vương quốc của họ.
+- [Đường Người Lùn Beleriand](Dwarf-road_of_Beleriand.md), được xây dựng bởi [Người Lùn](Dwarves.md) của [Dãy Núi Xanh](../B/Blue_Mountains.md) để thông thương với [Tiên tộc](../E/Elves.md) của [Beleriand](../B/Beleriand.md).
+- Người Lùn-con đường Mirkwood, còn được gọi là [Đường Rừng Cổ](../O/Old_Forest_Road.md), được xây dựng bởi [Durin's Folk](Durin's_Folk~15256.md) để đi lại giữa các vương quốc của họ.
 
 <hr style="margin-top:15px;"/>
 

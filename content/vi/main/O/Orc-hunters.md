@@ -45,7 +45,7 @@ Vào [16 tháng 3](../_/16_March.md) năm [T.A.](../T/Third_Age.md) [3019](../T/
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong một bản phác thảo trước dạng đầu tiên của câu chuyện về [Túrin](../T/Túrin.md), Nienor đã bị đưa vào một khu rừng bởi một đồ uống độc hại do [Kurúki](../K/Kurúki.md),<sup id="cite_ref-Kurúki_6-0" class="reference"><a href="#cite_note-Kurúki-6">[6]</a></sup> đưa cho cô thay vì một nhóm Orc thợ săn<sup id="cite_ref-band_4-1" class="reference"><a href="#cite_note-band-4">[4]</a></sup>.
+Trong một bản phác thảo trước dạng đầu tiên của câu chuyện về [Túrin](../T/Túrin.md), Nienor đã bị đưa vào một khu rừng bởi một đồ uống độc hại do [Kurúki](../K/Kurúki.md),<sup id="cite_ref-Kurúki_6-0" class="reference"><a href="#cite_note-Kurúki-6">[6]</a></sup> đưa cho cô thay vì một nhóm Thợ săn Orc<sup id="cite_ref-band_4-1" class="reference"><a href="#cite_note-band-4">[4]</a></sup>.
 
 In a discarded revision of chapter five of *[The Hobbit](../T/The_Hobbit.md)*, [Gollum](../G/Gollum.md) is described as a "foul orc-&lt;illegible&gt;" by [Bilbo Baggins](../B/Bilbo_Baggins.md). [John D. Rateliff](../J/John_D._Rateliff.md) notes that, though the second half of the word is illegible, it was probably "hunter" and not "thing" because the word lacked "a descender at the end".<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 

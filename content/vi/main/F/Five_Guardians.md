@@ -23,7 +23,7 @@ Trong khi đó, đó là một nhóm [Maiar](../M/Maiar.md) tuyệt vời để 
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-*[The Annals of Aman](../T/The_Annals_of_Aman.md)* đề cập đến bộ bảo vệ Valian để bảo vệ Tiên tộc, nhưng bản chất của nó không được chỉ định. Năm người bảo vệ xuất hiện trong phiên bản muộn và chưa hoàn thiện của [huyền thoại](../L/Legendarium.md), được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) trong khi sửa đổi những ngày quan trọng của [Những năm Valian](../V/Valian_Years.md). Theo nhận xét của biên tập viên [Carl F. Hostetter](../C/Carl_F._Hostetter.md), năm Maiar này rõ ràng là [Istari](../I/Istari.md) sau, nhưng hai tên cuối cùng không được chỉ định,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> nên không rõ liệu chúng có tương ứng với [Blue Pháp sư](../B/Blue_Wizards.md) trước đó hay không. <span></span>
+*[The Annals of Aman](../T/The_Annals_of_Aman.md)* đề cập đến bộ bảo vệ Valian để bảo vệ Tiên tộc, nhưng bản chất của nó không được chỉ định. Năm người bảo vệ xuất hiện trong phiên bản muộn và chưa hoàn thiện của [huyền thoại](../L/Legendarium.md), được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) trong khi sửa đổi những ngày quan trọng của [Những năm Valian](../V/Valian_Years.md). Theo nhận xét của biên tập viên [Carl F. Hostetter](../C/Carl_F._Hostetter.md), năm Maiar này rõ ràng là [Istari](../I/Istari.md) sau, nhưng hai tên cuối cùng không được chỉ định,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> nên không rõ liệu chúng có tương ứng với [Pháp sư Xanh](../B/Blue_Wizards.md) trước đó hay không. <span></span>
 
 ## Tài liệu tham khảo {#References}
 

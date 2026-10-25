@@ -61,7 +61,7 @@ Lịch <i><b>Tolkien 2011</b></i> là lịch Tolkien chính thức được xu�
 - Tháng 8 - "The Trận Hornburg"
 - tháng Chín - "Sự tàn sát của Nazgûl"
 - Tháng 10 - "Những bậc thang Cirith Ungol"
-- Tháng 11 - "Bể Cấm"
+- Tháng 11 - "Hồ Cấm"
 - Tháng 12 - "[Con bò nhảy qua Mặt Trăng](../../file/C/Cor_Blok_-_The_Cow_jumped_over_the_Moon.jpg.md)"
 
 ## Biến thể {#Variants}

@@ -58,7 +58,7 @@ Về sau, [Manwë](../M/Manwë.md) ngồi cùng Yavanna trên Ezellohar, bên d�
 
 Trong một [đại yến tiệc](../H/High_feast.md), [Melkor](../M/Morgoth.md) và [Ungoliant](../U/Ungoliant.md) tiến đến Ezellohar. [Bóng Tối](../U/Unlight.md) của Ungoliant nuốt chửng những chiếc rễ, trong khi Melkor bước lên ngọn đồi và dùng ngọn giáo đen của mình sát hại Hai Cây. Nhựa cây từ Hai Cây tuôn xuống Ezellohar như máu, rồi bị Ungoliant hút cạn, trước khi ả hút khô [Giếng Varda](../W/Wells_of_Varda.md) và bao phủ ngọn đồi xanh bằng một màn hơi đen.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
-Khi những cơn gió của Manwë thổi tan màn hơi đen, Yavanna đến Ezellohar và chỉ thấy nơi ấy đã trở nên trơ trụi, đen kịt. Sau khi [Fëanor](../F/Fëanor.md) từ chối phá vỡ các [Silmaril](../S/Silmarils.md) để khôi phục Hai Cây, [Nienna](../N/Nienna.md) bước lên Ezellohar, hất chiếc mũ trùm màu xám ra sau và gột rửa những vết ô uế mà Ungoliant đã gây ra trên ngọn đồi xanh. Bà cất lên một khúc ca ai oán, đau đớn thương tiếc [Sự Hủy Hoại Arda](../A/Arda_Marred.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Khi những cơn gió của Manwë thổi tan màn hơi đen, Yavanna đến Ezellohar và chỉ thấy nơi ấy đã trở nên trơ trụi, đen kịt. Sau khi [Fëanor](../F/Fëanor.md) từ chối phá vỡ các [Silmaril](../S/Silmarils.md) để khôi phục Hai Cây, [Nienna](../N/Nienna.md) bước lên Ezellohar, hất chiếc mũ trùm màu xám ra sau và gột rửa những vết ô uế mà Ungoliant đã gây ra trên ngọn đồi xanh. Bà cất lên một khúc ca ai oán, đau đớn thương tiếc [Sự hoen ố Arda](../A/Arda_Marred.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Of the Flight of the Noldor"
 ---
 
-Chuyển hướng đến [Chuyến bay của Noldor](../O/Of_the_Flight_of_the_Noldor.md).
+Chuyển hướng đến [Cuộc Di Tản của người Noldor](../O/Of_the_Flight_of_the_Noldor.md).

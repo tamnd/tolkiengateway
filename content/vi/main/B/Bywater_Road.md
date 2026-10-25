@@ -38,7 +38,7 @@ infobox:
 
 ## Khóa học {#Course}
 
-Về phía tây của [Hòn đá Ba Farthing](../T/Three-Farthing_Stone.md) một chút, một nhánh của Đường phương Đông dốc lên giữa các bờ cao<sup id="cite_ref-rk_1-0" class="reference"><a href="#cite_note-rk-1">[1]</a></sup> dẫn đến làng [Bywater](Bywater.md) mà Đường được đặt tên như vậy. Từ đó, nó tiếp tục đến [Hobbiton](../H/Hobbiton.md), nơi du khách sẽ rẽ phải và băng qua một cây cầu bắc qua [Mặt nước](../T/The_Water.md) khoảng ba mươi dặm để đến [Hobbiton Đồi](../H/Hobbiton_Hill.md) và [Bag End](Bag_End.md). Con đường tiếp tục đi về phía tây, theo hướng [Little Delving](../L/Little_Delving.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Về phía tây của [Phiến đá Ba Khu](../T/Three-Farthing_Stone.md) một chút, một nhánh của Đường phương Đông dốc lên giữa các bờ cao<sup id="cite_ref-rk_1-0" class="reference"><a href="#cite_note-rk-1">[1]</a></sup> dẫn đến làng [Bywater](Bywater.md) mà Đường được đặt tên như vậy. Từ đó, nó tiếp tục đến [Hobbiton](../H/Hobbiton.md), nơi du khách sẽ rẽ phải và băng qua một cây cầu bắc qua [Mặt nước](../T/The_Water.md) khoảng ba mươi dặm để đến [Đồi Hobbiton](../H/Hobbiton_Hill.md) và [Bag End](Bag_End.md). Con đường tiếp tục đi về phía tây, theo hướng [Little Delving](../L/Little_Delving.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Lịch sử {#History}
 

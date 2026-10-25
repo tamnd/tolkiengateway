@@ -51,7 +51,7 @@ HARAD TUYỆT VỜI bao gồm
 - 3 BẢN ĐỒ THÀNH PHỐ ĐẦY MÀU hiển thị [Tûl Isra](../T/Tûl_Isra.md), [Tûl Harar](../T/Tûl_Harar.md) và [Charnesra](../C/Charnesra.md).
 - BỐ CỤC CHI TIẾT về các khu mỏ cổ bên dưới Ghabaras, các hang động ma ám ở Moghóly Dask và các địa điểm phiêu lưu khác.
 - THÔNG TIN CHUYÊN SÂU về các dân tộc, văn hóa, chính trị, tuyến đường thương mại và chiến thuật thống trị các thung lũng sông Greater Harad.
-- THỐNG KÊ VÀ THÔNG TIN CƠ BẢN về những cá nhân nổi bật như [Tartas Izain](../T/Tartas_Izain.md), Taraskon của Tûl Isra và chủ nhân Nazgûl độc ác của hắn, Akhôrahil Storm Vua.
+- THỐNG KÊ VÀ THÔNG TIN CƠ BẢN về những cá nhân nổi bật như [Tartas Izain](../T/Tartas_Izain.md), Taraskon của Tûl Isra và chủ nhân Nazgûl độc ác của hắn, Akhôrahil Vua Bão tố.
 
 ## Xem thêm {#See_also}
 

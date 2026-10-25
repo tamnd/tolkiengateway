@@ -28,7 +28,7 @@ infobox:
 
 ## Nền {#Background}
 
-Bar-en-Nibin-noeg, Ngôi nhà của [Người Lùn Nhỏ](../P/Petty-dwarves.md), là quê hương của [Mîm](../M/Mîm.md) và các con trai ông [Ibun](../I/Ibun.md) và [Khîm](../K/Khîm.md). Khi họ đang kiếm ăn, họ bị nhóm tội phạm của Túrin tấn công và Mîm bị bắt nhưng ông đã mặc cả lấy mạng sống của mình và đòi tiền chuộc ngôi nhà của mình trên [Amon Rûdh](../A/Amon_Rûdh.md), từ đó trở thành Bar-en-Danwedh, [Nhà tiền chuộc](../H/House_of_Ransom.md).
+Bar-en-Nibin-noeg, Ngôi nhà của [Người Lùn Nhỏ](../P/Petty-dwarves.md), là quê hương của [Mîm](../M/Mîm.md) và các con trai ông [Ibun](../I/Ibun.md) và [Khîm](../K/Khîm.md). Khi họ đang kiếm ăn, họ bị nhóm tội phạm của Túrin tấn công và Mîm bị bắt nhưng ông đã mặc cả lấy mạng sống của mình và đòi tiền chuộc ngôi nhà của mình trên [Amon Rûdh](../A/Amon_Rûdh.md), từ đó trở thành Bar-en-Danwedh, [Nhà Chuộc Thân](../H/House_of_Ransom.md).
 
 Túrin và những kẻ ngoài vòng pháp luật đã sớm gia nhập Tiên Beleg, và họ đặt tên vùng đất là "Dor-Cúarthol" theo tên Beleg cung tên [Belthronding](../B/Belthronding.md) và [Mũ Rồng của Dor-lómin](../D/Dragon-helm_of_Dor-lómin.md) được đeo bởi Túrin. Dưới sự lãnh đạo của họ, những kẻ ngoài vòng pháp luật đã quấy rối các lực lượng Morgoth tiến vào vùng đất của họ. Tuy nhiên, khi đeo Mũ Rồng Túrin đã tiết lộ bản thân Morgoth, và anh bắt đầu lo sợ sức mạnh ngày càng tăng của Túrin "rằng lời nguyền mà anh đặt lên anh sẽ trở nên vô hiệu, và anh sẽ thoát khỏi sự diệt vong đã được thiết kế cho anh".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 

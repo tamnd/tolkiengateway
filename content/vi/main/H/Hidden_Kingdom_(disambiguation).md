@@ -17,7 +17,7 @@ images:
 **Vương quốc ẩn giấu** có thể đề cập đến:
 
 - tên của [Doriath](../D/Doriath.md), ẩn trong [Vành đai Melian](../G/Girdle_of_Melian.md).
-- tên của [Gondolin](../G/Gondolin.md), được ẩn đằng sau [Vòng vây Dãy Núi](../E/Encircling_Mountains.md).
+- tên của [Gondolin](../G/Gondolin.md), được ẩn đằng sau [Dãy Núi Bao Quanh](../E/Encircling_Mountains.md).
 
 <hr style="margin-top:15px;"/>
 

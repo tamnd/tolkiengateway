@@ -17,7 +17,7 @@ sort_keys:
   "Poems by J.R.R. Tolkien": "Lonely Isle, The"
 ---
 
-<i><b>Đảo Cô Đơn</b></i> là một bài thơ được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) khi ông cùng quân đội vượt qua eo biển Anh vào tháng 6 năm 1916. Nó được xuất bản trên [1924](../_/1924.md) trong vòng *[Leeds University Verse 1914-24](../L/Leeds_University_Verse_1914-24.md)*. Sau đó nó được tái bản trên *[Tolkien and the Great War](Tolkien_and_the_Great_War.md)* vào năm 2003.
+<i><b>Hòn đảo Cô Độc</b></i> là một bài thơ được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) khi ông cùng quân đội vượt qua eo biển Anh vào tháng 6 năm 1916. Nó được xuất bản trên [1924](../_/1924.md) trong vòng *[Leeds University Verse 1914-24](../L/Leeds_University_Verse_1914-24.md)*. Sau đó nó được tái bản trên *[Tolkien and the Great War](Tolkien_and_the_Great_War.md)* vào năm 2003.
 
 ## Trích đoạn thơ {#Poem_excerpt}
 

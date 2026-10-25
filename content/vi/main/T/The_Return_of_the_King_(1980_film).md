@@ -143,7 +143,7 @@ Sau một thời gian tìm kiếm Frodo trong Núi Diệt Vong, Sam phát hiện
 7. "Ít hơn có thể nhiều hơn"
 8. "Bị bao vây"
 9. "Tầm nhìn đen củaDenethor"
-10. "Hai Người Theo Dõi"
+10. "Hai Kẻ Canh Gác"
 11. "Chiến binh Tiên vĩ đại"
 12. "Đang giải cứu Frodo"
 13. "Sức mạnh"
@@ -177,8 +177,8 @@ Sự thiếu sót của - Faramir có nghĩa là [Denethor](../D/Denethor.md) ch
 - Những [Những lời tuyên thệ](../O/Oathbreakers.md) bị bỏ qua.
 Khả năng phát sáng của - [Sting](../S/Sting.md) khi có [Orc](../O/Orcs.md) không được đề cập. Nó phát sáng liên tục trong suốt bộ phim, kể cả khi Samwise chiến đấu với Gollum và không có Orc nào ở gần.
 - [Việc Trận Morannon](../B/Battle_of_the_Morannon.md) không diễn ra. Cuộc [Đạo quân Phương Tây](../A/Army_of_the_West.md) hành quân đến đó và dừng lại ở [Cổng Đen](../B/Black_Gate.md) và [ Tháp Răng](Towers_of_the_Teeth.md). Orc hát một bài hát khiêu khích, khuyến khích chúng rút lui và Aragorn yêu cầu [Sauron](../S/Sauron.md) tiến tới. Aragorn nói ngắn gọn với [ Miệng của Sauron](../M/Mouth_of_Sauron.md), người đang rút lui qua cổng. Trước khi trận chiến bắt đầu, Gollum rơi vào [ Cracks of Doom](../C/Cracks_of_Doom.md), phá hủy [Chiếc nhẫn duy nhất](The_One_Ring.md), và [Barad-dûr](../B/Barad-dûr.md), [ Tháp Cirith Ungol](Tower_of_Cirith_Ungol.md) và Tháp Răng vỡ vụn.
-- [Đại Bàng](../E/Eagles.md) cứu Quân đội của Phương Tây cũng như Sam và Frodo.
-- [Việc quét Shire](../B/Battle_of_Bywater.md) bị bỏ qua.
+- [Đại Bàng](../E/Eagles.md) cứu Đội quân Phương Tây cũng như Sam và Frodo.
+- [Việc Cuộc thanh trừng Shire](../B/Battle_of_Bywater.md) bị bỏ qua.
 
 ## Lễ tân {#Reception}
 
@@ -186,7 +186,7 @@ Sự đón nhận dành cho chương trình truyền hình hoạt hình đặc b
 
 ## Tiếp thị {#Marketing}
 
-Do không có phần tiếp theo chính thức cho *The Lord of the Rings* của Ralph Bakshi, *The Return of the King* đã được [Warner Bros.](../W/Warner_Bros..md) tiếp thị như phần cuối cùng của bộ ba phim hoạt hình rời Tolkien, trước đó là *The Hobbit*. Tuy nhiên, phần phim giữa rất khác nhau về giai điệu và thiết kế nhân vật, và hai phim cuối không kết hợp liền mạch với nhau, vì cả hai đều bỏ qua nhiều phân đoạn khác nhau trong *The Two Towers*, đáng chú ý nhất là liên quan đến các sự kiện trong hang ổ của [Shelob](../S/Shelob.md) và cuộc hành quân của [Ent](../E/Ents.md) trên [Isengard](../I/Isengard.md). Các thiếu sót khác trong phiên bản Rankin/Bass bao gồm toàn bộ các ký tự của [Legolas](../L/Legolas.md), [Gimli](../G/Gimli.md), [Arwen](../A/Arwen.md) và [Saruman](../S/Saruman.md), trong khi [Éomer](../_/Éomer.md) và [Faramir](../F/Faramir.md) có thể chỉ được đưa vào các vai khách mời không xác định (cái trước đi cùng với [Théoden](Théoden.md) trong Trận chiến trên Cánh đồng Pelennor và Aragorn trong cuộc hành quân đến [Cổng Đen](../B/Black_Gate.md); cái sau là người đi cùng [Éowyn](../_/Éowyn.md) trên lưng ngựa trong lễ đăng quang của Aragorn, người mà cô trao đổi khá hiểu biết—cả hai nhân vật đều không có bất kỳ lời thoại nào hoặc chưa từng được nói chuyện cùng, vì vậy không thể xác nhận đầy đủ liệu họ có thực sự có ý định trở thành Éomer và Faramir hay không). Toàn bộ phần [Đội quân của người chết](../O/Oathbreakers.md) cũng bị cắt; do đó, ngay cả Aragorn cũng không có nhiều lời thoại hay thời lượng lên hình mặc dù tên phim là 'Vua'.
+Do không có phần tiếp theo chính thức cho *The Lord of the Rings* của Ralph Bakshi, *The Return of the King* đã được [Warner Bros.](../W/Warner_Bros..md) tiếp thị như phần cuối cùng của bộ ba phim hoạt hình rời Tolkien, trước đó là *The Hobbit*. Tuy nhiên, phần phim giữa rất khác nhau về giai điệu và thiết kế nhân vật, và hai phim cuối không kết hợp liền mạch với nhau, vì cả hai đều bỏ qua nhiều phân đoạn khác nhau trong *The Two Towers*, đáng chú ý nhất là liên quan đến các sự kiện trong hang ổ của [Shelob](../S/Shelob.md) và cuộc hành quân của [Ent](../E/Ents.md) trên [Isengard](../I/Isengard.md). Các thiếu sót khác trong phiên bản Rankin/Bass bao gồm toàn bộ các ký tự của [Legolas](../L/Legolas.md), [Gimli](../G/Gimli.md), [Arwen](../A/Arwen.md) và [Saruman](../S/Saruman.md), trong khi [Éomer](../_/Éomer.md) và [Faramir](../F/Faramir.md) có thể chỉ được đưa vào các vai khách mời không xác định (cái trước đi cùng với [Théoden](Théoden.md) trong Trận chiến trên Cánh đồng Pelennor và Aragorn trong cuộc hành quân đến [Cổng Đen](../B/Black_Gate.md); cái sau là người đi cùng [Éowyn](../_/Éowyn.md) trên lưng ngựa trong lễ đăng quang của Aragorn, người mà cô trao đổi khá hiểu biết—cả hai nhân vật đều không có bất kỳ lời thoại nào hoặc chưa từng được nói chuyện cùng, vì vậy không thể xác nhận đầy đủ liệu họ có thực sự có ý định trở thành Éomer và Faramir hay không). Toàn bộ phần [Đội quân Người Chết](../O/Oathbreakers.md) cũng bị cắt; do đó, ngay cả Aragorn cũng không có nhiều lời thoại hay thời lượng lên hình mặc dù tên phim là 'Vua'.
 
 Phim hoạt hình *Return of the King* đã được phát hành dưới dạng video gia đình (VHS, DVD và Blu-ray) từ Warner Bros., cả riêng lẻ và dưới dạng "bộ ba đóng hộp" với Rankin/Bass *The Hobbit* và *The Lord of the Rings* của Bakshi.
 

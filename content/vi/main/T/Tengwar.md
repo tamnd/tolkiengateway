@@ -67,7 +67,7 @@ Khi [Noldor](../N/Noldor.md) nổi loạn và đến [Trung Địa](../M/Middle-
 
 Cũng có thể Tengwar đã ảnh hưởng đến sự phát triển của hệ chữ [Cirth](../C/Cirth.md) do [Daeron](../D/Daeron.md) sáng tạo ở Beleriand, đặc biệt là về hình dạng và cách sắp xếp các ký tự.
 
-Chúng tôi biết từ dòng chữ trên cổng [Phương Tây của Moria](../W/West-gate_of_Moria.md) rằng chế độ Tengwar được gọi là [Chế độ của Beleriand](../M/Mode_of_Beleriand.md) đã được sử dụng trong [Eregion](../E/Eregion.md). Tên này cho phép giả định rằng chế độ tương tự đã được sử dụng trong [Kỷ Đệ Nhất](../F/First_Age.md).
+Chúng tôi biết từ dòng chữ trên cổng [Phương Tây của Moria](../W/West-gate_of_Moria.md) rằng chế độ Tengwar được gọi là [Kiểu Beleriand](../M/Mode_of_Beleriand.md) đã được sử dụng trong [Eregion](../E/Eregion.md). Tên này cho phép giả định rằng chế độ tương tự đã được sử dụng trong [Kỷ Đệ Nhất](../F/First_Age.md).
 
 Ở cuối [Kỷ Đệ Tam](Third_Age.md), Tiên tộc của [Rivendell](../R/Rivendell.md) có thể vẫn sử dụng chế độ đó, do bản phiên âm của Rivendell [aerlinn](../A/Aerlinn.md) *[A Elbereth Gilthoniel](../A/A_Elbereth_Gilthoniel.md)* có tính năng này.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> Frodo, tuy nhiên, mặc dù biết chữ ở Sindarin nhưng dường như không thể đọc được chế độ này.
 

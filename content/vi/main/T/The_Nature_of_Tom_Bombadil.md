@@ -102,7 +102,7 @@ Một lý thuyết cấp tiến và trừu tượng hơn cho rằng ông có th�
 
 Dù bản chất của ông là gì, một câu hỏi khác về Bombadil là liệu ông có phải là sinh vật độc nhất hay không, hay liệu ông có đồng nghiệp khác ở các bộ phận khác của Arda hay không. Ví dụ, Bombadil có thể là "linh hồn của tất cả Arda" duy nhất, hoặc chỉ là "linh hồn của Khu Rừng Cổ" với những sinh vật tương tự khác trong các khu rừng khác.
 
-Bản chất của Goldberry (và [Người phụ nữ sông](../R/River-woman.md)) cũng không rõ ràng. Họ có thể giống như ông, hoặc đối tác nữ của ông.
+Bản chất của Goldberry (và [Người đàn bà Sông](../R/River-woman.md)) cũng không rõ ràng. Họ có thể giống như ông, hoặc đối tác nữ của ông.
 
 Gandalf, khi kể lại cuộc chiến của mình với [Tai họa của Durin](../D/Durin's_Bane.md), có đề cập đến những đường hầm được tạo ra bởi [những thứ không tên](../N/Nameless_things.md) mà sự tồn tại của chúng Sauron không hề được biết đến, vì chúng "lớn hơn ông".<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>
 

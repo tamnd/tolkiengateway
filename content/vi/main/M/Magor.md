@@ -63,7 +63,7 @@ infobox:
 
 Magor dẫn một phần [người của cha mình](../F/Folk_of_Marach.md) rời khỏi [Hithlum](../H/Hithlum.md) và tiến về phía nam xuôi theo [Sông Sirion](../S/Sirion.md). Họ định cư ở chân đồi phía nam [Ered Wethrin](../E/Ered_Wethrin.md),<sup id="cite_ref-West_3-0" class="reference"><a href="#cite_note-West-3">[3]</a></sup> gần đầu nguồn sông [Teiglin](../T/Teiglin.md).<sup id="cite_ref-New_1-2" class="reference"><a href="#cite_note-New-1">[1]</a></sup>
 
-Cháu trai của Magor [Hador](../H/Hador.md) cùng người dân của ông quay trở lại vùng núi và phục vụ Tiên [Noldorin](../N/Noldorin.md) Vua tối cao [Fingolfin](../F/Fingolfin.md), và cháu trai của Magor đã sớm được phong làm [Chúa tể của Dor-lómin](../L/Lord_of_Dor-lómin.md). Từ người cháu trai nổi tiếng của Magor, người dân của ông đã lấy tên của Hador và đổi tên Nhà Marach thành [Nhà Hador](../H/House_of_Hador.md).<sup id="cite_ref-West_3-1" class="reference"><a href="#cite_note-West-3">[3]</a></sup>
+Cháu trai của Magor [Hador](../H/Hador.md) cùng người dân của ông quay trở lại vùng núi và phục vụ Tiên [Noldorin](../N/Noldorin.md) Vua tối cao [Fingolfin](../F/Fingolfin.md), và cháu trai của Magor đã sớm được phong làm [Chúa tể Dor-lómin](../L/Lord_of_Dor-lómin.md). Từ người cháu trai nổi tiếng của Magor, người dân của ông đã lấy tên của Hador và đổi tên Nhà Marach thành [Nhà Hador](../H/House_of_Hador.md).<sup id="cite_ref-West_3-1" class="reference"><a href="#cite_note-West-3">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

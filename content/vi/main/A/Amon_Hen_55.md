@@ -67,7 +67,7 @@ Thư - [Marquette](../M/Marquette_University.md)
     - Bởi: Jessica Yates
 - Đánh giá: Kim loại nặng
     - Bởi: [Helen Armstrong](../H/Helen_Armstrong.md)
-- Món quà của Con Người
+- Tặng phẩm của Con Người
     - Bởi: Antony Harrington
 - Khobbit
 - Hãy mỉm cười

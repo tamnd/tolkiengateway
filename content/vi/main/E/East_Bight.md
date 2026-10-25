@@ -30,11 +30,11 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Santiago_Villa_-_The_East_Bight.png.md"><img src="https://tolkiengateway.net/w/images/thumb/3/31/Santiago_Villa_-_The_East_Bight.png/250px-Santiago_Villa_-_The_East_Bight.png" decoding="async" loading="lazy" width="250" height="197" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/3/31/Santiago_Villa_-_The_East_Bight.png 1.5x" data-file-width="291" data-file-height="229"/></a><figcaption>&#34;The East Bight&#34; by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Santiago_Villa&amp;action=edit&amp;redlink=1" title="Santiago Villa (page does not exist)">Santiago Villa</a></figcaption></figure>
 
-**phương Đông Bight** là một vết lõm lớn ở rìa phía đông phía nam của [Mirkwood](../M/Mirkwood.md).
+**Vịnh phía Đông** là một vết lõm lớn ở rìa phía đông phía nam của [Mirkwood](../M/Mirkwood.md).
 
-Đó là một bãi đất trống có hình dạng gần giống một hình vuông trải dài khoảng 50 dặm từ bắc xuống nam và từ đông sang tây.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Về phía tây của phương Đông Bight là [Narrows of the Forest](../N/Narrows_of_the_Forest.md), phần hẹp nhất của khu rừng nơi khu rừng có chiều ngang chưa đến 100 dặm.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Đó là một bãi đất trống có hình dạng gần giống một hình vuông trải dài khoảng 50 dặm từ bắc xuống nam và từ đông sang tây.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Về phía tây của Vịnh phía Đông là [Narrows of the Forest](../N/Narrows_of_the_Forest.md), phần hẹp nhất của khu rừng nơi khu rừng có chiều ngang chưa đến 100 dặm.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Khu phương Đông Bight chủ yếu được tạo ra do [Người phương Bắc](../N/Northmen.md) chặt cây và là nơi chứa hầu hết các ngôi nhà cố định của họ.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Khu Vịnh phía Đông chủ yếu được tạo ra do [Người phương Bắc](../N/Northmen.md) chặt cây và là nơi chứa hầu hết các ngôi nhà cố định của họ.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

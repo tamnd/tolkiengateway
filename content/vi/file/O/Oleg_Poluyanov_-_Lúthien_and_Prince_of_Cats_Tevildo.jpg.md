@@ -29,7 +29,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"[Lúthien](../../main/L/Lúthien.md) và [Thân vương của Mèo Tevildo](../../main/T/Tevildo.md)" của [Oleg Poluyanov](../../category/I/Images_by_Oleg_Poluyanov.md)
+"[Lúthien](../../main/L/Lúthien.md) và [Thân vương loài Mèo Tevildo](../../main/T/Tevildo.md)" của [Oleg Poluyanov](../../category/I/Images_by_Oleg_Poluyanov.md)
 
 ## Giấy phép {#Licensing}
 

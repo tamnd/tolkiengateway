@@ -23,7 +23,7 @@ sort_keys:
 
 ## Xem thêm {#See_also}
 
-- [**Dún**edain](Dúnedain.md) = "Con Người của Phương Tây"
+- [**Dún**edain](Dúnedain.md) = "Con Người Phương Tây"
 - [Nan **Dun**gortheb](../N/Nan_Dungortheb.md) = "Thung lũng khủng khiếp Phương Tây"
 - [annún](../A/Annûn.md)
 

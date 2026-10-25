@@ -32,7 +32,7 @@ images:
 ## Trung Địa {#Middle-earth}
 
 - <b><a href="Túrin.md" title="Túrin">Túrin Turambar</a> (<a href="../F/First_Age.md" title="First Age">F.A.</a> <a href="../F/First_Age_464.md" title="First Age 464">464</a> - <a href="../F/First_Age_499.md" title="First Age 499">499</a>), người anh hùng bi thảm của <a href="../F/First_Age.md" title="First Age">Kỷ Đệ Nhất</a> là nhân vật chính của <i><a href="The_Children_of_Húrin.md" title="The Children of Húrin">The Children of Húrin</a></i>.</b>
-- [Túrin Tôi](Túrin_I.md) ([T.A.](Third_Age.md) [2165](Third_Age_2165.md) - [2278](Third_Age_2278.md)), [Quản lý cầm quyền](../R/Ruling_Steward.md) thứ sáu của [Gondor](../G/Gondor.md), người đã cai trị trong [Hòa bình thận trọng](../W/Watchful_Peace.md).
+- [Túrin Tôi](Túrin_I.md) ([T.A.](Third_Age.md) [2165](Third_Age_2165.md) - [2278](Third_Age_2278.md)), [Quản lý cầm quyền](../R/Ruling_Steward.md) thứ sáu của [Gondor](../G/Gondor.md), người đã cai trị trong [Thời kỳ Hòa bình Cảnh giác](../W/Watchful_Peace.md).
 - [Túrin II](Túrin_II.md) ([T.A.](Third_Age.md) [2815](Third_Age_2815.md) - [2914](Third_Age_2914.md)), [Quản lý cầm quyền](../R/Ruling_Steward.md) thứ hai mươi ba của [Gondor](../G/Gondor.md) có triều đại đánh dấu sự mất mát của [Ithilien](../I/Ithilien.md).
 
 <hr style="margin-top:15px;"/>

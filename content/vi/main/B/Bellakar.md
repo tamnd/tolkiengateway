@@ -33,7 +33,7 @@ Cái tên "Bellakar" được cho là bắt nguồn từ [Avarin](../A/Avarin.md
 
 ### Kỷ Đệ Nhất {#First_Age}
 
-Vào [Ngày của người cao tuổi](../F/First_Age.md), Bellakar tươi tốt và xanh tươi với những khu rừng rộng lớn và một hồ nước lớn. Những Dân tộc Tự do đầu tiên sống ở đó là [Cuind](../C/Cuind.md), những người định cư trong các hang động và thung lũng được che chở. Sau khi mặt trời mọc, Honnin, một dân tộc có liên quan đến [Drúedain](../D/Drúedain.md), là chủng tộc Con Người lâu đời nhất lang thang trên đất liền.<sup id="cite_ref-hands_1-1" class="reference"><a href="#cite_note-hands-1">[1]</a></sup>
+Vào [Thời Cổ xưa](../F/First_Age.md), Bellakar tươi tốt và xanh tươi với những khu rừng rộng lớn và một hồ nước lớn. Những Dân tộc Tự do đầu tiên sống ở đó là [Cuind](../C/Cuind.md), những người định cư trong các hang động và thung lũng được che chở. Sau khi mặt trời mọc, Honnin, một dân tộc có liên quan đến [Drúedain](../D/Drúedain.md), là chủng tộc Con Người lâu đời nhất lang thang trên đất liền.<sup id="cite_ref-hands_1-1" class="reference"><a href="#cite_note-hands-1">[1]</a></sup>
 
 ### Kỷ Đệ Nhị {#Second_Age}
 
@@ -51,11 +51,11 @@ Những người sống sót quay trở lại Ballakar và nhận ra nơi đây 
 
 Để hợp pháp hóa sự cai trị của mình, Zimrêbal đã giới thiệu Kâthasaptha ("Trí tuệ vô hạn"), một hệ thống tôn giáo kết hợp việc thờ cúng [Eru Ilúvatar](../E/Eru_Ilúvatar.md) với các vị thần Bozishnara bản địa, đặc biệt là Ladnoca (nữ thần Mặt Trăng). Ông đã thành lập một thánh địa mới, Izindutârik ("Cột trụ của sự thật"), cho những nghi lễ này.<sup id="cite_ref-hands_1-3" class="reference"><a href="#cite_note-hands-1">[1]</a></sup>
 
-#### Chiến tranh Tedjin và Thời đại hoàng kim (T.A. 395–748) {#The_Tedjin_Wars_and_the_Golden_Age_(T.A._395–748)}
+#### Chiến tranh Tedjin và Thời kỳ Hoàng kim (T.A. 395–748) {#The_Tedjin_Wars_and_the_Golden_Age_(T.A._395–748)}
 
-Mối đe dọa Tedjin lại lên đến đỉnh điểm vào [T.A.](../T/Third_Age.md) [515](../T/Third_Age_515.md) nhưng vương quốc đã được Urdubâr cứu. Vào năm [T.A.](../T/Third_Age.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=Third_Age_540&amp;action=edit&amp;redlink=1" title="Third Age 540 (page does not exist)">540</a>, Urdubâr chiếm được thủ đô Tedjin, đổi tên thành Zimrênzil. Chiến thắng này đã chấm dứt mối đe dọa Tedjin và mở ra một Thời đại Hoàng kim. Nîlûlondê, nơi đã bị Tedjin san bằng, đã được xây dựng lại thành một thủ đô kiên cố, và các tuyến đường của đoàn lữ hành qua Khibil Êphalak đã được mở lại.
+Mối đe dọa Tedjin lại lên đến đỉnh điểm vào [T.A.](../T/Third_Age.md) [515](../T/Third_Age_515.md) nhưng vương quốc đã được Urdubâr cứu. Vào năm [T.A.](../T/Third_Age.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=Third_Age_540&amp;action=edit&amp;redlink=1" title="Third Age 540 (page does not exist)">540</a>, Urdubâr chiếm được thủ đô Tedjin, đổi tên thành Zimrênzil. Chiến thắng này đã chấm dứt mối đe dọa Tedjin và mở ra một Thời kỳ Hoàng kim. Nîlûlondê, nơi đã bị Tedjin san bằng, đã được xây dựng lại thành một thủ đô kiên cố, và các tuyến đường của đoàn lữ hành qua Khibil Êphalak đã được mở lại.
 
-Trong Thời đại Hoàng kim, Bellakar tìm cách xây dựng lại mối quan hệ với những người thừa kế của [Elendil](../E/Elendil.md). Trong khi các thủy thủ của Liên đoàn Pelargirean (bao gồm [Dol Amroth](../D/Dol_Amroth.md)) chào đón họ, Vua [Turambar](<../T/Turambar_(King_of_Gondor).md>) từ chối liên minh chính thức, coi việc thờ cúng đồng bộ của Bellakar là sự báng bổ, mặc dù các hiệp ước thương mại vẫn được duy trì.<sup id="cite_ref-hands_1-4" class="reference"><a href="#cite_note-hands-1">[1]</a></sup>
+Trong Thời kỳ Hoàng kim, Bellakar tìm cách xây dựng lại mối quan hệ với những người thừa kế của [Elendil](../E/Elendil.md). Trong khi các thủy thủ của Liên đoàn Pelargirean (bao gồm [Dol Amroth](../D/Dol_Amroth.md)) chào đón họ, Vua [Turambar](<../T/Turambar_(King_of_Gondor).md>) từ chối liên minh chính thức, coi việc thờ cúng đồng bộ của Bellakar là sự báng bổ, mặc dù các hiệp ước thương mại vẫn được duy trì.<sup id="cite_ref-hands_1-4" class="reference"><a href="#cite_note-hands-1">[1]</a></sup>
 
 #### Cải cách tôn giáo (T.A. 748–840) {#Religious_reform_(T.A._748–840)}
 

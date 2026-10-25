@@ -55,7 +55,7 @@ Không giống như [các nhà truyền thuyết](../L/Loremasters.md) đầu ti
 
 Đó là trong [Cuộc chiến của Tiên tộc và Sauron](../W/War_of_the_Elves_and_Sauron.md) và sau sự sụp đổ của [Eregion](../E/Eregion.md) khi Pengolodh rời đi [Trung Địa](../M/Middle-earth.md) để đến [Tol Eressëa](../T/Tol_Eressëa.md), Loremaster cuối cùng rời đi Trung Địa.<sup id="cite_ref-Quendi_2-4" class="reference"><a href="#cite_note-Quendi-2">[1]</a></sup>
 
-Kỷ nguyên sau đó, anh đã nhận [Ælfwine](../_/Ælfwine.md) người du hành và dạy ông về Tiên tộc và [Ngày của người cao tuổi](../E/Elder_Days.md). Một số cuộc thảo luận của họ đã được ghi lại dưới dạng *[Dangweth Pengoloð](../D/Dangweth_Pengoloð.md)*.
+Kỷ nguyên sau đó, anh đã nhận [Ælfwine](../_/Ælfwine.md) người du hành và dạy ông về Tiên tộc và [Thời Cổ xưa](../E/Elder_Days.md). Một số cuộc thảo luận của họ đã được ghi lại dưới dạng *[Dangweth Pengoloð](../D/Dangweth_Pengoloð.md)*.
 
 ## Hoạt động {#Works}
 

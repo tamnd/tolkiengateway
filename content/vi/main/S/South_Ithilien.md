@@ -29,7 +29,7 @@ images:
 
 **South Ithilien** là vùng đất phía Nam của [Ithilien](../I/Ithilien.md), từ [Morgulduin](../M/Morgulduin.md) ở phía bắc đến Sông [Poros](../P/Poros.md) ở phía nam.
 
-Vùng đất là một dải đất nằm giữa [Anduin](../A/Anduin.md) về phía tây và [Ephel Dúath](../E/Ephel_Dúath.md) về phía đông. Đoạn này đi qua một phần của [Harad Đường](../H/Harad_Road.md) từ [Giao lộ Poros](../C/Crossings_of_Poros.md) đến [Ngã Tư](../C/Cross-roads.md); có một con đường khác tới [Pelargir](../P/Pelargir.md). Đặc điểm đáng chú ý nhất của nó là những ngọn đồi [Emyn Arnen](../E/Emyn_Arnen.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Vùng đất là một dải đất nằm giữa [Anduin](../A/Anduin.md) về phía tây và [Ephel Dúath](../E/Ephel_Dúath.md) về phía đông. Đoạn này đi qua một phần của [Đường Harad](../H/Harad_Road.md) từ [Giao lộ Poros](../C/Crossings_of_Poros.md) đến [Ngã Tư](../C/Cross-roads.md); có một con đường khác tới [Pelargir](../P/Pelargir.md). Đặc điểm đáng chú ý nhất của nó là những ngọn đồi [Emyn Arnen](../E/Emyn_Arnen.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 

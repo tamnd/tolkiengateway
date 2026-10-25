@@ -105,7 +105,7 @@ Người Hobbit và Tom khởi hành về phía bắc. Frodo tìm kiếm hai t�
 
 Khi màn đêm buông xuống, chiếc Hobbit cuối cùng cũng đến được Đường phương Đông và ngay lập tức nhớ lại sự nguy hiểm của chiếc [Kỵ sĩ Đen](../B/Black_Riders.md) đã bị lãng quên nhiều ngày trước. Tom giải thích rằng con đường phía đông là làng [Bree](../B/Bree.md). Ông hướng dẫn họ đi tìm [Barliman Butterbur](../B/Barliman_Butterbur.md), chủ nhà trọ [Prancing Pony](../P/Prancing_Pony.md), để chứng minh cho nhân cách của ông. Những người Hobbit nài nỉ Tom uống rượu cùng họ tại quán trọ nhưng Tom từ chối, nói rằng đây là vùng biên giới của đất nước anh và anh phải quay trở lại Goldberry. Anh chào tạm biệt họ rồi vừa đi vừa hát.
 
-Màn đêm buông xuống khi Hobbit tiến về phía Bree. Merry giải thích rằng cả Hobbit và Con Người đều sống ở đó và [Brandybucks](../B/Brandybucks.md) thỉnh thoảng cũng đến thăm ngôi làng. Sam hy vọng rằng Prancing Pony sẽ giống với [Green Rồng](../G/Green_Dragon~72852.md) ở quê nhà. Frodo nhắc nhở những người khác rằng ông phải được gọi bằng cái tên "Underhill", để giữ bí mật danh tính của mình. Những người Hobbit phát hiện ra ngôi làng phía trước và tiến về phía đó trong bóng tối.
+Màn đêm buông xuống khi Hobbit tiến về phía Bree. Merry giải thích rằng cả Hobbit và Con Người đều sống ở đó và [Brandybucks](../B/Brandybucks.md) thỉnh thoảng cũng đến thăm ngôi làng. Sam hy vọng rằng Prancing Pony sẽ giống với [Rồng Xanh](../G/Green_Dragon~72852.md) ở quê nhà. Frodo nhắc nhở những người khác rằng ông phải được gọi bằng cái tên "Underhill", để giữ bí mật danh tính của mình. Những người Hobbit phát hiện ra ngôi làng phía trước và tiến về phía đó trong bóng tối.
 
 ## Thành phần {#Composition}
 

@@ -51,7 +51,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Ferumbras là con trai lớn nhất của [Thain](../T/Thain.md) [Isumbras III](../I/Isumbras_Took_III.md), mặc dù về mặt danh tiếng, anh kém hơn em trai mình, [Bandobras](../B/Bandobras_Took.md), người đã chuyển đến [Northfarthing](../N/Northfarthing.md) và giành chiến thắng trong [Trận chiến Greenfields](../B/Battle_of_Greenfields.md). Ferumbras thay vào đó trở thành Thain và lần lượt được con trai ông là [Fortinbras](Fortinbras_Took_I.md) kế vị.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Ferumbras là con trai lớn nhất của [Thain](../T/Thain.md) [Isumbras III](../I/Isumbras_Took_III.md), mặc dù về mặt danh tiếng, anh kém hơn em trai mình, [Bandobras](../B/Bandobras_Took.md), người đã chuyển đến [Northfarthing](../N/Northfarthing.md) và giành chiến thắng trong [Trận chiến tại Greenfields](../B/Battle_of_Greenfields.md). Ferumbras thay vào đó trở thành Thain và lần lượt được con trai ông là [Fortinbras](Fortinbras_Took_I.md) kế vị.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

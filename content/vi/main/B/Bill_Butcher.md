@@ -40,9 +40,9 @@ infobox:
 
 **Bill Butcher** là một cư dân [Hobbit](../H/Hobbits.md) của thị trấn [Delving](../D/Delving.md), người đã xuất hiện trong *[Perry-the-Winkle](../P/Perry-the-Winkle.md)*, một bài đồng dao<sup id="cite_ref-collectedpoems_2-0" class="reference"><a href="#cite_note-collectedpoems-2">[2]</a></sup> của [Samwise Gamgee](../S/Samwise_Gamgee.md)<sup id="cite_ref-preface_3-0" class="reference"><a href="#cite_note-preface-3">[3]</a></sup>.<sup id="cite_ref-Perry_1-2" class="reference"><a href="#cite_note-Perry-1">[1]</a></sup>
 
-Trong bài thơ, Bill Butcher đã cùng với chú chó [Grip](<../G/Grip_(Bill_Butcher's_dog).md>) của mình ném dao khi nhìn thấy [Con quỷ cô đơn](../L/Lonely_Troll.md) đang nhìn trộm các quầy hàng trong chợ.<sup id="cite_ref-Perry_1-3" class="reference"><a href="#cite_note-Perry-1">[1]</a></sup>
+Trong bài thơ, Bill Butcher đã cùng với chú chó [Grip](<../G/Grip_(Bill_Butcher's_dog).md>) của mình ném dao khi nhìn thấy [Con Troll Cô Độc](../L/Lonely_Troll.md) đang nhìn trộm các quầy hàng trong chợ.<sup id="cite_ref-Perry_1-3" class="reference"><a href="#cite_note-Perry-1">[1]</a></sup>
 
-Có thể Bill Butcher là một trong những [Shire hobbit](../S/Shire-hobbits.md) đã đến <a class="new" href="https://tolkiengateway.net/w/index.php?title=Faraway&amp;action=edit&amp;redlink=1" title="Faraway (page does not exist)">Faraway</a> để đòi đồ ăn từ Quỷ Cô đơn.<sup id="cite_ref-Perry_1-4" class="reference"><a href="#cite_note-Perry-1">[1]</a></sup>
+Có thể Bill Butcher là một trong những [Shire hobbit](../S/Shire-hobbits.md) đã đến <a class="new" href="https://tolkiengateway.net/w/index.php?title=Faraway&amp;action=edit&amp;redlink=1" title="Faraway (page does not exist)">Faraway</a> để đòi đồ ăn từ Troll Cô Độc.<sup id="cite_ref-Perry_1-4" class="reference"><a href="#cite_note-Perry-1">[1]</a></sup>
 
 ## Nền {#Background}
 

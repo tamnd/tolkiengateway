@@ -29,7 +29,7 @@ infobox:
 
 Do sự tái tổ chức của chính quyền địa phương vào những năm 1970, ranh giới của các quận này hiện đã được di chuyển và chỉ có ba quận - không còn bao gồm Worcestershire, ranh giới của nó bây giờ xa hơn về phía tây - hiện chặn ở đây.
 
-Người ta tin rằng viên đá này là nguồn cảm hứng cho [Tolkien](../J/J.R.R._Tolkien.md) [Hòn đá Ba Farthing](../T/Three-Farthing_Stone.md), một điểm trung tâm ở [ Shire](../T/The_Shire.md) nơi ba [Farthings](Farthing.md) gặp nhau.
+Người ta tin rằng viên đá này là nguồn cảm hứng cho [Tolkien](../J/J.R.R._Tolkien.md) [Phiến đá Ba Khu](../T/Three-Farthing_Stone.md), một điểm trung tâm ở [ Shire](../T/The_Shire.md) nơi ba [Farthings](Farthing.md) gặp nhau.
 
 ## Liên kết ngoài {#External_links}
 

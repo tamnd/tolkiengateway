@@ -56,7 +56,7 @@ Sinh ra và lớn lên ở [Hobbiton](../H/Hobbiton.md), Robin là bạn cũ c�
 
 Ban đầu là một trong mười hai người duy nhất<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> dưới triều đại của [Lotho Sackville-Baggins](../L/Lotho_Sackville-Baggins.md), Robin nhận thấy mình đã vượt quá giới hạn của mình. Ông được bổ nhiệm lại vào [Đội quân Eastfarthing đầu tiên](../F/First_Eastfarthing_Troop.md) ở [Frogmorton](../F/Frogmorton.md), được giao nhiệm vụ thực thi [Quy tắc](../T/The_Rules.md).
 
-Robin là một trong những Cảnh sát trưởng được phái đến để bắt giữ [bốn Hobbit](../T/Travellers.md) những người đã xâm nhập trái phép vào Shire tại [Cầu Brandywine](../B/Brandywine_Bridge.md). Đó giống một cuộc hộ tống hơn là một cuộc bắt giữ, vì Robin và quân của ông đi bộ và bốn Hobbit có ngựa con. Tại [Hòn đá ba rắm](../T/Three-Farthing_Stone.md), Cảnh sát trưởng đã bỏ cuộc và để tù nhân của họ tiếp tục mà không có họ.<sup id="cite_ref-Scouring_1-1" class="reference"><a href="#cite_note-Scouring-1">[1]</a></sup> Không rõ liệu ông có nằm trong số Cảnh sát trưởng tham gia cuộc nổi dậy hay không.
+Robin là một trong những Cảnh sát trưởng được phái đến để bắt giữ [bốn Hobbit](../T/Travellers.md) những người đã xâm nhập trái phép vào Shire tại [Cầu Brandywine](../B/Brandywine_Bridge.md). Đó giống một cuộc hộ tống hơn là một cuộc bắt giữ, vì Robin và quân của ông đi bộ và bốn Hobbit có ngựa con. Tại [Phiến đá Ba Khu](../T/Three-Farthing_Stone.md), Cảnh sát trưởng đã bỏ cuộc và để tù nhân của họ tiếp tục mà không có họ.<sup id="cite_ref-Scouring_1-1" class="reference"><a href="#cite_note-Scouring-1">[1]</a></sup> Không rõ liệu ông có nằm trong số Cảnh sát trưởng tham gia cuộc nổi dậy hay không.
 
 ## Từ nguyên {#Etymology}
 

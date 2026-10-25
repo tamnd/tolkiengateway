@@ -41,7 +41,7 @@ infobox:
 
 Trong [Trò chơi câu đố](../R/Riddle-game.md) với [Gollum](../G/Gollum.md), [Bilbo Baggins](../B/Bilbo_Baggins.md), trong nỗ lực giải câu đố thứ năm của Gollum, đã ngồi nghĩ về tất cả những cái tên khủng khiếp của tất cả những người khổng lồ và yêu tinh mà cậu từng nghe kể trong truyện cổ tích.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Không có yêu tinh nào được nhắc đến trong biên niên sử của [Ngày của Người cao tuổi](../E/Elder_Days.md) và không có yêu tinh nào được biết là đã đóng bất kỳ vai trò nào trong các cuộc chiến tranh và trận chiến. Hoàn toàn có khả năng họ chỉ đơn giản là một chủng tộc thần thoại.
+Không có yêu tinh nào được nhắc đến trong biên niên sử của [Thời Cổ xưa](../E/Elder_Days.md) và không có yêu tinh nào được biết là đã đóng bất kỳ vai trò nào trong các cuộc chiến tranh và trận chiến. Hoàn toàn có khả năng họ chỉ đơn giản là một chủng tộc thần thoại.
 
 Cũng có thể Ogre chỉ là một tên gọi khác của [Troll](../T/Trolls.md).<sup id="cite_ref-HMN_2-0" class="reference"><a href="#cite_note-HMN-2">[2]</a></sup>
 
@@ -61,7 +61,7 @@ Tolkien lại được đề cập đến yêu tinh ngoài ngữ cảnh trong c�
 
 ## Cảm hứng {#Inspiration}
 
-Thời thơ ấu, Tolkien và anh trai [Hilary](../H/Hilary_Tolkien.md) đã giao cho một người thợ xay và một nông dân, những người khiến các cậu bé sợ hãi và sống gần [Nhà máy Sarehole](../S/Sarehole_Mill.md) ở khu vực Moseley của [Birmingham](../B/Birmingham.md), biệt danh lần lượt là "Ogre trắng" và "Ogre đen".<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> Những nhân vật này cũng xuất hiện trong các câu chuyện được viết bởi Hilary Tolkien.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>
+Thời thơ ấu, Tolkien và anh trai [Hilary](../H/Hilary_Tolkien.md) đã giao cho một người thợ xay và một nông dân, những người khiến các cậu bé sợ hãi và sống gần [Cối xay Sarehole](../S/Sarehole_Mill.md) ở khu vực Moseley của [Birmingham](../B/Birmingham.md), biệt danh lần lượt là "Ogre trắng" và "Ogre đen".<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> Những nhân vật này cũng xuất hiện trong các câu chuyện được viết bởi Hilary Tolkien.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>
 
 Tolkien rất thích đọc E.A. Wyke-Smith's *[The Marvellous Land of Snergs](../T/The_Marvellous_Land_of_Snergs.md)* ([1927](../_/1927.md)) cho các con của mình. Cuốn sách kể lại cuộc phiêu lưu của hai đứa trẻ và một Snerg ("một chủng tộc người chỉ cao hơn một chiếc bàn trung bình một chút"), và câu chuyện của họ bao gồm việc gặp gỡ yêu tinh ăn chay Golithos.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>
 

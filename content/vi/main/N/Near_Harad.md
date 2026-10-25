@@ -30,7 +30,7 @@ infobox:
 
 Near Harad là nơi sinh sống của [lạc đà](../C/Camels.md) và ở miền Nam là [Oliphaunts](../O/Oliphaunts.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Cư dân của nó là kẻ thù của Gondor trong suốt lịch sử của nó. Khi người của Near Harad liên minh với [Khand](../K/Khand.md) và với [Wainriders](../W/Wainriders.md) để tấn công Gondor. Vua [Ondoher](../O/Ondoher.md) đoán trước được cuộc tấn công của họ và thành lập [Quân đội miền Nam](../S/Southern_Army.md) để bảo vệ vùng đất của mình trước họ. Dưới sự chỉ huy của [Eärnil](../E/Eärnil_II.md), Quân đội miền Nam đã tiêu diệt đội quân Harad ở [South Ithilien](../S/South_Ithilien.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-Cirion_4-0" class="reference"><a href="#cite_note-Cirion-4">[4]</a></sup> Có vẻ như nhiều [Haradrim](../H/Haradrim.md) gây rắc rối cho Gondor thực ra là người của Near Harad.
+Cư dân của nó là kẻ thù của Gondor trong suốt lịch sử của nó. Khi người của Near Harad liên minh với [Khand](../K/Khand.md) và với [Wainriders](../W/Wainriders.md) để tấn công Gondor. Vua [Ondoher](../O/Ondoher.md) đoán trước được cuộc tấn công của họ và thành lập [Quân đội phương Nam](../S/Southern_Army.md) để bảo vệ vùng đất của mình trước họ. Dưới sự chỉ huy của [Eärnil](../E/Eärnil_II.md), Quân đội phương Nam đã tiêu diệt đội quân Harad ở [South Ithilien](../S/South_Ithilien.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-Cirion_4-0" class="reference"><a href="#cite_note-Cirion-4">[4]</a></sup> Có vẻ như nhiều [Haradrim](../H/Haradrim.md) gây rắc rối cho Gondor thực ra là người của Near Harad.
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 

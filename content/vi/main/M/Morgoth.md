@@ -300,7 +300,7 @@ Trong số nhiều biệt hiệu và danh hiệu của hắn có:
 ## Tôi tớ và đồng minh {#Minions_and_allies}
 
 - [Sauron](../S/Sauron.md) – Trưởng đại lý; trở thành người thừa kế của ông với tư cách là [Chúa tể Bóng tối](../D/Dark_Lord.md) thứ hai và cuối cùng bị tàn phế do sự phá hủy của [One Ring](../O/One_Ring.md)
-- [Gothmog](<../G/Gothmog_(balrog).md>) - [Chúa tể của Balrog](../L/Lord_of_Balrogs.md) và Thuyền trưởng cấp cao của Angband; bị giết bởi [Ecthelion](../E/Ecthelion.md)
+- [Gothmog](<../G/Gothmog_(balrog).md>) - [Chúa tể Balrog](../L/Lord_of_Balrogs.md) và Thuyền trưởng cấp cao của Angband; bị giết bởi [Ecthelion](../E/Ecthelion.md)
 - [Tai họa của Durin](../D/Durin's_Bane.md) - Một trong những [Balrog](../B/Balrogs.md); đã chiếm đoạt [Moria](Moria.md) và sau đó bị [Gandalf](../G/Gandalf.md) đánh bại
 - [Ungoliant](../U/Ungoliant.md) - Cựu người hầu, linh hồn bóng tối và bóng tối trong hình dạng một con nhện khổng lồ ăn thịt những người bị sa thải [Hai Cây](../T/Two_Trees.md)
 - [Glaurung](../G/Glaurung.md) – [Cha của Rồng](../F/Father_of_Dragons.md); bị giết bởi [Túrin](../T/Túrin.md)

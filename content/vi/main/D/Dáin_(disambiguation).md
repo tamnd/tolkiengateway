@@ -28,7 +28,7 @@ images:
 **Dáin** có thể tham khảo hai [Người Lùn](Dwarves.md):
 
 - [Dáin I](Dáin_I.md) ([T.A.](../T/Third_Age.md) [2440](../T/Third_Age_2440.md) - [2589](../T/Third_Age_2589.md)), [Vua](../K/Kings_of_Durin's_Folk.md) của [Durin's Folk](Durin's_Folk~15256.md) đã bị giết bởi một [con Drake lạnh lùng](../C/Cold-drake.md).
-- [Dáin II *Ironfoot*](Dáin_Ironfoot.md) ([T.A.](../T/Third_Age.md) [2767](../T/Third_Age_2767.md) - [3019](../T/Third_Age_3019.md)), [Chúa tể của Dãy Đồi Sắt](../L/Lord_of_the_Iron_Hills.md), người đã trở thành Vua của Dân tộc Durin sau cái chết của [Thorin II *Oakenshield*](../T/Thorin.md).
+- [Dáin II *Ironfoot*](Dáin_Ironfoot.md) ([T.A.](../T/Third_Age.md) [2767](../T/Third_Age_2767.md) - [3019](../T/Third_Age_3019.md)), [Chúa tể Dãy Đồi Sắt](../L/Lord_of_the_Iron_Hills.md), người đã trở thành Vua của dân Durin sau cái chết của [Thorin II *Oakenshield*](../T/Thorin.md).
 
 <hr style="margin-top:15px;"/>
 

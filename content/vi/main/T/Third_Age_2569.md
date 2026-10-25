@@ -20,7 +20,7 @@ sort_keys:
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- [Brego](../B/Brego.md) con trai của [Eorl](../E/Eorl.md) hoàn thành [Sảnh Vàng](../G/Golden_Hall.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+- [Brego](../B/Brego.md) con trai của [Eorl](../E/Eorl.md) hoàn thành [Đại Sảnh Vàng](../G/Golden_Hall.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

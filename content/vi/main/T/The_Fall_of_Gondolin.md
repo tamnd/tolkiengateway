@@ -84,7 +84,7 @@ Câu chuyện này là một trong ba "câu chuyện hay" lấy bối cảnh tro
 
 ## Tóm tắt {#Synopsis}
 
-Trong *Tale of The Fall of Gondolin* có hai quyền lực lớn nhất: [Morgoth](../M/Morgoth.md) của cái ác tột độ; và đối lập với ông là [Ulmo](../U/Ulmo.md), người được mệnh danh là Chúa tể của Nước. Trung tâm của sự thù địch này của các vị thần là thành phố Gondolin, xinh đẹp nhưng chưa được khám phá. Nó được xây dựng và sinh sống bởi Noldorin Tiên tộc bị lưu đày. Morgoth tìm cách khám phá thành phố ẩn giấu kỳ diệu trong vô vọng, trong khi Valar phần lớn từ chối can thiệp để hỗ trợ Ulmo, người mong muốn bảo vệ nó.
+Trong *Tale of The Fall of Gondolin* có hai quyền lực lớn nhất: [Morgoth](../M/Morgoth.md) của cái ác tột độ; và đối lập với ông là [Ulmo](../U/Ulmo.md), người được mệnh danh là Chúa tể Nước. Trung tâm của sự thù địch này của các vị thần là thành phố Gondolin, xinh đẹp nhưng chưa được khám phá. Nó được xây dựng và sinh sống bởi Noldorin Tiên tộc bị lưu đày. Morgoth tìm cách khám phá thành phố ẩn giấu kỳ diệu trong vô vọng, trong khi Valar phần lớn từ chối can thiệp để hỗ trợ Ulmo, người mong muốn bảo vệ nó.
 
 Bước vào thế giới này là [Tuor](Tuor.md), em họ của [Túrin](Túrin.md), công cụ thiết kế của Ulmo. Được anh Tuor hướng dẫn mà không hề nhìn thấy, khởi hành từ vùng đất nơi anh sinh ra trong cuộc hành trình đầy sợ hãi đến Gondolin, và vào một trong những khoảnh khắc đáng nhớ nhất trong lịch sử của Trung Địa, chính Vala xuất hiện trước mặt anh, nhô lên khỏi đại dương giữa cơn bão. Trong Gondolin ông trở nên vĩ đại; ông đã kết hôn với [Idril](../I/Idril.md), con gái của [Turgon](Turgon.md), và con trai của họ là [Eärendel](../E/Eärendel.md), người mà sự ra đời và tầm quan trọng sâu sắc trong những ngày tới đã được Ulmo dự đoán trước.
 

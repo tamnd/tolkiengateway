@@ -62,7 +62,7 @@ Người ta kể rằng mái tóc của cô trải dài trên khắp mặt nư�
 
 Đầu lịch sử của [Arda](../A/Arda.md), Ossë đã bị [Morgoth](../M/Morgoth.md) làm hư hỏng nhưng [Aulë](../A/Aulë.md) đã cầu xin Uinen thuyết phục ông quay trở lại phục vụ Ulmo.<sup id="cite_ref-vala_1-2" class="reference"><a href="#cite_note-vala-1">[1]</a></sup>
 
-[Teleri](../T/Teleri.md) của [Olwë](../O/Olwë.md) có rất nhiều tình cảm với Uinen, vì cô và Ossë đã kết bạn với họ ở bờ sông [Sirion](../S/Sirion.md) trong [Tháng ba vĩ đại](../G/Great_March.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+[Teleri](../T/Teleri.md) của [Olwë](../O/Olwë.md) có rất nhiều tình cảm với Uinen, vì cô và Ossë đã kết bạn với họ ở bờ sông [Sirion](../S/Sirion.md) trong [Cuộc Đại Hành Trình](../G/Great_March.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 Uinen khóc thương các thủy thủ Teleri sau vụ tàn sát người thân ở [Alqualondë](../A/Alqualondë.md) và nổi lên một cơn bão đánh chìm nhiều [Noldor](../N/Noldor.md) trên những [Tàu thiên nga](../S/Swan-ships.md) bị đánh cắp.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Elder Days"
 ---
 
-Chuyển hướng đến [Ngày của người cao tuổi](Elder_Days.md).
+Chuyển hướng đến [Thời Cổ xưa](Elder_Days.md).

@@ -19,7 +19,7 @@ categories:
 
 Hội được thành lập bởi [Dick Plotz](../D/Dick_Plotz.md) và một số người khác tại Đại học Columbia vào tháng 2 [1965](../_/1965.md). Hai năm sau, <a class="new" href="https://tolkiengateway.net/w/index.php?title=Edward_Meskys&amp;action=edit&amp;redlink=1" title="Edward Meskys (page does not exist)">Edward Meskys</a> tiếp quản. Vào [1972](../_/1972.md), nó được sáp nhập với [Hội Thần thoại](../M/Mythopoeic_Society.md).
 
-Hội đã xuất bản hai tạp chí, <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Green_Dragon_(journal)&amp;action=edit&amp;redlink=1" title="Green Dragon (journal) (page does not exist)">Green Rồng</a></i> và *[Tolkien Journal](Tolkien_Journal.md)*.
+Hội đã xuất bản hai tạp chí, <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Green_Dragon_(journal)&amp;action=edit&amp;redlink=1" title="Green Dragon (journal) (page does not exist)">Rồng Xanh</a></i> và *[Tolkien Journal](Tolkien_Journal.md)*.
 
 ## Xem thêm {#See_also}
 

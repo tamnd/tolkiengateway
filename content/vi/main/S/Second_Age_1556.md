@@ -21,7 +21,7 @@ sort_keys:
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 - [Tar-Súrion](../T/Tar-Súrion.md) giao nộp [Quyền trượng](Sceptre_of_Númenor.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
-- [Tar-Telperiën](../T/Tar-Telperiën.md), con gái của Tar-Súrion, trở thành [Nữ hoàng của Númenor](../Q/Queen_of_Númenor.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- [Tar-Telperiën](../T/Tar-Telperiën.md), con gái của Tar-Súrion, trở thành [Nữ hoàng Númenor](../Q/Queen_of_Númenor.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

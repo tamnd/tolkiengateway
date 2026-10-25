@@ -73,7 +73,7 @@ Người Hobbit định cư và tắm rửa. Barliman quay lại với thức ă
 
 Trong phòng sinh hoạt chung có rất nhiều người khác nhau, bao gồm Con Người, [Người Lùn](../D/Dwarves.md) và Hobbit người địa phương. Barliman giới thiệu mọi người. Một số Hobbit địa phương hóa ra là [Underhills](../U/Underhill_Family.md) - bút danh mà Frodo đã sử dụng. Kết quả là Hobbit vui vẻ chào đón anh như người thân đã lâu không gặp nhưng cũng tra hỏi kỹ càng. Frodo đã đưa ra lời giải thích cho hành trình của mình: Ông quan tâm đến lịch sử và địa lý, đồng thời đi du lịch với hy vọng thu thập thông tin cho một cuốn sách về Hobbit sống bên ngoài Shire. Điều này khiến cho Hobbit tình nguyện cung cấp quá nhiều thông tin, nhưng Frodo tỏ ra không quan tâm và nhanh chóng ngồi một mình.
 
-Con Người và Người Lùn bàn bạc về những rắc rối ở miền nam, lo lắng rằng một lượng lớn người dân có thể lên đường phía Bắc để tìm nơi ẩn náu. Tuy nhiên, Hobbit địa phương lại quan tâm hơn đến việc nghe tin tức từ Shire và nhấn Sam và Pippin để biết thông tin về "Shire Underhills".
+Con Người và Người Lùn bàn bạc về những rắc rối ở miền nam, lo lắng rằng một lượng lớn người dân có thể lên Đường Bắc để tìm nơi ẩn náu. Tuy nhiên, Hobbit địa phương lại quan tâm hơn đến việc nghe tin tức từ Shire và nhấn Sam và Pippin để biết thông tin về "Shire Underhills".
 
 ### Strider {#Strider}
 

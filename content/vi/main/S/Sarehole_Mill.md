@@ -41,7 +41,7 @@ images:
 <p class="tg-quote-footer"><cite><a href="../L/Letter_44.md" title="Letter 44">Letter 44</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-<br> **Nhà máy Sarehole** nằm trên đường Cole Bank, là một nhà máy nước nằm ở Sarehole, [Birmingham](../B/Birmingham.md). [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) sống cách nhà máy 300 mét từ năm 1896 đến năm 1900, từ 4 đến 8 tuổi. Nhà máy hiện nay là một bảo tàng do Birmingham Museums Trust điều hành.
+<br> **Cối xay Sarehole** nằm trên đường Cole Bank, là một nhà máy nước nằm ở Sarehole, [Birmingham](../B/Birmingham.md). [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) sống cách nhà máy 300 mét từ năm 1896 đến năm 1900, từ 4 đến 8 tuổi. Nhà máy hiện nay là một bảo tàng do Birmingham Museums Trust điều hành.
 
 ## Lịch sử Nhà máy {#History_of_the_Mill}
 
@@ -78,5 +78,5 @@ Tolkien đã đăng ký lời kêu gọi khôi phục Nhà máy và kể từ đ
 ## Liên kết ngoài {#External_links}
 
 - <a class="external text" href="http://www.bplphoto.co.uk/TolkiensBirmingham/TolkienSarehole.htm" rel="noreferrer noopener" target="_blank">Tolkien của Birmingham</a>
-- <a class="external text" href="http://www.birmingham.gov.uk/sarehole.bcc" rel="noreferrer noopener" target="_blank">Nhà máy Sarehole</a>
-- <a class="extiw" href="http://en.wikipedia.org/wiki/Sarehole_Mill" title="wikipedia:Sarehole Mill">Nhà máy Sarehole</a> trên Wikipedia
+- <a class="external text" href="http://www.birmingham.gov.uk/sarehole.bcc" rel="noreferrer noopener" target="_blank">Cối xay Sarehole</a>
+- <a class="extiw" href="http://en.wikipedia.org/wiki/Sarehole_Mill" title="wikipedia:Sarehole Mill">Cối xay Sarehole</a> trên Wikipedia

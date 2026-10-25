@@ -57,7 +57,7 @@ infobox:
 
 Cùng cha Baldor khám phá [Rohan](../R/Rohan.md) và đến với [Harrowdale](../H/Harrowdale.md). Họ đã tìm thấy [Con đường của người chết](../P/Paths_of_the_Dead.md). Ngạc nhiên trước câu đố cấm họ đi qua của một ông già, anh trở nên tò mò. Tại lễ khánh thành [Meduseld](../M/Meduseld.md) ở [T.A.](../T/Third_Age.md) [2569](../T/Third_Age_2569.md), ông đã thề sẽ vượt qua [Cánh Cửa Tối](../D/Dark_Door.md). Ông làm như vậy một năm sau đó và không bao giờ được nhìn thấy còn sống nữa.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Đầu tháng 3 [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md), [Aragorn](../A/Aragorn.md) và [Đại đội Xám](../G/Grey_Company.md) đã tìm thấy hiệp sĩ mặc áo vàng. Thanh kiếm của ông bị gãy và bị khía, còn chân thì bị gãy.<sup id="cite_ref-Grey_2-0" class="reference"><a href="#cite_note-Grey-2">[2]</a></sup>
+Đầu tháng 3 [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md), [Aragorn](../A/Aragorn.md) và [Đội quân Xám](../G/Grey_Company.md) đã tìm thấy hiệp sĩ mặc áo vàng. Thanh kiếm của ông bị gãy và bị khía, còn chân thì bị gãy.<sup id="cite_ref-Grey_2-0" class="reference"><a href="#cite_note-Grey-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

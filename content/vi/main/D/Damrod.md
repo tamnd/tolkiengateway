@@ -62,7 +62,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Damrod là bạn đồng hành của [Mablung](<../M/Mablung_(ranger_of_Ithilien).md>) và là người bảo vệ đáng tin cậy của [Faramir](../F/Faramir.md). Anh cùng Mablung theo dõi [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md) trong cuộc phục kích của [Con Người của Harad](../H/Haradrim.md) ở [Ithilien](../I/Ithilien.md). Trong khi họ chờ đợi trước trận chiến, Damrod kể cho các hobbit nghe về Kẻ Thù các giao dịch của [người miền Nam](../H/Haradrim.md). Damrod có rất ít hy vọng; ông tin rằng "ngày của [Gondor](../G/Gondor.md) đã được đánh số, và những bức tường của [Minas Tirith](../M/Minas_Tirith.md) sẽ diệt vong".<sup id="cite_ref-herbs_1-1" class="reference"><a href="#cite_note-herbs-1">[1]</a></sup>
+Damrod là bạn đồng hành của [Mablung](<../M/Mablung_(ranger_of_Ithilien).md>) và là người bảo vệ đáng tin cậy của [Faramir](../F/Faramir.md). Anh cùng Mablung theo dõi [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md) trong cuộc phục kích của [Người Harad](../H/Haradrim.md) ở [Ithilien](../I/Ithilien.md). Trong khi họ chờ đợi trước trận chiến, Damrod kể cho các hobbit nghe về Kẻ Thù các giao dịch của [người miền Nam](../H/Haradrim.md). Damrod có rất ít hy vọng; ông tin rằng "ngày của [Gondor](../G/Gondor.md) đã được đánh số, và những bức tường của [Minas Tirith](../M/Minas_Tirith.md) sẽ diệt vong".<sup id="cite_ref-herbs_1-1" class="reference"><a href="#cite_note-herbs-1">[1]</a></sup>
 
 Sau cuộc phục kích, Damrod và Mablung tiếp tục làm nhiệm vụ canh gác cho người Hobbit khi Biệt động quân hành trình đến [Henneth Annûn](../H/Henneth_Annûn.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 

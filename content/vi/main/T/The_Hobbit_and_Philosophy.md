@@ -49,7 +49,7 @@ J.R.R. Tolkien's *The Hobbit* là một trong những cuốn sách giả tưởn
 - Khám phá các câu hỏi chính về câu chuyện và chủ đề của The Hobbit, bao gồm: Arkenstone có thực sự là Bilbo để tặng không? Kho báu của Smaug nên được phân phối như thế nào? Có phải Thorin đã để lại "cây đàn hạc vàng tuyệt đẹp" của mình ở Bag–End khi ông tiến vào Vùng Hoang Dã? (Nếu vậy, chúng ta có thể kiếm được bao nhiêu cho món hàng đó trên eBay?)
 - Dựa trên những hiểu biết sâu sắc của một số nhà tư tưởng sâu sắc nhất thế giới, từ Khổng Tử, Plato và Aristotle đến Immanuel Kant, William Blake và triết gia người Mỹ đương đại Thomas Nagel
 
-Từ những căn phòng hạnh phúc của Ngôi nhà giản dị cuối cùng của Elrond đến "hòn đảo đá nhầy nhụa" của Gollum, *The Hobbit and Philosophy* là một cuốn sách phải đọc đối với những người hâm mộ Tolkien lâu năm cũng như những người lần đầu tiên khám phá Bilbo Baggins và những cuộc phiêu lưu "đến đó và quay lại" của ông.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Từ những căn phòng hạnh phúc của Ngôi nhà Cuối cùng Ấm cúng của Elrond đến "hòn đảo đá nhầy nhụa" của Gollum, *The Hobbit and Philosophy* là một cuốn sách phải đọc đối với những người hâm mộ Tolkien lâu năm cũng như những người lần đầu tiên khám phá Bilbo Baggins và những cuộc phiêu lưu "đến đó và quay lại" của ông.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

@@ -48,7 +48,7 @@ infobox:
     - Bởi: [Pauline Baynes](../P/Pauline_Baynes.md)
 - Biên tập
     - Bởi: Len Sanford
-- Trái tim thất lạc của Vương quốc nhỏ
+- Trái tim thất lạc của Tiểu Vương quốc
     - Bởi: [Alex Lewis](../A/Alex_Lewis.md)
 - Tolkien Trung Địa và Trí tưởng tượng Công giáo
     - Bởi: Christopher Garbowski

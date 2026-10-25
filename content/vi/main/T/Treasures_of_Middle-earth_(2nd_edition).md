@@ -47,7 +47,7 @@ Kho báu Trung Địa bao gồm:
 
 - KHO BÁ - mọi thứ từ Mảnh Narsil đến Ba Tiên Những Chiếc Nhẫn Quyền Năng đến Sting, thanh kiếm huyền thoại của Bilbo. Vũ khí, áo giáp, quần áo và trang bị; đồ trang sức & tác phẩm nghệ thuật, nhạc cụ, nhẫn, dụng cụ & đồ trang trí đều có mặt. Mỗi mục có một mô tả ngắn, theo sau là danh sách đầy đủ các sức mạnh ma thuật của nó, bao gồm số liệu thống kê cho MERP, Rolemaster và Trò chơi phiêu lưu Chúa tể những chiếc nhẫn.
 - NHÀ SÁNG TẠO - các kỹ thuật rèn được ưa chuộng bởi mỗi chủng tộc, chạm đến các tác phẩm của Ainur được tôn vinh, chẳng hạn như những Ngọn đèn vĩ đại Illuin và Ormal, cũng như những tác phẩm của Orc thấp kém.
-- VẬT LIỆU - thuộc tính của đồ trang sức, đá, gỗ và kim loại được sử dụng để tạo ra các vật phẩm mê hoặc và trần tục. Những viên đá quý được rèn bởi Eldar, các loại thảo mộc được trồng bởi Dúnedain, hợp kim hiếm ithildin dùng để phân định cổng Phương Tây của Moria và mellyrn vàng của Lórien đều được mô tả.
+- VẬT LIỆU - thuộc tính của đồ trang sức, đá, gỗ và kim loại được sử dụng để tạo ra các vật phẩm mê hoặc và trần tục. Những viên đá quý được rèn bởi Eldar, các loại thảo mộc được trồng bởi Dúnedain, hợp kim hiếm ithildin dùng để phân định Cổng Tây Moria và mellyrn vàng của Lórien đều được mô tả.
 
 ## Xem thêm {#See_also}
 

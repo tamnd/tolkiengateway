@@ -18,7 +18,7 @@ images:
 
 - **[Ringil](Ringil.md), thanh kiếm của [Fingolfin](../F/Fingolfin.md)**
 - **[Ringil (tháp)](<Ringil_(tower).md>)**, tòa tháp cổ cầm đèn [Ormal](../O/Ormal.md)
-- **[Biển Ringil](../S/Sea_of_Ringil.md)**, một vùng biển nội địa phía nam của [Biển Helcar](../S/Sea_of_Helcar.md) đã nối với [Belegaer](../B/Belegaer.md) và [phương Đông Biển](../E/East_Sea.md)
+- **[Biển Ringil](../S/Sea_of_Ringil.md)**, một vùng biển nội địa phía nam của [Biển Helcar](../S/Sea_of_Helcar.md) đã nối với [Belegaer](../B/Belegaer.md) và [Biển Đông](../E/East_Sea.md)
 
 <hr style="margin-top:15px;"/>
 

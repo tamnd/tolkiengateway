@@ -24,7 +24,7 @@ Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 ## Tính ngày {#Calculation_of_the_Date}
 
-[Fortinbras Took II](../F/Fortinbras_Took_II.md) kết hôn với Lalia ở [S.R.](../S/Shire_Reckoning.md) [1314](Third_Age_2914.md) khi cô 31 tuổi.<sup id="cite_ref-L214_1-0" class="reference"><a href="#cite_note-L214-1">[1]</a></sup> Trừ 31 từ 1314 nơi Lalia sinh năm 1283 theo [Shire Tính toán](../S/Shire_Reckoning.md); việc thêm 1600 sẽ chuyển đổi năm thành cách tính của [Tiên tộc](../E/Elves.md) và [Dúnedain](../D/Dúnedain.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+[Fortinbras Took II](../F/Fortinbras_Took_II.md) kết hôn với Lalia ở [S.R.](../S/Shire_Reckoning.md) [1314](Third_Age_2914.md) khi cô 31 tuổi.<sup id="cite_ref-L214_1-0" class="reference"><a href="#cite_note-L214-1">[1]</a></sup> Trừ 31 từ 1314 nơi Lalia sinh năm 1283 theo [Lịch Shire](../S/Shire_Reckoning.md); việc thêm 1600 sẽ chuyển đổi năm thành cách tính của [Tiên tộc](../E/Elves.md) và [Dúnedain](../D/Dúnedain.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

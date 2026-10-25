@@ -130,11 +130,11 @@ Vào [Ngày 25 tháng 3](../_/25_March.md), [T.A.](../T/Third_Age.md) [3019](../
 </tbody></table>
 </div>
 
-*Barad-dûr* là một tên [Sindarin](../S/Sindarin.md).<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup> Nó có nghĩa là “Tháp Tối”.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> Đây là một từ ghép gồm *[Barad](Barad.md)* (một công trình cao lớn vươn lên, (tháp pháo đài, thành phố, lâu đài))<sup id="cite_ref-PE17_19-0" class="reference"><a href="#cite_note-PE17-19">[19]</a></sup> và tính từ *[dûr](../D/Dûr.md)* (“tối tăm” (mang hàm ý xấu xa)).<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup>
+*Barad-dûr* là một tên [Sindarin](../S/Sindarin.md).<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup> Nó có nghĩa là “Tháp Bóng tối”.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> Đây là một từ ghép gồm *[Barad](Barad.md)* (một công trình cao lớn vươn lên, (tháp pháo đài, thành phố, lâu đài))<sup id="cite_ref-PE17_19-0" class="reference"><a href="#cite_note-PE17-19">[19]</a></sup> và tính từ *[dûr](../D/Dûr.md)* (“tối tăm” (mang hàm ý xấu xa)).<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup>
 
 *Lugbúrz* là tên của Barad-dûr trong [Hắc Ngữ](Black_Speech.md), được cấu thành từ các từ Hắc Ngữ *lûg* (“pháo đài”, “nơi giam giữ”, “nhà tù”) và *[búrz](Búrz.md)* (“tối tăm”).<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup><sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup>
 
-Các dạng [Quenya](../Q/Quenya.md) của *Barad-dûr* là *Taras Lúna* (“Tháp Tối”) và *Lúnaturco* (“Thành trì Tối”).<sup id="cite_ref-PE17_19-1" class="reference"><a href="#cite_note-PE17-19">[19]</a></sup> Chúng không bao giờ được sử dụng trong phần tường thuật.
+Các dạng [Quenya](../Q/Quenya.md) của *Barad-dûr* là *Taras Lúna* (“Tháp Bóng tối”) và *Lúnaturco* (“Thành trì Tối”).<sup id="cite_ref-PE17_19-1" class="reference"><a href="#cite_note-PE17-19">[19]</a></sup> Chúng không bao giờ được sử dụng trong phần tường thuật.
 
 ## Khắc họa trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 

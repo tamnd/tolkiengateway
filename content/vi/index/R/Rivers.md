@@ -74,7 +74,7 @@ Trang này liệt kê tất cả [Sông](../../category/R/Rivers.md) trong [Arda
 - [Celebrant](../../main/C/Celebrant.md)
 - [Celos](../../main/C/Celos.md)
 - [Ciril](../../main/C/Ciril.md)
-- [Dòng sông mê hoặc](../../main/E/Enchanted_River.md)
+- [Dòng sông Phép thuật](../../main/E/Enchanted_River.md)
 - [Entwash](../../main/E/Entwash.md)
 - [Erui](../../main/E/Erui.md)
 - [Ethir Anduin](../../main/E/Ethir_Anduin.md)

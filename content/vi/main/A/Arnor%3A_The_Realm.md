@@ -49,7 +49,7 @@ Arnor: Vương quốc bao gồm:
 - SỐ PHẬN CỦA CÁC VUA, hàng loạt kịch bản hấp dẫn kết hợp mưu đồ chính trị với chiến tranh hoàng gia.
 - BẢN ĐỒ THÀNH PHỐ MÀU SẮC mô tả các đường phố, kênh rạch, cầu và dinh thự của Tharbad; các đại lộ, vườn hoa và thư viện của Annúminas; và đê đất, tường đá, tháp canh cao kiên cố Fornost Erain.
 
-Năm 861 năm Kỷ Đệ Tam, Arnor bị chia cắt. Cái chết của vị vua Arnorian thứ mười và cuối cùng, Eärendur, khiến lòng trung thành của Vương quốc phía Bắc bị chia rẽ giữa ba người con trai còn sống sót của Eärendur. Amlaith của Fornost, con cả trong ba người và do đó là Thân vương xứng đáng nhất được thừa kế toàn bộ lãnh thổ của cha mình, đã giành được Vương trượng Annúminas nhưng trong quá trình đó đã mất một nửa lãnh thổ của Arnor và phần lớn quyền lực của bà. Những người anh em của ông đã tuyên bố chủ quyền đối với các vùng đất phía đông và phía nam và chống lại thành công nỗ lực thống nhất vương quốc của ông.
+Năm 861 năm Kỷ Đệ Tam, Arnor bị chia cắt. Cái chết của vị vua Arnorian thứ mười và cuối cùng, Eärendur, khiến lòng trung thành của Vương quốc phương Bắc bị chia rẽ giữa ba người con trai còn sống sót của Eärendur. Amlaith của Fornost, con cả trong ba người và do đó là Thân vương xứng đáng nhất được thừa kế toàn bộ lãnh thổ của cha mình, đã giành được Vương trượng Annúminas nhưng trong quá trình đó đã mất một nửa lãnh thổ của Arnor và phần lớn quyền lực của bà. Những người anh em của ông đã tuyên bố chủ quyền đối với các vùng đất phía đông và phía nam và chống lại thành công nỗ lực thống nhất vương quốc của ông.
 
 Do đó, Vương quốc Bắc chia thành ba quốc gia độc lập, láng giềng nhưng nhỏ hơn: Arthedain, Cardolan và Rhudaur.
 

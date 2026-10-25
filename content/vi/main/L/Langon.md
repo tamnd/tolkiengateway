@@ -22,7 +22,7 @@ images:
 
 ## Lịch sử {#History}
 
-Chủng tộc của Langon và ý nghĩa tên của ông vẫn chưa được biết. Trong [Ngày của người cao tuổi](../E/Elder_Days.md) ông đã trở thành người hầu của Melko.
+Chủng tộc của Langon và ý nghĩa tên của ông vẫn chưa được biết. Trong [Thời Cổ xưa](../E/Elder_Days.md) ông đã trở thành người hầu của Melko.
 
 Khi [Các vị thần](../G/Gods.md) đến [Great Lands](../G/Great_Lands.md) để tấn công Melko, ông chạy về phía bắc và nhốt mình trong [Utumna](../U/Utumna.md). Sau đó Valar mở cổng và yêu cầu ông đi ra. Tuy nhiên, Melko đã cử Langon đi đàm phán với kẻ thù của họ. Thông điệp của ông đầy sự xấc xược và xu nịnh giả dối, gây ra cơn thịnh nộ giữa các vị thần.<sup id="cite_ref-Langon_1-0" class="reference"><a href="#cite_note-Langon-1">[1]</a></sup>
 

@@ -13,7 +13,7 @@ categories:
   - "Tol Eressëa"
 ---
 
-**Tale-fire** là một ngọn lửa ma thuật nằm trong [Phòng Gỗ](../R/Room_of_Logs.md) trong [Ngôi nhà của Lost Play](../C/Cottage_of_Lost_Play.md), theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) trong *[The Book of Lost Tales](The_Book_of_Lost_Tales.md)*.
+**Tale-fire** là một ngọn lửa ma thuật nằm trong [Phòng Gỗ](../R/Room_of_Logs.md) trong [Ngôi nhà Trò chơi Thất lạc](../C/Cottage_of_Lost_Play.md), theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) trong *[The Book of Lost Tales](The_Book_of_Lost_Tales.md)*.
 
 Xung quanh đống lửa có tiếng hát, tiếng nhạc, tiếng nói của thơ về ngày xưa.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 

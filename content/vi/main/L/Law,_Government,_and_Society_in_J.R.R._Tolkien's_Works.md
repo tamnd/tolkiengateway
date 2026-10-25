@@ -54,7 +54,7 @@ infobox:
     - Luật đạo đức, Luật tự nhiên và Luật tích cực
     - Luật chung và Luật dân sự
     - Luật pháp và Công lý
-    - Giữa Luật pháp và Tội lỗi: Sự diệt vong của Noldor và Lệnh cấm Con Người đặt chân vào Valinor
+    - Giữa Luật pháp và Tội lỗi: Tai họa của Noldor và Lệnh cấm Con Người đặt chân vào Valinor
     - Luật hiện đại: 'Leaf by Niggle'
 - **Phần thứ hai: Luật pháp và Chính phủ trong Arda**
     - Chúng tôi, những vị Vua

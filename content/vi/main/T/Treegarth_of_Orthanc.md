@@ -32,15 +32,15 @@ infobox:
 <p class="tg-quote-footer"><cite><a href="Treebeard.md" title="Treebeard">Treebeard</a><sup id="cite_ref-RKPartings_3-0" class="reference"><a href="#cite_note-RKPartings-3">[3]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Treegarth của Orthanc** là tên của khu rừng được thiết lập xung quanh tháp [Orthanc](../O/Orthanc.md) trong thung lũng [Nan Curunír](../N/Nan_Curunír.md).
+**Khu Rừng Orthanc** là tên của khu rừng được thiết lập xung quanh tháp [Orthanc](../O/Orthanc.md) trong thung lũng [Nan Curunír](../N/Nan_Curunír.md).
 
 ## Lịch sử {#History}
 
 Sau chiến thắng [Entish](../E/Ents.md) tại [Trận Isengard](../B/Battle_of_Isengard.md), nhiều cây cối ở lại xung quanh Orthanc để bảo vệ [Saruman](../S/Saruman.md).<sup id="cite_ref-RKPartings_3-1" class="reference"><a href="#cite_note-RKPartings-3">[3]</a></sup> Ngay trước khi [Gandalf](../G/Gandalf.md), [Théoden](Théoden.md) và đại đội khởi hành [Isengard](../I/Isengard.md) vào [5 tháng 3](../_/5_March.md) [T.A.](Third_Age.md) [3019](Third_Age_3019.md), [Treebeard](Treebeard.md) đã tuyên bố rằng cây cối sẽ quay trở lại và rằng khu rừng mới sẽ được gọi là "Rừng canh gác".<sup id="cite_ref-voice_1-1" class="reference"><a href="#cite_note-voice-1">[1]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
-Khi Gandalf và công ty trở lại vào [22 tháng 8](../_/22_August.md) [T.A.](Third_Age.md) [3019](Third_Age_3019.md) Treebeard chào mừng họ đến với "Treegarth of Orthanc". Ent đã phá hủy [Vòng Isengard](../R/Ring_of_Isengard.md) và lấp đầy vùng đất bằng vườn cây ăn quả. Một dòng suối chảy vào một hồ nước trong vắt, ở giữa có Orthanc ngọn tháp bất khả xâm phạm.<sup id="cite_ref-great_2-1" class="reference"><a href="#cite_note-great-2">[2]</a></sup><sup id="cite_ref-RKPartings_3-2" class="reference"><a href="#cite_note-RKPartings-3">[3]</a></sup> Tuy nhiên, bất chấp "canh gác", Treebeard vẫn cho phép Saruman rời khỏi Watchwood.<sup id="cite_ref-RKPartings_3-3" class="reference"><a href="#cite_note-RKPartings-3">[3]</a></sup>
+Khi Gandalf và công ty trở lại vào [22 tháng 8](../_/22_August.md) [T.A.](Third_Age.md) [3019](Third_Age_3019.md) Treebeard chào mừng họ đến với "Treegarth of Orthanc". Ent đã phá hủy [Vành đai Isengard](../R/Ring_of_Isengard.md) và lấp đầy vùng đất bằng vườn cây ăn quả. Một dòng suối chảy vào một hồ nước trong vắt, ở giữa có Orthanc ngọn tháp bất khả xâm phạm.<sup id="cite_ref-great_2-1" class="reference"><a href="#cite_note-great-2">[2]</a></sup><sup id="cite_ref-RKPartings_3-2" class="reference"><a href="#cite_note-RKPartings-3">[3]</a></sup> Tuy nhiên, bất chấp "canh gác", Treebeard vẫn cho phép Saruman rời khỏi Watchwood.<sup id="cite_ref-RKPartings_3-3" class="reference"><a href="#cite_note-RKPartings-3">[3]</a></sup>
 
-Trong [Vương quốc Thống nhất](../R/Reunited_Kingdom.md), [Vua Elessar](../A/Aragorn.md) đã trao cho Ent quyền tự quản hoàn toàn của Treegarth của Orthanc.<sup id="cite_ref-RKPartings_3-4" class="reference"><a href="#cite_note-RKPartings-3">[3]</a></sup>
+Trong [Vương quốc Thống nhất](../R/Reunited_Kingdom.md), [Vua Elessar](../A/Aragorn.md) đã trao cho Ent quyền tự quản hoàn toàn của Khu Rừng Orthanc.<sup id="cite_ref-RKPartings_3-4" class="reference"><a href="#cite_note-RKPartings-3">[3]</a></sup>
 
 <span></span>
 

@@ -26,7 +26,7 @@ images:
 - *i aldas* = "[Những cái cây](../T/Two_Trees_of_Valinor.md)"
 - *(T?)oros valinoriva*, có thể đề cập đến [Dãy Núi của Valinor](../P/Pelóri.md)
 - *Tolli Kimpelear*, có thể ám chỉ [Quần đảo Chạng vạng](../T/Twilit_Isles.md)
-- *[Tol Eressëa](../T/Tol_Eressëa.md)* = "Hòn đảo cô đơn"
+- *[Tol Eressëa](../T/Tol_Eressëa.md)* = "Hòn đảo Cô Độc"
 - *I Tolli Kuruvar* = " [Quần đảo ma thuật](../M/Magic_Isles.md)"
 - *Haloisi Velike* = "Cái [Đại Hải](../B/Belegaer.md)"
 - *Ô* = "Cái [Biển](../B/Belegaer.md)"

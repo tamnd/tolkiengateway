@@ -125,7 +125,7 @@ Ilúvatar sau đó đã nói chuyện với Ainur về Âm nhạc và những h�
 
 Các Ainur đã rất ngạc nhiên khi [Những Người Con của Ilúvatar](../C/Children_of_Ilúvatar.md) xuất hiện trong tầm nhìn này, vì chúng là một phần trong kế hoạch của Eru mà họ chưa được tiết lộ trước khi Âm nhạc được phát. Những đứa trẻ đã được Ilúvatar hát thành hiện thực trong Chủ đề thứ ba, và không ai trong số Ainur dám đóng góp vào việc tạo ra chúng.
 
-Ilúvatar đột nhiên mất đi tầm nhìn, và Ainur không biết nó sẽ kết thúc như thế nào. Một số người nói rằng họ chỉ nhìn thấy lịch sử của Vũ trụ cho đến [Sự thống trị của Con Người](../D/Dominion_of_Men.md). Sự kết thúc đột ngột của tầm nhìn đã gây ra sự bồn chồn trong Ainur và Ilúvatar nhận ra rằng họ muốn tầm nhìn trở thành sự thật, để—ngay cả khi có những sai sót khủng khiếp đã được đưa vào nó—Vũ trụ sẽ có thật như chính họ.
+Ilúvatar đột nhiên mất đi tầm nhìn, và Ainur không biết nó sẽ kết thúc như thế nào. Một số người nói rằng họ chỉ nhìn thấy lịch sử của Vũ trụ cho đến [Quyền thống trị của Con Người](../D/Dominion_of_Men.md). Sự kết thúc đột ngột của tầm nhìn đã gây ra sự bồn chồn trong Ainur và Ilúvatar nhận ra rằng họ muốn tầm nhìn trở thành sự thật, để—ngay cả khi có những sai sót khủng khiếp đã được đưa vào nó—Vũ trụ sẽ có thật như chính họ.
 
 Vì vậy Eru đã nói, "*Eä! Let these things Be!*". Ông đã gửi Ngọn Lửa Bất Diệt vào Vũ trụ, và ở phía xa trong Hư Không một ánh sáng xuất hiện—sự khởi đầu cho việc đạt được Âm nhạc của các Ainur.
 

@@ -48,7 +48,7 @@ infobox:
 
 ## Nội dung {#Contents}
 
-- Bìa: "Nhưng Lungorthin, Chúa tể của Balrog, đã đánh vào miệng hắn" — Tom Loback
+- Bìa: "Nhưng Lungorthin, Chúa tể Balrog, đã đánh vào miệng hắn" — Tom Loback
 - E.L.F. News
 - Thư gửi *VT*
 

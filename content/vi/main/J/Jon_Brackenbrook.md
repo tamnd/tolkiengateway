@@ -37,7 +37,7 @@ infobox:
 
 **Jon Brackenbrook** là nhân vật được tạo riêng cho [The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md).
 
-Jon là con trai của Thuyền trưởng [Archet](../A/Archet.md), [Thuyền trưởng Brackenbrook](../C/Captain_Brackenbrook.md). Ông đóng một vai trò không thể thiếu trong Cuộc tấn công vào Archet của [Blackwolds](../B/Blackwolds.md). Sau khi phát hiện ra sự phản bội của [Calder Cob](../C/Calder_Cob.md), anh đã không thể thuyết phục cha mình rằng Calder đang làm việc cho [Blackwolds](../B/Blackwolds.md). Sau đó anh đã chiến đấu trong Cuộc tấn công vào Archet, trong đó cha anh bị Calder giết chết. Sau khi bảo vệ thành công thị trấn, anh đảm nhận vị trí Đội trưởng của cha mình và bắt đầu xây dựng lại Archet. <sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Jon là con trai của Thuyền trưởng [Archet](../A/Archet.md), [Đại úy Brackenbrook](../C/Captain_Brackenbrook.md). Ông đóng một vai trò không thể thiếu trong Cuộc tấn công vào Archet của [Blackwolds](../B/Blackwolds.md). Sau khi phát hiện ra sự phản bội của [Calder Cob](../C/Calder_Cob.md), anh đã không thể thuyết phục cha mình rằng Calder đang làm việc cho [Blackwolds](../B/Blackwolds.md). Sau đó anh đã chiến đấu trong Cuộc tấn công vào Archet, trong đó cha anh bị Calder giết chết. Sau khi bảo vệ thành công thị trấn, anh đảm nhận vị trí Đội trưởng của cha mình và bắt đầu xây dựng lại Archet. <sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

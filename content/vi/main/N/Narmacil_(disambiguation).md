@@ -27,7 +27,7 @@ images:
 **Narmacil** có thể đề cập đến:
 
 - [Narmacil I](Narmacil_I.md) ([T.A.](../T/Third_Age.md) [1049](../T/Third_Age_1049.md) - [1294](../T/Third_Age_1294.md)), [Vua Gondor](../K/Kings_of_Gondor.md) thứ mười bảy, người cai trị ở đỉnh cao quyền lực của [Gondor](../G/Gondor.md).
-- [Narmacil II](Narmacil_II.md) ([T.A.](../T/Third_Age.md) [1684](../T/Third_Age_1684.md) - [1856](../T/Third_Age_1856.md)), [Vua Gondor](../K/Kings_of_Gondor.md) thứ hai mươi chín, người đã bị giết trong [Trận chiến vùng đồng bằng](../B/Battle_of_the_Plains.md).
+- [Narmacil II](Narmacil_II.md) ([T.A.](../T/Third_Age.md) [1684](../T/Third_Age_1684.md) - [1856](../T/Third_Age_1856.md)), [Vua Gondor](../K/Kings_of_Gondor.md) thứ hai mươi chín, người đã bị giết trong [Trận chiến Đồng Bằng](../B/Battle_of_the_Plains.md).
 
 <hr style="margin-top:15px;"/>
 

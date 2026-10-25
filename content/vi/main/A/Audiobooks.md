@@ -60,7 +60,7 @@ images:
 ## *[The Silmarillion](../T/The_Silmarillion.md)* {#The_Silmarillion}
 
 - [1977](../_/1977.md) - *[Of Beren and Lúthien](../O/Of_Beren_and_Lúthien.md)*, được đọc bởi [Christopher Tolkien](../C/Christopher_Tolkien.md). (được xuất bản bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=Caedmon&amp;action=edit&amp;redlink=1" title="Caedmon (page does not exist)">Caedmon</a>)
-- [1978](../_/1978.md) - *[Về bóng tối của Valinor](../O/Of_the_Darkening_of_Valinor.md) và [Về chuyến bay của Noldor](../O/Of_the_Flight_of_the_Noldor.md)*, đọc bởi [Christopher Tolkien](../C/Christopher_Tolkien.md). (được xuất bản bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=Caedmon&amp;action=edit&amp;redlink=1" title="Caedmon (page does not exist)">Caedmon</a>)
+- [1978](../_/1978.md) - *[Về bóng tối của Valinor](../O/Of_the_Darkening_of_Valinor.md) và [Về Cuộc Di Tản của người Noldor](../O/Of_the_Flight_of_the_Noldor.md)*, đọc bởi [Christopher Tolkien](../C/Christopher_Tolkien.md). (được xuất bản bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=Caedmon&amp;action=edit&amp;redlink=1" title="Caedmon (page does not exist)">Caedmon</a>)
 - [2002](../_/2002.md) - [Martin Shaw](../M/Martin_Shaw.md), không tóm tắt. (được xuất bản bởi [HarperCollins](../H/HarperCollins.md))
 - [2023](../_/2023.md) - [Andy Serkis](Andy_Serkis.md), không tóm tắt. (được xuất bản bởi [HarperCollins](../H/HarperCollins.md)
 

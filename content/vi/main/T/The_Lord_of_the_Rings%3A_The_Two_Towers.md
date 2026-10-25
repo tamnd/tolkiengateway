@@ -137,7 +137,7 @@ Gollum, cảm thấy bị Frodo phản bội vì cậu góp phần khiến nó b
 17. [Người thừa kế của Númenor](The_Heir_of_Númenor.md) \*
 18. [ Cổng Đen đã đóng](<The_Black_Gate_is_Closed_(scene).md>)
 19. [Ent bản nháp](../E/Ent_Draft.md) \*
-20. [ Vua của Sảnh Vàng](<The_King_of_the_Golden_Hall_(scene).md>) \*\*
+20. [ Vua của Đại Sảnh Vàng](<The_King_of_the_Golden_Hall_(scene).md>) \*\*
 21. [Tang lễ của Théodred](The_Funeral_of_Théodred.md) \*
 22. [Simbelmynë trên gò mộ](../S/Simbelmynë_on_the_Burial_Mounds.md)
 23. [Quyết định của Vua](The_King's_Decision.md)
@@ -159,7 +159,7 @@ Gollum, cảm thấy bị Frodo phản bội vì cậu góp phần khiến nó b
 39. [Câu chuyện được đoán trước từ Lórien](The_Story_Foreseen_from_Lórien.md)
 40. [Cửa sổ trên Phương Tây](<The_Window_on_the_West_(scene).md>) \*\*
 41. [Con trai của Quản gia](../S/Sons_of_the_Steward.md) \*
-42. [Bể Cấm](<The_Forbidden_Pool_(scene).md>) \*\*
+42. [Hồ Cấm](<The_Forbidden_Pool_(scene).md>) \*\*
 Sự trở lại của 43. [Aragorn](../A/Aragorn's_Return.md)
 44. [Thảo luận](<../E/Entmoot_(scene).md>)
 45. [Những hang động lấp lánh](The_Glittering_Caves.md) \*\*
@@ -168,7 +168,7 @@ Sự trở lại của 43. [Aragorn](../A/Aragorn's_Return.md)
 48. [Máy chủ của Eldar](The_Host_of_the_Eldar.md)
 49. [Cái Trận Hornburg](The_Battle_of_the_Hornburg.md) \*\*
 50. [Tiếng Ent cổ](<../O/Old_Entish_(scene).md>)
-51. [Sự xâm phạm của Bức tường sâu](The_Breach_of_the_Deeping_Wall.md)
+51. [Sự xâm phạm của Tường thành Deeping](The_Breach_of_the_Deeping_Wall.md)
 52. [Cuộc tranh luận quyết định](The_Entmoot_Decides.md)
 53. [Cuộc rút lui của Hornburg](The_Retreat_of_the_Hornburg.md) \*\*
 54. [Kế hoạch tổng thể của Peregrin](../M/Master_Peregrin's_Plan.md)

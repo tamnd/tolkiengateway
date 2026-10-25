@@ -20,7 +20,7 @@ Hội được thành lập vào [24 tháng 7](../_/24_July.md) [1999](../_/1999
 
 ## Ấn phẩm {#Publications}
 
-Kể từ năm 2015, xã hội xuất bản tạp chí hai năm một lần có tên *Dragón Verde* (tiếng Tây Ban Nha:" [Green Rồng](../T/The_Green_Dragon.md)"). Các nghệ sĩ cover đáng chú ý là [Jemima Caitlin](../J/Jemima_Caitlin.md), [Donato Giancola](../D/Donato_Giancola.md), [Ted Nasmith](../T/Ted_Nasmith.md), [Jenny Dolfen](../J/Jenny_Dolfen.md), [David Wenzel](../D/David_Wenzel.md), [Anke Eißmann](../A/Anke_Eißmann.md) và [Matěj Čadil](../M/Matěj_Čadil.md).
+Kể từ năm 2015, xã hội xuất bản tạp chí hai năm một lần có tên *Dragón Verde* (tiếng Tây Ban Nha:" [Rồng Xanh](../T/The_Green_Dragon.md)"). Các nghệ sĩ cover đáng chú ý là [Jemima Caitlin](../J/Jemima_Caitlin.md), [Donato Giancola](../D/Donato_Giancola.md), [Ted Nasmith](../T/Ted_Nasmith.md), [Jenny Dolfen](../J/Jenny_Dolfen.md), [David Wenzel](../D/David_Wenzel.md), [Anke Eißmann](../A/Anke_Eißmann.md) và [Matěj Čadil](../M/Matěj_Čadil.md).
 
 ## Liên kết ngoài {#External_links}
 

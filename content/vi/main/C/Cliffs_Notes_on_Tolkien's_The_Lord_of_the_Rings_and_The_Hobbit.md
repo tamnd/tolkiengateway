@@ -65,9 +65,9 @@ CliffsNotes về Chúa tể những chiếc nhẫn theo sau cuộc phiêu lưu c
     - Quyển 4, Chương 7–10: Henneth Annûn đến Cirith Ungol
 - The Return of the King: Tóm tắt và Bình luận
     - Quyển 5, Chương 1–5: Minas Tirith và Cuộc vây hãm Gondor
-    - Quyển 5, Chương 6–10: Trận chiến cánh đồng Pelennor với Cổng Đen
+    - Quyển 5, Chương 6–10: Trận chiến tại cánh đồng Pelennor với Cổng Đen
     - Quyển 6, Chương 1–5: Cirith Ungol về sự trở lại của Vua
-    - Quyển 6, Chương 6–10: Hành trình về nhà và truy quét Shire
+    - Quyển 6, Chương 6–10: Hành trình về nhà và truy Cuộc thanh trừng Shire
     - Phụ lục
 - Phân tích ký tự
     - Frodo Baggins

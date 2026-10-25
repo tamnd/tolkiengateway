@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Party Tree"
 ---
 
-Chuyển hướng đến [Cây Đảng](../T/The_Party_Tree.md).
+Chuyển hướng đến [Cây Hội Tiệc](../T/The_Party_Tree.md).

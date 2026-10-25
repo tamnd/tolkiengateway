@@ -67,7 +67,7 @@ Danh sách này bao gồm tất cả các nhân vật phụ ở [Ered Luin](../E
 
 ## Erynwen {#Erynwen}
 
-**Erynwen** là một [Tiên](../E/Elves.md) tại Tòa án của Frerin. Cô là thành viên của nhóm [Tiên tộc](../E/Elves.md), dẫn đầu bởi [Dorongúr Whitethorn](../D/Dorongúr_Whitethorn.md), đã cố gắng khôi phục Edhelion.<sup id="cite_ref-Ered_Luin_introduction_2-2" class="reference"><a href="#cite_note-Ered_Luin_introduction-2">[2]</a></sup> Người chơi đã giúp cô tiêu diệt loài thực vật độc Skorgrím's Bloom, đồng thời đe dọa các loài động vật từ Cổng của Thorin.<sup id="cite_ref-deadly_bloom_11-0" class="reference"><a href="#cite_note-deadly_bloom-11">[11]</a></sup>
+**Erynwen** là một [Tiên](../E/Elves.md) tại Tòa án của Frerin. Cô là thành viên của nhóm [Tiên tộc](../E/Elves.md), dẫn đầu bởi [Dorongúr Whitethorn](../D/Dorongúr_Whitethorn.md), đã cố gắng khôi phục Edhelion.<sup id="cite_ref-Ered_Luin_introduction_2-2" class="reference"><a href="#cite_note-Ered_Luin_introduction-2">[2]</a></sup> Người chơi đã giúp cô tiêu diệt loài thực vật độc Skorgrím's Bloom, đồng thời đe dọa các loài động vật từ Cổng Thorin.<sup id="cite_ref-deadly_bloom_11-0" class="reference"><a href="#cite_note-deadly_bloom-11">[11]</a></sup>
 
 ## Fanhir {#Fanhir}
 
@@ -127,7 +127,7 @@ Danh sách này bao gồm tất cả các nhân vật phụ ở [Ered Luin](../E
 
 ## Nial {#Nial}
 
-**Nial** là một huấn luyện viên hát rong [Người Lùn](../D/Dwarves.md) tại Tòa án của Frerin.<sup id="cite_ref-Ered_Luin_9-7" class="reference"><a href="#cite_note-Ered_Luin-9">[9]</a></sup> Ông là thành viên của nhóm Người Lùn được [Dwalin](../D/Dwalin.md) dẫn đầu để điều tra Cổng của Thorin theo lệnh của [Dáin II](../D/Dáin_Ironfoot.md).<sup id="cite_ref-Ered_Luin_introduction_2-8" class="reference"><a href="#cite_note-Ered_Luin_introduction-2">[2]</a></sup> Trong phần Giới thiệu, ông đã dạy người chơi lùn về các kỹ năng chơi hát rong theo yêu cầu của [Nos Bài hát Grims](../N/Nos_Grimsong.md).<sup id="cite_ref-sharpen_your_skills_13-3" class="reference"><a href="#cite_note-sharpen_your_skills-13">[13]</a></sup>
+**Nial** là một huấn luyện viên hát rong [Người Lùn](../D/Dwarves.md) tại Tòa án của Frerin.<sup id="cite_ref-Ered_Luin_9-7" class="reference"><a href="#cite_note-Ered_Luin-9">[9]</a></sup> Ông là thành viên của nhóm Người Lùn được [Dwalin](../D/Dwalin.md) dẫn đầu để điều tra Cổng Thorin theo lệnh của [Dáin II](../D/Dáin_Ironfoot.md).<sup id="cite_ref-Ered_Luin_introduction_2-8" class="reference"><a href="#cite_note-Ered_Luin_introduction-2">[2]</a></sup> Trong phần Giới thiệu, ông đã dạy người chơi lùn về các kỹ năng chơi hát rong theo yêu cầu của [Nos Bài hát Grims](../N/Nos_Grimsong.md).<sup id="cite_ref-sharpen_your_skills_13-3" class="reference"><a href="#cite_note-sharpen_your_skills-13">[13]</a></sup>
 
 ## Orodlin {#Orodlin}
 
@@ -183,7 +183,7 @@ Danh sách này bao gồm tất cả các nhân vật phụ ở [Ered Luin](../E
 
 ## Giải thích {#Unnarr}
 
-**Unnarr** là một người lùn đến từ [Erebor](Lonely_Mountain.md) và là đội trưởng đội bảo vệ tại Sảnh của Thorin.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup> Ông là thành viên của đại đội [Người Lùn](../D/Dwarves.md) được [Dwalin](../D/Dwalin.md) cử đi điều tra Sảnh của Thorin.<sup id="cite_ref-Ered_Luin_introduction_2-13" class="reference"><a href="#cite_note-Ered_Luin_introduction-2">[2]</a></sup>
+**Unnarr** là một người lùn đến từ [Erebor](Lonely_Mountain.md) và là đội trưởng đội bảo vệ tại Đại Sảnh của Thorin.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup> Ông là thành viên của đại đội [Người Lùn](../D/Dwarves.md) được [Dwalin](../D/Dwalin.md) cử đi điều tra Đại Sảnh của Thorin.<sup id="cite_ref-Ered_Luin_introduction_2-13" class="reference"><a href="#cite_note-Ered_Luin_introduction-2">[2]</a></sup>
 
 ## Thư viện hình ảnh {#Image_Gallery}
 

@@ -71,7 +71,7 @@ Một số người cho rằng [Beorn](../B/Beorn.md) là một con gấu có ng
 
 Những «người khổng lồ đá» sống tại [Dãy Núi Sương Mù](../M/Misty_Mountains.md) vào cuối [Kỷ Đệ Tam](../T/Third_Age.md), nơi những con [gấu](../B/Bears.md) to lớn từng sinh sống trước khi họ đến.<sup id="cite_ref-Queer_1-2" class="reference"><a href="#cite_note-Queer-1">[1]</a></sup> Chúng thích ném đá vào nhau, rồi ném đá xuống vực sâu bên dưới để nghe tiếng đá vỡ vụn giữa những tán cây.<sup id="cite_ref-Hill_2-1" class="reference"><a href="#cite_note-Hill-2">[2]</a></sup>
 
-Có lẽ không phải tất cả Người khổng lồ đều hung bạo hoặc độc ác, bởi Gandalf từng hy vọng thuyết phục được một Người khổng lồ tử tế chặn [Hiên trước](../F/Front_Porch.md) dẫn vào [Thị trấn Yêu tinh](Goblin-town.md), để [Đèo Cao](../H/High_Pass.md) thuộc Dãy Núi Sương Mù một lần nữa trở nên an toàn.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
+Có lẽ không phải tất cả Người khổng lồ đều hung bạo hoặc độc ác, bởi Gandalf từng hy vọng thuyết phục được một Người khổng lồ tử tế chặn [Hiên trước](../F/Front_Porch.md) dẫn vào [Thị trấn Goblin](Goblin-town.md), để [Đèo Cao](../H/High_Pass.md) thuộc Dãy Núi Sương Mù một lần nữa trở nên an toàn.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
 
 ## Bình luận {#Commentary}
 

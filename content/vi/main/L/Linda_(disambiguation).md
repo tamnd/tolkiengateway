@@ -22,7 +22,7 @@ images:
 - Phần tử *[lind](Lind.md)*, liên quan đến "âm nhạc" cả trong Quenya và [Sindarin](../S/Sindarin.md) (không được nhầm lẫn với *[lin](Lin.md)*).
 - Một trong những *[Lindar](Lindar.md)*, tên mà [Teleri](../T/Teleri.md) sử dụng cho chính họ.
 - [Linda Proudfoot](Linda_Proudfoot.md) ([S.R.](../S/Shire_Reckoning.md) [1262](../T/Third_Age_2862.md) - [S.R.](../S/Shire_Reckoning.md) [1363](../T/Third_Age_2963.md)), dì của [Bilbo Baggins](../B/Bilbo_Baggins.md).
-- [Lindo](Lindo.md), người canh giữ khôn ngoan [Ngôi nhà của Lost Play](../C/Cottage_of_Lost_Play.md).
+- [Lindo](Lindo.md), người canh giữ khôn ngoan [Ngôi nhà Trò chơi Thất lạc](../C/Cottage_of_Lost_Play.md).
 
 ## Thế giới thực {#Real_World}
 

@@ -13,7 +13,7 @@ categories:
   - "Walls"
 ---
 
-**Bức tường đêm** là **bức tường bên ngoài của thế giới** nằm ngoài [Ekkaia](../E/Ekkaia.md) bao quanh [Arda](../A/Arda.md) làm ranh giới của nó trong [Ngày của người cao tuổi](../E/Elder_Days.md).
+**Bức tường đêm** là **bức tường bên ngoài của thế giới** nằm ngoài [Ekkaia](../E/Ekkaia.md) bao quanh [Arda](../A/Arda.md) làm ranh giới của nó trong [Thời Cổ xưa](../E/Elder_Days.md).
 
 Ở phía Bắc và phía Nam, Ekkaia hẹp hơn và Tường thành gần vùng đất phía Bắc và phía Nam của Arda.
 

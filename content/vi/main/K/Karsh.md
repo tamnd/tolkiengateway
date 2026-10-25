@@ -44,6 +44,6 @@ infobox:
 
 ## Lịch sử {#History}
 
-Karsh được sinh ra dưới cái tên **Carthean** ở vương quốc [Cardolan](../C/Cardolan.md). Khi còn sống, ông là một vị tướng nổi tiếng và đã chiến đấu chống lại [Vua Phù thủy của Angmar](../W/Witch-king.md).
+Karsh được sinh ra dưới cái tên **Carthean** ở vương quốc [Cardolan](../C/Cardolan.md). Khi còn sống, ông là một vị tướng nổi tiếng và đã chiến đấu chống lại [Vua Phù thủy Angmar](../W/Witch-king.md).
 
 Tại một thời điểm nào đó, ông bị <a class="new" href="https://tolkiengateway.net/w/index.php?title=Morgomir&amp;action=edit&amp;redlink=1" title="Morgomir (page does not exist)">Morgomir</a>biến thành hồn ma, và sau đó được biết đến với cái tên Karsh. Ông phục vụ Vương miện Sắt của [Angmar](../A/Angmar.md).

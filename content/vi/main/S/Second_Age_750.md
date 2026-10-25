@@ -22,7 +22,7 @@ Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 - [Eregion](../E/Eregion.md) được thành lập bởi [Noldor](../N/Noldor.md).<sup id="cite_ref-AppB1_1-0" class="reference"><a href="#cite_note-AppB1-1">[1]</a></sup>
 - [Galadriel](../G/Galadriel.md) và [Celeborn](../C/Celeborn.md) đến [Eregion](../E/Eregion.md).<sup id="cite_ref-Galadriel_2-0" class="reference"><a href="#cite_note-Galadriel-2">[2]</a></sup>
-- [Vương quốc Rừng](../W/Woodland_Realm.md) ở [Greenwood the Great](../M/Mirkwood.md) được thành lập.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> [Oropher](../O/Oropher.md) được coi là chúa tể của [Silvan Tiên tộc](Silvan_Elves.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+- [Vương quốc Rừng](../W/Woodland_Realm.md) ở [Greenwood the Great](../M/Mirkwood.md) được thành lập.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> [Oropher](../O/Oropher.md) được coi là chúa tể của [Tiên tộc Silvan](Silvan_Elves.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 - Bắt đầu xây dựng [Ost-in-Edhil](../O/Ost-in-Edhil.md).<sup id="cite_ref-Galadriel_2-1" class="reference"><a href="#cite_note-Galadriel-2">[2]</a></sup>
 - [Aldarion](../T/Tar-Aldarion.md) thành lập [Hiệp hội những người mạo hiểm](../G/Guild_of_Venturers.md).<sup id="cite_ref-Aldarion_5-0" class="reference"><a href="#cite_note-Aldarion-5">[5]</a></sup>
 

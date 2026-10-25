@@ -60,7 +60,7 @@ images:
 <li><a href="Of_the_Rings_of_Power_and_the_Third_Age.md" title="Of the Rings of Power and the Third Age">Về Những Chiếc Nhẫn Quyền Năng</a></li></ol>
 </td></tr></tbody></table>
 
-**Chuyến bay của Noldor** là chương thứ chín của phần *[Quenta Silmarillion](../Q/Quenta_Silmarillion.md)* trong *[The Silmarillion](../T/The_Silmarillion.md)*.
+**Cuộc Di Tản của người Noldor** là chương thứ chín của phần *[Quenta Silmarillion](../Q/Quenta_Silmarillion.md)* trong *[The Silmarillion](../T/The_Silmarillion.md)*.
 
 ## Tóm tắt {#Synopsis}
 

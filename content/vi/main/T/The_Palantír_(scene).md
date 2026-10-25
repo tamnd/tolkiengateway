@@ -40,7 +40,7 @@ infobox:
 
 ## Tóm tắt {#Synopsis}
 
-[Aragorn](../A/Aragorn.md) bước ra ngoài [Sảnh Vàng](../G/Golden_Hall.md) vào ban đêm. [Legolas](../L/Legolas.md) đang đứng nhìn các vì sao và nói với Aragorn rằng ông có thể cảm thấy có thứ gì đó chuyển động trong [phương Đông](../E/East.md).
+[Aragorn](../A/Aragorn.md) bước ra ngoài [Đại Sảnh Vàng](../G/Golden_Hall.md) vào ban đêm. [Legolas](../L/Legolas.md) đang đứng nhìn các vì sao và nói với Aragorn rằng ông có thể cảm thấy có thứ gì đó chuyển động trong [phương Đông](../E/East.md).
 
 Bên trong, [Pippin](../P/Pippin.md) không ngủ được nên đứng dậy và đi về phía [Gandalf](../G/Gandalf.md) đang ngủ. [Merry](../M/Merry.md) hỏi ông đang làm gì và Pippin nói với ông rằng ông muốn xem xét [palantír](../P/Palantír.md) một lần nữa. Một cách cẩn thận, anh lấy nó từ tay Gandalf, mở nó ra và nhìn vào trong. Từ từ, Con Mắt của Sauron lấp đầy palantír. Pippin vùng vẫy và la hét, và Merry kêu cứu Gandalf giúp đỡ. Trình hướng dẫn thức dậy khi Aragorn và Legolas chạy vào bên trong. Aragorn tạm thời lấy palantír từ Pippin nhưng không thể giữ nó lâu. Khi nó lăn trên sàn, Gandalf che nó bằng một miếng vải.
 

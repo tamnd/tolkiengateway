@@ -41,7 +41,7 @@ Dài khoảng 200 dặm, Poros bắt đầu ở [Ephel Dúath](../E/Ephel_Dúath
 
 Poros hình thành nên biên giới phía bắc của vùng Harondor ([South Gondor](../S/South_Gondor.md)) và biên giới phía nam của [Ithilien](../I/Ithilien.md). Trong [Kỷ Đệ Tam](../T/Third_Age.md) sau này nó là biên giới thực tế phía nam của Gondor.
 
-Khoảng [T.A.](../T/Third_Age.md) [1944](../T/Third_Age_1944.md) một số [Haradrim](../H/Haradrim.md) đã vượt qua Poros đến [South Ithilien](../S/South_Ithilien.md), nhưng họ đã bị [Quân đội miền Nam](../S/Southern_Army.md) đánh bại.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Khoảng [T.A.](../T/Third_Age.md) [1944](../T/Third_Age_1944.md) một số [Haradrim](../H/Haradrim.md) đã vượt qua Poros đến [South Ithilien](../S/South_Ithilien.md), nhưng họ đã bị [Quân đội phương Nam](../S/Southern_Army.md) đánh bại.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 Trong [T.A.](../T/Third_Age.md) [2885](../T/Third_Age_2885.md), [Haradrim](../H/Haradrim.md) đã vượt qua Poros và xâm chiếm [Ithilien](../I/Ithilien.md) với sức mạnh khủng khiếp. Được tăng viện bởi [Rohan](../R/Rohan.md), Quản gia [Túrin II](../T/Túrin_II.md) đã giành chiến thắng tại [vượt qua Poros](../C/Crossings_of_Poros.md), mặc dù Rohirrim hoàng tử [Fastred](<../F/Fastred_(son_of_Folcwine).md>) và [Folcred](../F/Folcred.md) đã bị giết.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> *[Haudh in Gwanûr](../H/Haudh_in_Gwanûr.md)* được tạo ra ở nơi Poros bị Đường Harad băng qua.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 

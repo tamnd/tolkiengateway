@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mithril-coat"
 ---
 
-Chuyển hướng tới [Áo khoác Mithril](Mithril-coat.md).
+Chuyển hướng tới [Áo giáp mithril](Mithril-coat.md).

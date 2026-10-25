@@ -90,7 +90,7 @@ Ciryandil kế vị cha mình [Eärnil I](../E/Eärnil_I.md) cai trị [936](../
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong một bản thảo muộn của cái mà sau này trở thành Appendix A có đề cập rằng ông tiếp tục đóng tàu, thất bại trong trận chiến với Con Người của Harad, rằng Con Người của Harad phản đối kế hoạch của Gondor nhằm chiếm giữ các vùng đất ven biển phía nam sông Harnen và do đó đã cố gắng chiếm Umbar và rằng Gondor đã duy trì một pháo đài và trú ẩn lớn tại Umbar.<sup id="cite_ref-Elendil_1-1" class="reference"><a href="#cite_note-Elendil-1">[1]</a></sup> Trong phiên bản trước về bản thảo đó, ông tiếp tục đóng tàu và ngã xuống trong trận hải chiến chống lại các vị Vua của Harad.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
+Trong một bản thảo muộn của cái mà sau này trở thành Appendix A có đề cập rằng ông tiếp tục đóng tàu, thất bại trong trận chiến với Người Harad, rằng Người Harad phản đối kế hoạch của Gondor nhằm chiếm giữ các vùng đất ven biển phía nam sông Harnen và do đó đã cố gắng chiếm Umbar và rằng Gondor đã duy trì một pháo đài và trú ẩn lớn tại Umbar.<sup id="cite_ref-Elendil_1-1" class="reference"><a href="#cite_note-Elendil-1">[1]</a></sup> Trong phiên bản trước về bản thảo đó, ông tiếp tục đóng tàu và ngã xuống trong trận hải chiến chống lại các vị Vua của Harad.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
 
 <span></span>
 

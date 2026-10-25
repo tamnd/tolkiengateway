@@ -63,7 +63,7 @@ Sự kiện xảy ra vào ngày 14 tháng Chín.
 ## Trên Trái đất {#On_Earth}
 
 - **[1950](1950.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 130](../L/Letter_130.md).
-- **[1957](1957.md)** - [*The Bookseller*](../T/The_Bookseller,_14_September_1957.md) báo cáo về Giải thưởng Giả tưởng Quốc tế, do Tolkien giành được.
+- **[1957](1957.md)** - [*The Bookseller*](../T/The_Bookseller,_14_September_1957.md) báo cáo về Giải thưởng Kỳ ảo Quốc tế, do Tolkien giành được.
 - **[1974](1974.md)** - [Oxonmoot](../O/Oxonmoot_1974.md) đầu tiên được tổ chức tại The tiếng Wales Pony, [Oxford](../O/Oxford.md).
 - **[2002](2002.md)** - [Oxonmoot 2002](../O/Oxonmoot_2002.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/St_Antony%27s_College,_Oxford" title="wikipedia:St Antony&#39;s College, Oxford">Đại học St Antony</a>.
 - **[2007](2007.md)** - [Oxonmoot 2007](../O/Oxonmoot_2007.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Lady_Margaret_Hall,_Oxford" title="wikipedia:Lady Margaret Hall, Oxford">Lady Margaret Hall</a>.

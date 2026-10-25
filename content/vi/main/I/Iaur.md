@@ -21,7 +21,7 @@ categories:
 
 ## Ví dụ {#Examples}
 
-- <i><a class="mw-redirect" href="../A/Aran_Einior.md" title="Aran Einior">Aran Ein<b>ior</b></a></i> = "Trưởng lão Vua"
+- <i><a class="mw-redirect" href="../A/Aran_Einior.md" title="Aran Einior">Aran Ein<b>ior</b></a></i> = "Vị Vua Cổ Xưa"
 - <i><a href="../D/Drúwaith_Iaur.md" title="Drúwaith Iaur">Drúwaith <b>Iaur</b></a></i> = "Vùng đất Púkel cũ"
 - <i><a href="../T/Tom_Bombadil.md" title="Tom Bombadil"><b>Iar</b>wain</a></i> = "Già-trẻ"
 - *[Ioreth](Ioreth.md)* = "Bà già"

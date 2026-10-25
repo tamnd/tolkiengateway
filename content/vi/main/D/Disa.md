@@ -52,7 +52,7 @@ Khi Disa nhắc [Durin IV](Durin_IV.md) rằng anh sẽ thừa kế [Khazad-dûm
 
 ## Tranh cãi {#Controversy}
 
-Disa là nữ lùn đầu tiên được tiết lộ trong chương trình và bà được miêu tả với khuôn mặt ít lông. Một số người hâm mộ tỏ ra khó chịu vì họ cho rằng [Người Lùn-phụ nữ](Dwarf-women.md) có đầy đủ râu.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Sophia Nomvete đáp lại điều này, giải thích rằng Disa có râu, mặc dù nó kém nổi bật hơn hầu hết các nam lùn vì cô chỉ có tóc mai.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Disa là nữ lùn đầu tiên được tiết lộ trong chương trình và bà được miêu tả với khuôn mặt ít lông. Một số người hâm mộ tỏ ra khó chịu vì họ cho rằng [Phụ nữ Người Lùn](Dwarf-women.md) có đầy đủ râu.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Sophia Nomvete đáp lại điều này, giải thích rằng Disa có râu, mặc dù nó kém nổi bật hơn hầu hết các nam lùn vì cô chỉ có tóc mai.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Xem thêm {#See_also}
 

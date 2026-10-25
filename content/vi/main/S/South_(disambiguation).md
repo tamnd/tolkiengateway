@@ -29,14 +29,14 @@ images:
 - [Phía Nam](Southfarthing.md)
 - [South Gondor](South_Gondor.md)
 - [South Ithilien](South_Ithilien.md)
-- [Vương quốc phía Nam](South-kingdom.md), tên gọi khác của [Gondor](../G/Gondor.md).
+- [Vương quốc phương Nam](South-kingdom.md), tên gọi khác của [Gondor](../G/Gondor.md).
 - [Ngõ phía Nam](South_Lane.md)
 - [Vùng sâu phía Nam](South_Undeep.md)
 
 ### Khác {#Other}
 
 - [Dúnedain của miền Nam](../D/Dúnedain_of_the_South.md), một bộ phận của [Dúnedain](../D/Dúnedain.md).
-- [Quân đội miền Nam](Southern_Army.md), một sư đoàn của quân đội [Gondor](../G/Gondor.md).
+- [Quân đội phương Nam](Southern_Army.md), một sư đoàn của quân đội [Gondor](../G/Gondor.md).
 - [các lãnh địa phía Nam](Southern_Fiefs.md), tỉnh [Gondor](../G/Gondor.md).
 - [Sao Phương Nam](Southern_Star.md), nhiều loại [cỏ ống](../P/Pipe-weed.md).
 

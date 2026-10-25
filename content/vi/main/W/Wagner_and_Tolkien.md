@@ -53,7 +53,7 @@ infobox:
 - Giới thiệu: Thạc sĩ và Giáo sư - Wagner và Tolkien
 - Phần thứ nhất, Hai chiếc nhẫn tròn
     - Chương 1, Một âm mưu bị vạch trần?
-        - 1\.1. Một chiếc nhẫn quyền lực
+        - 1\.1. Một Nhẫn Quyền Năng
         - 1\.2. Hai chiếc nhẫn tròn
         - 1\.3. Tolkien biết Wagner rõ đến mức nào?
     - Chương 2, Tìm kiếm nguồn

@@ -25,7 +25,7 @@ images:
 
 Vàng đã hiện diện sâu trong lòng [Arda](../A/Arda.md) kể từ khi thế giới được tạo ra, và [Aulë](../A/Aulë.md), đại thợ rèn, là người đầu tiên sử dụng nó. Sau đó, vàng được sử dụng bởi tất cả các dân tộc có ngôn ngữ trên thế gian, đặc biệt là [Người Lùn](../D/Dwarves.md), những người tinh thông việc chế tác vàng, và [Noldor](../N/Noldor.md).
 
-Một trong [Bảy Cánh Cổng của Gondolin](../S/Seven_Gates_of_Gondolin.md) là [Cổng Vàng](Gate_of_Gold.md).
+Một trong [Bảy Cánh Cổng Gondolin](../S/Seven_Gates_of_Gondolin.md) là [Cổng Vàng](Gate_of_Gold.md).
 
 Mặc dù có giá trị, kim loại này vẫn không quý giá bằng *[mithril](../M/Mithril.md)*. [Gimli](Gimli.md) cho biết khi [Người Lùn](../D/Dwarves.md) khai thác *mithril* ở [Moria](../M/Moria.md), nó có giá trị gấp mười lần vàng, và sau khi [Tai Họa của Durin](../D/Durin's_Bane.md) xuất hiện, mithril trở nên vô giá).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> [Teleri](../T/Teleri.md) cũng coi trọng [bạc](../S/Silver.md) (mà họ gọi là *[telpe](../T/Telpe.md)*) hơn vàng.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 

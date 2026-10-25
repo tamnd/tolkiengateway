@@ -45,7 +45,7 @@ infobox:
     - Có phải *The Silmarillion* chỉ là Huyền thoại về con người? - Bernie Roessler
     - Chuyện gì *did* xảy ra vào đêm Weathertop đó? - Bernie Roessler
     - Có trường học nào ở Trung Địa không? - Tommy Martin
-    - Chuyện gì đã xảy ra với Blue Pháp sư? - Tommy Martin, Adam Miller, Dave Craft, Georg Donde, Mark Thorne, [Chris Seeman](../C/Chris_Seeman.md), Mike Austin Edly, Doug Pearson
+    - Chuyện gì đã xảy ra với Pháp sư Xanh? - Tommy Martin, Adam Miller, Dave Craft, Georg Donde, Mark Thorne, [Chris Seeman](../C/Chris_Seeman.md), Mike Austin Edly, Doug Pearson
     - Tên ban đầu của Hornburg là gì? - [Chris Seeman](../C/Chris_Seeman.md)
     - Harondor có rừng không? (Trả lời Wesley Frank, OH 12: 42-43) - Dirk Brandherm
     - Bản chất của Phép thuật trong Trung Địa là gì? - Marcus Wevers

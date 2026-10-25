@@ -21,7 +21,7 @@ sort_keys:
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 - Cái chết của [Vua](../K/Kings_of_Durin's_Folk.md) [Thráin I](Thráin_I.md).<sup id="cite_ref-Durin_1-0" class="reference"><a href="#cite_note-Durin-1">[1]</a></sup>
-- [Thorin I](Thorin_I.md) trở thành [Vua của Dân tộc Durin](../K/Kings_of_Durin's_Folk.md) và [Vua Dưới Núi](../K/Kings_under_the_Mountain.md).<sup id="cite_ref-Durin_1-1" class="reference"><a href="#cite_note-Durin-1">[1]</a></sup>
+- [Thorin I](Thorin_I.md) trở thành [Vua của dân Durin](../K/Kings_of_Durin's_Folk.md) và [Vua Dưới Núi](../K/Kings_under_the_Mountain.md).<sup id="cite_ref-Durin_1-1" class="reference"><a href="#cite_note-Durin-1">[1]</a></sup>
 
 <span></span>
 

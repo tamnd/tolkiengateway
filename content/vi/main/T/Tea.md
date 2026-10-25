@@ -34,7 +34,7 @@ Là thời gian nghỉ ngơi và thư giãn, **giờ uống trà**<sup id="cite_
 
 [Bilbo Baggins](../B/Bilbo_Baggins.md) mời [Gandalf](../G/Gandalf.md) uống tách trà thì anh bất ngờ đến [Bag End](../B/Bag_End.md). Sau lời mời, Gandalf xuất hiện cùng với [Thorin và Đoàn tùy tùng](Thorin_and_Company.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
-Trong [một bài thơ](../P/Perry-the-Winkle.md) được viết bởi [Samwise Gamgee](../S/Samwise_Gamgee.md), [Quỷ cô đơn](../L/Lonely_Troll.md) phục vụ [Perry-the-Winkle](<../P/Perry-the-Winkle_(hobbit).md>) một số "trà ngon" và hai người bạn thường xuyên gặp nhau trong các buổi trà hàng tuần.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Trong [một bài thơ](../P/Perry-the-Winkle.md) được viết bởi [Samwise Gamgee](../S/Samwise_Gamgee.md), [Troll Cô Độc](../L/Lonely_Troll.md) phục vụ [Perry-the-Winkle](<../P/Perry-the-Winkle_(hobbit).md>) một số "trà ngon" và hai người bạn thường xuyên gặp nhau trong các buổi trà hàng tuần.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Tên {#Names}
 

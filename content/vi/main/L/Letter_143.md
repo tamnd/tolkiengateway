@@ -31,7 +31,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien bảo [Rayner Unwin](../R/Rayner_Unwin.md) sẽ gửi Quyển III, phần đầu tiên của [Tập II](../T/The_Two_Towers.md), được sửa chữa cẩn thận. Quyển IV sẽ viết sau. Tolkien bày tỏ một số nghi ngờ về tiêu đề - *The Two Towers* - vì sự đối lập giữa [Orthanc](../O/Orthanc.md) và [Cirith Ungol](../T/Tower_of_Cirith_Ungol.md) hoàn toàn bị lu mờ bởi [Tháp tối](../B/Barad-dûr.md) và [Minas Tirith](../M/Minas_Tirith.md). <br>
+Tolkien bảo [Rayner Unwin](../R/Rayner_Unwin.md) sẽ gửi Quyển III, phần đầu tiên của [Tập II](../T/The_Two_Towers.md), được sửa chữa cẩn thận. Quyển IV sẽ viết sau. Tolkien bày tỏ một số nghi ngờ về tiêu đề - *The Two Towers* - vì sự đối lập giữa [Orthanc](../O/Orthanc.md) và [Cirith Ungol](../T/Tower_of_Cirith_Ungol.md) hoàn toàn bị lu mờ bởi [Tháp Bóng tối](../B/Barad-dûr.md) và [Minas Tirith](../M/Minas_Tirith.md). <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

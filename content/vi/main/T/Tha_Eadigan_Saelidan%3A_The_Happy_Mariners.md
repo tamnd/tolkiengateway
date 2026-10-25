@@ -41,7 +41,7 @@ infobox:
   <tr><th scope="row" class="tg-infobox-label">Chủ đề</th><td class="tg-infobox-data"><a href="../S/Sleeper.md" title="Sleeper">Sleeper</a>, <a href="Tower_of_Pearl.md" title="Tower of Pearl">Tower of Pearl</a></td></tr>
 </tbody></table>
 
-<i><b>Tha Eadigan Saelidan: The Happy Mariners</b></i> là tựa đề một bài thơ được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) trong [1915](../_/1915.md) về "bài hát của [Người ngủ trong](../S/Sleeper.md) ở [Tháp Ngọc](Tower_of_Pearl.md)" trên [Quần đảo Twilit](Twilit_Isles.md).<sup id="cite_ref-history_2-0" class="reference"><a href="#cite_note-history-2">[2]</a></sup>
+<i><b>Tha Eadigan Saelidan: The Happy Mariners</b></i> là tựa đề một bài thơ được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) trong [1915](../_/1915.md) về "bài hát của [Người ngủ trong](../S/Sleeper.md) ở [Tháp Ngọc](Tower_of_Pearl.md)" trên [Quần đảo Chạng vạng](Twilit_Isles.md).<sup id="cite_ref-history_2-0" class="reference"><a href="#cite_note-history-2">[2]</a></sup>
 
 ## Khổ đầu tiên {#First_stanza}
 

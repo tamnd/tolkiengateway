@@ -33,7 +33,7 @@ Một số linh hồn được liên kết với một <a class="extiw" href="ht
 
 - *Air spirits*: Những linh hồn có hình dạng [diều hâu](../H/Hawks.md) và [đại bàng](../E/Eagles.md) đã gửi thông điệp tới [Manwë](../M/Manwë.md) khi ngài ngồi trên ngai vàng của mình ở [Ilmarin](../I/Ilmarin.md) trên [Taniquetil](../T/Taniquetil.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 - *Fire spirits*: Maia [Arien](../A/Arien.md) được cho là "*ngay từ đầu đã là một linh hồn lửa*".<sup id="cite_ref-S11_4-0" class="reference"><a href="#cite_note-S11-4">[4]</a></sup> Melkor đã quyến rũ một số linh hồn lửa, được gọi là [Balrog](../B/Balrogs.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
-- *Water spirits*: Một loạt các linh hồn đi theo [Ulmo](../U/Ulmo.md) để duy trì vùng nước của [Arda](../A/Arda.md), trong đó Maiar [Ossë](../O/Ossë.md) và [Uinen](../U/Uinen.md) là lớn nhất.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Có lẽ [Salmar](Salmar.md), [Goldberry](../G/Goldberry.md) và [Người phụ nữ sông](../R/River-woman.md) là những linh hồn nước như vậy.
+- *Water spirits*: Một loạt các linh hồn đi theo [Ulmo](../U/Ulmo.md) để duy trì vùng nước của [Arda](../A/Arda.md), trong đó Maiar [Ossë](../O/Ossë.md) và [Uinen](../U/Uinen.md) là lớn nhất.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Có lẽ [Salmar](Salmar.md), [Goldberry](../G/Goldberry.md) và [Người đàn bà Sông](../R/River-woman.md) là những linh hồn nước như vậy.
 
 ### Ác quỷ {#Evil_spirits}
 

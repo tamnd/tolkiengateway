@@ -69,7 +69,7 @@ Sự kiện xảy ra vào ngày 27 tháng 5.
 - **[1922](1922.md)** – Diễn viên [Christopher Lee](../C/Christopher_Lee.md) ra đời.
 - **[1930](1930.md)** - Nhà xuất bản Đại học Oxford gửi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) bản [*A Middle English Reader*](../L/List_of_books_in_Tolkien's_library.md#A_Middle_English_Reader)*.*
 - **[1932](1932.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư gửi A.F. Colborn](<../L/Letter_to_A.F._Colborn_(27_May_1932).md>).
-- **[1952](1952.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đóng vai trò là người tổ chức <a class="external text" href="https://www.mod-langs.ox.ac.uk/italian/oxford-dante-society" rel="noreferrer noopener" target="_blank">Oxford Hội Dante</a>.
+- **[1952](1952.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đóng vai trò là người tổ chức <a class="external text" href="https://www.mod-langs.ox.ac.uk/italian/oxford-dante-society" rel="noreferrer noopener" target="_blank">Hội Dante Oxford</a>.
 - **[1958](1958.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một lá thư cho Nancy Smith](<../L/Letter_to_Nancy_Smith_(27_May_1958).md>).
 
 ## Trong Arda {#In_Arda}

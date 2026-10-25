@@ -86,7 +86,7 @@ Khazad-dûm nằm ở vùng trung tâm của [Dãy Núi Sương Mù](Misty_Mount
 
 ## Lịch sử {#History}
 
-### Ngày của người cao tuổi {#Elder_Days}
+### Thời Cổ xưa {#Elder_Days}
 
 Khazad-dûm được khai lập từ thuở xa xưa bởi [Durin](../D/Durin_I.md), người tỉnh giấc tại [Mount Gundabad](../G/Gundabad.md) thuộc [Dãy Núi Sương Mù](Misty_Mountains.md). Ông tìm đến thung lũng [Azanulbizar](../A/Azanulbizar.md) dưới chân dãy núi. Ông nhìn xuống một hồ nước lấp lánh và thấy [vương miện sao](../D/Durin's_Crown.md) phản chiếu trên mặt hồ. Ông đặt tên cho hồ là [Kheled-zâram](../K/Kheled-zâram.md), còn gọi là [Mirrormere](Mirrormere.md). Từ đó về sau, hồ luôn là nơi linh thiêng đối với Người Lùn thuộc mọi gia tộc. Tại nơi sự kiện ấy diễn ra, người ta dựng [Hòn đá Durin](../D/Durin's_Stone.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
@@ -118,7 +118,7 @@ Cũng trong thời gian này, Orc lại xâm nhập các dãy núi và gây chi�
 
 #### Chết đi {#Demise}
 
-Hầu hết khối tài sản khổng lồ của nó đều dựa trên *[Mithril](Mithril.md)* quý hiếm được tìm thấy trong các mỏ của nó, và khi nhiều thế kỷ trôi qua, Người Lùn khai thác ngày càng sâu hơn kim loại quý. Vào năm [T.A.](../T/Third_Age.md) [1980](../T/Third_Age_1980.md), việc đào sâu của họ đã gây ra một nỗi kinh hoàng không tên, một [Balrog](../B/Balrog.md) từ [Ngày của Người cao tuổi](../E/Elder_Days.md), gây ra sự hủy diệt khủng khiếp và khi tiêu diệt Vua, [Durin VI](../D/Durin_VI.md), nó được biết đến với cái tên [Tai họa của Durin](../D/Durin's_Bane.md). Vào năm sau, con trai của Durin, [Náin I](../N/Náin_I.md), cũng bị mất tích, và Người Lùn phải trốn khỏi quê hương cổ xưa của họ.
+Hầu hết khối tài sản khổng lồ của nó đều dựa trên *[Mithril](Mithril.md)* quý hiếm được tìm thấy trong các mỏ của nó, và khi nhiều thế kỷ trôi qua, Người Lùn khai thác ngày càng sâu hơn kim loại quý. Vào năm [T.A.](../T/Third_Age.md) [1980](../T/Third_Age_1980.md), việc đào sâu của họ đã gây ra một nỗi kinh hoàng không tên, một [Balrog](../B/Balrog.md) từ [Thời Cổ xưa](../E/Elder_Days.md), gây ra sự hủy diệt khủng khiếp và khi tiêu diệt Vua, [Durin VI](../D/Durin_VI.md), nó được biết đến với cái tên [Tai họa của Durin](../D/Durin's_Bane.md). Vào năm sau, con trai của Durin, [Náin I](../N/Náin_I.md), cũng bị mất tích, và Người Lùn phải trốn khỏi quê hương cổ xưa của họ.
 
 Sau hàng thiên niên kỷ tồn tại như một trong những thành phố giàu có nhất [Trung Địa](Middle-earth.md), Khazad-dûm chìm trong bóng tối và trở nên hoang vắng, ngoại trừ mối hiểm họa đáng sợ mà Người Lùn đã thả ra. Từ đó, nơi này mang tên mới là Moria, **Hố Đen**.
 
@@ -144,7 +144,7 @@ Dù Gandalf đã hạ gục Balrog, Moria vẫn là nơi cư ngụ của những
 
 ### Lịch sử sau này {#Later_history}
 
-Dù có rất ít thông tin về sự kiện này, việc [Durin VII](../D/Durin_VII.md) tái chiếm Khazad-dûm dường như diễn ra vào một thời điểm sau [Fo.A.](../F/Fourth_Age.md) [171](../F/Fourth_Age_171.md).<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[note 1]</a></sup> Với tư cách [Vua của Dân tộc Durin](../K/King_of_Durin's_Folk~7047.md), ông dẫn đầu cuộc trở về thành phố lần cuối. Ông đã thành công: [Gia tộc Durin](../H/House_of_Durin.md) giành lại di sản của mình, và tiếng búa lại vang lên trong những đại sảnh rộng lớn bên dưới Dãy Núi Sương Mù cho đến khi giống nòi Người Lùn diệt vong.<sup id="cite_ref-Fourth_9-0" class="reference"><a href="#cite_note-Fourth-9">[8]</a></sup>
+Dù có rất ít thông tin về sự kiện này, việc [Durin VII](../D/Durin_VII.md) tái chiếm Khazad-dûm dường như diễn ra vào một thời điểm sau [Fo.A.](../F/Fourth_Age.md) [171](../F/Fourth_Age_171.md).<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[note 1]</a></sup> Với tư cách [Vua của dân Durin](../K/King_of_Durin's_Folk~7047.md), ông dẫn đầu cuộc trở về thành phố lần cuối. Ông đã thành công: [Gia tộc Durin](../H/House_of_Durin.md) giành lại di sản của mình, và tiếng búa lại vang lên trong những đại sảnh rộng lớn bên dưới Dãy Núi Sương Mù cho đến khi giống nòi Người Lùn diệt vong.<sup id="cite_ref-Fourth_9-0" class="reference"><a href="#cite_note-Fourth-9">[8]</a></sup>
 
 ## Bố cục {#Layout}
 

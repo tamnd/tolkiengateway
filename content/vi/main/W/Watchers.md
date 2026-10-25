@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Rangers of the North"
 ---
 
-Chuyển hướng tới [Biệt đội miền Bắc](../R/Rangers_of_the_North.md).
+Chuyển hướng tới [Tuần Du Nhân phương Bắc](../R/Rangers_of_the_North.md).

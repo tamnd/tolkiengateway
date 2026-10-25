@@ -73,7 +73,7 @@ Sau khi Vua Thingol bị sát hại, bà cùng chồng trở về Doriath và tr
 
 <dl><dd><i>Xem: <a href="Nimloth_(tree).md#Etymology" title="Nimloth (tree)">Nimloth (cây)#Từ nguyên</a></i></dd></dl>
 
-Tên *Nimloth* nằm trong [Sindarin](../S/Sindarin.md). Nó cũng trùng với tên của [Cây Trắng của Númenor](<Nimloth_(tree).md>),<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[5]</a></sup> có nghĩa là "Hoa Trắng".<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[6]</a></sup>
+Tên *Nimloth* nằm trong [Sindarin](../S/Sindarin.md). Nó cũng trùng với tên của [Cây Trắng Númenor](<Nimloth_(tree).md>),<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[5]</a></sup> có nghĩa là "Hoa Trắng".<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[6]</a></sup>
 
 Tên trước đó <i><b>Lindis</b></i> cũng có trong Sindarin. Theo *[Eldamo](../E/Eldamo.md)* nó bao gồm *[lind](../L/Lind.md)* ("bài hát") + <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=D%C3%AEs&amp;action=edit&amp;redlink=1" title="Dîs (page does not exist)">dîs</a></i> ("cô dâu").<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[7]</a></sup>
 

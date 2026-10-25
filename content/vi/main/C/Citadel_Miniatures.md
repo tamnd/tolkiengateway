@@ -79,10 +79,10 @@ Vào tháng 12 [1984](../_/1984.md), Games Workshop thông báo rằng họ đã
 - ME-23 Rohirrim
 - ME-24 Gondor Bảo vệ Thành cổ
 - Biệt kích ME-25 của Ithilien
-- ME-31 Silvan Tiên tộc
+- ME-31 Tiên tộc Silvan
 - ME-32 Noldor - Sâu Tiên tộc
 - ME-33 Người Lùn
-- ME-34 Hobbit của Shire
+- ME-34 Hobbit ở Shire
 - ME-35 Beorn: Là Người và Gấu
 - ME-36 Orc của Bàn tay trắng
 - ME-41 Goblin Warg Rider

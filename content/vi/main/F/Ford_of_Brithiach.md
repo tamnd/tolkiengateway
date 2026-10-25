@@ -25,7 +25,7 @@ langlinks:
     url: "https://kontu.wiki/Brithiach"
 ---
 
-**Ford of Brithiach** là một ford quan trọng của Sông [Sirion](../S/Sirion.md). Điểm vượt sông nằm ở phần trên của dòng sông, ở ranh giới phía bắc của [Brethil](../B/Brethil.md) ngay phía nam nơi [Sông khô](../D/Dry_River.md) từng chảy vào Sirion. Một con đường dẫn qua nó từ [Tây Beleriand](../W/West_Beleriand.md) vào [Dimbar](../D/Dimbar.md), rồi vào thung lũng nguy hiểm [Nan Dungortheb](../N/Nan_Dungortheb.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Bên dưới pháo đài không có phương tiện nào để vượt sông cho đến khi đến [Doriath](../D/Doriath.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Ford of Brithiach** là một ford quan trọng của Sông [Sirion](../S/Sirion.md). Điểm vượt sông nằm ở phần trên của dòng sông, ở ranh giới phía bắc của [Brethil](../B/Brethil.md) ngay phía nam nơi [Sông Cạn](../D/Dry_River.md) từng chảy vào Sirion. Một con đường dẫn qua nó từ [Tây Beleriand](../W/West_Beleriand.md) vào [Dimbar](../D/Dimbar.md), rồi vào thung lũng nguy hiểm [Nan Dungortheb](../N/Nan_Dungortheb.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Bên dưới pháo đài không có phương tiện nào để vượt sông cho đến khi đến [Doriath](../D/Doriath.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 [Húrin](../H/Húrin.md) và [Huor](../H/Huor.md) bị [Orc](../O/Orcs.md) truy đuổi đến chỗ cạn nơi lẽ ra họ đã bỏ mạng nhưng [Ulmo](../U/Ulmo.md) đó đã tạo ra một màn sương mù từ Sirion che giấu họ khi họ vượt qua Brithiach để vào Dimbar.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 

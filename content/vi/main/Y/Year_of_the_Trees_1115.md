@@ -20,7 +20,7 @@ categories:
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 - Con [Eldar](../E/Eldar.md) đi qua [một khu rừng lớn](../M/Mirkwood.md) và chạm trán với [Anduin](../A/Anduin.md) và [Dãy Núi Sương Mù](../M/Misty_Mountains.md). [Oromë](../O/Oromë.md) dẫn [Vanyar](../V/Vanyar.md) và [Noldor](../N/Noldor.md) băng qua sông và [Tháp Sương mù](../M/Misty_Mountains.md) nhưng [Teleri](../T/Teleri.md) không muốn.<sup id="cite_ref-Annals_1-0" class="reference"><a href="#cite_note-Annals-1">[1]</a></sup>
-- Một số Teleri được [Lenwë](../L/Lenwë.md) dẫn về phía nam dọc theo Sông Lớn và sau đó được gọi là [Nandor](../N/Nandor.md). Đây là lần [Sự phân chia thứ hai của Tiên tộc](../S/Sundering_of_the_Elves.md).<sup id="cite_ref-Annals_1-1" class="reference"><a href="#cite_note-Annals-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- Một số Teleri được [Lenwë](../L/Lenwë.md) dẫn về phía nam dọc theo Đại Hà và sau đó được gọi là [Nandor](../N/Nandor.md). Đây là lần [Sự phân chia thứ hai của Tiên tộc](../S/Sundering_of_the_Elves.md).<sup id="cite_ref-Annals_1-1" class="reference"><a href="#cite_note-Annals-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

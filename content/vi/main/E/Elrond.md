@@ -176,7 +176,7 @@ Vào [Kỷ Đệ Tam](../T/Third_Age.md) [năm 2941](../T/Third_Age_2941.md), El
 
 Cũng trong năm đó, [Bạch Hội Đồng](../W/White_Council.md) tấn công [Dol Guldur](../D/Dol_Guldur.md) và loại bỏ sự hiện diện của Kẻ Gọi Hồn khỏi [Rừng Âm U](../M/Mirkwood.md).<sup id="cite_ref-AppB2_15-1" class="reference"><a href="#cite_note-AppB2-15">[13]</a></sup> Khi Bilbo và Gandalf trở về Rivendell, Elrond cùng vị pháp sư áo xám đã thảo luận về sự kiện này và những chuyện xảy ra tại Ngọn Núi Cô Độc. Cả hai đều đồng ý rằng tốt hơn hết là Kẻ Gọi Hồn nên bị trục xuất hoàn toàn khỏi thế giới.<sup id="cite_ref-H19_18-0" class="reference"><a href="#cite_note-H19-18">[16]</a></sup>
 
-Bạch Hội Đồng họp lần cuối vào [Kỷ Đệ Tam](../T/Third_Age.md) [năm 2953](../T/Third_Age_2953.md), khi Gandalf bày tỏ mối lo ngại rằng Chiếc Nhẫn Chúa Nhân chính là chiếc nhẫn Bilbo tìm thấy ở [Thị trấn Yêu Tinh](../G/Goblin-town.md). Saruman trấn an ông, khăng khăng rằng Chiếc Nhẫn đã bị cuốn trôi ra biển.
+Bạch Hội Đồng họp lần cuối vào [Kỷ Đệ Tam](../T/Third_Age.md) [năm 2953](../T/Third_Age_2953.md), khi Gandalf bày tỏ mối lo ngại rằng Chiếc Nhẫn Chúa Nhân chính là chiếc nhẫn Bilbo tìm thấy ở [Thị trấn Goblin](../G/Goblin-town.md). Saruman trấn an ông, khăng khăng rằng Chiếc Nhẫn đã bị cuốn trôi ra biển.
 
 #### Cuộc Chiến Chiếc Nhẫn {#War_of_the_Ring}
 

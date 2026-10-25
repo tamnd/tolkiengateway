@@ -43,7 +43,7 @@ Nó lầy lội và đặc biệt khó đi qua, đầy những vũng lầy, mư�
 
 Marish bị chiếm giữ bởi [Hobbit](../H/Hobbits.md) đến sau Shire so với Hobbit khác, chủ yếu là [Stoors](../S/Stoors.md) đến xung quanh [S.R.](../S/Shire_Reckoning.md) [30](../T/Third_Age_1630.md), từ phía nam. Người dân Marish bắt đầu có thói quen xây dựng trang trại và chuồng trại, sau này lan sang phần còn lại của Shire.<sup id="cite_ref-hobbits_5-0" class="reference"><a href="#cite_note-hobbits-5">[4]</a></sup>
 
-Tại [S.R.](../S/Shire_Reckoning.md) [379](../T/Third_Age_1979.md), [Bucca của Marish](../B/Bucca_of_the_Marish.md) đã được bầu [Thain](../T/Thain.md) để cai trị Shire thay cho [Vua trước đây của Arthedain](../K/King_of_Arthedain.md).<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[5]</a></sup> Marish là quê hương của [Oldbucks](../O/Oldbucks.md) và Thainship trong nhiều thế kỷ; đó là cho đến khi hậu duệ của Bucca Thain [Gorhendad Oldbuck](../G/Gorhendad_Oldbuck.md), rời Marish ở [S.R.](../S/Shire_Reckoning.md) [740](../T/Third_Age_2340.md)<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[6]</a></sup> để xâm chiếm [Buckland](../B/Buckland.md) và trở thành Chủ nhân đầu tiên của nó. Thainship được chuyển giao cho [Tooks](../T/Tooks.md), nhưng nhiều nông dân của Marish thừa nhận quyền lực của [Bậc thầy Buckland](Master_of_Buckland.md) chứ không phải của Thain.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[7]</a></sup>
+Tại [S.R.](../S/Shire_Reckoning.md) [379](../T/Third_Age_1979.md), [Bucca xứ Marish](../B/Bucca_of_the_Marish.md) đã được bầu [Thain](../T/Thain.md) để cai trị Shire thay cho [Vua trước đây của Arthedain](../K/King_of_Arthedain.md).<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[5]</a></sup> Marish là quê hương của [Oldbucks](../O/Oldbucks.md) và Thainship trong nhiều thế kỷ; đó là cho đến khi hậu duệ của Bucca Thain [Gorhendad Oldbuck](../G/Gorhendad_Oldbuck.md), rời Marish ở [S.R.](../S/Shire_Reckoning.md) [740](../T/Third_Age_2340.md)<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[6]</a></sup> để xâm chiếm [Buckland](../B/Buckland.md) và trở thành Chủ nhân đầu tiên của nó. Thainship được chuyển giao cho [Tooks](../T/Tooks.md), nhưng nhiều nông dân của Marish thừa nhận quyền lực của [Bậc thầy Buckland](Master_of_Buckland.md) chứ không phải của Thain.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[7]</a></sup>
 
 Trong chuyến đi của [Frodo Baggins](../F/Frodo_Baggins.md) băng qua Shire, anh và những người bạn đồng hành của mình trên [25 tháng Chín](../_/25_September.md) đã rời con đường ở [Green Hills](../G/Green_Hills.md) và đi tắt qua Marish để đến Phà. Họ đi theo hướng Stock-brook và nghỉ ngơi trong một vành đai rừng, trong khi vùng đất này có ít nhất hai [Kỵ sĩ Đen](../B/Black_Riders.md) đi lang thang.<sup id="cite_ref-short_4-2" class="reference"><a href="#cite_note-short-4">[3]</a></sup>
 
@@ -64,7 +64,7 @@ Những [Shire-dân cư](../S/Shire-hobbits.md) ở vùng này thận trọng h�
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Tên đường có lẽ là <b><a href="../S/Stock_Road.md" title="Stock Road">Stock Đường</a></b>.</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Tên đường có lẽ là <b><a href="../S/Stock_Road.md" title="Stock Road">Đường Stock</a></b>.</span>
 </li>
 </ol></div></span>
 

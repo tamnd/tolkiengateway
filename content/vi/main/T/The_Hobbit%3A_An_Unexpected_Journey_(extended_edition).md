@@ -35,7 +35,7 @@ LƯU Ý: Phim được chia thành 2 đĩa cho cả phiên bản DVD và Blu-ray
 ### Cảnh mới {#New_Scenes}
 
 - 4\. Ông Baggins
-- 21\. Ngôi nhà giản dị cuối cùng
+- 21\. Ngôi nhà Cuối cùng Ấm cúng
 
 ### Cảnh mở rộng {#Extended_Scenes}
 
@@ -83,12 +83,12 @@ LƯU Ý: Phim được chia thành 2 đĩa cho cả phiên bản DVD và Blu-ray
     - [Radagast](../R/Radagast.md) màu nâu
     - [Goblin](../O/Orcs.md#Orcs_and_Goblins)
     - [Azog](../A/Azog.md) Trình lọc
-- "Vương quốc của [Kỷ Đệ Tam](Third_Age.md): Từ [Bag End](../B/Bag_End.md) đến [Thị trấn yêu tinh](../G/Goblin-town.md)" Phim tài liệu^
+- "Vương quốc của [Kỷ Đệ Tam](Third_Age.md): Từ [Bag End](../B/Bag_End.md) đến [Thị trấn Goblin](../G/Goblin-town.md)" Phim tài liệu^
     - Hobbiton
     - [Rhosgobel](../R/Rhosgobel.md)
     - [Rivendell](../R/Rivendell.md)
     - Cái [Dãy Núi Sương Mù](../M/Misty_Mountains.md)
-    - Thị trấn yêu tinh
+    - Thị trấn Goblin
 - Phim tài liệu "Những bài hát của *The Hobbit*"\*
 - Tín dụngº
 

@@ -34,7 +34,7 @@ Một gia đình [Tín đồ](../F/Faithful.md) từ [Númenor](../N/Númenor.md
 
 ## Phả hệ {#Genealogy}
 
-Hiển thị hậu duệ của Elros Tar-Minyatur. Tất cả thông tin trong cây là từ *Unfinished Tales*, từ biểu đồ "Các thế hệ trước của Dòng Elros"<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> hoặc từ "The Line of Elros: Kings of Númenor"<sup id="cite_ref-Kings_1-1" class="reference"><a href="#cite_note-Kings-1">[1]</a></sup> trừ khi có quy định khác.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[note 1]</a></sup> Các số sau tên là số ngày sinh và ngày chết được ghi lại (khi chỉ hiển thị một hình thì đó là ngày sinh). Biểu tượng con dao găm, '†' biểu thị những người không chết vì tuổi già. Tên đứng trước '\*' biểu thị một trong những vị Vua hoặc Nữ hoàng cầm quyền của Númenor; tên *italicized* biểu thị nữ. Đường đứt nét dọc biểu thị đường đi xuống với một số thành viên bị thiếu. Một số người cai trị có tên trước '\*', đó là "tên đúng" của họ trước khi nắm giữ [Quyền trượng](../S/Sceptre_of_Númenor.md).
+Hiển thị hậu duệ của Elros Tar-Minyatur. Tất cả thông tin trong cây là từ *Unfinished Tales*, từ biểu đồ "Các thế hệ trước của Dòng dõi Elros"<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> hoặc từ "The Line of Elros: Kings of Númenor"<sup id="cite_ref-Kings_1-1" class="reference"><a href="#cite_note-Kings-1">[1]</a></sup> trừ khi có quy định khác.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[note 1]</a></sup> Các số sau tên là số ngày sinh và ngày chết được ghi lại (khi chỉ hiển thị một hình thì đó là ngày sinh). Biểu tượng con dao găm, '†' biểu thị những người không chết vì tuổi già. Tên đứng trước '\*' biểu thị một trong những vị Vua hoặc Nữ hoàng cầm quyền của Númenor; tên *italicized* biểu thị nữ. Đường đứt nét dọc biểu thị đường đi xuống với một số thành viên bị thiếu. Một số người cai trị có tên trước '\*', đó là "tên đúng" của họ trước khi nắm giữ [Quyền trượng](../S/Sceptre_of_Númenor.md).
 
 ### Các thế hệ trước {#Earlier_Generations}
 
@@ -139,7 +139,7 @@ Hiển thị hậu duệ của Elros Tar-Minyatur. Tất cả thông tin trong c
 ## Ghi chú {#Notes_3}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text">"Các thế hệ trước của dòng Elros" chỉ có trong một số phiên bản của <i>Unfinished Tales</i>.</span>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text">"Các thế hệ trước của Dòng dõi Elros" chỉ có trong một số phiên bản của <i>Unfinished Tales</i>.</span>
 </li>
 </ol></div></span>
 

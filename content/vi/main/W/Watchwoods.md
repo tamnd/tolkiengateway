@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Treegarth of Orthanc"
 ---
 
-Chuyển hướng tới [Treegarth của Orthanc](../T/Treegarth_of_Orthanc.md).
+Chuyển hướng tới [Khu Rừng Orthanc](../T/Treegarth_of_Orthanc.md).

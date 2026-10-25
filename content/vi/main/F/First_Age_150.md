@@ -20,7 +20,7 @@ sort_keys:
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- [Caranthir](../C/Caranthir.md) chạm trán với [Người Lùn của Dãy Núi Xanh](../D/Dwarves_of_the_Blue_Mountains.md) và thành lập liên minh với họ. Người Lùn của [Nogrod](../N/Nogrod.md) và [Belegost](../B/Belegost.md) bắt đầu giao dịch với [Noldor](../N/Noldor.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- [Caranthir](../C/Caranthir.md) chạm trán với [Người Lùn ở Dãy Núi Xanh](../D/Dwarves_of_the_Blue_Mountains.md) và thành lập liên minh với họ. Người Lùn của [Nogrod](../N/Nogrod.md) và [Belegost](../B/Belegost.md) bắt đầu giao dịch với [Noldor](../N/Noldor.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

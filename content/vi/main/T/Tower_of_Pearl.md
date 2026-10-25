@@ -14,9 +14,9 @@ categories:
   - "Towers"
 ---
 
-**Tháp Ngọc** nằm ở một trong những [Quần đảo Hoàng hôn](Twilit_Isles.md) theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) ở *[The Book of Lost Tales](The_Book_of_Lost_Tales.md)*.
+**Tháp Ngọc** nằm ở một trong những [Quần đảo Chạng vạng](Twilit_Isles.md) theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) ở *[The Book of Lost Tales](The_Book_of_Lost_Tales.md)*.
 
-Giống như Quần đảo Twilit, nó nằm ở [Biển Bóng tối](../S/Shadowy_Seas.md), phía tây [Tol Eressëa](Tol_Eressëa.md). Ở đó, tòa tháp trở nên nhợt nhạt trên mũi cực tây của Quần đảo Twilit.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Nó được xây dựng vào những ngày sau đó sau khi Tol Eressëa được thành lập và được hát nhiều trong các bài hát.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Trong chuyến du hành của mình, [Eärendel](../E/Eärendel.md) đã được đưa tới đó, nơi anh tìm thấy [Người ngủ](../S/Sleeper.md) trong Tháp Ngọc trai và đánh thức họ bằng [Trái tim bé nhỏ](../L/Littleheart.md) [chồng](../G/Gong_of_the_Children.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Giống như Quần đảo Chạng vạng, nó nằm ở [Biển Bóng tối](../S/Shadowy_Seas.md), phía tây [Tol Eressëa](Tol_Eressëa.md). Ở đó, tòa tháp trở nên nhợt nhạt trên mũi cực tây của Quần đảo Chạng vạng.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Nó được xây dựng vào những ngày sau đó sau khi Tol Eressëa được thành lập và được hát nhiều trong các bài hát.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Trong chuyến du hành của mình, [Eärendel](../E/Eärendel.md) đã được đưa tới đó, nơi anh tìm thấy [Người ngủ](../S/Sleeper.md) trong Tháp Ngọc trai và đánh thức họ bằng [Trái tim bé nhỏ](../L/Littleheart.md) [chồng](../G/Gong_of_the_Children.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Tên khác {#Other_names}
 
@@ -24,7 +24,7 @@ Tên của nó trong [Gnomish](../G/Gnomish.md) là <i><b>Tirimbrithla</b></i>, 
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong [1915](../_/1915.md), trước bất kỳ câu chuyện nào, [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết một bài thơ có chủ đề chính là Tháp Ngọc ở Quần đảo Twilit, có tựa đề *[The Happy Mariners](The_Happy_Mariners.md)*, trong đó nêu một số chi tiết về hình dáng của nó: tòa tháp màu trắng, lấp lánh như một ngọn giáo vào buổi tối, và nó đứng trên một tảng đá đen.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Trong [1915](../_/1915.md), trước bất kỳ câu chuyện nào, [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết một bài thơ có chủ đề chính là Tháp Ngọc ở Quần đảo Chạng vạng, có tựa đề *[The Happy Mariners](The_Happy_Mariners.md)*, trong đó nêu một số chi tiết về hình dáng của nó: tòa tháp màu trắng, lấp lánh như một ngọn giáo vào buổi tối, và nó đứng trên một tảng đá đen.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 <span></span>
 

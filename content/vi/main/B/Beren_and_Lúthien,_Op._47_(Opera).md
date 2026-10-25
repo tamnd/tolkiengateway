@@ -93,7 +93,7 @@ Beren and Lúthien, được sự hỗ trợ của những con đại bàng, ch�
 
 <br> **Sự đáng tiếc của Mandos  (Cảnh Chín)**
 
-Không có bà, tình yêu Lúthien sẽ khô héo, chết đi và linh hồn bà sẽ đi đến Sảnh của Mandos.  Cô hát một bài hát buồn bã và đẹp đẽ trước mặt anh đến nỗi anh ban cho cả cô và Beren sự sống lại trong suốt thời gian sinh tử của họ.
+Không có bà, tình yêu Lúthien sẽ khô héo, chết đi và linh hồn bà sẽ đi đến Đại sảnh Mandos.  Cô hát một bài hát buồn bã và đẹp đẽ trước mặt anh đến nỗi anh ban cho cả cô và Beren sự sống lại trong suốt thời gian sinh tử của họ.
 
 <br> **Sự trở lại cuộc sống  (Phần kết)**
 

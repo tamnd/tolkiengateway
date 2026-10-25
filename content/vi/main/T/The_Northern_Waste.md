@@ -84,7 +84,7 @@ Ranh giới phía nam của nó được đánh dấu bởi sông Everhir.<sup i
 
 ### Järmivaa {#Järmivaa}
 
-**Järmivaa** (La. “Lakeland”) là một vùng xanh tươi và màu mỡ nằm ở phía đông nam của [Bleak Dãy Núi](../B/Bleak_Mountains.md), giữa Lindalf và Everdalf. <sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+**Järmivaa** (La. “Lakeland”) là một vùng xanh tươi và màu mỡ nằm ở phía đông nam của [Dãy Núi U Ám](../B/Bleak_Mountains.md), giữa Lindalf và Everdalf. <sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ### Karhu Järvi {#Karhu_Järvi}
 
@@ -96,7 +96,7 @@ Lhúchir (S. "Rồng River;" La. *Hopeavesi*) là con sông dài nhất của Fo
 
 ### Lindalf {#Lindalf}
 
-**Lindalf** (S. “Fen Tundra”) nằm ở phía bắc Järmivaa và phía đông của Bleak Dãy Núi. Gần những ngọn núi đó, vùng lãnh nguyên là hang ổ của loài rồng đầm lầy.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+**Lindalf** (S. “Fen Tundra”) nằm ở phía bắc Järmivaa và phía đông của Dãy Núi U Ám. Gần những ngọn núi đó, vùng lãnh nguyên là hang ổ của loài rồng đầm lầy.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 ### Lódalf {#Lódalf}
 
@@ -106,11 +106,11 @@ Lhúchir (S. "Rồng River;" La. *Hopeavesi*) là con sông dài nhất của Fo
 
 ### Narthalf {#Narthalf}
 
-**Lódalf** (S. “Lãnh Nguyên Lửa”) nằm ở phía tây Torogmar và Bleak Dãy Núi, và ở phía đông nam Ered Rhívamar. Nó được đặt theo tên của [Morgoth Giếng](../D/Durlach.md), nằm trong vùng lãnh nguyên.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
+**Lódalf** (S. “Lãnh Nguyên Lửa”) nằm ở phía tây Torogmar và Dãy Núi U Ám, và ở phía đông nam Ered Rhívamar. Nó được đặt theo tên của [Morgoth Giếng](../D/Durlach.md), nằm trong vùng lãnh nguyên.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
 
 ### Rast Losnaeth {#Rast_Losnaeth}
 
-**Rast Losnaeth** (S. “Mũi Tuyết Cắn”) là một bán đảo ở phía nam của Bleak Dãy Núi, bao quanh Vịnh Sheltered ở phía đông và giáp Vịnh Berg Cradle ở phía tây.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
+**Rast Losnaeth** (S. “Mũi Tuyết Cắn”) là một bán đảo ở phía nam của Dãy Núi U Ám, bao quanh Vịnh Sheltered ở phía đông và giáp Vịnh Berg Cradle ở phía tây.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
 
 ### Talath Muil {#Talath_Muil}
 
@@ -130,7 +130,7 @@ Homela (La. “Nơi địa y”) là một ngôi làng lớn của người Lumi
 
 #### Vịnh hoang tàn {#Bay_of_Desolation}
 
-**Vịnh hoang tàn** (S. *Hûb Lostas*) là một vịnh ở phía bắc Torogmar và Bleak Dãy Núi.<sup id="cite_ref-p89_13-1" class="reference"><a href="#cite_note-p89-13">[13]</a></sup>
+**Vịnh hoang tàn** (S. *Hûb Lostas*) là một vịnh ở phía bắc Torogmar và Dãy Núi U Ám.<sup id="cite_ref-p89_13-1" class="reference"><a href="#cite_note-p89-13">[13]</a></sup>
 
 #### Vịnh Forochel {#Bay_of_Forochel}
 
@@ -152,7 +152,7 @@ Sau [Sự sụp đổ của Angmar](../B/Battle_of_Fornost.md), rồng băng Gon
 
 #### Vịnh được che chở {#Sheltered_Bay}
 
-**Vịnh được che chở** (S. *Hûb Beriannen*, La. *Turvallinen Satama*) là vịnh cực đông của Northern Waste, nằm giữa Rast Losnaeth và Everdalf. Bởi vì Bleak Dãy Núi đã che chắn nó khỏi những cơn gió mùa đông nên nó đóng băng sớm hơn và dày hơn các vịnh khác.<sup id="cite_ref-p88_14-1" class="reference"><a href="#cite_note-p88-14">[14]</a></sup>
+**Vịnh được che chở** (S. *Hûb Beriannen*, La. *Turvallinen Satama*) là vịnh cực đông của Northern Waste, nằm giữa Rast Losnaeth và Everdalf. Bởi vì Dãy Núi U Ám đã che chắn nó khỏi những cơn gió mùa đông nên nó đóng băng sớm hơn và dày hơn các vịnh khác.<sup id="cite_ref-p88_14-1" class="reference"><a href="#cite_note-p88-14">[14]</a></sup>
 
 #### Vịnh phun {#Spouting_Bay}
 

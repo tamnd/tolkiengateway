@@ -64,7 +64,7 @@ infobox:
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Dạng ban đầu của tên này khi viết *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* là *Nan Gurunír* xuất hiện như vậy trong [Bản đồ chung của Trung Địa](../G/General_Map_of_Middle-earth.md) đã được xuất bản. Tên đã được sửa sau trong *[A Map of Middle-earth](../A/A_Map_of_Middle-earth.md)* của [Pauline Baynes](../P/Pauline_Baynes.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Dạng ban đầu của tên này khi viết *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* là *Nan Gurunír* xuất hiện như vậy trong [Bản đồ tổng quát về Trung Địa](../G/General_Map_of_Middle-earth.md) đã được xuất bản. Tên đã được sửa sau trong *[A Map of Middle-earth](../A/A_Map_of_Middle-earth.md)* của [Pauline Baynes](../P/Pauline_Baynes.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 

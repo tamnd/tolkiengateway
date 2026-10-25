@@ -20,7 +20,7 @@ sort_keys:
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- [Tháp tối](../D/Dark_Tower.md) trỗi dậy trở lại.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+- [Tháp Bóng tối](../D/Dark_Tower.md) trỗi dậy trở lại.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 - Cái chết của [Người quản lý cầm quyền](../R/Ruling_Steward.md) [Turgon](<Turgon_(Steward_of_Gondor).md>) của [Gondor](../G/Gondor.md).<sup id="cite_ref-South_2-0" class="reference"><a href="#cite_note-South-2">[2]</a></sup>
 - Cuộc họp cuối cùng của [Bạch Hội Đồng](../W/White_Council.md). Họ tranh luận về [Những Chiếc Nhẫn Quyền Năng](../R/Rings_of_Power.md). [Saruman](../S/Saruman.md) giả vờ rằng ông đã phát hiện ra rằng [Chiếc Nhẫn Chúa](The_One_Ring.md) đã được truyền lại [Anduin](../A/Anduin.md) cho [ Biển](../B/Belegaer.md).<sup id="cite_ref-ta_3-0" class="reference"><a href="#cite_note-ta-3">[3]</a></sup>
 - Saruman rút về [Isengard](../I/Isengard.md), nơi ông lấy làm của mình và củng cố nó. Vì ghen tị và sợ [Gandalf](../G/Gandalf.md) nên đặt gián điệp theo dõi mọi hành động của mình; và ghi nhận sự quan tâm của ông đối với [cái Shire](The_Shire.md). Ông sớm bắt đầu giữ các đặc vụ ở [Bree](../B/Bree.md) và [Southfarthing](../S/Southfarthing.md).<sup id="cite_ref-ta_3-1" class="reference"><a href="#cite_note-ta-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>

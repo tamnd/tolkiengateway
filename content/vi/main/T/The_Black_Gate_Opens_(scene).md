@@ -46,7 +46,7 @@ infobox:
 
 ## Tóm tắt {#Synopsis}
 
-Các [Thuyền trưởng của Phương Tây](../C/Captains_of_the_West.md) quay trở lại từ [Cổng Đen](../B/Black_Gate.md) về phía binh lính của họ sau cuộc chạm trán với [Miệng của Sauron](../M/Mouth_of_Sauron.md). [Aragorn](../A/Aragorn.md) tập hợp đội quân [Con Người](../M/Men.md) bằng một bài phát biểu và chuẩn bị sẵn sàng cho trận chiến dường như vô vọng sắp xảy ra. Ông nhận ra nỗi sợ hãi của họ nhưng yêu cầu họ chiến đấu vì tất cả những gì họ yêu quý trên thế giới.
+Các [Các Thống lĩnh Phương Tây](../C/Captains_of_the_West.md) quay trở lại từ [Cổng Đen](../B/Black_Gate.md) về phía binh lính của họ sau cuộc chạm trán với [Miệng của Sauron](../M/Mouth_of_Sauron.md). [Aragorn](../A/Aragorn.md) tập hợp đội quân [Con Người](../M/Men.md) bằng một bài phát biểu và chuẩn bị sẵn sàng cho trận chiến dường như vô vọng sắp xảy ra. Ông nhận ra nỗi sợ hãi của họ nhưng yêu cầu họ chiến đấu vì tất cả những gì họ yêu quý trên thế giới.
 
 Khi quân đội của [Mordor](../M/Mordor.md) bao vây lực lượng của Phương Tây, [Gandalf](../G/Gandalf.md) có vẻ không chắc chắn. *"Chưa bao giờ tôi nghĩ mình sẽ chết khi chiến đấu bên cạnh một Tiên"*, [Gimli](../G/Gimli.md) nói với [Legolas](../L/Legolas.md). *"Sát cánh cùng một người bạn thì sao?"* Legolas lặng lẽ mỉm cười nói. Cảm động, Gimli nói rằng ông có thể làm được điều đó.
 

@@ -71,7 +71,7 @@ Vào [20 tháng Chín](../_/20_September.md) [T.A.](../T/Third_Age.md) [3018](..
 
 Gandalf quay lại Meduseld cùng với [Aragorn](../A/Aragorn.md), [Legolas](../L/Legolas.md) và [Gimli](../G/Gimli.md) vào ngày [2 tháng 3](../_/2_March.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md) và giải phóng Théoden khỏi ảnh hưởng của Gríma và Théoden quyết định lãnh đạo lực lượng của mình bảo vệ Rohan chống lại thế lực xâm lược của Saruman.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup>
 
-Sau khi Vua Théoden qua đời trong [Trận chiến trên Cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md) thi hài của ông được đưa về Edoras vào ngày [7 tháng 8](../_/7_August.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md),<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> nơi ông nằm cho đến tang lễ ba ngày sau đó.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> Sau đám tang của ông Meduseld được trang trí bằng những bức màn treo đẹp đẽ, tràn ngập ánh sáng và bữa tiệc lớn nhất kể từ thời điểm xây dựng được tổ chức tại Sảnh Vàng.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup>
+Sau khi Vua Théoden qua đời trong [Trận chiến trên Cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md) thi hài của ông được đưa về Edoras vào ngày [7 tháng 8](../_/7_August.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md),<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> nơi ông nằm cho đến tang lễ ba ngày sau đó.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> Sau đám tang của ông Meduseld được trang trí bằng những bức màn treo đẹp đẽ, tràn ngập ánh sáng và bữa tiệc lớn nhất kể từ thời điểm xây dựng được tổ chức tại Đại Sảnh Vàng.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -79,7 +79,7 @@ Sau khi Vua Théoden qua đời trong [Trận chiến trên Cánh đồng Pelenn
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Một phiên bản viết tay của chương sau này trở thành chương [ Vua của Sảnh Vàng](../T/The_King_of_the_Golden_Hall.md) có mô tả về các cánh cửa và mái hiên trước cửa. Cổng vòm có những cây cột làm từ những cây lớn, được chạm khắc các hình đan xen và được mạ vàng và sơn màu. Các cánh cửa được làm bằng gỗ và chạm khắc nhiều loài thú và chim với đôi mắt nạm ngọc và móng vuốt bằng vàng. [Christopher Tolkien](../C/Christopher_Tolkien.md) cho rằng phần mô tả bên ngoài hội trường có thể đã bị thất lạc trong quá trình soạn thảo lại tài liệu.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup>
+Một phiên bản viết tay của chương sau này trở thành chương [ Vua của Đại Sảnh Vàng](../T/The_King_of_the_Golden_Hall.md) có mô tả về các cánh cửa và mái hiên trước cửa. Cổng vòm có những cây cột làm từ những cây lớn, được chạm khắc các hình đan xen và được mạ vàng và sơn màu. Các cánh cửa được làm bằng gỗ và chạm khắc nhiều loài thú và chim với đôi mắt nạm ngọc và móng vuốt bằng vàng. [Christopher Tolkien](../C/Christopher_Tolkien.md) cho rằng phần mô tả bên ngoài hội trường có thể đã bị thất lạc trong quá trình soạn thảo lại tài liệu.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup>
 
 ## Cảm hứng {#Inspiration}
 

@@ -47,7 +47,7 @@ infobox:
 
 QUY TẮC
 
-Quy tắc chơi game hoàn chỉnh dành cho Balin và Người Lùn của ông, cùng với một số kẻ thù của họ - Durbûrz, Goblin Vua của Moria và Goblin Drums. Các phụ lục cũng bao gồm Tom Bombadil, Barrow-wight, Glorfindel, Glorfindel, Radagast Brown, v.v.
+Quy tắc chơi game hoàn chỉnh dành cho Balin và Người Lùn của ông, cùng với một số kẻ thù của họ - Durbûrz, Vua Goblin của Moria và Goblin Drums. Các phụ lục cũng bao gồm Tom Bombadil, Barrow-wight, Glorfindel, Glorfindel, Radagast Brown, v.v.
 
 KỊCH BẢN
 

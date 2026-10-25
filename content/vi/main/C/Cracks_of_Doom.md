@@ -52,7 +52,7 @@ infobox:
 
 Cracks of Doom nằm trong <i><b>Sammath Naur</b></i>, Những Gian phòng Lửa, một hang động dài với mái vòm cao nằm trên chóp của [Mount Doom](../M/Mount_Doom.md)<sup id="cite_ref-Doom_1-1" class="reference"><a href="#cite_note-Doom-1">[1]</a></sup>, trên đồng bằng [Gorgoroth](../G/Gorgoroth.md) thuộc vùng đất [Mordor](../M/Mordor.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Từ một lối vào tối tăm ở phía đông Mount Doom, cánh cửa của *Sammath Naur*, một hang động dài dẫn vào bên trong cho đến khi khe nứt lớn của Cracks of Doom cắt ngang sàn và vách hang, cách cánh cửa một quãng ngắn.<sup id="cite_ref-Doom_1-2" class="reference"><a href="#cite_note-Doom-1">[1]</a></sup> Một [con đường](../S/Sauron's_Road.md) dẫn từ cổng phía tây của [Barad-dûr](../B/Barad-dûr.md), Tháp Tối của Sauron, đến cánh cửa của *Sammath Naur*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Từ một lối vào tối tăm ở phía đông Mount Doom, cánh cửa của *Sammath Naur*, một hang động dài dẫn vào bên trong cho đến khi khe nứt lớn của Cracks of Doom cắt ngang sàn và vách hang, cách cánh cửa một quãng ngắn.<sup id="cite_ref-Doom_1-2" class="reference"><a href="#cite_note-Doom-1">[1]</a></sup> Một [con đường](../S/Sauron's_Road.md) dẫn từ cổng phía tây của [Barad-dûr](../B/Barad-dûr.md), Tháp Bóng tối của Sauron, đến cánh cửa của *Sammath Naur*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Lịch sử {#History}
 

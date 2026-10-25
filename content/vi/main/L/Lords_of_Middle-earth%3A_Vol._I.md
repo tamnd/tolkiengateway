@@ -57,7 +57,7 @@ Bên trong bạn sẽ tìm thấy:
 
 - ELVES, những người bất tử kiêu hãnh và tài năng - Legolas, của Hiệp hội, Elrond của Rivendell, Glorfindel, tai ương của Nazgûl, Galadriel của Lorien
 - VALAR, những người bảo vệ Trung Địa - Manwe, Chúa tể sức mạnh, Elbereth, Nữ hoàng của các vì sao, Tulkas, nhà vô địch hùng mạnh
-- MAIAR, những người hầu hùng mạnh của Valar - Gandalf, Grey, Saruman, Tom Bombadil, của Khu Rừng Cổ, Balrog của Moria
+- MAIAR, những người hầu hùng mạnh của Valar - Gandalf, Grey, Saruman, Tom Bombadil, của Khu Rừng Cổ, Balrog Moria
 - KẺ THÙ TUYỆT VỜI đã mang ác quỷ tới Trung Địa - Morgoth, Bóng tối Kẻ Thù, Ungoliant, Linh hồn của Hư Không, Sauron, Chúa tể của những chiếc nhẫn
 
 ## Xem thêm {#See_also}

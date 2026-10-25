@@ -44,7 +44,7 @@ infobox:
 
 ## Địa lý {#Geography}
 
-Northfarthing là cái duy nhất trong bốn cái rắm không kết thúc bằng [Hòn đá ba rắm](../T/Three-Farthing_Stone.md); điểm cực nam của nó nằm cách nó khoảng 11 dặm về phía bắc<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và dọc theo biên giới phía bắc của nó là [North Moors](North_Moors.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Northfarthing là cái duy nhất trong bốn cái rắm không kết thúc bằng [Phiến đá Ba Khu](../T/Three-Farthing_Stone.md); điểm cực nam của nó nằm cách nó khoảng 11 dặm về phía bắc<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và dọc theo biên giới phía bắc của nó là [North Moors](North_Moors.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 Nó có không khí trong lành và thơm ngát; Khi [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md) lần đầu tiên bước vào [Ithilien](../I/Ithilien.md), không khí của vùng khiến họ nhớ đến vùng cao Northfarthing.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
@@ -60,7 +60,7 @@ Một nhánh của [Gia đình Took](../T/Took_Family.md) được gọi là [No
 
 ## Lịch sử {#History}
 
-Sự kiện lịch sử đáng chú ý duy nhất từng xảy ra trong Northfarthing là [Trận chiến trên cánh đồng xanh](../B/Battle_of_Greenfields.md) ([T.A.](../T/Third_Age.md) [2747](../T/Third_Age_2747.md)).<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> Đây là trận chiến duy nhất diễn ra trong ranh giới của Shire cho đến [Trận Bywater](../B/Battle_of_Bywater.md).
+Sự kiện lịch sử đáng chú ý duy nhất từng xảy ra trong Northfarthing là [Trận chiến tại Greenfields](../B/Battle_of_Greenfields.md) ([T.A.](../T/Third_Age.md) [2747](../T/Third_Age_2747.md)).<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> Đây là trận chiến duy nhất diễn ra trong ranh giới của Shire cho đến [Trận Bywater](../B/Battle_of_Bywater.md).
 
 Vào khoảng thời gian [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), [Halfred Gamgee](../H/Halfred_Gamgee.md) chuyển đến Northfarthing.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> <span></span>
 

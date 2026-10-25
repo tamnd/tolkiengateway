@@ -69,7 +69,7 @@ Cuộc giải trí mùa hè của     - Oxford(1939)
     - *The Pardoner's Tale* (1951-1954)
 
 - 5\. Tiếng Anh trung cổ *Losenger*
-    - "Bài thơ cổ" cho Oxford Hội Dante (1947)
+    - "Bài thơ cổ" cho Hội Dante Oxford (1947)
     - Thư về *faynights* (1951)
     - "Tiếng Anh trung cổ *Losenger*" (1953)
 

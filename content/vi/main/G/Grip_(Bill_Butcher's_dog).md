@@ -39,9 +39,9 @@ infobox:
 
 **Grip** là một cư dân [chó](../D/Dogs.md) của thị trấn [Delving](../D/Delving.md) xuất hiện trong *[Perry-the-Winkle](../P/Perry-the-Winkle.md)*, một bài đồng dao dành cho trẻ mẫu giáo<sup id="cite_ref-collectedpoems_2-0" class="reference"><a href="#cite_note-collectedpoems-2">[2]</a></sup> của [Samwise Gamgee](../S/Samwise_Gamgee.md)<sup id="cite_ref-preface_3-0" class="reference"><a href="#cite_note-preface-3">[3]</a></sup>.<sup id="cite_ref-Perry_1-3" class="reference"><a href="#cite_note-Perry-1">[1]</a></sup>
 
-Trong bài thơ, Grip là bạn đồng hành của [Bill Butcher](../B/Bill_Butcher.md) ném dao, nhưng ông đã "quay đuôi bỏ chạy để cứu mạng" khi nhìn thấy [Quỷ cô đơn](../L/Lonely_Troll.md) nhìn trộm các quầy hàng trong chợ.<sup id="cite_ref-Perry_1-4" class="reference"><a href="#cite_note-Perry-1">[1]</a></sup>
+Trong bài thơ, Grip là bạn đồng hành của [Bill Butcher](../B/Bill_Butcher.md) ném dao, nhưng ông đã "quay đuôi bỏ chạy để cứu mạng" khi nhìn thấy [Troll Cô Độc](../L/Lonely_Troll.md) nhìn trộm các quầy hàng trong chợ.<sup id="cite_ref-Perry_1-4" class="reference"><a href="#cite_note-Perry-1">[1]</a></sup>
 
-Có thể Grip đã đi cùng Bill Butcher ở phần sau của bài thơ vì người bán thịt có thể là một trong những [Shire-hobbit](../S/Shire-hobbits.md) đã du hành đến <a class="new" href="https://tolkiengateway.net/w/index.php?title=Faraway&amp;action=edit&amp;redlink=1" title="Faraway (page does not exist)">Faraway</a> để yêu cầu thức ăn từ Con quỷ cô đơn.<sup id="cite_ref-Perry_1-5" class="reference"><a href="#cite_note-Perry-1">[1]</a></sup>
+Có thể Grip đã đi cùng Bill Butcher ở phần sau của bài thơ vì người bán thịt có thể là một trong những [Shire-hobbit](../S/Shire-hobbits.md) đã du hành đến <a class="new" href="https://tolkiengateway.net/w/index.php?title=Faraway&amp;action=edit&amp;redlink=1" title="Faraway (page does not exist)">Faraway</a> để yêu cầu thức ăn từ Con Troll Cô Độc.<sup id="cite_ref-Perry_1-5" class="reference"><a href="#cite_note-Perry-1">[1]</a></sup>
 
 ## Nền {#Background}
 

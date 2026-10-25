@@ -54,7 +54,7 @@ infobox:
 - [1998](../_/1998.md) - [*Other Hands* #22 - "The Balrog"](Other_Hands_22.md)
 - [1998](../_/1998.md) - [*Other Hands* #23 - "Rồng của miền Bắc"](Other_Hands_23.md)
 - [1999](../_/1999.md) - [*Other Hands* #24 - "Những kẻ phá lời thề và cho vay nặng lãi"](Other_Hands_24.md)
-- [1999](../_/1999.md) - [*Other Hands* #25 - "Người Lùn của Dãy Núi Xanh"](Other_Hands_25.md)
+- [1999](../_/1999.md) - [*Other Hands* #25 - "Người Lùn ở Dãy Núi Xanh"](Other_Hands_25.md)
 - [1999](../_/1999.md) - [*Other Hands* #26 - "Dark Undead"](Other_Hands_26.md)
 - [1999](../_/1999.md) - [*Other Hands* #27 - "Phép thuật trong Kỷ Đệ Tam"](Other_Hands_27.md)
 - [2000](../_/2000.md) - [*Other Hands* #28 - "Tiên tộc của Mirkwood"](Other_Hands_28.md)

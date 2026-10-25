@@ -20,10 +20,10 @@ sort_keys:
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- [Wainrider/Balchoth Chiến tranh](../W/Wainrider%252FBalchoth_War.md): [Gondor](../G/Gondor.md) mất lãnh thổ phía đông<sup id="cite_ref-gondor_1-0" class="reference"><a href="#cite_note-gondor-1">[1]</a></sup> sau [Trận chiến vùng đồng bằng](../B/Battle_of_the_Plains.md).<sup id="cite_ref-Cirion_2-0" class="reference"><a href="#cite_note-Cirion-2">[2]</a></sup>
+- [Wainrider/Balchoth Chiến tranh](../W/Wainrider%252FBalchoth_War.md): [Gondor](../G/Gondor.md) mất lãnh thổ phía đông<sup id="cite_ref-gondor_1-0" class="reference"><a href="#cite_note-gondor-1">[1]</a></sup> sau [Trận chiến Đồng Bằng](../B/Battle_of_the_Plains.md).<sup id="cite_ref-Cirion_2-0" class="reference"><a href="#cite_note-Cirion-2">[2]</a></sup>
 - [Vua](../K/Kings_of_Gondor.md) [Narmacil II](../N/Narmacil_II.md) của [Gondor](../G/Gondor.md) tử trận trong trận chiến.<sup id="cite_ref-AppA_3-0" class="reference"><a href="#cite_note-AppA-3">[3]</a></sup>
 - [Calimehtar](<../C/Calimehtar_(King_of_Gondor).md>), con trai của Narmacil II, trở thành [Vua](../K/Kings_of_Gondor.md) thứ ba mươi của [Gondor](../G/Gondor.md).<sup id="cite_ref-AppA_3-1" class="reference"><a href="#cite_note-AppA-3">[3]</a></sup>
-- Cái chết của [Marhari](../M/Marhari.md) của [Người phương Bắc](../N/Northmen.md) trong trận hậu vệ sau Trận chiến vùng đồng bằng.<sup id="cite_ref-Cirion_2-1" class="reference"><a href="#cite_note-Cirion-2">[2]</a></sup>
+- Cái chết của [Marhari](../M/Marhari.md) của [Người phương Bắc](../N/Northmen.md) trong trận hậu vệ sau Trận chiến Đồng Bằng.<sup id="cite_ref-Cirion_2-1" class="reference"><a href="#cite_note-Cirion-2">[2]</a></sup>
 - [Marhwini](../M/Marhwini.md) dẫn [Người phương Bắc](../N/Northmen.md) người tị nạn ra khỏi [Rhovanion](../R/Rhovanion.md) đến [Thung lũng Anduin](../V/Vales_of_Anduin.md) nơi họ trở thành [Éothéod](../_/Éothéod.md).<sup id="cite_ref-Cirion_2-2" class="reference"><a href="#cite_note-Cirion-2">[2]</a></sup>
 - Vào khoảng thời gian đó, [Nazgûl](../R/Ringwraiths.md) quay trở lại [Mordor](../M/Mordor.md).<sup id="cite_ref-gondor_1-1" class="reference"><a href="#cite_note-gondor-1">[1]</a></sup>
 

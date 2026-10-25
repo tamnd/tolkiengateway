@@ -67,7 +67,7 @@ Việc mất Tol Sirion đã tạo điều kiện cho [Orc](../O/Orcs.md) xâm c
 
 ## Từ nguyên {#Etymology}
 
-*Tol Sirion* là [Sindarin](../S/Sindarin.md) của "Đảo Sông Lớn", từ *[tol](Tol.md)* ("đảo")<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> và *[Sirion](../S/Sirion.md)* ("Sông Lớn").<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+*Tol Sirion* là [Sindarin](../S/Sindarin.md) của "Đảo Đại Hà", từ *[tol](Tol.md)* ("đảo")<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> và *[Sirion](../S/Sirion.md)* ("Đại Hà").<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 ## Xem thêm {#See_also}
 

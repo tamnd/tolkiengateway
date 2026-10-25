@@ -86,5 +86,5 @@ Sự kiện xảy ra vào ngày 2 tháng 11
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
     - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi ở [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - Các [Lữ khách](../T/Travellers.md) đến với [Bywater](../B/Bywater.md) và [đánh thức](../H/Horn-call_of_Buckland.md) [Shire-dân gian](../H/Hobbits.md).
+    - Các [Lữ khách](../T/Travellers.md) đến với [Bywater](../B/Bywater.md) và [đánh thức](../H/Horn-call_of_Buckland.md) [Dân Shire](../H/Hobbits.md).
 - Sự kiện trên được kỷ niệm vào [Buckland](../B/Buckland.md) bằng cách đánh vang [Sừng của Mark](../H/Horn_of_the_Mark.md) và các lễ hội khác.

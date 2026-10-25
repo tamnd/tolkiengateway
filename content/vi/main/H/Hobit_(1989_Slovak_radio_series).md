@@ -108,7 +108,7 @@ Gandalf của Karol Machata cũng đóng vai trò là người kể chuyện ch�
 
 Những người lùn trong Công ty của Thorin không được công nhận và người phát thanh của họ không dễ dàng nhận ra họ do nhiều người trong số họ có giọng nói bị biến đổi một chút. Có thể một số người lùn được đóng bởi một diễn viên duy nhất, chỉ có một nhóm nhỏ diễn viên của vở kịch đóng vai tất cả mười ba người lùn.
 
-[Elrond](../E/Elrond.md) và Rivendell Tiên tộc, [Chúa tể của Đại Bàng](../L/Lord_of_the_Eagles.md), [Beorn](../B/Beorn.md), [Bard the Bowman](../B/Bard_the_Bowman.md), [Bậc thầy của Thị trấn Hồ](../M/Master_of_Lake-town.md), [Bolg](../B/Bolg.md) và [Dáin Chân Sắt](../D/Dáin_Ironfoot.md) không xuất hiện trong phiên bản radio này.
+[Elrond](../E/Elrond.md) và Rivendell Tiên tộc, [Chúa tể Đại Bàng](../L/Lord_of_the_Eagles.md), [Beorn](../B/Beorn.md), [Bard the Bowman](../B/Bard_the_Bowman.md), [Bậc thầy của Thị trấn Hồ](../M/Master_of_Lake-town.md), [Bolg](../B/Bolg.md) và [Dáin Chân Sắt](../D/Dáin_Ironfoot.md) không xuất hiện trong phiên bản radio này.
 
 ## Tín dụng {#Credits}
 

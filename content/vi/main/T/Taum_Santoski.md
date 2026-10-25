@@ -29,7 +29,7 @@ sort_keys:
 - [1985](../_/1985.md): [*Beyond Bree* Tháng 10 năm 1985](../B/Beyond_Bree_October_1985.md)
     - "Bản thảo của J.R.R. Tolkien trong ấn bản tiếng Pháp của *The Adventures of Tom Bombadil*"
 - [1987](../_/1987.md): *[Selections from the Marquette J.R.R. Tolkien Collection](../S/Selections_from_the_Marquette_J.R.R._Tolkien_Collection.md)*
-    - "Ranh giới của Vương quốc Nhỏ"
+    - "Ranh giới của Tiểu Vương quốc"
 - [1991](../_/1991.md): [*Vinyar Tengwar* 15](../V/Vinyar_Tengwar_15.md)
     - "Elvish Thuật ngữ ngôn ngữ"
 - [1991](../_/1991.md): [*Vinyar Tengwar* 20](../V/Vinyar_Tengwar_20.md)

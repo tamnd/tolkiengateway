@@ -27,7 +27,7 @@ images:
 - **[Ciryandil](../C/Ciryandil.md)** ([T.A.](../T/Third_Age.md) [936](../T/Third_Age_936.md)-[1015](../T/Third_Age_1015.md))
 - **[Ciryaher Hyarmendacil I](../H/Hyarmendacil_I.md)** ([T.A.](../T/Third_Age.md) [1015](../T/Third_Age_1015.md)-[1149](../T/Third_Age_1149.md))
 
-Các Vua Tàu đã làm nhiều việc để mở rộng sức mạnh hải quân và quân sự của [Gondor](../G/Gondor.md). Giữa họ, họ đã mở rộng đáng kể quyền kiểm soát của vương quốc miền Nam đối với các vùng đất phía nam [Trung Địa](../M/Middle-earth.md), bao gồm các vùng đất phía tây [Miệng Anduin](../E/Ethir_Anduin.md) và xa về phía nam đến [Umbar](../U/Umbar.md) và [Harad](../H/Harad.md).
+Các Vua Tàu đã làm nhiều việc để mở rộng sức mạnh hải quân và quân sự của [Gondor](../G/Gondor.md). Giữa họ, họ đã mở rộng đáng kể quyền kiểm soát của vương quốc miền Nam đối với các vùng đất phía nam [Trung Địa](../M/Middle-earth.md), bao gồm các vùng đất phía tây [Cửa sông Anduin](../E/Ethir_Anduin.md) và xa về phía nam đến [Umbar](../U/Umbar.md) và [Harad](../H/Harad.md).
 
 Ảnh hưởng của họ lớn đến mức, vào cuối triều đại của Hyarmendacil I, Gondor đã đạt đến đỉnh cao sức mạnh và quyền lực mà sẽ không bao giờ vượt qua được nữa. Quả thực, sau thời kỳ các vua thuyền là thời kỳ trì trệ, thiên tai, chiến tranh dẫn đến sự suy tàn.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
 

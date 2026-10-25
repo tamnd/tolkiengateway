@@ -46,7 +46,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Trong vụ chìm tàu ​​ [Beleriand](../B/Beleriand.md) ở cuối [Kỷ Đệ Nhất](../F/First_Age.md), địa điểm [Hòn đá bất hạnh](../S/Stone_of_the_Hapless.md) không bị chết đuối nhưng, như dự đoán của [Glirhuin](../G/Glirhuin.md), vẫn là một hòn đảo, Tol Morwen, là mộ của [Morwen Eledhwen](../M/Morwen.md), do đó có tên như vậy. Nó là điểm cực tây của quần đảo [Belegaer](../B/Belegaer.md) nằm ngoài khơi bờ biển [Forlindon](../F/Forlindon.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Trong vụ chìm tàu ​​ [Beleriand](../B/Beleriand.md) ở cuối [Kỷ Đệ Nhất](../F/First_Age.md), địa điểm [Đá của Kẻ Bất Hạnh](../S/Stone_of_the_Hapless.md) không bị chết đuối nhưng, như dự đoán của [Glirhuin](../G/Glirhuin.md), vẫn là một hòn đảo, Tol Morwen, là mộ của [Morwen Eledhwen](../M/Morwen.md), do đó có tên như vậy. Nó là điểm cực tây của quần đảo [Belegaer](../B/Belegaer.md) nằm ngoài khơi bờ biển [Forlindon](../F/Forlindon.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Vị trí {#Location}
 

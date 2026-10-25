@@ -233,7 +233,7 @@ Nguyên âm đôi được thể hiện bằng tehtar. Hai <a class="new" href="
 
 ### Phụ âm hóa thành {#Labialised_consonants}
 
-Ở chế độ Quenya, các phụ âm được môi hóa (*kw*, *ngw*, v.v.) thuộc về Quessetéma. Có thể Chế độ của Beleriand đã sử dụng <a class="new" href="https://tolkiengateway.net/w/index.php?title=W-tehta&amp;action=edit&amp;redlink=1" title="W-tehta (page does not exist)"><i>w</i>-tehta</a> <span class="tg-tengwar tg-tengwar--tengwar_eldamar">è</span> trên các phụ âm cho điều này (<i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Edwen&amp;action=edit&amp;redlink=1" title="Edwen (page does not exist)">edwen</a></i>, có lẽ sẽ được viết ở đây là <span class="tg-tengwar tg-tengwar--tengwar_eldamar">l2èl6</span>).<sup id="cite_ref-KL_14-1" class="reference"><a href="#cite_note-KL-14">[5]</a></sup>
+Ở chế độ Quenya, các phụ âm được môi hóa (*kw*, *ngw*, v.v.) thuộc về Quessetéma. Có thể Kiểu Beleriand đã sử dụng <a class="new" href="https://tolkiengateway.net/w/index.php?title=W-tehta&amp;action=edit&amp;redlink=1" title="W-tehta (page does not exist)"><i>w</i>-tehta</a> <span class="tg-tengwar tg-tengwar--tengwar_eldamar">è</span> trên các phụ âm cho điều này (<i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Edwen&amp;action=edit&amp;redlink=1" title="Edwen (page does not exist)">edwen</a></i>, có lẽ sẽ được viết ở đây là <span class="tg-tengwar tg-tengwar--tengwar_eldamar">l2èl6</span>).<sup id="cite_ref-KL_14-1" class="reference"><a href="#cite_note-KL-14">[5]</a></sup>
 
 ### Xịt mũi {#Nasalization}
 

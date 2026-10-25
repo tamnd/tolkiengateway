@@ -73,9 +73,9 @@ Trong bản thảo đầu tiên của chương "[Từ chảo rán vào lửa](..
 
 ## Suy đoán {#Speculation}
 
-Người ta thường cho rằng Đại bàng lớn là cùng một cá thể với [Gwaihir](Gwaihir.md), tuy nhiên nhiều khả năng chúng không phải là cùng một cá thể. Trong số một số điểm phân biệt hai loài này, Đại bàng lớn được đề cập là đội vương miện sau *[The Hobbit](../T/The_Hobbit.md)* nhưng không có vương miện nào được đề cập với Gwaihir trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*. Hơn nữa, Gandalf nói rằng ông đã được Gwaihir mang theo ba lần, bao gồm cả việc đi theo [Trận Morannon](../B/Battle_of_the_Morannon.md),<sup id="cite_ref-RKVI4_7-0" class="reference"><a href="#cite_note-RKVI4-7">[7]</a></sup> trong khi con số sẽ ít nhất là năm nếu Gwaihir và Chúa tể của Đại Bàng là một.
+Người ta thường cho rằng Đại bàng lớn là cùng một cá thể với [Gwaihir](Gwaihir.md), tuy nhiên nhiều khả năng chúng không phải là cùng một cá thể. Trong số một số điểm phân biệt hai loài này, Đại bàng lớn được đề cập là đội vương miện sau *[The Hobbit](../T/The_Hobbit.md)* nhưng không có vương miện nào được đề cập với Gwaihir trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*. Hơn nữa, Gandalf nói rằng ông đã được Gwaihir mang theo ba lần, bao gồm cả việc đi theo [Trận Morannon](../B/Battle_of_the_Morannon.md),<sup id="cite_ref-RKVI4_7-0" class="reference"><a href="#cite_note-RKVI4-7">[7]</a></sup> trong khi con số sẽ ít nhất là năm nếu Gwaihir và Chúa tể Đại Bàng là một.
 
-Cũng có thể Đại bàng vĩ đại là [Thorondor](../T/Thorondor.md),<sup id="cite_ref-speculation_8-0" class="reference"><a href="#cite_note-speculation-8">[8]</a></sup> cũng mang danh hiệu [Chúa tể của Đại Bàng](../L/Lord_of_the_Eagles.md).
+Cũng có thể Đại bàng vĩ đại là [Thorondor](../T/Thorondor.md),<sup id="cite_ref-speculation_8-0" class="reference"><a href="#cite_note-speculation-8">[8]</a></sup> cũng mang danh hiệu [Chúa tể Đại Bàng](../L/Lord_of_the_Eagles.md).
 
 <span></span>
 

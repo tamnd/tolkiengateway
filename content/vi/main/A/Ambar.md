@@ -59,7 +59,7 @@ Theo nghĩa này, *Ambar* khác với *[Arda](Arda.md)*, vốn chỉ thế giớ
 
 ## Ghi chú {#Notes}
 
-Các [Tiên tộc](../E/Elves.md) có thể đã đồng nhất khái niệm “số mệnh” với thế giới có cư dân, bởi *[fëar](../F/Fëar.md)* của họ gắn bó vĩnh viễn với Arda, trái ngược với [Con Người](../M/Men.md), những linh hồn của họ thoát ra ngoài thế giới sau khi chết (xem: [Món quà của Con Người](../G/Gift_of_Men.md)).
+Các [Tiên tộc](../E/Elves.md) có thể đã đồng nhất khái niệm “số mệnh” với thế giới có cư dân, bởi *[fëar](../F/Fëar.md)* của họ gắn bó vĩnh viễn với Arda, trái ngược với [Con Người](../M/Men.md), những linh hồn của họ thoát ra ngoài thế giới sau khi chết (xem: [Tặng phẩm của Con Người](../G/Gift_of_Men.md)).
 
 Hơn nữa, các căn tố MBAR và MBAR-AT có thể rốt cuộc có liên hệ với nhau.
 

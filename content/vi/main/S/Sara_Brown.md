@@ -30,7 +30,7 @@ Cô cũng đồng tổ chức các podcast [Trải nghiệm Tolkien](../T/The_To
 
 ## Giải thưởng {#Awards}
 
-- [2023](../_/2023.md): **[Giải thưởng của Hội Tolkien](../T/Tolkien_Society_Awards.md): Bài viết hay nhất**, "'Tất cả những gì lấp lánh không phải là vàng': Chiếc nhẫn quyền lực và sự lừa dối của sự so sánh" trong [Mallorn 63](../M/Mallorn_63.md)
+- [2023](../_/2023.md): **[Giải thưởng của Hội Tolkien](../T/Tolkien_Society_Awards.md): Bài viết hay nhất**, "'Tất cả những gì lấp lánh không phải là vàng': Nhẫn Quyền Năng và sự lừa dối của sự so sánh" trong [Mallorn 63](../M/Mallorn_63.md)
 - [2024](../_/2024.md): **[Giải thưởng của Hội Tolkien](../T/Tolkien_Society_Awards.md): Bài viết hay nhất**, "'Câu chuyện về 'Aldarion và Erendis': Không chỉ là chuyện tình thời trung cổ' trong [Journal of Tolkien Research](../J/Journal_of_Tolkien_Research.md) tập. 18 không. 1
 
 ## Liên kết ngoài {#External_links}

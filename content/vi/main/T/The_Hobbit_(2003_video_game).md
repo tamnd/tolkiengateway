@@ -160,7 +160,7 @@ Trong chuyến thăm của những người lùn tới [Bag End](../B/Bag_End.md
 
 #### Một bữa tiệc bất ngờ {#An_Unexpected_Party}
 
-Bilbo được cử đến Green Rồng, nhưng trước tiên ông phải thu thập đồ dự trữ cho [Bombur](../B/Bombur.md) và thực hiện các công việc khác nhau cho nhiều Hobbit khác nhau.
+Bilbo được cử đến Rồng Xanh, nhưng trước tiên ông phải thu thập đồ dự trữ cho [Bombur](../B/Bombur.md) và thực hiện các công việc khác nhau cho nhiều Hobbit khác nhau.
 
 #### Thịt cừu nướng {#Roast_Mutton}
 

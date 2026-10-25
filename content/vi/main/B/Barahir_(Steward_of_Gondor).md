@@ -77,7 +77,7 @@ infobox:
 
 **Barahir** ([Kỷ Đệ Tam](../T/Third_Age.md) 2290<sup id="cite_ref-Elendil_1-1" class="reference"><a href="#cite_note-Elendil-1">[1]</a></sup> – 2412,<sup id="cite_ref-South_2-0" class="reference"><a href="#cite_note-South-2">[2]</a></sup> 122 tuổi) là [Quản lý cầm quyền](../R/Ruling_Steward.md) thứ tám của [Gondor](../G/Gondor.md).
 
-[Hòa bình thận trọng](../W/Watchful_Peace.md) tiếp tục diễn ra trong thời gian ông cai trị.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+[Thời kỳ Hòa bình Cảnh giác](../W/Watchful_Peace.md) tiếp tục diễn ra trong thời gian ông cai trị.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 Barahir cai trị với tư cách Quản gia trong mười bảy năm, và được con trai ông là [Dior](<../D/Dior_(Steward_of_Gondor).md>)kế vị.<sup id="cite_ref-South_2-1" class="reference"><a href="#cite_note-South-2">[2]</a></sup>
 

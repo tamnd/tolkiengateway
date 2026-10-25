@@ -20,7 +20,7 @@ Trong thời gian [Saruman](../S/Saruman.md) chiếm đóng, cơ thể của ôn
 
 ## Xem thêm {#See_also}
 
-- [Sở thích trong tay](../H/Hobbitry-in-arms.md)
+- [Đội quân Hobbit](../H/Hobbitry-in-arms.md)
 
 <span></span>
 

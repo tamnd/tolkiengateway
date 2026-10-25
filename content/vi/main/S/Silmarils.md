@@ -93,7 +93,7 @@ Vua [Thingol](Sindar.md) của người [Sindarin](../T/Thingol.md) biết đế
 
 Thay vì đưa nó cho [các Con trai của Fëanor](Sons_of_Fëanor.md), Thingol đã để [Người Lùn Nogrod](../D/Dwarves_of_Nogrod.md) cất viên ngọc bên trong mặt dây chuyền của người lùn [Nauglamír](../N/Nauglamír.md). Tuy nhiên, những người lùn cũng thèm muốn viên ngọc và đã giết chết Thingol. Doriath đã bị [hủy hoại](../B/Battle_in_the_Thousand_Caves.md) bởi Người Lùn. Nauglamír đã được Beren thu hồi từ người lùn tại [Trận Sarn Athrad](../B/Battle_of_Sarn_Athrad.md) và ông đã đưa nó cho Lúthien, người đã đeo nó cho đến khi cô qua đời lần thứ hai, trở thành tầm nhìn đẹp nhất ở phía đông Biển. Người ta nói rằng cái chết thứ hai của họ đến sớm vì vẻ đẹp tổng hợp của họ quá chói sáng đối với vùng đất phàm trần.
 
-### Sự diệt vong của Noldor {#Doom_of_the_Noldor}
+### Tai họa của Noldor {#Doom_of_the_Noldor}
 
 Sau cái chết của Lúthien, Lãnh chúa của [Laiquendi](../L/Laiquendi.md) đã mang Nauglamír trở lại [Doriath](../D/Doriath.md) và con trai bà [Dior](../D/Dior.md) đã đeo nó. Tin tức về Silmaril đến với các con trai của Fëanor, những người bị kích động bởi Lời Thề của họ đã đến Doriath và quyết tâm [trận chiến](Second_Kinslaying.md), trong đó ba người anh em đã bị giết và [Menegroth](../M/Menegroth.md) bị tiêu diệt. Tuy nhiên, Nauglamír đã được giải cứu bởi [Elwing](../E/Elwing.md) và Sindarin những người sống sót chạy trốn đến [Các Cảng Sirion](../H/Havens_of_Sirion.md).<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 

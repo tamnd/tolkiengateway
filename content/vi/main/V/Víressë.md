@@ -25,9 +25,9 @@ langlinks:
     url: "https://kontu.wiki/V%C3%ADress%C3%AB"
 ---
 
-**Víressë** là tên của tháng trong năm (*[asta](../A/Asta.md)*) theo sau tháng [Súlimë](../S/Súlimë.md) và trước tháng [Lótessë](../L/Lótessë.md). Đó là tháng thứ tư trong [Vua Tính toán](../K/King's_Reckoning.md) và [Tính toán của Quản lý](../S/Stewards'_Reckoning.md); trong lịch sau, trước ngày lễ [Tuilérë](../T/Tuilérë.md). Sau khi giới thiệu [Tính toán mới](../N/New_Reckoning.md), Víressë đã trở thành tháng đầu tiên.<sup id="cite_ref-app_1-0" class="reference"><a href="#cite_note-app-1">[1]</a></sup>
+**Víressë** là tên của tháng trong năm (*[asta](../A/Asta.md)*) theo sau tháng [Súlimë](../S/Súlimë.md) và trước tháng [Lótessë](../L/Lótessë.md). Đó là tháng thứ tư trong [Lịch Tính của Nhà Vua](../K/King's_Reckoning.md) và [Tính toán của Quản lý](../S/Stewards'_Reckoning.md); trong lịch sau, trước ngày lễ [Tuilérë](../T/Tuilérë.md). Sau khi giới thiệu [Tính toán mới](../N/New_Reckoning.md), Víressë đã trở thành tháng đầu tiên.<sup id="cite_ref-app_1-0" class="reference"><a href="#cite_note-app-1">[1]</a></sup>
 
-*Víressë* trong Sự tính toán của các vị vua (và phần lớn trong Sự tính toán của người quản gia) tương ứng với [Astron](../A/Astron.md) trong [Lịch Shire](../S/Shire_Calendar.md) (khoảng [23 tháng 3](../_/23_March.md) đến [21 tháng 4](../_/21_April.md) hiện đại).
+*Víressë* trong Sự Lịch Tính của các Vua (và phần lớn trong Sự tính toán của người quản gia) tương ứng với [Astron](../A/Astron.md) trong [Lịch Shire](../S/Shire_Calendar.md) (khoảng [23 tháng 3](../_/23_March.md) đến [21 tháng 4](../_/21_April.md) hiện đại).
 
 ## Từ nguyên {#Etymology}
 

@@ -43,7 +43,7 @@ Tolkien giải thích hai phiên bản khác nhau trong phần giới thiệu c�
 
 Cuốn sách có kích thước 19,6 x 14,0 cm.
 
-Phiên bản đầu tiên thực sự của *The Hobbit* với lớp áo chống bụi còn nguyên vẹn được các nhà sưu tập đánh giá cao.
+Ấn bản đầu tiên thực sự của *The Hobbit* với lớp áo chống bụi còn nguyên vẹn được các nhà sưu tập đánh giá cao.
 
 Nắp sau có lỗi chính tả chỉ xuất hiện ở những phiên bản đầu tiên. Từ Dodgson được đánh vần sai là Dodgeson và chữ 'e' đã được nhà xuất bản đánh dấu bằng mực đen.
 

@@ -269,7 +269,7 @@ Các bản nhạc của [Howard Shore](../H/Howard_Shore.md) trong phim cũng đ
 - "Nền Đá"
 - "Con đường của đầm lầy"
 - "Uruk‑Hai"
-- " Vua Của Sảnh Vàng"
+- " Vua Của Đại Sảnh Vàng"
 - "Kỵ Sĩ Trắng"
 - "Helm's Deep"
 - "Eorlingas thứ tư"

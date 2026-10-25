@@ -48,7 +48,7 @@ infobox:
 - Trên Dãy Núi Sương Mù (tr. 24)
 - Gollum (tr. 26)
 - Câu đố cuối cùng (tr. 28)
-- Cơn thịnh nộ của yêu tinh Vua (tr. 30)
+- Cơn thịnh nộ của Vua Goblin (tr. 30)
 - Gandalf the Grey (tr. 35)
 - Ra khỏi lửa (tr. 38)
 - Nhện và Kiếm trong Mirkwood (tr. 40)

@@ -74,7 +74,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Berúthiel là một [Người Númenórean Đen](Black_Númenóreans.md), có lẽ xuất thân từ một [thành phố nội địa](../H/Harad.md)<sup id="cite_ref-Interview_3-0" class="reference"><a href="#cite_note-Interview-3">[3]</a></sup> nằm ở phía nam [Umbar](../U/Umbar.md)<sup id="cite_ref-Istari_1-2" class="reference"><a href="#cite_note-Istari-1">[1]</a></sup>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[note 1]</a></sup>
+Berúthiel là một [Người Númenor Đen](Black_Númenóreans.md), có lẽ xuất thân từ một [thành phố nội địa](../H/Harad.md)<sup id="cite_ref-Interview_3-0" class="reference"><a href="#cite_note-Interview-3">[3]</a></sup> nằm ở phía nam [Umbar](../U/Umbar.md)<sup id="cite_ref-Istari_1-2" class="reference"><a href="#cite_note-Istari-1">[1]</a></sup>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[note 1]</a></sup>
 
 Không rõ lý do Tarannon kết hôn với Berúthiel. Có thể cuộc hôn nhân này liên quan đến việc ông mở rộng vương quốc Gondor dọc theo các bờ biển phía nam cửa sông [Anduin](../A/Anduin.md) và những chiến thắng của ông với tư cách [Thống lĩnh các Đạo quân](../C/Captain_of_the_Hosts.md).<sup id="cite_ref-Tarannon_5-0" class="reference"><a href="#cite_note-Tarannon-5">[4]</a></sup> Vì vậy, có thể đó là một cuộc hôn nhân ngoại giao nhằm thiết lập liên minh hoặc duy trì quan hệ hòa bình với vương quốc nơi Berúthiel xuất thân.
 

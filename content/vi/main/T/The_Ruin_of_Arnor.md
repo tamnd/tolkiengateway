@@ -41,7 +41,7 @@ infobox:
 
 ## Từ nhà xuất bản {#From_the_publisher}
 
-Cuốn sách tham khảo này cung cấp hướng dẫn về các đội quân chiến đấu giành quyền tối cao giữa sự tàn phá của Arnor, từ Đại đội Xám, những người lính dũng cảm của Arnor, những người bảo vệ Shire cho đến các thế lực ác độc của Arnor. Ngoài ra còn có sáu kịch bản tiếp nối câu chuyện về sự sụp đổ của Arnor và sự trỗi dậy của Aragorn. Bảo vệ thành phố Fornost chống lại quân đoàn của Vua Phù thủy và săn lùng Troll và Orc qua vùng hoang dã của Rhudaur!
+Cuốn sách tham khảo này cung cấp hướng dẫn về các đội quân chiến đấu giành quyền tối cao giữa sự tàn phá của Arnor, từ Đội quân Xám, những người lính dũng cảm của Arnor, những người bảo vệ Shire cho đến các thế lực ác độc của Arnor. Ngoài ra còn có sáu kịch bản tiếp nối câu chuyện về sự sụp đổ của Arnor và sự trỗi dậy của Aragorn. Bảo vệ thành phố Fornost chống lại quân đoàn của Vua Phù thủy và săn lùng Troll và Orc qua vùng hoang dã của Rhudaur!
 
 Đây là phần bổ sung cho *Trò chơi chiến đấu chiến lược Chúa tể những chiếc nhẫn* của Games Workshop - bạn sẽ cần bản sao quy tắc để chơi.
 

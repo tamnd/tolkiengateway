@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Gaffer Gamgee](../../main/G/Gaffer_Gamgee.md) trong [Green Rồng](../../main/G/Green_Dragon~72852.md). Ảnh chụp màn hình từ [*The Lord of the Rings: The Fellowship of the Ring* (video game)](<../../main/T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md>).
+[Gaffer Gamgee](../../main/G/Gaffer_Gamgee.md) trong [Rồng Xanh](../../main/G/Green_Dragon~72852.md). Ảnh chụp màn hình từ [*The Lord of the Rings: The Fellowship of the Ring* (video game)](<../../main/T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md>).
 
 ## Giấy phép {#Licensing}
 

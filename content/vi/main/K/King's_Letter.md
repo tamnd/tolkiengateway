@@ -39,7 +39,7 @@ Có ba phiên bản của bức thư thực tế. Cuốn đầu tiên và cuốn
 
 ### Phiên bản đầu tiên {#First_version}
 
-Phiên bản đầu tiên được viết ở chế độ nguyên âm sử dụng tengwar cho các nguyên âm, giống như [Chế độ của Beleriand](../M/Mode_of_Beleriand.md). Văn bản đi:
+Phiên bản đầu tiên được viết ở chế độ nguyên âm sử dụng tengwar cho các nguyên âm, giống như [Kiểu Beleriand](../M/Mode_of_Beleriand.md). Văn bản đi:
 
 <table>
 <tbody><tr>
@@ -58,7 +58,7 @@ Phiên bản thứ hai này khắc phục một số lỗi nhỏ và sửa chữ
 
 ### Phiên bản thứ ba {#Third_version}
 
-Phiên bản này, có trong bản phác thảo thứ hai của phần kết, sử dụng nguyên âm-[tehtar](../T/Tehtar.md) thay vì nguyên âm-tengwar của chế độ trước. Văn bản hơi khác so với phiên bản thứ hai. Thứ tự từ của câu đầu tiên đã được thay đổi và trong phần tái bút, năm được thêm vào: 1436 của [Shire Tính toán](../S/Shire_Reckoning.md) trong phiên bản tiếng Anh và 16 trong [Tính toán của quản lý](../S/Stewards'_Reckoning.md). Chữ ký không thể bao gồm hai nguyên âm ở chế độ này được viết *Ar•El•*
+Phiên bản này, có trong bản phác thảo thứ hai của phần kết, sử dụng nguyên âm-[tehtar](../T/Tehtar.md) thay vì nguyên âm-tengwar của chế độ trước. Văn bản hơi khác so với phiên bản thứ hai. Thứ tự từ của câu đầu tiên đã được thay đổi và trong phần tái bút, năm được thêm vào: 1436 của [Lịch Shire](../S/Shire_Reckoning.md) trong phiên bản tiếng Anh và 16 trong [Tính toán của quản lý](../S/Stewards'_Reckoning.md). Chữ ký không thể bao gồm hai nguyên âm ở chế độ này được viết *Ar•El•*
 
 ## Ý nghĩa {#Significance}
 

@@ -122,7 +122,7 @@ Falmari đôi khi gọi anh là <i><b>Volwë</b></i>.<sup id="cite_ref-Shibbolet
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong các phiên bản trước của [Quenta Silmarillion](../Q/Quenta_Silmarillion.md), Olwë được đặt tên là *Elwë* (trong khi anh trai Thingol cũng có tên *Sindo*<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[16]</a></sup>), và Olwë là một trong <a class="new" href="https://tolkiengateway.net/w/index.php?title=Three_Ambassadors&amp;action=edit&amp;redlink=1" title="Three Ambassadors (page does not exist)">Ba Đại sứ</a> thay vì anh trai Thingol.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[17]</a></sup> Sự tồn tại của con gái ông Eärwen hay cuộc hôn nhân của cô với Finarfin đều không xuất hiện chưa.
+Trong các phiên bản trước của [Quenta Silmarillion](../Q/Quenta_Silmarillion.md), Olwë được đặt tên là *Elwë* (trong khi anh trai Thingol cũng có tên *Sindo*<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[16]</a></sup>), và Olwë là một trong <a class="new" href="https://tolkiengateway.net/w/index.php?title=Three_Ambassadors&amp;action=edit&amp;redlink=1" title="Three Ambassadors (page does not exist)">Ba Sứ giả</a> thay vì anh trai Thingol.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[17]</a></sup> Sự tồn tại của con gái ông Eärwen hay cuộc hôn nhân của cô với Finarfin đều không xuất hiện chưa.
 
 ## Xem thêm {#See_also}
 

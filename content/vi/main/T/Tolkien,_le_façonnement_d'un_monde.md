@@ -39,7 +39,7 @@ categories:
     - Didier Willis, "Númenor et la *Cottoniana* — Enquête sur une île en forme d'étoile à cinq Branch" (Númenor và *Cottoniana*: Truy tìm hòn đảo hình ngôi sao năm cánh)
     - Priscille Henon, "Dédales en Terre du Milieu" (Mê cung ở Trung Địa)
     - William A. S. Sarjeant, "La géologie de la Terre du Milieu" (Địa chất của Trung Địa)
-    - Jean-Rodolphe Turlin, "La pierre des Trois Quartiers" (Hòn đá ba rắm)
+    - Jean-Rodolphe Turlin, "La pierre des Trois Quartiers" (Phiến đá Ba Khu)
     - Didier Willis, "Du Beleriand aux confins de Rhûn — Ảnh ghép và tái tạo bản đồ" (Từ Beleriand đến đường viền của Rhûn: ảnh ghép và tái tạo bản đồ)
     - Jean-Rodolphe Turlin, "Une cartographie pour la Comté" (Hướng tới bản đồ của Shire)
     - Éric Flieller, "Rhosgobel, la demeure énigmatique du mystérieux Radagast" (Rhosgobel, ngôi nhà bí ẩn của Radagast bí ẩn)

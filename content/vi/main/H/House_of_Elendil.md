@@ -56,7 +56,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-[Elendil](../E/Elendil.md), con trai của [Amandil](../A/Amandil.md), đã trốn thoát khỏi [Sự sụp đổ của Númenor](../D/Downfall_of_Númenor.md) cùng hai con trai [Isildur](../I/Isildur.md) và [Anárion](../A/Anárion.md). Họ tìm nơi ẩn náu ở [Trung Địa](../M/Middle-earth.md), nơi họ thành lập hai vương quốc: [Arnor](../A/Arnor.md) ở phía bắc và [Gondor](../G/Gondor.md) ở phía nam. Elendil cai trị cả hai nơi này với tư cách là [Đại Vương của Dúnedain](High_King_of_the_Dúnedain.md), và từ hậu duệ của ông là dòng dõi các vị Vua ở cả Vương quốc phương Bắc và Vương quốc phía Nam.
+[Elendil](../E/Elendil.md), con trai của [Amandil](../A/Amandil.md), đã trốn thoát khỏi [Sự sụp đổ của Númenor](../D/Downfall_of_Númenor.md) cùng hai con trai [Isildur](../I/Isildur.md) và [Anárion](../A/Anárion.md). Họ tìm nơi ẩn náu ở [Trung Địa](../M/Middle-earth.md), nơi họ thành lập hai vương quốc: [Arnor](../A/Arnor.md) ở phía bắc và [Gondor](../G/Gondor.md) ở phía nam. Elendil cai trị cả hai nơi này với tư cách là [Đại Vương của Dúnedain](High_King_of_the_Dúnedain.md), và từ hậu duệ của ông là dòng dõi các vị Vua ở cả Vương quốc phương Bắc và Vương quốc phương Nam.
 
 Bản thân Elendil đã bị giết trong [Cuộc vây hãm Barad-dûr](../S/Siege_of_Barad-dûr.md), và con trai lớn của ông Isildur kế thừa [Vương quyền tối cao](High_King_of_the_Dúnedain.md). Hai năm sau, chính Isildur cùng với ba người thừa kế lớn tuổi của mình đã mất tích trong [Thảm họa Cánh đồng Gladden](../D/Disaster_of_the_Gladden_Fields.md). Người thừa kế duy nhất còn lại của ông, [Valandil](<../V/Valandil_(King_of_Arnor).md>), chỉ là một cậu bé, thực tế là đã rời đi Arnor mà không có Vua. Thế là Nhà Elendil chia thành hai dòng. Ở miền Nam, cháu trai [Meneldil](../M/Meneldil.md) của Isildur được để lại cai trị Gondor dưới danh nghĩa của chú mình. Meneldil hiện đã nắm giữ toàn bộ Vương quyền của Gondor và Gondor được con cháu của ông cai trị trong hơn hai nghìn năm.
 
@@ -67,7 +67,7 @@ Phòng tuyến Elendil không bị phá vỡ trong thất bại đó. Người t
 ## Xem thêm {#See_also}
 
 - [Nhà Isildur](House_of_Isildur.md) và [Các vị vua Arnor](../K/Kings_of_Arnor.md)
-- [Nhà của Anárion](House_of_Anárion.md) và [Các vị vua của Gondor](../K/Kings_of_Gondor.md)
+- [Nhà của Anárion](House_of_Anárion.md) và [Các Vua Gondor](../K/Kings_of_Gondor.md)
 
 <span></span>
 

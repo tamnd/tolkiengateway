@@ -114,7 +114,7 @@ Nhiệm vụ của 17. [Pippin](../P/Pippin's_Task.md)
 Quyết định của 20. [Théoden](Théoden's_Decision.md) \*\*
 21. [Sự sụp đổ của Osgiliath](The_Fall_of_Osgiliath.md) \*\*
 22. [Học trò của Pháp sư](The_Wizard's_Pupil.md) \*
-23. [Cầu thang Cirith Ungol](<The_Stairs_of_Cirith_Ungol_(scene).md>)
+23. [Bậc thang Cirith Ungol](<The_Stairs_of_Cirith_Ungol_(scene).md>)
 24. ["Can đảm là cách phòng thủ tốt nhất"](../_/%2522Courage_Is_the_Best_Defense%2522.md)
 25. [Peregrin của Người bảo vệ Tháp](../P/Peregrin_of_the_Tower_Guard.md) \*
 26. [Trung thành với Denethor](../A/Allegiance_to_Denethor.md)
@@ -136,7 +136,7 @@ Sự can đảm đơn giản của 39. [Merry](../M/Merry's_Simple_Courage.md) \
 42. [Phá cổng Gondor](../B/Breaking_the_Gate_of_Gondor.md)
 43. [Những lựa chọn của Master Samwise](<The_Choices_of_Master_Samwise_(scene).md>)
 Sự điên rồ của 44. [Denethor](../D/Denethor's_Madness.md)
-45. [Giờ của Phù Thủy Vua](The_Witch_King's_Hour.md) \*
+45. [Giờ của Vua Phù thủy](The_Witch_King's_Hour.md) \*
 46. [Chuyến đi của Rohirrim](<The_Ride_of_the_Rohirrim_(scene).md>)
 47. [Lửa thiêu Denethor](<The_Pyre_of_Denethor_(scene).md>) \*\*
 48. [Cái Trận chiến trên Cánh đồng Pelennor](<The_Battle_of_the_Pelennor_Fields_(scene).md>) \*\*

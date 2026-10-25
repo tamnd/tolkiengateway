@@ -19,7 +19,7 @@ hidden_categories:
 
 ## Bài thơ ngoại trừ {#Poem_except}
 
-Eriol đã sáng tác một bài hát trong Room of the Tale-fire kể về việc đôi chân của ông bị giáo phái lang thang như thế nào, để cuối cùng ông đã tìm thấy [Hòn đảo cô đơn](../L/Lonely_Isle.md) và thị trấn công bằng nhất đó [Kortirion](../K/Kortirion.md).
+Eriol đã sáng tác một bài hát trong Room of the Tale-fire kể về việc đôi chân của ông bị giáo phái lang thang như thế nào, để cuối cùng ông đã tìm thấy [Hòn đảo Cô Độc](../L/Lonely_Isle.md) và thị trấn công bằng nhất đó [Kortirion](../K/Kortirion.md).
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
 <p>Ngày nào không rõ cha ông tôi<br/>

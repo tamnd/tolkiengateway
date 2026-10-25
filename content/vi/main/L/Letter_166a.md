@@ -29,7 +29,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Trong bức thư ngắn gọn này, Tolkien thông báo cho [Rayner Unwin](../R/Rayner_Unwin.md) về kế hoạch du lịch sắp tới của mình. Ông đề cập rằng ông sẽ lên đường thực hiện một chuyến du lịch, ám chỉ nó một cách ẩn dụ là một cuộc hành trình từ "[Vương quốc phía Bắc](../N/North_Kingdom.md)" đến "[Gondor](../G/Gondor.md)" ám chỉ một chuyến du ngoạn nhanh chóng. Tolkien nêu rõ rằng ông sẽ đi vắng từ ngày 7 tháng 8 đến ngày 14 tháng 8, dành thời gian đó ở <a class="extiw" href="http://en.wikipedia.org/wiki/Assisi" title="wikipedia:Assisi">Assisi</a>.
+Trong bức thư ngắn gọn này, Tolkien thông báo cho [Rayner Unwin](../R/Rayner_Unwin.md) về kế hoạch du lịch sắp tới của mình. Ông đề cập rằng ông sẽ lên đường thực hiện một chuyến du lịch, ám chỉ nó một cách ẩn dụ là một cuộc hành trình từ "[Vương quốc phương Bắc](../N/North_Kingdom.md)" đến "[Gondor](../G/Gondor.md)" ám chỉ một chuyến du ngoạn nhanh chóng. Tolkien nêu rõ rằng ông sẽ đi vắng từ ngày 7 tháng 8 đến ngày 14 tháng 8, dành thời gian đó ở <a class="extiw" href="http://en.wikipedia.org/wiki/Assisi" title="wikipedia:Assisi">Assisi</a>.
 
 Ông trấn an Unwin rằng ông hy vọng sẽ trở về nhà trước ngày 16 tháng 8 và không lường trước được bất kỳ vấn đề khẩn cấp nào phát sinh trong thời gian ông vắng mặt cần phải liên lạc ngay lập tức. <br>
 

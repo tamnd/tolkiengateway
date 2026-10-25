@@ -36,7 +36,7 @@ infobox:
 
 Tolkien đã nhận được séc tiền bản quyền do Furth gửi vào ngày 8 tháng 2 cho *[The Hobbit](../T/The_Hobbit.md)* và ông đã cảm ơn ông vì điều đó, gọi đó là liều thuốc bổ vì ông bị cúm. Tolkien nói rằng ông sẽ đánh máy nội dung (*[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*) của mình và gửi cho ông. Ông dự định sẽ nỗ lực đặc biệt để hoàn thành nó trước ngày 15 tháng 6 vì Furth đã nói rằng họ cần câu chuyện mới không muộn hơn thời điểm đó để xuất bản nó vào dịp Giáng sinh.
 
-Tolkien hỏi liệu phiên bản mở rộng của *[Farmer Giles of Ham](../F/Farmer_Giles_of_Ham.md)* có đáp ứng được bất kỳ sự chấp thuận nào không. Ông hỏi liệu có muốn thêm hai câu chuyện hay bất kỳ câu chuyện nào nữa về [Vương quốc nhỏ](Little_Kingdom.md) không, đồng thời đề cập đến một số nhân vật và cuộc chiến giành phần tiếp theo của câu chuyện.
+Tolkien hỏi liệu phiên bản mở rộng của *[Farmer Giles of Ham](../F/Farmer_Giles_of_Ham.md)* có đáp ứng được bất kỳ sự chấp thuận nào không. Ông hỏi liệu có muốn thêm hai câu chuyện hay bất kỳ câu chuyện nào nữa về [Tiểu Vương quốc](Little_Kingdom.md) không, đồng thời đề cập đến một số nhân vật và cuộc chiến giành phần tiếp theo của câu chuyện.
 
 <br>
 

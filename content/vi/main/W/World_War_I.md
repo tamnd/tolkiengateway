@@ -29,7 +29,7 @@ images:
 <p class="tg-quote-footer"><cite><a href="../G/Geoffrey_Bache_Smith.md" title="Geoffrey Bache Smith">Geoffrey Bache Smith</a>, <i><a href="../A/A_Spring_Harvest.md" title="A Spring Harvest">A Spring Harvest</a></i></cite></p>
 </blockquote><div class="tg-section-divider"></div></div></center>
 
-[J.R.R. Tolkien](../J/J.R.R._Tolkien.md) phục vụ trong Quân đội Anh trong **Chiến tranh thế giới thứ nhất** (hay "**Đại chiến**"), nổi bật nhất là trong [Trận chiến Somme](../B/Battle_of_the_Somme.md) đẫm máu. Những tác phẩm đầu tiên của [huyền thoại](../L/Legendarium.md)—được sưu tầm trong *[The Book of Lost Tales Part Two](../T/The_Book_of_Lost_Tales_Part_Two.md)*—được bắt đầu trong cuộc xung đột. Mức độ mà cuộc chiến và trải nghiệm của Tolkien về nó được phản ánh trong tác phẩm viết của ông là vấn đề được nhiều học giả Tolkien quan tâm.
+[J.R.R. Tolkien](../J/J.R.R._Tolkien.md) phục vụ trong Quân đội Anh trong **Chiến tranh thế giới thứ nhất** (hay "**Đại chiến**"), nổi bật nhất là trong [Trận Somme](../B/Battle_of_the_Somme.md) đẫm máu. Những tác phẩm đầu tiên của [huyền thoại](../L/Legendarium.md)—được sưu tầm trong *[The Book of Lost Tales Part Two](../T/The_Book_of_Lost_Tales_Part_Two.md)*—được bắt đầu trong cuộc xung đột. Mức độ mà cuộc chiến và trải nghiệm của Tolkien về nó được phản ánh trong tác phẩm viết của ông là vấn đề được nhiều học giả Tolkien quan tâm.
 
 ## Người tham gia {#Participants}
 

@@ -69,7 +69,7 @@ Các hướng dẫn đi kèm với các lá bài tarot cũng chứa một bộ q
 - V - *The Hierophant*: [Saruman](../S/Saruman.md) và [Palantír](../O/Orthanc-stone.md) (DF)
 - VI - *The Lovers*: [Aragorn](../A/Aragorn.md) và [Arwen](../A/Arwen.md) (FP)
 - VII - *The Chariot*: [Théoden](Théoden.md) trong trận chiến (FP)
-- VIII - *Strength*: [Số Cây Trắng của Gondor](../W/White_Tree_of_Gondor.md) (FP)
+- VIII - *Strength*: [Số Cây Trắng Gondor](../W/White_Tree_of_Gondor.md) (FP)
 - IX - *The Hermit*: [Tom Bombadil](Tom_Bombadil.md) (FP)
 - X - *Wheel of Fortune*: [Chiếc nhẫn duy nhất](The_One_Ring.md) (HOẶC)
 - XI - *Justice*: [Những kẻ phá lời thề Dunharrow](../O/Oathbreakers.md) (FP)

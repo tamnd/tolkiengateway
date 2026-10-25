@@ -17,7 +17,7 @@ images:
 **Egnor** có thể đề cập đến:
 
 - *Egnor bo-Rimion*, tên ban đầu của **[Barahir](../B/Barahir.md)**, cha của [Beren](../B/Beren.md).
-- *Egnor*, tên ban đầu của **[Aegnor](../A/Aegnor.md)**, một [Tiên](Elves.md) của [Ngày của Người cao tuổi](Elder_Days.md).
+- *Egnor*, tên ban đầu của **[Aegnor](../A/Aegnor.md)**, một [Tiên](Elves.md) của [Thời Cổ xưa](Elder_Days.md).
 
 <hr style="margin-top:15px;"/>
 

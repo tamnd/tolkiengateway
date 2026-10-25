@@ -20,7 +20,7 @@ images:
 
 - [Nữ hoàng của Gondor](Queen_of_Gondor.md), danh hiệu Nữ hoàng của [Gondor](../G/Gondor.md)
     - Nữ hoàng [Berúthiel](../B/Berúthiel.md), Nữ hoàng nổi tiếng của Gondor
-- [Nữ hoàng của Númenor](Queen_of_Númenor.md), danh hiệu vợ/chồng của bất kỳ [Vua nào của Númenor](../K/King_of_Númenor.md).
+- [Nữ hoàng Númenor](Queen_of_Númenor.md), danh hiệu vợ/chồng của bất kỳ [Vua nào của Númenor](../K/King_of_Númenor.md).
     - [Nữ hoàng cai trị Númenor](../R/Ruling_Queen_of_Númenor.md), một trong ba nữ hoàng cai trị Númenor với tư cách là một Vua.
 
 - Nữ hoàng của Valar (Q. *Valatári*), một trong bảy [Valier](../V/Valier.md).

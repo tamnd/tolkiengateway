@@ -248,11 +248,11 @@ Dưới đây là danh sách các câu đố từ tính năng "X-Ray" của Amaz
 - **Cảnh 15** - "Người Lùn thấp hơn Tiên tộc và đàn ông, nhưng họ cứng rắn, lực lưỡng, chăm chỉ và nổi tiếng là yêu thích đá, đá quý và mọi thứ được tạo ra bằng thủ công. (Phụ lục F)"
 - **Cảnh 17** - "Bất chấp (hoặc có lẽ vì) những khó khăn của cuộc sống lưu động và những thách thức trong việc tìm kiếm bữa ăn tiếp theo, những con lai có một tình yêu sâu sắc với đồ ăn và chắc chắn là có sở thích phiêu lưu mạo hiểm. Họ sẽ ăn sáu bữa một ngày nếu có thể. (Liên quan đến Hobbit)"
 - **Cảnh 22** - " [Đại Hải](../G/Great_Sea.md), hay [Biển phân chia](../S/Sundering_Seas.md), chia cắt [Vùng Đất Bất Tử](../U/Undying_Lands.md) khỏi Trung Địa - nơi vẫn còn [những thứ không tên](../N/Nameless_things.md) ở những nơi sâu nhất trên thế giới. (Quyển III, Chương 5)"
-- **Cảnh 25** - "Tiên tộc và Người Lùn có truyền thống bất bình với nhau; mối hận thù của người lùn đối với Tiên tộc vẫn còn đọng lại ngay cả từ [Ngày của Người cao tuổi](../E/Elder_Days.md). (Phụ lục F)"
+- **Cảnh 25** - "Tiên tộc và Người Lùn có truyền thống bất bình với nhau; mối hận thù của người lùn đối với Tiên tộc vẫn còn đọng lại ngay cả từ [Thời Cổ xưa](../E/Elder_Days.md). (Phụ lục F)"
 - **Cảnh 28** - "Giống như tất cả [Khazad-dum](../K/Khazad-dum.md), <a class="mw-redirect mw-disambig" href="../D/Durin.md" title="Durin">ngôi nhà của Durin</a>được tạc thẳng từ đá núi, được chôn sâu bên trong, được nâng đỡ bởi những cột đá. Vàng và đá quý được sử dụng một cách hào phóng, vì ở đây không thiếu của cải, và những chiếc đèn lồng lộng lẫy xua tan bóng tối. (Quyển II, Chương 4)"
 - **Cảnh 29** - "Các Người Trung Địa có thể biết sợ hãi và nghi ngờ Tiên tộc, nhưng họ thường biết rất ít về chúng. (Quyển IV, Chương 5)"
 - **Cảnh 32** - "[Bộ giáp của Arondir](Arondir.md) là điển hình cho lực lượng đồn trú [Silvan Tiên tộc](../S/Silvan_elves~11061.md) của ông, chứa đầy ảnh hưởng tự nhiên từ nhiều tình yêu của họ. Chiếc nhẫn trên ngón tay cái của ông có dòng chữ: "May Your Arrows Sing" trong [Sindarin](../S/Sindarin.md)."
-- **Cảnh 34** - "Có nhiều loại Orc với kích cỡ khác nhau, phù hợp nhất cho các mục đích cụ thể. Chúng được lai tạo lần đầu bởi [Quyền lực bóng tối phương Bắc](../D/Dark_Power_of_the_North.md) vào [Ngày của Người cao tuổi](../E/Elder_Days.md). (Phụ lục F)"
+- **Cảnh 34** - "Có nhiều loại Orc với kích cỡ khác nhau, phù hợp nhất cho các mục đích cụ thể. Chúng được lai tạo lần đầu bởi [Quyền lực bóng tối phương Bắc](../D/Dark_Power_of_the_North.md) vào [Thời Cổ xưa](../E/Elder_Days.md). (Phụ lục F)"
 - **Cảnh 36** - "Mặc dù cơ thể bất tử và khỏe mạnh, Tiên tộc vẫn có thể chết do chấn thương và các nguyên nhân bất thường - bao gồm cả đuối nước."
 - **Cảnh 38** - "Các ngôi sao được Tiên tộc đặc biệt yêu quý, những người tôn kính [Vala](../V/Vala.md) <a class="mw-redirect mw-disambig" href="../E/Elbereth.md" title="Elbereth">Elbereth</a> (còn được gọi là [Varda](../V/Varda.md)), nhưng tất cả các nền văn hóa của Trung Địa đều gán các chòm sao cho bầu trời phía trên. (Quyển II, Chương 8)"
 
@@ -260,7 +260,7 @@ Dưới đây là danh sách các câu đố từ tính năng "X-Ray" của Amaz
 
 ## Những sai lệch so với Tài liệu Nguồn {#Deviations_from_the_Source_Material}
 
-Galadriel gặp một chiếc bè có người ở gần khu vực cô nhảy khỏi tàu. Họ nói rằng họ là những người sống sót sau một vụ đắm tàu ​​và có lẽ đang cố gắng đi tới Valinor. Con người bị Valar cấm đi thuyền đến Valinor và thường biến mất hoặc bị xử tử nếu họ cố gắng đến đó. Tuy nhiên, Galadriel dường như không biết về điều này và chỉ nghĩ rằng việc gặp phải con người ở Biển Sundering là điều bình thường.
+Galadriel gặp một chiếc bè có người ở gần khu vực cô nhảy khỏi tàu. Họ nói rằng họ là những người sống sót sau một vụ đắm tàu ​​và có lẽ đang cố gắng đi tới Valinor. Con người bị Valar cấm đi thuyền đến Valinor và thường biến mất hoặc bị xử tử nếu họ cố gắng đến đó. Tuy nhiên, Galadriel dường như không biết về điều này và chỉ nghĩ rằng việc gặp phải con người ở Biển Phân Chia là điều bình thường.
 
 Cô gặp một người lạ tên Halbrand, người này nói rằng ông là người cai trị một khu vực được gọi là "The Southlands". Vùng này trong chuỗi nằm trong cùng khu vực với vùng sẽ được gọi là [Mordor](../M/Mordor.md). Tuy nhiên, trong tài liệu nguồn, các bài viết sau này của Tolkien có nêu rằng Mordor đã là một vùng đất hoang hoang vắng được ghi nhận là nơi có hoạt động núi lửa trước Kỷ Đệ Nhị và có thể đã được gọi là Mordor có nghĩa là "vùng đất đen" vì lý do đó.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 

@@ -35,4 +35,4 @@ infobox:
 
 ## Tóm tắt {#Synopsis}
 
-[Éowyn](../_/Éowyn.md) và [Faramir](../F/Faramir.md) gặp nhau tại [House of Healing](../H/Houses_of_Healing.md) ở [Minas Tirith](../M/Minas_Tirith.md) sau khi [Quân đội Phương Tây](../A/Army_of_the_West.md) rời khỏi thành phố. Éowyn nói rằng "Thành phố đã chìm trong im lặng. Nắng không còn hơi ấm. Trời trở nên lạnh lẽo quá." Faramir an ủi cô rằng "Đó chỉ là hơi ẩm của cơn mưa xuân đầu mùa thôi", nói với cô rằng anh không tin bóng tối sẽ tồn tại. Faramir nắm lấy tay Éowyn và cô tựa đầu vào vai anh và họ nhìn ra [cánh đồng Pelennor](../P/Pelennor_Fields.md).
+[Éowyn](../_/Éowyn.md) và [Faramir](../F/Faramir.md) gặp nhau tại [House of Healing](../H/Houses_of_Healing.md) ở [Minas Tirith](../M/Minas_Tirith.md) sau khi [Đội quân Phương Tây](../A/Army_of_the_West.md) rời khỏi thành phố. Éowyn nói rằng "Thành phố đã chìm trong im lặng. Nắng không còn hơi ấm. Trời trở nên lạnh lẽo quá." Faramir an ủi cô rằng "Đó chỉ là hơi ẩm của cơn mưa xuân đầu mùa thôi", nói với cô rằng anh không tin bóng tối sẽ tồn tại. Faramir nắm lấy tay Éowyn và cô tựa đầu vào vai anh và họ nhìn ra [cánh đồng Pelennor](../P/Pelennor_Fields.md).

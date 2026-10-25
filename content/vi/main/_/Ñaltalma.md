@@ -45,7 +45,7 @@ Tên [Sindarin](../S/Sindarin.md) của nó là <i><b>glathralvas</b></i> ("th�
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Điều này dường như gợi ý rằng cả Noldor và Sindar có thể đã áp dụng nó từ một thời điểm sớm hơn <a href="../F/Fëanor.md" title="Fëanor">Fëanor</a>; ví dụ. mới nhất trong <a class="mw-redirect" href="../G/Great_March.md" title="Great March">Tháng ba vĩ đại</a>.</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Điều này dường như gợi ý rằng cả Noldor và Sindar có thể đã áp dụng nó từ một thời điểm sớm hơn <a href="../F/Fëanor.md" title="Fëanor">Fëanor</a>; ví dụ. mới nhất trong <a class="mw-redirect" href="../G/Great_March.md" title="Great March">Cuộc Đại Hành Trình</a>.</span>
 </li>
 </ol></div></span>
 

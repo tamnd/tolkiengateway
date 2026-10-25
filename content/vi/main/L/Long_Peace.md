@@ -23,7 +23,7 @@ images:
 
 **Thời kỳ Hòa bình Dài lâu** là một thuật ngữ đề cập đến nền hòa bình kéo dài ở [Beleriand](../B/Beleriand.md) trong [Kỷ Đệ Nhất](../F/First_Age.md) sau này trong đó [Morgoth](../M/Morgoth.md) không cố gắng phá vỡ [Cuộc vây hãm Angband](../S/Siege_of_Angband.md). Nó bắt đầu bằng cuộc xuất kích thất bại [Glaurung](../G/Glaurung.md)<sup id="cite_ref-Return_1-0" class="reference"><a href="#cite_note-Return-1">[1]</a></sup> vào [năm](../C/Coranar.md) [260](../F/First_Age_260.md)<sup id="cite_ref-GA260_2-0" class="reference"><a href="#cite_note-GA260-2">[2]</a></sup> và kết thúc bằng cuộc xuất kích [Dagor Bragollach](../D/Dagor_Bragollach.md)<sup id="cite_ref-Fingolfin_3-0" class="reference"><a href="#cite_note-Fingolfin-3">[3]</a></sup> vào [455](../F/First_Age_455.md)<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> 195 năm sau.
 
-Trong thời kỳ này [Tiên tộc của Beleriand](../E/Elves_of_Beleriand.md) thịnh vượng, chỉ có những xung đột nhỏ với [Orc](../O/Orcs.md). Cũng trong Thời kỳ Hòa bình Dài lâu, [Edain](../E/Edain.md) đã đi vào [Beleriand](../B/Beleriand.md) từ [phía đông](../E/Eriador.md).
+Trong thời kỳ này [Tiên tộc Beleriand](../E/Elves_of_Beleriand.md) thịnh vượng, chỉ có những xung đột nhỏ với [Orc](../O/Orcs.md). Cũng trong Thời kỳ Hòa bình Dài lâu, [Edain](../E/Edain.md) đã đi vào [Beleriand](../B/Beleriand.md) từ [phía đông](../E/Eriador.md).
 
 ## Lịch sử {#History}
 

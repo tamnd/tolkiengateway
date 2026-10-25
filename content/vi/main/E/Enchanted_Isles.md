@@ -65,7 +65,7 @@ Quần đảo Phép thuật được nhắc đến trong tác phẩm *[Roverando
 
 - [Biển Shadowy](../S/Shadowy_Seas.md)
 - [Sindanórië](../S/Sindanórië.md)
-- [Quần đảo Twilit](../T/Twilit_Isles.md)
+- [Quần đảo Chạng vạng](../T/Twilit_Isles.md)
 
 <span></span>
 

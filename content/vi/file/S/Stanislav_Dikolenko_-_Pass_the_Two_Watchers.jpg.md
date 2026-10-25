@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"Vượt qua [Hai người canh gác](../../main/T/Two_Watchers.md)" - *[The Lord of the Rings: The Card Game](../../main/T/The_Lord_of_the_Rings%253A_The_Card_Game.md)*: *The Mountain of Fire* minh họa của Stanislav Dikolenko
+"Vượt qua [Hai Kẻ Canh Gác](../../main/T/Two_Watchers.md)" - *[The Lord of the Rings: The Card Game](../../main/T/The_Lord_of_the_Rings%253A_The_Card_Game.md)*: *The Mountain of Fire* minh họa của Stanislav Dikolenko
 
 ## Giấy phép {#Licensing}
 

@@ -21,7 +21,7 @@ images:
 - **[Balrog](Balrogs.md), những sinh vật tà ác của lửa và bóng tối.**
     - [Balrog/Wings](Balrogs%252FWings.md), cuộc tranh luận về việc liệu balrog có cánh hay không.
 - [Tai họa của Durin](../D/Durin's_Bane.md), balrog của [Moria](../M/Moria.md) bị giết bởi [Gandalf](../G/Gandalf.md).
-- [Gothmog (balrog)](<../G/Gothmog_(balrog).md>), Chúa tể của Balrog đã bị giết bởi [Ecthelion](../E/Ecthelion.md) vào [Gondolin](../G/Gondolin.md).
+- [Gothmog (balrog)](<../G/Gothmog_(balrog).md>), Chúa tể Balrog đã bị giết bởi [Ecthelion](../E/Ecthelion.md) vào [Gondolin](../G/Gondolin.md).
 
 ## Trò chơi bài {#Card_games}
 

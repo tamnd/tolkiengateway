@@ -36,7 +36,7 @@ infobox:
 ## Xem thêm {#See_also}
 
 - [Grof](../G/Grof.md)
-- [Thuyền trưởng Brackenbrook](../C/Captain_Brackenbrook.md)
+- [Đại úy Brackenbrook](../C/Captain_Brackenbrook.md)
 
 <span></span>
 

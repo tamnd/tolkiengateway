@@ -40,7 +40,7 @@ infobox:
 <p class="tg-quote-footer"><cite><i><a href="../Q/Quenta_Silmarillion.md" title="Quenta Silmarillion">Quenta Silmarillion</a></i>, &#34;<a href="../O/Of_the_Ruin_of_Beleriand_and_the_Fall_of_Fingolfin.md" title="Of the Ruin of Beleriand and the Fall of Fingolfin">Of the Ruin of Beleriand and the Fall of Fingolfin</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Sự sụp đổ của Fingolfin** là cái tên được đặt cho sự kết thúc cao quý nhưng vô vọng của [Fingolfin](Fingolfin.md), [Đại Vương của Noldor](../H/High_King_of_the_Noldor.md), dưới bàn tay của [Morgoth](../M/Morgoth.md).
+**Sự sụp đổ của Fingolfin** là cái tên được đặt cho sự kết thúc cao quý nhưng vô vọng của [Fingolfin](Fingolfin.md), [Đại Vương Noldor](../H/High_King_of_the_Noldor.md), dưới bàn tay của [Morgoth](../M/Morgoth.md).
 
 Sau khi [Dagor Bragollach](../D/Dagor_Bragollach.md) bị phá hủy, Fingolfin cưỡi ngựa [Rochallor](../R/Rochallor.md) băng qua [Dor-nu-Fauglith](../D/Dor-nu-Fauglith.md), và những người nhìn thấy ông đi qua đã bắt ông vì [Oromë](../O/Oromë.md), cơn thịnh nộ của ông quá lớn. Ông giận dữ cưỡi ngựa đến cổng [Angband](../A/Angband.md), nơi ông bấm còi, đập vào những cánh cửa lớn và thách thức Morgoth chiến đấu đơn lẻ.
 

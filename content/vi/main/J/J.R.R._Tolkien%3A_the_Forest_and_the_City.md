@@ -63,7 +63,7 @@ infobox:
 - "'Sự thiêng liêng và cổ kính bao la': Việc Tolkien sử dụng các câu đố trong *The Hobbit*" của Erin Sebo
 - "Ít tiếng ồn hơn, xanh hơn: Chủ nghĩa duy vật văn hóa và diễn ngôn ngược của thiên nhiên hoang dã trong *The Hobbit* của Tolkien" của Ian Kinane
 - "Tolkien và Thiên đường trần gian của Dante: Hòa nhập thiên nhiên" của [Alison Milbank](../A/Alison_Milbank.md)
-- "Cây đảng và cội nguồn của nó trong cuộc nội chiến Tây Ban Nha" của Meg Black
+- "Cây Hội Tiệc và cội nguồn của nó trong cuộc nội chiến Tây Ban Nha" của Meg Black
 - "Tòa tháp và tàn tích: Quá khứ trong tác phẩm của J.R.R. Tolkien" của [Michael D.C. Drout](../M/Michael_D.C._Drout.md)
 
 <span></span>

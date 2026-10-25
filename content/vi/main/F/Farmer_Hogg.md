@@ -37,7 +37,7 @@ infobox:
 
 **Nông dân Hogg** là một cư dân già [Hobbit](../H/Hobbits.md) của thị trấn [Delving](../D/Delving.md), người đã xuất hiện trong *[Perry-the-Winkle](../P/Perry-the-Winkle.md)*, một bài đồng dao<sup id="cite_ref-collectedpoems_2-0" class="reference"><a href="#cite_note-collectedpoems-2">[2]</a></sup> của [Samwise Gamgee](../S/Samwise_Gamgee.md)<sup id="cite_ref-preface_3-0" class="reference"><a href="#cite_note-preface-3">[3]</a></sup>.<sup id="cite_ref-Perry_1-4" class="reference"><a href="#cite_note-Perry-1">[1]</a></sup>
 
-Trong bài thơ, Người nông dân Hogg đã làm đổ bia của mình khi nhìn thấy [Quỷ cô đơn](../L/Lonely_Troll.md) nhìn trộm các quầy hàng trong chợ.<sup id="cite_ref-Perry_1-5" class="reference"><a href="#cite_note-Perry-1">[1]</a></sup>
+Trong bài thơ, Người nông dân Hogg đã làm đổ bia của mình khi nhìn thấy [Troll Cô Độc](../L/Lonely_Troll.md) nhìn trộm các quầy hàng trong chợ.<sup id="cite_ref-Perry_1-5" class="reference"><a href="#cite_note-Perry-1">[1]</a></sup>
 
 Sau đó, Nông dân Hogg nằm trong số những [Shire hobbit](../S/Shire-hobbits.md) đã đến <a class="new" href="https://tolkiengateway.net/w/index.php?title=Faraway&amp;action=edit&amp;redlink=1" title="Faraway (page does not exist)">Faraway</a> để yêu cầu thức ăn từ Lonely Troll. Nông dân Hogg nằm trong số bốn Hobbit người mà lũ Troll không bao giờ muốn gặp lại.<sup id="cite_ref-Perry_1-6" class="reference"><a href="#cite_note-Perry-1">[1]</a></sup>
 

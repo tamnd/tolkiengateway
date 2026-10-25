@@ -46,7 +46,7 @@ infobox:
 <p class="tg-quote-footer"><cite><a href="../V/Vëannë.md" title="Vëannë">Vëannë</a> to <a href="../E/Eriol.md" title="Eriol">Eriol</a> in <i><a class="mw-redirect" href="The_Book_of_Lost_Tales_Part_Two.md" title="The Book of Lost Tales Part Two">The Book of Lost Tales Part Two</a></i>, &#34;<a href="The_Tale_of_Tinúviel.md" title="The Tale of Tinúviel">The Tale of Tinúviel</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div></center>
 
-**Tevildo**, còn được gọi là **"Thân vương của Mèo"**, được cho là loài mạnh nhất trong số [mèo](../C/Cats.md) *"và sở hữu một [sprite](../S/Sprites.md) độc ác, như một số người nói*,"<sup id="cite_ref-LT2I_2-0" class="reference"><a href="#cite_note-LT2I-2">[2]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:15–16</sup> theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) ở *[The Book of Lost Tales](The_Book_of_Lost_Tales.md)*.
+**Tevildo**, còn được gọi là **"Thân vương loài Mèo"**, được cho là loài mạnh nhất trong số [mèo](../C/Cats.md) *"và sở hữu một [sprite](../S/Sprites.md) độc ác, như một số người nói*,"<sup id="cite_ref-LT2I_2-0" class="reference"><a href="#cite_note-LT2I-2">[2]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:15–16</sup> theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) ở *[The Book of Lost Tales](The_Book_of_Lost_Tales.md)*.
 
 ## Lịch sử {#History}
 
@@ -72,11 +72,11 @@ Khi họ bắt gặp Huan có vẻ như bị thương trong [Héo Dale](../W/Wit
 
 ## Tên khác {#Other_names}
 
-Tên [Gnomish](../G/Gnomish.md) của ông là <i><b>Tifil</b></i>.<sup id="cite_ref-Names_3-1" class="reference"><a href="#cite_note-Names-3">[3]</a></sup> Tên Gnomish này sau đó được đổi thành <i><b>Tiberth</b></i>; và ông đã được trao các danh hiệu *Vardo Meoita* trong Qenya và *Bridhon Miaugion* trong Gnomish, cả hai đều có nghĩa là "Thân vương của Mèo".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Tên [Gnomish](../G/Gnomish.md) của ông là <i><b>Tifil</b></i>.<sup id="cite_ref-Names_3-1" class="reference"><a href="#cite_note-Names-3">[3]</a></sup> Tên Gnomish này sau đó được đổi thành <i><b>Tiberth</b></i>; và ông đã được trao các danh hiệu *Vardo Meoita* trong Qenya và *Bridhon Miaugion* trong Gnomish, cả hai đều có nghĩa là "Thân vương loài Mèo".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Khi Tolkien phát triển thần thoại của mình, vị trí của Tevildo trong câu chuyện được thay thế bằng vị trí của Necromancer, [Thû](Thû.md), người lần lượt trở thành [Sauron](../S/Sauron.md) trong [huyền thoại](../L/Legendarium.md) sau này. Thû là "Chúa tể của Người sói", trái ngược với vị trí của Tevildo là "Thân vương của Mèo"; chủ đề mèo đấu chó nổi bật trong "[Truyện về Tinúviel](Tale_of_Tinúviel.md)" do đó đã bị loại bỏ trong các tác phẩm sau này.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Khi Tolkien phát triển thần thoại của mình, vị trí của Tevildo trong câu chuyện được thay thế bằng vị trí của Necromancer, [Thû](Thû.md), người lần lượt trở thành [Sauron](../S/Sauron.md) trong [huyền thoại](../L/Legendarium.md) sau này. Thû là "Chúa tể của Người sói", trái ngược với vị trí của Tevildo là "Thân vương loài Mèo"; chủ đề mèo đấu chó nổi bật trong "[Truyện về Tinúviel](Tale_of_Tinúviel.md)" do đó đã bị loại bỏ trong các tác phẩm sau này.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Cảm hứng {#Inspiration}
 

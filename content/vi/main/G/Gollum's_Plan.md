@@ -53,7 +53,7 @@ Mỉm cười, Gollum bước ra từ cái cây mà ông đang nấp phía sau v
 
 ## Sự khác biệt {#Differences}
 
-Điểm khác biệt lớn hơn giữa phim và sách là kế hoạch của Gollum. Trong cảnh này, Gollum và Sméagol tại thời điểm này cùng nhau đồng ý giết những người Hobbit và lấy lại chiếc Nhẫn cho mình. Tuy nhiên, trong cuốn sách, một đoạn trong chương "[Cầu thang Cirith Ungol](../T/The_Stairs_of_Cirith_Ungol.md)", trong đó Gollum quay lại để tìm Frodo và Sam đang ngủ trong khi họ hành trình lên [cầu thang](../S/Stairs_of_Cirith_Ungol.md), gợi ý rằng Gollum đã suy nghĩ lại về việc dẫn hai hobbit đến [Shelob](../S/Shelob.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> ngay cả ở giai đoạn cuối này.
+Điểm khác biệt lớn hơn giữa phim và sách là kế hoạch của Gollum. Trong cảnh này, Gollum và Sméagol tại thời điểm này cùng nhau đồng ý giết những người Hobbit và lấy lại chiếc Nhẫn cho mình. Tuy nhiên, trong cuốn sách, một đoạn trong chương "[Bậc thang Cirith Ungol](../T/The_Stairs_of_Cirith_Ungol.md)", trong đó Gollum quay lại để tìm Frodo và Sam đang ngủ trong khi họ hành trình lên [cầu thang](../S/Stairs_of_Cirith_Ungol.md), gợi ý rằng Gollum đã suy nghĩ lại về việc dẫn hai hobbit đến [Shelob](../S/Shelob.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> ngay cả ở giai đoạn cuối này.
 
 <span></span>
 

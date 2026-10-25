@@ -20,12 +20,12 @@ images:
 
 **Vua** có thể tham khảo:
 
-- [Trưởng lão Vua](../E/Elder_King.md)
+- [Vị Vua Cổ Xưa](../E/Elder_King.md)
 - [Vua Tiên](../E/Elvenking.md)
 - [Đại Vương (Dúnedain)](<../H/High_King_(Dúnedain).md>)
 - [Đại Vương trong số Arda](../H/High_King_of_Arda.md)
 - [Đại Vương của Tiên tộc](../H/High_King_of_the_Elves.md)
-- [Đại Vương của Noldor](../H/High_King_of_the_Noldor.md)
+- [Đại Vương Noldor](../H/High_King_of_the_Noldor.md)
 - [Vua của tất cả các loài chim](King_of_All_Birds.md)
 - [Vua trong số Arda](King_of_Arda.md)
 - [Vua trong số Arnor](King_of_Arnor.md)
@@ -33,7 +33,7 @@ images:
 - [Vua trong số Cardolan](King_of_Cardolan.md)
 - [Vua trong số Dale](King_of_Dale.md)
 - [Vua của Doriath](King_of_Doriath.md)
-- [Vua của Dân tộc Durin](King_of_Durin's_Folk~7047.md)
+- [Vua của dân Durin](King_of_Durin's_Folk~7047.md)
 - [Vua trong số Đại Bàng](King_of_Eagles.md)
 - [Vua trong số Gondolin](King_of_Gondolin.md)
 - [Vua Gondor](King_of_Gondor.md)
@@ -51,7 +51,7 @@ Công ty của     - [Vua](King's_Company.md)
 - [Vua của Người chết](King_of_the_Dead.md)
 - [Vua của Nhãn hiệu](King_of_the_Mark.md)
 - [Vua của người Noldor](King_of_the_Noldor.md)
-- <a class="new" href="https://tolkiengateway.net/w/index.php?title=King_of_the_Silvan_Elves&amp;action=edit&amp;redlink=1" title="King of the Silvan Elves (page does not exist)">Vua của Silvan Tiên tộc</a>
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=King_of_the_Silvan_Elves&amp;action=edit&amp;redlink=1" title="King of the Silvan Elves (page does not exist)">Vua của Tiên tộc Silvan</a>
 - [Vua phương Tây](King_of_the_West.md)
 - [Vua của Thế giới](King_of_the_World.md)
 Người thừa kế của - [Vua](King's_Heir.md)

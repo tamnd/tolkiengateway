@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Two Watchers"
 ---
 
-Chuyển hướng tới [Hai người theo dõi](../T/Two_Watchers.md).
+Chuyển hướng tới [Hai Kẻ Canh Gác](../T/Two_Watchers.md).

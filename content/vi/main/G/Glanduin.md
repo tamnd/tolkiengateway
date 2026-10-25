@@ -56,7 +56,7 @@ Trong một chú thích gửi [Pauline Baynes](../P/Pauline_Baynes.md), [J.R.R. 
 
 ## Các phiên bản khác của truyền thuyết huyền thoại {#Other_versions_of_the_legendarium}
 
-Sau khi *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* được xuất bản, [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã đề cập trong một bài tiểu luận về tên các dòng sông rằng Glanduin là một phần của biên giới phía nam của Vương quốc phía Bắc [Arnor](../A/Arnor.md).<sup id="cite_ref-AppendixD_2-5" class="reference"><a href="#cite_note-AppendixD-2">[2]</a></sup> Điều này mâu thuẫn với lời khẳng định trong Phụ lục A của *The Lord of the Rings*, theo đó Arnor không bao gồm những vùng đất nằm về phía đông của Greyflood và Loudwater, nơi Rivendell và Eregion (Hollin) tọa lạc.<sup id="cite_ref-Eriador_1-1" class="reference"><a href="#cite_note-Eriador-1">[1]</a></sup>
+Sau khi *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* được xuất bản, [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã đề cập trong một bài tiểu luận về tên các dòng sông rằng Glanduin là một phần của biên giới phía nam của Vương quốc phương Bắc [Arnor](../A/Arnor.md).<sup id="cite_ref-AppendixD_2-5" class="reference"><a href="#cite_note-AppendixD-2">[2]</a></sup> Điều này mâu thuẫn với lời khẳng định trong Phụ lục A của *The Lord of the Rings*, theo đó Arnor không bao gồm những vùng đất nằm về phía đông của Greyflood và Loudwater, nơi Rivendell và Eregion (Hollin) tọa lạc.<sup id="cite_ref-Eriador_1-1" class="reference"><a href="#cite_note-Eriador-1">[1]</a></sup>
 
 ## Khắc họa trong các tác phẩm chuyển thể {#Portrayals_in_adaptations}
 

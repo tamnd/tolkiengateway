@@ -75,7 +75,7 @@ langlinks:
 - [1923](../../main/_/1923.md): *[Times Literary Supplement](../../main/T/Times_Literary_Supplement.md)*. Luân Đôn, ngày 26 tháng 4 năm 1923. Chứa đựng **[Thánh nữ](../../main/H/Holy_Maidenhood.md)**.
 - [1923](../../main/_/1923.md): *[Yorkshire Poetry](../../main/Y/Yorkshire_Poetry.md)*. Bao gồm **[The cat and the fiddle: A nursery-rhyme undone and its scandalous secret unlocked](../../main/T/The_Man_in_the_Moon_Stayed_Up_Too_Late.md)**.
 
-- [1924](../../main/_/1924.md): *[Leeds University Verse 1914-24](../../main/L/Leeds_University_Verse_1914-24.md)*. Bao gồm các bài thơ **[Một buổi tối ở Tavrobel](../../main/A/An_Evening_in_Tavrobel.md)**, **[Đảo cô đơn](../../main/T/The_Lonely_Isle.md)** và **[Công chúa Ní](../../main/T/The_Princess_Ní.md)**.
+- [1924](../../main/_/1924.md): *[Leeds University Verse 1914-24](../../main/L/Leeds_University_Verse_1914-24.md)*. Bao gồm các bài thơ **[Một buổi tối ở Tavrobel](../../main/A/An_Evening_in_Tavrobel.md)**, **[Hòn đảo Cô Độc](../../main/T/The_Lonely_Isle.md)** và **[Công chúa Ní](../../main/T/The_Princess_Ní.md)**.
 - [1924](../../main/_/1924.md): *[The Year's Work in English Studies 1923](../../main/T/The_Year's_Work_in_English_Studies_1923.md)*. Ed. Lee & Boas. Hiệp hội tiếng Anh. Oxford Nhà xuất bản Đại học. Ôn tập - Ngữ văn.
 
 - [1925](../../main/_/1925.md): *The Gryphon*, Quyển. 6 Số 6. Chứa **[Ánh sáng như chiếc lá trên Lindentree](../../main/L/Light_as_Leaf_on_Lindentree.md)**.

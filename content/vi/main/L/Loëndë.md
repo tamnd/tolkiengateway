@@ -29,7 +29,7 @@ images:
 
 ## Sử dụng trong các lịch khác nhau {#Uses_in_different_calendars}
 
-Vì Ngày giữa năm trong [Lịch Shire](../S/Shire_Calendar.md) được dự định tương ứng với <a class="extiw" href="http://en.wikipedia.org/wiki/Solstice" title="wikipedia:Solstice">hạ chí</a>, nên điều này cũng sẽ áp dụng cho *loëndë* trong lịch [Tính toán của các vị vua](../K/Kings'_Reckoning.md) và [Tính toán của quản gia](../S/Stewards'_Reckoning.md) của [Gondor](../G/Gondor.md). Lịch Númenórean, cứ bốn năm một lần, trừ cuối thế kỷ, loëndë được thay thế bằng hai *[Enderi](../E/Enderi.md)*<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Vì Ngày giữa năm trong [Lịch Shire](../S/Shire_Calendar.md) được dự định tương ứng với <a class="extiw" href="http://en.wikipedia.org/wiki/Solstice" title="wikipedia:Solstice">hạ chí</a>, nên điều này cũng sẽ áp dụng cho *loëndë* trong lịch [Lịch Tính của các Vua](../K/Kings'_Reckoning.md) và [Tính toán của quản gia](../S/Stewards'_Reckoning.md) của [Gondor](../G/Gondor.md). Lịch Númenórean, cứ bốn năm một lần, trừ cuối thế kỷ, loëndë được thay thế bằng hai *[Enderi](../E/Enderi.md)*<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Trong [Tính toán mới](../N/New_Reckoning.md), *loëndë* là phần thứ hai của *Enderi* và tương ứng với [24 tháng Chín](../_/24_September.md) trong Lịch Shire.
 

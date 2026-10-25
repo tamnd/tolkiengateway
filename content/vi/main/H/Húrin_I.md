@@ -69,7 +69,7 @@ infobox:
 
 Húrin trở thành Người quản lý cầm quyền thứ năm sau cái chết của cha anh, Người quản lý [Belegorn](../B/Belegorn.md) ở [T.A.](../T/Third_Age.md) [2204](../T/Third_Age_2204.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
-Quy tắc của Húrin là khoảng thời gian yên tĩnh cho [Gondor](../G/Gondor.md) trong [Hòa bình thận trọng](../W/Watchful_Peace.md),<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> khi [Sauron](../S/Sauron.md) ở trong [phương Đông](../E/East.md) và [Nazgûl](../N/Nazgûl.md) giữ im lặng trong [Minas Morgul](../M/Minas_Morgul.md)<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>.
+Quy tắc của Húrin là khoảng thời gian yên tĩnh cho [Gondor](../G/Gondor.md) trong [Thời kỳ Hòa bình Cảnh giác](../W/Watchful_Peace.md),<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> khi [Sauron](../S/Sauron.md) ở trong [phương Đông](../E/East.md) và [Nazgûl](../N/Nazgûl.md) giữ im lặng trong [Minas Morgul](../M/Minas_Morgul.md)<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>.
 
 Húrin cai trị với tư cách Quản gia trong bốn mươi năm,<sup id="cite_ref-Hurin_3-1" class="reference"><a href="#cite_note-Hurin-3">[3]</a></sup> và được kế vị bởi con trai ông, [Túrin tôi](../T/Túrin_I.md).<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>.
 

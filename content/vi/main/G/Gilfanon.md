@@ -47,7 +47,7 @@ infobox:
 <p class="tg-quote-footer"><cite><i><a class="mw-redirect" href="../T/The_Book_of_Lost_Tales_Part_Two.md" title="The Book of Lost Tales Part Two">The Book of Lost Tales Part Two</a></i>, &#34;<a href="../T/The_Tale_of_the_Sun_and_Moon.md" title="The Tale of the Sun and Moon">The Tale of the Sun and Moon</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Gilfanon a·Davrobel** là một trong những [Tiên tộc](../E/Elves.md) lâu đời nhất trên [Tol Eressëa](../T/Tol_Eressëa.md). Chính ông là người đã kể [Eriol](../E/Eriol.md) câu chuyện về [Mặt Trời](../S/Sun.md) và [Mặt Trăng](../M/Moon.md) trong [Ngôi nhà của Lost Play](../C/Cottage_of_Lost_Play.md).<sup id="cite_ref-Sun_1-0" class="reference"><a href="#cite_note-Sun-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:174 ff</sup>
+**Gilfanon a·Davrobel** là một trong những [Tiên tộc](../E/Elves.md) lâu đời nhất trên [Tol Eressëa](../T/Tol_Eressëa.md). Chính ông là người đã kể [Eriol](../E/Eriol.md) câu chuyện về [Mặt Trời](../S/Sun.md) và [Mặt Trăng](../M/Moon.md) trong [Ngôi nhà Trò chơi Thất lạc](../C/Cottage_of_Lost_Play.md).<sup id="cite_ref-Sun_1-0" class="reference"><a href="#cite_note-Sun-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:174 ff</sup>
 
 Gilfanon sống trong [Ngôi nhà trăm ống khói](../H/House_of_the_Hundred_Chimneys.md) ở [Tavrobel](../T/Tavrobel.md).<sup id="cite_ref-Sun_1-1" class="reference"><a href="#cite_note-Sun-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:175</sup>
 

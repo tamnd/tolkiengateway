@@ -21,7 +21,7 @@ sort_keys:
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 - [Beleriand](../B/Beleriand.md) bị tiêu diệt trong [War of Wrath](../W/War_of_Wrath.md) và [Morgoth](../M/Morgoth.md) bị đánh bại và gần như tất cả [rồng](../D/Dragons.md) và [Balrog](../B/Balrogs.md) đều bị giết.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-Earendil_2-0" class="reference"><a href="#cite_note-Earendil-2">[2]</a></sup>
-- [Ancalagon quân Đen](../A/Ancalagon.md) bị tiêu diệt bởi [Eärendil](../E/Eärendil.md). Cơ thể của Ancalagon từ trên trời rơi xuống và phá hủy [Thangorodrim](../T/Thangorodrim.md).
+- [Ancalagon Đen](../A/Ancalagon.md) bị tiêu diệt bởi [Eärendil](../E/Eärendil.md). Cơ thể của Ancalagon từ trên trời rơi xuống và phá hủy [Thangorodrim](../T/Thangorodrim.md).
 - Phần lớn [Beleriand](../B/Beleriand.md) chìm dưới [biển](../B/Belegaer.md).<sup id="cite_ref-Earendil_2-1" class="reference"><a href="#cite_note-Earendil-2">[2]</a></sup>
 - [Eönwë](../E/Eönwë.md) lấy [Silmaril](../S/Silmarils.md) từ [Morgoth](../M/Morgoth.md). [Vương miện Sắt](../I/Iron_Crown.md) của Morgoth được đập thành vòng cổ quanh cổ và gắn vào [Angainor](../A/Angainor.md).<sup id="cite_ref-Earendil_2-2" class="reference"><a href="#cite_note-Earendil-2">[2]</a></sup>
 - [Maedhros](../M/Maedhros.md) và [Maglor](../M/Maglor.md) ăn cắp Silmaril. Silmaril đốt cháy bàn tay của họ và Maedhros nhảy vào một vực sâu rực lửa với Silmaril của mình trong khi Maglor ném Silmaril của mình xuống biển. Số phận của Maglor vẫn chưa rõ.<sup id="cite_ref-Earendil_2-3" class="reference"><a href="#cite_note-Earendil-2">[2]</a></sup>

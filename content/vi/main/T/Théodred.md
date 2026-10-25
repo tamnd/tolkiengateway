@@ -73,7 +73,7 @@ Théodred được sinh ra bởi Vua [Théoden](Théoden.md) và [Elfhild](../E/
 
 Trong khi [Gríma](../G/Gríma.md) có được nhiều ảnh hưởng hơn đối với Vua, ông coi Théodred và [Éomer](../_/Éomer.md) là đối thủ chính của mình, đồng thời cố gắng làm mất uy tín của hai anh em họ bằng Théoden. Nhưng lòng trung thành của họ vẫn kiên định ngay cả khi anh tỏ ra chán nản; Gríma do đó đã cố gắng chơi họ với nhau trong tâm trí của Théoden, đại diện cho Éomer luôn mong muốn tăng quyền lực của mình, với cái giá phải trả là Théodred.<sup id="cite_ref-:0_1-0" class="reference"><a href="#cite_note-:0-1">[1]</a></sup>
 
-Vào đầu [3019](Third_Age_3019.md), trước sự đe dọa xâm lược của thế lực phù thủy [Saruman](../S/Saruman.md), Théodred đã tự lập tại [Helm's Deep](../H/Helm's_Deep.md) để chỉ huy sức mạnh quân sự của [Westfold](../W/Westfold.md). Khi chiến tranh thực sự bắt đầu, Théodred đã thêm vào Muster của Westfold bằng cách triệu hồi [Muster của Edoras](../M/Muster_of_Edoras.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Vào đầu [3019](Third_Age_3019.md), trước sự đe dọa xâm lược của thế lực phù thủy [Saruman](../S/Saruman.md), Théodred đã tự lập tại [Helm's Deep](../H/Helm's_Deep.md) để chỉ huy sức mạnh quân sự của [Westfold](../W/Westfold.md). Khi chiến tranh thực sự bắt đầu, Théodred đã thêm vào Muster của Westfold bằng cách triệu hồi [Cuộc tập hợp quân đội Edoras](../M/Muster_of_Edoras.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 Trong khi đó, Saruman lên kế hoạch giết Thân vương. Ông cử lực lượng chống lại Rohan vào [ngày 25 tháng 2](../F/February_25.md), [T.A.](Third_Age.md) [3019](Third_Age_3019.md) với mệnh lệnh rõ ràng là giết Thống chế thứ hai bằng mọi giá.
 

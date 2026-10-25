@@ -16,7 +16,7 @@ categories:
 
 ## Bối cảnh lịch sử {#Historical_context}
 
-Sau [Chuyến bay của Noldor](../F/Flight_of_the_Noldor.md), [Noldor](../N/Noldor.md) và [Sindar](Sindar.md) bắt đầu tìm được phương tiện liên lạc với nhau. Khi học ngôn ngữ của nhau, Noldor nhanh chóng nắm bắt được Sindarin, trong khi Sindar gặp rất khó khăn với Noldorin (Quenya). Đây là bước đầu tiên hướng tới Sindarin hóa.
+Sau [Cuộc Di Tản của người Noldor](../F/Flight_of_the_Noldor.md), [Noldor](../N/Noldor.md) và [Sindar](Sindar.md) bắt đầu tìm được phương tiện liên lạc với nhau. Khi học ngôn ngữ của nhau, Noldor nhanh chóng nắm bắt được Sindarin, trong khi Sindar gặp rất khó khăn với Noldorin (Quenya). Đây là bước đầu tiên hướng tới Sindarin hóa.
 
 Bước tiếp theo đến nhanh chóng và chắc chắn. [Elu Thingol](../T/Thingol.md) biết được vụ thảm sát [người thân ở Alqualondë](../K/Kinslaying_at_Alqualondë.md), rất kinh hoàng và tức giận trước vụ thảm sát người thân của mình. Ông tuyên bố rằng lưỡi của những kẻ giết người thân sẽ không được nói vào tai ông, và ra lệnh cho tất cả Sindar không được nói hoặc trả lời nó, và tránh xa những người nói nó. Vì vậy Noldor buộc phải nói Sindarin và nó trở thành ngôn ngữ sử dụng hàng ngày của họ. Quenya vẫn nằm yên trong sách truyền thuyết của họ, và được nói riêng giữa các lãnh chúa của họ hàng với họ.
 

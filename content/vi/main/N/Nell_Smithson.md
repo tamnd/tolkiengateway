@@ -12,7 +12,7 @@ categories:
   - "Smith of Wootton Major"
 ---
 
-**Nell Smithson** là vợ của [Smith Smithson](../S/Smith_Smithson.md), nhân vật chính của câu chuyện *[Smith of Wootton Major](../S/Smith_of_Wootton_Major.md)*. Cô là một trong hai mươi bốn đứa trẻ tại [Lễ hội những đứa trẻ ngoan](../T/The_Feast_of_Good_Children.md) khi cậu bé Smith có mặt và ăn [Fay-star](../F/Fay-star.md). Nell đã rất thất vọng khi không tìm thấy món đồ trang sức may mắn nào trong miếng [Bánh Tuyệt vời](../G/Great_Cake.md) được phục vụ trong Bữa tiệc, nhưng Smith đã đưa cho cô đồng bạc mà anh đã tìm thấy.
+**Nell Smithson** là vợ của [Smith Smithson](../S/Smith_Smithson.md), nhân vật chính của câu chuyện *[Smith of Wootton Major](../S/Smith_of_Wootton_Major.md)*. Cô là một trong hai mươi bốn đứa trẻ tại [Lễ hội Trẻ ngoan](../T/The_Feast_of_Good_Children.md) khi cậu bé Smith có mặt và ăn [Fay-star](../F/Fay-star.md). Nell đã rất thất vọng khi không tìm thấy món đồ trang sức may mắn nào trong miếng [Bánh Tuyệt vời](../G/Great_Cake.md) được phục vụ trong Bữa tiệc, nhưng Smith đã đưa cho cô đồng bạc mà anh đã tìm thấy.
 
 Nell trở thành vợ của Smith và họ có với nhau hai người con, [Nan](Nan_Smithson.md) và [Ned](Ned_Smithson.md). Cô và các con biết về ngôi sao trên trán Smith vì thỉnh thoảng chúng thấy nó tỏa sáng trên trán anh.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 

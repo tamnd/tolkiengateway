@@ -58,7 +58,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Ông đã cai trị trong ba mươi hai năm trong thời gian được gọi là [Hòa bình Cảnh giác](../W/Watchful_Peace.md),<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> và được kế vị bởi con trai ông là [Belegorn](../B/Belegorn.md).
+Ông đã cai trị trong ba mươi hai năm trong thời gian được gọi là [Thời kỳ Hòa bình Cảnh giác](../W/Watchful_Peace.md),<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> và được kế vị bởi con trai ông là [Belegorn](../B/Belegorn.md).
 
 ## Từ nguyên {#Etymology}
 

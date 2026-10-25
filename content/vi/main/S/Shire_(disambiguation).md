@@ -22,7 +22,7 @@ images:
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Shire-buildings&amp;action=edit&amp;redlink=1" title="Shire-buildings (page does not exist)">Shire-tòa nhà</a>, các tòa nhà như [Nhà Cảnh sát trưởng](Shirriff-house.md) được [Ruffians](../R/Ruffians.md) xây dựng trong Shire.
 - [Shire-lịch](Shire-calendar.md),
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Shire-fashion&amp;action=edit&amp;redlink=1" title="Shire-fashion (page does not exist)">Shire-thời trang</a>/<a class="new" href="https://tolkiengateway.net/w/index.php?title=Shiretalk&amp;action=edit&amp;redlink=1" title="Shiretalk (page does not exist)">Shiretalk</a>,
-- [Shire-dân gian](Shire-folk.md)/[Shire-hobbit](Shire-hobbits.md),
+- [Dân Shire](Shire-folk.md)/[Shire-hobbit](Shire-hobbits.md),
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Shire-historians&amp;action=edit&amp;redlink=1" title="Shire-historians (page does not exist)">Shire-nhà sử học</a>,
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Shire-holidays&amp;action=edit&amp;redlink=1" title="Shire-holidays (page does not exist)">Shire-ngày lễ</a>,
 - [Shire-thain](Shire-thain.md),

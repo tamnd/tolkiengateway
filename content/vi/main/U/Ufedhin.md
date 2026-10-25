@@ -42,7 +42,7 @@ Ufedhin là một [Gnome](../G/Gnome.md) rất giàu có sống ở Artanor. Khi
 
 Ufedhin - bạn thân của [Người Lùn](../D/Dwarves.md) của [Nogrod](../N/Nogrod.md) - đã thuyết phục Tinwelint nhờ họ giúp đỡ trong việc định hình lại số vàng. Khi họ đồng ý làm việc cho Tinwelint, ông đã gửi một nửa số vàng cho Nogrod vay và giữ lại nửa còn lại, yêu cầu họ làm lại và tạo hình thành nhiều đồ vật khác nhau.
 
-Tuy nhiên, Tinwelint đã bị lòng tham làm mờ mắt và quyết định bắt Ufedhin làm con tin để Người Lùn không lừa ông. Điều này khiến Ufedhin tức giận và khiến ông lên kế hoạch trả thù Vua. Khi Người Lùn hoàn thành công việc của họ (bao gồm cả [Nauglafring](../N/Nauglafring.md), Vòng cổ của Người Lùn), Ufedhin đã thuyết phục họ yêu cầu Vua trả một cái giá cắt cổ. Khi nghe mức giá này, Vua đã ra lệnh đánh đòn Ufedhin và Người Lùn và trả một khoản tiền nhỏ cho công việc của họ.
+Tuy nhiên, Tinwelint đã bị lòng tham làm mờ mắt và quyết định bắt Ufedhin làm con tin để Người Lùn không lừa ông. Điều này khiến Ufedhin tức giận và khiến ông lên kế hoạch trả thù Vua. Khi Người Lùn hoàn thành công việc của họ (bao gồm cả [Nauglafring](../N/Nauglafring.md), Vòng cổ Người Lùn), Ufedhin đã thuyết phục họ yêu cầu Vua trả một cái giá cắt cổ. Khi nghe mức giá này, Vua đã ra lệnh đánh đòn Ufedhin và Người Lùn và trả một khoản tiền nhỏ cho công việc của họ.
 
 ### Cái chết của Tinwelint và Bao tải Artanor {#Death_of_Tinwelint_and_Sack_of_Artanor}
 

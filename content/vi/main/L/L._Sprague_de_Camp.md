@@ -58,7 +58,7 @@ Một lá thư năm 1983 từ de Camp gửi John Rateliff ngụ ý rằng de Cam
 - [1973](../_/1973.md): [*Locus* #149](Locus_149.md) (14 tháng Chín 1973)
     - \[bài viết ngắn gọn về cuộc gặp gỡ của ông với Tolkien\]
 - [1976](../_/1976.md): [*Fantastic* (Tháng 11, Tập 25, Số 5)](../F/Fantastic_November_1976.md)
-    - "Trắng Pháp sư vải Tweed"
+    - "Pháp sư Trắng vải Tweed"
 - [1987](../_/1987.md): [*Mythlore* 50](../M/Mythlore_50.md)
     - Thư gửi biên tập viên
 

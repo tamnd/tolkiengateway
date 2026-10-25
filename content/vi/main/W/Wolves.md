@@ -60,7 +60,7 @@ Sói nằm trong số lực lượng Morgoth từng tấn công thành phố [Go
 
 <figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/Q/Quinton_Hoover_-_Orc-mounts.jpg.md"><img src="https://tolkiengateway.net/w/images/4/45/Quinton_Hoover_-_Orc-mounts.jpg" decoding="async" loading="lazy" width="298" height="253" class="mw-file-element" data-file-width="298" data-file-height="253"/></a><figcaption><a href="../Q/Quinton_Hoover.md" title="Quinton Hoover">Quinton Hoover</a> - <i>Orc-mounts</i></figcaption></figure>
 
-Trong [Hòa bình thận trọng](Watchful_Peace.md), [Aragorn I](../A/Aragorn_I.md) cai trị với tư cách là [Thủ lĩnh thứ năm của Dúnedain](../C/Chieftain_of_the_Dúnedain.md) chỉ trong tám năm trước khi cuộc đời của ông bị cắt ngắn vào [T.A.](../T/Third_Age.md) [2327](../T/Third_Age_2327.md), khi ông bị sói hoang giết chết ở [Eriador](../E/Eriador.md).<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
+Trong [Thời kỳ Hòa bình Cảnh giác](Watchful_Peace.md), [Aragorn I](../A/Aragorn_I.md) cai trị với tư cách là [Thủ lĩnh thứ năm của Dúnedain](../C/Chieftain_of_the_Dúnedain.md) chỉ trong tám năm trước khi cuộc đời của ông bị cắt ngắn vào [T.A.](../T/Third_Age.md) [2327](../T/Third_Age_2327.md), khi ông bị sói hoang giết chết ở [Eriador](../E/Eriador.md).<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
 
 Sau khi [Gandalf](../G/Gandalf.md) trốn thoát [Isengard](../I/Isengard.md), [Saruman](../S/Saruman.md) cử sói và lũ Orc truy đuổi.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
 

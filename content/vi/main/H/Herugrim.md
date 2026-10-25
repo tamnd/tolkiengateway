@@ -48,7 +48,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Khi Gandalf và những người đồng hành của ông đến [Meduseld](../M/Meduseld.md) vào ngày 2 tháng 3, [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> thanh kiếm đang bị giam giữ bởi cố vấn phản bội của Théoden [Gríma Wormtongue](../G/Gríma.md). Sau khi được [Gandalf](../G/Gandalf.md) chữa lành, Théoden đã lấy lại thanh kiếm,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và mang nó đến [Trận Hornburg](../B/Battle_of_the_Hornburg.md) và [Trận cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md).
+Khi Gandalf và những người đồng hành của ông đến [Meduseld](../M/Meduseld.md) vào ngày 2 tháng 3, [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> thanh kiếm đang bị giam giữ bởi cố vấn phản bội của Théoden [Gríma Wormtongue](../G/Gríma.md). Sau khi được [Gandalf](../G/Gandalf.md) chữa lành, Théoden đã lấy lại thanh kiếm,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và mang nó đến [Trận Hornburg](../B/Battle_of_the_Hornburg.md) và [Trận chiến tại cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md).
 
 ## Từ nguyên {#Etymology}
 

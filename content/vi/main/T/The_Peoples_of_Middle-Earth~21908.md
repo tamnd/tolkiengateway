@@ -106,7 +106,7 @@ images:
 
 ### Cái Kẻ Thù {#The_Enemy_3}
 
-- Bà phù thủy Vua
+- Bà Vua Phù thủy
 - Thú vật sa ngã
 - Miệng của Sauron
 - Orc
@@ -136,4 +136,4 @@ Bảo vệ Thành cổ
 - Eomer
 - Arwen
 - Bilbo Baggins
-- Đội quân của người chết
+- Đội quân Người Chết

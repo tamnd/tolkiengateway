@@ -13,7 +13,7 @@ categories:
   - "Sandyman"
 ---
 
-**Gia đình Sandyman** là một gia đình gồm [Hobbit](../H/Hobbits.md) từ [Hobbiton](../H/Hobbiton.md). Họ vận hành [Nhà máy cũ](../O/Old_Mill.md).
+**Gia đình Sandyman** là một gia đình gồm [Hobbit](../H/Hobbits.md) từ [Hobbiton](../H/Hobbiton.md). Họ vận hành [Cối xay cũ](../O/Old_Mill.md).
 
 ## Lịch sử {#History}
 

@@ -45,14 +45,14 @@ infobox:
 
 CÁC CUỘC ĐUA MANNISH
 
-Trong trò chơi nhập vai giả tưởng, bạn trở thành nhân vật chính trong cuộc phiêu lưu giả tưởng do chính bạn tạo ra. Với bản tóm tắt nhân vật này, bạn có thể gặp những nhân vật thú vị nhất của Trung Địa! Gọi họ ra để tăng thêm kịch tính và nguy hiểm cho trò chơi giả tưởng của bạn. Tranh luận Gríma Wormtongue, thách thức Ar-Pharazôn! Bạn có thể vượt qua các Kỵ sĩ của Rohan hoặc chống lại sự hiện diện áp đảo của Vua Phù thủy của Angmar không?
+Trong trò chơi nhập vai giả tưởng, bạn trở thành nhân vật chính trong cuộc phiêu lưu giả tưởng do chính bạn tạo ra. Với bản tóm tắt nhân vật này, bạn có thể gặp những nhân vật thú vị nhất của Trung Địa! Gọi họ ra để tăng thêm kịch tính và nguy hiểm cho trò chơi giả tưởng của bạn. Tranh luận Gríma Wormtongue, thách thức Ar-Pharazôn! Bạn có thể vượt qua các Kỵ sĩ của Rohan hoặc chống lại sự hiện diện áp đảo của Vua Phù thủy Angmar không?
 
 Tập này mô tả Secondborn, chủng tộc thứ hai bước vào thế giới của Tolkien, Con Người. Phàm nhân, họ thống trị lịch sử sau này của Trung Địa, và ảnh hưởng của họ ngày càng tô điểm thêm bản chất cuộc sống trong Endor. Mỗi cái được mô tả về ngoại hình, động cơ, đặc điểm và lý lịch. Số liệu thống kê trò chơi cho hệ thống trò chơi MERP và Rolemaster được bao gồm. Những số liệu thống kê này có thể dễ dàng được chuyển đổi sang hầu hết các hệ thống FRP chính.
 
 Bên trong bạn sẽ tìm thấy:
 
-- NINE NAZGÛL, Vua Phù thủy của Angmar và các vị Vua khác đã chấp nhận Sauron những chiếc nhẫn quyền lực và trở thành ác quỷ Nazgûl
-- DÚNEDAIN, Mức cao Con Người của Gondor và Arnor, bao gồm Denethor, Boromir, Faramir và Aragorn II (Strider)
+- NINE NAZGÛL, Vua Phù thủy Angmar và các vị Vua khác đã chấp nhận Sauron những chiếc nhẫn quyền lực và trở thành ác quỷ Nazgûl
+- DÚNEDAIN, Mức cao Con Người Gondor và Arnor, bao gồm Denethor, Boromir, Faramir và Aragorn II (Strider)
 - NÚMENÓRIANS, các lãnh chúa như Elros và Ar-Pharazon, tổ tiên quyền lực của Endor's Dúnedain, những người đi biển, thực dân và chinh phục vĩ đại
 - NHỮNG NHÂN VẬT TUYỆT VỜI TỪ TÂY, bao gồm Theóden, Eomer, Eowyn và Wormtongue từ Rohan, Bard từ Thị trấn Hồ, và những kẻ thù như Wulf và The Miệng của Sauron
 

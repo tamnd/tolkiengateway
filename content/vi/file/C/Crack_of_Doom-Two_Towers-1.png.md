@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Hai người theo dõi](../../main/T/Two_Watchers.md) trong [Crack of Doom Cuộc phiêu lưu phần mềm](../../main/C/Crack_of_Doom_Software_Adventure.md).
+[Hai Kẻ Canh Gác](../../main/T/Two_Watchers.md) trong [Crack of Doom Cuộc phiêu lưu phần mềm](../../main/C/Crack_of_Doom_Software_Adventure.md).
 
 ## Giấy phép {#Licensing}
 

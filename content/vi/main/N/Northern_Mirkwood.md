@@ -58,7 +58,7 @@ Gói này trình bày chi tiết tất cả miền Bắc Wilderland.
 
 Hãy hành trình nếu bạn dám vượt qua độ sâu tối tăm của Mirkwood, chạm trán Đại Bàng vĩ đại, Nhện khổng lồ, Gấu, Sói và Rồng của Withered Heath.
 
-Đi theo Con đường Khu Rừng Cổ xuyên qua trung tâm của Mirkwood - đi theo con đường của Orome và Tiên tộc của Kỷ Đệ Nhất - và bạn sẽ thấy mình đang ở trong khu rừng sâu, tối tăm từng có đầy thú săn, cá và quả mọng. Khu rừng bây giờ yên tĩnh lạ lùng, ảm đạm và đe dọa biết bao kể từ khi Bóng Tối của Mordor trải dài khắp vùng đất sáu trăm năm trước. Chỉ có những con Nhện khổng lồ trong rừng là có vẻ hài lòng khi chúng nằm trong hang ổ tối tăm của mình, cảnh giác với những chuyển động nhỏ nhất trong mạng nhện dính và chắc chắn của chúng...
+Đi theo Con Đường Rừng Cổ xuyên qua trung tâm của Mirkwood - đi theo con đường của Orome và Tiên tộc của Kỷ Đệ Nhất - và bạn sẽ thấy mình đang ở trong khu rừng sâu, tối tăm từng có đầy thú săn, cá và quả mọng. Khu rừng bây giờ yên tĩnh lạ lùng, ảm đạm và đe dọa biết bao kể từ khi Bóng Tối của Mordor trải dài khắp vùng đất sáu trăm năm trước. Chỉ có những con Nhện khổng lồ trong rừng là có vẻ hài lòng khi chúng nằm trong hang ổ tối tăm của mình, cảnh giác với những chuyển động nhỏ nhất trong mạng nhện dính và chắc chắn của chúng...
 
 ## Xem thêm {#See_also}
 

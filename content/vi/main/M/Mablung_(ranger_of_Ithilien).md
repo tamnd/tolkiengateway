@@ -78,7 +78,7 @@ Cùng với [Damrod](../D/Damrod.md), [Anborn](../A/Anborn.md) và một số ng
 
 Mablung và Damrod vẫn là người bảo vệ Người Mang Nhẫn trong thời gian ngắn lưu trú tại [Henneth Annûn](../H/Henneth_Annûn.md).<sup id="cite_ref-Window_3-0" class="reference"><a href="#cite_note-Window-3">[3]</a></sup>
 
-Với việc Chúa của mình bị thương, Mablung được trao quyền chỉ huy Biệt đội sau [Trận chiến trên Cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md). Khi [Quân đội Phương Tây](../A/Army_of_the_West.md) hành quân trên [Morannon](Morannon.md), Mablung cùng quân của ông đã trinh sát đường đi và phát hiện một cuộc phục kích của [Orc](../O/Orcs.md) và [Easterlings](../E/Easterlings.md) đang ẩn náu trong Ithilien. Cuộc phục kích nhanh chóng bị lật ngược.<sup id="cite_ref-Gate_4-0" class="reference"><a href="#cite_note-Gate-4">[4]</a></sup>
+Với việc Chúa của mình bị thương, Mablung được trao quyền chỉ huy Biệt đội sau [Trận chiến trên Cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md). Khi [Đội quân Phương Tây](../A/Army_of_the_West.md) hành quân trên [Morannon](Morannon.md), Mablung cùng quân của ông đã trinh sát đường đi và phát hiện một cuộc phục kích của [Orc](../O/Orcs.md) và [Easterlings](../E/Easterlings.md) đang ẩn náu trong Ithilien. Cuộc phục kích nhanh chóng bị lật ngược.<sup id="cite_ref-Gate_4-0" class="reference"><a href="#cite_note-Gate-4">[4]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
