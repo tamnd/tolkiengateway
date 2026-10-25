@@ -146,13 +146,13 @@ Theo [Karen Fonstad](../K/Karen_Fonstad.md), Núi Diệt Vong rõ ràng là mộ
 
 <dl><dd>Cấp độ cuối cùng diễn ra bên trong Núi Diệt Vong, nơi người chơi điều khiển Frodo và phải quẳng Gollum xuống dòng dung nham.</dd></dl>
 
-<b>2014: <a href="Middle-earth%253A_Shadow_of_Mordor.md" title="Middle-earth: Shadow of Mordor"><i>Trung Địa: Bóng Tối của Mordor</i> (trò chơi điện tử)</a>:</b>
+<b>2014: <a href="Middle-earth%253A_Shadow_of_Mordor.md" title="Middle-earth: Shadow of Mordor"><i>Middle-earth: Shadow of Mordor</i> (trò chơi điện tử)</a>:</b>
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Shadow_of_Mordor_-_Mount_Doom.png.md"><img src="https://tolkiengateway.net/w/images/thumb/0/07/Shadow_of_Mordor_-_Mount_Doom.png/300px-Shadow_of_Mordor_-_Mount_Doom.png" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/07/Shadow_of_Mordor_-_Mount_Doom.png/450px-Shadow_of_Mordor_-_Mount_Doom.png 1.5x, https://tolkiengateway.net/w/images/thumb/0/07/Shadow_of_Mordor_-_Mount_Doom.png/600px-Shadow_of_Mordor_-_Mount_Doom.png 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>Vụ phun trào của Núi Diệt Vong trong <i><a href="Middle-earth%253A_Shadow_of_Mordor.md" title="Middle-earth: Shadow of Mordor">Middle-earth: Shadow of Mordor</a></i>.</figcaption></figure>
 
 <dl><dd>Núi Diệt Vong lần đầu xuất hiện trong trò chơi làm cảnh nền ở phần mở đầu, sau đó xuất hiện lần nữa khi phun trào trong nhiệm vụ cuối cùng mang tên “Mordor in Flames”.</dd></dl>
 
-<b>2017: <a href="Middle-earth%253A_Shadow_of_War.md" title="Middle-earth: Shadow of War"><i>Trung Địa: Bóng Tối of War</i> (trò chơi điện tử)</a>:</b>
+<b>2017: <a href="Middle-earth%253A_Shadow_of_War.md" title="Middle-earth: Shadow of War"><i>Middle-earth: Shadow of War</i> (trò chơi điện tử)</a>:</b>
 
 <dl><dd>Núi Diệt Vong xuất hiện trong cảnh mở đầu và trở thành một phần của thế giới mở cho phép người chơi tự do khám phá trong trò chơi.</dd></dl>
 

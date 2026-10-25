@@ -30,11 +30,11 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_History_of_Middle-earth_12.jpeg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/65/The_History_of_Middle-earth_12.jpeg/275px-The_History_of_Middle-earth_12.jpeg" decoding="async" loading="lazy" width="275" height="162" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/65/The_History_of_Middle-earth_12.jpeg/413px-The_History_of_Middle-earth_12.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/6/65/The_History_of_Middle-earth_12.jpeg/550px-The_History_of_Middle-earth_12.jpeg 2x" data-file-width="1693" data-file-height="1000"/></a><figcaption>Ấn bản bìa cứng đầu tiên của <i>The History of Middle-earth</i></figcaption></figure>
 
-<i><b>The History of Middle-earth</b></i> là bộ sách gồm 12 tập được xuất bản giữa [1983](../_/1983.md) và [1996](../_/1996.md), sưu tầm và phân tích phần lớn [huyền thoại](../L/Legendarium.md) của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), do con trai ông, [Christopher Tolkien](../C/Christopher_Tolkien.md) biên soạn và biên tập.
+<i><b>The History of Middle-earth</b></i> là bộ sách gồm 12 tập, xuất bản trong giai đoạn từ [1983](../_/1983.md) đến [1996](../_/1996.md), tập hợp và phân tích phần lớn [Legendarium](../L/Legendarium.md) của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), do con trai ông là [Christopher Tolkien](../C/Christopher_Tolkien.md) biên soạn và hiệu đính.
 
-Bộ truyện cho thấy sự phát triển theo thời gian trong quan niệm của Tolkien về [Trung Địa](../M/Middle-earth.md) như một địa điểm hư cấu với các dân tộc, ngôn ngữ và lịch sử riêng, từ những quan niệm đầu tiên của ông về "thần thoại cho nước Anh" cho đến sự phát triển của các câu chuyện tạo nên *[The Silmarillion](The_Silmarillion.md)* và *[The Lord of the Rings](The_Lord_of_the_Rings.md)*.
+Bộ sách cho thấy quan niệm của Tolkien về [Trung Địa](../M/Middle-earth.md) phát triển theo thời gian như thế nào: từ ý tưởng ban đầu về một "thần thoại dành cho nước Anh" đến quá trình hình thành các câu chuyện tạo nên *[The Silmarillion](The_Silmarillion.md)* và *[The Lord of the Rings](The_Lord_of_the_Rings.md)*.
 
-Các tập 6-9 đã được xuất bản độc lập dưới dạng bộ đóng hộp, bởi HarperCollins trong [1998](../_/1998.md) và [2002](../_/2002.md), dưới dạng *[The History of The Lord of the Rings](The_History_of_The_Lord_of_the_Rings.md)*. Trong bộ này, *[Sauron Defeated](../S/Sauron_Defeated.md)* chỉ giữ lại nội dung liên quan đến *The Lord of the Rings* và được xuất bản dưới tựa đề *[The End of the Third Age](The_End_of_the_Third_Age.md)*.
+Các tập 6–9 được HarperCollins phát hành thành một bộ hộp riêng vào các năm [1998](../_/1998.md) và [2002](../_/2002.md), mang tên *[The History of The Lord of the Rings](The_History_of_The_Lord_of_the_Rings.md)*. Trong bộ sách này, *[Sauron Defeated](../S/Sauron_Defeated.md)* chỉ giữ lại những nội dung liên quan đến *The Lord of the Rings* và được phát hành với nhan đề *[Cuối Kỷ Đệ Tam](The_End_of_the_Third_Age.md)*.
 
 ## Tập và nội dung {#Volumes_and_contents}
 
@@ -64,48 +64,48 @@ Các tập 6-9 đã được xuất bản độc lập dưới dạng bộ đón
 
 - *[Index](The_History_of_Middle-earth_Index.md)* - (2002)
 
-Hai cuốn sách đầu tiên giới thiệu cho chúng ta về *[The Book of Lost Tales](The_Book_of_Lost_Tales.md)*, quan niệm đầu tiên về [huyền thoại](../L/Legendarium.md) của Tolkien. Tập thứ ba đề cập đến những bài thơ dài liên quan đến một số câu chuyện chính. Hai cuốn sách sau đây theo dõi sự phát triển từ *The Book of Lost Tales* đến cuốn đầu tiên được gọi là *Quenta Silmarillion*. Tập 6 đến tập 9 thảo luận về sự phát triển của *The Lord of the Rings*, trong khi nửa sau của cuốn 9 thảo luận về câu chuyện về Númenor. Quyển 10 và 11 thảo luận về những phát triển sau này của *The Silmarillion*, được dùng làm tài liệu nguồn cho *[the published edition](The_Silmarillion.md)*. Cuốn sách cuối cùng bao gồm việc xây dựng [*The Lord of the Rings* Phụ lục](The_Lord_of_the_Rings_Appendices.md), tiếp theo là một số tiểu luận J.R.R. Tolkien được viết trong những năm cuối đời của ông.
+Hai cuốn sách đầu tiên giới thiệu *[The Book of Lost Tales](The_Book_of_Lost_Tales.md)*, hình dung ban đầu của Tolkien về [Legendarium](../L/Legendarium.md). Tập thứ ba tập hợp các trường ca kể về một số câu chuyện chủ chốt. Hai tập tiếp theo trình bày quá trình phát triển từ *The Book of Lost Tales* đến bản *Quenta Silmarillion* đầu tiên. Các tập 6–9 trình bày quá trình hình thành *The Lord of the Rings*, trong khi nửa sau của tập 9 kể về Númenor. Tập 10 và 11 trình bày những bước phát triển sau này của *The Silmarillion*, làm tư liệu nền cho *[ấn bản đã xuất bản](The_Silmarillion.md)*. Tập cuối trình bày quá trình biên soạn [*The Lord of the Rings* Appendices](The_Lord_of_the_Rings_Appendices.md), tiếp theo là một số tiểu luận thuộc nhiều chủ đề khác nhau do J.R.R. Tolkien viết trong những năm cuối đời.
 
-Tập thứ mười ba được xuất bản năm 2002, *[The History of Middle-earth Index](The_History_of_Middle-earth_Index.md)*. Cuốn sách này đã tích hợp hoàn toàn tất cả các chỉ mục từ bộ này vào một chỉ mục lớn.
+Tập thứ mười ba, *[The History of Middle-earth Index](The_History_of_Middle-earth_Index.md)*, được xuất bản năm 2002. Cuốn sách hợp nhất toàn bộ các chỉ mục của bộ sách thành một chỉ mục tổng hợp lớn.
 
 ## Sự thụ thai {#Conception}
 
-Sau khi xuất bản ấn bản *[The Silmarillion](The_Silmarillion.md)* ở [1977](../_/1977.md), Christopher Tolkien tiếp tục nghiên cứu các bản thảo trước đó của cha mình, chuẩn bị một cuốn sách mà ông gọi là *The History of The Silmarillion*. Trong [1981](../_/1981.md), ông đã viết thư cho [Rayner Unwin](../R/Rayner_Unwin.md) (lúc đó là chủ tịch của [Allen và Unwin](../A/Allen_and_Unwin.md)), thông báo về công việc đã hoàn thành cho đến thời điểm đó: một cuốn sách tính đến nay đã dày 1.968 trang, dày 16,5 inch.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Sau khi xuất bản bản *[The Silmarillion](The_Silmarillion.md)* vào năm [1977](../_/1977.md), Christopher Tolkien tiếp tục nghiên cứu những bản thảo thời kỳ đầu của cha mình, đồng thời chuẩn bị một cuốn sách mang tên *The History of The Silmarillion*. Năm [1981](../_/1981.md), ông viết thư cho [Rayner Unwin](../R/Rayner_Unwin.md), lúc đó là chủ tịch [Allen and Unwin](../A/Allen_and_Unwin.md), cho ông biết khối lượng công việc đã thực hiện tính đến thời điểm ấy: bản thảo khi ấy đã dài 1.968 trang và rộng 16,5 inch.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <blockquote class="tg-quote noexcerpt">
-<p>Nếu và/hoặc khi bạn xem cuốn sách này, bạn sẽ hiểu ngay tại sao tôi lại nói rằng nó không thể xuất bản được. Văn bản và các cuộc thảo luận khác quá chi tiết và tỉ mỉ; quy mô của nó là (và sẽ ngày càng trở nên lớn hơn) đến mức bị ngăn cấm. Nó được thực hiện một phần vì sự hài lòng của riêng tôi trong việc làm cho mọi thứ trở nên đúng đắn, và bởi vì tôi muốn biết toàn bộ quan niệm trên thực tế đã phát triển như thế nào từ những nguồn gốc sớm nhất...
-</p><p>Nếu có tương lai cho những câu hỏi như vậy, tôi muốn chắc chắn nhất có thể rằng bất kỳ nghiên cứu nào sau này về "lịch sử văn học" của JRRT sẽ không trở thành điều vô nghĩa do nhầm lẫn quá trình tiến hóa thực sự của nó. Sự hỗn loạn và khó khăn nội tại của nhiều giấy tờ (tầng lớp này đến lớp khác của những thay đổi trong một trang bản thảo, những manh mối quan trọng trên những mảnh vụn rải rác được tìm thấy ở bất kỳ đâu trong kho lưu trữ, những văn bản được viết ở mặt sau của những tác phẩm khác, sự lộn xộn và tách biệt của các bản thảo, sự khó đọc gần như hoàn toàn ở nhiều chỗ, đơn giản là không thể giải thích được...
-</p><p>Về lý thuyết, tôi có thể tạo ra rất nhiều cuốn sách từ Lịch sử, và có rất nhiều khả năng cũng như sự kết hợp của các khả năng. Ví dụ: tôi có thể làm "<a href="../B/Beren.md" title="Beren">Beren</a>", với <a href="The_Tale_of_Tinúviel.md" title="The Tale of Tinúviel">bản gốc Lost Tale</a>, <i><a href="The_Lay_of_Leithian.md" title="The Lay of Leithian">The Lay of Leithian</a></i> và một bài luận về sự phát triển của truyền thuyết. Sở thích của tôi, nếu nói đến bất cứ điều gì tích cực như vậy, có lẽ sẽ là coi một huyền thoại như một thực thể đang phát triển, thay vì đưa ra tất cả Lost Tales cùng một lúc; nhưng những khó khăn trong việc trình bày chi tiết trong trường hợp như vậy sẽ rất lớn, bởi vì người ta sẽ phải giải thích rất thường xuyên những gì đang xảy ra ở nơi khác, trong những tác phẩm chưa được xuất bản khác.
+<p>Nếu hoặc khi bạn đọc cuốn sách này, bạn sẽ hiểu ngay vì sao tôi từng nói rằng không thể nào xuất bản được nó dưới bất kỳ hình thức nào. Các phần khảo cứu văn bản và những thảo luận khác quá chi tiết, tỉ mỉ; bản thảo quá đồ sộ, và sẽ còn ngày càng đồ sộ hơn, đến mức không thể xuất bản. Tôi thực hiện công việc này một phần để thỏa mãn mong muốn làm cho mọi thứ thật chính xác, đồng thời vì tôi muốn biết toàn bộ ý tưởng ban đầu thực sự đã phát triển như thế nào kể từ những khởi nguồn sớm nhất...
+</p><p>Nếu sau này còn có người tiếp tục nghiên cứu những vấn đề này, tôi muốn làm hết sức để bảo đảm rằng mọi nghiên cứu sau này về “lịch sử văn học” của JRRT không trở nên vô nghĩa vì hiểu sai tiến trình phát triển thực tế của nó. Sự hỗn loạn và những khó khăn vốn có trong nhiều tài liệu (những lớp chỉnh sửa chồng chất trên cùng một trang bản thảo, những manh mối quan trọng nằm trên các mẩu tài liệu rời rạc khắp kho lưu trữ, những văn bản được viết ở mặt sau của các tác phẩm khác, tình trạng bản thảo bị xáo trộn và tách rời, cùng những chỗ gần như không thể đọc được, thậm chí hoàn toàn không thể đọc được) thực sự không thể diễn tả hết mức...
+</p><p>Về lý thuyết, tôi có thể biên soạn rất nhiều cuốn sách từ The History of Middle-earth, bởi có rất nhiều phương án và cách kết hợp các phương án ấy. Chẳng hạn, tôi có thể biên soạn một cuốn sách về “<a href="../B/Beren.md" title="Beren">Beren</a>”, kết hợp <a href="The_Tale_of_Tinúviel.md" title="The Tale of Tinúviel">Lost Tale nguyên bản</a>, <i><a href="The_Lay_of_Leithian.md" title="The Lay of Leithian">The Lay of Leithian</a></i> và một bài luận về quá trình phát triển của truyền thuyết. Nếu có thể thực hiện một dự án cụ thể như vậy, có lẽ tôi sẽ chọn khắc họa quá trình phát triển của một truyền thuyết, thay vì xuất bản toàn bộ Lost Tales trong một lần; tuy nhiên, việc trình bày tường tận sẽ gặp nhiều khó khăn, bởi người viết sẽ phải thường xuyên giải thích những diễn biến liên quan trong các tác phẩm khác chưa được xuất bản.
 </p>
 </blockquote>
 
-## Lịch sử xuất bản và thư viện {#Publication_history_and_gallery}
+## Lịch sử xuất bản và hình ảnh {#Publication_history_and_gallery}
 
-<dl><dd><i>Dưới đây là lịch sử xuất bản của bộ ba tập. Đối với bất kỳ tập nào trong số 12 tập, hãy xem bài viết tương ứng.</i></dd></dl>
+<dl><dd><i>Dưới đây là lịch sử xuất bản của bộ sách gồm ba tập. Xem bài viết tương ứng để biết thông tin về từng tập trong số 12 tập.</i></dd></dl>
 
-Trong [2000](../_/2000.md) & [2001](../_/2001.md), bộ truyện *The History of Middle-earth* lần đầu tiên được phát hành dưới dạng ấn bản giấy Ấn Độ sang trọng gồm ba tập, được phát hành riêng trong hộp đựng bọc vải, mỗi tập giới hạn 1000 bản. Chúng lần lượt bao gồm các tập 1-5, 6-9 và 10-12.
+Trong [2000](../_/2000.md) & [2001](../_/2001.md), bộ sách *The History of Middle-earth* lần đầu tiên ra mắt dưới dạng ấn bản cao cấp gồm ba tập in trên giấy India, mỗi tập được đựng riêng trong hộp bọc vải và có số lượng giới hạn 1000 bản. Ba tập lần lượt gồm các tập 1–5, 6–9 và 10–12 của bộ sách.
 
-Trong [2002](../_/2002.md) bộ đóng hộp một ngăn tiêu chuẩn đã được xuất bản. Một bộ đóng hộp cao cấp đã được phát hành vào [2017](../_/2017.md).
+Năm [2002](../_/2002.md), bộ hộp tiêu chuẩn gồm một hộp đựng có ngăn đã được xuất bản. Một bộ hộp cao cấp ra mắt vào [2017](../_/2017.md).
 
 <ul class="gallery mw-gallery-traditional">
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_History_of_Middle-earth_india_set.jpeg.md" title="India paper edition vol.1-3"><img alt="India paper edition vol.1-3" src="https://tolkiengateway.net/w/images/thumb/5/5e/The_History_of_Middle-earth_india_set.jpeg/125px-The_History_of_Middle-earth_india_set.jpeg" decoding="async" loading="lazy" width="125" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/5e/The_History_of_Middle-earth_india_set.jpeg/188px-The_History_of_Middle-earth_india_set.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/5/5e/The_History_of_Middle-earth_india_set.jpeg/250px-The_History_of_Middle-earth_india_set.jpeg 2x" data-file-width="1080" data-file-height="1080"/></a></span></div>
 			<div class="gallerytext">
-<p>Ấn bản giấy Ấn Độ tập 1-3
+<p>Ấn bản in trên giấy India, tập 1–3
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_History_of_Middle-earth_india_cover.png.md" title="India paper edition cover"><img alt="India paper edition cover" src="https://tolkiengateway.net/w/images/thumb/f/f0/The_History_of_Middle-earth_india_cover.png/77px-The_History_of_Middle-earth_india_cover.png" decoding="async" loading="lazy" width="77" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f0/The_History_of_Middle-earth_india_cover.png/116px-The_History_of_Middle-earth_india_cover.png 1.5x, https://tolkiengateway.net/w/images/thumb/f/f0/The_History_of_Middle-earth_india_cover.png/154px-The_History_of_Middle-earth_india_cover.png 2x" data-file-width="309" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p>Bìa ấn bản giấy Ấn Độ
+<p>Bìa ấn bản in trên giấy India
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_History_of_Middle-earth_Boxed_Set.jpeg.md" title="2002 edition boxed set"><img alt="2002 edition boxed set" src="https://tolkiengateway.net/w/images/thumb/0/09/The_History_of_Middle-earth_Boxed_Set.jpeg/125px-The_History_of_Middle-earth_Boxed_Set.jpeg" decoding="async" loading="lazy" width="125" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/09/The_History_of_Middle-earth_Boxed_Set.jpeg/188px-The_History_of_Middle-earth_Boxed_Set.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/0/09/The_History_of_Middle-earth_Boxed_Set.jpeg/250px-The_History_of_Middle-earth_Boxed_Set.jpeg 2x" data-file-width="400" data-file-height="400"/></a></span></div>
 			<div class="gallerytext">
-<p>Bộ đóng hộp phiên bản 2002
+<p>Bộ sách đóng hộp, ấn bản năm 2002
 </p>
 			</div>
 		</li>
@@ -133,38 +133,38 @@ Trong [2002](../_/2002.md) bộ đóng hộp một ngăn tiêu chuẩn đã đư
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_History_of_Middle-earth_deluxe.jpeg.md" title="2017 deluxe edition boxed set"><img alt="2017 deluxe edition boxed set" src="https://tolkiengateway.net/w/images/thumb/3/35/The_History_of_Middle-earth_deluxe.jpeg/125px-The_History_of_Middle-earth_deluxe.jpeg" decoding="async" loading="lazy" width="125" height="104" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/35/The_History_of_Middle-earth_deluxe.jpeg/188px-The_History_of_Middle-earth_deluxe.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/3/35/The_History_of_Middle-earth_deluxe.jpeg/250px-The_History_of_Middle-earth_deluxe.jpeg 2x" data-file-width="500" data-file-height="415"/></a></span></div>
 			<div class="gallerytext">
-<p>Bộ hộp phiên bản cao cấp 2017
+<p>Bộ sách đóng hộp, ấn bản cao cấp năm 2017
 </p>
 			</div>
 		</li>
 </ul>
 
-- Ấn bản giấy ở Ấn Độ
-    - [HarperCollins](../H/HarperCollins.md), bìa cứng có nắp trượt ([2000](../_/2000.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007105053">ISBN 0007105053</a>
-    - HarperCollins, bìa cứng có nắp trượt ([2001](../_/2001.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007105061">ISBN 0007105061</a>
-    - HarperCollins, bìa cứng có nắp trượt (2001), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/000710507X">ISBN 000710507X</a>
+- Ấn bản in trên giấy India
+   - [HarperCollins](../H/HarperCollins.md), sách bìa cứng kèm hộp đựng ([2000](../_/2000.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007105053">ISBN 0007105053</a>
+   - HarperCollins, sách bìa cứng kèm hộp đựng ([2001](../_/2001.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007105061">ISBN 0007105061</a>
+   - HarperCollins, sách bìa cứng kèm hộp đựng (2001), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/000710507X">ISBN 000710507X</a>
 
-- ấn bản 2002
-    - [HarperCollins](../H/HarperCollins.md), bộ đóng hộp ([2002](../_/2002.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007105088">ISBN 0007105088</a>
-    - HarperCollins, bìa cứng (2002), trang 1920. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007149158">ISBN 0007149158</a>
-    - HarperCollins, bìa cứng (2002), trang 2032. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007149166">ISBN 0007149166</a>
-    - HarperCollins, bìa cứng (2002), trang 1488. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007149174">ISBN 0007149174</a>
+- Ấn bản năm 2002
+   - [HarperCollins](../H/HarperCollins.md), bộ sách đóng hộp ([2002](../_/2002.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007105088">ISBN 0007105088</a>
+   - HarperCollins, sách bìa cứng (2002), 1920 trang. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007149158">ISBN 0007149158</a>
+   - HarperCollins, sách bìa cứng (2002), 2032 trang. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007149166">ISBN 0007149166</a>
+   - HarperCollins, sách bìa cứng (2002), 1488 trang. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007149174">ISBN 0007149174</a>
 
-- Phiên bản cao cấp 2017
-    - [HarperCollins](../H/HarperCollins.md), bộ đóng hộp ([2017](../_/2017.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0008259844">ISBN 0008259844</a>
+- Ấn bản cao cấp năm 2017
+   - [HarperCollins](../H/HarperCollins.md), bộ sách đóng hộp ([2017](../_/2017.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0008259844">ISBN 0008259844</a>
 
 ## Xem thêm {#See_also}
 
 - *[Unfinished Tales](../U/Unfinished_Tales.md)*
 - *[The Nature of Middle-earth](The_Nature_of_Middle-earth.md)*
 
-- [Christopher Tolkien Bộ hộp kỷ niệm 100 năm](../C/Christopher_Tolkien_Centenary_Boxed_Sets.md)
-- [Tolkien Series bìa mềm có chữ ký](Tolkien_Signature_Paperback_Series.md)
+- [Bộ sách đóng hộp kỷ niệm 100 năm ngày sinh Christopher Tolkien](../C/Christopher_Tolkien_Centenary_Boxed_Sets.md)
+- [Bộ sách bìa mềm Tolkien có chữ ký](Tolkien_Signature_Paperback_Series.md)
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://www.forodrim.org/daeron/md_hm.html" rel="noreferrer noopener" target="_blank">Có gì trong Lịch sử của Trung Địa?</a> trên Forodrim.org, bởi Ninni M. Petterssons
-- <a class="external text" href="http://www.forodrim.org/daeron/md_hmch.html" rel="noreferrer noopener" target="_blank">Các văn bản HoMe theo trình tự thời gian</a>, danh sách các thành phần HoMe theo thứ tự được viết bởi Tolkien, bởi Ninni M. Pettersson
+- <a class="external text" href="http://www.forodrim.org/daeron/md_hm.html" rel="noreferrer noopener" target="_blank">Có gì trong The History of Middle-earth?</a> trên Forodrim.org, của Ninni M. Petterssons
+- <a class="external text" href="http://www.forodrim.org/daeron/md_hmch.html" rel="noreferrer noopener" target="_blank">Các văn bản HoMe theo thứ tự thời gian</a>, danh sách các phần của HoMe được sắp xếp theo thứ tự Tolkien viết chúng, do Ninni M. Pettersson biên soạn
 
 <span></span>
 
@@ -178,7 +178,7 @@ Trong [2002](../_/2002.md) bộ đóng hộp một ngăn tiêu chuẩn đã đư
 
 <table style="margin:0 auto;" class="toccolours" align="center">
 <tbody><tr>
-<td align="center" colspan="2" style="background:var(--tg-color-surface-5)"><b>loạt <i><a class="mw-selflink selflink">The History of Middle-earth</a></i></b>
+<td align="center" colspan="2" style="background:var(--tg-color-surface-5)"><b><i><a class="mw-selflink selflink">The History of Middle-earth</a></i> (bộ sách)</b>
 </td></tr>
 <tr>
 <td style="font-size: 90%;" align="center"><i><a href="The_Book_of_Lost_Tales.md" title="The Book of Lost Tales">The Book of Lost Tales</a></i> (i.<a href="The_Book_of_Lost_Tales%253A_Part_One.md" title="The Book of Lost Tales: Part One">Phần một</a> · ii.<a href="The_Book_of_Lost_Tales%253A_Part_Two.md" title="The Book of Lost Tales: Part Two">Phần hai</a>) · iii.<i><a href="The_Lays_of_Beleriand.md" title="The Lays of Beleriand">The Lays of Beleriand</a></i> · iv.<i><a href="The_Shaping_of_Middle-earth.md" title="The Shaping of Middle-earth">The Shaping of Middle-earth</a></i> · v.<i><a href="The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i> · <i><a href="The_History_of_The_Lord_of_the_Rings.md" title="The History of The Lord of the Rings">The History of The Lord of the Rings</a></i> (vi.<a href="The_Return_of_the_Shadow.md" title="The Return of the Shadow">Phần một</a> · vii.<a href="The_Treason_of_Isengard.md" title="The Treason of Isengard">Phần hai</a> · viii.<a href="The_War_of_the_Ring.md" title="The War of the Ring">Phần ba</a> · ix.<a href="../S/Sauron_Defeated.md" title="Sauron Defeated">Phần thứ tư</a>) · <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Later_Silmarillion&amp;action=edit&amp;redlink=1" title="The Later Silmarillion (page does not exist)">The Later Silmarillion</a></i> (x.<a href="../M/Morgoth&#39;s_Ring.md" title="Morgoth&#39;s Ring">Phần thứ nhất</a> · xi.<a href="The_War_of_the_Jewels.md" title="The War of the Jewels">Phần thứ hai</a>) · xii.<i><a href="The_Peoples_of_Middle-earth.md" title="The Peoples of Middle-earth">The Peoples of Middle-earth</a></i> · xiii.<i><a href="The_History_of_Middle-earth_Index.md" title="The History of Middle-earth Index">Index</a></i>
@@ -186,10 +186,10 @@ Trong [2002](../_/2002.md) bộ đóng hộp một ngăn tiêu chuẩn đã đư
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>
-<th align="center" style="background:var(--tg-color-surface-5)" colspan="3"><b>Sách hướng dẫn <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></b>
+<th align="center" style="background:var(--tg-color-surface-5)" colspan="3"><b>Cẩm nang sách của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></b>
 </th></tr>
 <tr>
-<td align="center" style="background:var(--tg-color-surface-4); font-size: 90%;" colspan="3"><b>Sách do Tolkien viết hoặc chủ yếu do Tolkien viết</b>
+<td align="center" style="background:var(--tg-color-surface-4); font-size: 90%;" colspan="3"><b>Sách do Tolkien viết hoặc chủ yếu dựa trên sáng tác của Tolkien</b>
 </td></tr>
 <tr>
 <th width="50px" align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;" rowspan="3">On <a href="../A/Arda.md" title="Arda">Arda</a>
@@ -264,7 +264,7 @@ Trong [2002](../_/2002.md) bộ đóng hộp một ngăn tiêu chuẩn đã đư
 <tr>
 <th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-right: 4px;" colspan="2">Tạp chí ngôn ngữ học
 </th>
-<td style="font-size: 90%; padding-left: 4px;" align="center"><i><a href="../V/Vinyar_Tengwar.md" title="Vinyar Tengwar">Vinyar Tengwar</a></i> số phát hành khác nhau · <i><a href="../P/Parma_Eldalamberon.md" title="Parma Eldalamberon">Parma Eldalamberon</a></i> số phát hành 11-23
+<td style="font-size: 90%; padding-left: 4px;" align="center"><i><a href="../V/Vinyar_Tengwar.md" title="Vinyar Tengwar">Vinyar Tengwar</a></i> · nhiều số khác nhau · <i><a href="../P/Parma_Eldalamberon.md" title="Parma Eldalamberon">Parma Eldalamberon</a></i> · các số từ 11 đến 23
 </td></tr>
 <tr>
 <th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-right: 4px;" colspan="2">Bộ sưu tập tác phẩm nghệ thuật<br/>và bản thảo
