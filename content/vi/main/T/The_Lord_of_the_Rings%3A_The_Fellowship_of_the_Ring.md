@@ -64,36 +64,36 @@ infobox:
 ---
 
 <div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c9/CdxIconReference.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Nguồn</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này cần <b><a href="../../help/R/References.md" title="Help:References">nguồn</a></b> nhiều/mới/chi tiết hơn để tuân thủ tiêu chuẩn cao hơn và cung cấp bằng chứng cho những tuyên bố được đưa ra.<blockquote class="tg-quote noexcerpt">
-<p>Ai đã nói với bạn và ai đã gửi cho bạn?
+<p>Ai đã nói với ngươi, và ai đã sai ngươi đến?
 </p>
 <p class="tg-quote-footer"><cite><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a></cite></p>
 </blockquote></div></div>
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>The Fellowship of the Ring</b> đề cập đến nhiều nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="The_Fellowship_of_the_Ring_(disambiguation).md" title="The Fellowship of the Ring (disambiguation)">The Fellowship of the Ring (định hướng)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>The Fellowship of the Ring</b> có thể chỉ nhiều nhân vật, vật phẩm hoặc khái niệm khác nhau. Để xem các nghĩa khác của tên gọi này, hãy xem <b><a class="mw-disambig" href="The_Fellowship_of_the_Ring_(disambiguation).md" title="The Fellowship of the Ring (disambiguation)">The Fellowship of the Ring (trang định hướng)</a></b>.</div></div>
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Ensemble_poster.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/d2/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Ensemble_poster.jpg/320px-The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Ensemble_poster.jpg" decoding="async" loading="lazy" width="320" height="475" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/d2/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Ensemble_poster.jpg/480px-The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Ensemble_poster.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/d/d2/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Ensemble_poster.jpg/640px-The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Ensemble_poster.jpg 2x" data-file-width="1011" data-file-height="1500"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Fellowship of the Ring</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin</span></th></tr><tr><th scope="row" class="tg-infobox-label">Đạo diễn</th><td class="tg-infobox-data"><a href="../P/Peter_Jackson.md" title="Peter Jackson">Peter Jackson</a></td></tr><tr><th scope="row" class="tg-infobox-label">Tác giả</th><td class="tg-infobox-data"><b>Book:</b><br/><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a><br/><b>Screenplay:</b><br/><a class="mw-redirect" href="../F/Frances_Walsh.md" title="Frances Walsh">Frances Walsh</a><br/><a href="../P/Philippa_Boyens.md" title="Philippa Boyens">Philippa Boyens</a><br/>Peter Jackson<br/>Stephen Sinclair</td></tr><tr><th scope="row" class="tg-infobox-label">Nhà sản xuất</th><td class="tg-infobox-data">Peter Jackson<br/><a class="new" href="https://tolkiengateway.net/w/index.php?title=Barrie_M._Osborne&amp;action=edit&amp;redlink=1" title="Barrie M. Osborne (page does not exist)">Barrie M. Osborne</a><br/><a class="new" href="https://tolkiengateway.net/w/index.php?title=Tim_Sanders&amp;action=edit&amp;redlink=1" title="Tim Sanders (page does not exist)">Tim Sanders</a><br/><a href="../F/Fran_Walsh.md" title="Fran Walsh">Fran Walsh</a></td></tr><tr><th scope="row" class="tg-infobox-label">Cinematography</th><td class="tg-infobox-data"><a href="../A/Andrew_Lesnie.md" title="Andrew Lesnie">Andrew Lesnie</a></td></tr><tr><th scope="row" class="tg-infobox-label">Biên tập</th><td class="tg-infobox-data"><a class="new" href="https://tolkiengateway.net/w/index.php?title=John_Gilbert&amp;action=edit&amp;redlink=1" title="John Gilbert (page does not exist)">John Gilbert</a></td></tr><tr><th scope="row" class="tg-infobox-label">Âm nhạc</th><td class="tg-infobox-data"><a href="../H/Howard_Shore.md" title="Howard Shore">Howard Shore</a></td></tr><tr><th scope="row" class="tg-infobox-label">Hãng phim</th><td class="tg-infobox-data"><a href="../W/WingNut_Films.md" title="WingNut Films">WingNut Films</a><br/><a href="../N/New_Line_Cinema.md" title="New Line Cinema">New Line Cinema</a></td></tr><tr><th scope="row" class="tg-infobox-label">Distributor</th><td class="tg-infobox-data"><a href="../N/New_Line_Cinema.md" title="New Line Cinema">New Line Cinema</a></td></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data"><a class="mw-redirect" href="../D/December_19.md" title="December 19">December 19th</a>, <a href="../_/2001.md" title="2001">2001</a></td></tr><tr><th scope="row" class="tg-infobox-label">Runtime</th><td class="tg-infobox-data"><b>Theatrical:</b><br/>178 min.<br/><b>Extended Edition:</b><br/>208 min.</td></tr><tr><th scope="row" class="tg-infobox-label">Quốc gia</th><td class="tg-infobox-data">New Zealand &amp; USA</td></tr><tr><th scope="row" class="tg-infobox-label">Ngôn ngữ</th><td class="tg-infobox-data">Tiếng Anh</td></tr><tr><th scope="row" class="tg-infobox-label">Ngân sách</th><td class="tg-infobox-data">94 triệu USD</td></tr><tr><th scope="row" class="tg-infobox-label">Trang web</th><td class="tg-infobox-data"><a class="external text" href="http://www.lordoftherings.net" rel="noreferrer noopener" target="_blank">Trang web chính thức</a></td></tr><tr><th scope="row" class="tg-infobox-label">IMDb</th><td class="tg-infobox-data"><a class="external text" href="https://www.imdb.com/title/tt0120737" rel="noreferrer noopener" target="_blank">Hồ sơ</a></td></tr></tbody></table>
 
-<i><b>The Lord of the Rings: The Fellowship of the Ring</b></i> là bộ phim đầu tiên trong [*The Lord of the Rings* loạt phim](<The_Lord_of_the_Rings_(film_series).md>) của [Peter Jackson](../P/Peter_Jackson.md). Phim do Peter Jackson đạo diễn, trong khi kịch bản được viết bởi Peter Jackson, [Philippa Boyens](../P/Philippa_Boyens.md), [Fran Walsh](../F/Fran_Walsh.md) và Stephen Sinclair.
+<i><b>The Lord of the Rings: The Fellowship of the Ring</b></i> là bộ phim đầu tiên trong loạt phim [*The Lord of the Rings*](<The_Lord_of_the_Rings_(film_series).md>) của [Peter Jackson](../P/Peter_Jackson.md). Peter Jackson đạo diễn phim, còn kịch bản do Peter Jackson, [Philippa Boyens](../P/Philippa_Boyens.md), [Fran Walsh](../F/Fran_Walsh.md) và Stephen Sinclair chấp bút.
 
-Bộ phim kể lại cuộc phiêu lưu của [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md), lấy câu chuyện từ phần đầu tiên *[The Fellowship of the Ring](The_Fellowship_of_the_Ring.md)* và chương đầu tiên của *[The Two Towers](The_Two_Towers.md).*
+Bộ phim kể lại cuộc phiêu lưu của [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md), dựa trên phần đầu tiên, *[The Fellowship of the Ring](The_Fellowship_of_the_Ring.md)*, và chương đầu tiên của *[The Two Towers](The_Two_Towers.md)*.
 
-Đây là bộ phim đầu tiên trong bộ ba phim của Peter Jackson và được quay đồng thời ở nhiều địa điểm khác nhau trong [New Zealand](../N/New_Zealand.md). Với kinh phí U.S. 180 triệu USD, đây là một trong những bộ phim đắt nhất trong lịch sử điện ảnh. Quá trình chụp ảnh chính mất 14 tháng và quá trình hậu kỳ tiếp tục kéo dài sau đó. Bộ phim được công chiếu lần đầu tại Odeon Leicester Squareon, London, vào [ngày 10 tháng 12](../_/10_December.md) [2001](../_/2001.md). Tiếp theo là *[The Lord of the Rings: The Two Towers](The_Lord_of_the_Rings%253A_The_Two_Towers.md)* trong [2002](../_/2002.md).
+Đây là bộ phim đầu tiên trong bộ ba phim của Peter Jackson và được quay tại nhiều địa điểm khác nhau ở [New Zealand](../N/New_Zealand.md) trong cùng thời gian. Với kinh phí 180 triệu đô la Mỹ, đây là một trong những bộ phim có kinh phí cao nhất trong lịch sử điện ảnh. Quá trình quay phim chính kéo dài 14 tháng, còn công đoạn hậu kỳ tiếp tục trong thời gian dài sau đó. Bộ phim ra mắt tại rạp Odeon Leicester Square ở London vào ngày [10 tháng 12](../_/10_December.md) [2001](../_/2001.md). Phim tiếp theo là *[The Lord of the Rings: The Two Towers](The_Lord_of_the_Rings%253A_The_Two_Towers.md)*, ra mắt năm [2002](../_/2002.md).
 
 ## Tóm tắt {#Synopsis}
 
 <div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Mở rộng</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này cần được <b>mở rộng</b> và/hoặc sửa đổi. Hãy giúp đỡ wiki bằng cách <a class="external text" href="https://tolkiengateway.net/w/index.php?title=The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring&amp;action=edit" rel="noreferrer noopener" target="_blank">mở rộng nó</a>.<blockquote class="tg-quote noexcerpt">
-<p>...Đó là một câu chuyện dài...
+<p>...Chuyện kể ra thì dài lắm...
 </p>
 <p class="tg-quote-footer"><cite><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a></cite></p>
 </blockquote></div></div>
 
-[Sauron](../S/Sauron.md), chúa tể bóng tối, đã thức tỉnh và đe dọa chinh phục [Trung Địa](../M/Middle-earth.md). Để ngăn chặn cái ác cổ xưa này một lần và mãi mãi, Frodo Baggins phải tiêu diệt [Chiếc Nhẫn Chúa](The_One_Ring.md) trong ngọn lửa của [Núi Diệt Vong](../M/Mount_Doom.md). [Con Người](../M/Men.md), [Hobbit](../H/Hobbits.md), [Pháp sư](../W/Wizards.md), [Tiên](../E/Elves.md) và [Người Lùn](../D/Dwarves.md) hình thành một nhóm thông công để giúp ông thực hiện nhiệm vụ của mình.
+[Sauron](../S/Sauron.md), Chúa tể Bóng tối, đã thức tỉnh và đe dọa chinh phục [Trung Địa](../M/Middle-earth.md). Để chấm dứt hoàn toàn mối hiểm họa cổ xưa này, Frodo Baggins phải tiêu hủy [Nhẫn Chúa](The_One_Ring.md) trong ngọn lửa của [Núi Diệt Vong](../M/Mount_Doom.md). [Con Người](../M/Men.md), [Hobbit](../H/Hobbits.md), một [Pháp sư](../W/Wizards.md), một [Tiên](../E/Elves.md) và một [Người Lùn](../D/Dwarves.md) hợp thành một đoàn đồng hành để giúp cậu hoàn thành sứ mệnh.
 
 ## Lô đồ {#Plot}
 
 ### Mở đầu {#Prologue}
 
-Trong [Kỷ Đệ Nhị](../S/Second_Age.md) của [Trung Địa](../M/Middle-earth.md), [Những Chiếc Nhẫn Quyền Năng](../R/Rings_of_Power.md) tuyệt vời đã được rèn. [Ba](Three_Rings.md) được trao cho các lãnh chúa của [Tiên tộc](../E/Elves.md), [bảy](../S/Seven_Rings.md) được trao cho các lãnh chúa của [Người Lùn](../D/Dwarves.md) và [chín](../N/Nine_Rings.md) được trao cho các Vua của [Con Người](../M/Men.md). Tuy nhiên, [Chúa tể Bóng tối Sauron](../S/Sauron.md) đã bí mật rèn [Nhẫn Một](The_One_Ring.md) trong ngọn lửa của [Núi Diệt Vong](../M/Mount_Doom.md), và đã truyền phần lớn sức mạnh của mình vào Nhẫn Chúa để thống trị các Nhẫn khác và thống trị Trung Địa.
+Trong [Kỷ Đệ Nhị](../S/Second_Age.md) của [Trung Địa](../M/Middle-earth.md), [Những Chiếc Nhẫn Quyền Năng](../R/Rings_of_Power.md) vĩ đại đã được rèn ra. [Ba](Three_Rings.md) chiếc được trao cho các lãnh chúa của [Tiên tộc](../E/Elves.md), [bảy](../S/Seven_Rings.md) chiếc được trao cho các lãnh chúa của [Người Lùn](../D/Dwarves.md), còn [chín](../N/Nine_Rings.md) chiếc được trao cho các vị vua của [Con Người](../M/Men.md). Tuy nhiên, [Chúa tể Bóng tối Sauron](../S/Sauron.md) đã bí mật rèn [Nhẫn Chúa](The_One_Ring.md) trong ngọn lửa của [Núi Diệt Vong](../M/Mount_Doom.md), đồng thời truyền một phần lớn sức mạnh của mình vào chiếc Nhẫn này nhằm khuất phục những chiếc Nhẫn khác và cai trị Trung Địa.
 
 Sau khi hiểu rõ âm mưu của Chúa tể Bóng tối, Con Người và Tiên tộc đã thành lập một [Liên minh](../L/Last_Alliance_of_Elves_and_Men.md) và chiến đấu với các lực lượng Sauron trong [Mordor](../M/Mordor.md). Trong trận chiến, [Elendil](../E/Elendil.md), Vua của Con Người của [Gondor](../G/Gondor.md), đã bị giết khi cố gắng tấn công Sauron. Sau đó, con trai của Elendil [Isildur](../I/Isildur.md) đã lấy thanh kiếm gãy [Narsil](../N/Narsil.md) của cha mình và cắt đứt các ngón tay Sauron, khiến chiếc Nhẫn rời khỏi tay Chúa tể Bóng tối. Việc bị tách khỏi Chiếc nhẫn khiến linh hồn Sauron rời khỏi hình dạng cơ thể và có vẻ như Liên minh Con Người và Tiên tộc đã thành công trong việc đánh bại ông.
 
@@ -103,90 +103,90 @@ Sau trận chiến, Isildur đi theo Tiên [Elrond](../E/Elrond.md) đến [Crac
 
 Sáu mươi năm sau tại [ Shire](The_Shire.md), nơi Bilbo sống cùng cháu trai của mình, [Frodo Baggins](../F/Frodo_Baggins.md), Bilbo tổ chức lễ sinh nhật và biến mất một cách bí ẩn trong lễ hội. Bilbo được người bạn [Pháp sư](../W/Wizards.md) [Gandalf](../G/Gandalf.md) theo đến nhà anh ở [Bag End](../B/Bag_End.md). Gandalf nhận ra rằng Bilbo đã sử dụng Chiếc nhẫn Chúa để biến mất và thuyết phục được Hobbit khởi hành đến [Rivendell](../R/Rivendell.md) và để Chiếc nhẫn Chúa cho Frodo trông coi. Một thời gian sau, sau khi du hành tới [Minas Tirith](../M/Minas_Tirith.md) và nghiền ngẫm những cuốn sách liên quan đến Chiếc nhẫn, Gandalf quay trở lại The Shire và thông báo cho Frodo về bản chất xấu xa của Chiếc nhẫn. Gandalf sau đó cảnh báo Frodo rời khỏi Shire và sau khi phát hiện người làm vườn của Frodo [Samwise Gamgee](../S/Samwise_Gamgee.md) đang nghe lén cuộc trò chuyện của họ, đã đuổi Hobbit đi vì sự an toàn của chính họ.
 
-Sau khi khởi hành, Frodo và Sam đã gặp Hobbit [Meriadoc "Merry" Brandybuck](../M/Meriadoc_Brandybuck.md) và [Peregrin "Pippin" Took](../P/Peregrin_Took.md) đã bỏ trốn cùng với một số rau của [Farmer Maggot](../F/Farmer_Maggot.md). Merry và Pippin đã tham gia cùng Frodo và Sam trong hành trình đến [Bree](../B/Bree.md), nơi họ dự định gặp nhau Gandalf. Tuy nhiên, cuộc hành trình không phải là không có nguy hiểm khi Hobbit gặp phải một [Nazgûl](../N/Nazgûl.md) được Sauron cử đi tìm kiếm Chiếc nhẫn. Họ đã tránh được Ring Wraith trong gang tấc và tiếp tục lên đường.
+Sau khi khởi hành, Frodo và Sam gặp hai Hobbit là [Meriadoc "Merry" Brandybuck](../M/Meriadoc_Brandybuck.md) và [Peregrin "Pippin" Took](../P/Peregrin_Took.md), những người đã lấy trộm một ít rau của [Farmer Maggot](../F/Farmer_Maggot.md) rồi bỏ trốn. Merry và Pippin cùng Frodo và Sam tiếp tục hành trình đến [Bree](../B/Bree.md), nơi họ dự định gặp Gandalf. Tuy nhiên, cuộc hành trình đầy rẫy hiểm nguy: các Hobbit chạm trán một [Nazgûl](../N/Nazgûl.md) được Sauron phái đi tìm chiếc Nhẫn. Họ chỉ vừa kịp thoát khỏi tên Nazgûl rồi tiếp tục lên đường.
 
 Sau khi đến Bree, Hobbit vào một quán trọ [The Prancing Pony](The_Prancing_Pony.md) và yêu cầu Gandalf nhưng không tìm thấy Pháp sư. Thay vào đó, người Hobbit gặp phải một [Ranger](../R/Rangers_of_the_North.md) bí ẩn tên là [Strider (Aragorn)](<../S/Strider_(Aragorn).md>). Ranger hứa sẽ hộ tống họ đến [Rivendell](../R/Rivendell.md) và trên đường đến nơi ở Tiên, cả nhóm nghỉ ngơi tại [Weathertop](../W/Weathertop.md). Tuy nhiên, hành động bí mật của họ đã bị phá hỏng bởi Merry và Pippin đốt lửa để nấu bữa ăn, điều này đã thu hút sự chú ý của các Wraith Nhẫn. Trong trận chiến sau đó, Frodo bị thương nặng bởi [lưỡi Morgul](../M/Morgul_blade.md) của Nazgûl được gọi là [Vua Phù thủy](../W/Witch-king.md).
 
 Khi đang thu thập thảo dược để chữa vết thương đang mưng mủ của Frodo, Aragorn gặp phải Tiên [Arwen](../A/Arwen.md) người yêu của mình. Cô nhận Frodo cho anh chăm sóc và đi cùng anh về phía Rivendell để nhận thuốc Tiên. Trong cuộc hành trình, cô bị một nhóm Ring Wraith truy đuổi trên lưng ngựa. Đến [Ford of Bruinen](../F/Ford_of_Bruinen.md), cô triệu tập nước sông, cuốn trôi Nazgûl trong một trận lũ lụt.
 
-### Cái Hội đồng Elrond {#The_Council_of_Elrond}
+### Hội đồng Elrond {#The_Council_of_Elrond}
 
-Sau khi được Tiên tộc chữa lành ở Rivendell, Frodo đã gặp Gandalf, người từng bị Pháp sư [Saruman](../S/Saruman.md) giam giữ ở [Isengard](../I/Isengard.md). Sau khi biết được sự phản bội của Saruman, cha của Arwen Elrond đã quyết định không giữ Chiếc Nhẫn trong Rivendell. Elrond sau đó nắm giữ [Hội đồng](../C/Council_of_Elrond.md) gồm Tiên tộc, Con Người và Người Lùn nổi bật, tất cả đều tình cờ đến Rivendell vì nhiều mục đích khác nhau không liên quan đến Chiếc nhẫn, cũng như Frodo và Gandalf.
+Sau khi được các Tiên tộc ở Rivendell chữa lành, Frodo gặp Gandalf, người từng bị Pháp sư [Saruman](../S/Saruman.md) giam giữ tại [Isengard](../I/Isengard.md). Sau khi biết Saruman phản bội, Elrond, cha của Arwen, quyết định không giữ chiếc Nhẫn tại Rivendell. Sau đó, Elrond triệu tập một [Hội đồng](../C/Council_of_Elrond.md) gồm những nhân vật có địa vị cao trong hàng ngũ Tiên tộc, Con Người và Người Lùn. Tất cả đều tình cờ có mặt tại Rivendell vì những mục đích khác nhau, không ai trong số họ đến đó vì chiếc Nhẫn; Frodo và Gandalf cũng tham dự.
 
-Sau một hồi cân nhắc, Hội đồng quyết định rằng chiếc Nhẫn phải bị phá hủy trong đám cháy ở Núi Diệt Vong. Giữa cuộc tranh cãi liên quan đến chủng tộc nào sẽ chịu trách nhiệm chăm sóc Chiếc nhẫn, Frodo đã tình nguyện mang Chiếc nhẫn đến Mordor. Sau khi nhận trách nhiệm này, anh đã được tham gia cùng với Gandalf, Tiên [Legolas](../L/Legolas.md), Người Lùn [Gimli](../G/Gimli.md), Con Người [Boromir](../B/Boromir.md) và Aragorn, cũng như các đồng nghiệp Hobbit Merry, Pippin và Sam. Chín người bạn đồng hành vì thế đã hình thành nên [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md).
+Sau một hồi cân nhắc, Hội đồng quyết định rằng Nhẫn phải bị phá hủy trong ngọn lửa ở Núi Diệt Vong. Giữa cuộc tranh luận về việc chủng tộc nào sẽ chịu trách nhiệm giữ Nhẫn, Frodo tình nguyện mang Nhẫn đến Mordor. Sau khi nhận trọng trách này, cậu có Gandalf, Tiên [Legolas](../L/Legolas.md), Người Lùn [Gimli](../G/Gimli.md), những Con Người [Boromir](../B/Boromir.md) và Aragorn, cùng những người bạn Hobbit Merry, Pippin và Sam đồng hành. Như vậy, chín người bạn đồng hành đã hợp thành [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md).
 
 ### Moria {#Moria}
 
-Trước khi Frodo khởi hành, Bilbo, hiện sống ở Rivendell, đã đưa Frodo thanh kiếm [Sting](../S/Sting.md) và [Áo khoác Mithril](../M/Mithril-coat.md) của mình. Sau khi khởi hành từ Rivendell, Đoàn đi về hướng [Gap of Rohan](../G/Gap_of_Rohan.md). Sau khi phát hiện ra con đường đến Gap bị gián điệp của Saruman lây nhiễm, thay vào đó họ lại khởi hành qua đèo [Caradhras](../C/Caradhras.md). Suy luận chính xác đường đi của mình, Saruman triệu hồi một cơn bão lớn đẩy Hội đồng hành vào [Mỏ Moria](../M/Moria.md). Sau khi mở được [Cánh cửa Durin](../D/Doors_of_Durin.md) để vào Mỏ, Fellowship đã bị tấn công bởi [Người canh gác dưới nước](../W/Watcher_in_the_Water.md), một con quái vật nước có xúc tu, kẻ đã chặn lối vào cùng với Fellowship bên trong. Điều này khiến họ không còn lựa chọn nào khác ngoài việc tiếp tục đi qua khu mỏ để đến lối ra ở phía bên kia của Ngọn núi.
+Trước khi Frodo khởi hành, Bilbo, lúc này đang sống ở Rivendell, trao cho Frodo thanh kiếm [Sting](../S/Sting.md) và [Áo giáp mithril](../M/Mithril-coat.md) của mình. Rời Rivendell, Đoàn Hộ Nhẫn đi về phía [Gap of Rohan](../G/Gap_of_Rohan.md). Khi phát hiện con đường đến Gap đầy rẫy gián điệp của Saruman, họ chuyển sang vượt qua đèo núi [Caradhras](../C/Caradhras.md). Đoán đúng lộ trình của họ, Saruman triệu hồi một cơn bão lớn, buộc Đoàn Hộ Nhẫn phải đi vào [Hầm mỏ Moria](../M/Moria.md). Sau khi mở được [Cánh cửa Durin](../D/Doors_of_Durin.md) để vào hầm mỏ, Đoàn Hộ Nhẫn bị [Kẻ canh gác dưới nước](../W/Watcher_in_the_Water.md), một quái vật nước có xúc tu, tấn công. Nó chặn lối vào, nhốt cả đoàn bên trong. Vì thế, họ không còn lựa chọn nào khác ngoài việc tiếp tục đi xuyên qua hầm mỏ để đến lối ra ở phía bên kia ngọn núi.
 
 Sau khi phát hiện Moria chứa đầy Người Lùn đã chết, nhiều người trong số họ là họ hàng của Gimli, Pippin đã vô tình đẩy một bộ xương xuống giếng, gây ra rất nhiều tiếng ồn và thu hút sự chú ý của Orc trong Mỏ, người cùng với một [con quỷ hang động](../C/Cave-trolls.md) khổng lồ đã tiến hành một cuộc tấn công vào Fellowship. Chín người bạn đồng hành đã cố gắng ngăn chặn cuộc tấn công dữ dội trong một thời gian và sau khi một tiếng động ầm ầm vang vọng khắp [ngôi mộ](../B/Balin's_Tomb.md) nơi họ đang chiến đấu, Orc đã bỏ chạy. Mối nguy hiểm vẫn chưa giảm bớt khi họ phát hiện ra rằng tiếng ầm ầm đó là của [Balrog](../B/Balrogs.md) [Tai họa của Durin](../D/Durin's_Bane.md), một con quỷ cổ xưa [Maiar](../M/Maiar.md) phục vụ [Morgoth](../M/Morgoth.md) trong [War of Wrath](../W/War_of_Wrath.md).
 
-Cầu xin những người còn lại trong Hội hãy chạy trốn, Gandalf đối mặt với Balrog trên [Cầu Khazad-dûm](../B/Bridge_of_Khazad-dûm.md). Gandalf đã cố gắng che chắn cho những người bạn đồng hành của mình khỏi cuộc tấn công của Balrog và đánh sập cây cầu nơi Tai họa của Durin đứng. Tuy nhiên, khi Balrog rơi xuống vực sâu bên dưới, nó vung ngọn roi rực lửa tóm lấy đầu gối của Gandalf và kéo ông xuống vực thẳm cùng với nó.
+Khẩn khoản thúc giục những người còn lại trong Đoàn Hộ Nhẫn chạy trốn, Gandalf đối đầu với Balrog trên [Cầu Khazad-dûm](../B/Bridge_of_Khazad-dûm.md). Gandalf bảo vệ những người bạn đồng hành trước đòn tấn công của Balrog, rồi đánh sập cây cầu nơi Tai họa của Durin đang đứng. Tuy nhiên, khi Balrog rơi xuống vực sâu bên dưới, nó vung chiếc roi lửa quất tới, quấn lấy đầu gối Gandalf và kéo ông xuống vực thẳm cùng nó.
 
 ### Lothlórien {#Lothlórien}
 
-Hội Fellowship, bị tàn phá bởi cái chết rõ ràng của Gandalf, tiếp tục cuộc hành trình cho đến khi họ đến được [Lothlórien](../L/Lothlórien.md), một vương quốc rừng được cai trị bởi Tiên [Galadriel](../G/Galadriel.md). Galadriel đã gặp riêng Frodo, người đã nhìn thoáng qua [Tấm gương](../M/Mirror_of_Galadriel.md) của bà và nhìn thấy một viễn cảnh trong đó Sauron đã thành công trong việc thống trị Trung Địa. Sau khi nhận được lời khuyên của Galadriel, Frodo đã hiểu được tầm quan trọng của nhiệm vụ của mình và rằng chỉ có anh mới có thể mang Chiếc nhẫn đến Núi Diệt Vong.
+Đau buồn trước cái chết tưởng chừng như đã xảy ra của Gandalf, Đoàn Hộ Nhẫn tiếp tục cuộc hành trình cho đến khi đến [Lothlórien](../L/Lothlórien.md), một vương quốc rừng do Tiên tộc [Galadriel](../G/Galadriel.md) cai quản. Galadriel gặp riêng Frodo. Cậu nhìn vào [Tấm gương](../M/Mirror_of_Galadriel.md) của bà và chứng kiến một viễn cảnh trong đó Sauron thành công trong việc thống trị Trung Địa. Sau khi nghe Galadriel chỉ dẫn, Frodo hiểu được tầm quan trọng của sứ mệnh và nhận ra rằng chỉ mình cậu mới có thể mang Nhẫn đến Núi Diệt Vong.
 
 Sau khi nghỉ ngơi, Đoàn chuẩn bị khởi hành từ Lothlórien, đồng thời tặng Galadriel những món quà hỗ trợ cho chuyến hành trình của các em. Những món quà này bao gồm Tiên áo choàng cho cả nhóm, nơ [Galadhrim](../G/Galadhrim.md) cho Legolas, dao găm cho Merry và Pippin, dây thừng cho Sam, ba sợi tóc trên đầu của bà cho Gimli và [Phial của Galadriel](../P/Phial_of_Galadriel.md) cho Frodo. Chồng của Galadriel cũng [Celeborn](../C/Celeborn.md) đưa cho Aragorn một con dao.
 
-Trong khi đó, tại Isengard, Saruman đã triệu tập lực lượng [Uruk-hai](../U/Uruk-hai.md) để truy lùng và tiêu diệt Fellowship.
+Trong khi đó, tại Isengard, Saruman triệu tập một lực lượng [Uruk-hai](../U/Uruk-hai.md) để truy lùng và tiêu diệt Đoàn Hộ Nhẫn.
 
-### Việc phá vỡ Hiệp hội {#The_breaking_of_the_Fellowship}
+### Sự tan rã của Đoàn Hộ Nhẫn {#The_breaking_of_the_Fellowship}
 
 Sau khi nhận quà từ Galadriel, Đoàn đi đường sông tới [Parth Galen](../P/Parth_Galen.md). Khi Frodo đi lang thang trong khu vực, anh phải đối mặt với Boromir, như Quý cô Galadriel đã cảnh báo, đã cố gắng lấy Chiếc nhẫn từ Hobbit, nhưng Frodo đã trốn thoát được. Hiệp hội sau đó bị phục kích bởi một nhóm Uruk-hai của Saruman. Khi Uruk-hai cố gắng bắt cóc Hobbit, Boromir đã thoát khỏi sức mạnh của Chiếc nhẫn và bảo vệ Merry và Pippin, nhưng đội trưởng Uruk-Hai, [Lurtz](../L/Lurtz.md) đã bị giết. Sau cái chết của Boromir, Merry và Pippin bị Uruk-hai bắt giữ. Aragorn đến hiện trường trận chiến của Boromir và giết chết Lurtz. Aragorn sau đó an ủi Boromir khi anh qua đời và hứa sẽ giúp đỡ người dân Gondor trong [Chiến tranh](../W/War_of_the_Ring.md) sắp tới.
 
-Chứng kiến ​​sức mạnh thối nát của Chiếc nhẫn, Frodo rời đi một mình du hành đến Mordor. Từ chối không cho anh đi cùng, Sam tham gia cùng anh trong cuộc hành trình và thực hiện đúng lời hứa với Gandalf sẽ chăm sóc Frodo. Legolas, Aragorn và Gimli lên đường giải cứu Merry và Pippin khỏi Uruk-hai trong khi Frodo và Sam đi một mình về phía Mordor.
+Chứng kiến quyền năng tha hóa của Nhẫn, Frodo lên đường đến Mordor một mình. Sam không chịu để cậu lên đường đơn độc nên đi cùng, đồng thời giữ lời hứa với Gandalf là sẽ chăm nom Frodo. Legolas, Aragorn và Gimli lên đường giải cứu Merry và Pippin khỏi bọn Uruk-hai, trong khi Frodo và Sam đơn độc tiến về Mordor.
 
 ## Cảnh {#Scenes}
 
-1. [Prologue: One Ring to Rule Them All...](../P/Prologue%253A_One_Ring_to_Rule_Them_All....md) \*\*
-2. [Về Hobbit](<../C/Concerning_Hobbits_(scene).md>) \*
-3. [The Shire](<The_Shire_(scene).md>) \*\*
-4. [Những người bạn rất cũ](../V/Very_Old_Friends.md) \*\*
-5. [Bữa tiệc được mong đợi từ lâu](<../A/A_Long-expected_Party_(scene).md>) \*\*
-6. [Tạm biệt em Bilbo](../F/Farewell_Dear_Bilbo.md)
+1. [Prologue: One Ring to Rule Them All...](../P/Prologue%253A_One_Ring_to_Rule_Them_All....md) **
+2. [Đôi điều về Hobbit](<../C/Concerning_Hobbits_(scene).md>) *
+3. [The Shire](<The_Shire_(scene).md>) **
+4. [Những người bạn lâu năm](../V/Very_Old_Friends.md) **
+5. [Bữa tiệc được mong chờ từ lâu](<../A/A_Long-expected_Party_(scene).md>) **
+6. [Tạm biệt, Bilbo thân mến](../F/Farewell_Dear_Bilbo.md)
 7. [Giữ bí mật, giữ an toàn](<../K/Keep_It_Secret,_Keep_It_Safe_(scene).md>)
-8. [Tài khoản của Isildur](The_Account_of_Isildur.md)
-9. [Tại sân cỏ Rồng](../A/At_the_Green_Dragon.md) \*
-10. [ Bóng Tối của quá khứ](<The_Shadow_of_the_Past_(scene).md>)
-11. [Sự ra đi của Tiên tộc](<The_Passing_of_the_Elves_(scene).md>) \*
-12. [Saruman phe Trắng](<../S/Saruman_the_White_(scene).md>)
-13. [Cách cắt ngắn về nấm](<../A/A_Short_Cut_to_Mushrooms_(scene).md>)
+8. [Lời kể về Isildur](The_Account_of_Isildur.md)
+9. [Tại quán Rồng Xanh](../A/At_the_Green_Dragon.md) *
+10. [Bóng Tối của quá khứ](<The_Shadow_of_the_Past_(scene).md>)
+11. [Cuộc ra đi của Tiên tộc](<The_Passing_of_the_Elves_(scene).md>) *
+12. [Saruman Áo Trắng](<../S/Saruman_the_White_(scene).md>)
+13. [Đường tắt đến chỗ có nấm](<../A/A_Short_Cut_to_Mushrooms_(scene).md>)
 14. [Bến phà Bucklebury](<../B/Bucklebury_Ferry_(scene).md>)
-15. [Tại Ký hiệu The Prancing Pony](<../A/At_the_Sign_of_The_Prancing_Pony_(scene).md>)
-16. [Cái Nazgûl](<The_Nazgûl_(scene).md>)
-17. [Đầm lầy Midwater](The_Midgewater_Marshes.md) \*
-18. [Sự làm hỏng Isengard](The_Spoiling_of_Isengard.md)
+15. [Tại quán The Prancing Pony](<../A/At_the_Sign_of_The_Prancing_Pony_(scene).md>)
+16. [Nazgûl](<The_Nazgûl_(scene).md>)
+17. [Đầm lầy Midgewater](The_Midgewater_Marshes.md) *
+18. [Sự tàn phá Isengard](The_Spoiling_of_Isengard.md)
 19. [Con dao trong bóng tối](<../A/A_Knife_in_the_Dark_(scene).md>)
-20. [Hang động Isengard](<The_Caverns_of_Isengard_(scene).md>)
-21. [Chuyến bay tới chiếc Ford](<../F/Flight_to_the_Ford_(scene).md>) \*\*
+20. [Những hang động ở Isengard](<The_Caverns_of_Isengard_(scene).md>)
+21. [Cuộc chạy trốn đến Khúc cạn](<../F/Flight_to_the_Ford_(scene).md>) **
 22. [Rivendell](<../R/Rivendell_(scene).md>)
-23. [Nhiều cuộc họp](<../M/Many_Meetings_(scene).md>)
-24. [Số phận của chiếc nhẫn](The_Fate_of_the_Ring.md)
-25. [Thanh kiếm đã gãy](The_Sword_that_Was_Broken.md) \*\*
-26. [Sao chẵn](<The_Evenstar_(The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_scene).md>)
-27. [Cái Hội đồng Elrond](<The_Council_of_Elrond_(scene).md>) \*\*
-Lễ tưởng niệm 28. [Gilraen](../G/Gilraen's_Memorial.md) \*
-Quà tặng của 29. [Bilbo](../B/Bilbo's_Gifts.md)
-30. [Sự khởi đầu của học bổng](The_Departure_of_The_Fellowship.md) \*
-31. [Vòng tiến về phía Nam](<The_Ring_Goes_South_(scene).md>) \*\*
-32. [Thẻ của Caradhras](The_Pass_of_Caradhras.md) \*\*
-33. [Moria](<../M/Moria_(scene).md>) \*\*
-34. [Hành trình trong bóng tối](<../A/A_Journey_in_the_Dark_(scene).md>) \*\*
-Lăng mộ của 35. [Balin](<../B/Balin's_Tomb_(scene).md>) \*\*
-36. [ Cầu Khazad-dûm](<The_Bridge_of_Khazad-dûm_(scene).md>)
-37. [Lothlórien](<../L/Lothlórien_(scene).md>) \*\*
-38. [Caras Galadhon](<../C/Caras_Galadhon_(scene).md>) \*\*
-39. [Tấm gương của Galadriel](<The_Mirror_of_Galadriel_(scene).md>) \*\*
+23. [Nhiều cuộc gặp gỡ](<../M/Many_Meetings_(scene).md>)
+24. [Số phận của Nhẫn Chúa](The_Fate_of_the_Ring.md)
+25. [Thanh kiếm từng bị gãy](The_Sword_that_Was_Broken.md) **
+26. [Ngôi sao Hôm](<The_Evenstar_(The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_scene).md>)
+27. [Hội đồng Elrond](<The_Council_of_Elrond_(scene).md>) **
+28. [Lễ tưởng niệm Gilraen](../G/Gilraen's_Memorial.md) *
+29. [Những món quà của Bilbo](../B/Bilbo's_Gifts.md)
+30. [Sự ra đi của The Fellowship](The_Departure_of_The_Fellowship.md) *
+31. [Nhẫn Chúa tiến về phương Nam](<The_Ring_Goes_South_(scene).md>) **
+32. [Đèo Caradhras](The_Pass_of_Caradhras.md) **
+33. [Moria](<../M/Moria_(scene).md>) **
+34. [Hành trình trong bóng tối](<../A/A_Journey_in_the_Dark_(scene).md>) **
+35. [Mộ của Balin](<../B/Balin's_Tomb_(scene).md>) **
+36. [Cầu Khazad-dûm](<The_Bridge_of_Khazad-dûm_(scene).md>)
+37. [Lothlórien](<../L/Lothlórien_(scene).md>) **
+38. [Caras Galadhon](<../C/Caras_Galadhon_(scene).md>) **
+39. [Tấm gương của Galadriel](<The_Mirror_of_Galadriel_(scene).md>) **
 40. [Trận chiến Uruk-hai](The_Fighting_Uruk-hai.md)
-41. [Tạm biệt Lórien](<../F/Farewell_to_Lórien_(scene).md>) \*\*
-42. [Sông Lớn](<The_Great_River_(scene).md>) \*\*
+41. [Tạm biệt Lórien](<../F/Farewell_to_Lórien_(scene).md>) **
+42. [Đại Hà](<The_Great_River_(scene).md>) **
 43. [Parth Galen](<../P/Parth_Galen_(scene).md>)
-44. [Sự tan vỡ của mối thông công](<The_Breaking_of_the_Fellowship_(scene).md>) \*\*
+44. [Sự tan rã của The Fellowship](<The_Breaking_of_the_Fellowship_(scene).md>) **
 45. [Sự ra đi của Boromir](<The_Departure_of_Boromir_(scene).md>)
 46. [The Road Goes Ever On...](<The_Road_Goes_Ever_On..._(scene).md>)
-47. Tín dụng
-48. Tín dụng chính thức của Câu lạc bộ người hâm mộ \*
+47. Danh đề cuối phim
+48. Danh đề Câu lạc bộ người hâm mộ chính thức *
 
 \* biểu thị một cảnh chỉ có trong bản cắt Phiên bản mở rộng của phim.<br> \*\* biểu thị một cảnh bao gồm nội dung mở rộng chỉ có trong bản cắt Phiên bản mở rộng của phim.
 
@@ -231,7 +231,7 @@ Lăng mộ của 35. [Balin](<../B/Balin's_Tomb_(scene).md>) \*\*
 </td></tr>
 <tr>
 <td><a href="../P/Peter_Corrigan.md" title="Peter Corrigan">Peter Corrigan</a></td>
-<td><a href="../O/Otho_Sackville-Baggins.md" title="Otho Sackville-Baggins">Otho</a> (Chỉ phiên bản mở rộng)
+<td><a href="../O/Otho_Sackville-Baggins.md" title="Otho Sackville-Baggins">Otho</a> (chỉ xuất hiện trong Bản mở rộng)
 </td></tr>
 <tr>
 <td><a href="../M/Marton_Csokas.md" title="Marton Csokas">Marton Csokas</a></td>
@@ -239,7 +239,7 @@ Lăng mộ của 35. [Balin](<../B/Balin's_Tomb_(scene).md>) \*\*
 </td></tr>
 <tr>
 <td><a href="../L/Lori_Dungey.md" title="Lori Dungey">Lori Dungey</a></td>
-<td><a href="../M/Mrs_Bracegirdle.md" title="Mrs Bracegirdle">Bà. Bracegirdle</a> (Chỉ phiên bản mở rộng)
+<td><a href="../M/Mrs_Bracegirdle.md" title="Mrs Bracegirdle">Mrs. Bracegirdle</a> (chỉ xuất hiện trong Bản mở rộng)
 </td></tr>
 <tr>
 <td><a href="../M/Megan_Edwards.md" title="Megan Edwards">Megan Edwards</a></td>
@@ -255,7 +255,7 @@ Lăng mộ của 35. [Balin](<../B/Balin's_Tomb_(scene).md>) \*\*
 </td></tr>
 <tr>
 <td><a href="../N/Norman_Forsey.md" title="Norman Forsey">Norman Forsey</a></td>
-<td><a class="mw-redirect" href="../H/Hamfast_Gamgee.md" title="Hamfast Gamgee">Gaffer Gamgee</a> (Chỉ phiên bản mở rộng)
+<td><a class="mw-redirect" href="../H/Hamfast_Gamgee.md" title="Hamfast Gamgee">Gaffer Gamgee</a> (chỉ xuất hiện trong Bản mở rộng)
 </td></tr>
 <tr>
 <td><a href="../I/Ian_Holm.md" title="Ian Holm">Ian Holm</a></td>
@@ -263,7 +263,7 @@ Lăng mộ của 35. [Balin](<../B/Balin's_Tomb_(scene).md>) \*\*
 </td></tr>
 <tr>
 <td><a href="../W/William_Johnson.md" title="William Johnson">William Johnson</a></td>
-<td><a href="../O/Old_Noakes.md" title="Old Noakes">Old Noakes</a> (Chỉ phiên bản mở rộng)
+<td><a href="../O/Old_Noakes.md" title="Old Noakes">Old Noakes</a> (chỉ xuất hiện trong Bản mở rộng)
 </td></tr>
 <tr>
 <td><a href="../I/Ian_McKellen.md" title="Ian McKellen">Ian McKellen</a></td>
@@ -295,7 +295,7 @@ Lăng mộ của 35. [Balin](<../B/Balin's_Tomb_(scene).md>) \*\*
 </td></tr>
 <tr>
 <td><a href="../E/Elizabeth_Moody.md" title="Elizabeth Moody">Elizabeth Moody</a></td>
-<td><a href="../L/Lobelia_Sackville-Baggins.md" title="Lobelia Sackville-Baggins">Lobelia</a> (Chỉ phiên bản mở rộng)
+<td><a href="../L/Lobelia_Sackville-Baggins.md" title="Lobelia Sackville-Baggins">Lobelia</a> (chỉ xuất hiện trong Bản mở rộng)
 </td></tr>
 <tr>
 <td><a href="../V/Viggo_Mortensen.md" title="Viggo Mortensen">Viggo Mortensen</a></td>
@@ -323,7 +323,7 @@ Lăng mộ của 35. [Balin](<../B/Balin's_Tomb_(scene).md>) \*\*
 </td></tr>
 <tr>
 <td><a href="../B/Brian_Sergent.md" title="Brian Sergent">Brian Sergent</a></td>
-<td><a href="Ted_Sandyman.md" title="Ted Sandyman">Ted Sandyman</a> (Chỉ phiên bản mở rộng)
+<td><a href="Ted_Sandyman.md" title="Ted Sandyman">Ted Sandyman</a> (chỉ xuất hiện trong Bản mở rộng)
 </td></tr>
 <tr>
 <td><a href="../A/Andy_Serkis.md" title="Andy Serkis">Andy Serkis</a></td>
@@ -563,7 +563,7 @@ Lăng mộ của 35. [Balin](<../B/Balin's_Tomb_(scene).md>) \*\*
 </td></tr>
 <tr>
 <td><a href="../A/Andy_Serkis.md" title="Andy Serkis">Andy Serkis</a></td>
-<td><a href="../N/Nazgûl.md" title="Nazgûl">Kỵ Sĩ Đen</a>, <a href="../W/Witch-king.md" title="Witch-king">Vua Phù thủy</a> (giọng nói)
+<td><a href="../N/Nazgûl.md" title="Nazgûl">Kỵ Sĩ Đen</a>, <a href="../W/Witch-king.md" title="Witch-king">Vua Phù thủy</a> (lồng tiếng)
 </td></tr>
 <tr>
 <td><a href="../F/Fran_Walsh.md" title="Fran Walsh">Fran Walsh</a></td>
@@ -582,7 +582,7 @@ Lăng mộ của 35. [Balin](<../B/Balin's_Tomb_(scene).md>) \*\*
 
 *The Fellowship of the Ring* sử dụng rộng rãi các hiệu ứng đặc biệt về kỹ thuật số, thực tế và trang điểm xuyên suốt. Một hiệu ứng đáng chú ý xuất hiện trong hầu hết mọi cảnh liên quan đến việc thiết lập tỷ lệ thích hợp để các nhân vật đều có chiều cao phù hợp. Elijah Wood, người đóng vai Frodo, ngoài đời cao 5 ft 6 in (1,68 m); nhưng nhân vật Frodo Baggins chỉ cao gần 4 feet. Nhiều thủ thuật khác nhau đã được sử dụng để coi người hobbit (và Gimli Người Lùn) là nhỏ bé. Các diễn viên đóng thế lớn và nhỏ được sử dụng trong một số cảnh nhất định, trong khi toàn bộ bản sao của một số bối cảnh nhất định (đặc biệt là Bag End trong Hobbiton) được xây dựng ở hai tỷ lệ khác nhau để các nhân vật có vẻ ngoài có kích thước phù hợp. Tại một thời điểm trong phim Frodo chạy dọc theo một hành lang ở Bag End, tiếp theo là Gandalf. Elijah Wood và Ian McKellen được quay trong các phiên bản riêng biệt của cùng một hành lang, được xây dựng ở hai quy mô khác nhau và một lia máy quay nhanh sẽ che giấu phần chỉnh sửa giữa hai quy mô. Phối cảnh bắt buộc cũng được sử dụng, khiến có vẻ như những người hobbit thấp đang tương tác với Con Người và Tiên tộc cao hơn. Điều khiến các nhà làm phim ngạc nhiên là việc quỳ gối đã được sử dụng để tạo hiệu ứng tuyệt vời.
 
-Đối với trận chiến giữa Liên minh Cuối cùng và lực lượng Sauron bắt đầu bộ phim, một hệ thống hoạt hình CGI phức tạp, được gọi là Massive, đã được phát triển để cho phép hàng nghìn "nhân vật" hoạt hình riêng lẻ trong chương trình hành động khác nhau. Điều này đã giúp tạo ảo giác về chủ nghĩa hiện thực cho các phân cảnh chiến đấu.
+*The Fellowship of the Ring* sử dụng rộng rãi các hiệu ứng đặc biệt kỹ thuật số, thực cảnh và hóa trang. Một hiệu ứng nổi bật xuất hiện trong hầu hết mọi cảnh là việc điều chỉnh tỷ lệ để bảo đảm các nhân vật có chiều cao phù hợp. Elijah Wood, người thủ vai Frodo, ngoài đời cao 5 ft 6 in (1,68 m), trong khi Frodo Baggins chỉ cao chưa đầy bốn feet. Nhiều thủ thuật khác nhau được sử dụng để khiến các Hobbit (và Gimli, một Người Lùn) trông nhỏ bé. Trong một số cảnh, các diễn viên đóng thế có vóc dáng lớn hoặc nhỏ được sử dụng; ngoài ra, các bản sao hoàn chỉnh của một số bối cảnh, đặc biệt là Bag End ở Hobbiton, được dựng theo hai tỷ lệ khác nhau để các nhân vật trông có kích thước phù hợp. Trong một cảnh của phim, Frodo chạy dọc hành lang ở Bag End, còn Gandalf chạy theo sau. Elijah Wood và Ian McKellen được quay riêng trong hai phiên bản của cùng một hành lang, được dựng theo hai tỷ lệ khác nhau; một cú lia máy nhanh che đi điểm cắt nối giữa hai cảnh quay. Các nhà làm phim cũng sử dụng thủ pháp phối cảnh cưỡng bức, khiến các Hobbit thấp bé trông như đang tương tác với Con Người và Tiên tộc cao lớn hơn. Ngay cả các nhà làm phim cũng bất ngờ trước hiệu quả mà thủ pháp quỳ gối mang lại.
 
 ## Địa điểm quay phim {#Filming_locations}
 
@@ -683,7 +683,7 @@ Danh sách các địa điểm quay phim, sắp xếp theo thứ tự xuất hi�
 
 Jackson, Walsh và Boyens đã thực hiện nhiều thay đổi trong câu chuyện. Jackson cho biết mong muốn chính của anh là làm một bộ phim tập trung chủ yếu vào Frodo và Chiếc nhẫn, "xương sống" của câu chuyện. Đoạn mở đầu cô đọng cốt truyện của Tolkien, trong đó cuộc vây hãm [Barad-dûr](../B/Barad-dûr.md) kéo dài bảy năm của Liên minh Cuối cùng là một trận chiến duy nhất, trong đó [Sauron](../S/Sauron.md) được cho là sẽ phát nổ, mặc dù Tolkien chỉ nói rằng linh hồn của ông đã chạy trốn.
 
-Các sự kiện ở đầu phim được cô đọng hoặc lược bỏ hoàn toàn. Trong cuốn sách, khoảng thời gian từ khi Gandalf rời khỏi Chiếc nhẫn đến Frodo cho đến khi quay lại để lộ dòng chữ trên đó, tức là 17 năm, bị nén lại vì lý do thời gian. Vì lý do này, Frodo có cùng độ tuổi với Sam, Merry và Pippin trong phim. Frodo cũng dành vài tháng để chuẩn bị chuyển đến Buckland, ở biên giới phía đông của quận. Động tác này bị bỏ qua và kết hợp với việc ông lên đường tới Bree. Cũng được nén là thời gian giữa Frodo và Sam rời Bag End và cuộc họp của họ Merry và Pippin. Các ký tự như [Tom Bombadil](Tom_Bombadil.md) bị lược bỏ để đơn giản hóa cốt truyện. Những trình tự như vậy được lược bỏ để dành thời gian giới thiệu Saruman, người không xuất hiện trong cuốn sách cho đến khi tài khoản của Gandalf tại Hội đồng Elrond. Vai trò của Saruman được nâng cao: ông phải chịu trách nhiệm về trận bão tuyết trên Caradhras, một vai trò được lấy từ Sauron và/hoặc chính Caradhras trong cuốn sách. Việc Gandalf bị bắt bởi Saruman có thêm một cảnh chiến đấu.
+Các sự kiện ở đầu phim được cô đọng hoặc lược bỏ hoàn toàn. Trong sách, khoảng thời gian 17 năm từ lúc Gandalf để lại chiếc nhẫn cho Frodo đến khi trở lại tiết lộ dòng chữ trên nhẫn được rút ngắn vì lý do thời lượng. Vì vậy, trong phim, Frodo có độ tuổi gần bằng Sam, Merry và Pippin. Frodo cũng dành vài tháng chuẩn bị chuyển đến Buckland, nằm ở ranh giới phía đông Shire. Việc chuyển nhà này bị lược bỏ và gộp vào chuyến lên đường đến Bree. Khoảng thời gian từ lúc Frodo và Sam rời Bag End đến khi gặp Merry và Pippin cũng được rút ngắn. Những nhân vật như [Tom Bombadil](Tom_Bombadil.md) bị lược bỏ để đơn giản hóa cốt truyện. Những phân đoạn này được bỏ đi để dành thời lượng giới thiệu Saruman, nhân vật chỉ xuất hiện trong sách khi Gandalf kể lại sự việc tại Hội đồng Elrond. Vai trò của Saruman được tăng cường: trong phim, hắn phải chịu trách nhiệm về trận bão tuyết trên Caradhras, trong khi ở sách, vai trò này thuộc về Sauron và/hoặc chính Caradhras. Cảnh Saruman bắt Gandalf được bổ sung một màn giao chiến.
 
 Vai trò của [Barliman Butterbur](../B/Barliman_Butterbur.md) tại [ Prancing Pony](The_Prancing_Pony.md) phần lớn bị loại bỏ trong một thời gian, mặc dù nhân vật này có xuất hiện thoáng qua.
 
@@ -743,7 +743,7 @@ Phiên bản mở rộng của *The Fellowship of the Ring* và bộ phim thứ 
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>
-<th align="center" style="background:var(--tg-color-surface-5)" colspan="3"><b>Chuyển thể màn hình các tác phẩm của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> được cấp phép</b>
+<th align="center" style="background:var(--tg-color-surface-5)" colspan="3"><b>Các tác phẩm chuyển thể lên màn ảnh từ những tác phẩm của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> được cấp phép</b>
 </th></tr>
 <tr>
 <th align="center" style="background:var(--tg-color-surface-4); padding-right: 4px;"><b>Phim hoạt hình</b>
@@ -753,7 +753,7 @@ Phiên bản mở rộng của *The Fellowship of the Ring* và bộ phim thứ 
 <tr>
 <th align="center" style="background:var(--tg-color-surface-4); padding-right: 4px;" rowspan="3"><b>Live-action</b><br/><small>(New Line Cinema)</small>
 </th>
-<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;"><b><a href="The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings </i>loạt</a></b>
+<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;"><b><a href="The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)">loạt phim <i>The Lord of the Rings</i></a></b>
 </th>
 <td style="font-size: 90%; padding-left: 4px;"><i><a class="mw-selflink selflink">The Fellowship of the Ring</a></i> (2001) · <i><a href="The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Two Towers</a></i> (2002) · <i><a href="The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">The Return of the King</a></i> (2003)
 </td></tr>
@@ -765,25 +765,25 @@ Phiên bản mở rộng của *The Fellowship of the Ring* và bộ phim thứ 
 <tr>
 <th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;"><b>Các phim khác</b>
 </th>
-<td style="font-size: 90%; padding-left: 4px;"><i><a href="The_Lord_of_the_Rings%253A_The_Hunt_for_Gollum.md" title="The Lord of the Rings: The Hunt for Gollum">The Hunt for Gollum</a></i> (2027, sắp ra mắt)
+<td style="font-size: 90%; padding-left: 4px;"><i><a href="The_Lord_of_the_Rings%253A_The_Hunt_for_Gollum.md" title="The Lord of the Rings: The Hunt for Gollum">The Hunt for Gollum</a></i> (2027, sắp khởi chiếu)
 </td></tr>
 <tr>
 <th align="center" style="font-size: 90%; background:var(--tg-color-surface-4); padding-left: 4px; padding-right: 4px;"><b>Loạt phim truyền hình</b>
 </th>
-<td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Rings of Power</a></i> (2022-nay)
+<td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Rings of Power</a></i> (2022–nay)
 </td></tr></tbody></table>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>
-<th align="center" style="background:var(--tg-color-surface-5)" colspan="3"><b><a href="The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings </i>loạt phim</a></b>
+<th align="center" style="background:var(--tg-color-surface-5)" colspan="3"><b><a href="The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)">loạt phim <i>The Lord of the Rings</i></a></b>
 </th></tr>
 <tr>
-<td align="center" style="background:var(--tg-color-surface-4); font-size: 90%;" colspan="3">Nguồn tư liệu: <i><a href="The_Hobbit.md" title="The Hobbit">The Hobbit</a></i> · <i><a href="The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>
+<td align="center" style="background:var(--tg-color-surface-4); font-size: 90%;" colspan="3">Nguyên tác: <i><a href="The_Hobbit.md" title="The Hobbit">The Hobbit</a></i> · <i><a href="The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>
 </td></tr>
 <tr>
 <th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;">Phim
 </th>
-<td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a class="mw-selflink selflink">The Fellowship of the Ring</a></i> (<a href="The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(extended_edition).md" title="The Lord of the Rings: The Fellowship of the Ring (extended edition)">ấn bản mở rộng</a>)· <i><a href="The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Two Towers</a></i> (<a href="The_Lord_of_the_Rings%253A_The_Two_Towers_(extended_edition).md" title="The Lord of the Rings: The Two Towers (extended edition)">ấn bản mở rộng</a>) · <i><a href="The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">The Return of the King</a></i> (<a href="The_Lord_of_the_Rings%253A_The_Return_of_the_King_(extended_edition).md" title="The Lord of the Rings: The Return of the King (extended edition)">ấn bản mở rộng</a>)
+<td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a class="mw-selflink selflink">The Fellowship of the Ring</a></i> (<a href="The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(extended_edition).md" title="The Lord of the Rings: The Fellowship of the Ring (extended edition)">ấn bản mở rộng</a>) · <i><a href="The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Two Towers</a></i> (<a href="The_Lord_of_the_Rings%253A_The_Two_Towers_(extended_edition).md" title="The Lord of the Rings: The Two Towers (extended edition)">ấn bản mở rộng</a>) · <i><a href="The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">The Return of the King</a></i> (<a href="The_Lord_of_the_Rings%253A_The_Return_of_the_King_(extended_edition).md" title="The Lord of the Rings: The Return of the King (extended edition)">ấn bản mở rộng</a>)
 </td></tr>
 <tr>
 <th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;">Âm nhạc
