@@ -23,9 +23,9 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>Chữ cái</b> đề cập đến nhiều ký tự, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, hãy xem <b><a class="mw-disambig" href="Letters_(disambiguation).md" title="Letters (disambiguation)">Chữ cái (định hướng)</a></b>.</div></div>
 
-*[The Letters of J.R.R. Tolkien](../T/The_Letters_of_J.R.R._Tolkien.md)* là một tập hợp lớn các chữ cái [Tolkien](../J/J.R.R._Tolkien.md), nhưng nó vẫn chưa hoàn chỉnh. Dưới đây là một số chữ cái không được đưa vào bộ sưu tập hoặc chỉ một phần.
+*[The Letters of J.R.R. Tolkien](../T/The_Letters_of_J.R.R._Tolkien.md)* là một tuyển tập lớn các bức thư của [Tolkien](../J/J.R.R._Tolkien.md), nhưng còn lâu mới đầy đủ. Dưới đây là một số bức thư không được đưa vào tuyển tập hoặc chỉ được đưa vào một phần.
 
-## Chữ cái riêng {#Individual_letters}
+## Các bức thư riêng lẻ {#Individual_letters}
 
 ### thập niên 1890 {#1890s}
 
@@ -37,45 +37,45 @@ images:
 
 ### thập niên 1910 {#1910s}
 
-- [3 tháng 1 năm 1913, đến Edith Bratt](<Letter_to_Edith_Bratt_(3_January_1913).md>)
-- [1 tháng 2 năm 1913, đến Edith Bratt](<Letter_to_Edith_Bratt_(1_February_1913).md>)
-- [2 tháng 1 năm 1917, tới Văn phòng Chiến tranh](Letter_to_the_War_Office.md)
+- [3 tháng 1 năm 1913, gửi Edith Bratt](<Letter_to_Edith_Bratt_(3_January_1913).md>)
+- [1 tháng 2 năm 1913, gửi Edith Bratt](<Letter_to_Edith_Bratt_(1_February_1913).md>)
+- [2 tháng 1 năm 1917, gửi Bộ Chiến tranh](Letter_to_the_War_Office.md)
 
 ### những năm 1920 {#1920s}
 
 - [26 tháng 1 năm 1925, gửi Joseph Wright](Letter_to_Joseph_Wright.md)
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Letter_to_Cyril_Brett&amp;action=edit&amp;redlink=1" title="Letter to Cyril Brett (page does not exist)">2 tháng 2 năm 1925, gửi Cyril Brett</a>
-- [Ngày 12 tháng 6 năm 1925, gửi ông Ashton](Letter_to_Mr_Ashton.md)
-- [22 tháng 7 năm 1925, gửi cho H.F.B. Brett-Smith](<Letter_to_H.F.B._Brett-Smith_(22_July_1925).md>)
-- [8 tháng 8 năm 1925, gửi cho H.F.B. Brett-Smith](<Letter_to_H.F.B._Brett-Smith_(8_August_1925).md>)
+- [12 tháng 6 năm 1925, gửi ông Ashton](Letter_to_Mr_Ashton.md)
+- [22 tháng 7 năm 1925, gửi H.F.B. Brett-Smith](<Letter_to_H.F.B._Brett-Smith_(22_July_1925).md>)
+- [8 tháng 8 năm 1925, gửi H.F.B. Brett-Smith](<Letter_to_H.F.B._Brett-Smith_(8_August_1925).md>)
 - [25 tháng 6 năm 1926, gửi Willard G. Harding](<Letter_to_Willard_G._Harding_(25_June_1926).md>)
 - [21 tháng 10 năm 1926, gửi Willard G. Harding](<Letter_to_Willard_G._Harding_(21_October_1926).md>)
 - [12 tháng 3 năm 1927, gửi Ronald Ashton](Letter_to_Ronald_Ashton.md)
-- [2 tháng 1 năm 1929, đến E.V. Gordon](<Letter_to_E.V._Gordon_(2_January_1929).md>)
+- [2 tháng 1 năm 1929, gửi E.V. Gordon](<Letter_to_E.V._Gordon_(2_January_1929).md>)
 
 ### những năm 1930 {#1930s}
 
 - [1932, *A Philologist on Esperanto*](../A/A_Philologist_on_Esperanto.md)
-- [27 tháng 5 năm 1932, đến A.F. Colborn](<Letter_to_A.F._Colborn_(27_May_1932).md>)
+- [27 tháng 5 năm 1932, gửi A.F. Colborn](<Letter_to_A.F._Colborn_(27_May_1932).md>)
 - [16 tháng 3 năm 1933, gửi Kenneth Sisam](<Letter_to_Kenneth_Sisam_(16_March_1933).md>)
-- [21 tháng 12 năm 1933, đến R.W. Chambers](Letter_to_R.W._Chambers.md)
-- [23 tháng 12 năm 1934, đến G.H. Cowling](Letter_to_G.H._Cowling.md)
-- [27 tháng Chín 1936, tới Aurelius Pompen](Letter_to_Aurelius_Pompen.md)
+- [21 tháng 12 năm 1933, gửi R.W. Chambers](Letter_to_R.W._Chambers.md)
+- [23 tháng 12 năm 1934, gửi G.H. Cowling](Letter_to_G.H._Cowling.md)
+- [27 tháng 9 năm 1936, gửi Aurelius Pompen](Letter_to_Aurelius_Pompen.md)
 - [25 tháng 4 năm 1937, gửi Charles Furth](<Letter_to_Charles_Furth_(25_April_1937).md>)
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Letter_to_Lionel_Salt&amp;action=edit&amp;redlink=1" title="Letter to Lionel Salt (page does not exist)">31 tháng 5 năm 1937, gửi Lionel Salt</a>
-- [7 tháng Chín 1937, đến George Allen &amp; Unwin](Letter_to_George_Allen_and_Unwin.md)
-- [21 tháng Chín 1937, gửi Simonne d'Ardenne](<Letter_to_Simonne_d'Ardenne_(21_September_1937).md>)
-- [22 tháng Chín 1937, gửi Jane Neave](<Letter_to_Jane_Neave_(22_September_1937).md>)
-- [14-15 tháng 12 năm 1937, tới G.E. Selby](<Letter_to_G.E._Selby_(14_December_1937).md>)
+- [7 tháng 9 năm 1937, gửi George Allen &amp; Unwin](Letter_to_George_Allen_and_Unwin.md)
+- [21 tháng 9 năm 1937, gửi Simonne d'Ardenne](<Letter_to_Simonne_d'Ardenne_(21_September_1937).md>)
+- [22 tháng 9 năm 1937, gửi Jane Neave](<Letter_to_Jane_Neave_(22_September_1937).md>)
+- [14-15 tháng 12 năm 1937, gửi G.E. Selby](<Letter_to_G.E._Selby_(14_December_1937).md>)
 - [15 tháng 12 năm 1937, gửi Arthur Ransome](Letter_to_Arthur_Ransome.md)
-- [19 tháng 12 năm 1937, gửi Charles Furth](<Letter_to_Charles_Furth_(19_December_1937).md>) (xem thêm [Thư 20](Letter_20.md))
+- [19 tháng 12 năm 1937, gửi Charles Furth](<Letter_to_Charles_Furth_(19_December_1937).md>) (xem thêm [Letters 20](Letter_20.md))
 - [28 tháng 5 năm 1938, gửi Kenneth Sisam](<Letter_to_Kenneth_Sisam_(28_May_1938).md>)
-- [21 tháng 7 năm 1938, gửi tới A.F. Colborn](<Letter_to_A.F._Colborn_(21_July_1938).md>)
+- [21 tháng 7 năm 1938, gửi A.F. Colborn](<Letter_to_A.F._Colborn_(21_July_1938).md>)
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Letter_to_Ida_Gordon_(31_July_1938)&amp;action=edit&amp;redlink=1" title="Letter to Ida Gordon (31 July 1938) (page does not exist)">31 tháng 7 năm 1938, gửi Ida Gordon</a>
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Letter_to_Ida_Gordon_(11_August_1938)&amp;action=edit&amp;redlink=1" title="Letter to Ida Gordon (11 August 1938) (page does not exist)">11 tháng 8 năm 1938, gửi Ida Gordon</a>
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Letter_to_Ida_Gordon_(19_August_1938)&amp;action=edit&amp;redlink=1" title="Letter to Ida Gordon (19 August 1938) (page does not exist)">19 tháng 8 năm 1938, gửi Ida Gordon</a>
-- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Letter_to_Ida_Gordon_(26_September_1938)&amp;action=edit&amp;redlink=1" title="Letter to Ida Gordon (26 September 1938) (page does not exist)">26 tháng Chín 1938, gửi Ida Gordon</a>
-- [24 tháng 12 năm 1938, gửi cô Kilbride](Letter_to_Miss_Kilbride.md).
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Letter_to_Ida_Gordon_(26_September_1938)&amp;action=edit&amp;redlink=1" title="Letter to Ida Gordon (26 September 1938) (page does not exist)">26 tháng 9 năm 1938, gửi Ida Gordon</a>
+- [24 tháng 12 năm 1938, gửi Bà Kilbride](Letter_to_Miss_Kilbride.md).
 
 ### thập niên 1940 {#1940s}
 
@@ -444,38 +444,38 @@ images:
 
 ### Không rõ năm {#Unknown_year}
 
-- [19?? tới Simonne d'Ardenne](<Letter_to_Simonne_d'Ardenne_(unknown_date).md>)
-- [19?? tới Clyde S. Kilby](<Letter_to_Clyde_S._Kilby_(unknown_date).md>)
-- [19?? tới Richard Lupoff](Letter_to_Richard_Lupoff.md)
-- [19?? tới Bruce Mitchell](Letter_to_Bruce_Mitchell.md)
-- 19?? gửi tới một độc giả không xác định (bản nháp; chủ đề: [Sindarin](../S/Sindarin.md) và [Quenya](../Q/Quenya.md))<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
-- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Letter_to_Leslie_Underwood&amp;action=edit&amp;redlink=1" title="Letter to Leslie Underwood (page does not exist)">19?? tới Leslie Underwood</a>
+- [19??, gửi Simonne d'Ardenne](<Letter_to_Simonne_d'Ardenne_(unknown_date).md>)
+- [19??, gửi Clyde S. Kilby](<Letter_to_Clyde_S._Kilby_(unknown_date).md>)
+- [19??, gửi Richard Lupoff](Letter_to_Richard_Lupoff.md)
+- [19??, gửi Bruce Mitchell](Letter_to_Bruce_Mitchell.md)
+- 19??, gửi một độc giả chưa rõ danh tính (bản nháp; chủ đề: [Sindarin](../S/Sindarin.md) và [Quenya](../Q/Quenya.md))<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Letter_to_Leslie_Underwood&amp;action=edit&amp;redlink=1" title="Letter to Leslie Underwood (page does not exist)">19??, gửi Leslie Underwood</a>
 
-## Những bộ sưu tập chưa được tiết lộ và tin đồn {#Unexposed_collections_and_rumours}
+## Những bộ sưu tập chưa được công khai và các lời đồn {#Unexposed_collections_and_rumours}
 
 ### Thư từ giữa Tolkien và Sigurður Nordal {#Correspondence_between_Tolkien_and_Sigurður_Nordal}
 
-Một vài bức thư của Tolkien gửi <a class="extiw" href="http://en.wikipedia.org/wiki/Sigur%C3%B0ur_Nordal" title="wikipedia:Sigurður Nordal">Sigurður Nordal</a>, nhà văn và Giáo sư Ngôn ngữ và Văn học Iceland, được lưu giữ tại Thư viện Quốc gia và Đại học Iceland.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+Một vài bức thư Tolkien gửi cho <a class="extiw" href="http://en.wikipedia.org/wiki/Sigur%C3%B0ur_Nordal" title="wikipedia:Sigurður Nordal">Sigurður Nordal</a>, nhà văn kiêm giáo sư ngành Ngôn ngữ và Văn học Iceland, hiện được lưu giữ tại Thư viện Quốc gia và Đại học Iceland.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
 ### Sự tương ứng giữa Tolkien và R.W. Burchfield {#Correspondence_between_Tolkien_and_R.W._Burchfield}
 
-Trong các năm [1953](../_/1953.md)-[72](../_/1972.md), Tolkien tương ứng với <a class="new" href="https://tolkiengateway.net/w/index.php?title=R.W._Burchfield&amp;action=edit&amp;redlink=1" title="R.W. Burchfield (page does not exist)">R.W. Burchfield</a>. Tập thư được lưu giữ tại [Thư viện Bodleian](../B/Bodleian_Library.md):<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
+Trong giai đoạn [1953](../_/1953.md)-[72](../_/1972.md), Tolkien trao đổi thư từ với <a class="new" href="https://tolkiengateway.net/w/index.php?title=R.W._Burchfield&amp;action=edit&amp;redlink=1" title="R.W. Burchfield (page does not exist)">R.W. Burchfield</a>. Bộ sưu tập thư hiện được lưu giữ tại [Thư viện Bodleian](../B/Bodleian_Library.md):<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
 
 <blockquote class="tg-quote noexcerpt">
-<p>Thư từ giữa J.R.R. Tolkien và R.W. Burchfield, 1953-72. / <b>Ký hiệu:</b> MS. Anh. c. 7284 nhé các bạn. 1-16. / <b>Độ rộng:</b> 16 lá. / Bao gồm mười bản thảo, thư đánh máy và một bản sao thư từ Tolkien gửi cho Burchfield, liên quan đến việc Burchfield tham dự các buổi hướng dẫn, việc tìm kiếm nhà ở tại Oxford, đơn xin tài trợ cho nghiên cứu của ông, tìm kiếm một vị trí học thuật, lời chúc mừng về việc xuất bản The Fellowship of the Ring, phần mở rộng cho tác phẩm của ông về 'Ormulum', và ấn bản Ancrene Wisse: Văn bản tiếng Anh của Ancrene của Tolkien Riwle, và một lá thư của Burchfield gửi Tolkien liên quan đến việc in ấn Ancrene Wisse. Cũng là phần mô tả những bức thư của Elizabeth Burchfield, góa phụ của R.W. Burchfield. / <b>Mua lại:</b> Tuyên bố của R.W. Burchfield, theo Elizabeth Burchfield, tháng 12 năm 2004.
+<p>Thư từ trao đổi giữa J.R.R. Tolkien và R.W. Burchfield, 1953-72. / <b>Ký hiệu lưu trữ:</b> MS. Eng. c. 7284, tờ 1-16. / <b>Quy mô:</b> 16 tờ. / Gồm mười bức thư viết tay và đánh máy, cùng một bản sao thư Tolkien gửi Burchfield. Nội dung liên quan đến việc Burchfield tham dự các buổi hướng dẫn, tìm nhà ở tại Oxford, nộp đơn xin tài trợ nghiên cứu, tìm kiếm một vị trí học thuật, gửi lời chúc mừng nhân dịp xuất bản The Fellowship of the Ring, xin gia hạn thời gian nghiên cứu 'Ormulum', và ấn bản Ancrene Wisse: The English Text of the Ancrene Riwle do Tolkien biên tập. Ngoài ra còn có một bức thư Burchfield gửi Tolkien liên quan đến việc in Ancrene Wisse, cùng bản mô tả các bức thư do Elizabeth Burchfield, góa phụ của R.W. Burchfield, biên soạn. / <b>Nguồn tiếp nhận:</b> Di sản hiến tặng của R.W. Burchfield, thông qua Elizabeth Burchfield, tháng 12 năm 2004.
 </p>
 </blockquote>
 
 ### Thư từ giữa Tolkien và Pablo Martínez del Río {#Correspondence_between_Tolkien_and_Pablo_Martínez_del_Río}
 
-[José Manuel Ferrández Bru](../J/José_Manuel_Ferrández_Bru.md) đã lưu ý rằng một bộ sưu tập các bức thư Tolkien gửi cho <a class="extiw" href="http://en.wikipedia.org/wiki/Mart%C3%ADnez_del_R%C3%ADo" title="wikipedia:Martínez del Río">Pablo Martínez del Río</a>, người em họ Tolkien đã đi nghỉ ở Paris vào [1913](../_/1913.md), đã được tặng cho <a class="external text" href="http://www.cehm.com.mx/BaseCatalogo/catalogo.htm" rel="noreferrer noopener" target="_blank">Centro de Estudios de Historia de México của Condumex</a>. Tính đến năm 2011, Ferrández Bru đã viết rằng những bức thư của Tolkien không may "được trộn lẫn với một số lượng lớn các tài liệu khác" và rằng sẽ phải mất nhiều năm trước khi chúng được phân loại và sẵn sàng cho nghiên cứu.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
+[José Manuel Ferrández Bru](../J/José_Manuel_Ferrández_Bru.md) lưu ý rằng một bộ sưu tập thư Tolkien gửi cho <a class="extiw" href="http://en.wikipedia.org/wiki/Mart%C3%ADnez_del_R%C3%ADo" title="wikipedia:Martínez del Río">Pablo Martínez del Río</a>, người có những người em họ nhỏ tuổi hơn được Tolkien đưa đến Paris nghỉ hè vào [1913](../_/1913.md), đã được trao tặng cho <a class="external text" href="http://www.cehm.com.mx/BaseCatalogo/catalogo.htm" rel="noreferrer noopener" target="_blank">Centro de Estudios de Historia de México của Condumex</a>. Trong bài viết năm 2011, Ferrández Bru cho biết những bức thư của Tolkien không may “bị lẫn với một số lượng khổng lồ các tài liệu khác” và phải mất nhiều năm nữa chúng mới được lập danh mục và có thể phục vụ nghiên cứu.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
 
 ### Thư từ giữa Tolkien và Sterling E. Lanier {#Correspondence_between_Tolkien_and_Sterling_E._Lanier}
 
-Trong một bài viết trên [*Locus* #149](Locus_149.md) ([1973](../_/1973.md)), tác giả khoa học viễn tưởng <a class="extiw" href="http://en.wikipedia.org/wiki/Sterling_E._Lanier" title="wikipedia:Sterling E. Lanier">Sterling E. Lanier</a> đề cập đến thư từ của ông với Tolkien, bao gồm "hàng chục lá thư". [John D. Rateliff](../J/John_D._Rateliff.md) đã cung cấp đoạn trích sau từ bài viết của Lanier:<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
+Trong một bài viết trên [*Locus* #149](Locus_149.md) ([1973](../_/1973.md)), nhà văn khoa học viễn tưởng <a class="extiw" href="http://en.wikipedia.org/wiki/Sterling_E._Lanier" title="wikipedia:Sterling E. Lanier">Sterling E. Lanier</a> nhắc đến thư từ trao đổi giữa ông và Tolkien, gồm “khoảng mười hai bức thư”. [John D. Rateliff](../J/John_D._Rateliff.md) đã trích dẫn đoạn sau từ bài viết của Lanier:<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
 
 <blockquote class="tg-quote noexcerpt">
-<p>Di sản vĩ đại cuối cùng của ông đối với thế giới, <i>Silmarillion</i>, đã được bảo tồn. Ông đã viết cho tôi cách đây nhiều năm, rằng nó được thực hiện bằng thơ! Ông có vẻ bối rối một cách nhẹ nhàng, rằng vào thời điểm đó, dường như không có nhà xuất bản nào quan tâm đến nó. Tôi nhớ mình đã hỏi ông đang làm gì cho một bộ truyện tranh hoặc yếu tố nhẹ nhàng, vì Hobbit chưa tồn tại sớm như vậy. Ông đồng ý rằng đây là một vấn đề, nhưng cảm thấy nó có thể giải quyết được. Tôi không thể chờ đợi được."
+<p>Di sản vĩ đại cuối cùng ông để lại cho thế giới, <i>Silmarillion</i>, đã được cứu giữ. Nhiều năm trước, ông viết cho tôi rằng tác phẩm ấy đã được viết bằng thơ! Ông dường như chỉ hơi lấy làm khó hiểu vì lúc bấy giờ chẳng nhà xuất bản nào tỏ ra quan tâm đến tác phẩm. Tôi nhớ mình đã hỏi ông định đưa yếu tố hài hước hoặc nhẹ nhàng nào vào tác phẩm, vì vào thời kỳ xa xưa ấy chưa có Hobbit. Ông đồng ý rằng đây là một vấn đề, nhưng tin rằng có thể giải quyết được. Tôi nóng lòng mong đợi.”
 </p>
 </blockquote>
 
@@ -483,56 +483,56 @@ Trong một bài viết trên [*Locus* #149](Locus_149.md) ([1973](../_/1973.md)
 
 Vào giữa những năm sáu mươi, ca sĩ kiêm nhạc sĩ <a class="extiw" href="http://en.wikipedia.org/wiki/Joni_Mitchell" title="wikipedia:Joni Mitchell">Joni Mitchell</a> đã trở thành "[fan](../T/Tolkien_fandom.md)" của Tolkien,<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> sau khi được chồng cô là Chuck giới thiệu các tác phẩm của anh. Cặp đôi này đã thành lập một doanh nghiệp xuất bản và ghi âm các tài liệu của họ liên quan đến Trung Địa và họ đã viết Tolkien "những bức thư và được ông cho phép sử dụng tên trong sách của ông cho hoạt động kinh doanh của chúng tôi". Thư từ trao đổi giữa Tolkien với Joni và Chuck Mitchell rõ ràng đã diễn ra không sớm hơn [1965](../_/1965.md) và không muộn hơn [1969](../_/1969.md).<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> Không rõ liệu Tolkien có trả lời thư của họ trực tiếp hay thư trả lời được viết bởi một người đại diện. Một lá thư bày tỏ sự ngưỡng mộ của Joni Mitchell gửi tới Tolkien sẽ được đăng trên *[Tolkien: Maker of Middle-earth](../T/Tolkien%253A_Maker_of_Middle-earth.md)* ([2018](../_/2018.md)).<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup>
 
-### Thư gửi xã hội {#Letters_to_The_Society}
+### Thư gửi The Society {#Letters_to_The_Society}
 
-Tập hợp các lá thư của Tolkien gửi [Hội](../T/The_Society.md) được lưu giữ tại [Thư viện Bodleian](../B/Bodleian_Library.md).<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup>
+Một tập hợp thư từ của Tolkien gửi [Hội](../T/The_Society.md) hiện được lưu trữ tại [Thư viện Bodleian](../B/Bodleian_Library.md).<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup>
 
 <h3><span id="Letters_to_Simonne_d.27Ardenne"></span><span class="mw-headline" id="Letters_to_Simonne_d&#39;Ardenne">Letters to Simonne d&#39;Ardenne</span></h3>
 
-[John](../J/John_Tolkien.md) và [Priscilla Tolkien](../P/Priscilla_Tolkien.md) đề cập ngắn gọn trong *[The Tolkien Family Album](../T/The_Tolkien_Family_Album.md)* rằng [Simonne d'Ardenne](../S/Simonne_d'Ardenne.md): *"đặc biệt thân thiết với Priscilla, cho đến khi cô qua đời vào năm 1986. Cô giao cho Priscilla một xấp thư lớn mà cô đã nhận được từ J.R.R.T. trong khoảng thời gian bốn mươi năm."* (tr. 68). Bộ sưu tập lớn các bức thư này dường như chưa bao giờ được xuất bản.
+[John](../J/John_Tolkien.md) và [Priscilla Tolkien](../P/Priscilla_Tolkien.md) đề cập ngắn gọn trong *[The Tolkien Family Album](../T/The_Tolkien_Family_Album.md)* rằng [Simonne d'Ardenne](../S/Simonne_d'Ardenne.md): *“đặc biệt thân thiết với Priscilla cho đến khi bà qua đời vào năm 1986. Bà đã giao cho Priscilla một tập thư dày mà bà nhận được từ J.R.R.T. trong suốt bốn mươi năm.”* (tr. 68). Tập thư đồ sộ này dường như chưa bao giờ được xuất bản.
 
-### Thư gửi gia đình Hogan {#Letters_to_the_Hogans}
+### Thư gửi nhà Hogan {#Letters_to_the_Hogans}
 
-Trong bài viết "Tolkien's time in 'Erin'" (sắp xuất bản bản dịch tiếng Ireland của *The Hobbit*), đăng trên *The Irish Times* ngày 17 tháng 3 năm 2012, Tiến sĩ Tom Hogan có đề cập rằng Tolkien:
+Trong bài viết "Tolkien's time in 'Erin'" (nhân dịp bản dịch tiếng Ireland của *The Hobbit* sắp được xuất bản), đăng trên *The Irish Times* ngày 17 tháng 3 năm 2012, Tiến sĩ Tom Hogan cho biết Tolkien:
 
 <blockquote class="tg-quote noexcerpt">
-<p>đã ở lại nhà chúng tôi nhiều lần trong những chuyến thăm Ireland. Những chuyến thăm này bắt đầu vào những năm 1950. Ông đến Ireland vài tuần mỗi năm với vai trò là giám khảo bên ngoài môn tiếng Anh tại UCD. Ông làm việc cùng với người cha quá cố của tôi, Jeremiah, giáo sư tiếng Anh ở đó vào thời điểm đó. Một số lá thư Tolkien gửi cho chúng tôi hiện thuộc quyền sở hữu của tôi.
+<p>đã nhiều lần ở nhà chúng tôi trong các chuyến thăm Ireland. Những chuyến thăm này bắt đầu từ thập niên 1950. Mỗi năm, ông đến Ireland vài tuần với tư cách giám khảo độc lập môn tiếng Anh tại UCD. Ông làm việc cùng người cha quá cố của tôi, Jeremiah, khi ấy là giáo sư tiếng Anh tại đây. Tôi hiện lưu giữ một số bức thư Tolkien gửi cho gia đình chúng tôi.
 </p>
 </blockquote>
 
-Không cung cấp ngày tháng của từng bức thư, nhưng Hogan trích dẫn từ một số bức thư trong bài viết.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup>
+Bài viết không nêu ngày tháng của từng bức thư, nhưng Hogan trích dẫn nội dung của một số bức thư trong bài.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup>
 
-### Thư khăn trà {#The_Tea_Towel_Letter}
+### Bức thư về chiếc khăn lau bếp {#The_Tea_Towel_Letter}
 
-Trang web *Tolkien Collector's Guide* có một bài viết (về một chiếc khăn trà hiếm) có tham chiếu từ một bức thư được cho là chưa được xuất bản. Bối cảnh là George Allen và Unwin vào năm 1971 đã đặt làm chiếc khăn có hình bản đồ của Pauline Baynes nhân dịp lễ kỷ niệm. Tác giả bài viết nói: "\[...\] rõ ràng Tolkien đã có ở đó, vì tôi đọc trong một bức thư (chưa công bố) rằng chính ông đã nhận được một chiếc khăn ấm như vậy trong 'bữa tiệc' hay 'cuộc họp' và rất vui mừng với nó."<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup>
+Trang web *Tolkien Collector's Guide* có một bài viết về một chiếc khăn lau bếp hiếm, trong đó dẫn chiếu đến một bức thư được cho là chưa từng được công bố. Sự việc bắt nguồn từ việc George Allen và Unwin đặt làm chiếc khăn vào năm 1971, trên đó có bản đồ do Pauline Baynes vẽ, nhân một dịp ăn mừng. Tác giả bài viết cho biết: "\[...\] rõ ràng Tolkien đã có mặt ở đó, bởi tôi đọc trong một bức thư (chưa được công bố) rằng chính ông cũng nhận được một chiếc khăn lau bếp như vậy tại 'bữa tiệc' hay 'buổi gặp mặt' và rất vui vì món quà ấy."<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup>
 
-### Xe cút kít lúc bình minh {#Wheelbarrows_at_Dawn}
+### Những chiếc xe cút kít lúc bình minh {#Wheelbarrows_at_Dawn}
 
-Tương tự như những gì đã được thực hiện trong *[Black &amp; White Ogre Country: The Lost Tales of Hilary Tolkien](../B/Black_&_White_Ogre_Country.md)*, những thông tin sơ lược về thư từ giữa J.R.R. Tolkien và anh trai [Hilary](../H/Hilary_Tolkien.md) lẽ ra sẽ được xuất bản vào cuối năm 2010 trên *[Wheelbarrows at Dawn: Memories of Hilary Tolkien](../W/Wheelbarrows_at_Dawn.md)*. Tuy nhiên, việc xuất bản cuốn sách sau đã bị hủy bỏ và các bức thư vẫn chưa được xuất bản (tính đến tháng 11 năm 2010).
+Tương tự như cách làm trong *[Black &amp; White Ogre Country: The Lost Tales of Hilary Tolkien](../B/Black_&_White_Ogre_Country.md)*, một phần thư từ trao đổi giữa J.R.R. Tolkien và anh trai [Hilary](../H/Hilary_Tolkien.md) dự kiến được công bố vào cuối năm 2010 trong cuốn *[Wheelbarrows at Dawn: Memories of Hilary Tolkien](../W/Wheelbarrows_at_Dawn.md)*. Tuy nhiên, cuốn sách này đã bị hủy xuất bản, và những bức thư vẫn chưa được công bố (tính đến tháng 11 năm 2010).
 
-Đầu năm 2015, Hilary Tolkien"kho lưu trữ những bức thư gia đình, những bức ảnh gia đình & những con thiêu thân" đã được rao bán, "trong đó có 15 bức thư dài chưa được nhìn thấy của chính JRR Tolkien".<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup>
+Đầu năm 2015, “kho lưu trữ thư từ gia đình, ảnh gia đình và các kỷ vật” của Hilary Tolkien được đưa ra rao bán, “bao gồm 15 bức thư dài của chính J.R.R. Tolkien chưa từng được công bố”.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup>
 
 ## Lừa đảo {#Hoaxes}
 
 ### Những bức thư, Phần II {#The_Letters,_Part_II}
 
-Trong suốt các số đầu của *[Vinyar Tengwar](../V/Vinyar_Tengwar.md)*, có nhắc đến "Những bức thư của J.R.R. Tolkien phần II", nhưng hóa ra đó chỉ là một trò đùa.<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup>
+Trong những số đầu của *[Vinyar Tengwar](../V/Vinyar_Tengwar.md)*, tạp chí có đề cập đến “The Letters of J.R.R. Tolkien, Phần II”, nhưng sau đó người ta tiết lộ rằng đó chỉ là một trò đùa.<sup class="noprint" style="line-height: 0.4em;"><a href="../../help/R/References.md" title="Help:References"><i>source?</i></a></sup>
 
 ### Tiến sĩ. Higgins và khả năng lừa đảo của eBay {#Dr._Higgins_and_possible_eBay_frauds}
 
-Diễn đàn của trang web *Tolkien Collector's Guide* chứa đựng các cuộc thảo luận (trong đó [Wayne G. Hammond](../W/Wayne_G._Hammond.md) và [Christina Scull](../C/Christina_Scull.md) đã tham gia) về việc lưu hành trên eBay các lá thư Tolkien lừa đảo. Trong số này được cho là có những bức thư gửi cho "Tiến sĩ Higgins". Nhiều lá thư tranh chấp này được đánh máy, có chữ ký J.R.R. Tolkien bằng mực xanh. Người giả mạo, Alan Formhals, bị kết tội tại Tòa án Vương quốc Southampton vào năm 2012.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup><sup id="cite_ref-Alan_Formhals_19-0" class="reference"><a href="#cite_note-Alan_Formhals-19">[19]</a></sup>
+Diễn đàn trên trang web *Tolkien Collector's Guide* có các cuộc thảo luận về việc rao bán trên eBay những bức thư giả mạo mang tên Tolkien; [Wayne G. Hammond](../W/Wayne_G._Hammond.md) và [Christina Scull](../C/Christina_Scull.md) cũng tham gia thảo luận. Trong số đó có những bức thư được cho là gửi cho một người mang tên “Tiến sĩ Higgins”. Nhiều bức thư bị nghi là giả mạo này được đánh máy và mang chữ ký của J.R.R. Tolkien viết bằng mực xanh. Năm 2012, Alan Formhals bị kết tội tại Tòa án Crown Court ở Southampton.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup><sup id="cite_ref-Alan_Formhals_19-0" class="reference"><a href="#cite_note-Alan_Formhals-19">[19]</a></sup>
 
 ## Xem thêm {#See_also}
 
-- [Hình ảnh chữ của J.R.R. Tolkien](../../category/I/Images_of_letters_by_J.R.R._Tolkien.md)
-- [Vị trí 1](Locus_1.md)
+- [Hình ảnh các bức thư của J.R.R. Tolkien](../../category/I/Images_of_letters_by_J.R.R._Tolkien.md)
+- [Locus 1](Locus_1.md)
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="https://www.tolkienguide.com/guide/letters/" rel="noreferrer noopener" target="_blank">Danh sách Tolkien Thư</a> trên Tolkien Hướng dẫn sưu tầm
-- <a class="external text" href="https://www.marquette.edu/library/archives/Mss/JRRT/JRRT-series7.php" rel="noreferrer noopener" target="_blank">Bộ sưu tập Tolkien bài viết/thư</a> tại Đại học Marquette
-- <a class="external text" href="http://library.leeds.ac.uk/special-collections-explore/376715v" rel="noreferrer noopener" target="_blank">Tolkien-Bộ sưu tập Gordon</a>
-- <a class="external text" href="http://www.wheaton.edu/~/media/Files/Centers-and-Institutes/Wade-Center/RR-Docs/Letter-Collections/JRRT_Papers.pdf" rel="noreferrer noopener" target="_blank">Marion E. Wade Bộ sưu tập trung tâm của Tolkien chữ cái</a> (liên kết bị hỏng)
+- <a class="external text" href="https://www.tolkienguide.com/guide/letters/" rel="noreferrer noopener" target="_blank">Danh sách thư của Tolkien</a> trên Tolkien Collector's Guide
+- <a class="external text" href="https://www.marquette.edu/library/archives/Mss/JRRT/JRRT-series7.php" rel="noreferrer noopener" target="_blank">Các bộ sưu tập bản thảo và thư từ của Tolkien</a> tại Đại học Marquette
+- <a class="external text" href="http://library.leeds.ac.uk/special-collections-explore/376715v" rel="noreferrer noopener" target="_blank">Bộ sưu tập Tolkien-Gordon</a>
+- <a class="external text" href="http://www.wheaton.edu/~/media/Files/Centers-and-Institutes/Wade-Center/RR-Docs/Letter-Collections/JRRT_Papers.pdf" rel="noreferrer noopener" target="_blank">Bộ sưu tập thư từ Tolkien tại Trung tâm Marion E. Wade</a> (liên kết hỏng)
 
 <span></span>
 

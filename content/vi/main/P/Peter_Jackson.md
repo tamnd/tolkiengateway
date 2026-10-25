@@ -59,7 +59,7 @@ infobox:
 ---
 
 <div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Mở rộng</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này cần được <b>mở rộng</b> và/hoặc sửa đổi. Hãy giúp đỡ wiki bằng cách <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Peter_Jackson&amp;action=edit" rel="noreferrer noopener" target="_blank">mở rộng nó</a>.<blockquote class="tg-quote noexcerpt">
-<p>...Đó là một câu chuyện dài...
+<p>…Ấy là một câu chuyện dài…
 </p>
 <p class="tg-quote-footer"><cite><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a></cite></p>
 </blockquote></div></div>
@@ -68,7 +68,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/P/Peter_Jackson_2014.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/55/Peter_Jackson_2014.jpg/320px-Peter_Jackson_2014.jpg" decoding="async" loading="lazy" width="320" height="301" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/55/Peter_Jackson_2014.jpg/480px-Peter_Jackson_2014.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/5/55/Peter_Jackson_2014.jpg/640px-Peter_Jackson_2014.jpg 2x" data-file-width="3985" data-file-height="3744"/></a><figcaption>Jackson at 2014&#39;s San Diego Comic Con International</figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Peter Jackson</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin tiểu sử</span></th></tr><tr><th scope="row" class="tg-infobox-label">Sinh–mất</th><td class="tg-infobox-data">31 October 1961</td></tr><tr><th scope="row" class="tg-infobox-label">Nationality</th><td class="tg-infobox-data">Kiwi</td></tr><tr><th scope="row" class="tg-infobox-label">Nghề nghiệp</th><td class="tg-infobox-data">Director<br/>Writer<br/>Producer</td></tr><tr><th scope="row" class="tg-infobox-label">Thời gian hoạt động</th><td class="tg-infobox-data">1976-nay</td></tr><tr><th scope="row" class="tg-infobox-label">Phim đáng chú ý</th><td class="tg-infobox-data"><i><a href="../T/The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)">The Lord of the Rings</a></i></td></tr><tr><th scope="row" class="tg-infobox-label">Cộng tác viên đáng chú ý</th><td class="tg-infobox-data"><a href="../F/Fran_Walsh.md" title="Fran Walsh">Fran Walsh</a></td></tr><tr><th scope="row" class="tg-infobox-label">Vợ/chồng</th><td class="tg-infobox-data"><a href="../F/Fran_Walsh.md" title="Fran Walsh">Fran Walsh</a></td></tr><tr><th scope="row" class="tg-infobox-label">Con cái</th><td class="tg-infobox-data"><a href="../K/Katie_Jackson.md" title="Katie Jackson">Katie Jackson</a><br/><a class="new" href="https://tolkiengateway.net/w/index.php?title=Billy_Jackson&amp;action=edit&amp;redlink=1" title="Billy Jackson (page does not exist)">Billy Jackson</a></td></tr><tr><th scope="row" class="tg-infobox-label">IMDb</th><td class="tg-infobox-data"><a class="external text" href="https://www.imdb.com/name/nm0001392/" rel="noreferrer noopener" target="_blank">Hồ sơ</a></td></tr></tbody></table>
 
-<br> **Sir Peter Robert Jackson** ([31 tháng 10](../_/31_October.md), [1961](../_/1961.md)) là đạo diễn, nhà biên kịch và nhà sản xuất từng đoạt giải Oscar sinh ra [New Zealand](../N/New_Zealand.md). Ông là một trong những người đồng sáng tạo [Wētā FX](../W/Wētā_FX.md), trước đây gọi là *Weta Digital*. Ông đạo diễn, đồng sáng tác và sản xuất [*The Lord of the Rings* bộ ba phim](<../T/The_Lord_of_the_Rings_(film_series).md>) và [*The Hobbit* bộ ba phim](<../T/The_Hobbit_(film_series).md>).
+<br> **Sir Peter Robert Jackson** ([31 tháng 10](../_/31_October.md), [1961](../_/1961.md)) là đạo diễn, nhà biên kịch và nhà sản xuất sinh tại [New Zealand](../N/New_Zealand.md), từng đoạt Giải Oscar. Ông là một trong những người đồng sáng lập [Wētā FX](../W/Wētā_FX.md), trước đây có tên là *Weta Digital*. Ông đạo diễn, đồng biên kịch và sản xuất [bộ ba phim *The Lord of the Rings*](<../T/The_Lord_of_the_Rings_(film_series).md>) và [bộ ba phim *The Hobbit*](<../T/The_Hobbit_(film_series).md>).
 
 ## Vai trò {#Roles}
 
@@ -176,7 +176,7 @@ infobox:
 ## Thư mục {#Bibliography}
 
 - [2004](../_/2004.md): *[The Art of The Return of the King](../T/The_Art_of_The_Return_of_the_King.md)*
-    - "Phần kết"
+&#x20;   - “Lời kết”
 
 ## Liên kết ngoài {#External_links}
 
