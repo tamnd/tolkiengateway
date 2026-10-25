@@ -31,14 +31,14 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Jef Murray</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin tiểu sử</span></th></tr><tr><th scope="row" class="tg-infobox-label">Sinh</th><td class="tg-infobox-data"><a href="../_/17_March.md" title="17 March">17 March</a> <a href="../_/1960.md" title="1960">1960</a></td></tr><tr><th scope="row" class="tg-infobox-label">Qua đời</th><td class="tg-infobox-data"><a href="../_/3_August.md" title="3 August">3 August</a> <a href="../_/2015.md" title="2015">2015</a></td></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data">Decatur, Georgia</td></tr><tr><th scope="row" class="tg-infobox-label">Trang web</th><td class="tg-infobox-data"><a class="external text" href="http://www.jefmurray.com" rel="noreferrer noopener" target="_blank">Trang web chính thức</a></td></tr></tbody></table>
 
-**Jef Murray** ([17 tháng 3](../_/17_March.md) [1960](../_/1960.md) - [3 tháng 8](../_/3_August.md) [2015](../_/2015.md)), làm việc cho Thư viện Thần học Pitts của <a class="extiw" href="http://en.wikipedia.org/wiki/Emory_University" title="wikipedia:Emory University">Đại học Emory</a> ở Atlanta, đã vẽ và phác họa nhiều hình ảnh liên quan đến [Tolkien](J.R.R._Tolkien.md) cho các ấn phẩm như [*Amon Hen* tạp chí](<../A/Amon_Hen_(journal).md>), *[Parma Nölé](../P/Parma_Nölé.md)* và [*Mallorn* tạp chí](<../M/Mallorn_(journal).md>). Ông cũng có tác phẩm liên quan đến Tolkien được đăng trên *St. Austin Review*, một tạp chí về văn hóa Công giáo.
+**Jef Murray** ([17 tháng 3](../_/17_March.md) [1960](../_/1960.md) - [3 tháng 8](../_/3_August.md) [2015](../_/2015.md)), là nhân viên của Thư viện Thần học Pitts thuộc <a class="extiw" href="http://en.wikipedia.org/wiki/Emory_University" title="wikipedia:Emory University">Đại học Emory</a> ở Atlanta. Ông đã sáng tác nhiều tranh và bản phác họa liên quan đến [Tolkien](J.R.R._Tolkien.md) cho các ấn phẩm như [tạp chí *Amon Hen*](<../A/Amon_Hen_(journal).md>), *[Parma Nölé](../P/Parma_Nölé.md)* và [tạp chí *Mallorn*](<../M/Mallorn_(journal).md>). Các tác phẩm liên quan đến Tolkien của ông cũng từng xuất hiện trên *St. Austin Review*, một tạp chí về văn hóa Công giáo.
 
 Năm 2009, Murray đã vẽ minh họa cho tác phẩm *[Black &amp; White Ogre Country](../B/Black_&_White_Ogre_Country.md)* của [Hilary Tolkien](../H/Hilary_Tolkien.md).
 
 ## Xem thêm {#See_also}
 
-- [Hình ảnh của Jef Murray](../../category/I/Images_by_Jef_Murray.md)
+- [Hình ảnh do Jef Murray thực hiện](../../category/I/Images_by_Jef_Murray.md)
 
 ## Liên kết ngoài {#External_links}
 
-- "<a class="external text" href="http://www.tolkienlibrary.com/press/1169-interview-with-the-wizard-jef-murray.php" rel="noreferrer noopener" target="_blank">Phỏng vấn Pháp sư Jef Murray</a>" tại [Tolkien Thư viện](../T/Tolkien_Library.md)
+- "<a class="external text" href="http://www.tolkienlibrary.com/press/1169-interview-with-the-wizard-jef-murray.php" rel="noreferrer noopener" target="_blank">Cuộc phỏng vấn Pháp sư Jef Murray</a>" tại [Tolkien Library](../T/Tolkien_Library.md)
