@@ -31,7 +31,7 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">&#34;List of minor The Lord of the Rings Online characters in the Ered Luin&#34; is a concept which has only appeared in an adaptation of the works of <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>.</div></div>
 
-Danh sách này chứa tất cả các ký tự phụ trong [Ered Luin](../E/Ered_Luin.md) được tạo riêng cho [The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md).
+Danh sách này bao gồm tất cả các nhân vật phụ ở [Ered Luin](../E/Ered_Luin.md) được tạo riêng cho [The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md).
 
 ## Anglor {#Anglor}
 
@@ -39,31 +39,31 @@ Danh sách này chứa tất cả các ký tự phụ trong [Ered Luin](../E/Ere
 
 ## Không có gì {#Bogi}
 
-**Bogi** là [Người Lùn](../D/Dwarves.md) từ Erebor. Ông là thành viên trong nhóm Người Lùn được [Dáin II](../D/Dáin_Ironfoot.md) cử đi điều tra Sảnh của Thorin.<sup id="cite_ref-Ered_Luin_introduction_2-0" class="reference"><a href="#cite_note-Ered_Luin_introduction-2">[2]</a></sup> Theo yêu cầu của ông <a class="mw-selflink-fragment" href="#Orodlin">Orodlin</a> và <a class="mw-selflink-fragment" href="#Selur">Selur</a> cử người chơi vào trong Silver Deep Mines để giết một số Cave-claws, những kẻ đang phá hủy vùng đất bằng cách đào bới.<sup id="cite_ref-fear_of_collapse_3-0" class="reference"><a href="#cite_note-fear_of_collapse-3">[3]</a></sup>
+**Bogi** là [Người Lùn](../D/Dwarves.md) đến từ Erebor. Ông là thành viên trong đội Người Lùn được [Dáin II](../D/Dáin_Ironfoot.md) cử đi điều tra Đại Sảnh của Thorin.<sup id="cite_ref-Ered_Luin_introduction_2-0" class="reference"><a href="#cite_note-Ered_Luin_introduction-2">[2]</a></sup> Theo yêu cầu của ông, <a class="mw-selflink-fragment" href="#Orodlin">Orodlin</a> và <a class="mw-selflink-fragment" href="#Selur">Selur</a> cử người chơi vào Silver Deep Mines để tiêu diệt một số Cave-claws, những sinh vật đang đào bới và tàn phá vùng đất.<sup id="cite_ref-fear_of_collapse_3-0" class="reference"><a href="#cite_note-fear_of_collapse-3">[3]</a></sup>
 
 ## Bolli {#Bolli}
 
-**Bolli** là một [Người Lùn](../D/Dwarves.md) đến từ [Erebor](Lonely_Mountain.md), là thành viên của công ty [Người Lùn](../D/Dwarves.md) được [Dáin II](../D/Dáin_Ironfoot.md) cử đi điều tra Cổng của Thorin. Ông gửi người chơi lùn đến [Nos Grimsong](../N/Nos_Grimsong.md) trong phần Giới thiệu.<sup id="cite_ref-return_lonely_mountain_4-0" class="reference"><a href="#cite_note-return_lonely_mountain-4">[4]</a></sup> Sau khi Gondamon bị [Longbeards](Longbeards.md) chinh phục lại, ông trở thành đội trưởng đội cận vệ của Gondamon.<sup id="cite_ref-Goblins_in_the_South_5-0" class="reference"><a href="#cite_note-Goblins_in_the_South-5">[5]</a></sup>
+**Bolli** là một [Người Lùn](../D/Dwarves.md) đến từ [Erebor](Lonely_Mountain.md), thành viên trong đội [Người Lùn](../D/Dwarves.md) được [Dáin II](../D/Dáin_Ironfoot.md) cử đi điều tra Cổng Thorin. Trong phần Giới thiệu, ông cử người chơi thuộc lớp Người Lùn đến gặp [Nos Grimsong](../N/Nos_Grimsong.md).<sup id="cite_ref-return_lonely_mountain_4-0" class="reference"><a href="#cite_note-return_lonely_mountain-4">[4]</a></sup> Sau khi [Longbeards](Longbeards.md) tái chiếm Gondamon, ông trở thành đội trưởng đội cận vệ của Gondamon.<sup id="cite_ref-Goblins_in_the_South_5-0" class="reference"><a href="#cite_note-Goblins_in_the_South-5">[5]</a></sup>
 
 ## Calthendin {#Calthendin}
 
-**Calthendin** là [Tiên](../E/Elves.md) huấn luyện viên cai ngục ở Edhelion trong nỗ lực khôi phục Edhelion của [Dorongúr Whitethorn](../D/Dorongúr_Whitethorn.md). Trong phần Giới thiệu, ông cải thiện kỹ năng của người chơi cai ngục theo yêu cầu của Dorongúr Whitethorn.<sup id="cite_ref-meditating_1-1" class="reference"><a href="#cite_note-meditating-1">[1]</a></sup>
+**Calthendin** là một [Tiên](../E/Elves.md) làm huấn luyện viên Người Bảo Vệ ở Edhelion trong nỗ lực khôi phục Edhelion của [Dorongúr Whitethorn](../D/Dorongúr_Whitethorn.md). Trong phần Giới thiệu, ông nâng cao kỹ năng của người chơi lớp Người Bảo Vệ theo yêu cầu của Dorongúr Whitethorn.<sup id="cite_ref-meditating_1-1" class="reference"><a href="#cite_note-meditating-1">[1]</a></sup>
 
 ## Dorollas {#Dorollas}
 
-**Dorollas** là một [Tiên](../E/Elves.md) ở Edhelion, người muốn khôi phục Edhelion trở lại vinh quang trước đây và do đó đã gia nhập nhóm Tiên tộc đã cố gắng khôi phục Edhelion vào [T.A.](../T/Third_Age.md) 3016. [Dorongúr Whitethorn](../D/Dorongúr_Whitethorn.md), lãnh đạo của công ty, đã cử người chơi đến Dorollas để hỗ trợ dọn dẹp Edhelion.<sup id="cite_ref-plague_6-0" class="reference"><a href="#cite_note-plague-6">[6]</a></sup> Theo yêu cầu của Dorollas, người chơi giết một số người những con sên sống trong một hồ nước bẩn<sup id="cite_ref-befouled_pool_7-0" class="reference"><a href="#cite_note-befouled_pool-7">[7]</a></sup> và sau đó đưa ông đến [Elladan](../E/Elladan.md).<sup id="cite_ref-scouting_8-0" class="reference"><a href="#cite_note-scouting-8">[8]</a></sup>
+**Dorollas** là một [Tiên](../E/Elves.md) ở Edhelion, mong muốn đưa Edhelion trở lại thời kỳ huy hoàng trước đây, vì vậy đã gia nhập đội Tiên tộc tìm cách khôi phục nơi này vào năm 3016 [T.A.](../T/Third_Age.md). [Dorongúr Whitethorn](../D/Dorongúr_Whitethorn.md), thủ lĩnh của đội, cử người chơi đến gặp Dorollas để hỗ trợ dọn dẹp Edhelion.<sup id="cite_ref-plague_6-0" class="reference"><a href="#cite_note-plague-6">[6]</a></sup> Theo yêu cầu của Dorollas, người chơi tiêu diệt một số con sên sống trong một hồ nước ô nhiễm<sup id="cite_ref-befouled_pool_7-0" class="reference"><a href="#cite_note-befouled_pool-7">[7]</a></sup> rồi được cử đến gặp [Elladan](../E/Elladan.md).<sup id="cite_ref-scouting_8-0" class="reference"><a href="#cite_note-scouting-8">[8]</a></sup>
 
 ## Dúri Búa Đậm {#Dúri_Bold-Hammer}
 
-**Dúri Bold-Hammer** là một [Người Lùn](../D/Dwarves.md) trong Tòa án của Frerin. Dúri là một trong những Người Lùn đi cùng [Dwalin](../D/Dwalin.md) điều tra Cổng của Thorin. Ông là một thợ rèn vũ khí.<sup id="cite_ref-Ered_Luin_9-0" class="reference"><a href="#cite_note-Ered_Luin-9">[9]</a></sup>
+**Dúri Bold-Hammer** là một [Người Lùn](../D/Dwarves.md) ở Frerin's Court. Dúri là một trong những Người Lùn đi cùng [Dwalin](../D/Dwalin.md) đến điều tra Cổng Thorin. Ông là thợ chế tác vũ khí.<sup id="cite_ref-Ered_Luin_9-0" class="reference"><a href="#cite_note-Ered_Luin-9">[9]</a></sup>
 
 ## Edenithil {#Edenithil}
 
-**Edenithil** là một [Tiên](../E/Elves.md) và cung thủ. Ông là thành viên trong công ty của [Dorongúr Whitethorn](../D/Dorongúr_Whitethorn.md), người đã cố gắng khôi phục Edhelion. Trong nỗ lực thất bại này, ông đang ở tiền đồn của Edhelion.<sup id="cite_ref-Ered_Luin_introduction_2-1" class="reference"><a href="#cite_note-Ered_Luin_introduction-2">[2]</a></sup> Khi nỗ lực thất bại, ông đã đến [Celondim](../C/Celondim.md).<sup id="cite_ref-Ered_Luin_9-1" class="reference"><a href="#cite_note-Ered_Luin-9">[9]</a></sup>
+**Edenithil** là một [Tiên](../E/Elves.md) và thợ làm cung. Ông là thành viên trong đội của [Dorongúr Whitethorn](../D/Dorongúr_Whitethorn.md), người đã cố gắng khôi phục Edhelion. Trong cuộc khôi phục bất thành này, ông có mặt tại một tiền đồn của Edhelion.<sup id="cite_ref-Ered_Luin_introduction_2-1" class="reference"><a href="#cite_note-Ered_Luin_introduction-2">[2]</a></sup> Sau khi nỗ lực khôi phục thất bại, ông đến [Celondim](../C/Celondim.md).<sup id="cite_ref-Ered_Luin_9-1" class="reference"><a href="#cite_note-Ered_Luin-9">[9]</a></sup>
 
 ## Edhelben {#Edhelben}
 
-**Edhelben** là một [Tiên](../E/Elves.md) đến từ Edhelion. Cô đã chiến đấu trong Trận chiến Edhelion khi [Dourhands](../D/Dourhands.md) và [Goblin](../O/Orcs.md) tấn công thành phố.<sup id="cite_ref-refuge_10-0" class="reference"><a href="#cite_note-refuge-10">[10]</a></sup> Không biết liệu ông có sống sót sau trận chiến hay không.
+**Edhelben** là một [Tiên](../E/Elves.md) đến từ Edhelion. Bà đã chiến đấu trong Trận chiến Edhelion khi [Dourhands](../D/Dourhands.md) và [Goblin](../O/Orcs.md) tấn công thành phố.<sup id="cite_ref-refuge_10-0" class="reference"><a href="#cite_note-refuge-10">[10]</a></sup> Không rõ bà có sống sót sau trận chiến hay không.
 
 ## Erynwen {#Erynwen}
 
@@ -71,31 +71,31 @@ Danh sách này chứa tất cả các ký tự phụ trong [Ered Luin](../E/Ere
 
 ## Fanhir {#Fanhir}
 
-**Fanhir** là một [Tiên](../E/Elves.md) có thể được tìm thấy tại tiền đồn của Edhelion trong phần Giới thiệu.<sup id="cite_ref-Ered_Luin_introduction_2-3" class="reference"><a href="#cite_note-Ered_Luin_introduction-2">[2]</a></sup> Sau khi nỗ lực khôi phục Edhelion của [Dorongúr Whitethorn](../D/Dorongúr_Whitethorn.md) không thành công, cô đã đến Duilond. Bà là thợ rèn vũ khí bằng một tay.<sup id="cite_ref-Ered_Luin_9-2" class="reference"><a href="#cite_note-Ered_Luin-9">[9]</a></sup>
+**Fanhir** là một [Tiên](../E/Elves.md) xuất hiện tại một tiền đồn của Edhelion trong phần Giới thiệu.<sup id="cite_ref-Ered_Luin_introduction_2-3" class="reference"><a href="#cite_note-Ered_Luin_introduction-2">[2]</a></sup> Sau khi nỗ lực khôi phục Edhelion của [Dorongúr Whitethorn](../D/Dorongúr_Whitethorn.md) thất bại, bà đến Duilond. Bà là thợ rèn vũ khí một tay.<sup id="cite_ref-Ered_Luin_9-2" class="reference"><a href="#cite_note-Ered_Luin-9">[9]</a></sup>
 
 ## Gaden của Lindon {#Gaden_of_Lindon}
 
-**Gaden của Lindon** là một [Tiên](../E/Elves.md) của [Lindon](Lindon.md), người đã đồng hành cùng [Dorongúr Whitethorn](../D/Dorongúr_Whitethorn.md) khi ông cố gắng khôi phục Edhelion.<sup id="cite_ref-Ered_Luin_introduction_2-4" class="reference"><a href="#cite_note-Ered_Luin_introduction-2">[2]</a></sup>
+**Gaden xứ Lindon** là một [Tiên](../E/Elves.md) đến từ [Lindon](Lindon.md), người đã đồng hành cùng [Dorongúr Whitethorn](../D/Dorongúr_Whitethorn.md) khi ông cố gắng khôi phục Edhelion.<sup id="cite_ref-Ered_Luin_introduction_2-4" class="reference"><a href="#cite_note-Ered_Luin_introduction-2">[2]</a></sup>
 
 ## Gailthin {#Gailthin}
 
-**Gailthin** là một trong những [Tiên tộc](../E/Elves.md) gốc sinh sống ở Edhelion.<sup id="cite_ref-lost_lore_12-0" class="reference"><a href="#cite_note-lost_lore-12">[12]</a></sup> Cô đã chiến đấu trong Trận Edhelion và khi thành phố bị bỏ lại, cô sống ở Duilond. Bà là thành viên của đoàn quân mà [Dorongúr Whitethorn](../D/Dorongúr_Whitethorn.md) dẫn trở lại Edhelion với nỗ lực khôi phục thành phố. Ở đó, Gailthin đã cố gắng thu thập và lập danh mục truyền thuyết về Edhelion với sự trợ giúp của người chơi, người thu thập nhiều hạt giống cây ở Edhelion cho bà.<sup id="cite_ref-lost_lore_12-1" class="reference"><a href="#cite_note-lost_lore-12">[12]</a></sup>
+**Gailthin** là một trong những [Tiên tộc](../E/Elves.md) đầu tiên sinh sống ở Edhelion.<sup id="cite_ref-lost_lore_12-0" class="reference"><a href="#cite_note-lost_lore-12">[12]</a></sup> Bà đã chiến đấu trong Trận chiến Edhelion và sống ở Duilond sau khi thành phố bị bỏ hoang. Bà là thành viên trong đội do [Dorongúr Whitethorn](../D/Dorongúr_Whitethorn.md) dẫn trở lại Edhelion nhằm khôi phục thành phố. Tại đây, Gailthin cố gắng thu thập và lập danh mục tri thức, tư liệu về Edhelion với sự giúp đỡ của người chơi, người đã thu thập nhiều hạt giống từ những cây ở Edhelion cho bà.<sup id="cite_ref-lost_lore_12-1" class="reference"><a href="#cite_note-lost_lore-12">[12]</a></sup>
 
 ## Glanwen {#Glanwen}
 
-**Glanwen** là người huấn luyện thợ săn [Tiên](../E/Elven.md) ở Edhelion. Bà là thành viên trong công ty của [Dorongúr Whitethorn](../D/Dorongúr_Whitethorn.md) đang cố gắng khôi phục Edhelion. Dorongúr Whitethorn gửi người chơi thợ săn đến gặp bà để ông có thể cải thiện kỹ năng của mình.<sup id="cite_ref-meditating_1-2" class="reference"><a href="#cite_note-meditating-1">[1]</a></sup>
+**Glanwen** là người huấn luyện lớp nhân vật Thợ săn [Tiên](../E/Elven.md) ở Edhelion. Bà là thành viên trong đội của [Dorongúr Whitethorn](../D/Dorongúr_Whitethorn.md), những người đã cố gắng khôi phục Edhelion. Dorongúr Whitethorn cử người chơi thuộc lớp Thợ săn đến gặp bà để cậu có thể nâng cao kỹ năng của mình.<sup id="cite_ref-meditating_1-2" class="reference"><a href="#cite_note-meditating-1">[1]</a></sup>
 
 ## Grímr {#Grímr}
 
-**Grímr** là huấn luyện viên [Người Lùn](../D/Dwarves.md) và vô địch tại Tòa án của Frerin. Ông là thành viên của đại đội Người Lùn được [Dáin II](../D/Dáin_Ironfoot.md) cử đi điều tra Cổng của Thorin.<sup id="cite_ref-Ered_Luin_introduction_2-5" class="reference"><a href="#cite_note-Ered_Luin_introduction-2">[2]</a></sup> Ông đã tư vấn cho người chơi vô địch về hạng vô địch theo yêu cầu của [Nos Grimsong](../N/Nos_Grimsong.md).<sup id="cite_ref-sharpen_your_skills_13-0" class="reference"><a href="#cite_note-sharpen_your_skills-13">[13]</a></sup>
+**Grímr** là một [Người Lùn](../D/Dwarves.md) và người huấn luyện lớp nhân vật Vệ binh tại Frerin's Court. Ông là thành viên trong đội Người Lùn được [Dáin II](../D/Dáin_Ironfoot.md) cử đi điều tra Cổng Thorin.<sup id="cite_ref-Ered_Luin_introduction_2-5" class="reference"><a href="#cite_note-Ered_Luin_introduction-2">[2]</a></sup> Theo yêu cầu của [Nos Grimsong](../N/Nos_Grimsong.md), ông hướng dẫn người chơi thuộc lớp Vệ binh về lớp nhân vật này.<sup id="cite_ref-sharpen_your_skills_13-0" class="reference"><a href="#cite_note-sharpen_your_skills-13">[13]</a></sup>
 
 ## Grithur {#Grithur}
 
-**Grithur** là một [Người Lùn](../D/Dwarves.md) thợ rèn áo giáp hạng nhẹ tại Tòa án của Frerin.<sup id="cite_ref-Ered_Luin_9-3" class="reference"><a href="#cite_note-Ered_Luin-9">[9]</a></sup>
+**Grithur** là một [Người Lùn](../D/Dwarves.md), làm nghề rèn giáp nhẹ tại Frerin's Court.<sup id="cite_ref-Ered_Luin_9-3" class="reference"><a href="#cite_note-Ered_Luin-9">[9]</a></sup>
 
 ## Haerendir {#Haerendir}
 
-**Haerendir** là một [Tiên](../E/Elves.md) đến từ Edhelion, trong Trận chiến Edhelion, ông đã bị giết bởi một [Yêu tinh](../O/Orcs.md). Người chơi đã lấy vũ khí của mình trong phần Giới thiệu để tự vệ trước [Dourhands](../D/Dourhands.md) và Goblin.<sup id="cite_ref-refuge_10-1" class="reference"><a href="#cite_note-refuge-10">[10]</a></sup>
+**Haerendir** là một [Tiên](../E/Elves.md) đến từ Edhelion. Trong Trận chiến Edhelion, ông bị một [Goblin](../O/Orcs.md) giết chết. Trong phần Giới thiệu, người chơi đã lấy vũ khí của ông để tự vệ trước [Dourhands](../D/Dourhands.md) và Goblin.<sup id="cite_ref-refuge_10-1" class="reference"><a href="#cite_note-refuge-10">[10]</a></sup>
 
 ## Thanh đánh dấu {#Hithbar}
 
@@ -103,7 +103,7 @@ Danh sách này chứa tất cả các ký tự phụ trong [Ered Luin](../E/Ere
 
 ## Laergil {#Laergil}
 
-**Laergil** là một [Tiên](../E/Elves.md) tiền đồn của Edhelion. Bà yêu cầu người chơi giết một vài con linh miêu vì chúng đang đe dọa [Con chim hét](../T/Thrushes.md).<sup id="cite_ref-restoring_the_balance_14-0" class="reference"><a href="#cite_note-restoring_the_balance-14">[14]</a></sup> Khi nỗ lực khôi phục Edhelion thất bại, bà đã chuyển đến Celondim.<sup id="cite_ref-Ered_Luin_9-5" class="reference"><a href="#cite_note-Ered_Luin-9">[9]</a></sup>
+**Laergil** là một [Tiên](../E/Elves.md) đóng tại tiền đồn của Edhelion. Bà yêu cầu người chơi giết một vài con linh miêu vì chúng đang đe dọa [Thrushes](../T/Thrushes.md).<sup id="cite_ref-restoring_the_balance_14-0" class="reference"><a href="#cite_note-restoring_the_balance-14">[14]</a></sup> Khi nỗ lực khôi phục Edhelion thất bại, bà chuyển đến Celondim.<sup id="cite_ref-Ered_Luin_9-5" class="reference"><a href="#cite_note-Ered_Luin-9">[9]</a></sup>
 
 ## Lennasthrieln {#Lennasthrieln}
 
@@ -111,11 +111,11 @@ Danh sách này chứa tất cả các ký tự phụ trong [Ered Luin](../E/Ere
 
 ## Tội ác {#Malthendring}
 
-**Malthendring** là một [Tiên](../E/Elves.md) và là huấn luyện viên vô địch trong buổi Giới thiệu. Anh đã tham gia vào nỗ lực của [Dorongúr Whitethorn](../D/Dorongúr_Whitethorn.md) nhằm khôi phục thành phố Tiên Edhelion. Người chơi vô địch được Dorongúr Whitethorn cử đến gặp ông để tìm hiểu thêm về kỹ năng của một nhà vô địch.<sup id="cite_ref-meditating_1-4" class="reference"><a href="#cite_note-meditating-1">[1]</a></sup>
+**Malthendring** là một [Tiên](../E/Elves.md) và là huấn luyện viên lớp chiến binh trong phần Giới thiệu. Ông tham gia nỗ lực của [Dorongúr Whitethorn](../D/Dorongúr_Whitethorn.md) nhằm khôi phục thành phố của Tiên tộc, Edhelion. Dorongúr Whitethorn cử người chơi thuộc lớp chiến binh đến gặp ông để tìm hiểu thêm về các kỹ năng của lớp này.<sup id="cite_ref-meditating_1-4" class="reference"><a href="#cite_note-meditating-1">[1]</a></sup>
 
 ## Sau đó {#Merethen}
 
-**Merethen** là một [Tiên](../E/Elves.md) và là một trong những cư dân đầu tiên của Edhelion. Cô đã chiến đấu trong Trận Edhelion và sống sót. Bà là thành viên trong công ty của [Dorongúr Whitethorn](../D/Dorongúr_Whitethorn.md) muốn khôi phục Edhelion vào [T.A.](../T/Third_Age.md) 3016. Bà nói với người chơi rằng Dorongúr muốn nói chuyện với ông/bà.<sup id="cite_ref-elrond&#39;s_premonition_15-0" class="reference"><a href="#cite_note-elrond&#39;s_premonition-15">[15]</a></sup>
+**Merethen** là một [Tiên](../E/Elves.md) và là một trong những cư dân đầu tiên của Edhelion. Bà chiến đấu trong Trận Edhelion và sống sót. Bà là thành viên trong đoàn của [Dorongúr Whitethorn](../D/Dorongúr_Whitethorn.md), với mục tiêu khôi phục Edhelion vào [Kỷ Đệ Tam](../T/Third_Age.md) 3016. Bà nói với người chơi rằng Dorongúr muốn gặp người chơi.<sup id="cite_ref-elrond&#39;s_premonition_15-0" class="reference"><a href="#cite_note-elrond&#39;s_premonition-15">[15]</a></sup>
 
 ## Methgil {#Methgil}
 
@@ -131,39 +131,39 @@ Danh sách này chứa tất cả các ký tự phụ trong [Ered Luin](../E/Ere
 
 ## Orodlin {#Orodlin}
 
-**Orodlin** là một [Tiên](../E/Elves.md) từ [Rivendell](../R/Rivendell.md) đã đi cùng [Elladan](../E/Elladan.md) và [Elrohir](../E/Elrohir.md) đến Cổng của Thorin, nơi ông được bố trí tại một tiền đồn gần Edhelion.<sup id="cite_ref-Ered_Luin_introduction_2-9" class="reference"><a href="#cite_note-Ered_Luin_introduction-2">[2]</a></sup> Theo yêu cầu của [Người Lùn](../D/Dwarves.md) <a class="mw-selflink-fragment" href="#Bogi">Bogi</a> ông cử người chơi Tiên bên trong Silver Deep Mines để tiêu diệt một số Cave-claws, những người đang phá hủy đất bằng cách đào bới.<sup id="cite_ref-fear_of_collapse_3-1" class="reference"><a href="#cite_note-fear_of_collapse-3">[3]</a></sup> Sau đó, ông quay trở lại Rivendell, nơi có thể tìm thấy ông ở chợ.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup>
+**Orodlin** là một [Tiên](../E/Elves.md) đến từ [Rivendell](../R/Rivendell.md), từng đi cùng [Elladan](../E/Elladan.md) và [Elrohir](../E/Elrohir.md) đến Cổng Thorin, nơi ông đóng tại một tiền đồn gần Edhelion.<sup id="cite_ref-Ered_Luin_introduction_2-9" class="reference"><a href="#cite_note-Ered_Luin_introduction-2">[2]</a></sup> Theo đề nghị của [Người Lùn](../D/Dwarves.md) <a class="mw-selflink-fragment" href="#Bogi">Bogi</a>, ông cử người chơi Tiên vào Silver Deep Mines để tiêu diệt một số Cave-claws, loài đang phá hoại vùng đất bằng cách đào bới.<sup id="cite_ref-fear_of_collapse_3-1" class="reference"><a href="#cite_note-fear_of_collapse-3">[3]</a></sup> Sau đó, ông trở về Rivendell, nơi có thể tìm thấy ông ở khu chợ.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup>
 
 ## Thông tin {#Otur}
 
-**Otur** là [Người Lùn](../D/Dwarves.md) từ Sảnh của [Thorin](../T/Thorin's_Halls.md). Trong phần giới thiệu Ered Luin, ông đã đưa cho người chơi một vũ khí khi họ đi sâu vào Mỏ sâu bạc để tìm kiếm [Tvistur](#Tvistur).<sup id="cite_ref-into_the_silver_deep_17-0" class="reference"><a href="#cite_note-into_the_silver_deep-17">[17]</a></sup>
+**Otur** là [Người Lùn](../D/Dwarves.md) đến từ Đại Sảnh của [Thorin](../T/Thorin's_Halls.md). Trong phần Giới thiệu tại Ered Luin, ông trao cho người chơi một vũ khí khi người chơi tiến sâu vào Silver Deep Mines để tìm [Tvistur](#Tvistur).<sup id="cite_ref-into_the_silver_deep_17-0" class="reference"><a href="#cite_note-into_the_silver_deep-17">[17]</a></sup>
 
 ## Ovi Redforge {#Ovi_Redforge}
 
-**Ovi Redforge** là một thợ rèn hạng trung [Người Lùn](../D/Dwarves.md) ở Frerin's Court. Ovi Redforge là thành viên trong nhóm [Người Lùn](../D/Dwarves.md) được [Dáin II](../D/Dáin_Ironfoot.md) cử đi điều tra Cổng Thorin.<sup id="cite_ref-Ered_Luin_9-8" class="reference"><a href="#cite_note-Ered_Luin-9">[9]</a></sup>
+**Ovi Redforge** là thợ rèn áo giáp hạng trung của [Người Lùn](../D/Dwarves.md) tại Frerin's Court. Ovi Redforge là thành viên trong đoàn [Người Lùn](../D/Dwarves.md) được [Dáin II](../D/Dáin_Ironfoot.md) cử đi điều tra Cổng Thorin.<sup id="cite_ref-Ered_Luin_9-8" class="reference"><a href="#cite_note-Ered_Luin-9">[9]</a></sup>
 
 ## Pennastan {#Pennastan}
 
-**Pennastan** là một [Tiên](../E/Elves.md) đến từ Duilond và là huấn luyện viên bậc thầy về truyền thuyết. Bà là thành viên trong công ty của [Dorongúr Whitethorn](../D/Dorongúr_Whitethorn.md) với nỗ lực khôi phục Edhelion. Trong phần Giới thiệu, cô dạy người chơi về truyền thuyết lửa<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> theo yêu cầu của Dorongúr Whitethorn.<sup id="cite_ref-meditating_1-5" class="reference"><a href="#cite_note-meditating-1">[1]</a></sup> Khi nỗ lực thất bại, Pennastan quay trở lại Duilond.<sup id="cite_ref-Ered_Luin_9-9" class="reference"><a href="#cite_note-Ered_Luin-9">[9]</a></sup>
+**Pennastan** là một [Tiên](../E/Elves.md) đến từ Duilond và là huấn luyện viên lớp Bậc thầy Tri thức. Bà là thành viên trong đoàn của [Dorongúr Whitethorn](../D/Dorongúr_Whitethorn.md), đoàn đã tìm cách khôi phục Edhelion. Trong phần Giới thiệu, bà dạy người chơi về tri thức liên quan đến lửa<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> theo yêu cầu của Dorongúr Whitethorn.<sup id="cite_ref-meditating_1-5" class="reference"><a href="#cite_note-meditating-1">[1]</a></sup> Sau khi nỗ lực ấy thất bại, Pennastan trở về Duilond.<sup id="cite_ref-Ered_Luin_9-9" class="reference"><a href="#cite_note-Ered_Luin-9">[9]</a></sup>
 
 ## Thành phần {#Perphant}
 
-**Perphant** là một thợ rèn áo giáp hạng nhẹ [Tiên](../E/Elves.md) ở một tiền đồn gần Edhelion.<sup id="cite_ref-Ered_Luin_introduction_2-10" class="reference"><a href="#cite_note-Ered_Luin_introduction-2">[2]</a></sup>
+**Perphant** là thợ rèn áo giáp nhẹ của [Tiên](../E/Elves.md) tại một tiền đồn gần Edhelion.<sup id="cite_ref-Ered_Luin_introduction_2-10" class="reference"><a href="#cite_note-Ered_Luin_introduction-2">[2]</a></sup>
 
 ## Reklar {#Reklar}
 
-**Reklar** là huấn luyện viên thợ săn [Người Lùn](../D/Dwarves.md) tại Tòa án của Frerin và là thành viên của đại đội [Người Lùn](../D/Dwarves.md), người được [Dáin II](../D/Dáin_Ironfoot.md) cử đi điều tra Cổng Thorin.<sup id="cite_ref-Ered_Luin_introduction_2-11" class="reference"><a href="#cite_note-Ered_Luin_introduction-2">[2]</a></sup> Theo yêu cầu của [Nos Grimsong](../N/Nos_Grimsong.md), ông đã dạy người chơi thợ săn về lớp thợ săn trong phần Giới thiệu.<sup id="cite_ref-sharpen_your_skills_13-4" class="reference"><a href="#cite_note-sharpen_your_skills-13">[13]</a></sup>
+**Reklar** là huấn luyện viên thợ săn của [Người Lùn](../D/Dwarves.md) tại Frerin's Court và là thành viên trong đoàn [Người Lùn](../D/Dwarves.md) được [Dáin II](../D/Dáin_Ironfoot.md) cử đi điều tra Cổng Thorin.<sup id="cite_ref-Ered_Luin_introduction_2-11" class="reference"><a href="#cite_note-Ered_Luin_introduction-2">[2]</a></sup> Theo yêu cầu của [Nos Grimsong](../N/Nos_Grimsong.md), ông hướng dẫn người chơi chọn lớp thợ săn về lớp nhân vật này trong phần Giới thiệu.<sup id="cite_ref-sharpen_your_skills_13-4" class="reference"><a href="#cite_note-sharpen_your_skills-13">[13]</a></sup>
 
 ## Selur {#Selur}
 
-**Selur** là một [Người Lùn](../D/Dwarves.md) trong Tòa án của Frerin.<sup id="cite_ref-Ered_Luin_9-10" class="reference"><a href="#cite_note-Ered_Luin-9">[9]</a></sup> Theo yêu cầu của <a class="mw-selflink-fragment" href="#Bogi">Bogi</a> ông cử người chơi lùn vào trong Silver Deep Mines để tiêu diệt Cave-claws, những kẻ đang phá hủy vùng đất.<sup id="cite_ref-fear_of_collapse_3-2" class="reference"><a href="#cite_note-fear_of_collapse-3">[3]</a></sup>
+**Selur** là một [Người Lùn](../D/Dwarves.md) tại Frerin's Court.<sup id="cite_ref-Ered_Luin_9-10" class="reference"><a href="#cite_note-Ered_Luin-9">[9]</a></sup> Theo yêu cầu của <a class="mw-selflink-fragment" href="#Bogi">Bogi</a>, ông cử người chơi chọn nhân vật Người Lùn vào Silver Deep Mines để tiêu diệt lũ Cave-claws đang tàn phá vùng đất.<sup id="cite_ref-fear_of_collapse_3-2" class="reference"><a href="#cite_note-fear_of_collapse-3">[3]</a></sup>
 
 ## Snorri {#Snorri}
 
-**Snorri** là [Người Lùn](../D/Dwarves.md) và người huấn luyện người giám hộ tại Tòa án của Frerin.<sup id="cite_ref-Ered_Luin_9-11" class="reference"><a href="#cite_note-Ered_Luin-9">[9]</a></sup> Snorri đã dạy người huấn luyện người giám hộ về lớp người giám hộ theo yêu cầu của [Nos Grimsong](../N/Nos_Grimsong.md).<sup id="cite_ref-sharpen_your_skills_13-5" class="reference"><a href="#cite_note-sharpen_your_skills-13">[13]</a></sup>
+**Snorri** là [Người Lùn](../D/Dwarves.md) và là huấn luyện viên lớp Vệ binh tại Frerin's Court.<sup id="cite_ref-Ered_Luin_9-11" class="reference"><a href="#cite_note-Ered_Luin-9">[9]</a></sup> Theo yêu cầu của [Nos Grimsong](../N/Nos_Grimsong.md), Snorri hướng dẫn người chơi chọn lớp Vệ binh về lớp nhân vật này.<sup id="cite_ref-sharpen_your_skills_13-5" class="reference"><a href="#cite_note-sharpen_your_skills-13">[13]</a></sup>
 
 ## Thalchyl {#Thalchyl}
 
-**Thalchyl** là một [Tiên](../E/Elves.md) và một huấn luyện viên hát rong ở Edhelion. Thalchyl là thành viên trong công ty của [Dorongúr Whitethorn](../D/Dorongúr_Whitethorn.md) đã cố gắng khôi phục Edhelion. Ông đã dạy người chơi minstrel về lớp học minstrel theo yêu cầu của Dorongúr Whitethorn.<sup id="cite_ref-meditating_1-6" class="reference"><a href="#cite_note-meditating-1">[1]</a></sup>
+**Thalchyl** là một [Tiên](../E/Elves.md) và là huấn luyện viên lớp Nhạc công tại Edhelion. Thalchyl là thành viên trong đoàn của [Dorongúr Whitethorn](../D/Dorongúr_Whitethorn.md), đoàn đã tìm cách khôi phục Edhelion. Theo yêu cầu của Dorongúr Whitethorn, ông hướng dẫn người chơi chọn lớp Nhạc công về lớp nhân vật này.<sup id="cite_ref-meditating_1-6" class="reference"><a href="#cite_note-meditating-1">[1]</a></sup>
 
 ## Mộ {#Tombes}
 
@@ -171,15 +171,15 @@ Danh sách này chứa tất cả các ký tự phụ trong [Ered Luin](../E/Ere
 
 ## Torri {#Torri}
 
-**Torri** là cung thủ [Người Lùn](../D/Dwarves.md) tại Tòa án của Frerin và là một trong những thành viên của đại đội Người Lùn được [Dwalin](../D/Dwalin.md) dẫn đầu để điều tra Cổng của Thorin.<sup id="cite_ref-Ered_Luin_introduction_2-12" class="reference"><a href="#cite_note-Ered_Luin_introduction-2">[2]</a></sup>
+**Torri** là thợ làm cung của [Người Lùn](../D/Dwarves.md) tại Frerin's Court và là một trong những thành viên của đoàn Người Lùn do [Dwalin](../D/Dwalin.md) dẫn đầu để điều tra Cổng Thorin.<sup id="cite_ref-Ered_Luin_introduction_2-12" class="reference"><a href="#cite_note-Ered_Luin_introduction-2">[2]</a></sup>
 
 ## Tryggwi {#Tryggwi}
 
-**Tryggwi** là [Người Lùn](../D/Dwarves.md) từ [Erebor](Lonely_Mountain.md). Ông là thành viên của đại đội [Người Lùn](../D/Dwarves.md) được [Dáin II](../D/Dáin_Ironfoot.md) cử đến Cổng Thorin. Ông là một trong những người bảo vệ của [Dwalin](../D/Dwalin.md).<sup id="cite_ref-Ered_Luin_9-13" class="reference"><a href="#cite_note-Ered_Luin-9">[9]</a></sup>
+**Tryggwi** là [Người Lùn](../D/Dwarves.md) đến từ [Erebor](Lonely_Mountain.md). Ông là thành viên trong đoàn [Người Lùn](../D/Dwarves.md) được [Dáin II](../D/Dáin_Ironfoot.md) cử đến Cổng Thorin. Ông là một trong những người hộ vệ của [Dwalin](../D/Dwalin.md).<sup id="cite_ref-Ered_Luin_9-13" class="reference"><a href="#cite_note-Ered_Luin-9">[9]</a></sup>
 
 ## Phim truyền hình {#Tvistur}
 
-**Tvistur** là một [Dourhand](../D/Dourhands.md) [Người Lùn](../D/Dwarves.md) và là thợ mỏ ở Silver Deep Mines. Ông phớt lờ quy tắc của [Longbeards](Longbeards.md) và khai thác để tìm kiếm di tích của Edhelion. Trong quá trình tìm kiếm, anh đã tìm thấy lối vào Halls of Edhelion nhưng vô tình giải thoát một [Troll đá](../T/Trolls.md); Tvistur quyết định chiến đấu với sinh vật đó nhưng đã bị giết.<sup id="cite_ref-into_the_silver_deep_17-1" class="reference"><a href="#cite_note-into_the_silver_deep-17">[17]</a></sup>
+**Tvistur** là một [Dourhand](../D/Dourhands.md) [Người Lùn](../D/Dwarves.md) và là thợ mỏ ở Silver Deep Mines. Ông phớt lờ quy tắc của [Longbeards](Longbeards.md) và khai thác mỏ để tìm kiếm di vật của Edhelion. Trong quá trình tìm kiếm, ông phát hiện lối vào Đại Sảnh Edhelion nhưng vô tình giải thoát một [Troll đá](../T/Trolls.md); Tvistur quyết định giao chiến với sinh vật đó nhưng cuối cùng bị giết.<sup id="cite_ref-into_the_silver_deep_17-1" class="reference"><a href="#cite_note-into_the_silver_deep-17">[17]</a></sup>
 
 ## Giải thích {#Unnarr}
 
