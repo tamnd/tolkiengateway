@@ -37,35 +37,35 @@ images:
   - "J.R.R._Tolkien_-_One_Ring_inscription.png"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>Fëanorian</b> đề cập đến nhiều nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="../F/Fëanorian_(disambiguation).md" title="Fëanorian (disambiguation)">Fëanorian (định hướng)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>Fëanorian</b> chỉ nhiều nhân vật, vật phẩm hoặc khái niệm. Để xem các nghĩa khác, hãy tham khảo <b><a class="mw-disambig" href="../F/Fëanorian_(disambiguation).md" title="Fëanorian (disambiguation)">Fëanorian (trang định hướng)</a></b>.</div></div>
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_-_The_Tengwar.jpeg.md"><img src="https://tolkiengateway.net/w/images/thumb/a/a7/J.R.R._Tolkien_-_The_Tengwar.jpeg/300px-J.R.R._Tolkien_-_The_Tengwar.jpeg" decoding="async" loading="lazy" width="300" height="346" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/a7/J.R.R._Tolkien_-_The_Tengwar.jpeg/450px-J.R.R._Tolkien_-_The_Tengwar.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/a/a7/J.R.R._Tolkien_-_The_Tengwar.jpeg/600px-J.R.R._Tolkien_-_The_Tengwar.jpeg 2x" data-file-width="1264" data-file-height="1458"/></a><figcaption>Bảng " Tengwar" của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> trong <a href="../A/Appendix_E.md" title="Appendix E">Phụ lục E</a>: "Bảng hiển thị, hình dạng cuốn sách không trang trọng, tất cả các chữ cái thường được sử dụng ở vùng Phương Tây ở Kỷ Đệ Tam".</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_-_The_Tengwar.jpeg.md"><img src="https://tolkiengateway.net/w/images/thumb/a/a7/J.R.R._Tolkien_-_The_Tengwar.jpeg/300px-J.R.R._Tolkien_-_The_Tengwar.jpeg" decoding="async" loading="lazy" width="300" height="346" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/a7/J.R.R._Tolkien_-_The_Tengwar.jpeg/450px-J.R.R._Tolkien_-_The_Tengwar.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/a/a7/J.R.R._Tolkien_-_The_Tengwar.jpeg/600px-J.R.R._Tolkien_-_The_Tengwar.jpeg 2x" data-file-width="1264" data-file-height="1458"/></a><figcaption>Bảng “The Tengwar” của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> trong <a href="../A/Appendix_E.md" title="Appendix E">Phụ lục E</a>: “Bảng cho thấy dạng chữ viết tay dùng trong sách, không theo lối trang trọng, gồm tất cả các chữ cái thường được sử dụng ở các vùng đất phía Tây trong Kỷ Đệ Tam”.</figcaption></figure>
 
-<i><b>Tengwar</b></i> (phát âm \[<span title="Pronunciation in IPA" class="IPA">ˈteŋɡʷar</span>\], [Quenya](../Q/Quenya.md) cho “chữ cái”, số ít *tengwa* \[<span title="Pronunciation in IPA" class="IPA">ˈteŋɡʷa</span>\], [Sindarin](../S/Sindarin.md) *tîw*<sup id="cite_ref-App|E2_1-0" class="reference"><a href="#cite_note-App|E2-1">[1]</a></sup>) là một hệ thống chữ viết được phát minh bởi [Fëanor](../F/Fëanor.md) (và do đó còn được gọi là **bảng chữ cái Fëanorian**<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> hoặc **chữ viết**<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>). Nó được sử dụng cho nhiều ngôn ngữ khác nhau trong [các Dân tộc Tự do](../F/Free_peoples~19934.md) và có lẽ đã trở thành hệ thống chữ viết nổi bật nhất của [Arda](../A/Arda.md), được sử dụng bởi nhiều [Chủng tộc](../../portal/C/Characters.md) cho đến [Kỷ nguyên](../A/Ages.md).
+<i><b>Tengwar</b></i> (phát âm \[<span title="Pronunciation in IPA" class="IPA">ˈteŋɡʷar</span>\], [Quenya](../Q/Quenya.md) nghĩa là “chữ cái”, số ít là *tengwa* \[<span title="Pronunciation in IPA" class="IPA">ˈteŋɡʷa</span>\], trong [Sindarin](../S/Sindarin.md) là *tîw*<sup id="cite_ref-App|E2_1-0" class="reference"><a href="#cite_note-App|E2-1">[1]</a></sup>) là hệ thống chữ viết do [Fëanor](../F/Fëanor.md) phát minh (vì thế còn mang tên **bảng chữ cái Fëanorian**<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> hoặc **hệ chữ Fëanorian**<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>). Hệ chữ này được dùng để ghi nhiều ngôn ngữ của [các Dân tộc Tự do](../F/Free_peoples~19934.md) và có lẽ đã trở thành hệ chữ viết phổ biến nhất ở [Arda](../A/Arda.md), được nhiều [Chủng tộc](../../portal/C/Characters.md) sử dụng qua các [Kỷ nguyên](../A/Ages.md).
 
 ## Lịch sử {#History}
 
 [Fëanor](../F/Fëanor.md) đã phát minh ra Tengwar trong [Y.T.](../Y/Years_of_the_Trees.md) [1250](../Y/Year_of_the_Trees_1250.md) của [Kỷ Đệ Nhất của Arda](../F/First_Age.md), chịu ảnh hưởng mạnh mẽ từ [Sarati](../S/Sarati.md) của [Rúmil Loremaster](<../R/Rúmil_(elf_of_Tirion).md>).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-ApD_5-0" class="reference"><a href="#cite_note-ApD-5">[5]</a></sup> Fëanor cả hai đều xây dựng Tengwar như một bảng chữ cái ngữ âm chung và nghĩ ra những cách sắp xếp đặc biệt để phù hợp với đặc điểm của tất cả các ngôn ngữ của [Valinor](../V/Valinor.md).<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Trong quá trình Kỷ Đệ Nhất, ba chế độ Tengwar khác nhau đã xuất hiện: [Quenya](../Q/Quenya.md), [Beleriand](../B/Beleriand.md) và [Sindarin](../S/Sindarin.md). Sindarin được viết ở một trong hai chế độ, chế độ Beleriand hoặc chế độ Gondor (còn được gọi là Chế độ <a class="external text" href="http://www.tecendil.com/tengwar-handbook/" rel="noreferrer noopener" target="_blank">Omatehtar</a>).
 
-### Chế độ Quenya cổ điển {#Classical_Quenya_mode}
+### Kiểu Quenya cổ điển {#Classical_Quenya_mode}
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/R/Ryszard_Derdziński_-_Feanor.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/e/ef/Ryszard_Derdzi%C5%84ski_-_Feanor.jpg/300px-Ryszard_Derdzi%C5%84ski_-_Feanor.jpg" decoding="async" loading="lazy" width="300" height="467" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/ef/Ryszard_Derdzi%C5%84ski_-_Feanor.jpg/450px-Ryszard_Derdzi%C5%84ski_-_Feanor.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/e/ef/Ryszard_Derdzi%C5%84ski_-_Feanor.jpg/600px-Ryszard_Derdzi%C5%84ski_-_Feanor.jpg 2x" data-file-width="658" data-file-height="1024"/></a><figcaption><a href="../F/Fëanor.md" title="Fëanor">Fëanor</a> thiết kế Tengwar đầu tiên. Nghệ thuật của <a href="../R/Ryszard_Derdziński.md" title="Ryszard Derdziński">Ryszard Derdziński</a></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/R/Ryszard_Derdziński_-_Feanor.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/e/ef/Ryszard_Derdzi%C5%84ski_-_Feanor.jpg/300px-Ryszard_Derdzi%C5%84ski_-_Feanor.jpg" decoding="async" loading="lazy" width="300" height="467" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/ef/Ryszard_Derdzi%C5%84ski_-_Feanor.jpg/450px-Ryszard_Derdzi%C5%84ski_-_Feanor.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/e/ef/Ryszard_Derdzi%C5%84ski_-_Feanor.jpg/600px-Ryszard_Derdzi%C5%84ski_-_Feanor.jpg 2x" data-file-width="658" data-file-height="1024"/></a><figcaption><a href="../F/Fëanor.md" title="Fëanor">Fëanor</a> thiết kế những chữ Tengwar đầu tiên. Minh họa: <a href="../R/Ryszard_Derdziński.md" title="Ryszard Derdziński">Ryszard Derdziński</a>.</figcaption></figure>
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> chế độ <b><a class="mw-redirect" href="../Q/Quenya_mode.md" title="Quenya mode">Quenya</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài viết chính:</i> <b><a class="mw-redirect" href="../Q/Quenya_mode.md" title="Quenya mode">Kiểu Quenya</a></b></div></div>
 
-Không giống như Rúmil, Fëanor coi nguyên âm là âm thanh độc lập chứ không chỉ là “màu sắc” của phụ âm nên ông đã nghĩ ra “cách viết đầy đủ” ([Quanta Sarmë](../Q/Quanta_Sarmë.md)).<sup id="cite_ref-ApD_5-1" class="reference"><a href="#cite_note-ApD-5">[5]</a></sup>
+Khác với Rúmil, Fëanor xem nguyên âm là những âm vị độc lập chứ không chỉ là “màu sắc” của phụ âm, vì thế ông sáng tạo ra kiểu “toàn tự” ([Quanta Sarmë](../Q/Quanta_Sarmë.md)).<sup id="cite_ref-ApD_5-1" class="reference"><a href="#cite_note-ApD-5">[5]</a></sup>
 
-Tuy nhiên, Fëanor cũng sử dụng một hệ thống 'bảo thủ' hơn và hệ thống này dường như đã trở nên phổ biến hơn nhiều; ông cũng giữ ý tưởng của Rúmil về phân tích âm tiết các từ của người Sarati và sử dụng [tehtar](Tehtar.md) thay vì các chữ cái đầy đủ.<sup id="cite_ref-ApD_5-2" class="reference"><a href="#cite_note-ApD-5">[5]</a></sup>
+Tuy nhiên, Fëanor cũng sử dụng một hệ thống mang tính 'bảo thủ' hơn, dường như được ưa chuộng hơn hẳn; ông cũng tiếp thu ý tưởng của Rúmil về việc dùng Sarati để phân tích từ ngữ theo âm tiết và sử dụng [tehtar](Tehtar.md) thay cho các chữ cái nguyên vẹn.<sup id="cite_ref-ApD_5-2" class="reference"><a href="#cite_note-ApD-5">[5]</a></sup>
 
-Chế độ Quenya cổ điển của Tengwar có thể bắt nguồn từ sự sắp xếp của chính Fëanor. Không có bằng chứng trực tiếp nào cho giả thuyết này, nhưng việc sử dụng tên Quenya cho từng chữ cái gợi ý về loài linh trưởng thuộc chế độ Quenya. Một gợi ý khác cho thấy chế độ Quenya cổ điển đã có từ rất lâu đời là nó sử dụng [Calmatéma](../C/Calmatéma.md) làm chuỗi k, giống như chế độ Beleriand mà chúng ta có thể cho là có nguồn gốc từ Kỷ Đệ Nhất.
+Kiểu Quenya cổ điển của Tengwar có thể bắt nguồn từ cách sắp xếp do chính Fëanor tạo ra. Không có bằng chứng trực tiếp nào chứng minh giả thuyết này, nhưng việc sử dụng tên Quenya cho từng chữ cái gợi ý rằng Kiểu Quenya có trước các kiểu khác. Một dấu hiệu khác cho thấy Kiểu Quenya cổ điển đã xuất hiện từ rất sớm là việc nó xếp [Calmatéma](../C/Calmatéma.md) vào hàng phụ âm k, giống như Kiểu Beleriand, vốn có thể đã xuất hiện từ Kỷ Đệ Nhất.
 
-### Chế độ Beleriand {#Mode_of_Beleriand}
+### Kiểu Beleriand {#Mode_of_Beleriand}
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a class="mw-redirect" href="../M/Mode_of_Beleriand.md" title="Mode of Beleriand">Chế độ Beleriand</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài viết chính:</i> <b><a class="mw-redirect" href="../M/Mode_of_Beleriand.md" title="Mode of Beleriand">Kiểu Beleriand</a></b></div></div>
 
-Khi [Noldor](../N/Noldor.md) nổi loạn và đến [Trung Địa](../M/Middle-earth.md), họ đã điều chỉnh cách viết của mình cho phù hợp với ngôn ngữ mới mà họ học được. Quanta Sarmë được sử dụng cho các ngôn ngữ mà tehtar không hữu ích<sup id="cite_ref-ApD_5-3" class="reference"><a href="#cite_note-ApD-5">[5]</a></sup> và có thể là nguồn gốc của Chế độ Beleriand.
+Khi [Noldor](../N/Noldor.md) nổi loạn và đến [Trung Địa](../M/Middle-earth.md), họ đã điều chỉnh hệ thống chữ viết để phù hợp với những ngôn ngữ mới mà họ học. Quanta Sarmë được dùng cho những ngôn ngữ không thích hợp với việc sử dụng tehtar<sup id="cite_ref-ApD_5-3" class="reference"><a href="#cite_note-ApD-5">[5]</a></sup>, và điều này có thể là nguồn gốc của Kiểu Beleriand.
 
-Cũng có thể Tengwar đã ảnh hưởng đến sự phát triển của [Cirth](../C/Cirth.md) của [Daeron](../D/Daeron.md) trong Beleriand, chủ yếu là ở hình dạng và cách sắp xếp của chúng.
+Cũng có thể Tengwar đã ảnh hưởng đến sự phát triển của hệ chữ [Cirth](../C/Cirth.md) do [Daeron](../D/Daeron.md) sáng tạo ở Beleriand, đặc biệt là về hình dạng và cách sắp xếp các ký tự.
 
 Chúng tôi biết từ dòng chữ trên cổng [Phương Tây của Moria](../W/West-gate_of_Moria.md) rằng chế độ Tengwar được gọi là [Chế độ của Beleriand](../M/Mode_of_Beleriand.md) đã được sử dụng trong [Eregion](../E/Eregion.md). Tên này cho phép giả định rằng chế độ tương tự đã được sử dụng trong [Kỷ Đệ Nhất](../F/First_Age.md).
 
@@ -73,35 +73,35 @@ Chúng tôi biết từ dòng chữ trên cổng [Phương Tây của Moria](../
 
 ### Sử dụng chung {#General_use}
 
-Đến cuối Kỷ Đệ Tam, đã có một *general use* có thể được sử dụng cho nhiều ngôn ngữ bao gồm Quenya, Sindarin và Ngôn ngữ Chung.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Việc sử dụng này có thể đã phát triển trong [Kỷ Đệ Nhị](../S/Second_Age.md) trong [Eregion](../E/Eregion.md) hoặc thậm chí trong [Númenor](../N/Númenor.md).
+Đến cuối Kỷ Đệ Tam, một kiểu chữ dùng chung đã hình thành, có thể sử dụng cho nhiều ngôn ngữ, trong đó có Quenya, Sindarin và Ngôn ngữ Chung.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Kiểu chữ dùng chung này có thể đã phát triển vào [Kỷ Đệ Nhị](../S/Second_Age.md) ở [Eregion](../E/Eregion.md), hoặc thậm chí tại [Númenor](../N/Númenor.md).
 
 <figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_-_One_Ring_inscription.png.md"><img src="https://tolkiengateway.net/w/images/thumb/d/dc/J.R.R._Tolkien_-_One_Ring_inscription.png/300px-J.R.R._Tolkien_-_One_Ring_inscription.png" decoding="async" loading="lazy" width="300" height="89" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/dc/J.R.R._Tolkien_-_One_Ring_inscription.png/450px-J.R.R._Tolkien_-_One_Ring_inscription.png 1.5x, https://tolkiengateway.net/w/images/thumb/d/dc/J.R.R._Tolkien_-_One_Ring_inscription.png/600px-J.R.R._Tolkien_-_One_Ring_inscription.png 2x" data-file-width="2035" data-file-height="605"/></a><figcaption>The <a href="../R/Ring-inscription.md" title="Ring-inscription">Ring-inscription</a> on <a href="The_One_Ring.md" title="The One Ring">the One Ring</a>.</figcaption></figure>
 
 Chế độ tương tự xuất hiện trên [Dòng chữ](../R/Ring-inscription.md)<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> mà [Númenorean](../N/Númenorean.md) [Isildur](../I/Isildur.md) quan sát thấy nó "được tạo kiểu theo chữ viết yêu tinh của Eregion".<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
 
-Không rõ liệu toàn bộ *mode* có phải là từ Eregion hay chỉ đơn giản là *script* là kiểu Elvish. Một số từ [Adûnaic](../A/Adûnaic.md) sử dụng chế độ này.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>
+Không rõ toàn bộ kiểu chữ này có nguồn gốc từ Eregion hay chỉ riêng hệ chữ viết mang phong cách Tiên tộc. Một số từ [Adûnaic](../A/Adûnaic.md) được viết bằng kiểu chữ này.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>
 
-Một chế độ khác dựa trên "cách sử dụng chung" nhưng sử dụng các chữ cái đầy đủ để thể hiện nguyên âm đã được sử dụng ở phần phía Bắc của các vùng nói [Westron](../W/Westron.md), có lẽ do ảnh hưởng của Tiên tộc của [Rivendell](../R/Rivendell.md). Điều này có thể giải thích tại sao Frodo không thể đọc được Chế độ của Beleriand hoặc Dòng chữ trên Nhẫn.
+Một kiểu chữ khác dựa trên "cách dùng chung" nhưng dùng các chữ cái đầy đủ để biểu thị nguyên âm được sử dụng ở miền bắc các vùng sử dụng tiếng [Westron](../W/Westron.md), có lẽ chịu ảnh hưởng từ Tiên tộc ở [Rivendell](../R/Rivendell.md). Điều này có thể giải thích vì sao Frodo không thể đọc được cả Kiểu Beleriand lẫn dòng khắc trên Nhẫn.
 
 ## Chính tả và phát âm {#Spelling_and_pronunciation}
 
 ### Cấu trúc {#Structure}
 
-Đặc điểm đáng chú ý nhất của kiểu chữ Tengwar là hình dạng của các chữ cái tương ứng với đặc điểm âm thanh mà chúng thể hiện.
+Đặc điểm nổi bật nhất của hệ chữ Tengwar là hình dạng các chữ cái tương ứng với đặc điểm của những âm mà chúng biểu thị.
 
-Hình dạng của Tengwar bao gồm một cách đồng nhất hai phần tử, *[telco](Telco.md)* (thân cây) được gắn một *[lúva](../L/Lúva.md)* (cung). Điều đáng chú ý là một số chữ cái của [Sarati](../S/Sarati.md) giống với hình dạng telco/lúva thấy trên Tengwar. Vì vậy, có thể những chữ cái cụ thể đó đã ảnh hưởng đến phong cách của Tengwar.
+Các chữ Tengwar đều có cấu tạo gồm hai thành phần: \*[telco](Telco.md)\* (nét thân) và \*[lúva](../L/Lúva.md)\* (nét cong) gắn vào đó. Đáng chú ý là một số chữ cái trong [Sarati](../S/Sarati.md) có cấu trúc tương tự telco/lúva trong hệ chữ Tengwar. Vì vậy, có thể những chữ cái ấy đã ảnh hưởng đến kiểu dáng của Tengwar.
 
-Telco có thể bình thường, tăng lên, rút ​​ngắn hoặc tăng cao. Luva sẽ là đơn hoặc đôi và chúng có thể mở hoặc đóng.
+Telco có thể ở độ cao bình thường, được nâng cao, rút ngắn hoặc kéo dài. Lúva có thể là nét đơn hoặc nét kép, và các nét cong này có thể để hở hoặc khép kín.
 
-Tất cả sự kết hợp trên có thể tạo ra 32 đến 40 hình dạng chữ cái khác nhau. Những hình dạng này phản ánh ý nghĩa âm vị học: hình thức cơ bản của tengwa được sử dụng cho [patakar](../P/Patakar.md), những điểm dừng vô thanh; telcor xác định cách âm thanh được phát âm và âm thanh được tạo ra ở đâu trong miệng:
+Tất cả các cách kết hợp trên có thể tạo ra từ 32 đến 40 dạng chữ cái khác nhau. Các dạng chữ này phản ánh những đặc trưng ngữ âm: dạng cơ bản của một tengwa được dùng để biểu thị [patakar](../P/Patakar.md), tức các phụ âm tắc vô thanh; telcor xác định cách cấu âm, còn lúvar xác định vị trí trong miệng nơi âm được tạo ra:
 
-- Gấp đôi cung sẽ biến phụ âm vô thanh thành phụ âm hữu thanh.
-- Nâng thân lên trên dòng biến nó thành phiên bản ma sát tương ứng hoặc phiên bản lồng tiếng tương ứng của nó.
-- Việc rút ngắn nó (vì vậy nó chỉ là chiều cao của cung) biểu thị mũi tương ứng hoặc hầu hết là các âm gần đúng.
+- Gấp đôi nét cong biến phụ âm vô thanh thành phụ âm hữu thanh.
+- Nâng nét thân lên cao hơn dòng kẻ biến phụ âm đó thành âm xát tương ứng hoặc dạng hữu thanh tương ứng của âm đó.
+- Rút ngắn nét thân (để nó chỉ cao bằng nét cong) biểu thị âm mũi tương ứng hoặc, phần lớn, các âm tiếp cận.
 
-Tùy theo hình dạng của chúng, 32 hình tượng khác nhau có thể được sắp xếp và trình bày một cách nhất quán trên bàn. Các chữ cái chính được chia thành các dãy (*témar*) tương ứng với các vị trí phát âm chính và thành sáu hàng (*tyeller*) tương ứng với các cách phát âm chính. Cả hai đều khác nhau giữa các chế độ.
+Dựa vào hình dạng, có thể sắp xếp 32 ký tự khác nhau thành một bảng nhất quán. Các chữ cái chính được chia thành những dãy (\*témar\*) tương ứng với các vị trí cấu âm chính và sáu hàng (\*tyeller\*) tương ứng với các phương thức cấu âm chính. Cả hai đều thay đổi tùy theo từng kiểu.
 
-Bảng dưới đây cung cấp các giá trị **lý thuyết**<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> của Tengwar dựa trên các quy tắc nêu trên một cách nhất quán. Lưu ý rằng không có ngôn ngữ nào sở hữu tất cả những âm thanh này và những âm thanh sau đây không thể hiện bảng giá trị thực tế của một ngôn ngữ cụ thể. Trên thực tế, các ngôn ngữ đã sử dụng các sửa đổi hoặc biến thể của chúng.
+Bảng dưới đây trình bày các giá trị \*\*lý thuyết\*\*<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> của Tengwar, được xây dựng nhất quán theo các quy tắc nêu trên. Lưu ý rằng không ngôn ngữ nào có đầy đủ tất cả những âm này, và bảng dưới đây không phải là bảng giá trị thực tế của bất kỳ ngôn ngữ cụ thể nào. Trên thực tế, các ngôn ngữ sử dụng những dạng điều chỉnh hoặc biến thể của các giá trị này.
 
 <table style="text-align:center; height:30em; margin-left: 20%; margin-right: auto;">
 <tbody><tr>
@@ -271,7 +271,7 @@ Bảng dưới đây cung cấp các giá trị **lý thuyết**<sup id="cite_re
 
 ### Sắp xếp {#Arrangement}
 
-Đến cuối [Kỷ Đệ Tam](Third_Age.md), Tengwar bằng cách nào đó đã được chuẩn hóa. Tên Quenya của chúng đã trở thành tiêu chuẩn cho tất cả các chế độ và những tên ít được sử dụng hơn không được đưa vào (mặc dù vẫn được sử dụng), chẳng hạn như tên của các thân mở rộng và [Tyelpetéma](Tyelpetéma.md). Bảng hiển thị 36 chữ cái: 24 chữ cái Tengwar tiêu chuẩn, cộng với 12 chữ cái Tengwar bổ sung.
+Đến cuối [Kỷ Đệ Tam](Third_Age.md), Tengwar đã dần được chuẩn hóa. Tên gọi bằng tiếng Quenya của các chữ trở thành tên gọi chuẩn trong mọi kiểu chữ, còn những chữ ít được dùng hơn không được đưa vào bảng, dù vẫn tiếp tục được sử dụng, chẳng hạn như các chữ có nét thân kéo dài và các chữ thuộc [Tyelpetéma](Tyelpetéma.md). Bảng gồm 36 chữ cái: 24 chữ Tengwar tiêu chuẩn và 12 chữ Tengwar bổ sung.
 
 Ngoài ra, Tengwar được gán các giá trị số.
 
@@ -486,11 +486,11 @@ Ngoài ra, Tengwar được gán các giá trị số.
 
 ## Giá trị {#Values}
 
-Như đã đề cập, Tengwar có chế độ chung bao gồm nhiều loại âm vị. Chế độ này có lẽ bắt nguồn từ [Eregion](../E/Eregion.md) và được minh họa trong câu thơ [Chiếc nhẫn duy nhất](The_One_Ring.md) và các văn bản Westron Tengwar khác. Nó có thể được sử dụng cho cả Quenya và Sindarin.
+Như đã đề cập, Tengwar có một kiểu chữ tổng quát bao quát một phạm vi rộng các âm vị. Kiểu chữ này có lẽ bắt nguồn từ [Eregion](../E/Eregion.md) và được thể hiện qua bài thơ về [Nhẫn Chúa](The_One_Ring.md) cùng các văn bản Westron khác viết bằng Tengwar. Kiểu chữ này có thể dùng cho cả Quenya lẫn Sindarin.
 
-Bảng sau đây cung cấp cả tên Quenya và tên Numenian<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> chính thức của Tengwar. Khi hai giá trị được đưa ra (được phân tách bằng dấu gạch chéo **/**), giá trị đầu tiên đề cập đến biến thể Elvish và giá trị thứ hai đề cập đến biến thể [Mannish](../M/Mannish.md) hoặc Westron.
+Bảng sau liệt kê tên gọi chính thức của Tengwar bằng tiếng Quenya và tiếng Numenian<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup>. Khi có hai giá trị (được ngăn cách bằng dấu gạch chéo **/**), giá trị thứ nhất chỉ biến thể của Tiên tộc, còn giá trị thứ hai chỉ biến thể của [Con Người](../M/Mannish.md) hoặc Westron.
 
-Lưu ý rằng dấu gạch ngang cho biết khi nào chữ cái được sử dụng đầu tiên hoặc cuối cùng và/hoặc như một nguyên tố nguyên âm đôi.
+Lưu ý rằng dấu gạch ngang cho biết chữ cái được dùng ở vị trí đầu hoặc cuối từ, hoặc làm thành phần của nguyên âm đôi.
 
 <table class="wikitable">
 <tbody><tr>
@@ -659,7 +659,7 @@ Lưu ý rằng dấu gạch ngang cho biết khi nào chữ cái được sử d
 <td>-u?<br/>Úre/Au
 </td></tr></tbody></table>
 
-Sau đây là một dạng đầy đủ, chủ yếu liên quan đến phía bắc và sử dụng Tengwar (và sóng mang) làm nguyên âm. Nó có thể được tạo trong [Arnor](../A/Arnor.md), chịu ảnh hưởng từ Chế độ Beleriand được sử dụng trong [Rivendell](../R/Rivendell.md). Ngay cả [người lùn](../D/Dwarves.md) [Ori](../O/Ori.md) cũng viết bằng chữ này trong [Sách Mazarbul](../B/Book_of_Mazarbul.md).<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup>
+Sau đây là một biến thể của kiểu chữ toàn ký, chủ yếu gắn với miền Bắc, sử dụng các ký tự Tengwar (và ký tự mang nguyên âm) để biểu thị nguyên âm. Kiểu chữ này có lẽ ra đời ở [Arnor](../A/Arnor.md), chịu ảnh hưởng của Kiểu Beleriand được sử dụng tại [Rivendell](../R/Rivendell.md). Ngay cả [Người Lùn](../D/Dwarves.md) [Ori](../O/Ori.md) cũng dùng kiểu chữ này trong [Sách Mazarbul](../B/Book_of_Mazarbul.md).<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup>
 
 <table class="wikitable">
 <tbody><tr>
@@ -847,22 +847,22 @@ Sau đây là một dạng đầy đủ, chủ yếu liên quan đến phía b�
 
 ## Chế độ khác {#Other_modes}
 
-Giống như bất kỳ hệ thống chữ viết chữ cái nào, mỗi ngôn ngữ cụ thể được viết bằng Tengwar đều yêu cầu một chính tả cụ thể, tùy thuộc vào âm vị học của ngôn ngữ đó. Những Tengwar chính tả này thường được gọi là *modes*. Tất cả đều sử dụng bảng "<a class="mw-selflink-fragment" href="#Structure">giá trị lý thuyết</a>" làm cơ sở, tương ứng các chữ cái với âm vị trong âm vị học của mỗi ngôn ngữ và thậm chí loại bỏ các ký tự vô dụng.
+Cũng như mọi hệ chữ cái, mỗi ngôn ngữ được viết bằng Tengwar đều cần có quy tắc chính tả riêng, tùy thuộc vào hệ thống âm vị của ngôn ngữ đó. Các hệ thống chính tả Tengwar này thường được gọi là *kiểu chữ*. Tất cả đều lấy bảng "<a class="mw-selflink-fragment" href="#Structure">giá trị lý thuyết</a>" ở trên làm cơ sở, ánh xạ các chữ cái với những âm vị trong hệ thống âm vị của từng ngôn ngữ, đồng thời loại bỏ những ký tự không cần thiết.
 
-Tất cả các chế độ có thể được chia thành hai loại lớn:
+Tất cả các kiểu chữ có thể được chia thành hai nhóm lớn:
 
-- Một số biểu thị nguyên âm có dấu phụ gọi là **[tehtar](Tehtar.md)** hoặc <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=%C3%93matehtar&amp;action=edit&amp;redlink=1" title="Ómatehtar (page does not exist)">ómatehtar</a></i> ("nguyên âm tehtar"), giống như chế độ [Quenya](../Q/Quenya_mode.md).
-- Chế độ "viết đầy đủ" thể hiện nguyên âm bằng các chữ cái thông thường, chẳng hạn như [Quanta Sarmë](../Q/Quanta_Sarmë.md) hoặc [Chế độ Beleriand](../M/Mode_of_Beleriand.md).
+- Một số biểu thị nguyên âm bằng các dấu phụ gọi là **[tehtar](Tehtar.md)** hoặc <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=%C3%93matehtar&amp;action=edit&amp;redlink=1" title="Ómatehtar (page does not exist)">ómatehtar</a></i> ("các dấu tehtar biểu thị nguyên âm"), như kiểu chữ [Quenya](../Q/Quenya_mode.md).
+- Các kiểu chữ "toàn ký" biểu thị nguyên âm bằng những chữ cái thông thường, chẳng hạn như [Quanta Sarmë](../Q/Quanta_Sarmë.md) hoặc [Kiểu Beleriand](../M/Mode_of_Beleriand.md).
 
-Hơn nữa, một số chế độ ánh xạ các phụ âm cơ bản thành <span title="Pronunciation in IPA" class="IPA">/t/</span>, <span title="Pronunciation in IPA" class="IPA">/p/</span>, <span title="Pronunciation in IPA" class="IPA">/k/</span>và <span title="Pronunciation in IPA" class="IPA">/kʷ/</span>, trong khi các chế độ khác (thường là [Mannish](../M/Mannish.md)) sử dụng chúng để biểu thị <span title="Pronunciation in IPA" class="IPA">/t/</span>, <span title="Pronunciation in IPA" class="IPA">/p/</span>, <span title="Pronunciation in IPA" class="IPA">/tʃ/</span>và <span title="Pronunciation in IPA" class="IPA">/k/</span>.
+Hơn nữa, một số kiểu chữ ánh xạ các phụ âm cơ bản lần lượt thành <span title="Pronunciation in IPA" class="IPA">/t/</span>, <span title="Pronunciation in IPA" class="IPA">/p/</span>, <span title="Pronunciation in IPA" class="IPA">/k/</span> và <span title="Pronunciation in IPA" class="IPA">/kʷ/</span>, trong khi những kiểu chữ khác (thường là kiểu chữ [của Con Người](../M/Mannish.md)) dùng các ký tự này để biểu thị <span title="Pronunciation in IPA" class="IPA">/t/</span>, <span title="Pronunciation in IPA" class="IPA">/p/</span>, <span title="Pronunciation in IPA" class="IPA">/tʃ/</span> và <span title="Pronunciation in IPA" class="IPA">/k/</span>.
 
 ## Lịch sử bên ngoài {#External_history}
 
-[Sarati](../S/Sarati.md), một kiểu chữ được phát triển bởi Tolkien vào cuối những năm 1910 được mô tả trong <i><a href="../P/Parma_Eldalamberon_13.md" title="Parma Eldalamberon 13"><i>Parma Eldalamberon</i> 13</a></i>, dự đoán trước nhiều đặc điểm của Tengwar, đặc biệt là cách biểu thị nguyên âm bằng dấu phụ (được tìm thấy ở nhiều dạng Tengwar), Tengwar hình dạng khác nhau và một số ít sự tương ứng giữa đặc điểm âm thanh và đặc điểm hình dạng chữ cái (mặc dù không nhất quán).
+[Sarati](../S/Sarati.md), một hệ chữ do Tolkien phát triển vào cuối thập niên 1910 và được mô tả trong <i><a href="../P/Parma_Eldalamberon_13.md" title="Parma Eldalamberon 13"><i>Parma Eldalamberon</i> 13</a></i>, đã có trước và thể hiện nhiều đặc điểm sau này xuất hiện ở Tengwar, đặc biệt là cách biểu thị nguyên âm bằng dấu phụ (đặc điểm có ở nhiều biến thể Tengwar), các hình dạng chữ Tengwar khác nhau và một vài mối tương ứng giữa đặc điểm âm thanh với hình dạng chữ cái (dù không nhất quán).
 
-Gần giống với Tengwar hơn là [chữ Valmaric](../V/Valmaric_script.md), được mô tả trong [*Parma Eldalamberon* 14](../P/Parma_Eldalamberon_14.md), được Tolkien sử dụng từ khoảng năm 1922 đến năm 1925. Nó có nhiều hình dạng Tengwar và nguyên âm cố hữu <span title="Pronunciation in IPA" class="IPA">[a]</span> được tìm thấy ở một số dạng Tengwar. Các bảng trong mẫu V12 và V13 hiển thị cách sắp xếp rất giống với bảng trong Tengwar chính ở "chế độ" Quenya cổ điển.
+Gần với Tengwar hơn nữa là [chữ Valmaric](../V/Valmaric_script.md), được mô tả trong [*Parma Eldalamberon* 14](../P/Parma_Eldalamberon_14.md) và được Tolkien sử dụng vào khoảng năm 1922–1925. Chữ viết này có nhiều dạng ký tự giống Tengwar và có nguyên âm mặc định <span title="Pronunciation in IPA" class="IPA">[a]</span>, xuất hiện trong một số biến thể Tengwar. Các bảng trong hai mẫu V12 và V13 cho thấy cách sắp xếp rất giống với cách sắp xếp của hệ Tengwar chính trong “mode” Quenya cổ điển.
 
-Tengwar có lẽ đã được phát triển vào cuối những năm 1920 hoặc đầu những năm 1930. *The Lonely Mountain Jar Inscription*, mẫu Tengwar được xuất bản lần đầu tiên, có từ năm 1937 (*[The Hobbit](The_Hobbit.md)*, hầu hết các phiên bản). Lời giải thích đầy đủ về Tengwar được công bố trong Phụ lục E của *[The Lord of the Rings](The_Lord_of_the_Rings.md)* năm 1955.
+Tengwar có lẽ được phát triển vào cuối thập niên 1920 hoặc đầu thập niên 1930. *The Lonely Mountain Jar Inscription*, mẫu Tengwar đầu tiên được công bố, có niên đại từ năm 1937 (*[The Hobbit](The_Hobbit.md)*, trong hầu hết các ấn bản). Phần giải thích đầy đủ về Tengwar được công bố trong Phụ lục E của *[The Lord of the Rings](The_Lord_of_the_Rings.md)* năm 1955.
 
 ## Cảm hứng {#Inspiration}
 
@@ -872,7 +872,7 @@ Tengwar là một <a class="extiw" href="http://en.wikipedia.org/wiki/Featural_w
 
 Nhà ngôn ngữ học <a class="extiw" href="http://en.wikipedia.org/wiki/Jerzy_Kury%C5%82owicz" title="wikipedia:Jerzy Kuryłowicz">Jerzy Kuryłowicz</a> ngay lập tức nhận ra sự giống nhau của một loại chữ trang trí của chữ [Celtic](../C/Celtic.md) (có lẽ đề cập đến <a class="extiw" href="http://en.wikipedia.org/wiki/Insular_script" title="wikipedia:Insular script">chữ Insular</a>).<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup>
 
-Không biết Tolkien có biết về các tập lệnh trước đó hay không. Tuy nhiên, xét đến chữ sarati và chữ viết valmaric mà ông đã phát minh ra khi còn trẻ, có thể hình dung rằng Tolkien đã tự mình phát triển ý tưởng về ký hiệu đặc trưng. Tuy nhiên, trong [The Lord of the Rings](The_Lord_of_the_Rings.md), Tolkien mô tả nó không phải là một bảng chữ cái mà là một "chuỗi các chữ cái lộn xộn", vì mỗi chữ cái đều có giá trị riêng.<sup id="cite_ref-App|E2_1-1" class="reference"><a href="#cite_note-App|E2-1">[1]</a></sup>
+Không rõ Tolkien có biết đến các hệ chữ viết có trước này hay không. Tuy nhiên, xét đến sarati và chữ Valmaric mà ông đã phát minh khi còn trẻ, có thể Tolkien đã tự mình phát triển ý tưởng về lối ký âm dựa trên đặc điểm. Dẫu vậy, trong [The Lord of the Rings](The_Lord_of_the_Rings.md), Tolkien mô tả hệ chữ này không phải là một bảng chữ cái mà là một “chuỗi chữ cái sắp xếp tùy tiện”, bởi mỗi ký tự đều có giá trị riêng.<sup id="cite_ref-App|E2_1-1" class="reference"><a href="#cite_note-App|E2-1">[1]</a></sup>
 
 Tương tự như vậy, người ta cũng không biết liệu hình dạng của một số Tengwar có được lấy cảm hứng từ <a class="extiw" href="http://en.wikipedia.org/wiki/Insular_script" title="wikipedia:Insular script">chữ viết nhỏ bé</a> (dùng để viết <a class="new" href="https://tolkiengateway.net/w/index.php?title=Anglo-saxon&amp;action=edit&amp;redlink=1" title="Anglo-saxon (page does not exist)">Anglo-saxon</a>) hay <a class="extiw" href="http://en.wikipedia.org/wiki/blackletter" title="wikipedia:blackletter">textura kiểu Gothic</a> và chữ thảo (dùng để viết tiếng Anh trung cổ), mà Tolkien đã quen thuộc khi đọc các bản thảo thời Trung cổ bằng các ngôn ngữ này với tư cách là một nhà ngôn ngữ học.
 
@@ -880,21 +880,21 @@ Tương tự như vậy, người ta cũng không biết liệu hình dạng c�
 
 ### Chế độ {#Modes}
 
-Vì người dân Trung Địa sử dụng nhiều chế độ Tengwar khác nhau và khi Tolkien viết tiếng Anh, [tiếng Anh cổ](../O/Old_English.md) và [Bắc Âu](../N/Norse.md) bằng Tengwar, [người hâm mộ](../F/Fandom.md) đã tạo Tengwar chế độ cho ngôn ngữ thực. Có các chế độ để viết tiếng Pháp, tiếng Thụy Điển, tiếng Latin, tiếng Ý hoặc tiếng Tây Ban Nha.
+Vì các dân tộc ở Trung Địa sử dụng nhiều mode Tengwar khác nhau, và Tolkien cũng dùng Tengwar để viết tiếng Anh, [tiếng Anh cổ](../O/Old_English.md) và [Bắc Âu](../N/Norse.md), nên [người hâm mộ](../F/Fandom.md) đã tạo ra các mode Tengwar dành cho những ngôn ngữ có thật. Có các mode dùng để viết tiếng Pháp, tiếng Thụy Điển, tiếng Latin, tiếng Ý hoặc tiếng Tây Ban Nha.
 
-### Sơ đồ mã hóa {#Encoding_schemes}
+### Các phương thức mã hóa {#Encoding_schemes}
 
 #### Không phải Unicode {#Non-Unicode}
 
 Tiêu chuẩn thực tế hiện đại trong cộng đồng người dùng Tengwar ánh xạ các ký tự Tengwar vào mã hóa ký tự tiếng Anh thông thường theo ví dụ về <a class="external text" href="http://www.gis.net/~dansmith/fonts/font_tengwar/" rel="noreferrer noopener" target="_blank">Tengwar kiểu chữ</a> của [Dan Smith](../D/Dan_Smith.md). Một nhược điểm của giải pháp phông chữ là nếu không cài đặt phông chữ Tengwar tương ứng, một chuỗi <a class="extiw" href="http://en.wikipedia.org/wiki/Mojibake" title="wikipedia:Mojibake">ký tự vô nghĩa</a> khủng khiếp sẽ xuất hiện.
 
-Vì không có đủ chỗ cho tất cả các biển báo nên một số biển báo nhất định được đưa vào phông chữ "Tengwar A", phông chữ này cũng ánh xạ các ký tự của nó theo ISO 8859-1, trùng với phông chữ đầu tiên.
+Vì không đủ chỗ cho tất cả các ký hiệu nên một số ký hiệu được đưa vào phông chữ "Tengwar A". Phông chữ này cũng ánh xạ các ký tự sang bảng mã ISO 8859-1, có các ký tự trùng với phông chữ đầu tiên.
 
-Đối với mỗi dấu phụ Tengwar, có bốn điểm mã khác nhau được sử dụng tùy thuộc vào độ rộng của ký tự mang nó.
+Với mỗi dấu phụ trong Tengwar, có bốn điểm mã khác nhau, được sử dụng tùy theo độ rộng của ký tự có dấu phụ đó.
 
 Các kiểu chữ Tengwar khác có mã hóa của Dan Smith bao gồm <a class="external text" href="http://home.student.uu.se/j/jowi4905/fonts/annatar.html" rel="noreferrer noopener" target="_blank">Johan Winge Tengwar Annatar</a>, <a class="external text" href="https://at.boktypografen.se/parmaite.htm" rel="noreferrer noopener" target="_blank">Måns Björkman Tengwar Parmaite</a>, <a class="external text" href="http://www.geocities.com/enrombell/Archivos.htm" rel="noreferrer noopener" target="_blank">Enrique Mombello Tengwar Élfica</a> hoặc <a class="external text" href="http://www.limes.com.pl/~miszka/" rel="noreferrer noopener" target="_blank">Michal Nowakowski Tengwar Chính thức</a> (lưu ý rằng hầu hết các thông tin này đều khác nhau về chi tiết).
 
-Mẫu sau đây thể hiện bài viết đầu tiên của Tuyên ngôn Quốc tế Nhân quyền được viết bằng tiếng Anh theo chính tả tiếng Anh truyền thống. Nếu không cài đặt phông chữ Tengwar, nó sẽ trông vô nghĩa vì thay vào đó, các ký tự ISO 8859-1 tương ứng (chữ cái La Mã, số và ký hiệu) sẽ xuất hiện.
+Mẫu sau đây trình bày điều khoản đầu tiên của Tuyên ngôn Quốc tế Nhân quyền, viết bằng tiếng Anh theo quy tắc chính tả truyền thống của tiếng Anh. Nếu không cài đặt phông chữ Tengwar, nội dung hiển thị sẽ vô nghĩa vì các ký tự ISO 8859-1 tương ứng (chữ cái Roman, chữ số và ký hiệu) sẽ hiển thị thay thế.
 
 <span class="tg-tengwar tg-tengwar--tengwar_eldamar">j#¸ 9t&amp;5# w`Vb%_ 6EO w6Y5 e7~V 2{( zèVj# 5% 2x%51T`Û 2{( 7v%1+º 4hR 7EO 2{$yYO2 y4% 7]F85^ 2{( z5^8i`B5$i( 2{( dyYj2 zE1 1`N ]Fa 4^(6 5% `C 8q7T1T W w74^(69~N2º</span>
 
@@ -909,7 +909,7 @@ Tengwar hiện được đưa vào Sổ đăng ký Unicode ConScript không chí
 </p>
 </blockquote>
 
-### Sử dụng bên ngoài di tích {#Uses_outside_the_legendarium}
+### Việc sử dụng ngoài huyền sử {#Uses_outside_the_legendarium}
 
 Ngẫu nhiên (vô nghĩa) Tengwar xuất hiện đầy phong cách trên phần chống đỡ của một cuốn sách cổ trong video âm nhạc <a class="extiw" href="http://en.wikipedia.org/wiki/Within_Temptation" title="wikipedia:Within Temptation">Within Temptation</a> của "Stand My Ground".<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> Tengwar cũng xuất hiện trong trò chơi máy tính <i><a class="extiw" href="http://en.wikipedia.org/wiki/Atlantis:_The_Lost_Tales" title="wikipedia:Atlantis: The Lost Tales">Atlantis: Lost Tales</a></i> và <i><a class="extiw" href="http://en.wikipedia.org/wiki/Alone_in_the_Dark" title="wikipedia:Alone in the Dark">Alone in the Truyện tranh đen tối</a></i>. Tengwar trong tập *The Monster and the Willow* của loạt phim hoạt hình năm 2004 <i><a class="extiw" href="http://en.wikipedia.org/wiki/Winx_Club" title="wikipedia:Winx Club">Winx Club</a></i>, cũng như bộ phim chuyển thể năm 2007 <i><a class="extiw" href="http://en.wikipedia.org/wiki/Winx_Club:_The_Secret_of_the_Lost_Kingdom" title="wikipedia:Winx Club: The Secret of the Lost Kingdom">Bí mật của Vương quốc đã mất</a></i>.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup>
 
@@ -1001,7 +1001,7 @@ Thông tin thêm về phần mềm Tengwar trên trang web <a class="external te
 
 <small> </small>
 
-<small><ul><li>Christopher Tolkien, <i>Các chữ số Tengwar</i>, trong <i><a href="../Q/Quettar.md" title="Quettar">Quettar</a></i> 13, tháng 2 năm 1982, trang 8–9; một lời giải thích sâu hơn, không có tiêu đề, về các chữ số Tengwar của Christopher Tolkien xuất hiện trong <i>Quettar</i> ngày 14 tháng 5 năm 1982, trang 6–7.</li></ul></small>
+<small><ul><li>Christopher Tolkien, <i>Các chữ số Tengwar</i>, đăng trong <i><a href="../Q/Quettar.md" title="Quettar">Quettar</a></i> 13, tháng 2 năm 1982, trang 8–9; một lời giải thích khác, không có tiêu đề, về các chữ số Tengwar do Christopher Tolkien viết xuất hiện trong <i>Quettar</i> 14, tháng 5 năm 1982, trang 6–7.</li></ul></small>
 
 <small></small>
 
@@ -1009,7 +1009,7 @@ Thông tin thêm về phần mềm Tengwar trên trang web <a class="external te
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>
-<th align="center" style="background:var(--tg-color-surface-5);" colspan="2"><a href="../L/Languages.md" title="Languages">Ngôn ngữ</a> và chữ viết trong tác phẩm của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">Tolkien</a>
+<th align="center" style="background:var(--tg-color-surface-5);" colspan="2"><a href="../L/Languages.md" title="Languages">Ngôn ngữ</a> và hệ chữ viết trong các tác phẩm của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">Tolkien</a>
 </th></tr>
 <tr>
 <th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;"><a href="../E/Elvish.md" title="Elvish">Elvish</a>
@@ -1034,7 +1034,7 @@ Thông tin thêm về phần mềm Tengwar trên trang web <a class="external te
 <tr>
 <th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Huyền sử thời kỳ đầu
 </th>
-<td style="font-size: 90%; padding-left: 4px;"><a href="../G/Gnomish.md" title="Gnomish">Gnomish</a> · <a href="../G/Gnomic_Letters.md" title="Gnomic Letters">Chữ Gnomic</a> · <a href="../G/Gondolinic_Runes.md" title="Gondolinic Runes">Rune Gondolinic</a> · <a href="../I/Ilkorin.md" title="Ilkorin">Ilkorin</a> · <a href="../K/Keladian.md" title="Keladian">Keladian</a> · <a href="../N/Noldorin.md" title="Noldorin">Noldorin</a> (<a href="../F/Fëanorian_dialect.md" title="Fëanorian dialect">Phương ngữ Fëanorian</a> · <a href="../K/Kornoldorin.md" title="Kornoldorin">Kornoldorin</a>) · <a href="../O/Oromëan.md" title="Oromëan">Oromëan</a> · <a href="../Q/Qenya.md" title="Qenya">Qenya</a> · <a href="../V/Valmaric_script.md" title="Valmaric script">Chữ Valmaric</a>
+<td style="font-size: 90%; padding-left: 4px;"><a href="../G/Gnomish.md" title="Gnomish">Gnomish</a> · <a href="../G/Gnomic_Letters.md" title="Gnomic Letters">Chữ cái Gnomic</a> · <a href="../G/Gondolinic_Runes.md" title="Gondolinic Runes">Rune Gondolinic</a> · <a href="../I/Ilkorin.md" title="Ilkorin">Ilkorin</a> · <a href="../K/Keladian.md" title="Keladian">Keladian</a> · <a href="../N/Noldorin.md" title="Noldorin">Noldorin</a> (<a href="../F/Fëanorian_dialect.md" title="Fëanorian dialect">Phương ngữ Fëanorian</a> · <a href="../K/Kornoldorin.md" title="Kornoldorin">Kornoldorin</a>) · <a href="../O/Oromëan.md" title="Oromëan">Oromëan</a> · <a href="../Q/Qenya.md" title="Qenya">Qenya</a> · <a href="../V/Valmaric_script.md" title="Valmaric script">Hệ chữ Valmaric</a>
 </td></tr>
 <tr>
 <th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Ngoài huyền sử
@@ -1044,8 +1044,8 @@ Thông tin thêm về phần mềm Tengwar trên trang web <a class="external te
 <tr>
 <th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Thế giới thực
 </th>
-<td style="font-size: 90%; padding-left: 4px;"><a href="../C/Celtic.md" title="Celtic">Celtic</a> · <a href="../M/Modern_English.md" title="Modern English">Tiếng Anh</a> (<a href="../O/Old_English.md" title="Old English">Cổ</a> · <a href="../M/Middle_English.md" title="Middle English">Trung</a> · <a href="../A/AB_language.md" title="AB language">AB</a>) · <a href="../F/Finnish.md" title="Finnish">Tiếng Phần Lan</a> · <a href="../N/North_Germanic_languages.md" title="North Germanic languages">Tiếng Đức</a> · <a href="../G/Gothic.md" title="Gothic">Tiếng Gothic</a> · <a href="../H/Hebrew.md" title="Hebrew">tiếng Hebrew</a> · <a href="../L/Latin.md" title="Latin">Tiếng Latinh</a> · <a href="../R/Runes.md" title="Runes">Bảng chữ cái runic</a> · <a href="../W/Welsh.md" title="Welsh">tiếng Wales</a>
+<td style="font-size: 90%; padding-left: 4px;"><a href="../C/Celtic.md" title="Celtic">Celtic</a> · <a href="../M/Modern_English.md" title="Modern English">Tiếng Anh</a> (<a href="../O/Old_English.md" title="Old English">tiếng Anh cổ</a> · <a href="../M/Middle_English.md" title="Middle English">tiếng Anh trung đại</a> · <a href="../A/AB_language.md" title="AB language">AB</a>) · <a href="../F/Finnish.md" title="Finnish">Tiếng Phần Lan</a> · <a href="../N/North_Germanic_languages.md" title="North Germanic languages">Germanic</a> · <a href="../G/Gothic.md" title="Gothic">Gothic</a> · <a href="../H/Hebrew.md" title="Hebrew">tiếng Hebrew</a> · <a href="../L/Latin.md" title="Latin">Latin</a> · <a href="../R/Runes.md" title="Runes">Bảng chữ cái rune</a> · <a href="../W/Welsh.md" title="Welsh">tiếng Wales</a>
 </td></tr>
 <tr>
-<td align="center" style="background: var(--tg-color-surface-3); font-size: 90%;" colspan="2"><i><a href="../A/Alphabet_of_Fëanor%253A_Numenian,_or_Westron,_Mode.md" title="Alphabet of Fëanor: Numenian, or Westron, Mode">Alphabet of Fëanor: Numenian, or Westron, Mode</a></i> · "<a href="../A/A_Secret_Vice.md" title="A Secret Vice">Một phó tướng bí mật</a>" (<i><a class="mw-redirect" href="../A/A_Secret_Vice_(book).md" title="A Secret Vice (book)">book</a></i>) · "<a href="The_Lhammas.md" title="The Lhammas">The Lhammas</a>" · "<a href="The_Tree_of_Tongues.md" title="The Tree of Tongues">Cây lưỡi</a>" · <a href="../S/Sub-creation.md" title="Sub-creation">Sáng tạo phụ</a>
+<td align="center" style="background: var(--tg-color-surface-3); font-size: 90%;" colspan="2"><i><a href="../A/Alphabet_of_Fëanor%253A_Numenian,_or_Westron,_Mode.md" title="Alphabet of Fëanor: Numenian, or Westron, Mode">Alphabet of Fëanor: Numenian, or Westron, Mode</a></i> · "<a href="../A/A_Secret_Vice.md" title="A Secret Vice">A Secret Vice</a>" (<i><a class="mw-redirect" href="../A/A_Secret_Vice_(book).md" title="A Secret Vice (book)">sách</a></i>) · "<a href="The_Lhammas.md" title="The Lhammas">The Lhammas</a>" · "<a href="The_Tree_of_Tongues.md" title="The Tree of Tongues">The Tree of Tongues</a>" · <a href="../S/Sub-creation.md" title="Sub-creation">Sáng tạo thứ cấp</a>
 </td></tr></tbody></table>

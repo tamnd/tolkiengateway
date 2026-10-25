@@ -163,31 +163,31 @@ Tên *Bombadil* có dạng [Bucklandish](../B/Bucklandish.md). Có khả năng [
 
 [Paula Marmor](../P/Paula_Marmor.md) lưu ý rằng *bobadil* là một từ cổ có nghĩa là “kẻ khoác lác”, như thể hiện qua nhân vật “Đại úy Bobadill” trong vở kịch tiếng Anh <i><a class="extiw" href="http://en.wikipedia.org/wiki/Every_Man_in_His_Humour" title="wikipedia:Every Man in His Humour">Every Man in His Humour</a></i>. Vì mang hình thức tên gọi đặc trưng của Buckland, *[An Introduction to Elvish](../A/An_Introduction_to_Elvish.md)* xếp tên *Bombadil* vào nhóm “những tên gọi mang âm hưởng [Celtic](../C/Celtic.md)”. Tuy nhiên, có ý kiến cho rằng từ này bắt nguồn từ <b><a class="extiw" href="http://en.wikipedia.org/wiki/Boabdil" title="wikipedia:Boabdil">Boabdil</a></b>, tên gọi theo tiếng Tây Ban Nha của <a class="extiw" href="http://en.wikipedia.org/wiki/Muhammad_XII_of_Granada" title="wikipedia:Muhammad XII of Granada"><b>Abu Abdillah</b> Muhammad XII</a>, vị quân chủ người Moor cuối cùng cai trị Granada.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup>
 
-## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
+## Các phiên bản khác của Legendarium {#Other_versions_of_the_legendarium}
 
-[Treebeard](Treebeard.md) biết Tom Bombadil trong phiên bản viết tay trước đó của chương *Treebeard*, nhưng điều này sau đó đã bị loại bỏ.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup> Theo Christopher Tolkien, có thể hình dung rằng sự tương phản giữa Tom Bombadil và Ent đã làm nhầm lẫn xung đột giữa Ent và Entives hoặc đoạn văn bị gạch bỏ đã khởi xướng ý tưởng về một cuộc xung đột giữa Ent và Entives.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup>
+[Treebeard](Treebeard.md) từng biết Tom Bombadil trong một bản thảo trước đó của chương *Treebeard*, nhưng chi tiết này sau đó đã bị gạch bỏ.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup> Theo Christopher Tolkien, có thể sự tương phản giữa Tom Bombadil và các Ent đã khiến người đọc nhầm lẫn về cuộc xung đột giữa Ent và các Entwife; hoặc đoạn văn bị gạch bỏ đã gợi ra ý tưởng về một cuộc xung đột giữa Ent và các Entwife.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup>
 
 ## Cảm hứng {#Inspiration}
 
-Tom Bombadil được lấy cảm hứng chủ yếu từ (các) đứa con của <a class="extiw" href="http://en.wikipedia.org/wiki/Peg_wooden_doll" title="wikipedia:Peg wooden doll">búp bê Hà Lan</a> Tolkien chơi đùa.<sup id="cite_ref-intro_24-0" class="reference"><a href="#cite_note-intro-24">[24]</a></sup> Con búp bê có một chiếc mũ lông vũ. Một lần họ tìm thấy nó trong nhà vệ sinh, bị [John Tolkien](../J/John_Tolkien.md) nhét vào đó, có lẽ nó không thích lắm.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup>
+Tom Bombadil chủ yếu lấy cảm hứng từ một <a class="extiw" href="http://en.wikipedia.org/wiki/Peg_wooden_doll" title="wikipedia:Peg wooden doll">con búp bê Hà Lan</a> mà các con Tolkien từng chơi.<sup id="cite_ref-intro_24-0" class="reference"><a href="#cite_note-intro-24">[24]</a></sup> Con búp bê đội một chiếc mũ cài lông vũ. Có lần, họ tìm thấy nó trong nhà vệ sinh, nơi cậu bé [John Tolkien](../J/John_Tolkien.md) đã nhét nó vào; có lẽ cậu bé không thích con búp bê cho lắm.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup>
 
-Tolkien bắt đầu (có lẽ vào những năm 1920) viết một câu chuyện có tựa đề *Tom Bombadil* lấy bối cảnh dưới thời trị vì của "Vua Bonhedig" ở thời tiền sử của Anh, rất lâu trước khi có bất kỳ sự kiện hoặc cuộc xâm lược nào được ghi lại. Nhân vật chính Tombombadil được nhắc đến như một trong những cư dân lâu đời nhất của vương quốc Bonhedig, vương quốc trải dài nhiều dặm ở hai bên sông Thames. Chỉ có 3 đoạn mở đầu còn sót lại của câu chuyện bị bỏ rơi trong thời gian ngắn và đoạn kết thúc ở phần mô tả về Tombombadil, người "đội một chiếc mũ cao có gắn lông vũ màu xanh; áo khoác màu xanh lam và đôi bốt màu vàng".<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup>
+Tolkien bắt đầu viết một câu chuyện có tựa đề *Tom Bombadil* (có lẽ vào những năm 1920), lấy bối cảnh vào thời tiền sử nước Anh, dưới triều đại của "Vua Bonhedig", từ rất lâu trước mọi sự kiện hay cuộc xâm lược được ghi chép. Nhân vật chính Tombombadil được nhắc đến như một trong những cư dân lâu đời nhất của vương quốc Bonhedig, trải rộng hàng dặm dọc cả hai bờ sông Thames. Chỉ còn lại 3 đoạn mở đầu của câu chuyện bị bỏ dở ngay sau đó; phần văn bản còn lại kết thúc bằng đoạn miêu tả Tombombadil, người "đội một chiếc mũ cao cài lông vũ màu xanh; áo khoác màu xanh lam và đôi bốt màu vàng".<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup>
 
 Khoảng những năm 1930 hoặc trước đó Tolkien đã viết một bài thơ về một số Tom Bombadil chèo thuyền trên sông, một bài thơ mà Tolkien sau này được xác định là "mầm Tom Bombadil" của ông.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup> Sau đó vào [1934](../_/1934.md) ông đã đưa ông vào [một bài thơ](<The_Adventures_of_Tom_Bombadil_(poem).md>), một lần nữa được mô tả theo hình dáng của con búp bê nói trên (điều mà ông đã làm với những đồ chơi khác của con mình, như [Rover](../R/Rover.md)).<sup id="cite_ref-intro_24-1" class="reference"><a href="#cite_note-intro-24">[24]</a></sup> Đã có lúc ông mô tả ông như một "linh hồn của vùng nông thôn (biến mất) [Oxford](../O/Oxford.md) và Berkshire"<sup id="cite_ref-L19_28-0" class="reference"><a href="#cite_note-L19-28">[28]</a></sup>
 
-Khi được yêu cầu làm phần tiếp theo cho *[The Hobbit](The_Hobbit.md)*, Tolkien đã nhanh chóng cân nhắc việc đưa nhân vật đó trong bài thơ của mình làm nhân vật trung tâm.<sup id="cite_ref-L19_28-1" class="reference"><a href="#cite_note-L19-28">[28]</a></sup> Mặc dù điều đó không xảy ra nhưng cuối cùng ông [xuất hiện](The_Old_Forest.md) trong câu chuyện với tư cách là một nhân vật phụ. Tolkien viết Bombadil như một sự tương phản trực tiếp với tính nghệ thuật và sức sáng tạo (phụ) của [Tiên tộc](../E/Elves.md); trong khi họ tìm cách sáng tạo, nghĩ ra, thay đổi và kiểm soát, Bombadil chỉ quan sát và chiêm ngưỡng thế giới bên ngoài mình và tận hưởng niềm vui trong đó. Ông là nhà nghiên cứu lý thuyết dũng cảm về thế giới và lịch sử.<sup id="cite_ref-coghill_29-0" class="reference"><a href="#cite_note-coghill-29">[29]</a></sup>
+Khi được yêu cầu viết phần tiếp theo cho *[The Hobbit](The_Hobbit.md)*, Tolkien đã cân nhắc trong một thời gian ngắn việc lấy nhân vật trong bài thơ làm nhân vật chính.<sup id="cite_ref-L19_28-1" class="reference"><a href="#cite_note-L19-28">[28]</a></sup> Tuy ý tưởng này không thành hiện thực, cuối cùng Tom Bombadil vẫn [xuất hiện](The_Old_Forest.md) trong truyện với vai trò nhân vật phụ. Tolkien xây dựng Bombadil như một hình ảnh tương phản trực tiếp với nghệ thuật và năng lực sáng tạo thứ cấp của [Tiên tộc](../E/Elves.md): trong khi Tiên tộc tìm cách sáng tạo, tạo tác, biến đổi và kiểm soát, Bombadil chỉ quan sát, chiêm nghiệm thế giới bên ngoài và vui hưởng thế giới ấy. Ông là hiện thân của sự chiêm nghiệm thế giới và lịch sử một cách không sợ hãi.<sup id="cite_ref-coghill_29-0" class="reference"><a href="#cite_note-coghill-29">[29]</a></sup>
 
-Justin Noetzel trong bài viết "Beorn và Tom Bombadil: Thần thoại, tường thuật và những nhân vật quan trọng nhất (không) trong Trung Địa", đề xuất mối liên hệ giữa Tom Bombadil với <a class="extiw" href="http://en.wikipedia.org/wiki/Celtic_Otherworld" title="wikipedia:Celtic Otherworld">Celtic Thế giới khác</a> và những câu chuyện về <a class="extiw" href="http://en.wikipedia.org/wiki/Tuatha_D%C3%A9_Danann" title="wikipedia:Tuatha Dé Danann">Tuatha Dé Danann</a>.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup>
+Trong bài nghiên cứu "Beorn and Tom Bombadil: Mythology, Narrative, and The Most (Non) Essential Characters in Middle-earth", Justin Noetzel cho rằng Tom Bombadil có mối liên hệ với <a class="extiw" href="http://en.wikipedia.org/wiki/Celtic_Otherworld" title="wikipedia:Celtic Otherworld">Thế giới bên kia trong thần thoại Celtic</a> và những câu chuyện về <a class="extiw" href="http://en.wikipedia.org/wiki/Tuatha_D%C3%A9_Danann" title="wikipedia:Tuatha Dé Danann">Tuatha Dé Danann</a>.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup>
 
-David Elton Gay so sánh Tom với á thần <a class="extiw" href="http://en.wikipedia.org/wiki/V%C3%A4in%C3%A4m%C3%B6inen" title="wikipedia:Väinämöinen">Väinämöinen</a> trong *[Kalevala](../K/Kalevala.md)*: cả hai đều là những nhân vật bất tử cực kỳ già và mạnh mẽ, thể hiện sức mạnh của mình bằng vần điệu, và cả hai đều có quyền kiểm soát đất nước rừng rậm nhỏ bé của mình.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[31]</a></sup>
+David Elton Gay so sánh Tom với á thần <a class="extiw" href="http://en.wikipedia.org/wiki/V%C3%A4in%C3%A4m%C3%B6inen" title="wikipedia:Väinämöinen">Väinämöinen</a> trong *[Kalevala](../K/Kalevala.md)*: cả hai đều là những nhân vật bất tử vô cùng cổ xưa và quyền năng, thể hiện sức mạnh qua những vần thơ, đồng thời cai quản vùng đất nhỏ bé có nhiều rừng cây của riêng mình.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[31]</a></sup>
 
-## Bên ngoài di tích {#Outside_the_legendarium}
+## Bên ngoài Legendarium {#Outside_the_legendarium}
 
 Ngoài những tác phẩm trước đó được viết độc lập cho [Legendarium](../L/Legendarium.md) nói trên, một nhân vật gợi ý về Bombadil xuất hiện trong bài thơ *[Once upon a Time](../O/Once_upon_a_Time.md)* sau này. Tolkien đã viết nó xung quanh [1964](../_/1964.md) và sử dụng lại tên của "Tom" và "Goldberry" (mặc dù tên gọi "Bombadil" không được đề cập đến, nhưng có thể tạo ra sự liên kết khi ông xuất hiện cùng với Goldberry). Hammond & Scull lưu ý rằng trong bài thơ này Tom dường như ít toàn năng hơn; trong khi ông được biết là có thể nói chuyện với tất cả các sinh vật, những sinh vật luôn tuân theo ông, thì *[lintips](../L/Lintips.md)* bí ẩn là những người duy nhất từ ​​chối nói chuyện với ông và trốn tránh.<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[32]</a></sup> Không có sự kiện cụ thể nào được đề cập có thể kết nối nó với Tom Bombadil hoặc huyền thoại của Arda.
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-Bởi vì ông bị loại khỏi ba phiên bản chuyển thể chính ([Ralph Bakshi](<The_Lord_of_the_Rings_(1978_film).md>), [loạt phim năm 1981 của BBC](<The_Lord_of_the_Rings_(1981_radio_series).md>) và [Peter Jackson của](The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)), nên vai chính của Tom Bombadil(cung cấp [Barrow-blades](../D/Daggers_of_Westernesse.md)) bị lược bỏ. Tuy nhiên, ông đã xuất hiện một số lần trong các bản chuyển thể khác.
+Do nhân vật này không xuất hiện trong ba bản chuyển thể lớn ([Ralph Bakshi](<The_Lord_of_the_Rings_(1978_film).md>), [loạt phim phát thanh năm 1981 của BBC](<The_Lord_of_the_Rings_(1981_radio_series).md>) và [các tác phẩm của Peter Jackson](The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)), vai trò quan trọng nhất của Tom Bombadil (trao [Kiếm gò mộ](../D/Daggers_of_Westernesse.md)) cũng bị lược bỏ. Tuy vậy, ông vẫn xuất hiện trong một số bản chuyển thể khác.
 
 ### Hình ảnh của Tom Bombadil trong các bản chuyển thể {#Images_of_Tom_Bombadil_in_adaptations}
 
@@ -250,11 +250,11 @@ Bởi vì ông bị loại khỏi ba phiên bản chuyển thể chính ([Ralph 
 		</li>
 </ul>
 
-<b>1955: <i><a class="mw-redirect" href="The_Lord_of_the_Rings_(1956_radio_series).md" title="The Lord of the Rings (1956 radio series)">Đài BBC The Lord of the Rings</a></i>:</b>
+<b>1955: <i><a class="mw-redirect" href="The_Lord_of_the_Rings_(1956_radio_series).md" title="The Lord of the Rings (1956 radio series)">BBC Radio: The Lord of the Rings</a></i>:</b>
 
 <dl><dd><a href="../N/Norman_Shelley.md" title="Norman Shelley">Norman Shelley</a> lồng tiếng cho Bombadil, và Tolkien cho rằng phần thể hiện của ông thật "tồi tệ". <a href="../G/Goldberry.md" title="Goldberry">Goldberry</a> được khắc họa là con gái của Bombadil chứ không phải vợ ông.<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">[33]</a></sup></dd></dl>
 
-<b>1979: <a href="The_Lord_of_the_Rings_(1979_radio_series).md" title="The Lord of the Rings (1979 radio series)"><i>The Lord of the Rings</i> (loạt phim phát thanh 1979)</a>:</b>
+<b>1979: <a href="The_Lord_of_the_Rings_(1979_radio_series).md" title="The Lord of the Rings (1979 radio series)"><i>The Lord of the Rings</i> (loạt phát thanh năm 1979)</a>:</b>
 
 <dl><dd>Trong loạt phim này, <a href="../B/Bernard_Mayes.md" title="Bernard Mayes">Bernard Mayes</a> lồng tiếng cho Tom. Cũng như Norman Shelley trước đây, ông còn lồng tiếng cho <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a>.</dd></dl>
 
@@ -266,11 +266,11 @@ Bởi vì ông bị loại khỏi ba phiên bản chuyển thể chính ([Ralph 
 
 <dl><dd>Tom Bombadil giải cứu nhóm khỏi Willow Man, đồng thời cung cấp thông tin, vật phẩm tiếp tế, chỗ trú ẩn và các nhiệm vụ phụ cho nhóm. Sau đó, ông giải cứu nhóm khỏi các Barrow Wight và tham gia trong một thời gian rất ngắn với tư cách nhân vật có thể điều khiển tạm thời khi nhóm ở bên trong ngôi mộ. Vai trò của ông gần như bám sát nguyên tác, trong đó một số đoạn tương ứng từ <i><a href="The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i> được trích dẫn nguyên văn. Tuy nhiên, vai trò của <a href="../G/Goldberry.md" title="Goldberry">Goldberry</a> đã thay đổi đáng kể để cô giao cho nhóm một nhiệm vụ.</dd></dl>
 
-<b>1992: <a href="../D/Der_Herr_der_Ringe_(1992_German_radio_series).md" title="Der Herr der Ringe (1992 German radio series)"><i>Der Herr der Ringe</i> (loạt phim phát thanh Đức năm 1992)</a>:</b>
+<b>1992: <a href="../D/Der_Herr_der_Ringe_(1992_German_radio_series).md" title="Der Herr der Ringe (1992 German radio series)"><i>Der Herr der Ringe</i> (loạt phát thanh tiếng Đức năm 1992)</a>:</b>
 
 <dl><dd>Tom Bombadil do Peter Ehrlich thủ vai.</dd></dl>
 
-<b>1992: <a href="Tales_from_the_Perilous_Realm_(1992_radio_series).md" title="Tales from the Perilous Realm (1992 radio series)"><i>Tales from the Perilous Realm</i> (loạt phim phát thanh năm 1992)</a>:</b>
+<b>1992: <a href="Tales_from_the_Perilous_Realm_(1992_radio_series).md" title="Tales from the Perilous Realm (1992 radio series)"><i>Tales from the Perilous Realm</i> (loạt phát thanh năm 1992)</a>:</b>
 
 <dl><dd>Khi chuyển thể <a href="The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)">loạt chương trình phát thanh</a> năm 1981, <a href="../B/Brian_Sibley.md" title="Brian Sibley">Brian Sibley</a> vô cùng tiếc nuối vì đã loại bỏ Bombadil khỏi chương trình.<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[34]</a></sup> Khi chuyển thể <i><a href="Tales_from_the_Perilous_Realm.md" title="Tales from the Perilous Realm">Tales from the Perilous Realm</a></i> thành loạt chương trình phát thanh, ông quyết định thay đổi phần "<a href="The_Adventures_of_Tom_Bombadil.md" title="The Adventures of Tom Bombadil">The Adventures of Tom Bombadil</a>". Thay vì chuyển thể một số bài thơ Hobbitish (vốn khó chuyển thể), Sibley chuyển thể các chương trong <i><a href="The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>. <a href="../I/Ian_Hogg.md" title="Ian Hogg">Ian Hogg</a> lồng tiếng cho Bombadil.</dd></dl>
 
@@ -282,11 +282,11 @@ Bởi vì ông bị loại khỏi ba phiên bản chuyển thể chính ([Ralph 
 
 <dl><dd>Mặc dù Tom Bombadil không xuất hiện trong <a href="The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)">loạt phim <i>The Lord of the Rings</i></a>, Decipher đã phát hành một thẻ bài về nhân vật này. Harry Weller-Chew là người hóa thân thành nhân vật trên thẻ.</dd></dl>
 
-<b>2001–nay: <i><a class="mw-redirect" href="The_Lord_of_the_Rings_Strategy_Battle_Game.md" title="The Lord of the Rings Strategy Battle Game">The Lord of the Rings Trò chơi chiến đấu chiến lược</a></i>:</b>
+<b>2001–nay: <i><a class="mw-redirect" href="The_Lord_of_the_Rings_Strategy_Battle_Game.md" title="The Lord of the Rings Strategy Battle Game">The Lord of the Rings Strategy Battle Game</a></i>:</b>
 
 <dl><dd>Mặc dù không xuất hiện trong các bộ phim làm nền tảng cho trò chơi, Tom Bombadil và Goldberry vẫn có một số mô hình do <a href="../G/Games_Workshop.md" title="Games Workshop">Games Workshop</a> sản xuất. Công ty này nắm bản quyền trò chơi trên bàn từ năm 1980.</dd></dl>
 
-<b>2001: <a class="mw-redirect" href="../P/Pán_prsteňov_(2001-2003_Slovak_radio_series).md" title="Pán prsteňov (2001-2003 Slovak radio series)"><i>Pán prsteňov</i> (Loạt đài tiếng Slovak 2001-2003)</a>:</b>
+<b>2001: <a class="mw-redirect" href="../P/Pán_prsteňov\_(2001-2003_Slovak_radio_series).md" title="Pán prsteňov (2001-2003 Slovak radio series)"><i>Pán prsteňov</i> (loạt chương trình phát thanh tiếng Slovak giai đoạn 2001–2003)</a>:</b>
 
 <dl><dd>Milan Lasica lồng tiếng cho Tom Bombadil. Ông xuất hiện ở một phần ba cuối của tập đầu tiên, giúp bốn Hobbit thoát khỏi Ông già Willow, dẫn họ về nhà và mời họ nghỉ qua đêm tại đó cùng vợ mình là Goldberry. Sau khi họ rời đi và bị lạc ở Gò Mộ, ông lại ra tay cứu giúp, đồng thời trao cho họ những thanh kiếm mộ lấy từ gò mộ của ác linh mộ địa đã bị đánh bại.</dd></dl>
 
@@ -320,7 +320,7 @@ Bởi vì ông bị loại khỏi ba phiên bản chuyển thể chính ([Ralph 
 
 ### Sưu tập {#Collectibles}
 
-Vào [Tháng 4](../A/April.md) [2008](../_/2008.md), [Gentle Giant](../G/Gentle_Giant.md) đã phát hành Tom Bombadil Mini Bust.
+Vào [tháng 4](../A/April.md) [năm 2008](../_/2008.md), [Gentle Giant](../G/Gentle_Giant.md) đã phát hành tượng bán thân Tom Bombadil.
 
 ## Xem thêm {#See_also}
 
