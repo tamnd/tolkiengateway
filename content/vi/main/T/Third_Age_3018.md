@@ -22,8 +22,8 @@ Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 ## Tháng 4 {#April}
 
-- **12** - [Gandalf](../G/Gandalf.md) đạt [Hobbiton](../H/Hobbiton.md).<sup id="cite_ref-AppB3_1-0" class="reference"><a href="#cite_note-AppB3-1">[1]</a></sup>
-- **13** - [Gandalf](../G/Gandalf.md) tiết lộ cho [Frodo](../F/Frodo_Baggins.md) rằng chiếc nhẫn của Bilbo là [Chiếc Nhẫn Một](The_One_Ring.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- **12** - [Gandalf](../G/Gandalf.md) đến [Hobbiton](../H/Hobbiton.md).<sup id="cite_ref-AppB3_1-0" class="reference"><a href="#cite_note-AppB3-1">[1]</a></sup>
+- **13** - [Gandalf](../G/Gandalf.md) tiết lộ cho [Frodo](../F/Frodo_Baggins.md) rằng chiếc nhẫn của Bilbo chính là [Nhẫn Chúa](The_One_Ring.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Tháng 5 {#May}
 
@@ -31,9 +31,9 @@ Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 ## Tháng 6 {#June}
 
-- **19** - [Boromir](../B/Boromir.md) và [Faramir](../F/Faramir.md) nhận được [câu đố](../S/Seek_for_the_Sword_that_was_broken.md) trong giấc ngủ.
-- **20** - [Sauron](../S/Sauron.md) [tấn công](../S/Sauron's_attack_on_Osgiliath.md) [Osgiliath](../O/Osgiliath.md). Cùng lúc đó [Thranduil](Thranduil.md) bị tấn công và [Gollum](../G/Gollum.md) trốn thoát.<sup id="cite_ref-AppB3_1-1" class="reference"><a href="#cite_note-AppB3-1">[1]</a></sup>
-- Kẻ trốn chạy từ miền Nam đến [Eriador](../E/Eriador.md). Tại biên giới phía nam của [Southfarthing](../S/Southfarthing.md) Gandalf nhận được tin tức về chiến tranh và thất bại và [Đen Bóng Tối](../B/Black_Shadow.md). Ông bắt đầu lang thang không mục đích rồi quay về phía đông và phía bắc.<sup id="cite_ref-council_4-0" class="reference"><a href="#cite_note-council-4">[4]</a></sup>
+- **19** - [Boromir](../B/Boromir.md) và [Faramir](../F/Faramir.md) nhận được [câu đố](../S/Seek_for_the_Sword_that_was_broken.md) trong lúc ngủ.
+- **20** - [Sauron](../S/Sauron.md) [tấn công](../S/Sauron's_attack_on_Osgiliath.md) [Osgiliath](../O/Osgiliath.md). Gần như cùng thời điểm ấy, [Thranduil](Thranduil.md) cũng bị tấn công và [Gollum](../G/Gollum.md) trốn thoát.<sup id="cite_ref-AppB3_1-1" class="reference"><a href="#cite_note-AppB3-1">[1]</a></sup>
+- Những người chạy trốn từ phương Nam đến [Eriador](../E/Eriador.md). Tại biên giới phía nam của [Southfarthing](../S/Southfarthing.md), Gandalf nhận được tin về chiến tranh, thất bại và [Bóng Đen](../B/Black_Shadow.md). Ông bắt đầu lang thang vô định, rồi đi về phía đông và phía bắc.<sup id="cite_ref-council_4-0" class="reference"><a href="#cite_note-council-4">[4]</a></sup>
 
 <h2><span id="Midyear.27s_Day"></span><span class="mw-headline" id="Midyear&#39;s_Day">Midyear&#39;s Day</span></h2>
 
@@ -47,7 +47,7 @@ Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 ## Tháng 8 {#August}
 
-- Tất cả dấu vết của [Gollum](../G/Gollum.md) đều bị mất. Người ta cho rằng vào khoảng thời gian này, bị truy lùng bởi cả người hầu của [Tiên tộc](../E/Elves.md) và [Sauron](../S/Sauron.md), ông đã ẩn náu ở [Moria](../M/Moria.md); nhưng cuối cùng khi tìm ra đường tới [Phương Tây cổng](../W/West-gate.md) thì ông không thể thoát ra được.<sup id="cite_ref-AppB3_1-4" class="reference"><a href="#cite_note-AppB3-1">[1]</a></sup>
+- Mọi dấu vết của [Gollum](../G/Gollum.md) đều biến mất. Người ta cho rằng vào khoảng thời gian này, khi bị cả [Tiên tộc](../E/Elves.md) lẫn thuộc hạ của [Sauron](../S/Sauron.md) truy lùng, nó đã ẩn náu ở [Moria](../M/Moria.md); nhưng đến khi cuối cùng tìm ra lối đến [Cổng phía Tây](../W/West-gate.md), nó lại không thể thoát ra ngoài.<sup id="cite_ref-AppB3_1-4" class="reference"><a href="#cite_note-AppB3-1">[1]</a></sup>
 
 ## tháng Chín {#September}
 
@@ -83,12 +83,12 @@ Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 ## Tháng 12 {#December}
 
-- **18** - Tư cách thành viên của [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) đã được chọn.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>
-- **25** - Chiếc [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) rời đi [Rivendell](../R/Rivendell.md) lúc chạng vạng.<sup id="cite_ref-AppB3_1-27" class="reference"><a href="#cite_note-AppB3-1">[1]</a></sup>
+- **18** - Các thành viên của [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) được lựa chọn.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>
+- **25** - [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) rời [Rivendell](../R/Rivendell.md) lúc chạng vạng.<sup id="cite_ref-AppB3_1-27" class="reference"><a href="#cite_note-AppB3-1">[1]</a></sup>
 
 ## Trong năm {#Within_the_year}
 
-- [Bilbo Baggins](../B/Bilbo_Baggins.md) hoàn thành công việc [Bản dịch từ Elvish](Translations_from_the_Elvish.md) của mình.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>
+- [Bilbo Baggins](../B/Bilbo_Baggins.md) hoàn thành bản thảo [Bản dịch từ tiếng Tiên](Translations_from_the_Elvish.md) của mình.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>
 
 <span></span>
 
