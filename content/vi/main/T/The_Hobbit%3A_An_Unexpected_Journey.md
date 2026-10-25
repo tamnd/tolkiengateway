@@ -57,15 +57,15 @@ infobox:
     value: "Profile"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Hobbit_-_An_Unexpected_Journey_-_poster_3.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/69/The_Hobbit_-_An_Unexpected_Journey_-_poster_3.jpg/320px-The_Hobbit_-_An_Unexpected_Journey_-_poster_3.jpg" decoding="async" loading="lazy" width="320" height="473" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/69/The_Hobbit_-_An_Unexpected_Journey_-_poster_3.jpg/480px-The_Hobbit_-_An_Unexpected_Journey_-_poster_3.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/6/69/The_Hobbit_-_An_Unexpected_Journey_-_poster_3.jpg/640px-The_Hobbit_-_An_Unexpected_Journey_-_poster_3.jpg 2x" data-file-width="1200" data-file-height="1775"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span><i>The Hobbit: An Unexpected Journey</i></span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin</span></th></tr><tr><th scope="row" class="tg-infobox-label">Đạo diễn</th><td class="tg-infobox-data"><a href="../P/Peter_Jackson.md" title="Peter Jackson">Peter Jackson</a><sup id="cite_ref-HBTitles_1-0" class="reference"><a href="#cite_note-HBTitles-1">[1]</a></sup><br/><a href="../A/Andy_Serkis.md" title="Andy Serkis">Andy Serkis</a> (Second Unit Director)<sup id="cite_ref-HBAndy_2-0" class="reference"><a href="#cite_note-HBAndy-2">[2]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Tác giả</th><td class="tg-infobox-data"><b>Tiểu thuyết:</b><br/><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a><br/><b>Kịch bản:</b><br/><a href="../G/Guillermo_del_Toro.md" title="Guillermo del Toro">Guillermo del Toro</a><br/>Peter Jackson<br/>Fran Walsh<br/>Philippa Boyens<sup id="cite_ref-HBTitles_1-1" class="reference"><a href="#cite_note-HBTitles-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Nhà sản xuất</th><td class="tg-infobox-data">Peter Jackson<br/><a href="../F/Fran_Walsh.md" title="Fran Walsh">Fran Walsh</a><br/><a href="../C/Carolynne_Cunningham.md" title="Carolynne Cunningham">Carolynne Cunningham</a><br/><a href="../P/Philippa_Boyens.md" title="Philippa Boyens">Philippa Boyens</a> (Co-Producer)<br/><a href="../K/Ken_Kamins.md" title="Ken Kamins">Ken Kamins</a> (Executive Producer)<br/><a href="../Z/Zane_Weiner.md" title="Zane Weiner">Zane Weiner</a> (Executive Producer)<sup id="cite_ref-HBTitles_1-2" class="reference"><a href="#cite_note-HBTitles-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Starring</th><td class="tg-infobox-data"><a href="../I/Ian_McKellen.md" title="Ian McKellen">Ian McKellen</a><br/><a href="../M/Martin_Freeman.md" title="Martin Freeman">Martin Freeman</a><br/><a href="../R/Richard_Armitage.md" title="Richard Armitage">Richard Armitage</a><sup id="cite_ref-PJCasting1_3-0" class="reference"><a href="#cite_note-PJCasting1-3">[3]</a></sup><br/><i><a href="#Cast">See cast section below for more</a></i></td></tr><tr><th scope="row" class="tg-infobox-label">Cinematography</th><td class="tg-infobox-data"><a href="../A/Andrew_Lesnie.md" title="Andrew Lesnie">Andrew Lesnie</a><sup id="cite_ref-PJCasting1_3-1" class="reference"><a href="#cite_note-PJCasting1-3">[3]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Biên tập</th><td class="tg-infobox-data"><a href="../J/Jabez_Olssen.md" title="Jabez Olssen">Jabez Olssen</a></td></tr><tr><th scope="row" class="tg-infobox-label">Âm nhạc</th><td class="tg-infobox-data"><a href="../H/Howard_Shore.md" title="Howard Shore">Howard Shore</a><sup id="cite_ref-PJCasting1_3-2" class="reference"><a href="#cite_note-PJCasting1-3">[3]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Hãng phim</th><td class="tg-infobox-data"><a href="../N/New_Line_Cinema.md" title="New Line Cinema">New Line Cinema</a><br/><a href="../M/MGM.md" title="MGM">MGM</a><br/><a href="../W/WingNut_Films.md" title="WingNut Films">WingNut Films</a><sup id="cite_ref-HBTitles_1-3" class="reference"><a href="#cite_note-HBTitles-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Distributor</th><td class="tg-infobox-data"><a href="../W/Warner_Bros..md" title="Warner Bros.">Warner Bros. Pictures</a><sup id="cite_ref-HBTitles_1-4" class="reference"><a href="#cite_note-HBTitles-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data"><a href="../_/14_December.md" title="14 December">14 December</a> <a href="../_/2012.md" title="2012">2012</a><sup id="cite_ref-HBTitles2_4-0" class="reference"><a href="#cite_note-HBTitles2-4">[4]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Runtime</th><td class="tg-infobox-data"><b>Sân khấu:</b><br/>169 phút<br/><b>Phiên bản mở rộng:</b><br/>182 phút</td></tr><tr><th scope="row" class="tg-infobox-label">Quốc gia</th><td class="tg-infobox-data"><a href="../N/New_Zealand.md" title="New Zealand">New Zealand</a><br/><a class="mw-redirect" href="../U/United_Kingdom.md" title="United Kingdom">United Kingdom</a><br/><a class="mw-redirect" href="../U/United_States.md" title="United States">United States</a></td></tr><tr><th scope="row" class="tg-infobox-label">Ngôn ngữ</th><td class="tg-infobox-data">Tiếng Anh</td></tr><tr><th scope="row" class="tg-infobox-label">Trang web</th><td class="tg-infobox-data"><a class="external text" href="http://www.thehobbit.com/" rel="noreferrer noopener" target="_blank">TheHobbit.com</a></td></tr><tr><th scope="row" class="tg-infobox-label">IMDb</th><td class="tg-infobox-data"><a class="external text" href="https://www.imdb.com/title/tt0903624" rel="noreferrer noopener" target="_blank">Hồ sơ</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Hobbit_-_An_Unexpected_Journey_-_poster_3.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/69/The_Hobbit_-_An_Unexpected_Journey_-_poster_3.jpg/320px-The_Hobbit_-_An_Unexpected_Journey_-_poster_3.jpg" decoding="async" loading="lazy" width="320" height="473" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/69/The_Hobbit_-_An_Unexpected_Journey_-_poster_3.jpg/480px-The_Hobbit_-_An_Unexpected_Journey_-_poster_3.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/6/69/The_Hobbit_-_An_Unexpected_Journey_-_poster_3.jpg/640px-The_Hobbit_-_An_Unexpected_Journey_-_poster_3.jpg 2x" data-file-width="1200" data-file-height="1775"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span><i>The Hobbit: An Unexpected Journey</i></span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin</span></th></tr><tr><th scope="row" class="tg-infobox-label">Đạo diễn</th><td class="tg-infobox-data"><a href="../P/Peter_Jackson.md" title="Peter Jackson">Peter Jackson</a><sup id="cite_ref-HBTitles_1-0" class="reference"><a href="#cite_note-HBTitles-1">[1]</a></sup><br/><a href="../A/Andy_Serkis.md" title="Andy Serkis">Andy Serkis</a> (Second Unit Director)<sup id="cite_ref-HBAndy_2-0" class="reference"><a href="#cite_note-HBAndy-2">[2]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Tác giả</th><td class="tg-infobox-data"><b>Tiểu thuyết gốc:</b><br/><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a><br/><b>Kịch bản:</b><br/><a href="../G/Guillermo_del_Toro.md" title="Guillermo del Toro">Guillermo del Toro</a><br/>Peter Jackson<br/>Fran Walsh<br/>Philippa Boyens<sup id="cite_ref-HBTitles_1-1" class="reference"><a href="#cite_note-HBTitles-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Nhà sản xuất</th><td class="tg-infobox-data">Peter Jackson<br/><a href="../F/Fran_Walsh.md" title="Fran Walsh">Fran Walsh</a><br/><a href="../C/Carolynne_Cunningham.md" title="Carolynne Cunningham">Carolynne Cunningham</a><br/><a href="../P/Philippa_Boyens.md" title="Philippa Boyens">Philippa Boyens</a> (Co-Producer)<br/><a href="../K/Ken_Kamins.md" title="Ken Kamins">Ken Kamins</a> (Executive Producer)<br/><a href="../Z/Zane_Weiner.md" title="Zane Weiner">Zane Weiner</a> (Executive Producer)<sup id="cite_ref-HBTitles_1-2" class="reference"><a href="#cite_note-HBTitles-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Starring</th><td class="tg-infobox-data"><a href="../I/Ian_McKellen.md" title="Ian McKellen">Ian McKellen</a><br/><a href="../M/Martin_Freeman.md" title="Martin Freeman">Martin Freeman</a><br/><a href="../R/Richard_Armitage.md" title="Richard Armitage">Richard Armitage</a><sup id="cite_ref-PJCasting1_3-0" class="reference"><a href="#cite_note-PJCasting1-3">[3]</a></sup><br/><i><a href="#Cast">See cast section below for more</a></i></td></tr><tr><th scope="row" class="tg-infobox-label">Cinematography</th><td class="tg-infobox-data"><a href="../A/Andrew_Lesnie.md" title="Andrew Lesnie">Andrew Lesnie</a><sup id="cite_ref-PJCasting1_3-1" class="reference"><a href="#cite_note-PJCasting1-3">[3]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Biên tập</th><td class="tg-infobox-data"><a href="../J/Jabez_Olssen.md" title="Jabez Olssen">Jabez Olssen</a></td></tr><tr><th scope="row" class="tg-infobox-label">Âm nhạc</th><td class="tg-infobox-data"><a href="../H/Howard_Shore.md" title="Howard Shore">Howard Shore</a><sup id="cite_ref-PJCasting1_3-2" class="reference"><a href="#cite_note-PJCasting1-3">[3]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Hãng phim</th><td class="tg-infobox-data"><a href="../N/New_Line_Cinema.md" title="New Line Cinema">New Line Cinema</a><br/><a href="../M/MGM.md" title="MGM">MGM</a><br/><a href="../W/WingNut_Films.md" title="WingNut Films">WingNut Films</a><sup id="cite_ref-HBTitles_1-3" class="reference"><a href="#cite_note-HBTitles-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Distributor</th><td class="tg-infobox-data"><a href="../W/Warner_Bros..md" title="Warner Bros.">Warner Bros. Pictures</a><sup id="cite_ref-HBTitles_1-4" class="reference"><a href="#cite_note-HBTitles-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data"><a href="../_/14_December.md" title="14 December">14 December</a> <a href="../_/2012.md" title="2012">2012</a><sup id="cite_ref-HBTitles2_4-0" class="reference"><a href="#cite_note-HBTitles2-4">[4]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Runtime</th><td class="tg-infobox-data"><b>Bản chiếu rạp:</b><br/>169 phút<br/><b>Bản mở rộng:</b><br/>182 phút</td></tr><tr><th scope="row" class="tg-infobox-label">Quốc gia</th><td class="tg-infobox-data"><a href="../N/New_Zealand.md" title="New Zealand">New Zealand</a><br/><a class="mw-redirect" href="../U/United_Kingdom.md" title="United Kingdom">United Kingdom</a><br/><a class="mw-redirect" href="../U/United_States.md" title="United States">United States</a></td></tr><tr><th scope="row" class="tg-infobox-label">Ngôn ngữ</th><td class="tg-infobox-data">Tiếng Anh</td></tr><tr><th scope="row" class="tg-infobox-label">Trang web</th><td class="tg-infobox-data"><a class="external text" href="http://www.thehobbit.com/" rel="noreferrer noopener" target="_blank">TheHobbit.com</a></td></tr><tr><th scope="row" class="tg-infobox-label">IMDb</th><td class="tg-infobox-data"><a class="external text" href="https://www.imdb.com/title/tt0903624" rel="noreferrer noopener" target="_blank">Hồ sơ</a></td></tr></tbody></table>
 
-<i><b>The Hobbit: An Unexpected Journey</b></i> là phần đầu tiên trong bộ ba phim [*The Hobbit*](<The_Hobbit_(film_series).md>) của [Peter Jackson](../P/Peter_Jackson.md) và dựa trên tiểu thuyết [1937](../_/1937.md) *[The Hobbit](The_Hobbit.md)* của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), mặc dù một số yếu tố được lấy từ câu chuyện và [Phụ lục](The_Lord_of_the_Rings_Appendices.md) của *[The Lord of the Rings](The_Lord_of_the_Rings.md)*. Nó được phát hành vào [14 tháng 12](../_/14_December.md) [2012](../_/2012.md) ở Bắc Mỹ. Tiếp theo là *[The Desolation of Smaug](The_Hobbit%253A_The_Desolation_of_Smaug.md)* trong [2013](../_/2013.md) và *[The Battle of the Five Armies](The_Hobbit%253A_The_Battle_of_the_Five_Armies.md)* trong [2014](../_/2014.md).
+<i><b>The Hobbit: An Unexpected Journey</b></i> là phần đầu tiên trong bộ ba phim [*The Hobbit*](<The_Hobbit_(film_series).md>) của [Peter Jackson](../P/Peter_Jackson.md) và dựa trên tiểu thuyết [1937](../_/1937.md) [*The Hobbit*](The_Hobbit.md) của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), mặc dù một số yếu tố được lấy từ câu chuyện và [Phụ lục](The_Lord_of_the_Rings_Appendices.md) của [*The Lord of the Rings*](The_Lord_of_the_Rings.md). Phim được phát hành tại Bắc Mỹ vào [ngày 14 tháng 12](../_/14_December.md) [2012](../_/2012.md). Phim tiếp theo là [*The Desolation of Smaug*](The_Hobbit%253A_The_Desolation_of_Smaug.md), ra mắt vào [2013](../_/2013.md), và [*The Battle of the Five Armies*](The_Hobbit%253A_The_Battle_of_the_Five_Armies.md), ra mắt vào [2014](../_/2014.md).
 
 ## Tóm tắt {#Synopsis}
 
 <blockquote class="tg-quote noexcerpt">
-<p>Cuộc phiêu lưu kể về cuộc hành trình của nhân vật chính Bilbo Baggins, người bị cuốn vào một nhiệm vụ hoành tráng nhằm giành lại Người Lùn Vương quốc Erebor đã mất từ ​​tay con rồng đáng sợ Smaug. Được pháp sư Gandalf the Grey bất ngờ tiếp cận, Bilbo thấy mình gia nhập một đội gồm mười ba người lùn do chiến binh huyền thoại, Thorin Oakenshield lãnh đạo. Cuộc hành trình của họ sẽ đưa họ vào Nơi hoang dã; qua những vùng đất nguy hiểm tràn ngập Goblin và Orc, Warg chết chóc và Nhện khổng lồ, Người biến hình và Pháp sư.<br/><br/>
-<i>Mặc dù mục tiêu của họ nằm ở phương Đông và vùng đất hoang của Ngọn Núi Cô Đơn trước tiên họ phải thoát khỏi đường hầm của yêu tinh, nơi Bilbo gặp sinh vật sẽ thay đổi cuộc đời anh mãi mãi... Gollum. Tại đây, một mình với Gollum, trên bờ hồ ngầm, Bilbo Baggins khiêm tốn không chỉ khám phá ra chiều sâu của sự gian xảo và lòng can đảm khiến ngay cả chính anh cũng phải ngạc nhiên, anh còn giành được quyền sở hữu chiếc nhẫn "quý giá" của Gollum chứa đựng những phẩm chất bất ngờ và hữu ích... Một chiếc nhẫn vàng đơn giản gắn liền với số phận của tất cả Trung Địa theo những cách mà Bilbo không thể nào biết được.</i>
+<p>Cuộc phiêu lưu xoay quanh hành trình của nhân vật chính Bilbo Baggins, người bị cuốn vào một chuyến phiêu lưu kỳ vĩ nhằm giành lại Vương quốc Người Lùn Erebor đã mất từ tay con rồng đáng sợ Smaug. Bất ngờ được pháp sư Gandalf the Grey tìm đến, Bilbo thấy mình tham gia một đoàn gồm mười ba Người Lùn do chiến binh huyền thoại Thorin Oakenshield dẫn đầu. Hành trình đưa họ tiến vào vùng Hoang Dã, băng qua những miền đất hiểm trở đầy Goblin và Orc, Warg hung dữ, Nhện Khổng lồ, những kẻ biến hình và phù thủy.<br/><br/>
+<i>Mặc dù mục tiêu nằm ở phương Đông, nơi có vùng đất hoang quanh Ngọn Núi Cô Đơn, trước hết họ phải thoát khỏi những đường hầm của Goblin. Tại đó, Bilbo gặp sinh vật sẽ thay đổi cuộc đời cậu mãi mãi... Gollum. Ở nơi này, chỉ có Bilbo và Gollum bên bờ hồ ngầm, Bilbo Baggins vốn bình dị không chỉ nhận ra ở mình sự mưu trí và lòng can đảm vượt xa mong đợi, mà còn có được chiếc nhẫn “quý báu” của Gollum, vật sở hữu những đặc tính bất ngờ và hữu ích... Một chiếc nhẫn vàng bình thường, gắn liền với vận mệnh của toàn Trung Địa theo những cách mà Bilbo chưa thể hình dung.</i>
 </p>
 <p class="tg-quote-footer"><cite><a href="../W/Warner_Bros..md" title="Warner Bros.">Warner Bros.</a> Press Release<sup id="cite_ref-WBPressRelease1_5-0" class="reference"><a href="#cite_note-WBPressRelease1-5">[5]</a></sup></cite></p>
 </blockquote>
@@ -76,51 +76,51 @@ Vào sinh nhật thứ mười một (111) của mình, [Hobbit](../H/Hobbits.md
 
 Sau đó, Bilbo bị [Pháp sư](../W/Wizards.md) [Gandalf](../G/Gandalf.md) Grey lừa tổ chức một bữa tiệc cho Thorin và [nhóm Người Lùn](Thorin_and_Company.md) của hắn, đồng thời chiêu mộ Bilbo làm "kẻ trộm" Người Lùn' để giúp họ lấy lại kho báu và ngôi nhà của họ từ Smaug. Bilbo miễn cưỡng tham gia cùng công ty trong chuyến hành trình đến Ngọn Núi Cô Đơn, Thorin trước khi tin rằng mình sẽ từ chối. Cả nhóm bị bắt bởi 3 Mountain [Troll](Trolls.md), <a class="mw-redirect mw-disambig" href="Tom.md" title="Tom">Tom</a>, [Bert](../B/Bert.md) và [William](../W/William.md), nhưng Bilbo có thể ngăn Troll ăn chúng cho đến bình minh, khi Gandalf cứu công ty bằng cách phơi Troll dưới ánh sáng mặt trời, biến chúng thành đá. Họ tìm kiếm Troll' [hang động](Troll's_Cave.md) và tìm thấy kho báu cũng như Tiên lưỡi kiếm. Thorin và Gandalf mỗi loại có một lưỡi dao được rèn Tiên-- [Orcrist](../O/Orcrist.md) và [Glamdring](../G/Glamdring.md) tương ứng. Gandalf cũng tìm thấy một thanh kiếm ngắn Tiên, sau này được gọi là [Sting](../S/Sting.md), mà ông đưa cho Bilbo. Là Tiên lưỡi kiếm của [Kỷ Đệ Nhất](../F/First_Age.md), Gandalf cho biết chúng phát sáng khi ở gần [Orc](../O/Orcs.md) hoặc [Goblin](../O/Orcs.md#Orcs_and_Goblins). Tuy nhiên, chỉ có Sting nhất quán làm như vậy.
 
-Cả nhóm gặp [Radagast](../R/Radagast.md) Brown, một Pháp sư sống trong khu rừng [Rừng Xanh](../M/Mirkwood.md). Ông kể cho họ nghe về sự hiện diện kỳ ​​lạ mà ông gặp phải ở [Dol Guldur](../D/Dol_Guldur.md) và nó đang đầu độc khu rừng như thế nào. Sau đó, cả nhóm bị truy đuổi bởi Orc trên [Warg](../W/Wargs.md), với Radagast đuổi họ đi bằng chiếc xe trượt tuyết [Rhosgobel](../R/Rhosgobel.md) do thỏ kéo của mình. Gandalf dẫn họ qua một lối đi bằng đá đến [Rivendell](../R/Rivendell.md) khi Warg và Orc ở trên bị giết bởi các tay đua Tiên. [Elrond](../E/Elrond.md) tiết lộ dấu hiệu trên [bản đồ](Thrór's_Map.md) về một cánh cửa [bí mật](../B/Back_Door.md) sẽ chỉ hiển thị vào [Ngày Durin](../D/Durin's_Day.md). Gandalf nói chuyện với [Bạch Hội Đồng](../W/White_Council.md) (Elrond, [Galadriel](../G/Galadriel.md) và [Saruman Trắng](../S/Saruman.md)) về sự liên quan của ông với Người Lùn, giải thích sự hiện diện mà Radagast gặp phải và bày tỏ sự nghi ngờ nhẹ rằng Necromancer này chính là [Chúa tể Bóng tối](../S/Sauron.md). Những người khác tỏ ra nghi ngờ, tin rằng Sauron đã bị đánh bại mãi mãi và Necromancer này không phải là một mối đe dọa thực sự. Ở một nơi khác, tại [Weathertop](../W/Weathertop.md), [Yazneg](../Y/Yazneg.md), thủ lĩnh của nhóm Orc tấn công, báo cáo lại với chủ nhân [Azog](../A/Azog.md) về sự thất bại của mình, người sau đó đã giết chết Orc bất hạnh. Azog sau đó treo thưởng cho cái đầu của Thorin và chạy đua với những người còn lại trong nhóm của ông.
+Cả nhóm gặp [Radagast](../R/Radagast.md) Áo Nâu, một Pháp sư sống trong khu rừng [Rừng Xanh](../M/Mirkwood.md). Ông kể cho họ nghe về một thế lực kỳ lạ mà ông phát hiện tại [Dol Guldur](../D/Dol_Guldur.md) và việc thế lực ấy đang đầu độc khu rừng. Sau đó, cả nhóm bị Orc cưỡi [Warg](../W/Wargs.md) truy đuổi. Radagast dùng chiếc xe trượt tuyết [Rhosgobel](../R/Rhosgobel.md) do thỏ kéo để đánh lạc hướng chúng. Gandalf dẫn cả nhóm qua một lối đi bằng đá đến [Rivendell](../R/Rivendell.md), trong khi các kỵ sĩ Tiên tộc tiêu diệt Warg và Orc phía trên. [Elrond](../E/Elrond.md) tiết lộ chỉ dẫn trên [bản đồ](Thrór's_Map.md) về cánh cửa [bí mật](../B/Back_Door.md), vốn chỉ hiện ra vào [Ngày Durin](../D/Durin's_Day.md). Gandalf trao đổi với [Bạch Hội Đồng](../W/White_Council.md) (Elrond, [Galadriel](../G/Galadriel.md) và [Saruman Áo Trắng](../S/Saruman.md)) về việc ông tham gia cùng Người Lùn, giải thích về thế lực mà Radagast phát hiện và bày tỏ đôi chút nghi ngờ rằng Necromancer này chính là [Chúa tể Bóng tối](../S/Sauron.md). Những người còn lại tỏ ra hoài nghi, tin rằng Sauron đã bị đánh bại vĩnh viễn và Necromancer này không thực sự là mối đe dọa. Ở nơi khác, tại [Weathertop](../W/Weathertop.md), [Yazneg](../Y/Yazneg.md), thủ lĩnh nhóm Orc tấn công, báo cáo thất bại với chủ nhân [Azog](../A/Azog.md), kẻ sau đó giết chết hắn. Azog ra lệnh treo thưởng cho cái đầu của Thorin rồi nhanh chóng lên đường cùng những tên Orc còn lại.
 
-Ngược lại mong muốn của Hội đồng, Gandalf gửi Bilbo và Người Lùn tới [Dãy Núi Sương Mù](../M/Misty_Mountains.md). Khi băng qua những ngọn núi, Bilbo và Người Lùn gặp phải trận chiến giữa ba [người khổng lồ](../G/Giants.md) bằng đá và buộc phải ẩn náu trong một hang động. Ở một nơi khác, Azog và Orc của ông đi theo dấu vết Người Lùn' đến Dãy Núi Sương Mù. Trong khi công ty đang ngủ say, Bilbo quyết định rời đi và quay trở lại Rivendell sau khi nói chuyện với [Bofur](../B/Bofur.md), người đã tin tưởng anh. Ông bị nghe lén bởi Thorin, người tin rằng ông đã được chứng minh là đúng rằng người hobbit không hoàn thành nhiệm vụ. Nhưng trước khi Bilbo kịp rời đi, tất cả đều bị Goblin bắt giữ và đưa đến gặp thủ lĩnh của chúng, [Goblin Vua](../G/Great_Goblin.md). Gandalf đến và lưu Người Lùn từ Goblin. Sau đó, họ chiến đấu để thoát khỏi [Thị trấn yêu tinh](../G/Goblin-town.md), giết chết yêu tinh Vua trong khi trốn thoát. Bilbo đã bị tách khỏi Người Lùn ngay sau khi bị bắt và chạm trán với [Gollum](../G/Gollum.md), những kẻ vô tình đánh rơi một [chiếc nhẫn](The_One_Ring.md) bí ẩn trong khi giết một con yêu tinh đi lạc để kiếm ăn. Nhặt chiếc nhẫn lên và bỏ vào túi, Bilbo thấy mình đang đối đầu với Gollum. Họ chơi một [Trò chơi đố](../R/Riddle-game.md), đặt cược rằng Bilbo sẽ bị dẫn ra nếu ông thắng, hoặc bị Gollum ăn thịt nếu ông thua. Sau khi Bilbo thắng bằng cách hỏi Gollum mình có gì trong túi, Gollum nhận ra Bilbo đã đánh cắp chiếc nhẫn và tấn công ông. Bilbo phát hiện ra chiếc nhẫn giúp ông tàng hình và trốn tránh một Gollum giận dữ, đi theo ông để tìm lối thoát và quyết định thương hại không giết ông, mặc dù có cơ hội làm như vậy.
+Bất chấp mong muốn của Hội đồng, Gandalf đưa Bilbo và nhóm Người Lùn đến [Dãy Núi Sương Mù](../M/Misty_Mountains.md). Khi băng qua dãy núi, Bilbo và nhóm Người Lùn bắt gặp ba [người khổng lồ](../G/Giants.md) bằng đá đang giao chiến và buộc phải trú ẩn trong một hang động. Ở nơi khác, Azog cùng đám Orc lần theo dấu vết của nhóm Người Lùn đến Dãy Núi Sương Mù. Trong lúc cả đoàn ngủ, Bilbo quyết định rời đi và trở về Rivendell sau khi trò chuyện với [Bofur](../B/Bofur.md), người tin tưởng cậu. Thorin nghe lỏm được cuộc trò chuyện và cho rằng điều này chứng minh mình đã đúng khi nhận định Hobbit không đủ khả năng thực hiện nhiệm vụ. Nhưng trước khi Bilbo kịp rời đi, tất cả đều bị Goblin bắt giữ và đưa đến trước thủ lĩnh của chúng, [Vua Goblin](../G/Great_Goblin.md). Gandalf đến giải cứu Người Lùn khỏi Goblin. Sau đó, cả nhóm chiến đấu để thoát khỏi [Thị trấn Goblin](../G/Goblin-town.md), giết chết Vua Goblin trong lúc trốn thoát. Bilbo bị tách khỏi nhóm Người Lùn ngay sau khi họ bị bắt và chạm trán [Gollum](../G/Gollum.md), kẻ vô tình đánh rơi một [chiếc nhẫn](The_One_Ring.md) bí ẩn khi giết một con Goblin đi lạc để ăn thịt. Bilbo nhặt chiếc nhẫn lên, bỏ vào túi rồi chạm mặt Gollum. Hai người chơi [Trò chơi Đố đố](../R/Riddle-game.md), đặt cược rằng nếu thắng, Bilbo sẽ được chỉ đường ra ngoài; còn nếu thua, cậu sẽ bị Gollum ăn thịt. Sau khi Bilbo thắng bằng cách hỏi Gollum thứ gì đang ở trong túi mình, Gollum nhận ra Bilbo đã lấy chiếc nhẫn và tấn công cậu. Bilbo phát hiện chiếc nhẫn có thể khiến cậu tàng hình, nhờ đó thoát khỏi Gollum đang giận dữ. Cậu đi theo nó để tìm đường ra ngoài và động lòng thương nên quyết định không giết nó, dù có cơ hội làm vậy.
 
-Bilbo gia nhập lại nhóm khi anh gặp họ sau khi nghe Thorin lên tiếng nghi ngờ rằng anh sẽ quay lại, giữ bí mật về chiếc nhẫn mà anh tìm thấy. Khoảnh khắc chiến thắng bị cắt ngắn khi họ bị phục kích bởi Azog và nhóm đi săn của hắn. Sau khi ẩn náu trong những cây bên vách đá trước khi Warg nhổ hầu hết chúng, cây cuối cùng bị bật gốc một phần, khiến phần lớn Công ty treo lơ lửng trên vách đá. Thorin sau đó lao tới Azog để cố gắng cứu những người khác, nhưng bị thương nặng và ngã xuống đất. Bilbo bảo vệ Thorin khỏi bị giết, và khi những Orc khác của Azog tiến đến, [Fíli](../F/Fíli.md), [Kíli](../K/Kíli.md) và [Dwalin](../D/Dwalin.md) lao vào và tấn công họ, và một cuộc chiến xảy ra sau đó. Nhóm sau đó được cứu bởi [Đại Bàng](../E/Eagles.md), người đã đưa họ đến nơi an toàn trên [Carrock](../C/Carrock.md). Gandalf đánh thức Thorin bất tỉnh, người cuối cùng đã chấp nhận Bilbo vì lòng dũng cảm và lòng dũng cảm của mình. Khi cả nhóm nhìn thấy định mệnh trong cuộc hành trình của mình, Ngọn Núi Cô Đơn ở phía xa, Smaug thức tỉnh.
+Bilbo nhập lại nhóm sau khi nghe Thorin bày tỏ nghi ngờ rằng cậu sẽ quay lại rồi nhìn thấy cả đoàn, đồng thời giữ kín chiếc nhẫn mình tìm được. Khoảnh khắc chiến thắng chóng qua khi cả nhóm bị Azog và toán săn đuổi của hắn phục kích. Họ trú ẩn trên những cái cây mọc bên vách đá, nhưng Warg nhổ bật phần lớn số cây ấy. Cuối cùng, cái cây còn lại cũng bị nhổ bật một phần rễ, khiến phần lớn thành viên trong đoàn treo lơ lửng bên vách đá. Thorin lao vào Azog để cứu những người còn lại, nhưng bị thương nặng và ngã xuống đất. Bilbo ngăn Azog giết Thorin. Khi những tên Orc khác của Azog tiến đến, [Fíli](../F/Fíli.md), [Kíli](../K/Kíli.md) và [Dwalin](../D/Dwalin.md) lao vào tấn công chúng, và trận chiến nổ ra. Sau đó, cả nhóm được [Đại Bàng](../E/Eagles.md) giải cứu và đưa đến nơi an toàn trên [Carrock](../C/Carrock.md). Gandalf đánh thức Thorin đang bất tỉnh. Cuối cùng, Thorin công nhận lòng can đảm của Bilbo. Khi cả đoàn nhìn thấy Ngọn Núi Cô Đơn ở phía xa, đích đến của chuyến hành trình, Smaug thức giấc.
 
 ### Cảnh {#Scenes}
 
-1. Mở đầu: Sự sụp đổ của Erebor \*\*
-2. "Trong một cái hố trên mặt đất có một Hobbit"
-3. Những người bạn rất cũ
-4. Ông. Baggins \*
-5. Một bữa tiệc bất ngờ
-6. "Làm cùn dao" \*\*
-7. Bản đồ, chìa khóa và hợp đồng
-8. "Dãy Núi Sương Mù"
-9. "... Thế giới phía trước"
-10. Cái Trận Azanulbizar
-11. Radagast màu nâu
-12. Trollshaws
-13. Thịt cừu nướng
-14. Kho chứa quỷ khổng lồ
-15. Ngọn đồi ma thuật
-16. Warg-Trinh sát
-17. Rivendell \*\*
-18. Nghỉ ngơi ngắn ngủi \*\*
-19. Mặt Trăng Ngọc
-20. Người làm ô nhiễm
-21. Ngôi nhà giản dị cuối cùng \*
-22. Cái Bạch Hội Đồng \*\*
-23. "Tại sao lại là Halfling?"
-24. Trên đồi
-25. Dưới Đồi
-26. Con yêu tinh vĩ đại \*\*
-27. Câu đố trong bóng tối
-28. Kẻ cắn và kẻ đánh
-29. Chiếc nhẫn
-30. Thoát khỏi Thị trấn yêu tinh
-31. Sự đáng tiếc của Bilbo
-32. "Nhà ở phía sau..."
-33. Ra khỏi chảo rán
-34. Một điềm lành
-35. Tín dụng
+1\. Mở đầu: Erebor thất thủ \\*\\*
+2\. "Trong một cái hang dưới lòng đất, một Hobbit sống"
+3\. Những người bạn lâu năm
+4\. Ngài Baggins \\*
+5\. Một bữa tiệc bất ngờ
+6\. "Mài cùn những lưỡi dao" \\*\\*
+7\. Bản đồ, chìa khóa và hợp đồng
+8\. "Dãy Núi Sương Mù"
+9\. "... Thế giới phía trước"
+10\. Trận chiến Azanulbizar
+11\. Radagast Áo Nâu
+12\. Vùng đồi Troll
+13\. Thịt cừu quay
+14\. Kho báu của Troll
+15\. Ngọn đồi tà thuật
+16\. Trinh sát Warg
+17\. Rivendell \\*\\*
+18\. Nghỉ ngơi đôi chút \\*\\*
+19\. Chữ rune Mặt Trăng
+20\. Kẻ làm hoen ố
+21\. Ngôi nhà Cuối cùng Ấm cúng \\*
+22\. Bạch Hội Đồng \\*\\*
+23\. "Tại sao lại là Hobbit?"
+24\. Vượt đồi
+25\. Dưới chân đồi
+26\. Vua Goblin \\*\\*
+27\. Những câu đố trong bóng tối
+28\. Kẻ cắn và kẻ đánh
+29\. Chiếc nhẫn
+30\. Thoát khỏi Thị trấn Goblin
+31\. Lòng thương xót của Bilbo
+32\. "Nhà ở phía sau..."
+33\. Thoát khỏi chảo lửa
+34\. Một điềm lành
+35\. Danh đề cuối phim
 
-\* biểu thị một cảnh chỉ có trong bản cắt Phiên bản mở rộng của phim.<br> \*\* biểu thị một cảnh bao gồm nội dung mở rộng chỉ có trong bản cắt Phiên bản mở rộng của phim.
+\\* biểu thị một cảnh chỉ xuất hiện trong bản phim Bản mở rộng.\<br> \\*\\* biểu thị một cảnh có thêm nội dung chỉ xuất hiện trong bản phim Bản mở rộng.
 
 ## Truyền {#Cast}
 
@@ -253,27 +253,27 @@ Bilbo gia nhập lại nhóm khi anh gặp họ sau khi nghe Thorin lên tiếng
 </td></tr>
 <tr>
 <td><a href="../L/Luke_Evans.md" title="Luke Evans">Luke Evans</a></td>
-<td><a href="../G/Girion.md" title="Girion">Girion</a> (<a href="The_Hobbit%253A_An_Unexpected_Journey_(extended_edition).md" title="The Hobbit: An Unexpected Journey (extended edition)">Chỉ phiên bản mở rộng</a>)
+<td><a href="../G/Girion.md" title="Girion">Girion</a> (<a href="The_Hobbit%253A_An_Unexpected_Journey_(extended_edition).md" title="The Hobbit: An Unexpected Journey (extended edition)">chỉ có trong Bản mở rộng</a>)
 </td></tr>
 <tr>
 <td><a href="../D/Dan_Hennah.md" title="Dan Hennah">Dan Hennah</a></td>
-<td><a href="../G/Gerontius_Took.md" title="Gerontius Took">Old Took</a><sup id="cite_ref-Weta1_10-0" class="reference"><a href="#cite_note-Weta1-10">[7]</a></sup> (Chỉ phiên bản mở rộng)
+<td><a href="../G/Gerontius_Took.md" title="Gerontius Took">Old Took</a><sup id="cite_ref-Weta1_10-0" class="reference"><a href="#cite_note-Weta1-10">[7]</a></sup> (chỉ có trong Bản mở rộng)
 </td></tr>
 <tr>
 <td>Stephen Gledhill</td>
-<td><a href="../O/Old_Gammidge.md" title="Old Gammidge">Gammidge cũ</a> (Chỉ phiên bản mở rộng)
+<td><a href="../O/Old_Gammidge.md" title="Old Gammidge">Old Gammidge</a> (chỉ có trong Bản mở rộng)
 </td></tr>
 <tr>
 <td>Tim Gordon</td>
-<td><a href="../O/Old_Hob.md" title="Old Hob">Old Hob</a> (Chỉ phiên bản mở rộng)
+<td><a href="../O/Old_Hob.md" title="Old Hob">Old Hob</a> (Chỉ có trong Bản mở rộng)
 </td></tr>
 <tr>
 <td>Oscar Strik</td>
-<td><a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Little Bilbo</a> (Chỉ phiên bản mở rộng)
+<td><a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Little Bilbo</a> (Chỉ có trong Bản mở rộng)
 </td></tr>
 <tr>
 <td>Sonia Forbes Adam</td>
-<td><a href="../B/Belladonna_Took.md" title="Belladonna Took">Belladonna Took</a> (Chỉ phiên bản mở rộng)
+<td><a href="../B/Belladonna_Took.md" title="Belladonna Took">Belladonna Took</a> (Chỉ có trong Bản mở rộng)
 </td></tr>
 <tr>
 <td><a href="Timothy_Bartlett.md" title="Timothy Bartlett">Timothy Bartlett</a></td>
@@ -281,19 +281,19 @@ Bilbo gia nhập lại nhóm khi anh gặp họ sau khi nghe Thorin lên tiếng
 </td></tr>
 <tr>
 <td>Erin Banks</td>
-<td><a href="../L/Lobelia_Sackville-Baggins.md" title="Lobelia Sackville-Baggins">Lobelia Sackville Baggins</a> (Chỉ phiên bản mở rộng)
+<td><a href="../L/Lobelia_Sackville-Baggins.md" title="Lobelia Sackville-Baggins">Lobelia Sackville-Baggins</a> (Chỉ có trong Bản mở rộng)
 </td></tr>
 <tr>
 <td>Brian Hotter</td>
-<td><a href="../O/Otho_Sackville-Baggins.md" title="Otho Sackville-Baggins">Otho Sackville Baggins</a> (Chỉ phiên bản mở rộng)
+<td><a href="../O/Otho_Sackville-Baggins.md" title="Otho Sackville-Baggins">Otho Sackville-Baggins</a> (Chỉ có trong Bản mở rộng)
 </td></tr>
 <tr>
 <td>Eric Vespe</td>
-<td><a href="../F/Fredegar_Chubb.md" title="Fredegar Chubb">Fredegar Chubb</a> (Chỉ phiên bản mở rộng)
+<td><a href="../F/Fredegar_Chubb.md" title="Fredegar Chubb">Fredegar Chubb</a> (Chỉ có trong Bản mở rộng)
 </td></tr>
 <tr>
 <td>Mervyn Smith</td>
-<td><a href="Tosser_Grubb.md" title="Tosser Grubb">Tosser Grubb</a> (Chỉ phiên bản mở rộng)
+<td><a href="Tosser_Grubb.md" title="Tosser Grubb">Tosser Grubb</a> (Chỉ có trong Bản mở rộng)
 </td></tr>
 <tr>
 <td><a href="../W/William_Kircher.md" title="William Kircher">William Kircher</a></td>
@@ -333,7 +333,7 @@ Bilbo gia nhập lại nhóm khi anh gặp họ sau khi nghe Thorin lên tiếng
 </td></tr>
 <tr>
 <td>Ruby Acevedo<br/>Luc Campbell<br/>Culain McGhie<br/>Rose Harnett<br/><a href="../K/Katie_Jackson.md" title="Katie Jackson">Katie Jackson</a><br/>Eloise Masters<br/>Eva Matthews<br/>Ollie Matthews<br/>Honor McTavish<br/>Isaac Miller<br/>Ella Olssen<br/>Sabin Olssen<br/>Findlay Price<br/>Nancy Ruck<br/>Louis Serkis<br/>Ruby Serkis<br/>Sonny Serkis<br/>Amelia Taylor<br/>Samuel Taylor<br/>Ruby Vincent<br/>Tui Vincent</td>
-<td><a href="../H/Hobbits.md" title="Hobbits">Tuổi trẻ dễ thương Hobbit</a> (Chỉ phiên bản mở rộng)
+<td><a href="../H/Hobbits.md" title="Hobbits">Những Hobbit trẻ đáng yêu</a> (Chỉ có trong Bản mở rộng)
 </td></tr></tbody></table>
 
 ### Chưa được công nhận {#Uncredited}
@@ -466,7 +466,7 @@ Bilbo gia nhập lại nhóm khi anh gặp họ sau khi nghe Thorin lên tiếng
 
 ## Những sai lệch so với nguồn tài liệu {#Deviations_from_the_source_material}
 
-*The Hobbit: An Unexpected Journey* bao gồm sáu chương đầu tiên của *[The Hobbit](The_Hobbit.md)* với một số yếu tố được thêm vào từ [Phụ lục](The_Lord_of_the_Rings_Appendices.md) từ *[The Lord of the Rings](The_Lord_of_the_Rings.md)*. Mặc dù nó bám sát câu chuyện khá chặt chẽ nhưng một số quyền tự do vẫn được áp dụng:
+\*The Hobbit: An Unexpected Journey\* chuyển thể sáu chương đầu tiên của [*The Hobbit*](The_Hobbit.md), đồng thời bổ sung một số yếu tố từ các [Phụ lục](The_Lord_of_the_Rings_Appendices.md) của [*The Lord of the Rings*](The_Lord_of_the_Rings.md). Dù phim bám khá sát cốt truyện, đoàn làm phim vẫn có một số thay đổi so với nguyên tác:
 
 - The film begins with a prologue in which [Bilbo Baggins](../B/Bilbo_Baggins.md) awakens in the early hours of the morning of his 111th birthday and begins to write [*There and Back Again: A Hobbit's Holiday*](There_and_Back_Again.md) in what would become the [Red Book of Westmarch](../R/Red_Book_of_Westmarch.md). In *The Hobbit*, he had already begun to write the book shortly after returning to [Bag End](../B/Bag_End.md).
 - Before beginning the first chapter of his book, Bilbo also details the background of his adventure, first recounting the rise and fall of [Erebor](../L/Lonely_Mountain.md) and [Dale](../D/Dale.md), and then the arrival of [Smaug](../S/Smaug.md) - much of the same information recounted by [Thorin](Thorin.md) and the other [Dwarves](Thorin_and_Company.md) during the Unexpected Party. The [Arkenstone](../A/Arkenstone.md) is found under [Thrór](Thrór.md)'s rule instead of that of [Thráin I](Thráin_I.md), and is not carried away into the [Grey Mountains](../G/Grey_Mountains.md) by [Thorin I](Thorin_I.md) and ultimately carried back by Thrór. Thrór interprets its discovery as his divine right to rule. Thorin and [Balin](../B/Balin.md) are shown as adults, although in the books at the time of the [sack](../S/Sack_of_Erebor.md) they were a mere 24 and 7 years old, respectively. Thorin is even shown as a captain giving orders, and, thus, not outside the Mountain during the attack of the [Dragon](../D/Dragons.md), as written in the book.
@@ -522,32 +522,32 @@ Bilbo gia nhập lại nhóm khi anh gặp họ sau khi nghe Thorin lên tiếng
 
 ## Âm nhạc {#Music}
 
-Bản nhạc cho *The Hobbit: An Unexpected Journey* do [Howard Shore](../H/Howard_Shore.md) sáng tác và được biểu diễn và thu âm bởi Dàn nhạc giao hưởng London tại Abbey Road Studios.<sup id="cite_ref-DougAdamsAUJ_13-0" class="reference"><a href="#cite_note-DougAdamsAUJ-13">[10]</a></sup>
+Phần nhạc nền của *The Hobbit: An Unexpected Journey* do [Howard Shore](../H/Howard_Shore.md) sáng tác, do Dàn nhạc Giao hưởng London biểu diễn và thu âm tại Abbey Road Studios.<sup id="cite_ref-DougAdamsAUJ_13-0" class="reference"><a href="#cite_note-DougAdamsAUJ-13">[10]</a></sup>
 
 Hai phiên bản nhạc phim được <a class="extiw" href="http://en.wikipedia.org/wiki/WaterTower_Music" title="wikipedia:WaterTower Music">WaterTower Music</a> phát hành vào [11 tháng 12](../_/11_December.md) [2012](../_/2012.md):
 
 - *[The Hobbit: An Unexpected Journey - Original Motion Picture Soundtrack](The_Hobbit%253A_An_Unexpected_Journey_-_Original_Motion_Picture_Soundtrack.md)*
 - *[The Hobbit: An Unexpected Journey - Original Motion Picture Soundtrack - Special Edition](The_Hobbit%253A_An_Unexpected_Journey_-_Original_Motion_Picture_Soundtrack_-_Special_Edition.md)*
 
-Bài hát có trong phần ghi công của *An Unexpected Journey*, [Bài hát của Ngọn Núi Cô Đơn](../S/Song_of_the_Lonely_Mountain.md), do [Neil Finn](../N/Neil_Finn.md) biểu diễn và phát hành [ngày 12 tháng 11](../_/12_November.md) [2012](../_/2012.md). Nó được <a class="external text" href="http://www.rollingstone.com/music/news/neil-finn-reaches-epic-heights-on-song-of-the-lonely-mountain-song-premiere-20121112" rel="noreferrer noopener" target="_blank">phát hành lần đầu tiên trên RollingStone.com</a>.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[11]</a></sup>
+Ca khúc vang lên trong phần danh đề cuối phim *An Unexpected Journey*, [Bài hát của Ngọn Núi Cô Đơn](../S/Song_of_the_Lonely_Mountain.md), do [Neil Finn](../N/Neil_Finn.md) trình bày và ra mắt vào [ngày 12 tháng 11](../_/12_November.md) [2012](../_/2012.md). Ca khúc lần đầu được <a class="external text" href="http://www.rollingstone.com/music/news/neil-finn-reaches-epic-heights-on-song-of-the-lonely-mountain-song-premiere-20121112" rel="noreferrer noopener" target="_blank">phát hành trên RollingStone.com</a>.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[11]</a></sup>
 
 ## Phân phối {#Distribution}
 
 ### Ra rạp {#Theatrical_release}
 
-*An Unexpected Journey* đã có buổi ra mắt thế giới tại [Wellington](../W/Wellington.md), [New Zealand](../N/New_Zealand.md), vào [28 tháng 11](../_/28_November.md) [2012](../_/2012.md). Phim được phát hành tại các rạp New Zealand vào [12 tháng 12](../_/12_December.md), [13 tháng 12](../_/13_December.md) ở Châu Âu, [14 tháng 12](../_/14_December.md) ở Ấn Độ, Canada và Hoa Kỳ, và [26 tháng 12](../_/26_December.md) ở Úc.
+*An Unexpected Journey* ra mắt toàn cầu tại [Wellington](../W/Wellington.md), [New Zealand](../N/New_Zealand.md), vào [28 tháng 11](../_/28_November.md) [2012](../_/2012.md). Phim được phát hành tại các rạp chiếu phim ở New Zealand vào [12 tháng 12](../_/12_December.md), tại châu Âu vào [13 tháng 12](../_/13_December.md), tại Ấn Độ, Canada và Hoa Kỳ vào [14 tháng 12](../_/14_December.md), và tại Úc vào [26 tháng 12](../_/26_December.md).
 
 ### Phương tiện truyền thông gia đình {#Home_media}
 
-*An Unexpected Journey* đã được phát hành dưới dạng DVD, Blu-ray, Blu-ray 3D và dưới dạng tải xuống kỹ thuật số vào [19 tháng 3](../_/19_March.md) [2013](../_/2013.md).<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[12]</a></sup> Ngày phát hành ở [Vương quốc Anh](../U/United_Kingdom.md) là [8 tháng 4](../_/8_April.md).<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[13]</a></sup>
+*An Unexpected Journey* được phát hành dưới dạng DVD, Blu-ray, Blu-ray 3D và bản tải kỹ thuật số vào [19 tháng 3](../_/19_March.md) [2013](../_/2013.md).<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[12]</a></sup> Phim được phát hành tại [Vương quốc Anh](../U/United_Kingdom.md) vào [8 tháng 4](../_/8_April.md).<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[13]</a></sup>
 
-Một [ấn bản mở rộng](<The_Hobbit%253A_An_Unexpected_Journey_(extended_edition).md>) của *An Unexpected Journey*, bao gồm thêm 13 phút cảnh quay, đã được phát hành ở Vương quốc Anh dưới dạng tải xuống kỹ thuật số vào [22 tháng 10](../_/22_October.md) và trên Blu-ray và DVD vào [ngày 4 tháng 11](../_/4_November.md).<sup id="cite_ref-ExtendedEdition_17-0" class="reference"><a href="#cite_note-ExtendedEdition-17">[14]</a></sup>
+Một [ấn bản mở rộng](<The_Hobbit%253A_An_Unexpected_Journey_(extended_edition).md>) của *An Unexpected Journey*, có thêm 13 phút phim, được phát hành tại Vương quốc Anh dưới dạng bản tải kỹ thuật số vào [22 tháng 10](../_/22_October.md) và dưới dạng đĩa Blu-ray, DVD vào [4 tháng 11](../_/4_November.md).<sup id="cite_ref-ExtendedEdition_17-0" class="reference"><a href="#cite_note-ExtendedEdition-17">[14]</a></sup>
 
 ## Khuyến mãi {#Promotion}
 
 ### Áp phích quảng cáo {#Promotional_posters}
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Xem thêm: <a href="../../category/I/Images_of_The_Hobbit%253A_An_Unexpected_Journey_posters.md" title="Category:Images of The Hobbit: An Unexpected Journey posters">Category:Images of The Hobbit: An Unexpected Journey posters</a></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Xem thêm: <a href="../../category/I/Images_of_The_Hobbit%253A_An_Unexpected_Journey_posters.md" title="Category:Images of The Hobbit: An Unexpected Journey posters">Hình ảnh áp phích phim The Hobbit: An Unexpected Journey</a></div></div>
 
 ### Áp phích quảng cáo cho *The Hobbit: An Unexpected Journey* {#Promotional_posters_for_The_Hobbit:_An_Unexpected_Journey}
 
@@ -576,7 +576,7 @@ Một [ấn bản mở rộng](<The_Hobbit%253A_An_Unexpected_Journey_(extended_
 		<li class="gallerybox" style="width: 235px">
 			<div class="thumb" style="width: 230px; height: 330px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Hobbit_-_An_Unexpected_Journey_-_poster_4.jpg.md" title="The fourth promotional poster."><img alt="The fourth promotional poster." src="https://tolkiengateway.net/w/images/thumb/6/69/The_Hobbit_-_An_Unexpected_Journey_-_poster_4.jpg/200px-The_Hobbit_-_An_Unexpected_Journey_-_poster_4.jpg" decoding="async" loading="lazy" width="200" height="292" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/69/The_Hobbit_-_An_Unexpected_Journey_-_poster_4.jpg/300px-The_Hobbit_-_An_Unexpected_Journey_-_poster_4.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/6/69/The_Hobbit_-_An_Unexpected_Journey_-_poster_4.jpg/400px-The_Hobbit_-_An_Unexpected_Journey_-_poster_4.jpg 2x" data-file-width="1029" data-file-height="1500"/></a></span></div>
 			<div class="gallerytext">
-<p>Poster quảng cáo thứ tư.
+<p>Áp phích quảng cáo thứ tư.
 </p>
 			</div>
 		</li>
@@ -595,21 +595,21 @@ Một [ấn bản mở rộng](<The_Hobbit%253A_An_Unexpected_Journey_(extended_
 ## Xem thêm {#See_also}
 
 - [*The Hobbit* (loạt phim)](<The_Hobbit_(film_series).md>)
-    - *[The Desolation of Smaug](The_Hobbit%253A_The_Desolation_of_Smaug.md)*
-    - *[The Battle of the Five Armies](The_Hobbit%253A_The_Battle_of_the_Five_Armies.md)*
+&#x20;   - *[The Desolation of Smaug](The_Hobbit%253A_The_Desolation_of_Smaug.md)*
+&#x20;   - *[The Battle of the Five Armies](The_Hobbit%253A_The_Battle_of_the_Five_Armies.md)*
 - [Hình ảnh từ *An Unexpected Journey*](../../category/I/Images_from_The_Hobbit%253A_An_Unexpected_Journey.md)
-- [*An Unexpected Journey* áp phích](../../category/I/Images_of_The_Hobbit%253A_An_Unexpected_Journey_posters.md)
-- *The Hobbit: An Unexpected Journey* nhạc phim
-    - *[The Hobbit: An Unexpected Journey - Original Motion Picture Soundtrack](The_Hobbit%253A_An_Unexpected_Journey_-_Original_Motion_Picture_Soundtrack.md)*
-    - *[The Hobbit: An Unexpected Journey - Original Motion Picture Soundtrack - Special Edition](The_Hobbit%253A_An_Unexpected_Journey_-_Original_Motion_Picture_Soundtrack_-_Special_Edition.md)*
-- *The Hobbit: An Unexpected Journey* sách đi kèm:
-    - *[The Hobbit: An Unexpected Journey: Annual 2013](The_Hobbit%253A_An_Unexpected_Journey%253A_Annual_2013.md)*
-    - *[The Hobbit: An Unexpected Journey: Chronicles: Art &amp; Design](The_Hobbit%253A_An_Unexpected_Journey%253A_Chronicles%253A_Art_&_Design.md)*
-    - *[The Hobbit: An Unexpected Journey: Chronicles: Creatures &amp; Characters](The_Hobbit%253A_An_Unexpected_Journey%253A_Chronicles%253A_Creatures_&_Characters.md)*
-    - *[The Hobbit: An Unexpected Journey: Official Movie Guide](The_Hobbit%253A_An_Unexpected_Journey%253A_Official_Movie_Guide.md)*
-    - *[The Hobbit: An Unexpected Journey: The Movie Storybook](The_Hobbit%253A_An_Unexpected_Journey%253A_The_Movie_Storybook.md)*
-    - *[The Hobbit: An Unexpected Journey: The World of Hobbits](The_Hobbit%253A_An_Unexpected_Journey%253A_The_World_of_Hobbits.md)*
-    - *[The Hobbit: An Unexpected Journey: Visual Companion](The_Hobbit%253A_An_Unexpected_Journey%253A_Visual_Companion.md)*
+- [Áp phích *An Unexpected Journey*](../../category/I/Images_of_The_Hobbit%253A_An_Unexpected_Journey_posters.md)
+- Nhạc phim *The Hobbit: An Unexpected Journey*
+&#x20;   - *[The Hobbit: An Unexpected Journey - Original Motion Picture Soundtrack](The_Hobbit%253A_An_Unexpected_Journey_-_Original_Motion_Picture_Soundtrack.md)*
+&#x20;   - *[The Hobbit: An Unexpected Journey - Original Motion Picture Soundtrack - Special Edition](The_Hobbit%253A_An_Unexpected_Journey_-_Original_Motion_Picture_Soundtrack_-_Special_Edition.md)*
+- Sách liên quan đến *The Hobbit: An Unexpected Journey*:
+&#x20;   - *[The Hobbit: An Unexpected Journey: Annual 2013](The_Hobbit%253A_An_Unexpected_Journey%253A_Annual_2013.md)*
+&#x20;   - *[The Hobbit: An Unexpected Journey: Chronicles: Art &amp; Design](The_Hobbit%253A_An_Unexpected_Journey%253A_Chronicles%253A_Art_&_Design.md)*
+&#x20;   - *[The Hobbit: An Unexpected Journey: Chronicles: Creatures &amp; Characters](The_Hobbit%253A_An_Unexpected_Journey%253A_Chronicles%253A_Creatures_&_Characters.md)*
+&#x20;   - *[The Hobbit: An Unexpected Journey: Official Movie Guide](The_Hobbit%253A_An_Unexpected_Journey%253A_Official_Movie_Guide.md)*
+&#x20;   - *[The Hobbit: An Unexpected Journey: The Movie Storybook](The_Hobbit%253A_An_Unexpected_Journey%253A_The_Movie_Storybook.md)*
+&#x20;   - *[The Hobbit: An Unexpected Journey: The World of Hobbits](The_Hobbit%253A_An_Unexpected_Journey%253A_The_World_of_Hobbits.md)*
+&#x20;   - *[The Hobbit: An Unexpected Journey: Visual Companion](The_Hobbit%253A_An_Unexpected_Journey%253A_Visual_Companion.md)*
 
 ## Liên kết ngoài {#External_links}
 
@@ -664,7 +664,7 @@ Trang Facebook của - <a class="external text" href="http://www.facebook.com/Pe
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>
-<th align="center" style="background:var(--tg-color-surface-5)" colspan="3"><b>Chuyển thể màn hình các tác phẩm của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> được cấp phép</b>
+<th align="center" style="background:var(--tg-color-surface-5)" colspan="3"><b>Các tác phẩm chuyển thể lên màn ảnh có bản quyền từ <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></b>
 </th></tr>
 <tr>
 <th align="center" style="background:var(--tg-color-surface-4); padding-right: 4px;"><b>Phim hoạt hình</b>
@@ -674,7 +674,7 @@ Trang Facebook của - <a class="external text" href="http://www.facebook.com/Pe
 <tr>
 <th align="center" style="background:var(--tg-color-surface-4); padding-right: 4px;" rowspan="3"><b>Live-action</b><br/><small>(New Line Cinema)</small>
 </th>
-<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;"><b><a href="The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings </i>loạt</a></b>
+<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;"><b><a href="The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)">Loạt phim <i>The Lord of the Rings </i></a></b>
 </th>
 <td style="font-size: 90%; padding-left: 4px;"><i><a href="The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Fellowship of the Ring</a></i> (2001) · <i><a href="The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Two Towers</a></i> (2002) · <i><a href="The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">The Return of the King</a></i> (2003)
 </td></tr>
@@ -691,12 +691,12 @@ Trang Facebook của - <a class="external text" href="http://www.facebook.com/Pe
 <tr>
 <th align="center" style="font-size: 90%; background:var(--tg-color-surface-4); padding-left: 4px; padding-right: 4px;"><b>Loạt phim truyền hình</b>
 </th>
-<td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Rings of Power</a></i> (2022-nay)
+<td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Rings of Power</a></i> (2022–nay)
 </td></tr></tbody></table>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>
-<th align="center" style="background:var(--tg-color-surface-5)" colspan="3"><b><a href="The_Hobbit_(film_series).md" title="The Hobbit (film series)"><i>The Hobbit</i> loạt phim</a></b>
+<th align="center" style="background:var(--tg-color-surface-5)" colspan="3"><b><a href="The_Hobbit_(film_series).md" title="The Hobbit (film series)">Loạt phim <i>The Hobbit</i></a></b>
 </th></tr>
 <tr>
 <td align="center" style="background:var(--tg-color-surface-4); font-size: 90%;" colspan="3">Nguồn tư liệu: <i><a href="The_Hobbit.md" title="The Hobbit">The Hobbit</a></i> · <i><a href="The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>
@@ -704,7 +704,7 @@ Trang Facebook của - <a class="external text" href="http://www.facebook.com/Pe
 <tr>
 <th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;">Phim
 </th>
-<td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a class="mw-selflink selflink">An Unexpected Journey</a></i> (<a href="The_Hobbit%253A_An_Unexpected_Journey_(extended_edition).md" title="The Hobbit: An Unexpected Journey (extended edition)">ấn bản mở rộng</a>)· <i><a href="The_Hobbit%253A_The_Desolation_of_Smaug.md" title="The Hobbit: The Desolation of Smaug">The Desolation of Smaug</a></i> (<a href="The_Hobbit%253A_The_Desolation_of_Smaug_(extended_edition).md" title="The Hobbit: The Desolation of Smaug (extended edition)">ấn bản mở rộng</a>) · <i><a href="The_Hobbit%253A_The_Battle_of_the_Five_Armies.md" title="The Hobbit: The Battle of the Five Armies">The Battle of the Five Armies</a></i> (<a href="The_Hobbit%253A_The_Battle_of_the_Five_Armies_(extended_edition).md" title="The Hobbit: The Battle of the Five Armies (extended edition)">ấn bản mở rộng</a>)
+<td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a class="mw-selflink selflink">An Unexpected Journey</a></i> (<a href="The_Hobbit%253A_An_Unexpected_Journey_(extended_edition).md" title="The Hobbit: An Unexpected Journey (extended edition)">ấn bản mở rộng</a>) · <i><a href="The_Hobbit%253A_The_Desolation_of_Smaug.md" title="The Hobbit: The Desolation of Smaug">The Desolation of Smaug</a></i> (<a href="The_Hobbit%253A_The_Desolation_of_Smaug_(extended_edition).md" title="The Hobbit: The Desolation of Smaug (extended edition)">ấn bản mở rộng</a>) · <i><a href="The_Hobbit%253A_The_Battle_of_the_Five_Armies.md" title="The Hobbit: The Battle of the Five Armies">The Battle of the Five Armies</a></i> (<a href="The_Hobbit%253A_The_Battle_of_the_Five_Armies_(extended_edition).md" title="The Hobbit: The Battle of the Five Armies (extended edition)">ấn bản mở rộng</a>)
 </td></tr>
 <tr>
 <th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;">Âm nhạc
