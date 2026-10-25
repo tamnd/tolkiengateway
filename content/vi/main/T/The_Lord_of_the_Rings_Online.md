@@ -51,7 +51,7 @@ infobox:
     value: "MMORPG"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>The Lord of the Rings</b> đề cập đến nhiều nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="The_Lord_of_the_Rings_(disambiguation).md" title="The Lord of the Rings (disambiguation)">The Lord of the Rings (disambiguation)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>The Lord of the Rings</b> có thể chỉ nhiều nhân vật, vật phẩm hoặc khái niệm khác nhau. Để xem danh sách các nghĩa khác, hãy xem <b><a class="mw-disambig" href="The_Lord_of_the_Rings_(disambiguation).md" title="The Lord of the Rings (disambiguation)">The Lord of the Rings (disambiguation)</a></b>.</div></div>
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/LOTRO_logo.png.md"><img src="https://tolkiengateway.net/w/images/thumb/5/59/LOTRO_logo.png/320px-LOTRO_logo.png" decoding="async" loading="lazy" width="320" height="152" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/59/LOTRO_logo.png/480px-LOTRO_logo.png 1.5x, https://tolkiengateway.net/w/images/thumb/5/59/LOTRO_logo.png/640px-LOTRO_logo.png 2x" data-file-width="826" data-file-height="393"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Trò chơi điện tử</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Lord of the Rings Online</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Chi tiết</span></th></tr><tr><th scope="row" class="tg-infobox-label">Nhà phát triển</th><td class="tg-infobox-data"><a href="Turbine.md" title="Turbine">Turbine, Inc.</a> (2007-2016)
 <a href="../S/Standing_Stone_Games.md" title="Standing Stone Games">Standing Stone Games</a> (2016-Present)</td></tr><tr><th scope="row" class="tg-infobox-label">Nhà xuất bản</th><td class="tg-infobox-data"><a href="../M/Midway_Games.md" title="Midway Games">Midway Games</a> (2007-2010)
@@ -67,8 +67,8 @@ Người chơi sẽ vào vai những nhà thám hiểm của [Dân tộc Tự do
 
 ## Phát triển {#Development}
 
-<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/2/2d/CdxIconEditUndo.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Viết lại</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này cần được viết lại để tuân thủ <a href="../../project/M/Manual_of_Style.md" title="Tolkien Gateway:Manual of Style">tiêu chuẩn cao hơn</a>...<blockquote class="tg-quote noexcerpt">
-<p>Những người khôn ngoan sẽ ở lại đây và hy vọng xây dựng lại thị trấn của chúng ta...
+<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/2/2d/CdxIconEditUndo.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Viết lại</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này cần viết lại để đáp ứng <a href="../../project/M/Manual_of_Style.md" title="Tolkien Gateway:Manual of Style">những tiêu chuẩn khắt khe hơn</a> của Tolkien Gateway...<blockquote class="tg-quote noexcerpt">
+<p>Những người sáng suốt sẽ ở lại đây và hy vọng xây dựng lại thị trấn của chúng ta...
 </p>
 <p class="tg-quote-footer"><cite><a href="../M/Master_of_Lake-town.md" title="Master of Lake-town">Chủ nhân Thị trấn Hồ</a></cite></p>
 </blockquote></div></div>
@@ -153,75 +153,75 @@ Giao diện người chơi cho phép các khía cạnh khác của trò chơi nh
 <tr>
 <td style="font-size:18px;"><i><a href="The_Lord_of_the_Rings_Online%253A_Shadows_of_Angmar.md" title="The Lord of the Rings Online: Shadows of Angmar">Shadows of Angmar</a></i></td>
 <td>24 April 2007</td>
-<td>Ban đầu nó bao gồm các cuốn từ I đến VIII của Epic Tập I: Shadows of Angmar. Khoảng hai tháng một lần, một bản cập nhật lớn miễn phí được thêm vào <i>The Lord of the Rings Online: Shadows of Angmar</i>. Mỗi bản cập nhật đều thêm một cuốn sách mới vào tập, cho đến khi kết thúc phần câu chuyện với Quyển XV: The Ring-forges of Eregion, phát hành vào <a href="../_/22_July.md" title="22 July">22 tháng 7</a>, <a href="../_/2008.md" title="2008">2008</a>.
+<td>Ban đầu, trò chơi bao gồm các quyển từ I đến VIII của Tập sử thi I: Shadows of Angmar. Cứ khoảng hai tháng, trò chơi lại có một bản cập nhật lớn miễn phí cho <i>The Lord of the Rings Online: Shadows of Angmar</i>. Mỗi bản cập nhật bổ sung một quyển mới cho tập, cho đến khi mạch truyện khép lại với Quyển XV: The Ring-forges of Eregion, phát hành ngày <a href="../_/22_July.md" title="22 July">22 tháng 7</a> năm <a href="../_/2008.md" title="2008">2008</a>.
 </td></tr>
 <tr>
 <td style="font-size:18px;"><i><a href="The_Lord_of_the_Rings_Online%253A_Mines_of_Moria.md" title="The Lord of the Rings Online: Mines of Moria">Hầm mỏ Moria</a></i></td>
 <td>18 November 2008</td>
-<td>Like <i>Shadows of Angmar</i>, <i>Mines of Moria</i> continued to regularly release updates. Updates were less frequent than Shadows of Angmar. The expansion&#39;s story continued through to Book VIII - Scourge of Khazad-dûm, released on <a href="../_/23_June.md" title="23 June">23 June</a>, <a href="../_/2009.md" title="2009">2009</a>, the conclusion of which would not appear until the next expansion.
+<td>Giống như <i>Shadows of Angmar</i>, <i>Mines of Moria</i> tiếp tục được cập nhật thường xuyên, dù tần suất cập nhật thấp hơn so với Shadows of Angmar. Cốt truyện của bản mở rộng kéo dài đến Quyển VIII - Scourge of Khazad-dûm, phát hành ngày <a href="../_/23_June.md" title="23 June">23 tháng 6</a> năm <a href="../_/2009.md" title="2009">2009</a>; phần kết của cốt truyện chỉ xuất hiện trong bản mở rộng tiếp theo.
 </td></tr>
 <tr>
 <td style="font-size:18px;"><i><a href="The_Lord_of_the_Rings_Online%253A_Siege_of_Mirkwood.md" title="The Lord of the Rings Online: Siege of Mirkwood">Siege of Mirkwood</a></i></td>
 <td>1 December 2009</td>
-<td>Không giống như bản mở rộng thứ hai, phiên bản này chỉ có sẵn thông qua tải xuống dựa trên web. Ban đầu nó bao gồm Quyển IX và phần kết của Tập II: Mỏ Moria.
-<p>Kate Paiz, Nhà sản xuất điều hành của <i>The Lord of the Rings Online</i>, đã đưa ra một lá thư vào ngày 22 tháng 10 năm 2010 nói rằng các bản cập nhật sẽ thường xuyên hơn nhưng không phải lúc nào cũng đi kèm với một cuốn sách mới tiếp tục câu chuyện hoành tráng.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
-</p><p>Vào <a href="../_/10_September.md" title="10 September">10 tháng Chín</a>, <a href="../_/2010.md" title="2010">2010</a>, <b>Bản cập nhật 1: Journey to Winter-Home</b> được phát hành, cũng đánh dấu sự chuyển đổi của trò chơi sang mô hình kinh doanh "chơi miễn phí", không còn yêu cầu đăng ký thông thường. Nó cũng đánh dấu cách tính mới về việc các Bản cập nhật thông thường được đánh số thay vì được đánh dấu bằng các bản cập nhật câu chuyện hoành tráng mà chúng chứa.
-</p><p>Bản cập nhật Epic Story cuối cùng của bản mở rộng là Quyển III - Echoes of the Dead, được phát hành vào <a href="../_/21_March.md" title="21 March">21 tháng 3</a>, <a href="../_/2011.md" title="2011">2011</a>.
+<td>Khác với bản mở rộng thứ hai, phiên bản này chỉ có thể tải xuống qua mạng. Ban đầu, phiên bản này bao gồm Quyển IX và phần kết của Tập II: Mines of Moria.
+<p>Kate Paiz, nhà sản xuất điều hành của <i>The Lord of the Rings Online</i>, đã công bố một bức thư vào ngày 22 tháng 10 năm 2010, trong đó cho biết các bản cập nhật sẽ được phát hành thường xuyên hơn, nhưng không phải lần nào cũng đi kèm một quyển mới nối tiếp mạch truyện sử thi.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+</p><p>Vào ngày <a href="../_/10_September.md" title="10 September">10 tháng Chín</a> năm <a href="../_/2010.md" title="2010">2010</a>, <b>Bản cập nhật 1: Journey to Winter-Home</b> ra mắt, đồng thời đánh dấu việc trò chơi chuyển sang mô hình kinh doanh miễn phí (free-to-play), không còn yêu cầu người chơi đăng ký thuê bao định kỳ. Bản cập nhật này cũng mở đầu cho cách đánh số mới đối với các bản cập nhật thông thường, thay vì đặt tên theo những phần truyện sử thi mà chúng bổ sung.
+</p><p>Bản cập nhật cốt truyện sử thi cuối cùng của bản mở rộng là Quyển III - Echoes of the Dead, ra mắt ngày <a href="../_/21_March.md" title="21 March">21 tháng 3</a> năm <a href="../_/2011.md" title="2011">2011</a>.
 </p>
 </td></tr>
 <tr>
 <td style="font-size:18px;"><i><a href="The_Lord_of_the_Rings_Online%253A_Rise_of_Isengard.md" title="The Lord of the Rings Online: Rise of Isengard">Rise of Isengard</a></i></td>
 <td>27 September 2011</td>
-<td>Bản mở rộng đã được cung cấp dưới dạng bản tải xuống kỹ thuật số.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>. Ban đầu nó bao gồm Tập III Quyển IV - Sự trỗi dậy của Isengard, và thông qua các bản cập nhật sẽ đến Quyển VI - Sương mù của Anduin và có bản cập nhật cuối cùng vào <a href="../_/14_May.md" title="14 May">14 tháng 5</a>, <a href="../_/2012.md" title="2012">2012</a>.
+<td>Bản mở rộng được phát hành dưới dạng bản tải xuống kỹ thuật số.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>. Ban đầu, bản mở rộng bao gồm Tập III, Quyển IV - Rise of Isengard; qua các bản cập nhật, nội dung được mở rộng đến Quyển VI - Mists of Anduin và nhận bản cập nhật cuối cùng vào ngày <a href="../_/14_May.md" title="14 May">14 tháng 5</a> năm <a href="../_/2012.md" title="2012">2012</a>.
 </td></tr>
 <tr>
 <td style="font-size:18px;"><i><a href="The_Lord_of_the_Rings_Online%253A_Riders_of_Rohan.md" title="The Lord of the Rings Online: Riders of Rohan">Kỵ binh Rohan</a></i></td>
 <td>15 October 2012</td>
-<td>Bản mở rộng thứ tư,<sup id="cite_ref-Turbine_5-0" class="reference"><a href="#cite_note-Turbine-5">[5]</a></sup> sẽ tiếp tục Câu chuyện sử thi với Sách VI- Mists of the Anduin, Quyển VII - A Fellowship Endangered, Quyển VIII - Into the Riddermark, Quyển IX - The Kỷ Đệ Tam Marshal và Quyển X - Snows of Wildermore.
+<td>Bản mở rộng thứ tư,<sup id="cite_ref-Turbine_5-0" class="reference"><a href="#cite_note-Turbine-5">[5]</a></sup>, tiếp tục mạch truyện sử thi với Quyển VI - Mists of the Anduin, Quyển VII - A Fellowship Endangered, Quyển VIII - Into the Riddermark, Quyển IX - The Third Marshal và Quyển X - Snows of Wildermore.
 </td></tr>
 <tr>
 <td style="font-size:18px;"><i><a href="The_Lord_of_the_Rings_Online%253A_Helm&#39;s_Deep.md" title="The Lord of the Rings Online: Helm&#39;s Deep">Helm&#39;s Deep</a></i></td>
 <td>20 November 2013</td>
 <td>Bản mở rộng thứ năm cho <i>The Lord of the Rings Online</i><sup id="cite_ref-TenTonHammer_6-0" class="reference"><a href="#cite_note-TenTonHammer-6">[6]</a></sup>. Sau bản mở rộng Helm&#39;s Deep, Turbine đã ngừng phát hành các bản mở rộng trả phí hàng năm trong ba năm để chuyển sang cập nhật hàng quý với nội dung miễn phí cho VIP.<sup id="cite_ref-Looking_Ahead_to_2014_7-0" class="reference"><a href="#cite_note-Looking_Ahead_to_2014-7">[7]</a></sup>
-<p>Trong khoảng thời gian ba năm này, tám bản cập nhật lớn đã giới thiệu nhiều lĩnh vực mới cũng như kết thúc Tập III của Câu chuyện sử thi với Quyển XIV - The Waters of Isengard. Tập mới, Tập IV - Sức mạnh của Sauron đã được giới thiệu và nhận được nội dung xuyên suốt Quyển VIII - Trận chiến Cổng Đen.
+<p>Trong khoảng thời gian ba năm này, tám bản cập nhật lớn đã bổ sung nhiều khu vực mới, đồng thời khép lại Tập III của Cốt truyện sử thi bằng Quyển XIV - The Waters of Isengard. Một tập mới, Tập IV - The Strength of Sauron, cũng được giới thiệu và tiếp tục được bổ sung nội dung cho đến Quyển VIII - Battle of the Black Gate.
 </p>
 </td></tr>
 <tr>
 <td style="font-size:18px;"><i><a href="The_Lord_of_the_Rings_Online%253A_Mordor.md" title="The Lord of the Rings Online: Mordor">Mordor</a></i></td>
 <td>2 August 2017</td>
-<td><i>Mordor</i> là bản mở rộng thứ sáu và là bản cập nhật thứ 21. Nó đánh dấu sự trở lại của các bản mở rộng trả phí thường xuyên sau ba năm cập nhật hàng quý. Nó bao gồm phần kết của Câu chuyện sử thi với Tập IV, Quyển IX - Chiếc nhẫn quyền lực. Điều này dường như đánh dấu sự kết thúc của phần Câu chuyện sử thi lần đầu tiên bắt đầu với việc phát hành trò chơi lần đầu tiên vào mười năm trước vào năm 2007, cũng như kết luận (chung) về việc chuyển thể câu chuyện từ The Lord of the Rings.
-<p>Bản mở rộng cũng giới thiệu một Arc Câu chuyện sử thi hoàn toàn mới: Cuốn sách đen của Mordor, phá vỡ truyền thống của Phần câu chuyện sử thi đầu tiên và ngừng phân đoạn Câu chuyện sử thi thành "Tập" và "Sách" mà chỉ chia từng phân đoạn câu chuyện thành "Chương". Bản mở rộng ban đầu bao gồm bốn chương và sẽ có thêm sáu chương nữa với các bản cập nhật bổ sung. Bản cập nhật cuối cùng của nó là Bản cập nhật 24, được phát hành vào <a href="../_/4_June.md" title="4 June">ngày 4 tháng 6</a>, <a href="../_/2019.md" title="2019">2019</a>.
+<td><i>Mordor</i> là bản mở rộng thứ sáu và là bản cập nhật thứ 21. Bản mở rộng này đánh dấu sự trở lại của việc phát hành đều đặn các bản mở rộng trả phí sau ba năm chỉ có các bản cập nhật hằng quý. Nội dung bao gồm phần kết của mạch truyện sử thi trong Tập IV, Quyển IX - The Ring of Power. Điều này dường như đánh dấu sự kết thúc của mạch truyện sử thi, vốn bắt đầu khi trò chơi ra mắt lần đầu vào năm 2007, mười năm trước đó, đồng thời cũng đánh dấu phần kết (về cơ bản) của quá trình chuyển thể câu chuyện trong The Lord of the Rings.
+<p>Bản mở rộng cũng giới thiệu một mạch truyện sử thi hoàn toàn mới: The Black Book of Mordor, đi ngược lại thông lệ của mạch truyện sử thi đầu tiên khi không còn chia Cốt truyện sử thi thành các "Tập" và "Quyển", mà chuyển sang chia mỗi phần truyện thành các "Chương". Ban đầu, bản mở rộng có bốn chương, sau đó được bổ sung thêm sáu chương qua các bản cập nhật tiếp theo. Bản cập nhật cuối cùng của bản mở rộng là Bản cập nhật 24, phát hành vào <a href="../_/4_June.md" title="4 June">ngày 4 tháng 6</a>, <a href="../_/2019.md" title="2019">2019</a>.
 </p>
 </td></tr>
 <tr>
 <td style="font-size:18px;"><i><a href="The_Lord_of_the_Rings_Online%253A_Minas_Morgul.md" title="The Lord of the Rings Online: Minas Morgul">Minas Morgul</a></i></td>
 <td>5 November 2019</td>
-<td><i>Minas Morgul</i> là bản mở rộng thứ bảy và là bản cập nhật thứ 25. Nó sẽ kết thúc phần Câu chuyện sử thi Cuốn sách đen của Mordor và bắt đầu một phần sử thi mới: Di ​​sản của Durin và Những thử thách của Người Lùn. Nó cũng sẽ thêm một Tập mới vào Câu chuyện sử thi gốc: Tập V - Hòa bình của Trung Địa, cho phép người chơi có mặt trong đám cưới giữa Aragorn và Arwen, được bao gồm trong bản cập nhật cuối cùng của bản mở rộng, Bản cập nhật 27, phát hành vào <a href="../_/30_June.md" title="30 June">30 tháng 6</a>, <a href="../_/2020.md" title="2020">2020</a>.
+<td><i>Minas Morgul</i> là bản mở rộng thứ bảy và là bản cập nhật thứ 25. Bản mở rộng này sẽ khép lại mạch truyện sử thi The Black Book of Mordor và mở đầu một mạch truyện sử thi mới: The Legacy of Durin and the Trials of the Dwarves. Bản mở rộng cũng bổ sung một tập mới vào mạch truyện sử thi gốc: Tập V - The Peace of Middle-earth, cho phép người chơi tham dự lễ cưới của Aragorn và Arwen. Nội dung này nằm trong bản cập nhật cuối cùng của bản mở rộng, Bản cập nhật 27, phát hành vào <a href="../_/30_June.md" title="30 June">ngày 30 tháng 6</a>, <a href="../_/2020.md" title="2020">2020</a>.
 </td></tr>
 <tr>
 <td style="font-size:18px;"><i><a href="The_Lord_of_the_Rings_Online%253A_War_of_Three_Peaks.md" title="The Lord of the Rings Online: War of Three Peaks">War of Three Peaks</a></i></td>
 <td>20 October 2020</td>
-<td><i>War of Three Peaks</i> là bản mở rộng thứ tám, (mặc dù được các nhà phát triển gọi là "bản mở rộng nhỏ"). Trong số các tính năng khác, nó bao gồm các bổ sung cho Di sản của Durin và Thử thách của câu chuyện sử thi Người Lùn. Bản cập nhật cuối cùng của bản mở rộng, Bản cập nhật 30.3 được phát hành vào <a href="../_/13_October.md" title="13 October">13 tháng 10</a>, <a href="../_/2021.md" title="2021">2021</a>.
+<td><i>War of Three Peaks</i> là bản mở rộng thứ tám (dù các nhà phát triển gọi đây là "bản mở rộng nhỏ"). Trong số những nội dung khác, bản mở rộng bổ sung nội dung cho mạch truyện sử thi The Legacy of Durin and the Trials of the Dwarves. Bản cập nhật cuối cùng của bản mở rộng là Bản cập nhật 30.3, phát hành vào <a href="../_/13_October.md" title="13 October">ngày 13 tháng 10</a>, <a href="../_/2021.md" title="2021">2021</a>.
 </td></tr>
 <tr>
 <td style="font-size:18px;"><i><a href="The_Lord_of_the_Rings_Online%253A_Fate_of_Gundabad.md" title="The Lord of the Rings Online: Fate of Gundabad">Fate of Gundabad</a></i></td>
 <td>10 November 2021</td>
-<td><i>Fate of Gundabad</i>, bản mở rộng thứ chín và bản cập nhật thứ 31. Nó kết thúc phần "Di sản của Durin và những thử thách của Người Lùn" Câu chuyện sử thi với bảy Chương còn lại. Bản cập nhật cuối cùng, Cập nhật 33 (The Yondershire) đã được phát hành. <a href="../_/20_April.md" title="20 April">20 tháng 4</a>, <a href="../_/2022.md" title="2022">2022</a>
+<td><i>Fate of Gundabad</i> là bản mở rộng thứ chín và là bản cập nhật thứ 31. Bản mở rộng này khép lại mạch truyện sử thi The Legacy of Durin and the Trials of the Dwarves với bảy chương còn lại. Bản cập nhật cuối cùng là Bản cập nhật 33 (The Yondershire), phát hành ngày <a href="../_/20_April.md" title="20 April">20 tháng 4</a>, <a href="../_/2022.md" title="2022">2022</a>.
 </td></tr>
 <tr>
 <td style="font-size:18px;"><i><a href="The_Lord_of_the_Rings_Online%253A_Before_the_Shadow.md" title="The Lord of the Rings Online: Before the Shadow">Before the Shadow</a></i></td>
 <td>15 November 2022</td>
-<td><i>Before the Shadow</i>, bản cập nhật thứ ba mươi tư, là bản mở rộng thứ mười và là một "bản mở rộng nhỏ" khác. Nó mở ra một phần Câu chuyện sử thi mới: "Bài hát của sóng và gió". Bản cập nhật 37 (The Humble Homes of The Holbytlan) sẽ là bản cập nhật cuối cùng, được phát hành vào <a href="../_/29_August.md" title="29 August">29 tháng 8</a>, <a href="../_/2023.md" title="2023">2023</a>.
+<td><i>Before the Shadow</i>, bản cập nhật thứ 34, là bản mở rộng thứ mười và cũng là một "bản mở rộng nhỏ" khác. Bản mở rộng này mở đầu mạch truyện sử thi mới: "The Song of Waves and Wind". Bản cập nhật 37 (The Humble Homes of The Holbytlan) là bản cập nhật cuối cùng, phát hành vào <a href="../_/29_August.md" title="29 August">ngày 29 tháng 8</a>, <a href="../_/2023.md" title="2023">2023</a>.
 </td></tr>
 <tr>
 <td style="font-size:18px;"><i><a href="The_Lord_of_the_Rings_Online%253A_Corsairs_of_Umbar.md" title="The Lord of the Rings Online: Corsairs of Umbar">Hải tặc Umbar</a></i></td>
 <td>8 November 2023</td>
-<td><i>Corsairs of Umbar</i>, bản cập nhật thứ ba mươi tám, là bản mở rộng thứ mười một. Nó tiếp tục phần Câu chuyện sử thi "Bài hát của sóng và gió". Bản cập nhật gần đây nhất của nó là Bản cập nhật 41 (On the Wing), được phát hành <a href="../_/31_July.md" title="31 July">31 tháng 7</a>, <a href="../_/2024.md" title="2024">2024</a>.
+<td><i>Corsairs of Umbar</i>, bản cập nhật thứ 38, đồng thời là bản mở rộng thứ mười một. Bản mở rộng này tiếp tục mạch truyện sử thi "The Song of Waves and Wind". Bản cập nhật cuối cùng của bản mở rộng là Bản cập nhật 41 (On the Wing), phát hành vào <a href="../_/31_July.md" title="31 July">ngày 31 tháng 7</a>, <a href="../_/2024.md" title="2024">2024</a>.
 </td></tr>
 <tr>
 <td style="font-size:18px;"><i><a href="The_Lord_of_the_Rings_Online%253A_Legacy_of_Morgoth.md" title="The Lord of the Rings Online: Legacy of Morgoth">Legacy of Morgoth</a></i></td>
 <td>6 November 2024</td>
-<td><i>Legacy of Morgoth</i>, bản cập nhật thứ 40 giây, là bản mở rộng thứ mười hai. Nó đã thêm các Chương 10-13 của phần Câu chuyện sử thi: "Bài hát của sóng và gió".
+<td><i>Legacy of Morgoth</i>, bản cập nhật thứ 42, là bản mở rộng thứ mười hai. Bản mở rộng này bổ sung các Chương 10-13 của mạch truyện sử thi: "The Song of Waves and Wind".
 </td></tr>
 <tr>
 <td style="font-size:18px;"><i><a href="The_Lord_of_the_Rings_Online%253A_Kingdoms_of_Harad.md" title="The Lord of the Rings Online: Kingdoms of Harad">Kingdoms of Harad</a></i></td>
