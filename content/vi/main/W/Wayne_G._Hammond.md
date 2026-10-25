@@ -32,9 +32,9 @@ langlinks:
     url: "https://kontu.wiki/Wayne_G._Hammond"
 ---
 
-**Wayne Gordon Hammond** (sinh [11 tháng 2](../_/11_February.md), [1953](../_/1953.md)) là một thủ thư nổi tiếng với những nghiên cứu và bài viết về các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Ông có bằng Cử nhân Nghệ thuật loại xuất sắc chuyên ngành tiếng Anh tại <a class="extiw" href="http://en.wikipedia.org/wiki/Baldwin%E2%80%93Wallace_College" title="wikipedia:Baldwin–Wallace College">Baldwin-Wallace College</a> năm 1975 và Thạc sĩ Nghệ thuật về Khoa học Thư viện tại <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Michigan" title="wikipedia:University of Michigan">Đại học Michigan</a> năm 1976.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Từ năm 1976 trở đi, ông làm Trợ lý Thủ thư tại Thư viện Sách Quý Chapin tại <a class="extiw" href="http://en.wikipedia.org/wiki/Williams_College" title="wikipedia:Williams College">Đại học Williams</a> và trở thành giám đốc của nó vào năm 2015. Hammond nghỉ hưu vào năm 2022.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Wayne Gordon Hammond** (sinh [11 tháng 2](../_/11_February.md), [1953](../_/1953.md)) là một thủ thư được biết đến qua các công trình nghiên cứu và bài viết về những tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Ông tốt nghiệp Cử nhân Nghệ thuật loại xuất sắc, chuyên ngành tiếng Anh, tại <a class="extiw" href="http://en.wikipedia.org/wiki/Baldwin%E2%80%93Wallace_College" title="wikipedia:Baldwin–Wallace College">Baldwin-Wallace College</a> năm 1975 và nhận bằng Thạc sĩ Nghệ thuật ngành Khoa học Thư viện tại <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Michigan" title="wikipedia:University of Michigan">University of Michigan</a> năm 1976.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Từ năm 1976, ông làm Trợ lý Thủ thư tại Thư viện Sách quý Chapin thuộc <a class="extiw" href="http://en.wikipedia.org/wiki/Williams_College" title="wikipedia:Williams College">Williams College</a> và được bổ nhiệm làm giám đốc thư viện vào năm 2015. Hammond nghỉ hưu năm 2022.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Năm 1994, Hammond kết hôn với học giả Tolkien [Christina Scull](../C/Christina_Scull.md) và từ đó cả hai đã cộng tác trong một số dự án. Ông là người đóng góp thường xuyên cho các ấn phẩm của [Hiệp hội thần thoại](../M/Mythopoeic_Society.md).
+Năm 1994, Hammond kết hôn với học giả Tolkien [Christina Scull](../C/Christina_Scull.md). Kể từ đó, hai người đã cùng thực hiện một số dự án. Ông thường xuyên cộng tác với các ấn phẩm của [Mythopoeic Society](../M/Mythopoeic_Society.md).
 
 ## Thư mục, đã chọn {#Bibliography,_selected}
 
@@ -43,15 +43,15 @@ Năm 1994, Hammond kết hôn với học giả Tolkien [Christina Scull](../C/C
 - [1992](../_/1992.md): *[Tolkien Centenary Conference 1992](../T/Tolkien_Centenary_Conference_1992.md)* (biên tập viên)
 - [1993](../_/1993.md): *[J.R.R. Tolkien: A Descriptive Bibliography](../J/J.R.R._Tolkien%253A_A_Descriptive_Bibliography.md)* (với [Douglas A. Anderson](../D/Douglas_Anderson.md))
 - [1995](../_/1995.md): *[J.R.R. Tolkien: Artist and Illustrator](../J/J.R.R._Tolkien%253A_Artist_and_Illustrator.md)* (với Christina Scull)
-- [1998](../_/1998.md): *[Roverandom](../R/Roverandom.md)* (được chỉnh sửa bằng Christina Scull)
-- [1999](../_/1999.md): <i><a href="../F/Farmer_Giles_of_Ham.md#50th_Anniversary_Edition" title="Farmer Giles of Ham"><i>Farmer Giles of Ham</i> (Phiên bản kỷ niệm 50 năm)</a></i> - (được chỉnh sửa bằng Christina Scull)
+- [1998](../_/1998.md): *[Roverandom](../R/Roverandom.md)* (biên tập cùng Christina Scull)
+- [1999](../_/1999.md): <i><a href="../F/Farmer_Giles_of_Ham.md#50th_Anniversary_Edition" title="Farmer Giles of Ham"><i>Farmer Giles of Ham</i> (Ấn bản kỷ niệm 50 năm)</a></i> - (biên tập cùng Christina Scull)
 - [2005](../_/2005.md): *[The Lord of the Rings: A Reader's Companion](../T/The_Lord_of_the_Rings%253A_A_Reader's_Companion.md)* (với Christina Scull)
-- [2006](../_/2006.md): *[The Lord of the Rings 1954-2004: Scholarship in Honor of Richard E. Blackwelder](../T/The_Lord_of_the_Rings_1954-2004.md)* (được chỉnh sửa bằng Christina Scull)
+- [2006](../_/2006.md): *[The Lord of the Rings 1954-2004: Scholarship in Honor of Richard E. Blackwelder](../T/The_Lord_of_the_Rings_1954-2004.md)* (biên tập cùng Christina Scull)
 - [2006](../_/2006.md): *[The J.R.R. Tolkien Companion and Guide](../T/The_J.R.R._Tolkien_Companion_and_Guide.md)* (với Christina Scull)
 - [2011](../_/2011.md): *[The Art of The Hobbit](../T/The_Art_of_The_Hobbit.md)* (với Christina Scull)
-- [2014](../_/2014.md): <a href="../T/The_Adventures_of_Tom_Bombadil.md#Expanded_edition" title="The Adventures of Tom Bombadil"><i>The Adventures of Tom Bombadil và các câu khác từ Sách Đỏ</i> (phiên bản mở rộng)<i></i></a> (với Christina Scull)
+- [2014](../_/2014.md): <a href="../T/The_Adventures_of_Tom_Bombadil.md#Expanded_edition" title="The Adventures of Tom Bombadil"><i>The Adventures of Tom Bombadil and Other Verses from the Red Book</i> (ấn bản mở rộng)<i></i></a> (với Christina Scull)
 - [2015](../_/2015.md): *[The Art of The Lord of the Rings by J.R.R. Tolkien](../T/The_Art_of_The_Lord_of_the_Rings.md)* (với Christina Scull)
-- [2024](../_/2024.md): *[The Collected Poems of J.R.R. Tolkien](../T/The_Collected_Poems_of_J.R.R._Tolkien.md)* (được chỉnh sửa bằng Christina Scull)
+- [2024](../_/2024.md): *[The Collected Poems of J.R.R. Tolkien](../T/The_Collected_Poems_of_J.R.R._Tolkien.md)* (biên tập cùng Christina Scull)
 
 ### Bài viết {#Articles}
 
@@ -86,15 +86,15 @@ Nghệ thuật thị giác của     - "Tolkien" (với [Christina Scull](../C/C
 
 ## Giải thưởng {#Awards}
 
-- [1994](../_/1994.md): **[Giải thưởng Học thuật Mythopoeic cho Nghiên cứu về nhóm Inklings](../M/Mythopoeic_Society.md)**, [J.R.R. Tolkien: A Descriptive Bibliography](../J/J.R.R._Tolkien%253A_A_Descriptive_Bibliography.md) (với sự hỗ trợ của [Douglas A. Anderson](../D/Douglas_A._Anderson.md))
+- [1994](../_/1994.md): **[Giải thưởng Học thuật Mythopoeic cho Nghiên cứu về nhóm Inklings](../M/Mythopoeic_Society.md)**, [J.R.R. Tolkien: A Descriptive Bibliography](../J/J.R.R._Tolkien%253A_A_Descriptive_Bibliography.md) (với sự trợ giúp của [Douglas A. Anderson](../D/Douglas_A._Anderson.md))
 - [1996](../_/1996.md): **[Giải thưởng Học thuật Mythopoeic cho Nghiên cứu về nhóm Inklings](../M/Mythopoeic_Society.md)**, [J.R.R. Tolkien: Artist and Illustrator](../J/J.R.R._Tolkien%253A_Artist_and_Illustrator.md) (với [Christina Scull](../C/Christina_Scull.md))
 - [2000](../_/2000.md): **[Giải thưởng Học thuật Mythopoeic cho Nghiên cứu về nhóm Inklings](../M/Mythopoeic_Society.md)**, [Roverandom](../R/Roverandom.md) (đồng biên tập với [Christina Scull](../C/Christina_Scull.md))
 - [2006](../_/2006.md): **[Giải thưởng Học thuật Mythopoeic cho Nghiên cứu về nhóm Inklings](../M/Mythopoeic_Society.md)**, [The Lord of the Rings: A Reader's Companion](../T/The_Lord_of_the_Rings%253A_A_Reader's_Companion.md) (với [Christina Scull](../C/Christina_Scull.md))
 - [2007](../_/2007.md): **[Giải thưởng Học thuật Mythopoeic cho Nghiên cứu về nhóm Inklings](../M/Mythopoeic_Society.md)**, [The J.R.R. Tolkien Companion and Guide](../T/The_J.R.R._Tolkien_Companion_and_Guide.md) (với [Christina Scull](../C/Christina_Scull.md))
-- [2016](../_/2016.md): **[Giải thưởng của Hội Tolkien](../T/Tolkien_Society_Awards.md): Sách hay nhất**, [Nghệ thuật của The Lord of the Rings](../T/The_Art_of_The_Lord_of_the_Rings.md) (với [Christina Scull](../C/Christina_Scull.md))
-- [2018](../_/2018.md): **[Giải thưởng của Hội Tolkien](../T/Tolkien_Society_Awards.md): Nội dung trực tuyến hay nhất**, *Too Many Books and Never Enough* (cùng với [Christina Scull](../C/Christina_Scull.md))
+- [2016](../_/2016.md): **[Giải thưởng của Hội Tolkien](../T/Tolkien_Society_Awards.md): Sách xuất sắc nhất**, [The Art of The Lord of the Rings](../T/The_Art_of_The_Lord_of_the_Rings.md) (với [Christina Scull](../C/Christina_Scull.md))
+- [2018](../_/2018.md): **[Giải thưởng của Hội Tolkien](../T/Tolkien_Society_Awards.md): Nội dung trực tuyến xuất sắc nhất**, *Too Many Books and Never Enough* (cùng với [Christina Scull](../C/Christina_Scull.md))
 - [2020](../_/2020.md): **[Giải thưởng của Hội Tolkien](../T/Tolkien_Society_Awards.md): Đóng góp nổi bật** (cùng với [Christina Scull](../C/Christina_Scull.md))
-- [2025](../_/2025.md): **[Giải thưởng của Hội Tolkien](../T/Tolkien_Society_Awards.md): Sách hay nhất**, [Những bài thơ sưu tầm của J.R.R. Tolkien](../T/The_Collected_Poems_of_J.R.R._Tolkien.md) (có [Christina Scull](../C/Christina_Scull.md))
+- [2025](../_/2025.md): **[Giải thưởng của Hội Tolkien](../T/Tolkien_Society_Awards.md): Sách xuất sắc nhất**, [The Collected Poems of J.R.R. Tolkien](../T/The_Collected_Poems_of_J.R.R._Tolkien.md) (với [Christina Scull](../C/Christina_Scull.md))
 
 <br>
 
