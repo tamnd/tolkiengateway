@@ -418,7 +418,7 @@ Tên thật của Vua Phù thủy không bao giờ được tiết lộ, và do 
 
 <dl><dd>Vua Phù thủy là một nhân vật không thể điều khiển, xuất hiện trong một số cảnh. Lần xuất hiện đáng nhớ nhất của hắn diễn ra tại Great Barrow, thuộc Barrow-Downs. Ngoài ra, nhân vật này còn được nhắc đến nhiều lần trong lời thoại của các nhiệm vụ; đáng chú ý nhất là việc Vua Phù thủy, vì một lý do nào đó, không thể trở về cai trị <a class="mw-redirect" href="../C/Carn_Dum.md" title="Carn Dum">Carn Dum</a>, nên đã dựng lên một Steward tên là <a class="mw-redirect" href="../M/Mordirith.md" title="Mordirith">Mordirith</a> để cai trị thay mình, nhằm chế nhạo các Quan Chấp chính của Gondor.</dd></dl>
 
-<b><a href="../_/2009.md" title="2009">2009</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_Conquest.md" title="The Lord of the Rings: Conquest">The Lord of the Rings: Chinh phục</a></i>:</b>
+<b><a href="../_/2009.md" title="2009">2009</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_Conquest.md" title="The Lord of the Rings: Conquest">The Lord of the Rings: Conquest</a></i>:</b>
 
 <dl><dd>Trong chiến dịch dành cho phe "Ác", Vua Phù thủy được những Nazgûl khác hồi sinh ngay trước khi Sauron lấy lại Nhẫn Chúa.</dd></dl>
 

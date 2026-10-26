@@ -64,7 +64,7 @@ infobox:
     - Bởi: Annie Haward
 - Tolkien và Văn học giả tưởng thoát ly
     - Bởi: P.J. Webster
-- Quảng cáo: Những bàn tay khác
+- Quảng cáo: Other Hands
 - Các loại của Annie
     - Bởi: Annie Haward
 - Toán học

@@ -207,7 +207,7 @@ Noldor được gọi là "**Tiên tộc Thâm tri**", một cách dịch phỏn
 
 ## Các phiên bản khác của Legendarium {#Other_versions_of_the_legendarium}
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../G/Gnomes.md" title="Gnomes">Gnomes</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="../G/Gnomes.md" title="Gnomes">Gnomes</a></b></div></div>
 
 Trong các phiên bản đầu tiên của [Legendarium](../L/Legendarium.md) của Tolkien, Noldor được gọi là '**Noldoli**' hoặc '**[Gnomes](../G/Gnomes.md)**'. Họ vẫn được gọi là *Gnomes* trong các ấn bản đầu tiên của *[The Hobbit](../T/The_Hobbit.md)*. Họ cũng là những người sử dụng ngôn ngữ về sau phát triển thành [Sindarin](../S/Sindarin.md) (khi ấy được gọi là *Gnomish* hoặc *Noldorin*).
 

@@ -42,7 +42,7 @@ Vào mùa xuân năm [495](First_Age_495.md) thuộc [Kỷ Đệ Nhất](First_A
 
 ### Lời mở đầu {#Prelude}
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../B/Battle_of_Tumhalad.md" title="Battle of Tumhalad">Trận Tumhalad</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="../B/Battle_of_Tumhalad.md" title="Battle of Tumhalad">Trận Tumhalad</a></b></div></div>
 
 Sau khi nghe tin về cuộc tập hợp đông đảo quân Orc dưới bóng [Ered Wethrin](../E/Ered_Wethrin.md), Túrin khuyên Orodreth nghênh chiến với chúng trên chiến trường rộng mở. Quân đội Nargothrond tiến ra nghênh chiến nhưng bị đẩy lùi về cánh đồng [Tumhalad](../T/Tumhalad.md) và thất bại hoàn toàn; Orodreth cũng tử trận tại đó. Đạo quân Orc do [Glaurung](../G/Glaurung.md) chỉ huy sau đó tiến về pháo đài bí mật.
 

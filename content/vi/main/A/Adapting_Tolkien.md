@@ -53,7 +53,7 @@ infobox:
 ## Từ Nhà xuất bản {#From_the_Publisher}
 
 <blockquote class="tg-quote noexcerpt">
-<p>Tập kỷ yếu này bao gồm các bài viết từ hội thảo lớn nhất của Hiệp hội Tolkien gần như đánh dấu việc hội thảo chuyển sang một sự kiện trực tuyến miễn phí. Hội thảo năm 2020 tìm cách khám phá di sản của J.R.R. Tolkien một phần phụ thuộc vào việc tiếp tục chuyển thể các tác phẩm, nhân vật và ngôn ngữ của ông như thế nào. Nó cung cấp những hiểu biết sâu sắc về một loạt các tác phẩm chuyển thể mang tính nghệ thuật và đánh giá kết quả hữu hình đã mở rộng cơ sở người hâm mộ Tolkien và lượng độc giả như thế nào trong khi nuôi dưỡng tình yêu và sự đánh giá cao Tolkien thông qua tầm nhìn sáng tạo của tác giả chuyển thể. Nó xem xét sâu hơn về cách thức mà các sáng tạo của Tolkien đã được đan xen vào cơ cấu của thế giới chính của chúng ta.
+<p>Tập kỷ yếu này bao gồm các bài viết từ hội thảo lớn nhất của Hội Tolkien gần như đánh dấu việc hội thảo chuyển sang một sự kiện trực tuyến miễn phí. Hội thảo năm 2020 tìm cách khám phá di sản của J.R.R. Tolkien một phần phụ thuộc vào việc tiếp tục chuyển thể các tác phẩm, nhân vật và ngôn ngữ của ông như thế nào. Nó cung cấp những hiểu biết sâu sắc về một loạt các tác phẩm chuyển thể mang tính nghệ thuật và đánh giá kết quả hữu hình đã mở rộng cơ sở người hâm mộ Tolkien và lượng độc giả như thế nào trong khi nuôi dưỡng tình yêu và sự đánh giá cao Tolkien thông qua tầm nhìn sáng tạo của tác giả chuyển thể. Nó xem xét sâu hơn về cách thức mà các sáng tạo của Tolkien đã được đan xen vào cơ cấu của thế giới chính của chúng ta.
 </p>
 </blockquote>
 

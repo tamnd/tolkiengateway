@@ -21,7 +21,7 @@ sort_keys:
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 - [Bilbo Baggins](../B/Bilbo_Baggins.md) và [Gandalf](../G/Gandalf.md) vượt qua [Yule-tide](../Y/Yuledays.md) tại Sảnh của [Beorn](../B/Beorn's_Halls.md), sau đó tiếp tục hành trình.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
-- Bilbo quay trở lại [ Shire](The_Shire.md) với [Chiếc Nhẫn Một](The_One_Ring.md).<sup id="cite_ref-TA_2-0" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
+- Bilbo quay trở lại [ Shire](The_Shire.md) với [Nhẫn Chúa](The_One_Ring.md).<sup id="cite_ref-TA_2-0" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
 - [Sauron](../S/Sauron.md) bí mật trở về [Mordor](../M/Mordor.md).<sup id="cite_ref-TA_2-1" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
 - Sự ra đời của [Merimac Brandybuck](../M/Merimac_Brandybuck.md), con trai út của [Rorimac Brandybuck](../R/Rorimac_Brandybuck.md) và [Menegilda Goold](../M/Menegilda_Goold.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 - Sự ra đời của [Filibert Bolger](../F/Filibert_Bolger.md), con trai của [Adalbert Bolger](../A/Adalbert_Bolger.md) và [Gerda Boffin](../G/Gerda_Boffin.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>

@@ -20,9 +20,9 @@ images:
 
 <figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/Logo_STB_Wiki.png.md"><img src="https://tolkiengateway.net/w/images/1/16/Logo_STB_Wiki.png" decoding="async" loading="lazy" width="212" height="174" class="mw-file-element" data-file-width="212" data-file-height="174"/></a><figcaption>Logo STB</figcaption></figure>
 
-**Sociedade de Tolkien Brasileira** (tiếng Brazil: **Hiệp hội Tolkien Brazil**), viết tắt STB hoặc BTS, là một hiệp hội Tolkien ở Brazil. Nó được thành lập vào ngày [1999](../_/1999.md) bởi Daniel Cossi.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Sociedade de Tolkien Brasileira** (tiếng Brazil: **Hội Tolkien Brazil**), viết tắt STB hoặc BTS, là một hiệp hội Tolkien ở Brazil. Nó được thành lập vào ngày [1999](../_/1999.md) bởi Daniel Cossi.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Daniel Cossi vào năm 2001 "Sáp nhập Hiệp hội vào công ty mà ông là đối tác, đầu tư 275.000 USD" . Kể từ đó, Hiệp hội Tolkien Brazil đóng vai trò là nhà tư vấn cho các sản phẩm liên quan đến phim Peter Jackson.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Daniel Cossi vào năm 2001 "Sáp nhập Hiệp hội vào công ty mà ông là đối tác, đầu tư 275.000 USD" . Kể từ đó, Hội Tolkien Brazil đóng vai trò là nhà tư vấn cho các sản phẩm liên quan đến phim Peter Jackson.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Xem thêm {#See_also}
 

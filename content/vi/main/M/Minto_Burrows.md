@@ -39,7 +39,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Minto là hậu duệ của [Bậc thầy của Buckland](Master_of_Buckland.md), người có thể truy tìm tổ tiên của mình là [Gorbadoc Brandybuck](../G/Gorbadoc_Brandybuck.md). Anh là con út trong bốn người con của [Milo Burrows](Milo_Burrows.md) và [Peony Baggins](../P/Peony_Baggins.md), và khi lên 5 tuổi, anh đã tham dự [Bữa tiệc sinh nhật](../B/Bilbo's_Farewell_Party.md) nổi tiếng của Bilbo cùng với những người còn lại trong gia đình.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Minto là hậu duệ của [Chủ nhân Buckland](Master_of_Buckland.md), người có thể truy tìm tổ tiên của mình là [Gorbadoc Brandybuck](../G/Gorbadoc_Brandybuck.md). Anh là con út trong bốn người con của [Milo Burrows](Milo_Burrows.md) và [Peony Baggins](../P/Peony_Baggins.md), và khi lên 5 tuổi, anh đã tham dự [Bữa tiệc sinh nhật](../B/Bilbo's_Farewell_Party.md) nổi tiếng của Bilbo cùng với những người còn lại trong gia đình.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 

@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Ilberic Brandybuck](../../main/I/Ilberic_Brandybuck.md) của Kent Burles. Hình ảnh nội thất của Phil Kime, Chris Kennedy, *[Palantír Quest](../../main/P/Palantír_Quest.md)* ([Vương miện Sắt Enterprises](../../main/I/Iron_Crown_Enterprises.md) #2009, 1994) .
+[Ilberic Brandybuck](../../main/I/Ilberic_Brandybuck.md) của Kent Burles. Hình ảnh nội thất của Phil Kime, Chris Kennedy, *[Palantír Quest](../../main/P/Palantír_Quest.md)* ([Iron Crown Enterprises](../../main/I/Iron_Crown_Enterprises.md) #2009, 1994) .
 
 ## Giấy phép {#Licensing}
 

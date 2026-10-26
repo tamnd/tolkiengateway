@@ -72,7 +72,7 @@ Mối quan hệ chính duy nhất của nó với [Trung Địa](../M/Middle-ear
 - *[Leaf by Niggle](../L/Leaf_by_Niggle.md)*
 - *[Smith of Wootton Major](../S/Smith_of_Wootton_Major.md)*
 
-## Phiên bản mở rộng {#Expanded_edition}
+## Bản mở rộng {#Expanded_edition}
 
 Một ấn bản mở rộng đã được xuất bản trong tháng Chín [2008](../_/2008.md), tiếp theo là [diễn kịch toàn bộ](<Tales_from_the_Perilous_Realm_(1992_radio_series).md>) vào tháng 10. Trong ấn bản này có câu chuyện *[Roverandom](../R/Roverandom.md)*, tiểu luận *[On Fairy-Stories](../O/On_Fairy-Stories.md)*, cũng như phần giới thiệu và lời bạt. Nó được minh họa bởi [Alan Lee](../A/Alan_Lee.md).
 
@@ -133,7 +133,7 @@ Một ấn bản mở rộng đã được xuất bản trong tháng Chín [2008
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/P/Perilous_Realm_2008.jpg.md" title="2008 hardcover expanded edition"><img alt="2008 hardcover expanded edition" src="https://tolkiengateway.net/w/images/thumb/9/92/Perilous_Realm_2008.jpg/80px-Perilous_Realm_2008.jpg" decoding="async" loading="lazy" width="80" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/92/Perilous_Realm_2008.jpg/120px-Perilous_Realm_2008.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/9/92/Perilous_Realm_2008.jpg/160px-Perilous_Realm_2008.jpg 2x" data-file-width="723" data-file-height="1128"/></a></span></div>
 			<div class="gallerytext">
-<p>Phiên bản mở rộng bìa cứng 2008
+<p>Bản mở rộng bìa cứng 2008
 </p>
 			</div>
 		</li>

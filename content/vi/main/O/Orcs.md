@@ -111,7 +111,7 @@ Tiên tộc coi Orc là [sinh vật hữu thể](../I/Incarnate.md), cũng giố
 
 ### Kỷ Đệ Nhất {#First_Age}
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="Orcs%252FOrigin.md" title="Orcs/Origin">Orc/Xuất xứ</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="Orcs%252FOrigin.md" title="Orcs/Origin">Orc/Xuất xứ</a></b></div></div>
 
 <figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Anna_Kulisz_-_The_vilest_deed_of_Melkor.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/8/83/Anna_Kulisz_-_The_vilest_deed_of_Melkor.jpg/300px-Anna_Kulisz_-_The_vilest_deed_of_Melkor.jpg" decoding="async" loading="lazy" width="300" height="425" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/83/Anna_Kulisz_-_The_vilest_deed_of_Melkor.jpg/450px-Anna_Kulisz_-_The_vilest_deed_of_Melkor.jpg 1.5x, https://tolkiengateway.net/w/images/8/83/Anna_Kulisz_-_The_vilest_deed_of_Melkor.jpg 2x" data-file-width="551" data-file-height="780"/></a><figcaption><i>Hành động tàn ác nhất của Melkor</i> của <a href="../../category/I/Images_by_Anna_Kulisz.md" title="Category:Images by Anna Kulisz">Anna Kulisz</a></figcaption></figure>
 
@@ -290,7 +290,7 @@ Trong một văn bản ngôn ngữ học thời kỳ đầu, Tolkien dịch từ
 
 ## Các phiên bản khác của huyền sử {#Other_versions_of_the_legendarium}
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="Orcs%252FOrigin.md" title="Orcs/Origin">Orc/Xuất xứ</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="Orcs%252FOrigin.md" title="Orcs/Origin">Orc/Xuất xứ</a></b></div></div>
 
 <br>
 

@@ -143,7 +143,7 @@ Trong một cuộc phỏng vấn vào [1966](../_/1966.md), Tolkien đã ví Ber
 
 <b>: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Nhập vai Trung Địa</a></i>:</b>
 
-<dl><dd>Berúthiel được nhắc đến cùng với cái tên bị bỏ rơi của cô, Margoliantë Berúthiel, trong phần bổ sung MERP: Vương quốc của Bellakar từ số báo kép <a href="../O/Other_Hands_29%252F30.md" title="Other Hands 29/30">Những bàn tay khác 29/30</a>.</dd></dl>
+<dl><dd>Berúthiel được nhắc đến cùng với cái tên bị bỏ rơi của cô, Margoliantë Berúthiel, trong phần bổ sung MERP: Vương quốc của Bellakar từ số báo kép <a href="../O/Other_Hands_29%252F30.md" title="Other Hands 29/30">Other Hands 29/30</a>.</dd></dl>
 
 <dl><dd>Một trong những cái tên bị bỏ đi của Berúthiel xuất hiện dưới dạng tên của một <a class="new" href="https://tolkiengateway.net/w/index.php?title=Benish_Armon&amp;action=edit&amp;redlink=1" title="Benish Armon (page does not exist)">địa điểm và giáo phái</a> trong phần bổ sung MERP "The Cult of Benish Armon" của <a href="../O/Other_Hands_6%252F7.md" title="Other Hands 6/7">Other Hands 6/7</a>.</dd></dl>
 

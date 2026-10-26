@@ -26,7 +26,7 @@ file:
 
 ## Mô tả {#Description}
 
-"Người lùn Trục", của Artigas.
+"Người Lùn Trục", của Artigas.
 
 Trích từ ghi chú của tác giả: "Ở đây bạn thấy một bộ sưu tập rìu dùng một tay, hai chiếc đầu tiên thuộc loại rìu chiến và những chiếc còn lại là vũ khí phụ."
 

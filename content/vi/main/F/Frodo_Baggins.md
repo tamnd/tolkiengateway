@@ -505,7 +505,7 @@ Trong bản dịch tiếng Đức, ông được gọi là *Frodo Beutlin*; tron
 
 <b>2011: <i><a href="../T/The_Lord_of_the_Rings%253A_War_in_the_North.md" title="The Lord of the Rings: War in the North">The Lord of the Rings: War in the North</a></i>:</b>
 
-<dl><dd>Frodo được đề cập là <b>"Frodo Người Mang Nhẫn"</b>, một trong những anh hùng được vinh danh của <a href="../W/War_of_the_Ring.md" title="War of the Ring">Cuộc chiến Nhẫn</a>, trong phần giới thiệu trò chơi.<br/>Trong <a href="../T/The_Prancing_Pony.md" title="The Prancing Pony">The Prancing Pony</a> <a href="../A/Aragorn.md" title="Aragorn">Aragorn</a> kể rằng ông đang chờ đợi một <a href="../H/Hobbits.md" title="Hobbits">Hobbit</a> với <a href="../T/The_One_Ring.md" title="The One Ring">một gánh nặng quan trọng</a>, điều này đề cập đến Frodo và Chiếc Nhẫn Một.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[27]</a></sup></dd>
+<dl><dd>Frodo được đề cập là <b>"Frodo Người Mang Nhẫn"</b>, một trong những anh hùng được vinh danh của <a href="../W/War_of_the_Ring.md" title="War of the Ring">Cuộc chiến Nhẫn</a>, trong phần giới thiệu trò chơi.<br/>Trong <a href="../T/The_Prancing_Pony.md" title="The Prancing Pony">The Prancing Pony</a> <a href="../A/Aragorn.md" title="Aragorn">Aragorn</a> kể rằng ông đang chờ đợi một <a href="../H/Hobbits.md" title="Hobbits">Hobbit</a> với <a href="../T/The_One_Ring.md" title="The One Ring">một gánh nặng quan trọng</a>, điều này đề cập đến Frodo và Nhẫn Chúa.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[27]</a></sup></dd>
 <dd>Về sau trong trò chơi, Frodo xuất hiện tại <a href="../R/Rivendell.md" title="Rivendell">Rivendell</a>, nhưng những lần tương tác với cậu không ảnh hưởng đến cốt truyện chính.</dd></dl>
 
 ## Xem thêm {#See_also}

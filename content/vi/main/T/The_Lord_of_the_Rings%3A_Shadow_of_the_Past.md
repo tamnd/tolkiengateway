@@ -48,7 +48,7 @@ Không rõ chính xác bộ phim này sẽ bao gồm những gì. Colbert khẳn
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="https://x.com/warnerbros/status/2036654308557500560?s=20" rel="noreferrer noopener" target="_blank">Thông báo ban đầu</a> cho [Tolkien Ngày đọc sách](Tolkien_Reading_Day.md) [2026](../_/2026.md).
+- <a class="external text" href="https://x.com/warnerbros/status/2036654308557500560?s=20" rel="noreferrer noopener" target="_blank">Thông báo ban đầu</a> cho [Ngày đọc Tolkien sách](Tolkien_Reading_Day.md) [2026](../_/2026.md).
 
 <div class="mw-references-wrap"><ol class="references">
 <li id="cite_note-:0-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:0_1-0">1.0</a></sup> <sup><a href="#cite_ref-:0_1-1">1.1</a></sup> <sup><a href="#cite_ref-:0_1-2">1.2</a></sup> <sup><a href="#cite_ref-:0_1-3">1.3</a></sup></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-author">Chen Geller (29 March 2026)</span>. <span class="cite-web-article"><a class="external text" href="https://medium.com/@chenngeller/the-lord-of-the-rings-the-shadow-of-the-past-really-5997dcb01bd1" rel="noreferrer noopener" target="_blank">&#34;“The Lord of the Rings: The Shadow of the Past? Really?!”&#34;</a></span>. <span class="cite-web-website">Medium</span></cite></span>

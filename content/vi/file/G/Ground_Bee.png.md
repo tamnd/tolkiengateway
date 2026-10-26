@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-*Ground Bee* được miêu tả trong Ruth Sochard Pitt, Jeff O'Hare, [Peter C. Fenlon, Jr.](../../main/P/Pete_Fenlon.md), *[Creatures of Middle-earth (2nd edition)](<../../main/C/Creatures_of_Middle-earth_(2nd_edition).md>)* ([Vương miện Sắt Enterprises](../../main/I/Iron_Crown_Enterprises.md) #2012, 1994) , p. 36.
+*Ground Bee* được miêu tả trong Ruth Sochard Pitt, Jeff O'Hare, [Peter C. Fenlon, Jr.](../../main/P/Pete_Fenlon.md), *[Creatures of Middle-earth (2nd edition)](<../../main/C/Creatures_of_Middle-earth_(2nd_edition).md>)* ([Iron Crown Enterprises](../../main/I/Iron_Crown_Enterprises.md) #2012, 1994), p. 36.
 
 ## Giấy phép {#Licensing}
 

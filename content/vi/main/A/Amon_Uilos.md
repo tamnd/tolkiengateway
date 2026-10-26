@@ -24,7 +24,7 @@ images:
   - "CdxIconArticle.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../T/Taniquetil.md" title="Taniquetil">Taniquetil</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="../T/Taniquetil.md" title="Taniquetil">Taniquetil</a></b></div></div>
 
 **Amon Uilos** là bản dịch [Sindarin](../S/Sindarin.md) của tên [Quenya](../Q/Quenya.md) [Oiolossë](../O/Oiolossë.md). Nó được biết đến nhiều hơn với cái tên [Taniquetil](../T/Taniquetil.md).<sup id="cite_ref-SIndex_1-0" class="reference"><a href="#cite_note-SIndex-1">[1]</a></sup><sup id="cite_ref-PE17_2-0" class="reference"><a href="#cite_note-PE17-2">[2]</a></sup>
 

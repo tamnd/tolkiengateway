@@ -180,7 +180,7 @@ Cuốn sách chứa một số lượng lớn các trích đoạn chưa được
 		</li>
 </ul>
 
-- [George Allen và Unwin](../G/George_Allen_and_Unwin.md) bìa cứng ([1977](../_/1977.md)), trang 304. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0049280376">ISBN 0049280376</a>
+- [George Allen and Unwin](../G/George_Allen_and_Unwin.md) bìa cứng ([1977](../_/1977.md)), trang 304. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0049280376">ISBN 0049280376</a>
 - [Giải phóng sách bìa mềm](../U/Unwin_Paperbacks.md) bìa mềm ([1978](../_/1978.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0049280392">ISBN 0049280392</a>
 - [Giải phóng sách bìa mềm](../U/Unwin_Paperbacks.md) bìa mềm ([1987](../_/1987.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0049280708">ISBN 0049280708</a>
 - [HarperCollins](../H/HarperCollins.md) bìa mềm ([1995](../_/1995.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0261102451">ISBN 0261102451</a>

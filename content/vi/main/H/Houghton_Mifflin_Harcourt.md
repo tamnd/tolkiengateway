@@ -41,7 +41,7 @@ images:
 
 Vào cuối mùa hè [1965](../_/1965.md) Tolkien đã gửi các bản sửa đổi của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* tới Houghton Mifflin để gia hạn bản quyền hợp pháp tại Hoa Kỳ. Ấn bản thứ hai được phát hành vào năm [1967](../_/1967.md).<sup id="cite_ref-rc_1-0" class="reference"><a href="#cite_note-rc-1">[1]</a></sup>
 
-Trong [1987](../_/1987.md) công ty đã được [Christopher Tolkien](../C/Christopher_Tolkien.md) và [Douglas A. Anderson](../D/Douglas_A._Anderson.md) khuyến khích đồng bộ hóa phiên bản tiêu chuẩn ([1966](../_/1966.md)) của *The Lord of the Rings* với phiên bản tiêu chuẩn của Anh của [Allen và Unwin](../A/Allen_and_Unwin.md), đồng thời kết hợp các chỉnh sửa bổ sung.<sup id="cite_ref-rc_1-1" class="reference"><a href="#cite_note-rc-1">[1]</a></sup>
+Trong [1987](../_/1987.md) công ty đã được [Christopher Tolkien](../C/Christopher_Tolkien.md) và [Douglas A. Anderson](../D/Douglas_A._Anderson.md) khuyến khích đồng bộ hóa phiên bản tiêu chuẩn ([1966](../_/1966.md)) của *The Lord of the Rings* với phiên bản tiêu chuẩn của Anh của [Allen and Unwin](../A/Allen_and_Unwin.md), đồng thời kết hợp các chỉnh sửa bổ sung.<sup id="cite_ref-rc_1-1" class="reference"><a href="#cite_note-rc-1">[1]</a></sup>
 
 Sau khoảng [1994](../_/1994.md), các phiên bản của *The Lord of the Rings* có một số lỗi mới do quá trình số hóa của HarperCollins; một số trong số chúng sau đó đã được sửa chữa và được HM xuất bản trong [2004](../_/2004.md).<sup id="cite_ref-rc_1-2" class="reference"><a href="#cite_note-rc-1">[1]</a></sup>
 

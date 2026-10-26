@@ -79,7 +79,7 @@ infobox:
 - Tin tức từ [Fangorn](../F/Fangorn_Forest.md)
     - Bởi: Carol Brownlow
 - Vòng quanh thế giới trong 80(?) [Xã hội](../T/Tolkien_Societies~67099.md)
-    - Bởi: [Hiệp hội Tolkien Brazil](../T/The_Brazilian_Tolkien_Society.md)
+    - Bởi: [Hội Tolkien Brazil](../T/The_Brazilian_Tolkien_Society.md)
 - Góc của Jessica
     - Bởi: Jessica Yates
 - Thành viên mới/Ngày ghi nhật ký của bạn

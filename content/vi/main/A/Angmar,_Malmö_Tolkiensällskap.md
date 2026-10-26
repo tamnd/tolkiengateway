@@ -20,7 +20,7 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Angmar,_Malmö_Tolkiensallskap.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/e/e1/Angmar%2C_Malm%C3%B6_Tolkiensallskap.jpg/300px-Angmar%2C_Malm%C3%B6_Tolkiensallskap.jpg" decoding="async" loading="lazy" width="300" height="343" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/e/e1/Angmar%2C_Malm%C3%B6_Tolkiensallskap.jpg 1.5x" data-file-width="317" data-file-height="362"/></a><figcaption><small>Huy hiệu của Angmar, Malmö Tolkiensällskap</small></figcaption></figure>
 
-**Angmar, Malmö Tolkiensällskap**, là Hiệp hội Tolkien Thụy Điển của <a class="extiw" href="http://en.wikipedia.org/wiki/Malm%C3%B6" title="wikipedia:Malmö">Malmö</a>, được tách ra từ [Forodrim](../F/Forodrim.md). Hiệp hội đã xuất bản tạp chí *Certhas Angmar* (một ấn phẩm mà đến năm 2010 dường như đã không còn tồn tại).
+**Angmar, Malmö Tolkiensällskap**, là Hội Tolkien Thụy Điển của <a class="extiw" href="http://en.wikipedia.org/wiki/Malm%C3%B6" title="wikipedia:Malmö">Malmö</a>, được tách ra từ [Forodrim](../F/Forodrim.md). Hiệp hội đã xuất bản tạp chí *Certhas Angmar* (một ấn phẩm mà đến năm 2010 dường như đã không còn tồn tại).
 
 Angmar bao gồm bảy hội: Hội Ngôn ngữ, Hội Thiết bị/Trang trí (khó dịch; "Rustgillet"), Hội Trò chơi, Hội Tiên, Hội Đồ ăn và Rượu, Hội Cung tên và Hội Khiêu vũ.
 

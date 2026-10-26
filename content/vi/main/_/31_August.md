@@ -65,7 +65,7 @@ Sự kiện xảy ra vào ngày 31 tháng 8
 
 - **[1937](1937.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 15](../L/Letter_15.md).
 - **[1938](1938.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 33](../L/Letter_33.md).
-- **[1938](1938.md)** – [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) gửi phiên bản hoàn thiện của *[Farmer Giles of Ham](../F/Farmer_Giles_of_Ham.md)* cho [Allen và Unwin](../A/Allen_and_Unwin.md), nhưng bị từ chối.
+- **[1938](1938.md)** – [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) gửi phiên bản hoàn thiện của *[Farmer Giles of Ham](../F/Farmer_Giles_of_Ham.md)* cho [Allen and Unwin](../A/Allen_and_Unwin.md), nhưng bị từ chối.
 - **[1953](1953.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 140a](../L/Letter_140a.md).
 - **[1962](1962.md)** - Diễn viên lồng tiếng [Dee Bradley Baker](../D/Dee_Bradley_Baker.md) ra đời.
 - **[1980](1980.md)** - [*Amon Hen* 46](../A/Amon_Hen_46.md) được xuất bản.

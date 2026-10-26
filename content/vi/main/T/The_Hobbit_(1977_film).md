@@ -271,5 +271,5 @@ Cuối phim, Gandalf tiết lộ với Bilbo rằng ông không chỉ biết v�
 <tr>
 <th align="center" style="font-size: 90%; background:var(--tg-color-surface-4); padding-left: 4px; padding-right: 4px;"><b>Loạt phim truyền hình</b>
 </th>
-<td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Rings of Power</a></i> (2022-nay)
+<td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Rings of Power</a></i> (2022–nay)
 </td></tr></tbody></table>

@@ -71,9 +71,9 @@ Sự kiện xảy ra vào ngày 3 tháng 1.
 - **[1937](1937.md)** - Diễn viên [Norman Forsey](../N/Norman_Forsey.md) ra đời.
 - **[1972](1972.md)** - [Hội Tolkien](../T/The_Tolkien_Society.md) chúc J.R.R. Tolkien sinh nhật lần thứ 80 vui vẻ tại *The Times.*
 - **[1972](1972.md)** - [Hội Tolkien](../T/The_Tolkien_Society.md) gửi Tolkien một hũ thuốc lá làm quà sinh nhật.
-- **[1992](1992.md)** - Nhân dịp kỷ niệm trăm năm Suomen Tolkien-seura ry. (Hiệp hội Tolkien Phần Lan, kể từ năm 2012 [Suomen Tolkien-seura Kontu ry.](../S/Suomen_Tolkien-seura_Kontu_ry..md), Hiệp hội Tolkien Phần Lan Kontu) được thành lập.
+- **[1992](1992.md)** - Nhân dịp kỷ niệm trăm năm Suomen Tolkien-seura ry. (Hội Tolkien Phần Lan, kể từ năm 2012 [Suomen Tolkien-seura Kontu ry.](../S/Suomen_Tolkien-seura_Kontu_ry..md), Hội Tolkien Phần Lan Kontu) được thành lập.
 - **[1993](1993.md)** - Hiệp hội [Đan Mạch Tolkien, Imladris](../I/Imladris,_Danmarks_Tolkienforening.md) được thành lập.
-- **[2001](2001.md)** - [Hiệp hội Tolkien Peru](../S/Sociedad_Tolkien_Peruana.md) được thành lập.
+- **[2001](2001.md)** - [Hội Tolkien Peru](../S/Sociedad_Tolkien_Peruana.md) được thành lập.
 - **[2014](2014.md)** - [Saul Zaentz](../S/Saul_Zaentz.md) chết.
 - **Hàng năm** - [Chúc mừng sinh nhật](../B/Birthday_Toast.md#Tolkien_Society_tradition) của [Hội Tolkien](../T/The_Tolkien_Society.md).
 

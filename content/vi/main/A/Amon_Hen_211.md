@@ -60,7 +60,7 @@ Thông báo - [Oxonmoot](../O/Oxonmoot.md)
     - Bởi: [Ruth Lacon](../R/Ruth_Lacon.md)
 - Báo cáo: Triển lãm Lâu đài trong sương mù Moreton-in-Marsh
     - Bởi: Lynn Whitaker
-- Báo cáo: [Tolkien Ngày đọc](../T/Tolkien_Reading_Day.md)
+- Báo cáo: [Ngày đọc Tolkien](../T/Tolkien_Reading_Day.md)
     - Bởi: "Tolkien Mãi mãi"
 - Tác phẩm nghệ thuật: Không có tiêu đề (từ tờ rơi TRD)
     - Bởi: Debbie Ann Hayes

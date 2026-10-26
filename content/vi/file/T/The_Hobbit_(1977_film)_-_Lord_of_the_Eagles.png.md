@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Chúa tể Đại Bàng](../../main/G/Great_Eagles.md) - [*The Hobbit* (phim 1977)](<../../main/T/The_Hobbit_(1977_film).md>)
+[Chúa tể Đại Bàng](../../main/G/Great_Eagles.md) - [*The Hobbit* (phim năm 1977)](<../../main/T/The_Hobbit_(1977_film).md>)
 
 ## Giấy phép {#Licensing}
 

@@ -13,7 +13,7 @@ categories:
   - "Tolkien Societies"
 ---
 
-**Hiệp hội Tolkien Úc** được thành lập bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=Paul_Novitski&amp;action=edit&amp;redlink=1" title="Paul Novitski (page does not exist)">Paul Novitski</a>, một thành viên của [Tolkien Society of America](../T/Tolkien_Society_of_America.md) tại [1967](../_/1967.md) trong chuyến đi đến Úc. Hiệp hội đã sản xuất Bản tin Fanzine *[Carandaith](../C/Carandaith.md)* và Bản tin Tolkien (ban đầu được gọi là Bản tin của Hiệp hội Tolkien Úc).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
+**Hội Tolkien Úc** được thành lập bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=Paul_Novitski&amp;action=edit&amp;redlink=1" title="Paul Novitski (page does not exist)">Paul Novitski</a>, một thành viên của [Tolkien Society of America](../T/Tolkien_Society_of_America.md) tại [1967](../_/1967.md) trong chuyến đi đến Úc. Hiệp hội đã sản xuất Bản tin Fanzine *[Carandaith](../C/Carandaith.md)* và Bản tin Tolkien (ban đầu được gọi là Bản tin của Hội Tolkien Úc).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

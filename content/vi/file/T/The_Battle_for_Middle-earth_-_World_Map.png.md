@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Thế giới quan về chế độ Chiến dịch *The Lord of the Rings: Trận chiến vì Trung Địa*.
+Thế giới quan về chế độ Chiến dịch *The Lord of the Rings: The Battle for Middle-earth*.
 
 ## Giấy phép {#Licensing}
 

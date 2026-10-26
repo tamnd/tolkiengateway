@@ -151,7 +151,7 @@ Mặc dù không nằm trong số các tác phẩm của Tolkien trong [huyền 
 
 Ban đầu *The Lay of Aotrou and Itroun* được xuất bản trong *[The Welsh Review](<The_Welsh_Review_(Vol.IV,_No.4).md>)* tập IV, số 4 trong [1945](../_/1945.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
-Hơn 50 năm sau, bài thơ lần đầu tiên được tái bản dưới dạng sách độc lập song ngữ (tiếng Serbia/tiếng Anh) *[Pesma o Otruu i Itrun](../P/Pesma_o_Otruu_i_Itrun.md)* dưới dạng [2002](../_/2002.md), với số lượng giới hạn 500 bản.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Phiên bản mở rộng của nó đã được xuất bản vào tháng 6 [2015](../_/2015.md).<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+Hơn 50 năm sau, bài thơ lần đầu tiên được tái bản dưới dạng sách độc lập song ngữ (tiếng Serbia/tiếng Anh) *[Pesma o Otruu i Itrun](../P/Pesma_o_Otruu_i_Itrun.md)* dưới dạng [2002](../_/2002.md), với số lượng giới hạn 500 bản.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Bản mở rộng của nó đã được xuất bản vào tháng 6 [2015](../_/2015.md).<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
 Bài thơ được xuất bản hoàn toàn bằng tiếng Anh vào ngày 3 tháng 11 [2016](../_/2016.md), do Verlyn Flieger biên tập.
 

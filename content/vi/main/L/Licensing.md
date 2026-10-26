@@ -35,7 +35,7 @@ images:
 - **[1976](../_/1976.md)**
     - Công ty sản xuất [Saul Zaentz](../S/Saul_Zaentz.md) mua lại phim và các quyền khác cho *The Hobbit* và *The Lord of the Rings* từ United Artists.<sup id="cite_ref-middle-earth-timeline_4-1" class="reference"><a href="#cite_note-middle-earth-timeline-4">[4]</a></sup>
 - **[1977](../_/1977.md)**
-    - Công ty Saul Zaentz thành lập một d/b/a [Tolkien Doanh nghiệp](../T/Tolkien_Enterprises.md).<sup id="cite_ref-middle-earth-timeline_4-2" class="reference"><a href="#cite_note-middle-earth-timeline-4">[4]</a></sup>
+    - Saul Zaentz Company thành lập một d/b/a [Tolkien Doanh nghiệp](../T/Tolkien_Enterprises.md).<sup id="cite_ref-middle-earth-timeline_4-2" class="reference"><a href="#cite_note-middle-earth-timeline-4">[4]</a></sup>
     - Bộ phim hoạt hình đầu tiên của [Rankin/Bass](../R/Rankin%252FBass.md), *[The Hobbit](<../T/The_Hobbit_(1977_film).md>)* được phát hành.
 - **[1978](../_/1978.md)**
     - Saul Zaentz sản xuất bộ phim hoạt hình *[The Lord of the Rings](<../T/The_Lord_of_the_Rings_(1978_film).md>)*, do [Ralph Bakshi](../R/Ralph_Bakshi.md) đạo diễn.
@@ -53,7 +53,7 @@ images:
     - Unwin Hyman được mua bởi [HarperCollins](../H/HarperCollins.md).<sup id="cite_ref-fob_7-1" class="reference"><a href="#cite_note-fob-7">[7]</a></sup>
     - [Interplay Productions](../I/Interplay_Productions.md) mua bản quyền trò chơi điện tử đối với *The Lord of the Rings* và *The Hobbit* đồng thời phát hành trò chơi điện tử *[J.R.R. Tolkien's The Lord of the Rings](<../J/J.R.R._Tolkien's_The_Lord_of_the_Rings,_Vol._I_(1990_video_game).md>)*.
 - **[1997](../_/1997.md)**
-    - Công ty Saul Zaentz lựa chọn bản quyền phim của họ cho *The Lord of the Rings* và *The Hobbit* cho Miramax Films.
+    - Saul Zaentz Company lựa chọn bản quyền phim của họ cho *The Lord of the Rings* và *The Hobbit* cho Miramax Films.
 - **[1998](../_/1998.md)**
     - [New Line Cinema](../N/New_Line_Cinema.md) mua các tùy chọn phim cho *The Lord of the Rings* và *The Hobbit* từ Miramax.<sup id="cite_ref-middle-earth-timeline_4-3" class="reference"><a href="#cite_note-middle-earth-timeline-4">[4]</a></sup>
 - **[2000](../_/2000.md)**
@@ -119,9 +119,9 @@ images:
     - 24 tháng 8 - [Pháp sư of the Coast](../W/Wizards_of_the_Coast.md) công bố *The Lord of the Rings: Những câu chuyện về Trung Địa*. Một bộ dành cho dòng *Magic: The Gathering Universes Beyond*.<sup id="cite_ref-40" class="reference"><a href="#cite_note-40">[40]</a></sup><sup id="cite_ref-41" class="reference"><a href="#cite_note-41">[41]</a></sup><sup id="cite_ref-42" class="reference"><a href="#cite_note-42">[42]</a></sup>
     - 23 tháng Chín - *The Lord of the Rings: Rise to War* được phát hành.<sup id="cite_ref-43" class="reference"><a href="#cite_note-43">[43]</a></sup>
 - **[2022](../_/2022.md)**
-    - ngày 9 tháng 2 - Công ty Saul Zaentz rao bán tài sản Tolkien của họ. Chúng bao gồm các quyền đối với phim điện ảnh, trò chơi điện tử, hoạt động buôn bán, công viên giải trí và sản phẩm sân khấu dựa trên *The Lord of the Rings* và *The Hobbit*.<sup id="cite_ref-44" class="reference"><a href="#cite_note-44">[44]</a></sup>
+    - ngày 9 tháng 2 - Saul Zaentz Company rao bán tài sản Tolkien của họ. Chúng bao gồm các quyền đối với phim điện ảnh, trò chơi điện tử, hoạt động buôn bán, công viên giải trí và sản phẩm sân khấu dựa trên *The Lord of the Rings* và *The Hobbit*.<sup id="cite_ref-44" class="reference"><a href="#cite_note-44">[44]</a></sup>
     - 17 tháng 5 - Amazon mua lại MGM với giá 8,5 tỷ USD, bao gồm quyền phân phối *The Hobbit*.<sup id="cite_ref-45" class="reference"><a href="#cite_note-45">[45]</a></sup>
-    - 18 tháng 8 - [Embracer Group](../E/Embracer_Group.md) mua lại Trung Địa Doanh nghiệp từ Công ty Saul Zaentz.<sup id="cite_ref-46" class="reference"><a href="#cite_note-46">[46]</a></sup>
+    - 18 tháng 8 - [Embracer Group](../E/Embracer_Group.md) mua lại Trung Địa Doanh nghiệp từ Saul Zaentz Company.<sup id="cite_ref-46" class="reference"><a href="#cite_note-46">[46]</a></sup>
     - Mùa đầu tiên của loạt phim truyền hình được cấp phép đầu tiên, *[The Rings of Power](../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)*, được phát hành.
 - **[2023](../_/2023.md)**
     - 23 tháng 2 - Embracer Group, New Line Cinema và Warner Bros. Pictures đạt được thỏa thuận kéo dài nhiều năm để cộng tác về các tính năng dựa trên *The Lord of the Rings* và *The Hobbit*.<sup id="cite_ref-47" class="reference"><a href="#cite_note-47">[47]</a></sup>

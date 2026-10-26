@@ -86,7 +86,7 @@ infobox:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_(1990,_The_Folio_Society).webp.md"><img src="https://tolkiengateway.net/w/images/thumb/4/46/The_Lord_of_the_Rings_%281990%2C_The_Folio_Society%29.webp/300px-The_Lord_of_the_Rings_%281990%2C_The_Folio_Society%29.webp.png" decoding="async" loading="lazy" width="300" height="375" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/46/The_Lord_of_the_Rings_%281990%2C_The_Folio_Society%29.webp/450px-The_Lord_of_the_Rings_%281990%2C_The_Folio_Society%29.webp.png 1.5x, https://tolkiengateway.net/w/images/thumb/4/46/The_Lord_of_the_Rings_%281990%2C_The_Folio_Society%29.webp/600px-The_Lord_of_the_Rings_%281990%2C_The_Folio_Society%29.webp.png 2x" data-file-width="768" data-file-height="960"/></a><figcaption>1990-1993</figcaption></figure>
 
-### The Hobbit (1997-nay) {#The_Hobbit_(1997-Present)}
+### The Hobbit (1997–nay) {#The_Hobbit_(1997-Present)}
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Folio_Society_-_The_Hobbit_(1997).webp.md"><img src="https://tolkiengateway.net/w/images/thumb/5/5f/The_Folio_Society_-_The_Hobbit_%281997%29.webp/300px-The_Folio_Society_-_The_Hobbit_%281997%29.webp.png" decoding="async" loading="lazy" width="300" height="300" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/5f/The_Folio_Society_-_The_Hobbit_%281997%29.webp/450px-The_Folio_Society_-_The_Hobbit_%281997%29.webp.png 1.5x, https://tolkiengateway.net/w/images/thumb/5/5f/The_Folio_Society_-_The_Hobbit_%281997%29.webp/600px-The_Folio_Society_-_The_Hobbit_%281997%29.webp.png 2x" data-file-width="700" data-file-height="700"/></a><figcaption>The Hobbit, 1997-Present</figcaption></figure>
 
@@ -352,7 +352,7 @@ infobox:
 
 <sup id="cite_ref-adam_4-0" class="reference"><a href="#cite_note-adam-4">[4]</a></sup>
 
-### The Lord of the Rings (1997-nay) {#The_Lord_of_the_Rings_(1997-Present)}
+### The Lord of the Rings (1997–nay) {#The_Lord_of_the_Rings_(1997-Present)}
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Folio_Society_-_The_Lord_of_the_Rings_(1997).webp.md"><img src="https://tolkiengateway.net/w/images/thumb/3/38/The_Folio_Society_-_The_Lord_of_the_Rings_%281997%29.webp/300px-The_Folio_Society_-_The_Lord_of_the_Rings_%281997%29.webp.png" decoding="async" loading="lazy" width="300" height="300" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/38/The_Folio_Society_-_The_Lord_of_the_Rings_%281997%29.webp/450px-The_Folio_Society_-_The_Lord_of_the_Rings_%281997%29.webp.png 1.5x, https://tolkiengateway.net/w/images/thumb/3/38/The_Folio_Society_-_The_Lord_of_the_Rings_%281997%29.webp/600px-The_Folio_Society_-_The_Lord_of_the_Rings_%281997%29.webp.png 2x" data-file-width="700" data-file-height="700"/></a><figcaption>The Lord of the Rings, 1997-Present</figcaption></figure>
 
@@ -610,7 +610,7 @@ infobox:
 
 <sup id="cite_ref-adam_4-1" class="reference"><a href="#cite_note-adam-4">[4]</a></sup>
 
-### The Silmarillion (1997-nay) {#The_Silmarillion_(1997-Present)}
+### The Silmarillion (1997–nay) {#The_Silmarillion_(1997-Present)}
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Folio_Society_-_The_Silmarillion_(1997).webp.md"><img src="https://tolkiengateway.net/w/images/thumb/0/03/The_Folio_Society_-_The_Silmarillion_%281997%29.webp/300px-The_Folio_Society_-_The_Silmarillion_%281997%29.webp.png" decoding="async" loading="lazy" width="300" height="300" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/03/The_Folio_Society_-_The_Silmarillion_%281997%29.webp/450px-The_Folio_Society_-_The_Silmarillion_%281997%29.webp.png 1.5x, https://tolkiengateway.net/w/images/thumb/0/03/The_Folio_Society_-_The_Silmarillion_%281997%29.webp/600px-The_Folio_Society_-_The_Silmarillion_%281997%29.webp.png 2x" data-file-width="700" data-file-height="700"/></a><figcaption>The Silmarillion, 1997-Present</figcaption></figure>
 

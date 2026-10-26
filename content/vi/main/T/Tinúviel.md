@@ -38,7 +38,7 @@ images:
   - "Paula_DiSante_-_Nightingale.JPG"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../L/Lúthien.md" title="Lúthien">Lúthien</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="../L/Lúthien.md" title="Lúthien">Lúthien</a></b></div></div>
 
 <figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/P/Paula_DiSante_-_Nightingale.JPG.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b9/Paula_DiSante_-_Nightingale.JPG/250px-Paula_DiSante_-_Nightingale.JPG" decoding="async" loading="lazy" width="250" height="332" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b9/Paula_DiSante_-_Nightingale.JPG/375px-Paula_DiSante_-_Nightingale.JPG 1.5x, https://tolkiengateway.net/w/images/thumb/b/b9/Paula_DiSante_-_Nightingale.JPG/500px-Paula_DiSante_-_Nightingale.JPG 2x" data-file-width="600" data-file-height="797"/></a><figcaption><i>The Spell of the Nightingale</i> by <a href="../P/Paula_DiSante.md" title="Paula DiSante">Paula DiSante</a></figcaption></figure>
 

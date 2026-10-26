@@ -28,7 +28,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Người</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Alan Rabinowitz</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin tiểu sử</span></th></tr><tr><th scope="row" class="tg-infobox-label">Sinh</th><td class="tg-infobox-data"><a href="../_/8_June.md" title="8 June">8 June</a> <a href="../_/1969.md" title="1969">1969</a></td></tr><tr><th scope="row" class="tg-infobox-label">Nghề nghiệp</th><td class="tg-infobox-data">Nghệ sĩ</td></tr></tbody></table>
 
-**Alan Rabinowitz** (sinh [8 tháng 6](../_/8_June.md) [1969](../_/1969.md)) là một nghệ sĩ giả tưởng người Mỹ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Vào những năm 1990, ông được [Vương miện Sắt Enterprises](../I/Iron_Crown_Enterprises.md) ủy quyền sáng tạo nghệ thuật cho [Trung Địa Trò chơi bài sưu tập](../M/Middle-earth_Collectible_Card_Game.md). Ông đã tìm thấy một chủ đề rất đáng để thực hiện.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Alan Rabinowitz** (sinh [8 tháng 6](../_/8_June.md) [1969](../_/1969.md)) là một nghệ sĩ giả tưởng người Mỹ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Vào những năm 1990, ông được [Iron Crown Enterprises](../I/Iron_Crown_Enterprises.md) ủy quyền sáng tạo nghệ thuật cho [Trung Địa Trò chơi bài sưu tập](../M/Middle-earth_Collectible_Card_Game.md). Ông đã tìm thấy một chủ đề rất đáng để thực hiện.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Xem thêm {#See_also}
 

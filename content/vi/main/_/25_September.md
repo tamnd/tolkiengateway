@@ -84,7 +84,7 @@ Sự kiện xảy ra vào ngày 25 tháng Chín.
 - **[2008](2008.md)** - [Oxonmoot 2008](../O/Oxonmoot_2008.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Christ_Church,_Oxford" title="wikipedia:Christ Church, Oxford">Nhà thờ Chúa Kitô</a>.
 - **[2009](2009.md)** - [Oxonmoot 2009](../O/Oxonmoot_2009.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Lady_Margaret_Hall,_Oxford" title="wikipedia:Lady Margaret Hall, Oxford">Lady Margaret Hall</a>.
 - **[2010](2010.md)** - [Oxonmoot 2010](../O/Oxonmoot_2010.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Lady_Margaret_Hall,_Oxford" title="wikipedia:Lady Margaret Hall, Oxford">Lady Margaret Hall</a>.
-- **[2010](2010.md)** - Cuộc gặp gỡ mùa thu Lasse Lanta của Hiệp hội Tolkien Áo.
+- **[2010](2010.md)** - Cuộc gặp gỡ mùa thu Lasse Lanta của Hội Tolkien Áo.
 - **[2011](2011.md)** - [Oxonmoot 2011](../O/Oxonmoot_2011.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Lady_Margaret_Hall,_Oxford" title="wikipedia:Lady Margaret Hall, Oxford">Lady Margaret Hall</a>.
 
 ## Trong Arda {#In_Arda}

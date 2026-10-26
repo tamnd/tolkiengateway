@@ -58,7 +58,7 @@ Mối hận thù giữa Umbar và Gondor âm ỉ một thời gian; tuy nhiên, 
 
 ### Mở đầu {#Prelude}
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../K/Kin-strife~3650.md" title="Kin-strife">Xung đột họ hàng</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="../K/Kin-strife~3650.md" title="Kin-strife">Xung đột họ hàng</a></b></div></div>
 
 Umbar đã được Gondor giữ an toàn cho đến sau [Xung đột họ tộc](../K/Kin-strife~3650.md) ở [1447](../T/Third_Age_1447.md). Cuộc xung đột dân sự lớn giữa [Eldacar](<../E/Eldacar_(King_of_Gondor).md>) và kẻ tiếm quyền [Castamir](Castamir.md) dẫn đến cái chết của Castamir và các con trai của ông phải chạy trốn đến Umbar. Ở đó, họ thành lập một lãnh chúa độc lập đối lập với Gondor và tiếp tục xung đột với Gondor trong nhiều thế kỷ tới.<sup id="cite_ref-annals_1-4" class="reference"><a href="#cite_note-annals-1">[1]</a></sup>
 

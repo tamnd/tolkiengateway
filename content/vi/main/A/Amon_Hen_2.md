@@ -54,7 +54,7 @@ infobox:
     - *Rocannon's World* của [Ursula K. Le Guin](../U/Ursula_K._Le_Guin.md) (được đánh giá bởi Graham England)
     - *Njal's Saga*, ấn bản Penguin Classics (được Graham England đánh giá)
     - *Grendel* của John Gardiner (được Graham England đánh giá)
-- Lưu ý về Smials (các chi nhánh địa phương của Hiệp hội Tolkien)
+- Lưu ý về Smials (các chi nhánh địa phương của Hội Tolkien)
 - Thư của [Marion Zimmer Bradley](../M/Marion_Zimmer_Bradley.md)
 - Danh sách thành viên mới và thay đổi địa chỉ
 - Thông báo bán [Tolkien bàn làm việc](../T/Tolkien's_desk.md) của Vera Chapman

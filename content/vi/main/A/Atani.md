@@ -26,7 +26,7 @@ images:
   - "Atani.mp3"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../M/Men.md" title="Men">Con Người</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="../M/Men.md" title="Men">Con Người</a></b></div></div>
 
 <div style="right: 0px; clear: right; float:right; margin: 0px 0px 10px 10px;">
 <table style="border:var(--tg-border-base); background-color:var(--tg-color-surface-2); font-size: 0.8em; line-height: 1.5;border-radius:var(--tg-border-radius-large);" width="275px">

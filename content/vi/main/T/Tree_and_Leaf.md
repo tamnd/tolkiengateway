@@ -123,7 +123,7 @@ Trong [1988](../_/1988.md), [Christopher Tolkien](../C/Christopher_Tolkien.md) �
 		</li>
 </ul>
 
-- [George Allen và Unwin](../G/George_Allen_and_Unwin.md), bìa cứng ([1964](../_/1964.md)), trang 92.
+- [George Allen and Unwin](../G/George_Allen_and_Unwin.md), bìa cứng ([1964](../_/1964.md)), trang 92.
     - Ấn bản bìa cứng năm 1964, lần in thứ 5 ([1971](../_/1971.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0048240133">ISBN 0048240133</a>
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Unwin_Books&amp;action=edit&amp;redlink=1" title="Unwin Books (page does not exist)">Giải phóng sách</a>, bìa mềm ([1964](../_/1964.md))
     - Ấn bản bìa mềm năm 1964, lần in thứ 3 ([1968](../_/1968.md))

@@ -63,7 +63,7 @@ infobox:
 
 <figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_-_The_Two_Towers.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/c/c5/J.R.R._Tolkien_-_The_Two_Towers.jpg/200px-J.R.R._Tolkien_-_The_Two_Towers.jpg" decoding="async" loading="lazy" width="200" height="289" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/c5/J.R.R._Tolkien_-_The_Two_Towers.jpg/300px-J.R.R._Tolkien_-_The_Two_Towers.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/c/c5/J.R.R._Tolkien_-_The_Two_Towers.jpg/400px-J.R.R._Tolkien_-_The_Two_Towers.jpg 2x" data-file-width="710" data-file-height="1027"/></a><figcaption>Thiết kế của Tolkien cho chiếc áo khoác chống bụi của <i>The Two Towers</i> được gửi tới Allen &amp; Unwin.</figcaption></figure>
 
-Tolkien dự định *The Lord of the Rings* sẽ được xuất bản thành một tập và tin rằng nó đương nhiên được chia thành sáu "cuốn sách". Tuy nhiên, trước sự thúc giục của nhà xuất bản [Allen và Unwin](../A/Allen_and_Unwin.md), ông đã đồng ý phát hành tác phẩm thành ba tập để bán riêng. Mặc dù vậy, Tolkien coi việc chia thành ba tập là giả tạo và không hài lòng vì cuốn III và IV "không thực sự liên quan" sẽ phải được xuất bản cùng nhau.<sup id="cite_ref-l136_1-0" class="reference"><a href="#cite_note-l136-1">[1]</a></sup>
+Tolkien dự định *The Lord of the Rings* sẽ được xuất bản thành một tập và tin rằng nó đương nhiên được chia thành sáu "cuốn sách". Tuy nhiên, trước sự thúc giục của nhà xuất bản [Allen and Unwin](../A/Allen_and_Unwin.md), ông đã đồng ý phát hành tác phẩm thành ba tập để bán riêng. Mặc dù vậy, Tolkien coi việc chia thành ba tập là giả tạo và không hài lòng vì cuốn III và IV "không thực sự liên quan" sẽ phải được xuất bản cùng nhau.<sup id="cite_ref-l136_1-0" class="reference"><a href="#cite_note-l136-1">[1]</a></sup>
 
 Vào ngày 24 tháng 3 [1953](../_/1953.md), Tolkien đã viết thư cho [Rayner Unwin](../R/Rayner_Unwin.md) với ý tưởng về tựa đề của mỗi tập. Vào thời điểm đó, ông đề nghị mỗi tập được đặt tên theo hai cuốn sách trong đó. Đối với tập giữa, đây là "*The Lord of the Rings* Tập II: *The Treason of Isengard* và *The Ring goes East*." Để thay thế trong trường hợp Unwin nhận thấy phiên bản trước không phù hợp, Tolkien đã đề xuất "*The Ring in the Shadow*."<sup id="cite_ref-l136_1-1" class="reference"><a href="#cite_note-l136-1">[1]</a></sup>
 
@@ -75,14 +75,14 @@ Cuối cùng, vào [17 tháng 8](../_/17_August.md) năm 1953, Unwin đã gặp 
 
 Vào thời điểm đó, danh tính của các tòa tháp tiêu biểu vẫn chưa rõ ràng trong tâm trí Tolkien. Trong các lá thư<sup id="cite_ref-OneForty_6-1" class="reference"><a href="#cite_note-OneForty-6">[6]</a></sup> và bản phác thảo của mình,<sup id="cite_ref-hs_4-2" class="reference"><a href="#cite_note-hs-4">[4]</a></sup> Tolkien đã xem xét một số bộ tháp, bao gồm [Minas Tirith](../M/Minas_Tirith.md) và [Barad-dûr](../B/Barad-dûr.md), và thậm chí có khả năng khiến vấn đề trở nên mơ hồ. Hầu hết các cặp trong bộ năm tòa tháp trong câu chuyện đều có thể phù hợp với tiêu đề: [Cirith Ungol](Tower_of_Cirith_Ungol.md), [Orthanc](../O/Orthanc.md), Minas Tirith, Barad-dûr và [Minas Morgul](../M/Minas_Morgul.md).
 
-Tolkien đã quyết định danh tính cuối cùng của các tòa tháp không muộn hơn ngày 23 tháng 2 [1954](../_/1954.md), vào ngày đó ông gửi cho Allen và Unwin ghi chú này, xuất hiện ở cuối hầu hết các ấn bản của *The Fellowship of the Ring*:<sup id="cite_ref-hs_4-3" class="reference"><a href="#cite_note-hs-4">[4]</a></sup>
+Tolkien đã quyết định danh tính cuối cùng của các tòa tháp không muộn hơn ngày 23 tháng 2 [1954](../_/1954.md), vào ngày đó ông gửi cho Allen and Unwin ghi chú này, xuất hiện ở cuối hầu hết các ấn bản của *The Fellowship of the Ring*:<sup id="cite_ref-hs_4-3" class="reference"><a href="#cite_note-hs-4">[4]</a></sup>
 
 <blockquote class="tg-quote noexcerpt">
 <p>Phần thứ hai có tên là HAI THÁP, vì các sự kiện được kể lại trong đó chủ yếu là ORTHANC, thành trì Saruman và pháo đài MINAS MORGUL bảo vệ lối vào bí mật dẫn đến Mordor.
 </p>
 </blockquote>
 
-Tolkien đã tạo ra một hình minh họa mô tả những tòa tháp này cho lớp bọc bụi của tập sách. Ông đã gửi nó cho Allen và Unwin vào ngày 23 tháng 3 [1954](../_/1954.md), nhưng cuối cùng nó không được sử dụng vì Tolkien và các nhà xuất bản đã đồng ý sử dụng các biến thể của hình minh họa *Fellowship* cho bìa bọc bụi của cả ba tập.<sup id="cite_ref-hs_4-4" class="reference"><a href="#cite_note-hs-4">[4]</a></sup>
+Tolkien đã tạo ra một hình minh họa mô tả những tòa tháp này cho lớp bọc bụi của tập sách. Ông đã gửi nó cho Allen and Unwin vào ngày 23 tháng 3 [1954](../_/1954.md), nhưng cuối cùng nó không được sử dụng vì Tolkien và các nhà xuất bản đã đồng ý sử dụng các biến thể của hình minh họa *Fellowship* cho bìa bọc bụi của cả ba tập.<sup id="cite_ref-hs_4-4" class="reference"><a href="#cite_note-hs-4">[4]</a></sup>
 
 <dl><dt>Structure</dt></dl>
 

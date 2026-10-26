@@ -23,7 +23,7 @@ images:
 
 <b><i>The Lord of the Rings: The Two Towers</i> (phiên bản mở rộng)</b> là phiên bản mở rộng của *[The Lord of the Rings: The Two Towers](The_Lord_of_the_Rings%253A_The_Two_Towers.md)*. Nó có 44 phút cảnh quay bổ sung được thêm lại vào phim (nâng tổng thời lượng chiếu lên 223 phút), cũng như nhiều phim tài liệu về quá trình làm phim dưới dạng phần bổ sung.
 
-## Phiên bản mở rộng đặc biệt: Phần một (đĩa 1) {#Special_Extended_Edition:_Part_One_(disc_1)}
+## Bản mở rộng đặc biệt: Phần một (đĩa 1) {#Special_Extended_Edition:_Part_One_(disc_1)}
 
 Đĩa đầu tiên chứa phiên bản mở rộng của phim với phần bình luận bằng âm thanh sau:
 
@@ -56,7 +56,7 @@ images:
 - 26\. Con gái của các vị vua
 - 30\. Rau thơm và thỏ hầm
 
-## Phiên bản mở rộng đặc biệt: Phần thứ hai (đĩa 2) {#Special_Extended_Edition:_Part_Two_(disc_2)}
+## Bản mở rộng đặc biệt: Phần thứ hai (đĩa 2) {#Special_Extended_Edition:_Part_Two_(disc_2)}
 
 Đĩa này là sự tiếp nối của đĩa đầu tiên.
 

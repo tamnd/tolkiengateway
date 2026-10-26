@@ -117,7 +117,7 @@ Tolkien nghĩ (và Baynes đồng ý) rằng các bài thơ không khớp với 
 
 Mặc dù Baynes cho rằng những bài thơ của ông khá "có cảm giác", Tolkien vẫn nhấn mạnh rằng hình ảnh của ông phải dứt khoát, rõ ràng và chính xác.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> Ông hướng dẫn Baynes rằng các hình minh họa "không được hài hước". Sau đó, cô cộng tác với biên tập viên nghệ thuật Ronald Eames và hoàn thành sáu bức tranh minh họa vào tháng 8 [1962](../_/1962.md). Mặc dù có một số lời chỉ trích Tolkien đối với tác phẩm của Baynes, nhưng cuối cùng, Tolkien đã ghi nhận một phần lớn công lao của Baynes vì ​​sự thành công về mặt thương mại của cuốn sách.
 
-## Phiên bản mở rộng {#Extended_edition}
+## Bản mở rộng {#Extended_edition}
 
 Một ấn bản mở rộng đã được xuất bản trong [2014](../_/2014.md), được biên tập bởi [Wayne G. Hammond](../W/Wayne_G._Hammond.md) và [Christina Scull](../C/Christina_Scull.md). Ấn bản này bao gồm: phần giới thiệu của người biên tập, các phiên bản trước của 13 bài thơ có ghi chú nguyên văn, một bài thơ 'Bombodil' sau này *[Once upon a Time](../O/Once_upon_a_Time.md)*, một văn bản chưa được xuất bản trước đó *The Bumpus*, phần trước của *Perry-the-Winkle*, và đoạn hoàn chỉnh của một câu chuyện văn xuôi có Tom Bombadil.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Một số lịch sử sửa đổi của các bài thơ như sau:
 
@@ -188,7 +188,7 @@ Phiên bản [2024](../_/2024.md) bao gồm phần "Giới thiệu về nghệ s
     - [Giải phóng Hyman](../U/Unwin_Hyman.md) bìa cứng ([1990](../_/1990.md)), trang 75. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0044407270">ISBN 0044407270</a>
     - [Giải phóng sách bìa mềm](../U/Unwin_Paperbacks.md) bìa mềm ([1990](../_/1990.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0044407262">ISBN 0044407262</a>
 
-- Phiên bản mở rộng
+- Bản mở rộng
     - [HarperCollins](../H/HarperCollins.md) bìa cứng ([2014](../_/2014.md)), trang 304. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007557272">ISBN 0007557272</a> - (cũng là một phần của bộ túi [2015](../_/2015.md) [Tolkien Kho bạc](The_Tolkien_Treasury.md))
     - [HarperCollins](../H/HarperCollins.md) bìa mềm ([2024](../_/2024.md)), trang 320. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0008700192">ISBN 0008700192</a>
 

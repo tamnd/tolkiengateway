@@ -45,7 +45,7 @@ infobox:
 
 ## Từ Lời nói đầu {#From_the_Preface}
 
-"Lễ hội phương Bắc Tolkien lần thứ hai diễn ra tại Đại học Oslo ... ngày 8 - 10 tháng 8 năm 1997, do Hiệp hội Tolkien Na Uy tổ chức. Nó bao gồm một hội nghị chuyên đề học thuật được sắp xếp với sự cộng tác của ... Hiệp hội Arda về chủ đề chung Ainur: Sức mạnh thần thánh và bán thần thánh trong Thế giới của Tolkien... sáu trong số các bài báo hiện được thu thập trong ấn phẩm này ... tiếp theo là các bài tóm tắt bằng tiếng Na Uy" <span></span>
+"Lễ hội phương Bắc Tolkien lần thứ hai diễn ra tại Đại học Oslo ... ngày 8 - 10 tháng 8 năm 1997, do Hội Tolkien Na Uy tổ chức. Nó bao gồm một hội nghị chuyên đề học thuật được sắp xếp với sự cộng tác của ... Hiệp hội Arda về chủ đề chung Ainur: Sức mạnh thần thánh và bán thần thánh trong Thế giới của Tolkien... sáu trong số các bài báo hiện được thu thập trong ấn phẩm này ... tiếp theo là các bài tóm tắt bằng tiếng Na Uy" <span></span>
 
 ## Tài liệu tham khảo {#References}
 

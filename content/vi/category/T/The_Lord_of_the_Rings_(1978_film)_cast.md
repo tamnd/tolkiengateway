@@ -12,4 +12,4 @@ categories:
   - "The Lord of the Rings (1978 film)"
 ---
 
-Thể loại này liệt kê **The Lord of the Rings diễn viên (phim 1978)**.
+Thể loại này liệt kê **The Lord of the Rings diễn viên (phim năm 1978)**.

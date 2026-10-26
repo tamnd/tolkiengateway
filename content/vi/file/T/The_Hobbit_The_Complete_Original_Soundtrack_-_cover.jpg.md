@@ -24,7 +24,7 @@ file:
   user: "Ederchil"
 ---
 
-Bìa của *[The Hobbit: The Complete Original Soundtrack](../../main/T/The_Hobbit%253A_The_Complete_Original_Soundtrack.md)*, nhạc nền của [*The Hobbit* (phim 1977)](<../../main/T/The_Hobbit_(1977_film).md>).
+Bìa của *[The Hobbit: The Complete Original Soundtrack](../../main/T/The_Hobbit%253A_The_Complete_Original_Soundtrack.md)*, nhạc nền của [*The Hobbit* (phim năm 1977)](<../../main/T/The_Hobbit_(1977_film).md>).
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);">
 <p>The copyright of this image is most likely owned by the publisher or the artist who created the cover. It is believed that this image,

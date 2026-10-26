@@ -61,7 +61,7 @@ Shadowfax cũng sở hữu lòng dũng cảm phi thường. Ông là con ngựa 
 
 ## Ngoại hình và khả năng {#Appearance_and_abilities}
 
-Shadowfax được mô tả là có bộ lông màu xám bạc chỉ có thể nhìn thấy vào ban ngày và hiếm khi nhìn thấy vào ban đêm. Ông có khả năng hiểu được lời nói của con người. Là thủ lĩnh của Mearas, và nói rộng hơn là tất cả các loài ngựa, ông sở hữu tốc độ, sức mạnh, trí thông minh và sức bền vô song, có khả năng chạy nhanh hơn gió so với tất cả các chiến mã khác, vượt xa ngựa của Nazgul và ngang bằng với tốc độ của các Quái vật Fell có cánh, cũng như chạy nhanh hơn một mũi tên đang bay và di chuyển trên những khoảng cách rất xa gần như hoàn toàn không cần nghỉ ngơi, và như đã đề cập ở trên, ông có ý chí và lòng dũng cảm vô cùng mạnh mẽ, đủ để đứng lên chống lại The Vua Phù thủy của Angmar trước cổng Minas Tirith.
+Shadowfax được mô tả là có bộ lông màu xám bạc chỉ có thể nhìn thấy vào ban ngày và hiếm khi nhìn thấy vào ban đêm. Ông có khả năng hiểu được lời nói của con người. Là thủ lĩnh của Mearas, và nói rộng hơn là tất cả các loài ngựa, ông sở hữu tốc độ, sức mạnh, trí thông minh và sức bền vô song, có khả năng chạy nhanh hơn gió so với tất cả các chiến mã khác, vượt xa ngựa của Nazgul và ngang bằng với tốc độ của các Quái vật Fell có cánh, cũng như chạy nhanh hơn một mũi tên đang bay và di chuyển trên những khoảng cách rất xa gần như hoàn toàn không cần nghỉ ngơi, và như đã đề cập ở trên, ông có ý chí và lòng dũng cảm vô cùng mạnh mẽ, đủ để đứng lên chống lại The Vua Phù thủy Angmar trước cổng Minas Tirith.
 
 ## Phả hệ {#Genealogy}
 

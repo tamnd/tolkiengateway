@@ -53,7 +53,7 @@ Bộ ba của - "Tolkien: Kỳ lạ sinh thái, Thuyết nhị nguyên kép đư
 
 <blockquote class="tg-quote noexcerpt">
 <p>Tập kỷ yếu này bao gồm các bài viết từ Hội thảo Kết hợp Xã hội Tolkien năm 2022. Nó tìm cách bổ sung vào cuộc trò chuyện về ý nghĩa của các từ 'Goth' và 'Gothic' đối với J.R.R. Tolkien và cách thức mà các truyền thống liên quan khác nhau của họ phát triển tác phẩm của ông. Từ ngôn ngữ học đến văn học, tôn giáo đến phê bình sinh thái, quá trình này khám phá cách các lý thuyết truyền thống và mới trong học thuật Gothic có thể giúp chúng ta đọc lại tác phẩm của Tolkien.
-</p><p>Được xuất bản dưới sự bảo trợ của Quỹ tưởng niệm Peter Roe của Hiệp hội, kỷ yếu này bao gồm một bộ bảy bài báo được trình bày tại Hội thảo Kết hợp Hiệp hội Tolkien năm 2022.
+</p><p>Được xuất bản dưới sự bảo trợ của Quỹ tưởng niệm Peter Roe của Hiệp hội, kỷ yếu này bao gồm một bộ bảy bài báo được trình bày tại Hội thảo Kết hợp Hội Tolkien năm 2022.
 </p>
 </blockquote>
 

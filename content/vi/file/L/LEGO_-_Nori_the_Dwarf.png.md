@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Nori Người lùn](../../main/N/Nori.md) - [LEGO](../../main/L/Lego.md) mô hình nhỏ
+[Nori Người Lùn](../../main/N/Nori.md) - [LEGO](../../main/L/Lego.md) mô hình nhỏ
 
 ## Giấy phép {#Licensing}
 

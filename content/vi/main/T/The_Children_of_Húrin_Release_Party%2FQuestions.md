@@ -14,7 +14,7 @@ images:
   - "CdxIconArticle.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="The_Children_of_Húrin_Release_Party.md" title="The Children of Húrin Release Party">The Children of Húrin Release Party</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="The_Children_of_Húrin_Release_Party.md" title="The Children of Húrin Release Party">The Children of Húrin Release Party</a></b></div></div>
 
 Đây là danh sách các câu hỏi mà chúng tôi sẽ hỏi các diễn giả khách mời của mình. Cho dù bạn có kế hoạch tham dự sự kiện hay không, bạn có thể thêm câu hỏi mà bạn muốn chúng tôi hỏi. Chúng tôi yêu cầu bạn cố gắng nghĩ ra những câu hỏi ban đầu liên quan đến khách và thông tin cơ bản của họ về Tolkien. Các câu hỏi Có hoặc Không không được khuyến khích. Sau sự kiện, câu trả lời sẽ được đăng trên wiki dành cho những ai không thể tham dự sự kiện trực tiếp.
 
@@ -36,7 +36,7 @@ images:
 - Điều gì đã thôi thúc bạn bắt đầu xuất bản La Feuille?
 - Bạn có thể cho chúng tôi biết thêm về La Feuille không?
 - Bên trong La Feuille sắp tới sẽ có gì?
-- Bạn có liên hệ với Mathias Daval, chủ tịch Hiệp hội Tolkien Pháp không?
+- Bạn có liên hệ với Mathias Daval, chủ tịch Hội Tolkien Pháp không?
 - Bạn có thể cho chúng tôi biết thêm một chút về mức độ phổ biến của J.R.R. Tolkien ở quốc gia của bạn không? Ví dụ: có cộng đồng Tolkien ở Pháp không?
 - Bạn có liên hệ với Christopher hoặc Adam Tolkien không? Ở cấp độ nào?
 - Ý của bạn về việc dịch sách của Tolkien sang tiếng Pháp là gì? Vincent Ferré không đam mê nó, còn bạn thì sao?

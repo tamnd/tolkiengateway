@@ -71,7 +71,7 @@ Sau cái chết của Tolkien vào [1973](../_/1973.md), Hill đưa bài thơ ch
 
 Bài hát đã được đưa vào bản chuyển thể *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* của BBC Radio 4 (1981), với phần nhạc của Stephen Oliver. Câu đầu tiên được John Le Mesurier tụng là Bilbo, câu thứ hai bị bỏ qua và câu thứ ba được hát bởi một giọng nữ cao.
 
-Năm 1996, bài hát được ban nhạc [Hiệp hội Tolkien Hà Lan](../U/Unquendor.md) [The Hobbitons](../T/The_Hobbitons.md) thu âm với sự cho phép của [Tolkien Estate](../T/Tolkien_Estate.md) cho CD *J.R.R. Tolkien's Songs from Middle-earth* của họ.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Năm 1996, bài hát được ban nhạc [Hội Tolkien Hà Lan](../U/Unquendor.md) [The Hobbitons](../T/The_Hobbitons.md) thu âm với sự cho phép của [Tolkien Estate](../T/Tolkien_Estate.md) cho CD *J.R.R. Tolkien's Songs from Middle-earth* của họ.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 Bản quyền bài thơ đã được Tolkien trao cho Hill cùng với chính bài thơ. Sau khi bà qua đời vào năm 1991, Hill đã trao bản quyền cho <a class="extiw" href="http://en.wikipedia.org/wiki/Order_of_the_Holy_Paraclete" title="wikipedia:Order of the Holy Paraclete">Order of the Holy Paraclete</a>. Các minh họa của Baynes cho *Bilbo's Last Song* không được đưa vào di sản của Dòng nhưng đã được trao cho <a class="extiw" href="http://en.wikipedia.org/wiki/Williams-Exeter_Programme_at_Oxford" title="wikipedia:Williams-Exeter Programme at Oxford">Chương trình Williams-Exeter tại Oxford</a> sau khi bà qua đời vào năm 2008.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
@@ -150,7 +150,7 @@ Tôi thấy Ngôi sao phía trên cột buồm của bạn!
 		</li>
 </ul>
 
-- [George Allen và Unwin](../G/George_Allen_and_Unwin.md), áp phích ([1974](../_/1974.md))
+- [George Allen and Unwin](../G/George_Allen_and_Unwin.md), áp phích ([1974](../_/1974.md))
 - [Giải phóng Hyman](../U/Unwin_Hyman.md), bìa cứng ([1990](../_/1990.md)), trang 32. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0044407289">ISBN 0044407289</a>
 - Sách Red Fox/Arrow, bìa mềm ([1992](../_/1992.md)) <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0099910209">ISBN 0099910209</a>
 - Albert House Press, tập sách nhỏ bìa bìa ([1992](../_/1992.md))

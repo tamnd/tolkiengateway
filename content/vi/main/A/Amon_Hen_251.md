@@ -53,7 +53,7 @@ infobox:
 - Nội dung
 - Thông báo
 - Thông báo ĐHĐCĐ
-Thông báo - [Tolkien Ngày đọc sách](../T/Tolkien_Reading_Day.md)
+Thông báo - [Ngày đọc Tolkien sách](../T/Tolkien_Reading_Day.md)
 - Sự đốt cháy Palantír 9
     - Bởi: Ian Collier
 - Tất cả Bran

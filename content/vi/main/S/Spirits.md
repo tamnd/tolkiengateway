@@ -25,7 +25,7 @@ images:
 
 ### Ainur {#Ainur}
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../A/Ainur.md" title="Ainur">Ainur</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="../A/Ainur.md" title="Ainur">Ainur</a></b></div></div>
 
 Trước [Eä](../E/Eä.md), [Eru](../I/Ilúvatar.md) [đã tạo ra](../C/Creation_of_the_Ainur.md) những linh hồn được gọi là [Ainur](../A/Ainur.md), Thánh nhân. Cái lớn hơn được gọi là [Valar](../V/Valar.md) và cái nhỏ hơn là [Maiar](../M/Maiar.md).<sup id="cite_ref-SII_2-0" class="reference"><a href="#cite_note-SII-2">[2]</a></sup>
 
@@ -96,7 +96,7 @@ Trong bản thảo của *[In the House of Tom Bombadil](../I/In_the_House_of_To
 <tr>
 <td align="right" style="background: var(--tg-color-surface-4); width: 110px; padding-right: 4px;" rowspan="2"><b>Khái niệm và địa điểm</b>
 </td>
-<td style="font-size: 90%; padding-left: 4px;" colspan="2"><a href="../A/Almaren.md" title="Almaren">Almaren</a> · <a href="../A/Aratar.md" title="Aratar">Aratar</a> (được chỉ định trong <i>italics</i>) · <a href="../C/Creation_of_the_Ainur.md" title="Creation of the Ainur">Sự tạo ra Ainur</a> · <a href="../F/Fana.md" title="Fana">Fana</a> · <a href="../M/Máhanaxar.md" title="Máhanaxar">Máhanaxar</a> · <a href="../M/Music_of_the_Ainur.md" title="Music of the Ainur">Ainulindalë</a> · <a class="mw-redirect" href="../O/Order_of_Wizards.md" title="Order of Wizards">Thứ tự của Pháp sư</a> (được chỉ định trong <b>bold</b>) · <a href="Second_Music_of_the_Ainur.md" title="Second Music of the Ainur">Kỷ Đệ Nhị Âm nhạc của các Ainur</a> · <a href="../T/Timeless_Halls.md" title="Timeless Halls">Hội trường vượt thời gian</a> · <a href="../V/Valarin.md" title="Valarin">Valarin</a> · <a href="../V/Valinor.md" title="Valinor">Valinor</a> · <a href="../V/Valimar.md" title="Valimar">Valimar</a>
+<td style="font-size: 90%; padding-left: 4px;" colspan="2"><a href="../A/Almaren.md" title="Almaren">Almaren</a> · <a href="../A/Aratar.md" title="Aratar">Aratar</a> (được chỉ định trong <i>italics</i>) · <a href="../C/Creation_of_the_Ainur.md" title="Creation of the Ainur">Sự tạo ra Ainur</a> · <a href="../F/Fana.md" title="Fana">Fana</a> · <a href="../M/Máhanaxar.md" title="Máhanaxar">Máhanaxar</a> · <a href="../M/Music_of_the_Ainur.md" title="Music of the Ainur">Ainulindalë</a> · <a class="mw-redirect" href="../O/Order_of_Wizards.md" title="Order of Wizards">Thứ tự của Pháp sư</a> (được chỉ định trong <b>bold</b>) · <a href="Second_Music_of_the_Ainur.md" title="Second Music of the Ainur">Âm nhạc thứ hai của các Ainur</a> · <a href="../T/Timeless_Halls.md" title="Timeless Halls">Hội trường vượt thời gian</a> · <a href="../V/Valarin.md" title="Valarin">Valarin</a> · <a href="../V/Valinor.md" title="Valinor">Valinor</a> · <a href="../V/Valimar.md" title="Valimar">Valimar</a>
 </td></tr></tbody></table>
 
 <span></span>

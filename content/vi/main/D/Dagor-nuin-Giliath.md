@@ -57,7 +57,7 @@ Force of <a href="../B/Balrogs.md" title="Balrogs">Balrogs</a></div></div></td><
 
 ## Bối cảnh {#Background}
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../F/First_Battle.md" title="First Battle">Trận chiến thứ nhất</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="../F/First_Battle.md" title="First Battle">Trận chiến thứ nhất</a></b></div></div>
 
 Morgoth đã trở lại [Trung Địa](../M/Middle-earth.md) sau khi đánh cắp [Silmarils](../S/Silmarils.md) và hủy diệt [Hai Cây của Valar](../T/Two_Trees_of_the_Valar.md). Hắn khôi phục pháo đài cũ [Angband](../A/Angband.md) và tấn công các Elves ở [Beleriand](../B/Beleriand.md) trong sự kiện được gọi là [Trận chiến đầu tiên của Beleriand](../F/First_Battle_of_Beleriand.md). Hắn chịu tổn thất nặng nề nhưng vẫn gây thiệt hại lớn cho [Sindar](../S/Sindar.md), buộc họ phải rút lui. [Falas](../F/Falas.md) bị đạo quân Orc của hắn bao vây.
 

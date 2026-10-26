@@ -41,7 +41,7 @@ infobox:
 
 <dl><dd><i>Lưu ý: Tất cả nội dung có lẽ được viết bởi John Martin trừ khi có quy định khác</i></dd></dl>
 
-- Bài biên tập (giới thiệu *Henneth Annûn* và thông báo rằng *Andúril* sẽ không còn là ấn phẩm chính thức của Hiệp hội Tolkien)
+- Bài biên tập (giới thiệu *Henneth Annûn* và thông báo rằng *Andúril* sẽ không còn là ấn phẩm chính thức của Hội Tolkien)
 - Thư của Tony Fallon, Colin (Sauron Findhorn) Dean, [Charles E. Noad](../C/Charles_E._Noad.md), John Jarrold, John B. Abbott và [Hartley Patterson](Hartley_Patterson.md)
 - "Tin tức *[Mallorn](<../M/Mallorn_(journal).md>)*"
 - "SÁCH…SÁCH…SÁCH…SÁCH…SÁCH…và vẫn còn nhiều SÁCH nữa!”

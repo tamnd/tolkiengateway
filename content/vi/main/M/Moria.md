@@ -242,7 +242,7 @@ Dạng trong [Tiếng Tiên Nguyên Thủy](../P/Primitive_Elvish.md) của *Mor
 
 <dl><dd>Đối với những người lần đầu đến đây, điều đáng ngạc nhiên là Moria trong <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i> vẫn có đông cư dân sinh sống. Trong cốt truyện nguyên bản do Turbine xây dựng, Người Lùn từ <a href="../I/Iron_Hills.md" title="Iron Hills">Dãy Đồi Sắt</a>, theo lệnh của <a href="../D/Dáin_Ironfoot.md" title="Dáin Ironfoot">Dáin Chân Sắt</a>, đến Moria ngay sau khi Fellowship đi qua để tìm hiểu số phận đoàn thám hiểm của <a href="../B/Balin.md" title="Balin">Balin</a>. Sau khi Tai Họa của Durin vừa biến mất, Orc và Goblin ở Moria rơi vào tình trạng hỗn loạn nghiêm trọng, tạo điều kiện cho Người Lùn tiến vào và lập doanh trại tại mọi giao lộ lớn. Nguồn tiếp tế mới được đưa đến qua cả cổng phía Đông lẫn cổng phía Tây, giúp đồn trú Dãy Đồi Sắt tránh bị cô lập như đoàn của Balin trước kia. Không lâu sau khi Sauron bị đánh bại vào cuối Kỷ Đệ Tam, đồn trú Dãy Đồi Sắt bị trục xuất khỏi Moria trước lực lượng đông đảo gồm Orc và các sinh vật tà ác.</dd></dl>
 
-<b>2009: <i><a href="../T/The_Lord_of_the_Rings%253A_Conquest.md" title="The Lord of the Rings: Conquest">The Lord of the Rings: Chinh phục</a></i>:</b>
+<b>2009: <i><a href="../T/The_Lord_of_the_Rings%253A_Conquest.md" title="The Lord of the Rings: Conquest">The Lord of the Rings: Conquest</a></i>:</b>
 
 <dl><dd>Một số màn chơi thuộc cả chiến dịch phe thiện lẫn phe ác đều diễn ra ở Moria.</dd></dl>
 

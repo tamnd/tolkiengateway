@@ -35,7 +35,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien đã tìm kiếm những bài thơ đi kèm "[The Adventures of Tom Bombadil](<../T/The_Adventures_of_Tom_Bombadil_(poem).md>)" cho một cuốn sách nhỏ. Anh chưa tìm thấy nhiều điều thực sự phù hợp với bài thơ Tom Bombadil. Ông đã gửi cho [Allen và Unwin](../A/Allen_and_Unwin.md) bài thơ "[Errantry](../E/Errantry.md)" và "The Man in the Mặt Trăng",<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> nhưng ông nghi ngờ về phần còn lại. Tuy nhiên, nếu họ cho rằng chúng có thể xuất bản được và có thể nhờ [Pauline Baynes](../P/Pauline_Baynes.md) minh họa thì ông sẽ rất vui.
+Tolkien đã tìm kiếm những bài thơ đi kèm "[The Adventures of Tom Bombadil](<../T/The_Adventures_of_Tom_Bombadil_(poem).md>)" cho một cuốn sách nhỏ. Anh chưa tìm thấy nhiều điều thực sự phù hợp với bài thơ Tom Bombadil. Ông đã gửi cho [Allen and Unwin](../A/Allen_and_Unwin.md) bài thơ "[Errantry](../E/Errantry.md)" và "The Man in the Mặt Trăng",<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> nhưng ông nghi ngờ về phần còn lại. Tuy nhiên, nếu họ cho rằng chúng có thể xuất bản được và có thể nhờ [Pauline Baynes](../P/Pauline_Baynes.md) minh họa thì ông sẽ rất vui.
 
 ## Lưu ý {#Note}
 

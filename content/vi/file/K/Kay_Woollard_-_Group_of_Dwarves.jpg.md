@@ -46,7 +46,7 @@ Niềm tự hào và niềm vui của ông là những chú chó mà ông mang t
 
 Dù bản chất có vẻ nghiêm nghị nhưng ông lại tươi tỉnh hơn mỗi khi nói về Tolkien. Ông đã viết một số bài thơ (tất nhiên là về Người Lùn) và một câu chuyện, nhưng tôi không có bản sao của chúng.
 
-Ông qua đời vào năm 2017, không rõ nguyên nhân. Sau khi ông qua đời, bộ sưu tập Người lùn tranh của ông biến mất và tôi không biết chúng ở đâu. Tôi đã hỏi người thừa kế của ông, anh trai ông, liệu chúng tôi có thể mua chúng của ông không, nhưng không bao giờ nhận được câu trả lời.
+Ông qua đời vào năm 2017, không rõ nguyên nhân. Sau khi ông qua đời, bộ sưu tập Người Lùn tranh của ông biến mất và tôi không biết chúng ở đâu. Tôi đã hỏi người thừa kế của ông, anh trai ông, liệu chúng tôi có thể mua chúng của ông không, nhưng không bao giờ nhận được câu trả lời.
 
 ## Giấy phép {#Licensing}
 

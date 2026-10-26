@@ -28,7 +28,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Frodo](../../main/F/Frodo_Baggins.md) đã mang [Chiếc Nhẫn Một](../../main/O/One_Ring.md) tới [Núi Diệt Vong](../../main/M/Mount_Doom.md).
+[Frodo](../../main/F/Frodo_Baggins.md) đã mang [Nhẫn Chúa](../../main/O/One_Ring.md) tới [Núi Diệt Vong](../../main/M/Mount_Doom.md).
 
 Bình luận của Phobs: "'Ngay cả người nhỏ nhất cũng có thể thay đổi vận mệnh tương lai.'" - [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md)
 

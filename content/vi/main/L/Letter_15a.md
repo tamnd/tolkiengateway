@@ -29,7 +29,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-[Allen và Unwin](../A/Allen_and_Unwin.md) đã viết thư cho Tolkien vào ngày [6 tháng Chín](../_/6_September.md), đề nghị tạm ứng cho ông 25 bảng Anh tiền bản quyền.
+[Allen and Unwin](../A/Allen_and_Unwin.md) đã viết thư cho Tolkien vào ngày [6 tháng Chín](../_/6_September.md), đề nghị tạm ứng cho ông 25 bảng Anh tiền bản quyền.
 
 Trong thư trả lời của ông Tolkien cảm ơn [Stanley Unwin](../S/Stanley_Unwin.md) về tấm séc, nói rằng nó rất đáng ngạc nhiên và đến vào thời điểm rất thuận tiện, ông hy vọng *The Hobbit* sẽ kiếm được nó. Ông nói rằng lẽ ra ông đã viết thư sớm hơn nhưng ông có nhiều mối lo lắng khác, chuyện gia đình và những điều khác. <br>
 

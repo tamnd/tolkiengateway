@@ -190,7 +190,7 @@ Trong một dịp khác, Tolkien thừa nhận rằng Ents có lẽ chịu ảnh
 
 <dl><dd>Trước khi phát hành bản mở rộng <i><a href="../T/The_Lord_of_the_Rings_Online%253A_Rise_of_Isengard.md" title="The Lord of the Rings Online: Rise of Isengard">Rise of Isengard</a></i>, Ent duy nhất xuất hiện trong trò chơi là Longbough, người có thể được tìm thấy trong Eavespires ở <a href="Evendim.md" title="Evendim">Evendim</a>.<sup id="cite_ref-44" class="reference"><a href="#cite_note-44">[42]</a></sup> Bản mở rộng <i>Rise of Isengard</i> và các bản cập nhật tiếp theo đã giới thiệu nhiều nhân vật Ent hơn, trong số đó có <a href="../Q/Quickbeam.md" title="Quickbeam">Quickbeam</a>, Gnarlstump, Thickbark, Greylimb và Twistroot. Một sinh vật tương tự Ent được gọi là <i>Bog-lurker</i>, được cho là đã hỗ trợ Ent chăm sóc cây cối.<sup id="cite_ref-45" class="reference"><a href="#cite_note-45">[43]</a></sup></dd></dl>
 
-<b>2009: <i><a href="../T/The_Lord_of_the_Rings%253A_Conquest.md" title="The Lord of the Rings: Conquest">The Lord of the Rings: Chinh phục</a></i>:</b>
+<b>2009: <i><a href="../T/The_Lord_of_the_Rings%253A_Conquest.md" title="The Lord of the Rings: Conquest">The Lord of the Rings: Conquest</a></i>:</b>
 
 <dl><dd>Ent xuất hiện trong trò chơi dưới dạng các nhân vật điều khiển được, với ngoại hình của họ dựa trên ngoại hình của <a href="../T/The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings</i> loạt phim</a>.</dd></dl>
 

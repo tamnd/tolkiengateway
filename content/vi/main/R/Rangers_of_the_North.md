@@ -37,7 +37,7 @@ Các Rangers tham gia [Aragorn](../A/Aragorn.md) trong [Rohan](Rohan.md) mặc �
 
 ## Nền {#Background}
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a class="mw-redirect" href="../M/Men_of_Arnor.md" title="Men of Arnor">Con Người của Arnor</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a class="mw-redirect" href="../M/Men_of_Arnor.md" title="Men of Arnor">Con Người của Arnor</a></b></div></div>
 
 Dúnedain của Arnor suy yếu sau khi Arnor bị chia thành ba vương quốc và các cuộc chiến tranh với [Angmar](../A/Angmar.md). [Cardolan](../C/Cardolan.md) và [Rhudaur](Rhudaur.md) nhanh chóng sụp đổ và chỉ còn vương quốc nhỏ bé [Arthedain](../A/Arthedain.md) duy trì dòng dõi quý tộc [Isildur](../I/Isildur.md). Cuối cùng, nó cũng bị phá hủy trong [Trận Fornost](../B/Battle_of_Fornost.md) và [Arvedui](../A/Arvedui.md), Vua cuối cùng của Arthedain đã bị mất tích trên biển.
 

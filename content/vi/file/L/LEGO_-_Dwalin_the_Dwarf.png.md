@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Dwalin Người lùn](../../main/D/Dwalin.md) - [LEGO](../../main/L/Lego.md) mô hình nhỏ
+[Dwalin Người Lùn](../../main/D/Dwalin.md) - [LEGO](../../main/L/Lego.md) mô hình nhỏ
 
 ## Giấy phép {#Licensing}
 

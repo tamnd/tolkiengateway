@@ -79,7 +79,7 @@ Trang này đóng vai trò là hướng dẫn cho nhiều **trang web** hữu í
 ### [Tolkien Xã hội](../T/Tolkien_Societies~67099.md) {#Tolkien_Societies}
 
 - [Hội Tolkien](../T/The_Tolkien_Society.md) — <a class="external free" href="https://www.tolkiensociety.org/" rel="noreferrer noopener" target="_blank">https://www.tolkiensociety.org/</a>
-- [Hiệp hội Tolkien Tây Ban Nha](../S/Spanish_Tolkien_Society.md) — <a class="external free" href="https://www.sociedadtolkien.org/" rel="noreferrer noopener" target="_blank">https://www.sociedadtolkien.org/</a>
+- [Hội Tolkien Tây Ban Nha](../S/Spanish_Tolkien_Society.md) — <a class="external free" href="https://www.sociedadtolkien.org/" rel="noreferrer noopener" target="_blank">https://www.sociedadtolkien.org/</a>
 - [Hội thần thoại](../M/Mythopoeic_Society.md) - <a class="external free" href="https://www.mythsoc.org/" rel="noreferrer noopener" target="_blank">https://www.mythsoc.org/</a>
     - Đã hợp nhất với [Tolkien Society of America](../T/Tolkien_Society_of_America.md) trong [1972](../_/1972.md)
 - [Arthedain (Norges Tolkienforeninn)](<../A/Arthedain_(Tolkien_Society).md>) - <a class="external free" href="https://www.arthedain.org/" rel="noreferrer noopener" target="_blank">https://www.arthedain.org/</a>

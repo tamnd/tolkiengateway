@@ -15,4 +15,4 @@ categories:
 
 Tolkien Hiệp hội
 
-- <i>Để biết danh sách các Hiệp hội Tolkien theo vị trí địa lý, hãy xem <b><a class="mw-redirect" href="../../main/T/Tolkien_Societies~67099.md" title="Tolkien Societies">Tolkien Hiệp hội</a></b></i>
+- <i>Để biết danh sách các Hội Tolkien theo vị trí địa lý, hãy xem <b><a class="mw-redirect" href="../../main/T/Tolkien_Societies~67099.md" title="Tolkien Societies">Tolkien Hiệp hội</a></b></i>

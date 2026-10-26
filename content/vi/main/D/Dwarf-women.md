@@ -61,7 +61,7 @@ Thuật ngữ <i><a class="extiw" href="http://en.wiktionary.org/wiki/dwarrowdam
 
 <b>2002: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Lord of the Rings: The Two Towers</a></i>:</b>
 
-<dl><dd>Người Lùn phụ nữ chỉ được đề cập trong Phiên bản mở rộng, trong bài phát biểu của <a href="../G/Gimli.md" title="Gimli">Gimli</a> đối với <a href="../_/Éowyn.md" title="Éowyn">Éowyn</a> liên quan đến văn hóa Người Lùn. Cuộc đối thoại thực sự tái tạo lại một số thông tin được thấy trong <a href="../A/Appendix_A.md" title="Appendix A">Appendix A</a>: Durin's Folk. Khi anh nhắc đến Con Người tin rằng không có Người Lùn nữ, <a href="../A/Aragorn.md" title="Aragorn">Aragorn</a> thì thầm giải thích bằng miệng "Là râu!" khiến Éowyn bật cười.</dd></dl>
+<dl><dd>Người Lùn phụ nữ chỉ được đề cập trong Bản mở rộng, trong bài phát biểu của <a href="../G/Gimli.md" title="Gimli">Gimli</a> đối với <a href="../_/Éowyn.md" title="Éowyn">Éowyn</a> liên quan đến văn hóa Người Lùn. Cuộc đối thoại thực sự tái tạo lại một số thông tin được thấy trong <a href="../A/Appendix_A.md" title="Appendix A">Appendix A</a>: Durin's Folk. Khi anh nhắc đến Con Người tin rằng không có Người Lùn nữ, <a href="../A/Aragorn.md" title="Aragorn">Aragorn</a> thì thầm giải thích bằng miệng "Là râu!" khiến Éowyn bật cười.</dd></dl>
 
 <b>2012: <i><a href="../T/The_Hobbit%253A_An_Unexpected_Journey.md" title="The Hobbit: An Unexpected Journey">The Hobbit: An Unexpected Journey</a></i>:</b>
 

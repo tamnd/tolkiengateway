@@ -70,7 +70,7 @@ J.R.R. tolkien đã sử dụng thuật ngữ "ngôn ngữ của Rohan" trong Ph
 
 ## Cảm hứng {#Inspiration}
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../O/Old_English.md" title="Old English">tiếng Anh cổ</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="../O/Old_English.md" title="Old English">tiếng Anh cổ</a></b></div></div>
 
 Tolkien đã biến tên trong ngôn ngữ Rohan thành tên tiếng Anh cổ hiện đại hóa.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup> Ngay cả những tên được hiện đại hóa cũng cho thấy ảnh hưởng mạnh mẽ của Anglo-Saxon. tiếng Anh cổ được cho là sẽ hiển thị dạng cổ xưa của [Westron](../W/Westron.md), được cho là được hiển thị bằng tiếng Anh hiện đại. Giải pháp này xảy ra với Tolkien vào năm 1942, khi ông đang tìm kiếm lời giải thích về tên Eddaic của người lùn đã được xuất bản trong *[The Hobbit](../T/The_Hobbit.md)*.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup>
 

@@ -149,7 +149,7 @@ Có một số tên trong những câu chuyện này Tolkien sau này được s
 		</li>
 </ul>
 
-- [George Allen và Unwin](../G/George_Allen_and_Unwin.md), bìa cứng ([1983](../_/1983.md)), trang 180. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0048290033">ISBN 0048290033</a>
+- [George Allen and Unwin](../G/George_Allen_and_Unwin.md), bìa cứng ([1983](../_/1983.md)), trang 180. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0048290033">ISBN 0048290033</a>
 - [HarperCollins](../H/HarperCollins.md) bìa mềm ([1998](../_/1998.md)), trang 192. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0261103555">ISBN 0261103555</a>
     - Ấn bản bìa mềm năm 1998, thiết lập lại vào [2006](../_/2006.md)
     - Ấn bản bìa mềm năm 2006, lần in thứ 31<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> ([2025](../_/2025.md))

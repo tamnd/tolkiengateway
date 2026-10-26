@@ -22,7 +22,7 @@ Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 - Vào mùa thu [Gandalf](../G/Gandalf.md) thăm [Frodo](../F/Frodo_Baggins.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> lần cuối cho đến [3018](Third_Age_3018.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 - Cái chết của [Rorimac Brandybuck](../R/Rorimac_Brandybuck.md).<sup id="cite_ref-Brandybuck_3-0" class="reference"><a href="#cite_note-Brandybuck-3">[3]</a></sup>
-- [Saradoc Brandybuck](../S/Saradoc_Brandybuck.md), con trai của Rorimac và [Menegilda Goold](../M/Menegilda_Goold.md), trở thành [Bậc thầy của Buckland](../M/Master_of_Buckland.md).<sup id="cite_ref-Brandybuck_3-1" class="reference"><a href="#cite_note-Brandybuck-3">[3]</a></sup>
+- [Saradoc Brandybuck](../S/Saradoc_Brandybuck.md), con trai của Rorimac và [Menegilda Goold](../M/Menegilda_Goold.md), trở thành [Chủ nhân Buckland](../M/Master_of_Buckland.md).<sup id="cite_ref-Brandybuck_3-1" class="reference"><a href="#cite_note-Brandybuck-3">[3]</a></sup>
 
 <span></span>
 

@@ -72,7 +72,7 @@ Sự kiện xảy ra vào ngày 12 tháng Chín.
 - **[1965](1965.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết thư [276](../L/Letter_276.md) và [277](../L/Letter_277.md).
 - **[1966](1966.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư cho Rose MacNamara](../L/Letter_to_Rose_MacNamara.md).
 - **[1981](1981.md)** - Tác giả và thủ thư [William Ready](../W/William_Ready.md) qua đời.
-- **[2010](2010.md)** - Tiếng Bulgaria Tolkien Lần thứ 6 của Hiệp hội Tolkien-Lễ hội ở <a class="extiw" href="http://en.wikipedia.org/wiki/Sofia" title="wikipedia:Sofia">Sofia</a>.
+- **[2010](2010.md)** - Tiếng Bulgaria Tolkien Lần thứ 6 của Hội Tolkien-Lễ hội ở <a class="extiw" href="http://en.wikipedia.org/wiki/Sofia" title="wikipedia:Sofia">Sofia</a>.
 - **[2012](2012.md)** - Phiên bản cập nhật của [Charles Dixon](../C/Charles_Dixon.md) và [ T. Wenzel](../D/David_T._Wenzel.md) của David *[The Hobbit](<../T/The_Hobbit_(comic_book).md>)* được xuất bản.
 - **[2013](2013.md)** - *[The Hobbit](../T/The_Hobbit.md)*, minh họa bởi [Jemima Catlin](../J/Jemima_Catlin.md), được xuất bản.
 - **[2013](2013.md)** - *[Tolkien Calendar 2014](../T/Tolkien_Calendar_2014.md)* được xuất bản.

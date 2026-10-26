@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Bofur Người lùn](../../main/B/Bofur.md) - [LEGO](../../main/L/Lego.md) mô hình nhỏ
+[Bofur Người Lùn](../../main/B/Bofur.md) - [LEGO](../../main/L/Lego.md) mô hình nhỏ
 
 ## Giấy phép {#Licensing}
 

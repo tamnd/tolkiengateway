@@ -32,7 +32,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien báo cáo với Waldman rằng Ngài [Stanley Unwin](../S/Stanley_Unwin.md) đã viết thư cho riêng ông để nói với ông rằng lá thư của ông đã đặt ra [Allen và Unwin](../A/Allen_and_Unwin.md) một vấn đề. Unwin đã hỏi liệu hàng triệu từ<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> có thể được chia thành ba hoặc bốn tập tương đối khép kín hay không.
+Tolkien báo cáo với Waldman rằng Ngài [Stanley Unwin](../S/Stanley_Unwin.md) đã viết thư cho riêng ông để nói với ông rằng lá thư của ông đã đặt ra [Allen and Unwin](../A/Allen_and_Unwin.md) một vấn đề. Unwin đã hỏi liệu hàng triệu từ<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> có thể được chia thành ba hoặc bốn tập tương đối khép kín hay không.
 
 Tolkien nhận thấy rằng ý kiến ​​của Unwin là khối lượng nội dung của ông không phù hợp để xuất bản, vì ông đã nhấn mạnh rằng *[The Silmarillion](../T/The_Silmarillion.md)* và *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* đi cùng nhau như một câu chuyện dài về Đồ trang sức và Nhẫn và rằng ông quyết tâm coi chúng là một chuyện dài. *The Lord of the Rings* không thể chia được ngoại trừ thành các mảnh nhân tạo. Ông đã nói với Unwin rằng ông sẽ không ngạc nhiên nếu từ chối Saga quái dị.
 

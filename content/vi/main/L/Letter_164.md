@@ -35,7 +35,7 @@ Bức thư gốc gồm hai trang.<sup id="cite_ref-1" class="reference"><a href=
 
 Tolkien phàn nàn rằng ông có nhiều công việc hơn mà ông có thể giải quyết được, cộng với công việc ở [Tập. III](../T/The_Return_of_the_King.md). Ông cảm thấy như bị nổ lốp nhưng có thể hồi sinh nếu bằng chứng cuối cùng của Vol. III đã đến. Anh đã nghe người bán sách nói rằng do chậm trễ quá lâu nên thời gian xuất bản thích hợp là muộn tháng Chín.
 
-Tolkien nghĩ rằng [Allen và Unwin](../A/Allen_and_Unwin.md) hiện có thể xuất bản ["lịch sử trước đó"](../T/The_Silmarillion.md). Ông tin rằng họ sẵn sàng hình dung ra một cuốn sách dài khoảng [Tập. Tôi](../T/The_Fellowship_of_the_Ring.md). <span></span>
+Tolkien nghĩ rằng [Allen and Unwin](../A/Allen_and_Unwin.md) hiện có thể xuất bản ["lịch sử trước đó"](../T/The_Silmarillion.md). Ông tin rằng họ sẵn sàng hình dung ra một cuốn sách dài khoảng [Tập. Tôi](../T/The_Fellowship_of_the_Ring.md). <span></span>
 
 ## Tài liệu tham khảo {#References}
 

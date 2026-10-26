@@ -21,7 +21,7 @@ images:
 Vào [28 tháng 5](../_/28_May.md) [1969](../_/1969.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho Anthony D. Howlett**.
 
 - **Chủ đề:** Thảo luận về cái tên "[Rivendell](../R/Rivendell.md)"
-- **Mô tả:** 2 trang, 8vo, c/o George Allen và Unwin \[Bournemouth\]
+- **Mô tả:** 2 trang, 8vo, c/o George Allen and Unwin \[Bournemouth\]
 - **Xuất bản:** Các đoạn trích được xuất bản trong *[Sotheby's Valuable Printed Books and Manuscripts 13 December 2001](../S/Sotheby's_Valuable_Printed_Books_and_Manuscripts_13_December_2001.md)*.
 
 ## Nội dung {#Contents}

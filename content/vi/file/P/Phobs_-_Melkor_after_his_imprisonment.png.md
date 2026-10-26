@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Melkor](../../main/M/Melkor.md) sau sự sa ngã của [Utumno](../../main/U/Utumno.md) trong [Trận chiến của các Quyền năng](../../main/B/Battle_of_the_Powers.md) và sự ăn năn của ông ta.
+[Melkor](../../main/M/Melkor.md) sau sự sa ngã của [Utumno](../../main/U/Utumno.md) trong [Trận chiến của các Quyền năng](../../main/B/Battle_of_the_Powers.md) và sự ăn năn của ông.
 
 ## Giấy phép {#Licensing}
 

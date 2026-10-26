@@ -70,7 +70,7 @@ Sự kiện xảy ra vào ngày 29 tháng 10
 - **[1938](1938.md)** - Đạo diễn [Ralph Bakshi](../R/Ralph_Bakshi.md) ra đời.
 - **[1939](1939.md)** - Nữ diễn viên [Elizabeth Moody](../E/Elizabeth_Moody.md) ra đời.
 - **[1963](1963.md)** - Diễn viên [Jed Brophy](../J/Jed_Brophy.md) ra đời.
-- **[2010](2010.md)** - Mereth Aderthad XVI, hay "EstelCon" của Hiệp hội Tolkien tiếng Tây Ban Nha ở <a class="extiw" href="http://en.wikipedia.org/wiki/Valenica" title="wikipedia:Valenica">Valenica</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Spain" title="wikipedia:Spain">Tây Ban Nha</a>.
+- **[2010](2010.md)** - Mereth Aderthad XVI, hay "EstelCon" của Hội Tolkien tiếng Tây Ban Nha ở <a class="extiw" href="http://en.wikipedia.org/wiki/Valenica" title="wikipedia:Valenica">Valenica</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Spain" title="wikipedia:Spain">Tây Ban Nha</a>.
 - **[2010](2010.md)** - *[The Lord of the Rings: Aragorn's Quest](../T/The_Lord_of_the_Rings%253A_Aragorn's_Quest.md)* được phát hành ở Châu Âu.
 
 ## Trong Arda {#In_Arda}

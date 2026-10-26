@@ -77,7 +77,7 @@ Sự kiện xảy ra vào ngày 24 tháng Chín.
 - **[2000](2000.md)** - [Oxonmoot 2000](../O/Oxonmoot_2000.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/St_Antony%27s_College,_Oxford" title="wikipedia:St Antony&#39;s College, Oxford">Đại học St Antony</a>.
 - **[2002](2002.md)** - Phiên bản GBA của *[The Fellowship of the Ring](<../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md>)* được phát hành ở Bắc Mỹ.
 - **[2010](2010.md)** - [Oxonmoot 2010](../O/Oxonmoot_2010.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Lady_Margaret_Hall,_Oxford" title="wikipedia:Lady Margaret Hall, Oxford">Lady Margaret Hall</a>.
-- **[2010](2010.md)** - Cuộc gặp mùa thu Lasse Lanta của Hiệp hội Tolkien Áo.
+- **[2010](2010.md)** - Cuộc gặp mùa thu Lasse Lanta của Hội Tolkien Áo.
 - **[2011](2011.md)** - [Oxonmoot 2011](../O/Oxonmoot_2011.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Lady_Margaret_Hall,_Oxford" title="wikipedia:Lady Margaret Hall, Oxford">Lady Margaret Hall</a>.
 - **[2017](2017.md)** - [Oxonmoot 2017](../O/Oxonmoot_2017.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/St_Antony%27s_College,_Oxford" title="wikipedia:St Antony&#39;s College, Oxford">Đại học St Antony</a>.
 

@@ -16,6 +16,6 @@ images:
   - "CdxIconArticle.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../../main/T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_-_Original_Motion_Picture_Soundtrack.md" title="The Lord of the Rings: The Return of the King - Original Motion Picture Soundtrack">The Lord of the Rings: The Return of the King - Original Motion Picture Soundtrack</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="../../main/T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_-_Original_Motion_Picture_Soundtrack.md" title="The Lord of the Rings: The Return of the King - Original Motion Picture Soundtrack">The Lord of the Rings: The Return of the King - Original Motion Picture Soundtrack</a></b></div></div>
 
 Thể loại này liệt kê tất cả các bài viết liên quan đến <i><b>The Lord of the Rings: The Return of the King - Nhạc phim gốc</b></i>.

@@ -93,7 +93,7 @@ Sáu bộ lạc Avari được nhắc đến trong [Kỷ Đệ Tam](../T/Third_A
 
 ### Ngôn ngữ {#Languages}
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="Avarin.md" title="Avarin">Avarin</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="Avarin.md" title="Avarin">Avarin</a></b></div></div>
 
 Người Avari có nhiều bộ tộc và các ngôn ngữ rất đa dạng, cách biệt sâu sắc với nhau.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[15]</a></sup> Những cái tên trên là những từ [Avarin](Avarin.md) duy nhất được các Bậc Thông thái từng nhắc đến.
 

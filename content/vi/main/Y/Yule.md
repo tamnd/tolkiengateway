@@ -40,7 +40,7 @@ Từ [Quenya](../Q/Quenya.md) cho "Yule và sự khởi đầu của sự trở 
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../T/Turuhalmë.md" title="Turuhalmë">Turuhalmë</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="../T/Turuhalmë.md" title="Turuhalmë">Turuhalmë</a></b></div></div>
 
 Trong [Gnomish](../G/Gnomish.md), một trong những quan niệm ban đầu của [Tolkien](../J/J.R.R._Tolkien.md) về ngôn ngữ [Tiên](../E/Elvish.md), từ "Yule(night), tức là Log-night" là *durufui*. *Tanfui* có nghĩa là "Đêm Yule".<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[5]</a></sup>
 

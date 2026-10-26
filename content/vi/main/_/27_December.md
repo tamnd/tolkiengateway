@@ -66,7 +66,7 @@ Sự kiện xảy ra vào ngày 27 tháng 12
 
 ## Trên Trái đất {#On_Earth}
 
-- **[1965](1965.md)** – [W.H. Auden](../W/W.H._Auden.md) phát biểu tại cuộc họp của Hiệp hội Tolkien New York.
+- **[1965](1965.md)** – [W.H. Auden](../W/W.H._Auden.md) phát biểu tại cuộc họp của Hội Tolkien New York.
 - **[1967](1967.md)** – Nghệ sĩ [Josef Madlener](../J/Josef_Madlener.md) qua đời.
 - <b><a href="2005.md" title="2005">2005</a> - <i><a href="../T/The_Lord_of_the_Rings%253A_A_Reader&#39;s_Companion.md" title="The Lord of the Rings: A Reader&#39;s Companion">The Lord of the Rings: Người bạn đồng hành của độc giả</a></i> được xuất bản.</b>
 

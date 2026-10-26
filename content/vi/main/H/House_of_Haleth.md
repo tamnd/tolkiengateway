@@ -70,7 +70,7 @@ Những người theo [Haldad](Haldad.md) và con cháu của ông sẽ trở th
 
 ### Nguồn gốc {#Origins}
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../P/Pre-Númenóreans.md" title="Pre-Númenóreans">Pre-Númenóreans</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="../P/Pre-Númenóreans.md" title="Pre-Númenóreans">Pre-Númenóreans</a></b></div></div>
 
 [Tổ tiên](../P/Pre-Númenóreans.md) của Haladin đã chuyển từ [Hildórien](Hildórien.md) sang [Phương Tây](../W/Westlands.md). Trong quá trình di chuyển, họ đã gia nhập [Drúedain](../D/Drúedain.md) gần [Dãy Núi Trắng](../W/White_Mountains.md) và ở lại với họ với những điều kiện thân thiện.<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup>
 

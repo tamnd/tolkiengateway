@@ -28,7 +28,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Aragorn](../../main/A/Aragorn.md) tìm thấy chiếc trâm cài của [Pippin](../../main/P/Peregrin_Took.md), với [Legolas](../../main/L/Legolas.md) và [Gimli](../../main/G/Gimli.md). Ảnh chụp màn hình từ [*The Lord of the Rings* (phim 1978)](<../../main/T/The_Lord_of_the_Rings_(1978_film).md>).
+[Aragorn](../../main/A/Aragorn.md) tìm thấy chiếc trâm cài của [Pippin](../../main/P/Peregrin_Took.md), với [Legolas](../../main/L/Legolas.md) và [Gimli](../../main/G/Gimli.md). Ảnh chụp màn hình từ [*The Lord of the Rings* (phim năm 1978)](<../../main/T/The_Lord_of_the_Rings_(1978_film).md>).
 
 ## Giấy phép {#Licensing}
 

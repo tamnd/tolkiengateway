@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Một bản đồ miền nam [Gondor](../../main/G/Gondor.md), như được thấy trong [*The Return of the King* (phim 1980)](<../../main/T/The_Return_of_the_King_(1980_film).md>), được sao chép lại từ *[The Return of the King](../../main/T/The_Return_of_the_King.md)*. Theo chiều kim đồng hồ, từ trên cùng bên phải, (bán) hiển thị là:
+Một bản đồ miền nam [Gondor](../../main/G/Gondor.md), như được thấy trong [*The Return of the King* (phim năm 1980)](<../../main/T/The_Return_of_the_King_(1980_film).md>), được sao chép lại từ *[The Return of the King](../../main/T/The_Return_of_the_King.md)*. Theo chiều kim đồng hồ, từ trên cùng bên phải, (bán) hiển thị là:
 
 - Sông [Sirith](../../main/S/Sirith.md)
 - [Pelargir](../../main/P/Pelargir.md)

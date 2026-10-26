@@ -28,7 +28,7 @@ file:
 
 ## Mô tả {#Description}
 
-"Người lùn Đầu sắt" của Jan Pospíšil.
+"Người Lùn Đầu sắt" của Jan Pospíšil.
 
 Ý tưởng nghệ thuật ban đầu được tạo ra cho *[The Last Days (of the Third Age of Middle-earth)](<../../main/T/The_Last_Days_(of_the_Third_Age_of_Middle-earth).md>)*, một bản mod chuyển đổi tổng thể cho các trò chơi *Mount &amp; Blade* và *Mount &amp; Blade: Warband*.
 

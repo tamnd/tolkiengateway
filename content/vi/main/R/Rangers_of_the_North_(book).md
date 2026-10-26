@@ -50,7 +50,7 @@ Gói này trình bày chi tiết về toàn bộ Vương quốc phía Bắc củ
 - cuộc phiêu lưu gần biên giới phía tây của Vua Phù thủy
 - tìm kiếm Palantiri bị thất lạc trong đống rác thải đông lạnh của Forochel
 
-Nằm giữa Dãy Núi Sương Mù hùng mạnh và Blue, Arthedain là ngôi nhà của những người trung thành với Numenor sa ngã, nơi từng là nơi sinh sống của những người đàn ông cao nhất. Các nhà tiên tri nổi tiếng tập trung tại Tòa án Hoàng gia ở Fornost để chiêm ngưỡng những hình ảnh mơ hồ về Palantir. Ở phía đông, Vua Phù thủy của Angmar đang sẵn sàng như một con sói đói, nóng lòng muốn nuốt chửng Vương quốc Dunedain cuối cùng còn sót lại.
+Nằm giữa Dãy Núi Sương Mù hùng mạnh và Blue, Arthedain là ngôi nhà của những người trung thành với Numenor sa ngã, nơi từng là nơi sinh sống của những người đàn ông cao nhất. Các nhà tiên tri nổi tiếng tập trung tại Tòa án Hoàng gia ở Fornost để chiêm ngưỡng những hình ảnh mơ hồ về Palantir. Ở phía đông, Vua Phù thủy Angmar đang sẵn sàng như một con sói đói, nóng lòng muốn nuốt chửng Vương quốc Dunedain cuối cùng còn sót lại.
 
 Chống lại mối đe dọa này, một số ít người có di sản cao quý bị che khuất bởi trang phục của biên giới. Những người đi lang thang, bí mật là những Rangers này; theo chiều gỗ như Tiên tộc. Được dạy dỗ bởi Pháp sư Gandalf và sử dụng chim và thú làm tay sai, họ canh gác và bảo vệ biên giới phía đông chống lại lực lượng của Bóng Tối.
 

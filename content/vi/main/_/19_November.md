@@ -72,7 +72,7 @@ Sự kiện xảy ra vào ngày 19 tháng 11
 - <b><a href="1979.md" title="1979">1979</a> - <i><a href="../P/Pictures_by_J.R.R._Tolkien.md" title="Pictures by J.R.R. Tolkien">Ảnh của J.R.R. Tolkien</a></i> được xuất bản ở Mỹ.</b>
 - **[2001](2001.md)** - *[Meditations on Middle-earth](../M/Meditations_on_Middle-earth.md)* được xuất bản.
 - **[2007](2007.md)** - *[The Children of Húrin Signed Limited Edition](../T/The_Children_of_Húrin_Signed_Limited_Edition.md)* được xuất bản.
-- **[2012](2012.md)** - [Tolkien Estate](../T/Tolkien_Estate.md), [The Tolkien Trust](../T/The_Tolkien_Trust.md) và [HarperCollins](../H/HarperCollins.md) đệ đơn kiện khác với [New Line Cinema](../N/New_Line_Cinema.md) và [Công ty Saul Zaentz](../S/Saul_Zaentz_Company.md) về quyền buôn bán.
+- **[2012](2012.md)** - [Tolkien Estate](../T/Tolkien_Estate.md), [The Tolkien Trust](../T/The_Tolkien_Trust.md) và [HarperCollins](../H/HarperCollins.md) đệ đơn kiện khác với [New Line Cinema](../N/New_Line_Cinema.md) và [Saul Zaentz Company](../S/Saul_Zaentz_Company.md) về quyền buôn bán.
 
 ## Trong Arda {#In_Arda}
 

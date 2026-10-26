@@ -56,7 +56,7 @@ infobox:
 - Thông báo
 Thông báo - [Oxonmoot](../O/Oxonmoot.md)
 - Ngày ghi nhật ký của bạn
-- Lời mời của Mereth Adethad (Sự kiện của Hiệp hội Tolkien tiếng Slovakia)
+- Lời mời của Mereth Adethad (Sự kiện của Hội Tolkien tiếng Slovakia)
 - [Sảnh lửa](../H/Hall_of_Fire.md)
     - Bởi: Lynn Forest-Hill
 - Fraser trên Tolkien
@@ -91,7 +91,7 @@ Thông báo - [Oxonmoot](../O/Oxonmoot.md)
 - [Quốc tế](../I/International_Tolkien_Fellowship.md) Sự kiện sắp tới
     - Bởi: Susan Frances Edwards
 - Thư
-- Tác phẩm: Tolkien Ngày đọc sách
+- Tác phẩm: Ngày đọc Tolkien sách
     - Bởi: [Jef Murray](../J/Jef_Murray.md)
 - Góc của Jessica
     - Bởi: Jessica Yates

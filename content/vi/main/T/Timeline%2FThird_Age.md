@@ -18,7 +18,7 @@ images:
   - "CdxIconArticle.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="Timeline.md" title="Timeline">Dòng thời gian</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="Timeline.md" title="Timeline">Dòng thời gian</a></b></div></div>
 
 ## [Kỷ Đệ Tam](Third_Age.md) {#Third_Age}
 
@@ -695,7 +695,7 @@ images:
 <tr>
 <td><a href="Third_Age_1981.md" title="Third Age 1981">1981</a></td>
 <td>381</td>
-<td>Cái chết của <a href="../N/Náin_I.md" title="Náin I">Náin I</a>. <b><a href="../D/Dwarves.md" title="Dwarves">Người Lùn</a> bỏ trốn <a href="../M/Moria.md" title="Moria">Moria</a>.</b> Cái chết của <a href="../A/Amroth.md" title="Amroth">Amroth</a> và <a href="../N/Nimrodel.md" title="Nimrodel">Nimrodel</a>. <a href="../S/Silvan_Elves.md" title="Silvan Elves">Silvan Tiên tộc</a> chạy trốn về phía nam.<sup id="cite_ref-TA_2-42" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> <a href="../G/Galadriel.md" title="Galadriel">Galadriel</a> và <a class="mw-redirect" href="../C/Celeborn_(Lord_of_Lórien).md" title="Celeborn (Lord of Lórien)">Celeborn</a> quay trở lại <a href="../L/Lothlórien.md" title="Lothlórien">Laurelindórenan</a>.
+<td>Cái chết của <a href="../N/Náin_I.md" title="Náin I">Náin I</a>. <b><a href="../D/Dwarves.md" title="Dwarves">Người Lùn</a> bỏ trốn <a href="../M/Moria.md" title="Moria">Moria</a>.</b> Cái chết của <a href="../A/Amroth.md" title="Amroth">Amroth</a> và <a href="../N/Nimrodel.md" title="Nimrodel">Nimrodel</a>. <a href="../S/Silvan_Elves.md" title="Silvan Elves">Tiên tộc Silvan</a> chạy trốn về phía nam.<sup id="cite_ref-TA_2-42" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> <a href="../G/Galadriel.md" title="Galadriel">Galadriel</a> và <a class="mw-redirect" href="../C/Celeborn_(Lord_of_Lórien).md" title="Celeborn (Lord of Lórien)">Celeborn</a> quay trở lại <a href="../L/Lothlórien.md" title="Lothlórien">Laurelindórenan</a>.
 </td></tr>
 <tr>
 <td><a href="Third_Age_1998.md" title="Third Age 1998">1998</a></td>
@@ -2220,7 +2220,7 @@ images:
 <tr>
 <td><a href="Third_Age_2963.md" title="Third Age 2963">2963</a></td>
 <td>1363</td>
-<td>Sự ra đời của <a href="Théodwyn.md" title="Théodwyn">Théodwyn</a>. Cái chết của <a class="mw-redirect" href="../L/Linda_Proudfoot.md" title="Linda Proudfoot">Linda Baggins</a> (<a href="../P/Proudfoot_Family.md" title="Proudfoot Family">Proudfoot</a>) và <a href="../G/Gorbadoc_Brandybuck.md" title="Gorbadoc Brandybuck">Gorbadoc Brandybuck</a>. <a href="../R/Rorimac_Brandybuck.md" title="Rorimac Brandybuck">Rorimac Brandybuck</a> trở thành <a href="../M/Master_of_Buckland.md" title="Master of Buckland">Bậc thầy của Buckland</a>.<sup id="cite_ref-Brandybuck_15-20" class="reference"><a href="#cite_note-Brandybuck-15">[14]</a></sup>
+<td>Sự ra đời của <a href="Théodwyn.md" title="Théodwyn">Théodwyn</a>. Cái chết của <a class="mw-redirect" href="../L/Linda_Proudfoot.md" title="Linda Proudfoot">Linda Baggins</a> (<a href="../P/Proudfoot_Family.md" title="Proudfoot Family">Proudfoot</a>) và <a href="../G/Gorbadoc_Brandybuck.md" title="Gorbadoc Brandybuck">Gorbadoc Brandybuck</a>. <a href="../R/Rorimac_Brandybuck.md" title="Rorimac Brandybuck">Rorimac Brandybuck</a> trở thành <a href="../M/Master_of_Buckland.md" title="Master of Buckland">Chủ nhân Buckland</a>.<sup id="cite_ref-Brandybuck_15-20" class="reference"><a href="#cite_note-Brandybuck-15">[14]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2964.md" title="Third Age 2964">2964</a></td>

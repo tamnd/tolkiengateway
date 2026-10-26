@@ -29,7 +29,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/O/Other_hands.gif.md"><img src="https://tolkiengateway.net/w/images/e/e9/Other_hands.gif" decoding="async" loading="lazy" width="150" height="81" class="mw-file-element" data-file-width="150" data-file-height="81"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Other Hands</span></th></tr><tr><th scope="row" class="tg-infobox-label">Biên tập viên gần nhất</th><td class="tg-infobox-data"><a href="../C/Chris_Seeman.md" title="Chris Seeman">Chris Seeman</a></td></tr><tr><th scope="row" class="tg-infobox-label">Số mới nhất</th><td class="tg-infobox-data"><a href="Other_Hands_33%252F34.md" title="Other Hands 33/34">33/34</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin xuất bản</span></th></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">1081-8359</td></tr></tbody></table>
 
-**Những bàn tay khác** là tạp chí chính thức dành cho *[Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)*. Tạp chí do [Chris Seeman](../C/Chris_Seeman.md) biên tập và tiếp tục được xuất bản cho đến năm 2001, hai năm sau khi [Vương miện Sắt Enterprises](../I/Iron_Crown_Enterprises.md) mất giấy phép tạo ra các sản phẩm trò chơi liên quan đến huyền thoại của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Trong thời gian sản xuất cuối cùng, *Other Hands* chỉ được xuất bản dưới dạng tài nguyên internet trên trang web của mình.
+**Other Hands** là tạp chí chính thức dành cho *[Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)*. Tạp chí do [Chris Seeman](../C/Chris_Seeman.md) biên tập và tiếp tục được xuất bản cho đến năm 2001, hai năm sau khi [Iron Crown Enterprises](../I/Iron_Crown_Enterprises.md) mất giấy phép tạo ra các sản phẩm trò chơi liên quan đến huyền thoại của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Trong thời gian sản xuất cuối cùng, *Other Hands* chỉ được xuất bản dưới dạng tài nguyên internet trên trang web của mình.
 
 ## Vấn đề {#Issues}
 
@@ -64,9 +64,9 @@ infobox:
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="https://www.otherminds.net/download/other-hands" rel="noreferrer noopener" target="_blank"><i>Những bàn tay khác</i> Trang web mới</a>
+- <a class="external text" href="https://www.otherminds.net/download/other-hands" rel="noreferrer noopener" target="_blank"><i>Other Hands</i> Trang web mới</a>
 
-- <a class="external text" href="http://www.invasivedesigns.com/otherhands/" rel="noreferrer noopener" target="_blank"><i>Những bàn tay khác</i> trang web cũ</a>
+- <a class="external text" href="http://www.invasivedesigns.com/otherhands/" rel="noreferrer noopener" target="_blank"><i>Other Hands</i> trang web cũ</a>
 
 ## Xem thêm {#See_also}
 

@@ -21,22 +21,22 @@ Dưới đây là danh sách các **Tolkien Hiệp hội**.
     - [Hội thần thoại](../M/Mythopoeic_Society.md) (hoạt động)
     - [Tolkien Nhóm lợi ích đặc biệt của Mensa](../A/American_Mensa_Tolkien_Special_Interest_Group.md) (hoạt động)
     - [Đại học Wisconsin Tolkien và Hiệp hội Ảo](../U/University_of_Wisconsin_Tolkien_and_Fantasy_Society.md) (hoạt động)
-    - Mexico: [Hiệp hội Tolkien Mexico](../M/Mexican_Tolkien_Society.md) (hoạt động)
+    - Mexico: [Hội Tolkien Mexico](../M/Mexican_Tolkien_Society.md) (hoạt động)
     - Những người bạn của JRR khu vực NYC Tolkien (hoạt động)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 - *South America*
-    - Argentina: [Hiệp hội Tolkien Argentina](../A/Argentine_Tolkien_Association.md) (hoạt động)
+    - Argentina: [Hội Tolkien Argentina](../A/Argentine_Tolkien_Association.md) (hoạt động)
     - Brazil:
         - [Conselho Branco, Sociedade Tolkien](../C/Conselho_Branco,_Sociedade_Tolkien.md) (hoạt động)
-        - [Hiệp hội Tolkien Brazil](The_Brazilian_Tolkien_Society.md) (hoạt động)
+        - [Hội Tolkien Brazil](The_Brazilian_Tolkien_Society.md) (hoạt động)
     - Chile: [Sociedad Tolkien Chilena](../S/Sociedad_Tolkien_Chilena.md) (bán không hoạt động: hoạt động cuối cùng từ năm 2020)
     - Colombia: [Sociedad Tolkien Colombia Orodruin](../S/Sociedad_Tolkien_Colombia_Orodruin.md) (hoạt động)
     - Peru: [Sociedad Tolkien Peruana](../S/Sociedad_Tolkien_Peruana.md) (hoạt động)
     - Uruguay: [Sociedad Tolkien Uruguaya](../S/Sociedad_Tolkien_Uruguaya.md) (hoạt động)
 
 - *Europe*
-    - Áo: [Hiệp hội Tolkien Áo](../A/Austrian_Tolkien_Society.md) (hoạt động)
-    - Cộng hòa Séc: [Hiệp hội Tolkien Séc](../C/Czech_Tolkien_Society.md) (đang hoạt động)
+    - Áo: [Hội Tolkien Áo](../A/Austrian_Tolkien_Society.md) (hoạt động)
+    - Cộng hòa Séc: [Hội Tolkien Séc](../C/Czech_Tolkien_Society.md) (đang hoạt động)
     - Đan Mạch:
         - [Bri, Tolkienselskabet i København](../B/Bri,_Tolkienselskabet_i_København.md) (đang hoạt động)
         - [Imladris, Danmarks Tolkienforening](../I/Imladris,_Danmarks_Tolkienforening.md) (bán không hoạt động)
@@ -47,7 +47,7 @@ Dưới đây là danh sách các **Tolkien Hiệp hội**.
     - Hy Lạp: [Ellinikós Sýllogos Philon Tólkin](../E/Ellinikós_Sýllogos_Philon_Tólkin.md) (đang hoạt động)
     - Hungary: [Xã hội Tolkien Hungary](../H/Hungarian_Tolkien_Society.md) (hoạt động)
     - Ý:
-        - [Hiệp hội Tolkien Ý](../S/Società_Tolkieniana_Italiana.md) (hoạt động)
+        - [Hội Tolkien Ý](../S/Società_Tolkieniana_Italiana.md) (hoạt động)
         - [Hiệp hội nghiên cứu Tolkien Ý](../A/Associazione_italiana_studi_Tolkieniani~65383.md) (đang hoạt động)
     - Lithuania: [Tolkien Lietuva](Tolkien_Lietuva.md) (hoạt động)
     - Hà Lan:
@@ -57,7 +57,7 @@ Dưới đây là danh sách các **Tolkien Hiệp hội**.
     - Ba Lan: [Parmadili*, Sekcja Tolkienowska Śląskiego Klubu Fantastyki*](../S/Sekcja_Tolkienowska_ŚKF.md) (đang hoạt động)
     - Nga: [St Petersburg Tolkien Hiệp hội](../S/St_Petersburg_Tolkien_Society.md) (hoạt động)
     - Slovenia: [Gil-galad](<../G/Gil-Galad_(Tolkien_Society).md>) (đang hoạt động)
-    - Tây Ban Nha: [Hiệp hội Tolkien tiếng Tây Ban Nha](../S/Spanish_Tolkien_Society.md) (hoạt động)
+    - Tây Ban Nha: [Hội Tolkien tiếng Tây Ban Nha](../S/Spanish_Tolkien_Society.md) (hoạt động)
     - Thụy Điển:
         - [Angmar, Malmö Tolkiensällskap](../A/Angmar,_Malmö_Tolkiensällskap.md) (đang hoạt động)
         - [Forodrim, Stockholms Tolkiensällskap](../F/Forodrim.md) (đang hoạt động)
@@ -70,7 +70,7 @@ Dưới đây là danh sách các **Tolkien Hiệp hội**.
 
 - *Asia Pacific*
     - Nhật Bản: [Shiro no Norite](../S/Shiro_no_Norite.md) (không rõ)
-    - Israel: [Hiệp hội Tolkien Israel](../I/Israeli_Tolkien_Society.md) (hoạt động)
+    - Israel: [Hội Tolkien Israel](../I/Israeli_Tolkien_Society.md) (hoạt động)
     - Úc: [Hern Ennorath](../H/Hern_Ennorath.md) (đang hoạt động)
 
 ## Không còn tồn tại kể từ năm 2023 {#Defunct_as_of_2023}
@@ -78,7 +78,7 @@ Dưới đây là danh sách các **Tolkien Hiệp hội**.
 - *North America*
     - [Hiệp hội Idaho và Montana Tolkien](../I/Idaho_and_Montana_Tolkien_Society.md)
     - [Xã hội Tolkien Mỹ](../A/American_Tolkien_Society.md)
-    - [Hiệp hội Tolkien New England](../N/New_England_Tolkien_Society.md)
+    - [Hội Tolkien New England](../N/New_England_Tolkien_Society.md)
     - [Bắc phương Đông Tolkien Xã hội](../N/North_East_Tolkien_Society.md)
     - [Giải đấu Tolkien Quốc gia](The_National_Tolkien_League.md)
     - [Tolkien Society of America](Tolkien_Society_of_America.md) (được sáp nhập với [Hiệp hội thần thoại](../M/Mythopoeic_Society.md))
@@ -106,13 +106,13 @@ Dưới đây là danh sách các **Tolkien Hiệp hội**.
         - [Osgiliath, Västerås Tolkiensällskap](../O/Osgiliath,_Västerås_Tolkiensällskap.md)
         - [Galadhon, Lunds Tolkiensällskap](../G/Galadhon,_Lunds_Tolkiensällskap.md)
     - Thụy Sĩ:
-        - [Hiệp hội Tolkien Thụy Sĩ](../E/Eredain.md)
+        - [Hội Tolkien Thụy Sĩ](../E/Eredain.md)
         - Thụy Sĩ: [Hiệp hội Tolkieniana Thụy Sĩ Nụ cười của Ticino](../S/Society_Tolkieniana_Switzerland_Smial_of_the_Ticino.md)
 
 - *Asia Pacific*
     - Úc: [Hiệp hội văn học thần thoại](../M/Mythopoeic_Literature_Society.md)
     - Malaysia: [Xã hội Frodo Bắc Borneo](../N/North_Borneo_Frodo_Society.md)
-    - Philippines: [Hiệp hội Tolkien Philippines](../P/Philippine_Tolkien_Society.md)
+    - Philippines: [Hội Tolkien Philippines](../P/Philippine_Tolkien_Society.md)
 
 - *Africa*
     - Nam Phi: [Haradrim](<../H/Haradrim_(Tolkien_Society).md>)

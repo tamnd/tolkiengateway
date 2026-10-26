@@ -16,7 +16,7 @@ categories:
 
 ## Lịch sử {#History}
 
-Hội được thành lập vào [24 tháng 7](../_/24_July.md) [1999](../_/1999.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> bởi Guillermo Correa (1944-2020) và Alejandro Botero tại <a class="extiw" href="http://en.wikipedia.org/wiki/Medell%C3%ADn" title="wikipedia:Medellín">Medellín</a>. Ban đầu, họ muốn tham gia [Hiệp hội Tolkien Tây Ban Nha](Spanish_Tolkien_Society.md), nhưng thay vào đó họ được khuyến khích thành lập hiệp hội của riêng mình.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Hội được thành lập vào [24 tháng 7](../_/24_July.md) [1999](../_/1999.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> bởi Guillermo Correa (1944-2020) và Alejandro Botero tại <a class="extiw" href="http://en.wikipedia.org/wiki/Medell%C3%ADn" title="wikipedia:Medellín">Medellín</a>. Ban đầu, họ muốn tham gia [Hội Tolkien Tây Ban Nha](Spanish_Tolkien_Society.md), nhưng thay vào đó họ được khuyến khích thành lập hiệp hội của riêng mình.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Ấn phẩm {#Publications}
 

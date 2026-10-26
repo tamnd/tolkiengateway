@@ -38,8 +38,8 @@ images:
 
 - *Fangorn*, tập đầu tiên của nửa sau (và tổng thể thứ bảy) của [The Lord of the Rings (1955 radio series)](<../T/The_Lord_of_the_Rings_(1955_radio_series).md>), phát sóng [ngày 19 tháng 11](../_/19_November.md), [1956](../_/1956.md).
 - <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Treebeard_Of_Fangorn&amp;action=edit&amp;redlink=1" title="Treebeard Of Fangorn (page does not exist)">Treebeard Của Fangorn</a></i>, tập thứ mười hai của [*The Lord of the Rings* (loạt phim phát thanh năm 1981)](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>), phát sóng [24 tháng 5](../_/24_May.md), [1981](../_/1981.md).
-- *[Night Camp at Fangorn](../N/Night_Camp_at_Fangorn.md)*, cảnh thứ mười của [Phiên bản mở rộng](<../T/The_Lord_of_the_Rings%253A_The_Two_Towers_(extended_edition).md>) của *[The Lord of the Rings: The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)*.
-- *[Fangorn comes to Helm's Deep](Fangorn_Comes_to_Helm's_Deep.md)*, cảnh thứ 61 của [Phiên bản mở rộng](<../T/The_Lord_of_the_Rings%253A_The_Two_Towers_(extended_edition).md>) của *[The Lord of the Rings: The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)*.
+- *[Night Camp at Fangorn](../N/Night_Camp_at_Fangorn.md)*, cảnh thứ mười của [Bản mở rộng](<../T/The_Lord_of_the_Rings%253A_The_Two_Towers_(extended_edition).md>) của *[The Lord of the Rings: The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)*.
+- *[Fangorn comes to Helm's Deep](Fangorn_Comes_to_Helm's_Deep.md)*, cảnh thứ 61 của [Bản mở rộng](<../T/The_Lord_of_the_Rings%253A_The_Two_Towers_(extended_edition).md>) của *[The Lord of the Rings: The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)*.
 - "[Fangorn (bài hát)](<Fangorn_(soundtrack).md>)", bài hát thứ mười của Đĩa 1 của *[The Lord of the Rings: The Two Towers - The Complete Recordings](../T/The_Lord_of_the_Rings%253A_The_Two_Towers_-_The_Complete_Recordings.md)*.
 
 ## Cộng đồng người hâm mộ {#Fandom}

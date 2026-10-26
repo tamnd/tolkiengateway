@@ -36,7 +36,7 @@ infobox:
 
 ## Sự nghiệp {#Career}
 
-Sau khi theo học tại Học viện Mỹ thuật Pennsylvania và tại [Ý](../I/Italy.md) *Accademia di Belle Arti di Firenze*, cô là người học việc của nhà điêu khắc <a class="extiw" href="http://en.wikipedia.org/wiki/Antonio_Berti_(sculptor)" title="wikipedia:Antonio Berti (sculptor)">Antonio Berti</a>. Khi trở về Hoa Kỳ, cuối cùng cô làm việc cho [Vương miện Sắt Enterprises](../I/Iron_Crown_Enterprises.md).<sup id="cite_ref-blackgate_1-2" class="reference"><a href="#cite_note-blackgate-1">[1]</a></sup>
+Sau khi theo học tại Học viện Mỹ thuật Pennsylvania và tại [Ý](../I/Italy.md) *Accademia di Belle Arti di Firenze*, cô là người học việc của nhà điêu khắc <a class="extiw" href="http://en.wikipedia.org/wiki/Antonio_Berti_(sculptor)" title="wikipedia:Antonio Berti (sculptor)">Antonio Berti</a>. Khi trở về Hoa Kỳ, cuối cùng cô làm việc cho [Iron Crown Enterprises](../I/Iron_Crown_Enterprises.md).<sup id="cite_ref-blackgate_1-2" class="reference"><a href="#cite_note-blackgate-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}
 

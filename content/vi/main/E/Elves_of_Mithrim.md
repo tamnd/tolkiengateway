@@ -48,7 +48,7 @@ Sau [Nirnaeth Arnoediad](../N/Nirnaeth_Arnoediad.md), họ đã che chở cho [R
 
 ## Ngôn ngữ {#Language}
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../N/North_Sindarin.md" title="North Sindarin">Bắc Sindarin</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="../N/North_Sindarin.md" title="North Sindarin">Bắc Sindarin</a></b></div></div>
 
 Tiên tộc Mithrim nói một phương ngữ rõ ràng của [Sindarin](../S/Sindarin.md).<sup id="cite_ref-Author_8-0" class="reference"><a href="#cite_note-Author-8">[8]</a></sup>
 

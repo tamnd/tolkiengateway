@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Kili Người lùn](../../main/K/Kíli.md) - [LEGO](../../main/L/Lego.md) mô hình nhỏ. Nguồn: <a class="external text" href="https://brickset.com/minifigs/lor037/kili-the-dwarf" rel="noreferrer noopener" target="_blank">Gạch</a>
+[Kili Người Lùn](../../main/K/Kíli.md) - [LEGO](../../main/L/Lego.md) mô hình nhỏ. Nguồn: <a class="external text" href="https://brickset.com/minifigs/lor037/kili-the-dwarf" rel="noreferrer noopener" target="_blank">Gạch</a>
 
 ## Giấy phép {#Licensing}
 

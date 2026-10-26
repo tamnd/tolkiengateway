@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-*[Lord of the Rings Poster Map](../../main/L/Lord_of_the_Rings_Poster_Map.md)*, được xuất bản bởi [Vương miện Sắt Enterprises](../../main/I/Iron_Crown_Enterprises.md).
+*[Lord of the Rings Poster Map](../../main/L/Lord_of_the_Rings_Poster_Map.md)*, được xuất bản bởi [Iron Crown Enterprises](../../main/I/Iron_Crown_Enterprises.md).
 
 ## Giấy phép {#Licensing}
 

@@ -29,7 +29,7 @@ file:
 [Vorondil](../../main/V/Vorondil.md) - *[Mithril Miniatures](../../main/M/Mithril_Miniatures.md)*<br> Mô tả sản phẩm:
 
 <div class="poem">
-<p>The last steward of Gondor to serve under a king, Vorondil was renowned above all as a great hunter. His hunting prowess  was  legendary and  he led expeditions even as far as the plains of Rhun  in search of the wild kine of that land. His son Mardil became the first of the ruling stewards of Gondor. Vorondil bore a great hunting horn which, after him, was passed down from all the future ruling stewards to their eldest sons.<br/>
+<p>The last steward of Gondor to serve under a king, Vorondil was renowned above all as a great hunter. His hunting prowess was legendary and he led expeditions even as far as the plains of Rhun in search of the wild kine of that land. His son Mardil became the first of the ruling stewards of Gondor. Vorondil bore a great hunting horn which, after him, was passed down from all the future ruling stewards to their eldest sons.<br/>
 This is the 107th release in the Gold Status Fellowship club and was September 2014&#39;s Winning idea. It was suggested by &#39;luthien4tinuvielle&#39;. 32mm in height from base to top of Vorondil&#39;s head.
 </p>
 </div>

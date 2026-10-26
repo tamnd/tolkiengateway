@@ -124,7 +124,7 @@ Từ đó dẫn đến [cuộc phân ly đầu tiên của người Elves](../S/
 
 ### Cuộc Đại Hành Trình {#Great_March}
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../G/Great_Journey.md" title="Great Journey">Đại Hành Trình</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="../G/Great_Journey.md" title="Great Journey">Đại Hành Trình</a></b></div></div>
 
 Các Eldar do đó bắt đầu Đại Hành Trình của mình và lên đường thành ba đoàn, mỗi đoàn thuộc một tộc. Đi đầu là dân của Ingwë, người [Vanyar](../V/Vanyar.md); tiếp theo là dân của Finwë, người Noldor; và cuối cùng là dân của Elwë, người [Teleri](../T/Teleri.md). Teleri là đoàn đông đảo nhất, vì thế họ có hai vị thủ lĩnh, cả Elwë lẫn em trai ông là [Olwë](../O/Olwë.md). Oromë cưỡi ngựa đi trước tất cả. <sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[13]</a></sup>
 
@@ -178,7 +178,7 @@ Tuy Fëanor xa cách Indis và các con của nàng, điều đó không làm su
 
 ### Bất ổn của người Noldor {#Unrest_of_the_Noldor}
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a class="mw-redirect" href="../U/Unrest_of_the_Noldor.md" title="Unrest of the Noldor">Tình trạng bất ổn Noldor</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a class="mw-redirect" href="../U/Unrest_of_the_Noldor.md" title="Unrest of the Noldor">Tình trạng bất ổn Noldor</a></b></div></div>
 
 Trong một thời gian, người Noldor tiếp tục sinh sống tại Aman trong hạnh phúc. Các nghệ nhân Noldor lao động với niềm vui thích, không hề nghĩ rằng công việc của mình sẽ có ngày kết thúc, trong khi Fëanor trở thành người tinh tế nhất về trí tuệ và khéo léo nhất về đôi tay trong số tất cả bọn họ, cả vào thời điểm ấy lẫn về sau. Các con trai của Finwë với Indis cũng dần trưởng thành đến vóc dáng hoàn chỉnh.<sup id="cite_ref-s_feanor_25-0" class="reference"><a href="#cite_note-s_feanor-25">[24]</a></sup> Trong thời kỳ hạnh phúc này, gia tộc Finwë phát triển mạnh mẽ, với nhiều cháu nội thông qua [Gia tộc Fëanor](../H/House_of_Fëanor.md) (bao gồm cả [bảy người con trai](../S/Sons_of_Fëanor.md) chưa từng có tiền lệ của Fëanor), [Gia tộc Fingolfin](../H/House_of_Fingolfin.md) và [Gia tộc Finarfin](../H/House_of_Finarfin.md).
 

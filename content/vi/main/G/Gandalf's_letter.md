@@ -26,7 +26,7 @@ images:
 
 ## Nền {#Background}
 
-Gandalf đã nói với Frodo rằng họ nên mang [Chiếc Nhẫn Một](../T/The_One_Ring.md) đến [Rivendell](../R/Rivendell.md); ông hứa sẽ quay lại Hobbiton vào cuối tháng Chín khi họ rời đi. Ông khuyên anh nên lấy tên "[Mr. Underhill](../M/Mr._Underhill.md)" khi ra ngoài [Shire](../T/The_Shire.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Gandalf đã nói với Frodo rằng họ nên mang [Nhẫn Chúa](../T/The_One_Ring.md) đến [Rivendell](../R/Rivendell.md); ông hứa sẽ quay lại Hobbiton vào cuối tháng Chín khi họ rời đi. Ông khuyên anh nên lấy tên "[Mr. Underhill](../M/Mr._Underhill.md)" khi ra ngoài [Shire](../T/The_Shire.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 Đó là [Ngày giữa năm](../M/Mid-year's_Day.md) và trên đường đi anh nghe tin đáng lo ngại từ [Radagast](../R/Radagast.md), rằng [Kỵ sĩ Đen](../N/Nazgûl.md) được [Sauron](../S/Sauron.md) cử đi tìm Shire.<sup id="cite_ref-council_3-0" class="reference"><a href="#cite_note-council-3">[3]</a></sup> Anh vội đến [*Prancing Pony*](../T/The_Prancing_Pony.md) và viết thư cảnh báo cho Frodo.<sup id="cite_ref-Strider_1-1" class="reference"><a href="#cite_note-Strider-1">[1]</a></sup> Gandalf sau đó khởi hành đi [Isengard](../I/Isengard.md) để xin lời khuyên [Saruman](../S/Saruman.md).<sup id="cite_ref-council_3-1" class="reference"><a href="#cite_note-council-3">[3]</a></sup>
 

@@ -62,7 +62,7 @@ Tập này xuất bản lần đầu tiên bài tiểu luận "[Số phận và 
     - Christopher Gilson, "Bản chất của Elvish: Từ vựng cơ bản của Quenya"
 
 - Đánh giá sách
-    - *[Tolkien Về truyện cổ tích](Tolkien_On_Fairy-stories~23734.md): Phiên bản mở rộng, có chú thích và ghi chú*, bởi J.R.R. Tolkien, do Verlyn Flieger và Douglas A. Anderson biên tập, Colin Manlove đánh giá
+    - *[Tolkien Về truyện cổ tích](Tolkien_On_Fairy-stories~23734.md): Bản mở rộng, có chú thích và ghi chú*, bởi J.R.R. Tolkien, do Verlyn Flieger và Douglas A. Anderson biên tập, Colin Manlove đánh giá
     - *Từ, Cụm từ và Đoạn văn bằng nhiều thứ tiếng khác nhau trong "The Lord of the Rings"* (*[Parma Eldalamberon 17](../P/Parma_Eldalamberon_17.md)*), bởi J.R.R. Tolkien, được chỉnh sửa bởi Christopher Gilson, được xem xét bởi John Garth
     - *[Arda Được tái thiết](../A/Arda_Reconstructed.md): Sự sáng tạo của tác phẩm đã xuất bản "Silmarillion"*, của Douglas Charles Kane, được Nicholas Birns đánh giá
     - *[Chesterton và Tolkien trong vai các nhà thần học](../C/Chesterton_and_Tolkien_as_Theologians.md): Ảo tưởng về sự thật*, của Alison Milbank, được đánh giá bởi Mike Austin Foster

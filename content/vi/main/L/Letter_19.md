@@ -34,7 +34,7 @@ infobox:
 
 ## Nền {#Background}
 
-Bức thư này đã được gửi tới [Stanley Unwin](../S/Stanley_Unwin.md) của [Allen và Unwin](../A/Allen_and_Unwin.md) về dự án tiếp theo của Tolkien sau *[The Hobbit](../T/The_Hobbit.md)*. Trước đây ông đã thảo luận về *[The Father Christmas Letters](../T/The_Father_Christmas_Letters.md)* với Unwin và chuyển cho ông bản thảo của *[Quenta Silmarillion](<../Q/Quenta_Silmarillion_(Lost_Road).md>)* và *[The Gest of Beren and Lúthien](../T/The_Gest_of_Beren_and_Lúthien.md)*. Hai tác phẩm sau đã được trả lại với lời bình luận từ một trong những độc giả của Allen &amp; Unwin, Edward Crankshaw - ông ca ngợi một số khía cạnh của *Silmarillion* nhưng chỉ trích "những cái tên Celtic chói mắt" của nó, và bác bỏ hoàn toàn bài thơ.
+Bức thư này đã được gửi tới [Stanley Unwin](../S/Stanley_Unwin.md) của [Allen and Unwin](../A/Allen_and_Unwin.md) về dự án tiếp theo của Tolkien sau *[The Hobbit](../T/The_Hobbit.md)*. Trước đây ông đã thảo luận về *[The Father Christmas Letters](../T/The_Father_Christmas_Letters.md)* với Unwin và chuyển cho ông bản thảo của *[Quenta Silmarillion](<../Q/Quenta_Silmarillion_(Lost_Road).md>)* và *[The Gest of Beren and Lúthien](../T/The_Gest_of_Beren_and_Lúthien.md)*. Hai tác phẩm sau đã được trả lại với lời bình luận từ một trong những độc giả của Allen &amp; Unwin, Edward Crankshaw - ông ca ngợi một số khía cạnh của *Silmarillion* nhưng chỉ trích "những cái tên Celtic chói mắt" của nó, và bác bỏ hoàn toàn bài thơ.
 
 ## Tóm tắt {#Summary}
 

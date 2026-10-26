@@ -80,7 +80,7 @@ Sự kiện xảy ra vào ngày 26 tháng Chín.
 - **[2008](2008.md)** - [Oxonmoot 2008](../O/Oxonmoot_2008.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Christ_Church,_Oxford" title="wikipedia:Christ Church, Oxford">Nhà thờ Chúa Kitô</a>.
 - **[2009](2009.md)** - [Oxonmoot 2009](../O/Oxonmoot_2009.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Lady_Margaret_Hall,_Oxford" title="wikipedia:Lady Margaret Hall, Oxford">Lady Margaret Hall</a>.
 - **[2010](2010.md)** - [Oxonmoot 2010](../O/Oxonmoot_2010.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Lady_Margaret_Hall,_Oxford" title="wikipedia:Lady Margaret Hall, Oxford">Lady Margaret Hall</a>.
-- **[2010](2010.md)** - Cuộc gặp gỡ mùa thu Lasse Lanta của Hiệp hội Tolkien Áo.
+- **[2010](2010.md)** - Cuộc gặp gỡ mùa thu Lasse Lanta của Hội Tolkien Áo.
 - **[2010](2010.md)** - Lễ kỷ niệm 100 năm và sinh nhật Hobbit, [Bắc phương Đông Tolkien Xã hội](../N/North_East_Tolkien_Society.md).
 - **[2012](2012.md)** - *[Tolkien's World: A Guide to the Peoples and Places of Middle-Earth](<../T/Tolkien's_World_(by_Gareth_Hanrahan).md>)* của [Gareth Hanrahan](../G/Gareth_Hanrahan.md) và Peter McKinstry được xuất bản.
 - **[2019](2019.md)** - *[Tolkien's Lost Chaucer](../T/Tolkien's_Lost_Chaucer.md)* được xuất bản.

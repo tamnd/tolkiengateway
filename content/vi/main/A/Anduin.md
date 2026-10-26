@@ -123,7 +123,7 @@ Sau khi chảy vào Gondor, dòng sông đi qua Osgiliath và Minas Tirith, rồ
 </tbody></table>
 </div>
 
-*Anduin* là từ trong tiếng [Sindarin](../S/Sindarin.md) có nghĩa là "Sông Lớn", theo nghĩa đen là "Sông Dài", bắt nguồn từ *[and](And.md)* ("dài") + *[duin](../D/Duin.md)* ("sông lớn").<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Từ tương ứng trong tiếng [Quenya](../Q/Quenya.md) là <i><b>Anduinë</b></i>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+*Anduin* là từ trong tiếng [Sindarin](../S/Sindarin.md) có nghĩa là "Đại Hà", theo nghĩa đen là "Sông Dài", bắt nguồn từ *[and](And.md)* ("dài") + *[duin](../D/Duin.md)* ("sông lớn").<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Từ tương ứng trong tiếng [Quenya](../Q/Quenya.md) là <i><b>Anduinë</b></i>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
 ## Khắc họa trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 

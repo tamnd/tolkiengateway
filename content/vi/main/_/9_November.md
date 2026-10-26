@@ -72,7 +72,7 @@ Sự kiện xảy ra vào ngày 9 tháng 11
 - **[1972](1972.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 342](../L/Letter_342.md).
 - **[2001](2001.md)** - Người dịch [Xé Zetterholm](../T/Tore_Zetterholm.md) qua đời.
 - **[2011](2011.md)** - *[The Lord of the Rings: War in the North](../T/The_Lord_of_the_Rings%253A_War_in_the_North.md)* được phát hành tại Đức và Nga.
-- <b><a href="2023.md" title="2023">2023</a> - Phiên bản sửa đổi và mở rộng của <i><a href="../T/The_Letters_of_J.R.R._Tolkien.md" title="The Letters of J.R.R. Tolkien">Những bức thư của J.R.R. Tolkien</a></i> được xuất bản ở Vương quốc Anh.</b>
+- <b><a href="2023.md" title="2023">2023</a> - Phiên bản sửa đổi và mở rộng của <i><a href="../T/The_Letters_of_J.R.R._Tolkien.md" title="The Letters of J.R.R. Tolkien">The Letters of J.R.R. Tolkien</a></i> được xuất bản ở Vương quốc Anh.</b>
 
 ## Trong Arda {#In_Arda}
 

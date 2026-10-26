@@ -30,7 +30,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Other Hands 10/11</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin xuất bản</span></th></tr><tr><th scope="row" class="tg-infobox-label">Biên tập viên</th><td class="tg-infobox-data"><a href="../C/Chris_Seeman.md" title="Chris Seeman">Chris Seeman</a></td></tr><tr><th scope="row" class="tg-infobox-label">Họa sĩ minh họa</th><td class="tg-infobox-data">Sophia Caramagno, Alina Nemirova, Patrick Wynne</td></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data">November <a href="../_/1995.md" title="1995">1995</a></td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">1081-8359</td></tr><tr><th scope="row" class="tg-infobox-label">Trước đó</th><td class="tg-infobox-data"><a href="Other_Hands_9.md" title="Other Hands 9">Other Hands 9</a></td></tr><tr><th scope="row" class="tg-infobox-label">Tiếp theo</th><td class="tg-infobox-data"><a href="Other_Hands_12.md" title="Other Hands 12">Other Hands 12</a></td></tr></tbody></table>
 
-<b><i>Những bàn tay khác</i> 11/10</b> là số của *[Other Hands](Other_Hands.md)*, một tạp chí dành riêng cho *[Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)*.
+<b><i>Other Hands</i> 11/10</b> là số của *[Other Hands](Other_Hands.md)*, một tạp chí dành riêng cho *[Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)*.
 
 ## Nội dung {#Contents}
 

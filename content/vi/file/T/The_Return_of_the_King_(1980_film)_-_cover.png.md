@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Bìa DVD [The Return of the King (phim 1980)](<../../main/T/The_Return_of_the_King_(1980_film).md>). Điều đáng chú ý là nó hầu như không giống bất kỳ hình ảnh nào trong phim.
+Bìa DVD [The Return of the King (phim năm 1980)](<../../main/T/The_Return_of_the_King_(1980_film).md>). Điều đáng chú ý là nó hầu như không giống bất kỳ hình ảnh nào trong phim.
 
 ## Giấy phép {#Licensing}
 

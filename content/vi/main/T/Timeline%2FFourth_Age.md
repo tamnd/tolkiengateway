@@ -18,7 +18,7 @@ images:
   - "CdxIconArticle.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="Timeline.md" title="Timeline">Dòng thời gian</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="Timeline.md" title="Timeline">Dòng thời gian</a></b></div></div>
 
 ## [Kỷ Đệ Tứ](../F/Fourth_Age.md) {#Fourth_Age}
 
@@ -71,7 +71,7 @@ images:
 <tr>
 <td><a href="../F/Fourth_Age_11.md" title="Fourth Age 11">11</a></td>
 <td>1432</td>
-<td>Cái chết của <a href="../S/Saradoc_Brandybuck.md" title="Saradoc Brandybuck">Saradoc Brandybuck</a>.<sup id="cite_ref-C3_7-1" class="reference"><a href="#cite_note-C3-7">[6]</a></sup> Meriadoc trở thành <a href="../M/Master_of_Buckland.md" title="Master of Buckland">Bậc thầy của Buckland</a> và những món quà tuyệt vời được gửi đến ông bởi Vua <a href="../_/Éomer.md" title="Éomer">Éomer</a> và Phu nhân <a href="../_/Éowyn.md" title="Éowyn">Éowyn</a> của <a href="../I/Ithilien.md" title="Ithilien">Ithilien</a>.<sup id="cite_ref-B5_6-3" class="reference"><a href="#cite_note-B5-6">[5]</a></sup> Sự ra đời của <a href="../H/Hamfast_Gardner.md" title="Hamfast Gardner">Hamfast Gardner</a>.<sup id="cite_ref-C4_5-6" class="reference"><a href="#cite_note-C4-5">[4]</a></sup>
+<td>Cái chết của <a href="../S/Saradoc_Brandybuck.md" title="Saradoc Brandybuck">Saradoc Brandybuck</a>.<sup id="cite_ref-C3_7-1" class="reference"><a href="#cite_note-C3-7">[6]</a></sup> Meriadoc trở thành <a href="../M/Master_of_Buckland.md" title="Master of Buckland">Chủ nhân Buckland</a> và những món quà tuyệt vời được gửi đến ông bởi Vua <a href="../_/Éomer.md" title="Éomer">Éomer</a> và Phu nhân <a href="../_/Éowyn.md" title="Éowyn">Éowyn</a> của <a href="../I/Ithilien.md" title="Ithilien">Ithilien</a>.<sup id="cite_ref-B5_6-3" class="reference"><a href="#cite_note-B5-6">[5]</a></sup> Sự ra đời của <a href="../H/Hamfast_Gardner.md" title="Hamfast Gardner">Hamfast Gardner</a>.<sup id="cite_ref-C4_5-6" class="reference"><a href="#cite_note-C4-5">[4]</a></sup>
 </td></tr>
 <tr>
 <td><a href="../F/Fourth_Age_12.md" title="Fourth Age 12">12</a></td>

@@ -31,7 +31,7 @@ images:
 
 - *[The Battle of Five Armies](<../T/The_Battle_of_Five_Armies_(2014_board_game).md>)*, một trò chơi board [2014](../_/2014.md) của [ARES Games](../A/ARES_Games~73366.md)
 - *[The Battle of Five Armies](<../T/The_Battle_of_Five_Armies_(2005_board_game).md>)*, một trò chơi cờ [2005](../_/2005.md) từ [Games Workshop](../G/Games_Workshop.md)
-- *[The Battle of Five Armies](<../T/The_Battle_of_Five_Armies_(1984_board_game).md>)*, một trò chơi board [1984](../_/1984.md) của [Vương miện Sắt Enterprises](../I/Iron_Crown_Enterprises.md)
+- *[The Battle of Five Armies](<../T/The_Battle_of_Five_Armies_(1984_board_game).md>)*, một trò chơi board [1984](../_/1984.md) của [Iron Crown Enterprises](../I/Iron_Crown_Enterprises.md)
 - *[Battle of the Five Armies](<Battle_of_the_Five_Armies_(board_game).md>)*, trò chơi board [1975](../_/1975.md)
 
 <br>

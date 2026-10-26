@@ -332,7 +332,7 @@ Qua nhiều năm, nhiều **tài liệu tham khảo** bằng hình ảnh và b�
 
 ### <a class="extiw" href="http://en.wikipedia.org/wiki/Dead_Ringers_(comedy)" title="wikipedia:Dead Ringers (comedy)">Người đổ chuông chết</a> {#Dead_Ringers}
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../D/Dead_Ringers.md" title="Dead Ringers">Người đổ chuông chết</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="../D/Dead_Ringers.md" title="Dead Ringers">Người đổ chuông chết</a></b></div></div>
 
 <br>
 
@@ -734,7 +734,7 @@ Vì vậy, câu chuyện của bạn có thể được kể.
 
 #### <a class="extiw" href="http://en.wikipedia.org/wiki/Assassin%27s_Creed_Origins" title="wikipedia:Assassin&#39;s Creed Origins">Nguồn gốc</a> {#Origins}
 
-- Trong nhiệm vụ "Trái phiếu quý giá", người chơi giúp một nhóm người nhặt rác lấy lại chiếc nhẫn có giá trị mà họ bị ám ảnh. Nỗi ám ảnh của họ với những chiếc nhẫn phản chiếu Gollum và Chiếc nhẫn Chúa. Một tài liệu tham khảo thêm là từ tiêu đề nhiệm vụ, *precious*, một từ Gollum thường dùng để chỉ Chiếc nhẫn.
+- Trong nhiệm vụ "Trái phiếu quý giá", người chơi giúp một nhóm người nhặt rác lấy lại chiếc nhẫn có giá trị mà họ bị ám ảnh. Nỗi ám ảnh của họ với những chiếc nhẫn phản chiếu Gollum và Nhẫn Chúa. Một tài liệu tham khảo thêm là từ tiêu đề nhiệm vụ, *precious*, một từ Gollum thường dùng để chỉ Chiếc nhẫn.
 
 #### <a class="extiw" href="http://en.wikipedia.org/wiki/Assassin%27s_Creed_Odyssey" title="wikipedia:Assassin&#39;s Creed Odyssey">Odyssey</a> {#Odyssey}
 

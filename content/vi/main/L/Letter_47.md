@@ -34,7 +34,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Unwin đã viết thư để thông báo rằng hiệu sách của Foyle ở London sẽ phát hành *[The Hobbit](../T/The_Hobbit.md)* như một phần của câu lạc bộ Sách thiếu nhi của họ, điều này cho phép [Allen và Unwin](../A/Allen_and_Unwin.md) tái bản cuốn sách (rất đáng mong đợi vì một cuộc không kích đã phá hủy kho bản sao trước đó của họ).
+Unwin đã viết thư để thông báo rằng hiệu sách của Foyle ở London sẽ phát hành *[The Hobbit](../T/The_Hobbit.md)* như một phần của câu lạc bộ Sách thiếu nhi của họ, điều này cho phép [Allen and Unwin](../A/Allen_and_Unwin.md) tái bản cuốn sách (rất đáng mong đợi vì một cuộc không kích đã phá hủy kho bản sao trước đó của họ).
 
 Tolkien hỏi liệu trong tình hình hiện tại,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[notes 1]</a></sup> anh có nên cố gắng hoàn thành phần tiếp theo của *The Hobbit* không. Ông đã làm việc này không liên tục kể từ năm 1938, với những gián đoạn từ công việc chính thức, công việc nội trợ và "Dân phòng".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[notes 2]</a></sup> Nó sắp hoàn thành và ông hy vọng sẽ hoàn thành vào đầu năm tới. Tuy nhiên, anh có chút nghi ngại vì nó rất dài, đôi khi còn đáng báo động hơn cả The Hobbit, và thực tế không phải là một "vị thành niên" chút nào. Nó đã đến Chương XXXI<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[notes 3]</a></sup> và sẽ cần ít nhất sáu chương nữa (đã được phác thảo). Liệu một “sử thi” có được coi là trong hoàn cảnh hiện tại không? Unwin có muốn đợi cho đến khi mọi việc hoàn tất không? Nó đã được sự đồng tình của các con trai ông và [C.S. Lewis](../C/C.S._Lewis.md), nhưng đó là vấn đề về giấy tờ, số lượng lớn và thị trường! Nó cần hai bản đồ.
 

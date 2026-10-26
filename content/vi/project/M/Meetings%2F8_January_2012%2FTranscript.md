@@ -28,13 +28,13 @@ sort_keys:
 [2012-01-08 20:10:29] &lt;Hyarion&gt; :p<br/>
 [2012-01-08 20:10:32] &lt;KingAragorn&gt; Excellent :)<br/>
 [2012-01-08 20:11:25] &lt;KingAragorn&gt; Next up is me with &#34;How should we deal with long sections within articles? (i.e. Gandalf#Names) Possible solutions include:<br/>
-[2012-01-08 20:11:25] &lt;KingAragorn&gt;     just keeping the content on the article as normal;<br/>
-[2012-01-08 20:11:25] &lt;KingAragorn&gt;     moving it to a sub-page;<br/>
-[2012-01-08 20:11:25] &lt;KingAragorn&gt;     or employing the use of a scrollable DIV (along the lines of Tom Shippey#Bibliography).&#34;<br/>
+[2012-01-08 20:11:25] &lt;KingAragorn&gt; just keeping the content on the article as normal;<br/>
+[2012-01-08 20:11:25] &lt;KingAragorn&gt; moving it to a sub-page;<br/>
+[2012-01-08 20:11:25] &lt;KingAragorn&gt; or employing the use of a scrollable DIV (along the lines of Tom Shippey#Bibliography).&#34;<br/>
 [2012-01-08 20:12:07] &lt;KingAragorn&gt; We should note that Amroth has brought up a potentially related question: &#34;In regards to the sub-page option above, where should we redirect to?<br/>
-[2012-01-08 20:12:07] &lt;KingAragorn&gt;     Main Article?<br/>
-[2012-01-08 20:12:07] &lt;KingAragorn&gt;     Sub-page?<br/>
-[2012-01-08 20:12:07] &lt;KingAragorn&gt;     Header in the sub-page? &#34;<br/>
+[2012-01-08 20:12:07] &lt;KingAragorn&gt; Main Article?<br/>
+[2012-01-08 20:12:07] &lt;KingAragorn&gt; Sub-page?<br/>
+[2012-01-08 20:12:07] &lt;KingAragorn&gt; Header in the sub-page? &#34;<br/>
 [2012-01-08 20:12:19] &lt;KingAragorn&gt; I favour using a scrollable DIV<br/>
 [2012-01-08 20:12:36] &lt;Ederchil&gt; scrollbox? that&#39;s really annoying to read.<br/>
 [2012-01-08 20:12:48] &lt;Ederchil&gt; maybe a dropbox?<br/>
@@ -145,7 +145,7 @@ sort_keys:
 [2012-01-08 20:44:53] &lt;Ederchil&gt; What would need to be discussed?<br/>
 [2012-01-08 20:45:27] &lt;KingAragorn&gt; Yeah, I haven&#39;t really looked at our help files much, but we should have a help file which lays out the basics of a page structure<br/>
 [2012-01-08 20:45:49] &lt;Morgan&gt; Gamling, do you mean that it can be difficult, for new editors, to categorise articles?<br/>
-[2012-01-08 20:46:13] &lt;Gamling&gt; When I first started I didn&#39;t see much about adding categories.  I learned by looking at categories as I went along.<br/>
+[2012-01-08 20:46:13] &lt;Gamling&gt; When I first started I didn&#39;t see much about adding categories. I learned by looking at categories as I went along.<br/>
 [2012-01-08 20:46:26] &lt;Morgan&gt; Yeah, I remember that too.<br/>
 [2012-01-08 20:46:32] &lt;Morgan&gt; (when I was new!)<br/>
 [2012-01-08 20:46:42] &lt;Ederchil&gt; long time ago.<br/>
@@ -203,7 +203,7 @@ sort_keys:
 [2012-01-08 20:57:15] &lt;KingAragorn&gt; !<br/>
 [2012-01-08 20:57:40] &lt;KingAragorn&gt; <a class="external free" href="http://tolkiengateway.net/wiki/Sauron#Etymology" rel="noreferrer noopener" target="_blank">http://tolkiengateway.net/wiki/Sauron#Etymology</a><br/>
 [2012-01-08 20:58:55] &lt;KingAragorn&gt; They&#39;re clearly distinct, I think<br/>
-[2012-01-08 20:59:11] &lt;Gamling&gt; So it&#39;s &#34;Etymology&#34; when the origin of the main word is being discussed and &#34;Other Names and Title&#34; when alternate names are shown.  Makes sense.<br/>
+[2012-01-08 20:59:11] &lt;Gamling&gt; So it&#39;s &#34;Etymology&#34; when the origin of the main word is being discussed and &#34;Other Names and Title&#34; when alternate names are shown. Makes sense.<br/>
 [2012-01-08 20:59:28] &lt;KingAragorn&gt; Yeah<br/>
 [2012-01-08 20:59:30] &lt;Ederchil&gt; Yes.<br/>
 [2012-01-08 20:59:31] &lt;KingAragorn&gt; Exactly<br/>

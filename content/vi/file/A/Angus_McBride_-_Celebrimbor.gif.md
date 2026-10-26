@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Celebrimbor](../../main/C/Celebrimbor.md) của [Angus McBride](../../main/A/Angus_McBride.md), xuất hiện trong [Jessica Ney](../../main/J/Jessica_M._Ney-Grimm.md), *[Angus McBride's Characters of Middle-earth](../../main/A/Angus_McBride's_Characters_of_Middle-earth.md)* ([Vương miện Sắt Enterprises](../../main/I/Iron_Crown_Enterprises.md) #8007, ed.; 1990) .
+[Celebrimbor](../../main/C/Celebrimbor.md) của [Angus McBride](../../main/A/Angus_McBride.md), xuất hiện trong [Jessica Ney](../../main/J/Jessica_M._Ney-Grimm.md), *[Angus McBride's Characters of Middle-earth](../../main/A/Angus_McBride's_Characters_of_Middle-earth.md)* ([Iron Crown Enterprises](../../main/I/Iron_Crown_Enterprises.md) #8007, ed.; 1990) .
 
 ## Giấy phép {#Licensing}
 

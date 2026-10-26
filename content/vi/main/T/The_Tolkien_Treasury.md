@@ -42,7 +42,7 @@ infobox:
 <i><b>Kho bạc Tolkien</b></i> là một bộ [2015](../_/2015.md) đóng hộp bỏ túi được xuất bản bởi [HarperCollins](../H/HarperCollins.md). Bộ sưu tập bao gồm bốn cuốn sách bỏ túi:
 
 - *[The Adventures of Tom Bombadil](The_Adventures_of_Tom_Bombadil.md)*
-    - (Phiên bản mở rộng 2014, biên tập [Christina Scull](../C/Christina_Scull.md) & [Wayne G. Hammond](../W/Wayne_G._Hammond.md))
+    - (Bản mở rộng 2014, biên tập [Christina Scull](../C/Christina_Scull.md) & [Wayne G. Hammond](../W/Wayne_G._Hammond.md))
 - *[Farmer Giles of Ham](../F/Farmer_Giles_of_Ham.md)*
     - (Ấn bản 2014, biên tập Christina Scull & Wayne G. Hammond)
 - *[Roverandom](../R/Roverandom.md)*

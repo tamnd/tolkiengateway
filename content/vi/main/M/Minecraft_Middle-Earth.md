@@ -49,7 +49,7 @@ Nhóm bắt đầu với các địa điểm như [Bree](../B/Bree.md) và [Hobb
 
 <figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tolkiendaysmcme.png.md"><img src="https://tolkiengateway.net/w/images/thumb/e/ef/Tolkiendaysmcme.png/300px-Tolkiendaysmcme.png" decoding="async" loading="lazy" width="300" height="214" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/ef/Tolkiendaysmcme.png/450px-Tolkiendaysmcme.png 1.5x, https://tolkiengateway.net/w/images/thumb/e/ef/Tolkiendaysmcme.png/600px-Tolkiendaysmcme.png 2x" data-file-width="867" data-file-height="619"/></a><figcaption>Nhóm tại Hội nghị Tolkien ngày</figcaption></figure>
 
-Tính đến năm 2024, MCME đã ba lần được giới thiệu tại Ngày [Hiệp hội Tolkien Đức](../D/Deutsche_Tolkien_Gesellschaft_e.V..md) Tolkien, như một phần của lều trò chơi điện tử.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Tính đến năm 2024, MCME đã ba lần được giới thiệu tại Ngày [Hội Tolkien Đức](../D/Deutsche_Tolkien_Gesellschaft_e.V..md) Tolkien, như một phần của lều trò chơi điện tử.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 Tạp chí hàng tháng giúp người hâm mộ cập nhật về những thay đổi mới nhất của máy chủ.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 

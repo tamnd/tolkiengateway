@@ -38,7 +38,7 @@ Bài thơ [Bilbo Baggins](../B/Bilbo_Baggins.md)' *[Errantry](../E/Errantry.md)*
 <blockquote class="tg-quote noexcerpt">
 <p>- Thần tiên. Có thể là thuật ngữ quan trọng nhất trong từ vựng quan trọng của Tolkien, với rất nhiều từ ám chỉ phức tạp. Ông dùng nó để chỉ Thế giới khác ngoài năm giác quan - một thực tại song song tiếp tuyến về thời gian và không gian với thế giới bình thường; ông ấy dùng nó để chỉ việc thực hành bùa mê hoặc phép thuật, đặc biệt là thông qua việc sử dụng từ ngữ, chẳng hạn như bùa chú hoặc bùa chú; và ông dùng nó để ám chỉ trạng thái tinh thần hoặc tâm lý bị thay đổi do việc thực hành như vậy mang lại. Tolkien cố tình sử dụng cách viết biến thể thay cho từ "nàng tiên" thông thường hơn, để tạo khoảng cách cho bản thân và người đọc khỏi ý nghĩa thanh nhã và xinh đẹp của cách viết đó. Theo thời gian, ông đã thử nghiệm nhiều cách viết khác nhau nhưng luôn cổ xưa, bao gồm cả Thần tiên và Thần tiên, nhưng vẫn luôn trung thành với cùng một nhóm ý nghĩa.
 </p>
-<p class="tg-quote-footer"><cite>"<a class="mw-redirect" href="../O/On_Fairy-stories~23735.md" title="On Fairy-stories">Về truyện cổ tích</a>, Bình luận của biên tập viên" trong <a href="../T/Tolkien_On_Fairy-stories~23734.md" title="Tolkien On Fairy-stories">Tolkien Về truyện cổ tích</a> Phiên bản mở rộng, có bình luận và ghi chú
+<p class="tg-quote-footer"><cite>"<a class="mw-redirect" href="../O/On_Fairy-stories~23735.md" title="On Fairy-stories">Về truyện cổ tích</a>, Bình luận của biên tập viên" trong <a href="../T/Tolkien_On_Fairy-stories~23734.md" title="Tolkien On Fairy-stories">Tolkien Về truyện cổ tích</a> Bản mở rộng, có bình luận và ghi chú
 </cite></p>
 </blockquote>
 

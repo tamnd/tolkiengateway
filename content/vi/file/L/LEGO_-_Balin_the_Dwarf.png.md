@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Balin Người lùn](../../main/B/Balin.md) - [LEGO](../../main/L/Lego.md) mô hình nhỏ
+[Balin Người Lùn](../../main/B/Balin.md) - [LEGO](../../main/L/Lego.md) mô hình nhỏ
 
 ## Giấy phép {#Licensing}
 

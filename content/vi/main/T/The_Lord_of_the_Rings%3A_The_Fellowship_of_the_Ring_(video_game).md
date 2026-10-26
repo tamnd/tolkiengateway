@@ -130,7 +130,7 @@ Mặc dù tùy chọn, Frodo có thể chọn tìm dược liệu cho [Old Noake
 
 <dl><dt>Night Hobbiton<sup id="cite_ref-save_1-0" class="reference"><a href="#cite_note-save-1">[1]</a></sup></dt></dl>
 
-Sau khi Frodo quay trở lại Bag End và lấy Chiếc nhẫn Chúa từ nơi cất giấu, ông đi xuống nhà Gaffer vào đêm hôm sau để đưa chìa khóa cho ông. Anh tình cờ nghe được cuộc trò chuyện giữa mình và một Kỵ Sĩ Đen bí ẩn, người đang tìm kiếm Baggins. Frodo sau khi đưa chìa khóa cho Gaffer, phải lẻn ra khỏi Hobbiton mà không bị Kỵ sĩ Đen tuần tra trên đường phố phát hiện.
+Sau khi Frodo quay trở lại Bag End và lấy Nhẫn Chúa từ nơi cất giấu, ông đi xuống nhà Gaffer vào đêm hôm sau để đưa chìa khóa cho ông. Anh tình cờ nghe được cuộc trò chuyện giữa mình và một Kỵ Sĩ Đen bí ẩn, người đang tìm kiếm Baggins. Frodo sau khi đưa chìa khóa cho Gaffer, phải lẻn ra khỏi Hobbiton mà không bị Kỵ sĩ Đen tuần tra trên đường phố phát hiện.
 
 <dl><dt>Night Bywater<sup id="cite_ref-save_1-1" class="reference"><a href="#cite_note-save-1">[1]</a></sup></dt></dl>
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Hobbit (1967 film) - Groan.png"
 ---
 
-Chuyển hướng tới [Tệp:The Hobbit (phim 1967) - Groan.png](<The_Hobbit_(1967_film)_-_Groan.png.md>).
+Chuyển hướng tới [Tệp:The Hobbit (phim năm 1967) - Groan.png](<The_Hobbit_(1967_film)_-_Groan.png.md>).

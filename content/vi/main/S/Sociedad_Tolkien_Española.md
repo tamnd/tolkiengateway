@@ -17,7 +17,7 @@ images:
 
 <figure class="mw-halign-right" typeof="mw:File"><a class="mw-file-description" href="../../file/S/Sociedad_Tolkien_Española_logo.png.md"><img src="https://tolkiengateway.net/w/images/thumb/9/9f/Sociedad_Tolkien_Espa%C3%B1ola_logo.png/350px-Sociedad_Tolkien_Espa%C3%B1ola_logo.png" decoding="async" loading="lazy" width="350" height="200" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/9f/Sociedad_Tolkien_Espa%C3%B1ola_logo.png/525px-Sociedad_Tolkien_Espa%C3%B1ola_logo.png 1.5x, https://tolkiengateway.net/w/images/9/9f/Sociedad_Tolkien_Espa%C3%B1ola_logo.png 2x" data-file-width="681" data-file-height="390"/></a><figcaption></figcaption></figure>
 
-**Sociedad Tolkien Española** (tiếng Tây Ban Nha: "Hiệp hội Tolkien tiếng Tây Ban Nha"), hay **STE**, là một [Tolkien Hiệp hội](../T/Tolkien_Societies~67099.md) có trụ sở tại <a class="extiw" href="http://en.wikipedia.org/wiki/Spain" title="wikipedia:Spain">Tây Ban Nha</a>.
+**Sociedad Tolkien Española** (tiếng Tây Ban Nha: "Hội Tolkien tiếng Tây Ban Nha"), hay **STE**, là một [Tolkien Hiệp hội](../T/Tolkien_Societies~67099.md) có trụ sở tại <a class="extiw" href="http://en.wikipedia.org/wiki/Spain" title="wikipedia:Spain">Tây Ban Nha</a>.
 
 ## Lịch sử {#History}
 

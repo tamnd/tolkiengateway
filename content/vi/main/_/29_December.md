@@ -67,7 +67,7 @@ Sự kiện xảy ra vào ngày 29 tháng 12
 ## Trên Trái đất {#On_Earth}
 
 - **[1928](1928.md)** - Diễn viên kiêm người kể chuyện [Bernard Cribbins](../B/Bernard_Cribbins.md) ra đời.
-- **[1953](1953.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) thăm [Allen và Unwin](../A/Allen_and_Unwin.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Museum_Street" title="wikipedia:Museum Street">Phố Bảo tàng</a> ở Luân Đôn.
+- **[1953](1953.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) thăm [Allen and Unwin](../A/Allen_and_Unwin.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Museum_Street" title="wikipedia:Museum Street">Phố Bảo tàng</a> ở Luân Đôn.
 - **[1959](1959.md)** - Diễn viên [Brian Sergent](../B/Brian_Sergent.md) ra đời.
 - **[1961](1961.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư cho cô Perry](../L/Letter_to_Miss_Perry.md).
 - **[1965](1965.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư 282a](../L/Letter_282a.md).

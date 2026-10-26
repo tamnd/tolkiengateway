@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-*Beorn* của Glen Michael Angus, xuất hiện trong [John David Ruemmler](../../main/J/John_David_Ruemmler.md), Susan Tyler Hitchcock, [Peter C. Fenlon](../../main/P/Pete_Fenlon.md), *[Mirkwood (2nd edition)](<../../main/M/Mirkwood_(MERP).md>)* ([Vương miện Sắt Enterprises](../../main/I/Iron_Crown_Enterprises.md) #2019, 1995) .
+*Beorn* của Glen Michael Angus, xuất hiện trong [John David Ruemmler](../../main/J/John_David_Ruemmler.md), Susan Tyler Hitchcock, [Peter C. Fenlon](../../main/P/Pete_Fenlon.md), *[Mirkwood (2nd edition)](<../../main/M/Mirkwood_(MERP).md>)* ([Iron Crown Enterprises](../../main/I/Iron_Crown_Enterprises.md) #2019, 1995) .
 
 ## Giấy phép {#Licensing}
 

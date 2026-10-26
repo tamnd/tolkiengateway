@@ -29,7 +29,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-*Sam ném một quả táo vào Bill Ferny* của [Liz Danforth](../../main/L/Liz_Danforth.md), xuất hiện trong [S. Coleman Charlton](../../main/C/Coleman_Charlton.md), *[Middle-earth Role Playing (2nd edition, hardcover)](<../../main/M/Middle-earth_Role_Playing_(2nd_edition).md>)* ([Vương miện Sắt Enterprises](../../main/I/Iron_Crown_Enterprises.md) #2000, 1993) , p.33.
+*Sam ném một quả táo vào Bill Ferny* của [Liz Danforth](../../main/L/Liz_Danforth.md), xuất hiện trong [S. Coleman Charlton](../../main/C/Coleman_Charlton.md), *[Middle-earth Role Playing (2nd edition, hardcover)](<../../main/M/Middle-earth_Role_Playing_(2nd_edition).md>)* ([Iron Crown Enterprises](../../main/I/Iron_Crown_Enterprises.md) #2000, 1993), p.33.
 
 ## Giấy phép {#Licensing}
 

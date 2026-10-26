@@ -53,7 +53,7 @@ Người canh giữ ngục tối đã tham gia [Trận Azanulbizar](../B/Battle_
 
 ## Phiên bản khác {#Other_versions}
 
-Không giống như [Phiên bản mở rộng](<../T/The_Hobbit%253A_The_Battle_of_the_Five_Armies_(extended_edition).md>), Ba Chiếc Nhẫn không bao giờ được đề cập trong phiên bản chiếu rạp và Người canh giữ ngục tối không bao giờ để ý đến Narya trên ngón tay của Gandalf, mặc dù ông vẫn cố gắng giết Gandalf, mặc dù lý do chưa bao giờ được đề cập trong phiên bản đó.
+Không giống như [Bản mở rộng](<../T/The_Hobbit%253A_The_Battle_of_the_Five_Armies_(extended_edition).md>), Ba Chiếc Nhẫn không bao giờ được đề cập trong phiên bản chiếu rạp và Người canh giữ ngục tối không bao giờ để ý đến Narya trên ngón tay của Gandalf, mặc dù ông vẫn cố gắng giết Gandalf, mặc dù lý do chưa bao giờ được đề cập trong phiên bản đó.
 
 Diện mạo của Người canh giữ ngục tối ban đầu được dự định là thiết kế ban đầu của [Azog](../A/Azog.md), mặc dù thiết kế này sau đó đã được sử dụng lại cho [Bolg](../B/Bolg.md) và thậm chí còn xuất hiện như vậy trong *[The Hobbit: An Unexpected Journey](../T/The_Hobbit%253A_An_Unexpected_Journey.md)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[1]</a></sup> Tuy nhiên, ý tưởng đó đã bị loại bỏ và thiết kế sau đó được tái sử dụng lần thứ ba để trở thành diện mạo của Người canh giữ ngục tối.
 

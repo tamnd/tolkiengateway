@@ -16,4 +16,4 @@ sort_keys:
   "The Return of the King (1980 film)": "Return"
 ---
 
-Thể loại này liệt kê tất cả các bài viết liên quan đến **The Return of the King Nhạc phim (phim 1980)**.
+Thể loại này liệt kê tất cả các bài viết liên quan đến **The Return of the King Nhạc phim (phim năm 1980)**.

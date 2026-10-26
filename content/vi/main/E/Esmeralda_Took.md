@@ -58,7 +58,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Esmeralda là con út trong bốn cô con gái của [Adalgrim Took](../A/Adalgrim_Took.md). Cô kết hôn với [Saradoc Brandybuck](../S/Saradoc_Brandybuck.md), trở thành [Bậc thầy của Buckland](../M/Master_of_Buckland.md) [Rorimac Brandybuck](../R/Rorimac_Brandybuck.md), bố chồng của cô. Cô và Saradoc có một đứa con trai, [Meriadoc Brandybuck](../M/Meriadoc_Brandybuck.md)
+Esmeralda là con út trong bốn cô con gái của [Adalgrim Took](../A/Adalgrim_Took.md). Cô kết hôn với [Saradoc Brandybuck](../S/Saradoc_Brandybuck.md), trở thành [Chủ nhân Buckland](../M/Master_of_Buckland.md) [Rorimac Brandybuck](../R/Rorimac_Brandybuck.md), bố chồng của cô. Cô và Saradoc có một đứa con trai, [Meriadoc Brandybuck](../M/Meriadoc_Brandybuck.md)
 
 Cô đã tham dự [Bữa tiệc chia tay](../B/Bilbo's_Farewell_Party.md) của [Bilbo Baggins](../B/Bilbo_Baggins.md) ở [S.R.](../S/Shire_Reckoning.md) [1401](../T/Third_Age_3001.md) cùng với gia đình.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-took_2-0" class="reference"><a href="#cite_note-took-2">[2]</a></sup> Khi Bilbo biến mất, Master Rorimac đã cố gắng trấn an cô, nói rằng "Kẻ điên Baggins" vừa rời đi để tham gia một cuộc phiêu lưu khác.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 

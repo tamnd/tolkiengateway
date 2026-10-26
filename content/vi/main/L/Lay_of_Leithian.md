@@ -99,7 +99,7 @@ Do đó, tên của bài thơ có thể là một nỗ lực nhằm nhấn mạn
 
 ## Lịch sử thế giới thực {#Real_world_history}
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../T/The_Lay_of_Leithian.md" title="The Lay of Leithian">The Lay of Leithian</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="../T/The_Lay_of_Leithian.md" title="The Lay of Leithian">The Lay of Leithian</a></b></div></div>
 
 Lay không phải là một phát minh văn học đơn thuần - về cơ bản nó tồn tại bằng tiếng Anh, dưới dạng tứ âm iambic và nằm trong tập III của *[The History of Middle-earth](../T/The_History_of_Middle-earth.md)*, được đặt tên thích hợp là *[The Lays of Beleriand](../T/The_Lays_of_Beleriand.md)*. Mặc dù phần còn lại có tới 4223 dòng và 14 [Cantos](../C/Cantos_of_the_Lay_of_Leithian.md), [Tolkien](../J/J.R.R._Tolkien.md) chưa bao giờ hoàn thành đầy đủ bài thơ. Đoạn này kết thúc ngay tại một trong những khoảnh khắc cao trào của câu chuyện, khi bàn tay của Beren bị xé khỏi cổ tay bởi người bảo vệ quái dị của cổng Angband, [Carcharoth](../C/Carcharoth.md).
 

@@ -52,8 +52,8 @@ infobox:
 
 <blockquote class="tg-quote noexcerpt">
 <p><br/>
-Được tổ chức trực tuyến, hội thảo mùa đông Tolkien Society 2021 nhằm tìm hiểu xem J.R.R. Tolkien đã được đón nhận như thế nào trong thế kỷ XXI. Với một loạt các tác phẩm của Tolkien được xuất bản trong 22 năm qua, các bản phỏng theo các câu chuyện của Tolkien và các triết lý mới đưa ra những cách đọc sáng tạo Tolkien, thế kỷ 21 tiếp tục mang đến cho chúng ta những tầm nhìn được sửa đổi về Tolkien. Quá trình tố tụng này cung cấp nhiều hiểu biết sâu sắc về cách các chuyển thể và triết lý gần đây đã mở rộng kho tàng huyền thoại của Tolkien. Đây cũng là buổi hội thảo đầu tiên trong ba buổi hội thảo mà Hiệp hội Tolkien tổ chức trực tuyến vào năm 2021, chào đón hơn 1600 người từ khắp nơi trên thế giới.
-</p><p>Được xuất bản dưới sự bảo trợ của Quỹ Tưởng niệm Peter Roe của Hiệp hội, kỷ yếu này có một bộ sưu tập gồm bốn bài báo được trình bày tại hội thảo mùa đông của Hiệp hội Tolkien năm 2021.
+Được tổ chức trực tuyến, hội thảo mùa đông Tolkien Society 2021 nhằm tìm hiểu xem J.R.R. Tolkien đã được đón nhận như thế nào trong thế kỷ XXI. Với một loạt các tác phẩm của Tolkien được xuất bản trong 22 năm qua, các bản phỏng theo các câu chuyện của Tolkien và các triết lý mới đưa ra những cách đọc sáng tạo Tolkien, thế kỷ 21 tiếp tục mang đến cho chúng ta những tầm nhìn được sửa đổi về Tolkien. Quá trình tố tụng này cung cấp nhiều hiểu biết sâu sắc về cách các chuyển thể và triết lý gần đây đã mở rộng kho tàng huyền thoại của Tolkien. Đây cũng là buổi hội thảo đầu tiên trong ba buổi hội thảo mà Hội Tolkien tổ chức trực tuyến vào năm 2021, chào đón hơn 1600 người từ khắp nơi trên thế giới.
+</p><p>Được xuất bản dưới sự bảo trợ của Quỹ Tưởng niệm Peter Roe của Hiệp hội, kỷ yếu này có một bộ sưu tập gồm bốn bài báo được trình bày tại hội thảo mùa đông của Hội Tolkien năm 2021.
 </p><p><br/>
 </p>
 </blockquote>

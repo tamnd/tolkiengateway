@@ -284,7 +284,7 @@ Các bản nhạc của [Howard Shore](../H/Howard_Shore.md) trong phim cũng đ
 
 - <b><a class="external text" href="http://pandemicstudios.com/conquest" rel="noreferrer noopener" target="_blank">Trang web chính thức</a></b>
 - <a class="external text" href="http://www.theonering.net/torwp/2008/05/08/28812-what-is-the-lord-of-the-rings-conquest-pandemic-studios-eric-%e2%80%9cgiz%e2%80%9d-gewirtz-tells-us-about-it/" rel="noreferrer noopener" target="_blank">Bài phỏng vấn Eric Gewirtz (đạo diễn)</a> tại [TheOneRing.net](TheOneRing.net.md)
-- <a class="extiw" href="http://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_Conquest" title="wikipedia:The Lord of the Rings: Conquest">The Lord of the Rings: Chinh phục</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
+- <a class="extiw" href="http://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_Conquest" title="wikipedia:The Lord of the Rings: Conquest">The Lord of the Rings: Conquest</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
 
 <table style="margin: 0 auto; width: 100%;" class="mw-collapsible mw-collapsed toccolours" align="center">
 <tbody><tr>

@@ -12,7 +12,7 @@ categories:
   - "Tolkien Societies"
 ---
 
-**Österreichische Tolkiengesellschaft**, ÖTG, (Hiệp hội Tolkien Áo) là [Tolkien Hiệp hội](../T/Tolkien_Societies~67099.md) ở Áo.
+**Österreichische Tolkiengesellschaft**, ÖTG, (Hội Tolkien Áo) là [Tolkien Hiệp hội](../T/Tolkien_Societies~67099.md) ở Áo.
 
 ## Lịch sử {#History}
 

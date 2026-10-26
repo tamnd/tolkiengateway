@@ -81,7 +81,7 @@ images:
 
 ### Âm nhạc của các Ainur {#Music_of_the_Ainur}
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../M/Music_of_the_Ainur.md" title="Music of the Ainur">Âm nhạc của các Ainur</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="../M/Music_of_the_Ainur.md" title="Music of the Ainur">Âm nhạc của các Ainur</a></b></div></div>
 
 <br> Vị thần tối cao của vũ trụ Tolkien được gọi là [Eru Ilúvatar](../I/Ilúvatar.md). Ban đầu, Ilúvatar tạo ra các linh hồn có tên là [Ainur](../A/Ainur.md). Ilúvatar đã cùng họ tạo nên âm nhạc thần thánh. [Melkor](../M/Morgoth.md), lúc đó là một trong những Ainur, đã phá vỡ sự hài hòa của âm nhạc, cho đến khi Ilúvatar bắt đầu chủ đề thứ ba mà Ainur không thể hiểu được vì chúng không phải là nguồn gốc của chủ đề đó. Bản chất bài hát của họ tượng trưng cho lịch sử của toàn bộ vũ trụ và [Những Người Con của Ilúvatar](../C/Children_of_Ilúvatar.md) cư trú trong đó — [Con Người](../M/Men.md) và [Tiên tộc](../E/Elves.md).
 
@@ -89,19 +89,19 @@ Sau đó Ilúvatar tạo ra [Eä](../E/Eä.md), chính vũ trụ, và Ainur hìn
 
 ### Ngày trước ngày {#Days_before_days}
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../D/Days_before_days.md" title="Days before days">Ngày trước ngày</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="../D/Days_before_days.md" title="Days before days">Ngày trước ngày</a></b></div></div>
 
 <br> **Những ngày trước** bắt đầu ngay sau khi Arda được [Valar](../V/Valar.md) tạo ra. Sau khi Valar bước vào thế giới, có một ánh sáng bao phủ mặt đất. Valar lấy ánh sáng này và tập trung thành hai đèn lớn [Illuin](../I/Illuin.md) và [Ormal](../O/Ormal.md). Trong một phiên bản, Vala [Melkor](../M/Morgoth.md) đã rèn nên những cây cột lớn, một ở cực bắc và một ở sâu nhất về phía nam. Người Valar sống ở giữa, tại đảo [Almaren](../A/Almaren.md). Sự kết thúc của Ngày trước được đánh dấu bằng việc [Melkor](../M/Morgoth.md) phá hủy Hai Ngọn Đèn.
 
 #### Mùa Xuân của Arda {#Spring_of_Arda}
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../S/Spring_of_Arda.md" title="Spring of Arda">Mùa Xuân của Arda</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="../S/Spring_of_Arda.md" title="Spring of Arda">Mùa Xuân của Arda</a></b></div></div>
 
 **Mùa Xuân của Arda** là một thời kỳ hòa bình và hưng thịnh trong những ngày trước đó bắt đầu khi [Cuộc Chiến thứ Nhất](../F/First_War.md) giữa Valar kết thúc.
 
 ### Năm Cây {#Years_of_the_Trees}
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../Y/Years_of_the_Trees.md" title="Years of the Trees">Năm Cây</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="../Y/Years_of_the_Trees.md" title="Years of the Trees">Năm Cây</a></b></div></div>
 
 <br> Ngay sau khi Hai Ngọn Đèn bị phá hủy, [Yavanna](../Y/Yavanna.md) đã tạo ra [Hai Cây](../T/Two_Trees.md), được đặt tên là [Telperion](../T/Telperion.md) (cây bạc) và [Laurelin](../L/Laurelin.md) (cây vàng) ở vùng đất [Aman](../A/Aman.md), nơi Valar hiện đang sinh sống. Cây cối chiếu sáng Aman, để lại Trung Địa trong bóng tối.
 
@@ -115,13 +115,13 @@ Cay đắng trước sự không hoạt động của Valar, Feänor cùng nhà 
 
 ### Năm Mặt Trời {#Years_of_the_Sun}
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../Y/Years_of_the_Sun.md" title="Years of the Sun">Những năm Mặt Trời</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="../Y/Years_of_the_Sun.md" title="Years of the Sun">Những năm Mặt Trời</a></b></div></div>
 
 Những năm Mặt Trời bắt đầu khi Valar tạo ra Mặt Trời và Mặt Trăng từ trái cuối cùng của [Laurelin](../L/Laurelin.md) và bông hoa cuối cùng của [Telperion](../T/Telperion.md) và đặt chúng trên thiên đường. Những năm sau đó được tính vào Trung Địa như trong thế giới thực của chúng ta. Kỷ Đệ Nhất của Những Người Con của Ilúvatar tiếp tục được tính toán theo thời gian mới này.
 
 <h4><span id="First_Age.27s_Years_of_the_Sun"></span><span class="mw-headline" id="First_Age&#39;s_Years_of_the_Sun">First Age&#39;s Years of the Sun</span></h4>
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../F/First_Age.md" title="First Age">Kỷ Đệ Nhất</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="../F/First_Age.md" title="First Age">Kỷ Đệ Nhất</a></b></div></div>
 
 <br> Feänor sớm bị mất tích trong một cuộc tấn công vào [Balrog](../B/Balrogs.md) của Morgoth- nhưng các con trai của ông vẫn sống sót và thành lập các vương quốc; các vương quốc của Gia tộc Fingolfin.
 
@@ -133,7 +133,7 @@ Họ đã trả lời. Melkor bị đày vào Hư Không; và hầu hết các t
 
 #### Kỷ Đệ Nhị {#Second_Age}
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../S/Second_Age.md" title="Second Age">Kỷ Đệ Nhị</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="../S/Second_Age.md" title="Second Age">Kỷ Đệ Nhị</a></b></div></div>
 
 <br> Những người Con Người vẫn trung thành được trao hòn đảo [Númenor](../N/Númenor.md), ở giữa Đại Hải; trong khi Tiên tộc được phép trở về nhà.
 
@@ -149,11 +149,11 @@ Sauron lại trỗi dậy và thách thức họ. Tiên tộc liên minh với C
 
 #### Kỷ Đệ Tam {#Third_Age}
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../T/Third_Age.md" title="Third Age">Kỷ Đệ Tam</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="../T/Third_Age.md" title="Third Age">Kỷ Đệ Tam</a></b></div></div>
 
 <br> Kỷ Đệ Tam chứng kiến ​​sự trỗi dậy quyền lực của các vương quốc [Arnor](../A/Arnor.md) và [Gondor](../G/Gondor.md), cũng như sự sụp đổ của chúng. Arnor bị chia thành ba Vương quốc nhỏ, từng Vương quốc lần lượt sụp đổ, trong khi Gondor trở thành nạn nhân của [Xung đột họ tộc](../K/Kin-strife~3650.md), bệnh dịch, kỵ binh và cướp biển.
 
-Vào thời điểm *The Lord of the Rings*, [Sauron](../S/Sauron.md) đã hồi phục trở lại và đang tìm kiếm Chiếc nhẫn Chúa. Ông phát hiện ra rằng nó thuộc quyền sở hữu của một [Hobbit](Hobbits.md) có tên [Baggins](../B/Bilbo_Baggins.md) và đã cử [Nazgûl](../N/Nazgûl.md) đi tìm ông và lấy nó.
+Vào thời điểm *The Lord of the Rings*, [Sauron](../S/Sauron.md) đã hồi phục trở lại và đang tìm kiếm Nhẫn Chúa. Ông phát hiện ra rằng nó thuộc quyền sở hữu của một [Hobbit](Hobbits.md) có tên [Baggins](../B/Bilbo_Baggins.md) và đã cử [Nazgûl](../N/Nazgûl.md) đi tìm ông và lấy nó.
 
 Người Mang Nhẫn, [Frodo Baggins](../F/Frodo_Baggins.md), được gửi đến [Rivendell](../R/Rivendell.md), nơi người ta quyết định rằng Chiếc Nhẫn Chúa phải bị phá hủy một lần và mãi mãi — và nó chỉ có thể bị phá hủy ở độ sâu rực lửa của [Núi Diệt Vong](../M/Mount_Doom.md) nơi nó được rèn. Ông bắt đầu thực hiện nhiệm vụ này cùng với tám người bạn đồng hành khác bao gồm *The Fellowship of the Ring*.
 
@@ -163,7 +163,7 @@ Sau một hành trình dài và khó khăn, cuối cùng anh và [Samwise Gamgee
 
 #### Kỷ Đệ Tứ và sau {#Fourth_Age_and_after}
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../F/Fourth_Age.md" title="Fourth Age">Kỷ Đệ Tứ</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="../F/Fourth_Age.md" title="Fourth Age">Kỷ Đệ Tứ</a></b></div></div>
 
 <br> Sự kết thúc của Kỷ Đệ Tam đánh dấu sự kết thúc của sự tham gia của Tiên tộc vào các vấn đề của Mannish, bất chấp sự hồi sinh ngắn ngủi của sự hiện diện Tiên ở Gondor dưới thời [Legolas](../L/Legolas.md). Hầu hết Tiên tộc tồn tại trong Trung Địa sẽ chuyển sang Valinor — những phần còn lại "mờ dần" và cuối cùng giảm dần. Số phận tương tự cũng xảy ra với Người Lùn: mặc dù [Erebor](../L/Lonely_Mountain.md) trở thành đồng minh của [Vương quốc Thống nhất](../R/Reunited_Kingdom.md) và có dấu hiệu [Khazad-dûm](../M/Moria.md) được thành lập lại, và một thuộc địa được thành lập dưới [Gimli](../G/Gimli.md) trong [Dãy Núi Trắng](../W/White_Mountains.md), họ trở nên ẩn dật hơn bao giờ hết và biến mất khỏi lịch sử loài người. Các sinh vật của Morgoth gần như bị xóa sổ và không bao giờ hồi phục được. Trong Kỷ Đệ Tứ sau, những câu chuyện về Kỷ nguyên trước đó trở thành truyền thuyết, cho đến khi cuối cùng chúng bị coi là tưởng tượng, khi những người thừa kế của người Númenor quên đi di sản của họ.
 
@@ -171,6 +171,6 @@ Tolkien tưởng tượng rằng có lẽ ông sống khoảng 6000 năm sau [Cu
 
 ## Kết thúc Arda {#End_of_Arda}
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../D/Dagor_Dagorath.md" title="Dagor Dagorath">Dagor Dagorath</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="../D/Dagor_Dagorath.md" title="Dagor Dagorath">Dagor Dagorath</a></b></div></div>
 
 Sau khi dự tính sự phân rã của [Arda](../A/Arda_Marred.md), Tiên tộc có thể suy luận rằng Arda phải kết thúc. Cũng có nhiều đề cập đến kết thúc này xảy ra trong Trận chiến cuối cùng sau khi Morgoth trở về. Sau thất bại của ông, người ta nói rằng Con Người và Ainur sẽ tạo ra [Nhạc thứ hai](../S/Second_Music_of_the_Ainur.md) trước Ilúvatar.

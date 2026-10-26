@@ -60,7 +60,7 @@ sort_keys:
 - [2006](../_/2006.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Aiglos_6&amp;action=edit&amp;redlink=1" title="Aiglos 6 (page does not exist)">Aiglos 6</a></i>
     - "T.C.B.S. và cuộc Đại chiến" (đánh giá *[Tolkien and the Great War](../T/Tolkien_and_the_Great_War.md)* của [John Garth](../J/John_Garth.md))
 - [2007](../_/2007.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Aiglos_7&amp;action=edit&amp;redlink=1" title="Aiglos 7 (page does not exist)">Aiglos 7</a></i>
-    - "Smith of Wootton Major. Phiên bản mở rộng"
+    - "Smith of Wootton Major. Bản mở rộng"
 - [2011](../_/2011.md): *[Aiglos 15](../A/Aiglos_15.md)*
     - J.R.R. Tolkien, *O Tuorze và upadku Gondolinu. Narn e'Dant Gondolin* ("Đôi lời về sự tái thiết")
 - [2012](../_/2012.md): *[Aiglos Special Issue II](../A/Aiglos_Special_Issue_II.md)*

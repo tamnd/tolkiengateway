@@ -24,7 +24,7 @@ images:
 
 ## [Thế giới thực](../../category/R/Real-world.md) {#Real-world}
 
-- *[Athelas](<Athelas_(journal).md>)*, tạp chí của [Imladris](../I/Imladris,_Danmarks_Tolkienforening.md), Hiệp hội Tolkien Đan Mạch
+- *[Athelas](<Athelas_(journal).md>)*, tạp chí của [Imladris](../I/Imladris,_Danmarks_Tolkienforening.md), Hội Tolkien Đan Mạch
 
 <hr style="margin-top:15px;"/>
 

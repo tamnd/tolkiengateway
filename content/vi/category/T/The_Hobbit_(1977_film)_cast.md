@@ -12,4 +12,4 @@ categories:
   - "The Hobbit (1977 film)"
 ---
 
-Thể loại này liệt kê **The Hobbit diễn viên (phim 1977)**.
+Thể loại này liệt kê **The Hobbit diễn viên (phim năm 1977)**.

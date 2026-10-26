@@ -129,7 +129,7 @@ Trong lần đầu tiên xuất hiện trong tác phẩm, Belladonna — cái t�
 
 <b>2012: <i><a href="../T/The_Hobbit%253A_An_Unexpected_Journey.md" title="The Hobbit: An Unexpected Journey">The Hobbit: An Unexpected Journey</a></i>:</b>
 
-<dl><dd>Belladonna xuất hiện chớp nhoáng trong phần mở đầu của Phiên bản mở rộng của bộ phim, thu thập một Bilbo trẻ khi ông tiến lên <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> khi <a href="../W/Wizards.md" title="Wizards">Pháp sư</a> đang bắn pháo hoa trong lễ kỷ niệm đêm Giao thừa. Cô do <a class="new" href="https://tolkiengateway.net/w/index.php?title=Sonia_Forbes-Adam&amp;action=edit&amp;redlink=1" title="Sonia Forbes-Adam (page does not exist)">Sonia Forbes-Adam</a> thủ vai.</dd></dl>
+<dl><dd>Belladonna xuất hiện chớp nhoáng trong phần mở đầu của Bản mở rộng của bộ phim, thu thập một Bilbo trẻ khi ông tiến lên <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> khi <a href="../W/Wizards.md" title="Wizards">Pháp sư</a> đang bắn pháo hoa trong lễ kỷ niệm đêm Giao thừa. Cô do <a class="new" href="https://tolkiengateway.net/w/index.php?title=Sonia_Forbes-Adam&amp;action=edit&amp;redlink=1" title="Sonia Forbes-Adam (page does not exist)">Sonia Forbes-Adam</a> thủ vai.</dd></dl>
 
 <b>2014: <i><a href="../T/The_Hobbit%253A_The_Battle_of_the_Five_Armies.md" title="The Hobbit: The Battle of the Five Armies">The Hobbit: The Battle of the Five Armies</a></i>:</b>
 

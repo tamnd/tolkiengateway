@@ -71,7 +71,7 @@ Sự kiện xảy ra vào ngày 20 tháng 8
 - **[1947](1947.md)** - Nghệ sĩ [Alan Lee](../A/Alan_Lee.md) ra đời.
 - **[1948](1948.md)** - Diễn viên [John Noble](../J/John_Noble.md) ra đời.
 - **[1973](1973.md)** - [Mythcon 4](../M/Mythcon_4.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Santa_Barbara,_California" title="wikipedia:Santa Barbara, California">Santa Barbara</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/California" title="wikipedia:California">California</a>.
-- <b><a href="1981.md" title="1981">1981</a> - <i><a href="../T/The_Letters_of_J.R.R._Tolkien.md" title="The Letters of J.R.R. Tolkien">Những bức thư của J.R.R. Tolkien</a></i> được xuất bản.</b>
+- <b><a href="1981.md" title="1981">1981</a> - <i><a href="../T/The_Letters_of_J.R.R._Tolkien.md" title="The Letters of J.R.R. Tolkien">The Letters of J.R.R. Tolkien</a></i> được xuất bản.</b>
 - **[1992](1992.md)** - [Tolkien Hội nghị Thế kỷ](../T/Tolkien_Centenary_Conference.md), sự kết hợp giữa [Oxonmoot](../O/Oxonmoot.md) 1992 và [Mythcon](../M/Mythcon.md) 23, tại <a class="extiw" href="http://en.wikipedia.org/wiki/Keble_College,_Oxford" title="wikipedia:Keble College, Oxford">Keble College, Oxford</a>.
 - **[2000](2000.md)** - [Mythcon 31](../M/Mythcon_31.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Hawaii" title="wikipedia:Hawaii">Hawaii</a>.
 - **[2004](2004.md)** - Các gói tăng cường của "The Weta Collection", một bộ [The Lord of the Rings Trading Card Game](../T/The_Lord_of_the_Rings_Trading_Card_Game.md) đặc biệt, được phát hành.

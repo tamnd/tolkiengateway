@@ -37,7 +37,7 @@ sort_keys:
 &lt;AuletheSmith&gt;	aren&#39;t we all? :P<br/>
 &lt;KingAragorn&gt;	yeah that wikis more film based<br/>
 &lt;AuletheSmith&gt;	but yeah fans often have a tendency to become overprotective and I think this article will necessarily suffer from that<br/>
-&lt;KingAragorn&gt;	so you think  we should simply delete the articles? Not rewrite or anything?<br/>
+&lt;KingAragorn&gt;	so you think we should simply delete the articles? Not rewrite or anything?<br/>
 &lt;AuletheSmith&gt;	well, maybe it would be better to say that I see little chance of it being brought to the standard of this wiki&#39;s best articles.<br/>
 &lt;AuletheSmith&gt;	i realise completely removing the content is perhaps a bit drastic<br/>
 &lt;AuletheSmith&gt;	but what ways do you think we could improve it?<br/>

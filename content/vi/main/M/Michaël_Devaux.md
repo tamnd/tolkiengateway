@@ -22,7 +22,7 @@ sort_keys:
   "Tolkien Society members": "Devaux, Michael"
 ---
 
-**Michaël Devaux** có bằng tiến sĩ tại Sorbonne với mối quan tâm đặc biệt đến lịch sử triết học và siêu hình học của Leibniz. Ông là biên tập viên của *Bibliographie Cartésienne 1960-1996* cùng với Jean-Robert Armogathe và Vincent Carraud, và đã viết nhiều bài báo về lịch sử triết học thế kỷ XVII cũng như các nghiên cứu về Tolkien. Ông là chủ tịch của [Hiệp hội Tolkien Pháp](../L/L'association_La_Compagnie_de_la_Comté.md) (2011: không còn tồn tại), đồng thời là biên tập viên của *La Feuille de la Compagnie*, người thu thập các nghiên cứu về Tolkien do Ad Solem xuất bản. Ông đã giảng dạy về [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) ở Pháp, Hà Lan và Ý.
+**Michaël Devaux** có bằng tiến sĩ tại Sorbonne với mối quan tâm đặc biệt đến lịch sử triết học và siêu hình học của Leibniz. Ông là biên tập viên của *Bibliographie Cartésienne 1960-1996* cùng với Jean-Robert Armogathe và Vincent Carraud, và đã viết nhiều bài báo về lịch sử triết học thế kỷ XVII cũng như các nghiên cứu về Tolkien. Ông là chủ tịch của [Hội Tolkien Pháp](../L/L'association_La_Compagnie_de_la_Comté.md) (2011: không còn tồn tại), đồng thời là biên tập viên của *La Feuille de la Compagnie*, người thu thập các nghiên cứu về Tolkien do Ad Solem xuất bản. Ông đã giảng dạy về [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) ở Pháp, Hà Lan và Ý.
 
 ## Thư mục, đã chọn {#Bibliography,_selected}
 

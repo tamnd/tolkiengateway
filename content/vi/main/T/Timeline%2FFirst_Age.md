@@ -19,13 +19,13 @@ images:
   - "CdxIconArticle.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="Timeline.md" title="Timeline">Dòng thời gian</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="Timeline.md" title="Timeline">Dòng thời gian</a></b></div></div>
 
 [Kỷ Đệ Nhất](../F/First_Age.md) bắt đầu với [Sự thức tỉnh của Tiên tộc](../A/Awakening_of_the_Elves.md) trong [Năm Cây](../Y/Years_of_the_Trees.md) [1050](../Y/Year_of_the_Trees_1050.md),<sup id="cite_ref-LettersEpoch_1-0" class="reference"><a href="#cite_note-LettersEpoch-1">[1]</a></sup> nhưng những Năm đó kết thúc vào [Y.T.](../Y/Years_of_the_Trees.md) [1500](../Y/Year_of_the_Trees_1500.md) với việc tạo ra [Mặt Trăng](../M/Moon.md) và [Mặt Trời](../S/Sun.md) và được thay thế bằng [Các Năm của Mặt Trời](../Y/Years_of_the_Sun.md). Do đó phần lớn của Kỷ Đệ Nhất tương đương với c. 4.312 năm dương lịch trước lần mọc đầu tiên của Mặt Trời.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 1]</a></sup>
 
 ## [Năm Cây](../Y/Years_of_the_Trees.md) {#Years_of_the_Trees}
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="Timeline%252FYears_of_the_Trees.md" title="Timeline/Years of the Trees">Dòng thời gian/Năm Cây</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="Timeline%252FYears_of_the_Trees.md" title="Timeline/Years of the Trees">Dòng thời gian/Năm Cây</a></b></div></div>
 
 <table class="wikitable">
 <tbody><tr>

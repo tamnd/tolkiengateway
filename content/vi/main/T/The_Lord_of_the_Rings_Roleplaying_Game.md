@@ -35,7 +35,7 @@ infobox:
 
 Hệ thống dành cho LOTRRPG được gọi là *CODA*. Năm 2003, LOTRRPG đã giành được Giải thưởng Nguồn gốc cho *Best Roleplaying Game 2002*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Trò chơi này là trò chơi nhập vai thứ ba được cấp phép bởi [Tolkien Enterprises](../M/Middle-earth_Enterprises.md), những trò chơi còn lại là *[Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)* và phiên bản đơn giản hóa của nó là *[Lord of the Rings Adventure Game](../L/Lord_of_the_Rings_Adventure_Game.md)*, cả hai đều thuộc [Vương miện Sắt Enterprises](../I/Iron_Crown_Enterprises.md).
+Trò chơi này là trò chơi nhập vai thứ ba được cấp phép bởi [Tolkien Enterprises](../M/Middle-earth_Enterprises.md), những trò chơi còn lại là *[Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)* và phiên bản đơn giản hóa của nó là *[Lord of the Rings Adventure Game](../L/Lord_of_the_Rings_Adventure_Game.md)*, cả hai đều thuộc [Iron Crown Enterprises](../I/Iron_Crown_Enterprises.md).
 
 ## Các cuộc đua {#Races}
 

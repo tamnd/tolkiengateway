@@ -31,7 +31,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Công ty [Houghton Mifflin](../H/Houghton_Mifflin.md) đã xin phép Allen &amp; Unwin sử dụng một số câu đố từ *The Hobbit* trong một tuyển tập thơ. Allen và Unwin gợi ý với Tolkien rằng các câu đố chỉ là truyền thuyết dân gian phổ biến chứ không phải do ông sáng tạo ra.
+Công ty [Houghton Mifflin](../H/Houghton_Mifflin.md) đã xin phép Allen &amp; Unwin sử dụng một số câu đố từ *The Hobbit* trong một tuyển tập thơ. Allen and Unwin gợi ý với Tolkien rằng các câu đố chỉ là truyền thuyết dân gian phổ biến chứ không phải do ông sáng tạo ra.
 
 Tolkien trả lời rằng tất cả các câu đố đều là do anh tự làm ngoại trừ "Ba mươi con ngựa trắng" và "Không có chân". Phần còn lại không có mô hình nào mà anh biết, chỉ có câu đố về quả trứng giúp anh rút gọn một câu đố văn học dài hơn. Ông sẽ không đồng ý sử dụng chúng mà không phải trả phí. Ông cũng chỉ ra rằng "Mặt Trời on the Daisies" không có trong thơ (cũng không phải "No-legs").
 

@@ -119,7 +119,7 @@ Danh tiếng học thuật của     - "Tolkien hiện nay"
 - [1995](../_/1995.md): *[Lembas Extra](../U/Unquendor.md)*
     - "Tolkien và vùng trung du Phương Tây: Cội nguồn của sự lãng mạn"'
 - [1997](../_/1997.md): *[Digging Potatoes, Growing Trees - Volume 1](../D/Digging_Potatoes,_Growing_Trees.md)*
-    - "Cảm hứng và phát minh, hoặc nơi Tolkien bị mắc kẹt" \[Bài phát biểu tại bữa tối thường niên của Hiệp hội Tolkien 1980\]
+    - "Cảm hứng và phát minh, hoặc nơi Tolkien bị mắc kẹt" \[Bài phát biểu tại bữa tối thường niên của Hội Tolkien 1980\]
     - "...Tôi nghĩ đến sự kiện Zeebrugge mà không ai viết về nó cả..." \[Bài phát biểu tại bữa tối thường niên của Hội Tolkien 1983\]
 - [1998](../_/1998.md): *[Digging Potatoes, Growing Trees - Volume 2](../D/Digging_Potatoes,_Growing_Trees.md)*
     - "Những người này có điểm gì chung? Có một điều... họ đều đã bị bắn" \[Bài phát biểu tại Bữa tối thường niên của Hội Tolkien 1991\]

@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Đây có thể là Ent hoặc anh trai song sinh của ông ta.
+Đây có thể là Ent hoặc anh trai song sinh của ông.
 
 ## Giấy phép {#Licensing}
 

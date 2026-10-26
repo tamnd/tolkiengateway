@@ -13,11 +13,11 @@ categories:
   - "Tolkien Societies"
 ---
 
-**Hiệp hội Tolkien Hoa Kỳ** là một hiệp hội [Tolkien](../J/J.R.R._Tolkien.md) có trụ sở trên khắp Hoa Kỳ.
+**Hội Tolkien Hoa Kỳ** là một hiệp hội [Tolkien](../J/J.R.R._Tolkien.md) có trụ sở trên khắp Hoa Kỳ.
 
 ## Lịch sử {#History}
 
-Hiệp hội Tolkien Hoa Kỳ được thành lập tại [1975](../_/1975.md) bởi Phil và Marci Helms, Paul Ritz và Dave Dettman. Tạp chí của nó, *[Minas Tirith Evening Star](../M/Minas_Tirith_Evening_Star.md)*, được xuất bản hàng quý kể từ [1967](../_/1967.md) vì ban đầu nó là một ấn phẩm độc lập.
+Hội Tolkien Hoa Kỳ được thành lập tại [1975](../_/1975.md) bởi Phil và Marci Helms, Paul Ritz và Dave Dettman. Tạp chí của nó, *[Minas Tirith Evening Star](../M/Minas_Tirith_Evening_Star.md)*, được xuất bản hàng quý kể từ [1967](../_/1967.md) vì ban đầu nó là một ấn phẩm độc lập.
 
 ## Liên kết ngoài {#External_links}
 

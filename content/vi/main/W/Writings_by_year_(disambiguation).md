@@ -21,7 +21,7 @@ Trên Tolkien Gateway, có một số thư mục theo trình tự thời gian c�
 
 - **[Thơ của J.R.R. Tolkien](../../index/P/Poems_by_J.R.R._Tolkien.md)** (danh sách theo trình tự thời gian)
 
-- **[Những bức thư không được đăng trong "Những bức thư của J.R.R. Tolkien"](../L/Letters_not_published_in_%2522The_Letters_of_J.R.R._Tolkien%2522.md)** (danh sách theo thời gian bao gồm những bức thư chưa được công bố)
+- **[Những bức thư không được đăng trong "The Letters of J.R.R. Tolkien"](../L/Letters_not_published_in_%2522The_Letters_of_J.R.R._Tolkien%2522.md)** (danh sách theo thời gian bao gồm những bức thư chưa được công bố)
 
 <hr style="margin-top:15px;"/>
 

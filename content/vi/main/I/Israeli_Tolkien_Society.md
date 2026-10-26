@@ -21,7 +21,7 @@ images:
 <p class="tg-quote-footer"><cite><a href="../G/Glóin.md" title="Glóin">Glóin</a></cite></p>
 </blockquote></div></div>
 
-**Hiệp hội Tolkien Israel** (**עמותת טולקין הישראלית**) là [Tolkien hiệp hội](../T/Tolkien_Societies~67099.md) ở Israel.
+**Hội Tolkien Israel** (**עמותת טולקין הישראלית**) là [Tolkien hiệp hội](../T/Tolkien_Societies~67099.md) ở Israel.
 
 ## Lịch sử {#History}
 

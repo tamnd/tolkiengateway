@@ -35,7 +35,7 @@ images:
   - "CdxIconArticle.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../C/Celebrant.md" title="Celebrant">Celebrant</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="../C/Celebrant.md" title="Celebrant">Celebrant</a></b></div></div>
 
 **Kibil-nâla** là tên [Người Lùn](../D/Dwarvish.md) của con sông chảy qua [Lothlórien](../L/Lothlórien.md), được [Tiên tộc](../E/Elves.md) gọi là [Celebrant](../C/Celebrant.md) và [Con Người](../M/Men.md) là [Silverlode](../S/Silverlode.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 

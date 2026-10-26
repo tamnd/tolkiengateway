@@ -21,7 +21,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Ozmoot 2026</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin hội nghị</span></th></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data">Holt Neighbourhood Hall, Holt, Canberra, ACT, Australia [<a class="external text" href="https://www.westoncccentre.org.au/room-hire/holt-neighbourhood-hall/" rel="noreferrer noopener" target="_blank">Details</a>] and Online</td></tr><tr><th scope="row" class="tg-infobox-label">Organizer</th><td class="tg-infobox-data"><a href="../H/Hern_Ennorath.md" title="Hern Ennorath">Hern Ennorath</a></td></tr><tr><th scope="row" class="tg-infobox-label">Ngày tháng</th><td class="tg-infobox-data"><a href="../_/24_January.md" title="24 January">24 January</a> - <a href="../_/26_January.md" title="26 January">26 January</a> <a href="../_/2026.md" title="2026">2026</a></td></tr></tbody></table>
 
-**Ozmoot 2026** là hội nghị thường niên lần thứ tư tại Úc dành cho những người hâm mộ các tác phẩm J.R.R. Tolkien và mọi thứ Trung Địa. Đây là một sự kiện kết hợp có cả sự tham gia trực tiếp và trực tuyến. Hiệp hội Tolkien Úc ​​ [Hern Ennorath](../H/Hern_Ennorath.md) là một lời khen ngợi của Hiệp hội [Tolkien](../T/Tolkien_Society.md). Sự kiện phi lợi nhuận này được hỗ trợ bởi Đại học Signum và Tolkien Giáo sư [Corey Olsen](../C/Corey_Olsen.md) sẽ trực tiếp tham dự.
+**Ozmoot 2026** là hội nghị thường niên lần thứ tư tại Úc dành cho những người hâm mộ các tác phẩm J.R.R. Tolkien và mọi thứ Trung Địa. Đây là một sự kiện kết hợp có cả sự tham gia trực tiếp và trực tuyến. Hội Tolkien Úc ​​ [Hern Ennorath](../H/Hern_Ennorath.md) là một lời khen ngợi của Hiệp hội [Tolkien](../T/Tolkien_Society.md). Sự kiện phi lợi nhuận này được hỗ trợ bởi Đại học Signum và Tolkien Giáo sư [Corey Olsen](../C/Corey_Olsen.md) sẽ trực tiếp tham dự.
 
 ### Chủ đề {#Theme}
 
@@ -29,7 +29,7 @@ Chủ đề của năm 2026 là "Lễ kỷ niệm, Nghi lễ và Tán tỉnh" tr
 
 ### Chương trình {#Programme}
 
-Hội nghị kéo dài ba ngày là sự hợp tác giữa Đại học Signum và Hern Ennorath, người Úc của Hiệp hội Tolkien.
+Hội nghị kéo dài ba ngày là sự hợp tác giữa Đại học Signum và Hern Ennorath, người Úc của Hội Tolkien.
 
 Chúng tôi có đầy đủ chương trình trò chuyện và thuyết trình âm nhạc.
 

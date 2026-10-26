@@ -123,7 +123,7 @@ Cả Umbar và Harad đều nằm ngoài tầm kiểm soát của Gondor khi quy
 
 ### Những người phục sinh {#Easterlings}
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../E/Easterlings.md" title="Easterlings">Những người phục sinh</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="../E/Easterlings.md" title="Easterlings">Những người phục sinh</a></b></div></div>
 
 Hầu hết Con Người chiến đấu trong quân đội của Morgoth và Sauron đều là [Người phương Đông](../E/Easterlings.md), đến từ những vùng đất bên kia [Biển Rhûn](../S/Sea_of_Rhûn.md). Một số Người phương Đông đã phục vụ các vương quốc của Tiên tộc ở Beleriand; trong số đó có [Bór](../B/Bór.md) và các con trai của ông, cùng [Ulfang Đen](../U/Ulfang_the_Black.md) và các con trai của ông. Điều này đã dẫn đến thảm họa cho Tiên tộc trong [Nirnaeth Arnoediad](../N/Nirnaeth_Arnoediad.md), khi Ulfang và gia tộc của ông đổi phe và quay sang phục vụ Morgoth, mặc dù Bór và các con trai của ông đã anh dũng chiến đấu và hy sinh bên phe [Eldar](../E/Eldar.md).
 
@@ -139,7 +139,7 @@ Trong Cuộc chiến Nhẫn, Easterlings nằm trong số những chiến binh t
 
 ### Người phương Bắc {#Northmen}
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../N/Northmen.md" title="Northmen">Người phương Bắc</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="../N/Northmen.md" title="Northmen">Người phương Bắc</a></b></div></div>
 
 Không phải tất cả Con Người ở lại phía đông Dãy Núi Xanh và Dãy Núi Sương Mù trong Kỷ Đệ Nhất đều bị Morgoth hoặc Sauron cám dỗ; sau Cuộc chiến Thịnh nộ, họ được bổ sung thêm những người Edain không muốn đến Númenor. Những [Người phương Bắc](../N/Northmen.md) sống ở [Greenwood the Great](Mirkwood.md) và các vùng khác của [Rhovanion](../R/Rhovanion.md) có quan hệ hữu hảo với Dúnedain, vì phần lớn có quan hệ huyết thống với họ, và nhiều người trong số họ trở thành thần dân của Gondor. Cư dân [Dale](../D/Dale.md) và [Esgaroth](../L/Lake-town.md) là Người phương Bắc, cũng như [Người Rừng](../W/Woodmen.md) ở Mirkwood, bộ tộc [những người biến hình](../S/Skin-changers.md) về sau được gọi là [Beornings](../B/Beornings.md), và [Éothéod](../_/Éothéod.md), những người sau này trở thành [Rohirrim](../R/Rohirrim.md), hay Chúa tể Kỵ sĩ.
 
@@ -151,7 +151,7 @@ Do mối thù với Rohirrim, người Dunlendings đã phục vụ [Saruman](..
 
 ### Drúedain {#Drúedain}
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../D/Drúedain.md" title="Drúedain">Drúedain</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="../D/Drúedain.md" title="Drúedain">Drúedain</a></b></div></div>
 
 Một nhóm Con Người khác là [Drúedain](../D/Drúedain.md), còn được gọi là [Woses](../W/Woses.md). Họ nhỏ bé, lưng còng, số lượng luôn ít ỏi và tuổi thọ ngắn ngủi so với các chủng tộc Con Người khác. Họ sống cùng Nhà Haleth trong Kỷ Đệ Nhất và được Tiên tộc xem là Edain; Tiên tộc gọi họ là *Drúedain* (ghép từ *Drûg*, tên họ tự gọi mình, và *Edain*).
 
@@ -159,7 +159,7 @@ Vào cuối Kỷ Đệ Tam, một số Woses vẫn còn sống trong Rừng Drú
 
 ### Hobbit {#Hobbits}
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../H/Hobbits.md" title="Hobbits">Hobbit</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="../H/Hobbits.md" title="Hobbits">Hobbit</a></b></div></div>
 
 [Hobbit](../H/Hobbits.md) về bản chất là một chủng tộc Con Người chứ không phải một loài riêng biệt. Nguồn gốc của Hobbit không rõ ràng; họ lần đầu tiên được ghi chép trong sử liệu của các nhóm Con Người khác vào giữa [Kỷ Đệ Tam](../T/Third_Age.md).
 

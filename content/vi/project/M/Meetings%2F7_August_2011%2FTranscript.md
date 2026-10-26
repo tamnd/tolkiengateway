@@ -62,7 +62,7 @@ sort_keys:
 [2011-08-07 20:11:46] &lt;Morgan&gt; Amroth has kind of standard, right?<br/>
 [2011-08-07 20:12:03] &lt;Morgan&gt; If the guy/girl has made more than 2 games, then it gets a page?<br/>
 [2011-08-07 20:13:11] &lt;Ederchil&gt; if a company has more than 2 games, then yes.<br/>
-[2011-08-07 20:13:40] &lt;Morgan&gt;  I kind of remember he said something similar for game creators, nevermind<br/>
+[2011-08-07 20:13:40] &lt;Morgan&gt; I kind of remember he said something similar for game creators, nevermind<br/>
 [2011-08-07 20:13:46] &lt;Morgan&gt; -&gt; forum<br/>
 [2011-08-07 20:13:52] &lt;Ederchil&gt; yes<br/>
 [2011-08-07 20:14:07] &lt;Mith&gt; I think this is one of those area we&#39;ve &#34;grown&#34; into<br/>

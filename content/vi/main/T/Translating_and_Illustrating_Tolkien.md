@@ -57,7 +57,7 @@ infobox:
 
 <blockquote class="tg-quote noexcerpt">
 <p>Các tác phẩm của J.R.R. Tolkien đã thu hút được sự chú ý trên toàn cầu, dẫn đến các bản dịch sang hơn 30 ngôn ngữ và một loạt các hình minh họa độc đáo về mặt phong cách. Bản thân là một dịch giả và họa sĩ minh họa, Tolkien nhận thức sâu sắc về những thách thức và lợi ích mà cả hai đều mang lại cho một văn bản viết. Dịch và Minh họa Tolkien khám phá những gì các quy trình này thêm vào, phát ra hoặc bổ sung cho văn bản gốc của Tolkien.
-</p><p>Được tổ chức trực tuyến, hội thảo mùa thu của Hiệp hội Tolkien 2021 đã kết thúc bộ ba hội thảo trong năm, chào đón hơn 1600 người từ khắp nơi trên thế giới. Được xuất bản dưới sự bảo trợ của Quỹ tưởng niệm Peter Roe của Hiệp hội, kỷ yếu này bao gồm một bộ sưu tập sáu bài báo được trình bày tại hội thảo Mùa thu năm 2021 của Hiệp hội Tolkien.
+</p><p>Được tổ chức trực tuyến, hội thảo mùa thu của Hội Tolkien 2021 đã kết thúc bộ ba hội thảo trong năm, chào đón hơn 1600 người từ khắp nơi trên thế giới. Được xuất bản dưới sự bảo trợ của Quỹ tưởng niệm Peter Roe của Hiệp hội, kỷ yếu này bao gồm một bộ sưu tập sáu bài báo được trình bày tại hội thảo Mùa thu năm 2021 của Hội Tolkien.
 </p>
 </blockquote>
 

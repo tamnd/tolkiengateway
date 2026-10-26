@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Sauron](../../main/S/Sauron.md) rèn [Chiếc nhẫn duy nhất](../../main/T/The_One_Ring.md). Ảnh chụp màn hình từ [*The Lord of the Rings* (phim 1978)](<../../main/T/The_Lord_of_the_Rings_(1978_film).md>).
+[Sauron](../../main/S/Sauron.md) rèn [Chiếc nhẫn duy nhất](../../main/T/The_One_Ring.md). Ảnh chụp màn hình từ [*The Lord of the Rings* (phim năm 1978)](<../../main/T/The_Lord_of_the_Rings_(1978_film).md>).
 
 ## Giấy phép {#Licensing}
 

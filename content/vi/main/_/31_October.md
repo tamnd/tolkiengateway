@@ -79,7 +79,7 @@ Sự kiện xảy ra vào ngày 31 tháng 10
 - **[1974](1974.md)** - Nghệ sĩ [Randy Gallegos](../R/Randy_Gallegos.md) ra đời.
 - **[2001](2001.md)** - *[Tyalië Tyelelliéva](../T/Tyalië_Tyelelliéva.md)* số [17](../T/Tyalië_Tyelelliéva_17.md) được xuất bản.
 - **[2005](2005.md)** - [RingCon](../R/RingCon.md) V tại <a class="extiw" href="http://en.wikipedia.org/wiki/SeaTac,_Washington" title="wikipedia:SeaTac, Washington">SeaTac, Washington</a>.
-- **[2010](2010.md)** - Mereth Aderthad XVI, hay "EstelCon" của Hiệp hội Tolkien tiếng Tây Ban Nha ở <a class="extiw" href="http://en.wikipedia.org/wiki/Valencia" title="wikipedia:Valencia">Valencia</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Spain" title="wikipedia:Spain">Tây Ban Nha</a>.
+- **[2010](2010.md)** - Mereth Aderthad XVI, hay "EstelCon" của Hội Tolkien tiếng Tây Ban Nha ở <a class="extiw" href="http://en.wikipedia.org/wiki/Valencia" title="wikipedia:Valencia">Valencia</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Spain" title="wikipedia:Spain">Tây Ban Nha</a>.
 
 ## Trong Arda {#In_Arda}
 

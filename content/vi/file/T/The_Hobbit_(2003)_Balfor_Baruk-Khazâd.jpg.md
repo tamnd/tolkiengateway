@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Người lùn](../../main/D/Dwarves.md) [Balfor](../../main/B/Balfor.md) hét lên khi đối đầu với [tiếng kêu chiến của người lùn](../../main/B/Baruk_Khazâd!_Khazâd_ai-mênu!.md), trong trò chơi [2003](../../main/_/2003.md) *[The Hobbit](<../../main/T/The_Hobbit_(2003_video_game).md>)*.
+[Người Lùn](../../main/D/Dwarves.md) [Balfor](../../main/B/Balfor.md) hét lên khi đối đầu với [tiếng kêu chiến của người lùn](../../main/B/Baruk_Khazâd!_Khazâd_ai-mênu!.md), trong trò chơi [2003](../../main/_/2003.md) *[The Hobbit](<../../main/T/The_Hobbit_(2003_video_game).md>)*.
 
 ## Giấy phép {#Licensing}
 

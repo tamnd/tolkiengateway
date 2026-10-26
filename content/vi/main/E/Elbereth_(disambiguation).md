@@ -62,7 +62,7 @@ images:
 
 ## Cộng đồng người hâm mộ {#Fandom}
 
-- <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Elbereth_(journal)&amp;action=edit&amp;redlink=1" title="Elbereth (journal) (page does not exist)">Elbereth (tạp chí)</a></i>, tạp chí của Hiệp hội Tolkien Úc ​​ <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Fellowship_of_Middle_Earth&amp;action=edit&amp;redlink=1" title="Fellowship of Middle Earth (page does not exist)">Hiệp hội Trung Địa</a></i>.
+- <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Elbereth_(journal)&amp;action=edit&amp;redlink=1" title="Elbereth (journal) (page does not exist)">Elbereth (tạp chí)</a></i>, tạp chí của Hội Tolkien Úc ​​ <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Fellowship_of_Middle_Earth&amp;action=edit&amp;redlink=1" title="Fellowship of Middle Earth (page does not exist)">Hiệp hội Trung Địa</a></i>.
 - [Một Elbereth Gilthoniel! 1, không. 2](../A/A_Elbereth_Gilthoniel!_1,_no._2.md), Số bản tin
 
 <span></span>

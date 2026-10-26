@@ -71,7 +71,7 @@ Ngẩn ngơ, Irolas chứng kiến ​​sự sụp đổ hoàn toàn của Dene
 
 ## Cảm hứng {#Inspiration}
 
-Trong phần bình luận của *[The Lord of the Rings: The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)* ([Phiên bản mở rộng](<../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_(extended_edition).md>)), người ta nói rằng ban đầu ông được gọi là [Beregond](../B/Beregond.md), nhưng do vai trò đã bị giảm bớt nên [Peter Jackson](../P/Peter_Jackson.md) thấy việc vẫn gọi ông là Beregond không có tác dụng gì.<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup> Trên [Thẻ giải mã](../T/The_Lord_of_the_Rings_Trading_Card_Game.md), Irolas được xác định là [Imrahil](Imrahil.md) thay vào đó.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Trong phần bình luận của *[The Lord of the Rings: The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)* ([Bản mở rộng](<../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_(extended_edition).md>)), người ta nói rằng ban đầu ông được gọi là [Beregond](../B/Beregond.md), nhưng do vai trò đã bị giảm bớt nên [Peter Jackson](../P/Peter_Jackson.md) thấy việc vẫn gọi ông là Beregond không có tác dụng gì.<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup> Trên [Thẻ giải mã](../T/The_Lord_of_the_Rings_Trading_Card_Game.md), Irolas được xác định là [Imrahil](Imrahil.md) thay vào đó.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

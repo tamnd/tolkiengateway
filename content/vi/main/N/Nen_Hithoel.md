@@ -52,7 +52,7 @@ infobox:
 <p class="tg-quote-footer"><cite><i><a href="../T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="../T/The_Great_River.md" title="The Great River">The Great River</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Nen Hithoel** là một hồ nước lớn trên Sông Lớn [Anduin](../A/Anduin.md) giữa [Emyn Muil](../E/Emyn_Muil.md) về phía đông của [Rohan](../R/Rohan.md).
+**Nen Hithoel** là một hồ nước lớn trên Đại Hà [Anduin](../A/Anduin.md) giữa [Emyn Muil](../E/Emyn_Muil.md) về phía đông của [Rohan](../R/Rohan.md).
 
 ## Mô tả {#Description}
 

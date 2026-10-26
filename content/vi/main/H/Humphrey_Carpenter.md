@@ -64,7 +64,7 @@ Trong những năm cuối đời, Carpenter mắc bệnh Parkinson và qua đờ
 - [1977](../_/1977.md): [*Sunday Telegraph Magazine* (9/11/1977)](<../../file/S/Sunday_Telegraph_Magazine_(11-9-1977).jpg.md>)
     - "[Một thế giới của riêng anh](../../file/H/Humphrey_Carpenter_-_A_World_of_His_Own.jpg.md)"
 - [1977](../_/1977.md): [Mallorn 10](../M/Mallorn_10.md)
-    - “Bài nói chuyện trên bàn: Bản ghi lại các bài phát biểu sau bữa tối tại Đại hội đồng thường niên năm 1976 của Hiệp hội Tolkien,”,p. 34-43.
+    - “Bài nói chuyện trên bàn: Bản ghi lại các bài phát biểu sau bữa tối tại Đại hội đồng thường niên năm 1976 của Hội Tolkien,”,p. 34-43.
 - [1980](../_/1980.md): *Minas Tirith Evening-Star* 9, không. 2 (tháng 1 năm 1980), trang 16–17
     - "[A Dialogue: Discussion by Humphrey Carpenter, Professor George Sayer and Dr. Clyde S. Kilby; recorded Sept. 29, 1979, Wheaton, Illinois](../A/A_Dialogue%253A_Discussion_by_Humphrey_Carpenter,_Professor_George_Sayer_and_Dr._Clyde_S._Kilby.md)"
 - [1988](../_/1988.md): [*Amon Hen* 91](../A/Amon_Hen_91.md)

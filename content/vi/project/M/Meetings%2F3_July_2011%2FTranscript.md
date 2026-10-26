@@ -171,7 +171,7 @@ Jul 03 12:39:52 &lt;Mith&gt;	AYE<br/>
 Jul 03 12:39:54 &lt;Ainaldo&gt;	Aye<br/>
 Jul 03 12:39:55 &lt;Amroth&gt;	Nay<br/>
 Jul 03 12:39:58 &lt;Morgan&gt;	Aye<br/>
-Jul 03 12:40:06 &lt;mithrennaith&gt;	Whereas with people,  even Hobbits or Men, I don’t feel comfortable with saying ‘a Hobbit was ...’<br/>
+Jul 03 12:40:06 &lt;mithrennaith&gt;	Whereas with people, even Hobbits or Men, I don’t feel comfortable with saying ‘a Hobbit was ...’<br/>
 Jul 03 12:40:15 &lt;mithrennaith&gt;	nay<br/>
 Jul 03 12:40:21 &lt;Hyarion&gt;	Nay<br/>
 Jul 03 12:40:40 &lt;Morgan&gt;	(although I don&#39;t think we should democratically decide this)<br/>
@@ -248,7 +248,7 @@ Jul 03 12:53:23 &lt;mithrennaith&gt;	-- so it just becomes an additional diction
 Jul 03 12:53:45 &lt;Amroth&gt;	If I I want to search information about Olorin I will search for Olorin, for Gandalf I would search for Gandalf.<br/>
 Jul 03 12:53:49 &lt;mithrennaith&gt;	Whereas Gandalf is not just a dictionary gloss for Olorin - it is a whole encyclopedic subject.<br/>
 Jul 03 12:54:02 &lt;Mith&gt;	You make it sound so easy, Amroth<br/>
-Jul 03 12:54:07 &lt;KingAragorn&gt;	Two mountains currently equates to 6 articles:  Caradhras, and Baraz; Fanuidhol, Cloudyhead, Bundushathûr, and Shathûr.<br/>
+Jul 03 12:54:07 &lt;KingAragorn&gt;	Two mountains currently equates to 6 articles: Caradhras, and Baraz; Fanuidhol, Cloudyhead, Bundushathûr, and Shathûr.<br/>
 Jul 03 12:54:29 &lt;Mith&gt;	But for many concepts a Sindarin and English name may be much closer in notability<br/>
 Jul 03 12:54:29 &lt;mithrennaith&gt;	That is inconsistent, and just plain silly.<br/>
 Jul 03 12:54:34 &lt;KingAragorn&gt;	Not very easy for the reader to understand<br/>
@@ -530,7 +530,7 @@ Jul 03 13:59:42 &lt;mithrennaith&gt;	-- are run in the public benefit, do not de
 Jul 03 13:59:57 &lt;mithrennaith&gt;	And that is the whole problem: --<br/>
 Jul 03 14:01:11 &lt;mithrennaith&gt;	-- that the several forms of UK law use a concept of public law - how the country is run - to regulate a concept of private law - how people can organise there activities in a proper and valid way.<br/>
 Jul 03 14:02:59 &lt;mithrennaith&gt;	That is why I am wary of becoming a charity just for the purpose of gaining legal personality, for the instrument is flawed for that purpose, and with it comes a lot of legal requirements that have nothing to do with our purpose, and that we can miss like a pain in the ass.<br/>
-Jul 03 14:03:50 &lt;mithrennaith&gt;	I think someone with a good understanding of US (and state) law should investigate what the position is there, and what the pro’s, con’s and legal requirements and duties  are.<br/>
+Jul 03 14:03:50 &lt;mithrennaith&gt;	I think someone with a good understanding of US (and state) law should investigate what the position is there, and what the pro’s, con’s and legal requirements and duties are.<br/>
 Jul 03 14:04:14 &lt;KingAragorn&gt;	What legal requirements under, say, English and Welsh law?<br/>
 Jul 03 14:04:26 &lt;KingAragorn&gt;	For a very small charity<br/>
 Jul 03 14:04:51 &lt;mithrennaith&gt;	For, like it or not, the only locality we are bound to at the moment is where Hyarion operates our server, and that is in the US. --<br/>

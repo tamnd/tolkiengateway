@@ -15,7 +15,7 @@ sort_keys:
 ---
 
 <div class="poem">
-<p>[2012-09-02 20:03:17] &lt;KingAragorn&gt; We need not hold a formal meeting as there  isn&#39;t really anything to decide and there are many absent<br/>
+<p>[2012-09-02 20:03:17] &lt;KingAragorn&gt; We need not hold a formal meeting as there isn&#39;t really anything to decide and there are many absent<br/>
 [2012-09-02 20:03:17] &lt;KingAragorn&gt; What do you think of the Tengwar transcriber? How should we utilise it?<br/>
 [2012-09-02 20:03:17] &lt;KingAragorn&gt; <a class="external free" href="http://tolkienindex.net/index/User:KingAragorn" rel="noreferrer noopener" target="_blank">http://tolkienindex.net/index/User:KingAragorn</a><br/>
 [2012-09-02 20:04:17] &lt;Ederchil&gt; Preferably, in a way that works.<br/>
@@ -103,7 +103,7 @@ sort_keys:
 [2012-09-02 22:28:36] &lt;Ainaldo&gt; to and from IPA might be relatively straightforward, but it would be a decent chunk of work and research.<br/>
 [2012-09-02 22:28:50] &lt;Ainaldo&gt; particularly with regard to the use of H.<br/>
 [2012-09-02 22:29:20] &lt;Ainaldo&gt; Itâ€™s just another wonderful dimension of these languages that the pronunciation sometimes shifted independently of the spelling<br/>
-[2012-09-02 22:30:25] &lt;Ainaldo&gt; english phonemic is particularly difficult.  it would necessitate finding an online data source that i can use to quickly query the IPA for english words<br/>
+[2012-09-02 22:30:25] &lt;Ainaldo&gt; english phonemic is particularly difficult. it would necessitate finding an online data source that i can use to quickly query the IPA for english words<br/>
 [2012-09-02 22:31:25] &lt;Ainaldo&gt; something similar i actually might be able to manage would be to grab data from elfdict.com for attested spellings and pronunciations, and language auto-recognition<br/>
 [2012-09-02 22:32:05] &lt;Ainaldo&gt; but, just like the map of middle-earth, this is a bit of a rabbit hole. it just keeps getting deeper the closer you look at it.<br/>
 [2012-09-02 23:29:59] |&lt;-- Morgan has left irc.tolkiengateway.net (Ping timeout)

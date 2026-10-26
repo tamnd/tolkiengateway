@@ -47,7 +47,7 @@ Dòng thời gian về cuộc đời của [Frodo Baggins](../F/Frodo_Baggins.md
 ## [3018](Third_Age_3018.md) {#3018}
 
 - [12 tháng 4](../_/12_April.md): Gandalf đến Bag End.
-- [13 tháng 4](../_/13_April.md): Frodo biết mình có Chiếc nhẫn Chúa và quyết định rời bỏ Shire.
+- [13 tháng 4](../_/13_April.md): Frodo biết mình có Nhẫn Chúa và quyết định rời bỏ Shire.
 
 - [22 tháng Chín](../_/22_September.md): Frodo bước sang tuổi 50.
 - [23 tháng Chín](../_/23_September.md): Frodo rời đi Bag End.

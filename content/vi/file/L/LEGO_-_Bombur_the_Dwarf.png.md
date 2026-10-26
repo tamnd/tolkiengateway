@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Bombur Người lùn](../../main/B/Bombur.md) - [LEGO](../../main/L/Lego.md) mô hình nhỏ
+[Bombur Người Lùn](../../main/B/Bombur.md) - [LEGO](../../main/L/Lego.md) mô hình nhỏ
 
 ## Giấy phép {#Licensing}
 

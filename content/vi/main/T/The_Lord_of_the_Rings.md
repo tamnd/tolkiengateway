@@ -341,7 +341,7 @@ China Mieville, một nhà văn giả tưởng đương đại, đã chỉ tríc
 
 <dl><dt>phim năm 1978</dt></dl>
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)">The Lord of the Rings (1978 film)</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)">The Lord of the Rings (1978 film)</a></b></div></div>
 
 <br> Bộ phim này ban đầu do [United Artists](../U/United_Artists.md) phát hành và được [Ralph Bakshi](../R/Ralph_Bakshi.md) đạo diễn. Phim sử dụng kỹ thuật hoạt hình có tên là rotoscoping, trong đó cảnh quay các diễn viên người thật được ghi lại rồi đồ lại từng khung hình.
 
@@ -359,7 +359,7 @@ Vì bộ phim hướng đến khán giả nhỏ tuổi nên những người hâ
 
 <dl><dt>Phim 2001-2003</dt></dl>
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)">The Lord of the Rings (film series)</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)">The Lord of the Rings (film series)</a></b></div></div>
 
 <br> Đây là loạt ba phim phiêu lưu kỳ ảo sử thi do [Peter Jackson](../P/Peter_Jackson.md) đạo diễn. Ba phần phim lần lượt mang tên \*The Fellowship of the Ring\* ([2001](../_/2001.md)), \*The Two Towers\* ([2002](../_/2002.md)) và \*The Return of the King\* ([2003](../_/2003.md)). Được [New Line Cinema](../N/New_Line_Cinema.md) sản xuất và phân phối với sự đồng sản xuất của WingNut Films, loạt phim là dự án hợp tác quốc tế giữa New Zealand và Hoa Kỳ. Loạt phim quy tụ dàn diễn viên gồm Elijah Wood, Ian McKellen, Liv Tyler, Viggo Mortensen, Sean Astin, Cate Blanchett, John Rhys-Davies, Christopher Lee, Billy Boyd, Dominic Monaghan, Orlando Bloom, Hugo Weaving, Andy Serkis và Sean Bean.
 
@@ -371,7 +371,7 @@ Một [tác phẩm kịch phát thanh năm 1979](<The_Lord_of_the_Rings_(1979_ra
 
 <dl><dt>Stage</dt></dl>
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="The_Lord_of_the_Rings_(musical).md" title="The Lord of the Rings (musical)">The Lord of the Rings (musical)</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="The_Lord_of_the_Rings_(musical).md" title="The Lord of the Rings (musical)">The Lord of the Rings (musical)</a></b></div></div>
 
 Mirvish Productions đã dàn dựng phiên bản nhạc kịch sân khấu chuyển thể từ \*The Lord of the Rings\*, do Shaun McKenna và Matthew Warchus viết, phần âm nhạc do A. R. Rahman và Värttinä sáng tác với sự cộng tác của Christopher Nightingale, và do Matthew Warchus đạo diễn. Vở nhạc kịch công diễn vào [ngày 23 tháng 3](../_/23_March.md) [năm 2006](../_/2006.md) tại Nhà hát Princess of Wales ở Toronto và tại London vào mùa thu năm 2006.
 

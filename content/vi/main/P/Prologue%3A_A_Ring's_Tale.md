@@ -77,5 +77,5 @@ Sauron chiếm lại Nine và biến người đeo chúng thành Nazgûl. Ông p
 - Việc rèn những chiếc Nhẫn được cho là đã diễn ra vào "những năm đầu của [Kỷ Đệ Nhị](../S/Second_Age.md)"; nó diễn ra vào khoảng giữa Kỷ Đệ Nhị.
 - Sauron được cho là đã học được truyền thuyết về Chế tạo chiếc nhẫn sau khi Tiên tộc chế tạo những chiếc nhẫn khác, thay vì hỗ trợ [Celebrimbor](../C/Celebrimbor.md) trong quá trình này.
 - [Elendil](../E/Elendil.md) và [Gil-galad](../G/Gil-galad.md) không tiêu diệt được Sauron; đúng hơn, Isildur xuất hiện từ trong bóng tối và làm anh ngạc nhiên.
-- Sauron đã chiếm được [Chín chiếc nhẫn](../N/Nine_Rings.md) và biến người đeo chúng thành [Nazgûl](../N/Nazgûl.md), trong khi trong sách, chính những chiếc nhẫn đã làm được điều đó. Ngoài ra, Nine được "tạo ra" một cách rõ ràng để tìm kiếm Chiếc nhẫn Chúa.
+- Sauron đã chiếm được [Chín chiếc nhẫn](../N/Nine_Rings.md) và biến người đeo chúng thành [Nazgûl](../N/Nazgûl.md), trong khi trong sách, chính những chiếc nhẫn đã làm được điều đó. Ngoài ra, Nine được "tạo ra" một cách rõ ràng để tìm kiếm Nhẫn Chúa.
 - Isildur bị giết khi ông ngồi bên bờ sông chạm vào [Chiếc nhẫn duy nhất](../T/The_One_Ring.md) và ném nó đi khi ông rơi khỏi Orc mũi tên, thay vì nó phản bội ông khi ông cố gắng chạy trốn.

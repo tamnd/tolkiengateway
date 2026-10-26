@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Lord of the Rings - The Fellowship of the Ring - Farin - Dwarven Emissary.jpg"
 ---
 
-Chuyển hướng đến [Tệp:The Lord of the Rings - The Fellowship of the Ring - Farin - Người lùn Emissary.jpg](The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Farin_-_Dwarven_Emissary.jpg.md).
+Chuyển hướng đến [Tệp:The Lord of the Rings - The Fellowship of the Ring - Farin - Người Lùn Emissary.jpg](The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Farin_-_Dwarven_Emissary.jpg.md).

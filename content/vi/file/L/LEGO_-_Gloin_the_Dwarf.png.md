@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Glo nhân vật nhỏ Người lùn](../../main/G/Glóin.md) - [LEGO](../../main/L/Lego.md). Nguồn: <a class="external text" href="https://www.brickeconomy.com/minifig/lor055/gloin-the-dwarf" rel="noreferrer noopener" target="_blank">BrickEconomy</a>
+[Glo nhân vật nhỏ Người Lùn](../../main/G/Glóin.md) - [LEGO](../../main/L/Lego.md). Nguồn: <a class="external text" href="https://www.brickeconomy.com/minifig/lor055/gloin-the-dwarf" rel="noreferrer noopener" target="_blank">BrickEconomy</a>
 
 ## Giấy phép {#Licensing}
 

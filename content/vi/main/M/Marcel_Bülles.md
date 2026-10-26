@@ -46,13 +46,13 @@ infobox:
 
 Bülles đã cộng tác với Giáo sư [Michael D.C. Drout](Michael_D.C._Drout.md) trong nghiên cứu về [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), hỗ trợ biên soạn kỷ yếu học thuật *[Tolkien Studies](<../T/Tolkien_Studies_(journal).md>)*và đóng góp một số bài báo cho *[J.R.R. Tolkien Encyclopedia](../J/J.R.R._Tolkien_Encyclopedia.md)*.
 
-Ông là chủ tịch sáng lập của [Hiệp hội Tolkien Đức](../G/German_Tolkien_Society.md) (1997) và là Đại diện Châu Âu của Hiệp hội Tolkien, Vương quốc Anh. Ông đã khởi xướng hội nghị học thuật thường niên thường niên đầu tiên ở Đức trên Tolkien (Tolkien Hội thảo) và là người đồng sáng lập [Ring\*Con](../R/Ring%252ACon.md), hội nghị bộ ba phim lớn nhất và đầu tiên ở Châu Âu.
+Ông là chủ tịch sáng lập của [Hội Tolkien Đức](../G/German_Tolkien_Society.md) (1997) và là Đại diện Châu Âu của Hội Tolkien, Vương quốc Anh. Ông đã khởi xướng hội nghị học thuật thường niên thường niên đầu tiên ở Đức trên Tolkien (Tolkien Hội thảo) và là người đồng sáng lập [Ring\*Con](../R/Ring%252ACon.md), hội nghị bộ ba phim lớn nhất và đầu tiên ở Châu Âu.
 
-Là một diễn giả nổi tiếng về nhiều sự kiện liên quan đến Tolkien, ông đã diễn thuyết ở Mỹ, Canada, Thụy Sĩ, Anh và Ý. Ông giữ chức vụ là thành viên Ban biên tập kỷ yếu học thuật *[Hither Shore](<../H/Hither_Shore_(journal).md>)*của Hiệp hội Tolkien Đức.
+Là một diễn giả nổi tiếng về nhiều sự kiện liên quan đến Tolkien, ông đã diễn thuyết ở Mỹ, Canada, Thụy Sĩ, Anh và Ý. Ông giữ chức vụ là thành viên Ban biên tập kỷ yếu học thuật *[Hither Shore](<../H/Hither_Shore_(journal).md>)*của Hội Tolkien Đức.
 
 Bülles đặc biệt quan tâm đến mối quan hệ quốc tế giữa các xã hội Tolkien trên toàn thế giới và kể từ năm 2003, GTS đã mời các chủ tịch và nữ chủ tịch tham dự sự kiện chính hàng năm của họ, [Tolkien Thing](../T/Tolkien_Thing.md), bao gồm Israel, Hy Lạp, Bỉ và Pháp. Năm 2005, ông đã mời bốn hiệp hội Tolkien châu Âu tham gia một thỏa thuận hữu nghị thông báo cho mỗi thành viên của liên minh để thông báo cho tất cả những thành viên khác về các sự kiện, ấn phẩm, v.v. Pháp, Bỉ và Áo đã tham gia.
 
-Ông là thành viên danh dự của [Hiệp hội Tolkien Hy Lạp](../G/Greek_Tolkien_Society.md) và đã tham dự *Cair Andros* năm 2007. Ông cũng là thành viên danh dự của [Hiệp hội Tolkien Đức](../G/German_Tolkien_Society.md).
+Ông là thành viên danh dự của [Hội Tolkien Hy Lạp](../G/Greek_Tolkien_Society.md) và đã tham dự *Cair Andros* năm 2007. Ông cũng là thành viên danh dự của [Hội Tolkien Đức](../G/German_Tolkien_Society.md).
 
 ## Thư mục, đã chọn {#Bibliography,_selected}
 

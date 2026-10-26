@@ -26,7 +26,7 @@ images:
 <p class="tg-quote-footer"><cite><a href="../G/Glóin.md" title="Glóin">Glóin</a></cite></p>
 </blockquote></div></div>
 
-**TolkCast** là podcast tiếng Đức do [Hiệp hội Tolkien tiếng Đức](../G/German_Tolkien_Society.md) sản xuất. Tập đầu tiên được phát sóng trên [22 tháng Chín](../_/22_September.md) [2018](../_/2018.md), trở thành podcast tiếng Đức liên quan đến Tolkien lâu đời nhất.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Tập này được đồng tổ chức bởi Annika Röttinger, Tobias M. Eckrich, Jonas Reinhard, Johny và Marie-Noelle. Kể từ tháng 10 [2020](../_/2020.md), hai tập mỗi tháng được phát hành.
+**TolkCast** là podcast tiếng Đức do [Hội Tolkien tiếng Đức](../G/German_Tolkien_Society.md) sản xuất. Tập đầu tiên được phát sóng trên [22 tháng Chín](../_/22_September.md) [2018](../_/2018.md), trở thành podcast tiếng Đức liên quan đến Tolkien lâu đời nhất.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Tập này được đồng tổ chức bởi Annika Röttinger, Tobias M. Eckrich, Jonas Reinhard, Johny và Marie-Noelle. Kể từ tháng 10 [2020](../_/2020.md), hai tập mỗi tháng được phát hành.
 
 ## Các tập phỏng vấn {#Interview_episodes}
 

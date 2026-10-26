@@ -21,7 +21,7 @@ images:
 <p class="tg-quote-footer"><cite><a href="../G/Glóin.md" title="Glóin">Glóin</a></cite></p>
 </blockquote></div></div>
 
-**Hiệp hội Tolkien Idaho và Montana**, còn được gọi là **Bầu trời Rohan**, là một [Tolkien hiệp hội](../T/Tolkien_Societies~67099.md) ở phía tây bắc Hoa Kỳ. Trong năm 2011 và 2012, họ không tổ chức sự kiện nào của riêng mình nên hiện tại vẫn chưa rõ tình trạng của hội.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Hội Tolkien Idaho và Montana**, còn được gọi là **Bầu trời Rohan**, là một [Tolkien hiệp hội](../T/Tolkien_Societies~67099.md) ở phía tây bắc Hoa Kỳ. Trong năm 2011 và 2012, họ không tổ chức sự kiện nào của riêng mình nên hiện tại vẫn chưa rõ tình trạng của hội.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Liên kết ngoài {#External_links}
 

@@ -349,7 +349,7 @@ Bảng sau đây trình bày cách phát âm của từng chữ cái hoặc cụ
 
 ## Các phiên bản khác của huyền sử {#Other_versions_of_the_legendarium}
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../T/The_Tree_of_Tongues.md" title="The Tree of Tongues">Cây Lưỡi</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="../T/The_Tree_of_Tongues.md" title="The Tree of Tongues">Cây Lưỡi</a></b></div></div>
 
 Tolkien đã hình dung ra nhiều phiên bản trong quá trình viết, thậm chí cả việc các Tiên tộc được [Oromë](../O/Oromë.md) dạy ngôn ngữ. Trong [Lhammas](../L/Lhammas.md), Tolkien đưa ra mối quan hệ này.
 

@@ -35,7 +35,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Bản thử Galley của Tập I của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* đã được gửi đến Tolkien vào giữa tháng Bảy. Tolkien nói với con trai mình rằng họ đã chứng tỏ sự nhàm chán. Chúng dài vô tận và có vẻ dài dòng từng phần. Bản in tốt nhưng những người soạn thảo không phù hợp đã sửa chữa: thay đổi *dwarves* thành *dwarfs*, *elvish* thành *elfish*, *further* thành *farther* và tệ nhất, *elven* thành *elfin*. Bực tức, Tolkien đã bắn một phát "khịt mũi" vào [Allen và Unwin](../A/Allen_and_Unwin.md) khiến họ phải quỳ xuống. <br>
+Bản thử Galley của Tập I của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* đã được gửi đến Tolkien vào giữa tháng Bảy. Tolkien nói với con trai mình rằng họ đã chứng tỏ sự nhàm chán. Chúng dài vô tận và có vẻ dài dòng từng phần. Bản in tốt nhưng những người soạn thảo không phù hợp đã sửa chữa: thay đổi *dwarves* thành *dwarfs*, *elvish* thành *elfish*, *further* thành *farther* và tệ nhất, *elven* thành *elfin*. Bực tức, Tolkien đã bắn một phát "khịt mũi" vào [Allen and Unwin](../A/Allen_and_Unwin.md) khiến họ phải quỳ xuống. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

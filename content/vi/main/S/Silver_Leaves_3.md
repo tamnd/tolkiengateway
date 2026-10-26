@@ -27,7 +27,7 @@ sort_keys:
 - Kathryn E. Darden: "Andy Serkis - Từ Gollum đến Screwtape"
 - Anne Marie Gazzolo: "Dấu chân trong trái tim"
 - P.R. Miller: "Món quà nghệ thuật"
-- Jessica Moritz: "Tolkien Ngày đọc sách 2010"
+- Jessica Moritz: "Ngày đọc Tolkien sách 2010"
 - [Kristine Larsen](../K/Kristine_Larsen.md): "Silmaril hay Simulacrum? Mô phỏng thiên đường ở Trung Địa"
 - Cô hầu gái cũ của Toon Zone: "Tóm tắt về "Arda của Hobbit""
 - [Tom Shippey](../T/Tom_Shippey.md): "J.R.R. Tolkien: *The Legend of Sigurd and Gudrún*"
