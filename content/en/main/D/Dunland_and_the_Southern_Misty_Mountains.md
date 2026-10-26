@@ -1,60 +1,53 @@
 ---
 title: "Dunland and the Southern Misty Mountains"
-display_title: "<i>Dunland and the Southern Misty Mountains</i>"
 page_id: 26242
 namespace: 0
-revision_id: 399671
-timestamp: "2024-07-07T06:14:44Z"
+revision_id: 443159
 source_url: "https://tolkiengateway.net/wiki/Dunland_and_the_Southern_Misty_Mountains"
-content_sha256: 4ab909a5e2d9f2eca4b83bd226c5d31873bfa998789ef99620b85b57c5bf36dc
+content_sha256: 95fcf0aaeb193a1fd3188c41ed8167bc45a95aca756dca6700ace884025fa63c
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-categories:
-  - "MERP"
-  - "Publications by title"
-hidden_categories:
-  - "Pages with non-sufficient width image in infobox"
-images:
-  - "Merp_dunland.jpg"
-infobox:
-  - label: "Author"
-    value: "Randell E. Doty"
-  - label: "Publisher"
-    value: "Iron Crown Enterprises"
-  - label: "Released"
-    value: "1987"
-  - label: "Format"
-    value: "Softcover"
-  - label: "Pages"
-    value: "63"
-  - label: "ISBN"
-    value: "0-915795-91-4"
-  - label: "ICE stock no."
-    value: "3600"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Merp_dunland.jpg.md"><img src="https://tolkiengateway.net/w/images/c/c9/Merp_dunland.jpg" decoding="async" loading="lazy" width="283" height="368" class="mw-file-element" data-file-width="283" data-file-height="368"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Dunland and the Southern Misty Mountains</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a class="new" href="https://tolkiengateway.net/w/index.php?title=Randell_E._Doty&amp;action=edit&amp;redlink=1" title="Randell E. Doty (page does not exist)">Randell E. Doty</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../I/Iron_Crown_Enterprises.md" title="Iron Crown Enterprises">Iron Crown Enterprises</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/1987.md" title="1987">1987</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Softcover</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">63</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0-915795-91-4" title="Special:BookSources/0-915795-91-4">0-915795-91-4</a></td></tr><tr><th scope="row" class="tg-infobox-label">ICE stock no.</th><td class="tg-infobox-data">3600</td></tr></tbody></table>
+categories:
+  - "Middle-earth Role Playing First Edition"
+  - "Publications by title"
+infobox:
+  author: "[[Randell E. Doty]]"
+  date: "[[1987]]"
+  format: "Softcover"
+  ice: "3600"
+  image: "merp_dunland.jpg"
+  isbn: "0-915795-91-4"
+  pages: "63"
+  publisher: "[[Iron Crown Enterprises]]"
+  title: "Dunland and the Southern Misty Mountains"
 
-<i><b>Dunland and the Southern Misty Mountains</b></i> is a module (in the *Campaign*-series) for *[Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)*, 1st Edition.
+***Dunland and the Southern Misty Mountains*** is a module (in the *Campaign*-series) for *[Middle-earth Role Playing](/wiki/Middle-earth_Role_Playing)*, 1st Edition.
 
-## Cover/Jacket Text {#Cover/Jacket_Text}
+## Cover/Jacket Text
 
-Journey to the rugged foothills that rise to the north of the Old South Road. Strife is the rule in Dunland. The warlike Dunnish clans jealously guard their independence and often stage raids against their neighbors and even their own kinsmen. And yet Dunland is less hazardous than the Southern Misty Mountains, where even the hardiest adventurers run afoul of Giants, Elves, Trolls, and even Dragons.
+{{Blockquote|Journey to the rugged foothills that rise to the north of the Old South Road. Strife is the rule in Dunland. The warlike Dunnish clans jealously guard their independence and often stage raids against their neighbors and even their own kinsmen. And yet Dunland is less hazardous than the Southern Misty Mountains, where even the hardiest adventurers run afoul of Giants, Elves, Trolls, and even Dragons.
 
 EXPLORE:
 
-- AMON LIND, an Elven Fortress
-- THE LAIR OF TURUKULON, The Worm
-- LARACH DUHNNAN, trade center of Dunland
+*AMON LIND, an Elven Fortress
+
+*THE LAIR OF TURUKULON, The Worm
+
+*LARACH DUHNNAN, trade center of Dunland
 
 Adventure in the Southern Misty Mountains north of the wide Isen Gap joining Tharbad to the markets further east. Travel among the fierce Dunlendings. Because of constant infighting , this loose organization of clans is frequently influenced by Sauron and his minions.
 
 DUNLAND and the Southern Misty Mountains includes:
 
-- 4 FULL-COLOR PAGES: a 2 face regional map of Dunland and a 2 face regional map of Eregion and central Cardolan
-- MAJOR LAYOUTS: including Amon Lind, The Lair of Turukulon, The Caerdh Wood, and the Village of Cillien
-- THE DUNNISH CLANS: herders, hunters, and warriors feared by their neighbors
-- OTHER INHABITANTS: Giants, Hobbits, Giant Eagles, Servants of Sauron, Noldo Elves, Smuggles, Orcs, and a Dragon.
+*4 FULL-COLOR PAGES: a 2 face regional map of Dunland and a 2 face regional map of Eregion and central Cardolan
+
+*MAJOR LAYOUTS: including Amon Lind, The Lair of Turukulon, The Caerdh Wood, and the Village of Cillien
+
+*THE DUNNISH CLANS: herders, hunters, and warriors feared by their neighbors
+
+*OTHER INHABITANTS: Giants, Hobbits, Giant Eagles, Servants of Sauron, Noldo Elves, Smuggles, Orcs, and a Dragon.
 
 INTRODUCTION
 
@@ -66,8 +59,10 @@ Dunland (D. "Dunfearan") encompasses the rugged foothills that rise to the north
 
 A turbulent people, the Dunlendings are for the most part herders and hunters who jealously guard their independence and often raid the lands of their kinsmen. Strife is the rule in Dunland, which is just as well, for the neighboring folk fear the unification of the warlike Dunmen. This is particularly true of the Men of Calenardhon (Rohan), the Dunlendings' oldest and most challenging enemies.
 
-The inhabitants of southernmost stretch of the Misty Mountains - the Giants, Dragons, Giant Eagles, Ores and other creatures of the wilds - are also affected by the presence of the Dunmen. Although they live at or above the treeline, they invariably focus their attentions to the west rather than the east, for they make their homes along the western side of the range. The Hithaeglir's eastern cliffs of the drop sharply, like sheer fells, making eastward land travel exceedingly hazardous. Access to the upper mountain valleys is provided by trails that originate in Dunland, lending further credence to the old adage that says: "the Daen have no King, no wealth, no capital, and no roads - yet they hold a good claim to yours and mine."
+The inhabitants of southernmost stretch of the Misty Mountains - the Giants, Dragons, Giant Eagles, Ores and other creatures of the wilds - are also affected by the presence of the Dunmen. Although they live at or above the treeline, they invariably focus their attentions to the west rather than the east, for they make their homes along the western side of the range. The Hithaeglir's eastern cliffs of the drop sharply, like sheer fells, making eastward land travel exceedingly hazardous. Access to the upper mountain valleys is provided by trails that originate in Dunland, lending further credence to the old adage that says: "the Daen have no King, no wealth, no capital, and no roads - yet they hold a good claim to yours and mine."}}
 
-## See also {#See_also}
+## See also
 
-- *[Haunted Ruins of the Dunlendings](../H/Haunted_Ruins_of_the_Dunlendings.md)*
+**[Haunted Ruins of the Dunlendings](/wiki/Haunted_Ruins_of_the_Dunlendings)*
+
+{{title|italics}}

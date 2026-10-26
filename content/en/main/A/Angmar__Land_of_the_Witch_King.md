@@ -1,0 +1,69 @@
+---
+title: "Angmar: Land of the Witch King"
+page_id: 25678
+namespace: 0
+revision_id: 443224
+source_url: "https://tolkiengateway.net/wiki/Angmar:_Land_of_the_Witch_King"
+content_sha256: c5093422eeeb5031e5b0a0cae37e952f4131de6751127c7c8f8198e0891db5bd
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+---
+
+categories:
+  - "Publications by title"
+  - "Rolemaster supplements"
+infobox:
+  author: "[[Heike Kubasch]]"
+  cartography: "[[Pete Fenlon]]"
+  cover: "[[Gail McIntosh|Gail B. McIntosh]]"
+  date: "[[28 January]] [[1982]]"
+  format: "Softcover"
+  ice: "2300"
+  illustrator: "[[Charles Peale]], Pete Fenlon, [[Rick Britton]]"
+  image: "merp_angmar_land.jpg"
+  noisbn: "Unknown"
+  pages: "47"
+  publisher: "[[Iron Crown Enterprises]]"
+  title: "''Angmar: Land of the Witch King''"
+
+{{disambig-more|Angmar|[Angmar (disambiguation)](/wiki/Angmar_(disambiguation))}}
+
+***Angmar: Land of the Witch King*** is a supplement (in the *Campaign*-series) for *[Middle-earth Role Playing](/wiki/Middle-earth_Role_Playing)*, 1st Edition.
+
+This product was later revised with 70 new pages of text added and released as *[Empire of the Witch-king](/wiki/Empire_of_the_Witch-king)*.
+
+For use with this supplement, [Mithril Miniatures](/wiki/Mithril_Miniatures) released a set of metal miniatures (M42 - M51 *Witch-king of Angmar Army*).
+
+## Cover/Jacket Text
+
+{{Blockquote|*Angmar* contains:
+
+*4 major floor plans
+
+*8 B&W maps
+
+*Cultures, herblore & guidelines for running your own adventures
+
+*A 16" x 20" full-color double-sided detachable mapsheet, side #1 of which details the NORTHERN MISTY MOUNTAINS, side #2, maps out the city of CARN DÛM
+
+Trolls, Giants, Dragons, Bears, Wargs, Orcs and of course THE WITCH KING OF ANGMAR
+
+BACKGROUND
+
+"It is ever so with the things that men begin: there is a frost in Spring or a blight in Summer, and they fail of their promise" (LotR III, p.&nbsp;182).
+
+Elendil and his heirs arranged two kingdoms when they came to Middle-earth from Numenor; Gondor in the South, and Arnor in the North. Both were fair and prosperous kingdoms at the beginning of the Third Age. At this time the history of the two kingdoms parted; the star of Gondor rose, but that of Arnor fell into darkness. Two forces brought the destruction of the North Kingdom. The first was the waning of the Dunedain who dwelt in Arnor. The second, and far greater was the shadow that came from the land of Angmar. The men of Arnor withstood the evil power of the Witch King for six long centuries, a tribute to the strength and power of the Dunedain of the North.
+
+Arnor had suffered comparatively little in the war against Sauron at the conclusion of the Second Age, and the kingdom should have prospered. Although the numbers of the Dunedain had been reduced, they were still great. The climate of Arnor was mild and the land was fertile and free of enemies. For a few hundred years matters went well, but the air of Eriador seemed unwholesome for the descendants of Numenor. Arnor fell into decline long before the land held any whisper of the shadow of Angmar. For reasons unknown the Dunedain abandoned their capital of Annuminas upon the shores of Lake Nennuial, and withdrew to the lesser fortress city of Fornost.
+
+The kingdom of Arnor was doomed to "a frost in Spring, and a blight in Summer." The heirs of the kingdom could no longer agree on the succession to the throne of Arnor in the ninth century of the Third Age. In {{TA|861}} the strength of the northern realm was divided into three kingdoms: Cardolan, Rhudaur, and Arthedain. The quarreling continued; Rhudaur and Cardolan contested the possession of the tower of Amon Sul and its Palantir. The watch on evil slept in the north; men turned inwards and concerned themselves with their own affairs. The rumours of evil multiplying in the mountains did not interest them; for Arthedain and Cardolan at least, the mountains were a long way off. None gave their attention to the unpromising valley in a northern fork of the Misty Mountains.
+
+The Witch King arose in Angmar during the reign of Malvegil of Arthedain, some time between {{TA|1272}}-{{TA|1349|n}}. Men became aware of the growing evil in the mountains, but Angmar was still preparing its power. No assaults on the Dunedain came until Argeleb, the son of Malvegil, assumed the throne.
+
+The next sixty years were dark ones for the Dunedain of the North. The Dunedain of Rhudaur were driven out by evil hillmen in league with Angmar and Argeleb was slain in battle. Together Arthedain and Cardolan held the Weather Hills against Angmar. In {{TA|1409|n}} {{TA}} the Witch King of Angmar released his deadliest assault. Amon Sul was raised and burned and the Dunedain were forced to flee westward. Cardolan was laid to waste. Help came to the Dunedain from the Elves of the Grey Havens, Rivendell, and Lorien. The armies of Angmar were repelled from Fornost and the North Downs, and forced to withdraw to Angmar. The shadow of the North was contained for a time.
+
+ANGMAR
+
+The land of Angmar is one of the grimmest places in all of Middle-earth. It is not black and twisted like Mordor, but heartbreakingly cold and barren. It lies in a northern fork in the Western Misty Mountains, and in the Eastern Misty Mountains. Little activity is centered upon the barren plain between the fork in the mountains; the border guard of men is set in the rolling hills upon the edge of the low plateau. These men watch the long border road that runs from Carn Dûm to the southern tip of Angmar. The orcs prefer the safety of the tunnels in the mountains. In the East the Witch King has no border guard; the mountains bar entry into Angmar from that direction, except to those who know the orcish tunnels.}}
+
+{{title|italics}}
