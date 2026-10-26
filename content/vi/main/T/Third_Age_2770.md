@@ -22,7 +22,7 @@ Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 - [Smaug](../S/Smaug.md) [Rồng](../D/Dragons.md) đi xuống [Erebor](../L/Lonely_Mountain.md) gây ra [Cuộc cướp phá Erebor](../S/Sack_of_Erebor.md).<sup id="cite_ref-TA_1-0" class="reference"><a href="#cite_note-TA-1">[1]</a></sup>
 - [Dale](../D/Dale.md) bị phá hủy.<sup id="cite_ref-TA_1-1" class="reference"><a href="#cite_note-TA-1">[1]</a></sup>
-- Cái chết của [Girion](../G/Girion.md), [Chúa tể của Dale](../L/Lord_of_Dale.md); vợ con hắn trốn xuống [River Running](../R/River_Running.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- Cái chết của [Girion](../G/Girion.md), [Chúa tể Dale](../L/Lord_of_Dale.md); vợ con hắn trốn xuống [River Running](../R/River_Running.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 - [Thrór](Thrór.md) thoát bằng [Thráin II](Thráin.md) và [Thorin II Oakenshield](Thorin.md).<sup id="cite_ref-TA_1-2" class="reference"><a href="#cite_note-TA-1">[1]</a></sup>
 - Sự ra đời của [Briffo Boffin](../B/Briffo_Boffin.md), con trai thứ ba của [Buffo Boffin](../B/Buffo_Boffin.md) và [Ivy Goodenough](../I/Ivy_Goodenough.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 

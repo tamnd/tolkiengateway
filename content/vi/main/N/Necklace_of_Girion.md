@@ -30,7 +30,7 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Audrey_Corman_-_Necklace_of_Girion.png.md"><img src="https://tolkiengateway.net/w/images/thumb/0/08/Audrey_Corman_-_Necklace_of_Girion.png/250px-Audrey_Corman_-_Necklace_of_Girion.png" decoding="async" loading="lazy" width="250" height="212" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/0/08/Audrey_Corman_-_Necklace_of_Girion.png 1.5x" data-file-width="299" data-file-height="254"/></a><figcaption>The <i>Necklace of Girion</i> by <a href="../A/Audrey_Corman.md" title="Audrey Corman">Audrey Corman</a></figcaption></figure>
 
-Vòng cổ **của Girion** là một món đồ trang sức tuyệt vời ban đầu thuộc sở hữu của [Girion](../G/Girion.md), [Chúa tể của Dale](../L/Lord_of_Dale.md). Chiếc vòng cổ được đính năm trăm viên ngọc lục bảo xanh như cỏ.
+Vòng cổ **của Girion** là một món đồ trang sức tuyệt vời ban đầu thuộc sở hữu của [Girion](../G/Girion.md), [Chúa tể Dale](../L/Lord_of_Dale.md). Chiếc vòng cổ được đính năm trăm viên ngọc lục bảo xanh như cỏ.
 
 ## Lịch sử {#History}
 

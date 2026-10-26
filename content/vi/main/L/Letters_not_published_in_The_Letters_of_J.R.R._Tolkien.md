@@ -75,7 +75,7 @@ images:
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Letter_to_Ida_Gordon_(11_August_1938)&amp;action=edit&amp;redlink=1" title="Letter to Ida Gordon (11 August 1938) (page does not exist)">11 tháng 8 năm 1938, gửi Ida Gordon</a>
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Letter_to_Ida_Gordon_(19_August_1938)&amp;action=edit&amp;redlink=1" title="Letter to Ida Gordon (19 August 1938) (page does not exist)">19 tháng 8 năm 1938, gửi Ida Gordon</a>
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Letter_to_Ida_Gordon_(26_September_1938)&amp;action=edit&amp;redlink=1" title="Letter to Ida Gordon (26 September 1938) (page does not exist)">26 tháng 9 năm 1938, gửi Ida Gordon</a>
-- [24 tháng 12 năm 1938, gửi Bà Kilbride](Letter_to_Miss_Kilbride.md).
+- [24 tháng 12 năm 1938, gửi Cô Kilbride](Letter_to_Miss_Kilbride.md).
 
 ### thập niên 1940 {#1940s}
 
