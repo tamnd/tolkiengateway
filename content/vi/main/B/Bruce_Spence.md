@@ -47,7 +47,7 @@ Diễn viên New Zealand **Bruce Spence** (sinh năm 1945) đóng vai [người 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
 <p>Tôi chưa bao giờ đắm chìm trong trang phục, trang điểm và mặt nạ, v.v. như trong bộ phim này
 </p>
-<p class="tg-quote-footer"><cite>Bruce Spence, tiểu phẩm ngắn "Thiết kế trang phục", <a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_(extended_edition).md" title="The Lord of the Rings: The Return of the King (extended edition)">Phiên bản mở rộng</a>.</cite></p>
+<p class="tg-quote-footer"><cite>Bruce Spence, tiểu phẩm ngắn "Thiết kế trang phục", <a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_(extended_edition).md" title="The Lord of the Rings: The Return of the King (extended edition)">Bản mở rộng</a>.</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
 ## Liên kết ngoài {#External_links}

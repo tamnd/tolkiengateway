@@ -37,13 +37,13 @@ Bài viết này liệt kê hầu hết các vụ kiện tụng hoặc khởi ki
 
 ### lotrfanclub.com {#lotrfanclub.com}
 
-- **Tranh chấp:** Công ty Saul Zaentz kiện Siarhei Chyzhevich <a class="external autonumber" href="http://www.wipo.int/amc/en/domains/decisions/html/2006/d2006-0370.html" rel="noreferrer noopener" target="_blank">[5]</a>
+- **Tranh chấp:** Saul Zaentz Company kiện Siarhei Chyzhevich <a class="external autonumber" href="http://www.wipo.int/amc/en/domains/decisions/html/2006/d2006-0370.html" rel="noreferrer noopener" target="_blank">[5]</a>
 - **Tóm tắt:** Sau khi [The Lord of the Rings Fan Club](../T/The_Lord_of_the_Rings_Fan_Club.md) bị [Decipher](../D/Decipher.md) đóng cửa, họ đã quên gia hạn tên miền, lotrfanclub.com, sau khi hết hạn, một nội dung khiêu dâm đã chiếm lấy tên miền.
 - **Kết quả:** [Tolkien Doanh nghiệp](../M/Middle-earth_Enterprises.md) giành quyền kiểm soát miền.
 
 ### hobbit.es {#hobbit.es}
 
-- **Tranh chấp:** Công ty Saul Zaentz kinh doanh dưới tên Tolkien Enterprises v. Marc Rodríguez Negro <a class="external autonumber" href="http://www.wipo.int/amc/en/domains/decisions/html/2006/des2006-0043.html" rel="noreferrer noopener" target="_blank">[6]</a>
+- **Tranh chấp:** Saul Zaentz Company kinh doanh dưới tên Tolkien Enterprises v. Marc Rodríguez Negro <a class="external autonumber" href="http://www.wipo.int/amc/en/domains/decisions/html/2006/des2006-0043.html" rel="noreferrer noopener" target="_blank">[6]</a>
 - **Tóm tắt:** Không phải trang web phi thương mại.
 - **Kết quả:** Tolkien Doanh nghiệp giành quyền kiểm soát miền.
 

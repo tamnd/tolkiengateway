@@ -69,7 +69,7 @@ Sự kiện xảy ra vào ngày 10 tháng Chín.
 - **[1959](1959.md)** - Diễn viên [Jim Meskimen](../J/Jim_Meskimen.md) ra đời.
 - **[1964](1964.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 263](../L/Letter_263.md).
 - **[2007](2007.md)** - *["from mind to mind": Robert Browning and J.R.R. Tolkien](../F/From_Mind_to_Mind.md)* được xuất bản.
-- **[2010](2010.md)** - Tiếng Bulgaria Tolkien Lần thứ 6 của Hiệp hội Tolkien-Lễ hội ở <a class="extiw" href="http://en.wikipedia.org/wiki/Sofia" title="wikipedia:Sofia">Sofia</a>.
+- **[2010](2010.md)** - Tiếng Bulgaria Tolkien Lần thứ 6 của Hội Tolkien-Lễ hội ở <a class="extiw" href="http://en.wikipedia.org/wiki/Sofia" title="wikipedia:Sofia">Sofia</a>.
 - **[2010](2010.md)** - *[The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md)* được chơi miễn phí cho công chúng ở Bắc Mỹ.
 - **[2015](2015.md)** - [Oxonmoot 2015](../O/Oxonmoot_2015.md) tại <a class="external text" href="http://www.sant.ox.ac.uk" rel="noreferrer noopener" target="_blank">Trường Cao đẳng St Antony</a>.
 - **[2016](2016.md)** - [Oxonmoot 2016](../O/Oxonmoot_2016.md) tại <a class="external text" href="http://www.sant.ox.ac.uk" rel="noreferrer noopener" target="_blank">Trường Cao đẳng St Antony</a>.

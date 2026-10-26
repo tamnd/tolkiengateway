@@ -66,7 +66,7 @@ như té nước nóng bằng chân!
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2001: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i> (<a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(extended_edition).md" title="The Lord of the Rings: The Fellowship of the Ring (extended edition)">Phiên bản mở rộng</a>)</b>
+<b>2001: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i> (<a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(extended_edition).md" title="The Lord of the Rings: The Fellowship of the Ring (extended edition)">Bản mở rộng</a>)</b>
 
 <dl><dd><b></b></dd>
 <dd>Trong cảnh “<a href="../A/At_the_Green_Dragon.md" title="At the Green Dragon">At the Green Rồng</a>”, <a href="../M/Meriadoc_Brandybuck.md" title="Meriadoc Brandybuck">Merry</a>, <a href="../P/Peregrin_Took.md" title="Peregrin Took">Pippin</a> và <a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo</a> hát một bài gần giống <i><a href="../H/Ho!_Ho!_Ho!_To_the_Bottle_I_Go.md" title="Ho! Ho! Ho! To the Bottle I Go">Ho! ồ! ồ! To the Bottle I Go</a></i>, với lời bài hát được thay đổi một chút để kết hợp một phần nhỏ của <i>Sing Hey! Để tắm vào cuối ngày</i>:</dd></dl>

@@ -52,7 +52,7 @@ infobox:
 
 - Ấn bản đầu tiên (2002) - chỉ bao gồm các địa điểm quay phim từ *[The Fellowship of the Ring](The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)* và *[The Two Towers](The_Lord_of_the_Rings%253A_The_Two_Towers.md)*.
 - Phiên bản sửa đổi (2003) - mở rộng với các địa điểm quay phim cho *[The Return of the King](The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*.
-- Phiên bản mở rộng (2004) - kích thước lớn hơn và khác biệt, có định dạng hình vuông, cũng bao gồm thông tin chung về hậu trường về quá trình quay phim.
+- Bản mở rộng (2004) - kích thước lớn hơn và khác biệt, có định dạng hình vuông, cũng bao gồm thông tin chung về hậu trường về quá trình quay phim.
 
 <figure class="mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Location_Guidebook_Extended_Edition.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/6c/The_Lord_of_the_Rings_Location_Guidebook_Extended_Edition.jpg/220px-The_Lord_of_the_Rings_Location_Guidebook_Extended_Edition.jpg" decoding="async" loading="lazy" width="220" height="231" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/6c/The_Lord_of_the_Rings_Location_Guidebook_Extended_Edition.jpg/330px-The_Lord_of_the_Rings_Location_Guidebook_Extended_Edition.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/6/6c/The_Lord_of_the_Rings_Location_Guidebook_Extended_Edition.jpg/440px-The_Lord_of_the_Rings_Location_Guidebook_Extended_Edition.jpg 2x" data-file-width="894" data-file-height="940"/></a><figcaption>Bìa phiên bản mở rộng</figcaption></figure>
 

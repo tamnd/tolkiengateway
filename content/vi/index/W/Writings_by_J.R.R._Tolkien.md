@@ -343,7 +343,7 @@ langlinks:
 - [1980](../../main/_/1980.md): <i><b><a href="../../main/U/Unfinished_Tales.md" title="Unfinished Tales">Unfinished Tales</a></b></i>.
 
 - [1981](../../main/_/1981.md): [*The Catholic Herald* (18 tháng Chín 1981)](<../../main/T/The_Catholic_Herald_(18_September_1981).md>). Bao gồm các đoạn trích từ **[The Name Coventry](../../main/T/The_Name_Coventry.md)**.
-- [1981](../../main/_/1981.md): <i><b><a href="../../main/T/The_Letters_of_J.R.R._Tolkien.md" title="The Letters of J.R.R. Tolkien">Những bức thư của J.R.R. Tolkien</a></b></i>.
+- [1981](../../main/_/1981.md): <i><b><a href="../../main/T/The_Letters_of_J.R.R._Tolkien.md" title="The Letters of J.R.R. Tolkien">The Letters of J.R.R. Tolkien</a></b></i>.
 - [1981](../../main/_/1981.md): [*Mallorn* 17](../../main/M/Mallorn_17.md). Bao gồm [một lá thư](../../main/L/Letter_to_Justin_Arundale.md).
 - [1981](../../main/_/1981.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Robin_Waterfield_Catalogue_40:_English_Literature&amp;action=edit&amp;redlink=1" title="Robin Waterfield Catalogue 40: English Literature (page does not exist)">Robin Waterfield Catalog 40: Văn học Anh</a></i>. Bao gồm chữ khắc và ghi chú.
 
@@ -403,7 +403,7 @@ langlinks:
 - [1987](../../main/_/1987.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Books_for_Keeps&amp;action=edit&amp;redlink=1" title="Books for Keeps (page does not exist)">Sách để lưu giữ</a></i>. Bao gồm các chữ cái.
 - [1987](../../main/_/1987.md): <a class="new" href="https://tolkiengateway.net/w/index.php?title=La_Brita_Esperantisto,_July_1987&amp;action=edit&amp;redlink=1" title="La Brita Esperantisto, July 1987 (page does not exist)"><i>La Brita Esperantisto</i>, tháng 7 năm 1987</a>. Bao gồm **[Nhà ngữ văn về Esperanto](../../main/A/A_Philologist_on_Esperanto.md)**.
 - [1987](../../main/_/1987.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=David_Schulson_Autographs_Catalogue_42&amp;action=edit&amp;redlink=1" title="David Schulson Autographs Catalogue 42 (page does not exist)">Danh mục chữ ký của David Schulson 42</a></i>. Bao gồm thư.
-- [1987](../../main/_/1987.md): *Das erste Jahrzehnt 1977–1987: Ein Almanach*. Bao gồm **[Khiếu nại của Mîm Người lùn](../../main/T/The_Complaint_of_Mîm_the_Dwarf.md)**.
+- [1987](../../main/_/1987.md): *Das erste Jahrzehnt 1977–1987: Ein Almanach*. Bao gồm **[Khiếu nại của Mîm Người Lùn](../../main/T/The_Complaint_of_Mîm_the_Dwarf.md)**.
 - [1987](../../main/_/1987.md): *[The History of Middle-earth](../../main/T/The_History_of_Middle-earth.md) vol. 5*: <i><b><a href="../../main/T/The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></b></i>.
 - [1987](../../main/_/1987.md): [*The Hobbit* (Phiên bản kỷ niệm 50 năm)](<../../main/T/The_Hobbit_(50th_Anniversary_edition).md>). Bao gồm các bản thảo, hình ảnh minh họa và thư từ.
 - [1987](../../main/_/1987.md): *[The Hobbit 50th Anniversary: 1937-1987](../../main/T/The_Hobbit_50th_Anniversary.md)*. Bao gồm các chữ cái.

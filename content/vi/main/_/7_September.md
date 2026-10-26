@@ -75,7 +75,7 @@ Sự kiện xảy ra vào ngày 7 tháng Chín.
 - **[1975](1975.md)** - [Oxonmoot 1975](../O/Oxonmoot_1975.md) tại tiếng Wales Poney, <a class="extiw" href="http://en.wikipedia.org/wiki/Oxford" title="wikipedia:Oxford">Oxford</a>.
 - <b><a href="1989.md" title="1989">1989</a> - <i><a href="../T/The_Treason_of_Isengard.md" title="The Treason of Isengard">The Treason of Isengard</a></i> được xuất bản ở Vương quốc Anh.</b>
 - **[1998](1998.md)** – [Elfling](../E/Elfling.md) lên mạng.
-- **[2000](2000.md)** - Hiệp hội Tolkien Brazil [Conselho Branco, Sociedade Tolkien](../C/Conselho_Branco,_Sociedade_Tolkien.md) được thành lập.
+- **[2000](2000.md)** - Hội Tolkien Brazil [Conselho Branco, Sociedade Tolkien](../C/Conselho_Branco,_Sociedade_Tolkien.md) được thành lập.
 - **[2017](2017.md)** - Phiên bản thứ hai của *[The J.R.R. Tolkien Companion and Guide](../T/The_J.R.R._Tolkien_Companion_and_Guide.md)* được xuất bản.
 
 ## Trong Arda {#In_Arda}

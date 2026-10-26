@@ -14,4 +14,4 @@ categories:
   - "The Hobbit"
 ---
 
-<dl><dd><i>Main article:</i> <a href="../../main/P/Poems_in_The_Hobbit.md" title="Poems in The Hobbit">Poems in <i>The Hobbit</i></a></dd></dl>
+<dl><dd><i>Bài chính:</i> <a href="../../main/P/Poems_in_The_Hobbit.md" title="Poems in The Hobbit">Poems in <i>The Hobbit</i></a></dd></dl>

@@ -68,7 +68,7 @@ infobox:
 
 Saradoc là con trai của [Rorimac Brandybuck](../R/Rorimac_Brandybuck.md) và [Menegilda Goold](../M/Menegilda_Goold.md). Anh kết hôn với [Esmeralda Took](../E/Esmeralda_Took.md) và có một người con, [Meriadoc](../M/Meriadoc_Brandybuck.md),<sup id="cite_ref-App_1-4" class="reference"><a href="#cite_note-App-1">[1]</a></sup> đã gia nhập [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md). Cùng với bố, vợ và con trai, ông đã có mặt tại [Tiệc chia tay của Bilbo](../B/Bilbo's_Farewell_Party.md).<sup id="cite_ref-App_1-5" class="reference"><a href="#cite_note-App-1">[1]</a></sup>
 
-Saradoc trở thành [Bậc thầy của Buckland](../M/Master_of_Buckland.md) sau cái chết của cha anh vào năm [S.R.](Shire_Reckoning.md) [1408](../T/Third_Age_3008.md).<sup id="cite_ref-App_1-6" class="reference"><a href="#cite_note-App-1">[1]</a></sup>
+Saradoc trở thành [Chủ nhân Buckland](../M/Master_of_Buckland.md) sau cái chết của cha anh vào năm [S.R.](Shire_Reckoning.md) [1408](../T/Third_Age_3008.md).<sup id="cite_ref-App_1-6" class="reference"><a href="#cite_note-App-1">[1]</a></sup>
 
 Ông qua đời 24 năm sau vào năm [S.R.](Shire_Reckoning.md) [1432](../F/Fourth_Age_11.md) ở tuổi 92, và [Quyền chủ](../M/Master_of_Buckland.md) được thừa kế bởi con trai và người thừa kế Meriadoc.<sup id="cite_ref-App_1-7" class="reference"><a href="#cite_note-App-1">[1]</a></sup>
 

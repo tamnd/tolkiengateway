@@ -22,7 +22,7 @@ Vào [13 tháng 3](../_/13_March.md) [3019](../T/Third_Age_3019.md), khi [Farami
 
 ## Xem thêm {#See_also}
 
-- [Con dao Morgul](Morgul-knife.md)
+- [Dao Morgul](Morgul-knife.md)
 
 <span></span>
 

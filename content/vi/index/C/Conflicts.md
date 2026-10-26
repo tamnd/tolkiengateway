@@ -126,7 +126,7 @@ Dưới đây là liệt kê tất cả **các cuộc chiến tranh**, **trận 
     - Corsair tấn công Gondor ([T.A.](../../main/T/Third_Age.md) [2758](../../main/T/Third_Age_2758.md))
     - Gondor phản hồi với Corsairs ([T.A.](../../main/T/Third_Age.md) [2759](../../main/T/Third_Age_2759.md))
 - [Cuộc cướp phá Erebor](../../main/S/Sack_of_Erebor.md) ([T.A.](../../main/T/Third_Age.md) [2770](../../main/T/Third_Age_2770.md))
-- [Cuộc chiến giữa Người lùn và Orc](../../main/W/War_of_the_Dwarves_and_Orcs.md) ([T.A.](../../main/T/Third_Age.md) [2793](../../main/T/Third_Age_2793.md) - [2799](../../main/T/Third_Age_2799.md))
+- [Cuộc chiến giữa Người Lùn và Orc](../../main/W/War_of_the_Dwarves_and_Orcs.md) ([T.A.](../../main/T/Third_Age.md) [2793](../../main/T/Third_Age_2793.md) - [2799](../../main/T/Third_Age_2799.md))
     - [Sa thải Mount Gundabad](../../main/S/Sacking_of_Mount_Gundabad.md) (c. [T.A.](../../main/T/Third_Age.md) [2793](../../main/T/Third_Age_2793.md) - [2799](../../main/T/Third_Age_2799.md))
     - [Trận Azanulbizar](../../main/B/Battle_of_Azanulbizar.md) ([T.A.](../../main/T/Third_Age.md) [2799](../../main/T/Third_Age_2799.md))
 - [Haradrim](../../main/H/Haradrim.md) tấn công vào Gondor ([T.A.](../../main/T/Third_Age.md) [2885](../../main/T/Third_Age_2885.md))

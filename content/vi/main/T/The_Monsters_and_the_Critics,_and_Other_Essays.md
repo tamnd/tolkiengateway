@@ -128,7 +128,7 @@ Vì những bài tiểu luận này mang tính chất học thuật nên hầu n
 		</li>
 </ul>
 
-- [George Allen và Unwin](../G/George_Allen_and_Unwin.md), bìa cứng ([1983](../_/1983.md)), trang 240. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0048090190">ISBN 0048090190</a>
+- [George Allen and Unwin](../G/George_Allen_and_Unwin.md), bìa cứng ([1983](../_/1983.md)), trang 240. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0048090190">ISBN 0048090190</a>
 - [HarperCollins](../H/HarperCollins.md) bìa mềm ([1997](../_/1997.md)), trang 256. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/026110263X">ISBN 026110263X</a>
     - Ấn bản bìa mềm năm 1997, thiết lập lại vào [2006](../_/2006.md)
     - Ấn bản bìa mềm năm 2006, lần in thứ 27 ([2025](../_/2025.md))

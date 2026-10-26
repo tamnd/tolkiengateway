@@ -39,7 +39,7 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Stanley_Unwin.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/7d/Stanley_Unwin.jpg/300px-Stanley_Unwin.jpg" decoding="async" loading="lazy" width="300" height="429" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/7d/Stanley_Unwin.jpg/450px-Stanley_Unwin.jpg 1.5x, https://tolkiengateway.net/w/images/7/7d/Stanley_Unwin.jpg 2x" data-file-width="559" data-file-height="800"/></a><figcaption>Sir Stanley Unwin by Walter Stoneman. © National Portrait Gallery</figcaption></figure>
 
-Ngài **Stanley Unwin** ([19 tháng 12](../_/19_December.md) [1884](../_/1884.md) – [13 tháng 10](../_/13_October.md) [1968](../_/1968.md)) là một nhà xuất bản người Anh, người đồng sáng lập nhóm [George Allen và Unwin](../A/Allen_and_Unwin.md) vào [4 tháng 8](../_/4_August.md) [1914](../_/1914.md).
+Ngài **Stanley Unwin** ([19 tháng 12](../_/19_December.md) [1884](../_/1884.md) – [13 tháng 10](../_/13_October.md) [1968](../_/1968.md)) là một nhà xuất bản người Anh, người đồng sáng lập nhóm [George Allen and Unwin](../A/Allen_and_Unwin.md) vào [4 tháng 8](../_/4_August.md) [1914](../_/1914.md).
 
 Trong [1936](../_/1936.md) [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã gửi *[The Hobbit](../T/The_Hobbit.md)* để xuất bản và Unwin đã trả cho đứa con trai mười tuổi [Rayner](../R/Rayner_Unwin.md) của mình một vài xu để viết báo cáo về bản thảo. Phản ứng thuận lợi của Rayner đã thúc đẩy Unwin xuất bản cuốn sách. Sau khi cuốn sách thành công, Unwin đã yêu cầu Tolkien làm phần tiếp theo, phần tiếp theo cuối cùng trở thành *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.
 

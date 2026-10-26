@@ -71,7 +71,7 @@ Sự kiện xảy ra vào ngày 9 tháng 1.
 - **[1964](1964.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 254](../L/Letter_254.md).
 - **[1965](1965.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) bắt đầu viết [Thư 267](../L/Letter_267.md).
 - **[1965](1965.md)** - Tập thứ mười bốn của [Princess](../P/Princess.md)-serialization của *[The Hobbit](../T/The_Hobbit.md)* được xuất bản.
-- **[2003](2003.md)** - Hiệp hội Tolkien Brazil [Heren Hyarmen](../H/Heren_Hyarmen.md) đổi tên thành "Heren Hyarmeno".
+- **[2003](2003.md)** - Hội Tolkien Brazil [Heren Hyarmen](../H/Heren_Hyarmen.md) đổi tên thành "Heren Hyarmeno".
 - **[2004](2004.md)** - *The Times Literary Supplement* đăng bài "Not Worn Lightly", bài đánh giá của [Tom Shippey](../T/Tom_Shippey.md) về *[The Lord of the Rings: The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*.
 
 ## Trong Arda {#In_Arda}

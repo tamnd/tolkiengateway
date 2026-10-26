@@ -125,7 +125,7 @@ Trên trang web trước đây đã liệt kê **tên, nhân vật, địa đi�
 <li>Sharkey<br/></li>
 <li>Shelob<br/></li>
 <li>Shirriffs<br/></li>
-<li>Silvan Tiên tộc (cũng Tiên rừng)<br/></li>
+<li>Tiên tộc Silvan (cũng Tiên rừng)<br/></li>
 <li>Smaug<br/></li>
 <li>Sméagol<br/></li>
 <li>Snowmane<br/></li>

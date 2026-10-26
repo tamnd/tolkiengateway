@@ -34,7 +34,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"[Farmer Maggot](../../main/F/Farmer_Maggot.md) [Bamfurlong](../../main/B/Bamfurlong.md) trong [the Marish](../../main/M/Marish.md)" của [Miriam Ellis](../../main/M/Miriam_Ellis.md)
+"[Farmer Maggot](../../main/F/Farmer_Maggot.md) [Bamfurlong](../../main/B/Bamfurlong.md) trong [Marish](../../main/M/Marish.md)" của [Miriam Ellis](../../main/M/Miriam_Ellis.md)
 
 ## Giấy phép {#Licensing}
 

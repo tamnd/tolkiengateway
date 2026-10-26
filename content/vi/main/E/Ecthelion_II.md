@@ -112,7 +112,7 @@ Về ý nghĩa tên của ông, xin xem [Ecthelion - Từ nguyên](Ecthelion.md#
 
 <b>2014: <i><a href="../T/The_Hobbit%253A_The_Battle_of_the_Five_Armies.md" title="The Hobbit: The Battle of the Five Armies">The Hobbit: The Battle of the Five Armies</a></i>:</b>
 
-<dl><dd>Mặc dù ông không xuất hiện trong phim, nhưng trong <a href="../T/The_Hobbit%253A_The_Battle_of_the_Five_Armies_(extended_edition).md" title="The Hobbit: The Battle of the Five Armies (extended edition)">Phiên bản mở rộng</a>, <a href="../T/Thranduil.md" title="Thranduil">Thranduil</a> đề cập đến "Ecthelion của Gondor" cho <a href="../B/Bard.md" title="Bard">Bard</a> với tư cách là người có thể bán <a href="../A/Arkenstone.md" title="Arkenstone">Arkenstone</a> cho. Tại <a href="../T/Third_Age_2941.md" title="Third Age 2941">thời điểm viết cuốn sách</a>, <a href="../T/Turgon_(Steward_of_Gondor).md" title="Turgon (Steward of Gondor)">Turgon</a> vẫn là Quản gia của Gondor.</dd></dl>
+<dl><dd>Mặc dù ông không xuất hiện trong phim, nhưng trong <a href="../T/The_Hobbit%253A_The_Battle_of_the_Five_Armies_(extended_edition).md" title="The Hobbit: The Battle of the Five Armies (extended edition)">Bản mở rộng</a>, <a href="../T/Thranduil.md" title="Thranduil">Thranduil</a> đề cập đến "Ecthelion của Gondor" cho <a href="../B/Bard.md" title="Bard">Bard</a> với tư cách là người có thể bán <a href="../A/Arkenstone.md" title="Arkenstone">Arkenstone</a> cho. Tại <a href="../T/Third_Age_2941.md" title="Third Age 2941">thời điểm viết cuốn sách</a>, <a href="../T/Turgon_(Steward_of_Gondor).md" title="Turgon (Steward of Gondor)">Turgon</a> vẫn là Quản gia của Gondor.</dd></dl>
 
 <span></span>
 

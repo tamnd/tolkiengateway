@@ -28,7 +28,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Annatar](../../main/A/Annatar.md) và [Bảy Chiếc Nhẫn](../../main/S/Seven_Rings.md). Nghệ thuật của [Liz Danforth](../../main/L/Liz_Danforth.md), từ [Peter C. Fenlon, Jr.](../../main/P/Pete_Fenlon.md), *[Moria (2nd edition)](<../../main/M/Moria_(1994_book).md>)* ([Vương miện Sắt Enterprises](../../main/I/Iron_Crown_Enterprises.md) #2011, 1994) .
+[Annatar](../../main/A/Annatar.md) và [Bảy Chiếc Nhẫn](../../main/S/Seven_Rings.md). Nghệ thuật của [Liz Danforth](../../main/L/Liz_Danforth.md), từ [Peter C. Fenlon, Jr.](../../main/P/Pete_Fenlon.md), *[Moria (2nd edition)](<../../main/M/Moria_(1994_book).md>)* ([Iron Crown Enterprises](../../main/I/Iron_Crown_Enterprises.md) #2011, 1994) .
 
 ## Giấy phép {#Licensing}
 

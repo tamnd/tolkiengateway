@@ -56,7 +56,7 @@ infobox:
 
 Phần **Thứ sáu của [Nazgûl](../N/Nazgûl.md)** chưa bao giờ được phân biệt trong các tác phẩm của Tolkien, nhưng một số bản chuyển thể đã gán những đặc điểm riêng cho Nazgûl cụ thể này.
 
-[Vương miện Sắt Enterprises](../I/Iron_Crown_Enterprises.md) đã xây dựng một cốt truyện phức tạp không [chuẩn](../C/Canon.md) cho [Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md), xác định nhân vật là *Hoarmûrath*, một cốt truyện cũng được sử dụng trong [Trung Địa Trò chơi sưu tập thẻ bài](../M/Middle-earth_Collectible_Card_Game.md).<sup id="cite_ref-ICE_1-3" class="reference"><a href="#cite_note-ICE-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+[Iron Crown Enterprises](../I/Iron_Crown_Enterprises.md) đã xây dựng một cốt truyện phức tạp không [chuẩn](../C/Canon.md) cho [Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md), xác định nhân vật là *Hoarmûrath*, một cốt truyện cũng được sử dụng trong [Trung Địa Trò chơi sưu tập thẻ bài](../M/Middle-earth_Collectible_Card_Game.md).<sup id="cite_ref-ICE_1-3" class="reference"><a href="#cite_note-ICE-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 [Giải mã](../D/Decipher.md), đối với [Trò chơi thẻ giao dịch](../T/The_Lord_of_the_Rings_Trading_Card_Game.md) của họ, thay vào đó, họ đã giới hạn việc cá nhân hóa này ở việc đặt tên cho nhân vật *[Úlairë](../N/Nazgûl.md#Other_names) Enquëa* ([Q.](../Q/Quenya.md) Thứ sáu Nazgûl) và gán tên gọi là *Black Threat*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
@@ -80,7 +80,7 @@ Trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), ông đã cưỡi Kỵ s
 
 ## Vũ khí trong Middle-earth Role Playing {#Weaponry_in_Middle-earth_Role_Playing}
 
-Ngoài [Con dao Morgul](../M/Morgul-knife.md), Ma Nhẫn còn được ghi nhận là sở hữu những vũ khí sau:
+Ngoài [Dao Morgul](../M/Morgul-knife.md), Ma Nhẫn còn được ghi nhận là sở hữu những vũ khí sau:
 
 - **Búa tuyết**: Một chiếc cuốc chiến được làm bằng [laen](Stones_in_Middle-earth_Role_Playing.md#Laen) trong suốt, được khảm bằng sừng rồng.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 - **Người thay đổi Huế**: Một ngọn giáo [dírwood](../W/Woods_in_Middle-earth_Role_Playing.md#Dírwood) có thể đổi màu.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>

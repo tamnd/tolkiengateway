@@ -38,7 +38,7 @@ infobox:
 ## Từ nhà xuất bản {#From_the_publisher}
 
 <blockquote class="tg-quote noexcerpt">
-<p>Phía nam dọc theo Sông Lớn Anduin, vượt qua các đỉnh cực nam của Dãy Núi Sương Mù, là vùng đất Rohan. Nơi đây cư ngụ của Rohirrim, những người con trai nhanh nhẹn của Eorl đã đến từ phương Bắc từ nhiều thế kỷ trước để định cư ở vùng đất Calenardhon.
+<p>Phía nam dọc theo Đại Hà Anduin, vượt qua các đỉnh cực nam của Dãy Núi Sương Mù, là vùng đất Rohan. Nơi đây cư ngụ của Rohirrim, những người con trai nhanh nhẹn của Eorl đã đến từ phương Bắc từ nhiều thế kỷ trước để định cư ở vùng đất Calenardhon.
 </p><p>Còn được biết đến với cái tên Kỵ sĩ của Dấu ấn, họ là những chiến binh và kỵ sĩ kiêu hãnh, sẵn sàng bảo vệ Dân tộc Tự do trước những mối đe dọa nảy sinh trong hoàng hôn của Kỷ Đệ Tam. Các chúa tể kỵ mã của Rohan trình bày chi tiết về Rohirrim, mô tả lịch sử và vùng đất của họ, cũng như giới thiệu các quy tắc cho hai nền văn hóa mới, Kỵ sĩ của Rohan và Dunlending. Ngoài ra còn có các quy tắc xử lý ngựa, cưỡi ngựa trong chiến đấu và chăn nuôi ngựa.
 </p><p>Cũng như vùng đất Rohan, phần bổ sung này cũng trình bày chi tiết về Khu rừng cổ xưa Fangorn, làm sáng tỏ những cư dân bí ẩn của nó, Ent và Huorn khủng khiếp; người dân vùng Dunland Fells; và Tháp Isengard và cỗ máy của Pháp sư Trắng, Saruman.
 </p><p>Đây là nguồn tài nguyên không thể thiếu đối với những Loremaster muốn đưa trò chơi của họ vào một khu vực hoàn toàn mới.

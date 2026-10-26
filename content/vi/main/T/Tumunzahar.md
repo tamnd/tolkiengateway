@@ -14,7 +14,7 @@ images:
   - "CdxIconArticle.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../N/Nogrod.md" title="Nogrod">Nogrod</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="../N/Nogrod.md" title="Nogrod">Nogrod</a></b></div></div>
 
 **Tumunzahar** là tên [Người Lùn](../K/Khuzdul.md) của [Nogrod](../N/Nogrod.md), thành trì của [Người Lùn](../D/Dwarves.md) nằm ở phần trung tâm của [Dãy Núi Xanh](../B/Blue_Mountains.md), gần [Núi Dolmed](../M/Mount_Dolmed.md).
 

@@ -48,7 +48,7 @@ Hơn nữa, trong suốt cuộc đời Tolkien ông luôn có mối quan tâm s�
 <p class="tg-quote-footer"><cite><a href="../L/Letter_13.md" title="Letter 13">Letter 13</a></cite></p>
 </blockquote>
 
-Trong [một lá thư khác](../L/Letter_to_Jane_Dixon.md), Tolkien viết trong [1965](../_/1965.md) rằng cả ông và các nhà xuất bản của ông ([George Allen và Unwin](../A/Allen_and_Unwin.md)) đều không có ý định cấp phép cho Walt Disney làm phim dựa trên sách của ông.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Trong [một lá thư khác](../L/Letter_to_Jane_Dixon.md), Tolkien viết trong [1965](../_/1965.md) rằng cả ông và các nhà xuất bản của ông ([George Allen and Unwin](../A/Allen_and_Unwin.md)) đều không có ý định cấp phép cho Walt Disney làm phim dựa trên sách của ông.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Tolkien sản phẩm liên quan đến Disney {#Tolkien-related_Disney_products}
 

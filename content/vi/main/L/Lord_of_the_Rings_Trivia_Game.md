@@ -36,7 +36,7 @@ infobox:
 
 *The Lord of the Rings Trò chơi đố vui là bài kiểm tra cuối cùng về kiến ​​thức của bạn về Chúa tể những chiếc nhẫn của J.R.R. Tolkien!*
 
-Trong trò chơi cờ bàn thú vị này, mỗi người chơi hoặc nhóm người chơi sẽ đóng vai Frodo Baggins và tìm cách phá hủy Chiếc nhẫn Chúa bằng cách ném nó vào ngọn lửa của Núi Diệt Vong. Khi người chơi du hành qua 14 khu vực ở Trung Địa, họ phải tiêu tốn những nguồn tài nguyên quý giá và trả lời những câu hỏi đầy thách thức. Có 1200 câu hỏi; tất cả đều dựa trên sách gốc và được biên soạn bởi đội ngũ chuyên gia Tolkien. Các câu trả lời trắc nghiệm có thể giúp trò chơi trở nên dễ dàng hơn đối với những Người Trung Địa ít kinh nghiệm hơn.
+Trong trò chơi cờ bàn thú vị này, mỗi người chơi hoặc nhóm người chơi sẽ đóng vai Frodo Baggins và tìm cách phá hủy Nhẫn Chúa bằng cách ném nó vào ngọn lửa của Núi Diệt Vong. Khi người chơi du hành qua 14 khu vực ở Trung Địa, họ phải tiêu tốn những nguồn tài nguyên quý giá và trả lời những câu hỏi đầy thách thức. Có 1200 câu hỏi; tất cả đều dựa trên sách gốc và được biên soạn bởi đội ngũ chuyên gia Tolkien. Các câu trả lời trắc nghiệm có thể giúp trò chơi trở nên dễ dàng hơn đối với những Người Trung Địa ít kinh nghiệm hơn.
 
 Người chiến thắng trong trò chơi là người chơi hoặc đội đầu tiên tiếp cận và đối mặt thành công với các thử thách tại Núi Diệt Vong.
 

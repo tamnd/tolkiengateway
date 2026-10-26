@@ -12,7 +12,7 @@ categories:
   - "Tolkien Societies"
 ---
 
-**Hiệp hội Tolkien Philippine**, PTS, là [Tolkien hiệp hội](../T/Tolkien_Societies~67099.md) ở Philippines.
+**Hội Tolkien Philippine**, PTS, là [Tolkien hiệp hội](../T/Tolkien_Societies~67099.md) ở Philippines.
 
 ## Lịch sử {#History}
 

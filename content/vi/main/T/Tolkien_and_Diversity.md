@@ -58,7 +58,7 @@ infobox:
 ## Từ Nhà xuất bản {#From_the_Publisher}
 
 <blockquote class="tg-quote noexcerpt">
-<p>Chào đón hơn 700 đại biểu tham gia sự kiện kéo dài hai ngày, hội thảo mùa hè năm 2021 Tolkien của Hiệp hội là sự kiện có lượng người tham dự đông nhất trong lịch sử của Hiệp hội. Nó mời các học giả xem xét vai trò của sự đa dạng trong cấu trúc ngôn ngữ và văn học của Trung Địa: ông khám phá chủng tộc, giới tính, tình dục, khuyết tật, giai cấp, tôn giáo, đức tin và tuổi tác như thế nào? Các fandom khác nhau đón nhận tác phẩm của ông như thế nào? Những quan điểm khác nhau có thể làm phong phú thêm sự hiểu biết của chúng ta về Arda như thế nào? Tolkien và Đa dạng là hội thảo thứ hai trong số ba hội thảo mà Hiệp hội Tolkien tổ chức trực tuyến vào năm 2021, thu hút hơn 1600 đại biểu toàn cầu.
+<p>Chào đón hơn 700 đại biểu tham gia sự kiện kéo dài hai ngày, hội thảo mùa hè năm 2021 Tolkien của Hiệp hội là sự kiện có lượng người tham dự đông nhất trong lịch sử của Hiệp hội. Nó mời các học giả xem xét vai trò của sự đa dạng trong cấu trúc ngôn ngữ và văn học của Trung Địa: ông khám phá chủng tộc, giới tính, tình dục, khuyết tật, giai cấp, tôn giáo, đức tin và tuổi tác như thế nào? Các fandom khác nhau đón nhận tác phẩm của ông như thế nào? Những quan điểm khác nhau có thể làm phong phú thêm sự hiểu biết của chúng ta về Arda như thế nào? Tolkien và Đa dạng là hội thảo thứ hai trong số ba hội thảo mà Hội Tolkien tổ chức trực tuyến vào năm 2021, thu hút hơn 1600 đại biểu toàn cầu.
 </p><p>Được xuất bản dưới sự bảo trợ của Quỹ tưởng niệm Peter Roe của Hiệp hội, kỷ yếu này bao gồm một bộ sưu tập các bài báo được trình bày tại hội thảo mùa hè Tolkien của Hiệp hội 2021.
 </p><p><br/>
 </p>

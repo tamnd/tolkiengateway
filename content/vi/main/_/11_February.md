@@ -67,7 +67,7 @@ Sự kiện xảy ra vào ngày 11 tháng 2.
 - **[1952](1952.md)** - Diễn viên [Paul Norell](../P/Paul_Norell.md) ra đời.
 - **[1953](1953.md)** - [Wayne G. Hammond](../W/Wayne_G._Hammond.md) ra đời.
 - **[1994](1994.md)** - Diễn viên lồng tiếng [William Conrad](../W/William_Conrad.md) qua đời.
-- **[2008](2008.md)** - [Tolkien Estate](../T/Tolkien_Estate.md), [The Tolkien Trust](../T/The_Tolkien_Trust.md) và [HarperCollins](../H/HarperCollins.md) đệ đơn kiện [New Line Cinema](../N/New_Line_Cinema.md) và [Công ty Saul Zaentz](../S/Saul_Zaentz_Company.md).
+- **[2008](2008.md)** - [Tolkien Estate](../T/Tolkien_Estate.md), [The Tolkien Trust](../T/The_Tolkien_Trust.md) và [HarperCollins](../H/HarperCollins.md) đệ đơn kiện [New Line Cinema](../N/New_Line_Cinema.md) và [Saul Zaentz Company](../S/Saul_Zaentz_Company.md).
 
 ## Trong Arda {#In_Arda}
 

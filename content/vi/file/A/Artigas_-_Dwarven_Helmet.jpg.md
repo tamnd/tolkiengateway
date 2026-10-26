@@ -26,7 +26,7 @@ file:
   user: "A Hobbit Gentleman"
 ---
 
-"Người lùn Mũ bảo hiểm", của Artigas.
+"Người Lùn Mũ bảo hiểm", của Artigas.
 
 ## Giấy phép {#Licensing}
 

@@ -164,7 +164,7 @@ Trong [2020](../_/2020.md), một phiên bản có nắp trượt sang trọng �
 		</li>
 </ul>
 
-- [George Allen và Unwin](../G/George_Allen_and_Unwin.md), bìa cứng ([1975](../_/1975.md)), trang 148. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0048210358">ISBN 0048210358</a>
+- [George Allen and Unwin](../G/George_Allen_and_Unwin.md), bìa cứng ([1975](../_/1975.md)), trang 148. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0048210358">ISBN 0048210358</a>
 - [Giải phóng sách bìa mềm](../U/Unwin_Paperbacks.md), sách bìa mềm ([1979](../_/1979.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0048210390">ISBN 0048210390</a>
     - Ấn bản bìa mềm năm 1979, in lần thứ 10 ([1990](../_/1990.md))
 - [HarperCollins](../H/HarperCollins.md) bìa mềm ([1995](../_/1995.md)), trang 150. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0261102591">ISBN 0261102591</a>

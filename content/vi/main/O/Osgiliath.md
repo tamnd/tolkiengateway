@@ -141,7 +141,7 @@ Vào tháng 3 tiếp theo, ngay trong Chiến tranh, Sauron đã phát động m
 
 <dl><dd>Sau khi bắt giữ <a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo</a> và <a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Sam</a>, <a href="../F/Faramir.md" title="Faramir">Faramir</a> đưa họ đến Osgiliath, với hy vọng khai thác sức mạnh của <a class="mw-redirect" href="One_Ring.md" title="One Ring">Chiếc nhẫn</a> để cải thiện Gondor. Osgiliath bị hủy hoại hoàn toàn và bị ngập một phần. Sau khi bị tấn công bởi vài <a href="../F/Fell_beasts.md" title="Fell beasts"> Nazgûl</a> có cánh, Faramir thả chúng ra.</dd></dl>
 
-<dl><dd>Trong một cảnh trong <a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers_(extended_edition).md" title="The Lord of the Rings: The Two Towers (extended edition)">Phiên bản mở rộng</a>, Faramir có cảnh hồi tưởng. <a href="../B/Boromir.md" title="Boromir">Boromir</a> đòi lại thành phố với giá Gondor, và bữa tiệc của binh lính. Cảnh này nhằm làm nổi bật mối quan hệ giữa Boromir, Faramir và <a href="../D/Denethor.md" title="Denethor">Denethor</a>.</dd></dl>
+<dl><dd>Trong một cảnh trong <a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers_(extended_edition).md" title="The Lord of the Rings: The Two Towers (extended edition)">Bản mở rộng</a>, Faramir có cảnh hồi tưởng. <a href="../B/Boromir.md" title="Boromir">Boromir</a> đòi lại thành phố với giá Gondor, và bữa tiệc của binh lính. Cảnh này nhằm làm nổi bật mối quan hệ giữa Boromir, Faramir và <a href="../D/Denethor.md" title="Denethor">Denethor</a>.</dd></dl>
 
 <b>2003: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">The Lord of the Rings: The Return of the King</a></i>:</b>
 
@@ -149,7 +149,7 @@ Vào tháng 3 tiếp theo, ngay trong Chiến tranh, Sauron đã phát động m
 
 <dl><dd>Không ấn tượng với việc làm của Faramir, càng buồn hơn trước sự mất mát của Osgiliath, Denethor gửi con trai mình về Osgiliath, nhưng đại đội của ông bị tàn sát, và Faramir bị thương nặng. Cảnh này thay thế cảnh phòng thủ <a href="../C/Causeway_Forts.md" title="Causeway Forts">Causeway Pháo đài</a> trong sách.</dd></dl>
 
-<b>2009: <i><a href="../T/The_Lord_of_the_Rings%253A_Conquest.md" title="The Lord of the Rings: Conquest">The Lord of the Rings: Chinh phục</a></i>:</b>
+<b>2009: <i><a href="../T/The_Lord_of_the_Rings%253A_Conquest.md" title="The Lord of the Rings: Conquest">The Lord of the Rings: Conquest</a></i>:</b>
 
 <dl><dd>Osgiliath xuất hiện trong trò chơi với diện mạo dựa trên <a href="../T/The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)">phim</a> của Peter Jackson. Nó xuất hiện trong cả chiến dịch thiện và ác.</dd></dl>
 

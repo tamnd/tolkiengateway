@@ -29,7 +29,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Kiếm](../../main/E/Eärnur.md) tại [the Trận Fornost](../../main/B/Battle_of_Fornost.md) - *[Mithril Miniatures](../../main/M/Mithril_Miniatures.md)*<br>Mô tả sản phẩm:
+[Kiếm](../../main/E/Eärnur.md) tại [Trận Fornost](../../main/B/Battle_of_Fornost.md) - *[Mithril Miniatures](../../main/M/Mithril_Miniatures.md)*<br>Mô tả sản phẩm:
 
 <div class="poem">
 <p>Earnur, the last king of Gondor, was one of the great military commanders of the Third-age. He led the army of Gondor to the aid of Arthedain during its death struggle against the hosts of the Witch-king. Although Arhedain had fallen by the time Earnur arrived, he, nonetheless, engaged the forces of Angmar, and together with his Elven allies, completely routed the Witch-king’s army and drove him from the north.<br/>

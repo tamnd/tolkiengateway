@@ -29,7 +29,7 @@ Từ <i><b>elanor</b></i> có nghĩa là "Sao-mặt trời" trong [Sindarin](../
 ## Cộng đồng người hâm mộ {#Fandom}
 
 - [Elanor (Tolkien Society)](<Elanor_(Tolkien_Society).md>), cựu Tolkien Society của Bỉ, được kế thừa bởi Flemish Fantasy Society cùng tên.
-- <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Elanor_(journal)&amp;action=edit&amp;redlink=1" title="Elanor (journal) (page does not exist)">Elanor (tạp chí)</a></i>, tạp chí của Hiệp hội Tolkien Nhật Bản *[Shiro no Norite](../S/Shiro_no_Norite.md)*.
+- <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Elanor_(journal)&amp;action=edit&amp;redlink=1" title="Elanor (journal) (page does not exist)">Elanor (tạp chí)</a></i>, tạp chí của Hội Tolkien Nhật Bản *[Shiro no Norite](../S/Shiro_no_Norite.md)*.
 
 <hr style="margin-top:15px;"/>
 

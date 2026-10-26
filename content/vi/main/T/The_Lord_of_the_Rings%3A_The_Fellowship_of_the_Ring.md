@@ -101,7 +101,7 @@ Sau trận chiến, Isildur đi theo Tiên [Elrond](../E/Elrond.md) đến [Crac
 
 ### Rời khỏi Shire {#Leaving_the_Shire}
 
-Sáu mươi năm sau tại [ Shire](The_Shire.md), nơi Bilbo sống cùng cháu trai của mình, [Frodo Baggins](../F/Frodo_Baggins.md), Bilbo tổ chức lễ sinh nhật và biến mất một cách bí ẩn trong lễ hội. Bilbo được người bạn [Pháp sư](../W/Wizards.md) [Gandalf](../G/Gandalf.md) theo đến nhà anh ở [Bag End](../B/Bag_End.md). Gandalf nhận ra rằng Bilbo đã sử dụng Chiếc nhẫn Chúa để biến mất và thuyết phục được Hobbit khởi hành đến [Rivendell](../R/Rivendell.md) và để Chiếc nhẫn Chúa cho Frodo trông coi. Một thời gian sau, sau khi du hành tới [Minas Tirith](../M/Minas_Tirith.md) và nghiền ngẫm những cuốn sách liên quan đến Chiếc nhẫn, Gandalf quay trở lại The Shire và thông báo cho Frodo về bản chất xấu xa của Chiếc nhẫn. Gandalf sau đó cảnh báo Frodo rời khỏi Shire và sau khi phát hiện người làm vườn của Frodo [Samwise Gamgee](../S/Samwise_Gamgee.md) đang nghe lén cuộc trò chuyện của họ, đã đuổi Hobbit đi vì sự an toàn của chính họ.
+Sáu mươi năm sau tại [ Shire](The_Shire.md), nơi Bilbo sống cùng cháu trai của mình, [Frodo Baggins](../F/Frodo_Baggins.md), Bilbo tổ chức lễ sinh nhật và biến mất một cách bí ẩn trong lễ hội. Bilbo được người bạn [Pháp sư](../W/Wizards.md) [Gandalf](../G/Gandalf.md) theo đến nhà anh ở [Bag End](../B/Bag_End.md). Gandalf nhận ra rằng Bilbo đã sử dụng Nhẫn Chúa để biến mất và thuyết phục được Hobbit khởi hành đến [Rivendell](../R/Rivendell.md) và để Nhẫn Chúa cho Frodo trông coi. Một thời gian sau, sau khi du hành tới [Minas Tirith](../M/Minas_Tirith.md) và nghiền ngẫm những cuốn sách liên quan đến Chiếc nhẫn, Gandalf quay trở lại The Shire và thông báo cho Frodo về bản chất xấu xa của Chiếc nhẫn. Gandalf sau đó cảnh báo Frodo rời khỏi Shire và sau khi phát hiện người làm vườn của Frodo [Samwise Gamgee](../S/Samwise_Gamgee.md) đang nghe lén cuộc trò chuyện của họ, đã đuổi Hobbit đi vì sự an toàn của chính họ.
 
 Sau khi khởi hành, Frodo và Sam gặp hai Hobbit là [Meriadoc "Merry" Brandybuck](../M/Meriadoc_Brandybuck.md) và [Peregrin "Pippin" Took](../P/Peregrin_Took.md), những người đã lấy trộm một ít rau của [Farmer Maggot](../F/Farmer_Maggot.md) rồi bỏ trốn. Merry và Pippin cùng Frodo và Sam tiếp tục hành trình đến [Bree](../B/Bree.md), nơi họ dự định gặp Gandalf. Tuy nhiên, cuộc hành trình đầy rẫy hiểm nguy: các Hobbit chạm trán một [Nazgûl](../N/Nazgûl.md) được Sauron phái đi tìm chiếc Nhẫn. Họ chỉ vừa kịp thoát khỏi tên Nazgûl rồi tiếp tục lên đường.
 
@@ -188,7 +188,7 @@ Chứng kiến quyền năng tha hóa của Nhẫn, Frodo lên đường đến 
 47. Danh đề cuối phim
 48. Danh đề Câu lạc bộ người hâm mộ chính thức *
 
-\* biểu thị một cảnh chỉ có trong bản cắt Phiên bản mở rộng của phim.<br> \*\* biểu thị một cảnh bao gồm nội dung mở rộng chỉ có trong bản cắt Phiên bản mở rộng của phim.
+\* biểu thị một cảnh chỉ có trong bản cắt Bản mở rộng của phim.<br> \*\* biểu thị một cảnh bao gồm nội dung mở rộng chỉ có trong bản cắt Bản mở rộng của phim.
 
 ## Truyền {#Cast}
 

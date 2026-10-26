@@ -116,7 +116,7 @@ Có thể [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được lấy cảm hứng t
 
 <dl><dd>Ted Sandyman do Jochen Stern thủ vai.</dd></dl>
 
-<b><a href="../_/2001.md" title="2001">2001</a>: <i><a href="The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i> (<a href="The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(extended_edition).md" title="The Lord of the Rings: The Fellowship of the Ring (extended edition)">Phiên bản mở rộng</a>)</b>
+<b><a href="../_/2001.md" title="2001">2001</a>: <i><a href="The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i> (<a href="The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(extended_edition).md" title="The Lord of the Rings: The Fellowship of the Ring (extended edition)">Bản mở rộng</a>)</b>
 
 <dl><dd></dd>
 <dd><a href="../B/Brian_Sergent.md" title="Brian Sergent">Brian Sergent</a> đóng vai Ted. Ông có mặt trong buổi nói chuyện của <a href="../G/Gaffer_Gamgee.md" title="Gaffer Gamgee">Gaffer Gamgee</a> trong <a class="mw-redirect" href="../G/Green_Dragon~72852.md" title="Green Dragon">Green Rồng</a> tiếp quản lời thoại của cha ông.</dd></dl>

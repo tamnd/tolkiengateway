@@ -22,7 +22,7 @@ sort_keys:
   "People by name": "Fornet-Ponse, Thomas"
 ---
 
-Tiến sĩ Theol. **Thomas Fornet-Ponse** là trợ lý nghiên cứu tại hội thảo Thần học cơ bản tại <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Bonn" title="wikipedia:University of Bonn">Đại học Bonn</a>. Trong số những mối quan tâm nghiên cứu của ông là những phân tích triết học và thần học về J.R.R. Tolkien và các tác giả viết tác phẩm giả tưởng khác. Ông là thành viên ủy ban của [Hiệp hội Tolkien Đức](../D/Deutsche_Tolkien_Gesellschaft_e.V..md) và là biên tập viên của tạp chí *[Hither Shore](<../H/Hither_Shore_(journal).md>)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Tiến sĩ Theol. **Thomas Fornet-Ponse** là trợ lý nghiên cứu tại hội thảo Thần học cơ bản tại <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Bonn" title="wikipedia:University of Bonn">Đại học Bonn</a>. Trong số những mối quan tâm nghiên cứu của ông là những phân tích triết học và thần học về J.R.R. Tolkien và các tác giả viết tác phẩm giả tưởng khác. Ông là thành viên ủy ban của [Hội Tolkien Đức](../D/Deutsche_Tolkien_Gesellschaft_e.V..md) và là biên tập viên của tạp chí *[Hither Shore](<../H/Hither_Shore_(journal).md>)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Thư mục, đã chọn {#Bibliography,_selected}
 

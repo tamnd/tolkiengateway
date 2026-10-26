@@ -28,7 +28,7 @@ images:
 
 ## Văn học {#Literature}
 
-- *[Arda](<Arda_(annual).md>)*, hàng năm của Hiệp hội Tolkien [Forodrim](../F/Forodrim.md)
+- *[Arda](<Arda_(annual).md>)*, hàng năm của Hội Tolkien [Forodrim](../F/Forodrim.md)
     - [Arda Tài liệu tham khảo về cấu trúc](../S/Structural_references.md), một hệ thống trích dẫn được tạp chí quảng bá
     - *[Arda Philology](Arda_Philology.md)*, loạt bài đặc biệt về ngôn ngữ học
 - *[Arda Inhabited](Arda_Inhabited.md)*, sách của Susan Jeffers

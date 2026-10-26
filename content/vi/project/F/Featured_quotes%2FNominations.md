@@ -34,7 +34,7 @@ Sau khi đề cử, một trích dẫn phải nhận được ba phiếu bầu t
 ### The Hobbit {#The_Hobbit}
 
 <blockquote class="tg-quote noexcerpt">
-<p>There is nothing like looking, if you want to find something.  You certainly usually find something, if you look, but it is not always quite the something you were after.
+<p>There is nothing like looking, if you want to find something. You certainly usually find something, if you look, but it is not always quite the something you were after.
 </p>
 <p class="tg-quote-footer"><cite><i><a href="../../main/T/The_Hobbit.md" title="The Hobbit">The Hobbit</a></i>, &#34;<a href="../../main/O/Over_Hill_and_Under_Hill.md" title="Over Hill and Under Hill">Over Hill and Under Hill</a>&#34; </cite></p>
 </blockquote>
@@ -140,7 +140,7 @@ Sau khi đề cử, một trích dẫn phải nhận được ba phiếu bầu t
 </blockquote>
 
 <blockquote class="tg-quote noexcerpt">
-<p><b>Gimli</b>: Elrond was against [Merry and Pippin&#39;s] coming.<br/><b>Legolas</b>: But Gandalf was not.<br/><b>Gimli</b>: But Gandalf chose to come himself, and he was the first to be lost.  His foresight failed him.<br/><b>Aragorn</b>: The counsel of Gandalf was not founded on foreknowledge of safety, for himself or for others. There are some things that it is better to begin than to refuse, even though the end may be dark.
+<p><b>Gimli</b>: Elrond was against [Merry and Pippin&#39;s] coming.<br/><b>Legolas</b>: But Gandalf was not.<br/><b>Gimli</b>: But Gandalf chose to come himself, and he was the first to be lost. His foresight failed him.<br/><b>Aragorn</b>: The counsel of Gandalf was not founded on foreknowledge of safety, for himself or for others. There are some things that it is better to begin than to refuse, even though the end may be dark.
 </p>
 <p class="tg-quote-footer"><cite><i><a href="../../main/T/The_Two_Towers.md" title="The Two Towers">The Two Towers</a></i>, &#34;<a href="../../main/T/The_Riders_of_Rohan.md" title="The Riders of Rohan">The Riders of Rohan</a>&#34;</cite></p>
 </blockquote>

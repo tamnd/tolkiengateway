@@ -22,7 +22,7 @@ sort_keys:
   "People by name": "Dubs, Kathleen E."
 ---
 
-**Kathleen E. Dubs** ([1944](../_/1944.md) - [2011](../_/2011.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>) là thành viên khoa nhân văn tại <a class="extiw" href="http://en.wikipedia.org/wiki/P%C3%A1zm%C3%A1ny_P%C3%A9ter_Catholic_University" title="wikipedia:Pázmány Péter Catholic University">Đại học Công giáo Pázmány Péter</a>và là thành viên của [Hiệp hội Tolkien Hungary](../H/Hungarian_Tolkien_Society.md). Các khóa học của cô bao gồm [Cổ](../O/Old_English.md) và [Tiếng Anh trung cổ](../M/Middle_English.md), văn học thời trung cổ, và các bài giảng của cô về [Tolkien](../J/J.R.R._Tolkien.md) đã khơi dậy sự quan tâm đến ông trong giới học thuật.
+**Kathleen E. Dubs** ([1944](../_/1944.md) - [2011](../_/2011.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>) là thành viên khoa nhân văn tại <a class="extiw" href="http://en.wikipedia.org/wiki/P%C3%A1zm%C3%A1ny_P%C3%A9ter_Catholic_University" title="wikipedia:Pázmány Péter Catholic University">Đại học Công giáo Pázmány Péter</a>và là thành viên của [Hội Tolkien Hungary](../H/Hungarian_Tolkien_Society.md). Các khóa học của cô bao gồm [Cổ](../O/Old_English.md) và [Tiếng Anh trung cổ](../M/Middle_English.md), văn học thời trung cổ, và các bài giảng của cô về [Tolkien](../J/J.R.R._Tolkien.md) đã khơi dậy sự quan tâm đến ông trong giới học thuật.
 
 ## Thư mục {#Bibliography}
 

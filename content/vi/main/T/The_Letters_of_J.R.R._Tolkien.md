@@ -175,7 +175,7 @@ Tác phẩm đã giành được [Giải thưởng của Hội Tolkien](The_Tolk
 		</li>
 </ul>
 
-- [George Allen và Unwin](../G/George_Allen_and_Unwin.md), bìa cứng ([1981](../_/1981.md)), trang 463. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0048260053">ISBN 0048260053</a> - (ấn bản đầu tiên)
+- [George Allen and Unwin](../G/George_Allen_and_Unwin.md), bìa cứng ([1981](../_/1981.md)), trang 463. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0048260053">ISBN 0048260053</a> - (ấn bản đầu tiên)
 - [Giải phóng sách bìa mềm](../U/Unwin_Paperbacks.md), sách bìa mềm ([1990](../_/1990.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0044406649">ISBN 0044406649</a>
 - [HarperCollins](../H/HarperCollins.md) bìa mềm ([1995](../_/1995.md)), trang 480. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0261102656">ISBN 0261102656</a>
     - Ấn bản bìa mềm năm 1995, thiết lập lại vào [2006](../_/2006.md)

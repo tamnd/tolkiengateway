@@ -48,7 +48,7 @@ Và hãy để những đám mây trôi qua!
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2001: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i> (<a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(extended_edition).md" title="The Lord of the Rings: The Fellowship of the Ring (extended edition)">Phiên bản mở rộng</a>)</b>
+<b>2001: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i> (<a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(extended_edition).md" title="The Lord of the Rings: The Fellowship of the Ring (extended edition)">Bản mở rộng</a>)</b>
 
 <dl><dd><b></b></dd>
 <dd><a href="../M/Meriadoc_Brandybuck.md" title="Meriadoc Brandybuck">Merry</a>, <a href="../P/Peregrin_Took.md" title="Peregrin Took">Pippin</a> và <a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo</a> hát bài hát tại <a class="mw-redirect" href="../G/Green_Dragon~72852.md" title="Green Dragon">Green Rồng</a>, với lời bài hát được thay đổi một chút kết hợp một phần nhỏ của <a href="../B/Bath-songs.md" title="Bath-songs">bài hát tắm</a>:</dd></dl>

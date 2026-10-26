@@ -28,7 +28,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"Sự trở lại của [the Vua](../../main/A/Aragorn.md)" - Tác phẩm nghệ thuật của [Anh em nhà Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md), xuất bản lần đầu trong [1976 J.R.R. Tolkien Lịch](../../main/_/1976_J.R.R._Tolkien_Calendar.md)
+"Sự trở lại của [Vua](../../main/A/Aragorn.md)" - Tác phẩm nghệ thuật của [Anh em nhà Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md), xuất bản lần đầu trong [1976 J.R.R. Tolkien Lịch](../../main/_/1976_J.R.R._Tolkien_Calendar.md)
 
 ## Giấy phép {#Licensing}
 

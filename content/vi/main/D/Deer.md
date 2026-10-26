@@ -32,7 +32,7 @@ Thuật ngữ Sindarin <i><a class="new" href="https://tolkiengateway.net/w/inde
 
 <b>2001: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i>:</b>
 
-<dl><dd>Trong Phiên bản mở rộng của bộ phim, khi những người hobbit cắm trại ở rìa <a href="../M/Midgewater_Marshes.md" title="Midgewater Marshes">Đầm lầy Midwater</a>, Aragorn rời xa họ một lúc và trở về vào ban đêm, mang theo một con nai nhỏ mà ông đã săn và bắt được. Con hươu chết dùng để quay cảnh này được mua từ một trang trại New Zealand nuôi hươu bỏ hoang để lấy thịt.</dd></dl>
+<dl><dd>Trong Bản mở rộng của bộ phim, khi những người hobbit cắm trại ở rìa <a href="../M/Midgewater_Marshes.md" title="Midgewater Marshes">Đầm lầy Midwater</a>, Aragorn rời xa họ một lúc và trở về vào ban đêm, mang theo một con nai nhỏ mà ông đã săn và bắt được. Con hươu chết dùng để quay cảnh này được mua từ một trang trại New Zealand nuôi hươu bỏ hoang để lấy thịt.</dd></dl>
 
 <b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 

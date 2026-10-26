@@ -93,7 +93,7 @@ infobox:
 
 ### Thức tỉnh {#Awakening}
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../A/Awakening_of_the_Elves.md" title="Awakening of the Elves">Sự thức tỉnh của Tiên tộc</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="../A/Awakening_of_the_Elves.md" title="Awakening of the Elves">Sự thức tỉnh của Tiên tộc</a></b></div></div>
 
 <br>
 
@@ -107,7 +107,7 @@ Khi ấy, họ tạo ra ngôn ngữ và tự gọi mình là *[Quendi](../Q/Quen
 
 ### Cuộc Phân Ly {#Sundering}
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../S/Sundering_of_the_Elves.md" title="Sundering of the Elves">Sự chia cắt của Tiên tộc</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="../S/Sundering_of_the_Elves.md" title="Sundering of the Elves">Sự chia cắt của Tiên tộc</a></b></div></div>
 
 <br>
 
@@ -123,7 +123,7 @@ Sau nhiều năm, Oromë trở lại để tìm kiếm những người Teleri. 
 
 ### Cuộc lưu đày của Noldor {#Exile_of_the_Noldor}
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="Exile_of_the_Noldor.md" title="Exile of the Noldor">Cuộc Lưu đày của Noldor</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="Exile_of_the_Noldor.md" title="Exile of the Noldor">Cuộc Lưu đày của Noldor</a></b></div></div>
 
 <br>
 
@@ -133,7 +133,7 @@ Melkor, sau khi được phóng thích với lời hứa sẽ cư xử tốt, đ
 
 ### Các trận chiến ở Beleriand {#Battles_of_Beleriand}
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../B/Battles_of_Beleriand.md" title="Battles of Beleriand">Trận đánh Beleriand</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="../B/Battles_of_Beleriand.md" title="Battles of Beleriand">Trận đánh Beleriand</a></b></div></div>
 
 <br>
 
@@ -143,7 +143,7 @@ Có năm trận đại chiến diễn ra tại Beleriand. [Trận chiến Đầu
 
 ### Sự cứu rỗi {#Salvation}
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../W/War_of_Wrath.md" title="War of Wrath">Chiến tranh Phẫn nộ</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="../W/War_of_Wrath.md" title="War of Wrath">Chiến tranh Phẫn nộ</a></b></div></div>
 
 <br> Khi các Tiên tộc gần như bị hủy diệt hoàn toàn, những người sống sót cuối cùng ở [Cửa sông Sirion](../M/Mouths_of_Sirion.md) và [Balar](../I/Isle_of_Balar.md), dưới sự lãnh đạo của Gil-galad và Círdan. Trong số họ có [Eärendil](Eärendil.md), con trai của [Tuor](../T/Tuor.md) và [Idril](../I/Idril.md). Eärendil đã thực hiện một chuyến hải hành kỳ diệu đến [Valinor](../V/Valinor.md) để cầu xin sự tha thứ của các Valar. Lời thỉnh cầu của chàng được chấp thuận. Các Valar vượt Biển Cả đến [Trung Địa](../M/Middle-earth.md), và trong [Cuộc chiến Phẫn nộ](../W/War_of_Wrath.md) đã đẩy Morgoth vào [Hư Không](../V/Void.md) và thanh tẩy Beleriand. Họ đề nghị cho các Tiên tộc trở về Valinor cùng mình; một số chấp thuận, nhưng nhiều người khác, dưới sự lãnh đạo của [Gil-galad](../G/Gil-galad.md), chọn ở lại.
 
@@ -175,7 +175,7 @@ Ngoài việc được xem là đẹp hơn loài người, các Tiên tộc nhì
 
 ## Nghệ thuật, nghề thủ công, quyền năng và phép thuật {#Arts,_crafts,_powers_and_magic}
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../M/Magic.md" title="Magic">Phép thuật</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="../M/Magic.md" title="Magic">Phép thuật</a></b></div></div>
 
 Các chủng tộc khác thường nói về 'phép thuật của Tiên', hoặc về những vật do các Tiên tạo ra như thể chúng chứa đựng các bùa phép. Không rõ việc gọi những nghệ thuật và đồ thủ công của Tiên là 'phép thuật' hay 'được yểm phép' có chính xác hay không. Chính các Tiên chỉ sử dụng những từ này khi cố gắng đơn giản hóa hoặc làm rõ lý do những vật do Tiên tạo ra dường như có một phẩm chất đặc biệt mà không chủng tộc nào khác có thể đạt được. Các Tiên hùng mạnh dường như có quyền kiểm soát thiên nhiên và các nguyên tố, y phục của họ dường như tỏa sáng bằng ánh sáng của chính nó, còn lưỡi kiếm của họ dường như không bao giờ mất đi độ sắc bén. Những người ít học không thể giải thích các hiện tượng này, nên họ đơn giản gọi chúng là 'phép thuật'.
 
@@ -203,7 +203,7 @@ Vì họ bước vào thế giới từ rất lâu trước [Loài Người, *K�
 
 ## Ngôn ngữ {#Languages}
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="Elvish.md" title="Elvish">Elvish</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="Elvish.md" title="Elvish">Elvish</a></b></div></div>
 
 <figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/D/Donato_Giancola_-_Lore_of_the_Ages.jpeg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b8/Donato_Giancola_-_Lore_of_the_Ages.jpeg/200px-Donato_Giancola_-_Lore_of_the_Ages.jpeg" decoding="async" loading="lazy" width="200" height="176" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b8/Donato_Giancola_-_Lore_of_the_Ages.jpeg/300px-Donato_Giancola_-_Lore_of_the_Ages.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/b/b8/Donato_Giancola_-_Lore_of_the_Ages.jpeg/400px-Donato_Giancola_-_Lore_of_the_Ages.jpeg 2x" data-file-width="748" data-file-height="657"/></a><figcaption><i>Lore of the Ages</i> by <a href="../D/Donato_Giancola.md" title="Donato Giancola">Donato Giancola</a></figcaption></figure>
 

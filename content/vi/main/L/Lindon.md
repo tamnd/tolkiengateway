@@ -86,7 +86,7 @@ Trong sự hỗn loạn sau Sự sụp đổ của Númenor, Lindon đã chịu 
 
 ### Thời Cổ xưa {#Elder_Days}
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../O/Ossiriand.md" title="Ossiriand">Ossiriand</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="../O/Ossiriand.md" title="Ossiriand">Ossiriand</a></b></div></div>
 
 Những người [Noldor](../N/Noldor.md) lưu vong là những người đầu tiên dùng tên Lindon để chỉ vùng [Ossiriand](../O/Ossiriand.md).<sup id="cite_ref-Beleriand_8-0" class="reference"><a href="#cite_note-Beleriand-8">[7]</a></sup>
 

@@ -21,7 +21,7 @@ images:
 <p class="tg-quote-footer"><cite><a href="Treebeard.md" title="Treebeard">Treebeard</a></cite></p>
 </blockquote></div></div>
 
-**The Lord of the Rings: Bộ ba phim điện ảnh - Phiên bản mở rộng** là gói Blu-ray của [*The Lord of the Rings* loạt phim](<The_Lord_of_the_Rings_(film_series).md>) được phát hành vào ngày 28 tháng 6 năm 2011 bởi [New Line Cinema](../N/New_Line_Cinema.md). Nó bao gồm các phiên bản mở rộng của phim ở độ phân giải cao và chín DVD có thêm các tính năng bổ sung. *[The Fellowship of the Ring](The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)* cũng nhận được bản remaster từ các tệp kỹ thuật số 2K, được giám sát bởi đạo diễn [Peter Jackson](../P/Peter_Jackson.md) và nhà quay phim [Andrew Lesnie](../A/Andrew_Lesnie.md). Nó đã nhận được đánh giá hoàn hảo của người dùng trên nhiều trang web, bao gồm cả blu-ray.com.
+**The Lord of the Rings: Bộ ba phim điện ảnh - Bản mở rộng** là gói Blu-ray của [*The Lord of the Rings* loạt phim](<The_Lord_of_the_Rings_(film_series).md>) được phát hành vào ngày 28 tháng 6 năm 2011 bởi [New Line Cinema](../N/New_Line_Cinema.md). Nó bao gồm các phiên bản mở rộng của phim ở độ phân giải cao và chín DVD có thêm các tính năng bổ sung. *[The Fellowship of the Ring](The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)* cũng nhận được bản remaster từ các tệp kỹ thuật số 2K, được giám sát bởi đạo diễn [Peter Jackson](../P/Peter_Jackson.md) và nhà quay phim [Andrew Lesnie](../A/Andrew_Lesnie.md). Nó đã nhận được đánh giá hoàn hảo của người dùng trên nhiều trang web, bao gồm cả blu-ray.com.
 
 ## Xem thêm {#See_also}
 

@@ -67,7 +67,7 @@ Người ta thực sự biết rất ít về cuộc chiến kéo dài sáu năm
 
 ### Trận Azanulbizar {#Battle_of_Azanulbizar}
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../B/Battle_of_Azanulbizar.md" title="Battle of Azanulbizar">Trận Azanulbizar</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="../B/Battle_of_Azanulbizar.md" title="Battle of Azanulbizar">Trận Azanulbizar</a></b></div></div>
 
 Cuộc chiến lên đến đỉnh điểm vào [2799](../T/Third_Age_2799.md)<sup id="cite_ref-TA_1-3" class="reference"><a href="#cite_note-TA-1">[1]</a></sup> khi trận chiến cuối cùng diễn ra ở Thung lũng Dimrill bên dưới Cổng Đông của [Moria](../M/Moria.md), [Trận Azanulbizar](../B/Battle_of_Azanulbizar.md), cũng chính là cánh cổng Đoàn Hộ Nhẫn sẽ xuất hiện 220 năm sau. Người Lùn đã giành được chiến thắng trong cuộc chạm trán đẫm máu khét tiếng này khi quân tiếp viện đến hiện trường muộn từ [Dãy Đồi Sắt](../I/Iron_Hills.md). Azog đã bị giết bởi [Dáin Chân Sắt](../D/Dáin_Ironfoot.md).
 

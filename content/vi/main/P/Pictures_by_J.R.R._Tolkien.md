@@ -157,7 +157,7 @@ Cuốn sách đã được sửa đổi trong [1992](../_/1992.md), trong đó l
 		</li>
 </ul>
 
-- [George Allen và Unwin](../G/George_Allen_and_Unwin.md), bìa cứng có nắp trượt ([1979](../_/1979.md)), trang 103. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0047410035">ISBN 0047410035</a>
+- [George Allen and Unwin](../G/George_Allen_and_Unwin.md), bìa cứng có nắp trượt ([1979](../_/1979.md)), trang 103. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0047410035">ISBN 0047410035</a>
 - [HarperCollins](../H/HarperCollins.md) bìa cứng ([1992](../_/1992.md)), trang 108. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0261102583">ISBN 0261102583</a>
 - [HarperCollins](../H/HarperCollins.md) bìa cứng có nắp trượt ([2021](../_/2021.md)), trang 112. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0008484449">ISBN 0008484449</a>
 - [HarperCollins](../H/HarperCollins.md) bìa cứng ([2024](../_/2024.md)), trang 128. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0008484457">ISBN 0008484457</a>

@@ -44,7 +44,7 @@ Phim của - <b><i><a href="The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Rin
 
 - *[The Fellowship of the Ring Sourcebook](The_Fellowship_of_the_Ring_Sourcebook.md)*, phần bổ sung [2003](../_/2003.md) dành cho [Decipher](../D/Decipher.md) của *[The Lord of the Rings Roleplaying Game](The_Lord_of_the_Rings_Roleplaying_Game.md)*.
 Trò chơi điện tử của - [*The Lord of the Rings: The Fellowship of the Ring* (video game)](<The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md>), [Vivendi](../V/Vivendi.md).
-- *[The Fellowship of the Ring (board game)](<The_Fellowship_of_the_Ring_(board_game).md>)*, một trò chơi board [1983](../_/1983.md) của [Vương miện Sắt Enterprises](../I/Iron_Crown_Enterprises.md).
+- *[The Fellowship of the Ring (board game)](<The_Fellowship_of_the_Ring_(board_game).md>)*, một trò chơi board [1983](../_/1983.md) của [Iron Crown Enterprises](../I/Iron_Crown_Enterprises.md).
 - *[The Lord of the Rings Strategy Battle Game: The Fellowship of the Ring](The_Lord_of_the_Rings_Strategy_Battle_Game%253A_The_Fellowship_of_the_Ring.md)*, phần bổ sung [2001](../_/2001.md) cho *[The Lord of the Rings Strategy Battle Game](The_Lord_of_the_Rings_Strategy_Battle_Game.md)*.
 
 ## Khác {#Other}

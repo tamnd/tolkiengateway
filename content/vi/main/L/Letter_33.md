@@ -38,7 +38,7 @@ Những rắc rối chưa xác định đã khiến Tolkien suy sụp và anh đ
 
 Ông đã đánh máy *[Farmer Giles of Ham](../F/Farmer_Giles_of_Ham.md)* và hiện đang gửi nó cho Allen &amp; Unwin để họ xem xét, mặc dù ông thừa nhận rằng nó không đủ dài để xuất bản độc lập. Tolkien nói rằng ông đã lên kế hoạch cho phần tiếp theo và ông còn một câu chuyện chưa hoàn thành khác tên là *[The King of the Green Dozen](../T/The_King_of_the_Green_Dozen.md)*; ông đề nghị kết liễu họ để đi cùng *Farmer Giles* nếu muốn.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup>
 
-Tolkien nói rằng ông đã bắt đầu lại phần tiếp theo của *[The Hobbit](../T/The_Hobbit.md)* – *The Lord of the Ring*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 2]</a></sup> Mọi chuyện đang trôi chảy và đã vượt quá tầm kiểm soát. Tolkien đã đến được Chương VII và nó đang tiến tới những mục tiêu khá bất ngờ. Ông cảm thấy rằng nó tốt hơn so với người tiền nhiệm của nó và đề cập rằng [C.S. Lewis](../C/C.S._Lewis.md) tự nhận mình rất hài lòng. Tuy nhiên, ông cảnh báo Allen và Unwin rằng “đó không phải là câu chuyện trước khi đi ngủ”.
+Tolkien nói rằng ông đã bắt đầu lại phần tiếp theo của *[The Hobbit](../T/The_Hobbit.md)* – *The Lord of the Ring*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 2]</a></sup> Mọi chuyện đang trôi chảy và đã vượt quá tầm kiểm soát. Tolkien đã đến được Chương VII và nó đang tiến tới những mục tiêu khá bất ngờ. Ông cảm thấy rằng nó tốt hơn so với người tiền nhiệm của nó và đề cập rằng [C.S. Lewis](../C/C.S._Lewis.md) tự nhận mình rất hài lòng. Tuy nhiên, ông cảnh báo Allen and Unwin rằng “đó không phải là câu chuyện trước khi đi ngủ”.
 
 ## Ghi chú {#Notes}
 

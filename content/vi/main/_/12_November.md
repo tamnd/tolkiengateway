@@ -69,7 +69,7 @@ Sự kiện xảy ra vào ngày 12 tháng 11
 - **[1952](1952.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 135a](../L/Letter_135a.md).
 - **[1970](1970.md)** - Diễn viên [Craig Parker](../C/Craig_Parker.md) ra đời.
 - **[1995](1995.md)** - Diễn viên [Robert Stephens](../R/Robert_Stephens.md) qua đời.
-- **[2002](2002.md)** - *[The Lord of the Rings: The Fellowship of the Ring](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)* ([Phiên bản mở rộng](<../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(extended_edition).md>)) được phát hành dưới dạng DVD.
+- **[2002](2002.md)** - *[The Lord of the Rings: The Fellowship of the Ring](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)* ([Bản mở rộng](<../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(extended_edition).md>)) được phát hành dưới dạng DVD.
 - **[2006](2006.md)** - [Ring\*Con 2006](../R/Ring%252ACon_2006.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Fulda" title="wikipedia:Fulda">Fulda</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">Đức</a>.
 - **[2008](2008.md)** - *[Fantasy, Myth and the Measure of Truth](../F/Fantasy,_Myth_and_the_Measure_of_Truth.md)* được xuất bản.
 

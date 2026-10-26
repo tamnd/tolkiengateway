@@ -43,7 +43,7 @@ images:
 
 **1 tháng 6 năm 2008 - 9 tháng 4 năm 2009**
 
-<dl><dd>This is a historic moment on the TG Wiki.  It&#39;s my honor to nominate <a href="../../main/A/Aragorn.md" title="Aragorn">Aragorn II</a> for featured status.  We probably need to clearly state what the rules are for this procedure.  I assume that it will be similar to other Wikis, with in place voting over some reasonable time period.  Hyarion, help us out here. --<a href="https://tolkiengateway.net/wiki/User:Theoden1" title="User:Theoden1">Theoden1</a> 19:06, 12 May 2008 (EDT)</dd>
+<dl><dd>This is a historic moment on the TG Wiki. It&#39;s my honor to nominate <a href="../../main/A/Aragorn.md" title="Aragorn">Aragorn II</a> for featured status. We probably need to clearly state what the rules are for this procedure. I assume that it will be similar to other Wikis, with in place voting over some reasonable time period. Hyarion, help us out here. --<a href="https://tolkiengateway.net/wiki/User:Theoden1" title="User:Theoden1">Theoden1</a> 19:06, 12 May 2008 (EDT)</dd>
 <dd>I <b>agree</b>, this would make a great Featured Article, it has multiple images from multiple reputable artists, sound bytes, detailed history, both in the legendarium as well as portrayal in the film adaptations.--<a href="https://tolkiengateway.net/wiki/User:Quidon88" title="User:Quidon88">Quidon88</a> 22:33, 12 May 2008 (EDT)</dd></dl>
 
 <dl><dd>I <b>agree</b> too. But &#34;Personality&#34; and &#34;Portrayal in adaptations&#34; need some work. I&#39;ll do Portrayal. -- <a href="https://tolkiengateway.net/wiki/User:Ederchil" title="User:Ederchil">Ederchil</a> 03:27, 13 May 2008 (EDT)</dd></dl>
@@ -58,7 +58,7 @@ images:
 
 **9 tháng 4 năm 2009 - 6 tháng 12 năm 2009**
 
-<dl><dd>This article was brought to my attention, and it turned out to be surprisingly strong.  It has good segmentation, well-illustrated, good references, with a strong section on portrayals.  It would make a very strong addition to our new <b>FA</b> collection.--<a href="https://tolkiengateway.net/wiki/User:Theoden1" title="User:Theoden1">Theoden1</a> 19:43, 4 June 2008 (EDT)</dd></dl>
+<dl><dd>This article was brought to my attention, and it turned out to be surprisingly strong. It has good segmentation, well-illustrated, good references, with a strong section on portrayals. It would make a very strong addition to our new <b>FA</b> collection.--<a href="https://tolkiengateway.net/wiki/User:Theoden1" title="User:Theoden1">Theoden1</a> 19:43, 4 June 2008 (EDT)</dd></dl>
 
 <dl><dd>I whole-heartedly <b>agree</b>. This is a very long article which buckets of information and I think really shows us our ability to make long, detailed, accurate and engaging articles. --<a href="https://tolkiengateway.net/wiki/User:Mith" title="User:Mith"><span style="color:#2F4F4F"><b>Mith</b></span></a> <small>(<a href="https://tolkiengateway.net/wiki/User_talk:Mith" title="User talk:Mith"><span style="color:#696969"><b>Talk</b></span></a>/<a href="https://tolkiengateway.net/wiki/Special:Contributions/Mith" title="Special:Contributions/Mith"><span style="color:#708090">Contribs</span></a>/<a href="https://tolkiengateway.net/wiki/Special:Editcount/Mith/Edits" title="Special:Editcount/Mith/Edits"><span style="color:#778899">Edits</span></a>)</small> 11:50, 24 June 2008 (EDT)</dd></dl>
 
@@ -76,7 +76,7 @@ images:
 
 <dl><dd>I know it&#39;s scandalous, ego-pleasing self promotion, but I personally think my <s>preci...</s> Glamdring article would make a great Featured Article. -- <a href="https://tolkiengateway.net/wiki/User:Ederchil" title="User:Ederchil">Ederchil</a> 16:13, 29 May 2008 (EDT)</dd></dl>
 
-<dl><dd><b>Agree</b>. It is an impressive article for a weapon, with complete   information, both from inside and outside the imaginary world, which gives the reader a more complete image. Great references section! The pleasant writing style is on the plus side as well. ~~ <a href="https://tolkiengateway.net/wiki/User:%C3%9Eelma" title="User:Þelma">Þelma</a> 15:55, 28 June 2008 (EDT)</dd></dl>
+<dl><dd><b>Agree</b>. It is an impressive article for a weapon, with complete information, both from inside and outside the imaginary world, which gives the reader a more complete image. Great references section! The pleasant writing style is on the plus side as well. ~~ <a href="https://tolkiengateway.net/wiki/User:%C3%9Eelma" title="User:Þelma">Þelma</a> 15:55, 28 June 2008 (EDT)</dd></dl>
 
 <dl><dd><b>Agree</b>. It is well cited. For that alone goes my vote. ~~ nikolet 03:33, 8 July 2008 (EDT)</dd></dl>
 
@@ -86,7 +86,7 @@ images:
 
 <dl><dd><b>Agree</b>. Exellent article seperating facts and assumptions about the sword and presenting it in very fine detail.--<a href="https://tolkiengateway.net/wiki/User:Galdor_of_the_Trees" title="User:Galdor of the Trees">Galdor of the Trees</a> 18:03, 5 December 2009 (UTC)</dd></dl>
 
-<dl><dd><b>Agree</b>. Huge amounts of images, sources, refrences, and information.  This deserves to be FA material.--<a href="https://tolkiengateway.net/wiki/User:Galdor_of_the_Havens" title="User:Galdor of the Havens">Galdor of the Havens</a> 18:07, 5 December 2009 (UTC)</dd></dl>
+<dl><dd><b>Agree</b>. Huge amounts of images, sources, refrences, and information. This deserves to be FA material.--<a href="https://tolkiengateway.net/wiki/User:Galdor_of_the_Havens" title="User:Galdor of the Havens">Galdor of the Havens</a> 18:07, 5 December 2009 (UTC)</dd></dl>
 
 ### [Eriador](../../main/E/Eriador.md) {#Eriador}
 

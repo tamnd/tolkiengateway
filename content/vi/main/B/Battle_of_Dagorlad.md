@@ -56,7 +56,7 @@ infobox:
 
 ### Lời mở đầu {#Prelude}
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../W/War_of_the_Last_Alliance.md" title="War of the Last Alliance">Cuộc chiến của Liên minh Cuối cùng</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="../W/War_of_the_Last_Alliance.md" title="War of the Last Alliance">Cuộc chiến của Liên minh Cuối cùng</a></b></div></div>
 
 Đạo quân liên minh của Tiên tộc và Con Người vượt qua [Núi Sương Mù](../M/Misty_Mountains.md) và hành quân về phía nam qua thung lũng [Anduin](../A/Anduin.md), nơi họ được gia nhập bởi [Tiên tộc Silvan](../S/Silvan_Elves.md) dưới sự lãnh đạo của [Malgalad](../M/Malgalad.md)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[chú thích 1]</a></sup> và [Oropher](../O/Oropher.md),<sup id="cite_ref-Silvan_Princes_1-1" class="reference"><a href="#cite_note-Silvan_Princes-1">[1]</a></sup> cùng một đạo quân từ [Khazad-dûm](../M/Moria.md).<sup id="cite_ref-Rings_3-0" class="reference"><a href="#cite_note-Rings-3">[2]</a></sup>
 

@@ -18,7 +18,7 @@ sort_keys:
 
 **Tolkiens Følge** là một xã hội Tolkien tồn tại trong thời gian ngắn ở Đan Mạch. Hội được thành lập bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=Jeppe_Juul&amp;action=edit&amp;redlink=1" title="Jeppe Juul (page does not exist)">Jeppe Juul</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Roskilde" title="wikipedia:Roskilde">Roskilde</a> vào ngày [tháng Chín 22](../_/22_September.md), [1992](../_/1992.md). Hiệp hội đã xuất bản một số duy nhất của bản tin <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Ringen_(publication)&amp;action=edit&amp;redlink=1" title="Ringen (publication) (page does not exist)">Ringen</a></i>.
 
-"Tolkiens Følge" được lấy cảm hứng từ Hiệp hội Tolkien Thụy Điển: các thành viên mặc trang phục thời trung cổ và lấy bí danh từ vũ trụ do Tolkien tạo ra.
+"Tolkiens Følge" được lấy cảm hứng từ Hội Tolkien Thụy Điển: các thành viên mặc trang phục thời trung cổ và lấy bí danh từ vũ trụ do Tolkien tạo ra.
 
 Xã hội không sắp xếp được nhiều sự kiện, và vào mùa hè năm [1993](../_/1993.md) Tolkiens Følge sáp nhập với [Danmarks Tolkienforening](../I/Imladris,_Danmarks_Tolkienforening.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
 

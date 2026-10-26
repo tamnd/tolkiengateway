@@ -87,7 +87,7 @@ Dần dần, Nandor lan rộng ra. Trong khi một số vẫn ở trong rừng c
 
 ### Laiquendi {#Laiquendi}
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../G/Green-elves.md" title="Green-elves">Tiên Xanh</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="../G/Green-elves.md" title="Green-elves">Tiên Xanh</a></b></div></div>
 
 Tuy nhiên, rất nhanh chóng, lũ quỷ sống ở phương Bắc đã phát hiện ra Nandor và bắt đầu gây hại cho người dân của chúng, vì họ là những người dân sống trong rừng giản dị, không có vũ khí bằng thép. Nghe tin về vương quốc vĩ đại của bà con họ, Vua Elwë [Thingol](../T/Thingol.md) và sức mạnh của [Sindar](../S/Sindar.md) của Doriath, [Denethor](<../D/Denethor_(Nando).md>), con trai của [Lenwë](../L/Lenwë.md), đã tập hợp càng nhiều người dân phân tán của mình càng tốt và vượt qua [Ered Luin](../E/Ered_Luin.md) vào [Beleriand](../B/Beleriand.md). Tại đây, họ được Thingol chào đón nồng nhiệt như những người thân đã thất lạc từ lâu và được phép định cư trên vùng đất xanh nhiều sông [Ossiriand](../O/Ossiriand.md). Ở đó, họ được gọi là [Laegrim](../L/Laiquendi.md).<sup id="cite_ref-sindar_3-1" class="reference"><a href="#cite_note-sindar-3">[3]</a></sup>
 
@@ -97,7 +97,7 @@ Ngay cả sau khi [Thời Cổ xưa](../E/Elder_Days.md) trôi qua, sau khi có 
 
 ### Tiên tộc Silvan {#Silvan_Elves}
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../S/Silvan_Elves.md" title="Silvan Elves">Silvan Tiên tộc</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="../S/Silvan_Elves.md" title="Silvan Elves">Tiên tộc Silvan</a></b></div></div>
 
 Tiên tộc Silvan là hậu duệ của Nandor đã tồn tại trong [Thung lũng Anduin](../V/Vales_of_Anduin.md) trong [Đại Hành Trình](../G/Great_Journey.md) của [Eldar](../E/Eldar.md) trong [Thời Cổ xưa](../E/Elder_Days.md). Họ ẩn náu trong khu rừng phía sau [Dãy Núi Sương Mù](../M/Misty_Mountains.md) và trở thành một dân tộc sống rải rác khó có thể phân biệt được với [Avari](../A/Avari.md).<sup id="cite_ref-SE-UTa_6-0" class="reference"><a href="#cite_note-SE-UTa-6">[6]</a></sup>
 

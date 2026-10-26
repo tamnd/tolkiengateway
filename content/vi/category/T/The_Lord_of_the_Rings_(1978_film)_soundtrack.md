@@ -16,4 +16,4 @@ sort_keys:
   "The Lord of the Rings (1978 film)": "Lord"
 ---
 
-Thể loại này liệt kê tất cả các bài viết liên quan đến **The Lord of the Rings nhạc phim (phim 1978)**.
+Thể loại này liệt kê tất cả các bài viết liên quan đến **The Lord of the Rings nhạc phim (phim năm 1978)**.

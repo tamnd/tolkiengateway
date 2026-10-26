@@ -543,7 +543,7 @@ Trong ấn bản đầu tiên của *The Lord of the Rings*, năm mất của Ar
 
 <dl><dd>Trong Đoạn mở đầu, Aragorn cứu Con Người/Hobbit ký tự khỏi bọn cướp, nhưng buộc phải rời đi sớm vì ông phải chặn Frodo trong Bree. Sau đó khi đến Prancing Pony, các nhân vật gặp lại ông và giúp ông tìm kiếm Hobbit ở khu vực xung quanh, những người đã không đến kịp thời. Khi người chơi quay lại, Aragorn và Hobbit đã khởi hành và cuộc gặp tiếp theo của họ là ở Rivendell, nơi Aragorn giao cho người chơi nhiệm vụ bảo vệ miền Bắc trong khi Hiệp hội không còn nữa. Sau đó, trong <a href="../L/Lothlórien.md" title="Lothlórien">Lothlórien</a>, Aragorn được nhìn thấy cư trú tại <a href="../C/Caras_Galadhon.md" title="Caras Galadhon">Caras Galadhon</a>.</dd></dl>
 
-<b>2009: <i><a href="../T/The_Lord_of_the_Rings%253A_Conquest.md" title="The Lord of the Rings: Conquest">The Lord of the Rings: Chinh phục</a></i>:</b>
+<b>2009: <i><a href="../T/The_Lord_of_the_Rings%253A_Conquest.md" title="The Lord of the Rings: Conquest">The Lord of the Rings: Conquest</a></i>:</b>
 
 <dl><dd>Aragorn là một anh hùng có thể chơi được trong một số nhiệm vụ trong chiến dịch Cuộc chiến Nhẫn.</dd></dl>
 

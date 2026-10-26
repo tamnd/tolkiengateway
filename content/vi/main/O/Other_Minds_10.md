@@ -40,7 +40,7 @@ infobox:
     - Bởi Thomas Morwinsky
 - "Lịch sử trò chơi kể chuyện và những miêu tả tưởng tượng khác về Trung Địa"
     - Bởi Travis Henry
-- "Dự án phục hồi 'Những bàn tay khác'"
+- "Dự án phục hồi 'Other Hands'"
     - Bởi Thomas Morwinsky và Ronald K.
 - "Một ngày cuối tuần tháng 10 ở Trung Địa"
     - Bởi Thomas Abbenhaus

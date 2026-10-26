@@ -25,7 +25,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Dwalin mô hình nhỏ Người lùn](../../main/D/Dwalin.md) - [LEGO](../../main/L/Lego.md). Nguồn: <a class="external text" href="https://brickset.com/minifigs/lor114/elf-statue-straight-hair-skirt" rel="noreferrer noopener" target="_blank">Gạch</a>
+[Dwalin mô hình nhỏ Người Lùn](../../main/D/Dwalin.md) - [LEGO](../../main/L/Lego.md). Nguồn: <a class="external text" href="https://brickset.com/minifigs/lor114/elf-statue-straight-hair-skirt" rel="noreferrer noopener" target="_blank">Gạch</a>
 
 ## Giấy phép {#Licensing}
 

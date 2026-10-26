@@ -22,7 +22,7 @@ sort_keys:
   "Tolkien Society members": "Morawski, Marcin"
 ---
 
-**Marcin Morawski**, hoạt động trực tuyến dưới tên **Lómendil**, là thành viên của [Hiệp hội Tolkien Ba Lan](../P/Polish_Tolkien_Society.md) và là người đóng góp thường xuyên cho tạp chí của họ, *[Aiglos](<../A/Aiglos_(journal).md>)*.
+**Marcin Morawski**, hoạt động trực tuyến dưới tên **Lómendil**, là thành viên của [Hội Tolkien Ba Lan](../P/Polish_Tolkien_Society.md) và là người đóng góp thường xuyên cho tạp chí của họ, *[Aiglos](<../A/Aiglos_(journal).md>)*.
 
 ## Thư mục {#Bibliography}
 

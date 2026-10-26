@@ -153,7 +153,7 @@ Trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), Lobelia bị giam trong 
 
 <b><a href="../_/2012.md" title="2012">2012</a>: <i><a href="../T/The_Hobbit%253A_An_Unexpected_Journey.md" title="The Hobbit: An Unexpected Journey">The Hobbit: An Unexpected Journey</a></i>:</b>
 
-<dl><dd>Lobelia được nhìn thấy thoáng qua trong <a href="../T/The_Hobbit%253A_An_Unexpected_Journey_(extended_edition).md" title="The Hobbit: An Unexpected Journey (extended edition)">Phiên bản mở rộng</a> (cùng với Otho) ở khu chợ bên ngoài <a class="mw-redirect" href="../G/Green_Dragon~72852.md" title="Green Dragon">Green Rồng</a> Inn. Trang phục của nhân vật được cố tình phô trương để “tươi sáng và khoe khoang” vì “cô khao khát trở thành người phụ nữ ăn mặc đẹp nhất trong Hobbiton”.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></dd></dl>
+<dl><dd>Lobelia được nhìn thấy thoáng qua trong <a href="../T/The_Hobbit%253A_An_Unexpected_Journey_(extended_edition).md" title="The Hobbit: An Unexpected Journey (extended edition)">Bản mở rộng</a> (cùng với Otho) ở khu chợ bên ngoài <a class="mw-redirect" href="../G/Green_Dragon~72852.md" title="Green Dragon">Green Rồng</a> Inn. Trang phục của nhân vật được cố tình phô trương để “tươi sáng và khoe khoang” vì “cô khao khát trở thành người phụ nữ ăn mặc đẹp nhất trong Hobbiton”.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></dd></dl>
 
 <b><a href="../_/2014.md" title="2014">2014</a>: <i><a href="../T/The_Hobbit%253A_The_Battle_of_the_Five_Armies.md" title="The Hobbit: The Battle of the Five Armies">The Hobbit: The Battle of the Five Armies</a></i>:</b>
 

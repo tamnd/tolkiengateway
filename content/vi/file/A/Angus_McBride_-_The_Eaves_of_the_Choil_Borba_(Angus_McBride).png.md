@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-*The Eaves of the Choil Borba* của [Angus McBride](../../main/A/Angus_McBride.md), xuất hiện trong Jeff McKeage, *[Woses of the Black Wood](../../main/W/Woses_of_the_Black_Wood.md)* ([Vương miện Sắt Enterprises](../../main/I/Iron_Crown_Enterprises.md) #8107, 1987) .
+*The Eaves of the Choil Borba* của [Angus McBride](../../main/A/Angus_McBride.md), xuất hiện trong Jeff McKeage, *[Woses of the Black Wood](../../main/W/Woses_of_the_Black_Wood.md)* ([Iron Crown Enterprises](../../main/I/Iron_Crown_Enterprises.md) #8107, 1987) .
 
 ## Giấy phép {#Licensing}
 

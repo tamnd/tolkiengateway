@@ -26,7 +26,7 @@ images:
 
 ## Quy điển {#Canon}
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../C/Canon_policy.md" title="Tolkien Gateway:Canon policy">Tolkien Gateway:Canon policy</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="../C/Canon_policy.md" title="Tolkien Gateway:Canon policy">Tolkien Gateway:Canon policy</a></b></div></div>
 
 Canonical chỉ được coi là tài liệu được viết bởi Tolkien. Mọi thứ khác, bao gồm cả tác phẩm chuyển thể mang tính nghệ thuật (phim, trò chơi), phương tiện truyền thông và [fanon](../../main/F/Fanon.md), đều không như vậy. Thông tin được phát minh cho các phương tiện như vậy không nên được đưa vào nội dung chính của bài viết mà chỉ được đưa vào phần "Miêu tả trong các bản chuyển thể".
 
@@ -102,7 +102,7 @@ Dấu phẩy - Oxford được ưa thích hơn, nhưng miễn là duy trì tính
 
 ### Đặt tên {#Naming}
 
-<dl><dd><div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../N/Naming_policy.md" title="Tolkien Gateway:Naming policy">Tolkien Gateway:Naming policy</a></b></div></div></dd></dl>
+<dl><dd><div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="../N/Naming_policy.md" title="Tolkien Gateway:Naming policy">Tolkien Gateway:Naming policy</a></b></div></div></dd></dl>
 
 - Hầu hết tiêu đề bài viết là số nhiều, ví dụ: [Tiên tộc](../../main/E/Elves.md), trừ khi số nhiều bị tranh chấp (ví dụ: [Balrog](../../main/B/Balrogs.md), [Mallorn](../../main/M/Mallorn.md))
 - Tránh lạm dụng dấu ngoặc đơn trong tiêu đề bài viết, trừ khi có [định hướng](../N/Naming_policy.md#Disambiguation).
@@ -134,7 +134,7 @@ Các bài viết thường có một số hoặc tất cả các phần sau:
 
 ### Tài liệu tham khảo và ghi chú {#References_and_notes}
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../../help/R/References.md" title="Help:References">Help:References</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="../../help/R/References.md" title="Help:References">Help:References</a></b></div></div>
 
 - Use inline citations to support claims made in articles; citations are usually at the end of the sentences they support (after punctuation) using &lt;ref&gt;...&lt;/ref&gt; tags and citation templates. Explanatory footnotes can similarly be created using &lt;ref group=note&gt;...&lt;/ref&gt;. See [Help:References](../../help/R/References.md) for instructions.
 - To create a "References" section, use the template {{references}}. To create both a "Notes" and a "References" section, use the template {{references\|note}}.

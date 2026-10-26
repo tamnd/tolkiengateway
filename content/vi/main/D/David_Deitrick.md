@@ -28,7 +28,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Người</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>David Ralph Deitrick</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin tiểu sử</span></th></tr><tr><th scope="row" class="tg-infobox-label">Sinh</th><td class="tg-infobox-data"><a href="../_/15_May.md" title="15 May">15 May</a> <a href="../_/1953.md" title="1953">1953</a></td></tr><tr><th scope="row" class="tg-infobox-label">Nghề nghiệp</th><td class="tg-infobox-data">Nghệ sĩ</td></tr></tbody></table>
 
-**David Deitrick** (sinh [15 tháng 5](../_/15_May.md) [1953](../_/1953.md)) là một nghệ sĩ người Mỹ. Trong những năm 1980 và 1990, ông đã minh họa cho vô số trò chơi và tạp chí. Với vai trò đó, anh được [Vương miện Sắt Enterprises](../I/Iron_Crown_Enterprises.md) ủy quyền làm tác phẩm nghệ thuật thiệp cho *[Middle-earth Collectible Card Game](../M/Middle-earth_Collectible_Card_Game.md)*.
+**David Deitrick** (sinh [15 tháng 5](../_/15_May.md) [1953](../_/1953.md)) là một nghệ sĩ người Mỹ. Trong những năm 1980 và 1990, ông đã minh họa cho vô số trò chơi và tạp chí. Với vai trò đó, anh được [Iron Crown Enterprises](../I/Iron_Crown_Enterprises.md) ủy quyền làm tác phẩm nghệ thuật thiệp cho *[Middle-earth Collectible Card Game](../M/Middle-earth_Collectible_Card_Game.md)*.
 
 Ông đã kết hôn với nghệ sĩ đồng nghiệp [Lori Deitrick](../L/Lori_Deitrick.md).<sup id="cite_ref-CCGA_1-0" class="reference"><a href="#cite_note-CCGA-1">[1]</a></sup>
 

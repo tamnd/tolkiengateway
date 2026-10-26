@@ -27,7 +27,7 @@ images:
   - "CdxIconArticle.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../E/Elves.md" title="Elves">Tiên tộc</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="../E/Elves.md" title="Elves">Tiên tộc</a></b></div></div>
 
 **Quendi** ([Q](Quenya.md), phát âm <span title="Pronunciation in IPA" class="IPA">[ˈkʷendi]</span>, số ít **Quendë**, phát âm. <span title="Pronunciation in IPA" class="IPA">[ˈkʷende]</span>, mặc dù dạng số nhiều phổ biến hơn), là tên do [Tiên tộc](../E/Elves.md) đặt cho đồng loại của họ khi họ vẫn còn sống ở đó [Cuiviénen](../C/Cuiviénen.md). Người ta thường cho rằng nó có nghĩa là "những người nói; những người nói bằng giọng nói", có từ thời Tiên tộc chưa gặp những sinh vật khác có khả năng nói.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-qe-d_2-0" class="reference"><a href="#cite_note-qe-d-2">[2]</a></sup>
 

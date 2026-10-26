@@ -103,12 +103,12 @@ Baynes là họa sĩ minh họa được J.R.R. Tolkien lựa chọn. Năm 1949,
 <tr>
 <th align="right" style="background:var(--tg-color-surface-3); font-size: 90%; padding-left: 4px; padding-right: 4px;">Minh họa bên trong
 </th>
-<td style="font-size: 90%"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> (1937-nay) · Eric Fraser (<a href="../T/The_Folio_Society.md" title="The Folio Society">The Folio Society</a>: 1979, 1992-nay) · <a href="../M/Michael_Hague.md" title="Michael Hague">Michael Hague</a> (1984-1992) · <a href="../D/David_T._Wenzel.md" title="David T. Wenzel">David T. Wenzel</a> (<a href="../T/The_Hobbit_(comic_book).md" title="The Hobbit (comic book)">tiểu thuyết đồ họa</a>: 1989-nay) · <a href="../D/Denis_Gordeev.md" title="Denis Gordeev">Denis Gordeev</a> (1993-nay) · <a href="../A/Alan_Lee.md" title="Alan Lee">Alan Lee</a> (1997-nay) · David Wyatt (1998-2001, 2012-2013) · <a href="../J/John_Howe.md" title="John Howe">John Howe</a> (pop-up: 1999) · <a href="../J/Jemima_Catlin.md" title="Jemima Catlin">Jemima Catlin</a> (2013-nay)
+<td style="font-size: 90%"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> (1937–nay) · Eric Fraser (<a href="../T/The_Folio_Society.md" title="The Folio Society">The Folio Society</a>: 1979, 1992–nay) · <a href="../M/Michael_Hague.md" title="Michael Hague">Michael Hague</a> (1984-1992) · <a href="../D/David_T._Wenzel.md" title="David T. Wenzel">David T. Wenzel</a> (<a href="../T/The_Hobbit_(comic_book).md" title="The Hobbit (comic book)">tiểu thuyết đồ họa</a>: 1989–nay) · <a href="../D/Denis_Gordeev.md" title="Denis Gordeev">Denis Gordeev</a> (1993–nay) · <a href="../A/Alan_Lee.md" title="Alan Lee">Alan Lee</a> (1997–nay) · David Wyatt (1998-2001, 2012-2013) · <a href="../J/John_Howe.md" title="John Howe">John Howe</a> (pop-up: 1999) · <a href="../J/Jemima_Catlin.md" title="Jemima Catlin">Jemima Catlin</a> (2013–nay)
 </td></tr>
 <tr>
 <th align="right" style="background:var(--tg-color-surface-3); font-size: 90%; padding-left: 4px; padding-right: 4px;">Chỉ có hình minh họa bìa
 </th>
-<td style="font-size: 90%"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> (1937-nay) · <a class="mw-selflink selflink">Pauline Baynes</a> (1961) · <a href="../R/Roger_Garland.md" title="Roger Garland">Roger Garland</a> (1987-1989) · <a href="../J/John_Howe.md" title="John Howe">John Howe</a> (1991-nay) · <a href="../T/Ted_Nasmith.md" title="Ted Nasmith">Ted Nasmith</a> (1989-1991) · <a href="../B/Barbara_Remington.md" title="Barbara Remington">Barbara Remington</a> (1965 US)
+<td style="font-size: 90%"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> (1937–nay) · <a class="mw-selflink selflink">Pauline Baynes</a> (1961) · <a href="../R/Roger_Garland.md" title="Roger Garland">Roger Garland</a> (1987-1989) · <a href="../J/John_Howe.md" title="John Howe">John Howe</a> (1991–nay) · <a href="../T/Ted_Nasmith.md" title="Ted Nasmith">Ted Nasmith</a> (1989-1991) · <a href="../B/Barbara_Remington.md" title="Barbara Remington">Barbara Remington</a> (1965 US)
 </td></tr></tbody></table>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
@@ -118,12 +118,12 @@ Baynes là họa sĩ minh họa được J.R.R. Tolkien lựa chọn. Năm 1949,
 <tr>
 <th align="right" style="background:var(--tg-color-surface-3); font-size: 90%; padding-left: 4px; padding-right: 4px; width: 80px;">Minh họa bên trong
 </th>
-<td style="font-size: 90%"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> (1937-nay) · Eric Fraser/<a href="../M/Margrethe_II_of_Denmark.md" title="Margrethe II of Denmark">Ingahild Grathmer</a> (<a href="../T/The_Folio_Society.md" title="The Folio Society">The Folio Society</a>: 1979, 1992-nay) · <a href="../D/Denis_Gordeev.md" title="Denis Gordeev">Denis Gordeev</a> (1992-nay) · <a href="../A/Alan_Lee.md" title="Alan Lee">Alan Lee</a> (1997-nay)
+<td style="font-size: 90%"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> (1937–nay) · Eric Fraser/<a href="../M/Margrethe_II_of_Denmark.md" title="Margrethe II of Denmark">Ingahild Grathmer</a> (<a href="../T/The_Folio_Society.md" title="The Folio Society">The Folio Society</a>: 1979, 1992–nay) · <a href="../D/Denis_Gordeev.md" title="Denis Gordeev">Denis Gordeev</a> (1992–nay) · <a href="../A/Alan_Lee.md" title="Alan Lee">Alan Lee</a> (1997–nay)
 </td></tr>
 <tr>
 <th align="right" style="background:var(--tg-color-surface-3); font-size: 90%; padding-left: 4px; padding-right: 4px;">Chỉ có hình minh họa bìa
 </th>
-<td style="font-size: 90%"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> (1937-nay) · <a class="mw-selflink selflink">Pauline Baynes</a> (1970-1989) · <a href="../R/Roger_Garland.md" title="Roger Garland">Roger Garland</a> (1983-1991) · <a href="../J/John_Howe.md" title="John Howe">John Howe</a> (1991-nay) · <a href="../T/Ted_Nasmith.md" title="Ted Nasmith">Ted Nasmith</a> (1990) · Geoff Taylor (1999)
+<td style="font-size: 90%"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> (1937–nay) · <a class="mw-selflink selflink">Pauline Baynes</a> (1970-1989) · <a href="../R/Roger_Garland.md" title="Roger Garland">Roger Garland</a> (1983-1991) · <a href="../J/John_Howe.md" title="John Howe">John Howe</a> (1991–nay) · <a href="../T/Ted_Nasmith.md" title="Ted Nasmith">Ted Nasmith</a> (1990) · Geoff Taylor (1999)
 </td></tr></tbody></table>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">

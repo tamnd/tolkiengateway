@@ -88,7 +88,7 @@ Sức mạnh của [Arnor](../A/Arnor.md) suy giảm nhanh chóng khi [T.A.](../
 
 ### Cuộc đoàn tụ cuối cùng {#Final_reunification}
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="Reunited_Kingdom.md" title="Reunited Kingdom">Vương quốc Thống nhất</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="Reunited_Kingdom.md" title="Reunited Kingdom">Vương quốc Thống nhất</a></b></div></div>
 
 Sau thất bại cuối cùng của [Chúa tể Bóng tối](../D/Dark_Lord.md) ở [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), [Người thừa kế Isildur](../I/Isildur's_Heir.md) [Aragorn II Elessar](../A/Aragorn_II_Elessar.md) đã tiến lên và giành lại [Vương quyền Tối cao](<../H/High_King_(Dúnedain).md>), một lần nữa thống nhất các Vương quốc Númenórean sau hơn ba nghìn năm.<sup id="cite_ref-rings_5-4" class="reference"><a href="#cite_note-rings-5">[5]</a></sup>
 

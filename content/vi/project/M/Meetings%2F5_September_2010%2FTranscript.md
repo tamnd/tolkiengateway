@@ -25,7 +25,7 @@ sort_keys:
 [2010-09-05 20:17:06] &lt;Hyarion&gt; Luckily we&#39;re getting closer, made a few tweaks this afternoon which should help.<br/>
 [2010-09-05 20:17:17] &lt;KingAragorn&gt; did you say that the skins are the problem?<br/>
 [2010-09-05 20:17:39] &lt;Hyarion&gt; no idea what is causing the problem, could be anything.<br/>
-[2010-09-05 20:18:35] &lt;KingAragorn&gt; ok, if it&#39;s a new install - the only thing different with TG would be the extensions and the skins - did  you say that you were going to disable the skins for a day to see if they were the problem?<br/>
+[2010-09-05 20:18:35] &lt;KingAragorn&gt; ok, if it&#39;s a new install - the only thing different with TG would be the extensions and the skins - did you say that you were going to disable the skins for a day to see if they were the problem?<br/>
 [2010-09-05 20:19:17] &lt;KingAragorn&gt; it happened on the old server, so it can&#39;t be the server<br/>
 [2010-09-05 20:19:17] &lt;Hyarion&gt; yea I might try that.<br/>
 [2010-09-05 20:19:49] &lt;KingAragorn&gt; ok, any idea on a timeframe?<br/>
@@ -86,7 +86,7 @@ sort_keys:
 [2010-09-05 20:50:21] &lt;Mith&gt; LOST!<br/>
 [2010-09-05 20:50:25] &lt;Mith&gt; Not that again<br/>
 [2010-09-05 20:50:32] &lt;Mith&gt; Are you mentioning them to wind me up<br/>
-[2010-09-05 20:52:06] &lt;KingAragorn&gt; 7,014 articles  B)<br/>
+[2010-09-05 20:52:06] &lt;KingAragorn&gt; 7,014 articles B)<br/>
 [2010-09-05 20:52:07] &lt;Theoden1&gt; was kinda tied up<br/>
 [2010-09-05 20:52:52] &lt;Morgan&gt; Anyone else with opinions on namspaces except Mith and KA? I don&#39;t have any opinion on this matter.<br/>
 [2010-09-05 20:52:57] &lt;Morgan&gt; namespaces*<br/>

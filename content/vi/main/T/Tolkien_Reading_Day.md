@@ -22,11 +22,11 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Matěj_Čadil_-_Reading_Tolkien.jpg.md"><img alt="Reading Tolkien" src="https://tolkiengateway.net/w/images/thumb/7/7b/Mat%C4%9Bj_%C4%8Cadil_-_Reading_Tolkien.jpg/300px-Mat%C4%9Bj_%C4%8Cadil_-_Reading_Tolkien.jpg" decoding="async" loading="lazy" width="300" height="392" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/7b/Mat%C4%9Bj_%C4%8Cadil_-_Reading_Tolkien.jpg/450px-Mat%C4%9Bj_%C4%8Cadil_-_Reading_Tolkien.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/7/7b/Mat%C4%9Bj_%C4%8Cadil_-_Reading_Tolkien.jpg/600px-Mat%C4%9Bj_%C4%8Cadil_-_Reading_Tolkien.jpg 2x" data-file-width="1080" data-file-height="1412"/></a><figcaption>Đọc Tolkien – minh họa cho Ngày đọc sách Tolkien của <a href="../M/Matěj_Čadil.md" title="Matěj Čadil">Matěj Čadil</a></figcaption></figure>
 
-**Tolkien Ngày đọc sách** là một sự kiện thường niên được tổ chức vào [25 tháng 3](../_/25_March.md) để tôn vinh và quảng bá các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Nó được thành lập bởi [Hội Tolkien](The_Tolkien_Society.md).<sup id="cite_ref-TS1_1-0" class="reference"><a href="#cite_note-TS1-1">[1]</a></sup>
+**Ngày đọc Tolkien sách** là một sự kiện thường niên được tổ chức vào [25 tháng 3](../_/25_March.md) để tôn vinh và quảng bá các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Nó được thành lập bởi [Hội Tolkien](The_Tolkien_Society.md).<sup id="cite_ref-TS1_1-0" class="reference"><a href="#cite_note-TS1-1">[1]</a></sup>
 
 ## Lịch sử {#History}
 
-Vào cuối [2002](../_/2002.md), nhà báo Sean Kirst đã liên hệ với [Hội Tolkien](The_Tolkien_Society.md) để hỏi "có ngày nào được dành một cách không chính thức cho các bài đọc trong bộ ba phim, giống như cách 'Ngày Blooms' được dành cho Joyce không?"<sup id="cite_ref-TS1_1-1" class="reference"><a href="#cite_note-TS1-1">[1]</a></sup> Mặc dù Kirst đã xuất bản bài báo trên *The Post-Standard* của Syracuse, ủy ban<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> [Hội Tolkien](The_Tolkien_Society.md) thích ý tưởng này đến mức họ đã thông báo rằng [25 tháng 3](../_/25_March.md) [2003](../_/2003.md) sẽ là ngày diễn ra "Tolkien Ngày đọc sách" đầu tiên.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Nó đã được tổ chức hàng năm kể từ đó.<sup id="cite_ref-TS1_1-2" class="reference"><a href="#cite_note-TS1-1">[1]</a></sup>
+Vào cuối [2002](../_/2002.md), nhà báo Sean Kirst đã liên hệ với [Hội Tolkien](The_Tolkien_Society.md) để hỏi "có ngày nào được dành một cách không chính thức cho các bài đọc trong bộ ba phim, giống như cách 'Ngày Blooms' được dành cho Joyce không?"<sup id="cite_ref-TS1_1-1" class="reference"><a href="#cite_note-TS1-1">[1]</a></sup> Mặc dù Kirst đã xuất bản bài báo trên *The Post-Standard* của Syracuse, ủy ban<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> [Hội Tolkien](The_Tolkien_Society.md) thích ý tưởng này đến mức họ đã thông báo rằng [25 tháng 3](../_/25_March.md) [2003](../_/2003.md) sẽ là ngày diễn ra "Ngày đọc Tolkien sách" đầu tiên.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Nó đã được tổ chức hàng năm kể từ đó.<sup id="cite_ref-TS1_1-2" class="reference"><a href="#cite_note-TS1-1">[1]</a></sup>
 
 ## Ngày {#Date}
 
@@ -54,7 +54,7 @@ Chủ đề của Ngày đọc sách Tolkien được Hội Tolkien lựa chọn
 ## Liên kết ngoài {#External_links}
 
 - <a class="external text" href="https://steadyhq.com/en/thetolkienist/posts/a34aab0e-1939-4c78-99cb-64bd28eadeaf" rel="noreferrer noopener" target="_blank">Nghe bài viết này</a> như một phần của loạt bài <a class="new" href="https://tolkiengateway.net/w/index.php?title=Asleep_in_Arda&amp;action=edit&amp;redlink=1" title="Asleep in Arda (page does not exist)">Asleep in Arda</a> của [Marcel Bülles](../M/Marcel_Bülles.md)
-- <b><a class="external text" href="http://www.tolkiensociety.org/society/events/reading-day/" rel="noreferrer noopener" target="_blank">Tolkien Ngày đọc sách</a></b> trên trang web [Hội Tolkien](The_Tolkien_Society.md)
+- <b><a class="external text" href="http://www.tolkiensociety.org/society/events/reading-day/" rel="noreferrer noopener" target="_blank">Ngày đọc Tolkien sách</a></b> trên trang web [Hội Tolkien](The_Tolkien_Society.md)
 
 <span></span>
 
@@ -98,14 +98,14 @@ Chủ đề của Ngày đọc sách Tolkien được Hội Tolkien lựa chọn
 <tr>
 <th align="right" style="background: var(--tg-color-surface-4); padding-right: 4px;">Conferences
 </th>
-<td style="font-size: 90%; padding-left: 4px;" colspan="2"><b><a href="../O/Oxonmoot.md" title="Oxonmoot">Oxonmoot</a> (thường niên, 1974-nay)</b> · <b><a href="../W/Westmoot.md" title="Westmoot">Westmoot</a> (thường niên, 2025-nay)</b> · <a href="../J/J.R.R._Tolkien_Centenary_Conference.md" title="J.R.R. Tolkien Centenary Conference">J.R.R. Tolkien Hội nghị trăm năm</a> (1992) · <a href="Tolkien_2005.md" title="Tolkien 2005">Tolkien 2005: The Ring Goes Ever On</a> (2005) · <a href="The_Return_of_the_Ring.md" title="The Return of the Ring">Sự trở lại của chiếc nhẫn</a> (2012) · <a href="Tolkien_2019.md" title="Tolkien 2019">Tolkien 2019</a> (2019)
+<td style="font-size: 90%; padding-left: 4px;" colspan="2"><b><a href="../O/Oxonmoot.md" title="Oxonmoot">Oxonmoot</a> (thường niên, 1974–nay)</b> · <b><a href="../W/Westmoot.md" title="Westmoot">Westmoot</a> (thường niên, 2025–nay)</b> · <a href="../J/J.R.R._Tolkien_Centenary_Conference.md" title="J.R.R. Tolkien Centenary Conference">J.R.R. Tolkien Hội nghị trăm năm</a> (1992) · <a href="Tolkien_2005.md" title="Tolkien 2005">Tolkien 2005: The Ring Goes Ever On</a> (2005) · <a href="The_Return_of_the_Ring.md" title="The Return of the Ring">Sự trở lại của chiếc nhẫn</a> (2012) · <a href="Tolkien_2019.md" title="Tolkien 2019">Tolkien 2019</a> (2019)
 </td></tr>
 <tr>
 <th align="right" style="background: var(--tg-color-surface-4); padding-right: 4px;" rowspan="3"><a href="../../category/P/Publications_by_the_Tolkien_Society.md" title="Category:Publications by the Tolkien Society">Ấn phẩm</a>
 </th>
 <th align="right" style="background: var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;">Tạp chí học thuật
 </th>
-<td style="font-size: 90%; padding-left: 4px;"><i><a href="../B/Belladonna&#39;s_Broadsheet.md" title="Belladonna&#39;s Broadsheet">Belladonna&#39;s Broadsheet</a></i> (1969-1970) · <b><i><a href="../M/Mallorn_(journal).md" title="Mallorn (journal)">Mallorn</a></i> (1970-nay)</b> · <i><a href="The_Tolkien_Society_Bulletin.md" title="The Tolkien Society Bulletin">The Tolkien Society Bulletin</a></i> (1970-1971) · <i><a href="../A/Andúril_(UK).md" title="Andúril (UK)">Andúril</a></i> (1972) · <b><i><a href="../A/Amon_Hen_(journal).md" title="Amon Hen (journal)">Amon Hen</a></i> (1972-nay)</b> · <i><a href="../Q/Quettar.md" title="Quettar">Quettar</a></i> (1980-1995)
+<td style="font-size: 90%; padding-left: 4px;"><i><a href="../B/Belladonna&#39;s_Broadsheet.md" title="Belladonna&#39;s Broadsheet">Belladonna&#39;s Broadsheet</a></i> (1969-1970) · <b><i><a href="../M/Mallorn_(journal).md" title="Mallorn (journal)">Mallorn</a></i> (1970–nay)</b> · <i><a href="The_Tolkien_Society_Bulletin.md" title="The Tolkien Society Bulletin">The Tolkien Society Bulletin</a></i> (1970-1971) · <i><a href="../A/Andúril_(UK).md" title="Andúril (UK)">Andúril</a></i> (1972) · <b><i><a href="../A/Amon_Hen_(journal).md" title="Amon Hen (journal)">Amon Hen</a></i> (1972–nay)</b> · <i><a href="../Q/Quettar.md" title="Quettar">Quettar</a></i> (1980-1995)
 </td></tr>
 <tr>
 <th align="right" style="background: var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;">Sách

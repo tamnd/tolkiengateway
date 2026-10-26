@@ -65,7 +65,7 @@ Dòng họ đã được xác minh của J. R. R. Tolkien bắt đầu bằng **
 ## Xem thêm {#See_also}
 
 - <a class="external text" href="http://lingwe.blogspot.com.br/2007/11/new-thoughts-on-etymology-of-tolkien.html" rel="noreferrer noopener" target="_blank">Từ nguyên của 'Tolkien'</a>
-- [Album Tolkien Gia đình](The_Tolkien_Family_Album.md)
+- [Album Gia đình Tolkien](The_Tolkien_Family_Album.md)
 - <a class="external text" href="http://www.hammondandscull.com/addenda/Tolkien%20family%20trees%20rev%200310.pdf" rel="noreferrer noopener" target="_blank">Tolkien Cây gia phả</a>
 - <a class="external text" href="http://www.elendilion.pl/wp-content/uploads/2018/03/TolkienAncestry.pdf" rel="noreferrer noopener" target="_blank">Về cội nguồn của J.R.R. Tolkien ở Gdańsk</a>, bởi [Ryszard Derdziński](../R/Ryszard_Derdziński.md)
 

@@ -75,7 +75,7 @@ Sự kiện xảy ra vào ngày 8 tháng Chín.
 - **[1971](1971.md)** - Diễn viên [Martin Freeman](../M/Martin_Freeman.md) ra đời.
 - **[2008](2008.md)** - *[Tolkien's Oxford](../T/Tolkien's_Oxford.md)* được xuất bản.
 - **[2009](2009.md)** - *[Halifirien: The Hallowed Mountain](../H/Halifirien%253A_The_Hallowed_Mountain.md)* được phát hành trực tuyến.
-- **[2009](2009.md)** - [Tolkien Estate](../T/Tolkien_Estate.md), [The Tolkien Trust](../T/The_Tolkien_Trust.md) và [HarperCollins](../H/HarperCollins.md) giải quyết vụ kiện của họ với [New Line Cinema](../N/New_Line_Cinema.md) và [Công ty Saul Zaentz](../S/Saul_Zaentz_Company.md).
+- **[2009](2009.md)** - [Tolkien Estate](../T/Tolkien_Estate.md), [The Tolkien Trust](../T/The_Tolkien_Trust.md) và [HarperCollins](../H/HarperCollins.md) giải quyết vụ kiện của họ với [New Line Cinema](../N/New_Line_Cinema.md) và [Saul Zaentz Company](../S/Saul_Zaentz_Company.md).
 - **[2010](2010.md)** - *[The Lord of the Rings Online:](../T/The_Lord_of_the_Rings_Online.md) [Volume III: Allies of the King](../T/The_Lord_of_the_Rings_Online%253A_Siege_of_Mirkwood.md#Volume_III:_Allies_of_the_King)*, "Ride of the Grey Company" được phát hành ở Bắc Mỹ, bao gồm trò chơi miễn phí cho những người đăng ký hiện tại và trước đây.
 - **[2016](2016.md)** - [Oxonmoot 2016](../O/Oxonmoot_2016.md) tại <a class="external text" href="http://www.sant.ox.ac.uk" rel="noreferrer noopener" target="_blank">Trường Cao đẳng St Antony</a>.
 

@@ -44,7 +44,7 @@ Quettar được thành lập tại [1980](../_/1980.md) bởi [Susan Rule](../S
 Ở mặt sau của mỗi số báo đều có ghi mục tiêu của *Quettar*:
 
 <blockquote>
-<p><i> <b>QUETTAR</b> là Quenya hoặc 'Cao-Tiên'. Nó có nghĩa là 'từ ngữ' và là bản tin của Hiệp hội Ngôn ngữ học của Hiệp hội Tolkien, có thành viên được gọi là <b>Quendili</b>, có nghĩa là 'những người yêu thích ngôn ngữ' hoặc 'những người yêu thích Quenya', (mặc dù có một số <b>Sindarindili</b> trong số chúng tôi). Những người tự nhận mình là nhà ngữ văn thường nói <b>Lambendili</b>. Các nhà thư pháp Feanorian được biết đến (có lẽ không chính xác) là <b>Tengwardili</b>, các bậc thầy rune là <b>Certatúri</b>. </i>
+<p><i> <b>QUETTAR</b> là Quenya hoặc 'Cao-Tiên'. Nó có nghĩa là 'từ ngữ' và là bản tin của Hiệp hội Ngôn ngữ học của Hội Tolkien, có thành viên được gọi là <b>Quendili</b>, có nghĩa là 'những người yêu thích ngôn ngữ' hoặc 'những người yêu thích Quenya', (mặc dù có một số <b>Sindarindili</b> trong số chúng tôi). Những người tự nhận mình là nhà ngữ văn thường nói <b>Lambendili</b>. Các nhà thư pháp Feanorian được biết đến (có lẽ không chính xác) là <b>Tengwardili</b>, các bậc thầy rune là <b>Certatúri</b>. </i>
 </p><p><i>Các ngôn ngữ mà chúng tôi quan tâm chủ yếu là những ngôn ngữ được tạo phụ bởi <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, bao gồm: </i>
 </p>
 <table class="wikitable">
@@ -128,14 +128,14 @@ Vì những ấn phẩm này xuất hiện trước khi hầu hết các bài b�
 <tr>
 <th align="right" style="background: var(--tg-color-surface-4); padding-right: 4px;">Conferences
 </th>
-<td style="font-size: 90%; padding-left: 4px;" colspan="2"><b><a href="../O/Oxonmoot.md" title="Oxonmoot">Oxonmoot</a> (thường niên, 1974-nay)</b> · <b><a href="../W/Westmoot.md" title="Westmoot">Westmoot</a> (thường niên, 2025-nay)</b> · <a href="../J/J.R.R._Tolkien_Centenary_Conference.md" title="J.R.R. Tolkien Centenary Conference">J.R.R. Tolkien Hội nghị trăm năm</a> (1992) · <a href="../T/Tolkien_2005.md" title="Tolkien 2005">Tolkien 2005: The Ring Goes Ever On</a> (2005) · <a href="../T/The_Return_of_the_Ring.md" title="The Return of the Ring">Sự trở lại của chiếc nhẫn</a> (2012) · <a href="../T/Tolkien_2019.md" title="Tolkien 2019">Tolkien 2019</a> (2019)
+<td style="font-size: 90%; padding-left: 4px;" colspan="2"><b><a href="../O/Oxonmoot.md" title="Oxonmoot">Oxonmoot</a> (thường niên, 1974–nay)</b> · <b><a href="../W/Westmoot.md" title="Westmoot">Westmoot</a> (thường niên, 2025–nay)</b> · <a href="../J/J.R.R._Tolkien_Centenary_Conference.md" title="J.R.R. Tolkien Centenary Conference">J.R.R. Tolkien Hội nghị trăm năm</a> (1992) · <a href="../T/Tolkien_2005.md" title="Tolkien 2005">Tolkien 2005: The Ring Goes Ever On</a> (2005) · <a href="../T/The_Return_of_the_Ring.md" title="The Return of the Ring">Sự trở lại của chiếc nhẫn</a> (2012) · <a href="../T/Tolkien_2019.md" title="Tolkien 2019">Tolkien 2019</a> (2019)
 </td></tr>
 <tr>
 <th align="right" style="background: var(--tg-color-surface-4); padding-right: 4px;" rowspan="3"><a href="../../category/P/Publications_by_the_Tolkien_Society.md" title="Category:Publications by the Tolkien Society">Ấn phẩm</a>
 </th>
 <th align="right" style="background: var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;">Tạp chí học thuật
 </th>
-<td style="font-size: 90%; padding-left: 4px;"><i><a href="../B/Belladonna&#39;s_Broadsheet.md" title="Belladonna&#39;s Broadsheet">Belladonna&#39;s Broadsheet</a></i> (1969-1970) · <b><i><a href="../M/Mallorn_(journal).md" title="Mallorn (journal)">Mallorn</a></i> (1970-nay)</b> · <i><a href="../T/The_Tolkien_Society_Bulletin.md" title="The Tolkien Society Bulletin">The Tolkien Society Bulletin</a></i> (1970-1971) · <i><a href="../A/Andúril_(UK).md" title="Andúril (UK)">Andúril</a></i> (1972) · <b><i><a href="../A/Amon_Hen_(journal).md" title="Amon Hen (journal)">Amon Hen</a></i> (1972-nay)</b> · <i><a class="mw-selflink selflink">Quettar</a></i> (1980-1995)
+<td style="font-size: 90%; padding-left: 4px;"><i><a href="../B/Belladonna&#39;s_Broadsheet.md" title="Belladonna&#39;s Broadsheet">Belladonna&#39;s Broadsheet</a></i> (1969-1970) · <b><i><a href="../M/Mallorn_(journal).md" title="Mallorn (journal)">Mallorn</a></i> (1970–nay)</b> · <i><a href="../T/The_Tolkien_Society_Bulletin.md" title="The Tolkien Society Bulletin">The Tolkien Society Bulletin</a></i> (1970-1971) · <i><a href="../A/Andúril_(UK).md" title="Andúril (UK)">Andúril</a></i> (1972) · <b><i><a href="../A/Amon_Hen_(journal).md" title="Amon Hen (journal)">Amon Hen</a></i> (1972–nay)</b> · <i><a class="mw-selflink selflink">Quettar</a></i> (1980-1995)
 </td></tr>
 <tr>
 <th align="right" style="background: var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;">Sách

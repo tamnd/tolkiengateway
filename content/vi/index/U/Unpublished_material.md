@@ -86,7 +86,7 @@ images:
 
 ## Thư {#Letters}
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a class="mw-redirect" href="../../main/L/Letters_not_published_in_%2522The_Letters_of_J.R.R._Tolkien%2522.md" title="Letters not published in &#34;The Letters of J.R.R. Tolkien&#34;">Letters not published in &#34;The Letters of J.R.R. Tolkien&#34;</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a class="mw-redirect" href="../../main/L/Letters_not_published_in_%2522The_Letters_of_J.R.R._Tolkien%2522.md" title="Letters not published in &#34;The Letters of J.R.R. Tolkien&#34;">Letters not published in &#34;The Letters of J.R.R. Tolkien&#34;</a></b></div></div>
 
 <br>
 

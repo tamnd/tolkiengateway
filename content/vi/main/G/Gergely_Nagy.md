@@ -22,7 +22,7 @@ sort_keys:
   "Translators": "Nagy, Gergely"
 ---
 
-**Gergely Nagy** ([Ngày 6 tháng 3](../_/6_March.md), [1969](../_/1969.md)) là Trợ lý Giáo sư cấp dưới tại Viện Nghiên cứu Anh và Mỹ tại <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Szeged" title="wikipedia:University of Szeged">Đại học Szeged</a>. Ông đã giảng dạy các khóa học về Tolkien và Plato (và mối liên hệ giữa hai lĩnh vực này), đồng thời cũng là thành viên sáng lập và phó chủ tịch học thuật của [Hiệp hội Tolkien Hungary](../H/Hungarian_Tolkien_Society.md).
+**Gergely Nagy** ([Ngày 6 tháng 3](../_/6_March.md), [1969](../_/1969.md)) là Trợ lý Giáo sư cấp dưới tại Viện Nghiên cứu Anh và Mỹ tại <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Szeged" title="wikipedia:University of Szeged">Đại học Szeged</a>. Ông đã giảng dạy các khóa học về Tolkien và Plato (và mối liên hệ giữa hai lĩnh vực này), đồng thời cũng là thành viên sáng lập và phó chủ tịch học thuật của [Hội Tolkien Hungary](../H/Hungarian_Tolkien_Society.md).
 
 ## Thư mục {#Bibliography}
 
@@ -31,7 +31,7 @@ sort_keys:
 - [2003](../_/2003.md): *[Tolkien the Medievalist](../T/Tolkien_the_Medievalist.md)* (được chỉnh sửa bởi [Jane Chance](../J/Jane_Chance.md))
     - "Chuỗi đọc lớn: các mối quan hệ (liên) văn bản và kỹ thuật huyền thoại trong câu chuyện Túrin"
 - [2004](../_/2004.md): *Tolkien Society Progress Report 4*
-    - "Phỏng vấn Hiệp hội tham gia: Gergely Nagy của Hiệp hội Tolkien Hungary"
+    - "Phỏng vấn Hiệp hội tham gia: Gergely Nagy của Hội Tolkien Hungary"
 - [2004](../_/2004.md): *[Tolkien Studies: Volume 1](../T/Tolkien_Studies%253A_Volume_1.md)*
     - "Văn bản chuyển thể, Bài thơ thất lạc của Beleriand"
 - [2004](../_/2004.md): *[Tolkien and the Invention of Myth](../T/Tolkien_and_the_Invention_of_Myth.md)* (được chỉnh sửa bởi [Jane Chance](../J/Jane_Chance.md))

@@ -290,7 +290,7 @@ Trong một bản nháp đầu tiên của Tolkien, Théoden còn có một ngư
 
 <dl><dd>Théoden là anh hùng thuộc phe Con Người. Giọng lồng tiếng cho ông là của <a href="../P/Phil_Proctor.md" title="Phil Proctor">Phil Proctor</a>.</dd></dl>
 
-<b>2009: <i><a href="The_Lord_of_the_Rings%253A_Conquest.md" title="The Lord of the Rings: Conquest">The Lord of the Rings: Chinh phục</a></i>:</b>
+<b>2009: <i><a href="The_Lord_of_the_Rings%253A_Conquest.md" title="The Lord of the Rings: Conquest">The Lord of the Rings: Conquest</a></i>:</b>
 
 <dl><dd>Giọng lồng tiếng cho Théoden là của <a href="../B/Brian_George.md" title="Brian George">Brian George</a>.</dd></dl>
 

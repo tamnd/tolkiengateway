@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Will Whitfoot](../../main/W/Will_Whitfoot.md). Hình ảnh của Storn Cook, từ: Wesley Frank, *[The Shire](<../../main/T/The_Shire_(book).md>)* ([Vương miện Sắt Enterprises](../../main/I/Iron_Crown_Enterprises.md) #2017, 1995) .
+[Will Whitfoot](../../main/W/Will_Whitfoot.md). Hình ảnh của Storn Cook, từ: Wesley Frank, *[The Shire](<../../main/T/The_Shire_(book).md>)* ([Iron Crown Enterprises](../../main/I/Iron_Crown_Enterprises.md) #2017, 1995) .
 
 ## Giấy phép {#Licensing}
 

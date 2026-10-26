@@ -67,7 +67,7 @@ Bilbo bị bắt khi đang cố móc túi của William và khi những người
 
 Tuy nhiên, Gandalf đã quay trở lại mà không bị chú ý và ném giọng nói của mình, khiến lũ troll tranh cãi với nhau rất lâu đến nỗi mặt trời mọc và biến cả ba người họ thành đá.
 
-Vào [ngày 18 tháng 10](../_/18_October.md) [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md), Strider và [bốn hobbit](../T/Travellers.md) tình cờ gặp những bức tượng đá của ba con quỷ lùn khi du hành đến Rivendell cùng với [Chiếc Nhẫn Một](../O/One_Ring.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Vào [ngày 18 tháng 10](../_/18_October.md) [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md), Strider và [bốn hobbit](../T/Travellers.md) tình cờ gặp những bức tượng đá của ba con quỷ lùn khi du hành đến Rivendell cùng với [Nhẫn Chúa](../O/One_Ring.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <h2><span id="William.27s_.22pity.22"></span><span class="mw-headline" id="William&#39;s_&#34;pity&#34;">Sự "thương hại" của William</span></h2>
 
@@ -188,7 +188,7 @@ Trong một [bức thư](../L/Letter_153.md) chưa gửi cho chủ cửa hàng s
 
 <b><a href="../_/2001.md" title="2001">2001</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i>:</b>
 
-<dl><dd><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a> và Hobbit nghỉ ngơi bên lũ troll hóa đá sau khi Frodo bị <a href="Witch-king.md" title="Witch-king">Vua Phù thủy</a> đâm. Trong Phiên bản mở rộng, Sam chỉ ra những Frodo bị thương rằng họ là "những kẻ troll của Ông Bilbo".</dd></dl>
+<dl><dd><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a> và Hobbit nghỉ ngơi bên lũ troll hóa đá sau khi Frodo bị <a href="Witch-king.md" title="Witch-king">Vua Phù thủy</a> đâm. Trong Bản mở rộng, Sam chỉ ra những Frodo bị thương rằng họ là "những kẻ troll của Ông Bilbo".</dd></dl>
 
 <b><a href="../_/2003.md" title="2003">2003</a>: <a href="../T/The_Hobbit_(2003_video_game).md" title="The Hobbit (2003 video game)"><i>The Hobbit</i> (trò chơi điện tử năm 2003)</a>:</b>
 

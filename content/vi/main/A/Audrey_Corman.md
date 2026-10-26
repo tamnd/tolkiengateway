@@ -32,7 +32,7 @@ infobox:
 
 Sau thời thơ ấu ở Bronx, cô vào Cao đẳng Lehman với chuyên ngành Nghệ thuật sau khi các nghệ sĩ trang bìa của Tạp chí [Rồng](../D/Dragon_Magazine.md) thu hút cô quan tâm đến nghệ thuật. Thay vào đó, cô đã tốt nghiệp với tấm bằng Hóa học do áp lực từ cha mẹ và sự chán nản của giảng viên khi nói đến những bức tranh kỳ ảo và hiện thực. Trong khi làm nhà nghiên cứu hóa học, cô lại bắt đầu vẽ, tham gia các lớp học ban đêm tại Trường Thiết kế Rhode Island.
 
-Công việc của cô tại [Vương miện Sắt Enterprises](../I/Iron_Crown_Enterprises.md) bắt đầu sau khi người hướng dẫn airbrushing riêng của cô, người mà cô đang theo học, giới thiệu cô với công ty khi họ đang tìm kiếm những tài năng mới.<sup id="cite_ref-MECCG_1-1" class="reference"><a href="#cite_note-MECCG-1">[1]</a></sup>
+Công việc của cô tại [Iron Crown Enterprises](../I/Iron_Crown_Enterprises.md) bắt đầu sau khi người hướng dẫn airbrushing riêng của cô, người mà cô đang theo học, giới thiệu cô với công ty khi họ đang tìm kiếm những tài năng mới.<sup id="cite_ref-MECCG_1-1" class="reference"><a href="#cite_note-MECCG-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}
 

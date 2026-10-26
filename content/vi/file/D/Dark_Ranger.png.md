@@ -23,7 +23,7 @@ file:
   user: "Ms sho64"
 ---
 
-Một Dark Ranger đang đi trong vùng hoang dã, phía sau ông ta là dãy núi và một số khu rừng xa xôi
+Một Dark Ranger đang đi trong vùng hoang dã, phía sau ông là dãy núi và một số khu rừng xa xôi
 
 ## Giấy phép {#Licensing}
 

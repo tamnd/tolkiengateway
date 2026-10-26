@@ -22,7 +22,7 @@ Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 - Sự ra đời của [Hamfast Gardner](../H/Hamfast_Gardner.md), đứa con thứ bảy và con trai thứ tư của [Samwise Gamgee](../S/Samwise_Gamgee.md) và [Rose Cotton](../R/Rose_Cotton.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 - Cái chết của [Saradoc Brandybuck](../S/Saradoc_Brandybuck.md).<sup id="cite_ref-Brandybuck_2-0" class="reference"><a href="#cite_note-Brandybuck-2">[2]</a></sup>
-- [Meriadoc Brandybuck](../M/Meriadoc_Brandybuck.md), con trai của Saradoc và [Esmeralda Took](../E/Esmeralda_Took.md), trở thành [Bậc thầy của Buckland](../M/Master_of_Buckland.md).<sup id="cite_ref-Brandybuck_2-1" class="reference"><a href="#cite_note-Brandybuck-2">[2]</a></sup> Những món quà tuyệt vời được gửi đến anh bởi [Vua](../K/Kings_of_Rohan.md) [Éomer](../_/Éomer.md) và Phu nhân [Éowyn](../_/Éowyn.md) của [Ithilien](../I/Ithilien.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+- [Meriadoc Brandybuck](../M/Meriadoc_Brandybuck.md), con trai của Saradoc và [Esmeralda Took](../E/Esmeralda_Took.md), trở thành [Chủ nhân Buckland](../M/Master_of_Buckland.md).<sup id="cite_ref-Brandybuck_2-1" class="reference"><a href="#cite_note-Brandybuck-2">[2]</a></sup> Những món quà tuyệt vời được gửi đến anh bởi [Vua](../K/Kings_of_Rohan.md) [Éomer](../_/Éomer.md) và Phu nhân [Éowyn](../_/Éowyn.md) của [Ithilien](../I/Ithilien.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

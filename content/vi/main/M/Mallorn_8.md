@@ -52,7 +52,7 @@ infobox:
 
 - The Silmarillion: Giải thích và ngoại suy từ các tài nguyên có sẵn, Phần II
     - Bởi Jim Allan
-- Đại hội thường niên của Hiệp hội Tolkien
+- Đại hội thường niên của Hội Tolkien
     - Bởi [Charles E. Noad](../C/Charles_Noad.md)
 - Cáo phó của J.R.R. Tolkien
     - In lại từ *The Times*

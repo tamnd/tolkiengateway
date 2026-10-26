@@ -194,7 +194,7 @@ Trước khi xuất bản *[Collected Poems](../C/Collected_Poems.md)*, cuốn s
 </ul>
 
 - Ấn bản đầu tiên
-    - [George Allen và Unwin](../G/George_Allen_and_Unwin.md), bìa cứng ([1982](../_/1982.md)), trang 264. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0048090182">ISBN 0048090182</a>
+    - [George Allen and Unwin](../G/George_Allen_and_Unwin.md), bìa cứng ([1982](../_/1982.md)), trang 264. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0048090182">ISBN 0048090182</a>
 
 - Ấn bản thứ hai
     - [HarperCollins](../H/HarperCollins.md) bìa mềm ([1992](../_/1992.md)), trang 352. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0261102753">ISBN 0261102753</a>

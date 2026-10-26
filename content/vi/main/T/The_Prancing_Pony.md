@@ -89,7 +89,7 @@ Vào năm 1960 [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) bắt đầu viết lạ
 
 ## Cảm hứng {#Inspiration}
 
-Theo nghiên cứu được thực hiện bởi một chi nhánh của [Hiệp hội Tolkien](The_Tolkien_Society.md), Bell Inn ở <a class="extiw" href="http://en.wikipedia.org/wiki/Moreton-in-Marsh" title="wikipedia:Moreton-in-Marsh">Moreton-in-Marsh</a> là nguồn cảm hứng khi [Tolkien](../J/J.R.R._Tolkien.md) tạo ra Prancing Pony, vì nhà trọ trước đây cũng có ba tầng và một "lối vào qua sân và những điểm tương đồng của Moreton với thị trấn Bree".<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[13]</a></sup>
+Theo nghiên cứu được thực hiện bởi một chi nhánh của [Hội Tolkien](The_Tolkien_Society.md), Bell Inn ở <a class="extiw" href="http://en.wikipedia.org/wiki/Moreton-in-Marsh" title="wikipedia:Moreton-in-Marsh">Moreton-in-Marsh</a> là nguồn cảm hứng khi [Tolkien](../J/J.R.R._Tolkien.md) tạo ra Prancing Pony, vì nhà trọ trước đây cũng có ba tầng và một "lối vào qua sân và những điểm tương đồng của Moreton với thị trấn Bree".<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[13]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 

@@ -81,7 +81,7 @@ Sự kiện xảy ra vào ngày 1 tháng 11
 - **[1990](1990.md)** – [Tolklang](../T/Tolklang.md) được thành lập bởi [Julian C. Bradfield](../J/Julian_C._Bradfield.md).
 - **[1999](1999.md)** - *[George Allen and Unwin: A Remembrancer](../G/George_Allen_and_Unwin%253A_A_Remembrancer.md)* được xuất bản.
 - **[2008](2008.md)** - *[The Tolkien Name in History](../T/The_Tolkien_Name_in_History.md)* được xuất bản.
-- **[2010](2010.md)** - Mereth Aderthad XVI, hay "EstelCon" của Hiệp hội Tolkien tiếng Tây Ban Nha ở <a class="extiw" href="http://en.wikipedia.org/wiki/Valenica" title="wikipedia:Valenica">Valenica</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Spain" title="wikipedia:Spain">Tây Ban Nha</a>.
+- **[2010](2010.md)** - Mereth Aderthad XVI, hay "EstelCon" của Hội Tolkien tiếng Tây Ban Nha ở <a class="extiw" href="http://en.wikipedia.org/wiki/Valenica" title="wikipedia:Valenica">Valenica</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Spain" title="wikipedia:Spain">Tây Ban Nha</a>.
 - **[2011](2011.md)** - *[The Lord of the Rings: War in the North](../T/The_Lord_of_the_Rings%253A_War_in_the_North.md)* được phát hành tại Bắc Mỹ.
 - **[2012](2012.md)** - *[The J.R.R. Tolkien Miscellany](../T/The_J.R.R._Tolkien_Miscellany.md)* được xuất bản.
 - **[2025](2025.md)** - Tác giả và học giả [Colin Duriez](../C/Colin_Duriez.md) qua đời.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>

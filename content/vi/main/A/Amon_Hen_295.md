@@ -45,7 +45,7 @@ infobox:
 
 - Bìa trước: Những cuộc phiêu lưu Tom Bombadil của Norloth
 - **2** - Từ bàn biên tập
-- **4** - Giải thưởng của Hiệp hội Tolkien
+- **4** - Giải thưởng của Hội Tolkien
 - **7** - Vali của Tolkien của Jessica Yates
 - **13** - Đánh giá: Thư viện Tolkien của Maria Zielenbach
 - **16** - Ký ức của Priscilla

@@ -47,7 +47,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Trong thời gian [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md) ông được cử đi làm việc vặt ở [Elrond](../E/Elrond.md) ở [Rivendell](../R/Rivendell.md). Ông có mặt tại [Hội đồng Elrond](../C/Council_of_Elrond.md) đại diện cho Círdan. Ông hỏi về bằng chứng cho thấy chiếc nhẫn của [người Halfling](../F/Frodo_Baggins.md) thực sự là [Chiếc Nhẫn Một](../O/One_Ring.md), đồng thời hỏi tại sao [Saruman](../S/Saruman.md) không ở cùng với họ. Chính [Gandalf](Gandalf.md) là người đã trả lời các câu hỏi của anh, kể lại câu chuyện anh phát hiện ra Chiếc nhẫn Chúa như thế nào và sự phản bội của Saruman.
+Trong thời gian [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md) ông được cử đi làm việc vặt ở [Elrond](../E/Elrond.md) ở [Rivendell](../R/Rivendell.md). Ông có mặt tại [Hội đồng Elrond](../C/Council_of_Elrond.md) đại diện cho Círdan. Ông hỏi về bằng chứng cho thấy chiếc nhẫn của [người Halfling](../F/Frodo_Baggins.md) thực sự là [Nhẫn Chúa](../O/One_Ring.md), đồng thời hỏi tại sao [Saruman](../S/Saruman.md) không ở cùng với họ. Chính [Gandalf](Gandalf.md) là người đã trả lời các câu hỏi của anh, kể lại câu chuyện anh phát hiện ra Nhẫn Chúa như thế nào và sự phản bội của Saruman.
 
 Ở một điểm sau đó, Galdor đề cập rằng ông biết về hình dáng của [Iarwain](../I/Iarwain.md), và ông đồng ý với [Glorfindel](Glorfindel.md) rằng ông không có quyền thách thức [Sauron](../S/Sauron.md) và giữ Chiếc nhẫn khỏi tay ông.
 

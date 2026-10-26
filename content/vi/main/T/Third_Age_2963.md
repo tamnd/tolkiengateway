@@ -22,7 +22,7 @@ Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 - Sự ra đời của [Théodwyn](Théodwyn.md), đứa con thứ năm và con gái thứ tư của [Vua](../K/Kings_of_Rohan.md) [Thengel](Thengel.md) và [Morwen Steelsheen](../M/Morwen_Steelsheen.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 - Cái chết của [Gorbadoc Brandybuck](../G/Gorbadoc_Brandybuck.md).<sup id="cite_ref-Brandybuck_2-0" class="reference"><a href="#cite_note-Brandybuck-2">[2]</a></sup>
-- [Rorimac Brandybuck](../R/Rorimac_Brandybuck.md), con trai của Gorbadoc và [Mirabella Took](../M/Mirabella_Took.md), trở thành [Bậc thầy của Buckland](../M/Master_of_Buckland.md).<sup id="cite_ref-Brandybuck_2-1" class="reference"><a href="#cite_note-Brandybuck-2">[2]</a></sup>
+- [Rorimac Brandybuck](../R/Rorimac_Brandybuck.md), con trai của Gorbadoc và [Mirabella Took](../M/Mirabella_Took.md), trở thành [Chủ nhân Buckland](../M/Master_of_Buckland.md).<sup id="cite_ref-Brandybuck_2-1" class="reference"><a href="#cite_note-Brandybuck-2">[2]</a></sup>
 - Cái chết của [Linda Baggins](../L/Linda_Baggins.md).<sup id="cite_ref-Baggins_3-0" class="reference"><a href="#cite_note-Baggins-3">[3]</a></sup>
 
 ## Lưu ý {#Note}

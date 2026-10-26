@@ -28,7 +28,7 @@ Với Tolkien, Childe đã viết một <a class="external text" href="https://w
 
 ## Xem thêm {#See_also}
 
-- [Thư gửi George Allen và Unwin](../L/Letter_to_George_Allen_and_Unwin.md) (thư từ Tolkien liên quan đến Childe)
+- [Thư gửi George Allen and Unwin](../L/Letter_to_George_Allen_and_Unwin.md) (thư từ Tolkien liên quan đến Childe)
 
 ## Liên kết ngoài {#External_links}
 

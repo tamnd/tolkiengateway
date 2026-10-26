@@ -504,7 +504,7 @@ Bài viết không nêu ngày tháng của từng bức thư, nhưng Hogan tríc
 
 ### Bức thư về chiếc khăn lau bếp {#The_Tea_Towel_Letter}
 
-Trang web *Tolkien Collector's Guide* có một bài viết về một chiếc khăn lau bếp hiếm, trong đó dẫn chiếu đến một bức thư được cho là chưa từng được công bố. Sự việc bắt nguồn từ việc George Allen và Unwin đặt làm chiếc khăn vào năm 1971, trên đó có bản đồ do Pauline Baynes vẽ, nhân một dịp ăn mừng. Tác giả bài viết cho biết: "\[...\] rõ ràng Tolkien đã có mặt ở đó, bởi tôi đọc trong một bức thư (chưa được công bố) rằng chính ông cũng nhận được một chiếc khăn lau bếp như vậy tại 'bữa tiệc' hay 'buổi gặp mặt' và rất vui vì món quà ấy."<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup>
+Trang web *Tolkien Collector's Guide* có một bài viết về một chiếc khăn lau bếp hiếm, trong đó dẫn chiếu đến một bức thư được cho là chưa từng được công bố. Sự việc bắt nguồn từ việc George Allen and Unwin đặt làm chiếc khăn vào năm 1971, trên đó có bản đồ do Pauline Baynes vẽ, nhân một dịp ăn mừng. Tác giả bài viết cho biết: "\[...\] rõ ràng Tolkien đã có mặt ở đó, bởi tôi đọc trong một bức thư (chưa được công bố) rằng chính ông cũng nhận được một chiếc khăn lau bếp như vậy tại 'bữa tiệc' hay 'buổi gặp mặt' và rất vui vì món quà ấy."<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup>
 
 ### Những chiếc xe cút kít lúc bình minh {#Wheelbarrows_at_Dawn}
 

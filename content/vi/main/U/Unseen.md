@@ -36,7 +36,7 @@ images:
 
 [Chiếc nhẫn duy nhất](../T/The_One_Ring.md) chuyển người đeo nó đến "thế giới ma quái", trong đó người đeo có thể nhìn thấy hình dạng của những người khác. Mặc dù người mặc có vẻ vô hình nhưng trên thực tế, họ sẽ được nhìn thấy bởi các sinh vật của cõi Vô hình.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-Ford_5-0" class="reference"><a href="#cite_note-Ford-5">[5]</a></sup>
 
-Ngoài ra, [Con dao Morgul](../M/Morgul-knife.md) đã đâm Frodo có khả năng đưa ông vĩnh viễn đến cõi Vô hình;<sup id="cite_ref-Meet_3-1" class="reference"><a href="#cite_note-Meet-3">[3]</a></sup> trong khi Frodo đang chịu tác dụng của nó, ông có thể nhìn thấy hình dạng [phát sáng](../L/Light_of_Valinor.md) thực sự của [Glorfindel](../G/Glorfindel.md).<sup id="cite_ref-Ford_5-1" class="reference"><a href="#cite_note-Ford-5">[5]</a></sup>
+Ngoài ra, [Dao Morgul](../M/Morgul-knife.md) đã đâm Frodo có khả năng đưa ông vĩnh viễn đến cõi Vô hình;<sup id="cite_ref-Meet_3-1" class="reference"><a href="#cite_note-Meet-3">[3]</a></sup> trong khi Frodo đang chịu tác dụng của nó, ông có thể nhìn thấy hình dạng [phát sáng](../L/Light_of_Valinor.md) thực sự của [Glorfindel](../G/Glorfindel.md).<sup id="cite_ref-Ford_5-1" class="reference"><a href="#cite_note-Ford-5">[5]</a></sup>
 
 [Tom Bombadil](../T/Tom_Bombadil.md) có thể nhìn thấy Frodo đeo Chiếc nhẫn;<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> liệu điều này có ám chỉ rằng ông sống ở cả hai cõi hay không thì vẫn chưa rõ ràng.
 

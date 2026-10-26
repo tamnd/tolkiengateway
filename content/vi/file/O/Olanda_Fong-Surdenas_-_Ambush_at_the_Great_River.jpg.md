@@ -29,7 +29,7 @@ file:
 
 "*Một nỗi sợ hãi bất ngờ ập đến với công ty.*
 
-'*Elbereth Gilthoniel!' thở dài [Legolas](../../main/L/Legolas.md) khi nhìn lên. Ngay khi ông ta làm vậy, một hình thù đen tối, giống như một đám mây nhưng không giống đám mây bước ra từ bóng tối...che khuất mọi ánh sáng khi nó đến gần...*"
+'*Elbereth Gilthoniel!' thở dài [Legolas](../../main/L/Legolas.md) khi nhìn lên. Ngay khi ông làm vậy, một hình thù đen tối, giống như một đám mây nhưng không giống đám mây bước ra từ bóng tối...che khuất mọi ánh sáng khi nó đến gần...*"
 
 ## Giấy phép {#Licensing}
 

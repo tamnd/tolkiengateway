@@ -107,7 +107,7 @@ sort_keys:
 [2012-04-01 20:32:04] --&gt;| Amroth (3eeef969@tolkiengateway-F4FD642.mibbit.com) has joined #Wiki<br/>
 [2012-04-01 20:32:11] &lt;KingAragorn&gt; Hello Amroth<br/>
 [2012-04-01 20:32:36] &lt;Amroth&gt; Hello Gamling, KingAragorn, Mith, Morgan and Pallando<br/>
-[2012-04-01 20:32:46] &lt;Gamling&gt; Looking at the Elrond article there are only 2 sentences about his involvement in The Hobbit, with no references.  Perhaps if we concentrated on just updating The Hobbit bits of the big articles we could get them in shape for the Countdown.<br/>
+[2012-04-01 20:32:46] &lt;Gamling&gt; Looking at the Elrond article there are only 2 sentences about his involvement in The Hobbit, with no references. Perhaps if we concentrated on just updating The Hobbit bits of the big articles we could get them in shape for the Countdown.<br/>
 [2012-04-01 20:32:53] &lt;Gamling&gt; Hello Amroth.<br/>
 [2012-04-01 20:33:03] &lt;KingAragorn&gt; I agree<br/>
 [2012-04-01 20:33:47] &lt;KingAragorn&gt; I went off on a tangent with Sauron and improved other sections whilst leaving The Hobbit bits unchanged<br/>

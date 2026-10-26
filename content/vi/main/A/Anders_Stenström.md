@@ -78,7 +78,7 @@ Stenström sống tại <a class="extiw" href="http://en.wikipedia.org/wiki/Alby
 ### Bản dịch {#Translations}
 
 - [2014](../_/2014.md): <i><a class="external text" href="http://beregond.se/bilbos.htm" rel="noreferrer noopener" target="_blank">Bài ca cuối cùng của Bilbo</a></i> (*[Bilbo's Last Song](../B/Bilbo's_Last_Song.md)*; <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/9789163774423">ISBN 978-91-637-7442-3</a>; do Graphic Digital, Stockholm in)
-- [2017](../_/2017.md): <i><a class="external text" href="https://beregond.se/brev.htm" rel="noreferrer noopener" target="_blank">Những bức thư của J.R.R. Tolkien</a></i> (*[The Letters of J.R.R. Tolkien](../T/The_Letters_of_J.R.R._Tolkien.md)*; <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/9789187891618">ISBN 978-91-878-9161-8</a>; do Ersatz förlag xuất bản)
+- [2017](../_/2017.md): <i><a class="external text" href="https://beregond.se/brev.htm" rel="noreferrer noopener" target="_blank">The Letters of J.R.R. Tolkien</a></i> (*[The Letters of J.R.R. Tolkien](../T/The_Letters_of_J.R.R._Tolkien.md)*; <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/9789187891618">ISBN 978-91-878-9161-8</a>; do Ersatz förlag xuất bản)
 
 ## Tài liệu tham khảo {#References}
 

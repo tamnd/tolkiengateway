@@ -22,7 +22,7 @@ Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 - Sự ra đời của [Otho Sackville-Baggins](../O/Otho_Sackville-Baggins.md), con trai của [Longo Baggins](../L/Longo_Baggins.md) và [Camellia Sackville](../C/Camellia_Sackville.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 - Cái chết của [Marmadoc Brandybuck](../M/Marmadoc_Brandybuck.md).<sup id="cite_ref-Brandybuck_2-0" class="reference"><a href="#cite_note-Brandybuck-2">[2]</a></sup>
-- [Gorbadoc Brandybuck](../G/Gorbadoc_Brandybuck.md), con trai của Marmadoc và [Adaldrida Bolger](../A/Adaldrida_Bolger.md), trở thành [Bậc thầy của Buckland](../M/Master_of_Buckland.md).<sup id="cite_ref-Brandybuck_2-1" class="reference"><a href="#cite_note-Brandybuck-2">[2]</a></sup>
+- [Gorbadoc Brandybuck](../G/Gorbadoc_Brandybuck.md), con trai của Marmadoc và [Adaldrida Bolger](../A/Adaldrida_Bolger.md), trở thành [Chủ nhân Buckland](../M/Master_of_Buckland.md).<sup id="cite_ref-Brandybuck_2-1" class="reference"><a href="#cite_note-Brandybuck-2">[2]</a></sup>
 
 <span></span>
 

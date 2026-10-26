@@ -25,7 +25,7 @@ infobox:
 
 <i><b>Trung Địa: Chống lại Bóng Tối Hướng dẫn người chơi</b></i> là một cuốn sách nguồn được lên kế hoạch cho phần mở rộng [Middle-earth: Against the Shadow](Middle-earth%253A_Against_the_Shadow.md) thành [Trung Địa Trò chơi bài sưu tập](Middle-earth_Collectible_Card_Game.md), được phát hành vào năm 1998 nhưng chưa bao giờ được xuất bản.
 
-<a class="new" href="https://tolkiengateway.net/w/index.php?title=Nigel_Buckle&amp;action=edit&amp;redlink=1" title="Nigel Buckle (page does not exist)">Nigel Buckle</a>, người đã từng làm việc với cuốn sách này cho [Vương miện Sắt Enterprises](../I/Iron_Crown_Enterprises.md), sau đó đã tạo một *Against the Shadow Player Guide* không chính thức (do Markus Richartz biên tập) với mô tả đầy đủ về mọi lá bài trong bộ mở rộng (109 trang ở dạng pdf), chứa một số bộ bài mẫu.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<a class="new" href="https://tolkiengateway.net/w/index.php?title=Nigel_Buckle&amp;action=edit&amp;redlink=1" title="Nigel Buckle (page does not exist)">Nigel Buckle</a>, người đã từng làm việc với cuốn sách này cho [Iron Crown Enterprises](../I/Iron_Crown_Enterprises.md), sau đó đã tạo một *Against the Shadow Player Guide* không chính thức (do Markus Richartz biên tập) với mô tả đầy đủ về mọi lá bài trong bộ mở rộng (109 trang ở dạng pdf), chứa một số bộ bài mẫu.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nhà xuất bản {#From_the_publisher}
 

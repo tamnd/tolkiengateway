@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letters not published in The Letters of J.R.R. Tolkien"
 ---
 
-Chuyển hướng đến [Những bức thư không được xuất bản trong Những bức thư của J.R.R. Tolkien](../L/Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md).
+Chuyển hướng đến [Những bức thư không được xuất bản trong The Letters of J.R.R. Tolkien](../L/Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md).

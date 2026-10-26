@@ -18,7 +18,7 @@ images:
 
 ## Sách {#Books}
 
-- <i><b><a href="../T/The_Letters_of_J.R.R._Tolkien.md" title="The Letters of J.R.R. Tolkien">Những bức thư của J.R.R. Tolkien</a></b></i>
+- <i><b><a href="../T/The_Letters_of_J.R.R._Tolkien.md" title="The Letters of J.R.R. Tolkien">The Letters of J.R.R. Tolkien</a></b></i>
 - *[Letters from Father Christmas](Letters_from_Father_Christmas.md)*
 - <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Collected_Letters_of_C.S._Lewis:_Family_Letters_1905-1931&amp;action=edit&amp;redlink=1" title="The Collected Letters of C.S. Lewis: Family Letters 1905-1931 (page does not exist)">Thư sưu tầm của C.S. Lewis: Thư gia đình 1905-1931</a></i>
 - *[The Collected Letters of C.S. Lewis: Books, Broadcasts, and the War 1931-1949](../T/The_Collected_Letters_of_C.S._Lewis%253A_Books,_Broadcasts,_and_the_War_1931-1949.md)*
@@ -30,7 +30,7 @@ images:
 
 ## Danh sách {#Lists}
 
-- <b><a href="Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md" title="Letters not published in The Letters of J.R.R. Tolkien">Những bức thư không được đăng trong <i>Những bức thư của J.R.R. Tolkien</i></a></b>
+- <b><a href="Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md" title="Letters not published in The Letters of J.R.R. Tolkien">Những bức thư không được đăng trong <i>The Letters of J.R.R. Tolkien</i></a></b>
 
 <hr style="margin-top:15px;"/>
 

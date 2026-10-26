@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Bộ [Argonath](../../main/A/Argonath.md) - [*The Lord of the Rings* (phim 1978)](<../../main/T/The_Lord_of_the_Rings_(1978_film).md>).
+Bộ [Argonath](../../main/A/Argonath.md) - [*The Lord of the Rings* (phim năm 1978)](<../../main/T/The_Lord_of_the_Rings_(1978_film).md>).
 
 ## Giấy phép {#Licensing}
 

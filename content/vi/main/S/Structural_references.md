@@ -29,7 +29,7 @@ images:
 <p class="tg-quote-footer"><cite><a href="../A/Anders_Stenström.md" title="Anders Stenström">Beregond, Anders Stenström</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-Phiên bản tiếng Tây Ban Nha của tài liệu tham khảo cấu trúc Arda, được gọi là Dự án Ardarathorn, được [Hiệp hội Tolkien Tây Ban Nha](Sociedad_Tolkien_Española.md) trình bày vào năm 2004.
+Phiên bản tiếng Tây Ban Nha của tài liệu tham khảo cấu trúc Arda, được gọi là Dự án Ardarathorn, được [Hội Tolkien Tây Ban Nha](Sociedad_Tolkien_Española.md) trình bày vào năm 2004.
 
 ## Liên kết ngoài {#External_links}
 

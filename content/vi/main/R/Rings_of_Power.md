@@ -42,7 +42,7 @@ images:
 <p class="tg-quote-footer"><cite><i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i>, &#34;<a href="../O/Of_the_Rings_of_Power_and_the_Third_Age.md" title="Of the Rings of Power and the Third Age">Of the Rings of Power and the Third Age</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Những Chiếc Nhẫn Quyền Năng** là những chiếc nhẫn ma thuật được tạo ra bởi [Tiên tộc](../E/Elves.md) của [Eregion](../E/Eregion.md). Mười chín **Những chiếc nhẫn vĩ đại** đã được tạo ra bằng kiến ​​thức thu được từ [Sauron](../S/Sauron.md), dưới vỏ bọc là "Annatar", với sự hỗ trợ của ông trong việc tạo ra hầu hết. Sauron một mình đã rèn ra Chiếc Nhẫn Vĩ Đại thứ hai mươi, được gọi là Chiếc Nhẫn Một hay Chiếc Nhẫn Thống Trị, một cách bí mật trong ngọn lửa của [Núi Diệt Vong](../M/Mount_Doom.md).
+**Những Chiếc Nhẫn Quyền Năng** là những chiếc nhẫn ma thuật được tạo ra bởi [Tiên tộc](../E/Elves.md) của [Eregion](../E/Eregion.md). Mười chín **Những chiếc nhẫn vĩ đại** đã được tạo ra bằng kiến ​​thức thu được từ [Sauron](../S/Sauron.md), dưới vỏ bọc là "Annatar", với sự hỗ trợ của ông trong việc tạo ra hầu hết. Sauron một mình đã rèn ra Chiếc Nhẫn Vĩ Đại thứ hai mươi, được gọi là Nhẫn Chúa hay Chiếc Nhẫn Thống Trị, một cách bí mật trong ngọn lửa của [Núi Diệt Vong](../M/Mount_Doom.md).
 
 ## Những chiếc nhẫn tuyệt vời {#Great_Rings}
 
@@ -65,25 +65,25 @@ Ba Chiếc Nhẫn, Bảy và Chín đều được đính đá quý phù hợp, 
 
 ### Chín {#The_Nine}
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../N/Nine_Rings.md" title="Nine Rings">Chín chiếc nhẫn</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="../N/Nine_Rings.md" title="Nine Rings">Chín chiếc nhẫn</a></b></div></div>
 
 *Nine Rings* được chia thành những kẻ có trái tim độc ác, những người nhận thấy khả năng của mình ngày càng tăng lên và trở thành phù thủy và Vua trong số Con Người. Chúng có được tuổi thọ nhưng sau đó lụi tàn để trở thành [Nazgûl](../N/Nazgûl.md), Nazgûl, bị thống trị bởi ý chí Sauron.
 
 ### Bảy {#The_Seven}
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../S/Seven_Rings.md" title="Seven Rings">Bảy Chiếc Nhẫn</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="../S/Seven_Rings.md" title="Seven Rings">Bảy Chiếc Nhẫn</a></b></div></div>
 
 Sauron đã tặng khoảng sáu chiếc Nhẫn cho các vị vua Người Lùn, mặc dù theo truyền thống của Người Lùn thì Tiên tộc đã trao [một chiếc](Ring_of_Thrór.md) cho [Durin III](../D/Durin_III.md). Sauron không thể buộc những người mang Người Lùn phải phục tùng, tuy nhiên những chiếc nhẫn đã khuếch đại đáng kể mong muốn thống trị của các vị vua Người Lùn. Họ trở nên tham lam, thiết lập những kho báu lớn mà cuối cùng mang đến sự hủy diệt cho vương quốc của họ.
 
 ### Ba {#The_Three}
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../T/Three_Rings.md" title="Three Rings">Ba Chiếc Nhẫn</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="../T/Three_Rings.md" title="Three Rings">Ba Chiếc Nhẫn</a></b></div></div>
 
 *Three Rings* của Tiên tộc được tạo ra lần cuối, chỉ được rèn bởi [Celebrimbor](../C/Celebrimbor.md) và không bao giờ bị Sauron chạm vào. Tuy nhiên, việc rèn của họ liên quan đến một số nghệ thuật được dạy bởi "Annatar". Vì thế họ cũng bị ràng buộc với Nhẫn Chúa ở một mức độ nào đó. Chúng được đặt tên là [Narya](../N/Narya.md) Nhẫn Lửa, [Nenya](../N/Nenya.md) Nhẫn Nước và [Vilya](../V/Vilya.md) Nhẫn Khí; họ vẫn bị ẩn khỏi Sauron.
 
 ### Người duy nhất {#The_One}
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../T/The_One_Ring.md" title="The One Ring">Cái Nhẫn Chúa</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="../T/The_One_Ring.md" title="The One Ring">Cái Nhẫn Chúa</a></b></div></div>
 
 *One Ring*, được Sauron bí mật rèn trong lòng [Núi Diệt Vong](../M/Mount_Doom.md), có sức mạnh thống trị mười sáu chiếc nhẫn thuộc sở hữu của Người Lùn và Con Người. Quyền cai trị của ông đối với những chiếc nhẫn khác vẫn chưa hoàn thiện, nhưng ông đã đặt một lượng lớn sức mạnh của mình vào đó khi rèn nó, một điều cần thiết mà sau này đã dẫn đến sự sụp đổ của ông dưới tay [Frodo Baggins](../F/Frodo_Baggins.md)'.
 

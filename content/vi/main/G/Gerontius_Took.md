@@ -91,7 +91,7 @@ Trong [một bức thư gửi ông bà Kloos](../L/Letter_to_Mr_and_Mrs_Kloos.md
 
 <b>2012: <i><a href="../T/The_Hobbit%253A_An_Unexpected_Journey.md" title="The Hobbit: An Unexpected Journey">The Hobbit: An Unexpected Journey</a></i>:</b>
 
-<dl><dd>Old Took xuất hiện trong một cảnh trong Phiên bản mở rộng do <a href="../D/Dan_Hennah.md" title="Dan Hennah">Dan Hennah</a> thủ vai.</dd></dl>
+<dl><dd>Old Took xuất hiện trong một cảnh trong Bản mở rộng do <a href="../D/Dan_Hennah.md" title="Dan Hennah">Dan Hennah</a> thủ vai.</dd></dl>
 
 ## Ghi chú {#Notes}
 

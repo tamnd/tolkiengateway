@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Images from The Hobbit (1967 film)"
 ---
 
-Chuyển hướng đến [Thể loại:Hình ảnh từ The Hobbit (phim 1967)](<Images_from_The_Hobbit_(1967_film).md>).
+Chuyển hướng đến [Thể loại:Hình ảnh từ The Hobbit (phim năm 1967)](<Images_from_The_Hobbit_(1967_film).md>).

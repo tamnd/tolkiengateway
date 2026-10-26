@@ -38,8 +38,8 @@ images:
 ## Cộng đồng người hâm mộ {#Fandom}
 
 - *[Minas Tirith (Cambridge smial)](<Minas_Tirith_(Cambridge_smial).md>)*, Hiệp hội Cambridge Tolkien
-- <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Minas_Tirith_(journal)&amp;action=edit&amp;redlink=1" title="Minas Tirith (journal) (page does not exist)">Minas Tirith (tạp chí)</a></i>, tạp chí của [Hiệp hội Tolkien Ý](../I/Italian_Tolkien_Society.md)
-- The *[Minas Tirith Evening-Star](Minas_Tirith_Evening-Star.md)*, bản tin của [Hiệp hội Tolkien Hoa Kỳ](../A/American_Tolkien_Society.md)
+- <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Minas_Tirith_(journal)&amp;action=edit&amp;redlink=1" title="Minas Tirith (journal) (page does not exist)">Minas Tirith (tạp chí)</a></i>, tạp chí của [Hội Tolkien Ý](../I/Italian_Tolkien_Society.md)
+- The *[Minas Tirith Evening-Star](Minas_Tirith_Evening-Star.md)*, bản tin của [Hội Tolkien Hoa Kỳ](../A/American_Tolkien_Society.md)
 - [Minastirith.com](Minastirith.com.md), một diễn đàn trực tuyến phổ biến
 
 ## Văn hóa đại chúng {#Popular_culture}

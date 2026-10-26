@@ -32,7 +32,7 @@ infobox:
 
 **Robin Wood** ([1953](../_/1953.md)-[19 tháng 4](../_/19_April.md) [2021](../_/2021.md)) là một nghệ sĩ người Mỹ nổi tiếng với việc minh họa bìa cho [Dungeons và Rồng](../D/Dungeons_and_Dragons.md) và [Tạp chí Dragon](../D/Dragon_Magazine.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Vào những năm 1990, cô được [Vương miện Sắt Enterprises](../I/Iron_Crown_Enterprises.md) ủy quyền để tạo tác phẩm nghệ thuật thiệp cho *[Middle-earth Collectible Card Game](../M/Middle-earth_Collectible_Card_Game.md)*.
+Vào những năm 1990, cô được [Iron Crown Enterprises](../I/Iron_Crown_Enterprises.md) ủy quyền để tạo tác phẩm nghệ thuật thiệp cho *[Middle-earth Collectible Card Game](../M/Middle-earth_Collectible_Card_Game.md)*.
 
 ## Xem thêm {#See_also}
 

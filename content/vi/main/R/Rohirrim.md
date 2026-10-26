@@ -127,7 +127,7 @@ Trong những ngày đầu của [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md
 
 ### Ngôn ngữ {#Language}
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="Rohanese.md" title="Rohanese">Rohanese</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="Rohanese.md" title="Rohanese">Rohanese</a></b></div></div>
 
 Rohirrim nói một ngôn ngữ bắt nguồn từ tiếng [Éothéod](../_/Éothéod.md), có quan hệ với [tiếng Con Người phương Bắc](../N/Northern_Mannish.md) ở [Rhovanion](Rhovanion.md). So với [Westron](../W/Westron.md), ngôn ngữ này phần lớn mang những nét cổ xưa và những người nói tiếng Westron khó có thể hiểu được.
 

@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Bifur Người lùn](../../main/B/Bifur.md) - [LEGO](../../main/L/Lego.md) mô hình nhỏ
+[Bifur Người Lùn](../../main/B/Bifur.md) - [LEGO](../../main/L/Lego.md) mô hình nhỏ
 
 ## Giấy phép {#Licensing}
 

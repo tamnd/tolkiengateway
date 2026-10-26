@@ -26,7 +26,7 @@ Sumner Gary Hunnewell, sống ở Missouri, Hoa Kỳ, là một học giả về
 
 ## Xã hội Tolkien New England / Beyond Bree {#New_England_Tolkien_Society_/_Beyond_Bree}
 
-Sumner Gary Hunnewell là/là động lực thúc đẩy [Hiệp hội Tolkien New England](../N/New_England_Tolkien_Society.md). Năm 2002 Sumner Gary Hunnewell nhận được giải thưởng [Beyond Bree](../B/Beyond_Bree.md). Sumner Gary Hunnewell cũng đồng tổ chức Beyond [Bree Moots](../B/Bree_Moot.md) vào những năm 1990.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Sumner Gary Hunnewell là/là động lực thúc đẩy [Hội Tolkien New England](../N/New_England_Tolkien_Society.md). Năm 2002 Sumner Gary Hunnewell nhận được giải thưởng [Beyond Bree](../B/Beyond_Bree.md). Sumner Gary Hunnewell cũng đồng tổ chức Beyond [Bree Moots](../B/Bree_Moot.md) vào những năm 1990.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 ## Thư mục {#Bibliography}
 

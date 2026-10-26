@@ -79,10 +79,10 @@ Ingahild Grathmer là bút danh được H.M. Queen Margrethe II sử dụng t�
 <tr>
 <th align="right" style="background:var(--tg-color-surface-3); font-size: 90%; padding-left: 4px; padding-right: 4px; width: 80px;">Minh họa bên trong
 </th>
-<td style="font-size: 90%"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> (1937-nay) · Eric Fraser/<a class="mw-selflink selflink">Ingahild Grathmer</a> (<a href="../T/The_Folio_Society.md" title="The Folio Society">The Folio Society</a>: 1979, 1992-nay) · <a href="../D/Denis_Gordeev.md" title="Denis Gordeev">Denis Gordeev</a> (1992-nay) · <a href="../A/Alan_Lee.md" title="Alan Lee">Alan Lee</a> (1997-nay)
+<td style="font-size: 90%"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> (1937–nay) · Eric Fraser/<a class="mw-selflink selflink">Ingahild Grathmer</a> (<a href="../T/The_Folio_Society.md" title="The Folio Society">The Folio Society</a>: 1979, 1992–nay) · <a href="../D/Denis_Gordeev.md" title="Denis Gordeev">Denis Gordeev</a> (1992–nay) · <a href="../A/Alan_Lee.md" title="Alan Lee">Alan Lee</a> (1997–nay)
 </td></tr>
 <tr>
 <th align="right" style="background:var(--tg-color-surface-3); font-size: 90%; padding-left: 4px; padding-right: 4px;">Chỉ có hình minh họa bìa
 </th>
-<td style="font-size: 90%"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> (1937-nay) · <a href="../P/Pauline_Baynes.md" title="Pauline Baynes">Pauline Baynes</a> (1970-1989) · <a href="../R/Roger_Garland.md" title="Roger Garland">Roger Garland</a> (1983-1991) · <a href="../J/John_Howe.md" title="John Howe">John Howe</a> (1991-nay) · <a href="../T/Ted_Nasmith.md" title="Ted Nasmith">Ted Nasmith</a> (1990) · Geoff Taylor (1999)
+<td style="font-size: 90%"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> (1937–nay) · <a href="../P/Pauline_Baynes.md" title="Pauline Baynes">Pauline Baynes</a> (1970-1989) · <a href="../R/Roger_Garland.md" title="Roger Garland">Roger Garland</a> (1983-1991) · <a href="../J/John_Howe.md" title="John Howe">John Howe</a> (1991–nay) · <a href="../T/Ted_Nasmith.md" title="Ted Nasmith">Ted Nasmith</a> (1990) · Geoff Taylor (1999)
 </td></tr></tbody></table>

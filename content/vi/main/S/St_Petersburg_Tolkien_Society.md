@@ -17,7 +17,7 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/St_Petersburg_Tolkien_Society_logo.png.md"><img src="https://tolkiengateway.net/w/images/thumb/f/f5/St_Petersburg_Tolkien_Society_logo.png/300px-St_Petersburg_Tolkien_Society_logo.png" decoding="async" loading="lazy" width="300" height="300" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f5/St_Petersburg_Tolkien_Society_logo.png/450px-St_Petersburg_Tolkien_Society_logo.png 1.5x, https://tolkiengateway.net/w/images/thumb/f/f5/St_Petersburg_Tolkien_Society_logo.png/600px-St_Petersburg_Tolkien_Society_logo.png 2x" data-file-width="837" data-file-height="836"/></a><figcaption></figcaption></figure>
 
-**Hiệp hội Tolkien St Petersburg** (tiếng Nga: "Толкиновское Общество Санкт-Петербурга") là một [Tolkien Hiệp hội](../T/Tolkien_Societies~67099.md) có trụ sở tại <a class="extiw" href="http://en.wikipedia.org/wiki/Russia" title="wikipedia:Russia">Nga</a>.
+**Hội Tolkien St Petersburg** (tiếng Nga: "Толкиновское Общество Санкт-Петербурга") là một [Tolkien Hiệp hội](../T/Tolkien_Societies~67099.md) có trụ sở tại <a class="extiw" href="http://en.wikipedia.org/wiki/Russia" title="wikipedia:Russia">Nga</a>.
 
 ## Lịch sử {#History}
 

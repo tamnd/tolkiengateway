@@ -62,7 +62,7 @@ infobox:
 - Ngày ghi nhật ký của bạn
 - Sửa chữa khẩn cấp tại <a class="new" href="https://tolkiengateway.net/w/index.php?title=Perrott%27s_Folly&amp;action=edit&amp;redlink=1" title="Perrott&#39;s Folly (page does not exist)">Perrott's Folly</a>
 - Công viên nông thôn <a class="new" href="https://tolkiengateway.net/w/index.php?title=Shire_Country_Park&amp;action=edit&amp;redlink=1" title="Shire Country Park (page does not exist)">Shire</a>
-Đề xuất về - [Tolkien Ngày đọc](../T/Tolkien_Reading_Day.md)
+Đề xuất về - [Ngày đọc Tolkien](../T/Tolkien_Reading_Day.md)
 - Thông báo ĐHĐCĐ & Bữa tối thường niên
 - [Sảnh lửa](../H/Hall_of_Fire.md)
     - Bởi: Lynn Forest-Hill

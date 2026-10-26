@@ -134,7 +134,7 @@ Các vị vua của [Arthedain](../A/Arthedain.md) có cùng dòng dõi với c�
 <td>13.</td>
 <td><a href="../A/Araval.md" title="Araval">Araval</a></td>
 <td><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_1813.md" title="Third Age 1813">1813</a>–<a href="../T/Third_Age_1891.md" title="Third Age 1891">1891</a></td>
-<td>Liên minh với <a href="../E/Elves_of_Lindon.md" title="Elves of Lindon">Tiên tộc của Lindon</a> và <a href="../R/Rivendell.md" title="Rivendell">Rivendell</a>, anh đã giành được chiến thắng quan trọng trước Vua Phù thủy của Angmar.
+<td>Liên minh với <a href="../E/Elves_of_Lindon.md" title="Elves of Lindon">Tiên tộc của Lindon</a> và <a href="../R/Rivendell.md" title="Rivendell">Rivendell</a>, anh đã giành được chiến thắng quan trọng trước Vua Phù thủy Angmar.
 </td></tr>
 <tr>
 <td>14.</td>

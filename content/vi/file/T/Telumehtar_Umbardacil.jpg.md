@@ -24,7 +24,7 @@ file:
   user: "Ederchil"
 ---
 
-[Telumehtar Umbardacil](../../main/T/Telumehtar_Umbardacil.md). Jason Beresford, Anders Blixt, Mats Blomqvist, Gunnar Brolin, Jeff Hatch, Tim Innes, Martin Rundkvist, Erik Ragvik, Olle Sahlin, [Chris Seeman](../../main/C/Chris_Seeman.md), Magnus Seter, *[Southern Gondor: The People](../../main/S/Southern_Gondor%253A_The_People.md)* ([Vương miện Sắt Enterprises](../../main/I/Iron_Crown_Enterprises.md) #2020, 1996)
+[Telumehtar Umbardacil](../../main/T/Telumehtar_Umbardacil.md). Jason Beresford, Anders Blixt, Mats Blomqvist, Gunnar Brolin, Jeff Hatch, Tim Innes, Martin Rundkvist, Erik Ragvik, Olle Sahlin, [Chris Seeman](../../main/C/Chris_Seeman.md), Magnus Seter, *[Southern Gondor: The People](../../main/S/Southern_Gondor%253A_The_People.md)* ([Iron Crown Enterprises](../../main/I/Iron_Crown_Enterprises.md) #2020, 1996)
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
 <p>This work is copyrighted and owned by <a class="external text" href="http://www.ironcrown.com/" rel="noreferrer noopener" target="_blank">Iron Crown Enterprises</a>. It is believed that the limited use of this file,

@@ -81,7 +81,7 @@ Sau triều đại của <a class="mw-redirect mw-disambig" href="../E/Eärendur
 
 ### Xung đột với Angmar {#Conflicts_with_Angmar}
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a class="mw-redirect" href="../A/Angmar_War.md" title="Angmar War">Cuộc chiến Angmar</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a class="mw-redirect" href="../A/Angmar_War.md" title="Angmar War">Cuộc chiến Angmar</a></b></div></div>
 
 Vào khoảng năm [1300](../T/Third_Age_1300.md) [Kỷ Đệ Tam](../T/Third_Age.md), vương quốc [Angmar](../A/Angmar.md), dưới sự cai trị của [Vua Phù thủy](../W/Witch-king.md), được thành lập ở phía bên kia [Ettenmoors](../E/Ettenmoors.md) với mục đích tiêu diệt những người Dúnedain phương Bắc đang bị chia rẽ.<sup id="cite_ref-eriador_6-1" class="reference"><a href="#cite_note-eriador-6">[6]</a></sup>
 
@@ -97,7 +97,7 @@ Vào năm [1974](../T/Third_Age_1974.md) thuộc [Kỷ Đệ Tam](../T/Third_Age
 
 ### Lịch sử về sau {#Later_History}
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../R/Rangers_of_the_North.md" title="Rangers of the North">Biệt đội miền Bắc</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="../R/Rangers_of_the_North.md" title="Rangers of the North">Biệt đội miền Bắc</a></b></div></div>
 
 Sau [Cuộc chiến Angmar](../A/Angmar_War.md), toàn thể cư dân [Arnor](../A/Arnor.md) đều suy giảm về số lượng.<sup id="cite_ref-eriador_6-6" class="reference"><a href="#cite_note-eriador-6">[6]</a></sup> Người Dúnedain phương Bắc chỉ còn lại một số ít [Tuần Du](../R/Ranger_of_the_North.md) âm thầm lang thang nơi hoang dã, và di sản của họ dần bị lãng quên. Chỉ tại [Imladris](../R/Rivendell.md), họ vẫn được ghi nhớ, và cũng chính tại đó, các [Hậu duệ của Isildur](../H/Heir_of_Isildur.md) được cưu mang.<sup id="cite_ref-rings_3-4" class="reference"><a href="#cite_note-rings-3">[3]</a></sup><sup id="cite_ref-eriador_6-7" class="reference"><a href="#cite_note-eriador-6">[6]</a></sup>
 

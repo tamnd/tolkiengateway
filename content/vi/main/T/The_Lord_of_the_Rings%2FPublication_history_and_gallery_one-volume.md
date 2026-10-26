@@ -305,7 +305,7 @@ Dưới đây là *major* ấn bản một tập **tại Vương quốc Anh** c�
     - [2005](../_/2005.md): Ấn bản bìa mềm năm 1995, ?lần xuất bản thứ 2 - (Ấn bản bìa mềm kỷ niệm 50 năm)
     - [2007](../_/2007.md): Ấn bản bìa mềm năm 1995, ấn bản thứ 40
 
-## 2010-nay {#2010-Present}
+## 2010–nay {#2010-Present}
 
 <ul class="gallery mw-gallery-traditional">
 		<li class="gallerybox" style="width: 160px">

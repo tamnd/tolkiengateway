@@ -49,7 +49,7 @@ Một đoạn hồi tưởng được hiển thị về cảnh [Isildur](../I/Is
 
 ## Sự khác biệt {#Differences}
 
-- Elrond đã thấy trước rằng Narsil sẽ chỉ được rèn lại khi Chiếc nhẫn Chúa được tìm thấy và [Sauron](../S/Sauron.md) đã quay trở lại. Trong thời gian [The Fellowship of the Ring](The_Fellowship_of_the_Ring.md) ở [Rivendell](../R/Rivendell.md), Elrond đã ra lệnh rèn lại Narsil cho [Aragorn II](../A/Aragorn.md) nên khi Công ty khởi hành từ [Imladris](../I/Imladris.md), Aragorn đã có sẵn thanh kiếm.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[1]</a></sup>
+- Elrond đã thấy trước rằng Narsil sẽ chỉ được rèn lại khi Nhẫn Chúa được tìm thấy và [Sauron](../S/Sauron.md) đã quay trở lại. Trong thời gian [The Fellowship of the Ring](The_Fellowship_of_the_Ring.md) ở [Rivendell](../R/Rivendell.md), Elrond đã ra lệnh rèn lại Narsil cho [Aragorn II](../A/Aragorn.md) nên khi Công ty khởi hành từ [Imladris](../I/Imladris.md), Aragorn đã có sẵn thanh kiếm.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[1]</a></sup>
 
 ## Ghi chú {#Notes}
 

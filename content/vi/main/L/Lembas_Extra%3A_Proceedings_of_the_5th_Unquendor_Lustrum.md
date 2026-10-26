@@ -45,7 +45,7 @@ infobox:
 
 ## Từ nhà xuất bản<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[1]</a></sup> {#From_the_publisher[1]}
 
-Kỷ yếu của Hội nghị Lustrum Unquendor lần thứ 5 năm 2006 hiện đã có, được xuất bản trong số đặc biệt Lembas Phụ. Lustrum năm 2006 kỷ niệm 25 năm thành lập Hiệp hội Tolkien Hà Lan. Tiến sĩ Ron Pirson và Dorine Ratulangie MA đã mời một số học giả có đóng góp cho nghiên cứu hoặc nghệ thuật trong bối cảnh Tolkien: Giáo sư Cor Blok, khách mời danh dự của Hội nghị Lustrum, Giáo sư Arne Zettersten, Renee Vink MA, Giáo sư Nils Ivar Agoy và Johan Vanhecke MA. Các giấy tờ họ đã trình bày được bao gồm trong phần bổ sung Lembas này.
+Kỷ yếu của Hội nghị Lustrum Unquendor lần thứ 5 năm 2006 hiện đã có, được xuất bản trong số đặc biệt Lembas Phụ. Lustrum năm 2006 kỷ niệm 25 năm thành lập Hội Tolkien Hà Lan. Tiến sĩ Ron Pirson và Dorine Ratulangie MA đã mời một số học giả có đóng góp cho nghiên cứu hoặc nghệ thuật trong bối cảnh Tolkien: Giáo sư Cor Blok, khách mời danh dự của Hội nghị Lustrum, Giáo sư Arne Zettersten, Renee Vink MA, Giáo sư Nils Ivar Agoy và Johan Vanhecke MA. Các giấy tờ họ đã trình bày được bao gồm trong phần bổ sung Lembas này.
 
 Để tri ân, chúng tôi đã gửi kèm một trong những bài báo mà Tiến sĩ Ron Pirson viết bằng tiếng Hà Lan trên Tolkien. Ông khởi xướng việc tổ chức Hội nghị Lustrum. Căn bệnh của ông và sự ra đi của ông vào năm 2006 đã khiến tất cả chúng tôi đau buồn. Lembas Extra này được dành riêng cho ông.
 

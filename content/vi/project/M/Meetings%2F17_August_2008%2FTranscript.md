@@ -310,7 +310,7 @@ DrDeath has quit (Quit: I love <a class="external free" href="http://tolkiengate
 &lt;Ederchil&gt;	biya<br/>
 &lt;Huan&gt;	oh btw theoden everything we say on here is going on a transcript<br/>
 Huan eats biscuit<br/>
-&lt;KingAragorn&gt;	ok so we&#39;re all positive about Ederchil&#39;s nomination.         shall we move on?<br/>
+&lt;KingAragorn&gt;	ok so we&#39;re all positive about Ederchil&#39;s nomination. shall we move on?<br/>
 &lt;Hyarion&gt;	one moment.<br/>
 &lt;Ederchil&gt;	yes please<br/>
 &lt;Theoden1&gt;	OK-Tomorrow makes 2 weeks since Eder&#39;s nom<br/>
@@ -487,7 +487,7 @@ Huan catches in teeth and buries in backyard<br/>
 &lt;Huan&gt;	SURE<br/>
 &lt;Hyarion&gt;	KingAragorn, I remember there were a few websites that said &#34;Welcome to Website.com&#34; by numerous actors<br/>
 &lt;Hyarion&gt;	I&#39;ll see if we can do it.<br/>
-&lt;Huan&gt;	we just get one of the most famous people in the world to do somehting for  a wiki site<br/>
+&lt;Huan&gt;	we just get one of the most famous people in the world to do somehting for a wiki site<br/>
 &lt;Ambartur&gt;	Selma, <a class="external free" href="http://tolkiengateway.net/wiki/Christopher_Lee" rel="noreferrer noopener" target="_blank">http://tolkiengateway.net/wiki/Christopher_Lee</a><br/>
 &lt;Selma&gt;	lol, no guysI knew that, I was amazed that you&#39;ve thought to call CL<br/>
 &lt;Selma&gt;	:p<br/>

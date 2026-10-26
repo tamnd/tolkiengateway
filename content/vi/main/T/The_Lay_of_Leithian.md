@@ -81,7 +81,7 @@ Sau khi hoàn thành *[The Lord of the Rings](The_Lord_of_the_Rings.md)*, Tolkie
 
 ### Phụ lục: Bình luận của C.S. Lewis {#Appendix:_Commentary_by_C.S._Lewis}
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> Bình luận của <b><a class="new" href="https://tolkiengateway.net/w/index.php?title=C.S._Lewis%27s_Commentary_on_the_Lay_of_Leithian&amp;action=edit&amp;redlink=1" title="C.S. Lewis&#39;s Commentary on the Lay of Leithian (page does not exist)">C.S. Lewis về Lay of Leithian</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> Bình luận của <b><a class="new" href="https://tolkiengateway.net/w/index.php?title=C.S._Lewis%27s_Commentary_on_the_Lay_of_Leithian&amp;action=edit&amp;redlink=1" title="C.S. Lewis&#39;s Commentary on the Lay of Leithian (page does not exist)">C.S. Lewis về Lay of Leithian</a></b></div></div>
 
 <br>
 

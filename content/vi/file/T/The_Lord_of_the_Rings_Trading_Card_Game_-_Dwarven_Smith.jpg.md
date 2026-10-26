@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Lord of the Rings - The Fellowship of the Ring - Thrarin - Dwarven Smith.jpg"
 ---
 
-Chuyển hướng đến [Tệp:The Lord of the Rings - The Fellowship of the Ring - Thrarin - Người lùn Smith.jpg](The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Thrarin_-_Dwarven_Smith.jpg.md).
+Chuyển hướng đến [Tệp:The Lord of the Rings - The Fellowship of the Ring - Thrarin - Người Lùn Smith.jpg](The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Thrarin_-_Dwarven_Smith.jpg.md).

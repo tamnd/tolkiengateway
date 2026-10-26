@@ -31,7 +31,7 @@ infobox:
 
 ## Nền {#Background}
 
-Tolkien đã nhận được [Huân chương của Đế quốc Anh](../O/Order_of_the_British_Empire.md) tại Cung điện Buckingham vào [28 tháng 3](../_/28_March.md) [1972](../_/1972.md). [Rayner Unwin](../R/Rayner_Unwin.md) đã vinh danh ông bằng bữa tối tại Câu lạc bộ Garrick và [Allen và Unwin](../A/Allen_and_Unwin.md) đã sắp xếp kỳ nghỉ của họ tại khách sạn Brown's ở London.
+Tolkien đã nhận được [Huân chương của Đế quốc Anh](../O/Order_of_the_British_Empire.md) tại Cung điện Buckingham vào [28 tháng 3](../_/28_March.md) [1972](../_/1972.md). [Rayner Unwin](../R/Rayner_Unwin.md) đã vinh danh ông bằng bữa tối tại Câu lạc bộ Garrick và [Allen and Unwin](../A/Allen_and_Unwin.md) đã sắp xếp kỳ nghỉ của họ tại khách sạn Brown's ở London.
 
 ## Tóm tắt {#Summary}
 

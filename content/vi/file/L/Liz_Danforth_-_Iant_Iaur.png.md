@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Iant Iaur](../../main/I/Iant_Iaur.md). Nghệ thuật của [Liz Danforth](../../main/L/Liz_Danforth.md), từ [Jessica M Ney](../../main/J/Jessica_M._Ney-Grimm.md), *[Middle-earth Adventure Guidebook II](../../main/M/Middle-earth_Adventure_Guidebook_II.md)* ([Vương miện Sắt Enterprises](../../main/I/Iron_Crown_Enterprises.md) #2210, 1989) .
+[Iant Iaur](../../main/I/Iant_Iaur.md). Nghệ thuật của [Liz Danforth](../../main/L/Liz_Danforth.md), từ [Jessica M Ney](../../main/J/Jessica_M._Ney-Grimm.md), *[Middle-earth Adventure Guidebook II](../../main/M/Middle-earth_Adventure_Guidebook_II.md)* ([Iron Crown Enterprises](../../main/I/Iron_Crown_Enterprises.md) #2210, 1989) .
 
 ## Giấy phép {#Licensing}
 

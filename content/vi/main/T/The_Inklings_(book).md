@@ -139,7 +139,7 @@ Humphrey Carpenter, người đã viết cuốn tiểu sử nổi tiếng của 
 		</li>
 </ul>
 
-- [George Allen và Unwin](../G/George_Allen_and_Unwin.md) bìa cứng ([1978](../_/1978.md)), trang 287. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0048090115">ISBN 0048090115</a>
+- [George Allen and Unwin](../G/George_Allen_and_Unwin.md) bìa cứng ([1978](../_/1978.md)), trang 287. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0048090115">ISBN 0048090115</a>
 - [Giải phóng sách bìa mềm](../U/Unwin_Paperbacks.md) bìa mềm ([1981](../_/1981.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0048090131">ISBN 0048090131</a>
 - [HarperCollins](../H/HarperCollins.md) bìa mềm ([1997](../_/1997.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0261103474">ISBN 0261103474</a>
 - [HarperCollins](../H/HarperCollins.md) bìa mềm ([2006](../_/2006.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007748698">ISBN 0007748698</a>

@@ -22,7 +22,7 @@ sort_keys:
 - "Thư từ Hội học bổng"
 - Cynthia Duprey: "[Tolkien](../J/J.R.R._Tolkien.md) trong lớp học"
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Jessica_Burke&amp;action=edit&amp;redlink=1" title="Jessica Burke (page does not exist)">Jessica Burke</a>: "Suy nghĩ về huyền thoại"
-- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Stephanie_Kushner&amp;action=edit&amp;redlink=1" title="Stephanie Kushner (page does not exist)">Stephanie Kushner</a>: "Buổi chiếu phim tại Thành phố New York:" *[The Lord of the Rings: The Fellowship of the Ring](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)* ([Phiên bản mở rộng](<../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(extended_edition).md>))
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Stephanie_Kushner&amp;action=edit&amp;redlink=1" title="Stephanie Kushner (page does not exist)">Stephanie Kushner</a>: "Buổi chiếu phim tại Thành phố New York:" *[The Lord of the Rings: The Fellowship of the Ring](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)* ([Bản mở rộng](<../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(extended_edition).md>))
 
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Jessica_Burke&amp;action=edit&amp;redlink=1" title="Jessica Burke (page does not exist)">Jessica Burke</a>:"[ *[The Lord of the Rings: The Two Towers Visual Companion](../T/The_Lord_of_the_Rings%253A_The_Two_Towers_Visual_Companion.md)* của Jude Fisher](../J/Jude_Fisher.md) (đánh giá)
 - Donald Barr: "[Ngày 1 tháng 5](../_/1_May.md), [1955](../_/1955.md) Đánh giá sách *[The Two Towers](../T/The_Two_Towers.md)*: Thế giới bóng tối của Con Người và Hobbit

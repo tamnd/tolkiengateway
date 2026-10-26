@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Brazilian Tolkien Society"
 ---
 
-Chuyển hướng đến [Hiệp hội Tolkien Brazil](../T/The_Brazilian_Tolkien_Society.md).
+Chuyển hướng đến [Hội Tolkien Brazil](../T/The_Brazilian_Tolkien_Society.md).

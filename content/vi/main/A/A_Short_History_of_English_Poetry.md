@@ -41,7 +41,7 @@ infobox:
 
 <i><b>Lược sử thơ Anh</b></i> là cuốn sách bao gồm Khổ thơ 32 từ bản dịch tiếng Anh hiện đại của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) bài thơ [tiếng Anh trung cổ](../M/Middle_English.md) "<a class="mw-redirect mw-disambig" href="../S/Sir_Gawain_and_the_Green_Knight.md" title="Sir Gawain and the Green Knight">Sir Gawain và Hiệp sĩ xanh</a>". Văn bản được in ở đây có một số thay đổi nhỏ so với văn bản được xuất bản trong *[Sir Gawain and the Green Knight, Pearl and Sir Orfeo](../S/Sir_Gawain_and_the_Green_Knight,_Pearl_and_Sir_Orfeo.md)* (1975).
 
-Tolkien đã đàm phán với Heinemann và James Reeves trong [1959](../_/1959.md) để xuất bản bản dịch hoàn chỉnh, nhưng sau đó phải rút lui khi nhận ra rằng mình đã đề nghị nó cho [Allen và Unwin](Allen_and_Unwin.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
+Tolkien đã đàm phán với Heinemann và James Reeves trong [1959](../_/1959.md) để xuất bản bản dịch hoàn chỉnh, nhưng sau đó phải rút lui khi nhận ra rằng mình đã đề nghị nó cho [Allen and Unwin](Allen_and_Unwin.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

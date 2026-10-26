@@ -26,7 +26,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Người</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Chris Trevas</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin tiểu sử</span></th></tr><tr><th scope="row" class="tg-infobox-label">Nghề nghiệp</th><td class="tg-infobox-data">Nghệ sĩ</td></tr></tbody></table>
 
-**Chris Trevas** là một nghệ sĩ người Mỹ nổi tiếng với các tác phẩm minh họa Chiến tranh giữa các vì sao.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Vào những năm 1990, ông được [Vương miện Sắt Enterprises](../I/Iron_Crown_Enterprises.md) ủy quyền tạo tác phẩm nghệ thuật thẻ cho *[Middle-earth Collectible Card Game](../M/Middle-earth_Collectible_Card_Game.md)*.
+**Chris Trevas** là một nghệ sĩ người Mỹ nổi tiếng với các tác phẩm minh họa Chiến tranh giữa các vì sao.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Vào những năm 1990, ông được [Iron Crown Enterprises](../I/Iron_Crown_Enterprises.md) ủy quyền tạo tác phẩm nghệ thuật thẻ cho *[Middle-earth Collectible Card Game](../M/Middle-earth_Collectible_Card_Game.md)*.
 
 ## Xem thêm {#See_also}
 

@@ -56,7 +56,7 @@ infobox:
 - [Bywater](../B/Bywater.md) Thông báo
     - Bởi: Malcolm Lindley
 - Thông báo
-Thông báo - [Tolkien Ngày đọc sách](../T/Tolkien_Reading_Day.md)
+Thông báo - [Ngày đọc Tolkien sách](../T/Tolkien_Reading_Day.md)
     - Bởi: Ian Collier
     - Với tác phẩm nghệ thuật của: Debbie Ann Hayed
 - Quảng cáo: Hiệp hội Chesterton Hoa Kỳ

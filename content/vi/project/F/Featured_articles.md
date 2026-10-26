@@ -24,7 +24,7 @@ images:
 
 ## Quy trình đề cử {#Nomination_process}
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="Featured_articles%252FNominations.md" title="Tolkien Gateway:Featured articles/Nominations">Tolkien Gateway:Featured articles/Nominations</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="Featured_articles%252FNominations.md" title="Tolkien Gateway:Featured articles/Nominations">Tolkien Gateway:Featured articles/Nominations</a></b></div></div>
 
 Tất cả các đề cử diễn ra tại [Tolkien Gateway:Bài viết nổi bật/Đề cử](Featured_articles%252FNominations.md). Quy trình đề cử được chính thức hóa bởi [User:Mith](https://tolkiengateway.net/wiki/User:Mith) trong [2011](../../main/_/2011.md):
 

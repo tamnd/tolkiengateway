@@ -40,7 +40,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-[Bilbo](../B/Bilbo_Baggins.md) và [Thorin và Đoàn tùy tùng](../T/Thorin_and_Company.md) đã nhập [Mirkwood](../M/Mirkwood.md)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 1]</a></sup> theo [Tiên-path](../E/Elf-path.md). [Cổng rừng](Forest_Gate.md) giống như một mái vòm dẫn vào một đường hầm u ám được làm bởi hai cây cổ thụ to lớn với vài chiếc lá đen xì tựa vào nhau, bị dây thường xuân và địa y bóp nghẹt.
+[Bilbo](../B/Bilbo_Baggins.md) và [Thorin và Đoàn tùy tùng](../T/Thorin_and_Company.md) đã nhập [Mirkwood](../M/Mirkwood.md)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 1]</a></sup> theo [Lối mòn Tiên tộc](../E/Elf-path.md). [Cổng rừng](Forest_Gate.md) giống như một mái vòm dẫn vào một đường hầm u ám được làm bởi hai cây cổ thụ to lớn với vài chiếc lá đen xì tựa vào nhau, bị dây thường xuân và địa y bóp nghẹt.
 
 Con đường hẹp và ngoằn ngoèo giữa những thân cây. Bên trong khu rừng, sự yên tĩnh rất sâu và tất cả cây cối nghiêng về phía những người lùn tạo thành một thứ ánh sáng xanh thẫm xung quanh họ. Thỉnh thoảng một tia nắng mỏng lọt qua vài khe hở hay những cành cây rối rắm, những cành cây bết lại. Có những con sóc đen và những mạng nhện dày đặc với những sợi chỉ dày thường kéo dài từ cây này sang cây khác hoặc vướng vào những cành thấp ở hai bên. Vì một số lý do không giải thích được, không có cái nào trải dài trên con đường. Không có sự chuyển động của không khí dưới mái nhà, và nó vẫn tối tăm và ngột ngạt ngay cả đối với [những người lùn](../D/Dwarves.md).
 

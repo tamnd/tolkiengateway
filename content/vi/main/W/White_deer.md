@@ -52,7 +52,7 @@ Những con vật huyền bí có màu trắng rất phổ biến trong [Celtic]
 
 <b>2013: <i><a href="../T/The_Hobbit%253A_The_Desolation_of_Smaug.md" title="The Hobbit: The Desolation of Smaug">The Hobbit: The Desolation of Smaug</a></i>:</b>
 
-<dl><dd>Phiên bản mở rộng bao gồm cảnh một con nai trắng xuất hiện khi những người lùn cố gắng băng qua sông trong Mirkwood. <a class="mw-redirect" href="../T/Thorin_Oakenshield.md" title="Thorin Oakenshield">Thorin</a> cố gắng bắn hạ nó bằng một mũi tên nhưng ông bắn trượt. Con nai sau đó bỏ trốn.</dd></dl>
+<dl><dd>Bản mở rộng bao gồm cảnh một con nai trắng xuất hiện khi những người lùn cố gắng băng qua sông trong Mirkwood. <a class="mw-redirect" href="../T/Thorin_Oakenshield.md" title="Thorin Oakenshield">Thorin</a> cố gắng bắn hạ nó bằng một mũi tên nhưng ông bắn trượt. Con nai sau đó bỏ trốn.</dd></dl>
 
 ## Xem thêm {#See_also_2}
 

@@ -82,7 +82,7 @@ Thrór cuối cùng đã đến được Ngọn Núi Cô Đơn và tuyên bố c
 
 ### Cuộc cướp phá Erebor {#Sack_of_Erebor}
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../S/Sack_of_Erebor.md" title="Sack of Erebor">Cuộc cướp phá Erebor</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="../S/Sack_of_Erebor.md" title="Sack of Erebor">Cuộc cướp phá Erebor</a></b></div></div>
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Ted_Nasmith_-_Smaug_the_Destroyer.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b6/Ted_Nasmith_-_Smaug_the_Destroyer.jpg/300px-Ted_Nasmith_-_Smaug_the_Destroyer.jpg" decoding="async" loading="lazy" width="300" height="186" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b6/Ted_Nasmith_-_Smaug_the_Destroyer.jpg/450px-Ted_Nasmith_-_Smaug_the_Destroyer.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/b/b6/Ted_Nasmith_-_Smaug_the_Destroyer.jpg/600px-Ted_Nasmith_-_Smaug_the_Destroyer.jpg 2x" data-file-width="960" data-file-height="595"/></a><figcaption><i>Smaug the Destroyer</i> by <a href="../T/Ted_Nasmith.md" title="Ted Nasmith">Ted Nasmith</a></figcaption></figure>
 
@@ -92,7 +92,7 @@ Trong khi dân Durin lang thang từ núi tới [Dunland](../D/Dunland.md) về 
 
 ### Phục hồi {#Restoration}
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../Q/Quest_of_Erebor.md" title="Quest of Erebor">Nhiệm vụ của Erebor</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="../Q/Quest_of_Erebor.md" title="Quest of Erebor">Nhiệm vụ của Erebor</a></b></div></div>
 
 <figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/B/Brian_Durfee_-_Returned_Exiles.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/43/Brian_Durfee_-_Returned_Exiles.jpg/300px-Brian_Durfee_-_Returned_Exiles.jpg" decoding="async" loading="lazy" width="300" height="253" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/4/43/Brian_Durfee_-_Returned_Exiles.jpg 1.5x" data-file-width="399" data-file-height="336"/></a><figcaption><i>Returned Exiles</i> by Brian Durfee</figcaption></figure>
 

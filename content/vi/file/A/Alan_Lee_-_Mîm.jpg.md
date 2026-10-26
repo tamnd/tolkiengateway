@@ -28,7 +28,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Mîm the Người lùn](../../main/M/Mîm.md) - Tác phẩm nghệ thuật của [Alan Lee](../../main/A/Alan_Lee.md) cho *[Beren and Lúthien](../../main/B/Beren_and_Lúthien.md)*
+[Mîm the Người Lùn](../../main/M/Mîm.md) - Tác phẩm nghệ thuật của [Alan Lee](../../main/A/Alan_Lee.md) cho *[Beren and Lúthien](../../main/B/Beren_and_Lúthien.md)*
 
 ## Giấy phép {#Licensing}
 

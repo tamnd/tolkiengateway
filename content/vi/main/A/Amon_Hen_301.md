@@ -40,7 +40,7 @@ infobox:
 
 - Bìa trước và sau được minh họa bởi: [Ralph Damiani](../R/Ralph_Damiani.md)
 - **4** - Đại hội đồng cổ đông thường niên
-- **6** - Giải thưởng của Hiệp hội Tolkien năm 2023
+- **6** - Giải thưởng của Hội Tolkien năm 2023
 - **8** - Đánh giá sách: Lịch sử Hobbit của Amanda Drake
 - **9** - Tolkien Hội thảo Xã hội: Kẻ mạnh và kẻ yếu đuối Númenor
 - **10** - Về số phận Hobbit của Joris de Moel

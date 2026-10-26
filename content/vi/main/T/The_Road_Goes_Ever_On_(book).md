@@ -118,8 +118,8 @@ Một đĩa CD được phát hành với ấn bản thứ ba, bao gồm tập b
 		</li>
 </ul>
 
-- [George Allen và Unwin](../G/George_Allen_and_Unwin.md), bìa cứng ([1968](../_/1968.md)), trang 80. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0047840099">ISBN 0047840099</a>
-- [George Allen và Unwin](../G/George_Allen_and_Unwin.md), bìa cứng ([1978](../_/1978.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0047840110">ISBN 0047840110</a>
+- [George Allen and Unwin](../G/George_Allen_and_Unwin.md), bìa cứng ([1968](../_/1968.md)), trang 80. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0047840099">ISBN 0047840099</a>
+- [George Allen and Unwin](../G/George_Allen_and_Unwin.md), bìa cứng ([1978](../_/1978.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0047840110">ISBN 0047840110</a>
 - [HarperCollins](../H/HarperCollins.md), bìa cứng ([2002](../_/2002.md)), trang 96. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007136552">ISBN 0007136552</a>
 
 <dl><dt>ấn bản Mỹ</dt></dl>

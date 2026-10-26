@@ -41,7 +41,7 @@ Murray hiện không có đàn cello, điều này Tolkien rất tiếc khi bi�
 
 <dl><dt>Trong ấn bản mở rộng</dt></dl>
 
-Trong một đoạn Tolkien lưu ý rằng ông đang nhận được sự hỗ trợ từ giới Công giáo. Ông nói về kế hoạch gửi một số bản in của *The Lord of the Rings* Vol. Tôi nói với Murray và những người khác, sau đó nói rằng ông sẽ tới London để gặp BBC, Allen và Unwin, và rằng ông sẽ mua một số phòng trưng bày của Vol. II cho Murray, người chưa đọc Quyển 4 mới.
+Trong một đoạn Tolkien lưu ý rằng ông đang nhận được sự hỗ trợ từ giới Công giáo. Ông nói về kế hoạch gửi một số bản in của *The Lord of the Rings* Vol. Tôi nói với Murray và những người khác, sau đó nói rằng ông sẽ tới London để gặp BBC, Allen and Unwin, và rằng ông sẽ mua một số phòng trưng bày của Vol. II cho Murray, người chưa đọc Quyển 4 mới.
 
 <br>
 

@@ -25,7 +25,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Logo hiện tại của **[Hiệp hội Tolkien St Petersburg](../../main/S/St_Petersburg_Tolkien_Society.md)**
+Logo hiện tại của **[Hội Tolkien St Petersburg](../../main/S/St_Petersburg_Tolkien_Society.md)**
 
 ## Giấy phép {#Licensing}
 

@@ -110,7 +110,7 @@ categories:
 <dd>To remove a link on a page. Usually done to remove a <a href="#R">redlink</a>.</dd></dl>
 
 <dl><dt>Defaultsort</dt>
-<dd>By default, MediaWiki software sorts articles by their name. To over-ride that (for example, to sort <i><a href="../../main/T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i> in &#34;L&#34; rather than &#34;T&#34;) . Commonly seen in edit summaries when the defaultsort template has been added (<b>{{DEFAULTSORT:}}</b>).</dd></dl>
+<dd>By default, MediaWiki software sorts articles by their name. To over-ride that (for example, to sort <i><a href="../../main/T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i> in &#34;L&#34; rather than &#34;T&#34;). Commonly seen in edit summaries when the defaultsort template has been added (<b>{{DEFAULTSORT:}}</b>).</dd></dl>
 
 <dl><dt>Diff</dt>
 <dd>Short for &#34;difference.&#34; Used on RecentChanges and page histories to show the difference between two versions of an article.</dd></dl>

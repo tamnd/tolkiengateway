@@ -102,7 +102,7 @@ Steven M. Deyo nói bài thơ dựa trên "Bài thơ viết tay của Harley 225
 
 <b>2012: <i><a href="The_Hobbit%253A_An_Unexpected_Journey.md" title="The Hobbit: An Unexpected Journey">The Hobbit: An Unexpected Journey</a></i>:</b>
 
-<dl><dd>Trong Phiên bản mở rộng của bộ phim, <a href="../B/Bofur.md" title="Bofur">Bofur</a> hát một phiên bản rút gọn trong <a href="../R/Rivendell.md" title="Rivendell">Rivendell</a> trong khi <a href="Thorin_and_Company.md" title="Thorin and Company">Công ty</a> dùng bữa với <a href="../E/Elves.md" title="Elves">Tiên tộc</a> và <a href="../D/Dwarves.md" title="Dwarves">Người Lùn</a> khác tham gia.</dd></dl>
+<dl><dd>Trong Bản mở rộng của bộ phim, <a href="../B/Bofur.md" title="Bofur">Bofur</a> hát một phiên bản rút gọn trong <a href="../R/Rivendell.md" title="Rivendell">Rivendell</a> trong khi <a href="Thorin_and_Company.md" title="Thorin and Company">Công ty</a> dùng bữa với <a href="../E/Elves.md" title="Elves">Tiên tộc</a> và <a href="../D/Dwarves.md" title="Dwarves">Người Lùn</a> khác tham gia.</dd></dl>
 
 ### Phương tiện khác {#Other_media}
 

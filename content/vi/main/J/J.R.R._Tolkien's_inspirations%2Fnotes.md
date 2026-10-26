@@ -42,7 +42,7 @@ Nó bao gồm Moseley Bog, có niên đại từ Thời đại đồ đồng và
 ### Kinh thánh và thần học Kitô giáo {#The_Bible_and_Christian_theology}
 
 - Tolkien đã cẩn thận chọn ngày mà Hiệp hội bắt đầu hành trình tiêu diệt Chiếc Nhẫn Chúa: ngày 25 tháng 12, cùng ngày mà [Đức Trinh Nữ Maria](../V/Virgin_Mary.md) sinh ra Chúa Giêsu Kitô.
-- Cũng giống như Tolkien đã cẩn thận chọn ngày Hiệp hội khởi hành từ Rivendell, ông cũng cẩn thận trong việc chọn ngày mà Chiếc nhẫn Chúa bị phá hủy: Ngày 25 tháng 3, ngày Chúa Giêsu Kitô chết và đánh bại Satan.
+- Cũng giống như Tolkien đã cẩn thận chọn ngày Hiệp hội khởi hành từ Rivendell, ông cũng cẩn thận trong việc chọn ngày mà Nhẫn Chúa bị phá hủy: Ngày 25 tháng 3, ngày Chúa Giêsu Kitô chết và đánh bại Satan.
 - Balrog – thiên thần sa ngã bị cắt đôi cánh trong Kinh Thánh
 - Morgoth - có nghĩa trong Elvish giống như Satan trong tiếng Hebrew: "the Kẻ Thù, Kẻ thù"
 - Kinh thánh và Sách Enoch kể về một nhóm thiên thần từ trời xuống và lấy phụ nữ làm vợ. Họ sinh ra những đứa con cao hơn, khỏe mạnh hơn và thông minh hơn bình thường.

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Family"
 ---
 
-Chuyển hướng đến [Tolkien Gia đình](Tolkien_Family.md).
+Chuyển hướng đến [Gia đình Tolkien](Tolkien_Family.md).

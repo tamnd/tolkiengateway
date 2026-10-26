@@ -29,7 +29,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Tấm gương Galadriel](../../main/M/Mirror_of_Galadriel.md) - [*The Lord of the Rings* (phim 1978)](<../../main/T/The_Lord_of_the_Rings_(1978_film).md>).
+[Tấm gương Galadriel](../../main/M/Mirror_of_Galadriel.md) - [*The Lord of the Rings* (phim năm 1978)](<../../main/T/The_Lord_of_the_Rings_(1978_film).md>).
 
 ## Giấy phép {#Licensing}
 

@@ -110,7 +110,7 @@ Giống như các bản mở rộng Magic khác, Tales of Trung Địa có các 
 
 ### Thẻ cảnh {#Scene_Cards}
 
-Có những phiên bản đặc biệt của nhiều lá bài trong bộ này có hình vẽ được vẽ từ một khung cảnh lớn hơn nhiều trong đó các nhân vật/vật thể đó xuất hiện, khắc họa một khoảnh khắc cụ thể trong Chúa tể những chiếc nhẫn. Ví dụ: cảnh này mô tả sự phá hủy của Chiếc nhẫn Chúa:
+Có những phiên bản đặc biệt của nhiều lá bài trong bộ này có hình vẽ được vẽ từ một khung cảnh lớn hơn nhiều trong đó các nhân vật/vật thể đó xuất hiện, khắc họa một khoảnh khắc cụ thể trong Chúa tể những chiếc nhẫn. Ví dụ: cảnh này mô tả sự phá hủy của Nhẫn Chúa:
 
 <ul class="gallery mw-gallery-packed">
 		<li class="gallerybox" style="width: 238px">
@@ -341,7 +341,7 @@ Danh sách đầy đủ của mọi họa sĩ minh họa có tác phẩm xuất 
 
 ## Miêu tả {#Portrayals}
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="The_Lord_of_the_Rings%253A_Tales_of_Middle-earth%252FPortrayals.md" title="The Lord of the Rings: Tales of Middle-earth/Portrayals">The Lord of the Rings: Tales of Middle-earth/Portrayals</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="The_Lord_of_the_Rings%253A_Tales_of_Middle-earth%252FPortrayals.md" title="The Lord of the Rings: Tales of Middle-earth/Portrayals">The Lord of the Rings: Tales of Middle-earth/Portrayals</a></b></div></div>
 
 Mỗi nhân vật và sự kiện chính đều có ít nhất một thẻ mô tả nó trong bộ, với các yếu tố quan trọng hơn nhận được tối đa năm thẻ trở lên, hiển thị nhân vật hoặc sự kiện đó ở các giai đoạn khác nhau của câu chuyện. Để biết chỉ mục đầy đủ về những thẻ đại diện cho nhân vật, đồ vật và sự kiện nào, hãy xem [bài viết kèm theo](The_Lord_of_the_Rings%253A_Tales_of_Middle-earth%252FPortrayals.md).
 

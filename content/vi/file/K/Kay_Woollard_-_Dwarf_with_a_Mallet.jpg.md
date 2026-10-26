@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Người lùn với một cái vồ của [Kay Woollard](../../main/K/Kay_Woollard.md), một trong những hình minh họa được thực hiện cho Peter Bolton.
+Người Lùn với một cái vồ của [Kay Woollard](../../main/K/Kay_Woollard.md), một trong những hình minh họa được thực hiện cho Peter Bolton.
 
 ## Giấy phép {#Licensing}
 

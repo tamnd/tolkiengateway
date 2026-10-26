@@ -19,7 +19,7 @@ sort_keys:
   "Publications with contribution by J.R.R. Tolkien": "Carandaith"
 ---
 
-<i><b>Carandaith</b></i> là một tạp chí fanzine của Úc được xuất bản bởi [Hiệp hội Tolkien Úc](../A/Australian_Tolkien_Society.md) từ năm 1968 đến năm 1972. Nó được biên tập bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=Paul_Novitski&amp;action=edit&amp;redlink=1" title="Paul Novitski (page does not exist)">Paul Novitski</a> (dưới bút danh Alpajpuri).
+<i><b>Carandaith</b></i> là một tạp chí fanzine của Úc được xuất bản bởi [Hội Tolkien Úc](../A/Australian_Tolkien_Society.md) từ năm 1968 đến năm 1972. Nó được biên tập bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=Paul_Novitski&amp;action=edit&amp;redlink=1" title="Paul Novitski (page does not exist)">Paul Novitski</a> (dưới bút danh Alpajpuri).
 
 <table class="wikitable">
 <caption>Số phát hành

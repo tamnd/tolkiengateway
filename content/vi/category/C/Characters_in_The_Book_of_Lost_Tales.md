@@ -15,6 +15,6 @@ images:
   - "CdxIconArticle.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../../main/T/The_Book_of_Lost_Tales.md" title="The Book of Lost Tales">The Book of Lost Tales</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="../../main/T/The_Book_of_Lost_Tales.md" title="The Book of Lost Tales">The Book of Lost Tales</a></b></div></div>
 
 <br> Danh mục này cũng bao gồm các ký tự chỉ xuất hiện trong các văn bản trong cùng khoảng thời gian (c. [1915](../../main/_/1915.md) - c. đầu những năm 1920) được liên kết với *The Book of Lost Tales*, chẳng hạn như *[Qenya Lexicon](../../main/Q/Qenya_Lexicon.md)*, *[Gnomish Lexicon](../../main/G/Gnomish_Lexicon.md)*, *[Prose Fragments Following the Lost Tales](../../main/P/Prose_Fragments_Following_the_Lost_Tales.md)*, v.v.

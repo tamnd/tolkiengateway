@@ -82,7 +82,7 @@ sort_keys:
 &lt;KingAragorn&gt; oh then it&#39;s gonna be difficult, but i&#39;ll look into that<br/>
 &lt;Ederchil&gt; there&#39;s also fairuse-pj<br/>
 &lt;Ederchil&gt; that would be simpler<br/>
-&lt;KingAragorn&gt; yeah ok, so i&#39;ll use my bot to add copyright notices     what about the naming?<br/>
+&lt;KingAragorn&gt; yeah ok, so i&#39;ll use my bot to add copyright notices what about the naming?<br/>
 &lt;Theoden1&gt; Sorry--I&#39;m back<br/>
 &lt;Ederchil&gt; well, it won&#39;t be botwork. <br/>
 &lt;Ederchil&gt; and it would require deletion rights. basically renaming all images Artist - Name of artwork<br/>

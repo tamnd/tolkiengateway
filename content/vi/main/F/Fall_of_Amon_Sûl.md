@@ -37,7 +37,7 @@ infobox:
 
 ### Mở đầu {#Prelude}
 
-Vào năm 1409, Vua Phù thủy của Angmar đã dẫn một đội quân lớn vượt sông [Hoarwell](../H/Hoarwell.md) chống lại vùng đất của [Cardolan](../C/Cardolan.md), sau khi bị đánh lui khỏi vùng đất của [Dúnedain](../D/Dúnedain.md) nhiều năm trước.
+Vào năm 1409, Vua Phù thủy Angmar đã dẫn một đội quân lớn vượt sông [Hoarwell](../H/Hoarwell.md) chống lại vùng đất của [Cardolan](../C/Cardolan.md), sau khi bị đánh lui khỏi vùng đất của [Dúnedain](../D/Dúnedain.md) nhiều năm trước.
 
 ### Cuộc bao vây {#Siege}
 

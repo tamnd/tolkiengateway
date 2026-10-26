@@ -87,7 +87,7 @@ Trong bản nháp đầu tiên, Noakes đã hỏi về [Bingo Baggins](../F/Frod
 
 <dl><dd>Old Noakes do Wolfgang Laugwitz thủ vai.</dd></dl>
 
-<b>2001: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i> (<a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(extended_edition).md" title="The Lord of the Rings: The Fellowship of the Ring (extended edition)">Phiên bản mở rộng</a>)</b>
+<b>2001: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i> (<a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(extended_edition).md" title="The Lord of the Rings: The Fellowship of the Ring (extended edition)">Bản mở rộng</a>)</b>
 
 <dl><dd></dd>
 <dd>Old Noakes có mặt trong cuộc trò chuyện của Gaffer, mặc dù bối cảnh đã được chuyển từ Ivy Bush sang Green Rồng. Khi Gaffer đề cập đến những người kỳ lạ đã được nhìn thấy trong Shire, Noakes lắc đầu và nói "Chiến tranh đang hình thành. Những ngọn núi đầy rẫy yêu tinh." Ông do <a href="../W/William_Johnson.md" title="William Johnson">William Johnson</a> thủ vai.</dd></dl>

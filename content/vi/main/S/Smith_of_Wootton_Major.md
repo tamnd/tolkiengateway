@@ -85,7 +85,7 @@ Ngôi sao không được tìm thấy trong Lễ hội nhưng đã bị [con tra
 
 Đã đến lúc diễn ra một Lễ Trẻ ngoan khác. Smith đã sở hữu năng khiếu của mình gần như suốt cuộc đời và đã đến lúc truyền lại nó cho một đứa trẻ khác. Vì vậy, anh tiếc nuối đã giao ngôi sao cho Alf, cùng với nó là cuộc phiêu lưu của anh vào Thần tiên. [Vua Xứ Tiên](../A/Alf.md), người đã trở thành Master Cook từ rất lâu trước đó, đã nướng nó vào chiếc bánh lễ hội một lần nữa để một đứa trẻ khác tìm thấy. Sau bữa tiệc, Alf nghỉ hưu và rời làng; và Smith quay trở lại lò rèn của mình để dạy nghề cho cậu con trai giờ đã trưởng thành.
 
-## Phiên bản mở rộng {#Extended_edition}
+## Bản mở rộng {#Extended_edition}
 
 Trong [2005](../_/2005.md), phiên bản mở rộng của *Smith of Wootton Major* đã được xuất bản, biên tập bởi [Verlyn Flieger](../V/Verlyn_Flieger.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
@@ -142,13 +142,13 @@ Vào [26 tháng 2](../_/26_February.md) [2015](../_/2015.md), ấn bản mở r�
 		</li>
 </ul>
 
-- [George Allen và Unwin](../G/George_Allen_and_Unwin.md), bìa cứng ([1967](../_/1967.md)), trang 62.
-- [George Allen và Unwin](../G/George_Allen_and_Unwin.md), bìa cứng ([1975](../_/1975.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0048231215">ISBN 0048231215</a>
+- [George Allen and Unwin](../G/George_Allen_and_Unwin.md), bìa cứng ([1967](../_/1967.md)), trang 62.
+- [George Allen and Unwin](../G/George_Allen_and_Unwin.md), bìa cứng ([1975](../_/1975.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0048231215">ISBN 0048231215</a>
 - [Giải phóng sách bìa mềm](../U/Unwin_Paperbacks.md), sách bìa mềm ([1983](../_/1983.md)), trang 78. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0048232327">ISBN 0048232327</a> - (với *[Leaf by Niggle](../L/Leaf_by_Niggle.md)*)
 - [Giải phóng Hyman](../U/Unwin_Hyman.md), bìa cứng ([1990](../_/1990.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0044407254">ISBN 0044407254</a>
 - [Giải phóng sách bìa mềm](../U/Unwin_Paperbacks.md), sách bìa mềm ([1990](../_/1990.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/004440722X">ISBN 004440722X</a>
 
-<dl><dt>Phiên bản mở rộng</dt></dl>
+<dl><dt>Bản mở rộng</dt></dl>
 
 <ul class="gallery mw-gallery-traditional">
 		<li class="gallerybox" style="width: 160px">

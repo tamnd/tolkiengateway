@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-<a class="new" href="https://tolkiengateway.net/w/index.php?title=Old_thrush&amp;action=edit&amp;redlink=1" title="Old thrush (page does not exist)">Con chim hét già</a> - [*The Hobbit* (phim 1977)](<../../main/T/The_Hobbit_(1977_film).md>)
+<a class="new" href="https://tolkiengateway.net/w/index.php?title=Old_thrush&amp;action=edit&amp;redlink=1" title="Old thrush (page does not exist)">Con chim hét già</a> - [*The Hobbit* (phim năm 1977)](<../../main/T/The_Hobbit_(1977_film).md>)
 
 ## Giấy phép {#Licensing}
 

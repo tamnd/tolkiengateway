@@ -13,7 +13,7 @@ categories:
   - "Tolkien Societies"
 ---
 
-**Hiệp hội Tolkien Argentina** (tiếng Tây Ban Nha: *La Asociación Tolkien Argentina*) là một [Tolkien hiệp hội](../T/Tolkien_societies.md) có trụ sở tại Argentina. Nó có vẻ hoạt động vào năm 2023. Có vẻ như nó đã chuyển từ trang web của mình (hiện không còn tồn tại) sang Facebook.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Một trang khác có tiêu đề tương tự nhưng dường như đây chỉ là một trang dành cho người hâm mộ.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Hội Tolkien Argentina** (tiếng Tây Ban Nha: *La Asociación Tolkien Argentina*) là một [Tolkien hiệp hội](../T/Tolkien_societies.md) có trụ sở tại Argentina. Nó có vẻ hoạt động vào năm 2023. Có vẻ như nó đã chuyển từ trang web của mình (hiện không còn tồn tại) sang Facebook.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Một trang khác có tiêu đề tương tự nhưng dường như đây chỉ là một trang dành cho người hâm mộ.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Liên kết ngoài {#External_links}
 

@@ -12,4 +12,4 @@ categories:
   - "The Lord of the Rings (1978 film)"
 ---
 
-Thể loại này liệt kê tất cả **The Lord of the Rings cảnh (phim 1978)**.
+Thể loại này liệt kê tất cả **The Lord of the Rings cảnh (phim năm 1978)**.

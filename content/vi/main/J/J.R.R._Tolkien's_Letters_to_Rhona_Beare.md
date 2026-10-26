@@ -37,7 +37,7 @@ Những bức thư của <i><b>J.R.R. Tolkien gửi Rhona Beare</b></i> là bả
 - [Thư gửi Rhona Beare (14 tháng 10 năm 1958)](<../L/Letter_to_Rhona_Beare_(14_October_1958).md>) (tương ứng với [Thư 211](../L/Letter_211.md))
 - [Thư gửi Rhona Beare (8 tháng 6 năm 1961)](<../L/Letter_to_Rhona_Beare_(8_June_1961).md>) (tương ứng với [Thư 230](../L/Letter_230.md))
 
-Cuốn sách nhỏ này đã được phân phát cho các thành viên của Hiệp hội Tolkien New England. 95 bản đã được in, mỗi bản được đánh số bằng tay bằng mực.<sup id="cite_ref-db_1-0" class="reference"><a href="#cite_note-db-1">[1]</a></sup>
+Cuốn sách nhỏ này đã được phân phát cho các thành viên của Hội Tolkien New England. 95 bản đã được in, mỗi bản được đánh số bằng tay bằng mực.<sup id="cite_ref-db_1-0" class="reference"><a href="#cite_note-db-1">[1]</a></sup>
 
 ## Những thay đổi trong *Letters* {#Changes_in_the_Letters}
 

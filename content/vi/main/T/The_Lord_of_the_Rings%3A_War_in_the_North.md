@@ -318,7 +318,7 @@ Nếu cần giúp đỡ bạn có thể gọi đại bàng Beleram, người có
 
 ## Phát triển {#Development}
 
-Quá trình phát triển War in the North bắt đầu vào đầu [2010](../_/2010.md) hoặc cuối [2009](../_/2009.md), [Công ty Saul Zaentz](../M/Middle-earth_Enterprises.md) đã nhận tên *The Lord of the Rings: War in the North* vào [tháng 6](../J/June.md) năm 2009.<sup id="cite_ref-39" class="reference"><a href="#cite_note-39">[38]</a></sup> Tuy nhiên, trò chơi đã không được công bố chính thức cho đến [18 tháng 3](../_/18_March.md) năm 2010.<sup id="cite_ref-40" class="reference"><a href="#cite_note-40">[39]</a></sup> Kể từ khi được công bố một số [hình ảnh](../../category/I/Images_from_The_Lord_of_the_Rings%253A_War_in_the_North.md), <a class="mw-selflink-fragment" href="#Traillers">đoạn giới thiệu</a> và ý tưởng nghệ thuật về một số địa điểm và nhân vật đã được phát hành.
+Quá trình phát triển War in the North bắt đầu vào đầu [2010](../_/2010.md) hoặc cuối [2009](../_/2009.md), [Saul Zaentz Company](../M/Middle-earth_Enterprises.md) đã nhận tên *The Lord of the Rings: War in the North* vào [tháng 6](../J/June.md) năm 2009.<sup id="cite_ref-39" class="reference"><a href="#cite_note-39">[38]</a></sup> Tuy nhiên, trò chơi đã không được công bố chính thức cho đến [18 tháng 3](../_/18_March.md) năm 2010.<sup id="cite_ref-40" class="reference"><a href="#cite_note-40">[39]</a></sup> Kể từ khi được công bố một số [hình ảnh](../../category/I/Images_from_The_Lord_of_the_Rings%253A_War_in_the_North.md), <a class="mw-selflink-fragment" href="#Traillers">đoạn giới thiệu</a> và ý tưởng nghệ thuật về một số địa điểm và nhân vật đã được phát hành.
 
 ### Vấn đề về tính liên tục {#Continuity_issues}
 
@@ -359,7 +359,7 @@ Kể từ thông báo đầu tiên vào tháng 3 năm 2010, Warner Bros. đã đ
 <td><a class="external text" href="http://www.youtube.com/watch?v=is_pfU9aEcU" rel="noreferrer noopener" target="_blank">Extended Fellowship Trailer</a></td>
 <td>1:34</td>
 <td>12 August 2010</td>
-<td>Phiên bản mở rộng của đoạn giới thiệu teaser
+<td>Bản mở rộng của đoạn giới thiệu teaser
 </td></tr>
 <tr>
 <td><a class="external text" href="http://www.youtube.com/watch?v=HihZA3tqe-Q" rel="noreferrer noopener" target="_blank">War in the North @ PAX 2010</a></td>

@@ -120,7 +120,7 @@ Trong ấn bản đầu tiên của *[The Fellowship of the Ring](../T/The_Fello
 
 <b>2001: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">Chúa tể những chiếc nhẫn: The Fellowship of the Ring</a></i></b>
 
-<dl><dd>Chế độ xem Caras Galadhon từ <a href="Cerin_Amroth.md" title="Cerin Amroth">Cerin Amroth</a> chỉ có trong Phiên bản mở rộng. Thời gian ở lại thành phố của Hiệp hội là một phần quan trọng của bộ phim.</dd></dl>
+<dl><dd>Chế độ xem Caras Galadhon từ <a href="Cerin_Amroth.md" title="Cerin Amroth">Cerin Amroth</a> chỉ có trong Bản mở rộng. Thời gian ở lại thành phố của Hiệp hội là một phần quan trọng của bộ phim.</dd></dl>
 
 <b>2002: <a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md" title="The Lord of the Rings: The Fellowship of the Ring (video game)"><i>The Lord of the Rings: The Fellowship of the Ring</i> (trò chơi điện tử)</a>:</b>
 

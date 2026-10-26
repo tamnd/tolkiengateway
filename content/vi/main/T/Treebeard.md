@@ -208,7 +208,7 @@ Giọng nói oang oang của Treebeard được lấy cảm hứng từ cách [C
 
 <dl><dd>Giọng của Treebeard được cung cấp bởi Leopold Haverl.</dd></dl>
 
-<b>2009: <i><a href="The_Lord_of_the_Rings%253A_Conquest.md" title="The Lord of the Rings: Conquest">The Lord of the Rings: Chinh phục</a></i>:</b>
+<b>2009: <i><a href="The_Lord_of_the_Rings%253A_Conquest.md" title="The Lord of the Rings: Conquest">The Lord of the Rings: Conquest</a></i>:</b>
 
 <dl><dd>Bob Joles đóng vai Treebeard, người tham gia Wormtongue trong Trận chiến Isengard.</dd>
 <dd>Trong Chiến dịch Ác ma, Treebeard và Ent rút lui về Shire khi quân đội của Sauron quét qua Trung Địa. Treebeard chiến đấu trong trận chiến cuối cùng nhưng bị <a href="../D/Durin&#39;s_Bane.md" title="Durin&#39;s Bane">Tai họa của Durin</a> giết chết.</dd></dl>

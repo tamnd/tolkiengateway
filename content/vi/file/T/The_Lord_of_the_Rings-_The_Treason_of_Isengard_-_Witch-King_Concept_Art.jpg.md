@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Concept art của [Witch-Vua](../../main/W/Witch-King~20091.md) trong [The Lord of the Rings: The Treason of Isengard](../../main/T/The_Lord_of_the_Rings%253A_The_Treason_of_Isengard.md).
+Concept art của [Vua Phù thủy](../../main/W/Witch-King~20091.md) trong [The Lord of the Rings: The Treason of Isengard](../../main/T/The_Lord_of_the_Rings%253A_The_Treason_of_Isengard.md).
 
 ## Giấy phép {#Licensing}
 

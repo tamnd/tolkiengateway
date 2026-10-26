@@ -138,7 +138,7 @@ Nếu hình ảnh đã được tạo cho Tolkien Gateway và nó chưa được
 <blockquote class="tg-quote noexcerpt">
 <p>This license lets others remix, tweak, and build upon your work non-commercially, and although their new works must also acknowledge you and be non-commercial, they don’t have to license their derivative works on the same terms.
 </p>
-<p class="tg-quote-footer"><cite>See: <a class="external text" href="http://creativecommons.org/licenses/by-nc/2.0/" rel="noreferrer noopener" target="_blank">Attribution-NonCommercial 2.0 Unported  License Deed</a></cite></p>
+<p class="tg-quote-footer"><cite>See: <a class="external text" href="http://creativecommons.org/licenses/by-nc/2.0/" rel="noreferrer noopener" target="_blank">Attribution-NonCommercial 2.0 Unported License Deed</a></cite></p>
 </blockquote>
 
 Để áp dụng mẫu này, chỉ cần sử dụng thẻ sau trong phần tóm tắt tải lên: "[{{CC-NC-2.0}}](https://tolkiengateway.net/wiki/Template:CC-NC-2.0)". Sau đây là một ví dụ về mẫu này đang được sử dụng:
@@ -264,7 +264,7 @@ Nếu hình ảnh đã được tạo cho Tolkien Gateway và nó chưa được
 <blockquote class="tg-quote noexcerpt">
 <p>This license lets others remix, tweak, and build upon your work non-commercially, and although their new works must also acknowledge you and be non-commercial, they don’t have to license their derivative works on the same terms.
 </p>
-<p class="tg-quote-footer"><cite>See: <a class="external text" href="http://creativecommons.org/licenses/by-nc/3.0/" rel="noreferrer noopener" target="_blank">Attribution-NonCommercial 3.0 Unported  License Deed</a></cite></p>
+<p class="tg-quote-footer"><cite>See: <a class="external text" href="http://creativecommons.org/licenses/by-nc/3.0/" rel="noreferrer noopener" target="_blank">Attribution-NonCommercial 3.0 Unported License Deed</a></cite></p>
 </blockquote>
 
 Để áp dụng mẫu này, chỉ cần sử dụng thẻ sau trong phần tóm tắt tải lên: "[{{CC-NC-3.0}}](https://tolkiengateway.net/wiki/Template:CC-NC-3.0)". Sau đây là một ví dụ về mẫu này đang được sử dụng:

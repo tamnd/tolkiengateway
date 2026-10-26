@@ -42,7 +42,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Thorin và Đoàn tùy tùng](../../main/T/Thorin_and_Company.md) - [*The Hobbit* (phim 1977)](<../../main/T/The_Hobbit_(1977_film).md>)
+[Thorin và Đoàn tùy tùng](../../main/T/Thorin_and_Company.md) - [*The Hobbit* (phim năm 1977)](<../../main/T/The_Hobbit_(1977_film).md>)
 
 ## Giấy phép {#Licensing}
 

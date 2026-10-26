@@ -76,7 +76,7 @@ Sự kiện xảy ra vào ngày 14 tháng 12
 - **[1970](1970.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư gửi W.A.R. Hadley](../L/Letter_to_W.A.R._Hadley.md).
 - <b><a href="1993.md" title="1993">1993</a> - <i><a href="../M/Morgoth&#39;s_Ring.md" title="Morgoth&#39;s Ring">Chiếc nhẫn của Morgoth</a></i> được xuất bản ở Mỹ.</b>
 - **[1997](1997.md)** - [Inkling](../I/Inklings.md) [Owen Barfield](../O/Owen_Barfield.md) qua đời.
-- **[2004](2004.md)** - *[The Lord of the Rings: The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)* ([Phiên bản mở rộng](<../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_(extended_edition).md>)) được phát hành dưới dạng DVD.
+- **[2004](2004.md)** - *[The Lord of the Rings: The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)* ([Bản mở rộng](<../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_(extended_edition).md>)) được phát hành dưới dạng DVD.
 - <b><a href="2012.md" title="2012">2012</a> - <i><a href="../T/The_Hobbit%253A_An_Unexpected_Journey.md" title="The Hobbit: An Unexpected Journey">The Hobbit: An Unexpected Journey</a></i> được phát hành ở Ấn Độ và Bắc Mỹ.</b>
 
 ## Trong Arda {#In_Arda}

@@ -70,7 +70,7 @@ Sự kiện xảy ra vào ngày 2 tháng 7.
 - **[2003](2003.md)** - "Ent of Fangorn", bộ thứ sáu trong *[The Lord of the Rings Trading Card Game](../T/The_Lord_of_the_Rings_Trading_Card_Game.md)*, được phát hành.
 - **[2004](2004.md)** - [The Lord of the Rings Symphony](../T/The_Lord_of_the_Rings_Symphony.md) tại Jones Hall ở <a class="extiw" href="http://en.wikipedia.org/wiki/Houston" title="wikipedia:Houston">Houston</a>.
 - **[2006](2006.md)** - [Hội nghị tập hợp các học bổng](../T/The_Gathering_of_the_Fellowship.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Toronto" title="wikipedia:Toronto">Toronto</a>.
-- **[2006](2006.md)** - [Pieter Collier](../P/Pieter_Collier.md) được trao *Giải thưởng [Hiệp hội Tolkien Đông Bắc](../N/North_East_Tolkien_Society.md) Ngọn lửa bất diệt năm 2006* thường niên lần thứ nhất cho bộ sưu tập đồ sộ của ông.
+- **[2006](2006.md)** - [Pieter Collier](../P/Pieter_Collier.md) được trao *Giải thưởng [Hội Tolkien Đông Bắc](../N/North_East_Tolkien_Society.md) Ngọn lửa bất diệt năm 2006* thường niên lần thứ nhất cho bộ sưu tập đồ sộ của ông.
 - **[2020](2020.md)** - [Andy Serkis](../A/Andy_Serkis.md) xuất bản *The Hobbit* dưới dạng sách nói. Nó hiện có sẵn trên Audible.
 
 ## Trong Arda {#In_Arda}

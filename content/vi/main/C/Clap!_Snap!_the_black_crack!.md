@@ -88,7 +88,7 @@ Hô, hô! chàng trai của tôi!
 
 <b>2012: <i><a href="../T/The_Hobbit%253A_An_Unexpected_Journey.md" title="The Hobbit: An Unexpected Journey">The Hobbit: An Unexpected Journey</a></i>:</b>
 
-<dl><dd>Trong Phiên bản mở rộng, Great Goblin được giới thiệu hát bài hát đó với những thần dân còn lại của hắn khi Người Lùn đến, ngay trước khi hắn thẩm vấn họ. Sau khi hoàn thành, ông hỏi Người Lùn họ nghĩ gì về sáng tác của ông. <a href="../B/Balin.md" title="Balin">Balin</a> phản bác rằng đó không phải là một bài hát mà là một "sự ghê tởm".</dd></dl>
+<dl><dd>Trong Bản mở rộng, Great Goblin được giới thiệu hát bài hát đó với những thần dân còn lại của hắn khi Người Lùn đến, ngay trước khi hắn thẩm vấn họ. Sau khi hoàn thành, ông hỏi Người Lùn họ nghĩ gì về sáng tác của ông. <a href="../B/Balin.md" title="Balin">Balin</a> phản bác rằng đó không phải là một bài hát mà là một "sự ghê tởm".</dd></dl>
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
 <p>Vỗ tay! Chụp! Vết nứt đen!<br/>

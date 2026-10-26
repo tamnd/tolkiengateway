@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Ori Người lùn](../../main/O/Ori.md) - [LEGO](../../main/L/Lego.md) mô hình nhỏ
+[Ori Người Lùn](../../main/O/Ori.md) - [LEGO](../../main/L/Lego.md) mô hình nhỏ
 
 ## Giấy phép {#Licensing}
 

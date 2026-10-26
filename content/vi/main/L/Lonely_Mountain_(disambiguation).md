@@ -28,7 +28,7 @@ images:
 
 ### Trò chơi {#Games}
 
-- *[The Lonely Mountain](../T/The_Lonely_Mountain.md)*, một trò chơi board [1984](../_/1984.md) của [Vương miện Sắt Enterprises](../I/Iron_Crown_Enterprises.md)
+- *[The Lonely Mountain](../T/The_Lonely_Mountain.md)*, một trò chơi board [1984](../_/1984.md) của [Iron Crown Enterprises](../I/Iron_Crown_Enterprises.md)
 
 <hr style="margin-top:15px;"/>
 

@@ -22,7 +22,7 @@ images:
 
 Ấn bản này được tạo ra từ sự thành công của bộ phim được chiếu rạp và được phát hành dưới dạng DVD [12 tháng 11](../_/12_November.md), [2002](../_/2002.md) cùng với bốn bài bình luận và hàng giờ tài liệu bổ sung. Nó thành công đến mức các phần tiếp theo đều được phát hành tương tự. Đặc điểm chính của nó là, thay vì chỉ chèn những cảnh đã xóa, [Peter Jackson](../P/Peter_Jackson.md) tiếp cận phiên bản này như thể ông đang tạo ra một phiên bản hoàn toàn mới của bộ phim. Ông và người biên tập, John Gilbert, đã đánh giá tài liệu chưa được phát hành và làm việc để hoàn thiện nó giống như phần còn lại của tính năng. Hiệu ứng hình ảnh đã được hoàn thiện, lời thoại được ghi âm, hiệu ứng âm thanh được tạo ra và để đảm bảo tất cả các cảnh quay đều trôi chảy, [Howard Shore](../H/Howard_Shore.md) đã sáng tác và ghi âm bản nhạc mới cùng với Dàn nhạc Giao hưởng London.
 
-## Phiên bản mở rộng đặc biệt - Phần thứ nhất (đĩa 1) {#Special_Extended_Edition_-_Part_One_(disc_1)}
+## Bản mở rộng đặc biệt - Phần thứ nhất (đĩa 1) {#Special_Extended_Edition_-_Part_One_(disc_1)}
 
 Đĩa đầu tiên chứa phiên bản mở rộng của phim với phần bình luận bằng âm thanh sau:
 
@@ -49,7 +49,7 @@ images:
 - 25\. [Thanh kiếm đã gãy](The_Sword_that_Was_Broken.md)
 - 27\. [Cái Hội đồng Elrond](<The_Council_of_Elrond_(scene).md>)
 
-## Phiên bản mở rộng đặc biệt - Phần thứ hai (đĩa 2) {#Special_Extended_Edition_-_Part_Two_(disc_2)}
+## Bản mở rộng đặc biệt - Phần thứ hai (đĩa 2) {#Special_Extended_Edition_-_Part_Two_(disc_2)}
 
 Đĩa này là sự tiếp nối của đĩa đầu tiên.
 

@@ -68,7 +68,7 @@ Pero esta obra también es un viaje en el tiempo, a otra época và otro mundo, 
 
 ## Liên kết ngoài {#External_links}
 
-- Bài nói chuyện của <a class="external text" href="https://www.youtube.com/watch?v=2u6Zx31PgLo" rel="noreferrer noopener" target="_blank">Ferrández Bru</a> và <a class="external text" href="https://www.youtube.com/watch?v=1NhxgIBVG8c&amp;pp=ygUeZmVybmFuZG8gZnJpYXMgc2FuY2hleiB0b2xraWVu" rel="noreferrer noopener" target="_blank">Frías Sánchez</a> trên kênh YouTube của [Hiệp hội Tolkien Mexico](../M/Mexican_Tolkien_Society.md) **(tiếng Tây Ban Nha)**
+- Bài nói chuyện của <a class="external text" href="https://www.youtube.com/watch?v=2u6Zx31PgLo" rel="noreferrer noopener" target="_blank">Ferrández Bru</a> và <a class="external text" href="https://www.youtube.com/watch?v=1NhxgIBVG8c&amp;pp=ygUeZmVybmFuZG8gZnJpYXMgc2FuY2hleiB0b2xraWVu" rel="noreferrer noopener" target="_blank">Frías Sánchez</a> trên kênh YouTube của [Hội Tolkien Mexico](../M/Mexican_Tolkien_Society.md) **(tiếng Tây Ban Nha)**
 - <a class="external text" href="https://issuu.com/sociedadtolkiencolombiaorodruin/docs/14._marzo_2023/23" rel="noreferrer noopener" target="_blank">Bài đánh giá</a> của Daniel A. Penagos trong *[Dragón Verde 14](../S/Sociedad_Tolkien_Colombia_Orodruin.md)*, trang 21-22 **(Tiếng Tây Ban Nha)**
 
 <div class="mw-references-wrap"><ol class="references">
